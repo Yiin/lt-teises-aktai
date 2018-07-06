@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/093a9010eb0b11e7acd7ea182930b17f"
 
 # Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2018-02-01 iki 2018-07-05
+Suvestinė redakcija nuo 2018-07-06
  
 Įstatymas paskelbtas: TAR 2017-12-27, i. k. 2017-21305
  
@@ -1903,32 +1903,29 @@ Profesinio mokymo įstaigų finansavimo lėšas sudaro:
 
 
 
-3) Užimtumo fondo lėšos;
+3) tarptautinių ir užsienio fondų ir organizacijų skiriamos lėšos;
 
 
 
 
-4) tarptautinių ir užsienio fondų ir organizacijų skiriamos lėšos;
+4) lėšos, gautos kaip parama pagal Lietuvos Respublikos labdaros ir paramos įstatymą;
 
 
 
 
-5) lėšos, gautos kaip parama pagal Lietuvos Respublikos labdaros ir paramos įstatymą;
+5) socialinių partnerių lėšos;
 
 
 
 
-6) socialinių partnerių lėšos;
+6) kitos teisėtai gautos lėšos. 
 
 
 
 
-7) kitos teisėtai gautos lėšos. 
+Straipsnio pakeitimai:
+Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
  
-
-
-
-
 
 
 
@@ -2011,17 +2008,26 @@ Profesinio mokymo įstaigų finansavimo lėšas sudaro:
 
 
 
-5. Mokymo lėšos formaliajam profesiniam mokymui skiriamos iš valstybės biudžeto, valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, Europos Sąjungos struktūrinių fondų, darbdavių lėšų, Užimtumo fondo ir (ar) kitų lėšų, taikant Vyriausybės patvirtintą profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką. Mokymo lėšos pataisos pareigūnų profesinio mokymo įstaigų vykdomam profesiniam mokymui skiriamos taikant Vyriausybės patvirtintą pataisos pareigūnų profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką, o mokymo lėšos vidaus reikalų profesinio mokymo įstaigų vykdomam profesiniam mokymui – taikant Vyriausybės patvirtintą vidaus reikalų profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką.
+5. Mokymo lėšos formaliajam profesiniam mokymui skiriamos iš valstybės biudžeto, valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, Europos Sąjungos struktūrinių fondų, darbdavių lėšų ir (ar) kitų lėšų, taikant Vyriausybės patvirtintą profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką. Mokymo lėšos pataisos pareigūnų profesinio mokymo įstaigų ir vidaus reikalų profesinio mokymo įstaigų vykdomam profesiniam mokymui skiriamos taikant Vyriausybės patvirtintą vidaus reikalų ir pataisos pareigūnų profesinio mokymo įstaigų profesinio mokymo lėšų skaičiavimo vienam mokiniui metodiką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
+ 
 
 
 
 
-6. Teisės aktų nustatyta tvarka neformalųjį profesinį mokymą finansuoja mokymą užsakantis fizinis ar juridinis asmuo, jis gali būti remiamas iš valstybės, savivaldybių biudžetų, Europos Sąjungos struktūrinių fondų, darbdavių lėšų, Užimtumo fondo ir (ar) kitų lėšų.
+6. Neformalųjį profesinį mokymą finansuoja mokymą užsakantis fizinis ar juridinis asmuo, jis gali būti remiamas iš valstybės, savivaldybių biudžetų, Europos Sąjungos struktūrinių fondų, darbdavių lėšų ir (ar) kitų lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
+ 
 
 
 
 
-7. Profesinio mokymo įstaigoms bei profesinio mokymo teikėjams, vykdantiems valstybės finansuojamą profesinį mokymą, mokymo lėšų skiriama iš valstybės biudžeto, valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, savivaldybių biudžetų, Europos Sąjungos struktūrinių fondų, darbdavių lėšų, Užimtumo fondo ir (ar) kitų lėšų.
+7. Profesinio mokymo įstaigoms bei profesinio mokymo teikėjams, vykdantiems valstybės finansuojamą profesinį mokymą, mokymo lėšų skiriama iš valstybės biudžeto, valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, savivaldybių biudžetų, Europos Sąjungos struktūrinių fondų, darbdavių lėšų ir (ar) kitų lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
+ 
 
 
 
@@ -2057,7 +2063,10 @@ Nr. XIII-986, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00961
 
 
 
-13. Valstybės ir savivaldybės profesinio mokymo įstaigai ūkio lėšas skiria savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), nevalstybinei profesinio mokymo įstaigai – savininkas (dalyvių susirinkimas). Viešosioms profesinio mokymo įstaigoms gali būti skiriama ūkio lėšų iš valstybės biudžeto, savivaldybių biudžetų ar Užimtumo fondo arba kitų lėšų. Savivaldybių profesinio mokymo įstaigoms gali būti skiriama ūkio lėšų iš atitinkamų metų valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams pagal Vyriausybės patvirtintą metodiką.
+13. Valstybės ir savivaldybės profesinio mokymo įstaigai ūkio lėšas skiria savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), nevalstybinei profesinio mokymo įstaigai – savininkas (dalyvių susirinkimas). Viešosioms profesinio mokymo įstaigoms gali būti skiriama ūkio lėšų iš valstybės biudžeto, savivaldybių biudžetų arba kitų lėšų. Savivaldybių profesinio mokymo įstaigoms gali būti skiriama ūkio lėšų iš atitinkamų metų valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams pagal Vyriausybės patvirtintą metodiką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
+ 
 
 
 
@@ -2147,7 +2156,10 @@ Teisės į valstybės finansuojamą profesinį mokymą neturi:
 
 
 
-4. Profesiniam mokymui, apmokamam valstybės biudžeto lėšomis, Užimtumo fondo lėšomis ir Europos Sąjungos struktūrinių fondų lėšomis, neatsižvelgus į asignavimų valdytoją, nustatomas vienodas fiksuoto įkainio dydis.
+4. Profesiniam mokymui, apmokamam valstybės biudžeto lėšomis ir Europos Sąjungos struktūrinių fondų lėšomis, neatsižvelgus į asignavimų valdytoją, nustatomas vienodas fiksuoto įkainio dydis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
+ 
 
 
 
@@ -2892,3 +2904,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-986, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00961
 Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1345, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11443
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatymo Nr. XIII-888 1 straipsnio pakeitimo įstatymas
