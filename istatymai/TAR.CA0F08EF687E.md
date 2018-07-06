@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CA0F08EF687E"
 
 # Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-07-05
+Suvestinė redakcija nuo 2018-07-06 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 91-3190, i. k. 1011010ISTA00IX-547
  
@@ -321,7 +321,10 @@ Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
 
 
 
-2. Fondo biudžeto pajamos iš valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių, skirtos padengti šio biudžeto išlaidoms dėl pensijų socialinio draudimo įmokų dalies pervedimo pensijų kaupimo bendrovėms, planuojamos atsižvelgiant į šio straipsnio 1 dalies 1 punkte ir 6 straipsnio 1 dalies 2 punkte numatytus rodiklius.
+2. Netenka galios 2018-07-06.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1337, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11430
+ 
 
 
 
@@ -367,39 +370,28 @@ Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
 
 
 1) pensijų socialiniam draudimui – Fondo išlaidos socialinio draudimo pensijoms, išankstinėms socialinio draudimo senatvės pensijoms ir kompensacijoms už ypatingas darbo sąlygas, numatytoms Lietuvos Respublikos socialinio draudimo pensijų įstatyme, taip pat šių išmokų gavėjus laidojusiems asmenims šioje dalyje nurodyto įstatymo nustatyta tvarka išmokėtos sumos; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-825, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20049
- 
 
 
 
 
-2) lėšos, pervedamos į pensijų fondus, – pensijų kaupimo bendrovėms pervedamos pensijų socialinio draudimo įmokų dalies, numatytos Lietuvos Respublikos pensijų sistemos reformos įstatyme, sumos;
+2) ligos socialiniam draudimui – Fondo biudžeto išlaidos socialinio draudimo išmokoms, numatytoms Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatyme, ir savanoriškojo socialinio draudimo ligos išmokoms;
 
 
 
 
-3) ligos socialiniam draudimui – Fondo biudžeto išlaidos socialinio draudimo išmokoms, numatytoms Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatyme, ir savanoriškojo socialinio draudimo ligos išmokoms;
+3) motinystės socialiniam draudimui – Fondo biudžeto išlaidos socialinio draudimo išmokoms, numatytoms Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatyme, ir savanoriškojo socialinio draudimo motinystės išmokoms;
 
 
 
 
-4) motinystės socialiniam draudimui – Fondo biudžeto išlaidos socialinio draudimo išmokoms, numatytoms Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatyme, ir savanoriškojo socialinio draudimo motinystės išmokoms;
+4) nedarbo socialiniam draudimui – Fondo biudžeto išlaidos nedarbo socialinio draudimo išmokoms ir dalinio darbo išmokoms, numatytoms Lietuvos Respublikos nedarbo socialinio draudimo įstatyme;
 
 
 
 
-5) nedarbo socialiniam draudimui – Fondo biudžeto išlaidos nedarbo socialinio draudimo išmokoms ir dalinio darbo išmokoms, numatytoms Lietuvos Respublikos nedarbo socialinio draudimo įstatyme, bei Lietuvos Respublikos užimtumo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti;
+5) nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui (toliau – nelaimingų atsitikimų darbe socialinis draudimas) – Fondo biudžeto išlaidos visų rūšių socialinio draudimo išmokoms, numatytoms Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme. 
 
 
-
-
-6) nelaimingų atsitikimų darbe ir profesinių ligų socialiniam draudimui (toliau – nelaimingų atsitikimų darbe socialinis draudimas) – Fondo biudžeto išlaidos visų rūšių socialinio draudimo išmokoms, numatytoms Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
- 
 
 
 
@@ -412,7 +404,7 @@ Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
 
 
 
-2) Fondo veiklos sąnaudos – Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų darbo užmokesčio ir už juos mokamų įmokų sumos, prekių ir paslaugų įsigijimo, ilgalaikio materialiojo turto ir nematerialiojo turto nusidėvėjimo (amortizacijos) sąnaudos, ilgalaikio turto likutinės vertės dalis, viršijanti pajamas, gautinas pardavus šį turtą, ekspertinių paslaugų išlaidos, kitos Fondo sąnaudos (palūkanos, delspinigiai, nuostolis dėl į Fondo apskaitą įtraukto turto vertės sumažėjimo ir kt.), patiriamos administruojant visų rūšių socialinį draudimą, socialinio draudimo išmokas, mokamas pagal tarptautines sutartis ar Europos Sąjungos reglamentus dėl socialinės apsaugos, Fondo valdybos administruojamus registrus, pensijų socialinio draudimo įmokų dalies pervedimą pensijų kaupimo bendrovėms, išmokų, finansuojamų iš Lietuvos Respublikos valstybės biudžeto ar kitų šaltinių, apskaičiavimą ir mokėjimą.
+2) Fondo veiklos sąnaudos – Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų darbo užmokesčio ir už juos mokamų įmokų sumos, prekių ir paslaugų įsigijimo, ilgalaikio materialiojo turto ir nematerialiojo turto nusidėvėjimo (amortizacijos) sąnaudos, ilgalaikio turto likutinės vertės dalis, viršijanti pajamas, gautinas pardavus šį turtą, ekspertinių paslaugų išlaidos, kitos Fondo sąnaudos (palūkanos, delspinigiai, nuostolis dėl į Fondo apskaitą įtraukto turto vertės sumažėjimo ir kt.), patiriamos administruojant visų rūšių socialinį draudimą, socialinio draudimo išmokas, mokamas pagal tarptautines sutartis ar Europos Sąjungos reglamentus dėl socialinės apsaugos, Fondo valdybos administruojamus registrus, išmokų, finansuojamų iš Lietuvos Respublikos valstybės biudžeto ar kitų šaltinių, apskaičiavimą ir mokėjimą, atliekant kitas Fondo administravimo įstaigoms pavestas funkcijas.
 
 
 
@@ -424,16 +416,16 @@ Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
 
 
 
-4. Fondo administravimo įstaigų veiklos sąnaudoms gali būti skiriama iki 3 procentų Fondo biudžeto išlaidų.
-Papildyta straipsnio dalimi:
-Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
- 
-
-
+4. Fondo administravimo įstaigų veiklos sąnaudoms gali būti skiriama iki 3 procentų Fondo biudžeto išlaidų. 
+TAR pastaba. 5 straipsnio nuostatos taikomos rengiant, tvirtinant, vykdant, vertinant 2019 metų ir vėlesnių metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžetą ir atsiskaitant už 2019 metų ir vėlesnių metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto vykdymą.
 Straipsnio pakeitimas:
 Nr. XI-308, 2009-06-18, Žin., 2009, Nr. 77-3172 (2009-06-30)
 Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
 Nr. XII-124, 2012-12-20, Žin., 2012, Nr. 154-7930 (2012-12-29)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1337, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11430
  
 
 
@@ -450,32 +442,27 @@ Fondo biudžeto išlaidos kitiems biudžetiniams metams planuojamos:
 
 
 
-2) lėšos, pervedamos į pensijų fondus, – atsižvelgiant į šalies ekonominės raidos scenarijų, kitiems biudžetiniams metams patvirtintą pensijų socialinio draudimo įmokų tarifą pensijų kaupimui, draudžiamųjų pajamų bazės, savarankiškai dirbančių asmenų socialiniam draudimui deklaruotų pajamų sumų ir asmenų, sudariusių pensijų kaupimo sutartis, skaičiaus kitimą per paskutinius dvejus metus, naujai sudarytų pensijų kaupimo sutarčių, įsigaliojančių kitais biudžetiniais metais, skaičių;
+2) neatgautinos ir abejotinai atgautinos sumos – atsižvelgiant į neatgautinų ir abejotinai atgautinų sumų nuvertėjimo nuostolių sumą bei jos kitimo tendencijas per paskutinius dvejus metus; 
 
 
 
 
-3) neatgautinos ir abejotinai atgautinos sumos – atsižvelgiant į neatgautinų ir abejotinai atgautinų sumų nuvertėjimo nuostolių sumą bei jos kitimo tendencijas per paskutinius dvejus metus; 
+3) Fondo veiklos sąnaudos – atsižvelgiant į Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų darbo užmokesčio kitimo prognozes, numatomus pokyčius Fondo administravimo įstaigų sistemoje ir veiklos sąnaudų kitimo per paskutinius dvejus metus tendencijas;
 
 
 
 
-4) Fondo veiklos sąnaudos – atsižvelgiant į Fondo administravimo įstaigų valstybės tarnautojų ir darbuotojų darbo užmokesčio kitimo prognozes, numatomus pokyčius Fondo administravimo įstaigų sistemoje ir veiklos sąnaudų kitimo per paskutinius dvejus metus tendencijas;
-
-
-
-
-5) Fondo veiklos sąnaudos, skirtos išmokų, finansuojamų iš valstybės biudžeto, skyrimo, mokėjimo ir pristatymo sąnaudoms atlyginti, planuojamos atsižvelgiant į numatomą išmokų sumą ir procentinę dalį, skiriamą šioms išmokoms administruoti. Fondo veiklos sąnaudos, skirtos įmokų pervedimo ar įmokų surinkimo ir pervedimo į fondus sąnaudoms atlyginti, planuojamos atsižvelgiant į numatomą įmokų sumą ir procentinę dalį, skiriamą šioms išmokoms administruoti.
-Straipsnio punkto pakeitimai:
-Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
- 
+4) Fondo veiklos sąnaudos, skirtos išmokų, finansuojamų iš valstybės biudžeto, skyrimo, mokėjimo ir pristatymo sąnaudoms atlyginti, planuojamos atsižvelgiant į numatomą išmokų sumą ir procentinę dalį, skiriamą šioms išmokoms administruoti. Fondo veiklos sąnaudos, skirtos įmokų surinkimo ir pervedimo į fondus sąnaudoms atlyginti, planuojamos atsižvelgiant į numatomą įmokų sumą ir procentinę dalį, skiriamą šioms išmokoms administruoti. 
+TAR pastaba. 6 straipsnio nuostatos taikomos rengiant, tvirtinant, vykdant, vertinant 2019 metų ir vėlesnių metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžetą ir atsiskaitant už 2019 metų ir vėlesnių metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto vykdymą.
+Straipsnio pakeitimai:
+Nr. XI-2275, 2012-10-16, Žin., 2012, Nr. 127-6384 (2012-11-03)
+Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
 
 
 
 
 Straipsnio pakeitimai:
-Nr. XI-2275, 2012-10-16, Žin., 2012, Nr. 127-6384 (2012-11-03)
-Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
+Nr. XIII-1337, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11430
  
 
 
@@ -509,9 +496,11 @@ Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
 
 
 
-6. Pinigų cirkuliacijai užtikrinti kasos apyvartos lėšų suma turi būti ne mažesnė kaip vidutinė Fondo biudžeto pusės mėnesio išlaidų suma ir vidutinė vieno mėnesio įmokų, pervedamų į kaupiamųjų pensijų socialinio draudimo įmokų sąskaitą, suma. 
+6. Pinigų cirkuliacijai užtikrinti kasos apyvartos lėšų suma turi būti ne mažesnė kaip vidutinė Fondo biudžeto pusės mėnesio išlaidų suma. 
+TAR pastaba. 6 dalies nuostatos taikomos rengiant, tvirtinant, vykdant, vertinant 2019 metų ir vėlesnių metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžetą ir atsiskaitant už 2019 metų ir vėlesnių metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto vykdymą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-825, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20049
+Nr. XIII-1337, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11430
  
 
 
@@ -641,52 +630,33 @@ Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
 
 
 
-3) įmokų tarifai (draudėjų bendrasis pensijų, ligos, motinystės ir nedarbo įmokų tarifas ir jo dydžiai atskiroms socialinio draudimo rūšims; šalies bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, nelaimingų atsitikimų darbe įmokos tarifų grupių skaičius ir šių grupių tarifai; apdraustųjų bendrasis įmokų tarifas);
+3) įmokų tarifai (draudėjų nedarbo draudimo įmokų tarifas; šalies bendrasis nelaimingų atsitikimų darbe socialinio draudimo įmokos tarifas, nelaimingų atsitikimų darbe įmokos tarifų grupių skaičius ir šių grupių tarifai; apdraustųjų bendrasis pensijų, ligos ir motinystės draudimo įmokų tarifas);
 
 
 
 
-4) nedarbo socialinio draudimo lėšų Lietuvos Respublikos užimtumo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti dydis;
+4) valstybės biudžeto asignavimų, skirtų bendrajai pensijos daliai finansuoti, dydis;
 
 
 
 
-5) apdraustųjų, dalyvaujančių pensijų kaupime, pensijų socialinio draudimo įmokų dalies, pervedamos pensijų kaupimo bendrovėms, tarifas;
+5) asignavimų iš valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių dydis;
 
 
 
 
-6) pensijų socialinio draudimo įmokų tarifo dalis, skirta socialinio draudimo pensijos individualiajai daliai gauti; 
+6) dydis, skirtas Fondo veiklos sąnaudų kompensacijai už išmokų, finansuojamų iš valstybės biudžeto, skyrimą, mokėjimą, pristatymą ir išieškojimą apskaičiuoti, išreikštas kaip procentinė dalis nuo šioms išmokoms skirtos valstybės biudžeto lėšų sumos;
 
 
 
 
-7) pensijų socialinio draudimo įmokų tarifo dalis, skirta socialinio draudimo pensijos bendrajai daliai gauti; 
+7) dydis, skirtas Fondo veiklos sąnaudų kompensacijai už įmokų pervedimą ar įmokų surinkimą ir pervedimą į fondus apskaičiuoti, išreikštas kaip procentinė dalis nuo planuojamos šių įmokų surinkimo sumos;
 
 
 
 
-8) valstybės biudžeto asignavimų, skirtų bendrajai pensijos daliai finansuoti, dydis;
-
-
-
-
-9) asignavimų iš valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių dydis;
-
-
-
-
-10) dydis, skirtas Fondo veiklos sąnaudų kompensacijai už išmokų, finansuojamų iš valstybės biudžeto, skyrimą, mokėjimą, pristatymą ir išieškojimą apskaičiuoti, išreikštas kaip procentinė dalis nuo šioms išmokoms skirtos valstybės biudžeto lėšų sumos;
-
-
-
-
-11) dydis, skirtas Fondo veiklos sąnaudų kompensacijai už įmokų pervedimą ar įmokų surinkimą ir pervedimą į fondus apskaičiuoti, išreikštas kaip procentinė dalis nuo planuojamos šių įmokų surinkimo sumos;
-
-
-
-
-12) kiti rodikliai, būtini Fondo biudžetui vykdyti. 
+8) kiti rodikliai, būtini Fondo biudžetui vykdyti. 
+TAR pastaba. 1 dalies nuostatos taikomos rengiant, tvirtinant, vykdant, vertinant 2019 metų ir vėlesnių metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžetą ir atsiskaitant už 2019 metų ir vėlesnių metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto vykdymą.
 
 
 Straipsnio dalies pakeitimai:
@@ -694,6 +664,7 @@ Nr. XII-667, 2013-12-12, Žin., 2013, Nr. 140-7049 (2013-12-30); paskelbta TAR 2
 Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
 Nr. XIII-131, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29835
 Nr. XIII-825, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20049
+Nr. XIII-1337, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11430
  
 
 
@@ -868,7 +839,7 @@ Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
 
 
 
@@ -1038,3 +1009,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-825, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20049
 Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 2, 4, 5, 7 ir 11 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1337, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11430
+Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 4, 5, 6, 7 ir 11 straipsnių pakeitimo įstatymas
