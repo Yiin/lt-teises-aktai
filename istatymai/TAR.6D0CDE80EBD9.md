@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/6d0cde80ebd911e7acd7ea182930b17f"
 
 # Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 4, 7, 15, 16, 24 straipsnių pakeitimo ir 17, 18 straipsnių pripažinimo netekusiais galios įstatymas
 
+Suvestinė redakcija nuo 2018-07-06 iki 2018-12-20
+ 
+Įstatymas paskelbtas: TAR 2017-12-28, i. k. 2017-21483
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ŠALPOS PENSIJŲ ĮSTATYMO NR. I-675 1, 4, 7, 15, 16, 24 STRAIPSNIŲ PAKEITIMO IR 17, 18 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
 ĮSTATYMAS
@@ -95,22 +102,10 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 
 
 
-3 straipsnis. 7 straipsnio pakeitimas
-
-
-Pakeisti 7 straipsnio 3 dalį ir ją išdėstyti taip:
-
-
-
-
-„3. Šio įstatymo 5 straipsnio 5 punkte ir 6 straipsnio 3 punkte nurodytiems asmenims šalpos pensijos skiriamos ir mokamos, jeigu jie nėra privalomai draudžiami valstybiniu pensijų socialiniu draudimu pagal Lietuvos Respublikos valstybinio socialinio draudimo įstatymą, išskyrus asmenis, nurodytus Valstybinio socialinio draudimo įstatymo 6 straipsnyje.“
+3 straipsnis. Neteko galios nuo 2018-07-06
+Straipsnio naikinimas:
+Nr. XIII-1349, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11451
  
-
-
-
-
-
-
 
 
 
@@ -141,7 +136,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 
 
-4. Šalpos išmokas mokanti įstaiga per 10 darbo dienų nuo prašymo skirti šalpos išmoką ar atnaujinti (pratęsti) šalpos išmokos mokėjimą kartu su visais reikiamais dokumentais arba papildomų dokumentų gavimo šalpos išmokas mokančioje įstaigoje dienos privalo priimti sprendimą dėl šalpos išmokos skyrimo ar atnaujinimo (pratęsimo) ir apie tai raštu pranešti pareiškėjui. 
+4. Šalpos išmokas mokanti įstaiga per 10 darbo dienų nuo prašymo skirti šalpos išmoką ar atnaujinti (pratęsti) šalpos išmokos mokėjimą kartu su visais reikiamais dokumentais arba papildomų dokumentų gavimo šalpos išmokas mokančioje įstaigoje dienos privalo priimti sprendimą dėl šalpos išmokos skyrimo ar mokėjimo atnaujinimo (pratęsimo) ir apie tai raštu pranešti pareiškėjui. 
 
 
 
@@ -156,12 +151,12 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 
 
-7. Šalpos neįgalumo pensijos šio įstatymo 5 straipsnio 4 punkte nurodytiems asmenims, šalpos senatvės pensijos šio įstatymo 6 straipsnio 2 punkte nurodytiems asmenims ir šalpos kompensacijos šio įstatymo 12 straipsnio 2 punkte nurodytiems asmenims skiriamos ir mokamos tik tuo atveju, jeigu jų vaikams nebuvo nustatyta nuolatinė globa ar rūpyba. 
+7. Šalpos neįgalumo pensijos šio įstatymo 5 straipsnio 4 punkte nurodytiems asmenims ir šalpos kompensacijos šio įstatymo 12 straipsnio 2 punkte nurodytiems asmenims skiriamos ir mokamos tik tuo atveju, jeigu jų vaikams nebuvo nustatyta nuolatinė globa ar rūpyba.
 
 
 
 
-8. Šalpos našlaičių pensija neskiriama, o paskirtosios mokėjimas nutraukiamas nuo kito mėnesio pirmos dienos asmenims, teismo nuosprendžiu pripažintiems kaltais už tyčinį asmens, už kurį ši pensija skiriama ir mokama, gyvybės atėmimą. 
+8. Asmenims, teismo nuosprendžiu pripažintiems kaltais už tyčinį asmens, už kurį ši pensija skiriama ir mokama, gyvybės atėmimą, šalpos našlaičių pensija neskiriama, o paskirtosios mokėjimas nutraukiamas nuo kito mėnesio pirmos dienos po to, kai įsiteisėjo teismo nuosprendis.
 
 
 
@@ -171,7 +166,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 
 
-10. Kai šio straipsnio 9 dalyje nurodyti asmenys laikinai ar visam laikui išvyksta iš socialinės globos ar švietimo įstaigos, šalpos išmokos skiriamos, o paskirtųjų mokėjimas atnaujinamas nuo kitos dienos po to, kai jie išvyko iš šių įstaigų. Jeigu šie asmenys vėl grįžta į nurodytas įstaigas, šalpos išmokų mokėjimas sustabdomas nuo kitos dienos po to, kai jie vėl buvo apgyvendinti šiose įstaigose. 
+10. Kai šio straipsnio 9 dalyje nurodyti asmenys laikinai ar visam laikui išvyksta iš socialinės globos ar švietimo įstaigos, šalpos išmokos skiriamos, o paskirtųjų mokėjimas atnaujinamas nuo kitos dienos po to, kai jie išvyko iš šių įstaigų. Jeigu šie asmenys vėl grįžta į šioje dalyje nurodytas įstaigas, šalpos išmokų mokėjimas sustabdomas nuo kitos dienos po to, kai jie vėl buvo apgyvendinti šiose įstaigose. 
 
 
 
@@ -184,7 +179,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 
 
-2) atliekantiems laisvės atėmimo bausmes laisvės atėmimo bausmę vykdančiose pataisos įstaigose, išskyrus atviras kolonijas ir pataisos įstaigų ar kardomojo kalinimo vietų specialiuosius padalinius (Pusiaukelės namus);
+2) atliekantiems laisvės atėmimo bausmes laisvės atėmimo bausmę vykdančiose pataisos įstaigose, išskyrus atviras kolonijas ir pataisos įstaigų ar kardomojo kalinimo vietų specialiuosius padalinius (pusiaukelės namus);
 
 
 
@@ -201,12 +196,12 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 
 
-13. Asmeniui, kuriam paskirta šalpos išmoka, įgijus teisę gauti didesnio dydžio, negu jam mokama šalpos išmoka, pensiją ar pensijų išmoką (išskyrus šio įstatymo 7 straipsnio 1 dalies 1 ir 2 punktuose nustatytus atvejus), šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio pirmos dienos po to, kai paskiriama pensija ar pensijų išmoka. Asmenims, gaunantiems pensiją ar pensijų išmoką, kurių dydis (bendra jų suma) lygus šalpos neįgalumo arba šalpos senatvės pensijai, šalpos našlaičių pensijai ar šalpos kompensacijai arba yra už jas (bendrą šių šalpos išmokų sumą) mažesnis, šios šalpos išmokos skiriamos ir mokamos nuo tos dienos, nuo kurios nutrauktas pensijos ar pensijų išmokos mokėjimas, išskyrus šio įstatymo 7 straipsnio 2 dalyje nustatytą atvejį. 
+13. Asmeniui, kuriam paskirta šalpos išmoka, įgijus teisę gauti didesnio dydžio, negu jam mokama šalpos išmoka, pensiją ar pensijų išmoką (išskyrus šio įstatymo 7 straipsnio 1 dalies 1 ir 2 punktuose nustatytus atvejus), šalpos išmokos mokėjimas nutraukiamas nuo kito mėnesio pirmos dienos po to, kai paskiriama pensija ar pensijų išmoka. Asmenims, gaunantiems pensiją ar pensijų išmoką, kurių dydis (bendra jų suma) lygus šalpos neįgalumo arba šalpos senatvės pensijai, šalpos našlaičių pensijai ar šalpos kompensacijai arba yra už jas (bendrą šių šalpos išmokų sumą) mažesnis, šios šalpos išmokos skiriamos ir mokamos nuo tos dienos, nuo kurios nutrauktas pensijos ar pensijų išmokos mokėjimas, išskyrus šio įstatymo 7 straipsnio 2 dalyje nustatytą atvejį. 
 
 
 
 
-14. Kai šio įstatymo 5 straipsnio 5 punkte arba 6 straipsnio 3 punkte nurodytas asmuo tampa asmeniu, kuris privalomai draudžiamas valstybiniu pensijų socialiniu draudimu pagal Valstybinio socialinio draudimo įstatymą (išskyrus asmenis, nurodytus Valstybinio socialinio draudimo įstatymo 6 straipsnyje), jam paskirtos šalpos neįgalumo arba šalpos senatvės pensijos mokėjimas sustabdomas nuo kito mėnesio, einančio po to mėnesio, kurį ši aplinkybė atsirado, pirmos dienos. Šalpos neįgalumo arba šalpos senatvės pensijos mokėjimas, gavus šio straipsnio 3 dalyje nurodyto asmens prašymą, atnaujinamas nuo dienos, kurią šioje dalyje nurodytos aplinkybės išnyksta, jeigu asmuo turi teisę gauti šias išmokas.
+14. Kai šio įstatymo 5 straipsnio 5 punkte arba 6 straipsnyje nurodytas asmuo tampa asmeniu, kuris privalomai draudžiamas valstybiniu pensijų socialiniu draudimu pagal Valstybinio socialinio draudimo įstatymą (išskyrus asmenis, nurodytus Valstybinio socialinio draudimo įstatymo 6 straipsnyje), jam paskirtos šalpos neįgalumo arba šalpos senatvės pensijos mokėjimas sustabdomas nuo kito mėnesio, einančio po to mėnesio, kurį ši aplinkybė atsirado, pirmos dienos. Šalpos neįgalumo arba šalpos senatvės pensijos mokėjimas, gavus šio straipsnio 3 dalyje nurodyto asmens prašymą, atnaujinamas nuo dienos, kurią šioje dalyje nurodytos aplinkybės išnyksta, jeigu asmuo turi teisę gauti šias išmokas.
 
 
 
@@ -231,16 +226,18 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 
 
-19. Mirus šalpos išmokos gavėjui, pirmajam jį laidojusiam asmeniui, kuris kreipiasi, išmokama mirusio šalpos išmokos gavėjo negauta praėjusio mėnesio šalpos išmoka, šalpos išmoka už tą mėnesį, kurį šalpos išmokos gavėjas mirė, ir dar viena viso šalpos išmokos dydžio suma. Kitos šalpos išmokos gavėjui priklausančios apskaičiuotos šalpos išmokos sumos, kurios jam nebuvo išmokėtos dėl mirties, išmokamos mirusiojo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio asmens turtas, pateikusiems paveldėjimo teisės liudijimą, ir (ar) mirusįjį pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą.“
+19. Mirus šalpos išmokos gavėjui, jį laidojusiam asmeniui, kuris pirmas kreipiasi, išmokama mirusio šalpos išmokos gavėjo negauta praėjusio mėnesio šalpos išmoka, šalpos išmoka už tą mėnesį, kurį šalpos išmokos gavėjas mirė, ir dar viena viso šalpos išmokos dydžio suma. Kitos šalpos išmokos gavėjui priklausančios apskaičiuotos šalpos išmokos sumos, kurios jam nebuvo išmokėtos dėl mirties, išmokamos mirusiojo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio asmens turtas, pateikusiems paveldėjimo teisės liudijimą, ir (ar) mirusįjį pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą.“
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1349, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11451
  
-
-
-
-
-
-
-
-
 
 
 
@@ -361,3 +358,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1349, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11451
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 4, 7, 15, 16, 24 straipsnių pakeitimo ir 17, 18 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-882 3 straipsnio pripažinimo netekusiu galios ir 4 straipsnio pakeitimo įstatymas
