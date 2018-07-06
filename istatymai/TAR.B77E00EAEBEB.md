@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B77E00EAEBEB"
 
 # Lietuvos Respublikos klimato kaitos valdymo įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-07-05
+Suvestinė redakcija nuo 2018-07-06
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 87-3662, i. k. 1091010ISTA00XI-329
  
@@ -440,22 +440,6 @@ Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 
 3. Nustatytosios normos vienetams įsigyti naudojamos šio straipsnio 2 dalyje nurodytoje Klimato kaitos specialiojoje programoje sukauptos lėšos ir (ar) valstybės biudžeto lėšos.
-
-
-
-
-4. Kai nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo siūlo sudaryti sandorį, už kurį būtų atsiskaitoma nauju ilgalaikiu materialiuoju turtu, Vyriausybė įvertina šio įstatymo 10 straipsnio 4 dalies 1 punkte nurodytos Vyriausybės įgaliotos institucijos pateiktą aplinkosauginės ir finansinės naudos reikšmingumo pagrindimą. Pagrindimas parengiamas Vyriausybės nustatyta tvarka, numatant, kad turi būti įvertintas ir pagrįstas ekvivalentiškų gautinų lėšų už perleidžiamus nustatytosios normos vienetus ir siūlomo naujo ilgalaikio materialiojo turto verčių skirtumas. Vyriausybė gali priimti sprendimą, kad nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo už perleidžiamus nustatytosios normos vienetus gali atsiskaityti ekvivalentišku lėšų už perleidžiamus nustatytosios normos vienetus kiekiui nauju ilgalaikiu materialiuoju turtu, kuris atitinka Europos ir Lietuvos standartų reikalavimus ir bus naudojamas klimato kaitą mažinantiems šio įstatymo 10 straipsnio 3 dalies 1 ir 2 punktuose nurodytų Klimato kaitos specialiosios programos lėšų panaudojimo krypčių projektams ir (ar) priemonėms įgyvendinti (toliau – turtas). Nustatytosios normos vienetų vertė nustatoma pagal šio įstatymo 10 straipsnio 4 dalies 1 punkte nurodytos Vyriausybės įgaliotos institucijos derybų būdu su nustatytosios normos vienetus perkančiąja valstybe ar jos įgaliotu asmeniu sutartą Lietuvos Respublikai palankiausią kainą. 
-Papildyta straipsnio dalimi:
-Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
- 
-
-
-
-
-5. Ūkio subjektams, kurių vykdoma veikla nepatenka į šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą ir kurie priskiriami Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje nedalyvaujantiems sektoriams, metiniai išmetamųjų šiltnamio efektą sukeliančių dujų kiekio mažinimo tikslai ir šių tikslų nustatymo principai nustatomi Nacionalinėje klimato kaitos valdymo politikos strategijoje. Vadovaudamasi Europos Sąjungos teisės aktais ir Nacionaline klimato kaitos valdymo politikos strategija, Vyriausybė arba jos įgaliota institucija nustato metiniams išmetamųjų šiltnamio efektą sukeliančių dujų kiekio mažinimo tikslams pasiekti taikomų lankstumo priemonių naudojimo tvarką. 
-Papildyta straipsnio dalimi:
-Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
- 
 
 
 
@@ -1432,7 +1416,7 @@ VEIKLOS RŪŠIŲ SĄRAŠAS
 
 
  29. 
- Aviacija Orlaivių skrydžiai į valstybės narės, kuriai taikoma Sutartis dėl Europos Sąjungos veikimo, teritorijoje esantį aerodromą arba iš jo. Šiai veiklai nepriskiriami: a) skrydžiai, išskirtinai skirti skraidinti šalies, kuri nėra valstybė narė, oficialią misiją atliekantį valdantį monarchą ir jo artimuosius giminaičius, valstybės vadovus, vyriausybės vadovus ir vyriausybės ministrus, jei tai įrodo atitinkamas statuso žymuo skrydžio plane; b) kariniais orlaiviais atliekami kariniai skrydžiai ir muitinės bei policijos tarnybų skrydžiai; c) skrydžiai, susiję su paieška ir gelbėjimu, gaisrų gesinimo skrydžiai, humanitariniai skrydžiai ir greitosios medicinos pagalbos skrydžiai, kuriuos leido atitinkama kompetentinga institucija; d) visi skrydžiai, atliekami išskirtinai pagal vizualiųjų skrydžių taisykles, kaip apibrėžta Tarptautinės civilinės aviacijos konvencijos (Čikagos konvencijos) 2 priede; e) skrydžiai be tarpinių nutūpimų, užbaigiami orlaivio pakilimo aerodrome; f) mokomieji skrydžiai, skirti išskirtinai gauti licenciją arba skrydžio įgulai – įgyti kvalifikaciją, jei tai įrodo atitinkamas žymuo skrydžio plane tuo atveju, jei skrydis nėra skirtas keleiviams ir (arba) kroviniams skraidinti arba orlaivio padėčiai nustatyti ar orlaiviui perkelti; g) skrydžiai, skirti išskirtinai moksliniams tyrimams atlikti arba orlaiviams ar įrangai (naudojamai ore arba antžeminei) tikrinti, bandyti ar patvirtinti; h) orlaivio, kurio patvirtinta didžiausioji kilimo masė yra ne didesnė kaip 5 700 kg, skrydžiai; i) skrydžiai, atliekami vykdant su viešosiomis paslaugomis susijusius įsipareigojimus, kurie nustatyti pagal 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (OL 2008 L 293, p. 1) maršrutams atokiausiuose regionuose, kaip nurodyta Sutarties dėl Europos Sąjungos veikimo 355 straipsnio 1 dalyje, arba maršrutams, kuriais per metus siūloma pervežti ne daugiau kaip 30 000 keleivių; ir j) skrydžiai, kurie, jei nebūtų taikomas šis punktas, būtų priskiriami šiai veiklos rūšiai ir kuriuos atlieka komercinės oro transporto priemonės naudotojas, vykdantis: – mažiau negu 243 skrydžius per tris iš eilės keturių mėnesių laikotarpius; arba – skrydžius, kurių bendras metinis išmetamųjų teršalų kiekis yra mažesnis negu 10 000 tonų. Skrydžiai, kurių vienintelis tikslas – skraidinti valstybės narės oficialią misiją atliekantį valdantį monarchą ir jo artimuosius giminaičius, valstybės vadovus, vyriausybės vadovus ir vyriausybės ministrus, pagal šį punktą šiai veiklai negali būti nepriskiriami; k) nuo 2013 m. sausio 1 d. iki 2020 m. gruodžio 31 d. – skrydžiai, kurie, jei nebūtų taikomas šis punktas, būtų priskiriami šiai veiklos rūšiai ir kuriuos atlieka nekomercinės oro transporto priemonės naudotojas, vykdantis skrydžius, kurių bendras metinis išmetamųjų teršalų kiekis yra mažesnis negu 1 000 tonų. 
+ Aviacija Orlaivių skrydžiai į valstybės narės, kuriai taikoma Sutartis dėl Europos Sąjungos veikimo, teritorijoje esantį aerodromą arba iš jo. Šiai veiklai nepriskiriami: a) skrydžiai, išskirtinai skirti skraidinti šalies, kuri nėra valstybė narė, oficialią misiją atliekantį valdantį monarchą ir jo artimuosius giminaičius, valstybės vadovus, vyriausybės vadovus ir vyriausybės ministrus, jei tai įrodo atitinkamas statuso žymuo skrydžio plane; b) kariniais orlaiviais atliekami kariniai skrydžiai ir muitinės bei policijos tarnybų skrydžiai; c) skrydžiai, susiję su paieška ir gelbėjimu, gaisrų gesinimo skrydžiai, humanitariniai skrydžiai ir greitosios medicinos pagalbos skrydžiai, kuriuos leido atitinkama kompetentinga institucija; d) visi skrydžiai, atliekami išskirtinai pagal vizualiųjų skrydžių taisykles, kaip apibrėžta Tarptautinės civilinės aviacijos konvencijos (Čikagos konvencijos) 2 priede; e) skrydžiai be tarpinių nutūpimų, užbaigiami orlaivio pakilimo aerodrome; f) mokomieji skrydžiai, skirti išskirtinai gauti licenciją arba skrydžio įgulai – įgyti kvalifikaciją, jei tai įrodo atitinkamas žymuo skrydžio plane tuo atveju, jei skrydis nėra skirtas keleiviams ir (arba) kroviniams skraidinti arba orlaivio padėčiai nustatyti ar orlaiviui perkelti; g) skrydžiai, skirti išskirtinai moksliniams tyrimams atlikti arba orlaiviams ar įrangai (naudojamai ore arba antžeminei) tikrinti, bandyti ar patvirtinti; h) orlaivio, kurio patvirtinta didžiausioji kilimo masė yra ne didesnė kaip 5 700 kg, skrydžiai; i) skrydžiai, atliekami vykdant su viešosiomis paslaugomis susijusius įsipareigojimus, kurie nustatyti pagal 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (OL 2008 L 293, p. 1) maršrutams atokiausiuose regionuose, kaip nurodyta Sutarties dėl Europos Sąjungos veikimo 355 straipsnio 1 dalyje, arba maršrutams, kuriais per metus siūloma pervežti ne daugiau kaip 30 000 keleivių; ir j) skrydžiai, kurie, jei nebūtų taikomas šis punktas, būtų priskiriami šiai veiklos rūšiai ir kuriuos atlieka komercinės oro transporto priemonės naudotojas, vykdantis: – mažiau negu 243 skrydžius per tris iš eilės keturių mėnesių laikotarpius; arba – skrydžius, kurių bendras metinis išmetamųjų teršalų kiekis yra mažesnis negu 10 000 tonų. Skrydžiai, kurių vienintelis tikslas – skraidinti valstybės narės oficialią misiją atliekantį valdantį monarchą ir jo artimuosius giminaičius, valstybės vadovus, vyriausybės vadovus ir vyriausybės ministrus, pagal šį punktą šiai veiklai negali būti nepriskiriami; k) nuo 2013 m. sausio 1 d. iki 2030 m. gruodžio 31 d. – skrydžiai, kurie, jei nebūtų taikomas šis punktas, būtų priskiriami šiai veiklos rūšiai ir kuriuos atlieka nekomercinės oro transporto priemonės naudotojas, vykdantis skrydžius, kurių bendras metinis išmetamų teršalų kiekis yra mažesnis kaip 1 000 tonų. 
  Anglies dioksidas 
  Šio įstatymo 5 (išskyrus 2 dalį), 7, 8, 13–21 straipsnių reikalavimai orlaivio naudotojams taikomi nuo 2012 m. sausio 1 d. Šio įstatymo 5 straipsnio 2 dalies reikalavimai taikomi nuo 2010 m. sausio 1 d.     
 
@@ -1441,6 +1425,7 @@ VEIKLOS RŪŠIŲ SĄRAŠAS
  
 Punkto pakeitimai:
 Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
+Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
  
 
 
@@ -1459,7 +1444,10 @@ instrumentų įstatymo
  
 
 
-1. 2003 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje ir iš dalies keičianti Tarybos direktyvą 96/61/EB (OL 2004 m. specialus leidimas 15 skyrius, 7 tomas, p. 631), su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/29/EB (OL 2009 L 140, p. 63).
+1. 2003 m. spalio 13 d. Europos Parlamento ir Tarybos direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje ir iš dalies keičianti Tarybos direktyvą 96/61/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 631), su paskutiniais pakeitimais, padarytais 2018 m. kovo 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/410 (OL 2018 L 76, p. 3). 
+Punkto pakeitimai:
+Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
+ 
 
 
 
@@ -1503,9 +1491,11 @@ Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010IS
 
 
 
-7. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES)  Nr. 421/2014, kuriuo iš dalies keičiama Direktyva 2003/87/EB, nustatanti šiltnamio efektą sukeliančių dujų emisijos leidimų sistemą Bendrijoje, siekiant iki 2020 m. įgyvendinti tarptautinį susitarimą, kuriuo tarptautinės aviacijos išmetamiesiems teršalams nustatoma viena pasaulinė rinkos priemonė (OL 2014 L 129, p. 1). 
+7. 2017 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2392, kuriuo iš dalies keičiama Direktyva 2003/87/EB, siekiant išlaikyti dabartinius jos taikymo aviacijos veiklai apribojimus ir pasirengti nuo 2021 m. įgyvendinti pasaulinę rinkos priemonę (OL 2017 L 350, p. 7). 
 Papildyta punktu:
 Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
+Punkto pakeitimai:
+Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
  
 
 
@@ -1537,3 +1527,8 @@ Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo N
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-775, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18829
 Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 14 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
+Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 2, 9, 10 straipsnių ir 1, 2 priedų pakeitimo įstatymas
