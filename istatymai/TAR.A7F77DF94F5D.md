@@ -20,9 +20,14 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-07-05
+Suvestinė redakcija nuo 2018-07-06
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
+ 
+TAR pastaba. Asmenims, kurie Lietuvos Respublikos pensijų kaupimo įstatymo pakeitimo įstatymo 2 straipsnyje nustatyta tvarka nutraukia dalyvavimą pensijų kaupime ir jų pensijų sąskaitoje sukauptos lėšos pervedamos į Valstybinio socialinio draudimo fondo biudžetą bei įskaitomos kaip Valstybinio socialinio draudimo fondo biudžeto gautos asmens pensijų socialinio draudimo įmokos individualiajai pensijos daliai, iki 2018 m. gruodžio 31 d. paskirtos socialinio draudimo pensijos nuo 2019 m. sausio 1 d. apskaičiuojamos ir mokamos nebetaikant pensijų kaupimo dalyviams nustatyto šių pensijų dydžio mažinimo. Valstybinio socialinio draudimo fondo administravimo įstaigos socialinio draudimo pensijas apskaičiuoja ir nuo 2019 m. sausio 1 d. susidariusį pensijų dydžių skirtumą išmoka ne vėliau kaip iki 2019 m. lapkričio 30 d.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 11, 12, 45, 46, 47, 48, 53 ir 62 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2018-01-01:
 Nr. XII-2512, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20649
@@ -1483,7 +1488,10 @@ PENSIJŲ, PASKIRTŲ IKI ŠIO ĮSTATYMO ĮSIGALIOJIMO, MOKĖJIMAS
 
 
 
-3. Priedas už stažo metus po šio įstatymo įsigaliojimo nemokamas, išskyrus šio įstatymo 60 straipsnyje numatytus atvejus. Už asmens stažą, didesnį negu 30 metų, mokama šio straipsnio 1 dalyje nustatyta tvarka apskaičiuota bendroji pensijos dalis. 
+3. Priedas už stažo metus po šio įstatymo įsigaliojimo nemokamas, išskyrus šio įstatymo 60 straipsnyje numatytus atvejus. Už asmens stažą, didesnį negu 30 metų, mokama šio straipsnio 1 dalyje nustatyta tvarka apskaičiuota bendroji pensijos dalis. Jeigu iki šio įstatymo įsigaliojimo paskirta senatvės pensija buvo sumažinta dėl išankstinės senatvės pensijos gavimo, šio straipsnio 1 dalyje nustatyta tvarka apskaičiuota bendroji pensijos dalis mažinama tiek procentų, kiek buvo sumažinta senatvės pensija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
+ 
 
 
 
@@ -1498,7 +1506,9 @@ PENSIJŲ, PASKIRTŲ IKI ŠIO ĮSTATYMO ĮSIGALIOJIMO, MOKĖJIMAS
 
 
 
-6. Jei šio straipsnio nustatyta tvarka apskaičiuota bendroji pensijos dalis yra mažesnė už mokėtąją pagrindinę pensijos dalį ir priedą už stažo metus (jei šis priedas buvo mokėtas), toliau tęsiamas anksčiau paskirto dydžio pagrindinės pensijos dalies ir priedo už stažo metus (jei šis priedas buvo mokėtas) mokėjimas. Tokiu atveju bendrąja pensijos dalimi laikoma 2017 m. gruodį mokėtos senatvės pensijos pagrindinės pensijos dalies ir priedo už stažo metus (jei šis priedas buvo mokėtas) dydžių suma.
+6. Jei šiame ir 46 straipsniuose nustatyta tvarka apskaičiuota pensija yra mažesnė už mokėtąją pensiją, toliau tęsiamas anksčiau paskirto dydžio pagrindinės pensijos dalies ir priedo už stažo metus (jei šis priedas buvo mokėtas) mokėjimas. Tokiu atveju bendrąja pensijos dalimi laikoma 2017 m. gruodį mokėtos senatvės pensijos pagrindinės pensijos dalies ir priedo už stažo metus (jei šis priedas buvo mokėtas) dydžių suma. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
  
 
 
@@ -1537,7 +1547,9 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 
 
-6. Jei individualioji pensijos dalis, apskaičiuota pagal apskaitos vienetus, nustatytus šiame straipsnyje nurodyta tvarka, yra mažesnė už mokėtąją senatvės pensijos papildomą pensijos dalį, toliau tęsiamas anksčiau paskirto dydžio papildomos pensijos dalies mokėjimas. Tokiu atveju individualiąja pensijos dalimi laikoma 2017 m. gruodį mokėtas senatvės pensijos papildomos pensijos dalies dydis.
+6. Jei pensija, apskaičiuota šiame, 45 ir 48 straipsniuose nustatyta tvarka, yra mažesnė už mokėtąją senatvės pensiją, toliau tęsiamas anksčiau paskirto dydžio papildomos pensijos dalies mokėjimas. Tokiu atveju individualiąja pensijos dalimi laikomas 2017 m. gruodį mokėtos senatvės pensijos papildomos pensijos dalies dydis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
  
 
 
@@ -1548,7 +1560,7 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 47 straipsnis. Asmens, kuriam iki šio įstatymo įsigaliojimo buvo paskirta netekto darbingumo (invalidumo) pensija, apskaitos vienetų skaičiaus nustatymas skiriant netekto darbingumo pensiją pagal šį įstatymą
 
 
-1. Asmens, kuriam iki šio įstatymo įsigaliojimo buvo paskirta netekto darbingumo (invalidumo) pensija, įgytais apskaitos vienetais 2017 m. gruodžio 31 d. laikomas dydis, apskaičiuotas pagal formulę S1 · K + S2 · K, kurioje:
+1. Asmens, kuriam iki šio įstatymo įsigaliojimo buvo paskirta netekto darbingumo (invalidumo) pensija, įgytais apskaitos vienetais 2017 m. gruodžio 31 d. laikomas dydis, apskaičiuotas pagal formulę S1 · K + S2 · K, o jeigu asmeniui netekto darbingumo (invalidumo) pensija buvo mokama tik pagal draudžiamųjų pajamų koeficientą už laikotarpį iki 1994 metų, – pagal formulę S1 · K4 + S2 · K4; šiose formulėse:
 
 
 1) S1 – iki netekto darbingumo pensijos skyrimo įgytas stažas;
@@ -1561,9 +1573,17 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 
 
-3) K – asmens draudžiamųjų pajamų koeficientas už laikotarpį nuo 1994 metų, pagal kurį pensija buvo mokama 2017 m. gruodį.
+3) K – asmens draudžiamųjų pajamų koeficientas už laikotarpį nuo 1994 metų, pagal kurį pensija buvo mokama 2017 m. gruodį;
 
 
+
+
+4) K4 – asmens draudžiamųjų pajamų koeficientas už laikotarpį iki 1994 metų, pagal kurį pensija buvo mokama 2017 m. gruodį. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
+ 
 
 
 
@@ -1588,7 +1608,10 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 
 
-3. Jei asmuo iki netekto darbingumo pensijos paskyrimo pagal Lietuvos Respublikos pensijų sistemos reformos įstatymą (toliau – Pensijų sistemos reformos įstatymas) buvo pasirinkęs dalyvavimą pensijų kaupime, jam apskaičiuojamas iki šio įstatymo įsigaliojimo buvusia tvarka sumažintas dėl dalyvavimo kaupime asmens draudžiamųjų pajamų koeficientas k. Įgytų 2017 m. gruodžio 31 d. apskaitos vienetų skaičiumi šiuo atveju laikoma sandauga  S1 · k + S2 · K (šio straipsnio 2 dalyje nurodytu atveju – S4 · K4 + S5 · k + S2 · K), o laikinųjų pensijos apskaitos vienetų skaičiumi – sandauga S5 · (K – k).
+3. Jei asmuo iki netekto darbingumo pensijos paskyrimo pagal Lietuvos Respublikos pensijų sistemos reformos įstatymą (toliau – Pensijų sistemos reformos įstatymas) buvo pasirinkęs dalyvavimą pensijų kaupime, jam apskaičiuojamas iki šio įstatymo įsigaliojimo buvusia tvarka sumažintas dėl dalyvavimo kaupime asmens draudžiamųjų pajamų koeficientas k. Įgytų 2017 m. gruodžio 31 d. apskaitos vienetų skaičiumi šiuo atveju laikoma sandauga S1 · k + S2 · K (šio straipsnio 2 dalyje nurodytu atveju – S4 · K4 + S5 · k + S2 · K; jeigu asmuo yra įgijęs stažo iki 1994 metų, bet pensija 2017 m. gruodį buvo mokama tik pagal draudžiamųjų pajamų koeficientą už laikotarpį nuo 1994 metų, - sandauga S4 × K + S5 × k + S2 × K), o laikinųjų pensijos apskaitos vienetų skaičiumi – sandauga S5 · (K – k). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
+ 
 
 
 
@@ -1609,7 +1632,10 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 48 straipsnis. Asmens, kuriam iki šio įstatymo įsigaliojimo buvo paskirta senatvės, išankstinė senatvės ar netekto darbingumo (invalidumo) pensija, individualiosios pensijos dalies mokėjimas 
 
 
-1. Individualioji senatvės pensijos dalis nuo šio įstatymo įsigaliojimo mokama pagal šį įstatymą, atsižvelgiant į šio įstatymo 46 straipsnyje nustatyta tvarka apskaičiuotą apskaitos vienetų skaičių. 
+1. Individualioji senatvės pensijos dalis nuo šio įstatymo įsigaliojimo mokama pagal šį įstatymą, atsižvelgiant į šio įstatymo 46 straipsnyje nustatyta tvarka apskaičiuotą apskaitos vienetų skaičių. Jeigu iki šio įstatymo įsigaliojimo paskirta senatvės pensija buvo sumažinta dėl išankstinės senatvės pensijos gavimo, individualioji pensijos dalis mažinama tiek procentų, kiek buvo sumažinta senatvės pensija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
+ 
 
 
 
@@ -1821,7 +1847,7 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 
 
-4. Individualioji pensijos dalis apskaičiuojama pagal šio įstatymo 18 straipsnį. Taikant šį straipsnį, asmens įgytu apskaitos vienetų skaičiumi laikomas dydis, apskaičiuotas pagal formulę  AV3 + 0,78 · S3 · K + AV4, kurioje:
+4. Individualioji pensijos dalis apskaičiuojama pagal šio įstatymo 18 straipsnį. Taikant šį straipsnį, asmens įgytu apskaitos vienetų skaičiumi laikomas dydis, apskaičiuotas pagal formulę AV3 + 0,78 · S3 · K + AV4, kurioje:
 
 
 1) AV3 – iki šio įstatymo įsigaliojimo asmens įgytų apskaitos vienetų skaičius (šio įstatymo 47 straipsnis);
@@ -1834,19 +1860,24 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 
 
-3) S3 – metų skaičius nuo šio įstatymo įsigaliojimo iki senatvės pensijos skyrimo dienos;
+3) S3 – metų skaičius nuo šio įstatymo įsigaliojimo iki senatvės pensijos skyrimo dienos, bet ne ilgiau kaip iki senatvės pensijos amžiaus sukakties dienos;
 
 
 
 
-4) K – asmens draudžiamųjų pajamų koeficientas už laikotarpį nuo 1994 metų, pagal kurį pensija buvo mokama 2017 m. gruodį.
+4) K – asmens draudžiamųjų pajamų koeficientas už laikotarpį nuo 1994 metų, pagal kurį pensija buvo mokama 2017 m. gruodį. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
+ 
 
 
 
 
-
-
-5. Jeigu apskaičiuota senatvės pensija yra mažesnė negu asmeniui iki senatvės pensijos amžiaus sukakties mokėta netekto darbingumo (invalidumo) pensija, asmeniui toliau mokama netekto darbingumo (invalidumo) pensija, indeksuojant šio įstatymo 8 straipsnyje nustatyta tvarka. 
+5. Jeigu apskaičiuota senatvės pensija yra mažesnė negu asmeniui iki senatvės pensijos amžiaus sukakties mokėta netekto darbingumo (invalidumo) pensija arba asmuo neturi teisės gauti senatvės pensiją, asmeniui toliau mokama netekto darbingumo (invalidumo) pensija (dalyvavusiems pensijų kaupime asmenims – sumažinta dėl dalyvavimo pensijų kaupime iki 2017 m. gruodžio 31 d. galiojusia tvarka, o gavusiems išankstinę senatvės pensiją asmenims – sumažinta šio įstatymo 23 straipsnio 3 dalyje nustatyta tvarka), indeksuojant šio įstatymo 8 straipsnyje nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
  
 
 
@@ -2095,7 +2126,10 @@ KOMPENSACIJOS UŽ YPATINGAS DARBO SĄLYGAS
 
 
 
-5. Asmenims, išdirbusiems ne mažiau kaip pusę šio straipsnio 2, 3 ir 4 dalyse nustatyto laiko kompensacijai už ypatingas darbo sąlygas gauti, išmokama kompensacijos dalis, proporcinga dirbtam laikui. Jei kompensacijai gauti reikia išdirbti šiame straipsnyje nurodytomis sąlygomis ne mažiau kaip 10 metų (moterims – 7,5 metų), kompensacijos daliai gauti ne mažiau kaip pusė šio laiko turi būti dirbta 1988–1994 metais; jei reikia išdirbti 15 metų, ne mažiau kaip pusė šio laiko turi būti dirbta 1986–1994 metais; jei reikia išdirbti 20 metų, ne mažiau kaip pusė šio laiko turi būti dirbta 1983–1994 metais; jei reikia išdirbti 25 metus, ne mažiau kaip pusė šio laiko turi būti dirbta 1980–1994 metais; jei reikia išdirbti 30 metų, ne mažiau kaip pusė šio laiko turi būti dirbta 1978–1994 metais.
+5. Asmenims, išdirbusiems ne mažiau kaip pusę šio straipsnio 2, 3 ir 4 dalyse nustatyto laiko kompensacijai už ypatingas darbo sąlygas gauti, išmokama kompensacijos dalis, proporcinga dirbtam laikui. Jei kompensacijai gauti reikia išdirbti šiame straipsnyje nurodytomis sąlygomis ne mažiau kaip 10 metų (moterims – 7,5 metų), kompensacijos daliai gauti ne mažiau kaip pusė šio laiko turi būti dirbta 1988–1994 metais; jei reikia išdirbti ne daugiau kaip 15 metų, ne mažiau kaip pusė šio laiko turi būti dirbta 1986–1994 metais; jei reikia išdirbti 20 metų, ne mažiau kaip pusė šio laiko turi būti dirbta 1983–1994 metais; jei reikia išdirbti 25 metus, ne mažiau kaip pusė šio laiko turi būti dirbta 1980–1994 metais; jei reikia išdirbti 30 metų, ne mažiau kaip pusė šio laiko turi būti dirbta 1978–1994 metais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
+ 
 
 
 
@@ -3643,3 +3677,8 @@ Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo Nr. I-5
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo Nr. I-549 pakeitimo įstatymo Nr. XII-2512 1 ir 3 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 11, 12, 45, 46, 47, 48, 53 ir 62 straipsnių pakeitimo įstatymas
