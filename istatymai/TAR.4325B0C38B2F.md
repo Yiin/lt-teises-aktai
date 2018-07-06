@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-07-05
+Suvestinė redakcija nuo 2018-07-06 iki 2018-09-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
  
@@ -93,12 +93,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-7. Kompensavimo koeficientas (k) lėtinės profesinės ligos atveju – metinių asmens socialinio draudimo pensijų apskaitos vienetų, apskaičiuotų Lietuvos Respublikos socialinio draudimo pensijų įstatymo nustatyta tvarka, vidurkis per visą įskaitytiną to asmens draudimo laikotarpį (stažą). 
+7. Kompensavimo koeficientas (k) lėtinės profesinės ligos atveju – asmens socialinio draudimo pensijų apskaitos vienetų, apskaičiuotų Lietuvos Respublikos socialinio draudimo pensijų įstatymo nustatyta tvarka, vidurkis per visą įskaitytiną to asmens draudimo laikotarpį (stažą).
+Straipsnio dalies pakeitimai:
+Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
+ 
 
 
 
 
-8. Kompensavimo koeficientas (k) nelaimingo atsitikimo darbe (tarnyboje), pakeliui į darbą (tarnybą) ar iš darbo (tarnybos) arba ūmios profesinės ligos atveju – asmens vidutinių mėnesinių draudžiamųjų pajamų per paskutinius paeiliui einančius 12 mėnesių, skaičiuojant atgal nuo pabaigos užpraeito kalendorinio mėnesio, buvusio prieš nelaimingo atsitikimo darbe (tarnyboje), pakeliui į darbą (tarnybą) ar iš darbo (tarnybos) arba ūmios profesinės ligos nustatymo mėnesį, santykis su nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba susirgimo ūmia profesine liga nustatymo metu galiojančiu užpraeito ketvirčio šalies vidutiniu mėnesiniu darbo užmokesčiu. Šis koeficientas taip pat taikomas skaičiuojant netekto darbingumo periodinę kompensaciją, kai asmuo, kuriam nustatyta lėtinė profesinė liga, pagal Valstybinių socialinio draudimo pensijų įstatymą neturi teisės gauti valstybinės socialinio draudimo netekto darbingumo (invalidumo) arba valstybinės socialinio draudimo senatvės pensijos.
+8. Kompensavimo koeficientas (k) nelaimingo atsitikimo darbe (tarnyboje), pakeliui į darbą (tarnybą) ar iš darbo (tarnybos) arba ūmios profesinės ligos atveju – asmens vidutinių mėnesinių draudžiamųjų pajamų per paskutinius paeiliui einančius 12 mėnesių, skaičiuojant atgal nuo pabaigos užpraeito kalendorinio mėnesio, buvusio prieš nelaimingo atsitikimo darbe (tarnyboje), pakeliui į darbą (tarnybą) ar iš darbo (tarnybos) arba ūmios profesinės ligos nustatymo mėnesį, santykis su nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba susirgimo ūmia profesine liga nustatymo metu galiojančiu užpraeito ketvirčio šalies vidutiniu mėnesiniu darbo užmokesčiu. Šis koeficientas taip pat taikomas skaičiuojant netekto darbingumo periodinę kompensaciją, kai asmuo, kuriam nustatyta lėtinė profesinė liga, pagal Socialinio draudimo pensijų įstatymą neturi teisės gauti socialinio draudimo netekto darbingumo (invalidumo) arba socialinio draudimo senatvės pensijos arba kai šis koeficientas yra didesnis negu apskaičiuotasis šio straipsnio 7 dalyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
+ 
 
 
 
@@ -798,7 +804,10 @@ Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius atitinkamai p
 
 
 
-3) mirusiojo sutuoktiniui, sukakusiam Valstybinių socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių, – iki gyvos galvos;
+3) mirusiojo sutuoktiniui, sukakusiam Socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių, – iki gyvos galvos;.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
+ 
 
 
 
@@ -820,18 +829,20 @@ Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius atitinkamai p
 
 
 
-3. Šiame straipsnyje nurodyta išmoka mokama neatsižvelgiant į jos gavėjų kitas gaunamas pajamas, išskyrus atvejus, kai dėl to paties draudžiamojo įvykio išmokos gavėjui yra mokama valstybinė socialinio draudimo našlių ar valstybinė socialinio draudimo našlaičių pensija:
+3. Šiame straipsnyje nurodyta išmoka mokama neatsižvelgiant į jos gavėjų kitas gaunamas pajamas, išskyrus atvejus, kai dėl to paties draudžiamojo įvykio išmokos gavėjui yra mokama socialinio draudimo našlių ar socialinio draudimo našlaičių pensija:
 
 
-1) jeigu išmokos gavėjas dėl to paties draudžiamojo įvykio turi teisę į tokio paties dydžio arba didesnę valstybinę socialinio draudimo našlių pensiją ar valstybinę socialinio draudimo našlaičių pensiją, periodinė draudimo išmoka apdraustajam mirus šiam gavėjui nėra mokama;
+1) jeigu išmokos gavėjas dėl to paties draudžiamojo įvykio turi teisę į tokio paties dydžio arba didesnę socialinio draudimo našlių pensiją ar socialinio draudimo našlaičių pensiją, periodinė draudimo išmoka apdraustajam mirus šiam gavėjui nėra mokama;
 
 
 
 
-2) jeigu išmokos gavėjui dėl to paties draudžiamojo įvykio mokama valstybinė socialinio draudimo našlių pensija ar valstybinė socialinio draudimo našlaičių pensija yra mažesnė už apskaičiuotą periodinę draudimo išmoką apdraustajam asmeniui mirus, gavėjui mokama periodinė draudimo išmoka apdraustajam asmeniui mirus, kurios dydis yra nustatomas kaip šiame punkte nurodytų išmokų skirtumas.
+2) jeigu išmokos gavėjui dėl to paties draudžiamojo įvykio mokama socialinio draudimo našlių pensija ar socialinio draudimo našlaičių pensija yra mažesnė už apskaičiuotą periodinę draudimo išmoką apdraustajam asmeniui mirus, gavėjui mokama periodinė draudimo išmoka apdraustajam asmeniui mirus, kurios dydis yra nustatomas kaip šiame punkte nurodytų išmokų skirtumas.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
  
-
-
 
 
 
@@ -1193,3 +1204,13 @@ Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialin
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-828, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20045
 Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 pakeitimo įstatymo Nr. XII-2472 2 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-948, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21640
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 5 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 3, 15, 19, 26 ir 27 straipsnių pakeitimo įstatymas
