@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-07-05
+Suvestinė redakcija nuo 2018-07-06 iki 2018-09-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
  
@@ -483,6 +483,14 @@ Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 
 
 
+11) vienas iš senelių prižiūri vaiką iki 3 metų, kurio priežiūrai šiam seneliui suteiktos vaiko priežiūros atostogos.
+Papildyta straipsnio punktu:
+Nr. XIII-1358, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11458
+ 
+
+
+
+
 
 
 2. Auginantys vaikus (įvaikius) iki 18 metų nesusituokę asmenys (įskaitant santuoką nutraukusius asmenis) ar teismo sprendimu gyvenantys skyrium sutuoktiniai arba bendrai gyvenantys asmenys, auginantys vaikus (įvaikius) iš ankstesnio bendro gyvenimo, ir atitinkantys šio įstatymo 6 ir (ar) 7 straipsnių (straipsnio) reikalavimus, teisę į piniginę socialinę paramą turi:
@@ -693,7 +701,10 @@ Nr. XIII-145, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29779
 3. Darbingo amžiaus darbingiems, bet nedirbantiems (taip pat savarankiškai nedirbantiems) asmenims socialinės pašalpos dydis nemažinimas esant bent vienam iš šių atvejų, kai jie:
 
 
-1) nedirba dėl priežasčių, nurodytų šio įstatymo 8 straipsnio 1 dalies 2, 3, 5, 6, 7, 8, 9 ir 10 punktuose;
+1) nedirba dėl priežasčių, nurodytų šio įstatymo 8 straipsnio 1 dalies 2, 3, 5, 6, 7, 8, 9, 10 ir 11 punktuose;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1358, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11458
+ 
 
 
 
@@ -2300,3 +2311,13 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 1, 4, 8, 10, 17, 20, 23 ir 25 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-949, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21657
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 8, 10, 17, 18, 19, 21, 23 ir 25 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1358, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11458
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 8 ir 10 straipsnių pakeitimo įstatymas
