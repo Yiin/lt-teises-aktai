@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6686E2AF9EFE"
 
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2018-07-05
+Suvestinė redakcija nuo 2018-07-06 iki 2018-09-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 48-2106, i. k. 1031010ISTA0IX-1541
  
@@ -260,7 +260,12 @@ Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
 
 
 
-2. Priešpensinė bedarbio išmoka mokama kartą per mėnesį. Jos dydis apskaičiuojamas sudedant pastoviąją dalį, lygią 100 procentų valstybės remiamų pajamų dydžio, ir kintamąją dalį, sudarančią 20 procentų asmens mėnesio vidutinio darbo užmokesčio dydžio. Priešpensinė bedarbio išmoka per kalendorinį mėnesį negali sudaryti daugiau kaip 70 procentų einamųjų metų draudžiamųjų pajamų, galiojusių tą mėnesį, už kurį mokama išmoka.
+2. Priešpensinė bedarbio išmoka mokama kartą per mėnesį. Jos dydis apskaičiuojamas sudedant pastoviąją dalį, lygią 100 procentų valstybės remiamų pajamų dydžio, ir kintamąją dalį, sudarančią 20 procentų asmens mėnesio vidutinio darbo užmokesčio dydžio. Priešpensinė bedarbio išmoka per kalendorinį mėnesį negali sudaryti daugiau kaip 55 procentų Lietuvos statistikos departamento paskelbto paskutinio ketvirčio šalies ūkio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio. 
+2 dalies redakcija nuo 2019-01-01:
+2. Priešpensinė bedarbio išmoka mokama kartą per mėnesį. Jos dydis apskaičiuojamas sudedant pastoviąją dalį, lygią 100 procentų valstybės remiamų pajamų dydžio, ir kintamąją dalį, sudarančią 15,52 procento asmens mėnesio vidutinio darbo užmokesčio dydžio. Priešpensinė bedarbio išmoka per kalendorinį mėnesį negali sudaryti daugiau kaip 42,67 procento Lietuvos statistikos departamento paskelbto paskutinio ketvirčio šalies ūkio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1343, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11438
+ 
 
 
 
@@ -416,3 +421,13 @@ Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuot
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-148, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29781
 Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 2, 4, 5, 8 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymo Nr. XII-2504 6 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-944, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21632
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 4 ir 5 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1343, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11438
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 4, 9, 11 ir 12 straipsnių pakeitimo įstatymas
