@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-07-10
+Suvestinė redakcija nuo 2018-07-11 iki 2018-11-28
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -953,7 +953,10 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 17 straipsnis. Akademinės etikos ir procedūrų kontrolierius 
 
 
-1. Akademinės etikos ir procedūrų kontrolierius (toliau – kontrolierius) yra valstybės pareigūnas, nagrinėjantis skundus, pranešimus ir savo iniciatyva atliekantis tyrimus dėl galimų akademinės etikos ir procedūrų, įtvirtintų mokslo ir studijų institucijų akademinės etikos kodeksuose, pažeidimų (toliau šiame straipsnyje – tyrimas).
+1. Akademinės etikos ir procedūrų kontrolierius (toliau – kontrolierius) yra valstybės pareigūnas, nagrinėjantis skundus, pranešimus ir savo iniciatyva atliekantis tyrimus dėl galimų akademinės etikos ir procedūrų pažeidimų (toliau šiame straipsnyje – tyrimas). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+ 
 
 
 
@@ -1051,7 +1054,10 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 11. Išnagrinėjęs skundą (pranešimą) arba atlikęs tyrimą, kontrolierius priima sprendimą:
 
 
-1) informuoti pareiškėją, mokslo ir studijų institucijas ir Švietimo ir mokslo ministeriją apie asmenis, padariusius akademinės etikos ir procedūrų pažeidimus;
+1) informuoti pareiškėją, mokslo ir studijų institucijas ir Švietimo ir mokslo ministeriją apie asmenis, padariusius akademinės etikos ir (arba) procedūrų pažeidimus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+ 
 
 
 
@@ -1061,7 +1067,10 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 
 
-3) rekomenduoti mokslo ir studijų institucijoms atšaukti sprendimą, priimtą remiantis akademinę etiką ir procedūras reglamentuojančiais dokumentais;
+3) įpareigoti mokslo ir studijų institucijas pakeisti ar panaikinti sprendimus, prieštaraujančius akademinei etikai ir procedūroms; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+ 
 
 
 
@@ -1076,22 +1085,50 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 
 
-6) informuoti teisėsaugos institucijas, jeigu nustatoma nusikalstamos veikos požymių;
+6) rekomenduoti mokslo ir studijų institucijoms imtis priemonių, kad būtų pašalinti akademinės etikos ir procedūrų pažeidimai ir jų priežastys; 
+Papildyta straipsnio punktu:
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+ 
 
 
 
 
-7) kreiptis į teismą, jeigu nevykdomas šios dalies 2 punkte nurodytas kontrolieriaus įpareigojimas;
+7) įpareigoti mokslo (meno) darbų autorius pateikti kontrolieriui leidėjo patvirtinimą dėl mokslo (meno) darbų pašalinimo iš prekybos vietų ir techninių klaidų ištaisymo duomenų bazėse, kuriose teikiamos nuorodos į mokslo (meno) darbus; 
+Papildyta straipsnio punktu:
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+ 
 
 
 
 
-8) pripažinti skundą (pranešimą) nepagrįstu;
+8) informuoti teisėsaugos institucijas, jeigu nustatoma nusikalstamos veikos požymių;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+ 
 
 
 
 
-9) skundo (pranešimo) nagrinėjimą ar tyrimą nutraukti.
+9) kreiptis į teismą, jeigu nevykdomas šios dalies 2 punkte nurodytas kontrolieriaus įpareigojimas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+ 
+
+
+
+
+10) pripažinti skundą (pranešimą) nepagrįstu;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+ 
+
+
+
+
+11) skundo (pranešimo) nagrinėjimą ar tyrimą nutraukti.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+ 
 
 
 
@@ -1133,9 +1170,11 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 
 
-19. Šio straipsnio 3 dalies 2, 3, 4, 5 ir 6 punktuose nustatytais atvejais tol, kol į kontrolieriaus vietą paskiriamas naujas kontrolierius, Seimas Švietimo ir mokslo komiteto teikimu ne ilgesniam kaip 90 kalendorinių dienų laikotarpiui gali pavesti laikinai eiti kontrolieriaus pareigas asmeniui, atitinkančiam kontrolieriui keliamus reikalavimus. 
+19. Šio straipsnio 3 dalies 2, 3, 4, 5 ir 6 punktuose nustatytais atvejais tol, kol į kontrolieriaus vietą paskiriamas naujas kontrolierius, Seimas Švietimo ir mokslo komiteto teikimu gali pavesti laikinai eiti kontrolieriaus pareigas asmeniui, atitinkančiam kontrolieriui keliamus reikalavimus. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1133, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07485
+Straipsnio dalies pakeitimai:
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
  
 
 
@@ -4852,3 +4891,8 @@ Dėl Lietuvos Respublikos mokslo ir studijų įstatymo 27 straipsnio 2 dalies 9
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1186, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09077
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 85 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 17 straipsnio pakeitimo įstatymas
