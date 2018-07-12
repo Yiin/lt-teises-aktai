@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2017-11-29 iki 2018-07-11
+Suvestinė redakcija nuo 2018-07-12 iki 2018-09-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -6235,24 +6235,26 @@ Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 172 straipsnis. Trukdymas pasinaudoti rinkimų ar referendumo teise
 
 
-1. Tas, kas naudodamas psichinę prievartą arba papirkdamas, arba apgaulės būdu trukdė asmeniui realizuoti savo teisę rinkti, būti išrinktam arba dalyvauti referendume arba organizavo trukdymą asmeniui realizuoti savo teisę rinkti, būti išrinktam arba dalyvauti referendume,
+1. Tas, kas prieš asmenį, turintį teisę rinkti arba dalyvauti referendume, panaudojo psichinę prievartą, apgaulę arba jį papirko, siekdamas paveikti jo valią realizuojant savo teisę rinkti ar nuo jos susilaikyti arba dalyvauti referendume, arba šiuos veiksmus atliko prieš asmenį, turintį teisę būti išrinktam, 
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki ketverių metų.
 
 
 
 
-2. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką, jeigu dėl to rinkimai ar referendumas buvo pripažinti negaliojančiais,
-baudžiamas bauda arba laisvės atėmimu iki penkerių metų.
+2. Tas, kas šio straipsnio 1 dalyje numatytus veiksmus organizavo, juos atliko sistemingai arba jeigu dėl to rinkimai ar referendumas buvo pripažinti negaliojančiais,
+baudžiamas bauda arba laisvės atėmimu iki šešerių metų.
 
 
 
 
-3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
-
-
+3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
 Straipsnio pakeitimai:
 Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 Nr. XI-2393, 2012-11-08, Žin., 2012, Nr. 133-6759 (2012-11-17)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1462, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11777
  
 
 
@@ -11737,3 +11739,8 @@ Lietuvos Respublikos baudžiamojo kodekso 43, 47, 54, 62, 63, 64, 68-1, 68-2, 71
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-791, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18856
 Lietuvos Respublikos baudžiamojo kodekso 220 ir 221 straipsnių pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1462, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11777
+Lietuvos Respublikos baudžiamojo kodekso 172 straipsnio pakeitimo įstatymas
