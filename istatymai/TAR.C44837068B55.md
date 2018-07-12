@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2017-07-13 iki 2018-07-11
+Suvestinė redakcija nuo 2018-07-12 iki 2018-10-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -303,7 +303,10 @@ e) kitas fizinis asmuo, faktiškai kontroliuojantis patikos struktūrą, turima 
 
 
 
-18. Politikoje dalyvaujantys fiziniai asmenys – fiziniai asmenys, kuriems yra arba buvo patikėtos svarbios viešosios pareigos, ir jų artimieji šeimos nariai arba artimi pagalbininkai.
+18. Politiškai pažeidžiami (paveikiami) asmenys – fiziniai asmenys, kuriems yra arba buvo patikėtos svarbios viešosios pareigos, ir jų artimieji šeimos nariai arba artimi pagalbininkai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
+ 
 
 
 
@@ -1217,7 +1220,10 @@ b) tiesioginio vaizdo perdavimo metu užfiksuojamas kliento veido atvaizdas ir k
 
 
 
-2) kai sandoriai ar dalykiniai santykiai atliekami su politikoje dalyvaujančiais fiziniais asmenimis;
+2) kai sandoriai ar dalykiniai santykiai atliekami su politiškai pažeidžiamais (paveikiamais) asmenimis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
+ 
 
 
 
@@ -1269,15 +1275,15 @@ b) tiesioginio vaizdo perdavimo metu užfiksuojamas kliento veido atvaizdas ir k
 
 
 
-3. Atlikdami sustiprintą kliento tapatybės nustatymą, kai sandoriai ar dalykiniai santykiai atliekami su politikoje dalyvaujančiais fiziniais asmenimis, finansų įstaigos ir kiti įpareigotieji subjektai privalo:
+3. Atlikdami sustiprintą kliento tapatybės nustatymą, kai sandoriai ar dalykiniai santykiai atliekami su politiškai pažeidžiamais (paveikiamais) asmenimis, finansų įstaigos ir kiti įpareigotieji subjektai privalo:
 
 
-1) nustatyti ir įdiegti vidines procedūras, kurių pagrindu nustatoma, ar klientas ir naudos gavėjas yra politikoje dalyvaujantis fizinis asmuo;
+1) nustatyti ir įdiegti vidines procedūras, kurių pagrindu nustatoma, ar klientas ir naudos gavėjas yra politiškai pažeidžiamas (paveikiamas) asmuo;
 
 
 
 
-2) gauti vyresniojo vadovo pritarimą dalykiniams santykiams su tokiais klientais užmegzti ar tęsti dalykinius santykius su klientais, kai jie tampa politikoje dalyvaujančiais fiziniais asmenimis;
+2) gauti vyresniojo vadovo pritarimą dalykiniams santykiams su tokiais klientais užmegzti ar tęsti dalykinius santykius su klientais, kai jie tampa politiškai pažeidžiamais (paveikiamais) asmenimis;
 
 
 
@@ -1287,14 +1293,20 @@ b) tiesioginio vaizdo perdavimo metu užfiksuojamas kliento veido atvaizdas ir k
 
 
 
-4) vykdyti sustiprintą nuolatinę dalykinių santykių su politikoje dalyvaujančiais fiziniais asmenimis stebėseną.
+4) vykdyti sustiprintą nuolatinę dalykinių santykių su politiškai pažeidžiamais (paveikiamais) asmenimis stebėseną. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
+ 
 
 
 
 
-
-
-4. Kai politikoje dalyvaujantis fizinis asmuo nustoja eiti svarbias viešąsias pareigas, finansų įstaigos ir kiti įpareigotieji subjektai ne trumpesnį kaip 12 mėnesių laikotarpį privalo toliau atsižvelgti į to asmens tebekeliamą riziką ir taikyti tinkamas pagal rizikos lygį pritaikytas priemones tol, kol nustatoma, kad tas asmuo nebekelia politikoje dalyvaujantiems fiziniams asmenims būdingos rizikos.
+4. Kai politiškai pažeidžiamas (paveikiamas) asmuo nustoja eiti svarbias viešąsias pareigas, finansų įstaigos ir kiti įpareigotieji subjektai per ne trumpesnį kaip 12 mėnesių laikotarpį privalo toliau atsižvelgti į to asmens tebekeliamą riziką ir taikyti tinkamas pagal rizikos lygį pritaikytas priemones tol, kol nustatoma, kad tas asmuo nebekelia politiškai pažeidžiamiems (paveikiamiems) asmenims būdingos rizikos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
+ 
 
 
 
@@ -1324,7 +1336,10 @@ b) tiesioginio vaizdo perdavimo metu užfiksuojamas kliento veido atvaizdas ir k
 
 
 
-7. Draudimo įmonės, vykdančios gyvybės draudimo veiklą, ir draudimo brokerių įmonės, vykdančios su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, išmokėdamos išmokas arba išmokos gavėjui pareiškus norą pasinaudoti draudimo liudijime numatytomis teisėmis gauti išmoką, privalo nustatyti, ar išmokos gavėjas atitinka sąlygas, kuriomis kyla didesnė pinigų plovimo ir (ar) teroristų finansavimo rizika. Jeigu išmokos gavėjas yra juridinis asmuo ar juridinio asmens statuso neturintis subjektas, prieš išmokant išmokas privaloma nustatyti jo naudos gavėją, vadovaujantis šio įstatymo 12 straipsniu. Jeigu išmokos gavėjas – fizinis asmuo arba išmokos gavėjo – juridinio asmens naudos gavėjas yra politikoje dalyvaujantis fizinis asmuo ir jeigu pagal draudimo įmonių, vykdančių gyvybės draudimo veiklą, ir draudimo brokerių įmonių, vykdančių su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, rizikos vertinimo ir valdymo procedūras nustatoma didesnė pinigų plovimo ir (ar) teroristų finansavimo rizika, prieš išmokant išmokas privalu informuoti vyresnįjį vadovą apie būsimą išmokos išmokėjimo faktą, vykdyti sustiprintą kliento ir išmokos gavėjo vykdomų piniginių operacijų ar sandorių stebėseną bei spręsti dėl pranešimo apie įtartiną piniginę operaciją ar sandorį perdavimo Finansinių nusikaltimų tyrimo tarnybai tikslingumo. Šiais atvejais išmokos gavėjo ir jo naudos gavėjo tapatybė turi būti nustatoma išmokant išmokas arba išmokos gavėjui pareiškus norą pasinaudoti draudimo liudijime numatytomis teisėmis gauti išmoką.
+7. Draudimo įmonės, vykdančios gyvybės draudimo veiklą, ir draudimo brokerių įmonės, vykdančios su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, išmokėdamos išmokas arba išmokos gavėjui pareiškus norą pasinaudoti draudimo liudijime numatytomis teisėmis gauti išmoką, privalo nustatyti, ar išmokos gavėjas atitinka sąlygas, kuriomis kyla didesnė pinigų plovimo ir (ar) teroristų finansavimo rizika. Jeigu išmokos gavėjas yra juridinis asmuo ar juridinio asmens statuso neturintis subjektas, prieš išmokant išmokas privaloma nustatyti jo naudos gavėją vadovaujantis šio įstatymo 12 straipsniu. Jeigu išmokos gavėjas – fizinis asmuo arba išmokos gavėjo – juridinio asmens naudos gavėjas yra politiškai pažeidžiamas (paveikiamas) asmuo ir jeigu pagal draudimo įmonių, vykdančių gyvybės draudimo veiklą, ir draudimo brokerių įmonių, vykdančių su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, rizikos vertinimo ir valdymo procedūras nustatoma didesnė pinigų plovimo ir (ar) teroristų finansavimo rizika, prieš išmokant išmokas privalu informuoti vyresnįjį vadovą apie būsimą išmokos išmokėjimo faktą, vykdyti sustiprintą kliento ir išmokos gavėjo vykdomų piniginių operacijų ar sandorių stebėseną ir spręsti dėl pranešimo apie įtartiną piniginę operaciją ar sandorį perdavimo Finansinių nusikaltimų tyrimo tarnybai tikslingumo. Šiais atvejais išmokos gavėjo ir jo naudos gavėjo tapatybė turi būti nustatoma prieš išmokant išmokas arba išmokos gavėjui pareiškus norą pasinaudoti draudimo liudijime numatytomis teisėmis gauti išmoką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
+ 
 
 
 
@@ -1434,7 +1449,9 @@ d) valstybė finansuoja arba remia teroristų veiklą arba valstybių teritorijo
 
 
 
-11. Finansų įstaigos ir kiti įpareigotieji subjektai, įgyvendindami šiame straipsnyje nustatytus reikalavimus, turi teisę gauti iš Vyriausiosios tarnybinės etikos komisijos turimus asmenų, kurie dalyvauja politikoje ir kuriems patikėtos svarbios viešosios pareigos Lietuvos Respublikoje, kurie teisės aktų nustatyta tvarka turi prievolę deklaruoti savo viešus bei privačius interesus ir kurių deklaracijų duomenys yra vieši, privačių interesų deklaracijų duomenis.
+11. Finansų įstaigos ir kiti įpareigotieji subjektai, įgyvendindami šiame straipsnyje nustatytus reikalavimus, turi teisę gauti iš Vyriausiosios tarnybinės etikos komisijos turimus asmenų, kurie yra politiškai pažeidžiami (paveikiami), kuriems patikėtos svarbios viešosios pareigos Lietuvos Respublikoje, kurie teisės aktų nustatyta tvarka turi prievolę deklaruoti savo viešuosius bei privačius interesus ir kurių deklaracijų duomenys yra vieši, privačių interesų deklaracijų duomenis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
  
 
 
@@ -3489,3 +3506,8 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-568, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12068
 Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2 ir 14 straipsnių pakeitimo įstatymas
