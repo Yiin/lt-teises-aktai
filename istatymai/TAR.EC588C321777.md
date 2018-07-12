@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-07-11
+Suvestinė redakcija nuo 2018-07-12 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -766,7 +766,10 @@ Ikiteisminio tyrimo teisėjas yra apylinkės teismo teisėjas, apylinkės teismo
 
 
 
-4. Įtariamasis turi teisę: žinoti, kuo jis įtariamas; nuo sulaikymo ar pirmosios apklausos momento turėti gynėją; gauti vertimą žodžiu ir raštu; informuoti konsulines įstaigas ir vieną asmenį; gauti skubią medicinos pagalbą; žinoti maksimalų terminą, kiek valandų (dienų) gali būti ribojama jo laisvė iki bylos nagrinėjimo teisminėje institucijoje pradžios; duoti parodymus ar tylėti; pateikti tyrimui reikšmingus dokumentus ir daiktus; pateikti prašymus; pareikšti nušalinimus; susipažinti su ikiteisminio tyrimo medžiaga; apskųsti ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo veiksmus bei sprendimus.
+4. Įtariamasis turi teisę: žinoti, kuo jis įtariamas; nuo sulaikymo ar pirmosios apklausos momento turėti gynėją; gauti vertimą žodžiu ir raštu; informuoti konsulines įstaigas ir vieną asmenį; gauti skubią medicinos pagalbą; žinoti maksimalų terminą, kiek valandų (dienų) gali būti ribojama jo laisvė iki bylos nagrinėjimo teisminėje institucijoje pradžios; duoti parodymus; tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką; pateikti tyrimui reikšmingus dokumentus ir daiktus; pateikti prašymus; pareikšti nušalinimus; susipažinti su ikiteisminio tyrimo medžiaga; apskųsti ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo veiksmus bei sprendimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
+ 
 
 
 Straipsnio pakeitimai:
@@ -794,7 +797,10 @@ Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
 
 
 
-3. Kaltinamasis turi teisę: žinoti, kuo jis kaltinamas, ir gauti kaltinamojo akto nuorašą; susipažinti teisme su byla; nustatyta tvarka pasidaryti reikiamų dokumentų išrašus arba nuorašus; turėti gynėją; gauti vertimą žodžiu ir raštu; informuoti konsulines įstaigas ir vieną asmenį; gauti skubią medicinos pagalbą; pateikti prašymus; pareikšti nušalinimus; teikti įrodymus ir dalyvauti juos tiriant; nagrinėjimo teisme metu užduoti klausimus; duoti paaiškinimus apie teismo tiriamas bylos aplinkybes ir pareikšti savo nuomonę dėl kitų nagrinėjimo teisme dalyvių pareikštų prašymų; dalyvauti baigiamosiose kalbose, kai nėra gynėjo; kreiptis į teismą paskutiniu žodžiu; apskųsti teismo nuosprendį ir nutartis.
+3. Kaltinamasis turi teisę: žinoti, kuo jis kaltinamas, ir gauti kaltinamojo akto nuorašą; susipažinti teisme su byla; nustatyta tvarka pasidaryti reikiamų dokumentų išrašus arba nuorašus; turėti gynėją; gauti vertimą žodžiu ir raštu; informuoti konsulines įstaigas ir vieną asmenį; gauti skubią medicinos pagalbą; pateikti prašymus; pareikšti nušalinimus; teikti įrodymus ir dalyvauti juos tiriant; nagrinėjimo teisme metu duoti parodymus ir užduoti klausimus; duoti paaiškinimus apie teismo tiriamas bylos aplinkybes ir pareikšti savo nuomonę dėl kitų nagrinėjimo teisme dalyvių pareikštų prašymų; tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką; dalyvauti baigiamosiose kalbose, kai nėra gynėjo; kreiptis į teismą paskutiniu žodžiu; apskųsti teismo nuosprendį ir nutartis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
+ 
 
 
 
@@ -1228,7 +1234,10 @@ Asmens teisių užtikrinimo pagrindai
 
 
 
-6. Kiekvienas nusikalstamos veikos padarymu įtariamas ar kaltinamas asmuo laikomas nekaltu, kol jo kaltumas neįrodytas šio Kodekso nustatyta tvarka ir nepripažintas įsiteisėjusiu teismo nuosprendžiu.
+6. Kiekvienas nusikalstamos veikos padarymu įtariamas ar kaltinamas asmuo laikomas nekaltu tol, kol jo kaltumas neįrodytas šio Kodekso nustatyta tvarka ir nepripažintas įsiteisėjusiu teismo nuosprendžiu. Visos abejonės ir (ar) neaiškumai dėl nusikalstamos veikos padarymu kaltinamo asmens kaltės ar kitų aplinkybių, turinčių reikšmės bylai išspręsti teisingai, kurių, išnaudojus visas proceso veiksmų galimybes, neįmanoma pašalinti baudžiamojo proceso metu, vertinami nusikalstamos veikos padarymu kaltinamo asmens naudai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
+ 
 
 
 
@@ -6676,12 +6685,18 @@ Nr. XI-1269, 2010-12-23, Žin., 2010, Nr. 157-7981 (2010-12-31)
 
 
 
-3. Apklausos pradžioje įtariamojo paklausiama, ar jis prisipažįsta padaręs nusikalstamą veiką, kurios padarymu įtariamas. Po to pasiūloma duoti parodymus apie įtarimo esmę. Vėliau įtariamajam gali būti užduodami klausimai.
+3. Prieš pradėdamas įtariamojo apklausą, ikiteisminio tyrimo pareigūnas, prokuroras ar šio Kodekso nurodytais atvejais ikiteisminio tyrimo teisėjas išaiškina įtariamajam jo teisę tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką. Apklausos pradžioje įtariamojo paklausiama, ar jis prisipažįsta padaręs nusikalstamą veiką, kurios padarymu įtariamas. Po to pasiūloma duoti parodymus apie įtarimo esmę. Vėliau įtariamajam gali būti užduodami klausimai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
+ 
 
 
 
 
-4. Įtariamojo apklausos protokolas surašomas laikantis šio Kodekso 179 straipsnyje nustatytų reikalavimų. Įtariamojo parodymai protokole užrašomi pirmuoju asmeniu ir kiek galima pažodžiui. Jeigu reikia, nurodomi įtariamajam užduoti klausimai ir jo atsakymai.
+4. Įtariamojo apklausos protokolas surašomas laikantis šio Kodekso 179 straipsnyje nustatytų reikalavimų. Įtariamojo parodymai apklausos protokole užrašomi pirmuoju asmeniu ir kiek galima pažodžiui. Jeigu reikia, nurodomi įtariamajam užduoti klausimai ir jo atsakymai. Jeigu apklausos metu įtariamasis pasinaudojo savo teise tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką, tai pažymima įtariamojo apklausos protokole. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
+ 
 
 
 
@@ -6734,7 +6749,10 @@ Nr. XI-1269, 2010-12-23, Žin., 2010, Nr. 157-7981 (2010-12-31)
 
 
 
-4. Prokuroro iniciatyva atliekamos įtariamojo apklausos metu taikomos šio Kodekso 188 straipsnio 4 dalies nuostatos.
+4. Prokuroro iniciatyva atliekamos įtariamojo apklausos metu taikomos šio Kodekso 188 straipsnio 3 ir 4 dalių nuostatos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
+ 
 
 
 
@@ -9098,7 +9116,10 @@ XXI skyrius
 272 straipsnis. Kaltinamojo apklausa
 
 
-1. Po kaltinamojo atsakymų dėl kaltinimo teisiamojo posėdžio pirmininkas išaiškina jam teisę duoti paaiškinimus, atsakyti į klausimus ar atsisakyti tai daryti. Be to, pirmininkas paaiškina, kad kaltinamasis posėdyje turi teisę užduoti klausimų apklausiamiems asmenims ir duoti paaiškinimus dėl tiriamų įrodymų.
+1. Po kaltinamojo atsakymų dėl kaltinimo teisiamojo posėdžio pirmininkas išaiškina jam teisę duoti paaiškinimus, atsakyti į klausimus  arba tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką. Be to, teisiamojo posėdžio pirmininkas paaiškina, kad kaltinamasis posėdyje turi teisę užduoti klausimų apklausiamiems asmenims, pareikšti savo nuomonę dėl kitų nagrinėjimo teisme dalyvių pareikštų prašymų ir duoti paaiškinimus dėl tiriamų įrodymų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
+ 
 
 
 
@@ -13147,10 +13168,11 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 3. Kasacinės bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu.
-3 dalies redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos:
+3 dalies redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01):
 3. Kasacinės bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu, arba jei prireikia prašyti Europos žmogaus teisių teismo konsultacinės išvados dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu.
 Straipsnio dalies pakeitimai:
 Nr. XII-1773, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09616
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
  
 
 
@@ -15439,6 +15461,14 @@ Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
  
 
 
+
+
+20. 2016 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/343 dėl tam tikrų nekaltumo prezumpcijos ir teisės dalyvauti nagrinėjant baudžiamąją bylą teisme aspektų užtikrinimo (OL 2016 L 65, p. 1). 
+Papildyta punktu:
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
+ 
+
+
 Kodeksas papildytas priedu:
 Nr. IX-2170, 2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
 Priedo pakeitimai:
@@ -15915,3 +15945,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 260 ir 308 straipsnių pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-900, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21500
 Lietuvos Respublikos baudžiamojo proceso kodekso 342, 346, 348, 365-2 ir 365-4 straipsnių pakeitimo įstatymas
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
+Lietuvos Respublikos baudžiamojo proceso kodekso 21, 22, 44, 188, 189, 272 straipsnių ir priedo pakeitimo įstatymas
