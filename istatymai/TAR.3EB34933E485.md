@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2018-06-12 iki 2018-07-11
+Suvestinė redakcija nuo 2018-07-12 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -1341,7 +1341,10 @@ Mokesčių administratorius (jo pareigūnas), atlikdamas jam pavestas funkcijas,
 Mokesčių administratorius (jo pareigūnas), atlikdamas jam pavestas funkcijas, turi teisę:
 
 
-1) gauti iš asmenų, tarp jų iš kredito, mokėjimo ir elektroninių pinigų įstaigų, funkcijoms atlikti reikiamus duomenis ir dokumentų nuorašus, kompiuterinių laikmenų duomenis (kopijas) apie to arba kito asmens turtą, pajamas, išlaidas ir veiklą, naudotis savo ir kitų juridinių asmenų valdomų ar tvarkomų registrų, duomenų bazių informacija;
+1) gauti iš asmenų, tarp jų iš kredito, mokėjimo ir elektroninių pinigų įstaigų, funkcijoms atlikti reikiamus duomenis ir dokumentų nuorašus, kompiuterinių laikmenų duomenis (kopijas) apie to arba kito asmens, įskaitant naudos gavėją, kaip ši sąvoka apibrėžta Lietuvos Respublikos pinigų plovimo ir terorizmo finansavimo prevencijos įstatyme, turtą, pajamas, išlaidas ir veiklą, naudotis savo ir kitų juridinių asmenų valdomų ar tvarkomų registrų, duomenų bazių informacija; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1441, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11753
+ 
 
 
 
@@ -2470,14 +2473,6 @@ Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
 
 
 2. Šio Įstatymo nustatyta tvarka mokesčių administratoriui atliekant pakartotinį mokesčių mokėtojo patikrinimą, šio straipsnio 1 dalies nuostatos netaikomos, tačiau mokesčių administratorius tokio patikrinimo metu negali apskaičiuoti mokesčio už ilgesnį laikotarpį negu pirminio patikrinimo metu.
-
-
-
-
-3. Jeigu mokesčių mokėtojas pateikia mokesčio deklaraciją arba patikslintą mokesčio deklaraciją likus mažiau kaip 90 dienų iki šio straipsnio 1 dalyje numatyto mokesčio apskaičiavimo (perskaičiavimo) termino pabaigos, mokesčių administratorius gali patikrinti šioje deklaracijoje deklaruoto mokesčio apskaičiavimo teisingumą ir jį perskaičiuoti neatsižvelgdamas į šio straipsnio 1 dalies nuostatas, jeigu mokesčių administratorius patikrinimą pradeda ne vėliau kaip per 90 dienų nuo šios deklaracijos pateikimo dienos. 
-Papildyta straipsnio dalimi:
-Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
- 
 
 
 
@@ -6047,8 +6042,6 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
 
 
 
- 
- 
 Lietuvos Respublikos
 mokesčių administravimo įstatymo 
 priedas
@@ -6062,14 +6055,17 @@ priedas
 
 
 
-2. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB (OL 2011 L 64, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. gegužės 25 d. Tarybos direktyva (ES) 2016/881 (OL 2016 L 146, p. 8).
+2. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB (OL 2011 L 64, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 6 d. Tarybos direktyva (ES) 2016/2258 (OL 2016 L 324, p. 1).
 
 
-Priedo pakeitimai:
-Nr. X-247, 2005-06-16, Žin., 2005, Nr. 81-2939 (2005-06-30)
-Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
+
+
+3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ir teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlameno ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB (OL 2015 L 141, p. 73).
+
+
 Priedo pakeitimai:
 Nr. XIII-374, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09154
+Nr. XIII-1441, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11753
  
 
 
@@ -6260,3 +6256,23 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 14, 61 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1216, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09732
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 13 ir 16 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1155, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08527
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 139 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1156, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08528
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 148 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 38, 68, 87, 100, 132, 139, 140 straipsnių pakeitimo ir Įstatymo papildymo 40-1 straipsniu įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1441, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11753
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 33 straipsnio ir priedo pakeitimo įstatymas
