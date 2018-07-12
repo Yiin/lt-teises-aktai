@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8F098889C62F"
 
 # Lietuvos Respublikos kultūros rėmimo fondo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2018-07-11
+Suvestinė redakcija nuo 2018-07-12 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 81-3320, i. k. 1071010ISTA00X-1260
  
@@ -64,9 +64,10 @@ Vilnius
 
 4 straipsnis. Fondo lėšų naudojimas
 
-1. Fondo lėšos naudojamos kultūros ir meno projektams, programoms ir kitoms priemonėms, atrinktoms viešojo konkurso būdu, finansuoti ir jų vertinimo ekspertų paslaugoms apmokėti. Ekspertų paslaugoms apmokėti skiriama ne daugiau kaip 2 procentai atitinkamų metų Fondo lėšų. Fondo lėšos negali būti naudojamos jo administravimo išlaidoms.
+1. Fondo lėšos naudojamos kultūros ir meno projektams, programoms ir kitoms priemonėms, atrinktoms viešojo konkurso būdu, finansuoti. Fondo lėšos negali būti naudojamos jo administravimo išlaidoms. Ekspertų paslaugoms ir tyrimų išlaidoms apmokėti skiriama ne daugiau kaip 4 procentai atitinkamų metų Fondo lėšų.
 Straipsnio dalies pakeitimai:
 Nr. XII-1277, 2014-10-21, paskelbta TAR 2014-11-04, i. k. 2014-15748
+Nr. XIII-1458, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11771
  
 
 2. Lietuvos kultūros taryba kultūros ministro nustatyta tvarka priima sprendimus dėl Fondo lėšų skyrimo.
@@ -110,4 +111,9 @@ Lietuvos Respublikos kultūros rėmimo fondo įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1277, 2014-10-21, paskelbta TAR 2014-11-04, i. k. 2014-15748
 Lietuvos Respublikos kultūros rėmimo fondo įstatymo Nr. X-1260 4 ir 5 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1458, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11771
+Lietuvos Respublikos kultūros rėmimo fondo įstatymo Nr. X-1260 1, 2 ir 4 straipsnių pakeitimo įstatymas
 
