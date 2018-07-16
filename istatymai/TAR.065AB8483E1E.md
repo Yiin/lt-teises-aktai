@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2018-04-01 iki 2018-07-15
+Suvestinė redakcija nuo 2018-07-16 iki 2018-09-19
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -3968,9 +3968,10 @@ Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
 
 
 
-3. Inspektoriumi skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį išsilavinimą ir pareigoms atlikti būtiną kompetenciją.
+3. Inspektoriumi skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis aukštąjį universitetinį išsilavinimą ir pareigoms atlikti būtiną kompetenciją bei atitinkantis Reglamento (ES) 2016/679 53 straipsnio 2 dalies reikalavimus. Nepriekaištingos reputacijos reikalavimai taikomi tokie, kokie valstybės tarnautojams nustatyti Valstybės tarnybos įstatyme. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
+Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
  
 
 
@@ -3999,7 +4000,7 @@ Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
 8. Inspektorius atleidžiamas iš pareigų, kai:
 
 
-1) pasibaigia jo įgaliojimų laikas ir jis neskiriamas kitai kadencijai;
+1) pasibaigia jo įgaliojimų laikas;
 
 
 
@@ -4009,24 +4010,17 @@ Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
 
 
 
-3) nedirba dėl laikinojo nedarbingumo ilgiau kaip 120 kalendorinių dienų iš eilės arba ilgiau kaip 140 dienų per paskutinius 12 mėnesių, jei įstatymų nenustatyta, kad dėl tam tikros ligos pareigos paliekamos ilgesnį laiką, arba inspektorius pagal Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos išvadą negali eiti šių pareigų;
+3) kai nustatoma, kad jis padarė sunkų nusižengimą;
 
 
 
 
-4) jam įsiteisėja apkaltinamasis teismo nuosprendis;
+4) nebeatitinka šio straipsnio 3 ir 4 dalyse jam keliamų reikalavimų. 
 
 
-
-
-5) daugiau kaip pusė visų Seimo narių pareiškia nepasitikėjimą juo;
-
-
-
-
-6) praranda Lietuvos Respublikos pilietybę.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
+ 
 
 
 
@@ -4039,7 +4033,10 @@ Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 
 
 
-10. Inspektoriaus veiklą užtikrina Žurnalistų etikos inspektoriaus tarnyba. Žurnalistų etikos inspektoriaus tarnyba yra valstybės biudžetinė įstaiga, jai vadovauja inspektorius. 
+10. Inspektoriaus veiklą užtikrina Žurnalistų etikos inspektoriaus tarnyba. Žurnalistų etikos inspektoriaus tarnyba yra biudžetinė įstaiga, kuriai vadovauja ir tarnybos struktūrą tvirtina inspektorius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
+ 
 
 
 
@@ -4054,7 +4051,10 @@ Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 
 
 
-13. Žurnalistų etikos inspektoriaus tarnybos uždavinius, funkcijas, teises ir pareigas, struktūrą, darbo organizavimą ir finansavimą nustato Seimo patvirtinti Žurnalistų etikos inspektoriaus tarnybos nuostatai.
+13. Žurnalistų etikos inspektoriaus tarnybos uždaviniai, funkcijos, teisės ir pareigos, darbo organizavimo tvarka nustatomi Seimo patvirtintuose Žurnalistų etikos inspektoriaus tarnybos nuostatuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
+ 
 
 
 
@@ -4087,7 +4087,10 @@ Nr. XI-2353, 2012-11-06, Žin., 2012, Nr. 132-6681 (2012-11-15)
 
 
 
-3) nagrinėja suinteresuotų asmenų skundus (pareiškimus) dėl jų asmens duomenų tvarkymo pažeidimo visuomenės informavimo priemonėse;
+3) nagrinėja duomenų subjektų pagal Reglamento (ES) 2016/679 77 straipsnio 1 dalį pateiktus skundus Asmens duomenų teisinės apsaugos įstatymo nustatyta tvarka. Nagrinėjant šiuos skundus, šio straipsnio 3, 4, 5 ir 9–18 dalys netaikomos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
+ 
 
 
 
@@ -4282,7 +4285,10 @@ Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
 
 
 
-6. Šio straipsnio 1 dalies 1–3 punktuose nustatytais atvejais inspektorius nagrinėja tik tų asmenų, kurių teisės visuomenės informavimo priemonėse yra pažeistos, arba jų atstovų pagal įstatymą, taip pat šių asmenų atstovų pagal pavedimą skundus (pareiškimus). Šiais atvejais anoniminiai skundai (pareiškimai) netiriami.
+6. Šio straipsnio 1 dalies 1 ir 2 punktuose nustatytais atvejais inspektorius nagrinėja tik tų asmenų, kurių teisės visuomenės informavimo priemonėse yra pažeistos, arba jų atstovų pagal įstatymą, taip pat šių asmenų atstovų pagal pavedimą skundus (pareiškimus). Šiais atvejais anoniminiai skundai (pareiškimai) netiriami. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
+ 
 
 
 
@@ -4548,6 +4554,14 @@ priedas
 
 
 4. 2010 m. kovo 10 d. Europos Parlamento ir Tarybos direktyva 2010/13/ES dėl valstybių narių įstatymuose ir kituose teisės aktuose išdėstytų tam tikrų nuostatų, susijusių su audiovizualinės žiniasklaidos paslaugų teikimu, derinimo (Audiovizualinės žiniasklaidos paslaugų direktyva) (kodifikuota redakcija) (OL 2010 L 263, p. 15).
+
+
+
+
+5. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1). 
+Papildyta punktu:
+Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
+ 
 
 
 Priedo pakeitimai:
@@ -4834,3 +4848,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 22, 31 ir 33 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 17, 19, 22, 24, 49, 50 ir 52 straipsnių pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 49 ir 50 straipsnių ir priedo pakeitimo įstatymas
