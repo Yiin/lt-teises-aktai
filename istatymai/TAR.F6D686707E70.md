@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-07-15
+Suvestinė redakcija nuo 2018-07-16 iki 2018-08-31
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -945,43 +945,25 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 
 
 
-27 straipsnis. Darbuotojo asmens duomenų ir jo teisės į privatų gyvenimą apsauga
+27 straipsnis. Darbuotojų teisės į privatų gyvenimą ir į asmens duomenų apsaugą 
 
 
-1. Darbdavys privalo gerbti darbuotojo teisę į privatų gyvenimą, užtikrinti darbuotojo asmens duomenų apsaugą.
-
-
-
-
-2. Darbdaviui draudžiama tvarkyti su darbo reikmėmis nesusijusius (perteklinius) darbuotojo asmens duomenis, taip pat pateikti darbuotojo asmens duomenis tretiesiems asmenims, išskyrus įstatymuose nustatytus atvejus.
+1. Darbdavys privalo gerbti darbuotojų teises į privatų gyvenimą ir į asmens duomenų apsaugą.
 
 
 
 
-3. Darbuotojai turi būti supažindinti su informacinių ir komunikacinių technologijų naudojimo bei darbuotojų stebėsenos ir kontrolės darbo vietoje tvarka.
+2. Darbdaviui įgyvendinant nuosavybės ar valdymo teises į darbo vietoje naudojamas informacines ir komunikacines technologijas, negali būti pažeidžiamas darbuotojų asmeninio susižinojimo slaptumas.
 
 
 
 
-4. Darbdaviui įgyvendinant nuosavybės ar valdymo teises į darbo vietoje naudojamas informacines ir komunikacines technologijas, negali būti pažeidžiamas darbuotojo asmeninio susižinojimo slaptumas.
+3. Darbuotojų teisės į privatų gyvenimą įgyvendinimo ypatumus gali nustatyti įstatymai ir kitos darbo teisės normos.
 
 
-
-
-5. Vaizdo stebėjimas ir garso įrašymas darbo vietoje gali būti vykdomas, kai dėl darbo specifikos būtina užtikrinti asmenų, turto ar visuomenės saugumą ir kitais atvejais, kai kiti būdai ar priemonės yra nepakankami ir (arba) netinkami siekiant išvardytų tikslų, išskyrus atvejus, kai tiesiogiai siekiama kontroliuoti darbo kokybę ir mastą. Apie vaizdo stebėjimą ir garso įrašymą konkrečioje darbovietės vietoje informuojama vaizdiniu žymeniu matomoje vietoje. 
-
-
-
-
-6. Darbuotojo asmens duomenų teisinę apsaugą ir teisės į privatų gyvenimą įgyvendinimo ypatumus gali nustatyti įstatymai ir kitos darbo teisės normos.
-
-
-
-
-7. Darbdavys, kurio vidutinis darbuotojų skaičius yra daugiau kaip penkiasdešimt, privalo priimti ir įprastais darbovietėje būdais paskelbti darbuotojų asmens duomenų saugojimo politiką ir jos įgyvendinimo priemones.
+Straipsnio pakeitimai:
+Nr. XIII-1430, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11737
  
-
-
 
 
 
@@ -9426,3 +9408,13 @@ Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-243, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05914
 Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo Nr. XII-2603 1 straipsniu patvirtinto Lietuvos Respublikos darbo kodekso 133 ir 134 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-946, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21636
+Lietuvos Respublikos darbo kodekso 63 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1430, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11737
+Lietuvos Respublikos darbo kodekso 27 straipsnio pakeitimo įstatymas
