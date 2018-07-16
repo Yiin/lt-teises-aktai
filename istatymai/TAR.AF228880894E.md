@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF228880894E"
 
 # Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymas
 
-Suvestinė redakcija nuo 2014-11-27 iki 2018-07-15
+Suvestinė redakcija nuo 2018-07-16 iki 2018-10-04
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 68-2774, i. k. 1021010ISTA00IX-985
  
@@ -84,7 +84,10 @@ Nr. XI-1958, 2012-03-29, Žin., 2012, Nr. 39-1922 (2012-03-31)
 
 12) bendradarbiauja su tarptautinėmis organizacijomis, palaiko ryšius su kitų valstybių institucijomis, organizuojančiomis rinkimus ir referendumus, taip pat su institucijomis, koordinuojančiomis Europos Sąjungos piliečių iniciatyvas;
 
-13) apibendrina ir neribotą laiką skelbia informaciją apie Lietuvos Respublikoje rengtus rinkimus ir referendumus bei jų rezultatus, rinkimuose dalyvavusius kandidatus;
+13) apibendrina ir neribotą laiką skelbia informaciją apie Lietuvos Respublikoje rengtus rinkimus, referendumus, Lietuvos Respublikos piliečių įstatymų leidybos ir Europos Sąjungos piliečių iniciatyvas bei jų rezultatus, įstatymų numatytus politinių partijų ir politinių kampanijų finansavimo bei politinės reklamos skleidimo duomenis, politinės kampanijos aukotojų paaukotas sumas, duomenis apie politinių partijų ir politinių kampanijų išlaidas ir skolos įsipareigojimus;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1433, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11743
+ 
 
 14) apibendrina rinkimų ir referendumų patirtį, rūpinasi Lietuvos Respublikos piliečių ir asmenų, nuolat gyvenančių Lietuvoje, švietimu ir informavimu apie rinkimus, teikia informaciją apie jų dalyvavimą rinkimuose;
 
@@ -99,9 +102,15 @@ Papildyta straipsnio punktu:
 Nr. XII-1339, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17992
  
 
-19) atlieka kitas šiame bei kituose įstatymuose nustatytas funkcijas.
+19) rinkimų, referendumo, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos, Europos Sąjungos piliečių iniciatyvos, politinių kampanijų, politinių partijų finansavimo, rinkėjų informavimo, rinkimų ir referendumų procesų skaidrumo bei demokratinės sistemos veikimo valstybėje užtikrinimo, kandidatų sąžiningos konkurencijos tikslais Vyriausiosios rinkimų komisijos interneto svetainėje skelbia pagal kandidatų ar jų atstovų pateiktus pareiškinius ir kitus dokumentus parengtą informaciją apie kandidatus, kandidatų gautus balsus, rinkimų, referendumo komisijų narių, stebėtojų, atstovų, iniciatyvinių grupių narių, politinės kampanijos aukotojų sąrašus Vyriausiosios rinkimų komisijos nustatyta tvarka. Informacija apie kandidatus, kandidatų gautus balsus ir rinkimų, referendumo komisijų narių, stebėtojų, atstovų, iniciatyvinių grupių narių, politinės kampanijos aukotojų sąrašai po šios informacijos ir sąrašų paskelbimo Vyriausiosios rinkimų komisijos interneto svetainėje gali būti keičiami, kai taisomos kalbos klaidos ar informacija interneto svetainėje skiriasi nuo informacijos, pateiktos pareiškiniuose ir kituose dokumentuose. Interneto svetainėje negali būti skelbiami kandidatų ir kitų asmenų asmens kodai, pilietybę ar asmens tapatybę patvirtinančių dokumentų numeriai, gyvenamosios vietos adresas; 
+Papildyta straipsnio punktu:
+Nr. XIII-1433, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11743
+ 
+
+20) atlieka kitas šiame bei kituose įstatymuose nustatytas funkcijas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1339, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17992
+Nr. XIII-1433, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11743
  
 
 3. Vykdydama Lietuvos Respublikos Seimo rinkimus, Vyriausioji rinkimų komisija, be šio straipsnio 2 dalyje nustatytų funkcijų: 
@@ -624,5 +633,10 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1339, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17992
+Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 3 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1433, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11743
 Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 3 straipsnio pakeitimo įstatymas
 
