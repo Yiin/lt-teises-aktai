@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2018-07-12 iki 2018-07-15
+Suvestinė redakcija nuo 2018-07-16 iki 2018-08-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -2522,8 +2522,11 @@ užtraukia baudą nuo dvidešimt iki penkiasdešimt eurų.
 79 straipsnis. Neigiamą poveikį nepilnamečių vystymuisi darančios viešosios informacijos žymėjimo ir (ar) skleidimo reikalavimų pažeidimas 
 
 
-1. Neigiamą poveikį nepilnamečių vystymuisi darančios viešosios informacijos žymėjimo ir (ar) skleidimo reikalavimų pažeidimas arba neigiamą poveikį nepilnamečių vystymuisi darančios draudžiamos skelbti viešosios informacijos, susijusios su asmens duomenimis, paskelbimas 
-užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+1. Neigiamą poveikį nepilnamečių vystymuisi darančios viešosios informacijos žymėjimo ir (ar) skleidimo reikalavimų pažeidimas 
+užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
+ 
 
 
 
@@ -2546,10 +2549,11 @@ užtraukia baudą nuo šešių šimtų iki dviejų tūkstančių eurų.
 
 
 
-5. Neigiamą poveikį nepilnamečių vystymuisi darančios viešosios informacijos žymėjimo ir (ar) skleidimo reikalavimų pažeidimas arba neigiamą poveikį nepilnamečių vystymuisi darančios draudžiamos skelbti viešosios informacijos, susijusios su asmens duomenimis, paskelbimas radijo ir (ar) televizijos programose, atskirose programose, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų kataloguose
+5. Neigiamą poveikį nepilnamečių vystymuisi darančios viešosios informacijos žymėjimo ir (ar) skleidimo reikalavimų pažeidimas radijo ir (ar) televizijos programose, atskirose programose, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų kataloguose
 užtraukia įspėjimą arba baudą radijo ir (ar) televizijos programų transliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų vadovams arba kitiems atsakingiems asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
 Straipsnio dalies pakeitimai:
 Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297
+Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
  
 
 
@@ -2632,20 +2636,10 @@ užtraukia baudą nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dvi
 
 
 
-82 straipsnis. Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo pažeidimas
-
-
-1. Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo pažeidimas
-užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki penkių šimtų aštuoniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
-
-
-
-
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą asmenims nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio vieno šimto iki trijų tūkstančių eurų.
+82 straipsnis. Neteko galios nuo 2018-07-16
+Straipsnio naikinimas:
+Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
  
-
-
 
 
 
@@ -17882,7 +17876,7 @@ Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594
 
 
 
-29) Valstybinės duomenų apsaugos inspekcijos – dėl šio kodekso 82, 83 straipsniuose, 224 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+29) Valstybinės duomenų apsaugos inspekcijos – dėl šio kodekso 83 straipsnyje, 224 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594
 Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
