@@ -20,15 +20,14 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-07-16 iki 2018-07-16
+Suvestinė redakcija nuo 2018-07-17 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
  
 Nauja įstatymo redakcija: 
 Nr. VIII-717, 1998 04 28, Žin., 1998, Nr. 41(1)-1131 (1998 05 01)
  
-LIETUVOS RESPUBLIKOS VYRIAUSYBĖS
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMAS
  
 1994 m. gegužės 19 d. Nr. I-464
 Vilnius
@@ -456,7 +455,10 @@ Ministras Pirmininkas ir ministrai negali būti patraukti baudžiamojon atsakomy
 
 
 
-9. Vyriausybės nariai turi teisę į 28 kalendorinių dienų trukmės kasmetines minimaliąsias atostogas. Vadovaujantis Darbo kodekso nuostatomis, Vyriausybės nariams gali būti suteikiamos šios tikslinės atostogos: nėštumo ir gimdymo, tėvystės, mokymosi, valstybinėms ar visuomeninėms pareigoms atlikti, nemokamos.
+9. Vyriausybės nariai turi teisę į 20 darbo dienų trukmės kasmetines minimaliąsias atostogas. Vadovaujantis Darbo kodekso nuostatomis, Vyriausybės nariams gali būti suteikiamos šios tikslinės atostogos: nėštumo ir gimdymo, tėvystės, mokymosi, nemokamos. Vyriausybės narys gali būti atleidžiamas nuo tarnybinių pareigų, kai tai būtina visuomeninėms valstybinėms, piliečio ar kitoms pareigoms vykdyti, šio straipsnio 10 dalyje nustatyta tvarka. Vyriausybės nariai turi teisę į Darbo kodekse nustatytas lengvatas asmenims, auginantiems vaikus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+ 
 
 
 
@@ -693,7 +695,10 @@ Nr. XIII-1431, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11739
 
 
 
-14) priima į pareigas ir atleidžia iš jų Vyriausybės atstovus, Vyriausybės įgaliotinį ir jo pavaduotoją, Vyriausybės įstaigų vadovus, kitus įstatymų nustatytus valstybės tarnautojus ir pareigūnus; atitinkamos valdymo srities ministro teikimu Vyriausybės priimtiems valstybės tarnautojams ir pareigūnams skiria tarnybines ar drausmines nuobaudas, juos skatina;
+14) priima į pareigas ir atleidžia iš jų Vyriausybės atstovus, Vyriausybės įgaliotinį ir jo pavaduotoją, Vyriausybės įstaigų vadovus, kitus įstatymų nustatytus valstybės tarnautojus ir pareigūnus, juos skatina; atitinkamos valdymo srities ministro teikimu Vyriausybės priimtiems valstybės tarnautojams ir pareigūnams skiria tarnybines nuobaudas.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+ 
 
 
 
@@ -776,7 +781,10 @@ MINISTRO PIRMININKO IR MINISTRŲ KOMPETENCIJA
 
 
 
-4) skiria Ministro Pirmininko priimtiems į pareigas valstybės tarnautojams ir pareigūnams tarnybines ar drausmines nuobaudas, skatina Ministro Pirmininko priimtus į pareigas valstybės tarnautojus ir pareigūnus, skiria jiems pašalpas, suteikia jiems atostogas bei siunčia juos į komandiruotes, jeigu įstatymai nenumato kitaip; gali pavesti Vyriausybės kancleriui skatinti Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus, skirti jiems tarnybines ar drausmines nuobaudas ir pašalpas, suteikti jiems atostogas ir siųsti juos į komandiruotes;
+4) skiria Ministro Pirmininko priimtiems į pareigas valstybės tarnautojams tarnybines nuobaudas, skatina Ministro Pirmininko priimtus į pareigas valstybės tarnautojus ir pareigūnus, skiria jiems pašalpas, suteikia jiems atostogas ir siunčia juos į komandiruotes, jeigu įstatymai nenustato kitaip; gali pavesti Vyriausybės kancleriui skatinti Ministro Pirmininko politinio (asmeninio) pasitikėjimo valstybės tarnautojus, skirti jiems tarnybines nuobaudas ir pašalpas, suteikti jiems atostogas ir siųsti juos į komandiruotes;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+ 
 
 
 
@@ -950,17 +958,26 @@ Nr. X-1182, 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
 
 
 
-13) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų ministerijos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, juos skatina, skiria jiems tarnybines ar drausmines nuobaudas ir pašalpas arba šias funkcijas gali pavesti vykdyti ministerijos kancleriui;
+13) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų ministerijos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, juos skatina, skiria jiems pašalpas, skiria valstybės tarnautojams tarnybines nuobaudas arba priima sprendimus dėl darbo pareigų pažeidimo ar šias funkcijas gali pavesti vykdyti ministerijos kancleriui;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+ 
 
 
 
 
-14) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų įstaigų prie ministerijos vadovus, juos skatina ir skiria jiems tarnybines ar drausmines nuobaudas ir pašalpas, jei įstatymai nenustato kitaip;
+14) įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų įstaigų prie ministerijos bei kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina ministerija, vadovus, juos skatina ir skiria jiems tarnybines nuobaudas ir pašalpas, jeigu įstatymai nenustato kitaip;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+ 
 
 
 
 
-15) siūlo Vyriausybei skirti į pareigas ir atleisti iš pareigų jam pavestose valdymo srityse veikiančių Vyriausybės įstaigų vadovus ir Vyriausybės priimamus kitus šių įstaigų pareigūnus, suteikia šiems pareigūnams atostogas, siunčia juos į komandiruotes, skiria pašalpas; teikia pasiūlymus Vyriausybei dėl Vyriausybės priimamiems valstybės tarnautojams ir pareigūnams, veikiantiems jam pavestose valdymo srityse, tarnybinių ar drausminių nuobaudų skyrimo, dėl jų skatinimo. Jeigu Vyriausybės įstaigos veikla yra susijusi su keliems ministrams pavestomis valdymo sritimis, šiuos įgaliojimus įgyvendina Vyriausybės paskirtas atitinkamos valdymo srities ministras;
+15) teikia pasiūlymus Vyriausybei dėl Vyriausybės priimamiems valstybės tarnautojams ir pareigūnams, veikiantiems jam pavestose valdymo srityse, tarnybinių nuobaudų skyrimo, dėl jų skatinimo. Jeigu Vyriausybės įstaigos veikla yra susijusi su keliems ministrams pavestomis valdymo sritimis, šiuos įgaliojimus įgyvendina Vyriausybės paskirtas atitinkamos valdymo srities ministras;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+ 
 
 
 
@@ -1494,7 +1511,10 @@ Nr. XI-185, 2009-03-10, Žin., 2009, Nr. 29-1139 (2009-03-17)
 
 
 
-6) ministro pavedimu įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų ministerijos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, taip pat juos skatina, skiria jiems tarnybines ar drausmines nuobaudas ar pašalpas;
+6) ministro pavedimu įstatymų nustatyta tvarka priima į pareigas ir atleidžia iš jų ministerijos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, taip pat juos skatina, skiria pašalpas, skiria valstybės tarnautojams tarnybines nuobaudas ar priima sprendimus dėl darbo pareigų pažeidimo;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+ 
 
 
 
@@ -1674,7 +1694,10 @@ Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
 
 
 
-2. Vyriausybei teikiamas teisės akto projektas, susijęs ne tik su jį parengusios (teikiančios) institucijos, bet ir su kitų institucijų kompetencija, turi būti suderintas Vyriausybės darbo reglamento nustatyta tvarka.
+2. Vyriausybei teikiamas teisės akto projektas, susijęs ne tik su jį parengusios (teikiančios) institucijos kompetencija, bet ir su kitų institucijų kompetencija, turi būti su jomis derintas Vyriausybės darbo reglamento nustatyta tvarka, išskyrus atvejus, kai teisės akto projektas teikiamas Vyriausybei karo, nepaprastosios padėties, mobilizacijos, ekstremaliosios situacijos ar ekstremaliojo įvykio metu ar kai teisės akto projektu būtina neatidėliotinai spręsti klausimus, būtinus valstybės karinės gynybos ir kitoms gyvybiškai svarbioms valstybės funkcijoms užtikrinti, ir jeigu minėtais atvejais teisės akto projekto nepriėmimas nedelsiant lemtų neigiamų pasekmių valstybės ir visuomenės saugumui ir stabilumui atsiradimą, taip pat kai teisės akto projektu siūloma skelbti gedulą. Vyriausybei teikiamų nutarimų projektų pagal Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymą derinimo su kitomis institucijomis tvarką nustato Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+ 
 
 
 Straipsnio pakeitimai:
@@ -2400,3 +2423,8 @@ Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 41-1 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1431, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11739
 Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 22 ir 29-1 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 6, 13, 18, 22, 24, 26, 29-1, 30, 31-1, 38, 45 ir 46 straipsnių pakeitimo įstatymas
