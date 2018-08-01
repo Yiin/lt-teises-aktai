@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.43F9A0BDB7EE"
 
 # Lietuvos Respublikos kultūros centrų įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2018-07-31
+Suvestinė redakcija nuo 2018-08-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 120-4435, i. k. 1041010ISTA0IX-2395
  
@@ -449,15 +449,83 @@ KULTŪROS CENTRŲ DARBUOTOJŲ DARBO SANTYKIAI
 9 straipsnis. Kultūros centrų vadovų darbo santykių reglamentavimo ypatumai
 
 
-1. Valstybės ir savivaldybių kultūros centrų vadovai į pareigas skiriami konkurso būdu teisės aktų nustatyta tvarka. Kvalifikacinius reikalavimus valstybės ir savivaldybių kultūros centrų vadovams nustato Kultūros ministerija. 
+1. Valstybės ir savivaldybių kultūros centrų vadovai į pareigas skiriami 5 metams konkurso būdu Lietuvos Respublikos Vyriausybės nustatyta tvarka. To paties valstybės kultūros centro vadovu tas pats asmuo gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. Kvalifikacinius reikalavimus valstybės ir savivaldybių kultūros centrų vadovams nustato kultūros ministras.
 
 
 
 
-2. Kituose kultūros centruose konkursinių pareigų sąrašą ir konkursų tvarką gali nustatyti darbdavys arba steigėjas.
+2. Kituose kultūros centruose pareigų, į kurias priimama konkurso būdu, sąrašą ir konkursų tvarką gali nustatyti darbdavys arba steigėjas.
+
+
+
+
+3. Valstybės ir savivaldybių kultūros centrų vadovai, taip pat pretenduojantys šias pareigas eiti asmenys turi būti nepriekaištingos reputacijos. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu atitinka bent vieną iš šių sąlygų:
+
+
+1) yra pripažintas kaltu padaręs tyčinį nusikaltimą ir turi neišnykusį ar nepanaikintą teistumą;
+
+
+
+
+2) yra pripažintas kaltu dėl baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio baudžiamojo nusižengimo padarymo ir nuo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai;
+
+
+
+
+3) yra pripažintas kaltu dėl nusikaltimų, kuriais padaryta turtinė žala valstybei, ir turi neišnykusį ar nepanaikintą teistumą;
+
+
+
+
+4) yra uždraustos organizacijos narys;
+
+
+
+
+5) yra atleistas iš skiriamų arba renkamų pareigų dėl priesaikos ar pasižadėjimo sulaužymo, darbo drausmės pažeidimų ir nuo atleidimo iš pareigų dienos nepraėjo 3 metai;
+
+
+
+
+6) piktnaudžiauja alkoholiu, vartoja narkotines, psichotropines ar toksines medžiagas;
+
+
+
+
+7) yra pripažintas šiurkščiai pažeidęs Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimus ir nuo pažeidimo paaiškėjimo dienos nepraėjo 3 metai;
+
+
+
+
+8) yra pripažintas šiurkščiai pažeidęs kultūros ministro patvirtintas Kultūros įstaigų darbuotojų profesinės veiklos ir etikos taisykles (toliau – Taisyklės) ir nuo pažeidimo paaiškėjimo dienos nepraėjo 3 metai. Taisyklių šiurkščiu pažeidimu laikomas du ir daugiau kartų per vienus metus kultūros įstaigos darbuotojo padarytas Taisyklių pažeidimas, kai toks pažeidimas žemina žmogaus orumą, diskredituoja kultūros įstaigos reputaciją.
+TAR pastaba. 9 straipsnio 3 dalis netaikoma valstybės ir savivaldybių kultūros centrų vadovams, priimtiems į pareigas iki įstatymo Nr. XIII-1417 įsigaliojimo (2018-08-01), jeigu 9 straipsnio 3 dalyje numatytos sąlygos atsirado iki šio įstatymo įsigaliojimo.
+
+
+
+
+
+
+4. Valstybės ir savivaldybės kultūros centro vadovui leidžiama dirbti kitą darbą ir už šį darbą gauti atlyginimą, jeigu tai:
+
+
+1) nesukelia viešųjų ir privačių interesų konflikto; 
+
+
+
+
+2) nediskredituoja kultūros centro autoriteto.
+
+
+
+
+
+
+5. Sprendimą dėl leidimo valstybės ir savivaldybės kultūros centro vadovui dirbti kitą darbą ir už šį darbą gauti atlyginimą priima šios įstaigos vadovą į pareigas skiriančios institucijos vadovas jo nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1417, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11328
  
-
-
 
 
 
@@ -744,6 +812,7 @@ Kultūros ministerija iki šio įstatymo įsigaliojimo dienos parengia ir patvir
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
  
 
@@ -756,3 +825,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-732, 2010-04-08, Žin., 2010, Nr. 48-2282 (2010-04-27), i. k. 1101010ISTA00XI-732
 Lietuvos Respublikos kultūros centrų įstatymo 4, 8, 11 ir 13 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1417, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11328
+Lietuvos Respublikos kultūros centrų įstatymo Nr. IX-2395 9 straipsnio pakeitimo įstatymas
