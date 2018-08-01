@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2017-11-01 iki 2018-07-31
+Suvestinė redakcija nuo 2018-08-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 79-0; Žin. 1992, Nr.14-378, i. k. 0921010ISTA00I-2455
  
@@ -217,6 +217,13 @@ VALSTYBĖS PARAMA DAUGIABUČIAMS NAMAMS ATNAUJINTI
 
 
 3. Dėl būsto šildymo išlaidų kompensavimo nepasiturintiems gyventojams pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą bendrojo naudojimo objektų valdytojas arba savivaldybės programos įgyvendinimo administratorius teikia savivaldybės administracijai butų ir kitų patalpų savininkų sprendimo dėl daugiabučio namo atnaujinimo protokolo išrašą.
+
+
+
+
+4. Daugiabučio namo butų ir kitų patalpų savininkų asmens duomenys atnaujinimo projekto parengimo, įgyvendinimo ir valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) teikimo tikslais tvarkomi Vyriausybės nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIII-1464, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11779
  
 
 
@@ -525,3 +532,8 @@ Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modern
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-498, 2017-06-22, paskelbta TAR 2017-06-27, i. k. 2017-10841
 Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1464, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11779
+Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 5 straipsnio pakeitimo įstatymas
