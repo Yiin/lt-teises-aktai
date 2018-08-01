@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2018-07-05 iki 2018-07-31
+Suvestinė redakcija nuo 2018-08-01 iki 2019-05-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
  
@@ -2485,7 +2485,10 @@ Kredito unijos paslapties apsaugai mutatis mutandis taikomas Lietuvos Respubliko
 
 
 
-49 straipsnis. Su finansinių paslaugų teikimu susijusios informacijos teikimas
+49 straipsnis. Klientų interesų apsauga 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-1100, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06741
+ 
 
 
 1. Vietose, kuriose kredito unija teikia finansines paslaugas klientams, kiekvienam galimam klientui laisvai prieinamoje vietoje privalo būti nurodytas kredito unijos pavadinimas ir finansinės paslaugos, kurias turi teisę teikti kredito unija, taip pat turi būti sudarytos sąlygos viešai susipažinti su šio straipsnio 2 dalyje nurodyta informacija.
@@ -2494,6 +2497,16 @@ Kredito unijos paslapties apsaugai mutatis mutandis taikomas Lietuvos Respubliko
 
 
 2. Prieš sudarydama sutartį dėl finansinių paslaugų teikimo, kredito unija privalo suteikti klientui išsamią informaciją, susijusią su finansinių paslaugų teikimo sąlygomis, paslaugų kaina, paslaugų teikimo terminais, galimomis pasekmėmis, ir kitokią informaciją, turinčią įtakos kliento apsisprendimui sudaryti sutartį.
+
+
+
+
+3. Kredito unija privalo priežiūros institucijos nustatyta tvarka nagrinėti klientų skundus (prašymus), susijusius su kredito unijos teikiamomis finansinėmis paslaugomis (toliau – skundas). Kredito unija privalo išnagrinėti rašytinį kliento skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė klientas ir kredito unija. Išskirtiniais atvejais, kai dėl priežasčių, kurių kredito unija negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio klientas gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Kredito unija klientų skundus nagrinėja neatlygintinai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1100, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06741
+Straipsnio dalies pakeitimai:
+Nr. XIII-1307, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11312
+ 
 
 
 
