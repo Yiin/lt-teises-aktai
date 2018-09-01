@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2018-07-16 iki 2018-08-31
+Suvestinė redakcija nuo 2018-09-01 iki 2018-09-30
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -5297,17 +5297,25 @@ Nr. XII-2688, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26498
 
 
 
-4. Išskaitų iš darbo užmokesčio, neviršijančio Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos, dydis negali viršyti dvidešimt procentų išmokėtino darbo užmokesčio, o išieškant išlaikymą periodinėmis išmokomis žalos, padarytos suluošinimu ar kitokiu sveikatos sužalojimu, taip pat maitintojo gyvybės atėmimu, atlyginimą ir žalos, padarytos nusikalstama veika, atlyginimą, – iki penkiasdešimt procentų darbuotojui išmokėtino darbo užmokesčio.
+4. Išskaitų iš darbo užmokesčio dydžiai nustatyti Lietuvos Respublikos civilinio proceso kodekse.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1461, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11776
+ 
 
 
 
 
-5. Darant išskaitas iš darbo užmokesčio, neviršijančio Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos, pagal kelis vykdomuosius dokumentus, darbuotojui turi būti paliekama penkiasdešimt procentų išmokėtino darbo užmokesčio.
+5. Neteko galios nuo 2018-09-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1461, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11776
+ 
 
 
 
 
-6. Iš darbo užmokesčio dalies, viršijančios Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydį, išskaitoma septyniasdešimt procentų išmokėtino darbo užmokesčio, jeigu darbo ginčą nagrinėjęs organas nenustato mažesnio išskaitų dydžio.
+6. Neteko galios nuo 2018-09-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1461, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11776
  
 
 
@@ -9418,3 +9426,8 @@ Lietuvos Respublikos darbo kodekso 63 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1430, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11737
 Lietuvos Respublikos darbo kodekso 27 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1461, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11776
+Lietuvos Respublikos darbo kodekso 150 straipsnio pakeitimo įstatymas
