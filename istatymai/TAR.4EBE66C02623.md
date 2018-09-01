@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2018-07-16 iki 2018-08-31
+Suvestinė redakcija nuo 2018-09-01 iki 2018-09-30
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -17911,7 +17911,10 @@ Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
 
 
 
-33) Informacinės visuomenės plėtros komiteto prie Susisiekimo ministerijos – dėl šio kodekso 478, 505, 507, 552 straipsniuose numatytų administracinių nusižengimų;
+33) Informacinės visuomenės plėtros komiteto prie Ūkio ministerijos – dėl šio kodekso 478, 505, 507, 552 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1366, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11186
+ 
 
 
 
@@ -22806,3 +22809,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 79, 479, 480, 589 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1463, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11778
 Lietuvos Respublikos administracinių nusižengimų kodekso 90 straipsnio pakeitimo įstatymas
+ 
+56.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1366, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11186
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
