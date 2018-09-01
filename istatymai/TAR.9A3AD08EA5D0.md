@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-07-05 iki 2018-08-31
+Suvestinė redakcija nuo 2018-09-01 iki 2018-09-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -1123,10 +1123,7 @@ Nr. XII-1614, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06359
 23 straipsnis. Pagalba mokyklai ir mokytojui
 
 
-1. Pagalbos mokyklai ir mokytojui paskirtis – teikti informacinę, ekspertinę, konsultacinę, psichologinę ir kvalifikacijos tobulinimo pagalbą, didinančią švietimo veiksmingumą ir skatinančią mokyklos veiklos tobulinimą ir mokytojo profesinį tobulėjimą. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
- 
+1. Pagalbos mokyklai ir mokytojui paskirtis – teikti informacinę, ekspertinę, konsultacinę, psichologinę ir kvalifikacijos tobulinimo pagalbą, didinančią švietimo veiksmingumą ir skatinančią mokyklos veiklos tobulinimą ir mokytojo profesinį tobulėjimą.
 
 
 
@@ -1136,7 +1133,7 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 
 
-3. Savivaldybėje koordinuotai teikiamų švietimo pagalbos, socialinių ir sveikatos priežiūros paslaugų vaikams nuo gimimo iki 18 metų (turintiems didelių ir labai didelių specialiųjų ugdymosi poreikių – iki 21 metų) ir jų tėvams (globėjams, rūpintojams) koordinavimą užtikrina savivaldybės administracijos valstybės tarnautojas – tarpinstitucinio bendradarbiavimo koordinatorius, kurio kvalifikacinius reikalavimus nustato švietimo ir mokslo ministras kartu su socialinės apsaugos ir darbo ministru ir sveikatos apsaugos ministru. Tarpinstitucinio bendradarbiavimo koordinatorius:  
+3. Savivaldybėje koordinuotai teikiamų švietimo pagalbos, socialinių ir sveikatos priežiūros paslaugų vaikams nuo gimimo iki 18 metų (turintiems didelių ir labai didelių specialiųjų ugdymosi poreikių - iki 21 metų) ir jų tėvams (globėjams, rūpintojams) koordinavimą užtikrina savivaldybės administracijos valstybės tarnautojas – tarpinstitucinio bendradarbiavimo koordinatorius, kurio kvalifikacinius reikalavimus nustato švietimo ir mokslo ministras kartu su socialinės apsaugos ir darbo ministru ir sveikatos apsaugos ministru. Tarpinstitucinio bendradarbiavimo koordinatorius:
 
 
 1) koordinuoja koordinuotai teikiamas švietimo pagalbą, socialines ir sveikatos priežiūros paslaugas vaikams ir jų atstovams pagal įstatymą savivaldybėje, nustato šios pagalbos ir paslaugų poreikį; 
@@ -1149,7 +1146,7 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 
 
-3) vykdo koordinuotai teikiamų švietimo pagalbos, socialinių ir sveikatos priežiūros paslaugų prieinamumo ir kokybės stebėseną, vadovaudamasis švietimo ir mokslo ministro kartu su socialinės apsaugos ir darbo ministru ir sveikatos apsaugos ministru nustatytais koordinuotai teikiamų švietimo pagalbos, socialinės paramos, sveikatos priežiūros paslaugų prieinamumo ir kokybės stebėsenos rodikliais ir tvarkos aprašu; 
+3) vykdo koordinuotai teikiamų švietimo pagalbos, socialinių ir sveikatos priežiūros paslaugų prieinamumo ir kokybės stebėseną, vadovaudamasis švietimo ir mokslo ministro kartu su socialinės apsaugos ir darbo ministru ir sveikatos apsaugos ministru nustatytais koordinuotai teikiamų švietimo pagalbos, socialinės paramos, sveikatos priežiūros paslaugų prieinamumo ir kokybės stebėsenos rodikliais ir tvarkos aprašu;
 
 
 
@@ -1169,40 +1166,29 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 
 
-7) atlieka kitas teisės aktuose nustatytas funkcijas.  
+7) atlieka kitas teisės aktuose nustatytas funkcijas. 
 
 
-Papildyta straipsnio dalimi:
-Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
+
+
+
+
+4. Pagalbą mokykloms ir mokytojams teikia kompetencijų tobulinimo, psichologinės, specialiosios pedagoginės, specialiosios, socialinės pedagoginės pagalbos teikėjai, visuomenės sveikatos priežiūros specialistai, profesinės asociacijos ir kiti teikėjai.
+
+
+
+
+5. Pedagoginių darbuotojų kvalifikacijos tobulinimas yra sudedamoji neformaliojo suaugusiųjų švietimo dalis. Ne rečiau kaip kartą per ketverius metus pedagoginiai darbuotojai privalo tobulinti kvalifikaciją mokinių socialinių ir emocinių kompetencijų ugdymo srityje. Valstybinių (išskyrus aukštųjų mokyklų darbuotojus) ir savivaldybių švietimo įstaigų pedagoginių darbuotojų kvalifikacija tobulinama vadovaujantis švietimo ir mokslo ministro patvirtintais nuostatais. 
+
+
+
+
+6. Kvalifikacijos tobulinimo programas įgyvendina švietimo ir mokslo ministro nustatyta tvarka patvirtinti pedagogų rengimo centrai kartu su akredituotomis kvalifikacijos tobulinimo įstaigomis. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1397, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11325
  
-
-
-
-
-4. Pedagoginių darbuotojų kvalifikacijos tobulinimas yra sudedamoji neformaliojo suaugusiųjų švietimo dalis. Ne rečiau kaip kartą per ketverius metus pedagoginiai darbuotojai privalo tobulinti kvalifikaciją mokinių socialinių ir emocinių kompetencijų ugdymo srityje. Valstybinių (išskyrus aukštųjų mokyklų darbuotojus) ir savivaldybių švietimo įstaigų pedagoginių darbuotojų kvalifikacija tobulinama vadovaujantis švietimo ir mokslo ministro patvirtintais nuostatais.
-Straipsnio dalies pakeitimai:
-Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
- 
-
-
-
-
-5. Pedagoginių darbuotojų kvalifikacijos tobulinimas yra sudedamoji neformaliojo suaugusiųjų švietimo dalis. Valstybinių (išskyrus aukštųjų mokyklų darbuotojus) ir savivaldybių švietimo įstaigų pedagoginių darbuotojų kvalifikacija tobulinama vadovaujantis švietimo ir mokslo ministro patvirtintais nuostatais.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
- 
-
-
-
-
-6. Kvalifikacijos tobulinimo programas įgyvendina švietimo ir mokslo ministro nustatyta tvarka akredituotos kvalifikacijos tobulinimo įstaigos.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
- 
-
-
 
 
 
@@ -3583,7 +3569,9 @@ Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 
 
 
-5) atlieka savivaldybės švietimo įstaigų vadovų metų veiklos ataskaitų vertinimą švietimo ir mokslo ministro nustatyta tvarka;
+5) Neteko galios nuo 2018-09-01
+Straipsnio punkto naikinimas:
+Nr. XIII-1397, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11325
 Straipsnio punkto pakeitimai:
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
  
@@ -4042,7 +4030,10 @@ SEPTINTASIS SKIRSNIS
 66 straipsnis. Investicijos į švietimo plėtotę
 
 
-1. Valstybės lygiu investicinės lėšos švietimo plėtotei (statyboms, renovacijai, žmonių išteklių plėtrai ir kt.) skiriamos pagal programas, nustatytas Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme. Vienų metų ir ilgalaikes investicines programas švietimo srityje rengia Švietimo ir mokslo ministerija, vadovaudamasi Valstybine švietimo strategija ir Vyriausybės programa.
+1. Valstybės lygiu investicinės lėšos švietimo plėtotei (žmogiškiesiems ištekliams plėtoti ir optimizuoti, darbo sąlygoms gerinti, švietimo kokybei ir prieinamumui didinti, infrastruktūrai tobulinti ir kt.) skiriamos įgyvendinant Valstybinę švietimo strategiją ir Švietimo ir mokslo ministerijos strateginį veiklos planą. Jos paskirstomos Švietimo ir mokslo ministerijos nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1397, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11325
+ 
 
 
 
@@ -4063,7 +4054,10 @@ SEPTINTASIS SKIRSNIS
 67 straipsnis. Švietimo programų ir mokyklų finansavimas
 
 
-1. Formaliojo švietimo programoms valstybinėse, savivaldybių ir nevalstybinėse mokyklose, išskyrus aukštąsias mokyklas, finansuoti, neformaliojo vaikų švietimo programoms finansuoti iš Lietuvos Respublikos atitinkamų metų valstybės ir savivaldybių biudžetų taikomas mokymo lėšų skyrimo vienam mokiniui principas. Mokymo lėšos, skiriamos iš valstybės biudžeto lėšų, apskaičiuojamos ir paskirstomos pagal Vyriausybės patvirtintas metodikas.
+1. Formaliojo švietimo programoms valstybinėse, savivaldybių ir nevalstybinėse mokyklose, išskyrus aukštąsias mokyklas, finansuoti, neformaliojo vaikų švietimo programoms finansuoti iš Lietuvos Respublikos atitinkamų metų valstybės ir savivaldybių biudžetų taikomi mokymo lėšų skyrimo klasei (grupei) ir (arba) vienam mokiniui principai. Mokymo lėšos, skiriamos iš valstybės biudžeto lėšų, apskaičiuojamos, paskirstomos ir naudojamos pagal Vyriausybės patvirtintus tvarkos aprašus. Šiuose aprašuose nustatytais atvejais savivaldybės turi teisę juose nustatytą dalį mokymo lėšų, skiriamų iš valstybės biudžeto, paskirstyti ugdymo reikmėms savo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1397, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11325
+ 
 
 
 
@@ -4142,32 +4136,25 @@ Nr. XII-398, 2013-06-20, Žin., 2013, Nr. 73-3655 (2013-07-09)
 
 
 
-68 straipsnis. Mokyklų vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų, mokytojų, pagalbos mokiniui specialistų darbo apmokėjimas
+68 straipsnis. Mokyklų vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų, mokytojų (išskyrus trenerius), pagalbos mokiniui specialistų darbo apmokėjimas
 
 
-1. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovo, jo pavaduotojo ugdymui, ugdymą organizuojančio skyriaus vedėjo darbo užmokestis priklauso nuo išsilavinimo, pedagoginio darbo stažo ir veiklos sudėtingumo.
-Straipsnio dalies pakeitimai:
-Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
- 
+1. Valstybinės ar savivaldybės mokyklos (išskyrus aukštąsias mokyklas) vadovo, jo pavaduotojo ugdymui darbo užmokestis priklauso nuo mokykloje ugdomų mokinių skaičiaus, pedagoginio darbo stažo ir veiklos sudėtingumo.
 
 
 
 
-2. Valstybinės (išskyrus aukštąsias mokyklas) ir savivaldybės mokyklos mokytojo, pagalbos mokiniui specialisto darbo užmokestis priklauso nuo išsilavinimo, pedagoginio darbo stažo, kvalifikacinės kategorijos ir veiklos sudėtingumo.
+2. Valstybinės ar savivaldybės mokyklos (išskyrus aukštąsias mokyklas) ugdymą organizuojančio skyriaus vedėjo darbo užmokestis priklauso nuo pedagoginio darbo stažo ir veiklos sudėtingumo.
 
 
 
 
-3. Valstybinės (išskyrus aukštąsias mokyklas) ir savivaldybės mokyklos vadovo, jo pavaduotojo ugdymui, ugdymą organizuojančio skyriaus vedėjo, mokytojo, pagalbos mokiniui specialisto ir kito ugdymo procese dalyvaujančio darbuotojo darbo apmokėjimo tvarką nustato Vyriausybė.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos švietimo įstatymo (2011 m. kovo 17 d. redakcija; Žin., 2011, Nr. 38-1804) 68 straipsnio 3 dalis tiek, kiek ja Vyriausybei pavesta nustatyti šioje dalyje nurodytų pedagogų darbo apmokėjimo tvarką, įstatymų leidėjui nenustačius esminių jų darbo apmokėjimo sąlygų, prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2 daliai, 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus <...> turi teisę <...> gauti teisingą apmokėjimą už darbą“, 128 straipsnio 1 dalies nuostatai „sprendimus dėl <...> valstybės <...> esminių turtinių įsipareigojimų priima Seimas Vyriausybės siūlymu“, konstituciniams teisinės valstybės, valdžių padalijimo principams.
-Straipsnio dalies pakeitimai:
-Nr. KT26-N15/2015, 2015-09-29, paskelbta TAR 2017-01-02, i. k. 2017-00001
- 
+3. Valstybinės (išskyrus aukštąsias mokyklas) ir savivaldybės mokyklos mokytojo (išskyrus trenerius), pagalbos mokiniui specialisto darbo užmokestis priklauso nuo pedagoginio darbo stažo, kvalifikacinės kategorijos ir veiklos sudėtingumo.
 
 
 
 
-4. Valstybinės (išskyrus aukštąsias mokyklas) ir savivaldybės mokyklos vadovo, jo pavaduotojo ugdymui, ugdymą organizuojančio skyriaus vedėjo vadybinės kvalifikacinės kategorijos nustatomos ir šių asmenų veiklos atitikties įgytai kvalifikacinei kategorijai vertinimas atliekamas kas penkeri metai, mokytojų, pagalbos mokiniui specialistų kvalifikacinės kategorijos nustatomos švietimo ir mokslo ministro nustatyta tvarka.
+4. Mokytojų (išskyrus trenerius) ir pagalbos mokiniui specialistų kvalifikacinės kategorijos, atsižvelgiant į mokytojų (išskyrus trenerius) ir pagalbos mokiniui specialistų išsilavinimą ir jų turimų kompetencijų, reikalingų profesinei veiklai, visumą, nustatomos švietimo ir mokslo ministro nustatyta tvarka.
 
 
 
@@ -4182,10 +4169,12 @@ Nr. KT26-N15/2015, 2015-09-29, paskelbta TAR 2017-01-02, i. k. 2017-00001
 
 
 
-7. Pareigybių, kurias einant atliekamas darbas yra laikomas pedagoginiu ir įskaitomas į pedagoginio darbo stažą, sąrašą, suderinęs su finansų ir socialinės apsaugos ir darbo ministrais, tvirtina švietimo ir mokslo ministras.
+7. Pareigybių, kurias einant atliekamas darbas yra laikomas pedagoginiu ir įskaitomas į pedagoginio darbo stažą, sąrašą tvirtina švietimo ir mokslo ministras. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1396, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11324
  
-
-
 
 
 
@@ -4599,3 +4588,13 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 8, 9 ir 47 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 59 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1396, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11324
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 68 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1397, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11325
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 23, 58, 66 ir 67 straipsnių pakeitimo įstatymas
