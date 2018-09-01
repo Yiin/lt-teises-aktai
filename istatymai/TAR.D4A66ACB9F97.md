@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-03-01 iki 2018-08-31
+Suvestinė redakcija nuo 2018-09-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 50-1197, i. k. 0961010ISTA00I-1338
  
@@ -44,10 +44,10 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis 
 
 
-Šis Įstatymas nustato gyventojams nuosavybės teise priklausančio turto ir turimų piniginių lėšų (toliau – turtas) deklaravimą, taip pat turto (įskaitant gautas pajamas) deklaravimą, aukojant politinėms partijoms ar politinės kampanijos dalyviams, kreipiantis dėl piniginės socialinės paramos skyrimo arba paramos būstui įsigyti ar išsinuomoti gavimo.
+Šis Įstatymas nustato gyventojams nuosavybės teise priklausančio turto ir turimų piniginių lėšų (toliau – turtas) deklaravimą, taip pat turto (įskaitant gautas pajamas) deklaravimą, aukojant politinėms partijoms ar politinės kampanijos dalyviams, kreipiantis dėl piniginės socialinės paramos skyrimo, paramos būstui įsigyti ar išsinuomoti arba finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms gavimo. 
 Straipsnio pakeitimai:
 Nr. XI-819, 2010-05-18, Žin., 2010, Nr. 63-3097 (2010-05-31)
 Nr. XI-1052, 2010-10-12, Žin., 2010, Nr. 125-6377 (2010-10-23)
@@ -55,7 +55,7 @@ Nr. XII-271, 2013-05-09, Žin., 2013, Nr. 54-2676 (2013-05-25)
 
 
 Straipsnio pakeitimai:
-Nr. XII-1216, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15179
+Nr. XIII-1282, 2018-06-21, paskelbta TAR 2018-06-27, i. k. 2018-10534
  
 
 
@@ -225,9 +225,10 @@ Nr. XII-1136, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13465
 
 
 
-28) gyventojai, pageidaujantys gauti paramą būstui įsigyti ar išsinuomoti pagal Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymą (toliau – Paramos būstui įsigyti ar išsinuomoti įstatymas), ir jų šeimos nariai;
+28) gyventojai, pageidaujantys gauti paramą būstui įsigyti ar išsinuomoti pagal Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymą arba finansinę paskatą pirmąjį būstą įsigyjančioms jaunoms šeimoms pagal Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymą, ir jų šeimos nariai; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1216, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15179
+Nr. XIII-1282, 2018-06-21, paskelbta TAR 2018-06-27, i. k. 2018-10534
  
 
 
@@ -579,7 +580,10 @@ Nr. XI-2283, 2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
 
 
 
-7 straipsnis. Gyventojų, pageidaujančių gauti piniginę socialinę paramą, gyventojų, pageidaujančių gauti valstybės paramą būstui įsigyti ar išsinuomoti, ir jų šeimos narių turto (įskaitant gautas pajamas) deklaravimas
+7 straipsnis. Gyventojų, pageidaujančių gauti piniginę socialinę paramą, gyventojų, pageidaujančių gauti valstybės paramą būstui įsigyti ar išsinuomoti, ir jų šeimos narių turto (įskaitant gautas pajamas) ir gyventojų, pageidaujančių gauti finansinę paskatą pirmąjį būstą įsigyjančioms jaunoms šeimoms, ir jų šeimos narių turto deklaravimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-1282, 2018-06-21, paskelbta TAR 2018-06-27, i. k. 2018-10534
+ 
 
 
 1. Gyventojai, pageidaujantys gauti piniginę socialinę paramą, ir jų šeimos nariai privalo savo turtą (įskaitant gautas pajamas) deklaruoti savivaldybės administracijai pareikalavus.
@@ -592,25 +596,28 @@ Nr. XI-2283, 2012-10-17, Žin., 2012, Nr. 126-6326 (2012-10-31)
 
 
 
-3. Gyventojai, pageidaujantys gauti paramą būstui įsigyti ar išsinuomoti, ir jų šeimos nariai privalo turimą turtą ir gautas pajamas deklaruoti Paramos būstui įsigyti ar išsinuomoti įstatyme nustatytais atvejais. 
+3. Gyventojai, pageidaujantys gauti paramą būstui įsigyti ar išsinuomoti, ir jų šeimos nariai privalo turtą ir gautas pajamas deklaruoti Paramos būstui įsigyti ar išsinuomoti įstatyme nustatytais atvejais. Gyventojai, pageidaujantys gauti finansinę paskatą pirmąjį būstą įsigyjančioms jaunoms šeimoms, ir jų šeimos nariai privalo turtą deklaruoti Finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatyme nustatytais atvejais. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1216, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15179
+Nr. XIII-1282, 2018-06-21, paskelbta TAR 2018-06-27, i. k. 2018-10534
  
 
 
 
 
-4. Gyventojai, pageidaujantys gauti paramą būstui įsigyti ar išsinuomoti, ir jų šeimos nariai deklaruoja kalendorinių metų, einančių prieš metus, kuriais pateikiamas prašymas suteikti paramą būstui įsigyti ar išsinuomoti, gruodžio 31 dieną turimą turtą (įskaitant gautas pajamas). Kiekvienais kitais metais po prašymo suteikti paramą būstui įsigyti ar išsinuomoti pateikimo, deklaruojant praėjusių kalendorinių metų gruodžio 31 dieną turimą turtą (įskaitant gautas pajamas), deklaracija už kalendorinius metus teikiama iki einamųjų metų gegužės 1 dienos. 
+4. Gyventojai, pageidaujantys gauti paramą būstui įsigyti ar išsinuomoti, ir jų šeimos nariai deklaruoja kalendorinių metų, einančių prieš metus, kuriais pateikiamas prašymas suteikti paramą būstui įsigyti ar išsinuomoti, gruodžio 31 dieną turimą turtą (įskaitant gautas pajamas). Kiekvienais kitais metais po prašymo suteikti paramą būstui įsigyti ar išsinuomoti pateikimo, deklaruojant praėjusių kalendorinių metų gruodžio 31 dieną turimą turtą (įskaitant gautas pajamas), deklaracija už kalendorinius metus teikiama iki einamųjų metų gegužės 1 dienos. Gyventojai, pageidaujantys gauti finansinę paskatą pirmąjį būstą įsigyjančioms jaunoms šeimoms, ir jų šeimos nariai deklaruoja kalendorinių metų, einančių prieš metus, kuriais pateikiamas socialinės apsaugos ir darbo ministro patvirtintos formos prašymas dėl teisės į finansinę paskatą pirmąjį būstą įsigyjančioms jaunoms šeimoms patvirtinimo, gruodžio 31 dieną turimą turtą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1216, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15179
+Nr. XIII-1282, 2018-06-21, paskelbta TAR 2018-06-27, i. k. 2018-10534
  
 
 
 
 
-5. Gyventojai, pageidaujantys gauti piniginę socialinę paramą, taip pat gyventojai, pageidaujantys gauti paramą būstui įsigyti ar išsinuomoti, ir jų šeimos nariai deklaruoja turtą (įskaitant gautas pajamas) pateikdami mokesčio administratoriui du deklaracijos egzempliorius. Vietos mokesčio administratorius per 7 darbo dienas nuo deklaracijos pateikimo dienos grąžina vieną deklaracijos egzempliorių su žyma, kad deklaracija yra pateikta. Šį deklaracijos egzempliorių gyventojai pateikia savivaldybės institucijai, priimančiai sprendimą dėl piniginės socialinės paramos skyrimo ar paramos būstui įsigyti ar išsinuomoti teikimo. Gyventojas, pageidaujantis gauti paramą būstui įsigyti ar išsinuomoti, mokesčių administratoriui gali teikti vieną deklaracijos egzempliorių arba turtą (įskaitant gautas pajamas) deklaruoti elektroniniu būdu. Tokiais atvejais, jeigu yra gyventojo rašytinis sutikimas, į vietos mokesčio administratorių dėl deklaracijos duomenų išrašo pateikimo kreipiasi savivaldybės institucija, priimanti sprendimą dėl paramos būstui įsigyti ar išsinuomoti suteikimo.
+5. Gyventojai, pageidaujantys gauti piniginę socialinę paramą, gyventojai, pageidaujantys gauti paramą būstui įsigyti ar išsinuomoti, ir jų šeimos nariai, deklaruodami turtą (įskaitant gautas pajamas), ir gyventojai, pageidaujantys gauti finansinę paskatą pirmąjį būstą įsigyjančioms jaunoms šeimoms, ir jų šeimos nariai, deklaruodami turtą, pateikia mokesčio administratoriui du deklaracijos egzempliorius. Vietos mokesčio administratorius per 7 darbo dienas nuo deklaracijos pateikimo dienos grąžina vieną deklaracijos egzempliorių su žyma, kad deklaracija yra pateikta. Šį deklaracijos egzempliorių gyventojai pateikia savivaldybės institucijai, priimančiai sprendimus dėl piniginės socialinės paramos skyrimo, paramos būstui įsigyti ar išsinuomoti arba finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms teikimo. Gyventojas, pageidaujantis gauti paramą būstui įsigyti ar išsinuomoti arba finansinę paskatą pirmąjį būstą įsigyjančioms jaunoms šeimoms, mokesčio administratoriui gali teikti vieną deklaracijos egzempliorių arba turtą (įskaitant gautas pajamas) deklaruoti elektroniniu būdu. Tokiais atvejais, jeigu yra gyventojo rašytinis sutikimas, į vietos mokesčio administratorių dėl deklaracijos duomenų išrašo pateikimo kreipiasi savivaldybės institucija, priimanti sprendimus dėl paramos būstui įsigyti ar išsinuomoti arba finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms suteikimo. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1216, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15179
+Nr. XIII-1282, 2018-06-21, paskelbta TAR 2018-06-27, i. k. 2018-10534
  
 
 
@@ -791,7 +798,11 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 
 RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
-
+ 
+ 
+ 
+ 
+ 
 
 
 
@@ -1026,3 +1037,8 @@ Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2, 5 ir 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1000, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01012
 Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1282, 2018-06-21, paskelbta TAR 2018-06-27, i. k. 2018-10534
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 1, 2 ir 7 straipsnių pakeitimo įstatymas
