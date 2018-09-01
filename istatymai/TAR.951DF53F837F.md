@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.951DF53F837F"
 
 # Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2018-08-31
+Suvestinė redakcija nuo 2018-09-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1600; Žin. 1999, Nr.68-0; Žin. 2011, Nr.91-4318, i. k. 0991010ISTAIII-1190
  
@@ -61,7 +61,10 @@ Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 
 
 
-2. Nebekontroliuojamieji radioaktyvumo lygiai – nustatytos savitojo aktyvumo ir paviršinio aktyvumo vertės, kurių nebeviršijant medžiagoms, susidariusioms reglamentuojamos veiklos metu ir užterštoms radionuklidais ar turinčioms jų savo sudėtyje, nebetaikomi apsaugos nuo jonizuojančiosios spinduliuotės žalingo poveikio reikalavimai.
+2. Nebekontroliuojamieji radioaktyvumo lygiai – aktyvumo koncentracijų vertės, kurių neviršijant medžiagoms, susidariusioms vykdant veiklą su jonizuojančiosios spinduliuotės šaltiniais, apie kurią privalo būti pranešta Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai arba kuri privalo būti įteisinta, nebetaikomi radiacinės saugos reikalavimai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
 
 
 
@@ -71,75 +74,187 @@ Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 
 
 
-4. Pradinis radioaktyviųjų atliekų apdorojimas – vienas ar keli veiksmai, atliekami prieš pagrindinį radioaktyviųjų atliekų apdorojimą: rinkimas, rūšiavimas, cheminis apdorojimas, dezaktyvacija. 
-
-
-
-
-5. Radioaktyviosios atliekos – panaudotas branduolinis kuras ir kitos pakartotinai naudoti neskirtos radionuklidais užterštos ar turinčios jų savo sudėtyje medžiagos, kurių radionuklidų koncentracija arba aktyvumas viršija nebekontroliuojamuosius radioaktyvumo lygius.
-
-
-
-
-6. Radioaktyviųjų atliekų atliekynas (toliau – atliekynas) – radioaktyviųjų atliekų tvarkymo įrenginys, į kurį dedamos radioaktyviosios atliekos neketinant jų išimti.
-
-
-
-
-7. Radioaktyviųjų atliekų atliekyno uždarymas – veiksmai radioaktyviųjų atliekų atliekyne pasibaigus jo eksploatavimui ir baigus į jį dėti radioaktyviąsias atliekas, apimantys inžinerinius ar kitus darbus, kurių reikia atliekyno saugai užtikrinti. 
-Straipsnio dalies pakeitimai:
-Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+4. Panaudotas uždarasis radioaktyvusis šaltinis – uždarasis radioaktyvusis šaltinis, kuris jau nenaudojamas ir kurio neketinama naudoti vykdant įteisintą veiklą su jonizuojančiosios spinduliuotės šaltiniais, tačiau kuris ir toliau turi būti tvarkomas laikantis radiacinės ir radioaktyviųjų šaltinių fizinės saugos reikalavimų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
  
 
 
 
 
-8. Radioaktyviųjų atliekų darytojas – fizinis ar juridinis asmuo, teisės aktų nustatyta tvarka Lietuvos Respublikoje vykdantis veiklą, dėl kurios susidaro arba jau susidarė radioaktyviųjų atliekų.
+5. Pradinis radioaktyviųjų atliekų apdorojimas – vienas ar keli veiksmai, atliekami prieš pagrindinį radioaktyviųjų atliekų apdorojimą: rinkimas, rūšiavimas, cheminis apdorojimas, dezaktyvacija. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
 
 
 
 
-9. Radioaktyviųjų atliekų dėjimas į atliekyną – radioaktyviųjų atliekų patalpinimas į atliekyną neketinant jų iš ten išimti. 
+6. Radioaktyviosios atliekos – panaudotas branduolinis kuras ir kitos dujinės, skystosios ar kietosios pakartotinai naudoti neskirtos radioaktyviosios medžiagos, kurios neatitinka nebekontroliavimo kriterijų ir kurioms Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija taiko reguliuojamąją kontrolę. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
+
+
+
+
+7. Radioaktyviųjų atliekų atliekynas (toliau – atliekynas) – radioaktyviųjų atliekų tvarkymo įrenginys, į kurį dedamos radioaktyviosios atliekos neketinant jų išimti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
+
+
+
+
+8. Radioaktyviųjų atliekų atliekyno uždarymas – veiksmai radioaktyviųjų atliekų atliekyne pasibaigus jo eksploatavimui ir baigus į jį dėti radioaktyviąsias atliekas, apimantys inžinerinius ar kitus darbus, kurių reikia atliekyno saugai užtikrinti. 
+Straipsnio dalies pakeitimai:
+Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
+
+
+
+
+9. Radioaktyviųjų atliekų darytojas – fizinis ar juridinis asmuo, teisės aktų nustatyta tvarka Lietuvos Respublikoje vykdantis veiklą, dėl kurios susidaro arba jau susidarė radioaktyviųjų atliekų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
+
+
+
+
+10. Radioaktyviųjų atliekų dėjimas į atliekyną – radioaktyviųjų atliekų patalpinimas į atliekyną neketinant jų iš ten išimti. 
 Papildyta straipsnio dalimi:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
  
 
 
 
 
-10. Radioaktyviųjų atliekų pakuočių priėmimo į saugyklą ar atliekyną kriterijai – kriterijai, pagal kuriuos nustatoma, ar radioaktyviųjų atliekų pakuotės tinkamos saugoti ir dėti į atliekyną.
+11. Radioaktyviųjų atliekų pakuočių priėmimo į saugyklą ar atliekyną kriterijai – kriterijai, pagal kuriuos nustatoma, ar radioaktyviųjų atliekų pakuotės tinkamos saugoti ir dėti į atliekyną.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
  
 
 
 
 
-11. Radioaktyviųjų atliekų saugykla – radioaktyviųjų atliekų tvarkymo įrenginys radioaktyviosioms atliekoms laikinai saugoti. Radioaktyviųjų atliekų saugyklos, esančios medicinos, mokslo, pramonės, išskyrus branduolinę energetiką, įstaigose, įmonėse ar organizacijose nėra laikomos branduolinės energetikos objektais.
+12. Radioaktyviųjų atliekų saugykla – radioaktyviųjų atliekų tvarkymo įrenginys radioaktyviosioms atliekoms laikinai saugoti. Radioaktyviųjų atliekų saugyklos, esančios medicinos, mokslo, pramonės, išskyrus branduolinę energetiką, įstaigose, įmonėse ar organizacijose nėra laikomos branduolinės energetikos objektais.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
  
 
 
 
 
-12. Radioaktyviųjų atliekų saugojimas – radioaktyviųjų atliekų laikinas kaupimas radioaktyviųjų atliekų tvarkymo įrenginyje, kuriame jos izoliuojamos kontroliuojant poveikį žmonėms ir aplinkai, kol pasiekiami nebekontroliuojamieji radioaktyvumo lygiai ir atliekos išimamos iš radioaktyviųjų atliekų tvarkymo įrenginio arba kol radioaktyviosios atliekos dedamos į atliekyną.
+13. Radioaktyviųjų atliekų saugojimas – radioaktyviųjų atliekų laikinas kaupimas radioaktyviųjų atliekų tvarkymo įrenginyje, kuriame jos izoliuojamos kontroliuojant poveikį žmonėms ir aplinkai, kol pasiekiami nebekontroliuojamieji radioaktyvumo lygiai ir atliekos išimamos iš radioaktyviųjų atliekų tvarkymo įrenginio arba kol radioaktyviosios atliekos dedamos į atliekyną.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
  
 
 
 
 
-13. Radioaktyviųjų atliekų tvarkymas – veikla, apimanti pradinį, pagrindinį ir galutinį radioaktyviųjų atliekų apdorojimą, vežimą (išskyrus išvežimą už branduolinės energetikos objekto aikštelės ribų), saugojimą, dėjimą į atliekyną, atliekyno uždarymą ir uždaryto atliekyno priežiūrą. 
+14. Radioaktyviųjų atliekų tvarkymas – veikla, apimanti pradinį, pagrindinį ir galutinį radioaktyviųjų atliekų apdorojimą, vežimą (išskyrus išvežimą už branduolinės energetikos objekto aikštelės ribų), saugojimą, dėjimą į atliekyną, atliekyno uždarymą ir uždaryto atliekyno priežiūrą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
  
 
 
 
 
-14. Radioaktyviųjų atliekų tvarkymo įrenginio aikštelė – nustatytas ribas turinti teritorija, kurioje yra statomas (statybvietė), pastatytas, eksploatuojamas radioaktyviųjų atliekų tvarkymo įrenginys ar tiriama ir (ar) vertinama galimybė jį statyti arba kurioje vykdomas radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimo nutraukimas ar uždaryto įrenginio priežiūra.
+15. Radioaktyviųjų atliekų tvarkymo įrenginio aikštelė – nustatytas ribas turinti teritorija, kurioje yra statomas (statybvietė), pastatytas, eksploatuojamas radioaktyviųjų atliekų tvarkymo įrenginys ar tiriama ir (ar) vertinama galimybė jį statyti arba kurioje vykdomas radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimo nutraukimas ar uždaryto įrenginio priežiūra.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
+
+
+
+
+16. Radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimo nutraukimas – teisinių, organizacinių ir techninių priemonių įgyvendinimas radioaktyviųjų atliekų tvarkymo įrenginyje, nusprendus, kad jis niekada nebebus naudojamas pagal pagrindinę paskirtį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
+
+
+
+
+17. Radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojanti organizacija – juridinis asmuo, kuriam išduota radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimo licencija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
+
+
+
+
+18. Radioaktyviųjų atliekų tvarkymo įrenginio projektas – visuma normatyviniuose techniniuose dokumentuose nurodytų dokumentų, kuriuose pateikiami radioaktyviųjų atliekų tvarkymo įrenginio sprendiniai (aiškinamoji dalis, statinio ar jų grupės projektas, įrenginių projektai, skaičiavimai, brėžiniai, saugos ataskaitos ir kt.), pagal kuriuos radioaktyviųjų atliekų tvarkymo įrenginys yra statomas, įrengiamas ir eksploatuojamas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
+
+
+
+
+19. Radioaktyviųjų atliekų tvarkymo įrenginys – branduolinės energetikos objektas, kurio pagrindinė paskirtis – tvarkyti radioaktyviąsias atliekas. Bet kuris radioaktyviųjų atliekų tvarkymo įrenginys, egzistuojantis iki šio įstatymo įsigaliojimo, vadinamas esamu radioaktyviųjų atliekų tvarkymo įrenginiu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
+
+
+
+
+20. Radioaktyviųjų atliekų tvarkymo sauga – visuma teisinių, organizacinių ir techninių priemonių, taip pat radioaktyviųjų atliekų tvarkymo veiklą vykdančių asmenų ir (ar) jų darbuotojų kompetencijų, kurių tikslas – eksploatuojant radioaktyviųjų atliekų tvarkymo įrenginį išvengti nekontroliuojamo ir nepageidaujamo radioaktyviųjų atliekų poveikio žmonėms ir aplinkai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
+
+
+
+
+21. Radioaktyviųjų atliekų tvarkymo vadybos sistema – visuma radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojančios organizacijos nustatytų organizacinių priemonių, procedūrų ir veiksmų, kuriais siekiama tinkamai įgyvendinti teisės aktų nustatytus radioaktyviųjų atliekų tvarkymo reikalavimus ir (ar) kitus su radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojančios organizacijos vykdoma veikla susijusius tikslus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
+
+
+
+
+22. Radioaktyviųjų atliekų tvarkytojas – šiame įstatyme nustatyta tvarka paskirtas juridinis asmuo, atsakingas už visų jam perduotų radioaktyviųjų atliekų tvarkymą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
+
+
+
+
+23. Radionuklidų barjeras – fizinė kliūtis, sulaikanti arba sulėtinanti radionuklidų ir (ar) jų turinčių medžiagų sklidimą iš radioaktyviųjų atliekų tvarkymo įrenginio elementų į aplinką. Radionuklidų barjerai gali būti inžineriniai ir gamtiniai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
+
+
+
+
+24. Uždarasis radioaktyvusis šaltinis – radioaktyvusis šaltinis, kuriame radioaktyvioji medžiaga visam laikui hermetizuota kapsulėje ar yra kietojoje medžiagoje tam, kad būtų užkirstas kelias radioaktyviųjų medžiagų sklidimui įprastomis jo naudojimo sąlygomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
  
@@ -147,7 +262,18 @@ Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 
 
 
-15. Radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimo nutraukimas – teisinių, organizacinių ir techninių priemonių įgyvendinimas radioaktyviųjų atliekų tvarkymo įrenginyje, nusprendus, kad jis niekada nebebus naudojamas pagal pagrindinę paskirtį.
+25. Uždaryto radioaktyviųjų atliekų atliekyno priežiūra – radioaktyviųjų atliekų atliekyno aikštelės priežiūra po atliekyno uždarymo. Priežiūra gali būti aktyvioji (stebėsena, priėjimo ribojimas, tvarkymo darbai ir kt.) arba pasyvioji (ribojimai naudoti žemę ir kt.).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+ 
+
+
+
+
+26. Uždarojo radioaktyviojo šaltinio gavėjas – fizinis ar juridinis asmuo, kuris gauna uždarąjį radioaktyvųjį šaltinį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
  
@@ -155,7 +281,9 @@ Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 
 
 
-16. Radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojanti organizacija – juridinis asmuo, kuriam išduota radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimo licencija.
+27. Uždarojo radioaktyviojo šaltinio tiekėjas – fizinis ar juridinis asmuo, tiekiantis ar padedantis gauti uždarąjį radioaktyvųjį šaltinį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
  
@@ -163,89 +291,10 @@ Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 
 
 
-17. Radioaktyviųjų atliekų tvarkymo įrenginio projektas – visuma normatyviniuose techniniuose dokumentuose nurodytų dokumentų, kuriuose pateikiami radioaktyviųjų atliekų tvarkymo įrenginio sprendiniai (aiškinamoji dalis, statinio ar jų grupės projektas, įrenginių projektai, skaičiavimai, brėžiniai, saugos ataskaitos ir kt.), pagal kuriuos radioaktyviųjų atliekų tvarkymo įrenginys yra statomas, įrengiamas ir eksploatuojamas.
+28. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės energijos įstatyme (toliau – Branduolinės energijos įstatymas), Lietuvos Respublikos branduolinės saugos įstatyme (toliau – Branduolinės saugos įstatymas) ir Lietuvos Respublikos radiacinės saugos įstatyme (toliau – Radiacinės saugos įstatymas).
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
- 
-
-
-
-
-18. Radioaktyviųjų atliekų tvarkymo įrenginys – branduolinės energetikos objektas, kurio pagrindinė paskirtis – tvarkyti radioaktyviąsias atliekas. Bet kuris radioaktyviųjų atliekų tvarkymo įrenginys, egzistuojantis iki šio įstatymo įsigaliojimo, vadinamas esamu radioaktyviųjų atliekų tvarkymo įrenginiu.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
- 
-
-
-
-
-19. Radioaktyviųjų atliekų tvarkymo sauga – visuma teisinių, organizacinių ir techninių priemonių, taip pat radioaktyviųjų atliekų tvarkymo veiklą vykdančių asmenų ir (ar) jų darbuotojų kompetencijų, kurių tikslas – eksploatuojant radioaktyviųjų atliekų tvarkymo įrenginį išvengti nekontroliuojamo ir nepageidaujamo radioaktyviųjų atliekų poveikio žmonėms ir aplinkai.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
- 
-
-
-
-
-20. Radioaktyviųjų atliekų tvarkymo vadybos sistema – visuma radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojančios organizacijos nustatytų organizacinių priemonių, procedūrų ir veiksmų, kuriais siekiama tinkamai įgyvendinti teisės aktų nustatytus radioaktyviųjų atliekų tvarkymo reikalavimus ir (ar) kitus su radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojančios organizacijos vykdoma veikla susijusius tikslus.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
- 
-
-
-
-
-21. Radioaktyviųjų atliekų tvarkytojas – šiame įstatyme nustatyta tvarka paskirtas juridinis asmuo, atsakingas už visų jam perduotų radioaktyviųjų atliekų tvarkymą.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
- 
-
-
-
-
-22. Radionuklidų barjeras – fizinė kliūtis, sulaikanti arba sulėtinanti radionuklidų ir (ar) jų turinčių medžiagų sklidimą iš radioaktyviųjų atliekų tvarkymo įrenginio elementų į aplinką. Radionuklidų barjerai gali būti inžineriniai ir gamtiniai.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
- 
-
-
-
-
-23. Uždarasis jonizuojančiosios spinduliuotės šaltinis – sandariame uždarame apvalkale esanti radioaktyvioji medžiaga, išskyrus branduolinį kurą.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
- 
-
-
-
-
-24. Uždaryto radioaktyviųjų atliekų atliekyno priežiūra – radioaktyviųjų atliekų atliekyno aikštelės priežiūra po atliekyno uždarymo. Priežiūra gali būti aktyvioji (stebėsena, priėjimo ribojimas, tvarkymo darbai ir kt.) arba pasyvioji (ribojimai naudoti žemę ir kt.).
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
- 
-
-
-
-
-25. Uždarojo jonizuojančiosios spinduliuotės šaltinio gavėjas – fizinis ar juridinis asmuo, kuriam vežamas uždarasis jonizuojančiosios spinduliuotės šaltinis.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
- 
-
-
-
-
-26. Uždarojo jonizuojančiosios spinduliuotės šaltinio tiekėjas – fizinis ar juridinis asmuo, tiekiantis ar padedantis gauti uždarąjį jonizuojančiosios spinduliuotės šaltinį.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
- 
-
-
-
-
-27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės energijos įstatyme (toliau – Branduolinės energijos įstatymas), Lietuvos Respublikos branduolinės saugos įstatyme (toliau – Branduolinės saugos įstatymas) ir Lietuvos Respublikos radiacinės saugos įstatyme (toliau – Radiacinės saugos įstatymas).
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
  
 
 
@@ -517,7 +566,9 @@ Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 
 
 
-2. Licencijų ar laikinųjų leidimų tvarkyti (atlikti pradinį radioaktyviųjų atliekų apdorojimą (rinkti, rūšiuoti, dezaktyvuoti), atlikti pagrindinį radioaktyviųjų atliekų apdorojimą, saugoti) ir vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo teisinius pagrindus, licencijos ar laikinojo leidimo turėtojo teises ir pareigas ir leidimų vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, išdavimo ir galiojimo panaikinimo teisinius pagrindus reglamentuoja Radiacinės saugos įstatymas.
+2. Licencijų ar laikinųjų leidimų tvarkyti (atlikti pradinį radioaktyviųjų atliekų apdorojimą (rinkti, rūšiuoti, dezaktyvuoti), atlikti pagrindinį radioaktyviųjų atliekų apdorojimą, saugoti) ir vežti radioaktyviąsias atliekas, išskyrus radioaktyviąsias atliekas, susidariusias branduolinio kuro ciklo metu, išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo teisinius pagrindus, licencijos ar laikinojo leidimo turėtojo teises ir pareigas ir leidimų vežti radioaktyviąsias atliekas, išskyrus radioaktyviąsias atliekas, susidariusias branduolinio kuro ciklo metu, išdavimo ir galiojimo panaikinimo teisinius pagrindus reglamentuoja Radiacinės saugos įstatymas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
  
 
 
@@ -1057,27 +1108,31 @@ Radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojančios organizacijos c
 
 
 DEVINTASIS SKIRSNIS
-UŽDARŲJŲ JONIZUOJANČIOSIOS SPINDULIUOTĖS ŠALTINIŲ, RADIOAKTYVIŲJŲ ATLIEKŲ IR PANAUDOTO BRANDUOLINIO KURO ĮVEŽIMAS, VEŽIMAS, IŠVEŽIMAS IR VEŽIMAS TRANZITU
+UŽDARŲJŲ RADIOAKTYVIŲJŲ ŠALTINIŲ, RADIOAKTYVIŲJŲ ATLIEKŲ IR PANAUDOTO BRANDUOLINIO KURO ĮVEŽIMAS, VEŽIMAS, IŠVEŽIMAS IR VEŽIMAS TRANZITU 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
  
 
 
-24 straipsnis. Panaudoti uždarieji jonizuojančiosios spinduliuotės šaltiniai
+24 straipsnis. Panaudoti uždarieji radioaktyvieji šaltiniai
 
 
-1. Vadovaujantis šio įstatymo 25 straipsnyje nustatytais reikalavimais, leidžiama grąžinti į Lietuvos Respubliką panaudotus uždaruosius jonizuojančiosios spinduliuotės šaltinius, jeigu jie skirti juos pagaminusiam juridiniam asmeniui, kuris įgaliotas juos priimti ir saugoti.
-
-
-
-
-2. Uždarieji jonizuojančiosios spinduliuotės šaltiniai gali būti įvežami į Lietuvos Respubliką, jeigu juos panaudojus numatoma grąžinti uždarojo jonizuojančiosios spinduliuotės šaltinio tiekėjui. Uždarojo jonizuojančiosios spinduliuotės šaltinio gavėjas turi sudaryti sutartį su radioaktyviųjų atliekų tvarkytoju dėl uždarojo jonizuojančiosios spinduliuotės šaltinio tvarkymo tuo atveju, jeigu uždarojo jonizuojančiosios spinduliuotės šaltinio grąžinti tiekėjui bus neįmanoma. Uždarojo jonizuojančiosios spinduliuotės šaltinio gavėjas privalo apsidrausti laidavimo draudimu sutarties su radioaktyviųjų atliekų tvarkytoju paslaugų vertei, išskyrus teisės akte, nustatančiame radioaktyviųjų medžiagų, radioaktyviųjų atliekų ir panaudoto branduolinio kuro įvežimo, išvežimo, vežimo tranzitu ir vežimo Lietuvos Respublikoje ir leidimų išdavimo tvarką, patvirtintame Valstybinės atominės energetikos saugos inspekcijos viršininko kartu su sveikatos apsaugos ministru, nustatytus atvejus, kai tokia sutartis sudaroma dėl uždarojo jonizuojančiosios spinduliuotės šaltinio, kuris bus naudojamas ir saugomas tol, kol bus galima jo nebekontroliuoti.
+1. Vadovaujantis šio įstatymo 25 straipsnyje nustatytais reikalavimais, leidžiama grąžinti į Lietuvos Respubliką panaudotus uždaruosius radioaktyviuosius šaltinius, jeigu jie skirti juos pagaminusiam juridiniam asmeniui, kuris įgaliotas juos priimti ir saugoti.
 
 
 
 
-3. Radiacinės saugos įstatymo nustatyta tvarka ir sąlygomis licencijas ar laikinuosius leidimus išduodančios institucijos įvertina galimybę panaudotus uždaruosius jonizuojančiosios spinduliuotės šaltinius padėti į atliekyną arba grąžinti tiekėjui, jeigu uždarasis jonizuojančiosios spinduliuotės šaltinis įsigytas užsienyje.
+2. Uždarieji radioaktyvieji šaltiniai gali būti įvežami į Lietuvos Respubliką arba uždarieji radioaktyvieji šaltiniai gali būti parduoti ar perduoti Lietuvos Respublikoje, jeigu juos panaudojus arba neketinant jų naudoti numatoma panaudotus uždaruosius radioaktyviuosius šaltinius grąžinti uždarojo radioaktyviojo šaltinio tiekėjui. Uždarojo radioaktyviojo šaltinio gavėjas turi sudaryti su radioaktyviųjų atliekų tvarkytoju sutartį dėl uždarojo radioaktyviojo šaltinio tvarkymo tuo atveju, jeigu uždarojo radioaktyviojo šaltinio grąžinti uždarojo radioaktyviojo šaltinio tiekėjui būtų neįmanoma. Uždarojo radioaktyviojo šaltinio gavėjas privalo apsidrausti laidavimo draudimu ar turėti banko garantiją sutarties su radioaktyviųjų atliekų tvarkytoju paslaugų vertei, išskyrus teisės akte, nustatančiame radioaktyviųjų medžiagų, radioaktyviųjų atliekų ir panaudoto branduolinio kuro įvežimo, išvežimo, vežimo tranzitu ir vežimo Lietuvos Respublikoje bei leidimų išdavimo tvarką, patvirtintame sveikatos apsaugos ministro kartu su Valstybinės atominės energetikos saugos inspekcijos viršininku, nustatytus atvejus, kai tokia sutartis sudaroma dėl uždarojo radioaktyviojo šaltinio, kuris bus naudojamas ir saugomas tol, kol bus galima jo nebekontroliuoti.
+
+
+
+
+3. Jeigu panaudoto uždarojo radioaktyviojo šaltinio grąžinti uždarojo radioaktyviojo šaltinio tiekėjui neįmanoma, Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai įsitikinus, kad panaudoto uždarojo radioaktyviojo šaltinio grąžinti uždarojo radioaktyviojo šaltinio tiekėjui neįmanoma, ir pritarus panaudotas uždarasis radioaktyvusis šaltinis turi būti tvarkomas kaip radioaktyviosios atliekos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
  
-
-
 
 
 
@@ -1140,7 +1195,9 @@ UŽDARŲJŲ JONIZUOJANČIOSIOS SPINDULIUOTĖS ŠALTINIŲ, RADIOAKTYVIŲJŲ ATLIE
 
 
 
-7. Radioaktyviųjų atliekų ir (ar) panaudoto branduolinio kuro įvežimo, išvežimo, vežimo, vežimo tranzitu ir panaudotų uždarųjų jonizuojančiosios spinduliuotės šaltinių grąžinimo tvarką nustato Valstybinės atominės energetikos saugos inspekcijos viršininkas kartu su sveikatos apsaugos ministru.
+7. Radioaktyviųjų atliekų ir (ar) panaudoto branduolinio kuro įvežimo, išvežimo, vežimo tranzitu ir vežimo Lietuvos Respublikoje tvarką nustato sveikatos apsaugos ministras kartu su Valstybinės atominės energetikos saugos inspekcijos viršininku. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
  
 
 
@@ -1180,6 +1237,14 @@ priedas
 2. 2011 m. liepos 19 d. Tarybos direktyva 2011/70/Euratomas, kuria nustatoma panaudoto branduolinio kuro ir radioaktyviųjų atliekų atsakingo ir saugaus tvarkymo Bendrijos sistema (OL 2011 L 199, p. 48). 
 Papildyta punktu:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+ 
+
+
+
+
+3. 2013 m. gruodžio 5 d. Tarybos direktyva 2013/59/Euratomas, kuria nustatomi pagrindiniai saugos standartai siekiant užtikrinti apsaugą nuo jonizuojančiosios spinduliuotės apšvitos keliamų pavojų ir panaikinamos direktyvos 89/618/Euratomas, 90/641/Euratomas, 96/29/Euratomas, 97/43/Euratomas ir 2003/122/Euratomas (OL 2014 L 13, p. 1). 
+Papildyta punktu:
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
  
 
 
@@ -1226,3 +1291,8 @@ Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1007, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01020
 Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 10 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
+Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 2, 8, 24, 25 straipsnių, devintojo skirsnio pavadinimo ir priedo pakeitimo įstatymas
