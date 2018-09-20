@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2018-07-16 iki 2018-09-19
+Suvestinė redakcija nuo 2018-09-20 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -1405,7 +1405,15 @@ Nr. XII-1941, 2015-09-22, paskelbta TAR 2015-09-25, i. k. 2015-14259
 
 
 
-9) neturi propaguoti žmonių ar jų grupių antgamtinių, nerealių savybių, paranormalių reiškinių, išskyrus atvejus, kai tokia informacija pateikiama pramogai arba kaip tyrimo objektas. Neturi sudaryti įspūdžio, kad astrologai, chiromantai, ekstrasensai, bioenergetikai gali teikti patarimus dėl ateities, sveikatos, pinigų ir panašiai.
+9) neturi propaguoti žmonių ar jų grupių antgamtinių, nerealių savybių, paranormalių reiškinių, išskyrus atvejus, kai tokia informacija pateikiama pramogai arba kaip tyrimo objektas. Neturi sudaryti įspūdžio, kad astrologai, chiromantai, ekstrasensai, bioenergetikai gali teikti patarimus dėl ateities, sveikatos, pinigų ir panašiai;
+
+
+
+
+10) skelbdami žinias apie savižudybes ar bandymus nusižudyti, neturi skelbti savižudybės ar bandymo nusižudyti motyvų, priemonių ir būdų, traktuoti savižudybės kaip tinkamo kokios nors problemos sprendimo būdo ar kaip savaime suprantamo, kasdienio fakto, vartoti savižudybes romantizuojančių apibūdinimų, rodyti savižudybės proceso ar bandančio nusižudyti, nusižudžiusio žmogaus. Informacijoje apie savižudybes ar bandymus nusižudyti privalu pranešti apie esamas emocinės ir psichologinės pagalbos galimybes bei pagalbos sau grupes nusižudžiusiųjų artimiesiems.
+Papildyta straipsnio punktu:
+Nr. XIII-1470, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14698
+ 
 
 
 
@@ -4853,3 +4861,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 17, 19, 22, 24
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 49 ir 50 straipsnių ir priedo pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1470, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14698
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 22 straipsnio pakeitimo įstatymas
