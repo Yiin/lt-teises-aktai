@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2018-09-01 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-10-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -17221,7 +17221,10 @@ Kiekvienas administracinėn atsakomybėn traukiamas asmuo, taip pat nukentėjusy
 573 straipsnis. Šaukimų ir kitų procesinių dokumentų įteikimas administracinio nusižengimo teisenoje dalyvaujantiems asmenims 
 
 
-1. Šaukimai ir kiti procesiniai dokumentai administracinio nusižengimo teisenoje dalyvaujantiems asmenims siunčiami registruotu laišku į asmens oficialiai deklaruotą gyvenamąją vietą arba kitą žinomą asmens gyvenamąją vietą, arba jo darbovietę, arba mokymo įstaigą, arba Lietuvos darbo biržos teritorinį skyrių, kuriame asmuo yra registruotas bedarbiu, išskyrus atvejus, kai šaukimai įteikiami administracinio nusižengimo teisenoje dalyvaujantiems asmenims atvykus į instituciją, kurios pareigūnas atliko administracinio nusižengimo tyrimą, arba į teismą. Šaukimai ir kiti procesiniai dokumentai visais atvejais įteikiami asmeniškai, o kai administracinio nusižengimo teisenoje dalyvaujančio asmens įteikimo metu nėra, – kuriam nors iš kartu su juo gyvenančių pilnamečių šeimos narių, darbovietėje, mokymo įstaigoje arba Lietuvos darbo biržos teritoriniame skyriuje – asmeniui, atsakingam už korespondencijos priėmimą. Šie asmenys privalo kuo greičiau perduoti šaukimą ar kitą procesinį dokumentą adresatui. Procesinio dokumento įteikimo diena laikoma jo įteikimo adresatui, kuriam nors iš kartu su juo gyvenančių pilnamečių šeimos narių ar darbovietėje, mokymo įstaigoje arba Lietuvos darbo biržos teritoriniame skyriuje už korespondencijos priėmimą atsakingam asmeniui diena. Atsisakymas priimti procesinį dokumentą arba pasirašyti dėl jo gavimo prilygsta procesinio dokumento įteikimui.
+1. Šaukimai ir kiti procesiniai dokumentai administracinio nusižengimo teisenoje dalyvaujantiems asmenims siunčiami registruotu laišku į asmens oficialiai deklaruotą gyvenamąją vietą arba kitą žinomą asmens gyvenamąją vietą, arba jo darbovietę, arba mokymo įstaigą, arba Užimtumo tarnybą prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba), jeigu asmuo yra registruotas bedarbiu, išskyrus atvejus, kai šaukimai įteikiami administracinio nusižengimo teisenoje dalyvaujantiems asmenims atvykus į instituciją, kurios pareigūnas atliko administracinio nusižengimo tyrimą, arba į teismą. Šaukimai ir kiti procesiniai dokumentai visais atvejais įteikiami asmeniškai, o kai administracinio nusižengimo teisenoje dalyvaujančio asmens įteikimo metu nėra, – kuriam nors iš kartu su juo gyvenančių pilnamečių šeimos narių, darbovietėje, mokymo įstaigoje arba Užimtumo tarnyboje – asmeniui, atsakingam už korespondencijos priėmimą. Šie asmenys privalo kuo greičiau perduoti šaukimą ar kitą procesinį dokumentą adresatui. Procesinio dokumento įteikimo diena laikoma jo įteikimo adresatui, kuriam nors iš kartu su juo gyvenančių pilnamečių šeimos narių ar darbovietėje, mokymo įstaigoje arba Užimtumo tarnyboje už korespondencijos priėmimą atsakingam asmeniui diena. Atsisakymas priimti procesinį dokumentą arba pasirašyti dėl jo gavimo prilygsta procesinio dokumento įteikimui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-954, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21666
+ 
 
 
 
@@ -22814,3 +22817,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 90 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1366, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11186
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+ 
+57.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-954, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21666
+Lietuvos Respublikos administracinių nusižengimų kodekso 573 straipsnio pakeitimo įstatymas
