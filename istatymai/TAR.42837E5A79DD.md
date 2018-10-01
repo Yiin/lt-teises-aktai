@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -2737,9 +2737,10 @@ b) pateikiami dokumentai, patvirtinantys užsieniečio turimą kvalifikaciją ir
 
 
 
-c) Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos (toliau – Lietuvos darbo birža) socialinės apsaugos ir darbo ministro nustatyta tvarka priima sprendimą, kad užsieniečio darbas atitinka Lietuvos Respublikos darbo rinkos poreikius, išskyrus šio straipsnio 2 dalyje nurodytus atvejus. 
+c) Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) socialinės apsaugos ir darbo ministro nustatyta tvarka priima sprendimą, kad užsieniečio darbas atitinka Lietuvos Respublikos darbo rinkos poreikius, išskyrus šio straipsnio 2 dalyje nurodytus atvejus. 
 Papunkčio pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
  
 
 
@@ -2749,9 +2750,10 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-2. Šio straipsnio 1 dalies 3 punkto b papunktyje nurodyta darbo patirties sąlyga ir šio straipsnio 1 dalies 3 punkto c papunktyje nurodyta sąlyga netaikoma užsieniečiui, kuris, Lietuvos Respublikoje pabaigęs studijas ar mokymąsi pagal profesinio mokymo programą, ketina dirbti pagal įgytą kvalifikaciją. Šio straipsnio 1 dalies 3 punkto c papunktyje nurodyta sąlyga taip pat netaikoma užsieniečiui, kurio profesija yra įtraukta į profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis. Šį sąrašą Lietuvos darbo biržos direktorius kiekvienų metų pusmečiui tvirtina remdamasis Lietuvos darbo biržos atliekama darbo rinkos stebėsena, padėties darbo rinkoje vertinimu ir jos pokyčių prognoze. 
+2. Šio straipsnio 1 dalies 3 punkto b papunktyje nurodyta darbo patirties sąlyga ir šio straipsnio 1 dalies 3 punkto c papunktyje nurodyta sąlyga netaikoma užsieniečiui, kuris, Lietuvos Respublikoje pabaigęs studijas ar mokymąsi pagal profesinio mokymo programą, ketina dirbti pagal įgytą kvalifikaciją. Šio straipsnio 1 dalies 3 punkto c papunktyje nurodyta sąlyga taip pat netaikoma užsieniečiui, kurio profesija yra įtraukta į profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis. Šį sąrašą Užimtumo tarnybos direktorius kiekvienų metų pusmečiui tvirtina remdamasis Užimtumo tarnybos atliekama darbo rinkos stebėsena, padėties darbo rinkoje vertinimu ir jos pokyčių prognoze. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
  
 
 
@@ -2785,7 +2787,10 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 
 
 
-8. Darbo sutartis su užsieniečiu, kuris ketina dirbti Lietuvos Respublikoje ir atitinka šio straipsnio 1 dalies 3 punkte nustatytas sąlygas, turi būti sudaryta ir jos kopiją, patvirtintą teisės aktų nustatyta tvarka, teritorinei darbo biržai registruoti darbdavys turi pateikti per 2 mėnesius nuo leidimo laikinai gyventi šiam užsieniečiui išdavimo dienos.
+8. Darbo sutartis su užsieniečiu, kuris ketina dirbti Lietuvos Respublikoje ir atitinka šio straipsnio 1 dalies 3 punkte nustatytas sąlygas, turi būti sudaryta ir jos kopiją Užimtumo tarnybai registruoti darbdavys turi pateikti per 2 mėnesius nuo leidimo laikinai gyventi šiam užsieniečiui išdavimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
+ 
 
 
 
@@ -2819,7 +2824,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-3) Lietuvos darbo birža socialinės apsaugos ir darbo ministro nustatyta tvarka priima sprendimą, kad užsieniečio darbas atitinka Lietuvos Respublikos darbo rinkos poreikius, išskyrus atvejus, kai:
+3) Užimtumo tarnyba socialinės apsaugos ir darbo ministro nustatyta tvarka priima sprendimą, kad užsieniečio darbas atitinka Lietuvos Respublikos darbo rinkos poreikius, išskyrus atvejus, kai:
 
 
 a) pateikiamas darbdavio įsipareigojimas įdarbinti užsienietį dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą pagal profesiją, kuri įtraukta į profesijų, kurioms būtina aukšta profesinė kvalifikacija, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą, ne trumpesniam negu vienerių metų laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 1,5 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU dydžio;
@@ -2835,6 +2840,9 @@ b) pateikiamas darbdavio įsipareigojimas įdarbinti užsienietį dirbti aukšto
 c) užsieniečio leidimas laikinai gyventi, išduotas dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, keičiamas ir jau yra praėję dveji šio užsieniečio teisėto darbo Lietuvos Respublikoje metai. 
 
 
+Straipsnio punkto pakeitimai:
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -2885,7 +2893,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-6. Jeigu leidimas laikinai gyventi išduotas pateikus darbdavio įsipareigojimą įdarbinti užsienietį ne trumpesniam negu vienerių metų laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 3 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU dydžiai, ir leidimo laikinai gyventi galiojimo laikotarpiu numatytas darbo užmokestis tampa mažesnis negu 3 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU dydžiai, leidimas laikinai gyventi gali būti keičiamas, jeigu užsienietis atitinka šio straipsnio 1 dalies 1 punkte nustatytą sąlygą ir Lietuvos darbo birža socialinės apsaugos ir darbo ministro nustatyta tvarka priima sprendimą, kad užsieniečio darbas atitinka Lietuvos Respublikos darbo rinkos poreikius. 
+6. Jeigu leidimas laikinai gyventi išduotas pateikus darbdavio įsipareigojimą įdarbinti užsienietį ne trumpesniam negu vienerių metų laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 3 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU dydžiai, ir leidimo laikinai gyventi galiojimo laikotarpiu numatytas darbo užmokestis tampa mažesnis negu 3 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio BDU dydžiai, leidimas laikinai gyventi gali būti keičiamas, jeigu užsienietis atitinka šio straipsnio 1 dalies 1 punkte nustatytą sąlygą ir Užimtumo tarnyba socialinės apsaugos ir darbo ministro nustatyta tvarka priima sprendimą, kad užsieniečio darbas atitinka Lietuvos Respublikos darbo rinkos poreikius. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
@@ -2894,7 +2902,10 @@ Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
 
 
 
-7. Darbo sutartis su užsieniečiu, kuris ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, turi būti sudaryta ir darbdavys jos kopiją, patvirtintą teisės aktų nustatyta tvarka, teritorinei darbo biržai registruoti turi pateikti per 2 mėnesius nuo leidimo laikinai gyventi šiam užsieniečiui išdavimo arba nuo darbo sutarties su naujuoju darbdaviu sudarymo dienos.
+7. Darbo sutartis su užsieniečiu, kuris ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, turi būti sudaryta ir darbdavys jos kopiją Užimtumo tarnybai registruoti turi pateikti per 2 mėnesius nuo leidimo laikinai gyventi šiam užsieniečiui išdavimo arba nuo darbo sutarties su naujuoju darbdaviu sudarymo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
+ 
 
 
 Įstatymas papildytas straipsniu:
@@ -4224,7 +4235,10 @@ Nr. XIII-219, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04613
 
 
 
-6. Leidimą dirbti (prireikus jo dublikatą) užsieniečiui išduoda ir panaikina, leidimo dirbti galiojimo laiką pratęsia Lietuvos darbo birža.
+6. Leidimą dirbti (prireikus jo dublikatą) užsieniečiui išduoda ir panaikina, leidimo dirbti galiojimo laiką pratęsia Užimtumo tarnyba. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
+ 
 
 
 Straipsnio pakeitimas:
@@ -4320,9 +4334,11 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-11) atvyksta į Lietuvos Respubliką dirbti ir yra užsienietis, kurio profesija yra įtraukta į Lietuvos darbo biržos direktoriaus patvirtintą profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis; 
+11) atvyksta į Lietuvos Respubliką dirbti ir yra užsienietis, kurio profesija yra įtraukta į Užimtumo tarnybos direktoriaus patvirtintą profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis; 
 Papildyta straipsnio punktu:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+Straipsnio punkto pakeitimai:
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
  
 
 
@@ -4361,10 +4377,12 @@ Leidimas dirbti užsieniečiui išduodamas atsižvelgiant į Lietuvos Respubliko
 60 straipsnis. Prašymo išduoti leidimą dirbti nagrinėjimo terminai
 
 
-Užsieniečio prašymas išduoti leidimą dirbti turi būti išnagrinėtas ne vėliau kaip per 2 mėnesius nuo prašymo gavimo Lietuvos darbo biržoje dienos.
+Užsieniečio prašymas išduoti leidimą dirbti turi būti išnagrinėtas ne vėliau kaip per 2 mėnesius nuo prašymo gavimo Užimtumo tarnyboje dienos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
  
-
-
 
 
 
@@ -4409,9 +4427,11 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-21. Tais atvejais, kai užsienietis privalo įsigyti leidimą dirbti, taip pat šio Įstatymo 58 straipsnio 2 ir 11 punktuose nurodytais atvejais, kai užsienietis atleidžiamas nuo pareigos įsigyti leidimą dirbti, darbdavys teritorinei darbo biržai turi pateikti registruoti su užsieniečiu sudarytos darbo sutarties kopiją, patvirtintą teisės aktų nustatyta tvarka. Šią pareigą darbdavys turi įvykdyti per 2 mėnesius nuo leidimo dirbti išdavimo dienos, šio Įstatymo 58 straipsnio 2 punkte nurodytu atveju – per vieną mėnesį nuo darbo sutarties sudarymo dienos, o šio Įstatymo 58 straipsnio 11 punkte nurodytu atveju – per vieną mėnesį nuo nacionalinės vizos išdavimo dienos. 
+21. Tais atvejais, kai užsienietis privalo įsigyti leidimą dirbti, taip pat šio Įstatymo 58 straipsnio 2 ir 11 punktuose nurodytais atvejais, kai užsienietis atleidžiamas nuo pareigos įsigyti leidimą dirbti, darbdavys Užimtumo tarnybai turi pateikti registruoti su užsieniečiu sudarytos darbo sutarties kopiją. Šią pareigą darbdavys turi įvykdyti per 2 mėnesius nuo leidimo dirbti išdavimo dienos, šio Įstatymo 58 straipsnio 2 punkte nurodytu atveju – per vieną mėnesį nuo darbo sutarties sudarymo dienos, o šio Įstatymo 58 straipsnio 11 punkte nurodytu atveju – per vieną mėnesį nuo nacionalinės vizos išdavimo dienos. 
 Papildyta straipsnio dalimi:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+Straipsnio dalies pakeitimai:
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
  
 
 
@@ -4474,7 +4494,10 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 
 
 
-2. Užsienietis, turintis leidimą dirbti sezoninį darbą, arba šio straipsnio 1 dalies 4 punkte nurodytas darbdavys ne vėliau kaip per 7 dienas privalo pranešti teritorinei darbo biržai apie užsieniečio pakeistą tinkamą gyvenamąją patalpą. 
+2. Užsienietis, turintis leidimą dirbti sezoninį darbą, arba šio straipsnio 1 dalies 4 punkte nurodytas darbdavys ne vėliau kaip per 7 dienas privalo pranešti Užimtumo tarnybai apie užsieniečio pakeistą tinkamą gyvenamąją patalpą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
+ 
 
 
 
@@ -6309,7 +6332,10 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 1. Europos Sąjungos valstybės narės pilietis turi teisę laikinai gyventi Lietuvos Respublikoje, jeigu jis:
 
 
-1) yra darbuotojas arba savarankiškai dirbantis asmuo. Europos Sąjungos valstybės narės pilietis taip pat išlaiko darbuotojo arba savarankiškai dirbančio asmens statusą, kai nutraukta jo darbo sutartis (jos galiojimo laikas pasibaigęs) arba veikla ir jis laikinai nedirba dėl ligos ar nelaimingo atsitikimo; kai po ne mažiau negu vienų metų darbo jis nutraukė darbo sutartį arba veiklą dėl nepriklausančių nuo jo aplinkybių ir nustatyta tvarka įsiregistravo teritorinėje darbo biržoje kaip bedarbis; kai jis dirbo pagal terminuotą darbo sutartį trumpiau kaip vienus metus ar per pirmuosius 12 darbo mėnesių nutraukė darbo sutartį arba veiklą dėl nepriklausančių nuo jo aplinkybių ir nustatyta tvarka įsiregistravo teritorinėje darbo biržoje kaip bedarbis (tokiu atveju jis šį statusą išlaiko 6 mėnesius nuo nedarbo pradžios); arba kai jis nutraukė darbo sutartį (jos galiojimo laikas baigėsi) ar veiklą, nustatyta tvarka įsiregistravo teritorinėje darbo biržoje kaip bedarbis ir pradėjo mokytis profesijos (jeigu darbo sutartis nutraukta (jos galiojimo laikas baigėsi) dėl nuo jo priklausančių aplinkybių, jis turi mokytis profesijos, kuri susijusi su turėtu darbu);
+1) yra darbuotojas arba savarankiškai dirbantis asmuo. Europos Sąjungos valstybės narės pilietis taip pat išlaiko darbuotojo arba savarankiškai dirbančio asmens statusą, kai nutraukta jo darbo sutartis (jos galiojimo laikas pasibaigęs) arba veikla ir jis laikinai nedirba dėl ligos ar nelaimingo atsitikimo; kai po ne mažiau negu vienų metų darbo jis nutraukė darbo sutartį arba veiklą dėl nepriklausančių nuo jo aplinkybių ir įsiregistravo Užimtumo tarnyboje kaip bedarbis; kai jis dirbo pagal terminuotą darbo sutartį trumpiau kaip vienus metus ar per pirmuosius 12 darbo mėnesių nutraukė darbo sutartį arba veiklą dėl nepriklausančių nuo jo aplinkybių ir įsiregistravo Užimtumo tarnyboje kaip bedarbis (tokiu atveju jis šį statusą išlaiko 6 mėnesius nuo nedarbo pradžios); arba kai jis nutraukė darbo sutartį (jos galiojimo laikas baigėsi) ar veiklą, įsiregistravo Užimtumo tarnyboje kaip bedarbis ir pradėjo mokytis profesijos (jeigu darbo sutartis nutraukta (jos galiojimo laikas baigėsi) dėl nuo jo priklausančių aplinkybių, jis turi mokytis profesijos, kuri susijusi su turėtu darbu); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
+ 
 
 
 
@@ -6595,7 +6621,10 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 
 
 
-2. Šio straipsnio 1 dalyje nurodytais darbo laikotarpiais laikomi ir laikotarpiai, kai Europos Sąjungos valstybės narės pilietis arba jo šeimos narys nutraukė darbo sutartį (ji buvo nutraukta) arba veiklą dėl nepriklausančių nuo jo aplinkybių ir nustatyta tvarka įsiregistravo teritorinėje darbo biržoje kaip bedarbis; nutraukė darbo sutartį (ji buvo nutraukta) arba veiklą dėl nepriklausančių nuo jo aplinkybių; nedirbo arba nutraukė darbo sutartį (ji buvo nutraukta) arba veiklą dėl ligos ar nelaimingo atsitikimo.
+2. Šio straipsnio 1 dalyje nurodytais darbo laikotarpiais laikomi ir laikotarpiai, kai Europos Sąjungos valstybės narės pilietis arba jo šeimos narys nutraukė darbo sutartį (ji buvo nutraukta) arba veiklą dėl nepriklausančių nuo jo aplinkybių ir įsiregistravo Užimtumo tarnyboje kaip bedarbis; nutraukė darbo sutartį (ji buvo nutraukta) arba veiklą dėl nepriklausančių nuo jo aplinkybių; nedirbo arba nutraukė darbo sutartį (ji buvo nutraukta) arba veiklą dėl ligos ar nelaimingo atsitikimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
+ 
 
 
 
@@ -6730,7 +6759,10 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 
 
 
-3) Europos Sąjungos valstybės narės pilietis neatitinka šio Įstatymo 101 straipsnio 1 dalyje nustatytų pagrindų. Ši nuostata netaikoma Europos Sąjungos valstybės narės piliečiui ir (ar) jo šeimos nariams, jeigu Europos Sąjungos valstybės narės pilietis buvo sudaręs darbo sutartį su darbdaviu ir pradės dirbti arba pateikia atitinkamus dokumentus, kad pradės veiklą kaip savarankiškai dirbantis asmuo, arba yra nustatyta tvarka įsiregistravęs teritorinėje darbo biržoje kaip bedarbis, ieško darbo ir turi realių galimybių įsidarbinti; 
+3) Europos Sąjungos valstybės narės pilietis neatitinka šio Įstatymo 101 straipsnio 1 dalyje nustatytų pagrindų. Ši nuostata netaikoma Europos Sąjungos valstybės narės piliečiui ir (ar) jo šeimos nariams, jeigu Europos Sąjungos valstybės narės pilietis buvo sudaręs darbo sutartį su darbdaviu ir pradės dirbti arba pateikia atitinkamus dokumentus, kad pradės veiklą kaip savarankiškai dirbantis asmuo, arba yra įsiregistravęs Užimtumo tarnyboje kaip bedarbis, ieško darbo ir turi realių galimybių įsidarbinti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
+ 
 
 
 
