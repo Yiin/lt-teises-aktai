@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/bb38ee90263911e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas
 
-Suvestinė redakcija nuo 2018-06-12
+Suvestinė redakcija nuo 2018-10-01 iki 2020-06-30
  
 Įstatymas paskelbtas: TAR 2015-07-09, i. k. 2015-11209
  
@@ -74,7 +74,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Inspektorius – valstybės įmonės Lietuvos žemės ūkio ir maisto produktų rinkos reguliavimo agentūros (toliau – Rinkos reguliavimo agentūra) įgaliotas darbuotojas, atliekantis nesąžiningų veiksmų kontrolės funkciją.
+1. Inspektorius – viešosios įstaigos Kaimo verslo ir rinkų plėtros agentūros (toliau – Agentūra) įgaliotas darbuotojas, atliekantis nesąžiningų veiksmų kontrolės funkciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1214, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09729
+ 
 
 
 
@@ -203,26 +206,25 @@ Lietuvoje veikiančiose pieno perdirbimo įmonėse pagaminti pieno gaminiai, įt
 
 
 
-5 straipsnis. Reikalavimas pagrįsti žalio pieno pirkimo kainos mažinimą 
+5 straipsnis. Reikalavimas pagrįsti žalio pieno pirkimo kainos mažinimą
 
 
-1. Tuo atveju, kai žalio pieno pirkėjas mažina žalio pieno pirkimo kainą, nustatytą žalio pieno pirkimo–pardavimo sutartyje, daugiau negu 3 procentiniais punktais, jis privalo pagrįsti šios kainos mažinimą ir tokį pagrindimą pateikti Rinkos reguliavimo agentūrai.
-Straipsnio dalies pakeitimai:
-Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
+1. Tuo atveju, kai žalio pieno pirkėjas mažina žalio pieno pirkimo kainą, nustatytą žalio pieno pirkimo–pardavimo sutartyje, daugiau negu 3 procentiniais punktais, jis privalo pagrįsti šios kainos mažinimą ir šį pagrindimą pateikti Agentūrai. 
+
+
+
+
+2. Agentūra, vadovaudamasi Lietuvos Respublikos žemės ūkio ministro įsakymu patvirtintu tvarkos aprašu, per 8 darbo dienas įvertinusi pagal šio straipsnio 1 dalį žalio pieno pirkėjo pateiktą žalio pieno pirkimo kainos mažinimo pagrįstumą, priima sprendimą dėl žalio pieno pirkimo kainos sumažinimo daugiau negu 3 procentiniais punktais pagrįstumo.
+
+
+
+
+3. Jeigu Agentūra šio straipsnio 2 dalyje nustatyta tvarka priima sprendimą, kad žalio pieno pirkimo kainos sumažinimas daugiau negu 3 procentiniais punktais yra nepagrįstas, žalio pieno pirkėjui draudžiama mažinti žalio pieno pirkimo–pardavimo sutartyje nustatytą žalio pieno pirkimo kainą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1214, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09729
  
-
-
-
-
-2. Rinkos reguliavimo agentūra, vadovaudamasi Lietuvos Respublikos žemės ūkio ministro įsakymu patvirtintu tvarkos aprašu, per 5 darbo dienas įvertinusi šio straipsnio 1 dalyje pateiktą žalio pieno pirkėjo žalio pieno pirkimo kainos mažinimo pagrįstumą, per 3 darbo dienas priima sprendimą dėl žalio pieno pirkimo kainos sumažinimo daugiau negu 3 procentiniais punktais pagrįstumo.
-
-
-
-
-3. Jeigu Rinkos reguliavimo agentūra šio straipsnio 2 dalyje nustatyta tvarka priima sprendimą, kad žalio pieno pirkimo kainos sumažinimas daugiau negu 3 procentiniais punktais yra nepagrįstas, žalio pieno pirkėjui draudžiama mažinti žalio pieno pirkimo–pardavimo sutartyje nustatytą žalio pieno pirkimo kainą.
- 
-
-
 
 
 
@@ -233,7 +235,10 @@ Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
 1. Už šio įstatymo nuostatų laikymosi priežiūrą atsakingos šios nesąžiningų veiksmų kontrolės institucijos:
 
 
-1) Rinkos reguliavimo agentūra – už šio įstatymo 3 straipsnio 2 ir 3 dalies 1–4 punktų nuostatų laikymosi priežiūrą;
+1) Agentūra – už šio įstatymo 3 straipsnio 2 dalies ir 3 dalies 1–4 punktų nuostatų laikymosi priežiūrą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1214, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09729
+ 
 
 
 
@@ -571,10 +576,12 @@ Nr. XII-2230, 2015-12-22, paskelbta TAR 2015-12-29, i. k. 2015-20903
 14 straipsnis. Įstatymo įgyvendinimo stebėsena ir rezultatų įvertinimas
 
 
-Rinkos reguliavimo agentūra atlieka šio įstatymo įgyvendinimo stebėseną ir kiekvienais metais iki gegužės 1 dienos pateikia Lietuvos Respublikos Seimui ir Lietuvos Respublikos Vyriausybei šio įstatymo įgyvendinimo ir pasiektų rezultatų įvertinimo pažymą, kurioje nurodomi pasiekti įstatymo tikslai, įvertinami pieno ir pieno produktų mažmeninių kainų grandinės pokyčiai, neigiami padariniai (jeigu tokių buvo) ir pateikiamos išvados dėl šio įstatymo tolesnio taikymo tikslingumo.
+Agentūra atlieka šio įstatymo įgyvendinimo stebėseną ir kiekvienais metais iki gegužės 1 dienos pateikia Lietuvos Respublikos Seimui ir Lietuvos Respublikos Vyriausybei šio įstatymo įgyvendinimo ir pasiektų rezultatų įvertinimo pažymą, kurioje nurodomi pasiekti šio įstatymo tikslai, įvertinami pieno ir pieno produktų mažmeninių kainų grandinės pokyčiai, neigiami padariniai (jeigu tokių buvo) ir pateikiamos išvados dėl šio įstatymo tolesnio taikymo tikslingumo. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1214, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09729
  
-
-
 
 
 
