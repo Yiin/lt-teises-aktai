@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0808D5C392B2"
 
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 2018-07-01
+Suvestinė redakcija nuo 2018-10-01 iki 2018-11-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 31-1010; Žin. 2001, Nr.37-0; Žin. 2001, Nr.52-0, i. k. 1011010ISTA00IX-216
  
@@ -843,7 +843,10 @@ Nr. XII-1229, 2014-10-14, paskelbta TAR 2014-10-29, i. k. 2014-15110
 
 3. Kreditorių susirinkimo nutarimų vykdymo ir kreditorių reikalavimų patenkinimo tvarka nustatoma laikantis šio įstatymo nustatytos bankroto bylų nagrinėjimo teisme tvarkos ir sąlygų.
 
-4. Administratorius per 3 darbo dienas nuo kreditorių susirinkimo, kuriame kreditoriai nutarė įmonės bankroto procedūras vykdyti ne teismo tvarka, dienos raštu įspėja įmonės darbuotojus apie būsimą darbo sutarties nutraukimą ir po 15 darbo dienų nuo tokio įspėjimo nutraukia su jais darbo sutartis. Apie būsimą darbuotojų atleidimą administratorius ne vėliau kaip per 3 darbo dienas nuo šioje dalyje nurodyto kreditorių susirinkimo dienos praneša teritorinei darbo biržai, savivaldybės institucijai ir įmonės darbuotojų atstovams. Atleistam darbuotojui išmokama šio įstatymo 19 straipsnio 2 dalyje nustatyto dydžio išeitinė išmoka, su juo atsiskaitoma šio įstatymo 35 straipsnyje nustatyta tvarka.
+4. Administratorius per 3 darbo dienas nuo kreditorių susirinkimo, kuriame kreditoriai nutarė įmonės bankroto procedūras vykdyti ne teismo tvarka, dienos raštu įspėja įmonės darbuotojus apie būsimą darbo sutarties nutraukimą ir po 15 darbo dienų nuo tokio įspėjimo nutraukia su jais darbo sutartis. Apie būsimą darbuotojų atleidimą administratorius ne vėliau kaip per 3 darbo dienas nuo šioje dalyje nurodyto kreditorių susirinkimo dienos praneša Užimtumo tarnybai prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba), savivaldybės institucijai ir įmonės darbuotojų atstovams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-959, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21691
+ 
 
 5. Kai bankroto procesas vyksta ne teismo tvarka, atsiranda šio įstatymo 10 straipsnio  7 dalyje, 16 straipsnyje ir 27 straipsnio 2 ir 3 dalyse nustatytos pasekmės.
 
@@ -974,7 +977,10 @@ Nr. XI-1867, 2011-12-22, Žin., 2012, Nr. 4-112 (2012-01-06)
 
 19 straipsnis. Darbo santykių reguliavimas
 
-1. Administratorius per 3 darbo dienas nuo teismo nutarties iškelti įmonei bankroto bylą įsiteisėjimo raštu įspėja įmonės darbuotojus apie būsimą darbo sutarties nutraukimą ir po 15 darbo dienų nuo tokio įspėjimo nutraukia su jais darbo sutartis. Apie būsimą darbuotojų atleidimą administratorius ne vėliau kaip per 3 darbo dienas nuo teismo nutarties iškelti įmonei bankroto bylą įsiteisėjimo dienos praneša teritorinei darbo biržai, savivaldybės institucijai ir įmonės darbuotojų atstovams.
+1. Administratorius per 3 darbo dienas nuo teismo nutarties iškelti įmonei bankroto bylą įsiteisėjimo raštu įspėja įmonės darbuotojus apie būsimą darbo sutarties nutraukimą ir po 15 darbo dienų nuo tokio įspėjimo nutraukia su jais darbo sutartis. Apie būsimą darbuotojų atleidimą administratorius ne vėliau kaip per 3 darbo dienas nuo teismo nutarties iškelti įmonei bankroto bylą įsiteisėjimo dienos praneša Užimtumo tarnybai, savivaldybės institucijai ir įmonės darbuotojų atstovams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-959, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21691
+ 
 
 2. Nutraukus darbo sutartį, atleistam darbuotojui išmokama Darbo kodekso 62 straipsnio 3 dalyje nurodyta išeitinė išmoka.
 Straipsnio dalies pakeitimai:
@@ -1320,9 +1326,10 @@ Nr. XII-208, 2013-03-28, Žin., 2013, Nr. 36-1725 (2013-04-06)
 
 1. Įmonė įgyja bankrutavusios įmonės statusą nuo teismo nutarties likviduoti įmonę dėl bankroto įsiteisėjimo dienos.
 
-2. Administratorius ne vėliau kaip per 5 darbo dienas nuo teismo nutarties likviduoti įmonę dėl bankroto įsiteisėjimo dienos privalo pateikti šio įstatymo 11 straipsnio 12 dalyje nurodytai Vyriausybės įgaliotai institucijai duomenis apie bankrutavusią įmonę, pateikti dokumentus juridinių asmenų registrui, pranešti apie priimtą nutartį bankrutavusios įmonės savininkui (savininkams), įmonei paslaugas teikiančioms kredito įstaigoms, mokesčių, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo administratoriams, Finansų ministerijai, jeigu įmonė yra paskolos iš valstybės vardu pasiskolintų lėšų arba paskolos, kuriai suteikta valstybės garantija, gavėja, darbo biržai, taip pat Lietuvos bankui, jeigu likviduojama finansų maklerio įmonė, valdymo įmonė, investicinė bendrovė arba akcinė bendrovė, kuri laikoma vertybinių popierių emitentu pagal Vertybinių popierių įstatymą. 
+2. Administratorius ne vėliau kaip per 5 darbo dienas nuo teismo nutarties likviduoti įmonę dėl bankroto įsiteisėjimo dienos privalo pateikti šio įstatymo 11 straipsnio 12 dalyje nurodytai Vyriausybės įgaliotai institucijai duomenis apie bankrutavusią įmonę, pateikti dokumentus Juridinių asmenų registrui, pranešti apie priimtą nutartį bankrutavusios įmonės savininkui (savininkams), įmonei paslaugas teikiančioms kredito įstaigoms, mokesčių, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo administratoriams, Finansų ministerijai, jeigu įmonė yra paskolos iš valstybės vardu pasiskolintų lėšų arba paskolos, kuriai suteikta valstybės garantija, gavėja, Užimtumo tarnybai, taip pat Lietuvos bankui, jeigu likviduojama finansų maklerio įmonė, valdymo įmonė, investicinė bendrovė arba akcinė bendrovė, kuri laikoma vertybinių popierių emitentu pagal Vertybinių popierių įstatymą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1229, 2014-10-14, paskelbta TAR 2014-10-29, i. k. 2014-15110
+Nr. XIII-959, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21691
  
 
 3. Neteko galios nuo 2003-01-01.
