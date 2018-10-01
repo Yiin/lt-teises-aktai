@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-26, i. k. 1031010ISTA0IX-1904
  
@@ -106,13 +106,10 @@ NEDARBO DRAUDIMO IŠMOKA
 5 straipsnis. Teisė į nedarbo draudimo išmoką
 
 
-1. Teisę į nedarbo draudimo išmoką turi teritorinėje darbo biržoje įsiregistravę šio įstatymo 4 straipsnyje nurodyti asmenys, kuriems suteiktas bedarbio statusas, jeigu teritorinė darbo birža jiems nepasiūlė tinkamo darbo ar aktyvios darbo rinkos politikos priemonių ir jeigu jie atitinka bent vieną iš šių sąlygų:
+1. Teisę į nedarbo draudimo išmoką turi Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) įsiregistravę šio įstatymo 4 straipsnyje nurodyti asmenys, kuriems suteiktas bedarbio statusas, jeigu Užimtumo tarnyba jiems nepasiūlė tinkamo darbo ar aktyvios darbo rinkos politikos priemonių ir jeigu jie atitinka bent vieną iš šių sąlygų:
 
 
-1) iki įsiregistravimo teritorinėje darbo biržoje turi ne mažesnį kaip 12 mėnesių nedarbo draudimo stažą per paskutinius 30 mėnesių; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-417, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10025
- 
+1) iki įsiregistravimo Užimtumo tarnyboje turi ne mažesnį kaip 12 mėnesių nedarbo draudimo stažą per paskutinius 30 mėnesių; 
 
 
 
@@ -124,10 +121,12 @@ Nr. XIII-417, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10025
 
 
 
-2. Šio straipsnio 1 dalies 2 punkte nurodyti bedarbiai turi teisę gauti nedarbo draudimo išmoką, kai jie įsiregistruoja teritorinėje darbo biržoje ne vėliau kaip per 6 kalendorinius mėnesius po paleidimo iš privalomosios pradinės karo tarnybos ar alternatyviosios krašto apsaugos tarnybos.
+2. Šio straipsnio 1 dalies 2 punkte nurodyti bedarbiai turi teisę gauti nedarbo draudimo išmoką, kai jie įsiregistruoja Užimtumo tarnyboje ne vėliau kaip per 6 kalendorinius mėnesius po paleidimo iš privalomosios pradinės karo tarnybos ar alternatyviosios krašto apsaugos tarnybos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
  
-
-
 
 
 
@@ -135,12 +134,12 @@ Nr. XIII-417, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10025
 6 straipsnis. Nedarbo draudimo išmokos skyrimo sąlygos
 
 
-1. Nedarbo draudimo išmoka skiriama bedarbiais teritorinėje darbo biržoje registruotiems asmenims ir pradedama mokėti nuo aštuntos po įsiregistravimo dienos, išskyrus šio straipsnio 2, 3 ir 4 dalyse nurodytus atvejus.
+1. Nedarbo draudimo išmoka skiriama bedarbiais Užimtumo tarnyboje registruotiems asmenims ir pradedama mokėti nuo aštuntos po įsiregistravimo dienos, išskyrus šio straipsnio 2, 3 ir 4 dalyse nurodytus atvejus.
 
 
 
 
-2. Bedarbiams, nurodytiems šio įstatymo 5 straipsnio 1 dalies 1 punkte, atleistiems iš darbo (tarnybos) dėl darbuotojo (tarnautojo) kaltės, nedarbo draudimo išmoka pradedama mokėti praėjus 3 kalendoriniams mėnesiams nuo įsiregistravimo teritorinėje darbo biržoje dienos.
+2. Bedarbiams, nurodytiems šio įstatymo 5 straipsnio 1 dalies 1 punkte, atleistiems iš darbo (tarnybos) dėl darbuotojo (tarnautojo) kaltės, nedarbo draudimo išmoka pradedama mokėti praėjus 3 kalendoriniams mėnesiams nuo įsiregistravimo Užimtumo tarnyboje dienos.
 
 
 
@@ -150,10 +149,12 @@ Nr. XIII-417, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10025
 
 
 
-4. Bedarbiams, gaunantiems ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros socialinio draudimo išmoką, paskirtą iki įsiregistravimo teritorinėje darbo biržoje dienos, nedarbo draudimo išmoka pradedama mokėti ne anksčiau, negu baigiasi šių išmokų mokėjimo laikas.
+4. Bedarbiams, gaunantiems ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros socialinio draudimo išmoką, paskirtą iki įsiregistravimo Užimtumo tarnyboje dienos, nedarbo draudimo išmoka pradedama mokėti ne anksčiau, negu baigiasi šių išmokų mokėjimo laikas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
  
-
-
 
 
 
@@ -223,15 +224,16 @@ Nr. XIII-417, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10025
 
 
 
-5. Apdraustojo vidutinės mėnesinės draudžiamosios pajamos apskaičiuojamos kaip 30 mėnesių, praėjusių iki užpraeito kalendorinio mėnesio pabaigos nuo bedarbio įsiregistravimo teritorinėje darbo biržoje dienos, vidurkis. Jeigu kurį nors mėnesį draudžiamųjų pajamų nėra, jos prilyginamos nuliui. 
+5. Apdraustojo vidutinės mėnesinės draudžiamosios pajamos apskaičiuojamos kaip 30 mėnesių, praėjusių iki užpraeito kalendorinio mėnesio pabaigos nuo bedarbio įsiregistravimo Užimtumo tarnyboje dienos, vidurkis. Jeigu kurį nors mėnesį draudžiamųjų pajamų nėra, jos prilyginamos nuliui. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-417, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10025
+Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
  
 
 
 
 
-6. Kiekvienu iš šio straipsnio 3 dalyje nurodytų laikotarpių mokama nedarbo draudimo išmoka negali būti didesnė kaip 75 procentai Lietuvos statistikos departamento skelbiamo vidutinio mėnesinio bruto darbo užmokesčio (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) šalies ūkyje, galiojusio užpraeitą kalendorinį ketvirtį nuo bedarbio įsiregistravimo teritorinėje darbo biržoje dienos. 
+6. Kiekvienu iš šio straipsnio 3 dalyje nurodytų laikotarpių mokama nedarbo draudimo išmoka negali būti didesnė kaip 75 procentai Lietuvos statistikos departamento skelbiamo vidutinio mėnesinio bruto darbo užmokesčio (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) šalies ūkyje, galiojusio užpraeitą kalendorinį ketvirtį nuo bedarbio įsiregistravimo Užimtumo tarnyboje dienos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
  
@@ -260,10 +262,12 @@ Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
 10 straipsnis. Pakartotinis nedarbo draudimo išmokos skyrimas
 
 
-Kai nedarbo draudimo išmokos mokėjimas buvo nutrauktas, nedarbo draudimo išmoka pakartotinai gali būti paskirta bedarbiui, atitinkančiam šio įstatymo 5 straipsnyje nustatytas sąlygas, pakartotinai įsiregistravusiam teritorinėje darbo biržoje ir pateikusiam prašymą skirti nedarbo draudimo išmoką, po 12 mėnesių nuo ankstesnės nedarbo draudimo išmokos mokėjimo nutraukimo dienos.
+Kai nedarbo draudimo išmokos mokėjimas buvo nutrauktas, nedarbo draudimo išmoka pakartotinai gali būti paskirta bedarbiui, atitinkančiam šio įstatymo 5 straipsnyje nustatytas sąlygas, pakartotinai įsiregistravusiam Užimtumo tarnyboje ir pateikusiam prašymą skirti nedarbo draudimo išmoką, po 12 mėnesių nuo ankstesnės nedarbo draudimo išmokos mokėjimo nutraukimo dienos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
  
-
-
 
 
 
@@ -276,9 +280,10 @@ Kai nedarbo draudimo išmokos mokėjimas buvo nutrauktas, nedarbo draudimo išmo
 
 
 
-2. Nutrauktos dėl Užimtumo įstatymo 24 straipsnio 4 dalies 1, 2, 4 ir 13 punktuose nustatytų atvejų nedarbo draudimo išmokos mokėjimas atnaujinamas visiems bedarbiams, iš naujo įsiregistravusiems teritorinėje darbo biržoje per 6 mėnesius po nedarbo draudimo išmokos mokėjimo nutraukimo.
+2. Nutrauktos dėl Užimtumo įstatymo 24 straipsnio 4 dalies 1, 2, 4 ir 13 punktuose nustatytų atvejų nedarbo draudimo išmokos mokėjimas atnaujinamas visiems bedarbiams, iš naujo įsiregistravusiems Užimtumo tarnyboje per 6 mėnesius po nedarbo draudimo išmokos mokėjimo nutraukimo. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-835, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20028
+Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
  
 
 
