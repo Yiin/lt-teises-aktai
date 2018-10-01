@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2018-05-01
+Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
  
@@ -1805,7 +1805,10 @@ DEŠIMTASIS SKIRSNIS
 32 straipsnis. Šilumos kainodara
 
 
-1. Šilumos kainos yra vienanarės arba dvinarės. Šilumos vartotojas moka už suvartotą šilumos energiją pagal šio straipsnio 5, 6 ir 7 dalyse nurodyta tvarka nustatytą vienanarę arba dvinarę kainą pasirinktinai.
+1. Šilumos kainos yra vienanarės arba dvinarės. Šilumos vartotojas moka už suvartotą šilumos energiją pagal šio straipsnio 5, 6 ir 7 dalyse nurodyta tvarka nustatytą vienanarę arba dvinarę kainą pasirinktinai. Jeigu pastato šildymo ir (ar) karšto vandens sistema yra mišri (kombinuota), naudojanti centralizuotai pagamintą šilumą ir alternatyvią energiją ar kuro rūšį, vartotojai už šilumos perdavimo tinklu jiems tiekiamą šilumos energiją privalo atsiskaityti pagal dvinarę šilumos kainą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
+ 
 
 
 
