@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
-Suvestinė redakcija nuo 2017-10-01 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
  
@@ -154,7 +154,10 @@ Nr. XIII-447, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10811
 
 
 
-6) Lietuvos Respublikoje gyvenusiems užsieniečiams, kuriems buvo išduotas leidimas laikinai gyventi ir leista dirbti Lietuvos Respublikoje ir kurie iki mirties dirbo Lietuvos Respublikoje arba anksčiau dirbo ne trumpesnį kaip 6 mėnesių laikotarpį ir buvo įsiregistravę teritorinėje darbo biržoje kaip bedarbiai;
+6) Lietuvos Respublikoje gyvenusiems užsieniečiams, kuriems buvo išduotas leidimas laikinai gyventi ir leista dirbti Lietuvos Respublikoje ir kurie iki mirties dirbo Lietuvos Respublikoje arba anksčiau dirbo ne trumpesnį kaip 6 mėnesių laikotarpį ir buvo įsiregistravę Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos kaip bedarbiai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-950, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21661
+ 
 
 
 
@@ -497,4 +500,9 @@ Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 2, 5 straipsnių
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-447, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10811
+Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 5 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-950, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21661
 Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 5 straipsnio pakeitimo įstatymas
