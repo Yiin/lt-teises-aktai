@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EEC13A0B85BA"
 
 # Lietuvos Respublikos socialinių įmonių įstatymas
 
-Suvestinė redakcija nuo 2017-07-01 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3519, i. k. 1041010ISTA0IX-2251
  
@@ -70,26 +70,26 @@ Socialinių įmonių tikslas – įdarbinant šiame įstatyme nurodytoms tikslin
 
 1) neįgalieji, turintys sunkų, vidutinį ar lengvą neįgalumo lygį, ar neįgalieji, kuriems nustatytas neviršijantis 55 procentų darbingumo lygis arba didelių, vidutinių ar nedidelių specialiųjų poreikių lygis;
 
-2) ilgalaikiai bedarbiai, kurių nedarbo trukmė nuo įsiregistravimo teritorinėje darbo biržoje dienos yra ilgesnė kaip dveji metai;
+2) ilgalaikiai bedarbiai, kurių nedarbo trukmė nuo įsiregistravimo Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) dienos yra ilgesnė kaip dveji metai;
 
-3) vyresni kaip 50 metų asmenys, teritorinėje darbo biržoje įsiregistravę kaip bedarbiai;
-Straipsnio punkto pakeitimai:
-Nr. XII-2043, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18857
- 
+3) vyresni kaip 50 metų asmenys, Užimtumo tarnyboje įsiregistravę kaip bedarbiai;
 
-4) vaiko motina (įmotė) arba tėvas (įtėvis), vaiko globėjas arba rūpintojas, vieni auginantys vaiką (įvaikį) iki aštuonerių metų arba neįgalų vaiką (įvaikį) iki 18 metų (iki 2005 m. liepos 1 d. pripažintą vaiku invalidu), ar kitas asmuo, prižiūrintis sergantį ar neįgalųjį šeimos narį, kuriam Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos sprendimu nustatytas specialusis nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikis, jeigu nedarbo trukmė nuo įsiregistravimo teritorinėje darbo biržoje dienos yra ilgesnė kaip šeši mėnesiai;
+4) vaiko motina (įmotė) arba tėvas (įtėvis), vaiko globėjas arba rūpintojas, vieni auginantys vaiką (įvaikį) iki aštuonerių metų arba neįgalų vaiką (įvaikį) iki 18 metų (iki 2005 m. liepos 1 d. pripažintą vaiku invalidu), ar kitas asmuo, prižiūrintis sergantį ar neįgalųjį šeimos narį, kuriam Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos sprendimu nustatytas specialusis nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikis, jeigu nedarbo trukmė nuo įsiregistravimo Užimtumo tarnyboje dienos yra ilgesnė kaip šeši mėnesiai;
 
-5) asmenys, grįžę iš laisvės atėmimo vietų, kai laisvės atėmimo laikotarpis buvo ilgesnis kaip šeši mėnesiai, ne vėliau kaip per šešis mėnesius nuo jų paleidimo iš pataisos įstaigų dienos yra įsiregistravę teritorinėje darbo biržoje, ir jeigu šios registracijos trukmė yra ne trumpesnė kaip šeši mėnesiai;
+5) asmenys, grįžę iš laisvės atėmimo vietų, kai laisvės atėmimo laikotarpis buvo ilgesnis kaip šeši mėnesiai, ne vėliau kaip per šešis mėnesius nuo jų paleidimo iš pataisos įstaigų dienos įsiregistravę Užimtumo tarnyboje, ir jeigu šios registracijos trukmė yra ne trumpesnė kaip šeši mėnesiai;
 
-6) asmenys, priklausomi nuo narkotinių, psichotropinių ir kitų psichiką veikiančių medžiagų, baigę psichologinės socialinės ir (ar) profesinės reabilitacijos programas, jeigu nedarbo trukmė nuo įsiregistravimo teritorinėje darbo biržoje dienos yra ilgesnė kaip šeši mėnesiai.
+6) asmenys, priklausomi nuo narkotinių, psichotropinių ir kitų psichiką veikiančių medžiagų, baigę psichologinės socialinės ir (ar) profesinės reabilitacijos programas, jeigu nedarbo trukmė nuo įsiregistravimo Užimtumo tarnyboje dienos yra ilgesnė kaip šeši mėnesiai.
 
-2. Neįgalieji, turintys sunkų, vidutinį ar lengvą neįgalumo lygį, ar neįgalieji, kuriems nustatytas neviršijantis 55 procentų darbingumo lygis arba didelių, vidutinių ar nedidelių specialiųjų poreikių lygis, siekiantys įsidarbinti socialinėje įmonėje, darbo biržoje įsiregistruoti neprivalo. Jie turi pateikti darbdaviui neįgaliojo pažymėjimą.
+2. Neįgalieji, turintys sunkų, vidutinį ar lengvą neįgalumo lygį, ar neįgalieji, kuriems nustatytas neviršijantis 55 procentų darbingumo lygis arba didelių, vidutinių ar nedidelių specialiųjų poreikių lygis, siekiantys įsidarbinti socialinėje įmonėje, Užimtumo tarnyboje įsiregistruoti neprivalo. Jie turi pateikti darbdaviui neįgaliojo pažymėjimą.
 
-3. Teritorinė darbo birža privalo parengti turimą informaciją apie šioje darbo biržoje įregistruotus, šio straipsnio 1 dalies 2–6 punktuose nurodytoms tikslinėms asmenų grupėms priklausančius asmenis, jeigu tokios informacijos pageidauja socialinės įmonės statuso siekiantis ar jį turintis juridinis asmuo.
+3. Užimtumo tarnyba privalo parengti turimą informaciją apie įregistruotus, šio straipsnio 1 dalies 2–6 punktuose nurodytoms tikslinėms asmenų grupėms priklausančius asmenis, jeigu tokios informacijos pageidauja socialinės įmonės statuso siekiantis ar jį turintis juridinis asmuo.
 
 4. Šio straipsnio 1 dalies 3 ir 4 punktuose nurodyti asmenys priskiriami nurodytoms tikslinėms asmenų grupėms dar vienus metus po to, kai pirmą kartą įsidarbino socialinėje įmonėje, neatsižvelgiant į tai, ar jie buvo bent vieną kartą atleisti iš darbo socialinėje įmonėje, ar ne.
 
-5. Teritorinė darbo birža teikia rekomendacijas socialinei įmonei dėl konkrečių asmenų, priklausančių tikslinėms asmenų grupėms, įdarbinimo.
+5. Užimtumo tarnyba teikia rekomendacijas socialinei įmonei dėl konkrečių asmenų, priklausančių tikslinėms asmenų grupėms, įdarbinimo.
+
+Straipsnio pakeitimai:
+Nr. XIII-942, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21628
  
 
 5 straipsnis. Darbo santykių ypatumai
@@ -109,7 +109,10 @@ Socialinės įmonės teisės ir pareigos
 
 Socialinė įmonė turi teisę:
 
-1) gauti iš teritorinės darbo biržos jos turimą informaciją apie joje įregistruotus asmenis, priklausančius tikslinėms asmenų grupėms, ir atlikti jų atranką prieš priimdama dirbti;
+1) gauti iš Užimtumo tarnybos jos turimą informaciją apie joje įregistruotus asmenis, priklausančius tikslinėms asmenų grupėms, ir atlikti jų atranką prieš priimdama dirbti;
+Straipsnio punkto pakeitimai:
+Nr. XIII-942, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21628
+ 
 
 2) gauti valstybės pagalbą pagal šį įstatymą ir kitus teisės aktus, įskaitant nustatančius smulkiojo ir vidutinio verslo subjektų rėmimą, ir socialines programas, finansuojamas valstybės biudžeto ir pinigų fondų lėšomis;
 
@@ -132,7 +135,10 @@ Socialinė įmonė privalo:
 
 4) sudaryti sąlygas Vyriausybės įgaliotai institucijai Lietuvos Respublikos viešojo administravimo įstatymo (toliau – Viešojo administravimo įstatymas) ketvirtajame skirsnyje nustatyta tvarka atlikti socialinių įmonių veiklos priežiūrą, siekiant nustatyti, kaip socialinės įmonės laikosi įstatymuose ir kituose teisės aktuose nustatytų reikalavimų;
 
-5) saugoti dokumentus, patvirtinančius darbuotojų priklausymą tikslinėms asmenų grupėms, taip pat kas mėnesį iki kito mėnesio 15 dienos teikti teritorinei darbo biržai ataskaitas, kuriose pateikiama informacija apie tikslinėms asmenų grupėms priklausančių asmenų priėmimą į darbą ir atleidimą iš darbo ir apie tikslinėms asmenų grupėms priklausančių darbuotojų skaičių, jų dalį tarp visų socialinės įmonės darbuotojų;
+5) saugoti dokumentus, patvirtinančius darbuotojų priklausymą tikslinėms asmenų grupėms, taip pat kas mėnesį iki kito mėnesio 15 dienos teikti Užimtumo tarnybai ataskaitas, kuriose pateikiama informacija apie tikslinėms asmenų grupėms priklausančių asmenų priėmimą į darbą ir atleidimą iš jo bei apie tikslinėms asmenų grupėms priklausančių darbuotojų skaičių, jų dalį tarp visų socialinės įmonės darbuotojų;
+Straipsnio punkto pakeitimai:
+Nr. XIII-942, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21628
+ 
 
 6) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka kas ketvirtį iki kito ketvirčio pirmojo mėnesio 25 dienos, o metams pasibaigus – iki kitų metų kovo 1 dienos pateikti Vyriausybės įgaliotai institucijai iš visų šaltinių gautos ir panaudotos valstybės pagalbos ataskaitą;
 
@@ -259,7 +265,10 @@ VALSTYBĖS PAGALBA SocialinĖMS įmonĖMS
 
 2. Darbo įstatymų nustatyta tvarka tikslinėms asmenų grupėms priklausantiems asmenims gali būti nustatytos mažesnės darbo normos, negu jos paprastai nustatytos analogišką darbą dirbantiesiems toje pačioje socialinėje įmonėje ar kitose panašiose įmonėse, tačiau šių asmenų darbo užmokestis dėl nustatytų mažesnių normų ir mažesnio darbo našumo negali būti sumažintas. 
 
-3. Šio straipsnio 1 dalyje nurodyta subsidija yra skiriama įdarbinus šio įstatymo 4 straipsnio 1 dalies 1 punkte nurodytai tikslinei asmenų grupei priklausantį darbuotoją ir mokama visą jo darbo laikotarpį, o įdarbinus šio įstatymo 4 straipsnio 1 dalies 3–6 punktuose nurodytoms tikslinėms asmenų grupėms priklausančius darbuotojus, ši kompensacija skiriama ir mokama ne ilgiau kaip 12 mėnesių po įdarbinimo. Tuo atveju, kai šio įstatymo 4 straipsnio 1 dalies 2–6 punktuose nurodytoms tikslinėms asmenų grupėms priklausančių darbuotojų nedarbo trukmė nuo įsiregistravimo teritorinėje darbo biržoje dienos yra ilgesnė kaip dveji metai, tinkamomis finansuoti išlaidomis yra laikomos išlaidos darbo užmokesčiui ir valstybinio socialinio draudimo įmokoms kompensuoti per ne ilgesnį kaip 24 mėnesių po įdarbinimo laikotarpį. 
+3. Šio straipsnio 1 dalyje nurodyta subsidija yra skiriama įdarbinus šio įstatymo 4 straipsnio 1 dalies 1 punkte nurodytai tikslinei asmenų grupei priklausantį darbuotoją ir mokama visą jo darbo laikotarpį, o įdarbinus šio įstatymo 4 straipsnio 1 dalies 3–6 punktuose nurodytoms tikslinėms asmenų grupėms priklausančius darbuotojus, ši kompensacija skiriama ir mokama ne ilgiau kaip 12 mėnesių po įdarbinimo. Tuo atveju, kai šio įstatymo 4 straipsnio 1 dalies 2–6 punktuose nurodytoms tikslinėms asmenų grupėms priklausančių darbuotojų nedarbo trukmė nuo įsiregistravimo Užimtumo tarnyboje dienos yra ilgesnė kaip dveji metai, tinkamomis finansuoti išlaidomis yra laikomos išlaidos darbo užmokesčiui ir valstybinio socialinio draudimo įmokoms kompensuoti per ne ilgesnį kaip 24 mėnesių po įdarbinimo laikotarpį.
+Straipsnio dalies pakeitimai:
+Nr. XIII-942, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21628
+ 
 
 4. Subsidija darbo užmokesčiui ir valstybinio socialinio draudimo įmokoms yra skiriama, jeigu įdarbinus asmenis padidėja atitinkamos socialinės įmonės faktinis įdarbinimo metu sąrašuose esančių tikslinėms grupėms priklausančių darbuotojų skaičius, palyginti su vidutiniu sąrašuose esančių darbuotojų skaičiumi per praėjusius 12 kalendorinių mėnesių. Subsidija darbo užmokesčiui ir valstybinio socialinio draudimo įmokoms taip pat yra skiriama, jeigu įdarbinus asmenis atitinkamos socialinės įmonės faktinis įdarbinimo metu sąrašuose esančių tikslinėms grupėms priklausančių darbuotojų skaičius, palyginti su vidutiniu sąrašuose esančių darbuotojų skaičiumi per praėjusius 12 kalendorinių mėnesių, nepadidėja dėl darbuotojų atleidimo Darbo kodekso 55, 56, 58 ir 60 straipsniuose nustatytais pagrindais.
 Straipsnio dalies pakeitimai:
@@ -441,7 +450,9 @@ Nr. XII-1670, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07404
 
 8) rengia ir įgyvendina projektus, skirtus socialinių įmonių veiklai gerinti ir plėsti; 
 
-9) kontroliuoja teritorinių darbo biržų veiklą atliekant šiame įstatyme joms nustatytas funkcijas.
+9) neteko galios nuo 2018-10-01.
+Straipsnio punkto pakeitimai:
+Nr. XIII-942, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21628
  
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
@@ -523,4 +534,9 @@ Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 14 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-133, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29837
 Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 14 straipsnio pakeitimo įstatymo Nr. XII-2467 2 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-942, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21628
+Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 4, 6, 7, 14 ir 26 straipsnių pakeitimo įstatymas
 
