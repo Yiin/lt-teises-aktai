@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2017-10-01 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -322,9 +322,10 @@ Nr. XI-1488, 2011-06-21, Žin., 2011, Nr. 85-4134 (2011-07-13), i. k. 1111010IST
 
 
 
-3. Už profesinės reabilitacijos paslaugų teikimo organizavimą atsako Socialinės apsaugos ir darbo ministerija. Šią funkciją ji įgyvendina pasitelkdama Lietuvos darbo biržą prie Socialinės apsaugos ir darbo ministerijos ir kitas valstybės institucijas ir įstaigas.
+3. Už profesinės reabilitacijos paslaugų teikimo organizavimą atsako Socialinės apsaugos ir darbo ministerija. Šią funkciją ji įgyvendina pasitelkdama Užimtumo tarnybą prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos ir kitas valstybės institucijas ir įstaigas. 
 Straipsnio dalies pakeitimai:
 Nr. XI-1488, 2011-06-21, Žin., 2011, Nr. 85-4134 (2011-07-13), i. k. 1111010ISTA0XI-1488
+Nr. XIII-952, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21663
  
 
 
@@ -1262,7 +1263,8 @@ BAIGIAMOSIOS NUOSTATOS
  
  
 LIETUVOS RESPUBLIKOS
-AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                        VYTAUTAS LANDSBERGIS
+AUKŠČIAUSIOSIOS TARYBOS 
+PIRMININKAS                                                                                  VYTAUTAS LANDSBERGIS
  
 Vilnius, 1991 m. lapkričio 28 d. 
 Nr. I-2044
@@ -1408,3 +1410,8 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-445, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10807
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-952, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21663
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 9 straipsnio pakeitimo įstatymas
