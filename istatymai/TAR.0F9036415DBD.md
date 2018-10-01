@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -304,7 +304,10 @@ Nr. XIII-929, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21602
 
 
 
-5. Profesinių mokyklų mokiniai, aukštųjų mokyklų studentai ir asmenys, teritorinių darbo biržų siųsti profesiniam mokymui ar profesinei reabilitacijai, – jų profesinės veiklos praktikos įstaigoje ar įmonėje laikotarpiu, taip pat asmenys, kurie mokosi pataisos pareigūnų švietimo įstaigoje pagal profesinio mokymo programas (kursantai), vidaus reikalų profesinio mokymo įstaigoje ar vidaus reikalų profesinio mokymo įstaigos įvadinio mokymo kursuose ir yra pasirašę stojimo į vidaus tarnybą sutartį (kursantai) arba atlieka karo tarnybą studijuodami karo mokymo įstaigoje (kariūnai), – jų mokymo ir pratybų laikotarpiu valstybės lėšomis draudžiami tik nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos.
+5. Profesinių mokyklų mokiniai, aukštųjų mokyklų studentai ir asmenys, Užimtumo tarnybos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) siųsti į profesinį mokymą ar profesinę reabilitaciją, – jų profesinės veiklos praktikos įstaigoje ar įmonėje laikotarpiu, taip pat asmenys, kurie mokosi pataisos pareigūnų švietimo įstaigoje pagal profesinio mokymo programas (kursantai), vidaus reikalų profesinio mokymo įstaigoje ar vidaus reikalų profesinio mokymo įstaigos įvadinio mokymo kursuose ir yra pasirašę stojimo į vidaus tarnybą sutartį (kursantai) arba atlieka karo tarnybą studijuodami karo mokymo įstaigoje (kariūnai), – jų mokymo ir pratybų laikotarpiu valstybės lėšomis draudžiami tik nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-947, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21639
+ 
 
 
 
@@ -1393,7 +1396,10 @@ SOCIALINIO DRAUDIMO VALDYMO SISTEMA
 
 
 
-4) Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos (toliau – Lietuvos darbo birža);
+4) Užimtumo tarnyba; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-947, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21639
+ 
 
 
 
@@ -2031,13 +2037,15 @@ Valstybinė mokesčių inspekcija šio įstatymo ir Mokesčių administravimo į
 
 
 
-37 straipsnis. Lietuvos darbo biržos funkcijos socialinio draudimo sistemoje
+37 straipsnis. Užimtumo tarnybos funkcijos socialinio draudimo sistemoje
 
 
-Lietuvos darbo birža teikia duomenis Fondo valdybai, kurių reikia teisei į nedarbo draudimo išmoką nustatyti ar išsaugoti, nedarbo draudimo išmokos mokėjimui sustabdyti, atnaujinti ar nutraukti.
+Užimtumo tarnyba teikia duomenis Fondo valdybai, kurių reikia teisei į nedarbo draudimo išmoką nustatyti ar išsaugoti, nedarbo draudimo išmokos mokėjimui sustabdyti, atnaujinti ar nutraukti. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-947, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21639
  
-
-
 
 
 
