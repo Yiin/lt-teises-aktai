@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-09-01 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-12-20
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -1440,7 +1440,9 @@ Nr. XII-2010, 2015-11-12, paskelbta TAR 2015-11-18, i. k. 2015-18318
 
 
 
-3. Profesinio informavimo ir konsultavimo paslaugos – informacija apie mokymosi galimybes pagal profesinio mokymo ir aukštojo mokslo studijų programas, mokymosi galimybes kitų užsienio valstybių mokyklose, įsidarbinimo galimybes Lietuvos darbo rinkoje ir konsultavimas. Šios paslaugos teikiamos mokyklose, informavimo centruose, konsultavimo tarnybose, darbo biržose pagal švietimo ir mokslo ministro bei socialinės apsaugos ir darbo ministro nustatytus reikalavimus.
+3. Profesinio informavimo ir konsultavimo paslaugos – informacija apie mokymosi galimybes pagal profesinio mokymo ir aukštojo mokslo studijų programas, mokymosi galimybes kitų užsienio valstybių mokyklose, įsidarbinimo galimybes Lietuvos darbo rinkoje ir konsultavimas. Šios paslaugos teikiamos mokyklose, informavimo centruose, konsultavimo tarnybose, Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos pagal švietimo ir mokslo ministro bei socialinės apsaugos ir darbo ministro nustatytus reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-955, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21668
  
 
 
@@ -4598,3 +4600,8 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 68 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1397, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11325
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 23, 58, 66 ir 67 straipsnių pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-955, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21668
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 26 straipsnio pakeitimo įstatymas
