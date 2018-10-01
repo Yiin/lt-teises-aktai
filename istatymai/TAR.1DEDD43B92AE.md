@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
  
@@ -73,7 +73,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-5) užsieniečiams, kuriems išduotas leidimas laikinai gyventi ir leista dirbti Lietuvos Respublikoje ir kurie dirba Lietuvos Respublikoje arba dirbo ne trumpesnį kaip 6 mėnesių laikotarpį ir yra įsiregistravę teritorinėje darbo biržoje kaip bedarbiai, išskyrus užsieniečius, kuriems leista atvykti studijuoti;
+5) užsieniečiams, kuriems išduotas leidimas laikinai gyventi ir leista dirbti Lietuvos Respublikoje ir kurie dirba Lietuvos Respublikoje arba dirbo ne trumpesnį kaip 6 mėnesių laikotarpį ir yra įsiregistravę Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos kaip bedarbiai, išskyrus užsieniečius, kuriems leista atvykti studijuoti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-951, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21662
+ 
 
 
 
@@ -1360,3 +1363,8 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1 ir 4 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-822, 2017-12-05, paskelbta TAR 2017-12-18, i. k. 2017-20326
 Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-951, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21662
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1 straipsnio pakeitimo įstatymas
