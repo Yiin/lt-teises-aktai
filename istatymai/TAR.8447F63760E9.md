@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2018-06-15 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
  
@@ -42,12 +42,18 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šio įstatymo tikslas – reglamentuoti draudimo, perdraudimo, draudimo tarpininkavimo ir perdraudimo tarpininkavimo veiklą siekiant, kad draudimo sistema būtų patikima, efektyvi, saugi ir stabili.
+1. Šio įstatymo tikslas – reglamentuoti draudimo, perdraudimo, draudimo ir perdraudimo produktų platinimo veiklą siekiant, kad draudimo sistema būtų patikima, efektyvi, saugi ir stabili. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
 
-2. Šis įstatymas nustato asmenis, turinčius teisę vykdyti draudimo ir perdraudimo, draudimo ir perdraudimo tarpininkavimo veiklą Lietuvos Respublikoje, pagrindinius šios veiklos valstybinio reguliavimo principus ir reglamentuoja šią veiklą. Šis įstatymas taip pat reglamentuoja draudimo sutarties šalių ikisutartinių santykių, draudimo sutarties sąlygų, santykių, atsirandančių iš draudimo sutarties ir susijusių su ja, ypatumus ir kitus šiame įstatyme nurodytus santykius.
+2. Šis įstatymas nustato asmenis, turinčius teisę vykdyti draudimo ir perdraudimo, draudimo ir perdraudimo produktų platinimo veiklą Lietuvos Respublikoje, pagrindinius šios veiklos valstybinio reguliavimo principus ir reglamentuoja šią veiklą. Šis įstatymas taip pat reglamentuoja draudimo sutarties šalių ikisutartinių santykių, draudimo sutarties sąlygų, santykių, atsirandančių iš draudimo sutarties ir susijusių su ja, ypatumus ir kitus šiame įstatyme nurodytus santykius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -107,12 +113,28 @@ BENDROSIOS NUOSTATOS
 
 
 
+10. Pagal šį įstatymą asmens duomenys tvarkomi vadovaujantis asmens duomenų apsaugą reglamentuojančių teisės aktų nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
 
 
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
 1. Apdraustasis – gyvybės ir sveikatos draudimo sutartyje nurodytas fizinis asmuo, kurio gyvenime atsitikus draudžiamajam įvykiui draudikas privalo mokėti draudimo išmoką; civilinės atsakomybės draudimo sutartyje nurodytas asmuo, kurio turtiniai interesai, atsirandantys iš civilinės atsakomybės, yra draudžiami; turto draudimo sutartyje nurodytas asmuo, kurio turtiniai interesai yra draudžiami.
+
+
+
+
+11. Atlygis už draudimo produktų platinimo veiklą (toliau – atlygis) – už draudimo produktų platinimo veiklą siūlomi ar mokami komisiniai, mokėjimai ar kitoks atlygis, įskaitant bet kokios rūšies ekonominę naudą ar kitą finansinį ar nefinansinį pranašumą ar paskatą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -135,9 +157,12 @@ BENDROSIOS NUOSTATOS
 
 
 
-4) teikiant draudimo ar perdraudimo tarpininkavimo paslaugas – Europos ekonominės erdvės valstybė, kurioje yra draudimo ar perdraudimo tarpininko pagrindinė buveinė.
+4) teikiant draudimo ar perdraudimo produktų platinimo paslaugas – Europos ekonominės erdvės valstybė, kurioje yra draudimo ar perdraudimo tarpininko registruotoji arba pagrindinė buveinė, kai tarpininkas yra juridinis asmuo, ir Europos ekonominės erdvės valstybė, kurioje yra tarpininko gyvenamoji vieta, kai tarpininkas yra fizinis asmuo. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -207,6 +232,14 @@ BENDROSIOS NUOSTATOS
 
 
 
+111. Draudimo ar perdraudimo tarpininko įmonės filialas – pasinaudojant įsisteigimo teise įsteigtas struktūrinis draudimo ar perdraudimo tarpininko įmonės padalinys arba atstovybė, esantys Europos ekonominės erdvės valstybės, išskyrus buveinės valstybę, teritorijoje ir atliekantys visas ar dalį juridinio asmens funkcijų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
 12. Draudimo įmoka – draudimo sutartyje nurodyta pinigų suma, kurią draudėjas draudimo sutarties sąlygomis moka draudikui už draudimo apsaugą.
 
 
@@ -222,7 +255,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-15. Draudimo ir (ar) perdraudimo įmonių grupė – grupė, kurią sudaro dalyvaujanti įmonė, jos patronuojamosios įmonės ir įmonės, kuriose dalyvaujanti įmonė ar jos patronuojamosios įmonės turi dalyvavimo teisių, taip pat įmonės, susijusios viena su kita šio straipsnio 5 dalyje numatytais ryšiais, arba grupė, kuri sudaryta remiantis sutartiniais ar kitais tų įmonių nustatytais finansiniais ryšiais, įskaitant savidraudos arba kitas panašias asociacijas, jei tenkinamos šios sąlygos:
+15. Draudimo ir (ar) perdraudimo įmonių grupė – grupė, kurią sudaro dalyvaujanti įmonė, jos patronuojamosios įmonės ir įmonės, kuriose dalyvaujanti įmonė ar jos patronuojamosios įmonės turi dalyvavimo teisių, taip pat įmonės, susijusios viena su kita šio straipsnio 4 dalyje numatytais ryšiais, arba grupė, kuri sudaryta remiantis sutartiniais ar kitais tų įmonių nustatytais finansiniais ryšiais, įskaitant savidraudos arba kitas panašias asociacijas, jei tenkinamos šios sąlygos:
 
 
 1) viena iš įmonių, centralizuotai koordinuodama veiklą, daro lemiamą poveikį kitų grupę sudarančių įmonių priimamiems sprendimams, įskaitant finansinius sprendimus (centralizuotai koordinuojanti veiklą įmonė laikoma patronuojančiąja įmone, o kitos įmonės laikomos patronuojamosiomis įmonėmis);
@@ -230,9 +263,12 @@ BENDROSIOS NUOSTATOS
 
 
 
-2) ryšių užmezgimas ir nutraukimas siekiant šio įstatymo II skyriaus ketvirtajame skirsnyje nustatytų tikslų iš anksto patvirtinamas draudimo ir (ar) perdraudimo įmonių grupės priežiūros institucijos.
+2) ryšių užmezgimas ir nutraukimas siekiant šio įstatymo II skyriaus ketvirtajame skirsnyje nustatytų tikslų iš anksto patvirtinamas draudimo ir (ar) perdraudimo įmonių grupės priežiūros institucijos. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -280,7 +316,10 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-24. Draudimo priežiūros institucija – institucija, prižiūrinti draudimo, perdraudimo, draudimo ar perdraudimo tarpininkavimo veiklą. Lietuvos Respublikoje šią veiklą vykdo Lietuvos bankas.
+24. Draudimo priežiūros institucija – institucija, prižiūrinti draudimo, perdraudimo, draudimo ar perdraudimo produktų platinimo veiklą. Lietuvos Respublikoje šią veiklą vykdo Lietuvos bankas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -290,9 +329,75 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-251. Draudimo principu pagrįstas investicinis produktas – kaip tai apibrėžta Reglamente (ES) Nr. 1286/2014. 
+251. Draudimo principu pagrįstas investicinis produktas – kaip tai apibrėžta 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1). Draudimo principu pagrįstas investicinis produktas neapima:
+
+
+1) šio įstatymo 7 straipsnio 3 dalyje nurodytoms draudimo grupėms priskirtinų ne gyvybės draudimo produktų;
+
+
+
+
+2) gyvybės draudimo sutarčių, kai draudimo išmokos pagal sutartį išmokamos tik dėl mirties arba darbingumo netekimo dėl sužalojimo, ligos ar negalios;
+
+
+
+
+3) pensijų produktų, kurių pirminė paskirtis pagal Lietuvos Respublikos teisės aktus yra užtikrinti investuotojui pajamas išėjus į pensiją ir kurie suteikia investuotojui teisę į tam tikras išmokas;
+
+
+
+
+4) profesinių pensijų produktų, kuriems taikomas Lietuvos Respublikos profesinių pensijų kaupimo įstatymas;
+
+
+
+
+5) tam tikrų pensijų produktų, kai pagal Lietuvos Respublikos teisės aktus reikalaujama, kad darbdavys už juos mokėtų įmokas, ir nei darbdavys, nei darbuotojas negali pasirinkti pensijų produkto arba produkto teikėjo. 
+
+
 Papildyta straipsnio dalimi:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+Straipsnio dalies pakeitimai:
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
+ 
+
+
+
+
+252. Draudimo produktų platinimas – ūkinė veikla, kai konsultuojama dėl galimybės sudaryti draudimo sutartis, siūloma sudaryti draudimo sutartis ar atliekamas kitas su draudimo sutarčių sudarymu susijęs parengiamasis darbas, taip pat ūkinė veikla, kai sudaromos draudimo sutartys arba teikiama pagalba administruojant ir vykdant tokias sutartis, visų pirma pateikus reikalavimą išmokėti draudimo išmoką, įskaitant informacijos apie vieną ar daugiau draudimo sutarčių teikimą pagal kriterijus, kuriuos draudėjas pasirenka internetu arba kitomis priemonėmis, ir draudimo produktų sąrašo pagal rangą sudarymą, įskaitant kainų ir produktų palyginimą, arba draudimo sutarties kainos nuolaidą, kai draudėjas gali tiesiogiai ar netiesiogiai sudaryti draudimo sutartį internetu arba kitomis priemonėmis. Draudimo produktų platinimu nelaikoma: 
+
+
+1) nenuolatinis informacijos draudimo klausimais teikimas vykdant kitokią profesinę veiklą, kai informacija teikiama neturint tikslo padėti informacijos gavėjui sudaryti ar vykdyti draudimo sutartį;
+
+
+
+
+2) vien tik draudžiamųjų įvykių administravimas, žalos (nuostolių) ir reikalavimo išmokėti draudimo išmoką dydžio nustatymas bei ekspertinis reikalavimų išmokėti draudimo išmoką vertinimas; 
+
+
+
+
+3) vien duomenų ir informacijos apie potencialius draudėjus teikimas draudimo tarpininkams, draudimo įmonėms, kai informacijos teikėjas nesiima jokių papildomų veiksmų siekdamas padėti sudaryti draudimo sutartį, ar vien informacijos apie draudimo produktus, draudimo tarpininką, draudimo įmonę teikimas potencialiems draudėjams, kai informacijos teikėjas nesiima jokių papildomų veiksmų siekdamas padėti sudaryti draudimo sutartį. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
+253. Draudimo produktų platintojas – draudimo tarpininkas, papildomos draudimo veiklos tarpininkas arba draudikas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
+254. Draudimo produktų platintojo rekomendacija (toliau – rekomendacija) – draudimo produktų platintojo asmeninis pasiūlymas dėl draudimo sutarties, teikiamas draudėjui jo paties prašymu arba paties draudimo produktų platintojo iniciatyva. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
@@ -313,17 +418,26 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-29. Draudimo tarpininkas – asmuo, už atlygį vykdantis draudimo tarpininkavimo veiklą.
+29. Draudimo tarpininkas – asmuo, už atlygį vykdantis draudimo produktų platinimo veiklą, išskyrus draudimo ar perdraudimo įmonę ar jos darbuotojus ir papildomos draudimo veiklos tarpininką. Lietuvos Respublikoje draudimo tarpininkas yra draudimo brokerių įmonė ir draudimo agentas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
 
-30. Draudimo tarpininkavimas – ūkinė komercinė veikla, kai, vertinant draudėjo draudimo apsaugos poreikius ir teikiant informaciją apie draudimo sutarties atitiktį šiems poreikiams, siekiama supažindinti su galimybe sudaryti draudimo sutartį, siūloma sudaryti draudimo sutartį ar atliekamas kitoks parengiamasis darbas, kurio tikslas – sudaryti draudimo sutartį, taip pat ūkinė komercinė veikla, kai siekiama sudaryti draudimo sutartį, pagalba administruojant ar vykdant sudarytas draudimo sutartis arba administruojant draudžiamuosius įvykius. Ši veikla, vykdoma draudiko ar jo darbuotojų dėl šio draudiko draudimo sutarčių, nėra laikoma draudimo tarpininkavimu. Draudimo tarpininkavimu nelaikomas nenuolatinis informacijos draudimo klausimais teikimas vykdant kitokią profesinę veiklą, kai informacija teikiama neturint tikslo padėti informacijos gavėjui sudaryti ar vykdyti draudimo sutartį. Draudimo tarpininkavimu taip pat nelaikomas vien tik draudžiamųjų įvykių administravimas, vykdomas sutarties su draudiku pagrindu, bei žalos (nuostolių) ir reikalavimo išmokėti draudimo išmoką dydžio nustatymas. 
+30. Neteko galios 2018-10-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
 
-31. Draudimo veikla – ūkinė komercinė veikla, kuria draudimo sutarties pagrindu už draudimo įmoką prisiimama kito asmens nuostolių rizika ar kitaip siekiama apsaugoti šio asmens turtinius interesus įvykus draudžiamiesiems įvykiams, asmens turtinių interesų apsaugai panaudojant draudiko techninius atidėjinius dengiantį turtą ir kitą turtą. Šiame įstatyme draudimo veikla yra ir veikla, nurodyta šio įstatymo 7 straipsnio 2 dalies 5 punkte. 
+31. Draudimo veikla – ūkinė veikla, kuria draudimo sutarties pagrindu už draudimo įmoką prisiimama kito asmens nuostolių rizika ar kitaip siekiama apsaugoti šio asmens turtinius interesus įvykus draudžiamiesiems įvykiams, asmens turtinių interesų apsaugai panaudojant draudiko techninius atidėjinius dengiantį turtą ir kitą turtą. Šiame įstatyme draudimo veikla yra ir veikla, nurodyta šio įstatymo 7 straipsnio 2 dalies 5 punkte. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -368,7 +482,10 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-36. Europos ekonominės erdvės valstybė, kurioje teikiamos paslaugos, – teikiant draudimo paslaugas – Europos ekonominės erdvės valstybė, kurioje yra draudimo rizika, ar įsipareigojimo pagal gyvybės draudimo sutartį Europos ekonominės erdvės valstybė, jei draudimo sutartį dėl šios rizikos ar įsipareigojimo sudaro ne šios Europos ekonominės erdvės valstybės draudimo įmonė, ne šioje Europos ekonominės erdvės valstybėje įsteigtas draudimo įmonės ar kitos Europos ekonominės erdvės valstybės draudimo įmonės filialas; teikiant perdraudimo, draudimo ar perdraudimo tarpininkavimo paslaugas – Europos ekonominės erdvės valstybė, kita nei buveinės valstybė, kurioje neįsteigus filialo vykdoma perdraudimo, draudimo ar perdraudimo tarpininkavimo veikla.
+36. Europos ekonominės erdvės valstybė, kurioje teikiamos paslaugos, – teikiant draudimo paslaugas – Europos ekonominės erdvės valstybė, kurioje yra draudimo rizika, ar įsipareigojimo pagal gyvybės draudimo sutartį Europos ekonominės erdvės valstybė, jei draudimo sutartį dėl šios rizikos ar įsipareigojimo sudaro ne šios Europos ekonominės erdvės valstybės draudimo įmonė, ne šioje Europos ekonominės erdvės valstybėje įsteigtas draudimo įmonės ar kitos Europos ekonominės erdvės valstybės draudimo įmonės filialas; teikiant perdraudimo, draudimo ar perdraudimo produktų platinimo paslaugas – Europos ekonominės erdvės valstybė, kita negu buveinės valstybė, kurioje neįsteigus filialo vykdoma perdraudimo, draudimo ar perdraudimo produktų platinimo veikla. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -403,12 +520,31 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
+421. Investavimo krypties valdymas – sprendimų dėl investicinių priemonių, kurios atitinka investavimo kryptį, priėmimas ir kita tiesiogiai su tokių sprendimų priėmimu susijusi veikla. Investavimo krypties valdymu nelaikomas gyvybės draudimo, susijusio su investiciniais fondais, sutarties administravimas (buhalterinės apskaitos tvarkymas, investicijų tikrosios vertės nustatymas, investicijų paskirstymas, duomenų apie atliktas operacijas saugojimas, atsakymas į draudėjų, apdraustųjų, naudos gavėjų klausimus ir kita panaši veikla), rinkodara ir kita tiesiogiai su sprendimų dėl investicinių priemonių, kurios atitinka investavimo kryptį, priėmimu nesusijusi veikla. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
+422. Investavimo kryptis – visuma investicinių priemonių, kurias draudiko siūlymu pasirenka draudėjas, sudarantis gyvybės draudimo, susijusio su investiciniais fondais, sutartį. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
 43. Įsipareigojimo pagal gyvybės draudimo sutartį Europos ekonominės erdvės valstybė – Europos ekonominės erdvės valstybė, kurioje yra įprastinė draudėjo, sudariusio gyvybės draudimo sutartį, gyvenamoji vieta, arba, jeigu draudėjas yra juridinis asmuo, Europos ekonominės erdvės valstybė, kurioje yra jo padalinys, dėl kurio sudaryta gyvybės draudimo sutartis.
 
 
 
 
-44. Įsisteigimo teisė – teisė kitoje Europos ekonominės erdvės valstybėje steigti draudimo ar perdraudimo įmonės filialą, draudimo ar perdraudimo tarpininkų įmonės filialą arba teisė Lietuvos Respublikoje steigti kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonės filialą, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkų įmonės filialą. 
+44. Įsisteigimo teisė – teisė kitoje Europos ekonominės erdvės valstybėje steigti draudimo ar perdraudimo įmonės filialą, draudimo ar perdraudimo tarpininkų, papildomos draudimo veiklos tarpininkų įmonės filialą arba teisė Lietuvos Respublikoje steigti kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonės filialą, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkų, papildomos draudimo veiklos tarpininkų įmonės filialą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -498,6 +634,14 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
+611. Papildomos draudimo veiklos tarpininkas – asmuo, išskyrus kredito įstaigą ar investicinę įmonę, kurios apibrėžtos 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) 4 straipsnio 1 dalies 1 ir 2 punktuose, kuris už atlygį vykdo draudimo produktų platinimo veiklą kaip papildomą profesinę veiklą ir kurio platinami draudimo produktai papildo prekę ar paslaugą, bet neapima gyvybės draudimo arba civilinės atsakomybės draudimo rizikos, nebent šis draudimas papildytų to asmens pagrindinės profesinės veiklos prekę ar paslaugą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
 62. Patronuojamoji (dukterinė) įmonė – įmonė, kuri atitinka bent vieną iš šių kriterijų:
 
 
@@ -563,6 +707,14 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
+631. Patvarioji laikmena – priemonė, kuria sudaroma galimybė draudėjui, apdraustajam, naudos gavėjui ar nukentėjusiam trečiajam asmeniui saugoti asmeniškai jam skirtą informaciją taip, kad ji būtų vėliau prieinama, prireikus atgaminama nepakitusi ir tokią galimybę jis turėtų tokį laikotarpį, kuris atitinka tos informacijos paskirtį. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
 64. Perdraudėjas – draudimo ar perdraudimo įmonė, perduodanti savo prisiimtos rizikos dalį kitai draudimo ar perdraudimo įmonei. 
 
 
@@ -578,17 +730,57 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-67. Perdraudimo tarpininkas – asmuo, už atlygį vykdantis perdraudimo tarpininkavimo veiklą.
+661. Perdraudimo produktų platinimas – ūkinė veikla, įskaitant veiklą, kurią perdraudimo įmonė vykdo be perdraudimo tarpininko pagalbos, kai konsultuojama dėl galimybės sudaryti perdraudimo sutartis, siūloma sudaryti perdraudimo sutartis ar atliekamas kitas su perdraudimo sutarčių sudarymu susijęs parengiamasis darbas, taip pat ūkinė veikla, kai sudaromos perdraudimo sutartys arba teikiama pagalba administruojant ir vykdant tokias sutartis, visų pirma pateikus reikalavimą išmokėti draudimo išmoką. Perdraudimo produktų platinimu nelaikoma:
+
+
+1) nenuolatinis informacijos teikimas vykdant kitokią profesinę veiklą, jei informacija teikiama neturint tikslo padėti informacijos gavėjui sudaryti ar vykdyti perdraudimo sutartį;
 
 
 
 
-68. Perdraudimo tarpininkavimas – ūkinė komercinė veikla, kai, vertinant draudiko ar perdraudiko poreikius ir teikiant informaciją apie perdraudimo sutarties atitiktį šiems poreikiams, siekiama supažindinti su galimybe sudaryti perdraudimo sutartį, siūloma sudaryti perdraudimo sutartį ar atliekamas kitoks parengiamasis darbas, kurio tikslas – perdraudimo sutarties sudarymas, taip pat ūkinė komercinė veikla, susijusi su perdraudimo sutarties sudarymu, pagalba administruojant ar vykdant sudarytas perdraudimo sutartis ar administruojant perdraudžiamuosius įvykius. Ši veikla, vykdoma perdraudiko ar perdraudiko darbuotojų dėl šio perdraudiko perdraudimo sutarčių, nėra laikoma perdraudimo tarpininkavimu. Perdraudimo tarpininkavimu nelaikomas nenuolatinis informacijos teikimas vykdant kitokią profesinę veiklą, jei informacija teikiama neturint tikslo padėti informacijos gavėjui sudaryti ar vykdyti perdraudimo sutartį. Perdraudimo tarpininkavimu taip pat nelaikomas vien tik perdraudžiamųjų įvykių administravimas, vykdomas sutarties su perdraudiku pagrindu, žalos (nuostolių) ir reikalavimo išmokėti perdraudimo išmoką dydžio nustatymas.
+2) vien tik perdraudžiamųjų įvykių administravimas, žalos (nuostolių) ir reikalavimo išmokėti perdraudimo išmoką dydžio nustatymas bei ekspertinis reikalavimų išmokėti perdraudimo išmoką vertinimas;
 
 
 
 
-69. Perdraudimo veikla – ūkinė komercinė veikla, kuria prisiimama draudiko ar perdraudiko perduodama rizika. Perdraudimo veikla taip pat yra veikla, kai draudimo ar perdraudimo įmonė, išskyrus „Lloyd’s“ draudikų asociaciją, prisiima riziką, perduodamą bet kurio „Lloyd’s“ nario.
+3) vien duomenų ir informacijos apie potencialius draudėjus teikimas perdraudimo tarpininkams, perdraudimo įmonėms, kai informacijos teikėjas nesiima jokių papildomų veiksmų siekdamas padėti sudaryti perdraudimo sutartį, ar vien informacijos apie perdraudimo produktus, perdraudimo tarpininką, perdraudimo įmonę teikimas potencialiems draudėjams, kai informacijos teikėjas nesiima jokių papildomų veiksmų siekdamas padėti sudaryti perdraudimo sutartį. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
+662. Perdraudimo produktų platintojas – asmuo, už atlygį vykdantis perdraudimo produktų platinimo veiklą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
+67. Perdraudimo tarpininkas – asmuo, už atlygį vykdantis perdraudimo produktų platinimo veiklą, išskyrus perdraudimo įmonę ar jos darbuotojus. Lietuvos Respublikoje perdraudimo tarpininkas yra draudimo brokerių įmonė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
+68. Neteko galios 2018-10-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
+69. Perdraudimo veikla – ūkinė veikla, kuria prisiimama draudiko ar perdraudiko perduodama rizika. Perdraudimo veikla taip pat yra veikla, kai draudimo ar perdraudimo įmonė, išskyrus „Lloyd’s“ draudikų asociaciją, prisiima riziką, perduodamą bet kurio „Lloyd’s“ nario. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -598,7 +790,10 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-71. Priklausomas draudimo tarpininkas – asmuo, vykdantis draudimo tarpininkavimo veiklą vieno ar keleto draudikų vardu ir atstovaujantis jų interesams. Priklausomas draudimo tarpininkas taip pat yra asmuo, kuris vykdo draudimo tarpininkavimo veiklą vieno ar keleto draudikų vardu ir atstovauja jų interesams šalia savo pagrindinės ūkinės komercinės veiklos, o jo siūlomas draudimas yra papildoma paslauga, susijusi su asmens siūlomomis prekėmis ar paslaugomis.
+71. Neteko galios 2018-10-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -663,7 +858,10 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-81. Teisė teikti draudimo ar perdraudimo, draudimo ar perdraudimo tarpininkavimo paslaugas – draudimo ar perdraudimo įmonės teisė kitoje Europos ekonominės erdvės valstybėje vykdyti draudimo ar perdraudimo veiklą neįsteigus filialo, draudimo ar perdraudimo tarpininkų teisė kitoje Europos ekonominės erdvės valstybėje vykdyti draudimo ar perdraudimo tarpininkavimo veiklą neįsteigus filialo arba kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonės teisė vykdyti draudimo ar perdraudimo veiklą Lietuvos Respublikoje neįsteigus filialo, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkų teisė vykdyti draudimo ar perdraudimo tarpininkavimo veiklą Lietuvos Respublikoje neįsteigus filialo.
+81. Teisė teikti draudimo ar perdraudimo, draudimo ar perdraudimo produktų platinimo paslaugas – draudimo ar perdraudimo įmonės teisė kitoje Europos ekonominės erdvės valstybėje vykdyti draudimo ar perdraudimo veiklą neįsteigus filialo, draudimo ar perdraudimo tarpininkų teisė kitoje Europos ekonominės erdvės valstybėje vykdyti draudimo ar perdraudimo produktų platinimo veiklą neįsteigus filialo arba kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonės teisė vykdyti draudimo ar perdraudimo veiklą Lietuvos Respublikoje neįsteigus filialo, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkų teisė vykdyti draudimo ar perdraudimo produktų platinimo veiklą Lietuvos Respublikoje neįsteigus filialo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -726,12 +924,18 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
-2. Šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodyti subjektai Lietuvos Respublikoje negali vykdyti jokios kitos ūkinės komercinės veiklos, išskyrus draudimo, perdraudimo ir su šia veikla susijusią veiklą: draudžiamųjų ir perdraudžiamųjų įvykių administravimą, draudimo ir perdraudimo tarpininkavimą, konsultavimą draudimo ir perdraudimo klausimais, tarpininkavimą sudarant pensijų kaupimo (išskyrus papildomą savanorišką kaupimą) sutartis, draudimo ir perdraudimo specialistų mokymą, kvalifikacijos kėlimą, nekilnojamojo turto nuomą ir draudžiamo turto vertinimą.
+2. Šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodyti subjektai Lietuvos Respublikoje negali vykdyti jokios kitos ūkinės veiklos, išskyrus draudimo, perdraudimo veiklą ir su šia veikla susijusią veiklą: draudžiamųjų ir perdraudžiamųjų įvykių administravimą, draudimo ir perdraudimo produktų platinimą, konsultavimą draudimo ir perdraudimo klausimais, tarpininkavimą sudarant pensijų kaupimo sutartis, draudimo ir perdraudimo specialistų mokymą, kvalifikacijos tobulinimą, nekilnojamojo turto nuomą ir draudžiamo turto vertinimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
 
-3. Šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodyti subjektai su draudimu susijusią draudimo tarpininkavimo veiklą gali vykdyti tik kaip priklausomi draudimo tarpininkai.
+3. Šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytiems subjektams, vykdantiems kitos draudimo įmonės produktų platinimo veiklą, taikomi šiame įstatyme draudimo agentams nustatyti reikalavimai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -767,7 +971,9 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
-2. Šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodyti subjektai Lietuvos Respublikoje negali vykdyti jokios kitos ūkinės komercinės veiklos, išskyrus perdraudimo ir su šia veikla susijusią veiklą: perdraudžiamųjų įvykių administravimą, perdraudimo tarpininkavimą, konsultavimą perdraudimo klausimais, perdraudimo specialistų mokymą, kvalifikacijos kėlimą, nekilnojamojo turto nuomą ir perdraudžiamo turto vertinimą.
+2. Šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodyti subjektai Lietuvos Respublikoje negali vykdyti jokios kitos ūkinės veiklos, išskyrus perdraudimo veiklą ir su šia veikla susijusią veiklą: perdraudžiamųjų įvykių administravimą, perdraudimo tarpininkavimą, konsultavimą perdraudimo klausimais, perdraudimo specialistų mokymą, kvalifikacijos tobulinimą, nekilnojamojo turto nuomą ir perdraudžiamo turto vertinimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
@@ -775,58 +981,70 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
-5 straipsnis. Draudimo ir perdraudimo tarpininkavimo veikla
+5 straipsnis. Draudimo ir perdraudimo produktų platinimo veikla
 
 
-1. Lietuvos Respublikoje draudimo tarpininkavimo veiklą turi teisę vykdyti tik:
+1. Lietuvos Respublikoje draudimo produktų platinimo veiklą turi teisę vykdyti tik:
 
 
-1) Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtos bet kokios teisinės formos įmonės (draudimo agentų įmonės) ir fiziniai asmenys, kurie Lietuvos Respublikos įstatymų nustatyta tvarka vykdo draudimo tarpininkavimo veiklą (draudimo agentai). Draudimo agentų įmonės ir draudimo agentai yra priklausomi draudimo tarpininkai;
-
-
-
-
-2) Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtos draudimo brokerių įmonės: akcinės, uždarosios akcinės bendrovės, arba Europos bendrovės (Societas Europaea), šio įstatymo nustatyta tvarka gavusios draudimo brokerių įmonės veiklos licenciją. Draudimo brokerių įmonės yra nepriklausomi draudimo tarpininkai;
+1) šio įstatymo 3 straipsnio 1 dalyje nurodyti subjektai;
 
 
 
 
-3) kitų Europos ekonominės erdvės valstybių draudimo tarpininkai, kurie draudimo tarpininkavimo veiklą Lietuvos Respublikoje vykdo įgyvendindami įsisteigimo teisę ir (ar) teisę teikti paslaugas;
+2) draudimo agentai: Lietuvos Respublikoje įsteigtos draudimo agentų įmonės ir draudimo agentai (fiziniai asmenys);
 
 
 
 
-4) trečiųjų valstybių draudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje.
+3) Lietuvos Respublikoje įsteigtos draudimo brokerių įmonės;
 
 
 
 
-
-
-2. Lietuvos Respublikoje perdraudimo tarpininkavimo veiklą turi teisę vykdyti tik šio įstatymo 3 straipsnio 1 dalies 1, 2 ir 3 punktuose ir 4 straipsnyje nurodyti subjektai ir:
-
-
-1) draudimo brokerių įmonės;
+4) papildomos draudimo veiklos tarpininkai;
 
 
 
 
-2) kitų Europos ekonominės erdvės valstybių perdraudimo tarpininkai, kurie perdraudimo tarpininkavimo veikla Lietuvos Respublikoje verčiasi tiek įsteigę filialą, tiek neįsteigę;
+5) kitų Europos ekonominės erdvės valstybių draudimo tarpininkai, kurie draudimo produktų platinimo veiklą Lietuvos Respublikoje vykdo įgyvendindami įsisteigimo teisę ir (ar) teisę teikti paslaugas;
 
 
 
 
-3) trečiųjų valstybių perdraudimo tarpininkai, neįsteigę filialo Lietuvos Respublikoje, arba trečiųjų valstybių nepriklausomų draudimo tarpininkų ir (ar) perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje.
+6) trečiųjų valstybių draudimo tarpininkų įmonių filialai, įsteigti Lietuvos Respublikoje.
 
 
 
 
 
 
-3. Draudimo įmonėms ar trečiųjų valstybių draudimo įmonių filialams, kitų Europos ekonominės erdvės valstybių draudimo įmonėms, įgyvendinančioms įsisteigimo teisę ir (ar) teisę teikti paslaugas, draudžiama naudotis neturinčių teisės vykdyti draudimo ar perdraudimo tarpininkavimo veiklą asmenų draudimo ar perdraudimo tarpininkavimo paslaugomis. 
+2. Lietuvos Respublikoje perdraudimo produktų platinimo veiklą turi teisę vykdyti tik šio įstatymo 3 straipsnio 1 dalies 1, 2 ir 3 punktuose ir 4 straipsnyje nurodyti subjektai ir:
+
+
+1) Lietuvos Respublikoje įsteigtos draudimo brokerių įmonės;
+
+
+
+
+2) kitų Europos ekonominės erdvės valstybių perdraudimo tarpininkai, kurie perdraudimo produktų platinimo veikla Lietuvos Respublikoje verčiasi tiek įsteigę filialą, tiek neįsteigę;
+
+
+
+
+3) trečiųjų valstybių perdraudimo tarpininkai, neįsteigę filialo Lietuvos Respublikoje, arba trečiųjų valstybių draudimo ir (ar) perdraudimo tarpininkų įmonių filialai, įsteigti Lietuvos Respublikoje.
+
+
+
+
+
+
+3. Draudimo įmonėms ar trečiųjų valstybių draudimo įmonių filialams, kitų Europos ekonominės erdvės valstybių draudimo įmonėms, įgyvendinančioms įsisteigimo teisę ir (ar) teisę teikti paslaugas, draudžiama naudotis neturinčių teisės vykdyti draudimo ar perdraudimo produktų platinimo veiklą asmenų draudimo ar perdraudimo produktų platinimo paslaugomis. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
-
-
 
 
 
@@ -1232,6 +1450,14 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 3. Šiame įstatyme numatyti subjektai, vertindami fizinio asmens kvalifikaciją ir patirtį, privalo atsižvelgti į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Fizinio asmens reputacijos, kvalifikacijos ir patirties reikalavimai vertinami priežiūros institucijos priimtų teisės aktų nustatyta tvarka. 
 
 
+
+
+4. Priežiūros institucija, vertindama asmenų nepriekaištingą reputaciją, kvalifikaciją ir patirtį, prireikus bendradarbiauja su kitų Europos ekonominės erdvės valstybių priežiūros institucijomis ir keičiasi informacija apie vertinamų asmenų nepriekaištingą reputaciją, kvalifikaciją ir patirtį. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
@@ -1269,7 +1495,10 @@ DRAUDIMO IR PERDRAUDIMO VEIKLOS LICENCIJA
 
 
 
-4. Draudimo veiklos licencijoje nurodytos draudimo grupės apima privalomojo draudimo rizikas tik tuo atveju, jei tai pažymėta draudimo veiklos licencijoje. Draudikas, vykdantis privalomąjį draudimą, privalo, išskyrus teisės aktuose nustatytas išimtis, sudaryti draudimo sutartį su draudėju. Draudiko atsisakymas sudaryti draudimo sutartį gali būti ginčijamas teisme.
+4. Draudikas, vykdantis privalomąjį draudimą, privalo, išskyrus teisės aktuose nustatytas išimtis, sudaryti draudimo sutartį su draudėju. Draudiko atsisakymas sudaryti draudimo sutartį gali būti ginčijamas teisme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -1588,7 +1817,10 @@ DRAUDIMO IR PERDRAUDIMO VEIKLOS LICENCIJA
 
 
 
-4. Jeigu kyla įtarimas, kad įstatinis kapitalas, organizacinis fondas ir (ar) minimalaus kapitalo reikalavimas gali būti apmokėti pinigais, kurių gavimo šaltinis yra neteisėtas, priežiūros institucija privalo kreiptis į Lietuvos Respublikos valstybės saugumo departamentą (toliau – Valstybės saugumo departamentas) ar kitas kompetentingas institucijas su prašymu pateikti išvadą dėl šių pinigų gavimo šaltinių. Šiuo atveju terminų, numatytų šio straipsnio 1 dalyje ir šio įstatymo 13 straipsnio 6 dalyje, eiga sustabdoma ir atnaujinama tik gavus Valstybės saugumo departamento ar kitų kompetentingų institucijų išvadą.
+4. Jeigu kyla įtarimas, kad įstatinis kapitalas, organizacinis fondas ir (ar) minimalaus kapitalo reikalavimas gali būti apmokėti pinigais, kurių gavimo šaltinis yra neteisėtas, priežiūros institucija privalo kreiptis į kompetentingas institucijas su prašymu pateikti išvadą dėl šių pinigų gavimo šaltinių. Šiuo atveju terminų, numatytų šio straipsnio 1 dalyje ir šio įstatymo 13 straipsnio 6 dalyje, eiga sustabdoma ir atnaujinama tik gavus kompetentingų institucijų išvadą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -1841,6 +2073,14 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
+7. Draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas privalo užtikrinti, kad jos darbuotojai, į kurių pareigas įeina draudimo ar perdraudimo produktų platinimo veikla, atitiktų šio įstatymo 1581 straipsnio 1 dalyje nustatytus reikalavimus ir jiems nebūtų taikomas apribojimas vykdyti veiklą pagal šio įstatymo 1581 straipsnio 2 dalį, o priežiūros institucijos reikalavimu – tai įrodyti. Draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas nustato, įgyvendina ir reguliariai, bet ne rečiau kaip kartą per metus, peržiūri vidaus politiką ir vidaus procedūras, kuriomis užtikrinamas šių reikalavimų laikymasis. Be to, draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas paskiria asmenį, atsakingą už nustatytų vidaus politikos ir procedūrų įgyvendinimą, ir jo vardą ir pavardę nurodo priežiūros institucijai šios prašymu. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
+ 
+
+
+
+
 
 
 23 straipsnis. Tiesiogiai ar netiesiogiai valdomų draudimo ar perdraudimo įmonės akcijų įsigijimas ir perleidimas
@@ -1996,7 +2236,10 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-19. Kilus įtarimui, kad tiesiogiai ar netiesiogiai valdomos draudimo ar perdraudimo įmonės akcijos gali būti apmokėtos pinigais, kurių gavimo šaltiniai yra neteisėti, priežiūros institucija Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo nustatyta tvarka privalo kreiptis į Valstybės saugumo departamentą ar į kitą priežiūros instituciją su prašymu pateikti išvadą apie šių pinigų gavimo šaltinius. Valstybės saugumo departamentas ir kita priežiūros institucija, kitos valstybės ir savivaldybių institucijos, taip pat kiti asmenys priežiūros institucijos prašymu privalo nedelsdami pateikti jai turimą informaciją apie įsigyjantį asmenį, jo dalyvius, vadovus, finansinę būklę, veiklą, nustatytus įstatymų ir kitų teisės aktų pažeidimus, atliktų patikrinimų ir revizijų išvadas, kitą priežiūros institucijos atliekamam įsigyjančio asmens ir siūlomo įsigijimo vertinimui reikalingą informaciją. 
+19. Kilus įtarimui, kad tiesiogiai ar netiesiogiai valdomos draudimo ar perdraudimo įmonės akcijos gali būti apmokėtos pinigais, kurių gavimo šaltiniai yra neteisėti, priežiūros institucija privalo kreiptis į kompetentingas institucijas su prašymu pateikti išvadą dėl šių pinigų gavimo šaltinių. Kompetentinga institucija, kitos valstybės ir savivaldybių institucijos, taip pat kiti asmenys priežiūros institucijos prašymu privalo nedelsdami pateikti jai turimą informaciją apie įsigyjantį asmenį, jo dalyvius, vadovus, finansinę būklę, veiklą, nustatytus įstatymų ir kitų teisės aktų pažeidimus, atliktų patikrinimų ir revizijų išvadas, kitą priežiūros institucijos atliekamam įsigyjančio asmens ir siūlomo įsigijimo vertinimui reikalingą informaciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -2049,7 +2292,10 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-3) nustato draudimo įmonės draudimo sutarčių sudarymo tvarką, taikomą ir priklausomiems draudimo tarpininkams, ypač daug dėmesio skirdama informacijos, reikšmingos sudarant draudimo sutartį, atskleidimui draudėjams, kiekvieno draudėjo interesų pagarbai ir apsaugai, užtikrina, kad draudimo taisyklių sąlygos atitiktų teisės aktų nuostatas;
+3) nustato draudimo įmonės draudimo sutarčių sudarymo tvarką, taikomą ir draudimo tarpininkams, ypač daug dėmesio skirdama informacijos, reikšmingos sudarant draudimo sutartį, atskleidimui draudėjams, kiekvieno draudėjo interesų pagarbai ir apsaugai, užtikrina, kad draudimo taisyklių sąlygos atitiktų teisės aktų nuostatas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -2372,7 +2618,10 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 2. Atitikties vertinimo funkcija apima:
 
 
-1) teisės aktų, draudimo ar perdraudimo įmonės įstatų, įmonės stebėtojų tarybos ir valdybos nutarimų, vadovo įsakymų ir kitų vidaus teisės aktų laikymosi ir įgyvendinimo vertinimą ir patarimą valdybai atitikties šiam įstatymui ir pagal 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyvą 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (toliau – Europos Parlamento ir Tarybos direktyva 2009/138/EB) priimtiems kitiems teisės aktams klausimais;
+1) teisės aktų, draudimo ar perdraudimo įmonės įstatų, įmonės stebėtojų tarybos ir valdybos nutarimų, vadovo įsakymų ir kitų vidaus teisės aktų laikymosi ir įgyvendinimo vertinimą ir patarimą valdybai atitikties šiam įstatymui ir pagal Direktyvą 2009/138/EB priimtiems kitiems teisės aktams klausimais; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -2405,7 +2654,10 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
-3. Vidaus audito išvados ir rekomendacijos pateikiamos stebėtojų tarybai, kuri nustato, kokių veiksmų reikia imtis atsižvelgiant į kiekvieną vidaus audito išvadą ir rekomendaciją, ir užtikrina, kad šie veiksmai būtų įgyvendinti. 
+3. Vidaus audito išvados ir rekomendacijos pateikiamos stebėtojų tarybai arba stebėtojų tarybos nustatyta tvarka ir atvejais – valdybai. Stebėtojų taryba, o stebėtojų tarybos nustatyta tvarka ir atvejais valdyba nustato, kokių veiksmų reikia imtis atsižvelgiant į kiekvieną vidaus audito išvadą ir rekomendaciją, ir užtikrina, kad šie veiksmai būtų atlikti. Jeigu stebėtojų taryba nesudaroma, vidaus audito išvados ir rekomendacijos pateikiamos valdybai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -2561,9 +2813,10 @@ DRAUDIMO IR PERDRAUDIMO ĮMONĖS FINANSAI
 
 
 
-2. Dėl įstatinio kapitalo padidinimo ar sumažinimo keičiami draudimo ar perdraudimo įmonės įstatai priežiūros institucijos nustatyta tvarka privalo būti suderinti su priežiūros institucija prieš draudimo ar perdraudimo įmonės informacijos apie įstatų pakeitimus pateikimą Juridinių asmenų registrui. Priežiūros institucija sprendimą dėl įstatų pakeitimo suderinimo priima per 20 darbo dienų nuo visų tinkamai įformintų dokumentų pateikimo. Įstatinio kapitalo padidinimas gali būti įstatymų nustatyta tvarka įregistruotas tik visiškai apmokėjus akcijas. 
+2. Dėl įstatinio kapitalo padidinimo ar sumažinimo keičiami draudimo ar perdraudimo įmonės įstatai priežiūros institucijos nustatyta tvarka privalo būti suderinti su priežiūros institucija prieš draudimo ar perdraudimo įmonės informacijos apie įstatų pakeitimą pateikimą Juridinių asmenų registrui. Priežiūros institucija sprendimą dėl įstatų pakeitimo suderinimo priima per 20 darbo dienų nuo visų tinkamai įformintų dokumentų pateikimo. Įstatinio kapitalo padidinimas gali būti įstatymų nustatyta tvarka įregistruotas tik visiškai apmokėjus akcijas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
  
 
 
@@ -3398,9 +3651,10 @@ Nr. XIII-98, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29410
 
 
 
-2. Draudimo ar perdraudimo įmonė per 10 dienų nuo audito įmonės pasirinkimo privalo pranešti priežiūros institucijai apie pasirinktą audito įmonę ir jos paskirtus auditorius. Jeigu audito įmonės auditoriai neturi draudimo įmonių, perdraudimo įmonių arba finansų įstaigų audito patirties ar yra pagrindas abejoti audito įmonės ar jos paskirto auditoriaus nepriklausomumu nuo audituojamos draudimo įmonės ar perdraudimo įmonės, priežiūros institucijos reikalavimu draudimo ar perdraudimo įmonė privalo pakeisti audito įmonę ar jos paskirtus auditorius. 
+2. Jeigu audito įmonės auditoriai neturi draudimo įmonių, perdraudimo įmonių arba finansų įstaigų audito patirties arba yra pagrindas abejoti audito įmonės ar jos paskirto auditoriaus nepriklausomumu nuo audituojamos draudimo įmonės ar perdraudimo įmonės, priežiūros institucijos reikalavimu draudimo ar perdraudimo įmonė privalo pakeisti audito įmonę ar jos paskirtus auditorius. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-98, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29410
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
@@ -4015,7 +4269,10 @@ DRAUDIMO IR PERDRAUDIMO ĮMONIŲ VEIKLA kitose EUROPOS Ekonominės erdvės VALST
 68 straipsnis. Draudimo įmonių teisė teikti paslaugas kitoje Europos ekonominės erdvės valstybėje 
 
 
-1. Draudimo įmonė, ketinanti teikti paslaugas kitoje Europos ekonominės erdvės valstybėje, privalo apie tai pranešti priežiūros institucijai, kartu nurodydama rizikas, dėl kurių ketinama sudaryti draudimo sutartis, ir tuo atveju, kai draudimo įmonė ketina vykdyti šio įstatymo 7 straipsnio 3 dalies 10 punkte numatytos draudimo grupės (išskyrus vežėjų civilinės atsakomybės draudimą) veiklą, pateikti šio straipsnio 2 dalies 4 punkte nurodytus dokumentus. Informacija ir dokumentai privalo būti pateikti lietuvių ir anglų kalbomis bei kitos Europos ekonominės erdvės valstybės valstybine kalba arba viena iš valstybinių kalbų, kai pagal kitos Europos ekonominės erdvės valstybės teisės aktus šiai Europos ekonominės erdvės valstybės priežiūros institucijai visi dokumentai privalo būti pateikiami tos Europos ekonominės erdvės valstybės valstybine kalba arba viena iš valstybinių kalbų.
+1. Draudimo įmonė, ketinanti teikti paslaugas kitoje Europos ekonominės erdvės valstybėje, privalo apie tai pranešti priežiūros institucijai, kartu nurodydama rizikas, dėl kurių ketinama sudaryti draudimo sutartis, ir tuo atveju, kai draudimo įmonė ketina vykdyti šio įstatymo 7 straipsnio 3 dalies 10 punkte numatytos draudimo grupės (išskyrus vežėjų civilinės atsakomybės draudimą) veiklą, pateikti šio straipsnio 2 dalies 4 punkte nurodytus dokumentus. Informacija ir dokumentai privalo būti pateikti lietuvių ir (ar) anglų kalbomis bei kitos Europos ekonominės erdvės valstybės valstybine kalba arba viena iš valstybinių kalbų, kai pagal kitos Europos ekonominės erdvės valstybės teisės aktus šiai Europos ekonominės erdvės valstybės priežiūros institucijai visi dokumentai privalo būti pateikiami tos Europos ekonominės erdvės valstybės valstybine kalba arba viena iš valstybinių kalbų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -4096,7 +4353,10 @@ DRAUDIMO IR PERDRAUDIMO ĮMONIŲ VEIKLA kitose EUROPOS Ekonominės erdvės VALST
 
 
 
-2. Šio straipsnio 1 dalyje nurodyti dokumentai privalo būti pateikti lietuvių ir anglų kalbomis arba kitos Europos ekonominės erdvės valstybės valstybine kalba, arba viena iš valstybinių kalbų, jei kitos Europos ekonominės erdvės valstybės priežiūros institucijai pagal šios valstybės teisės aktus visi dokumentai privalo būti pateikiami šios Europos ekonominės erdvės valstybės valstybine kalba arba viena iš valstybinių kalbų.
+2. Šio straipsnio 1 dalyje nurodyti dokumentai privalo būti pateikti lietuvių ir (ar) anglų kalbomis arba kitos Europos ekonominės erdvės valstybės valstybine kalba arba viena iš valstybinių kalbų, jei kitos Europos ekonominės erdvės valstybės priežiūros institucijai pagal šios valstybės teisės aktus visi dokumentai privalo būti pateikiami šios Europos ekonominės erdvės valstybės valstybine kalba arba viena iš valstybinių kalbų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -4295,10 +4555,12 @@ Jeigu priežiūros institucijos nenustatyta kitaip, Šveicarijos Konfederacijos 
 76 straipsnis. Kalba
 
 
-Visi dokumentai priežiūros institucijai pateikiami lietuvių, o jei dokumentus teikia kitos Europos ekonominės erdvės valstybės priežiūros institucija ar draudimo įmonė, – ir (ar) anglų kalba.
+Visi dokumentai priežiūros institucijai pateikiami lietuvių ir (ar) anglų kalbomis. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
-
-
 
 
 
@@ -4521,7 +4783,9 @@ TREČIŲJŲ VALSTYBIŲ draudimo ir PERDRAUDIMO įmonių veikla LIETUVOS RESPUBLI
 
 
 
-5. Jeigu kyla įtarimas, kad trečiosios valstybės draudimo ar perdraudimo įmonės indėlis ar minimalus kapitalas gali būti apmokėti pinigais, kurių gavimo šaltiniai yra neteisėti, priežiūros institucija privalo kreiptis į Valstybės saugumo departamentą ar kitas priežiūros institucijas su prašymu pateikti išvadą dėl šių pinigų gavimo šaltinių. Šiuo atveju termino, nustatyto šio straipsnio 1 dalyje, eiga sustabdoma ir atnaujinama tik gavus Valstybės saugumo departamento ar kitų kompetentingų institucijų išvadą.
+5. Jeigu kyla įtarimas, kad trečiosios valstybės draudimo ar perdraudimo įmonės indėlis ar minimalus kapitalas gali būti apmokėti pinigais, kurių gavimo šaltiniai yra neteisėti, priežiūros institucija privalo kreiptis į kompetentingas institucijas su prašymu pateikti išvadą dėl šių pinigų gavimo šaltinių. Šiuo atveju termino, nustatyto šio straipsnio 1 dalyje, eiga sustabdoma ir atnaujinama tik gavus kompetentingų institucijų išvadą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
@@ -4529,13 +4793,15 @@ TREČIŲJŲ VALSTYBIŲ draudimo ir PERDRAUDIMO įmonių veikla LIETUVOS RESPUBLI
 
 
 
-81 straipsnis. Informacija apie pasikeitimus
+81 straipsnis. Informacija apie pasikeitimus ir leidimo filialo veiklai pakeitimas
 
 
-Apie informacijos, nurodytos priežiūros institucijai pateiktuose dokumentuose dėl leidimo filialo veiklai išdavimo, pasikeitimus Lietuvos Respublikoje įsteigtas trečiosios valstybės draudimo ar perdraudimo įmonės filialas priežiūros institucijos nustatyta tvarka privalo pranešti priežiūros institucijai.
+Apie informacijos, nurodytos priežiūros institucijai pateiktuose dokumentuose dėl leidimo filialo veiklai išdavimo, pasikeitimus Lietuvos Respublikoje įsteigtas trečiosios valstybės draudimo ar perdraudimo įmonės filialas priežiūros institucijos nustatyta tvarka privalo pranešti priežiūros institucijai, o ši, kai keičiasi leidime filialo veiklai nurodyti duomenys, pakeičia leidimą filialo veiklai. Priežiūros institucija sprendimą dėl leidimo filialo veiklai pakeitimo priima per vieną mėnesį nuo informacijos apie pasikeitimus gavimo dienos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
-
-
 
 
 
@@ -4866,6 +5132,80 @@ BENDROSIOS NUOSTATOS
 
 
 
+901 straipsnis. Pareiga elgtis geriausiomis draudėjui, apdraustajam, naudos gavėjui ir nukentėjusiam trečiajam asmeniui sąlygomis ir jų interesais
+
+
+1. Draudimo produktų platintojas, teikdamas draudėjui, apdraustajam, naudos gavėjui ar nukentėjusiam trečiajam asmeniui draudimo produktų platinimo paslaugas, turi visada sąžiningai, teisingai ir profesionaliai veikti geriausiomis draudėjams, apdraustiesiems, naudos gavėjams ir nukentėjusiems tretiesiems asmenims sąlygomis ir jų interesais.
+
+
+
+
+2. Draudimo produktų platintojui draudžiama nustatyti tokią savo darbuotojų, į kurių pareigas įeina draudimo produktų platinimo veikla, atlyginimo, pardavimo tikslų, darbo rezultatų siekimo ar kitą tvarką, pagal kurią darbuotojai galėtų būti skatinami draudėjui, apdraustajam, naudos gavėjui ar nukentėjusiam trečiajam asmeniui rekomenduoti konkretų draudimo produktą ar paslaugą, nors draudimo produktų platintojas galėtų pasiūlyti kitą, labiau draudėjo, apdraustojo, naudos gavėjo ar nukentėjusio trečiojo asmens poreikius atitinkantį, draudimo produktą ar paslaugą. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
+902 straipsnis. Pareiga vengti interesų konflikto
+
+
+1. Draudikas ir draudimo tarpininkas, platinantys draudimo principu pagrįstus investicinius produktus, privalo įgyvendinti ir taikyti organizacines ir administracines priemones, kad būtų užkirstas kelias interesų konfliktams, kurie galėtų neigiamai paveikti jų draudėjų, apdraustųjų, naudos gavėjų interesus. Šios priemonės turi būti proporcingos atsižvelgiant į draudiko ar draudimo tarpininko vykdomą veiklą, teikiamas draudimo produktų platinimo paslaugas ir asmens, teikiančio šias paslaugas, tipą (draudikas ar draudimo tarpininkas).
+
+
+
+
+2. Draudikas ir draudimo tarpininkas privalo vengti interesų konfliktų ir imtis visų reikalingų veiksmų, kad būtų nustatyti teikiant draudimo principu pagrįstų investicinių produktų platinimo paslaugas galintys kilti interesų konfliktai tarp tų draudimo tarpininkų ar draudikų, įskaitant jų vadovus ir darbuotojus, arba tiesiogiai ar netiesiogiai su jais kontrolės ryšiais susijusių asmenų ir jų draudėjų, apdraustųjų, naudos gavėjų arba tarp pačių draudėjų, apdraustųjų, naudos gavėjų.
+
+
+
+
+3. Jeigu priemonės, kurių draudikas ar draudimo tarpininkas ėmėsi vadovaudamasis šio straipsnio 1 dalimi, yra nepakankamos, kad būtų užtikrinta žalos draudėjų, apdraustųjų, naudos gavėjų interesams prevencija, draudikas ar draudimo tarpininkas, prieš pradėdamas teikti draudimo ar draudimo produktų platinimo paslaugas, turi aiškiai atskleisti draudėjui, apdraustajam, naudos gavėjui interesų konflikto pobūdį ar priežastis. Ši informacija turi būti pakankamai išsami pagal draudėjo, apdraustojo, naudos gavėjo veiklos pobūdį, kad draudėjas, apdraustasis, naudos gavėjas, kuriam ji pateikiama, galėtų priimti pagrįstą sprendimą dėl draudimo produktų platinimo paslaugų teikimo veiklos, dėl kurios kyla interesų konfliktas. Šioje dalyje numatyta informacija turi būti pateikta patvariojoje laikmenoje. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
+903 straipsnis. Skatinimo priemonės
+
+
+1. Laikoma, kad draudikas arba draudimo tarpininkas nevykdo šio įstatymo 901 straipsnio 1 dalyje ir 902 straipsnyje nustatytų pareigų, jeigu jie, platindami draudimo principu pagrįstus investicinius produktus arba teikdami susijusias papildomas paslaugas, moka atlygį tretiesiems asmenims, kurie nėra draudėjai, apdraustieji arba naudos gavėjai, arba gauna atlygį iš trečiųjų asmenų, kurie nėra draudėjai, apdraustieji arba naudos gavėjai, išskyrus atvejus, kai atlygis:
+
+
+1) neturi neigiamo poveikio teikiamų draudimo paslaugų kokybei ir
+
+
+
+
+2) netrukdo draudikui arba draudimo tarpininkui laikytis šio įstatymo 901 straipsnio 1 dalyje nustatytos pareigos. 
+
+
+
+
+
+
+2. Išsami informacija apie šio straipsnio 1 dalyje nurodyto atlygio pobūdį turi būti suprantamai, tiksliai ir aiškiai atskleidžiama draudėjui prieš pradedant teikti draudimo produktų platinimo paslaugas. Draudikas arba draudimo tarpininkas taip pat turi informuoti draudėją apie mokėjimų ar naudos, kai mokėjimai atliekami ar nauda gaunama, perleidimą draudėjui, apdraustajam arba naudos gavėjui. Informacija apie draudiko mokėjimus ar naudą draudimo tarpininkui ir (ar) draudiko darbuotojui šioje dalyje nurodytomis sąlygomis atskleidžiama draudėjui visais atvejais.
+
+
+
+
+3. Šio straipsnio 1 dalis netaikoma mokėjimams arba naudai, kurie sudaro sąlygas platinti arba yra būtini platinant draudimo principu pagrįstus investicinius produktus, įskaitant turto saugojimo, atsiskaitymo už sudarytus sandorius ir valiutos keitimo mokesčius, su draudiko arba draudimo tarpininko priežiūra susijusias išlaidas, jei pagal savo pobūdį šie mokėjimai arba nauda netrukdo draudikui arba draudimo tarpininkui laikytis šio įstatymo 901 straipsnio 1 dalyje nustatytos pareigos. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
 91 straipsnis. Draudimo sutarčių skirstymas
 
 
@@ -4991,12 +5331,12 @@ BENDROSIOS NUOSTATOS
 93 straipsnis. Informacija draudėjui
 
 
-1. Draudimo ar perdraudimo įmonė, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas gali reklamuoti savo paslaugas visomis prieinamomis ryšio priemonėmis, laikydamiesi priežiūros institucijos patvirtintų reklamos formą ir turinį reglamentuojančių taisyklių, kuriomis siekiama užtikrinti draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų interesus.
+1. Visa informacija, kurią draudimo ar perdraudimo produktų platintojas teikia esamiems ar galimiems draudėjams, apdraustiesiems, naudos gavėjams ar nukentėjusiems tretiesiems asmenims, įskaitant reklaminę informaciją, turi būti teisinga, aiški ir neklaidinanti. Draudimo ar perdraudimo produktų platintojas, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas gali reklamuoti savo paslaugas visomis prieinamomis ryšio priemonėmis, laikydamiesi priežiūros institucijos patvirtintų reklamos formą ir turinį reglamentuojančių taisyklių, kuriomis siekiama užtikrinti draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų interesus. Reklaminė informacija turi būti aiškiai atpažįstama.
 
 
 
 
-2. Prieš ne gyvybės draudimo sutarties sudarymą draudikas arba jo įgaliotas atstovas privalo suteikti draudėjui – fiziniam asmeniui:
+2. Prieš ne gyvybės draudimo sutarties sudarymą, išskyrus atvejus, kai draudimo sutartis sudaroma dėl didelės draudimo rizikos, kaip nustatyta šio įstatymo 10 straipsnyje, draudikas arba draudimo tarpininkas privalo draudėjui raštu pateikti:
 
 
 1) Civilinio kodekso 6.993 straipsnio 8 dalyje nurodytą informaciją;
@@ -5004,14 +5344,34 @@ BENDROSIOS NUOSTATOS
 
 
 
-2) informaciją apie draudimo sutarčiai taikomą teisę. Jeigu draudimo sutarties šalys gali laisvai pasirinkti taikomą teisę, – teisę, kurią pasirinkti siūlo draudikas.
+2) informaciją apie draudimo sutarčiai taikomą teisę. Jeigu draudimo sutarties šalys gali laisvai pasirinkti taikomą teisę, – teisę, kurią pasirinkti siūlo draudikas;
+
+
+
+
+3) informaciją, ar teikiama rekomendacija dėl parduodamų draudimo produktų;
+
+
+
+
+4) kai draudimo produktų platinimo paslaugas teikia draudikas, – informaciją apie savo darbuotojų gaunamo atlygio, susijusio su draudimo sutartimi, pobūdį;
+
+
+
+
+5) kai draudimo produktų platinimo paslaugas teikia draudimo tarpininkas, – informaciją apie draudimo tarpininko gaunamo atlygio pobūdį. Jei draudėjas už draudimo produkto platinimo paslaugas atlygį moka tiesiogiai draudimo tarpininkui, draudėjui turi būti pateikiama informacija apie šio atlygio dydį, o kai atlygio dydis negali būti nustatytas, – informacija apie jo apskaičiavimo metodą;
+
+
+
+
+6) draudiko parengtą draudimo produkto informacinį dokumentą.
 
 
 
 
 
 
-3. Sutarties galiojimo laikotarpiu draudikas nedelsdamas privalo pranešti ne gyvybės draudimo sutarties draudėjui – fiziniam asmeniui apie bet kokį šio straipsnio 1 dalyje nurodytos informacijos pasikeitimą. 
+3. Sutarties galiojimo laikotarpiu draudikas nedelsdamas privalo pranešti ne gyvybės draudimo sutarties draudėjui apie bet kokį šio straipsnio 2 dalies 1 ir 2 punktuose nurodytos informacijos pasikeitimą. Jei draudėjas atlieka kokius nors mokėjimus, išskyrus draudimo įmokas ir numatytus mokėjimus pagal draudimo sutartį sudarius šią sutartį, draudikas arba draudimo tarpininkas taip pat atskleidžia informaciją pagal šio straipsnio 2 dalies 4 punktą apie kiekvieną tokį mokėjimą.
 
 
 
@@ -5031,10 +5391,95 @@ BENDROSIOS NUOSTATOS
 
 
 
-7. Tais atvejais, kai šiame skyriuje numatytas rašytinis informacijos pateikimas, laikoma, kad šis reikalavimas yra išlaikytas, jei, iš anksto suderinus ir aptarus individualiai, informacija pateikiama elektroniniu paštu, faksu ir kitais telekomunikacijų galiniais įrenginiais, suteikiančiais galimybę įrodyti informacijos pateikimo faktą.
+7. Draudimo produkto informacinio dokumento ir kitos šio straipsnio 2 ir 3 dalyse nurodytos informacijos pateikimo reikalavimus, kiek jų nenustato Europos Sąjungos teisės aktai, nustato priežiūros institucija. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
+
+
+931 straipsnis. Informacijos pateikimo sąlygos
+
+
+1. Šiame skyriuje numatyto informacijos teikimo raštu atvejais, taip pat šio įstatymo 1582 straipsnyje nustatytais atvejais informacija turi būti pateikiama:
+
+
+1) atspausdinta popieriuje;
+
+
+
+
+2) suprantamai, aiškiai ir tiksliai;
+
+
+
+
+3) valstybine kalba arba kita kalba, jei dėl jos susitaria šalys ir jei tai neprieštarauja Lietuvos Respublikos valstybinės kalbos įstatymui; 
+
+
+
+
+4) nemokamai.
+
+
+
+
+
+
+2. Informacija gali būti pateikiama ne atspausdinta popieriuje, bet patvariojoje laikmenoje (išskyrus popierių) ar interneto svetainėje, jei yra visos šio straipsnio 3 ir 4 dalyse nustatytos sąlygos. Kai informacija pateikiama patvariojoje laikmenoje (išskyrus popierių) ar interneto svetainėje, draudėjas, apdraustasis, naudos gavėjas ar nukentėjęs trečiasis asmuo turi teisę prašyti tą informaciją jam pateikti atspausdintą popieriuje nemokamai.
+
+
+
+
+3. Informacija gali būti pateikiama patvariojoje laikmenoje (išskyrus popierių), jeigu tenkinamos visos šios sąlygos:
+
+
+1) galima įrodyti, kad draudėjas, apdraustasis, naudos gavėjas ar nukentėjęs trečiasis asmuo turi galimybę reguliariai naudotis internetu. Tokiu įrodymu laikomi atvejai, kai prieš teikiant draudimo produktų platinimo paslaugas draudėjas, apdraustasis, naudos gavėjas ar nukentėjęs trečiasis asmuo nurodo draudimo produktų platintojui savo elektroninio pašto adresą;
+
+
+
+
+2) draudėjui, apdraustajam, naudos gavėjui ar nukentėjusiam trečiajam asmeniui buvo suteikta galimybė pasirinkti informacijos pateikimo formą ir jis pasirinko patvariąją laikmeną (išskyrus popierių).
+
+
+
+
+
+
+4. Informacija gali būti pateikiama interneto svetainėje, jeigu ji adresuojama asmeniškai draudėjui, apdraustajam, naudos gavėjui ar nukentėjusiam trečiajam asmeniui arba tenkinamos visos šios sąlygos:
+
+
+1) galima įrodyti, kad draudėjas, apdraustasis, naudos gavėjas ar nukentėjęs trečiasis asmuo turi galimybę reguliariai naudotis internetu. Tokiu įrodymu laikomi atvejai, kai prieš teikiant draudimo produktų platinimo paslaugas draudėjas, apdraustasis, naudos gavėjas ar nukentėjęs trečiasis asmuo nurodo draudimo produktų platintojui savo elektroninio pašto adresą;
+
+
+
+
+2) draudėjas, apdraustasis, naudos gavėjas ar nukentėjęs trečiasis asmuo sutinka, kad ta informacija būtų pateikta interneto svetainėje;
+
+
+
+
+3) draudėjui, apdraustajam, naudos gavėjui ar nukentėjusiam trečiajam asmeniui elektroniniu būdu pranešamas interneto svetainės adresas ir interneto svetainės nuoroda, kur galima susipažinti su ta informacija;
+
+
+
+
+4) užtikrinama, kad ta informacija interneto svetainėje būtų prieinama tiek laiko, kiek draudėjui, apdraustajam, naudos gavėjui ar nukentėjusiam trečiajam asmeniui gali pagrįstai reikėti su ja susipažinti.
+
+
+
+
+
+
+5. Tais atvejais, kai draudimo produktai platinami pagal sutartis, sudaromas naudojant ryšio priemones, kartu taikomos ir įstatymų, reglamentuojančių finansinių paslaugų teikimą pagal sutartis, sudaromas naudojant ryšio priemones, nuostatos. Tokiais atvejais, jei draudėjas, apdraustasis, naudos gavėjas ar nukentėjęs trečiasis asmuo pagal šio straipsnio 3 dalį pasirenka gauti išankstinę informaciją patvariojoje laikmenoje (išskyrus popierių), informacija pagal šio straipsnio 1 ir 2 dalis jam pateikiama nedelsiant, sudarius draudimo sutartį. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -5460,7 +5905,7 @@ GYVYBĖS DRAUDIMO YPATUMAI
 116 straipsnis. Informacija gyvybės draudimo sutarties draudėjui 
 
 
-1. Prieš sudarydamas gyvybės draudimo sutartį, draudikas arba jo įgaliotas atstovas privalo pateikti draudėjui raštu šio įstatymo 93 straipsnio 2 dalyje nurodytą informaciją ir raštu pranešti draudėjui apie:
+1. Prieš sudarydamas gyvybės draudimo sutartį, draudikas arba draudimo tarpininkas privalo raštu pateikti draudėjui šio įstatymo 93 straipsnio 2 dalies 1–5 punktuose nurodytą informaciją ir raštu pranešti draudėjui apie:
 
 
 1) galimas draudimo sutarties sąlygas dėl draudimo sumų ir draudimo išmokų, kurias draudėjas turi teisę pasirinkti sudarydamas draudimo sutartį, draudimo įmokų dydžius dėl kiekvieno pasirinkto draudimo sumos ir draudimo išmokos varianto;
@@ -5493,19 +5938,22 @@ GYVYBĖS DRAUDIMO YPATUMAI
 
 
 
-7) jei sudaroma draudimo sutartis, pagal kurią investavimo rizika tenka  draudėjui, – objektus, į kuriuos gali būti investuojama, jų pobūdį, pajamas iš investicijų per pastaruosius 3 metus;
+7) esminę informaciją apie draudimo sutartims taikomą apmokestinimo tvarką;
 
 
 
 
-8) esminę informaciją apie draudimo sutartims taikomą apmokestinimo tvarką;
+8) nuorodą į draudiko mokumo ir finansinės būklės ataskaitą, sudarydamas sąlygas draudėjui be kliūčių gauti šią informaciją;
 
 
 
 
-9) nuorodą į draudiko mokumo ir finansinės būklės ataskaitą, sudarydamas sąlygas draudėjui be kliūčių gauti šią informaciją.
+9) priežiūros institucijos nustatyta tvarka visus draudimo sutarties mokesčius, išreikštus ir absoliučiąja pinigų suma, kai sudaroma draudimo sutartis, susijusi su kapitalo kaupimu. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -5525,7 +5973,10 @@ GYVYBĖS DRAUDIMO YPATUMAI
 
 
 
-3. Kiekvienais metais draudikas draudimo sutartyje nustatytais terminais privalo raštu pranešti draudėjui apie jam tenkantį draudiko pelno dalies dydį, išperkamosios sumos dydį, jei sudaryta draudimo sutartis, susijusi su kapitalo kaupimu.
+3. Kiekvienais metais draudikas draudimo sutartyje nustatytais terminais priežiūros institucijos nustatyta tvarka privalo raštu pranešti draudėjui apie jam tenkantį draudiko pelno dalies dydį, išperkamosios sumos dydį, taikytų draudimo sutarties mokesčių dydį, kai sudaryta draudimo sutartis, susijusi su kapitalo kaupimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -6900,7 +7351,10 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 VII SKYRIUS
-DRAUDIMO IR PERDRAUDIMO TARPININKAI
+DRAUDIMO IR PERDRAUDIMO PRODUKTŲ PLATINIMAS 
+Pakeistas skyriaus pavadinimas:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 PIRMASIS SKIRSNIS
@@ -6911,40 +7365,330 @@ BENDROSIOS NUOSTATOS
 158 straipsnis. Šio skyriaus nuostatų taikymas
 
 
-Šio skyriaus nuostatos netaikomos asmenims, teikiantiems draudimo tarpininkavimo paslaugas, jeigu yra visos šios sąlygos:
+1. Šio skyriaus nuostatos netaikomos papildomos draudimo veiklos tarpininkams, teikiantiems draudimo produktų platinimo paslaugas, jeigu yra visos šios sąlygos:
 
 
-1) draudimo sutartis reikalauja žinoti tik šio asmens teikiamos draudimo apsaugos pobūdį;
-
-
-
-
-2) draudimo sutartis nėra gyvybės draudimo sutartis;
+1) siūlomas draudimas yra papildoma paslauga, skirta prekių tiekėjo ar paslaugų teikėjo siūlomoms prekėms ar paslaugoms arba su jomis susijusi, kai draudimo apsauga skirta siūlomų prekių sugedimo, sugadinimo ar sunaikinimo arba nepasinaudojimo paslauga rizikoms arba bagažo sugadinimo, sunaikinimo ar kitoms rizikoms, susijusioms su siūloma kelione, užsakyta iš to paslaugų teikėjo;
 
 
 
 
-3) draudimo sutartimi nedraudžiama civilinės atsakomybės rizika;
+2) metinės draudimo įmokos dydis pagal vieną draudimo sutartį neviršija 600 eurų. Ši suma apskaičiuojama kaip metinė, taikant pro rata principą.
 
 
 
 
-4) pagrindinė asmens, teikiančio draudimo tarpininkavimo paslaugas, ūkinė komercinė veikla, iš kurios gauta daugiau kaip 50 procentų pajamų per praėjusius finansinius metus, yra kita negu draudimo tarpininkavimas;
+
+
+2. Šio skyriaus nuostatos, neatsižvelgiant į šio straipsnio 1 dalies 2 punktą, netaikomos, kai draudimo produktu papildomos šio straipsnio 1 dalies 1 punkte nustatytos papildomo draudimo veiklos tarpininko teikiamos paslaugos ir šių paslaugų teikimo trukmė yra ne ilgesnė kaip 3 mėnesiai, o mokamas draudimo įmokos dydis vienam asmeniui neviršija 200 eurų.
 
 
 
 
-5) siūlomas draudimas yra papildoma paslauga, skirta asmens siūlomoms prekėms ar paslaugoms arba su jomis susijusi, kai draudimo apsauga skirta siūlomų prekių sugedimo, sugadinimo ar sunaikinimo rizikoms; arba bagažo sugadinimo, sunaikinimo ar kitoms rizikoms, susijusioms su asmens siūloma kelione, net jei draudimo sutartis sudaroma dėl mirties ar civilinės atsakomybės rizikų, kurios yra papildomos pagrindinių su siūloma kelione susijusių draudimo rizikų atžvilgiu;
+3. Draudikas, savo draudimo produktus platinantis per papildomos draudimo veiklos tarpininką, kuriam pagal šio straipsnio 1 ar 2 dalį šio skyriaus nuostatos netaikomos, užtikrina, kad būtų nustatyta tvarka, kuria siekiama atsižvelgti į draudėjo poreikius ir reikalavimus ir siekiama laikytis šio įstatymo 901 straipsnyje, 93 straipsnio 1 dalyje ir 1584 straipsnyje nustatytų reikalavimų, taip pat kad prieš sudarant sutartį draudėjui būtų pateiktas šio įstatymo 93 straipsnio 2 dalyje nustatytas draudimo produkto informacinis dokumentas ir suteikta ši informacija:
+
+
+1) draudimo įmonės pavadinimas ir adresas; 
 
 
 
 
-6) metinės draudimo įmokos dydis neviršija 500 eurų ir visas draudimo sutarties terminas, apskaičiuotas įtraukiant galimus automatinio sutarties termino pratęsimo (kai sutarties terminas pratęsiamas draudėjui nepareiškus ketinimo ateityje nesinaudoti teikiama draudimo apsauga) atvejus, yra ne ilgesnis kaip 5 metai.
+2) skundų nagrinėjimo ir atsakymo pareiškėjams teikimo tvarka.
+
+
+
+
+
+
+4. Papildomos draudimo veiklos tarpininkams, teikiantiems paslaugas, neatitinkančias šio straipsnio 1 ir 2 dalyse nustatytų sąlygų, taikomos tik šio įstatymo 1581 ir 1861 straipsnių nuostatos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
 
 
+1581 straipsnis. Draudimo ar perdraudimo produktų platintojų tinkamumo ir pasirengimo reikalavimai
+
+
+1. Draudimo ir perdraudimo įmonių, draudimo ir perdraudimo tarpininkų įmonių, papildomos draudimo veiklos tarpininkų įmonių darbuotojai, kurių funkcijos yra tiesiogiai susijusios su draudimo ar perdraudimo produktų platinimu, taip pat draudimo agentai (fiziniai asmenys) ir papildomos draudimo veiklos tarpininkai (fiziniai asmenys) privalo turėti pakankamai su draudimo ar perdraudimo produktų platinimą reglamentuojančiais teisės aktais, draudimo ar perdraudimo produktais, draudimo ar perdraudimo sutarčių sąlygomis, draudimo išmokų administravimu, skundų nagrinėjimu, draudėjų poreikių vertinimu, draudimo ar atitinkamų finansinių paslaugų rinkomis ar pensijų sistemomis, interesų konfliktų valdymu ir kitų susijusių žinių ir gebėjimų, kad galėtų tinkamai vykdyti savo veiklą, ir privalo mokytis ir tobulinti savo kvalifikaciją ne mažiau kaip 15 valandų per metus. Detalius šių asmenų kvalifikacijos ir jos tobulinimo reikalavimus, šiame įstatyme nustatytoms funkcijoms įgyvendinti reikalingos kvalifikacijos veiksmingos kontrolės ir vertinimo kriterijus, taip pat kitų Europos ekonominės erdvės valstybių patvirtintos kvalifikacijos pripažinimo tvarką nustato priežiūros institucija.
+
+
+
+
+2. Draudimo ir perdraudimo įmonių, draudimo ir perdraudimo tarpininkų įmonių ir papildomos draudimo veiklos tarpininkų įmonių darbuotojai, kurių funkcijos yra tiesiogiai susijusios su draudimo ar perdraudimo produktų platinimu, taip pat draudimo agentai (fiziniai asmenys) ir papildomos draudimo veiklos tarpininkai (fiziniai asmenys), jeigu: 
+
+
+1) jie pripažinti kaltais dėl sunkaus, labai sunkaus nusikaltimo arba nusikaltimo ar baudžiamojo nusižengimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai ar juos atitinkančių nusikalstamų veikų pagal kitų valstybių baudžiamuosius įstatymus padarymo, jeigu jų teistumas už šiame punkte nurodytus nusikaltimus nėra išnykęs ar panaikintas arba nepraėjo 3 metai nuo teismo nuosprendžio, kuriuo fizinis asmuo yra pripažintas kaltu dėl šiame punkte nurodytų baudžiamųjų nusižengimų padarymo, įsiteisėjimo;
+
+
+
+
+2) jiems per paskutinius 10 metų buvo iškelta fizinio asmens bankroto byla. 
+
+
+
+
+
+
+3. Siekdamos įsitikinti, kad šio straipsnio 1 dalyje nurodyti asmenys atitinka šio straipsnio 1 ir 2 dalių reikalavimus, priežiūros institucija, draudimo ir perdraudimo įmonės, draudimo ir perdraudimo tarpininkų įmonės turi teisę tvarkyti šių asmenų darbuotojų, kurių funkcijos tiesiogiai susijusios su draudimo ar perdraudimo produktų platinimu, draudimo agentų (fizinių asmenų) ir papildomos draudimo veiklos tarpininkų (fizinių asmenų) asmens duomenis, įskaitant duomenis apie asmens teistumą. 
+
+
+
+
+4. Vertindama asmenų atitiktį šio straipsnio reikalavimams, priežiūros institucija prireikus bendradarbiauja su kitų Europos ekonominės erdvės valstybių priežiūros institucijomis ir keičiasi informacija. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
+1582 straipsnis. Draudimo produktų platinimo sąlygos
+
+
+1. Prieš sudarydamas draudimo sutartį, draudimo produktų platintojas, remdamasis iš draudėjo gauta informacija, turi tiksliai nustatyti to draudėjo reikalavimus ir poreikius ir suprantama forma pateikti draudėjui objektyvią informaciją apie draudimo produktą, kad draudėjas galėtų priimti informacija pagrįstą sprendimą. Bet kuri pasiūlyta draudimo sutartis turi atitikti draudėjo reikalavimus ir poreikius. Kai prieš sudarant kiekvieną konkrečią draudimo sutartį teikiama rekomendacija, draudimo produktų platintojas turi pateikti draudėjui asmeniškai pritaikytą rekomendaciją ir paaiškinti, kodėl konkretus produktas geriausiai atitiktų draudėjo poreikius ir reikalavimus.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodyta informacija išdėstoma atsižvelgiant į siūlomo draudimo produkto sudėtingumą ir draudėjo tipą (vartojimo sutartį sudarantis asmuo, privalomojo draudimo sutartį, kurios sąlygos nustatytos teisės aktuose, sudarantis asmuo ir pan.).
+
+
+
+
+3. Kai draudimo brokerių įmonė informuoja draudėją, kad ji teikia rekomendaciją remdamasi sąžiningos ir konkretaus asmens poreikius atitinkančios analizės rezultatais, ji turi teikti rekomendaciją atlikusi pakankamai išsamią rinkoje siūlomų skirtingų produktų teikėjų draudimo sutarčių analizę, kad galėtų, vadovaudamasi profesionalumo kriterijais, draudėjui asmeniškai rekomenduoti sudaryti jo poreikius atitinkančią draudimo sutartį.
+
+
+
+
+4. Draudžiama skelbti, reklamuoti, pristatyti savo teikiamas draudimo produktų platinimo paslaugas kaip nepriklausomas, kai atlygis už šias paslaugas nėra gaunamas iš draudėjo.
+
+
+
+
+5. Šio straipsnio 1, 2 ir 3 dalyse nurodyta informacija neteikiama, kai sudaroma didelės draudimo rizikos draudimo sutartis, o sudarant sutartį dėl draudimo principu pagrįsto investicinio produkto neteikiama profesionaliam klientui, kaip jis apibrėžtas Finansinių priemonių rinkų įstatyme. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
+1583 straipsnis. Draudimo produktų tinkamumo ir priimtinumo vertinimas
+
+
+1. Prieš sudarydamas draudimo principu pagrįsto investicinio produkto sutartį, kai yra teikiama rekomendacija, draudikas ar draudimo tarpininkas privalo gauti informaciją apie draudėjo žinias ir patirtį konkrečios rūšies produkto ar paslaugos investavimo srityje, draudėjo finansinę padėtį, galimybes patirti nuostolių, priimtinos rizikos lygį, tokia sutartimi siekiamus tikslus ir kitą susijusią informaciją, leidžiančią rekomenduoti draudėjui tinkantį draudimo principu pagrįstą investicinį produktą. 
+
+
+
+
+2. Įvertinęs šio straipsnio 1 dalyje nurodytą informaciją, draudikas ar draudimo tarpininkas rekomendaciją dėl draudimo principu pagrįsto investicinio produkto tinkamumo draudėjui pateikia patvariojoje laikmenoje, laikydamasis šio įstatymo 931 straipsnio 1, 2 ir 3 dalyse nustatytų reikalavimų. Jeigu draudimo sutartis sudaroma ryšio priemonėmis ir dėl to rekomendacija dėl draudimo principu pagrįsto investicinio produkto tinkamumo draudėjui negali būti pateikta iš anksto, draudikas ar draudimo tarpininkas šią rekomendaciją gali pateikti patvariojoje laikmenoje iš karto po draudimo sutarties sudarymo, kai yra abi šios sąlygos:
+
+
+1) draudėjas yra pateikęs savo sutikimą dėl tokio rekomendacijos pateikimo būdo;
+
+
+
+
+2) draudikas ar draudimo tarpininkas suteikė galimybę draudėjui atidėti draudimo sutarties sudarymą, kad rekomendaciją dėl draudimo principu pagrįsto investicinio draudimo produkto tinkamumo draudėjas galėtų gauti prieš draudimo sutarties sudarymą.
+
+
+
+
+
+
+3. Prieš sudarydamas draudimo principu pagrįsto investicinio produkto sutartį, kai rekomendacija neteikiama, draudikas ar draudimo tarpininkas privalo gauti informaciją apie draudėjo žinias ir patirtį konkrečios rūšies produkto ar paslaugos investavimo srityje ir kitą susijusią informaciją, leidžiančią įvertinti, ar draudimo principu pagrįstas investicinis produktas draudėjui yra priimtinas. 
+
+
+
+
+4. Draudikas ar draudimo tarpininkas, remdamasis šio straipsnio 3 dalyje nurodyta informacija nustatęs, kad draudimo principu pagrįstas investicinis produktas nepriimtinas draudėjui, apie tai turi įspėti draudėją.
+
+
+
+
+5. Kai draudėjas nepateikia šio straipsnio 3 dalyje nurodytos informacijos ar pateikia nepakankamai informacijos, draudikas ar draudimo tarpininkas privalo įspėti draudėją, kad jis negali įvertinti draudimo principu pagrįsto investicinio produkto priimtinumo draudėjui. 
+
+
+
+
+6. Kai šio straipsnio 1 ir 3 dalyse nustatytais atvejais numatoma platinti draudimo principu pagrįstą investicinį produktą kartu su kitu produktu, kaip tai numatyta šio įstatymo 1584 straipsnyje, draudikas ar draudimo tarpininkas privalo vertinti viso produktų ar paslaugų paketo tinkamumą ar priimtinumą draudėjui.
+
+
+
+
+7. Draudikas ar draudimo tarpininkas privalo saugoti dokumentus ir kitą informaciją, kurie buvo gauti ir pateikti draudėjui vykdant šiame straipsnyje nustatytas draudiko ar draudimo tarpininko pareigas. Šie dokumentai ir informacija privalo būti saugomi iki draudėjo ir draudiko ar draudimo tarpininko sutartinių santykių dėl draudimo principu pagrįsto investicinio produkto pabaigos.
+
+
+
+
+8. Draudikas ar draudimo tarpininkas, atlikęs šiame straipsnyje nurodytą draudimo principu pagrįsto investicinio produkto tinkamumo ir (ar) priimtinumo draudėjui vertinimą, privalo periodiškai, bet ne rečiau kaip vieną kartą per metus, atsižvelgdamas į draudimo principu pagrįsto investicinio produkto rūšį, sudėtingumą, teikiamos paslaugos pobūdį, patvariojoje laikmenoje pateikti draudėjui ataskaitą, kurioje nurodytos jam suteiktos paslaugos ir išlaidos, susijusios su draudėjo naudai sudarytais sandoriais ir suteiktomis paslaugomis.
+
+
+
+
+9. Kai draudikas ar draudimo tarpininkas informuoja draudėją, kad periodiškai vertins draudimo principu pagrįsto investicinio produkto tinkamumą draudėjui, į šio straipsnio 8 dalyje nurodytą periodinę ataskaitą įtraukiama atnaujinta informacija apie tai, kaip draudimo principu pagrįstas investicinis produktas atitinka šio straipsnio 1 dalyje nurodytą informaciją, susijusią su draudėju.
+
+
+
+
+10. Šiame straipsnyje nurodyta informacija neteikiama profesionaliam klientui, kaip jis apibrėžtas Finansinių priemonių rinkų įstatyme. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
+1584 straipsnis. Draudimo produktų platinimo kartu su kitais produktais reikalavimai
+
+
+1. Kai draudimo produktas siūlomas kartu su papildomai teikiamu ne draudimo produktu ar paslauga kaip produktų ar paslaugų paketo (toliau šiame straipsnyje – paketas) arba to paties susitarimo dalis, draudimo produktų platintojas privalo informuoti draudėją, ar skirtingas paketo ar susitarimo sudedamąsias dalis galima įsigyti atskirai, ir, jeigu taip, pateikti skirtingų paketo ar susitarimo sudedamųjų dalių aprašą, taip pat atskirus duomenis apie kiekvienos sudedamosios dalies įkainius ir mokesčius.
+
+
+
+
+2. Kai yra šio straipsnio 1 dalyje nurodytos aplinkybės ir rizika arba draudimo apsauga, atsirandanti dėl draudėjui siūlomo paketo ar susitarimo, skiriasi nuo rizikos, susijusios su atskiromis paketo ar susitarimo sudedamosiomis dalimis, draudimo produktų platintojas privalo pateikti skirtingų paketo ar susitarimo sudedamųjų dalių aprašą ir nurodyti, kaip jų tarpusavio sąveika pakeičia riziką arba draudimo apsaugą.
+
+
+
+
+3. Kai draudimo produktas yra teikiamas papildomai su preke ar paslauga, kuri nėra draudimas, kaip paketo arba to paties susitarimo dalis, draudimo produktų platintojas turi pasiūlyti draudėjui galimybę šią prekę ar paslaugą nusipirkti atskirai. Ši dalis netaikoma, kai draudimo produktas yra teikiamas papildomai su investicine paslauga ar veikla, apibrėžta Finansinių priemonių rinkų įstatyme, kredito sutartimi, apibrėžta Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatyme, arba mokėjimo sąskaita, apibrėžta Lietuvos Respublikos mokėjimų įstatyme.
+
+
+
+
+4. Pagal šį straipsnį nedraudžiama platinti draudimo produktų, kurie suteikia draudimą nuo įvairių rūšių rizikos (išduoti kelių rūšių rizikos draudimo liudijimus).
+
+
+
+
+5. Šio straipsnio 1 ir 3 dalyse nurodytais atvejais draudimo produktų platintojas turi nustatyti draudėjo reikalavimus ir poreikius, susijusius su draudimo produktais, kurie yra paketo arba to paties susitarimo sudedamoji dalis.
+
+
+
+
+6. Priežiūros institucija turi teisę uždrausti draudimo produktų pardavimą kartu su papildomai teikiama ne draudimo paslauga ar produktu kaip paketo arba to paties susitarimo sudedamąją dalį, kai gali įrodyti, kad tokia praktika yra žalinga draudėjams, apdraustiesiems, naudos gavėjams ar nukentėjusiems tretiesiems asmenims. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
+1585 straipsnis. Draudimo produktų priežiūros ir valdymo reikalavimai
+
+
+1. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas privalo nustatyti draudimo produktų patvirtinimo tvarką, kuri apimtų naujų draudimo produktų patvirtinimo procesus ir esamų draudimo produktų esminio koregavimo procesus. Prieš pateikdama rinkai bet kokį draudimo produktą ar platindama jį draudėjams, draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas prižiūri, vykdo ir peržiūri šioje dalyje nurodytus procesus.
+
+
+
+
+2. Draudimo produkto patvirtinimas turi būti proporcingas ir tinkamas atsižvelgiant į draudimo produkto pobūdį. Šio proceso metu turi būti nustatyta konkretaus draudimo produkto tikslinė rinka ir įvertinta visa numatytai tikslinei rinkai būdinga rizika. Draudimo įmonė, trečiosios valstybės draudimo įmonės filialas ar kitos Europos ekonominės erdvės valstybės draudimo įmonė, Lietuvos Respublikoje teikianti paslaugas ar įsteigusi filialą, turi užtikrinti, kad produkto platinimo strategija tiktų numatytai tikslinei rinkai, ir imtis visų veiksmų užtikrinti, kad draudimo produktas būtų platinamas nustatytoje tikslinėje rinkoje.
+
+
+
+
+3. Draudimo įmonė, trečiosios valstybės draudimo įmonės filialas ar kitos Europos ekonominės erdvės valstybės draudimo įmonė, Lietuvos Respublikoje teikianti paslaugas ar įsteigusi filialą, turi išmanyti draudimo produktus, kuriuos ji siūlo ar kuriais ji prekiauja, ir reguliariai juos peržiūrėti, atsižvelgdama į visus esminį poveikį rizikai, kuri gali kilti numatytoje tikslinėje rinkoje, galinčius daryti veiksnius, siekdama įvertinti bent tai, ar draudimo produktas vis dar atitinka numatytos tikslinės rinkos poreikius ir ar parengta platinimo strategija vis dar tinka.
+
+
+
+
+4. Draudimo įmonė, trečiosios valstybės draudimo įmonės filialas ar kitos Europos ekonominės erdvės valstybės draudimo įmonė, Lietuvos Respublikoje teikianti paslaugas ar įsteigusi filialą, visiems draudimo produktų platintojams privalo pateikti visą reikalingą informaciją apie draudimo produktą ir produkto patvirtinimo procesą, taip pat nurodyti numatytą draudimo produkto tikslinę rinką.
+
+
+
+
+5. Draudimo produktų platintojas, konsultuojantis dėl draudimo produktų arba siūlantis produktus, kurių jis nesukūrė, privalo imtis reikiamų priemonių, kad gautų šio straipsnio 4 dalyje nurodytą informaciją ir išmanytų kiekvieno draudimo produkto ypatybes ir nustatytą tikslinę rinką.
+
+
+
+
+6. Šio straipsnio reikalavimai taikomi nepažeidžiant kitų šiame įstatyme nustatytų reikalavimų, įskaitant reikalavimus, susijusius su informacijos atskleidimu, draudimo produkto tinkamumu ar priimtinumu, interesų konflikto nustatymu, valdymu ir skatinimo priemonėmis.
+
+
+
+
+7. Šio straipsnio reikalavimai netaikomi draudimo produktams dėl didelės draudimo rizikos, kaip nustatyta šio įstatymo 10 straipsnyje. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
+1586 straipsnis. Draudimo tarpininkų registracija
+
+
+1. Teisę verstis draudimo brokerių įmonės veikla asmuo įgyja nuo dienos, kurią priežiūros institucija priima sprendimą įrašyti jį į draudimo brokerių įmonių sąrašą.
+
+
+
+
+2. Teisę verstis draudimo agento veikla asmuo įgyja nuo dienos, kurią draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas priima sprendimą įrašyti jį į draudimo agentų sąrašą.
+
+
+
+
+3. Į šio straipsnio 1 ir 2 dalyse nurodytus sąrašus įrašytas asmuo turi teisę vykdyti draudimo produktų platinimo veiklą įgyvendinęs įsisteigimo teisę ir (ar) teisę teikti paslaugas šio įstatymo 188 straipsnyje nustatytomis sąlygomis.
+
+
+
+
+4. Į šio straipsnio 1 ir 2 dalyse nurodytus sąrašus asmuo įrašomas neribotam laikui.
+
+
+
+
+5. Priežiūros institucijos interneto svetainėje skelbiamas draudimo brokerių įmonių sąrašas.
+
+
+
+
+6. Kiekviena draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas savo interneto svetainėje skelbia jiems atstovaujančių draudimo agentų sąrašą, kuriame nurodomas draudimo agentų įmonės pavadinimas, kodas ir (ar) draudimo agento (fizinio asmens) vardas (vardai), pavardė (pavardės) ir kita priežiūros institucijos nustatyta informacija.
+
+
+
+
+7. Priežiūros institucijos interneto svetainėje skelbiamos nuorodos į draudimo įmonių interneto svetainėje skelbiamus draudimo agentų sąrašus. 
+
+
+
+
+8. Pasikeitus šio straipsnio 1 ir 2 dalyse nurodytų sąrašų duomenims, atitinkamai priežiūros institucija ar draudimo įmonė arba trečiosios valstybės draudimo įmonės filialas privalo padaryti sąrašų pakeitimus ne vėliau kaip per 5 darbo dienas nuo pranešimo apie pasikeitusius duomenis gavimo.
+
+
+
+
+9. Į šio straipsnio 1 ir 2 dalyse nurodytus sąrašus įrašytas asmuo, paskutinius 12 mėnesių nebevykdantis draudimo produktų platinimo veiklos arba nepradėjęs jos vykdyti per 12 mėnesių nuo jo įrašymo į šio straipsnio 1 arba 2 dalyje nurodytą sąrašą dienos, apie tai nedelsdamas privalo raštu pranešti priežiūros institucijai arba draudimo įmonei.
+
+
+
+
+10. Šio straipsnio 1 ir 2 dalyse nurodyti sąrašai tvarkomi priežiūros institucijos nustatyta tvarka.
+
+
+
+
+11. Draudimo brokerių įmonės registracijos forma gali būti užpildoma naudojantis priežiūros institucijos įdiegta internetine registracijos sistema. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -6956,129 +7700,113 @@ LIETUVOS RESPUBLIKOS DRAUDIMO BROKERIŲ ĮMONĖ
  
 
 
-159 straipsnis. Draudimo brokerių įmonės veiklos licencija 
-
-
-1. Draudimo brokerių įmonė turi teisę vykdyti draudimo tarpininkavimo veiklą tik turėdama priežiūros institucijos išduotą licenciją.
-
-
-
-
-2. Draudimo brokerių įmonės veiklos licencija išduodama:
-
-
-1) steigiamai akcinei bendrovei, uždarajai akcinei bendrovei ar Europos bendrovei (Societas Europaea);
-
-
-
-
-2) po juridinių asmenų reorganizavimo veiksiančiai naujai akcinei bendrovei, uždarajai akcinei bendrovei ar Europos bendrovei (Societas Europaea), ketinančiai vykdyti draudimo brokerių įmonės veiklą;
-
-
-
-
-3) akcinei bendrovei, uždarajai akcinei bendrovei ar Europos bendrovei (Societas Europaea), keičiančiai vykdomos veiklos rūšį į draudimo brokerių įmonės veiklą.
-
-
-
-
-
-
-3. Draudimo brokerių įmonės veiklos licencija taip pat galioja visose kitose Europos ekonominės erdvės valstybėse, suteikdama teisę vykdyti draudimo ir perdraudimo tarpininkavimo veiklą įgyvendinant įsisteigimo teisę ir (ar) teisę teikti paslaugas šio įstatymo 188 straipsnyje nustatytomis sąlygomis.
-
-
-
-
-4. Draudimo brokerių įmonės veiklos licencija išduodama neribotam laikui.
-
-
-
-
-5. Draudimo brokerių įmonės veiklos licencija išduodama tik konkrečiai draudimo brokerių įmonei ir negali būti perleista kitam asmeniui.
-
-
-
-
-6. Draudimo brokerių įmonės veiklos licencijavimo taisykles ir licencijos formą tvirtina priežiūros institucija. 
-
-
-
-
-7. Steigiama draudimo brokerių įmonė gali būti įregistruota Juridinių asmenų registre, o kai draudimo brokerių įmonės veiklos licencija išduodama ne steigiamai draudimo brokerių įmonei, atitinkami pakeitimai Juridinių asmenų registre gali būti padaryti tik po draudimo brokerių įmonės veiklos licencijos išdavimo. Apie draudimo brokerių įmonės įregistravimo faktą Juridinių asmenų registro tvarkytojas per 5 darbo dienas privalo pranešti priežiūros institucijai.
-
-
-
-
-8. Priežiūros institucija pagal Juridinių asmenų registro nuostatus privalo pranešti Juridinių asmenų registrui apie draudimo brokerių įmonės veiklos licencijos išdavimą, šios licencijos galiojimo sustabdymą ar panaikinimą.
-
-
-
-
-9. Priežiūros institucijos interneto svetainėje skelbiamas draudimo brokerių įmonių sąrašas.
+159 straipsnis. Neteko galios nuo 2018-10-01
+Straipsnio naikinimas:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
 
 
+160 straipsnis. Įrašymo į draudimo brokerių įmonių sąrašą tvarka
 
 
-160 straipsnis. Draudimo brokerių įmonės veiklos licencijos išdavimas
-
-
-1. Per 4 mėnesius nuo prašymo išduoti draudimo brokerių įmonės veiklos licenciją ir visų dokumentų, nurodytų Draudimo brokerių įmonės veiklos licencijavimo taisyklėse, gavimo dienos priežiūros institucija priima sprendimą dėl draudimo brokerių įmonės veiklos licencijos išdavimo ir apie tai raštu praneša pareiškėjui.
-
-
-
-
-2. Priežiūros institucija atsisako išduoti draudimo brokerių įmonės veiklos licenciją, jeigu:
-
-
-1) nepateikti priežiūros institucijos reikalaujami dokumentai arba pateikti dokumentai neatitinka šiame įstatyme ir priežiūros institucijos teisės aktuose nustatytų reikalavimų;
+1. Asmuo, kuris kreipiasi dėl įrašymo į draudimo brokerių įmonių sąrašą, turi pateikti šio straipsnio 2 dalyje nurodytus dokumentus ir atitikti šio įstatymo 161 straipsnio 3, 5 ir 6 dalyse ir 162 straipsnio 1 dalyje nustatytus reikalavimus, jo dalyvių, nurodytų šio straipsnio 3 dalies 3 punkte, dalyvavimas turi nesudaryti kliūčių priežiūros institucijai atlikti veiksmingą draudimo brokerių įmonės priežiūrą, jo planuojama veikla turi tinkamai apsaugoti draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų interesus, šio įstatymo 1581 straipsnyje nurodyti asmenys turi atitikti šio įstatymo 1581 straipsnio 1 dalyje nustatytus reikalavimus ir jiems neturi būti taikomas apribojimas vykdyti veiklą pagal šio įstatymo 1581 straipsnio 2 dalį. Priežiūros institucija priima sprendimą įrašyti asmenį į draudimo brokerių įmonių sąrašą ir apie priimtą sprendimą šį asmenį informuoja per 3 mėnesius nuo asmens prašymo ir visų dokumentų bei informacijos, nurodytų šio straipsnio 2 dalyje, gavimo dienos.
 
 
 
 
-2) draudimo brokerių įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės, draudimo brokerių įmonės priežiūros ir valdymo organų nariai nėra nepriekaištingos reputacijos, o vadovas nėra nepriekaištingos reputacijos, kvalifikuotas ir patyręs;
+2. Kreipiantis dėl įrašymo į draudimo brokerių įmonių sąrašą pateikiama:
+
+
+1) prašymas įrašyti į draudimo brokerių įmonių sąrašą;
 
 
 
 
-3) draudimo brokerių įmonė neturi profesinės civilinės atsakomybės draudimo;
+2) informacija ir dokumentai, kuriais patvirtinama, kad draudimo brokerių įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės, jos priežiūros ir valdymo organų nariai yra nepriekaištingos reputacijos, o vadovas – nepriekaištingos reputacijos, kvalifikuotas ir patyręs ir kad šio įstatymo 1581 straipsnyje nurodyti asmenys atitinka šio įstatymo 1581 straipsnio 1 dalyje nustatytus reikalavimus ir jiems netaikomas apribojimas vykdyti veiklą pagal šio įstatymo 1581 straipsnio 2 dalį;
 
 
 
 
-4) draudimo brokerių įmonė, atsižvelgdama į planuojamos veiklos mastą (planuojamą klientų skaičių, apyvartą, įmonės vidaus struktūrą, veiklos teritoriją, būsimus filialus, atstovybes), ketina įdarbinti nepakankamai draudimo brokerių;
+3) informacija apie prašymą teikiančio asmens dalyvių, kuriems priklauso daugiau kaip 10 procentų įstatinio kapitalo ir (arba) balsavimo teisių, tapatybę ir jų turimos įstatinio kapitalo ir (arba) balsavimo teisių dalies dydį, ir asmenų, susijusių glaudžiais ryšiais, tapatybę, taip pat duomenys, kuriais patvirtinama, kad šių asmenų dalyvavimas draudimo brokerių įmonės veikloje nesudarys kliūčių priežiūros institucijai atlikti veiksmingą draudimo brokerių įmonės priežiūrą;
 
 
 
 
-5) pateiktas verslo planas leidžia teigti, kad draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų interesai nebus tinkamai apsaugoti;
+4) informacija apie naudojamas draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų lėšų apsaugos priemones, nustatytas šio įstatymo 161 straipsnio 6 dalyje;
 
 
 
 
-6) įstatinis kapitalas nėra visiškai apmokėtas;
+5) profesinės civilinės atsakomybės draudimo, nustatyto šio įstatymo 161 straipsnio 3 dalyje, liudijimas;
 
 
 
 
-7) įstatinis kapitalas apmokėtas pinigais ar turtu, kurių gavimo šaltiniai yra neteisėti;
+6) veiklos planas, kuriame aprašytos ketinamos teikti paslaugos, planuojamas asmenų, kuriems ketinama teikti paslaugas, skaičius, apyvarta, įmonės vidaus struktūra, veiklos teritorija, nurodomas ketinamų įdarbinti draudimo brokerių skaičius ir draudėjų, apdraustųjų ir nukentėjusių trečiųjų asmenų interesų apsaugos priemonės;
 
 
 
 
-8) draudimo brokerių įmonė yra juridinio asmens ar juridinių asmenų teisių ir pareigų, kurių vykdymas pažeistų šio įstatymo 161 straipsnio 4 dalies nuostatas ir (ar) sudarytų grėsmę draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų interesams, perėmėja;
+7) dokumentas, kuriuo patvirtinamas valstybės rinkliavos sumokėjimas.
 
 
 
 
-9) nesumokėta valstybės rinkliava už draudimo brokerių įmonės veiklos licencijos išdavimą.
+
+
+3. Priežiūros institucija atsisako įrašyti asmenį į draudimo brokerių įmonių sąrašą, jeigu:
+
+
+1) pateikti šio straipsnio 2 dalyje nurodyti dokumentai ir (arba) informacija neatitinka priežiūros institucijos teisės aktuose nustatytų dokumentų ir informacijos turinio ir formos reikalavimų arba pateikti ne visi reikalingi dokumentai ir (arba) informacija;
+
+
+
+
+2) draudimo brokerių įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės, draudimo brokerių įmonės priežiūros ir valdymo organų nariai nėra nepriekaištingos reputacijos, o vadovas nėra nepriekaištingos reputacijos, kvalifikuotas ir patyręs ir jeigu šio įstatymo 1581 straipsnyje nurodyti asmenys neatitinka šio įstatymo 1581 straipsnio 1 dalyje nustatytų reikalavimų ir (arba) jiems taikomas apribojimas vykdyti veiklą pagal šio įstatymo 1581 straipsnio 2 dalį;
+
+
+
+
+3) prašymą įrašyti į draudimo brokerių įmonių sąrašą teikiančio asmens dalyvių, kuriems priklauso daugiau kaip 10 procentų įstatinio kapitalo ir (arba) balsavimo teisių, arba asmenų, susijusių su prašymą teikiančiu asmeniu glaudžiais ryšiais, dalyvavimas draudimo brokerių įmonės veikloje sudarys kliūčių priežiūros institucijai atlikti veiksmingą draudimo brokerių įmonės priežiūrą;
+
+
+
+
+4) nėra sudarytos šio įstatymo 161 straipsnio 6 dalyje nustatytos sąlygos draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų lėšų apsaugai;
+
+
+
+
+5) draudimo brokerių įmonė neturi profesinės civilinės atsakomybės draudimo, nustatyto šio įstatymo 161 straipsnio 3 dalyje;
+
+
+
+
+6) pateiktas veiklos planas leidžia teigti, kad draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų interesai nebus tinkamai apsaugoti;
+
+
+
+
+7) atsižvelgiant į planuojamą veiklos mastą ketinama įdarbinti nepakankamai draudimo brokerių.
+
+
+
+
+
+
+4. Priežiūros institucija detalizuoja šio straipsnio 2 dalyje nurodytų dokumentų ir informacijos turinį, jų pateikimo formą ir tvarką.
+
+
+
+
+5. Draudimo brokerių įmonė nedelsdama, ne vėliau kaip per 10 darbo dienų, privalo pateikti priežiūros institucijai informaciją apie aplinkybių, buvusių įrašant ją į draudimo brokerių įmonių sąrašą, arba dokumentų ir (arba) informacijos pasikeitimus, kai tik šie pasikeitimai įvyksta. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
-
-
-
-
 
 
 
@@ -7086,105 +7814,96 @@ LIETUVOS RESPUBLIKOS DRAUDIMO BROKERIŲ ĮMONĖ
 161 straipsnis. Reikalavimai draudimo brokerių įmonei
 
 
-1. Joks kitas juridinis asmuo, išskyrus draudimo brokerių įmonę ir įstatymų nustatytas išimtis, neturi teisės savo pavadinime vartoti žodžių junginių „draudimo brokerių bendrovė“, „draudimo brokeris“ ar jiems tapataus junginio. Atsižvelgiant į planuojamą veiklos teritoriją, minėti žodžių junginiai gali būti vartojami ir užsienio kalba.
+1. Joks kitas juridinis asmuo, išskyrus draudimo brokerių įmonę ir įstatymų nustatytas išimtis, neturi teisės savo pavadinime vartoti žodžių junginių „draudimo brokerių bendrovė“, „draudimo brokeris“ ar jiems tapataus junginio. Atsižvelgiant į planuojamą veiklos teritoriją, šie žodžių junginiai gali būti vartojami ir užsienio kalba.
 
 
 
 
-2. Draudimo brokerių įmonės įstatinis kapitalas negali būti mažesnis kaip 15 000 eurų, o nuosavas kapitalas – ne mažesnis kaip 4 procentai per metus draudimo brokerių įmonės gautų draudimo įmokų, kurios mokėtinos draudikams, ir ne mažesnis kaip 15 000 eurų. Dėl įstatinio kapitalo padidinimo ar sumažinimo keičiami draudimo brokerių įmonės įstatai priežiūros institucijos nustatyta tvarka privalo būti suderinti su priežiūros institucija iki draudimo brokerių įmonės informacijos apie pakeitimus pateikimo Juridinių asmenų registrui. Priežiūros institucija sprendimą dėl įstatų pakeitimo suderinimo priima per 20 darbo dienų nuo visų tinkamai įformintų dokumentų pateikimo. Įstatinio kapitalo padidinimas gali būti įstatymų nustatyta tvarka įregistruotas tik visiškai apmokėjus akcijas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+2. Draudimo brokerių įmonės įstatinis kapitalas negali būti mažesnis kaip 18 750 eurų, o nuosavas kapitalas – ne mažesnis kaip 4 procentai per finansinius metus draudimo brokerių įmonės gautų draudimo įmokų, kurios mokėtinos draudikams, ir ne mažesnis kaip 18 750 eurų.
+
+
+
+
+3. Draudimo brokerių įmonė privalo apdrausti profesinę civilinę atsakomybę. Draudimo suma turi būti ne mažesnė kaip 1 250 000 eurų vienam draudžiamajam įvykiui ir 1 850 000 eurų visiems draudžiamiesiems įvykiams per metus. Draudimo apsauga privalo galioti visose Europos ekonominės erdvės valstybėse. Draudimo brokerių įmonė privalo turėti draudimo apsaugą visą savo veiklos laiką.
+
+
+
+
+4. Draudimo brokerių įmonė neturi teisės vykdyti jokios kitos ūkinės veiklos, išskyrus draudimo, perdraudimo ir pensijų kaupimo produktų platinimo veiklą. Be to, draudimo brokerių įmonė gali vertinti draudžiamą turtą Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka. 
+4 dalies redakcija nuo 2019-05-01:
+4. Draudimo brokerių įmonė neturi teisės vykdyti jokios kitos ūkinės veiklos, išskyrus draudimo, perdraudimo ir pensijų kaupimo produktų platinimo ir kitų finansinių paslaugų teikimo veiklą. Be to, draudimo brokerių įmonė gali vertinti draudžiamą turtą Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka.
+
+
+
+
+5. Su draudimo ir perdraudimo produktų platinimu susijusias funkcijas draudimo brokerių įmonėje gali atlikti tik joje dirbantis ar renkamas pareigas einantis draudimo brokeris.
+
+
+
+
+6. Draudimo brokerių įmonė privalo atidaryti atskirą kredito įstaigos sąskaitą, į kurią pervedamos tik draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų lėšos ir draudikų lėšos, skirtos šiems asmenims išmokėti. Į šias lėšas negali būti nukreipiami išieškojimai pagal kitas draudimo brokerių įmonės prievoles, o draudimo brokerių įmonei bankrutavus iš šioje sąskaitoje esančių lėšų gali būti tenkinami tik draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų reikalavimai. Priežiūros institucija turi teisę nustatyti privalomus reikalavimus draudimo brokerių įmonėms dėl lėšų, laikomų atskiroje kredito įstaigos sąskaitoje.
+
+
+
+
+7. Draudimo brokerių įmonė privalo teikti priežiūros institucijai šios institucijos nustatytos formos statistinę, finansinę ir kitokią informaciją, reikalingą draudimo brokerių įmonės veiklos priežiūrai.
+
+
+
+
+8. Draudimo brokerių įmonė privalo iki draudimo sutarties sudarymo teikti priežiūros institucijos nustatytą ir šio įstatymo 93 ir 116 straipsniuose nurodytą informaciją.
+
+
+
+
+9. Draudimo brokerių įmonė turi teisę vykdyti draudimo produktų platinimo veiklą tiek draudiko, tiek draudėjo, apdraustojo, naudos gavėjo ar nukentėjusio trečiojo asmens pavedimu, tačiau draudimo brokerių įmonė privalo visuomet veikti draudėjo, apdraustojo, naudos gavėjo ar nukentėjusio trečiojo asmens interesais.“
+
+
+
+
+10. Draudimo brokerių įmonė privalo priežiūros institucijos nustatyta tvarka nagrinėti draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus (prašymus). Draudimo brokerių įmonė privalo išnagrinėti rašytinius draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus ir ne vėliau kaip per 15 darbo dienų nuo skundų gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė draudėjas, apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo ir draudimo brokerių įmonė. Išskirtiniais atvejais, kai dėl priežasčių, kurių draudimo brokerių įmonė negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio draudėjas, apdraustasis, naudos gavėjas ir nukentėjęs trečiasis asmuo gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas negali viršyti 35 darbo dienų nuo skundo gavimo dienos. Draudimo brokerių įmonė skundus nagrinėja neatlygintinai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
  
 
 
 
 
-3. Draudimo brokerių įmonė privalo apdrausti profesinę civilinę atsakomybę. Draudimo suma turi būti ne mažesnė kaip 1 000 000 eurų vienam draudžiamajam įvykiui ir 1 500 000 eurų visiems draudžiamiesiems įvykiams per metus. Draudimo apsauga privalo galioti visose Europos ekonominės erdvės valstybėse. Draudimo brokerių įmonė privalo turėti draudimo apsaugą visą savo veiklos laiką.
+162 straipsnis. Draudimo brokerių įmonės valdymas ir pareiga užtikrinti draudimo brokerių tinkamumo ir pasirengimo reikalavimų laikymąsi
+
+
+1. Draudimo brokerių įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės, draudimo brokerių įmonės priežiūros ir valdymo organų nariai privalo būti nepriekaištingos reputacijos asmenys, o vadovas – nepriekaištingos reputacijos, kvalifikuotas ir patyręs.
 
 
 
 
-4. Draudimo brokerių įmonė neturi teisės vykdyti jokios kitos ūkinės komercinės veiklos, išskyrus draudimo tarpininkavimo, perdraudimo tarpininkavimo ir tarpininkavimo sudarant pensijų kaupimo sutartis veiklą. Be to, draudimo brokerių įmonė gali vertinti draudžiamą turtą Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka.
+2. Draudimo brokerių įmonė privalo užtikrinti, kad joje dirbantys draudimo brokeriai būtų nepriekaištingos reputacijos, atitiktų šio įstatymo 1581 straipsnio 1 dalyje nustatytus reikalavimus ir jiems nebūtų taikomas apribojimas vykdyti veiklą pagal šio įstatymo 1581 straipsnio 2 dalį, o priežiūros institucijos reikalavimu – tai įrodyti. Draudimo brokerių įmonė patvirtina, įgyvendina ir reguliariai, bet ne rečiau kaip kartą per metus, peržiūri vidaus politiką ir atitinkamas vidaus procedūras, užtikrinančias šių reikalavimų laikymąsi. Draudimo brokerių įmonė paskiria asmenį, atsakingą už tinkamą nustatytų vidaus politikos ir procedūrų įgyvendinimą, ir jo vardą ir pavardę per 5 darbo dienas nurodo priežiūros institucijai šios prašymu. 
 
 
-
-
-5. Draudimo brokerių įmonė privalo teikti priežiūros institucijai šios nustatytos formos statistinę, finansinę ir kitokią informaciją, reikalingą draudimo brokerių įmonės veiklos priežiūrai. 
-
-
-
-
-6. Draudimo brokerių įmonė privalo priežiūros institucijos nustatyta tvarka nagrinėti draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus (prašymus). Draudimo brokerių įmonė privalo išnagrinėti rašytinius draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus ir ne vėliau kaip per 15 darbo dienų nuo skundų gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė draudėjas, apdraustasis, naudos gavėjas, nukentėjęs trečiasis asmuo ir draudimo brokerių įmonė. Išskirtiniais atvejais, kai dėl priežasčių, kurių draudimo brokerių įmonė negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio draudėjas, apdraustasis, naudos gavėjas ir nukentėjęs trečiasis asmuo gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas negali viršyti 35 darbo dienų nuo skundo gavimo dienos. Draudimo brokerių įmonė draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų skundus nagrinėja neatlygintinai. 
-Papildyta straipsnio dalimi:
-Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
 
 
-
-
-162 straipsnis. Draudimo brokerių įmonės valdymas
-
-
-Draudimo brokerių įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės, draudimo brokerių įmonės priežiūros ir valdymo organų nariai privalo būti nepriekaištingos reputacijos asmenys, o vadovas – nepriekaištingos reputacijos, kvalifikuotas ir patyręs. 
+163 straipsnis. Neteko galios nuo 2018-10-01
+Straipsnio naikinimas:
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
  
 
 
 
 
+164 straipsnis. Išbraukimas iš draudimo brokerių įmonių sąrašo
 
 
-163 straipsnis. Draudimo brokerių įmonių nepriklausomumas
+1. Priežiūros institucija išbraukia iš draudimo brokerių įmonių sąrašo draudimo brokerių įmonę, kuri:
 
 
-1. Draudimo brokerių įmonė yra nepriklausoma draudimo tarpininkė, turinti teisę vykdyti draudimo tarpininkavimo veiklą tiek draudiko, tiek draudėjo, apdraustojo, naudos gavėjo ar nukentėjusio trečiojo asmens pavedimu.
-
-
-
-
-2. Draudimo brokerių įmonė privalo veikti draudėjo, apdraustojo, naudos gavėjo ar nukentėjusio trečiojo asmens interesais. Draudimo brokerių įmonė Civilinio kodekso nustatyta tvarka privalo atlyginti draudėjo, apdraustojo, naudos gavėjo ar nukentėjusio trečiojo asmens nuostolius, atsiradusius dėl šios pareigos nevykdymo.
-
-
-
-
-3. Draudimo brokerių įmonė, vykdydama su draudimo sutarčių sudarymu susijusią draudimo tarpininkavimo veiklą draudiko pavedimu, privalo atsižvelgdama į draudėjo poreikius sudaryti draudėjui galimybę rinktis ir kitų, ne mažiau kaip dviejų, draudikų teikiamas tokias pačias ar pagal draudimo apsaugos pobūdį panašias draudimo paslaugas. 
-
-
-
-
-4. Draudimo brokerių įmonė privalo atskleisti draudėjams, apdraustiesiems, naudos gavėjams ir nukentėjusiems tretiesiems asmenims sutartinių santykių su draudikais, kurių pavedimu vykdo draudimo tarpininkavimo veiklą, pobūdį, teikti priežiūros institucijos nustatytą informaciją, o iki draudimo sutarties sudarymo teikti ir šio įstatymo 93 ir 116 straipsniuose nurodytą informaciją.
-
-
-
-
-5. Su draudimo ir perdraudimo tarpininkavimu susijusias funkcijas draudimo brokerių įmonėje gali atlikti tik joje dirbantis ar renkamas pareigas einantis draudimo brokeris.
-
-
-
-
-6. Draudimo brokerių įmonė privalo atidaryti atskirą banko sąskaitą, į kurią pervedamos tik draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų lėšos ir draudikų lėšos, skirtos išmokėti šiems asmenims. Į šias lėšas negali būti nukreipiami išieškojimai pagal kitas draudimo brokerių įmonės prievoles, o draudimo brokerių įmonei bankrutavus iš šioje sąskaitoje esančių lėšų gali būti tenkinami tik draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų reikalavimai. Priežiūros institucija turi teisę nustatyti privalomus reikalavimus draudimo brokerių įmonėms dėl lėšų, laikomų atskiroje banko sąskaitoje. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
- 
-
-
-
-
-
-
-164 straipsnis. Licencijos draudimo brokerių įmonės veiklai galiojimo sustabdymas ir panaikinimas
-
-
-1. Priežiūros institucija šio įstatymo 205 straipsnio 1 dalyje nurodytais pagrindais turi teisę sustabdyti draudimo brokerių įmonės veiklos licencijos galiojimą.
-
-
-
-
-2. Priežiūros institucija turi teisę panaikinti draudimo brokerių įmonės veiklos licencijos galiojimą, jeigu draudimo brokerių įmonė:
-
-
-1) pažeidė draudimo tarpininkavimo veiklos sąlygas;
+1) pažeidė draudimo produktų platinimo veiklos sąlygas; 
 
 
 
@@ -7194,27 +7913,34 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-3) atsisako licencijos;
+3) pateikia prašymą išbraukti ją iš šio sąrašo;
 
 
 
 
-4) nepradeda vykdyti draudimo tarpininkavimo veiklos per 12 mėnesių nuo draudimo brokerių įmonės veiklos licencijos išdavimo;
+4) nepradeda vykdyti draudimo produktų platinimo veiklos per 12 mėnesių nuo įrašymo į draudimo brokerių įmonių sąrašą dienos;
 
 
 
 
-5) nebevykdo draudimo tarpininkavimo veiklos ilgiau kaip 6 mėnesius.
+5) nebevykdo draudimo produktų platinimo veiklos ilgiau kaip 12 mėnesių.
 
 
 
 
 
 
-3. Sprendimas panaikinti draudimo brokerių įmonės veiklos licencijos galiojimą privalo būti išsamiai motyvuotas. Priežiūros institucija apie priimtą sprendimą ir jo motyvus privalo raštu pranešti draudimo brokerių įmonei.
+2. Per 5 darbo dienas nuo šio straipsnio 1 dalyje numatytų aplinkybių nustatymo dienos priežiūros institucija priima sprendimą išbraukti draudimo brokerių įmonę iš draudimo brokerių įmonių sąrašo. Šis sprendimas privalo būti išsamiai motyvuotas. Apie priimtą sprendimą ir jo motyvus priežiūros institucija praneša draudimo brokerių įmonei.
+
+
+
+
+3. Iš draudimo brokerių įmonių sąrašo išbrauktas asmuo (ir jo dalyvis) neturi teisės verstis draudimo brokerių įmonės veikla ir kreiptis dėl pakartotinio įrašymo į draudimo brokerių įmonių sąrašą vienus metus nuo sprendimo, kuriuo jis buvo išbrauktas iš draudimo brokerių įmonių sąrašo, priėmimo dienos, išskyrus atvejį, kai draudimo brokerių įmonė iš draudimo brokerių įmonių sąrašo išbraukta šio straipsnio 1 dalies 3 punkte nustatytu pagrindu. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
-
-
 
 
 
@@ -7851,142 +8577,211 @@ Draudimo brokerių rūmai gali būti pertvarkomi ir pasibaigia įstatymų nustat
 
 
 KETVIRTASIS SKIRSNIS
-LIETUVOS RESPUBLIKOS PRIKLAUSOMI DRAUDIMO TARPININKAI
+LIETUVOS RESPUBLIKOS DRAUDIMO AGENTAI 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
-182 straipsnis. Priklausomų draudimo tarpininkų sąrašas 
+182 straipsnis. Įrašymo į draudimo agentų sąrašą tvarka
 
 
-1. Kiekviena draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas priežiūros institucijos nustatyta tvarka privalo tvarkyti jų vardu ir dėl jų interesų veikiančių priklausomų draudimo tarpininkų sąrašą. Šiame sąraše nurodomi duomenys apie draudimo agentų įmonėje dirbančius asmenis, į kurių pareigas įeina draudimo tarpininkavimas. 
-
-
-
-
-2. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas turi teisę įrašyti draudimo agentų įmonę į priklausomų draudimo tarpininkų sąrašą tik patikrinę joje dirbančių asmenų, į kurių pareigas įeis draudimo tarpininkavimas, reputaciją ir kvalifikaciją, o įrašyti draudimo agentą į šį sąrašą – tik patikrinę jo reputaciją ir kvalifikaciją. Šie asmenys privalo būti nepriekaištingos reputacijos ir kvalifikuoti.
+1. Kiekviena draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas priežiūros institucijos nustatyta tvarka privalo tvarkyti jų vardu ir dėl jų interesų veikiančių draudimo agentų sąrašą. Šiame sąraše, be kita ko, nurodomi draudimo agentų įmonėje dirbančių asmenų, į kurių pareigas įeina draudimo produktų platinimas, vardai, pavardės.
 
 
 
 
-3. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas, įrašę priklausomą draudimo tarpininką į priklausomų draudimo tarpininkų sąrašą, privalo išduoti priklausomam draudimo tarpininkui šį faktą patvirtinančią pažymą.
+2. Asmuo, kuris kreipiasi dėl įrašymo į draudimo agentų sąrašą, turi atitikti šio įstatymo 1581 straipsnio 1 dalyje ir 183 straipsnyje nustatytus reikalavimus, jam neturėtų būti taikomas apribojimas vykdyti veiklą pagal šio įstatymo 1581 straipsnio 2 dalį, jo dalyvių, nurodytų šio straipsnio 3 dalies 3 punkte, dalyvavimas turi nesudaryti kliūčių priežiūros institucijai atlikti veiksmingą draudimo agento priežiūrą. Asmuo, kreipdamasis dėl įrašymo į draudimo agentų sąrašą, draudimo įmonei ar trečiosios valstybės draudimo įmonės filialui pateikia:
+
+
+1) prašymą įrašyti į draudimo agentų sąrašą;
+
+
+
+
+2) informaciją ir dokumentus, kuriais patvirtinamas šio įstatymo 1581 straipsnyje nurodytų asmenų tinkamumas ir pasirengimas;
+
+
+
+
+3) informaciją apie prašymą teikiančio asmens arba jo dalyvių, kuriems priklauso daugiau kaip 10 procentų įstatinio kapitalo ir (arba) balsavimo teisių, tapatybę ir jų turimos įstatinio kapitalo ir (arba) balsavimo teisių dalies dydį ir asmenų, susijusių glaudžiais ryšiais, tapatybę, taip pat duomenis, kuriais patvirtinama, kad šių asmenų dalyvavimas draudimo agento veikloje nesudarys kliūčių priežiūros institucijai atlikti veiksmingą draudimo agento priežiūrą;
+
+
+
+
+4) profesinės civilinės atsakomybės draudimo liudijimą arba informaciją apie šio įstatymo 183 straipsnyje nurodytų išimčių taikymą.
+
+
+
+
+
+
+3. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas neturi teisės įrašyti asmens į draudimo agentų sąrašą, jeigu:
+
+
+1) pateikti šio straipsnio 2 dalyje nurodyti dokumentai ir (arba) informacija neatitinka priežiūros institucijos teisės aktuose nustatytų dokumentų ir informacijos turinio ir formos reikalavimų arba pateikti ne visi reikalingi dokumentai ir (arba) informacija;
+
+
+
+
+2) šio įstatymo 1581 straipsnyje nurodyti asmenys neatitinka šio įstatymo 1581 straipsnio 1 dalyje nustatytų reikalavimų ir (arba) jiems taikomas apribojimas vykdyti veiklą pagal šio įstatymo 1581 straipsnio 2 dalį;
+
+
+
+
+3) prašymą įrašyti į draudimo agentų sąrašą teikiančio asmens arba jo dalyvių, kuriems priklauso daugiau kaip 10 procentų įstatinio kapitalo ir (arba) balsavimo teisių, arba asmenų, susijusių su prašymą teikiančiu asmeniu glaudžiais ryšiais, dalyvavimas draudimo agento veikloje sudarys kliūčių priežiūros institucijai atlikti veiksmingą draudimo agento priežiūrą;
+
+
+
+
+4) draudimo agentas neturi profesinės civilinės atsakomybės draudimo ir jam netaikomos šio įstatymo 183 straipsnyje numatytos išimtys.
+
+
+
+
+
+
+4. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas, įrašę asmenį į draudimo agentų sąrašą, privalo jam išduoti šį faktą patvirtinančią pažymą.
+
+
+
+
+5. Priežiūros institucija detalizuoja šio straipsnio 2 dalyje nurodytų dokumentų ir informacijos turinį, jų pateikimo formą ir tvarką.
+
+
+
+
+6. Draudimo agentas nedelsdamas, ne vėliau kaip per 10 darbo dienų, privalo pateikti draudimo įmonei ar trečiosios valstybės draudimo įmonės filialui informaciją apie aplinkybių, buvusių asmenį įrašant į draudimo agentų sąrašą, arba dokumentų ir (arba) informacijos pasikeitimus, kai tik šie pasikeitimai įvyksta. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
 
 
+183 straipsnis. Draudimo agentų profesinės civilinės atsakomybės draudimas
 
 
-183 straipsnis. Priklausomų draudimo tarpininkų profesinės civilinės atsakomybės draudimas
-
-
-1. Priklausomi draudimo tarpininkai privalo apdrausti profesinę civilinę atsakomybę, galinčią atsirasti netinkamai vykdant draudimo tarpininkavimą. Draudimo suma privalo būti ne mažesnė kaip 1 000 000 eurų vienam draudžiamajam įvykiui ir 1 500 000 eurų visiems draudžiamiesiems įvykiams per metus. Draudimo apsauga privalo galioti visose Europos ekonominės erdvės valstybėse. Priklausomas draudimo tarpininkas privalo turėti draudimo apsaugą visą savo draudimo tarpininkavimo veiklos laiką.
-
-
-
-
-2. Priklausomas draudimo tarpininkas turi teisę neapdrausti profesinės civilinės atsakomybės, jeigu:
-
-
-1) draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas yra sudarę priklausomo draudimo tarpininko profesinės civilinės atsakomybės draudimo sutartį šio straipsnio 1 dalyje nurodytai sumai ir draudimo apsauga pagal šią draudimo sutartį galioja visų Europos ekonominės erdvės valstybių teritorijoje priklausomo draudimo tarpininko veiklos draudimo įmonės ar trečiosios valstybės draudimo įmonės filialo vardu ir dėl jų interesų laikotarpiu;
+1. Draudimo agentai privalo apdrausti profesinę civilinę atsakomybę, galinčią atsirasti netinkamai vykdant draudimo produktų platinimo veiklą. Draudimo suma privalo būti ne mažesnė kaip 1 250 000 eurų vienam draudžiamajam įvykiui ir 1 850 000 eurų visiems draudžiamiesiems įvykiams per metus. Draudimo apsauga privalo galioti visose Europos ekonominės erdvės valstybėse. Draudimo agentas privalo turėti draudimo apsaugą visą savo draudimo produktų platinimo veiklos laiką.
 
 
 
 
-2) draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas, sudarydami sutartį su priklausomu draudimo tarpininku, prisiėmė prievolę visiškai atlyginti žalą, atsiradusią dėl priklausomo draudimo tarpininko profesinių pareigų nevykdymo ar netinkamo vykdymo.
+2. Draudimo agentas turi teisę neapdrausti profesinės civilinės atsakomybės, jeigu:
+
+
+1) draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas yra sudarę draudimo agento profesinės civilinės atsakomybės draudimo sutartį šio straipsnio 1 dalyje nurodytai sumai ir draudimo apsauga pagal šią draudimo sutartį galioja visų Europos ekonominės erdvės valstybių teritorijoje draudimo agento veiklos draudimo įmonės ar trečiosios valstybės draudimo įmonės filialo vardu ir dėl jų interesų laikotarpiu;
+
+
+
+
+2) draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas, sudarydami sutartį su draudimo agentu, prisiėmė prievolę visiškai atlyginti žalą, atsiradusią dėl draudimo agento profesinių pareigų nevykdymo ar netinkamo vykdymo.
 
 
 
 
 
 
-3. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas privalo užtikrinti, kad priklausomi draudimo tarpininkai, veikiantys jų vardu ir dėl jų interesų, laikytųsi šio straipsnio 1 ar 2 dalyje nurodytų reikalavimų. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas, kurie nevykdo šios pareigos, privalo visiškai atlyginti žalą, atsiradusią dėl priklausomo draudimo tarpininko profesinių pareigų nevykdymo ar netinkamo vykdymo.
+3. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas privalo užtikrinti, kad draudimo agentai, veikiantys jų vardu ir dėl jų interesų, laikytųsi šio straipsnio 1 ar 2 dalyje nurodytų reikalavimų. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas, kurie nevykdo šios pareigos, privalo visiškai atlyginti žalą, atsiradusią dėl draudimo agento profesinių pareigų nevykdymo ar netinkamo vykdymo. 
 
 
-
-
-4. Draudimo įmonės ar trečiosios valstybės draudimo įmonių filialai privalo organizuoti profesinius mokymus draudimo agentų įmonėse dirbantiems darbuotojams, į kurių pareigas įeina draudimo tarpininkavimas, ir draudimo agentams.
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
 
 
+184 straipsnis. Draudimo agentų vykdoma draudimo produktų platinimo veikla
 
 
-184 straipsnis. Priklausomų draudimo tarpininkų draudimo tarpininkavimo veikla
-
-
-1. Priklausomų draudimo tarpininkų teises ir pareigas vykdant draudimo tarpininkavimo veiklą nustato rašytinė sutartis su draudimo įmone ar trečiosios valstybės draudimo įmonės filialu. Draudimo agentai privalo vadovautis teisės aktų, reglamentuojančių fizinio asmens individualią veiklą, nuostatomis. 
-
-
-
-
-2. Priklausomam draudimo tarpininkui draudžiama tuo pačiu metu vykdyti draudimo tarpininkavimo veiklą dviejų ar daugiau draudikų vardu ir dėl jų interesų, susijusią su draudimo sutartimis, kurių draudimo apsauga yra tokia pati ar panaši. 
+1. Draudimo agentų teisės ir pareigos vykdant draudimo produktų platinimo veiklą nustatomos rašytinėje sutartyje su draudimo įmone ar trečiosios valstybės draudimo įmonės filialu. 
 
 
 
 
-3. Priklausomas draudimo tarpininkas privalo teikti draudėjams, apdraustiesiems, naudos gavėjams ir nukentėjusiems tretiesiems asmenims priežiūros institucijos nustatytą informaciją, o iki draudimo sutarties sudarymo teikti ir šio įstatymo 93 ir 116 straipsniuose nurodytą informaciją.
+2. Draudimo agentui draudžiama tuo pačiu metu vykdyti draudimo produktų platinimo veiklą dviejų ar daugiau draudikų vardu ir dėl jų interesų, susijusią su draudimo sutartimis, kurių draudimo apsauga yra tokia pati ar panaši.
 
 
 
 
-4. Draudimo įmoka, sumokėta priklausomam draudimo tarpininkui, laikoma sumokėta draudimo įmonei ar trečiosios valstybės draudimo įmonės filialui, tačiau sumos, draudimo įmonės ar trečiosios valstybės draudimo įmonės filialo sumokėtos priklausomam draudimo tarpininkui ir skirtos išmokėti draudėjui, apdraustajam, naudos gavėjui ar nukentėjusiam trečiajam asmeniui, laikomos sumokėtomis šiems asmenims tik tada, kai jie faktiškai gauna šias sumas.
+3. Draudimo agentas privalo teikti draudėjams, apdraustiesiems, naudos gavėjams ir nukentėjusiems tretiesiems asmenims priežiūros institucijos nustatytą informaciją, o iki draudimo sutarties sudarymo teikti priežiūros institucijos nustatytą ir šio įstatymo 93 ir 116 straipsniuose nurodytą informaciją.
 
 
 
 
-5. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas, atsižvelgdami į priežiūros institucijos sprendimus ir rekomendacijas, privalo teikti jų vardu ir dėl jų interesų veikiantiems priklausomiems draudimo tarpininkams privalomus reikalavimus dėl tarpininkavimo veiklos. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+4. Draudimo įmoka, sumokėta draudimo agentui, laikoma sumokėta draudimo įmonei ar trečiosios valstybės draudimo įmonės filialui, tačiau sumos, draudimo įmonės ar trečiosios valstybės draudimo įmonės filialo sumokėtos draudimo agentui ir skirtos išmokėti draudėjui, apdraustajam, naudos gavėjui ar nukentėjusiam trečiajam asmeniui, laikomos sumokėtomis šiems asmenims tik tada, kai jie faktiškai gauna šias sumas.
+
+
+
+
+5. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas, atsižvelgdami į priežiūros institucijos sprendimus ir rekomendacijas, privalo teikti jų vardu ir dėl jų interesų veikiantiems draudimo agentams privalomus reikalavimus dėl produktų platinimo veiklos.
+
+
+
+
+6. Draudimo įmonės, trečiosios valstybės draudimo įmonių filialai ar jų pasitelkti tretieji asmenys privalo organizuoti šio įstatymo 1581 straipsnio 1 dalyje numatytus profesinius mokymus draudimo agentų įmonėse dirbantiems darbuotojams, į kurių pareigas įeina draudimo produktų platinimas, ir draudimo agentams (fiziniams asmenims). 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
  
 
 
 
 
+185 straipsnis. Draudimo agentų vykdomas kitos Europos ekonominės erdvės valstybės draudimo įmonių, vykdančių veiklą Lietuvos Respublikoje, produktų platinimas
 
 
-185 straipsnis. Priklausomų draudimo tarpininkų tarpininkavimas kitos Europos ekonominės erdvės valstybės draudimo įmonėms, vykdančioms veiklą Lietuvos Respublikoje
-
-
-1. Priklausomam draudimo tarpininkui, tarpininkaujančiam kitos Europos ekonominės erdvės valstybės draudimo įmonei, Lietuvos Respublikoje teikiančiai paslaugas ar įsteigusiai filialą, taikomi tie patys reikalavimai kaip ir tarpininkaujant draudimo įmonei ar trečiosios valstybės draudimo įmonės filialui.
-
-
-
-
-2. Šio įstatymo 182–184 straipsnių ir 186 straipsnio nuostatos mutatis mutandis taikomos ir kitos Europos ekonominės erdvės valstybės draudimo įmonėms, turinčioms Lietuvos Respublikos priklausomus draudimo tarpininkus.
+1. Draudimo agentui, platinančiam kitos Europos ekonominės erdvės valstybės draudimo įmonės, teikiančios paslaugas ar įsteigusios filialą Lietuvos Respublikoje, draudimo produktus, taikomi tie patys reikalavimai kaip ir platinant draudimo įmonės ar trečiosios valstybės draudimo įmonės filialo draudimo produktus.
 
 
 
 
-3. Priežiūros institucija teikia rekomendacijas kitos Europos ekonominės erdvės valstybės draudimo įmonei, Lietuvos Respublikoje teikiančiai paslaugas ar įsteigusiai filialą, dėl priklausomų draudimo tarpininkų sąrašo tvarkymo, profesinės civilinės atsakomybės draudimo kontrolės, draudimo agentų ir draudimo agentų įmonių darbuotojų, į kurių pareigas įeina draudimo tarpininkavimas, profesinio mokymo.
+2. Šio įstatymo 1586, 182, 183, 184 ir 186 straipsnių nuostatos mutatis mutandis taikomos ir kitos Europos ekonominės erdvės valstybės draudimo įmonėms, turinčioms Lietuvos Respublikos draudimo agentus.
+
+
+
+
+3. Priežiūros institucija teikia kitos Europos ekonominės erdvės valstybės draudimo įmonei, Lietuvos Respublikoje teikiančiai paslaugas ar įsteigusiai filialą, rekomendacijas dėl draudimo agentų sąrašo tvarkymo, profesinės civilinės atsakomybės draudimo kontrolės, draudimo agentų (fizinių asmenų) ir draudimo agentų įmonių darbuotojų, į kurių pareigas įeina draudimo produktų platinimas, profesinio mokymo. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
 
 
+186 straipsnis. Išbraukimas iš draudimo agentų sąrašo
 
 
-186 straipsnis. Priklausomų draudimo tarpininkų sąrašo duomenų viešumas
-
-
-1. Kiekviena draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas privalo savo interneto svetainėje paskelbti jiems atstovaujančių draudimo agentų, draudimo agentų įmonių ir jų darbuotojų, į kurių pareigas įeina draudimo tarpininkavimas, sąrašo duomenis.
-
-
-
-
-2. Priežiūros institucijos interneto svetainėje turi būti nuorodos į draudimo įmonių interneto svetainėje skelbiamus priklausomų draudimo tarpininkų sąrašo duomenis, o draudimo įmonių interneto svetainėse – nuorodos į priežiūros institucijos interneto svetainę.
+1. Draudimo agentus iš draudimo agentų sąrašo išbraukia į jį įrašiusi draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas.
 
 
 
 
-3. Pasikeitus sąrašų duomenims, atitinkami pakeitimai draudimo įmonių ar trečiųjų valstybių draudimo įmonių filialų interneto svetainėse skelbiamuose sąrašuose privalo būti atlikti ne vėliau kaip per 5 darbo dienas.
+2. Draudimo agentų išbraukimui iš draudimo agentų sąrašų mutatis mutandis taikomos šio įstatymo 164 straipsnio nuostatos. 
 
 
-
-
-4. Priežiūros institucija nustato, kokie priklausomų draudimo tarpininkų sąrašo duomenys yra skelbtini viešai.
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
+
+
+1861 straipsnis. Papildomos draudimo veiklos tarpininkai
+
+
+Papildomos draudimo veiklos tarpininkams ir jų veiklai mutatis mutandis taikomi šio įstatymo 182–186 straipsniuose nustatyti reikalavimai. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -8001,55 +8796,17 @@ Perdraudimo tarpininkai
 187 straipsnis. Perdraudimo tarpininkai
 
 
-1. Subjektai, nurodyti šio įstatymo 3 straipsnio 1 dalies 1 ir 3 punktuose,  4 straipsnio 1 dalies 1 ir 3 punktuose ir 5 straipsnio 2 dalies 1 punkte, taip pat 5 straipsnio 2 dalies 3 punkte nurodyti trečiųjų valstybių nepriklausomų draudimo tarpininkų filialai turi teisę vykdyti perdraudimo tarpininkavimo veiklą tik po to, kai priežiūros institucija šios nustatyta tvarka įrašo juos į priežiūros institucijos tvarkomą perdraudimo tarpininkų sąrašą. Perdraudimo tarpininkų sąrašas skelbiamas priežiūros institucijos interneto svetainėje.
+1. Subjektai, nurodyti šio įstatymo 3 straipsnio 1 dalies 1 ir 3 punktuose, 4 straipsnio 1 dalies 1 ir 3 punktuose ir 5 straipsnio 2 dalies 1, 2 ir 3 punktuose, turi teisę vykdyti perdraudimo produktų platinimo veiklą tik po to, kai priežiūros institucija savo nustatyta tvarka įrašo juos į priežiūros institucijos tvarkomą perdraudimo tarpininkų sąrašą. 
 
 
 
 
-2. Perdraudimo tarpininkas gali būti įrašytas į priežiūros institucijos tvarkomą perdraudimo tarpininkų sąrašą, jeigu jis:
+2. Asmens įrašymui į perdraudimo tarpininkų sąrašą ir išbraukimui iš šio sąrašo mutatis mutandis taikomos šio įstatymo 160 ir 164 straipsnių nuostatos. Perdraudimo tarpininkų sąrašas skelbiamas priežiūros institucijos interneto svetainėje. 
 
 
-1) yra nepriekaištingos reputacijos ir kvalifikuotas. Kai perdraudimo tarpininkas yra juridinis asmuo, jo priežiūros ir valdymo organų nariai privalo būti nepriekaištingos reputacijos asmenys, o asmenys, įmonėje atsakingi už perdraudimo tarpininkavimo veiklos vykdymą, – nepriekaištingos reputacijos ir kvalifikuoti;
-
-
-
-
-2) turi profesinės civilinės atsakomybės draudimą, nustatytą šio įstatymo 183 straipsnio 1 dalyje, arba kitą nuostolių, atsiradusių dėl jo veiklos, atlyginimo užtikrinimo būdą, analogišką nustatytam šio įstatymo 183 straipsnio 2 dalyje.
-
-
-
-
-
-
-3. Priežiūros institucija turi teisę išbraukti perdraudimo tarpininką iš perdraudimo tarpininkų sąrašo:
-
-
-1) rašytiniu perdraudimo tarpininko prašymu;
-
-
-
-
-2) jeigu po įrašymo į šį sąrašą paaiškėjo faktų, dėl kurių būtų atsisakyta jį įrašyti į perdraudimo tarpininkų sąrašą;
-
-
-
-
-3) jeigu atsiranda aplinkybių, dėl kurių perdraudimo tarpininkas negali būti laikomas nepriekaištingos reputacijos ar kvalifikuotu;
-
-
-
-
-4) jeigu perdraudimo tarpininkas neturi profesinės civilinės atsakomybės draudimo, nustatyto šio įstatymo 183 straipsnio 1 dalyje, arba kito nuostolių, atsiradusių dėl jo veiklos, atlyginimo užtikrinimo būdo, analogiško nustatytam šio įstatymo 183 straipsnio 2 dalyje;
-
-
-
-
-5) jeigu perdraudimo tarpininkas pažeidžia jo veiklą reglamentuojančius Lietuvos Respublikos teisės aktus.
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
-
-
-
-
 
 
 
@@ -8061,28 +8818,110 @@ DRAUDIMO IR PERDRAUDIMO TARPININKŲ VEIKLA KITOSE Europos Ekonominės erdvės va
  
 
 
-188 straipsnis. Teisė teikti paslaugas ir įsisteigimo teisė
+188 straipsnis. Teisė teikti paslaugas ir įsisteigimo teisė 
 
 
-1. Draudimo tarpininkas, ketinantis pirmą kartą teikti paslaugas ar steigti filialą kitose Europos ekonominės erdvės valstybėse, privalo apie tai pranešti priežiūros institucijai.
+1. Draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkas, ketinantis pirmą kartą teikti paslaugas kitose Europos ekonominės erdvės valstybėse, privalo apie tai pranešti priežiūros institucijai ir pateikti šią informaciją:
 
 
-
-
-2. Per vieną mėnesį nuo šio straipsnio 1 dalyje nurodytos informacijos gavimo dienos priežiūros institucija apie tai praneša kitos Europos ekonominės erdvės valstybės priežiūros institucijai, kuri pagal Komisijos pateiktus priežiūros institucijai duomenis ketina gauti tokią informaciją, ir apie šios informacijos išsiuntimą tą pačią dieną raštu praneša draudimo tarpininkui.
-
-
-
-
-3. Draudimo tarpininkas, įvykdęs kitos Europos ekonominės erdvės valstybės teisės aktų reikalavimus, turi teisę pradėti veikti kitoje Europos ekonominės erdvės valstybėje šio straipsnio 1 dalyje nurodytais būdais po vieno mėnesio nuo šio straipsnio 2 dalyje nurodytos informacijos iš priežiūros institucijos gavimo arba nedelsdamas, jeigu kitos Europos ekonominės erdvės valstybės priežiūros institucija neketina gauti informacijos apie būsimą draudimo ar perdraudimo tarpininkavimo veiklą šioje Europos ekonominės erdvės valstybėje.
+1) juridinio asmens pavadinimą, juridinio asmens kodą ir buveinės adresą; ar fizinio asmens vardą ir pavardę, veiklos vietos adresą;
 
 
 
 
-4. Priežiūros institucija keičiasi informacija su kitų Europos ekonominės erdvės valstybių priežiūros institucijomis apie draudimo tarpininkams taikomas poveikio priemones. Kitų Europos ekonominės erdvės valstybių priežiūros institucijų prašymu priežiūros institucija teikia ir kitą informaciją dėl draudimo ir perdraudimo tarpininkų veiklos.
+2) kitos Europos ekonominės erdvės valstybės, kurioje ketina teikti paslaugas, pavadinimą;
+
+
+
+
+3) tarpininko rūšį (draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkas);
+
+
+
+
+4) atstovaujamų draudimo (arba) perdraudimo įmonių pavadinimus;
+
+
+
+
+5) kokių draudimo grupių produktus turi teisę platinti.
+
+
+
+
+
+
+2. Draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkas, ketinantis steigti filialą kitose Europos ekonominės erdvės valstybėse, privalo apie tai pranešti priežiūros institucijai ir pateikti šią informaciją:
+
+
+1) draudimo, perdraudimo ar papildomos draudimo veiklos tarpininko pavadinimą, juridinio asmens kodą ir buveinės adresą;
+
+
+
+
+2) kitos Europos ekonominės erdvės valstybės, kurioje ketina steigti filialą, pavadinimą ir adresą, kuriuo galima įteikti dokumentus, šioje valstybėje;
+
+
+
+
+3) tarpininko rūšį (draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkas);
+
+
+
+
+4) atstovaujamų draudimo ar perdraudimo įmonių pavadinimus; 
+
+
+
+
+5) kokių draudimo grupių produktus turi teisę platinti;
+
+
+
+
+6) už įsteigto filialo valdymą atsakingų asmenų vardus ir pavardes, dokumentus, kuriais patvirtinama jų atitiktis šio įstatymo 162 straipsnio 1 dalies reikalavimams.
+
+
+
+
+
+
+3. Per vieną mėnesį nuo šio straipsnio 1 ar 2 dalyje nurodytos informacijos gavimo dienos priežiūros institucija apie tai praneša kitos Europos ekonominės erdvės valstybės priežiūros institucijai ir, gavusi pastarosios patvirtinimą apie šios informacijos gavimą, raštu praneša draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkui, kad kitos Europos ekonominės erdvės valstybės priežiūros institucija gavo informaciją apie ketinimą vykdyti draudimo ar perdraudimo produktų platinimo veiklą.
+
+
+
+
+4. Priežiūros institucija, atsižvelgdama į numatomą produktų platinimo veiklą, atsisako išsiųsti kitos Europos ekonominės erdvės valstybės priežiūros institucijai šio straipsnio 2 dalyje nurodytą informaciją, kai turi pagrindą abejoti draudimo, perdraudimo ar papildomos draudimo veiklos tarpininko organizacinės struktūros tinkamumu ar finansine būkle, ir per vieną mėnesį nuo šio straipsnio 2 dalyje nurodytos informacijos gavimo dienos informuoja draudimo, perdraudimo ar papildomos draudimo veiklos tarpininką apie šio atsisakymo priežastis.
+
+
+
+
+5. Draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkas, iš priežiūros institucijos gavęs persiųstą informaciją apie kitos Europos ekonominės erdvės valstybės teisės aktų reikalavimus ir juos įvykdęs, turi teisę pradėti veikti kitoje Europos ekonominės erdvės valstybėje šio straipsnio 1 ar 2 dalyje nurodytais būdais. Jeigu draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkas per vieną mėnesį nuo šio straipsnio 3 dalyje numatyto pranešimo gavimo dienos iš priežiūros institucijos negauna informacijos apie kitos Europos ekonominės erdvės valstybės teisės aktų reikalavimus, jis gali steigti filialą ir pradėti vykdyti veiklą.
+
+
+
+
+6. Priežiūros institucija draudimo brokerių įmonių sąraše, perdraudimo produktų tarpininkų sąraše, o draudimo įmonė draudimo agentų sąraše nurodo Europos ekonominės erdvės valstybes, kuriose draudimo arba perdraudimo produktų platintojai turi teisę teikti paslaugas arba yra įsteigę filialą. Priežiūros institucija informuoja Europos draudimo ir profesinių pensijų instituciją šios institucijos nustatyta tvarka apie draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkus, teikiančius paslaugas ar įsteigusius filialą kitose Europos ekonominės erdvės valstybėse. 
+
+
+
+
+7. Apie numatomus informacijos, nurodytos šio straipsnio 1 ar 2 dalyje, pakeitimus draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkas privalo pranešti priežiūros institucijai likus ne mažiau kaip vienam mėnesiui iki pakeitimų įgyvendinimo dienos. Priežiūros institucija kuo skubiau, bet ne vėliau kaip per vieną mėnesį nuo informacijos gavimo dienos, informuoja apie numatomus pakeitimus kitos Europos ekonominės erdvės valstybės priežiūros instituciją. 
+
+
+
+
+8. Priežiūros institucija su kitų Europos ekonominės erdvės valstybių priežiūros institucijomis keičiasi informacija apie draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkams taikomas poveikio priemones. Priežiūros institucija teikia kitų Europos ekonominės erdvės valstybių, kuriose draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkai turi teisę teikti paslaugas ar yra įsteigę filialą, priežiūros institucijoms informaciją apie draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkų išbraukimą iš draudimo brokerių įmonių, draudimo agentų ar perdraudimo tarpininkų sąrašų. Kitų Europos ekonominės erdvės valstybių priežiūros institucijų prašymu priežiūros institucija teikia ir kitą informaciją dėl draudimo ir perdraudimo tarpininkų veiklos.
+
+
+
+
+9. Jeigu draudimo, perdraudimo ar papildomos draudimo veiklos tarpininko pagrindinė veiklos vieta, iš kurios vadovaujama pagrindinei veiklai, yra kitoje Europos ekonominės erdvės valstybėje, priežiūros institucija gali susitarti su šios Europos ekonominės erdvės valstybės priežiūros institucija, kad ši institucija vykdytų draudimo, perdraudimo ar papildomos draudimo veiklos tarpininko veiklos priežiūrą. Apie šį susitarimą priežiūros institucija nedelsdama, bet ne vėliau kaip per 2 darbo dienas nuo susitarimo pasirašymo dienos, praneša draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkui ir Europos draudimo ir profesinių pensijų institucijai šios institucijos nustatyta tvarka ir terminais. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
-
-
 
 
 
@@ -8090,60 +8929,72 @@ DRAUDIMO IR PERDRAUDIMO TARPININKŲ VEIKLA KITOSE Europos Ekonominės erdvės va
 
 
 SEPTINTASIS skirsnis
-kitų Europos Ekonominės erdvės valstybių draudimo ir perdraudimo tarpininkų veikla Lietuvos Respublikoje
+KITŲ EUROPOS EKONOMINĖS ERDVĖS VALSTYBIŲ DRAUDIMO, PERDRAUDIMO IR PAPILDOMOS DRAUDIMO VEIKLOS TARPININKŲ VEIKLA LIETUVOS RESPUBLIKOJE 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
-189 straipsnis. Draudimo ir perdraudimo tarpininkų veiklos formos
+189 straipsnis. Draudimo, perdraudimo ir papildomos draudimo veiklos tarpininkų veiklos formos
 
 
-Kitų Europos ekonominės erdvės valstybių draudimo ir perdraudimo tarpininkai turi teisę steigti filialą arba teikti paslaugas Lietuvos Respublikoje. 
+Kitų Europos ekonominės erdvės valstybių draudimo, perdraudimo ir papildomos draudimo veiklos tarpininkai turi teisę steigti filialą arba teikti paslaugas Lietuvos Respublikoje. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
 
 
+190 straipsnis. Draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkų veiklos pradžia
 
 
-190 straipsnis. Draudimo ir perdraudimo tarpininkų veiklos pradžia
-
-
-1. Kitų Europos ekonominės erdvės valstybių draudimo ir perdraudimo tarpininkai turi teisę pradėti teikti paslaugas ar steigti filialą Lietuvos Respublikoje tik po to, kai priežiūros institucija gauna kitos Europos ekonominės erdvės valstybės priežiūros institucijos informaciją apie ketinimą pradėti teikti paslaugas ar steigti filialą.
+1. Kai priežiūros institucija gauna kitos Europos ekonominės erdvės valstybės priežiūros institucijos informaciją apie kitų Europos ekonominės erdvės valstybių draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkų ketinimą pradėti teikti paslaugas ar steigti filialą Lietuvos Respublikoje, šios informacijos gavimą nedelsdama patvirtina kitos Europos ekonominės erdvės valstybės priežiūros institucijai ir per vieną mėnesį nuo informacijos gavimo dienos jai išsiunčia informaciją apie Lietuvos Respublikos teisės aktų reikalavimus, taikomus kitų Europos ekonominės erdvės valstybių draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkams, teikiantiems paslaugas ar įsteigusiems filialą Lietuvos Respublikoje. Priežiūros institucija savo interneto svetainėje skelbia ir reguliariai atnaujina Lietuvos Respublikos teisės aktų sąrašą ir informaciją apie Lietuvos Respublikos teisės aktų reikalavimus, taikomus kitų Europos ekonominės erdvės valstybių draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkams, teikiantiems paslaugas ar įsteigusiems filialą Lietuvos Respublikoje. 
 
 
 
 
-2. Kitų Europos ekonominės erdvės valstybių nepriklausomi draudimo ir perdraudimo tarpininkai, vykdydami veiklą Lietuvos Respublikoje, privalo turėti tokį patį profesinės civilinės atsakomybės draudimą, koks nustatytas šio įstatymo 161 straipsnio 3 dalyje, o priklausomi draudimo ir perdraudimo tarpininkai – profesinės civilinės atsakomybės draudimą, koks nustatytas šio įstatymo 183 straipsnio 1 dalyje, arba kitą nuostolių, atsiradusių dėl jų veiklos, atlyginimo užtikrinimo būdą, analogišką nustatytam šio įstatymo 183 straipsnio 2 dalyje.
+2. Kitų Europos ekonominės erdvės valstybių draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkai turi teisę pradėti teikti paslaugas arba steigti filialą Lietuvos Respublikoje gavę iš kitos Europos ekonominės erdvės valstybės priežiūros institucijos informaciją apie Lietuvos Respublikos teisės aktų reikalavimus, taikomus kitų Europos ekonominės erdvės valstybių draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkams, teikiantiems paslaugas ar įsteigusiems filialą Lietuvos Respublikoje. Jeigu kitų Europos ekonominės erdvės valstybių draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkai per vieną mėnesį nuo šio straipsnio 1 dalyje nurodyto priežiūros institucijos patvirtinimo apie informacijos gavimą dienos negauna informacijos apie Lietuvos Respublikos teisės aktų reikalavimus, taikomus kitų Europos ekonominės erdvės valstybių draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkams, teikiantiems paslaugas ar įsteigusiems filialą Lietuvos Respublikoje, jie gali pradėti teikti paslaugas arba steigti filialą Lietuvos Respublikoje.
+
+
+
+
+3. Kitų Europos ekonominės erdvės valstybių draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkai, vykdydami veiklą Lietuvos Respublikoje, privalo turėti profesinės civilinės atsakomybės draudimą, nustatytą šio įstatymo 161 straipsnio 3 dalyje arba 183 straipsnio 1 dalyje, arba taikyti kitą nuostolių, atsiradusių dėl jų veiklos, atlyginimo užtikrinimo būdą, analogišką šio įstatymo 183 straipsnio 2 dalyje nustatytajam. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
 
 
+191 straipsnis. Draudimo, perdraudimo ir papildomos draudimo veiklos tarpininkų veikla
 
 
-191 straipsnis. Draudimo ir perdraudimo tarpininkų veikla
-
-
-1. Kitų Europos ekonominės erdvės valstybių draudimo ar perdraudimo tarpininkai privalo teikti draudėjams, apdraustiesiems, naudos gavėjams, nukentėjusiems tretiesiems asmenims ir kitiems asmenims priežiūros institucijos nustatytą informaciją, o draudimo tarpininkai iki draudimo sutarties sudarymo – ir šio įstatymo 93 ir 116 straipsniuose nurodytą informaciją.
-
-
-
-
-2. Kitų Europos ekonominės erdvės valstybių draudimo ir perdraudimo tarpininkai, vykdydami veiklą Lietuvos Respublikoje, privalo laikytis šiame įstatyme tiesiogiai jiems nustatytų reikalavimų ir laikytis kitų Lietuvos Respublikos teisės aktų.
+1. Kitų Europos ekonominės erdvės valstybių draudimo, perdraudimo ir papildomos draudimo veiklos tarpininkai privalo teikti draudėjams, apdraustiesiems, naudos gavėjams, nukentėjusiems tretiesiems asmenims ir kitiems asmenims priežiūros institucijos nustatytą informaciją, o draudimo tarpininkai iki draudimo sutarties sudarymo – ir šio įstatymo 93 ir 116 straipsniuose nurodytą informaciją.
 
 
 
 
-3. Kitos Europos ekonominės erdvės valstybės nepriklausomų draudimo tarpininkų filiale privalo dirbti draudimo brokeriai ar kiti asmenys, pagal šios Europos ekonominės erdvės valstybės teisės aktų reikalavimus galintys būti atsakingi už nepriklausomo draudimo tarpininkavimo paslaugų teikimą.
+2. Kitų Europos ekonominės erdvės valstybių draudimo, perdraudimo ir papildomos draudimo veiklos tarpininkai, vykdydami veiklą Lietuvos Respublikoje, privalo laikytis šiame įstatyme tiesiogiai jiems nustatytų reikalavimų ir laikytis kitų Lietuvos Respublikos teisės aktų.
 
 
 
 
-4. Priežiūros institucija nustato privalomus reikalavimus draudimo įmonėms, trečiųjų valstybių draudimo įmonių filialams ir rekomendacijas kitos Europos ekonominės erdvės valstybės draudimo įmonei, Lietuvos Respublikoje teikiančiai paslaugas ar įsteigusiai filialą, dėl kitos Europos ekonominės erdvės valstybės priklausomų draudimo tarpininkų, vykdančių veiklą Lietuvos Respublikoje, sąrašo tvarkymo, profesinės civilinės atsakomybės draudimo kontrolės ir šių priklausomų draudimo tarpininkų darbuotojų, į kurių pareigas įeina draudimo tarpininkavimas, profesinio mokymo. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+3. Kitos Europos ekonominės erdvės valstybės draudimo tarpininkų filiale privalo dirbti draudimo brokeriai ar kiti asmenys, pagal šios Europos ekonominės erdvės valstybės teisės aktų reikalavimus galintys būti atsakingi už draudimo produktų platinimo veiklą.
+
+
+
+
+4. Priežiūros institucija nustato draudimo įmonėms, trečiųjų valstybių draudimo įmonių filialams privalomus reikalavimus ir rekomendacijas kitos Europos ekonominės erdvės valstybės draudimo įmonei, Lietuvos Respublikoje teikiančiai paslaugas ar įsteigusiai filialą, dėl kitos Europos ekonominės erdvės valstybės draudimo agentų ir papildomos draudimo veiklos tarpininkų, vykdančių veiklą Lietuvos Respublikoje, sąrašo tvarkymo, profesinės civilinės atsakomybės draudimo kontrolės ir šių draudimo agentų įmonių ir papildomos draudimo veiklos tarpininkų įmonių darbuotojų, į kurių pareigas įeina draudimo produktų platinimas, ir draudimo agentų (fizinių asmenų), ir papildomos draudimo veiklos tarpininkų (fizinių asmenų) profesinio mokymo. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
  
-
-
 
 
 
@@ -8163,122 +9014,63 @@ trečiųjų VALSTYBIŲ draudimo IR PERDRAUDIMO tarpininkų veikla lietuvos respu
 
 
 
-2. Prieš įregistruodama filialą Juridinių asmenų registre, trečiosios valstybės nepriklausomų draudimo tarpininkų įmonė privalo gauti priežiūros institucijos leidimą filialo veiklai.
+2. Trečiosios valstybės draudimo tarpininkų įmonės filialas turi teisę teikti draudimo produktų platinimo paslaugas Lietuvos Respublikoje tik po to, kai trečiosios valstybės draudimo tarpininkų įmonė įrašoma į priežiūros institucijos tvarkomą trečiųjų valstybių draudimo tarpininkų sąrašą ir šis filialas įregistruojamas Juridinių asmenų registre. Apie trečiosios valstybės draudimo tarpininkų įmonės filialo įregistravimo faktą Juridinių asmenų registro tvarkytojas per 5 darbo dienas nuo įregistravimo privalo pranešti priežiūros institucijai. 
 
 
 
 
-3. Leidimų trečiosios valstybės nepriklausomų draudimo tarpininkų filialo veiklai išdavimo taisykles nustato priežiūros institucija. 
+3. Trečiosios valstybės draudimo tarpininkų įmonių registravimui, draudimo produktų platinimo veiklai, trečiosios valstybės draudimo tarpininkų įmonės filialuose dirbantiems draudimo brokeriams taikomos tos pačios nuostatos kaip ir Lietuvos Respublikos draudimo brokerių įmonėms ir draudimo brokeriams, tačiau atsižvelgiant į šiame įstatyme nustatytas sąlygas ir trečiosios valstybės draudimo tarpininkų įmonės filialo veiklos ypatumus.
 
 
 
 
-4. Trečiosios valstybės nepriklausomų draudimo tarpininkų įmonių filialų draudimo tarpininkavimo veiklai, juose dirbantiems draudimo brokeriams taikomos tos pačios nuostatos kaip ir Lietuvos Respublikos draudimo brokerių įmonėms ir draudimo brokeriams. 
+4. Trečiosios valstybės draudimo tarpininkų įmonė gali būti įrašyta į trečiųjų valstybių draudimo tarpininkų sąrašą, jeigu priežiūros institucija ir trečiosios valstybės priežiūros institucija yra sudariusios bendradarbiavimo susitarimą, kuriuo, be kita ko, įsipareigota keistis informacija dėl filialo priežiūros, rinkos vientisumo išsaugojimo ir draudėjų, apdraustųjų ir nukentėjusių trečiųjų asmenų interesų apsaugos. 
 
 
 
 
-5. Trečiosios valstybės priklausomų draudimo tarpininkų įmonių filialų draudimo tarpininkavimo veiklai taikomos tos pačios nuostatos, kaip ir Lietuvos Respublikos priklausomiems tarpininkams. 
+5. Trečiosios valstybės draudimo tarpininkų įmonė negali būti įrašyta į trečiųjų valstybių draudimo tarpininkų sąrašą, jeigu dėl trečiosios valstybės teisės aktų, taikomų fiziniams ar juridiniams asmenims, susijusiems su trečiosios valstybės draudimo tarpininkų įmone glaudžiais ryšiais, arba sunkumų įgyvendinant šiuos teisės aktus veiksminga priežiūra tampa neįmanoma.
+
+
+
+
+6. Trečiosios valstybės draudimo tarpininkų įmonė įrašoma į trečiųjų valstybių draudimo tarpininkų sąrašą neribotam laikui. Į šį sąrašą įrašyta trečiosios valstybės draudimo tarpininkų įmonė turi teisę vykdyti draudimo produktų platinimo veiklą tik Lietuvos Respublikoje.
+
+
+
+
+7. Priežiūros institucija detalizuoja dokumentų ir informacijos, kurie pateikiami kreipiantis dėl trečiosios valstybės draudimo tarpininkų įmonės registravimo, turinį, pateikimo formą ir tvarką. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
 
 
+193 straipsnis. Įrašymas į trečiųjų valstybių draudimo tarpininkų sąrašą
 
 
-193 straipsnis. Leidimo filialo veiklai išdavimas
+Trečiųjų valstybių draudimo tarpininkų įmonių įrašymui į trečiųjų valstybių draudimo tarpininkų sąrašą mutatis mutandis taikomos šio įstatymo 160 straipsnio nuostatos. 
 
 
-1. Per 4 mėnesius nuo prašymo išduoti leidimą trečiosios valstybės nepriklausomo draudimo tarpininko įmonės filialo veiklai ir visų dokumentų, nurodytų leidimų filialo veiklai išdavimo taisyklėse, pateikimo dienos priežiūros institucija priima sprendimą dėl leidimo trečiosios valstybės nepriklausomo draudimo tarpininko įmonės filialo veiklai išdavimo ir apie tai raštu praneša pareiškėjui.
-
-
-
-
-2. Priežiūros institucija atsisako išduoti leidimą trečiosios valstybės nepriklausomo draudimo tarpininko įmonės filialo veiklai, jeigu:
-
-
-1) nepateikti priežiūros institucijos reikalaujami dokumentai arba pateikti dokumentai neatitinka šiame įstatyme ir priežiūros institucijos teisės aktuose nustatytų reikalavimų;
-
-
-
-
-2) trečiosios valstybės nepriklausomo draudimo tarpininko įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės, priežiūros ir valdymo organų nariai nėra nepriekaištingos reputacijos, o filialo vadovas nėra nepriekaištingos reputacijos, kvalifikuotas ir patyręs;
-
-
-
-
-3) trečiosios valstybės nepriklausomo draudimo tarpininko įmonės filialas neturi profesinės civilinės atsakomybės draudimo;
-
-
-
-
-4) trečiosios valstybės nepriklausomo draudimo tarpininko įmonės filialas, atsižvelgdamas į planuojamos veiklos mastą (planuojamą klientų skaičių, apyvartą, įmonės vidaus struktūrą, veiklos teritoriją, atstovybes), ketina įdarbinti nepakankamai draudimo brokerių;
-
-
-
-
-5) pateiktas verslo planas leidžia teigti, kad draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų interesai nebus tinkamai apsaugoti;
-
-
-
-
-6) filialui priskirtas turtas yra mažesnis už šio įstatymo 161 straipsnio 2 dalyje nurodytą dydį;
-
-
-
-
-7) filialui priskirto turto ir (ar) pinigų, už kuriuos įgytas filialui priskirtas turtas, gavimo šaltiniai yra neteisėti.
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
 
 
+194 straipsnis. Išbraukimas iš trečiųjų valstybių draudimo tarpininkų sąrašo
 
 
+Trečiųjų valstybių draudimo tarpininkų įmonių išbraukimui iš trečiųjų valstybių draudimo tarpininkų sąrašo mutatis mutandis taikomos šio įstatymo 164 straipsnio nuostatos. 
 
 
-194 straipsnis. Leidimo filialo veiklai galiojimo sustabdymas ir panaikinimas
-
-
-1. Priežiūros institucija šio įstatymo 205 straipsnio 1 dalyje nurodytais pagrindais turi teisę sustabdyti leidimo trečiosios valstybės nepriklausomo draudimo tarpininko įmonės filialo veiklai galiojimą.
-
-
-
-
-2. Priežiūros institucija turi teisę panaikinti leidimo trečiosios valstybės nepriklausomo draudimo tarpininko įmonės filialo veiklai galiojimą, jeigu trečiosios valstybės nepriklausomo draudimo tarpininko įmonės filialas:
-
-
-1) pažeidė draudimo tarpininkavimo veiklos sąlygas;
-
-
-
-
-2) pažeidė jo veiklą reglamentuojančius teisės aktus;
-
-
-
-
-3) atsisako leidimo;
-
-
-
-
-4) nepradeda vykdyti draudimo tarpininkavimo veiklos per 12 mėnesių nuo leidimo trečiosios valstybės nepriklausomo draudimo tarpininko įmonės filialo veiklai išdavimo;
-
-
-
-
-5) nebevykdo draudimo tarpininkavimo veiklos ilgiau kaip 6 mėnesius.
-
-
-
-
-
-
-3. Sprendimas panaikinti leidimo trečiosios valstybės nepriklausomo draudimo tarpininko įmonės filialo veiklai galiojimą turi būti išsamiai motyvuotas. Priežiūros institucija apie priimtą sprendimą ir jo motyvus privalo raštu pranešti trečiosios valstybės nepriklausomo draudimo tarpininko įmonės filialui.
+Straipsnio pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
-
-
 
 
 
@@ -8291,7 +9083,10 @@ trečiųjų VALSTYBIŲ draudimo IR PERDRAUDIMO tarpininkų veikla lietuvos respu
 
 
 
-2. Trečiųjų valstybių perdraudimo tarpininkų filialų veiklai Lietuvos Respublikoje mutatis mutandis taikomos šio įstatymo 187 straipsnio 1, 2 ir 3 dalių nuostatos. 
+2. Trečiųjų valstybių perdraudimo tarpininkų filialų veiklai Lietuvos Respublikoje mutatis mutandis taikomos šio įstatymo 187 straipsnio nuostatos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -8303,7 +9098,10 @@ trečiųjų VALSTYBIŲ draudimo IR PERDRAUDIMO tarpininkų veikla lietuvos respu
 
 
 VIII SKYRIUS
-DRAUDIMO, PERDRAUDIMO IR DRAUDIMO IR PERDRAUDIMO TARPININKAVIMO VEIKLOS PRIEŽIŪRA
+DRAUDIMO, PERDRAUDIMO IR DRAUDIMO IR PERDRAUDIMO PRODUKTŲ PLATINIMO VEIKLOS PRIEŽIŪRA 
+Pakeistas skyriaus pavadinimas:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 PIRMASIS SKirsnis
@@ -8314,12 +9112,18 @@ BENDROSIOS NUOSTATOS
 196 straipsnis. Priežiūros institucija, priežiūros tikslas ir nepriklausomumas
 
 
-1. Priežiūros institucija yra institucija, atliekanti šiame įstatyme numatytas funkcijas draudimo, perdraudimo, draudimo ir perdraudimo tarpininkavimo veiklos priežiūros srityje.
+1. Priežiūros institucija yra institucija, atliekanti šiame įstatyme nustatytas funkcijas draudimo, perdraudimo, draudimo ir perdraudimo produktų platinimo veiklos priežiūros srityje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
 
-2. Draudimo, perdraudimo, draudimo ir perdraudimo tarpininkavimo veiklos priežiūros tikslas – užtikrinti draudimo sistemos patikimumą, veiksmingumą, saugumą ir stabilumą bei draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų interesų ir teisių apsaugą.
+2. Draudimo, perdraudimo, draudimo ir perdraudimo produktų platinimo veiklos priežiūros tikslas – užtikrinti draudimo sistemos patikimumą, veiksmingumą, saugumą ir stabilumą bei draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų interesų ir teisių apsaugą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -8342,10 +9146,16 @@ BENDROSIOS NUOSTATOS
 
 
 
-197 straipsnis. Bendrosios draudimo, perdraudimo ir draudimo ir perdraudimo tarpininkavimo veiklos valstybinės priežiūros nuostatos
+197 straipsnis. Bendrosios draudimo, perdraudimo ir draudimo ir perdraudimo produktų platinimo veiklos valstybinės priežiūros nuostatos 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
-1. Draudimo, perdraudimo, draudimo ir perdraudimo tarpininkavimo veiklos valstybinė priežiūra grindžiama perspektyviniu ir rizikos vertinimu pagrįstu požiūriu. Priežiūros institucija tikrina, ar draudimo ir perdraudimo veikla yra vykdoma tinkamai, ar draudimo ir perdraudimo įmonės laikosi teisės aktų, reglamentuojančių šią veiklą. Ši priežiūros institucijos funkcija turi būti atliekama nuolat.
+1. Draudimo, perdraudimo, draudimo ir perdraudimo produktų platinimo veiklos valstybinė priežiūra grindžiama perspektyviniu ir rizikos vertinimu pagrįstu požiūriu. Priežiūros institucija tikrina, ar draudimo ir perdraudimo veikla yra vykdoma tinkamai, ar draudimo ir perdraudimo įmonės laikosi teisės aktų, reglamentuojančių šią veiklą. Ši priežiūros institucijos funkcija turi būti atliekama nuolat. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -8402,7 +9212,10 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 2. Priežiūros institucija, atsižvelgdama į Europos Sąjungos teisės aktus, turi užtikrinti, kad priežiūros institucijos interneto svetainėje būtų viešai prieinama ir periodiškai atnaujinama ši informacija:
 
 
-1) draudimo, perdraudimo, draudimo ir perdraudimo tarpininkavimo veiklą reglamentuojantys teisės aktai, jų projektai, rekomendacijos;
+1) draudimo, perdraudimo, draudimo ir perdraudimo produktų platinimo veiklą reglamentuojantys teisės aktai, jų projektai, rekomendacijos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -8412,12 +9225,18 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-3) apibendrinta statistinė informacija apie pagrindinius riziką ribojančios sistemos taikymo aspektus, statistiniai draudimo, perdraudimo, draudimo ir perdraudimo tarpininkavimo rinkos duomenys;
+3) apibendrinta statistinė informacija apie pagrindinius riziką ribojančios sistemos taikymo aspektus, statistiniai draudimo, perdraudimo, draudimo ir perdraudimo produktų platinimo rinkos duomenys; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
 
-4) informacija, kaip Lietuvos Respublikoje yra įgyvendintos Europos Parlamento ir Tarybos direktyvos 2009/138/EB nuostatos, kurios įgyvendinamos Europos ekonominės erdvės valstybės pasirinkimu;
+4) informacija, kaip Lietuvos Respublikoje yra įgyvendintos Direktyvos 2009/138/EB ir Direktyvos (ES) 2016/97 nuostatos, kurios įgyvendinamos Europos ekonominės erdvės valstybės pasirinkimu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -8521,99 +9340,192 @@ PRIEŽIŪROS INSTITUCIJOS KOMPETENCIJA
 Priežiūros institucija, įgyvendindama šio įstatymo nuostatas, atlieka šias funkcijas:
 
 
-1) rengia, tvirtina, keičia ir pripažįsta netekusiais galios teisės aktus, reglamentuojančius draudimo, perdraudimo, draudimo ir perdraudimo tarpininkavimo veiklą;
+1) išduoda draudimo veiklos, perdraudimo veiklos licencijas, taip pat kitus šiame įstatyme nustatytus leidimus ir sustabdo ar panaikina jų galiojimą, įrašo asmenis į draudimo brokerių įmonių, perdraudimo tarpininkų sąrašus ir išbraukia juos iš šių sąrašų;
 
 
 
 
-2) išduoda draudimo veiklos, perdraudimo veiklos ir draudimo brokerių įmonių veiklos licencijas ir panaikina jų galiojimą;
+2) stebi, analizuoja, tikrina ir kitaip prižiūri, kaip draudimo įmonės, perdraudimo įmonės, draudimo, perdraudimo tarpininkai, papildomos draudimo veiklos tarpininkai, trečiųjų valstybių draudimo ar perdraudimo įmonių filialai ir trečiųjų valstybių draudimo ar perdraudimo tarpininkų įmonių filialai vykdo veiklą, laikosi įstatymų ir kitų teisės aktų;
 
 
 
 
-3) išduoda ir atšaukia kitus šiame įstatyme nustatytus leidimus, taip pat kituose įstatymuose nustatytus leidimus, kurių išdavimas ir atšaukimas priskiriamas priežiūros institucijos kompetencijai;
+3) nustato draudimo liudijimų registravimo ir apskaitos tvarką;
 
 
 
 
-4) stebi, analizuoja, tikrina ir kitaip prižiūri, kaip draudimo įmonės, perdraudimo įmonės, draudimo brokerių įmonės, trečiųjų valstybių draudimo ar perdraudimo įmonių filialai ir trečiųjų valstybių draudimo ar perdraudimo tarpininkų įmonių filialai vykdo veiklą, laikosi įstatymų ir kitų teisės aktų;
+4) teikia rekomendacijas Draudimo brokerių rūmams, draudimo įmonėms ir trečiųjų valstybių draudimo įmonių filialams, kontroliuojantiems draudimo agentų veiklą, siekdama, kad Draudimo brokerių rūmų funkcijos ir draudimo įmonės ar trečiosios valstybės draudimo įmonės filialo funkcijos, susijusios su draudimo agentų kontrole, būtų viešos ir visuomenei suprantamos;
 
 
 
 
-5) taiko šiame ir kituose įstatymuose nustatytas poveikio priemones;
+5) pagal kompetenciją atstovauja Lietuvos Respublikos interesams Europos Sąjungos institucijose ir jų darbo organuose;
 
 
 
 
-6) Neteko galios nuo 2018-05-03
-Straipsnio punkto naikinimas:
-Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
- 
+6) bendradarbiauja su Europos draudimo ir profesinių pensijų institucija, dalyvauja jos veikloje ir, atlikdama savo funkcijas, atsižvelgia į Europos draudimo ir profesinių pensijų institucijos parengtas gaires ir rekomendacijas, o jeigu neatsižvelgia, nurodo to priežastis, taip pat nedelsdama teikia Europos draudimo ir profesinių pensijų institucijai informaciją, reikalingą jos funkcijoms pagal Reglamentą (ES) Nr. 1094/2010 atlikti;
 
 
 
 
-7) nustato draudimo liudijimų registravimo ir apskaitos tvarką;
+7) atlieka Direktyvos (ES) 2016/97 11 straipsnio 4 dalyje nustatyto kontaktinio punkto, teikiančio informaciją apie Lietuvos Respublikos teisės aktų reikalavimus, taikomus draudimo ir perdraudimo produktų platinimo veiklą Lietuvos Respublikoje vykdantiems asmenims, funkcijas;
 
 
 
 
-8) bendradarbiauja su Lietuvos Respublikos, kitų Europos ekonominės erdvės valstybių ir trečiųjų valstybių priežiūros institucijomis, finansų ir kapitalo rinkos priežiūros, konkurencijos ir vartotojų teisių gynimo institucijomis, kitomis Lietuvos Respublikos institucijomis;
-
-
-
-
-9) kreipiasi į teismą dėl bankroto bylos iškėlimo nemokioms draudimo ir perdraudimo įmonėms;
-
-
-
-
-10) užtikrina, kad visuomenei būtų prieinama informacija, išskyrus informaciją, kurios teikimas draudžiamas pagal šį ar kitus įstatymus, apie priežiūros institucijos bendradarbiavimą su Lietuvos Respublikos, kitų Europos ekonominės erdvės valstybių ir trečiųjų valstybių priežiūros institucijomis, finansų ir kapitalo rinkos priežiūros, konkurencijos ir vartotojų teisių gynimo institucijomis, kitomis Lietuvos Respublikos institucijomis;
-
-
-
-
-11) teikia rekomendacijas Draudimo brokerių rūmams, aktuarų profesinei asociacijai, draudimo įmonėms ir trečiųjų valstybių draudimo įmonių filialams, kontroliuojantiems priklausomų draudimo tarpininkų veiklą, siekdama, kad šių asociacijų funkcijos ir draudimo įmonės ar trečiosios valstybės draudimo įmonės filialo funkcijos, susijusios su priklausomų draudimo tarpininkų kontrole, būtų viešos ir visuomenei suprantamos;
-
-
-
-
-12) teikia paaiškinimus ir rekomendacijas dėl šio įstatymo ir kitų Lietuvos Respublikos teisės aktų, reglamentuojančių draudimo, perdraudimo, draudimo ar perdraudimo tarpininkavimo veiklą, tinkamo įgyvendinimo;
-
-
-
-
-13) pagal savo kompetenciją atstovauja Lietuvos Respublikos interesams Europos Sąjungos institucijose ir jų darbo organuose;
-
-
-
-
-14) bendradarbiauja su Europos draudimo ir profesinių pensijų institucija, dalyvauja jos veikloje ir, atlikdama savo funkcijas, atsižvelgia į Europos draudimo ir profesinių pensijų institucijos parengtas gaires ir rekomendacijas, o jeigu neatsižvelgia, nurodo to priežastis, taip pat nedelsdama teikia Europos draudimo ir profesinių pensijų institucijai informaciją, reikalingą jos funkcijoms pagal Reglamentą (ES) Nr. 1094/2010 atlikti;
-
-
-
-
-15) neteko galios;
-
-
-
-
-16) atlieka kitas šiame įstatyme ir kituose Lietuvos Respublikos teisės aktuose nustatytas funkcijas.
+8) atlieka kitas šiame įstatyme ir kituose Lietuvos Respublikos teisės aktuose nustatytas funkcijas. 
+Straipsnio pakeitimai:
+Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
  
 
 
 
 
 201 straipsnis. Priežiūros institucijos teisės
+
+
+1. Be kitų Lietuvos banko įstatyme, šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir teisių, priežiūros institucija, atlikdama savo funkcijas:
+
+
+1) nustato draudimo grupių ar joms priskiriamų rizikų draudimo veiklos tvarką, atskirų draudimo rizikų draudimo, įskaitant privalomąjį draudimą, sutarčių sąlygas, reikalavimus, kuriuos draudikas privalo vykdyti teikdamas paslaugas vartotojams ryšio priemonėmis;
+
+
+
+
+2) kreipiasi į teismą dėl draudimo įmonės, perdraudimo įmonės ar draudimo brokerių įmonės organų sprendimų pripažinimo netekusiais galios Civilinio kodekso 2.82 straipsnio 4 dalyje nustatytais atvejais, taip pat dėl draudimo įmonės, perdraudimo įmonės ar draudimo brokerių įmonės sandorių, sudarytų dėl tokių sprendimų, pripažinimo negaliojančiais;
+
+
+
+
+3) dalyvauja draudimo įmonių, perdraudimo įmonių, draudimo ir perdraudimo tarpininkų ir kitų finansų institucijų priežiūros tarptautinėse institucijose;
+
+
+
+
+4) iškilus realiai grėsmei, kad draudimo ar perdraudimo įmonė taps nemoki ar trečiosios valstybės draudimo ar perdraudimo įmonės filialui priskirtas turtas taps mažesnis už filialo įsipareigojimus, įpareigoja draudimo įmonę, perdraudimo įmonę ar trečiosios valstybės draudimo ar perdraudimo įmonės filialą, ketinančius vykdyti reikšmingus sandorius, gauti priežiūros institucijos pritarimą;
+
+
+
+
+5) priežiūros veikloje diegia ir naudoja kiekybinio vertinimo priemones, leidžiančias nustatyti draudimo ar perdraudimo įmonės galimybę veikti atsižvelgiant į finansinei būklei neigiamą poveikį galinčius turėti įvykius ar ekonominių sąlygų pasikeitimą ateityje, ir reikalauja, kad draudimo ar perdraudimo įmonės atliktų atitinkamus vertinimus.
+
+
+
+
+
+
+2. Priežiūros institucija, nustačiusi ar turėdama pagrindą įtarti teisės aktų, kurių laikymosi priežiūra priskirta jos kompetencijai, pažeidimus ar draudimo įmonės, perdraudimo įmonės, draudimo tarpininko veiklos trūkumus, taip pat jeigu kyla grėsmė draudimo įmonės, perdraudimo įmonės ar draudimo tarpininko veiklos stabilumui ir patikimumui arba visuomenės ir (ar) draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesams, Lietuvos banko įstatymo nustatyta tvarka duoda draudimo įmonei, perdraudimo įmonei ar draudimo tarpininkui šiuos privalomus nurodymus:
+
+
+1) per priežiūros institucijos nustatytą terminą pašalinti teisės aktų pažeidimus ar veiklos trūkumus;
+
+
+
+
+2) sustabdyti vienos ar kelių draudimo, perdraudimo arba draudimo, perdraudimo produktų platinimo paslaugų teikimą;
+
+
+
+
+3) sustabdyti arba nutraukti vienos ar kelių draudimo, perdraudimo arba draudimo, perdraudimo produktų platinimo paslaugų, susijusių su draudimo principu pagrįsto investicinio produkto pardavimu, teikimą;
+
+
+
+
+4) nutraukti Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą;
+
+
+
+
+5) šio įstatymo 45 ar 46 straipsnyje nustatytais atvejais pareikalauti, kad draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas pateiktų finansinės būklės atkūrimo planus ir nustatyti šių planų pateikimo terminus;
+
+
+
+
+6) šio įstatymo 206 straipsnyje nustatytais pagrindais įpareigoti draudimo įmonę ar trečiosios valstybės draudimo įmonės filialą per priežiūros institucijos nustatytą terminą perleisti teises ir pareigas pagal draudimo sutartis;
+
+
+
+
+7) atkurti iki teisės aktų pažeidimo buvusią padėtį;
+
+
+
+
+8) pateikti priežiūros institucijai papildomą informaciją arba teikti dažniau, nei nustatyta teisės aktuose, informaciją, reikalingą priežiūros funkcijoms atlikti;
+
+
+
+
+9) viešai atskleisti papildomą informaciją;
+
+
+
+
+10) atlikti kitus veiksmus arba neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai ar veiklos trūkumai.
+
+
+
+
+
+
+3. Draudimo įmonės, perdraudimo įmonės, draudimo tarpininkų įmonės privalo vykdyti šio straipsnio 2 dalyje nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai.
+
+
+
+
+4. Šio straipsnio 2 dalyje nustatytas teises priežiūros institucija taip pat turi Lietuvos Respublikoje įsteigto trečiosios valstybės draudimo įmonės, perdraudimo įmonės ar draudimo tarpininko filialo atžvilgiu. 
+
+
+
+
+5. Šio straipsnio 2 dalyje nustatytos priežiūros institucijos teisės gali būti taikomos ir Europos ekonominės erdvės valstybių draudimo įmonių, perdraudimo įmonių, draudimo tarpininkų, teikiančių paslaugas Lietuvos Respublikoje, ar šių įmonių, draudimo tarpininkų Lietuvos Respublikoje įsteigtų filialų atžvilgiu, kai įtariami teisės aktų pažeidimai ar veiklos trūkumai yra susiję su viešąja tvarka, visuomenės ir (arba) draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesais. 
+
+
 Straipsnio pakeitimai:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
+
+
+
+
+2011 straipsnis. Pranešimas apie pažeidimus
+
+
+Priežiūros institucija nustato priemones, kurios skatintų jai pranešti apie draudimo produktų platinimo veiklą reglamentuojančių teisės aktų ir Reglamento (ES) Nr. 1286/2014 nuostatų pažeidimą. Šios priemonės turi atitikti šiuos reikalavimus:
+
+
+1) numatytos specialios pranešimo apie minėtus pažeidimus gavimo ir vertinimo procedūros;
+
+
+
+
+2) užtikrinamas asmens, kuris praneša apie padarytus pažeidimus, konfidencialumas, išskyrus atvejus, kai atskleisti tokią informaciją reikalaujama įstatymų nustatytais atvejais ir tvarka;
+
+
+
+
+3) asmens duomenys tvarkomi asmens duomenų apsaugą reglamentuojančių teisės aktų nustatyta tvarka;
+
+
+
+
+4) užtikrinama tinkama darbuotojų, kurie praneša apie pažeidimus, apsauga nuo keršto, diskriminacijos ar kito neteisėto ar nesąžiningo elgesio. 
+
+
+
+
+Papildyta straipsniu:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
@@ -8638,80 +9550,72 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 204 straipsnis. Poveikio priemonės
 
 
-Priežiūros institucija turi teisę taikyti šias poveikio priemones:
+Priežiūros institucija taiko šias poveikio priemones:
 
 
-1) įspėti draudimo įmones, perdraudimo įmones, draudimo ir perdraudimo tarpininkus, Lietuvos Respublikoje įsteigtus trečiųjų valstybių draudimo ir perdraudimo įmonių ir draudimo ir perdraudimo tarpininkų įmonių filialus, draudimo kontroliuojančiąją įmonę, mišrios veiklos finansų kontroliuojančiąją įmonę, draudimo ir perdraudimo įmonių pasitelktus asmenis (šio įstatymo 30 straipsnis), asmenis, kurie neteisėtai verčiasi draudimo ar perdraudimo įmonės, draudimo ar perdraudimo tarpininkų veikla, dėl jų veiklos trūkumų ar pažeidimų ir, jei tuos trūkumus ar pažeidimus įmanoma pašalinti, nustatyti jų pašalinimo terminus;
-
-
-
-
-2) neteko galios nuo 2017-01-01;
-Straipsnio punkto pakeitimai:
-Nr. XII-2446, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17714
- 
+1) viešai paskelbia apie šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimą (tipą ir pobūdį), pritaikytą poveikio priemonę ir šį pažeidimą padariusio juridinio asmens pavadinimą, juridinio asmens kodą ir (ar) fizinio asmens vardą ir pavardę;
 
 
 
 
-3) šio įstatymo 208 straipsnyje nustatytais pagrindais skirti šio įstatymo 208 straipsnyje nustatytas baudas;
+2) įspėja dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimo ir nurodo per nustatytą terminą nutraukti teisės akto pažeidimą;
 
 
 
 
-4) šio įstatymo 45 ar 46 straipsnyje nustatytais atvejais pareikalauti, kad draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas pateiktų finansinės būklės atkūrimo planus, ir nustatyti šių planų pateikimo terminus;
+3) skiria šio įstatymo nustatytas pinigines baudas;
 
 
 
 
-5) šio įstatymo 206 straipsnyje nustatytais pagrindais įpareigoti draudimo įmonę ar trečiosios valstybės draudimo įmonės filialą per priežiūros institucijos nustatytą terminą perleisti teises ir pareigas pagal draudimo sutartis;
+4) laikinai, kol yra pagrindas, sustabdo (apriboja) draudimo įmonės ar perdraudimo įmonės akcininko balsavimo teisę;
 
 
 
 
-6) reikalauti, kad per priežiūros institucijos nustatytą terminą draudimo ar perdraudimo įmonės valdymo ar priežiūros organai pakeistų stebėtojų tarybą ar jos narį, pakeistų valdybą ar jos narį, vadovą, asmenis, atsakingus už rizikos valdymo, aktuarinę, atitikties vertinimo ir vidaus audito funkcijas, ar kitus vadovaujamąsias pareigas einančius asmenis;
+5) reikalauja, kad per priežiūros institucijos nustatytą terminą draudimo ar perdraudimo įmonės valdymo ar priežiūros organai pakeistų stebėtojų tarybą ar jos narį, pakeistų valdybą ar jos narį, vadovą, asmenis, atsakingus už rizikos valdymo, aktuarinę, atitikties vertinimo ir vidaus audito funkcijas, ar kitus vadovaujamąsias pareigas einančius asmenis;
 
 
 
 
-7) reikalauti, kad per priežiūros institucijos nustatytą terminą draudimo kontroliuojančioji įmonė, mišrios veiklos finansų kontroliuojančioji įmonė pakeistų stebėtojų tarybą ar jos narį, pakeistų valdybą ar jos narį, vadovą;
+6) reikalauja, kad per priežiūros institucijos nustatytą terminą draudimo kontroliuojančioji įmonė, mišrios veiklos finansų kontroliuojančioji įmonė pakeistų stebėtojų tarybą ar jos narį, pakeistų valdybą ar jos narį, vadovą;
 
 
 
 
-8) reikalauti, kad trečiosios valstybės draudimo ar perdraudimo įmonė per priežiūros institucijos nustatytą terminą pakeistų Lietuvos Respublikoje įsteigto trečiosios valstybės draudimo ar perdraudimo įmonės filialo vadovą, asmenis, atsakingus už rizikos valdymo, aktuarinę, atitikties vertinimo ir vidaus audito funkcijas, ar kitus vadovaujamąsias pareigas einančius asmenis;
+7) reikalauja, kad trečiosios valstybės draudimo ar perdraudimo įmonė per priežiūros institucijos nustatytą terminą pakeistų Lietuvos Respublikoje įsteigto trečiosios valstybės draudimo ar perdraudimo įmonės filialo vadovą, asmenis, atsakingus už rizikos valdymo, aktuarinę, atitikties vertinimo ir vidaus audito funkcijas, ar kitus vadovaujamąsias pareigas einančius asmenis;
 
 
 
 
-9) reikalauti per priežiūros institucijos nustatytą terminą pakeisti draudimo ar perdraudimo įmonės likvidatorių, likvidacinės komisijos pirmininką ar jos narį, asmenį, atsakingą už Lietuvos Respublikoje įsteigto trečiosios valstybės draudimo ar perdraudimo įmonės filialo likvidavimą;
+8) reikalauja per priežiūros institucijos nustatytą terminą pakeisti draudimo ar perdraudimo įmonės likvidatorių, likvidacinės komisijos pirmininką ar jos narį, asmenį, atsakingą už Lietuvos Respublikoje įsteigto trečiosios valstybės draudimo ar perdraudimo įmonės filialo likvidavimą;
 
 
 
 
-10) šio įstatymo 207 straipsnyje nustatytais pagrindais areštuoti draudimo ar perdraudimo įmonių ir Lietuvos Respublikoje įsteigtų trečiųjų valstybių draudimo ar perdraudimo įmonių filialų turtą;
+9) šio įstatymo 207 straipsnyje nustatytais pagrindais areštuoja draudimo ar perdraudimo įmonių ir Lietuvos Respublikoje įsteigtų trečiųjų valstybių draudimo ar perdraudimo įmonių filialų turtą;
 
 
 
 
-11) šio įstatymo 165 straipsnio 5 dalies 3–7 punktuose ir 6 dalyje nustatytais pagrindais išbraukti draudimo brokerį iš draudimo brokerių sąrašo ar laikinai sustabdyti draudimo brokerio pažymėjimo galiojimą;
+10) laikinai sustabdo draudimo veiklos licencijos, perdraudimo veiklos licencijos, leidimo trečiosios valstybės draudimo ar perdraudimo įmonės filialo veiklai ar jų suteikiamų teisių galiojimą, laikinai uždraudžia draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkui vykdyti draudimo ar perdraudimo produktų platinimo veiklą; 
 
 
 
 
-12) laikinai sustabdyti draudimo veiklos licencijos, perdraudimo veiklos licencijos, draudimo brokerių įmonės veiklos licencijos, leidimo trečiosios valstybės draudimo ar perdraudimo įmonės filialo veiklai ar kitos trečiosios valstybės nepriklausomų draudimo tarpininkų filialo veiklai Lietuvos Respublikoje ar jų suteikiamų teisių galiojimą, laikinai uždrausti priklausomam draudimo ar perdraudimo tarpininkui vykdyti draudimo tarpininkavimo veiklą;
+11) šio įstatymo 20 straipsnio 2 dalies 1, 2, 4, 5 ir 6 punktuose ir 3 dalyje, 82 straipsnio 2 dalies 1, 2, 4–10 punktuose ir 3 dalyje, 164 straipsnio 1  dalies 1, 2, 4, 5 punktuose nustatytais pagrindais panaikina draudimo veiklos licencijos, perdraudimo veiklos licencijos, leidimo trečiosios valstybės draudimo ar perdraudimo įmonės filialo veiklai galiojimą, išbraukia iš draudimo brokerių įmonių sąrašo ar trečiųjų valstybių draudimo tarpininkų sąrašo, visam laikui uždraudžia draudimo ar perdraudimo tarpininkui ar papildomos draudimo veiklos tarpininkui vykdyti draudimo ar perdraudimo produktų platinimo veiklą; 
 
 
 
 
-13) šio įstatymo 20 straipsnio 2 dalies 1, 2, 4, 5 ir 6 punktuose ir 3 dalyje, 82 straipsnio 2 dalies 1, 2, 4–10 punktuose ir 3 dalyje, 164 straipsnio 2 dalies 1, 2, 4, 5 punktuose ar 194 straipsnio 2 dalies 1, 2, 4, 5 punktuose nustatytais pagrindais panaikinti draudimo veiklos licencijos, perdraudimo veiklos licencijos, draudimo brokerių įmonės veiklos licencijos, leidimo trečiosios valstybės draudimo ar perdraudimo įmonės filialo veiklai ar trečiosios valstybės nepriklausomų draudimo tarpininkų filialo veiklai Lietuvos Respublikoje galiojimą, visam laikui uždrausti priklausomam draudimo ar perdraudimo tarpininkui vykdyti draudimo tarpininkavimo veiklą.
- 
+12) laikinai uždraudžia draudimo tarpininko ar draudimo įmonės valdymo organo nariams eiti vadovaujamąsias pareigas draudimo tarpininko ar draudimo įmonėje. 
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
  
 
 
@@ -8720,15 +9624,15 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 205 straipsnis. Poveikio priemonių taikymo pagrindai ir tvarka
 
 
-1. Išskyrus atvejus, kai šio įstatymo 204 straipsnyje nustatomi konkrečios poveikio priemonės taikymo pagrindai, priežiūros institucija turi teisę taikyti šio įstatymo 204 straipsnyje nurodytas poveikio priemones, jeigu yra bent vienas iš šių pagrindų:
+1. Poveikio priemonės taikomos, kai yra bent vienas iš šių pagrindų, išskyrus atvejus, kai šio įstatymo 204 straipsnyje nustatomi konkrečios poveikio priemonės taikymo pagrindai:
 
 
-1) priežiūros institucijai atsisakyta pateikti informaciją arba suteikta neteisinga informacija;
+1) vykdoma draudimo, perdraudimo, draudimo ar perdraudimo produktų platinimo veikla, jeigu nėra tam šio įstatymo nustatyta tvarka suteiktos teisės ar ši teisė apribota pagal šį įstatymą, arba atliekami kiti veiksmai ar veikla, kuriuos draudžia šis įstatymas;
 
 
 
 
-2) pažeisti Lietuvos Respublikos įstatymai, priežiūros institucijos sprendimai ar kiti teisės aktai;
+2) šiame įstatyme nurodyta licencija ar leidimas gautas pateikus priežiūros institucijai klaidingą informaciją arba pasinaudojus kitomis neteisėtomis priemonėmis;
 
 
 
@@ -8738,7 +9642,7 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-4) pažeistos draudimo, perdraudimo ar draudimo ir perdraudimo tarpininkavimo veiklos sąlygos;
+4) pažeistos draudimo, perdraudimo ar draudimo ir perdraudimo produktų platinimo veiklos sąlygos;
 
 
 
@@ -8753,17 +9657,17 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-7) draudimo ar perdraudimo įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės ir asmenys, stebėtojų tarybos, valdybos nariai, vadovas, asmenys, atsakingi už rizikos valdymo, aktuarinę, atitikties vertinimo ir vidaus audito funkcijas, ar kiti vadovaujamąsias pareigas einantys asmenys neatitinka kriterijų, nustatytų šio įstatymo 22 straipsnio 5 dalyje; 
+7) draudimo ar perdraudimo įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės ir asmenys, stebėtojų tarybos, valdybos nariai, vadovas, asmenys, atsakingi už rizikos valdymo, aktuarinę, atitikties vertinimo ir vidaus audito funkcijas, ar kiti vadovaujamąsias pareigas einantys asmenys neatitinka kriterijų, nustatytų šio įstatymo 22 straipsnio 5 dalyje; 
 
 
 
 
-8) trečiosios valstybės draudimo ar perdraudimo įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės ir asmenys, stebėtojų tarybos, valdybos nariai, vadovas, filialo vadovas, asmenys, atsakingi už rizikos valdymo, aktuarinę, atitikties vertinimo ir vidaus audito funkcijas, ar kiti vadovaujamąsias pareigas einantys asmenys neatitinka kriterijų, nustatytų šio įstatymo 80 straipsnyje; 
+8) trečiosios valstybės draudimo ar perdraudimo įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės ir asmenys, stebėtojų tarybos, valdybos nariai, vadovas, filialo vadovas, asmenys, atsakingi už rizikos valdymo, aktuarinę, atitikties vertinimo ir vidaus audito funkcijas, ar kiti vadovaujamąsias pareigas einantys asmenys neatitinka kriterijų, nustatytų šio įstatymo 80 straipsnyje; 
 
 
 
 
-9) draudimo brokerių įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės ir asmenys, stebėtojų tarybos, valdybos nariai, vadovas neatitinka kriterijų, nustatytų šio įstatymo 162 straipsnyje, trečiosios valstybės nepriklausomų draudimo tarpininkų įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės ir asmenys, priežiūros ir valdymo organų nariai, filialo vadovas neatitinka kriterijų, nustatytų šio įstatymo 193 straipsnio 2 dalies 2 punkte;
+9) draudimo brokerių įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės ir asmenys, stebėtojų tarybos, valdybos nariai, vadovas neatitinka kriterijų, nustatytų šio įstatymo 162 straipsnio 1 dalyje, trečiosios valstybės draudimo tarpininkų įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės ir asmenys, priežiūros ir valdymo organų nariai, filialo vadovas neatitinka kriterijų, nustatytų šio įstatymo 193 straipsnyje, šio įstatymo 1581 straipsnyje nurodyti asmenys neatitinka šio įstatymo 1581 straipsnio 1 dalyje nustatytų reikalavimų ir (ar) jiems taikomas apribojimas vykdyti veiklą pagal šio įstatymo 1581 straipsnio 2 dalį ir (arba) dalyvių, kuriems priklauso daugiau kaip 10 procentų įstatinio kapitalo ir (arba) balsavimo teisių, ir asmenų, susijusių su draudimo brokerių įmone glaudžiais ryšiais, dalyvavimas draudimo brokerių įmonės veikloje sudaro kliūčių priežiūros institucijai veiksmingai atlikti draudimo brokerių įmonės priežiūrą;
 
 
 
@@ -8773,7 +9677,7 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-11) pablogėja draudimo įmonės, perdraudimo įmonės, draudimo brokerių įmonės ar trečiosios valstybės draudimo ar perdraudimo įmonės filialo ar nepriklausomo draudimo tarpininko filialo finansinė būklė ir ji nebeatitinka teisės aktų nustatytų reikalavimų arba kai draudimo įmonės, trečiosios valstybės draudimo įmonės filialo, draudimo brokerių įmonės ar trečiosios valstybės nepriklausomo draudimo tarpininko filialo veikla gali pažeisti draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesus ar iškyla tokio pablogėjimo ar pažeidimo grėsmė;
+11) pablogėja draudimo įmonės, perdraudimo įmonės, draudimo brokerių įmonės ar trečiosios valstybės draudimo ar perdraudimo įmonės filialo ar draudimo tarpininko filialo finansinė būklė ir ji nebeatitinka teisės aktų nustatytų reikalavimų arba draudimo įmonės, trečiosios valstybės draudimo įmonės filialo, draudimo brokerių įmonės ar trečiosios valstybės draudimo tarpininko filialo veikla gali pažeisti draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesus ar iškyla tokio pablogėjimo ar pažeidimo grėsmė;
 
 
 
@@ -8783,52 +9687,64 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-13) draudimo įmonės, trečiosios valstybės draudimo įmonės filialo, Europos ekonominės erdvės valstybės draudimo įmonės draudimo sutarčių standartinės sąlygos neatitinka teisės aktų nustatytų reikalavimų.
+13) nustatytais terminais nepateikiama šiame įstatyme, kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nurodyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neišsami, neteisinga arba netiksli informacija;
+
+
+
+
+14) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo 201 straipsnį duoti privalomi nurodymai;
+
+
+
+
+15) pažeisti Reglamente (EB) Nr. 1060/2009 nustatyti reikalavimai;
+
+
+
+
+16) pažeisti Reglamente (ES) Nr. 1286/2014 nustatyti reikalavimai;
+
+
+
+
+17) trukdoma priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus;
+
+
+
+
+18) draudimo įmonės, trečiosios valstybės draudimo įmonės filialo, Europos ekonominės erdvės valstybės draudimo įmonės draudimo sutarčių standartinės sąlygos neatitinka teisės aktų nustatytų reikalavimų;
+
+
+
+
+19) draudimo ar perdraudimo įmonė arba draudimo ar perdraudimo tarpininkas naudojasi asmenų, kurie neturi teisės vykdyti draudimo ar perdraudimo produktų platinimo veiklos, teikiamomis draudimo ar perdraudimo produktų platinimo paslaugomis;
+
+
+
+
+20) padaroma kitų šio įstatymo ar kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimų.
 
 
 
 
 
 
-2. Priežiūros institucija parenka poveikio priemonę atsižvelgdama į pažeidimo, dėl kurio taikoma ši priemonė, turinį, asmens kaltę, poveikio priemonės proporcingumą pažeidimui, šio pažeidimo ir taikomos priemonės pasekmes asmeniui, kuriam taikoma poveikio priemonė, ir draudimo, perdraudimo, draudimo ir perdraudimo tarpininkavimo sistemos saugumui, stabilumui ir patikimumui Lietuvos Respublikoje ir pagal turimą informaciją – Europos ekonominės erdvės valstybėse.
+2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas.
 
 
 
 
-3. Sprendimas dėl poveikio priemonės taikymo privalo būti priimtas per 3 mėnesius nuo pažeidimo ar pagrindo taikyti poveikio priemonę nustatymo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip 2 metai, poveikio priemonės negali būti taikomos.
-Straipsnio dalies pakeitimai:
-Nr. XII-2446, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17714
- 
+3. Priežiūros institucija turi teisę imtis visų reikiamų priemonių, kad apsaugotų draudėjų interesus pagal draudimo ar perdraudimo sutartis, kai draudimo ar perdraudimo įmonės, Lietuvos Respublikoje įsteigtų trečiųjų valstybių draudimo ar perdraudimo įmonės filialo finansinė padėtis blogėja, neatsižvelgdama į šio įstatymo 45 ir 46 straipsnių nuostatas. Taikomos priemonės turi būti proporcingos ir atitikti mokumo būklės pablogėjimo lygį ir trukmę.
 
 
 
 
-4. Klausimas dėl poveikio priemonės taikymo svarstomas dalyvaujant asmeniui, kuriam taikoma poveikio priemonė, arba jo atstovams. Asmens arba jo atstovo neatvykimas, jeigu jiems apie klausimo dėl poveikio priemonės taikymo svarstymą buvo tinkamai pranešta, nėra kliūtis priimti sprendimą taikyti poveikio priemonę.
-
-
-
-
-5. Už tą patį pažeidimą gali būti taikoma tik viena poveikio priemonė, išskyrus šio įstatymo nustatytas išimtis. Poveikio priemonės paskyrimas neatleidžia nuo pareigos, už kurios nevykdymą paskirta poveikio priemonė, atlikimo.
-
-
-
-
-6. Sprendimo dėl poveikio priemonės taikymo rezoliucinė dalis priežiūros institucijos sprendimu gali būti skelbiama viešai priežiūros institucijos interneto svetainėje ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos.
-
-
-
-
-7. Priežiūros institucija turi teisę imtis visų reikiamų priemonių, kad apsaugotų draudėjų interesus pagal draudimo ar perdraudimo sutartis, kai draudimo ar perdraudimo įmonės, Lietuvos Respublikoje įsteigtų trečiųjų valstybių draudimo ar perdraudimo įmonės filialo finansinė padėtis blogėja, neatsižvelgdama į šio įstatymo 45 ir 46 straipsnių nuostatas. Taikomos priemonės turi būti proporcingos ir atitikti mokumo būklės pablogėjimo lygį ir trukmę.
-
-
-
-
-8. Jeigu teisės pažeidimas yra mažareikšmis ir (ar) jeigu įstatymo reikalavimų laikymasis gali būti užtikrintas kitomis priemonėmis, vadovaujantis teisingumo ir protingumo kriterijais, šio įstatymo 204 straipsnyje numatyta poveikio priemonė gali būti neskiriama. 
- 
+4. Priežiūros institucija, spręsdama dėl veiksmingos poveikio priemonės taikymo už pažeidimus vykdant tarpvalstybinę veiklą, glaudžiai bendradarbiauja ir savo veiksmus koordinuoja su Lietuvos Respublikos, kitų Europos ekonominės erdvės valstybių ir trečiųjų valstybių priežiūros ir kitomis institucijomis. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
  
 
 
@@ -8944,6 +9860,53 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 208 straipsnis. Baudos 
+
+
+1. Priežiūros institucija skiria baudas:
+
+
+1) juridiniams asmenims - iki 5 procentų bendrųjų metinių pajamų;
+
+
+
+
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims - iki 350 000 eurų, o už draudimo principu pagrįstų investicinių produktų platinimo veiklos reikalavimų pažeidimą – iki 700 000 eurų. 
+
+
+
+
+
+
+2. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių juridinio asmens sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose.
+
+
+
+
+3. Jeigu dėl šio įstatymo 205 straipsnio 1 dalyje nurodytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir šių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1, 4 arba 5 dalyje nurodytus baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio.
+
+
+
+
+4. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų, priežiūros institucija vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos skiria juridiniam asmeniui baudą iki 700 000 eurų.
+
+
+
+
+5. Kai juridinio asmens bendrosios metinės pajamos yra mažesnės negu vienas milijonas eurų, priežiūros institucija vietoj šio straipsnio 1 dalies 1 punkte nurodytos baudos skiria juridiniam asmeniui iki 100 000 eurų baudą.
+
+
+
+
+6. Šio įstatymo 205 straipsnio 1 dalies 14 punkte nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki 1 procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų. 
+
+
+
+
+7. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka. 
+Straipsnio pakeitimai:
+Nr. XII-1476, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21138
+
+
 Straipsnio pakeitimai:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
@@ -9005,9 +9968,27 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 4. Kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonei priežiūros institucija turi teisę taikyti šias poveikio priemones:
 
 
-Straipsnio punkto pakeitimai:
-Nr. XII-2446, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17714
- 
+1) įspėti dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimų ir nurodyti per nustatytą terminą nutraukti teisės akto pažeidimą bei užtikrinti, kad jis nesikartotų;
+
+
+
+
+2) reikalauti, kad būtų pakeistas kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonės filialo vadovas; 
+
+
+
+
+3) šio įstatymo 207 straipsnio 2 dalyje nustatyta tvarka ir kai yra kitos Europos ekonominės erdvės valstybės priežiūros institucijos prašymas, areštuoti kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonės turtą, esantį Lietuvos Respublikoje;
+
+
+
+
+4) skirti šiame įstatyme nustatytas baudas;
+
+
+
+
+5) laikinai ar visam laikui uždrausti kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonei vykdyti veiklą Lietuvos Respublikoje. 
 
 
 Straipsnio dalies pakeitimai:
@@ -9025,7 +10006,10 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-6. Jeigu paaiškėja, kad šio straipsnio 5 dalyje numatytos priemonės nėra pakankamos pažeidimams pašalinti, priežiūros institucija, prieš tai įspėjusi kitos Europos ekonominės erdvės valstybės priežiūros instituciją, turi teisę taikyti poveikio priemones, numatytas šio straipsnio 4 dalies 2, 4 ir 5 punktuose. Kai neatidėliotinai būtina, priežiūros institucija taiko šias poveikio priemones neatsižvelgdama į šio straipsnio 5 dalies nuostatas. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal Reglamento (ES) Nr. 1094/2010 19 straipsnį.
+6. Jeigu paaiškėja, kad šio straipsnio 5 dalyje numatytos priemonės nėra pakankamos pažeidimams pašalinti, priežiūros institucija, prieš tai įspėjusi kitos Europos ekonominės erdvės valstybės priežiūros instituciją, turi teisę taikyti poveikio priemones, numatytas šio straipsnio 4 dalies 2, 4 ir 5 punktuose. Kai neatidėliotinai būtina (yra tiesioginė grėsmė draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų ir naudos gavėjų interesams ar tinkamam draudimo ar perdraudimo produktų rinkų veikimui), priežiūros institucija taiko šias poveikio priemones neatsižvelgdama į šio straipsnio 5 dalies nuostatas. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal Reglamento (ES) Nr. 1094/2010 19 straipsnį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -9040,13 +10024,10 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
-210 straipsnis. Kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkų, teikiančių paslaugas ar įsisteigusių Lietuvos Respublikoje, priežiūra
+210 straipsnis. Kitos Europos ekonominės erdvės valstybės draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkų, teikiančių paslaugas ar įsisteigusių Lietuvos Respublikoje, priežiūra
 
 
-1. Kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkų, teikiančių paslaugas Lietuvos Respublikoje, ar šių tarpininkų Lietuvos Respublikoje įsteigtų filialų veiklos priežiūrą atlieka šios valstybės priežiūros institucija. Nepaisant šios nuostatos, priežiūros institucija turi teisę prižiūrėti, ar šie subjektai, vykdydami veiklą Lietuvos Respublikoje, laikosi šiame įstatyme tiesiogiai jiems nustatytų reikalavimų ir kitų Lietuvos Respublikos teisės aktų, ir turi kitas šiame straipsnyje nustatytas teises ir pareigas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
- 
+1. Kitos Europos ekonominės erdvės valstybės draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkų, teikiančių paslaugas Lietuvos Respublikoje, ar šių tarpininkų Lietuvos Respublikoje įsteigtų filialų veiklos priežiūrą atlieka šios Europos ekonominės erdvės valstybės priežiūros institucija. Nepaisant šios nuostatos, priežiūros institucija prižiūri, kaip laikomasi draudėjų informavimo ir kitų veiklos Lietuvos Respublikoje vykdymo reikalavimų, ir turi kitas šiame straipsnyje nustatytas teises ir pareigas.
 
 
 
@@ -9054,81 +10035,119 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 2. Priežiūros institucija turi teisę:
 
 
-1) gauti informaciją iš kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko ar jo įsteigto filialo;
+1) gauti informaciją iš kitos Europos ekonominės erdvės valstybės draudimo, perdraudimo ar papildomos draudimo veiklos tarpininko ar jo įsteigto filialo;
 
 
 
 
-2) atlikti kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko filialo patikrinimus šio įstatymo 212 straipsnyje nustatyta tvarka;
+2) atlikti kitos Europos ekonominės erdvės valstybės draudimo, perdraudimo ar papildomos draudimo veiklos tarpininko filialo patikrinimus šio įstatymo 212 straipsnyje nustatyta tvarka;
 
 
 
 
-3) dalyvauti kitos Europos ekonominės erdvės valstybės priežiūros institucijos atliekamame šios Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko filialo patikrinime;
+3) dalyvauti kitos Europos ekonominės erdvės valstybės priežiūros institucijai atliekant šios Europos ekonominės erdvės valstybės draudimo, perdraudimo ar papildomos draudimo veiklos tarpininko filialo patikrinimą;
 
 
 
 
-4) šio įstatymo 205 straipsnio 1 dalies 1 ir 2 punktuose nustatytais pagrindais, taip pat kai pablogėja kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko įmonės filialo finansinė būklė ir ji nebeatitinka teisės aktuose nustatytų reikalavimų, kai pažeisti draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesai arba kyla tokio pablogėjimo ar pažeidimo grėsmė ar kai kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko ar jo filialo rizikinga veikla gali pakenkti draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų ir naudos gavėjų interesams, taikyti poveikio priemones, numatytas šio straipsnio 3 dalyje;
+4) šio įstatymo 205 straipsnio 1 dalies 13 ir 20 punktuose nustatytais pagrindais, taip pat kai pablogėja kitos Europos ekonominės erdvės valstybės draudimo, perdraudimo ar papildomos draudimo veiklos tarpininko įmonės filialo finansinė būklė ir ji nebeatitinka teisės aktuose nustatytų reikalavimų, kai pažeisti draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesai arba kyla tokio pablogėjimo ar pažeidimo grėsmė ar kai kitos Europos ekonominės erdvės valstybės draudimo, perdraudimo ar papildomos draudimo veiklos tarpininko ar jo filialo rizikinga veikla gali pakenkti draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų ir naudos gavėjų interesams, taikyti poveikio priemones, numatytas šio straipsnio 3 dalyje; 
 
 
 
 
-5) teikti rekomendacijas ir privalomus nurodymus Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkui ar jo įsteigtam filialui dėl jų veiklos Lietuvos Respublikoje.
+5) teikti rekomendacijas ir privalomus nurodymus kitos Europos ekonominės erdvės valstybės draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkui ar jo įsteigtam filialui dėl jų veiklos Lietuvos Respublikoje.
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+
+
+
+
+3. Priežiūros institucija turi teisę taikyti šias poveikio priemones kitos Europos ekonominės erdvės valstybės draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkui ar jo filialui:
+
+
+1) įspėti kitos Europos ekonominės erdvės valstybės draudimo, perdraudimo ar papildomos draudimo veiklos tarpininką dėl šio įstatymo ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, pažeidimų ir nurodyti per nustatytą terminą nutraukti teisės akto pažeidimą bei užtikrinti, kad jis nesikartotų; 
+
+
+
+
+2) reikalauti pakeisti kitos Europos ekonominės erdvės valstybės draudimo, perdraudimo ar papildomos draudimo veiklos tarpininko įmonės filialo Lietuvos Respublikoje vadovą ar darbuotojus, vykdančius draudimo ar perdraudimo produktų platinimo veiklą;
+
+
+
+
+3) skirti šiame įstatyme nustatytas baudas;
+
+
+
+
+4) laikinai ar visam laikui uždrausti kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo produktų platinimo veiklą Lietuvos Respublikoje.
+
+
+
+
+
+
+4. Priežiūros institucija privalo informuoti kitos Europos ekonominės erdvės valstybės priežiūros instituciją, kai yra pagrindas manyti, kad kitų Europos ekonominės erdvės valstybių draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkas, teikiantis paslaugas ar įsteigęs filialą Lietuvos Respublikoje, pažeidžia jam taikomų Lietuvos Respublikos teisės aktų reikalavimus, kad ši imtųsi visų teisės aktų leidžiamų priemonių pažeidimams pašalinti.
+
+
+
+
+5. Jeigu paaiškėja, kad šio straipsnio 4 dalyje numatytos priemonės nėra pakankamos arba jų nebuvo imtasi ir draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkas toliau vykdo veiklą, galinčią pakenkti draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų ir naudos gavėjų interesams ar tinkamam draudimo ar perdraudimo produktų rinkų veikimui, priežiūros institucija, prieš tai įspėjusi kitos Europos ekonominės erdvės valstybės priežiūros instituciją, turi teisę taikyti poveikio priemones, numatytas šio straipsnio 3 dalies 2, 3 ir 4 punktuose. Kai neatidėliotinai būtina (yra tiesioginė grėsmė draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų ir naudos gavėjų interesams ar tinkamam draudimo ar perdraudimo produktų rinkų veikimui), priežiūros institucija šias poveikio priemones taiko neatsižvelgdama į šio straipsnio 4 dalies nuostatas. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal Reglamento (ES) Nr. 1094/2010 19 straipsnį.
+
+
+
+
+6. Priežiūros institucija parenka poveikio priemonę atsižvelgdama į pažeidimo, dėl kurio taikoma ši priemonė, turinį, šio pažeidimo ir taikomos priemonės pasekmes kitos Europos ekonominės erdvės valstybės draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkui ar jo filialui. Apie taikomą poveikio priemonę nedelsiant pranešama kitos Europos ekonominės erdvės valstybės draudimo, perdraudimo ar papildomos draudimo veiklos tarpininkui, kitos Europos ekonominės erdvės valstybės priežiūros institucijai, Europos draudimo ir profesinių pensijų institucijai ir Komisijai.
+
+
+
+
+7. Jeigu kitos Europos ekonominės erdvės valstybės draudimo, perdraudimo ar papildomos draudimo veiklos tarpininko pagrindinė veiklos vieta, iš kurios vadovaujama pagrindinei veiklai, yra Lietuvos Respublikoje, priežiūros institucija gali susitarti su buveinės valstybės priežiūros institucija, kad priežiūros institucija vykdytų kitos Europos ekonominės erdvės valstybės draudimo, perdraudimo ar papildomos draudimo veiklos tarpininko veiklos priežiūrą.
+
+
+
+
+8. Priežiūros institucija, informavusi buveinės valstybės priežiūros instituciją, gali taikyti visas būtinas šiame įstatyme numatytas priemones, siekdama apsaugoti draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų ir naudos gavėjų teises, kai kitos Europos ekonominės erdvės valstybės draudimo produktų platintojo veikla yra visiškai ar daugiausia susijusi su Lietuvos Respublikos teritorija ir jis Lietuvos Respublikoje vykdo veiklą naudodamasis laisve teikti paslaugas arba įsisteigimo laisve tik siekdamas išvengti teisės aktų nuostatų, kurios būtų taikomos, jei draudimo produktų platintojo gyvenamoji vieta ar registruota buveinė būtų Lietuvos Respublikoje, taikymo ir kai jo veikla galėtų pažeisti vartotojų teises Lietuvos Respublikoje. Priežiūros institucija dėl šio klausimo taip pat gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal Reglamento (ES) Nr. 1094/2010 19 straipsnį. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
  
-
-
-
-
-3. Kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkui priežiūros institucija turi teisę taikyti šias poveikio priemones:
-
-
-1) įspėti kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininką dėl nustatytų Lietuvos Respublikos teisės aktų pažeidimų ir nustatyti šių pažeidimų pašalinimo terminus;
-
-
-
-
-2) neteko galios nuo 2017-01-01; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2446, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17714
- 
-
-
-
-
-3) reikalauti pakeisti kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko įmonės filialo Lietuvos Respublikoje vadovą ar darbuotojus, vykdančius tarpininkavimo veiklą;
-
-
-
-
-4) skirti Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko įmonei baudą (šio įstatymo 208 straipsnis);
-
-
-
-
-5) laikinai ar visam laikui uždrausti kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko veiklą Lietuvos Respublikoje.
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
- 
-
-
-
-
-4. Priežiūros institucija parenka poveikio priemonę atsižvelgdama į pažeidimo, dėl kurio taikoma ši priemonė, turinį, šio pažeidimo ir taikomos priemonės pasekmes kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkui ar jo filialui. Apie taikomą poveikio priemonę nedelsiant pranešama kitos Europos ekonominės erdvės valstybės priežiūros institucijai. 
- 
-
-
 
 
 
 
 211 straipsnis. Pasaulio prekybos organizacijos narių, kurios yra trečiosios valstybės, draudimo įmonės
+
+
+1. Priežiūros institucija, atlikdama Pasaulio prekybos organizacijos narės, kuri yra trečioji valstybė, draudimo įmonės veiklos neįsteigus filialo Lietuvos Respublikoje priežiūrą, turi teisę:
+
+
+1) iš trečiosios valstybės draudimo įmonės gauti informaciją, reikalingą priežiūros funkcijoms atlikti;
+
+
+
+
+2) šio įstatymo 205 straipsnio 1 dalies 13 ir 20 punktuose nustatytais pagrindais ar kai pažeisti draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų ir naudos gavėjų interesai, taikyti poveikio priemones, numatytas šio straipsnio 2 dalyje.
+
+
+
+
+
+
+2. Priežiūros institucija trečiosios valstybės draudimo įmonei gali taikyti šias poveikio priemones:
+
+
+1) įspėti dėl šio įstatymo ir kitų teisės aktų pažeidimų ir nurodyti per nustatytą terminą nutraukti teisės akto pažeidimą bei užtikrinti, kad jis nesikartotų;
+
+
+
+
+2) laikinai ar visam laikui uždrausti trečiosios valstybės draudimo įmonei sudaryti draudimo sutartis su Lietuvos Respublikos fiziniais ar juridiniais asmenimis. 
+
+
+
+
 Straipsnio pakeitimai:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
  
@@ -9183,7 +10202,10 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 
 
 
-6) asmenų, kurie neteisėtai verčiasi draudimo ar perdraudimo įmonės, draudimo ar perdraudimo tarpininkų veikla ar kurie yra susiję su šio įstatymo ar jo pagrindu priimtų teisės aktų pažeidimais;
+6) asmenų, kurie neteisėtai verčiasi draudimo ar perdraudimo įmonės veikla, draudimo ar perdraudimo produktų platinimo veikla ar kurie yra susiję su šio įstatymo ar jo pagrindu priimtų teisės aktų pažeidimais; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -9271,7 +10293,10 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 214 straipsnis. Bendradarbiavimas priežiūros klausimais
 
 
-1. Priežiūros institucija privalo glaudžiai bendradarbiauti su Komisija ir kitų Europos ekonominės erdvės valstybių priežiūros institucijomis draudimo ir perdraudimo, draudimo ir perdraudimo tarpininkavimo priežiūros ir jos reglamentavimo tobulinimo klausimais.
+1. Priežiūros institucija privalo glaudžiai bendradarbiauti su Komisija ir kitų Europos ekonominės erdvės valstybių priežiūros institucijomis draudimo ir perdraudimo, draudimo ir perdraudimo produktų platinimo priežiūros ir jos reglamentavimo tobulinimo klausimais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -9290,6 +10315,14 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 2) apie poveikio priemonių, pritaikytų kitų Europos ekonominės erdvės valstybių draudimo įmonėms, rūšį ir skaičių;
+
+
+
+
+3) pagal Direktyvos (ES) 2016/97 22 straipsnio 2 dalį apie Lietuvos Respublikos teisės aktų nuostatas, kurios yra griežtesnės, negu nustatyta Direktyvoje (ES) 2016/97. 
+Papildyta straipsnio punktu:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -9374,6 +10407,22 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
+13) tuo pačiu metu, kai viešai paskelbia pagal šio įstatymo 204 straipsnio 1 punktą, – apie taikytą poveikio priemonę; kasmet apibendrintai apie visas už draudimo produktų platinimo veiklos pažeidimus taikytas poveikio priemones; Europos draudimo ir profesinių pensijų institucijos nustatyta tvarka apie visas poveikio priemones, kurios nebuvo paskelbtos vadovaujantis Lietuvos banko įstatymo 433 straipsnio 15 dalimi, ir apie skundus dėl sprendimų taikyti poveikio priemones ir šių skundų tyrimo rezultatus; 
+Papildyta straipsnio punktu:
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
+ 
+
+
+
+
+14) pagal Direktyvos (ES) 2016/97 22 straipsnio 2 dalį apie Lietuvos Respublikos teisės aktų nuostatas, kurios yra griežtesnės, negu nustatyta Direktyvoje (ES) 2016/97. 
+Papildyta straipsnio punktu:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
+
+
+
+
 Straipsnio pakeitimai:
 Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
  
@@ -9436,6 +10485,14 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 2. Priežiūros institucija privalo informuoti Komisiją ir Europos draudimo ir profesinių pensijų instituciją apie esmines kliūtis ir sunkumus, kuriuos patiria Lietuvos Respublikos draudimo ar perdraudimo įmonės įsisteigdamos ar vykdydamos veiklą trečiosiose valstybėse.
+
+
+
+
+21. Priežiūros institucija privalo informuoti Komisiją apie esmines kliūtis ir sunkumus, kuriuos patiria Lietuvos Respublikos draudimo ar perdraudimo tarpininkai ar papildomos draudimo veiklos tarpininkai įsisteigdami ar vykdydami draudimo ar perdraudimo produktų platinimo veiklą trečiosiose valstybėse. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -9609,16 +10666,13 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 222 straipsnis. Piniginis vienetas
 
 
-1. Neteko galios.
-
-
-
-
-2. Šiame įstatyme eurais nurodytus dydžius, kurių indeksavimas numatomas Europos Sąjungos teisės aktuose, indeksuoja priežiūros institucija, atsižvelgdama į Europos vartotojų kainų indeksą, skelbiamą Eurostato. 
+Šiame įstatyme eurais nurodytus dydžius, kurių indeksavimas numatomas Europos Sąjungos teisės aktuose, taip pat šio įstatymo 126 straipsnio 3 dalyje nurodytą dydį indeksuoja priežiūros institucija, atsižvelgdama į Europos vartotojų kainų indeksą, skelbiamą Eurostato, jeigu Europos Sąjungos teisės aktuose nenumatyta kitaip. 
+Straipsnio pakeitimai:
+Nr. XII-1114, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13418
 
 
 Straipsnio pakeitimai:
-Nr. XII-1114, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13418
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
  
 
 
@@ -9691,7 +10745,10 @@ priedas
 
 
 
-8. 2002 m. gruodžio 9 d. Europos Parlamento ir Tarybos direktyva 2002/92/EB dėl draudimo tarpininkavimo (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 330).
+8. Neteko galios 2018-10-01. 
+Punkto pakeitimai:
+Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+ 
 
 
 
@@ -9747,6 +10804,14 @@ Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 18. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1). 
 Papildyta punktu:
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
+ 
+
+
+
+
+19. 2016 m. sausio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/97 dėl draudimo produktų platinimo (OL 2016 L 26, p. 19). 
+Papildyta punktu:
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
  
 
 
@@ -9923,3 +10988,8 @@ Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 2, 11, 22, 25, 26, 33, 135, 138, 157, 161, 163, 184, 191, 198, 200, 201, 204, 205, 207, 208, 209, 210, 211, 212, 221 straipsnių ir priedo pakeitimo, Įstatymo papildymo 31-1 straipsniu ir 202, 203 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
+Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 pakeitimo įstatymo Nr. XIII-1107 6, 9, 40, 74, 76, 77, 80, 82, 85 straipsnių pakeitimo ir 78 straipsnio pripažinimo netekusiu galios įstatymas
