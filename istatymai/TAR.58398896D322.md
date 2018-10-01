@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS PROBACIJOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-09-30
+Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 4-108, i. k. 1111010ISTA0XI-1860
  
@@ -229,7 +229,10 @@ Nr. XII-2712, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26511
 
 
 
-5. Darbo biržos probuojamiesiems sudaro individualius užimtumo veiklos planus, numato priemones, sudarančias palankias probuojamųjų integracijos į darbo rinką sąlygas.
+5. Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) probuojamiesiems sudaro individualius užimtumo veiklos planus, numato užimtumo rėmimo priemones, sudarančias palankias probuojamųjų integracijos į darbo rinką sąlygas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
+ 
 
 
 
@@ -471,7 +474,10 @@ Probuojamieji privalo:
 
 
 
-3) darbingo amžiaus probuojamieji, lygtinai paleisti iš pataisos įstaigų, privalo per penkiolika dienų nuo paleidimo įsidarbinti arba užsiregistruoti darbo biržoje ir pranešti apie tai probuotojui;
+3) darbingo amžiaus probuojamieji, lygtinai paleisti iš pataisos įstaigų, privalo per penkiolika dienų nuo paleidimo įsidarbinti arba užsiregistruoti Užimtumo tarnyboje ir pranešti apie tai probuotojui; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
+ 
 
 
 
@@ -779,7 +785,10 @@ Probuotojai padeda probuojamiesiems spręsti asmenines ir socialines problemas:
 
 
 
-3) padeda įsidarbinti probuojamiesiems, inicijuoja susitikimus su galimais darbdaviais, informuoja apie darbo biržų teikiamas paslaugas;
+3) padeda įsidarbinti probuojamiesiems, inicijuoja susitikimus su galimais darbdaviais, informuoja apie Užimtumo tarnybos teikiamas paslaugas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
+ 
 
 
 
@@ -1257,3 +1266,8 @@ Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 30 straipsnio pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2712, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26511
 Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 6, 22, 23 ir 30 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 6, 14 ir 19 straipsnių pakeitimo įstatymas
