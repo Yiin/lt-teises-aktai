@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2C523B544966"
 
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 2016-10-01 iki 2018-10-04
+Suvestinė redakcija nuo 2018-10-05 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2570, i. k. 1021010ISTA00IX-929
  
@@ -239,7 +239,9 @@ Nr. XII-2423, 2016-06-14, paskelbta TAR 2016-06-22, i. k. 2016-17408
 
 1. Seimo nutarime dėl referendumo paskelbimo nurodoma referendumo rūšis, vykdymo data, referendumui pateikiamo sprendimo tekstas. 
 
-2. Referendumo vykdymo data skiriama ne vėliau kaip po 3 mėnesių ir ne anksčiau kaip po 2 mėnesių nuo Seimo nutarimo dėl referendumo paskelbimo priėmimo dienos.
+2. Referendumo vykdymo data skiriama ne vėliau kaip po 8 mėnesių ir ne anksčiau kaip po 2 mėnesių nuo Seimo nutarimo dėl referendumo paskelbimo priėmimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1511, 2018-09-28, paskelbta TAR 2018-10-04, i. k. 2018-15809
  
 
 151 straipsnis. Referendumo ir rinkimų vykdymas tą pačią dieną arba praėjus ne daugiau kaip 45 dienoms po rinkimų 
@@ -1364,4 +1366,9 @@ Lietuvos Respublikos referendumo įstatymo Nr. IX-929 15-1 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2423, 2016-06-14, paskelbta TAR 2016-06-22, i. k. 2016-17408
 Lietuvos Respublikos referendumo įstatymo Nr. IX-929 10, 11 ir 13 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1511, 2018-09-28, paskelbta TAR 2018-10-04, i. k. 2018-15809
+Lietuvos Respublikos referendumo įstatymo Nr. IX-929 15 straipsnio pakeitimo įstatymas
 
