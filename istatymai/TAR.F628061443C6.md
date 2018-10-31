@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS PILIETYBĖS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2016-07-06 iki 2018-10-30
+Suvestinė redakcija nuo 2018-10-31 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 2010, Nr. 144-7361, i. k. 1101010ISTA0XI-1196
  
@@ -330,12 +330,18 @@ Nr. XII-2473, 2016-06-23, paskelbta TAR 2016-07-05, i. k. 2016-18828
 
 
 
-6) yra asmuo, kuriam nesukako 21 metai, jeigu jis yra įvaikintas Lietuvos Respublikos piliečių (piliečio) iki tol, kol jam sukako 18 metų, ir dėl to įgijęs Lietuvos Respublikos pilietybę pagal šio įstatymo17 straipsnio 1 dalį;
+6) yra asmuo, įvaikintas Lietuvos Respublikos piliečių (piliečio), iki jam sukako 18 metų, ir dėl to įgijęs Lietuvos Respublikos pilietybę pagal šio įstatymo 17 straipsnio 1 dalį; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
+ 
 
 
 
 
-7) yra asmuo, kuriam nesukako 21 metai, jeigu jį, Lietuvos Respublikos pilietį, iki kol jam sukako 18 metų, įvaikino kitos valstybės piliečiai (pilietis) ir dėl to jis įgijo kitos valstybės pilietybę;
+7) yra asmuo – Lietuvos Respublikos pilietis, jeigu jį, iki jam sukako 18 metų, įvaikino kitos valstybės piliečiai (pilietis) ir dėl to jis įgijo kitos valstybės pilietybę; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
+ 
 
 
 
@@ -848,7 +854,10 @@ Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
 
 
 
-4. Asmeniui, kuris Lietuvos Respublikos pilietybę įgijo gimdamas, kuriam Lietuvos Respublikos pilietybė buvo atkurta arba suteikta supaprastinta tvarka ir kuris po to jos neteko, Lietuvos Respublikos pilietybė gali būti grąžinta, jeigu jis nėra kitos valstybės pilietis. Šis reikalavimas netaikomas asmeniui, kuris pagal šio įstatymo  7 straipsnio 1–4 punktus gali būti kartu Lietuvos Respublikos ir kitos valstybės pilietis.
+4. Asmeniui, kuris Lietuvos Respublikos pilietybę įgijo gimdamas, kuriam Lietuvos Respublikos pilietybė buvo atkurta arba suteikta supaprastinta tvarka ir kuris po to jos neteko, Lietuvos Respublikos pilietybė gali būti grąžinta, jeigu jis nėra kitos valstybės pilietis. Šis reikalavimas netaikomas asmeniui, kuris pagal šio įstatymo  7 straipsnio 1, 2, 3, 4 ir 7 punktus gali būti kartu Lietuvos Respublikos ir kitos valstybės pilietis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
+ 
 
 
 
@@ -1031,9 +1040,10 @@ Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
 
 
 
-8) jeigu Lietuvos Respublikos pilietis, būdamas kartu ir kitos valstybės pilietis pagal šio įstatymo 7 straipsnio 6 ir 7 punktus, sukakus 21 metams nėra atsisakęs kitos valstybės (valstybių) pilietybės.
+8) neteko galios 2018-10-31.
 Straipsnio punkto pakeitimai:
 Nr. XII-2050, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18859
+Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
  
 
 
@@ -1284,7 +1294,10 @@ Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
 
 
 
-3) priima sprendimus dėl Lietuvos Respublikos pilietybės netekimo jos atsisakius, įgijus kitos valstybės pilietybę ar stojus į kitos valstybės tarnybą be Lietuvos Respublikos Vyriausybės leidimo, taip pat pagal šio įstatymo 24 straipsnio 8 punktą, 28 straipsnio 2 ir 4 dalis;
+3) priima sprendimus dėl Lietuvos Respublikos pilietybės netekimo jos atsisakius, įgijus kitos valstybės pilietybę ar stojus į kitos valstybės tarnybą be Lietuvos Respublikos Vyriausybės leidimo, taip pat pagal šio įstatymo 28 straipsnio 2 ir 4 dalis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
+ 
 
 
 
@@ -1320,7 +1333,10 @@ Lietuvos Respublikos Vyriausybės įgaliota institucija:
 
 
 
-3) nagrinėja klausimus ir dokumentus dėl Lietuvos Respublikos pilietybės netekimo jos atsisakius, įgijus kitos valstybės pilietybę ar stojus į kitos valstybės tarnybą be Lietuvos Respublikos Vyriausybės leidimo, taip pat pagal šio įstatymo 24 straipsnio 8 punktą, 28 straipsnio 2 ir 4 dalis ir teikia vidaus reikalų ministrui siūlymus – teikimus šiais klausimais;
+3) nagrinėja klausimus ir dokumentus dėl Lietuvos Respublikos pilietybės netekimo jos atsisakius, įgijus kitos valstybės pilietybę ar stojus į kitos valstybės tarnybą be Lietuvos Respublikos Vyriausybės leidimo, taip pat pagal šio įstatymo 28 straipsnio 2 ir 4 dalis, ir teikia vidaus reikalų ministrui siūlymus – teikimus šiais klausimais; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
+ 
 
 
 
@@ -1885,12 +1901,18 @@ Nr. XII-2210, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00364
 
 
 
-3) dokumentą, patvirtinantį, kad asmuo nėra kitos valstybės pilietis, išskyrus atvejus, kai pagal šio įstatymo 7 straipsnio 1–4 punktus asmuo gali būti kartu Lietuvos Respublikos ir kitos valstybės pilietis;
+3) dokumentą, patvirtinantį, kad asmuo nėra kitos valstybės pilietis, išskyrus atvejus, kai pagal šio įstatymo 7 straipsnio 1, 2, 3, 4 ir 7 punktus asmuo gali būti kartu Lietuvos Respublikos ir kitos valstybės pilietis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
+ 
 
 
 
 
-4) dokumentus, patvirtinančius, kad yra bent viena iš šio įstatymo 7 straipsnio 1–4 punktuose nurodytų sąlygų, jeigu asmuo yra kitos valstybės pilietis.
+4) dokumentus, patvirtinančius, kad yra bent viena iš šio įstatymo 7 straipsnio 1, 2, 3, 4 ir 7 punktuose nurodytų sąlygų, jeigu asmuo yra kitos valstybės pilietis. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
+ 
 
 
 
@@ -2122,3 +2144,8 @@ Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 2, 5, 7, 20, 21, 24, 26, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2473, 2016-06-23, paskelbta TAR 2016-07-05, i. k. 2016-18828
 Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 2 ir 7 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
+Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 7, 21, 24, 32, 33 ir 42 straipsnių pakeitimo įstatymas
