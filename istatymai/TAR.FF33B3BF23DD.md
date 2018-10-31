@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2018-08-01 iki 2018-10-30
+Suvestinė redakcija nuo 2018-10-31 iki 2018-10-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -514,7 +514,7 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-43. Neteko galios nuo 2013-06-01
+43. Neteko galios nuo 2013-06-01.
 
 
 
@@ -886,14 +886,15 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-83. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokslo ir studijų įstatyme bei Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme.
+83. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme ir 2015 m. spalio 2 d. Komisijos deleguotajame reglamente (ES) 2016/161, kuriuo nustatomos išsamios apsaugos priemonių ant žmonėms skirtų vaistų pakuotės naudojimo taisyklės ir taip papildoma Europos Parlamento ir Tarybos direktyva 2001/83/EB (toliau – Reglamentas (ES) 2016/161).
  
 TAR pastaba: 83 dalies redakcija po 6 mėnesių nuo Europos Komisijos pranešimo, kad 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 536/2014 dėl žmonėms skirtų vaistų klinikinių tyrimų, kuriuo panaikinama Direktyva 2001/20/EB (OL 2014 L 158, p. 1), 80 straipsnyje nurodytas Europos Sąjungos portalas ir šio reglamento 81 straipsnyje nurodyta Europos Sąjungos duomenų bazė visiškai atlieka savo funkciją ir atitinka šio reglamento 82 straipsnio 1 dalyje nurodytas specifikacijas (toliau – pranešimas), paskelbimo Europos Sąjungos oficialiajame leidinyje (toliau – paskelbimas) dienos:
-83. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos biomedicininių tyrimų etikos įstatyme ir Reglamente (ES) Nr. 536/2014.
+83. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos  Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos biomedicininių tyrimų etikos įstatyme, 2015 m. spalio 2 d. Komisijos deleguotajame reglamente (ES) 2016/161, kuriuo nustatomos išsamios apsaugos priemonių ant žmonėms skirtų vaistų pakuotės naudojimo taisyklės ir taip papildoma Europos Parlamento ir Tarybos direktyva 2001/83/EB (OL 2016 L 32, p. 1) (toliau – Reglamentas (ES) 2016/161), ir Reglamente (ES) Nr. 536/2014.
 Papildyta straipsnio dalimi:
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
 Straipsnio dalies pakeitimai:
 Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
 
 
@@ -1732,17 +1733,19 @@ Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
 
 
 
-9. Juridiniai asmenys, turintys asmens sveikatos priežiūros veiklos licencijas, vaistinius preparatus gali įsigyti tik iš juridinių asmenų, turinčių gamybos ar didmeninio platinimo licenciją, o kartinius vaistinius preparatus – iš vaistinės, kurios licencijoje nurodyta ekstemporaliųjų vaistinių preparatų gamyba. Šie juridiniai asmenys įsigytus vaistinius preparatus laiko ir įtraukia į apskaitą sveikatos apsaugos ministro nustatyta tvarka. 
+9. Juridiniai asmenys, turintys Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo nustatyta tvarka išduotą licenciją asmens sveikatos priežiūros veiklai ir (ar) Lietuvos Respublikos odontologų rūmų įstatymo nustatyta tvarka išduotą odontologinės priežiūros (pagalbos) įstaigos licenciją (toliau – asmens sveikatos priežiūros įstaigos), vaistinius preparatus gali įsigyti tik iš juridinių asmenų, turinčių gamybos ar didmeninio platinimo licenciją, o kartinius vaistinius preparatus – iš vaistinės, kurios licencijoje nurodyta ekstemporaliųjų vaistinių preparatų gamyba. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
 
 
 
 
-10. Juridiniai asmenys, neturintys asmens sveikatos priežiūros veiklos licencijos ar licencijos verstis farmacine veikla, išskyrus šio straipsnio 17 dalyje nurodytus asmenis, vaistinių preparatų gali įsigyti tik iš vaistinių. 
+10. Juridiniai asmenys, kurie neturi licencijos verstis farmacine veikla ar kurie nėra asmens sveikatos priežiūros įstaiga, išskyrus šio straipsnio 17 dalyje nurodytus asmenis, vaistinių preparatų gali įsigyti tik iš vaistinių. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
 
 
@@ -2500,6 +2503,14 @@ Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
 
 
 
+141. Vaistinio preparato registruotojas turi prisijungti prie Europos Sąjungos kaupyklų sistemos centrinio informacijos ir duomenų maršruto parinktuvo, nurodyto Reglamento (ES) 2016/161 32 straipsnio 1 dalies a punkte (toliau – centrinė sistemos kaupykla). 
+Papildyta straipsnio dalimi:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+ 
+
+
+
+
 15. Už šio įstatymo nustatytų vaistinio preparato registruotojo pareigų vykdymą atsako vaistinio preparato registruotojas; vaistinio preparato registruotojo atstovo paskyrimas neatleidžia teisės aktų nustatyta tvarka vaistinio preparato registruotojo nuo atsakomybės.
 
 
@@ -2702,7 +2713,15 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-6) vykdyti Valstybinės vaistų kontrolės tarnybos nurodymus, susijusius su lygiagrečiai importuojamu vaistiniu preparatu dėl lygiagretaus importo leidimo sąlygų keitimo ir lygiagrečiai importuojamo vaistinio preparato serijų atšaukimo iš rinkos. 
+6) vykdyti Valstybinės vaistų kontrolės tarnybos nurodymus, susijusius su lygiagrečiai importuojamu vaistiniu preparatu dėl lygiagretaus importo leidimo sąlygų keitimo ir lygiagrečiai importuojamo vaistinio preparato serijų atšaukimo iš rinkos; 
+
+
+
+
+7) prisijungti prie centrinės sistemos kaupyklos. 
+Papildyta straipsnio punktu:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+ 
 
 
 
@@ -4255,7 +4274,10 @@ Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
 
 
 
-6) vadovaudamasis atitinkamais Europos Sąjungos teisės aktais tikrinti vaistinių preparatų pakuočių apsaugos priemones, siekiant nustatyti, ar gauti vaistiniai preparatai nėra falsifikuoti;
+6) prisijungti prie Lietuvos nacionalinės kaupyklos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+ 
 
 
 
@@ -4280,9 +4302,10 @@ Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 
 
-9) tiekti vaistinius preparatus tik asmenims, kurie turi didmeninio platinimo, vaistinės veiklos ir (ar) asmens sveikatos priežiūros veiklos licencijas, ikiklinikinius tyrimus atliekantiems asmenims arba kitos EEE valstybės asmenims pagal tos valstybės teisės aktus; 
+9) tiekti vaistinius preparatus tik asmenims, kurie turi didmeninio platinimo, vaistinės veiklos licencijas, asmens sveikatos priežiūros įstaigoms, ikiklinikinius tyrimus atliekantiems asmenims arba kitos EEE valstybės asmenims pagal tos valstybės teisės aktus; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
 
 
@@ -4565,9 +4588,10 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-3. Visuomenės vaistinė – vaistinė, kurioje parduodami (išduodami) vaistiniai preparatai gyventojams ir juridiniams asmenims, neturintiems asmens sveikatos priežiūros veiklos licencijos ar farmacinės veiklos licencijos, vykdomi privalomi sveikatos apsaugos ministro įpareigojimai aprūpinant gyventojus vaistiniais preparatais ir atliekama studentų mokomoji ir profesinės veiklos praktika. Visuomenės vaistinė, kuri gamina ekstemporaliuosius vaistinius preparatus, sveikatos apsaugos ministro nustatyta tvarka parduoda (išduoda) juos gyventojams, o pagamintus kartinius vaistinius preparatus gali parduoti (išduoti) ir kitoms vaistinėms bei juridiniams asmenims, turintiems asmens sveikatos priežiūros veiklos licenciją. 
+3. Visuomenės vaistinė turi teisę parduoti (išduoti) vaistinius preparatus gyventojams ir juridiniams asmenims, kurie neturi farmacinės veiklos licencijos ar kurie nėra asmens sveikatos priežiūros įstaiga, išskyrus šio įstatymo 8 straipsnio 17 dalyje nurodytus asmenis, taip pat turi vykdyti privalomus sveikatos apsaugos ministro įpareigojimus aprūpinant gyventojus vaistiniais preparatais. Visuomenės vaistinėje gali būti atliekama studentų mokomoji ir profesinės veiklos praktika. Visuomenės vaistinė, kuri gamina ekstemporaliuosius vaistinius preparatus, sveikatos apsaugos ministro nustatyta tvarka parduoda (išduoda) juos gyventojams, o pagamintus kartinius vaistinius preparatus gali parduoti (išduoti) ir kitoms vaistinėms bei asmens sveikatos priežiūros įstaigoms. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
 
 
@@ -4799,10 +4823,11 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-5. Visuomenės vaistinė ir universiteto vaistinė, kurių licencijoje nurodyta ekstemporaliųjų vaistinių preparatų gamyba, gali parduoti (išduoti) kartinius vaistinius preparatus kitoms vaistinėms pagal vaistinei pateiktus receptus, juridiniams asmenims, turintiems asmens sveikatos priežiūros veiklos licencijas, – pagal vaistinei pateiktus užsakymus.
+5. Visuomenės vaistinė ir universiteto vaistinė, kurių licencijoje nurodyta ekstemporaliųjų vaistinių preparatų gamyba, gali parduoti (išduoti) kartinius vaistinius preparatus kitoms vaistinėms pagal vaistinei pateiktus receptus, asmens sveikatos priežiūros įstaigoms – pagal vaistinei pateiktus užsakymus. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
 
 
@@ -4940,7 +4965,18 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-10) tikrinti vaistinių preparatų pakuočių apsaugos priemones, nurodytas šio įstatymo 8 straipsnio 81 dalyje, siekiant nustatyti, ar gauti vaistiniai preparatai nėra falsifikuoti.
+10) prisijungti prie Lietuvos nacionalinės kaupyklos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+ 
+
+
+
+
+11) įtarus ar nustačius, kad gauti ar siūlomi įsigyti vaistiniai preparatai yra falsifikuoti, nedelsdamas, bet ne vėliau kaip kitą darbo dieną, apie tai informuoti Valstybinę vaistų kontrolės tarnybą ir vaistinio preparato, kuris yra falsifikuojamas arba įtariama, kad jis yra falsifikuojamas, registruotoją. 
+Papildyta straipsnio punktu:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+ 
 
 
 
@@ -5159,9 +5195,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-9. Skleisti farmacinę informaciją turi teisę vaistinio preparato registruotojas ir (ar) jo atstovas, asmuo, turintis farmacinės veiklos licenciją dirbti su vaistiniais preparatais, išduotą šio įstatymo nustatyta tvarka, juridinis asmuo, turintis asmens sveikatos priežiūros veiklos licenciją.
+9. Skleisti farmacinę informaciją turi teisę vaistinio preparato registruotojas ir (ar) jo atstovas, asmuo, turintis farmacinės veiklos licenciją dirbti su vaistiniais preparatais, išduotą šio įstatymo nustatyta tvarka, asmens sveikatos priežiūros įstaiga. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
 
 
@@ -6033,7 +6070,10 @@ Nr. XI-664, 2010-01-20, Žin., 2010, Nr. 13-624 (2010-02-02)
 
 
 
-3. Kompensuojamieji vaistiniai preparatai ir kompensuojamosios medicinos pagalbos priemonės vaistinei ir juridiniam asmeniui, turinčiam asmens sveikatos priežiūros veiklos licenciją, parduodami ne brangiau negu didmeninė kaina, kuri apskaičiuojama prie vaistinio preparato ar medicinos pagalbos priemonės tiekėjo Lietuvai taikomos vaistinio preparato ar medicinos pagalbos priemonės kainos pridedant ne didesnį negu sveikatos apsaugos ministro nustatytą didmeninės prekybos antkainį. 
+3. Kompensuojamieji vaistiniai preparatai ir kompensuojamosios medicinos pagalbos priemonės vaistinei ir asmens sveikatos priežiūros įstaigai parduodami ne brangiau kaip už didmeninę kainą, kuri apskaičiuojama prie vaistinio preparato ar medicinos pagalbos priemonės tiekėjo Lietuvai taikomos vaistinio preparato ar medicinos pagalbos priemonės kainos pridedant ne didesnį negu sveikatos apsaugos ministro nustatytą didmeninės prekybos antkainį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+ 
 
 
 
@@ -7799,6 +7839,14 @@ Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
  
 
 
+
+
+12. 2015 m. spalio 2 d. Komisijos deleguotasis reglamentas (ES) 2016/161, kuriuo nustatomos išsamios apsaugos priemonių ant žmonėms skirtų vaistų pakuotės naudojimo taisyklės ir taip papildoma Europos Parlamento ir Tarybos direktyva 2001/83/EB (OL 2016 L 32, p. 1). 
+Papildyta straipsnio dalimi:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+ 
+
+
 Priedo pakeitimai:
 Nr. XI-1383, 2011-05-19, Žin., 2011, Nr. 69-3291 (2011-06-07)
 Nr. XI-2376, 2012-11-06, Žin., 2012, Nr. 135-6865 (2012-11-22)
@@ -7806,7 +7854,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
  
  
-part_d51b9062fcd5410bab9f20647a9fd45a_end
+part_1a8fcafbf89e4d9ab2d76afe79dd697c_end
 
 
 Pakeitimai:
@@ -8006,3 +8054,23 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 19, 24, 25, 26, 27, 29
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1409, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11503
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 19, 24, 25, 26, 27, 29, 33, 61, 62, 64, 65 straipsnių ir priedo pakeitimo ir ketvirtojo skirsnio pripažinimo netekusiu galios įstatymo Nr. XIII-738 16 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1408, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11508
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 19, 33, 35, 35-1, 59-1, 68-1 straipsnių pakeitimo ir Įstatymo papildymo aštuntuoju-1 skirsniu įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1562, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17477
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 19, 24, 25, 26, 27, 29, 33, 61, 62, 64, 65 straipsnių ir priedo pakeitimo ir ketvirtojo skirsnio pripažinimo netekusiu galios įstatymo Nr. XIII-738 1 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1561, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17476
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 19, 33, 35, 35-1, 59-1, 68-1 straipsnių pakeitimo ir Įstatymo papildymo aštuntuoju-1 skirsniu įstatymo Nr. XIII-1408 2 ir 4 straipsnių pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 15, 17, 27, 33, 35, 36, 39, 48, 57 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 65-1 straipsniu įstatymas
