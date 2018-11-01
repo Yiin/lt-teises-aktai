@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2018-07-12 iki 2018-10-31
+Suvestinė redakcija nuo 2018-11-01 iki 2020-01-09
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -163,7 +163,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-11. Klientas – asmuo, atliekantis pinigines operacijas arba sudarantis sandorius su finansų įstaiga ar kitu įpareigotuoju subjektu, išskyrus valstybės ir savivaldybių institucijas, kitas biudžetines įstaigas, Lietuvos banką, valstybės ar savivaldybių fondus, užsienio valstybių diplomatines atstovybes ar konsulines įstaigas.
+11. Klientas – asmuo, atliekantis pinigines operacijas arba sudarantis sandorius su finansų įstaiga ar kitu įpareigotuoju subjektu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
+ 
 
 
 
@@ -273,7 +276,10 @@ e) kitas fizinis asmuo, faktiškai kontroliuojantis patikos struktūrą, turima 
 
 
 
-16. Piniginė operacija – bet koks pinigų mokėjimas, perdavimas ar gavimas, išskyrus įmokas valstybės ir savivaldybių institucijoms, kitoms biudžetinėms įstaigoms, Lietuvos bankui, valstybės ar savivaldybių fondams, užsienio valstybių diplomatinėms atstovybėms ar konsulinėms įstaigoms arba atsiskaitymą su šiais subjektais.
+16. Piniginė operacija – bet koks pinigų mokėjimas, perdavimas ar gavimas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
+ 
 
 
 
@@ -1470,7 +1476,10 @@ Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
 
 
 
-2) viešojo administravimo subjektams;
+2) valstybės ir savivaldybių institucijoms ir įstaigoms, Lietuvos bankui; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
+ 
 
 
 
@@ -1517,7 +1526,7 @@ Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
 
 
 
-2. Taikydami supaprastintą kliento tapatybės nustatymą, finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami kliento ir naudos gavėjo tapatybę, gali nukrypti nuo šio įstatymo 10 ir 12 straipsnių nuostatų ir privalo tik:
+2. Taikydami supaprastintą kliento tapatybės nustatymą, išskyrus šio straipsnio 3 dalyje nustatytą atvejį, finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami kliento ir naudos gavėjo tapatybę, gali nukrypti nuo šio įstatymo 10 ir 12 straipsnių nuostatų ir privalo tik:
 
 
 1) gauti šio įstatymo 10 straipsnio 1 dalies 1, 2 ir 3 punktuose ir 10 straipsnio 2 dalies 1, 2 ir 3 punktuose nurodytus duomenis;
@@ -1525,34 +1534,59 @@ Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
 
 
 
-2) užtikrinti, kad pirmasis kliento mokėjimas būtų atliekamas iš kredito įstaigoje turimos sąskaitos, kai kredito įstaiga yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingų institucijų prižiūrima dėl šių reikalavimų laikymosi.
+2) užtikrinti, kad pirmasis kliento mokėjimas būtų atliekamas iš kredito įstaigoje turimos sąskaitos, kai kredito įstaiga yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingų institucijų prižiūrima dėl šių reikalavimų laikymosi. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
+ 
 
 
 
 
-
-
-3. Atlikdami supaprastintą kliento tapatybės nustatymą Europos priežiūros institucijų ir Europos Komisijos nurodytais atvejais, finansų įstaigos ir kiti įpareigotieji subjektai pasirenka taikomas priemones, nurodytas Europos priežiūros institucijų ir Europos Komisijos dokumentuose, kuriuose šie atvejai yra įvardyti.
-
-
-
-
-4. Supaprastintas kliento tapatybės nustatymas gali būti atliekamas tik tada, kai atliekant arba atlikus supaprastintą kliento tapatybės nustatymą yra vykdoma kliento dalykinių santykių stebėsena ir yra galimybė nustatyti įtartinas pinigines operacijas ir sandorius. Ši nuostata netaikoma valstybinio socialinio draudimo įmokos dalies kaupimo pensijų fondų klientams.
+3. Taikydami supaprastintą kliento tapatybės nustatymą valstybės ir savivaldybių institucijoms ir įstaigoms, Lietuvos bankui, finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami kliento ir naudos gavėjo tapatybę, gali nukrypti nuo šio įstatymo 10 ir 12 straipsnių nuostatų ir privalo tik gauti šio įstatymo 10 straipsnio 1 dalies 1, 2 ir 3 punktuose ir 10 straipsnio 2 dalies 1, 2 ir 3 punktuose nurodytus duomenis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
+ 
 
 
 
 
-5. Draudžiama atlikti supaprastintą kliento tapatybės nustatymą, jeigu dėl to yra priimtas atskiras Europos Komisijos sprendimas arba tam nepritaria Europos priežiūros institucijos.
+4. Atlikdami supaprastintą kliento tapatybės nustatymą Europos priežiūros institucijų ir Europos Komisijos nurodytais atvejais, finansų įstaigos ir kiti įpareigotieji subjektai pasirenka taikomas priemones, nurodytas Europos priežiūros institucijų ir Europos Komisijos dokumentuose, kuriuose šie atvejai yra įvardyti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
+ 
 
 
 
 
-6. Supaprastintas kliento tapatybės nustatymas negalimas, jeigu yra šio įstatymo 14 straipsnyje nurodytos aplinkybės, kai būtina atlikti sustiprintą kliento tapatybės nustatymą. Ši nuostata netaikoma valstybinio socialinio draudimo įmokos dalies kaupimo pensijų fondų klientams.
+5. Supaprastintas kliento tapatybės nustatymas gali būti atliekamas tik tada, kai atliekant arba atlikus supaprastintą kliento tapatybės nustatymą yra vykdoma kliento dalykinių santykių stebėsena ir yra galimybė nustatyti įtartinas pinigines operacijas ir sandorius. Ši nuostata netaikoma valstybinio socialinio draudimo įmokos dalies kaupimo pensijų fondų klientams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
+ 
 
 
 
 
-7. Jeigu vykdant nuolatinę kliento dalykinių santykių stebėseną nustatoma, kad pinigų plovimo ir (ar) teroristų finansavimo rizika nebėra maža, finansų įstaigos ir kiti įpareigotieji subjektai privalo imtis šio įstatymo 9 straipsnyje nustatytų priemonių ir nustatyti bei patikrinti ir kliento, ir naudos gavėjo tapatybę.
+6. Draudžiama atlikti supaprastintą kliento tapatybės nustatymą, jeigu dėl to yra priimtas atskiras Europos Komisijos sprendimas arba tam nepritaria Europos priežiūros institucijos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
+ 
+
+
+
+
+7. Supaprastintas kliento tapatybės nustatymas negalimas, jeigu yra šio įstatymo 14 straipsnyje nurodytos aplinkybės, kai būtina atlikti sustiprintą kliento tapatybės nustatymą. Ši nuostata netaikoma valstybinio socialinio draudimo įmokos dalies kaupimo pensijų fondų klientams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
+ 
+
+
+
+
+8. Jeigu vykdant nuolatinę kliento dalykinių santykių stebėseną nustatoma, kad pinigų plovimo ir (ar) teroristų finansavimo rizika nebėra maža, finansų įstaigos ir kiti įpareigotieji subjektai privalo imtis šio įstatymo 9 straipsnyje nustatytų priemonių ir nustatyti bei patikrinti ir kliento, ir naudos gavėjo tapatybę.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
  
 
 
@@ -2053,7 +2087,6 @@ Jeigu klientas vengia arba atsisako finansų įstaigai ar kitam įpareigotajam s
 
 4. Duomenų subjektas, kurio asmens duomenys tvarkomi pinigų plovimo ir (ar) teroristų finansavimo prevencijos tikslais, neturi teisės susipažinti su šio įstatymo pagrindais Finansinių nusikaltimų tyrimo tarnybai arba kitai priežiūros institucijai pateiktais jo asmens duomenimis. 
  
- 
 
 
 
@@ -2063,21 +2096,24 @@ Jeigu klientas vengia arba atsisako finansų įstaigai ar kitam įpareigotajam s
 25 straipsnis. Reikalavimai juridiniams asmenims ir asmenims, susijusiems su patikos ar bendrovių paslaugų teikėjais ir nekilnojamojo turto agentais
 
 
-1. Visi Lietuvos Respublikoje įsteigti juridiniai asmenys, išskyrus juridinius asmenis, kurių vienintelis dalyvis yra valstybė ar savivaldybė, privalo gauti, atnaujinti ir saugoti tikslią informaciją apie savo naudos gavėjus – naudos gavėjo vardą, pavardę, gimimo datą, asmens kodą, valstybę, kuri išdavė asmens tapatybę patvirtinantį dokumentą, gyvenamąją vietą, jo turimas nuosavybės teises ir apimtį (akcijų skaičių procentais, balsavimo teisių skaičių procentais) arba kitokios kontrolės teises (valdybos pirmininkas, valdybos narys, vadovas, vyresnysis vadovas, kitos pareigos, perleistų balsavimo teisių skaičius procentais), ir šią informaciją ne vėliau kaip per 10 dienų nuo duomenų pasikeitimo pateikti Juridinių asmenų dalyvių informacinės sistemos (JADIS) tvarkytojui šios informacinės sistemos nuostatuose nustatyta tvarka. Jeigu valstybė ar savivaldybė yra vienas iš juridinio asmens dalyvių, šioje dalyje nurodyta informacija Juridinių asmenų dalyvių informacinės sistemos (JADIS) tvarkytojui teikiama tik apie kitus to juridinio asmens naudos gavėjus.
-TAR pastaba. 25 straipsnio 1 dalis įsigalioja 2019 m. sausio 1 d. 25 straipsnio 1 dalyje nurodyta informacija apie naudos gavėjus Juridinių asmenų dalyvių informacinės sistemos (JADIS) tvarkytojui turi būti pateikta iki 2019 m. liepos 1 d.
+1. Visi Lietuvos Respublikoje įsteigti juridiniai asmenys, išskyrus juridinius asmenis, kurių vienintelis dalyvis yra valstybė ar savivaldybė, privalo gauti, atnaujinti ir saugoti tikslią informaciją apie savo naudos gavėjus – naudos gavėjo vardą, pavardę, gimimo datą, asmens kodą, valstybę, kuri išdavė asmens tapatybę patvirtinantį dokumentą, gyvenamąją vietą, jo turimas nuosavybės teises ir apimtį (akcijų skaičių procentais, balsavimo teisių skaičių procentais) arba kitokios kontrolės teises (valdybos pirmininkas, valdybos narys, vadovas, vyresnysis vadovas, kitos pareigos, perleistų balsavimo teisių skaičius procentais), ir šią informaciją ne vėliau kaip per 10 dienų nuo duomenų pasikeitimo pateikti Juridinių asmenų dalyvių informacinės sistemos (JADIS) tvarkytojui Juridinių asmenų dalyvių informacinės sistemos (JADIS) nuostatuose nustatyta tvarka. Jeigu valstybė ar savivaldybė yra vienas iš juridinio asmens dalyvių, šioje dalyje nurodyta informacija Juridinių asmenų dalyvių informacinės sistemos (JADIS) tvarkytojui teikiama tik apie kitus to juridinio asmens naudos gavėjus.
+TAR pastaba. 25 straipsnio 1 dalis įsigalioja 2019-01-01.
 
 
 
 
-2. Asmuo negali būti patikos ar bendrovių paslaugų teikėjo, nekilnojamojo turto agento – juridinio asmens – naudos gavėjas, taip pat tokio juridinio asmens valdymo ar priežiūros organo narys, jeigu yra pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams ir turi neišnykusį ar nepanaikintą teistumą.
+2. Juridinis asmuo, pradėjęs vykdyti patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjo veiklą ar ją nutraukęs, ne vėliau kaip per 5 darbo dienas nuo veiklos pradžios ar pabaigos privalo informuoti Juridinių asmenų registro tvarkytoją apie patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjo veiklos vykdymą ar tokios veiklos vykdymo pabaigą. Fizinis asmuo, pradėjęs vykdyti patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjo veiklą ar ją nutraukęs, ne vėliau kaip per 5 darbo dienas nuo veiklos pradžios ar pabaigos privalo informuoti Valstybinę mokesčių inspekciją apie patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjo veiklos vykdymą ar tokios veiklos vykdymo pabaigą. Pateikdamas šią informaciją, patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjas patvirtina, kad jis pats ar jo valdymo ar priežiūros organų nariai ir naudos gavėjai yra susipažinę su pinigų plovimą ir teroristų finansavimo prevenciją reglamentuojančiais teisės aktais ir atitinka jų reikalavimus. 
+TAR pastaba. Asmenys, iki įstatymo Nr. XIII-1440 įsigaliojimo (2018-11-01) pradėję vykdyti ir po šio įstatymo įsigaliojimo toliau vykdantys patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjų veiklą, ne vėliau kaip per 4 mėnesius nuo šio įstatymo įsigaliojimo pateikia Juridinių asmenų registro tvarkytojui ar Valstybinei mokesčių inspekcijai Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 25 straipsnio 2 dalyje nurodytą informaciją.
 
 
 
 
-3. Šio straipsnio 2 dalyje nurodyta informacija tikrinama teisės aktų nustatyta tvarka registruojant nurodytų veiklų rūšis. 
+3. Patikos ar bendrovių steigimo, ar administravimo paslaugų teikėju, nekilnojamojo turto agentu, juridinio asmens, kuris vykdo patikos ar bendrovių steigimo, ar administravimo paslaugų teikėjo, nekilnojamojo turto agento veiklą, valdymo ar priežiūros organų nariu arba tokių asmenų naudos gavėju negali būti fizinis asmuo, kuris yra pripažintas kaltu dėl sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams ir turi neišnykusį ar nepanaikintą teistumą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
  
-
-
 
 
 
@@ -3511,3 +3547,8 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
 Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2 ir 14 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 15 ir 25 straipsnių pakeitimo įstatymas
