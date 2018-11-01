@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f2935870d06011e7910a89ac20768b0f"
 
 # Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 19, 24, 25, 26, 27, 29, 33, 61, 62, 64, 65 straipsnių ir priedo pakeitimo ir ketvirtojo skirsnio pripažinimo netekusiu galios įstatymas
 
-Suvestinė redakcija nuo 2018-08-01 iki 2018-10-31
+Suvestinė redakcija nuo 2018-11-01
  
 Įstatymas paskelbtas: TAR 2017-11-23, i. k. 2017-18510
  
@@ -222,13 +222,14 @@ Vilnius
 
 
 
-„83. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos biomedicininių tyrimų etikos įstatyme ir Reglamente (ES) Nr. 536/2014.“
+„83. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos  Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos biomedicininių tyrimų etikos įstatyme, 2015 m. spalio 2 d. Komisijos deleguotajame reglamente (ES) 2016/161, kuriuo nustatomos išsamios apsaugos priemonių ant žmonėms skirtų vaistų pakuotės naudojimo taisyklės ir taip papildoma Europos Parlamento ir Tarybos direktyva 2001/83/EB (OL 2016 L 32, p. 1) (toliau – Reglamentas (ES) 2016/161), ir Reglamente (ES) Nr. 536/2014.“ 
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1562, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17477
  
- 
-
-
-
-
 
 
 
@@ -837,3 +838,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1409, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11503
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 19, 24, 25, 26, 27, 29, 33, 61, 62, 64, 65 straipsnių ir priedo pakeitimo ir ketvirtojo skirsnio pripažinimo netekusiu galios įstatymo Nr. XIII-738 16 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1562, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17477
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 19, 24, 25, 26, 27, 29, 33, 61, 62, 64, 65 straipsnių ir priedo pakeitimo ir ketvirtojo skirsnio pripažinimo netekusiu galios įstatymo Nr. XIII-738 1 straipsnio pakeitimo įstatymas
