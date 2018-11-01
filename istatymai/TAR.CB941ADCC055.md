@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2018-07-05 iki 2018-12-31
+Suvestinė redakcija nuo 2018-11-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
  
@@ -471,7 +471,10 @@ Nr. X-1510, 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
 1. Aplinkos apsaugos valstybinės kontrolės pareigūnai turi šias teises ir pareigas:
 
 
-1) pateikę tarnybinį pažymėjimą, netrukdomi patekti (įeiti, įvažiuoti) į visų įmonių, įstaigų, organizacijų, ūkių, karinių dalinių, pasienio ruožo bei privačias teritorijas ir jose esančius objektus (statinius, įrenginius, patalpas ir kt.), kitus ūkinės veiklos objektus ir tikrinti, ar juose laikomasi aplinkos apsaugą, gamtos išteklių naudojimą ir atkūrimą reglamentuojančių įstatymų ir kitų teisės aktų reikalavimų, atlikti kontrolinius tyrimus ir matavimus, neatlygintinai gauti cheminių medžiagų ir preparatų pavyzdžius tyrimams, jų sudėčiai bei savybėms ištirti ar bandymams atlikti, taip pat įstatymų nustatyta tvarka gauti informaciją bei duomenis, kurie yra valstybės ar tarnybos, komercinė ar pramoninė paslaptis, cheminių medžiagų ir preparatų kontrolei atlikti;
+1) pateikę tarnybinį pažymėjimą, netrukdomi patekti (įeiti, įvažiuoti) į visų įmonių, įstaigų, organizacijų, ūkių, karinių dalinių, pasienio ruožo bei privačias teritorijas ir jose esančius objektus (statinius, įrenginius, patalpas ir kt.), kitus ūkinės veiklos objektus ir tikrinti, ar juose laikomasi aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų reikalavimų, atlikti kontrolinius tyrimus ir matavimus, fiksuoti patikrinimą garso ir (ar) vaizdo fiksavimo priemonėmis, neatlygintinai gauti cheminių medžiagų ir preparatų pavyzdžius tyrimams, jų sudėčiai bei savybėms ištirti ar bandymams atlikti, taip pat įstatymų nustatyta tvarka gauti informaciją bei duomenis, kurie yra valstybės ar tarnybos, komercinė ar pramoninė paslaptis, cheminių medžiagų ir preparatų kontrolei atlikti, aplinkos ministro nustatyta tvarka ne ilgiau kaip 20 darbo dienų (aplinkos apsaugos valstybinę kontrolę vykdančios institucijos vadovo ar jo įgalioto asmens sprendimu šis terminas gali būti pratęstas ne daugiau kaip 20 darbo dienų) paimti dokumentus ar patvirtintas jų kopijas ir daiktus, reikalingus patikrinimui atlikti, jeigu šių dokumentų ar daiktų paėmimo nereglamentuoja Lietuvos Respublikos mokesčių administravimo įstatymas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
+ 
 
 
 
@@ -555,7 +558,10 @@ Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
 
 
 
-16) išaiškinę aplinkos apsaugą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, kuriuo aplinkai buvo padaryta žala, privalo per 30 dienų pasiūlyti pažeidėjui gera valia atlyginti žalą. Jei pažeidėjas per aplinkos apsaugos valstybinės kontrolės pareigūno nurodytą terminą savanoriškai žalos neatlygina arba ją atlygina nevisiškai, aplinkos apsaugos valstybinės kontrolės pareigūnas ne vėliau kaip per 30 dienų nuo šio termino pabaigos privalo pareikšti ieškinį teisme dėl padarytos aplinkai žalos atlyginimo. 
+16) nustačius aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, kuriuo aplinkai buvo padaryta žala, ir apskaičiavus padarytą žalą aplinkai, išskyrus atvejus, kai padarytas reikšmingas neigiamas poveikis aplinkai, dėl kurio turi būti taikomas aplinkos būklės atkūrimas iki pirminės būklės, privalo aplinkos ministro nustatyta tvarka pasiūlyti pažeidėjui gera valia atlyginti žalą ir kitus susijusius nuostolius. Jeigu pažeidėjas per aplinkos apsaugos valstybinės kontrolės pareigūno nurodytą terminą savanoriškai žalos ir kitų susijusių nuostolių neatlygina, aplinkos apsaugos valstybinės kontrolės pareigūnas aplinkos ministro nustatyta tvarka privalo pateikti ieškinį teisme dėl padarytos aplinkai žalos ir kitų susijusių nuostolių atlyginimo;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
+ 
 
 
 
@@ -568,6 +574,22 @@ Nr. XII-2374, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14182
 18) įstatymų nustatyta tvarka nagrinėti bylas dėl ekonominių sankcijų skyrimo ir skirti ekonomines sankcijas;
 Papildyta straipsnio punktu:
 Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
+ 
+
+
+
+
+19) pasitelkti nešališkus ekspertus ar specialistus, turinčius reikiamų specialių žinių ar patirties, dalyvauti patikrinime ir (ar) vertinti patikrinimo duomenis, kai reikalingos specialios žinios ar patirtis; 
+Papildyta straipsnio punktu:
+Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
+ 
+
+
+
+
+20) Vyriausybės nustatyta tvarka specialiosiomis techninėmis priemonėmis, kurių metrologinė patikra atlikta, tikrinti medžioklėje dalyvaujančių medžiotojų blaivumą. 
+Papildyta straipsnio punktu:
+Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
  
 
 
@@ -611,7 +633,10 @@ Nr. XII-2298, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10402
 
 
 
-8. Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę ne darbo metu aplinkos ministro nustatyta tvarka būti pasirengęs bet kuriuo metu pradėti vykdyti aplinkos apsaugos valstybinę kontrolę. Pareigūnas, būdamas pasirengęs priimti pranešimus ir pradėti vykdyti aplinkos apsaugos valstybinę kontrolę bet kuriuo laiku ne darbo metu, privalo priimti pranešimus, susijusius su aplinkos apsaugos įstatymų pažeidimais. Laikas, kada pareigūnas yra pasirengęs priimti pranešimus ir pradėti vykdyti aplinkos apsaugos valstybinę kontrolę ne darbo metu, neįskaitomas į pareigūno darbo laiką ir už tai jam mokama 10 proc. pareiginės algos dydžio kompensacija.
+8. Aplinkos apsaugos valstybinės kontrolės pareigūnas turi teisę ne darbo metu aplinkos ministro nustatyta tvarka būti pasirengęs bet kuriuo metu pradėti vykdyti aplinkos apsaugos valstybinę kontrolę (pasyvusis budėjimas namie). Pareigūnas, būdamas pasirengęs priimti pranešimus ir pradėti vykdyti aplinkos apsaugos valstybinę kontrolę bet kuriuo laiku ne darbo metu, privalo priimti pranešimus, susijusius su aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimais.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
+ 
 
 
 
@@ -764,7 +789,7 @@ Nr. XI-1463, 2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
 Tikrindamas fizinio asmens veiklą, aplinkos apsaugos valstybinės kontrolės pareigūnas privalo:
 
 
-1) prisistatyti asmeniui, kurio veikla tikrinama, pateikti savo galias patvirtinantį dokumentą ir nurodyti patikrinimo priežastį;
+1) prisistatyti asmeniui, kurio veikla tikrinama, parodyti savo galias patvirtinantį dokumentą, nurodyti patikrinimo priežastį;
 
 
 
@@ -774,17 +799,17 @@ Tikrindamas fizinio asmens veiklą, aplinkos apsaugos valstybinės kontrolės pa
 
 
 
-3) nustatęs pažeidimą, trumpai nurodyti pažeidėjui pažeidimo esmę, pareigą nutraukti pažeidimą;
+3) nustatęs pažeidimą, trumpai nurodyti pažeidėjui pažeidimo esmę ir pareigą nutraukti pažeidimą;
 
 
 
 
-4) jei reikia, įstatymų ir kitų teisės aktų nustatyta tvarka bei atvejais surašyti protokolą, aktą ar kitą dokumentą, fiksuojantį pažeidimą ar patį patikrinimo faktą, bei pateikti asmeniui, kurio veikla tikrinama, su juo susipažinti ir jį pasirašyti (tais atvejais, kai tikrindamas fizinio asmens veiklą aplinkos apsaugos valstybinės kontrolės pareigūnas surašo patikrinimo aktą ir šį patikrinimo aktą fizinis asmuo atsisako pasirašyti arba šis patikrinimo aktas surašomas jam nedalyvaujant, aplinkos apsaugos valstybinės kontrolės pareigūnas patikrinimo aktą privalo registruotu laišku išsiųsti fiziniam asmeniui, kurio veikla tikrinta);
+4) atlikęs patikrinimą, jei reikia, surašyti patikrinimą įforminantį dokumentą;
 
 
 
 
-5) asmens, kurio veikla tikrinama, prašymu išklausyti ir, jei reikia, užrašyti jo skundus, pareiškimus arba, jei jie pateikiami raštu, juos priimti ir perduoti savo tiesioginiam vadovui.
+5) asmens, kurio veikla tikrinama, prašymu išklausyti ir, jei reikia, užrašyti jo paaiškinimus arba, jeigu jie pateikiami raštu, juos priimti ir pridėti prie patikrinimo medžiagos.
 
 
 
@@ -792,6 +817,8 @@ Tikrindamas fizinio asmens veiklą, aplinkos apsaugos valstybinės kontrolės pa
 Straipsnio pakeitimai:
 Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 Nr. XI-1463, 2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
+Straipsnio pakeitimai:
+Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
  
 
 
@@ -803,12 +830,12 @@ Nr. XI-1463, 2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
 Tikrindamas juridinių asmenų veiklą, aplinkos apsaugos valstybinės kontrolės pareigūnas privalo:
 
 
-1) prisistatyti juridinio asmens savininkui, vadovui ar jų įgaliotam atstovui (toliau – juridinio asmens atstovui) ir pateikti galias patvirtinantį dokumentą, paaiškinti patikrinimo tikslą;
+1) prisistatyti juridinio asmens savininkui, vadovui ar jų įgaliotam atstovui (toliau – juridinio asmens atstovas) ir parodyti savo galias patvirtinantį dokumentą, nurodyti patikrinimo priežastį; 
 
 
 
 
-2) paaiškinti juridinio asmens atstovui jo teisę dalyvauti patikrinime, pateikti su patikrinimu susijusius prašymus ir pasiūlymus; 
+2) paaiškinti juridinio asmens atstovui jo teisę dalyvauti patikrinime, jo prašymu pateikti papildomą informaciją, tiesiogiai susijusią su patikrinimu; 
 
 
 
@@ -818,12 +845,12 @@ Tikrindamas juridinių asmenų veiklą, aplinkos apsaugos valstybinės kontrolė
 
 
 
-4) atlikęs patikrinimą – surašyti patikrinimo aktą. Jis surašomas dviem egzemplioriais. Patikrinimo akte turi būti nurodomas patikrinimą atlikusio aplinkos apsaugos valstybinės kontrolės pareigūno vardas, pavardė, ir pareigos, tarnybos vieta, patikrinimo data, patikrinimo priežastys, patikrinimo metu nustatyti pažeidimai. Patikrinimo aktą pasirašo patikrinimą atlikęs pareigūnas bei juridinio asmens atstovas. Patikrinimą atlikęs aplinkos apsaugos valstybinės kontrolės pareigūnas vieną patikrinimo akto egzempliorių perduoda juridinio asmens atstovui, kitą ne vėliau kaip per 3 darbo dienas užregistruoja patikrinimų žurnale. Tokiais atvejais, kai juridinio asmens atstovas patikrinime nedalyvauja dėl to, kad negalima jo rasti, arba vengia dalyvauti patikrinime, turi dalyvauti liudytojas ir apie tai įrašoma patikrinimo akte. Patikrinimo aktas paštu išsiunčiamas juridiniam asmeniui arba pasirašytinai perduodamas jo atstovui;
+4) atlikęs patikrinimą surašyti patikrinimą įforminantį dokumentą. Jeigu juridinio asmens atstovas patikrinime nedalyvauja dėl to, kad negalima jo rasti, arba vengia dalyvauti patikrinime, patikrinime turi dalyvauti liudytojas ir apie tai įrašoma patikrinimą įforminančiame dokumente;
 
 
 
 
-5) tikrinamo juridinio asmens atstovo prašymus, paaiškinimus aplinkos apsaugos valstybinės kontrolės pareigūnas privalo įrašyti į patikrinimo aktą ir jį pateikti savo tiesioginiam vadovui.
+5) juridinio asmens, kurio veikla tikrinama, atstovo prašymu išklausyti ir, jei reikia, užrašyti jo paaiškinimus arba, jeigu jie pateikiami raštu, priimti tikrinamo juridinio asmens atstovo raštu pateiktus paaiškinimus ir juos pridėti prie patikrinimo medžiagos.
 
 
 
@@ -831,6 +858,26 @@ Tikrindamas juridinių asmenų veiklą, aplinkos apsaugos valstybinės kontrolė
 Straipsnio pakeitimai:
 Nr. XI-1463, 2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
 Nr. XII-884, 2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
+Straipsnio pakeitimai:
+Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
+ 
+
+
+
+
+161 straipsnis. Patikrinimą įforminančio dokumento surašymas ir įteikimas
+
+
+1. Patikrinimą įforminančių dokumentų formas ir jų pildymo reikalavimus tvirtina aplinkos ministras. Patikrinimą įforminantį dokumentą privalo pasirašyti patikrinimą atlikęs pareigūnas.
+
+
+
+
+2. Surašius patikrinimą įforminantį dokumentą, jo antrasis egzempliorius pasirašytinai įteikiamas patikrintam fiziniam asmeniui ar jo atstovui arba patikrinto juridinio asmens atstovui. Kai patikrinimą įforminantis dokumentas surašomas ne tikrinamo fizinio asmens ar juridinio asmens veiklos vietoje, kai nėra galimybės fiziniam asmeniui ar jo atstovui arba juridinio asmens atstovui pasirašytinai įteikti surašyto patikrinimą įforminančio dokumento arba kai šie asmenys atsisako jį pasirašyti, patikrinimą įforminančio dokumento antrasis egzempliorius ne vėliau kaip kitą darbo dieną nuo jo surašymo išsiunčiamas šiems asmenims registruotu laišku (fizinio asmens deklaruotos gyvenamosios vietos adresu ar kitu jo nurodytu dokumentų įteikimo adresu, jeigu fizinio asmens deklaruotos gyvenamosios vietos adresas ar kitas dokumentų įteikimo adresas nežinomas, – darbdavio  registruotos buveinės adresu, Juridinių asmenų registre nurodytos juridinio asmens buveinės adresu). 
+
+
+Papildyta straipsniu:
+Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
  
 
 
@@ -906,7 +953,7 @@ Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 
 
 
-20 straipsnis. Privalomojo nurodymo turinys
+20 straipsnis. Privalomojo nurodymo turinys ir privalomojo nurodymo įteikimas
 
 
 1. Privalomajame nurodyme turi būti šie duomenys:
@@ -922,12 +969,12 @@ Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 
 
 
-3) kam duodamas privalomasis nurodymas – juridinio asmens pavadinimas, adresas. Jei privalomasis nurodymas duodamas fiziniam asmeniui – jo vardas, pavardė, asmens kodas, gyvenamoji vieta;
+3) kam duodamas privalomasis nurodymas – juridinio asmens pavadinimas, adresas. Jeigu privalomasis nurodymas duodamas fiziniam asmeniui, – jo vardas, pavardė, asmens kodas, gyvenamoji vieta;
 
 
 
 
-4) kokius pažeidimus ar jų pasekmes arba veiksnius, sudarančius sąlygas aplinkos apsaugos įstatymų ir kitų teisės aktų pažeidimams ar žalai aplinkai atsirasti, turi pašalinti asmuo, kuriam duodamas privalomasis nurodymas, arba kokias aplinkos atkūrimo priemones turi įgyvendinti asmuo, kuriam duodamas privalomasis nurodymas, ir per kokius terminus jis tai turi padaryti;
+4) kokius pažeidimus ar jų pasekmes arba veiksnius, sudarančius sąlygas aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimams ar žalai aplinkai atsirasti, turi pašalinti asmuo, kuriam duodamas privalomasis nurodymas, arba kokias aplinkos atkūrimo priemones turi įgyvendinti asmuo, kuriam duodamas privalomasis nurodymas, ir per kokius terminus jis tai turi padaryti;
 
 
 
@@ -939,11 +986,13 @@ Nr. IX-2075, 2004-03-23, Žin., 2004, Nr. 50-1636 (2004-04-06)
 
 
 
-2. Privalomasis nurodymas pateikiamas pasirašyti ir įteikiamas juridinio asmens atstovui ar fiziniam asmeniui, kuriam šis nurodymas duodamas. Jeigu juridinio asmens atstovas ar fizinis asmuo atsisako pasirašyti, tai įrašoma privalomajame nurodyme ir šis išsiunčiamas jiems registruotu laišku. 
+2. Privalomojo nurodymo antrasis egzempliorius pasirašytinai įteikiamas fiziniam asmeniui, kuriam šis nurodymas duodamas, ar jo atstovui arba juridinio asmens, kuriam šis nurodymas duodamas, atstovui. Kai nėra galimybės fiziniam asmeniui ar jo atstovui arba juridinio asmens atstovui pasirašytinai įteikti privalomojo nurodymo arba šie asmenys atsisako jį pasirašyti, privalomojo nurodymo antrasis egzempliorius ne vėliau kaip kitą darbo dieną nuo jo surašymo išsiunčiamas šiems asmenims registruotu laišku (fizinio asmens deklaruotos gyvenamosios vietos adresu ar kitu jo nurodytu dokumentų įteikimo adresu, jeigu fizinio asmens deklaruotos gyvenamosios vietos adresas ar kitas dokumentų įteikimo adresas nežinomas, – darbdavio registruotos buveinės adresu, Juridinių asmenų registre nurodytos juridinio asmens buveinės adresu).
 
 
 Straipsnio pakeitimai:
 Nr. X-648, 2006-06-08, Žin., 2006, Nr. 72-2667 (2006-06-28)
+Straipsnio pakeitimai:
+Nr. XIII-1322, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11316
  
 
 
