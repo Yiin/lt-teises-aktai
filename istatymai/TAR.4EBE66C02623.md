@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-10-31
+Suvestinė redakcija nuo 2018-11-01 iki 2018-12-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -3739,92 +3739,96 @@ užtraukia baudą nuo penkių šimtų šešiasdešimt iki devynių šimtų eurų
 
 
 
-130 straipsnis. Saugos tarnybų ar saugos padalinių padarytas asmens ir turto saugos teisės aktų pažeidimas
+130 straipsnis. Apsaugininkų ar apsaugos tarnybų padarytas asmens ir turto apsaugos teisės aktų pažeidimas
 
 
-1. Viešosios tvarkos palaikymas viešajame masiniame renginyje, vykstančiame masinio susibūrimo vietoje, nustatyta tvarka nesuderinus su teritorine policijos įstaiga viešosios tvarkos palaikymo plano
-užtraukia baudą saugos tarnybų ar saugos padalinių vadovams nuo trisdešimt iki šešiasdešimt eurų.
-
-
-
-
-2. Saugos tarnybų ir saugos padalinių padaryti asmens ir turto saugos teisės aktų pažeidimai, išskyrus šiame kodekse nurodytuosius,
-užtraukia baudą saugos tarnybų ar saugos padalinių vadovams nuo trisdešimt iki šešiasdešimt eurų. 
+1. Apsaugininkų ar apsaugos tarnybų padaryti asmens ir turto apsaugos teisės aktų pažeidimai, išskyrus šiame kodekse nurodytuosius,
+užtraukia baudą apsaugininkams ar apsaugos tarnybų vadovams nuo trisdešimt iki šešiasdešimt eurų. 
 
 
 
 
-3. Ataskaitos apie praėjusiais kalendoriniais metais vykdytą asmens ir turto saugą nepateikimas teritorinei policijos įstaigai arba šios ataskaitos pateikimas pažeidžiant nustatytą tvarką 
-užtraukia baudą saugos tarnybų ar saugos padalinių vadovams nuo trisdešimt iki šešiasdešimt eurų.
+2. Nepranešimas Lietuvos Respublikos Vyriausybės įgaliotai institucijai, atliekančiai asmens ir turto apsaugos priežiūrą, apie priimtą į darbą ar atleistą iš darbo apsaugos darbuotoją ar apsaugos darbuotoją stažuotoją arba informavimas apie tai pažeidžiant nustatytą tvarką
+užtraukia baudą apsaugininkams ar apsaugos tarnybų vadovams nuo šešiasdešimt iki devyniasdešimt eurų.
 
 
 
 
-4. Nepranešimas teritorinei policijos įstaigai apie jos prižiūrimoje teritorijoje pradėtą vykdyti asmens ir turto saugą arba informavimas pažeidžiant nustatytą tvarką
-užtraukia baudą saugos tarnybų ar saugos padalinių vadovams nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
+3. Asmens ir turto apsaugos vykdymas neturint nustatyta tvarka išduoto apsaugos darbuotojo pažymėjimo arba darbo pažymėjimo, kai asmens ir turto apsaugą vykdo apsaugos darbuotojas stažuotojas,
+užtraukia baudą apsaugininkams ar apsaugos tarnybų vadovams nuo šešiasdešimt iki devyniasdešimt eurų.
 
 
 
 
-5. Asmens ir turto saugos vykdymas neturint nustatyta tvarka išduotų apsaugos darbuotojų pažymėjimų
-užtraukia baudą saugos tarnybų ar saugos padalinių vadovams nuo šešiasdešimt iki devyniasdešimt eurų.
+4. Inkasavimo vykdymas neturint nustatyta tvarka išduoto inkasavimo pažymėjimo
+užtraukia baudą apsaugininkams ar apsaugos tarnybų vadovams nuo šešiasdešimt iki devyniasdešimt eurų. 
 
 
 
 
-6. Inkasavimo vykdymas neturint nustatyta tvarka išduotų inkasavimo pažymėjimų
-užtraukia baudą saugos tarnybų ar saugos padalinių vadovams nuo šešiasdešimt iki devyniasdešimt eurų. 
+5. Režimo užtikrinimas saugomame objekte masinio renginio metu, nustatyta tvarka nesuderinus režimo užtikrinimo plano su policijos įstaiga, kurios veiklos teritorijoje įvyks masinis renginys, 
+užtraukia baudą apsaugininkams ar apsaugos tarnybų vadovams nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
 
 
 
 
-7. Juridinio asmens ar užsienio juridinio asmens filialo saugos padalinio asmens ir turto saugos paslaugų teikimas kitiems asmenims 
-užtraukia baudą saugos padalinių vadovams nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
+6. Nepranešimas policijai apie sulaikytą įtariamą teisės pažeidėją 
+užtraukia baudą apsaugininkams nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
 
 
 
 
-8. Asmens ir turto saugos paslaugų teikimas be rašytinės saugos tarnybos ir kliento sutarties
-užtraukia baudą saugos tarnybų vadovams nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
+7. Neteisėtas šaunamųjų ginklų ar fizinės prievartos panaudojimas 
+užtraukia baudą apsaugininkams nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
+
+
+
+
+8. Asmens ir turto apsaugos paslaugų teikimas be rašytinės apsaugininko ar apsaugos tarnybos ir kliento sutarties
+užtraukia baudą apsaugininkams ar apsaugos tarnybų vadovams nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
 
 
 
 
 9. Šio straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
-užtraukia baudą saugos tarnybų ar saugos padalinių vadovams nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+užtraukia baudą apsaugininkams ar apsaugos tarnybų vadovams nuo vieno šimto keturiasdešimt iki trijų šimtų eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-538, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11935
  
 
 
 
 
+131 straipsnis. Apsaugos darbuotojo ar apsaugos darbuotojo stažuotojo padaryti asmens ir turto apsaugos teisės aktų pažeidimai
 
 
-131 straipsnis. Apsaugos darbuotojo padaryti asmens ir turto saugos teisės aktų pažeidimai
-
-
-1. Apsaugos darbuotojo padaryti asmens ir turto saugos teisės aktų pažeidimai, išskyrus šiame kodekse nurodytuosius,
-užtraukia įspėjimą arba baudą apsaugos darbuotojams nuo keturiolikos iki trisdešimt eurų.
-
-
-
-
-2. Lietuvos Respublikos asmens ir turto saugos įstatyme nustatytų apsaugos darbuotojo pareigų nevykdymas 
-užtraukia baudą apsaugos darbuotojams ar saugos tarnybų ar saugos padalinių vadovams (atsižvelgiant į tai, kas privalo užtikrinti pareigos vykdymą) nuo trisdešimt iki penkiasdešimt eurų.
+1. Apsaugos darbuotojo ar apsaugo darbuotojo stažuotojo padaryti asmens ir turto apsaugos teisės aktų pažeidimai, išskyrus šiame kodekse nurodytuosius,
+užtraukia įspėjimą arba baudą apsaugos darbuotojams ar apsaugos darbuotojams stažuotojams nuo keturiolikos iki trisdešimt eurų.
 
 
 
 
-3. Neteisėtas šaunamųjų ginklų, specialiųjų priemonių ar fizinės prievartos panaudojimas
-užtraukia baudą apsaugos darbuotojams nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
+2. Lietuvos Respublikos asmens ir turto apsaugos įstatyme nustatytų apsaugos darbuotojo ar apsaugos darbuotojo stažuotojo pareigų nevykdymas 
+užtraukia baudą apsaugos darbuotojams, apsaugos darbuotojams stažuotojams, apsaugininkams ar apsaugos tarnybų vadovams (atsižvelgiant į tai, kas privalo užtikrinti pareigos vykdymą) nuo trisdešimt iki penkiasdešimt eurų.
+
+
+
+
+3. Neteisėtas šaunamųjų ginklų ar fizinės prievartos panaudojimas
+užtraukia baudą apsaugos darbuotojams ar apsaugos darbuotojams stažuotojams nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
 
 
 
 
 4. Šio straipsnio 1, 2, 3 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
-užtraukia baudą apsaugos darbuotojams nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
+užtraukia baudą apsaugos darbuotojams ar apsaugos darbuotojams stažuotojams nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-538, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11935
  
-
-
 
 
 
@@ -10728,20 +10732,22 @@ užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų e
 
 
 
-345 straipsnis. Gyvulių veislininkystės norminių aktų pažeidimas
+345 straipsnis. Ūkinių gyvūnų veislininkystės norminių aktų ir Reglamente (ES) 2016/1012 nustatytų reikalavimų pažeidimas
 
 
-1. Gyvulių veislininkystės norminių aktų pažeidimas
+1. Ūkinių gyvūnų veislininkystės norminių aktų ir Reglamente (ES) 2016/1012 nustatytų reikalavimų pažeidimas 
 užtraukia baudą asmenims nuo trisdešimt iki vieno šimto penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki dviejų šimtų trisdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų.
+užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki dviejų šimtų trisdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1543, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16601
  
-
-
 
 
 
@@ -15933,8 +15939,10 @@ Nr. XII-2530, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20288
 
 
 
-6. Neįleidimas arba kitoks kliudymas policijos pareigūnams pagal kompetenciją tikrinti saugos tarnybų ir saugos padalinių veiklą, kontrolei atlikti reikalingų dokumentų ir informacijos nepateikimas arba dokumentų nuslėpimas, klaidingų duomenų pateikimas, šių pareigūnų teisėtų reikalavimų nevykdymas 
-užtraukia baudą saugos tarnybų ar saugos padalinių vadovams nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų.
+6. Neįleidimas arba kitoks kliudymas policijos pareigūnams pagal kompetenciją tikrinti apsaugininkų ar apsaugos tarnybų veiklą, kontrolei atlikti reikalingų dokumentų ir informacijos nepateikimas arba dokumentų nuslėpimas, klaidingų duomenų pateikimas, šių pareigūnų teisėtų reikalavimų nevykdymas 
+užtraukia baudą apsaugininkams ar apsaugos tarnybų vadovams nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-538, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11935
  
 
 
@@ -16002,6 +16010,26 @@ užtraukia baudą nuo penkių šimtų šešiasdešimt iki vieno tūkstančio dvi
  
 
 
+
+
+
+
+5101 straipsnis. Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus sprendimo taikyti laikinąsias apribojimo priemones nevykdymas
+
+
+1. Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus sprendimo taikyti laikinąsias apribojimo priemones nevykdymas
+užtraukia baudą asmenims nuo trijų šimtų iki vieno tūkstančio penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų iki trijų tūkstančių eurų. 
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo penkių šimtų iki vieno tūkstančio aštuonių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio iki trijų tūkstančių penkių šimtų eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1162, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08534
+ 
 
 
 
@@ -17869,7 +17897,10 @@ Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594
 
 
 
-27) Narkotikų, tabako ir alkoholio kontrolės departamento – dėl šio kodekso 65, 70, 127, 132, 137, 138, 145, 152, 168, 170 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnio 1 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+27) Narkotikų, tabako ir alkoholio kontrolės departamento – dėl šio kodekso 65, 70, 127, 132, 137, 138, 145, 152, 168, 170 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnio 1 dalyje, 505, 507, 5101 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1162, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08534
+ 
 
 
 
@@ -17964,7 +17995,7 @@ Nr. XII-2530, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20288
 
 
 
-40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 3042 straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 3081 straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 10, 11 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 3, 4 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 436, 437, 450 straipsniuose, 459 straipsnio 3, 4, 5, 7 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 515 straipsniuose numatytų administracinių nusižengimų; 
+40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 3042 straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 3081 straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 10, 11 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 3, 4 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 436, 437, 450 straipsniuose, 459 straipsnio 4, 5, 6, 9 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4 dalyje, 508, 5101, 515 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
@@ -17973,6 +18004,8 @@ Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
 Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997
 Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
 Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481
+Nr. XIII-1162, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08534
+Nr. XIII-1542, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16600
  
 
 
@@ -18038,13 +18071,15 @@ Nr. XIII-1212, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09724
 
 
 
-49) policijos – dėl šio kodekso 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 2341, 2342 straipsniuose, 281 straipsnio 1, 2 dalyse, 282, 290, 306, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6 dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 451, 452, 453, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 4841, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 5, 6 dalyse, 507, 508, 511, 512, 513, 518, 519, 520, 521, 523, 524, 527, 528, 530, 532, 534, 535, 538, 539, 540, 541 straipsniuose, 542 straipsnio 1, 2, 3 dalyse, 543, 546, 553 straipsniuose numatytų administracinių nusižengimų;
+49) policijos – dėl šio kodekso 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 2341, 2342 straipsniuose, 281 straipsnio 1, 2 dalyse, 282, 290, 306, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6 dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 451, 452, 453, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 4841, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 5, 6 dalyse, 507, 508, 5101, 511, 512, 513, 518, 519, 520, 521, 523, 524, 527, 528, 530, 532, 534, 535, 538, 539, 540, 541 straipsniuose, 542 straipsnio 1, 2, 3 dalyse, 543, 546, 553 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
 Nr. XIII-731, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18854
 Nr. XIII-922, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21594
 Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
+Nr. XIII-1162, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08534
+Nr. XIII-1542, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16600
  
 
 
@@ -18132,13 +18167,14 @@ Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
 
 
 
-63) Lietuvos transporto saugos administracijos – dėl šio kodekso 127 straipsnio 1, 2 dalyse, 150, 306, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384 straipsniuose, 401 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 402, 403, 404, 405, 406, 407, 409, 410, 411 straipsniuose, 413 straipsnio 1 dalyje, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 3, 4, 5, 7, 8 dalyse, 463, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+63) Lietuvos transporto saugos administracijos – dėl šio kodekso 127 straipsnio 1, 2 dalyse, 150, 306, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384 straipsniuose, 401 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 402, 403, 404, 405, 406, 407, 409, 410, 411 straipsniuose, 413 straipsnio 1 dalyje, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 4, 5, 6, 7, 9, 10 dalyse, 463, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-590, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11959
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
 Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997
 Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
+Nr. XIII-1542, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16600
  
 
 
@@ -22512,15 +22548,25 @@ Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964
 
 
 
-99. 2016 m. liepos 6 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/1148 dėl priemonių aukštam bendram tinklų ir informacinių sistemų saugumo lygiui visoje Sąjungoje užtikrinti (OL 2016, L 194, p. 1.) 
-Papildyta punktu:
-Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
+99. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1012 dėl zootechninių ir genealoginių reikalavimų, taikomų grynaveislių veislinių gyvūnų ir hibridinių veislinių kiaulių veisimui, prekybai jais bei jų genetinės medžiagos produktais ir jų įvežimui į Sąjungą, kuriuo iš dalies keičiami Reglamentas (ES) 652/2014, Tarybos direktyvos 89/608/EEB ir 90/425/EEB bei panaikinami tam tikri gyvūnų veisimo srities aktai (OL 2016 L 171, p. 66). 
+Papildyta straipsnio dalimi:
+Nr. XIII-1543, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16601
  
 
 
 
 
-100. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1). 
+100. 2016 m. liepos 6 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/1148 dėl priemonių aukštam bendram tinklų ir informacinių sistemų saugumo lygiui visoje Sąjungoje užtikrinti (OL 2016, L 194, p. 1.) 
+Papildyta punktu:
+Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
+Punkto numeracijos pakeitimas:
+Nr. XIII-1543, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16601
+ 
+
+
+
+
+101. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1). 
 Papildyta punktu:
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
 Punkto numeracijos pakeitimas:
@@ -22528,6 +22574,7 @@ Nr. XIII-1122, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07476
 Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
 Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964
 Nr. XIII-1427, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11734
+Nr. XIII-1543, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16601
  
 
 
@@ -22822,3 +22869,18 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-954, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21666
 Lietuvos Respublikos administracinių nusižengimų kodekso 573 straipsnio pakeitimo įstatymas
+ 
+58.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1162, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08534
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 510-1 straipsniu ir 589 straipsnio pakeitimo įstatymas
+ 
+59.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1542, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16600
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 510-1 straipsniu ir 589 straipsnio pakeitimo įstatymo Nr. XIII-1162 2 straipsnio pakeitimo įstatymas
+ 
+60.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1543, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16601
+Lietuvos Respublikos administracinių nusižengimų kodekso 345 straipsnio ir priedo pakeitimo įstatymas
