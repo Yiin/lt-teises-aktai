@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-10-31
+Suvestinė redakcija nuo 2018-11-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -1176,7 +1176,10 @@ Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 
 
 
-4) kituose miškuose, esančiuose vieno kilometro atstumu nuo Baltijos jūros ir Kuršių marių, II grupės rekreaciniuose miškuose ir III grupės vandens telkinių apsaugos zonų, laukų apsauginiuose ir valstybinių parkų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 1, 2, 3, 8 punktuose nurodytus atvejus, jeigu atitinkamų objektų statyba ar atitinkamų teritorijų formavimas numatytas bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose arba šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose. Šiame punkte nustatyti draudimai ir apribojimai netaikomi miško žemę paverčiant kitomis naudmenomis šio straipsnio 1 dalies 5, 7 ir 9 punktuose nustatytais atvejais ir 4 punkte nustatytu atveju, kai baigiama eksploatuoti šiuo metu naudojamo telkinio dalis, dėl kurios yra išduotas leidimas naudoti naudingąsias iškasenas, ir nėra galimybės tęsti telkinio eksploatavimo ne miško žemėje. 
+4) kituose miškuose, esančiuose vieno kilometro atstumu nuo Baltijos jūros ir Kuršių marių, II grupės rekreaciniuose miškuose ir III grupės vandens telkinių apsaugos zonų, laukų apsauginiuose ir valstybinių parkų apsaugos zonų miškuose, išskyrus šio straipsnio 1 dalies 1, 2, 3, 7, 8, 9 punktuose nurodytus atvejus ir šio straipsnio 1 dalies 4 punkte nurodytą atvejį, kai baigiama eksploatuoti šiuo metu naudojamo telkinio dalis, dėl kurios yra išduotas leidimas naudoti naudingąsias iškasenas, ir nėra galimybės tęsti telkinio eksploatavimo ne miško žemėje, jeigu atitinkamų objektų statyba ar atitinkamų teritorijų formavimas numatytas bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose arba šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose. Šiame punkte nustatyti draudimai ir apribojimai netaikomi miško žemę paverčiant kitomis naudmenomis šio straipsnio 1 dalies 5 punkte nustatytu atveju.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1404, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11465
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -1872,3 +1875,8 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir 19 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1404, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11465
+Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas
