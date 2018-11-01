@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2018-10-31 iki 2018-10-31
+Suvestinė redakcija nuo 2018-11-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -894,6 +894,7 @@ Papildyta straipsnio dalimi:
 Nr. XII-2647, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24616
 Straipsnio dalies pakeitimai:
 Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
+Nr. XIII-1562, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17477
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
 
@@ -1736,6 +1737,14 @@ Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
 9. Juridiniai asmenys, turintys Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo nustatyta tvarka išduotą licenciją asmens sveikatos priežiūros veiklai ir (ar) Lietuvos Respublikos odontologų rūmų įstatymo nustatyta tvarka išduotą odontologinės priežiūros (pagalbos) įstaigos licenciją (toliau – asmens sveikatos priežiūros įstaigos), vaistinius preparatus gali įsigyti tik iš juridinių asmenų, turinčių gamybos ar didmeninio platinimo licenciją, o kartinius vaistinius preparatus – iš vaistinės, kurios licencijoje nurodyta ekstemporaliųjų vaistinių preparatų gamyba. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+ 
+
+
+
+
+91. Asmens sveikatos priežiūros įstaigos įsigytus vaistinius preparatus laiko ir įtraukia į apskaitą sveikatos apsaugos ministro nustatyta tvarka, taip pat prisijungia prie Lietuvos Respublikos teritoriją aptarnaujančios kaupyklos, nurodytos Reglamento (ES) 2016/161 32 straipsnio 1 dalies b punkte (toliau – Lietuvos nacionalinė kaupykla). Asmenims, įrašytiems į sveikatos apsaugos ministro tvirtinamą Asmenų, kuriems tiekiamų vaistinių preparatų pakuočių unikalių identifikatorių autentiškumą tikrina ir juos deaktyvina didmeninio platinimo licencijos turėtojas, sąrašą, prisijungti prie Lietuvos nacionalinės kaupyklos nereikia. 
+Papildyta straipsnio dalimi:
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
 
@@ -4605,9 +4614,10 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-5. Ligoninės vaistinė – vaistinė, kuri yra sveikatos priežiūros įstaigos (įmonės) padalinys, kuris aprūpina ligoninę vaistiniais preparatais ir (ar) ekstemporaliaisiais vaistiniais preparatais, bet neturi teisės jų parduoti (išduoti) ambulatoriškai besigydantiems pacientams. 
+5. Ligoninės vaistinė – vaistinė, kuri yra asmens sveikatos priežiūros įstaigos padalinys, aprūpinantis šią įstaigą vaistiniais preparatais ir (ar) vaistinių prekėmis. Jeigu asmens sveikatos priežiūros įstaiga teikia ir dienos stacionaro paslaugas, jos struktūrinis padalinys ligoninės vaistinė gali parduoti (išduoti) ir šios įstaigos dienos stacionare gydomiems pacientams kompensuojamuosius vaistinius preparatus, skiriamus jiems gydyti šios įstaigos dienos stacionare suteikiant asmens sveikatos priežiūros paslaugą. Ligoninės vaistinei draudžiama vaistinius preparatus siūlyti parduoti nuotoliniu būdu. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
+Nr. XIII-1408, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11508
  
 
 
@@ -4638,6 +4648,14 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 9. Vaistiniai preparatai gyventojams parduodami (išduodami) sveikatos apsaugos ministro nustatyta tvarka. Parduodant (išduodant) gyventojams vaistinius preparatus turi būti tiesiogiai bendraujant suteikiama farmacinė paslauga, išskyrus tuos atvejus, kai vaistiniai preparatai siūlomi parduoti nuotoliniu būdu. Kai vaistinės siūlo parduoti vaistinius preparatus nuotoliniu būdu, farmacijos specialistas farmacinę paslaugą gyventojui teikia naudodamasis ryšio priemonėmis. 
+
+
+
+
+91. Draudžiama parduoti (išduoti) vaistinius preparatus asmenims iki 16 metų. Kai kyla abejonių, kad asmuo yra jaunesnis negu 16 metų, farmacijos specialistai privalo iš perkančio (įsigyjančio) vaistinius preparatus asmens reikalauti pateikti asmens amžių liudijantį dokumentą. Jeigu toks asmuo nepateikia jo amžių liudijančio dokumento, farmacijos specialistai privalo atsisakyti parduoti jam vaistinius preparatus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1408, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11508
+ 
 
 
 
@@ -4696,9 +4714,10 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-17. Ligoninės vaistinę gali steigti tik sveikatos priežiūros stacionarinė įstaiga stacionarui aprūpinti. 
+17. Ligoninės vaistinę gali steigti tik asmens sveikatos priežiūros įstaigos.
 Straipsnio dalies pakeitimai:
 Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
+Nr. XIII-1408, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11508
  
 
 
@@ -4747,7 +4766,10 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 351 straipsnis. Pagrindiniai vaistinių preparatų siūlymo parduoti gyventojams nuotoliniu būdu reikalavimai
 
 
-1. Siūlyti parduoti vaistinius preparatus nuotoliniu būdu gali tik vaistinės, išskyrus šio straipsnio 3 dalyje nurodytus atvejus. Siūlymo parduoti vaistinius preparatus nuotoliniu būdu tvarką nustato sveikatos apsaugos ministras. Nuotoliniu būdu parduoti vaistiniai preparatai gali būti atsiimami vaistinėje ar pristatomi į gyventojo pageidaujamą vietą. 
+1. Siūlyti parduoti vaistinius preparatus nuotoliniu būdu gali tik vaistinės, išskyrus ligoninės vaistines ir šio straipsnio 3 dalyje nurodytus atvejus. Siūlymo parduoti vaistinius preparatus nuotoliniu būdu tvarką nustato sveikatos apsaugos ministras. Nuotoliniu būdu parduoti vaistiniai preparatai gali būti atsiimami vaistinėje ar pristatomi į gyventojo pageidaujamą vietą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1408, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11508
+ 
 
 
 
