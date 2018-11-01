@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4961DA7FA79F"
 
 # Lietuvos Respublikos transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymas
 
-Suvestinė redakcija nuo 2017-11-29
+Suvestinė redakcija nuo 2018-11-01 iki 2023-06-22
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 56-1977, i. k. 1011010ISTA00IX-378
  
@@ -559,6 +559,15 @@ Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
 
 
 
+4) nuo 2018 m. lapkričio 1 d. – 5 000 000 eurų dėl žalos asmeniui (įskaitant ir neturtinę žalą) ir 1 000 000 eurų dėl žalos turtui. 
+TAR pastaba. 4 punktas taikomas transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo sutartims, sudarytoms nuo 2018 m. lapkričio 1 d.
+Papildyta straipsnio punktu:
+Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
+ 
+
+
+
+
 
 
 2. Vienu eismo įvykiu laikomas įvykis, įvykęs dėl tos pačios priežasties, nepaisant to, kad dėl tokio eismo įvykio gali būti pareikštos kelių nukentėjusių trečiųjų asmenų pretenzijos. 
@@ -785,12 +794,25 @@ Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
 
 
 
-6. Asmeniui padarytos žalos dydį nustato atsakingas draudikas arba – šio įstatymo 17 straipsnyje nurodytais atvejais – Biuras, vadovaudamasis dokumentais, įrodančiais padarytos žalos aplinkybes, faktą ir dydį, ir medicininės apžiūros pažymomis. Atsakingas draudikas ar Biuras vadovaujasi įstaigų ir įmonių, turinčių teisę nustatyti sveikatos sužalojimo mastą, išvadomis, taip pat turi teisę siųsti nukentėjusį trečiąjį asmenį atlikti medicininės apžiūros, apmokėdamas apžiūros išlaidas.
+6. Asmeniui padarytos žalos dydį nustato atsakingas draudikas arba – šio įstatymo 17 straipsnyje nurodytais atvejais – Biuras, vadovaudamasis dokumentais, įrodančiais padarytos žalos aplinkybes, faktą ir dydį, ir medicininės apžiūros pažymomis. Atsakingas draudikas ar Biuras vadovaujasi įstaigų ir įmonių, turinčių teisę nustatyti sveikatos sutrikdymo mastą, kuris nustatomas vadovaujantis Sveikatos sutrikdymo masto nustatymo taisyklėmis, išvadomis, taip pat turi teisę siųsti nukentėjusį trečiąjį asmenį atlikti medicininės apžiūros, apmokėdamas apžiūros išlaidas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
+ 
 
 
 
 
-7. Nukentėjęs trečiasis asmuo turi teisę pateikti pretenzijas atsakingam draudikui arba – šio įstatymo 17 straipsnyje nurodytais atvejais – Biurui dėl patirtos neturtinės žalos. Jei atsakingas draudikas ir nukentėjęs trečiasis asmuo nesutaria dėl neturtinės žalos atlyginimo dydžio, nukentėjęs trečiasis asmuo turi teisę kreiptis į teismą. Teisę į neturtinės žalos atlyginimą turi ir asmenys, išvardyti šio straipsnio 5 dalyje.
+7. Nukentėjęs trečiasis asmuo turi teisę pateikti pretenzijas atsakingam draudikui arba – šio įstatymo 17 straipsnyje nurodytais atvejais – Biurui dėl patirtos neturtinės žalos. Teisę į neturtinės žalos atlyginimą turi ir asmenys, nurodyti šio straipsnio 5 dalyje. Atsakingas draudikas ar Biuras, nustatydamas atlygintinos neturtinės žalos dydį, vadovaujasi kompetentingų asmenų išduotais dokumentais, įrodančiais laikinojo nedarbingumo trukmę, darbingumo ar neįgalumo lygį, sužalojimo pasekmes, mirties faktą ir priežastis, kitais įrodymais. Atlygintinos neturtinės žalos dydis nustatomas atsižvelgiant į sveikatos sutrikdymo mastą ir kitus neturtinės žalos dydžio nustatymui reikšmingus kriterijus. Jeigu atsakingas draudikas ar Biuras ir nukentėjęs trečiasis asmuo ar asmenys, nurodyti šio straipsnio 5 dalyje, nesutaria dėl neturtinės žalos atlyginimo dydžio, nukentėjęs trečiasis asmuo ar asmenys, nurodyti šio straipsnio 5 dalyje, turi teisę kreiptis į teismą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
+ 
+
+
+
+
+8. Eismo įvykio metu padarytos neturtinės žalos dydžio nustatymo rekomendacijas tvirtina Vyriausybė ar jos įgaliota institucija. 
+Papildyta straipsnio dalimi:
+Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
  
 
 
@@ -1049,7 +1071,10 @@ Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
 
 
 
-16. Žalos nustatymo ir išmokų mokėjimo tvarką nustato Vyriausybė.
+16. Žalos administravimo ir išmokų mokėjimo tvarką nustato Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
+ 
 
 
 Straipsnio pakeitimai:
@@ -2405,76 +2430,26 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-Transporto priemonių valdytojų
-civilinės atsakomybės privalomojo 
-draudimo įstatymo 
+ 
+Lietuvos Respublikos
+transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 1972 m. balandžio 24 d. Tarybos direktyva 72/166/EEB dėl valstybių narių įstatymų, susijusių su transporto priemonių valdytojų civilinės atsakomybės draudimu ir privalomojo tokios atsakomybės draudimo įgyvendinimu, suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 10).
+3. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/103/EB dėl motorinių transporto priemonių valdytojų civilinės atsakomybės draudimo ir privalomojo tokios atsakomybės draudimo patikrinimo (OL 2009 L 263, p. 11).
 
 
 
 
-2. 1972 m. gruodžio 19 d. Tarybos direktyva 72/430/EEB, iš dalies pakeičianti 1972 m. balandžio 24 d. Tarybos direktyvą 72/166/EEB dėl valstybių narių įstatymų, susijusių su transporto priemonių valdytojų civilinės atsakomybės draudimu ir privalomojo tokios atsakomybės draudimo įgyvendinimu, suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 13).
+4. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2009 L 335, p. 1).
 
 
-
-
-3. 1973 m. liepos 24 d. pirmoji Tarybos direktyva 73/239/EEB dėl įstatymų ir kitų teisės aktų, susijusių su tiesioginio draudimo, išskyrus gyvybės draudimą, veiklos pradėjimu ir plėtojimu, suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 14).
-
-
-
-
-4. 1974 m. vasario 6 d. Komisijos rekomendacija 74/165/EEB valstybėms narėms dėl 1972 m. balandžio 24 d. Tarybos direktyvos dėl valstybių narių įstatymų, susijusių su transporto priemonių valdytojų civilinės atsakomybės draudimu ir privalomojo tokios atsakomybės draudimo įgyvendinimu, suderinimo.
-
-
-
-
-5. 1981 m. sausio 8 d. Komisijos rekomendacija 81/76/EEB dėl paspartinto transporto priemonių valdytojų civilinės atsakomybės draudimo žalų sureguliavimo.
-
-
-
-
-6. 1983 m. gruodžio 30 d. antroji Tarybos direktyva 84/5/EEB dėl valstybių narių įstatymų, susijusių su transporto priemonių valdytojų civilinės atsakomybės draudimu, suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 7 tomas, p. 3).
-
-
-
-
-7. 1988 m. birželio 22 d. antroji Tarybos direktyva 88/357/EEB dėl įstatymų ir kitų teisės aktų, susijusių su tiesioginiu draudimu, išskyrus gyvybės draudimą, suderinimo, apibrėžianti nuostatas, padedančias veiksmingai naudotis laisve teikti paslaugas, ir iš dalies pakeičianti Direktyvą 73/239/EEB (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 198).
-
-
-
-
-8. 1990 m. gegužės 14 d. trečioji Tarybos direktyva 90/232/EEB dėl valstybių narių įstatymų, susijusių su transporto priemonių valdytojų civilinės atsakomybės draudimu, suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 249).
-
-
-
-
-9. 1990 m. lapkričio 8 d. Tarybos direktyva 90/618/EEB, iš dalies pakeičianti Direktyvą 73/239/EEB ir Direktyvą 88/357/EEB dėl įstatymų ir kitų teisės aktų, reglamentuojančių tiesioginį draudimą, išskyrus gyvybės draudimą, suderinimą, ir pirmiausia pakeičianti šių direktyvų nuostatas dėl motorinių transporto priemonių civilinės atsakomybės draudimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 252).
-
-
-
-
-10. 1992 m. birželio 18 d. Tarybos direktyva 92/49/EEB dėl įstatymų ir kitų teisės aktų, susijusių su tiesioginiu draudimu, išskyrus gyvybės draudimą, suderinimo, iš dalies pakeičianti direktyvas 73/239/EEB ir 88/357/EEB (trečioji ne gyvybės draudimo direktyva) (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 346).
-
-
-
-
-11. 2000 m. gegužės 16 d. Europos Parlamento ir Tarybos direktyva 2000/26/EB dėl valstybių narių įstatymų, susijusių su transporto priemonių valdytojų civilinės atsakomybės draudimu, suderinimo, iš dalies pakeičianti Tarybos direktyvas 73/239/EEB ir 88/357/EEB (ketvirtoji transporto priemonių draudimo direktyva) (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 331).
-
-
-
-
-12. 2005 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2005/14/EB, iš dalies keičianti Tarybos direktyvas 72/166/EEB, 84/5/EEB, 88/357/EEB ir 90/232/EEB bei Europos Parlamento ir Tarybos direktyvą 2000/26/EB, susijusias su motorinių transporto priemonių valdytojų civilinės atsakomybės draudimu (OL 2005 m. L 149, p. 14).
+Priedo pakeitimai:
+Nr. XIII-769, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18822
  
- 
- 
-
-
 
 
 
