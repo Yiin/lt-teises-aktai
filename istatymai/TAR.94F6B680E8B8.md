@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-10-31
+Suvestinė redakcija nuo 2018-11-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -139,6 +139,14 @@ Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
 12. Užsienietis – kaip ši sąvoka apibrėžta Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“.
 Papildyta straipsnio dalimi:
 Nr. XII-1602, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05896
+ 
+
+
+
+
+13. Ortopedijos techninės priemonės – prie medicinos priemonių (prietaisų) priskiriami įtvarai, papildomieji ir keičiamieji kūno dalių protezai, tvirtinami iš išorės prie kūno dalies ir ją sustiprinantys, pagerinantys jos funkcijas, palengvinantys ligos ar sužeidimo padarinius, padedantys atraminei judėjimo sistemai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
  
 
 
@@ -570,7 +578,10 @@ sveikatos priežiūros paslaugos
 
 
 
-4) valstybės parama ortopedijos technikos priemonėms įsigyti Sveikatos apsaugos ministerijos nustatyta tvarka;
+4) ortopedijos techninių priemonių įsigijimo išlaidų kompensacijos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
+ 
 
 
 
@@ -641,6 +652,39 @@ Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
 Straipsnio pakeitimai:
 Nr. X-317, 2005-07-05, Žin., 2005, Nr. 86-3209 (2005-07-16)
 Nr. XI-1149, 2010-11-18, Žin., 2010, Nr. 142-7263 (2010-12-04)
+ 
+
+
+
+
+91 straipsnis. Ortopedijos techninių priemonių įsigijimo išlaidų kompensavimas 
+
+
+1. Apdraustiesiems ortopedijos techninių priemonių įsigijimo išlaidos kompensuojamos ir sutartys su juridiniais asmenimis dėl ortopedijos techninių priemonių įsigijimo išlaidų apmokėjimo (toliau – sutartys) sudaromos sveikatos apsaugos ministro nustatyta tvarka. Sutartys sudaromos tarp Valstybinės ligonių kasos ir Lietuvos Respublikoje įsteigtų juridinių asmenų, užsienio valstybėje įsteigtų juridinių asmenų ar kitų organizacijų filialų, įsteigtų Lietuvos Respublikoje (toliau – suinteresuotieji asmenys). Sutartys sudaromos su visais pageidaujančiais jas sudaryti suinteresuotaisiais asmenimis. Suinteresuotieji asmenys sutartį dėl ortopedijos techninių priemonių įsigijimo išlaidų apmokėjimo einamiesiems ar kitiems metams gali sudaryti bet kuriuo metu einamaisiais metais. Informacija apie šių sutarčių sudarymo tvarką skelbiama viešai Valstybinės ligonių kasos ir teritorinių ligonių kasų interneto svetainėse. Valstybinė ligonių kasa apmoka suinteresuotųjų asmenų, sudariusių sutartis dėl ortopedijos techninių priemonių, skirtų apdraustiesiems, gamybos ir (ar) pritaikymo, išlaidas ir kompensuoja apdraustųjų, įsigijusių ortopedijos technines priemones savo lėšomis, išlaidas.
+
+
+
+
+2. Privalomojo sveikatos draudimo fondo biudžeto lėšomis apdraustiesiems kompensuojamos tik tų ortopedijos techninių priemonių įsigijimo, o suinteresuotiesiems asmenims apmokamos tik tų ortopedijos techninių priemonių gamybos ir (ar) pritaikymo išlaidos, kurios įrašytos į Privalomojo sveikatos draudimo fondo biudžeto lėšomis kompensuojamųjų ortopedijos techninių priemonių ir jų bazinių kainų sąrašą. Ortopedijos techninės priemonės į kompensuojamųjų ortopedijos techninių priemonių ir jų bazinių kainų sąrašą įrašomos sveikatos apsaugos ministro nustatyta tvarka, jeigu jos atitinka šiuos kriterijus:
+
+
+1) sveikatos apsaugos ministro nustatyta tvarka apskaičiuota ortopedijos techninės priemonės funkcinė vertė turi išreikšti šios priemonės teikiamą naudą apdraustajam: ortopedijos techninė priemonė padeda palengvinti ligos, sužeidimo padarinius ar sumažina jo neįgalumą, neleidžia neįgalumui didėti;
+
+
+
+
+2) turi būti finansinės galimybės kompensuoti ortopedijos techninių priemonių įsigijimo išlaidas (jos įvertinamos atsižvelgiant į Privalomojo sveikatos draudimo fondo biudžete ortopedijos techninių priemonių įsigijimo išlaidoms kompensuoti skirtų valstybės biudžeto asignavimų dalį).
+
+
+
+
+
+
+3. Ortopedijos techninių priemonių įsigijimo išlaidos apdraustiesiems kompensuojamos ir šių priemonių gamybos ir (ar) pritaikymo išlaidos suinteresuotiesiems asmenims apmokamos pagal jų bazines kainas, apskaičiuojamas pagal mažiausias sąnaudas gaminant ir (ar) pritaikant ortopedijos technines priemones patiriančių juridinių asmenų, su kuriais yra sudarytos sutartys, sąnaudų vidurkį sveikatos apsaugos ministro nustatyta tvarka. Kompensuojamųjų ortopedijos techninių priemonių ir jų bazinių kainų sąrašą nustato sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
  
 
 
@@ -949,7 +993,10 @@ Nr. XII-640, 2013-12-03, Žin., 2013, Nr. 130-6624 (2013-12-19)
 3) valstybės biudžeto asignavimai, skiriami:
 
 
-a) Privalomojo sveikatos draudimo fondui priskirtoms valstybės funkcijoms atlikti (ortopedijos technikos priemonių įsigijimo išlaidoms kompensuoti, paslaugų, skirtų gyvybei gelbėti ir išsaugoti, išlaidoms apmokėti, kompensacijoms kraujo donorams ir neatlygintinai kraujo donorystei propaguoti bei Nacionalinės imunoprofilaktikos programos priemonėms finansuoti);
+a) Privalomojo sveikatos draudimo fondui priskirtoms valstybės funkcijoms atlikti (ortopedijos techninių priemonių įsigijimo išlaidoms kompensuoti, paslaugų, skirtų gyvybei gelbėti ir išsaugoti, išlaidoms apmokėti, kompensacijoms kraujo donorams neatlygintinai kraujo donorystei propaguoti bei Nacionalinės imunoprofilaktikos programos priemonėms finansuoti); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
+ 
 
 
 
@@ -1297,7 +1344,10 @@ Banką Lietuvos Respublikoje Valstybinė ligonių kasa ir teritorinės ligonių 
 
 
 
-5) ortopedijos technikos priemonių įsigijimo išlaidos;
+5) ortopedijos techninių priemonių įsigijimo išlaidos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
+ 
 
 
 
@@ -2913,3 +2963,8 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 14, 21, 23 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-953, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21664
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 9, 15, 21 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
