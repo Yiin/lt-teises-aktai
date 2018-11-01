@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-10-31
+Suvestinė redakcija nuo 2018-11-01 iki 2018-12-14
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
  
@@ -428,6 +428,14 @@ Nr. XIII-698, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16807
 
 
 
+491. Ribotini veiksmai – tam tikroje apibrėžtoje teritorijoje pasikartojančių veiksmų, atliekamų naudojantis viešosiomis judriojo telefono ryšio paslaugomis, seka, kuri leidžia nustatyti, ar viešosios judriojo telefono ryšio paslaugos naudojamos nusikalstamai (nusikalstamoms) veikai (veikoms) daryti. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
+ 
+
+
+
+
 50. Ryšių kabelių kanalų sistema – elektroninių ryšių infrastruktūros dalis, sudaryta iš ryšių kabelių kanalų, vamzdžių, šulinių ir kitų įrenginių (šulinių liukų, dangčių, užraktų, ryšių kabelių atramų, gembių, reguliavimo žiedų ir kt.), skirta ryšių kabeliams įverti ir (arba) išverti, sujungti, taisyti bei kitiems elektroninių ryšių įrenginiams įrengti ir jiems apsaugoti.
 
 
@@ -691,7 +699,7 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 
 
-2. Vyriausybės įgaliota institucija, formuodama ir įgyvendindama elektroninių ryšių veiklos politiką:
+2. Vyriausybės įgaliotos institucijos, formuodamos ir įgyvendindamos elektroninių ryšių veiklos politiką:
 
 
 1) koordinuoja valstybės elektroninių ryšių srities investicinių projektų rengimą, vertina šiuos projektus ekonominiu, finansiniu ir techniniu požiūriu, kontroliuoja, kaip jie įgyvendinami;
@@ -719,9 +727,17 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 
 
-6) imasi priemonių, kad fiziniams asmenims būtų užtikrinta galimybė naudotis suderintų socialinių paslaugų numeriu 116000 teikiama paslauga.
+6) imasi priemonių, kad fiziniams asmenims būtų užtikrinta galimybė naudotis suderintų socialinių paslaugų numeriu 116000 teikiama paslauga;
 
 
+
+
+7) tvirtina Ribotinų veiksmų sąrašą, įvertinusi viešųjų ryšių tinklų ir (arba) elektroninių ryšių paslaugų teikėjų pasiūlymus. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
+ 
 
 
 Straipsnio pakeitimai:
@@ -2775,7 +2791,10 @@ Nr. XII-2086, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19363
 
 
 
-16. Teismas nustatęs, kad viešieji ryšių tinklai ir (arba) viešosios elektroninių ryšių paslaugos buvo neteisėtai naudoti ar panaudoti sukčiavimui, turi teisę nurodyti viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams nutraukti minėtų paslaugų teikimą arba blokuoti skambučius į tam tikrus telefono ryšio numerius, ir konfiskuoti pajamas, gautas teikiant neteisėtai naudotas ar panaudotas sukčiavimui viešąsias elektroninių ryšių paslaugas.
+16. Neteko galios nuo 2018-11-01
+Straipsnio dalies naikinimas:
+Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
+ 
 
 
 Straipsnio pakeitimai:
@@ -4241,12 +4260,18 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 
 
-6. Šio Įstatymo 65 straipsnio 2 dalyje nurodyti duomenys saugomi 6 mėnesius nuo ryšio datos.
+6. Šio Įstatymo 65 straipsnio 2 dalyje nurodyti duomenys, išskyrus šio Įstatymo 1 priedo 6.3 punkte nurodytus duomenis, saugomi 6 mėnesius nuo ryšio datos. Šio Įstatymo 1 priedo 6.3 punkte nurodyti duomenys saugomi 2 mėnesius nuo ryšio datos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
+ 
 
 
 
 
-7. Pareiga saugoti duomenis apima ir šio Įstatymo 65 straipsnio 2 dalyje nurodytų duomenų, susijusių su nesėkmingais skambučiais, saugojimą, kai tuos duomenis generuoja ar tvarko bei saugo (telefonijos duomenys) arba registruoja (interneto duomenys) viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjai, teikdami atitinkamas paslaugas.
+7. Pareiga saugoti duomenis apima ir šio Įstatymo 65 straipsnio 2 dalyje nurodytų duomenų, išskyrus šio Įstatymo 1 priedo 6.3 punkte nurodytus duomenis, susijusių su nesėkmingais skambučiais, saugojimą, kai tuos duomenis generuoja ar tvarko bei saugo (telefonijos duomenys) arba registruoja (interneto duomenys) viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjai, teikdami atitinkamas paslaugas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
+ 
 
 
 
@@ -4336,6 +4361,22 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 
 4. Vyriausybė, vadovaudamasi bendraisiais duomenų tvarkymo principais, nustatytais Asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje, nustato duomenų, nurodytų šio Įstatymo 65 straipsnio 2 dalyje, teikimo sąlygas ir tvarką, pagal kurią būtų užtikrintas saugomų duomenų nedelsiamas ir saugus perdavimas, kai kompetentinga institucija to pareikalauja.
+
+
+
+
+5. Siekiant užtikrinti, kad būtų suteikta būtinoji medicinos ar kita būtina pagalba, kai turima informacijos, kad kilo grėsmė asmens gyvybei ir (ar) sveikatai ir asmens buvimo vietos negalima nustatyti kitomis priemonėmis arba kitų priemonių naudojimas negalimas ar netikslingas dėl būtinumo suteikti pagalbą nedelsiant, o bet koks delsimas galėtų turėti nepataisomų padarinių asmens gyvybei ir (ar) sveikatai, viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjai neatlygintinai teikia vietos nustatymo duomenis realiu laiku policijos įstaigai. Tokie duomenys pateikiami nedelsiant, kai tik įgaliotas policijos įstaigos pareigūnas raštu arba elektroninėmis priemonėmis pateikia motyvuotą užklausą. Vietos nustatymo duomenų teikimas nutraukiamas, kai pagalba suteikiama arba grėsmė asmens sveikatai ir (ar) gyvybei išnyksta. Policijos įstaiga, nustačiusi, kad vietos nustatymo duomenys nesusiję su jų panaudojimui keliamais tikslais, šiuos duomenis nedelsiant sunaikina. Policijos įstaiga, gavusi vietos nustatymo duomenis, nedelsdama informuoja asmenį, kurio vietos nustatymo duomenys buvo gauti, apie tai, kokiu pagrindu ir kokiais tikslais šie duomenys buvo gauti, taip pat apie su šių duomenų gavimu ir panaudojimu susijusių asmens teisių gynimo būdus. Šios dalies nuostatos netaikomos, kai vietos nustatymo duomenys renkami ir kaupiami kriminalinės žvalgybos, žvalgybos ir ikiteisminį tyrimą reglamentuojančių teisės aktų nustatytais pagrindais ir tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
+ 
+
+
+
+
+6. Kriminalinės žvalgybos subjektai, žvalgybos institucijos ir ikiteisminio tyrimo įstaigos, įgyvendindamos įstatymų jiems pavestus uždavinius, turi teisę neatlygintinai gauti informaciją apie abonento ar faktinio elektroninių ryšių paslaugų naudotojo telefono ryšio numerį iš viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų be abonento ar faktinio elektroninių ryšių paslaugų naudotojo sutikimo. Tokie duomenys pateikiami nedelsiant, kai tik įgalioti kriminalinės žvalgybos subjektų, žvalgybos institucijų ir ikiteisminio tyrimo įstaigų pareigūnai raštu arba elektroninėmis priemonėmis pateikia motyvuotą užklausą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
+ 
 
 
 Straipsnio pakeitimai:
@@ -4852,7 +4893,10 @@ Nr. XII-2461, 2016-06-21, paskelbta TAR 2016-06-27, i. k. 2016-17732
 
 
 
-3. Jeigu šio Įstatymo 65 straipsnyje nurodyti duomenys reikalingi kriminalinės žvalgybos subjektams, žvalgybos institucijoms, ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui nusikalstamoms veikoms užkardyti, tirti, nustatyti, Vyriausybės įgaliotos institucijos – kriminalinės žvalgybos subjekto, žvalgybos institucijų – nurodymu ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, turi tokią informaciją saugoti ilgiau, negu nurodyta šio Įstatymo 66 straipsnio 4, 5 ir 6 dalyse, bet ne ilgiau kaip 6 mėnesius papildomai. Už tokios informacijos saugojimą mokama valstybės biudžeto lėšomis Vyriausybės nustatyta tvarka.
+3. Jeigu šio Įstatymo 65 straipsnyje nurodyti duomenys reikalingi kriminalinės žvalgybos subjektams, žvalgybos institucijoms, ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui nusikalstamoms veikoms užkardyti, tirti, nustatyti, Vyriausybės įgaliotos institucijos – kriminalinės žvalgybos subjekto, žvalgybos institucijų – nurodymu ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, turi tokią informaciją, išskyrus šio Įstatymo 1 priedo 6.3 punkte nurodytus duomenis, saugoti ilgiau, negu nurodyta šio Įstatymo 66 straipsnio 4, 5 ir 6 dalyse, bet ne ilgiau kaip 6 mėnesius papildomai. Už tokios informacijos saugojimą mokama valstybės biudžeto lėšomis Vyriausybės nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
+ 
 
 
 
@@ -4878,6 +4922,30 @@ Nr. XII-2461, 2016-06-21, paskelbta TAR 2016-06-27, i. k. 2016-17732
 7. Elektroninių ryšių tinklu siunčiamos techninės komandos pradėti ar nutraukti pasiklausymą ar kitą elektroninių ryšių tinklais perduodamos informacijos kontrolę saugomos Vyriausybės įgaliotos institucijos – kriminalinės žvalgybos subjekto, žvalgybos institucijos – patalpose taip, kad komandų duomenų negalėtų pakeisti jas siuntusi Vyriausybės įgaliota institucija ar komandą gavęs ūkio subjektas. Šios dalies nuostatų įgyvendinimą kontroliuoja Lietuvos Respublikos generalinis prokuroras ar jo įgaliotas prokuroras.
 
 
+
+
+8. Teismas, nustatęs, kad viešieji ryšių tinklai ir (arba) viešosios elektroninių ryšių paslaugos buvo panaudoti nusikalstamoms veikoms, turi teisę nurodyti viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams nutraukti šių paslaugų teikimą arba blokuoti skambučius į tam tikrus telefono ryšio numerius. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
+ 
+
+
+
+
+9. Vyriausybės įgaliota institucija, vadovaudamasi Ribotinų veiksmų sąrašu, turi teisę nurodyti viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams nutraukti viešųjų judriojo telefono ryšio paslaugų teikimą abonentams ar faktiniams elektroninių ryšių paslaugų naudotojams. Abonentai ar faktiniai elektroninių ryšių paslaugų naudotojai, manantys, kad viešųjų judriojo telefono ryšio paslaugų teikimas jiems nutrauktas nepagrįstai, per 30 dienų nuo paslaugų teikimo nutraukimo gali kreiptis į savo viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėją su prašymu peržiūrėti nurodymą nutraukti viešųjų judriojo telefono ryšio paslaugų teikimą. Viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjas privalo išnagrinėti skundą šio įstatymo 34 straipsnio 5 dalyje nustatyta tvarka. Jeigu abonentų ar faktinių elektroninių ryšių naudotojų netenkina viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų atsakymas dėl viešųjų judriojo telefono ryšio paslaugų teikimo jiems nutraukimo ar paslaugų teikėjas neatsako abonentui ar faktiniam elektroninių ryšių naudotojui per šio įstatymo 34 straipsnio 5 dalyje nustatytą terminą, viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjo sprendimą nutraukti viešųjų judriojo telefono ryšio paslaugų teikimą abonentai ar faktiniai elektroninių ryšių paslaugų naudotojai per 30 dienų nuo atsakymo išsiuntimo dienos ar termino, nustatyto šio įstatymo 34 straipsnio 5 dalyje, pabaigos (kai paslaugų teikėjas atsakymo nepateikia) gali skųsti bendrosios kompetencijos teismui. Prieš nutraukdami viešųjų judriojo telefono ryšio paslaugų teikimą viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjai elektroninėmis ryšio priemonėmis apie tai informuoja abonentą ar faktinį elektroninių ryšių paslaugų naudotoją. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
+ 
+
+
+
+
+10. Viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjai, nustatę, kad naudojantis viešosiomis judriojo telefono ryšio paslaugomis vykdomi ribotini veiksmai arba judriojo ryšio įrenginio tarptautinis judriojo ryšio įrangos identifikatorius (IMEI) yra besidubliuojantis, arba kad jis pakeistas taip, kad neatitinka nustatytų judriojo ryšio įrangos identifikatoriaus formavimo reikalavimų, taip pat kai turima duomenų, kad judriojo ryšio įrenginys buvo pagrobtas ar įgytas neteisėtu būdu, privalo nutraukti šių paslaugų teikimą abonentams ar faktiniams elektroninių ryšių paslaugų naudotojams ir apie tai informuoti Vyriausybės įgaliotą instituciją. Abonentai ar faktiniai elektroninių ryšių paslaugų naudotojai, manantys, kad viešųjų judriojo telefono ryšio paslaugų teikimas jiems nutrauktas nepagrįstai, per 30 dienų nuo paslaugų teikimo nutraukimo gali kreiptis į savo viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėją su prašymu peržiūrėti sprendimą nutraukti viešųjų judriojo telefono ryšio paslaugų teikimą. Viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjas privalo išnagrinėti skundą šio įstatymo 34 straipsnio 5 dalyje nustatyta tvarka. Jeigu abonentų ar faktinių elektroninių ryšių naudotojų netenkina viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų atsakymas dėl viešųjų judriojo telefono ryšio paslaugų teikimo jiems nutraukimo ar paslaugų teikėjas neatsako abonentui ar faktiniam elektroninių ryšių naudotojui per šio įstatymo 34 straipsnio 5 dalyje nustatytą terminą, viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjo sprendimą nutraukti viešųjų judriojo telefono ryšio paslaugų teikimą abonentai ar faktiniai elektroninių ryšių paslaugų naudotojai per 30 dienų nuo atsakymo išsiuntimo dienos ar termino, nustatyto šio įstatymo 34 straipsnio 5 dalyje, pabaigos (kai paslaugų teikėjas atsakymo nepateikia) gali skųsti bendrosios kompetencijos teismui. Prieš nutraukdami viešųjų judriojo telefono ryšio paslaugų teikimą viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjai elektroninėmis ryšio priemonėmis apie tai informuoja abonentą ar faktinį elektroninių ryšių paslaugų naudotoją. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
+ 
+
+
 Straipsnio pakeitimai:
 Nr. X-1835, 2008-11-14, Žin., 2008, Nr. 137-5383 (2008-11-29)
 Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
@@ -4895,7 +4963,10 @@ Nr. XI-2244, 2012-10-02, Žin., 2012, Nr. 122-6103 (2012-10-20)
 
 
 
-2. Nenugalimos jėgos ir ekstremalių situacijų ar kitų ypatingų aplinkybių atvejais, taip pat siekiant pasirengti visuotinei mobilizacijai, valstybės gynybai, užtikrinant valstybės saugumą bei viešąją tvarką, Vyriausybė ar jos įgaliota institucija įstatymų bei kitų teisės aktų nustatyta tvarka gali duoti ūkio subjektams, teikiantiems elektroninių ryšių tinklus ir (ar) paslaugas, taip pat aparatūros ir įrenginių savininkams ar naudotojams privalomus nurodymus, užduotis ir užsakymus apsaugoti ir palaikyti reikalingus elektroninių ryšių tinklus, taip pat juos sujungti bei prireikus apriboti visuomenės galimybę naudotis elektroninių ryšių tinklais.
+2. Nenugalimos jėgos ir ekstremaliųjų situacijų ar kitų ypatingų aplinkybių atvejais, taip pat siekdama pasirengti visuotinei mobilizacijai, valstybės gynybai, užtikrindama valstybės ir visuomenės saugumą bei viešąją tvarką, Vyriausybė ar jos įgaliota institucija įstatymų bei kitų teisės aktų nustatyta tvarka gali duoti ūkio subjektams, teikiantiems elektroninių ryšių tinklus ir (ar) paslaugas, taip pat aparatūros ir įrenginių savininkams ar naudotojams privalomus nurodymus, užduotis ir užsakymus apsaugoti ir palaikyti reikalingus elektroninių ryšių tinklus, taip pat juos sujungti bei prireikus apriboti visuomenės galimybę naudotis elektroninių ryšių tinklais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
+ 
 
 
 
@@ -5001,17 +5072,18 @@ Ryšių reguliavimo tarnyba turi teisę priimti Įstatymą įgyvendinančius nor
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 LAIKINAI EINANTIS 
 RESPUBLIKOS PREZIDENTO PAREIGAS                                 ARTŪRAS PAULAUSKAS 
-
-
-
-
-
-
- 
  
-Lietuvos Respublikos 
+
+
+
+
+
+
+ 
+Lietuvos Respublikos
 elektroninių ryšių įstatymo
 1 priedas
  
@@ -5037,7 +5109,7 @@ DUOMENŲ, KURIE TURI BŪTI SAUGOMI, KATEGORIJOS
 
 
 
-1.2. susiję su interneto prieiga, interneto elektroniniu paštu ir interneto telefonija:
+1.2. susiję su interneto prieiga, interneto elektroniniu paštu ir internetine telefonija:
 
 
 1.2.1. suteikti naudotojų atpažinimo kodai;
@@ -5050,7 +5122,7 @@ DUOMENŲ, KURIE TURI BŪTI SAUGOMI, KATEGORIJOS
 
 
 
-1.2.3. abonento ar registruoto elektroninių ryšių paslaugų naudotojo, kuriam ryšio metu buvo suteiktas interneto protokolo (IP) adresas, naudotojo atpažinimo kodas ar telefono ryšio numeris, vardas ir pavardė (pavadinimas) ir adresas.
+1.2.3. abonento ar registruoto elektroninių ryšių paslaugų naudotojo, kuriam ryšio metu buvo suteiktas interneto protokolo (IP) adresas, naudotojo atpažinimo kodas ar telefono ryšio numeris, vardas ir pavardė (pavadinimas) bei adresas.
 
 
 
@@ -5080,12 +5152,12 @@ DUOMENŲ, KURIE TURI BŪTI SAUGOMI, KATEGORIJOS
 2.2. susiję su internetu perduodamu elektroniniu paštu ir internetine telefonija:
 
 
-2.2.1. telefono skambučių internetu numatomo (-ų) gavėjo (-ų) naudotojo atpažinimo kodas ar telefono ryšio numeris; 
+2.2.1. telefono skambučių internetu numatomo (numatomų) gavėjo (gavėjų) naudotojo atpažinimo kodas ar telefono ryšio numeris; 
 
 
 
 
-2.2.2. abonento ar registruoto elektroninių ryšių paslaugų naudotojo vardas ir adresas ir telefono skambučių internetu numatomo gavėjo naudotojo atpažinimo kodas.
+2.2.2. abonento ar registruoto elektroninių ryšių paslaugų naudotojo vardas bei adresas ir telefono skambučių internetu numatomo gavėjo naudotojo atpažinimo kodas.
 
 
 
@@ -5155,32 +5227,32 @@ DUOMENŲ, KURIE TURI BŪTI SAUGOMI, KATEGORIJOS
 
 
 
-5.2.3. kviečiančiosios šalies tarptautinis judriojo ryšio įrangos identifikatorius (IMEI); 
+5.2.3. kviečiančiosios šalies tarptautinis judriojo ryšio įrangos identifikatorius (IMEI);
 
 
 
 
-5.2.4. kviečiamosios šalies tarptautinis judriojo ryšio abonento identifikatorius (IMSI); 
+5.2.4. kviečiamosios šalies tarptautinis judriojo ryšio abonento identifikatorius (IMSI);
 
 
 
 
-5.2.5. kviečiamosios šalies tarptautinis judriojo ryšio įrangos identifikatorius (IMEI); 
+5.2.5. kviečiamosios šalies tarptautinis judriojo ryšio įrangos identifikatorius (IMEI);
 
 
 
 
-5.2.6. jei anoniminė paslauga iš anksto apmokėta, paslaugos pirminio aktyvavimo data ir laikas bei vietovės, kurioje paslauga buvo aktyvuota, žyma (Cell ID); 
+5.2.6. jeigu viešosios judriojo telefono ryšio paslaugos iš anksto apmokėtos, paslaugų pirminio aktyvavimo Lietuvos Respublikoje data ir laikas bei vietovės, kurioje paslaugos buvo aktyvuotos, žyma (Cell ID);
 
 
 
 
 
 
-5.3. susiję su interneto prieiga, internetu perduodamu elektroniniu paštu ir internetine telefonija: 
+5.3. susiję su interneto prieiga, internetu perduodamu elektroniniu paštu ir internetine telefonija:
 
 
-5.3.1. telefono, iš kurio skambinama, ryšio numeris, naudojamas tiesioginio rinkimo interneto ryšiui; 
+5.3.1. telefono, iš kurio skambinama, ryšio numeris, naudojamas tiesioginio rinkimo interneto ryšiui;
 
 
 
@@ -5202,18 +5274,46 @@ DUOMENŲ, KURIE TURI BŪTI SAUGOMI, KATEGORIJOS
 
 
 
-6.2. duomenys, reikalingi nustatyti geografinę tinklo įrangos vietą, atitinkančią vietovės žymą (Cell ID), tuo momentu, kai ryšio duomenys buvo išsaugoti.
+6.2. duomenys, reikalingi nustatyti geografinei tinklo įrangos vietai, atitinkančiai vietovės žymą (Cell ID), tuo momentu, kai ryšio duomenys buvo išsaugoti;
 
 
 
 
+6.3. duomenys, reikalingi nustatyti geografinei tinklo įrangos vietai, atitinkančiai vietovės žymų zoną (LAI), kaip tai apibrėžta telekomunikacijų standartuose;
+
+
+
+
+6.4. duomenys apie judriojo ryšio paslaugas teikiančio ūkio subjekto aktyvias (naudojamas) bazinių stočių aprėpties celes:
+
+
+6.4.1. vietovės žyma (Cell ID);
+
+
+
+
+6.4.2. geografinės koordinatės;
+
+
+
+
+6.4.3. užklausos metu esanti skleidžiamo signalo kryptis. 
 Įstatymas papildytas nauju 1 priedu:
 Nr. X-1835, 2008-11-14, Žin., 2008, Nr. 137-5383 (2008-11-29)
+
+
+
+
+
+
+Priedo pakeitimai:
+Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
  
 
 
 
 
+ 
 Lietuvos Respublikos
 elektroninių ryšių įstatymo 
 2 priedas
@@ -5454,3 +5554,8 @@ Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 9 ir 45 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-921, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21593
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 8, 9, 42-1 ir 71 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 5, 34, 66, 68, 77, 78 straipsnių ir 1 priedo pakeitimo įstatymas
