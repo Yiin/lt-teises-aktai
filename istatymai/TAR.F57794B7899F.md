@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2018-09-01
+Suvestinė redakcija nuo 2018-11-01 iki 2018-12-20
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -90,6 +90,14 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 7. Elektros energetikos sistema – visuma tarpusavyje suderintu režimu veikiančių elektros įrenginių, skirtų elektros energijai gaminti, perduoti ir skirstyti.
+
+
+
+
+71. Elektros energetikos sistemos adekvatumas – elektros energetikos sistemos gebėjimas užtikrinti elektros energijos gamybos ir vartojimo balansą ir elektros energijos tiekimo saugumą bet kuriuo momentu, esant normaliai ir avarinei sistemos būklei. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
 
 
 
@@ -2041,7 +2049,20 @@ ELEKTROS ENERGIJOS PERDAVIMAS
 
 
 
-3. Elektros energijos vartotojų įrenginiai gali būti prijungiami prie perdavimo tinklų tik tokiais atvejais, kai skirstomųjų tinklų operatorius dėl nustatytų techninių arba eksploatacijos reikalavimų atsisako prijungti prie skirstomųjų tinklų gamintojo ar vartotojo įrenginius, esančius skirstomųjų tinklų operatoriaus licencijoje nurodytoje veiklos teritorijoje.
+3. Elektros energijos vartotojų įrenginiai prijungiami prie perdavimo tinklų šiais atvejais:
+
+
+1) kai skirstomųjų tinklų operatorius dėl nustatytų techninių arba eksploatacijos reikalavimų atsisako prijungti prie skirstomųjų tinklų gamintojo ar vartotojo įrenginius, esančius skirstomųjų tinklų operatoriaus licencijoje nurodytoje veiklos teritorijoje;
+
+
+
+
+2) kai vartotojas pateikia prašymą prijungti prie perdavimo tinklų elektros įrenginius, kurių leistinoji naudoti galia yra ne mažesnė kaip 10 MW, ir sudaro su perdavimo sistemos operatoriumi elektros įrenginių prijungimo sutartį ir elektros energijos perdavimo paslaugos sutartį, kuriomis įsipareigoja 10 metų nuo elektros energijos perdavimo paslaugos sutarties įsigaliojimo momento nemažinti leistinosios naudoti galios ir už ją mokėti šio įstatymo 69 straipsnio 7 dalyje nurodytą galios dedamąją. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
 
 
 
@@ -2051,7 +2072,10 @@ ELEKTROS ENERGIJOS PERDAVIMAS
 
 
 
-5. Perdavimo sistemos operatorius privalo užtikrinti, kad elektros tinklų naudotojams būtų sudarytos objektyvios ir nediskriminacinės naudojimosi perdavimo tinklais sąlygos.
+5. Perdavimo sistemos operatorius privalo užtikrinti, kad tinklų naudotojams būtų sudarytos objektyvios ir nediskriminacinės naudojimosi perdavimo tinklais sąlygos. Komisija derina elektros energijos perdavimo paslaugos sutarčių standartines sąlygas, kurių projektą parengia ir Komisijai teikia perdavimo sistemos operatorius. Suderintas elektros energijos perdavimo paslaugos sutarčių standartines sąlygas perdavimo sistemos operatorius skelbia savo interneto svetainėje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
 
 
 
@@ -2888,15 +2912,15 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 391 straipsnis. Skirstomųjų tinklų plėtros planavimas
 
 
-1. Skirstomųjų tinklų operatorius, aptarnaujantis daugiau kaip 100 000 vartotojų, rengia 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą, grindžiamą esama ir numatoma elektros energijos pasiūla ir paklausa elektros energetikos sistemoje, elektros tinklo patikimumu, leistinu įrangos tarnavimo amžiumi bei išmaniųjų energijos tinklų ir išmaniųjų energijos apskaitos sistemų plėtros planais ir reikalavimais. Planas turi būti atnaujinamas kiekvienais metais ir ne vėliau kaip iki kiekvienų metų liepos 1 dienos paskelbiamas skirstomųjų tinklų operatoriaus interneto svetainėje. Prieš paskelbdamas 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą, skirstomųjų tinklų operatorius vykdo skaidrias ir viešas konsultacijas su kompetentingomis valstybės institucijomis ir kitomis suinteresuotomis šalimis.
+1. Skirstomųjų tinklų operatorius, aptarnaujantis daugiau kaip 100 000 vartotojų, rengia 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą, grindžiamą esama ir numatoma elektros energijos pasiūla ir paklausa elektros energetikos sistemoje, elektros tinklo patikimumu, leistinu įrangos tarnavimo amžiumi bei išmaniųjų energijos tinklų ir išmaniųjų energijos apskaitos sistemų plėtros planais ir reikalavimais, taip pat tinklo optimizavimo galimybėmis. Planas turi būti atnaujinamas kiekvienais metais ir ne vėliau kaip iki kiekvienų metų liepos 1 dienos paskelbiamas skirstomųjų tinklų operatoriaus interneto svetainėje. Prieš paskelbdamas 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą, skirstomųjų tinklų operatorius vykdo skaidrias ir viešas konsultacijas su kompetentingomis valstybės institucijomis ir kitomis suinteresuotomis šalimis.
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodytame skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plane, be kita ko, nurodoma:
+2. Šio straipsnio 1 dalyje nurodytame 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plane, be kita ko, nurodoma:
 
 
-1) skirstomųjų tinklų įrengimo, atnaujinimo gairės – infrastruktūros dalys, kurios bus įrengiamos ar atnaujinamos per planuojamą 10 metų laikotarpį;
+1) skirstomųjų tinklų įrengimo, atnaujinimo gairės – infrastruktūros dalys, kurias planuojama įrengti ar atnaujinti per planuojamą 10 metų laikotarpį;
 
 
 
@@ -2923,21 +2947,21 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-3. Rengdamas skirstomųjų tinklų plėtros, atnaujinimo ir modernizavimo investicijų planą, skirstomųjų tinklų operatorius įvertina prognozes apie elektros energijos gamybos, tiekimo ir vartojimo tendencijas, atsižvelgdamas į valstybės politikos kryptis, pagrįstas elektros energetikos sektoriaus veiklos reguliavimo bendraisiais principais.
+3. Rengdamas 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą, skirstomųjų tinklų operatorius įvertina prognozes apie elektros energijos gamybos, tiekimo ir vartojimo tendencijas, atsižvelgdamas į valstybės politikos kryptis, pagrįstas elektros energetikos sektoriaus veiklos reguliavimo bendraisiais principais.
 
 
 
 
-4. Komisija atlieka skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plano įgyvendinimo stebėseną. Komisija, nustačiusi skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plano neatitiktį šiame straipsnyje nustatytiems reikalavimams, teikia skirstomųjų tinklų operatoriui pastabas dėl skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plano koregavimo ar keitimo ir nurodo protingą terminą šiems veiksmams atlikti. Skirstomųjų tinklų operatorius, savo interneto svetainėje nepaskelbęs skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plano šio straipsnio 1 dalyje nustatytais terminais arba paskelbęs planą nesilaikydamas šiame straipsnyje nustatytų reikalavimų ir nepašalinęs nustatytų pažeidimų per Komisijos nurodytą terminą, laikomas pažeidusiu reguliuojamos elektros energijos skirstymo veiklos sąlygas.
+4. Komisija turi teisę kreiptis į skirstomųjų tinklų operatorių su prašymu pateikti papildomą informaciją apie 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą, informaciją apie praėjusiais metais atliktas investicijas ir (ar) paaiškinimus dėl neatliktų investicijų pagal 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą. 
 
 
 
 
-5. Tuo atveju, kai skirstomųjų tinklų operatorius neatlieka investicijų, kurios pagal skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą turėjo būti padarytos per praėjusius 3 metus, Komisija gali įpareigoti skirstomųjų tinklų operatorių atlikti atitinkamas investicijas ir (ar) imtis kitų šiame įstatyme ir Energetikos įstatyme nustatytų priemonių, siekiant užtikrinti skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plano įgyvendinimą.
+5. Tuo atveju, kai skirstomųjų tinklų operatorius neatlieka 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plano investicijų, kurios taip pat yra numatytos Vyriausybės nutarimuose, Komisija gali įpareigoti skirstomųjų tinklų operatorių pateikti derinti atitinkamas investicijas ir suderinusi investicijų projektą įpareigoti šias investicijas atlikti. Tuo atveju, kai Komisija pasinaudoja šioje dalyje nurodytais įgaliojimais, atitinkamų suderintų investicijų sąnaudos įvertinamos nustatant skirstomųjų tinklų operatoriaus paslaugos ir susijusių paslaugų kainas. 
 
 
-Papildyta straipsniu:
-Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Straipsnio pakeitimai:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
  
 
 
@@ -4432,27 +4456,31 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-9. Skirstomųjų tinklų operatoriaus sąnaudos, nurodytos šio straipsnio 7 ir 8 dalyse, apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo ar gamintojo elektros įrenginių prijungimu prie skirstomųjų tinklų. Tokias perdavimo sistemos operatoriaus sąnaudas vartotojas ir gamintojas, taikant šio straipsnio 7 dalyje nustatytą sąnaudų paskirstymo tvarką, apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriui 100 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gamintojo elektros įrenginius, arba 10 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo, nurodyto šio straipsnio 7 dalies 2 punkte, elektros įrenginius, arba 40 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo, nurodyto šio straipsnio 7 dalies 3 punkte, elektros įrenginius. Likusi nepadengta perdavimo sistemos operatoriaus sąnaudų dalis laikoma perdavimo sistemos operatoriaus tinklų plėtros išlaidomis.
+9. Skirstomųjų tinklų operatoriaus sąnaudos, nurodytos šio straipsnio 7 ir 8 dalyse, apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo ar gamintojo elektros įrenginių prijungimu prie skirstomųjų tinklų. Tokias perdavimo sistemos operatoriaus sąnaudas vartotojas ir gamintojas, taikant šio straipsnio 7 dalyje nustatytą sąnaudų paskirstymo tvarką, apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriui 100 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gamintojo elektros įrenginius, arba 10 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo, nurodyto šio straipsnio 7 dalies 2 punkte, elektros įrenginius, arba 40 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo, nurodyto šio straipsnio 7 dalies 4 punkte, elektros įrenginius. Likusi nepadengta perdavimo sistemos operatoriaus sąnaudų dalis laikoma perdavimo sistemos operatoriaus tinklų plėtros išlaidomis. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
  
 
 
 
 
-10. Tuo atveju, kai buitinis vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant šio straipsnio 7 dalies 1 punkte nurodytą sąnaudų paskirstymo tvarką, ne vėliau kaip per 12 mėnesių nuo elektros įrenginių prijungimo momento pradeda vartoti šiais įrenginiais patiektą elektros energiją savo ar kitų asmenų ūkinės komercinės ar profesinės veiklos reikmėms tenkinti, toks vartotojas nėra laikomas buitiniu vartotoju ir, gavęs atitinkamą skirstomųjų tinklų operatoriaus reikalavimą, privalo apmokėti likusią sąnaudų dalį, apskaičiuojamą šio straipsnio 7 dalies 3 punkte nustatyta tvarka.
+10. Tuo atveju, kai buitinis vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant šio straipsnio 7 dalies 1 punkte nurodytą sąnaudų paskirstymo tvarką, ne vėliau kaip per 12 mėnesių nuo elektros įrenginių prijungimo momento pradeda vartoti šiais įrenginiais patiektą elektros energiją savo ar kitų asmenų ūkinės komercinės ar profesinės veiklos reikmėms tenkinti, toks vartotojas nėra laikomas buitiniu vartotoju ir, gavęs atitinkamą skirstomųjų tinklų operatoriaus reikalavimą, privalo apmokėti likusią sąnaudų dalį, apskaičiuojamą šio straipsnio 7 dalies 4 punkte nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
  
 
 
 
 
-11. Tuo atveju, kai vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant šio straipsnio 7 dalies 2 punkte nurodytą sąnaudų paskirstymo tvarką, sumažina leistinąją naudoti galią nepraėjus 10 metų nuo elektros energijos persiuntimo paslaugos sutarties įsigaliojimo, vartotojas privalo apmokėti visas patirtas skirstomųjų tinklų operatoriaus sąnaudas, susijusias su vartotojo elektros įrenginių prijungimu prie skirstomųjų tinklų, proporcingai sumažintai leistinajai naudoti galiai. 
+11. Tuo atveju, kai vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant šio straipsnio 7 dalies 2 punkte nurodytą sąnaudų paskirstymo tvarką, sumažina leistinąją naudoti galią nepraėjus 10 metų nuo elektros energijos persiuntimo paslaugos sutarties, vartotojas privalo apmokėti visas patirtas skirstomųjų tinklų operatoriaus sąnaudas, susijusias su vartotojo elektros įrenginių prijungimu prie skirstomųjų tinklų, proporcingai sumažintai leistinajai naudoti galiai. Jeigu skirstomųjų tinklų operatoriaus sąnaudos apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo elektros įrenginių prijungimu prie skirstomųjų tinklų, perdavimo sistemos operatoriaus patirtas sąnaudas, proporcingai sumažintai leistinajai naudoti galiai, vartotojas apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriaus patirtas sąnaudas proporcingai vartotojo sumažintai leistinajai naudoti galiai. 
 Papildyta straipsnio dalimi:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Straipsnio dalies pakeitimai:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
  
 
 
@@ -4508,7 +4536,10 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-3) įpareigoja pakeisti taikomas paslaugų kainas arba nustato viršutinę reguliuojamų paslaugų kainų ribą.
+3) įpareigoja pakeisti taikomas paslaugų kainas arba nustato viršutinę reguliuojamų paslaugų kainų ir (ar) pajamų ribą. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
 
 
 
@@ -4571,6 +4602,22 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 13. Komisija turi teisę reikalauti, kad asmenų, kuriems nustatyti šio straipsnio 1 dalyje nurodyti įpareigojimai, teikiami duomenys būtų patikrinti nepriklausomo audito šių asmenų lėšomis.
+
+
+
+
+14. Nustatydama šio straipsnio 1 dalies 3 punkte numatytą įpareigojimą, Komisija turi teisę nustatyti viršutinių reguliuojamų paslaugų kainų ir (ar) pajamų ribos nustatymo metodiką, atsižvelgdama į šio straipsnio 5 dalyje nustatytus kriterijus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
+
+
+
+
+15. Viršutinių reguliuojamų paslaugų kainų ir (ar) pajamų ribos reguliavimas taikomas laikotarpiui, kuriam asmuo pripažintas turinčiu didelę įtaką elektros energijos rinkoje. Konkrečią viršutinių reguliuojamų paslaugų kainų ir (ar) pajamų ribą Komisija nustato kiekvienais kalendoriniais metais. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
 
 
 
@@ -4665,7 +4712,9 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-9. Paslaugos teikėjo nustatytas kainas ir tarifus per 30 kalendorinių dienų nuo paslaugos teikėjo prašymo gavimo dienos skelbia Komisija, prieš tai patikrinusi, ar nustatant kainas ir tarifus nebuvo pažeisti kainų ir tarifų nustatymo reikalavimai, ar nediskriminuojami vartotojai. Komisija, nustačiusi, kad paslaugos teikėjo pateiktos paslaugų kainos ir tarifai nustatyti nesilaikant kainų ir tarifų nustatymo reikalavimų arba kad yra diskriminuojami vartotojai, nurodo paslaugų teikėjui klaidas, kurias paslaugų teikėjas turi ištaisyti, ir kad ne vėliau kaip per 10 kalendorinių dienų nuo Komisijos pastabų gavimo Komisijai turi būti pateiktos pataisytos paslaugų kainos ir tarifai. Komisija ne vėliau kaip per 30 kalendorinių dienų nuo pataisytų paslaugų kainų ir tarifų pateikimo juos paskelbia arba, jeigu paslaugų teikėjas per nustatytą terminą neištaiso nurodytų klaidų, paslaugų kainas ir tarifus nustato vienašališkai ir juos paskelbia.
+9. Paslaugos teikėjo nustatytas kainas ir tarifus per 15 kalendorinių dienų nuo paslaugos teikėjo prašymo gavimo dienos skelbia Komisija, prieš tai patikrinusi, ar nustatant kainas ir tarifus nebuvo pažeisti kainų ir tarifų nustatymo reikalavimai, ar nediskriminuojami vartotojai. Komisija, nustačiusi, kad paslaugos teikėjo pateiktos paslaugų kainos ir tarifai nustatyti nesilaikant kainų ir tarifų nustatymo reikalavimų arba kad yra diskriminuojami vartotojai, nurodo paslaugų teikėjui klaidas, kurias paslaugų teikėjas turi ištaisyti, ir kad ne vėliau kaip per 10 kalendorinių dienų nuo Komisijos pastabų gavimo Komisijai turi būti pateiktos pataisytos paslaugų kainos ir tarifai. Komisija ne vėliau kaip per 15 kalendorinių dienų nuo pataisytų paslaugų kainų ir tarifų pateikimo juos paskelbia arba, jeigu paslaugų teikėjas per nustatytą terminą neištaiso nurodytų klaidų, paslaugų kainas ir tarifus nustato vienašališkai ir juos paskelbia. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
  
@@ -4673,7 +4722,9 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-10. Gamintojų, kurių parduodamos elektros energijos ir rezervinės galios kainos yra reguliuojamos, elektros energijos pardavimo kaina ir perdavimo sistemos operatoriaus perdavimo paslaugos kainos ir tarifai įsigalioja praėjus 2 mėnesiams nuo jų paskelbimo. Skirstomųjų tinklų operatoriaus skirstymo paslaugos kainos bei tarifai ir visuomeninės elektros energijos kainos bei tarifai įsigalioja praėjus vienam mėnesiui nuo jų paskelbimo.
+10. Perdavimo sistemos operatoriaus perdavimo paslaugos kainos ir tarifai įsigalioja praėjus 2 mėnesiams nuo jų paskelbimo. Gamintojų, kurių parduodamos elektros energijos ir rezervinės galios kainos yra reguliuojamos, elektros energijos pardavimo ir rezervinės galios kainos ir (ar) nustatyta pajamų riba, skirstomųjų tinklų operatoriaus skirstymo paslaugos kainos ir tarifai įsigalioja praėjus ne mažiau kaip 45 dienoms nuo jų paskelbimo, o visuomeninės elektros energijos kainos ir tarifai įsigalioja praėjus ne mažiau kaip vienam mėnesiui nuo jų paskelbimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
  
@@ -4724,6 +4775,14 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 16. Laikotarpiu, kol bus nustatytos elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainos šiame straipsnyje nustatyta tvarka, galioja ir yra taikomos atitinkamų paslaugų kainos, nustatytos iki šio įstatymo įsigaliojimo dienos.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
+
+
+17. Sisteminių paslaugų kainą, kaip atskirą elektros energijos kainos dedamąją prie perdavimo paslaugos kainos, nustato Komisija ne vėliau kaip iki einamųjų metų spalio 20 dienos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
  
 
 
@@ -5067,6 +5126,22 @@ TAR pastaba. 74 straipsnio 2 dalies 2 punkto nuostatos taikomos tik po įstatymo
 
 
 10. Šio straipsnio 4 ir 5 dalyse nurodytų įrenginių ir jų pagamintos elektros energijos, asmenų savo ūkiniams poreikiams suvartotos ir asmenų, iš gamintojų gaunančių elektros energiją tiesioginėmis linijomis, ūkiniams poreikiams suvartotos elektros energijos kiekio kontrolę atlieka Valstybinė energetikos inspekcija.
+
+
+
+
+11. Šio straipsnio 2 dalies 4 punkte nustatyta viešuosius interesus atitinkanti paslauga yra skirta saugiam ir patikimam elektros energetikos sistemos veikimui, Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme įtvirtintos nacionaliniam saugumui ir elektros energijai gaminti skirtos infrastruktūros funkcionavimui užtikrinti ir galimiems elektros energijos pasiūlos didmeninėje elektros energijos rinkoje trūkumams pašalinti. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
+
+
+
+
+12. Asmuo ar asmenys, kurie yra įpareigoti teikti šio straipsnio 2 dalies 4 punkte nustatytą viešuosius interesus atitinkančią paslaugą, šiai paslaugai teikti Vyriausybės nustatyto dydžio elektros energijos gamybos pajėgumus ar dalį jų gali naudoti tik elektros energetikos sistemos adekvatumui užtikrinti ir elektros energijos biržos ir (ar) perdavimo sistemos operatoriui pateikus informaciją apie elektros energijos pasiūlos didmeninėje elektros energijos rinkoje trūkumą privalo užtikrinti Vyriausybės nustatyto dydžio elektros energijos gamybos pajėgumų prieinamumą elektros energijos pasiūlos trūkumui padengti. Susidarius elektros energijos gamybos pajėgumų trūkumui elektros energijos rinkoje ir (ar) esant nepakankamam jungiamųjų linijų pralaidumui, kada negali būti patenkinamas visas elektros energijos vartojimo poreikis ir nėra kitų patikimų šaltinių užtikrinti sistemos gamybos ir vartojimo balansą, perdavimo sistemos operatorius kreipiasi į asmenį ar asmenis, kurie yra įpareigoti teikti šio straipsnio 2 dalies 4 punkte nustatytą viešuosius interesus atitinkančią paslaugą, kad jie, įvertinę visas elektros energijos gamybos sąnaudas, išskyrus pelno normą (maržą), privalo pateikti ne mažesnės, negu apibrėžta įrenginio technologinėse charakteristikose, minimalios gamybos apimties pasiūlymus dėl elektros energijos pardavimo kitos paros prekybos elektros energijos biržoje. Be to, asmuo ar asmenys, kurie yra įpareigoti teikti šio straipsnio 2 dalies 4 punkte nustatytą viešuosius interesus atitinkančią paslaugą, gali teikti pasiūlymus ir dėl reguliavimo elektros energijos pardavimo. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
 
 
 Straipsnio pakeitimai:
