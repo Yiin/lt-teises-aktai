@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-05-01 iki 2018-10-31
+Suvestinė redakcija nuo 2018-11-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -2534,7 +2534,10 @@ Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
 
 
 
-3. Statinio projektas turi būti parengtas tais atvejais kai privaloma gauti šio įstatymo 27 straipsnio 1 dalies 1–7 punktuose nurodytus statybą leidžiančius dokumentus, išskyrus daugiabučių namų ar viešųjų pastatų kapitalinio remonto projektus, kurie turi būti parengti visais atvejais. Statinių griovimo projektai vykdant teismų sprendimus ar Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos privalomuosius nurodymus rengiami tik Aplinkos ministerijos nustatytais atvejais. Statinio projektas rengiamas vadovaujantis privalomaisiais statinio projekto rengimo dokumentais (atrankos išvada dėl poveikio aplinkai vertinimo, poveikio aplinkai vertinimo ataskaita, sprendimu dėl planuojamos ūkinės veiklos galimybių (kai pagal Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas turi būti atliktos planuojamos ūkinės veiklos poveikio aplinkai vertinimo procedūros); poveikio visuomenės sveikatai vertinimo dokumentais (jeigu atliekamos poveikio visuomenės sveikatai vertinimo procedūros); teritorijų planavimo dokumentais, žemėtvarkos planavimo dokumentais, nuosavybės teisę ar kitokias teises į žemę (statybos sklypą) patvirtinančiais dokumentais; technine užduotimi; žemės sklypo (teritorijos) ir statinio statybinių tyrimų (jeigu juos atlikti privaloma arba jie atlikti) dokumentais; kultūros paveldo tyrimų medžiaga; projektiniais pasiūlymais (kai juos rengti privaloma aplinkos ministro nustatytais atvejais); specialiaisiais reikalavimais (jeigu jie buvo gauti), prisijungimo sąlygomis); galiojančiais teisės aktais.
+3. Statinio projektas turi būti parengtas tais atvejais, kai privaloma gauti šio įstatymo 27 straipsnio 1 dalies 1–7 punktuose nurodytus statybą leidžiančius dokumentus, taip pat tais atvejais, kai šio įstatymo 27 straipsnio 1 dalyje nurodytiems krašto apsaugos tikslams skirtose teritorijose statomiems statiniams statybą leidžiantis dokumentas nereikalingas, išskyrus daugiabučių namų ar viešųjų pastatų kapitalinio remonto projektus, kurie turi būti parengti visais atvejais. Statinių griovimo projektai vykdant teismų sprendimus ar Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos privalomuosius nurodymus rengiami tik Aplinkos ministerijos nustatytais atvejais. Statinio projektas rengiamas vadovaujantis privalomaisiais statinio projekto rengimo dokumentais (atrankos išvada dėl poveikio aplinkai vertinimo, poveikio aplinkai vertinimo ataskaita, sprendimu dėl planuojamos ūkinės veiklos galimybių (kai pagal Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatas turi būti atliktos planuojamos ūkinės veiklos poveikio aplinkai vertinimo procedūros); poveikio visuomenės sveikatai vertinimo dokumentais (jeigu atliekamos poveikio visuomenės sveikatai vertinimo procedūros); teritorijų planavimo dokumentais, žemėtvarkos planavimo dokumentais, nuosavybės teisę ar kitokias teises į žemę (statybos sklypą) patvirtinančiais dokumentais; technine užduotimi; žemės sklypo (teritorijos) ir statinio statybinių tyrimų (jeigu juos atlikti privaloma arba jie atlikti) dokumentais; kultūros paveldo tyrimų medžiaga; projektiniais pasiūlymais (kai juos rengti privaloma aplinkos ministro nustatytais atvejais); specialiaisiais reikalavimais (jeigu jie buvo gauti), prisijungimo sąlygomis); galiojančiais teisės aktais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1321, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11315
+ 
 
 
 
@@ -2732,12 +2735,12 @@ STATYBĄ LEIDŽIANTYS DOKUMENTAI. STATYBOS UŽBAIGIMAS
 1. Statybą leidžiantys dokumentai yra:
 
 
-1) leidimas statyti naują statinį – naujo ypatingojo ir neypatingojo statinio statybai; naujo nesudėtingojo statinio statybai mieste, konservacinės apsaugos prioriteto ar kompleksinėje saugomoje teritorijoje, kitoje teritorijoje aplinkos ministro nustatytais atvejais; naujo nesudėtingojo statinio statybai kultūros paveldo objekto teritorijoje, kultūros paveldo objekto apsaugos zonoje, kultūros paveldo vietovėje kultūros ministro ir aplinkos ministro nustatytais atvejais;
+1) leidimas statyti naują statinį – naujo ypatingojo ir neypatingojo statinio statybai (išskyrus krašto apsaugos tikslams skirtose teritorijose statomą naują neypatingąjį statinį); naujo nesudėtingojo statinio statybai mieste (išskyrus krašto apsaugos tikslams skirtose teritorijose statomą naują nesudėtingąjį statinį), konservacinės apsaugos prioriteto ar kompleksinėje saugomoje teritorijoje, kitoje teritorijoje aplinkos ministro nustatytais atvejais; naujo nesudėtingojo statinio statybai kultūros paveldo objekto teritorijoje, kultūros paveldo objekto apsaugos zonoje, kultūros paveldo vietovėje kultūros ministro ir aplinkos ministro nustatytais atvejais;
 
 
 
 
-2) leidimas rekonstruoti statinį – ypatingojo ar neypatingojo statinio rekonstravimui; nesudėtingojo statinio rekonstravimui mieste, konservacinės apsaugos prioriteto ar kompleksinėje saugomoje teritorijoje, kitoje teritorijoje aplinkos ministro nustatytais atvejais; nesudėtingojo statinio rekonstravimui kultūros paveldo objekto teritorijoje, kultūros paveldo objekto apsaugos zonoje, kultūros paveldo vietovėje kultūros ministro ir aplinkos ministro nustatytais atvejais;
+2) leidimas rekonstruoti statinį – ypatingojo ar neypatingojo statinio rekonstravimui (išskyrus krašto apsaugos tikslams skirtose teritorijose rekonstruojamą neypatingąjį statinį); nesudėtingojo statinio rekonstravimui mieste (išskyrus krašto apsaugos tikslams skirtose teritorijose rekonstruojamą nesudėtingąjį statinį), konservacinės apsaugos prioriteto ar kompleksinėje saugomoje teritorijoje, kitoje teritorijoje aplinkos ministro nustatytais atvejais; nesudėtingojo statinio rekonstravimui kultūros paveldo objekto teritorijoje, kultūros paveldo objekto apsaugos zonoje, kultūros paveldo vietovėje kultūros ministro ir aplinkos ministro nustatytais atvejais;
 
 
 
@@ -2747,7 +2750,7 @@ STATYBĄ LEIDŽIANTYS DOKUMENTAI. STATYBOS UŽBAIGIMAS
 
 
 
-4) leidimas atlikti statinio kapitalinį remontą – ypatingo ir neypatingo daugiabučio namo, viešojo pastato kapitaliniam remontui, atliekamam mieste, konservacinio prioriteto ar kompleksinėje saugomoje teritorijoje, aplinkos ministro nustatytais atvejais – kitoje teritorijoje, kai keičiama pastato išvaizda, taip pat kai atliekant šių pastatų kapitalinį remontą įrengiamos, pertvarkomos, išmontuojamos pastato dujų, šildymo ar elektros bendrosios inžinerinės sistemos, išskyrus atvejus, kai būtina skubiai atlikti statybos darbus, reikalingus avarijos grėsmei, jos ar stichinės nelaimės padariniams pašalinti; kultūros paveldo statinio kapitaliniam remontui; statinio kapitaliniam remontui, kai keičiama statinio ar patalpų paskirtis; ypatingojo ir neypatingojo daugiabučio namo, viešojo pastato, nesudėtingojo statinio kapitaliniam remontui kultūros paveldo objekto teritorijoje arba kultūros paveldo vietovėje kultūros ministro ir aplinkos ministro nustatytais atvejais; 
+4) leidimas atlikti statinio kapitalinį remontą – ypatingojo ir neypatingojo daugiabučio namo, viešojo pastato kapitaliniam remontui (išskyrus krašto apsaugos tikslams skirtose teritorijose remontuojamą neypatingąjį statinį), atliekamam mieste, konservacinio prioriteto ar kompleksinėje saugomoje teritorijoje, aplinkos ministro nustatytais atvejais – kitoje teritorijoje, kai keičiama pastato išvaizda, taip pat kai atliekant šių pastatų kapitalinį remontą įrengiamos, pertvarkomos, išmontuojamos pastato dujų, šildymo ar elektros bendrosios inžinerinės sistemos, išskyrus atvejus, kai būtina skubiai atlikti statybos darbus, reikalingus avarijos grėsmei, jos ar stichinės nelaimės padariniams pašalinti; kultūros paveldo statinio kapitaliniam remontui; statinio kapitaliniam remontui, kai keičiama statinio ar patalpų paskirtis (išskyrus krašto apsaugos tikslams skirtose teritorijose remontuojamą neypatingąjį ir nesudėtingąjį statinį); ypatingojo ir neypatingojo daugiabučio namo, viešojo pastato, nesudėtingojo statinio kapitaliniam remontui kultūros paveldo objekto teritorijoje arba kultūros paveldo vietovėje kultūros ministro ir aplinkos ministro nustatytais atvejais;
 
 
 
@@ -2757,19 +2760,22 @@ STATYBĄ LEIDŽIANTYS DOKUMENTAI. STATYBOS UŽBAIGIMAS
 
 
 
-6) leidimas pakeisti statinio ar jo dalies paskirtį – keičiant ypatingojo ar neypatingojo pastato (patalpos, patalpų) ar inžinerinio statinio paskirtį, kai atliekami statinio paprastojo remonto darbai arba neatliekami jokie statybos darbai;
+6) leidimas pakeisti statinio ar jo dalies paskirtį – keičiant ypatingojo ar neypatingojo pastato (patalpos, patalpų) ar inžinerinio statinio paskirtį (išskyrus krašto apsaugos tikslams skirtose teritorijose esantį neypatingąjį pastatą (patalpą, patalpas) ar inžinerinį statinį), kai atliekami statinio paprastojo remonto darbai arba neatliekami jokie statybos darbai;
 
 
 
 
-7) leidimas nugriauti statinį – ypatingojo ar neypatingojo statinio griovimui, išskyrus atvejus, kai statinys griaunamas vykdant teismo sprendimą ar Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos privalomąjį nurodymą arba nedarant fizinės įtakos kitiems savininkams priklausančio turto būklei išardomos (pašalinamos) statinio dalys, likusios po statinio avarijos ar stichinės nelaimės, pašalinamos sunykusio, sugriuvusio statinio likusios dalys, nugriaunamas atskirai stovintis neypatingasis statinys;
+7) leidimas nugriauti statinį – ypatingojo ar neypatingojo statinio griovimui, išskyrus atvejus, kai statinys griaunamas vykdant teismo sprendimą ar Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos privalomąjį nurodymą, griaunamas krašto apsaugos tikslams skirtose teritorijose esantis neypatingasis statinys arba nedarant fizinės įtakos kitiems savininkams priklausančio turto būklei išardomos (pašalinamos) statinio dalys, likusios po statinio avarijos ar stichinės nelaimės, pašalinamos sunykusio, sugriuvusio statinio likusios dalys, nugriaunamas atskirai stovintis neypatingasis statinys;
 
 
 
 
-8) leidimas tęsti sustabdytą statybą, išskyrus atvejus, kai statyba tęsiama pašalinus savavališkos statybos padarinius.
+8) leidimas tęsti sustabdytą statybą, išskyrus atvejus, kai statyba tęsiama pašalinus savavališkos statybos padarinius. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1321, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11315
+ 
 
 
 
@@ -3125,7 +3131,10 @@ Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
 
 
 
-2. Ypatingųjų ir neypatingųjų vieno ar dviejų butų gyvenamųjų, pagalbinio ūkio paskirties pastatų (išskyrus kultūros paveldo statinius) ir ypatingųjų bei neypatingųjų statinių pagal aplinkos ministro patvirtintą sąrašą statyba (naujo statinio statyba, statinio rekonstravimas) užbaigiama statytojui ar jo teises ir pareigas perėmusiam asmeniui surašant deklaraciją apie statybos užbaigimą, ją patvirtinant ir įregistruojant Valstybinėje teritorijų planavimo ir statybos inspekcijoje prie Aplinkos ministerijos. Deklaracijas apie statybos užbaigimą tvirtina statybos valstybinę priežiūrą vykdantys pareigūnai. Šioje dalyje nurodytais atvejais deklaracijos apie statybos užbaigimą neprivaloma tvirtinti, jeigu atlikta statinio ekspertizė Aplinkos ministerijos nustatyta tvarka.
+2. Ypatingųjų ir neypatingųjų vieno ar dviejų butų gyvenamųjų, pagalbinio ūkio paskirties pastatų (išskyrus kultūros paveldo statinius), ypatingųjų ir neypatingųjų statinių pagal aplinkos ministro patvirtintą sąrašą ir krašto apsaugos tikslams skirtose teritorijose statomų neypatingųjų statinių statyba (naujo statinio statyba, statinio rekonstravimas) užbaigiama statytojui ar jo teises ir pareigas perėmusiam asmeniui surašant deklaraciją apie statybos užbaigimą, ją patvirtinant ir įregistruojant Valstybinėje teritorijų planavimo ir statybos inspekcijoje prie Aplinkos ministerijos. Deklaracijas apie statybos užbaigimą tvirtina statybos valstybinę priežiūrą vykdantys pareigūnai. Šioje dalyje nurodytais atvejais deklaracijos apie statybos užbaigimą neprivaloma tvirtinti, jeigu atlikta statinio ekspertizė Aplinkos ministerijos nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1321, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11315
+ 
 
 
 
@@ -3365,7 +3374,10 @@ Savavališkos statybos padariniai šalinami Lietuvos Respublikos teritorijų pla
 34 straipsnis. Statinio projekto ekspertizė. Statinio ekspertizė
 
 
-1. Ypatingojo statinio ir statinio, kurio projektavimas ir (ar) statyba finansuojama Lietuvos Respublikos ir (ar) Europos Sąjungos biudžeto lėšomis, statinių projektų ekspertizė privaloma. Kultūros paveldo statinių tvarkomųjų statybos darbų projektų ekspertizės atlikimo privalomus atvejus nustato kultūros ministras, suderinęs su aplinkos ministru. Kitus statinio projekto ar atskirų statinio projekto dalių ekspertizės privalomus atvejus nustato aplinkos ministras.
+1. Ypatingojo statinio ir statinio, kurio projektavimas ir (ar) statyba finansuojama Lietuvos Respublikos ir (ar) Europos Sąjungos biudžeto lėšomis, projektų ekspertizė privaloma. Kultūros paveldo statinių tvarkomųjų statybos darbų projektų ekspertizės atlikimo privalomus atvejus nustato kultūros ministras, suderinęs su aplinkos ministru. Kitus statinio projekto ar atskirų statinio projekto dalių ekspertizės privalomus atvejus nustato aplinkos ministras. Statinio projekto ekspertizė neprivaloma krašto apsaugos tikslams skirtose teritorijose projektuojant nesudėtingąjį statinį, kurio projektavimas ir statyba finansuojama Lietuvos Respublikos biudžeto lėšomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1321, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11315
+ 
 
 
 
@@ -3453,10 +3465,17 @@ Savavališkos statybos padariniai šalinami Lietuvos Respublikos teritorijų pla
 37 straipsnis. Visuomenės informavimas apie numatomą statinių projektavimą ir visuomenės dalyvavimas svarstant statinių projektinius pasiūlymus
 
 
-Savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) privalo informuoti visuomenę apie numatomą visuomenei svarbių statinių ir statinių dalių projektavimą, apie numatomą statinių ir statinių dalių projektavimą, kai Lietuvos Respublikos teritorijų planavimo įstatymo 20 straipsnyje nustatytais atvejais neparengti vietovės lygmens teritorijų planavimo dokumentai ir statyba konkrečiame žemės sklype leidžiama. Visuomenei svarbių statinių ir statinių dalių sąrašus (nurodant paskirtį), informavimo ir visuomenės dalyvavimo svarstant statinių ir statinių dalių projektinius pasiūlymus tvarką nustato aplinkos ministras.
+1. Savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) privalo informuoti visuomenę apie numatomą visuomenei svarbių statinių ir statinių dalių projektavimą, apie numatomą statinių ir statinių dalių projektavimą, kai Lietuvos Respublikos teritorijų planavimo įstatymo 20 straipsnyje nustatytais atvejais neparengti vietovės lygmens teritorijų planavimo dokumentai ir statyba konkrečiame žemės sklype leidžiama, taip pat apie visuomenės dalyvavimą svarstant statinių ir statinių dalių projektinius pasiūlymus. Visuomenei svarbių statinių ir statinių dalių sąrašus (nurodant paskirtį), visuomenės informavimo apie numatomą statinių ir statinių dalių projektavimą ir visuomenės dalyvavimo svarstant statinių ir statinių dalių projektinius pasiūlymus tvarką nustato aplinkos ministras. 
+
+
+
+
+2. Kai projektuojami statiniai ar statinių dalys krašto apsaugos tikslams skirtose teritorijose, informuoti visuomenę apie numatomą šių statinių ir statinių dalių projektavimą, taip pat apie visuomenės dalyvavimą svarstant tokių statinių ir statinių dalių projektinius pasiūlymus neprivaloma. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1321, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11315
  
-
-
 
 
 
@@ -5075,3 +5094,8 @@ Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
 Lietuvos Respublikos statybos įstatymo Nr. I-1240 6, 24 ir 27 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1321, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11315
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 24, 27, 28, 34 ir 37 straipsnių pakeitimo įstatymas
