@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-10-31
+Suvestinė redakcija nuo 2018-11-01 iki 2018-12-19
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -441,9 +441,30 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 
 
 
-2) ne ilgiau kaip trims mėnesiams, kai paaiškėja, kad asmens sveikatos priežiūros įstaiga pažeidžia šio straipsnio 4 dalyje nurodytus reikalavimus (išskyrus atvejus, kai paslaugų teikimas stabdomas šio įstatymo 54 straipsnyje nustatyta tvarka) ir per Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos nustatytą licencijuojamos veiklos pažeidimų pašalinimo terminą, kuris negali būti ilgesnis kaip 30 dienų nuo licencijos asmens sveikatos priežiūros veiklai turėtojo informavimo apie pažeidimo padarymą dienos, Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nustatyta tvarka nepašalina licencijuojamos veiklos pažeidimų.
+2) ne ilgiau kaip trims mėnesiams, kai paaiškėja, kad asmens sveikatos priežiūros įstaiga pažeidžia šio straipsnio 4 dalyje nurodytus reikalavimus (išskyrus atvejus, kai paslaugų teikimas stabdomas šio įstatymo 54 straipsnyje nustatyta tvarka), ir yra bent viena iš šių sąlygų:
 
 
+a) yra realus pavojus pacientų sveikatai ar gyvybei;
+
+
+
+
+b) per Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos nustatytą licencijuojamos veiklos pažeidimų pašalinimo terminą, kuris negali būti ilgesnis kaip 30 dienų nuo licencijos asmens sveikatos priežiūros veiklai turėtojo informavimo apie pažeidimo padarymą dienos, asmens sveikatos priežiūros įstaiga Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nustatyta tvarka nepašalina licencijuojamos veiklos pažeidimų.
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
+ 
+
+
+
+
+
+
+111. Licencijos asmens sveikatos priežiūros veiklai ar jos dalies galiojimas stabdomas tik toms asmens sveikatos priežiūros paslaugoms, kurias teikiant nustatyti pažeidimai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
+ 
 
 
 
@@ -456,7 +477,10 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 
 
 
-2) šio straipsnio 11 dalies 2 punkte nurodytu atveju – ne vėliau kaip per tris darbo dienas nuo šio straipsnio 11 dalies 2 punkte nurodyto termino, per kurį asmens sveikatos priežiūros įstaiga turėjo pašalinti licencijuojamos veiklos pažeidimus, bet jų nepašalino, pabaigos.
+2) šio straipsnio 11 dalies 2 punkto a papunktyje nurodytu atveju – nedelsiant po pažeidimo nustatymo, o šio straipsnio 11 dalies 2 punkto b papunktyje nurodytu atveju – ne vėliau kaip per tris darbo dienas nuo šiame papunktyje nurodyto termino, per kurį asmens sveikatos priežiūros įstaiga turėjo pašalinti licencijuojamos veiklos pažeidimus, bet jų nepašalino, pabaigos.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
+ 
 
 
 
@@ -3042,9 +3066,18 @@ Nr. XI-2370, 2012-11-06, Žin., 2012, Nr. 135-6861 (2012-11-22)
 
 
 
-3. Sprendimas dėl įstaigų kontrolės priemonių taikymo, išskyrus šio įstatymo 58 straipsnio 1 dalies 2 punkte nurodytą priemonę, privalo būti priimtas per tris mėnesius nuo pažeidimo nustatymo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip treji metai, kontrolės priemonės negali būti taikomos.
+21. Sprendimas dėl kontrolės priemonės taikymo įstaigai šio įstatymo 54 straipsnio 1 dalies 2 punkte nurodytu pagrindu priimamas nedelsiant, netaikant šio straipsnio 2 dalyje nustatytos procedūros. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
+ 
+
+
+
+
+3. Sprendimas dėl įstaigų kontrolės priemonių taikymo, išskyrus šio įstatymo 54 straipsnio 1 dalies 2 punkte ir 58 straipsnio 1 dalies 2 punkte nurodytus atvejus, privalo būti priimtas per tris mėnesius nuo pažeidimo nustatymo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip treji metai, kontrolės priemonės negali būti taikomos.
 Straipsnio dalies pakeitimai:
 Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
  
 
 
@@ -3273,3 +3306,8 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 45
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-903, 2017-12-19, paskelbta TAR 2017-12-27, i. k. 2017-21326
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais įstatymo Nr. XII-2538 2, 3 ir 5 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5 ir 59 straipsnių pakeitimo įstatymas
