@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF812DA6E814"
 
 # Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2018-11-06
+Suvestinė redakcija nuo 2018-11-07 iki 2018-11-09
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 135-4894, i. k. 1041010ISTA0IX-2428
  
@@ -366,19 +366,13 @@ Nr. XII-1211, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14276
 6. Šio straipsnio 1 dalies 2 ir 3 punktuose vartojama sąvoka „nuolatinis Lietuvos Respublikos gyventojas“ suprantama taip, kaip tai apibrėžta Lietuvos Respublikos rinkimų į Europos Parlamentą įstatyme ir Lietuvos Respublikos savivaldybių tarybų rinkimų įstatyme.
  
 
-14 straipsnis. Politinės kampanijos išlaidos ir išlaidų limitai
+14 straipsnis. Politinės kampanijos išlaidos ir išlaidų limitai
 
 1. Prasidėjus politinei kampanijai, visos politinės kampanijos išlaidos gali būti apmokamos tik iš politinės kampanijos sąskaitoje esančių lėšų.
 
-2. Tais atvejais, kai rinkimų apygarda apima visą Lietuvos Respublikos teritoriją, didžiausias vieno savarankiško politinės kampanijos dalyvio politinės kampanijos išlaidų dydis apskaičiuojamas taip: Lietuvos Respublikos rinkėjų sąraše įrašytų rinkėjų skaičius dauginamas iš 0,29 euro ir sandauga suapvalinama dviejų pirmųjų reikšminių skaitmenų tikslumu. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1251, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14867
- 
+2. Tais atvejais, kai rinkimų apygarda apima visą Lietuvos Respublikos teritoriją, didžiausias vieno savarankiško politinės kampanijos dalyvio politinės kampanijos išlaidų dydis apskaičiuojamas taip: Lietuvos Respublikos rinkėjų sąraše įrašytų rinkėjų skaičius dauginamas iš 0,0005 VMDU dydžio ir sandauga suapvalinama dviejų pirmųjų reikšminių skaitmenų tikslumu.
 
-3. Tais atvejais, kai rinkimų apygarda apima dalį Lietuvos Respublikos teritorijos, didžiausias vieno savarankiško politinės kampanijos dalyvio politinės kampanijos išlaidų dydis apskaičiuojamas taip: vienos rinkimų apygardos rinkėjų skaičius dauginamas iš 0,58 euro ir sandauga suapvalinama dviejų pirmųjų reikšminių skaitmenų tikslumu. Jeigu sandauga yra mažesnė kaip 5 792 eurai, nustatomas didžiausias politinės kampanijos išlaidų dydis – 5 792 eurai. Savivaldybių tarybų rinkimuose politinė partija, iškėlusi kandidatų sąrašą (sąrašus), papildomai šiai politinei kampanijai gali išleisti ne daugiau kaip 10 procentų šios partijos iškeltų kandidatų sąrašo (sąrašų) didžiausios politinės kampanijos išlaidų sumos. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1251, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14867
- 
+3. Tais atvejais, kai rinkimų apygarda apima dalį Lietuvos Respublikos teritorijos, didžiausias vieno savarankiško politinės kampanijos dalyvio politinės kampanijos išlaidų dydis apskaičiuojamas taip: vienos rinkimų apygardos rinkėjų skaičius dauginamas iš 0,001 VMDU dydžio ir sandauga suapvalinama dviejų pirmųjų reikšminių skaitmenų tikslumu. Jeigu sandauga yra mažesnė kaip 10 VMDU dydžių, nustatomas didžiausias politinės kampanijos išlaidų dydis – 10 VMDU dydžių. Savivaldybių tarybų rinkimuose politinė partija, iškėlusi kandidatų sąrašą (sąrašus), papildomai šiai politinei kampanijai gali išleisti ne daugiau kaip 10 procentų šios partijos iškeltų kandidatų sąrašo (sąrašų) didžiausios politinės kampanijos išlaidų sumos.
 
 4. Politinės kampanijos išlaidomis pripažįstami politinės kampanijos dalyvio politinės kampanijos laikotarpiu turėtos išlaidos ir prisiimti įsipareigojimai, skirti:
 
@@ -390,27 +384,36 @@ Nr. XII-1251, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14867
 
 4) nekilnojamųjų ar kilnojamųjų daiktų, reikalingų vykdant politinę kampaniją, nuomai;
 
-5) politinei kampanijai naudojamoms transporto priemonėms nuomoti, eksploatuoti;
+5) politinei kampanijai naudojamoms transporto priemonėms nuomoti, eksploatuoti; 
 
-6) politinės kampanijos savanorių, politinės partijos ar kandidato atstovų rinkimams ar rinkimų (referendumo) stebėtojų ryšiui, maitinimui, apgyvendinimui ir transportui;
+6) politinės kampanijos savanorių, politinės partijos ar kandidato atstovų rinkimams ar rinkimų (referendumo) stebėtojų ryšio, maitinimo, apgyvendinimo ir transporto paslaugoms apmokėti;
 
-7) kitoms šiame įstatyme nustatytoms reikmėms, susijusioms su politine kampanija.
+7) politinių partijų, pretendentų, kandidatų, referendumo iniciatorių, referendumo oponentų, visuomeninių rinkimų komitetų išlaidoms, turėtoms pagal teisinių paslaugų sutartis;
 
-5. Politinės kampanijos išlaidomis taip pat pripažįstamos ne politinės kampanijos laikotarpiu turėtos išlaidos, atitinkančios šio straipsnio 4 dalyje nustatytą paskirtį, jeigu šioje dalyje nurodyti daiktai ir kitas turtas yra skirti politinei kampanijai arba jeigu paslaugos yra gautos politinės kampanijos laikotarpiu. Politinės kampanijos dalyviai privalo apie tai pranešti Vyriausiajai rinkimų komisijai ir kartu pateikti išlaidas patvirtinančių dokumentų kopijas. Prireikus Vyriausioji rinkimų komisija gali pareikalauti papildomos informacijos.
+8) politinių partijų, pretendentų, kandidatų, referendumo iniciatorių, referendumo oponentų, visuomeninių rinkimų komitetų išlaidoms, turėtoms pagal politinės kampanijos organizavimo, konsultavimo ir mokymo paslaugų sutartis;
 
-6. Kiekvieno politinės kampanijos dalyvio šio straipsnio 4 ir 5 dalyse nurodytų politinės kampanijos išlaidų dydis negali viršyti šio straipsnio 2 ar 3 dalyje nustatytų didžiausių politinės kampanijos išlaidų dydžių. Tais atvejais, kai pagal rinkimų įstatymą vyksta pakartotinis balsavimas, kandidato, dalyvaujančio pakartotiniame balsavime, didžiausias politinės kampanijos išlaidų dydis didinamas 25 procentais.
+9) pretendento, kandidato kelionėms (transporto ir apgyvendinimo išlaidoms) į rinkimų apygardą;
 
-7. Politinės kampanijos išlaidomis nelaikoma:
+10) kitoms šiame įstatyme nustatytoms reikmėms, susijusioms su politine kampanija.
 
-1) politinių partijų, pretendentų, kandidatų, referendumo iniciatorių, referendumo oponentų, visuomeninių rinkimų komitetų išlaidos, turėtos pagal teisinių paslaugų sutartis;
+5. Politinės kampanijos išlaidomis taip pat pripažįstamos ne politinės kampanijos laikotarpiu turėtos išlaidos, atitinkančios šio straipsnio 4 dalyje, išskyrus 4 dalies 7 ir 9 punktus, nustatytą paskirtį, jeigu 4 dalyje nurodyti daiktai ir kitas turtas yra skirti politinei kampanijai arba jeigu paslaugos yra gautos politinės kampanijos laikotarpiu. Politinės kampanijos dalyviai privalo apie tai pranešti Vyriausiajai rinkimų komisijai ir kartu pateikti išlaidas patvirtinančių dokumentų kopijas. Prireikus Vyriausioji rinkimų komisija gali pareikalauti papildomos informacijos.
 
-2) išlaidos, skirtos rinkimų užstatui sumokėti;
+6. Kiekvieno politinės kampanijos dalyvio šio straipsnio 4 dalyje, išskyrus 4 dalies 7 ir 9 punktus, ir 5 dalyje nurodytų politinės kampanijos išlaidų dydis negali viršyti šio straipsnio 2 ar 3 dalyje nustatytų didžiausių politinės kampanijos išlaidų dydžių. Tais atvejais, kai pagal rinkimų įstatymą vyksta pakartotinis balsavimas, kandidato, dalyvaujančio pakartotiniame balsavime, didžiausias politinės kampanijos išlaidų dydis didinamas 25 procentais.
 
-3) išlaidos, skirtos pretendento, kandidato kelionėms (transportui ir apgyvendinimui) į rinkimų apygardą;
+7. Politinės kampanijos išlaidomis nelaikoma: 
 
-4) išlaidos politinės partijos patalpų nuomai, išlaikymui, personalo veiklai apmokėti, kai šios išlaidos yra įprastos šiai politinei partijai ne politinės kampanijos laikotarpiu.
+1) išlaidos, skirtos rinkimų užstatui sumokėti;
+
+2) išlaidos, skirtos politinės partijos patalpų nuomai, išlaikymui, personalo veiklai apmokėti, kai šios išlaidos yra įprastos šiai politinei partijai ne politinės kampanijos laikotarpiu.
 
 8. Jeigu politinės kampanijos laikotarpiu politinės kampanijos dalyvis (išskyrus politines partijas, jų keliamus kandidatus ar kandidatų sąrašus) surinko lėšų daugiau, negu jų buvo panaudota politinės kampanijos išlaidoms apmokėti, nepanaudotos lėšos iki politinės kampanijos finansavimo ataskaitos pateikimo Vyriausiajai rinkimų komisijai dienos turi būti pervestos į valstybės biudžetą. Politinių partijų, jų keliamų kandidatų ar kandidatų sąrašų politinei kampanijai nepanaudotos lėšos gali būti skirtos tik politinių partijų veiklai finansuoti. Politinės kampanijos sąskaita (išskyrus politinės partijos arba kandidato vardu atidarytą sąskaitą) uždaroma iki politinės kampanijos finansavimo ataskaitos pateikimo Vyriausiajai rinkimų komisijai dienos.
+
+9. Politinėms partijoms, pretendentams, kandidatams, referendumo iniciatoriams, referendumo oponentams, visuomeniniams rinkimų komitetams šio straipsnio 4 dalies 7 ir 8 punktuose nurodytas paslaugas gali teikti tik Lietuvos Respublikos, kitų Europos Sąjungos ar Šiaurės Atlanto sutarties organizacijos valstybių narių, Europos ekonominės erdvės valstybių (toliau – nustatytos valstybės) piliečiai, taip pat nustatytose valstybėse įsteigti juridiniai asmenys, organizacijos, padaliniai, išskyrus atvejus, kai 1/4 ar daugiau balsavimo teisių tokio juridinio asmens ar kitos organizacijos dalyvių susirinkime priklauso ne nustatytai valstybei, ne nustatytose valstybėse įsteigtiems juridiniams asmenims ir (ar) jų piliečiams. Paslaugų teikėjai, su politinėmis partijomis, pretendentais, kandidatais, referendumo iniciatoriais, referendumo oponentais, visuomeniniais rinkimų komitetais sudarę sutartis šio straipsnio 4 dalies 7 ir 8 punktuose nurodytoms paslaugoms teikti, gali pasitelkti tik tokius pačius kaip ir jiems patiems keliamus reikalavimus atitinkančius subjektus. Šis reikalavimas taip pat taikomas šio straipsnio 4 dalies 7 ir 8 punktuose nurodytų paslaugų, kurios buvo suteiktos iki politinės kampanijos laikotarpio pradžios, tačiau skirtos politinei kampanijai, teikėjams.
+
+10. Vyriausioji rinkimų komisija, vertindama, ar šio straipsnio 4 dalies 7 ir 8 punktuose nurodytoms paslaugoms teikti sutartys sudarytos tik su šio straipsnio 9 dalyje nustatytais subjektais, reikalingus duomenis gauna iš valstybės ir žinybinių registrų, informacinių sistemų ir duomenų bazių. Kitoje Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje ar Šiaurės Atlanto sutarties organizacijos valstybėje narėje įsteigti juridiniai asmenys, organizacijos, padaliniai, valstybių narių piliečiai Vyriausiajai rinkimų komisijai turi pateikti valstybės, kurioje jie įsteigti arba turi buveinę, atitinkamo registro išrašą arba kompetentingos institucijos pažymą. 
+
+Straipsnio pakeitimai:
+Nr. XIII-1528, 2018-10-11, paskelbta TAR 2018-10-16, i. k. 2018-16275
  
 
 TREČIASIS SKIRSNIS
@@ -716,4 +719,9 @@ Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1251, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14867
 Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo Nr. IX-2428 10, 11, 14 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1528, 2018-10-11, paskelbta TAR 2018-10-16, i. k. 2018-16275
+Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo Nr. IX-2428 14 straipsnio pakeitimo įstatymas
 
