@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF812DA6E814"
 
 # Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymas
 
-Suvestinė redakcija nuo 2018-11-07 iki 2018-11-09
+Suvestinė redakcija nuo 2018-11-10 iki 2018-11-12
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 135-4894, i. k. 1041010ISTA0IX-2428
  
@@ -280,7 +280,10 @@ Nr. XII-1251, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14867
 
 9. Nepiniginių aukų įvertinimo ir jų tikrosios vertės apskaičiavimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 
-10. Pasibaigus rinkimų (referendumo) agitacijos kampanijos etapui, aukas politinei kampanijai priimti draudžiama.
+10. Pasibaigus rinkimų (referendumo) agitacijos kampanijos etapui, aukas politinei kampanijai priimti draudžiama. Savarankiškas politinės kampanijos dalyvis į savo politinės kampanijos sąskaitą, atstovaujamasis politinės kampanijos dalyvis į jam atstovaujančio savarankiško politinės kampanijos dalyvio sąskaitą lėšas prisiimtiems įsipareigojimams padengti gali pervesti iki politinės kampanijos finansavimo ataskaitos pateikimo Vyriausiajai rinkimų komisijai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1579, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18182
+ 
 
 11. Politinės kampanijos dalyvis neturi teisės naudoti politinei kampanijai finansuoti gautų, tačiau politinės kampanijos finansavimo apskaitos žiniaraštyje neregistruotų piniginių aukų, taip pat šio straipsnio 7 dalyje nurodytų aukų, jeigu politinės kampanijos iždininkas nėra užpildęs aukų lapo.
 
@@ -453,7 +456,12 @@ POLITINĖ REKLAMA
 
 1) ne politinės kampanijos laikotarpiu skleidžiami įprastinio pobūdžio informaciniai pranešimai apie valstybės politikų, politinių partijų, jų valdymo organų veiklą, išskyrus atvejus, kai tokiais pranešimais yra agituojama per būsimą politinę kampaniją balsuoti valstybės politiko, politinės partijos ar jos nario interesais arba už tokius pranešimus yra atsilyginama ar numatoma atsilyginti;
 
-2) politinės kampanijos laikotarpiu neatlygintinai skleidžiami įprastinio pobūdžio informaciniai pranešimai apie valstybės politikų, politinių partijų, kandidatų veiklą, informacija, kuria neraginama nedalyvauti referendume, balsuoti už ar prieš referendumui teikiamo sprendimo priėmimą.
+2) politinės kampanijos laikotarpiu neatlygintinai skleidžiami įprastinio pobūdžio informaciniai pranešimai apie valstybės politikų, politinių partijų, kandidatų veiklą, informacija, kuria neraginama nedalyvauti referendume, balsuoti už ar prieš referendumui teikiamo sprendimo priėmimą;
+
+3) politinės kampanijos laikotarpiu per visuomenės informavimo priemones neatlygintinai, laikantis objektyvumo ir politinės kampanijos dalyvių lygiateisiškumo principų viešosios informacijos rengėjų ir skleidėjų skleidžiama informacija apie rinkimų programas. 
+Papildyta straipsnio punktu:
+Nr. XIII-1579, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18182
+ 
 
 7. Politinės kampanijos laikotarpiu viešosios informacijos rengėjai ar skleidėjai elektroninių ryšių priemonėmis Vyriausiajai rinkimų komisijai privalo pateikti viešosios informacijos rengėjo ar skleidėjo deklaraciją du (tris) kartus: likus 10 dienų iki rinkimų ar referendumo dienos (likus 5 dienoms – jeigu vyksta pakartotinis balsavimas) ir ne vėliau kaip per 25 dienas nuo rinkimų (pakartotinių rinkimų) ar referendumo galutinių rezultatų paskelbimo dienos.
 
@@ -562,7 +570,10 @@ POLITINIŲ KAMPANIJŲ FINANSAVIMO STEBĖSENA, KONTROLĖ IR VIEŠUMAS.  POLITINI
 
 12) savo interneto svetainėje skelbia viešosios informacijos rengėjo ar skleidėjo politinės kampanijos laikotarpiu taikytinus įkainius;
 
-13) kartu su Valstybine mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (toliau – Valstybinė mokesčių inspekcija) sudaro sąlygas politinės kampanijos iždininkui Vyriausiosios rinkimų komisijos informacinėje sistemoje patikrinti, ar auka atitinka šio įstatymo 10 straipsnio 2 dalies reikalavimus. Vyriausioji rinkimų komisija atsako už tinkamą šios informacinės sistemos veikimą.
+13) kartu su Valstybine mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (toliau – Valstybinė mokesčių inspekcija) sudaro sąlygas politinės kampanijos iždininkui Vyriausiosios rinkimų komisijos informacinėje sistemoje patikrinti, ar auka atitinka šio įstatymo 10 straipsnio 2 dalies reikalavimus ir ar aukotojas yra deklaravęs turtą ir pajamas. Vyriausioji rinkimų komisija atsako už tinkamą šios informacinės sistemos veikimą. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1579, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18182
+ 
 
 3. Kaip naudojamos politinei kampanijai skirtos lėšos, kontroliuoja Vyriausioji rinkimų komisija.
 
@@ -724,4 +735,9 @@ Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1528, 2018-10-11, paskelbta TAR 2018-10-16, i. k. 2018-16275
 Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo Nr. IX-2428 14 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1579, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18182
+Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo Nr. IX-2428 10, 16 ir 19 straipsnių pakeitimo įstatymas
 
