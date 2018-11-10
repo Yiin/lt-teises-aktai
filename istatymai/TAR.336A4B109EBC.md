@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2018-09-20 iki 2018-11-09
+Suvestinė redakcija nuo 2018-11-10 iki 2018-11-12
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -976,19 +976,42 @@ Rinkėjo kortelių, kandidato į savivaldybės tarybos narius anketos, atstovo r
 3. Kitus balsavimo patalpos įrengimo reikalavimus nustato Vyriausioji rinkimų komisija.
  
 
-58 straipsnis. Rinkimų stebėtojai
+58 straipsnis. Rinkimų stebėtojai
 
-1. Partijos, rinkimų komitetai, iškelti ar išsikėlę kandidatai į savivaldybės tarybos narius – merus, taip pat atstovai rinkimams turi teisę skirti ne daugiau kaip po du rinkimų stebėtojus kiekvienoje rinkimų apylinkėje. Stebėtojais draudžiama skirti savivaldybių seniūnus ir seniūnų pavaduotojus. Rinkimų stebėtojo statusą patvirtina Vyriausiosios rinkimų komisijos nustatytos formos pažymėjimas. Rinkimų stebėtojo pažymėjimą išduoda:
+1. Rinkimų stebėtojais gali būti rinkėjai ir užsienio valstybėms ar tarptautinėms organizacijoms atstovaujančių subjektų pasiūlyti asmenys. Rinkimų stebėtoju rinkimų apygardoje negali būti tos savivaldybės, kurios teritorija patenka į rinkimų apygardą, kurioje stebėtojas turi teisę stebėti rinkimus, meras, administracijos direktorius, jų pavaduotojai, seniūnai ir jų pavaduotojai, taip pat asmenys, kurių statusas nesuderinamas su rinkimų stebėtojo statusu pagal šio įstatymo 12 straipsnio 3 dalį.
 
-1) Vyriausioji rinkimų komisija – stebėti rinkimus visoje Lietuvos Respublikos teritorijoje arba tik konkrečiose savivaldybėse, rinkimų apylinkėse pagal užsienio reikalų ministro, Respublikos Prezidento teikimą, pagal užsienio valstybėms arba tarptautinėms institucijoms atstovaujančių asmenų prašymus, taip pat savo nuožiūra;
+2. Rinkimų stebėtojus gali siūlyti:
 
-2) savivaldybės rinkimų komisija – stebėti rinkimus visoje šios savivaldybės teritorijoje, vienoje arba keliose rinkimų apylinkėse asmenims (šios arba kitos savivaldybės rinkėjams) pagal partijos (jos skyriaus), rinkimų komiteto, kandidato į savivaldybės tarybos narius – merus arba atstovo rinkimams prašymus, kuriuose turi būti nurodyta asmens vardas, pavardė, asmens kodas, rinkimų apylinkės pavadinimas.
+1) politinės partijos, rinkimų komitetai, kandidatai į savivaldybių tarybų narius – merus;
 
-2. Rinkimų stebėtojo pažymėjimus išduoda rinkimų komisijos pirmininkas arba jo pavedimu kitas rinkimų komisijos narys. Negalima atsisakyti išduoti rinkimų stebėtojo pažymėjimą arba vilkinti jo išdavimą. Apie atsisakymą išduoti rinkimų stebėtojo pažymėjimą turi būti pranešta artimiausiame rinkimų komisijos posėdyje ir atitinkamam atstovui rinkimams.
+2) Lietuvos Respublikoje registruotos nevyriausybinės organizacijos, kurių veikla yra susijusi su rinkimais ar žmogaus teisių apsauga; 
 
-3. Tarptautinius rinkimų stebėtojus registruoja ir jiems pažymėjimus išduoda Vyriausioji rinkimų komisija. Vyriausioji rinkimų komisija turi teisę neregistruoti tarptautinių rinkimų stebėtojų ir neišduoti jiems stebėtojų pažymėjimų, jeigu tokių tarptautinių rinkimų stebėtojų veikla neatitinka Lietuvos Respublikos įstatymų ir Konstitucijos. Jeigu tarptautiniai rinkimų stebėtojai pažeidžia Lietuvos Respublikos įstatymus ar Konstituciją, jų registracija gali būti panaikinta, o rinkimų stebėtojo pažymėjimas pripažintas negaliojančiu. Tarptautiniai rinkimų stebėtojai turi visas teises, kurios yra numatytos šiame įstatyme rinkimų stebėtojams.
+3) tarptautinės organizacijos, kurių veikla yra susijusi su rinkimais ar žmogaus teisių apsauga;
 
-4. Rinkimų stebėtojas turi teisę stebėti rinkimus savivaldybės arba rinkimų apylinkės, kuri nurodyta jo pažymėjime, teritorijoje. Rinkimų stebėtojas turi teisę reikalauti, kad rinkimų komisijos pirmininkas ir nariai, taip pat balsavimo patalpoje esantys asmenys laikytųsi šio ir kitų Lietuvos Respublikos įstatymų. Jeigu rinkimų stebėtojas pažeidžia šį arba kitus Lietuvos Respublikos įstatymus, jo rinkimų stebėtojo pažymėjimas gali būti pripažintas negaliojančiu savivaldybės rinkimų komisijos pirmininko sprendimu. Apie šį sprendimą turi būti nedelsiant pranešta rinkimų komisijos nariams, Vyriausiajai rinkimų komisijai, atitinkamai partijai, rinkimų komitetui, iškeltam ar išsikėlusiam kandidatui į savivaldybės tarybos narius – merus ir atitinkamam atstovui rinkimams.
+4) užsienio valstybėms atstovaujantys asmenys;
+
+5) Vyriausioji rinkimų komisija pagal pateiktus prašymus.
+
+3. Politinės partijos, rinkimų komitetai, kandidatai į savivaldybių tarybų narius – merus, nevyriausybinės organizacijos turi teisę siūlyti registruoti rinkimų stebėtojais ne daugiau kaip po du rinkimų stebėtojus kiekvienoje rinkimų apylinkėje. Prašymai dėl rinkimų stebėtojų registravimo turi būti pateikti iki išankstinio balsavimo dienos, išskyrus atvejus, kai yra būtinybė pakeisti asmenį, negalintį būti rinkimų stebėtoju dėl objektyvių priežasčių.
+
+4. Rinkimų stebėtojus registruoja ir jiems pažymėjimus išduoda:
+
+1) Vyriausioji rinkimų komisija – stebėti rinkimus visoje Lietuvos Respublikos teritorijoje, rinkimų apygardose, specialiuose balsavimo punktuose, rinkimų apylinkėse;
+
+2) savivaldybės rinkimų komisija – stebėti rinkimus visoje rinkimų apygardoje arba tos rinkimų apygardos konkrečiose rinkimų apylinkėse.
+
+5. Rinkimų stebėtojai registruojami Vyriausiosios rinkimų komisijos nustatyta tvarka, užtikrinant lygiateisiškumo tarp politinių partijų, kandidatų ir nevyriausybinių organizacijų siūlomų rinkimų stebėtojų principo laikymąsi. 
+
+6. Rinkimų komisijos gali atsisakyti registruoti rinkimų stebėtoją, jeigu jis neatitinka šio įstatymo reikalavimų ar jo veikla neatitinka Konstitucijos ar įstatymų, arba panaikinti rinkimų stebėtojo registravimą, jeigu jis pažeidžia Konstituciją ar įstatymus, nesilaiko Vyriausiosios rinkimų komisijos sprendimų. Rinkimų stebėtojo registravimas gali būti panaikintas jį įregistravusios rinkimų komisijos arba aukštesnės rinkimų komisijos pirmininko. Rinkimų stebėtoją pasiūliusiam asmeniui pranešama apie atsisakymą išduoti rinkimų stebėtojo pažymėjimą arba apie registravimo panaikinimą.
+
+7. Rinkimų stebėtojams rinkimų apylinkės balsavimo patalpose turi būti sudarytos tinkamos sąlygos stebėti, kaip organizuojamas ir vyksta balsavimas, kaip skaičiuojami rinkėjų balsai ir surašomi šiame įstatyme nustatyti dokumentai.
+
+8. Rinkimų stebėtojai turi teisę stebėti, kaip organizuojamas ir vyksta balsavimas, dalyvauti rinkimų komisijai skaičiuojant balsus ir pildant šiame įstatyme nustatytus dokumentus. Rinkimų stebėtojas, nustatęs, kad rinkimų komisijos nariai, rinkėjai ar kiti asmenys galbūt pažeidžia šį įstatymą, turi teisę kreiptis į atitinkamos rinkimų komisijos pirmininką, komisijos narius, kad šie pažeidimai būtų pašalinti. 
+
+9. Rinkimų stebėtojai neturi teisės daryti įtakos rinkimų komisijų ir atskirų komisijos narių darbui ir tuo trikdyti jų veiklą bei rinkimų procesą, vykdyti rinkimų agitaciją. Už rinkimų stebėtojo pasirengimą vykdyti rinkimų stebėtojo veiklą atsako jį pasiūlęs subjektas. 
+
+Straipsnio pakeitimai:
+Nr. XIII-1577, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18181
  
 
 DEVINTASIS SKIRSNIS
@@ -1828,4 +1851,9 @@ Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 2 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1473, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14701
 Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 39 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1577, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18181
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 58 straipsnio pakeitimo įstatymas
 
