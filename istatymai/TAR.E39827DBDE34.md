@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E39827DBDE34"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-11-10 iki 2018-11-12
+Suvestinė redakcija nuo 2018-11-13 iki 2018-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 253-0; Žin. 1993, Nr.2-29, i. k. 0921010ISTA0000I-28
  
@@ -560,9 +560,10 @@ Nr. XII-1069, 2014-07-17, paskelbta TAR 2014-07-24, i. k. 2014-10475
 
 1. Pretendentas būti kandidatu į Respublikos Prezidentus raštu pareiškia apie tai Vyriausiajai rinkimų komisijai.
 
-2. Jeigu pretendentą būti kandidatu į Respublikos Prezidentus iškėlė partijos, jų sprendimas taip pat pateikiamas raštu. Pretendentas būti kandidatu į Respublikos Prezidentus privalo atvykti ir pateikti Vyriausiajai rinkimų komisijai Lietuvos Respublikos pilietybę patvirtinantį dokumentą ir dokumentą apie iš jam priklausančios sąskaitos sumokėtą paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) 5 dydžių rinkimų užstatą. Rinkimų užstatas yra grąžinamas jį sumokėjusiam asmeniui po rinkimų, jeigu jų metu kandidatas į Respublikos Prezidentus gavo daugiau kaip 7 procentus rinkimuose dalyvavusių rinkėjų balsų. 
+2. Jeigu pretendentą būti kandidatu į Respublikos Prezidentus iškėlė partijos, jų sprendimas taip pat pateikiamas raštu. Pretendentas būti kandidatu į Respublikos Prezidentus privalo atvykti ir pateikti Vyriausiajai rinkimų komisijai Lietuvos Respublikos pilietybę patvirtinantį dokumentą ir dokumentą apie iš jam priklausančios sąskaitos sumokėtą paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) 5 dydžių rinkimų užstatą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1572, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18178
+Nr. XIII-1582, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18196
  
 
 3. Pretendentas būti kandidatu į Respublikos Prezidentus privalo raštu pranešti Vyriausiajai rinkimų komisijai:
@@ -649,22 +650,40 @@ Nr. XIII-1572, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18178
 
 40 straipsnis. Respublikos Prezidento rinkimų stebėtojai
 
-1. Partijos, rinkimų komitetai, partijų ir rinkimų komitetų atstovai rinkimų komisijose ir kandidatai turi teisę skirti ne daugiau kaip po du rinkimų stebėtojus kiekvienoje rinkimų apylinkėje. Stebėtojais draudžiama skirti seniūnus ir seniūnų pavaduotojus tose rinkimų apylinkėse, kurios įeina į jų seniūnijų aptarnaujamą teritoriją. Rinkimų stebėtojas yra asmuo, turintis Vyriausiosios rinkimų komisijos nustatytos formos rinkimų stebėtojo pažymėjimą. Rinkimų stebėtojas turi teisę stebėti rinkimus savivaldybės ar rinkimų apylinkės, kuri nurodyta jo pažymėjime, teritorijoje ir bet kuriame specialiame balsavimo punkte. Rinkimų stebėtojo pažymėjimą išduoda: 
- 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1572, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18178
+1. Rinkimų stebėtojais gali būti rinkėjai ir užsienio valstybėms ar tarptautinėms organizacijoms atstovaujančių subjektų pasiūlyti asmenys. Rinkimų stebėtoju negali būti tos savivaldybės, kurios teritorijoje stebėtojas turi teisę stebėti rinkimus, meras, administracijos direktorius, jų pavaduotojai, seniūnai ir jų pavaduotojai, taip pat rinkimų komisijų nariai, kandidatai.
 
-1) Vyriausioji rinkimų komisija – stebėti rinkimus visoje Lietuvos Respublikos teritorijoje, Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose arba tik konkrečių savivaldybių teritorijose ar rinkimų apylinkėse užsienio reikalų ministro, Respublikos Prezidento ar jo įgalioto asmens teikimu, užsienio valstybėms arba tarptautinėms institucijoms atstovaujančių asmenų prašymu, taip pat ir savo nuožiūra;
+2. Rinkimų stebėtojus gali siūlyti:
 
-2) savivaldybės rinkimų komisija – stebėti rinkimus visoje šios savivaldybės teritorijoje, vienoje arba keliose rinkimų apylinkėse vyresniems kaip 18 metų Lietuvos Respublikos piliečiams kandidato į Respublikos Prezidentus teikimu arba partijos, iškėlusios asmenį kandidatu į Respublikos Prezidentus, vietos skyriaus prašymu (teikime, prašyme turi būti nurodyta asmens pavardė, vardas, asmens kodas, rinkimų apylinkės (apylinkių) pavadinimas).
+1) politinės partijos, kandidatai į Respublikos Prezidentus;
 
-Straipsnio dalies pakeitimai:
-Nr. XII-1796, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09816
- 
+2) Lietuvos Respublikoje registruotos nevyriausybinės organizacijos, kurių veikla yra susijusi su rinkimais ar žmogaus teisių apsauga; 
 
-2. Stebėtojo pažymėjimus rinkimų komisijos vardu išduoda komisijos pirmininkas arba kitas komisijos narys komisijos pirmininko pavedimu. Negalima atsisakyti išduoti stebėtojo pažymėjimą arba vilkinti jo išdavimą. Apie visus atsisakymus išduoti stebėtojo pažymėjimą turi būti pranešta artimiausiame rinkimų komisijos posėdyje ir atitinkamam kandidato į Respublikos Prezidentus patikėtiniui.
+3) tarptautinės organizacijos, kurių veikla yra susijusi su rinkimais ar žmogaus teisių apsauga;
 
-3. Rinkimų stebėtojas turi teisę reikalauti, kad rinkimų komisijos pirmininkas ir nariai, taip pat rinkimų apylinkės balsavimo patalpoje esantys asmenys laikytųsi šio ir kitų Lietuvos Respublikos įstatymų. Rinkimų komisijos turi pasirūpinti, kad rinkimų stebėtojui rinkimų apylinkės balsavimo patalpoje būtų sudarytos tinkamos sąlygos stebėti, kaip laikomasi šio įstatymo ir kitų Lietuvos Respublikos įstatymų. Jeigu rinkimų stebėtojas pats pažeidžia šį arba kitus Lietuvos Respublikos įstatymus, jo stebėtojo pažymėjimas gali būti panaikintas savivaldybės rinkimų komisijos pirmininko sprendimu. Apie šį sprendimą turi būti iš karto raštu pranešta rinkimų komisijos nariams, Vyriausiajai rinkimų komisijai ir atitinkamam kandidato į Respublikos Prezidentus patikėtiniui.
+4) užsienio valstybėms atstovaujantys asmenys;
+
+5) Vyriausioji rinkimų komisija pagal pateiktus prašymus.
+
+3. Politinės partijos, kandidatai į Respublikos Prezidentus, nevyriausybinės organizacijos turi teisę siūlyti registruoti stebėtojais ne daugiau kaip po du rinkimų stebėtojus kiekvienoje rinkimų apylinkėje. Prašymai dėl rinkimų stebėtojų registravimo turi būti pateikti iki išankstinio balsavimo dienos, išskyrus atvejus, kai yra būtinybė pakeisti asmenį, negalintį būti rinkimų stebėtoju dėl objektyvių priežasčių.
+
+4. Rinkimų stebėtojus registruoja ir jiems pažymėjimus išduoda:
+
+1) Vyriausioji rinkimų komisija – stebėti rinkimus visoje Lietuvos Respublikos teritorijoje, Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose, papildomose balsavimo vietose užsienyje prie Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos, visoje savivaldybės teritorijoje, specialiuose balsavimo punktuose, rinkimų apylinkėse;
+
+2) savivaldybės rinkimų komisija – stebėti rinkimus visoje savivaldybės teritorijoje arba tos savivaldybės konkrečiose rinkimų apylinkėse.
+
+5. Rinkimų stebėtojai registruojami Vyriausiosios rinkimų komisijos nustatyta tvarka, užtikrinant lygiateisiškumo tarp politinių partijų, kandidatų ir nevyriausybinių organizacijų siūlomų rinkimų stebėtojų principo laikymąsi. 
+
+6. Rinkimų komisijos gali atsisakyti registruoti rinkimų stebėtoją, jeigu jis neatitinka šio įstatymo reikalavimų ar jo veikla neatitinka Konstitucijos ar įstatymų, arba panaikinti rinkimų stebėtojo registravimą, jeigu jis pažeidžia Konstituciją ar įstatymus, nesilaiko Vyriausiosios rinkimų komisijos sprendimų. Rinkimų stebėtojo registravimas gali būti panaikintas jį įregistravusios rinkimų komisijos arba aukštesnės rinkimų komisijos pirmininko. Rinkimų stebėtoją pasiūliusiam asmeniui pranešama apie atsisakymą išduoti rinkimų stebėtojo pažymėjimą arba apie registravimo panaikinimą.
+
+7. Rinkimų stebėtojams rinkimų apylinkės balsavimo patalpose turi būti sudarytos tinkamos sąlygos stebėti, kaip organizuojamas ir vyksta balsavimas, kaip skaičiuojami rinkėjų balsai ir surašomi šiame įstatyme nustatyti dokumentai.
+
+8. Rinkimų stebėtojai turi teisę stebėti, kaip organizuojamas ir vyksta balsavimas, dalyvauti rinkimų komisijai skaičiuojant balsus ir pildant šiame įstatyme nustatytus dokumentus. Rinkimų stebėtojas, nustatęs, kad rinkimų komisijos nariai, rinkėjai ar kiti asmenys galbūt pažeidžia šį įstatymą, turi teisę kreiptis į atitinkamos rinkimų komisijos pirmininką, komisijos narius, kad šie pažeidimai būtų pašalinti.
+
+9. Rinkimų stebėtojai neturi teisės daryti įtakos rinkimų komisijų ir atskirų komisijos narių darbui ir tuo trikdyti jų veiklą bei rinkimų procesą, vykdyti rinkimų agitaciją. Už rinkimų stebėtojo pasirengimą vykdyti rinkimų stebėtojo veiklą atsako jį pasiūlęs subjektas. 
+
+Straipsnio pakeitimai:
+Nr. XIII-1576, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18191
  
 
 PENKTASIS SKIRSNIS
@@ -1262,6 +1281,22 @@ Straipsnio pakeitimai:
 Nr. XII-1706, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08125
  
 
+761 straipsnis. Rinkimų užstato grąžinimas
+
+1. Rinkimų užstatas yra grąžinamas jį sumokėjusiam asmeniui politinei kampanijai pasibaigus per 40 dienų, jeigu kandidatas į Respublikos Prezidentus:
+
+1) pateikė Vyriausiajai rinkimų komisijai politinės kampanijos finansavimo ataskaitą Politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo nustatyta tvarka, jos priedus bei išlaidas ir pajamas pagrindžiančius dokumentus; 
+
+2) nepažeidė šio įstatymo 8 straipsnio arba šiurkščiai nepažeidė Politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo;
+
+3) gavo daugiau kaip 7 procentus rinkimuose dalyvavusių rinkėjų balsų.
+
+2. Jeigu kandidatas į Respublikos Prezidentus Vyriausiajai rinkimų komisijai politinės kampanijos finansavimo ataskaitą, jos priedus bei išlaidas ir pajamas pagrindžiančius dokumentus pateikia ne vėliau kaip per 10 dienų nuo rinkimų galutinių rezultatų oficialaus paskelbimo dienos ir yra šio straipsnio 1 dalies 2 ir 3 punktuose nustatytos sąlygos, rinkimų užstatas yra grąžinamas ne vėliau kaip per 60 dienų po rinkimų galutinių rezultatų oficialaus paskelbimo dienos. 
+
+Papildyta straipsniu:
+Nr. XIII-1582, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18196
+ 
+
 77 straipsnis. Paklausimas dėl šio įstatymo pažeidimo
 
 1. Su paklausimu, ar per Respublikos Prezidento rinkimus nebuvo pažeistas šis įstatymas, į Lietuvos Respublikos Konstitucinį Teismą (toliau – Konstitucinis Teismas) gali kreiptis Seimas ne vėliau kaip per 3 dienas po Respublikos Prezidento rinkimų galutinių rezultatų oficialaus paskelbimo dienos. 
@@ -1503,4 +1538,14 @@ Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 74, 76 ir 77 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1572, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18178
 Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 8, 14, 15, 16, 26, 27, 31, 33, 35, 36, 38, 40, 46, 47, 49, 51, 52, 57, 58, 59, 60, 61, 62, 63, 64, 65, 68, 69, 72 ir 78 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1576, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18191
+Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 40 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1582, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18196
+Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 36 straipsnio pakeitimo ir Įstatymo papildymo 76-1 straipsniu įstatymas
 
