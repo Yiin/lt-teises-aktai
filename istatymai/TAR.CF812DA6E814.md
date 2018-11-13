@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF812DA6E814"
 
 # Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymas
 
-Suvestinė redakcija nuo 2018-11-10 iki 2018-11-12
+Suvestinė redakcija nuo 2018-11-13 iki 2019-02-27
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 135-4894, i. k. 1041010ISTA0IX-2428
  
@@ -463,7 +463,10 @@ Papildyta straipsnio punktu:
 Nr. XIII-1579, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18182
  
 
-7. Politinės kampanijos laikotarpiu viešosios informacijos rengėjai ar skleidėjai elektroninių ryšių priemonėmis Vyriausiajai rinkimų komisijai privalo pateikti viešosios informacijos rengėjo ar skleidėjo deklaraciją du (tris) kartus: likus 10 dienų iki rinkimų ar referendumo dienos (likus 5 dienoms – jeigu vyksta pakartotinis balsavimas) ir ne vėliau kaip per 25 dienas nuo rinkimų (pakartotinių rinkimų) ar referendumo galutinių rezultatų paskelbimo dienos.
+7. Politinės kampanijos laikotarpiu viešosios informacijos rengėjai ar skleidėjai elektroninių ryšių priemonėmis Vyriausiajai rinkimų komisijai privalo pateikti viešosios informacijos rengėjo ar skleidėjo deklaraciją du (tris) kartus: likus 10 dienų iki rinkimų ar referendumo dienos (likus 5 dienoms – jeigu vyksta pakartotinis balsavimas) ir ne vėliau kaip per 10 dienų nuo rinkimų (pakartotinių rinkimų) ar referendumo galutinių rezultatų paskelbimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1585, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18199
+ 
 
 8. Politinės kampanijos dalyviai Vyriausiajai rinkimų komisijai pateikia rinkimų (referendumo) agitacijos kampanijos etapu paskleistos politinės reklamos ir jos finansavimo šaltinių ataskaitą kartu su politinės kampanijos finansavimo ataskaita.
 
@@ -740,4 +743,9 @@ Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1579, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18182
 Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo Nr. IX-2428 10, 16 ir 19 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1585, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18199
+Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo Nr. IX-2428 16 straipsnio pakeitimo įstatymas
 
