@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2018-11-10 iki 2018-11-12
+Suvestinė redakcija nuo 2018-11-13 iki 2018-11-16
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -751,9 +751,19 @@ Straipsnio punkto naikinimas:
 Nr. XII-1385, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19669
  
 
-6. Panaikinus kandidato registravimą, atšaukus partijos, rinkimų komiteto kandidatų sąrašo (jungtinio sąrašo) paskelbimą šio įstatymo 37 straipsnio 6 dalyje nustatytais pagrindais arba neįregistravus kandidato į savivaldybės tarybos narius – merus, kandidatų sąrašo (jungtinio sąrašo) dėl pavėluotai pateiktų pareiškinių dokumentų, rinkimų užstatas negrąžinamas.
+6. Vyriausioji rinkimų komisija ne vėliau kaip per 60 dienų po rinkimų galutinių rezultatų oficialaus paskelbimo grąžina rinkimų užstatus juos sumokėjusioms partijoms, rinkimų komitetams ar išsikėlusiems kandidatams į savivaldybės tarybos narius – merus, jeigu politinės kampanijos dalyviai Vyriausiajai rinkimų komisijai politinės kampanijos finansavimo ataskaitą, jos priedus bei išlaidas ir pajamas pagrindžiančius dokumentus pateikia ne vėliau kaip per 10 dienų nuo rinkimų galutinių rezultatų oficialaus paskelbimo dienos ir jeigu yra šio straipsnio 5 dalies 2 ir 3 punktuose nustatytos sąlygos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1583, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18197
+ 
 
-7. Negrąžintinus rinkimų užstatus Vyriausioji rinkimų komisija perveda į valstybės biudžetą.
+7. Panaikinus kandidato registravimą, atšaukus partijos, rinkimų komiteto kandidatų sąrašo (jungtinio sąrašo) paskelbimą šio įstatymo 37 straipsnio 6 dalyje nustatytais pagrindais arba neįregistravus kandidato į savivaldybės tarybos narius – merus, kandidatų sąrašo (jungtinio sąrašo) dėl pavėluotai pateiktų pareiškinių dokumentų, rinkimų užstatas negrąžinamas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1583, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18197
+ 
+
+8. Negrąžintinus rinkimų užstatus Vyriausioji rinkimų komisija perveda į valstybės biudžetą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1583, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18197
  
 
 40 straipsnis. Draudimas vienam asmeniui būti kandidatu keliuose kandidatų sąrašuose
@@ -1856,4 +1866,9 @@ Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 39 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1577, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18181
 Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 58 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1583, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18197
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 39 straipsnio pakeitimo įstatymas
 
