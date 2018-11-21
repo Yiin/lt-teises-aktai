@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.09)
 
 
 
-Suvestinė redakcija nuo 2017-07-13 iki 2018-11-20
+Suvestinė redakcija nuo 2018-11-21 iki 2020-07-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 192-0; Žin. 1992, Nr.28-810, i. k. 0921010ISTA00I-2882
  
@@ -879,9 +879,10 @@ Notaras turi teisę savo blankuose ir iškabose naudoti Lietuvos valstybės herb
 19 straipsnis. Notaro pajamos
 
 
-Už notarinių veiksmų atlikimą, sandorių projektų parengimą, konsultacijas ir technines paslaugas notaras ima atlyginimą, kurio dydį (įkainius) nustato Lietuvos Respublikos teisingumo ministras, atsižvelgdamas į šio įstatymo 191 straipsnyje nurodytus notarų atlyginimo dydžių (įkainių) nustatymo kriterijus ir suderinęs su Lietuvos Respublikos finansų ministru ir Notarų rūmais. Atlyginimo dydis turi garantuoti notaro pajamas, kurios leistų jam būti ekonomiškai nepriklausomam, sudaryti geras klientų aptarnavimo sąlygas, įdarbinti reikalingos kvalifikacijos darbuotojus ir turėti gerai techniškai aprūpintą biurą. Notaras dėl civilinių ginčų taikinamojo tarpininkavimo (mediacijos) (toliau – taikinamasis tarpininkavimas) paslaugų kainos ir apmokėjimo tvarkos susitaria su klientais, sudarydamas sutartį dėl paslaugų teikimo, jeigu įstatymuose nenustatyta kitaip. 
+Už notarinių veiksmų atlikimą, sandorių projektų parengimą, konsultacijas ir technines paslaugas notaras ima atlyginimą, kurio dydį (įkainius) nustato Lietuvos Respublikos teisingumo ministras, atsižvelgdamas į šio įstatymo 191 straipsnyje nurodytus notarų atlyginimo dydžių (įkainių) nustatymo kriterijus ir suderinęs su Lietuvos Respublikos finansų ministru. Atlyginimo dydis turi garantuoti notaro pajamas, kurios leistų jam būti ekonomiškai nepriklausomam, sudaryti geras klientų aptarnavimo sąlygas, įdarbinti reikalingos kvalifikacijos darbuotojus ir turėti gerai techniškai aprūpintą biurą. Notaras dėl civilinių ginčų taikinamojo tarpininkavimo (mediacijos) (toliau – taikinamasis tarpininkavimas) paslaugų kainos ir apmokėjimo tvarkos susitaria su klientais, sudarydamas sutartį dėl paslaugų teikimo, jeigu įstatymuose nenustatyta kitaip.
 Straipsnio dalies pakeitimai:
 Nr. XII-1977, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16905
+Nr. XIII-1605, 2018-11-08, paskelbta TAR 2018-11-20, i. k. 2018-18678
  
 
 
@@ -2549,3 +2550,8 @@ Lietuvos Respublikos notariato įstatymo Nr. I-2882 1, 2, 3, 4, 6, 6-1, 7, 10-1,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-570, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12070
 Lietuvos Respublikos notariato įstatymo Nr. I-2882 9, 10, 22-1 ir 23 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1605, 2018-11-08, paskelbta TAR 2018-11-20, i. k. 2018-18678
+Lietuvos Respublikos notariato įstatymo Nr. I-2882 19 straipsnio pakeitimo įstatymas
