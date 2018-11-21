@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-07-17 iki 2018-11-20
+Suvestinė redakcija nuo 2018-11-21 iki 2018-11-28
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -421,7 +421,10 @@ Nr. XIII-602, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12175
 
 
 
-15) savivaldybės socialinio būsto fondo sudarymas ir jo remontas, socialinio būsto nuoma;
+15) paramos būstui įsigyti ar išsinuomoti teikimas Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1639, 2018-11-15, paskelbta TAR 2018-11-20, i. k. 2018-18680
+ 
 
 
 
@@ -1721,7 +1724,10 @@ Nr. XIII-443, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10804
 
 
 
-31) sprendimų dėl socialinio būsto fondo sudarymo (statybos, pirkimo ir t. t.) tvarkos, būsto suteikimo tvarkos ir dėl savivaldybės gyvenamųjų patalpų nuomos mokesčio dydžio priėmimas;
+31) sprendimų dėl savivaldybės būsto ir socialinio būsto fondo sudarymo (statybos, pirkimo ir t. t.) tvarkos, būsto suteikimo tvarkos ir nuomos mokesčio dydžio priėmimas, kitų sprendimų, numatytų Paramos būstui įsigyti ar išsinuomoti įstatyme, priėmimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1639, 2018-11-15, paskelbta TAR 2018-11-20, i. k. 2018-18680
+ 
 
 
 
@@ -5285,3 +5291,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 9 ir 9-1 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1445, 2018-06-30, paskelbta TAR 2018-07-16, i. k. 2018-12067
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16, 19 ir 20 straipsnių pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1639, 2018-11-15, paskelbta TAR 2018-11-20, i. k. 2018-18680
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 ir 16 straipsnių pakeitimo įstatymas
