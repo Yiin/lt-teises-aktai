@@ -13,15 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2018-09-01 iki 2018-11-22
+Suvestinė redakcija nuo 2018-11-23 iki 2020-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
  
 Nauja redakcija nuo 2017-04-01:
 Nr. XII-2666, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25262
  
-LIETUVOS RESPUBLIKOS 
-TEISĖS GAUTI INFORMACIJĄ IŠ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ
+LIETUVOS RESPUBLIKOS  TEISĖS GAUTI INFORMACIJĄ IŠ VALSTYBĖS IR  SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ
 ĮSTATYMAS
  
 2000 m. sausio 11 d. Nr. VIII-1524
@@ -37,50 +36,52 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo tikslas ir paskirtis
 
 
-1. Šio įstatymo tikslas – nustatyti asmenų teisės gauti iš valstybės ir savivaldybių institucijų ir įstaigų, įmonių ir viešųjų įstaigų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, informaciją, nurodytą šio įstatymo 5 straipsnyje, ir dokumentus, kuriais jos disponuoja ar (ir) tvarko vykdydamos įstatymų ar kitų norminių teisės aktų nustatytas funkcijas (toliau – viešoji funkcija), įgyvendinimo priemones ir tvarką. 
+1. Šio įstatymo tikslas – nustatyti asmenų teisės gauti iš valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, jei šios asociacijos įsteigtos bendrojo intereso poreikiams, kurie nėra pramoninio ar komercinio pobūdžio, tenkinti (toliau – šių subjektų asociacijos), nurodytų šio įstatymo 2 straipsnio 1 dalyje, informaciją, nurodytą šio įstatymo 5 straipsnyje, ir dokumentus, kuriais jos disponuoja ar (ir) kuriuos tvarko vykdydamos įstatymų ar kitų norminių teisės aktų nustatytas funkcijas (toliau – viešoji funkcija), įgyvendinimo priemones ir tvarką. 
 
 
 
 
-2. Šis įstatymas:
+2. Šis įstatymas nustato:
 
 
-1) įtvirtina valstybės ir savivaldybių institucijų ir įstaigų, įmonių ir viešųjų įstaigų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, pareigą teikti dokumentus, taip pat atvejus, kai draudžiama suteikti išimtines teises pakartotinai naudoti dokumentus; 
-
-
-
-
-2) nustato dokumentų pakartotinio naudojimo sąlygas; 
+1) valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, pareigą teikti dokumentus, taip pat atvejus, kai draudžiama suteikti išimtines teises pakartotinai naudoti dokumentus; 
 
 
 
 
-3) nustato prašymų gauti dokumentus pateikimo ir nagrinėjimo tvarką, kitus valstybės ir savivaldybių institucijų ir įstaigų, įmonių ir viešųjų įstaigų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, veiksmus teikiant dokumentus pareiškėjams; 
+2) dokumentų pakartotinio naudojimo sąlygas; 
 
 
 
 
-4) nustato atlyginimo už dokumentų teikimą nustatymo principus;
+3) prašymų gauti dokumentus pateikimo ir nagrinėjimo tvarką, kitus valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, veiksmus teikiant dokumentus pareiškėjams; 
 
 
 
 
-5) nustato informacijos apie valstybės ir savivaldybių institucijų ir įstaigų, įmonių ir viešųjų įstaigų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, veiklą skelbimo tvarką;
+4) atlyginimo už dokumentų teikimą nustatymo principus;
 
 
 
 
-6) nustato šio įstatymo 19 straipsnio 1 dalyje numatytų dokumentų rinkinių sudarymo ir su dokumentų rinkiniais susijusių paslaugų teikimo tvarką.
+5) informacijos apie valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, veiklą skelbimo tvarką;
+
+
+
+
+6) šio įstatymo 19 straipsnio 1 dalyje numatytų dokumentų rinkinių sudarymo ir su dokumentų rinkiniais susijusių paslaugų teikimo tvarką.
 
 
 
 
 
 
-3. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
+3. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
  
-
-
 
 
 
@@ -88,7 +89,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Įstatymo taikymas
 
 
-1. Šis įstatymas taikomas valstybės ir savivaldybių institucijoms ir įstaigoms, įmonėms ir viešosioms įstaigoms, finansuojamoms iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų ir Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka įgaliotoms atlikti viešąjį administravimą arba teikiančioms asmenims viešąsias ar administracines paslaugas ar vykdančioms kitas viešąsias funkcijas, įskaitant bibliotekas, muziejus ir valstybės archyvus (toliau – institucijos). Šio įstatymo 5 straipsnio 2 dalies 6 punktas taip pat taikomas įmonėms ir viešosioms įstaigoms, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kuriose valstybei arba savivaldybei priklauso daugiau kaip 50 procentų balsų visuotiniame akcininkų susirinkime, joms skelbiant informaciją apie savo darbuotojų darbo užmokestį šio įstatymo nustatyta tvarka. 
+1. Šis įstatymas taikomas valstybės ir savivaldybių institucijoms ir įstaigoms, įmonėms ir viešosioms įstaigoms, finansuojamoms iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų ir Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka įgaliotoms atlikti viešąjį administravimą arba teikiančioms asmenims viešąsias ar administracines paslaugas ar vykdančioms kitas viešąsias funkcijas, įskaitant bibliotekas, muziejus ir valstybės archyvus, taip pat šių subjektų asociacijoms (toliau – institucijos). Šio įstatymo 5 straipsnio 2 dalies 6 punktas taip pat taikomas įmonėms ir viešosioms įstaigoms, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kuriose valstybei arba savivaldybei priklauso daugiau kaip 50 procentų balsų visuotiniame akcininkų susirinkime, joms skelbiant informaciją apie savo darbuotojų darbo užmokestį šio įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+ 
 
 
 
@@ -148,7 +152,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Asmens duomenys tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu. 
+4. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) (toliau – Reglamentas (ES) 2016/679) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
  
 
 
@@ -184,22 +190,41 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Pareiškėjas – Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių fizinis, juridinis asmuo, juridinio asmens statuso neturintis subjektas ir (arba) jo filialas ir atstovybė. 
+6. Mobilioji programa – institucijų arba jų įgaliotų subjektų sukurta ir plėtojama taikomoji programa, skirta visuomenei naudotis mobiliaisiais prietaisais. Mobilioji programa neapima programinės įrangos, skirtos mobiliesiems įrenginiams valdyti (mobiliųjų įrenginių operacinės sistemos), ir (arba) aparatinės įrangos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+ 
 
 
 
 
-7. Pareiškėjo atstovas – asmuo, turintis teisę atstovauti pareiškėjui.
+7. Pareiškėjas – Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių fizinis, juridinis asmuo, juridinio asmens statuso neturintis subjektas ir (arba) jo filialas ir atstovybė. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+ 
 
 
 
 
-8. Skaitmeninių dokumentų rinkinys (toliau – dokumentų rinkinys) – informacinių technologijų priemonėmis sudarytų ir metodiškai susistemintų dokumentų visuma, įskaitant juos apibūdinančius duomenis (toliau – metaduomenys).
+8. Pareiškėjo atstovas – asmuo, turintis teisę atstovauti pareiškėjui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+ 
 
 
 
 
-9. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Asmens duomenų teisinės apsaugos įstatyme, Viešojo administravimo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme. 
+9. Skaitmeninių dokumentų rinkinys (toliau – dokumentų rinkinys) – informacinių technologijų priemonėmis sudarytų ir metodiškai susistemintų dokumentų visuma, įskaitant juos apibūdinančius duomenis (toliau – metaduomenys).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+ 
+
+
+
+
+10. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (ES) 2016/679, Viešojo administravimo įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
  
 
 
@@ -226,7 +251,11 @@ BENDROSIOS NUOSTATOS
 5 straipsnis. Informacija apie institucijos veiklą 
 
 
-1. Informacija apie institucijos veiklą yra vieša ir Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nustatyta tvarka skelbiama institucijos interneto svetainėje.
+1. Informacija apie institucijos veiklą yra vieša ir Lietuvos Respublikos Vyriausybės nustatyta tvarka skelbiama institucijos interneto svetainėje, taip pat mobiliojoje programoje, jeigu institucija ją turi. Institucijos interneto svetainė ir mobilioji programa turi atitikti Vyriausybės nustatytus prieinamumo reikalavimus, išskyrus Vyriausybės nustatytus atvejus, kai nėra automatizuotų arba efektyvių ir lengvai įgyvendinamų būdų užtikrinti prieinamumą prie tam tikros informacijos arba kai institucija faktiškai nekontroliuoja interneto svetainių ir mobiliųjų programų turinio ar prieinamumo reikalavimų laikymasis sudarys institucijai neproporcingą naštą. 
+TAR pastaba. 1 dalies nuostatos institucijų interneto svetainėms, kurios nebuvo paskelbtos iki 2018 m. rugsėjo 23 d., taikomos nuo 2019 m. rugsėjo 23 d., nenurodytoms institucijų interneto svetainėms taikomos nuo 2020 m. rugsėjo 23 d., institucijų mobiliosioms programoms taikomos nuo 2021 m. birželio 23 d.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+ 
 
 
 
@@ -282,7 +311,7 @@ BENDROSIOS NUOSTATOS
 6 straipsnis. Dokumentų teikimo principai
 
 
-Institucija, teikdama dokumentus, vadovaujasi šiais principais:
+1. Institucija, teikdama dokumentus, vadovaujasi šiais principais:
 
 
 1) dokumentų išsamumo – pareiškėjui turi būti pateikti visi pagal teisės aktus teiktini jo prašymo turinį atitinkantys dokumentai;
@@ -315,17 +344,29 @@ Institucija, teikdama dokumentus, vadovaujasi šiais principais:
 
 
 
-7) abipusio naudojimo – institucija pareiškėjui pateiktus dokumentus prireikus toliau pati juos naudoja.
+7) abipusio naudojimo – institucija pareiškėjui pateiktus dokumentus prireikus toliau pati juos naudoja;
+
+
+
+
+8) nediskriminavimo – pakartotinio naudojimo sąlygos turi būti tokios, kad būtų nediskriminuojami pareiškėjai, naudojantys dokumentus tam pačiam (komerciniam arba nekomerciniam) tikslui.
+
+
+
+
+
+
+2. Jeigu institucija pakartotinai dokumentus naudoja veiklai, kuri nesusijusi su viešųjų funkcijų vykdymu, jai šie dokumentai teikiami tokiomis pačiomis sąlygomis kaip ir visiems pareiškėjams. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
  
 
 
 
 
-
-
-
-
-7 straipsnis. Valstybės institucijų kompetencija pakartotinio naudojimo srityje
+7 straipsnis. Valstybės institucijų kompetencija pakartotinio naudojimo ir institucijų interneto svetainių ir mobiliųjų programų pritaikymo prieinamumo reikalavimams srityse 
 
 
 1. Vyriausybė nustato pakartotinio naudojimo plėtros kryptis, siektinus rezultatus ir jų pasiekimo būdus.
@@ -333,9 +374,7 @@ Institucija, teikdama dokumentus, vadovaujasi šiais principais:
 
 
 
-2. Lietuvos Respublikos ūkio ministerija formuoja valstybės politiką pakartotinio naudojimo srityje ir pagal kompetenciją: 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
+2. Lietuvos Respublikos ūkio ministerija formuoja valstybės politiką pakartotinio naudojimo srityje ir pagal kompetenciją:
 
 
 1) teikia Vyriausybei pasiūlymus dėl pakartotinio naudojimo plėtros krypčių, siektinų rezultatų ir jų pasiekimo būdų;
@@ -353,7 +392,7 @@ Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
 
 
 
-4) kas 3 metai, įsigaliojus šio įstatymo priede nurodytai direktyvai, rengia dokumentų, skirtų pakartotinai naudoti, prieinamumo, sąlygų, kuriomis šie dokumentai prieinami, ir pareiškėjų teisės gynimo priemonių ataskaitą ir pateikia ją Europos Komisijai; pagal šią ataskaitą, kuri skelbiama viešai, atliekama šio įstatymo 10 straipsnio nuostatų įgyvendinimo stebėsena; 
+4) kas 3 metai, įsigaliojus šio įstatymo priedo 1 punkte nurodytai direktyvai, rengia dokumentų, skirtų pakartotinai naudoti, prieinamumo, sąlygų, kuriomis šie dokumentai prieinami, ir pareiškėjų teisės gynimo priemonių ataskaitą ir pateikia ją Europos Komisijai; ši ataskaita skelbiama viešai, pagal šią viešai skelbiamą ataskaitą atliekama šio įstatymo 10 straipsnio nuostatų įgyvendinimo stebėsena; 
 
 
 
@@ -365,9 +404,7 @@ Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
 
 
 
-3. Lietuvos Respublikos ūkio ministro įgaliota institucija atlieka pakartotinio naudojimo stebėseną ir: 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
+3. Lietuvos Respublikos ūkio ministro įgaliota institucija atlieka pakartotinio naudojimo stebėseną ir:
 
 
 1) teikia institucijoms metodinę pagalbą dėl dokumentų rinkinių ir metaduomenų sudarymo;
@@ -380,10 +417,7 @@ Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
 
 
 
-3) atlieka dokumentų rinkinių sudarymo stebėseną, apibendrintą informaciją teikia Ūkio ministerijai; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
- 
+3) atlieka dokumentų rinkinių sudarymo stebėseną, apibendrintą informaciją teikia Ūkio ministerijai;
 
 
 
@@ -400,10 +434,32 @@ Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
 
 
 
-4. Institucijos pagal kompetenciją įgyvendina valstybės politiką pakartotinio naudojimo srityje. 
+4. Vyriausybės įgaliota institucija yra atsakinga už:
+
+
+1) valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų interneto svetainių ir mobiliųjų programų pritaikymo Vyriausybės nustatytiems prieinamumo reikalavimams stebėseną; šią stebėseną Vyriausybės įgaliota institucija atlieka remdamasi Europos Komisijos nustatyta stebėsenos metodika;
+
+
+
+
+2) skundų dėl institucijų interneto svetainių ir mobiliųjų programų nepritaikymo ar netinkamo pritaikymo prieinamumo reikalavimams nagrinėjimą Vyriausybės nustatyta tvarka ir dėl institucijos netinkamai atlikto vertinimo, ar prieinamumo reikalavimų laikymasis sudarys institucijai neproporcingą naštą, nagrinėjimą Vyriausybės nustatyta tvarka;
+
+
+
+
+3) institucijų interneto svetainių ir mobiliųjų programų pritaikymo Vyriausybės nustatytiems prieinamumo reikalavimams stebėsenos rezultatų, įskaitant institucijų interneto svetainių ir mobiliųjų programų atitikties prieinamumo reikalavimams vertinimo duomenis, ataskaitų parengimą ir pateikimą Europos Komisijai.
+
+
+
+
+
+
+5. Institucijos pagal kompetenciją įgyvendina valstybės politiką pakartotinio naudojimo ir institucijų interneto svetainių ir mobiliųjų programų pritaikymo prieinamumo reikalavimams srityse. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
  
-
-
 
 
 
@@ -596,7 +652,10 @@ PRAŠYMŲ PATEIKIMAS IR NAGRINĖJIMAS
 
 
 
-3. Žodiniai prašymai telefonu arba pareiškėjui atvykus į instituciją gali būti pateikiami tais atvejais, kai pareiškėjas pageidauja gauti informaciją žodžiu arba susipažinti su dokumentu, neprašydamas kopijos, kai dokumentą galima pateikti tuoj pat, nepažeidžiant šio įstatymo, Asmens duomenų teisinės apsaugos įstatymo nustatytos tvarkos.
+3. Žodiniai prašymai telefonu arba pareiškėjui atvykus į instituciją gali būti pateikiami tais atvejais, kai pareiškėjas pageidauja gauti informaciją žodžiu arba susipažinti su dokumentu, neprašydamas kopijos, kai dokumentą galima pateikti tuoj pat, nepažeidžiant šio įstatymo ir Reglamento (ES) 2016/679 nustatytos tvarkos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+ 
 
 
 
@@ -958,10 +1017,12 @@ SKUNDŲ AR PRANEŠIMŲ PATEIKIMO IR NAGRINĖJIMO TVARKA
 22 straipsnis. Pareiškėjo teisė apskųsti institucijos veiksmus 
 
 
-Pareiškėjas turi teisę apskųsti institucijos veiksmą ar neveikimą, susijusį su šiame įstatyme nustatytos informacijos teikimu ir dokumentų teikimu pakartotiniam naudojimui, Vyriausiajai administracinių ginčų komisijai arba administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+Pareiškėjas turi teisę apskųsti institucijos veiksmą ar neveikimą, susijusį su šiame įstatyme nustatytos informacijos teikimu ir dokumentų teikimu pakartotinai naudoti, Lietuvos administracinių ginčų komisijai Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo nustatyta tvarka arba administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
  
-
-
 
 
 
@@ -1025,6 +1086,14 @@ priedas
 1. 2003 m. lapkričio 17 d. Europos Parlamento ir Tarybos direktyva 2003/98/EB dėl viešojo sektoriaus informacijos pakartotinio naudojimo (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 701) su paskutiniais pakeitimais, padarytais 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/37/ES (OL 2013 L 175, p. 1).
 
 
+
+
+2. 2016 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2102 dėl viešojo sektoriaus institucijų interneto svetainių ir mobiliųjų programų prieinamumo (OL 2016 L 327, p. 1). 
+Papildyta punktu:
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+ 
+
+
  
  
 Pakeitimai:
@@ -1078,3 +1147,8 @@ Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
 Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 7, 18 ir 20 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 1, 2, 3, 5, 6, 7, 12, 22 straipsnių ir priedo pakeitimo įstatymas
