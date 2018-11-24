@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-11-23
+Suvestinė redakcija nuo 2018-11-24 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -4849,6 +4849,14 @@ Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
  
 
 
+
+
+11. Asmenys, kurie karo tarnybą krašto apsaugos sistemoje pradėjo iki 1991 m. rugpjūčio 23 d. ir su kuriais tarnybinių gyvenamųjų patalpų nuomos sutartys buvo sudarytos iki 2001 m. liepos 1 d., gali būti iškeldinti iš tarnybinių gyvenamųjų patalpų tik suteikus kitas gyvenamąsias patalpas, atitinkančias techninius ir higienos reikalavimus, toje pačioje apskrityje.
+Papildyta straipsnio dalimi:
+Nr. XIII-1645, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18931
+ 
+
+
 Straipsnio pakeitimai:
 Nr. VIII-1289, 99.07.07, Žin., 1999, Nr.64-2069 (99.07.23)
 Nr. VIII-1668, 00.05.09, Žin., 2000, Nr.42-1194 (00.05.24)
@@ -6303,3 +6311,8 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 1, 10, 42, 58, 59, 60, 61, 63, 65, 65-1, 67, 68, 69, 70, 72, 77-2 straipsnių pakeitimo ir Įstatymo papildymo 61-1 straipsniu, 1 ir 2 priedais įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1645, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18931
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 63 straipsnio pakeitimo įstatymas
