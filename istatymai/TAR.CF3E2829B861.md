@@ -13,10 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF3E2829B861"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2018-11-01 iki 2018-11-27
+Suvestinė redakcija nuo 2018-11-28 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 8-161, i. k. 0981010ISTAVIII-602
- 
  
  
 
@@ -26,6 +25,7 @@ NARKOTINIŲ IR PSICHOTROPINIŲ MEDŽIAGŲ KONTROLĖS
  
 1998 m. sausio 8 d. Nr. VIII-602
 Vilnius
+ 
  
 
 
@@ -67,9 +67,10 @@ Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
 
 
 
-2. Preparatas – bet kokios fizinės būsenos dozuotas ar nedozuotas tirpalas ar mišinys, kurio sudėtyje yra narkotinių ar psichotropinių medžiagų arba viena ar kelios narkotinės ar psichotropinės medžiagos terapinėmis dozėmis.
+2. Preparatas – bet kokios fizinės būsenos dozuotas ar nedozuotas mišinys, kurio sudėtyje yra viena ar kelios narkotinės ar psichotropinės medžiagos arba viena ar daugiau naujų psichoaktyviųjų medžiagų, arba viena ar kelios narkotinės ar psichotropinės medžiagos terapinėmis dozėmis. 
 Straipsnio dalies pakeitimai:
 Nr. X-905, 2006-11-16, Žin., 2006, Nr. 130-4888 (2006-11-30), i. k. 1061010ISTA000X-905
+Nr. XIII-1659, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19127
  
 
 
@@ -148,35 +149,40 @@ Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
 
 
 
-13. Nauja psichoaktyvioji medžiaga – gryna arba negryna medžiaga, kuriai netaikoma nei 1961 m. Jungtinių Tautų bendroji narkotinių medžiagų konvencija su pakeitimais, padarytais 1972 m. protokolu, nei 1971 m. Jungtinių Tautų psichotropinių medžiagų konvencija, tačiau kuri gali kelti riziką sveikatai arba socialinę riziką, panašią į medžiagų, kurioms taikomos tos konvencijos, keliamą riziką. 
+13. Nauja psichoaktyvioji medžiaga – grynos formos arba preparate esanti medžiaga, kuriai netaikoma nei 1961 m. Jungtinių Tautų bendroji narkotinių medžiagų konvencija su pakeitimais, padarytais 1972 m. protokolu, nei 1971 m. Jungtinių Tautų psichotropinių medžiagų konvencija (toliau kartu – konvencijos), tačiau kuri gali kelti riziką sveikatai arba socialinę riziką, panašią į medžiagų, kurioms taikomos konvencijos, keliamą riziką. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
- 
-
-
-
-
-3 straipsnis. Narkotinių ir psichotropinių medžiagų įrašymas į kontroliuojamų medžiagų sąrašus 
-
-
-1. Narkotinės ir psichotropinės medžiagos į kontroliuojamų medžiagų sąrašus įrašomos nurodant konkrečių medžiagų ar jų darinių grupės pavadinimus. 
-
-
-
-
-2. Jeigu į kontroliuojamų medžiagų sąrašus įrašomos konkrečios narkotinės ir psichotropinės medžiagos, nurodomi jų tarptautiniai pavadinimai, jeigu tarptautinių pavadinimų nėra, – cheminiai pavadinimai. Kartu su šiais pavadinimais gali būti nurodomas ir kitoks, vartotojams labiau žinomas, pavadinimas. 
-
-
-
-
-3. Jeigu į kontroliuojamų medžiagų sąrašus įrašoma narkotinės ar psichotropinės medžiagos darinių grupė, jos pavadinimas sudaromas remiantis medžiagos, iš kurios jis gautas, pavadinimu, nurodant konkrečios cheminės struktūros keitimą. Tokiu atveju suprantama, kad visiems dariniams, priskirtiniems šiai grupei, automatiškai taikomas tas pats kontrolės režimas, kaip ir pagrindiniam junginiui. 
 Straipsnio dalies pakeitimai:
-Nr. XIII-1161, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08636
+Nr. XIII-1659, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19127
  
+
+
+
+
+3 straipsnis. Narkotinių ir psichotropinių medžiagų, kurioms taikoma viena iš konvencijų, ar naujų psichoaktyviųjų medžiagų įrašymas į kontroliuojamų medžiagų sąrašus
+
+
+1. Narkotinės ir psichotropinės medžiagos, kurioms taikoma viena iš konvencijų, ar naujos psichoaktyviosios medžiagos į kontroliuojamų medžiagų sąrašus įrašomos nurodant konkrečių medžiagų ar jų darinių grupės pavadinimus.
+
+
+
+
+2. Jeigu į kontroliuojamų medžiagų sąrašus įrašomos konkrečios narkotinės ir psichotropinės medžiagos, kurioms taikoma viena iš konvencijų, ar naujos psichoaktyviosios medžiagos, kontroliuojamų medžiagų sąrašuose nurodomi jų tarptautiniai pavadinimai, jeigu tarptautinių pavadinimų nėra, – cheminiai pavadinimai. Kartu su šiais pavadinimais gali būti nurodomas ir kitoks, vartotojams labiau žinomas, pavadinimas.
+
+
+
+
+3. Jeigu į kontroliuojamų medžiagų sąrašus įrašoma narkotinės ar psichotropinės medžiagos, kuriai taikoma viena iš konvencijų, ar naujos psichoaktyviosios medžiagos darinių grupė, jos pavadinimas sudaromas remiantis medžiagos, iš kurios jis gautas, pavadinimu, nurodant konkrečius cheminės struktūros keitimus. Tokiu atveju suprantama, kad visiems dariniams, priskirtiniems šiai grupei, automatiškai taikomas tas pats kontrolės režimas kaip ir pagrindiniam junginiui.
+
+
+
+
+4. 2004 m. spalio 25 d. Tarybos pamatinio sprendimo 2004/757/TVR, nustatančio būtiniausias nuostatas dėl nusikalstamų veikų sudėties požymių ir bausmių neteisėtos prekybos narkotikais srityje (OL 2004 L 335, p. 8), priede (toliau – priedas) nurodytos naujos psichoaktyviosios medžiagos į kontroliuojamų medžiagų sąrašus įrašomos ne vėliau kaip per 6 mėnesius nuo Europos Komisijos deleguotojo akto, kuriuo keičiamas priedas, įsigaliojimo.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1073, 2010-10-26, Žin., 2010, Nr. 132-6718 (2010-11-11), i. k. 1101010ISTA0XI-1073
+Nr. XIII-1659, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19127
  
 
 
@@ -1625,12 +1631,14 @@ Sveikatos apsaugos ministerija per tris mėnesius nuo Narkotinių ir psichotropi
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
  
 
 
 
 
+ 
 Lietuvos Respublikos 
 narkotinių ir psichotropinių
 medžiagų kontrolės įstatymo
@@ -1661,6 +1669,14 @@ priedas
 
 
 5. 2009 m. lapkričio 30 d. Komisijos reglamentas (EB) Nr. 1122/2009, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 73/2009 įgyvendinimo taisyklės, susijusios su kompleksiniu paramos susiejimu, moduliavimu ir integruota administravimo ir kontrolės sistema pagal tame reglamente numatytas ūkininkams skirtas tiesioginės paramos schemas, ir Tarybos reglamento (EB) Nr. 1234/2007 įgyvendinimo taisyklės, susijusios su kompleksiniu paramos susiejimu pagal vyno sektoriui numatytą paramos schemą (OL 2009 L 316, p. 65), su paskutiniais pakeitimais, padarytais 2011 m. gruodžio 21 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 1368/2011 (OL 2011 L 341, p. 33).
+
+
+
+
+6. 2017 m. lapkričio 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/2103, kuria, siekiant į termino „narkotikas“ apibrėžtį įtraukti naujų psichoaktyviųjų medžiagų, iš dalies keičiamas Tarybos pamatinis sprendimas 2004/757/TVR ir kuria panaikinamas Tarybos sprendimas 2005/387/TVR (OL 2017 L 305, p. 12). 
+Papildyta punktu:
+Nr. XIII-1659, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19127
+ 
 
 
 Priedo pakeitimai:
@@ -1721,3 +1737,13 @@ Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1560, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17475
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 12 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1529, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16537
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 4, 8, 10, 10-1, 10-4 ir 11 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1659, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19127
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 2, 3 straipsnių ir priedo pakeitimo įstatymas
