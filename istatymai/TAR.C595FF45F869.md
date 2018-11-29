@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2018-07-11 iki 2018-11-28
+Suvestinė redakcija nuo 2018-11-29 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -407,7 +407,6 @@ Nr. XIII-1170, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08264
 
 
 29. Užsienio lietuviai – Lietuvos Respublikos piliečiai, ne mažiau kaip 3 metus gyvenantys užsienyje, ir lietuvių kilmės užsieniečiai, jų vaikai, vaikaičiai, provaikaičiai. Lietuvių kilmės užsieniečiu laikomas užsienietis, kurio tėvai ar seneliai arba vienas iš tėvų ar senelių yra ar buvo lietuviai ir kuris pats laiko save lietuviu ir deklaruoja tai rašytiniu pareiškimu sprendimą priimančiai institucijai.
- 
 
 
 
@@ -1316,22 +1315,6 @@ Nr. XIII-891, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21317
 
 
 
-8) renka duomenis, apdoroja, apibendrina, analizuoja ir skelbia statistinę informaciją, susijusią su mokslo, studijų ir inovacijų politika; 
-Papildyta straipsnio punktu:
-Nr. XIII-891, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21317
- 
-
-
-
-
-9) atlieka kitas funkcijas, numatytas Profesinio mokymo įstatyme, Lietuvos Respublikos užimtumo įstatyme ir kituose teisės aktuose. 
-Papildyta straipsnio punktu:
-Nr. XIII-891, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21317
- 
-
-
-
-
 
 
 4. Mokslo ir studijų stebėsenos ir analizės centro kolegialus patariamasis organas yra taryba, tarybos tikslas – patarti Mokslo ir studijų stebėsenos ir analizės centro direktoriui. Taryba veikia visuomeniniais pagrindais. Mokslo ir studijų stebėsenos ir analizės centro tarybą sudaro 7 nariai: vieną narį skiria Seimo Švietimo ir mokslo komitetas, 3 narius – Vyriausybė, vieną – Lietuvos pramonininkų konfederacija, vieną – Lietuvos universitetų rektorių konferencija (konferencijos), vieną – Lietuvos kolegijų direktorių konferencija (konferencijos). Taryba sudaroma 5 metams, o tarybos kadencija pradedama skaičiuoti nuo tada, kai savininko teises ir pareigas įgyvendinanti institucija paskelbia tarybos sudėtį. 
@@ -1590,7 +1573,11 @@ Nr. KT15-N10/2018, 2018-06-29, paskelbta TAR 2018-06-29, i. k. 2018-10929
 
 
 
-5. Tarybos nariais negali būti Respublikos Prezidentas, Seimo ir Vyriausybės nariai ir politinio (asmeninio) pasitikėjimo valstybės tarnautojai, taip pat aukštosios mokyklos darbuotojai, tiesiogiai pavaldūs rektoriui (direktoriui), bei įstaigų, įmonių ar organizacijų, kuriose aukštoji mokykla visuotiniame dalyvių susirinkime turi ne mažiau kaip 50 procentų visų juridinio asmens dalyvių balsų, vadovai ir jų pavaduotojai. Tarybos nariu negali būti senato (akademinės tarybos) narys.
+5. Tarybos nariais negali būti Respublikos Prezidentas, Europos Parlamento nariai, Seimo ir Vyriausybės nariai, savivaldybių merai ir savivaldybių tarybų nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, taip pat aukštosios mokyklos darbuotojai, tiesiogiai pavaldūs rektoriui (direktoriui), bei įstaigų, įmonių ar organizacijų, kuriose aukštoji mokykla visuotiniame dalyvių susirinkime turi ne mažiau kaip 50 procentų visų juridinio asmens dalyvių balsų, vadovai ir jų pavaduotojai. Tarybos nariu negali būti senato (akademinės tarybos) narys. 
+TAR pastaba. 27 straipsnio 5 dalyje numatytas draudimas valstybinės aukštosios mokyklos tarybos nariui būti Europos Parlamento nariu, savivaldybės meru ar savivaldybės tarybos nariu taikomas po įstatymo Nr. XIII-1312 įsigaliojimo (2018-11-29) renkamiems aukštųjų mokyklų tarybų nariams.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1657, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19223
+ 
 
 
 
@@ -4896,3 +4883,28 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 85 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 17 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1367, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11695
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1369, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11698
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 54 ir 77 straipsnių pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1412, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11477
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 82 straipsnio pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1415, 2018-06-30, paskelbta TAR 2018-07-13, i. k. 2018-11960
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 14, 15, 21, 23, 24, 84 straipsnių pakeitimo ir 18, 25 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1657, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19223
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 27 straipsnio pakeitimo įstatymas
