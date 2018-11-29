@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-11-21 iki 2018-11-28
+Suvestinė redakcija nuo 2018-11-29 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -1125,9 +1125,10 @@ SAVIVALDYBIŲ INSTITUCIJOS, JŲ SUDARYMAS IR ĮGALIOJIMAI
 
 
 
-6. Per du mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos arba nuo tiesiogiai išrinkto mero priesaikos priėmimo dienos turi būti paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryti savivaldybės tarybos komitetai ir paskirti šių komitetų pirmininkai, sudarytos šiame įstatyme nustatytos komisijos ir paskirti šių komisijų pirmininkai, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti. Jeigu mero pavaduotojo (pavaduotojų) įgaliojimai nutrūksta ir (ar) savivaldybės administracijos direktorius atleidžiamas iš pareigų prieš terminą, per du mėnesius nuo jo įgaliojimų nutrūkimo ar atleidimo iš pareigų dienos savivaldybės taryba turi paskirti mero pavaduotoją (pavaduotojus) ir (ar) savivaldybės administracijos direktorių.
+6. Per du mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos arba nuo tiesiogiai išrinkto mero priesaikos priėmimo dienos turi būti paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryti savivaldybės tarybos komitetai ir paskirti šių komitetų pirmininkai, sudarytos šiame įstatyme nustatytos komisijos ir paskirti šių komisijų pirmininkai, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti. Jeigu mero pavaduotojo (pavaduotojų) ir (ar) Kontrolės komiteto pirmininko, ir (ar) šiame įstatyme nustatytų komisijų pirmininkų įgaliojimai nutrūksta ir (ar) savivaldybės administracijos direktorius atleidžiamas iš pareigų prieš terminą, per du mėnesius nuo jų įgaliojimų nutrūkimo ar atleidimo iš pareigų dienos savivaldybės taryba turi paskirti mero pavaduotoją (pavaduotojus) ir (ar) savivaldybės administracijos direktorių, ir (ar) Kontrolės komiteto pirmininką, ir (ar) šiame įstatyme nustatytų komisijų pirmininkus. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
+Nr. XIII-1655, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19165
  
 
 
@@ -3153,7 +3154,10 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-9. Kai savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas, savivaldybės administracijos direktorius ir jo pavaduotojas (pavaduotojai) yra pavaldūs ir atskaitingi Vyriausybės įgaliotiniui.
+9. Kai savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas, savivaldybės administracijos direktoriaus ir jo pavaduotojo (pavaduotojų) įgaliojimų klausimas sprendžiamas Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatyme nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1655, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19165
+ 
 
 
 Straipsnio pakeitimai:
@@ -5296,3 +5300,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16, 19 ir 20 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1639, 2018-11-15, paskelbta TAR 2018-11-20, i. k. 2018-18680
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 ir 16 straipsnių pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1655, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19165
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 11 ir 29 straipsnių pakeitimo įstatymas
