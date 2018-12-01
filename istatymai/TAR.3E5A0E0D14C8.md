@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-11-30
+Suvestinė redakcija nuo 2018-12-01 iki 2020-03-18
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
  
@@ -1542,7 +1542,10 @@ Vartojimo kredito davėjas turi teisę nutraukti vartojimo kredito sutartį, kai
 
 
 
-3. Nepažeisdami šiame įstatyme nustatytų vartojimo kredito gavėjo teisių, vartojimo kredito davėjas ir paskolos davėjas turi teisę priimti vekselius iš vartojimo kredito gavėjo ir kitų asmenų, siekdami užtikrinti, kad vartojimo kredito gavėjo įsipareigojimai pagal vartojimo kredito sutartį bus įvykdyti.
+3. Vartojimo kredito davėjas ir paskolos davėjas neturi teisės priimti vekselių iš vartojimo kredito gavėjo ir kitų asmenų, siekdami užtikrinti, kad vartojimo kredito gavėjo įsipareigojimai pagal vartojimo kredito sutartį bus įvykdyti.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1609, 2018-11-08, paskelbta TAR 2018-11-15, i. k. 2018-18505
+ 
 
 
 Straipsnio pakeitimai:
@@ -3242,3 +3245,8 @@ Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 3, 5, 11-1, 22, 25-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
 Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 22, 22-1, 25-1, 25-2, 25-3, 28, 34, 38 straipsnių pakeitimo, Įstatymo papildymo 21-2, 28-1, 28-2, 33-1, 33-2 straipsniais ir 22-2, 26, 27, 29, 30, 31, 32, 33, 35, 36, 37 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1609, 2018-11-08, paskelbta TAR 2018-11-15, i. k. 2018-18505
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 20 straipsnio pakeitimo įstatymas
