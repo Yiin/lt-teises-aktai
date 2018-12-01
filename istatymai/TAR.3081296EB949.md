@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3081296EB949"
 
 # Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2018-11-30
+Įstatymas netenka galios 2019-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1389, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12058
+Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymo Nr. VIII-1986 pripažinimo netekusiu galios įstatymas
+ 
+Suvestinė redakcija nuo 2018-12-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2917; Žin. 2003, Nr.64-2881, i. k. 1001010ISTAIII-1986
  
@@ -80,7 +85,10 @@ BENDROSIOS NUOSTATOS
 
 2 straipsnis. Pagrindinės Statuto sąvokos
 
-1. Muitinės pareigūnas – statutinis valstybės tarnautojas, tarnaujantis muitinėje ir pagal pareigas turintis viešojo arba vidaus administravimo įgaliojimus pavaldiems ar nepavaldiems asmenims.
+1. Muitinės pareigūnas – šiame statute nustatyta tvarka į muitinės pareigūno pareigas priimtas statutinis valstybės tarnautojas, atliekantis įstatymuose nustatytas funkcijas, kuriomis užtikrinamas muitinės įstaigai įstatymuose nustatytų uždavinių ir funkcijų įgyvendinimas, turintis įstatymų suteiktus viešojo administravimo įgaliojimus dėl sau nepavaldžių asmenų ir (ar) vadovaujantis kitiems muitinės pareigūnams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1383, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12051
+ 
 
 2. Pakaitinis muitinės pareigūnas – muitinės pareigūnas, pakeičiantis laikinai negalintį eiti pareigų muitinės pareigūną.
 
@@ -1297,4 +1305,9 @@ Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto 40, 49 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2345, 2012-11-06, Žin., 2012, Nr. 132-6673 (2012-11-15), i. k. 1121010ISTA0XI-2345
 Lietuvos Respublikos tarnybos Lietuvos Respublikos muitinėje statuto patvirtinimo ir įgyvendinimo įstatymo 11 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1383, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12051
+Lietuvos Respublikos Tarnybos Lietuvos Respublikos muitinėje statuto 2 straipsnio pakeitimo įstatymas
 
