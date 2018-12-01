@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BBC3E3121172"
 
 # Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2017-12-01 iki 2018-11-30
+Įstatymas netenka galios 2019-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1385, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12053
+Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto patvirtinimo įstatymo Nr. VIII-1631 pripažinimo netekusiu galios įstatymas
+ 
+Suvestinė redakcija nuo 2018-12-01 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 39-1088, i. k. 1001010ISTAIII-1631
  
@@ -75,7 +80,10 @@ Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerij
 
 3. Pakaitinis pataisos pareigūnas – pataisos pareigūnas, pakeičiantis laikinai negalintį eiti pareigų pataisos pareigūną.
 
-4. Pataisos pareigūnas – statutinis valstybės tarnautojas, priimtas į tarnybą Kalėjimų departamente ar jam pavaldžioje įstaigoje.
+4. Pataisos pareigūnas – šiame statute nustatyta tvarka į pataisos pareigūno pareigas priimtas statutinis valstybės tarnautojas, atliekantis įstatymuose nustatytas funkcijas, kuriomis užtikrinamas Kalėjimų departamentui ar jam pavaldžiai įstaigai įstatymuose nustatytų uždavinių ir funkcijų įgyvendinimas, turintis įstatymų suteiktus viešojo administravimo įgaliojimus dėl sau nepavaldžių asmenų ir (ar) vadovaujantis kitiems pataisos pareigūnams.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1382, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12050
+ 
 
 5. Prievarta – pataisos pareigūno veiklos metodas, kuris taikomas, kai nevykdomi Kalėjimų departamento, pataisos įstaigos arba tardymo izoliatoriaus administracijos reikalavimai ar nurodymai arba siekiama išvengti pavojaus. 
 Papildyta straipsnio dalimi:
@@ -1804,4 +1812,9 @@ Lietuvos Respublikos tarnybos kalėjimų departamente prie Lietuvos Respublikos 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-697, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16999
 Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto antrojo skirsnio ir 10, 11, 13, 16, 18, 23, 24, 29, 30, 33, 34, 36, 37, 38, 40, 43, 44, 46, 47 straipsnių pakeitimo, Statuto papildymo 10-1, 16-1, 29-1, 35-1, 38-1 straipsniais ir priedu ir 48 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1382, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12050
+Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto 2 straipsnio pakeitimo įstatymas
 
