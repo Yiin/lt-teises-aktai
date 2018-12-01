@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-11-30
+Suvestinė redakcija nuo 2018-12-01 iki 2018-12-13
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -22387,38 +22387,40 @@ Išskaitų iš skolininko darbo užmokesčio ir iš kitų jam prilygintų išmok
 
 
 
-736 straipsnis. Išskaitų iš skolininko darbo užmokesčio ir kitų jo pajamų dydis 
+736 straipsnis. Išskaitų iš skolininko darbo užmokesčio ir kitų jo pajamų dydis
 
 
-1. Iš skolininkui priklausančios darbo užmokesčio ir jam prilygintų išmokų bei davinių dalies, neviršijančių Vyriausybės nustatytos MMA, išskaitoma pagal vykdomuosius dokumentus, kol bus visiškai padengtos išieškomos sumos: 
+1. Iš skolininkui priklausančios darbo užmokesčio ir jam prilygintų išmokų bei davinių dalies, neviršijančių Vyriausybės nustatytos MMA, išskaitoma pagal vykdomuosius dokumentus tol, kol bus visiškai padengtos išieškomos sumos:
 
 
-1) išieškant išlaikymą periodinėmis išmokomis, žalos, padarytos suluošinimu ar kitokiu sveikatos sužalojimu, taip pat maitintojo gyvybės atėmimu, atlyginimą ir žalos, padarytos nusikalstama veika, atlyginimą, – iki penkiasdešimties procentų, jeigu kitaip nenustatyta pačiame vykdomajame rašte arba ko kita nenustato įstatymai ar teismas; 
-
-
-
-
-2) visų kitų rūšių išieškoms, jeigu kitaip nenustatyta pačiame vykdomajame rašte arba ko kita nenustato įstatymai ar teismas, – dvidešimt procentų; 
+1) išieškant išlaikymą periodinėmis išmokomis, žalos, padarytos suluošinimu ar kitokiu sveikatos sužalojimu, taip pat maitintojo gyvybės atėmimu, atlyginimą – trisdešimt procentų, jeigu kitaip nenustatyta pačiame vykdomajame rašte arba ko kita nenustato įstatymai ar teismas;
 
 
 
 
-3) pagal kelis vykdomuosius dokumentus – ne daugiau kaip penkiasdešimt procentų. 
+2) visų kitų rūšių išieškoms, jeigu kitaip nenustatyta pačiame vykdomajame rašte arba ko kita nenustato įstatymai ar teismas, – dvidešimt procentų;
+
+
+
+
+3) pagal kelis vykdomuosius dokumentus – trisdešimt procentų.
 
 
 
 
 
 
-2. Iš darbo užmokesčio ir jam prilygintų išmokų bei davinių dalies, viršijančios Vyriausybės nustatytą MMA dydį, išskaitoma septyniasdešimt procentų, jeigu ko kita nenustato įstatymai ar teismas.
+2. Iš darbo užmokesčio ir jam prilygintų išmokų bei davinių dalies, viršijančios Vyriausybės nustatytą MMA dydį, išskaitoma penkiasdešimt procentų, jeigu ko kita nenustato įstatymai ar teismas.
 
 
 
 
 3. Jeigu skolininkas išlaiko nedarbingus šeimos narius, esant jo rašytiniam prašymui, antstolio patvarkymu šio straipsnio 2 dalyje nurodyta išskaitoma dalis gali būti mažinama po dešimt procentų kiekvienam išlaikytiniui, tačiau taip mažinant negali būti sumažinta įstatymų ar teismo nustatyta dalis. Mažinant išskaitų dydį, neatsižvelgiama į išlaikytinius, kuriems išlaikyti iš skolininko darbo užmokesčio daromos išskaitos.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
  
-
-
 
 
 
