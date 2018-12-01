@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0808D5C392B2"
 
 # Lietuvos Respublikos įmonių bankroto įstatymas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-11-30
+Įstatymas netenka galios 2020-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2221, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10324
+Lietuvos Respublikos juridinių asmenų nemokumo įstatymas
+ 
+Suvestinė redakcija nuo 2018-12-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 31-1010; Žin. 2001, Nr.37-0; Žin. 2001, Nr.52-0, i. k. 1011010ISTA00IX-216
  
@@ -416,7 +421,14 @@ Nr. XII-805, 2014-03-27, paskelbta TAR 2014-04-11, i. k. 2014-04326
 
 4. Teismas, šio straipsnio 2 dalyje nustatyta tvarka parinkęs administratoriaus kandidatūrą, tą pačią dieną priima nutartį dėl administratoriaus paskyrimo. Teismo nutartis paskirti administratorių neskundžiama ir neprivalo būti motyvuota. Teismas motyvuota nutartimi atsisako paskirti programa atrinktą asmenį, jeigu paaiškėja, kad sutikime-deklaracijoje administruoti įmonę buvo pateikti neteisingi duomenys ir (ar) teismas nustato, kad programa atrinktas asmuo yra bankroto bylą nagrinėjančio teisėjo sutuoktinis ar giminystės, svainystės ar partnerystės ryšiais su bankroto bylą nagrinėjančiu teisėju susijęs asmuo ir dėl to asmuo negali būti paskirtas įmonės, kuriai iškelta bankroto byla, administratoriumi. Teismo nutartis neskirti atrinkto asmens administratoriumi gali būti skundžiama atskiruoju skundu. Priėmęs nutartį neskirti parinkto asmens administratoriumi, teismas nedelsdamas apie tai praneša šio straipsnio 12 dalyje nurodytai Vyriausybės įgaliotai institucijai, o ši ne vėliau kaip kitą darbo dieną savo interneto svetainėje paskelbia informaciją apie tai, kad motyvuota teismo nutartimi programa atrinktas asmuo įmonės administratoriumi nepaskirtas, ir šio straipsnio 2 dalyje nustatyta tvarka parenka kitą administratoriaus kandidatūrą.
 
-5. Administratorius: 
+41. Administratorius juridinis asmuo administruoja įmonę paskyręs darbuotoją (arba vadovą, kai jis nėra darbuotojas), turintį teisę teikti įmonių bankroto administravimo paslaugas, bankroto procedūroms vykdyti (toliau – darbuotojas, atsakingas už juridinio asmens bankroto administravimą). 
+Papildyta straipsnio dalimi:
+Nr. XIII-1593, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18207
+ 
+
+5. Administratorius ir (ar) darbuotojas, atsakingas už juridinio asmens bankroto administravimą:  
+Straipsnio dalies pakeitimai:
+Nr. XIII-1593, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18207
 
 1) teisės aktų nustatyta tvarka juridinių asmenų registrui pateikia duomenų ir dokumentų apie bankrutuojančią įmonę pakeitimus; 
 
@@ -726,7 +738,12 @@ Nr. XII-805, 2014-03-27, paskelbta TAR 2014-04-11, i. k. 2014-04326
 
 6) paaiškėja, kad siekdamas būti įrašytas į Sąrašą juridinis asmuo pateikė neteisingus duomenis ir (ar) nuslėpė faktus, dėl kurių jis negalėjo būti įrašytas į Sąrašą;
 
-7) paaiškėja, kad po sprendimo įrašyti jį į Sąrašą priėmimo juridinis asmuo, įgijęs teisę teikti įmonių bankroto administravimo paslaugas šio įstatymo nustatyta tvarka, nebeatitinka šio įstatymo 112 straipsnio 4 dalyje nustatytų reikalavimų arba juridinis asmuo, teikiantis įmonių bankroto administravimo paslaugas laikinai, neatitinka šio įstatymo 118 straipsnio 4 dalies 2 punkte nustatytų reikalavimų.
+7) paaiškėja, kad po sprendimo įrašyti jį į Sąrašą priėmimo juridinis asmuo, įgijęs teisę teikti įmonių bankroto administravimo paslaugas šio įstatymo nustatyta tvarka, nebeatitinka šio įstatymo 112 straipsnio 4 dalyje nustatytų reikalavimų arba juridinis asmuo, teikiantis įmonių bankroto administravimo paslaugas laikinai, neatitinka šio įstatymo 118 straipsnio 4 dalies 2 punkte nustatytų reikalavimų;
+
+8) juridinis asmuo turi dvi galiojančias nuobaudas ir Komisija šio įstatymo 117 straipsnio 2 dalyje nustatyta tvarka pritaria 11 straipsnio 12 dalyje nurodytos Vyriausybės įgaliotos institucijos siūlymui išbraukti jį iš Sąrašo. 
+Papildyta straipsnio punktu:
+Nr. XIII-1593, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18207
+ 
 
 7. Juridinis asmuo išbraukiamas iš Sąrašo šio straipsnio 6 dalies 6 ir 7 punktuose nurodytais atvejais, jeigu juridinis asmuo per 10 darbo dienų nuo šio įstatymo 11 straipsnio 12 dalyje nurodytos Vyriausybės įgaliotos institucijos įspėjimo raštu dėl galimo jo išbraukimo iš Sąrašo gavimo dienos nepateikia naujos informacijos ir (ar) dokumentų, įrodančių, kad nebuvo arba išnyko šio straipsnio 6 dalies 6 ir (ar) 7 punktuose nurodytos aplinkybės, dėl kurių jis turėtų būti išbraukiamas iš Sąrašo. Laikoma, kad įspėjimą juridinis asmuo gavo praėjus 5 darbo dienoms nuo jo išsiuntimo. 
 Straipsnio pakeitimai:
@@ -737,32 +754,47 @@ Straipsnio pakeitimai:
 Nr. XII-1229, 2014-10-14, paskelbta TAR 2014-10-29, i. k. 2014-15110
  
 
-117 straipsnis. Administratoriaus ir administratoriaus padėjėjo atsakomybė
+117 straipsnis. Administratoriaus, administratoriaus juridinio asmens vadovo, darbuotojo, atsakingo už juridinio asmens bankroto administravimą, ir administratoriaus padėjėjo atsakomybė
 
-1. Už įmonių bankrotą reglamentuojančių teisės aktų reikalavimų, teismo procesinių dokumentų (sprendimų, įsakymų, nutarčių ir nutarimų), kreditorių susirinkimo ir kreditorių komiteto nutarimų nevykdymą ar netinkamą vykdymą arba kitus pažeidimus, nustatytus tikrinant administratoriaus veiklą, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka administratoriui gali būti paskirta nuobauda. Šio įstatymo 11 straipsnio 12 dalyje nurodyta Vyriausybės įgaliota institucija skiria šias nuobaudas:
+1. Už įmonių bankrotą reglamentuojančių teisės aktų reikalavimų, teismo procesinių dokumentų (sprendimų, įsakymų, nutarčių ir nutarimų), kreditorių susirinkimo ir kreditorių komiteto nutarimų nevykdymą ar netinkamą vykdymą arba kitus pažeidimus, nustatytus tikrinant administratoriaus veiklą, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka administratoriui ir (arba) administratoriaus juridinio asmens vadovui, ir (arba) darbuotojui, atsakingam už juridinio asmens bankroto administravimą, gali būti paskirta nuobauda. Šio įstatymo 11 straipsnio 12 dalyje nurodyta Vyriausybės įgaliota institucija skiria šias nuobaudas:
 
 1) įspėjimą; 
 
 2) viešą įspėjimą, kuris ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos skelbiamas šio įstatymo 11 straipsnio 12 dalyje nurodytos Vyriausybės įgaliotos institucijos interneto svetainėje. 
 
-Straipsnio dalies pakeitimai:
-Nr. XII-1229, 2014-10-14, paskelbta TAR 2014-10-29, i. k. 2014-15110
- 
+11. Administratoriaus, administratoriaus juridinio asmens vadovo, darbuotojo, atsakingo už juridinio asmens bankroto administravimą, atsakomybę lengvinančios aplinkybės:
 
-2. Šio įstatymo 11 straipsnio 12 dalyje nurodyta Vyriausybės įgaliota institucija, nustačiusi, kad asmuo turi dvi galiojančias nuobaudas, turi kreiptis į Komisiją ir pateikti siūlymą panaikinti bankroto administratoriaus pažymėjimo galiojimą. Jeigu Komisija pritaria nurodytam siūlymui, šio įstatymo 11 straipsnio 12 dalyje nurodyta Vyriausybės įgaliota institucija priima sprendimą panaikinti bankroto administratoriaus pažymėjimo galiojimą. Komisija, vadovaudamasi teisingumo ir protingumo kriterijais, gali nepritarti šio įstatymo 11 straipsnio 12 dalyje nurodytos Vyriausybės įgaliotos institucijos siūlymui panaikinti asmens, turinčio dvi galiojančias nuobaudas, pažymėjimo galiojimą, jeigu nustato, kad pažymėjimo galiojimo panaikinimas yra neproporcingas nustatytiems teisės pažeidimams, atsižvelgiant į teisės pažeidimo pobūdį, jo mastą ir kitas reikšmingas aplinkybes.
-Straipsnio dalies pakeitimai:
-Nr. XII-1229, 2014-10-14, paskelbta TAR 2014-10-29, i. k. 2014-15110
- 
+1) administratoriaus, administratoriaus juridinio asmens vadovo, darbuotojo, atsakingo už juridinio asmens bankroto administravimą, veikloje anksčiau pažeidimų nustatyta nebuvo;
 
-3. Administratoriui paskirta nuobauda galioja vienus metus.
+2) administratorius, administratoriaus juridinio asmens vadovas, darbuotojas, atsakingas už juridinio asmens bankroto administravimą, pripažįsta pažeidimus ir dėl jų gailisi;
 
-4. Šio straipsnio 1, 2 ir 3 dalies nuostatos mutatis mutandis taikomos administratoriaus padėjėjui. 
+3) administratorius, administratoriaus juridinio asmens vadovas, darbuotojas, atsakingas už juridinio asmens bankroto administravimą, ištaiso pažeidimą ir (ar) savo noru užkerta kelią neigiamoms pažeidimo pasekmėms;
+
+4) administratorius, administratoriaus juridinio asmens vadovas, darbuotojas, atsakingas už juridinio asmens bankroto administravimą, patikrinimo metu bendradarbiauja su Vyriausybės įgaliota institucija.
+
+12. Administratoriaus, administratoriaus juridinio asmens vadovo, darbuotojo, atsakingo už juridinio asmens bankroto administravimą, atsakomybę sunkinančios aplinkybės:
+
+1) administratorius, administratoriaus juridinio asmens vadovas, darbuotojas, atsakingas už juridinio asmens bankroto administravimą, turi galiojančią nuobaudą;
+
+2) administratoriaus, administratoriaus juridinio asmens vadovo, darbuotojo, atsakingo už juridinio asmens bankroto administravimą, veikloje tokie patys ar panašūs pažeidimai jau buvo nustatyti ankstesnių patikrinimų metu; 
+
+3) administratorius, administratoriaus juridinio asmens vadovas, darbuotojas, atsakingas už juridinio asmens bankroto administravimą, patikrinimo metu nebendradarbiauja su Vyriausybės įgaliota institucija; 
+
+4) pažeidimas sukėlė (galėjo sukelti) neigiamų pasekmių asmenų turtiniams interesams.
+
+2. Šio įstatymo 11 straipsnio 12 dalyje nurodyta Vyriausybės įgaliota institucija, nustačiusi, kad administratorius fizinis ar juridinis asmuo, administratoriaus juridinio asmens vadovas ar darbuotojas, atsakingas už juridinio asmens bankroto administravimą, turi dvi galiojančias nuobaudas, turi kreiptis į Komisiją ir pateikti siūlymą panaikinti atitinkamai bankroto administratoriui fiziniam asmeniui, administratoriaus juridinio asmens vadovui ar darbuotojui, atsakingam už juridinio asmens bankroto administravimą, administratoriaus pažymėjimo galiojimą arba išbraukti juridinį asmenį iš Sąrašo. Jeigu Komisija pritaria šiam siūlymui, šio įstatymo 11 straipsnio 12 dalyje nurodyta Vyriausybės įgaliota institucija priima sprendimą panaikinti bankroto administratoriaus pažymėjimo galiojimą arba išbraukti juridinį asmenį iš Sąrašo. Komisija, vadovaudamasi teisingumo ir protingumo kriterijais, gali nepritarti šioje dalyje nurodytam šio įstatymo 11 straipsnio 12 dalyje nurodytos Vyriausybės įgaliotos institucijos siūlymui, jeigu nustato, kad teisės teikti bankroto administravimo paslaugas panaikinimas yra neproporcingas nustatytiems teisės pažeidimams, atsižvelgiant į teisės pažeidimo pobūdį, jo mastą ir kitas reikšmingas aplinkybes.
+
+3. Administratoriui, administratoriaus juridinio asmens vadovui, darbuotojui, atsakingam už juridinio asmens bankroto administravimą, paskirta nuobauda galioja vienus metus.
+
+4. Šio straipsnio 1, 11, 12, 2 ir 3 dalies nuostatos mutatis mutandis taikomos administratoriaus padėjėjui. 
 
 5. Sprendimas skirti nuobaudą gali būti skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka.
-
 Straipsnio pakeitimai:
 Nr. XII-208, 2013-03-28, Žin., 2013, Nr. 36-1725 (2013-04-06)
 Nr. XII-805, 2014-03-27, paskelbta TAR 2014-04-11, i. k. 2014-04326
+
+Straipsnio pakeitimai:
+Nr. XIII-1593, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18207
  
 
 118 straipsnis. Reikalavimai asmenims, siekiantiems teikti įmonių bankroto administravimo paslaugas laikinai
@@ -1738,4 +1770,9 @@ Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 32 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-959, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21691
 Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 11-4, 13, 19 ir 32 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1593, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18207
+Lietuvos Respublikos įmonių bankroto įstatymo Nr. IX-216 11, 11-6 ir 11-7 straipsnių pakeitimo įstatymas
 
