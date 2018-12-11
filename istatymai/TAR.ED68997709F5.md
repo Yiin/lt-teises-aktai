@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-10
+Suvestinė redakcija nuo 2018-12-11 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
+ 
+TAR pastaba. Iki įstatymo Nr. XIII-1681 įsigaliojimo (2019-01-01) įsigytų (importuotų) pramogoms ir reprezentacijai skirtų prekių ir paslaugų, kurių įsigijimo išlaidų pagal pelno (pajamų) apmokestinimą reglamentuojančius teisės aktus neleidžiama atimti iš gautų pajamų apskaičiuojant apmokestinamąjį pelną (pajamas), pirkimo (importo) PVM atskaitai nurodytuose teisės aktuose nustatytas 2 procentų pajamų kriterijus netaikomas nuo 2019 m. sausio 1 d.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 13, 15, 24, 62, 64, 78-1, 115-1 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 9-1 ir 26-1 straipsniais įstatymas
  
  
 LIETUVOS RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMAS
@@ -3540,7 +3545,10 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 
 
 
-2. Jeigu šiame straipsnyje nenustatyta kitaip, kai šio straipsnio 1 dalyje nurodytą PVM sąskaitą-faktūrą sudaro keli egzemplioriai, į PVM atskaitą pirkimo PVM suma gali būti įtraukiama tik tada, kai PVM mokėtojas turi šio dokumento pirmąjį egzempliorių, o jeigu pirmasis egzempliorius yra prarastas, – sandorio šalių arba teisės aktų nustatyta tvarka patvirtintą kopiją. 
+2. Jeigu šiame straipsnyje nenustatyta kitaip, į PVM atskaitą pirkimo PVM suma gali būti įtraukiama tik tada, kai PVM mokėtojas turi PVM sąskaitą faktūrą, o jeigu PVM sąskaita faktūra, kuri yra rašytinė, yra prarasta, – sandorio šalių arba teisės aktų nustatyta tvarka patvirtintą kopiją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+ 
 
 
 
@@ -7216,3 +7224,8 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 ir 9
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-816, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20010
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 116 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 13, 15, 24, 62, 64, 78-1, 115-1 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 9-1 ir 26-1 straipsniais įstatymas
