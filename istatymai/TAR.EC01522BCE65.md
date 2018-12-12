@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC01522BCE65"
 
 # Lietuvos Respublikos Seimo kontrolierių įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-11
+Suvestinė redakcija nuo 2018-12-12 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 110-3024, i. k. 0981010ISTAVIII-950
  
@@ -177,9 +177,12 @@ Seimo kontrolieriumi skiriamas nepriekaištingos reputacijos Lietuvos Respubliko
 7 straipsnis. Seimo kontrolierių skyrimas
 
 
-1. Seimo Pirmininko teikimu Seimas skiria 2 Seimo kontrolierius penkerių metų kadencijai.
+1. Seimo Pirmininko teikimu Seimas skiria 2 Seimo kontrolierius penkerių metų kadencijai. Tas pats asmuo Seimo kontrolieriumi gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. 
+TAR pastaba. Iki įstatymo Nr. XIII-1684 įsigaliojimo (2018-12-12) pareigas einantis Lietuvos Respublikos Seimo paskirtas Seimo kontrolierius pareigas eina tol, kol pasibaigia jo penkerių metų kadencija, ir Seimas paskiria Seimo kontrolierių kitai kadencijai.
+Jeigu iki įstatymo Nr. XIII-1684 įsigaliojimo (2018-12-12) pareigas ėjusį Seimo kontrolierių Lietuvos Respublikos Seimas paskiria naujai kadencijai, šio Seimo kontrolieriaus pirmoji kadencija pradedama skaičiuoti Seimui jį paskyrus po šio įstatymo įsigaliojimo.
 Straipsnio dalies pakeitimai:
 Nr. XI-667, 2010-01-21, Žin., 2010, Nr. 15-700 (2010-02-04), i. k. 1101010ISTA00XI-667
+Nr. XIII-1684, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20235
  
 
 
@@ -1193,3 +1196,8 @@ Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 20 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-858, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20342
 Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 3, 19, 19-1 straipsnių pakeitimo ir Įstatymo papildymo 19-2 straipsniu įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1684, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20235
+Lietuvos Respublikos Seimo kontrolierių įstatymo Nr. VIII-950 7 straipsnio pakeitimo įstatymas
