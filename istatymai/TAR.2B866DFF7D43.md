@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-12-11
+Suvestinė redakcija nuo 2018-12-12 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -6417,6 +6417,14 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 5. Už šio straipsnio 1 ir 4 dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.
 
 
+
+
+6. Už šio straipsnio 1, 2, 3 dalyse numatytas veikas atsako ir juridinis asmuo. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
@@ -6483,6 +6491,14 @@ baudžiamas laisvės atėmimu iki septynerių metų.
 baudžiamas laisvės atėmimu nuo dvejų iki dešimties metų.
 
 
+
+
+4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-1706, 2003-07-04, Žin., 2003, Nr. 74-3423 (2003-07-25)
 Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
@@ -6508,6 +6524,14 @@ baudžiamas laisvės atėmimu iki aštuonerių metų.
 
 3. Tas, kas prievartavo didelės vertės turtą arba didelės mokslinės, istorinės ar kultūrinės reikšmės turinčias vertybes arba prievartavo turtą dalyvaudamas organizuotoje grupėje,
 baudžiamas laisvės atėmimu nuo trejų iki dešimties metų..
+
+
+
+
+4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
+ 
 
 
 Straipsnio pakeitimai:
@@ -6986,8 +7010,11 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
 
 
 
-3. Tas, kas padarė šiame straipsnyje numatytą veiką padarydamas nedidelės žalos, padarė baudžiamąjį nusižengimą ir 
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
+3. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką padarydamas nedidelės žalos, padarė baudžiamąjį nusižengimą ir 
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
+ 
 
 
 
@@ -7020,8 +7047,11 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
 
 
 
-3. Tas, kas padarė šiame straipsnyje numatytą veiką padarydamas nedidelės žalos, padarė baudžiamąjį nusižengimą ir 
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
+3. Tas, kas padarė šio straipsnio 1 dalyje numatytą veiką padarydamas nedidelės žalos, padarė baudžiamąjį nusižengimą ir 
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
+ 
 
 
 
@@ -8571,8 +8601,11 @@ baudžiamas laisvės atėmimu iki aštuonerių metų.
 
 
 
-2. Tas, kas teroristiniais tikslais sukėlė potvynį arba sutrikdė vandens, energijos ar kitų išteklių tiekimą, arba sprogdino, padegė arba kitaip dideliu mastu naikino ar gadino turtą, arba pažeidė didelę reikšmę valstybės valdymui, ūkiui ar finansų sistemai turinčios informacinės sistemos ar elektroninių duomenų saugumą, arba paskleidė radioaktyviąsias, biologines ar chemines kenksmingas medžiagas, preparatus ar mikroorganizmus, jeigu dėl to atsirado ar galėjo atsirasti sunkių padarinių, taip pat tas, kas teroristiniais tikslais nesunkiai sutrikdė sveikatą vienam ar daugiau žmonių arba sukėlė pavojų daugelio žmonių gyvybei ar sveikatai,
+2. Tas, kas teroristiniais tikslais sukėlė potvynį arba sutrikdė vandens, energijos ar kitų gamtos išteklių tiekimą, arba sprogdino, padegė arba kitaip dideliu mastu naikino ar gadino turtą, arba paveikė informacinę sistemą ar elektroninius duomenis, arba paskleidė radioaktyviąsias, biologines ar chemines kenksmingas medžiagas, preparatus ar mikroorganizmus, jeigu dėl to atsirado ar galėjo atsirasti sunkių padarinių, taip pat tas, kas teroristiniais tikslais nesunkiai sutrikdė sveikatą vienam ar daugiau žmonių arba sukėlė pavojų daugelio žmonių gyvybei ar sveikatai, arba paveikė didelę reikšmę valstybės valdymui, ūkiui ar finansų sistemai turinčią informacinę sistemą ar jos elektroninius duomenis,
 baudžiamas laisvės atėmimu iki dešimties metų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
+ 
 
 
 
@@ -8649,8 +8682,11 @@ Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)
 2503 straipsnis. Grasinimas padaryti teroristinį nusikaltimą
 
 
-1. Tas, kas grasino padaryti teroristinį nusikaltimą, jeigu buvo pakankamas pagrindas manyti, kad grasinimas gali būti įvykdytas,
-baudžiamas laisvės atėmimu iki penkerių metų.
+1. Tas, kas grasino padaryti šio Kodekso 250, 251 ar 252 straipsnyje nurodytą teroristinį nusikaltimą, jeigu buvo pakankamas pagrindas manyti, kad grasinimas gali būti įvykdytas,
+baudžiamas laisvės atėmimu iki penkerių metų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
+ 
 
 
 
@@ -8838,14 +8874,18 @@ Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 2521 straipsnis. Sąvokų išaiškinimas 
 
 
-1. Teroristiniai nusikaltimai yra šio Kodekso 250 straipsnyje nurodytas nusikaltimas ir teroristiniais tikslais padaryti šio Kodekso 251 ir 252 straipsniuose nurodyti nusikaltimai.
+1. Teroristiniai nusikaltimai yra šio Kodekso 250 straipsnyje nurodytas nusikaltimas ir teroristiniais tikslais padaryti šio Kodekso 2503, 251 ir 252 straipsniuose nurodyti nusikaltimai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
+ 
 
 
 
 
-2. Su teroristine veikla susiję nusikaltimai yra šio Kodekso 2491, 2501, 2502, 2503, 2504, 2505 ir 2506 straipsniuose nurodyti nusikaltimai, taip pat šio Kodekso 178, 180, 181 ir 300 straipsniuose nurodyti nusikaltimai, jeigu jais siekiama gauti lėšų, įrankių ar priemonių teroristiniams nusikaltimams daryti ar remti grupės, kurios tikslas – daryti teroristinius nusikaltimus, veiklą. 
+2. Su teroristine veikla susiję nusikaltimai yra šio Kodekso 2491, 2501, 2502, 2504, 2505 ir 2506 straipsniuose nurodyti nusikaltimai, taip pat šio Kodekso 178, 180, 181 ir 300 straipsniuose nurodyti nusikaltimai, jeigu jais siekiama gauti lėšų, įrankių ar priemonių teroristiniams nusikaltimams daryti ar remti grupės, kurios tikslas – daryti teroristinius nusikaltimus, veiklą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-342, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08023
+Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
  
 
 
@@ -11113,7 +11153,10 @@ priedas
 
 
 
-6. 2002 m. birželio 13 d. Tarybos pagrindų sprendimas 2002/475/TVR dėl kovos su terorizmu (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 18).
+6. Neteko galios nuo 2018-12-12
+Punkto naikinimas:
+Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
+ 
 
 
 
@@ -11222,7 +11265,9 @@ Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
 
 
 
-23. 2008 m. lapkričio 28 d. Tarybos pamatinis sprendimas 2008/919/TVR, iš dalies keičiantis Pamatinį sprendimą 2002/475/TVR dėl kovos su terorizmu (OL 2008 L 330, p. 21).
+23. Neteko galios nuo 2018-12-12
+Punkto naikinimas:
+Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
 Punkto numeracijos pakeitimas:
 Nr. XII-1324, 2014-11-13, paskelbta TAR 2014-11-21, i. k. 2014-17302
 Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
@@ -11319,6 +11364,14 @@ Papildyta punktu:
 Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
 Punkto pakeitimai:
 Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876
+ 
+
+
+
+
+34. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/541 dėl kovos su terorizmu, pakeičianti Tarybos pamatinį sprendimą 2002/475/TVR ir iš dalies keičianti Tarybos sprendimą 2005/671/TVR (OL 2017 L 88, p. 6). 
+Papildyta punktu:
+Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
  
 
 
@@ -11752,3 +11805,8 @@ Lietuvos Respublikos baudžiamojo kodekso 172 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-960, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21692
 Lietuvos Respublikos baudžiamojo kodekso 48 straipsnio pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
+Lietuvos Respublikos baudžiamojo kodekso 178, 180, 181, 196, 197, 250, 250-3, 252-1 straipsnių ir priedo pakeitimo įstatymas
