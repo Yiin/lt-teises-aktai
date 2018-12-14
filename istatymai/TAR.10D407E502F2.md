@@ -21,7 +21,7 @@ LIETUVOS RESPUBLIKOS CIVILINIO PROCESO KODEKSO PAKEITIMO IR PAPILDYMO
 
 
 
-Suvestinė redakcija nuo 2012-12-29 iki 2018-12-13
+Suvestinė redakcija nuo 2018-12-14
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 85-4126, i. k. 1111010ISTA0XI-1480
  
@@ -1842,6 +1842,9 @@ Išlaidų, susijusių su procesinių dokumentų įteikimu, dydį bei apmokėjimo
 
 
 „6. Bylinėjimosi išlaidos, susidariusios dėl teismo kreipimosi į Konstitucinį Teismą ar kompetentingą Europos Sąjungos teisminę instituciją, taip pat dėl kreipimosi į administracinį teismą dėl norminio teisės akto teisėtumo, proceso dalyviams nepaskirstomos.“
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos civilinio proceso kodekso 93 straipsnio 6 dalis (2011 m. birželio 21 d. redakcija; Žin., 2011, Nr. 85-4126) prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, 109 straipsnio 1 daliai, konstituciniams teisinės valstybės, teisingumo principams.
+Straipsnio dalies pakeitimai:
+Nr. KT22-N12/2018, 2018-12-14, paskelbta TAR 2018-12-14, i. k. 2018-20548
  
 
 
@@ -13913,3 +13916,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-72, 2012-12-20, Žin., 2012, Nr. 153-7824 (2012-12-29), i. k. 1121010ISTA00XII-72
 Lietuvos Respublikos civilinio proceso kodekso pakeitimo ir papildymo įstatymo 117 ir 387 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT22-N12/2018, 2018-12-14, paskelbta TAR 2018-12-14, i. k. 2018-20548
+Dėl Lietuvos Respublikos civilinio proceso kodekso 93 straipsnio 6 dalies atitikties Lietuvos Respublikos Konstitucijai
