@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2018-11-01 iki 2018-12-14
+Suvestinė redakcija nuo 2018-12-15 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
  
@@ -469,6 +469,14 @@ Nr. XIII-921, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21593
 
 
 
+551. Sparčiojo plačiajuosčio ryšio paslauga – ne mažesnės kaip 30 Mb/s duomenų perdavimo spartos elektroninių ryšių, naudojant plačiajuostį tinklą, paslauga. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
+ 
+
+
+
+
 56. Specialiosios teisės – valstybės ribotam skaičiui ūkio subjektų suteiktos teisės, kai atitinkamoje geografinėje teritorijoje:
 
 
@@ -793,7 +801,11 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 7 straipsnis. Ryšių reguliavimo tarnybos valdymas
 
 
-1. Ryšių reguliavimo tarnybai vadovauja direktorius. Ryšių reguliavimo tarnybos direktorių 5 metams skiria Respublikos Prezidentas Ministro Pirmininko teikimu.
+1. Ryšių reguliavimo tarnybai vadovauja direktorius. Ryšių reguliavimo tarnybos direktorių 5 metams skiria Respublikos Prezidentas Ministro Pirmininko teikimu. Ryšių reguliavimo tarnybos direktorius turi turėti ne mažesnę kaip 3 metų vadovaujamojo darbo bent viename iš Ryšių reguliavimo tarnybos reguliuojamų sektorių patirtį (įskaitant darbo patirtį užsienio valstybėse). 
+TAR pastaba. 7 straipsnio 1 dalies nuostatos taikomos po šio įstatymo įsigaliojimo dienos skiriamiems Ryšių reguliavimo tarnybos tarybos nariams ir Ryšių reguliavimo tarnybos direktoriui.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
+ 
 
 
 
@@ -803,7 +815,19 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 
 
-3. Ryšių reguliavimo tarnybos taryba (toliau – Taryba) yra kolegialus Ryšių reguliavimo tarnybos organas. Tarybą sudaro septyni nariai, jos pirmininkas yra Ryšių reguliavimo tarnybos direktorius. Tarybą 5 metams skiria Respublikos Prezidentas Ministro Pirmininko teikimu. Tarybos nariai išsirenka Tarybos pirmininko pavaduotoją. Tarybos narių darbas yra neapmokamas. Tarybos darbo tvarką, posėdžių organizavimo, nutarimų priėmimo tvarką nustato Tarybos tvirtinamas Tarybos darbo reglamentas. Tarybą techniškai aprūpina Ryšių reguliavimo tarnyba iš savo lėšų.
+3. Ryšių reguliavimo tarnybos taryba (toliau – Taryba) yra kolegialus Ryšių reguliavimo tarnybos organas. Tarybą sudaro septyni nariai, jos pirmininkas yra Ryšių reguliavimo tarnybos direktorius. Tarybą 5 metams skiria Respublikos Prezidentas Ministro Pirmininko teikimu. Tarybos nariais gali būti tik nepriekaištingos reputacijos, kaip ji apibrėžta Valstybės tarnybos įstatyme, Lietuvos Respublikos piliečiai, turintys aukštąjį universitetinį ar jam prilygintą išsilavinimą ir ne mažesnę kaip vienų metų darbo Ryšių reguliavimo tarnybos reguliuojamuose sektoriuose patirtį (įskaitant darbo patirtį užsienio valstybėse). Tarybos nariu negali būti skiriamas asmuo, kuris eina pareigas Ryšių reguliavimo tarnybos reguliuojamų sektorių įmonių valdymo organuose arba gali turėti tiesioginių ar netiesioginių interesų reguliuojant reguliuojamų sektorių įmonių veiklą, taip pat asmuo, kuris yra tarnybos ar darbo santykiais susijęs su Ryšių reguliavimo tarnybos reguliuojamų sektorių politiką formuojančiomis valstybės institucijomis arba joms pavaldžiomis institucijomis, įstaigomis, organizacijomis, arba jų reguliavimo sričiai priskirtomis valstybės įmonėmis, akcinėmis bendrovėmis ir uždarosiomis akcinėmis bendrovėmis, kuriose valstybei nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime. Tarybos nariai išsirenka Tarybos pirmininko pavaduotoją. Tarybos narių darbas yra nemokamas. Tarybos darbo tvarką, posėdžių organizavimo, nutarimų priėmimo tvarką nustato Tarybos tvirtinamas Tarybos darbo reglamentas. Tarybą techniškai aprūpina Ryšių reguliavimo tarnyba iš savo lėšų. 
+TAR pastaba. 7 straipsnio 3 dalies nuostatos taikomos po šio įstatymo įsigaliojimo dienos skiriamiems Ryšių reguliavimo tarnybos tarybos nariams ir Ryšių reguliavimo tarnybos direktoriui
+Straipsnio dalies pakeitimai:
+Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
+ 
+
+
+
+
+31. Atlikdami savo funkcijas, Tarybos nariai privalo nesiekti gauti nurodymų ar jų nepriimti iš jokio fizinio asmens, juridinio asmens ar jo organo, nepiktnaudžiauti tarnyba, vengti viešųjų ir privačių interesų konflikto, neatstovauti Lietuvos Respublikos ir užsienio valstybių ūkio subjektų interesams. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
+ 
 
 
 
@@ -1013,7 +1037,18 @@ Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 
 
-10. Ryšių reguliavimo tarnybos administracijos darbo tvarką nustato Ryšių reguliavimo tarnybos direktoriaus tvirtinamas Ryšių reguliavimo tarnybos vidaus darbo reglamentas.
+10. Pasibaigus Ryšių reguliavimo tarnybos direktoriaus ir (ar) Tarybos nario įgaliojimų terminui, šias pareigas einantys asmenys jų sutikimu savo pareigas eina tol, kol naujai kadencijai paskiriamas Ryšių reguliavimo tarnybos direktorius ir (ar) Tarybos narys, bet ne ilgiau kaip vienus metus nuo įgaliojimų termino pabaigos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
+ 
+
+
+
+
+11. Ryšių reguliavimo tarnybos administracijos darbo tvarką nustato Ryšių reguliavimo tarnybos direktoriaus tvirtinamas Ryšių reguliavimo tarnybos vidaus darbo reglamentas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
+ 
 
 
 Straipsnio pakeitimai:
@@ -1156,7 +1191,18 @@ Nr. XIII-921, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21593
 
 
 
-11) šio Įstatymo ir kitų teisės aktų pagrindu priima teisės aktus, atlieka kitas šio ir kitų įstatymų, Ryšių reguliavimo tarnybos nuostatų ir kitų teisės aktų nustatytas funkcijas.
+11) vertina valstybės plėtojamų viešųjų didmeninių sparčiojo plačiajuosčio ryšio paslaugų, teikiamų vietovėse, kuriose kitos sparčiojo plačiajuosčio ryšio infrastruktūros nėra ar nėra konkurencijos teikiant šias paslaugas, tarifus, teikia išvadas dėl jų atitikties teisės aktų reikalavimams, vadovaudamasi Lietuvos Respublikos susisiekimo ministro patvirtinta Valstybės plėtojamų viešųjų didmeninių sparčiojo plačiajuosčio ryšio paslaugų, teikiamų vietovėse, kuriose kitos sparčiojo plačiajuosčio ryšio infrastruktūros nėra ar nėra konkurencijos teikiant šias paslaugas, tarifų apskaičiavimo metodika, suderinta su Ryšių reguliavimo tarnyba; 
+Papildyta straipsnio punktu:
+Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
+ 
+
+
+
+
+12) šio Įstatymo ir kitų teisės aktų pagrindu priima teisės aktus, atlieka kitas šio ir kitų įstatymų, Ryšių reguliavimo tarnybos nuostatų ir kitų teisės aktų nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
+ 
 
 
 
@@ -2906,7 +2952,10 @@ Nr. XIII-105, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29417
 
 
 
-6. Valstybė plėtoja plačiajuosčio ryšio infrastruktūrą vietovėse, kuriose jos nėra ar kuriose nėra konkurencijos teikiant plačiajuosčio ryšio paslaugas. Viešosios plačiajuosčio ryšio infrastruktūros plėtrą koordinuoja ir įgyvendina Vyriausybės įgaliota institucija.
+6. Valstybė plėtoja viešąją sparčiojo plačiajuosčio ryšio infrastruktūrą vietovėse, kuriose jos nėra ar kuriose nėra konkurencijos teikiant sparčiojo plačiajuosčio ryšio paslaugas. Viešosios sparčiojo plačiajuosčio ryšio infrastruktūros plėtrą koordinuoja ir įgyvendina Vyriausybės įgaliota institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
+ 
 
 
 
@@ -5403,30 +5452,47 @@ Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
 
 
 
-16. 2013 m. birželio 24 d. Komisijos reglamentas (ES) Nr. 611/2013 dėl priemonių, kurios pagal Europos Parlamento ir Tarybos direktyvą 2002/58/EB dėl privatumo ir elektroninių ryšių taikomos pranešimams apie asmens duomenų saugumo pažeidimus (OL 2013 L 173, p. 2).
-
-
-
-
-17. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/30/ES dėl valstybių narių įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo (nauja redakcija) (OL 2014 L 96, p. 79). 
+16. 2012 m. lapkričio 21 d. Europos Parlamento ir Tarybos direktyva 2012/34/ES, kuria sukuriama bendra Europos geležinkelių erdvė (OL 2012 L 343, p. 32). 
 Papildyta punktu:
-Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
+Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
  
 
 
 
 
-18. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/53/ES dėl valstybių narių įstatymų, susijusių su radijo įrenginių tiekimu rinkai, suderinimo, kuria panaikinama Direktyva 1999/5/EB (OL 2014 L 153, p. 62).
-Papildyta punktu:
-Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
+17. 2013 m. birželio 24 d. Komisijos reglamentas (ES) Nr. 611/2013 dėl priemonių, kurios pagal Europos Parlamento ir Tarybos direktyvą 2002/58/EB dėl privatumo ir elektroninių ryšių taikomos pranešimams apie asmens duomenų saugumo pažeidimus (OL 2013 L 173, p. 2).
+Punkto numeracijos pakeitimas:
+Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
  
 
 
 
 
-19. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/61/ES dėl priemonių sparčiojo elektroninių ryšių tinklų diegimo sąnaudoms mažinti (OL 2014 L 155, p. 1). 
+18. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/30/ES dėl valstybių narių įstatymų, susijusių su elektromagnetiniu suderinamumu, suderinimo (nauja redakcija) (OL 2014 L 96, p. 79). 
+Papildyta punktu:
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
+Punkto numeracijos pakeitimas:
+Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
+ 
+
+
+
+
+19. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/53/ES dėl valstybių narių įstatymų, susijusių su radijo įrenginių tiekimu rinkai, suderinimo, kuria panaikinama Direktyva 1999/5/EB (OL 2014 L 153, p. 62).
+Papildyta punktu:
+Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
+Punkto numeracijos pakeitimas:
+Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
+ 
+
+
+
+
+20. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/61/ES dėl priemonių sparčiojo elektroninių ryšių tinklų diegimo sąnaudoms mažinti (OL 2014 L 155, p. 1). 
 Papildyta punktu:
 Nr. XIII-105, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29417
+Punkto numeracijos pakeitimas:
+Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
  
 
 
@@ -5559,3 +5625,8 @@ Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 8, 9, 42-1 i
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1300, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10961
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 5, 34, 66, 68, 77, 78 straipsnių ir 1 priedo pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 7, 9, 37 straipsnių ir 2 priedo pakeitimo įstatymas
