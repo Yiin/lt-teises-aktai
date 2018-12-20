@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/065574b0eb0f11e7acd7ea182930b17f"
 
 # Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais įstatymo Nr. XII-2538 2, 3 ir 5 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2018-12-20
+ 
+Įstatymas paskelbtas: TAR 2017-12-27, i. k. 2017-21326
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO NR. I-1367 2, 45 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 152, 153 STRAIPSNIAIS ĮSTATYMO NR. XII-2538 2, 3 IR 5 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -239,7 +246,6 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 Papildyti Įstatymą 153 straipsniu:
 
 
- 
 
 
 „153 straipsnis. Maksimalūs asmens sveikatos priežiūros paslaugų teikimo terminai
@@ -290,17 +296,17 @@ Papildyti Įstatymą 153 straipsniu:
 
 
 
-5. Jeigu kreipimosi į asmens sveikatos priežiūros paslaugas teikiančią LNSS įstaigą momentu apdraustasis pacientas pageidauja iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamas asmens sveikatos priežiūros paslaugas gauti vėliau negu per šio straipsnio 2 dalies 1–5 punktuose nurodytą terminą, sveikatos apsaugos ministro nustatyta tvarka turi būti gautas paciento sutikimas ir padaromas papildomas įrašas registracijos sistemoje.
+5. Jeigu kreipimosi į asmens sveikatos priežiūros paslaugas teikiančią LNSS įstaigą momentu apdraustasis pacientas pageidauja iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamas asmens sveikatos priežiūros paslaugas gauti vėliau, negu per šio straipsnio 2 dalies 1–5 punktuose nurodytą terminą, sveikatos apsaugos ministro nustatyta tvarka turi būti gautas paciento sutikimas ir padaromas papildomas įrašas registracijos sistemoje.
 
 
 
 
-6. Jeigu asmens sveikatos priežiūros paslaugas teikianti LNSS įstaiga apdraustojo paciento kreipimosi į ją momentu dėl objektyvių priežasčių negali suteikti asmens sveikatos priežiūros paslaugos per šio straipsnio 2 dalies 1–5 punktuose nurodytą terminą, ji privalo užtikrinti, kad būtų atlikta apdraustojo paciento išankstinė registracija asmens sveikatos priežiūrai gauti kitoje asmens sveikatos priežiūros paslaugas teikiančioje LNSS įstaigoje, kurioje asmens sveikatos priežiūros paslauga būtų suteikta per šio straipsnio 2 dalies 1–5 punktuose nurodytą terminą. Kriterijų, kuriems esant laikoma, kad asmens sveikatos priežiūros paslaugos negali būti objektyviai suteiktos per šios straipsnio 2 dalies 1–5 punktuose nurodytą terminą, sąrašą tvirtina sveikatos apsaugos ministras. Prieš darant įrašą registracijos sistemoje, sveikatos apsaugos ministro nustatyta tvarka turi būti gaunamas paciento sutikimas gauti norimą asmens sveikatos priežiūros paslaugą pasiūlytoje asmens sveikatos priežiūros paslaugas teikiančioje LNSS įstaigoje.
+6. Jeigu asmens sveikatos priežiūros paslaugas teikianti LNSS įstaiga apdraustojo paciento kreipimosi į ją momentu dėl objektyvių priežasčių negali suteikti asmens sveikatos priežiūros paslaugos per šio straipsnio 2 dalies 1–5 punktuose nurodytą terminą, ji privalo užtikrinti, kad būtų atlikta apdraustojo paciento išankstinė registracija asmens sveikatos priežiūrai gauti kitoje asmens sveikatos priežiūros paslaugas teikiančioje LNSS įstaigoje, kurioje asmens sveikatos priežiūros paslauga būtų suteikta per šio straipsnio 2 dalies 1–5 punktuose nurodytą terminą. Kriterijų, kuriems esant laikoma, kad asmens sveikatos priežiūros paslaugos negali būti objektyviai suteiktos per šio straipsnio 2 dalies 1–5 punktuose nurodytą terminą, sąrašą tvirtina sveikatos apsaugos ministras. Prieš darant įrašą registracijos sistemoje, sveikatos apsaugos ministro nustatyta tvarka turi būti gaunamas paciento sutikimas gauti norimą asmens sveikatos priežiūros paslaugą pasiūlytoje asmens sveikatos priežiūros paslaugas teikiančioje LNSS įstaigoje.
 
 
 
 
-7. Jeigu šio straipsnio 5 dalyje nurodytu atveju nėra gaunamas šio straipsnio 5 dalyje nurodytas paciento sutikimas asmens sveikatos priežiūros paslaugą gauti vėliau negu per šio straipsnio 2 dalies 1–5 punktuose nurodytą terminą ir LNSS įstaigai šio straipsnio 6 dalyje numatytu atveju pasiūlius pacientą įregistruoti kitoje asmens sveikatos priežiūros paslaugas teikiančioje LNSS įstaigoje, kurioje asmens sveikatos priežiūros paslauga būtų suteikta per šio straipsnio 2 dalies 1–5 punktuose nurodytą terminą, nėra gaunamas šio straipsnio 6 dalyje nurodytas paciento sutikimas tokią paslaugą gauti, paciento registracijos procesas užbaigiamas registracijos sistemoje įrašant, kad pacientas atsisako pasinaudoti teise gauti iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamą asmens sveikatos priežiūros paslaugą. Tokiu atveju šio straipsnio 2 dalies 1–5 punktuose nurodyti terminai pradedami skaičiuoti nuo paciento pakartotinio kreipimosi į asmens sveikatos priežiūros įstaigą momento.
+7. Jeigu šio straipsnio 5 dalyje nurodytu atveju nėra gaunamas šio straipsnio 5 dalyje nurodytas paciento sutikimas asmens sveikatos priežiūros paslaugą gauti vėliau, negu per šio straipsnio 2 dalies 1–5 punktuose nurodytą terminą, ir LNSS įstaigai šio straipsnio 6 dalyje numatytu atveju pasiūlius pacientą įregistruoti kitoje asmens sveikatos priežiūros paslaugas teikiančioje LNSS įstaigoje, kurioje asmens sveikatos priežiūros paslauga būtų suteikta per šio straipsnio 2 dalies 1–5 punktuose nurodytą terminą, nėra gaunamas šio straipsnio 6 dalyje nurodytas paciento sutikimas tokią paslaugą gauti, paciento registracijos procesas užbaigiamas registracijos sistemoje įrašant, kad pacientas atsisako pasinaudoti teise gauti iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamą asmens sveikatos priežiūros paslaugą. Tokiu atveju šio straipsnio 2 dalies 1–5 punktuose nurodyti terminai pradedami skaičiuoti nuo paciento pakartotinio kreipimosi į asmens sveikatos priežiūros įstaigą momento.
 
 
 
@@ -310,42 +316,24 @@ Papildyti Įstatymą 153 straipsniu:
 
 
 
-9. Tais atvejais, kai šiame straipsnyje nustatyta tvarka užregistruotas pacientas paskirtu laiku neatvyksta gauti asmens sveikatos priežiūros paslaugos, šio straipsnio 2 dalies 1–5 punktuose nurodyti terminai pradedami skaičiuoti iš naujo nuo paciento pakartotinio kreipimosi į asmens sveikatos priežiūros paslaugas teikiančią LNSS įstaigą momento.
+9. Tais atvejais, kai šiame straipsnyje nustatyta tvarka užregistruotas pacientas paskirtu laiku neatvyksta gauti asmens sveikatos priežiūros paslaugos, šio straipsnio 2 dalies  1–5 punktuose nurodyti terminai pradedami skaičiuoti iš naujo nuo paciento pakartotinio kreipimosi į asmens sveikatos priežiūros paslaugas teikiančią LNSS įstaigą momento.“
 
 
 
 
-10. Teritorinė ligonių kasa, nustačiusi, kad apdraustajam pacientui sveikatos priežiūros paslauga buvo suteikta praleidus šio straipsnio 2 dalies 1–5 punktuose nurodytą terminą kitais, negu šio straipsnio 5 ir 6 dalyse nurodytais, atvejais, už šios asmens sveikatos priežiūros paslaugos suteikimą apmoka tokia tvarka:
-
-
-1) jeigu LNSS įstaiga asmens sveikatos priežiūros paslaugą suteikia praleidusi šio straipsnio 2 dalyje nurodytą terminą ne daugiau kaip 10 dienų, šios asmens sveikatos priežiūros paslaugos suteikimo išlaidų apmokėjimas iš Privalomojo sveikatos draudimo fondo biudžeto lėšų mažinamas 20 procentų;
 
 
 
 
-2) jeigu LNSS įstaiga asmens sveikatos priežiūros paslaugą suteikia praleidusi šio straipsnio 2 dalyje nurodytą terminą nuo 11 iki 20 dienų, šios asmens sveikatos priežiūros paslaugos suteikimo išlaidų apmokėjimas iš Privalomojo sveikatos draudimo fondo biudžeto lėšų mažinamas 30 procentų;
 
 
 
 
-3) jeigu LNSS įstaiga asmens sveikatos priežiūros paslaugą suteikia praleidusi šio straipsnio 2 dalyje nurodytą terminą 21 ir daugiau dienų, šios asmens sveikatos priežiūros paslaugos suteikimo išlaidų apmokėjimas iš Privalomojo sveikatos draudimo fondo biudžeto lėšų mažinamas 50 procentų.“
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1763, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20876
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -390,3 +378,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1763, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20876
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais įstatymo Nr. XII-2538 2, 3 ir 5 straipsnių pakeitimo įstatymo Nr. XIII-903 2 straipsnio pakeitimo įstatymas
