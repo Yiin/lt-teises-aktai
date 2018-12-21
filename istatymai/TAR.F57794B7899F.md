@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2018-11-01 iki 2018-12-20
+Suvestinė redakcija nuo 2018-12-21 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -1542,6 +1542,10 @@ Nr. XIII-614, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12337
 
 
 1) vieną kartą ne ilgesniam kaip 12 mėnesių, o plėtojant elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių – 6 mėnesių laikotarpiui, jeigu asmuo, kreipdamasis dėl leidimo galiojimo termino pratęsimo, pateikia įrodymus, pagrindžiančius, kad atlikti suplanuotus darbus vėluojama dėl valstybės, trečiųjų asmenų veiksmų ar nenugalimos jėgos aplinkybių;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos elektros energetikos įstatymo 16 straipsnio (2015 m. gegužės 7 d. redakcija; TAR, 2015-05-20, Nr. 07656) 6 dalies 1 punkte nustatytas teisinis reguliavimas tiek, kiek pagal jį leidimo plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių galiojimo terminas pratęsiamas vieną kartą 6 mėnesių laikotarpiui, jeigu asmuo, kreipdamasis dėl leidimo galiojimo termino pratęsimo, pateikia įrodymus, pagrindžiančius, kad atlikti suplanuotus darbus vėluojama dėl valstybės, trečiųjų asmenų veiksmų ar nenugalimos jėgos aplinkybių, neatsižvelgiant į tai, kiek trunka šios aplinkybės, prieštarauja Lietuvos Respublikos Konstitucijos 46 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+Nr. KT24-N14/2018, 2018-12-21, paskelbta TAR 2018-12-21, i. k. 2018-21226
+ 
 
 
 
@@ -5847,3 +5851,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 67 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 12, 15, 23, 38, 39, 39-1, 40, 41, 43, 44, 46, 51, 58, 61, 67, 68, 69, 74, 75, 75-2 straipsnių pakeitimo ir Įstatymo papildymo 74-1 straipsniu įstatymas
+ 
+26.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT24-N14/2018, 2018-12-21, paskelbta TAR 2018-12-21, i. k. 2018-21226
+Dėl Lietuvos Respublikos elektros energetikos įstatymo 16 straipsnio 6 dalies 1 punkto, 7 dalies, 24 dalies 2 punkto atitikties Lietuvos Respublikos Konstitucijai
