@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-12-20
+Suvestinė redakcija nuo 2018-12-21 iki 2018-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -3319,7 +3319,9 @@ Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 
 
 
-12) tvirtinti ikimokyklinio ugdymo programų kriterijus, Priešmokyklinio ugdymo bendrąją programą, formaliojo švietimo bendrąjį ugdymo, mokymo turinį (pradinio, pagrindinio, vidurinio ugdymo programų aprašus, bendrąsias programas, ugdymo, mokymo planus), kurį tvirtina švietimo ir mokslo ministras; Vidurinio ugdymo programų akreditacijos kriterijus ir jos vykdymo tvarkos aprašą; bendruosius iš valstybės ar savivaldybių biudžetų finansuojamų formalųjį švietimą papildančio švietimo (ugdymo) neformaliojo švietimo programų kriterijus, kuriuos tvirtina švietimo ir mokslo ministras;
+12) tvirtinti ikimokyklinio ugdymo programų kriterijus, Priešmokyklinio ugdymo bendrąją programą, formaliojo švietimo bendrąjį ugdymo, mokymo turinį (pradinio, pagrindinio, vidurinio ugdymo programų aprašus, bendrąsias programas, ugdymo, mokymo planus), kurį tvirtina švietimo, mokslo ir sporto ministras; Vidurinio ugdymo programų akreditacijos kriterijus ir jos vykdymo tvarkos aprašą; bendruosius iš valstybės ar savivaldybių biudžetų finansuojamų formalųjį švietimą papildančio švietimo (ugdymo) neformaliojo švietimo programų kriterijus, kuriuos tvirtina švietimo, mokslo ir sporto ministras; kas dveji metai atnaujinti ir iki einamųjų metų kovo 1 dienos tvirtinti bendruosius ugdymo planus;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1781, 2018-12-13, paskelbta TAR 2018-12-20, i. k. 2018-20999
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
@@ -4605,3 +4607,8 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 23, 58, 66 ir 67 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-955, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21668
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 26 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1781, 2018-12-13, paskelbta TAR 2018-12-20, i. k. 2018-20999
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 56 straipsnio pakeitimo įstatymas
