@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas
 
-Suvestinė redakcija nuo 2017-12-14 iki 2018-12-20
+Suvestinė redakcija nuo 2018-12-21 iki 2019-05-07
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1743, i. k. 0971010ISTAVIII-385
  
@@ -501,7 +501,10 @@ b) Seimo ir (ar) Vyriausybės sprendimų nulemtų savivaldybių išlaidų pokyč
 
 
 
-c) savivaldybių biudžetų prognozuojamų pajamų mažėjimui kompensuoti. Kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos apskaičiuojamos 90 procentų ateinančių biudžetinių metų savivaldybių prognozuojamų pajamų mažėjimui, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis savivaldybių prognozuojamomis pajamomis, kompensuoti. Tokios kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos neskaičiuojamos, kai iš esmės pablogėja valstybės ekonominė ir finansinė būklė (ekonomikos sunkmečiu). Tokiu atveju kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos apskaičiuojamos ateinančių biudžetinių metų savivaldybių prognozuojamų pajamų mažėjimui, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis savivaldybių prognozuojamomis pajamomis, kompensuoti iš dalies (atsižvelgiant į valstybės biudžeto finansines galimybes). Ateinančių biudžetinių metų ir einamųjų biudžetinių metų savivaldybių prognozuojamos pajamos palyginamos neįskaitant sumų, kurios naudojamos kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti;
+c) savivaldybių biudžetų prognozuojamų pajamų mažėjimui kompensuoti. Rengiant Lietuvos Respublikos 2019 metų, 2020 metų ir 2021 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus, kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos apskaičiuojamos 100 procentų ateinančių biudžetinių metų savivaldybių prognozuojamų pajamų mažėjimui, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis savivaldybių prognozuojamomis pajamomis, kompensuoti, o rengiant Lietuvos Respublikos 2022 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus, – 90 procentų ateinančių biudžetinių metų savivaldybių prognozuojamų pajamų mažėjimui, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis savivaldybių prognozuojamomis pajamomis, kompensuoti. Tokios kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos neskaičiuojamos, kai iš esmės pablogėja valstybės ekonominė ir finansinė būklė (ekonomikos sunkmečiu). Tokiu atveju kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos apskaičiuojamos ateinančių biudžetinių metų savivaldybių prognozuojamų pajamų mažėjimui, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis savivaldybių prognozuojamomis pajamomis, kompensuoti iš dalies (atsižvelgiant į valstybės biudžeto finansines galimybes). Ateinančių biudžetinių metų ir einamųjų biudžetinių metų savivaldybių prognozuojamos pajamos palyginamos neįskaitant sumų, kurios naudojamos kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti pagal šio punkto a ir b papunkčius;
+Papunkčio pakeitimai:
+Nr. XIII-1715, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20973
+ 
 
 
 
@@ -852,3 +855,8 @@ Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-808, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20002
 Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 5, 10 straipsnių pakeitimo ir 12 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1715, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20973
+Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 10 straipsnio pakeitimo įstatymas
