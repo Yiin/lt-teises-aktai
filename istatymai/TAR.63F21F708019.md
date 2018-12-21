@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/63f21f70801911e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 2, 3, 6, 8, 13, 15 ir 19 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2018-12-21
+ 
+Įstatymas paskelbtas: TAR 2018-07-05, i. k. 2018-11436
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO NR. IX-1904 2, 3, 6, 8, 13, 15 IR 19 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -246,7 +253,10 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 
 
-5. Nedarbo draudimo išmokos, kurios paskirtos iki šio įstatymo įsigaliojimo ir kurių mokėjimas tęsiamas arba kurios pradedamos mokėti po šio įstatymo įsigaliojimo (nebaigus mokėti paskirtosios nedarbo draudimo išmokos, atnaujinus bedarbio statusą ar kitais nedarbo draudimo išmokos mokėjimo pratęsimo atvejais), neperskaičiuojamos pagal šiame įstatyme nustatytus naujus nedarbo draudimo išmokų dydžius ir toliau mokamos ne mažesnės, negu buvo (turėjo būti) mokamos iki šio įstatymo įsigaliojimo. 
+5. Nedarbo draudimo išmokų, kurios paskirtos iki šio įstatymo įsigaliojimo ir kurių mokėjimas tęsiamas ar jos pradedamos mokėti po šio įstatymo įsigaliojimo (nepabaigus paskirtosios nedarbo draudimo išmokos mokėjimo, atnaujinus bedarbio statusą ar kitais nedarbo draudimo išmokos mokėjimo pratęsimo atvejais), kintama nedarbo draudimo išmokos dalis neperskaičiuojama, o pastovi nedarbo draudimo išmokos dalis perskaičiuojama pagal šiuo įstatymu nustatytus naujus nedarbo draudimo išmokų dydžius.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1725, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20982
+ 
 
 
 
@@ -264,3 +274,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1725, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20982
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 2, 3, 6, 8, 13, 15 ir 19 straipsnių pakeitimo įstatymo Nr. XIII-1340 8 straipsnio pakeitimo įstatymas
