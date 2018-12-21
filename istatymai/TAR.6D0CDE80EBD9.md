@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/6d0cde80ebd911e7acd7ea182930b17f"
 
 # Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 4, 7, 15, 16, 24 straipsnių pakeitimo ir 17, 18 straipsnių pripažinimo netekusiais galios įstatymas
 
-Suvestinė redakcija nuo 2018-07-06 iki 2018-12-20
+Suvestinė redakcija nuo 2018-12-21
  
 Įstatymas paskelbtas: TAR 2017-12-28, i. k. 2017-21483
  
@@ -141,7 +141,10 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 
 
 
-5. Asmenims, kuriems paskirtos šalpos išmokos, išduodami pažymėjimai, kurių formas ir išdavimo tvarką nustato socialinės apsaugos ir darbo ministras. 
+5. Asmenims, kuriems paskirtos šalpos išmokos, išduodami pažymėjimai, kurių formas ir išdavimo tvarką nustato Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1734, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20996
+ 
 
 
 
@@ -345,7 +348,9 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 
 
-6. Lietuvos Respublikos Vyriausybė iki 2017 m. gruodžio 31 d. priima šio įstatymo 1 straipsnio, o Lietuvos Respublikos socialinės apsaugos ir darbo ministras iki 2018 m. gruodžio 31 d. – kitus šio įstatymo įgyvendinamuosius teisės aktus.
+6. Lietuvos Respublikos Vyriausybė iki 2017 m. gruodžio 31 d. priima šio įstatymo 1 straipsnio, o Lietuvos Respublikos socialinės apsaugos ir darbo ministras ir Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos iki 2018 m. gruodžio 31 d. – kitus šio įstatymo įgyvendinamuosius teisės aktus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1734, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20996
  
 
 
@@ -368,3 +373,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1349, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11451
 Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 4, 7, 15, 16, 24 straipsnių pakeitimo ir 17, 18 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-882 3 straipsnio pripažinimo netekusiu galios ir 4 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1734, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20996
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 4, 7, 15, 16, 24 straipsnių pakeitimo ir 17, 18 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-882 4 ir 8 straipsnių pakeitimo įstatymas
