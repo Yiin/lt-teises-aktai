@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ffd930b0e00d11e7b3f0a470b0373cb2"
 
 # Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 3, 8, 10, 11, 12, 13, 19, 25, 35 ir 40 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2018-12-21
+ 
+Įstatymas paskelbtas: TAR 2017-12-13, i. k. 2017-20047
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO NR. I-1336 2, 3, 8, 10, 11, 12, 13, 19, 25, 35 IR 40 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -248,14 +255,16 @@ Pakeisti 10 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 
-„5. Šio įstatymo 5 straipsnio 1 ir 2 dalyse nurodytų asmenų socialinio draudimo įmokų bazė, kurią privalo taikyti kiekvienas draudėjas, kalendoriniais metais negali būti didesnė negu praėjusių metų 28 VDU suma.“
+„5. Šio įstatymo 5 straipsnio 1 ir 2 dalyse nurodytų asmenų socialinio draudimo įmokų bazė, kurią privalo taikyti kiekvienas draudėjas, kalendoriniais metais negali būti didesnė negu praėjusių metų 43 VDU suma.“
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1721, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20975
  
-
-
-
-
-
-
 
 
 
@@ -540,3 +549,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1721, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20975
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 3, 8, 10, 11, 12, 13, 19, 25, 35 ir 40 straipsnių pakeitimo įstatymo Nr. XIII-823 5 straipsnio pakeitimo įstatymas
