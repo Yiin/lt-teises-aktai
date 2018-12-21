@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-20
+Suvestinė redakcija nuo 2018-12-21 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
  
@@ -480,7 +480,9 @@ Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
 
 
 
-38. Tikslinė teritorija – užsienio valstybė arba zona, kuri yra įtraukta į finansų ministro nustatytą Tikslinių teritorijų sąrašą ir atitinka bent du iš šioje dalyje nustatytų kriterijų:
+38. Tikslinė teritorija – užsienio valstybė arba zona, įtraukta į finansų ministro nustatytą Tikslinių teritorijų sąrašą. Į šį sąrašą užsienio valstybė arba zona įtraukiama, jeigu atitinka bent du iš šioje dalyje nustatytų kriterijų: 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
 
 
 1) šioje teritorijoje analogiško mokesčio tarifas yra mažesnis kaip 75 procentai šio Įstatymo 5 straipsnio 1 dalies 1 punkte nustatyto tarifo;
@@ -765,7 +767,7 @@ TAR pastaba. 1 dalies 2 punkto nuostatos taikomos ir žemės ūkio veiklą vykda
 
 
 2. Vienetų (išskyrus pelno nesiekiančius), kuriuose vidutinis sąrašuose esančių darbuotojų skaičius neviršija 10 žmonių ir mokestinio laikotarpio pajamos neviršija 300 000 eurų, pirmojo mokestinio laikotarpio apmokestinamasis pelnas apmokestinamas taikant 0 procentų mokesčio tarifą, kitų mokestinių laikotarpių apmokestinamasis pelnas – taikant 5 procentų mokesčio tarifą, išskyrus šio straipsnio 3 dalyje nustatytus atvejus. Šioje dalyje nustatytas 0 procentų mokesčio tarifas taikomas tik tokiam vienetui, kurio dalyvis (dalyviai) yra fizinis asmuo (fiziniai asmenys), ir tik tuo atveju, kai per tris vienas po kito einančius mokestinius laikotarpius, įskaitant pirmąjį mokestinį laikotarpį: vieneto veikla nėra sustabdoma, vienetas nėra likviduojamas, reorganizuojamas ir vieneto akcijos (dalys, pajai) nėra perleidžiamos naujiems dalyviams. 
-TAR pastaba. 2 dalie nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
 Straipsnio dalies pakeitimai:
 Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
 Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
@@ -816,7 +818,7 @@ Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 
 6. Kooperatinių bendrovių (kooperatyvų), kurių per mokestinį laikotarpį daugiau kaip 50 procentų pajamų sudaro pajamos iš žemės ūkio veiklos, įskaitant kooperatinių bendrovių (kooperatyvų) pajamas už parduotus įsigytus iš savo narių šių narių pagamintus žemės ūkio produktus, apmokestinamasis pelnas apmokestinamas taikant 5 procentų mokesčio tarifą. 
-TAR pastaba. 6 dalie nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
 Straipsnio dalies pakeitimai:
 Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
  
@@ -824,37 +826,67 @@ Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 
 
-7. Lietuvos vieneto, nuolatinių buveinių pagal šioje dalyje nustatytą formulę apskaičiuota apmokestinamojo pelno iš turto naudojimo, pardavimo ar kitokio perleidimo nuosavybėn, kaip tai apibrėžta šioje dalyje, dalis apmokestinama taikant 5 procentų mokesčio tarifą, jeigu:
+7. Lietuvos vieneto, nuolatinių buveinių pagal šio straipsnio 9 dalyje nustatytą formulę apskaičiuota apmokestinamojo pelno iš turto naudojimo, pardavimo ar kitokio perleidimo nuosavybėn dalis apmokestinama taikant 5 procentų mokesčio tarifą, jeigu:
+
+
 1) pajamas iš minėto turto naudojimo, pardavimo ar kitokio perleidimo nuosavybėn gauna tik jį sukūręs Lietuvos vienetas ar nuolatinė buveinė ir tik jie dėl minėtų pajamų uždirbimo patiria visas išlaidas ir
-2) turtas yra pagal autorių teisę saugoma kompiuterio programa ar patentabilumo kriterijus (naujumas, išradimo lygis, pramoninis pritaikomumas) atitinkantis išradimas, apsaugotas Europos patentų tarnybos, Europos ekonominės erdvės valstybėje arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, išduotais patentais ar papildomos apsaugos liudijimais. 
-Šios dalies nuostatos taikomos ir tuo atveju, kai Lietuvos vieneto arba nuolatinės buveinės sukurtas turtas yra jų naudojamas pagal išimtinę licenciją. Lengvata pradedama taikyti, kai jau yra atsiradusios autorių teisės, paduota patento paraiška, jau esant išduotam patentui, įsigaliojus papildomos apsaugos liudijimui ar kai yra suteikta išimtinė licencija.
- 
- 
-Formulė: 
- 
 
 
 
 
+2) turtas yra pagal autorių teises saugoma kompiuterio programa ar patentabilumo kriterijus (naujumas, išradimo lygis, pramoninis pritaikomumas) atitinkantis išradimas, apsaugotas Europos patentų tarnybos, Europos ekonominės erdvės valstybėje arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, išduotais patentais ar papildomos apsaugos liudijimais. 
+TAR pastaba. 7 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
 
 
-
-
-
-
-
- 
-
- 
- 
-
-Tinkamos išlaidos – sąnaudos, patirtos mokslinių tyrimų ir eksperimentinės plėtros veikloje sukuriant turtą, priskirtinos mokslinių tyrimų ir eksperimentinės plėtros darbų sąnaudoms, kurios tris kartus gali būti atskaitomos iš pajamų. Šios sąnaudos negali būti patirtos dėl susijusių asmenų veiklos. Į formulę įtraukiama apskaičiuota tinkamų išlaidų suma padidinama 30 procentų, tačiau tokia padidinta suma 
-negali būti didesnė už apskaičiuotą visų išlaidų sumą.
-Visos išlaidos – visos sąnaudos, priskirtinos leidžiamiems atskaitymams ar ribojamų dydžių leidžiamiems atskaitymams, patirtos mokslinių tyrimų ir eksperimentinės plėtros veikloje sukuriant turtą, išskyrus palūkanas ir pastatų nusidėvėjimo sąnaudas.
-Pelnas iš turto naudojimo – apmokestinamasis pelnas, apskaičiuotas iš paties mokesčio mokėtojo vykdomoje mokslinių tyrimų ir eksperimentinės plėtros veikloje sukurto turto naudojimo, pardavimo ar kitokio perleidimo nuosavybėn gautų pajamų (įskaitant honorarus ir kompensacijas už pažeistas intelektinės nuosavybės teises) atskaičius šioms pajamoms tenkančius leidžiamus atskaitymus ir ribojamų dydžių leidžiamus atskaitymus. 
-TAR pastaba. 7 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
 Papildyta straipsnio dalimi:
 Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+Straipsnio dalies pakeitimai:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+ 
+
+
+
+
+8. Šio straipsnio 7 dalies nuostatos taikomos ir tuo atveju, kai Lietuvos vieneto arba nuolatinės buveinės sukurtas turtas yra jų naudojamas pagal išimtinę licenciją. Lengvata pradedama taikyti, kai jau yra atsiradusios autorių teisės, paduota patento paraiška, išduotas patentas, įsigaliojęs papildomos apsaugos liudijimas ar kai yra suteikta išimtinė licencija. Kai lengvata taikoma nuo patento paraiškos padavimo, o patentas nėra išduodamas arba kai patentas pripažįstamas negaliojančiu, taip pat pripažįstamas negaliojančiu papildomos apsaugos liudijimas ar išimtinė licencija yra negaliojanti, sumokėtas pelno mokestis nuo apmokestinamojo pelno iš turto naudojimo, pardavimo ar kitokio perleidimo nuosavybėn dalies, apskaičiuotos pagal šio straipsnio 9 dalyje nustatytą formulę, privalo būti perskaičiuotas už visus mokestinius laikotarpius, kuriais buvo taikyta lengvata, atsižvelgiant į Mokesčių administravimo įstatymo 68 straipsnio nuostatas. 
+TAR pastaba. 8 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių pelno mokestį
+Papildyta straipsnio dalimi:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+ 
+
+
+
+
+9. Apmokestinamojo pelno iš turto naudojimo, pardavimo ar kitokio perleidimo nuosavybėn dalis apskaičiuojama pagal šią formulę:
+ 
+
+ 
+
+
+1) tinkamos finansuoti išlaidos – sąnaudos, patirtos mokslinių tyrimų ir eksperimentinės plėtros veikloje sukuriant turtą, priskiriamos prie mokslinių tyrimų ir eksperimentinės plėtros darbų sąnaudų, kurios tris kartus gali būti atskaitomos iš pajamų, išskyrus dėl susijusių asmenų veiklos patirtas sąnaudas ir šio straipsnio 7 dalies 2 punkte nurodyto turto įsigijimo išlaidas. Į formulę įtraukiama apskaičiuota tinkamų finansuoti išlaidų suma padidinama 30 procentų, tačiau ši padidinta suma negali būti didesnė už apskaičiuotą visų išlaidų sumą;
+
+
+
+
+2) visos išlaidos – tinkamos finansuoti išlaidos, šio straipsnio 7 dalies 2 punkte nurodyto turto įsigijimo išlaidos ir kitos sąnaudos, priskiriamos prie leidžiamų atskaitymų ar ribojamų dydžių leidžiamų atskaitymų, patirtos mokslinių tyrimų ir eksperimentinės plėtros veikloje sukuriant turtą, įskaitant dėl susijusių asmenų veiklos patirtas sąnaudas, išskyrus palūkanas ir pastatų nusidėvėjimo sąnaudas;
+
+
+
+
+3) pelnas iš turto naudojimo – apmokestinamasis pelnas, apskaičiuotas iš paties vieneto vykdomoje mokslinių tyrimų ir eksperimentinės plėtros veikloje sukurto turto naudojimo, pardavimo ar kitokio perleidimo nuosavybėn gautų pajamų (įskaitant honorarus ir kompensacijas už pažeistas intelektinės nuosavybės teises) atskaičius šioms pajamoms tenkančius leidžiamus atskaitymus ir ribojamų dydžių leidžiamus atskaitymus. 
+TAR pastaba. 9 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių pelno mokestį
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+ 
+
+
+
+
+10. Apmokestinamojo pelno iš turto naudojimo, pardavimo ar kitokio perleidimo nuosavybėn daliai apskaičiuoti šio straipsnio 9 dalyje nustatyta formulė taikoma atskirai kiekvienam šio straipsnio 7 dalies 2 punkte nurodytam turtui arba turtui (produktui) ar turto (produktų) grupei, kai šis turtas (produktas) ar turto (produktų) grupė sukuriami panaudojant kelis šio straipsnio 7 dalies 2 punkte nurodyto turto vienetus ir vienetas gali pagrįsti, kad formulė dėl praktinių priežasčių negali būti taikoma atskirai kiekvienam šio straipsnio 7 dalies 2 punkte nurodytam turtui. Visais atvejais vienetas turi turėti dokumentus, kuriais pagrindžiamas ryšys tarp tinkamų finansuoti išlaidų, visų išlaidų, šio straipsnio 7 dalies 2 punkte nurodyto turto arba turto (produkto) ar turto (produktų) grupės, pelno iš turto naudojimo.
+TAR pastaba. 10 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių pelno mokestį
+Papildyta straipsnio dalimi:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
  
 
 
@@ -1427,7 +1459,7 @@ LEIDŽIAMI ATSKAITYMAI IR RIBOJAMŲ DYDŽIŲ LEIDŽIAMI ATSKAITYMAI
 
 
 
-12) mokestinio laikotarpio nuostoliai.
+12) mokestinio laikotarpio nuostoliai;
 
 
 
@@ -1942,7 +1974,11 @@ Nr. X-1484, 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
 30 straipsnis. Mokestinio laikotarpio nuostolių perkėlimas
 
 
-1. Jeigu mokestiniais metais iš pajamų atėmus neapmokestinamąsias pajamas ir atskaičius leidžiamus atskaitymus bei ribojamų dydžių leidžiamus atskaitymus gaunami mokestinio laikotarpio nuostoliai, šių nuostolių suma perkeliama į kitus mokestinius metus, išskyrus nuostolius, patirtus dėl vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo.
+1. Jeigu mokestiniais metais iš pajamų atėmus neapmokestinamąsias pajamas ir atskaičius leidžiamus atskaitymus bei ribojamų dydžių leidžiamus atskaitymus gaunami mokestinio laikotarpio nuostoliai, šių nuostolių suma perkeliama į kitus mokestinius metus, išskyrus nuostolius, patirtus dėl vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo, ir nuostolius, patirtus dėl turto naudojimo, pardavimo ar kitokio perleidimo nuosavybėn, apskaičiuotus pagal šio Įstatymo 5 straipsnio 9 dalyje nustatytą formulę. 
+TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių pelno mokestį
+Straipsnio dalies pakeitimai:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+ 
 
 
 
@@ -1951,6 +1987,15 @@ Nr. X-1484, 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
 TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
 Straipsnio dalies pakeitimai:
 Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+ 
+
+
+
+
+21. Nuostoliai, patirti dėl turto naudojimo, pardavimo ar kitokio perleidimo nuosavybėn, apskaičiuoti pagal šio Įstatymo 5 straipsnio 9 dalyje nustatytą formulę, perkeliami į kitus mokestinius metus, tačiau dengiami tik pagal šio Įstatymo 5 straipsnio 9 dalyje nustatytą formulę apskaičiuoto apmokestinamojo pelno dalimi.
+TAR pastaba. 21 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių pelno mokestį
+Papildyta straipsnio dalimi:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
  
 
 
@@ -4581,3 +4626,18 @@ Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2, 4, 5, 12, 22, 30, 3
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-517, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11226
 Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 58 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1187, 2018-05-24, paskelbta TAR 2018-05-29, i. k. 2018-08643
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 5 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1333, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10976
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 5 straipsnio pakeitimo ir Įstatymo papildymo 46-3 straipsniu įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2, 4, 5, 11, 17, 30, 39, 55 straipsnių, 3 priedėlio pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas
