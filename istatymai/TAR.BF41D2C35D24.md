@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2017-12-01 iki 2018-12-21
+Suvestinė redakcija nuo 2018-12-22 iki 2019-10-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
  
@@ -749,10 +749,19 @@ Kelių priežiūros tvarką nustato Vyriausybė.
 16 straipsnis. Kelių finansavimas
 
 
-Kelių ir statinių projektavimas, tiesimas, statyba, rekonstravimas, taisymas (remontas) ir priežiūra yra finansuojama įstatymų nustatyta tvarka.
+1. Kelių ir kelio statinių projektavimas, tiesimas, statyba, rekonstravimas, taisymas (remontas) ir priežiūra yra finansuojami įstatymų nustatyta tvarka. Tais atvejais, kai dalis savivaldybei nuosavybės teise priklausančio kelio ir kelio statinio projektavimo, tiesimo, statybos, rekonstravimo ir (ar) taisymo (remonto) išlaidų yra padengiama privačiomis fizinių ir (ar) juridinių asmenų lėšomis, tokio kelio ir kelio statinio projektavimo, tiesimo, statybos, rekonstravimo ir (ar) taisymo (remonto) darbams gali būti teikiamas prioritetas kitų savivaldybei nuosavybės teise priklausančių kelių ir kelių statinių projektavimo, tiesimo, statybos, rekonstravimo ir (ar) taisymo (remonto) atžvilgiu tos savivaldybės, kuriai nuosavybės teise priklauso kelias ir kelio statiniai, institucijos nustatyta tvarka ir sąlygomis.
+TAR pastaba. 1 dalis įsigalioja 2019 m. kovo 1 d. 1 dalies nuostatos taikomos kelio ir kelio statinio projektavimo, tiesimo, statybos, rekonstravimo ir (ar) taisymo (remonto) darbų, finansuojamų privačiomis fizinių ir (ar) juridinių asmenų lėšomis, sutartims, sudarytoms po įstatymo Nr. XIII-1788 įsigaliojimo.
+
+
+
+
+2. Nepanaudota atitinkamų metų Kelių priežiūros ir plėtros programos (toliau – Programa) finansavimo lėšų dalis, kuri yra ne mažesnė kaip 25 procentai nepanaudotų atitinkamų metų Programos lėšų, naudojama vietinės reikšmės keliams ir gatvėms tiesti, rekonstruoti, taisyti (remontuoti) ir prižiūrėti. 
+TAR pastaba. 2 dalis įsigalioja 2020 m. sausio 1 d.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1788, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21116
  
-
-
 
 
 
@@ -1175,3 +1184,8 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5 ir 10 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-757, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18808
 Lietuvos Respublikos kelių įstatymo Nr. I-891 20 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1788, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21116
+Lietuvos Respublikos kelių įstatymo Nr. I-891 16 straipsnio pakeitimo įstatymas
