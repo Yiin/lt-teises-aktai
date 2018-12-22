@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-12-21
+Suvestinė redakcija nuo 2018-12-22 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -258,12 +258,6 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 
 
-27. Elektros ir elektroninė įranga – įranga, kuriai tinkamai funkcionuoti reikalingos elektros srovės arba elektromagnetiniai laukai, ir įranga, skirta kurti, perduoti arba išmatuoti tokias sroves ar laukus, priklausanti Aplinkos ministerijos nustatytoms kategorijoms ir skirta naudoti su ne didesne kaip 1 000 V įtampa esant kintamajai srovei ir su ne didesne kaip 1 500 V įtampa esant nuolatinei srovei.
-27 dalies redakcija nuo 2018-08-15:
-
-
-
-
 27. Elektros ir elektroninė įranga – įranga, kuriai tinkamai funkcionuoti reikalingos elektros srovės arba elektromagnetiniai laukai, ir įranga, skirta kurti, perduoti arba išmatuoti tokias sroves ar laukus, skirta naudoti su ne didesne kaip 1 000 V įtampa esant kintamajai srovei ir su ne didesne kaip 1 500 V įtampa esant nuolatinei srovei. Elektros ir elektroninės įrangos kategorijų sąrašą tvirtina Aplinkos ministerija.
 
 
@@ -299,7 +293,7 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 
 
-34. Gaminių platintojas – asmuo, verslo tikslais vartotojams tiekiantis alyvas, transporto priemones, elektros ir elektroninę įrangą ir (ar) apmokestinamuosius gaminius.
+34. Gaminių platintojas – asmuo, įskaitant gamintoją ir (ar) importuotoją, tiekiantis Lietuvos Respublikos vidaus rinkai verslo tikslais alyvas, transporto priemones, elektros ir elektroninę įrangą ir (ar) apmokestinamuosius gaminius. 
 
 
 
@@ -419,105 +413,10 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 
 
-48-63 dalių redakcija iki 2018-08-15:
-48. Nepavojingosios atliekos – visokios atliekos, nepriskiriamos pavojingosioms atliekoms.
-
-
-
-
-49. Pakartotinis naudojimas – veikla, kai prie atliekų nepriskiriami produktai ar jų sudedamosios dalys vėl naudojami tam pačiam tikslui, kuriam buvo sukurti.
-
-
-
-
-50. Pakuočių atliekos – pakuotės ir pakuočių medžiagos, pagal atliekų apibrėžimą priskiriamos atliekoms, išskyrus pakuočių gamybos atliekas.
-
-
-
-
-51. Pakuotė – gaminys, pagamintas iš bet kokių medžiagų ir skirtas gaminiams pakuoti, apsaugoti, gabenti ir pateikti vartotojams ar gaminių naudotojams.
-
-
-
-
-52. Paruošimas naudoti pakartotinai – atliekų naudojimo veikla, kai atliekomis tapę produktai ar jų sudedamosios dalys tikrinami, valomi ar taisomi, siekiant, kad būtų tinkami naudoti pakartotinai be jokio kito pradinio apdirbimo.
-
-
-
-
-53. Pavojingosios atliekos – atliekos, kurios pasižymi viena ar keliomis pavojingomis savybėmis, nurodytomis 2014 m. gruodžio 18 d. Komisijos reglamento (ES) Nr. 1357/2014, kuriuo pakeičiamas Europos Parlamento ir Tarybos direktyvos 2008/98/EB dėl atliekų ir panaikinančios kai kurias direktyvas III priedas (OL 2014 L 365, p. 89), priede.
-Straipsnio dalies pakeitimai:
-Nr. XII-1720, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07671
+49. Neteko galios nuo 2018-12-22
+Straipsnio dalies naikinimas:
+Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
  
-
-
-
-
-54. Pradinis apdorojimas – fizikiniai, terminiai, cheminiai ar biologiniai procesai, įskaitant rūšiavimą, kurių metu pakeičiamos atliekų savybės tam, kad sumažėtų jų tūris ar pavojingumas, supaprastėtų ir pagerėtų atliekų naudojimas.
-
-
-
-
-55. Prekiautojas atliekomis – už atliekų pirkimą ir pardavimą atsakinga įmonė, įskaitant įmones, kurios atliekų neįsigyja fiziškai.
-
-
-
-
-56. Prevencija – priemonės, kurių imamasi prieš produktui ar medžiagai tampant atliekomis ir kurios sumažina:
-
-
-1) atliekų kiekį, įskaitant, kai produktas naudojamas pakartotinai ar pailginamas jo gyvavimo ciklas;
-
-
-
-
-2) susidariusių atliekų neigiamą poveikį aplinkai ir žmonių sveikatai;
-
-
-
-
-3) kenksmingųjų medžiagų kiekį produktuose ir medžiagose.
-
-
-
-
-
-
-57. Neigiamas poveikis – numatomas aplinkos ir visuomenės sveikatos pokytis, kurio poveikiui išvengti, sumažinti, kompensuoti ar jo padariniams likviduoti būtina numatyti atitinkamas priemones.
-Straipsnio dalies pakeitimai:
-Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
- 
-
-
-
-
-58. Rūšiuojamasis atliekų surinkimas – atliekų surinkimas, kai jos atskiriamos pagal rūšį ir pobūdį siekiant palengvinti specialų tos rūšies ir pobūdžio atliekų apdorojimą.
-
-
-
-
-59. Sąvartynas – atliekų šalinimo įrenginys ant žemės ar žemėje (po žeme). Sąvartynams taip pat priklauso atliekų šalinimo įrenginiai, kuriuose atliekų darytojas šalina savo atliekas jų susidarymo vietoje, ir nuolatiniai (veikiantys ilgiau negu vienus metus) įrenginiai, naudojami laikinai laikyti atliekas, išskyrus įrenginius, kuriuose atliekos iškraunamos, kad būtų paruoštos toliau pervežti naudojimui, pradiniam apdorojimui ar šalinimui; įrenginiai, kuriuose atliekos laikomos iki naudojimo ar pradinio apdorojimo trumpiau negu trejus metus, ir įrenginiai, kuriuose atliekos laikomos iki šalinimo trumpiau negu vienus metus.
-
-
-
-
-60. Tarpininkas – atliekų naudojimą ar šalinimą kito vardu organizuojanti įmonė, įskaitant įmones, kurios atliekų neįsigyja fiziškai.
-
-
-
-
-61. Tiekimas Lietuvos Respublikos vidaus rinkai verslo tikslais – į Lietuvos Respublikos teritoriją įvežtų, Lietuvos Respublikos teritorijoje pagamintų baterijų ar akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių perleidimas už atlygį ar nemokamai kitam asmeniui Lietuvos Respublikos teritorijoje arba sunaudojimui savoms reikmėms skirtų daugiau kaip 5 baterijų ar akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių vienetų įvežimas į Lietuvos Respublikos teritoriją, pagaminimas Lietuvos Respublikos teritorijoje per kalendorinius metus.
-
-
-
-
-62. Transporto priemonė – bet kokia transporto priemonė, priskiriama M1 klasei (ne mažiau kaip keturis ratus turinti transporto priemonė, skirta keleiviams vežti, kurioje yra ne daugiau kaip 8 sėdimosios vietos keleiviams ir viena sėdimoji vieta vairuotojui) arba N1 klasei (ne mažiau kaip keturis ratus turinti transporto priemonė, skirta kroviniams vežti, kurios bendroji masė yra ne didesnė kaip 3,5 t), ir triratė motorinė transporto priemonė, išskyrus motorines trirates transporto priemones su simetriškai išdėstytais ratais.
-
-
-
-
-63. Valstybė narė – Europos Sąjungos valstybė narė arba Europos ekonominės erdvės valstybė.
-48-67 dalių redakcija nuo 2018-08-15:
 
 
 
@@ -552,7 +451,10 @@ Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
 
 
 
-54. Pavojingosios atliekos – atliekos, kurios pasižymi viena ar keliomis pavojingomis savybėmis, nurodytomis 2014 m. gruodžio 18 d. Komisijos reglamento (ES) Nr. 1357/2014, kuriuo pakeičiamas Europos Parlamento ir Tarybos direktyvos 2008/98/EB dėl atliekų ir panaikinančios kai kurias direktyvas III priedas (OL 2014 L 365, p. 89), priede.
+54. Pavojingosios atliekos – atliekos, kurios pasižymi viena ar keliomis pavojingomis savybėmis, nurodytomis 2014 m. gruodžio 18 d. Komisijos reglamento (ES) Nr. 1357/2014, kuriuo pakeičiamas Europos Parlamento ir Tarybos direktyvos 2008/98/EB dėl atliekų ir panaikinančios kai kurias direktyvas III priedas (OL 2014 L 365, p. 89), priede ir 2017 m. birželio 8 d. Tarybos reglamento (ES) 2017/997, kuriuo iš dalies keičiamos Europos Parlamento ir Tarybos direktyvos 2008/98/EB III priedo nuostatos dėl pavojingos savybės HP 14 „ekotoksiškumas“ (OL 2017 L 150, p. 1), priede. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
+ 
 
 
 
@@ -786,12 +688,39 @@ Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
 32 straipsnis. Atliekų nebelaikymas atliekomis
 
 
-Tam tikros konkrečios atliekos tampa nebe atliekomis jas panaudojus, įskaitant, kai jos perdirbamos, Europos Sąjungos teisės aktų nustatyta tvarka.
+1. Tam tikros konkrečios atliekos tampa nebe atliekomis jas panaudojus, įskaitant, kai jos perdirbamos, Europos Sąjungos ir (ar) nacionalinių teisės aktų nustatyta tvarka. 
 
 
 
 
+2. Konkrečius atliekų nebelaikymo atliekomis kriterijus atskiriems atliekų srautams nustato aplinkos ministras, laikydamasis šių sąlygų:
+
+
+1) medžiaga ar daiktas yra visuotinai naudojamas konkretiems tikslams;
+
+
+
+
+2) tokiai medžiagai ar daiktui egzistuoja rinka ar paklausa;
+
+
+
+
+3) medžiaga ar daiktas tenkina techninius reikalavimus konkretiems tikslams ir atitinka produktams taikytinus galiojančius teisės aktus ir standartus;
+
+
+
+
+4) naudojant medžiagą ar daiktą nebus padarytas neigiamas poveikis aplinkai ar žmonių sveikatai. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
  
+
+
 
 
 
@@ -2058,7 +1987,11 @@ Nr. XII-289, 2013-05-09, Žin., 2013, Nr. 55-2729 (2013-05-28)
 301 straipsnis. Komunalinių atliekų tvarkymo paslaugos teikimo sutartis ir vietinė rinkliava už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą
 
 
-1. Organizuojant komunalinių atliekų tvarkymą, sudarant komunalinių atliekų tvarkymo paslaugos teikimo sutartį arba mokant savivaldybės nustatytą rinkliavą, atliekų turėtojams atstovauja jų naudojamo nekilnojamojo turto objekto savininkas arba nekilnojamojo turto objekto savininko atstovas pagal įstatymą, arba nekilnojamojo turto objekto savininko įgaliotas asmuo, arba daugiabučio namo savininkų bendrija, individualių gyvenamųjų namų savininkų bendrija, garažų savininkų bendrija, sodininkų bendrija ar kita bendrija, arba bendrojo naudojimo objektų administratorius, arba asmenys, sudarę jungtinės veiklos sutartis bendrosios dalinės nuosavybės teisei įgyvendinti (toliau – įgalioti asmenys).
+1. Organizuojant komunalinių atliekų tvarkymą, sudarant komunalinių atliekų tvarkymo paslaugos teikimo sutartį arba mokant savivaldybės nustatytą rinkliavą, atliekų turėtojams atstovauja jų naudojamo nekilnojamojo turto objekto savininkas arba nekilnojamojo turto objekto savininko atstovas pagal įstatymą, arba nekilnojamojo turto objekto savininko įgaliotas asmuo, arba daugiabučio namo butų ir kitų patalpų savininkų bendrija, individualių gyvenamųjų namų savininkų bendrija, garažų savininkų bendrija, sodininkų bendrija ar kita bendrija, bendrojo naudojimo objektų administratorius, esant savininkų raštu įformintam susitarimui, arba asmenys, sudarę jungtinės veiklos sutartis bendrosios dalinės nuosavybės teisei įgyvendinti (toliau – įgalioti asmenys).
+TAR pastaba. Iki įstatymo Nr. XIII-1796 įsigaliojimo (2018-12-22) dienos sudarytos komunalinių atliekų tvarkymo paslaugos teikimo sutartys su daugiabučio namo butų ir kitų patalpų savininkų bendrija, individualių gyvenamųjų namų savininkų bendrija, garažų savininkų bendrija, sodininkų bendrija ar kita bendrija, bendrojo naudojimo objektų administratoriumi turi būti pakeistos ar sudarytos naujos iki 2020 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1796, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21124
+ 
 
 
 
@@ -3529,7 +3462,6 @@ Nr. XIII-1018, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01031
 
 
 2. Siekdama įvykdyti šio Įstatymo 3418 straipsnio 1 dalies 2 punkte apmokestinamųjų gaminių gamintojams ir importuotojams nustatytą pareigą, Organizacija privalo sudaryti sutartis su pagal aplinkos ministro nustatytą tvarką Organizacijos išrinktais apmokestinamųjų gaminių atliekų surinkėjais dėl apmokestinamųjų gaminių atliekų surinkimo, vežimo, paruošimo naudoti ir su apmokestinamųjų gaminių atliekų naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų apmokestinamųjų gaminių atliekų panaudojimo. Šiose sutartyse turi būti numatyta apmokėjimo už apmokestinamųjų gaminių atliekų surinkimą, vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka.
- 
 
 
 
@@ -3984,27 +3916,6 @@ AŠTUNTOJO1 IR AŠTUNTOJO4 SKIRSNIŲ TAIKYMAS
 
 
 3424 straipsnis. Aštuntojo1 ir aštuntojo4 skirsnių taikymas
-
-
-1. Šio Įstatymo aštuntojo1 skirsnio nuostatos netaikomos:
-
-
-1) elektros ir elektroninei įrangai, kuri būtina Lietuvos Respublikos pagrindinių saugumo interesų apsaugai, įskaitant ginklus, amuniciją ir karo reikmenis, skirtus specialiai karo reikmėms;
-
-
-
-
-2) elektros ir elektroninei įrangai, kuri specialiai suprojektuota ir sumontuota kaip dalis kitos rūšies įrangos, kuriai netaikomos šio Įstatymo aštuntojo1 skirsnio nuostatos, ir kuri gali veikti tik kaip tos įrangos dalis; 
-
-
-
-
-3) volframinėms lemputėms.
-1 dalies redakcija nuo 2018-08-15:
-
-
-
-
 
 
 1. Šio Įstatymo aštuntojo1 skirsnio nuostatos netaikomos:
@@ -4559,6 +4470,14 @@ atliekų tvarkymo įstatymo
 9. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB dėl anglies dioksido geologinio saugojimo, iš dalies keičianti Tarybos direktyvą 85/337/EEB, direktyvas 2000/60/EB, 2001/80/EB, 2004/35/EB, 2006/12/EB, 2008/1/EB ir Reglamentą (EB) Nr. 1013/2006 (OL 2009 L 140, p. 114).
 
 
+
+
+10. 2014 m. gruodžio 18 d. Komisijos reglamentas (ES) Nr. 1357/2014, kuriuo pakeičiamas Europos Parlamento ir Tarybos direktyvos 2008/98/EB dėl atliekų ir panaikinančios kai kurias direktyvas III priedas (OL 2014 L 365, p. 89). 
+Papildyta punktu:
+Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
+ 
+
+
  Įstatymas papildytas priedu:
 Nr. IX-2214, 2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
 Priedo pakeitimai:
@@ -4735,3 +4654,13 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4, 7, 17, 34-1, 34
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-773, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18827
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 28 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2, 3-2, 4, 30, 31, 34-15, 34-19, 34-20 straipsnių, šeštojo skirsnio ir 5 priedo pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1796, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21124
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 30-1 straipsnio pakeitimo įstatymas
