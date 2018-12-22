@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2018-11-13 iki 2018-12-21
+Suvestinė redakcija nuo 2018-12-22 iki 2018-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
  
@@ -54,7 +54,10 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2012-09-05, Žin., 2012, Nr. 105-5330 (2012-09-08)
  
 
-6. Kiti tiesioginiai arba netiesioginiai Lietuvos Respublikos piliečių rinkimų teisės apribojimai - dėl kilmės, politinių pažiūrų, socialinės ir turtinės padėties, nacionalinės priklausomybės, lyties, išsilavinimo, kalbos, santykio su religija, užsiėmimo rūšies ir pobūdžio - draudžiami.
+6. Kiti tiesioginiai arba netiesioginiai Lietuvos Respublikos piliečių rinkimų teisės apribojimai – dėl kilmės, politinių pažiūrų, socialinės ir turtinės padėties, nacionalinės priklausomybės, lyties, neįgalumo, išsilavinimo, kalbos, santykio su religija, užsiėmimo rūšies ir pobūdžio – draudžiami.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1775, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21111
+ 
 
 Straipsnio pakeitimai:
 Nr. IX-967, 2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
@@ -63,7 +66,6 @@ Nr. X-1490, 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 Nr. XI-1939, 2012-03-22, Žin., 2012, Nr. 42-2042 (2012-04-07)
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2012-09-05, Žin., 2012, Nr. 105-5330 (2012-09-08)
- 
 
 3 straipsnis. Lygi rinkimų teisė
 
@@ -450,7 +452,10 @@ Nr. X-1490, 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 
 2. Valstybės ir savivaldybių institucijos ir įstaigos, jų pareigūnai, tarnautojai, įmonės, jų darbuotojai ne vėliau kaip per 3 dienas privalo apsvarstyti rinkimų komisijų pateiktus prašymus ir duoti rinkimų komisijoms motyvuotus atsakymus.
 
-3. Apygardos rinkimų komisijos pirmininkas turi teisę sudaryti darbo sutartis su darbuotojais, reikalingais pagalbiniams rinkimų organizavimo darbams atlikti. Šias darbo sutartis apygardos rinkimų komisijos pirmininkas sudaro Vyriausiosios rinkimų komisijos vardu pagal įgaliojimą. Atlyginimo už darbą rinkimų komisijose tvarką ir atlyginimo dydžius Vyriausiosios rinkimų komisijos teikimu nustato Vyriausybė.
+3. Apygardos rinkimų komisijos pirmininkas turi teisę sudaryti terminuotas darbo sutartis su darbuotojais, reikalingais pagalbiniams rinkimų organizavimo darbams atlikti. Šias darbo sutartis apygardos rinkimų komisijos pirmininkas sudaro Vyriausiosios rinkimų komisijos vardu pagal įgaliojimą. Šių darbuotojų darbo užmokestis nustatomas terminuotoje darbo sutartyje pagal Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatyme nustatytus darbo apmokėjimo dydžius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1775, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21111
+ 
 
 4. Valstybės ir savivaldybių institucijos ir įstaigos, jų pareigūnai, tarnautojai, įmonės, jų darbuotojai privalo suteikti rinkimų komisijoms tinkamas patalpas, įrangą, kompiuterinę techniką ir interneto ryšį rinkimams rengti ir vykdyti. Rinkimams suteikiamų balsavimo patalpų tinkamumą ir jų įrengimą judėjimo ir (ar) regėjimo negalią turinčių ir senyvo amžiaus rinkėjų poreikiams privalo įvertinti savivaldybių institucijos, atsakingos už viešosios paskirties pastatų pritaikymą specialiesiems poreikiams.
 
@@ -483,18 +488,32 @@ Nr. X-1490, 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
  
 
-23 straipsnis. Rinkimų komisijų narių darbo apmokėjimas 
+23 straipsnis. Rinkimų komisijų narių darbo apmokėjimas
 
-1. Rinkimų komisijų pirmininkai, pirmininko pavaduotojai, rinkimų komisijų sekretoriai ir nariai už darbą rinkimų komisijose gauna atlyginimą pagal Vyriausiosios rinkimų komisijos pateiktus ir Vyriausybės nustatytus tarifus.
+1. Už darbo dieną rinkimų komisijose nustatomas atlyginimas pagal šiuos tarifus:
 
-2. Rinkimų komisijų nariams, pirmininkams, pirmininko pavaduotojams ir komisijų sekretoriams už darbą rinkimų komisijose apmokama pagal darbo laiko apskaitos žiniaraščių duomenis neviršijant atitinkamai rinkimų komisijai numatytų asignavimų darbo užmokesčiui. Darbo laiko apskaitos žiniaraščių rinkimų komisijose pildymo tvarką nustato Vyriausioji rinkimų komisija. Už darbo laiko apskaitos žiniaraščiuose pateiktų duomenų teisingumą atsako atitinkamos rinkimų komisijos pirmininkas. Darbui rinkimų komisijose netaikomi Lietuvos Respublikos darbo kodekse nustatyti darbo trukmės apribojimai.
+1) apygardų rinkimų komisijų pirmininkams – 0,31 Lietuvos Respublikos Seimo patvirtinto atitinkamų metų pareiginės algos (atlyginimo) bazinio dydžio, kuris taikomas apskaičiuojant valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareigines algas (toliau – pareiginės algos bazinis dydis);
 
-3. Rinkimų komisijų pirmininkų, pirmininko pavaduotojų, komisijų sekretorių ir narių skatinimo tvarkos aprašą Vyriausiosios rinkimų komisijos teikimu tvirtina Vyriausybė.
+2) apygardų rinkimų komisijų pirmininkų pavaduotojams, komisijų sekretoriams ir komisijų nariams – 0,25 pareiginės algos bazinio dydžio;
+
+3) apylinkių rinkimų komisijų pirmininkams – 0,25 pareiginės algos bazinio dydžio;
+
+4) apylinkių rinkimų komisijų pirmininkų pavaduotojams, komisijų sekretoriams ir komisijų nariams – 0,2 pareiginės algos bazinio dydžio.
+
+2. Rinkimų komisijų nariams, pirmininkams, pirmininko pavaduotojams ir komisijų sekretoriams už darbą rinkimų komisijose apmokama pagal darbo laiko apskaitos žiniaraščių duomenis, neviršijant atitinkamai rinkimų komisijai numatytų asignavimų darbo užmokesčiui. Darbo laiko apskaitos žiniaraščių rinkimų komisijose pildymo tvarką nustato Vyriausioji rinkimų komisija. Už darbo laiko apskaitos žiniaraščiuose pateiktų duomenų teisingumą atsako atitinkamos rinkimų komisijos pirmininkas. Darbui rinkimų komisijose netaikomi Lietuvos Respublikos darbo kodekse nustatyti darbo trukmės ribojimai.
+
+3. Rinkimų komisijų nariai, pirmininkai, pirmininko pavaduotojai ir komisijų sekretoriai už labai gerą darbą rinkimų komisijose gali būti skatinami vienkartine pinigine išmoka. Ši išmoka negali būti didesnė kaip 100 procentų per visą darbo rinkimų komisijose laikotarpį gautų mėnesinių atlyginimų vidurkio, neviršijant atitinkamos komisijos išlaidų sąmatoje skatinimui numatytų lėšų. Vienkartinės piniginės išmokos dydis nustatomas atsižvelgiant į atlikto darbo mastą, kokybę ir sudėtingumą.
+
+4. Sprendimą dėl apygardų rinkimų komisijų pirmininkų skatinimo priima Vyriausioji rinkimų komisija, atsižvelgdama į jų atliktą darbą organizuojant ir vykdant rinkimus ir atsiskaitymą už komisijoms skirtų lėšų panaudojimą. Apygardų rinkimų komisijų pirmininkų pavaduotojai, komisijų nariai ir komisijų sekretoriai gali būti skatinami vienkartine pinigine išmoka Vyriausiosios rinkimų komisijos sprendimu, jeigu yra apygardos rinkimų komisijos pirmininko teikimas.
+
+5. Sprendimus dėl apylinkių rinkimų komisijų pirmininkų skatinimo priima apygardų rinkimų komisijos, atsižvelgdamos į jų atliktą darbą organizuojant ir vykdant rinkimus. Apylinkių rinkimų komisijų pirmininkų pavaduotojai, komisijų nariai ir komisijų sekretoriai gali būti skatinami vienkartine pinigine išmoka atitinkamos apygardos rinkimų komisijos sprendimu, jeigu yra apylinkės rinkimų komisijos pirmininko teikimas.
 
 Straipsnio pakeitimai:
 Nr. IX-262, 2001 04 19, Žin., 2001, Nr. 39-1333 (2001 05 09)
 Nr. X-1490, 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
 Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
+Straipsnio pakeitimai:
+Nr. XIII-1775, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21111
  
 
 24 straipsnis. Rinkimų komisijų sudėties keitimas
@@ -762,7 +781,10 @@ Nr. XIII-1581, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18195
 
 5. Pareiškiniai dokumentai gali būti pateikiami elektroniniu būdu. Rinkėjai taip pat gali Vyriausiosios rinkimų komisijos nustatyta tvarka elektroniniu būdu savo parašais paremti asmens išsikėlimą kandidatu.
 
-6. Apygardos rinkimų komisija piliečiui, nusprendusiam išsikelti kandidatu į Seimo narius, per 3 dienas išduoda šio straipsnio 7 dalyje nurodytus vardinius rinkėjų parašų rinkimo lapus, kandidato išsikėlimą remiančių tos rinkimų apygardos rinkėjų parašams rinkti. Parašus renka kandidatai arba tai paveda atlikti kitiems rinkėjams. Parašus rinkęs asmuo pasirašo rinkėjų parašų rinkimo lapo pabaigoje ir atsako, kad parašai būtų renkami šio įstatymo nustatyta tvarka. Rinkėjų parašų rinkimo lape pilietis, kuris remia asmens išsikėlimą kandidatu, pats turi įrašyti šiuos duomenis: pavardę, vardą, paso arba asmens tapatybės kortelės numerį, gimimo datą, nuolatinės gyvenamosios vietos adresą, – ir pasirašyti. Tuo atveju, kai kandidato išsikėlimą remiantis pilietis dėl fizinių trūkumų ar kitų priežasčių negali reikalingų duomenų rinkėjų parašų rinkimo lape įrašyti pats, jis gali paprašyti kito rinkimų teisę turinčio piliečio, išskyrus parašų rinkėją, tai padaryti už jį. Šiuo atveju rinkėjų parašų rinkimo lape padaromas Vyriausiosios rinkimų komisijos nustatytos formos įrašas. Pilietis, remiantis asmens išsikėlimą kandidatu ir neturintis fizinių trūkumų, kurie jam trukdytų įrašyti savo duomenis, turi tuos duomenis į rinkėjų parašų rinkimo lapą įrašyti pats. Draudžiama papirkinėti išsikėlimą parėmusius rinkėjus, atsilyginti ar žadėti atsilyginti už kandidato išsikėlimo parėmimą, taip pat grasinant reikalauti pasirašyti ar kitaip pažeisti savanoriškumo principą. Rinkėjų parašų rinkimo lapus kandidatas turi grąžinti juos išdavusiai rinkimų komisijai ne vėliau kaip likus 40 dienų iki rinkimų. Gavusi rinkėjų parašų rinkimo lapus, atitinkama rinkimų komisija ne daugiau kaip per 10 dienų juos patikrina. Parašus tikrinanti rinkimų komisija suskaičiuoja rinkimų apygardos rinkėjų, parėmusių šio piliečio išsikėlimą ar partijos iškeltą kandidatų sąrašą (kandidatą), parašų skaičių. Neįskaičiuojami šie parašai: asmenų, neturinčių rinkimų teisės; rinkėjų, neįrašytų į tos rinkimų apygardos rinkėjų sąrašą; asmenų, kurie nėra įrašę visų šio įstatymo nustatytų duomenų; jeigu įrašyti neteisingi duomenys; visi parašai piliečio, kuris už to paties asmens išsikėlimą pasirašė keletą kartų. Jeigu yra nustatoma, kad piliečių parašai suklastoti, kad renkant parašus buvo pažeisti savanoriškumo principas ar kiti šio įstatymo reikalavimai, apygardos rinkimų komisija Vyriausiajai rinkimų komisijai siūlo neregistruoti asmens kandidatu į Seimo narius. Jeigu rinkėjų parašų rinkimo lapuose, atmetus neįskaičiuojamus parašus, yra surinktas šio įstatymo nustatytas parašų skaičius, apygardos rinkimų komisija teikia Vyriausiajai rinkimų komisijai registruoti asmenį kandidatu į Seimo narius.
+6. Apygardos rinkimų komisija piliečiui, nusprendusiam išsikelti kandidatu į Seimo narius, per 3 dienas išduoda šio straipsnio 7 dalyje nurodytus vardinius rinkėjų parašų rinkimo lapus kandidato išsikėlimą remiančių tos rinkimų apygardos rinkėjų parašams rinkti. Parašus renka kandidatai arba tai paveda atlikti kitiems rinkėjams. Parašus rinkęs asmuo pasirašo rinkėjų parašų rinkimo lapo pabaigoje ir atsako, kad parašai būtų renkami šio įstatymo nustatyta tvarka. Rinkėjų parašų rinkimo lape pilietis, kuris remia asmens išsikėlimą kandidatu, pats turi įrašyti šiuos duomenis: pavardę, vardą, paso arba asmens tapatybės kortelės numerį, gimimo datą, nuolatinės gyvenamosios vietos adresą, – ir pasirašyti. Tuo atveju, kai kandidato išsikėlimą remiantis pilietis dėl neįgalumo ar kitų priežasčių negali reikalingų duomenų rinkėjų parašų rinkimo lape įrašyti pats, jis gali paprašyti kito rinkimų teisę turinčio piliečio, išskyrus parašų rinkėją, tai padaryti už jį. Šiuo atveju rinkėjų parašų rinkimo lape padaromas Vyriausiosios rinkimų komisijos nustatytos formos įrašas. Pilietis, remiantis asmens išsikėlimą kandidatu ir neturintis neįgalumo, kuris jam trukdytų įrašyti savo duomenis, turi tuos duomenis į rinkėjų parašų rinkimo lapą įrašyti pats. Draudžiama papirkinėti išsikėlimą parėmusius rinkėjus, atsilyginti ar žadėti atsilyginti už kandidato išsikėlimo parėmimą, taip pat grasinant reikalauti pasirašyti ar kitaip pažeisti savanoriškumo principą. Rinkėjų parašų rinkimo lapus kandidatas turi grąžinti juos išdavusiai rinkimų komisijai ne vėliau kaip likus 40 dienų iki rinkimų. Gavusi rinkėjų parašų rinkimo lapus, atitinkama rinkimų komisija ne daugiau kaip per 10 dienų juos patikrina. Parašus tikrinanti rinkimų komisija suskaičiuoja rinkimų apygardos rinkėjų, parėmusių šio piliečio išsikėlimą ar partijos iškeltą kandidatų sąrašą (kandidatą), parašų skaičių. Neįskaičiuojami šie parašai: asmenų, neturinčių rinkimų teisės; rinkėjų, neįrašytų į tos rinkimų apygardos rinkėjų sąrašą; asmenų, kurie nėra įrašę visų šio įstatymo nustatytų duomenų; jeigu įrašyti neteisingi duomenys; visi parašai piliečio, kuris už to paties asmens išsikėlimą pasirašė keletą kartų. Jeigu yra nustatoma, kad piliečių parašai suklastoti, kad renkant parašus buvo pažeisti savanoriškumo principas ar kiti šio įstatymo reikalavimai, apygardos rinkimų komisija Vyriausiajai rinkimų komisijai siūlo neregistruoti asmens kandidatu į Seimo narius. Jeigu rinkėjų parašų rinkimo lapuose, atmetus neįskaičiuojamus parašus, yra surinktas šio įstatymo nustatytas parašų skaičius, apygardos rinkimų komisija teikia Vyriausiajai rinkimų komisijai registruoti asmenį kandidatu į Seimo narius.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1775, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21111
+ 
 
 7. Rinkėjų parašai renkami vardiniame rinkėjų parašų rinkimo lape, kuriame yra šis tekstas:
 „Aš, rinkėjas, patvirtinu, kad remiu asmenį (asmens vardas, pavardė, vienmandatės rinkimų apygardos Nr.), išsikėlusį kandidatu Seimo rinkimuose (rinkimų data): 
@@ -1337,9 +1359,11 @@ Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
 
 7. Laivuose, kuriuose organizuoti balsavimą pagal šio įstatymo reikalavimus nėra sąlygų, balsavimas neorganizuojamas.
 
-8. Balsavimo komisijų pirmininkai ir nariai už darbą balsavimo komisijose gauna atlyginimą pagal Vyriausiosios rinkimų komisijos pateiktus ir Vyriausybės nustatytus tarifus.
+8. Balsavimo komisijų pirmininkai už darbo dieną balsavimo komisijose gauna 0,31 pareiginės algos (atlyginimo) bazinio dydžio atlyginimą, balsavimo komisijų nariai – 0,25 pareiginės algos (atlyginimo) bazinio dydžio atlyginimą.
 Papildyta straipsnio dalimi:
 Nr. XII-2265, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06347
+Straipsnio dalies pakeitimai:
+Nr. XIII-1775, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21111
  
 
 Straipsnio pakeitimai:
@@ -1853,7 +1877,7 @@ Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
 
 931 straipsnis. Savivaldybės tarybos nario, savivaldybės tarybos nario – mero ir Europos Parlamento nario įgaliojimų nutrūkimas prieš terminą
 
-1. Savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario pareigas einantis asmuo, išrinktas Seimo nariu arba juo tapęs užimdamas laisvą Seimo nario vietą, netenka savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario mandato.
+1. Savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario pareigas einantis asmuo, išrinktas Seimo nariu arba juo tapęs užimdamas laisvą Seimo nario vietą, netenka savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario mandato.
 
 2. Vyriausioji rinkimų komisija per 15 dienų nuo šio straipsnio 1 dalyje nustatyto pagrindo atsiradimo savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario įgaliojimus pripažįsta nutrūkusiais prieš terminą.
 
@@ -2197,4 +2221,19 @@ Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 61 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1581, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18195
 Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 38 ir 41 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1167, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08640
+Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 51 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1588, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18202
+Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 papildymo 1-1 straipsniu įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1775, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21111
+Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 2, 5, 8, 22, 23, 38 ir 68 straipsnių pakeitimo įstatymas
 
