@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/145eb2407c4811e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 1, 10, 42, 58, 59, 60, 61, 63, 65, 65-1, 67, 68, 69, 70, 72, 77-2 straipsnių pakeitimo ir Įstatymo papildymo 61-1 straipsniu, 1 ir 2 priedais įstatymas
 
+Suvestinė redakcija nuo 2018-12-29
+ 
+Įstatymas paskelbtas: TAR 2018-06-30, i. k. 2018-10965
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO NR. VIII-723 1, 10, 42, 58, 59, 60, 61, 63, 65, 651, 67, 68, 69, 70, 72, 772 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 611 STRAIPSNIU, 1 IR 2 PRIEDAIS
 ĮSTATYMAS
@@ -244,22 +251,40 @@ Pakeisti 60 straipsnį ir jį išdėstyti taip:
 
 
 
-4. Profesinės karo tarnybos kariams skiriami: 
+4. Su tarnyba užsienyje susijusių išlaidų kompensacijų koeficientai:
 
 
-1) priedas už atsakomybę. Kariuomenės vadui už atsakomybę mokamas 3,5 bazinio dydžio priedas per mėnesį, Gynybos štabo viršininkui – 3 bazinių dydžių per mėnesį, pajėgų vadams – 2,5 bazinio dydžio per mėnesį, principinėje kariuomenės struktūroje nurodytų nuolatinių kariuomenės junginių vadams – 2 bazinių dydžių per mėnesį, dalinių ir jiems prilygintų karinių vienetų vadams (viršininkams) – 1,5 bazinio dydžio per mėnesį. Šis priedas mokamas ir profesinės karo tarnybos kariams, laikinai einantiems šiame punkte nurodytas pareigas. Jeigu profesinės karo tarnybos karys, kuriam yra skirtas priedas už atsakomybę, laikinai eina kitas šiame punkte nurodytas pareigas, už kurias jam skiriamas didesnis priedas už atsakomybę, šiuo laikotarpiu jam mokamas didesnis priedas;
-
-
-
-
-2) priedas už ypatingą pareigų specifiką. Profesinės karo tarnybos karių tiesiogiai vykdomos pareigos, susijusios su ypatinga pareigų specifika, šias pareigas atitinkančių priedų dydžiai nustatyti šio įstatymo 2 priede. Už profesinės karo tarnybos karių tiesiogiai vykdomas pareigas, susijusias su ypatinga pareigų specifika, mokamas tik vienas šio įstatymo 2 priede nustatyto dydžio priedas. Profesinės karo tarnybos kariams, vykdantiems kelias su ypatinga pareigų specifika susijusias pareigas, už kurias nustatyti skirtingo dydžio priedai, mokamas didesnis priedas. Priedas profesinės karo tarnybos kariams, vykdantiems skrydžius kartu su orlaivio įgula ir krašto apsaugos ministro ar jo įgalioto asmens pasiųstiems atlikti tarnybinės užduoties tarptautinės operacijos vietovėje, didinamas 0,17 bazinio dydžio už kiekvieną tarnybos dieną, kai siunčiama iki 90 kalendorinių dienų laikotarpiui. Priedas profesinės karo tarnybos kariams, vykdantiems pratybas ar kovinį budėjimą kartu su laivo įgula bei atliekantiems tarnybą karinių jūrų pajėgų karo laive, plaukiojančiame Lietuvos Respublikos teritorinėje jūroje ar išskirtinėje ekonominėje zonoje, taip pat kitų valstybių teritorinėje jūroje ar išskirtinėje ekonominėje zonoje arba atviroje jūroje, didinamas 0,2 bazinio dydžio už kiekvieną plaukiojimo dieną (išskyrus dienas, kai įplaukiama į kitų valstybių uostus), kai išplaukiama ne trumpiau kaip vienai kalendorinei dienai. Priedas profesinės karo tarnybos kariams, atliekantiems užduotis, kurioms atlikti reikia ypatingos psichologinės ir fizinės ištvermės, apskaičiuojamas proporcingai nustatytam koeficientui, mėnesio kalendorinių dienų skaičiui ir dienų skaičiui, kai Lietuvos Respublikos teritorijoje tiesiogiai buvo vykdomos užduotys, kurioms atlikti reikia ypatingos psichologinės ir fizinės ištvermės;
+1) generolui leitenantui (viceadmirolui), generolui majorui (kontradmirolui), brigados generolui (flotilės admirolui) – 8,93;
 
 
 
 
-3) priedas už ypatingų karinių specialybių kvalifikacines kategorijas – 2 bazinių dydžių per mėnesį už pirmą kvalifikacinę kategoriją, 1,4 bazinio dydžio per mėnesį už antrą kvalifikacinę kategoriją ir vieno bazinio dydžio per mėnesį už trečią kvalifikacinę kategoriją. Profesinės karo tarnybos kariams, kuriems suteiktos kelios kvalifikacinės kategorijos, už kurias nustatyti skirtingo dydžio priedai, mokamas didesnis priedas. Šio priedo skyrimo tvarką nustato krašto apsaugos ministras. 
+2) pulkininkui (jūrų kapitonui) – 8,15;
 
 
+
+
+3) pulkininkui leitenantui (komandorui), majorui (komandorui leitenantui) – 7,38;
+
+
+
+
+4) kapitonui (kapitonui leitenantui), vyresniajam leitenantui, leitenantui – 6,60;
+
+
+
+
+5) seržantui majorui (vyresniajam laivūnui), viršilai (laivūnui), štabo seržantui (štabo laivūnui), štabo seržantui specialistui (štabo laivūnui specialistui), vyresniajam seržantui, vyresniajam seržantui specialistui, seržantui, seržantui specialistui, grandiniui – 5,82; 
+
+
+
+
+6) jaunesniajam eiliniui (jaunesniajam jūreiviui), eiliniui (jūreiviui), vyresniajam eiliniui (vyresniajam jūreiviui) – 5,05. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1806, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21814
+ 
 
 
 
@@ -284,62 +309,26 @@ Pakeisti 60 straipsnį ir jį išdėstyti taip:
 
 
 
-9. Profesinės karo tarnybos kariams, išskyrus šio straipsnio 10 dalyje nurodytus karius, už pirmus ketverius nepertraukiamos profesinės karo tarnybos metus mokama vienkartinė piniginė išmoka, išskyrus atvejus, kai jų tarnyba įvertinta nepatenkinamai. Į ketverių nepertraukiamos profesinės karo tarnybos metų laikotarpį neįskaitomi laikotarpiai, kai karys buvo perkeltas į laikinąjį profesinės karo tarnybos personalo rezervą šio įstatymo 42 straipsnio 2 dalyje numatytais atvejais. Išmokos dydis apskaičiuojamas pagal bazinį dydį, nustatytą tiems metams, kuriais profesinės karo tarnybos karys įgyja teisę gauti šią išmoką, ir priklauso nuo profesinės karo tarnybos kario žinių ir įgūdžių, reikalingų tarnybai atlikti, įvertinimo rezultatų: 
-
-
-1) 45 bazinių dydžių – profesinės karo tarnybos kariams, kurių tarnyba įvertinta labai gerai;
-
-
-
-
-2) 35 bazinių dydžių – profesinės karo tarnybos kariams, kurių tarnyba įvertinta gerai;
+9. Kai su profesinės karo tarnybos kariu kartu gyvena jo ar jo sutuoktinio vaikai (įvaikiai), taip pat nepilnamečiai išlaikytiniai, kurių globėju ar rūpintoju yra paskirtas profesinės karo tarnybos karys ar jo sutuoktinis, profesinės karo tarnybos kariui kartu su tarnybiniu atlyginimu pagal faktines išlaidas patvirtinančius dokumentus, neviršijant Vyriausybės nustatytų normų, mokama kompensacija vaikų ikimokyklinio ugdymo išlaidoms kompensuoti. Kompensuojamų ikimokyklinio ugdymo išlaidų rūšis ir kompensacijos mokėjimo tvarką nustato krašto apsaugos ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1806, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21814
+ 
 
 
 
 
-3) 20 bazinių dydžių – profesinės karo tarnybos kariams, kurių tarnyba įvertinta patenkinamai. 
+10. Kai su profesinės karo tarnybos kariu kartu gyvena ir mokosi pagal bendrojo ugdymo programas jo ar jo sutuoktinio vaikai (įvaikiai), taip pat nepilnamečiai išlaikytiniai ar kiti išlaikytiniai, kurių globėju ar rūpintoju yra paskirtas profesinės karo tarnybos karys ar jo sutuoktinis, profesinės karo tarnybos kariui kartu su tarnybiniu atlyginimu pagal faktines išlaidas patvirtinančius dokumentus, neviršijant Vyriausybės nustatytų normų, mokama kompensacija jų mokymosi išlaidoms kompensuoti, iki jie įgis vidurinį išsilavinimą. Šioje dalyje nurodyta kompensacija mokama nuo tada, kai vaikams (įvaikiams), išlaikytiniams sueina 6 metai, bet ne ilgiau, iki jiems sueis 20 metų. Kompensuojamų mokymosi išlaidų rūšis ir kompensacijos mokėjimo tvarką nustato krašto apsaugos ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1806, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21814
+ 
 
 
 
 
-
-
-10. Pirmą kartą į pareigas profesinėje karo tarnyboje paskirtiems kariams, baigusiems karo mokymo įstaigą ar Lietuvos aukštąją mokyklą ir karinio rengimo programą Akademijoje, mokama vienkartinė piniginė išmoka, išskyrus atvejus, kai jie įvertinti nepatenkinamai. Išmokos dydis priklauso nuo kariūno vertinimo, kurio tvarką ir kriterijus, vertindamas kariūno mokymosi rezultatus ir gebėjimą tinkamai eiti vadovaujamas pareigas, nustato krašto apsaugos ministras, rezultatų:
-
-
-1) 7,3 bazinio dydžio – įvertinus labai gerai; 
-
-
-
-
-2) 5,5 bazinio dydžio – įvertinus gerai; 
-
-
-
-
-3) 3,3 bazinio dydžio – įvertinus patenkinamai.
-
-
-
-
-
-
-11. Kariams savanoriams ir kitiems aktyviojo rezervo kariams už pirmus ketverius nepertraukiamos tarnybos metus pagal kario savanorio ar aktyviojo rezervo kario sutartį mokama vienkartinė piniginė išmoka, išskyrus atvejus, kai jų tarnyba įvertinta nepatenkinamai. Išmoka skiriama, kai per pirmų ketverių nepertraukiamos tarnybos metų laikotarpį karys savanoris ar kitas aktyviojo rezervo karys kiekvienais metais ištarnauja ne mažiau kaip atitinkamais metais kariuomenės vado nustatytą aktyviojo rezervo karių pratybų ir mokymų laiką, išskyrus ligos, nėštumo ir gimdymo atostogų laikotarpius. Išmokos dydis apskaičiuojamas pagal bazinį dydį, nustatytą tiems metams, kuriais karys savanoris ar kitas aktyviojo rezervo karys įgyja teisę gauti šią išmoką, ir priklauso nuo kario savanorio ar kito aktyviojo rezervo kario žinių ir įgūdžių, reikalingų tarnybai atlikti, įvertinimo rezultatų: 
-
-
-1) 9 bazinių dydžių – kariams savanoriams ir kitiems aktyviojo rezervo kariams, kurių tarnyba įvertinta labai gerai; 
-
-
-
-
-2) 7 bazinių dydžių – kariams savanoriams ir kitiems aktyviojo rezervo kariams, kurių tarnyba įvertinta gerai;
-
-
-
-
-3) 4 bazinių dydžių – kariams savanoriams ir kitiems aktyviojo rezervo kariams, kurių tarnyba įvertinta patenkinamai. 
-
-
+11. Profesinės karo tarnybos karys, atliekantis tarnybą šio įstatymo 42 straipsnio 3 dalyje nustatytais atvejais, ir jo šeimos nariai apdraudžiami sveikatos draudimu. Sveikatos draudimo išlaidos apmokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų, neviršijant Vyriausybės nustatytų dydžių. Valstybėse, kuriose nėra galimybių apdrausti sveikatos draudimu, visos išlaidos, susijusios su profesinės karo tarnybos kario, atliekančio tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, specialiojoje misijoje, atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje, arba jo šeimos narių asmens sveikatos priežiūra, apmokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Šioje dalyje nurodytos sveikatos draudimo ir su asmens sveikatos priežiūra susijusios išlaidos apmokamos krašto apsaugos ministro nustatyta tvarka. Už šeimos narius iš Krašto apsaugos ministerijai skirtų asignavimų taip pat mokamos privalomojo sveikatos draudimo įmokos, jeigu jos turi būti mokamos vadovaujantis Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio 11 dalimi. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1806, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21814
+ 
 
 
 
@@ -349,7 +338,14 @@ Pakeisti 60 straipsnį ir jį išdėstyti taip:
 
 
 
-13. Išmokos, numatytos šio straipsnio 9, 10 ir 11 dalyse, išmokamos per 30 kalendorinių dienų po profesinės karo tarnybos kario, kariūno, kario savanorio ir kito aktyviojo rezervo kario tarnybos vertinimo.“
+13. Išmokos, numatytos šio straipsnio 9, 10 ir 11 dalyse, išmokamos per 30 kalendorinių dienų po profesinės karo tarnybos kario, kariūno, kario savanorio ir kito aktyviojo rezervo kario tarnybos vertinimo.
+
+
+
+
+14. Profesinės karo tarnybos kariui, naudojančiam netarnybinį automobilį tarnybos reikmėms, kompensuojamos degalų įsigijimo ir automobilio amortizacijos išlaidos. Kompensuojamų išlaidų dydį ir kompensavimo atvejus, taip pat automobilio, naudojamo tarnybos reikmėms, nuomos ir veiklos nuomos išlaidų atlyginimo sąlygas, tvarką ir pareigų, kurias einantiems kariams suteikiama teisė nuomotis automobilį, sąrašą nustato krašto apsaugos ministras. Kompensuojamų išlaidų dydis negali viršyti 0,39 Lietuvos statistikos departamento paskutinį kartą paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio per mėnesį.“
+Papildyta straipsnio dalimi:
+Nr. XIII-1806, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21814
  
 
 
@@ -946,7 +942,7 @@ Papildyti Įstatymą 1 priedu:
                                                                                    „Lietuvos Respublikos 
                                                                                    krašto apsaugos sistemos 
                                                                                    organizavimo ir karo tarnybos 
-                                                                                   įstatymo
+                                                                                   įstatymo
                                                                                     1 priedas
  
 profesinės karo tarnybos karių TARNYBINIO ATLYGINIMO KOEFICIENTAI 
@@ -1577,7 +1573,10 @@ profesinės karo tarnybos karių tiesiogiai vykdomos Pareigos, susijusios su ypa
 
 
 
-5. Šio įstatymo 9 straipsnyje išdėstyto Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 61 straipsnis įsigalioja 2019 m. sausio 1 d.
+5. Šio įstatymo 9 straipsnyje išdėstyto Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 61 straipsnis įsigalioja 2019 m. sausio 1 d. Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 61 straipsnio 14 dalyje numatytas 0,39 Lietuvos statistikos departamento paskutinį kartą paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio per mėnesį dydis pradedamas taikyti, kai Lietuvos statistikos departamentas paskelbia 2019 metų I ketvirčio šalies ūkio vidutinį mėnesinį bruto darbo užmokestį per mėnesį. Iki bus paskelbtas Lietuvos statistikos departamento 2019 metų I ketvirčio šalies ūkio vidutinis mėnesinis bruto darbo užmokestis per mėnesį, maksimaliam kompensuojamų išlaidų dydžiui nustatyti taikomas 0,5 Lietuvos statistikos departamento paskutinį kartą paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio per mėnesį dydis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1806, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21814
+ 
 
 
 
@@ -1615,3 +1614,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1806, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21814
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 1, 10, 42, 58, 59, 60, 61, 63, 65, 65-1, 67, 68, 69, 70, 72, 77-2 straipsnių pakeitimo ir Įstatymo papildymo 61-1 straipsniu, 1 ir 2 priedais įstatymo Nr. XIII-1312 9 ir 24 straipsnių pakeitimo įstatymas
