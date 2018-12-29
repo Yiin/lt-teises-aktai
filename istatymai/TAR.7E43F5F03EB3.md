@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/7e43f5f03eb311e6a8ae9e1795984391"
 
 # Lietuvos Respublikos apylinkių teismų įsteigimo įstatymo Nr. I-2375 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-28
+Suvestinė redakcija nuo 2018-12-29
  
 Įstatymas paskelbtas: TAR 2016-06-30, i. k. 2016-17973
  
@@ -452,79 +452,18 @@ Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
 2 straipsnis. Įstatymo įsigaliojimas
 
 
-1. Šis įstatymas įsigalioja 2018 m. sausio 1 d.
-
-
-
-
-2. 2019 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos apylinkių teismų įsteigimo ir jų veiklos teritorijų nustatymo įstatymo 1 straipsnio 11 punkto redakcija:
-
-
-
-
-„11) Vilniaus regiono apylinkės teismas. Šį teismą sudaro Vilniaus regiono apylinkės teismo Elektrėnų rūmai, Vilniaus regiono apylinkės teismo Šalčininkų rūmai, Vilniaus regiono apylinkės teismo Širvintų rūmai, Vilniaus regiono apylinkės teismo Švenčionių rūmai, Vilniaus regiono apylinkės teismo Trakų rūmai, Vilniaus regiono apylinkės teismo Ukmergės rūmai ir Vilniaus regiono apylinkės teismo Vilniaus rajono rūmai; šio teismo buveinė yra Vilniaus regiono apylinkės teismo Vilniaus rajono rūmuose;“.
-
-
-
-
-
-
-
-
-3. 2019 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos apylinkių teismų įsteigimo ir jų veiklos teritorijų nustatymo įstatymo 2 straipsnio 11 dalies redakcija:
-
-
-
-
-„11. Vilniaus regiono apylinkės teismo veiklos teritorija apima Elektrėnų savivaldybės teritoriją, Šalčininkų rajono savivaldybės teritoriją, Širvintų rajono savivaldybės teritoriją, Švenčionių rajono savivaldybės teritoriją, Trakų rajono savivaldybės teritoriją, Ukmergės rajono savivaldybės teritoriją ir Vilniaus rajono savivaldybės teritoriją. Vilniaus regiono apylinkės teismą sudarančių teismo rūmų veiklos teritorijos apima:
-
-
-1) Elektrėnų rūmų veiklos teritorija – Elektrėnų savivaldybės teritoriją;
-
-
-
-
-2) Šalčininkų rūmų veiklos teritorija – Šalčininkų rajono savivaldybės teritoriją;
-
-
-
-
-3) Širvintų rūmų veiklos teritorija – Širvintų rajono savivaldybės teritoriją;
-
-
-
-
-4) Švenčionių rūmų veiklos teritorija – Švenčionių rajono savivaldybės teritoriją;
-
-
-
-
-5) Trakų rūmų veiklos teritorija – Trakų rajono savivaldybės teritoriją;
-
-
-
-
-6) Ukmergės rūmų veiklos teritorija – Ukmergės rajono savivaldybės teritoriją;
-
-
-
-
-7) Vilniaus rajono rūmų veiklos teritorija – Vilniaus rajono savivaldybės teritoriją.“
-
-
-
-
-
-
+Šis įstatymas įsigalioja 2018 m. sausio 1 d.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
+Nr. XIII-1832, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21852
  
 
 
 
 
+ 
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
@@ -541,3 +480,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
 Lietuvos Respublikos apylinkių teismų įsteigimo įstatymo Nr. I-2375 pakeitimo įstatymo Nr. XII-2476 pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1832, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21852
+Lietuvos Respublikos apylinkių teismų įsteigimo įstatymo Nr. I-2375 pakeitimo įstatymo Nr. XII-2476 2 straipsnio pakeitimo įstatymas
