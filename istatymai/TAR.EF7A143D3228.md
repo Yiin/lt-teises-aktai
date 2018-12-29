@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EF7A143D3228"
 
 # Lietuvos Respublikos apylinkių teismų įsteigimo ir jų veiklos teritorijų nustatymo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-28
+Suvestinė redakcija nuo 2018-12-29 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1992, Nr. 10-240, i. k. 0921010ISTA00I-2375
  
@@ -427,7 +427,7 @@ Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
  
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS 
-PIRMININKAS                                                                                  VYTAUTAS LANDSBERGIS
+PIRMININKAS                                                                                    VYTAUTAS LANDSBERGIS
  
 Vilnius, 1992 m. kovo 12 d. 
 Nr. I-2375
@@ -469,3 +469,8 @@ Lietuvos Respublikos apylinkių teismų įsteigimo įstatymo Nr. I-2375 pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-967, 2017-12-21, paskelbta TAR 2017-12-27, i. k. 2017-21329
 Lietuvos Respublikos apylinkių teismų įsteigimo įstatymo Nr. I-2375 pakeitimo įstatymo Nr. XII-2476 pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1832, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21852
+Lietuvos Respublikos apylinkių teismų įsteigimo įstatymo Nr. I-2375 pakeitimo įstatymo Nr. XII-2476 2 straipsnio pakeitimo įstatymas
