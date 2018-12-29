@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS KRIMINALINĖS ŽVALGYBOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2018-11-01 iki 2018-12-28
+Suvestinė redakcija nuo 2018-12-29 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 122-6093, i. k. 1121010ISTA0XI-2234
  
@@ -553,12 +553,13 @@ KRIMINALINĖS ŽVALGYBOS TYRIMAS
 1. Kriminalinės žvalgybos tyrimas atliekamas, kai:
 
 
-1) turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 ir 3 dalyse, 1511, 153, 172, 173, 174 ir 175 straipsniuose, 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 1821 straipsnyje, 187 straipsnio 2 dalyje, 189 straipsnio 2 dalyje, 1891 straipsnyje, 198 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 1 dalyje, 226 straipsnio 1 ir 2 dalyse, 227 straipsnio 1 ir 2 dalyse, 228 straipsnio 1 dalyje, 2281, 240, 2501 ir 2503 straipsniuose, 251 straipsnio 1 dalyje, 253 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 266 straipsnio 2 dalyje, 300 straipsnio 2 ir 3 dalyse, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, 309 straipsnio 3 dalyje, arba apie šias veikas rengiančius, darančius ar padariusius asmenis;
+1) turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 ir 3 dalyse, 1511, 153, 172, 173, 174 ir 175 straipsniuose, 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 1821 straipsnyje, 187 straipsnio 2 dalyje, 189 straipsnio 2 dalyje, 1891 straipsnyje, 198 straipsnio 2 dalyje, 199 straipsnio 1 dalyje, 1991 straipsnio 1 dalyje, 1992 straipsnio 1 dalyje, 200 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 1 dalyje, 226 straipsnio 1 ir 2 dalyse, 227 straipsnio 1 ir 2 dalyse, 228 straipsnio 1 dalyje, 2281, 240, 2501 ir 2503 straipsniuose, 251 straipsnio 1 dalyje, 253 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 266 straipsnio 2 dalyje, 300 straipsnio 2 ir 3 dalyse, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, 309 straipsnio 3 dalyje, arba apie šias veikas rengiančius, darančius ar padariusius asmenis;
 Straipsnio punkto pakeitimai:
 Nr. XI-2394, 2012-11-08, Žin., 2012, Nr. 133-6760 (2012-11-17), i. k. 1121010ISTA0XI-2394
 Nr. XII-730, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00066
 Nr. XII-778, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03569
 Nr. XII-2590, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20304
+Nr. XIII-1837, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21860
  
 
 
@@ -1612,3 +1613,8 @@ Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1502, 2018-09-27, paskelbta TAR 2018-10-04, i. k. 2018-15801
 Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 5 ir 22 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1837, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21860
+Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo įstatymas
