@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.23C5BC14E2B6"
 
 # Lietuvos Respublikos karo policijos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-12-28
+Suvestinė redakcija nuo 2018-12-29 iki 2018-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 98-2713, i. k. 0981010ISTAVIII-911
  
@@ -58,7 +58,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Sąvoka „karinė teritorija“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme. Sąvoka „policija“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos policijos veiklos įstatyme.
+4. Sąvoka „karinė teritorija“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme. Sąvoka „policija“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos policijos įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1814, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21834
+ 
 
 
 Straipsnio pakeitimai:
@@ -874,3 +877,8 @@ Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 papildymo penktuoju-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2522, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20280
 Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 15 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1814, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21834
+Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 2 ir 6 straipsnių pakeitimo įstatymas
