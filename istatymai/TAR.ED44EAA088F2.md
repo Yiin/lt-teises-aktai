@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ed44eaa088f211e8af589337bf1eb893"
 
 # Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 6, 13, 18, 22, 24, 26, 29-1, 30, 31-1, 38, 45 ir 46 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2018-12-29
+ 
+Įstatymas paskelbtas: TAR 2018-07-16, i. k. 2018-12038
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VYRIAUSYBĖS ĮSTATYMO NR. I-464 6, 13, 18, 22, 24, 26, 291, 30, 311, 38, 45 IR 46 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -342,6 +349,28 @@ Pakeisti 291 straipsnį ir jį išdėstyti taip:
 
 
 
+81 straipsnis. 31 straipsnio pakeitimas
+
+
+Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
+
+
+
+
+„1. Ministro politinio (asmeninio) pasitikėjimo valstybės tarnautojai – viceministrai, ministerijos kancleris, ministro patarėjas (patarėjai), ministro atstovas spaudai ir kiti ministro politinio (asmeninio) pasitikėjimo valstybės tarnautojai – padeda ministrui suformuoti politines nuostatas ir prioritetus, priimti sprendimus ir juos įgyvendinti.“
+
+
+
+
+
+
+Papildyta straipsniu:
+Nr. XIII-1804, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21812
+ 
+
+
+
+
 9 straipsnis. 311 straipsnio pakeitimas
 
 
@@ -350,7 +379,10 @@ Pakeisti 291 straipsnį ir jį išdėstyti taip:
 
 
 
-„1. Ministerijos kancleris yra karjeros valstybės tarnautojas, ministerijos administracijos vadovas, pavaldus ministrui. Užsienio reikalų ministerijos kancleris gali būti ir diplomatas. Ministerijos kanclerį ketverių metų kadencijai konkurso būdu Valstybės tarnybos įstatymo nustatyta tvarka priima į pareigas ir atleidžia iš jų ministras arba, kai Užsienio reikalų ministerijos kancleriu skiriamas diplomatas, – jį ketverių metų kadencijai į pareigas skiria ir iš jų atšaukia užsienio reikalų ministras. Ministerijos kancleris gali būti priimamas (ar skiriamas) eiti tos pačios ministerijos kanclerio pareigas ne daugiau kaip dvi kadencijas iš eilės.“
+„1. Ministerijos kancleris yra politinio (asmeninio) pasitikėjimo valstybės tarnautojas, ministerijos administracijos vadovas, kurį priima į pareigas ir atleidžia iš jų ministras. Užsienio reikalų ministerijos kancleris gali būti ir diplomatas.“
+Straipsnio dalies pakeitimai:
+Nr. XIII-1804, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21812
+ 
 
 
 
@@ -514,7 +546,10 @@ Pakeisti 46 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
-3. Iki šio įstatymo įsigaliojimo į pareigas neterminuotai priimtiems ministerijų kancleriams nuo šio įstatymo įsigaliojimo nustatoma ketverių metų kadencija eiti atitinkamos ministerijos kanclerio pareigas ir laikoma pirma kadencija.
+3. Ministerijos kancleris, iki šio įstatymo įsigaliojimo neterminuotai priimtas į pareigas ir šio įstatymo įsigaliojimo dieną ėjęs ministerijos kanclerio pareigas, atleidžiamas įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1804, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21812
+ 
 
 
 
@@ -532,3 +567,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                          Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1804, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21812
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 6, 13, 18, 22, 24, 26, 29-1, 30, 31-1, 38, 45 ir 46 straipsnių pakeitimo įstatymo Nr. XIII-1371 9 ir 13 straipsnių pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas
