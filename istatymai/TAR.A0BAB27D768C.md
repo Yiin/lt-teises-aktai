@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
  
@@ -725,7 +725,7 @@ PirmasIS skirsnis
 ĮSTATYMŲ LEIDYBA 
  
 Seimas rūpinasi, kad būtų laiku priimti nacionaliniam saugumui užtikrinti būtini įstatymai, kiti teisės aktai, galiojančių įstatymų papildymai ir pakeitimai. 
-Seimas, atsižvelgdamas į ilgalaikius nacionalinio saugumo užtikrinimo poreikius, Valstybės gynimo tarybos nutarimus, įstatymu reglamentuoja krašto apsaugos sistemą, taip pat kiekvienais metais įstatymu nustato kitų metų principinę kariuomenės struktūrą ir ribinius karių, statutinių krašto apsaugos sistemos tarnautojų ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ir kiekvieno laipsnio vyresniųjų karininkų, generolų ir admirolų skaičius, taip pat principinės kariuomenės struktūros 6 metų planavimo gaires, karių, civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ribinius skaičius.
+Seimas, atsižvelgdamas į ilgalaikius nacionalinio saugumo užtikrinimo poreikius, Valstybės gynimo tarybos nutarimus, įstatymu reglamentuoja krašto apsaugos sistemą, taip pat kiekvienais metais įstatymu nustato kitų metų principinę kariuomenės struktūrą ir ribinius karių ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ir kiekvieno laipsnio vyresniųjų karininkų, generolų ir admirolų skaičius, taip pat principinės kariuomenės struktūros 6 metų planavimo gaires, karių ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ribinius skaičius.
 Seimas įgyvendina nacionalinio saugumo pagrindų nuostatas sukurdamas teisinę nacionalinio saugumo ir gynybos bazę – įstatymais reglamentuoja nacionalinį saugumą užtikrinančių institucijų veiklą.
 Skirsnio pakeitimai:
 Nr. VIII-1997, 2000 10 10, Žin., 2000, Nr. 92-2849 (2000 10 31)
@@ -735,6 +735,7 @@ Nr. XI-1515, 2011-06-23, Žin., 2011, Nr. 86-4157 (2011-07-13)
 Skirsnio pakeitimai:
 Nr. XII-2428, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17525
 Nr. XIII-621, 2017-07-11, paskelbta TAR 2017-07-20, i. k. 2017-12472
+Nr. XIII-1812, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21827
  
 
 
@@ -1093,4 +1094,9 @@ Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 pried�
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1004, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01017
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1812, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21827
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
