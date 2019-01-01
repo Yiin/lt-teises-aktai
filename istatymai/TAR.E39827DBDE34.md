@@ -15,17 +15,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E39827DBDE34"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2018-11-13 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 253-0; Žin. 1993, Nr.2-29, i. k. 0921010ISTA0000I-28
  
 Nauja įstatymo redakcija nuo 2013-11-23:
 Nr. XII-586, 2013-11-07, Žin., 2013, Nr. 120-6055 (2013-11-23)
  
-LIETUVOS RESPUBLIKOS
-PREZIDENTO RINKIMŲ
-ĮSTATYMAS 
- 
+LIETUVOS RESPUBLIKOS PREZIDENTO RINKIMŲ ĮSTATYMAS 
  
  
 
@@ -339,7 +336,10 @@ Tepadeda man Dievas.“;
 
 2. Valstybės ir savivaldybių institucijos ir įstaigos ne vėliau kaip per 3 dienas privalo apsvarstyti rinkimų komisijų pateiktus prašymus ir duoti rinkimų komisijoms motyvuotus atsakymus.
 
-3. Pagalbiniams darbams atlikti Vyriausioji rinkimų komisija gali įdarbinti darbuotojus pagal darbo sutartį. Darbo sutartis pasirašo Vyriausiosios rinkimų komisijos pirmininkas arba jo įgalioti asmenys. Atlyginimo už darbą darbuotojams, dirbantiems pagal darbo sutartis, tvarką ir atlyginimo dydžius Vyriausiosios rinkimų komisijos teikimu nustato Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė).
+3. Pagalbiniams darbams atlikti Vyriausioji rinkimų komisija gali įdarbinti darbuotojus pagal terminuotą darbo sutartį. Darbo sutartis pasirašo Vyriausiosios rinkimų komisijos pirmininkas arba jo įgalioti asmenys. Šių darbuotojų darbo užmokestis nustatomas terminuotoje darbo sutartyje pagal Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatyme nustatytus darbo apmokėjimo dydžius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
+ 
 
 4. Valstybės ir savivaldybių institucijos ir įstaigos privalo suteikti rinkimų komisijoms rinkimams organizuoti ir vykdyti tinkamas patalpas, įrangą, kompiuterinę techniką ir interneto ryšį. Rinkimams suteikiamos balsavimo patalpos ir patekimas į jas turi būti tinkamos judėjimo, regėjimo negalią turintiems ir senyvo amžiaus rinkėjams.
 
@@ -368,11 +368,26 @@ Tepadeda man Dievas.“;
 
 21 straipsnis. Rinkimų komisijų narių darbo apmokėjimas 
 
-1. Rinkimų komisijų pirmininkai, jų pavaduotojai, nariai ir sekretoriai už darbą rinkimų komisijose gauna atlyginimą pagal Vyriausiosios rinkimų komisijos pateiktus ir Vyriausybės patvirtintus tarifus.
+1. Už darbo dieną rinkimų komisijose nustatomas atlyginimas pagal šiuos tarifus:
 
-2. Rinkimų komisijų pirmininkams, jų pavaduotojams, nariams ir sekretoriams už darbą rinkimų komisijose apmokama pagal darbo laiko apskaitos žiniaraščių duomenis neviršijant atitinkamai rinkimų komisijai numatytų asignavimų darbo užmokesčiui. Darbo laiko apskaitos žiniaraščių rinkimų komisijose pildymo tvarką nustato Vyriausioji rinkimų komisija. Už darbo laiko apskaitos žiniaraščiuose pateiktų duomenų teisingumą atsako atitinkamos rinkimų komisijos pirmininkas. Darbui rinkimų komisijose netaikomi Lietuvos Respublikos darbo kodekse nustatyti darbo trukmės apribojimai.
+1) savivaldybių rinkimų komisijų pirmininkams – 0,31 Lietuvos Respublikos Seimo patvirtinto atitinkamų metų pareiginės algos (atlyginimo) bazinio dydžio, kuris taikomas apskaičiuojant valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareigines algas (toliau – pareiginės algos bazinis dydis);
 
-3. Rinkimų komisijų pirmininkų, jų pavaduotojų ir narių skatinimo tvarkos aprašą Vyriausiosios rinkimų komisijos teikimu tvirtina Vyriausybė.
+2) savivaldybių rinkimų komisijų pirmininkų pavaduotojams, komisijų sekretoriams ir komisijų nariams – 0,25 pareiginės algos bazinio dydžio;
+
+3) apylinkių rinkimų komisijų pirmininkams – 0,25 pareiginės algos bazinio dydžio; 
+
+4) apylinkių rinkimų komisijų pirmininkų pavaduotojams, komisijų sekretoriams ir komisijų nariams – 0,2 pareiginės algos bazinio dydžio.
+
+2. Rinkimų komisijų pirmininkams, jų pavaduotojams, nariams ir sekretoriams už darbą rinkimų komisijose atlyginama pagal darbo laiko apskaitos žiniaraščių duomenis, neviršijant atitinkamai rinkimų komisijai numatytų asignavimų darbo užmokesčiui. Darbo laiko apskaitos žiniaraščių rinkimų komisijose pildymo tvarką nustato Vyriausioji rinkimų komisija. Už darbo laiko apskaitos žiniaraščiuose pateiktų duomenų teisingumą atsako atitinkamos rinkimų komisijos pirmininkas. Darbui rinkimų komisijose netaikomi Lietuvos Respublikos darbo kodekse nustatyti darbo trukmės ribojimai.
+
+3. Rinkimų komisijų nariai, pirmininkai, pirmininko pavaduotojai ir komisijų sekretoriai už labai gerą darbą rinkimų komisijose gali būti skatinami vienkartine pinigine išmoka. Ši išmoka negali būti didesnė kaip 100 procentų per visą darbo rinkimų komisijose laikotarpį gautų mėnesinių atlyginimų vidurkio, neviršijant atitinkamos komisijos išlaidų sąmatoje skatinimui numatytų lėšų. Vienkartinės piniginės išmokos dydis nustatomas atsižvelgiant į atlikto darbo mastą, kokybę ir sudėtingumą.
+
+4. Sprendimą dėl savivaldybių rinkimų komisijų pirmininkų skatinimo priima Vyriausioji rinkimų komisija, atsižvelgdama į jų atliktą darbą organizuojant ir vykdant rinkimus ir atsiskaitymą už komisijoms skirtų lėšų panaudojimą. Šių komisijų pirmininkų pavaduotojai, komisijų nariai ir komisijų sekretoriai gali būti skatinami vienkartine pinigine išmoka Vyriausiosios rinkimų komisijos sprendimu, jeigu yra savivaldybės rinkimų komisijos pirmininko teikimas.
+
+5. Sprendimus dėl apylinkių rinkimų komisijų pirmininkų skatinimo priima savivaldybių rinkimų komisijos, atsižvelgdamos į jų atliktą darbą organizuojant ir vykdant rinkimus. Šių komisijų pirmininkų pavaduotojai, komisijų nariai ir komisijų sekretoriai gali būti skatinami vienkartine pinigine išmoka atitinkamos savivaldybės rinkimų komisijos sprendimu, jeigu yra apylinkės rinkimų komisijos pirmininko teikimas.
+
+Straipsnio pakeitimai:
+Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
  
 
 22 straipsnis. Rinkimų komisijų sudėties keitimas
@@ -455,7 +470,10 @@ Nr. XIII-1572, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18178
 
 28 straipsnis. Rinkėjo kortelė
 
-1. Rinkėjo kortelė yra informacinė pažyma rinkėjui apie rinkimus, vardinis pakvietimas dalyvauti rinkimuose. Rinkėjo korteles kartu su kita informacija apie rinkimus rinkėjams perduoda ar organizuoja jų perdavimą rinkimų komisijos. Savo rinkėjo kortelę gali išsispausdinti ar surašyti ir pats rinkėjas arba jo prašymu kitas asmuo pagal Lietuvos Respublikos rinkėjų sąrašo duomenis, gautus Vyriausiosios rinkimų komisijos nustatyta tvarka. Rinkėjo kortelę pasirašo pats rinkėjas, išskyrus atvejus, kai dėl fizinio trūkumo, ligos ar kitokių priežasčių rinkėjas pats pasirašyti negali ir rinkėjo kortelę pasirašo kitas rinkėjo pasirinktas asmuo, nurodydamas savo vardą, pavardę ir asmens kodą. Rinkėjo kortelių blankus, kuriuos rinkėjas gali užpildyti pats, platina rinkimų komisijos. Rinkėjo kortelė būtina tik tais atvejais, kai rinkėjas balsuoja ne rinkimų dieną ne rinkimų apylinkėje.
+1. Rinkėjo kortelė yra informacinė pažyma rinkėjui apie rinkimus, vardinis pakvietimas dalyvauti rinkimuose. Rinkėjo korteles kartu su kita informacija apie rinkimus rinkėjams perduoda ar organizuoja jų perdavimą rinkimų komisijos. Savo rinkėjo kortelę gali išsispausdinti ar surašyti ir pats rinkėjas arba jo prašymu kitas asmuo pagal Lietuvos Respublikos rinkėjų sąrašo duomenis, gautus Vyriausiosios rinkimų komisijos nustatyta tvarka. Rinkėjo kortelę pasirašo pats rinkėjas, išskyrus atvejus, kai dėl neįgalumo ar kitokių priežasčių rinkėjas pats pasirašyti negali ir rinkėjo kortelę pasirašo kitas rinkėjo pasirinktas asmuo, nurodydamas savo vardą, pavardę ir asmens kodą. Rinkėjo kortelių blankus, kuriuos rinkėjas gali užpildyti pats, platina rinkimų komisijos. Rinkėjo kortelė būtina tik tais atvejais, kai rinkėjas balsuoja ne rinkimų dieną ne rinkimų apylinkėje.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
+ 
 
 2. Rinkėjo kortelėje nurodoma:
 
@@ -592,7 +610,7 @@ Nr. XIII-1572, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18178
 1. Konstitucijos 79 straipsnyje nustatyti ne mažiau kaip 20 tūkstančių rinkėjų parašai renkami rinkėjų parašų rinkimo lape, kuriame yra šis tekstas:
 
 „Aš, Lietuvos Respublikos pilietis (pilietė), patvirtinu, kad remiu 
-_______________________________________________________________________ (asmens vardas ir pavardė)
+________________________________________________________________________________ (asmens vardas ir pavardė)
 pareiškimą dalyvauti ________ m. ________________ __ d. rinkimuose kandidatu į Respublikos Prezidentus. 
  
 
@@ -608,7 +626,10 @@ pareiškimą dalyvauti ________ m. ________________ __ d. rinkimuose kandidatu �
 
 2. Rinkėjų parašų rinkimo lapo pabaigoje nurodomas asmens, rinkusio parašus, vardas, pavardė, Lietuvos Respublikos pilietybę patvirtinančio dokumento serija, numeris, nuolatinė gyvenamoji vieta, parašas.
 
-3. Visus duomenis rinkėjų parašų rinkimo lape pasirašantis rinkėjas užpildo pats ir pasirašo. Jeigu rinkėjas dėl fizinio trūkumo, ligos ar kitokių priežasčių negali pats įrašyti savo duomenų ir pasirašyti, jo prašymu tą padaro kitas asmuo. Šis faktas turi būti pažymimas atitinkamu įrašu rinkėjų parašų rinkimo lape ir patvirtinamas rinkėjų parašus rinkusio asmens parašu. Šis asmuo turi patikrinti pasirašančio asmens tapatybę, taip pat ar pasirašantis asmuo teisingai įrašė savo duomenis. Rinkėjas gali paremti kiekvieną kandidatą į Respublikos Prezidentus tik po vieną kartą.
+3. Visus duomenis rinkėjų parašų rinkimo lape pasirašantis rinkėjas užpildo pats ir pasirašo. Jeigu rinkėjas dėl neįgalumo ar kitokių priežasčių negali pats įrašyti savo duomenų ir pasirašyti, jo prašymu tą padaro kitas asmuo. Šis faktas turi būti pažymimas atitinkamu įrašu rinkėjų parašų rinkimo lape ir patvirtinamas rinkėjų parašus rinkusio asmens parašu. Šis asmuo turi patikrinti pasirašančio asmens tapatybę, taip pat ar pasirašantis asmuo teisingai įrašė savo duomenis. Rinkėjas gali paremti kiekvieną kandidatą į Respublikos Prezidentus tik po vieną kartą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
+ 
 
 4. Rinkėjų parašų rinkimo lapus išduoda Vyriausioji rinkimų komisija tiesiogiai asmenims, raštu pareiškusiems apie dalyvavimą rinkimuose kandidatais į Respublikos Prezidentus, o šių asmenų prašymu – jų nurodytiems asmenims. 
 
@@ -877,7 +898,9 @@ Rinkimų dieną balsavimo patalpa atidaroma tik susirinkus joje ne mažiau kaip 
 
 4. Jeigu rinkėjas, sugadinęs rinkimų biuletenį, prašo, sugadintas rinkimų biuletenis apylinkės rinkimų komisijos sprendimu pakeičiamas nauju. Rinkimų komisijos pirmininkas sugadintą rinkimų biuletenį perbraukia rašaliniu parkeriu (šratinuku) ir ant jo pasirašo. Ant sugadinto rinkimų biuletenio taip pat pasirašo rinkimų komisijos sekretorius ir vienas iš komisijos narių. Sugadinti rinkimų biuleteniai laikomi atskirai.
 
-5. Jeigu rinkėjas dėl fizinio trūkumo, ligos ar kitokių priežasčių negali pats atlikti šiame straipsnyje nurodytų veiksmų, jo prašymu rinkimų biuletenius užpildo pasirinktas kitas asmuo. Šis asmuo privalo rinkimų biuletenius užpildyti rinkėjo akivaizdoje ir pagal jo nurodymą, išsaugoti balsavimo paslaptį ir rinkėjo akivaizdoje įmesti biuletenį į balsadėžę. Rinkimų komisijos pirmininkui, nariams, rinkimų stebėtojams ir atstovams rinkimams draudžiama atlikti balsavimo veiksmus už asmenį, kuris šių veiksmų negali atlikti dėl fizinio trūkumo, ligos ar kitokių priežasčių.
+5. Jeigu rinkėjas dėl neįgalumo ar kitokių priežasčių negali pats atlikti šiame straipsnyje nurodytų veiksmų, jo prašymu rinkimų biuletenius užpildo pasirinktas kitas asmuo. Šis asmuo privalo rinkimų biuletenius užpildyti rinkėjo akivaizdoje ir pagal jo nurodymą, išsaugoti balsavimo paslaptį ir rinkėjo akivaizdoje įmesti biuletenį į balsadėžę. Rinkimų komisijos pirmininkui, nariams, rinkimų stebėtojams ir atstovams rinkimams draudžiama atlikti balsavimo veiksmus už asmenį, kuris šių veiksmų negali atlikti dėl neįgalumo ar kitokių priežasčių.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
  
 
 57 straipsnis. Balsavimas specialiuose balsavimo punktuose
@@ -900,7 +923,10 @@ Rinkimų dieną balsavimo patalpa atidaroma tik susirinkus joje ne mažiau kaip 
 
 3) užklijuoja vidinį balsavimo voką.
 
-7. Šio straipsnio 6 dalyje nurodytus veiksmus rinkėjas atlieka pats. Jeigu rinkėjas dėl fizinio trūkumo, ligos ar kitokių priežasčių šių veiksmų pats atlikti negali, jo prašymu juos atlieka rinkėjo pasirinktas asmuo. Šis asmuo rinkimų biuletenį privalo užpildyti rinkėjo akivaizdoje pagal jo nurodymą ir išsaugoti balsavimo paslaptį.
+7. Šio straipsnio 6 dalyje nurodytus veiksmus rinkėjas atlieka pats. Jeigu rinkėjas dėl neįgalumo ar kitokių priežasčių šių veiksmų pats atlikti negali, jo prašymu juos atlieka rinkėjo pasirinktas asmuo. Šis asmuo rinkimų biuletenį privalo užpildyti rinkėjo akivaizdoje pagal jo nurodymą ir išsaugoti balsavimo paslaptį.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
+ 
 
 8. Vidinį balsavimo voką kartu su rinkėjo kortele rinkėjas ar jo prašymu jo pasirinktas asmuo įdeda į išorinį balsavimo voką. Užklijuotą išorinį balsavimo voką (su jame esančia rinkėjo kortele, vidiniu balsavimo voku ir ten esančiu biuleteniu) rinkėjas įteikia apylinkės rinkimų komisijos nariui. Apylinkės rinkimų komisijos narys, gavęs rinkėjo įteiktą voką, rinkėjo akivaizdoje jį užklijuoja specialiu ženklu ir išduoda rinkėjui šio voko priėmimo kvitą.
 
@@ -954,7 +980,10 @@ Nr. XIII-1572, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18178
 
 7. Laivuose, kuriuose organizuoti balsavimą pagal šio įstatymo reikalavimus nėra sąlygų, balsavimas neorganizuojamas.
 
-8. Balsavimo komisijų pirmininkai ir nariai už darbą balsavimo komisijose gauna atlyginimą pagal Vyriausiosios rinkimų komisijos pateiktus ir Vyriausybės nustatytus tarifus.
+8. Balsavimo komisijų pirmininkai už darbo dieną balsavimo komisijose gauna 0,31 pareiginės algos (atlyginimo) bazinio dydžio atlyginimą, balsavimo komisijų nariai – 0,25 pareiginės algos (atlyginimo) bazinio dydžio atlyginimą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
+ 
 
 9. Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos vadovas arba užsienio reikalų ministras, suderinęs su Vyriausiąja rinkimų komisija, į Lietuvos Respublikos diplomatinę atstovybę ar konsulinę įstaigą arba papildomą balsavimo vietą užsienyje prie Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos balsavimui joje organizuoti gali siųsti balsavimo komisijos narius (atitinkamai – Užsienio reikalų ministerijos ir Lietuvos Respublikos diplomatinių atstovybių, konsulinių įstaigų darbuotojus). Šios ir kitos išlaidos, susijusios su balsavimo organizavimu, yra apmokamos iš Vyriausiajai rinkimų komisijai skirtų valstybės biudžeto lėšų rinkimams organizuoti ir vykdyti. Vyriausioji rinkimų komisija su Užsienio reikalų ministerija pasirašo valstybės biudžeto lėšų rinkimams organizuoti naudojimo sutartį. 
 
@@ -972,7 +1001,10 @@ Nr. XIII-1572, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18178
 
 4. Rinkėjai, neturintys judėjimo sutrikimų, balsuoja šio įstatymo 57 straipsnio 6 ir 7 dalyse nustatyta tvarka. Pas rinkėjus, turinčius judėjimo sutrikimų, atvyksta ne mažiau kaip du apylinkės rinkimų komisijos nariai, rinkimų stebėtojai (jeigu jie pageidauja).
 
-5. Rinkėjai, kurie dėl fizinio trūkumo, ligos ar kitokių priežasčių negali patys atlikti balsavimo veiksmų, gali pavesti juos atlikti kitiems asmenims. Šie asmenys rinkimų biuletenį privalo užpildyti rinkėjo akivaizdoje pagal jo nurodymą ir išsaugoti balsavimo paslaptį.
+5. Rinkėjai, kurie dėl neįgalumo ar kitokių priežasčių negali patys atlikti balsavimo veiksmų, gali pavesti juos atlikti kitiems asmenims. Šie asmenys rinkimų biuletenį privalo užpildyti rinkėjo akivaizdoje pagal jo nurodymą ir išsaugoti balsavimo paslaptį.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
+ 
 
 6. Komisijos nariams ir rinkimų stebėtojams draudžiama už rinkėją atlikti balsavimo veiksmus, taip pat priimti iš rinkėjo neužklijuotą išorinį balsavimo voką.
 
@@ -1029,9 +1061,15 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-1572, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18178
  
 
-2. Balsuoti iš anksto gali rinkėjai, kurie rinkimų dieną negali atvykti balsuoti į rinkimų apylinkę. Rinkėjų balsavimą iš anksto organizuoja savivaldybių rinkimų komisijos. Balsavimas iš anksto turi vykti nuo 8 iki 20 valandos paskutinį trečiadienį ir ketvirtadienį iki rinkimų dienos iš anksto parengtose ir balsavimui tinkamose patalpose, esančiose pastate, kuriame yra tos savivaldybės mero (administracijos direktoriaus) darbo vieta. Rinkimų biuleteniams ir balsavimo vokams išduoti ir priimti balsuojant iš anksto savivaldybės rinkimų komisijos pirmininkas paskiria ne mažiau kaip du savivaldybės rinkimų komisijos ar apylinkių rinkimų komisijų narius, kurie negali būti pasiūlyti tos pačios politinės partijos. Balsavimą iš anksto prižiūri savivaldybės rinkimų komisijos pirmininkas ar jo pavedimu savivaldybės rinkimų komisijos narys. Vyriausiosios rinkimų komisijos pirmininkas, jo įgaliotas šios komisijos narys ar savivaldybės rinkimų komisijos pirmininkas, Vyriausiosios rinkimų komisijos nustatyta tvarka nustatę rinkėjų papirkimo, pavėžėjimo balsuoti, skatinimo balsuoti už atlygį ar kitus rinkėjų teises šiurkščiai pažeidžiančius atvejus, privalo sustabdyti balsavimą iš anksto, iki pažeidimai bus pašalinti ir rinkimus bus galima vykdyti laisvai ir demokratiškai pagal šio įstatymo reikalavimus. 
+2. Balsuoti iš anksto gali rinkėjai, kurie rinkimų dieną negali atvykti balsuoti į rinkimų apylinkę. Rinkėjų balsavimą iš anksto organizuoja savivaldybių rinkimų komisijos. Balsavimas iš anksto turi vykti nuo 8 iki 20 valandos paskutinį pirmadienį, antradienį, trečiadienį, ketvirtadienį ir penktadienį iki rinkimų dienos iš anksto parengtose ir balsavimui tinkamose patalpose, esančiose pastate, kuriame yra tos savivaldybės mero (administracijos direktoriaus) darbo vieta. Rinkimų biuleteniams ir balsavimo vokams išduoti ir priimti balsuojant iš anksto savivaldybės rinkimų komisijos pirmininkas paskiria ne mažiau kaip du savivaldybės rinkimų komisijos ar apylinkių rinkimų komisijų narius, kurie negali būti pasiūlyti tos pačios politinės partijos. Balsavimą iš anksto prižiūri savivaldybės rinkimų komisijos pirmininkas ar jo pavedimu savivaldybės rinkimų komisijos narys. Vyriausiosios rinkimų komisijos pirmininkas, jo įgaliotas šios komisijos narys ar savivaldybės rinkimų komisijos pirmininkas, Vyriausiosios rinkimų komisijos nustatyta tvarka nustatę rinkėjų papirkimo, pavėžėjimo balsuoti, skatinimo balsuoti už atlygį ar kitus rinkėjų teises šiurkščiai pažeidžiančius atvejus, privalo sustabdyti balsavimą iš anksto, iki pažeidimai bus pašalinti ir rinkimus bus galima vykdyti laisvai ir demokratiškai pagal šio įstatymo reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
+ 
 
-3. Rinkėjų prašymai balsuoti namuose pateikiami apylinkių rinkimų komisijoms. Rinkėjų, gyvenančių konkrečios rinkimų apylinkės teritorijoje, prašymai balsuoti namuose pradedami priimti įteikiant jiems rinkėjo korteles ir baigiami priimti paskutinį trečiadienį iki rinkimų dienos. Rinkėjų, kurie laikinai apsistojo konkrečios rinkimų apylinkės teritorijoje ir neįrašyti į šios rinkimų apylinkės rinkėjų sąrašą, prašymai balsuoti namuose baigiami priimti paskutinį antradienį iki rinkimų dienos. Rinkėjas, kuris dėl fizinio trūkumo, ligos ar kitokių priežasčių pats negali užpildyti prašymo balsuoti namuose ar jo įteikti apylinkės rinkimų komisijai, gali pavesti šiuos veiksmus už jį atlikti savo šeimos nariui, kaimynui ar asmeniui, kuris juo rūpinasi. Šie rinkėjo prašymą pasirašo ir nurodo savo vardą, pavardę ir asmens kodą.
+3. Rinkėjų prašymai balsuoti namuose pateikiami apylinkių rinkimų komisijoms. Rinkėjų, gyvenančių konkrečios rinkimų apylinkės teritorijoje, prašymai balsuoti namuose pradedami priimti įteikiant jiems rinkėjo korteles ir baigiami priimti paskutinį trečiadienį iki rinkimų dienos. Rinkėjų, kurie laikinai apsistojo konkrečios rinkimų apylinkės teritorijoje ir neįrašyti į šios rinkimų apylinkės rinkėjų sąrašą, prašymai balsuoti namuose baigiami priimti paskutinį antradienį iki rinkimų dienos. Rinkėjas, kuris dėl neįgalumo ar kitokių priežasčių pats negali užpildyti prašymo balsuoti namuose ar jo įteikti apylinkės rinkimų komisijai, gali pavesti šiuos veiksmus už jį atlikti savo šeimos nariui, kaimynui ar asmeniui, kuris juo rūpinasi. Šie rinkėjo prašymą pasirašo ir nurodo savo vardą, pavardę ir asmens kodą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
+ 
 
 4. Į rinkimų apylinkės rinkėjų sąrašą įrašytų namuose balsuojančių rinkėjų sąrašą paskutinį ketvirtadienį iki rinkimų dienos sudaro ir tvirtina apylinkės rinkimų komisija. Rinkėjų, kurie gyvena ar laikinai apsistojo konkrečios rinkimų apylinkės teritorijoje, bet įrašyti į kitos rinkimų apylinkės rinkėjų sąrašus ir juos tikslinant į šios rinkimų apylinkės rinkėjų sąrašą nebuvo įrašyti, sąrašą paskutinį trečiadienį iki rinkimų dienos sudaro ir tvirtina savivaldybės rinkimų komisija.
 
@@ -1548,4 +1586,14 @@ Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 40 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1582, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18196
 Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 36 straipsnio pakeitimo ir Įstatymo papildymo 76-1 straipsniu įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1586, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18200
+Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 papildymo 1-1 straipsniu įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
+Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 4, 7, 10, 20, 21, 28, 37, 56, 57, 60, 61 ir 64 straipsnių pakeitimo įstatymas
 
