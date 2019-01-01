@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.23EF0CB2F264"
 
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2018-12-31
+Įstatymas netenka galios 2020-12-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3428, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24607
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo Nr. IX-466 pripažinimo netekusiu galios įstatymas
+ 
+Suvestinė redakcija nuo 2019-01-01 iki 2020-11-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 64-2331; Žin. 2001, Nr.65-0, i. k. 1011010ISTA00IX-466
  
@@ -34,12 +39,13 @@ Vilnius
 
 2 straipsnis. Fondo steigėjas, valdytojas ir administratorius
 
-Fondo steigėja yra Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė), valdytoja – Lietuvos Respublikos energetikos ministerija, administratorė – valstybės įmonė Energetikos agentūra.
+Fondo steigėja yra Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė), valdytoja – Lietuvos Respublikos energetikos ministerija, administratorė – viešoji įstaiga Lietuvos energetikos agentūra.
 
 Straipsnio pakeitimai:
 Nr. X-1374, 2007-12-13, Žin., 2007, Nr. 140-5753 (2007-12-29), i. k. 1071010ISTA00X-1374
 Nr. XI-135, 2009-01-12, Žin., 2009, Nr. 10-357 (2009-01-27), i. k. 1091010ISTA00XI-135
 Nr. XII-737, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00014
+Nr. XIII-1452, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11764
  
 
 3 straipsnis. Fondo lėšos
@@ -216,4 +222,9 @@ Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-915, 2014-06-05, paskelbta TAR 2014-06-11, i. k. 2014-07398
 Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo Nr. IX-466 5 ir 6 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1452, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11764
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo įstatymo Nr. IX-466 2 straipsnio pakeitimo įstatymas
 
