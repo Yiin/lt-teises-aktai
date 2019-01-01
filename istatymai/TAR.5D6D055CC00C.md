@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2018-11-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -1237,9 +1237,10 @@ Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 
 
 
-8. Asmenys, inicijuojantys valstybinės miško žemės pavertimą kitomis naudmenomis, privalo į valstybės biudžetą sumokėti piniginę kompensaciją, kurią sudaro kitomis naudmenomis paverčiamos miško žemės sklypo vertė rinkos kainomis, jame augančio medyno įveisimo ir išauginimo iki amžiaus, kurį šis medynas pasiekė pavertimo kitomis naudmenomis metu, išlaidos ir prarasto medienos prieaugio, kurį šis medynas sukauptų iki nustatyto pagrindinių kirtimų amžiaus, vertė nenukirsto miško kainomis. Miško žemę paverčiant kitomis naudmenomis III grupės miškuose, mokama dvigubo dydžio piniginė kompensacija, II grupės miškuose – trigubo dydžio piniginė kompensacija. Reikalavimas sumokėti piniginę kompensaciją netaikomas už tą kitomis naudmenomis paverčiamos miško žemės dalį, kurioje formuojami atskirieji želdynai ir (ar) įrengiamos kapinės, taip pat kurioje įgyvendinami ypatingos valstybinės svarbos krašto apsaugos srities projektai. 
+8. Asmenys, inicijuojantys valstybinės miško žemės pavertimą kitomis naudmenomis, privalo į valstybės biudžetą sumokėti piniginę kompensaciją, kurią sudaro kitomis naudmenomis paverčiamos miško žemės sklypo vertė rinkos kainomis, jame augančio medyno įveisimo ir išauginimo iki amžiaus, kurį šis medynas pasiekė pavertimo kitomis naudmenomis metu, išlaidos ir prarasto medienos prieaugio, kurį šis medynas sukauptų iki nustatyto pagrindinių kirtimų amžiaus, vertė nenukirsto miško kainomis. Miško žemę paverčiant kitomis naudmenomis, išskyrus šio straipsnio 1 dalies 8 punkte numatytą atvejį, III grupės miškuose, mokama dvigubo dydžio piniginė kompensacija, II grupės miškuose – trigubo dydžio piniginė kompensacija. Reikalavimas sumokėti piniginę kompensaciją netaikomas už tą kitomis naudmenomis paverčiamos miško žemės dalį, kurioje formuojami atskirieji želdynai ir (ar) įrengiamos kapinės, taip pat kurioje įgyvendinami ypatingos valstybinės svarbos krašto apsaugos srities projektai. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
+Nr. XIII-1644, 2018-11-15, paskelbta TAR 2018-11-27, i. k. 2018-19126
  
 
 
@@ -1673,7 +1674,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                ALGIRDAS BRAZAUSKAS 
+RESPUBLIKOS PREZIDENTAS                                            ALGIRDAS BRAZAUSKAS 
  
  
 
@@ -1879,4 +1880,9 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir 19 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1404, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11465
+Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1644, 2018-11-15, paskelbta TAR 2018-11-27, i. k. 2018-19126
 Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas
