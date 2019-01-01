@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3E147F656BC4"
 
 # Lietuvos Respublikos profesionaliojo scenos meno įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3523, i. k. 1041010ISTA0IX-2257
  
@@ -795,7 +795,10 @@ PROFESIONALIOJO SCENOS MENO ĮSTAIGŲ KŪRYBINIŲ DARBUOTOJŲ SOCIALINĖS GARANT
 15 straipsnis. Profesionaliojo scenos meno įstaigų kūrybinių darbuotojų socialinės garantijos
 
 
-1. Šio straipsnio 2 dalyje nurodytiems profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, kurie dėl savo profesijos specifikos negali dirbti pagal įgytą specialybę ir dėl to buvo nutraukta jų darbo sutartis, šio straipsnio 4–8 dalyse nustatytomis sąlygomis iš valstybės biudžeto lėšų skiriama ir kas mėnesį mokama 8 bazinių socialinių išmokų dydžio kompensacinė išmoka. 
+1. Šio straipsnio 2 dalyje nurodytiems profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, kurie dėl savo profesijos specifikos negali dirbti pagal įgytą specialybę ir dėl to buvo nutraukta jų darbo sutartis, šio straipsnio 4–8 dalyse nustatytomis sąlygomis iš valstybės biudžeto lėšų skiriama ir kas mėnesį mokama 10 bazinių socialinių išmokų dydžio kompensacinė išmoka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1842, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21870
+ 
 
 
 
@@ -1217,3 +1220,8 @@ Lietuvos Respublikos profesionaliojo scenos meno įstatymo IX-2257 11 ir 13 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1317, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10969
 Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 11 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1842, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21870
+Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 15 straipsnio pakeitimo įstatymas
