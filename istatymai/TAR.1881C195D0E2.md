@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-21
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
- 
-TAR pastaba. Nuo šio įstatymo (Nr. XIII-1102) įsigaliojimo dienos (2018-07-01) žvalgybos pareigūnams tarnybiniai atlyginimai mokami pagal šiuo įstatymu pakeisto Lietuvos Respublikos žvalgybos įstatymo ir Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nuostatas. Jeigu iki šio įstatymo įsigaliojimo žvalgybos pareigūno tarnybinis atlyginimas (pareiginė alga su priedais už tarnybinį rangą ar kario laipsnį ir tarnybos stažą) buvo didesnis negu tarnybinis atlyginimas (pareiginė alga su priedais už tarnybinį rangą ar kario laipsnį, priedu už tarnybos stažą ir priemoka už su ypatinga specifika susijusių funkcijų atlikimą), kuris jam turi būti mokamas pagal šiuo įstatymu pakeisto Lietuvos Respublikos žvalgybos įstatymo ir Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nuostatas, žvalgybos pareigūnui paliekamas iki šio įstatymo įsigaliojimo gautas tarnybinis atlyginimas.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-1102, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06969
-Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 57 ir 64 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2013-01-01:
 Nr. XI-2289, 2012-10-17, Žin. 2012, Nr. 129-6463 (2012-11-08), i. k. 1121010ISTA0XI-2289
@@ -1260,7 +1255,9 @@ Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 
 
 
-3. Antrajame operatyvinių tarnybų departamente tarnaujantys kariai turi Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme (toliau – Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas) nustatytą kario statusą. Jiems be išlygų taikomos šio įstatymo 32 ir 33 straipsnių, 34 straipsnio 4 dalies, 39, 40, 41, 48 ir 49 straipsnių, 51 straipsnio 1 ir 2 dalių, 54 straipsnio 2 dalies ir 64 straipsnio nuostatos, o kitos šio įstatymo nuostatos profesinės karo tarnybos kariams (toliau – karys) taikomos tiek, kiek jų statuso nenustato profesinę karo tarnybą reglamentuojantys teisės aktai.
+3. Antrajame operatyvinių tarnybų departamente tarnaujantys kariai turi Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme (toliau – Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas) nustatytą kario statusą. Jiems be išlygų taikomos šio įstatymo 32 ir 33 straipsnių, 34 straipsnio 4 dalies, 39, 40, 41, 48 ir 49 straipsnių, 50 straipsnio 6 dalies, 51 straipsnio 1 ir 2 dalių, 54 straipsnio 2 dalies ir 64 straipsnio nuostatos, o kitos šio įstatymo nuostatos profesinės karo tarnybos kariams (toliau – karys) taikomos tiek, kiek jų statuso nenustato profesinę karo tarnybą reglamentuojantys teisės aktai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1821, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21842
  
 
 
@@ -2342,7 +2339,17 @@ DEŠIMTASIS SKIRSNIS
 
 
 
-5. Atsižvelgiant į atitinkamų specialistų poreikį, žvalgybos pareigūnai Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka gali būti skiriami į pareigas valstybės ar savivaldybių institucijose, diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, taip pat užsienio valstybių ir tarptautinėse karinėse ar gynybos institucijose, tarptautinių operacijų kariniuose vienetuose.
+5. Atsižvelgiant į atitinkamų specialistų poreikį, žvalgybos pareigūnai Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytomis sąlygomis ir tvarka gali būti skiriami į pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, taip pat užsienio valstybių ir tarptautinėse karinėse ar gynybos institucijose, tarptautinių operacijų kariniuose vienetuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1821, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21842
+ 
+
+
+
+
+6. Kai yra tarnybinė būtinybė ir kai valstybės ar savivaldybių institucijų ar įstaigų vadovai šį klausimą suderina, žvalgybos institucijos vadovo įsakymu žvalgybos pareigūnas jo rašytiniu sutikimu gali būti laikinai perkeltas iš žvalgybos institucijos į karjeros valstybės tarnautojo pareigas kitoje valstybės ar savivaldybių institucijoje ar įstaigoje, jeigu žvalgybos pareigūnas atitinka Valstybės tarnybos įstatyme nustatytus priėmimo į valstybės tarnautojo pareigas bendruosius reikalavimus ir pareigybės, į kurią jis perkeliamas, aprašyme nustatytus specialiuosius reikalavimus, laikotarpiui iki 3 metų. Kai yra tarnybinė būtinybė, šis terminas, valstybės ar savivaldybės institucijų ar įstaigų vadovams suderinus, gali būti pratęstas iki 2 metų. Žvalgybos pareigūno perkėlimo į karjeros valstybės tarnautojo pareigas laikas įskaitomas į žvalgybos pareigūno tarnybos stažą. Laikinai į karjeros valstybės tarnautojo pareigas perkeltam žvalgybos pareigūnui paliekamas iki perkėlimo turėtas karinis laipsnis ar tarnybinis rangas. Perkėlimo laikotarpiu valstybės ar savivaldybės institucija ar įstaiga, į kurią žvalgybos pareigūnas perkeltas, moka žvalgybos pareigūnui ne mažesnį negu šiame įstatyme nustatytą tarnybinį atlyginimą (įskaitant priedus už kario laipsnį ar tarnybinį rangą bei tarnybos stažą), skaičiuojamą pagal iki perkėlimo eitoms žvalgybos pareigūno pareigoms nustatytą pareiginės algos koeficientą, taip pat taiko visas šiame įstatyme žvalgybos pareigūnams nustatytas garantijas. Laikinai į karjeros valstybės tarnautojo pareigas perkeltam žvalgybos pareigūnui taikomi visi šiame įstatyme žvalgybos pareigūnams nustatyti draudimai, apribojimai, o pasibaigus jo perkėlimo laikotarpiui, garantuojamos eitos arba kitos lygiavertės žvalgybos pareigūno pareigos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1821, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21842
  
 
 
@@ -3652,15 +3659,19 @@ Nr. XII-1645, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06587
 69 straipsnis. Kompensacijos žvalgybos pareigūno žūties (mirties) ar sveikatos sutrikdymo atveju
 
 
-1. Žvalgybos pareigūnui žuvus (mirus) dėl tarnybos žvalgybos institucijoje, jo šeimai, nepilnamečiams vaikams (įvaikiams), taip pat besimokantiems nustatyta tvarka įregistruotų mokymo įstaigų nuolatinėse studijose vaikams (įvaikiams), kol jiems sukaks 24 metai, sutuoktiniui, žuvusiojo (mirusiojo) vaikams, gimusiems po jo žūties (mirties), tėvui ar motinai ir nedarbingiems asmenims, kurie buvo žuvusiojo (mirusiojo) išlaikomi arba jo žūties (mirties) dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo žvalgybos pareigūno žūties (mirties) lygiomis dalimis išmokama 120 mėnesinių tarnybinių atlyginimų dydžio vienkartinė kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu. 
+1. Žvalgybos pareigūnui žuvus (mirus) dėl tarnybos žvalgybos institucijoje, jo šeimai, nepilnamečiams vaikams (įvaikiams), taip pat besimokantiems nustatyta tvarka įregistruotų mokymo įstaigų nuolatinėse studijose vaikams (įvaikiams), iki jiems sukaks 24 metai, sutuoktiniui, žuvusiojo (mirusiojo) vaikams, gimusiems po jo žūties (mirties), tėvui ar motinai ir nedarbingiems asmenims, kurie buvo žuvusiojo (mirusiojo) išlaikomi arba jo žūties (mirties) dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo žvalgybos pareigūno žūties (mirties) lygiomis dalimis išmokama 93,1 mėnesinių tarnybinių atlyginimų dydžio vienkartinė kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1645, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06587
+Nr. XIII-1808, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21821
  
 
 
 
 
-2. Žvalgybos pareigūną pripažinus nežinia kur esančiu ar paskelbus mirusiu, laikoma, kad jis yra pripažintas nežinia kur esančiu ar paskelbtas mirusiu dėl tarnybos, jeigu neįrodyta kitaip, jo šeimos nariams, nurodytiems šio straipsnio 1 dalyje, ir nedarbingiems asmenims, kurie buvo jo išlaikomi arba pripažinimo nežinia kur esančiu ar paskelbimo mirusiu dieną turėjo teisę gauti jo išlaikymą, nuo pareigūno pripažinimo nežinia kur esančiu ar paskelbimo mirusiu dienos kas mėnesį lygiomis dalimis mokama jo vidutinio tarnybinio atlyginimo dydžio kompensacija, neviršijant 120 mėnesinių tarnybinių atlyginimų dydžio sumos.
+2. Žvalgybos pareigūną pripažinus nežinia kur esančiu ar paskelbus mirusiu, laikoma, kad jis yra pripažintas nežinia kur esančiu ar paskelbtas mirusiu dėl tarnybos, jeigu neįrodyta kitaip, jo šeimos nariams, nurodytiems šio straipsnio 1 dalyje, ir nedarbingiems asmenims, kurie buvo jo išlaikomi arba pripažinimo nežinia kur esančiu ar paskelbimo mirusiu dieną turėjo teisę gauti jo išlaikymą, nuo pareigūno pripažinimo nežinia kur esančiu ar paskelbimo mirusiu dienos kas mėnesį lygiomis dalimis mokama jo vidutinio tarnybinio atlyginimo dydžio kompensacija, neviršijant 93,1 mėnesinių tarnybinių atlyginimų dydžio sumos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1808, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21821
+ 
 
 
 
@@ -3668,41 +3679,42 @@ Nr. XII-1645, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06587
 3. Žvalgybos pareigūnui, kurio sveikata sutriko atliekant tarnybines pareigas arba kurio sveikata sutriko dėl tarnybinių pareigų atlikimo ar žvalgybos pareigūno statuso, išmokama tokio dydžio jo vidutinio tarnybinio atlyginimo dydžio kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu:
 
 
-1) netekusiems 75–100 procentų darbingumo – 60 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
+1) netekusiems 75–100 procentų darbingumo – 46,55 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
 
 
 
 
-2) netekusiems 60–70 procentų darbingumo – 48 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
+2) netekusiems 60–70 procentų darbingumo – 37,24 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
 
 
 
 
-3) netekusiems 45–55 procentų darbingumo – 36 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
+3) netekusiems 45–55 procentų darbingumo – 27,93 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
 
 
 
 
-4) netekusiems iki 40 procentų darbingumo – 30 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
+4) netekusiems iki 40 procentų darbingumo – 23,28 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
 
 
 
 
-5) sunkaus sveikatos sutrikdymo atveju, likus liekamųjų reiškinių ir pasikeitus jo tinkamumo tarnybai laipsniui, kuris nustatomas praėjus 12 mėnesių nuo išgydymo, – 24 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
+5) sunkaus sveikatos sutrikdymo atveju, likus liekamųjų reiškinių ir pasikeitus jo tinkamumo tarnybai laipsniui, kuris nustatomas praėjus 12 mėnesių nuo išgydymo, – 18,62 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
 
 
 
 
-6) apysunkio sveikatos sutrikdymo atveju, likus liekamųjų reiškinių ir pasikeitus jo tinkamumo tarnybai laipsniui, kuris nustatomas praėjus 6 mėnesiams nuo išgydymo, – 18 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
+6) apysunkio sveikatos sutrikdymo atveju, likus liekamųjų reiškinių ir pasikeitus jo tinkamumo tarnybai laipsniui, kuris nustatomas praėjus 6 mėnesiams nuo išgydymo, – 13,97 mėnesinių vidutinių tarnybinių atlyginimų dydžio;
 
 
 
 
-7) lengvo sveikatos sutrikdymo atveju, likus liekamųjų reiškinių ir pasikeitus jo tinkamumo tarnybai laipsniui, kuris nustatomas praėjus 3 mėnesiams nuo išgydymo, – 12 mėnesinių vidutinių tarnybinių atlyginimų dydžio.
+7) lengvo sveikatos sutrikdymo atveju, likus liekamųjų reiškinių ir pasikeitus jo tinkamumo tarnybai laipsniui, kuris nustatomas praėjus 3 mėnesiams nuo išgydymo, – 9,31 mėnesinių vidutinių tarnybinių atlyginimų dydžio. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XII-1645, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06587
+Nr. XIII-1808, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21821
  
 
 
@@ -3986,3 +3998,13 @@ Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 2, 9, 48, 49 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1102, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06969
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 57 ir 64 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1808, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21821
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 69 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1821, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21842
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 29 ir 50 straipsnių pakeitimo įstatymas
