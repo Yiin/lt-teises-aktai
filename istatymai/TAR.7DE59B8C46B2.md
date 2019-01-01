@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7DE59B8C46B2"
 
 # Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymas
 
-Suvestinė redakcija nuo 2018-05-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-04-24
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 52-1811, i. k. 1011010ISTA00IX-352
  
@@ -158,16 +158,20 @@ Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA
 
 
 
-3) per paskutinius prekių ženklo galiojimo termino metus.
+3) per šešis paskutinius prekių ženklo galiojimo termino mėnesius. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1680, 2018-12-04, paskelbta TAR 2018-12-18, i. k. 2018-20699
+ 
 
 
 
 
 
 
-3. Mokesčiai už išradimo patento, dizaino ir prekių ženklo galiojimo termino pratęsimą gali būti sumokėti pasibaigus šio straipsnio 2 dalies 1–3 punktuose nustatytam mokėjimo terminui, tačiau ne vėliau kaip per 6 mėnesius. 
+3. Mokesčiai už išradimo patento, dizaino ir prekių ženklo galiojimo termino pratęsimą gali būti sumokėti pasibaigus šio straipsnio 2 dalies 1–3 punktuose nustatytam mokėjimo terminui, tačiau ne vėliau kaip per 6 mėnesius. Tokiais atvejais išradimo patento, dizaino ir prekių ženklo galiojimo termino pratęsimo mokesčiai didinami 50 procentų. 
 Straipsnio dalies pakeitimai:
 Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
+Nr. XIII-1680, 2018-12-04, paskelbta TAR 2018-12-18, i. k. 2018-20699
  
 
 
@@ -194,7 +198,7 @@ Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010IS
 7 straipsnis. Mokesčių grąžinimas
 
 
-Sumokėti mokesčiai arba jų dalis grąžinama:
+1. Sumokėti mokesčiai arba jų dalis grąžinama:
 
 
 1) kai mokesčių sumokėta daugiau, negu numatyta pagal šį įstatymą;
@@ -202,18 +206,27 @@ Sumokėti mokesčiai arba jų dalis grąžinama:
 
 
 
-2) kai Valstybiniame patentų biure atsisakoma priimti paraišką, nes ji neatitinka teisės aktuose nustatytų reikalavimų;
+2) kai sumokėjus mokesčius nesikreipiama dėl veiksmų, susijusių su pramoninės nuosavybės objektų registravimu, su tuo susijusių dokumentų išdavimu, taip pat dėl išradimo patento, dizaino, prekių ženklo galiojimo termino pratęsimo;
 
 
 
 
-3) kai sumokėjus mokesčius nesikreipiama dėl pramoninės nuosavybės objektų registravimo ir su tuo susijusių dokumentų išdavimo, taip pat dėl išradimo patento, dizaino, prekių ženklo galiojimo termino pratęsimo. 
-Straipsnio punkto pakeitimai:
-Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
-Nr. XIII-550, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11947
+3) kai atsisakoma priimti paraišką, apeliaciją, protestą, prašymą arba kitą dokumentą, nes jis neatitinka pramoninės nuosavybės objektų registravimą reglamentuojančiuose įstatymuose nustatytų reikalavimų; 
+
+
+
+
+4) kai paraiška atšaukiama pareiškėjo iniciatyva, apeliacija, protestas ar prašymas ženklo registraciją pripažinti negaliojančia ar ją panaikinti atsiimamas iki sprendimo priėmimo dienos, taip pat kai pramoninės nuosavybės objektų registravimą reglamentuojančiuose įstatymuose nurodytas prašymas atsiimamas iki prašomo veiksmo atlikimo dienos, – 50 procentų sumokėto mokesčio;
+
+
+
+
+5) kai Valstybinis patentų biuras priima sprendimą neregistruoti prekių ženklo visoms prekėms ir (ar) paslaugoms Lietuvos Respublikos prekių ženklų įstatymo 7 straipsnio 1 dalyje nurodytais atvejais, – 50 procentų sumokėto mokesčio. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1680, 2018-12-04, paskelbta TAR 2018-12-18, i. k. 2018-20699
  
-
-
 
 
 
@@ -627,99 +640,98 @@ MOKESČIŲ UŽ PREKIŲ ŽENKLO REGISTRAVIMĄ IR SU TUO SUSIJUSIŲ DOKUMENTŲ IŠ
 
 
 
- 1. Už paraiškos įregistruoti prekių ženklą (toliau – paraiška) padavimą 
-   69 
+ 1. Paraiškos įregistruoti prekių ženklą (toliau – paraiška) mokestis 
+ 180 
 
 
  1.1. už kiekvieną daugiau kaip vieną paraiškoje nurodytą prekių ir (ar) paslaugų klasę 
-   34 
+ 40 
 
 
- 2. Už tarptautinės paraiškos nagrinėjimą 
- 57 
+ 2. Sertifikavimo ženklo arba kolektyvinio ženklo paraiškos mokestis 
+ 240 
 
 
- 2.1. Už kiekvieną daugiau kaip vieną paraiškoje nurodytą prekių ir (ar) paslaugų klasę paduodant tarptautinę paraišką 
-   28 
+ 2.1. už kiekvieną daugiau kaip vieną sertifikavimo ženklo arba kolektyvinio ženklo paraiškoje nurodytą prekių ir (ar) paslaugų klasę 
+ 40 
 
 
- 3. Už nacionalinės ženklo registracijos pakeitimą tarptautine registracija 
-   69 
+ 3. Skubios ekspertizės mokestis 
+ 150 
 
 
- 4. Už prašymą pratęsti Lietuvos Respublikos prekių ženklų įstatymo nustatytą terminą 
-   23 
+ 4. Prekių ženklo galiojimo termino pratęsimo mokestis 
+ 180 
 
 
- 5. Už prašymą atkurti Lietuvos Respublikos prekių ženklų įstatymo nustatytą praleistą terminą 
-   34 
+ 4.1. už kiekvieną daugiau kaip vieną prekių ir (ar) paslaugų klasę pratęsiant prekių ženklo galiojimo terminą 
+ 40 
 
 
- 6. Už registravimą, paskelbimą ir registracijos liudijimo išdavimą 
- 69 
+ 5. Sertifikavimo ženklo arba kolektyvinio ženklo galiojimo termino pratęsimo mokestis 
+ 240 
 
 
- 7. Už prekių ženklo galiojimo termino pratęsimą 
- 69 
+ 5.1. už kiekvieną daugiau kaip vieną prekių ir (ar) paslaugų klasę pratęsiant sertifikavimo ženklo arba kolektyvinio ženklo galiojimo terminą 
+ 40 
 
 
- 7.1. už kiekvieną daugiau kaip vieną prekių ir (ar) paslaugų klasę pratęsiant prekių ženklo galiojimo terminą 
-   34 
+ 6. Tarptautinės paraiškos nagrinėjimo mokestis 
+ 70 
 
 
- 8. Už pakeitimo įrašymą paraiškoje ar Lietuvos Respublikos prekių ženklų registre 
-   34 
+ 6.1. už kiekvieną daugiau kaip vieną tarptautinėje paraiškoje nurodytą prekių ir (ar) paslaugų klasę paduodant tarptautinę paraišką 
+ 40 
 
 
- 9. Už apeliacijos pareiškimą 
- 34 
+ 7. Nacionalinės ženklo registracijos pakeitimo tarptautine registracija mokestis 
+ 80 
 
 
- 10. Už protesto pareiškimą 
- 92 
+ 8. Paraiškos ar ženklo registracijos padalijimo už kiekvieną atskirtąją paraišką ar registraciją mokestis 
+ 90 
 
 
- 11. Už teisės į pareikštą registruoti ar įregistruotą prekės ženklą perdavimo sutarties registravimą 
-   115 
+ 9. Apeliacijos mokestis 
+ 60 
 
 
- 12. Už licencinės (sublicencinės) sutarties duomenų įrašymą į Lietuvos Respublikos prekių ženklų registrą 
-   28 
+ 10. Protesto mokestis 
+ 160 
 
 
- 13. Už išrašo iš Lietuvos Respublikos prekių ženklų registro išdavimą 
-   34 
+ 11. Prašymo registraciją pripažinti negaliojančia ar panaikinti mokestis 
+ 180 
 
 
- 14. Už paraiškos patvirtintos kopijos išdavimą 
- 23 
+ 12. Prašymo pratęsti Lietuvos Respublikos prekių ženklų įstatymo nustatytą terminą mokestis 
+ 30 
 
 
- 15. Už registracijos liudijimo dublikato išdavimą 
- 34 
+ 13. Teisės į pareikštą registruoti ar įregistruotą prekių ženklą perdavimo registravimo mokestis            
+ 80 
 
 
- 16. Už susipažinimą su kolektyvinio ženklo naudojimo nuostatais 
- 11 
+ 14. Licencinės (sublicencinės) sutarties registravimo mokestis 
+ 50 
 
 
- 17. Už paraiškos Bendrijos prekių ženklui registruoti padavimą per Valstybinį patentų biurą 
-   28 
+ 15. Pakeitimo paraiškoje ar Lietuvos Respublikos prekių ženklų registre mokestis 
+ 60 
 
 
 
- 
-Pastaba. Mokestis už prekių ženklo registracijos galiojimo termino pratęsimą, mokamas pasibaigus šio įstatymo 6 straipsnio 2 dalies 3 punkte nustatytam terminui, bet ne vėliau kaip per 6 mėnesius, didinamas 50 procentų.
+TAR pastaba. 4 priedėlyje nurodyti mokesčiai mokami už veiksmus, kurie atliekami įsigaliojus įstatymui Nr. XIII-1680, išskyrus nustatytą atvejį: jeigu paraiška įregistruoti prekių ženklą buvo paduota iki šio įstatymo įsigaliojimo  (2019-01-01), už paraiškos įregistruoti prekių ženklą padavimą, prekių ženklo registravimą, paskelbimą ir registracijos liudijimo išdavimą mokami iki šio įstatymo įsigaliojimo nustatyto dydžio mokesčiai.
 Priedo pakeitimai:
 Nr. X-1120, 2007-05-10, Žin., 2007, Nr. 59-2280 (2007-05-29), i. k. 1071010ISTA00X-1120
 Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
 Nr. XII-1248, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14870
+Nr. XIII-1680, 2018-12-04, paskelbta TAR 2018-12-18, i. k. 2018-20699
  
 
 
 
 
- 
 Lietuvos Respublikos Seimo
 2001 m. birželio 5 d.
 įstatymo Nr. IX-352
@@ -791,3 +803,8 @@ Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-550, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11947
 Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo Nr. IX-352 1, 3, 4, 6, 7 straipsnių pakeitimo ir 2 straipsnio bei 6 priedėlio pripažinimo netekusiais galios įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1680, 2018-12-04, paskelbta TAR 2018-12-18, i. k. 2018-20699
+Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo Nr. IX-352 6, 7 straipsnių ir 4 priedėlio pakeitimo įstatymas
