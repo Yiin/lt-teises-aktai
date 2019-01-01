@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66"
 
 # Lietuvos Respublikos viešojo administravimo įstatymas
 
-Suvestinė redakcija nuo 2018-07-16 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1945, i. k. 0991010ISTAIII-1234
  
@@ -615,39 +615,46 @@ Nr. XII-478, 2013-07-02, Žin., 2013, Nr. 78-3936 (2013-07-20)
 
 
 
-3. Viešojo administravimo įstaigos administracijos padaliniais gali būti departamentas (valdyba), skyrius (biuras, tarnyba), poskyris (grupė).
+3. Viešojo administravimo įstaigos administracijos padaliniais gali būti grupė, departamentas (valdyba), skyrius (biuras, tarnyba), o savivaldybės viešojo administravimo įstaigoje – ir poskyris.
 
 
 
 
-4. Departamentas (valdyba) steigiamas, jeigu administruojant pavestą sritį būtina spręsti sudėtingus uždavinius, atlikti įvairias funkcijas ir dėl to atsiranda poreikis koordinuoti jų įgyvendinimą. Departamentą (valdybą) sudaro ne mažiau kaip du skyriai (biurai, tarnybos). Departamentui vadovauja direktorius (valdybai – viršininkas). Direktorius (viršininkas) gali turėti pavaduotojų. Departamento (valdybos) veiklą reglamentuojančius teisės aktus (nuostatus, pareigybių aprašus ir kt.) tvirtina viešojo administravimo įstaigos vadovas.
+4. Grupė steigiama sudėtingiems, kompleksiniams, su politikos formavimu susijusiems viešojo administravimo įstaigos uždaviniams spręsti. Grupei vadovauja grupės vadovas. Grupės veiklą reglamentuojančius teisės aktus (nuostatus, pareigybių aprašymus ir kt.) tvirtina viešojo administravimo įstaigos vadovas.
 
 
 
 
-5. Skyrius (biuras, tarnyba) paprastai yra departamento (valdybos) struktūrinė dalis. Kai administruoti pavestoje srityje yra nepakankama uždavinių ir funkcijų įvairovė arba kai to reikalauja įstatymas, skyrius (biuras, tarnyba) gali nebūti departamento (valdybos) struktūrinė dalis. Skyrių (biurą, tarnybą), kuris yra departamento (valdybos) struktūrinė dalis, sudaro ne mažiau kaip 4 pareigybės. Skyrių (biurą, tarnybą), kuris nėra departamento (valdybos) struktūrinė dalis, sudaro ne mažiau kaip 2 pareigybės. Skyriui (biurui, tarnybai) vadovauja vedėjas (viršininkas). Skyriaus (biuro, tarnybos) vedėjas (viršininkas) gali turėti pavaduotojų. Skyriaus (biuro, tarnybos) veiklą reglamentuojančius teisės aktus (nuostatus, pareigybių aprašus ir kt.) tvirtina viešojo administravimo įstaigos vadovas.
+5. Departamentas (valdyba) steigiamas nevienarūšių viešojo administravimo įstaigos funkcijų įgyvenimui administruoti. Departamentą (valdybą) sudaro ne mažiau kaip du skyriai (biurai, tarnybos). Departamentui vadovauja direktorius (valdybai – viršininkas). Departamento (valdybos) veiklą reglamentuojančius teisės aktus (nuostatus, pareigybių aprašymus ir kt.) tvirtina viešojo administravimo įstaigos vadovas.
 
 
 
 
-6. Skyrių (biurą, tarnybą) gali sudaryti poskyriai (grupės). Poskyris (grupė) sudaromas iš ne mažiau kaip 3 pareigybių. Poskyriui (grupei) vadovauja vedėjas (viršininkas). Poskyrio (grupės) veiklą reglamentuojančius teisės aktus (nuostatus, pareigybių aprašus ir kt.) tvirtina viešojo administravimo įstaigos vadovas.
+6. Skyrius (biuras, tarnyba) paprastai yra departamento (valdybos) struktūrinė dalis. Kai administruoti pavestoje srityje yra nepakankama uždavinių ir funkcijų įvairovė arba kai to reikalauja įstatymas, skyrius (biuras, tarnyba) gali nebūti departamento (valdybos) struktūrinė dalis. Skyrių (biurą, tarnybą) sudaro ne mažiau kaip 4 pareigybės, išskyrus vidaus audito tarnybas ir centralizuotas vidaus audito tarnybas, kurias sudaro ne mažiau kaip 2 pareigybės. Skyriui (biurui, tarnybai) vadovauja vedėjas (viršininkas). Skyriaus (biuro, tarnybos) vedėjas (viršininkas) savivaldybių viešojo administravimo įstaigose gali turėti pavaduotojų. Skyriaus (biuro, tarnybos) veiklą reglamentuojančius teisės aktus (nuostatus, pareigybių aprašymus ir kt.) tvirtina viešojo administravimo įstaigos vadovas.
 
 
 
 
-7. Uždaviniams ir funkcijoms, kurie nepriskirti atskiriems viešojo administravimo įstaigos administracijos padaliniams, įgyvendinti gali būti steigiama pareigybė (pareigybės), nepriklausanti (nepriklausančios) skyriui (biurui, tarnybai) ar departamentui (valdybai). Tokios pareigybės aprašą tvirtina ir pavedamas atlikti funkcijas nustato viešojo administravimo įstaigos vadovas.
+7. Savivaldybių viešojo administravimo įstaigose skyrių (biurą, tarnybą) gali sudaryti poskyriai. Poskyris sudaromas iš ne mažiau kaip 3 pareigybių. Poskyriui vadovauja vedėjas. Poskyrio veiklą reglamentuojančius teisės aktus (nuostatus, pareigybių aprašymus ir kt.) tvirtina viešojo administravimo įstaigos vadovas.
 
 
 
 
-8. Šio straipsnio 3, 4, 5, 6 ir 7 dalių nuostatos viešojo administravimo įstaigoms taikomos tiek, kiek jų nereglamentuoja statutai ar kiti įstatymai.
+8. Uždaviniams ir funkcijoms, kurie nepriskirti atskiriems viešojo administravimo įstaigos administracijos padaliniams, įgyvendinti gali būti steigiama pareigybė (pareigybės), nepriklausanti (nepriklausančios) skyriui (biurui, tarnybai), departamentui (valdybai) ar grupei. Tokios pareigybės aprašą tvirtina ir pavedamas atlikti funkcijas nustato viešojo administravimo įstaigos vadovas.
 
 
+
+
+9. Šio straipsnio 3, 4, 5, 6, 7 ir 8 dalių nuostatos viešojo administravimo įstaigoms taikomos tiek, kiek jų nereglamentuoja statutai ar kiti įstatymai.
 Straipsnio pakeitimai:
 Nr. X-1036, 2007-01-18, Žin., 2007, Nr. 12-497 (2007-01-30)
 Nr. X-1035, 2007-01-18, Žin., 2007, Nr. 17-628 (2007-02-08)
 Nr. X-1725, 2008-09-22, Žin., 2008, Nr. 117-4441 (2008-10-11)
 Nr. XI-1259, 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1372, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12040
  
 
 
@@ -2191,3 +2198,8 @@ Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 26 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1432, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11740
 Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 36-4, 36-8 ir 36-9 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1372, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12040
+Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 11 straipsnio pakeitimo įstatymas
