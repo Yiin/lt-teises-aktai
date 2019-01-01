@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
  
@@ -103,7 +103,12 @@ Nr. X-1048, 2007-01-18, Žin., 2007, Nr. 17-631 (2007-02-08)
 2. Viešajai įstaigai neleidžiama:
 
 
-1) gauto pelno skirti kitiems veiklos tikslams, negu nustatyta viešosios įstaigos įstatuose;
+1) gauto perviršio (pelno) skirti kitiems veiklos tikslams, negu nustatyta viešosios įstaigos įstatuose;
+TAR pastaba. 3 straipsnio 2 dalies 1 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+3 straipsnio 2 dalies 1 punkto nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+ 
 
 
 
@@ -573,7 +578,10 @@ TAR pastaba. Viešosios įstaigos, įsteigtos iki 2017 m. spalio 31 d., kurių d
 
 
 
-3) teikiama mokesčių administravimo, teisėtvarkos institucijoms ir teismams teisės aktuose nustatytoms funkcijoms atlikti.
+3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis.
+Straipsnio punkto pakeitimai:
+Nr. XIII-852, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20335
+ 
 
 
 
@@ -608,25 +616,99 @@ Nr. XII-2346, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13913
 
 
 
-4. Viešosios įstaigos vadovas organizuoja viešosios įstaigos veiklą ir veikia viešosios įstaigos vardu santykiuose su kitais asmenimis, sudaro ir nutraukia darbo sutartis su viešosios įstaigos darbuotojais. Viešosios įstaigos vadovas atsako už finansinių ataskaitų rinkinių sudarymą, visuotinio dalininkų susirinkimo sušaukimą, duomenų ir dokumentų pateikimą juridinių asmenų registrui, pranešimą dalininkams apie įvykius, turinčius esminės reikšmės viešosios įstaigos veiklai, viešosios įstaigos dalininkų apskaitą, informacijos apie viešosios įstaigos veiklą pateikimą visuomenei, veiklos ataskaitos parengimą, viešų pranešimų paskelbimą, kitus veiksmus, kurie yra vadovui numatyti šiame Įstatyme, kituose teisės aktuose ir viešosios įstaigos įstatuose. Viešosios įstaigos vadovas pradeda eiti pareigas nuo jo paskyrimo dienos, jeigu jį paskyrusio visuotinio dalininkų susirinkimo sprendime nenustatyta kitaip, o kai viešoji įstaiga steigiama, – nuo viešosios įstaigos įregistravimo dienos.
+4. Viešosios įstaigos vadovas organizuoja viešosios įstaigos veiklą ir veikia viešosios įstaigos vardu santykiuose su kitais asmenimis, sudaro ir nutraukia darbo sutartis su viešosios įstaigos darbuotojais. Viešosios įstaigos vadovas pradeda eiti pareigas nuo jo paskyrimo dienos, jeigu jį paskyrusio visuotinio dalininkų susirinkimo sprendime nenustatyta kitaip, o kai viešoji įstaiga steigiama, – nuo viešosios įstaigos įregistravimo dienos.
+TAR pastaba. 9 straipsnio 4 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+9 straipsnio 4 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
 Straipsnio dalies pakeitimai:
 Nr. XII-2346, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13913
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
  
 
 
 
 
-5. Visuotinio dalininkų susirinkimo įgaliotas asmuo viešosios įstaigos vardu sudaro darbo sutartį su viešosios įstaigos vadovu ir ją nutraukia. Kai visuotinis dalininkų susirinkimas priima sprendimą atšaukti viešosios įstaigos vadovą, su viešosios įstaigos vadovu sudaryta darbo sutartis nutraukiama. Su viešosios įstaigos vadovu gali būti sudaryta jo visiškos materialinės atsakomybės sutartis. Darbo ginčai tarp viešosios įstaigos vadovo ir viešosios įstaigos nagrinėjami teisme.
+5. Viešosios įstaigos vadovas atsakingas už:
+
+
+1) buhalterinės apskaitos organizavimą pagal Lietuvos Respublikos buhalterinės apskaitos įstatymą;
 
 
 
 
-6. Viešosios įstaigos įstatuose gali būti numatytas ir kolegialus viešosios įstaigos valdymo organas, taip pat kiti kolegialūs organai. Kolegialių viešosios įstaigos organų narių skaičius, kompetencija, šių organų narių rinkimo ir atšaukimo tvarka nustatoma viešosios įstaigos įstatuose. Visuotinis dalininkų susirinkimas neturi teisės pavesti kolegialiems viešosios įstaigos organams spręsti visuotinio dalininkų susirinkimo kompetencijai šiame Įstatyme ir viešosios įstaigos įstatuose priskirtų klausimų. Kolegialūs viešosios įstaigos organai veikia pagal jų patvirtintus darbo reglamentus. Už veiklą viešosios įstaigos kolegialiuose organuose šių organų nariams neatlyginama, jeigu viešosios įstaigos įstatuose nenustatyta kitaip.
+2) metinių finansinių ataskaitų rinkinio ir veiklos ataskaitos parengimą ir pateikimą kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas) Juridinių asmenų registrui ir visuotiniam dalininkų susirinkimui;
 
 
 
 
-7. Viešosios įstaigos įstatuose gali būti nustatytas kiekybinis atstovavimas. Šiuo atveju, laikantis Civilinio kodekso nuostatų, reglamentuojančių kiekybinį atstovavimą, įstatuose turi būti nustatytos konkrečios tokio atstovavimo taisyklės, tačiau visais atvejais viešosios įstaigos vardu turi veikti ir viešosios įstaigos vadovas. 
+3) duomenų, nurodytų Civilinio kodekso 2.66 straipsnyje, pateikimą Juridinių asmenų registrui; 
+
+
+
+
+4) metinių finansinių ataskaitų rinkinio, veiklos ataskaitos ir auditoriaus išvados (tais atvejais, kai finansinių ataskaitų auditas atliktas) paskelbimą viešosios įstaigos interneto svetainėje, jeigu ją turi;
+
+
+
+
+5) sąlygų tretiesiems asmenims susipažinti su metinių finansinių ataskaitų rinkiniu, veiklos ataskaita ir auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas) viešosios įstaigos buveinėje sudarymą;
+
+
+
+
+6) visuotinio dalininkų susirinkimo sušaukimą;
+
+
+
+
+7) pranešimą dalininkams apie įvykius, galinčius turėti poveikį viešosios įstaigos veiklos tęstinumui, veiklos pobūdžiui ir apimtims; 
+
+
+
+
+8) viešosios įstaigos dalininkų apskaitą;
+
+
+
+
+9) informacijos apie viešosios įstaigos veiklą pateikimą visuomenei ir viešų pranešimų paskelbimą; 
+
+
+
+
+10) kitų vadovo pareigų, numatytų šiame Įstatyme ir viešosios įstaigos įstatuose, atlikimą. 
+TAR pastaba. 9 straipsnio 5 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+9 straipsnio 5 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+ 
+
+
+
+
+6. Visuotinio dalininkų susirinkimo įgaliotas asmuo viešosios įstaigos vardu sudaro darbo sutartį su viešosios įstaigos vadovu ir ją nutraukia. Kai visuotinis dalininkų susirinkimas priima sprendimą atšaukti viešosios įstaigos vadovą, su viešosios įstaigos vadovu sudaryta darbo sutartis nutraukiama. Darbo ginčai tarp viešosios įstaigos vadovo ir viešosios įstaigos nagrinėjami teisme.
+TAR pastaba. 9 straipsnio 6 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+9 straipsnio 6 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+ 
+
+
+
+
+7. Viešosios įstaigos įstatuose gali būti numatytas ir kolegialus viešosios įstaigos valdymo organas, taip pat kiti kolegialūs organai. Kolegialių viešosios įstaigos organų narių skaičius, kompetencija, šių organų narių rinkimo ir atšaukimo tvarka nustatoma viešosios įstaigos įstatuose. Visuotinis dalininkų susirinkimas neturi teisės pavesti kolegialiems viešosios įstaigos organams spręsti visuotinio dalininkų susirinkimo kompetencijai šiame Įstatyme ir viešosios įstaigos įstatuose priskirtų klausimų. Kolegialūs viešosios įstaigos organai veikia pagal jų patvirtintus darbo reglamentus. Už veiklą viešosios įstaigos kolegialiuose organuose šių organų nariams neatlyginama, jeigu viešosios įstaigos įstatuose nenustatyta kitaip.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+ 
+
+
+
+
+8. Viešosios įstaigos įstatuose gali būti nustatytas kiekybinis atstovavimas. Šiuo atveju, laikantis Civilinio kodekso nuostatų, reglamentuojančių kiekybinį atstovavimą, įstatuose turi būti nustatytos konkrečios tokio atstovavimo taisyklės, tačiau visais atvejais viešosios įstaigos vardu turi veikti ir viešosios įstaigos vadovas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+ 
 
 
 Straipsnio pakeitimai:
@@ -668,7 +750,12 @@ Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
 
 
 
-6) tvirtina metinių finansinių ataskaitų rinkinį;
+6) per 4 mėnesius nuo finansinių metų pabaigos tvirtina metinių finansinių ataskaitų rinkinį;
+TAR pastaba. 10 straipsnio 1 dalies 6 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+10 straipsnio 1 dalies 6 punkto nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+ 
 
 
 
@@ -708,7 +795,12 @@ Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
 
 
 
-14) priima sprendimą dėl viešosios įstaigos metinių finansinių ataskaitų rinkinio audito ir renka auditorių ar audito įmonę;
+14) priima sprendimą dėl viešosios įstaigos metinių finansinių ataskaitų rinkinio audito kitais, nei nurodyta šio Įstatymo 11 straipsnio 6 dalyje, atvejais ir renka auditorių ar audito įmonę;
+TAR pastaba. 10 straipsnio 1 dalies 14 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+10 straipsnio 1 dalies 14 punkto nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+ 
 
 
 
@@ -746,7 +838,12 @@ Nr. XIII-933, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21608
 
 
 
-5. Kiekvienais metais per keturis mėnesius nuo viešosios įstaigos finansinių metų pabaigos turi įvykti eilinis visuotinis dalininkų susirinkimas. Viešosios įstaigos vadovas eiliniam visuotiniam dalininkų susirinkimui privalo pateikti viešosios įstaigos metinių finansinių ataskaitų rinkinį ir praėjusių finansinių metų viešosios įstaigos veiklos ataskaitą.
+5. Kiekvienais metais per keturis mėnesius nuo viešosios įstaigos finansinių metų pabaigos turi įvykti eilinis visuotinis dalininkų susirinkimas.
+TAR pastaba. 10 straipsnio 5 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+10 straipsnio 5 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+ 
 
 
 
@@ -785,7 +882,6 @@ Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
 
 
 2) veiklos ataskaitą.
-TAR pastaba. 11 straipsnio 1 dalis įsigalioja 2019-01-01.
 
 
 
@@ -806,7 +902,6 @@ TAR pastaba. 11 straipsnio 1 dalis įsigalioja 2019-01-01.
 
 
 3) finansinių ataskaitų aiškinamasis raštas, kuriame detalizuojamos ir paaiškinamos viešosios įstaigos finansinės būklės ataskaitoje ir veiklos rezultatų ataskaitoje nurodytos sumos, nurodomas vyriausiasis buhalteris (buhalteris) arba pagal sutartį apskaitos paslaugas teikianti (teikusi) įmonė, arba apskaitos paslaugas savarankiškai teikiantis (teikęs) asmuo ir laikotarpis, už kurį jis tvarko (tvarkė) viešosios įstaigos apskaitą, taip pat pateikiama papildoma reikšminga informacija, nenurodoma finansinėse ataskaitose, ir kita šiame Įstatyme nurodyta informacija.
-TAR pastaba. 11 straipsnio 2 dalis įsigalioja 2019-01-01.
 
 
 
@@ -814,7 +909,6 @@ TAR pastaba. 11 straipsnio 2 dalis įsigalioja 2019-01-01.
 
 
 3. Jeigu viešoji įstaiga per ataskaitinius finansinius metus gavo paramą, finansinių ataskaitų aiškinamajame rašte taip pat turi būti nurodyta informacija apie gautą finansinę ir nefinansinę paramą (nefinansinei paramai priskiriant ir turtą, gautą naudotis panaudos teise) ir jos panaudojimą bei apie kitas per finansinius metus gautas lėšas, jų šaltinius ir panaudojimą. Pateikiant informaciją apie paramos teikėjus juridinius asmenis, turi būti atskirai nurodytas kiekvienas paramą suteikęs juridinis asmuo, jo suteiktos paramos dalykas ir vertė. Jeigu paramos teikėjo per ataskaitinius finansinius metus suteiktos paramos vertė neviršija 2 vidutinių mėnesinių darbo užmokesčių ir sudaro ne daugiau kaip 10 procentų viešosios įstaigos per ataskaitinius finansinius metus visos gautos paramos ir (arba) visų gautų finansavimo sumų, paramą suteikęs juridinis asmuo gali būti nenurodomas.
-TAR pastaba. 11 straipsnio 3 dalis įsigalioja 2019-01-01.
 
 
 
@@ -828,7 +922,6 @@ TAR pastaba. 11 straipsnio 3 dalis įsigalioja 2019-01-01.
 
 
 2) viešosios įstaigos dalininkai ir kiekvieno jų įnašų vertė finansinių metų pabaigoje ir praėjusių finansinių metų pabaigoje.
-TAR pastaba. 11 straipsnio 4 dalis įsigalioja 2019-01-01.
 
 
 
@@ -836,7 +929,6 @@ TAR pastaba. 11 straipsnio 4 dalis įsigalioja 2019-01-01.
 
 
 5. Veiklos ataskaitoje gali būti nurodyta ir kita informacija, kurią nusprendžia pateikti viešosios įstaigos vadovas ar visuotinis dalininkų susirinkimas.
-TAR pastaba. 11 straipsnio 5 dalis įsigalioja 2019-01-01.
 
 
 
@@ -862,9 +954,7 @@ TAR pastaba. 11 straipsnio 5 dalis įsigalioja 2019-01-01.
 
 
 7. Metinių finansinių ataskaitų rinkinį sudarančių finansinių ataskaitų ir veiklos ataskaitos parengimo tvarką nustato ir informacijos, nurodytos šio straipsnio 2 ir 4 dalyse, turinį detalizuoja Vyriausybė arba jos įgaliota institucija.
-TAR pastaba. 11 straipsnio 7 dalis įsigalioja 2019-01-01.
- 
-11 straipsnio nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+TAR pastaba. 11 straipsnio nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
 11 straipsnio nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
 
 
@@ -920,87 +1010,29 @@ Nr. XIII-933, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21608
 
 
 
-12 straipsnis. Viešosios įstaigos veiklos ataskaita 
+12 straipsnis. Metinių finansinių ataskaitų rinkinio ir veiklos ataskaitos pasirašymas, skelbimas ir teikimas 
 
 
-1. Pasibaigus finansiniams metams turi būti parengta viešosios įstaigos veiklos ataskaita.
-
-
-
-
-2. Viešosios įstaigos veiklos ataskaitoje turi būti nurodyta:
-
-
-1) informacija apie viešosios įstaigos veiklos tikslus ir pobūdį, veiklos tikslų įgyvendinimą ir veiklos rezultatus per finansinius metus, veiklos planus ir prognozes ateinantiems finansiniams metams;
+1. Metinių finansinių ataskaitų rinkinys ir veiklos ataskaita turi būti pasirašyti viešosios įstaigos vadovo. Šiuose dokumentuose turi būti nurodytos pasirašančio asmens pareigos, vardas ir pavardė.
 
 
 
 
-2) viešosios įstaigos dalininkai ir kiekvieno jų įnašų vertė finansinių metų pradžioje ir pabaigoje, dalininkų kapitalo dydis finansinių metų pradžioje ir pabaigoje;
+2. Metinių finansinių ataskaitų rinkinys ir veiklos ataskaita kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas) yra vieši dokumentai. Šie dokumentai, išskyrus fizinių asmenų asmens duomenis, kurie pagal įstatymus, reglamentuojančius fizinių asmenų asmens duomenų apsaugą, viešai neskelbiami, turi būti paskelbti viešosios įstaigos interneto svetainėje, jeigu viešoji įstaiga ją turi. Be to, tretiesiems asmenims turi būti sudarytos sąlygos su šiais dokumentais susipažinti viešosios įstaigos buveinėje.
 
 
 
 
-3) viešosios įstaigos gautos lėšos ir jų šaltiniai per finansinius metus ir šių lėšų panaudojimas (pateikiant informaciją apie lėšas, gautas iš paramos teikėjų juridinių asmenų, turi būti atskirai nurodytas kiekvienas paramą suteikęs juridinis asmuo, jo suteiktos paramos dalykas ir jo vertė); 
-Straipsnio punkto pakeitimai:
-Nr. XIII-489, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11076
- 
-
-
-
-
-4) informacija apie viešosios įstaigos įsigytą ir perleistą ilgalaikį turtą per finansinius metus;
-
-
-
-
-5) viešosios įstaigos sąnaudos per finansinius metus, iš jų – išlaidos darbo užmokesčiui; 
-
-
-
-
-6) viešosios įstaigos darbuotojų skaičius finansinių metų pradžioje ir pabaigoje;
-
-
-
-
-7) viešosios įstaigos sąnaudos valdymo išlaidoms;
-
-
-
-
-8) duomenys apie viešosios įstaigos vadovą, įstaigos išlaidos vadovo darbo užmokesčiui ir kitoms viešosios įstaigos vadovo išmokoms;
-
-
-
-
-9) viešosios įstaigos išlaidos kolegialių organų kiekvieno nario darbo užmokesčiui ir kitoms įstaigos kolegialių organų narių išmokoms;
-
-
-
-
-10) viešosios įstaigos išlaidos išmokoms su viešosios įstaigos dalininkais susijusiems asmenims, nurodytiems šio Įstatymo 3 straipsnio 3 dalyje.
-
-
-
-
-
-
-3. Viešosios įstaigos veiklos ataskaitoje gali būti pateikta ir kita informacija, kurią pateikti veiklos ataskaitoje sprendimu nurodo visuotinis dalininkų susirinkimas.
-
-
-
-
-4. Viešosios įstaigos veiklos ataskaita ir metinis finansinių ataskaitų rinkinys yra vieši dokumentai. Viešosios įstaigos veiklos ataskaita turi būti pateikta juridinių asmenų registro tvarkytojui kartu su metinių finansinių ataskaitų rinkiniu, o tais atvejais, kai auditas atliktas, kartu su audituotu metinių finansinių ataskaitų rinkiniu ir auditoriaus išvada ir šie dokumentai turi būti paskelbti viešosios įstaigos interneto svetainėje, jeigu viešoji įstaiga ją turi. Be to, tretiesiems asmenims turi būti sudarytos sąlygos su šiais dokumentais susipažinti viešosios įstaigos buveinėje. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1651, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06526
-Nr. XIII-489, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11076
- 
+3. Viešosios įstaigos veiklos ataskaita turi būti pateikta Juridinių asmenų registro tvarkytojui kartu su metinių finansinių ataskaitų rinkiniu, o tais atvejais, kai atliktas finansinių ataskaitų auditas, kartu su audituotu metinių finansinių ataskaitų rinkiniu turi būti pateikta ir auditoriaus išvada. Viešosios įstaigos, kuri priskiriama prie viešojo sektoriaus subjektų, metinių finansinių ataskaitų rinkinys, o tais atvejais, kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada Juridinių asmenų registro tvarkytojui teikiami Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai skelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
+TAR pastaba. 12 straipsnio nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+12 straipsnio nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1446, 2011-06-16, Žin., 2011, Nr. 78-3794 (2011-06-30)
 Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
+Straipsnio pakeitimai:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
  
 
 
@@ -1009,27 +1041,27 @@ Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
 13 straipsnis. Viešosios įstaigos nuosavas kapitalas ir negrąžintinai gautos lėšos
 
 
-1. Viešosios įstaigos nuosavą kapitalą sudaro:
+1. Viešosios įstaigos nuosavą kapitalą sudaro:
 
 
-1) dalininkų kapitalas;
-
-
-
-
-2) pelnas (nuostolis);
+1) dalininkų kapitalas;
 
 
 
 
-3) perkainojimo rezervas;
+2) perviršis (pelnas) ar deficitas (nuostoliai);
 
 
 
 
-4) rezervai iš pelno.
+3) rezervai iš perviršio (pelno).
+TAR pastaba. 13 straipsnio 1 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+13 straipsnio 1 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+ 
 
 
 
@@ -1059,17 +1091,30 @@ Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
 
 
 
-7. Viešojoje įstaigoje gali būti sudaromi rezervai iš pelno, gauto iš ūkinės komercinės veiklos, susietos su įstaigos įstatuose nustatytais veiklos tikslais, taip pat perkainojimo rezervas.
+7. Viešojoje įstaigoje gali būti sudaromi rezervai iš perviršio (pelno), gauto iš ūkinės komercinės veiklos, susietos su įstaigos įstatuose nustatytais veiklos tikslais.
+TAR pastaba. 13 straipsnio 7 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+13 straipsnio 7 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+ 
 
 
 
 
-8. Rezervai iš pelno sudaromi, keičiami, naudojami ir panaikinami visuotinio dalininkų susirinkimo sprendimu.
+8. Rezervai iš perviršio (pelno) sudaromi, keičiami, naudojami ir panaikinami visuotinio dalininkų susirinkimo sprendimu.
+TAR pastaba. 13 straipsnio 8 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+13 straipsnio 8 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+ 
 
 
 
 
-9. Iš perkainojimo rezervo negali būti mažinami viešosios įstaigos nuostoliai.
+9. Neteko galios nuo 2019-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+ 
 
 
 
@@ -1085,18 +1130,22 @@ Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
 
 
 
-14 straipsnis. Viešosios įstaigos pelno naudojimas
+14 straipsnis. Viešosios įstaigos perviršio (pelno) naudojimas
 
 
-1. Viešosios įstaigos gautas pelnas gali būti naudojamas tik viešosios įstaigos įstatuose nustatytiems viešosios įstaigos veiklos tikslams siekti.
+1. Viešosios įstaigos gautas perviršis (pelnas) gali būti naudojamas tik viešosios įstaigos įstatuose nustatytiems viešosios įstaigos veiklos tikslams siekti.
 
 
 
 
-2. Viešosios įstaigos pelnas negali būti skiriamas dalininkams, viešosios įstaigos organų nariams, darbuotojų premijoms.
+2. Viešosios įstaigos perviršis (pelnas) negali būti skiriamas dalininkams, viešosios įstaigos organų nariams, darbuotojų premijoms.
+TAR pastaba. 14 straipsnio nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+14 straipsnio nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
  
-
-
 
 
 
@@ -1399,7 +1448,12 @@ Nr. XII-1077, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10454
 
 
 
-3) sudaryti likvidavimo laikotarpio pradžios viešosios įstaigos balansą;
+3) sudaryti likvidavimo laikotarpio pradžios viešosios įstaigos finansinės būklės ataskaitą;
+TAR pastaba. 18 straipsnio 2 dalies 3 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius ir veiklos ataskaitas.
+18 straipsnio 2 dalies 3 punkto nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių viešųjų įstaigų metinių finansinių ataskaitų rinkinių auditams.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
+ 
 
 
 
@@ -1555,3 +1609,8 @@ Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 10 straipsnio pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 1, 3, 9, 10, 11, 12, 13, 14 ir 18 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-852, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20335
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 8-1 straipsnio pakeitimo įstatymas
