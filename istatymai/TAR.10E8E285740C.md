@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.10E8E285740C"
 
 # Lietuvos Respublikos medicinos praktikos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2313, i. k. 0961010ISTA00I-1555
+ 
+TAR pastaba. Pakopinių kompetencijų pripažinimo pažymėjimai išduodami ir tiems asmenims, kurių medicinos rezidentūros studijos prasidėjo iki įstatymo Nr. XIII-140  įsigaliojimo (2019-01-01), jeigu šių asmenų rezidentūros studijos atitinka pakopinių kompetencijų patvirtinimo pažymėjimo išdavimo reikalavimus.  Įsigaliojus šiam įstatymui, gydytojo rezidento pareiginės algos dydis perskaičiuojamas atsižvelgiant į šiame įstatyme nustatytus naujus pareiginės algos koeficientus. Tais atvejais, kai gydytojas rezidentas iki šio įstatymo įsigaliojimo gavo didesnę pareiginę algą negu pareiginė alga po perskaičiavimo, jam toliau mokama iki šio įstatymo įsigaliojimo mokėta pareiginė alga.  Iki šio įstatymo įsigaliojimo baigtos medicinos studijos pripažįstamos pagal iki šio įstatymo įsigaliojimo galiojusius teisės aktus.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
+Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 2, 3 ir 4 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2004-05-01:
 Nr. IX-2148, 2004-04-20, Žin. 2004, Nr. 68-2365 (2004-04-29), i. k. 1041010ISTA0IX-2148
@@ -88,14 +93,18 @@ Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010IST
 
 
 
-2. Gydytojas internas – asmuo, studijuojantis medicinos internatūroje.
+2. Neteko galios nuo 2019-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
+ 
 
 
 
 
-3. Gydytojas rezidentas – gydytojas, studijuojantis medicinos rezidentūroje ir dirbantis gydytoju rezidentu, prižiūrimas gydytojo rezidento vadovo. 
+3. Gydytojas rezidentas – asmuo, kuris studijuoja medicinos rezidentūroje pagal medicinos krypties rezidentūros studijų programą ir prižiūrimas gydytojo rezidento vadovo dirba gydytoju rezidentu bei savarankiškai verčiasi medicinos praktika pagal rezidentūros studijų programos metu įgytas kompetencijas, patvirtintas jam išduotu pakopinių kompetencijų patvirtinimo pažymėjimu. 
 Straipsnio dalies pakeitimai:
 Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
  
 
 
@@ -114,17 +123,31 @@ Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA0
 
 
 
+51. Jaunesnysis gydytojas rezidentas – gydytojas rezidentas, studijuojantis pirmame medicinos rezidentūros kurse pagal medicinos rezidentūros studijų programą, kurios apimtis (trukmė) yra mažiau kaip ketveri metai, ar studijuojantis pirmame arba antrame medicinos rezidentūros kurse pagal medicinos rezidentūros studijų programą, kurios apimtis (trukmė) yra ketveri arba daugiau metų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
+ 
+
+
+
+
 6. Licencijas išduodanti institucija – Lietuvos Respublikos sveikatos apsaugos ministerija ar jos įgaliota valstybės institucija ar įstaiga.
 
 
 
 
-7. Medicinos gydytojas – asmuo, įgijęs medicinos gydytojo profesinę kvalifikaciją. 
+7. Medicinos gydytojas – asmuo, baigęs medicinos krypties vientisąsias studijas ir įgijęs sveikatos mokslų magistro kvalifikacinį laipsnį ir medicinos gydytojo profesinę kvalifikaciją arba medicinos studijų krypties lygiavertę aukštojo mokslo kvalifikaciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
+ 
 
 
 
 
-8. Medicinos internatūra – ne ilgesnė kaip vienų metų (40 kreditų) medicinos studijų, kurių metu asmuo studijuoja ir atlieka bendrąją medicinos praktiką gydytojo interno vadovo prižiūrimas ir įgyja bendrosios medicinos žinių, įgūdžių ir klinikinės patirties, dalis. Jeigu būtinasis minimalus praktinis pasirengimas įgyjamas atskirai per organizuojamą medicinos internatūrą, aukštojo mokslo diplomas išduodamas prieš šias studijas. 
+8. Neteko galios nuo 2019-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
+ 
 
 
 
@@ -149,15 +172,27 @@ Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA0
 
 
 
-13. Medicinos rezidentūra – trečiosios pakopos universitetinės medicinos krypties studijos, skirtos gydytojui, norinčiam įgyti ar pakeisti medicinos praktikos rūšies gydytojo profesinę kvalifikaciją. 
+13. Medicinos rezidentūra – universitetinės medicinos krypties studijos, skirtos asmenims, baigusiems medicinos studijas ir siekiantiems teisės aktų nustatyta tvarka įgyti medicinos praktikos specializaciją. 
 Straipsnio dalies pakeitimai:
 Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
  
 
 
 
 
-14. Medicinos studijos – ne trumpesnės kaip 6 metų arba ne mažiau kaip 240 kreditų vientisosios universitetinės medicinos krypties studijos, kurias baigusiesiems išduodamas aukštojo mokslo diplomas, patvirtinantis suteiktą gydytojo kvalifikaciją, ir internatūros pažymėjimas, patvirtinantis suteiktą medicinos gydytojo profesinę kvalifikaciją. 
+14. Medicinos studijos – ne trumpesnės kaip šešerių metų Lietuvos Respublikos mokslo ir studijų įstatyme nustatytos vientisųjų studijų programos apimties vientisosios universitetinės medicinos krypties studijos, kurias baigus išduodamas aukštojo mokslo diplomas, kuriuo patvirtinama, kad baigtos medicinos krypties vientisosios studijos, įgytas sveikatos mokslų magistro kvalifikacinis laipsnis ir suteikta medicinos gydytojo profesinė kvalifikacija arba medicinos studijų krypties lygiavertė aukštojo mokslo kvalifikacija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
+ 
+
+
+
+
+141. Pakopinių kompetencijų patvirtinimo pažymėjimas – universiteto nustatyta tvarka medicinos rezidentūros studijų metu universiteto išduodamas pažymėjimas, kuriuo patvirtinama gydytojo rezidento sveikatos apsaugos ministro nustatyta kompetencija šio įstatymo nustatyta tvarka savarankiškai be gydytojo vadovo priežiūros verstis medicinos praktika. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
+ 
 
 
 
@@ -172,9 +207,11 @@ Nr. XII-1915, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11093
 
 
 
-16. Rezidentūros bazė – universiteto ligoninė ar kita sveikatos priežiūros įstaiga, sveikatos apsaugos ministro ir švietimo ir mokslo ministro nustatyta tvarka įgijusi teisę vykdyti rezidentūros programą ar jos dalį. 
+16. Rezidentūros bazė – universiteto ligoninė ar kita sveikatos priežiūros įstaiga, sveikatos apsaugos ministro ir švietimo ir mokslo ministro nustatyta tvarka įgijusi teisę vykdyti medicinos rezidentūrą. 
 Papildyta straipsnio dalimi:
 Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+Straipsnio dalies pakeitimai:
+Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
  
 
 
@@ -207,6 +244,14 @@ Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010IST
 20. Valstybės narės pilietis – Europos Sąjungos valstybės narės, Šveicarijos ar valstybės, pasirašiusios Europos ekonominės erdvės susitarimą, pilietis.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+ 
+
+
+
+
+21. Vyresnysis gydytojas rezidentas – gydytojas rezidentas, studijuojantis antrame ar aukštesniame medicinos rezidentūros kurse pagal medicinos rezidentūros studijų programą, kurios apimtis (trukmė) yra mažiau kaip ketveri metai, ar studijuojantis trečiame ar aukštesniame medicinos rezidentūros kurse pagal medicinos rezidentūros studijų programą, kurios apimtis (trukmė) yra ketveri arba daugiau metų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
  
 
 
@@ -245,9 +290,10 @@ Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010IST
 
 
 
-4. Medicinos rezidentūrą sudaro teorinė dalis ir gydytojo rezidento profesinės veiklos praktika, skirstomos į dalykų ciklus (modulius, praktikumus). Rezidentūros teorinį kursą organizuoja universitetas gydytojo rezidento praktikos vietoje. Profesinės veiklos praktikos metu gydytojas rezidentas dirba gydytoju rezidentu ir įgyja specialių medicinos įgūdžių bei klinikinės patirties. Šiam tikslui rezidentūros bazė su gydytoju rezidentu vietoj profesinės veiklos praktikos sutarties sudaro terminuotą darbo sutartį ir gydytojas rezidentas įdarbinamas gydytoju rezidentu rezidentūros bazėje. Rezidento bazinei pareiginei algai mokėti Sveikatos apsaugos ministerijai skiriami valstybės biudžeto asignavimai. Lėšos rezidentūros bazėms paskirstomos sveikatos apsaugos ministro nustatyta tvarka. Gydytojo rezidento profesinės veiklos praktika skirstoma į jaunesniojo ir vyresniojo gydytojo rezidento praktiką. Gydytojo rezidento profesinės veiklos praktikos apimtį, trukmę, gydytojo rezidento teises, pareigas, kompetenciją, atsakomybę ir bazinės pareiginės algos skaičiavimo metodiką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. Gydytojų rengimą ir profesinių kvalifikacijų įgijimą nustato Lietuvos Respublikos teisės aktai.
+4. Rezidentūros bazė su gydytoju rezidentu sudaro terminuotą darbo sutartį ir gydytojas rezidentas įdarbinamas gydytoju rezidentu rezidentūros bazėje. Gydytojui rezidentui mokama pareiginė alga, kuri apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš pareiginės algos bazinio dydžio, nustatyto Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatyme nustatyta tvarka. Jaunesniajam gydytojui rezidentui taikomas pareiginės algos koeficientas – 7,6, vyresniajam gydytojui rezidentui – 8,1. Gydytojo rezidento pareiginė alga mokama iš Sveikatos apsaugos ministerijai patvirtintų valstybės biudžeto asignavimų. Medicinos rezidentūros vietų, į kurias priimtiems asmenims pareiginė alga mokama iš Sveikatos apsaugos ministerijai patvirtintų valstybės biudžeto asignavimų, skaičius neturi viršyti tais metais vientisąsias medicinos studijas turinčių baigti asmenų skaičiaus. Medicinos rezidentūros studijų programų vykdymo reikalavimus ir jų priežiūros tvarką nustato Vyriausybė. 
 Straipsnio dalies pakeitimai:
 Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
  
 
 
@@ -269,9 +315,10 @@ Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010IST
 
 
 
-2. Gydytojas verstis medicinos praktika gali tik sveikatos priežiūros įstaigoje, turinčioje licenciją teikti asmens sveikatos priežiūros paslaugas. Gydytojas rezidentas verstis medicinos praktika pagal rezidentūros studijų programą, išskyrus konsultavimą, gali tik įstaigoje, kurioje atlieka rezidentūrą, ir tik prižiūrimas gydytojo rezidento vadovo.
+2. Gydytojas verstis medicinos praktika gali tik sveikatos priežiūros įstaigoje, turinčioje licenciją teikti asmens sveikatos priežiūros paslaugas. Gydytojas rezidentas verstis medicinos praktika pagal rezidentūros studijų programą, išskyrus konsultavimą, gali tik rezidentūros bazėje. Verstis medicinos praktika pagal medicinos rezidentūros studijų programą gydytojas rezidentas gali tik prižiūrimas gydytojo rezidento vadovo, išskyrus gydytoją rezidentą, kuriam išduotas pakopinių kompetencijų patvirtinimo pažymėjimas. Gydytojui rezidentui, kuris turi pakopinių kompetencijų patvirtinimo pažymėjimą ir savarankiškai be gydytojo rezidento vadovo priežiūros verčiasi medicinos praktika, rezidentūros bazė privalo užtikrinti galimybę konsultuotis su rezidentūros bazėje dirbančiais gydytojais. 
 Straipsnio dalies pakeitimai:
 Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
+Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
  
 
 
@@ -282,7 +329,10 @@ Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010IST
 
 
 
-4. Medicinos praktikos profesinių kvalifikacijų rūšis ir gydytojo kompetenciją nustato sveikatos apsaugos ministras. Gydytojo rezidento kompetencija įgyjama medicinos rezidentūros metu išėjus rezidentūros programą ar jos dalį.
+4. Medicinos praktikos profesinių kvalifikacijų rūšis ir gydytojo kompetenciją nustato sveikatos apsaugos ministras. Gydytojo rezidento kompetencija įgyjama baigus rezidentūros programą ar jos dalį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
+ 
 
 
 
@@ -429,7 +479,7 @@ Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
 
 
 
-5 straipsnis.         Europos Sąjungos valstybių narių gydytojų teisės laikinai verstis medicinos praktika ar atlikti vienkartinę medicinos praktikos paslaugą Lietuvos Respublikoje įgijimo sąlygos 
+5 straipsnis. Europos Sąjungos valstybių narių gydytojų teisės laikinai verstis medicinos praktika ar atlikti vienkartinę medicinos praktikos paslaugą Lietuvos Respublikoje įgijimo sąlygos 
 
 
 1. Gydytojas valstybės narės pilietis turi teisę teikti laikinas medicinos praktikos paslaugas Lietuvos Respublikoje teisės aktų nustatyta tvarka ir neturėdamas licencijos. Prieš suteikdamas laikiną medicinos praktikos paslaugą, jis apie šios paslaugos teikimą iš anksto privalo sveikatos apsaugos ministro nustatyta tvarka raštu informuoti licencijas išduodančią instituciją. Ypatingais atvejais, suteikus būtinąją medicinos pagalbą, informacija apie tai privalo būti pateikta licencijas išduodančiai institucijai nedelsiant po šios paslaugos suteikimo. Informuojant apie teikiamas paslaugas būtina pateikti pranešimą ir dokumentus, patvirtinančius, kad toks gydytojas teisėtai verčiasi gydytojo veikla valstybėje narėje, kurioje yra jis įsisteigęs ir turi gydytojo diplomą, pažymėjimą ar kitą oficialų kvalifikaciją patvirtinantį dokumentą, būtiną konkrečioms paslaugoms teikti. Dokumentai turi būti pateikti ne vėliau kaip po 12 mėnesių nuo jų išdavimo dienos. Gydytojo, norinčio teikti arba jau suteikusio vienkartines medicinos praktikos paslaugas ir apie tai informavusio licencijas išduodančią instituciją, pateiktas prašymas ir dokumentai registruojami registre.
@@ -803,6 +853,7 @@ Gydytojas, pažeidęs šio Įstatymo reikalavimus, atsako Lietuvos Respublikos t
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
  
  
@@ -813,6 +864,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos medicinos  praktikos įstatymo
 priedas
  
@@ -880,3 +932,8 @@ Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 2 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
 Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 4, 6, 7, 8 ir 10 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
+Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 2, 3 ir 4 straipsnių pakeitimo įstatymas
