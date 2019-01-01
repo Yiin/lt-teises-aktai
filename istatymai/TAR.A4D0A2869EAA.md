@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A4D0A2869EAA"
 
 # Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymas
 
-Suvestinė redakcija nuo 2015-12-31 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 62-2496, i. k. 1021010ISTA00IX-931
  
@@ -1018,7 +1018,10 @@ PRIEMONIŲ APYVARTOS REIKALAVIMAI
 
 
 
-5) parengti ir turėti objekto, kuriame laikomi ir gaminami civilinės pirotechnikos priemonės, pirotechniniai mišiniai, žaliavos, galimų avarijų prevencijos ir padarinių likvidavimo planus, suderintus su Priešgaisrinės apsaugos ir gelbėjimo departamentu ar jam pavaldžiomis įstaigomis;
+5) parengti ir turėti objekto, kuriame laikomi ir gaminami civilinės pirotechnikos priemonės, pirotechniniai mišiniai, žaliavos, galimų avarijų prevencijos ir padarinių likvidavimo planus, suderintus su Priešgaisrinės apsaugos ir gelbėjimo departamentu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
+ 
 
 
 
@@ -1058,12 +1061,18 @@ PRIEMONIŲ APYVARTOS REIKALAVIMAI
 
 
 
-2) suderinti su savivaldybės administracijos direktoriumi ir Priešgaisrinės apsaugos ir gelbėjimo departamentu ar jam pavaldžiomis įstaigomis vietą, kurioje bus naudojami F4 kategorijos fejerverkai, T2 ar P2 kategorijų civilinės pirotechnikos priemonės, ir civilinių pirotechnikos priemonių naudojimo laiką;
+2) suderinti su savivaldybės administracijos direktoriumi ir Priešgaisrinės apsaugos ir gelbėjimo departamentu vietą, kurioje bus naudojami F4 kategorijos fejerverkai, T2 ar P2 kategorijų civilinės pirotechnikos priemonės, ir civilinių pirotechnikos priemonių naudojimo laiką; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
+ 
 
 
 
 
-3) parengti ir turėti vietos, kurioje planuoja naudoti F4 kategorijos fejerverkus, T2 ar P2 kategorijų civilines pirotechnikos priemones, galimos avarijos prevencijos ir padarinių likvidavimo planą, suderintą su Priešgaisrinės apsaugos ir gelbėjimo departamentu ar jam pavaldžiomis įstaigomis.
+3) parengti ir turėti vietos, kurioje planuoja naudoti F4 kategorijos fejerverkus, T2 ar P2 kategorijų civilines pirotechnikos priemones, galimos avarijos prevencijos ir padarinių likvidavimo planą, suderintą su Priešgaisrinės apsaugos ir gelbėjimo departamentu. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
+ 
 
 
 
@@ -1154,7 +1163,10 @@ PRIEMONIŲ APYVARTOS REIKALAVIMAI
 
 
 
-3) Priešgaisrinės apsaugos ir gelbėjimo departamentas ar jam pavaldi įstaiga, ar teritorinė policijos įstaiga per vienus metus antrą kartą praneša apie nustatytus pagal kompetenciją Lietuvos Respublikos teisės aktų, reglamentuojančių civilinių pirotechnikos priemonių apyvartą, pažeidimus, padarytus asmens, turinčio leidimą platinti F2 kategorijos fejerverkus;
+3) Priešgaisrinės apsaugos ir gelbėjimo departamentas ar teritorinė policijos įstaiga per vienus metus antrą kartą praneša apie nustatytus pagal kompetenciją Lietuvos Respublikos teisės aktų, reglamentuojančių civilinių pirotechnikos priemonių apyvartą, pažeidimus, padarytus asmens, turinčio leidimą platinti F2 kategorijos fejerverkus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
+ 
 
 
 
@@ -1441,7 +1453,10 @@ CIVILINIŲ PIROTECHNIKOS PRIEMONIŲ APYVARTOS KONTROLĖ
 22 straipsnis. Civilinių pirotechnikos priemonių apyvartos kontrolė, šią kontrolę atliekančių valstybės institucijų teisės ir pareigos
 
 
-1. Civilinių pirotechnikos priemonių apyvartą Lietuvos Respublikos teritorijoje pagal kompetenciją kontroliuoja Policijos departamentas ir jam pavaldžios įstaigos, Priešgaisrinės apsaugos ir gelbėjimo departamentas ir jam pavaldžios įstaigos, savivaldybės administracijos direktorius. 
+1. Civilinių pirotechnikos priemonių apyvartą Lietuvos Respublikos teritorijoje pagal kompetenciją kontroliuoja Policijos departamentas ir jam pavaldžios įstaigos, Priešgaisrinės apsaugos ir gelbėjimo departamentas, savivaldybės administracijos direktorius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
+ 
 
 
 
@@ -1700,3 +1715,8 @@ Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2006, 2015-11-12, paskelbta TAR 2015-11-23, i. k. 2015-18574
 Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1770, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20881
+Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 15, 16 ir 22 straipsnių pakeitimo įstatymas
