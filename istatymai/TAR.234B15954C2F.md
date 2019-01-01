@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.234B15954C2F"
 
 # Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 44-1247, i. k. 1001010ISTAIII-1679
  
@@ -1083,7 +1083,10 @@ BIOMEDICININIŲ TYRIMŲ ATLIKIMO PRIEŽIŪRA
 
 
 
-4. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupę sudaro 9 nariai, iš jų 5 yra biomedicinos mokslų, 4 – mokslo laipsnį turintys socialinių ar humanitarinių mokslų srities specialistai. Per sveikatos apsaugos ministro nustatytą terminą ir jo nustatyta tvarka biomedicinos mokslų srities specialistus į Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupę siūlo asmens sveikatos priežiūros specialistų asociacijos, o socialinių ar humanitarinių mokslų srities specialistus siūlo universitetai, kuriuose yra dėstomi bioetikos arba sveikatos teisės dalykai. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės personalinę sudėtį tvirtina sveikatos apsaugos ministras, vadovaudamasis nešališkumo ir skaidrumo principais, atsižvelgdamas į kandidatų profesinę kvalifikaciją ir kompetenciją bei patirtį biomedicininių tyrimų etikos srityje. Šios grupės veiklos ir ekspertų darbo apmokėjimo tvarką nustato sveikatos apsaugos ministras.
+4. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupę sudaro 9 nariai, iš jų 5 yra biomedicinos mokslų specialistai, 3 – mokslo laipsnį turintys socialinių ar humanitarinių mokslų srities specialistai ir vienas pacientų organizacijos atstovas. Per sveikatos apsaugos ministro nustatytą terminą ir jo nustatyta tvarka biomedicinos mokslų srities specialistus į Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupę siūlo asmens sveikatos priežiūros specialistų asociacijos, socialinių ar humanitarinių mokslų srities specialistus siūlo universitetai, kuriuose yra dėstomi bioetikos arba sveikatos teisės dalykai, o pacientų organizacijos atstovą siūlo pacientų organizacijos. Lietuvos bioetikos komiteto biomedicininių tyrimų ekspertų grupės personalinę sudėtį tvirtina sveikatos apsaugos ministras, vadovaudamasis nešališkumo ir skaidrumo principais, atsižvelgdamas į kandidatų profesinę kvalifikaciją ir kompetenciją bei patirtį biomedicininių tyrimų etikos srityje. Šios grupės veiklos tvarką nustato sveikatos apsaugos ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-735, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18507
+ 
 
 
 
@@ -1424,3 +1427,8 @@ Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 4, 6
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1938, 2015-09-17, paskelbta TAR 2015-09-25, i. k. 2015-14272
 Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-735, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18507
+Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 1, 2, 7, 11, 12, 20, 21, 22, 25 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 11-1, 24-2 straipsniais įstatymas
