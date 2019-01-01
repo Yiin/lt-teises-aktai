@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-07-04 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-01
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -323,7 +323,10 @@ Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
 
 
 
-4) Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka ir terminais teikti ataskaitų rinkinius;
+4) Neteko galios nuo 2019-01-01
+Straipsnio punkto naikinimas:
+Nr. XIII-1182, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09073
+ 
 
 
 
@@ -333,7 +336,10 @@ Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
 
 
 
-6) užtikrinti pagal Viešojo sektoriaus atskaitomybės įstatymą teikiamų ataskaitų rinkinių ir statistinių ataskaitų teisingumą ir pateikimą laiku;
+6) Neteko galios nuo 2019-01-01
+Straipsnio punkto naikinimas:
+Nr. XIII-1182, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09073
+ 
 
 
 
@@ -363,7 +369,10 @@ Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
 
 
 
-4) Viešojo sektoriaus atskaitomybės įstatymo nustatyta tvarka ir terminais teikti ataskaitų rinkinius asignavimų valdytojui;
+4) Neteko galios nuo 2019-01-01
+Straipsnio punkto naikinimas:
+Nr. XIII-1182, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09073
+ 
 
 
 
@@ -373,7 +382,10 @@ Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
 
 
 
-6) užtikrinti pagal Viešojo sektoriaus atskaitomybės įstatymą teikiamų ataskaitų rinkinių ir statistinių ataskaitų teisingumą ir pateikimą laiku asignavimų valdytojui;
+6) Neteko galios nuo 2019-01-01
+Straipsnio punkto naikinimas:
+Nr. XIII-1182, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09073
+ 
 
 
 
@@ -453,7 +465,10 @@ Biudžeto asignavimų valdytojai ir jiems pavaldžių biudžetinių įstaigų, m
 
 
 
-3) buhalterinės apskaitos organizavimą, ataskaitų rinkinių pagal Viešojo sektoriaus atskaitomybės įstatymą ir kitų teisės aktų reikalavimus rengimą ir pateikimą.
+3) Neteko galios nuo 2019-01-01
+Straipsnio punkto naikinimas:
+Nr. XIII-1182, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09073
+ 
 
 
 
@@ -2128,3 +2143,8 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 4, 6, 10, 14, 15, 18
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 5, 17, 19, 37, 38 ir 39 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1182, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09073
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 5 ir 7 straipsnių pakeitimo įstatymas
