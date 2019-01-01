@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-06-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 104-2322; Žin. 1996, Nr.5-0, i. k. 0951010ISTA00I-1113
  
@@ -448,7 +448,10 @@ Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, Juridinių asmenų r
 
 
 
-5) garantuoti, kad pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą teikiami ataskaitų rinkiniai ir statistinės ataskaitos būtų teisingi;
+5) organizuoti biudžetinės įstaigos buhalterinę apskaitą pagal Lietuvos Respublikos buhalterinės apskaitos įstatymą;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
+ 
 
 
 
@@ -509,8 +512,10 @@ Nr. XIII-932, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21607
 
 
 III SKYRIUS
-BIUDŽETINĖS ĮSTAIGOS TURTAS. BUHALTERINĖ APSKAITA, FINANSINIŲ IR BIUDŽETO VYKDYMO ATASKAITŲ RINKINIAI. AUDITAS
+BIUDŽETINĖS ĮSTAIGOS TURTAS. BUHALTERINĖ APSKAITA, METINIŲ ATASKAITŲ RINKINYS, JO AUDITAS IR METINĖ VEIKLOS ATASKAITA 
  
+Pakeistas skyriaus pavadinimas:
+Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
  
 
 
@@ -550,13 +555,15 @@ BIUDŽETINĖS ĮSTAIGOS TURTAS. BUHALTERINĖ APSKAITA, FINANSINIŲ IR BIUDŽETO 
 
 
 
-11 straipsnis. Biudžetinės įstaigos buhalterinė apskaita, finansinių ir biudžeto vykdymo ataskaitų rinkiniai
+11 straipsnis. Biudžetinės įstaigos buhalterinė apskaita, metinių ataskaitų rinkinys, metinė veiklos ataskaita
 
 
-Biudžetinės įstaigos buhalterinė apskaita organizuojama ir finansinių ir biudžeto vykdymo ataskaitų rinkiniai sudaromi ir teikiami Lietuvos Respublikos buhalterinės apskaitos įstatymo, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo ir kitų teisės aktų nustatyta tvarka.
+Biudžetinės įstaigos buhalterinė apskaita organizuojama ir metinių ataskaitų rinkinys, metinė veiklos ataskaita rengiami, teikiami ir skelbiami Buhalterinės apskaitos įstatymo, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo ir jų įgyvendinamųjų teisės aktų nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
  
-
-
 
 
 
@@ -620,7 +627,10 @@ BIUDŽETINĖS ĮSTAIGOS PERTVARKYMAS IR PABAIGA
 
 
 
-3) kur ir kada galima susipažinti su juridinio asmens, kuris veiks po pertvarkymo, įstatais ir pertvarkomos biudžetinės įstaigos praėjusių trejų finansinių metų finansinių ir biudžeto vykdymo ataskaitų rinkiniais, finansinės būklės ataskaitomis ir žemesniojo lygio biudžeto išlaidų sąmatos vykdymo ataskaitomis. 
+3) kur ir kada galima susipažinti su juridinio asmens, kuris veiks po pertvarkymo, įstatais, pertvarkomos biudžetinės įstaigos praėjusių trejų finansinių metų metinių ataskaitų rinkiniais ir metinėmis veiklos ataskaitomis.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
+ 
 
 
 
@@ -708,7 +718,10 @@ Nr. XII-1790, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09812
 
 
 
-2) kur ir nuo kada galima susipažinti su biudžetinės įstaigos reorganizavimo sąlygomis, po reorganizavimo veiksiančių biudžetinių įstaigų nuostatų projektais ir reorganizavime dalyvaujančių biudžetinių įstaigų praėjusių trejų finansinių metų finansinių ir biudžeto vykdymo ataskaitų rinkiniais, finansinės būklės ataskaitomis ir žemesniojo lygio biudžeto išlaidų sąmatos vykdymo ataskaitomis.
+2) kur ir nuo kada galima susipažinti su biudžetinės įstaigos reorganizavimo sąlygomis, po reorganizavimo veiksiančių biudžetinių įstaigų nuostatų projektais, reorganizavime dalyvaujančių biudžetinių įstaigų praėjusių trejų finansinių metų metinių ataskaitų rinkiniais ir metinėmis veiklos ataskaitomis.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
+ 
 
 
 
@@ -725,7 +738,10 @@ Nr. XII-1790, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09812
 
 
 
-10. Reorganizuojamos biudžetinės įstaigos kreditorius turi teisę reikalauti prievolę nutraukti ar ją įvykdyti prieš terminą, taip pat atlyginti nuostolius, jei tai numatyta sandoryje ar yra pagrindas manyti, kad prievolės įvykdymas dėl reorganizavimo pasunkės, ir jei kreditoriaus reikalavimu biudžetinė įstaiga papildomai neužtikrino prievolių įvykdymo. Reorganizuojamos biudžetinės įstaigos kreditorius savo reikalavimus gali pateikti ne vėliau kaip per 60 dienų nuo viešo paskelbimo apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą pirmos dienos. Reorganizuojamos biudžetinės įstaigos kreditoriai turi teisę susipažinti su reorganizavimo sąlygomis, po reorganizavimo veiksiančių biudžetinių įstaigų nuostatų projektais, taip pat visų reorganizavime dalyvaujančių biudžetinių įstaigų praėjusių trejų finansinių metų finansinių ir biudžeto vykdymo ataskaitų rinkiniais, finansinės būklės ataskaitomis ir žemesniojo lygio biudžeto išlaidų sąmatos vykdymo ataskaitomis. Kiekvienas biudžetinės įstaigos kreditorius turi teisę gauti visų šioje dalyje išvardytų dokumentų kopijas. 
+10. Reorganizuojamos biudžetinės įstaigos kreditorius turi teisę reikalauti prievolę nutraukti ar ją įvykdyti prieš terminą, taip pat atlyginti nuostolius, jeigu tai numatyta sandoryje ar yra pagrindas manyti, kad prievolės įvykdymas dėl reorganizavimo pasunkės, ir jeigu kreditoriaus reikalavimu biudžetinė įstaiga papildomai neužtikrino prievolių įvykdymo. Reorganizuojamos biudžetinės įstaigos kreditorius savo reikalavimus gali pateikti ne vėliau kaip per 60 dienų nuo viešo paskelbimo apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą pirmos dienos. Reorganizuojamos biudžetinės įstaigos kreditoriai turi teisę susipažinti su reorganizavimo sąlygomis, po reorganizavimo veiksiančių biudžetinių įstaigų nuostatų projektais, taip pat visų reorganizavime dalyvaujančių biudžetinių įstaigų praėjusių trejų finansinių metų metinių ataskaitų rinkiniais ir metinėmis veiklos ataskaitomis. Kiekvienas biudžetinės įstaigos kreditorius turi teisę gauti visų šioje dalyje išvardytų dokumentų kopijas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
+ 
 
 
 
@@ -979,3 +995,8 @@ Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 3 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-932, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21607
 Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 papildymo 9-1 straipsniu įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
+Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 9, 11, 13 ir 14 straipsnių ir III skyriaus pavadinimo pakeitimo įstatymas
