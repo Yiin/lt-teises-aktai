@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -1619,7 +1619,10 @@ Nr. XI-2171, 2012-06-29, Žin., 2012, Nr. 83-4345 (2012-07-14), i. k. 1121010IST
 
 
 
-6) pensijos, pensijų išmokos ir vietoj pensijų mokamos kompensacijos, rentos;
+6) pensijos, socialinio draudimo senatvės arba netekto darbingumo (invalidumo) pensijų priemokos, pensijų išmokos ir vietoj pensijų mokamos kompensacijos, rentos;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1402, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11463
+ 
 
 
 
@@ -2239,3 +2242,8 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 4, 16, 18, 19,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1292, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10596
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 4, 16, 18, 19, 20, 21, 26, 29 ir 34 straipsnių pakeitimo įstatymo Nr. XIII-647 4, 5 ir 10 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1402, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11463
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 30 straipsnio pakeitimo įstatymas
