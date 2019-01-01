@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
  
@@ -706,7 +706,10 @@ TREČIASIS SKIRSNIS
 
 
 
-5) šilumos ūkio plėtros ir modernizavimo priemonių ir sprendinių įgyvendinimo būdai, formos (savivaldybės ar jos kontroliuojamos įmonės vykdomi projektai, investicijos viešojo ir privataus sektoriaus partnerystės ir (ar) koncesijų pagrindais, konkursai, investicijos, atliekamos privačia iniciatyva, ar kiti būdai), planas, grafikas ir terminai;
+5) šilumos ūkio plėtros ir modernizavimo priemonių ir sprendinių įgyvendinimo būdai, formos (savivaldybės ar jos valdomos įmonės vykdomi projektai, investicijos viešojo ir privataus sektoriaus partnerystės ir (ar) koncesijų pagrindais, konkursai, investicijos, atliekamos privačia iniciatyva, ar kiti būdai), planas, grafikas ir terminai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1168, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08641
+ 
 
 
 
@@ -1818,13 +1821,17 @@ Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
 
 
 
-3. Į šilumos ir (ar) karšto vandens kainą įtraukiant pagrįstas sąnaudas už kurą, privalo būti įvertinama, ar energetikos įmonė laikėsi Energijos išteklių rinkos įstatyme numatytų įpareigojimų. Kai kuro, naudojamo šilumos ir (ar) karšto vandens gamybai, įsigijimas buvo vykdomas ne per energijos išteklių biržą, pagrįstomis sąnaudomis pripažįstama ir į šilumos ir (ar) karšto vandens kainos kintamąją dedamąją gali būti įtraukiamos įmonės biokuro įsigijimo sąnaudos, neviršijančios vidutinės biokuro kainos arba vidutinės biokuro biržos kainos. Vidutinę biokuro kainą ir vidutinę biokuro biržos kainą, vadovaudamasi savo nustatyta tvarka, nustato Valstybinė kainų ir energetikos kontrolės komisija.
+3. Į šilumos ir (ar) karšto vandens kainą įtraukiant pagrįstas sąnaudas už kurą, privalo būti įvertinama, ar energetikos įmonė laikėsi Energijos išteklių rinkos įstatyme numatytų įpareigojimų. Kai kuro, naudojamo šilumos ir (ar) karšto vandens gamybai, įsigijimas buvo vykdomas ne per energijos išteklių biržą ir (ar) gamtinių dujų biržą, pagrįstomis sąnaudomis pripažįstama ir į šilumos ir (ar) karšto vandens kainos kintamąją dedamąją gali būti įtraukiamos įmonės biokuro ir gamtinių dujų įsigijimo sąnaudos, neviršijančios vidutinės biokuro kainos arba vidutinės biokuro biržos kainos, arba vidutinės gamtinių dujų biržos kainos. Vidutinę biokuro kainą, vidutinę biokuro biržos kainą ir vidutinę gamtinių dujų biržos kainą, vadovaudamasi savo nustatyta tvarka, nustato Valstybinė kainų ir energetikos kontrolės komisija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1784, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21229
+ 
 
 
 
 
-4. Šio straipsnio 3 dalyje nurodytas kuro, naudojamo šilumos ir (ar) karšto vandens gamybai, sąnaudų įtraukimo į šilumos ir (ar) karšto vandens kainą ribojimas pagal vidutinę biokuro biržos kainą nėra taikomas tais atvejais, kai energijos išteklių biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo atitinkamos biokuro rūšies kiekio ar jo dalies. 
-Pastaba. 3 ir 4 dalių nuostatos, susijusios su vidutinės biokuro kainos taikymu, galioja nuo 2014 m. sausio 1 d. iki 2016 m. sausio 1 d. Nuo 2016 m. sausio 1 d. galioja 3 ir 4 dalių nuostatos, susijusios su vidutinės biokuro biržos kainos taikymu (Įstatymas Nr. XII-492).
+4. Šio straipsnio 3 dalyje nurodytas kuro, naudojamo šilumos ir (ar) karšto vandens gamybai, sąnaudų įtraukimo į šilumos ir (ar) karšto vandens kainą ribojimas pagal vidutinę biokuro biržos kainą ir (ar) gamtinių dujų biržos kainą nėra taikomas tais atvejais, kai energijos išteklių biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo atitinkamos biokuro rūšies kiekio ar jo dalies ir (ar) gamtinių dujų biržoje nebuvo galima įsigyti reikalingo gamtinių dujų kiekio.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1784, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21229
  
 
 
@@ -2057,7 +2064,11 @@ Nr. XIII-335, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07558
 
 
 
-6. Reorganizuojant ar privatizuojant savivaldybių kontroliuojamus šilumos tiekėjus, savivaldybės užtikrina, kad jų kontroliuojamoms įmonėms nuosavybės teise priklausytų šilumos perdavimo tinklai, kuriais realizuojama ne mažiau kaip 10 GWh per metus šilumos ir ne mažiau kaip 30 procentų šilumos vartotojų poreikiams patenkinti reikalingų šilumos gamybos pajėgumų kiekviename tinkle, įskaitant reikalingą šiluminės galios rezervą.
+6. Reorganizuojant savivaldybių valdomus šilumos tiekėjus ar privatizuojant dalį savivaldybių valdomų šilumos tiekėjų akcijų, savivaldybės užtikrina, kad jų valdomoms įmonėms nuosavybės teise priklausytų šilumos perdavimo tinklai, kuriais realizuojama ne mažiau kaip 10 GWh per metus šilumos ir ne mažiau kaip 30 procentų šilumos vartotojų poreikiams patenkinti reikalingų šilumos gamybos pajėgumų kiekviename tinkle, įskaitant reikalingą šiluminės galios rezervą, ir išlaiko nuosavybės teisę į savivaldybių valdomų šilumos tiekėjų akcijas, suteikiančias daugiau kaip 2/3 balsų visuotiniame akcininkų susirinkime. 
+TAR pastaba. 6 dalies nuostatos, kad savivaldybės išlaiko nuosavybės teisę į savivaldybių valdomų šilumos tiekėjų akcijas, suteikiančias daugiau kaip 2/3 balsų visuotiniame akcininkų susirinkime, taikomos po įstatymo Nr. XIII-1168 įsigaliojimo (2019-01-01) reorganizuojant savivaldybių valdomus šilumos tiekėjus ar privatizuojant dalį savivaldybių valdomų šilumos tiekėjų akcijų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1168, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08641
+ 
 
 
 Straipsnio pakeitimai:
@@ -2070,6 +2081,7 @@ Nr. XI-592, 2009-12-21, Žin., 2010, Nr. 1-6 (2010-01-05)
 
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
+ 
  
  
 RESPUBLIKOS PREZIDENTAS                                                         ROLANDAS PAKSAS
@@ -2216,3 +2228,18 @@ Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 37 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
 Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 10, 20, 32 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1168, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08641
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 7 ir 37 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1628, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18861
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 30 ir 34 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1784, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21229
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 32 straipsnio pakeitimo įstatymas
