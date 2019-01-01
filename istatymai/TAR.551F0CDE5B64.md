@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.551F0CDE5B64"
 
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas
 
-Suvestinė redakcija nuo 2017-08-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-03-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1598, i. k. 0991010ISTAIII-1185
  
@@ -148,239 +148,306 @@ BENDROSIOS NUOSTATOS
 
 
 
-15. Kabelinė retransliacija – tuo pačiu metu vykstantis, nepakeistas ir nesutrumpintas viešam priėmimui skirtų radijo ir (ar) televizijos programų, transliuojamų laidais ar bevielio ryšio priemonėmis, įskaitant palydovines sistemas, perdavimas viešam priėmimui kabelinėmis ar mikrobanginėmis priemonėmis.
-
-
-
-
-16. Kabelinės retransliacijos operatorius – fizinis arba juridinis asmuo, kuris naudojasi kabelinėmis ar mikrobanginėmis priemonėmis ir bendraisiais priėmimo tinklais, kai televizijos ar radijo stočių signalai paskirstomi į daugiau kaip 40 butų (valdų). 
-
-
-
-
-17. Kolektyviai administruojama daugiateritorė licencija – kolektyvinio administravimo organizacijos suteikta licencija naudoti kūrinius, galiojanti daugiau negu vienos valstybės narės teritorijoje. 
+15. Įgaliotasis subjektas – juridinis asmuo ar kitas subjektas, kuris valstybės įgaliotas nesiekiant pelno teikti neįgaliesiems naudos gavėjams švietimo, mokymo, adaptuoto skaitymo ar susipažinimo su informacija paslaugas. Įgaliotasis subjektas taip pat gali būti viešoji įstaiga arba kitą juridinio asmens teisinę formą turinti ne pelno organizacija, kuriai šių paslaugų teikimas yra viena iš pagrindinių jos veiklos sričių, institucinių įsipareigojimų ar dalis jos viešojo intereso uždavinių (pvz., bet kokio tipo biblioteka, švietimo įstaiga, kita ne pelno organizacija). 
 Papildyta straipsnio dalimi:
-Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-18. Kolektyviai administruojamas repertuaras – visuma kūrinių ar (ir) gretutinių teisių objektų, teises į kuriuos administruoja kolektyvinio administravimo organizacija. 
-Papildyta straipsnio dalimi:
-Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+16. Kabelinė retransliacija – tuo pačiu metu vykstantis, nepakeistas ir nesutrumpintas viešam priėmimui skirtų radijo ir (ar) televizijos programų, transliuojamų laidais ar bevielio ryšio priemonėmis, įskaitant palydovines sistemas, perdavimas viešam priėmimui kabelinėmis ar mikrobanginėmis priemonėmis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-19. Kolektyviai administruojamų autorių teisių ar gretutinių teisių turėtojas (toliau – kolektyviai administruojamų teisių turėtojas) – asmuo, išskyrus kolektyvinio administravimo organizaciją, kuriam priklauso kolektyviai administruojamos autorių teisės ar gretutinės teisės arba kuris pagal kūrinių ar gretutinių teisių objektų naudojimo sutartį ar pagal šį Įstatymą turi teisę į dalį kolektyvinio administravimo pajamų. 
-Papildyta straipsnio dalimi:
-Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+17. Kabelinės retransliacijos operatorius – fizinis arba juridinis asmuo, kuris naudojasi kabelinėmis ar mikrobanginėmis priemonėmis ir bendraisiais priėmimo tinklais, kai televizijos ar radijo stočių signalai paskirstomi į daugiau kaip 40 butų (valdų). 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-20. Kolektyviai administruojamų kūrinių ar gretutinių teisių objektų naudotojas – asmuo, kuris naudoja kūrinius ir (ar) gretutinių teisių objektus pagal kolektyvinio administravimo organizacijos suteiktą licenciją ir moka kolektyviai administruojamų autorių teisių ar gretutinių teisių turėtojams atlyginimą arba kompensaciją, tačiau nėra kūrinių ar gretutinių teisių objektų vartotojas. 
+18. Kolektyviai administruojama daugiateritorė licencija – kolektyvinio administravimo organizacijos suteikta licencija naudoti kūrinius, galiojanti daugiau negu vienos valstybės narės teritorijoje. 
 Papildyta straipsnio dalimi:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-21. Kolektyvinio administravimo organizacijos narys – autorių teisių ar gretutinių teisių turėtojas arba šių teisių turėtojams atstovaujantis asmuo, taip pat kita kolektyvinio administravimo organizacija ar šių teisių turėtojų asociacija, atitinkanti narystės reikalavimus ir kolektyvinio administravimo organizacijos priimta į organizaciją. 
+19. Kolektyviai administruojamas repertuaras – visuma kūrinių ar (ir) gretutinių teisių objektų, teises į kuriuos administruoja kolektyvinio administravimo organizacija. 
 Papildyta straipsnio dalimi:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-22. Kolektyvinio autorių teisių ir gretutinių teisių administravimo atskaitymai (toliau – kolektyvinio administravimo atskaitymai) – kolektyvinio administravimo organizacijos atskaitoma dalis iš pajamų, gautų už kūrinių ar gretutinių teisių objektų naudojimą, arba iš investuotų pajamų už kūrinių ar gretutinių teisių objektų naudojimą, kuria padengiamos organizacijos patiriamos autorių teisių arba gretutinių teisių administravimo sąnaudos. 
+20. Kolektyviai administruojamų autorių teisių ar gretutinių teisių turėtojas (toliau – kolektyviai administruojamų teisių turėtojas) – asmuo, išskyrus kolektyvinio administravimo organizaciją, kuriam priklauso kolektyviai administruojamos autorių teisės ar gretutinės teisės arba kuris pagal kūrinių ar gretutinių teisių objektų naudojimo sutartį ar pagal šį Įstatymą turi teisę į dalį kolektyvinio administravimo pajamų. 
 Papildyta straipsnio dalimi:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-23. Kolektyvinio autorių teisių ir gretutinių teisių administravimo atstovavimo sutartis (toliau – kolektyvinio administravimo atstovavimo sutartis) – kolektyvinio administravimo organizacijų tarpusavio sutartis, kuria viena organizacija įgalioja kitą organizaciją administruoti jos atstovaujamų autorių teisių ir gretutinių teisių turėtojų teises, įskaitant atstovavimo sutartis dėl daugiateritorių licencijų teikimo. 
+21. Kolektyviai administruojamų kūrinių ar gretutinių teisių objektų naudotojas – asmuo, kuris naudoja kūrinius ir (ar) gretutinių teisių objektus pagal kolektyvinio administravimo organizacijos suteiktą licenciją ir moka kolektyviai administruojamų autorių teisių ar gretutinių teisių turėtojams atlyginimą arba kompensaciją, tačiau nėra kūrinių ar gretutinių teisių objektų vartotojas. 
 Papildyta straipsnio dalimi:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-24. Kolektyvinio autorių teisių ir gretutinių teisių administravimo nepriklausomas subjektas (toliau – kolektyvinio administravimo nepriklausomas subjektas) – juridinis asmuo, kuris įstatymo ir sutarties pagrindu administruoja autorių teises ar gretutines teises daugiau negu vieno šių teisių turėtojo naudai, kurio vienintelis ar pagrindinis tikslas – bendra tų teisių turėtojų nauda ir kuris nėra valdomas ar kontroliuojamas teisių turėtojų ir yra įsteigtas kaip pelno siekiantis asmuo. 
+22. Kolektyvinio administravimo organizacijos narys – autorių teisių ar gretutinių teisių turėtojas arba šių teisių turėtojams atstovaujantis asmuo, taip pat kita kolektyvinio administravimo organizacija ar šių teisių turėtojų asociacija, atitinkanti narystės reikalavimus ir kolektyvinio administravimo organizacijos priimta į organizaciją. 
 Papildyta straipsnio dalimi:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-25. Kolektyvinio autorių teisių ir gretutinių teisių administravimo organizacija (toliau – kolektyvinio administravimo organizacija) – juridinis asmuo, kuris įstatymo ir sutarties pagrindu administruoja autorių teises arba gretutines teises daugiau negu vieno šių teisių turėtojo naudai, kurio vienintelis arba pagrindinis tikslas – bendra tų teisių turėtojų nauda ir kuris atitinka vieną ar abu šiuos kriterijus: jį valdo ar kontroliuoja jo paties nariai per kolektyvinio administravimo organizacijos organus; jis įsteigtas kaip pelno nesiekiantis asmuo. 
+23. Kolektyvinio autorių teisių ir gretutinių teisių administravimo atskaitymai (toliau – kolektyvinio administravimo atskaitymai) – kolektyvinio administravimo organizacijos atskaitoma dalis iš pajamų, gautų už kūrinių ar gretutinių teisių objektų naudojimą, arba iš investuotų pajamų už kūrinių ar gretutinių teisių objektų naudojimą, kuria padengiamos organizacijos patiriamos autorių teisių arba gretutinių teisių administravimo sąnaudos. 
 Papildyta straipsnio dalimi:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-26. Kolektyvinio autorių teisių ir gretutinių teisių administravimo pajamos (toliau – kolektyvinio administravimo pajamos) – kolektyvinio administravimo organizacijos surinktas atlyginimas už suteiktas išimtines teises naudoti kūrinius ar gretutinių teisių objektus ir atlyginimas, gautas įgyvendinus teisę į atlyginimą arba teisę į kompensaciją. 
+24. Kolektyvinio autorių teisių ir gretutinių teisių administravimo atstovavimo sutartis (toliau – kolektyvinio administravimo atstovavimo sutartis) – kolektyvinio administravimo organizacijų tarpusavio sutartis, kuria viena organizacija įgalioja kitą organizaciją administruoti jos atstovaujamų autorių teisių ir gretutinių teisių turėtojų teises, įskaitant atstovavimo sutartis dėl daugiateritorių licencijų teikimo. 
 Papildyta straipsnio dalimi:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-27. Komerciniai tikslai – tikslai, kuriais siekiama tiesioginės ar netiesioginės ekonominės ar komercinės naudos; su jais paprastai nesiejama veikla, kurią gera valia vykdo galutiniai vartotojai. 
+25. Kolektyvinio autorių teisių ir gretutinių teisių administravimo nepriklausomas subjektas (toliau – kolektyvinio administravimo nepriklausomas subjektas) – juridinis asmuo, kuris įstatymo ir sutarties pagrindu administruoja autorių teises ar gretutines teises daugiau negu vieno šių teisių turėtojo naudai, kurio vienintelis ar pagrindinis tikslas – bendra tų teisių turėtojų nauda ir kuris nėra valdomas ar kontroliuojamas teisių turėtojų ir yra įsteigtas kaip pelno siekiantis asmuo. 
+Papildyta straipsnio dalimi:
+Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
+ 
+
+
+
+
+26. Kolektyvinio autorių teisių ir gretutinių teisių administravimo organizacija (toliau – kolektyvinio administravimo organizacija) – juridinis asmuo, kuris įstatymo ir sutarties pagrindu administruoja autorių teises arba gretutines teises daugiau negu vieno šių teisių turėtojo naudai, kurio vienintelis arba pagrindinis tikslas – bendra tų teisių turėtojų nauda ir kuris atitinka vieną ar abu šiuos kriterijus: jį valdo ar kontroliuoja jo paties nariai per kolektyvinio administravimo organizacijos organus; jis įsteigtas kaip pelno nesiekiantis asmuo. 
+Papildyta straipsnio dalimi:
+Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
+ 
+
+
+
+
+27. Kolektyvinio autorių teisių ir gretutinių teisių administravimo pajamos (toliau – kolektyvinio administravimo pajamos) – kolektyvinio administravimo organizacijos surinktas atlyginimas už suteiktas išimtines teises naudoti kūrinius ar gretutinių teisių objektus ir atlyginimas, gautas įgyvendinus teisę į atlyginimą arba teisę į kompensaciją. 
+Papildyta straipsnio dalimi:
+Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
+ 
+
+
+
+
+28. Komerciniai tikslai – tikslai, kuriais siekiama tiesioginės ar netiesioginės ekonominės ar komercinės naudos; su jais paprastai nesiejama veikla, kurią gera valia vykdo galutiniai vartotojai. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-28. Kompiuterių programa – žodžiais, kodais, schemomis ar kitu pavidalu pateikiamų instrukcijų, kurios sudaro galimybę kompiuteriui atlikti tam tikrą užduotį ar pasiekti tam tikrą rezultatą, visuma, kai tos instrukcijos pateikiamos tokiomis priemonėmis, kurias kompiuteris gali perskaityti; ši sąvoka apima ir parengiamąją projektinę tokių instrukcijų medžiagą, jeigu pagal ją galima būtų sukurti minėtą instrukcijų visumą.
+29. Kompiuterių programa – žodžiais, kodais, schemomis ar kitu pavidalu pateikiamų instrukcijų, kurios sudaro galimybę kompiuteriui atlikti tam tikrą užduotį ar pasiekti tam tikrą rezultatą, visuma, kai tos instrukcijos pateikiamos tokiomis priemonėmis, kurias kompiuteris gali perskaityti; ši sąvoka apima ir parengiamąją projektinę tokių instrukcijų medžiagą, jeigu pagal ją galima būtų sukurti minėtą instrukcijų visumą.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-29. Kūrinys – originalus kūrybinės veiklos rezultatas literatūros, mokslo ar meno srityje, nepaisant jo meninės vertės, išraiškos būdo ar formos. 
+30. Kūrinys – originalus kūrybinės veiklos rezultatas literatūros, mokslo ar meno srityje, nepaisant jo meninės vertės, išraiškos būdo ar formos. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-30. Kūrinio, gretutinių teisių ar sui generis teisių objekto naudotojas – fizinis arba juridinis asmuo, kuris naudoja kūrinių, gretutinių teisių ar sui generis teisių objektų originalus ar jų kopijas (bet kokiu būdu juos atgamina, išleidžia, importuoja, parduoda, nuomoja, teikia panaudai ar kitaip platina, naudoja viešam atlikimui ar viešam rodymui, transliuoja, retransliuoja ar kitaip viešai juos skelbia). Atlikėjas nelaikomas viešai atliekamo kūrinio ar gretutinių teisių objekto naudotoju, jeigu jis neorganizuoja ir (ar) nefinansuoja kūrinio ar gretutinių teisių objekto panaudojimo viešam atlikimui. 
+31. Kūrinio, gretutinių teisių ar sui generis teisių objekto naudotojas – fizinis arba juridinis asmuo, kuris naudoja kūrinių, gretutinių teisių ar sui generis teisių objektų originalus ar jų kopijas (bet kokiu būdu juos atgamina, išleidžia, importuoja, parduoda, nuomoja, teikia panaudai ar kitaip platina, naudoja viešam atlikimui ar viešam rodymui, transliuoja, retransliuoja ar kitaip viešai juos skelbia). Atlikėjas nelaikomas viešai atliekamo kūrinio ar gretutinių teisių objekto naudotoju, jeigu jis neorganizuoja ir (ar) nefinansuoja kūrinio ar gretutinių teisių objekto panaudojimo viešam atlikimui. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-31. Licencija – autorių teisių, gretutinių teisių ar sui generis teisių subjekto (licenciaro) leidimas, suteikiantis kūrinio, gretutinių teisių ar sui generis teisių objekto naudotojui (licenciatui) teisę naudoti kūrinio, gretutinių teisių ar sui generis teisių objekto originalą arba jo kopijas (licencijos dalyką) nurodytoje teritorijoje tokiu būdu ir tokiomis sąlygomis, kaip numatyta licencinėje sutartyje. Licencija gali būti išimtinė arba neišimtinė. Neišimtine licencija licenciaras suteikia licenciatui teisę naudoti licencijos dalyką pasilikdamas teisę suteikti tokią teisę kitiems asmenims ir pats naudoti licencijos dalyką. Išimtinė licencija – tokia licencija, pagal kurią licenciaras, suteikęs licenciatui teisę naudoti licencijos dalyką, netenka teisės suteikti tokias pačias licencijas kitiems asmenims ir neturi teisės pats naudoti licencijos dalyką licenciatui perduotų teisių dalyje. 
+32. Licencija – autorių teisių, gretutinių teisių ar sui generis teisių subjekto (licenciaro) leidimas, suteikiantis kūrinio, gretutinių teisių ar sui generis teisių objekto naudotojui (licenciatui) teisę naudoti kūrinio, gretutinių teisių ar sui generis teisių objekto originalą arba jo kopijas (licencijos dalyką) nurodytoje teritorijoje tokiu būdu ir tokiomis sąlygomis, kaip numatyta licencinėje sutartyje. Licencija gali būti išimtinė arba neišimtinė. Neišimtine licencija licenciaras suteikia licenciatui teisę naudoti licencijos dalyką pasilikdamas teisę suteikti tokią teisę kitiems asmenims ir pats naudoti licencijos dalyką. Išimtinė licencija – tokia licencija, pagal kurią licenciaras, suteikęs licenciatui teisę naudoti licencijos dalyką, netenka teisės suteikti tokias pačias licencijas kitiems asmenims ir neturi teisės pats naudoti licencijos dalyką licenciatui perduotų teisių dalyje. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-32. Negalia – sveikatos sutrikimas, dėl kurio asmuo negali savarankiškai naudotis tokios formos autorių teisių ir gretutinių teisių objektais, kokios jie buvo teisėtai išleisti ar viešai paskelbti. Negalia šiame Įstatyme apima visišką ir dalinę regos ar klausos negalią, galūnių negalią, varžančią galėjimą laikyti knygą ar kitą leidinį ir jais manipuliuoti, suvokimo (mokymosi) negalią.
+33. Neįgalusis naudos gavėjas – aklasis; asmuo, dėl regėjimo sutrikimo, kurio neįmanoma sumažinti, nepajėgiantis skaityti spausdintų kūrinių iš esmės taip, kaip tokio sutrikimo neturintys asmenys; asmuo, dėl suvokimo negalios ar skaitymo sutrikimų nepajėgiantis skaityti spausdintų kūrinių iš esmės taip, kaip tokios negalios ar sutrikimų neturintys asmenys; asmuo, dėl fizinės negalios nepajėgiantis laikyti ar vartyti leidinio arba sutelkti žvilgsnio ar judinti akių taip, kad galėtų skaityti. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
+ 
+
+
+
+
+34. Negalia – sveikatos sutrikimas, dėl kurio asmuo negali savarankiškai naudotis tokios formos autorių teisių ir gretutinių teisių objektais, kokios jie buvo teisėtai išleisti ar viešai paskelbti. Negalia šiame Įstatyme apima visišką ir dalinę regos ar klausos negalią, galūnių negalią, varžančią galėjimą laikyti knygą ar kitą leidinį ir jais manipuliuoti, suvokimo (mokymosi) negalią.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-33. Nenustatytų teisių turėtojų kūrinys – kūrinys ar fonograma, kurių nė vienas iš teisių turėtojų nenustatytas arba, jeigu vienas ar daugiau iš jų nustatyti, nė vienas iš jų nebuvo surastas nepaisant kruopščios teisių turėtojų paieškos, atliktos ir įregistruotos šio Įstatymo nustatyta tvarka. 
+35. Nenustatytų teisių turėtojų kūrinys – kūrinys ar fonograma, kurių nė vienas iš teisių turėtojų nenustatytas arba, jeigu vienas ar daugiau iš jų nustatyti, nė vienas iš jų nebuvo surastas nepaisant kruopščios teisių turėtojų paieškos, atliktos ir įregistruotos šio Įstatymo nustatyta tvarka. 
 Papildyta straipsnio dalimi:
 Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-34. Neteisėta kopija – kūrinio, gretutinių teisių ar sui generis teisių objekto kopija, pagaminta arba importuota į Lietuvos Respubliką be teisių subjektų ar jų tinkamai įgalioto asmens leidimo (nesudarius sutarties arba pažeidžiant joje nustatytas sąlygas, išskyrus šio Įstatymo nustatytus atvejus, kai kūrinys, gretutinių teisių ar sui generis teisių objektas gali būti atgaminamas be leidimo), taip pat kūrinio, gretutinių teisių ar sui generis teisių objekto kopija, kurioje be teisių subjektų leidimo panaikinta arba pakeista informacija apie teisių valdymą. 
+36. Neteisėta kopija – kūrinio, gretutinių teisių ar sui generis teisių objekto kopija, pagaminta arba importuota į Lietuvos Respubliką be teisių subjektų ar jų tinkamai įgalioto asmens leidimo (nesudarius sutarties arba pažeidžiant joje nustatytas sąlygas, išskyrus šio Įstatymo nustatytus atvejus, kai kūrinys, gretutinių teisių ar sui generis teisių objektas gali būti atgaminamas be leidimo), taip pat kūrinio, gretutinių teisių ar sui generis teisių objekto kopija, kurioje be teisių subjektų leidimo panaikinta arba pakeista informacija apie teisių valdymą. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-35. Nuoma – kūrinio, gretutinių teisių ar sui generis teisių objekto originalo ar kopijos perdavimas naudoti tam tikrą laiką siekiant tiesioginės ar netiesioginės komercinės naudos. 
+37. Nuoma – kūrinio, gretutinių teisių ar sui generis teisių objekto originalo ar kopijos perdavimas naudoti tam tikrą laiką siekiant tiesioginės ar netiesioginės komercinės naudos. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-36. Panauda – kūrinio, gretutinių teisių ar sui generis teisių objekto originalo ar kopijos perdavimas tam tikrą laiką neatlygintinai naudotis bibliotekose ar kitose viešai prieinamose įstaigose.
+38. Panauda – kūrinio, gretutinių teisių ar sui generis teisių objekto originalo ar kopijos perdavimas tam tikrą laiką neatlygintinai naudotis bibliotekose ar kitose viešai prieinamose įstaigose.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-37. Sui generis teisių subjektas – duomenų bazės gamintojas, kuris parinkdamas, sudarydamas, tikrindamas bei pateikdamas duomenų bazės turinį padarė esminių kokybinių ir (ar) kiekybinių (intelektinių, finansinių, organizacinių) investicijų, taip pat fizinis arba juridinis asmuo, kuriam perėjo duomenų bazių gamintojo sui generis teisės. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
-Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+39. Prieinamos formos kopija – alternatyviu būdu ar forma pateikta kūrinio ar kito objekto kopija, suteikianti galimybę neįgaliajam naudos gavėjui susipažinti su kūriniu ar kitu objektu taip, kaip su juo susipažintų negalios neturintis asmuo, bet nepažeidžianti kūrinio ar kito objekto vientisumo. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-38. Taikomosios dailės kūrinys – bet koks rankų darbo ar pramoniniu būdu sukurtas dailės kūrinys, skirtas praktiniam naudojimui.
+40. Sui generis teisių subjektas – duomenų bazės gamintojas, kuris parinkdamas, sudarydamas, tikrindamas bei pateikdamas duomenų bazės turinį padarė esminių kokybinių ir (ar) kiekybinių (intelektinių, finansinių, organizacinių) investicijų, taip pat fizinis arba juridinis asmuo, kuriam perėjo duomenų bazių gamintojo sui generis teisės. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-39. Transliacija – garsų arba vaizdų ir garsų arba jų išraiškos viešas perdavimas bevielio ryšio priemonėmis, įskaitant palydovinį ryšį; užkoduotų signalų perdavimas laikomas transliacija tuo atveju, jeigu transliuojančioji organizacija aprūpina visuomenę specialiais atkodavimo prietaisais arba duoda leidimą juos įsigyti. 
+41. Taikomosios dailės kūrinys – bet koks rankų darbo ar pramoniniu būdu sukurtas dailės kūrinys, skirtas praktiniam naudojimui.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-40. Transliuojančioji organizacija – juridinis asmuo, kurio pagrindinė veikla yra radijo ir (ar) televizijos programų rengimas ir transliacija, taip pat kabelinės retransliacijos operatorius, rengiantis ir transliuojantis savo laidas ir programas. 
+42. Transliacija – garsų arba vaizdų ir garsų arba jų išraiškos viešas perdavimas bevielio ryšio priemonėmis, įskaitant palydovinį ryšį; užkoduotų signalų perdavimas laikomas transliacija tuo atveju, jeigu transliuojančioji organizacija aprūpina visuomenę specialiais atkodavimo prietaisais arba duoda leidimą juos įsigyti. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-41. Viešas atlikimas – kūrinio vaidinimas, dainavimas, grojimas, deklamavimas, skaitymas, šokis ar kitas kūrinio viešo atlikimo būdas tiek tiesiogiai (gyvas atlikimas), tiek pasitelkus bet kokias priemones ar įrangą kokioje nors viešoje vietoje, kur tuo pačiu metu dalyvauja arba gali dalyvauti neapibrėžta visuomenės narių grupė. 
+43. Transliuojančioji organizacija – juridinis asmuo, kurio pagrindinė veikla yra radijo ir (ar) televizijos programų rengimas ir transliacija, taip pat kabelinės retransliacijos operatorius, rengiantis ir transliuojantis savo laidas ir programas. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-42. Viešas paskelbimas – kūrinio viešas perdavimas laidais, bevielio ryšio priemonėmis, įskaitant jo padarymą viešai prieinamu tokiu būdu, kad visuomenės nariai galėtų jį pasiekti individualiai pasirinktoje vietoje ir pasirinktu laiku. Gretutinių teisių objekto viešas paskelbimas – bet koks gretutinių teisių objekto viešas perdavimas, įskaitant fonogramoje įrašytų garsų arba garsų išraiškos padarymą viešai girdimais, išskyrus transliaciją. 
+44. Viešas atlikimas – kūrinio vaidinimas, dainavimas, grojimas, deklamavimas, skaitymas, šokis ar kitas kūrinio viešo atlikimo būdas tiek tiesiogiai (gyvas atlikimas), tiek pasitelkus bet kokias priemones ar įrangą kokioje nors viešoje vietoje, kur tuo pačiu metu dalyvauja arba gali dalyvauti neapibrėžta visuomenės narių grupė. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
 
 
-43. Viešas rodymas – bet koks kūrinio, jo originalo ar kopijos rodymas tiesiogiai (paroda) arba ekrane panaudojant skaidres, televizijos vaizdą ar kitais panašiais būdais, taip pat audiovizualinio kūrinio atskirų kadrų rodymas ne eilės tvarka kokioje nors vietoje, kur dalyvauja arba gali dalyvauti neapibrėžta visuomenės narių grupė, nesvarbu, ar jie yra toje pačioje vietoje ir tuo pačiu metu, ar skirtingose vietose ir skirtingu metu.
+45. Viešas paskelbimas – kūrinio viešas perdavimas laidais, bevielio ryšio priemonėmis, įskaitant jo padarymą viešai prieinamu tokiu būdu, kad visuomenės nariai galėtų jį pasiekti individualiai pasirinktoje vietoje ir pasirinktu laiku. Gretutinių teisių objekto viešas paskelbimas – bet koks gretutinių teisių objekto viešas perdavimas, įskaitant fonogramoje įrašytų garsų arba garsų išraiškos padarymą viešai girdimais, išskyrus transliaciją. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
+ 
+
+
+
+
+46. Viešas rodymas – bet koks kūrinio, jo originalo ar kopijos rodymas tiesiogiai (paroda) arba ekrane panaudojant skaidres, televizijos vaizdą ar kitais panašiais būdais, taip pat audiovizualinio kūrinio atskirų kadrų rodymas ne eilės tvarka kokioje nors vietoje, kur dalyvauja arba gali dalyvauti neapibrėžta visuomenės narių grupė, nesvarbu, ar jie yra toje pačioje vietoje ir tuo pačiu metu, ar skirtingose vietose ir skirtingu metu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
+Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
@@ -1111,7 +1178,10 @@ Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
 
 
 
-4. Autorių teisių ir gretutinių teisių subjektai turi teisę gauti kompensacinį atlyginimą už šio straipsnio 1 dalyje numatytą audiovizualinių kūrinių ar fonogramose įrašytų kūrinių atgaminimą asmeniniais tikslais (toliau šiame straipsnyje – kompensacinis atlyginimas).
+4. Autorių teisių ir gretutinių teisių subjektai turi neatšaukiamą teisę gauti kompensacinį atlyginimą už šio straipsnio 1 dalyje numatytą kūrinių ir gretutinių teisių objektų atgaminimą asmeniniais tikslais (toliau šiame straipsnyje – kompensacinis atlyginimas) analoginėje ar skaitmeninėje laikmenoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
+ 
 
 
 
@@ -1137,7 +1207,10 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
 
 
-2) kai tuščios laikmenos ir įrenginiai yra įsigyti neįgalių žmonių reikmėms;
+2) kai tuščios laikmenos ir įrenginiai yra įsigyti neįgaliųjų reikmėms; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
+ 
 
 
 
@@ -1157,24 +1230,28 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
 
 
-9. 25 procentai Vyriausybės nustatyta tvarka surinkto kompensacinio atlyginimo skiriama kūrybinės veiklos programoms ir autorių teisių ir gretutinių teisių apsaugos programoms. 
-
-
-
-
-10. Iš surinkto kompensacinio atlyginimo atskaičius šio straipsnio 9 dalyje nustatytą sumą ir kolektyvinio administravimo organizacijų išlaidas kompensaciniam atlyginimui surinkti, paskirstyti ir grąžinti, likusi suma paskirstoma taip: 
+9. 25 procentai Vyriausybės nustatyta tvarka surinkto kompensacinio atlyginimo paskirstomi taip: 1/5 kompensacinio atlyginimo dalies skiriama šio Įstatymo 78 straipsnio 3 dalyje numatytoms teisių gynimo priemonėms finansuoti; 2/5 kompensacinio atlyginimo dalies skiriama autorių teisių ir gretutinių teisių apsaugos programai, iš kurios kolektyvinio administravimo organizacijų vykdomos autorių teisių ir gretutinių teisių apsaugos priemonės nėra finansuojamos; 2/5 kompensacinio atlyginimo dalies skiriama kolektyvinio administravimo organizacijų vykdomoms kūrybinėms, šviečiamosioms ir (ar) autorių teisių ir gretutinių teisių apsaugos programoms, dėl kurių sprendimus priima jų visuotinis narių susirinkimas šio Įstatymo 721 straipsnyje nustatyta tvarka. Vyriausybės įgaliota institucija kiekvienais metais už praėjusius metus iki balandžio 10 dienos perveda Lietuvos radijo ir televizijos komisijai šioje dalyje numatytą kompensacinio atlyginimo dalį, skirtą šio Įstatymo 78 straipsnio 3 dalyje numatytoms teisių gynimo priemonėms finansuoti. 
 Straipsnio dalies pakeitimai:
-Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
-
-
-1) už tuščias garso laikmenas ir įrenginius surinktos kompensacinio atlyginimo dalies 1/3 skiriama autoriams, 1/3 – atlikėjams ir 1/3 – fonogramų gamintojams (įskaitant transliuojančiąsias organizacijas, už jų pagamintas fonogramas);
+Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
+ 
 
 
 
 
-2) už tuščias audiovizualinių kūrinių laikmenas ir įrenginius surinktos kompensacinio atlyginimo dalies 1/3 skiriama autoriams, 1/3 – atlikėjams ir 1/3 –audiovizualinių kūrinių gamintojams (įskaitant transliuojančiąsias organizacijas, už jų pagamintus audiovizualinius kūrinius).
+10. Iš surinkto kompensacinio atlyginimo atskaičius šio straipsnio 9 dalyje nustatytas sumas ir kolektyvinio administravimo atskaitymams padengti skirtą sumą, likusi suma paskirstoma taip:
 
 
+1) už tuščias garso laikmenas ir įrenginius surinktos kompensacinio atlyginimo dalies 1/3 skiriama autoriams, 1/3 – atlikėjams ir 1/3 – fonogramų gamintojams (įskaitant transliuojančiąsias organizacijas, už jų pagamintas fonogramas);
+
+
+
+
+2) už tuščias audiovizualines laikmenas ir įrenginius surinktos kompensacinio atlyginimo dalies 1/3 skiriama autoriams, 1/3 – atlikėjams ir 1/3 – audiovizualinių kūrinių gamintojams (įskaitant transliuojančiąsias organizacijas, už jų pagamintus audiovizualinius kūrinius). 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
+ 
 
 
 
@@ -1229,7 +1306,10 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
 
 
-2) kai reprografijos įrenginiai yra įsigyti neįgalių žmonių reikmėms;
+2) kai reprografijos įrenginiai yra įsigyti neįgaliųjų reikmėms; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
+ 
 
 
 
@@ -1249,17 +1329,18 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
 
 
-8. 25 procentai Vyriausybės nustatyta tvarka surinkto kompensacinio atlyginimo skiriama kūrybinės veiklos programoms ir autorių teisių ir gretutinių teisių apsaugos programoms. 
-
-
-
-
-9. Iš surinkto kompensacinio atlyginimo atskaičius šio straipsnio 8 dalyje nustatytą sumą ir kolektyvinio administravimo organizacijų išlaidas kompensaciniam atlyginimui surinkti, paskirstyti ir grąžinti, likusi suma paskirstoma taip: 
+8. Neteko galios 2019-01-01. 
 Straipsnio dalies pakeitimai:
-Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
+ 
 
 
-1) 60 procentų skiriama autoriams, iš jų: 20 procentų – mokslinės ir dalykinės literatūros kūrinių autoriams, 15 procentų – grožinės literatūros ir eseistikos kūrinių autoriams, 15 procentų – vaizduojamojo meno kūrinių autoriams ir 10 procentų – publicistikos kūrinių autoriams (žurnalistams);
+
+
+9. Iš surinkto kompensacinio atlyginimo atskaičius kolektyvinio administravimo atskaitymams padengti skirtą sumą, likusi suma paskirstoma taip:
+
+
+1) 60 procentų skiriama autoriams, iš jų: 20 procentų – mokslinės ir dalykinės literatūros kūrinių autoriams, 15 procentų – grožinės literatūros ir eseistikos kūrinių autoriams, 15 procentų – vaizduojamojo meno kūrinių autoriams, 10 procentų – publicistikos kūrinių autoriams (žurnalistams);
 
 
 
@@ -1269,9 +1350,12 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
 
 
-3) 20 procentų skiriama periodinės spaudos leidėjams.
+3) 20 procentų skiriama periodinės spaudos leidėjams. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
+ 
 
 
 
@@ -1394,24 +1478,66 @@ Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
 
 
 
-25 straipsnis. Kūrinių panaudojimas neįgaliems žmonėms skirtais būdais
+25 straipsnis. Kūrinių ar kitų objektų panaudojimas neįgaliesiems skirtais būdais
 
 
-1. Be kūrinio autoriaus ar kito šio kūrinio autorių teisių subjekto leidimo ir be autorinio atlyginimo, tačiau nurodžius, jei tai įmanoma, naudojamą šaltinį ir autoriaus vardą, Vyriausybės įgaliotos institucijos patvirtintiems fiziniams ir juridiniams asmenims, atstovaujantiems neįgalių žmonių interesams, kai jie veikia nekomerciniais tikslais, leidžiama teisėtai išleistą ar viešai paskelbtą kūrinį naudoti nekomerciniais tikslais šio straipsnio 2 ir 3 dalyse nurodytais būdais, jeigu tuo kūriniu galės naudotis ir prieigą prie jo turės tik neįgalūs žmonės, kiek tai pateisinama konkrečia negalia, išskyrus atvejus, kai tie kūriniai buvo specialiai sukurti šiam tikslui. 
-
-
-
-
-2. Šio straipsnio 1 dalyje nustatyto apribojimo tikslais galima atgaminti, išleisti, adaptuoti ir viešai skelbti, įskaitant padarymą viešai prieinamos kompiuterių tinklais (internete), kūrinio garsinę versiją (taip pat ir elektroninės formos) ir versiją Brailio raštu.
+1. Be kūrinio autoriaus ar kito šio kūrinio autorių teisių subjekto leidimo ir be autorinio atlyginimo, tačiau nurodžius, jeigu tai įmanoma, naudojamą šaltinį ir autoriaus vardą, leidžiama nekomerciniais tikslais, teisėtai išleistą ar viešai paskelbtą kūrinį atgaminti, išleisti, adaptuoti ir viešai skelbti, įskaitant padarymą viešai prieinamu kompiuterių tinklais (internete), jeigu tuo kūriniu galės naudotis ir prieigą prie jo turės tik neįgalieji, kiek tai pateisinama konkrečia negalia, išskyrus atvejus, kai tie kūriniai buvo specialiai sukurti šiam tikslui. 
 
 
 
 
-3. Intelekto ir skaitymo sutrikimų turinčių asmenų poreikiams leidžiama atgaminti, išleisti, adaptuoti ir viešai skelbti, įskaitant padarymą viešai prieinamų kompiuterių tinklais (internete), specialiai pritaikytus jiems kūrinius. Kūrinių pritaikymas intelekto ir skaitymo sutrikimų turintiems asmenims reiškia kūrinių perdirbimą supaprastinant leksiką, gramatiką ir (ar) morfologiją, sutrumpinant tekstą, t. y. tokiu būdu, kad kūriniai taptų suvokiami tokių sutrikimų turintiems asmenims.
+2. Lietuvos Respublikoje įsteigtiems įgaliotiesiems subjektams leidžiama šio straipsnio 1 dalyje nustatyto apribojimo tikslais atgaminti kūrinius ar kitus objektus padarant prieinamos formos kopijas ir viešai jas skelbti, įskaitant padarymą viešai prieinamomis kompiuterių tinklais (internete), platinti ir teikti panaudai neįgaliesiems naudos gavėjams ar kitiems įgaliotiesiems subjektams visose Europos Sąjungos valstybėse narėse. Lietuvos Respublikoje esantys neįgalieji naudos gavėjai ir įgaliotieji subjektai gali gauti prieinamos formos kopijos kūrinius iš bet kurioje Europos Sąjungos valstybėje narėje įsisteigusio įgaliotojo subjekto. Siekiant tikslų, nurodytų šioje dalyje, įgaliotajam subjektui leidžiama atgaminti šių kūrinių ar kitų objektų prieinamos formos kopijas – knygų, žurnalų, laikraščių, periodinių leidinių ar kito pobūdžio rašto, ženklų, įskaitant natas, formos kūrinių ir susijusių iliustracijų bet kokioje laikmenoje, įskaitant garso formą (pvz., garso knygos) ir skaitmeninę formą.
+
+
+
+
+3. Sutartys, trukdančios atlikti šio straipsnio 2 dalyje nurodytus veiksmus, negalioja.
+
+
+
+
+4. Įgaliotasis subjektas, įsisteigęs Lietuvos Respublikoje ir užsiimantis šio straipsnio 2 dalyje nurodyta veikla, laikydamasis galiojančių asmens duomenų tvarkymo taisyklių, turi:
+
+
+1) užtikrinti prieinamos formos kopijų platinimą, viešą paskelbimą ar prieigą prie jų tik neįgaliesiems naudos gavėjams ar kitiems įgaliotiesiems subjektams;
+
+
+
+
+2) imtis tinkamų priemonių atgrasyti nuo prieinamos formos kopijų atgaminimo, platinimo, viešo paskelbimo ar jų padarymo viešai prieinamų neturint tam leidimo;
+
+
+
+
+3) kruopščiai tvarkyti kūrinius ar kitus objektus ir jų prieinamos formos kopijas, fiksuojant tvarkomąjį darbą (duomenų rinkimą, įrašymą, rūšiavimą, saugojimą ir kita);
+
+
+
+
+4) savo interneto svetainėje ar kitais viešą prieigą užtikrinančiais būdais skelbti ir atnaujinti informaciją apie šios dalies 1, 2 ir 3 punktuose numatytų įsipareigojimų vykdymą;
+
+
+
+
+5) neįgaliųjų naudos gavėjų, kitų įgaliotųjų subjektų ar teisių turėtojų prašymu pateikti informaciją, kokias prieinamos formos kopijas ir formas jis turi, taip pat įgaliotųjų subjektų, su kuriais jis keitėsi prieinamos formos kopijomis, pavadinimus ir kontaktinius duomenis.
+
+
+
+
+
+
+5. Vyriausybės įgaliota institucija savo interneto svetainėje viešai skelbia Lietuvos Respublikoje įsisteigusių įgaliotųjų subjektų, užsiimančių šio straipsnio 2 dalyje numatyta veikla, sąrašus. Šią informaciją Vyriausybės įgaliotos institucija taip pat teikia Europos Komisijai – viešam skelbimui centriniame informaciniame punkte. 
+
+
+
+
+6. Vyriausybės įgaliota institucija nustato tvarką, numatančią keitimąsi kūrinių ar kitų objektų prieinamos formos kopijomis aklų, regos sutrikimų ar kitą spausdinto teksto skaitymo negalią turinčių asmenų labui pagal Europos Parlamento ir Tarybos Reglamentą (ES) 2017/1563. 
+Straipsnio pakeitimai:
+Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
 
 
 Straipsnio pakeitimai:
-Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
@@ -1552,7 +1678,15 @@ Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
 
 
 
-3) šie veiksmai taikomi tik toms originalios programos dalims, kurios yra būtinos suderinamumui užtikrinti.
+3) šie veiksmai taikomi tik toms originalios programos dalims, kurios yra būtinos suderinamumui užtikrinti;
+
+
+
+
+4) nekomerciniais tikslais naudojama taip, kaip nurodyta šio Įstatymo 25 straipsnio 2 dalyje. 
+Papildyta straipsnio punktu:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
+ 
 
 
 
@@ -1590,7 +1724,10 @@ Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
 32 straipsnis. Duomenų bazių naudojimas 
 
 
-1. Teisėtas duomenų bazės ar jos kopijos naudotojas be autoriaus arba kito autorių teisių subjekto leidimo turi teisę atlikti šio Įstatymo 15 straipsnio 1 dalyje nurodytus veiksmus, jei šie veiksmai reikalingi tam, kad teisėtas duomenų bazės naudotojas galėtų sužinoti duomenų bazės turinį ir juo tinkamai naudotis.
+1. Teisėtas duomenų bazės ar jos kopijos naudotojas be autoriaus arba kito autorių teisių subjekto leidimo turi teisę atlikti šio Įstatymo 15 straipsnio 1 dalyje nurodytus veiksmus, jeigu šie veiksmai reikalingi tam, kad teisėtas duomenų bazės naudotojas galėtų sužinoti duomenų bazės turinį ir juo tinkamai naudotis. Šio Įstatymo 25 straipsnio 2 dalyje nurodytais atvejais nekomerciniais tikslais teisėtas duomenų bazės ar jos kopijos naudotojas be autoriaus arba kito autorių teisių subjekto leidimo turi teisę atlikti šio Įstatymo 15 straipsnio 1 dalies 1, 5 ir 8 punktuose nurodytus veiksmus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
+ 
 
 
 
@@ -2748,7 +2885,15 @@ Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
 
 
 
-3) duomenų bazė perkeliama ir naudojama visuomenės ir valstybės saugumo interesais, viešojo administravimo ar teismo proceso tikslais. 
+3) duomenų bazė perkeliama ir naudojama visuomenės ir valstybės saugumo interesais, viešojo administravimo ar teismo proceso tikslais; 
+
+
+
+
+4) duomenų bazė perkeliama ir naudojama nekomerciniais tikslais šio Įstatymo 25 straipsnio 2 dalyje numatytos išimties atveju. 
+Papildyta straipsnio punktu:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
+ 
 
 
 
@@ -2872,7 +3017,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-5) audiovizualinių kūrinių ar fonogramose įrašytų kūrinių atgaminimui asmeniniais tikslais.
+5) kūrinių ir gretutinių teisių objektų atgaminimas asmeniniais tikslais. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
+ 
 
 
 
@@ -2880,7 +3028,6 @@ BENDROSIOS NUOSTATOS
 
 
 3. Tuo atveju, kai autorių teisių ar gretutinių teisių subjektas nėra suteikęs įgaliojimų jokiai kolektyvinio administravimo organizacijai administruoti jo išimtinę teisę leisti kūrinio ar gretutinių teisių objekto retransliaciją, laikoma, kad tokius įgaliojimus turi kolektyvinio administravimo organizacija, Lietuvos Respublikos teritorijoje administruojanti tokio pobūdžio teises. Toks autorių teisių ar gretutinių teisių subjektas turi tokias pačias teises ir įsipareigojimus pagal retransliacijos operatorių ir kolektyvinio administravimo organizacijos sudarytas sutartis kaip ir kiti teisių subjektai, kurie yra suteikę tai kolektyvinio administravimo organizacijai tokius įgaliojimus. Jeigu išimtines teises į kūrinių ar gretutinių teisių objektų retransliaciją Lietuvos Respublikoje administruoja daugiau negu viena kolektyvinio administravimo organizacija, autorių teisių ar gretutinių teisių subjektas gali pasirinkti, kuri iš jų bus laikoma įgaliota kolektyviai administruoti jo teises į kūrinių ar gretutinių teisių objektų kabelinį retransliavimą, pateikdamas pasirinktai kolektyvinio administravimo organizacijai rašytinį laisvos formos prašymą sudaryti sutartį dėl jo teisių kolektyvinio administravimo. Jeigu per trejų metų laikotarpį teisių subjektas nepasirenka kolektyvinio administravimo organizacijos, kuri bus įgaliota administruoti jo teises į kūrinių ar gretutinių teisių objektų kabelinę retransliaciją, tokią įgaliotą kolektyvinio administravimo organizaciją skiria Vyriausybės įgaliota institucija.
- 
  
 
 
@@ -3383,7 +3530,6 @@ KOLEKTYVINIO ADMINISTRAVIMO ORGANIZACIJOS PAJAMŲ IR TURTO ADMINISTRAVIMAS
 
 3. Kolektyvinio administravimo organizacija negali naudoti kolektyvinio administravimo pajamų ir pajamų, gautų iš investuotų kolektyvinio administravimo pajamų, kitiems tikslams negu šių pajamų paskirstymas ir išmokėjimas kolektyviai administruojamų teisių turėtojams, išskyrus atvejus, kai kolektyvinio administravimo organizacijai šio Įstatymo 721 straipsnio 2 dalies 6 punkte nustatyta tvarka leidžiama atskaityti kolektyvinio administravimo atskaitymus arba naudoti kolektyvinio administravimo pajamas ar pajamas, gautas iš investuotų kolektyvinio administravimo pajamų, šio Įstatymo 721 straipsnio 2 dalies 7 punkte nustatyta tvarka.
  
- 
 
 
 
@@ -3407,7 +3553,6 @@ KOLEKTYVINIO ADMINISTRAVIMO ORGANIZACIJOS PAJAMŲ IR TURTO ADMINISTRAVIMAS
 
 
 2) investicijų portfelis (finansinis ir materialusis (kilnojamasis ir nekilnojamasis) turtas) turi būti valdomas laikantis saugumo, likvidumo ir pelningumo principų. Investavimo strategija turi būti diversifikuota taip, kad būtų išvengta per didelio pasitikėjimo kuriais nors konkrečiais investavimo objektais. 
- 
  
 
 
@@ -3648,8 +3793,6 @@ KOLEKTYVINIO ADMINISTRAVIMO ORGANIZACIJŲ SANTYKIAI SU KOLEKTYVIAI ADMINISTRUOJA
 
 
 7. Kolektyvinio administravimo organizacija turi sudaryti sąlygas naudotojams teikti prašymus licencijai gauti elektroninėmis priemonėmis, taip pat tokiomis priemonėmis bendrauti su ja kitais licencijų teikimo, licencinės sutarties sudarymo ir kitais klausimais. Licencinėje sutartyje šalys gali numatyti galimybę naudotojui elektroninėmis priemonėmis teikti pranešimus apie licencijoje nurodytų teisių naudojimą.
- 
- 
  
 
 
@@ -4515,7 +4658,10 @@ Autorių teisių, gretutinių teisių ar sui generis teisių pažeidimu laikomi 
 75 straipsnis. Techninių apsaugos priemonių taikymo apribojimai
 
 
-1. Kai autorių teisių, gretutinių teisių ir sui generis teisių subjektų taikomos techninės apsaugos priemonės šių teisių naudotojams trukdo pasinaudoti autorių teisių, gretutinių teisių ir sui generis teisių apribojimais, numatytais šio Įstatymo 20 straipsnio 1 dalyje, 201 straipsnio 1 dalyje, 22 straipsnio 1 dalies 1 punkte, 25 straipsnio 1 dalyje, 27 straipsnyje, 29 straipsnio 1 dalies 2 punkte, 58 straipsnio 1 dalies 4, 5, 7, 8, 9 punktuose ir 2 dalyje ir 63 straipsnio 1 dalyje, teisių naudotojams turi būti sudarytos sąlygos ar suteiktos tinkamos priemonės (pvz., dekodavimo prietaisai ir kitos), leidžiančios pasinaudoti teisėtai prieinamais autorių teisių, gretutinių teisių ar sui generis teisių objektais tiek, kad teisių naudotojai turėtų nekomercinės naudos iš jų interesais numatytų autorių teisių, gretutinių teisių ir sui generis teisių apribojimų.
+1. Kai autorių teisių, gretutinių teisių ir sui generis teisių subjektų taikomos techninės apsaugos priemonės šių teisių naudotojams trukdo pasinaudoti autorių teisių, gretutinių teisių ir sui generis teisių apribojimais, numatytais šio Įstatymo 20 straipsnio 1 dalyje, 201 straipsnio 1 dalyje, 22 straipsnio 1 dalies 1 punkte, 25 straipsnyje, 27 straipsnyje, 29 straipsnio 1 dalies 2 punkte, 58 straipsnio 1 dalies 4, 5, 7, 8, 9 punktuose ir 2 dalyje ir 63 straipsnio 1 dalyje, teisių naudotojams turi būti sudarytos sąlygos ar suteiktos tinkamos priemonės (pvz., dekodavimo prietaisai ir kitos), leidžiančios pasinaudoti teisėtai prieinamais autorių teisių, gretutinių teisių ar sui generis teisių objektais tiek, kad teisių naudotojai turėtų nekomercinės naudos iš jų interesais numatytų autorių teisių, gretutinių teisių ir sui generis teisių apribojimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
+ 
 
 
 
@@ -5203,6 +5349,8 @@ Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
+ 
+ 
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
  
 
@@ -5214,13 +5362,13 @@ RESPUBLIKOS PREZIDENTAS                             
  
  
  
+ 
 Lietuvos Respublikos
 autorių teisių ir gretutinių
 teisių įstatymo
 1 priedas
  
-TUŠČIOS GARSO IR AUDIOVIZUALINĖS LAIKMENOS IR ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ AUDIOVIZUALINIŲ KŪRINIŲ IR FONOGRAMOSE ĮRAŠYTŲ KŪRINIŲ ATGAMINIMĄ ASMENINIAIS TIKSLAIS, IR KOMPENSACINIO ATLYGINIMO TARIFAI
- 
+TUŠČIOS ANALOGINĖS AR SKAITMENINĖS LAIKMENOS IR ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS UŽ KŪRINIŲ IR GRETUTINIŲ TEISIŲ OBJEKTŲ ATGAMINIMĄ ASMENINIAIS TIKSLAIS, IR KOMPENSACINIO ATLYGINIMO TARIFAI 
 
 
 
@@ -5283,6 +5431,8 @@ Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
 Priedo pakeitimai:
 Nr. XII-1183, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14295
 Nr. XII-2237, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21024
+Pakeistas priedo pavadinimas:
+Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
  
 
 
@@ -5290,6 +5440,7 @@ Nr. XII-2237, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21024
 
  
  
+ 
  
 Lietuvos Respublikos 
 autorių teisių ir gretutinių 
@@ -5309,60 +5460,51 @@ REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS, KOMPEN
  Kompensacinio atlyginimo tarifas (procentais) 
 
 
- 1. Nespalviniai kopijuokliai 
+ 1. Nespalviniai kopijuokliai ir skaitytuvai 
 
  1,8–2,00 
 
 
-
- mažos spartos (nuo 12 iki 23 kopijų per minutę) 
+ mažos spartos (iki 23 kopijų per minutę) 
  1,8 
-
 
 
  vidutinės spartos (nuo 24 iki 45 kopijų per minutę) 
  1,9 
 
 
-
- didelės spartos (nuo 46 iki 90 kopijų per minutę) 
+ didelės spartos (nuo 46 kopijų per minutę) 
  2,00 
 
 
- 2. Spalviniai kopijuokliai 
+ 2. Spalviniai kopijuokliai ir spalviniai spausdintuvai 
 
  2,7–3,00 
 
 
-
- mažos spartos (nuo 12 iki 23 kopijų per minutę) 
+ mažos spartos (iki 23 kopijų per minutę) 
  2,7 
-
 
 
  vidutinės spartos (nuo 24 iki 45 kopijų per minutę) 
  2,85 
 
 
-
  didelės spartos (nuo 46 iki 90 kopijų per minutę) 
  3,00 
 
 
- 3. Nespalviniai daugiafunkciai kopijuokliai 
+ 3. Nespalviniai daugiafunkciai kopijuokliai ir nespalviniai spausdintuvai 
 
  0,6–0,7 
 
 
-
- mažos spartos (nuo 12 iki 23 kopijų per minutę) 
+ mažos spartos (iki 23 kopijų per minutę) 
  0,6 
-
 
 
  vidutinės spartos (nuo 24 iki 45 kopijų per minutę) 
  0,65 
-
 
 
  didelės spartos (nuo 46 iki 90 kopijų per minutę) 
@@ -5374,22 +5516,19 @@ REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS, KOMPEN
  0,9–1,00 
 
 
-
- mažos spartos (nuo 12 iki 23 kopijų per minutę) 
+ mažos spartos (iki 23 kopijų per minutę) 
  0,9 
-
 
 
  vidutinės spartos (nuo 24 iki 45 kopijų per minutę) 
  0,95 
 
 
-
  didelės spartos (nuo 46 iki 90 kopijų per minutę) 
  1,00 
 
 
- Pastaba. Kompensacinio atlyginimo tarifas nustatomas procentais nuo šiame priede numatytų Lietuvos Respublikoje parduodamų civilinėje apyvartoje esančių, Lietuvos Respublikoje pagamintų ar į Lietuvos Respublikos teritoriją įvežtų reprografijos įrenginių pirmojo pardavimo Lietuvos Respublikoje kainos be mokesčių. 
+ Pastaba.  Kompensacinio atlyginimo tarifas nustatomas procentais nuo šiame priede numatytų Lietuvos Respublikos parduodamų civilinėje apyvartoje esančių Lietuvos Respublikoje pagamintų ar į Lietuvos Respublikos teritoriją įvežtų reprografijos įrenginių pirmojo pardavimo Lietuvos Respublikoje kainos be mokesčių. 
 
 
  II. Kompensacinio atlyginimo už atgaminimo reprografijos būdu paslaugas tarifai  (eurais) 
@@ -5453,6 +5592,7 @@ REPROGRAFIJOS ĮRENGINIAI, UŽ KURIUOS MOKAMAS KOMPENSACINIS ATLYGINIMAS, KOMPEN
 Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
 Priedo pakeitimai:
 Nr. XII-2238, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00367
+Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
  
 
 
@@ -5460,6 +5600,7 @@ Nr. XII-2238, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00367
 
  
  
+ 
  
 Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
 3 priedas
@@ -5524,6 +5665,22 @@ Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
 11. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/26/ES dėl kolektyvinio autorių teisių ir gretutinių teisių administravimo ir daugiateritorių licencijų naudoti muzikos kūrinius internete teikimo vidaus rinkoje (OL 2014 L 84, p. 72). 
 Papildyta punktu:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+ 
+
+
+
+
+12. 2017 m. rugsėjo 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1564 dėl aklų, regos sutrikimų ar kitų spausdinto teksto skaitymo negalių turinčių asmenų labui leidžiamų tam tikrų būdų naudoti tam tikrus autorių teisių ir gretutinių teisių saugomus kūrinius ir kitus objektus, kuria iš dalies keičiama Direktyva 2001/29/EB dėl autorių teisių ir gretutinių teisių konformacinėje visuomenėje tam tikrų aspektų suderinimo (OL 2017 L 242, p. 6). 
+Papildyta punktu:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
+ 
+
+
+
+
+13. 2017 m. rugsėjo 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1563 dėl Sąjungos ir trečiųjų šalių tarpvalstybinio keitimosi autorių ir gretutinių teisių saugomų tam tikrų kūrinių ir kitų objektų prieinamos formos kopijomis aklų, regos sutrikimų ar kitą spausdinto teksto skaitymo negalią turinčių asmenų labui (OL 2017 L 242, p. 1). 
+Papildyta punktu:
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
  
 
 
@@ -5622,3 +5779,13 @@ Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
 Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 15, 53, 54, 56, 57 ir 61 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 20, 20-1, 65, 78 straipsnių ir 1, 2 priedų pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 2, 20, 20-1, 25, 31, 32, 63, 75 straipsnių ir 3 priedo pakeitimo įstatymas
