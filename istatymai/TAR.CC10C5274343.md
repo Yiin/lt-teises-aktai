@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-02-20
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
  
@@ -768,7 +768,10 @@ Nr. XII-2132, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19505
 
 
 
-16. Valstybinės žemės sklypų nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarką bei sąlygas nustato Žemės sklypų perleidimo ir nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų įstatymas.
+16. Netenka galios 2019-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1268, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10513
+ 
 
 
 Straipsnio pakeitimai:
@@ -888,7 +891,10 @@ Nr. XII-1085, 2014-07-17, paskelbta TAR 2014-07-30, i. k. 2014-10691
 
 
 
-11. Valstybinės žemės sklypų perleidimo užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarką bei sąlygas nustato Žemės sklypų perleidimo ir nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų įstatymas.
+11. Neteko galios nuo 2019-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-1268, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10513
+ 
 
 
 
@@ -1911,6 +1917,54 @@ Nr. XI-912, 2010-06-18, Žin., 2010, Nr. 72-3616 (2010-06-22)
 
 
 
+311 straipsnis. Žemės sklypų išnuomojimas ir perleidimas užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms įkurti, užsienio valstybių Lietuvos Respublikos teritorijoje įsigytų nuosavybėn žemės sklypų perleidimas
+
+
+1. Privačios žemės sklypai užsienio valstybėms – jų diplomatinėms atstovybėms ir konsulinėms įstaigoms įkurti – perleidžiami (parduodami, dovanojami, mainomi) ar nuomojami laikantis Civilinio kodekso ir šio įstatymo reikalavimų. Privačios žemės sklypo savininkas dėl žemės sklypo perleidimo ar nuomos sandorio su užsienio valstybe sudarymo privalo gauti Lietuvos Respublikos užsienio reikalų ministerijos sutikimą. 
+
+
+
+
+2. Valstybinės žemės sklypai užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms įkurti Lietuvos Respublikos užsienio reikalų ministerijos sutikimu gali būti be aukciono parduodami ar nuomojami, taip pat mainomi į užsienio valstybių nuosavybės teise valdomus žemės sklypus šiame straipsnyje nustatyta tvarka ir sąlygomis. Parduodant ir nuomojant valstybinės žemės sklypus užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms įkurti, šio įstatymo 9 ir 10 straipsniai taikomi tiek, kiek tai nereglamentuojama šiame straipsnyje.
+
+
+
+
+3. Užsienio valstybė, įgijusi nuosavybės teise žemės sklypą Lietuvos Respublikos teritorijoje, gali jį perleisti (parduoti, mainyti, dovanoti) Vyriausybės sutikimu Lietuvos valstybei, kitai užsienio valstybei – jos diplomatinėms atstovybėms ir konsulinėms įstaigoms įkurti arba kitiems subjektams, kuriems nedraudžiama įsigyti nuosavybės teise žemės Lietuvos Respublikos teritorijoje šiomis sąlygomis:
+
+
+1) tuo atveju, jeigu žemės sklype yra statinių, jis perleidžiamas kartu su statiniais. Jeigu statinių įgijėjas neturi teisės įsigyti nuosavybės teise žemės Lietuvos Respublikos teritorijoje, žemės sklypą gali išpirkti Lietuvos valstybė. Lietuvos valstybei atsisakius pirkti užsienio valstybės perleidžiamą žemės sklypą, jis gali būti perleidžiamas kitiems subjektams;
+
+
+
+
+2) tuo atveju, jeigu žemės sklype nėra statinių, jį gali įsigyti Lietuvos valstybė. Lietuvos valstybei atsisakius įsigyti užsienio valstybės perleidžiamo žemės sklypo, jis gali būti perleidžiamas kitai užsienio valstybei – jos diplomatinėms atstovybėms ir konsulinėms įstaigoms įkurti arba kitiems subjektams. 
+
+
+
+
+
+
+4. Lietuvos Respublikos užsienio reikalų ministerija neišduoda šio straipsnio 1 dalyje nurodyto sutikimo, jeigu žemės sklypo perleidimas ar išnuomojimas konkrečiam subjektui prieštarauja Lietuvos Respublikos užsienio politikos ir valstybės saugumo interesams. Vyriausybė neišduoda šio straipsnio 3 dalyje nurodyto sutikimo, jeigu žemės sklypo perleidimas konkrečiam subjektui prieštarauja Lietuvos Respublikos užsienio politikos ir valstybės saugumo interesams ar šio ar kitų įstatymų nustatytiems reikalavimams.
+
+
+
+
+5. Valstybinės žemės sklypo pardavimo kaina ir vertė, nuo kurios skaičiuojamas nuomos mokestis, apskaičiuojama Vyriausybės nustatyta tvarka. Mainomo valstybinės žemės sklypo vertė apskaičiuojama atliekant individualų turto vertinimą pagal Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymą ir turi būti lygi arba mažesnė negu mainomo užsienio valstybės turimo žemės sklypo vertė. Jeigu mainomo valstybinės žemės sklypo vertė mažesnė už mainomo užsienio valstybės turimo žemės sklypo vertę, žemės sklypų vertės skirtumas atlyginamas šalių susitarimu. Lietuvos Respublikos perkamų žemės sklypų kaina negali būti didesnė negu žemės sklypų vertė, apskaičiuota atliekant individualų turto vertinimą pagal Turto ir verslo vertinimo pagrindų įstatymą.
+
+
+
+
+6. Žemės sklypų perleidimo ir nuomos užsienio valstybėms bei užsienio valstybių Lietuvos Respublikos teritorijoje įsigytų nuosavybėn žemės sklypų perleidimo tvarkos aprašą tvirtina Vyriausybė. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1268, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10513
+ 
+
+
+
+
 
 
 VI skyrius
@@ -2200,7 +2254,7 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 34 straipsnis. Žemės informacinė sistema
 
 
-1. Žemės informacinės sistemos paskirtis – naudojantis atskiruose teminiuose erdvinių duomenų rinkiniuose sukauptais ir į vieną sistemą susietais erdviniais duomenimis apie žemę, tvarkyti ir teikti naudotojams informaciją apie Lietuvos Respublikos žemės fondą, žemės naudmenų sudėtį, žemės kiekybines ir kokybines savybes, žemės naudojimo sąlygas, kitas žemės naudojimui turinčias įtakos charakteristikas.  
+1. Žemės informacinės sistemos paskirtis – naudojantis atskiruose teminiuose erdvinių duomenų rinkiniuose sukauptais ir į vieną sistemą susietais erdviniais duomenimis apie žemę, tvarkyti ir teikti naudotojams informaciją apie Lietuvos Respublikos žemės fondą, žemės naudmenų sudėtį, žemės kiekybines ir kokybines savybes, žemės naudojimo sąlygas, kitas žemės naudojimui turinčias įtakos charakteristikas. 
 
 
 
@@ -3834,3 +3888,8 @@ Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 8, 9 ir 32 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1266, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10508
 Lietuvos Respublikos žemės įstatymo Nr. I-446 7 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1268, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10513
+Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 10 straipsnių pakeitimo ir Įstatymo papildymo 31-1 straipsniu įstatymas
