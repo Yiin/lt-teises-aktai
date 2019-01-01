@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.02.25)
 
 
 
-Suvestinė redakcija nuo 2017-11-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-02-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 11-281, i. k. 0951010ISTA00I-1143
  
@@ -2419,7 +2419,10 @@ Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
 
 
 
-6) teikti tabako gaminius kaip loterijų, konkursų, sporto varžybų, žaidimų prizus arba kartu su jais;
+6) teikti tabako gaminius kaip loterijų, konkursų, sporto renginių, žaidimų prizus arba kartu su jais;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1551, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17462
+ 
 
 
 
@@ -3472,3 +3475,8 @@ Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kont
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-345, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08030
 Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 5 ir 14 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1551, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17462
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 18 straipsnio pakeitimo įstatymas
