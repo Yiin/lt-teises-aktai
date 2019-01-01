@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2018-12-11 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
- 
-TAR pastaba. Iki įstatymo Nr. XIII-1681 įsigaliojimo (2019-01-01) įsigytų (importuotų) pramogoms ir reprezentacijai skirtų prekių ir paslaugų, kurių įsigijimo išlaidų pagal pelno (pajamų) apmokestinimą reglamentuojančius teisės aktus neleidžiama atimti iš gautų pajamų apskaičiuojant apmokestinamąjį pelną (pajamas), pirkimo (importo) PVM atskaitai nurodytuose teisės aktuose nustatytas 2 procentų pajamų kriterijus netaikomas nuo 2019 m. sausio 1 d.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
-Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 13, 15, 24, 62, 64, 78-1, 115-1 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 9-1 ir 26-1 straipsniais įstatymas
  
  
 LIETUVOS RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMAS
@@ -107,6 +102,15 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 
 
+71. Daugiatipis kuponas – kuponas, kuris nėra vienatipis kuponas, t. y. su juo susijusių prekių tiekimo arba paslaugų teikimo vieta ir (arba) už tas prekes ar paslaugas mokėtinas PVM kupono išleidimo metu nėra žinomi. 
+Papildyta straipsnio dalimi:
+TAR pastaba. Taikoma tik nuo 2019 m. sausio 1 d. išleistiems kuponams.
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+ 
+
+
+
+
 8. Ekonominė veikla – veikla (įskaitant gamybą, prekybą, paslaugų teikimą, žemės ūkio veiklą, žuvininkystę, kasybą, profesinę veiklą, naudojimąsi turto ir (arba) turtinių teisių turėjimu), kurią vykdant siekiama gauti bet kokių pajamų (neatsižvelgiant į tai, ar ją vykdant siekiama gauti pelno), išskyrus:
 
 
@@ -143,6 +147,15 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 
 13. Kilnojamasis daiktas – bet koks daiktas, išskyrus nurodytuosius šio straipsnio 18 dalyje.
+
+
+
+
+131. Kuponas – priemonė, kuria nustatomas įpareigojimas priimti ją kaip atlygį už prekių tiekimą arba paslaugų teikimą arba tokio atlygio dalį ir kurioje arba su kuria susijusiuose ir jos naudojimo sąlygas nustatančiuose dokumentuose nurodomos tiektinos prekės ar teiktinos paslaugos arba galimų jų tiekėjų ar teikėjų tapatybė. 
+Papildyta straipsnio dalimi:
+TAR pastaba. Taikoma tik nuo 2019 m. sausio 1 d. išleistiems kuponams.
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+ 
 
 
 
@@ -464,6 +477,15 @@ Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 
 39. Valstybė narė (arba valstybės narės teritorija) – Europos Sąjungos valstybės narės teritorija, kaip ji apibrėžta Sutarties dėl Europos Sąjungos veikimo 355 straipsnyje, išskyrus trečiąsias teritorijas. Valstybės narės teritorija laikomos ir finansų ministro patvirtintame sąraše nurodytos teritorijos, kuriose sudaryti ar kurioms skirti sandoriai laikomi toje valstybėje narėje sudarytais ar jai skirtais sandoriais.
+
+
+
+
+391. Vienatipis kuponas – kuponas, su kuriuo susijusių prekių tiekimo arba paslaugų teikimo vieta ir už tas prekes ar paslaugas mokėtinas PVM yra žinomi kupono išleidimo metu. 
+Papildyta straipsnio dalimi:
+TAR pastaba. Taikoma tik nuo 2019 m. sausio 1 d. išleistiems kuponams.
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+ 
 
 
 
@@ -871,6 +893,35 @@ Straipsnio pakeitimai:
 Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Nr. XI-518, 2009-12-03, Žin., 2009, Nr. 151-6772 (2009-12-22)
 Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
+ 
+
+
+
+
+91 straipsnis. Su kuponais susijusiems sandoriams taikomos taisyklės 
+
+
+1. Vienatipio kupono perleidimas, kurį atlieka apmokestinamasis asmuo savo vardu, laikomas su tuo kuponu susijusių prekių tiekimu arba paslaugų teikimu. Kai vienatipį kuponą perleidžia apmokestinamasis asmuo kito apmokestinamojo asmens vardu, toks perleidimas laikomas su tuo kuponu susijusių prekių tiekimu ar paslaugų teikimu, kurį atliko tas kitas apmokestinamasis asmuo.
+
+
+
+
+2. Faktinis prekių perdavimas arba faktinis paslaugų suteikimas už vienatipį kuponą kaip atlygį arba atlygio dalį šiame Įstatyme nelaikomas atskiru sandoriu, išskyrus atvejus, kai apmokestinamasis asmuo, faktiškai perdavęs prekes ar suteikęs paslaugas, nėra tas asmuo, kuris savo vardu išleido vienatipį kuponą. Tokiais atvejais laikoma, kad tas faktinis prekių tiekėjas arba paslaugų teikėjas patiekė su tuo kuponu susijusias prekes arba suteikė su tuo kuponu susijusias paslaugas apmokestinamajam asmeniui, kuris savo vardu išleido vienatipį kuponą.
+
+
+
+
+3. Daugiatipio kupono perleidimas nėra PVM objektas. Pagal šio Įstatymo 3 straipsnį PVM objektu yra faktinis prekių perdavimas arba faktinis paslaugų suteikimas už daugiatipį kuponą kaip atlygį arba atlygio dalį. 
+
+
+
+
+4. Kai daugiatipį kuponą perleidžia apmokestinamasis asmuo, išskyrus apmokestinamąjį asmenį, kurio sandoris yra laikomas PVM objektu pagal šio straipsnio 3 dalį, PVM objektu yra laikomos bet kokios nustatytos jo teikiamos su daugiatipio kupono perleidimu susijusios paslaugos, pavyzdžiui, platinimo arba reklamos paslaugos. 
+
+
+Papildyta straipsniu:
+TAR pastaba. Straipsnis  taikomas tik nuo 2019 m. sausio 1 d. išleistiems kuponams.
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
  
 
 
@@ -1295,6 +1346,45 @@ Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
 
 
 
+151. Neatsižvelgiant į šio straipsnio 15 dalies nuostatas, nelaikoma, kad šio straipsnio 15 dalyje nurodytos paslaugos suteiktos šalies teritorijoje, jeigu tenkinamos visos šios sąlygos:
+
+
+1) paslaugų teikėjas įsikūręs (t. y. jo buveinė arba nuolatinė gyvenamoji vieta yra) tik vienoje kitoje valstybėje narėje ir jis neturi padalinių valstybėse narėse, o jeigu jis įsikūręs (t. y. jo buveinė arba nuolatinė gyvenamoji vieta yra) už Europos Sąjungos teritorijos ribų, jis turi padalinį tik vienoje kitoje valstybėje narėje;
+
+
+
+
+2) paslaugų teikėjo šio straipsnio 15 dalyje nurodytų paslaugų asmenims, kurie nėra apmokestinamieji asmenys ir kurie yra įsikūrę (t. y. kurių buveinė arba nuolatinė gyvenamoji vieta yra) kitoje, negu šios dalies 1 punkte nurodytoje, valstybėje narėje, vertė (neįskaitant PVM) einamaisiais kalendoriniais metais neviršija ir praėjusiais kalendoriniais metais neviršijo 10 000 eurų (paslaugoms, kurias teikiant netenkinamos šioje dalyje nurodytos sąlygos dėl paslaugų sumos, įskaitant paslaugas, kurias teikiant ši suma buvo viršyta, taikomos šio straipsnio 15 dalies nuostatos); 
+
+
+
+
+3) paslaugų teikėjas nėra pasirinkęs taikyti nuostatų, iš esmės tolygių šio straipsnio 153 dalies nuostatoms. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+ 
+
+
+
+
+152. Neatsižvelgiant į šio straipsnio 15 dalies nuostatas, kai apmokestinamasis asmuo, įsikūręs tik Lietuvos Respublikoje (t. y. tik šalies teritorijoje yra jo buveinė (jeigu jis ne fizinis asmuo) arba nuolatinė gyvenamoji vieta (jeigu jis fizinis asmuo), arba, jeigu jis įsikūręs (t. y. jo buveinė arba nuolatinė gyvenamoji vieta yra) už Europos Sąjungos teritorijos ribų, tik šalies teritorijoje jis turi padalinį, teikia šio straipsnio 15 dalyje nurodytas paslaugas asmenims, kurie nėra apmokestinamieji asmenys ir kurie yra įsikūrę (t. y. kurių buveinė arba nuolatinė gyvenamoji vieta yra) kitose valstybėse narėse, ir suteiktų paslaugų vertė (neįskaitant PVM) einamaisiais kalendoriniais metais neviršija ir praėjusiais kalendoriniais metais neviršijo 10 000 eurų, laikoma, kad šios paslaugos suteiktos šalies teritorijoje (šios dalies nuostatos netaikomos paslaugoms, kurias teikiant netenkinamos šioje dalyje nurodytos sąlygos dėl paslaugų sumos, įskaitant paslaugas, kurias teikiant ši suma buvo viršyta). 
+Papildyta straipsnio dalimi:
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+ 
+
+
+
+
+153. Šio straipsnio 152 dalyje nurodytas sąlygas atitinkantis Lietuvos Respublikoje įsikūręs ar šalies teritorijoje padalinį turintis paslaugų teikėjas turi teisę pasirinkti šio straipsnio 15 dalyje nurodytų paslaugų, teikiamų asmenims, kurie nėra apmokestinamieji asmenys ir kurie yra įsikūrę (t. y. kurių buveinė arba nuolatinė gyvenamoji vieta yra) kitose valstybėse narėse, suteikimo vieta laikyti ne Lietuvos Respublikos teritoriją. Šis pasirinkimas galioja ne trumpiau kaip 24 mėnesius nuo dienos, nuo kurios asmuo pasirinko nurodytų paslaugų vieta laikyti ne Lietuvos Respublikos teritoriją, visiems jo sudaromiems atitinkamiems sandoriams. Dėl šios pasirinkimo teisės paslaugų teikėjas su prašymu centrinio mokesčių administratoriaus nustatyta tvarka privalo kreiptis į vietos mokesčių administratorių. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+ 
+
+
+
+
 16. Neteko galios nuo 2015-01-01.
 Straipsnio dalies pakeitimai:
 Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
@@ -1650,6 +1740,15 @@ Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
 22. Atsiradus prievolei skaičiuoti PVM pagal šio Įstatymo 53 straipsnį, PVM turi būti skaičiuojamas nuo apmokestinamosios vertės, apskaičiuotos laikantis tame straipsnyje nustatytų taisyklių.
 
 
+
+
+23. Už daugiatipį kuponą tiekiamų prekių ar teikiamų paslaugų apmokestinamoji vertė yra atlygis, sumokėtas už kuponą, arba, jeigu informacijos apie tą atlygį nėra, piniginė vertė, nurodyta daugiatipiame kupone arba susijusiuose dokumentuose, išskyrus patį tiekiamų prekių ar teikiamų paslaugų PVM. 
+Papildyta straipsnio dalimi:
+TAR pastaba. Taikoma tik nuo 2019 m. sausio 1 d. išleistiems kuponams.
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Nr. X-932, 2006-11-28, Žin., 2006, Nr. 137-5203 (2006-12-16)
@@ -1722,12 +1821,12 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 19 straipsnis. PVM tarifai 
 
 
-1. Prekių tiekimo bei įsigijimo iš kitos valstybės narės ir paslaugų teikimo atvejais, nenurodytais šio straipsnio 3, 4, 5 ir 6 dalyse bei šio Įstatymo IV ir V skyriuose, taikomas standartinis PVM tarifas.
+1. Prekių tiekimo bei įsigijimo iš kitos valstybės narės ir paslaugų teikimo atvejais, nenurodytais šio straipsnio 3, 4 ir 5 dalyse bei šio Įstatymo IV ir V skyriuose, taikomas standartinis PVM tarifas.
 
 
 
 
-2. Importuojamoms prekėms, nenurodytoms šio straipsnio 3, 4 ir 5 dalyse bei šio Įstatymo V skyriuje, taikomas standartinis PVM tarifas.
+2. Importuojamoms prekėms, nenurodytoms šio straipsnio 3 ir 4 dalyse bei šio Įstatymo V skyriuje, taikomas standartinis PVM tarifas.
 
 
 
@@ -1736,13 +1835,6 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 
 1) šilumos energijai, tiekiamai gyvenamosioms patalpoms šildyti (įskaitant šilumos energiją, perduodamą per karšto vandens tiekimo sistemą), į gyvenamąsias patalpas tiekiamam karštam vandeniui arba šaltam vandeniui karštam vandeniui paruošti ir šilumos energijai, sunaudotai šiam vandeniui pašildyti; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1380, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19664
-Nr. XII-1910, 2015-06-30, paskelbta TAR 2015-07-01, i. k. 2015-10504
-Nr. XIII-154, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29793
-Nr. XIII-638, 2017-09-19, paskelbta TAR 2017-09-26, i. k. 2017-15114
-Nr. XIII-817, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20011
- 
 
 
 
@@ -1753,42 +1845,43 @@ Nr. XIII-817, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20011
 
 
 3) iki 2022 m. gruodžio 31 d. turizmo veiklą reglamentuojančių teisės aktų nustatyta tvarka teikiamoms apgyvendinimo paslaugoms; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-817, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20011
- 
 
 
 
 
-4) laikraščiams, žurnalams ir kitiems periodiniams leidiniams, išskyrus erotinio ir (ar) smurtinio pobūdžio arba profesinės etikos nesilaikančius leidinius, kuriuos tokiais pripažino teisės aktų įgaliota institucija, bei spausdintą produkciją, kurioje mokama reklama sudaro daugiau kaip 4/5 viso leidinio ploto;
+4) keleivių vežimo Susisiekimo ministerijos ar jos įgaliotos institucijos arba savivaldybių nustatytais reguliaraus susisiekimo maršrutais paslaugoms, taip pat šiame punkte nurodytų keleivių bagažo vežimo paslaugoms;
 
 
 
 
-5) keleivių vežimo Susisiekimo ministerijos ar jos įgaliotos institucijos arba savivaldybių nustatytais reguliaraus susisiekimo maršrutais paslaugoms, taip pat šiame punkte nurodytų keleivių bagažo vežimo paslaugoms.
+5) buitiniams energijos vartotojams, kaip jie apibrėžti Lietuvos Respublikos energetikos įstatyme, tiekiamoms malkoms ir medienos produktams, skirtiems kūrenimui.
 
 
 
 
 
 
-4. Lengvatinis 5 procentų PVM tarifas taikomas vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka, taip pat nekompensuojamiesiems receptiniams vaistams. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2749, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26871
-Nr. XIII-817, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20011
- 
+4. Lengvatinis 5 procentų PVM tarifas taikomas:
+
+
+1) vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka, taip pat nekompensuojamiesiems receptiniams vaistams; 
 
 
 
 
-5. Lengvatinis 5 procentų PVM tarifas taikomas neįgaliųjų techninės pagalbos priemonėms ir jų remontui.
+2) neįgaliųjų techninės pagalbos priemonėms ir jų remontui;
 
 
 
 
-6. 0 procentų PVM tarifas taikomas šio Įstatymo VI skyriuje nurodytais prekių tiekimo ir paslaugų teikimo bei prekių įsigijimo iš kitos valstybės narės atvejais.
+3) laikraščiams, žurnalams ir kitiems periodiniams leidiniams, išskyrus erotinio ir (ar) smurtinio pobūdžio arba profesinės etikos nesilaikančius leidinius, kuriuos tokiais pripažino teisės aktų įgaliota institucija, bei spausdintą produkciją, kurioje mokama reklama sudaro daugiau kaip 4/5 viso leidinio ploto.
 
 
+
+
+
+
+5. 0 procentų PVM tarifas taikomas šio Įstatymo VI skyriuje nurodytais prekių tiekimo ir paslaugų teikimo bei prekių įsigijimo iš kitos valstybės narės atvejais.
 Straipsnio pakeitimai:
 Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Nr. X-225, 2005-05-26, Žin., 2005, Nr. 72-2590 (2005-06-09)
@@ -1806,6 +1899,10 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 Nr. XI-2188, 2012-06-29, Žin., 2012, Nr. 79-4090 (2012-07-05)
 Nr. XII-78, 2012-12-20, Žin., 2012, Nr. 153-7828 (2012-12-29)
 Nr. XII-524, 2013-09-19, Žin., 2013, Nr. 101-4978 (2013-09-26)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1707, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20947
  
 
 
@@ -2017,9 +2114,10 @@ Nr. X-932, 2006-11-28, Žin., 2006, Nr. 137-5203 (2006-12-16)
 
 
 
-5. PVM neapmokestinamos nepriklausomų grupių, kurių nariai yra asmenys, vykdantys PVM neapmokestinamą veiklą ar veiklą, kuri nėra ekonominė veikla, savo nariams teikiamos paslaugos, tiesiogiai būtinos tų narių PVM neapmokestinamai veiklai ar veiklai, kuri nėra ekonominė veikla, kai tokių grupių bendras išlaidas padengia grupės nariai, o už gautą paslaugą narys nemoka daugiau negu jam tenkanti bendrų išlaidų dalis.
+5. Neteko galios 2019-01-01.
 Straipsnio dalies pakeitimai:
 Nr. XII-1318, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17215
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
  
 
 
@@ -2072,6 +2170,19 @@ Nr. XI-518, 2009-12-03, Žin., 2009, Nr. 151-6772 (2009-12-22)
  
 
 
+
+
+
+
+261 straipsnis. Nepriklausomų grupių veikla
+
+
+PVM neapmokestinamos nepriklausomų grupių, kurių nariai yra asmenys, vykdantys Direktyvos 2006/112/EB IX antraštinės dalies 2 skyriuje nurodytą veiklą, savo nariams teikiamos paslaugos, tiesiogiai būtinos tų narių šiame straipsnyje nurodytai veiklai, kai tokių grupių bendras išlaidas padengia grupės nariai, o už gautą paslaugą narys nemoka daugiau negu jam tenkanti bendrų išlaidų dalis. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+ 
 
 
 
@@ -3449,7 +3560,10 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 2. Negali būti atskaitomas: 
 
 
-1) pirkimo ir (arba) importo PVM už pramogoms ir reprezentacijai skirtas prekes ir paslaugas, jeigu jų įsigijimo išlaidų pagal pelno (pajamų) apmokestinimą reglamentuojančius teisės aktus neleidžiama atimti iš gautų pajamų apskaičiuojant apmokestinamąjį pelną (pajamas);
+1) pirkimo ir (arba) importo PVM už reprezentacijai skirtas prekes ir paslaugas, kurių įsigijimo išlaidos pagal pelno (pajamų) apmokestinimą reglamentuojančius teisės aktus nepriskiriamos prie reprezentacinių sąnaudų, taip pat 50 procentų pirkimo ir (arba) importo PVM už reprezentacijai skirtas prekes ir paslaugas, kurių įsigijimo išlaidos pagal pelno (pajamų) apmokestinimą reglamentuojančius teisės aktus priskiriamos prie reprezentacinių sąnaudų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+ 
 
 
 
@@ -4216,6 +4330,14 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 
 
 4. Jeigu šio straipsnio 3 dalyje nurodytų prekių tiekimą arba paslaugų teikimą pagal šio Įstatymo nuostatas ar joms tolygias kitų valstybių narių nuostatas PVM sąskaita faktūra įformina šių prekių ar paslaugų pirkėjas, taikomos šio straipsnio 1 dalies nuostatos.
+
+
+
+
+5. Neatsižvelgiant į šio straipsnio 1 dalies nuostatas, šio Įstatymo reikalavimai dėl paslaugų teikimo įforminimo PVM sąskaita faktūra taikomi tais atvejais, kai šio Įstatymo 13 straipsnio 15 dalyje nurodytas paslaugas, kurioms taikomos Sąjungoje įsikūrusių asmenų schemos arba Sąjungoje neįsikūrusių asmenų schemos, teikia apmokestinamasis asmuo, kuris Lietuvos Respublikoje registruojasi šių schemų taikymo tikslais. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+ 
 
 
 Įstatymas papildytas straipsniu :
@@ -5894,7 +6016,10 @@ SPECIALIOS TELEKOMUNIKACIJŲ, RADIJO IR TELEVIZIJOS TRANSLIAVIMO IR (ARBA) ELEKT
 2. Apmokestinamasis asmuo, įsikūręs už Europos Sąjungos teritorijos ribų ir Europos Sąjungos teritorijoje teikiantis telekomunikacijų, radijo ir televizijos transliavimo ir (arba) elektroniniu būdu teikiamas paslaugas skirtingų valstybių narių asmenims, kurie nėra apmokestinamieji asmenys, turi teisę pasirinkti taikyti Sąjungoje neįsikūrusių asmenų schemą ir įsiregistruoti PVM mokėtoju vienoje kurioje nors valstybėje narėje, ir per šią valstybę narę vykdyti įsipareigojimus, susijusius su mokestinėmis prievolėmis visoje Europos Sąjungos teritorijoje. Šio skirsnio nuostatos taikomos, kai už Europos Sąjungos teritorijos ribų įsikūręs apmokestinamasis asmuo pasirenka taikyti Sąjungoje neįsikūrusių asmenų schemą ir registruotis PVM mokėtoju Lietuvos Respublikoje. Taikant Sąjungoje neįsikūrusių asmenų schemą: 
 
 
-1) apmokestinamuoju asmeniu, įsikūrusiu už Europos Sąjungos teritorijos ribų, laikomas apmokestinamasis asmuo, kuris Europos Sąjungos teritorijoje neturi buveinės arba padalinio ir kuris nėra ir neturi būti įsiregistravęs kurioje nors valstybėje narėje PVM mokėtoju pagal atitinkamas valstybių narių teisės aktų nuostatas (išskyrus prievolę registruotis PVM mokėtoju pagal nuostatas, iš esmės tolygias šio skirsnio nuostatoms);
+1) apmokestinamuoju asmeniu, įsikūrusiu už Europos Sąjungos teritorijos ribų, laikomas apmokestinamasis asmuo, kuris Europos Sąjungos teritorijoje neturi buveinės arba padalinio; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+ 
 
 
 
@@ -6343,7 +6468,10 @@ Nr. X-1251, 2007-07-03, Žin., 2007, Nr. 80-3222 (2007-07-19)
 
 
 
-4. Šio straipsnio 2 ar 3 dalyje nurodytais atvejais skiriamos konkrečios baudos dydis priklauso nuo pažeidimo pobūdžio, mokesčio mokėtojo kaltės formos ir kitų aplinkybių, kurias mokesčių administratorius pripažįsta svarbiomis skirdamas didesnę ar mažesnę baudą.
+4. Šio straipsnio 2 ar 3 dalyje nurodytais atvejais skirdamas baudą, konkretų jos dydį mokesčių administratorius nustato vadovaudamasis Mokesčių administravimo įstatyme nustatytomis baudų skyrimo taisyklėmis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1332, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10975
+ 
 
 
 Straipsnio pakeitimai:
@@ -6891,6 +7019,22 @@ Europos Sąjungos teisės aktai, su kuriais suderintos  Pridėtinės vertės mok
 18. 2010 m. liepos 13 d. Tarybos direktyva 2010/45/ES, kuria iš dalies keičiamos Direktyvos 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos nuostatos dėl sąskaitų faktūrų išrašymo taisyklių (OL 2010 L 189, p. 1).
 
 
+
+
+19. 2016 m. birželio 27 d. Tarybos direktyva (ES) 2016/1065, kuria iš dalies keičiamos Direktyvos 2006/112/EB nuostatos dėl kuponų apmokestinimo tvarkos (OL 2016 L 177, p. 9). 
+Papildyta punktu:
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+ 
+
+
+
+
+20. 2017 m. gruodžio 5 d. Tarybos direktyva (ES) 2017/2455, kuria iš dalies keičiamos Direktyvos 2006/112/EB ir Direktyvos 2009/132/EB nuostatos, susijusios su tam tikromis pridėtinės vertės mokesčio prievolėmis, taikomomis paslaugų teikimui ir nuotolinei prekybai prekėmis (OL 2017 L 348, p. 7). 
+Papildyta punktu:
+Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
+ 
+
+
 Įstatymas papildytas priedu:
 Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Priedo pakeitimai:
@@ -7229,3 +7373,13 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 116 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 13, 15, 24, 62, 64, 78-1, 115-1 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 9-1 ir 26-1 straipsniais įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1332, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10975
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 123 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1707, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20947
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 straipsnio pakeitimo įstatymas
