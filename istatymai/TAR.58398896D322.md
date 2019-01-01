@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS PROBACIJOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 4-108, i. k. 1111010ISTA0XI-1860
  
@@ -106,7 +106,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-11. Probuotojas – asmuo, priimtas į probacijos tarnybą Lietuvos Respublikos tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto nustatyta tvarka ir vykdantis probaciją.
+11. Probuotojas – pataisos pareigūnas, vykdantis probaciją.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1388, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12056
  
 
 
@@ -1245,7 +1247,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
- 
 
 
  
@@ -1271,3 +1272,8 @@ Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 6, 22, 23 ir 30 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
 Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 6, 14 ir 19 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1388, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12056
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 2 straipsnio pakeitimo įstatymas
