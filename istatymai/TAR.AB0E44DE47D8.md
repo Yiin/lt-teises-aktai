@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB0E44DE47D8"
 
 # Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinasis įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1656, i. k. 0971010ISTAVIII-366
  
@@ -390,9 +390,10 @@ Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
 
 
 
-2. Kompensuojamasis uždarbis apskaičiuojamas dauginant nukentėjusiojo kompensavimo koeficientą (k) (šio įstatymo 2 straipsnio 11 dalis) iš 65 procentų vidutinio šalies darbo užmokesčio (D) (šio įstatymo 2 straipsnio 10 dalis), galiojusio teisės į vienkartinę netekto darbingumo kompensaciją atsiradimo mėnesį, t. y. pagal formulę k x 0,65 x D. 
+2. Kompensuojamasis uždarbis apskaičiuojamas dauginant nukentėjusiojo kompensavimo koeficientą (k) (šio įstatymo 2 straipsnio 11 dalis) iš 50,43 procento vidutinio šalies darbo užmokesčio (D) (šio įstatymo 2 straipsnio 10 dalis), galiojusio teisės į vienkartinę netekto darbingumo kompensaciją atsiradimo mėnesį, t. y. pagal formulę k x 0,5043 x D. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
+Nr. XIII-1723, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20977
  
 
 
@@ -444,7 +445,10 @@ Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
 
 
 
-2. Periodinė netekto darbingumo kompensacija nukentėjusiajam mokama kas mėnesį žalos atlyginimo mokėtojo nustatytomis dienomis, ne vėliau kaip mėnesio paskutinę darbo dieną. Periodinė netekto darbingumo kompensacija apskaičiuojama kaip darbingumo netekimo koeficiento (d) (šio įstatymo 2 straipsnio 9 dalis), kompensavimo koeficiento (k) (šio įstatymo 2 straipsnio 11 dalis) ir mokėjimo mėnesį galiojančio 65 procentų vidutinio šalies darbo užmokesčio (D) (šio įstatymo 2 straipsnio 10 dalis) sandaugos pusė, t. y. pagal formulę 0,5 x d x k x 0,65 x D. 
+2. Periodinė netekto darbingumo kompensacija nukentėjusiajam mokama kas mėnesį žalos atlyginimo mokėtojo nustatytomis dienomis, ne vėliau kaip mėnesio paskutinę darbo dieną. Periodinė netekto darbingumo kompensacija apskaičiuojama kaip darbingumo netekimo koeficiento (d) (šio įstatymo 2 straipsnio 9 dalis), kompensavimo koeficiento (k) (šio įstatymo 2 straipsnio 11 dalis) ir 50,43 procento vidutinio šalies darbo užmokesčio (D) (šio įstatymo 2 straipsnio 10 dalis), galiojančio šios kompensacijos mokėjimo mėnesį, sandaugos pusė, t. y. pagal formulę 0,5 x d x k x 0,5043 x D. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1723, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20977
+ 
 
 
 
@@ -756,6 +760,7 @@ Nr. XI-752, 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
  
  
@@ -845,3 +850,8 @@ Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar sus
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
 Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 2, 3, 7, 11, 12, 13 straipsnių ir antrojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1723, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20977
+Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 12 ir 13 straipsnių pakeitimo įstatymas
