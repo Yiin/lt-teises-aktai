@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F707D11C62FE"
 
 # Lietuvos Respublikos tarptautinių sankcijų įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-03-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 68-2369, i. k. 1041010ISTA0IX-2160
  
@@ -81,7 +81,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-7. Visuomeninės sankcijos – kultūrinių, mokslo, švietimo, sporto ir kitokių visuomeninių ryšių su subjektais, dėl kurių įgyvendinamos tarptautinės sankcijos, apribojimai.            
+7. Visuomeninės sankcijos – kultūrinių, mokslo, švietimo, sporto ir kitokių visuomeninių ryšių su subjektais, dėl kurių įgyvendinamos tarptautinės sankcijos, apribojimai. 
 
 
 
@@ -313,12 +313,18 @@ Nr. XI-1693, 2011-11-17, Žin., 2011, Nr. 146-6839 (2011-12-01), i. k. 1111010IS
 
 
 
-4) Lietuvos Respublikos susisiekimo ministerija, Lietuvos Respublikos užsienio reikalų ministerija, Ryšių reguliavimo tarnyba, Civilinės aviacijos administracija – už susisiekimo sankcijų įgyvendinimo priežiūrą;
+4) Lietuvos Respublikos susisiekimo ministerija, Lietuvos Respublikos užsienio reikalų ministerija, Ryšių reguliavimo tarnyba, Lietuvos transporto saugos administracija – už susisiekimo sankcijų įgyvendinimo priežiūrą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1567, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17487
+ 
 
 
 
 
-5) Lietuvos Respublikos kultūros ministerija, Lietuvos Respublikos švietimo ir mokslo ministerija, Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės, Valstybinis turizmo departamentas prie Lietuvos Respublikos ūkio ministerijos – už visuomeninių sankcijų įgyvendinimo priežiūrą.
+5) Lietuvos Respublikos kultūros ministerija, Lietuvos Respublikos švietimo, mokslo ir sporto ministerija, Valstybinis turizmo departamentas prie Lietuvos Respublikos ūkio ministerijos – už visuomeninių sankcijų įgyvendinimo priežiūrą.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1552, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17467
+ 
 
 
 
@@ -419,3 +425,13 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1693, 2011-11-17, Žin., 2011, Nr. 146-6839 (2011-12-01), i. k. 1111010ISTA0XI-1693
 Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymo 12 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1552, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17467
+Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymo Nr. IX-2160 12 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1567, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17487
+Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymo Nr. IX-2160 12 straipsnio pakeitimo įstatymas
