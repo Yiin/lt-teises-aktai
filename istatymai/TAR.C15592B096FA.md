@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C15592B096FA"
 
 # Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas
 
-Suvestinė redakcija nuo 2017-11-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-04-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 115-3230, i. k. 0981010ISTAVIII-971
  
@@ -894,7 +894,10 @@ Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
 
 
-4. Priešgaisrinės apsaugos ir gelbėjimo departamentas rengia valstybinį ekstremaliųjų situacijų valdymo planą, Priešgaisrinės apsaugos ir gelbėjimo departamentui pavaldžios įstaigos derina savivaldybių ekstremaliųjų situacijų valdymo planus.
+4. Priešgaisrinės apsaugos ir gelbėjimo departamentas rengia valstybinį ekstremaliųjų situacijų valdymo planą, derina savivaldybių ekstremaliųjų situacijų valdymo planus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1768, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20879
+ 
 
 
 
@@ -1042,7 +1045,10 @@ Savivaldybės administracijos direktorius, vykdydamas savivaldybei valstybės pe
 
 
 
-4) atlikęs galimų pavojų ir ekstremaliųjų situacijų rizikos analizę, organizuoja savivaldybės ekstremaliųjų situacijų valdymo plano rengimą, viešąjį svarstymą ir, suderinęs su Priešgaisrinės apsaugos ir gelbėjimo departamentui pavaldžia įstaiga, jį tvirtina;
+4) atlikęs galimų pavojų ir ekstremaliųjų situacijų rizikos analizę, organizuoja savivaldybės ekstremaliųjų situacijų valdymo plano rengimą, viešąjį svarstymą ir, suderinęs su Priešgaisrinės apsaugos ir gelbėjimo departamentu, jį tvirtina; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1768, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20879
+ 
 
 
 
@@ -2155,3 +2161,8 @@ Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 2, 5, 6, 12, 14, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-657, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16015
 Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 9 ir 30 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1768, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20879
+Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 12 ir 14 straipsnių pakeitimo įstatymas
