@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8F45E398856"
 
 # Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 35-855, i. k. 0961010ISTA00I-1246
+ 
+TAR pastaba. Pakopinių kompetencijų pripažinimo pažymėjimai išduodami ir tiems asmenims, kurių odontologijos rezidentūros studijos prasidėjo iki įstatymo Nr. XIII-1411  įsigaliojimo (2019-01-01), jeigu šių asmenų odontologijos rezidentūros studijos atitinka universitetų nustatytus pakopinių kompetencijų patvirtinimo pažymėjimo išdavimo reikalavimus.  Įsigaliojus šiam įstatymui, gydytojui odontologui rezidentui pareiginės algos dydis perskaičiuojamas atsižvelgiant į šiame įstatyme nustatytus naujus pareiginės algos koeficientus. Tais atvejais, kai gydytojas odontologas rezidentas iki šio įstatymo įsigaliojimo gavo didesnę pareiginę algą negu pareiginė alga po perskaičiavimo, jam toliau mokama iki šio įstatymo įsigaliojimo mokėta pareiginė alga.   Iki šio įstatymo įsigaliojimo baigtos odontologijos studijos pripažįstamos pagal iki šio įstatymo įsigaliojimo galiojusius teisės aktus.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1411, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11476
+Lietuvos Respublikos odontologijos praktikos įstatymo Nr. I-1246 2, 3 ir 4 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2004-05-01:
 Nr. IX-1930, 2003-12-18, Žin. 2004, Nr. 4-36 (2004-01-07), i. k. 1031010ISTA0IX-1930
@@ -89,12 +94,26 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Odontologijos studijos – ne trumpesnės kaip 5 metų trukmės universitetinės odontologijos krypties studijos, kurias baigus išduodamas aukštojo mokslo diplomas, nurodantis gydytojo odontologo kvalifikaciją, ir internatūros pažymėjimas, nurodantis gydytojo odontologo profesinę kvalifikaciją. 
+21. Jaunesnysis gydytojas odontologas rezidentas – gydytojas odontologas rezidentas, studijuojantis pirmame odontologijos rezidentūros kurse. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1411, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11476
+ 
 
 
 
 
-4. Odontologijos internatūra – ne ilgesnė kaip vienerių metų trukmės odontologijos studijų dalis, kurios metu asmuo studijuoja bei prižiūrimas internatūros vadovo atlieka bendrąją odontologijos praktiką ir įgyja bendrosios odontologijos žinių, įgūdžių ir klinikinės patirties. Jei būtinas minimalus praktinis pasirengimas įgyjamas atskirai organizuojamos odontologijos internatūros metu, aukštojo mokslo diplomas išduodamas prieš šias studijas. 
+3. Odontologijos studijos – ne trumpesnės kaip 5 metų trukmės universitetinės odontologijos krypties studijos, kurias baigus išduodamas aukštojo mokslo diplomas, kuriuo patvirtinama, kad baigtos odontologijos krypties vientisosios studijos, įgytas sveikatos mokslų magistro kvalifikacinis laipsnis ir suteikta gydytojo odontologo profesinė kvalifikacija arba odontologijos studijų krypties lygiavertė aukštojo mokslo kvalifikacija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1411, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11476
+ 
+
+
+
+
+4. Neteko galios 2019-01-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1411, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11476
+ 
 
 
 
@@ -104,17 +123,19 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Gydytojas odontologas rezidentas – gydytojas odontologas, studijuojantis odontologijos rezidentūroje ir prižiūrimas odontologo rezidento vadovo dirbantis gydytoju odontologu rezidentu. 
+6. Gydytojas odontologas rezidentas – asmuo, kuris studijuoja odontologijos rezidentūroje ir prižiūrimas gydytojo odontologo rezidento vadovo dirba gydytoju odontologu rezidentu ir savarankiškai verčiasi odontologijos praktika pagal odontologijos rezidentūroje įgytas kompetencijas, kurias patvirtinta jam išduotas pakopinių kompetencijų patvirtinimo pažymėjimas. 
 Straipsnio dalies pakeitimai:
 Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
+Nr. XIII-1411, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11476
  
 
 
 
 
-7. Odontologijos rezidentūra – trečiosios pakopos universitetinės odontologijos krypties studijos, skirtos gydytojui odontologui, norinčiam įgyti ar pakeisti odontologijos praktikos rūšies gydytojo odontologo profesinę kvalifikaciją. 
+7. Odontologijos rezidentūra – universitetinės odontologijos krypties studijos, skirtos asmenims, baigusiems odontologijos studijas ir norintiems teisės aktų nustatyta tvarka įgyti odontologijos praktikos specializaciją. 
 Straipsnio dalies pakeitimai:
 Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
+Nr. XIII-1411, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11476
  
 
 
@@ -153,6 +174,14 @@ Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14), i. k. 1051010ISTA0
 
 
 
+131. Pakopinių kompetencijų patvirtinimo pažymėjimas – universiteto nustatyta tvarka odontologijos rezidentūros studijų metu universiteto išduodamas pažymėjimas, kuriuo patvirtinama gydytojo odontologo rezidento sveikatos apsaugos ministro nustatyta kompetencija šio Įstatymo nustatyta tvarka savarankiškai be gydytojo vadovo priežiūros verstis odontologijos praktika. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1411, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11476
+ 
+
+
+
+
 14. Neteko galios nuo 2015-11-01.
 Straipsnio dalies pakeitimai:
 Nr. XII-1974, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16904
@@ -161,9 +190,11 @@ Nr. XII-1974, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16904
 
 
 
-15. Rezidentūros bazė – universiteto ligoninė ar kita sveikatos priežiūros įstaiga, sveikatos apsaugos ministro ir švietimo ir mokslo ministro nustatyta tvarka įgijusi teisę vykdyti rezidentūros programą ar jos dalį. 
+15. Rezidentūros bazė – universiteto ligoninė ar kita sveikatos priežiūros įstaiga, sveikatos apsaugos ministro ir švietimo ir mokslo ministro nustatyta tvarka įgijusi teisę vykdyti odontologijos rezidentūrą. 
 Papildyta straipsnio dalimi:
 Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
+Straipsnio dalies pakeitimai:
+Nr. XIII-1411, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11476
  
 
 
@@ -180,6 +211,14 @@ Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010IST
 17. Valstybės narės pilietis – Europos Sąjungos valstybės narės, Šveicarijos ar valstybės, pasirašiusios Europos ekonominės erdvės susitarimą, pilietis.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
+ 
+
+
+
+
+18. Vyresnysis gydytojas odontologas rezidentas – gydytojas odontologas rezidentas, studijuojantis antrame ar trečiame odontologijos rezidentūros kurse. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1411, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11476
  
 
 
@@ -207,9 +246,10 @@ ODONTOLOGIJOS PRAKTIKA
 
 
 
-3. Odontologijos rezidentūrą sudaro teorinė dalis ir gydytojo odontologo rezidento profesinės veiklos praktika, skirstomos į dalykų ciklus (modulius, praktikumus). Rezidentūros teorinį kursą organizuoja universitetas gydytojo odontologo rezidento praktikos vietoje. Profesinės veiklos praktikos metu gydytojas odontologas dirba gydytoju odontologu rezidentu ir įgyja specialių odontologijos įgūdžių bei klinikinės patirties. Šiam tikslui rezidentūros bazė su gydytoju odontologu rezidentu vietoj profesinės veiklos praktikos sutarties sudaro terminuotą darbo sutartį ir gydytojas odontologas įdarbinamas gydytoju odontologu rezidentu rezidentūros bazėje. Gydytojo odontologo rezidento bazinei pareiginei algai mokėti Sveikatos apsaugos ministerijai skiriami valstybės biudžeto asignavimai. Lėšos rezidentūros bazėms paskirstomos sveikatos apsaugos ministro nustatyta tvarka. Gydytojo odontologo rezidento profesinės veiklos praktika skirstoma į jaunesniojo ir vyresniojo gydytojo odontologo rezidento praktiką. Gydytojo odontologo rezidento profesinės veiklos praktikos apimtį, trukmę, gydytojo odontologo rezidento teises, pareigas, kompetenciją, atsakomybę ir bazinę pareiginę algą nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. Gydytojų odontologų rengimo ir profesinių kvalifikacijų įgijimo tvarką nustato Lietuvos Respublikos teisės aktai.
+3. Odontologijos rezidentūros bazė su gydytoju odontologu rezidentu sudaro terminuotą darbo sutartį. Gydytojui odontologui rezidentui mokama pareiginė alga, kuri apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš pareiginės algos bazinio dydžio, nustatyto Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatyme nustatyta tvarka. Jaunesniajam gydytojui odontologui rezidentui taikomas pareiginės algos koeficientas – 7,6, vyresniajam gydytojui odontologui rezidentui – 8,1. Gydytojo odontologo rezidento pareiginė alga mokama iš Sveikatos apsaugos ministerijai patvirtintų valstybės biudžeto asignavimų. Odontologijos rezidentūros vietų, į kurias priimtiems asmenims pareiginė alga mokama iš Sveikatos apsaugos ministerijai patvirtintų valstybės biudžeto asignavimų, skaičius neturi viršyti tais metais vientisąsias odontologijos studijas turinčių baigti asmenų skaičiaus. Lėšos odontologijos rezidentūros bazėms paskirstomos sveikatos apsaugos ministro nustatyta tvarka. Odontologijos rezidentūros studijų programų vykdymo reikalavimus ir jų priežiūros tvarką nustato Vyriausybė. 
 Straipsnio dalies pakeitimai:
 Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
+Nr. XIII-1411, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11476
  
 
 
@@ -226,9 +266,10 @@ Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010IST
 4 straipsnis. Odontologo teisės verstis odontologijos praktika įgijimas ir įgyvendinimas
 
 
-1. Verstis odontologijos praktika Lietuvos Respublikoje turi teisę odontologas, turintis šio Įstatymo nustatyta tvarka išduotą galiojančią licenciją. Verstis odontologijos praktika odontologas gali tik sveikatos priežiūros įstaigoje, turinčioje licenciją teikti odontologijos praktikos paslaugas. Gydytojas odontologas rezidentas verstis odontologijos praktika pagal rezidentūros studijų programą gali tik įstaigoje, kurioje atlieka rezidentūrą, ir tik prižiūrimas odontologo rezidento vadovo. 
+1. Verstis odontologijos praktika Lietuvos Respublikoje turi teisę odontologas, turintis šio Įstatymo nustatyta tvarka išduotą galiojančią licenciją. Verstis odontologijos praktika odontologas gali tik sveikatos priežiūros įstaigoje, turinčioje licenciją teikti odontologijos praktikos paslaugas. Gydytojas odontologas rezidentas verstis odontologijos praktika pagal rezidentūros studijų programą gali tik įstaigoje, kurioje atlieka rezidentūrą. Verstis odontologijos praktika pagal odontologijos rezidentūros studijų programą gydytojas odontologas rezidentas gali tik prižiūrimas gydytojo odontologo rezidento vadovo, išskyrus gydytoją odontologą rezidentą, kuriam išduotas pakopinių kompetencijų patvirtinimo pažymėjimas. Gydytojui odontologui rezidentui, kuris turi pakopinių kompetencijų patvirtinimo pažymėjimą ir savarankiškai be gydytojo odontologo rezidento vadovo priežiūros verčiasi odontologijos praktika, odontologijos rezidentūros bazė privalo užtikrinti galimybę konsultuotis su odontologijos rezidentūros bazėje dirbančiais gydytojais odontologais. 
 Straipsnio dalies pakeitimai:
 Nr. XI-498, 2009-11-19, Žin., 2009, Nr. 144-6350 (2009-12-05), i. k. 1091010ISTA00XI-498
+Nr. XIII-1411, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11476
  
 
 
@@ -620,7 +661,9 @@ Odontologas, pažeidęs šio Įstatymo reikalavimus, atsako Lietuvos Respublikos
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+ 
 
 
  
@@ -628,6 +671,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos 
 odontologijos praktikos įstatymo 
 priedas
@@ -686,3 +730,8 @@ Lietuvos Respublikos odontologijos praktikos įstatymo 5 ir 7 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1974, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16904
 Lietuvos Respublikos odontologijos praktikos įstatymo Nr. I-1246 2 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1411, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11476
+Lietuvos Respublikos odontologijos praktikos įstatymo Nr. I-1246 2, 3 ir 4 straipsnių pakeitimo įstatymas
