@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DBF4203C51A1"
 
 # Lietuvos Respublikos nacionalinės teismų administracijos įstatymas
 
-Suvestinė redakcija nuo 2013-12-12 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 31-1130, i. k. 1021010ISTA00IX-787
  
@@ -41,7 +41,10 @@ Vilnius
 
 
 
-3. Nacionalinės teismų administracijos steigėjo funkcijas atlieka Lietuvos Aukščiausiasis Teismas. 
+3. Nacionalinės teismų administracijos valstybės kaip įstaigos savininkės teises ir pareigas įgyvendinančios institucijos funkcijas atlieka Lietuvos Aukščiausiasis Teismas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1375, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12044
+ 
 
 
 
@@ -317,12 +320,19 @@ Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010IST
 
 
 
-2. Nacionalinės teismų administracijos nuostatus, aprobavus Teisėjų tarybai, tvirtina steigėjas. Nacionalinės teismų administracijos struktūrą, didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių, vadovaudamasis įstatymų nustatyta tvarka ir suderinęs su steigėju, tvirtina Nacionalinės teismų administracijos direktorius.
+2. Nacionalinės teismų administracijos nuostatus, aprobavus Teisėjų tarybai, tvirtina valstybės kaip įstaigos savininkės teises ir pareigas įgyvendinanti institucija. Nacionalinės teismų administracijos struktūrą, didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių, vadovaudamasis įstatymų nustatyta tvarka ir suderinęs su valstybės kaip įstaigos savininkės teises ir pareigas įgyvendinančia institucija, tvirtina Nacionalinės teismų administracijos direktorius.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1375, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12044
+ 
 
 
 
 
-3. Nacionalinės teismų administracijos direktorių konkurso būdu 5 metų kadencijai į pareigas priima steigėjo funkcijas vykdančios institucijos vadovas Valstybės tarnybos įstatymo nustatyta tvarka.
+3. Nacionalinės teismų administracijos direktorių į pareigas priima valstybės kaip įstaigos savininkės teises ir pareigas įgyvendinančios institucijos vadovas Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka.
+TAR pastaba. Iki įstatymo Nr. XIII-1375 įsigaliojimo (2019-01-01) į pareigas 5 metų kadencijai priimtas Nacionalinės teismų administracijos direktorius šias pareigas eina iki kadencijos, kuriai jis paskirtas, pabaigos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1375, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12044
+ 
 
 
 
@@ -388,3 +398,8 @@ Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 2 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-631, 2013-12-03, Žin., 2013, Nr. 127-6447 (2013-12-12), i. k. 1131010ISTA0XII-631
 Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 4 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1375, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12044
+Lietuvos Respublikos nacionalinės teismų administracijos įstatymo Nr. IX-787 1 ir 4 straipsnių pakeitimo įstatymas
