@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4325B0C38B2F"
 
 # Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 110-3207, i. k. 0991010ISTAIII-1509
  
@@ -573,17 +573,18 @@ Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
 15 straipsnis. Ligos išmokų dydis
 
 
-1. Apdraustajam asmeniui tapus laikinai nedarbingam dėl įvykio, pripažinto draudžiamuoju šio įstatymo 6 straipsnyje nustatyta tvarka, jam mokama ligos išmoka, kurios dydis yra 100 procentų kompensuojamojo uždarbio, taikomo ligos išmokoms skaičiuoti. Išmoka mokama už darbo laiką pagal asmens darbo (pamainų) grafiką tos darbovietės, kurioje įvyko nelaimingas atsitikimas darbe arba buvo nustatyta profesinė liga.
+1. Apdraustajam asmeniui tapus laikinai nedarbingam dėl įvykio, pripažinto draudžiamuoju šio įstatymo 6 straipsnyje nustatyta tvarka, jam mokama ligos išmoka, kurios dydis yra 77,58 procento kompensuojamojo uždarbio, taikomo ligos išmokoms skaičiuoti. Ši išmoka mokama pagal darbo dienų skaičių (taikoma 5 darbo dienų darbo savaitė).
 
 
 
 
-2. Jeigu nelaimingas atsitikimas darbe neištiriamas per 30 dienų nuo kreipimosi į Valstybinio socialinio draudimo fondo valdybos teritorinį skyrių ar Karinių ir joms prilygintų struktūrų skyrių, ligos išmoka nuo trečios laikinojo nedarbingumo dienos mokama Ligos ir motinystės socialinio draudimo įstatyme nustatyta tvarka. Tais atvejais, kai pagal Ligos ir motinystės socialinio draudimo įstatymą išmokėta ligos išmoka yra didesnė negu pagal šį įstatymą apskaičiuota ligos išmoka dėl nelaimingo atsitikimo darbe (ar jai lygi), išmokėtoji išmoka neperskaičiuojama. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
+2. Kol nelaimingas atsitikimas darbe bus ištirtas, ligos išmoka nuo trečios laikinojo nedarbingumo dienos mokama Ligos ir motinystės socialinio draudimo įstatyme nustatyta tvarka. Pripažinus įvykį draudžiamuoju, ligos išmoka perskaičiuojama šiame įstatyme nustatyta tvarka ir išmokamas mokėtinos pagal šį įstatymą ir išmokėtosios išmokų skirtumas, tačiau tais atvejais, kai pagal Ligos ir motinystės socialinio draudimo įstatymą išmokėta ligos išmoka yra didesnė negu pagal šį įstatymą apskaičiuota ligos išmoka dėl nelaimingo atsitikimo darbe (ar jai lygi), išmokėtoji išmoka neperskaičiuojama.
+TAR pastaba. 15 straipsnio nuostatos taikomos skiriant ir mokant ligos išmokas asmenims, tapusiems laikinai nedarbingais ir įgijusiems teisę į ligos išmoką po įstatymo Nr. XIII-1339 įsigaliojimo (2019-01-01).
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
  
-
-
 
 
 
@@ -592,7 +593,6 @@ Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
 
 
 Ligos išmokos, susižalojus darbe, pakeliui į darbą ar iš darbo arba susirgus profesine liga, nuo pirmos laikinojo nedarbingumo dienos mokamos iš Valstybinio socialinio draudimo fondo biudžeto nelaimingų atsitikimų darbe socialiniam draudimui skirtų lėšų.
- 
 
 
 
@@ -624,12 +624,18 @@ Išmokų sumos, kurios priklausė nukentėjusiajam asmeniui ir kurių jis dėl m
 19 straipsnis. Netekto darbingumo vienkartinė kompensacija 
 
 
-1. Jeigu nukentėjusysis dėl draudžiamojo įvykio terminuotai netenka iki 20 procentų darbingumo, jam išmokama netekto darbingumo vienkartinė kompensacija, kurios dydis yra 10 procentų jo 24 mėnesių kompensuojamojo uždarbio, taikomo vienkartinei kompensacijai apskaičiuoti.
+1. Jeigu nukentėjusysis dėl draudžiamojo įvykio terminuotai netenka iki 20 procentų darbingumo, jam išmokama netekto darbingumo vienkartinė kompensacija, kurios dydis yra 7,76 procento jo 24 mėnesių kompensuojamojo uždarbio, taikomo vienkartinei kompensacijai apskaičiuoti.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
+ 
 
 
 
 
-2. Jeigu nukentėjusysis dėl draudžiamojo įvykio terminuotai netenka daugiau kaip 20, bet mažiau kaip 30 procentų darbingumo, jam išmokama netekto darbingumo vienkartinė kompensacija, kurios dydis yra 20 procentų jo 24 mėnesių kompensuojamojo uždarbio, taikomo vienkartinei kompensacijai apskaičiuoti. 
+2. Jeigu nukentėjusysis dėl draudžiamojo įvykio terminuotai netenka daugiau kaip 20, bet mažiau kaip 30 procentų darbingumo, jam išmokama netekto darbingumo vienkartinė kompensacija, kurios dydis yra 15,52 procento jo 24 mėnesių kompensuojamojo uždarbio, taikomo vienkartinei kompensacijai apskaičiuoti.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
+ 
 
 
 
@@ -686,9 +692,10 @@ Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
 
 
 
-2. Netekto darbingumo periodinė kompensacija nukentėjusiajam mokama kas mėnesį už praėjusį mėnesį. Ji apskaičiuojama kaip darbingumo netekimo koeficiento (d) (šio įstatymo 3 straipsnio 4 dalis), kompensavimo koeficiento (k) (šio įstatymo 3 straipsnio 7, 8, 9 dalys) ir mėnesį, už kurį mokama kompensacija, galiojančio vidutinio šalies darbo užmokesčio (D), sandaugos pusė, tai yra pagal formulę 0,5 x d x k x D. 
+2. Netekto darbingumo periodinė kompensacija nukentėjusiajam mokama kas mėnesį už praėjusį mėnesį. Ji apskaičiuojama kaip darbingumo netekimo koeficiento (d) (šio įstatymo 3 straipsnio 4 dalis), kompensavimo koeficiento (k) (šio įstatymo 3 straipsnio 7, 8, 9 dalys) ir 77,58 procento vidutinio šalies darbo užmokesčio (D), galiojančio mėnesį, už kurį mokama kompensacija, sandaugos pusė, tai yra pagal formulę 0,5 x d x k x 0,7758 x D.
 Straipsnio dalies pakeitimai:
 Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
+Nr. XIII-1722, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20976
  
 
 
@@ -855,9 +862,10 @@ Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
 27 straipsnis. Vienkartinė draudimo išmoka apdraustajam asmeniui mirus
 
 
-1. Apdraustajam asmeniui mirus dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba ūmios profesinės ligos, pripažintų draudžiamaisiais įvykiais, mirusiojo šeimai išmokama vienkartinė draudimo išmoka, lygi vidutinio šalies darbo užmokesčio (D), galiojusio mirties dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba ūmios profesinės ligos mėnesį, 60 dydžių. Ši išmoka lygiomis dalimis išmokama kiekvienam mirusiojo šeimos nariui. 
+1. Apdraustajam asmeniui mirus dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba ūmios profesinės ligos, pripažintų draudžiamaisiais įvykiais, mirusiojo šeimai išmokama vienkartinė draudimo išmoka, lygi vidutinio šalies darbo užmokesčio (D), galiojusio mirties dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba ūmios profesinės ligos mėnesį, 46,55 dydžių. Ši išmoka lygiomis dalimis išmokama kiekvienam mirusiojo šeimos nariui.
 Straipsnio dalies pakeitimai:
 Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
+Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
  
 
 
@@ -1217,3 +1225,8 @@ Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialin
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
 Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 3, 15, 19, 26 ir 27 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1722, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20976
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 20 straipsnio pakeitimo įstatymas
