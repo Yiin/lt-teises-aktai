@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-02
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -1037,7 +1037,10 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 
 
 
-3. Pranešimas valstybės ar savivaldybės institucijai ar įstaigai apie darbdavio daromus darbo ar kitų teisės normų pažeidimus ar kreipimasis į darbo ginčus nagrinėjantį organą dėl pažeistų teisių ar interesų gynybos negali būti laikomi veiksmais, pažeidžiančiais darbdavio turtinius ar neturtinius interesus. Darbuotojas negali būti dėl to persekiojamas ir jam negali būti taikomos jo interesus pažeidžiančios priemonės.
+3. Pranešimas valstybės ar savivaldybės institucijai ar įstaigai apie darbdavio daromus darbo ar kitų teisės normų pažeidimus, taip pat informacijos apie pažeidimą pateikimas Lietuvos Respublikos pranešėjų apsaugos įstatymo nustatyta tvarka ar kreipimasis į darbo ginčus nagrinėjantį organą dėl pažeistų teisių ar interesų gynybos negali būti laikomi veiksmais, pažeidžiančiais darbdavio turtinius ar neturtinius interesus. Darbuotojas negali būti dėl to persekiojamas ir jam negali būti taikomos jo interesus pažeidžiančios priemonės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1847, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21878
+ 
 
 
 
@@ -2145,7 +2148,9 @@ Nr. XII-2688, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26498
 
 
 
-2. Darbo sutartis šio straipsnio pagrindu negali būti nutraukta dėl dalyvavimo byloje prieš darbdavį, kaltinamą teisės pažeidimais, taip pat dėl kreipimosi į administracinius organus dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, pilietybės ir socialinės padėties, tikėjimo, santuokinės ir šeiminės padėties, ketinimo turėti vaiką (vaikų), įsitikinimų ar pažiūrų, priklausomybės politinėms partijoms ir asociacijoms, amžiaus ar kitų diskriminacinių motyvų.
+2. Darbo sutartis šio straipsnio pagrindu negali būti nutraukta dėl informacijos apie pažeidimą pateikimo Pranešėjų apsaugos įstatymo nustatyta tvarka, dalyvavimo byloje prieš darbdavį, kaltinamą teisės pažeidimais, taip pat dėl kreipimosi į administracinius organus dėl lyties, seksualinės orientacijos, rasės, tautybės, kalbos, kilmės, pilietybės ir socialinės padėties, tikėjimo, santuokinės ir šeiminės padėties, ketinimo turėti vaiką (vaikų), įsitikinimų ar pažiūrų, priklausomybės politinėms partijoms ir asociacijoms, amžiaus ar kitų diskriminacinių motyvų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1847, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21878
  
 
 
@@ -9433,3 +9438,8 @@ Lietuvos Respublikos darbo kodekso 27 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1461, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11776
 Lietuvos Respublikos darbo kodekso 150 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1847, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21878
+Lietuvos Respublikos darbo kodekso 31 ir 59 straipsnių pakeitimo įstatymas
