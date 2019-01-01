@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2018-12-19 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-10-29
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
  
@@ -240,7 +240,10 @@ Nr. XIII-245, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05916
 
 
 
-2. Kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokų dydis, yra apskaičiuojamas pagal apdraustojo asmens draudžiamąsias pajamas, turėtas per paeiliui einančius 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės, tėvystės ar vaiko priežiūros išmoką atsiradimo mėnesį. 
+2. Kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokų dydis, yra apskaičiuojamas pagal apdraustojo asmens draudžiamąsias pajamas, turėtas per paeiliui einančius 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės, tėvystės ar vaiko priežiūros išmoką atsiradimo mėnesį. Jeigu apdraustasis asmuo, turintis teisę gauti motinystės išmoką, per šioje dalyje nurodytą laikotarpį draudžiamųjų pajamų neturėjo iš viso ar iš dalies dėl to, kad dirbo užsienyje, motinystės išmokos dydis apskaičiuojamas iš paskutinių kalendorinių mėnesių, kuriais apdraustasis asmuo dirbo Lietuvoje, buvusių iki praeito kalendorinio mėnesio prieš teisės gauti motinystės išmoką atsiradimo mėnesį, Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
+ 
 
 
 
@@ -261,7 +264,10 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-5. Maksimalus kompensuojamasis uždarbis ligos, profesinės reabilitacijos, tėvystės ir vaiko priežiūros išmokoms apskaičiuoti negali viršyti dviejų šalies vidutinių mėnesinių darbo užmokesčių, galiojusių užpraeitą ketvirtį iki nedarbingumo atsiradimo mėnesio, profesinės reabilitacijos programos pradžios mėnesio ar teisės gauti tėvystės ar vaiko priežiūros išmoką atsiradimo dienos, dydžio. Kompensuojamasis uždarbis motinystės išmokoms apskaičiuojamas pagal šio straipsnio 2 ir 3 dalis.
+5. Maksimalus kompensuojamasis uždarbis ligos, profesinės reabilitacijos, tėvystės ir vaiko priežiūros išmokoms apskaičiuoti negali viršyti dviejų šalies vidutinių mėnesinių darbo užmokesčių, galiojusių užpraeitą ketvirtį iki nedarbingumo atsiradimo mėnesio, profesinės reabilitacijos programos pradžios mėnesio ar teisės gauti tėvystės ar vaiko priežiūros išmoką atsiradimo dienos, dydžio. Kompensuojamasis uždarbis motinystės išmokoms apskaičiuoti negali viršyti atitinkamų kalendorinių metų socialinio draudimo įmokų bazės, galiojančios laikotarpiu, už kurį skaičiuojamas kompensuojamasis uždarbis. Kai kompensuojamasis uždarbis motinystės išmokos dydžiui nustatyti apskaičiuojamas pagal draudžiamąsias pajamas, turėtas keliose darbovietėse, atitinkamų kalendorinių metų socialinio draudimo įmokų bazė taikoma kiekvienoje darbovietėje turėtoms pajamoms atskirai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1827, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21847
+ 
 
 
 
@@ -530,37 +536,47 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 14 straipsnis. Ligos išmokos dydis
 
 
-1. Ligos išmoka, kurią moka darbdavys dvi pirmąsias kalendorines nedarbingumo dienas, negali būti mažesnė negu 80 procentų ir didesnė negu 100 procentų išmokos gavėjo vidutinio darbo užmokesčio, apskaičiuoto Vyriausybės nustatyta tvarka.
+1. Ligos išmoka, kurią moka darbdavys dvi pirmąsias kalendorines nedarbingumo dienas, negali būti mažesnė negu 62,06 procento ir didesnė negu 100 procentų išmokos gavėjo vidutinio darbo užmokesčio, apskaičiuoto Vyriausybės nustatyta tvarka.
 
 
 
 
-2. Ligos išmoka, mokama iš Valstybinio socialinio draudimo fondo lėšų, yra lygi 80 procentų išmokos gavėjo kompensuojamojo uždarbio dydžio.
+2. Ligos išmoka, mokama iš Valstybinio socialinio draudimo fondo lėšų, yra lygi 62,06 procento išmokos gavėjo kompensuojamojo uždarbio dydžio.
 
 
 
 
-3. Ligos išmoka, tapus laikinai nedarbingam dėl audinių, ląstelių ar organų paėmimo transplantacijai donorystės tikslu, mokama 100 procentų išmokos gavėjo kompensuojamojo uždarbio.
+3. Ligos išmoka, tapus laikinai nedarbingam dėl audinių, ląstelių ar organų paėmimo transplantacijai donorystės tikslu, mokama 77,58 procento išmokos gavėjo kompensuojamojo uždarbio.
 
 
 
 
-4. Ligos išmoka sergančiam šeimos nariui slaugyti arba vaikui prižiūrėti, mokama iš Valstybinio socialinio draudimo fondo lėšų, yra lygi 85 procentams išmokos gavėjo kompensuojamojo uždarbio dydžio.
+4. Ligos išmoka sergančiam šeimos nariui slaugyti arba vaikui prižiūrėti, mokama iš Valstybinio socialinio draudimo fondo lėšų, yra lygi 65,94 procento išmokos gavėjo kompensuojamojo uždarbio dydžio.
 
 
 
 
-5. Ligos išmoka, mokama iš Valstybinio socialinio draudimo fondo lėšų, per mėnesį negali būti mažesnė negu 15 procentų šalies vidutinio mėnesinio darbo užmokesčio, galiojusio užpraeitą ketvirtį iki laikinojo nedarbingumo nustatymo mėnesio.
+5. Ligos išmoka, mokama iš Valstybinio socialinio draudimo fondo lėšų, per mėnesį negali būti mažesnė negu 11,64 procento šalies vidutinio mėnesinio darbo užmokesčio, galiojusio užpraeitą ketvirtį iki laikinojo nedarbingumo nustatymo mėnesio.
 
 
 
 
-8. Ligos išmoka apskaičiuojama ir mokama Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
+6. Ūkininkams ir jų partneriams, šeimynos dalyviams, individualiųjų įmonių savininkams, mažųjų bendrijų nariams ir ūkinių bendrijų tikriesiems nariams, įgijusiems teisę gauti ligos išmoką, ligos išmoka mokama neatsižvelgiant į pajamas. Mokant ligos išmoką, neatsižvelgiama į meno kūrėjo statusą turinčio asmens draudimo valstybės lėšomis sumas. 
+
+
+
+
+7. Kai ligos išmokos gavimo laikotarpiu apdraustajam asmeniui išmokamos su darbo santykiais susijusios kompensacinio ar skatinamojo pobūdžio vienkartinės išmokos, ligos išmoka mokama neatsižvelgiant į tai, kad nuo šių išmokų mokamos valstybinio socialinio draudimo įmokos. 
+
+
+
+
+8. Ligos išmoka apskaičiuojama ir mokama Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
  
-
-
 
 
 
@@ -717,7 +733,10 @@ Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 18 straipsnis. Motinystės išmokos nėštumo ir gimdymo atostogų laikotarpiu dydis
 
 
-1. Motinystės išmoka nėštumo ir gimdymo atostogų laikotarpiu mokama 100 procentų išmokos gavėjo kompensuojamojo uždarbio dydžio. 
+1. Motinystės išmoka nėštumo ir gimdymo atostogų laikotarpiu mokama 77,58 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
+ 
 
 
 
@@ -814,7 +833,10 @@ Nr. XIII-245, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05916
 21 straipsnis. Tėvystės išmokos dydis
 
 
-1. Tėvystės išmoka mokama 100 procentų išmokos gavėjo kompensuojamojo uždarbio dydžio. 
+1. Tėvystės išmoka mokama 77,58 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
+ 
 
 
 
@@ -889,7 +911,9 @@ Nr. XIII-832, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20051
 
 
 
-3. Jeigu apdraustasis asmuo, gaunantis vaiko priežiūros išmoką, įgyja teisę gauti motinystės išmoką dėl kito vaiko gimimo, globos ar įvaikinimo, jam mokamos abi šios išmokos, tačiau bendra išmokų suma negali būti didesnė kaip 100 procentų išmokos gavėjo palankesnio kompensuojamojo uždarbio dydžio, pagal kurį yra apskaičiuota motinystės išmoka arba vaiko priežiūros išmoka. Jeigu apdraustasis asmuo, gaunantis vaiko priežiūros išmoką, įgyja teisę gauti vaiko priežiūros išmoką dėl kito vaiko gimimo, globos ar įvaikinimo, jam mokamos abi šios išmokos, tačiau bendra išmokų suma negali būti didesnė kaip 100 procentų išmokos gavėjo palankesnio kompensuojamojo uždarbio dydžio, pagal kurį yra apskaičiuota vaiko priežiūros išmoka. Vaiko priežiūros išmokos mokamos neatsižvelgiant į tai, kurio vaiko priežiūrai suteiktos vaiko priežiūros atostogos.
+3. Jeigu apdraustasis asmuo, gaunantis vaiko priežiūros išmoką, įgyja teisę gauti motinystės išmoką dėl kito vaiko gimimo, globos ar įvaikinimo, jam mokamos abi šios išmokos, tačiau bendra išmokų suma negali būti didesnė kaip 77,58 procento išmokos gavėjo palankesnio kompensuojamojo uždarbio dydžio, pagal kurį yra apskaičiuota motinystės išmoka arba vaiko priežiūros išmoka. Jeigu apdraustasis asmuo, gaunantis vaiko priežiūros išmoką, įgyja teisę gauti vaiko priežiūros išmoką dėl kito vaiko gimimo, globos ar įvaikinimo, jam mokamos abi šios išmokos, tačiau bendra išmokų suma negali būti didesnė kaip 77,58 procento išmokos gavėjo palankesnio kompensuojamojo uždarbio dydžio, pagal kurį yra apskaičiuota vaiko priežiūros išmoka. Vaiko priežiūros išmokos mokamos neatsižvelgiant į tai, kurio vaiko priežiūrai suteiktos vaiko priežiūros atostogos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-832, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20051
  
@@ -975,10 +999,11 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 24 straipsnis. Vaiko priežiūros išmokos dydis
 
 
-1. Vaiko priežiūros išmokos dydis iki vaikui sueis vieni metai yra 100 procentų išmokos gavėjo kompensuojamojo uždarbio dydžio, jeigu apdraustasis pasirenka gauti šią išmoką, kol vaikui sueis vieni metai. Jeigu apdraustasis pasirenka gauti vaiko priežiūros išmoką, kol vaikui sueis 2 metai, šios išmokos dydis iki vaikui sueis vieni metai yra 70 procentų, o iki vaikui sueis 2 metai – 40 procentų išmokos gavėjo kompensuojamojo uždarbio dydžio.
+1. Vaiko priežiūros išmokos dydis iki vaikui sueis vieni metai yra 77,58 procento išmokos gavėjo kompensuojamojo uždarbio dydžio, jeigu apdraustasis pasirenka gauti šią išmoką, kol vaikui sueis vieni metai. Jeigu apdraustasis pasirenka gauti vaiko priežiūros išmoką, kol vaikui sueis 2 metai, šios išmokos dydis iki vaikui sueis vieni metai yra 54,31 procento, o iki vaikui sueis 2 metai – 31,03 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 Nr. XIII-245, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05916
+Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
  
 
 
@@ -992,7 +1017,10 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-3. Jeigu apdraustajam asmeniui gimsta du ir daugiau vaikų ar apdraustasis asmuo įvaikina arba globoja du ir daugiau vaikų ir jam yra suteiktos šių vaikų priežiūros atostogos, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte, vaiko priežiūros išmoka (šio straipsnio 1 ir 2 dalys) didinama atsižvelgiant į vienu metu gimusių ar įvaikintų arba globojamų vaikų skaičių, tačiau mokama bendra išmokų suma negali būti didesnė kaip 100 procentų išmokos gavėjo kompensuojamojo uždarbio dydžio.
+3. Jeigu apdraustajam asmeniui gimsta du ir daugiau vaikų ar apdraustasis asmuo įvaikina arba globoja du ir daugiau vaikų ir jam yra suteiktos šių vaikų priežiūros atostogos, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte, vaiko priežiūros išmoka (šio straipsnio 1 ir 2 dalys) didinama atsižvelgiant į vienu metu gimusių ar įvaikintų arba globojamų vaikų skaičių, tačiau mokama bendra išmokų suma negali būti didesnė kaip 77,58 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
+ 
 
 
 
@@ -1113,7 +1141,10 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 27 straipsnis. Profesinės reabilitacijos išmokos dydis
 
 
-1. Profesinės reabilitacijos išmoka, mokama pagal šį įstatymą, lygi 85 procentams išmokos gavėjo kompensuojamojo uždarbio.
+1. Profesinės reabilitacijos išmoka, mokama pagal šį įstatymą, lygi 65,94 procento išmokos gavėjo kompensuojamojo uždarbio. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
+ 
 
 
 
@@ -1581,3 +1612,8 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT23-N13/2018, 2018-12-19, paskelbta TAR 2018-12-19, i. k. 2018-20843
 Dėl Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 16 straipsnio nuostatų atitikties Lietuvos Respublikos Konstitucijai
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1827, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21847
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 6 straipsnio pakeitimo įstatymas
