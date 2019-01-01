@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2018-09-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
  
@@ -1458,7 +1458,10 @@ Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
 
 
 
-3. Už registro objekto registravimą Lietuvos Respublikos rinkliavų įstatymo nustatyta tvarka gali būti imama valstybės rinkliava (kai registro tvarkytojas, registruojantis registro objektą, yra valstybės institucija ar įstaiga) arba Vyriausybės nustatytas atlyginimas (kai registro tvarkytojas, registruojantis registro objektą, yra valstybės įmonė).
+3. Už registro objekto registravimą Lietuvos Respublikos rinkliavų įstatymo nustatyta tvarka gali būti imama valstybės rinkliava (kai registro tvarkytojas, registruojantis registro objektą, yra valstybės institucija ar įstaiga) arba Vyriausybės nustatytas atlyginimas (kai registro tvarkytojas, registruojantis registro objektą, yra valstybės įmonė), kuriam mutatis mutandis taikomos šio įstatymo 29 straipsnio 5 dalies nuostatos, išskyrus atvejus, kai duomenis, reikalingus registro objektui registruoti, teikia valstybės ir savivaldybių institucijos ir įstaigos, atlikdamos teisės aktuose nustatytas funkcijas. Dėl registro objekto, už kurio registravimą imamas Vyriausybės nustatytas atlyginimas, registravimo atsiradusios sąnaudos teikiamos, tikrinamos, vertinamos ir finansuojamos iš šiam registro tvarkytojui skiriamų valstybės biudžeto lėšų, mutatis mutandis taikant šio įstatymo 29 straipsnio 4 dalyje nustatytą tvarką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-848, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20329
+ 
 
 
 
@@ -1577,7 +1580,10 @@ Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
 
 
 
-6. Registro duomenys, registro informacija susijusiems registrams ir valstybės informacinėms sistemoms perduodami tokio turinio ir tokiu formatu, kurie naudojami registrą tvarkančioje institucijoje ir nereikalauja papildomo jų apdorojimo. Jeigu parengtinis perduodamų registro duomenų ir registro informacijos formatas ar turinys neatitinka prašančiojo registro ar valstybės informacinės sistemos tvarkytojo poreikių arba prašančiojo registro ar valstybės informacinės sistemos tvarkytojas neturi techninių galimybių reikiamai apdoroti gautus registro duomenis ir registro informaciją, arba jeigu dėl sąsajų tarp registro ir (arba) informacinės sistemos nebuvimo nėra galimybės perduoti reikalingus registro duomenis ir registro informaciją, registro duomenis ir registro informaciją perduodantis registro tvarkytojas Vyriausybės nustatyta tvarka sukuria priemones, reikalingas prašomam registro duomenų, registro informacijos formatui ar turiniui parengti ir (ar) apdoroti. Už priemonių sukūrimą sumoka prašančiojo registro ar valstybės informacinės sistemos tvarkytojas Vyriausybės nustatyta tvarka. 
+6. Registro duomenys, registro informacija susijusiems registrams ir valstybės informacinėms sistemoms perduodami tokio turinio ir tokiu formatu, kurie naudojami registrą tvarkančioje institucijoje ir nereikalauja papildomo jų apdorojimo. Jeigu parengtinis perduodamų registro duomenų ir registro informacijos formatas ar turinys neatitinka prašančiojo registro ar valstybės informacinės sistemos tvarkytojo poreikių arba prašančiojo registro ar valstybės informacinės sistemos tvarkytojas neturi techninių galimybių reikiamai apdoroti gautus registro duomenis ir registro informaciją, arba jeigu dėl sąsajų tarp registro ir (arba) informacinės sistemos nebuvimo nėra galimybės perduoti reikalingus registro duomenis ir registro informaciją, registro duomenis ir registro informaciją perduodantis registro tvarkytojas Vyriausybės nustatyta tvarka sukuria priemones, reikalingas prašomam registro duomenų, registro informacijos formatui ar turiniui parengti ir (ar) apdoroti. Šių priemonių sukūrimo sąnaudų tinkamumą ir pagrįstumą vertina Vyriausybės įgaliota institucija ir šios priemonės finansuojamos iš valstybės biudžeto lėšų Vyriausybės nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-848, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20329
+ 
 
 
 
@@ -1676,21 +1682,28 @@ Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
 
 
 
-3) teikiami mokesčių administravimo, teisėtvarkos institucijoms ir teismams teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis.
+3) teikiami valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-848, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20329
+ 
 
 
 
 
 
 
-4. Išlaidos, registro tvarkytojo patirtos dėl išrašų, pažymų ir kitų dokumentų, dokumentų kopijų ir (arba) informacijos rengimo, teikimo ir perdavimo susijusiems registrams, valstybės informacinėms sistemoms, mokesčių administravimo, teisėtvarkos institucijoms ir teismams, finansuojamos iš šiam registro tvarkytojui skiriamų valstybės biudžeto lėšų ir (arba) kitų teisės aktuose nustatytų finansavimo šaltinių.
+4. Sąnaudos, kurias registro tvarkytojas patyrė dėl išrašų, pažymų ir kitų dokumentų, dokumentų kopijų ir (arba) informacijos rengimo, teikimo ir perdavimo susijusiems registrams, valstybės informacinėms sistemoms, valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti, už kuriuos iš kitų subjektų imamas atlyginimas, finansuojamos iš šiam registro tvarkytojui skiriamų valstybės biudžeto lėšų. Vyriausybės nustatyta tvarka registro tvarkytojas per 2 mėnesius nuo kalendorinių metų pabaigos Vyriausybės įgaliotai institucijai pateikia auditoriaus arba audito įmonės patikrintus duomenis apie per ataskaitinį laikotarpį patirtas sąnaudas, apskaičiuotas remiantis Vyriausybės nustatyta tvarka apskaičiuotais ir patvirtintais atlyginimo už duomenų teikimą dydžiais. Vyriausybės įgaliota institucija per 30 darbo dienų nuo registro tvarkytojo pateiktų duomenų apie patirtas sąnaudas kartu su auditoriaus patikrinimo ataskaita gavimo dienos įvertina registro tvarkytojo nurodytų neatlygintino duomenų teikimo sąnaudų, kurias prašoma atlyginti iš valstybės biudžeto lėšų, dydžio pagrįstumą ir pateikia išvadą registro tvarkytojui. Registro tvarkytojo sąnaudos, nurodytos šiame punkte, patikrinamos auditoriaus ar audito įmonės registro tvarkytojo lėšomis. Jeigu Vyriausybės įgaliota institucija nustato, kad registro tvarkytojo pateiktas vertinti sąnaudų dydis yra nepagrįstas, registro tvarkytojas privalo per 10 darbo dienų pateikti patikslintą informaciją. Nepatikslinus informacijos, kompensuojamas tik tinkamai apskaičiuotas ir pagrįstas sąnaudų dydis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-848, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20329
+ 
 
 
 
 
-5. Atlyginimo už registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų teikimą dydis apskaičiuojamas ir mokamas vadovaujantis Vyriausybės nustatyta tvarka. Vyriausybės patvirtintame apraše taip pat nustatomos išlaidų kategorijos, priskiriamos sąnaudoms, kurias galima įtraukti apskaičiuojant atlyginimo dydį (registro, informacinės sistemos amortizacijos, priežiūros, administravimo, darbo užmokesčio ir kitos Vyriausybės nustatytos išlaidos). 
+5. Atlyginimo už registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų teikimą dydis apskaičiuojamas ir mokamas Vyriausybės nustatyta tvarka. Vyriausybės patvirtintame apraše taip pat nustatomos išlaidų kategorijos, priskiriamos sąnaudoms, kurias galima įtraukti apskaičiuojant atlyginimo dydį (registro, informacinės sistemos amortizacijos, priežiūros, administravimo, darbo užmokesčio ir kitos Vyriausybės nustatytos išlaidos). Registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų teikimo sąnaudos turi būti registro tvarkytojo lėšomis patikrintos auditoriaus ar audito įmonės. Vyriausybės įgaliota institucija vertina, ar atlyginimo už registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų teikimą dydžiai apskaičiuoti Vyriausybės nustatyta tvarka, ir teikia išvadą registro tvarkytojui. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
+Nr. XIII-848, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20329
  
 
 
@@ -2022,7 +2035,10 @@ Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
 
 
 
-3. Valstybės informacinės sistemos duomenys prašančiajai institucijai teikiami tokio turinio ir tokiu formatu, kurie jau yra informacinę sistemą tvarkančioje institucijoje naudojami ir nereikalauja papildomo duomenų apdorojimo. Jeigu parengtinis perduodamų valstybės informacinės sistemos duomenų turinys ar formatas neatitinka prašančiojo registro ar valstybės informacinės sistemos tvarkytojo poreikių arba prašantysis registro ar valstybės informacinės sistemos tvarkytojas neturi techninių galimybių reikiamai apdoroti gautų valstybės informacinės sistemos duomenų, jeigu dėl sąsajų tarp registro ir (arba) informacinės sistemos nebuvimo nėra galimybės perduoti reikalingų duomenų, duomenis perduodantis valstybės informacinės sistemos tvarkytojas Vyriausybės nustatyta tvarka sukuria priemones, reikalingas prašomam valstybės informacinės sistemos duomenų formatui ar turiniui parengti ir (arba) apdoroti. Už priemonių sukūrimą sumoka prašančiojo registro ar valstybės informacinės sistemos tvarkytojas Vyriausybės nustatyta tvarka. 
+3. Valstybės informacinės sistemos duomenys prašančiajai institucijai teikiami tokio turinio ir tokiu formatu, kurie jau yra informacinę sistemą tvarkančioje institucijoje naudojami ir nereikalauja papildomo duomenų apdorojimo. Jeigu parengtinis perduodamų valstybės informacinės sistemos duomenų turinys ar formatas neatitinka prašančiojo registro ar valstybės informacinės sistemos tvarkytojo poreikių arba prašantysis registro ar valstybės informacinės sistemos tvarkytojas neturi techninių galimybių reikiamai apdoroti gautų valstybės informacinės sistemos duomenų, jeigu dėl sąsajų tarp registro ir (arba) informacinės sistemos nebuvimo nėra galimybės perduoti reikalingų duomenų, duomenis perduodantis valstybės informacinės sistemos tvarkytojas Vyriausybės nustatyta tvarka sukuria priemones, reikalingas prašomam valstybės informacinės sistemos duomenų formatui ar turiniui parengti ir (arba) apdoroti. Šių priemonių sukūrimo sąnaudų tinkamumą ir pagrįstumą vertina Vyriausybės įgaliota institucija ir šios priemonės finansuojamos iš valstybės biudžeto lėšų Vyriausybės nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-848, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20329
+ 
 
 
 
@@ -2081,17 +2097,26 @@ Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
 
 
 
-2. Valstybės informacinės sistemos duomenys neatlygintinai perduodami susijusiems registrams ir valstybės informacinėms sistemoms pagal sutartis, išskyrus atvejus, kai valstybės informacinės sistemos valdytojai arba valstybės informacinės sistemos valdytojas ir registro tvarkytojas yra tas pats juridinis asmuo. 
+2. Valstybės informacinės sistemos duomenys neatlygintinai perduodami valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis, susijusiems registrams ir valstybės informacinėms sistemoms pagal sutartis, išskyrus atvejus, kai valstybės informacinės sistemos valdytojai arba valstybės informacinės sistemos valdytojas ir registro tvarkytojas yra tas pats juridinis asmuo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-848, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20329
+ 
 
 
 
 
-3. Visos išlaidos, patiriamos dėl šio straipsnio 1 ir 2 dalyse nurodytos neatlygintinai institucijoms teikiamos informacijos parengimo ir duomenų pateikimo, finansuojamos iš tokią informaciją teikiančiai institucijai skiriamų valstybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar Privalomojo sveikatos draudimo fondo biudžeto lėšų, kitų valstybės pinigų fondų ir (arba) Lietuvos Respublikos teisės aktuose nustatytų finansavimo šaltinių. 
+3. Visos sąnaudos, patiriamos dėl šio straipsnio 1 ir 2 dalyse nurodytos neatlygintinai institucijoms teikiamos informacijos parengimo ir duomenų pateikimo, finansuojamos iš tokią informaciją teikiančiai institucijai skiriamų valstybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar Privalomojo sveikatos draudimo fondo biudžeto lėšų, kitų valstybės pinigų fondų ir (arba) Lietuvos Respublikos teisės aktuose nustatytų finansavimo šaltinių. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-848, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20329
+ 
 
 
 
 
-4. Apskaičiuojant atlyginimą už valstybės informacinės sistemos duomenų teikimą, mutatis mutandis taikoma Vyriausybės nustatyta šio įstatymo 29 straipsnio 5 dalyje nurodyta atlyginimo už registro duomenų informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų teikimą dydžių nustatymo ir mokėjimo tvarka. 
+4. Apskaičiuojant atlyginimą už valstybės informacinės sistemos duomenų teikimą, mutatis mutandis taikoma Vyriausybės nustatyta šio įstatymo 29 straipsnio 5 dalyje nurodyta atlyginimo už registro duomenų informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų teikimą dydžių nustatymo ir mokėjimo tvarka. Sąnaudos, kurias informaciją teikianti institucija patyrė dėl informacijos, teiktinos už atlyginimą, neatlygintiną teikimą, teikiamos, tikrinamos ir vertinamos mutatis mutandis taikant šio įstatymo 29 straipsnio 4 dalyje nustatytą tvarką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-848, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20329
+ 
 
 
 
