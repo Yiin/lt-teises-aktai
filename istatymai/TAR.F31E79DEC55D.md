@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-11-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-788, i. k. 0961010ISTA00I-1240
  
@@ -2885,7 +2885,10 @@ Nr. XIII-1321, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11315
 
 
 
-6. Šio straipsnio 5 dalies 3–13 punktuose nurodyti dokumentai atskirai neteikiami, jeigu jie ar jų patvirtintos kopijos yra įtraukti į statinio projektą.
+6. Neteko galios 2019-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1643, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18930
+ 
 
 
 
@@ -2986,7 +2989,10 @@ Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
 
 
 
-13. Šio straipsnio 1 dalies 1–7 punktuose nurodyti statybą leidžiantys dokumentai išduodami, savivaldybės administracijos valstybės tarnautojui statybą leidžiančių dokumentų duomenis, per 3 darbo dienas praėjus nustatytam statinio projekto patikrinimo terminui, registruojant Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“, jeigu per statinio projektui patikrinti nustatytą terminą negauta statinio projektą turėjusių patikrinti subjektų nepritarimų statinio projektui, arba anksčiau, jeigu gauti visų statinio projektą turėjusių patikrinti subjektų pritarimai statinio projektui. Gavus nepritarimą (nepritarimų), statybą leidžiantis dokumentas neišduodamas ir statytojas apie tai per 3 darbo dienas praėjus statinio projekto patikrinimo terminui pasinaudojant Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacine sistema „Infostatyba“ informuojamas, nurodant neišdavimo priežastis ir pateikiant nepritarimo (nepritarimų) kopiją (kopijas). Šiame straipsnyje nustatyta tvarka pakartotinai teikto pakeisto pagal pastabas statinio projekto tikrinimo procedūras atlieka institucijos ar subjektai, nepritarę statinio projektui, taip pat institucijos ar subjektai, kurių kompetencija – statinio projekto sprendinių, kuriems įtaką daro pakeisto statinio projekto sprendiniai, patikrinimas; šiuo atveju tikrinimo procedūros atliekamos per 10 darbo dienų, skaičiuojant nuo dienos, kai Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ pakartotinis prašymas išduoti statybą leidžiantį dokumentą pažymimas kaip priimtas.
+13. Šio straipsnio 1 dalies 1–7 punktuose nurodyti statybą leidžiantys dokumentai išduodami savivaldybės administracijos valstybės tarnautojui statybą leidžiančių dokumentų duomenis per 3 darbo dienas praėjus nustatytam statinio projekto patikrinimo terminui registruojant ir šio straipsnio 151 dalyje nurodytus jų duomenis (dokumentus) paskelbiant Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“, jeigu per statinio projektui patikrinti nustatytą terminą negauta statinio projektą turėjusių patikrinti subjektų nepritarimų statinio projektui, arba anksčiau, jeigu gauti visų statinio projektą turėjusių patikrinti subjektų pritarimai statinio projektui. Gavus nepritarimą (nepritarimų), statybą leidžiantis dokumentas neišduodamas ir statytojas apie tai per 3 darbo dienas praėjus statinio projekto patikrinimo terminui per Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinę sistemą „Infostatyba“ informuojamas nurodant neišdavimo priežastis ir pateikiant nepritarimo (nepritarimų) kopiją (kopijas). Šiame straipsnyje nustatyta tvarka pakartotinai teikto pakeisto pagal pastabas statinio projekto tikrinimo procedūras atlieka institucijos ar subjektai, nepritarę statinio projektui, taip pat institucijos ar subjektai, kurių kompetencija – statinio projekto sprendinių, kuriems įtaką daro pakeisto statinio projekto sprendiniai, patikrinimas; šiuo atveju tikrinimo procedūros atliekamos per 10 darbo dienų, skaičiuojant nuo dienos, kurią Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ pakartotinis prašymas išduoti statybą leidžiantį dokumentą pažymimas kaip priimtas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1643, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18930
+ 
 
 
 
@@ -2996,7 +3002,26 @@ Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
 
 
 
-15. Laikoma, kad statybą leidžiantis dokumentas yra išduotas ir galiojantis, jeigu jo duomenys įregistruoti Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ (apie įregistruotą statybą leidžiantį dokumentą statytojas (užsakovas) ar jo įgaliotas asmuo turi būti informuojamas). Įregistravus šiuos duomenis, tik statytojo (užsakovo) ar jo įgalioto asmens prašymu ne vėliau kaip per 3 darbo dienas išduodamas įgalioto valstybės tarnautojo pasirašytas statybą leidžiantis dokumentas ar nuotoliniu būdu pateikiamas įgalioto valstybės tarnautojo elektroniniu parašu pasirašytas statybą leidžiantis dokumentas. Pasikeitus statytojui (užsakovui), statybos darbai ir statybos užbaigimo procedūros gali būti vykdomi pagal tą patį statybą leidžiantį dokumentą.
+15. Laikoma, kad statybą leidžiantis dokumentas yra išduotas ir galiojantis, jeigu jo duomenys įregistruoti ir apie jo išdavimą visuomenė informuota paskelbiant šio straipsnio 151 dalyje nurodytus duomenis (dokumentus) Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ (apie įregistruotą statybą leidžiantį dokumentą statytojas (užsakovas) ar jo įgaliotas asmuo turi būti informuojamas). Įregistravus statybą leidžiančio dokumento duomenis ir apie statybą leidžiančio dokumento išdavimą informavus visuomenę, tik statytojo (užsakovo) ar jo įgalioto asmens prašymu ne vėliau kaip per 3 darbo dienas išduodamas įgalioto valstybės tarnautojo pasirašytas statybą leidžiantis dokumentas ar nuotoliniu būdu pateikiamas įgalioto valstybės tarnautojo elektroniniu parašu pasirašytas statybą leidžiantis dokumentas. Pasikeitus statytojui (užsakovui), statybos darbai ir statybos užbaigimo procedūros gali būti vykdomi pagal tą patį statybą leidžiantį dokumentą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1643, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18930
+ 
+
+
+
+
+151. Apie statybą leidžiančio dokumento išdavimą, siekiant sukurti galimybes visuomenei ginti teisę gyventi sveikatai ir gerovei tinkamoje aplinkoje, visuomenė informuojama Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ paskelbiant statybą leidžiančio dokumento duomenis (statybą leidžiančio dokumento tipą, nurodytą šio įstatymo 27 straipsnio 1 dalyje, registracijos numerį, registracijos datą, statinių adresus, dokumento būseną (galiojantis, negaliojantis), dokumentą išdavusios institucijos pavadinimą), statinio projekto duomenis (projekto pavadinimą, numerį, parengimo metus), statinių duomenis (statinio pavadinimą, statybos rūšį, naudojimo paskirtį, kategoriją (ypatingasis, neypatingasis, nesudėtingasis), laikinojo statinio požymį, savavališkos statybos požymį, adresą, žemės sklypo registracijos duomenis (unikalų numerį, registro numerį), statinio registracijos duomenis (unikalų numerį, registro numerį), statinio statybos metus, planuojamų statyti naujų ar rekonstruoti esamų pastatų rodiklius (pastatų skaičių, butų skaičių, bendrą plotą, naudingą plotą, tūrį), statinio projekto patikrinimo išvadas (rezultatus) ir prie jų pridėtus dokumentus, statinio, kuriam išduotas statybą leidžiantis dokumentas, bendruosius rodiklius (sklypo užstatymo intensyvumą, sklypo užstatymo tankį, pastato bendrą plotą, aukštų skaičių, pastato aukštį). Kai išduodamas leidimas statyti naują statinį, leidimas rekonstruoti statinį, leidimas atnaujinti (modernizuoti) pastatą, leidimas pakeisti statinio ar jo dalies paskirtį, be šioje dalyje nurodytų duomenų (dokumentų), Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ turi būti paskelbti šio straipsnio 5 dalies 2, 3, 8, 10, 11, 13 ir 15 punktuose nurodyti dokumentai. Draudžiama skelbti statytojo (užsakovo), kuris yra fizinis asmuo, ir kitų fizinių asmenų, išskyrus asmenis, dalyvaujančius rengiant statinio projektą, atliekant statinio projekto ekspertizę, tikrinant statinio projektą, vardą ir pavardę. Draudžiama skelbti fizinių asmenų asmens kodą, gimimo datą, gyvenamąją vietą. Už duomenų pateikimą be draudžiamų skelbti asmens duomenų atsako asmenys, teikiantys skelbti duomenis (dokumentus) Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“. Šioje dalyje nurodytų duomenų (dokumentų) skelbimą ir jo užbaigimą užtikrina Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1643, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18930
+ 
+
+
+
+
+152. Šio straipsnio 151 dalyje nurodytų duomenų (dokumentų) skelbimas Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ baigiamas po 1 metų nuo statinio statybos užbaigimo. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1643, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18930
+ 
 
 
 
@@ -3036,7 +3061,10 @@ Nr. XIII-706, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17968
 
 
 
-20. Prašymų išduoti statybą leidžiantį dokumentą turinį, statybą leidžiančiam dokumentui gauti pateikiamo statinio projekto apimtį ir statybą leidžiančių dokumentų turinį ir jų viešinimo tvarką nustato aplinkos ministras.
+20. Prašymų išduoti statybą leidžiantį dokumentą turinį, prašant išduoti statybą leidžiantį dokumentą pateikiamo statinio projekto apimtį, statybą leidžiančių dokumentų turinį ir jų skelbimo tvarką nustato aplinkos ministras.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1643, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18930
+ 
 
 
 
@@ -5099,3 +5127,8 @@ Lietuvos Respublikos statybos įstatymo Nr. I-1240 6, 24 ir 27 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1321, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11315
 Lietuvos Respublikos statybos įstatymo Nr. I-1240 24, 27, 28, 34 ir 37 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1643, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18930
+Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 straipsnio pakeitimo įstatymas
