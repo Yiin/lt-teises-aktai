@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E"
 
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-01
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3046, i. k. 1071010ISTA00X-1212
  
@@ -48,7 +48,6 @@ BENDROSIOS NUOSTATOS
 
 
 4. Išteklių fondų tvarkytojai, Lietuvos Respublikos investicijų įstatyme nurodytų fondų fondų arba finansinių priemonių, kai fondų fondas nesteigiamas (toliau – fondų fondai), valdytojai, kurie nėra viešojo sektoriaus subjektai, tvarkydami išteklių fondo, fondų fondo apskaitą, turi tokias pačias pareigas pagal šį įstatymą kaip išteklių fondų tvarkytojai, fondų fondų valdytojai, kurie yra viešojo sektoriaus subjektai. Jeigu fondų fondų valdytojos yra tarptautinės finansų institucijos, fondų fondų valdytojų pareigas pagal šį įstatymą turi viešojo sektoriaus subjektai, iš kurių asignavimų daromi piniginiai įnašai į fondų fondą.
-TAR pastaba. 1 straipsnio 4 dalis įsigalioja 2019-01-01.
 
 
 
@@ -276,57 +275,33 @@ Nr. XIII-1176, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09067
 
 
 
-4) valstybės, savivaldybių ir biudžetinių įstaigų kontroliuojamos sveikatos priežiūros viešosios įstaigos;
+4) pelno nesiekiantys juridiniai asmenys, kuriems vienas ar keli (kartu) šios dalies 1, 2 ir 3 punktuose nurodyti subjektai daro lemiamą poveikį;
 
 
 
 
-5) valstybės, savivaldybių ir biudžetinių įstaigų kontroliuojamos aukštosios mokyklos ir mokslinių tyrimų institutai, kurių teisinė forma yra viešoji įstaiga;
+5) pelno nesiekiantys juridiniai asmenys, kuriems vienas ar keli (kartu) šios dalies 4 punkte nurodyti pelno nesiekiantys juridiniai asmenys daro lemiamą poveikį;
 
 
 
 
-6) valstybės, savivaldybių ir biudžetinių įstaigų kontroliuojamos bendrojo ugdymo mokyklos, profesinio mokymo įstaigos, kurių teisinė forma yra viešoji įstaiga;
+6) išteklių fondai;
 
 
 
 
-7) valstybės, savivaldybių ir biudžetinių įstaigų kontroliuojamos socialinės globos ir (arba) socialinių paslaugų įstaigos, kurių teisinė forma yra viešoji įstaiga;
+7) mokesčių fondai;
 
 
 
 
-8) šios dalies 4–7 punktuose išvardytų subjektų kontroliuojamos sveikatos priežiūros viešosios įstaigos, aukštosios mokyklos ir mokslinių tyrimų institutai, bendrojo ugdymo mokyklos, profesinio mokymo įstaigos, socialinės globos ir (arba) socialinių paslaugų įstaigos, kurių teisinė forma yra viešoji įstaiga;
+8) fondų fondai.
+TAR pastaba. 2 straipsnio 22 dalies nuostatos taikomas rengiant 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių veiklos ataskaitas ir grupės veiklos ataskaitas.
 
 
-
-
-9) viešojo sektoriaus subjektų kontroliuojamos programų ir projektų, finansuojamų iš valstybės biudžeto, įskaitant Europos Sąjungos finansinės paramos, tarptautinės finansinės paramos ir kitas lėšas, administravimo funkcijas atliekančios įstaigos, kurioms galimybė šias lėšas gauti numatyta jų veiklos sritį reglamentuojančiuose įstatymuose ir kituose teisės aktuose ir kurių teisinė forma yra viešoji įstaiga;
-
-
-
-
-10) viešoji įstaiga Lietuvos nacionalinis radijas ir televizija;
-
-
-
-
-11) išteklių fondai;
-
-
-
-
-12) mokesčių fondai;
-
-
-
-
-13) Investicijų įstatyme nurodyti fondų fondai arba finansinės priemonės, kai fondų fondas nesteigiamas. 
-Papildyta straipsnio punktu:
-Nr. XII-2217, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21013
+Straipsnio dalies pakeitimai:
+Nr. XIII-1176, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09067
  
-
-
 
 
 
