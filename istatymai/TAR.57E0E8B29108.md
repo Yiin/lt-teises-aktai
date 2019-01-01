@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-05-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
- 
-TAR pastaba. Potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimo komisija baigia darbą. 2018 m. vasario 28 d. Potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimo procedūras, pradėtas iki šio įstatymo įsigaliojimo, baigia vykdyti Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos koordinavimo komisija (toliau – Komisija) pagal iki 2018 m. vasario 28 d. galiojusį Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymą. Investuotojai, iki 2018 m. vasario 28 d. kaip potencialūs dalyviai pripažinti neatitinkančiais nacionalinio saugumo interesų, įsigaliojus šiam įstatymui, nepaisant šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo (toliau – Įstatymas) 10 straipsnyje nustatytų išimčių, norėdami įgyti Įstatymo 2 straipsnio 2 dalies 1–5 punktuose nurodytas teises, taip pat įsigyti turtą arba vykdyti veiklą apsaugos zonoje ar nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje, pakartotinai turi kreiptis į Komisiją dėl jų atitikties nacionalinio saugumo interesams.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-992, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01004
-Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 pakeitimo įstatymas
  
 Nauja redakcija nuo 2018-03-01:
 Nr. XIII-992, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01004
@@ -1056,7 +1051,10 @@ Pirmos kategorijos nacionaliniam saugumui užtikrinti svarbių įmonių SĄRAŠA
 
 
 
-3. Įmonė, centriniu lygmeniu kaupianti, tvarkanti naftos produktus ir atsargas Lietuvos Respublikoje.
+3. Neteko galios nuo 2019-01-01.
+Punkto pakeitimai:
+Nr. XIII-1453, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11765
+ 
 
 
 
@@ -1433,3 +1431,8 @@ Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-992, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01004
 Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo Nr. IX-1132 pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1453, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11765
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 1 priedo pakeitimo įstatymas
