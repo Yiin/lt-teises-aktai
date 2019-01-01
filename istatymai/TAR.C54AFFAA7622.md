@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-10
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
+ 
+TAR pastaba. Iki įstatymo Nr. XIII-1330 įsigaliojimo (2019-01-01) pradėtos viešųjų pirkimų procedūros tęsiamos, sudarytų preliminariųjų sutarčių pagrindu atnaujintas tiekėjų varžymasis vyksta, pagal sukurtą dinaminę pirkimo sistemą pirkimai atliekami pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 46, 92 ir 95 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-07-01:
 Nr. XIII-327, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07550
@@ -2837,7 +2842,15 @@ TIEKĖJO IR JO PATEIKTOS PARAIŠKOS IR PASIŪLYMO VERTINIMAS
 
 
 
-7) tiekėjas yra padaręs profesinį pažeidimą, kai už finansinės atskaitomybės ir audito teisės aktų pažeidimus tiekėjui ar jo vadovui paskirta administracinė nuobauda ar ekonominė sankcija, nustatytos Lietuvos Respublikos įstatymuose ar kitų valstybių teisės aktuose, ir nuo sprendimo, kuriuo buvo paskirta ši sankcija, įsiteisėjimo dienos arba nuo dienos, kai asmuo įvykdė administracinį nurodymą, praėjo mažiau kaip vieni metai.
+7) tiekėjas yra padaręs profesinį pažeidimą, kai už finansinės atskaitomybės ir audito teisės aktų pažeidimus tiekėjui ar jo vadovui paskirta administracinė nuobauda ar ekonominė sankcija, nustatytos Lietuvos Respublikos įstatymuose ar kitų valstybių teisės aktuose, ir nuo sprendimo, kuriuo buvo paskirta ši sankcija, įsiteisėjimo dienos arba nuo dienos, kai asmuo įvykdė administracinį nurodymą, praėjo mažiau kaip vieni metai;
+
+
+
+
+8) tiekėjas neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, nustatytų Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje ir dėl to laikomas padariusiu šiurkštų profesinį pažeidimą. 
+Papildyta straipsnio punktu:
+Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
+ 
 
 
 
@@ -2887,7 +2900,10 @@ d) tiekėjas, kuris yra fizinis asmuo, arba tiekėjo, kuris yra juridinis asmuo,
 
 
 
-4) yra baustas už leidimą dirbti nelegaliai trečiųjų šalių piliečiams, kai už tai tiekėjui paskirta administracinė nuobauda ar ekonominė sankcija, nustatytos Lietuvos Respublikos įstatymuose ar kitų valstybių teisės aktuose, ir nuo sprendimo, kuriuo buvo paskirta ši sankcija, įsiteisėjimo dienos praėjo mažiau kaip vieni metai.
+4) neteko galios 2019-01-01.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
+ 
 
 
 
@@ -5958,6 +5974,13 @@ TAR pastaba. 9 dalis įsigalioja 2020-07-01.
 
 
 10. Duomenis apie pirkimo sutarčių ir vidaus sandorių vykdymą iš informacinės sistemos „E. sąskaita“ į Centrinę viešųjų pirkimų informacinę sistemą teikia valstybės įmonė Registrų centras. Informaciją, kuri turi būti teikiama pagal šį reikalavimą, nustato Viešųjų pirkimų tarnyba.
+
+
+
+
+11. Informaciją apie subjektus, neatitinkančius minimalių patikimo mokesčių mokėtojo kriterijų, kaip tai numatyta šio įstatymo 46 straipsnio 4 dalies 8 punkte, Viešųjų pirkimų tarnybai teikia Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
  
 
 
@@ -6143,7 +6166,10 @@ TAR pastaba. 9 dalis įsigalioja 2020-07-01.
 
 
 
-11) administruoja perkančiųjų organizacijų pagal šio įstatymo 91 straipsnio 1 dalį paskelbtą informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus ir pagal šio įstatymo 52 straipsnio 2 dalį paskelbtą informaciją apie tiekėjus, kurie pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šio įstatymo 46 ir 47 straipsniuose nustatytiems reikalavimams, arba apie tiekėjus, kurie dėl pateiktos melagingos informacijos nepateikė patvirtinančių dokumentų, reikalaujamų pagal šio įstatymo 50 straipsnį;
+11) administruoja perkančiųjų organizacijų pagal šio įstatymo 91 straipsnio 1 dalį paskelbtą informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus ir pagal šio įstatymo 52 straipsnio 2 dalį paskelbtą informaciją apie tiekėjus, kurie pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šio įstatymo 46 ir 47 straipsniuose nustatytiems reikalavimams, arba apie tiekėjus, kurie dėl pateiktos melagingos informacijos nepateikė patvirtinančių dokumentų, reikalaujamų pagal šio įstatymo 50 straipsnį, taip pat savo interneto svetainėje skelbia Valstybinės mokesčių inspekcijos pateiktą informaciją apie subjektus, neatitinkančius minimalių patikimo mokesčių mokėtojo kriterijų, kaip tai numatyta šio įstatymo 46 straipsnio 4 dalies 8 punkte; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
+ 
 
 
 
@@ -7925,3 +7951,8 @@ Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 7 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-327, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07550
 Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 46, 92 ir 95 straipsnių pakeitimo įstatymas
