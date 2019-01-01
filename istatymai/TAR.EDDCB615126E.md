@@ -20,7 +20,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E"
 
 
 
-Suvestinė redakcija nuo 2018-06-27 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-01-29
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1958, i. k. 0941010ISTA000I-693
  
@@ -137,7 +137,10 @@ Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
 
 
 
-2) ištarnavusiems prokuratūroje 20 ir daugiau metų ir sukakusiems Valstybinių socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių;
+2) ištarnavusiems prokuratūroje 20 ir daugiau metų ir sukakusiems Lietuvos Respublikos socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1354, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11456
+ 
 
 
 
@@ -219,7 +222,10 @@ Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
 
 
 
-6. Pareigūnams, kurie dėl pačių kaltės buvo pašalinti iš prokuratūros sistemos, valstybinė pensija skiriama tik tada, kai jie yra ištarnavę 20 ar daugiau metų ir yra sukakę Valstybinio socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių.
+6. Pareigūnams, kurie dėl pačių kaltės buvo pašalinti iš prokuratūros sistemos, valstybinė pensija skiriama tik tada, kai jie yra ištarnavę 20 ar daugiau metų ir yra sukakę Socialinio draudimo pensijų įstatymo nustatytą senatvės pensijos amžių. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1354, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11456
+ 
 
 
 
@@ -332,7 +338,10 @@ Nr. XI-2301, 2012-10-17, Žin., 2012, Nr. 129-6475 (2012-11-08)
 7 straipsnis. Pareigūnų ir karių valstybinės pensijos už tarnybą dydis
 
 
-1. Pareigūnų ir karių valstybinė pensija už tarnybą skiriama pagal pareigūno ar kario nurodytų paeiliui ištarnautų 5 tarnybos metų palankiausių nuosekliai einančių 12 mėnesių jam nustatyto darbo užmokesčio vidurkį. Pareigūnams ir kariams, nurodytiems šio įstatymo 3 straipsnio 1 dalies 3 punkte ir ištarnavusiems vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą) mažiau negu 12 mėnesių, pareigūnų ir karių valstybinės netekto darbingumo pensijos skiriamos pagal pareigūno ar kario ištarnautų mėnesių jam nustatyto darbo užmokesčio vidurkį. Į darbo užmokestį įskaitoma pareiginė alga (tarnybinis atlyginimas), taip pat priedai už tarnybos Lietuvos valstybei stažą, laipsnį (tarnybinį rangą), kvalifikacinę kategoriją (kvalifikacinį rangą), kai šie priedai mokami įstatymų nustatyta tvarka.
+1. Pareigūnų ir karių valstybinė pensija už tarnybą skiriama pagal pareigūno ar kario nurodytų paeiliui ištarnautų 5 tarnybos metų palankiausių nuosekliai einančių 12 mėnesių jam nustatyto darbo užmokesčio vidurkį. Pareigūnams ir kariams, nurodytiems šio įstatymo 3 straipsnio 1 dalies 3 punkte ir ištarnavusiems vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą) mažiau negu 12 mėnesių, pareigūnų ir karių valstybinės netekto darbingumo pensijos skiriamos pagal pareigūno ar kario ištarnautų mėnesių jam nustatyto darbo užmokesčio vidurkį. Jeigu į pareigūno ar kario nurodytą laikotarpį darbo užmokesčio vidurkiui apskaičiuoti patenka ir laikotarpis nuo 2019 m. sausio 1 d., šio laikotarpio darbo užmokestis mažinamas dalijant jį iš 1,289. Į darbo užmokestį įskaitoma pareiginė alga (tarnybinis atlyginimas), taip pat priedai už tarnybos Lietuvos valstybei stažą, laipsnį (tarnybinį rangą), kvalifikacinę kategoriją (kvalifikacinį rangą), kai šie priedai mokami įstatymų nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1354, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11456
+ 
 
 
 
@@ -410,19 +419,22 @@ Nr. XII-1864, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10600
 3. Privalomosios karo tarnybos kariams, netekusiems darbingumo tarnybos, mokymų, pratybų ar užduočių vykdymo metu dėl priežasčių, susijusių su tarnyba, mokymais, pratybomis ar užduočių vykdymu, mokama pareigūnų ir karių valstybinė netekto darbingumo pensija:
 
 
-1) asmenims, netekusiems 75–100 procentų darbingumo, – 2 valstybinių socialinio draudimo bazinių pensijų dydžio;
+1) asmenims, netekusiems 75–100 procentų darbingumo, – 2 socialinio draudimo bazinių pensijų dydžio;
 
 
 
 
-2) asmenims, netekusiems 60–70 procentų darbingumo, – 1,5 valstybinės socialinio draudimo bazinės pensijos dydžio;
+2) asmenims, netekusiems 60–70 procentų darbingumo, – 1,5 socialinio draudimo bazinės pensijos dydžio;
 
 
 
 
-3) asmenims, netekusiems 45–55 procentų darbingumo, – 0,75 valstybinės socialinio draudimo bazinės pensijos dydžio.
+3) asmenims, netekusiems 45–55 procentų darbingumo, – 0,75 socialinio draudimo bazinės pensijos dydžio. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1354, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11456
+ 
 
 
 Straipsnio pakeitimai:
@@ -578,10 +590,10 @@ Nr. XIII-839, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20327
 
 
 
-15 straipsnis. Pareigūnų ir karių valstybinės pensijos priedas už tarnybą
+15 straipsnis. Pareigūnų ir karių valstybinės pensijos priedas už tarnybą 
 
 
-1. Pareigūnų ir karių valstybinės pensijos už tarnybą gavėjui nuo teisės gauti šią pensiją atsiradimo dienos, tačiau ne daugiau kaip už 12 mėnesių iki visų dokumentų pensijai skirti gavimo atitinkamoje institucijoje dienos, skiriamas pareigūnų ir karių valstybinės pensijos priedas už tarnybą. Šis priedas mokamas, iki asmuo įgis teisę gauti socialinio draudimo pensiją, jeigu pareigūnų ir karių valstybinės pensijos už tarnybą gavėjas nėra draudžiamas pensijų socialiniu draudimu pagal Valstybinio socialinio draudimo įstatymą, išskyrus asmenis, nurodytus Valstybinio socialinio draudimo įstatymo 6 straipsnyje, arba kitoje valstybėje negauna su darbo santykiais susijusių pajamų bei nėra savarankiškai dirbantis asmuo (toliau – draudžiamas pensijų socialiniu draudimu), arba jo gaunamos draudžiamosios pajamos, kaip jos apibrėžtos Valstybinio socialinio draudimo įstatyme (toliau – draudžiamosios pajamos), yra mažesnės negu 1 minimalioji mėnesinė alga (toliau – MMA). Jeigu asmuo nėra draudžiamas pensijų socialiniu draudimu, jam mokamas 1 socialinio draudimo bazinės pensijos (toliau – bazinė pensija) dydžio pareigūnų ir karių valstybinės pensijos priedas už tarnybą. Pareigūnų ir karių valstybinės pensijos gavėjui, kuris turi draudžiamųjų pajamų ir jų dydis per mėnesį yra mažesnis negu 1 MMA, mokama priedo dalis, kuri apskaičiuojama bazinės pensijos dydį dauginant iš koeficiento, apskaičiuoto pagal praėjusį mėnesį gautų draudžiamųjų pajamų dydį:K = (MMA – P) / MMA, čia:
+1. Pareigūnų ir karių valstybinės pensijos už tarnybą gavėjui nuo teisės gauti šią pensiją atsiradimo dienos, tačiau ne daugiau kaip už 12 mėnesių iki visų dokumentų pensijai skirti gavimo atitinkamoje institucijoje dienos, skiriamas pareigūnų ir karių valstybinės pensijos priedas už tarnybą (toliau šiame straipsnyje – priedas). Priedas mokamas, iki asmuo įgis teisę gauti socialinio draudimo pensiją, jeigu mėnesio, ėjusio prieš tą mėnesį, už kurį mokamas priedas, šio asmens draudžiamosios pajamos, kaip jos apibrėžtos Valstybinio socialinio draudimo įstatyme (toliau – draudžiamosios pajamos), yra mažesnės negu 1 minimalioji mėnesinė alga (toliau – MMA)  arba jis kitoje valstybėje negauna su darbo santykiais susijusių pajamų ir nėra savarankiškai dirbantis asmuo. Jeigu asmuo neturi draudžiamųjų pajamų arba kitoje valstybėje negauna su darbo santykiais susijusių pajamų ir nėra savarankiškai dirbantis asmuo, jam mokamas 1 socialinio draudimo bazinės pensijos (toliau – bazinė pensija) dydžio priedas. Pareigūnų ir karių valstybinės pensijos už tarnybą gavėjui, kuris turi draudžiamųjų pajamų ir jų dydis per mėnesį yra mažesnis negu 1 MMA, mokama priedo dalis, kuri apskaičiuojama bazinės pensijos dydį dauginant iš koeficiento, apskaičiuoto pagal mėnesio, einančio prieš tą mėnesį, už kurį mokamas priedas, draudžiamųjų pajamų dydį: K = (MMA - P) / MMA, čia:
 
 
 1) K – koeficientas, 
@@ -590,24 +602,26 @@ Nr. XIII-839, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20327
 
 
 2) P – asmens draudžiamosios pajamos.
+TAR pastaba. 15 straipsnio 1 dalies nuostatos pradedamos taikyti nuo 2019 m. vasario mėnesio, mokant pareigūnų ir karių valstybinės pensijos priedą už tarnybą už 2019 m. sausio mėnesį.
 
 
 
 
 
 
-2. Priedo mokėjimas sustabdomas nuo tos dienos, kurią jo gavėjas tapo draudžiamas pensijų socialiniu draudimu, jeigu jo gaunamos draudžiamosios pajamos per mėnesį yra lygios 1 MMA ir daugiau. Priedo mokėjimas atnaujinamas nuo tos dienos, kurią asmuo vėl atitinka šio straipsnio 1 dalyje nurodytas sąlygas priedui gauti. Tais atvejais, kai pareigūnų ir karių valstybinės pensijos gavėjas yra draudžiamas pensijų socialiniu draudimu, tačiau jo draudžiamosios pajamos tą mėnesį, kurio draudžiamosios pajamos turi būti vertinamos, teisės aktų nustatyta tvarka nėra (negali būti) nustatytos (pavyzdžiui, asmuo yra savarankiškai dirbantis asmuo, kurio draudžiamosios pajamos (įmokų bazė) nustatomos deklaravus pajamas, gautas praėjusiais kalendoriniais metais; asmuo draudžiamas pensijų socialiniu draudimu užsienyje ir jam nėra taikomi Lietuvos Respublikos socialinio draudimo teisės aktai), tol, kol draudžiamosios pajamos nebus nustatytos, preziumuojama, kad tokio asmens draudžiamosios pajamos yra MMA, ir priedas už tarnybą nemokamas. Tuomet gavus oficialius duomenis apie asmens draudžiamąsias pajamas, patvirtinančius, kad asmuo atitinkamą mėnesį neturėjo draudžiamųjų pajamų arba jos buvo mažesnės negu MMA, asmeniui per 30 dienų apskaičiuojama ir išmokama priedo už tarnybą nepriemokos suma.
+2. Priedo mokėjimas atnaujinamas nuo tos dienos, kurią asmuo vėl atitinka šio straipsnio 1 dalyje nurodytas priedo gavimo sąlygas. Tais atvejais, kai pareigūnų ir karių valstybinės pensijos už tarnybą gavėjo draudžiamosios pajamos tą mėnesį, kurio draudžiamosios pajamos turi būti vertinamos, teisės aktų nustatyta tvarka nėra (negali būti) nustatytos (pavyzdžiui, asmuo yra savarankiškai dirbantis asmuo, kurio draudžiamosios pajamos (įmokų bazė) nustatomos deklaravus pajamas, gautas praėjusiais kalendoriniais metais; asmuo gauna su darbo santykiais susijusių pajamų ir jam nėra taikomi Lietuvos Respublikos socialinio draudimo teisės aktai), tol, kol draudžiamosios pajamos nebus nustatytos, preziumuojama, kad tokio asmens draudžiamosios pajamos yra MMA dydžio, ir priedas nemokamas. Tokiu atveju gavus oficialius duomenis apie asmens draudžiamąsias pajamas, patvirtinančius, kad asmuo atitinkamą mėnesį neturėjo draudžiamųjų pajamų arba jos buvo mažesnės negu MMA, asmeniui per 30 dienų apskaičiuojama ir išmokama priedo nepriemokos suma.
 
 
 
 
-3. Mirus priedo gavėjui, pirmajam besikreipusiam jį laidojusiam asmeniui išmokamas asmens negautas praėjusio mėnesio priedas, priedas už tą mėnesį, kurį jo gavėjas mirė, ir dar vieno mėnesio priedas. Asmeniui apskaičiuotos kitos priedo sumos, kurios jam priklausė ir kurių jis negavo dėl mirties, išmokamos mirusiojo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio asmens turtas, pateikusiems paveldėjimo teisės liudijimą, arba (ir) mirusįjį pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą. 
+3. Mirus priedo gavėjui, pirmajam besikreipusiam jį laidojusiam asmeniui išmokamas asmens negautas praėjusio mėnesio priedas, priedas už tą mėnesį, kurį jo gavėjas mirė, ir dar 1 bazinės pensijos dydžio priedo suma. Asmeniui apskaičiuotos kitos priedo sumos, kurios jam priklausė ir kurių jis negavo dėl mirties, išmokamos mirusiojo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio asmens turtas, pateikusiems paveldėjimo teisės liudijimą, arba (ir) mirusįjį pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą.
 Straipsnio pakeitimai:
 Nr. XII-996, 2014-07-10, paskelbta TAR 2014-07-15, i. k. 2014-10249 (2014-07-15)
 
 
 Straipsnio pakeitimai:
 Nr. XIII-839, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20327
+Nr. XIII-1727, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20990
  
 
 
@@ -776,7 +790,7 @@ Nr. XII-1864, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10600
 7. Pareigūnams ir kariams, kuriems iki 1995 m. sausio 1 d. buvo paskirta kurios nors rūšies pensija, išskyrus maitintojo netekimo, taikoma tokia paskirtosios pensijos perskaičiavimo tvarka:
 
 
-1) apskaičiuojama valstybinė socialinio draudimo pensija pagal Valstybinių socialinio draudimo pensijų įstatymo nustatytą tvarką naujai skiriamoms pensijoms. Ši pensija apskaičiuojama perskaičiavimo metu arba kai pareigūnui ar kariui atsiranda teisė gauti valstybinę socialinio draudimo pensiją;
+1) apskaičiuojama socialinio draudimo pensija pagal Socialinio draudimo pensijų įstatymo nustatytą tvarką naujai skiriamoms pensijoms. Ši pensija apskaičiuojama perskaičiavimo metu arba kai pareigūnui ar kariui atsiranda teisė gauti socialinio draudimo pensiją;
 
 
 
@@ -786,12 +800,12 @@ Nr. XII-1864, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10600
 
 
 
-3) jei šio straipsnio 7 dalies 1 ir 2 punktuose nurodytų pensijų suma didesnė už pareigūno ar kario valstybinę pensiją, gautą 1994 metų gruodžio mėnesį, arba didesnė kaip 144,81 euro, skiriamos ir toliau mokamos abi apskaičiuotosios pensijos. Priešingu atveju pareigūnui arba kariui mokama 1994 metų gruodžio mėnesio dydžio pensija, bet ne didesnė kaip 144,81 euro, ir ji neindeksuojama bei niekaip kitaip nedidinama. Abi apskaičiuotosios pensijos indeksuojamos įstatymų nustatyta tvarka. Kai jų suma ima viršyti pareigūno ar kario valstybinę pensiją, gautą 1994 metų gruodžio mėnesį, 144,81 euro, skiriamos ir toliau mokamos abi apskaičiuotosios pensijos ir jų dydis neribojamas. Apskaičiuotoji valstybinė socialinio draudimo pensija mokama iš valstybinio socialinio draudimo fondo biudžeto. 
-Straipsnio punkto pakeitimai:
-Nr. XII-1192, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14281
+3) jeigu šio straipsnio 7 dalies 1 ir 2 punktuose nurodytų pensijų suma didesnė už pareigūno ar kario valstybinę pensiją, gautą 1994 metų gruodžio mėnesį, arba didesnė kaip 144,81 euro, skiriamos ir toliau mokamos abi apskaičiuotosios pensijos. Priešingu atveju pareigūnui arba kariui mokama 1994 metų gruodžio mėnesio dydžio pensija, bet ne didesnė kaip 144,81 euro, ir ji neindeksuojama bei niekaip kitaip nedidinama. Abi apskaičiuotosios pensijos indeksuojamos įstatymų nustatyta tvarka. Kai jų suma ima viršyti pareigūno ar kario valstybinę pensiją, gautą 1994 metų gruodžio mėnesį, 144,81 euro, skiriamos ir toliau mokamos abi apskaičiuotosios pensijos ir jų dydis neribojamas. Apskaičiuotoji socialinio draudimo pensija mokama iš valstybinio socialinio draudimo fondo biudžeto. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1354, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11456
  
-
-
 
 
 
@@ -1164,3 +1178,13 @@ Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1264, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10491
 Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 16 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1354, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11456
+Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 3, 7, 9 ir 16 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1727, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20990
+Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 15 straipsnio pakeitimo įstatymas
