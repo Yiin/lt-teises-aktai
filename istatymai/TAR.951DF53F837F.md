@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.951DF53F837F"
 
 # Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2018-09-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1600; Žin. 1999, Nr.68-0; Žin. 2011, Nr.91-4318, i. k. 0991010ISTAIII-1190
  
@@ -106,9 +106,10 @@ Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
 
 
 
-8. Radioaktyviųjų atliekų atliekyno uždarymas – veiksmai radioaktyviųjų atliekų atliekyne pasibaigus jo eksploatavimui ir baigus į jį dėti radioaktyviąsias atliekas, apimantys inžinerinius ar kitus darbus, kurių reikia atliekyno saugai užtikrinti. 
+8. Radioaktyviųjų atliekų atliekyno uždarymas – veiksmai radioaktyviųjų atliekų atliekyne pasibaigus jo eksploatavimui ir baigus į jį dėti radioaktyviąsias atliekas, apimantys uždaryto atliekyno saugai užtikrinti reikalingus inžinerinius ar kitus darbus. 
 Straipsnio dalies pakeitimai:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
  
@@ -134,7 +135,9 @@ Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
 
 
 
-11. Radioaktyviųjų atliekų pakuočių priėmimo į saugyklą ar atliekyną kriterijai – kriterijai, pagal kuriuos nustatoma, ar radioaktyviųjų atliekų pakuotės tinkamos saugoti ir dėti į atliekyną.
+11. Radioaktyviųjų atliekų priėmimo į saugyklą ar atliekyną kriterijai – kriterijai, pagal kuriuos nustatoma, ar radioaktyviosios atliekos ir jų pakuotės tinkamos saugoti saugykloje ir dėti į atliekyną. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
@@ -234,7 +237,9 @@ Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
 
 
 
-22. Radioaktyviųjų atliekų tvarkytojas – šiame įstatyme nustatyta tvarka paskirtas juridinis asmuo, atsakingas už visų jam perduotų radioaktyviųjų atliekų tvarkymą.
+22. Radioaktyviųjų atliekų tvarkytojas – šio įstatymo 10 straipsnyje nurodytas juridinis asmuo, atsakingas už visų jo veiklos metu susidariusių ir jam perduotų radioaktyviųjų atliekų tvarkymą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
@@ -333,14 +338,18 @@ Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 
 
 
-4) būtų atsižvelgta į radioaktyviųjų atliekų tvarkymo atskirų etapų tarpusavio priklausomybę;
+4) būtų atsižvelgta į visų radioaktyviųjų atliekų tvarkymo etapų tarpusavio priklausomybę; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
+ 
 
 
 
 
-5) radioaktyviųjų atliekų tvarkymo įrenginių sauga būtų garantuojama visą įrenginio veikimo laiką ir po to, naudojant pasyviąsias saugos priemones; 
+5) radioaktyviųjų atliekų ir radioaktyviųjų atliekų tvarkymo įrenginių sauga būtų garantuojama visą radioaktyviųjų atliekų tvarkymo ir įrenginių veikimo laiką ir po to, naudojant pasyviąsias saugos priemones; 
 Straipsnio punkto pakeitimai:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
  
 
 
@@ -354,9 +363,11 @@ Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 
 
 
-7) Lietuvos Respublikoje susidariusios radioaktyviosios atliekos turi būti dedamos į atliekyną Lietuvos Respublikos teritorijoje arba išvežamos į užsienio valstybėje esantį atliekyną, išskyrus šio įstatymo 24 straipsnyje nustatytus atvejus. 
+7) Lietuvos Respublikoje susidariusios radioaktyviosios atliekos turi būti dedamos į atliekyną Lietuvos Respublikos teritorijoje arba išvežamos į užsienio valstybėje esantį atliekyną, išskyrus šio įstatymo 24 ir 25 straipsniuose nustatytus atvejus. 
 Papildyta straipsnio punktu:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Straipsnio punkto pakeitimai:
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
  
 
 
@@ -394,9 +405,10 @@ Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė):
 
 
 
-4) kas septyneri metai tvirtina Radioaktyviųjų atliekų tvarkymo plėtros programą; 
+4) nustato arba įgalioja kitą instituciją nustatyti nacionalinės radioaktyviųjų atliekų tvarkymo sistemos (teisės aktų, reglamentuojančių radioaktyviųjų atliekų tvarkymą, radioaktyviųjų atliekų tvarkymo reglamentavimo ir priežiūros institucijų ir radioaktyviųjų atliekų tvarkymo programos) tarptautinio ekspertinio įvertinimo organizavimo tvarką; 
 Straipsnio punkto pakeitimai:
 Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
  
 
 
@@ -423,55 +435,44 @@ Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 Lietuvos Respublikos energetikos ministerija (toliau – Energetikos ministerija): 
 
 
-1) radioaktyviųjų atliekų tvarkytojo siūlymu, suderinusi su Valstybine atominės energetikos saugos inspekcija ir Lietuvos Respublikos sveikatos apsaugos ministerija, teikia Vyriausybei tvirtinti Radioaktyviųjų atliekų tvarkymo plėtros programą; 
-Straipsnio punkto pakeitimai:
-Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+1) teikia pasiūlymus Vyriausybei dėl radioaktyviųjų atliekų tvarkymo įrenginių statybos arba jų eksploatavimo nutraukimo, radioaktyviųjų atliekų atliekynų uždarymo ir uždarytų atliekynų priežiūros nutraukimo;
+
+
+
+
+2) po to, kai patvirtinamas radioaktyviųjų atliekų tvarkymo įrenginio statybos teritorijos detalusis planas, teisės aktų nustatyta tvarka inicijuoja žemės sklypo radioaktyviųjų atliekų tvarkymo įrenginio statybai paėmimą visuomenės poreikiams;
+
+
+
+
+3) organizuoja dvišalį ir daugiašalį tarptautinį bendradarbiavimą radioaktyviųjų atliekų tvarkymo srityje; 
+
+
+
+
+4) Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka organizuoja nacionalinės radioaktyviųjų atliekų tvarkymo sistemos tarptautinį ekspertinį įvertinimą; 
+
+
+
+
+5) tvirtina radioaktyviųjų atliekų tvarkytojo teikiamų radioaktyviųjų atliekų tvarkymo paslaugų tarifus, pagrįstus teikiamų paslaugų sąnaudomis;
+
+
+
+
+6) organizuoja radioaktyviųjų atliekų tvarkymą reglamentuojančių teisės aktų tobulinimą, siekdama įgyvendinti radioaktyviųjų atliekų tvarkymą reglamentuojančius Europos Sąjungos teisės aktus, tarptautines sutartis, Tarptautinės atominės energijos agentūros rekomendacijas, nacionalinės radioaktyviųjų atliekų tvarkymo sistemos tarptautinio ekspertinio įvertinimo rekomendacijas, ir teisės aktų tobulinimą, atsižvelgdama į technologijų ir mokslo pažangą ir Lietuvos Respublikos teritorijoje esančių radioaktyviųjų atliekų tvarkymo metu sukauptą patirtį; 
+
+
+
+
+7) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
  
-
-
-
-
-2) teikia pasiūlymus Vyriausybei dėl radioaktyviųjų atliekų tvarkymo įrenginių statybos arba jų eksploatavimo nutraukimo, radioaktyviųjų atliekų atliekynų uždarymo ir uždarytų atliekynų priežiūros nutraukimo;
-
-
-
-
-3) po to, kai patvirtinamas radioaktyviųjų atliekų tvarkymo įrenginio statybos teritorijos detalusis planas, teisės aktų nustatyta tvarka inicijuoja žemės sklypo radioaktyviųjų atliekų tvarkymo įrenginio statybai paėmimą visuomenės poreikiams;
-
-
-
-
-4) organizuoja dvišalį ir daugiašalį tarptautinį bendradarbiavimą radioaktyviųjų atliekų tvarkymo srityje; 
-
-
-
-
-5) Vyriausybės nustatyta tvarka ir sąlygomis skiria valstybės įgaliotą radioaktyviųjų atliekų tvarkytoją;
-
-
-
-
-6) radioaktyviųjų atliekų tvarkytojo teikimu tvirtina radioaktyviųjų atliekų tvarkytojo teikiamų paslaugų tarifus, atsižvelgdama į teikiamų paslaugų pobūdį;
-
-
-
-
-7) tvirtina radioaktyviųjų atliekų tvarkytojo, paskirto šio įstatymo 10 straipsnio 1 dalyje nustatyta tvarka, ateinančių metų Radioaktyviųjų atliekų tvarkymo programą ir numatomą lėšų poreikį šiai programai įgyvendinti;
-
-
-
-
-8) tvirtina metinę radioaktyviųjų atliekų tvarkytojo veiklos ataskaitą kartu su galutiniais, audito patvirtintais finansinių ataskaitų rinkiniais;
-
-
-
-
-9) atlieka kitas šio įstatymo, kitų įstatymų ir teisės aktų nustatytas funkcijas.
- 
-
-
-
-
 
 
 
@@ -518,7 +519,10 @@ Lietuvos Respublikos sveikatos apsaugos ministerija (toliau – Sveikatos apsaug
 2. Valstybinė atominės energetikos saugos inspekcija:
 
 
-1) nustato radioaktyviųjų atliekų klasifikavimo ir radioaktyviųjų atliekų pakuočių priėmimo į saugyklą ar atliekyną kriterijus;
+1) nustato branduolinės saugos reikalavimus, reglamentuojančius radioaktyviųjų atliekų klasifikavimą ir radioaktyviųjų atliekų priėmimo į saugyklą ar atliekyną kriterijus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
+ 
 
 
 
@@ -576,74 +580,9 @@ Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
 
 
 
-81 straipsnis. Radioaktyviųjų atliekų tvarkymo plėtros programa
-
-
-1. Radioaktyviųjų atliekų tvarkymo plėtros programoje nurodomi: 
-
-
-1) bendrieji radioaktyviųjų atliekų tvarkymo tikslai; 
-
-
-
-
-2) pagrindiniai bendrųjų radioaktyviųjų atliekų tvarkymo tikslų įgyvendinimo etapai ir aiškūs tų etapų įgyvendinimo laikotarpiai; 
-
-
-
-
-3) visų radioaktyviųjų atliekų aprašas ir būsimo kiekio (įskaitant tą, kuris susidarys branduolinės energetikos objekto eksploatavimo nutraukimo metu) apskaičiavimas, aiškiai nurodant radioaktyviųjų atliekų vietą bei kiekį pagal nustatytą radioaktyviųjų atliekų klasifikavimą;
-
-
-
-
-4) visiems radioaktyviųjų atliekų tvarkymo etapams (pradedant susidarymu ir baigiant dėjimu į atliekynus) skirtos koncepcijos arba planai ir techniniai sprendimai; 
-
-
-
-
-5) po atliekyno uždarymo jo naudojimo laiku, įskaitant laiką, kai vykdoma institucinė priežiūra, taikomos koncepcijos arba planai, įskaitant ilgalaikes priemones, naudotinas informacijai apie įrenginį išsaugoti; 
-
-
-
-
-6) mokslinių tyrimų, plėtros ir demonstracinė veikla, reikalinga, kad būtų įgyvendinti panaudoto branduolinio kuro ir radioaktyviųjų atliekų tvarkymo sprendimai;
-
-
-
-
-7) atsakomybė už šios programos įgyvendinimą ir pagrindiniai veiklos rodikliai, reikalingi programos įgyvendinimo pažangos stebėsenai; 
-
-
-
-
-8) lėšų poreikis šiai programai įgyvendinti, lėšų poreikio vertinimo pagrindas bei prielaidos nurodant, kaip ilgainiui poreikis keičiasi; 
-
-
-
-
-9) šios programos įgyvendinimo finansavimo būdai ir šaltiniai; 
-
-
-
-
-10) visuomenės informavimo būdai ir priemonės; 
-
-
-
-
-11) jeigu yra, su užsienio valstybe ar valstybėmis sudarytas susitarimas ar susitarimai dėl radioaktyviųjų atliekų tvarkymo, įskaitant susitarimus dėl atliekynų. 
-
-
-
-
-
-
-2. Energetikos ministerija praneša Europos Komisijai apie Radioaktyviųjų atliekų tvarkymo plėtros programą ir esminius jos pakeitimus. Europos Komisijai pateikus atsiliepimą, kuriuo prašoma papildomo paaiškinimo apie pateiktą Radioaktyviųjų atliekų tvarkymo plėtros programą ar jos pakeitimus arba pateikiama nuomonė dėl Radioaktyviųjų atliekų tvarkymo plėtros programos atitikties šio įstatymo priedo 2 punkte nurodyto Europos Sąjungos teisės akto nuostatoms, Energetikos ministerija per šešis mėnesius pateikia prašomą paaiškinimą arba informuoja apie reikiamus teisės aktų pakeitimus. 
-
-
-Papildyta straipsniu:
-Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
+81 straipsnis. Neteko galios nuo 2019-01-01
+Straipsnio naikinimas:
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
  
 
 
@@ -652,7 +591,10 @@ Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 9 straipsnis. Radioaktyviųjų atliekų darytojo pareigos ir atsakomybė
 
 
-1. Radioaktyviųjų atliekų darytojo pareiga – laikantis teisės aktų nustatytų reikalavimų, tvarkyti radioaktyviąsias atliekas tol, kol jos neperduotos radioaktyviųjų atliekų tvarkytojui. Radioaktyviųjų atliekų darytojas radioaktyviąsias atliekas tvarko vykdydamas savo ūkinę komercinę veiklą. Radioaktyviųjų atliekų darytojui, vykdančiam licencijuojamą branduolinės energetikos srities veiklą ir veiklą su branduolinėmis ir (ar) branduolinio kuro ciklo medžiagomis, kaip nurodyta šio įstatymo 8 straipsnio 1 dalyje, nereikalaujama gauti atskiros licencijos ar laikinojo leidimo tvarkyti (atlikti pradinį radioaktyviųjų atliekų apdorojimą (rinkti, rūšiuoti, dezaktyvuoti), atlikti pagrindinį radioaktyviųjų atliekų apdorojimą, saugoti) radioaktyviąsias atliekas, išduodamų, kaip nurodyta šio įstatymo 8 straipsnio 2 dalyje.
+1. Radioaktyviųjų atliekų darytojo pareiga – laikantis teisės aktų, reglamentuojančių radioaktyviųjų atliekų tvarkymą, reikalavimų tvarkyti radioaktyviąsias atliekas tol, kol jų neperduos radioaktyviųjų atliekų tvarkytojui. Radioaktyviųjų atliekų darytojas radioaktyviąsias atliekas tvarko vykdydamas savo ūkinę veiklą ir perduoda jas radioaktyviųjų atliekų tvarkytojui, kuris Lietuvos Respublikos energetikos ministro nustatyta tvarka privalo jas priimti. Radioaktyviųjų atliekų darytojui, vykdančiam licencijuojamą branduolinės energetikos srities veiklą ir veiklą su branduolinėmis ir (ar) branduolinio kuro ciklo medžiagomis, kaip nurodyta šio įstatymo 8 straipsnio 1 dalyje, nereikalaujama gauti atskiros licencijos ar laikinojo leidimo tvarkyti (atlikti pradinį radioaktyviųjų atliekų apdorojimą (rinkti, rūšiuoti, dezaktyvuoti), atlikti pagrindinį radioaktyviųjų atliekų apdorojimą, saugoti) radioaktyviąsias atliekas, išduodamų, kaip nurodyta šio įstatymo 8 straipsnio 2 dalyje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
+ 
 
 
 
@@ -702,49 +644,61 @@ RADIOAKTYVIŲJŲ ATLIEKŲ TVARKYTOJAS
  
 
 
-10 straipsnis. Radioaktyviųjų atliekų tvarkytojo paskyrimas, statusas ir veiklos pagrindai
+10 straipsnis. Radioaktyviųjų atliekų tvarkytojas ir jo veiklos pagrindai
 
 
-1. Energetikos ministerija Vyriausybės nustatyta tvarka ir sąlygomis paskiria valstybės įgaliotą radioaktyviųjų atliekų tvarkytoją, atsakingą už visų jam perduotų radioaktyviųjų atliekų tvarkymą.
+1. Valstybės įmonė Ignalinos atominė elektrinė yra radioaktyviųjų atliekų tvarkytoja ir vykdydama Ignalinos atominės elektrinės ir kitų branduolinės energetikos objektų eksploatavimo ir eksploatavimo nutraukimo metu susidariusių radioaktyviųjų atliekų ir kitų radioaktyviųjų atliekų darytojų perduotų radioaktyviųjų atliekų tvarkymą:
 
 
-
-
-2. Radioaktyviųjų atliekų tvarkytoju skiriamas juridinis asmuo, turintis pakankamus technologinius, finansinius ir vadybinius pajėgumus saugiai ir nepertraukiamai vykdyti radioaktyviųjų atliekų tvarkymo veiklą, taip pat užtikrinti kitų teisės aktuose nustatytų įpareigojimų radioaktyviųjų atliekų tvarkytojui tinkamą vykdymą. Reikalavimus radioaktyviųjų atliekų tvarkytojo technologiniams, finansiniams ir vadybiniams pajėgumams ir jų įvertinimo tvarką nustato Vyriausybė.
+1) surenka radioaktyviąsias atliekas ir organizuoja jų vežimą iš kitų radioaktyviųjų atliekų darytojų, atlieka pradinį, pagrindinį ir galutinį radioaktyviųjų atliekų apdorojimą ir jas saugo; 
 
 
 
 
-3. Radioaktyviųjų atliekų tvarkytojas privalo atitikti įstatymų ir kitų teisės aktų nustatytus Lietuvos Respublikos nacionalinio saugumo interesus. Juridinio asmens, ketinančio vykdyti radioaktyviųjų atliekų tvarkytojo veiklą, atitiktis nacionalinio saugumo interesams vertinama Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatyta tvarka ir sąlygomis. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1007, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01020
+2) deda radioaktyviąsias atliekas į atliekyną;
+
+
+
+
+3) uždaro radioaktyviųjų atliekų atliekyną ir prižiūri uždarytą atliekyną;
+
+
+
+
+4) tvarko Vyriausybės nustatyta tvarka paliktuosius radioaktyviuosius šaltinius ir radioaktyviosiomis medžiagomis užterštus objektus;
+
+
+
+
+5) vykdo kitus šiame įstatyme, Branduolinės energijos įstatyme, Branduolinės saugos įstatyme, Radiacinės saugos įstatyme, Lietuvos Respublikos civilinės saugos įstatyme ir šių įstatymų įgyvendinamuosiuose teisės aktuose radioaktyviųjų atliekų tvarkytojui nustatytus įpareigojimus.
+
+
+
+
+
+
+2. Radioaktyviųjų atliekų tvarkytojas, tvarkydamas radioaktyviąsias atliekas, savo veikloje vadovaujasi šiuo įstatymu, Branduolinės energijos įstatymu, Branduolinės saugos įstatymu, Radiacinės saugos įstatymu ir šių įstatymų įgyvendinamaisiais teisės aktais.
+
+
+
+
+3. Radioaktyviųjų atliekų tvarkytojo struktūriniai padaliniai, vykdantys radioaktyviųjų atliekų apdorojimą, vežimą, saugojimą, organizacinėje struktūroje turi būti atskirti nuo radioaktyviųjų atliekų dėjimą į atliekynus, šių atliekų atitikties radioaktyviųjų atliekų priėmimo į saugyklas ir atliekynus kriterijams kontrolę ir kitas atliekynų eksploatavimo, uždarymo ir priežiūros po uždarymo funkcijas vykdančio (vykdančių) struktūrinio (struktūrinių) padalinio (padalinių) (toliau – struktūrinis padalinys, dedantis radioaktyviąsias atliekas į atliekynus).
+
+
+
+
+4. Radioaktyviųjų atliekų tvarkytojas turi sukurti kontrolės mechanizmą, kuris užtikrintų, kad radioaktyviųjų atliekų tvarkytojo apdorotos radioaktyviosios atliekos ir jų pakuotės atitiktų priėmimo į saugyklą ar atliekyną kriterijus ir kuris užtikrintų, kad į saugyklą ar atliekyną būtų dedamos tik priėmimo į saugyklą ar atliekyną kriterijus atitinkančios radioaktyviosios atliekos ir jų pakuotės. Tikrinimą turi atlikti radioaktyviųjų atliekų tvarkytojo struktūrinis padalinys, dedantis radioaktyviąsias atliekas į atliekynus.
+
+
+
+
+5. Reikalavimų, nurodytų šio straipsnio 3 ir 4 dalyse, laikymosi priežiūrą užtikrina Valstybinė atominės energetikos saugos inspekcija paraiškos licencijai eksploatuoti atitinkamą radioaktyviųjų atliekų tvarkymo įrenginį gauti vertinimo metu, o tuo atveju, jeigu licencija jau išduota, vertindama branduolinės energetikos objekto modifikacijos saugą pagrindžiančius dokumentus Branduolinės energijos įstatymo ir Branduolinės saugos įstatymo nustatyta tvarka ir sąlygomis. 
+TAR pastaba. Radioaktyviųjų atliekų tvarkymą vykdysianti valstybės įmonė Ignalinos atominė elektrinė, siekdama užtikrinti atitiktį 10 straipsnio 1 dalyje nurodytiems reikalavimams, iki įstatymo Nr. XIII-1285 įsigaliojimo dienos (2019-01-01) Radiacinės saugos įstatymo nustatyta tvarka parengia dokumentus ir gauna licencijas vykdyti veiklas su jonizuojančiosios spinduliuotės šaltiniais, išskyrus branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, kurias vykdys įsigaliojus šiam įstatymui. Radioaktyviųjų atliekų tvarkymą vykdysianti valstybės įmonė Ignalinos atominė elektrinė, siekdama užtikrinti atitiktį 10 straipsnio 3 ir 4 dalyse nurodytiems reikalavimams, iki šio įstatymo įsigaliojimo dienos pateikia ir suderina branduolinės energetikos objekto modifikacijos saugą pagrindžiančius dokumentus Lietuvos Respublikos branduolinės energijos įstatymo ir Lietuvos Respublikos branduolinės saugos įstatymo nustatyta tvarka su Valstybine atominės energetikos saugos inspekcija.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
  
-
-
-
-
-4. Radioaktyviųjų atliekų tvarkytojas, gavęs Valstybinės atominės energetikos saugos inspekcijos išduodamą licenciją eksploatuoti branduolinės energetikos objektą, Branduolinės saugos įstatymo nustatyta tvarka ir sąlygomis tampa radioaktyviųjų atliekų saugyklą ir (ar) radioaktyviųjų atliekų atliekyną eksploatuojančia organizacija.
-
-
-
-
-5. Radioaktyviųjų atliekų tvarkytojas savo veikloje vadovaujasi šiuo įstatymu, Branduolinės energijos įstatymu, Branduolinės saugos įstatymu, Radiacinės saugos įstatymu ir kitais teisės aktais.
-
-
-
-
-6. Radioaktyviųjų atliekų tvarkytojas veikia pagal Vyriausybės patvirtintą Radioaktyviųjų atliekų tvarkymo plėtros programą ir Energetikos ministerijos patvirtintą ateinančių metų Radioaktyviųjų atliekų tvarkymo programą. 
-Straipsnio dalies pakeitimai:
-Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
- 
-
-
-
-
-7. Radioaktyviųjų atliekų tvarkytojo valdymo teisinius pagrindus, organus ir jų kompetenciją, taip pat kitus veiklos organizavimo pagrindus nustato radioaktyviųjų atliekų tvarkytojo įstatai, vadovaujantis šiame įstatyme ir kituose įstatymuose nustatytais reikalavimais, taikomais radioaktyviųjų atliekų tvarkytojui.
- 
-
-
 
 
 
@@ -757,7 +711,10 @@ Nr. XII-841, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04866
 
 
 
-2. Radioaktyviųjų atliekų tvarkytojas privalo perimti radioaktyviąsias atliekas iš radioaktyviųjų atliekų darytojo, jeigu tos atliekos atitinka radioaktyviųjų atliekų pakuočių priėmimo į saugyklą ar atliekyną kriterijus, kuriuos nustato Valstybinės atominės energetikos saugos inspekcijos viršininkas. Radioaktyviųjų atliekų tvarkytojas privalo radioaktyviųjų atliekų darytojo teritorijoje pasirinktinai tikrinti, ar perduodamos radioaktyviosios atliekos atitinka nustatytus radioaktyviųjų atliekų pakuočių priėmimo į saugyklą ar atliekyną kriterijus.
+2. Neteko galios nuo 2019-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
+ 
 
 
 
@@ -915,7 +872,14 @@ RADIOAKTYVIŲJŲ ATLIEKŲ TVARKYMO ĮRENGINIŲ AIKŠTELIŲ PARINKIMAS, PROJEKTAV
 
 
 
-3. Radioaktyviųjų atliekų tvarkymo įrenginių saugos vertinimą ir poveikio žmonėms ir aplinkai įvertinimą atlieka statytojas (užsakovas) arba eksploatuojanti organizacija įstatymų ir kitų teisės aktų nustatyta tvarka.
+3. Radioaktyviųjų atliekų tvarkymo įrenginių saugos vertinimą ir poveikio žmonėms ir aplinkai įvertinimą atlieka statytojas (užsakovas) arba eksploatuojanti organizacija įstatymų ir kitų teisės aktų nustatyta tvarka. 
+
+
+
+
+4. Statytojas (užsakovas) arba eksploatuojanti organizacija, atlikdama saugyklos ar atliekyno saugos analizę, nustato radioaktyviųjų atliekų priėmimo į saugyklą ar atliekyną kriterijus, kuriuos suderina su Valstybine atominės energetikos saugos inspekcija. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
  
 
 
@@ -1045,10 +1009,21 @@ Radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojanti organizacija atsak
 
 
 
-21 straipsnis. Uždaryto radioaktyviųjų atliekų atliekyno priežiūra
+21 straipsnis. Radioaktyviųjų atliekų atliekyno uždarymas ir uždaryto radioaktyviųjų atliekų atliekyno priežiūra 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
+ 
 
 
 1. Nutarimą dėl radioaktyviųjų atliekų atliekyno uždarymo priima Vyriausybė Energetikos ministerijos teikimu.
+
+
+
+
+11. Radioaktyviųjų atliekų atliekyno uždarymas turi būti vykdomas pagal galutinį atliekyno uždarymo planą, kurį parengia radioaktyviųjų atliekų atliekyną eksploatuojanti organizacija ir suderina su Valstybine atominės energetikos saugos inspekcija. Ne vėliau kaip prieš dvejus metus iki radioaktyviųjų atliekų atliekyno uždarymo privalo būti parengtas ir Valstybinei atominės energetikos saugos inspekcijai pateiktas derinti galutinis radioaktyviųjų atliekų atliekyno uždarymo planas. Valstybinė atominės energetikos saugos inspekcija priima sprendimą dėl galutinio atliekyno uždarymo plano suderinimo Branduolinės saugos įstatymo 34 straipsnyje nurodytais terminais. Valstybinė atominės energetikos saugos inspekcija suderina galutinį atliekyno uždarymo planą, jeigu galutiniame radioaktyviųjų atliekų atliekyno uždarymo plane radioaktyviųjų atliekų atliekyną eksploatuojanti organizacija pagrindžia teigiamas išvadas dėl galimybės saugiai atlikti atliekyno uždarymą ir jeigu šios išvados yra pagrįstos objektyviomis aplinkybėmis ir atitinka radioaktyviųjų atliekų atliekyno saugą reglamentuojančius teisės aktus. Radioaktyviųjų atliekų atliekyną eksploatuojanti organizacija galutinį atliekyno uždarymo planą, suderintą su Valstybine atominės energetikos saugos inspekcija, vadovaudamasi Branduolinės energijos įstatymo 32 straipsnio nuostatomis teikia tvirtinti Energetikos ministerijai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
+ 
 
 
 
@@ -1058,7 +1033,10 @@ Radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojanti organizacija atsak
 
 
 
-3. Atliekyno priežiūrą po uždarymo atlieka radioaktyviųjų atliekų tvarkytojas. Radioaktyviųjų atliekų tvarkytojas parengia ir tvirtina Priežiūros po radioaktyviųjų atliekų atliekyno uždarymo programą, suderinęs ją su Lietuvos Respublikos aplinkos ministerija, Sveikatos apsaugos ministerija ir Valstybine atominės energetikos saugos inspekcija.
+3. Atliekyno priežiūrą po uždarymo atlieka radioaktyviųjų atliekų tvarkytojas. Radioaktyviųjų atliekų tvarkytojas parengia ir tvirtina Priežiūros po radioaktyviųjų atliekų atliekyno uždarymo programą. Priežiūros po radioaktyviųjų atliekų atliekyno uždarymo programa turi būti suderinta su Lietuvos Respublikos aplinkos ministerija, Sveikatos apsaugos ministerija ir Valstybine atominės energetikos saugos inspekcija, kurios šią programą peržiūri, įvertina ir suderina ne vėliau kaip per 3 mėnesius nuo visų reikiamų ir tinkamai įformintų dokumentų ar informacijos, šių institucijų prašomos pateikti ar patikslinti, gavimo ir nurodytų trūkumų pašalinimo dienos. Reikalavimus Priežiūros po radioaktyviųjų atliekų atliekyno uždarymo programai nustato Valstybinė atominės energetikos saugos inspekcija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
+ 
 
 
 
@@ -1296,3 +1274,8 @@ Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1284, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11177
 Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 2, 8, 24, 25 straipsnių, devintojo skirsnio pavadinimo ir priedo pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1285, 2018-06-21, paskelbta TAR 2018-07-03, i. k. 2018-11178
+Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo Nr. VIII-1190 2, 3, 4, 5, 7, 9, 10, 11, 15 ir 21 straipsnių pakeitimo ir 8-1 straipsnio pripažinimo netekusiu galios įstatymas
