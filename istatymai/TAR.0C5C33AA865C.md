@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2018-06-15 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -68,7 +68,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-2. Didmeninis gamtinių dujų vartotojas (toliau – didmeninis vartotojas) – asmuo, išskyrus perdavimo sistemos operatorių ar skirstymo sistemos operatorių, perkantis gamtines dujas perparduoti.
+2. Didmeninis gamtinių dujų vartotojas (toliau – didmeninis vartotojas) – asmuo, išskyrus perdavimo sistemos operatorių, regioninės gamtinių dujų rinkos zonos operatorių ar skirstymo sistemos operatorių, perkantis gamtines dujas perparduoti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -83,12 +86,47 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-5. Gamtinių dujų birža – prekybos gamtinėmis dujomis sistema, organizuojama rinkos operatoriaus ir (arba) energijos išteklių biržos operatoriaus, kaip tai numatyta Lietuvos Respublikos energijos išteklių rinkos įstatyme, Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka ir sąlygomis.
+5. Gamtinių dujų birža – centralizuota prekybos gamtinėmis dujomis sistema. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
+
+
+
+
+51. Gamtinių dujų biržos operatorius (toliau – biržos operatorius) – asmuo, šio įstatymo nustatyta tvarka organizuojantis prekybą gamtinėmis dujomis, administruojantis gamtinių dujų biržą ir turintis gamtinių dujų biržos operatoriaus licenciją. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
 
 6. Gamtinių dujų gavybos tinklas (toliau – gavybos tinklas) – vamzdynas ar vamzdynų tinklas, eksploatuojamas ir (arba) įrengtas kaip naftos ar gamtinių dujų gavybos objekto dalis arba naudojamas gamtinėms dujoms perduoti iš vieno ar kelių tokių objektų į perdirbimo gamyklą, galutinį pakrantės terminalą arba kitą terminalą.
+
+
+
+
+61. Gamtinių dujų išleidimo taškas (toliau – išleidimo taškas) – vieta, kurioje gamtinės dujos išleidžiamos iš perdavimo sistemos į kitą perdavimo sistemą, požeminę gamtinių dujų saugyklą, skirstymo sistemą ar tiesiogiai prie perdavimo sistemos prijungtą gamtinių dujų vartotojo sistemą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
+
+
+
+
+62. Gamtinių dujų įleidimo ir išleidimo taškų sistema (toliau – įleidimo ir išleidimo taškų sistema) – visus gamtinių dujų įleidimo ir išleidimo taškus regioninės gamtinių dujų rinkos zonoje apimanti sistema, suteikianti teisę sistemos naudotojams, turintiems sutartis su gamtinių dujų perdavimo sistemos operatoriumi (operatoriais), laisvai rezervuoti gamtinių dujų įleidimo ir išleidimo pajėgumus kiekvienam įleidimo į sistemą ir išleidimo iš sistemos taškui ir taip užtikrinti gamtinių dujų transportavimą per regioninės gamtinių dujų rinkos zoną. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
+
+
+
+
+63. Gamtinių dujų įleidimo taškas (toliau – įleidimo taškas) – vieta, kurioje gamtinės dujos įleidžiamos į perdavimo sistemą iš gretimos perdavimo sistemos, SGD terminalo ar požeminės gamtinių dujų saugyklos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -103,7 +141,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-9. Gamtinių dujų kainų reguliavimo periodas – penkerių metų laikotarpis, kuriam yra nustatoma reguliuojamos gamtinių dujų kainos viršutinė riba ir principai, kuriais remiantis šios kainos viršutinė riba gali būti koreguojama iki reguliavimo periodo pabaigos.
+9. Gamtinių dujų kainų reguliavimo periodas – penkerių metų laikotarpis, kuriam yra nustatoma reguliuojamos gamtinių dujų kainos ir (ar) reguliuojamų gamtinių dujų paslaugų pajamų viršutinė riba ir principai, kuriais remiantis šios kainos ir (ar) šių paslaugų pajamų viršutinė riba gali būti koreguojama iki reguliavimo periodo pabaigos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -166,7 +207,10 @@ Nr. XIII-1256, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09924
 
 
 
-21. Gamtinių dujų rinkos operatorius (toliau – rinkos operatorius) – asmuo, organizuojantis prekybą gamtinėmis dujomis gamtinių dujų biržoje ir turintis šios veiklos licenciją.
+21. Neteko galios nuo 2019-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -186,7 +230,10 @@ Nr. XIII-1256, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09924
 
 
 
-25. Gamtinių dujų sistemos balansavimas (toliau – sistemos balansavimas) – pristatomo ir paimamo gamtinių dujų kiekio perdavimo ir (ar) skirstymo sistemose išlyginimas.
+25. Gamtinių dujų sistemos balansavimas (toliau – sistemos balansavimas) – įleidžiamo ir išleidžiamo gamtinių dujų kiekio perdavimo ir (ar) skirstymo sistemose išlyginimas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -356,7 +403,26 @@ Nr. XIII-1256, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09924
 
 
 
-57. Prekyba gamtinėmis dujomis gamtinių dujų biržoje (toliau – prekyba gamtinių dujų biržoje) – gamtinių dujų įsigijimas ir (arba) pardavimas gamtinių dujų biržoje. 
+57. Prekyba gamtinėmis dujomis gamtinių dujų biržoje (toliau – prekyba gamtinių dujų biržoje) – gamtinių dujų įsigijimas ir (ar) pardavimas gamtinių dujų biržoje pagal biržos operatoriaus prekybos gamtinių dujų biržoje reglamento nustatytas taisykles ir sąlygas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
+
+
+
+
+571. Regioninės gamtinių dujų rinkos zona (toliau – regioninės rinkos zona) –prekybos gamtinėmis dujomis zona, apimanti kelių valstybių narių perdavimo sistemų operatorių veiklos teritorijas ir turinti bendrą gamtinių dujų perdavimo sistemų balansavimo zoną, biržos operatorių, bendrus kainodaros elementus ir priežiūros sistemą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
+
+
+
+
+572. Regioninės gamtinių dujų rinkos zonos operatorius (toliau – regioninės rinkos zonos operatorius) – šiame įstatyme nustatytus reikalavimus atitinkantis juridinis asmuo, įsteigtas regioninės rinkos zonos perdavimo sistemų balansavimo funkcijoms atlikti ir valdomas regioninės rinkos zonoje veikiančių perdavimo sistemos operatorių. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -416,11 +482,14 @@ Nr. XIII-1256, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09924
 
 
 
-69. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas) ir kituose teisės aktuose. 
+69. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas), Lietuvos Respublikos statybos įstatyme ir kituose teisės aktuose.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1457, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11770
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
-
-
 Straipsnio pakeitimai:
 Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
  
@@ -724,9 +793,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 2. Komisija, įgyvendindama jai pavestas funkcijas, turi pareigą:
 
 
-1) vadovaudamasi skaidrumo kriterijais, poreikiu didinti energijos vartojimo efektyvumą, tiekimo saugumą, integruoti rinką, nustatyti ar patvirtinti perdavimo, skirstymo, laikymo ir SGD pakartotinio dujinimo paslaugų kainų viršutines ribas, jų skaičiavimo metodikas ir nustatyti ar patvirtinti konkrečias sistemos balansavimo, buitinių vartotojų prijungimo prie tinklo ir SGD perkrovos paslaugų kainas; 
+1) vadovaudamasi skaidrumo kriterijais, poreikiu didinti energijos vartojimo efektyvumą, tiekimo saugumą, integruoti rinką, nustatyti ar patvirtinti perdavimo, skirstymo, laikymo ir SGD pakartotinio dujinimo paslaugų kainų ir (ar) pajamų viršutines ribas, jų skaičiavimo metodikas ir nustatyti ar patvirtinti konkrečias sistemos balansavimo, buitinių vartotojų prijungimo prie tinklo ir SGD perkrovos paslaugų kainas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
  
 
 
@@ -884,17 +954,19 @@ GAMTINIŲ DUJŲ SEKTORIAUS TAISYKLĖS
 9 straipsnis. Kainų reguliavimas
 
 
-1. Gamtinių dujų sektoriuje nustatydama viršutines paslaugų kainų ribas, Komisija reguliuoja perdavimo, skirstymo, laikymo ir SGD pakartotinio dujinimo paslaugų kainas. 
+1. Gamtinių dujų sektoriuje nustatydama viršutines paslaugų kainų ir (ar) pajamų ribas, Komisija reguliuoja perdavimo, skirstymo, laikymo ir SGD pakartotinio dujinimo paslaugų kainas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
  
 
 
 
 
-2. Gamtinių dujų sektoriuje nustatydama konkrečias paslaugų kainas, Komisija reguliuoja tikslines gamtinių dujų kainas, gamtinių dujų sistemos balansavimo, buitinių vartotojų prijungimo prie gamtinių dujų sistemos, SGD perkrovos paslaugų kainas ir tiekimo saugumo papildomos dedamosios prie gamtinių dujų perdavimo kainos dydį (toliau – papildoma dedamoji). 
+2. Gamtinių dujų sektoriuje nustatydama konkrečias paslaugų kainas, Komisija reguliuoja gamtinių dujų sistemos balansavimo, buitinių vartotojų prijungimo prie gamtinių dujų sistemos, SGD perkrovos paslaugų kainas ir tiekimo saugumo papildomos dedamosios prie gamtinių dujų perdavimo kainos dydį (toliau – papildoma dedamoji). 
 Straipsnio dalies pakeitimai:
 Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
  
 
 
@@ -925,7 +997,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-5. Nustatant šio straipsnio 1 ir 2 dalyse nurodytas reguliuojamas viršutines paslaugų kainų ribas ar konkrečias paslaugų kainas, turi būti numatytos būtinos investicijos, užtikrinančios efektyvią gamtinių dujų įmonės veiklą.
+5. Nustatant šio straipsnio 1 ir 2 dalyse nurodytas reguliuojamas viršutines paslaugų kainų ir (ar) pajamų ribas ar konkrečias paslaugų kainas, turi būti numatytos būtinos investicijos, užtikrinančios efektyvią gamtinių dujų įmonės veiklą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -940,7 +1015,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-8. Kol asmuo per Komisijos nurodytą protingą terminą įgyvendina šio straipsnio 4 dalyje nustatytus reikalavimus, Komisija turi teisę nustatyti laikiną tiekimo kainos viršutinę ribą, atsižvelgdama į tiesioginiais ir netiesioginiais sąnaudų vertinimo metodais gautus duomenis apie atitinkamas sąnaudas. Nustatydama laikiną tiekimo kainos viršutinę ribą, Komisija lygina atitinkamų paslaugų kainų rodiklius, atsižvelgdama į kitų valstybių narių, panašaus išsivystymo užsienio valstybių ir Lietuvos Respublikos praktiką. Komisija, nustatydama tiekimo kainos viršutinę ribą, be šioje dalyje išvardytų kriterijų, vertina atitinkamų didmeninių ir mažmeninių kainų santykį. 
+8. Kol asmuo per Komisijos nurodytą terminą įgyvendina šio straipsnio 4 dalyje nustatytus reikalavimus, Komisija turi teisę nustatyti laikiną tiekimo kainą, atsižvelgdama į tiesioginiais ir netiesioginiais sąnaudų vertinimo metodais gautus duomenis apie atitinkamas sąnaudas. Nustatydama laikiną tiekimo kainą, Komisija lygina atitinkamų paslaugų kainų rodiklius, atsižvelgdama į kitų valstybių narių, panašaus išsivystymo užsienio valstybių ir Lietuvos Respublikos praktiką. Komisija, nustatydama tiekimo kainą, be šioje dalyje išvardytų kriterijų, vertina atitinkamų didmeninių ir mažmeninių kainų santykį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -975,17 +1053,19 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-15. Reguliuojamų kainų viršutinės ribos nustatomos penkerių metų gamtinių dujų kainų reguliavimo periodui. Reguliuojamų kainų viršutinės ribos Komisijos sprendimu kartą per metus gali būti koreguojamos pasikeitus infliacijos lygiui, importuojamų (atgabenamų) gamtinių dujų kainoms, mokesčiams, gamtinių dujų kiekiui, gamtinių dujų įmonių veiklą reglamentuojančių teisės aktų reikalavimams, gamtinių dujų įmonėms atlikus su Komisija suderintas investicijas, gamtinių dujų įmonėms nukrypus nuo Komisijos patvirtintose kainų viršutinių ribų skaičiavimo metodikose nustatytų rodiklių. Gamtinių dujų kainų reguliavimo periodas gali būti keičiamas motyvuotu Komisijos sprendimu. Apie sprendimą dėl gamtinių dujų kainų reguliavimo periodo pakeitimo Komisija privalo informuoti Vyriausybę ar jos įgaliotą instituciją. Komisijos sprendimas dėl gamtinių dujų kainų reguliavimo periodo pakeitimo pradedamas taikyti ne anksčiau kaip pasibaigus ankstesniajam gamtinių dujų kainų reguliavimo periodui. 
+15. Reguliuojamų kainų ir (ar) pajamų viršutinės ribos nustatomos penkerių metų reguliavimo periodui. Reguliuojamų kainų ir (ar) pajamų viršutinės ribos Komisijos sprendimu kartą per metus gali būti koreguojamos pasikeitus infliacijos lygiui, importuojamų (atgabenamų) gamtinių dujų kainoms, mokesčiams, gamtinių dujų kiekiui (išskyrus atvejus, kai nustatoma pajamų viršutinė riba), gamtinių dujų įmonių veiklą reglamentuojančių teisės aktų reikalavimams, gamtinių dujų įmonėms atlikus su Komisija suderintas investicijas, nepasiekus nustatytos pajamų viršutinės ribos arba ją viršijus, gamtinių dujų įmonėms nukrypus nuo Komisijos patvirtintose kainų ir (ar) pajamų viršutinių ribų skaičiavimo metodikose nustatytų rodiklių. Gamtinių dujų perdavimo pajamų viršutinės ribos nustatomos įvertinus gamtinių dujų perdavimo veiklos pajamų paskirstymą, atliktą pagal perdavimo sistemų operatorių intersisteminio kompensavimo tvarką. Gamtinių dujų kainų reguliavimo periodas gali būti keičiamas motyvuotu Komisijos sprendimu. Apie sprendimą dėl gamtinių dujų kainų reguliavimo periodo pakeitimo Komisija privalo informuoti Vyriausybę ar jos įgaliotą instituciją. Komisijos sprendimas dėl gamtinių dujų kainų reguliavimo periodo pakeitimo pradedamas taikyti ne anksčiau kaip pasibaigus ankstesniajam gamtinių dujų kainų reguliavimo periodui. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
  
 
 
 
 
-16. Konkrečias perdavimo, laikymo, skirstymo, SGD pakartotinio dujinimo kainas, neviršijančias nustatytų kainų viršutinių ribų, kiekvienais metais nustato gamtinių dujų įmonės. Komisija, patikrinusi ir nustačiusi, kad kainos ir (ar) buitiniams vartotojams nustatyti tarifai apskaičiuoti nesilaikant kainų ir (ar) tarifų nustatymo reikalavimų, nustatytų kainų viršutinių ribų skaičiavimo metodikose, kad jos diskriminuoja vartotojus ir (ar) yra klaidingos, gamtinių dujų įmonėms pateikia nurodymus dėl konkrečių kainų ir tarifų skaičiavimo. Gamtinių dujų įmonės kainas ir (ar) tarifus privalo pakoreguoti per 15 dienų nuo Komisijos nurodymų gavimo. Jeigu gamtinių dujų įmonės nevykdo Komisijos reikalavimo, Komisija vienašališkai nustato konkrečias kainas ir (ar) tarifus. 
+16. Konkrečias perdavimo, laikymo, skirstymo, SGD pakartotinio dujinimo kainas, neviršijančias nustatytų kainų ir (ar) pajamų viršutinių ribų, kiekvienais metais nustato gamtinių dujų įmonės. Konkrečios perdavimo, SGD pakartotinio dujinimo, laikymo, skirstymo kainos gali būti nustatomos du kartus per metus. Komisija, patikrinusi ir nustačiusi, kad kainos ir (ar) buitiniams vartotojams nustatyti tarifai apskaičiuoti nesilaikant kainų ir (ar) tarifų nustatymo reikalavimų, nustatytų kainų viršutinių ribų skaičiavimo metodikose, kad jos diskriminuoja vartotojus ir (ar) yra klaidingos, gamtinių dujų įmonėms pateikia nurodymus dėl konkrečių kainų ir tarifų skaičiavimo. Gamtinių dujų įmonės kainas ir (ar) tarifus privalo pakoreguoti per 15 dienų nuo Komisijos nurodymų gavimo. Jeigu gamtinių dujų įmonės nevykdo Komisijos reikalavimo, Komisija vienašališkai nustato konkrečias kainas ir (ar) tarifus. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
  
 
 
@@ -994,6 +1074,14 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 17. Gamtinių dujų įmonės buitiniams vartotojams tarifus nustato kas pusę metų. Buitiniams vartotojams nustatytą tarifą sudaro prognozuojamų gamtinių dujų (produkto), įskaitant SGD pakartotinį dujinimą, SGD perkrovą ir gamtinių dujų pristatymą iki mažos apimties SGD pakartotinio dujinimo įrenginio, konkrečių perdavimo, skirstymo, laikymo, tiekimo, papildomos dedamosios kainų ir skirtumo tarp ankstesnio tarifų galiojimo laikotarpio prognozuotų ir faktinių gamtinių dujų (produkto) kainų suma. Gamtinių dujų įmonės konkrečius tarifus pateikia tvirtinti Komisijai, kuri šiuos tarifus tikrina ir priima sprendimus dėl jų šiame straipsnyje nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
+ 
+
+
+
+
+18. Komisija suderina perdavimo sistemos operatoriaus pateiktą perdavimo sistemų operatorių intersisteminio kompensavimo tvarką, parengtą pagal Reglamento (ES) Nr. 2017/460 10 straipsnyje nurodytas gaires. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
  
 
 
@@ -1267,24 +1355,41 @@ Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
 1. Būti mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovu turi teisę:
 
 
-1) Lietuvos Respublikos juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos inspekcijos prie Energetikos ministerijos Energetikos įstatymo nustatyta tvarka išduotą atestatą eksploatuoti gamtinių dujų įrenginius;
+1) Lietuvos Respublikos juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos inspekcijos prie Energetikos ministerijos Energetikos įstatymo nustatyta tvarka išduotą gamtinių dujų įrenginių įrengimo veiklos atestatą;
 
 
 
 
-2) valstybės narės juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos inspekcijos prie Energetikos ministerijos Energetikos įstatymo nustatyta tvarka išduotą atestatą eksploatuoti gamtinių dujų įrenginius.
+2) valstybės narės juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos inspekcijos prie Energetikos ministerijos Energetikos įstatymo nustatyta tvarka išduotą gamtinių dujų įrenginių įrengimo veiklos atestatą.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1457, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11770
+ 
 
 
 
 
+2. Įrengti mažo ir (ar) vidutinio slėgio kriterijus atitinkančias vartotojo sistemas, išskyrus mažo ir (ar) vidutinio slėgio kriterijus atitinkančias vartotojo sistemas ypatinguosiuose statiniuose, turi teisę šio straipsnio 1 dalies 1 ir 2 punktuose nurodyti asmenys ir Lietuvos Respublikos ar kitos valstybės narės fiziniai asmenys, turintys Valstybinės energetikos inspekcijos prie Energetikos ministerijos Energetikos įstatymo nustatyta tvarka išduotą gamtinių dujų įrenginių įrengimo veiklos atestatą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1457, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11770
+ 
 
 
-2. Įrengti mažo ir (ar) vidutinio slėgio kriterijus atitinkančias dujų sistemas pastatuose turi teisę šio straipsnio 1 dalies 1 ir 2 punktuose nurodyti asmenys ir Lietuvos Respublikos ar kitos valstybės narės fiziniai asmenys, turintys Valstybinės energetikos inspekcijos prie Energetikos ministerijos Energetikos įstatymo nustatyta tvarka išduotą atestatą eksploatuoti gamtinių dujų įrenginius.
+
+
+3. Įrengti mažo ir (ar) vidutinio slėgio kriterijus atitinkančias dujų sistemas statiniuose turi teisę Lietuvos Respublikos statybos įstatyme nurodyti asmenys, kuriems suteikta teisė būti ypatingųjų statinių statybos rangovais ir vykdyti statinio dujų inžinerinių sistemų įrengimo darbus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1457, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11770
+ 
 
 
 
 
-3. Mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovas privalo:
+4. Mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovas privalo:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1457, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11770
+ 
 
 
 1) vykdyti mažo ir (ar) vidutinio slėgio dujotiekių įrengimo darbus pagal mažo ir (ar) vidutinio slėgio dujotiekių įrengimo projektą, šio įstatymo ir kitų teisės aktų nuostatas;
@@ -1319,7 +1424,10 @@ Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
 
 
 
-4. Mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovas turi teisę:
+5. Mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovas turi teisę:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1457, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11770
+ 
 
 
 1) pasitelkti savo prievolėms įvykdyti kitus asmenis (subrangovus), jeigu kiti įstatymai ar rangos sutartis nenustato, kad užduotį privalo įvykdyti pats rangovas;
@@ -1334,7 +1442,10 @@ Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
 
 
 
-5. Mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovas turi ir kitų teisių ir pareigų, numatytų Civiliniame kodekse ir kituose įstatymuose. 
+6. Mažo ir (ar) vidutinio slėgio dujotiekių įrengimo rangovas turi ir kitų teisių ir pareigų, numatytų Civiliniame kodekse ir kituose įstatymuose. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1457, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11770
+ 
 
 
 Papildyta straipsniu:
@@ -1569,7 +1680,10 @@ LICENCIJOS, ATESTATAI IR LEIDIMAI GAMTINIŲ DUJŲ SEKTORIUJE
 
 
 
-5) rinkos operatoriaus.
+5) biržos operatoriaus. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -1586,7 +1700,10 @@ LICENCIJOS, ATESTATAI IR LEIDIMAI GAMTINIŲ DUJŲ SEKTORIUJE
 
 
 
-4. Gamtinių dujų perdavimo, skirstymo, laikymo, tiekimo, SGD pakartotinio dujinimo, rinkos operatoriaus licencijavimo ir tiekimo leidimų išdavimo taisykles (toliau – Licencijavimo taisyklės) tvirtina Vyriausybė arba jos įgaliota institucija. Licencijas išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina jų galiojimą, keičia, tikslina licencijas, prireikus išduoda licencijų dublikatus ir licencijuojamą veiklą kontroliuoja Komisija. 
+4. Gamtinių dujų perdavimo, skirstymo, laikymo, tiekimo, SGD pakartotinio dujinimo, biržos operatoriaus licencijavimo ir tiekimo leidimų išdavimo taisykles (toliau – Licencijavimo taisyklės) tvirtina Vyriausybė arba jos įgaliota institucija. Licencijas išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina jų galiojimą, keičia, tikslina licencijas, prireikus išduoda licencijų dublikatus ir licencijuojamą veiklą kontroliuoja Komisija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -1599,7 +1716,10 @@ LICENCIJOS, ATESTATAI IR LEIDIMAI GAMTINIŲ DUJŲ SEKTORIUJE
 
 
 
-2) asmenys, siekiantys įgyti rinkos operatoriaus licenciją ir vykdantys rinkos operatoriaus veiklą, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti technines priemones, skirtas prisijungti prie perdavimo sistemos operatoriaus informacinio komplekso, ryšio priemones, reikalingas pranešimams iš rinkos dalyvių gauti ir jiems siųsti, ir programinę įrangą, kurios reikia licencijuojamai veiklai vykdyti;
+2) asmenys, siekiantys įgyti biržos operatoriaus licenciją ir vykdantys biržos operatoriaus veiklą, privalo nuosavybės teise ar kitais teisėtais pagrindais valdyti technines priemones, skirtas prisijungti prie perdavimo sistemos operatoriaus informacinio komplekso, ryšio priemones, reikalingas pranešimams iš rinkos dalyvių gauti ir jiems siųsti, ir programinę įrangą, kurios reikia licencijuojamai veiklai vykdyti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -1641,7 +1761,10 @@ LICENCIJOS, ATESTATAI IR LEIDIMAI GAMTINIŲ DUJŲ SEKTORIUJE
 
 
 
-8. Komisija teikia informaciją Europos Komisijai apie atsisakymo išduoti licencijas priežastis.
+8. Komisija teikia informaciją Europos Komisijai apie atsisakymo išduoti perdavimo licencijas priežastis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -1651,7 +1774,7 @@ LICENCIJOS, ATESTATAI IR LEIDIMAI GAMTINIŲ DUJŲ SEKTORIUJE
 
 
 
-10. Asmenys, kurie vykdo šio straipsnio 1 ir 2 dalyse nurodytą veiklą, neturi teisės įgalioti kitų asmenų vykdyti licencijoje ar leidime nurodytą veiklą ir privalo laikytis šių bendrųjų veiklos sąlygų:
+10. Asmenys, kurie vykdo šio straipsnio 1 ir 2 dalyse nurodytą veiklą, išskyrus šio įstatymo 391 straipsnio 3 dalyje nurodytus atvejus, neturi teisės įgalioti kitų asmenų vykdyti licencijoje ar leidime nurodytą veiklą ir privalo laikytis šių bendrųjų veiklos sąlygų:
 
 
 1) efektyviai ir ekonomiškai vykdyti licencijuojamą ir leidimais reguliuojamą veiklą, užtikrinti tiekimo patikimumą, reguliarumą, kokybę, vartotojų apsaugą ir aplinkosaugos reikalavimus, nediskriminuoti vartotojų, kitų gamtinių dujų įmonių ir sistemų naudotojų, laikytis sąžiningos konkurencijos, veiklos viešumo ir informavimo principų;
@@ -1679,9 +1802,12 @@ LICENCIJOS, ATESTATAI IR LEIDIMAI GAMTINIŲ DUJŲ SEKTORIUJE
 
 
 
-6) užtikrinti, kad būtų laikomasi kitų šiame ir kituose įstatymuose nustatytų pareigų, licencijuojamos ir leidimais reguliuojamos veiklos sąlygų ir reikalavimų.
+6) užtikrinti, kad būtų laikomasi kitų šiame ir kituose įstatymuose nustatytų pareigų, licencijuojamos ir leidimais reguliuojamos veiklos sąlygų ir reikalavimų. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -1726,7 +1852,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-5. Gamtinių dujų įmonė, numatanti nutraukti licencijuojamą veiklą ir (ar) leidimais reguliuojamą veiklą, privalo ne vėliau kaip prieš 6 mėnesius iki numatomo veiklos nutraukimo apie tai informuoti Komisiją. Tuo atveju, kai pranešime nurodomas asmuo, kuris ketina pasibaigus pranešime nurodytam terminui vykdyti licencijuojamą rinkos operatoriaus, perdavimo, skirstymo veiklą ir atitinka šiai veiklai keliamus reikalavimus, nustatytus šiame įstatyme ir kituose teisės aktuose, ir pranešime nurodomas asmuo Komisijai pateikia įvertinti tokią atitiktį pagrindžiančius dokumentus, pranešimo apie veiklos nutraukimą terminas derinamas Komisijos, pranešimą teikiančio asmens ir licencijuojamą veiklą ketinančio vykdyti asmens sutarimu.
+5. Gamtinių dujų įmonė, numatanti nutraukti licencijuojamą veiklą ir (ar) leidimais reguliuojamą veiklą, privalo ne vėliau kaip prieš 6 mėnesius iki numatomo veiklos nutraukimo apie tai informuoti Komisiją. Tuo atveju, kai pranešime nurodomas asmuo, kuris ketina pasibaigus pranešime nurodytam terminui vykdyti licencijuojamą biržos operatoriaus, perdavimo, skirstymo veiklą ir atitinka šiai veiklai keliamus reikalavimus, nustatytus šiame įstatyme ir kituose teisės aktuose, ir pranešime nurodomas asmuo Komisijai pateikia įvertinti tokią atitiktį pagrindžiančius dokumentus, pranešimo apie veiklos nutraukimą terminas derinamas Komisijos, pranešimą teikiančio asmens ir licencijuojamą veiklą ketinančio vykdyti asmens sutarimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -1849,7 +1978,10 @@ SISTEMŲ OPERATORIAI
 25 straipsnis. Sistemų operatoriai
 
 
-1. Lietuvos Respublikoje yra paskiriami perdavimo, skirstymo, laikymo, SGD sistemų ir rinkos operatoriai. Šiuos operatorius šio įstatymo nustatyta tvarka paskiria ir vėliau kontroliuoja, ir prižiūri Komisija. 
+1. Lietuvos Respublikoje yra paskiriami perdavimo, skirstymo, laikymo, SGD sistemų ir biržos operatoriai. Šiuos operatorius šio įstatymo nustatyta tvarka paskiria ir vėliau kontroliuoja, ir prižiūri Komisija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -2140,7 +2272,10 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 31 straipsnis. Perdavimo sistemos operatoriaus vykdoma tinklo plėtra ir įgaliojimai priimti sprendimus dėl investavimo
 
 
-1. Kiekvienais metais perdavimo sistemos operatorius, pasikonsultavęs su suinteresuotaisiais subjektais, Komisijai pateikia dešimties metų tinklo plėtros planą, kuris yra grindžiamas esama ir numatoma pasiūla bei paklausa. Tinklo plėtros plane nurodomos veiksmingos priemonės, skirtos sistemos pajėgumų pakankamumui ir tiekimo saugumui užtikrinti.
+1. Perdavimo sistemos operatorius kas dvejus metus iki einamųjų metų liepos 1 dienos, pasikonsultavęs su suinteresuotaisiais subjektais, Komisijos nustatyta tvarka parengia ir Komisijai pateikia dešimties metų tinklo plėtros planą, kuris yra grindžiamas esama ir numatoma pasiūla bei paklausa. Tinklo plėtros plane nurodomos veiksmingos priemonės, skirtos sistemos pajėgumų pakankamumui ir tiekimo saugumui užtikrinti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -2402,7 +2537,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-6. Gamtinių dujų įmonė padengia ekonomiškai pagrįstas sistemos plėtros ir prie sistemos prijungiamų asmenų prijungimo išlaidas. Prie sistemos prijungiami asmenys padengia ekonomiškai pagrįstas prijungimo išlaidas viršijančias išlaidas. 
+6. Perdavimo ar skirstymo sistemos operatoriai padengia ekonomiškai pagrįstas sistemos plėtros ir prie perdavimo ar skirstymo sistemos prijungiamų vartotojų prijungimo išlaidas. Prie perdavimo ar skirstymo sistemos prijungiami vartotojai padengia ekonomiškai pagrįstas prijungimo išlaidas viršijančias išlaidas. Prie skirstymo sistemos prijungiamas nebuitinis vartotojas turi teisę, suderinęs su skirstymo sistemos operatoriumi, Energetikos ministerijos nustatyta tvarka savo lėšomis organizuoti skirstymo sistemos įrengimo darbus ir ją įrengti, jeigu įrengiamos skirstymo sistemos pajėgumas yra ne mažesnis kaip 40 MWh/val. Šiuo atveju nebuitinio vartotojo atlikti skirstymo sistemos įrengimo darbai laikomi nebuitinio vartotojo prijungimo prie skirstymo sistemos paslaugos dalimi ir ši nebuitinio vartotojo įrengta skirstymo sistema yra skirstymo sistemos operatoriaus nuosavybė. Prie šios skirstymo sistemos prijungiant kitus vartotojus, už jos įrengimą ir (ar) naudojimą įrengimą atlikusiam nebuitiniam vartotojui neatlyginama.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1457, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11770
+ 
 
 
 
@@ -2420,7 +2558,10 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 371 straipsnis. Skirstymo sistemos operatoriaus vykdoma tinklo plėtra
 
 
-1. Skirstymo sistemos operatorius, aptarnaujantis daugiau negu 100 000 vartotojų, iki kiekvienų metų liepos 1 dienos parengia ir savo interneto svetainėje paskelbia dešimties metų tinklo plėtros, atnaujinimo, modernizavimo ir investicijų planą (toliau – investicijų planas). Prieš investicijų plano paskelbimą skirstymo sistemos operatorius viešai konsultuojasi su kompetentingomis valstybės institucijomis ir kitomis suinteresuotomis šalimis. Investicijų plane, be kita ko, nurodomos veiksmingos priemonės, skirtos tiekimo saugumui, patikimumui ir teikiamų paslaugų kokybei užtikrinti.
+1. Skirstymo sistemos operatorius, aptarnaujantis daugiau negu 100 000 vartotojų, kas dvejus metus iki einamųjų metų liepos 1 dienos Komisijos nustatyta tvarka parengia ir savo interneto svetainėje paskelbia dešimties metų tinklo plėtros, atnaujinimo, modernizavimo ir investicijų planą (toliau – investicijų planas). Prieš investicijų plano paskelbimą skirstymo sistemos operatorius viešai konsultuojasi su kompetentingomis valstybės institucijomis ir kitomis suinteresuotomis šalimis. Investicijų plane, be kita ko, nurodomos veiksmingos priemonės, skirtos tiekimo saugumui, patikimumui ir teikiamų paslaugų kokybei užtikrinti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -2465,40 +2606,31 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-38 straipsnis. Rinkos operatoriaus ir energijos išteklių biržos operatoriaus užduotys ir veikla 
-Pakeistas straipsnio pavadinimas:
-Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
- 
+38 straipsnis. Biržos operatoriaus užduotys ir veikla
 
 
-1. Rinkos operatorius organizuoja prekybą gamtinėmis dujomis pagal Prekybos gamtinėmis dujomis taisykles ir administruoja atsiskaitymus tarp rinkos dalyvių.
+1. Biržos operatorius organizuoja prekybą gamtinėmis dujomis pagal Prekybos gamtinių dujų biržoje reglamentą, suderintą su Komisija ir atitinkantį Prekybos gamtinėmis dujomis taisyklių reikalavimus.
 
 
 
 
-2. Rinkos operatoriaus veikloje patiriamoms gamtinių dujų rinkos administravimo ir susijusioms sąnaudoms padengti rinkos operatorius, suderinęs su Komisija, nustato prekybos gamtinių dujų biržoje įmokas.
+2. Biržos operatoriaus veikloje patiriamoms gamtinių dujų biržos administravimo ir susijusioms sąnaudoms padengti biržos operatorius, suderinęs su Komisija, nustato prekybos gamtinių dujų biržoje įmokas.
 
 
 
 
-3. Rinkos operatorius pagal šio įstatymo 7 straipsnio 2 dalies 2 punkte nurodytose taisyklėse nustatytą tvarką bendradarbiauja su Komisija ir nedelsdamas Komisijai pateikia su įtartinais prekybos gamtinėmis dujomis sandoriais susijusią informaciją ir bet kurią kitą aktualią informaciją, kuri būtų reikalinga gamtinių dujų biržos priežiūrai vykdyti, ypač apie licencijų ir (ar) leidimų turėtojams nustatytų veiklos sąlygų galimus pažeidimus.
+3. Biržos operatorius pagal šio įstatymo 7 straipsnio 2 dalies 2 punkte nurodytose taisyklėse nustatytą tvarką bendradarbiauja su Komisija ir nedelsdamas Komisijai pateikia su įtartinais prekybos gamtinėmis dujomis sandoriais susijusią informaciją ir bet kurią kitą aktualią informaciją, kuri būtų reikalinga gamtinių dujų biržos priežiūrai vykdyti, ypač apie licencijų ir (ar) leidimų turėtojams nustatytų veiklos sąlygų galimus pažeidimus.
 
 
 
 
-4. Neteko galios nuo 2012-06-19.
-
-
-
-
-5. Rinkos operatorius ir energijos išteklių biržos operatorius yra atsakingi, kad gamtinių dujų biržoje sudarytų sandorių pagrindu parduotas ir įsigytas gamtinių dujų kiekis sutaptų, o už gamtinių dujų biržoje parduotų gamtinių dujų kiekių patiekimą į perdavimo sistemą ir nupirktų gamtinių dujų kiekių paėmimą iš perdavimo sistemos yra atsakingi gamtinių dujų rinkos dalyvis ir energijos išteklių biržos dalyvis.
-Papildyta straipsnio dalimi:
-Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
- 
+4. Biržos operatorius yra atsakingas, kad gamtinių dujų biržoje sudarytų sandorių pagrindu parduotas ir įsigytas gamtinių dujų kiekis sutaptų, o už gamtinių dujų biržoje parduotų gamtinių dujų kiekių patiekimą į perdavimo sistemą ir nupirktų gamtinių dujų kiekių paėmimą iš perdavimo sistemos yra atsakingas gamtinių dujų biržos dalyvis. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
+Straipsnio pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
  
 
 
@@ -2524,7 +2656,10 @@ GARANTINIS TIEKIMAS
 
 
 
-3. Vartotojams taikomą garantinio tiekimo kainą sudaro Komisijos patvirtintos tikslinės ateinančių metų gamtinių dujų kainos, padaugintos iš koeficiento 1,25, ir kitų valstybės reguliuojamų kainų (jei tokios taikomos) suma. Tikslinė ateinančių metų gamtinių dujų kaina, vadovaujantis objektyvumo ir skaidrumo principais, apskaičiuojama Komisijos nustatyta tvarka ir paskelbiama ne vėliau kaip prieš vieną mėnesį iki šios kainos taikymo laikotarpio pradžios. Komisijai paskelbus skirtingas tikslines gamtinių dujų kainas atskirose teritorijose, apibrėžtose Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme, esančioms gamtinių dujų sistemoms, nesujungtoms su perdavimo sistema, vartotojams taikomą garantinio tiekimo kainą sudaro tikslinės gamtinių dujų kainos, padaugintos iš koeficiento 0,25, tikslinės gamtinių dujų kainos toje teritorijoje ir kitų valstybės reguliuojamų kainų (jei tokios taikomos) suma. Faktinių ataskaitinio laikotarpio pajamų ir skirstymo sistemos operatoriaus patirtų garantinio tiekimo veiklos sąnaudų, įskaitant gamtinių dujų įsigijimo sąnaudas, skirtumas priskiriamas skirstymo sistemos operatoriaus sąnaudoms ar pajamoms pagal šio įstatymo 9 straipsnio 3 dalyje nurodytą skaičiavimo metodiką.
+3. Vartotojams, kuriems užtikrinamas garantinis tiekimas, taikoma garantinio tiekimo kaina, kuri apskaičiuojama kaip vidutinės praėjusio ataskaitinio mėnesio gamtinių dujų biržos kainos, susiformavusios Lietuvos gamtinių dujų biržoje, pritaikius koeficientą 1,25, ir kitų valstybės reguliuojamų kainų (jeigu tokios taikomos) suma. Vartotojams, kuriems užtikrinamas garantinis tiekimas teritorijoje, kuri nėra sujungta su gamtinių dujų perdavimo sistema, taikoma faktinės, ekonomiškai pagrįstos gamtinių dujų įsigijimo kainos, vidutinės praėjusio ataskaitinio mėnesio gamtinių dujų biržos kainos, susiformavusios Lietuvos gamtinių dujų biržoje, pritaikius koeficientą 0,25, ir kitų valstybės reguliuojamų kainų (jeigu tokios taikomos) suma. Faktinių ataskaitinio laikotarpio pajamų ir skirstymo sistemos operatoriaus patirtų garantinio tiekimo veiklos sąnaudų, įskaitant gamtinių dujų įsigijimo sąnaudas, skirtumas priskiriamas skirstymo sistemos operatoriaus sąnaudoms ar pajamoms pagal šio įstatymo 9 straipsnio 3 dalyje nurodytą skaičiavimo metodiką. Garantinio tiekimo kainą apskaičiuoja ir nustato garantinį tiekimą vykdantis skirstymo sistemos operatorius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -2577,6 +2712,113 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
  
 
 
+
+
+
+
+SEPTINTASIS1 SKIRSNIS
+REGIONINĖ GAMTINIŲ DUJŲ RINKA
+ 
+
+
+391 straipsnis. Regioninės rinkos zona
+
+
+1. Sprendimą dėl Lietuvos prisijungimo prie regioninės rinkos zonos priima Vyriausybė, įvertinusi Energetikos ministerijos ir Komisijos pateiktas išvadas dėl tokio sprendimo ekonominės naudos šalies vartotojams. Komisija teikdama išvadą vadovaujasi šio įstatymo 392 straipsnio 1 dalimi.
+
+
+
+
+2. Regioninėje rinkos zonoje taikomas vienodas perdavimo sistemos balansavimo režimas, vadovaujantis regioninės rinkos zonos perdavimo sistemų balansavimo taisyklėmis. Perdavimo sistemos operatorius Komisijos nustatyta tvarka derina su Komisija ir tvirtina regioninės rinkos zonos perdavimo sistemų balansavimo taisykles. 
+
+
+
+
+3. Regioninės rinkos zonoje funkcijos, susijusios su regioninės rinkos zonos perdavimo sistemų balansavimu, vykdomos pagal bendradarbiavimo susitarimus tarp regioninės rinkos zonoje veikiančių perdavimo sistemos operatorių arba šių operatorių sprendimu yra pavestos regioninės rinkos zonos operatoriui. 
+
+
+
+
+4. Regioninės rinkos zonos operatorius privalo atitikti šiuos minimalius reikalavimus:
+
+
+1) turėti susitarimą su perdavimo sistemos operatoriais, nustatantį regioninės rinkos zonos operatoriaus ir perdavimo sistemos operatoriaus tarpusavio santykius ir veiklos vykdymo pradžią;
+
+
+
+
+2) nuosavybės teise ar kitais teisėtais pagrindais valdyti technines priemones, skirtas prisijungti prie perdavimo sistemos operatoriaus ir (ar) kitų regioninės rinkos zonoje veikiančių perdavimo sistemos operatorių informacinio komplekso; 
+
+
+
+
+3) nuosavybės teise ar kitais teisėtais pagrindais valdyti ryšio priemones, reikalingas pranešimams iš rinkos dalyvių gauti ir jiems siųsti, ir programinę įrangą, kurios reikia regioninės rinkos zonos perdavimo sistemų balansavimo veiklai vykdyti;
+
+
+
+
+4) turėti atitinkamos valstybės narės, kurioje yra įsteigtas, nustatyta tvarka išduotą licenciją.
+ 
+
+
+
+
+
+
+
+
+392 straipsnis. Regioninės rinkos zonos kainodara
+
+
+1. Perdavimo paslaugų kainodaros modelis, pagal kurį paskirstomos perdavimo sistemos operatoriaus (operatorių) pajamos įleidimo ir išleidimo taškams, ir perdavimo sistemų operatorių intersisteminio kompensavimo tvarka turi: 
+
+
+1) teikti ekonominę naudą šalies vartotojams skatinant didesnį gamtinių dujų rinkos likvidumą ir konkurencingumą, efektyvesnį gamtinių dujų sistemos panaudojimą, mažinant gamtinių dujų sistemos išlaikymo kaštus šalies gamtinių dujų vartotojams ir (ar) gamtinių dujų sistemos naudotojams;
+
+
+
+
+2) užtikrinti kiekvienam iš perdavimo sistemos operatorių nacionalinių reguliavimo institucijų nustatytas pajamų viršutines ribas;
+
+
+
+
+3) užtikrinti, kad tarp įleidimo ir išleidimo taškų sistemos naudotojų nebūtų diskriminavimo ir kryžminio subsidijavimo, ir atitikti kitus Reglamentu (ES) Nr. 2017/460 nustatytus suderintos gamtinių dujų perdavimo tarifų struktūros tinklo kodekso principus;
+
+
+
+
+4) būti suderinti su Komisija.
+
+
+
+
+
+
+2. Komisija, nustatydama gamtinių dujų perdavimo pajamų viršutines ribas, atsižvelgia į gamtinių dujų perdavimo sistemos įleidimo ir išleidimo taškų sistemoje esančių perdavimo sistemų operatorių reguliuojamos veiklos būtinąsias sąnaudas ir mokamas ar gaunamas sumas pagal perdavimo sistemų operatorių intersisteminio kompensavimo tvarką. 
+ 
+
+
+
+
+
+
+393 straipsnis. Regioninės rinkos zonos priežiūra
+
+
+1. Regioninės rinkos zonos priežiūrą ir stebėseną pagal kompetenciją, bendradarbiaudama su atitinkamų valstybių narių nacionalinėmis reguliavimo institucijomis, vykdo Komisija.
+
+
+
+
+2. Perdavimo sistemos operatorius ir (ar) regioninės rinkos zonos operatorius pagal kompetenciją informuoja Komisiją apie licencijų ir (ar) leidimų turėtojams nustatytų veiklos sąlygų galimus pažeidimus. 
+
+
+
+
+Papildyta skirsniu:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -2918,7 +3160,10 @@ GAMTINIŲ DUJŲ SEKTORIAUS PATIKIMUMAS
 46 straipsnis. Gamtinių dujų tiekimo saugumą užtikrinančios priemonės 
 
 
-1. Gamtinių dujų įmonės privalo būti nuolat pasirengusios veikti galimo dujų tiekimo sutrikimo atveju ir įgyvendinti nacionalinį prevencinį planą gamtinių dujų tiekimo patikimumui ir techninei gamtinių dujų sistemų saugai užtikrinti. Dujų tiekimo sutrikimo atveju ar sumažėjus gamtinių dujų tiekimui, kilus grėsmei sistemų saugumui, įvykus avarijai, iškilus grėsmei žmonių sveikatai ar saugumui, gamtinių dujų įmonės privalo įgyvendinti nacionalinį ekstremaliųjų situacijų valdymo planą ir nedelsdamos imtis visų pagrįstų priemonių gamtinių dujų tiekimo patikimumui ir techninei gamtinių dujų sistemų saugai užtikrinti. Šios priemonės turi būti pagrįstos ir proporcingos. Gamtinių dujų įmonės apie taikomas prevencines ir ekstremaliųjų situacijų valdymo priemones praneša Energetikos ministerijai. Gamtinių dujų tiekimo sutrikimo ar nutraukimo atveju vartotojams gamtinių dujų tiekimą užtikrina tiekimo įmonė, kuri tiekė gamtines dujas prieš gamtinių dujų tiekimo apribojimą ar nutraukimą.
+1. Gamtinių dujų įmonės privalo būti nuolat pasirengusios veikti galimo dujų tiekimo sutrikimo atveju ir įgyvendinti nacionalinį prevencinį planą gamtinių dujų tiekimo patikimumui ir techninei gamtinių dujų sistemų saugai užtikrinti. Dujų tiekimo sutrikimo atveju ar sumažėjus gamtinių dujų tiekimui, kilus grėsmei sistemų saugumui, įvykus avarijai, iškilus grėsmei žmonių sveikatai ar saugumui, gamtinių dujų įmonės privalo įgyvendinti nacionalinį ekstremaliųjų situacijų valdymo planą ir nedelsdamos imtis visų pagrįstų priemonių gamtinių dujų tiekimo patikimumui ir techninei gamtinių dujų sistemų saugai užtikrinti. Šios priemonės turi būti pagrįstos ir proporcingos. Gamtinių dujų įmonės apie taikomas prevencines ir ekstremaliųjų situacijų valdymo priemones praneša Energetikos ministerijai. Gamtinių dujų tiekimo sutrikimo ar nutraukimo atveju vartotojams gamtinių dujų tiekimą užtikrina tiekimo įmonė, kuri tiekė gamtines dujas prieš gamtinių dujų tiekimo apribojimą ar nutraukimą, prioriteto tvarka tiekdama gamtines dujas pažeidžiamiems vartotojams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -3778,22 +4023,27 @@ priedas
  
 
 
-1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB (OL 2009 L 211, p. 94).
+1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB (OL 2009 L 211, p. 94).
 
 
 
 
-2. 2010 m. spalio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 994/2010 dėl dujų tiekimo saugumo užtikrinimo priemonių, kuriuo panaikinama Direktyva 2004/67/EB (OL 2010 L 295, p. 1).
+2. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/94/ES dėl alternatyviųjų degalų infrastruktūros diegimo (OL 2014 L 307, p. 1).
 
 
 
 
-3. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/94/ES dėl alternatyviųjų degalų infrastruktūros diegimo (OL 2014 L 307, p. 1).
-Papildyta punktu:
-Nr. XII-2706, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26488
+3. 2017 m. kovo 16 d. Komisijos reglamentas (ES) 2017/460, kuriuo nustatomas suderintos gamtinių dujų perdavimo tarifų struktūros tinklo kodeksas (OL 2017 L 72, p. 29).
+
+
+
+
+4. 2017 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1938 dėl dujų tiekimo saugumo užtikrinimo priemonių, kuriuo panaikinamas Reglamentas (ES) Nr. 994/2010 (OL 2017 L 280, p. 1). 
+
+
+Priedo pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
  
-
-
 
 
 
@@ -3912,3 +4162,13 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1256, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09924
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1457, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11770
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 13-3 ir 37 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 5, 7, 9, 20, 21, 25, 31, 37-1, 38, 39, 45, 46, 47 straipsnių ir priedo pakeitimo ir Įstatymo papildymo septintuoju-1 skirsniu įstatymas
