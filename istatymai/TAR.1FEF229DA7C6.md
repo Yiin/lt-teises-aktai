@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
  
@@ -425,7 +425,10 @@ Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
 
 
 
-8) Vyriausybės įstatymo nustatyta tvarka skiria ir atleidžia Lietuvos vyriausiąjį archyvarą;
+8) Valstybės tarnybos įstatymo nustatyta tvarka priima į pareigas ir iš pareigų atleidžia Lietuvos vyriausiąjį archyvarą;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1373, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12041
+ 
 
 
 
@@ -641,7 +644,10 @@ Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr.
 
 
 
-2. Lietuvos vyriausiojo archyvaro tarnybai vadovauja Lietuvos vyriausiasis archyvaras. Jį skiria ir atleidžia Vyriausybė įstatymų nustatyta tvarka.
+2. Lietuvos vyriausiojo archyvaro tarnybai vadovauja Lietuvos vyriausiasis archyvaras. Jį Valstybės tarnybos įstatymo nustatyta tvarka priima į pareigas ir iš pareigų atleidžia Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1373, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12041
+ 
 
 
 
@@ -1484,3 +1490,8 @@ Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 2, 5 ir 18 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2241, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00370
 Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 4 ir 16 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1373, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12041
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 5 ir 6 straipsnių pakeitimo įstatymas
