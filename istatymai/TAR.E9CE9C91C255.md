@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2018-06-06 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
  
@@ -1860,7 +1860,11 @@ Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
 
 
 
-2. Įgyvendinant šio straipsnio 1 dalies 1 punkte nurodytą nuostatą, darbdaviams, įdarbinusiems nuolatinę privalomąją pradinę karo tarnybą atlikusius karo prievolininkus, mokama subsidija darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, ir nuo šio darbo užmokesčio apskaičiuotoms draudėjo privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti (toliau – subsidija darbo užmokesčiui). Jeigu įdarbinto asmens darbo sutartis sudaryta ne visam darbo laikui arba jis dirbo ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą ar darbo sutartyje nustatytą dienos (valandinį) atlygį. Subsidijos darbo užmokesčiui dydis, kai įdarbinami asmenys, nurodyti šio straipsnio 1 dalyje, yra iki 100 procentų apskaičiuotų lėšų nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotos draudėjo privalomojo valstybinio socialinio draudimo įmokos suma. Subsidijos darbo užmokesčiui dydį, neviršijant 1,5 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, ir subsidijos darbo užmokesčiui mokėjimo tvarką nustato Vyriausybė. Darbdaviams, įdarbinusiems nuolatinę privalomąją pradinę karo tarnybą atlikusius karo prievolininkus, subsidija darbo užmokesčiui mokama 6 mėnesius. Ši subsidija taikoma, jeigu karo prievolininkas buvo įdarbintas per 3 mėnesius nuo nuolatinės privalomosios pradinės karo tarnybos atlikimo datos.
+2. Įgyvendinant šio straipsnio 1 dalies 1 punkte nurodytą nuostatą, darbdaviams, įdarbinusiems nuolatinę privalomąją pradinę karo tarnybą atlikusius karo prievolininkus, mokama subsidija darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, ir nuo šio darbo užmokesčio apskaičiuotoms draudėjo privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti (toliau – subsidija darbo užmokesčiui). Jeigu įdarbinto asmens darbo sutartis sudaryta ne visam darbo laikui arba jis dirbo ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą ar darbo sutartyje nustatytą dienos (valandinį) atlygį. Subsidijos darbo užmokesčiui dydis, kai įdarbinami asmenys, nurodyti šio straipsnio 1 dalyje, yra iki 100 procentų apskaičiuotų lėšų nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotos draudėjo privalomojo valstybinio socialinio draudimo įmokos suma. Subsidijos darbo užmokesčiui dydį, neviršijant 1,17 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, ir subsidijos darbo užmokesčiui mokėjimo tvarką nustato Vyriausybė. Darbdaviams, įdarbinusiems nuolatinę privalomąją pradinę karo tarnybą atlikusius karo prievolininkus, subsidija darbo užmokesčiui mokama 6 mėnesius. Ši subsidija taikoma, jeigu karo prievolininkas buvo įdarbintas per 3 mėnesius nuo nuolatinės privalomosios pradinės karo tarnybos atlikimo datos. 
+TAR pastaba. 41 straipsnio 2 dalies nuostatos taikomos mokant subsidijas darbo užmokesčiui už laikotarpius po įstatymo Nr. XIII-1807 įsigaliojimo (2019-01-01). Mokant subsidijas darbo užmokesčiui už laikotarpius iki šio įstatymo įsigaliojimo, taikomi teisės į subsidiją atsiradimo momentu Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio 2 dalyje nustatyti dydžiai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1807, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21820
+ 
 
 
 
@@ -2106,3 +2110,8 @@ Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 3, 15 ir 26 straipsni�
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
 Dėl Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio 1 dalies 3 punkto, Lietuvos Respublikos valstybės tarnybos įstatymo 11 straipsnio 2 dalies ir 13 straipsnio 2 dalies nuostatų atitikties Lietuvos Respublikos Konstitucijai
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1807, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21820
+Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 41 straipsnio pakeitimo įstatymas
