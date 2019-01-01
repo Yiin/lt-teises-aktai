@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.74602705CADB"
 
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas
 
-Suvestinė redakcija nuo 2017-11-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-07-24
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3008, i. k. 1021010ISTA00IX-986
  
@@ -34,7 +34,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo tikslas ir paskirtis
 
 
-1.  Šio įstatymo tikslas – užtikrinti naftos produktų ir naftos valstybės atsargų kaupimą, tvarkymą, naudojimą, priežiūrą ir sudarymo reglamentavimą.
+1. Šio įstatymo tikslas – užtikrinti naftos produktų ir naftos valstybės atsargų kaupimą, tvarkymą, naudojimą, priežiūrą, sudarymo reglamentavimą ir valstybei nuosavybės teise priklausančių naftos produktų ir naftos atsargų valdymo, naudojimo ir disponavimo juo ypatumus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
+ 
 
 
 
@@ -55,10 +58,11 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Įpareigotosios įmonės – naftos perdirbimo įmonės, naftos produktus ir (ar) naftą importuojančios įmonės ir įvežančios įmonės, išskyrus valstybės įmonę Lietuvos naftos produktų agentūrą, kurios pagal šio įstatymo nuostatas kaupia ir tvarko naftos produktų ir naftos atsargas ir kurių perdirbtų ar pagamintų, importuotų ar įvežtų naftos produktų ir naftos kiekis per metus viršija 100 tonų. Nurodytas kiekis skaičiuojamas sumuojant įpareigotųjų įmonių ir su jomis susijusių asmenų, kaip tai yra apibrėžta Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme, įmonių perdirbtų ar pagamintų, importuotų ar įvežtų naftos produktų ir naftos kiekį per metus. 
+2. Įpareigotosios įmonės – naftos perdirbimo įmonės, naftos produktus ir (ar) naftą importuojančios įmonės ir juos įvežančios įmonės, išskyrus viešąją įstaigą Lietuvos energetikos agentūrą (toliau – Agentūra), kurios pagal šio įstatymo nuostatas kaupia ir tvarko naftos produktų ir naftos atsargas ir kurių perdirbtų ar pagamintų, importuotų ar įvežtų naftos produktų ir naftos kiekis per metus viršija 100 tonų. Nurodytas kiekis skaičiuojamas sumuojant įpareigotųjų įmonių ir su jomis susijusių asmenų, kaip tai apibrėžta Lietuvos Respublikos pridėtinės vertės mokesčio įstatyme, įmonių perdirbtų ar pagamintų, importuotų ar įvežtų naftos produktų ir naftos kiekį per metus.
 Straipsnio dalies pakeitimai:
 Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
 Nr. XIII-566, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12065
+Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
  
 
 
@@ -119,7 +123,10 @@ Nr. XIII-566, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12065
 
 
 
-14. Specialiosios naftos produktų atsargos (toliau – specialiosios atsargos) – valstybės lėšomis valstybės įmonės Lietuvos naftos produktų agentūros kaupiamos naftos produktų atsargos.
+14. Specialiosios naftos produktų atsargos (toliau – specialiosios atsargos) – valstybės lėšomis Agentūros kaupiamos naftos produktų atsargos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
+ 
 
 
 
@@ -147,7 +154,10 @@ ATSARGŲ KAUPIMO ĮGYVENDINIMO IR PRIEŽIŪROS SUBJEKTAI
 3   straipsnis. Atsargų kaupimo įgyvendinimo subjektai
 
 
-1. Atsargų kaupimo įgyvendinimą ir priežiūrą užtikrina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) ir Lietuvos Respublikos energetikos ministerija (toliau – Energetikos ministerija). Atsargas šio įstatymo nustatyta tvarka kaupia valstybės įmonė Lietuvos naftos produktų agentūra (toliau – Agentūra) ir įpareigotosios įmonės.
+1. Atsargų kaupimo įgyvendinimą ir priežiūrą užtikrina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) ir Lietuvos Respublikos energetikos ministerija (toliau – Energetikos ministerija). Atsargas šio įstatymo nustatyta tvarka kaupia Agentūra ir įpareigotosios įmonės.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
+ 
 
 
 
@@ -257,9 +267,10 @@ Nr. XII-1890, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11084
 
 
 
-3. Agentūra, vadovaudamasi šio įstatymo nuostatomis, teikia ūkio subjektams paslaugas, susijusias su atsargų kaupimu ir tvarkymu, objektyviomis, skaidriomis ir nediskriminacinėmis sąlygomis. Energetikos ministerija Taisyklėse nustatyta tvarka ir terminais apskaičiuoja ir tvirtina Agentūros taikomą atsargų kaupimo ir tvarkymo paslaugos, kai ji teikiama suteikiant reikalavimo teises į Agentūros kaupiamas ir jos turto patikėjimo teisės pagrindu valdomas atsargas, tarifą ir Agentūros taikomą atsargų kaupimo ir tvarkymo paslaugos, kai ji teikiama Agentūrai įgyjant reikalavimo teises į kitų subjektų turimas atsargas, tarifą. Bet kuriuo atveju ūkio subjektų mokėjimai už Agentūros paslaugas neturi viršyti visų suteiktų paslaugų sąnaudų, ir šių mokėjimų nereikalaujama tol, kol Agentūra nesukaupia pagal susitarimus su atitinkamais ūkio subjektais reikiamo sukaupti atsargų kiekio. Sudarant susitarimus dėl atsargų kaupimo ir tvarkymo, ūkio subjektas Taisyklėse nustatyta tvarka privalo Agentūrai pateikti prievolių įvykdymo užtikrinimą. 
+3. Agentūra, vadovaudamasi šio įstatymo nuostatomis, teikia ūkio subjektams paslaugas, susijusias su atsargų kaupimu ir tvarkymu, objektyviomis, skaidriomis ir nediskriminacinėmis sąlygomis. Energetikos ministerija Taisyklėse nustatyta tvarka ir terminais apskaičiuoja ir tvirtina Agentūros taikomą atsargų kaupimo ir tvarkymo paslaugos, kai ji teikiama suteikiant reikalavimo teises į Agentūros kaupiamas ir jos turto patikėjimo teise pagal patikėjimo sutartį valdomas atsargas, tarifą ir Agentūros taikomą atsargų kaupimo ir tvarkymo paslaugos, kai ji teikiama Agentūrai įgyjant reikalavimo teises į kitų subjektų turimas atsargas, tarifą. Bet kuriuo atveju ūkio subjektų mokėjimai už Agentūros paslaugas neturi viršyti visų suteiktų paslaugų sąnaudų, ir šių mokėjimų nereikalaujama tol, kol Agentūra nesukaupia pagal susitarimus su atitinkamais ūkio subjektais reikiamo sukaupti atsargų kiekio. Sudarant susitarimus dėl atsargų kaupimo ir tvarkymo, ūkio subjektas Taisyklėse nustatyta tvarka privalo Agentūrai pateikti prievolių įvykdymo užtikrinimą.
 Straipsnio dalies pakeitimai:
 Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
+Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
  
 
 
@@ -288,7 +299,9 @@ Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
 
 
 
-6. Agentūros pelnas skiriamas šiame įstatyme Agentūrai nustatytoms funkcijoms įgyvendinti.
+6. Neteko galios nuo 2019-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
  
 
 
@@ -475,18 +488,45 @@ Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
 
 
 
-11 straipsnis. Atsargų kaupimas nuosavybės būdu
+101 straipsnis. Valstybės turto perdavimas turto patikėjimo teise pagal patikėjimo sutartį
 
 
-1. Valstybė nuosavybės teisę į atsargas įgyja, kai Agentūra įsigyja šias atsargas Lietuvos Respublikos viešųjų pirkimų įstatymo (toliau – Viešųjų pirkimų įstatymas) nustatyta tvarka. Valstybės lėšomis kaupiamos atsargos gali būti tik valstybės nuosavybė. Valstybės nuosavybe esančias atsargas turto patikėjimo teisės pagrindu tvarko Agentūra. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
+1. Valstybei nuosavybės teise priklausančias atsargas turto patikėjimo teise pagal patikėjimo sutartį valdo Agentūra. Sprendimą dėl valstybei nuosavybės teise priklausančių atsargų perdavimo turto patikėjimo teise priima Vyriausybė. Tokiame sprendime turi būti nurodyta valstybės institucija ar įstaiga, įgaliota sudaryti turto patikėjimo sutartį. 
+
+
+
+
+2. Į Agentūros turto patikėjimo teise pagal patikėjimo sutartį valdomas atsargas negali būti nukreipti Agentūros kreditorių išieškojimai, šios atsargos negali būti įkeistos ar kitaip suvaržytos, išskyrus atvejus, kai Agentūra susitarimų pagrindu kitiems asmenims suteikia reikalavimo teises į tas Agentūros valdomas atsargas, kurios viršija pagal šį įstatymą privalomus kaupti atsargų kiekius (toliau – atsargų perteklius). 
+
+
+
+
+3. Turto patikėjimo sutartyje, be kitų Lietuvos Respublikos civiliniame kodekse nurodytų esminių turto patikėjimo sutarties sąlygų, turi būti numatyta pareiga, kad Agentūra privalo ne vėliau kaip iki kitų metų gegužės 1 dienos paskelbti praėjusių finansinių metų valstybei nuosavybės teise priklausančių atsargų valdymo, naudojimo ir disponavimo jomis ataskaitą Agentūros svetainėje. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
  
 
 
 
 
-2. Į Agentūros patikėjimo teise valdomas atsargas negali būti nukreipti Agentūros kreditorių išieškojimai, šios atsargos negali būti įkeistos ar kitaip suvaržytos, išskyrus atvejus, kai Agentūra susitarimų pagrindu kitiems asmenims suteikia reikalavimo teises į tas Agentūros valdomas atsargas, kurios viršija pagal šį įstatymą privalomus kaupti atsargų kiekius. 
+11 straipsnis. Atsargų kaupimas nuosavybės būdu
+
+
+1. Valstybė nuosavybės teisę į atsargas įgyja, kai Agentūra įsigyja šias atsargas Lietuvos Respublikos viešųjų pirkimų įstatymo (toliau – Viešųjų pirkimų įstatymas) nustatyta tvarka. Valstybės lėšomis kaupiamos atsargos gali būti tik valstybės nuosavybė. Valstybės nuosavybe esančias atsargas turto patikėjimo teise pagal patikėjimo sutartį tvarko Agentūra.
+Straipsnio dalies pakeitimai:
+Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
+Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
+ 
+
+
+
+
+2. Neteko galios nuo 2019-01-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
+ 
 
 
 
@@ -515,7 +555,10 @@ Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
 12 straipsnis. Atsargų kaupimas reikalavimo teisių būdu
 
 
-1. Reikalavimo teisės į konkretų atsargų kiekį įgyjamos sandorių (susitarimų) pagrindu. Atsargoms, kaupiamoms reikalavimo teisių pagrindu, taip pat taikomi šio įstatymo 8 straipsnyje nustatyti reikalavimai. Valstybės reikalavimo teises į atsargas turto patikėjimo teisės pagrindu valdo Agentūra.
+1. Reikalavimo teisės į konkretų atsargų kiekį įgyjamos sandorių (susitarimų) pagrindu. Atsargoms, kaupiamoms reikalavimo teisių pagrindu, taip pat taikomi šio įstatymo 8 straipsnyje nustatyti reikalavimai. Valstybės reikalavimo teises į atsargas turto patikėjimo teise pagal patikėjimo sutartį valdo Agentūra.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
+ 
 
 
 
@@ -567,6 +610,22 @@ ATSARGŲ ĮSIGIJIMAS, PANAUDOJIMAS, KEITIMAS IR PERLEIDIMAS
 2. Įpareigotosios įmonės, kurios nėra perkančiosios organizacijos pagal Viešųjų pirkimų įstatymą, įgyja atsargas ir (ar) reikalavimo teises į atsargas bet kokiais teisėtais būdais.
 
 
+
+
+3. Agentūros sudaromiems specialiųjų atsargų įsigijimo ar keitimo sandoriams mutatis mutandis taikomos Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatytos sandorių atitikties nacionalinio saugumo interesams patikros procedūros. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
+ 
+
+
+
+
+4. Agentūros darbuotojams, kurie Agentūroje atlieka funkcijas, susijusias su specialiųjų atsargų įsigijimu ar keitimu, mutatis mutandis taikomos Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 17 straipsnio nuostatos.
+Papildyta straipsnio dalimi:
+Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
  
@@ -590,7 +649,10 @@ Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
 
 
 
-3. Jeigu Agentūra atsargų sukaupė daugiau negu privaloma pagal šį įstatymą, Energetikos ministerija Taisyklėse nustatyta tvarka gali leisti parduoti Agentūros kaupiamų atsargų perteklių arba susitarimų pagrindu suteikti reikalavimo teises į Agentūros kaupiamų atsargų perteklių kitiems ūkio subjektams ar kitaip panaudoti šį atsargų perteklių. Lėšos, gautos realizavus Agentūros kaupiamų atsargų perteklių šioje dalyje nustatyta tvarka, gali būti naudojamos tik šio įstatymo Agentūrai nustatytoms funkcijoms įgyvendinti. 
+3. Jeigu Agentūra atsargų sukaupė daugiau negu privaloma pagal šį įstatymą, Energetikos ministerija Taisyklėse nustatyta tvarka gali leisti parduoti Agentūros kaupiamų atsargų perteklių arba susitarimų pagrindu suteikti reikalavimo teises į Agentūros kaupiamų atsargų perteklių kitiems ūkio subjektams arba laikyti šį atsargų perteklių, kol šio įstatymo 7 straipsnyje nustatyta tvarka bus patvirtintos naujos atsargų kaupimo užduotys. Lėšos, gautos realizavus Agentūros kaupiamų atsargų perteklių šioje dalyje nustatyta tvarka, gali būti naudojamos tik šio įstatymo Agentūrai nustatytoms funkcijoms įgyvendinti.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
+ 
 
 
 
@@ -606,7 +668,7 @@ Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
 16 straipsnis. Atsargų keitimas
 
 
-1. Agentūra, nustačiusi, kad jos patikėjimo teise valdomų atsargų kokybė gali pablogėti taip, kad jos nebeatitiks šio įstatymo 8 straipsnyje nurodytų privalomųjų kokybės rodiklių, raštu informuoja Energetikos ministeriją, kuri priima vieną iš šių sprendimų:
+1. Agentūra, nustačiusi, kad jos turto patikėjimo teise pagal patikėjimo sutartį valdomų atsargų kokybė gali pablogėti taip, kad jos nebeatitiks šio įstatymo 8 straipsnyje nurodytų privalomųjų kokybės rodiklių, raštu kreipiasi į Energetikos ministeriją dėl Energetikos ministerijos sutikimo:
 
 
 1) keisti atsargas tiesioginio keitimo būdu, kai esamos atsargos pakeičiamos naujais naftos produktais, arba
@@ -622,6 +684,9 @@ Nr. XII-1434, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20562
 3) pratęsti atsargų laikymą.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
+ 
 
 
 
@@ -1008,3 +1073,8 @@ Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-566, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12065
 Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 2 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
+Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 1, 2, 3, 5, 11, 12, 14, 15, 16 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
