@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/def4f28088f511e8af589337bf1eb893"
 
 # Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto 2 straipsnio pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2019-01-01
+ 
+Įstatymas paskelbtas: TAR 2018-07-16, i. k. 2018-12050
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 TARNYBOS KALĖJIMŲ DEPARTAMENTE PRIE LIETUVOS RESPUBLIKOS TEISINGUMO MINISTERIJOS STATUTO 2 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
@@ -25,22 +32,10 @@ Vilnius
  
 
 
-1 straipsnis. 2 straipsnio pakeitimas
-
-
-Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip:
-
-
-
-
-„4. Pataisos pareigūnas – šiame statute nustatyta tvarka į pataisos pareigūno pareigas priimtas statutinis valstybės tarnautojas, atliekantis įstatymuose nustatytas funkcijas, kuriomis užtikrinamas Kalėjimų departamentui ar jam pavaldžiai įstaigai įstatymuose nustatytų uždavinių ir funkcijų įgyvendinimas, turintis įstatymų suteiktus viešojo administravimo įgaliojimus dėl sau nepavaldžių asmenų ir (ar) vadovaujantis kitiems pataisos pareigūnams.“
+1 straipsnis. Neteko galios nuo 2019-01-01
+Straipsnio naikinimas:
+Nr. XIII-1385, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12053
  
-
-
-
-
-
-
 
 
 
@@ -95,3 +90,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1385, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12053
+Lietuvos Respublikos Tarnybos Kalėjimų departamente prie Lietuvos Respublikos teisingumo ministerijos statuto patvirtinimo įstatymo Nr. VIII-1631 pripažinimo netekusiu galios įstatymas
