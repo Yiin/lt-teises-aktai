@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F0B5321D2DB"
 
 # Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymas
 
-Suvestinė redakcija nuo 2016-01-06 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-11-13
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 101-4543, i. k. 1031010ISTA0IX-1789
  
@@ -137,7 +137,10 @@ Nr. XII-2219, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00084
 6 straipsnis. Valstybinė signataro renta
 
 
-1. Signataras turi teisę gauti valstybinę signataro rentą. Valstybinės signataro rentos dydis yra 50 procentų Seimo nario pareiginės algos per mėnesį.
+1. Signataras turi teisę gauti valstybinę signataro rentą. Valstybinės signataro rentos dydis yra 38,79 procento Seimo nario pareiginės algos per mėnesį.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1352, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11454
+ 
 
 
 
@@ -1147,3 +1150,8 @@ Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Lais
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2219, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00084
 Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo Nr. IX-1789 5 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1352, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11454
+Lietuvos Respublikos Lietuvos Nepriklausomybės Akto signatarų ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statuso įstatymo Nr. IX-1789 6 straipsnio pakeitimo įstatymas
