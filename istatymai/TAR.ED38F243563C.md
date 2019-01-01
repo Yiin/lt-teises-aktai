@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
  
@@ -213,9 +213,10 @@ Teisę gauti pirmojo laipsnio valstybinę pensiją turi šie Lietuvos Respubliko
 
 
 
-2) olimpinių žaidynių čempionai, parolimpinių žaidynių čempionai, kurčiųjų žaidynių čempionai (aukso medalio laimėtojai); 
+2) olimpinių žaidynių čempionai, paralimpinių žaidynių čempionai, kurčiųjų žaidynių čempionai (aukso medalio laimėtojai); 
 Straipsnio punkto pakeitimai:
 Nr. XIII-429, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10030
+Nr. XIII-1555, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17471
  
 
 
@@ -240,9 +241,10 @@ Nr. XIII-789, 2017-11-21, paskelbta TAR 2017-11-23, i. k. 2017-18514
 
 
 
-2) olimpinių žaidynių prizininkai, parolimpinių žaidynių prizininkai, kurčiųjų žaidynių prizininkai (sidabro, bronzos medalių laimėtojai), olimpinių sporto šakų pasaulio čempionai, į parolimpinių ar kurčiųjų žaidynių programą įtrauktos sporto šakos rungties pasaulio čempionai (aukso medalio laimėtojai); 
+2) olimpinių žaidynių prizininkai, paralimpinių žaidynių prizininkai, kurčiųjų žaidynių prizininkai (sidabro, bronzos medalių laimėtojai), olimpinių sporto šakų pasaulio čempionai, į paralimpinių ar kurčiųjų žaidynių programą įtrauktos sporto šakos rungties pasaulio čempionai (aukso medalio laimėtojai); 
 Straipsnio punkto pakeitimai:
 Nr. XIII-429, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10030
+Nr. XIII-1555, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17471
  
 
 
@@ -1605,3 +1607,13 @@ Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 11, 12, 13 ir 14 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-962, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21716
 Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 3, 4, 5, 9, 10, 14, 15 ir 16 straipsnių pakeitimo įstatymo Nr. XII-2514 6 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1351, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11453
+Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 3 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1555, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17471
+Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 4 straipsnio pakeitimo įstatymas
