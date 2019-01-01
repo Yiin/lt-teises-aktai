@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97BDCD719E57"
 
 # Lietuvos Respublikos veterinarijos įstatymas
 
-Suvestinė redakcija nuo 2016-07-16 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-02-28
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 3-0; Žin. 1992, Nr.2-15, i. k. 091XX01ISTA00I-2110
  
@@ -118,7 +118,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-15. Veterinarinės kontrolės subjektai – gyvūninių produktų, pašarų, veterinarinių vaistų subjektai ar juos tvarkantys subjektai, gyvūnai ar juos laikantys subjektai, kurie teisės aktų nustatyta tvarka kontroliuojami Valstybinės maisto ir veterinarijos tarnybos.
+15. Veterinarijos gydytojas rezidentas – veterinarijos gydytojas, studijuojantis pagal veterinarinės medicinos studijų krypties rezidentūros studijų programą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1686, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20186
+ 
 
 
 
@@ -133,12 +136,38 @@ BENDROSIOS NUOSTATOS
 
 
 
-18. Veterinarinės priemonės – veterinariniai biocidai, veterinarinėje medicinoje naudojami veterinariniai įrankiai, medžiagos.
+18. Veterinarinės kontrolės subjektai – gyvūninių produktų, pašarų, veterinarinių vaistų subjektai ar juos tvarkantys subjektai, gyvūnai ar juos laikantys subjektai, kurie teisės aktų nustatyta tvarka kontroliuojami Valstybinės maisto ir veterinarijos tarnybos.
 
 
 
 
-19. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos pašarų įstatyme, Lietuvos Respublikos maisto įstatyme ir kituose teisės aktuose.
+19. Veterinarinės medicinos rezidentūra – universitetinės veterinarinės medicinos studijų krypties studijos, skirtos asmenims, turintiems veterinarinės medicinos magistro kvalifikacinį laipsnį (arba jam lygiavertę aukštojo mokslo kvalifikaciją) ir siekiantiems įgyti veterinarinės medicinos praktikos specializaciją. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1686, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20186
+ 
+
+
+
+
+20. Veterinarinės medicinos rezidentūros bazė – universitetas, vykdantis veterinarinės medicinos rezidentūrą, ir (ar) kitas žemės ūkio ministro nustatyta tvarka universiteto įvertintas ir parinktas juridinis asmuo, kita organizacija, juridinio asmens ar kitos organizacijos padalinys (filialas, atstovybė) veterinarinės medicinos rezidentūros studijų programos praktinei daliai vykdyti. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1686, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20186
+ 
+
+
+
+
+21. Veterinarinės priemonės – veterinariniai biocidai, veterinarinėje medicinoje naudojami veterinariniai įrankiai, medžiagos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1686, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20186
+ 
+
+
+
+
+22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos pašarų įstatyme, Lietuvos Respublikos maisto įstatyme ir kituose teisės aktuose.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1686, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20186
  
 
 
@@ -466,7 +495,9 @@ Valstybinė maisto ir veterinarijos tarnyba ir jai pavaldžios įstaigos yra iš
 
 
 TREČIASIS SKIRSNIS
-PRIVATI VETERINARIJA
+VETERINARIJOS PRAKTIKA IR VETERINARINĖS MEDICINOS REZIDENTŪRA
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-1686, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20186
  
 
 
@@ -704,6 +735,24 @@ Veterinarijos praktikos licencijos turėtojai privalo:
 
 
 
+
+
+
+
+131 straipsnis. Veterinarinės medicinos rezidentūra
+
+
+1. Veterinarinės medicinos rezidentūrą sudaro teorinė ir praktinė dalys. Veterinarijos gydytojas rezidentas veterinarinės medicinos rezidentūros bazėje (bazėse) atlieka veterinarinės medicinos rezidentūros studijų programos praktinę dalį pagal atitinkamą veterinarinės medicinos rezidentūros studijų programą tik prižiūrimas veterinarijos gydytojo rezidento vadovo, turinčio veterinarinės medicinos magistro kvalifikacinį laipsnį (arba lygiavertę aukštojo mokslo kvalifikaciją), veterinarijos praktikos licenciją ir ne mažesnį kaip 5 metų darbo stažą veterinarinės medicinos praktikos srityje, kuri atitinka veterinarinės medicinos rezidento siekiamą įgyti veterinarinės medicinos praktikos specializaciją. 
+
+
+
+
+2. Veterinarinės medicinos rezidentūros bazė su veterinarijos gydytoju rezidentu sudaro terminuotą darbo sutartį ir jis įdarbinamas veterinarijos gydytoju rezidentu veterinarinės medicinos rezidentūros bazėje. Veterinarijos gydytojui rezidentui mokama pareiginė alga, kuri apskaičiuojama pareiginės algos koeficientą dauginant iš pareiginės algos bazinio dydžio, nustatomo Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatyme nustatyta tvarka. Veterinarijos gydytojui rezidentui taikomas pareiginės algos koeficientas – 7,6. Veterinarijos gydytojo rezidento pareiginė alga mokama iš Lietuvos Respublikos žemės ūkio ministerijai skirtų valstybės biudžeto asignavimų. Veterinarinės medicinos rezidentūros vietų, į kurias priimtiems asmenims pareiginė alga mokama iš Žemės ūkio ministerijai skirtų valstybės biudžeto asignavimų, skaičius neturi viršyti tais metais vientisąsias veterinarijos medicinos studijas turinčių baigti asmenų skaičiaus. Lėšos veterinarinės medicinos rezidentūros bazėms paskirstomos žemės ūkio ministro nustatyta tvarka.
+
+
+Papildyta straipsniu:
+Nr. XIII-1686, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20186
+ 
 
 
 
@@ -1012,3 +1061,8 @@ Lietuvos Respublikos veterinarijos įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2539, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20660
 Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 5 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1686, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20186
+Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 2 straipsnio, trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
