@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -1955,7 +1955,10 @@ Nr. XI-1318, 2011-04-14, Žin., 2011, Nr. 49-2372 (2011-04-28)
 
 
 
-4. Savivaldybės institucija ataskaitą, o prireikus – ir papildomą informaciją apie Savivaldybės visuomenės sveikatos rėmimo specialiosios programos priemonių vykdymą teikia Sveikatos apsaugos ministerijai ataskaitoje apie savivaldybės vykdomas visuomenės sveikatos priežiūros funkcijas Vyriausybės nustatyta tvarka.
+4. Savivaldybės institucija ataskaitą, o prireikus – ir papildomą informaciją apie Savivaldybės visuomenės sveikatos rėmimo specialiosios programos priemonių vykdymą teikia sveikatos apsaugos ministro nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1691, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20189
+ 
 
 
 Straipsnio pakeitimai:
@@ -5172,3 +5175,8 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 80 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-395, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09775
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 38-1 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1691, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20189
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 41 straipsnio pakeitimo įstatymas
