@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 2017-12-15 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-07-23
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
  
@@ -362,7 +362,11 @@ RESPUBLIKOS PREZIDENTO PAREIGŲ VYKDYMAS
 
 
 
-3. Respublikos Prezidento kanceliarijai vadovauja Respublikos Prezidento kanceliarijos kancleris. Kanclerį Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka konkurso būdu priima į pareigas ir atleidžia iš jų Respublikos Prezidentas.
+3. Respublikos Prezidento kanceliarijai vadovauja Respublikos Prezidento kanceliarijos kancleris. Respublikos Prezidento kanceliarijos kancleris yra politinio (asmeninio) pasitikėjimo valstybės tarnautojas, kurį priima į pareigas ir iš pareigų atleidžia Respublikos Prezidentas.
+TAR pastaba. Respublikos Prezidento kanceliarijos kancleris, iki įstatymo Nr. XIII-1379 įsigaliojimo (2019-01-01) paskirtas į pareigas ir įstatymo Nr. XIII-1379 įsigaliojimo dieną (2019-01-01) ėjęs Respublikos Prezidento kanceliarijos kanclerio pareigas, toliau eina pareigas iki Respublikos Prezidento kadencijos pabaigos. Respublikos Prezidento kanceliarijos kancleris atleidžiamas paskutinę Respublikos Prezidento kadencijos dieną Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1379, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12047
+ 
 
 
 
@@ -788,3 +792,8 @@ Lietuvos Respublikos Prezidento įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT19-N9/2017, 2017-12-15, paskelbta TAR 2017-12-15, i. k. 2017-20254
 Dėl Lietuvos Respublikos Prezidento įstatymo 23 straipsnio 4 dalies atitikties Lietuvos Respublikos Konstitucijai
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1379, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12047
+Lietuvos Respublikos Prezidento įstatymo Nr. I-56 13 straipsnio pakeitimo įstatymas
