@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2018-05-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-03-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
  
@@ -100,7 +100,10 @@ Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
 3 straipsnis. Konsulinių pareigūnų veiklos teisiniai pagrindai
 
 
-1. Konsuliniai pareigūnai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, 1963 m. Vienos konvencija dėl konsulinių santykių, kitomis Lietuvos Respublikos tarptautinėmis sutartimis, šiuo statutu, Lietuvos Respublikos notariato, Lietuvos Respublikos diplomatinės tarnybos ir Lietuvos Respublikos valstybės tarnybos įstatymais, kitais nacionalinės teisės ir Europos Sąjungos teisės aktais.
+1. Konsuliniai pareigūnai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, 1963 m. Vienos konvencija dėl konsulinių santykių, kitomis Lietuvos Respublikos tarptautinėmis sutartimis, šiuo statutu, Lietuvos Respublikos notariato ir Lietuvos Respublikos diplomatinės tarnybos įstatymais, kitais nacionalinės teisės ir Europos Sąjungos teisės aktais.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1394, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12065
+ 
 
 
 
@@ -1123,3 +1126,8 @@ Lietuvos Respublikos konsulinio statuto Nr. I-886 21 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
 Lietuvos Respublikos konsulinio statuto 1, 2, 10, 11, 14, 22, 27, 38 straipsnių, IV skyriaus ir priedo pakeitimo ir Statuto papildymo 22-1 straipsniu įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1394, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12065
+Lietuvos Respublikos konsulinio statuto 3 straipsnio pakeitimo įstatymas
