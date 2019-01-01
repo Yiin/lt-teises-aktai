@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/613244607e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23708
  
@@ -221,7 +221,7 @@ Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
 
 
 
-3. Į Garantinį fondą 0,2 procento dydžio įmokas nuo darbuotojams, kuriems taikomi Lietuvos Respublikos socialinio draudimo teisės aktai, Lietuvos Respublikos valstybinio socialinio draudimo įstatymo (toliau – Valstybinio socialinio draudimo įstatymas) nustatyta tvarka apskaičiuotų pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, moka:
+3. Į Garantinį fondą 0,16 procento dydžio įmokas nuo darbuotojams, kuriems taikomi Lietuvos Respublikos socialinio draudimo teisės aktai, Lietuvos Respublikos valstybinio socialinio draudimo įstatymo nustatyta tvarka apskaičiuotų pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, moka:
 
 
 1) Lietuvos Respublikoje įsteigti juridiniai asmenys, jų filialai ir atstovybės, išskyrus Lietuvos banką, biudžetines įstaigas, politines partijas, profesines sąjungas, religines bendruomenes ir bendrijas;
@@ -234,9 +234,12 @@ Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
 
 
 
-3) valstybių narių juridinių asmenų padaliniai, įsteigti Lietuvos Respublikoje.
+3) valstybių narių juridinių asmenų padaliniai, įsteigti Lietuvos Respublikoje. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1348, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11450
+ 
 
 
 
@@ -452,19 +455,22 @@ PAPILDOMOS FINANSINĖS GARANTIJOS ILGALAIKIO DARBO ATVEJU
 1. Teisę į ilgalaikio darbo išmoką turinčiam darbuotojui, jį atleidus iš darbo ir kai tarp jo ir darbdavio per trijų mėnesių laikotarpį po atleidimo nesudaroma nauja darbo sutartis, iš Ilgalaikio darbo išmokų fondo skiriama:
 
 
-1) jo vidutinio mėnesinio darbo užmokesčio dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo dieną tęsėsi nuo penkerių iki dešimt metų;
+1) 77,58 procento jo vidutinio mėnesinio darbo užmokesčio dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo dieną tęsėsi nuo penkerių iki dešimt metų;
 
 
 
 
-2) dviejų jo vidutinių mėnesinių darbo užmokesčių dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo dieną tęsėsi nuo dešimt iki dvidešimt metų;
+2) 77,58 procento dviejų jo vidutinių mėnesinių darbo užmokesčių dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo dieną tęsėsi nuo dešimt iki dvidešimt metų;
 
 
 
 
-3) trijų jo vidutinių mėnesinių darbo užmokesčių dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo dieną tęsėsi dvidešimt ir daugiau metų.
+3) 77,58 procento trijų jo vidutinių mėnesinių darbo užmokesčių dydžio ilgalaikio darbo išmoka – kai darbo santykiai su darbdaviu atleidimo iš darbo dieną tęsėsi dvidešimt ir daugiau metų. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1348, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11450
+ 
 
 
 
@@ -482,7 +488,10 @@ Nr. XIII-830, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20027
 11 straipsnis. Ilgalaikio darbo išmokų skyrimo ir mokėjimo tvarka 
 
 
-1. Ilgalaikio darbo išmokos šio įstatymo 9 straipsnio 1 dalyje nurodytiems darbuotojams (išskyrus iš biudžetinių įstaigų ir Lietuvos banko atleistus asmenis), kurie ne vėliau kaip per šešis mėnesius po atleidimo iš darbo kreipėsi Ilgalaikio darbo išmokų fondo nuostatuose (toliau – IDIF nuostatai) nustatyta tvarka į administratorių, skiriamos ne anksčiau kaip praėjus trims mėnesiams nuo atleidimo dienos. Ilgalaikio darbo išmokos yra mokamos IDIF nuostatuose nustatyta tvarka už praėjusį mėnesį ne rečiau kaip kartą per mėnesį tol, kol išmokama visa darbuotojui paskirta šios išmokos suma, apskaičiuota šio įstatymo 10 straipsnyje nustatyta tvarka. Ilgalaikio darbo išmokos iš biudžetinių įstaigų ir Lietuvos banko atleistiems darbuotojams darbdavio skiriamos ir mokamos mutatis mutandis šiame įstatyme ir IDIF nuostatuose nustatyta tvarka. 
+1. Ilgalaikio darbo išmokos šio įstatymo 9 straipsnio 1 dalyje nurodytiems darbuotojams (išskyrus iš biudžetinių įstaigų ir Lietuvos banko atleistus asmenis), kurie ne vėliau kaip per šešis mėnesius po atleidimo iš darbo kreipėsi Ilgalaikio darbo išmokų fondo nuostatuose (toliau – IDIF nuostatai) nustatyta tvarka į administratorių, skiriamos ne anksčiau kaip praėjus trims mėnesiams nuo atleidimo dienos. Ilgalaikio darbo išmokos yra mokamos IDIF nuostatuose nustatyta tvarka iš karto išmokant visą išmokos sumą, apskaičiuotą šio įstatymo 10 straipsnyje nustatyta tvarka. Ilgalaikio darbo išmokos iš biudžetinių įstaigų ir Lietuvos banko atleistiems darbuotojams darbdavio skiriamos ir mokamos mutatis mutandis šiame įstatyme ir IDIF nuostatuose nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1348, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11450
+ 
 
 
 
@@ -598,7 +607,10 @@ Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
 
 
 
-3. Darbdaviai, išskyrus biudžetines įstaigas ir Lietuvos banką, į Ilgalaikio darbo išmokų fondą moka 0,5 procento nuo Valstybinio socialinio draudimo įstatymo nustatyta tvarka apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos, dydžio įmokas.
+3. Darbdaviai, išskyrus biudžetines įstaigas ir Lietuvos banką, į Ilgalaikio darbo išmokų fondą moka 0,16 procento nuo Valstybinio socialinio draudimo įstatymo nustatyta tvarka apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos, dydžio įmokas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1348, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11450
+ 
 
 
 
@@ -630,7 +642,10 @@ Ilgalaikio darbo išmokų fondo lėšos naudojamos:
 
 
 
-2) įmokų į Ilgalaikio darbo išmokų fondą administravimo, Ilgalaikio darbo išmokų fondo administravimo ir valdymo išlaidoms apmokėti;
+2) Ilgalaikio darbo išmokų fondo administravimo išlaidoms apmokėti IDIF nuostatuose nustatyta tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1726, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20985
+ 
 
 
 
@@ -1019,3 +1034,13 @@ Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir il
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-830, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20027
 Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 10 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1348, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11450
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 5, 10, 11 ir 14 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1726, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20985
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 15 straipsnio pakeitimo įstatymas
