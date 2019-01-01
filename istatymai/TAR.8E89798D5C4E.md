@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8E89798D5C4E"
 
 # Lietuvos Respublikos teisėjų valstybinių pensijų įstatymas
 
-Suvestinė redakcija nuo 2010-11-16 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3088, i. k. 1021010ISTA0IX-1011
  
@@ -169,7 +169,6 @@ Straipsnio dalies pakeitimai:
 
 
 3) asmenims, įgijusiems 5 ir daugiau metų teisėjo darbo stažą, teisėjų valstybinė pensija apskaičiuojama iš paskutinių 5, prieš nustojant eiti teisėjo pareigas, metų teisėjo gauto darbo užmokesčio vidurkio ir skiriama 10 procentų šio dydžio.
- 
 TAR pastaba. Pripažinti, kad Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 6 straipsnio 2 dalis (Žin., 2002, Nr. 73-3088) prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
 
 
@@ -199,7 +198,10 @@ Straipsnio dalies pakeitimai:
 
 
 
-2. Nacionalinė teismų administracija, skirdama ir mokėdama teisėjų valstybines pensijas, vadovaujasi šiuo Įstatymu, Valstybinių pensijų įstatymu bei Vyriausybės patvirtintais Teisėjų valstybinių pensijų skyrimo ir mokėjimo nuostatais.
+2. Nacionalinė teismų administracija, skirdama ir mokėdama teisėjų valstybines pensijas, vadovaujasi šiuo Įstatymu, Valstybinių pensijų įstatymu bei Nuostatais. Jeigu į laikotarpį darbo užmokesčio vidurkiui apskaičiuoti patenka ir laikotarpis nuo 2019 m. sausio 1 d., šio laikotarpio darbo užmokestis mažinamas dalijant jį iš 1,289. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1735, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20703
+ 
 
 
 
@@ -362,7 +364,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
  
 
 
@@ -394,3 +396,8 @@ Dėl Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 4 straipsnio
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2010-06-29, Žin., 2010, Nr. 134-6860 (2010-11-16); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1101000NUTARG109450                
 Dėl Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 5, 6 straipsnių, Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio 3 dalies (2009 m. gruodžio 8 d. redakcija), Lietuvos Respublikos socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo 1 straipsnio 2 dalies 1 punkto, 16 straipsnio 4 dalies atitikties Lietuvos Respublikos Konstitucijai
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1735, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20703
+Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo Nr. IX-1011 7 straipsnio pakeitimo įstatymas
