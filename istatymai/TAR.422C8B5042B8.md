@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-05-31
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -1796,7 +1796,10 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-3. Aktyvios darbo rinkos politikos priemonės Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti taikomos kompleksiškai, derinant skirtingas priemones. Asmeniui kompleksiškai taikomų aktyvios darbo rinkos politikos priemonių finansavimo suma negali viršyti 40 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių sumos. Kompleksinis aktyvios darbo rinkos politikos priemonių taikymas tam pačiam asmeniui pakartotinai gali būti organizuojamas ne anksčiau kaip praėjus 3 metams nuo paskutinio kompleksinio šių priemonių taikymo. 
+3. Aktyvios darbo rinkos politikos priemonės Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti taikomos kompleksiškai, derinant skirtingas priemones. Asmeniui kompleksiškai taikomų aktyvios darbo rinkos politikos priemonių finansavimo suma negali viršyti 31,03 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio sumos. Kompleksinis aktyvios darbo rinkos politikos priemonių taikymas tam pačiam asmeniui pakartotinai gali būti organizuojamas ne anksčiau kaip praėjus 3 metams nuo paskutinio kompleksinio šių priemonių taikymo.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
+ 
 
 
 
@@ -1914,39 +1917,43 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 5. Bedarbių ar užimtų asmenų profesinis mokymas gali būti finansuojamas iš šių šaltinių:
 
 
-1) Užimtumo fondo lėšų;
+1) valstybės biudžeto lėšų; 
 
 
 
 
-2) valstybės biudžeto lėšų; 
+2) Europos Sąjungos struktūrinių fondų ir Europos prisitaikymo prie globalizacijos padarinių fondo lėšų;
 
 
 
 
-3) Europos Sąjungos struktūrinių fondų ir Europos prisitaikymo prie globalizacijos padarinių fondo lėšų;
+3) darbdavių lėšų;
 
 
 
 
-4) darbdavių lėšų;
+4) kitų šaltinių. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
+ 
 
 
 
 
-5) kitų šaltinių.
+6. Bedarbiams ar užimtiems asmenims bendrai skiriama lėšų suma iš šio straipsnio 5 dalies 1 ir 2 punktuose nurodytų šaltinių negali viršyti 4,65 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio kvalifikacijai įgyti ir 2,33 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio kvalifikacijai tobulinti ar kompetencijai įgyti. Į šias lėšas neįskaičiuojamos išlaidos, numatytos šio straipsnio 14 dalies 2, 3, 4 ir 5 punktuose. Užimtam asmeniui iš šio straipsnio 14 dalyje nurodytų išlaidų finansuojamos tik profesinio mokymo paslaugos. Užimtam asmeniui, kuris profesinio mokymosi metu buvo atleistas iš darbo, profesinio mokymosi laikotarpiu papildomai mokama šio straipsnio 14 dalies 2 punkte nurodyta mokymo stipendija ir kompensuojamos šio straipsnio 14 dalies 3 ir 4 punktuose nurodytos išlaidos. Lėšų nustatymo, skyrimo ir panaudojimo kontrolės tvarką nustato, dokumentų tipines formas tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
+ 
 
 
 
 
-
-
-6. Bedarbiams ar užimtiems asmenims bendrai skiriama lėšų suma iš šio straipsnio 5 dalies 1, 2 ir 3 punktuose nurodytų šaltinių negali viršyti 6 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių kvalifikacijai įgyti ir 3 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių kvalifikacijai tobulinti ar kompetencijai įgyti. Į šias lėšas neįskaičiuojamos išlaidos, numatytos šio straipsnio 14 dalies 2, 3, 4 ir 5 punktuose. Užimtam asmeniui iš šio straipsnio 14 dalyje nurodytų išlaidų finansuojamos tik profesinio mokymo paslaugos. Užimtam asmeniui, kuris profesinio mokymosi metu buvo atleistas iš darbo, profesinio mokymosi laikotarpiu papildomai mokama šio straipsnio 14 dalies 2 punkte nurodyta mokymo stipendija ir kompensuojamos šio straipsnio 14 dalies 3 ir 4 punktuose nurodytos išlaidos. Lėšų nustatymo, skyrimo ir panaudojimo kontrolės tvarką nustato, dokumentų tipines formas tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
-
-
-
-
-7. Bedarbiams per visą profesinio mokymosi laikotarpį kartą per mėnesį mokama mokymo stipendija atsižvelgiant į lankytas valandas. Mokymo stipendijos dydis bedarbio pasirinkimu yra 0,6 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Lietuvos Respublikos nedarbo socialinio draudimo įstatymu. Mokymo stipendijos dydis mažinamas proporcingai numatytų, bet nelankytų valandų skaičiui. Pasibaigus nedarbo socialinio draudimo išmokos mokėjimo terminui, jeigu jis negali būti pratęstas Lietuvos Respublikos nedarbo socialinio draudimo įstatymo nustatyta tvarka, likusį profesinio mokymosi laikotarpį bedarbiui mokama 0,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio mokymo stipendija.
+7. Bedarbiams per visą profesinio mokymosi laikotarpį kartą per mėnesį mokama mokymo stipendija atsižvelgiant į lankytas valandas. Mokymo stipendijos dydis bedarbio pasirinkimu yra 0,47 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Lietuvos Respublikos nedarbo socialinio draudimo įstatymu. Mokymo stipendijos dydis mažinamas proporcingai numatytų, bet nelankytų valandų skaičiui. Pasibaigus nedarbo socialinio draudimo išmokos mokėjimo terminui, jeigu jis negali būti pratęstas Lietuvos Respublikos nedarbo socialinio draudimo įstatymo nustatyta tvarka, likusį profesinio mokymosi laikotarpį bedarbiui mokama 0,39 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio mokymo stipendija.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
+ 
 
 
 
@@ -2112,9 +2119,11 @@ Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
 
 
 
-2. Profesinį mokymą pameistrystės forma, kaip nurodyta šio straipsnio 1 dalyje, vykdantiems darbdaviams, kurie pagal pameistrystės darbo sutartį įdarbino Užimtumo tarnybos siųstus asmenis, jų rašytiniu prašymu kompensuojama 40 procentų darbo užmokesčio, nurodyto įdarbinto pagal pameistrystės darbo sutartį asmens darbo sutartyje, dalies, neviršijančios vieno Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, ir nuo šios darbo užmokesčio dalies apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų dalis. Jeigu įdarbinto pagal pameistrystės darbo sutartį asmens darbo sutartyje nustatytas ne visas darbo laikas arba jis dirbo ne visą mėnesio darbo laiką, kompensuojamas darbo užmokesčio dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą ar darbo sutartyje nustatytą valandinį atlygį, neviršijantį vieno Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio. 
+2. Darbdaviams, vykdantiems profesinį mokymą pagal pameistrystės formą, nurodytiems šio straipsnio 1 dalyje, kurie pagal pameistrystės darbo sutartį įdarbino Užimtumo tarnybos siųstus asmenis, jų rašytiniu prašymu kompensuojama 40 procentų darbo užmokesčio, nurodyto įdarbinto pagal pameistrystės darbo sutartį asmens darbo sutartyje, dalies, neviršijančios vieno Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, ir nuo šios darbo užmokesčio dalies apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų dalis. Jeigu įdarbinto pagal pameistrystės darbo sutartį asmens darbo sutartis sudaryta ne visam darbo laikui arba jis dirbo ne visą mėnesio darbo laiką, kompensuojamas darbo užmokesčio dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą ar darbo sutartyje nustatytą valandinį atlygį, neviršijantį vieno Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio ir nuo jo apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų dalį.
 Straipsnio dalies pakeitimai:
 Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
+Nr. XIII-1729, 2018-12-11, paskelbta TAR 2018-12-19, i. k. 2018-20874
  
 
 
@@ -2147,7 +2156,10 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-3. Bedarbiams per visą stažuotės laikotarpį kartą per mėnesį mokama stipendija, atsižvelgiant į stažavimosi valandas. Stipendijos dydis bedarbio pasirinkimu yra 0,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Lietuvos Respublikos nedarbo socialinio draudimo įstatymu. Stipendijos dydis mažinamas proporcingai numatytų, bet nesistažuotų valandų skaičiui. Pasibaigus nedarbo socialinio draudimo išmokos mokėjimo terminui, jeigu jis negali būti pratęstas Lietuvos Respublikos nedarbo socialinio draudimo įstatymo nustatyta tvarka, likusį stažuotės laikotarpį mokama 0,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio stipendija.
+3. Bedarbiams per visą stažuotės laikotarpį kartą per mėnesį mokama stipendija, atsižvelgiant į stažavimosi valandas. Stipendijos dydis bedarbio pasirinkimu yra 0,39 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Lietuvos Respublikos nedarbo socialinio draudimo įstatymu. Stipendijos dydis mažinamas proporcingai numatytų, bet nesistažuotų valandų skaičiui. Pasibaigus nedarbo socialinio draudimo išmokos mokėjimo terminui, jeigu jis negali būti pratęstas Lietuvos Respublikos nedarbo socialinio draudimo įstatymo nustatyta tvarka, likusį stažuotės laikotarpį mokama 0,39 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio stipendija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
+ 
 
 
 
@@ -2186,7 +2198,10 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-4. Bedarbiams skiriamos lėšos neformaliojo švietimo ir savišvietos būdu įgytoms kompetencijoms pripažinti negali viršyti 0,6 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio.
+4. Bedarbiams skiriamos lėšos neformaliojo švietimo ir savišvietos būdu įgytoms kompetencijoms pripažinti negali viršyti 0,47 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
+ 
 
 
 
@@ -2234,7 +2249,10 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-3. Paramos judumui dydis sudaro 33 procentus Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, jeigu asmens darbo užmokestis neviršija vieno Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, arba 25 procentus Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, jeigu asmens darbo užmokestis viršija vieną Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydį, bet neviršija Lietuvos statistikos departamento paskelbto paskutinio ketvirčio šalies ūkio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydžio. Jeigu asmens darbo užmokestis viršija Lietuvos statistikos departamento paskelbtą paskutinio ketvirčio šalies ūkio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydį, parama judumui tokiam asmeniui neskiriama.
+3. Paramos judumui dydis sudaro 26,6 procento Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, jeigu asmens darbo užmokestis neviršija vieno Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, arba 19,39 procento Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, jeigu asmens darbo užmokestis viršija vieną Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydį, bet neviršija Lietuvos statistikos departamento paskelbto paskutinio ketvirčio šalies ūkio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydžio. Jeigu asmens darbo užmokestis viršija Lietuvos statistikos departamento paskelbtą paskutinio ketvirčio šalies ūkio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydį, parama judumui tokiam asmeniui neskiriama.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
+ 
 
 
 
@@ -2268,7 +2286,7 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-2. Įgyvendinant remiamojo įdarbinimo priemones, darbdaviams, įdarbinusiems Užimtumo tarnybos siųstus asmenis, mokama subsidija darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, ir nuo šio darbo užmokesčio apskaičiuotoms draudėjo privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti (toliau – subsidija darbo užmokesčiui). Jeigu įdarbinto asmens darbo sutartyje nustatytas ne visas darbo laikas arba jis dirbo ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą ar darbo sutartyje nustatytą valandinį atlygį. Subsidijos darbo užmokesčiui dydis negali viršyti 2 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių. Subsidijos darbo užmokesčiui dydis, kai įdarbinami šio įstatymo 25 straipsnyje nurodyti asmenys, apskaičiuojamas procentais nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų lėšų:
+2. Įgyvendinant remiamojo įdarbinimo priemones, darbdaviams, įdarbinusiems Užimtumo tarnybos siųstus asmenis, mokama subsidija darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, ir nuo šio darbo užmokesčio apskaičiuotoms draudėjo privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti (toliau – subsidija darbo užmokesčiui). Jeigu įdarbinto asmens darbo sutartyje nustatytas ne visas darbo laikas arba jis dirbo ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą ar darbo sutartyje nustatytą valandinį atlygį. Subsidijos darbo užmokesčiui dydis negali viršyti 1,55 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio. Subsidijos darbo užmokesčiui dydis, kai įdarbinami šio įstatymo 25 straipsnyje nurodyti asmenys, apskaičiuojamas procentais nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų lėšų:
 
 
 1) 75 procentai apskaičiuotų lėšų, kai įdarbinami asmenys, nurodyti šio įstatymo 25 straipsnio 1 ir 10 punktuose; 
@@ -2281,11 +2299,12 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-3) 50 procentų apskaičiuotų lėšų, kai įdarbinami asmenys, nurodyti šio įstatymo 25 straipsnio 3–9 punktuose. 
+3) 50 procentų apskaičiuotų lėšų, kai įdarbinami asmenys, nurodyti šio įstatymo 25 straipsnio 3–9 punktuose.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
  
 
 
@@ -2468,7 +2487,10 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-3. Paramos darbo vietoms steigti dydis vienai darbo vietai negali viršyti 40 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių sumos. Šis dydis taikomas tais atvejais, kai numatoma įsteigti darbo vietas ir įdarbinti šio įstatymo 45, 46 ir 47 straipsniuose nurodytus asmenis, nustatant jiems Lietuvos Respublikos darbo kodekse numatytą savaitės darbo laiko trukmę. Numatant įsteigti darbo vietas ir įdarbinti šio įstatymo 45, 46 ir 47 straipsniuose nurodytus asmenis nustatant jiems ne visą darbo dieną arba ne visą darbo savaitę, kaip tai nurodyta Lietuvos Respublikos darbo kodekse, išskyrus šio įstatymo 25 straipsnio 1, 2 ir 3 punktuose nurodytų asmenų, kurie dėl sveikatos būklės gali dirbti ne visą darbo dieną ar ne visą darbo savaitę, įdarbinimo atvejus, paramos dydis mažinamas proporcingai, atsižvelgiant į numatomą dirbti darbo laiką (valandas).
+3. Paramos darbo vietoms steigti dydis vienai darbo vietai negali viršyti 31,03 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio sumos. Šis dydis taikomas tais atvejais, kai numatoma įsteigti darbo vietas ir įdarbinti šio įstatymo 45, 46 ir 47 straipsniuose nurodytus asmenis, nustatant jiems Lietuvos Respublikos darbo kodekse numatytą savaitės darbo laiko trukmę. Numatant įsteigti darbo vietas ir įdarbinti šio įstatymo 45, 46 ir 47 straipsniuose nurodytus asmenis nustatant jiems ne visą darbo dieną arba ne visą darbo savaitę, kaip tai nurodyta Lietuvos Respublikos darbo kodekse, išskyrus šio įstatymo 25 straipsnio 1, 2 ir 3 punktuose nurodytų asmenų, kurie dėl sveikatos būklės gali dirbti ne visą darbo dieną ar ne visą darbo savaitę, įdarbinimo atvejus, paramos dydis mažinamas proporcingai, atsižvelgiant į numatomą dirbti darbo laiką (valandas).
+Straipsnio dalies pakeitimai:
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
+ 
 
 
 
@@ -2899,138 +2921,36 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 50 straipsnis. Užimtumo rėmimo priemonių ir darbo rinkos paslaugų finansavimo šaltiniai
 
 
-Darbo rinkos paslaugos ir užimtumo rėmimo priemonės finansuojamos iš Užimtumo fondo, valstybės ir savivaldybių biudžetų, Europos Sąjungos struktūrinių ir kitų fondų bei šaltinių. Europos prisitaikymo prie globalizacijos padarinių fondo lėšų naudojimo sąlygas ir tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+Darbo rinkos paslaugos ir užimtumo rėmimo priemonės finansuojamos iš valstybės ir savivaldybių biudžetų, Europos Sąjungos struktūrinių ir kitų fondų bei šaltinių. Europos prisitaikymo prie globalizacijos padarinių fondo lėšų naudojimo sąlygas ir tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
  
 
 
 
 
-
-
-51 straipsnis. Užimtumo fondas
-
-
-1. Užimtumo fondas yra piniginės lėšos.
-
-
-
-
-2. Užimtumo fondo lėšos naudojamos:
-
-
-1) šio įstatymo 35 straipsnyje nustatytoms aktyvios darbo rinkos politikos priemonėms;
-
-
-
-
-2) bendriems Europos Sąjungos struktūrinių fondų ir tarptautiniams užimtumo rėmimo projektams finansuoti; 
-
-
-
-
-3) kompensacijai už nedarbo socialinio draudimo įmokų pervedimą.
+51 straipsnis. Neteko galios nuo 2019-01-01
+Straipsnio naikinimas:
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
  
 
 
 
 
-
-
-
-
-52 straipsnis. Užimtumo fondo lėšos 
-
-
-1. Užimtumo fondo lėšas sudaro:
-
-
-1) nedarbo socialinio draudimo lėšos šiame įstatyme nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti, kurių dydis tvirtinamas Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu;
-
-
-
-
-2) užimtumo rėmimo politiką įgyvendinančių įstaigų pajamos;
-
-
-
-
-3) valstybės biudžeto lėšos, kurių dydis tvirtinamas Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu;
-
-
-
-
-4) kitos lėšos.
-
-
-
-
-
-
-2. Valstybinio socialinio draudimo fondo valdyba šio straipsnio 1 dalies 1 punkte nurodytas lėšas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais terminais ir tvarka perveda Socialinės apsaugos ir darbo ministerijai Užimtumo fondui sudaryti. 
-
-
-
-
-3. Pasibaigus finansiniams metams, nepanaudotos Užimtumo fondo lėšos įtraukiamos į kitų metų Užimtumo fondo lėšų sąmatą, jeigu Lietuvos Respublikos biudžeto sandaros įstatyme nenustatyta kitaip.
-
-
-
-
-4. Užimtumo fondo lėšos kaupiamos ir saugomos Socialinės apsaugos ir darbo ministerijos sąskaitoje. 
-
-
-
-
-5. Šio straipsnio 1 dalies 1 punkte nurodytas lėšas užimtumo politiką įgyvendinančios įstaigos perveda į Užimtumo fondo sąskaitą už praėjusį ketvirtį iki kito ketvirčio pirmo mėnesio 15 dienos.
+52 straipsnis. Neteko galios nuo 2019-01-01
+Straipsnio naikinimas:
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
  
 
 
 
 
-
-
-53 straipsnis. Užimtumo fondo administravimas
-
-
-1. Socialinės apsaugos ir darbo ministerija administruoja Užimtumo fondo lėšas ir viešai skelbia, kaip jos naudojamos.
-
-
-
-
-2. Socialinės apsaugos ir darbo ministerija teikia Lietuvos Respublikos trišalei tarybai svarstyti Užimtumo fondo lėšų sąmatos projektą ir informaciją apie lėšų panaudojimą.
-
-
-
-
-3. Lietuvos Respublikos trišalė taryba teikia pasiūlymus Socialinės apsaugos ir darbo ministerijai dėl Užimtumo fondo lėšų sąmatos projekto ir lėšų panaudojimo.
-
-
-
-
-4. Socialinės apsaugos ir darbo ministerija tvirtina Užimtumo fondo lėšų sąmatą ir lėšų panaudojimo pagal šią sąmatą ataskaitą. Ji atsako už tinkamą šių lėšų paskirstymą.
-
-
-
-
-5. Socialinės apsaugos ir darbo ministerija pagal patvirtintą Užimtumo fondo lėšų sąmatą perveda lėšas užimtumo rėmimo politiką įgyvendinančioms įstaigoms.
-
-
-
-
-6. Užimtumo rėmimo politiką įgyvendinančios įstaigos pagal patvirtintas Užimtumo fondo lėšų sąmatas disponuoja iš Užimtumo fondo gautomis lėšomis ir kas ketvirtį teikia Socialinės apsaugos ir darbo ministerijai veiklos ataskaitas ir gautų lėšų panaudojimo finansines ataskaitas.
-
-
-
-
-7. Užimtumo rėmimo politiką įgyvendinančios įstaigos atsako už tinkamą iš Užimtumo fondo gautų lėšų panaudojimą.
-
-
-
-
-8. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija tvirtina Užimtumo fondo lėšų sąmatos sudarymo ir naudojimo taisykles.
+53 straipsnis. Neteko galios nuo 2019-01-01
+Straipsnio naikinimas:
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
  
-
-
 
 
 
@@ -3038,7 +2958,10 @@ Darbo rinkos paslaugos ir užimtumo rėmimo priemonės finansuojamos iš Užimtu
 54 straipsnis. Valstybės lėšų finansinė kontrolė
 
 
-1. Darbo rinkos paslaugoms ir užimtumo rėmimo priemonėms finansuoti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti bei jų plėtrai finansuoti skirtų valstybės lėšų (Užimtumo fondo, valstybės biudžeto ir kitų šaltinių) finansinę kontrolę atlieka Valstybės kontrolė ir kitos teisės aktų nustatyta tvarka įgaliotos valstybės institucijos.
+1. Darbo rinkos paslaugoms ir užimtumo rėmimo priemonėms finansuoti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti bei jų plėtrai finansuoti skirtų valstybės lėšų (valstybės biudžeto ir kitų šaltinių) finansinę kontrolę atlieka Valstybės kontrolė ir kitos įgaliotos valstybės institucijos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
+ 
 
 
 
@@ -3521,3 +3444,13 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 III skyriaus pirmojo skirs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 13, 16, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 35, 37, 38, 39, 39-1, 40, 41, 42, 44, 45, 47, 48 ir 49 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 35, 37, 38, 39, 39-1, 40, 41, 44, 50, 54 straipsnių pakeitimo ir 51, 52, 53 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1729, 2018-12-11, paskelbta TAR 2018-12-19, i. k. 2018-20874
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 35, 37, 38, 39, 39-1, 40, 41, 44, 50, 54 straipsnių pakeitimo ir 51, 52, 53 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-1342 3 straipsnio pakeitimo įstatymas
