@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-02
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -109,6 +109,14 @@ Nr. XI-2093, 2012-06-21, Žin., 2012, Nr. 76-3936 (2012-06-30)
 
 
 
+91. Energetikos įrenginių įrengimas – naujų energetikos įrenginių montavimas (tiesimas), įskaitant esamų energetikos įrenginių rekonstravimą, išmontavimą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
+ 
+
+
+
+
 10. Energetikos objektai – elektrinės ir katilinės; elektros tinklai ir jų technologiniai priklausiniai; magistraliniai dujotiekiai, gamtinių dujų sistemos, gamtinių dujų saugyklos, suskystintų gamtinių dujų terminalai ir saugyklos; magistraliniai naftotiekiai (produktotiekiai); naftos perdirbimo įrenginiai, naftos ir naftos produktų terminalai ir saugyklos, suskystintų naftos dujų įrenginiai; šilumos tiekimo tinklai ir jų technologiniai priklausiniai.
 
 
@@ -119,12 +127,18 @@ Nr. XI-2093, 2012-06-21, Žin., 2012, Nr. 76-3936 (2012-06-30)
 
 
 
-12. Energetikos valstybinė kontrolė ir priežiūra – įgaliotų valstybės institucijų atliekama energetikos objektų techninės saugos, energetikos įrenginių eksploatavimo, energijos išteklių ar energijos transportavimo, persiuntimo patikimumo ir (ar) efektyvumo kontrolė ir (ar) priežiūra.
+12. Energetikos valstybinė kontrolė ir priežiūra – įgaliotų valstybės institucijų atliekama energetikos objektų techninės saugos, energetikos įrenginių įrengimo ir (ar) eksploatavimo, energijos išteklių ar energijos transportavimo, persiuntimo patikimumo ir (ar) efektyvumo kontrolė ir (ar) priežiūra.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
+ 
 
 
 
 
-13. Energetikos veikla – ekonominė veikla, apimanti energijos išteklių ar energijos žvalgymą, gavybą, perdirbimą, gamybą, laikymą, transportavimą, perdavimą, skirstymą, tiekimą, prekybą, rinkodarą ir (ar) energetikos objektų ir įrenginių eksploatavimą.
+13. Energetikos veikla – ekonominė veikla, apimanti energijos išteklių ar energijos žvalgymą, gavybą, perdirbimą, gamybą, laikymą, transportavimą, perdavimą, skirstymą, tiekimą, prekybą, rinkodarą, energetikos objektų ir įrenginių įrengimą ir (ar) eksploatavimą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
+ 
 
 
 
@@ -708,12 +722,18 @@ Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 
 
 
-15) tvirtina šio įstatymo 28 straipsnio 1 dalyje nurodytų darbuotojų pareigybių ir profesijų sąrašą, nustato jų kvalifikacinius reikalavimus, tvirtina energetikos objektus, įrenginius statančių ir eksploatuojančių darbuotojų, kurie privalo būti atestuojami, sąrašą ir nustato šių darbuotojų kvalifikacijos tobulinimo ir atestavimo tvarką;
+15) tvirtina šio įstatymo 28 straipsnio 1 dalyje nurodytų darbuotojų pareigybių ir profesijų sąrašą, nustato jų kvalifikacinius reikalavimus, tvirtina energetikos objektus, įrenginius įrengiančių ir eksploatuojančių darbuotojų, kurie privalo būti atestuojami, sąrašą ir nustato šių darbuotojų kvalifikacijos tobulinimo ir atestavimo tvarką;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
+ 
 
 
 
 
-16) nustato asmenų, turinčių teisę eksploatuoti energetikos įrenginius, atestavimo tvarką ir sąlygas;
+16) nustato asmenų, turinčių teisę įrengti ir eksploatuoti energetikos įrenginius, atestavimo tvarką ir sąlygas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
+ 
 
 
 
@@ -723,7 +743,10 @@ Nr. XII-1533, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21290
 
 
 
-18) nustato energijos vartojimo pastatuose, įrenginiuose ir technologiniams procesams audito atlikimo tvarką ir sąlygas, tvirtina šio audito metodikas, taip pat energijos vartojimo auditą atliekančių specialistų rengimo ir atestavimo taisykles, organizuoja šio įstatymo 28 straipsnyje nurodytų energijos vartojimo auditą atliekančių specialistų atestavimą arba paskiria už tai atsakingą instituciją;
+18) nustato energijos vartojimo pastatuose, įrenginiuose ir technologiniams procesams audito atlikimo tvarką ir sąlygas, tvirtina šio audito metodikas, taip pat energijos vartojimo auditą atliekančių specialistų rengimo ir atestavimo taisykles;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1449, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11761
+ 
 
 
 
@@ -1157,7 +1180,10 @@ Nr. XII-576, 2013-11-07, Žin., 2013, Nr. 120-6048 (2013-11-23)
 3. Valstybinė energetikos inspekcija:
 
 
-1) nustatyta tvarka pagal kompetenciją išduoda atestatus energetikos įrenginiams eksploatuoti, juos keičia, sustabdo atestatų galiojimą, panaikina galiojimo sustabdymą, panaikina atestatų galiojimą ir kontroliuoja, kaip laikomasi teisės aktų nustatytų reikalavimų;
+1) neteko galios nuo 2019-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
+ 
 
 
 
@@ -1183,12 +1209,18 @@ Nr. XIII-603, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12304
 
 
 
-5) kontroliuoja, kaip laikomasi specialiųjų reikalavimų įrengiant ir rekonstruojant energetikos įrenginius, taip pat energetikos įrenginių atitiktį nustatytiems reikalavimams ir tinkamumą naudoti;
+5) Energetikos ministerijos nustatyta tvarka kontroliuoja energetikos įrenginių įrengimą;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
+ 
 
 
 
 
-6) organizuoja šio įstatymo 28 straipsnyje nurodytų energetikos darbuotojų atestavimą;
+6) organizuoja šio įstatymo 28 straipsnyje nurodytų energetikos darbuotojų, išskyrus energijos vartojimo auditą atliekančius specialistus, atestavimą;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1449, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11761
+ 
 
 
 
@@ -1293,6 +1325,104 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 
 
+
+
+
+
+131 straipsnis. Lietuvos energetikos agentūra
+
+
+1. Lietuvos energetikos agentūra yra viešoji įstaiga, kurios vienintelė savininkė yra valstybė. Lietuvos energetikos agentūra atlieka šias funkcijas:
+
+
+1) padeda Energetikos ministerijai koordinuoti Nacionalinės energetinės nepriklausomybės strategijos įgyvendinimą, Nacionalinės energetinės nepriklausomybės strategijos priemonių įgyvendinimo plano parengimą ir vykdo Nacionalinės energetinės nepriklausomybės strategijos įgyvendinimo stebėseną; 
+
+
+
+
+2) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka renka, kaupia ir sistemina energetikos sektoriaus duomenis, jų pagrindu rengia ir teikia Energetikos ministerijai energetikos sektoriaus analizę;
+
+
+
+
+3) atlieka bendrovių, kuriose Energetikos ministerija įgyvendina valstybės, kaip juridinio asmens dalyvės, teises ir pareigas, ir kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šios bendrovės visuotiniame akcininkų susirinkime, priklauso valstybei nuosavybės teise, ir jų dukterinių įmonių veiklos ir jos rezultatų analizę ir pagal kompetenciją teikia pasiūlymus Energetikos ministerijai;
+
+
+
+
+4) pagal kompetenciją teikia Energetikos ministerijai pasiūlymus, susijusius su moksliniais tyrimais ir eksperimentine plėtra energetikos ir tvarios aplinkos sektoriuje;
+
+
+
+
+5) organizuoja šio įstatymo 28 straipsnyje nurodytų energijos vartojimo auditą atliekančių specialistų atestavimą;
+
+
+
+
+6) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka vykdo atsinaujinančių išteklių energijos gamybos įrenginius montuojančių specialistų rengimo atestacijai proceso administravimą;
+
+
+
+
+7) vykdo Energetikos ministerijos, energetikos įmonių ir energijos tiekėjų susitarimų dėl energijos sutaupymo, sudarytų Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymo nustatyta tvarka, įgyvendinimo priežiūrą;
+
+
+
+
+8) teikia Energetikos ministerijai energijos vartojimo efektyvumo didinimo veiksmų plano projektą, vertina ir analizuoja valstybės institucijų, įstaigų ir energetikos įmonių pateiktus duomenis apie įdiegtų energijos vartojimo efektyvumą didinančių efektyvumo priemonių sutaupytą energiją, jų pagrindu rengia ataskaitas ir jas teikia Energetikos ministerijai; 
+
+
+
+
+9) vykdo efektyvaus energijos išteklių ir energijos vartojimo, atsinaujinančių išteklių energijos vartojimo skatinimo ir su tuo susijusius viešinimo darbus;
+
+
+
+
+10) rengia pažangos skatinant ir naudojant atsinaujinančius energijos išteklius ataskaitas ir jas teikia Energetikos ministerijai; 
+
+
+
+
+11) atlieka atsinaujinančių išteklių energijos panaudojimo transporto sektoriuje įgyvendinimo stebėseną; 
+
+
+
+
+12) atlieka, peržiūri ir (ar) atnaujina Lietuvos Respublikos teritorinės jūros, Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje tyrimus ir kitus veiksmus, kurie reikalingi Vyriausybės nutarimui dėl Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalių, kuriose tikslinga organizuoti konkursą (konkursus) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai, ir dėl atsinaujinančius energijos išteklius naudojančių elektrinių įrengtųjų galių nustatymo priimti; 
+
+
+
+
+13) kaupia ir tvarko naftos produktų ir naftos valstybės atsargas;
+
+
+
+
+14) administruoja Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą;
+
+
+
+
+15) atlieka kituose įstatymuose jai nustatytas funkcijas.
+
+
+
+
+
+
+2. Lietuvos energetikos agentūros veikla atliekant šio straipsnio 1 dalyje ir kituose įstatymuose jai nustatytas funkcijas finansuojama iš valstybės biudžeto asignavimų ir (ar) kitų lėšų.
+
+
+
+
+3. Skiriant asmenį į Lietuvos energetikos agentūros vadovo ar jo pavaduotojo pareigas, mutatis mutandis taikomos Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 17 straipsnio nuostatos.
+
+
+Papildyta straipsniu:
+Nr. XIII-1449, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11761
+ 
 
 
 
@@ -1705,9 +1835,17 @@ Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
-7) atliekant priežiūros veiksmus naftos produktų prekyba besiverčiančiose įmonėse, randama neregistruotų talpyklų, vamzdynais sujungtų su registruotomis talpyklomis, neplombuotų degalų skaitiklių, pažeistų jungčių tarp elektroninio kasos aparato ir degalų išdavimo kolonėlės, pažeistų vamzdynų jungčių tarp kuro talpyklos (talpyklų) ir degalų išdavimo kolonėlės, – licencijos, leidimo ar atestato galiojimas stabdomas nedelsiant, ne vėliau kaip per vieną dieną nuo pažeidimų nustatymo dienos.
+7) atliekant priežiūros veiksmus naftos produktų prekyba besiverčiančiose įmonėse, randama neregistruotų talpyklų, vamzdynais sujungtų su registruotomis talpyklomis, neplombuotų degalų skaitiklių, pažeistų jungčių tarp elektroninio kasos aparato ir degalų išdavimo kolonėlės, pažeistų vamzdynų jungčių tarp kuro talpyklos (talpyklų) ir degalų išdavimo kolonėlės, – licencijos, leidimo ar atestato galiojimas stabdomas nedelsiant, ne vėliau kaip per vieną dieną nuo pažeidimų nustatymo dienos;
 Papildyta straipsnio punktu:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
+
+
+
+
+8) paaiškėja, kad asmuo, kuris turi elektros įrenginių įrengimo atestatą ir (ar) gamtinių dujų įrenginių įrengimo atestatą, vykdo atestatuose nurodytą veiklą neturėdamas profesinės civilinės atsakomybės draudimo, kaip nustatyta šio įstatymo 221 straipsnyje. 
+Papildyta straipsnio punktu:
+Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
  
 
 
@@ -1784,7 +1922,10 @@ Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
 
 
 
-9. Licencijos, leidimai ir atestatai išduodami licencijas, leidimus ir atestatus išduodančios institucijos nustatyta elektronine forma, o pareiškėjo prašymu išduodami ir raštu teisės aktų nustatyta forma.
+9. Neteko galios nuo 2019-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
+ 
 
 
 
@@ -1802,99 +1943,209 @@ Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
 
 
 
-22 straipsnis. Energetikos įrenginių eksploatavimo veiklos atestatai ir reikalavimai atestatų turėtojams
+22 straipsnis. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatai ir reikalavimai atestatų turėtojams
 
 
-1. Energetikos įrenginių eksploatavimo veiklos atestatai yra šių rūšių:
+1. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatai yra šių rūšių:
 
 
-1) elektros įrenginių eksploatavimo;
-
-
-
-
-2) šilumos įrenginių ir turbinų eksploatavimo;
+1) elektros įrenginių įrengimo;
 
 
 
 
-3) gamtinių dujų įrenginių eksploatavimo;
+2) gamtinių dujų įrenginių įrengimo;
 
 
 
 
-4) suskystintų naftos dujų įrenginių eksploatavimo;
+3) elektros įrenginių eksploatavimo;
 
 
 
 
-5) naftos ir naftos produktų įrenginių eksploatavimo.
+4) šilumos įrenginių ir turbinų eksploatavimo;
+
+
+
+
+5) gamtinių dujų įrenginių eksploatavimo;
+
+
+
+
+6) suskystintų naftos dujų įrenginių eksploatavimo;
+
+
+
+
+7) naftos ir naftos produktų įrenginių eksploatavimo.
 
 
 
 
 
 
-2. Energetikos įrenginių eksploatavimo veiklos atestatai išduodami ne ilgesniam kaip penkerių metų laikotarpiui. Konkretūs atestatų galiojimo terminai ir jų nustatymo kriterijai, taip pat atestatuose įrašytų duomenų keitimo atvejai ir tvarka nustatomi šiame įstatyme ir Energetikos ministerijos patvirtintose Asmenų, turinčių teisę eksploatuoti energetikos įrenginius, atestavimo taisyklėse.
-Straipsnio dalies pakeitimai:
-Nr. XII-2650, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24690
+2. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatai, nurodyti šio straipsnio 1 dalyje, išduodami ne ilgesniam kaip penkerių metų laikotarpiui. Konkretūs atestatų galiojimo terminai ir jų nustatymo kriterijai, taip pat atestatuose įrašytų duomenų keitimo atvejai ir tvarka nustatomi šiame įstatyme ir Energetikos ministerijos patvirtintose Asmenų, turinčių teisę įrengti ir eksploatuoti energetikos įrenginius, atestavimo taisyklėse.
+
+
+
+
+3. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatai, nurodyti šio straipsnio 1 dalyje, išduodami asmenims, nurodytiems šio įstatymo 2 straipsnio 1 dalyje, jeigu jie atitinka šiuos reikalavimus:
+
+
+1) turi technologinę įrangą, prietaisus ir kitas priemones, reikalingus veiksmams, kurių reikia energetikos įrenginiams įrengti ar eksploatuoti, atlikti;
+
+
+
+
+2) turi technologinius, techninius dokumentus, kuriuose nurodyti įrengiamų, eksploatuojamų energetikos įrenginių techniniai duomenys ir įrengimo ar eksploatavimo procedūros;
+
+
+
+
+3) energetikos objektus, įrenginius įrengiantys ir eksploatuojantys inžinerinių ir darbininkų kategorijų energetikos darbuotojai, kurie įrengs ar eksploatuos energetikos įrenginius, ir energetikos įmonių vadovai arba jų įgalioti asmenys, kurie tiesiogiai vadovaus energetikos įrenginių įrengimo ar eksploatavimo darbams, turi šio įstatymo 28 straipsnyje ir kituose teisės aktuose, reglamentuojančiuose energetikos objektų, įrenginių įrengimo, eksploatavimo, techninės saugos reikalavimus, apibrėžtą kvalifikaciją ir yra atestuoti Energetikos ministerijos nustatyta tvarka;
+
+
+
+
+4) turi profesinės civilinės atsakomybės draudimą, kaip nustatyta šio įstatymo 221 straipsnyje. Šis reikalavimas taikomas tik asmenims, siekiantiems gauti šio straipsnio 1 dalies 1 ir 2 punktuose nustatytus energetikos įrenginių įrengimo veiklos atestatus.
+
+
+
+
+
+
+4. Energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatą, nurodytą šio straipsnio 1 dalyje, turintis asmuo privalo laikytis šių sąlygų:
+
+
+1) teikdamas atestate nurodytas energetikos įrenginių įrengimo ir (ar) eksploatavimo paslaugas, laikytis teisės aktuose nustatytų reikalavimų;
+
+
+
+
+2) turėti profesinės civilinės atsakomybės draudimą, kaip nustatyta šio įstatymo 221 straipsnyje. Šis reikalavimas taikomas tik asmenims, turintiems šio straipsnio 1 dalies 1 ir 2 punktuose nustatytus energetikos įrenginių įrengimo veiklos atestatus;
+TAR pastaba. Asmuo, turintis iki įstatymo Nr. XIII-1455 įsigaliojimo (2019-01-01) išduotą atestatą, suteikiantį teisę eksploatuoti elektros ir (ar) gamtinių dujų įrenginius, turi teisę vykdyti ir tokių įrenginių įrengimo veiklą iki išduoto atitinkamų energetikos įrenginių eksploatavimo veiklos atestato galiojimo pabaigos, jeigu jis atitinka Lietuvos Respublikos energetikos įstatymo 22 straipsnio 4 dalies 2 punkte nustatytą sąlygą,
+
+
+
+
+3) neturi teisės įgalioti kitus asmenis verstis atestatuose nurodyta reguliuojamąja veikla arba perduoti šią teisę pagal sutartį;
+
+
+
+
+4) teikti atestatą išdavusiai institucijai informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti;
+
+
+
+
+5) užtikrinti, kad būtų laikomasi kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir reikalavimų.
+
+
+
+
+
+
+5. Elektros įrenginių įrengimo veiklos atestatą turintiems asmenims suteikiama teisė įrengti elektros įrenginius, pagal Lietuvos Respublikos elektros energetikos įstatymą laikomus kilnojamaisiais daiktais, išskyrus elektros įrenginius ypatinguosiuose statiniuose.
+
+
+
+
+6. Gamtinių dujų įrenginių įrengimo veiklos atestatą turintiems asmenims suteikiama teisė įrengti gamtinių dujų įrenginius, pagal Lietuvos Respublikos gamtinių dujų įstatymą laikomus kilnojamaisiais daiktais, išskyrus gamtinių dujų įrenginius ypatinguosiuose statiniuose. 
+
+
+
+
+7. Šio straipsnio 1 dalyje nustatytus energetikos įrenginių įrengimo ir eksploatavimo veiklos atestatus išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina atestatų galiojimą, keičia atestatus ir energetikos įrenginių įrengimo ir eksploatavimo reguliuojamąją veiklą kontroliuoja Valstybinė energetikos inspekcija.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
  
 
 
 
 
-3. Energetikos įrenginių eksploatavimo veiklos atestatai išduodami asmenims, nurodytiems šio įstatymo 2 straipsnio 1 dalyje, jeigu jie atitinka šiuos reikalavimus:
+221 straipsnis. Energetikos įrenginių įrengimo veiklos atestatą turinčio asmens profesinės civilinės atsakomybės draudimas
 
 
-1) turi technologinę įrangą, prietaisus ir kitas priemones, reikalingus veiksmams, kurių reikia energetikos įrenginiams eksploatuoti, atlikti;
-
-
-
-
-2) turi technologinius, techninius dokumentus, kuriuose nurodyti eksploatuojamų energetikos įrenginių techniniai duomenys ir rekomenduojamos eksploatavimo procedūros;
+1. Elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turintis asmuo privalo turėti profesinės civilinės atsakomybės draudimą, atitinkantį šiame straipsnyje nustatytas sąlygas.
 
 
 
 
-3) energetikos darbuotojai, kurie eksploatuos energetikos įrenginius, ir darbų vadovai, kurie vadovaus energetikos įrenginių eksploatavimo darbams, yra reikiamos kvalifikacijos ir yra atestuoti šio įstatymo 28 straipsnyje nustatyta tvarka.
+2. Draudimo objektas yra elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens turtiniai interesai, susiję su pastarojo civiline atsakomybe, atsirandančia dėl tokio asmens veiksmais padarytos žalos užsakovui ir (ar) tretiesiems asmenims, vykdant elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklą.
 
 
-Straipsnio dalies pakeitimai:
-Nr. XII-2650, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24690
+
+
+3. Draudžiamasis įvykis yra elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens civilinės atsakomybės atsiradimas už elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiksmų (veikimo ar neveikimo), atliktų draudimo sutarties galiojimo metu, pasekmes, net jeigu šios pasekmės atsirado pasibaigus draudimo sutarčiai.
+
+
+
+
+4. Draudimo sutartis sudaroma vieniems metams, jeigu likęs elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestato galiojimo terminas yra ilgesnis negu vieni metai. Jeigu likęs elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestato galiojimo terminas yra trumpesnis negu vieni metai, draudimo sutartis sudaroma likusiam elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestato galiojimo terminui.
+
+
+
+
+5. Suėjus draudimo sutarties terminui, draudimo sutartyje nustatytais atvejais draudimo sutarties terminas gali būti automatiškai pratęstas. Pratęsimas galimas ne ilgiau kaip vieniems metams arba iki elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestato galiojimo termino pabaigos, jeigu šis terminas yra trumpesnis negu vieni metai.
+
+
+
+
+6. Šio straipsnio 5 dalyje numatytu atveju automatinis draudimo sutarties pratęsimas įsigalioja, jeigu nė viena iš draudimo sutarties šalių raštu ne vėliau kaip prieš vieną mėnesį iki draudimo sutarties termino pabaigos, o kai sutarties terminas yra trumpesnis kaip 3 mėnesiai, – prieš kitą šalių susitarimu nustatytą protingą terminą nepareiškia nesutikimo pratęsti sutartį.
+
+
+
+
+7. Automatinių draudimo sutarties termino pratęsimų skaičius nėra ribojamas. Automatinio draudimo sutarties termino pratęsimo sąlygos privalo būti draudimo sutarties šalių individualiai aptartos sudarant draudimo sutartį. 
+
+
+
+
+8. Draudimo išmoką draudikas moka nukentėjusiam užsakovui ir (ar) trečiajam asmeniui, o kai elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turintis asmuo atlygino žalą, padarytą nukentėjusiam užsakovui ir (ar) trečiajam asmeniui, draudikas moka draudimo išmoką elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčiam asmeniui.
+
+
+
+
+9. Nukentėjęs užsakovas ir (ar) trečiasis asmuo turi teisę tiesiogiai reikalauti, kad draudikas, apdraudęs atsakingo už žalą elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens civilinę atsakomybę, išmokėtų draudimo išmoką.
+
+
+
+
+10. Reikalavimą išmokėti draudimo išmoką teikiantis užsakovas ir (ar) trečiasis asmuo, ir (ar) elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turintis asmuo privalo pateikti draudikui visus turimus dokumentus ir informaciją apie draudžiamojo įvykio aplinkybes ir pasekmes, būtinus nustatant draudimo išmokos dydį. Draudiko reikalavimu šioje dalyje nurodyti asmenys taip pat privalo pateikti būtinus nustatant draudimo išmokos dydį dokumentus apie draudžiamojo įvykio aplinkybes ir pasekmes, kuriuos jis turi teisę gauti įstatymų ir kitų teisės aktų nustatyta tvarka. Draudimo sutartyje privalo būti nurodyta, kokie dokumentai yra pateiktini draudikui.
+
+
+
+
+11. Draudimo išmokos dydį nustato draudikas, atsižvelgdamas į padarytos žalos dydį. Žalos dydis nustatomas atsižvelgiant į Civilinio kodekso ir kitų teisės aktų nuostatas, įsiteisėjusį teismo sprendimą ar įsiteisėjusią teismo nutartį patvirtinti taikos sutartį civilinėje byloje pagal užsakovo ir (ar) trečiojo asmens ieškinį elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčiam asmeniui dėl žalos atlyginimo, užsakovo ir (ar) trečiojo asmens ar kitų įstaigų ir įmonių, pagal teisės aktus turinčių teisę nustatyti žalos dydį, išvadas.
+
+
+
+
+12. Jeigu draudimo sutartis buvo nutraukta ar pasibaigė anksčiau, negu nurodyta draudimo liudijime (polise), elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turintis asmuo per 10 darbo dienų nuo draudimo sutarties nutraukimo ar pasibaigimo privalo sudaryti naują draudimo sutartį. Veiklos vykdymas be galiojančios draudimo sutarties, įskaitant šioje dalyje numatytą 10 darbo dienų laikotarpį naujai draudimo sutarčiai sudaryti, laikomas veiklos vykdymu neturint teisės verstis šia veikla.
+
+
+
+
+13. Draudimo suma nustatoma draudiko ir elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens susitarimu ir nurodoma draudimo liudijime (polise). Minimali draudimo suma negali būti mažesnė kaip dešimt tūkstančių eurų metams. 
+
+
+
+
+14. Kai draudikas išmoka draudimo išmoką dėl nuostolių, lygių draudimo sumos daliai, draudiko prievolė lieka galioti iki draudimo sutarties termino pabaigos visai draudimo sumai, neatskaičiuojant iš jos sumokėtų draudimo išmokų, išskyrus atvejus, kai draudimo sutartyje nustatyta, kad draudiko prievolė lieka galioti tik likusiai draudimo sumos daliai.
+
+
+
+
+15. Kitas, negu nurodytas šiame straipsnyje, draudimo sutarties sąlygas nustato Civilinis kodeksas, Lietuvos Respublikos draudimo įstatymas, draudiko ir elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens susitarimas.
+
+
+Papildyta straipsniu:
+Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
  
-
-
-
-
-4. Energetikos įrenginių eksploatavimo veiklos atestatą turintis asmuo privalo laikytis šių sąlygų:
-
-
-1) teikdamas atestate nurodytas energetikos įrenginių eksploatavimo paslaugas, laikytis teisės aktų nustatytų reikalavimų;
-
-
-
-
-2) neturi teisės įgalioti kitus asmenis verstis atestatuose nurodyta reguliuojamąja veikla arba perduoti šią teisę pagal sutartį;
-
-
-
-
-3) teikti atestatą išdavusiai institucijai informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti;
-
-
-
-
-4) užtikrinti, kad būtų laikomasi kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir reikalavimų.
-
-
-
-
-
-
-5. Šio straipsnio 1 dalyje nurodytus energetikos įrenginių eksploatavimo veiklos atestatus išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina atestatų galiojimą, keičia atestatus ir energetikos įrenginių eksploatavimo reguliuojamąją veiklą kontroliuoja Valstybinė energetikos inspekcija.
- 
-
-
 
 
 
@@ -2599,33 +2850,45 @@ Nr. XII-576, 2013-11-07, Žin., 2013, Nr. 120-6048 (2013-11-23)
 
 
 
-28 straipsnis. Darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacija ir atestavimas
+28 straipsnis. Energetikos įmonių vadovų ar jų įgaliotų asmenų, kurie tiesiogiai vadovauja energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo veiklai, energetikos objektus, įrenginius įrengiančių ir (ar) eksploatuojančių inžinerinių ir darbininkų kategorijų energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacija ir atestavimas
 
 
-1. Energetikos objektus, įrenginius statantys ir eksploatuojantys darbuotojai ir energijos vartojimo auditą atliekantys specialistai turi būti reikiamos kvalifikacijos ir tinkamai pasirengę atlikti jiems pavestas užduotis. Energetikos objektus, įrenginius statančių ir eksploatuojančių darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacijos tobulinimo reikalavimus ir atestavimo tvarką nustato Energetikos ministerija, vadovaudamasi šiame straipsnyje nustatytais darbuotojų kvalifikaciniais reikalavimais ir atestavimo bendraisiais reikalavimais.
-
-
-
-
-2. Energetikos objektus, įrenginius statantys ir eksploatuojantys darbuotojai ir energijos vartojimo auditą atliekantys specialistai privalo atitikti nustatytus išsilavinimo, darbo stažo, įskaitant darbo stažą energetikos veiklos srityje, energetikos veiklos technologinių procesų išmanymo reikalavimus, taip pat kvalifikacinius reikalavimus. Bendruosius ir specialiuosius kvalifikacinius reikalavimus, taikomus energetikos objektus, įrenginius statantiems ir eksploatuojantiems darbuotojams ir energijos vartojimo auditą atliekantiems specialistams, nustato Energetikos ministerija.
+1. Energetikos įmonių vadovai ar jų įgalioti asmenys, kurie tiesiogiai vadovauja energetikos objektų, įrenginių įrengimo ir (ar) eksploatavimo veiklai, energetikos objektus, įrenginius įrengiantys ir (ar) eksploatuojantys inžinerinių ir darbininkų kategorijų energetikos darbuotojai (toliau – energetikos darbuotojai) ir energijos vartojimo auditą atliekantys specialistai turi būti reikiamos kvalifikacijos ir tinkamai pasirengę atlikti jiems pavestas užduotis. Energetikos darbuotojų ir energijos vartojimo auditą atliekančių specialistų kvalifikacijos tobulinimo reikalavimus ir atestavimo tvarką nustato Energetikos ministerija, vadovaudamasi šiame straipsnyje nustatytais darbuotojų bendraisiais kvalifikaciniais (išsilavinimo ir darbo patirties) reikalavimais.
 
 
 
 
-3. Valstybinės svarbos energetikos objektus eksploatuojančių energetikos įmonių vadovai ar jų įgalioti asmenys, kurie tiesiogiai vadovauja energetikos įrenginių eksploatavimo veiklai, privalo turėti atitinkamos energetikos srities aukštąjį universitetinį ar jam prilygintą išsilavinimą, ne mažesnį kaip trejų metų darbo stažą energetikos veiklos srityje, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti norminių teisės aktų, reglamentuojančių energetikos įrenginių įrengimo, eksploatavimo, techninės saugos, energetikos objektų priešgaisrinės saugos taisykles, reikalavimus. 
+2. Energijos vartojimo auditą atliekantys specialistai privalo turėti inžinerijos mokslų studijų krypčių grupės aukštąjį universitetinį arba jam prilygintą išsilavinimą, ne mažesnę kaip trejų metų praktinio darbo patirtį energijos vartojimo efektyvumo srityje, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimo, eksploatavimo, technologinių procesų vyksmo reikalavimus.
 
 
 
 
-4. Energetikos įmonių, kurios neeksploatuoja valstybinės svarbos energetikos objektų, vadovai ar jų įgalioti asmenys, kurie tiesiogiai vadovauja energetikos įrenginių eksploatavimo veiklai, privalo turėti ne žemesnį kaip aukštąjį neuniversitetinį atitinkamos energetikos srities išsilavinimą, pakankamą darbo stažą energetikos veiklos srityje, jeigu šis reikalavimas yra nustatytas pareigybės aprašyme ar nuostatuose, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti norminių teisės aktų, reglamentuojančių energetikos įrenginių įrengimo, eksploatavimo, techninės saugos, energetikos objektų priešgaisrinės saugos taisykles, reikalavimus. 
+3. Energetikos objektus, įrenginius įrengiantys ir (ar) eksploatuojantys inžinerinių kategorijų darbuotojai privalo turėti ne žemesnį kaip inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį koleginį arba jam prilygintą išsilavinimą, išskyrus Lietuvos Respublikos branduolinės energijos įstatymo nustatytą išsilavinimo reikalavimą, turėti minimalią darbo patirtį energetikos veiklos srityje, jeigu šis reikalavimas yra nustatytas pareigybės aprašyme ar nuostatuose, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimo, eksploatavimo, techninės saugos reikalavimus.
 
 
 
 
-5. Į energetikos objektus, įrenginius statančių ir eksploatuojančių darbuotojų ir energijos vartojimo auditą atliekančių specialistų mokymosi programas turi būti įtraukti ir efektyvaus energijos bei energijos išteklių vartojimo klausimai.
+4. Valstybinės svarbos energetikos objektus eksploatuojančių energetikos įmonių vadovai ar jų įgalioti asmenys, kurie tiesiogiai vadovauja energetikos objektų, įrenginių eksploatavimo veiklai, privalo turėti inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį universitetinį ar jam prilygintą išsilavinimą, ne mažesnę kaip trejų metų darbo patirtį energetikos veiklos srityje, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimo, eksploatavimo, techninės saugos reikalavimus.
+
+
+
+
+5. Energetikos įmonių, kurios neeksploatuoja valstybinės svarbos energetikos objektų, vadovai ar jų įgalioti asmenys, kurie tiesiogiai vadovauja energetikos įrenginių eksploatavimo veiklai, privalo turėti ne žemesnį kaip inžinerijos, technologijų ir (ar) fizinių mokslų studijų krypčių grupės aukštąjį koleginį arba jam prilygintą išsilavinimą, minimalią darbo patirtį energetikos veiklos srityje, jeigu šis reikalavimas yra nustatytas pareigybės aprašyme ar nuostatuose, taip pat turi periodiškai tobulinti kvalifikaciją, išmanyti teisės aktų, reglamentuojančių energetikos objektų, įrenginių įrengimo, eksploatavimo, techninės saugos reikalavimus.
+
+
+
+
+6. Specialiuosius kvalifikacinius reikalavimus, taikomus energetikos darbuotojams ir energijos vartojimo auditą atliekantiems specialistams, nustato Energetikos ministerija. Šiame straipsnyje nustatytuose bendruosiuose kvalifikaciniuose reikalavimuose, taikomuose inžinerinių kategorijų darbuotojų, energijos vartojimo auditą atliekančių specialistų ir energetikos įmonių, kurios įrengia ir (ar) eksploatuoja energetikos objektus ir (ar) įrenginius, vadovams ar jų įgaliotiems asmenims, Energetikos ministerija nurodo, kurios konkrečios aukštojo mokslo studijų krypties išsilavinimą turi turėti šie asmenys. 
+
+
+
+
+7. Valstybinė energetikos inspekcija Energetikos ministerijos nustatyta tvarka derina energetikos darbuotojų mokymosi programas, į kurias turi būti įtraukti ir efektyvaus energijos bei energijos išteklių vartojimo klausimai.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
  
-
-
 
 
 
@@ -3466,3 +3729,13 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 papildymo 30-1 straipsniu 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-997, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01009
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 33 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1449, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11761
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 6, 9 straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 9, 21, 22, 28 straipsnių pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas
