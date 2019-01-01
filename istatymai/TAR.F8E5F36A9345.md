@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F8E5F36A9345"
 
 # Lietuvos Respublikos įstatymas dėl Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaracijos
 
+Suvestinė redakcija nuo 2019-01-01
+ 
+Įstatymas paskelbtas: Žin. 1999, Nr. 11-241, i. k. 0991010ISTAIII-1021
+ 
+ 
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
  
@@ -39,13 +44,15 @@ priima šį įstatymą.
 
 
 
-1 straipsnis. Įstatymo paskirtis 
+1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaracijos statusą Lietuvos Respublikos teisės sistemoje.
+Šis įstatymas nustato Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaracijos statusą Lietuvos Respublikos teisės sistemoje ir apibrėžia jos reikšmingų sukakčių minėjimo eigą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1829, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21850
  
-
-
 
 
 
@@ -66,13 +73,20 @@ priima šį įstatymą.
 
 
 
-3 straipsnis. Lietuvos Laisvės Kovos Sąjūdžio Tarybos deklaracija 
+3 straipsnis. Lietuvos Laisvės Kovos Sąjūdžio Tarybos deklaracija
 
 
-1949 m. vasario 16 d. Lietuvos Laisvės Kovos Sąjūdžio Tarybos deklaracija yra Lietuvos valstybės teisės aktas. 
+1. 1949 m. vasario 16 d. Lietuvos Laisvės Kovos Sąjūdžio Tarybos deklaracija yra Lietuvos valstybės teisės aktas.
+
+
+
+
+2. Minint reikšmingas 1949 m. vasario 16 d. Lietuvos Laisvės Kovos Sąjūdžio Tarybos deklaracijos pasirašymo sukaktis, Lietuvos Respublikos Vyriausybė parengia Lietuvos Laisvės Kovos Sąjūdžio Tarybos deklaracijos pasirašymo sukakties minėjimo veiksmų planą ir valstybės biudžete numato lėšas parengtam veiksmų planui įgyvendinti. Reikšmingomis laikomos sukaktys: iki 100-ųjų metinių – kas 10 metų, nuo 100-ųjų metinių – kas 25 metai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1829, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21850
  
-
-
 
 
 
@@ -309,3 +323,14 @@ Lietuvos Laisvės Kovos Sąjūdžio Prezidiumo sekretorius Petras Bartkus-Žadga
 
 
 ______________
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1829, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21850
+Lietuvos Respublikos įstatymo „Dėl Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaracijos“ Nr. VIII-1021 1 ir 3 straipsnių pakeitimo įstatymas
