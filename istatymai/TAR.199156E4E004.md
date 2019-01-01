@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -32,7 +32,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo tikslas 
 
 
-1. Šio Įstatymo tikslas – užtikrinti neįgaliųjų lygias teises ir galimybes visuomenėje, nustatyti neįgaliųjų socialinės integracijos principus, apibrėžti socialinės integracijos sistemą ir jos prielaidas bei sąlygas, neįgaliųjų socialinę integraciją įgyvendinančias institucijas, neįgalumo lygio ir darbingumo lygio nustatymą, profesinės reabilitacijos paslaugų teikimą, specialiųjų poreikių nustatymo ir tenkinimo principus. 
+1. Šio Įstatymo tikslas – užtikrinti neįgaliųjų lygias teises ir galimybes visuomenėje, nustatyti neįgaliųjų socialinės integracijos principus, apibrėžti socialinės integracijos sistemą ir jos prielaidas bei sąlygas, neįgaliųjų socialinę integraciją įgyvendinančias institucijas, neįgalumo lygio, darbingumo lygio, specialiųjų poreikių lygio ir specialiųjų poreikių nustatymą bei jų tenkinimą, profesinės reabilitacijos paslaugų teikimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+ 
 
 
 
@@ -130,22 +133,41 @@ Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA
 
 
 
-12. Specialiųjų ugdymosi poreikių asmuo – asmuo, kurio galimybės dalyvauti ugdymo procese ir visuomenės gyvenime yra ribotos dėl įgimtų ar įgytų ilgalaikių sveikatos sutrikimų (neįgalumo ar darbingumo netekimo).
+12. Specialiųjų poreikių lygis – asmens, sukakusio senatvės pensijos amžių, savarankiškumo netekimo mastas, nustatomas atsižvelgiant į asmens specialiuosius poreikius. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+ 
 
 
 
 
-13. Socialinė reabilitacija – socialinio poveikio priemonių visuma, skatinanti neįgaliųjų socialinį savarankiškumą, dalyvavimo galimybių didėjimą ir veiklos ribojimo mažėjimą siekiant užtikrinti lygias teises ir galimybes dalyvauti visuomenės gyvenime.
+13. Specialiųjų ugdymosi poreikių asmuo – asmuo, kurio galimybės dalyvauti ugdymo procese ir visuomenės gyvenime yra ribotos dėl įgimtų ar įgytų ilgalaikių sveikatos sutrikimų (neįgalumo ar darbingumo netekimo).
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+ 
 
 
 
 
-14. Techninės pagalbos priemonės – bet koks neįgaliųjų naudojamas specialus ar standartinis gaminys, įrankis, įranga ar techninė sistema, padedantys išvengti, kompensuoti, sumažinti arba pašalinti sutrikusių funkcijų įtaką sveikatos būklei, asmens savarankiškumui, ugdymuisi, darbinei veiklai.
+14. Socialinė reabilitacija – socialinio poveikio priemonių visuma, skatinanti neįgaliųjų socialinį savarankiškumą, dalyvavimo galimybių didėjimą ir veiklos ribojimo mažėjimą siekiant užtikrinti lygias teises ir galimybes dalyvauti visuomenės gyvenime.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+ 
 
 
 
 
-15. Ugdymas – mokymas, lavinimas, įgūdžių, gebėjimų ir vertybinių nuostatų formavimas. 
+15. Techninės pagalbos priemonės – bet koks neįgaliųjų naudojamas specialus ar standartinis gaminys, įrankis, įranga ar techninė sistema, padedantys išvengti, kompensuoti, sumažinti arba pašalinti sutrikusių funkcijų įtaką sveikatos būklei, asmens savarankiškumui, ugdymuisi, darbinei veiklai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+ 
+
+
+
+
+16. Ugdymas – mokymas, lavinimas, įgūdžių, gebėjimų ir vertybinių nuostatų formavimas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
  
 
 
@@ -245,7 +267,9 @@ NEĮGALIŲJŲ SOCIALINĖS INTEGRACIJOS SISTEMA IR JOS PRIELAIDOS BEI SĄLYGOS
 
 
 
-2. Neįgaliųjų socialinės integracijos sistema finansuojama iš valstybės biudžeto, savivaldybių biudžetų, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo, Užimtumo fondo, Europos Sąjungos struktūrinių fondų ir kitų teisėtai įgytų lėšų. 
+2. Neįgaliųjų socialinės integracijos sistema finansuojama iš valstybės biudžeto, savivaldybių biudžetų, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo, Europos Sąjungos struktūrinių fondų ir kitų teisėtai įgytų lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1344, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11442
  
 
 
@@ -446,7 +470,10 @@ Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 14 straipsnis. Neįgaliųjų materialinės padėties garantijos
 
 
-1. Neįgaliųjų pensijų ir pašalpų dydį, jų mokėjimo tvarką, kitas sąlygas nustato Valstybinių socialinio draudimo pensijų, Valstybinių pensijų, Valstybinių šalpos išmokų įstatymai, šis Įstatymas ir kiti teisės aktai.
+1. Neįgaliųjų pensijų, išmokų ir kompensacijų dydį, jų mokėjimo tvarką, kitas sąlygas nustato Socialinio draudimo pensijų, Valstybinių pensijų, Šalpos pensijų, Ligos ir motinystės socialinio draudimo, Tikslinių kompensacijų įstatymai, šis Įstatymas ir kiti teisės aktai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+ 
 
 
 
@@ -459,32 +486,20 @@ Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 
 
-15 straipsnis. Kultūrinė veikla, kūno kultūra ir sportas
+15 straipsnis. Kultūrinė veikla ir sportas
 
 
-1. Už neįgaliųjų integravimą į kultūrinę veiklą, poilsį ir sportą ir lygių galimybių jiems dalyvauti šiose gyvenimo srityse kartu su kitais visuomenės nariais sudarymą atsako Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos ir savivaldybių institucijos. Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos iš valstybės biudžeto lėšų, savivaldybių institucijos iš savivaldybių biudžetų lėšų remia neįgaliųjų asociacijų įgyvendinamas kultūros, kūno kultūros ir sporto programas ir kitas priemones, skirtas visiems atitinkamoje savivaldybės teritorijoje gyvenantiems neįgaliesiems.
-Straipsnio dalies pakeitimai:
-Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA00XI-791
- 
+1. Už neįgaliųjų integravimą į kultūrinę veiklą, poilsį ir lygių galimybių jiems dalyvauti šiose gyvenimo srityse kartu su kitais visuomenės nariais sudarymą atsako Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos ir savivaldybių institucijos. Į šioje dalyje nurodytą veiklą įtraukiamos ir neįgaliųjų asociacijos bei kitos nevyriausybinės organizacijos. Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos iš valstybės biudžeto lėšų, savivaldybių institucijos iš savivaldybių biudžetų lėšų remia neįgaliųjų asociacijų ir kitų nevyriausybinių organizacijų įgyvendinamas kultūros programas ar projektus ir kitas priemones, skirtas visiems atitinkamoje savivaldybės teritorijoje gyvenantiems neįgaliesiems.
 
 
 
 
-2. Valstybės masto ir tarptautinius neįgaliųjų kūno kultūros ir sporto renginius organizuoja ir rengia neįgaliųjų sporto organizacijos kartu su kitomis neįgaliųjų asociacijomis. Šie renginiai remiami iš valstybės biudžeto lėšų.
-
-
-
-
-3. Už neįgaliųjų kūno kultūros ir sporto rėmimą ir organizavimą atsako Kūno kultūros ir sporto departamentas prie Lietuvos Respublikos Vyriausybės.
-
-
-
-
-4. Neįgaliųjų kūno kultūros ir sporto, kūno kultūros ir sporto organizacijų veiklos teisinius pagrindus, valstybės institucijų ir asociacijų kompetenciją neįgaliųjų kūno kultūros ir sporto srityje reglamentuoja Kūno kultūros ir sporto įstatymas ir kiti teisės aktai.
+2. Neįgaliųjų sporto sritį, valstybės ir savivaldybių biudžetų lėšų neįgaliųjų sporto programoms ar projektams skyrimą reglamentuoja Sporto įstatymas ir kiti teisės aktai. 
 
 
 Straipsnio pakeitimai:
 Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA000X-373
+Nr. XIII-1553, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17468
  
 
 
@@ -530,12 +545,18 @@ Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 
 
-5) Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Tarnyba) pagal kompetenciją dalyvauja formuojant ir įgyvendinant neįgaliųjų socialinės integracijos politiką dėl neįgalumo lygio, darbingumo lygio, profesinės reabilitacijos paslaugų poreikio ir specialiųjų poreikių nustatymo;
+5) Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Tarnyba) pagal kompetenciją dalyvauja formuojant ir įgyvendinant neįgaliųjų socialinės integracijos politiką dėl neįgalumo lygio, darbingumo lygio, profesinės reabilitacijos paslaugų poreikio, specialiųjų poreikių ir specialiųjų poreikių lygio nustatymo; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+ 
 
 
 
 
-6) savivaldybės vykdo neįgaliųjų socialinės integracijos, neįgaliųjų specialiųjų poreikių tenkinimo teikiant bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymo ir bendradarbiavimo su neįgaliųjų asociacijomis srityse veiklą ir planuoja ją savivaldybės strateginio planavimo dokumentuose;
+6) savivaldybės vykdo neįgaliųjų socialinės integracijos, neįgaliųjų specialiųjų poreikių tenkinimo vertinant asmens savarankiškumą kasdienėje veikloje ir teikiant bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymo ir bendradarbiavimo su neįgaliųjų asociacijomis srityse veiklą ir planuoja ją savivaldybės strateginio planavimo dokumentuose; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+ 
 
 
 
@@ -577,30 +598,24 @@ Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 
 KETVIRTASIS SKIRSNIS
-NEĮGALUMO LYGIO IR DARBINGUMO LYGIO NUSTATYMAS, PROFESINĖS REABILITACIJOS PASLAUGŲ TEIKIMAS, REABILITACIJOS PAŠALPA IR GINČŲ SPRENDIMAS
+NEĮGALUMO LYGIO, DARBINGUMO LYGIO, SPECIALIŲJŲ POREIKIŲ LYGIO, SPECIALIOJO NUOLATINĖS SLAUGOS POREIKIO, SPECIALIOJO NUOLATINĖS PRIEŽIŪROS (PAGALBOS) POREIKIO, SPECIALIOJO LENGVOJO AUTOMOBILIO ĮSIGIJIMO IR JO TECHNINIO PRITAIKYMO IŠLAIDŲ KOMPENSACIJOS POREIKIO NUSTATYMAS, PROFESINĖS REABILITACIJOS PASLAUGŲ TEIKIMAS, PROFESINĖS REABILITACIJOS IŠMOKA IR GINČŲ SPRENDIMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
  
 
 
-18 straipsnis. Neįgalumo lygį ir darbingumo lygį nustatanti įstaiga
+18 straipsnis. Neįgalumo lygį, darbingumo lygį, specialiųjų poreikių lygį, specialųjį nuolatinės slaugos poreikį, specialųjį nuolatinės priežiūros (pagalbos) poreikį, specialųjį lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikį nustatanti įstaiga
 
 
-1. Neįgalumo lygį ir darbingumo lygį nustato Tarnyba.
-Straipsnio dalies pakeitimai:
-Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
- 
+1. Neįgalumo lygį, darbingumo lygį, specialiųjų poreikių lygį, specialųjį nuolatinės slaugos poreikį, specialųjį nuolatinės priežiūros (pagalbos) poreikį, specialųjį lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikį nustato Tarnyba.
 
 
 
 
-2. Tarnybos nuostatus tvirtina Socialinės apsaugos ir darbo ministerija.
+2. Tarnyba priima sprendimus dėl: 
 
 
-
-
-3. Tarnyba priima sprendimus dėl: 
-
-
-1) neįgalumo lygio, jo priežasties, atsiradimo laiko, termino; 
+1) neįgalumo lygio, jo atsiradimo laiko, termino; 
 
 
 
@@ -620,19 +635,24 @@ Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 
 
-5) bendro pirminio neįgaliųjų specialiųjų poreikių nustatymo;
+5) specialiojo nuolatinės slaugos poreikio, specialiojo nuolatinės priežiūros (pagalbos) poreikio, specialiojo lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikio ir šių poreikių terminų nustatymo;
 
 
 
 
-6) netekto darbingumo procentų.
-Papildyta straipsnio punktu:
-Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
+6) netekto darbingumo procentų;
+
+
+
+
+7) specialiųjų poreikių lygio ir jo termino nustatymo. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
  
-
-
-
-
 
 
 
@@ -645,7 +665,25 @@ Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA0
 
 
 
-2. Neįgalumas gali būti trijų lygių – sunkus, vidutinis ir lengvas.
+2. Neįgalumas gali būti trijų lygių:
+
+
+1) sunkus neįgalumas – asmens būklė, kai dėl ligos, traumos, sužalojimo, įgimtų arba vaikystėje įgytų sveikatos sutrikimų, aplinkos veiksnių neigiamo poveikio visiškai neįgyjamas asmens amžių atitinkantis savarankiškumas, yra žymiai sumažėjusios galimybės ugdytis ir asmeniui būtina nuolatinė slauga ar priežiūra (pagalba);
+
+
+
+
+2) vidutinis neįgalumas – asmens būklė, kai dėl ligos, traumos, sužalojimo, įgimtų arba vaikystėje įgytų sveikatos sutrikimų, aplinkos veiksnių neigiamo poveikio iš dalies neįgyjamas asmens amžių atitinkantis savarankiškumas, yra sumažėjusios galimybės ugdytis ir asmeniui reikia nuolatinės priežiūros (pagalbos);
+
+
+
+
+3) lengvas neįgalumas – asmens būklė, kai dėl ligos, traumos, sužalojimo, įgimtų arba vaikystėje įgytų sveikatos sutrikimų, aplinkos veiksnių neigiamo poveikio yra nežymiai sumažėjusios asmens galimybės būti savarankiškam ir ugdytis. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+ 
 
 
 
@@ -683,7 +721,9 @@ Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010IST
 
 
 
-5. Neįgalumo lygio nustatymo kriterijus ir tvarką nustato Sveikatos apsaugos ministerija kartu su Socialinės apsaugos ir darbo ministerija bei Švietimo ir mokslo ministerija. 
+5. Neįgalumo lygio nustatymo kriterijus ir tvarką nustato sveikatos apsaugos ministras kartu su socialinės apsaugos ir darbo ministru bei švietimo ir mokslo ministru. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
  
@@ -706,7 +746,10 @@ Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010IST
 
 
 
-3. Darbingumo lygis dėl nelaimingo atsitikimo darbe ar profesinės ligos nustatomas asmenims neatsižvelgiant į jų amžių Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. 
+3. Darbingumo lygis dėl nelaimingo atsitikimo darbe (tarnyboje), pakeliui į darbą (tarnybą) ar iš darbo (tarnybos) arba susirgimo profesine liga nustatomas asmenims neatsižvelgiant į jų amžių. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+ 
 
 
 
@@ -726,28 +769,10 @@ Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010IST
 
 
 
-7. Darbingumas įvertinamas procentais ir jo lygis nustatomas 5 punktų intervalais, t. y.:
-
-
-1) jei asmeniui nustatoma 0–25 procentų darbingumo, asmuo laikomas nedarbingu, t. y. asmuo negali dirbti arba gali dirbti tik pagal negalios pobūdį pritaikytoje darbo vietoje ar pritaikytomis darbo sąlygomis; 
-Straipsnio punkto pakeitimai:
-Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
+7. Darbingumas įvertinamas procentais, jo lygis nustatomas 5 punktų intervalais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
  
-
-
-
-
-2) jei asmeniui nustatoma 30–55 procentų darbingumo, asmuo laikomas iš dalies darbingu, t. y. asmuo gali dirbti pagal negalios pobūdį pritaikytoje darbo vietoje arba jam nebūtina pritaikyti darbo vietos; 
-Straipsnio punkto pakeitimai:
-Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
- 
-
-
-
-
-3) jei asmeniui nustatoma 60–100 procentų darbingumo, asmuo laikomas darbingu.
-
-
 
 
 
@@ -790,12 +815,177 @@ Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010IST
 
 
 
-9. Darbingumo lygio nustatymo kriterijus ir tvarką nustato Socialinės apsaugos ir darbo ministerija kartu su Sveikatos apsaugos ministerija. 
+9. Darbingumo lygio nustatymo kriterijus ir tvarką nustato socialinės apsaugos ir darbo ministras kartu su sveikatos apsaugos ministru. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010ISTA0XII-355
  
 
 
+
+
+
+
+201 straipsnis. Specialiųjų poreikių rūšys, specialiųjų poreikių ir specialiųjų poreikių lygio nustatymas 
+
+
+1. Specialieji poreikiai nustatomi neatsižvelgiant į asmens amžių, neįgalumo lygį ar darbingumo lygį. Nustatomi šių rūšių specialieji poreikiai:
+
+
+1) nuolatinės slaugos;
+
+
+
+
+2) nuolatinės priežiūros (pagalbos);
+
+
+
+
+3) lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos;
+
+
+
+
+4) ugdymo;
+
+
+
+
+5) techninės pagalbos priemonių;
+
+
+
+
+6) aplinkos ir būsto pritaikymo.
+
+
+
+
+
+
+2. Specialieji poreikiai nustatomi kompleksiškai vertinant asmens sveikatos būklę ir galimybes būti savarankiškam kasdienėje veikloje. Specialiųjų nuolatinės slaugos, nuolatinės priežiūros (pagalbos) bei lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikių nustatymo tvarką nustato socialinės apsaugos ir darbo ministras kartu su sveikatos apsaugos ministru. Specialiojo ugdymo poreikio nustatymo ir tenkinimo tvarką nustato švietimo ir mokslo ministras. Specialiųjų techninės pagalbos priemonių, aplinkos ir būsto pritaikymo poreikių nustatymo ir tenkinimo tvarką nustato socialinės apsaugos ir darbo ministras.
+
+
+
+
+3. Specialieji nuolatinės slaugos poreikiai gali būti dviejų lygių:
+
+
+1) pirmojo lygio specialusis nuolatinės slaugos poreikis – nustatomas asmeniui, kuriam dėl pastovaus, negrįžtamo organizmo funkcijų sutrikimo išsivysto negalia, visiškai apribojanti jo savarankiškumą, galimybes orientuotis, judėti, ir kuriam reikalinga nuolatinė 8 valandų per parą ar ilgesnės trukmės slauga;
+
+
+
+
+2) antrojo lygio specialusis nuolatinės slaugos poreikis – nustatomas asmeniui, kuriam dėl pastovaus, negrįžtamo organizmo funkcijų sutrikimo išsivysto negalia, žymiai apribojanti jo savarankiškumą, galimybes orientuotis, judėti, ir kuriam reikalinga nuolatinė 6–7 valandų per parą slauga.
+
+
+
+
+
+
+4. Specialieji nuolatinės priežiūros (pagalbos) poreikiai gali būti dviejų lygių:
+
+
+1) pirmojo lygio specialusis nuolatinės priežiūros (pagalbos) poreikis – nustatomas asmeniui, kuriam dėl pastovaus, negrįžtamo organizmo funkcijų sutrikimo išsivysto negalia, iš dalies apribojanti jo savarankiškumą ir dalyvavimą visuomenės gyvenime, ir kuriam reikalinga nuolatinė 4–5 valandų per parą kitų asmenų teikiama pagalba;
+
+
+
+
+2) antrojo lygio specialusis nuolatinės priežiūros (pagalbos) poreikis – nustatomas asmeniui, kuriam dėl pastovaus, negrįžtamo organizmo funkcijų sutrikimo išsivysto negalia, nežymiai apribojanti jo savarankiškumą ir dalyvavimą visuomenės gyvenime, ir kuriam reikalinga nuolatinė ne ilgesnė negu 3 valandų per parą kitų asmenų atliekama priežiūra (pagalba).
+
+
+
+
+
+
+5. Asmeniui, kurio judėjimo funkcijų sutrikimas pastovus ir negrįžtamas, nustatomas specialusis lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikis.
+
+
+
+
+6. Kartu su specialiuoju lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikiu asmeniui gali būti nustatytas antrojo lygio specialusis nuolatinės slaugos poreikis arba pirmojo ar antrojo lygio specialusis nuolatinės priežiūros (pagalbos) poreikis, jeigu šio asmens organizmo funkcijų sutrikimai atitinka antrojo lygio specialiojo nuolatinės slaugos arba pirmojo lygio specialiojo nuolatinės priežiūros (pagalbos) ar antrojo lygio specialiojo nuolatinės priežiūros (pagalbos) poreikių nustatymo kriterijus.
+
+
+
+
+7. Specialusis nuolatinės slaugos poreikis, specialusis nuolatinės priežiūros (pagalbos) poreikis nustatomi tokiais terminais:
+
+
+1) 6 mėnesiams, kai specialusis nuolatinės slaugos poreikis, specialusis nuolatinės priežiūros (pagalbos) poreikis vertinami pirmą kartą ir prognozuojamas asmens sveikatos būklės ar savarankiškumo kasdienėje veikloje pasikeitimas per artimiausius 6 mėnesius;
+
+
+
+
+2) vieniems metams, kai specialusis nuolatinės slaugos poreikis, specialusis nuolatinės priežiūros (pagalbos) poreikis vertinami pirmą kartą ir (ar) prognozuojamas asmens sveikatos būklės ar savarankiškumo kasdienėje veikloje pasikeitimas per artimiausius 12 mėnesių;
+
+
+
+
+3) 2 metams, kai prognozuojamas asmens sveikatos būklės ar savarankiškumo kasdienėje veikloje pasikeitimas per artimiausius 24 mėnesius;
+
+
+
+
+4) neterminuotai, kai neprognozuojamas asmens sveikatos būklės, savarankiškumo kasdienėje veikloje pasikeitimas ir (ar) asmens sveikatos sutrikimai yra nuolatinio, nekintamo pobūdžio.
+
+
+
+
+
+
+8. Specialusis lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikis nustatomas tokiais terminais:
+
+
+1) 6 metams, kai nustatomas specialusis lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikis ir prognozuojamas asmens sveikatos būklės pasikeitimas per artimiausius 72 mėnesius;
+
+
+
+
+2) neterminuotai, kai neprognozuojamas asmens sveikatos būklės, savarankiškumo kasdienėje veikloje pasikeitimas ir (ar) asmens sveikatos sutrikimai yra nuolatinio, nekintamo pobūdžio.
+
+
+
+
+
+
+9. Specialiųjų poreikių lygis nustatomas asmenims, sukakusiems senatvės pensijos amžių.
+
+
+
+
+10. Gali būti nustatomi trys specialiųjų poreikių lygiai:
+
+
+1) didelių specialiųjų poreikių lygis - nustatomas asmenims, kuriems nustatytas pirmojo ar antrojo lygio specialusis nuolatinės slaugos poreikis;
+
+
+
+
+2) vidutinių specialiųjų poreikių lygis - nustatomas asmenims, kuriems nustatytas pirmojo lygio specialusis nuolatinės priežiūros (pagalbos) poreikis;
+
+
+
+
+3) nedidelių specialiųjų poreikių lygis - nustatomas asmenims, kuriems nustatytas antrojo lygio specialusis nuolatinės priežiūros (pagalbos) poreikis.
+
+
+
+
+
+
+11. Specialiųjų poreikių lygis nustatomas šio straipsnio 7 dalyje nurodytais terminais. Specialiųjų poreikių lygio nustatymo tvarką nustato socialinės apsaugos ir darbo ministras.
+
+
+
+
+12. Specialiojo nuolatinės slaugos, specialiojo nuolatinės priežiūros (pagalbos), specialiojo lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikių nustatymo kriterijus ir tvarką nustato socialinės apsaugos ir darbo ministras kartu su sveikatos apsaugos ministru. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+ 
 
 
 
@@ -808,7 +998,10 @@ Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010IST
 
 
 
-2. Profesinės reabilitacijos paslaugų poreikio nustatymo kriterijus, profesinės reabilitacijos paslaugų teikimo bei finansavimo taisykles tvirtina Socialinės apsaugos ir darbo ministerija. 
+2. Profesinės reabilitacijos paslaugų poreikio nustatymo kriterijus, profesinės reabilitacijos paslaugų teikimo ir finansavimo taisykles tvirtina socialinės apsaugos ir darbo ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+ 
 
 
 
@@ -818,50 +1011,50 @@ Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010IST
 
 
 
-4. Profesinės reabilitacijos paslaugų teikimas finansuojamas iš valstybės biudžeto, Užimtumo fondo ir kitų lėšų.
- 
-
-
-
-
-
-
-22 straipsnis. Profesinės reabilitacijos pašalpa
-
-
-1. Kai asmuo, dalyvaujantis profesinės reabilitacijos programoje, yra draudžiamas visų rūšių valstybiniu socialiniu draudimu, jam iš Valstybinio socialinio draudimo fondo biudžeto lėšų mokama profesinės reabilitacijos pašalpa. Jos dydis ir mokėjimo tvarka nustatyti Ligos ir motinystės socialinio draudimo įstatyme.
-
-
-
-
-2. Kai asmuo, dalyvaujantis profesinės reabilitacijos programoje, nedraudžiamas valstybiniu socialiniu draudimu arba draudžiamas tik valstybiniu socialiniu pensijų draudimu, jam Lietuvos Respublikos Vyriausybės nustatyta tvarka iš valstybės biudžeto lėšų mokama dviejų valstybinių socialinio draudimo bazinių pensijų dydžio profesinės reabilitacijos pašalpa.
-
-
-
-
-3. Teisę gauti profesinės reabilitacijos pašalpą turi asmenys, kuriems Tarnyba nustatė profesinės reabilitacijos paslaugų poreikį ir kurie dalyvauja profesinės reabilitacijos programoje. 
-
-
-
-
-4. Profesinės reabilitacijos pašalpa asmeniui skiriama nuo pirmos dalyvavimo profesinės reabilitacijos programoje dienos ir mokama kiekvieną mėnesį, bet ne ilgiau kaip 180 kalendorinių dienų. Ši pašalpa skiriama ir mokama neatsižvelgiant į kitas asmens gaunamas pajamas.
-TAR pastaba. 4 dalies nuostatos netaikomos asmenims, kuriems profesinės reabilitacijos pašalpa paskirta iki įstatymo Nr. XI-791 įsigaliojimo (2010-07-01).
+4. Profesinės reabilitacijos paslaugų teikimas finansuojamas iš valstybės biudžeto, Europos Sąjungos struktūrinių fondų ir kitų teisėtai įgytų lėšų. 
 Straipsnio dalies pakeitimai:
-Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA00XI-791
+Nr. XIII-1344, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11442
  
 
 
 
 
-5. Sprendimą dėl profesinės reabilitacijos pašalpos mokėjimo priima šią pašalpą skirianti ir mokanti institucija, vadovaudamasi Tarnybos sprendimu dėl profesinės reabilitacijos paslaugų poreikio. 
+
+
+22 straipsnis. Profesinės reabilitacijos išmoka
+
+
+1. Kai asmuo, dalyvaujantis profesinės reabilitacijos programoje, yra draudžiamas visų rūšių valstybiniu socialiniu draudimu, jam iš Valstybinio socialinio draudimo fondo biudžeto lėšų mokama profesinės reabilitacijos išmoka. Jos dydis ir mokėjimo tvarka nustatyti Ligos ir motinystės socialinio draudimo įstatyme.
 
 
 
 
-6. Pasibaigus profesinės reabilitacijos programai, Tarnyba priima sprendimą dėl asmens darbingumo lygio.
+2. Kai asmuo, dalyvaujantis profesinės reabilitacijos programoje, nedraudžiamas valstybiniu socialiniu draudimu arba draudžiamas tik valstybiniu socialiniu pensijų draudimu, jam Lietuvos Respublikos Vyriausybės nustatyta tvarka iš valstybės biudžeto lėšų mokama dviejų valstybinių socialinio draudimo bazinių pensijų dydžio profesinės reabilitacijos išmoka.
+
+
+
+
+3. Teisę gauti profesinės reabilitacijos išmoką turi asmenys, kuriems Tarnyba nustatė profesinės reabilitacijos paslaugų poreikį ir kurie dalyvauja profesinės reabilitacijos programoje. 
+
+
+
+
+4. Profesinės reabilitacijos išmoka asmeniui skiriama nuo pirmos dalyvavimo profesinės reabilitacijos programoje dienos ir mokama kiekvieną mėnesį, bet ne ilgiau kaip 180 kalendorinių dienų. Ši išmoka skiriama ir mokama neatsižvelgiant į kitas asmens gaunamas pajamas.
+
+
+
+
+5. Sprendimą dėl profesinės reabilitacijos išmokos mokėjimo priima šią išmoką skirianti ir mokanti institucija, vadovaudamasi Tarnybos sprendimu dėl profesinės reabilitacijos paslaugų poreikio. 
+
+
+
+
+6. Pasibaigus profesinės reabilitacijos programai, Tarnyba priima sprendimą dėl asmens darbingumo lygio. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
  
-
-
 
 
 
@@ -879,7 +1072,10 @@ Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA
 
 
 
-3. Komisijos pirmininką ir Komisijos narius 5 metams skiria į pareigas ir atleidžia iš jų socialinės apsaugos ir darbo ministras. Komisijos pirmininku ir Komisijos nariu gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis.
+3. Komisijos pirmininką ir Komisijos narius 5 metams skiria į pareigas ir atleidžia iš jų socialinės apsaugos ir darbo ministras. Komisijos pirmininkas ir Komisijos nariai į pareigas atrenkami konkurso būdu socialinės apsaugos ir darbo ministro nustatyta tvarka. Komisijos pirmininku ir Komisijos nariu gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis teisės ar sveikatos mokslų magistro kvalifikacinį laipsnį arba jį atitinkantį aukštąjį išsilavinimą ir ne mažesnę kaip 3 metų darbo patirtį pagal šioje dalyje nurodytą išsilavinimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+ 
 
 
 
@@ -927,7 +1123,10 @@ Nr. X-1778, 2008-11-06, Žin., 2008, Nr. 131-5028 (2008-11-15), i. k. 1081010IST
 
 
 
-7. Pasibaigus įgaliojimų laikui, Komisijos pirmininkas ir Komisijos nariai pareigas eina, kol paskiriami nauji nariai.
+7. Komisijos pirmininkas ir Komisijos nariai gali būti skiriami į tas pačias pareigas ne daugiau kaip dvi kadencijas iš eilės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+ 
 
 
 
@@ -995,65 +1194,26 @@ Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA
 
 
 PENKTASIS SKIRSNIS
-SPECIALIŲJŲ POREIKIŲ NUSTATYMAS IR TENKINIMAS
+SPECIALIŲJŲ POREIKIŲ TENKINIMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
  
 
 
-24 straipsnis. Specialiųjų poreikių ir jų lygio nustatymas ir specialiųjų poreikių tenkinimas
+24 straipsnis. Specialiųjų poreikių tenkinimas
 
 
-1. Specialieji neįgaliųjų poreikiai ir jų lygis nustatomi ir specialieji poreikiai tenkinami neatsižvelgiant į neįgaliųjų amžių, neįgalumo lygį ar darbingumo lygį ir siekiant užtikrinti lygias teises ir galimybes visose gyvenimo srityse.
-
-
-
-
-2. Specialieji poreikiai ir jų lygis nustatomi tokiose pagrindinėse neįgaliųjų veiklos srityse: buityje ir asmeniniame gyvenime, ugdymo srityje, darbinėje veikloje, visuomeniniame gyvenime.
+1. Neįgaliųjų specialieji poreikiai tenkinami neatsižvelgiant į neįgaliųjų amžių, neįgalumo lygį ar darbingumo lygį ir siekiant užtikrinti lygias teises ir galimybes visose gyvenimo srityse.
 
 
 
 
-3. Specialieji poreikiai gali būti nustatomi tokiais terminais:
-
-
-1) 6 mėnesiams, kai specialieji poreikiai vertinami pirmą kartą ir prognozuojamas greitas asmens sveikatos būklės pasikeitimas, darantis įtaką asmens savarankiškumui, per artimiausius 6 mėnesius;
-
-
-
-
-2) vieniems metams, kai specialieji poreikiai vertinami pirmą kartą ir (ar) prognozuojamas asmens sveikatos būklės pasikeitimas, darantis įtaką asmens savarankiškumui, per artimiausius 12 mėnesių;
-
-
-
-
-3) 2 metams, kai prognozuojamas asmens sveikatos būklės pasikeitimas, darantis įtaką asmens savarankiškumui, per artimiausius 24 mėnesius;
-
-
-
-
-4) 6 metams, kai vertinamas lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikis ir prognozuojamas asmens sveikatos būklės pasikeitimas per artimiausius 72 mėnesius;
-
-
-
-
-5) neterminuotai, kai asmens sveikatos sutrikimai yra nuolatinio, nekintančio pobūdžio. 
-
-
-Papildyta straipsnio dalimi:
-TAR pastaba. Specialiųjų poreikių ir specialiųjų poreikių lygio terminai, nustatyti iki įstatymo Nr. XII-2658 įsigaliojimo (2016-10-07), galioja iki nustatyto termino pabaigos.  Jeigu nustatant specialiuosius poreikius specialiųjų poreikių terminas nenustatytas, jis turi būti nustatytas per 180 dienų įsigaliojus įstatymui Nr. XII-2658 , termino pradžią skaičiuojant nuo specialiųjų poreikių nustatymo dienos. Specialiųjų poreikių terminas nustatomas asmeniui nedalyvaujant. Apie nustatytą specialiųjų poreikių terminą per 5 dienas nuo sprendimo dėl specialiųjų poreikių nustatymo termino priėmimo dienos informuojamas asmuo, kuriam nustatyti specialieji poreikiai, ir tikslines kompensacijas mokančios institucijos.
-Nr. XII-2658, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24700
- 
-
-
-
-
-4. Specialiųjų poreikių ir jų lygio nustatymo, specialiųjų poreikių tenkinimo tvarką ir sąlygas nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2658, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24700
- 
+2. Specialieji poreikiai tenkinami šiose neįgaliųjų veiklos srityse: buityje ir asmeniniame gyvenime, ugdymo srityje, darbinėje veikloje, visuomeniniame gyvenime. 
 
 
 Straipsnio pakeitimai:
 Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA000X-373
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
  
 
 
@@ -1277,7 +1437,6 @@ Nr. I-2044
 
 
 
- 
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 
 priedas
  
@@ -1415,3 +1574,18 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-952, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21663
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 9 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1, 2, 14, 16, 18, 19, 20, 21, 22, 23, 24 straipsnių, ketvirtojo ir penktojo skirsnių pavadinimų pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1344, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11442
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 5 ir 21 straipsnių pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1553, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17468
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 15 straipsnio pakeitimo įstatymas
