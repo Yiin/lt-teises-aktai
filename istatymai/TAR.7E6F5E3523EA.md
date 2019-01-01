@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E6F5E3523EA"
 
 # Lietuvos Respublikos triukšmo valdymo įstatymas
 
-Suvestinė redakcija nuo 2016-11-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 164-5971, i. k. 1041010ISTA0IX-2499
  
@@ -1374,14 +1374,18 @@ TRIUKŠMO KONTROLĖ
 
 
 
-4. Orlaivių keliamo triukšmo pažymėjimą Susisiekimo ministerijos nustatyta tvarka išduoda Civilinės aviacijos administracija, įsitikinusi, kad orlaivio duomenys atitinka teisės aktų ir Tarptautinės civilinės aviacijos organizacijos standartų reikalavimus.
+4. Orlaivių keliamo triukšmo pažymėjimą Susisiekimo ministerijos nustatyta tvarka išduoda Transporto kompetencijų agentūra, įsitikinusi, kad orlaivio duomenys atitinka teisės aktų ir Tarptautinės civilinės aviacijos organizacijos standartų reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1566, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17486
+ 
 
 
 
 
-5. Orlaivių keliamo triukšmo stebėsenos (monitoringo) sistemos privalo turėti galimybę nenutrūkstamai stebėti triukšmo lygius dieną ir naktį ne mažiau kaip tris paras iš eilės. Stebėjimo vietų ir stebėjimo taškų skaičių bei stebėjimo tvarką nustato Civilinės aviacijos administracija.
+5. Orlaivių keliamo triukšmo stebėsenos (monitoringo) sistemos privalo turėti galimybę nenutrūkstamai stebėti triukšmo lygius dieną ir naktį ne mažiau kaip tris paras iš eilės. Stebėjimo vietų ir stebėjimo taškų skaičių bei stebėjimo tvarką nustato Lietuvos transporto saugos administracija. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
+Nr. XIII-1566, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17486
  
 
 
@@ -1747,3 +1751,8 @@ Lietuvos Respublikos triukšmo valdymo įstatymo 13 straipsnio pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
 Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 2, 5, 7, 8, 9, 11, 13, 14, 17, 18, 24, 26, 27, 29 straipsnių pakeitimo ir 19, 20 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1566, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17486
+Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 24 straipsnio pakeitimo įstatymas
