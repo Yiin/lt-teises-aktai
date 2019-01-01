@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EEC13A0B85BA"
 
 # Lietuvos Respublikos socialinių įmonių įstatymas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3519, i. k. 1041010ISTA0IX-2251
  
@@ -304,7 +304,10 @@ Nr. XII-2467, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18823
 
 5. Subsidijos dydis neįgalaus darbuotojo, kuriam nustatytas 45–55 procentų darbingumo lygis ar lengvas neįgalumo lygis arba nedidelių specialiųjų poreikių lygis, darbo vietai įsteigti ar pritaikyti ir jo darbo priemonėms įsigyti ar pritaikyti sudaro 65 procentus visų tam tikslui reikalingų išlaidų.
 
-6. Subsidija neįgalaus darbuotojo darbo vietai įsteigti ar pritaikyti ir jo darbo priemonėms įsigyti ar pritaikyti negali būti didesnė kaip 40 subsidijos skyrimo mėnesį galiojančios Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžių.
+6. Subsidija neįgalaus darbuotojo darbo vietai įsteigti ar pritaikyti ir jo darbo priemonėms įsigyti ar pritaikyti negali būti didesnė kaip 31,03 subsidijos skyrimo mėnesį galiojančios Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1346, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11446
+ 
 
 7. Darbdavys į atsilaisvinusią darbo vietą, kurioje dirbo šio įstatymo 4 straipsnio 1 dalies 1 punkte nurodytai tikslinei asmenų grupei priklausantis darbuotojas ir kuriai įsteigti buvo skirta valstybės pagalba, per 30 darbo dienų nuo šio įstatymo 4 straipsnio 1 dalies 1 punkte nurodytai tikslinei asmenų grupei priklausančio darbuotojo atleidimo dienos privalo priimti kitą socialinėje įmonėje nedirbantį ir šiai tikslinei asmenų grupei priklausantį darbuotoją. Jeigu per nurodytą laikotarpį į atsilaisvinusią darbo vietą, kuriai įsteigti buvo skirta valstybės pagalba, neįdarbinamas kitas socialinėje įmonėje nedirbantis ir šiai tikslinei asmenų grupei priklausantis darbuotojas, laikoma, kad socialinė įmonė panaikino darbo vietą, kuriai įsteigti buvo skirta subsidija.
  
@@ -335,7 +338,9 @@ Nr. XII-2043, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18857
 
 1. Siekiant kompensuoti neįgaliųjų socialinių įmonių išlaidas, skirtas kliūtims, susidarančioms dėl neįgalaus darbuotojo negalios ir trukdančioms darbuotojui patekti į darbo vietą ar įmonėje esančias poilsio patalpas, pašalinti, skiriama subsidija neįgalių darbuotojų darbo aplinkai, gamybinėms ir poilsio patalpoms pritaikyti. 
 
-2. Subsidija šio straipsnio 1 dalyje nurodytoms išlaidoms kompensuoti už kiekvieną neįgalų darbuotoją, kuriam nustatytas sunkus neįgalumo lygis ar neviršijantis 25 procentų darbingumo lygis arba didelių specialiųjų poreikių lygis sudaro 80 procentų; už kiekvieną neįgalų darbuotoją, kuriam nustatytas vidutinis neįgalumo lygis ar 30–40 procentų darbingumo lygis arba vidutinių specialiųjų poreikių lygis – 70 procentų šių išlaidų sumos. Subsidija vieno neįgalaus darbuotojo darbo aplinkai, gamybinėms ir poilsio patalpoms pritaikyti negali būti didesnė kaip 6 subsidijos skyrimo mėnesį galiojančios Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžiai ir negali būti skiriama dažniau kaip kartą per 36 mėnesius.
+2. Subsidija šio straipsnio 1 dalyje nurodytoms išlaidoms kompensuoti už kiekvieną neįgalų darbuotoją, kuriam nustatytas sunkus neįgalumo lygis ar neviršijantis 25 procentų darbingumo lygis arba didelių specialiųjų poreikių lygis sudaro 80 procentų; už kiekvieną neįgalų darbuotoją, kuriam nustatytas vidutinis neįgalumo lygis ar 30–40 procentų darbingumo lygis arba vidutinių specialiųjų poreikių lygis – 70 procentų šių išlaidų sumos. Subsidija vieno neįgalaus darbuotojo darbo aplinkai, gamybinėms ir poilsio patalpoms pritaikyti negali būti didesnė kaip 4,65 subsidijos skyrimo mėnesį galiojančios Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio ir negali būti skiriama dažniau kaip kartą per 36 mėnesius.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1346, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11446
  
 
 18 straipsnis. Subsidija papildomoms administracinėms ir transporto išlaidoms 
@@ -351,7 +356,9 @@ Nr. XII-2043, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18857
 
 1. Jeigu sunkų ar vidutinį neįgalumo lygį turintiems neįgaliems darbuotojams, kuriems nustatytas neviršijantis 40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, darbo funkcijoms atlikti būtina asistento (gestų kalbos vertėjo) pagalba, neįgaliųjų socialinei įmonei skiriama subsidija asistento (gestų kalbos vertėjo) išlaidoms.
 
-2. Šio straipsnio 1 dalyje nurodyta subsidija sudaro 40 procentų subsidijos skyrimo mėnesį galiojančio Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio už kiekvieną sunkų ar vidutinį neįgalumo lygį turintį neįgalų darbuotoją ar neįgalų darbuotoją, kuriam nustatytas neviršijantis 25 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, ir 20 procentų už kiekvieną neįgalų darbuotoją, kuriam nustatytas 30–40 procentų darbingumo lygis, atsižvelgiant į neįgalaus darbuotojo faktiškai dirbtą laiką.
+2. Šio straipsnio 1 dalyje nurodyta subsidija sudaro 31,03 procento subsidijos skyrimo mėnesį galiojančio Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio už kiekvieną sunkų ar vidutinį neįgalumo lygį turintį neįgalų darbuotoją ar neįgalų darbuotoją, kuriam nustatytas neviršijantis 25 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, ir 15,52 procento už kiekvieną neįgalų darbuotoją, kuriam nustatytas 30–40 procentų darbingumo lygis, atsižvelgiant į neįgalaus darbuotojo faktiškai dirbtą laiką.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1346, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11446
  
 
 20 straipsnis. Valstybės pagalbos skyrimo ir mokėjimo tvarka
@@ -539,4 +546,14 @@ Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 14 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-942, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21628
 Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 4, 6, 7, 14 ir 26 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1346, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11446
+Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 15, 17 ir 19 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1730, 2018-12-11, paskelbta TAR 2018-12-19, i. k. 2018-20875
+Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 14, 15, 17 ir 19 straipsnių pakeitimo įstatymo Nr. XIII-1346 pavadinimo pakeitimo ir 1 straipsnio pripažinimo netekusiu galios įstatymas
 
