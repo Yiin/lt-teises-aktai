@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-06-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
  
@@ -1107,9 +1107,10 @@ Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
 
 
 
-9) sporto varžybų metu. Šis draudimas netaikomas alkoholiniams gėrimams, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento; 
+9) sporto renginių metu. Šis draudimas netaikomas alkoholiniams gėrimams, kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
+Nr. XIII-1545, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17453
  
 
 
@@ -1673,9 +1674,10 @@ Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
 
 
 
-5) sporto varžybų metu salėse, kuriose jos vyksta; 
+5) sporto renginių metu salėse, kuriose jie vyksta; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
+Nr. XIII-1545, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17453
  
 
 
@@ -3008,3 +3010,8 @@ Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 2, 16, 16-1, 17, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1130, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07482
 Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 20 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1545, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17453
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 18 ir 22 straipsnių pakeitimo įstatymas
