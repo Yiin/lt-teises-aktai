@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FAEA57D16AB"
 
 # Lietuvos Respublikos Prezidento valstybinės rentos įstatymas
 
-Suvestinė redakcija nuo 2016-07-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-11-13
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 141-5405, i. k. 1061010ISTA000X-980
  
@@ -62,7 +62,10 @@ Vilnius
 3 straipsnis. Respublikos Prezidento valstybinės rentos dydis
 
 
-1. Respublikos Prezidento valstybinė renta skiriama 50 procentų Respublikos Prezidento darbo užmokesčio dydžio per mėnesį.
+1. Respublikos Prezidento valstybinė renta skiriama 38,79 procento Respublikos Prezidento darbo užmokesčio dydžio per mėnesį.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1353, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11455
+ 
 
 
 
@@ -223,3 +226,8 @@ Dėl Lietuvos Respublikos Prezidento valstybinės rentos įstatymo (2006 m. gruo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2439, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17350
 Lietuvos Respublikos Prezidento valstybinės rentos įstatymo Nr. X-980 pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1353, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11455
+Lietuvos Respublikos Prezidento valstybinės rentos įstatymo Nr. X-980 3 straipsnio pakeitimo įstatymas
