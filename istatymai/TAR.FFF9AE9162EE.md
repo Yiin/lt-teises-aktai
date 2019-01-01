@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 47-1469, i. k. 0991010ISTAIII-1183
  
@@ -640,6 +640,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                   VALDAS ADAMKUS
+ 
 
 
 
@@ -647,6 +648,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
+ 
  
 Lietuvos Respublikos 
 mokesčio už aplinkos 
@@ -781,7 +783,7 @@ Nr. XII-1195, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14128
 
 
 
- 
+ 
  
  
 Lietuvos Respublikos
@@ -910,6 +912,7 @@ II. Teršalai, išmetami į vandens telkinius, žemės paviršių ir gilesnius j
 
  
  
+ 
 Lietuvos Respublikos
 mokesčio už aplinkos teršimą
 įstatymo 
@@ -989,6 +992,7 @@ Nr. XII-1195, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14128
 
  
  
+ 
 Lietuvos Respublikos
 mokesčio už aplinkos teršimą
 įstatymo 
@@ -1021,8 +1025,8 @@ APMOKESTINAMOSIOS PAKUOTĖS RŪŠYS IR MOKESČIO TARIFAI
  579 
 
 
- Metalinė pakuotė 
- 753 
+ Metalinė pakuotė TAR pastaba. Šios nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių mokestį už aplinkos teršimą 
+ 186       
 
 
  Popierinė ir kartoninė pakuotė 
@@ -1034,18 +1038,19 @@ APMOKESTINAMOSIOS PAKUOTĖS RŪŠYS IR MOKESČIO TARIFAI
 
 
 
- 
 4 priedėlio pakeitimai:
 Nr. X-152, 2005-03-31, Žin., 2005, Nr. 47-1560 (2005-04-12)
 Nr. X-516, 2006-03-16, Žin., 2006, Nr. 32-1111 (2006-03-23)
 Priedo pakeitimai:
 Nr. XII-1195, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14128
+Nr. XIII-1792, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21120
  
 
 
 
 
  
+ 
  
 Lietuvos Respublikos
 mokesčio už aplinkos teršimą
@@ -1126,6 +1131,7 @@ Nr. XII-1195, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14128
 
  
  
+ 
 Lietuvos Respublikos 
 mokesčio už aplinkos teršimą
 įstatymo
@@ -1205,21 +1211,17 @@ Nr. XI-254, 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
 
 
  
- 
- 
 Lietuvos Respublikos
 mokesčio už aplinkos teršimą
 įstatymo 
 7 priedėlis
  
-MOKESČIO UŽ APLINKOS TERŠIMĄ SĄVARTYNE ŠALINAMOMIS 
-ATLIEKOMIS TARIFAI 
- 
+MOKESČIO UŽ APLINKOS TERŠIMĄ SĄVARTYNE ŠALINAMOMIS ATLIEKOMIS TARIFAI 
 
 
 
  Sąvartyne šalinamų atliekų rūšis 
- Mokesčio tarifai, Eur/t faktiškai pašalintų atliekų  
+ Mokesčio tarifai, Eur/t faktiškai pašalintų atliekų 
 
 
  2016 m. 
@@ -1233,14 +1235,14 @@ ATLIEKOMIS TARIFAI
  3 
  3 
  5 
- 21,72 
+ 5 
  27,51 
 
 
  2. Inertinių atliekų sąvartyne šalinamos atliekos ir nepavojingųjų atliekų sąvartyno atskirose sekcijose šalinamos asbesto atliekos 
  7,24 
  13,03 
- 18,83  
+ 18,83 
  24,62 
  30,41 
 
@@ -1259,12 +1261,14 @@ Papildyta priedu:
 Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 Priedo pakeitimai:
 Nr. XII-2244, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21031
+Nr. XIII-1793, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21122
  
 
 
 
 
  
+ 
  
 Lietuvos Respublikos
 mokesčio už aplinkos teršimą
@@ -1411,6 +1415,16 @@ Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 2,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-321, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07680
 Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 5 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1792, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21120
+Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 4 priedėlio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1793, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21122
+Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 7 priedėlio pakeitimo įstatymas
  
  
 
