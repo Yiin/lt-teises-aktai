@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2018-11-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
  
@@ -309,13 +309,13 @@ Aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje organizuoja Aplink
 6 straipsnis. Aplinkos apsaugos valstybinės kontrolės vykdymas
 
 
-Aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdo biudžetinės įstaigos Aplinkos apsaugos departamentas, Aplinkos apsaugos agentūra, Valstybinė miškų tarnyba, Valstybinei saugomų teritorijų tarnybai prie Aplinkos ministerijos pavaldžios parkų ir rezervatų direkcijos, Lietuvos geologijos tarnyba prie Aplinkos ministerijos (toliau – aplinkos apsaugos valstybinę kontrolę vykdančios institucijos).
-
-
+Aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdo biudžetinė įstaiga Aplinkos apsaugos departamentas.
 Straipsnio pakeitimai:
 Nr. X-1510, 2008-04-24, Žin., 2008, Nr. 53-1954 (2008-05-10)
 Nr. XI-1463, 2011-06-20, Žin., 2011, Nr. 85-4124 (2011-07-13)
 Nr. XII-884, 2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
+
+
 Straipsnio pakeitimai:
 Nr. XII-1952, 2015-10-01, paskelbta TAR 2015-10-08, i. k. 2015-14939
 Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
