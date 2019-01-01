@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS ŠEIMYNŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2010, Nr. 25-1176, i. k. 1101010ISTA00XI-681
  
@@ -646,10 +646,11 @@ Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
 12 straipsnis. Šeimynos dalyvių socialinės garantijos
 
 
-1. Šeimynos dalyviams garantuojamos Vyriausybės ar jos įgaliotos institucijos patvirtintoje Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje nustatytos išlaikymo pajamos, kurios negali būti mažesnės negu Vyriausybės nustatytos 1,5 minimaliosios mėnesinės algos (MMA) dydžio, nepriklausomai nuo šeimynoje globojamų (rūpinamų) vaikų skaičiaus. 
+1. Šeimynos dalyviams garantuojamos Vyriausybės ar jos įgaliotos institucijos patvirtintoje Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje nustatytos išlaikymo pajamos, kurios negali būti mažesnės negu 1,1637 Vyriausybės patvirtintos minimaliosios mėnesinės algos (toliau – MMA) dydžio, nepriklausomai nuo šeimynoje globojamų (rūpinamų) vaikų skaičiaus. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
 Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
+Nr. XIII-1347, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11448
  
 
 
@@ -1035,7 +1036,7 @@ Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
  
  
 
@@ -1063,3 +1064,8 @@ Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 7, 10, 12, 14 ir 15 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
 Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 2, 4, 5, 9, 12, 18, 19, 20, 21 ir 22 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1347, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11448
+Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 12 straipsnio pakeitimo įstatymas
