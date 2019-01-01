@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.03.17)
 
 
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-18
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 81-1514, i. k. 0941010ISTA000I-599
  
@@ -2885,7 +2885,10 @@ Nr. X-1028, 2007-01-18, Žin., 2007, Nr. 8-315 (2007-01-19)
 52 straipsnis. Kitos prokurorų socialinės garantijos 
 
 
-1. Prokuroro, kuris buvo tyčia nužudytas dėl tarnybos, šeimai – vaikams (įvaikiams) iki 18 metų ar gimusiems po jo mirties vaikams, sutuoktiniui, tėvui ar motinai, nedarbingiems išlaikytiniams – lygiomis dalimis per vienerius metus valstybė sumoka 120 mėnesių darbo užmokesčio (toliau – MDU) dydžio išmoką. 
+1. Prokuroro, kuris buvo tyčia nužudytas dėl tarnybos, šeimai – vaikams (įvaikiams) iki 18 metų ar gimusiems po jo mirties vaikams, sutuoktiniui, tėvui ar motinai, nedarbingiems išlaikytiniams – lygiomis dalimis per vienerius metus valstybė sumoka 93,10 mėnesio darbo užmokesčio (toliau – MDU) dydžio išmoką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1737, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20705
+ 
 
 
 
@@ -2898,29 +2901,32 @@ Nr. X-1028, 2007-01-18, Žin., 2007, Nr. 8-315 (2007-01-19)
 3. Prokurorui, kuriam buvo tyčia sutrikdyta sveikata dėl tarnybos, valstybė sumoka kompensaciją pagal darbingumo netekimo lygį ar sveikatos sutrikdymo sunkumą:
 
 
-1) dėl sveikatos sutrikdymo netekusiam 75–100 procentų darbingumo – 60 MDU dydžio;
+1) dėl sveikatos sutrikdymo netekusiam 75–100 procentų darbingumo – 46,55 MDU dydžio;
 
 
 
 
-2) dėl sveikatos sutrikdymo netekusiam 60–70 procentų darbingumo – 48 MDU dydžio;
+2) dėl sveikatos sutrikdymo netekusiam 60–70 procentų darbingumo – 37,24 MDU dydžio;
 
 
 
 
-3) dėl sveikatos sutrikdymo netekusiam 45–55 procentų darbingumo – 36 MDU dydžio;
+3) dėl sveikatos sutrikdymo netekusiam 45–55 procentų darbingumo – 27,93 MDU dydžio;
 
 
 
 
-4) dėl sunkaus sveikatos sutrikdymo – 24 MDU dydžio;
+4) dėl sunkaus sveikatos sutrikdymo – 18,62 MDU dydžio;
 
 
 
 
-5) dėl nesunkaus sveikatos sutrikdymo – iki 12 MDU dydžio.
+5) dėl nesunkaus sveikatos sutrikdymo – iki 9,31 MDU dydžio. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1737, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20705
+ 
 
 
 
@@ -3551,3 +3557,8 @@ Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 12, 19 ir 41 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 1, 2, 9, 16, 19, 24, 25, 27, 28, 29, 31, 32, 33, 36, 37-5, 39, 40, 41, 42, 43, 44, 45, 46, 47, 49, 50, 52 straipsnių ir priedo pakeitimo, Įstatymo papildymo 16-1, 37-7 straipsniais ir 1 priedu ir 35 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1737, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20705
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 52 straipsnio pakeitimo įstatymas
