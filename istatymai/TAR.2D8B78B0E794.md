@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2018-09-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
  
@@ -26,7 +26,6 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ DARBUOTOJŲ DARBO APMOKĖJIMO
  
 2017 m. sausio 17 d. Nr. XIII-198
 Vilnius
- 
  
  
  
@@ -64,7 +63,16 @@ BENDROSIOS NUOSTATOS
 
 
 
-4) vystomojo bendradarbiavimo projektuose dalyvaujantiems darbuotojams.
+4) vystomojo bendradarbiavimo projektuose dalyvaujantiems darbuotojams;
+
+
+
+
+5) gydytojams rezidentams, gydytojams odontologams rezidentams ir veterinarijos gydytojams rezidentams. 
+Papildyta straipsnio punktu:
+Nr. XIII-1413, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11478
+Straipsnio punkto pakeitimai:
+Nr. XIII-1688, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20187
  
 
 
@@ -382,9 +390,18 @@ Nr. XIII-1395, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11323
 
 
 
-7. Nustatant pareiginės algos pastoviąją dalį, papildomai įvertinamas nacionalinių, valstybinių ir savivaldybių kultūros ir meno įstaigų aukščiausiojo profesinio meninio lygio kultūros ir meno darbuotojų nacionaliniu ir tarptautiniu mastu įgytas pripažinimas, Vyriausybės ar jos įgaliotos institucijos nustatytas atskirų profesijų trūkumas Lietuvos Respublikos darbo rinkoje, trenerių ar darbuotojų aukšta kvalifikacinė kategorija, nustatyta pagal tam tikrai darbuotojų grupei keliamus kvalifikacinius reikalavimus. Šiais atvejais šio įstatymo 1–5 prieduose nustatyti pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 100 procentų. Trenerio pareiginės algos pastovioji dalis didinama atsižvelgiant į trenerio turimą kvalifikacinę kategoriją: už pirmą kvalifikacinę kategoriją - 45 procentais, už antrą – 55 procentais, už trečią – 65 procentais, už ketvirtą – 75 procentais, už penktą – 90 procentų, už šeštą – 100 procentų. Treneriams, neturintiems kvalifikacinės kategorijos, pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 40 procentų. 
+61. Socialinių paslaugų srities darbuotojams šio įstatymo 1–4 prieduose nustatyti minimalieji pareiginės algos pastoviosios dalies koeficientai didinami 20 procentų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1714, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20972
+ 
+
+
+
+
+7. Nustatant pareiginės algos pastoviąją dalį, papildomai įvertinamas nacionalinių, valstybinių ir savivaldybių kultūros ir meno įstaigų aukščiausiojo profesinio meninio lygio kultūros ir meno darbuotojų nacionaliniu ir tarptautiniu mastu įgytas pripažinimas, Vyriausybės ar jos įgaliotos institucijos nustatytas atskirų profesijų trūkumas Lietuvos Respublikos darbo rinkoje, trenerių ar darbuotojų aukšta kvalifikacinė kategorija, nustatyta pagal tam tikrai darbuotojų grupei keliamus kvalifikacinius reikalavimus. Šiais atvejais šio įstatymo 1–5 prieduose nustatyti pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 100 procentų. Trenerio pareiginės algos pastovioji dalis didinama atsižvelgiant į trenerio turimą kvalifikacinę kategoriją: už pirmą kvalifikacinę kategoriją ‒ 45 procentais, už antrą – 55 procentais, už trečią – 65 procentais, už ketvirtą – 75 procentais, už penktą – 90 procentų, už šeštą – 100 procentų. Treneriams, neturintiems kvalifikacinės kategorijos, pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 40 procentų. Socialinių paslaugų srities darbuotojo pareiginės algos pastovioji dalis didinama atsižvelgiant į socialinių paslaugų srities darbuotojo turimą kvalifikacinę kategoriją: už pirmą (žemiausią) kvalifikacinę kategoriją – 10 procentų, už antrą (aukštesnę) – 15 procentų, už trečią (aukščiausią) – 25 procentais. Socialinių paslaugų srities darbuotojams, neturintiems kvalifikacinės kategorijos, pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 10 procentų.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1395, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11323
+Nr. XIII-1714, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20972
  
 
 
@@ -469,7 +486,10 @@ Nr. XIII-1395, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11323
 
 
 
-3. Biudžetinės įstaigos darbuotojo pareiginės algos kintamoji dalis gali būti nustatyta priėmimo į darbą metu, atsižvelgiant į darbuotojo profesinę kvalifikaciją ir jam keliamus uždavinius, tačiau ne didesnė kaip 20 procentų pareiginės algos pastoviosios dalies ir ne ilgiau kaip vieniems metams.
+3. Biudžetinės įstaigos darbuotojo pareiginės algos kintamoji dalis gali būti nustatyta priėmimo į darbą metu, atsižvelgiant į darbuotojo profesinę kvalifikaciją ir jam keliamus uždavinius, tačiau ne didesnė kaip 20 procentų pareiginės algos pastoviosios dalies ir ne ilgiau kaip iki to darbuotojo kasmetinio veiklos vertinimo.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
+ 
 
 
 
@@ -808,6 +828,7 @@ Respublikos Prezidentė                            �
 
 
 
+ 
 Lietuvos Respublikos 
 valstybės ir savivaldybių įstaigų 
 darbuotojų darbo apmokėjimo 
@@ -816,7 +837,6 @@ darbuotojų darbo apmokėjimo
  
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ VADOVŲ IR JŲ PAVADUOTOJŲ 
 PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI 
- 
 
 
 
@@ -829,10 +849,12 @@ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
  vadovų pavaduotojų 
 
 
- I nuo 200 pareigybių 
+
+
+ I nuo 201 ir daugiau pareigybių 
  iki 5 
  4,8–12,8 
- 4,32–11,52 
+ 4,37–11,52 
 
 
  nuo daugiau kaip 5 iki 10 
@@ -845,47 +867,48 @@ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
  4,54–12,3 
 
 
- II nuo 50 iki 200 pareigybių 
+ II nuo 51 iki 200 pareigybių 
  iki 5 
  4,6–12,4 
- 4,16–11,16 
+ 4,32–11,16 
 
 
  nuo daugiau kaip 5 iki 10 
  4,7–12,6 
- 4,23–11,34 
+ 4,35–11,34 
 
 
  daugiau kaip 10 
  4,8–12,8 
- 4,32–11,52 
+ 4,37–11,52 
 
 
- III iki 50 pareigybių 
+ III 50 ir mažiau pareigybių 
  iki 5 
  4,4–12,0 
- 4,0–10,8 
+ 4,18–10,8 
 
 
  nuo daugiau kaip 5 iki 10 
  4,5–12,2 
- 4,08–11,0 
+ 4,23–11,0 
 
 
  daugiau kaip 10 
  4,6–12,4 
- 4,14–11,16 
+ 4,30–11,16 
 
 
 
  
+Priedo pakeitimai:
+Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
  
+
+
+
+
  
- 
-
-
-
-
 Lietuvos Respublikos 
 valstybės ir savivaldybių įstaigų 
 darbuotojų darbo apmokėjimo 
@@ -918,30 +941,30 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINI
 
 
  iki 5 
- 3,41–9,5 
- 3,52–9,7 
- 3,61–10,2 
- 3,31–8,88 
- 3,41–9,05 
- 3,52–9,23 
+ 3,6–9,5 
+ 3,7–9,7 
+ 3,8–10,2 
+ 3,45–8,88 
+ 3,6–9,05 
+ 3,7–9,23 
 
 
  5–10 
- 3,52–9,55 
- 3,61–9,9 
- 3,71–10,6 
- 3,41–9,05 
- 3,52–9,23 
- 3,61–9,41 
+ 3,7–9,55 
+ 3,8–9,9 
+ 3,9–10,6 
+ 3,6–9,05 
+ 3,7–9,23 
+ 3,8–9,41 
 
 
  daugiau kaip 10 
- 3,61–9,6 
- 3,71–10,1 
- 3,81–11,0 
- 3,52–9,23 
- 3,61–9,41 
- 3,71–9,59 
+ 3,8–9,6 
+ 3,9–10,1 
+ 4,0–11,0 
+ 3,7–9,23 
+ 3,8–9,41 
+ 3,9–9,59 
 
 
 
@@ -973,36 +996,37 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINI
 
 
  iki 5 
- 3,22–8,2 
- 3,31–8,33 
- 3,41–10,0 
- 3,19–8,0 
- 3,26–8,15 
- 3,31–8,3 
+ 3,4–8,2 
+ 3,49–8,33 
+ 3,6–10,0 
+ 3,39–8,0 
+ 3,45–8,15 
+ 3,49–8,3 
 
 
  5–10 
- 3,31–8,33 
- 3,41–8,49 
- 3,52–10,4 
- 3,26–8,15 
- 3,31–8,3 
- 3,41–8,46 
+ 3,49–8,33 
+ 3,6–8,49 
+ 3,7–10,4 
+ 3,45–8,15 
+ 3,49–8,3 
+ 3,6–8,46 
 
 
  daugiau kaip 10 
- 3,41–8,49 
- 3,52–8,65 
- 3,61–10,8 
- 3,31–8,3 
- 3,41–8,47 
- 3,52–8,6 
+ 3,6–8,49 
+ 3,7–8,65 
+ 3,8–10,8 
+ 3,49–8,3 
+ 3,6–8,47 
+ 3,7–8,6 
 
 
 
  
 Priedo pakeitimai:
 Nr. XIII-745, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18513
+Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
  
 
 
@@ -1014,7 +1038,6 @@ valstybės ir savivaldybių įstaigų
 darbuotojų darbo apmokėjimo 
 įstatymo
 3 priedas
- 
  
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ A IR B LYGIO SPECIALISTŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
  
@@ -1035,23 +1058,24 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ A IR B LYGIO SPECIALISTŲ PAREIGINĖS ALGO
 
 
  A lygis 
- 3,17–7,6 
- 3,22–8,5 
- 3,31–9,5 
- 3,41–10,5 
+ 3,38–7,6 
+ 3,4–8,5 
+ 3,45–9,5 
+ 3,6–10,5 
 
 
  B lygis 
- 3,15–7,3 
- 3,19–7,4 
- 3,26–7,6 
- 3,32–8,0 
+ 3,35–7,3 
+ 3,39–7,4 
+ 3,45–7,6 
+ 3,5–8,0 
 
 
 
  
 Priedo pakeitimai:
 Nr. XIII-745, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18513
+Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
  
 
 
@@ -1063,7 +1087,6 @@ valstybės ir savivaldybių įstaigų
 darbuotojų darbo apmokėjimo 
 įstatymo
 4 priedas
- 
  
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ KVALIFIKUOTŲ DARBUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
  
@@ -1084,16 +1107,17 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ KVALIFIKUOTŲ DARBUOTOJŲ PAREIGINĖS ALGO
 
 
  C lygis 
- 3,12–5,3 
- 3,14–5,4 
- 3,16–5,6 
- 3,18–7,0 
+ 3,31–5,3 
+ 3,34–5,4 
+ 3,36–5,6 
+ 3,38–7,0 
 
 
 
  
 Priedo pakeitimai:
 Nr. XIII-745, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18513
+Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
  
 
 
@@ -1196,6 +1220,89 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 
 
  
+1 punkto redakcija nuo 2020-01-01:
+1. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai:
+ 
+
+
+
+ Kvalifikacinė  kategorija  
+ Pastoviosios dalies koeficientai (pareiginės algos baziniais dydžiais) 
+
+
+ pedagoginio darbo stažas (metais) 
+
+
+ iki 2 
+ nuo daugiau kaip 2 iki 5  
+ nuo daugiau kaip 5 iki 10 
+ nuo daugiau kaip 10 iki 15 
+ nuo daugiau kaip 15 iki 20 
+ nuo daugiau kaip 20 iki 25 
+ daugiau kaip 25 
+
+
+ Nesuteiktos kvalifikacinės kategorijos 
+
+
+ Mokytojas 
+ 6,42 
+ 6,44 
+ 6,5 
+ 6,62 
+ 6,82 
+ 6,85 
+ 6,89 
+
+
+ Suteiktos kvalifikacinės kategorijos 
+
+
+ Mokytojas 
+ 6,9 
+ 6, 91 
+ 6,92 
+ 6,95 
+ 6,97 
+ 7,0 
+ 7,05 
+
+
+ Vyresnysis mokytojas 
+
+ 7,06 
+ 7,08 
+ 7,12 
+ 7,4 
+ 7,44 
+ 7,47 
+
+
+ Mokytojas metodininkas 
+
+
+ 7,54 
+ 7,68 
+ 7,92 
+ 7,96 
+ 8,0 
+
+
+ Mokytojas ekspertas 
+
+
+ 8,58 
+ 8,72 
+ 8,94 
+ 8,98 
+ 9,02 
+
+
+
+ 
+Punkto pakeitimai:
+Nr. XIII-1838, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21865
+ 
 
 
 
@@ -1204,9 +1311,17 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 
 
 2.1. didinami 3–15 procentų:
+2.1. papunkčio pirmosios pastraipos redakcija nuo 2019-09-02:
+2.1. didinami 1–15 procentų:
+ 
 
 
 2.1.1. dirbantiems bendrojo ugdymo mokyklose, išskyrus šio priedo 2.1.2 ir 2.1.3 papunkčiuose nurodytas mokyklas, įstaigose, vykdančiose profesinio mokymo, neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), kurių klasėje (grupėje) ugdomi 2 ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių vidutinius specialiuosius ugdymosi poreikius, ir (arba) 1 ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių didelių ar labai didelių specialiųjų ugdymosi poreikių;
+2.1.1. papunkčio redakcija nuo 2019-09-02:
+2.1.1. dirbantiems bendrojo ugdymo mokyklose, išskyrus šio priedo 2.1.2 ir 2.1.3 papunkčiuose nurodytas mokyklas, įstaigose, vykdančiose profesinio mokymo, neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), kurių klasėje (grupėje) ugdomi  vienas ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių vidutinius, didelius ar labai didelius specialiuosius ugdymosi poreikius;
+Papunkčio pakeitimai:
+Nr. XIII-1838, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21865
+ 
 
 
 
@@ -1254,6 +1369,9 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 2.1.10. Vilniaus rajono, Šalčininkų rajono, Elektrėnų savivaldybės, Širvintų rajono, Švenčionių rajono, Trakų rajono, Visagino savivaldybės ir Vilniaus miesto savivaldybių teritorijose esančiose bendrojo ugdymo mokyklose, kuriose įteisintas mokymas lietuvių kalba, mokytojams, dirbantiems pradinėse klasėse (jeigu klasėje mokosi 10 ir daugiau mokinių ir iš jų ne mažiau kaip 50 procentų nemoka valstybinės kalbos);
 
 
+Papunkčio pakeitimai:
+Nr. XIII-1838, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21865
+ 
 
 
 
@@ -1384,7 +1502,6 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL IKIMOKYKLINIO UGDYMO PROGRAMĄ, IR MENINIO UGDYMO M
 
 
 11. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai:
- 
 
 
 
@@ -1397,7 +1514,7 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL IKIMOKYKLINIO UGDYMO PROGRAMĄ, IR MENINIO UGDYMO M
 
  iki 3  
  nuo daugiau kaip 3 iki 10 
- nuo daugiau kaip 10 iki 15  
+ nuo daugiau kaip 10  iki 15  
  daugiau kaip 15 
 
 
@@ -1405,10 +1522,10 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL IKIMOKYKLINIO UGDYMO PROGRAMĄ, IR MENINIO UGDYMO M
 
 
  Mokytojas 
- 4,06–4,22 
- 4,32–4,48 
- 4,37–4,55 
- 4,47–4,66 
+ 4,47–4,64 
+ 4,75–4,93 
+ 4,81–5,0 
+ 4,92–5,13 
 
 
 
@@ -1417,7 +1534,7 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL IKIMOKYKLINIO UGDYMO PROGRAMĄ, IR MENINIO UGDYMO M
 
 
  iki 10 
- nuo daugiau kaip 10 iki 15 
+ nuo daugiau kaip 10  iki 15 
  daugiau kaip 15 
 
 
@@ -1425,27 +1542,27 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL IKIMOKYKLINIO UGDYMO PROGRAMĄ, IR MENINIO UGDYMO M
 
 
  Mokytojas 
- 4,34–4,51 
- 4,42–4,6 
- 4,5–4,68 
+ 4,77–4,96 
+ 4,86–5,06 
+ 4,95–5,15 
 
 
  Vyresnysis mokytojas 
- 4,74–4,94 
- 4,81–5,01 
- 5,0–5,2 
+ 5,21–5,43 
+ 5,29–5,51 
+ 5,5–5,72 
 
 
  Mokytojas metodininkas  
- 5,17–5,39 
- 5,32–5,54 
- 5,46–5,66 
+ 5,69–5,93 
+ 5,85–6,09 
+ 6,01–6,23 
 
 
  Mokytojas ekspertas 
- 5,9–6,13 
- 5,96–6,19 
- 6,12–6,36 
+ 6,49–6,74 
+ 6,56–6,81 
+ 6,73–7,0 
 
 
 
@@ -1457,6 +1574,10 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL IKIMOKYKLINIO UGDYMO PROGRAMĄ, IR MENINIO UGDYMO M
 
 
 
+
+ 
+Punkto pakeitimai:
+Nr. XIII-1838, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21865
  
 
 
@@ -1570,7 +1691,7 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL PRIEŠMOKYKLINIO UGDYMO PROGRAMĄ, PAREIGINĖS ALGO
  
 
 
-17. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai: 
+17. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai:
 
 
 
@@ -1582,9 +1703,9 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL PRIEŠMOKYKLINIO UGDYMO PROGRAMĄ, PAREIGINĖS ALGO
 
 
  iki 3  
- nuo daugiau kaip 3 iki 10 
- nuo daugiau kaip 10 iki 15  
- daugiau kaip 15 
+ nuo daugiau kaip  3 iki 10 
+ nuo daugiau  kaip 10 iki 15  
+ daugiau  kaip 15 
 
 
 
@@ -1593,10 +1714,10 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL PRIEŠMOKYKLINIO UGDYMO PROGRAMĄ, PAREIGINĖS ALGO
 
 
  Mokytojas 
- 4,26–5,06 
- 4,54–5,38 
- 4,59–5,46 
- 4,69–5,59 
+ 4,69–5,57 
+ 5,0–5,92 
+ 5,05–6,0 
+ 5,16–6,15 
 
 
 
@@ -1605,38 +1726,41 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL PRIEŠMOKYKLINIO UGDYMO PROGRAMĄ, PAREIGINĖS ALGO
 
 
  iki 10 
- nuo daugiau kaip 10 iki 15 
- daugiau kaip 15 
+ nuo daugiau  kaip 10 iki 15 
+ daugiau  kaip 15 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 4,56–5,41  
- 4,64–5,52  
- 4,73–5,62  
+ 5,02–5,95 
+ 5,1–6,07 
+ 5,2–6,18  
 
 
  Vyresnysis mokytojas 
- 4,98–5,93 
- 5,05–6,01  
- 5,25–6,24 
+ 5,48–6,52 
+ 5,56–6,61 
+ 5,78–6,86 
 
 
  Mokytojas metodininkas 
- 5,43–6,47 
- 5,59–6,65 
- 5,73–6,79  
+ 5,97–7,12 
+ 6,15–7,32 
+ 6,3–7,47 
 
 
  Mokytojas ekspertas 
- 6,19–7,36 
- 6,26–7,43 
- 6,43–7,63 
+ 6,81–8,1 
+ 6,89–8,17 
+ 7,07–8,39 
 
 
 
+ 
+Punkto pakeitimai:
+Nr. XIII-1838, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21865
  
 
 
@@ -1725,22 +1849,22 @@ SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DI
  
 
 
-22. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai: 
+22. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai:
  
 
 
 
  Pareigybė 
- Pastoviosios dalies koeficientai  (pareiginės algos baziniais dydžiais) 
+ Pastoviosios dalies koeficientai (pareiginės algos baziniais dydžiais) 
 
 
  pedagoginio darbo stažas (metais) 
 
 
- iki 3  
+ iki 3 
  nuo daugiau kaip 3 iki 10 
- nuo daugiau kaip 10 iki 15  
- daugiau kaip 15  
+ nuo daugiau kaip 10 iki 15 
+ daugiau kaip 15 
 
 
 
@@ -1749,13 +1873,13 @@ SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DI
 
 
  Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas 
- 3,76–4,2 
- 3,99–4,46 
- 4,02–4,5 
- 4,13–4,62 
+ 4,76‒5,2 
+ 5,21–5,46 
+ 5,47–5,7 
+ 5,71–6,0 
 
 
-   
+
  Pedagoginio darbo stažas (metais) 
 
 
@@ -1768,30 +1892,42 @@ SPECIALIŲJŲ PEDAGOGŲ, LOGOPEDŲ, SURDOPEDAGOGŲ, TIFLOPEDAGOGŲ, IŠSKYRUS DI
 
 
  Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas 
- 4,0–4,47 
- 4,12–4,59 
- 4,17–4,65 
+ 5,0–5,47 
+ 5,48–5,8 
+ 5,81–6,02 
 
 
  Vyresnysis specialusis pedagogas, vyresnysis logopedas, vyresnysis surdopedagogas, vyresnysis tiflopedagogas 
- 4,61–5,16 
- 4,68–5,23 
- 4,86–5,45 
+ 5,61–6,16 
+ 6,17–6,23 
+ 6,24–6,45 
 
 
  Specialusis pedagogas metodininkas, logopedas metodininkas, surdopedagogas metodininkas, tiflopedagogas metodininkas 
- 5,01–5,6 
- 5,18–5,77 
- 5,3–5,92 
+ 6,01–6,6 
+ 6,61–6,77 
+ 6,78–6,92 
 
 
  Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, tiflopedagogas ekspertas 
- 5,73–6,38 
- 5,79–6,46 
- 5,94–6,64 
+ 6,73–7,38 
+ 7,39–7,46 
+ 7,47–7,7 
 
 
 
+
+
+
+
+
+
+
+
+
+ 
+Punkto pakeitimai:
+Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
  
 
 
@@ -1866,39 +2002,39 @@ PSICHOLOGŲ ASISTENTŲ, PSICHOLOGŲ, SOCIALINIŲ PEDAGOGŲ IR ŠVIETIMO PAGALBOS
 
 
 27. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai:
- 
 
 
 
  Pareigybė 
- Pastoviosios dalies koeficientai  (pareiginės algos baziniais dydžiais) 
+ Pastoviosios dalies koeficientai  (pareiginės algos baziniais dydžiais) 
 
 
  pedagoginio darbo stažas (metais) 
 
 
- iki 3  
+ iki 3 
  nuo daugiau kaip 3 iki 10 
- nuo daugiau kaip 10 iki 15  
- daugiau kaip 15  
+ nuo daugiau kaip 10 iki 15 
+ daugiau  kaip 15 
+
+
 
 
  Nesuteiktos kvalifikacinės kategorijos 
 
 
  Psichologo asistentas 
- 4,09–4,18 
- 4,13–4,21 
- 4,16–4,25 
- 4,21–4,3 
+ 5,09–5,18 
+ 5,19–5,21 
+ 5,22–5,25 
+ 5,26–5,3 
 
 
  Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, socialinis pedagogas 
- 4,3–4,38 
- 4,58–4,67  
- 4,77–4,87 
- 4,82–4,95 
-
+ 5,3–5,38 
+ 5,39–5,67 
+ 5,68–5,87 
+ 5,88–5,95 
 
 
  Pedagoginio darbo stažas (metais) 
@@ -1907,37 +2043,49 @@ PSICHOLOGŲ ASISTENTŲ, PSICHOLOGŲ, SOCIALINIŲ PEDAGOGŲ IR ŠVIETIMO PAGALBOS
 
  iki 10 
  nuo daugiau kaip 10 iki 15 
- daugiau kaip 15 
+ daugiau  kaip 15 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Specialusis pedagogas, logopedas, surdopedagogas, tiflopedagogas, socialinis pedagogas, ketvirtos kategorijos psichologas 
- 4,82–4,87 
- 4,9–4,96  
- 5,07–5,13 
+ 5,82–5,89 
+ 5,9–6,06 
+ 6,07–6,13 
 
 
  Vyresnysis specialusis pedagogas, vyresnysis logopedas, vyresnysis surdopedagogas, vyresnysis tiflopedagogas, vyresnysis socialinis pedagogas, trečios kategorijos psichologas 
- 5,4 –5,55 
- 5,45–5,61  
- 5,64–5,83 
+ 6,4–6,55 
+ 6,56–6,63 
+ 6,64–6,83 
 
 
  Specialusis pedagogas metodininkas, logopedas metodininkas, surdopedagogas metodininkas, tiflopedagogas metodininkas, socialinis pedagogas metodininkas, antros kategorijos psichologas 
- 5,95–6,14 
- 6,1–6,29  
- 6,26–6,48  
+ 6,95–7,14 
+ 7,15–7,29 
+ 7,3–7,48 
 
 
  Specialusis pedagogas ekspertas, logopedas ekspertas, surdopedagogas ekspertas, tiflopedagogas ekspertas, socialinis pedagogas ekspertas, pirmos kategorijos psichologas 
- 6,71–6,93 
- 6,91–7,13 
- 7,07–7,28 
+ 7,71–7,93 
+ 7,94–8,13 
+ 8,14–8,28 
 
 
 
+
+
+
+
+
+
+
+
+
+ 
+Punkto pakeitimai:
+Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
  
 
 
@@ -2257,6 +2405,83 @@ MOKYKLŲ VADOVŲ IR JŲ PAVADUOTOJŲ UGDYMUI PAREIGINĖS ALGOS PASTOVIOSIOS DALI
 
 
  
+41 punkto redakcija nuo 2019-09-01:
+41. Mokyklų vadovų pareiginės algos pastoviosios dalies koeficientai:
+ 
+
+
+
+ Mokinių skaičius  
+ Pastoviosios dalies koeficientai (pareiginės algos baziniais dydžiais) 
+
+
+
+ Iki 10 metų  
+ Nuo daugiau kaip 10 iki 15 metų 
+ Daugiau kaip 15 metų 
+
+
+
+
+
+
+
+
+ iki 200 
+ 7,6 
+ 10,71 
+ 7,8 
+ 11,1 
+ 8 
+ 11,37 
+
+
+
+ 201–400 
+ 8,4 
+ 11,7 
+ 8,6 
+ 11,8 
+ 8,8 
+ 11,81 
+
+
+
+ 401–600 
+ 9 
+ 11,74 
+ 9,2 
+ 11,8 
+ 9,4 
+ 11,81 
+
+
+
+ 601–1000 
+ 9,6 
+ 12,6 
+ 9,8 
+ 12,62 
+ 10 
+ 12,65 
+
+
+
+ 1001 ir daugiau 
+ 10,2 
+   12,6 
+ 10,4 
+ 12,62 
+ 10,6 
+ 12,65 
+
+
+
+
+ 
+Punkto pakeitimai:
+Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
+ 
 
 
 
@@ -2456,3 +2681,28 @@ Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1395, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11323
 Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 2, 3, 4, 7, 8, 14, 17 straipsnių ir 5 priedo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1413, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11478
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 1 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1688, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20187
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 1 straipsnio pakeitimo įstatymo Nr. XIII-1413 1 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 9 straipsnio, 1, 2, 3, 4 ir 5 priedų pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1714, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20972
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 7 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1838, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21865
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 5 priedo pakeitimo įstatymas
