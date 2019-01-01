@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97094B63FD95"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 2017-06-10 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 112-4990, i. k. 1031010ISTA0IX-1804
- 
-TAR pastaba. Nuo šio įstatymo įsigaliojimo dienos iki 2018 m. gruodžio 31 d. komanditinių ūkinių bendrijų komanditoriai ir jų duomenys (fizinio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta ar adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas, buveinė) registruojami Juridinių asmenų registre Lietuvos Respublikos civiliniame kodekse ir Juridinių asmenų registro nuostatuose nustatyta tvarka.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-410, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09794
-Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-06-10:
 Nr. XIII-410, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09794
@@ -311,27 +306,6 @@ Vilnius
 
 9. Bendrijos veiklos sutartis, taip pat bendrijos veiklos sutarties pakeitimai įsigalioja nuo jų įregistravimo Juridinių asmenų registre, išskyrus su bendrijos steigimo tvarka ir įnašų įnešimu bendrijos steigimo metu susijusias bendrijos veiklos sutarties nuostatas, kurios įsigalioja nuo bendrijos veiklos sutarties sudarymo.
  
-
-
-
-
-
-
-5 straipsnis. Juridinių asmenų registro duomenys
-
-
-Be Civilinio kodekso 2.66 straipsnyje išvardytų duomenų, Juridinių asmenų registre nurodomi šie duomenys:
-
-
-1) likvidatorius (vardas, pavardė, asmens kodas, gyvenamoji vieta), jo paskyrimo ir įgaliojimų pabaigos datos, likvidatoriaus įgaliojimai, išskyrus įstatymuose nustatytus įgaliojimus; 
-
-
-
-
-2) veiklos laikotarpis, jeigu jis yra ribotas. 
-5 straipsnio redakcija nuo 2019-01-01:
-
-
 
 
 
