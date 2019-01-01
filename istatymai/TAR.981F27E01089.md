@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.981F27E01089"
 
 # Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymas
 
-Suvestinė redakcija nuo 2016-03-30 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-03-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 81-3322, i. k. 1071010ISTA00X-1262
  
@@ -42,7 +42,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Šis įstatymas netaikomas Lietuvos kariams ir civilinės krašto apsaugos tarnybos statutiniams valstybės tarnautojams, dalyvaujantiems užsienyje vykstančiose tarptautinėse karinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose, kariams, siunčiamiems į užsienio valstybių ir tarptautines karines ar gynybos institucijas, pedagoginiams darbuotojams, siunčiamiems dirbti į Europos mokyklas, Lietuvos mokytojams, dėstytojams, kultūros ir meno darbuotojams, vykstantiems į užsienio valstybes dirbti lietuvių švietimo, kultūros įstaigose, aukštųjų mokyklų lituanistikos ar baltistikos centruose ir lietuvių bendruomenėse, taip pat asmenims, kurių delegavimas negali įvykti pagal jų veiklą reglamentuojančius teisės aktus.
+3. Šis įstatymas netaikomas Lietuvos kariams ir krašto apsaugos sistemos valstybės tarnautojams, žvalgybos pareigūnams, tarnaujantiems pagal žvalgybos pareigūno tarnybos sutartis, ir darbuotojams, dirbantiems pagal darbo sutartis, dalyvaujantiems užsienyje vykstančiose tarptautinėse karinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose, kariams, siunčiamiems į užsienio valstybių ir tarptautines karines ar gynybos institucijas, pedagoginiams darbuotojams, siunčiamiems dirbti į Europos mokyklas, Lietuvos mokytojams, dėstytojams, kultūros ir meno darbuotojams, vykstantiems į užsienio valstybes dirbti lietuvių švietimo, kultūros įstaigose, aukštųjų mokyklų lituanistikos ar baltistikos centruose ir lietuvių bendruomenėse, taip pat asmenims, kurių delegavimas negali įvykti pagal jų veiklą reglamentuojančius teisės aktus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1815, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21835
+ 
 
 
 
@@ -128,32 +131,29 @@ Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA
 Deleguojančiosios institucijos yra šios:
 
 
-1) karjeros valstybės tarnautojų ir statutinių valstybės tarnautojų, išskyrus vidaus tarnybos sistemos ir muitinės statutinius valstybės tarnautojus, – Lietuvos Respublikos valstybės ir savivaldybių institucijos ir įstaigos (toliau – valstybės institucijos ir įstaigos), kuriose šie asmenys eina pareigas;
+1) karjeros valstybės tarnautojų ir statutinių valstybės tarnautojų, išskyrus vidaus tarnybos sistemos pareigūnus, – Lietuvos Respublikos valstybės ir savivaldybių institucijos ir įstaigos (toliau – valstybės institucijos ir įstaigos), kuriose šie asmenys eina pareigas;
 
 
 
 
-2) vidaus tarnybos sistemos statutinių valstybės tarnautojų – vidaus reikalų centrinės įstaigos;
+2) vidaus tarnybos sistemos pareigūnų – atitinkamai vidaus reikalų ministro ar finansų ministro valdymo srities centrinės statutinės įstaigos;
 
 
 
 
-3) muitinės statutinių valstybės tarnautojų – Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos;
+3) prokurorų – Lietuvos Respublikos generalinė prokuratūra;
 
 
 
 
-4) prokurorų – Lietuvos Respublikos generalinė prokuratūra;
+4) kitų asmenų – Lietuvos Respublikos užsienio reikalų ministerija. 
 
 
 
 
-5) asmenų, nenurodytų šio straipsnio 1–4 punktuose, – Lietuvos Respublikos užsienio reikalų ministerija (toliau – Užsienio reikalų ministerija).
+Straipsnio pakeitimai:
+Nr. XIII-1801, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21807
  
-
-
-
-
 
 
 
@@ -197,15 +197,19 @@ Delegavimą koordinuoja Užsienio reikalų ministerija, išskyrus atvejus, kai t
 
 
 
-4) Valstybės tarnybos departamentui perduoda informaciją apie laisvas pareigas ar pareigybes tarptautinėse ir Europos Sąjungos institucijose bei užsienio valstybių institucijose;
+4) Vyriausybės įgaliotai įstaigai perduoda informaciją apie laisvas pareigas ar pareigybes tarptautinėse ir Europos Sąjungos institucijose bei užsienio valstybių institucijose; 
 Straipsnio punkto pakeitimai:
 Nr. XI-2042, 2012-06-05, Žin., 2012, Nr. 69-3524 (2012-06-21), i. k. 1121010ISTA0XI-2042
+Nr. XIII-1801, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21807
  
 
 
 
 
-5) Valstybės tarnybos departamentui teikia išvadą dėl pareigų ar pareigybių tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių institucijose pripažinimo atitinkančiomis delegavimo prioritetus ir išlaidų, susijusių su delegavimu, padengimo galimybės; 
+5) Vyriausybės įgaliotai įstaigai teikia išvadą dėl pareigų ar pareigybių tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių institucijose pripažinimo atitinkančiomis delegavimo prioritetus ir išlaidų, susijusių su delegavimu, padengimo galimybės; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1801, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21807
+ 
 
 
 
@@ -247,23 +251,25 @@ Nr. XI-2201, 2012-06-30, Žin., 2012, Nr. 83-4351 (2012-07-14), i. k. 1121010IST
 
 
 
-6 straipsnis.  Informacijos apie laisvas pareigas ar pareigybes tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių institucijose ir informacijos apie delegavimo poreikius pateikimas 
+6 straipsnis. Informacijos apie laisvas pareigas ar pareigybes tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių institucijose ir informacijos apie delegavimo poreikius pateikimas
 
 
-1. Valstybės institucijos ir įstaigos, gavusios informaciją apie laisvas pareigas ar pareigybes tarptautinėse, Europos Sąjungos institucijose ar užsienio valstybių institucijose, į kurias gali būti deleguojami asmenys iš Lietuvos, visą gautą informaciją ir motyvuotus pasiūlymus dėl laisvų pareigų ar pareigybių tarptautinėse, Europos Sąjungos institucijose ar užsienio valstybių institucijose pripažinimo atitinkančiomis delegavimo prioritetus Vyriausybės nustatyta tvarka pateikia Užsienio reikalų ministerijai ir Valstybės tarnybos departamentui. 
-
-
-
-
-2. Valstybės institucijos ir įstaigos teikia informaciją Užsienio reikalų ministerijai ir Valstybės tarnybos departamentui apie delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas poreikius.
+1. Valstybės institucijos ir įstaigos, gavusios informaciją apie laisvas pareigas ar pareigybes tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių institucijose, į kurias gali būti deleguojami asmenys iš Lietuvos, visą gautą informaciją ir motyvuotus pasiūlymus dėl laisvų pareigų ar pareigybių tarptautinėse, Europos Sąjungos institucijose ar užsienio valstybių institucijose pripažinimo atitinkančiomis delegavimo prioritetus Vyriausybės nustatyta tvarka pateikia Užsienio reikalų ministerijai ir Vyriausybės įgaliotai įstaigai.
 
 
 
 
-3. Užsienio reikalų ministerija, gavusi informaciją apie tarptautinių ir Europos Sąjungos institucijų ar užsienio valstybių institucijų delegavimo poreikius arba laisvas pareigas ar pareigybes, Vyriausybės nustatyta tvarka ją perduoda Valstybės tarnybos departamentui.
+2. Valstybės institucijos ir įstaigos teikia informaciją Užsienio reikalų ministerijai ir Vyriausybės įgaliotai įstaigai apie delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas poreikius.
+
+
+
+
+3. Užsienio reikalų ministerija, gavusi informaciją apie tarptautinių ir Europos Sąjungos institucijų ar užsienio valstybių institucijų delegavimo poreikius arba laisvas pareigas ar pareigybes, Vyriausybės nustatyta tvarka ją perduoda Vyriausybės įgaliotai įstaigai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1801, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21807
  
-
-
 
 
 
@@ -281,7 +287,9 @@ Nr. XI-2201, 2012-06-30, Žin., 2012, Nr. 83-4351 (2012-07-14), i. k. 1121010IST
 
 
 
-3. Ši išvada pateikiama Valstybės tarnybos departamentui kartu su 6 straipsnio 3 dalyje nurodyta informacija.
+3. Ši išvada pateikiama Vyriausybės įgaliotai įstaigai kartu su šio įstatymo 6 straipsnio 3 dalyje nurodyta informacija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1801, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21807
  
 
 
@@ -320,15 +328,17 @@ PRETENDENTŲ ATRANKA
 9 straipsnis. Pretendentus atrenkančios valstybės institucijos ir įstaigos
 
 
-1. Pretendentų atranką organizuoja ir vykdo Valstybės tarnybos departamentas, išskyrus šio straipsnio 2 dalyje nustatytą atvejį. Atranka organizuojama ir vykdoma Vyriausybės nustatyta tvarka. 
+1. Pretendentų atranką organizuoja ir vykdo Vyriausybės įgaliota įstaiga, išskyrus šio straipsnio 2 dalyje nustatytą atvejį. Atranka organizuojama ir vykdoma Vyriausybės nustatyta tvarka.
 
 
 
 
-2. Valstybės tarnybos departamentas paveda atrinkti pretendentą kitai valstybės institucijai ar įstaigai, jei pareigų ar pareigybių tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje pobūdis susijęs tik su jos funkcijomis ir pagal tarptautinės ir Europos Sąjungos institucijos ar užsienio valstybės institucijos nustatytus reikalavimus į pareigas ar pareigybes gali būti deleguojamas tik asmuo, dirbantis šioje valstybės institucijoje ar įstaigoje. 
+2. Vyriausybės įgaliota įstaiga paveda atrinkti pretendentą kitai valstybės institucijai ar įstaigai, jeigu pareigų ar pareigybių tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybių institucijoje pobūdis susijęs tik su jos funkcijomis ir pagal tarptautinės ir Europos Sąjungos institucijos ar užsienio valstybės institucijos nustatytus reikalavimus į pareigas ar pareigybes gali būti deleguojamas tik asmuo, dirbantis šioje valstybės institucijoje ar įstaigoje. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1801, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21807
  
-
-
 
 
 
@@ -420,7 +430,10 @@ DELEGAVIMO REZERVAS
 12 straipsnis. Pretendentų atranka į delegavimo rezervą
 
 
-1. Pretendentų į delegavimo rezervą atranką organizuoja ir vykdo Valstybės tarnybos departamentas Vyriausybės nustatyta tvarka.
+1. Pretendentų į delegavimo rezervą atranką organizuoja ir vykdo Vyriausybės įgaliota įstaiga Vyriausybės nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1801, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21807
+ 
 
 
 
@@ -469,7 +482,10 @@ Nr. XII-2267, 2016-03-22, paskelbta TAR 2016-03-29, i. k. 2016-06423
 
 
 
-2. Jeigu pretendentas atleidžiamas iš pareigų valstybės institucijoje ar įstaigoje, kurioje ėjo pareigas, kai buvo atrinktas į delegavimo rezervą, ir pereina dirbti į kitą valstybės instituciją ar įstaigą, kuri yra deleguojančioji institucija, naujoji deleguojančioji institucija privalo ne vėliau kaip per 20 darbo dienų informuoti Užsienio reikalų ministeriją ir Valstybės tarnybos departamentą, ar sutinka, kad pretendentas liktų delegavimo rezerve. Jeigu naujoji deleguojančioji institucija nesutinka, kad pretendentas liktų delegavimo rezerve, jis yra išbraukiamas iš delegavimo rezervo.
+2. Jeigu pretendentas atleidžiamas iš pareigų valstybės institucijoje ar įstaigoje, kurioje ėjo pareigas, kai buvo atrinktas į delegavimo rezervą, ir pereina dirbti į kitą valstybės instituciją ar įstaigą, kuri yra deleguojančioji institucija, naujoji deleguojančioji institucija privalo ne vėliau kaip per 20 darbo dienų informuoti Užsienio reikalų ministeriją ir Vyriausybės įgaliotą įstaigą, ar sutinka, kad pretendentas liktų delegavimo rezerve. Jeigu naujoji deleguojančioji institucija nesutinka, kad pretendentas liktų delegavimo rezerve, jis yra išbraukiamas iš delegavimo rezervo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1801, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21807
+ 
 
 
 
@@ -494,11 +510,12 @@ INFORMAVIMAS APIE ATRINKTUS PRETENDENTUS IR JŲ DELEGAVIMAS
 15 straipsnis. Informacijos apie atrinktus pretendentus pateikimas
 
 
-Informaciją apie atrinktus pretendentus Valstybės tarnybos departamentas pateikia Užsienio reikalų ministerijai, o kitos valstybės institucijos ar įstaigos – Valstybės tarnybos departamentui ir Užsienio reikalų ministerijai. Kai atrenkama iš delegavimo rezervo, Užsienio reikalų ministerija informaciją apie atrinktus pretendentus pateikia Valstybės tarnybos departamentui ir deleguojančiosioms institucijoms. Užsienio reikalų ministerija informaciją apie atrinktus pretendentus perduoda tarptautinei ir Europos Sąjungos institucijai ar užsienio valstybės institucijai.
+Informaciją apie atrinktus pretendentus Vyriausybės įgaliota įstaiga pateikia Užsienio reikalų ministerijai, o kitos valstybės institucijos ar įstaigos – Vyriausybės įgaliotai įstaigai ir Užsienio reikalų ministerijai. Kai atrenkama iš delegavimo rezervo, Užsienio reikalų ministerija informaciją apie atrinktus pretendentus pateikia Vyriausybės įgaliotai įstaigai ir deleguojančiosioms institucijoms. Užsienio reikalų ministerija informaciją apie atrinktus pretendentus perduoda tarptautinei ir Europos Sąjungos institucijai ar užsienio valstybės institucijai. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA00XI-337
+Nr. XIII-1801, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21807
  
 
 
@@ -525,7 +542,10 @@ Nr. XI-2201, 2012-06-30, Žin., 2012, Nr. 83-4351 (2012-07-14), i. k. 1121010IST
 17 straipsnis. Delegavimas
 
 
-1. Tarptautinei ir Europos Sąjungos institucijai ar užsienio valstybės institucijai informavus, kad pretendentas priimamas į laisvas pareigas ar pareigybes, arba esant kitoms tarptautinių sutarčių ar Europos Sąjungos teisės aktų nustatytoms sąlygoms, jo delegavimą tvirtina šio įstatymo 3 straipsnyje nurodytos valstybės institucijos ar įstaigos vadovas. Informaciją apie priimtus pretendentus Užsienio reikalų ministerija perduoda Valstybės tarnybos departamentui ir deleguojančiajai institucijai. Pretendentas, kuris yra karjeros valstybės tarnautojas, statutinis valstybės tarnautojas ar prokuroras, deleguojamas jo rašytiniu sutikimu perkeliant jį į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje. Informacija apie tai pateikiama Užsienio reikalų ministerijai ir Valstybės tarnybos departamentui. 
+1. Tarptautinei ir Europos Sąjungos institucijai ar užsienio valstybės institucijai informavus, kad pretendentas priimamas į laisvas pareigas ar pareigybes, arba esant kitoms tarptautinių sutarčių ar Europos Sąjungos teisės aktų nustatytoms sąlygoms, jo delegavimą tvirtina šio įstatymo 3 straipsnyje nurodytos valstybės institucijos ar įstaigos vadovas. Informaciją apie priimtus pretendentus Užsienio reikalų ministerija perduoda Vyriausybės įgaliotai įstaigai ir deleguojančiajai institucijai. Pretendentas, kuris yra karjeros valstybės tarnautojas, statutinis valstybės tarnautojas ar prokuroras, deleguojamas jo rašytiniu sutikimu perkeliant jį į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje. Informacija apie tai pateikiama Užsienio reikalų ministerijai ir Vyriausybės įgaliotai įstaigai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1801, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21807
+ 
 
 
 
@@ -804,8 +824,14 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo 
+ 
+Lietuvos Respublikos 
+asmenų delegavimo į tarptautines ir 
+Europos Sąjungos institucijas ar užsienio 
+valstybių institucijas įstatymo
 priedas
+ 
+SU DARBU UŽSIENYJE SUSIJUSIŲ IŠLAIDŲ KOMPENSACIJA
  
 
 
@@ -816,44 +842,242 @@ priedas
 
 
 
- 1. Karjeros, statutiniai valstybės tarnautojai: 
-   
+
+ 1. Valstybės tarnautojai, kurių pareigybių grupes nustato Lietuvos Respublikos valstybės tarnybos įstatymas, išskyrus deleguojamus į rinkimų stebėjimo misijas: 
+ 
 
 
- 1.1. kurių pareigybių kategorijos 18–20 
- 14 
+ 1.1. kurių pareigybės priskirtos 1–3 pareigybių grupei 
+ 10,87 
+
+ 
 
 
- 1.2. kurių pareigybių kategorijos 15–17 
- 9,5 
+ 1.2. kurių pareigybės priskirtos 4 pareigybių grupei 
+ 9,70 
+
+ 
 
 
- 1.3. kurių pareigybių kategorijos 11–14 
- 8 
+ 1.3 kurių pareigybės priskirtos 5 pareigybių grupei 
+ 8,93 
+
+ 
 
 
- 1.4. kurių pareigybių kategorijos 1–10 
- 5 
+ 1.4. kurių pareigybės priskirtos 6 pareigybių grupei 
+ 8,15 
+
+ 
 
 
- 2. Prokurorai: 
-   
+ 1.5. kurių pareigybės priskirtos 7 pareigybių grupei 
+ 6,99 
+
+ 
 
 
- 2.1. kurių pareiginės algos koeficientas 11,35 ir didesnis 
- 14 
+ 1.6. kurių pareigybės priskirtos 8 pareigybių grupei 
+ 5,82 
+
+ 
 
 
- 2.2. kurių pareiginės algos koeficientas 9,2–10,8 
- 9,5 
+ 1.7. kurių pareigybės priskirtos 9 pareigybių grupei 
+ 5,05 
+
+ 
 
 
- 2.3. kurių pareiginės algos koeficientas 8,0–8,8 
- 8 
+ 1.8. kurių pareigybės priskirtos 10 pareigybių grupei 
+ 4,27 
+
+ 
+
+
+ 2. Valstybės pareigūnai ir statutiniai valstybės tarnautojai, kurių darbo užmokestį arba pareigybių grupes nustato atitinkami jų veiklą reglamentuojantys statutai ir įstatymai, išskyrus deleguojamus į rinkimų stebėjimo misijas: 
+
+
+
+ 2.1. Diplomatai: 
+
+
+
+ 2.1.1. kurių pareigybės priskirtos 1–3 pareigybių grupei 
+ 10,87 
+
+
+
+ 2.1.2. kurių pareigybės priskirtos 4 pareigybių grupei 
+ 9,70 
+
+
+
+ 2.1.3. kurių pareigybės priskirtos 5 pareigybių grupei 
+ 8,93 
+
+
+
+ 2.1.4. kurių pareigybės priskirtos 6 pareigybių grupei 
+ 8,15 
+
+
+
+ 2.1.5. kurių pareigybės priskirtos 7–8 pareigybių grupei 
+ 6,99 
+
+
+
+ 2.1.6. kurių pareigybės priskirtos 9 pareigybių grupei 
+ 5,82 
+
+
+
+ 2.1.7. kurių pareigybės priskirtos 10 pareigybių grupei 
+ 5,05 
+
+
+
+ 2.1.8. kurių pareigybės priskirtos 11 pareigybių grupei 
+ 4,27 
+
+
+
+ 2.2. Prokurorai: 
+ 
+
+
+ 2.2.1. kurių pareiginės algos koeficientas 20,2–21,2 
+ 9,70 
+
+
+
+ 2.2.2. kurių pareiginės algos koeficientas 19,0–19,2 
+ 8,93 
+
+
+
+ 2.2.3. kurių pareiginės algos koeficientas 18,5–18,6 
+ 8,15 
+
+
+
+ 2.2.4. kurių pareiginės algos koeficientas 17,3–17,7 
+ 6,99 
+
+
+
+ 2.2.5. kurių pareiginės algos koeficientas 16,5–17,0 
+ 5,82 
+
+
+
+ 2.2.6. kurių pareiginės algos koeficientas 15,7–16,0 
+ 5,05 
+
+
+
+ 2.2.7. kurių pareiginės algos koeficientas 13,9–15,2 
+ 4,27 
+
+
+
+ 2.3. Vidaus tarnybos sistemos pareigūnai: 
+ 
+
+
+ 2.3.1. kurių pareigybės priskirtos 1–2 pareigybių grupei 
+ 10,87 
+
+
+
+ 2.3.2. kurių pareigybės priskirtos 3–4 pareigybių grupei 
+ 9,70 
+
+
+
+ 2.3.3. kurių pareigybės priskirtos 5–6 pareigybių grupei 
+ 8,93 
+
+
+
+ 2.3.4. kurių pareigybės priskirtos 7–8 pareigybių grupei 
+ 8,15 
+
+
+
+ 2.3.5. kurių pareigybės priskirtos 9–10 pareigybių grupei 
+ 6,99 
+
+
+
+ 2.3.6. kurių pareigybės priskirtos 11–12 pareigybių grupei 
+ 5,82 
+
+
+
+ 2.3.7. kurių pareigybės priskirtos 13–14 pareigybių grupei 
+ 5,05 
+
+
+
+ 2.3.8. kurių pareigybės priskirtos 15 pareigybių grupei 
+ 4,27 
+
+
+
+ 2.4. Žvalgybos pareigūnai: 
+
+
+
+ 2.4.1. kurių pareiginės algos koeficientas 17,0 
+ 10,87 
+
+
+
+ 2.4.2. kurių pareiginės algos koeficientas 16,0 
+ 9,70 
+
+
+
+ 2.4.3. kurių pareiginės algos koeficientas 15,0 
+ 8,93 
+
+
+
+ 2.4.4. kurių pareiginės algos koeficientas 12,9–14,0 
+ 8,15 
+
+
+
+ 2.4.5. kurių pareiginės algos koeficientas 11,3–12,8 
+ 6,99 
+
+
+
+ 2.4.6. kurių pareiginės algos koeficientas 9,7–11,2 
+ 5,82 
+
+
+
+ 2.4.7. kurių pareiginės algos koeficientas 8,1–9,6 
+ 5,05 
+
+
+
+ 2.4.8. kurių pareiginės algos koeficientas 6,5–8,0 
+ 4,27 
+
 
 
  3. Kiti asmenys 
- 5 
+ 3,88 
+
+
+
+ 4. Visi asmenys, deleguojami į rinkimų stebėjimo misijas 
+ 3,88 
+
 
 
 
@@ -862,6 +1086,7 @@ Papildyta priedu:
 Nr. XI-337, 2009-07-14, Žin., 2009, Nr. 89-3799 (2009-07-28), i. k. 1091010ISTA00XI-337
 Priedo pakeitimai:
 Nr. XI-2201, 2012-06-30, Žin., 2012, Nr. 83-4351 (2012-07-14), i. k. 1121010ISTA0XI-2201
+Nr. XIII-1801, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21807
  
  
  
@@ -886,3 +1111,13 @@ Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos ins
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2267, 2016-03-22, paskelbta TAR 2016-03-29, i. k. 2016-06423
 Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 1, 2 ir 13 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1801, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21807
+Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 3, 5, 6, 7, 9, 12, 14, 15, 17 straipsnių ir priedo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1815, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21835
+Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 1 straipsnio pakeitimo įstatymas
