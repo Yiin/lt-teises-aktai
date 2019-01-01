@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2294490FE9DD"
 
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-10-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2517, i. k. 1041010ISTA0IX-2183
  
@@ -102,7 +102,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (ES) Nr. 952/2013, Reglamente (ES) 2015/2446 su paskutiniais pakeitimais, padarytais Reglamentu (ES) 2016/341 (toliau – Reglamentas (ES) 2015/2446), Reglamente (ES) 2015/2447, Lietuvos Respublikos mokesčių administravimo įstatyme, Tarnybos Lietuvos Respublikos muitinėje statute, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme ir Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme.
+7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (ES) Nr. 952/2013, Reglamente (ES) 2015/2446 su paskutiniais pakeitimais, padarytais Reglamentu (ES) 2016/341 (toliau – Reglamentas (ES) 2015/2446), Reglamente (ES) 2015/2447, Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos vidaus tarnybos statute, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme ir Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
  
 
 
@@ -183,10 +185,12 @@ MUITINĖS VEIKLA
 7 straipsnis. Muitinės veiklos teisiniai pagrindai
 
 
-Muitinė savo veiklą grindžia Lietuvos Respublikos Konstitucija, teisės aktais, nurodytais šio įstatymo 4 straipsnyje, šiuo įstatymu, Tarnybos Lietuvos Respublikos muitinėje statutu, Lietuvos Respublikos mokesčių administravimo įstatymu, Lietuvos Respublikos viešojo administravimo įstatymu, kitais Europos Sąjungos ir Lietuvos Respublikos teisės aktais.
+Muitinė savo veiklą grindžia Lietuvos Respublikos Konstitucija, teisės aktais, nurodytais šio įstatymo 4 straipsnyje, šiuo įstatymu, Lietuvos Respublikos vidaus tarnybos statutu, Lietuvos Respublikos mokesčių administravimo įstatymu, Lietuvos Respublikos viešojo administravimo įstatymu, kitais Europos Sąjungos ir Lietuvos Respublikos teisės aktais.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
  
-
-
 
 
 
@@ -581,17 +585,34 @@ Muitinę sudaro šios muitinės įstaigos:
 
 
 
-6) priima sprendimus, sudaro sutartis, susitarimus ir sandorius Muitinės departamento vardu;
+6) tvirtina muitinės personalo kvalifikacijos tobulinimo programas; 
+Papildyta straipsnio punktu:
+Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
+ 
 
 
 
 
-7) panaikina teisės aktams prieštaraujančius muitinės pareigūnų ir valstybės tarnautojų sprendimus;
+7) priima sprendimus, sudaro sutartis, susitarimus ir sandorius Muitinės departamento vardu;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
+ 
 
 
 
 
-8) atlieka kitas teisės aktų nustatytas funkcijas ir naudojasi teisės aktuose numatytomis teisėmis.
+8) panaikina teisės aktams prieštaraujančius muitinės pareigūnų ir valstybės tarnautojų sprendimus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
+ 
+
+
+
+
+9) atlieka kitas teisės aktų nustatytas funkcijas ir naudojasi teisės aktuose numatytomis teisėmis.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
+ 
 
 
 
@@ -645,7 +666,10 @@ Muitinę sudaro šios muitinės įstaigos:
 17 straipsnis. Muitinės postai ir specialiųjų muitinės įstaigų teritoriniai padaliniai
 
 
-1. Muitinės postai yra teritorinių muitinių struktūriniai padaliniai, veikiantys Muitinės departamento nustatytose vietose ir atliekantys muitinės formalumus ir kitas Muitinės departamento arba teritorinės muitinės jiems nustatytas funkcijas. Muitinės posto nuostatus tvirtina teritorinės muitinės, kurios struktūrinis padalinys yra atitinkamas muitinės postas, direktorius. Muitinės posto nuostatuose gali būti apibrėžta muitinės posto veiklos zona.
+1. Muitinės postai yra teritorinių muitinių struktūriniai padaliniai, veikiantys Muitinės departamento nustatytose vietose ir atliekantys muitinės formalumus ir kitas Muitinės departamento arba teritorinės muitinės jiems nustatytas funkcijas. Muitinės posto nuostatus tvirtina Muitinės departamento generalinis direktorius. Muitinės posto nuostatuose gali būti apibrėžta muitinės posto veiklos zona. Muitinės posto pareigūno tarnybos vieta yra teritorinės muitinės, į kurią skiriamas muitinės posto pareigūnas, veiklos zona. Muitinės postų pareigūnų pareigų atlikimo vieta nustatoma ir keičiama Muitinės departamento generalinio direktoriaus nustatytomis sąlygomis ir tvarka Muitinės departamento generalinio direktoriaus ar jo įgalioto asmens įsakymu.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
+ 
 
 
 
@@ -665,6 +689,42 @@ Muitinės mobiliosios grupės yra mobilieji teritorinių muitinių arba speciali
  
 
 
+
+
+
+
+181 straipsnis. Muitinės personalo valdymas
+
+
+1. Muitinės personalą sudaro muitinės pareigūnai, karjeros valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis.
+
+
+
+
+2. Muitinės personalo valdymą įstatymų nustatyta tvarka atlieka Muitinės departamento generalinis direktorius. Muitinės departamento generalinis direktorius turi teisę įgalioti atlikti atskirus personalo valdymo veiksmus Muitinės departamento generalinio direktoriaus pavaduotoją arba tam tikros muitinės įstaigos direktorių. Muitinės departamento generalinio direktoriaus įgalioto Muitinės departamento generalinio direktoriaus pavaduotojo arba muitinės įstaigos direktoriaus priimtas sprendimas personalo valdymo klausimu įforminamas Muitinės departamento generalinio direktoriaus įsakymu, jeigu teisės aktuose nustatyta, kad toks Muitinės departamento generalinio direktoriaus sprendimas yra įforminamas įsakymu.
+
+
+Papildyta straipsniu:
+Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
+ 
+
+
+
+
+182 straipsnis. Muitinės personalo tarnybinės veiklos ir elgesio tikrinimas
+
+
+1. Kai yra asmenų, institucijų ar visuomenės informavimo priemonėse pateiktos arba kitaip teisėtu būdu gautos informacijos apie galimas neteisėtas muitinės personalo veikas, atliekamas muitinės personalo tarnybinės veiklos ir elgesio tikrinimas korupcijos prevencijos arba muitinės įstaigų personalo drausmės kontrolės tikslais.
+
+
+
+
+2. Muitinės personalo tarnybinės veiklos ir elgesio tikrinimo tvarką nustato Muitinės departamento generalinis direktorius.
+
+
+Papildyta straipsniu:
+Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
+ 
 
 
 
@@ -2179,3 +2239,8 @@ Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 3, 69 straipsnių ir priedo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2694, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26857
 Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
+Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 3, 7, 15, 17 straipsnių pakeitimo ir Įstatymo papildymo 18-1 ir 18-2 straipsniais įstatymas
