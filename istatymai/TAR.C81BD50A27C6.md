@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-12-20 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -1267,6 +1267,7 @@ Nr. XIII-903, 2017-12-19, paskelbta TAR 2017-12-27, i. k. 2017-21326
 
 
 Straipsnio pakeitimai:
+Nr. XIII-903, 2017-12-19, paskelbta TAR 2017-12-27, i. k. 2017-21326
 Nr. XIII-1763, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20876
  
 
@@ -2427,6 +2428,14 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 16) sužinojus, kad medicinos priemonės neatitinka sveikatos apsaugos ministro nustatytų reikalavimų ar gali kenkti pacientų, naudotojų saugai, nutraukti medicinos priemonių naudojimą ir (ar) imtis reikiamų veiksmų keliamam pavojui pašalinti, taip pat apie tai informuoti sveikatos apsaugos ministro įgaliotą instituciją, atsakingą už medicinos priemones;
 Papildyta straipsnio punktu:
 Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+ 
+
+
+
+
+17) pasiūlyti pacientui artimiausią objektyviai įmanomą asmens sveikatos priežiūros paslaugos suteikimo datą ir laiką ir registruoti visus pacientus jų kreipimosi į asmens sveikatos priežiūros įstaigą momentu, neribojant registravimosi terminų, sveikatos apsaugos ministro nustatyta tvarka. 
+Papildyta straipsnio punktu:
+Nr. XII-2538, 2016-06-29, paskelbta TAR 2016-07-14, i. k. 2016-20556
  
 
 
