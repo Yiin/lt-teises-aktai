@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8624542DCE85"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2015-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-02-28
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 91-0; Žin. 1990, Nr.29-692, i. k. 090XX01ISTA000I-606
  
@@ -58,43 +58,55 @@ Papildyta straipsnio dalimi:
 Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
  
 
-4. Politinė partija – pagal šį įstatymą įsteigtas pavadinimą turintis viešasis juridinis asmuo, kurio tikslas – tenkinti savo narių politinius interesus, padėti reikšti jų politinę valią, siekti dalyvauti įgyvendinant valstybės valdžią ir savivaldos teisę. 
+4. Parlamentinė partija – politinė partija, turinti savo atstovų laisva valia sudarytą frakciją Lietuvos Respublikos Seime. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1624, 2018-11-15, paskelbta TAR 2018-11-19, i. k. 2018-18643
+ 
+
+5. Politinė partija – pagal šį įstatymą įsteigtas pavadinimą turintis viešasis juridinis asmuo, kurio tikslas – tenkinti savo narių politinius interesus, padėti reikšti jų politinę valią, siekti dalyvauti įgyvendinant valstybės valdžią ir savivaldos teisę. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
+Nr. XIII-1624, 2018-11-15, paskelbta TAR 2018-11-19, i. k. 2018-18643
  
 
-5. Politinės partijos einamoji banko sąskaita – Lietuvos Respublikoje registruotame banke arba kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje registruoto banko padalinyje, veikiančiame Lietuvos Respublikoje, politinės partijos sąskaita, kurioje laikomos ir kaupiamos politinės partijos lėšos ir iš kurios apmokamos politinės partijos išlaidos, skirtos įstatymuose nustatytai politinės partijos veiklai vykdyti. 
+6. Politinės partijos einamoji banko sąskaita – Lietuvos Respublikoje registruotame banke arba kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje registruoto banko padalinyje, veikiančiame Lietuvos Respublikoje, politinės partijos sąskaita, kurioje laikomos ir kaupiamos politinės partijos lėšos ir iš kurios apmokamos politinės partijos išlaidos, skirtos įstatymuose nustatytai politinės partijos veiklai vykdyti. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
+Nr. XIII-1624, 2018-11-15, paskelbta TAR 2018-11-19, i. k. 2018-18643
  
 
-6. Politinės partijos steigėjas – politinę partiją steigiantis Lietuvos Respublikos pilietis, sulaukęs 18 metų.
+7. Politinės partijos steigėjas – politinę partiją steigiantis Lietuvos Respublikos pilietis, sulaukęs 18 metų.
 Straipsnio dalies pakeitimai:
 Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
+Nr. XIII-1624, 2018-11-15, paskelbta TAR 2018-11-19, i. k. 2018-18643
  
 
-7. Politinių partijų finansavimo stebėsena – duomenų apie politinių partijų finansavimą rinkimas, kaupimas, analizė ir vertinimas šio įstatymo nustatytais tikslais.
+8. Politinių partijų finansavimo stebėsena – duomenų apie politinių partijų finansavimą rinkimas, kaupimas, analizė ir vertinimas šio įstatymo nustatytais tikslais.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
+Nr. XIII-1624, 2018-11-15, paskelbta TAR 2018-11-19, i. k. 2018-18643
  
 
-8. Už politinės partijos apskaitą atsakingas asmuo – politinės partijos vyriausiasis buhalteris (buhalteris) arba pagal sutartį apskaitos paslaugas teikianti įmonė.
+9. Už politinės partijos apskaitą atsakingas asmuo – politinės partijos vyriausiasis buhalteris (buhalteris) arba pagal sutartį apskaitos paslaugas teikianti įmonė.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
+Nr. XIII-1624, 2018-11-15, paskelbta TAR 2018-11-19, i. k. 2018-18643
  
 
-9. Valstybės biudžeto asignavimai – politinėms partijoms skirta bendra lėšų suma, nustatoma Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme.
+10. Valstybės biudžeto asignavimai – politinėms partijoms skirta bendra lėšų suma, nustatoma Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
+Nr. XIII-1624, 2018-11-15, paskelbta TAR 2018-11-19, i. k. 2018-18643
  
 
-10. Valstybės biudžeto asignavimų sąskaita – Lietuvos Respublikoje registruotame banke arba kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje registruoto banko padalinyje, veikiančiame Lietuvos Respublikoje, politinės partijos sąskaita, kurioje laikomi ir kaupiami tik šiame įstatyme nustatyta tvarka gauti valstybės biudžeto asignavimai ir iš kurios apmokamos šiame įstatyme numatytos išlaidos.
+11. Valstybės biudžeto asignavimų sąskaita – Lietuvos Respublikoje registruotame banke arba kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje registruoto banko padalinyje, veikiančiame Lietuvos Respublikoje, politinės partijos sąskaita, kurioje laikomi ir kaupiami tik šiame įstatyme nustatyta tvarka gauti valstybės biudžeto asignavimai ir iš kurios apmokamos šiame įstatyme numatytos išlaidos.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
+Nr. XIII-1624, 2018-11-15, paskelbta TAR 2018-11-19, i. k. 2018-18643
  
 
 3 straipsnis. Teisė jungtis į politines partijas
@@ -208,7 +220,6 @@ Straipsnio dalies pakeitimai:
 Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
  
 
-Papildyta nuo 2015-01-01:
 9. Jeigu politinė partija šio straipsnio 8 dalyje nustatyta tvarka vienus metus nepateikia savo narių sąrašų, Teisingumo ministerija apie tai praneša Juridinių asmenų registro tvarkytojui ir šis inicijuoja politinės partijos likvidavimą Civilinio kodekso 2.70 straipsnyje nustatyta tvarka.
 
 Straipsnio pakeitimai:
@@ -377,7 +388,7 @@ Nr. XII-1252, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14866
 
 1. Politinės partijos, kurios įstatymų nustatyta tvarka įregistruotos Juridinių asmenų registre ir atitinka įstatymų reikalavimus dėl politinės partijos narių skaičiaus ir kurioms nėra pradėta pertvarkymo arba likvidavimo procedūra, turi teisę į valstybės biudžeto asignavimus politinės partijos veiklai finansuoti.
 
-2. Valstybės biudžeto asignavimai politinės partijos veiklai finansuoti paskirstomi toms šio straipsnio 1 dalyje nustatytus kriterijus atitinkančioms politinėms partijoms, kurios yra gavusios ne mažiau kaip 3 procentus visų rinkėjų balsų, paduotų už politinių partijų kandidatus tuose Seimo, savivaldybių tarybų rinkimuose, rinkimuose į Europos Parlamentą, pagal kurių rezultatus paskirstomi šie valstybės biudžeto asignavimai. 
+2. Valstybės biudžeto asignavimai politinės partijos veiklai finansuoti paskirstomi toms šio straipsnio 1 dalyje nustatytus kriterijus atitinkančioms politinėms partijoms, kurios yra gavusios ne mažiau kaip 2 procentus visų rinkėjų balsų, paduotų už politinių partijų kandidatus tuose Seimo, savivaldybių tarybų rinkimuose, rinkimuose į Europos Parlamentą, pagal kurių rezultatus paskirstomi šie valstybės biudžeto asignavimai.
 
 3. Valstybės biudžeto asignavimai politinių partijų veiklai finansuoti yra paskirstomi pagal Seimo, savivaldybių tarybų rinkimų, rinkimų į Europos Parlamentą (pakartotinių, naujų rinkimų ir pakartotinio balsavimo), kuriuose išrinktų kandidatų įgaliojimai nėra nutrūkę arba jiems nutrūkus laisva vieta buvo užimta nerengiant rinkimų, galiojančius rezultatus:
 
@@ -395,7 +406,12 @@ Nr. XII-1252, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14866
 
 3) politinei partijai skiriami valstybės biudžeto pusmetiniai asignavimai politinės partijos veiklai finansuoti nustatomi vieno rinkėjo balso pusės metų finansinį koeficientą padauginus iš rinkėjų, padavusių savo balsus už šios politinės partijos kandidatus, balsų skaičiaus.
 
-5. Politinei partijai skiriamą valstybės biudžeto asignavimų, skirtų politinės partijos veiklai finansuoti, dydį šiame straipsnyje nustatyta tvarka nustato Vyriausioji rinkimų komisija ir ne vėliau kaip iki kiekvienų metų balandžio 15 dienos ir lapkričio 15 dienos perveda į politinės partijos valstybės biudžeto asignavimų sąskaitą. 
+5. Politinei partijai skiriamą valstybės biudžeto asignavimų, skirtų politinės partijos veiklai finansuoti, dydį šiame straipsnyje nustatyta tvarka nustato Vyriausioji rinkimų komisija ir ne vėliau kaip iki kiekvienų metų balandžio 15 dienos ir lapkričio 15 dienos perveda į politinės partijos valstybės biudžeto asignavimų sąskaitą.
+
+6. Jeigu po Seimo rinkimų yra įregistruojama nauja šio straipsnio 1 dalyje nustatytus kriterijus atitinkanti politinė partija, kuri yra parlamentinė partija, jos veiklai finansuoti skiriami valstybės biudžeto asignavimai, kurių dydis lygus mažiausiems parlamentinei partijai praėjusiais kalendoriniais metais skirtiems valstybės biudžeto asignavimams, padaugintiems iš naujos parlamentinės partijos ir mažiausiai finansuojamos parlamentinės partijos frakcijų narių skaičiaus santykio. Valstybės biudžeto asignavimai skiriami iki pirmųjų Seimo rinkimų po naujos politinės partijos įregistravimo. Valstybės biudžeto asignavimų mokėjimas nutraukiamas, jei juos gaunanti politinė partija tais pačiais kalendoriniais metais, kuriais jai buvo skirti valstybės biudžeto asignavimai, yra reorganizuojama susijungimo būdu su kita politine partija, kuriai valstybės biudžeto asignavimai yra skiriami šio straipsnio 1–5 dalyse nustatyta tvarka. Valstybės biudžeto asignavimai neskiriami tuo atveju, kai naujai politinei partijai atstovaujantys Seimo nariai į Seimą buvo išrinkti kaip politinės partijos, kuriai valstybės biudžeto asignavimai neskirti dėl šio įstatymo 20 straipsnio 4 dalyje nurodytų pažeidimų, kandidatai.
+
+Straipsnio pakeitimai:
+Nr. XIII-1624, 2018-11-15, paskelbta TAR 2018-11-19, i. k. 2018-18643
  
 
 22 straipsnis. Politinių partijų turtas ir lėšos
@@ -544,7 +560,8 @@ Ginčai dėl šio įstatymo pažeidimų sprendžiami įstatymų nustatyta tvarka
  
  
 LIETUVOS RESPUBLIKOS 
-AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                                           V. LANDSBERGIS 
+AUKŠČIAUSIOSIOS TARYBOS 
+PIRMININKAS                                                                                                V. LANDSBERGIS 
 
  
  
@@ -647,4 +664,9 @@ Lietuvos Respublikos politinių partijų įstatymo Nr. I-606 19 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
 Lietuvos Respublikos politinių partijų įstatymo Nr. I-606 preambulės ir 2, 3, 5, 8 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1624, 2018-11-15, paskelbta TAR 2018-11-19, i. k. 2018-18643
+Lietuvos Respublikos politinių partijų įstatymo Nr. I-606 2 ir 21 straipsnių pakeitimo įstatymas
 
