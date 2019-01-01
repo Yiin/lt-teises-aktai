@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2018-12-21 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -201,6 +201,14 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 
 
+181. Energijos kaupimo įrenginys elektros sistemoje – įrenginys, kuriame gali būti kaupiama ir į elektros tinklus atiduodama elektros energija arba įrenginys, kuriame elektros energija gali būti konvertuojama į kitos rūšies energiją ir vėl kaip elektros energija grąžinama į elektros tinklus (įskaitant elektros baterijas, hidroakumuliacines elektrines, kondensatorius, suspausto oro ar vandenilio saugyklas). 
+Papildyta straipsnio dalimi:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+ 
+
+
+
+
 19. Horizontalios integracijos įmonė – įmonė ar įmonių grupė, kuri verčiasi bent viena iš šių veiklos rūšių: elektros energijos gamybos, perdavimo, skirstymo arba tiekimo veikla ir verčiasi kita su elektros energetika nesusijusia veikla.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
@@ -277,9 +285,11 @@ Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
 
 
 
-243. Kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovas – Lietuvos Respublikos ar kitos valstybės narės juridinis asmuo, kita organizacija ar jų padalinys, turintys šio įstatymo nustatytą teisę įrengti kilnojamuosius elektros energetikos objektus ir įrenginius, nurodytus šio įstatymo 75 straipsnio 2 dalyje. 
+243. Kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovas – Lietuvos Respublikos ar kitos valstybės narės fizinis asmuo arba juridinis asmuo, kita organizacija ar jų padalinys, turintys šio įstatymo nustatytą teisę įrengti kilnojamuosius elektros energetikos objektus ir įrenginius, nurodytus šio įstatymo 75 straipsnio 2 dalyje. 
 Papildyta straipsnio dalimi:
 Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
+Straipsnio dalies pakeitimai:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
  
 
 
@@ -565,7 +575,9 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-56. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas) ir kituose teisės aktuose.
+56. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme (toliau – Energetikos įstatymas), Lietuvos Respublikos statybos įstatyme ir kituose teisės aktuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
@@ -2704,11 +2716,12 @@ Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 34 straipsnis. Atsiskaitymo už elektros energijos persiuntimą perdavimo tinklais garantijos
 
 
-Skirstomųjų tinklų operatoriai ir vartotojai, kurių įrenginiai prijungti prie perdavimo tinklų ir kurie yra sudarę su nepriklausomu tiekėju elektros energijos tiekimo sutartį, privalo sudaryti sutartį su perdavimo sistemos operatoriumi ir laiku atsiskaityti už elektros energijos persiuntimą perdavimo tinklais ir kitas operatoriaus teikiamas paslaugas, susijusias su elektros persiuntimu. Nepriklausomas tiekėjas, kuris yra sudaręs sutartį su perdavimo sistemos operatoriumi dėl atsiskaitymo už vartotojui suteiktas persiuntimo paslaugas, skirstomųjų tinklų operatorius ar vartotojas, pažeidę su perdavimo sistemos operatoriumi sudarytą sutartį, privalo perdavimo sistemos operatoriaus reikalavimu užtikrinti visų savo prievolių įvykdymą.
+Skirstomųjų tinklų operatoriai ir vartotojai, kurių įrenginiai prijungti prie perdavimo tinklų ir kurie yra sudarę su nepriklausomu tiekėju elektros energijos tiekimo sutartį, privalo sudaryti sutartį su perdavimo sistemos operatoriumi ir laiku atsiskaityti už elektros energijos persiuntimą perdavimo tinklais ir už kitas operatoriaus teikiamas paslaugas, susijusias su elektros energijos persiuntimu, išskyrus už elektros energijos, skirtos energijos kaupimo įrenginiams įkrauti, persiuntimą, kada energijos kaupimo įrenginiams įkrauti patiektas elektros energijos kiekis, išskyrus technologinius nuostolius, vėliau yra grąžinamas į operatorių elektros tinklus. Nepriklausomas tiekėjas, kuris yra sudaręs sutartį su perdavimo sistemos operatoriumi dėl atsiskaitymo už vartotojui suteiktas persiuntimo paslaugas, skirstomųjų tinklų operatorius ar vartotojas, pažeidę su perdavimo sistemos operatoriumi sudarytą sutartį, privalo perdavimo sistemos operatoriaus reikalavimu užtikrinti visų savo prievolių įvykdymą. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
  
 
 
@@ -2974,7 +2987,10 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 40 straipsnis. Atsiskaitymo už elektros energijos persiuntimą skirstomaisiais tinklais garantijos
 
 
-1. Vartotojai, kurių įrenginiai yra prijungti prie skirstomųjų tinklų ir kurie yra sudarę su nepriklausomu tiekėju elektros energijos tiekimo sutartį, privalo sudaryti sutartį su skirstomųjų tinklų operatoriumi ir laiku atsiskaityti už elektros energijos persiuntimą perdavimo ir skirstomaisiais tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas. Nepriklausomas tiekėjas, kuris yra sudaręs sutartį su skirstomųjų tinklų operatoriumi dėl atsiskaitymo už vartotojui suteiktas persiuntimo paslaugas bei už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, ir vartotojas, pažeidęs su skirstomųjų tinklų operatoriumi sudarytą sutartį, privalo skirstomųjų tinklų operatoriaus reikalavimu pateikti visų savo prievolių tinkamo įvykdymo užtikrinimą.
+1. Vartotojai, kurių įrenginiai yra prijungti prie skirstomųjų tinklų ir kurie yra sudarę su nepriklausomu tiekėju elektros energijos tiekimo sutartį, privalo sudaryti sutartį su skirstomųjų tinklų operatoriumi ir laiku atsiskaityti už elektros energijos persiuntimą perdavimo ir skirstomaisiais tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, išskyrus už elektros energijos kiekį, persiųstą energijos kaupimo įrenginiams, kurių įrengtoji elektrinė galia yra ne mažesnė negu 1 MW, įkrauti energija, kada energijos kaupimo įrenginiams įkrauti patiektas elektros energijos kiekis, išskyrus technologinius nuostolius, vėliau yra grąžinamas į operatorių elektros tinklus. Nepriklausomas tiekėjas, kuris yra sudaręs sutartį su skirstomųjų tinklų operatoriumi dėl atsiskaitymo už vartotojui suteiktas persiuntimo paslaugas bei už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, ir vartotojas, pažeidęs su skirstomųjų tinklų operatoriumi sudarytą sutartį, privalo skirstomųjų tinklų operatoriaus reikalavimu pateikti visų savo prievolių tinkamo įvykdymo užtikrinimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+ 
 
 
 
@@ -3211,12 +3227,17 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-5. Vartotojai, kurių įrenginiai prijungti prie skirstomųjų tinklų, pirkdami elektros energiją iš nepriklausomo tiekėjo, privalo skirstomųjų tinklų operatoriui apmokėti už elektros energijos persiuntimą perdavimo ir skirstomaisiais tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas. Vartotojas, gavęs skirstomųjų tinklų operatoriaus ir nepriklausomo tiekėjo sutikimą bei likdamas atsakingas skirstomųjų tinklų operatoriui, šioje dalyje nurodytas vartotojo pinigines prievoles gali pavesti vykdyti nepriklausomam tiekėjui.
+5. Vartotojai, kurių įrenginiai prijungti prie skirstomųjų tinklų, pirkdami elektros energiją iš nepriklausomo tiekėjo, privalo skirstomųjų tinklų operatoriui apmokėti už elektros energijos persiuntimą perdavimo ir skirstomaisiais tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, išskyrus už elektros energijos kiekį, persiųstą energijos kaupimo įrenginiams, kurių įrengtoji elektrinė galia yra ne mažesnė negu 1 MW, įkrauti energija, kada energijos kaupimo įrenginiams įkrauti patiektas elektros energijos kiekis, išskyrus technologinius nuostolius, vėliau yra grąžinamas į operatorių elektros tinklus. Vartotojas, gavęs skirstomųjų tinklų operatoriaus ir nepriklausomo tiekėjo sutikimą bei būdamas atsakingas skirstomųjų tinklų operatoriui, šioje dalyje nurodytas vartotojo pinigines prievoles gali pavesti vykdyti nepriklausomam tiekėjui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+ 
 
 
 
 
-6. Vartotojai, kurių įrenginiai prijungti prie perdavimo tinklų, pirkdami elektros energiją iš nepriklausomo tiekėjo, privalo perdavimo sistemos operatoriui apmokėti už elektros energijos persiuntimą perdavimo tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas. Vartotojas, gavęs perdavimo sistemos operatoriaus ir nepriklausomo tiekėjo sutikimą bei likdamas atsakingas perdavimo sistemos operatoriui, šioje dalyje nurodytas vartotojo pinigines prievoles gali pavesti vykdyti nepriklausomam tiekėjui.
+6. Vartotojai, kurių įrenginiai prijungti prie perdavimo tinklų, pirkdami elektros energiją iš nepriklausomo tiekėjo, privalo perdavimo sistemos operatoriui apmokėti už elektros energijos persiuntimą perdavimo tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, išskyrus už elektros energijos kiekį, persiųstą energijos kaupimo įrenginiams įkrauti energija, kada energijos kaupimo įrenginiams įkrauti patiektas elektros energijos kiekis, išskyrus technologinius nuostolius, vėliau yra grąžinamas į operatorių elektros tinklus. Vartotojas, gavęs perdavimo sistemos operatoriaus ir nepriklausomo tiekėjo sutikimą bei būdamas atsakingas perdavimo sistemos operatoriui, šioje dalyje nurodytas vartotojo pinigines prievoles gali pavesti vykdyti nepriklausomam tiekėjui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
  
 
 
@@ -4452,6 +4473,14 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
+71. Vartotojai, kurių prijungiamų elektros įrenginių leistinoji naudoti galia ar didinama elektros įrenginių leistinoji naudoti galia yra ne mažesnė kaip 10 MW ir kurių elektros įrenginiams prijungti prie elektros tinklo reikia pastatyti naujus elektros perdavimo tinklus, ir kurie pageidauja Energetikos ministerijos nustatyta tvarka, suderinę su perdavimo sistemos operatoriumi, pastatyti šiuos elektros tinklus ir organizuoti jų statybos darbus, apmoka 100 procentų perdavimo tinklų statybos sąnaudų. Atlikti perdavimo tinklo statybos darbai laikomi vartotojo elektros įrenginių prijungimo prie perdavimo tinklo paslaugos dalimi ir šie vartotojų lėšomis vartotojų pastatyti perdavimo tinklai yra perdavimo sistemos operatoriaus nuosavybė. Prie šių perdavimo tinklų prijungiant kitų vartotojų įrenginius, už jų statybą ir (ar) naudojimą šiuos perdavimo tinklus pastačiusiems vartotojams neatlyginama. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
+
+
+
+
 8. Tinklų operatorių sąnaudos, susijusios su gamintojo, gaminančio elektros energiją iš atsinaujinančių energijos išteklių, elektros įrenginių prijungimu prie elektros tinklų, paskirstomos tarp gamintojo ir tinklų operatoriaus Atsinaujinančių išteklių energetikos įstatyme nustatyta tvarka ir sąlygomis.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
@@ -5057,7 +5086,10 @@ TAR pastaba. 74 straipsnio 2 dalies 2 punkto nuostatos taikomos tik po įstatymo
 
 
 
-2) elektros energiją, būtiną elektros energijos gamybos technologiniam procesui užtikrinti, o termofikaciniu režimu kombinuotojo elektros energijos ir šilumos gamybos ciklo elektrinėse – už elektros energiją, būtiną bendram elektros energijos ir šilumos gamybos technologiniam procesui užtikrinti;
+2) elektros energiją, būtiną elektros energijos gamybos technologiniam procesui užtikrinti, taip pat už elektros energiją skirtą energijos kaupimo įrenginių, kurių įrengtoji elektrinė galia yra ne mažesnė nei 1 MW, įkrovimui, kada energijos kaupimo įrenginių įkrovimui patiektas elektros energijos kiekis, išskyrus technologinius nuostolius, vėliau yra grąžinamas į operatorių elektros tinklus, o termofikaciniu režimu kombinuotojo elektros energijos ir šilumos gamybos ciklo elektrinėse – už elektros energiją, būtiną bendram elektros energijos ir šilumos gamybos technologiniam procesui užtikrinti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+ 
 
 
 
@@ -5155,6 +5187,85 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
+741 straipsnis. Viešuosius interesus atitinkančių paslaugų kaina
+
+
+1. Komisija, atsižvelgdama į šio straipsnio nuostatas, nustato viešuosius interesus atitinkančių paslaugų kainą ir ją sudarančių atskirų sudedamųjų dalių kainas pagal šio įstatymo 74 straipsnio 2 dalyje nustatytą viešuosius interesus atitinkančių paslaugų sąrašą. 
+
+
+
+
+2. Vartotojai, atitinkantys šio straipsnio 3 dalyje nustatytus reikalavimus, iki kiekvienų metų liepos 1 dienos už vartotojo suvartotą elektros energijos kiekį, viršijantį 1 GWh per praėjusius kalendorinius metus, turi teisę Vyriausybės nustatyta tvarka už praėjusius kalendorinius metus susigrąžinti 85 procentus sumokėtos Komisijos nustatytos viešuosius interesus atitinkančių paslaugų kainos dalies, susijusios su elektros energijos gamyba naudojant atsinaujinančius energijos išteklius.
+
+
+
+
+3. Šio straipsnio 2 dalyje nustatyta viešuosius interesus atitinkančių paslaugų kainos dalies susigrąžinimo tvarka, viešuosius interesus atitinkančių paslaugų kainos dalies administravimo ir elektros energijos naudojimo intensyvumo bendrojoje pridėtinėje vertėje apskaičiavimo tvarka taikoma vartotojams, kurie atitinka šiuos reikalavimus:
+
+
+1) pagrindinę veiklą vykdo Vyriausybės patvirtintuose elektros energiją intensyviai naudojančiuose sektoriuose, kaip jie apibrėžti 2014 m. birželio 28 d. Europos Komisijos komunikato „2014–2020 m. Valstybės pagalbos aplinkos apsaugai ir energetikai gairės“ (2014/C 200/01) 3 priede. Vyriausybė nustato kitus sektorius, kaip jie apibrėžti 2014 m. birželio 28 d. Europos Komisijos komunikato „2014–2020 m. Valstybės pagalbos aplinkos apsaugai ir energetikai gairės“ (2014/C 200/01) 5 priede, kuriuose pagrindinę veiklą vykdantiems vartotojams taikoma šio straipsnio 2 dalyje nustatyta tvarka, jeigu jų elektros energijos naudojimo intensyvumas yra ne mažesnis kaip 20 procentų bendrosios pridėtinės vertės;
+
+
+
+
+2) per kalendorinius metus suvartoja ne mažiau kaip 1 GWh elektros energijos;
+
+
+
+
+3) neturi pradelstų mokėjimų viešuosius interesus atitinkančių paslaugų lėšų administratoriui už viešuosius interesus atitinkančias paslaugas;
+
+
+
+
+4) Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymo nustatyta tvarka pateikia energijos vartojimo audito ataskaitą ir sudaro šio straipsnio 5 dalyje nurodytą sutartį su Energetikos ministerijos įgaliota institucija ar įstaiga, kuria įsipareigoja pateikti energijos vartojimo audito ataskaitą ne rečiau kaip kas 4 metai po anksčiau atlikto energijos vartojimo audito, ir numato šio straipsnio 5 dalyje nurodytų energijos vartojimo efektyvumo didinimo priemonių diegimo tvarką;
+
+
+
+
+5) yra įsidiegę energijos vartojimo audito ataskaitoje nurodytas geriausias esamas energijos vartojimo efektyvumo didinimo priemones arba jas diegia šio straipsnio 5 dalyje nustatyta tvarka;
+
+
+
+
+6) nėra priskiriami sunkumų patiriančios įmonės kategorijai, kaip tai apibrėžta 2004 m. spalio 1 d. Europos Komisijos komunikate „Bendrijos gairės dėl valstybės pagalbos sunkumus patiriančioms įmonėms sanuoti ir restruktūrizuoti“ (2004/C 244/02);
+
+
+
+
+7) jiems nėra išduotas vykdomasis raštas sumoms išieškoti pagal Europos Komisijos sprendimą, kuriame valstybės pagalba skelbiama neteisėta ir nesuderinama su vidaus rinka. Viešuosius interesus atitinkančių paslaugų kainos dalies susigrąžinimo tvarka negali būti taikoma tol, kol nebus sugrąžinta neteisėta ir nesuderinama su vidaus rinka gauta valstybės pagalba.
+
+
+
+
+
+
+4. Vartotojų atitikties šio straipsnio 3 dalyje nustatytiems reikalavimams vertinimą atlieka Energetikos ministerijos įgaliota institucija ar įstaiga Vyriausybės nustatyta tvarka.
+
+
+
+
+5. Šio straipsnio 3 dalyje nustatytus reikalavimus atitinkantys vartotojai, kurie nėra įsidiegę energijos vartojimo audito ataskaitoje nurodytų geriausių esamų energijos vartojimo efektyvumo didinimo priemonių ir kuriems atliktose energijos vartojimo audito ataskaitose nustatytos rekomendacijos dėl energijos vartojimo efektyvumo didinimo priemonių, gali pasinaudoti šio straipsnio 2 dalyje nustatyta teise, jeigu su Energetikos ministerijos įgaliota institucija ar įstaiga sudaro sutartį, kuria įsipareigoja geriausioms esamoms energijos vartojimo efektyvumo didinimo priemonėms įsidiegti per 4 metų laikotarpį nuo sutarties sudarymo skirti ne mažiau kaip 75 procentus šio straipsnio 2 dalies pagrindu galimos susigrąžintos sumos ir ne mažiau kaip pusę jos investuoti per laikotarpio pirmuosius 2 metus. 
+
+
+
+
+6. Vartotojai, neatitinkantys nors vieno iš šio straipsnio 3 dalyje numatytų reikalavimų, ir (ar) vartotojai, kurie šio straipsnio 5 dalyje nustatyta tvarka neįsidiegia geriausių esamų energijos vartojimo efektyvumo didinimo priemonių, moka visą pagal šio straipsnio 1 dalį Komisijos nustatytą viešuosius interesus atitinkančių paslaugų kainą. Vartotojai privalo Energetikos ministerijos įgaliotai institucijai ar įstaigai per 60 kalendorinių dienų nuo jos pareikalavimo grąžinti šio straipsnio 5 dalyje nustatyta tvarka geriausioms esamoms energijos vartojimo efektyvumo didinimo priemonėms diegti skirtą, bet nepanaudotą viešuosius interesus atitinkančių paslaugų lėšų dalį.
+
+
+
+
+7. Elektros energiją intensyviai naudojančių sektorių sąrašą, sektorių, kuriuose veikiantiems vartotojams taip pat taikoma šio straipsnio 2 dalyje nustatyta tvarka, sąrašą, pagal šį straipsnį nustatytos viešuosius interesus atitinkančių paslaugų kainos dalies administravimo, susigrąžinimo ir elektros energijos naudojimo intensyvumo bendrojoje pridėtinėje vertėje apskaičiavimo, kuriuos atlieka Energetikos ministerijos įgaliota institucija ar įstaiga, tvarką nustato Vyriausybė. 
+TAR pastaba. 741 straipsnio nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas, bet ne anksčiau kaip 2019 m. sausio 1 d.
+
+
+Papildyta straipsniu:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
+
+
+
+
 75 straipsnis. Žemės naudojimas elektros energetikos objektams
 
 
@@ -5166,9 +5277,10 @@ Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
 
 
 
-2. Elektros energijos persiuntimui skirtos žemosios ir vidutinės įtampos elektros oro linijos, oro kabeliai ir požeminių kabelių linijos ir įrenginiai, įskaitant transformatorinėse ir transformatorių pastotėse įrengtus įrenginius, kartu su požeminių kabelių kanalais, linijas laikančiomis atramomis ir kitais priklausiniais, laikomi kilnojamaisiais daiktais, išskyrus elektros tinklų priklausinius, kurie pagal Statybos įstatymą laikytini pastatais.
+2. Elektros energijos persiuntimui skirtos žemosios ir vidutinės įtampos elektros oro linijos, oro kabelių linijos, požeminių ir povandeninių kabelių linijos ir jų technologiniai priklausiniai, įskaitant transformatorines ir transformatorių pastotes ir jose įrengtus įrenginius, požeminių kabelių kanalus, linijas laikančias atramas ir kitus technologinius priklausinius, taip pat vartotojo elektros įrenginiai, laikomi kilnojamaisiais daiktais, išskyrus elektros energetikos objektus, kurie pagal Statybos įstatymą laikytini pastatais. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
  
 
 
@@ -5292,12 +5404,34 @@ Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
 752 straipsnis. Teisė būti kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovu. Rangovo teisės ir pareigos
 
 
-1. Būti kilnojamųjų elektros energetikos objektų ir įrenginių, nurodytų šio įstatymo 75 straipsnio 2 dalyje, įrengimo rangovu turi teisę Lietuvos Respublikos ar kitos valstybės narės juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos inspekcijos Energetikos įstatymo nustatyta tvarka išduotą atestatą eksploatuoti elektros įrenginius.
+1. Būti kilnojamųjų elektros energetikos objektų ir įrenginių, nurodytų šio įstatymo 75 straipsnio 2 dalyje, išskyrus vartotojo elektros įrenginius, įrengimo rangovu turi teisę Lietuvos Respublikos ar kitos valstybės narės juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos inspekcijos Energetikos įstatymo nustatyta tvarka išduotą elektros įrenginių įrengimo veiklos atestatą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
 
 
 
 
-2. Kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovas privalo:
+2. Būti šio įstatymo 75 straipsnio 2 dalyje nurodytų vartotojo elektros įrenginių, išskyrus vartotojo elektros įrenginius ypatinguosiuose statiniuose, įrengimo rangovu turi teisę Lietuvos Respublikos ar kitos valstybės narės fizinis asmuo ir juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos inspekcijos Energetikos įstatymo nustatyta tvarka išduotą elektros įrenginių įrengimo veiklos atestatą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
+
+
+
+
+3. Įrengti šio įstatymo 75 straipsnio 2 dalyje nurodytus vartotojo elektros įrenginius statiniuose turi teisę Statybos įstatyme nurodyti asmenys, kuriems suteikta teisė būti ypatingųjų statinių statybos rangovais ir vykdyti statinio elektros inžinerinių sistemų įrengimo darbus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
+
+
+
+
+4. Kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovas privalo:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
 
 
 1) vykdyti kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo darbus pagal kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektą, šio įstatymo ir kitų teisės aktų nuostatas;
@@ -5332,7 +5466,10 @@ Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
 
 
 
-3. Kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovas turi teisę:
+5. Kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovas turi teisę:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
 
 
 1) pasitelkti savo prievolėms įvykdyti kitus asmenis (subrangovus), jeigu kiti įstatymai ar rangos sutartis nenustato, kad užduotį privalo įvykdyti pats rangovas;
@@ -5347,7 +5484,10 @@ Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
 
 
 
-4. Kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovas turi ir kitų teisių ir pareigų, numatytų Civiliniame kodekse ir kituose įstatymuose. 
+6. Kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovas turi ir kitų teisių ir pareigų, numatytų Civiliniame kodekse ir kituose įstatymuose. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
 
 
 Papildyta straipsniu:
@@ -5856,3 +5996,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 12, 15, 23,
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT24-N14/2018, 2018-12-21, paskelbta TAR 2018-12-21, i. k. 2018-21226
 Dėl Lietuvos Respublikos elektros energetikos įstatymo 16 straipsnio 6 dalies 1 punkto, 7 dalies, 24 dalies 2 punkto atitikties Lietuvos Respublikos Konstitucijai
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 16, 22, 34, 40, 46, 67, 74 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas
