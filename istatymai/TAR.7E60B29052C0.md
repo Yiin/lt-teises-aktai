@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
 
-Suvestinė redakcija nuo 2018-07-06
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2271, i. k. 1001010ISTAIII-1904
  
@@ -139,11 +139,6 @@ Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
 
 
 9) Seimo, Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams;
-
-
-
-
-10) Vyriausybės įstaigų vadovams;
 
 
 
@@ -653,7 +648,7 @@ IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
 
 
  6. 
- Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos tarybos, Lietuvos radijo ir televizijos komisijos, Lietuvos kultūros tarybos, Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės kainų ir energetikos kontrolės komisijos ir Vyriausiosios tarnybinės etikos komisijos: 
+ Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos tarybos, Lietuvos radijo ir televizijos komisijos, Lietuvos kultūros tarybos, Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės kainų ir energetikos kontrolės komisijos ir Vyriausiosios tarnybinės etikos komisijos, Valstybinės lietuvių kalbos komisijos: 
 
 
 
@@ -962,6 +957,7 @@ Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
 Nr. XIII-899, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21496
 Nr. XIII-1103, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06970
 Nr. XIII-1376, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11331
+Nr. XIII-1828, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21848
  
 
 
@@ -1316,3 +1312,8 @@ Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmok�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1376, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11331
 Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 2 straipsnio ir priedėlio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1828, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21848
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 priedėlio pakeitimo įstatymas
