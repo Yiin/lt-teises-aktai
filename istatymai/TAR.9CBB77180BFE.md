@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9CBB77180BFE"
 
 # Lietuvos Respublikos priešgaisrinės saugos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 123-5518, i. k. 1021010ISTA0IX-1225
- 
-TAR pastaba. Savivaldybių priešgaisrinių tarnybų ir Valstybinės priešgaisrinės gelbėjimo tarnybos darbuotojai, dirbantys pagal darbo sutartis ir gesinantys gaisrus bei atliekantys žmonių ir turto gelbėjimo darbus, kurie priimti į pareigas iki įstatymo Nr. XII-2572 įsigaliojimo (2017-01-01) ir neturi pagrindinio išsilavinimo, privalo jį įgyti per dvejus metus nuo šio įstatymo įsigaliojimo dienos.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2572, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20299
-Lietuvos Respublikos priešgaisrinės saugos įstatymo Nr. IX-1225 1, 7 ir 18-2 straipsnių pakeitimo ir Įstatymo papildymo V-2 skyriumi įstatymas
  
  
 LIETUVOS RESPUBLIKOS PRIEŠGAISRINĖS SAUGOS ĮSTATYMAS
@@ -285,7 +280,7 @@ Nr. XI-623, 2009-12-22, Žin. 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI
 7 straipsnis. Priešgaisrinės apsaugos ir gelbėjimo departamentas
 
 
-Priešgaisrinės apsaugos ir gelbėjimo departamentas, įgyvendindamas šį Įstatymą: 
+1. Priešgaisrinės apsaugos ir gelbėjimo departamentas, įgyvendindamas šį Įstatymą: 
 
 
 1) pagal kompetenciją organizuoja gaisrų gesinimo, žmonių ir turto gelbėjimo, gaisrų padarinių mažinimo darbus ir jiems vadovauja; 
@@ -339,49 +334,38 @@ Priešgaisrinės apsaugos ir gelbėjimo departamentas, įgyvendindamas šį Įst
 
 
 11) nustato savanorių ugniagesių, dalyvaujančių gesinant gaisrus, sveikatos reikalavimus, suderintus su Sveikatos apsaugos ministerija, taip pat jų bendrojo fizinio parengtumo reikalavimus, mokymo ir kvalifikacijos tobulinimo tvarką; 
-Papildyta straipsnio punktu:
-Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
- 
 
 
 
 
 12) teikia savivaldybių priešgaisrinėms tarnyboms metodinę pagalbą; 
-Papildyta straipsnio punktu:
-Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
- 
 
 
 
 
 13) vidaus reikalų ministrui pavedus (įgaliojus) prižiūri, kaip atliekama valstybės perduota savivaldybėms priešgaisrinės saugos funkcija, kaip vykdomi savivaldybių priešgaisrinėms tarnyboms vidaus reikalų ministro ar jo įgalioto Priešgaisrinės apsaugos ir gelbėjimo departamento direktoriaus nustatyti jų veiklos kokybiniai ir (ar) kiekybiniai rodikliai; 
-Papildyta straipsnio punktu:
-Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
- 
 
 
 
 
 14) nustato tipinę savivaldybių priešgaisrinių tarnybų, savanorių ugniagesių veiklos atlikimo ir savanorių ugniagesių veiklos organizatoriaus funkcijų vykdymo tvarką; 
-Papildyta straipsnio punktu:
-Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
- 
 
 
 
 
 15) atlieka kitas šio Įstatymo ir kitų teisės aktų nustatytas funkcijas.
-Straipsnio punkto pakeitimai:
-Nr. XII-2572, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20299
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
- 
 
 
+
+
+
+
+2. Priešgaisrinę saugą Priešgaisrinės apsaugos ir gelbėjimo departamento priskirtose teritorijose užtikrina Priešgaisrinės apsaugos ir gelbėjimo departamento teritoriniai struktūriniai padaliniai – Priešgaisrinės apsaugos ir gelbėjimo departamento priešgaisrinės gelbėjimo valdybos. Priešgaisrinės apsaugos ir gelbėjimo departamento priešgaisrinių gelbėjimo valdybų vadovams ir jų pavaduotojams taikoma Vidaus tarnybos statuto nustatyta pareigūnų rotacija.
 
 
 Straipsnio pakeitimai:
 Nr. XI-623, 2009-12-22, Žin., 2010, Nr. 1-30 (2010-01-05), i. k. 1091010ISTA00XI-623
+Nr. XIII-1767, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20878
  
 
 
@@ -947,9 +931,11 @@ Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
 
 
 
-2. Valstybinė priešgaisrinė gelbėjimo tarnyba yra nuolatinės parengties civilinės saugos ir gelbėjimo sistemos dalis, gesinanti gaisrus, atliekanti žmonių ir turto gelbėjimo darbus ir steigiama Lietuvos Respublikos teritorijos administracinių vienetų centruose ir gaisro atžvilgiu pavojinguose objektuose, kai sudaromos sutartys su Priešgaisrinės apsaugos ir gelbėjimo departamentu. 
+2. Valstybinė priešgaisrinė gelbėjimo tarnyba yra nuolatinės parengties civilinės saugos ir gelbėjimo sistemos dalis, gesinanti gaisrus, atliekanti žmonių ir turto gelbėjimo darbus. Jos veikla organizuojama Lietuvos Respublikos teritorijos administracinių vienetų centruose ir gaisro atžvilgiu pavojinguose objektuose, kai dėl šių objektų priešgaisrinės saugos jų savininkai (valdytojai) sudaro sutartis su Priešgaisrinės apsaugos ir gelbėjimo departamentu. 
 Papildyta straipsnio dalimi:
 Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
+Straipsnio dalies pakeitimai:
+Nr. XIII-1767, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20878
  
 
 
@@ -971,7 +957,9 @@ Nr. XII-1330, 2014-11-13, paskelbta TAR 2014-11-26, i. k. 2014-17985
 
 
 
-5. Priešgaisrinės apsaugos ir gelbėjimo departamentas ir jam pavaldžios įstaigos teikia metodinę pagalbą priešgaisrinėms gelbėjimo pajėgoms ir pagal kompetenciją kontroliuoja jų pasirengimą veikti gesinant gaisrus.
+5. Priešgaisrinės apsaugos ir gelbėjimo departamentas teikia metodinę pagalbą kitoms priešgaisrinėms gelbėjimo pajėgoms ir pagal kompetenciją kontroliuoja jų pasirengimą veikti gesinant gaisrus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1767, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20878
  
 
 
@@ -1601,3 +1589,8 @@ Lietuvos Respublikos priešgaisrinės saugos įstatymo Nr. IX-1225 1, 2, 7, 9, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2572, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20299
 Lietuvos Respublikos priešgaisrinės saugos įstatymo Nr. IX-1225 1, 7 ir 18-2 straipsnių pakeitimo ir Įstatymo papildymo V-2 skyriumi įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1767, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20878
+Lietuvos Respublikos priešgaisrinės saugos įstatymo Nr. IX-1225 7 ir 16 straipsnių pakeitimo įstatymas
