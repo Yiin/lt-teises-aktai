@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
  
@@ -2072,7 +2072,6 @@ PAREIGŪNŲ SKATINIMAS IR ATSAKOMYBĖ
 
 8. Tarnybinė nuobauda Specialiųjų tyrimų tarnybos direktoriaus motyvuotu sprendimu už gerą tarnybą gali būti panaikinta pirmiau, negu sueis šio straipsnio 7 dalyje nustatytas terminas. Tarnybinė nuobauda taip pat gali būti panaikinta, jeigu pareigūnas gauna valstybės apdovanojimą.
  
- 
 
 
 
@@ -2471,12 +2470,22 @@ SOCIALINĖS GARANTIJOS
 59 straipsnis. Kompensacijos ir pašalpos
 
 
-1. Pareigūnui žuvus dėl tarnybos, jo šeimai – sutuoktiniui ar partneriui (kai partnerystė įregistruota įstatymų nustatyta tvarka), vaikams (įvaikiams) iki 18 metų, taip pat vyresniems vaikams (įvaikiams), jeigu jie mokosi įregistruotose bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose pagal bendrojo ugdymo ir profesinio mokymo programas grupinio mokymosi forma kasdieniu, neakivaizdiniu ir nuotoliniu mokymo proceso organizavimo būdais, pavienio mokymosi forma savarankišku ir nuotoliniu mokymo proceso organizavimo būdais ir aukštojoje mokykloje pagal nuolatinę studijų formą, iki jiems sukaks 24 metai, žuvusiojo vaikams, gimusiems po jo mirties, tėvui ar motinai – ir nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno mirties lygiomis dalimis išmokama 120 mėnesių vidutinio darbo užmokesčio dydžio vienkartinė kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu. Pareigūnas, žuvęs dėl tarnybos, laidojamas valstybės lėšomis.
+1. Pareigūnui žuvus dėl tarnybos, jo šeimai – sutuoktiniui ar partneriui (kai partnerystė įregistruota įstatymų nustatyta tvarka), vaikams (įvaikiams) iki 18 metų, taip pat vyresniems vaikams (įvaikiams), jeigu jie mokosi įregistruotose bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose pagal bendrojo ugdymo ir profesinio mokymo programas grupinio mokymosi forma kasdieniu, neakivaizdiniu ir nuotoliniu mokymo proceso organizavimo būdais, pavienio mokymosi forma savarankišku ir nuotoliniu mokymo proceso organizavimo būdais ir aukštojoje mokykloje pagal nuolatinę studijų formą, iki jiems sukaks 24 metai, žuvusiojo vaikams, gimusiems po jo mirties, tėvui ar motinai – ir nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno mirties lygiomis dalimis išmokama 93,10 mėnesio vidutinio darbo užmokesčio dydžio vienkartinė kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu. Pareigūnas, žuvęs dėl tarnybos, laidojamas valstybės lėšomis. 
+TAR pastaba. 59 straipsnio 1, 2 ir 3 dalyse nurodytos kompensacijos, kurios paskirtos iki įstatymo Nr. XIII-1738 įsigaliojimo (2019-01-01) ir kurias mokėti numatoma po šio įstatymo įsigaliojimo, neperskaičiuojamos pagal nurodytose dalyse nustatytus kompensacijų dydžius ir mokamos ne mažesnės, negu turėjo būti mokamos iki šio įstatymo įsigaliojimo.
+Kai į laikotarpį, reikalingą po šio įstatymo įsigaliojimo skiriamoms kompensacijoms, nurodytoms 59 straipsnio 1, 2 ir 3 dalyse, apskaičiuoti, patenka pareigūno draudžiamųjų pajamų laikotarpiai iki šio įstatymo įsigaliojimo, apskaičiuojant šių kompensacijų dydį, pareigūno draudžiamosios pajamos, buvusios tuo laikotarpiu iki šio įstatymo įsigaliojimo, didinamos 1,289 karto.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1738, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20706
+ 
 
 
 
 
-2. Pareigūną pripažinus nežinia kur esančiu ar paskelbus žuvusiu, laikoma, kad jis yra pripažintas nežinia kur esančiu ar paskelbtas žuvusiu dėl tarnybos, jeigu neįrodyta kitaip, ir jo šeimai bei nedarbingiems asmenims, kurie buvo jo išlaikomi arba nurodytą dieną turėjo teisę gauti jo išlaikymą, nuo pareigūno pripažinimo nežinia kur esančiu ar jo paskelbimo žuvusiu dienos kas mėnesį lygiomis dalimis mokama jo vidutinio darbo užmokesčio pašalpa, neviršijant 120 mėnesių vidutinio darbo užmokesčio dydžio sumos.
+2. Pareigūną pripažinus nežinia kur esančiu ar paskelbus žuvusiu, laikoma, kad jis yra pripažintas nežinia kur esančiu ar paskelbtas žuvusiu dėl tarnybos, jeigu neįrodyta kitaip, ir jo šeimai bei nedarbingiems asmenims, kurie buvo jo išlaikomi arba nurodytą dieną turėjo teisę gauti jo išlaikymą, nuo pareigūno pripažinimo nežinia kur esančiu ar jo paskelbimo žuvusiu dienos kas mėnesį lygiomis dalimis mokama jo vidutinio darbo užmokesčio kompensacija, neviršijant 93,10 mėnesio vidutinio darbo užmokesčio dydžio sumos. 
+TAR pastaba. 59 straipsnio 1, 2 ir 3 dalyse nurodytos kompensacijos, kurios paskirtos iki įstatymo Nr. XIII-1738 įsigaliojimo (2019-01-01) ir kurias mokėti numatoma po šio įstatymo įsigaliojimo, neperskaičiuojamos pagal nurodytose dalyse nustatytus kompensacijų dydžius ir mokamos ne mažesnės, negu turėjo būti mokamos iki šio įstatymo įsigaliojimo.
+Kai į laikotarpį, reikalingą po šio įstatymo įsigaliojimo skiriamoms kompensacijoms, nurodytoms 59 straipsnio 1, 2 ir 3 dalyse, apskaičiuoti, patenka pareigūno draudžiamųjų pajamų laikotarpiai iki šio įstatymo įsigaliojimo, apskaičiuojant šių kompensacijų dydį, pareigūno draudžiamosios pajamos, buvusios tuo laikotarpiu iki šio įstatymo įsigaliojimo, didinamos 1,289 karto.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1738, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20706
+ 
 
 
 
@@ -2484,39 +2493,44 @@ SOCIALINĖS GARANTIJOS
 3. Pareigūnui, kuris buvo sužalotas, susižalojo arba jo sveikata buvo sutrikdyta atliekant tarnybines pareigas, jeigu tarnybinių pareigų atlikimas buvo susijęs su padidėjusiu pavojumi ar padidėjusia rizika pareigūno gyvybei ar sveikatai, arba kai jo sužalojimas, susižalojimas ar sveikatos sutrikdymas yra susijęs su jo tarnybinių pareigų atlikimu, jeigu tarnybinių pareigų atlikimas buvo susijęs su padidėjusiu pavojumi ar padidėjusia rizika pareigūno gyvybei ar sveikatai, arba kai jo sveikata sutrikdyta dėl tarnybinių pareigų atlikimo ar pareigūno statuso, Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka išmokama kompensacija, sumažinta priklausančios išmokėti Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos netekto darbingumo vienkartinės kompensacijos ar netekto darbingumo periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu, atsižvelgiant į netekto darbingumo lygį ir sveikatos sutrikdymo mastą. Nustatomos šios kompensacijos:
 
 
-1) netekusiems 75–100 procentų darbingumo dėl sužalojimo ar susižalojimo – 60 mėnesių vidutinio darbo užmokesčio dydžio;
+1) netekusiems 75–100 procentų darbingumo dėl sužalojimo ar susižalojimo – 46,55 mėnesio vidutinio darbo užmokesčio dydžio;
 
 
 
 
-2) netekusiems 60–70 procentų darbingumo dėl sužalojimo ar susižalojimo – 48 mėnesių vidutinio darbo užmokesčio dydžio;
+2) netekusiems 60–70 procentų darbingumo dėl sužalojimo ar susižalojimo – 37,24 mėnesio vidutinio darbo užmokesčio dydžio;
 
 
 
 
-3) netekusiems 45–55 procentų darbingumo dėl sužalojimo ar susižalojimo – 36 mėnesių vidutinio darbo užmokesčio dydžio;
+3) netekusiems 45–55 procentų darbingumo dėl sužalojimo ar susižalojimo – 27,93 mėnesio vidutinio darbo užmokesčio dydžio;
 
 
 
 
-4) netekusiems iki 40 procentų darbingumo dėl sužalojimo ar susižalojimo ir dėl to pripažintiems netinkamais tarnybai – 30 mėnesių vidutinio darbo užmokesčio dydžio;
+4) netekusiems iki 40 procentų darbingumo dėl sužalojimo ar susižalojimo ir dėl to pripažintiems netinkamais tarnybai – 23,28 mėnesio vidutinio darbo užmokesčio dydžio;
 
 
 
 
-5) sunkaus sveikatos sutrikdymo atveju – 24 mėnesių vidutinio darbo užmokesčio dydžio;
+5) sunkaus sveikatos sutrikdymo atveju – 18,62 mėnesio vidutinio darbo užmokesčio dydžio;
 
 
 
 
-6) apysunkio sveikatos sutrikdymo atveju – 18 mėnesių vidutinio darbo užmokesčio dydžio;
+6) apysunkio sveikatos sutrikdymo atveju – 13,97 mėnesio vidutinio darbo užmokesčio dydžio;
 
 
 
 
-7) lengvo sveikatos sutrikdymo atveju – nuo 1 iki 12 mėnesių vidutinio darbo užmokesčio dydžio.
+7) lengvo sveikatos sutrikdymo atveju – nuo 0,78 iki 9,31 mėnesio vidutinio darbo užmokesčio dydžio. 
+TAR pastaba. 59 straipsnio 1, 2 ir 3 dalyse nurodytos kompensacijos, kurios paskirtos iki įstatymo Nr. XIII-1738 įsigaliojimo (2019-01-01) ir kurias mokėti numatoma po šio įstatymo įsigaliojimo, neperskaičiuojamos pagal nurodytose dalyse nustatytus kompensacijų dydžius ir mokamos ne mažesnės, negu turėjo būti mokamos iki šio įstatymo įsigaliojimo.
+Kai į laikotarpį, reikalingą po šio įstatymo įsigaliojimo skiriamoms kompensacijoms, nurodytoms 59 straipsnio 1, 2 ir 3 dalyse, apskaičiuoti, patenka pareigūno draudžiamųjų pajamų laikotarpiai iki šio įstatymo įsigaliojimo, apskaičiuojant šių kompensacijų dydį, pareigūno draudžiamosios pajamos, buvusios tuo laikotarpiu iki šio įstatymo įsigaliojimo, didinamos 1,289 karto.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1738, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20706
+ 
 
 
 
@@ -3176,3 +3190,8 @@ Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 6 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-938, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21647
 Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1738, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20706
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 59 straipsnio pakeitimo įstatymas
