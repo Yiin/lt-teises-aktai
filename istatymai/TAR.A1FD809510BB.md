@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2016-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-11-18
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
  
@@ -450,7 +450,10 @@ Nr. XII-1700, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08122
 
 
 
-3) teikiama mokesčių administravimo, teisėtvarkos institucijoms ir teismams teisės aktuose nustatytoms funkcijoms atlikti.
+3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-851, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20334
+ 
 
 
 
@@ -1858,3 +1861,8 @@ Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 30 straipsnio pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1700, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08122
 Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1 ir 7 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-851, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20334
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1 straipsnio pakeitimo įstatymas
