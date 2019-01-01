@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29FB2C8807FE"
 
 # Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas
 
-Suvestinė redakcija nuo 2018-06-02 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-11-18
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 102-2049, i. k. 0941010ISTA000I-722
  
@@ -168,7 +168,10 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 4 straipsnis. Įmonės savininkas
 
 
-1. Valstybės įmonės savininkė yra valstybė. Valstybės įmonės savininko teises ir pareigas valstybė įgyvendina per Vyriausybę arba jos įgaliotą valstybės valdymo instituciją. Valstybės įmonės savininko teises ir pareigas įgyvendina viena valstybės valdymo institucija.
+1. Valstybės įmonės savininkė yra valstybė. Valstybės įmonės savininko teises ir pareigas valstybė įgyvendina per Vyriausybės įgaliotą valstybės instituciją. Valstybės įmonės savininko teises ir pareigas įgyvendina viena valstybės institucija.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1861, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21886
+ 
 
 
 
@@ -181,9 +184,10 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 
 
-3. Toliau šiame Įstatyme valstybės įmonės savininko teises ir pareigas įgyvendinanti Vyriausybė arba jos įgaliota valstybės valdymo institucija, taip pat savivaldybės įmonės savininko teises ir pareigas įgyvendinanti savivaldybės vykdomoji institucija vadinamos įmonės savininko teises ir pareigas įgyvendinančiomis institucijomis.
+3. Toliau šiame Įstatyme valstybės įmonės savininko teises ir pareigas įgyvendinanti Vyriausybės įgaliota valstybės institucija, taip pat savivaldybės įmonės savininko teises ir pareigas įgyvendinanti savivaldybės vykdomoji institucija vadinamos įmonės savininko teises ir pareigas įgyvendinančiomis institucijomis.
 Straipsnio dalies pakeitimai:
 Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+Nr. XIII-1861, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21886
  
 
 
@@ -556,7 +560,11 @@ Nr. XII-2465, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18821
 
 
 
-2) kiti fiziniai asmenys, kurių skaičius valstybės įmonėse, kurių balanse nurodyto turto vertė ne mažesnė negu 14 000 000 eurų ir pardavimo grynosios pajamos per ataskaitinius finansinius metus yra lygios arba viršija 5 800 000 eurų, turi sudaryti ne mažiau kaip 1/3 įmonės įstatuose nurodyto valdybos narių skaičiaus. Kitų įmonių valdybose pagal poreikį taip pat gali būti tokių fizinių asmenų;
+2) kiti fiziniai asmenys, kurių skaičius įmonėse turi sudaryti ne mažiau kaip 1/2 įmonės įstatuose nurodyto valdybos narių skaičiaus;
+TAR pastaba. 10 straipsnio 2 dalies 2 punkto nuostatos taikomos valstybės ir savivaldybės įmonėse sudarant naują valdybą. Iki įstatymo Nr. XIII-1076 įsigaliojimo (2019-01-01) sudaryta valdyba atlieka savo funkcijas iki kadencijos, kuriai ji buvo sudaryta, pabaigos arba iki bus sudaryta nauja valdyba.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1076, 2018-04-10, paskelbta TAR 2018-04-17, i. k. 2018-06165
+ 
 
 
 
@@ -607,12 +615,18 @@ Nr. XII-2465, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18821
 
 
 
-7. Per 5 dienas nuo specialiųjų reikalavimų valdybos nariui nustatymo dienos apie valdybos nario atranką įmonė turi viešai paskelbti šio Įstatymo 3 straipsnio 9 dalyje nurodytame leidinyje ir įmonės interneto svetainėje. Skelbime turi būti nurodyti specialieji ir bendrieji reikalavimai valdybos nariui ir paraiškos juo tapti pateikimo įmonei tvarka.
+7. Per 5 dienas nuo specialiųjų reikalavimų valdybos nariui nustatymo dienos apie valdybos nario atranką įmonė turi viešai paskelbti šio Įstatymo 3 straipsnio 9 dalyje nurodytame leidinyje ir įmonės interneto svetainėje. Skelbime turi būti nurodyti specialieji ir bendrieji reikalavimai valdybos nariui ir paraiškos juo tapti pateikimo tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1076, 2018-04-10, paskelbta TAR 2018-04-17, i. k. 2018-06165
+ 
 
 
 
 
-8. Fiziniai asmenys, atitinkantys valdybos nariui nustatytus bendruosiuos ir specialiuosius reikalavimus, paraiškas tapti įmonės valdybos nariu gali teikti įmonei 20 dienų nuo šio straipsnio 7 dalyje nurodyto viešo paskelbimo dienos. Šiam terminui pasibaigus, visą iš fizinių asmenų gautą informaciją įmonė per 5 dienas pateikia įmonės savininko teises ir pareigas įgyvendinančiai institucijai. Kandidatai į valdybos narius parenkami Vyriausybės nustatyta tvarka.
+8. Fiziniai asmenys, atitinkantys valdybos nariui nustatytus bendruosius ir specialiuosius reikalavimus, paraiškas tapti įmonės valdybos nariu gali teikti Vyriausybės nustatyta tvarka 20 dienų nuo šio straipsnio 7 dalyje nurodyto viešo paskelbimo dienos. Kandidatus į įmonės valdybos narius, nurodytus šio straipsnio 2 dalies 2 punkte, parenka personalo paieškos (atrankos) paslaugas teikiantys asmenys, parinkti Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka. Kandidatų į įmonės valdybos narius parinkimo tvarką nustato Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1076, 2018-04-10, paskelbta TAR 2018-04-17, i. k. 2018-06165
+ 
 
 
 
@@ -1295,7 +1309,10 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 
 
 
-10. Šio straipsnio 2 dalies 10 punktas ir 6 dalis netaikomi įmonei, kuri yra centrinė naftos produktus ir naftos atsargas kaupianti ir tvarkanti organizacija Lietuvos Respublikoje ir kurios pelno panaudojimą reglamentuoja Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas. 
+10. Neteko galios nuo 2019-01-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1454, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11766
+ 
 
 
 
@@ -1392,17 +1409,35 @@ Penktasis skirsnis
 
 
 
-3. Įmonės veiklos ataskaitoje taip pat gali būti nurodyta informacija, kurią nustato įmonės savininko teises ir pareigas įgyvendinanti institucija. 
+3. Įmonės, kurios laikomos viešojo intereso įmonėmis pagal Lietuvos Respublikos finansinių ataskaitų audito įstatymą ir kurių vidutinis metinis darbuotojų skaičius pagal sąrašą per ataskaitinius finansinius metus paskutinę tų metų dieną viršija 500, į veiklos ataskaitą įtraukia socialinės atsakomybės ataskaitą. Socialinės atsakomybės ataskaitos reikalavimus nustato Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymas. 
+TAR pastaba. 16 straipsnio 3 dalies nuostatos taikomas rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių socialinės atsakomybės ataskaitas.
+Papildyta straipsnio dalimi:
+Nr. XIII-1181, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09072
+ 
 
 
 
 
-4. Jeigu kuri nors iš šio straipsnio 2 dalyje nurodytos informacijos įmonėje laikoma komercine (gamybine) paslaptimi ar priskirta konfidencialiai informacijai, įmonės veiklos ataskaitoje tokia informacija nenurodoma ir paaiškinama, kodėl tokia informacija nenurodoma. 
+4. Įmonės veiklos ataskaitoje taip pat gali būti nurodyta informacija, kurią nustato įmonės savininko teises ir pareigas įgyvendinanti institucija. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1181, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09072
+ 
 
 
 
 
-5. Įmonės veiklos ataskaita yra viešas dokumentas. Kartu su įmonės metinių finansinių ataskaitų rinkiniu ji turi būti pateikiama juridinių asmenų registrui ir per 4 mėnesius nuo finansinių metų pabaigos turi būti paskelbta įmonės interneto svetainėje.
+5. Jeigu kuri nors iš šio straipsnio 2 dalyje nurodytos informacijos įmonėje laikoma komercine (gamybine) paslaptimi ar priskirta konfidencialiai informacijai, įmonės veiklos ataskaitoje tokia informacija nenurodoma ir paaiškinama, kodėl tokia informacija nenurodoma. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1181, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09072
+ 
+
+
+
+
+6. Įmonės veiklos ataskaita yra viešas dokumentas. Kartu su įmonės metinių finansinių ataskaitų rinkiniu ji turi būti pateikiama juridinių asmenų registrui ir per 4 mėnesius nuo finansinių metų pabaigos turi būti paskelbta įmonės interneto svetainėje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1181, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09072
+ 
 
 
 Straipsnio pakeitimai:
@@ -1510,9 +1545,10 @@ Nr. XI-1752, 2011-12-01, Žin., 2011, Nr. 150-7051 (2011-12-08); Žin., 2012, Nr
 19 straipsnis. Įmonės pertvarkymas
 
 
-1. Įmonė gali būti pertvarkoma į šio straipsnio 2 dalyje nurodytų teisinių formų juridinius asmenis, jeigu visas jos prievoles, teises ir turtą galės perimti kitos teisinės formos juridinis asmuo, veiksiantis po pertvarkymo. Po pertvarkymo veikiančiam naujos teisinės formos juridiniam asmeniui pereina pertvarkytosios įmonės turtas, taip pat visos teisės ir pareigos.
+1. Įmonė gali būti pertvarkoma į šio straipsnio 2 dalyje nurodytų teisinių formų juridinius asmenis, jeigu visas jos prievoles ir teises galės perimti kitos teisinės formos juridinis asmuo, veiksiantis po pertvarkymo. Po pertvarkymo veikiančiam naujos teisinės formos juridiniam asmeniui pereina pertvarkytosios įmonės visos teisės ir pareigos.
 Straipsnio dalies pakeitimai:
 Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+Nr. XIII-1591, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18205
  
 
 
@@ -1536,12 +1572,26 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 
 
-4) į akcinę bendrovę;
+4) į viešąją įstaigą; 
+Papildyta straipsnio punktu:
+Nr. XIII-1591, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18205
+ 
 
 
 
 
-5) į uždarąją akcinę bendrovę.
+5) į akcinę bendrovę;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1591, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18205
+ 
+
+
+
+
+6) į uždarąją akcinę bendrovę.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1591, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18205
+ 
 
 
 
@@ -1671,7 +1721,10 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 
 
-3. Sprendimą pertvarkyti valstybės įmonę į biudžetinę įstaigą priima Vyriausybė. Priimant sprendimą vadovaujamasi šio Įstatymo 19 straipsnio 3 dalyje nustatytais reikalavimais. Sprendime taip pat turi būti nurodyta po pertvarkymo veiksiančios biudžetinės įstaigos savininko teises ir pareigas įgyvendinanti institucija (Vyriausybė ar jos įgaliota valstybės valdymo institucija). 
+3. Sprendimą pertvarkyti valstybės įmonę į biudžetinę įstaigą priima Vyriausybė. Priimant sprendimą vadovaujamasi šio Įstatymo 19 straipsnio 3 dalyje nustatytais reikalavimais. Sprendime taip pat turi būti nurodyta po pertvarkymo veiksiančios biudžetinės įstaigos savininko teises ir pareigas įgyvendinanti Vyriausybės įgaliota valstybės institucija.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1861, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21886
+ 
 
 
 
@@ -1681,11 +1734,92 @@ Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
 
 
 
-5. Priėmus sprendimą pertvarkyti įmonę į biudžetinę įstaigą, po pertvarkymo veiksiančios biudžetinės įstaigos nuostatus tvirtina biudžetinės įstaigos savininko teises ir pareigas įgyvendinsianti Vyriausybė ar jos įgaliota valstybės valdymo institucija arba savivaldybės taryba.
+5. Priėmus sprendimą pertvarkyti įmonę į biudžetinę įstaigą, po pertvarkymo veiksiančios biudžetinės įstaigos nuostatus tvirtina biudžetinės įstaigos savininko teises ir pareigas įgyvendinsianti Vyriausybės įgaliota valstybės institucija arba savivaldybės taryba.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1861, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21886
+ 
 
 
 Straipsnio pakeitimai:
 Nr. XII-1234, 2014-10-16, paskelbta TAR 2014-10-29, i. k. 2014-15109
+ 
+
+
+
+
+221 straipsnis. Įmonės pertvarkymas į viešąją įstaigą
+
+
+1. Įmonė, kurios turimų piniginių lėšų pakanka jos įsipareigojimams įvykdyti, gali būti pertvarkoma į viešąją įstaigą. 
+
+
+
+
+2. Iki sprendimo pertvarkyti įmonę į viešąją įstaigą priėmimo įmonei patikėjimo teise priklausantis įmonės turtas, kuris po pertvarkymo bus perduotas viešosios įstaigos nuosavybėn kaip įnašas nustatant (formuojant) viešosios įstaigos dalininkų kapitalą, turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reguliuojančių turto vertinimą, nustatyta tvarka. Pertvarkant įmonę į viešąją įstaigą, turto vertinimo ataskaita turi būti pateikta juridinių asmenų registrui kartu su po pertvarkymo veiksiančios viešosios įstaigos įstatais.
+
+
+
+
+3. Sprendimas pertvarkyti valstybės įmonę į viešąją įstaigą gali būti priimamas, kai yra Vyriausybės nutarimas dėl sutikimo pertvarkyti valstybės įmonę į viešąją įstaigą ir valstybės įmonei patikėjimo teise priklausančio viso ar dalies turto perdavimo viešosios įstaigos nuosavybėn kaip įnašo nustatant (formuojant) viešosios įstaigos dalininkų kapitalą Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais valstybės ir savivaldybės turto investavimo pagrindais ir tvarka. 
+
+
+
+
+4. Sprendimas pertvarkyti savivaldybės įmonę į viešąją įstaigą gali būti priimamas, kai yra savivaldybės tarybos sprendimas dėl sutikimo pertvarkyti savivaldybės įmonę į viešąją įstaigą ir savivaldybės įmonei patikėjimo teise priklausančio viso ar dalies turto perdavimo viešosios įstaigos nuosavybėn kaip įnašo nustatant (formuojant) viešosios įstaigos dalininkų kapitalą Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais valstybės ir savivaldybės turto investavimo pagrindais ir tvarka.
+
+
+
+
+5. Sprendime pertvarkyti įmonę į viešąją įstaigą, be šio Įstatymo 19 straipsnio 3 dalyje nustatytų reikalavimų, taip pat turi būti:
+
+
+1) nurodyta įvertinto įmonės turto vertė, kuri turi atitikti turto vertinimo ataskaitoje nurodytą turto vertę;
+
+
+
+
+2) nurodytas po pertvarkymo veiksiančios viešosios įstaigos dalininko (savininko) kapitalo dydis. 
+
+
+
+
+
+
+6. Dėl įmonės savininko turto, kuris patikėjimo teise įmonės gautas po to, kai buvo priimtas sprendimas pertvarkyti įmonę į viešąją įstaigą, turi būti: 
+
+
+1) patikslinamas Vyriausybės nutarimas arba savivaldybės tarybos sprendimas dėl įmonei patikėjimo teise priklausančio turto perdavimo viešosios įstaigos nuosavybėn kaip įnašo nustatant (formuojant) viešosios įstaigos dalininkų kapitalą Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais valstybės ir savivaldybės turto investavimo pagrindais ir tvarka; 
+
+
+
+
+2) patikslinamas sprendimas pertvarkyti įmonę į viešąją įstaigą.
+
+
+
+
+
+
+7. Šio straipsnio 6 dalyje nurodytas turtas, kuris patikėjimo teise gautas po to, kai buvo priimtas sprendimas pertvarkyti įmonę į viešąją įstaigą, jeigu jis perduodamas po įmonės pertvarkymo veiksiančios viešosios įstaigos nuosavybėn, turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reguliuojančių turto vertinimą, nustatyta tvarka. Turtas turi būti įvertintas iki patikslinto sprendimo pertvarkyti įmonę į viešąją įstaigą priėmimo. Pertvarkant įmonę į viešąją įstaigą, ši turto vertinimo ataskaita turi būti pateikta juridinių asmenų registrui kartu su po pertvarkymo veiksiančios viešosios įstaigos įstatais. 
+
+
+
+
+8. Iki įmonės pertvarkymo pabaigos Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatytais pagrindais ir tvarka turi būti priimtas sprendimas dėl turto, kuris pagal įstatymus gali būti tik valstybės nuosavybė, perdavimo atitinkamam subjektui, turinčiam teisę tokį turtą valdyti ir (arba) naudoti, ir (arba) juo disponuoti.
+
+
+
+
+9. Įmonės vadovas apie patikslintą sprendimą pertvarkyti įmonę turi pranešti juridinių asmenų registrui, vieną kartą viešai paskelbti šio Įstatymo 3 straipsnio 9 dalyje nurodytame leidinyje ir visiems įmonės kreditoriams pranešti raštu. Patikslinus sprendimą, kartu su pranešimu juridinių asmenų registrui pateikiamas visas patikslinto sprendimo pertvarkyti įmonę tekstas. Skelbime ir pranešime, be šio Įstatymo 19 straipsnio 4 dalyje nustatytų reikalavimų, taip pat turi būti nurodyta priežastis, dėl kurios sprendimas pertvarkyti įmonę patikslintas. 
+
+
+
+
+10. Įmonės savininko teises ir pareigas įgyvendinanti institucija, priėmusi sprendimą pertvarkyti įmonę į viešąją įstaigą, kartu tvirtina po pertvarkymo veiksiančios viešosios įstaigos įstatus. Juos įregistravus juridinių asmenų registre, įmonės savininko teises ir pareigas įgyvendinanti institucija tampa valstybės ar savivaldybės institucija, kuriai pavedama įgyvendinti valstybės ar savivaldybės, kaip viešosios įstaigos dalininkės (savininkės), teises ir pareigas. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1591, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18205
  
 
 
@@ -2152,3 +2286,23 @@ Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 11
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1181, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09072
 Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 16 ir 17 straipsnių pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1076, 2018-04-10, paskelbta TAR 2018-04-17, i. k. 2018-06165
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 10 straipsnio pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1454, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11766
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 15 straipsnio pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1591, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18205
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 19 straipsnio pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1861, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21886
+Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo Nr. I-722 4 ir 22 straipsnių pakeitimo įstatymas
