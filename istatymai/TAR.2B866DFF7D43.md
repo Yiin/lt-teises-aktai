@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2018-12-12 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-03-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -79,7 +79,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-                                                                                    PATVIRTINTAS
+ 
+PATVIRTINTAS
 2000 m. rugsėjo 26 d.
 įstatymu Nr. VIII-1968
  
@@ -1388,6 +1389,54 @@ Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087
 
 Kodeksas papildytas straipsniu:
 Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
+ 
+
+
+
+
+392 straipsnis. Pranešėjo atleidimas nuo baudžiamosios atsakomybės
+
+
+1. Asmuo, padaręs baudžiamąjį nusižengimą, neatsargų arba nesunkų ar apysunkį nusikaltimą, gali būti teismo atleistas nuo baudžiamosios atsakomybės, jeigu:
+
+
+1) jis pripažintas pranešėju pagal Lietuvos Respublikos pranešėjų apsaugos įstatymą ir
+
+
+
+
+2) prisipažino padaręs nusikalstamą veiką, ir
+
+
+
+
+3) aktyviai padėjo atskleisti kito asmens padarytą nusikalstamą veiką, ir
+
+
+
+
+4) nusikalstama veika, kurią jis padėjo atskleisti, pagal savo pobūdį yra pavojingesnė negu jo paties padaryta nusikalstama veika.
+
+
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytais pagrindais nuo baudžiamosios atsakomybės negali būti atleistas pavojingas recidyvistas, asmuo, kuris turi teistumą, kuris buvo nusikalstamos veikos, kurią jis padėjo atskleisti, organizatorius.
+
+
+
+
+3. Jeigu asmuo, atleistas nuo baudžiamosios atsakomybės pagal šio straipsnio 1 dalį, per vienerius metus padarė baudžiamąjį nusižengimą ar neatsargų nusikaltimą, teismas gali panaikinti sprendimą dėl atleidimo nuo baudžiamosios atsakomybės ir spręsti dėl tokio asmens baudžiamosios atsakomybės už visas padarytas nusikalstamas veikas.
+
+
+
+
+4. Jeigu asmuo, atleistas nuo baudžiamosios atsakomybės pagal šio straipsnio 1 dalį, per vienerius metus padarė naują tyčinį nusikaltimą, ankstesnis sprendimas atleisti nuo baudžiamosios atsakomybės nustoja galioti ir sprendžiama dėl tokio asmens baudžiamosios atsakomybės už visas padarytas nusikalstamas veikas. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1844, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21873
  
 
 
@@ -7159,77 +7208,92 @@ NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI EKONOMIKAI IR VERSLO TVARKAI
 199 straipsnis. Kontrabanda
 
 
-1. Tas, kas per Lietuvos Respublikos valstybės sieną gabendamas privalomus pateikti muitinei daiktus, kurių vertė viršija 250 MGL dydžio sumą, nepateikė jų muitinės kontrolei ar kitaip šios kontrolės išvengė arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno kilnojamąsias kultūros vertybes ar antikvarinius daiktus,
-baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
+1. Tas, kas per Lietuvos Respublikos valstybės sieną gabendamas privalomus pateikti muitinei daiktus, kurių vertė viršija 150 MGL, bet neviršija 250 MGL dydžio sumos, nepateikė jų muitinės kontrolei ar kitaip šios kontrolės išvengė,
+baudžiamas bauda arba laisvės atėmimu iki ketverių metų.
 
 
 
 
 2. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno Lietuvos Respublikos tam tikrų dopingo medžiagų kontrolės įstatyme nurodytas medžiagas,
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų. 
-Papildyta straipsnio dalimi:
-Nr. XII-1674, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07560
- 
 
 
 
 
-3. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias medžiagas ar kitas strategines prekes, nuodingąsias, stipriai veikiančias, narkotines, psichotropines medžiagas arba narkotinių ar psichotropinių medžiagų pirmtakus (prekursorius),
-baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1674, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07560
- 
-
-
-
-
-4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1674, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07560
- 
-
-
-Straipsnio pakeitimai:
-Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
-Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
- 
-
-
-
-
-199(1) straipsnis. Muitinės apgaulė
-
-
-1. Tas, kas iš Europos Sąjungos valstybės narės į Lietuvos Respubliką įvežė privalomus pateikti muitinei daiktus, kurių vertė viršija 250 MGL dydžio sumą, ir jų nepateikė Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės muitinės kontrolei ar kitaip šios kontrolės išvengė, 
+3. Tas, kas per Lietuvos Respublikos valstybės sieną gabendamas privalomus pateikti muitinei daiktus, kurių vertė viršija 250 MGL dydžio sumą, nepateikė jų muitinės kontrolei ar kitaip šios kontrolės išvengė arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno kilnojamąsias kultūros vertybes ar antikvarinius daiktus,
 baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
 
 
 
 
-2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+4. Tas, kas nepateikdamas muitinės kontrolei ar kitaip jos išvengdamas arba neturėdamas leidimo per Lietuvos Respublikos valstybės sieną gabeno šaunamuosius ginklus, šaudmenis, sprogmenis, sprogstamąsias, radioaktyviąsias medžiagas ar kitas strategines prekes, nuodingąsias, stipriai veikiančias, narkotines, psichotropines medžiagas arba narkotinių ar psichotropinių medžiagų pirmtakus (prekursorius), 
+baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
 
-Kodeksas papildytas straipsniu:
-Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
+
+
+5. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+Straipsnio pakeitimai:
+Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
+Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1836, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21859
  
 
 
 
 
-199(2) straipsnis. Neteisėtas disponavimas akcizais apmokestinamomis prekėmis
+1991 straipsnis. Muitinės apgaulė
 
 
-1. Tas, kas pažeisdamas nustatytą tvarką įgijo, laikė, gabeno, siuntė, naudojo ar realizavo akcizais apmokestinamas prekes, kurių vertė viršija 250 MGL dydžio sumą, 
-baudžiamas bauda arba laisvės atėmimu iki septynerių metų.
+1. Tas, kas iš Europos Sąjungos valstybės narės į Lietuvos Respubliką įvežė privalomus pateikti muitinei daiktus, kurių vertė viršija 150 MGL, bet neviršija 250 MGL dydžio sumos, ir jų nepateikė Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės muitinės kontrolei ar kitaip šios kontrolės išvengė, 
+baudžiamas bauda arba laisvės atėmimu iki ketverių metų.
 
 
 
 
-2. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+2. Tas, kas iš Europos Sąjungos valstybės narės į Lietuvos Respubliką įvežė privalomus pateikti muitinei daiktus, kurių vertė viršija 250 MGL dydžio sumą, ir jų nepateikė Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės muitinės kontrolei ar kitaip šios kontrolės išvengė, 
+baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
 
 
+
+
+3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
 Kodeksas papildytas straipsniu:
 Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1836, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21859
+ 
+
+
+
+
+1992 straipsnis. Neteisėtas disponavimas akcizais apmokestinamomis prekėmis
+
+
+1. Tas, kas pažeisdamas nustatytą tvarką įgijo, laikė, gabeno, siuntė, naudojo ar realizavo akcizais apmokestinamas prekes, kurių vertė viršija 150 MGL, bet neviršija 250 MGL dydžio sumos, 
+baudžiamas bauda arba laisvės atėmimu iki ketverių metų.
+
+
+
+
+2. Tas, kas pažeisdamas nustatytą tvarką įgijo, laikė, gabeno, siuntė, naudojo ar realizavo akcizais apmokestinamas prekes, kurių vertė viršija 250 MGL dydžio sumą, 
+baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
+
+
+
+
+3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+Kodeksas papildytas straipsniu:
+Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1836, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21859
  
 
 
@@ -7238,16 +7302,24 @@ Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
 200 straipsnis. Neteisėtas prekių ar produkcijos neišvežimas iš Lietuvos Respublikos
 
 
-1. Tas, kas neteisėtai neišvežė per Lietuvos Respublikos valstybės sieną prekių ar produkcijos, kurių vertė viršija 250 MGL dydžio sumą ir kurios pagal tranzito arba eksporto dokumentus turėjo būti išvežtos iš Lietuvos Respublikos,
-baudžiamas laisvės atėmimu iki septynerių metų.
+1. Tas, kas neteisėtai neišvežė per Lietuvos Respublikos valstybės sieną prekių ar produkcijos, kurių vertė viršija 150 MGL, bet neviršija 250 MGL dydžio sumos ir kurios pagal tranzito arba eksporto dokumentus turėjo būti išvežtos iš Lietuvos Respublikos,
+baudžiamas bauda arba laisvės atėmimu iki ketverių metų.
 
 
 
 
-2. Už šiame straipsnyje numatytą veiką atsako ir juridinis asmuo.
+2. Tas, kas neteisėtai neišvežė per Lietuvos Respublikos valstybės sieną prekių ar produkcijos, kurių vertė viršija 250 MGL dydžio sumą ir kurios pagal tranzito arba eksporto dokumentus turėjo būti išvežtos iš Lietuvos Respublikos,
+baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
+
+
+
+
+3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1836, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21859
  
-
-
 
 
 
@@ -11810,3 +11882,13 @@ Lietuvos Respublikos baudžiamojo kodekso 48 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
 Lietuvos Respublikos baudžiamojo kodekso 178, 180, 181, 196, 197, 250, 250-3, 252-1 straipsnių ir priedo pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1836, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21859
+Lietuvos Respublikos baudžiamojo kodekso 199, 199-1, 199-2 ir 200 straipsnių pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1844, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21873
+Lietuvos Respublikos baudžiamojo kodekso papildymo 39-2 straipsniu įstatymas
