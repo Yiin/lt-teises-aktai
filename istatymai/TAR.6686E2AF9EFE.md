@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6686E2AF9EFE"
 
 # Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-11-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 48-2106, i. k. 1031010ISTA0IX-1541
  
@@ -145,17 +145,20 @@ Nr. X-1373, 2007-12-13, Žin. 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA
 
 
 
-5. Darbdaviams, steigiantiems kompensuojamąsias darbo vietas, į kurias pagal individualius planus įdarbinami atleisti iš darbo darbuotojai, už kiekvieną darbo vietą išmokamos 24 minimalių mėnesinių algų (toliau – MMA) dydžio kompensacijos:
+5. Darbdaviams, steigiantiems kompensuojamąsias darbo vietas, į kurias pagal individualius planus įdarbinami atleisti iš darbo darbuotojai, už kiekvieną darbo vietą išmokamos 18,62 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos (toliau – MMA) dydžio kompensacijos:
 
 
-1) sudarius darbo sutartį, pervedama 12 MMA;
+1) sudarius darbo sutartį, pervedama 9,31 MMA;
 
 
 
 
-2) praėjus 12 mėnesių nuo darbo sutarties sudarymo dienos, pervedama po 1 MMA kas mėnesį įdarbintųjų darbo laikotarpiu.
+2) praėjus 12 mėnesių nuo darbo sutarties sudarymo dienos, pervedama po 0,78 MMA kas mėnesį įdarbintųjų darbo laikotarpiu. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1343, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11438
+ 
 
 
 
@@ -262,9 +265,7 @@ Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
 
 
 
-2. Priešpensinė bedarbio išmoka mokama kartą per mėnesį. Jos dydis apskaičiuojamas sudedant pastoviąją dalį, lygią 100 procentų valstybės remiamų pajamų dydžio, ir kintamąją dalį, sudarančią 20 procentų asmens mėnesio vidutinio darbo užmokesčio dydžio. Priešpensinė bedarbio išmoka per kalendorinį mėnesį negali sudaryti daugiau kaip 55 procentų Lietuvos statistikos departamento paskelbto paskutinio ketvirčio šalies ūkio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio. 
-2 dalies redakcija nuo 2019-01-01:
-2. Priešpensinė bedarbio išmoka mokama kartą per mėnesį. Jos dydis apskaičiuojamas sudedant pastoviąją dalį, lygią 100 procentų valstybės remiamų pajamų dydžio, ir kintamąją dalį, sudarančią 15,52 procento asmens mėnesio vidutinio darbo užmokesčio dydžio. Priešpensinė bedarbio išmoka per kalendorinį mėnesį negali sudaryti daugiau kaip 42,67 procento Lietuvos statistikos departamento paskelbto paskutinio ketvirčio šalies ūkio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio.
+2. Priešpensinė bedarbio išmoka mokama kartą per mėnesį. Jos dydis apskaičiuojamas sudedant pastoviąją dalį, lygią 100 procentų valstybės remiamų pajamų dydžio, ir kintamąją dalį, sudarančią 15,52 procento asmens mėnesio vidutinio darbo užmokesčio dydžio. Priešpensinė bedarbio išmoka per kalendorinį mėnesį negali sudaryti daugiau kaip 42,67 procento Lietuvos statistikos departamento paskelbto paskutinio ketvirčio šalies ūkio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1343, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11438
  
@@ -301,10 +302,12 @@ Atleisti iš darbo darbuotojai, kurie pagal individualius planus buvo įdarbinti
 11 straipsnis. Persikėlimo išmokos skyrimas
 
 
-Atleistiems iš darbo darbuotojams, kurie per ne ilgesnį kaip 3 metų laikotarpį nuo atleidimo iš darbo Ignalinos AE apsisprendžia išvykti į kitą gyvenamąją vietovę Lietuvos Respublikoje arba užsienyje nuolat gyventi, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apmokamos faktinės persikėlimo išlaidos, bet ne didesnės kaip po 3 MMA kiekvienam šeimos nariui.
+Atleistiems iš darbo darbuotojams, kurie per ne ilgesnį kaip 3 metų laikotarpį nuo atleidimo iš darbo Ignalinos AE apsisprendžia išvykti į kitą gyvenamąją vietovę Lietuvos Respublikoje arba užsienyje nuolat gyventi, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka apmokamos faktinės persikėlimo išlaidos, bet ne didesnės kaip po 2,33 MMA kiekvienam šeimos nariui. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1343, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11438
  
-
-
 
 
 
@@ -324,9 +327,10 @@ UŽIMTUMO IR SOCIALINIŲ GARANTIJŲ FINANSAVIMAS
 
 
 
-2. Šio Įstatymo 5 straipsnio 1 dalyje nustatytos užimtumo ir socialinės garantijos finansuojamos Užimtumo fondo ir kitų šaltinių lėšomis.
+2. Šio Įstatymo 5 straipsnio 1 dalyje nustatytos užimtumo ir socialinės garantijos finansuojamos valstybės biudžeto ir kitų šaltinių lėšomis. 
 Straipsnio dalies pakeitimai:
 Nr. X-1373, 2007-12-13, Žin., 2007, Nr. 140-5752 (2007-12-29), i. k. 1071010ISTA00X-1373
+Nr. XIII-1343, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11438
  
 
 
