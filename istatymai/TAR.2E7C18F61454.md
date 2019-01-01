@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2018-12-14 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-02-28
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -646,6 +646,14 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 4. Su bylos medžiaga, sudarančia valstybės ar tarnybos paslaptį, turi teisę susipažinti asmenys, kuriems ši teisė yra suteikta vadovaujantis įstatymais ir kuriems tokios informacijos reikia jų pareigoms atlikti. Asmuo, teikiantis teismui dokumentus ar medžiagą, kuriuose esantys duomenys sudaro profesinę ar komercinę paslaptį, gali prašyti teismo neteikti jų susipažinti ir kopijuoti. Dėl to teismas priima nutartį.
+
+
+
+
+5. Teismas turi teisę nuspręsti neleisti proceso dalyviams susipažinti su bylos medžiaga, kurioje yra asmens, kurio konfidencialumas užtikrintas Lietuvos Respublikos pranešėjų apsaugos įstatymo (toliau – Pranešėjų apsaugos įstatymas) nustatyta tvarka, asmens duomenų. Išnagrinėtos civilinės bylos ir vykdomosios bylos medžiaga, kurioje yra asmens, kurio konfidencialumas užtikrintas Pranešėjų apsaugos įstatymo nustatyta tvarka, asmens duomenys, yra nevieša. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1846, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21876
+ 
 
 
 Straipsnio pakeitimai:
@@ -2191,6 +2199,14 @@ Teisėjas, teismo posėdžio sekretorius, ekspertas ir vertėjas negali dalyvaut
 
 
 
+7) jeigu jis šioje byloje vykdė teisminę mediaciją arba vykdė mediaciją dėl ginčo tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu.
+Papildyta straipsnio punktu:
+Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
+ 
+
+
+
+
 
 
 2. Teisėjo nušalinimo pagrindai, susiję su santuoka, globa ar rūpyba, lieka galioti ir tais atvejais, kai santuoka, globa ar rūpyba yra pasibaigusi.
@@ -2687,6 +2703,14 @@ Nr. XIII-441, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10802
 
 
 7. Šiame straipsnyje nurodytus procesinius dokumentus ir jų priedus pateikiant teismui tik elektroninių ryšių priemonėmis, mokama 75 procentai už atitinkamą procesinį dokumentą mokėtinos žyminio mokesčio sumos, bet ne mažiau kaip penki eurai. 
+
+
+
+
+8. Jeigu prieš kreipdamosi į teismą šalys ginčą sprendė mediacijos būdu, mokama 75 procentai šio straipsnio 1 dalyje nurodytos mokėtinos žyminio mokesčio sumos, bet ne mažiau kaip penki eurai. Šioje dalyje nurodytu atveju teismui turi būti pateikti rašytiniai įrodymai apie ginčo sprendimą mediacijos būdu. Šioje dalyje nurodyta žyminio mokesčio lengvata netaikoma, jeigu paaiškėja, kad šalis prašymą perduoti ginčą spręsti mediacijos būdu pareiškė nesąžiningai arba nesąžiningai naudojosi mediacija, arba mediacijos metu reiškė nesąžiningus prašymus. Šioje dalyje nurodyta žyminio mokesčio lengvata taip pat netaikoma, kai Lietuvos Respublikos mediacijos įstatymo nustatyta tvarka buvo vykdoma privalomoji mediacija.
+Papildyta straipsnio dalimi:
+Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
+ 
 
 
 TAR pastaba. 80 straipsnis taikomas ieškiniams (pradiniams ar priešieškiniams), pareiškimams, skundams, atskiriesiems skundams, prašymams ir trečiųjų asmenų savarankiškiems reikalavimams, pareikštiems po 2017 m. liepos 1 d.
@@ -3283,7 +3307,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-4. Teismas gali nukrypti nuo šio straipsnio 1, 2 ir 3 dalyse nustatytų bylinėjimosi išlaidų paskirstymo taisyklių, atsižvelgdamas į tai, ar šalių procesinis elgesys buvo tinkamas, ir įvertindamas priežastis, dėl kurių susidarė bylinėjimosi išlaidos. Šalies procesinis elgesys laikomas tinkamu, jeigu ji sąžiningai naudojosi procesinėmis teisėmis ir sąžiningai atliko procesines pareigas.
+4. Teismas gali nukrypti nuo šio straipsnio 1, 2 ir 3 dalyse nustatytų bylinėjimosi išlaidų paskirstymo taisyklių, atsižvelgdamas į tai, ar šalių procesinis elgesys buvo tinkamas, ir įvertindamas priežastis, dėl kurių susidarė bylinėjimosi išlaidos. Šalies procesinis elgesys laikomas tinkamu, jeigu ji sąžiningai naudojosi procesinėmis teisėmis ir sąžiningai atliko procesines pareigas. Teismas, nustatęs, kad šalis neargumentuotai atsisakė pasinaudoti privalomąja mediacija arba prašymą perduoti ginčą spręsti mediacijos būdu pareiškė nesąžiningai, arba nesąžiningai naudojosi mediacija, arba mediacijos metu reiškė nesąžiningus prašymus, taip pat gali nukrypti nuo šio straipsnio 1, 2 ir 3 dalyse nustatytų bylinėjimosi išlaidų paskirstymo taisyklių.
+Straipsnio dalies pakeitimai:
+Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
+ 
 
 
 
@@ -4473,7 +4500,10 @@ Ieškinys
 
 
 
-7) ieškovo nuomonė dėl taikos sutarties sudarymo galimybių, kai ieškovas pageidauja ją pateikti.
+7) ieškovo nuomonė dėl taikos sutarties sudarymo galimybių, kai ieškovas pageidauja ją pateikti, ir dėl ketinimo bei galimybių ginčą spręsti teisminės mediacijos būdu.
+Straipsnio punkto pakeitimai:
+Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
+ 
 
 
 
@@ -4730,7 +4760,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-6) atsakovo nuomonė dėl taikos sutarties sudarymo galimybių, kai atsakovas pageidauja ją pateikti.
+6) atsakovo nuomonė dėl taikos sutarties sudarymo galimybių, kai atsakovas pageidauja ją pateikti, ir dėl ketinimo bei galimybių ginčą spręsti teisminės mediacijos būdu.
+Straipsnio punkto pakeitimai:
+Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
+ 
 
 
 
@@ -4997,10 +5030,11 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 
 
-3. Teismas gali taikyti laikinąsias apsaugos priemones, remdamasis pagrįstu rašytiniu suinteresuoto asmens prašymu dėl laikinųjų apsaugos priemonių taikymo, iki ieškinio teismui pareiškimo dienos. Paduodamas šį prašymą, pareiškėjas turi nurodyti priežastis, dėl kurių ieškinys nebuvo pareikštas kartu su šiuo prašymu, pateikti įrodymus, patvirtinančius grėsmę pareiškėjo interesams, ir sumokėti šio Kodekso 80 straipsnio 5 dalyje nustatytą žyminį mokestį ir pusės šio Kodekso 80 straipsnio 1 dalyje numatyto žyminio mokesčio dydžio užstatą. Prašant taikyti laikinąsias apsaugos priemones, kurios susijusios su nacionaliniuose ar užsienio arbitražuose arba užsienio teismuose nagrinėtinomis bylomis, mokamas trijų šimtų eurų užstatas. Motyvuotu ir įrodymais pagrįstu pareiškėjo prašymu dėl sunkios jo turtinės padėties teismas nutartimi užstato dydį gali sumažinti. Teismas, pritaikęs laikinąsias apsaugos priemones, nustato terminą, per kurį turi būti pareikštas ieškinys. Šis terminas negali būti ilgesnis kaip keturiolika dienų. Jeigu ieškinys turi būti reiškiamas užsienio teismui ar arbitražui, terminas negali būti ilgesnis kaip trisdešimt dienų. Nepareiškus per teismo nustatytą terminą ieškinio, laikinosios apsaugos priemonės panaikinamos. Kai ieškinys nepareiškiamas dėl suinteresuoto asmens kaltės, užstatas negrąžinamas. Šioje dalyje nurodytas prašymas dėl laikinųjų apsaugos priemonių taikymo turi būti paduodamas teismui, kuris pagal teismingumo taisykles turi nagrinėti patį ieškinį. Prašymas dėl laikinųjų apsaugos priemonių, susijusių su užsienio teisme arba užsienio ar nacionaliniame arbitraže nagrinėtina byla, taikymo paduodamas Vilniaus apygardos teismui. 
+3. Teismas gali taikyti laikinąsias apsaugos priemones, remdamasis pagrįstu rašytiniu suinteresuoto asmens prašymu dėl laikinųjų apsaugos priemonių taikymo, iki ieškinio teismui pareiškimo dienos. Paduodamas šį prašymą, pareiškėjas turi nurodyti priežastis, dėl kurių ieškinys nebuvo pareikštas kartu su šiuo prašymu, pateikti įrodymus, patvirtinančius grėsmę pareiškėjo interesams, ir sumokėti šio Kodekso 80 straipsnio 5 dalyje nustatytą žyminį mokestį ir pusės šio Kodekso 80 straipsnio 1 dalyje numatyto žyminio mokesčio dydžio užstatą. Prašant taikyti laikinąsias apsaugos priemones, kurios susijusios su nacionaliniuose ar užsienio arbitražuose arba užsienio teismuose nagrinėtinomis bylomis, mokamas trijų šimtų eurų užstatas. Motyvuotu ir įrodymais pagrįstu pareiškėjo prašymu dėl sunkios jo turtinės padėties teismas nutartimi užstato dydį gali sumažinti. Teismas, pritaikęs laikinąsias apsaugos priemones, nustato terminą, per kurį turi būti pareikštas ieškinys. Šis terminas negali būti ilgesnis kaip keturiolika dienų. Jeigu ieškinys turi būti reiškiamas užsienio teismui ar arbitražui, terminas negali būti ilgesnis kaip trisdešimt dienų. Jeigu prieš pareiškiant ieškinį teismui įstatymų nustatytais atvejais privaloma pasinaudoti privalomąja mediacija, terminas, per kurį turi būti pareikštas ieškinys, pradedamas skaičiuoti nuo privalomosios mediacijos pabaigos dienos. Šiuo atveju pareiškėjas kartu su prašymu dėl laikinųjų apsaugos priemonių taikymo privalo pateikti duomenis apie kreipimąsi dėl privalomosios mediacijos, o pasibaigus privalomajai mediacijai – nedelsdamas pranešti teismui apie privalomosios mediacijos pabaigą. Nepareiškus per teismo nustatytą terminą ieškinio, laikinosios apsaugos priemonės panaikinamos. Kai ieškinys nepareiškiamas dėl suinteresuoto asmens kaltės, užstatas negrąžinamas. Šioje dalyje nurodytas prašymas dėl laikinųjų apsaugos priemonių taikymo turi būti paduodamas teismui, kuris pagal teismingumo taisykles turi nagrinėti patį ieškinį. Prašymas dėl laikinųjų apsaugos priemonių, susijusių su užsienio teisme arba užsienio ar nacionaliniame arbitraže nagrinėtina byla, taikymo paduodamas Vilniaus apygardos teismui.
 Straipsnio dalies pakeitimai:
 Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
  
 
 
@@ -6055,7 +6089,10 @@ BendrosIOS nuostatos
 
 
 
-5. Duomenys, gauti taikinamojo tarpininkavimo procedūros metu, negali būti įrodymais civiliniame procese, išskyrus Civilinių ginčų taikinamojo tarpininkavimo įstatyme numatytus atvejus.
+5. Duomenys, gauti mediacijos metu, negali būti įrodymais civiliniame procese, išskyrus Lietuvos Respublikos mediacijos įstatyme nustatytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
+ 
 
 
 Straipsnio pakeitimai:
@@ -6346,7 +6383,10 @@ Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
 
 
 
-5) taikinimo tarpininkai – apie aplinkybes, kurias jie sužinojo taikinamojo tarpininkavimo procedūros metu;
+5) mediatoriai – apie aplinkybes, kurias jie sužinojo mediacijos metu;
+Straipsnio punkto pakeitimai:
+Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
+ 
 
 
 
@@ -6414,9 +6454,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-4. Prieš duodamas parodymus, liudytojas žodžiu prisiekia padėjęs ranką ant Lietuvos Respublikos Konstitucijos šiais žodžiais: „Aš, (vardas, pavardė), garbingai ir sąžiningai pasižadu sakyti byloje tiesą, nieko nenuslėpdamas, nepridėdamas ir nepakeisdamas.“ Prisiekęs liudytojas pasirašo priesaikos tekstą, išskyrus atvejus, kai parodymai duodami naudojant informacines ir elektroninių ryšių technologijas. Liudytojo pasirašytas priesaikos tekstas pridedamas prie bylos. 
+4. Prieš duodamas parodymus, liudytojas žodžiu prisiekia padėjęs ranką ant Lietuvos Respublikos Konstitucijos šiais žodžiais: „Aš, (vardas, pavardė), garbingai ir sąžiningai pasižadu sakyti byloje tiesą, nieko nenuslėpdamas, nepridėdamas ir nepakeisdamas.“ Prisiekęs liudytojas pasirašo priesaikos tekstą, išskyrus atvejus, kai parodymai duodami naudojant informacines ir elektroninių ryšių technologijas. Liudytojo pasirašytas priesaikos tekstas pridedamas prie bylos. Liudytojo, kurio konfidencialumas užtikrintas Pranešėjų apsaugos įstatymo nustatyta tvarka, priesaikos tekstas laikomas voke ir saugomas atskirai nuo bylos medžiagos. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+Nr. XIII-1846, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21876
  
 
 
@@ -6438,6 +6479,14 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 
 8. Išimtiniais atvejais, kai negalima arba sudėtinga apklausti liudytoją teismo posėdyje, bylą nagrinėjantis teismas turi teisę vertinti liudytojo raštu pateiktus parodymus, jeigu, teismo nuomone, atsižvelgiant į liudytojo asmenybę ir liudytinų aplinkybių esmę, tai nepakenks esminių bylos aplinkybių atskleidimui. Šalių iniciatyva liudytojas gali būti kviečiamas į papildomą apklausą teisme, kai tai būtina siekiant detaliau nustatyti bylos aplinkybes. Prieš duodamas parodymus, liudytojas pasirašo šio straipsnio 4 dalyje nustatytą priesaikos tekstą ir yra pasirašytinai įspėjamas dėl baudžiamosios atsakomybės už melagingų parodymų davimą. Rašytiniai liudytojo parodymai duodami notaro akivaizdoje ir notaras juos patvirtina.
+
+
+
+
+9. Asmenys, kurių konfidencialumas turi būti užtikrintas Pranešėjų apsaugos įstatymo nustatyta tvarka, liudyti paprastai nešaukiami. Kai tokio asmens parodymai turi esminę reikšmę bylai teisingai išnagrinėti ir jam nedalyvaujant nėra kitų galimybių nustatyti bylai reikšmingas aplinkybes, teismas motyvuota nutartimi gali nuspręsti asmenį, kurio konfidencialumas užtikrintas, šaukti liudytoju. Teismas gali pavesti policijai taip organizuoti šio liudytojo atvykimą į teismą, kad būtų užtikrintas jo konfidencialumas. Teismas privalo imtis priemonių, kad asmens, kurio konfidencialumas turi būti užtikrintas, tapatybė nebūtų atskleista proceso dalyviams ar kitiems asmenims. Šio liudytojo asmens duomenys surašomi atskirame procesinio dokumento priede, kuris laikomas voke ir saugomas atskirai nuo bylos medžiagos. Liudytojas gali būti apklausiamas garso ir vaizdo nuotolinio perdavimo priemonėmis sudarius akustines ir vizualines kliūtis nustatyti jo asmens tapatybę. Šiuo atveju liudytojo parodymai fiksuojami garso ar vaizdo įrašu sudarius akustines ir vizualines kliūtis nustatyti jo asmens tapatybę arba įrašomi apklausos protokole. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1846, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21876
+ 
 
 
 Straipsnio pakeitimai:
@@ -7183,7 +7232,10 @@ Priėmęs ieškinį, teismas:
 
 
 
-2) nusiunčia atsakovui ir tretiesiems asmenims pareikšto ieškinio ir jo priedų kopijas;
+2) nusiunčia atsakovui ir tretiesiems asmenims pareikšto ieškinio ir jo priedų kopijas, informaciją apie galimybę ginčą spręsti teisminės mediacijos būdu su siūlymu šalims šia galimybe pasinaudoti;
+Straipsnio punkto pakeitimai:
+Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
+ 
 
 
 
@@ -7337,7 +7389,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 231 straipsnis. Taikinimo procedūra
 
 
-1. Teismas, parengiamojo teismo posėdžio metu nustatęs ginčo esmę, pasiūlo šalims pasiekti priimtiną abiem šalims susitarimą ir sudaryti taikos sutartį. Teismas imasi priemonių šalims sutaikyti. Šalių prašymu arba sutikimu, laikantis Teisėjų tarybos nustatytos tvarkos, gali būti vykdomas teisminis taikinamasis tarpininkavimas. Taikinimo tarpininkas negali dalyvauti nagrinėjant bylą iš esmės.
+1. Teismas, parengiamojo teismo posėdžio metu nustatęs ginčo esmę, pasiūlo šalims pasiekti priimtiną abiem šalims susitarimą ir sudaryti taikos sutartį, taip pat praneša šalims apie galimybę ginčą spręsti teisminės mediacijos būdu ir pasiūlo šalims šia galimybe pasinaudoti. Teismas imasi priemonių šalims sutaikyti. Šalių prašymu arba sutikimu, laikantis šio Kodekso, Lietuvos Respublikos mediacijos įstatymo ir Teisėjų tarybos nustatytos tvarkos, gali būti vykdoma teisminė mediacija. Mediatorius negali dalyvauti nagrinėjant bylą iš esmės.
+Straipsnio dalies pakeitimai:
+Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
+ 
 
 
 
@@ -7347,7 +7402,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 
-3. Parengiamojo teismo posėdžio metu šalių sudaryta taikos sutartis patvirtinama pagal šio Kodekso 140 straipsnio 3 dalyje nustatytas taisykles.
+3. Parengiamojo teismo posėdžio metu šalių sudaryta taikos sutartis patvirtinama pagal šio Kodekso 140 straipsnio 3 dalyje nustatytas taisykles. Teisminės mediacijos metu ginčo šalims pasiekus taikų susitarimą ir pasirašius taikos sutartį, šią sutartį šio Kodekso 140 straipsnio 3 dalyje nustatyta tvarka tvirtina civilinę bylą nagrinėjantis teisėjas. Kai teisminę mediaciją vykdo pats civilinę bylą nagrinėjantis teisėjas, jis turi teisę šio Kodekso 140 straipsnio 3 dalyje nustatyta tvarka patvirtinti ginčo šalių sudarytą taikos sutartį.
+Straipsnio dalies pakeitimai:
+Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
+ 
 
 
 
@@ -7362,6 +7420,102 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
+ 
+
+
+
+
+2311 straipsnis. Ginčo perdavimas spręsti teisminės mediacijos būdu
+
+
+1. Ginčo perdavimą spręsti teisminės mediacijos būdu gali inicijuoti civilinę bylą nagrinėjantis teisėjas (teisėjų kolegija) arba bet kuri  šalis. Ginčas perduodamas spręsti teisminės mediacijos būdu civilinę bylą nagrinėjančio teisėjo (teisėjų kolegijos) nutartimi, kai teismas išaiškina šalims teisminės mediacijos esmę, yra gautas  šalių sutikimas arba prašymas perduoti ginčą spręsti teisminės mediacijos būdu. Bylą nagrinėjantis teisėjas (teisėjų kolegija), nustatęs (nustačiusi) didelę taikaus ginčo sprendimo tikimybę, gali perduoti ginčą privalomai spręsti teisminės mediacijos būdu.
+
+
+
+
+2. Teisėjas, nagrinėdamas civilinę bylą, šalių sutikimu gali nuspręsti pats vykdyti mediaciją, jei jis yra mediatorius, arba parinkti ir skirti kitą mediatorių, kuris yra teisėjas, pagal galimybes atsižvelgęs į abiejų šalių suderintą nuomonę dėl mediatoriaus, kuris yra teisėjas, kandidatūros, arba pranešti Valstybės garantuojamos teisinės pagalbos tarnybai apie tai, kad reikia parinkti mediatorių iš Lietuvos Respublikos mediatorių sąrašo. Mediatorius skiriamas tik gavus jo rašytinį sutikimą. 
+
+
+
+
+3. Šio straipsnio 1 dalyje nurodyta nutartimi bylos nagrinėjimas atidedamas ir nustatomas tikslus kito teismo posėdžio laikas. Iki jo teisminė mediacija turi būti baigta vykdyti. Mediatoriaus teikimu terminas, kuriam buvo atidėtas bylos nagrinėjimas, gali būti pratęstas civilinę bylą nagrinėjančio teisėjo (teisėjų kolegijos) nutartimi. Šiuo atveju nustatomas naujas tikslus kito teismo posėdžio laikas.
+
+
+
+
+4. Kai yra priimta šio straipsnio 1 dalyje nurodyta nutartis perduoti ginčą spręsti teisminės mediacijos būdu ir teisminę mediaciją vykdys ne civilinę bylą nagrinėjantis teisėjas ir ne kitas mediatorius, kuris yra teisėjas, teismas nedelsdamas praneša Valstybės garantuojamos teisinės pagalbos tarnybai apie tai, kad reikia iš Lietuvos Respublikos mediatorių sąrašo parinkti mediatorių, kuris vykdys teisminę mediaciją konkrečioje byloje. Šiame teismo pranešime nurodoma ginčo esmė, bylos šalys, bylos kategorija. Apie iš Lietuvos Respublikos mediatorių sąrašo parinktą ir paskirtą mediatorių Valstybės garantuojamos teisinės pagalbos tarnyba praneša  teismui ne vėliau kaip per tris darbo dienas nuo mediatoriaus paskyrimo dienos.
+
+
+
+
+5. Mediatorius, paskirtas vykdyti teisminę mediaciją, per penkias darbo dienas nuo paskyrimo privalo susikurti mediatoriaus paskyrą Lietuvos teismų informacinės sistemos Viešųjų elektroninių paslaugų posistemėje.
+
+
+
+
+6. Kol vyksta teisminė mediacija, sustabdomi šiame Kodekse ir kituose įstatymuose nustatyti skundų padavimo ir (ar) bylų nagrinėjimo terminai.
+
+
+Papildyta straipsniu:
+Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
+ 
+
+
+
+
+2312 straipsnis. Mediatoriaus skyrimas ir susipažinimas su civilinės bylos medžiaga
+
+
+1. Mediatorius skiriamas vykdyti teisminę mediaciją Lietuvos Respublikos mediacijos įstatymo nustatyta tvarka. Jeigu teisminę mediaciją vykdys civilinę bylą nagrinėjantis teisėjas, jo sutikimas vykdyti teisminę mediaciją įforminamas nutartimi. Prieš duodamas sutikimą vykdyti teisminę mediaciją, mediatorius turi teisę gauti šio Kodekso 2311 straipsnio 4 dalyje nurodytą informaciją apie ginčo esmę, bylos šalis, bylos kategoriją. 
+
+
+
+
+2. Mediatorius turi nusišalinti nuo ginčo sprendimo teisminės mediacijos būdu, jeigu:
+
+
+1) jis su ginčo šalimi ar kitu dalyvaujančiu byloje asmeniu susijęs tokiais teisiniais santykiais, dėl kurių bylos baigtis gali turėti įtakos mediatoriaus teisėms arba pareigoms;
+
+
+
+
+2) jis su ginčo šalimis ar kitais dalyvaujančiais byloje asmenimis susijęs giminystės (tiesiosios aukštutinės ir tiesiosios žemutinės linijos giminaičiai, tikrieji bei netikrieji broliai ir seserys, įtėviai ir įvaikiai) ar svainystės ryšiais;
+
+
+
+
+3) jį su viena iš ginčo šalių ar kitais dalyvaujančiais byloje asmenimis sieja santuoka, globos ar rūpybos santykiai; šis pagrindas galioja ir tais atvejais, kai santuoka, globa ar rūpyba yra pasibaigusi;
+
+
+
+
+4) jis buvo arba yra vienos iš ginčo šalių arba kitų dalyvaujančių byloje asmenų atstovas;
+
+
+
+
+5) jis pats, jo sutuoktinis (sugyventinis) arba jo artimieji giminaičiai yra tiesiogiai ar netiesiogiai suinteresuoti bylos baigtimi;
+
+
+
+
+6) jis dalyvavo priimant sprendimą byloje žemesnės ar aukštesnės instancijos teisme arba šioje byloje dalyvavo kaip liudytojas, ekspertas, prokuroras, valstybės ar savivaldybės institucijos atstovas;
+
+
+
+
+7) yra kitų aplinkybių, kurios kelia abejonių dėl jo nešališkumo.
+
+
+
+
+
+
+3. Paskirtam mediatoriui teisminės mediacijos laikotarpiu sudaromos sąlygos susipažinti su civiline byla arba mediatoriaus prašymu civilinė byla jam perduodama pasirašytinai. Mediatorius iki teismo nutartyje nustatyto civilinės bylos posėdžio laiko privalo grąžinti civilinę bylą teisėjui (teisėjų kolegijai).
+
+
+Papildyta straipsniu:
+Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
  
 
 
@@ -8021,6 +8175,13 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 
 
 2. Teismas pagrindžia sprendimą tik tais įrodymais ir aplinkybėmis, kurios buvo ištirtos teismo posėdyje.
+
+
+
+
+3. Teismo sprendimas negali būti pagrįstas vien tik liudytojų, kurių konfidencialumas yra užtikrintas, parodymais. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1846, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21876
  
 
 
@@ -24958,3 +25119,8 @@ Lietuvos Respublikos civilinio proceso kodekso 570, 629, 631, 663, 668, 688, 689
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT22-N12/2018, 2018-12-14, paskelbta TAR 2018-12-14, i. k. 2018-20548
 Dėl Lietuvos Respublikos civilinio proceso kodekso 93 straipsnio 6 dalies atitikties Lietuvos Respublikos Konstitucijai
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1846, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21876
+Lietuvos Respublikos civilinio proceso kodekso 10, 192 ir 263 straipsnių pakeitimo įstatymas
