@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B77E00EAEBEB"
 
 # Lietuvos Respublikos klimato kaitos valdymo įstatymas
 
-Suvestinė redakcija nuo 2018-07-06
+Suvestinė redakcija nuo 2019-01-01 iki 2020-11-03
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 87-3662, i. k. 1091010ISTA00XI-329
  
@@ -88,24 +88,9 @@ Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010IST
 
 
 
-7. Naujas šiltnamio efektą sukeliančias dujas išmetantis įrenginys (toliau – naujas įrenginys) – įrenginys, kurį eksploatuojantis veiklos vykdytojas: 
-
-
-1) vykdo vieną arba daugiau veiklų pagal šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą ir turi jam po 2011 m. birželio 30 d. pirmą kartą išduotą leidimą išmesti šiltnamio efektą sukeliančias dujas;
-
-
-
-
-2) vykdo veiklą, kuri nepatenka į šio įstatymo 1 priede nurodytų veiklos rūšių sąrašą arba neapima šio įstatymo 1 priede nurodytų veiklos rūšių ir išmetamų šiltnamio efektą sukeliančių dujų, tačiau ši veikla ir (arba) šiltnamio efektą sukeliančios dujos, gavus Europos Komisijos patvirtinimą, Lietuvos Respublikos vienašališkai yra įtrauktos į Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemą;
-
-
-
-
-3) vykdo vieną arba daugiau veiklų pagal šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą arba veiklą, kuri nepatenka į šio įstatymo 1 priede nurodytų veiklos rūšių sąrašą arba neapima šio įstatymo 1 priede nurodytų veiklos rūšių ir išmetamų šiltnamio efektą sukeliančių dujų, tačiau ši veikla (veiklos) ir (arba) šiltnamio efektą sukeliančios dujos, gavus Europos Komisijos patvirtinimą, Lietuvos Respublikos vienašališkai yra įtrauktos į Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemą, ir įrenginio pajėgumai buvo labai išplėsti po 2011 m. birželio 30 d. 
-
-
+7. Naujas šiltnamio efektą sukeliančias dujas išmetantis rinkos dalyvis (toliau – naujas įrenginys) – įrenginys, kurį eksploatuojantis veiklos vykdytojas vykdo vieną arba daugiau veiklų pagal šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą ir jam pirmą kartą buvo išduotas leidimas išmesti šiltnamio efektą sukeliančias dujas per Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemos laikotarpį, kuris prasideda likus trims mėnesiams iki naujo laikotarpio Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje dalyvaujančių veiklos vykdytojų sąrašo pateikimo dienos ir baigiasi likus trims mėnesiams iki kito laikotarpio sąrašo pateikimo dienos. 
 Straipsnio dalies pakeitimai:
-Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
+Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
  
 
 
@@ -434,25 +419,42 @@ Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 
 
-2. Lėšos, gautos už perleistus nustatytosios normos vienetus, pervedamos į Klimato kaitos specialiąją programą.
+2. Lėšos, gautos už perleistus nustatytosios normos vienetus, pervedamos į Klimato kaitos programą.
 
 
 
 
-3. Nustatytosios normos vienetams įsigyti naudojamos šio straipsnio 2 dalyje nurodytoje Klimato kaitos specialiojoje programoje sukauptos lėšos ir (ar) valstybės biudžeto lėšos.
+3. Nustatytosios normos vienetams įsigyti naudojamos šio straipsnio 2 dalyje nurodytoje Klimato kaitos programoje sukauptos lėšos ir (ar) valstybės biudžeto lėšos.
 
 
 
 
+4. Kai nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo siūlo sudaryti sandorį, už kurį būtų atsiskaitoma nauju ilgalaikiu materialiuoju turtu, Vyriausybė įvertina šio įstatymo 10 straipsnio 4 dalies 1 punkte nurodytos Vyriausybės įgaliotos institucijos pateiktą aplinkosauginės ir finansinės naudos reikšmingumo pagrindimą. Pagrindimas parengiamas Vyriausybės nustatyta tvarka, numatant, kad turi būti įvertintas ir pagrįstas ekvivalentiškų gautinų lėšų už perleidžiamus nustatytosios normos vienetus ir siūlomo naujo ilgalaikio materialiojo turto verčių skirtumas. Vyriausybė gali priimti sprendimą, kad nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo už perleidžiamus nustatytosios normos vienetus gali atsiskaityti ekvivalentišku lėšų už perleidžiamus nustatytosios normos vienetus kiekiui nauju ilgalaikiu materialiuoju turtu, kuris atitinka Europos ir Lietuvos standartų reikalavimus ir bus naudojamas klimato kaitą mažinantiems šio įstatymo 10 straipsnio 3 dalies 1 ir 2 punktuose nurodytų Klimato kaitos programos lėšų panaudojimo krypčių projektams ir (ar) priemonėms įgyvendinti (toliau – turtas). Nustatytosios normos vienetų vertė nustatoma pagal šio įstatymo 10 straipsnio 4 dalies 1 punkte nurodytos Vyriausybės įgaliotos institucijos derybų būdu su nustatytosios normos vienetus perkančiąja valstybe ar jos įgaliotu asmeniu sutartą Lietuvos Respublikai palankiausią kainą.
 
 
-10 straipsnis. Klimato kaitos specialioji programa ir pagal nustatytosios normos vienetų įsigijimo ir perleidimo sandorius gauto turto perdavimas 
-Pakeistas straipsnio pavadinimas:
-Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
+
+
+5. Ūkio subjektams, kurių vykdoma veikla nepatenka į šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą ir kurie priskiriami Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje nedalyvaujantiems sektoriams, metiniai išmetamųjų šiltnamio efektą sukeliančių dujų kiekio mažinimo tikslai ir šių tikslų nustatymo principai nustatomi Nacionalinėje klimato kaitos valdymo politikos strategijoje. Vadovaudamasi Europos Sąjungos teisės aktais ir Nacionaline klimato kaitos valdymo politikos strategija, Vyriausybė arba jos įgaliota institucija nustato metiniams išmetamųjų šiltnamio efektą sukeliančių dujų kiekio mažinimo tikslams pasiekti taikomų lankstumo priemonių naudojimo tvarką. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
  
 
 
-1. Klimato kaitos valdymo priemonėms papildomai finansuoti sudaroma Klimato kaitos specialioji programa (toliau – Programa). Programos lėšos kaupiamos atskiroje Valstybės iždo sąskaitoje. Programos finansavimo pajamos ir išlaidos, vadovaujantis specialiųjų programų finansavimo principais, planuojamos valstybės biudžete.
+
+
+10 straipsnis. Klimato kaitos programa ir pagal nustatytosios normos vienetų įsigijimo ir perleidimo sandorius gauto turto perdavimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010ISTA0XI-2027
+Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
+ 
+
+
+1. Klimato kaitos valdymo priemonėms papildomai finansuoti sudaroma Klimato kaitos programa (toliau – Programa). Programos lėšos kaupiamos atskiroje Valstybės iždo sąskaitoje ir planuojamos valstybės biudžete. Planuojamos Programos lėšos naudojamos šio straipsnio 3 dalyje nurodytoms priemonėms finansuoti, kiekvienais metais užtikrinant šio straipsnio 3 dalies 1, 2, 6 ir 8 punktuose nurodytų priemonių finansavimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
+ 
 
 
 
@@ -490,17 +492,17 @@ Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010IST
 3. Programos lėšos naudojamos:
 
 
-1) energijos vartojimo ir gamybos efektyvumo didinimo projektams: gyvenamiesiems namams ir visuomeninės paskirties pastatams modernizuoti, kitiems projektams, kurie leidžia efektyviausiai sumažinti išmetamų šiltnamio efektą sukeliančių dujų kiekį energetikos, pramonės, statybos, transporto, žemės ūkio, atliekų tvarkymo ir kitose srityse, įgyvendinti – ne mažiau kaip 40 procentų;
+1) energijos vartojimo ir gamybos efektyvumo didinimo projektams: gyvenamiesiems namams ir visuomeninės paskirties pastatams modernizuoti, kitiems projektams, kurie leidžia efektyviausiai sumažinti išmetamų šiltnamio efektą sukeliančių dujų kiekį energetikos, pramonės, statybos, transporto, žemės ūkio, atliekų tvarkymo ir kitose srityse, įgyvendinti;
 
 
 
 
-2) atsinaujinančių energijos išteklių panaudojimui skatinti, aplinkai palankioms technologijoms, tarp jų efektyvios energijos gamybos kogeneracijos būdu, diegti – ne mažiau kaip 40 procentų;
+2) atsinaujinančių energijos išteklių panaudojimui skatinti, aplinkai palankioms technologijoms, tarp jų efektyvios energijos gamybos kogeneracijos būdu, diegti;
 
 
 
 
-3) Nacionalinės klimato kaitos valdymo politikos strategijos įgyvendinimo priemonių planui vykdyti;
+3) Nacionalinės klimato kaitos valdymo politikos strategijos tikslų ir uždavinių įgyvendinimo priemonėms vykdyti;
 
 
 
@@ -515,24 +517,22 @@ Nr. XI-2027, 2012-05-22, Žin., 2012, Nr. 63-3168 (2012-06-05), i. k. 1121010IST
 
 
 
-6) pagal Europos Sąjungos teisės aktus, Klimato kaitos konvenciją, Kioto protokolą ir kitus tarptautinius susitarimus nustatytoms prisitaikymo prie klimato kaitos pokyčių ir klimato kaitos padarinių švelninimo priemonėms įgyvendinti Lietuvos Respublikos teritorijoje ir trečiosiose valstybėse; 
+6) pagal Europos Sąjungos teisės aktus, Klimato kaitos konvenciją, Kioto protokolą, Paryžiaus susitarimą ir kitus tarptautinius susitarimus nustatytoms prisitaikymo prie klimato kaitos pokyčių ir klimato kaitos padarinių švelninimo priemonėms įgyvendinti Lietuvos Respublikos teritorijoje ir trečiosiose valstybėse; 
 
 
 
 
-7) kitoms klimato kaitos politikos veiksmingo valdymo priemonėms, kurios, naudojantis valstybės pagalba, leistų veiklos vykdytojams ir kitiems ūkio subjektams, kurių vykdoma veikla nepatenka į šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą, sumažinti išmetamų šiltnamio efektą sukeliančių dujų mažinimo įsipareigojimų finansinę ir ekonominę naštą, įgyvendinti;
+7) kitoms klimato kaitos politikos veiksmingo valdymo finansinėms priemonėms, kurios, naudojantis valstybės pagalba, leistų veiklos vykdytojams, eksploatuojantiems sektorių ar jų pošakių įrenginius, kuriems gresia reali anglies dioksido nutekėjimo rizika dėl didelių netiesioginių išlaidų, kurios faktiškai patiriamos su išmetamu šiltnamio efektą sukeliančių dujų kiekiu susijusias išlaidas perkeliant į elektros energijos kainas, ir kitiems ūkio subjektams, kurių vykdoma veikla nepatenka į šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą, sumažinti išmetamų šiltnamio efektą sukeliančių dujų mažinimo įsipareigojimų finansinę ir ekonominę naštą, įgyvendinti – ne daugiau kaip 25 procentų pajamų, gautų pardavus aukcione apyvartinius taršos leidimus;
 
 
 
 
 8) Programos lėšų administravimui ir Sąjungos šiltnamio efektą sukeliančių dujų registro administravimui finansuoti. 
-Papildyta straipsnio punktu:
-Nr. XI-1170, 2010-11-23, Žin., 2010, Nr. 145-7427 (2010-12-11), i. k. 1101010ISTA0XI-1170
-Straipsnio punkto pakeitimai:
-Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010ISTA0XII-291
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
  
-
-
 
 
 
@@ -540,7 +540,7 @@ Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010IST
 4. Programos lėšų valdymo bendrosios nuostatos:
 
 
-1) metines Programos lėšų panaudojimo sąmatas ir ataskaitas rengia ir Programos lėšas administruoja Vyriausybės įgaliota institucija;
+1) metines Programos lėšų panaudojimo sąmatas ir ataskaitas rengia ir programos lėšas administruoja Vyriausybės įgaliota institucija;
 
 
 
@@ -550,14 +550,12 @@ Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010IST
 
 
 
-3) Programos lėšos, nepanaudotos einamaisiais biudžetiniais metais, naudojamos kitiems metams numatytoms priemonėms arba kitoms šio straipsnio 3 dalies 3–7 punktuose numatytoms priemonėms finansuoti;
+3) Programos lėšos, nepanaudotos einamaisiais biudžetiniais metais, naudojamos kitiems metams numatytoms šio straipsnio 3 dalies 1–7 punktuose nurodytoms priemonėms finansuoti. 
 
 
-
-
-4) Vyriausybė gali pakeisti šio straipsnio 3 dalies 1 ir 2 punktuose nurodytą finansavimo dydį tik tuo atveju, kai yra motyvuotas Vyriausybės įgaliotos institucijos, administruojančios Programos lėšas, siūlymas.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
+ 
 
 
 
@@ -1162,17 +1160,6 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 3. Šio įstatymo 5 straipsnio 2 dalies reikalavimai kai kuriems veiklos vykdytojams pagal šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą taikomi nuo 2010 m. sausio 1 d.
- 
-
-
-
-
-
-
-23 straipsnis. Pasiūlymas Vyriausybei 
-
-
-Vyriausybė iki 2012 m. rugsėjo 1 d. pateikia Seimui tvirtinti Nacionalinę klimato kaitos valdymo politikos strategiją. 
  
 
 
