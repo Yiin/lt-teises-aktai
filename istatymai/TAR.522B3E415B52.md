@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -3578,7 +3578,10 @@ Nr. IX-1014, 2002-07-02, Žin., 2002, Nr. 73-3090 (2002-07-19)
 
 
 
-4. Teisėjo, kuris buvo tyčia nužudytas dėl teisėjo pareigų atlikimo, šeimai, tai yra jo vaikams (įvaikiams) iki 18 metų, vaikams (įvaikiams) iki 24 metų, kurie yra nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokiniai arba nuolatinių ar ištęstinių studijų programų studentai, taip pat gimusiems po teisėjo mirties jo vaikams, sutuoktiniui, tėvui ar motinai, nedarbingiems asmenims, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, – lygiomis dalimis per trejus metus nuo teisėjo mirties valstybė sumoka 120 mėnesių jo mėnesinio atlyginimo (toliau – MA) dydžio išmoką.
+4. Teisėjo, kuris buvo tyčia nužudytas dėl teisėjo pareigų atlikimo, šeimai, tai yra jo vaikams (įvaikiams) iki 18 metų, vaikams (įvaikiams) iki 24 metų, kurie yra nustatyta tvarka įregistruotų švietimo įstaigų bendrojo ugdymo programų ar formaliojo profesinio mokymo programų mokiniai arba nuolatinių ar ištęstinių studijų programų studentai, taip pat gimusiems po teisėjo mirties jo vaikams, sutuoktiniui, tėvui ar motinai, nedarbingiems asmenims, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, – lygiomis dalimis per trejus metus nuo teisėjo mirties valstybė sumoka 93,10 mėnesio jo mėnesinio atlyginimo (toliau – MA) dydžio išmoką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1736, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20704
+ 
 
 
 
@@ -3591,29 +3594,32 @@ Nr. IX-1014, 2002-07-02, Žin., 2002, Nr. 73-3090 (2002-07-19)
 6. Teisėjui, kuriam buvo tyčia sutrikdyta sveikata dėl teisėjo pareigų atlikimo, valstybė sumoka kompensaciją pagal netekto darbingumo lygį ar sveikatos sutrikdymo sunkumą:
 
 
-1) dėl sveikatos sutrikdymo netekusiam 75–100 procentų darbingumo, – 60 MA dydžio;
+1) dėl sveikatos sutrikdymo netekusiam 75–100 procentų darbingumo – 46,55 MA dydžio;
 
 
 
 
-2) dėl sveikatos sutrikdymo netekusiam 60–70 procentų darbingumo, – 48 MA dydžio;
+2) dėl sveikatos sutrikdymo netekusiam 60–70 procentų darbingumo – 37,24 MA dydžio;
 
 
 
 
-3) dėl sveikatos sutrikdymo netekusiam 45–55 procentų darbingumo, – 36 MA dydžio;
+3) dėl sveikatos sutrikdymo netekusiam 45–55 procentų darbingumo – 27,93 MA dydžio;
 
 
 
 
-4) dėl sunkaus sveikatos sutrikdymo – 24 MA dydžio;
+4) dėl sunkaus sveikatos sutrikdymo – 18,62 MA dydžio;
 
 
 
 
-5) dėl nesunkaus sveikatos sutrikdymo – iki 12 MA dydžio.
+5) dėl nesunkaus sveikatos sutrikdymo – iki 9,31 MA dydžio. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1736, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20704
+ 
 
 
 
@@ -5291,3 +5297,8 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 12, 15, 23 ir 47 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-606, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12426
 Lietuvos Respublikos teismų įstatymo Nr. I-480 7 ir 38 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1736, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20704
+Lietuvos Respublikos teismų įstatymo Nr. I-480 101 straipsnio pakeitimo įstatymas
