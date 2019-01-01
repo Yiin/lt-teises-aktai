@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -2513,7 +2513,6 @@ Pastaba: šio įstatymo 31 straipsnio 7 dalies nuostatos taikomos bendrovėse re
 
 
 4) prižiūri valdybos ir bendrovės vadovo veiklą;
-TAR pastaba. 1 dalis papildoma nauju 5 punktu, buvę 5 ir 6 punktai atitinkamai laikomi 6 ir 7 punktais, nuo 2018-01-01 (buvę 7 ir 8 punktai nepernumeruoti):
 
 
 
@@ -3797,7 +3796,10 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 
 
 
-3) teikiama mokesčių administravimo, teisėtvarkos institucijoms ir teismams teisės aktuose nustatytoms funkcijoms atlikti.
+3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-849, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20332
+ 
 
 
 
@@ -7327,3 +7329,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 16-1, 18, 19, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-356, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08566
 Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 papildymo 37-1 straipsniu įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-849, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20332
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 41-1 straipsnio pakeitimo įstatymas
