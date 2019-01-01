@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4a1c0850ef2f11e4927fda1d051299fb"
 
 # Lietuvos Respublikos privačios detektyvinės veiklos įstatymas
 
+Suvestinė redakcija nuo 2019-01-01 iki 2024-08-31
+ 
+Įstatymas paskelbtas: TAR 2015-04-30, i. k. 2015-06577
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS PRIVAČIOS DETEKTYVINĖS VEIKLOS ĮSTATYMAS
  
 2015 m. balandžio 16 d. Nr. XII-1615
@@ -261,7 +268,10 @@ ASMENS PRIPAŽINIMAS PRIVAČIU DETEKTYVU
 
 
 
-2) Valstybės tarnybos departamentas – dėl 5 punkte nustatytų kriterijų;
+2) Vyriausybės įgaliota institucija – dėl 5 punkte nustatytų kriterijų;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1374, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12042
+ 
 
 
 
@@ -1209,4 +1219,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1374, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12042
+Lietuvos Respublikos privačios detektyvinės veiklos įstatymo Nr. XII-1615 8 straipsnio pakeitimo įstatymas
