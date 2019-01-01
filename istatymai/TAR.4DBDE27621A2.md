@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4DBDE27621A2"
 
 # Lietuvos Respublikos korupcijos prevencijos įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 57-2297, i. k. 1021010ISTA00IX-904
  
@@ -183,18 +183,12 @@ Korupcijos prevencijos priemonės yra šios:
 
 
 
-3) teisės aktuose įtvirtinto ar teisės aktų projektais numatomo teisinio reguliavimo poveikio korupcijos mastui vertinimas (teisės aktų ar jų projektų antikorupcinis vertinimas);
-Straipsnio punkto pakeitimai:
-Nr. X-1571, 2008-06-05, Žin., 2008, Nr. 71-2700 (2008-06-21), i. k. 1081010ISTA00X-1571
- 
+3) teisės aktuose nustatyto ar teisės aktų projektais numatomo teisinio reguliavimo poveikio korupcijos mastui vertinimas (teisės aktų ar jų projektų antikorupcinis vertinimas);
 
 
 
 
 4) informacijos apie asmenį, siekiantį eiti arba einantį pareigas valstybės ar savivaldybės įstaigoje ar įmonėje, arba apie asmenį, kurį į pareigas Europos Sąjungos ar tarptautinėse institucijose teikia Lietuvos Respublika, pateikimas;
-Straipsnio punkto pakeitimai:
-Nr. XI-1367, 2011-04-28, Žin., 2011, Nr. 57-2703 (2011-05-12), i. k. 1111010ISTA0XI-1367
- 
 
 
 
@@ -209,17 +203,24 @@ Nr. XI-1367, 2011-04-28, Žin., 2011, Nr. 57-2703 (2011-05-12), i. k. 1111010IST
 
 
 
-7) nustatytų korupcijos atvejų paviešinimas;
+7) nustatytų korupcijos atvejų viešas paskelbimas;
 
 
 
 
-8) kitos įstatymų nustatytos korupcijos prevencijos priemonės. 
+8) pranešimas apie korupcinio pobūdžio nusikalstamas veikas;
+
+
+
+
+9) kitos įstatymų nustatytos korupcijos prevencijos priemonės. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1298, 2018-06-27, paskelbta TAR 2018-07-03, i. k. 2018-11179
  
-
-
-
-
 
 
 
@@ -235,9 +236,11 @@ Nr. XII-2742, 2016-11-08, paskelbta TAR 2016-11-15, i. k. 2016-26840
 
 
 
-2. Šiame straipsnyje valstybės ar savivaldybės įstaigomis laikomos valstybės ar savivaldybės įstaigos, valstybės ar savivaldybės įmonės, kaip jos apibrėžtos Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatyme, taip pat įmonės, kurių valstybei ar savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau kaip 50 procentų balsų, ir įmonės, kuriose valstybė ar savivaldybė gali paskirti daugiau kaip pusę įmonės administracijos, valdymo arba priežiūros tarnybos narių. 
+2. Šiame straipsnyje valstybės ar savivaldybės įstaigomis laikomos valstybės ar savivaldybės įstaigos, valstybės ir savivaldybės įmonės, veikiančios pagal Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymą, akcinės bendrovės, uždarosios akcinės bendrovės, kurių valstybei nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, taip pat akcinės bendrovės, uždarosios akcinės bendrovės, kurių vienai ar kelioms savivaldybėms nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime. 
 Papildyta straipsnio dalimi:
 Nr. XII-2742, 2016-11-08, paskelbta TAR 2016-11-15, i. k. 2016-26840
+Straipsnio dalies pakeitimai:
+Nr. XIII-1165, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08535
  
 
 
@@ -442,7 +445,10 @@ Nr. XII-2742, 2016-11-08, paskelbta TAR 2016-11-15, i. k. 2016-26840
 
 
 
-4) Europos Sąjungos struktūrinių fondų paramos teikimu;
+4) finansinės paramos teikimu, įskaitant Europos Sąjungos struktūrinių fondų paramą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1298, 2018-06-27, paskelbta TAR 2018-07-03, i. k. 2018-11179
+ 
 
 
 
@@ -636,9 +642,10 @@ Nr. XI-2250, 2012-10-02, Žin., 2012, Nr. 122-6109 (2012-10-20), i. k. 1121010IS
 
 
 
-6. Rašytinio prašymo, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, kurį į pareigas skiria Respublikos Prezidentas, Seimas, Seimo Pirmininkas, Vyriausybė arba Ministras Pirmininkas, taip pat asmenis, kuriuos rengiamasi skirti į viceministrų, ministerijų kanclerių, savivaldybių administracijos direktorių ir jų pavaduotojų, prokurorų, valstybės ar savivaldybių įstaigų vadovų ir jų pavaduotojų, valstybės ar savivaldybių įstaigų padalinių vadovų ir jų pavaduotojų (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), nacionaliniam saugumui užtikrinti svarbių įmonių vadovų ir jų pavaduotojų, valstybės ar savivaldybės įmonių, taip pat akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių valstybei ar savivaldybei nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, vadovų ir jų pavaduotojų pareigas, pateikimas yra privalomas. Prašymą pateikti informaciją pasirašo į pareigas asmenį skiriantis subjektas ar jo įgaliotas asmuo. Prašymą, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, kurį į pareigas skiria Seimas, pasirašo Seimo Pirmininkas ar jo įgaliotas asmuo, o apie asmenį, kurį į pareigas skiria Vyriausybė, – Ministras Pirmininkas ar jo įgaliotas asmuo. 
+6. Rašytinio prašymo, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, kurį į pareigas skiria Respublikos Prezidentas, Seimas, Seimo Pirmininkas, Vyriausybė arba Ministras Pirmininkas, taip pat asmenis, kuriuos rengiamasi skirti į viceministrų, ministerijų kanclerių, savivaldybių administracijos direktorių ir jų pavaduotojų, prokurorų, valstybės ar savivaldybių įstaigų vadovų ir jų pavaduotojų, valstybės ar savivaldybių įstaigų padalinių vadovų ir jų pavaduotojų (taikoma struktūriniam padaliniui, nesančiam kitame struktūriniame padalinyje), nacionaliniam saugumui užtikrinti svarbių įmonių vadovų ir jų pavaduotojų, valstybės ar savivaldybės įmonių, veikiančių pagal Valstybės ir savivaldybės įmonių įstatymą, akcinių bendrovių, uždarųjų akcinių bendrovių, kurių valstybei nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, taip pat akcinės bendrovės, uždarosios akcinės bendrovės, kurių vienai ar kelioms savivaldybėms nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, vadovų ir jų pavaduotojų pareigas, pateikimas yra privalomas. Prašymą pateikti informaciją pasirašo į pareigas asmenį skiriantis subjektas ar jo įgaliotas asmuo. Prašymą, kad Specialiųjų tyrimų tarnyba pateiktų informaciją apie asmenį, kurį į pareigas skiria Seimas, pasirašo Seimo Pirmininkas ar jo įgaliotas asmuo, o apie asmenį, kurį į pareigas skiria Vyriausybė, – Ministras Pirmininkas ar jo įgaliotas asmuo. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1003, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01016
+Nr. XIII-1165, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08535
  
 
 
@@ -751,6 +758,34 @@ Nr. XI-1367, 2011-04-28, Žin., 2011, Nr. 57-2703 (2011-05-12), i. k. 1111010IST
  
 
 
+
+
+
+
+101 straipsnis. Pranešimas apie korupcinio pobūdžio nusikalstamas veikas
+
+
+1. Valstybės tarnautojas ar jam prilygintas asmuo apie jam žinomą korupcinio pobūdžio nusikalstamą veiką, išskyrus veiką, kurią galbūt padarė jo artimieji giminaičiai ar šeimos nariai (artimųjų giminaičių ir šeimos narių sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos baudžiamojo kodekso XXXIV skyriuje), privalo pranešti Lietuvos Respublikos prokuratūrai, Specialiųjų tyrimų tarnybai arba ikiteisminio tyrimo įstaigai, jei jis gavo neginčijamų duomenų, liudijančių šios veikos padarymą, arba pats stebėjo ar kitaip fiksavo šios veikos padarymą ir jei teisės aktuose nėra nustatyta praneštinos informacijos atskleidimo ribojimų.
+
+
+
+
+2. Valstybės tarnautojo ar jam prilyginto asmens pranešimas apie jam žinomą korupcinio pobūdžio nusikalstamą veiką šio straipsnio 1 dalyje nurodytiems subjektams turi būti pateikiamas per įmanomai trumpiausią laiką nuo sužinojimo apie korupcinio pobūdžio nusikalstamą veiką momento.
+
+
+
+
+3. Šio straipsnio 1 dalyje nurodyti subjektai privalo užtikrinti valstybės tarnautojo, jam prilyginto asmens ar kito asmens, kuris pranešė apie korupcinio pobūdžio nusikalstamą veiką, asmens duomenų konfidencialumą ar anonimiškumą įstatymų ir kitų teisės aktų nustatyta tvarka.
+
+
+
+
+4. Asmenims, pranešusiems apie korupcinio pobūdžio nusikalstamas veikas, Lietuvos Respublikos pranešėjų apsaugos įstatymo ir kitų teisės aktų nustatyta tvarka gali būti taikomos pagalbos, apsaugos ir skatinimo priemonės. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1298, 2018-06-27, paskelbta TAR 2018-07-03, i. k. 2018-11179
+ 
 
 
 
@@ -1089,3 +1124,13 @@ Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 6 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1003, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01016
 Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 9 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1165, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08535
+Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 6 ir 9 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1298, 2018-06-27, paskelbta TAR 2018-07-03, i. k. 2018-11179
+Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 5, 8 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
