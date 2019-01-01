@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.23C5BC14E2B6"
 
 # Lietuvos Respublikos karo policijos įstatymas
 
-Suvestinė redakcija nuo 2018-12-29 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 98-2713, i. k. 0981010ISTAVIII-911
  
@@ -135,7 +135,10 @@ Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. 1111010IS
 
 
 
-2. Karo policija turi šio įstatymo nustatytus įgaliojimus tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose dalyvaujantiems bei bendruose su kitomis valstybėmis kariniuose vienetuose tarnaujantiems Lietuvos kariams ir civiliams krašto apsaugos sistemos tarnautojams, taip pat kitus įgaliojimus, numatytus tarptautinėse sutartyse ar tarptautinių organizacijų rezoliucijose.
+2. Karo policija turi šio įstatymo nustatytus įgaliojimus tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose dalyvaujantiems bei bendruose su kitomis valstybėmis kariniuose vienetuose tarnaujantiems Lietuvos kariams, krašto apsaugos sistemos valstybės tarnautojams, žvalgybos pareigūnams, tarnaujantiems pagal žvalgybos pareigūno tarnybos sutartis, ir darbuotojams, dirbantiems pagal darbo sutartis, taip pat kitus įgaliojimus, numatytus tarptautinėse sutartyse ar tarptautinių organizacijų rezoliucijose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1814, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21834
+ 
 
 
 Straipsnio pakeitimai:
