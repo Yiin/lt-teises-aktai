@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2018-12-22 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
  
@@ -1026,9 +1026,10 @@ Nr. XII-2052, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18860
 
 1) ant statinių, kuriuose veikia valstybės valdžios, teisėsaugos, kitos valstybės ir savivaldybių institucijos ir įstaigos;
 
-2) valstybės ar savivaldybių kontroliuojamų įmonių naudojamose viešojo transporto priemonėse ir ant jų, išskyrus atvejus, kai reklamos plotai ar vaizdo transliavimo įrenginiai priklauso ar yra perduoti naudotis tretiesiems asmenims, kuriems valstybės ar savivaldybių įmonės negali daryti tiesioginio ar netiesioginio lemiamo poveikio; 
+2) valstybės ar savivaldybių valdomų įmonių naudojamose viešojo transporto priemonėse ir ant jų, išskyrus atvejus, kai reklamos plotai ar vaizdo transliavimo įrenginiai priklauso ar yra perduoti naudotis tretiesiems asmenims, kuriems valstybės ar savivaldybių valdomos įmonės negali daryti tiesioginio ar netiesioginio lemiamo poveikio; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2052, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18860
+Nr. XIII-1167, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08640
  
 
 3) automobilių keliuose ir jų sanitarinės apsaugos zonose, taip pat gatvėse ir prie jų, jeigu ji gali užstoti technines eismo reguliavimo priemones, kelio ženklus, pabloginti matomumą, akinti eismo dalyvius, atitraukti jų dėmesį ir taip kelti pavojų eismo dalyviams, taip pat draudžiama naudoti reklamą, imituojančią kelio ženklus;
