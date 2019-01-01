@@ -13,13 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F8D00907FFBE"
 
 # Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2015-07-04 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-06-11
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 104-2976, i. k. 0991010ISTAIII-1436
  
 LIETUVOS RESPUBLIKOS ASMENŲ, SLAPTA BENDRADARBIAVUSIŲ SU BUVUSIOS SSRS SPECIALIOSIOMIS TARNYBOMIS, REGISTRACIJOS, PRISIPAŽINIMO, ĮSKAITOS IR PRISIPAŽINUSIŲJŲ APSAUGOS Į S T A T Y M A S  
 1999 m. lapkričio 23 d. Nr. VIII-1436
 Vilnius
+ 
  
 
 
@@ -427,7 +428,10 @@ Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA
 
 
 
-3) eiti valstybės tarnautojo ar civilio statutinio valstybės tarnautojo pareigų krašto apsaugos sistemoje, atlikti tikrosios karo tarnybos;
+3) eiti valstybės tarnautojo pareigų krašto apsaugos sistemoje, atlikti tikrosios karo tarnybos;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1816, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21836
+ 
 
 
 
@@ -524,7 +528,9 @@ Nr. XI-961, 2010-06-30, Žin., 2010, Nr. 86-4519 (2010-07-20), i. k. 1101010ISTA
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
  
 
 
@@ -551,3 +557,8 @@ Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS special
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1911, 2015-06-30, paskelbta TAR 2015-07-03, i. k. 2015-10826
 Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo Nr. VIII-1436 8 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1816, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21836
+Lietuvos Respublikos asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, registracijos, prisipažinimo, įskaitos ir prisipažinusiųjų apsaugos įstatymo Nr. VIII-1436 9 straipsnio pakeitimo įstatymas
