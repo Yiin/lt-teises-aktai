@@ -20,14 +20,9 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2018-06-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
- 
-TAR pastaba. Viešojo sektoriaus subjektai, kurių apskaita iki šio įstatymo (Nr. XIII-930) įsigaliojimo (2018-06-01) buvo tvarkoma centralizuotai arba pagal sutartį su apskaitos paslaugas teikiančia įmone ar apskaitos paslaugas savarankiškai teikiančiu asmeniu, apskaitą tvarko pagal iki šio įstatymo įsigaliojimo sudarytas sutartis tol, kol Lietuvos Respublikos Vyriausybė, savivaldybių tarybos arba atitinkamo viešojo sektoriaus subjekto vadovas priims sprendimą dėl kitokio šių viešojo sektoriaus subjektų buhalterinės apskaitos tvarkymo.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
-Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 7, 9, 10, 11, 14, 16, 19 ir 21 straipsnių pakeitimo ir Įstatymo papildymo 10-3 straipsniu įstatymas
  
 LIETUVOS RESPUBLIKOS
 BUHALTERINĖS APSKAITOS
@@ -472,7 +467,25 @@ APSKAITOS ORGANIZAVIMAS
 
 
 
-3. Ūkio subjektai apskaitai tvarkyti taiko dvejybinio įrašo būdą. Gyventojai, kurie verčiasi individualia veikla, neribotos civilinės atsakomybės juridiniai asmenys, kurie nėra pridėtinės vertės mokesčio mokėtojai ir neturi samdomų darbuotojų ataskaitiniais ir praėjusiais ataskaitiniais metais, gali pasirinkti supaprastintą apskaitą.
+3. Ūkio subjektai apskaitai tvarkyti taiko dvejybinio įrašo būdą. Supaprastintą apskaitą gali pasirinkti:
+
+
+1) gyventojai, kurie verčiasi individualia veikla;
+
+
+
+
+2) neribotos civilinės atsakomybės juridiniai asmenys, kurie nėra pridėtinės vertės mokesčio mokėtojai ir neturi samdomų darbuotojų ataskaitiniais ir praėjusiais finansiniais metais;
+
+
+
+
+3) pelno nesiekiantys ribotos civilinės atsakomybės juridiniai asmenys, kurie neturi samdomų darbuotojų ataskaitiniais ir praėjusiais finansiniais metais ir kurių pajamos ir (arba) gautos finansavimo sumos per praėjusius ir užpraeitus finansinius metus neviršijo 30 000 eurų.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1183, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09074
+ 
 
 
 
@@ -616,7 +629,10 @@ Nr. XI-1988, 2012-04-24, Žin., 2012, Nr. 51-2531 (2012-05-03)
 
 
 
-2. Ūkio subjekto apskaitos tvarkyti negali ūkio subjekto vadovas, išskyrus šio straipsnio 5 ir 6 dalyse nustatytus atvejus.
+2. Ūkio subjekto apskaitos tvarkyti negali ūkio subjekto vadovas, išskyrus šio straipsnio 5, 6 ir 9 dalyse nustatytus atvejus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1183, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09074
+ 
 
 
 
@@ -650,6 +666,14 @@ Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
 
 
 8. Gyventojo, kuris verčiasi individualia veikla, apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti pats gyventojas.
+
+
+
+
+9. Pelno nesiekiančio ribotos civilinės atsakomybės juridinio asmens supaprastintą apskaitą, be šio straipsnio 1 dalyje nurodytų subjektų, gali tvarkyti to juridinio asmens valdymo organo narys arba dalyvis.
+Papildyta straipsnio dalimi:
+Nr. XIII-1183, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09074
+ 
 
 
 Straipsnio pakeitimai:
@@ -1587,3 +1611,8 @@ Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 2 ir 10-2 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-930, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21603
 Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 7, 9, 10, 11, 14, 16, 19 ir 21 straipsnių pakeitimo ir Įstatymo papildymo 10-3 straipsniu įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1183, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09074
+Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 6 ir 10 straipsnių pakeitimo įstatymas
