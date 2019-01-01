@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-11-29 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -106,7 +106,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Savivaldybės kontroliuojamos įmonės – savivaldybės įmonės, veikiančios pagal Valstybės ir savivaldybės įmonių įstatymą, akcinės bendrovės ir uždarosios akcinės bendrovės, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso savivaldybei, ir įmonės, kuriose savivaldybės gali paskirti daugiau kaip pusę įmonės administracijos, valdymo arba priežiūros tarnybos narių.
+6. Savivaldybės valdoma įmonė – savivaldybės įmonė, veikianti pagal Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymą, taip pat akcinė bendrovė ir uždaroji akcinė bendrovė, kurių vienai ar kelioms savivaldybėms nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+ 
 
 
 
@@ -276,9 +279,11 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-15) viešumo. Savivaldybė savo interneto svetainėje teikia ir nuolat atnaujina šio įstatymo numatytą informaciją, taip pat informaciją apie savivaldybės kontroliuojamas įmones, jų vadovus, valdybų narius, pateikia šių įmonių veiklos rezultatų ir finansines ataskaitas bei kitą aktualią informaciją, taip pat informaciją apie savivaldybės gaunamą paramą (paramos teikėją (teikėjus), paramos sumas, paramos tikslą, paramos laikotarpį ir pan.), savivaldybės skiriamas pinigines lėšas nevyriausybinių organizacijų ir viešųjų įstaigų projektams finansuoti bei projektų finansavimo ir atrankos kriterijus, kvietimus organizacijoms teikti paraiškas paramai gauti ir kitą informaciją, susijusią su savivaldybės veikla.
+15) viešumo. Savivaldybė savo interneto svetainėje teikia ir nuolat atnaujina šio įstatymo numatytą informaciją, taip pat informaciją apie savivaldybės valdomas įmones, jų vadovus, valdybų narius, pateikia šių įmonių įstatus, ne mažiau kaip trejų paskutinių finansinių metų veiklos rezultatų ir finansines ataskaitas bei kitą aktualią informaciją, taip pat informaciją apie savivaldybės gaunamą paramą (paramos teikėją (teikėjus), paramos sumas, paramos tikslą, paramos laikotarpį ir pan.), savivaldybės skiriamas pinigines lėšas nevyriausybinių organizacijų ir viešųjų įstaigų projektams finansuoti bei projektų finansavimo ir atrankos kriterijus, kvietimus organizacijoms teikti paraiškas paramai gauti ir kitą informaciją, susijusią su savivaldybės veikla.
 Papildyta straipsnio punktu:
 Nr. XII-2741, 2016-11-08, paskelbta TAR 2016-11-15, i. k. 2016-26839
+Straipsnio punkto pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
  
 
 
@@ -534,7 +539,10 @@ Nr. XIII-1639, 2018-11-15, paskelbta TAR 2018-11-20, i. k. 2018-18680
 
 
 
-37) prekybos ir kitų paslaugų teikimo tvarkos savivaldybių ar jų kontroliuojamų įmonių administruojamose turgavietėse ir viešose vietose nustatymas;
+37) prekybos ir kitų paslaugų teikimo tvarkos savivaldybių ar jų valdomų įmonių administruojamose turgavietėse ir viešose vietose nustatymas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+ 
 
 
 
@@ -778,7 +786,10 @@ Nr. XIII-649, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16086
 
 
 
-33) informacijos apie savivaldybės institucijų ir savivaldybės kontroliuojamų įmonių, atitinkančių Vyriausybės nustatytus kriterijus, finansinius santykius ir apie įmones, privalančias tvarkyti atskiras sąskaitas, kaupimas, saugojimas ir teikimas Europos Komisijai Vyriausybės nustatyta tvarka;
+33) informacijos apie savivaldybės institucijų ir savivaldybės valdomų įmonių, atitinkančių Vyriausybės nustatytus kriterijus, finansinius santykius ir apie įmones, privalančias tvarkyti atskiras sąskaitas, kaupimas, saugojimas ir teikimas Europos Komisijai Vyriausybės nustatyta tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+ 
 
 
 
@@ -931,7 +942,7 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-2. Jeigu nėra pažeidžiami šio straipsnio 1 dalyje nustatyti reikalavimai, savivaldybė gali steigti naują juridinį asmenį šiai ūkinei veiklai vykdyti arba pavesti naują ūkinę veiklą vykdyti jau veikiančioms savivaldybės kontroliuojamoms įmonėms, tik gavusi išankstinį Lietuvos Respublikos konkurencijos tarybos sutikimą (toliau – sutikimas), išskyrus šio straipsnio 3 dalyje nurodytas išimtis. Nauju juridiniu asmeniu nelaikomas po juridinių asmenų reorganizavimo veiklą tęsiantis juridinis asmuo, taip pat po pertvarkymo naują teisinę formą įgijęs juridinis asmuo. Nauja ūkine veikla laikoma ūkinė veikla, kurios savivaldybės kontroliuojama įmonė per pastaruosius trejus metus iki savivaldybės sprendimo pavesti jai tokią veiklą vykdyti priėmimo faktiškai nevykdė. Jeigu ūkinę veiklą vykdyti pavedama per paskutinius trejus metus po juridinių asmenų reorganizavimo veiklą tęsiančiai savivaldybės kontroliuojamai įmonei, bent vieno iš po juridinių asmenų reorganizavimo pasibaigusių juridinių asmenų faktiškai vykdyta atitinkama ūkinė veikla yra laikoma po juridinių asmenų reorganizavimo veiklą tęsiančio juridinio asmens faktiškai vykdyta ūkine veikla.
+2. Jeigu nėra pažeidžiami šio straipsnio 1 dalyje nustatyti reikalavimai, savivaldybė gali steigti naują juridinį asmenį šiai ūkinei veiklai vykdyti arba pavesti naują ūkinę veiklą vykdyti jau veikiančioms savivaldybės valdomoms įmonėms, tik gavusi išankstinį Lietuvos Respublikos konkurencijos tarybos sutikimą (toliau – sutikimas), išskyrus šio straipsnio 3 dalyje nurodytas išimtis. Nauju juridiniu asmeniu nelaikomas po juridinių asmenų reorganizavimo veiklą tęsiantis juridinis asmuo, taip pat po pertvarkymo naują teisinę formą įgijęs juridinis asmuo. Nauja ūkine veikla laikoma ūkinė veikla, kurios savivaldybės valdoma įmonė per pastaruosius trejus metus iki savivaldybės sprendimo pavesti jai tokią veiklą vykdyti priėmimo faktiškai nevykdė. Jeigu ūkinę veiklą vykdyti pavedama per paskutinius trejus metus po juridinių asmenų reorganizavimo veiklą tęsiančiai savivaldybės valdomai įmonei, bent vieno iš po juridinių asmenų reorganizavimo pasibaigusių juridinių asmenų faktiškai vykdyta atitinkama ūkinė veikla yra laikoma po juridinių asmenų reorganizavimo veiklą tęsiančio juridinio asmens faktiškai vykdyta ūkine veikla.
 
 
 
@@ -966,7 +977,7 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-9. Savivaldybės kontroliuojamos įmonės negali savo iniciatyva pradėti vykdyti naujos ūkinės veiklos. Šios įmonės gali pradėti vykdyti naują ūkinę veiklą tik tuo atveju, kai ši veikla joms šio ir tokių įmonių veiklą reglamentuojančių įstatymų nustatyta tvarka pavedama vykdyti savivaldybės sprendimu, o pradedant vykdyti šio straipsnio 3 dalyje nenumatytą naują ūkinę veiklą, – ir tik gavus Konkurencijos tarybos sutikimą.
+9. Savivaldybės valdomos įmonės negali savo iniciatyva pradėti vykdyti naujos ūkinės veiklos. Šios įmonės gali pradėti vykdyti naują ūkinę veiklą tik tuo atveju, kai ši veikla joms šio ir tokių įmonių veiklą reglamentuojančių įstatymų nustatyta tvarka pavedama vykdyti savivaldybės sprendimu, o pradedant vykdyti šio straipsnio 3 dalyje nenumatytą naują ūkinę veiklą, – ir tik gavus Konkurencijos tarybos sutikimą.
 
 
 
@@ -981,7 +992,7 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-12. Konkurencijos tarybos sprendimai, nurodyti šio straipsnio 7 ir 8 dalyse, gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+12. Konkurencijos tarybos sprendimai, nurodyti šio straipsnio 7 ir 8 dalyse, gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. 
 
 
 Straipsnio pakeitimai:
@@ -1389,9 +1400,10 @@ Nr. XIII-384, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09280
 
 
 
-5. Komitetų posėdžiai yra teisėti, jeigu juose dalyvauja daugiau kaip pusė visų komiteto narių. Komitetai pagal savo kompetenciją priima rekomendacinius sprendimus. Savivaldybės administracija, jos padaliniai, biudžetinės ir viešosios įstaigos ir savivaldybės kontroliuojamos įmonės su jų veikla susijusius komitetų sprendimus turi apsvarstyti ir apie svarstymo rezultatus pranešti komitetams. 
+5. Komitetų posėdžiai yra teisėti, jeigu juose dalyvauja daugiau kaip pusė visų komiteto narių. Komitetai pagal savo kompetenciją priima rekomendacinius sprendimus. Savivaldybės administracija, jos padaliniai, biudžetinės ir viešosios įstaigos ir savivaldybės valdomos įmonės su jų veikla susijusius komitetų sprendimus turi apsvarstyti ir apie svarstymo rezultatus pranešti komitetams.
 Straipsnio dalies pakeitimai:
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
  
 
 
@@ -1595,7 +1607,10 @@ Nr. XIII-1445, 2018-06-30, paskelbta TAR 2018-07-16, i. k. 2018-12067
 
 
 
-8) pretendentų į savivaldybės kontrolieriaus pareigas atrankos komisijos sudarymas, sprendimų dėl savivaldybės kontrolieriaus priėmimo į pareigas ir atleidimo iš jų priėmimas, savivaldybės kontrolės ir audito tarnybos steigimas savivaldybės kontrolieriaus teikimu, didžiausio valstybės tarnautojų pareigybių ir darbuotojų, dirbančių pagal darbo sutartis, skaičiaus šioje tarnyboje nustatymas, savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) metinės ataskaitos svarstymas ir sprendimo dėl jos priėmimas, įstatymų numatyto savivaldybės kontrolieriaus darbo užmokesčio nustatymas, savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) nuostatų tvirtinimas;
+8) sprendimų dėl savivaldybės kontrolieriaus priėmimo į pareigas ir atleidimo iš jų priėmimas, savivaldybės kontrolės ir audito tarnybos steigimas savivaldybės kontrolieriaus teikimu, didžiausio valstybės tarnautojų pareigybių ir darbuotojų, dirbančių pagal darbo sutartis, skaičiaus šioje tarnyboje nustatymas, savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) metinės ataskaitos svarstymas ir sprendimo dėl jos priėmimas, įstatymų numatyto savivaldybės kontrolieriaus darbo užmokesčio nustatymas, savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) nuostatų tvirtinimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
+ 
 
 
 
@@ -1651,12 +1666,18 @@ Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
 
 
 
-18) sprendimų teikti mokesčių, rinkliavų ir kitas įstatymų nustatytas lengvatas savivaldybės biudžeto sąskaita priėmimas, subsidijų ir kompensacijų skyrimo naujas darbo vietas steigiančioms visų rūšių įmonėms tvarkos nustatymas atitinkamai keičiant savivaldybės biudžetą tais atvejais, kai lėšų tam nebuvo numatyta;
+18) sprendimų teikti mokesčių, rinkliavų ir kitas įstatymų nustatytas lengvatas savivaldybės biudžeto sąskaita priėmimas, subsidijų ir kompensacijų skyrimo naujas darbo vietas steigiančioms visų teisinių formų įmonėms tvarkos nustatymas atitinkamai keičiant savivaldybės biudžetą tais atvejais, kai lėšų tam nebuvo numatyta; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+ 
 
 
 
 
-19) mero, savivaldybės administracijos direktoriaus, savivaldybės kontrolieriaus, biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė), savivaldybės kontroliuojamų įmonių ir organizacijų vadovų ataskaitų ir atsakymų į savivaldybės tarybos narių paklausimus išklausymas reglamento nustatyta tvarka, sprendimų dėl šių ataskaitų ir atsakymų priėmimas;
+19) mero, savivaldybės administracijos direktoriaus, savivaldybės kontrolieriaus, biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė), savivaldybės valdomų įmonių ir organizacijų vadovų ataskaitų ir atsakymų į savivaldybės tarybos narių paklausimus išklausymas reglamento nustatyta tvarka, sprendimų dėl šių ataskaitų ir atsakymų priėmimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+ 
 
 
 
@@ -1684,7 +1705,10 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-24) sprendimų dėl tam tikros veiklos nepriklausomo audito atlikimo savivaldybės įstaigose ar savivaldybės kontroliuojamose įmonėse priėmimas;
+24) sprendimų dėl tam tikros veiklos nepriklausomo audito atlikimo savivaldybės įstaigose ar savivaldybės valdomose įmonėse priėmimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+ 
 
 
 
@@ -1761,9 +1785,10 @@ Nr. XII-2342, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13909
 
 
 
-37) kainų ir tarifų už savivaldybės kontroliuojamų įmonių, biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė) teikiamas atlygintinas paslaugas ir keleivių vežimą vietiniais maršrutais nustatymas, centralizuotai tiekiamos šilumos, šalto ir karšto vandens kainų nustatymas (tvirtinimas) įstatymų nustatyta tvarka, vietinių rinkliavų ir mokesčių tarifų nustatymas įstatymų nustatyta tvarka; 
+37) kainų ir tarifų už savivaldybės valdomų įmonių, biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė) teikiamas atlygintinas paslaugas ir keleivių vežimą vietiniais maršrutais nustatymas, centralizuotai tiekiamos šilumos, šalto ir karšto vandens kainų nustatymas (tvirtinimas) įstatymų nustatyta tvarka, vietinių rinkliavų ir mokesčių tarifų nustatymas įstatymų nustatyta tvarka; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
  
 
 
@@ -1880,7 +1905,10 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-9) juridinio asmens dalyvio kompetencijai pagal įstatymus priskirtų teisių įgyvendinimas ir pareigų vykdymas;
+9) neteko galios nuo 2019-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1664, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19164
+ 
 
 
 
@@ -2095,7 +2123,11 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-10. Po savo kadencijos pabaigos meras ir mero pavaduotojas, jeigu neišrenkamas meru ar nepaskiriamas mero pavaduotoju arba prieš terminą netenka savo įgaliojimų (išskyrus atvejus, kai meras, mero pavaduotojas savo įgaliojimų netenka šio straipsnio 2 dalies 1 ir 3 punktuose nustatyta tvarka arba netenka savivaldybės tarybos nario įgaliojimų savivaldybės tarybos sprendimu pagal šio įstatymo 251 straipsnį), turi teisę Vyriausybės nustatyta tvarka grįžti į iki išrinkimo savivaldybės tarybos nariais eitas pareigas, o kai tokios galimybės nėra, – į kitas tos pačios ar žemesnės kategorijos pareigas, jeigu eitos pareigos pagal teisės aktus priskiriamos valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms. Be to, šioje dalyje nustatytu atveju meras ir mero pavaduotojas turi teisę grįžti į iki išrinkimo savivaldybės tarybos nariais eitas pareigas, jeigu jie ėjo šias pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, o kai tokios galimybės nėra, – į kitas pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje. Jeigu šie asmenys iki išrinkimo savivaldybės tarybos nariais tokių pareigų nėjo arba atsisakė pasiūlytų kitų žemesnės kategorijos pareigų, pagal teisės aktus priskiriamų valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms, arba kitų pareigų savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, jiems išmokama 3 mėnesių jų vidutinio darbo užmokesčio dydžio išmoka. Ji išmokama per 3 mėnesius lygiomis dalimis kas mėnesį. Jeigu asmuo pradeda eiti pareigas valstybės tarnyboje anksčiau negu po 3 mėnesių, likusi neišmokėta išmokos dalis nemokama. Jeigu šie asmenys mero ir mero pavaduotojo pareigas ėjo mažiau kaip vienus metus iki kadencijos pabaigos, jiems išmokama vieno mėnesio jų vidutinio darbo užmokesčio dydžio išmoka. Nutrūkus mero, mero pavaduotojo įgaliojimams prieš terminą šio straipsnio 3 dalyje nustatyta tvarka, jiems išmokama 2 mėnesių jų vidutinio darbo užmokesčio dydžio išmoka.
+10. Po savo kadencijos pabaigos meras ir mero pavaduotojas, jeigu neišrenkamas meru ar nepaskiriamas mero pavaduotoju arba prieš terminą netenka savo įgaliojimų (išskyrus atvejus, kai meras, mero pavaduotojas savo įgaliojimų netenka šio straipsnio 2 dalies 1 ir 3 punktuose nustatyta tvarka arba netenka savivaldybės tarybos nario įgaliojimų savivaldybės tarybos sprendimu pagal šio įstatymo 251 straipsnį), turi teisę Vyriausybės nustatyta tvarka grįžti į iki išrinkimo savivaldybės tarybos nariais eitas pareigas, o kai tokios galimybės nėra, – į kitas lygiavertes ar žemesnes pareigas, jeigu eitos pareigos pagal teisės aktus priskiriamos valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms. Be to, šioje dalyje nustatytu atveju meras ir mero pavaduotojas turi teisę grįžti į iki išrinkimo savivaldybės tarybos nariais eitas pareigas, jeigu jie ėjo šias pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, o kai tokios galimybės nėra, – į kitas pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje. Jeigu šie asmenys iki išrinkimo savivaldybės tarybos nariais tokių pareigų nėjo arba atsisakė pasiūlytų kitų žemesnių pareigų, pagal teisės aktus priskiriamų valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms, arba kitų pareigų savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, jiems išmokama 3 mėnesių jų vidutinio darbo užmokesčio dydžio išmoka. Ji išmokama per 3 mėnesius lygiomis dalimis kas mėnesį. Jeigu asmuo pradeda eiti pareigas valstybės tarnyboje anksčiau negu po 3 mėnesių, likusi neišmokėta išmokos dalis nemokama. Jeigu šie asmenys mero ir mero pavaduotojo pareigas ėjo mažiau kaip vienus metus iki kadencijos pabaigos, jiems išmokama vieno mėnesio jų vidutinio darbo užmokesčio dydžio išmoka. Nutrūkus mero, mero pavaduotojo įgaliojimams prieš terminą šio straipsnio 3 dalyje nustatyta tvarka, jiems išmokama 2 mėnesių jų vidutinio darbo užmokesčio dydžio išmoka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
+ 
 
 
 
@@ -2220,7 +2252,10 @@ Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
 
 
 
-10) reglamente nustatyta tvarka gali siūlyti savivaldybės tarybai pavesti savivaldybės kontrolieriui (savivaldybės kontrolės ir audito tarnybai) atlikti veiklos plane nenumatytą savivaldybės administracijos, savivaldybės administravimo subjektų ar savivaldybės kontroliuojamų įmonių finansinį ir veiklos auditą, priima savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) pateiktas audito ataskaitas ir išvadas dėl atlikto finansinio ir veiklos audito rezultatų, prireikus organizuoja šių ataskaitų ir išvadų svarstymą savivaldybės tarybos komitetų ir savivaldybės tarybos posėdžiuose;
+10) reglamente nustatyta tvarka gali siūlyti savivaldybės tarybai pavesti savivaldybės kontrolieriui (savivaldybės kontrolės ir audito tarnybai) atlikti veiklos plane nenumatytą savivaldybės administracijos, savivaldybės administravimo subjektų ar savivaldybės valdomų įmonių finansinį ir veiklos auditą, priima savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) pateiktas audito ataskaitas ir išvadas dėl atlikto finansinio ir veiklos audito rezultatų, prireikus organizuoja šių ataskaitų ir išvadų svarstymą savivaldybės tarybos komitetų ir savivaldybės tarybos posėdžiuose;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+ 
 
 
 
@@ -2550,7 +2585,10 @@ Tarybos narys turi teisę:
 
 
 
-2) reglamento nustatyta tvarka siūlyti savivaldybės tarybai svarstyti klausimus, rengti savivaldybės tarybos sprendimų projektus, iš savivaldybės administracijos ar kitų savivaldybės įstaigų, savivaldybės kontroliuojamų įmonių gauti visą tarybos nario veiklai reikalingą su savivaldybės taryboje nagrinėjamais ar rengiamais nagrinėti klausimais susijusią informaciją, dalyvauti diskusijose svarstomais klausimais, raštu ir žodžiu pateikti pastabas dėl savivaldybės tarybos sprendimų projektų, dėl savivaldybės tarybos darbo tvarkos ir kt., savivaldybės tarybos posėdžio metu klausti pranešėjus, kalbėti dėl vedimo tvarkos, kreiptis su paklausimais į savivaldybės institucijų, savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir organizacijų, taip pat valstybės institucijų, kurios veikia savivaldybės teritorijoje, vadovus ir valstybės tarnautojus;
+2) reglamento nustatyta tvarka siūlyti savivaldybės tarybai svarstyti klausimus, rengti savivaldybės tarybos sprendimų projektus, iš savivaldybės administracijos ar kitų savivaldybės įstaigų, savivaldybės valdomų įmonių gauti visą tarybos nario veiklai reikalingą su savivaldybės taryboje nagrinėjamais ar rengiamais nagrinėti klausimais susijusią informaciją, dalyvauti diskusijose svarstomais klausimais, raštu ir žodžiu pateikti pastabas dėl savivaldybės tarybos sprendimų projektų, dėl savivaldybės tarybos darbo tvarkos ir kt., savivaldybės tarybos posėdžio metu klausti pranešėjus, kalbėti dėl vedimo tvarkos, kreiptis su paklausimais į savivaldybės institucijų, savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir organizacijų, taip pat valstybės institucijų, kurios veikia savivaldybės teritorijoje, vadovus ir valstybės tarnautojus;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+ 
 
 
 
@@ -2733,7 +2771,10 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 1. Savivaldybės kontrolierius (savivaldybės kontrolės ir audito tarnyba), prižiūrėdamas (prižiūrėdama), ar teisėtai, efektyviai, ekonomiškai ir rezultatyviai valdomas ir naudojamas savivaldybės turtas ir patikėjimo teise valdomas valstybės turtas, kaip vykdomas savivaldybės biudžetas ir naudojami kiti piniginiai ištekliai:
 
 
-1) atlieka išorės finansinį ir veiklos auditą savivaldybės administracijoje, savivaldybės administravimo subjektuose ir savivaldybės kontroliuojamose įmonėse;
+1) atlieka išorės finansinį ir veiklos auditą savivaldybės administracijoje, savivaldybės administravimo subjektuose ir savivaldybės valdomose įmonėse; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+ 
 
 
 
@@ -2743,7 +2784,10 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 
 
 
-3) rengia ir savivaldybės tarybai teikia sprendimus priimti reikalingas išvadas dėl savivaldybės naudojimosi bankų kreditais, paskolų ėmimo ir teikimo, garantijų suteikimo ir laidavimo kreditoriams už savivaldybės kontroliuojamų įmonių imamas paskolas;
+3) rengia ir savivaldybės tarybai teikia sprendimus priimti reikalingas išvadas dėl savivaldybės naudojimosi bankų kreditais, paskolų ėmimo ir teikimo, garantijų suteikimo ir laidavimo kreditoriams už savivaldybės valdomų įmonių imamas paskolas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+ 
 
 
 
@@ -2811,7 +2855,10 @@ Nr. XIII-443, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10804
 
 
 
-8. Savivaldybės kontrolierius į pareigas priimamas konkurso būdu ir iš jų atleidžiamas Valstybės tarnybos įstatymo nustatyta tvarka. Savivaldybės kontrolierius privalo turėti aukštąjį universitetinį išsilavinimą ir ne mažesnį kaip 3 metų darbo finansų, ekonomikos, teisės, audito, kontrolės arba viešojo administravimo srityse stažą.
+8. Savivaldybės kontrolierius į pareigas priimamas konkurso būdu ir iš jų atleidžiamas Valstybės tarnybos įstatymo nustatyta tvarka. Savivaldybės kontrolierius privalo turėti aukštąjį universitetinį išsilavinimą ir ne mažesnį kaip 3 metų darbo finansų, ekonomikos, teisės, audito arba kontrolės srityse stažą. Savivaldybės kontrolieriui kadencijų skaičius nėra ribojamas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
+ 
 
 
 
@@ -3006,7 +3053,10 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-7. Kad būtų išsaugotas objektyvumas ir nepriklausomumas, vidaus audito tarnybos vadovas ir vidaus auditoriai negali dalyvauti savivaldybės administravimo subjektų, savivaldybės kontroliuojamų įmonių ir savivaldybės viešųjų juridinių asmenų valdymo organuose, negali dalyvauti rengiant vidaus kontrolės sistemos tobulinimo dokumentų projektus ar kuriant, nustatant ir įgyvendinant savivaldybės administracijos ir jos padalinių, savivaldybės kontroliuojamų įmonių ir viešųjų juridinių asmenų vidaus kontrolę, įskaitant finansų kontrolę, jos procedūras.
+7. Kad būtų išsaugotas objektyvumas ir nepriklausomumas, vidaus audito tarnybos vadovas ir vidaus auditoriai negali dalyvauti savivaldybės administravimo subjektų, savivaldybės valdomų įmonių ir savivaldybės viešųjų juridinių asmenų valdymo organuose, negali dalyvauti rengiant vidaus kontrolės sistemos tobulinimo dokumentų projektus ar kuriant, nustatant ir įgyvendinant savivaldybės administracijos ir jos padalinių, savivaldybės valdomų įmonių ir viešųjų juridinių asmenų vidaus kontrolę, įskaitant finansų kontrolę, jos procedūras.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+ 
 
 
 
@@ -3052,8 +3102,16 @@ Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
 
 
 
-5. Savivaldybės administracijos direktoriaus atostogų ar ligos metu, taip pat kai jis laikinai negali eiti pareigų dėl kitų priežasčių, savivaldybės administracijos direktoriaus pareigas, nustatytas šiame ir kituose įstatymuose, taip pat kituose teisės aktuose, reglamento nustatyta tvarka atlieka savivaldybės administracijos direktoriaus pavaduotojas. Jeigu savivaldybės administracijos direktoriaus pavaduotojo pareigybė nesteigiama, savivaldybės administracijos direktoriaus atostogų ar ligos metu, taip pat kai jis laikinai negali eiti pareigų dėl kitų priežasčių, jo pareigybės aprašyme nustatytos funkcijos teisės aktų nustatyta tvarka pavedamos atlikti kitam savivaldybės administracijos valstybės tarnautojui.
-6. Pasibaigus savivaldybės administracijos direktorių, administracijos direktoriaus pavaduotoją į pareigas paskyrusios savivaldybės tarybos kadencijai, savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas, jeigu jie į šias pareigas nepaskiriami naujai kadencijai arba jeigu savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas atsistatydina ar atleidžiamas iš šių pareigų, išskyrus atleidimą už tarnybinius nusižengimus, turi teisę Vyriausybės nustatyta tvarka grįžti į iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju eitas pareigas, o kai tokios galimybės nėra, – į kitas tos pačios ar žemesnės kategorijos pareigas, jeigu eitos pareigos pagal teisės aktus priskiriamos valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms. Be to, šioje dalyje nustatytu atveju savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas turi teisę grįžti į iki išrinkimo savivaldybės tarybos nariais eitas pareigas, jeigu jie ėjo šias pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, o kai tokios galimybės nėra, – į kitas pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje. Jeigu šie asmenys iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju tokių pareigų nėjo arba atsisakė pasiūlytų kitų žemesnės kategorijos pareigų, pagal teisės aktus priskiriamų valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms, arba kitų pareigų savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, išmokos jiems mokamos Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka.
+5. Savivaldybės administracijos direktoriaus atostogų ar ligos metu, taip pat kai jis laikinai negali eiti pareigų dėl kitų priežasčių, savivaldybės administracijos direktoriaus pareigas, nustatytas šiame ir kituose įstatymuose, taip pat kituose teisės aktuose, reglamento nustatyta tvarka atlieka savivaldybės administracijos direktoriaus pavaduotojas. Jeigu savivaldybės administracijos direktoriaus pavaduotojo pareigybė nesteigiama, savivaldybės administracijos direktoriaus atostogų ar ligos metu, taip pat kai jis laikinai negali eiti pareigų dėl kitų priežasčių, jo pareigybės aprašyme nustatytos funkcijos teisės aktų nustatyta tvarka pavedamos atlikti kitam savivaldybės administracijos valstybės tarnautojui. 
+
+
+
+
+6. Pasibaigus savivaldybės administracijos direktorių, administracijos direktoriaus pavaduotoją į pareigas paskyrusios savivaldybės tarybos kadencijai, savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas, jeigu jie į šias pareigas nepaskiriami naujai kadencijai arba jeigu savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas atsistatydina ar atleidžiamas iš šių pareigų, išskyrus atleidimą už tarnybinius nusižengimus, turi teisę Vyriausybės nustatyta tvarka grįžti į iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju eitas pareigas, o kai tokios galimybės nėra, – į kitas lygiavertes ar žemesnes pareigas, jeigu eitos pareigos pagal teisės aktus priskiriamos valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms. Be to, šioje dalyje nustatytu atveju savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas turi teisę grįžti į iki išrinkimo savivaldybės tarybos nariais eitas pareigas, jeigu jie ėjo šias pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, o kai tokios galimybės nėra, – į kitas pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje. Jeigu šie asmenys iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju tokių pareigų nėjo arba atsisakė pasiūlytų kitų žemesnių pareigų, pagal teisės aktus priskiriamų valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms, arba kitų pareigų savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, išmokos jiems mokamos Valstybės tarnybos įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
+ 
 
 
 
@@ -3102,7 +3160,10 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-7) koordinuoja ir kontroliuoja viešąsias paslaugas teikiančių subjektų darbą, atlieka kitas pagal įstatymus ir savivaldybės tarybos sprendimus jam priskirtas savivaldybės juridinių asmenų valdymo funkcijas;
+7) koordinuoja ir kontroliuoja viešąsias paslaugas teikiančių subjektų darbą, įgyvendina juridinio asmens dalyvio turtines ir neturtines teises bei pareigas ir atlieka kitas pagal įstatymus ir savivaldybės tarybos sprendimus jam priskirtas savivaldybės juridinių asmenų valdymo funkcijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1664, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19164
+ 
 
 
 
@@ -3203,7 +3264,10 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-5) per įgaliotus valstybės tarnautojus atstovauja savivaldybei savivaldybės įmonių ir akcinių bendrovių valdymo organuose;
+5) neteko galios nuo 2019-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+ 
 
 
 
@@ -3300,15 +3364,19 @@ Nr. XIII-1064, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05882
 
 
 
-8. Seniūnas yra seniūnijos vadovas, seniūnijai skirtų asignavimų valdytojas. Seniūnas yra valstybės tarnautojas: seniūnijos – savivaldybės administracijos filialo – seniūnas yra karjeros valstybės tarnautojas, seniūnijos – biudžetinės įstaigos – seniūnas yra valstybės tarnautojas – įstaigos vadovas. 
+8. Seniūnas yra seniūnijos vadovas, seniūnijai skirtų asignavimų valdytojas. Seniūnas yra valstybės tarnautojas: seniūnijos – savivaldybės administracijos filialo – seniūnas yra karjeros valstybės tarnautojas, seniūnijos – biudžetinės įstaigos – seniūnas yra valstybės tarnautojas – įstaigos vadovas. Seniūnui nustatoma 5 metų kadencija. Kadencijų skaičius nėra ribojamas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
+ 
 
 
 
 
-9. Seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir Valstybės tarnybos įstatymu. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant Valstybės tarnybos įstatymo 16 straipsnio 2 ir 3 dalyse numatytas garantijas arba kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, taikomus kitos formos seniūnijos vadovui. Į seniūno pareigas negali būti priimamas asmuo taikant Valstybės tarnybos įstatymo 43 straipsnio 1 dalyje numatytą garantiją. Priimant į seniūno pareigas taip pat netaikomos Valstybės tarnybos įstatymo nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių; ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos išplėstinės seniūnaičių sueigos deleguoti asmenys. 
+9. Seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir Valstybės tarnybos įstatymu. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant Valstybės tarnybos įstatymo 17 straipsnio 2 ir 3 dalyse numatytas garantijas arba kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, taikomus kitos formos seniūnijos vadovui. Į seniūno pareigas negali būti priimamas asmuo taikant Valstybės tarnybos įstatymo 49 straipsnio 1 dalyje numatytą garantiją. Priimant į seniūno pareigas taip pat netaikomos Valstybės tarnybos įstatymo nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių; ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos išplėstinės seniūnaičių sueigos deleguoti asmenys. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
 Nr. XIII-1064, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05882
+Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
  
 
 
@@ -4429,7 +4497,10 @@ Nr. XII-460, 2013-07-02, Žin., 2013, Nr. 79-3981 (2013-07-23)
 
 
 
-6. Prireikus valstybės kontrolieriaus sprendimu Valstybės kontrolė gali atlikti savivaldybių, taip pat savivaldybių įstaigų ir savivaldybių kontroliuojamų įmonių finansinį (teisėtumo) ir veiklos auditą.
+6. Prireikus valstybės kontrolieriaus sprendimu Valstybės kontrolė gali atlikti savivaldybių, taip pat savivaldybių įstaigų ir savivaldybių valdomų įmonių finansinį (teisėtumo) ir veiklos auditą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+ 
 
 
 Straipsnio pakeitimai:
@@ -5305,3 +5376,18 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 ir 16 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1655, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19165
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 11 ir 29 straipsnių pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 4, 6, 7, 14, 16, 19, 20, 24, 27, 28, 29, 30 ir 51 straipsnių pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16, 19, 27, 29 ir 31 straipsnių pakeitimo įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1664, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19164
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 ir 29 straipsnių pakeitimo įstatymas
