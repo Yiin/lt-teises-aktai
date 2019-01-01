@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2018-09-20 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -556,157 +556,182 @@ Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
 
 
 
-75. Transliavimo licencija – Lietuvos radijo ir televizijos komisijos išduotas dokumentas, kuriuo suteikiama teisė jį turinčiam asmeniui verstis radijo ir (ar) televizijos programų transliavimo veikla nustatytoje teritorijoje ir kuriame nustatomos tokios transliavimo sąlygos. 
+75. Teroristinius nusikaltimus skatinanti ar kurstanti informacija – informacija, kuria tiesiogiai arba netiesiogiai skatinama arba kurstoma vykdyti teroristinius nusikaltimus, įskaitant informaciją, kuria šlovinami arba pateisinami šie nusikaltimai, niekinamos jų aukos, skleidžiami jų vaizdai siekiant užsitikrinti paramą teroristiniam elgesiui arba stipriai įbauginti gyventojus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
+ 
+
+
+
+
+76. Transliavimo licencija – Lietuvos radijo ir televizijos komisijos išduotas dokumentas, kuriuo suteikiama teisė jį turinčiam asmeniui verstis radijo ir (ar) televizijos programų transliavimo veikla nustatytoje teritorijoje ir kuriame nustatomos tokios transliavimo sąlygos. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-76. Užsakomoji visuomenės informavimo audiovizualinėmis priemonėmis paslauga – visuomenės informavimo audiovizualinėmis priemonėmis paslauga, kurią teikia visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas, skirta programoms žiūrėti vartotojo pasirinktu laiku ir jo individualiu prašymu pagal visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo siūlomą katalogą.
+77. Užsakomoji visuomenės informavimo audiovizualinėmis priemonėmis paslauga – visuomenės informavimo audiovizualinėmis priemonėmis paslauga, kurią teikia visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas, skirta programoms žiūrėti vartotojo pasirinktu laiku ir jo individualiu prašymu pagal visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo siūlomą katalogą.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-77. Viešasis asmuo – valstybės politikas, teisėjas, valstybės ar savivaldybės pareigūnas, politinės partijos ir (ar) asociacijos vadovas, kuris dėl einamų pareigų arba savo darbo pobūdžio nuolat dalyvauja valstybinėje ar visuomeninėje veikloje, arba kitas fizinis asmuo, jeigu jis turi viešojo administravimo įgaliojimus ar administruoja viešųjų paslaugų teikimą arba jeigu jo nuolatinė veikla turi reikšmės viešiesiems reikalams.
+78. Viešasis asmuo – valstybės politikas, teisėjas, valstybės ar savivaldybės pareigūnas, politinės partijos ir (ar) asociacijos vadovas, kuris dėl einamų pareigų arba savo darbo pobūdžio nuolat dalyvauja valstybinėje ar visuomeninėje veikloje, arba kitas fizinis asmuo, jeigu jis turi viešojo administravimo įgaliojimus ar administruoja viešųjų paslaugų teikimą arba jeigu jo nuolatinė veikla turi reikšmės viešiesiems reikalams.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-78. Viešoji informacija – informacija, skirta viešai skleisti, išskyrus šio straipsnio 42 dalyje nurodytą informaciją, taip pat informaciją, kuri pagal Lietuvos Respublikos įstatymus negali būti viešai skleidžiama.
+79. Viešoji informacija – informacija, skirta viešai skleisti, išskyrus šio straipsnio 42 dalyje nurodytą informaciją, taip pat informaciją, kuri pagal Lietuvos Respublikos įstatymus negali būti viešai skleidžiama.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-79. Viešosios informacijos rengėjas – visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas, radijo programų transliuotojas, leidykla, kino, garso ar vaizdo studija, informacijos, reklamos ar viešųjų ryšių agentūra, redakcija, informacinės visuomenės informavimo priemonės valdytojas, nepriklausomas kūrėjas, žurnalistas ar kitas asmuo, rengiantys ar pateikiantys skleisti viešąją informaciją.
+80. Viešosios informacijos rengėjas – visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas, radijo programų transliuotojas, leidykla, kino, garso ar vaizdo studija, informacijos, reklamos ar viešųjų ryšių agentūra, redakcija, informacinės visuomenės informavimo priemonės valdytojas, nepriklausomas kūrėjas, žurnalistas ar kitas asmuo, rengiantys ar pateikiantys skleisti viešąją informaciją.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-80. Viešosios informacijos skleidėjas – visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas, retransliuotojas, asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, radijo programų transliuotojas, informacinės visuomenės informavimo priemonės valdytojas ar kitas asmuo, skleidžiantis viešąją informaciją visuomenei ir atsakantis už tos informacijos teisėtumą. 
+81. Viešosios informacijos skleidėjas – visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas, retransliuotojas, asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, radijo programų transliuotojas, informacinės visuomenės informavimo priemonės valdytojas ar kitas asmuo, skleidžiantis viešąją informaciją visuomenei ir atsakantis už tos informacijos teisėtumą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-81. Vietinis laikraštis – laikraštis, kurio ne mažiau kaip 90 procentų tiražo platinama vienos miesto ar rajono savivaldybės teritorijoje.
+82. Vietinis laikraštis – laikraštis, kurio ne mažiau kaip 90 procentų tiražo platinama vienos miesto ar rajono savivaldybės teritorijoje.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-82. Vietinė radijo ir (ar) televizijos programa – radijo ir (ar) televizijos programa, transliuojama per vieną antžeminę radijo ir (ar) televizijos stotį, kabelinės televizijos tinklais ir (ar) laidiniais plačiajuosčio ryšio tinklais.
+83. Vietinė radijo ir (ar) televizijos programa – radijo ir (ar) televizijos programa, transliuojama per vieną antžeminę radijo ir (ar) televizijos stotį, kabelinės televizijos tinklais ir (ar) laidiniais plačiajuosčio ryšio tinklais.
 Straipsnio dalies pakeitimai:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-83. Visuomenės informavimas – viešosios informacijos teikimas visuomenei.
+84. Visuomenės informavimas – viešosios informacijos teikimas visuomenei.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-84. Visuomenės informavimo audiovizualinėmis priemonėmis paslauga – televizijos programų transliavimas, užsakomoji visuomenės informavimo audiovizualinėmis priemonėmis paslauga, komercinių audiovizualinių pranešimų skelbimo paslauga, už kurių turinio parinkimą redakcinė atsakomybė tenka visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjui, vykdančiam ūkinę komercinę veiklą informavimo, pramogų ar švietimo tikslais, elektroninių ryšių tinklais transliuojančiam (perduodančiam) visuomenei programas.
+85. Visuomenės informavimo audiovizualinėmis priemonėmis paslauga – televizijos programų transliavimas, užsakomoji visuomenės informavimo audiovizualinėmis priemonėmis paslauga, komercinių audiovizualinių pranešimų skelbimo paslauga, už kurių turinio parinkimą redakcinė atsakomybė tenka visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjui, vykdančiam ūkinę komercinę veiklą informavimo, pramogų ar švietimo tikslais, elektroninių ryšių tinklais transliuojančiam (perduodančiam) visuomenei programas.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-85. Visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas – asmuo, kuriam tenka redakcinė atsakomybė už visuomenės informavimo audiovizualinėmis priemonėmis paslaugos turinio parinkimą ir kuris sprendžia, kokia tvarka pateikiamas paslaugos turinys.
+86. Visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas – asmuo, kuriam tenka redakcinė atsakomybė už visuomenės informavimo audiovizualinėmis priemonėmis paslaugos turinio parinkimą ir kuris sprendžia, kokia tvarka pateikiamas paslaugos turinys.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-86. Visuomenės informavimo priemonė – laikraštis, žurnalas, biuletenis ar kitas leidinys, knyga, televizijos programa, radijo programa, kino ar kita garso ir vaizdo studijų produkcija, informacinės visuomenės informavimo priemonė ir kita priemonė, kuria viešai skleidžiama informacija. Pagal šį įstatymą visuomenės informavimo priemonei nepriskiriamas oficialus, techninis ir tarnybinis dokumentas, vertybiniai popieriai.
+87. Visuomenės informavimo priemonė – laikraštis, žurnalas, biuletenis ar kitas leidinys, knyga, televizijos programa, radijo programa, kino ar kita garso ir vaizdo studijų produkcija, informacinės visuomenės informavimo priemonė ir kita priemonė, kuria viešai skleidžiama informacija. Pagal šį įstatymą visuomenės informavimo priemonei nepriskiriamas oficialus, techninis ir tarnybinis dokumentas, vertybiniai popieriai.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-87. Žalingas įprotis – piktnaudžiavimas alkoholiu, narkotinių, toksinių, psichotropinių ir kitų psichologinę priklausomybę sukeliančių medžiagų vartojimas, taip pat psichologinė priklausomybė nuo azartinių lošimų.
+88. Žalingas įprotis – piktnaudžiavimas alkoholiu, narkotinių, toksinių, psichotropinių ir kitų psichologinę priklausomybę sukeliančių medžiagų vartojimas, taip pat psichologinė priklausomybė nuo azartinių lošimų.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-88. Žinia – visuomenės informavimo priemonėse skelbiamas faktas arba tikri (teisingi) duomenys.
+89. Žinia – visuomenės informavimo priemonėse skelbiamas faktas arba tikri (teisingi) duomenys.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-89. Žinių programa – programa, kurios turinys apima aktualią visuomenei informaciją apie politiką, ekonomiką, kultūrą, sportą, orus ir kitas sritis.
+90. Žinių programa – programa, kurios turinys apima aktualią visuomenei informaciją apie politiką, ekonomiką, kultūrą, sportą, orus ir kitas sritis.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-90. Žurnalas – iliustruotas informacinis periodinis leidinys, skirtas įvairiai auditorijai, kuriame spausdinami įvairių sričių straipsniai.
+91. Žurnalas – iliustruotas informacinis periodinis leidinys, skirtas įvairiai auditorijai, kuriame spausdinami įvairių sričių straipsniai.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
 
 
-91. Žurnalistas – fizinis asmuo, kuris profesionaliai renka, rengia ir teikia medžiagą viešosios informacijos rengėjui ir (ar) skleidėjui pagal sutartį su juo ir (ar) yra žurnalistų profesinės organizacijos narys.
+92. Žurnalistas – fizinis asmuo, kuris profesionaliai renka, rengia ir teikia medžiagą viešosios informacijos rengėjui ir (ar) skleidėjui pagal sutartį su juo ir (ar) yra žurnalistų profesinės organizacijos narys.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
@@ -1094,12 +1119,18 @@ Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 1. Visuomenės informavimo priemonėse draudžiama skelbti informaciją, kurioje:
 
 
-1) raginama prievarta keisti Lietuvos Respublikos konstitucinę santvarką;
+1) raginama prievarta pažeisti Lietuvos Respublikos suverenitetą – pakeisti jos konstitucinę santvarką, kėsintis į jos nepriklausomybę arba pažeisti teritorijos vientisumą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
+ 
 
 
 
 
-2) skatinama kėsintis į Lietuvos Respublikos suverenitetą, jos teritorijos vientisumą, politinę nepriklausomybę;
+2) skatinami ar kurstomi teroristiniai nusikaltimai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
+ 
 
 
 
@@ -1188,6 +1219,53 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 8. Visuomenės informavimo srityje veikianti asociacija, pateikdama motyvuotą prašymą dėl viešojo intereso gynimo, privalo pateikti įrodymus, kad ji atitinka šio straipsnio 7 dalyje nurodytas sąlygas.
 Papildyta straipsnio dalimi:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+ 
+
+
+
+
+9. Policija, sužinojusi, kad šio straipsnio 1 dalies 2 punkte nurodyta neskelbtina informacija paskleista internete, ir atsižvelgusi į informacijos pavojingumą, jos saugojimo vietą ar kitas reikšmingas aplinkybes:
+
+
+1) praneša elektroninės informacijos prieglobos paslaugų teikėjams apie šio straipsnio 1 dalies 2 punkte nurodytą informaciją. Jeigu elektroninės informacijos prieglobos paslaugų teikėjai savanoriškai per 2 valandas nuo pranešimo gavimo nepašalina šios informacijos arba nepanaikina galimybės jos pasiekti, policija duoda motyvuotus privalomus nurodymus elektroninės informacijos prieglobos paslaugų teikėjams panaikinti galimybę ją pasiekti ne ilgiau kaip 72 valandoms, o motyvuotus privalomus nurodymus pašalinti šią informaciją arba panaikinti galimybę ją pasiekti ilgiau kaip 72 valandoms – su teismo leidimu;
+
+
+
+
+2) bendradarbiaudama su kitomis kompetentingomis institucijomis, siekia, kad būtų pašalinta ne Lietuvos Respublikos teritorijoje saugoma šio straipsnio 1 dalies 2 punkte nurodyta informacija. Kai šios informacijos iš jos šaltinio pašalinti neįmanoma, duoda motyvuotus privalomus nurodymus tinklo paslaugų teikėjams panaikinti galimybę ją pasiekti ne ilgiau kaip 72 valandoms, o ilgiau kaip 72 valandoms – su teismo leidimu;
+
+
+
+
+3) praneša pagal šio įstatymo 48 ir 50 straipsniuose nurodytą kompetenciją Lietuvos radijo ir televizijos komisijai ir (ar) žurnalistų etikos inspektoriui. Kai šio straipsnio 1 dalies 2 punkte nurodyta informacija pašalinta arba panaikinta galimybė ją pasiekti, šios informacijos kopija pateikiama kartu su pranešimu minėtoms institucijoms. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
+ 
+
+
+
+
+10. Policija, siekdama gauti šio straipsnio 9 dalies 1 ar 2 punkte nurodytą leidimą duoti motyvuotus privalomus nurodymus pašalinti neskelbtiną informaciją arba panaikinti galimybę ją pasiekti ilgiau kaip 72 valandoms, privalo Vilniaus apygardos administraciniam teismui pateikti prašymą išduoti leidimą atlikti šiuos veiksmus. Šiame prašyme turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jeigu žinomi), įtariamo pažeidimo pobūdis ir veiksmai, kuriuos numatoma atlikti. Vilniaus apygardos administracinis teismas prašymą išduoti leidimą atlikti šiuos veiksmus išnagrinėja ir priima motyvuotą nutartį patenkinti prašymą išduoti leidimą atlikti šiuos veiksmus arba atmesti šį prašymą. Prašymas išduoti leidimą atlikti šiuos veiksmus turi būti išnagrinėtas ir teismo nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti šiuos veiksmus pateikimo momento. Jeigu policija nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti šiuos veiksmus, ji turi teisę per 7 kalendorines dienas nuo šios nutarties priėmimo apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas skundą dėl Vilniaus apygardos administracinio teismo nutarties atmesti prašymą išduoti leidimą atlikti šiuos veiksmus turi išnagrinėti ne vėliau kaip per 7 kalendorines dienas nuo policijos skundo priėmimo dienos. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti šiuos veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų atlikti veiksmų slaptumą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
+ 
+
+
+
+
+11. Šio straipsnio 9 dalies 1 ar 2 punkte nurodytus privalomus nurodymus elektroninės informacijos prieglobos paslaugų, tinklo paslaugų teikėjai privalo įvykdyti ne vėliau kaip per 2 valandas nuo privalomų nurodymų gavimo. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
+ 
+
+
+
+
+12. Elektroninės informacijos prieglobos paslaugų teikėjai apie savo atliktų veiksmų (informacijos pašalinimo ir (ar) galimybės pasiekti ją panaikinimo) priežastis informuoja viešosios informacijos rengėjus ir (ar) skleidėjus, išskyrus atvejus, kai neturi viešosios informacijos rengėjų ir (ar) skleidėjų kontaktinių duomenų arba kai policija to prašo konkrečiam terminui, kuris negali būti ilgesnis kaip 10 dienų nuo prašymo gavimo dienos, kad nebūtų pakenkta ikiteisminiam tyrimui, o tinklo paslaugų teikėjai apie galimybės pasiekti informaciją panaikinimo priežastis informuoja vartotojus ne vėliau kaip kitą darbo dieną nuo atliktų veiksmų dienos. Kai viešosios informacijos rengėjų ir (ar) skleidėjų kontaktiniai duomenys yra nežinomi, elektroninės informacijos prieglobos paslaugų teikėjai ne vėliau kaip kitą darbo dieną nuo atliktų veiksmų dienos apie tai praneša policijai, kuri apie elektroninės informacijos prieglobos paslaugų teikėjų atliktų veiksmų priežastis nedelsdama, ne vėliau kaip per vieną darbo dieną, paskelbia savo interneto svetainėje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
@@ -3495,14 +3573,18 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 
 
-15. Komisijos finansinį, ūkinį ir materialinį aptarnavimą atlieka ir padeda Komisijai atlikti jai pavestas funkcijas Komisijos administracija. Komisijos administracijai vadovauja direktorius. Komisijos administracijos direktorių penkeriems metams skiria Komisija konkurso tvarka. Direktorius už Komisijos administracijos veiklą kiekvienais metais iki vasario 1 dienos atsiskaito Komisijai. Komisijos administracijos struktūrą ir darbo reglamentą tvirtina Komisija. Komisijos administracijos didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių nustato Seimo valdyba. Komisijos administracijos direktoriaus ir darbuotojų tarnybinių atlyginimų koeficientai ir kitos darbo apmokėjimo sąlygos nustatomos Komisijos nuostatuose.
+15. Komisijos veiklą užtikrina Komisijos administracija. Komisijos administracijai vadovauja Komisijos pirmininkas. Komisijos pirmininkas administracijos veiklą organizuoja pagal Komisijos nuostatus. Komisijos administracijos struktūrą tvirtina Komisijos pirmininkas. Komisijos administracijos didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių nustato Seimo valdyba. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
+ 
 
 
 
 
-16. Komisijos veiklai finansuoti radijo ir (ar) televizijos programų transliuotojai, retransliuotojai, asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai, išskyrus LRT, gaunantys pajamas iš radijo ir (ar) televizijos programų transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, ir (ar) užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklos, privalo mokėti įmokas į Komisijos, kaip biudžetinės įstaigos, sąskaitą. Įmokos dydis yra 0,6 procento pajamų, gautų iš komercinių audiovizualinių pranešimų, reklamos, abonementinio mokesčio ir kitos veiklos, susijusios su radijo ir (ar) televizijos programų transliavimu, retransliavimu, televizijos programų ir (ar) atskirų programų platinimo internete ir (ar) užsakomosiomis visuomenės informavimo audiovizualinėmis priemonėmis paslaugomis. Audiovizualinių paslaugų rinkos dalyviai privalo pervesti įmokas į Komisijos, kaip biudžetinės įstaigos, sąskaitą kas ketvirtį ne vėliau kaip iki kito ketvirčio pirmojo mėnesio 30 dienos. Iš radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų, kurie per 3 mėnesius po nustatyto termino nepervedė įmokos į Komisijos, kaip biudžetinės įstaigos, sąskaitą, šios lėšos išieškomos per teismą. Komisijos finansavimo šaltiniai yra valstybės biudžeto asignavimai, tarp jų užmokestis už suteiktas paslaugas, paramos lėšos, leidybinės veiklos pajamos ir kitos teisėtai gaunamos lėšos. Komisijos pajamos, gautos pagal šį straipsnį ir įmokėtos į valstybės biudžetą, gali būti naudojamos tik Komisijos strateginiame veiklos plane numatytoms ir įgyvendinamoms programoms finansuoti. 
+16. Komisijos veiklai finansuoti radijo ir (ar) televizijos programų transliuotojai, retransliuotojai, asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai, išskyrus LRT, gaunantys pajamas iš radijo ir (ar) televizijos programų transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete ir (ar) užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklos, privalo mokėti įmokas į Komisijos, kaip biudžetinės įstaigos, sąskaitą. Įmokos dydis yra 0,8 procento pajamų, gautų iš komercinių audiovizualinių pranešimų, reklamos, abonementinio mokesčio ir kitos veiklos, susijusios su radijo ir (ar) televizijos programų transliavimu, retransliavimu, televizijos programų ir (ar) atskirų programų platinimo internete ir (ar) užsakomosiomis visuomenės informavimo audiovizualinėmis priemonėmis paslaugomis. Audiovizualinių paslaugų rinkos dalyviai privalo pervesti įmokas į Komisijos, kaip biudžetinės įstaigos, sąskaitą kas ketvirtį ne vėliau kaip iki kito ketvirčio pirmojo mėnesio 30 dienos. Iš radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų, kurie nepervedė įmokos į Komisijos, kaip biudžetinės įstaigos, sąskaitą, šios lėšos išieškomos per teismą. Komisijos finansavimo šaltiniai yra valstybės biudžeto asignavimai, tarp jų užmokestis už suteiktas paslaugas, paramos lėšos, leidybinės veiklos pajamos ir kitos teisėtai gaunamos lėšos. Komisijos pajamos, gautos pagal šį straipsnį ir įmokėtos į valstybės biudžetą, gali būti naudojamos tik Komisijos strateginiame veiklos plane numatytoms ir įgyvendinamoms programoms finansuoti. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
  
 
 
@@ -3593,7 +3675,10 @@ Nr. XI-2353, 2012-11-06, Žin., 2012, Nr. 132-6681 (2012-11-15)
 
 
 
-11) gavusi motyvuotą prašymą šio įstatymo 19 straipsnio 5 ar 6 dalyje nurodytu pagrindu arba atlikusi tyrimą, arba šio įstatymo 50 straipsnio 1 dalies 4, 7, 8 punktuose nurodytais atvejais remdamasi žurnalistų etikos inspektoriaus išvada, arba vadovaudamasi ekspertų išvadomis, šio įstatymo nustatyta tvarka ir terminais priima sprendimą dėl šiame įstatyme nustatytų objektyviai būtinų poveikio priemonių taikymo;
+11) gavusi motyvuotą prašymą šio įstatymo 19 straipsnio 5 ar 6 dalyje nurodytu pagrindu, policijos pranešimą šio įstatymo 19 straipsnio 9 dalies 3 punkte nurodytu pagrindu arba atlikusi tyrimą, arba šio įstatymo 50 straipsnio 1 dalies 4, 7, 8 punktuose nurodytais atvejais remdamasi žurnalistų etikos inspektoriaus išvada, arba vadovaudamasi ekspertų išvadomis, šio įstatymo nustatyta tvarka ir terminais priima sprendimą dėl šiame įstatyme nustatytų objektyviai būtinų poveikio priemonių taikymo; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
+ 
 
 
 
@@ -3737,7 +3822,10 @@ Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
 6. Komisija, atlikusi tyrimą ir nustačiusi, kad asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, pradėjo vykdyti šią veiklą nepranešę Komisijai šio įstatymo nustatyta tvarka, turi teisę:
 
 
-1) duoti privalomus nurodymus informacijos prieglobos paslaugų teikėjui skubiai pašalinti informacijos prieglobos paslaugų teikėjo saugomą informaciją, naudojamą vykdant veiklą, apie kurią Komisijai nebuvo pranešta, arba panaikinti galimybę šią informaciją pasiekti;
+1) duoti privalomus nurodymus elektroninės informacijos prieglobos paslaugų teikėjui skubiai pašalinti elektroninės informacijos prieglobos paslaugų teikėjo saugomą informaciją, naudojamą vykdant veiklą, apie kurią Komisijai nebuvo pranešta, arba panaikinti galimybę šią informaciją pasiekti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
+ 
 
 
 
@@ -4572,6 +4660,14 @@ Nr. XIII-1428, 2018-06-30, paskelbta TAR 2018-07-04, i. k. 2018-11329
  
 
 
+
+
+6. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/541 dėl kovos su terorizmu, pakeičianti Tarybos pamatinį sprendimą 2002/475/TVR ir iš dalies keičianti Tarybos sprendimą 2005/671/TVR (OL 2017 L 88, p. 6). 
+Papildyta punktu:
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
+ 
+
+
 Priedo pakeitimai:
 Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
@@ -4866,3 +4962,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 49 ir 50 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1470, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14698
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 22 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19, 48 straipsnių ir priedo pakeitimo įstatymas
