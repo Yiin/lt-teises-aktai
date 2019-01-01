@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea8fee50ac9311e6b844f0f29024f5ac"
 
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas
 
-Suvestinė redakcija nuo 2018-06-15 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-03-21
  
 Įstatymas paskelbtas: TAR 2016-11-17, i. k. 2016-26968
  
@@ -110,9 +110,27 @@ BENDROSIOS NUOSTATOS
 
 
 7) kitoms, negu šios dalies 6 punkte nurodytos, kredito sutartims, pagal kurias teisės aktų nustatytais atvejais, kai siekiama bendro intereso, tam tikrai ribotai visuomenės daliai suteikiamas kreditas taikant mažesnę negu rinkoje vyraujanti palūkanų normą arba visai nemokant palūkanų, arba kitomis sąlygomis, kurios būtų palankesnės kredito gavėjui negu rinkoje vyraujančios sąlygos, ir taikant ne didesnę negu rinkoje vyraujanti palūkanų normą, išskyrus šio įstatymo 4 ir 7 straipsniuose nustatytus reikalavimus, kurie taikomi šiame punkte nurodytoms kredito sutartims.
+
+
+
+
+
+
+3. Kai kredito davėjas ir (arba) paskolos davėjas ir kredito gavėjas susitaria dėl atidėto mokėjimo, kredito grąžinimo metodo pakeitimo arba kitokių kredito restruktūrizavimo būdų, kai kredito gavėjas nebevykdo savo įsipareigojimų pagal galiojančią su tuo pačiu kredito davėju ir (arba) paskolos davėju sudarytą kredito sutartį arba netinkamai juos vykdo ir buvo imtasi šio įstatymo 21 straipsnio 1 ir 2 dalyse nustatytų priemonių, tokiai kredito sutarčiai netaikomi šio įstatymo 8, 12, 13 straipsniai, jeigu:
+
+
+1) yra pagrindas manyti, kad tokia kredito sutartis padės išvengti skolų išieškojimo dėl įsipareigojimų pagal galiojančią kredito sutartį nevykdymo;
+
+
+
+
+2) tokia kredito sutartimi kredito gavėjui nebūtų nustatyta didesnė kredito palūkanų norma negu ta, kuri nustatyta galiojančioje kredito sutartyje, išskyrus kredito palūkanų normos padidėjimą dėl kintamos palūkanų normos dalies pasikeitimo. 
+TAR pastaba. 3 dalies nuostatos taikomos kredito sutarčių, sudarytų iki įstatymo Nr. XIII-1476 įsigaliojimo dienos (2019-01-01), pakeitimams.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
  
-
-
 
 
 
@@ -830,7 +848,11 @@ BENDRA KREDITO KAINA IR KREDITO GAVĖJO KREDITINGUMAS
 
 
 
-8. Kredito davėjas, priėmęs sprendimą atsisakyti suteikti kreditą remdamasis automatine duomenų analize, nedelsdamas raštu popieriuje ar kitoje patvariojoje laikmenoje arba elektronine forma apie priimtą sprendimą ir apie tai, kad jis priimtas naudojantis automatine duomenų analize, informuoja kredito gavėją. Jeigu kredito davėjas priima sprendimą atsisakyti suteikti kreditą remdamasis duomenų patikrinimo registruose ir informacinėse sistemose rezultatais, jis nedelsdamas apie priimtą sprendimą informuoja kredito gavėją ir nurodo konkrečias atsisakymo suteikti kreditą priežastis ir teisės aktuose nustatytus reikalavimus, dėl kurių kredito gavėjui atsisakyta suteikti kreditą, registrus ir informacines sistemas, kuriuose atliktas duomenų patikrinimas. Kredito gavėjo prašymu kredito davėjas šią informaciją kredito gavėjui pateikia raštu popieriuje ar kitoje patvariojoje laikmenoje arba elektronine forma.
+8. Kredito davėjas, priėmęs sprendimą atsisakyti suteikti kreditą remdamasis automatine duomenų analize, nedelsdamas raštu popieriuje ar kitoje patvariojoje laikmenoje arba elektronine forma apie priimtą sprendimą ir apie tai, kad jis priimtas naudojantis automatine duomenų analize, informuoja kredito gavėją. Jeigu kredito davėjas priima sprendimą atsisakyti suteikti kreditą remdamasis duomenų patikrinimo registruose ir informacinėse sistemose rezultatais, jis nedelsdamas apie priimtą sprendimą informuoja kredito gavėją ir nurodo registrus ir informacines sistemas, kuriuose atliktas duomenų patikrinimas. Kredito gavėjo prašymu kredito davėjas šią informaciją ir konkrečias atsisakymo suteikti kreditą priežastis ir teisės aktuose nustatytus reikalavimus, dėl kurių kredito gavėjui atsisakyta suteikti kreditą, kredito gavėjui pateikia raštu popieriuje ar kitoje patvariojoje laikmenoje arba elektronine forma. 
+TAR pastaba. 8 dalies nuostatos netaikomos kredito sutartims, sudarytoms iki įstatymo Nr. XIII-1476 įsigaliojimo dienos (2019-01-01).
+Straipsnio dalies pakeitimai:
+Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
+ 
 
 
 
@@ -927,7 +949,18 @@ BENDRA KREDITO KAINA IR KREDITO GAVĖJO KREDITINGUMAS
 
 
 
-5. Kredito davėjas privalo saugoti duomenis apie nekilnojamąjį turtą, kurio hipoteka užtikrintas įsipareigojimų pagal kredito sutartis įvykdymas, 10 metų nuo įsipareigojimų pagal kredito sutartį įvykdymo dienos, jeigu kiti teisės aktai, reglamentuojantys asmens duomenų teisinę apsaugą ir dokumentų saugojimą, nenustato ilgesnio duomenų saugojimo termino.
+5. Jeigu šio straipsnio 4 dalies 1 punkte nurodytu atveju bendra kredito suma išmokama dalimis, kredito davėjas turi teisę reikalauti nepriklausomo (išorės) nekilnojamojo turto, kurio hipoteka užtikrinamas ir (arba) užtikrintas įsipareigojimų pagal kredito sutartį įvykdymas, vertinimo prieš kiekvieną bendros kredito sumos dalies išmokėjimą. 
+TAR pastaba. 5 dalies nuostatos netaikomos kredito sutartims, sudarytoms iki įstatymo Nr. XIII-1476 įsigaliojimo dienos (2019-01-01).
+Papildyta straipsnio dalimi:
+Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
+ 
+
+
+
+
+6. Kredito davėjas privalo saugoti duomenis apie nekilnojamąjį turtą, kurio hipoteka užtikrintas įsipareigojimų pagal kredito sutartis įvykdymas, 10 metų nuo įsipareigojimų pagal kredito sutartį įvykdymo dienos, jeigu kiti teisės aktai, reglamentuojantys asmens duomenų teisinę apsaugą ir dokumentų saugojimą, nenustato ilgesnio duomenų saugojimo termino.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
  
 
 
@@ -999,7 +1032,11 @@ KREDITO SUTARTIS
 
 
 
-7) kredito palūkanų normos rūšies ir (arba) dydžio keitimo kredito gavėjo prašymu (ne kredito sutartyje nustatytais terminais) sąlygos: keitimo tvarka, terminai, kredito davėjo taikomi įkainiai, susiję su kredito sutarties keitimu, ir kitos kredito palūkanų normos keitimo sąlygos, jeigu numatoma galimybė keisti palūkanų normą ir (arba) dydį;
+7) kredito palūkanų normos rūšies ir (arba) dydžio keitimo kredito gavėjo prašymu (ne kredito sutartyje nustatytais terminais) sąlygos: keitimo tvarka, terminai ir kitos kredito palūkanų normos keitimo sąlygos, jeigu numatoma galimybė keisti palūkanų normą ir (arba) dydį; 
+TAR pastaba. 7 punkto nuostatos netaikomos kredito sutartims, sudarytoms iki įstatymo Nr. XIII-1476 įsigaliojimo dienos (2019-01-01).
+Straipsnio punkto pakeitimai:
+Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
+ 
 
 
 
@@ -1089,7 +1126,11 @@ KREDITO SUTARTIS
 
 
 
-25) kredito gavėjo, sudariusio kredito užsienio valiuta sutartį, teisė neatlygintinai konvertuoti užsienio valiutą šio įstatymo 24 straipsnyje nustatyta tvarka; 
+25) jeigu taikoma, kredito gavėjui, sudariusiam kredito užsienio valiuta sutartį, taikomos priemonės, skirtos užsienio valiutos kurso svyravimo rizikai sumažinti ir (arba) jai valdyti; 
+TAR pastaba. 25 punkto nuostatos netaikomos kredito sutartims, sudarytoms iki įstatymo Nr. XIII-1476 įsigaliojimo dienos (2019-01-01).
+Straipsnio punkto pakeitimai:
+Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
+ 
 
 
 
@@ -1364,35 +1405,33 @@ KREDITO SUTARTIS
 24 straipsnis. Kredito užsienio valiuta sutartis
 
 
-1. Kredito davėjas, siūlydamas kredito gavėjui sudaryti kredito užsienio valiuta sutartį, privalo pasiūlyti kitą, negu šio straipsnio 2 dalyje nustatyta, priemonę, skirtą užsienio valiutos kurso svyravimo rizikai sumažinti ir (arba) jai valdyti.
+1. Kai sudaroma kredito užsienio valiuta sutartis, kreditas gali būti teikiamas eurais arba valiuta, kuria kredito gavėjas gauna pajamas.
 
 
 
 
-2. Kredito gavėjas, sudaręs kredito užsienio valiuta sutartį, turi teisę neatlygintinai konvertuoti užsienio valiutą į šalių susitarimu kredito užsienio valiuta sutartyje nurodytą valiutą tuo atveju, kai likusios negrąžintos kredito sumos arba kredito įmokų bendra vertė skiriasi daugiau kaip 20 procentų nuo tos vertės, kuri būtų, jeigu būtų taikomas kredito užsienio valiuta sutarties valiutos ir euro keitimo kursas, taikytas kredito užsienio valiuta sutarties sudarymo metu.
+2. Kai sudaryta kredito užsienio valiuta sutartis, kredito davėjas privalo ne rečiau kaip kartą per metus raštu popieriuje ar kitoje patvariojoje laikmenoje informuoti kredito gavėją apie užsienio valiutos kurso svyravimo riziką ir pateikti nuorodą į interneto svetainę, kurioje kredito gavėjas gali susipažinti su kredito sutarties valiutos ir valiutos, kuria kredito gavėjas gauna pajamas, kurso kaita. Ši informacija kredito gavėjui gali būti teikiama kartu su kita periodiškai jam teikiama kredito davėjo informacija.
 
 
 
 
-3. Kredito gavėjas ir kredito davėjas, sudarydami kredito užsienio valiuta sutartį, susitaria, į kokią valiutą bus konvertuojama užsienio valiuta šio straipsnio 2 dalyje nurodytu atveju. Šio straipsnio 2 dalyje nurodytu atveju kredito gavėjas, sudaręs kredito užsienio valiuta sutartį, turi teisę konvertuoti užsienio valiutą ir į eurus. Šalys kredito užsienio valiuta sutartyje gali numatyti kitokius užsienio valiutos konvertavimo atvejus, jeigu tokiu susitarimu kredito gavėjui nebūtų nustatytos blogesnės sąlygos, negu tos, kurios nustatytos šiame straipsnyje. 
+3. Kredito gavėjas, sudaręs kredito užsienio valiuta sutartį, kredito užsienio valiuta sutarties vykdymo metu turi teisę neatlygintinai konvertuoti užsienio valiutą į eurus ir, jeigu kredito užsienio valiuta sutarties sudarymo metu dėl to susitarė kredito davėjas ir kredito gavėjas, – į valiutą, kuria kredito gavėjas gauna pajamas. 
 
 
 
 
-4. Užsienio valiuta konvertuojama pagal Europos Centrinio Banko paskelbtą orientacinį euro ir užsienio valiutos santykį, o tais atvejais, kai orientacinio euro ir užsienio valiutos santykio Europos Centrinis Bankas neskelbia, – pagal Lietuvos banko skelbiamą orientacinį euro ir užsienio valiutos santykį, nebent kredito užsienio valiuta sutartyje nustatyta kitaip. 
+4. Užsienio valiuta konvertuojama pagal kredito sutartyje nurodytą šalių sutartą konvertavimo dieną Europos Centrinio Banko paskelbtą orientacinį euro ir užsienio valiutos santykį, o tais atvejais, kai orientacinio euro ir užsienio valiutos santykio Europos Centrinis Bankas neskelbia, – pagal Lietuvos banko skelbiamą orientacinį euro ir užsienio valiutos santykį. 
 
 
 
 
-5. Kai sudaroma kredito užsienio valiuta sutartis, kredito davėjas raštu popieriuje ar kitoje patvariojoje laikmenoje pateikia įspėjimą kredito gavėjui tuo atveju, kai likusios negrąžintos kredito sumos arba kredito įmokų bendra vertė skiriasi daugiau kaip 15 procentų nuo tos vertės, kuri būtų, jeigu būtų taikomas kredito sutarties valiutos ir valstybės narės valiutos keitimo kursas, taikytas kredito sutarties sudarymo metu. Šiame įspėjime kredito gavėjas informuojamas apie bendros kredito gavėjo mokamos sumos padidėjimą, šio straipsnio 2 dalyje nustatytą teisę ir pasinaudojimo šia teise sąlygas. 
+5. Standartinėje informacijoje apie kreditą ir kredito užsienio valiuta sutartyje turi būti aiškiai nurodytos pagal šį straipsnį kredito gavėjui taikomos priemonės, skirtos užsienio valiutos kurso svyravimo rizikai sumažinti ir (arba) jai valdyti. Jeigu kredito užsienio valiuta sutartyje nėra nuostatos dėl užsienio valiutos kurso rizikos, kylančios kredito gavėjui, kai užsienio valiutos kurso pokytis yra mažesnis negu 20 procentų, ribojimo, teikiant standartinę informaciją apie kreditą, pateikiamas pavyzdys, kuriuo paaiškinama, kokį poveikį gali turėti 20 procentų užsienio valiutos kurso pokytis. 
+TAR pastaba. 24 straipsnio nuostatos netaikomos kredito sutartims, sudarytoms iki įstatymo Nr. XIII-1476 įsigaliojimo dienos (2019-01-01).
 
 
-
-
-6. Jeigu kredito užsienio valiuta sutartyje nėra nuostatos dėl valiutos kurso rizikos, kylančios kredito gavėjui, kai valiutos kurso pokytis yra mažesnis negu 20 procentų, ribojimo, teikiant standartinę informaciją apie kreditą pateikiamas pavyzdys, kuriuo paaiškinama, kokį poveikį gali turėti 20 procentų valiutos kurso pokytis.
+Straipsnio pakeitimai:
+Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
  
-
-
 
 
 
@@ -2090,9 +2129,11 @@ TARPUSAVIO SKOLINIMO PLATFORMOS OPERATORIAUS VEIKLOS REIKALAVIMAI IR TARPUSAVIO 
 37 straipsnis. Reikalavimai tarpusavio skolinimo platformos operatoriui, jo vadovui ir dalyviui
 
 
-1. Tarpusavio skolinimo platformos operatoriui mutatis mutandis taikomos šio įstatymo II, III, VI, VII skyrių, 16, 17, 18, 19, 21, 22, 23, 24, 27–361 straipsnių nuostatos, taikomos kredito davėjui. 
+1. Tarpusavio skolinimo platformos operatoriui mutatis mutandis taikomos šio įstatymo I, II, III, VI, VII skyrių, 16, 17, 18, 19, 21, 22, 23, 24, 27–361 straipsnių nuostatos, taikomos kredito davėjui. 
+TAR pastaba. 1 dalies nuostatos netaikomos kredito sutartims, sudarytoms iki įstatymo Nr. XIII-1476 įsigaliojimo dienos (2019-01-01).
 Straipsnio dalies pakeitimai:
 Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
+Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
  
 
 
@@ -2482,7 +2523,11 @@ KREDITO TARPININKŲ VEIKLA KITOSE VALSTYBĖSE NARĖSE
 43 straipsnis. Kitoje valstybėje narėje įsteigto kredito tarpininko, veikiančio Lietuvos Respublikoje, priežiūra
 
 
-1. Priežiūros institucija prižiūri, kaip kredito tarpininkas, įsteigęs filialą Lietuvos Respublikoje, laikosi šio įstatymo 4, 6, 7, 9, 10, 11, 13, 32, 35, 36 straipsniuose nustatytų reikalavimų ir juos detalizuojančių priežiūros institucijos teisės aktų. Šiuo tikslu priežiūros institucija turi teisę atlikti kredito tarpininko filialo patikrinimus, įpareigoti kredito tarpininką atlikti veiksmus, reikalingus užtikrinti, kad kredito tarpininko filialas, įsteigtas Lietuvos Respublikoje, laikytųsi šioje dalyje nurodytų teisės aktų reikalavimų, ir sudaryti sąlygas buveinės valstybės narės priežiūros institucijai užtikrinti, kad būtų vykdomos šio įstatymo 35 straipsnio 2 ir 4 dalyse nustatytos pareigos.
+1. Priežiūros institucija prižiūri, kaip kredito tarpininkas, įsteigęs filialą Lietuvos Respublikoje, laikosi šio įstatymo 4, 6, 7, 9, 10, 11, 13, 32 straipsniuose, 35 straipsnio 1 dalyje, 36, 44, 56, 57 straipsniuose nustatytų reikalavimų ir juos detalizuojančių priežiūros institucijos teisės aktų. Šiuo tikslu priežiūros institucija turi teisę atlikti kredito tarpininko filialo patikrinimus, įpareigoti kredito tarpininką atlikti veiksmus, reikalingus užtikrinti, kad kredito tarpininko filialas, įsteigtas Lietuvos Respublikoje, laikytųsi šioje dalyje nurodytų teisės aktų reikalavimų, ir sudaryti sąlygas buveinės valstybės narės priežiūros institucijai užtikrinti, kad būtų vykdomos šio įstatymo 35 straipsnio 2 ir 4 dalyse nustatytos pareigos. 
+TAR pastaba. 1 dalies nuostatos netaikomos kredito sutartims, sudarytoms iki įstatymo Nr. XIII-1476 įsigaliojimo dienos (2019-01-01).
+Straipsnio dalies pakeitimai:
+Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
+ 
 
 
 
@@ -3064,3 +3109,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
 Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 31, 37, 45, 48, 49, 50, 51, 52, 53 straipsnių pakeitimo, Įstatymo papildymo 36-1 straipsniu ir 54, 55 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
+Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 2, 12, 14, 16, 24, 32, 37 ir 43 straipsnių pakeitimo įstatymas
