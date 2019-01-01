@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2017-05-25 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 151-0; Žin. 1991, Nr.24-635, i. k. 0911010ISTA00I-1607
  
@@ -213,7 +213,10 @@ Nr. XII-1810, 2015-06-18, paskelbta TAR 2015-07-01, i. k. 2015-10573
 
 
 
-5. Užsienio valstybių diplomatinėms ir konsulinėms įstaigoms žemė parduodama Žemės sklypų įsigijimo ir nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų įstatymo nustatyta tvarka.
+5. Užsienio valstybių diplomatinėms ir konsulinėms įstaigoms įkurti žemė parduodama Žemės įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1269, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10514
+ 
 
 
 
@@ -1144,4 +1147,9 @@ Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8 ir 13 straipsnių p
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-367, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08726
-Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 22 straipsnio pakeitimo įstatymas
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 22 straipsnio pakeitimo įstatymas 
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1269, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10514
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8 straipsnio pakeitimo įstatymas
