@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2020-05-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-787, i. k. 0961010ISTA00I-1232
  
@@ -51,6 +51,15 @@ BENDROSIOS NUOSTATOS
 
 
 2. Šis įstatymas netaikomas kredito ir draudimo organizacijoms, turinčioms fondo pavadinimą, taip pat fondams, kurie steigiami pagal atskirus įstatymus arba tarptautines sutartis su kitomis valstybėmis bei tarptautinėmis organizacijomis ir kurių veikla reglamentuojama sutartyse.
+
+
+
+
+3. Šio įstatymo nuostatos dėl metinių finansinių ataskaitų rinkinio ir metinio pranešimo parengimo, pateikimo ir paskelbimo labdaros ir paramos fondams, kurie pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą priskiriami prie viešojo sektoriaus subjektų, taikomos tiek, kiek Viešojo sektoriaus atskaitomybės įstatymas nenustato kitaip.
+TAR pastaba. 1 straipsnio 3 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių fondų metinių finansinių ataskaitų rinkinių auditams. 
+1 straipsnio 3 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+Papildyta straipsnio dalimi:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
  
 
 
@@ -324,12 +333,20 @@ FONDO VALDYMAS
 
 
 
-5) tvirtinti fondo metinių finansinių ataskaitų rinkinį;
+5) per 4 mėnesius nuo finansinių metų pabaigos tvirtinti fondo metinių finansinių ataskaitų rinkinį arba metinę ataskaitą;
+TAR pastaba. 8 straipsnio 2 dalies 5 punkto nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių fondų metinių finansinių ataskaitų rinkinių auditams. 
+8 straipsnio 2 dalies 5 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+ 
 
 
 
 
-6) tvirtinti metinę gautos (suteiktos) paramos ataskaitą;
+6) neteko galios nuo 2019-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+ 
 
 
 
@@ -349,7 +366,12 @@ FONDO VALDYMAS
 
 
 
-10) priimti sprendimą dėl fondo finansinių ataskaitų audito, rinkti ir atšaukti audito įmonę ar atestuotą auditorių finansinių ataskaitų auditui atlikti, nustatyti audito paslaugų apmokėjimo sąlygas;
+10) priimti sprendimą dėl fondo finansinių ataskaitų audito kitais, negu nurodyta šio įstatymo 11 straipsnio 7 dalyje, atvejais, rinkti ir atšaukti audito įmonę ar auditorių finansinių ataskaitų auditui atlikti, nustatyti audito paslaugų apmokėjimo sąlygas;
+TAR pastaba. 8 straipsnio 2 dalies 10 punkto nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių fondų metinių finansinių ataskaitų rinkinių auditams. 
+8 straipsnio 2 dalies 10 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+ 
 
 
 
@@ -410,40 +432,125 @@ Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
 
 
 
-2. Valdymo organas, be Civilinio kodekso 2.82 straipsnyje nustatytų funkcijų, priima į darbą ir iš jo atleidžia darbuotojus, sudaro su jais darbo sutartis, rengia ir pateikia visuotiniam dalininkų susirinkimui fondo metinį pranešimą ir metinių finansinių ataskaitų rinkinį, skirsto lėšas labdarai ir paramai, tvirtina turtinių įnašų įvertinimą, analizuoja fondo veiklos rezultatus, pajamų ir išlaidų sąmatas, mokestinių patikrinimų ir auditų, inventorizacijos ir kitus vertybių apskaitos duomenis, skelbia viešą informaciją ar organizuoja jos paskelbimą, organizuoja savanorišką veiklą Lietuvos Respublikos savanoriškos veiklos įstatymo nustatyta tvarka, sprendžia kitus šiame įstatyme ir fondo įstatuose valdymo organo kompetencijai priskirtus klausimus. Valdymo organas taip pat priima sprendimus dėl filialų ir atstovybių steigimo bei jų veiklos nutraukimo ir tvirtina jų nuostatus, jeigu fondo įstatuose nenustatyta kitaip.
+2. Valdymo organas, be Civilinio kodekso 2.82 straipsnyje nustatytų funkcijų, priima į darbą ir iš jo atleidžia darbuotojus, sudaro su jais darbo sutartis. Valdymo organas taip pat priima sprendimus dėl filialų ir atstovybių steigimo bei jų veiklos nutraukimo ir tvirtina jų nuostatus, jeigu fondo įstatuose nenustatyta kitaip.
+TAR pastaba. 9 straipsnio 2 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių fondų metinių finansinių ataskaitų rinkinių auditams. 
+9 straipsnio 2 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
 Straipsnio dalies pakeitimai:
 Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
  
 
 
 
 
-3. Jeigu fondas valdo neliečiamąjį kapitalą, privalo būti sudarytas kolegialus valdymo organas. Kolegialus valdymo organas atsako už neliečiamajam kapitalui perduotų lėšų investavimo tvarkos (strategijos) įgyvendinimą, taip pat už neliečiamąjį kapitalą sudarančių lėšų investavimo ir valdymo tikslų pasiekimą. 
+3. Valdymo organas atsakingas už:
+
+
+1) buhalterinės apskaitos organizavimą pagal Lietuvos Respublikos buhalterinės apskaitos įstatymą;
 
 
 
 
-4. Jeigu fonde sudaromi keli valdymo organai, fondo įstatuose turi būti atskirai nustatyta kiekvieno valdymo organo kompetencija.
+2) metinių finansinių ataskaitų rinkinio ir metinio pranešimo parengimą ir pateikimą kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas) arba metinės ataskaitos parengimą ir pateikimą Juridinių asmenų registro tvarkytojui ir visuotiniam dalininkų susirinkimui;
 
 
 
 
-5. Už veiklą valdymo organuose jų nariams gali būti atlyginama darbo ar paslaugų sutarties pagrindu.
+3) duomenų, nurodytų Civilinio kodekso 2.66 straipsnyje, pateikimą Juridinių asmenų registrui; 
 
 
 
 
-6. Kolegialaus valdymo organo nariais gali būti fiziniai asmenys – fondo dalininkai ir fondo dalininkų – juridinių asmenų pasiūlyti fiziniai asmenys. Fondo įstatuose gali būti nustatyti papildomi reikalavimai kolegialaus valdymo organo nariui.
+4) metinių finansinių ataskaitų rinkinio, metinio pranešimo ir auditoriaus išvados (tais atvejais, kai finansinių ataskaitų auditas atliktas) arba metinės ataskaitos paskelbimą fondo interneto svetainėje, jeigu fondas ją turi; 
 
 
 
 
-7. Kolegialus valdymo organas gali priimti sprendimus, kai jo posėdyje dalyvauja daugiau kaip 1/2 jo narių.
+5) sąlygų tretiesiems asmenims susipažinti su metinių finansinių ataskaitų rinkiniu, metiniu pranešimu ir auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas) arba metine ataskaita fondo buveinėje sudarymą;
 
 
 
 
-8. Fondo valdymo organas Lietuvos Respublikos įstatymų nustatyta tvarka atsako už tai, kad fondo veikla atitiktų šio įstatymo ir kitų Lietuvos Respublikos teisės aktų nuostatas.
+6) lėšų labdarai ir paramai paskirstymą;
+
+
+
+
+7) turtinių įnašų įvertinimo tvirtinimą;
+
+
+
+
+8) fondo veiklos rezultatų, pajamų ir išlaidų sąmatų, mokestinių patikrinimų ir auditų, inventorizacijos ir kitų vertybių apskaitos duomenų analizę;
+
+
+
+
+9) viešos informacijos paskelbimą;
+
+
+
+
+10) savanoriškos veiklos Lietuvos Respublikos savanoriškos veiklos įstatymo nustatyta tvarka organizavimą;
+
+
+
+
+11) kitų valdymo organo pareigų, numatytų šiame įstatyme ir fondo įstatuose, atlikimą. 
+TAR pastaba. 9 straipsnio 3 dalies nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių fondų metinių finansinių ataskaitų rinkinių auditams. 
+9 straipsnio 3 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+ 
+
+
+
+
+4. Jeigu fondas valdo neliečiamąjį kapitalą, privalo būti sudarytas kolegialus valdymo organas. Kolegialus valdymo organas atsako už neliečiamajam kapitalui perduotų lėšų investavimo tvarkos (strategijos) įgyvendinimą, taip pat už neliečiamąjį kapitalą sudarančių lėšų investavimo ir valdymo tikslų pasiekimą. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+ 
+
+
+
+
+5. Jeigu fonde sudaromi keli valdymo organai, fondo įstatuose turi būti atskirai nustatyta kiekvieno valdymo organo kompetencija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+ 
+
+
+
+
+6. Už veiklą valdymo organuose jų nariams gali būti atlyginama darbo ar paslaugų sutarties pagrindu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+ 
+
+
+
+
+7. Kolegialaus valdymo organo nariais gali būti fiziniai asmenys – fondo dalininkai ir fondo dalininkų – juridinių asmenų pasiūlyti fiziniai asmenys. Fondo įstatuose gali būti nustatyti papildomi reikalavimai kolegialaus valdymo organo nariui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+ 
+
+
+
+
+8. Kolegialus valdymo organas gali priimti sprendimus, kai jo posėdyje dalyvauja daugiau kaip 1/2 jo narių.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+ 
+
+
+
+
+9. Fondo valdymo organas Lietuvos Respublikos įstatymų nustatyta tvarka atsako už tai, kad fondo veikla atitiktų šio įstatymo ir kitų Lietuvos Respublikos teisės aktų nuostatas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
  
 
 
@@ -467,143 +574,138 @@ Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
 
 
 
-11 straipsnis. Auditas, mokestinis patikrinimas ir vidaus kontrolė
+11 straipsnis. Metinių finansinių ataskaitų rinkinys, jo auditas ir metinis pranešimas. Metinė ataskaita
 
 
-1. Fondas privalo įstatymuose nustatytu periodiškumu atlikti auditą. Fondo auditas atliekamas, kai visuotinis dalininkų susirinkimas priima sprendimą atlikti auditą ir išrenka audito įmonę ar atestuotą auditorių. Auditas atliekamas vadovaujantis profesinės etikos principais, įstatymų ir kitų teisės aktų, tarptautinių audito standartų reikalavimais. 
+1. Fondo įstatuose nurodytas valdymo organas, išskyrus šio straipsnio 8 dalyje nurodytą atvejį, pasibaigus finansiniams metams turi parengti ir visuotiniam dalininkų susirinkimui pateikti:
 
 
-
-
-2. Fondo valdymo organas privalo pateikti auditoriui jo reikalaujamus dokumentus ir (ar) jų kopijas auditui atlikti ir turi sudaryti sąlygas auditoriui naudotis visa sukaupta informacija.
-
-
-
-
-3. Apmokėjimo už audito paslaugas sąlygas nustato visuotinis dalininkų susirinkimas.
+1) metinių finansinių ataskaitų rinkinį;
 
 
 
 
-4. Fonde atliekamas mokestinis patikrinimas vadovaujantis Lietuvos Respublikos mokesčių administravimo įstatymu.
+2) metinį pranešimą.
 
 
 
 
-5. Fondo vidaus kontrolės tvarka nustatoma fondo įstatuose.
+
+
+2. Metinių finansinių ataskaitų rinkinį sudaro šios finansinės ataskaitos:
+
+
+1) finansinės būklės ataskaita, kurioje rodomas visas fondo turtas, nuosavas kapitalas, finansavimo sumos ir įsipareigojimai paskutinę ataskaitinio laikotarpio dieną;
+
+
+
+
+2) veiklos rezultatų ataskaita, kurioje rodomos visos fondo ataskaitinio laikotarpio pajamos, sąnaudos ir veiklos rezultatai – perviršis (pelnas) arba deficitas (nuostoliai);
+
+
+
+
+3) finansinių ataskaitų aiškinamasis raštas, kuriame detalizuojamos ir paaiškinamos fondo finansinės būklės ataskaitoje ir veiklos rezultatų ataskaitoje nurodytos sumos, nurodomas vyriausiasis buhalteris (buhalteris) arba pagal sutartį apskaitos paslaugas teikianti (teikusi) įmonė, arba apskaitos paslaugas savarankiškai teikiantis (teikęs) asmuo ir laikotarpis, už kurį jis tvarko (tvarkė) fondo apskaitą, taip pat pateikiama papildoma reikšminga informacija ir kita šiame įstatyme nurodyta informacija.
+
+
+
+
+
+
+3. Finansinių ataskaitų aiškinamajame rašte turi būti nurodyta:
+
+
+1) informacija apie gautą finansinę ir nefinansinę paramą (nefinansinei paramai priskiriant ir turtą, gautą naudotis panaudos teise) ir jos panaudojimą. Pateikiant informaciją apie paramos teikėjus juridinius asmenis, turi būti atskirai nurodytas kiekvienas paramą suteikęs juridinis asmuo, jo suteiktos paramos dalykas ir jo vertė. Jeigu paramos teikėjo per ataskaitinius finansinius metus suteiktos paramos vertė neviršija 2 vidutinių mėnesinių darbo užmokesčių ir sudaro ne daugiau kaip 10 procentų fondo per ataskaitinius finansinius metus visos gautos paramos ir (arba) visų gautų finansavimo sumų, paramą suteikęs juridinis asmuo gali būti nenurodomas;
+
+
+
+
+2) informacija apie paties fondo suteiktą labdarą ir (ar) paramą. Pateikiant informaciją apie paramos gavėjus juridinius asmenis, turi būti atskirai nurodytas kiekvienas paramą gavęs juridinis asmuo, jo gautos paramos dalykas ir jo vertė.
+
+
+
+
+
+
+4. Metiniame pranešime turi būti nurodyta:
+
+
+1) fondo veiklos tikslai, uždaviniai ir atlikti darbai, taip pat nurodomi ateinančių finansinių metų veiklos tikslai, uždaviniai ir planuojami atlikti darbai;
+
+
+
+
+2) fondo dalininkų skaičius finansinių metų pabaigoje ir praėjusių finansinių metų pabaigoje.
+
+
+
+
+
+
+5. Metiniame pranešime gali būti nurodyta ir kita informacija, kurią nusprendžia pateikti fondo valdymo organas ar visuotinis dalininkų susirinkimas.
+
+
+
+
+6. Fondo, kuris valdo neliečiamąjį kapitalą, metiniame pranešime pateikiama informacija, susijusi su neliečiamojo kapitalo valdymu, kurios turinį detalizuoja Vyriausybė arba jos įgaliota institucija.
+
+
+
+
+7. Fondo metinių finansinių ataskaitų auditas turi būti atliekamas, kai fondas tenkina bent vieną iš šių kriterijų:
+
+
+1) fondas valdo neliečiamąjį kapitalą;
+
+
+
+
+2) fondą kontroliuoja akcinė bendrovė, uždaroji akcinė bendrovė, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, priklauso valstybei ir (arba) savivaldybei nuosavybės teise. 
+TAR pastaba. 11 straipsnio 7 dalis įsigalioja 2018-07-01.
+
+
+
+
+
+
+8. Fondo, kuris nevaldo neliečiamojo kapitalo ir, vadovaudamasis Buhalterinės apskaitos įstatymu, yra pasirinkęs supaprastintą apskaitą, įstatuose nurodytas valdymo organas vietoj šio straipsnio 1 dalyje nurodytų ataskaitų gali rengti ir visuotiniam dalininkų susirinkimui pateikti metinę ataskaitą, kurioje turi būti pateikta informacija, nurodyta šio straipsnio 2 dalies 1 ir 2 punktuose ir 3, 4 ir 5 dalyse.
+
+
+
+
+9. Metinių finansinių ataskaitų rinkinį sudarančių finansinių ataskaitų, metinio pranešimo ir metinės ataskaitos parengimo tvarką nustato ir informacijos, nurodytos šio straipsnio 2, 4 ir 8 dalyse, turinį detalizuoja Vyriausybė arba jos įgaliota institucija.
+TAR pastaba. 11 straipsnio nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių fondų metinių finansinių ataskaitų rinkinių auditams. 
+11 straipsnio nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
  
 
 
 
 
+12 straipsnis. Metinių finansinių ataskaitų rinkinio, metinio pranešimo ir metinės ataskaitos pasirašymas, skelbimas ir teikimas 
 
 
-12 straipsnis. Fondo metinis pranešimas ir metinių finansinių ataskaitų rinkinys
+1. Metinių finansinių ataskaitų rinkinys, metinis pranešimas ir metinė ataskaita turi būti pasirašyti fondo įstatuose nurodyto valdymo organo nario. Šiuose dokumentuose turi būti nurodytos pasirašančio asmens pareigos, vardas ir pavardė.
 
 
-1. Fondo įstatuose nurodytas valdymo organas pasibaigus finansiniams metams turi parengti ir pateikti visuotiniam dalininkų susirinkimui praėjusių finansinių metų fondo metinį pranešimą ir metinių finansinių ataskaitų rinkinį. Šie dokumentai yra vieši, skelbiami fondo interneto svetainėje (jeigu fondas ją turi), išskyrus fizinių asmenų asmens duomenis, kurie pagal įstatymus viešai neskelbtini. Kiekvieno fizinio ar juridinio asmens reikalavimu fondas turi sudaryti jam sąlygas fondo buveinėje ar kitais būdais su šiais dokumentais susipažinti. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-487, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11074
+
+
+2. Metinių finansinių ataskaitų rinkinys ir metinis pranešimas kartu su auditoriaus išvada (tais atvejais, kai finansinių ataskaitų auditas atliktas), taip pat metinė ataskaita yra vieši dokumentai. Šie dokumentai, išskyrus fizinių asmenų asmens duomenis, kurie pagal įstatymus, reglamentuojančius fizinių asmenų asmens duomenų apsaugą, viešai neskelbiami, turi būti paskelbti fondo interneto svetainėje, jeigu fondas ją turi. Be to, tretiesiems asmenims turi būti sudarytos sąlygos su šiais dokumentais susipažinti fondo buveinėje.
+
+
+
+
+3. Fondo metinis pranešimas, taip pat fondo metinių finansinių ataskaitų rinkinys, o tais atvejais, kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada turi būti pateikti Juridinių asmenų registro tvarkytojui. Fondo, kuris priskiriamas prie viešojo sektoriaus subjektų, metinių finansinių ataskaitų rinkinys, o tais atvejais, kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada Juridinių asmenų registro tvarkytojui teikiami Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. Fondas, valdantis neliečiamąjį kapitalą, Juridinių asmenų registro tvarkytojui turi pateikti duomenis ir apie neliečiamojo kapitalo dydį paskutinę finansinių metų dieną. Fondas, kuris rengia metinę ataskaitą, kaip nustatyta šio įstatymo 11 straipsnio 8 dalyje, metinę ataskaitą turi pateikti Juridinių asmenų registro tvarkytojui. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai skelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje.
+TAR pastaba. 12 straipsnio nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių fondų metinių finansinių ataskaitų rinkinių auditams. 
+12 straipsnio nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
  
-
-
-
-
-2. Fondo metiniame pranešime turi būti nurodyta:
-
-
-1) informacija apie fondo veiklą įgyvendinant jo įstatuose nustatytus veiklos tikslus;
-
-
-
-
-2) fondo dalininkų skaičius finansinių metų pabaigoje;
-
-
-
-
-3) samdomų fondo darbuotojų skaičius finansinių metų pabaigoje;
-
-
-
-
-4) informacija apie patirtas fondo administravimo išlaidas (informacija apie visų fondo valdymo organų narių, dalininkų, darbuotojų atlyginimą ir kitas su darbo teisiniais santykiais susijusias išmokas, taip pat bet kokias kitas iš fondo gautas pajamas);
-
-
-
-
-5) informacija apie gautą paramą (pateikiant informaciją apie paramos teikėjus juridinius asmenis, turi būti atskirai nurodytas kiekvienas paramą suteikęs juridinis asmuo, jo suteiktos paramos dalykas ir jo vertė) ir jos panaudojimą, apie paties fondo suteiktą labdarą ir (ar) paramą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-487, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11074
- 
-
-
-
-
-6) informacija apie įsigytą ir perleistą fondo veiklai naudojamą ilgalaikį turtą per finansinius metus, planuojamą įsigyti ir perleisti fondo veiklai naudojamą ilgalaikį turtą per kitus finansinius metus.
-
-
-
-
-
-
-3. Jeigu fondas valdo neliečiamąjį kapitalą, fondo metiniame pranešime taip pat pateikiama informacija apie per paskutinius finansinius metus:
-
-
-1) neliečiamajam kapitalui perduotas lėšas ir jų gavimo šaltinius;
-
-
-
-
-2) iš neliečiamojo kapitalo investavimo gautas pajamas ir jų panaudojimą;
-
-
-
-
-3) neliečiamojo kapitalo investicijų ataskaitą pagal turto rūšis ir rizikos klases, laiko terminus;
-
-
-
-
-4) neliečiamojo kapitalo valdymo ataskaitą;
-
-
-
-
-5) investavimo strategijos pokytį;
-
-
-
-
-6) neliečiamojo kapitalo pokytį;
-
-
-
-
-7) patirtas neliečiamojo kapitalo administravimo išlaidas (informacija apie visų fondo valdymo organų narių, dalininkų, darbuotojų atlyginimą ir kitas su darbo teisiniais santykiais susijusias išmokas, taip pat bet kokias kitas iš fondo gautas pajamas).
-
-
-
-
-
-
-4. Informacija apie iš neliečiamojo kapitalo investavimo gautos pajamų dalies, skirtos fondo įstatuose nustatytiems visuomenei naudingiems tikslams, panaudojimą pateikiama nurodant lėšų skyrimo paskirtį ir paramos gavėjus.
-
-
-
-
-5. Fondo metiniame pranešime gali būti pateikiama ir kita informacija, kurią nustato įstatymai ar visuotinis dalininkų susirinkimas.
-
-
-
-
-6. Kiekvienais metais fondo metinis pranešimas, taip pat fondo metinių finansinių ataskaitų rinkinys, o tais atvejais, kai auditas atliktas, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada ar fondo, valdančio neliečiamąjį kapitalą, audituotas metinių finansinių ataskaitų rinkinys kartu su auditoriaus išvada turi būti pateikti Juridinių asmenų registro tvarkytojui. Fondas, valdantis neliečiamąjį kapitalą, pateikdamas metinį pranešimą, Juridinių asmenų registro tvarkytojui pateikia duomenis ir apie neliečiamojo kapitalo dydį ir sudėtį finansinių metų pabaigoje. Juridinių asmenų registro tvarkytojui pateikti dokumentai ne vėliau kaip per 30 dienų nuo jų gavimo dienos neatlygintinai skelbiami Juridinių asmenų registro tvarkytojo interneto svetainėje. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1652, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06527
-Nr. XIII-487, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11074
- 
-
-
 
 
 
@@ -788,7 +890,12 @@ FONDO VEIKLA
 
 
 
-3) bet kada išstoti iš fondo. Tokiu atveju dalininko įnašai ar kitaip fondo nuosavybėn perduotos lėšos ir turtas negrąžinami;
+3) bet kada išstoti iš fondo. Tokiu atveju dalininko įnašai ar kitaip fondo nuosavybėn perduotos lėšos ir turtas negrąžinami ir toliau laikomi fondo lėšomis;
+TAR pastaba. 15 straipsnio 1 dalies 3 punkto nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių fondų metinių finansinių ataskaitų rinkinių auditams. 
+15 straipsnio 1 dalies 3 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+ 
 
 
 
@@ -931,12 +1038,22 @@ FONDO VEIKLA
 
 
 
-3) mokėti fondo dalininkui išmokas iš pelno dalies ar perduoti likviduojamo fondo turto dalį, viršijančią dalininko įnašą;
+3) mokėti fondo dalininkui išmokas iš perviršio (pelno) dalies ar perduoti likviduojamo fondo turto dalį, viršijančią dalininko įnašą;
+TAR pastaba. 18 straipsnio 2 dalies 3 punkto nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių fondų metinių finansinių ataskaitų rinkinių auditams. 
+18 straipsnio 2 dalies 3 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+ 
 
 
 
 
-4) fondo turtą ir lėšas, įskaitant pelną, kokia nors forma skirstyti to fondo dalininkams ir (ar) jo organų nariams, fonde pagal darbo sutartį dirbantiems asmenims, išskyrus atvejus, kai mokamas darbo užmokestis, kitos su darbo teisiniais santykiais susijusios išmokos ir pagal autorinę sutartį mokamas autorinis atlyginimas;
+4) fondo turtą ir lėšas, įskaitant perviršį (pelną), kokia nors forma skirstyti to fondo dalininkams ir (ar) jo organų nariams, fonde pagal darbo sutartį dirbantiems asmenims, išskyrus atvejus, kai mokamas darbo užmokestis, kitos su darbo teisiniais santykiais susijusios išmokos ir pagal autorinę sutartį mokamas autorinis atlyginimas;
+TAR pastaba. 18 straipsnio 2 dalies 4 punkto nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių fondų metinių finansinių ataskaitų rinkinių auditams. 
+18 straipsnio 2 dalies 4 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+ 
 
 
 
@@ -1306,7 +1423,12 @@ FONDO PERTVARKYMO IR PABAIGOS YPATUMAI
 
 
 
-2) sudaryti likvidavimo laikotarpio pradžios fondo balansą;
+2) sudaryti likvidavimo laikotarpio pradžios fondo finansinės būklės ataskaitą;
+TAR pastaba. 25 straipsnio 6 dalies 2 punkto nuostatos taikomos 2018-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių fondų metinių finansinių ataskaitų rinkinių auditams. 
+25 straipsnio 6 dalies 2 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, metinius pranešimus ir metines ataskaitas.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+ 
 
 
 
@@ -1416,3 +1538,8 @@ Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 8, 9 ir 12 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-487, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11074
 Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 12 ir 18 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
+Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 1, 8, 9, 11, 12, 15, 18 ir 25 straipsnių pakeitimo įstatymas
