@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2018-07-17 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -6301,7 +6301,9 @@ Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
 
 
 
-4. Įstatymų nustatytais atvejais juridinių asmenų registrui pateikiamas juridinio asmens metinių finansinių ataskaitų rinkinys (metinių konsoliduotųjų finansinių ataskaitų rinkinys) ir (arba) metinis pranešimas (konsoliduotasis metinis pranešimas) ar veiklos ataskaita kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo momento, jei įstatymai nenumato kito termino.
+4. Įstatymų nustatytais atvejais juridinių asmenų registrui pateikiamas juridinio asmens metinių finansinių ataskaitų rinkinys (metinių konsoliduotųjų finansinių ataskaitų rinkinys) ir (arba) metinis pranešimas (konsoliduotasis metinis pranešimas) ar veiklos ataskaita arba metinė ataskaita kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo momento, jei įstatymai nenumato kito termino. Tais atvejais, kai yra atliktas finansinių ataskaitų auditas, kartu su audituotu metinių finansinių ataskaitų rinkiniu (metinių konsoliduotųjų finansinių ataskaitų rinkiniu) turi būti pateikta ir auditoriaus išvada. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1185, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09076
  
 
 
@@ -6539,7 +6541,10 @@ Nr. XII-984, 2014-06-26, paskelbta TAR 2014-07-03, i. k. 2014-09753
 
 
 
-2) teisėtvarkos institucijoms, teismams ir mokesčių administravimo institucijoms – kiek jų reikia tiesioginėms funkcijoms atlikti;
+2) valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis;
+Straipsnio punkto pakeitimai:
+Nr. XIII-850, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20333
+ 
 
 
 
