@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS TEISĖJŲ ATLYGINIMŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2013-09-28 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2021-07-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 131-5022, i. k. 1081010ISTA00X-1771
  
@@ -170,6 +170,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
  
+ 
 
 
 
@@ -177,127 +178,12 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
  
-Lietuvos Respublikos 
-teisėjų atlyginimų 
-įstatymo 
-priedėlis
- 
-I. LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMAI
- 
-(Baziniais dydžiais)
-
-
-
- Eil. Nr. 
- Pareigybės 
- Atlyginimo koeficientas 
-
-
- 1. 
- Lietuvos Respublikos Konstitucinio Teismo pirmininkas (ar jį pavaduojantis teisėjas) 
- 21 
-
-
- 2. 
- Lietuvos Respublikos Konstitucinio Teismo teisėjas 
- 19,06 
-
-
-
- 
-II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS
- 
-(Baziniais dydžiais) 
-
-
-
- Eil. Nr. 
- Įstaigos pavadinimas 
- Pareiginės algos koeficientas: 
-
-
- pirmininko ar jį pavaduojančiojo (kai nėra etatinio pavaduotojo) 
- pirmininko pavaduotojo 
- skyriaus pirmininko 
- teisėjo 
-
-
-
-
- 1. 
- Lietuvos Aukščiausiasis Teismas 
- 17,67 
- – 
- 16,45 
- 15,63 
-
-
- 2. 
- Lietuvos vyriausiasis administracinis teismas 
- 17,01 
- 16,07 
- – 
- 15,23 
-
-
- 3. 
- Lietuvos apeliacinis teismas 
- 16,45 
- – 
- 15,63  
- 14,98 
-
-
- 4. 
- Apygardų teismai 
- 15,63 
- – 
- 14,98 
- 14 
-
-
- 5. 
- Apygardų administraciniai teismai 
- 15,63 
- 14,98 
- – 
- 14 
-
-
- 6. 
- Apylinkių teismai: 
-   
-   
-   
-   
-
-
- 6.1. 
- kuriuose dirba 15 ir daugiau teisėjų 
- 14,41 
- 13,02 
- – 
- 11,56 
-
-
- 6.2. 
- kuriuose dirba 14 ir mažiau teisėjų 
- 13,6 
- 12,45 
- – 
- 11,56 
-
-
-
- 
- 
-Priedėlio redakcija nuo 2013-10-01:
-
-
 Lietuvos Respublikos 
 teisėjų atlyginimų įstatymo 
 priedėlis
  
+
+
 I. LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMAI
  
 (Baziniais dydžiais)
@@ -322,6 +208,10 @@ I. LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO TEISĖJŲ ATLYGINIMAI
 
 
  
+
+
+
+
 II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALGOS
  
 (Baziniais dydžiais)
@@ -383,27 +273,11 @@ II. BENDROSIOS KOMPETENCIJOS IR SPECIALIZUOTŲ TEISMŲ TEISĖJŲ PAREIGINĖS ALG
 
 
  6. 
- Apylinkių teismai: 
-   
-   
-   
-   
-
-
- 6.1. 
- kuriuose dirba 15 ir daugiau teisėjų 
- 17,7 
- 16 
+ Apylinkių teismai 
+ 18,2 
+ 17,2 
  – 
- 14,2 
-
-
- 6.2. 
- kuriuose dirba 14 ir mažiau teisėjų 
- 16,7 
- 15,3 
- – 
- 14,2 
+ 16,2 
 
 
 
@@ -421,6 +295,7 @@ Nr. XII-112, 2012-12-20, Žin., 2012, Nr. 155-7990 (2012-12-31), i. k. 1121010IS
 Nr. XII-113, 2012-12-20, Žin., 2012, Nr. 155-7991 (2012-12-31), i. k. 1121010ISTA0XII-113
 Nr. XII-518, 2013-09-19, Žin., 2013, Nr. 102-5027 (2013-09-28), i. k. 1131010ISTA0XII-518
 Nr. XII-519, 2013-09-19, Žin., 2013, Nr. 102-5028 (2013-09-28), i. k. 1131010ISTA0XII-519
+Nr. XIII-1689, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20188
  
  
  
@@ -485,3 +360,8 @@ Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-519, 2013-09-19, Žin., 2013, Nr. 102-5028 (2013-09-28), i. k. 1131010ISTA0XII-519
 Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymo 2 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1689, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20188
+Lietuvos Respublikos teisėjų atlyginimų įstatymo Nr. X-1771 priedėlio pakeitimo įstatymas
