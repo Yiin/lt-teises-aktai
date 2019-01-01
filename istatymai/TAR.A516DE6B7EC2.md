@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS ENERGIJOS IŠTEKLIŲ RINKOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2018-05-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-05-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 63-3164, i. k. 1121010ISTA0XI-2023
  
@@ -70,10 +70,11 @@ Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010IST
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Energijos išteklių birža – centralizuota prekybos energijos ištekliais sistema, kurioje yra centralizuotai prekiaujama biokuru, gamtinėmis dujomis ir (ar) pagalbiniais apsaugos nuo energijos kainų svyravimo instrumentais. 
+1. Energijos išteklių birža – centralizuota prekybos energijos ištekliais sistema, kurioje yra centralizuotai prekiaujama biokuru ir (ar) pagalbiniais apsaugos nuo energijos kainų svyravimo instrumentais. 
 Straipsnio dalies pakeitimai:
 Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
 Nr. XII-1432, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20609
+Nr. XIII-1785, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21230
  
 
 
@@ -155,7 +156,10 @@ Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010IST
 
 
 
-5) užtikrinti gamtinių dujų tiekimo ir prekybos diferencijavimą – sudaryti teisines sąlygas efektyviai prekiauti gamtinėmis dujomis;
+5) nustatyti bendruosius prekybos gamtinėmis dujomis principus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1785, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21230
+ 
 
 
 
@@ -410,11 +414,12 @@ Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
  
 
 
-1. Energijos išteklių biržos operatorius šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka administruoja energijos išteklių biržą ir organizuoja centralizuotą prekybą biokuru, gamtinėmis dujomis ir (ar) pagalbiniais instrumentais energijos išteklių biržoje ir Šilumos ūkio įstatyme nustatyta tvarka organizuoja šilumos aukcionus. 
+1. Energijos išteklių biržos operatorius šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka administruoja energijos išteklių biržą ir organizuoja centralizuotą prekybą biokuru ir (ar) pagalbiniais instrumentais energijos išteklių biržoje ir Šilumos ūkio įstatyme nustatyta tvarka organizuoja šilumos aukcionus. 
 Straipsnio dalies pakeitimai:
 Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
 Nr. XII-1432, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20609
 Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
+Nr. XIII-1785, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21230
  
 
 
@@ -576,9 +581,10 @@ Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
 2. Energijos išteklių biržos operatorius:
 
 
-1) administruoja ir organizuoja energijos išteklių biržą, kurioje centralizuotai prekiaujama biokuru, gamtinėmis dujomis ir pagalbiniais instrumentais;
+1) administruoja ir organizuoja energijos išteklių biržą, kurioje centralizuotai prekiaujama biokuru ir (ar) pagalbiniais instrumentais;
 Straipsnio punkto pakeitimai:
 Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010ISTA0XII-493
+Nr. XIII-1785, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21230
  
 
 
@@ -904,7 +910,7 @@ PREKYBA GAMTINĖMIS DUJOMIS
 22 straipsnis. Prekybos gamtinėmis dujomis bendrieji principai
 
 
-1. Prekyba gamtinėmis dujomis vykdoma prekiaujant energijos išteklių biržoje, kitose gamtinių dujų biržose, dvišalių pirkimo–pardavimo sutarčių pagrindu ir (ar) kitais būdais Vyriausybės ar jos įgaliotos institucijos patvirtintose Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka.
+1. Prekyba gamtinėmis dujomis vykdoma prekiaujant gamtinių dujų biržoje, dvišalių pirkimo–pardavimo sutarčių pagrindu ir (ar) kitais būdais šiame įstatyme, Gamtinių dujų įstatyme, Prekybos gamtinėmis dujomis taisyklėse, patvirtintose Vyriausybės ar jos įgaliotos institucijos, ir gamtinių dujų biržos operatoriaus Prekybos gamtinių dujų biržoje reglamente nustatyta tvarka.
 
 
 
@@ -917,20 +923,15 @@ PREKYBA GAMTINĖMIS DUJOMIS
 
 
 
-23 straipsnis. Prekyba gamtinėmis dujomis energijos išteklių biržoje
+23 straipsnis. Gamtinių dujų, naudojamų šilumos ir elektros gamybai, įsigijimas
 
 
-1. Energijos išteklių biržoje gamtinėmis dujomis prekiaujama šiame įstatyme, Gamtinių dujų įstatyme, Prekybos gamtinėmis dujomis taisyklėse ir Energijos išteklių biržos reglamente nustatyta tvarka.
-
-
-
-
-2. Energijos išteklių biržos dalyviai, turintys teisę prekiauti gamtinių dujų biržoje Gamtinių dujų įstatyme nustatyta tvarka ir ketinantys parduoti gamtines dujas per energijos išteklių biržą, deklaruoja energijos išteklių biržos operatoriui pagal dvišales pirkimo–pardavimo sutartis perkamų gamtinių dujų kiekius, kuriuos ketinama parduoti per energijos išteklių biržą, ir pateikia kitos sutarties šalies rašytinį patvirtinimą. Energijos išteklių biržos dalyvių pateikti duomenys registruojami energijos išteklių biržos duomenų valdymo sistemoje.
+1. Šilumos tiekėjai, reguliuojami nepriklausomi šilumos gamintojai ir bendri šilumos ir elektros energijos gamintojai, kurie per metus reguliuojamai veiklai suvartoja 50 GWh gamtinių dujų ar daugiau, privalo gamtinių dujų biržoje per kalendorinius metus įsigyti ne mažiau kaip 50 procentų reguliuojamai elektros ir (ar) šilumos energijos gamybos veiklai reikalingo gamtinių dujų kiekio. Vertinant šioje dalyje minimų ūkio subjektų metinį gamtinių dujų suvartojimą turi būti įskaičiuojamas ūkio subjekto, įskaitant jo filialus, atstovybes ir (ar) skirtingas gamtinių dujų pristatymo vietas, suvartojamo gamtinių dujų kiekio metinis vidurkis per 2 praėjusius metus.
 
 
 
 
-3. Energijos išteklių biržos dalyvių pateikti duomenys yra konfidencialūs ir gali būti atskleisti tretiesiems asmenims tik teisės aktų nustatyta tvarka, išskyrus duomenis apie perkamų ir parduodamų gamtinių dujų kiekius ir kainas, kurie apibendrintai ir nenurodant biržos sandorio šalių viešai skelbiami energijos išteklių biržos operatoriaus informacinėje sistemoje.
+2. Šio straipsnio 1 dalyje išdėstytas reikalavimas netaikomas šio straipsnio 1 dalyje nurodytoms energetikos įmonėms, jeigu gamtinių dujų biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo gamtinių dujų kiekio ar jo dalies. Trūkstamas gamtinių dujų kiekis gali būti įsigyjamas kitais teisės aktuose reglamentuotais pirkimo būdais.
  
 
 
@@ -941,17 +942,19 @@ PREKYBA GAMTINĖMIS DUJOMIS
 24 straipsnis. Bendradarbiavimas prekiaujant gamtinėmis dujomis
 
 
-1. Energijos išteklių biržos operatorius Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka bendradarbiauja su Komisija ir nedelsdamas Komisijai pateikia su galimai apsimestiniais prekybos gamtinėmis dujomis sandoriais susijusią informaciją ir bet kurią kitą aktualią informaciją, kuri būtų reikalinga gamtinių dujų rinkos priežiūrai vykdyti, ypač susijusią su licencijų ir (ar) leidimų turėtojams nustatytų veiklos sąlygų galimais pažeidimais.
+1. Gamtinių dujų biržos operatorius Prekybos gamtinėmis dujomis taisyklėse ir gamtinių dujų biržos operatoriaus Prekybos gamtinių dujų biržoje reglamente nustatyta tvarka bendradarbiauja su Komisija ir nedelsdamas Komisijai pateikia su galimai apsimestiniais prekybos gamtinėmis dujomis sandoriais susijusią informaciją ir bet kurią kitą aktualią informaciją, kuri būtų reikalinga gamtinių dujų rinkos priežiūrai vykdyti, ypač susijusią su licencijų ir (ar) leidimų turėtojams nustatytų veiklos sąlygų galimais pažeidimais.
 
 
 
 
-2. Energijos išteklių biržos operatorius, gamtinių dujų rinkos operatorius ir gamtinių dujų perdavimo sistemos operatorius pagal kompetenciją teisės aktų nustatyta tvarka ir sąlygomis tarpusavyje bendradarbiauja ir keičiasi visa informacija, kiek tai reikalinga jų funkcijoms tinkamai atlikti, nepažeisdami įstatymuose nustatytų veiklos nepriklausomumo ir atskyrimo reikalavimų. Keisdamiesi informacija, energijos išteklių biržos operatorius, gamtinių dujų rinkos operatorius ir gamtinių dujų perdavimo sistemos operatorius imasi visų pagrįstų priemonių atskirų gamtinių dujų rinkos dalyvių duomenų konfidencialumui užtikrinti ir neatskleidžia jų kitais, negu įstatymuose nustatytais, pagrindais, kiek tai reikalinga energijos išteklių rinkos, gamtinių dujų rinkos ir (ar) valstybės energetinės sistemos reikmėms.
+2. Gamtinių dujų biržos operatorius ir gamtinių dujų perdavimo sistemos operatorius pagal kompetenciją teisės aktų nustatyta tvarka ir sąlygomis tarpusavyje bendradarbiauja ir keičiasi visa informacija, kiek tai reikalinga jų funkcijoms tinkamai atlikti, nepažeisdami įstatymuose nustatytų veiklos nepriklausomumo ir atskyrimo reikalavimų. Keisdamiesi informacija, gamtinių dujų biržos operatorius ir gamtinių dujų perdavimo sistemos operatorius imasi visų pagrįstų priemonių atskirų gamtinių dujų rinkos dalyvių duomenų konfidencialumui užtikrinti ir neatskleidžia jų kitais, negu įstatymuose nustatytais, pagrindais, kiek tai reikalinga gamtinių dujų rinkos ir (ar) valstybės energetinės sistemos reikmėms.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIII-1785, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21230
  
-
-
-
-
 
 
 
@@ -964,12 +967,12 @@ PREKYBA PAGALBINIAIS INSTRUMENTAIS
 25 straipsnis. Prekybos pagalbiniais instrumentais bendrieji principai
 
 
-1. Elektros energijos ar gamtinių dujų rinkos dalyviai gali susitarti dėl pagalbinių instrumentų taikymo ir prekybos jais, sudarydami ilgalaikes pirkimo–pardavimo sutartis, kuriomis susitariama dėl perkamo ir parduodamo elektros energijos ar gamtinių dujų kiekio ir kainos pokyčių valdymo priemonių taikymo per sutartyje nustatytą laikotarpį.
+1. Elektros energijos rinkos dalyviai gali susitarti dėl pagalbinių instrumentų taikymo ir prekybos jais, sudarydami ilgalaikes pirkimo–pardavimo sutartis, kuriomis susitariama dėl perkamo ir parduodamo elektros energijos kiekio ir kainos pokyčių valdymo priemonių taikymo per sutartyje nustatytą laikotarpį.
 
 
 
 
-2. Tais atvejais, kai elektros energija ar gamtinėmis dujomis prekiaujama elektros energijos biržoje ar gamtinių dujų biržoje, šio straipsnio 1 dalyje nurodytos sutartys turi būti sudaromos per energijos išteklių biržą. Kitais atvejais tokias sutartis asmenys savo pasirinkimu sudaro tiesiogiai dvišalio susitarimo pagrindu arba per energijos išteklių biržą.
+2. Tais atvejais, kai elektros energija prekiaujama elektros energijos biržoje, šio straipsnio 1 dalyje nurodytos sutartys turi būti sudaromos per energijos išteklių biržą. Kitais atvejais tokias sutartis asmenys savo pasirinkimu sudaro tiesiogiai dvišalio susitarimo pagrindu arba per energijos išteklių biržą.
 
 
 
@@ -979,7 +982,7 @@ PREKYBA PAGALBINIAIS INSTRUMENTAIS
 
 
 
-4. Pagalbiniais instrumentais prekiaujama atskirai nuo fizinės prekybos elektros energija ar gamtinėmis dujomis.
+4. Pagalbiniais instrumentais prekiaujama atskirai nuo fizinės prekybos elektros energija.
  
 
 
@@ -1000,12 +1003,12 @@ PREKYBA PAGALBINIAIS INSTRUMENTAIS
 
 
 
-3. Energijos išteklių biržos dalyviai, ketinantys prekiauti pagalbiniais instrumentais energijos išteklių biržoje, deklaruoja energijos išteklių biržos operatoriui pagal dvišales pirkimo–pardavimo sutartis ir (ar) elektros energijos biržoje ar gamtinių dujų biržoje perkamus ir parduodamus elektros energijos ar gamtinių dujų kiekius ir pateikia kitos sutarties šalies ar energijos išteklių biržą administruojančio asmens rašytinį patvirtinimą. Energijos išteklių biržos dalyvių pateikti duomenys registruojami energijos išteklių biržos duomenų valdymo sistemoje.
+3. Energijos išteklių biržos dalyviai, ketinantys prekiauti pagalbiniais instrumentais energijos išteklių biržoje, deklaruoja energijos išteklių biržos operatoriui pagal dvišales pirkimo–pardavimo sutartis ir (ar) elektros energijos biržoje perkamus ir parduodamus elektros energijos kiekius ir pateikia kitos sutarties šalies ar energijos išteklių biržą administruojančio asmens rašytinį patvirtinimą. Energijos išteklių biržos dalyvių pateikti duomenys registruojami energijos išteklių biržos duomenų valdymo sistemoje.
 
 
 
 
-4. Energijos išteklių biržos dalyvių pateikti duomenys yra konfidencialūs ir gali būti atskleisti tretiesiems asmenims tik teisės aktų nustatyta tvarka, išskyrus apibendrintus duomenis apie ilgalaikių pirkimo–pardavimo sutarčių, sudaromų per energijos išteklių biržą, pagrindu perkamus ir parduodamus elektros energijos ir gamtinių dujų kiekius ir kainas, kurie apibendrintai ir nenurodant sutarties šalių skelbiami energijos išteklių biržos operatoriaus informacinėje sistemoje.
+4. Energijos išteklių biržos dalyvių pateikti duomenys yra konfidencialūs ir gali būti atskleisti tretiesiems asmenims tik teisės aktų nustatyta tvarka, išskyrus apibendrintus duomenis apie ilgalaikių pirkimo–pardavimo sutarčių, sudaromų per energijos išteklių biržą, pagrindu perkamus ir parduodamus elektros energijos kiekius ir kainas, kurie apibendrintai ir nenurodant sutarties šalių skelbiami energijos išteklių biržos operatoriaus informacinėje sistemoje.
 
 
 
@@ -1021,17 +1024,19 @@ PREKYBA PAGALBINIAIS INSTRUMENTAIS
 27 straipsnis. Bendradarbiavimas prekiaujant pagalbiniais instrumentais
 
 
-1. Energijos išteklių biržos operatorius, elektros energijos biržą ir gamtinių dujų biržą administruojantys asmenys, taip pat elektros energijos ir gamtinių dujų perdavimo sistemų operatoriai pagal kompetenciją teisės aktų nustatyta tvarka tarpusavyje bendradarbiauja ir keičiasi visa informacija, kiek tai reikalinga jų funkcijoms tinkamai atlikti, nepažeisdami įstatymuose nustatytų veiklos nepriklausomumo ir atskyrimo reikalavimų.
+1. Energijos išteklių biržos operatorius, elektros energijos biržą administruojantys asmenys, taip pat elektros energijos perdavimo sistemų operatorius pagal kompetenciją teisės aktų nustatyta tvarka tarpusavyje bendradarbiauja ir keičiasi visa informacija, kiek tai reikalinga jų funkcijoms tinkamai atlikti, nepažeisdami įstatymuose nustatytų veiklos nepriklausomumo ir atskyrimo reikalavimų.
 
 
 
 
-2. Keisdamiesi informacija šiame straipsnyje nustatytais tikslais ir mastu, energijos išteklių biržos operatorius, elektros energijos biržą ir gamtinių dujų biržą administruojantys asmenys, taip pat elektros energijos ir gamtinių dujų perdavimo sistemų operatoriai imasi visų pagrįstų priemonių gaunamų duomenų konfidencialumui užtikrinti ir neatskleidžia jų kitais, negu įstatymuose nustatytais, pagrindais, kiek tai reikalinga energijos išteklių rinkos, elektros energijos rinkos, gamtinių dujų rinkos ir (ar) valstybės energetinės sistemos reikmėms.
+2. Keisdamiesi informacija šiame straipsnyje nustatytais tikslais ir mastu, energijos išteklių biržos operatorius, elektros energijos biržą administruojantys asmenys, taip pat elektros energijos operatorius imasi visų pagrįstų priemonių gaunamų duomenų konfidencialumui užtikrinti ir neatskleidžia jų kitais, negu įstatymuose nustatytais, pagrindais, kiek tai reikalinga energijos išteklių rinkos, elektros energijos rinkos ir (ar) valstybės energetinės sistemos reikmėms.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIII-1785, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21230
  
-
-
-
-
 
 
 
@@ -1182,3 +1187,8 @@ Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 1 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
 Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 1, 2, 10, 13 ir 16 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1785, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21230
+Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 2, 3, 10, 13 straipsnių, šeštojo ir septintojo skirsnių pakeitimo įstatymas
