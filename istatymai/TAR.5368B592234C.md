@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2018-07-16 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-11-13
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
  
@@ -246,12 +246,18 @@ PRIEŽIŪROS INSTITUCIJOS
 
 
 
-2. Valstybinės duomenų apsaugos inspekcijos direktoriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis teisės bakalauro ir teisės magistro arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą) ir ne mažesnį kaip 10 metų teisinio arba teisinio pedagoginio darbo stažą ir atitinkantis Reglamento (ES) 2016/679 53 straipsnio 2 dalyje nustatytus reikalavimus. Nepriekaištingos reputacijos reikalavimai taikomi tokie, kokie valstybės tarnautojams nustatyti Lietuvos Respublikos valstybės tarnybos įstatyme.
+2. Valstybinės duomenų apsaugos inspekcijos direktoriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis teisės bakalauro ir teisės magistro arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą) ir ne mažesnį kaip 10 metų teisinio arba teisinio pedagoginio darbo stažą ir atitinkantis Reglamento (ES) 2016/679 53 straipsnio 2 dalyje nustatytus reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1791, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21119
+ 
 
 
 
 
-3. Valstybinės duomenų apsaugos inspekcijos direktorius yra valstybės pareigūnas – įstaigos vadovas, kurį į pareigas 4 metų kadencijai priima ir iš pareigų atleidžia Vyriausybė Lietuvos Respublikos Vyriausybės įstatymo nustatyta tvarka. Valstybinės duomenų apsaugos inspekcijos direktorius yra atskaitingas Vyriausybei ir Lietuvos Respublikos teisingumo ministrui. 
+3. Valstybinės duomenų apsaugos inspekcijos direktorius yra valstybės tarnautojas – įstaigos vadovas. Valstybinės duomenų apsaugos inspekcijos direktorius yra atskaitingas Vyriausybei ir Lietuvos Respublikos teisingumo ministrui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1791, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21119
+ 
 
 
 
@@ -279,7 +285,14 @@ PRIEŽIŪROS INSTITUCIJOS
 
 
 
-4) nebeatitinka šio straipsnio 2 ir 4 dalyse nustatytų reikalavimų. 
+4) nebeatitinka šio straipsnio 2 ir 4 dalyse nustatytų reikalavimų.;
+
+
+
+
+5) kai jam sukanka 65 metai.
+Papildyta straipsnio punktu:
+Nr. XIII-1791, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21119
  
 
 
@@ -1289,3 +1302,8 @@ Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 41 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1426, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11733
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1791, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21119
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 9 straipsnio pakeitimo įstatymas
