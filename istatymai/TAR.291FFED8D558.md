@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.291FFED8D558"
 
 # Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymas
 
-Suvestinė redakcija nuo 2015-12-03 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 61-2183, i. k. 1041010ISTA0IX-2127
  
@@ -387,7 +387,10 @@ FINANSINIO UŽTIKRINIMO SUSITARIMAI
 
 
 
-6. Kai kredito reikalavimai pateikiami kaip finansinis užstatas, tokio finansinio užstato tinkamumas, pirmenybė, įvykdomumas ar leistinumas skolininko ir (arba) trečiųjų asmenų atžvilgiu nustatomi vadovaujantis pranešimu, Civilinio kodekso 1.65 straipsnyje numatytu viešu skelbimu, arba kai kredito reikalavimas pateikiamas kaip finansinis užstatas Lietuvos bankui arba kitų valstybių narių centriniams bankams, – viešu skelbimu Lietuvos banko interneto svetainėje. Šiame pranešime ar skelbime turi būti pateikta informacija, pagal kurią skolininkas galėtų identifikuoti kaip finansinis užstatas pateikiamą kredito reikalavimą, finansinio užstato davėją ir finansinio užstato gavėją.
+6. Kai kredito reikalavimai pateikiami kaip finansinis užstatas, tokio finansinio užstato tinkamumas, pirmenybė, įvykdomumas ar leistinumas skolininko ir (arba) trečiųjų asmenų atžvilgiu nustatomi vadovaujantis pranešimu, Civilinio kodekso 1.65 straipsnyje numatytu viešu skelbimu. Šiame pranešime ar skelbime turi būti pateikta informacija, pagal kurią skolininkas galėtų identifikuoti kaip finansinis užstatas pateikiamą kredito reikalavimą, finansinio užstato davėją ir finansinio užstato gavėją. Tačiau kai kredito reikalavimai kaip finansinis užstatas yra pateikiami Lietuvos bankui, kitų Europos Sąjungos valstybių narių centriniams bankams, Europos Centriniam Bankui, Lietuvos Respublikoje įsteigtiems bankams, užsienio bankų filialams, centrinėms kredito unijoms arba kredito unijoms arba kai šį finansinį užstatą pateikia Lietuvos bankas, kitų Europos Sąjungos valstybių narių centriniai bankai, Europos Centrinis Bankas, Lietuvos Respublikoje įsteigti bankai, užsienio bankų filialai, centrinės kredito unijos arba kredito unijos, tokio finansinio užstato tinkamumas, pirmenybė, įvykdomumas ar leistinumas skolininko ir (arba) trečiųjų asmenų atžvilgiu nustatomi vadovaujantis fakto, kad šis kredito reikalavimas pateiktas kaip finansinis užstatas, registravimu Lietuvos banko tvarkomoje Paskolų rizikos duomenų bazėje, nurodant informaciją, pagal kurią galima identifikuoti kaip finansinis užstatas pateikiamą kredito reikalavimą, jo pateikimo laiką, finansinio užstato davėją ir finansinio užstato gavėją, taip pat kitą Lietuvos banko tvarkomos Paskolų rizikos duomenų bazės veiklą reglamentuojančiuose teisės aktuose nurodytą informaciją. Informacija apie Lietuvos banko tvarkomoje Paskolų rizikos duomenų bazėje registruotus kredito reikalavimų kaip finansinio užstato pateikimo faktus Lietuvos banko nustatyta tvarka gali būti teikiama šio įstatymo 3 straipsnio 2 dalyje nurodytiems subjektams, skolininkams, taip pat valstybės institucijoms, kai ši teisė numatyta jų veiklą reglamentuojančiuose teisės aktuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1252, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09920
+ 
 
 
 
@@ -755,8 +758,12 @@ Ieškiniams dėl vienašalio finansinio užstato realizavimo priverstinio vykdym
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
+ 
+ 
 LAIKINAI EINANTIS
-RESPUBLIKOS PREZIDENTO PAREIGAS                                      ARTŪRAS PAULAUSKAS
+RESPUBLIKOS PREZIDENTO PAREIGAS                                    ARTŪRAS PAULAUSKAS
+ 
+ 
 
 
  
@@ -765,6 +772,7 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
 
 
  
+ 
  
 Lietuvos Respublikos 
 finansinio užtikrinimo susitarimų
@@ -804,3 +812,8 @@ Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2061, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19172
 Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo Nr. IX-2127 3 straipsnio ir priedo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1252, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09920
+Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo Nr. IX-2127 5 straipsnio pakeitimo įstatymas
