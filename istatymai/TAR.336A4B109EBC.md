@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2018-11-17 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -383,7 +383,10 @@ Tepadeda man Dievas.“;
 
 2. Valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos, jų pareigūnai ne vėliau kaip per 3 dienas privalo apsvarstyti rinkimų komisijų pateiktus prašymus ir duoti rinkimų komisijoms motyvuotus atsakymus.
 
-3. Savivaldybės rinkimų komisijos pirmininkas turi teisę sudaryti darbo sutartis su darbuotojais, reikalingais pagalbiniams rinkimų organizavimo darbams atlikti. Šias darbo sutartis savivaldybės rinkimų komisijos pirmininkas sudaro Vyriausiosios rinkimų komisijos vardu pagal įgaliojimą. Atlyginimo už darbą rinkimų komisijose tvarką ir atlyginimo dydžius Vyriausiosios rinkimų komisijos teikimu tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė).
+3. Savivaldybės rinkimų komisijos pirmininkas turi teisę sudaryti terminuotas darbo sutartis su darbuotojais, reikalingais pagalbiniams rinkimų organizavimo darbams atlikti. Šias darbo sutartis savivaldybės rinkimų komisijos pirmininkas sudaro Vyriausiosios rinkimų komisijos vardu pagal įgaliojimą. Šių darbuotojų darbo užmokestis nustatomas terminuotoje darbo sutartyje pagal Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatyme nustatytus darbo apmokėjimo dydžius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1778, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21114
+ 
 
 4. Savivaldybės prašymu valstybės įstaigos ir kitos organizacijos suteikia rinkimų komisijoms rinkimams organizuoti ir vykdyti tinkamas patalpas, įrangą, kompiuterinę techniką ir interneto ryšį. Rinkimams suteikiamos balsavimo patalpos ir patekimas į jas turi būti tinkami judėjimo, regėjimo negalią turintiems ir senyvo amžiaus rinkėjams.
 
@@ -416,11 +419,26 @@ Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
 
 21 straipsnis. Rinkimų komisijų narių darbo apmokėjimas
 
-1. Rinkimų komisijų pirmininkai, pirmininkų pavaduotojai, rinkimų komisijų sekretoriai ir nariai už darbą rinkimų komisijose gauna atlyginimą pagal Vyriausiosios rinkimų komisijos pateiktus ir Vyriausybės patvirtintus tarifus.
+1. Už darbo dieną rinkimų komisijose nustatomas atlyginimas pagal šiuos tarifus:
 
-2. Rinkimų komisijų pirmininkams, pirmininkų pavaduotojams, rinkimų komisijų sekretoriams ir nariams už darbą rinkimų komisijose apmokama pagal darbo laiko apskaitos žiniaraščių duomenis neviršijant atitinkamai rinkimų komisijai numatytų asignavimų darbo užmokesčiui. Darbo laiko apskaitos žiniaraščių rinkimų komisijose pildymo tvarką nustato Vyriausioji rinkimų komisija. Už darbo laiko apskaitos žiniaraščiuose pateiktų duomenų teisingumą atsako atitinkamos rinkimų komisijos pirmininkas. Darbui rinkimų komisijose netaikomi Lietuvos Respublikos darbo kodekse nustatyti darbo trukmės apribojimai.
+1) savivaldybių rinkimų komisijų pirmininkams – 0,31 Lietuvos Respublikos Seimo patvirtinto atitinkamų metų pareiginės algos (atlyginimo) bazinio dydžio, kuris taikomas apskaičiuojant valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų, valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareigines algas (toliau – pareiginės algos bazinis dydis);
 
-3. Rinkimų komisijų pirmininkų, pirmininko pavaduotojų, rinkimų komisijų sekretorių ir narių skatinimo tvarkos aprašą Vyriausiosios rinkimų komisijos teikimu tvirtina Vyriausybė.
+2) savivaldybių rinkimų komisijų pirmininkų pavaduotojams, komisijų sekretoriams ir komisijų nariams – 0,25 pareiginės algos bazinio dydžio;
+
+3) apylinkių rinkimų komisijų pirmininkams – 0,25 pareiginės algos bazinio dydžio; 
+
+4) apylinkių rinkimų komisijų pirmininkų pavaduotojams, komisijų sekretoriams ir komisijų nariams – 0,2 pareiginės algos bazinio dydžio.
+
+2. Rinkimų komisijų pirmininkams, pirmininkų pavaduotojams, rinkimų komisijų sekretoriams ir nariams už darbą rinkimų komisijose atlyginama pagal darbo laiko apskaitos žiniaraščių duomenis, neviršijant atitinkamai rinkimų komisijai numatytų asignavimų darbo užmokesčiui. Darbo laiko apskaitos žiniaraščių rinkimų komisijose pildymo tvarką nustato Vyriausioji rinkimų komisija. Už darbo laiko apskaitos žiniaraščiuose pateiktų duomenų teisingumą atsako atitinkamos rinkimų komisijos pirmininkas. Darbui rinkimų komisijose netaikomi Lietuvos Respublikos darbo kodekse nustatyti darbo trukmės ribojimai.
+
+3. Rinkimų komisijų nariai, pirmininkai, pirmininko pavaduotojai ir komisijų sekretoriai už labai gerą darbą rinkimų komisijose gali būti skatinami vienkartine pinigine išmoka. Ši išmoka negali būti didesnė kaip 100 procentų per visą darbo rinkimų komisijose laikotarpį gautų mėnesinių atlyginimų vidurkio, neviršijant atitinkamos komisijos išlaidų sąmatoje skatinimui numatytų lėšų. Vienkartinės piniginės išmokos dydis nustatomas atsižvelgiant į atlikto darbo mastą, kokybę ir sudėtingumą.
+
+4. Sprendimą dėl savivaldybių rinkimų komisijų pirmininkų skatinimo priima Vyriausioji rinkimų komisija, atsižvelgdama į jų atliktą darbą organizuojant ir vykdant rinkimus ir atsiskaitymą už komisijoms skirtų lėšų panaudojimą. Savivaldybių rinkimų komisijų pirmininkų pavaduotojai, komisijų nariai ir komisijų sekretoriai gali būti skatinami vienkartine pinigine išmoka Vyriausiosios rinkimų komisijos sprendimu, jeigu yra savivaldybės rinkimų komisijos pirmininko teikimas.
+
+5. Sprendimus dėl apylinkių rinkimų komisijų pirmininkų skatinimo priima savivaldybių rinkimų komisijos, atsižvelgdamos į jų atliktą darbą organizuojant ir vykdant rinkimus. Apylinkių rinkimų komisijų pirmininkų pavaduotojai, komisijų nariai ir komisijų sekretoriai gali būti skatinami vienkartine pinigine išmoka atitinkamos savivaldybės rinkimų komisijos sprendimu, jeigu yra apylinkės rinkimų komisijos pirmininko teikimas. 
+
+Straipsnio pakeitimai:
+Nr. XIII-1778, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21114
  
 
 22 straipsnis. Rinkimų komisijos sudėties keitimas
@@ -502,7 +520,10 @@ Rinkimų apylinkės rinkėjų sąrašą pagal savivaldybės rinkėjų sąrašą 
 
 28 straipsnis. Rinkėjo kortelė
 
-1. Rinkėjo kortelė yra informacinė pažyma rinkėjui apie rinkimus, vardinis pakvietimas dalyvauti rinkimuose. Rinkėjo korteles kartu su kita informacija apie rinkimus rinkėjams perduoda ar organizuoja jų perdavimą rinkimų komisijos. Savo rinkėjo kortelę gali išsispausdinti ar surašyti ir pats rinkėjas arba jo prašymu kitas asmuo pagal Lietuvos Respublikos rinkėjų sąrašo duomenis, gautus Vyriausiosios rinkimų komisijos nustatyta tvarka elektroninių ryšių priemonėmis (internetu ar mobiliojo ryšio tekstine žinute). Šiuo atveju rinkėjo kortelę pasirašo pats rinkėjas, išskyrus atvejus, kai dėl fizinio trūkumo rinkėjas pats pasirašyti negali ir rinkėjo kortelę pasirašo kitas rinkėjo pasirinktas asmuo, nurodydamas savo vardą, pavardę ir asmens kodą. Rinkėjo kortelių blankus, kuriuos rinkėjas gali užpildyti pats, platina rinkimų komisijos. Rinkėjo kortelė būtina tik tais atvejais, kai rinkėjas balsuoja ne rinkimų dieną ne rinkimų apylinkėje.
+1. Rinkėjo kortelė yra informacinė pažyma rinkėjui apie rinkimus, vardinis pakvietimas dalyvauti rinkimuose. Rinkėjo korteles kartu su kita informacija apie rinkimus rinkėjams perduoda ar jų perdavimą organizuoja rinkimų komisijos. Savo rinkėjo kortelę gali išsispausdinti ar surašyti ir pats rinkėjas arba jo prašymu kitas asmuo pagal Lietuvos Respublikos rinkėjų sąrašo duomenis, gautus Vyriausiosios rinkimų komisijos nustatyta tvarka elektroninių ryšių priemonėmis (internetu ar mobiliojo ryšio tekstine žinute). Šiuo atveju rinkėjo kortelę pasirašo pats rinkėjas, išskyrus atvejus, kai dėl neįgalumo ar kitokių priežasčių rinkėjas pats pasirašyti negali ir rinkėjo kortelę pasirašo kitas rinkėjo pasirinktas asmuo, nurodydamas savo vardą, pavardę ir asmens kodą. Rinkėjo kortelių blankus, kuriuos rinkėjas gali užpildyti pats, platina rinkimų komisijos. Rinkėjo kortelė būtina tik tais atvejais, kai rinkėjas balsuoja ne rinkimų dieną ne rinkimų apylinkėje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1778, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21114
+ 
 
 2. Rinkėjo kortelėje nurodoma:
 
@@ -734,9 +755,10 @@ Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
 
 7. Rinkėjų parašų rinkimo lapo apačioje turi būti nurodyta rinkėjų parašus rinkusio asmens vardas ir pavardė, paso ar asmens tapatybės kortelės, ar teisę nuolat gyventi Lietuvos Respublikoje patvirtinančio dokumento numeris, gyvenamosios vietos adresas, parašas ir parašo data.
 
-8. Partija, rinkimų komitetas, išsikėlęs kandidatas į savivaldybės tarybos narius – merus, gavę rinkėjų parašų rinkimo lapus, turi teisę per visuomenės informavimo priemones daryti atitinkamus pranešimus ir organizuoti rinkėjų parašų rinkimą. Rinkėjas visus savo duomenis ir pasirašymo datą rinkėjų parašų rinkimo lape įrašo pats ir pasirašo. Jeigu rinkėjas dėl fizinio trūkumo negali savo duomenų pats įrašyti ir pasirašyti, jo prašymu tai padaro kitas rinkėjas (išskyrus asmenį, renkantį parašus). Šis faktas turi būti pažymėtas atitinkamu įrašu rinkėjų parašų rinkimo lape ir patvirtintas rinkėjų parašus rinkusio rinkėjo parašu. Renkant rinkėjų parašus, draudžiama papirkti rinkėjus, atsilyginti ar žadėti atsilyginti už rinkėjo parašą, naudoti psichologinį ar kitokį smurtą ar kitaip paveikti rinkėjo valią pasirašyti ar nepasirašyti parašų rinkimo lape. Partija, rinkimų komitetas, išsikėlęs kandidatas į savivaldybės tarybos narius – merus rinkėjų parašų rinkimo lapus (taip pat ir nepanaudotus) ne vėliau kaip iki rinkimų dienos likus 45 dienoms privalo grąžinti savivaldybės rinkimų komisijai. Savivaldybės rinkimų komisija surašo rinkėjų parašų rinkimo lapų grąžinimo aktą. 
+8. Partija, rinkimų komitetas, išsikėlęs kandidatas į savivaldybės tarybos narius – merus, gavę rinkėjų parašų rinkimo lapus, turi teisę per visuomenės informavimo priemones daryti atitinkamus pranešimus ir organizuoti rinkėjų parašų rinkimą. Rinkėjas visus savo duomenis ir pasirašymo datą rinkėjų parašų rinkimo lape įrašo pats ir pasirašo. Jeigu rinkėjas dėl neįgalumo ar kitokių priežasčių negali savo duomenų pats įrašyti ir pasirašyti, jo prašymu tai padaro kitas rinkėjas (išskyrus asmenį, renkantį parašus). Šis faktas turi būti pažymėtas atitinkamu įrašu rinkėjų parašų rinkimo lape ir patvirtintas rinkėjų parašus rinkusio rinkėjo parašu. Renkant rinkėjų parašus, draudžiama papirkti rinkėjus, atsilyginti ar žadėti atsilyginti už rinkėjo parašą, naudoti psichologinį ar kitokį smurtą ar kitaip paveikti rinkėjo valią pasirašyti ar nepasirašyti parašų rinkimo lape. Partija, rinkimų komitetas, išsikėlęs kandidatas į savivaldybės tarybos narius – merus rinkėjų parašų rinkimo lapus (taip pat ir nepanaudotus) ne vėliau kaip iki rinkimų dienos likus 45 dienoms privalo grąžinti savivaldybės rinkimų komisijai. Savivaldybės rinkimų komisija surašo rinkėjų parašų rinkimo lapų grąžinimo aktą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
+Nr. XIII-1778, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21114
  
 
 9. Savivaldybės rinkimų komisija, gavusi rinkėjų parašų rinkimo lapus, ne vėliau kaip per 6 dienas juos patikrina ir suskaičiuoja šios savivaldybės rinkėjų šio įstatymo reikalavimus atitinkančių parašų skaičių. Rinkimų teisės neturinčių asmenų parašai, į tos savivaldybės rinkėjų sąrašą neįrašytų rinkėjų parašai, rinkėjų, neįrašiusių visų šio įstatymo nustatytų duomenų ar įrašiusių neteisingus duomenis, parašai, taip pat rinkėjų, už to paties kandidato parėmimą pasirašiusių daugiau kaip vieną kartą, visi parašai neskaičiuojami. 
@@ -939,14 +961,17 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
  
 
-6. Kandidato į savivaldybės tarybos narius – merus programą, kandidatų sąrašo rinkimų programą Vyriausiosios rinkimų komisijos nustatyta tvarka paskelbia savivaldybės rinkimų komisija per 20 dienų nuo šių programų pateikimo. Rinkimų programa, kuri savivaldybės rinkimų komisijai pateikta pavėluotai ir dėl to nebuvo paskelbta, negali būti skelbiama rinkimų agitacijos draudimo laikotarpiu ir po rinkimų.
+6. Kandidato į savivaldybės tarybos narius – merus programą, kandidatų sąrašo rinkimų programą Vyriausiosios rinkimų komisijos nustatyta tvarka paskelbia savivaldybės rinkimų komisija. Rinkimų programa, kuri savivaldybės rinkimų komisijai pateikta pavėluotai ir dėl to nebuvo paskelbta, negali būti skelbiama rinkimų agitacijos draudimo laikotarpiu ir po rinkimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1851, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21885
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
  
 
-7. Kandidato į savivaldybės tarybos narius – merus programą, kandidatų sąrašo rinkimų programą Vyriausiosios rinkimų komisijos nustatyta tvarka paskelbia savivaldybės rinkimų komisija. Rinkimų programa, kuri savivaldybės rinkimų komisijai pateikta pavėluotai ir dėl to nebuvo paskelbta, negali būti skelbiama rinkimų agitacijos draudimo laikotarpiu ir po rinkimų. 
+7. Rinkimų programų spausdinimo tvarką nustato Vyriausioji rinkimų komisija. Kandidatų į savivaldybės tarybos narius – merus, kandidatų sąrašo rinkimų programos rinkimų agitacijos draudimo laikotarpiu ir po rinkimų dienos neskelbiamos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
+Nr. XIII-1851, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21885
  
 
 8. Išorinė politinė reklama šiame įstatyme suprantama kaip vaizdo ar garso priemonėmis viešai skleidžiama politinė reklama. Išorine politine reklama taip pat laikoma politinė reklama, skelbiama viešose vietose, pastatuose, transporto priemonėse.
@@ -961,7 +986,10 @@ Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
 
 1) ant statinių, kuriuose yra valstybės valdžios, teisėsaugos, kitos valstybės ir savivaldybių institucijos ir įstaigos;
 
-2) valstybės ar savivaldybių kontroliuojamų įmonių naudojamose viešojo transporto priemonėse ir ant jų, išskyrus atvejus, kai reklamos plotai ar vaizdo transliavimo įrenginiai priklauso ar yra perduoti naudotis tretiesiems asmenims, kuriems valstybės ar savivaldybių įmonės negali daryti tiesioginio ar netiesioginio lemiamo poveikio;
+2) valstybės ar savivaldybių valdomų įmonių naudojamose viešojo transporto priemonėse ir ant jų, išskyrus atvejus, kai reklamos plotai ar vaizdo transliavimo įrenginiai priklauso ar yra perduoti naudotis tretiesiems asmenims, kuriems valstybės ar savivaldybių valdomos įmonės negali daryti tiesioginio ar netiesioginio lemiamo poveikio; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1851, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21885
+ 
 
 3) automobilių keliuose ir jų sanitarinės apsaugos zonose, taip pat gatvėse ir prie jų, jeigu ji gali užstoti technines eismo reguliavimo priemones, kelio ženklus, pabloginti matomumą, akinti eismo dalyvius, atitraukti jų dėmesį ir taip kelti pavojų eismo dalyviams; taip pat draudžiama naudoti reklamą, imituojančią kelio ženklus;
 
@@ -1186,7 +1214,10 @@ Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
 
 3. Užpildytus rinkimų biuletenius rinkėjas pats įmeta į balsadėžę.
 
-4. Jeigu rinkėjas dėl fizinio trūkumo negali pats atlikti šiame straipsnyje nurodytų veiksmų, jo prašymu rinkimų biuletenius užpildo pasirinktas kitas asmuo. Šis asmuo privalo rinkimų biuletenius užpildyti rinkėjo akivaizdoje ir pagal jo nurodymą, išsaugoti balsavimo paslaptį ir rinkėjo akivaizdoje įmesti biuletenius į balsadėžę. Komisijos nariams, rinkimų stebėtojams ir atstovams rinkimams draudžiama atlikti balsavimo veiksmus už fizinį trūkumą turintį rinkėją.
+4. Jeigu rinkėjas dėl neįgalumo ar kitokių priežasčių negali pats atlikti šiame straipsnyje nurodytų veiksmų, jo prašymu rinkimų biuletenius užpildo pasirinktas kitas asmuo. Šis asmuo privalo rinkimų biuletenius užpildyti rinkėjo akivaizdoje ir pagal jo nurodymą, išsaugoti balsavimo paslaptį ir rinkėjo akivaizdoje įmesti biuletenius į balsadėžę. Komisijos nariams, rinkimų stebėtojams ir atstovams rinkimams draudžiama atlikti balsavimo veiksmus už neįgalumą turintį ar dėl kitokių priežasčių negalintį atlikti balsavimo veiksmų rinkėją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1778, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21114
+ 
 
 5. Sugadinti rinkimų biuleteniai į apskaitą įtraukiami ir laikomi atskirai.
  
@@ -1217,7 +1248,10 @@ Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
 
 7. Užklijuotą išorinį balsavimo voką (su jame esančiais rinkėjo kortele, vidiniu balsavimo voku ir rinkimų biuleteniais) rinkėjas įteikia apylinkės rinkimų komisijos nariui, išdavusiam jam rinkimų dokumentus. Šis, gavęs rinkėjo įteiktą voką, šį voką rinkėjo akivaizdoje užklijuoja specialiu ženklu ir išduoda rinkėjui šio voko priėmimo kvitą.
 
-8. Šio straipsnio 6 ir 7 dalyse nurodytus veiksmus rinkėjas atlieka pats. Jeigu rinkėjas dėl fizinio trūkumo šių veiksmų negali atlikti pats, jo prašymu juos atlieka rinkėjo pasirinktas asmuo. Šis asmuo rinkimų biuletenius privalo užpildyti rinkėjo akivaizdoje, pagal jo nurodymą ir išsaugoti balsavimo paslaptį.
+8. Šio straipsnio 6 ir 7 dalyse nurodytus veiksmus rinkėjas atlieka pats. Jeigu rinkėjas dėl neįgalumo ar kitokių priežasčių šių veiksmų negali atlikti pats, jo prašymu juos atlieka rinkėjo pasirinktas asmuo. Šis asmuo rinkimų biuletenius privalo užpildyti rinkėjo akivaizdoje, pagal jo nurodymą ir išsaugoti balsavimo paslaptį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1778, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21114
+ 
 
 9. Komisijos nariams, rinkimų stebėtojams draudžiama už rinkėjus atlikti šio straipsnio 6 ir 7 dalyse nurodytus veiksmus, taip pat priimti iš rinkėjų neužklijuotus išorinius balsavimo vokus, išduoti rinkėjams rinkimų dokumentus kitose vietose ir kitiems asmenims, negu nustatyta šio įstatymo 66, 67 ir 68 straipsniuose. 
 
@@ -1237,7 +1271,10 @@ Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
 
 2. Balsuoti iš anksto gali rinkėjai, kurie rinkimų dieną negali atvykti balsuoti į rinkimų apylinkę. Rinkėjų balsavimą iš anksto organizuoja savivaldybės rinkimų komisija. Balsavimas iš anksto turi vykti nuo 8 iki 20 valandos paskutinį trečiadienį ir ketvirtadienį iki rinkimų dienos iš anksto parengtose ir balsavimui tinkamose patalpose, esančiose pastate, kuriame yra savivaldybės mero (administracijos direktoriaus) darbo vieta. Rinkimų biuleteniams ir balsavimo vokams išduoti ir priimti balsuojant iš anksto savivaldybės rinkimų komisijos pirmininkas paskiria ne mažiau kaip 2 savivaldybės rinkimų komisijos ar apylinkių rinkimų komisijų narius, kurie negali būti pasiūlyti tos pačios politinės partijos. Balsavimą iš anksto prižiūri savivaldybės rinkimų komisijos pirmininkas ar jo pavedimu savivaldybės rinkimų komisijos narys. Vyriausiosios rinkimų komisijos pirmininkas, jo įgaliotas šios komisijos narys ar savivaldybės rinkimų komisijos pirmininkas, Vyriausiosios rinkimų komisijos nustatyta tvarka nustatę rinkėjų papirkimo ar kitus rinkėjų teises šiurkščiai pažeidžiančius atvejus, privalo sustabdyti balsavimą iš anksto, iki pažeidimai bus pašalinti ir rinkimus bus galima vykdyti laisvai ir demokratiškai pagal šio įstatymo reikalavimus.
 
-3. Rinkėjų prašymai balsuoti namuose pateikiami apylinkių rinkimų komisijoms. Rinkėjų, gyvenančių konkrečios rinkimų apylinkės teritorijoje, prašymai balsuoti namuose pradedami priimti įteikiant jiems rinkėjo korteles ir baigiami priimti paskutinį trečiadienį iki rinkimų dienos. Rinkėjų, kurie laikinai apsistoję konkrečios rinkimų apylinkės teritorijoje ir nėra įrašyti į šios rinkimų apylinkės rinkėjų sąrašą, prašymai balsuoti namuose baigiami priimti paskutinį antradienį iki rinkimų dienos. Rinkėjas, kuris dėl fizinio trūkumo pats negali užpildyti prašymo balsuoti namuose ar jo įteikti apylinkės rinkimų komisijai, gali pavesti šiuos veiksmus už jį atlikti savo šeimos nariui, kaimynui ar juo besirūpinančiam asmeniui arba komisijos nariui. Šie asmenys rinkėjo prašymą pasirašo ir nurodo savo vardą, pavardę ir asmens kodą.
+3. Rinkėjų prašymai balsuoti namuose pateikiami apylinkių rinkimų komisijoms. Rinkėjų, gyvenančių konkrečios rinkimų apylinkės teritorijoje, prašymai balsuoti namuose pradedami priimti įteikiant jiems rinkėjo korteles ir baigiami priimti paskutinį trečiadienį iki rinkimų dienos. Rinkėjų, kurie laikinai apsistoję konkrečios rinkimų apylinkės teritorijoje ir nėra įrašyti į šios rinkimų apylinkės rinkėjų sąrašą, prašymai balsuoti namuose baigiami priimti paskutinį antradienį iki rinkimų dienos. Rinkėjas, kuris dėl neįgalumo ar kitokių priežasčių pats negali užpildyti prašymo balsuoti namuose ar jo įteikti apylinkės rinkimų komisijai, gali pavesti šiuos veiksmus už jį atlikti savo šeimos nariui, kaimynui ar juo besirūpinančiam asmeniui arba komisijos nariui. Šie asmenys rinkėjo prašymą pasirašo ir nurodo savo vardą, pavardę ir asmens kodą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1778, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21114
+ 
 
 4. Į rinkimų apylinkės rinkėjų sąrašą įrašytų namuose balsuojančių rinkėjų sąrašą paskutinį ketvirtadienį iki rinkimų dienos sudaro ir tvirtina apylinkės rinkimų komisija. Rinkėjų, kurie gyvena ar laikinai apsistoję konkrečios rinkimų apylinkės teritorijoje, bet įrašyti į kitos rinkimų apylinkės rinkėjų sąrašą ir jį tikslinant į šios rinkimų apylinkės rinkėjų sąrašą nebuvo įrašyti, sąrašą paskutinį trečiadienį iki rinkimų dienos sudaro ir tvirtina savivaldybės rinkimų komisija.
 
@@ -1272,7 +1309,10 @@ Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
 
 4. Rinkėjai, neturintys judėjimo sutrikimų, balsuoja šio įstatymo 64 straipsnyje nustatyta tvarka. Pas rinkėjus, turinčius judėjimo sutrikimų, atvyksta ne mažiau kaip 2 apylinkės rinkimų komisijos nariai, rinkimų stebėtojai (jeigu jie pageidauja).
 
-5. Rinkėjai, kurie dėl fizinio trūkumo negali patys atlikti balsavimo veiksmų, gali pavesti juos atlikti kitiems asmenims. Šie asmenys rinkimų biuletenius privalo užpildyti rinkėjo akivaizdoje pagal jo nurodymą ir išsaugoti balsavimo paslaptį.
+5. Rinkėjai, kurie dėl neįgalumo ar kitokių priežasčių negali patys atlikti balsavimo veiksmų, gali pavesti juos atlikti kitiems asmenims. Šie asmenys rinkimų biuletenius privalo užpildyti rinkėjo akivaizdoje pagal jo nurodymą ir išsaugoti balsavimo paslaptį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1778, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21114
+ 
 
 6. Rinkimų komisijos nariams, rinkimų stebėtojams draudžiama už rinkėją atlikti balsavimo veiksmus, taip pat priimti iš rinkėjo neužklijuotą išorinį balsavimo voką. 
 
@@ -1767,7 +1807,10 @@ Jeigu asmuo, keliamas ar išsikėlęs kandidatu, neįvykdė šio įstatymo 36 st
 
 91 straipsnis. Pareigos, nesuderinamos su savivaldybės tarybos nario pareigomis, ir išrinkto savivaldybės tarybos nario mandato netekimas
 
-1. Savivaldybės tarybos nario pareigos yra nesuderinamos su Respublikos Prezidento, Seimo nario, Europos Parlamento nario, Vyriausybės nario pareigomis, su Vyriausybės įstaigos ar įstaigos prie ministerijos vadovo, kurio veikla susijusi su savivaldybių veiklos priežiūra ir kontrole, pareigomis, su Vyriausybės atstovo apskrityje pareigomis, su valstybės kontrolieriaus ir jo pavaduotojo pareigomis. Be to, savivaldybės tarybos nario pareigos yra nesuderinamos su tos kadencijos savivaldybės mero politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigomis, su tos savivaldybės kontrolieriaus ar tos savivaldybės kontrolieriaus tarnybos valstybės tarnautojo pareigomis, su tos kadencijos savivaldybės administracijos direktoriaus ir jo pavaduotojo ar su tos savivaldybės administracijos valstybės tarnautojo ir darbuotojo, dirbančio pagal darbo sutartį, pareigomis, su tos savivaldybės tarybos sekretoriato karjeros valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, pareigomis, su tos biudžetinės įstaigos, kurios savininkas ar vienas iš savininkų yra savivaldybė, vadovo pareigomis, su tos viešosios įstaigos, kurios savininkas ar vienas iš dalininkų yra savivaldybė, vienasmenio vadovo ir kolegialaus valdymo organo nario pareigomis, su tos savivaldybės įmonės vienasmenio vadovo ir kolegialaus valdymo organo nario pareigomis, su tos savivaldybės kontroliuojamos akcinės bendrovės kolegialaus valdymo organo (valdybos) nario pareigomis arba su tos savivaldybės kontroliuojamos akcinės bendrovės vadovo pareigomis.
+1. Savivaldybės tarybos nario pareigos yra nesuderinamos su Respublikos Prezidento, Seimo nario, Europos Parlamento nario, Vyriausybės nario pareigomis, su Vyriausybės įstaigos ar įstaigos prie ministerijos vadovo, kurio veikla susijusi su savivaldybių veiklos priežiūra ir kontrole, pareigomis, su Vyriausybės atstovo apskrityje pareigomis, su valstybės kontrolieriaus ir jo pavaduotojo pareigomis. Be to, savivaldybės tarybos nario pareigos yra nesuderinamos su tos kadencijos savivaldybės mero politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigomis, su tos savivaldybės kontrolieriaus ar tos savivaldybės kontrolieriaus tarnybos valstybės tarnautojo pareigomis, su tos kadencijos savivaldybės administracijos direktoriaus ir jo pavaduotojo ar su tos savivaldybės administracijos valstybės tarnautojo ir darbuotojo, dirbančio pagal darbo sutartį, pareigomis, su tos savivaldybės tarybos sekretoriato karjeros valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, pareigomis, su tos biudžetinės įstaigos, kurios savininkas ar vienas iš savininkų yra savivaldybė, vadovo pareigomis, su tos viešosios įstaigos, kurios savininkas ar vienas iš dalininkų yra savivaldybė, vienasmenio vadovo ir kolegialaus valdymo organo nario pareigomis, su tos savivaldybės įmonės vienasmenio vadovo ir kolegialaus valdymo organo nario pareigomis, su tos savivaldybės valdomos akcinės bendrovės kolegialaus valdymo organo (valdybos) nario pareigomis arba su tos savivaldybės valdomos akcinės bendrovės vadovo pareigomis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1166, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08639
+ 
 
 2. Jeigu asmuo, kuris eina pareigas, pagal Konstituciją, šį ar kitus įstatymus nesuderinamas su savivaldybės tarybos nario pareigomis, išrenkamas savivaldybės tarybos nariu, jis turi apsispręsti ir atsisakyti tų pareigų arba išrinkto savivaldybės tarybos nario mandato. Išrinktas savivaldybės tarybos narys, apsisprendęs atsisakyti savivaldybės tarybos nario mandato, ne vėliau kaip likus 10 dienų iki savivaldybės tarybos pirmojo posėdžio dienos paduoda Vyriausiajai rinkimų komisijai asmeniškai arba išsiunčia jai notarine tvarka patvirtintą pareiškimą dėl išrinkto savivaldybės tarybos nario mandato atsisakymo. Gavusi šį pareiškimą, Vyriausioji rinkimų komisija mandatų komisijos teisėmis ne vėliau kaip likus 7 dienoms iki savivaldybės tarybos pirmojo posėdžio dienos priima sprendimą dėl išrinkto savivaldybės tarybos nario mandato netekimo ir mandato naujam savivaldybės tarybos nariui pripažinimo. Porinkiminio kandidatų sąrašo kandidatai į atsiradusią laisvą savivaldybės tarybos nario vietą, apsisprendę atsisakyti išrinkto savivaldybės tarybos nario mandato, taip pat turi paduoti Vyriausiajai rinkimų komisijai pareiškimus dėl savivaldybės tarybos nario mandato atsisakymo ne vėliau kaip likus 7 dienoms iki savivaldybės tarybos pirmojo posėdžio dienos. Jeigu išrinktas savivaldybės tarybos narys ne vėliau kaip likus 10 dienų iki savivaldybės tarybos pirmojo posėdžio dienos nustatyta tvarka nepraneša Vyriausiajai rinkimų komisijai, kad jis atsisako pareigų, nesuderinamų su savivaldybės tarybos nario pareigomis, Vyriausioji rinkimų komisija mandatų komisijos teisėmis ne vėliau kaip likus 7 dienoms iki savivaldybės tarybos pirmojo posėdžio dienos priima sprendimą dėl šio savivaldybės tarybos nario mandato netekimo.
 
@@ -2093,4 +2136,19 @@ Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 39 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
 Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 6, 7, 12, 13, 14, 15, 16, 20, 32, 35, 36, 42, 43, 48, 49, 50, 51, 53, 54, 56, 62, 64, 65, 66, 67, 68, 69, 72, 73, 74, 75, 77 ir 85 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1166, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08639
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 48 ir 91 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1851, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21885
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 48 ir 91 straipsnių pakeitimo įstatymo Nr. XIII-1166 1 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1778, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21114
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 2, 5, 9, 20, 21, 28, 36, 63, 64, 65 ir 66 straipsnių pakeitimo įstatymas
 
