@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2018-12-29 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-02-28
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -386,7 +386,10 @@ Nr. XIII-609, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12430
 14 straipsnis. Bylos medžiagos viešumas
 
 
-1. Išnagrinėtos administracinės bylos medžiaga, išskyrus medžiagą tų bylų, kurios buvo išnagrinėtos uždarame teismo posėdyje, yra vieša ir su ja gali susipažinti suinteresuoti asmenys, įskaitant ir byloje nedalyvavusius asmenis. Tokią teisę šie asmenys įgyja, kai sprendimas byloje arba nutartis nutraukti bylą ar skundą (prašymą, pareiškimą) palikti nenagrinėtą įsiteisėja. Lietuvos Respublikos Seimo kontrolierius (toliau – Seimo kontrolierius), Lietuvos Respublikos vaiko teisių apsaugos kontrolierius (toliau – vaiko teisių apsaugos kontrolierius) ir Lietuvos Respublikos lygių galimybių kontrolierius (toliau – lygių galimybių kontrolierius) turi teisę susipažinti ir su neišnagrinėtos bylos medžiaga, kai tai reikalinga vykdant jų pareigas.
+1. Išnagrinėtos administracinės bylos medžiaga, išskyrus medžiagą tų bylų, kurios buvo išnagrinėtos uždarame teismo posėdyje, arba bylos medžiagą, kurioje yra asmens, kurio konfidencialumas užtikrintas Lietuvos Respublikos pranešėjų apsaugos įstatymo (toliau – Pranešėjų apsaugos įstatymas) nustatyta tvarka, asmens duomenų, yra vieša ir su ja gali susipažinti suinteresuoti asmenys, įskaitant ir byloje nedalyvavusius asmenis. Tokią teisę šie asmenys įgyja, kai sprendimas byloje arba nutartis nutraukti bylą ar skundą (prašymą, pareiškimą) palikti nenagrinėtą įsiteisėja. Lietuvos Respublikos Seimo kontrolierius (toliau – Seimo kontrolierius), Lietuvos Respublikos vaiko teisių apsaugos kontrolierius (toliau – vaiko teisių apsaugos kontrolierius) ir Lietuvos Respublikos lygių galimybių kontrolierius (toliau – lygių galimybių kontrolierius) turi teisę susipažinti ir su neišnagrinėtos bylos medžiaga, kai tai reikalinga vykdant jų pareigas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1848, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21880
+ 
 
 
 
@@ -1852,7 +1855,9 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-3. Mokesčio už bylos medžiagos kopijas dydį ir mokėjimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+4. Mokesčio už bylos medžiagos kopijas dydį ir mokėjimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1848, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21880
  
 
 
