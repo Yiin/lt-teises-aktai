@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-24
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
- 
-TAR pastaba. Įstatymo Nr. XIII-841 nuostatos, išskyrus šio įstatymo 16 straipsnio 3 dalyje nustatytą atvejį, taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių pajamas.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 6, 16, 17, 18, 18-1, 19, 20, 22, 24, 27, 29, 33, 34 straipsnių pakeitimo ir Įstatymo papildymo 18-2 straipsniu įstatymas
  
 LIETUVOS RESPUBLIKOS
 GYVENTOJŲ PAJAMŲ MOKESČIO
@@ -230,7 +225,11 @@ Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 
 
 
-18. Pozityviosios pajamos – visos kontroliuojamojo vieneto, įregistruoto ar kitaip organizuoto valstybėse arba zonose, nustatytose Pelno mokesčio įstatymo 39 straipsnio 4 dalyje, pajamos ar jų dalis, įskaitomos į nuolatinio Lietuvos gyventojo – kontroliuojančiojo asmens pajamas proporcingai šio nuolatinio Lietuvos gyventojo turimų akcijų (dalių, pajų), balsų ar teisių į kontroliuojamojo vieneto pelną skaičiui. 
+18. Pozityviosios pajamos – kontroliuojamojo užsienio apmokestinamojo vieneto pajamos ar jų dalis, įskaitomos į nuolatinio Lietuvos gyventojo pajamas paskutinę kontroliuojamojo užsienio apmokestinamojo vieneto mokestinio laikotarpio dieną proporcingai šio nuolatinio Lietuvos gyventojo valdomų akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį arba išimtinių teisių jas įsigyti skaičiui šio Įstatymo 13 straipsnyje nustatyta tvarka. 
+TAR pastaba. 18 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
+ 
 
 
 
@@ -280,37 +279,10 @@ Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 
 
 
-21. Tikslinė teritorija – užsienio valstybė arba zona, kuri yra įtraukta į finansų ministro nustatytą Tikslinių teritorijų sąrašą ir atitinka bent du iš šioje dalyje nustatytų kriterijų: 
-
-
-1) šioje teritorijoje pelno arba jam analogiško mokesčio tarifas yra mažesnis kaip 75 procentai Pelno mokesčio įstatymo 5 straipsnio 1 dalies 1 punkte nustatyto tarifo; 
-
-
-
-
-2) šioje teritorijoje taikomos skirtingos apmokestinimo pelno arba jam analogišku mokesčiu taisyklės – pagal tai, kokioje valstybėje yra įregistruotas ar kitaip organizuotas kontroliuojantis asmuo;
-
-
-
-
-3) šioje teritorijoje taikomos skirtingos apmokestinimo pelno arba jam analogišku mokesčiu taisyklės – pagal tai, kokioje valstybėje vykdoma veikla; 
-
-
-
-
-4) kontroliuojamasis vienetas yra sudaręs sutartį su tos valstybės mokesčio administratoriumi dėl mokesčio tarifo ar mokesčio bazės;
-
-
-
-
-5) šioje teritorijoje nėra efektyvaus keitimosi informacija; 
-
-
-
-
-6) šioje teritorijoje nėra finansinio-administracinio skaidrumo: nevisiškai aiškios pelno arba jam analogiško mokesčio administravimo taisyklės ir šių taisyklių taikymo tvarka nėra pateikiama kitų valstybių mokesčių administratoriams. 
-
-
+21. Tikslinė teritorija – kaip ši sąvoka apibrėžta Pelno mokesčio įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
+ 
 
 
 
@@ -356,6 +328,15 @@ Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 3) jame kontroliuojantis asmuo kartu su susijusiais asmenimis valdo daugiau kaip 50 procentų akcijų (dalių, pajų) ar kitų teisių į paskirstytinojo pelno dalį arba išimtinių teisių jas įsigyti ir kontroliuojančio asmens valdoma dalis yra ne mažesnė kaip 10 procentų akcijų (dalių, pajų) ar kitų teisių į paskirstytinojo pelno dalį arba išimtinių teisių jas įsigyti.
 
 
+
+
+
+
+271. Kontroliuojamasis užsienio apmokestinamasis vienetas (toliau – kontroliuojamasis užsienio vienetas) – užsienio vienetas, kuriame nuolatinis Lietuvos gyventojas vienas arba kartu su susijusiais asmenimis paskutinę šio užsienio vieneto mokestinio laikotarpio dieną tiesiogiai ar netiesiogiai valdo daugiau kaip 50 procentų akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį arba išimtinių teisių jas įsigyti. 
+TAR pastaba. 271 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Papildyta straipsnio dalimi:
+Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
+ 
 
 
 
@@ -431,9 +412,11 @@ Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 
 
 
-39. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas), Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas) ir Lietuvos Respublikos baudžiamajame kodekse (toliau – Baudžiamasis kodeksas), kiek tai neprieštarauja šiam Įstatymui (išskyrus Civilinio kodekso įsakmiai nurodytus atvejus).
+39. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas), Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas), Lietuvos Respublikos baudžiamajame kodekse (toliau – Baudžiamasis kodeksas) ir Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, kiek tai neprieštarauja šiam Įstatymui (išskyrus Civilinio kodekso įsakmiai nurodytus atvejus). 
+TAR pastaba. 39 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XII-1465, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21225
+Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
  
@@ -676,6 +659,38 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 
 
 
+11. Gyventojo pajamos iš darbo santykių arba jų esmę atitinkančių santykių (išskyrus ligos, motinystės, tėvystės, vaiko priežiūros ir ilgalaikio darbo išmokas), tantjemos ar atlygis už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamas vietoj tantjemų arba kartu su tantjemomis, iš asmens, susijusio su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, gautos pajamos pagal autorines sutartis, taip pat mažųjų bendrijų vadovų, kurie pagal Lietuvos Respublikos mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, pagal civilinę (paslaugų) sutartį už vadovavimo veiklą gautos pajamos apmokestinamos taip:
+
+
+1) metinė pajamų dalis, neviršijanti 120 vidutinių šalies darbo užmokesčių (toliau – VDU) dydžio sumos, taikomos apdraustųjų asmenų 2019 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 20 procentų pajamų mokesčio tarifą;
+
+
+
+
+2) metinė pajamų dalis, viršijanti 120 VDU dydžio sumą, taikomą apdraustųjų asmenų 2019 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 27 procentų pajamų mokesčio tarifą. 
+TAR pastaba. 11 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų mokestinio laikotarpio pajamas.
+Už 2019 metų mokestinį laikotarpį apskaičiuotos su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos (išskyrus ligos, motinystės, tėvystės, vaiko priežiūros ir ilgalaikio darbo išmokas), išmokėtos 2018 metais, apmokestinamos 11 dalyje nustatyta tvarka.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
+ 
+
+
+
+
+12. Metinė pajamų ne iš darbo santykių arba jų esmę atitinkančių santykių (išskyrus individualios veiklos pajamas, pajamas iš paskirstytojo pelno, tantjemas ar atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, iš asmens, susijusio su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, gautas pajamas pagal autorines sutartis, taip pat mažųjų bendrijų vadovų, kurie pagal Lietuvos Respublikos mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, pagal civilinę (paslaugų) sutartį už vadovavimo veiklą gautas pajamas) dalis, viršijanti 120 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 20 procentų pajamų mokesčio tarifą.
+TAR pastaba. 12 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Už 2019 metų mokestinį laikotarpį apskaičiuotos su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos (išskyrus ligos, motinystės, tėvystės, vaiko priežiūros ir ilgalaikio darbo išmokas), išmokėtos 2018 metais, apmokestinamos 12dalyje nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
+Straipsnio dalies pakeitimai:
+Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
+ 
+
+
+
+
 2. Pajamų mokesčio 5 procentų tarifas taikomas ne individualios veiklos pajamoms, gautoms pardavus ar kitaip nuosavybėn perleidus atliekas.
 
 
@@ -767,7 +782,11 @@ PAJAMŲ PRIPAŽINIMAS
 
 
 
-3. Mokestinio laikotarpio pozityviųjų pajamų gavimo momentu laikoma to mokestinio laikotarpio gruodžio 31 diena. 
+3. Mokestinio laikotarpio pozityviųjų pajamų gavimo momentu laikoma paskutinė kontroliuojamojo užsienio vieneto mokestinio laikotarpio diena. Jeigu kontroliuojamojo užsienio vieneto mokestinis laikotarpis nenustatomas, laikoma, kad kontroliuojamojo užsienio vieneto mokestinis laikotarpis sutampa su kalendoriniais metais. 
+TAR pastaba. 3 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
+ 
 
 
 
@@ -927,23 +946,106 @@ Nr. XI-2166, 2012-06-29, Žin., 2012, Nr. 83-4340 (2012-07-14)
 
 
 
-13 straipsnis. Pozityviųjų pajamų nustatymas
+13 straipsnis. Pozityviosios pajamos
 
 
-1. Pozityviosios pajamos apskaičiuojamos ir įtraukiamos į nuolatinio Lietuvos gyventojo pajamas ta pačia tvarka, kaip jos apskaičiuojamos ir įtraukiamos į kontroliuojančio Lietuvos vieneto pajamas pagal Pelno mokesčio įstatymo nuostatas. 
+1. Pozityviosios pajamos yra apmokestinamos pagal šio straipsnio nuostatas, jeigu:
 
 
-
-
-2. Tos pačios kontroliuojamojo užsienio vieneto pajamos gali būti apmokestintos Lietuvoje tik vieną kartą.
+1) kontroliuojamasis užsienio vienetas yra įregistruotas ar kitaip organizuotas tikslinėje teritorijoje arba
 
 
 
 
-3. Jei kontroliuojamojo užsienio vieneto mokestinis laikotarpis nesutampa su kalendoriniais metais arba jis nenustatomas, laikoma, kad kontroliuojamojo užsienio vieneto mokestinis laikotarpis yra kalendoriniai metai. 
+2) kontroliuojamojo užsienio vieneto pasyviosios pajamos viršija 1/3 visų šio kontroliuojamojo užsienio vieneto mokestinio laikotarpio pajamų ir
+
+
+
+
+3) kontroliuojamojo užsienio vieneto faktinis pelno mokestis, apskaičiuotas nuo šio kontroliuojamojo užsienio vieneto pajamų pagal toje užsienio valstybėje taikomas pelno mokesčio ar jam tapataus mokesčio taisykles, yra mažesnis negu 50 procentų faktinio pelno mokesčio, kuris būtų apskaičiuotas nuo šio kontroliuojamojo užsienio vieneto pajamų pagal Pelno mokesčio įstatymo nuostatas. Taikant šį punktą, neatsižvelgiama į kontroliuojamojo užsienio vieneto per nuolatinę buveinę kitoje užsienio valstybėje uždirbtas pajamas, kurios nėra apmokestinamos užsienio valstybėje, kurioje įregistruotas ar kitaip organizuotas kontroliuojamasis užsienio vienetas. Taikant šį punktą, į pozityviąsias pajamas įtraukiamos tik kontroliuojamojo užsienio vieneto pasyviosios pajamos.
+
+
+
+
+
+
+2. Šio straipsnio nuostatos netaikomos tais atvejais, kai kontroliuojamasis užsienio vienetas, atitinkantis šio straipsnio 1 dalies 2 ir 3 punktuose nurodytas sąlygas, turi darbuotojų ir naudoja turtą faktinei ekonominei veiklai užtikrinti valstybėje, kurioje šis kontroliuojamasis užsienio vienetas įregistruotas ar kitaip organizuotas.
+
+
+
+
+3. Pasyviosiomis pajamomis pagal šį straipsnį laikoma: 
+
+
+1) palūkanos ir kitos iš finansinio turto gaunamos pajamos;
+
+
+
+
+2) honorarai ir bet kurios kitos pajamos iš intelektinės nuosavybės;
+
+
+
+
+3) pajamos iš paskirstytinojo pelno (įskaitant iš kitų vienetų gautus dividendus ir nuolatiniam Lietuvos gyventojui paskirstytus, bet neišmokėtus dividendus) ir akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį arba išimtinių teisių jas įsigyti perleidimo pajamos;
+
+
+
+
+4) pajamos iš draudimo ir finansinių paslaugų teikimo veiklos;
+
+
+
+
+5) vienetų, kurie gauna su prekių tiekimu ir paslaugų teikimu susijusių pajamų iš prekių ir paslaugų, įsigytų iš susijusių asmenų ir jiems parduotų, nesukurdami pridėtinės ekonominės vertės arba sukurdami nedidelę pridėtinę ekonominę vertę, pajamos.
+
+
+
+
+
+
+4. Į pozityviąsias pajamas neįtraukiama:
+
+
+1) išmokos, kurios nelaikomos pagal šį Įstatymą leidžiamais atskaitymais ar iš pajamų atimamomis patirtomis išlaidomis ir kurias kontroliuojamasis užsienio vienetas yra gavęs iš nuolatinio Lietuvos gyventojo;
+
+
+
+
+2) paskirstyti proporcingai nuolatinio Lietuvos gyventojo valdomų akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį arba išimtinių teisių jas įsigyti skaičiui, tačiau neišmokėti šiam nuolatiniam Lietuvos gyventojui dividendai, kurie neviršija prieš tai buvusio mokestinio laikotarpio pozityviųjų pajamų sumos, apskaičiuotos pagal šio straipsnio 5 dalį, ir išmokami per penkis vienas po kito einančius mokestinius laikotarpius. Jeigu šie dividendai per penkis vienas po kito einančius mokestinius laikotarpius neišmokėti, visi per tą laiką apskaičiuoti dividendai įtraukiami į pozityviąsias pajamas.
+
+
+
+
+
+
+5. Apskaičiuojant pozityviąsias pajamas, gali būti atimamos neapmokestinamosios pajamos, atskaitomi leidžiami atskaitymai ir ribojamų dydžių leidžiami atskaitymai, susiję su tų pajamų uždirbimu, pagal Pelno mokesčio įstatymo 11 straipsnio nuostatas. Jeigu apskaičiuojama neigiama suma, ši suma nemažina nuolatinio Lietuvos gyventojo pajamų.
+
+
+
+
+6. Jeigu nuolatinis Lietuvos gyventojas turi daugiau kaip vieną kontroliuojamąjį užsienio vienetą, kiekvieno iš jų pozityviosios pajamos apskaičiuojamos atskirai. 
+
+
+
+
+7. Tos pačios kontroliuojamojo užsienio vieneto pajamos gali būti apmokestintos Lietuvos Respublikoje tik vieną kartą.
+
+
+
+
+8. Kontroliuojamojo užsienio vieneto nuolatiniam Lietuvos gyventojui išmokėti dividendai neapmokestinami, jeigu pajamos, kurių pagrindu šie dividendai išmokėti, buvo įtrauktos į šio nuolatinio Lietuvos gyventojo pajamas kaip pozityviosios pajamos. Tačiau jeigu kontroliuojamojo užsienio vieneto nuolatiniam Lietuvos gyventojui išmokėti dividendai viršija pajamas, kurios buvo įtrauktos į šio nuolatinio Lietuvos gyventojo pajamas kaip pozityviosios pajamos, išmokėtų dividendų dalis, viršijanti nuolatinio Lietuvos gyventojo pozityviąsias pajamas, apmokestinama kaip pajamos iš paskirstytojo pelno.
+
+
+
+
+9. Kai nuolatinis Lietuvos gyventojas perleidžia turimą kontroliuojamojo užsienio vieneto dalį ir bet kuri iš perleidimo gautų pajamų dalis anksčiau buvo įtraukta į pozityviąsias pajamas, apskaičiuojant už šias pajamas mokėtino pajamų mokesčio sumą, ta pajamų dalis nėra laikoma nuolatinio Lietuvos gyventojo pajamų mokesčio objektu. 
+TAR pastaba. 13 straipsnio nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
  
-
-
 
 
 
@@ -1059,7 +1161,11 @@ Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 
 
 
-6) nuolatinio Lietuvos gyventojo patirtos išlaidos (apskaičiuojant mokestinio laikotarpio apmokestinamąsias pajamas, kurioms taikomas šio Įstatymo 6 straipsnio 1 dalyje nustatytas pajamų mokesčio tarifas) – šio Įstatymo 21 straipsnyje nustatyta tvarka. 
+6) nuolatinio Lietuvos gyventojo patirtos išlaidos (apskaičiuojant mokestinio laikotarpio apmokestinamąsias pajamas, kurioms taikomi šio Įstatymo 6 straipsnio 1, 11 ir 12 dalyse nustatyti pajamų mokesčio tarifai) – šio Įstatymo 21 straipsnyje nustatyta tvarka. 
+TAR pastaba. 6 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
+ 
 
 
 
@@ -1338,12 +1444,18 @@ Nr. XII-1573, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05687
 
 
 
-36) premijos, skirtos konkurso tvarka iš Lietuvos Respublikos valstybės ar savivaldybių biudžetų, iš užsienio valstybės, jos politinio ar teritorijos administracinio padalinio, vietos valdžios biudžetų, taip pat premijos, skirtos Lietuvos Respublikos Vyriausybės ar savivaldybių tarybų sprendimais, ir premijos profesionaliojo meno konkursų nugalėtojams, skiriamos meno kūrėjų organizacijų sprendimais iš šių organizacijų lėšų, taip pat Lietuvos Respublikos Vyriausybės nustatyto dydžio premijos sportininkams ir jų treneriams, gydytojams, masažuotojams ir mokslininkams, išmokamos iš valstybės biudžeto lėšų, skirtų Kūno kultūros ir sporto departamentui prie Lietuvos Respublikos Vyriausybės;
+36) premijos, skirtos konkurso tvarka iš Lietuvos Respublikos valstybės ar savivaldybių biudžetų, iš užsienio valstybės, jos politinio ar teritorijos administracinio padalinio, vietos valdžios biudžetų, taip pat premijos, skirtos Lietuvos Respublikos Vyriausybės ar savivaldybių tarybų sprendimais, ir premijos profesionaliojo meno konkursų nugalėtojams, skiriamos meno kūrėjų organizacijų sprendimais iš šių organizacijų lėšų, taip pat valstybės premijos sportininkams ir jų treneriams; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1547, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17454
+ 
 
 
 
 
-37) sporto varžybų prizas, jeigu šį prizą įsteigia ir skiria olimpiniai (parolimpiniai) komitetai, tarptautinės sporto šakų federacijos (sąjungos, asociacijos) ar šių federacijų (sąjungų, asociacijų) nariai, Lietuvos sporto šakų federacijos (sąjungos, asociacijos), taip pat vardinės dovanos, dovanojamos Lietuvos Respublikos įstatymų nustatyta tvarka; 
+37) sporto varžybų prizas, jeigu šį prizą įsteigia ir skiria olimpiniam, paralimpiniam, regos, klausos ar judėjimo negalią turinčių asmenų sporto judėjimams Lietuvoje vadovaujančios nevyriausybinės organizacijos, tarptautinės sporto šakų federacijos ar šių federacijų nariai, Lietuvos sporto šakų federacijos, taip pat vardinės dovanos, dovanojamos Lietuvos Respublikos įstatymų nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1547, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17454
+ 
 
 
 
@@ -1448,9 +1560,17 @@ Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
 
 
 
-56) pajamos, gautos už suteiktą pagalbą slaptai bendradarbiaujant su kriminalinės žvalgybos subjektais ar žvalgybos institucijomis. 
+56) pajamos, gautos už suteiktą pagalbą slaptai bendradarbiaujant su kriminalinės žvalgybos subjektais ar žvalgybos institucijomis; 
 Papildyta straipsnio punktu:
 Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
+ 
+
+
+
+
+57) atlyginimas už kompetentingai institucijai Lietuvos Respublikos pranešėjų apsaugos įstatymo nustatyta tvarka pateiktą vertingą informaciją apie pažeidimą.
+Papildyta straipsnio punktu:
+Nr. XIII-1849, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21881
  
 
 
@@ -1834,14 +1954,18 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 20 straipsnis. Neapmokestinamasis pajamų dydis 
 
 
-1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jei šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu 4 560 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos. Kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, MNPD, jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
+1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jei šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu 3 600 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos. Kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, MNPD, jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
 
 
 
- Gyventojui taikytinas MNPD = 4 560 – 0,5 x (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių). 
+ Gyventojui taikytinas MNPD = 3 600 – 0,15 x (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių). 
 
 
 
+ 
+TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų mokestinio laikotarpio pajamas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
  
 
 
@@ -1850,7 +1974,7 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 2. Jeigu šio straipsnio 6 dalyje nenustatyta kitaip, NPD mokestiniu laikotarpiu taikomas tokia tvarka:
 
 
-1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 380 eurų;
+1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 300 eurų;
 
 
 
@@ -1859,13 +1983,17 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 
 
 
- Gyventojui taikytinas mėnesio NPD = 380 – 0,5 x (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis). 
+ Gyventojui taikytinas mėnesio NPD = 300 – 0,15 x (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis). 
 
 
 
  
+TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų mokestinio laikotarpio pajamas.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
+ 
 
 
 
@@ -1885,7 +2013,11 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 
 
 
-6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 450 eurų. Asmenims, kuriems nustatytas 30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra 390 eurų. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD dydį, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal šio straipsnio 1 dalį šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui. 
+6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 353 eurai. Asmenims, kuriems nustatytas 30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra 308 eurai. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal šio straipsnio 1 dalį šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui. 
+TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų mokestinio laikotarpio pajamas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
+ 
 
 
 
@@ -1943,7 +2075,25 @@ Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 
 
 
-3) už profesinį mokymą ir (ar) studijas, kuriuos baigus įgyjamas pirmas aukštasis išsilavinimas ir (ar) suteikiama pirma atitinkama kvalifikacija, taip pat už pirmas doktorantūros bei meno aspirantūros studijas nuolatinių Lietuvos gyventojų, kurie mokosi ar studijuoja, sumokėtos sumos. Jei už profesinį mokymą ar studijas sumokėta skolintomis lėšomis (tam tikslui paimta iš kredito įstaigos paskola), tai iš pajamų gali būti atimta per mokestinį laikotarpį grąžinta šios paskolos dalis.
+21) pensijų įmokos į pensijų fondus, profesinių pensijų fondų dalyvių asociacijų ir (ar) jiems analogiškų subjektų, veikiančių Europos ekonominės erdvės valstybėje ar Ekonominio bendradarbiavimo ir plėtros organizacijos valstybėje narėje, turimus pensijų fondus, kurias Lietuvos nuolatinis gyventojas moka kaip papildomas kaupiamąsias pensijų įmokas pagal Pensijų kaupimo įstatymo 8 straipsnio 4 dalies nuostatas ir kurios yra didesnės negu 3 procentai šio gyventojo pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos; 
+TAR pastaba. 21 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Papildyta straipsnio punktu:
+Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
+ 
+
+
+
+
+3) už profesinį mokymą ir (ar) studijas, kuriuos baigus įgyjamas pirmas aukštasis išsilavinimas ir (ar) suteikiama pirma atitinkama kvalifikacija, taip pat už pirmas doktorantūros bei meno aspirantūros studijas nuolatinių Lietuvos gyventojų, kurie mokosi ar studijuoja, sumokėtos sumos. Jei už profesinį mokymą ar studijas sumokėta skolintomis lėšomis (tam tikslui paimta iš kredito įstaigos paskola), tai iš pajamų gali būti atimta per mokestinį laikotarpį grąžinta šios paskolos dalis;
+
+
+
+
+4) sumos, sumokėtos už paties nuolatinio Lietuvos gyventojo ar jo sutuoktinio naudai atliktus pastatų ir kitų statinių apdailos ir bet kokio remonto, išskyrus daugiabučių gyvenamųjų namų atnaujinimą (modernizavimą), darbus, suteiktas lengvųjų automobilių remonto, nepilnamečių vaikų (įvaikių, globotinių, kuriems nustatyta nuolatinė globa (rūpyba) šeimoje), iki 18 metų priežiūros paslaugas, kai šiuos darbus atlieka ir šias paslaugas suteikia Lietuvos Respublikoje įregistruotas mokesčių mokėtojas arba registruotis mokesčių mokėtoju privalantis asmuo. 
+TAR pastaba. 4 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2019, 2020, 2021 metų mokestinių laikotarpių pajamas.
+Papildyta straipsnio punktu:
+Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
+ 
 
 
 
@@ -1955,10 +2105,11 @@ Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 
 
 
-3. Bendra atimamų išlaidų, nurodytų šio straipsnio 1 dalyje, suma negali viršyti 25 procentų apmokestinamųjų pajamų, kurioms taikomas šio Įstatymo 6 straipsnio 1 dalyje nustatytas pajamų mokesčio tarifas, sumos, apskaičiuotos šio Įstatymo 16 straipsnio 1 dalyje nustatyta tvarka, atėmus 16 straipsnio 1 dalies 1–5 punktuose nurodytas sumas. Šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų išlaidų suma bet kokiu atveju negali viršyti 2 000 eurų.
-TAR pastaba. 3 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2017 metų ir vėlesnių mokestinių laikotarpių pajamas.
+3. Bendra atimamų išlaidų, nurodytų šio straipsnio 1 dalyje, suma negali viršyti 25 procentų apmokestinamųjų pajamų, kurioms taikomi šio Įstatymo 6 straipsnio 1, 11 ir 12 dalyse nustatyti pajamų mokesčio tarifai, sumos, apskaičiuotos šio Įstatymo 16 straipsnio 1 dalyje nustatyta tvarka, atėmus šio Įstatymo 16 straipsnio 1 dalies 1–5 punktuose nurodytas sumas. Šio straipsnio 1 dalies 1, 2 ir 21 punktuose nurodytų išlaidų suma bet kokiu atveju negali viršyti 1 500 eurų, o šio straipsnio 1 dalies 4 punkte nurodytų išlaidų suma – 2 000 eurų. 
+TAR pastaba. 3 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019, 2020, 2021 metų mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-170, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29860
+Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
  
 
 
@@ -1969,7 +2120,11 @@ Nr. XIII-170, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29860
 
 
 
-5. Šio straipsnio 1 dalies nuostatos netaikomos, jei nuolatinis Lietuvos gyventojas atitinkamas įmokas moka užsienio vienetams, įregistruotiems ar kitaip organizuotiems tikslinėse teritorijose, nuolatinio Lietuvos gyventojo mokamoms įmokoms pensijų anuitetams įsigyti, – nuolatiniams Lietuvos gyventojams, nurodytiems šio Įstatymo 4 straipsnio 3 dalyje, taip pat kaupiamosioms pensijų įmokoms į pensijų kaupimo bendrovę pagal Pensijų kaupimo įstatymo nuostatas.
+5. Šio straipsnio 1 dalies nuostatos netaikomos, jei nuolatinis Lietuvos gyventojas atitinkamas įmokas moka užsienio vienetams, įregistruotiems ar kitaip organizuotiems tikslinėse teritorijose, nuolatinio Lietuvos gyventojo mokamoms įmokoms pensijų anuitetams įsigyti, – nuolatiniams Lietuvos gyventojams, nurodytiems šio Įstatymo 4 straipsnio 3 dalyje, taip pat kaupiamosioms pensijų įmokoms į pensijų kaupimo bendrovę pagal Pensijų kaupimo įstatymo 8 straipsnio 1 ir 2 dalių nuostatas, kai taikomas šio straipsnio 1 dalies 2 punktas. 
+TAR pastaba. 5 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
+ 
 
 
 
@@ -2181,7 +2336,12 @@ Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 
 
 
-2) per atitinkamą mokestinį laikotarpį gavo tik A klasei priskiriamų su darbo santykiais arba jų esmę atitinkančiais santykiais susijusių pajamų ir kuriam pritaikytas NPD neturi būti perskaičiuotas šio Įstatymo 20 straipsnio nustatyta tvarka. Toks gyventojas turi teisę neteikti metinės pajamų mokesčio deklaracijos ir tais atvejais, kai gauna šio punkto pirmajame sakinyje nenurodytų pajamų, jeigu šios pajamos įtrauktos į centrinio mokesčio administratoriaus nustatytą neapmokestinamųjų pajamų, kurių gavus deklaracija gali būti neteikiama, sąrašą.
+2) per atitinkamą mokestinį laikotarpį gavo tik A klasei priskiriamų su darbo santykiais arba jų esmę atitinkančiais santykiais susijusių pajamų, kuriam neatsiranda pareiga perskaičiuoti mokėtiną pajamų mokestį atsižvelgiant į šio Įstatymo 6 straipsnio 11 ir 12 dalių nuostatas ir kuriam pritaikytas NPD neturi būti perskaičiuotas šio Įstatymo 20 straipsnyje nustatyta tvarka. Toks gyventojas turi teisę neteikti metinės pajamų mokesčio deklaracijos ir tais atvejais, kai gauna šio punkto pirmajame sakinyje nenurodytų pajamų, jeigu šios pajamos įtrauktos į centrinio mokesčio administratoriaus nustatytą neapmokestinamųjų pajamų, kurių gavus deklaracija gali būti neteikiama, sąrašą. 
+TAR pastaba. 2 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
+Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
+ 
 
 
 
@@ -2206,7 +2366,11 @@ Nr. XII-1217, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15178
 
 
 
-6. Nuolatinis Lietuvos gyventojas, per mokestinį laikotarpį gavęs pozityviųjų pajamų, privalo kartu su metine pajamų mokesčio deklaracija pateikti centrinio mokesčio administratoriaus nustatytos formos priedą, kuriame turi būti nurodyta informacija apie tiesiogiai ar netiesiogiai valdomas kontroliuojamųjų vienetų akcijas (dalis, pajus) ar kitas teises į paskirstytinojo pelno dalį arba išimtines teises jas įsigyti, taip pat kontroliuojamojo vieneto pavadinimas ir buveinės adresas, kontroliuojamojo vieneto valdytojų sąrašas. Nuolatinis Lietuvos gyventojas kontroliuojamojo vieneto balansą bei pelno ir nuostolių ataskaitą privalo saugoti ne mažiau kaip 10 metų.
+6. Nuolatinis Lietuvos gyventojas, per mokestinį laikotarpį gavęs pozityviųjų pajamų, privalo kartu su metine pajamų mokesčio deklaracija pateikti centrinio mokesčio administratoriaus nustatytos formos priedą, kuriame turi būti nurodyta informacija apie tiesiogiai, netiesiogiai ar kartu su susijusiais asmenimis valdomas kontroliuojamųjų užsienio vienetų akcijas (dalis, pajus), balsavimo teises ar teises į paskirstytinojo pelno dalį arba išimtines teises jas įsigyti, taip pat kontroliuojamojo užsienio vieneto pavadinimas ir buveinės adresas, kontroliuojamojo užsienio vieneto valdytojų sąrašas. Nuolatinis Lietuvos gyventojas kontroliuojamojo užsienio vieneto balansą bei pelno ir nuostolių ataskaitą privalo saugoti ne mažiau kaip 10 metų. 
+TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
+ 
 
 
 
@@ -2217,6 +2381,25 @@ Nr. XII-1217, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15178
 
 
 8. Šio Įstatymo 29 straipsnyje nustatytais atvejais nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia.
+
+
+
+
+9. Nenuolatinis Lietuvos gyventojas, pasibaigus mokestiniam laikotarpiui, iki kalendorinių metų, einančių po to mokestinio laikotarpio, gegužės 1 dienos privalo pats arba per savo įgaliotą asmenį pateikti mokesčių administratoriui metinę praėjusio mokestinio laikotarpio pajamų mokesčio deklaraciją, jeigu:
+
+
+1) per praėjusį mokestinį laikotarpį Lietuvos Respublikoje gavo A ir (ar) B klasėms priskiriamų pajamų, nenurodytų šio Įstatymo 30 straipsnyje, ir
+
+
+
+
+2) jam atsiranda pareiga perskaičiuoti mokėtiną pajamų mokestį atsižvelgiant į šio Įstatymo 6 straipsnio 11 ir 12 dalių nuostatas.
+TAR pastaba. 9 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
+ 
 
 
 Straipsnio pakeitimai:
@@ -2414,33 +2597,46 @@ Nr. X-1485, 2008-04-10, Žin., 2008, Nr. 47-1750 (2008-04-24)
 
 
 
-3. Mokesčio administratorius nuolatinio Lietuvos gyventojo prašymu, mokestiniam laikotarpiui pasibaigus, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka privalo pervesti asmenims, pagal Labdaros ir paramos įstatymą turintiems teisę gauti paramą, iki 2 procentų pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos.
-Straipsnio dalies pakeitimai:
-Nr. XII-2203, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21005
- 
+3. Mokesčio administratorius nuolatinio Lietuvos gyventojo prašymu, mokestiniam laikotarpiui pasibaigus, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka privalo pervesti asmenims (išskyrus profesines sąjungas arba profesinių sąjungų susivienijimus), pagal Labdaros ir paramos įstatymą turintiems teisę gauti paramą, iki 2 procentų pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos.
 
 
 
 
-4. Mokesčio administratorius nuolatinio Lietuvos gyventojo prašymu, mokestiniam laikotarpiui pasibaigus, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka privalo pervesti politinėms partijoms, įstatymų nustatyta tvarka įregistruotoms Juridinių asmenų registre, atitinkančioms įstatymų reikalavimus dėl politinės partijos narių skaičiaus ir kurioms nėra pradėta pertvarkymo arba likvidavimo procedūra, 1 procentą pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – 1 procentą mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos. Pagal šią dalį politinėms partijoms pervedama pajamų mokesčio suma neįskaitoma į pagal šio straipsnio 3 dalį pervedamą pajamų mokesčio sumą.
+4. Mokesčio administratorius nuolatinio Lietuvos gyventojo prašymu, mokestiniam laikotarpiui pasibaigus, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka privalo pervesti dalį pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – dalį mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos:
+
+
+1) 1 procentą – politinėms partijoms, kurios yra įstatymų nustatyta tvarka įregistruotos Juridinių asmenų registre, atitinka įstatymų reikalavimus dėl politinės partijos narių skaičiaus ir kurioms nėra pradėta pertvarkymo arba likvidavimo procedūra, ir (arba)
 
 
 
 
-5. Mokesčio administratorius gyventojo prašymu per 10 darbo dienų nuo prašymo pateikimo dienos privalo išduoti pažymą apie nuolatinio Lietuvos gyventojo vykdomą individualią veiklą arba nenuolatinio Lietuvos gyventojo įregistruotą nuolatinę bazę Lietuvoje. 
+2) 1 procentą – profesinėms sąjungoms arba profesinių sąjungų susivienijimams, pagal Labdaros ir paramos įstatymą turintiems teisę gauti paramą.
 
 
 
 
-6. Šio straipsnio 3 ir 4 dalių nuostatos netaikomos tais atvejais, kai tose dalyse nurodytą prašymą pateikęs nuolatinis Lietuvos gyventojas, privalantis teikti metinę pajamų mokesčio deklaraciją, metinės pajamų mokesčio deklaracijos nepateikia iki šio Įstatymo 27 straipsnio 1 dalyje ar šio Įstatymo 28 straipsnyje nustatyto termino pabaigos. 
-Papildyta straipsnio dalimi:
-Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
- 
+
+
+5. Pagal šio straipsnio 4 dalį pervedama pajamų mokesčio suma neįskaitoma į pagal šio straipsnio 3 dalį pervedamą pajamų mokesčio sumą. 
+
+
+
+
+6. Mokesčio administratorius gyventojo prašymu per 10 darbo dienų nuo prašymo pateikimo dienos privalo išduoti pažymą apie nuolatinio Lietuvos gyventojo vykdomą individualią veiklą arba nenuolatinio Lietuvos gyventojo įregistruotą nuolatinę bazę Lietuvoje. 
+
+
+
+
+7. Šio straipsnio 3 ir 4 dalių nuostatos netaikomos tais atvejais, kai tose dalyse nurodytą prašymą pateikęs nuolatinis Lietuvos gyventojas, privalantis teikti metinę pajamų mokesčio deklaraciją, metinės pajamų mokesčio deklaracijos nepateikia iki šio Įstatymo 27 straipsnio 1 dalyje ar šio Įstatymo 28 straipsnyje nustatyto termino pabaigos.
+TAR pastaba. 34 straipsnis taikomas apskaičiuojant ir deklaruojant 2018 metų mokestinio laikotarpio pajamas.
+Straipsnio pakeitimai:
+Nr. IX-1848, 2003-11-25, Žin., 2003, Nr. 116-5254 (2003-12-12)
+Nr. XI-1778, 2011-12-06, Žin., 2011, Nr. 153-7206 (2011-12-15) 
 
 
 Straipsnio pakeitimai:
-Nr. IX-1848, 2003-11-25, Žin., 2003, Nr. 116-5254 (2003-12-12)
-Nr. XI-1778, 2011-12-06, Žin., 2011, Nr. 153-7206 (2011-12-15)
+Nr. XIII-1325, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11319
+Nr. XIII-1705, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20944
  
 
 
@@ -2497,7 +2693,11 @@ PAJAMŲ MOKESČIO, SUMOKĖTO UŽSIENIO VALSTYBĖSE, ATSKAITYMAS
 37 straipsnis. Pajamų, gautų užsienio valstybėse, dvigubo apmokestinimo panaikinimas
 
 
-1. Užsienio valstybėje, kuri yra Europos Sąjungos valstybė narė arba su kuria Lietuvos Respublika yra sudariusi ir taiko dvigubo apmokestinimo išvengimo sutartį, gautos nuolatinio Lietuvos gyventojo pajamos, išskyrus minėtoje valstybėje gautas palūkanas, dividendus ir honorarus, šio Įstatymo nustatyta tvarka yra neapmokestinamos pajamų mokesčiu Lietuvos Respublikoje, jeigu pajamų mokestis arba jam tapatus mokestis nuo šių pajamų nustatyta tvarka sumokėtas toje užsienio valstybėje. Užsienio valstybėje, kuri yra Europos Sąjungos valstybė narė arba su kuria yra sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, sumokėtą pajamų mokesčio arba jam tapataus mokesčio sumą nuo toje valstybėje gautų palūkanų, dividendų ir honorarų nuolatinis Lietuvos gyventojas gali atskaityti iš šio Įstatymo nustatyta tvarka apskaičiuoto pajamų mokesčio sumos. Šios dalies nuostatos taikomos tik tuo atveju, jeigu yra pateikti įrodymai apie užsienio valstybėje per tą mokestinį laikotarpį gautas pajamas ir nuo jų sumokėtą pajamų mokesčio arba jam tapataus mokesčio sumą. 
+1. Užsienio valstybėje, su kuria Lietuvos Respublika yra sudariusi ir taiko dvigubo apmokestinimo išvengimo sutartį, gautos nuolatinio Lietuvos gyventojo pajamos, išskyrus toje valstybėje gautas palūkanas, dividendus ir honorarus, šio Įstatymo nustatyta tvarka yra neapmokestinamos pajamų mokesčiu Lietuvos Respublikoje, jeigu pajamų mokestis arba jam tapatus mokestis nuo šių pajamų nustatyta tvarka sumokėtas toje užsienio valstybėje. Užsienio valstybėje, su kuria Lietuvos Respublika yra sudariusi ir taiko dvigubo apmokestinimo išvengimo sutartį, sumokėtą pajamų mokesčio arba jam tapataus mokesčio sumą nuo toje valstybėje gautų palūkanų, dividendų ir honorarų nuolatinis Lietuvos gyventojas gali atskaityti iš šio Įstatymo nustatyta tvarka apskaičiuoto pajamų mokesčio sumos. Šios dalies nuostatos taikomos tik tuo atveju, kai yra pateikti įrodymai apie užsienio valstybėje per tą mokestinį laikotarpį gautas pajamas ir nuo jų sumokėtą pajamų mokesčio arba jam tapataus mokesčio sumą. 
+TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
+ 
 
 
 
@@ -2507,7 +2707,10 @@ PAJAMŲ MOKESČIO, SUMOKĖTO UŽSIENIO VALSTYBĖSE, ATSKAITYMAS
 
 
 
-3. Nuolatinis Lietuvos gyventojas turi teisę nuo kontroliuojamojo užsienio vieneto pozityviųjų pajamų, įskaitytų į nuolatinio Lietuvos gyventojo pajamas, mokesčio, sumokėto užsienio valstybėje, kuri yra Europos Sąjungos valstybė narė arba su kuria Lietuvos Respublika yra sudariusi ir taiko dvigubo apmokestinimo išvengimo sutartį ir pagal kurios atitinkamą įstatymą kontroliuojamojo užsienio vieneto pozityviosios pajamos yra įtrauktos į tos valstybės vieneto pajamas ir apmokestintos pagal analogiškas Pelno mokesčio įstatyme nustatytas taisykles, dydžiu sumažinti į biudžetą mokėtiną pagal šį Įstatymą apskaičiuotą pajamų mokestį nuo pozityviųjų pajamų.
+3. Neteko galios 2019-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
+ 
 
 
 
@@ -3171,3 +3374,38 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 ir 38
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 6, 16, 17, 18, 18-1, 19, 20, 22, 24, 27, 29, 33, 34 straipsnių pakeitimo ir Įstatymo papildymo 18-2 straipsniu įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 6, 16, 20, 21 ir 27 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1325, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11319
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 34 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1547, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17454
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 8, 13, 27 ir 37 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1705, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20944
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 34 straipsnio pakeitimo įstatymo Nr. XIII-1325 pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 6, 16, 20, 21 ir 27 straipsnių pakeitimo įstatymo Nr. XIII-1335 2, 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1849, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21881
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 straipsnio pakeitimo įstatymas
