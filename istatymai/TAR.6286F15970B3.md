@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6286F15970B3"
 
 # Lietuvos Respublikos branduolinės energijos įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 119-2771, i. k. 0961010ISTA00I-1613
  
@@ -1170,9 +1170,11 @@ Nr. XIII-287, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07277
 
 
 
-4. Valstybinės atominės energetikos saugos inspekcijos viršininko atlyginimas lygus keturiems, o viršininko pavaduotojų – trims ūkio subjektų, įstatymų nustatyta tvarka ir sąlygomis vykdančių branduolinės energetikos objekto (objektų) eksploatavimo, eksploatavimo nutraukimo ir (ar) uždarytų radioaktyviųjų atliekų saugyklų ar atliekynų priežiūros veiklą, darbuotojų praėjusių kalendorinių metų vidutinių mėnesinių bruto darbo užmokesčių, kuriuos teisės aktų nustatyta tvarka apskaičiuoja ir skelbia Lietuvos statistikos departamentas, vidurkio dydžiams. Vadovaudamasis Lietuvos statistikos departamento skelbiama informacija, konkretų atlyginimo dydį Valstybinės atominės energetikos saugos inspekcijos viršininkui ir jo pavaduotojams kiekvieniems metams tvirtina Ministras Pirmininkas. 
+4. Valstybinės atominės energetikos saugos inspekcijos viršininko atlyginimas lygus keturiems, o viršininko pavaduotojų – trims ūkio subjektų, įstatymų nustatyta tvarka ir sąlygomis vykdančių branduolinės energetikos objekto (objektų) eksploatavimo, eksploatavimo nutraukimo ir (ar) uždarytų radioaktyviųjų atliekų saugyklų ar atliekynų priežiūros veiklą, darbuotojų praėjusių kalendorinių metų vidutinių mėnesinių bruto darbo užmokesčių, kuriuos teisės aktų nustatyta tvarka apskaičiuoja ir skelbia Lietuvos statistikos departamentas, vidurkio dydžiams. 
+TAR pastaba. 2019 metais Valstybinės atominės energetikos saugos inspekcijos viršininko atlyginimas ir viršininko pavaduotojų atlyginimai, nustatyti 23 straipsnio 4 dalyje, turi būti dauginami iš koeficiento 1,289.
 Straipsnio dalies pakeitimai:
 Nr. XII-216, 2013-03-28, Žin., 2013, Nr. 36-1727 (2013-04-06), i. k. 1131010ISTA0XII-216
+Nr. XIII-1594, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18208
  
 
 
@@ -2449,7 +2451,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
  
  
 
@@ -2598,3 +2600,8 @@ Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 2, 7, 15, 16, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-994, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01006
 Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 7 straipsnio pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1594, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18208
+Lietuvos Respublikos branduolinės energijos įstatymo Nr. I-1613 23 straipsnio pakeitimo įstatymas
