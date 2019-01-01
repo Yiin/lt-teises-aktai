@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2018-12-21 iki 2018-12-31
+Suvestinė redakcija nuo 2019-01-01 iki 2019-01-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
  
@@ -99,6 +99,32 @@ Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 
 
+41. Kontroliuojamasis užsienio apmokestinamasis subjektas (toliau – kontroliuojamasis užsienio subjektas): 
+
+
+1) kontroliuojamasis užsienio apmokestinamasis vienetas;
+
+
+
+
+2) Lietuvos vieneto nuolatinė buveinė, kurios pajamos nepriskiriamos Lietuvos vieneto mokesčio bazei pagal šio Įstatymo 4 straipsnio 1 dalį. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+ 
+
+
+
+
+42. Kontroliuojamasis užsienio apmokestinamasis vienetas (toliau – kontroliuojamasis užsienio vienetas) – užsienio vienetas, kuriame Lietuvos vienetas vienas arba kartu su susijusiais asmenimis paskutinę to užsienio vieneto mokestinio laikotarpio dieną tiesiogiai ar netiesiogiai valdo daugiau kaip 50 procentų akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį arba išimtinių teisių jas įsigyti. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+ 
+
+
+
+
 5. Pelno nesiekiantis vienetas – vienetas, kurio veiklos tikslas nėra pelno siekimas ir kuris pagal jo veiklą reglamentuojančius teisės aktus gauto pelno neturi teisės skirstyti savo steigėjams ir (arba) dalyviams.
 
 
@@ -109,7 +135,10 @@ Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 
 
-7. Vienetų grupė – grupė, kurią sudaro patronuojantis vienetas ir jo dukterinis arba keli dukteriniai apmokestinamieji vienetai, kuriuose patronuojantis vienetas turi daugiau kaip 25 procentus akcijų (pajų, dalių).
+7. Vienetų grupė – grupė, kurią sudaro patronuojantysis vienetas ir jo patronuojamasis (dukterinis) arba keli patronuojamieji (dukteriniai) vienetai, kuriuose patronuojantysis vienetas tiesiogiai arba netiesiogiai valdo daugiau kaip 25 procentus akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį arba išimtinių teisių jas įsigyti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+ 
 
 
 
@@ -228,7 +257,10 @@ Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
 
 
 
-22. Nuolatinė buveinė – užsienio vieneto veiklos Lietuvos Respublikoje išraiška. Užsienio vienetas laikomas veikiančiu per nuolatinę buveinę Lietuvos Respublikos teritorijoje, jeigu jis Lietuvos Respublikoje: nuolat vykdo veiklą; arba vykdo savo veiklą per priklausomą atstovą (agentą); arba naudoja statybos teritoriją, statybos, surinkimo ar įrangos objektą; arba gamtos išteklių tyrimui ar gavybai naudoja įrangą arba konstrukciją, įskaitant tam naudojamus gręžinius arba laivus. Nuolatinumo apibrėžimą, atstovo (agento) statuso priklausomumo ar nepriklausomumo kriterijus nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
+22. Nuolatinė buveinė – užsienio vieneto veiklos Lietuvos Respublikoje arba Lietuvos vieneto veiklos užsienio valstybėje vieta, įskaitant veiklos vykdymą visoje arba tam tikroje atitinkamos valstybės teritorijoje. Užsienio vienetas laikomas veikiančiu per nuolatinę buveinę Lietuvos Respublikos teritorijoje, jeigu jis Lietuvos Respublikoje nuolat vykdo veiklą arba vykdo savo veiklą per priklausomą atstovą (agentą), arba naudoja statybos teritoriją, statybos, surinkimo ar įrangos objektą, arba gamtos ištekliams tirti ar gauti naudoja įrangą arba konstrukciją, įskaitant tam naudojamus gręžinius arba laivus. Nuolatinumą apibrėžia, atstovo (agento) statuso priklausomumo ar nepriklausomumo kriterijus nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+ 
 
 
 
@@ -296,7 +328,10 @@ Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 
 
-29. Pozityviosios pajamos – visos kontroliuojamojo vieneto, įregistruoto ar kitaip organizuoto valstybėse arba zonose, nustatytose šio Įstatymo 39 straipsnio 4 dalyje, pajamos ar jų dalis, įskaitomos į Lietuvos kontroliuojančiojo vieneto pajamas proporcingai Lietuvos vieneto turimų akcijų (dalių, pajų), balsų ar teisių į kontroliuojamojo vieneto pelną skaičiui.
+29. Pozityviosios pajamos – kontroliuojamojo užsienio subjekto pajamos ar jų dalis, įskaitomos į Lietuvos vieneto pajamas šio Įstatymo 39 straipsnyje nustatyta tvarka. Kontroliuojamojo užsienio vieneto pajamos ar jų dalis įskaitomos paskutinę kontroliuojamojo užsienio vieneto mokestinio laikotarpio dieną proporcingai Lietuvos vieneto valdomų akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį arba išimtinių teisių jas įsigyti skaičiui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+ 
 
 
 
@@ -527,9 +562,10 @@ Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
 
 
 
-41. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokesčių administravimo įstatyme (toliau – Mokesčių administravimo įstatymas), Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas), Lietuvos Respublikos baudžiamajame kodekse (toliau – Baudžiamasis kodeksas) ir Lietuvos Respublikos kino įstatyme, kiek tai neprieštarauja šiam Įstatymui (išskyrus Civilinio kodekso įsakmiai nurodytus atvejus).
+41. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos baudžiamajame kodekse, Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos draudimo įstatyme ir Lietuvos Respublikos kino įstatyme, kiek tai neprieštarauja šiam Įstatymui (išskyrus Civilinio kodekso įsakmiai nurodytus atvejus).
 Straipsnio dalies pakeitimai:
 Nr. XII-1466, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21227
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
  
 
 
@@ -620,7 +656,11 @@ Nr. X-1481, 2008-04-08, Žin., 2008, Nr. 47-1748 (2008-04-24)
 
 
 
-2. Į Lietuvos vieneto pajamas taip pat įskaitomos jo kontroliuojamojo užsienio vieneto pozityviosios pajamos arba jų dalis šio Įstatymo 39 straipsnyje nustatyta tvarka. Į Lietuvos vieneto (Europos ekonominių interesų grupės dalyvio) pajamas taip pat įskaitomos tos Europos ekonominių interesų grupės pajamos šio Įstatymo 39(1) straipsnyje nustatyta tvarka.
+2. Į Lietuvos vieneto pajamas taip pat įskaitomos pozityviosios pajamos šio Įstatymo 39 straipsnyje nustatyta tvarka. Į Lietuvos vieneto (Europos ekonominių interesų grupės dalyvio) pajamas taip pat įskaitomos tos Europos ekonominių interesų grupės pajamos šio Įstatymo 391  straipsnyje nustatyta tvarka.
+TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+ 
 
 
 
@@ -766,17 +806,18 @@ TAR pastaba. 1 dalies 2 punkto nuostatos taikomos ir žemės ūkio veiklą vykda
 
 
 
-2. Vienetų (išskyrus pelno nesiekiančius), kuriuose vidutinis sąrašuose esančių darbuotojų skaičius neviršija 10 žmonių ir mokestinio laikotarpio pajamos neviršija 300 000 eurų, pirmojo mokestinio laikotarpio apmokestinamasis pelnas apmokestinamas taikant 0 procentų mokesčio tarifą, kitų mokestinių laikotarpių apmokestinamasis pelnas – taikant 5 procentų mokesčio tarifą, išskyrus šio straipsnio 3 dalyje nustatytus atvejus. Šioje dalyje nustatytas 0 procentų mokesčio tarifas taikomas tik tokiam vienetui, kurio dalyvis (dalyviai) yra fizinis asmuo (fiziniai asmenys), ir tik tuo atveju, kai per tris vienas po kito einančius mokestinius laikotarpius, įskaitant pirmąjį mokestinį laikotarpį: vieneto veikla nėra sustabdoma, vienetas nėra likviduojamas, reorganizuojamas ir vieneto akcijos (dalys, pajai) nėra perleidžiamos naujiems dalyviams. 
-TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+2. Vienetų, kuriuose vidutinis sąrašuose esančių darbuotojų skaičius neviršija 10 žmonių ir mokestinio laikotarpio pajamos neviršija 300 000 eurų, pirmojo mokestinio laikotarpio apmokestinamasis pelnas apmokestinamas taikant 0 procentų mokesčio tarifą, kitų mokestinių laikotarpių apmokestinamasis pelnas – taikant 5 procentų mokesčio tarifą, išskyrus šio straipsnio 3 dalyje nustatytus atvejus. Šioje dalyje nustatytas 0 procentų mokesčio tarifas taikomas tik tokiam vienetui, kurio dalyvis (dalyviai) yra fizinis asmuo (fiziniai asmenys), ir tik tuo atveju, kai per tris vienas po kito einančius mokestinius laikotarpius, įskaitant pirmąjį mokestinį laikotarpį, vieneto veikla nėra sustabdoma, vienetas nėra likviduojamas, reorganizuojamas ir vieneto akcijos (dalys, pajai) nėra perleidžiamos naujiems dalyviams. 
+TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant 2019 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
 Straipsnio dalies pakeitimai:
 Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
 Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+Nr. XIII-1333, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10976
  
 
 
 
 
-3. Šio straipsnio 2 dalies nuostatos netaikomos: 
+3. Šio straipsnio 2 dalies nuostatos netaikomos, kai šioje dalyje nurodytų susijusių vienetų bendras vidutinis sąrašuose esančių darbuotojų skaičius viršija 10 žmonių ir mokestinio laikotarpio bendros pajamos viršija 300 000 eurų: 
 
 
 1) vienetams (individualioms (personalinėms) įmonėms), kurių dalyvis ar jo šeimos nariai yra ir kitų vienetų (individualių (personalinių) įmonių) dalyviai;
@@ -794,14 +835,20 @@ Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
 
 
 
-4) vienetams, kuriuose tie patys dalyviai kartu paskutinę mokestinio laikotarpio dieną valdo daugiau kaip 50 procentų akcijų (dalių, pajų).
+4) vienetams, kuriuose tie patys dalyviai kartu paskutinę mokestinio laikotarpio dieną valdo daugiau kaip 50 procentų akcijų (dalių, pajų). 
+TAR pastaba. 3 dalies nuostatos taikomos apskaičiuojant 2019 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1187, 2018-05-24, paskelbta TAR 2018-05-29, i. k. 2018-08643
+ 
 
 
 
 
-
-
-4. Pelno nesiekiančių vienetų, kurių mokestinio laikotarpio pajamos iš ūkinės komercinės veiklos neviršija 300 000 eurų, apmokestinamojo pelno dalis, atitinkanti 7 250 eurų sumą, apmokestinama taikant 0 procentų mokesčio tarifą, o likusi apmokestinamojo pelno dalis – taikant 15 procentų mokesčio tarifą. Pelno nesiekiančių vienetų ūkinės komercinės veiklos pajamoms nepriskiriamos pajamos, kurios tiesiogiai skiriamos tenkinant viešuosius interesus vykdomai veiklai finansuoti. 
+4. Neteko galios nuo 2019-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-1333, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10976
 Straipsnio dalies pakeitimai:
 Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
  
@@ -1090,6 +1137,15 @@ APMOKESTINAMOJO PELNO APSKAIČIAVIMO TVARKA
 7. Šio straipsnio nuostatos netaikomos laivybos vieneto pajamoms iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos, jei laivybos vieneto pasirinkimu pajamoms iš tarptautinio vežimo jūrų laivais arba tarptautinio vežimo jūrų laivais ir su juo tiesiogiai susijusios veiklos pagal šio Įstatymo 381 straipsnio nuostatas taikomas fiksuotas pelno mokestis. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
+ 
+
+
+
+
+8. Apskaičiuojant pelno mokestį, neatsižvelgiama į darinį ar kelis darinius, kurių nustatymo pagrindinis tikslas arba vienas iš pagrindinių tikslų – gauti mokestinės naudos, ir todėl jie laikomi apsimestiniais, atsižvelgus į visus susijusius faktus ir aplinkybes. Darinys gali apimti daugiau negu vieną etapą ar dalį. Darinys arba keli dariniai laikomi apsimestiniais, jeigu jie nebuvo nustatyti dėl svarių komercinių priežasčių, atspindinčių ekonominę realybę.
+TAR pastaba. 8 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+Papildyta straipsnio dalimi:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
  
 
 
@@ -1464,6 +1520,15 @@ LEIDŽIAMI ATSKAITYMAI IR RIBOJAMŲ DYDŽIŲ LEIDŽIAMI ATSKAITYMAI
 
 
 
+13) palūkanos.
+TAR pastaba. 13 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+Papildyta straipsnio punktu:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+ 
+
+
+
+
 Straipsnio pakeitimai:
 Nr. X-1484, 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
 Nr. XI-387, 2009-07-22, Žin., 2009, Nr. 93-3979 (2009-08-04)
@@ -1501,11 +1566,10 @@ Nr. X-1484, 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
 
 
 
- 
 172 straipsnis. Apmokestinamųjų pajamų mažinimas dėl filmo arba jo dalies gamybai neatlygintinai suteiktų lėšų 
 
 
-1. Apskaičiuojant pelno mokestį, šio straipsnio nustatyta tvarka iš apmokestinamųjų pajamų gali būti atimamos neatlygintinai Lietuvos filmo gamintojui laikotarpiu nuo 2014 m. sausio 1 d. iki 2018 m. gruodžio 31 d. suteiktos lėšos filmo ar jo dalies gamybai Lietuvos Respublikoje, kai:
+1. Apskaičiuojant pelno mokestį, šio straipsnio nustatyta tvarka iš apmokestinamųjų pajamų gali būti atimamos neatlygintinai Lietuvos filmo gamintojui laikotarpiu nuo 2019 m. sausio 1 d. iki 2023 m. gruodžio 31 d. suteiktos lėšos filmo ar jo dalies gamybai Lietuvos Respublikoje, kai:
 
 
 1) filmas atitinka Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus kultūrinio turinio ir gamybos vertinimo kriterijus ir
@@ -1513,22 +1577,19 @@ Nr. X-1484, 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
 
 
 
-2) ne mažiau kaip 80 procentų visų filmo ar jo dalies gamybos išlaidų patiriama Lietuvos Respublikoje ir Lietuvos Respublikoje patirtos išlaidos, neatsižvelgiant į šio straipsnio 3 dalyje nurodytas išlaidas, yra ne mažesnės kaip 43 000 eurų, ir
-Straipsnio punkto pakeitimai:
-Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
- 
+2) ne mažiau kaip 80 procentų visų filmo ar jo dalies gamybos išlaidų patiriama Lietuvos Respublikoje ir Lietuvos Respublikoje patirtos išlaidos, neatsižvelgiant į šio straipsnio 3 dalyje nurodytas išlaidas, yra ne mažesnės kaip 43 000 eurų, ir
 
 
 
 
-3) bendra visų Lietuvos vienetų ar užsienio vienetų per jų nuolatines buveines Lietuvos Respublikoje suteiktų lėšų suma neviršija 20 procentų visų filmo ar jo dalies gamybos išlaidų. 
+3) bendra visų Lietuvos vienetų ar užsienio vienetų per jų nuolatines buveines Lietuvos Respublikoje suteiktų lėšų suma neviršija 30 procentų visų filmo ar jo dalies gamybos išlaidų.
 
 
 
 
 
 
-2. Iš apmokestinamųjų pajamų gali būti atimama ne daugiau kaip 75 procentai neatlygintinai suteiktų lėšų filmo ar jo dalies gamybai Lietuvos Respublikoje. Šios suteiktos lėšos iš apmokestinamųjų pajamų atimamos tuo mokestiniu laikotarpiu, kurį buvo gauta Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka išduodama pažyma apie filmo gamintojui neatlygintinai suteiktų lėšų panaudojimo atitiktį šiame straipsnyje nustatytiems reikalavimams (toliau – investicijos pažyma).
+2. Iš apmokestinamųjų pajamų gali būti atimama ne daugiau kaip 75 procentai neatlygintinai suteiktų lėšų filmo ar jo dalies gamybai Lietuvos Respublikoje. Šios suteiktos lėšos iš apmokestinamųjų pajamų atimamos tuo mokestiniu laikotarpiu, kurį buvo gauta Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka išduota pažyma apie filmo gamintojui neatlygintinai suteiktų lėšų panaudojimo atitiktį šiame straipsnyje nustatytiems reikalavimams (toliau – investicijos pažyma).
 
 
 
@@ -1541,7 +1602,7 @@ Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
 
 
 
-2) paraiškos parengimo išlaidoms;
+2) paraiškos rengimo išlaidoms;
 
 
 
@@ -1576,13 +1637,16 @@ Nr. XII-1131, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13610
 
 
 
-9) vaidmenų atlikėjams mokamam atlygiui – suma, viršijanti 4 procentus visų filmo ar jo dalies gamybos išlaidų.
-
-
-
-
+9) kiekvienam vaidmens atlikėjui atskirai išmokamam atlygiui – suma, viršijanti 4 procentus visų filmo ar jo dalies gamybos Lietuvos Respublikoje išlaidų.
+TAR pastaba. Straipsnio nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
 Įstatymas papildytas straipsniu:
 Nr. XII-366, 2013-06-13, Žin., 2013, Nr. 68-3407 (2013-06-28)
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1703, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20942
  
 
 
@@ -2029,6 +2093,130 @@ Nr. X-456, 2005-12-20, Žin., 2005, Nr. 153-5635 (2005-12-31)
 Nr. X-866, 2006-10-19, Žin., 2006, Nr. 116-4404 (2006-10-31)
 Nr. X-1484, 2008-04-10, Žin., 2008, Nr. 47-1749 (2008-04-24)
 Nr. XII-661, 2013-12-12, Žin., 2013, Nr. 140-7046 (2013-12-30)
+ 
+
+
+
+
+301 straipsnis. Palūkanos
+
+
+1. Iš pajamų atskaitomos palūkanų sąnaudos, neviršijančios palūkanų pajamų.
+
+
+
+
+2. Jeigu vieneto palūkanų sąnaudos viršija palūkanų pajamas, iš pajamų atskaitoma palūkanų sąnaudų, viršijančių palūkanų pajamas, suma, ne didesnė kaip 30 procentų vieneto apmokestinamojo EBITDA, t. y. apmokestinamojo pelno, apskaičiuoto iš pajamų atėmus neapmokestinamąsias pajamas, leidžiamus ir ribojamų dydžių leidžiamus atskaitymus, išskyrus nusidėvėjimo ir amortizacijos sumas, mokslinių tyrimų ir eksperimentinės plėtros darbų sąnaudų padidintų atskaitymų sumą, apmokestinamųjų pajamų sumažinimo dėl filmo arba jo dalies gamybai neatlygintinai suteiktų lėšų sumą, atskaitomą suteiktos paramos sumą, praėjusių mokestinių laikotarpių nuostolių, atskaitomų iš mokestinio laikotarpio pajamų, sumą ir palūkanų sąnaudas, viršijančias palūkanų pajamas. 
+
+
+
+
+3. Neatsižvelgiant į šio straipsnio 2 dalies nuostatas, iš pajamų gali būti atskaitoma palūkanų sąnaudų, viršijančių palūkanų pajamas, suma, neviršijanti 3 000 000 eurų.
+
+
+
+
+4. Jeigu vienetas priklauso vienetų grupei, šio straipsnio 2 ir 3 dalių nuostatos taikomos bendrai visiems tos vienetų grupės Lietuvos vienetams ir užsienio vienetų nuolatinėms buveinėms Lietuvos Respublikoje, išskyrus finansų įstaigas ir draudimo įmones. Jeigu vienetų grupės vienetų bendra palūkanų sąnaudų, viršijančių palūkanų pajamas, suma yra lygi pagal šio straipsnio 2 ar 3 dalies nuostatas apskaičiuotai maksimaliai vienetų grupei leidžiamai atskaityti palūkanų sumai arba už šią sumą mažesnė, vienetų grupės vienetai atskaito visas palūkanų sąnaudas, viršijančias palūkanų pajamas. Vieneto atskaitoma palūkanų sąnaudų, viršijančių palūkanų pajamas, dalis nuo vienetų grupei taikant šio straipsnio nuostatas leidžiamos atskaityti palūkanų sąnaudų sumos apskaičiuojama proporcingai to vieneto palūkanų sąnaudų, viršijančių palūkanų pajamas, daliai nuo vienetų grupės vienetų, kurių palūkanų sąnaudos viršija palūkanų pajamas, palūkanų pajamas viršijančios palūkanų sąnaudų sumos. 
+
+
+
+
+5. Vienetas, kurio finansinės ataskaitos įtrauktos į vienetų grupės konsoliduotąsias finansines ataskaitas, turi galimybę, neatsižvelgdamas į šio straipsnio 2 ir 3 dalių nuostatas, atskaityti visas palūkanų sąnaudas, viršijančias palūkanų pajamas, jeigu gali įrodyti, kad jo nuosavo kapitalo ir viso turto santykis nėra daugiau negu 2 procentiniais punktais mažesnis už atitinkamą vienetų grupės santykį, nustatomą pagal vienetų grupės konsoliduotųjų finansinių ataskaitų duomenis. Vieneto turtas ir įsipareigojimai vertinami taikant tą patį metodą kaip ir sudarant konsoliduotąsias finansines ataskaitas.
+
+
+
+
+6. Šio straipsnio taikymo tikslais palūkanomis taip pat laikoma:
+
+
+1) atlygis už paskolas, suteikiančias teisę dalyvauti skirstant pelną;
+
+
+
+
+2) atlygis už konvertuojamąsias ir nulinės atkarpos obligacijas;
+
+
+
+
+3) atlygis už finansavimą pagal islamo teisę;
+
+
+
+
+4) atlygis už lizingą (finansinę nuomą);
+
+
+
+
+5) į turto balansinę vertę įtrauktos kapitalizuotos palūkanos;
+
+
+
+
+6) palūkanos, susietos su skolinto kapitalo grąža (pelnu, pajamomis);
+
+
+
+
+7) sąlyginės išvestinių finansinių priemonių arba apsidraudimo sandorių, susijusių su vieneto paskolomis, palūkanos;
+
+
+
+
+8) garantiniai mokėjimai pagal finansavimo sandorius;
+
+
+
+
+9) kitas atlygis, ekonomiškai lygiavertis palūkanoms;
+
+
+
+
+10) su visais šioje dalyje numatytais mokėjimais susiję administravimo mokesčiai;
+
+
+
+
+11) su visais šioje dalyje numatytais mokėjimais susijusi užsienio valiutos kurso pasikeitimo suma.
+
+
+
+
+
+
+7. Šio straipsnio nuostatos netaikomos:
+
+
+1) paskolų, skirtų ilgalaikiams viešosios infrastruktūros projektams, kurių tikslas yra sukurti, modernizuoti, valdyti ir (arba) prižiūrėti viešiesiems interesams tenkinti skirtą turtą, finansuoti, kai projekto vykdytojas, jo turtas yra, palūkanų sąnaudos patiriamos ir pajamos gaunamos Europos Sąjungos valstybėje narėje, palūkanoms. Projektų priskyrimo prie ilgalaikių viešosios infrastruktūros projektų kriterijus ir tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija;
+
+
+
+
+2) finansų įstaigoms ir draudimo įmonėms;
+
+
+
+
+3) vienetams, neturintiems susijusių asmenų (vienetų).
+
+
+
+
+
+
+8. Kai taikomas šio straipsnio 7 dalies 1 punktas, pajamos, gautos iš ilgalaikio viešosios infrastruktūros projekto, šio straipsnio taikymo tikslais apskaičiuojant apmokestinamąjį EBITDA neįtraukiamos. 
+
+
+
+
+9. Pagal šį straipsnį neatskaitytų palūkanų sąnaudų suma, kuri kitais šiame Įstatyme nustatytais atvejais galėtų būtų atskaitoma, gali būti perkeliama į kitus mokestinius laikotarpius neribotą laiką ir atskaitoma iš tų mokestinių laikotarpių pajamų taikant šiame straipsnyje nustatytus apribojimus.
+TAR pastaba. 301 straipsnio nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+
+Papildyta straipsniu:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
  
 
 
@@ -2649,63 +2837,121 @@ Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
 
 
 
-39 straipsnis. Kontroliuojamųjų užsienio vienetų pajamų apmokestinimas
+39 straipsnis. Pozityviųjų pajamų apskaičiavimas ir apmokestinimas
 
 
-1. Kontroliuojamųjų užsienio vienetų mokestinis laikotarpis yra kalendoriniai metai, tačiau jei kontroliuojamojo užsienio vieneto mokestinis laikotarpis nesutampa su kalendoriniais metais arba jis nenustatomas, laikoma, kad kontroliuojamojo užsienio vieneto mokestinis laikotarpis sutampa su kontroliuojančio vieneto mokestiniu laikotarpiu.
+1. Pozityviosios pajamos yra apmokestinamos pagal šio straipsnio nuostatas, jeigu:
 
 
-
-
-2. Pozityviųjų pajamų apskaičiavimo, įtraukimo į kontroliuojančio Lietuvos vieneto pajamas tvarką, pajamų, neįtraukiamų į pozityviąsias pajamas, rūšis nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
-
-
-
-
-3. Tos pačios kontroliuojamojo užsienio vieneto pajamos šiame straipsnyje nustatyta tvarka gali būti apmokestintos Lietuvos Respublikoje tik vieną kartą.
+1) kontroliuojamasis užsienio vienetas yra įregistruotas ar kitaip organizuotas tikslinėje teritorijoje arba
 
 
 
 
-4. Kontroliuojamojo užsienio vieneto pajamos yra apmokestinamos pagal šio straipsnio nuostatas, jeigu:
-
-
-1) vienetas nėra įregistruotas ar kitaip organizuotas valstybėse arba zonose, kurių sąrašą tvirtina finansų ministras;
+2) kontroliuojamojo užsienio subjekto pasyviosios pajamos viršija 1/3 visų to kontroliuojamojo užsienio subjekto mokestinio laikotarpio pajamų ir
 
 
 
 
-2) vienetas atitinka bet kurią užsienio vieneto verslo organizavimo formą, kurių sąrašą tvirtina finansų ministras.
+3) kontroliuojamojo užsienio subjekto faktinis pelno mokestis, apskaičiuotas nuo to kontroliuojamojo užsienio subjekto pajamų pagal toje užsienio valstybėje taikomas pelno mokesčio ar jam tapataus mokesčio taisykles, yra mažesnis negu 50 procentų faktinio pelno mokesčio, kuris būtų apskaičiuotas nuo to kontroliuojamojo užsienio subjekto pajamų pagal šio Įstatymo nuostatas. Taikant šį punktą, neatsižvelgiama į kontroliuojamojo užsienio vieneto per nuolatinę buveinę kitoje užsienio valstybėje uždirbtas pajamas, kurios nėra apmokestinamos užsienio valstybėje, kurioje įregistruotas ar kitaip organizuotas kontroliuojamasis užsienio vienetas. Taikant šį punktą, į pozityviąsias pajamas įtraukiamos tik kontroliuojamojo užsienio subjekto pasyviosios pajamos.
 
 
 
 
 
 
-5. Šio straipsnio nuostatos netaikomos tais atvejais, jeigu:
-
-
-1) kontroliuojamojo užsienio vieneto pajamas sudaro tik kontroliuojančio vieneto išmokos, laikomos neleidžiamais atskaitymais pagal šio Įstatymo 31 straipsnio 1 dalies 12 punktą, arba
+2. Šio straipsnio nuostatos netaikomos tais atvejais, kai kontroliuojamasis užsienio subjektas, atitinkantis šio straipsnio 1 dalies 2 ir 3 punktuose nurodytas sąlygas, turi darbuotojų ir naudoja turtą faktinei ekonominei veiklai užtikrinti valstybėje, kurioje šis kontroliuojamasis užsienio subjektas įregistruotas ar kitaip organizuotas.
 
 
 
 
-2) kontroliuojamojo užsienio vieneto pajamos sudaro mažiau kaip 5 procentus kontroliuojančio vieneto pajamų.
+3. Pasyviosiomis pajamomis pagal šį straipsnį laikoma: 
+
+
+1) palūkanos ir kitos iš finansinio turto gaunamos pajamos;
+
+
+
+
+2) honorarai ir bet kurios kitos pajamos iš intelektinės nuosavybės;
+
+
+
+
+3) pajamos iš paskirstytinojo pelno (įskaitant iš kitų vienetų gautus dividendus ir Lietuvos vienetui paskirstytus, bet neišmokėtus dividendus) ir turto vertės padidėjimo pajamos iš akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį arba išimtinių teisių jas įsigyti perleidimo;
+
+
+
+
+4) pajamos iš draudimo ir finansinių paslaugų teikimo veiklos;
+
+
+
+
+5) vienetų, kurie gauna su prekių tiekimu ir paslaugų teikimu susijusių pajamų iš prekių ir paslaugų, įsigytų iš susijusių asmenų ir jiems parduotų, nesukurdami pridėtinės ekonominės vertės arba sukurdami nedidelę pridėtinę ekonominę vertę, pajamos.
 
 
 
 
 
 
-6. Lietuvos vienetas turi teisę nuo kontroliuojamojo užsienio vieneto pozityviųjų pajamų, įtrauktų į Lietuvos vieneto pajamas, pelno mokesčio, sumokėto toje valstybėje arba zonoje, kurioje įregistruotas arba kitaip organizuotas kontroliuojamasis užsienio vienetas, proporcingai Lietuvos vieneto turimų akcijų (dalių, pajų), balsų ar teisių į kontroliuojamojo vieneto pelną skaičiui dydžiu sumažinti į biudžetą mokėtiną pagal šį Įstatymą nuo pozityviųjų pajamų, įtrauktų į Lietuvos vieneto pajamas, apskaičiuotą pelno mokestį. Jei toje valstybėje arba zonoje mokesčio sumokėta daugiau, negu tai numato tos valstybės arba zonos įstatymai, Lietuvos vienetas turi teisę sumažinti į biudžetą mokėtiną pagal šį Įstatymą nuo pozityviųjų pajamų, įtrauktų į Lietuvos vieneto pajamas, apskaičiuotą pelno mokestį tuo dydžiu, kuris turėjo būti sumokėtas nuo kontroliuojamojo užsienio vieneto pozityviųjų pajamų, įtrauktinų į Lietuvos vieneto pajamas toje valstybėje arba zonoje, kurioje įregistruotas arba kitaip organizuotas kontroliuojamasis užsienio vienetas.
+4. Į pozityviąsias pajamas neįtraukiama:
+
+
+1) išmokos, kurios laikomos neleidžiamais atskaitymais pagal šio Įstatymo 31 straipsnio 1 dalį ir kurias kontroliuojamasis užsienio subjektas yra gavęs iš Lietuvos vieneto;
 
 
 
 
-7. Lietuvos vienetas turi teisę nuo kontroliuojamojo užsienio vieneto pozityviųjų pajamų, įtrauktų į Lietuvos vieneto pajamas, pelno mokesčio, sumokėto užsienio valstybėje, su kuria Lietuvos Respublika yra sudariusi sutartį dėl dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo ir pagal kurios atitinkamą įstatymą kontroliuojamojo užsienio vieneto pozityviosios pajamos yra įtrauktos į tos valstybės vieneto pajamas ir apmokestintos pagal analogiškas šiame straipsnyje nustatytoms taisykles, dydžiu sumažinti į biudžetą mokėtiną pagal šį Įstatymą nuo pozityviųjų pajamų, įtrauktų į Lietuvos vieneto pajamas, apskaičiuotą pelno mokestį.
+2) paskirstyti proporcingai Lietuvos vieneto valdomų akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį arba išimtinių teisių jas įsigyti skaičiui, tačiau neišmokėti šiam Lietuvos vienetui dividendai, kurie neviršija prieš tai buvusio mokestinio laikotarpio pozityviųjų pajamų sumos, apskaičiuotos pagal šio straipsnio 5 dalį, ir išmokami per penkis vienas po kito einančius mokestinius laikotarpius. Jeigu šie dividendai per penkis vienas po kito einančius mokestinius laikotarpius neišmokami, visi per tą laiką apskaičiuoti dividendai įtraukiami į pozityviąsias pajamas.
+
+
+
+
+
+
+5. Apskaičiuojant pozityviąsias pajamas, gali būti atimamos neapmokestinamosios pajamos, atskaitomi leidžiami atskaitymai ir ribojamų dydžių leidžiami atskaitymai, susiję su tų pajamų uždirbimu, pagal šio Įstatymo 11 straipsnio nuostatas. Jeigu apskaičiuojama neigiama suma, ši suma nemažina Lietuvos vieneto pajamų.
+
+
+
+
+6. Jeigu Lietuvos vienetas turi daugiau kaip vieną kontroliuojamąjį užsienio subjektą, kiekvieno iš jų pozityviosios pajamos apskaičiuojamos atskirai. 
+
+
+
+
+7. Apskaičiuotos pozityviosios pajamos įtraukiamos į tą Lietuvos vieneto mokestinį laikotarpį, kurį baigiasi kontroliuojamojo užsienio subjekto mokestinis laikotarpis. Jeigu kontroliuojamojo užsienio subjekto mokestinis laikotarpis nenustatomas, laikoma, kad kontroliuojamojo užsienio subjekto mokestinis laikotarpis sutampa su Lietuvos vieneto mokestiniu laikotarpiu.
+
+
+
+
+8. Tos pačios kontroliuojamojo užsienio subjekto pajamos šiame straipsnyje nustatyta tvarka gali būti apmokestinamos Lietuvos Respublikoje tik vieną kartą.
+
+
+
+
+9. Kontroliuojamojo užsienio vieneto Lietuvos vienetui išmokėti dividendai neapmokestinami, jeigu pajamos, kurių pagrindu šie dividendai išmokėti, buvo įtrauktos į šio Lietuvos vieneto pajamas kaip pozityviosios pajamos. Tačiau jeigu kontroliuojamojo užsienio vieneto Lietuvos vienetui išmokėti dividendai viršija pajamas, kurios buvo įtrauktos į šio Lietuvos vieneto pajamas kaip pozityviosios pajamos, išmokėtų dividendų dalis, viršijanti Lietuvos vieneto pozityviąsias pajamas, apmokestinama pagal šio Įstatymo 35 straipsnį.
+
+
+
+
+10. Kai Lietuvos vienetas perleidžia savo turimą kontroliuojamojo užsienio vieneto dalį arba per nuolatinę buveinę, nurodytą šio Įstatymo 2 straipsnio 41 dalies 2 punkte, vykdomą veiklą ir bet kuri iš perleidimo gautų pajamų dalis anksčiau buvo įtraukta į pozityviąsias pajamas, apskaičiuojant už šias pajamas mokėtino pelno mokesčio sumą, ta pajamų dalis neįtraukiama į Lietuvos vieneto pelno mokesčio bazę.
+
+
+
+
+11. Lietuvos vienetas turi teisę nuo pozityviųjų pajamų toje valstybėje arba zonoje, kurioje įregistruotas arba kitaip organizuotas kontroliuojamasis užsienio subjektas, sumokėto pelno mokesčio ar jam tapataus mokesčio dydžiu (jeigu tai kontroliuojamasis užsienio vienetas, proporcingai Lietuvos vieneto turimų akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį arba išimtinių teisių jas įsigyti skaičiui) šio Įstatymo 55 straipsnio 6 dalyje nustatyta tvarka sumažinti į biudžetą mokėtiną pagal šį Įstatymą nuo pozityviųjų pajamų apskaičiuotą pelno mokestį. Jei toje valstybėje arba zonoje mokesčio sumokėta daugiau, negu tai numatyta tos valstybės arba zonos įstatymuose, Lietuvos vienetas turi teisę sumažinti į biudžetą mokėtiną pagal šį Įstatymą nuo pozityviųjų pajamų apskaičiuotą pelno mokestį mokesčio, kuris turėjo būti sumokėtas nuo pozityviųjų pajamų toje valstybėje arba zonoje, kurioje įregistruotas arba kitaip organizuotas kontroliuojamasis užsienio subjektas, dydžiu. 
+
+
+
+
+12. Lietuvos vienetas turi teisę nuo pozityviųjų pajamų Europos ekonominės erdvės valstybėje arba valstybėje, su kuria Lietuvos Respublika yra sudariusi ir taiko dvigubo apmokestinimo išvengimo sutartį ir pagal kurios atitinkamą įstatymą kontroliuojamojo užsienio subjekto pajamos yra įtrauktos į tos valstybės vieneto pozityviąsias pajamas ir apmokestintos pagal taisykles, analogiškas šiame straipsnyje nustatytoms taisyklėms, sumokėto pelno mokesčio ar jam tapataus mokesčio dydžiu šio Įstatymo 55 straipsnio 6 dalyje nustatyta tvarka sumažinti į biudžetą mokėtiną pagal šį Įstatymą nuo pozityviųjų pajamų apskaičiuotą pelno mokestį.
+TAR pastaba. 39 straipsnio nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
  
-
-
 
 
 
@@ -3140,6 +3386,35 @@ Nr. XII-366, 2013-06-13, Žin., 2013, Nr. 68-3407 (2013-06-28)
 
 
 
+463 straipsnis. Apmokestinamojo pelno sumažinimas lėšomis, skiriamomis viešuosius interesus tenkinančiai veiklai finansuoti
+
+
+1. Pelno nesiekiantys vienetai gali susimažinti apmokestinamąjį pelną lėšomis, tiesiogiai skiriamomis einamąjį mokestinį laikotarpį arba numatomomis tiesiogiai skirti per du vėlesnius vienas po kito einančius mokestinius laikotarpius viešuosius interesus tenkinančiai veiklai finansuoti. 
+
+
+
+
+2. Jeigu einamąjį mokestinį laikotarpį viešuosius interesus tenkinančiai veiklai finansuoti tiesiogiai skirtų lėšų suma yra didesnė negu už tą mokestinį laikotarpį apskaičiuota apmokestinamojo pelno suma, šią sumą viršijančios lėšos gali būti perkeliamos už vėlesnius du vienas po kito einančius mokestinius laikotarpius apskaičiuotoms apmokestinamojo pelno sumoms sumažinti, atitinkamai mažinant perkeliamą tokių lėšų sumą.
+
+
+
+
+3. Šio straipsnio 1 dalyje nurodytų lėšų dydis turi būti sumažintas viešuosius interesus tenkinančiai veiklai finansuoti tiesiogiai panaudotų valstybės ir savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto, Privalomojo sveikatos draudimo fondo biudžeto, kitų valstybės pinigų fondų, Europos Sąjungos ir kitos finansinės paramos, paramos pagal Lietuvos Respublikos labdaros ir paramos įstatymą, narių mokesčių, įnašų ir įmokų lėšų suma, jeigu tokios lėšos ar tokia parama buvo gauta.
+
+
+
+
+4. Jeigu pelno nesiekiančio vieneto lėšos per šio straipsnio 1 dalyje nurodytą laikotarpį neskiriamos viešuosius interesus tenkinančiai veiklai finansuoti, dėl sumažinto apmokestinamojo pelno neapskaičiuotas pelno mokestis turi būti sumokėtas į valstybės biudžetą perskaičiuojant ir apmokestinant praėjusių mokestinių laikotarpių apmokestinamąjį pelną. 
+TAR pastaba. Taikant 463 straipsnio nuostatas, neatsižvelgiama į lėšas, atitinkančias iki  įstatymo  Nr. XIII-13333 įsigaliojimo (2019-01-01) gautas pajamas, kurios panaudotos viešuosius interesus tenkinančiai veiklai finansuoti po šio įstatymo įsigaliojimo. Straipsnio nuostatos taikomos apskaičiuojant 2019 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+
+Papildyta straipsniu:
+Nr. XIII-1333, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10976
+ 
+
+
+
+
 
 
 X SKYRIUS
@@ -3453,15 +3728,15 @@ Nr. X-1697, 2008-07-14, Žin., 2008, Nr. 87-3457 (2008-07-31)
 
 
 
-6. Lietuvos vienetas iš šio Įstatymo nustatyta tvarka nuo pozityviųjų pajamų, įtrauktų į Lietuvos vieneto pajamas, apskaičiuoto pelno mokesčio sumos gali atskaityti pelno mokesčio arba jam tapataus mokesčio sumą, sumokėtą užsienio valstybėje nuo toje valstybėje per tuos mokestinius metus gautų pozityviųjų kontroliuojamojo vieneto pajamų, kaip nustatyta šio Įstatymo 39 straipsnio 6 ir 7 dalyse. Atskaitymai iš apskaičiuotos pelno mokesčio sumos šiame straipsnyje nustatyta tvarka leidžiami tik tuo atveju, jeigu yra išduoti užsienio valstybės mokesčio administratoriaus patvirtinti dokumentai apie užsienio valstybėje per tuos mokestinius metus gautas pajamas bei nuo jų apskaičiuotą ir sumokėtą pelno mokesčio arba jam tapataus mokesčio sumą ir jeigu Lietuvos vienetas vietos mokesčio administratoriui pateikia:
+6. Lietuvos vienetas iš šio Įstatymo nustatyta tvarka nuo pozityviųjų pajamų apskaičiuoto pelno mokesčio sumos gali atskaityti pelno mokesčio arba jam tapataus mokesčio sumą, sumokėtą užsienio valstybėje nuo toje valstybėje per tuos mokestinius metus gautų pozityviųjų pajamų, kaip nustatyta šio Įstatymo 39 straipsnio 11 ir 12 dalyse. Atskaitymai iš apskaičiuotos pelno mokesčio sumos šiame straipsnyje nustatyta tvarka leidžiami tik tuo atveju, kai yra išduoti užsienio valstybės mokesčio administratoriaus patvirtinti dokumentai apie užsienio valstybėje per tuos mokestinius metus gautas pajamas bei nuo jų apskaičiuotą ir sumokėtą pelno mokesčio arba jam tapataus mokesčio sumą ir kai Lietuvos vienetas vietos mokesčio administratoriui pateikia ar nurodo kontroliuojamojo užsienio subjekto: 
 
 
-1) kontroliuojamojo vieneto pavadinimą ir buveinės adresą;
+1) pavadinimą ir buveinės adresą;
 
 
 
 
-2) valdytojų sąrašą;
+2) valdytojų sąrašą (jeigu tai kontroliuojamasis užsienio vienetas);
 
 
 
@@ -3471,14 +3746,23 @@ Nr. X-1697, 2008-07-14, Žin., 2008, Nr. 87-3457 (2008-07-31)
 
 
 
-4) pozityviųjų pajamų, įtrauktų į pajamas, sumą;
+4) gautų pajamų ir nuo jų apskaičiuoto ir sumokėto pelno mokesčio ar jam tapataus mokesčio sumas;
 
 
 
 
-5) nuo pozityviųjų pajamų, įtrauktų į pajamas, sumokėtų mokesčių įrodymus.
+5) pozityviųjų pajamų sumą;
 
 
+
+
+6) nuo pozityviųjų pajamų sumokėtų mokesčių įrodymus.
+TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+ 
 
 
 
@@ -4220,6 +4504,14 @@ Nr. XII-2262, 2016-03-22, paskelbta TAR 2016-03-25, i. k. 2016-06346
  
 
 
+
+
+14. 2016 m. liepos 12 d. Tarybos direktyva (ES) 2016/1164, kuria nustatomos kovos su mokesčių vengimo praktika, tiesiogiai veikiančia vidaus rinkos veikimą, taisyklės (OL 2016 L 193, p. 1).
+Papildyta punktu:
+Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+ 
+
+
 Įstatymas papildytas priedėliu:
 Nr. IX-2102, 2004-04-08, Žin., 2004, Nr. 60-2117 (2004-04-24)
 Priedėlio pakeitimai:
@@ -4641,3 +4933,8 @@ Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 5 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
 Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2, 4, 5, 11, 17, 30, 39, 55 straipsnių, 3 priedėlio pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1703, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20942
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 17-2 straipsnio pakeitimo įstatymas
