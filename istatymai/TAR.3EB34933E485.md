@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-01
+Suvestinė redakcija nuo 2019-01-02 iki 2019-07-29
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -4912,22 +4912,22 @@ Mokesčių įstatymų pažeidimu yra laikomas neteisėtas asmenų elgesys, kuriu
 139 straipsnis. Baudos už mokesčių įstatymų pažeidimus
 
 
-1. Jei mokesčių administratorius mokestinio patikrinimo metu nustato, kad mokesčių mokėtojas neapskaičiavo nedeklaruojamo (įskaitant muitinės deklaracijose apskaičiuojamą mokestį) ar nedeklaravo deklaruojamo mokesčio arba neteisėtai pritaikė mažesnį mokesčio tarifą ir dėl šių priežasčių mokėtiną mokestį neteisėtai sumažino, mokesčių mokėtojui priskaičiuojama trūkstama mokesčio suma ir skiriama nuo 10 iki 50 procentų minėtos mokesčio sumos dydžio bauda, jei atitinkamo mokesčio įstatymas nenustato kitaip. 
+1. Jeigu mokesčių administratorius mokestinio patikrinimo metu nustato, kad mokesčių mokėtojas neapskaičiavo nedeklaruojamo (įskaitant muitinės deklaracijose apskaičiuojamą mokestį) ar nedeklaravo deklaruojamo mokesčio arba neteisėtai pritaikė mažesnį mokesčio tarifą ir dėl šių priežasčių mokėtiną mokestį neteisėtai sumažino, mokesčių mokėtojui priskaičiuojama trūkstama mokesčio suma ir skiriama nuo 10 iki 50 procentų šios trūkstamos mokesčio sumos dydžio bauda, jei atitinkamo mokesčio įstatymas nenustato kitaip. 
 
 
 
 
-2. Jei šio straipsnio 1 dalyje nurodyta trūkstama mokesčio suma priskaičiuojama dėl mokesčių administratoriaus mokestinio patikrinimo metu nustatytų mokesčių mokėtojo pajamų, kurių gavimo šaltinių mokesčių mokėtojas negali pagrįsti, mokesčių mokėtojui skiriama nuo 50 iki 100 procentų minėtos mokesčio sumos dydžio bauda. 
+2. Jeigu šio straipsnio 1 dalyje nurodyta trūkstama mokesčio suma priskaičiuojama dėl mokesčių administratoriaus mokestinio patikrinimo metu nustatytų mokesčių mokėtojo pajamų, kurių gavimo šaltinių mokesčių mokėtojas negali pagrįsti, mokesčių mokėtojui skiriama nuo 50 iki 100 procentų priskaičiuotos trūkstamos mokesčio sumos dydžio bauda. 
 
 
 
 
-3. Šio straipsnio 1 ir 2 dalyse nurodytų skiriamų konkrečių baudų dydis priklauso nuo pažeidimo pobūdžio, nuo to, ar mokesčių mokėtojas bendradarbiavo su mokesčių administratoriumi, nuo mokesčių įstatymų pažeidimo pripažinimo ir kitų aplinkybių, kurias mokesčių administratorius pripažįsta svarbiomis skirdamas didesnę ar mažesnę baudą. 
+3. Skirdamas konkrečią baudą, jos dydį mokesčių administratorius nustato vadovaudamasis šio Įstatymo 140 straipsnyje nustatytomis baudų skyrimo taisyklėmis.
 
 
 
 
-4. Mokesčių mokėtojui, kuriam už to paties mokesčio įstatymo pažeidimą pagal šį Įstatymą mažiau negu prieš penkerius metus jau buvo paskirta bauda, skiriant baudą šio straipsnio 1, 2 ir 3 dalyse nustatyta tvarka apskaičiuotas baudos dydis didinamas dvigubai.
+4. Mokesčių mokėtojui, kuriam už to paties mokesčio įstatymo pažeidimą pagal šį Įstatymą per trumpesnį negu šio Įstatymo 68 straipsnyje numatytasis atitinkamą mokesčių apskaičiavimo ir perskaičiavimo senaties terminą jau buvo paskirta bauda, šio Įstatymo 140 straipsnyje nustatyta tvarka apskaičiuota bauda didinama dvigubai.
 
 
 
@@ -4942,6 +4942,7 @@ Mokesčių įstatymų pažeidimu yra laikomas neteisėtas asmenų elgesys, kuriu
 
 Straipsnio pakeitimai:
 Nr. XIII-1155, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08527
+Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
  
 
 
