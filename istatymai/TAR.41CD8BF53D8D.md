@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-01-01
+Suvestinė redakcija nuo 2019-01-02 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
  
@@ -686,10 +686,11 @@ Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
 14 straipsnis. Rinkliavų rinkimo kontrolė
 
 
-1. Valstybės rinkliavų rinkimą kontroliuoja mokesčių administratorius, Valstybės kontrolė, o vietinių rinkliavų rinkimą – savivaldybės, nustačiusios vietinę rinkliavą, kontrolierius (savivaldybės kontrolės ir audito tarnyba).
+1. Valstybės rinkliavų rinkimą kontroliuoja mokesčių administratorius, Valstybės kontrolė, o vietinių rinkliavų rinkimą – savivaldybės, nustačiusios vietinę rinkliavą, kontrolės ir audito tarnyba. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2157, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19855
 Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
+Nr. XIII-1635, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18925
  
 
 
@@ -1017,3 +1018,8 @@ Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 2  straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 5, 6, 9, 10, 11, 12, 13, 14, 15 straipsnių ir IV skyriaus pavadinimo pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1635, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18925
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 14 straipsnio pakeitimo įstatymas
