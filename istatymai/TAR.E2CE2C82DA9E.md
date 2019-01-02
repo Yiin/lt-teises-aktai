@@ -13,11 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E"
 
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-01
+Suvestinė redakcija nuo 2019-01-02 iki 2020-08-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3046, i. k. 1071010ISTA00X-1212
  
-  LIETUVOS RESPUBLIKOS VIEŠOJO SEKTORIAUS ATSKAITOMYBĖS  ĮSTATYMAS
+LIETUVOS RESPUBLIKOS VIEŠOJO SEKTORIAUS ATSKAITOMYBĖS  ĮSTATYMAS
  
 2007 m. birželio 26 d. Nr. X-1212 Vilnius
  
@@ -1368,7 +1368,10 @@ Nr. XIII-1176, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09067
 30 straipsnis. Ataskaitų rinkinių auditas
 
 
-1. Metinių ataskaitų ir (arba) viešojo sektoriaus subjektų grupių metinių konsoliduotųjų ataskaitų rinkinių auditą ir (arba) patikrinimą atlieka Lietuvos Respublikos valstybės kontrolė, savivaldybių kontrolieriai (savivaldybių kontrolės ir audito tarnybos), audito įmonės, auditoriai pagal Valstybės kontrolės įstatymą, Biudžeto sandaros įstatymą, Vietos savivaldos įstatymą, Finansinių ataskaitų audito įstatymą ir jų įgyvendinamuosius teisės aktus.
+1. Metinių ataskaitų ir (arba) viešojo sektoriaus subjektų grupių metinių konsoliduotųjų ataskaitų rinkinių auditą ir (arba) patikrinimą atlieka Lietuvos Respublikos valstybės kontrolė, savivaldybių kontrolės ir audito tarnybos, audito įmonės, auditoriai pagal Valstybės kontrolės įstatymą, Biudžeto sandaros įstatymą, Vietos savivaldos įstatymą, Finansinių ataskaitų audito įstatymą ir jų įgyvendinamuosius teisės aktus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1634, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18924
+ 
 
 
 
@@ -1487,7 +1490,10 @@ Nr. XII-637, 2013-12-03, Žin., 2013, Nr. 130-6621 (2013-12-19)
 
 
 
-4. Metinės ataskaitos ir viešojo sektoriaus subjektų grupių metinių konsoliduotųjų ataskaitų rinkiniai teikiami Valstybės kontrolei arba savivaldybių kontrolieriams (savivaldybių kontrolės ir audito tarnyboms) ne vėliau kaip iki kitų metų gegužės 31 dienos, išskyrus šio straipsnio 5 dalyje nurodytą atvejį. 
+4. Metinės ataskaitos ir viešojo sektoriaus subjektų grupių metinių konsoliduotųjų ataskaitų rinkiniai teikiami Valstybės kontrolei arba savivaldybių kontrolės ir audito tarnyboms ne vėliau kaip iki kitų metų gegužės 31 dienos, išskyrus šio straipsnio 5 dalyje nurodytą atvejį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1634, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18924
+ 
 
 
 
@@ -1790,3 +1796,8 @@ Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 4 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1176, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09067
 Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 1, 2, 16, 19, 20, 22, 23, 30, 31, 32, 33 ir 35 straipsnių, septintojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 22-1 ir 32-1 straipsniais įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1634, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18924
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 30 ir 32 straipsnių pakeitimo įstatymas
