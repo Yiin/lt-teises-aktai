@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-01
+Suvestinė redakcija nuo 2019-01-02 iki 2019-05-31
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -1680,7 +1680,10 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 37 straipsnis. Biudžeto vykdymo kontrolė
 
 
-1. Valstybės biudžeto vykdymo auditą atlieka Valstybės kontrolė, savivaldybių biudžetų vykdymo auditą atlieka Valstybės kontrolė pagal valstybinio audito mastą ir savivaldybių kontrolieriai (savivaldybių kontrolės ir audito tarnybos).
+1. Valstybės biudžeto vykdymo auditą atlieka Valstybės kontrolė, savivaldybių biudžetų vykdymo auditą atlieka Valstybės kontrolė pagal valstybinio audito mastą ir savivaldybių kontrolės ir audito tarnybos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1632, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18922
+ 
 
 
 
@@ -2148,3 +2151,8 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 5, 17, 19, 37, 38 ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1182, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09073
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 5 ir 7 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1632, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18922
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 37 straipsnio pakeitimo įstatymas
