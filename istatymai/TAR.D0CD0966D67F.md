@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-01
+Suvestinė redakcija nuo 2019-01-02 iki 2019-03-14
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -96,7 +96,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Savivaldybės kontrolierius (savivaldybės kontrolės ir audito tarnyba) – subjektas, prižiūrintis, ar teisėtai, efektyviai, ekonomiškai ir rezultatyviai valdomas ir naudojamas savivaldybės turtas bei patikėjimo teise valdomas valstybės turtas, kaip vykdomas savivaldybės biudžetas ir naudojami kiti piniginiai ištekliai.
+4. Savivaldybės kontrolės ir audito tarnyba – subjektas, prižiūrintis, ar teisėtai, efektyviai, ekonomiškai ir rezultatyviai valdomas ir naudojamas savivaldybės turtas bei patikėjimo teise valdomas valstybės turtas, kaip vykdomas savivaldybės biudžetas ir naudojami kiti piniginiai ištekliai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
+ 
 
 
 
@@ -1186,7 +1189,10 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 12 straipsnis. Savivaldybės tarybos veiklos formos
 
 
-1. Savivaldybės taryba savo įgaliojimus įgyvendina kolegialiai savivaldybės tarybos posėdžiuose. Savivaldybės tarybos posėdžiams klausimus rengia savivaldybės tarybos komitetai (toliau – komitetai) ir komisijos savo posėdžiuose, savivaldybės tarybos narių frakcijos ir grupės pasitarimuose, tarybos nariai, savivaldybės kontrolierius, savivaldybės meras ir savivaldybės administracijos direktorius. Savivaldybės taryba svarstomais klausimais priima sprendimus ir kontroliuoja jų įgyvendinimą. 
+1. Savivaldybės taryba savo įgaliojimus įgyvendina kolegialiai savivaldybės tarybos posėdžiuose. Savivaldybės tarybos posėdžiams klausimus rengia savivaldybės tarybos komitetai (toliau – komitetai) ir komisijos savo posėdžiuose, savivaldybės tarybos narių frakcijos ir grupės pasitarimuose, tarybos nariai, savivaldybės kontrolės ir audito tarnyba, savivaldybės meras ir savivaldybės administracijos direktorius. Savivaldybės taryba svarstomais klausimais priima sprendimus ir kontroliuoja jų įgyvendinimą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
+ 
 
 
 
@@ -1347,7 +1353,7 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 4. Kontrolės komitetas: 
 
 
-1) teikia savivaldybės tarybai išvadas dėl savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) veiklos rezultatų;
+1) teikia savivaldybės tarybai išvadas dėl savivaldybės kontrolės ir audito tarnybos veiklos rezultatų;
 
 
 
@@ -1357,17 +1363,17 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-3) svarsto savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) kitų metų veiklos plano projektą ir teikia pasiūlymus dėl šio plano projekto papildymo ar pakeitimo, reglamento nustatyta tvarka iki einamųjų metų lapkričio 5 dienos grąžina šį plano projektą savivaldybės kontrolieriui tvirtinti;
+3) svarsto savivaldybės kontrolės ir audito tarnybos kitų metų veiklos plano projektą ir teikia pasiūlymus dėl šio plano projekto papildymo ar pakeitimo, reglamento nustatyta tvarka iki einamųjų metų lapkričio 5 dienos grąžina šį plano projektą savivaldybės kontrolieriui tvirtinti;
 
 
 
 
-4) įvertina savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) ateinančių metų veiklos planui vykdyti reikalingus asignavimus ir išvadą dėl jų teikia savivaldybės tarybai;
+4) įvertina savivaldybės kontrolės ir audito tarnybos ateinančių metų veiklos planui vykdyti reikalingus asignavimus ir išvadą dėl jų teikia savivaldybės tarybai;
 
 
 
 
-5) svarsto savivaldybės kontrolieriaus parengtą ataskaitą dėl jo (savivaldybės kontrolės ir audito tarnybos) veiklos plano įvykdymo, jos pagrindu rengia ir teikia savivaldybės tarybai išvadas dėl savivaldybės turto ir lėšų naudojimo teisėtumo, tikslingumo ir efektyvumo bei savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) veiklos;
+5) svarsto savivaldybės kontrolės ir audito tarnybos veiklos plano įvykdymo ataskaitą, jos pagrindu rengia ir teikia savivaldybės tarybai išvadas dėl savivaldybės turto ir lėšų naudojimo teisėtumo, tikslingumo ir efektyvumo bei savivaldybės kontrolės ir audito tarnybos veiklos;
 
 
 
@@ -1377,25 +1383,22 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-7) periodiškai (kartą per ketvirtį) svarsto, kaip vykdomas savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) veiklos planas, savivaldybės kontrolieriaus ar savo iniciatyva išklauso institucijų, įstaigų ir įmonių vadovus dėl savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) atlikto finansinio ir veiklos audito metu nustatytų trūkumų ar teisės aktų pažeidimų pašalinimo, prireikus kreipiasi į savivaldybės administracijos direktorių arba savivaldybės tarybą dėl savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) reikalavimų įvykdymo;
+7) periodiškai (kartą per ketvirtį) svarsto, kaip vykdomas savivaldybės kontrolės ir audito tarnybos veiklos planas, savivaldybės kontrolės ir audito tarnybos ar savo iniciatyva išklauso institucijų, įstaigų ir įmonių vadovus dėl savivaldybės kontrolės ir audito tarnybos atlikto finansinio ir veiklos audito metu nustatytų trūkumų ar teisės aktų pažeidimų pašalinimo, prireikus kreipiasi į savivaldybės administracijos direktorių arba savivaldybės tarybą dėl savivaldybės kontrolės ir audito tarnybos reikalavimų įvykdymo;
 
 
 
 
 8) dirba pagal savivaldybės tarybos patvirtintą veiklos programą ir kiekvienų metų pradžioje už savo veiklą atsiskaito savivaldybės tarybai reglamento nustatyta tvarka;
-Straipsnio punkto pakeitimai:
-Nr. XIII-384, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09280
- 
 
 
 
 
 9) nagrinėja iš asmenų gaunamus pranešimus ir pareiškimus apie savivaldybės administracijos, įmonių, įstaigų ir jų vadovų veiklą ir teikia dėl jų siūlymus savivaldybės administracijai ir savivaldybės tarybai.
-Papildyta straipsnio punktu:
-Nr. XIII-384, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09280
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
  
-
-
 
 
 
@@ -1607,9 +1610,10 @@ Nr. XIII-1445, 2018-06-30, paskelbta TAR 2018-07-16, i. k. 2018-12067
 
 
 
-8) sprendimų dėl savivaldybės kontrolieriaus priėmimo į pareigas ir atleidimo iš jų priėmimas, savivaldybės kontrolės ir audito tarnybos steigimas savivaldybės kontrolieriaus teikimu, didžiausio valstybės tarnautojų pareigybių ir darbuotojų, dirbančių pagal darbo sutartis, skaičiaus šioje tarnyboje nustatymas, savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) metinės ataskaitos svarstymas ir sprendimo dėl jos priėmimas, įstatymų numatyto savivaldybės kontrolieriaus darbo užmokesčio nustatymas, savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) nuostatų tvirtinimas; 
+8) sprendimų dėl savivaldybės kontrolieriaus priėmimo į pareigas ir atleidimo iš jų priėmimas, savivaldybės kontrolės ir audito tarnybos steigimas, didžiausio valstybės tarnautojų pareigybių ir darbuotojų, dirbančių pagal darbo sutartis, skaičiaus šioje tarnyboje nustatymas, savivaldybės kontrolės ir audito tarnybos metinės veiklos ataskaitos svarstymas ir sprendimo dėl jos priėmimas, įstatymų numatyto savivaldybės kontrolieriaus darbo užmokesčio nustatymas, savivaldybės kontrolės ir audito tarnybos nuostatų tvirtinimas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
+Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
  
 
 
@@ -1666,17 +1670,19 @@ Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
 
 
 
-18) sprendimų teikti mokesčių, rinkliavų ir kitas įstatymų nustatytas lengvatas savivaldybės biudžeto sąskaita priėmimas, subsidijų ir kompensacijų skyrimo naujas darbo vietas steigiančioms visų teisinių formų įmonėms tvarkos nustatymas atitinkamai keičiant savivaldybės biudžetą tais atvejais, kai lėšų tam nebuvo numatyta; 
+18) sprendimų teikti mokesčių, rinkliavų ir kitas įstatymų nustatytas lengvatas savivaldybės biudžeto sąskaita, sprendimų dėl sumokėtų mokesčių, rinkliavų (ar jų dalies) kompensavimo tvarkos nustatymo ir šių kompensacijų teikimo savivaldybės biudžeto sąskaita priėmimas, subsidijų ir kompensacijų skyrimo naujas darbo vietas steigiančioms visų teisinių formų įmonėms tvarkos nustatymas atitinkamai keičiant savivaldybės biudžetą tais atvejais, kai lėšų tam nebuvo numatyta; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+Nr. XIII-1444, 2018-06-30, paskelbta TAR 2018-07-16, i. k. 2018-12066
  
 
 
 
 
-19) mero, savivaldybės administracijos direktoriaus, savivaldybės kontrolieriaus, biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė), savivaldybės valdomų įmonių ir organizacijų vadovų ataskaitų ir atsakymų į savivaldybės tarybos narių paklausimus išklausymas reglamento nustatyta tvarka, sprendimų dėl šių ataskaitų ir atsakymų priėmimas; 
+19) mero, savivaldybės administracijos direktoriaus, savivaldybės kontrolės ir audito tarnybos, biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė), savivaldybės valdomų įmonių ir organizacijų metinių veiklos ataskaitų ir atsakymų į savivaldybės tarybos narių paklausimus išklausymas reglamento nustatyta tvarka, sprendimų dėl šių ataskaitų ir atsakymų priėmimas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
  
 
 
@@ -1728,17 +1734,19 @@ Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
 
 
 
-28) sprendimų dėl paskolų ėmimo ir garantijų teikimo už ilgalaikes paskolas priėmimas; šios paskolos naudojamos tik investicijų projektams, tarp jų pagal Vyriausybės patvirtintas programas savivaldybių įgyvendinamiems energijos vartojimo efektyvumo didinimo projektams, finansuoti pagal Vyriausybės nustatytą tvarką, laikantis įstatymų nustatytų skolinimosi limitų ir gavus savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) išvadą;
+28) sprendimų dėl paskolų ėmimo ir garantijų teikimo už ilgalaikes paskolas priėmimas; šios paskolos naudojamos tik investicijų projektams, tarp jų pagal Vyriausybės patvirtintas programas savivaldybių įgyvendinamiems energijos vartojimo efektyvumo didinimo projektams, finansuoti pagal Vyriausybės nustatytą tvarką, laikantis įstatymų nustatytų skolinimosi limitų ir gavus savivaldybės kontrolės ir audito tarnybos išvadą; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1932, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11214
+Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
  
 
 
 
 
-29) įstatymų nustatyta tvarka gavus savivaldybės kontrolieriaus išvadą, sprendimų dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo priėmimas; gavus savivaldybės kontrolieriaus išvadą, pritarimas galutinėms viešojo ir privataus sektoriaus partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų; 
+29) įstatymų nustatyta tvarka gavus savivaldybės kontrolės ir audito tarnybos išvadą, sprendimų dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo priėmimas; gavus savivaldybės kontrolės ir audito tarnybos išvadą, pritarimas galutinėms viešojo ir privataus sektorių partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-443, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10804
+Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
  
 
 
@@ -2252,9 +2260,10 @@ Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
 
 
 
-10) reglamente nustatyta tvarka gali siūlyti savivaldybės tarybai pavesti savivaldybės kontrolieriui (savivaldybės kontrolės ir audito tarnybai) atlikti veiklos plane nenumatytą savivaldybės administracijos, savivaldybės administravimo subjektų ar savivaldybės valdomų įmonių finansinį ir veiklos auditą, priima savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) pateiktas audito ataskaitas ir išvadas dėl atlikto finansinio ir veiklos audito rezultatų, prireikus organizuoja šių ataskaitų ir išvadų svarstymą savivaldybės tarybos komitetų ir savivaldybės tarybos posėdžiuose;
+10) reglamente nustatyta tvarka gali siūlyti savivaldybės tarybai pavesti savivaldybės kontrolės ir audito tarnybai atlikti veiklos plane nenumatytą savivaldybės administracijos, savivaldybės administravimo subjektų ar savivaldybės valdomų įmonių finansinį ir veiklos auditą, priima savivaldybės kontrolės ir audito tarnybos pateiktas audito ataskaitas ir išvadas dėl atlikto finansinio ir veiklos audito rezultatų, prireikus organizuoja šių ataskaitų ir išvadų svarstymą savivaldybės tarybos komitetų ir savivaldybės tarybos posėdžiuose;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
  
 
 
@@ -2672,7 +2681,6 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 4. Teikimas pradėti savivaldybės tarybos nario ar savivaldybės tarybos nario – mero įgaliojimų netekimo procedūrą turi būti išdėstytas raštu ir pasirašytas visų ne mažiau kaip 1/3 savivaldybės tarybos narių grupę sudarančių asmenų. Teikimas turi būti pateiktas savivaldybės tarybai ne vėliau kaip per vieną mėnesį nuo šio straipsnio 3 dalyje nustatytų bent vieno iš pagrindų paaiškėjimo dienos.
- 
 
 
 
@@ -2765,87 +2773,70 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
  
 
 
-27 straipsnis. Savivaldybės kontrolierius (savivaldybės kontrolės ir audito tarnyba)
+27 straipsnis. Savivaldybės kontrolės ir audito tarnyba
 
 
-1. Savivaldybės kontrolierius (savivaldybės kontrolės ir audito tarnyba), prižiūrėdamas (prižiūrėdama), ar teisėtai, efektyviai, ekonomiškai ir rezultatyviai valdomas ir naudojamas savivaldybės turtas ir patikėjimo teise valdomas valstybės turtas, kaip vykdomas savivaldybės biudžetas ir naudojami kiti piniginiai ištekliai:
+1. Savivaldybės kontrolės ir audito tarnyba, prižiūrėdama, ar teisėtai, efektyviai, ekonomiškai ir rezultatyviai valdomas ir naudojamas savivaldybės turtas ir patikėjimo teise valdomas valstybės turtas, kaip vykdomas savivaldybės biudžetas ir naudojami kiti piniginiai ištekliai:
 
 
-1) atlieka išorės finansinį ir veiklos auditą savivaldybės administracijoje, savivaldybės administravimo subjektuose ir savivaldybės valdomose įmonėse; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
- 
+1) atlieka išorės finansinį ir veiklos auditą savivaldybės administracijoje, savivaldybės administravimo subjektuose ir savivaldybės valdomose įmonėse;
 
 
 
 
-2) kiekvienais metais iki liepos 15 dienos rengia ir reglamente nustatyta tvarka teikia savivaldybės tarybai išvadą dėl pateikto tvirtinti savivaldybės konsoliduotųjų ataskaitų rinkinio;
+2) kiekvienais metais iki liepos 15 dienos parengia ir reglamente nustatyta tvarka pateikia savivaldybės tarybai išvadą dėl pateikto tvirtinti savivaldybės konsoliduotųjų ataskaitų rinkinio;
 
 
 
 
 3) rengia ir savivaldybės tarybai teikia sprendimus priimti reikalingas išvadas dėl savivaldybės naudojimosi bankų kreditais, paskolų ėmimo ir teikimo, garantijų suteikimo ir laidavimo kreditoriams už savivaldybės valdomų įmonių imamas paskolas;
-Straipsnio punkto pakeitimai:
-Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
- 
 
 
 
 
-4) rengia ir savivaldybės tarybai teikia išvadas dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo ir pritarimo galutinėms viešojo ir privataus sektoriaus partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-443, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10804
- 
+4) rengia ir savivaldybės tarybai teikia išvadas dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo ir pritarimo galutinėms viešojo ir privataus sektorių partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų; 
 
 
 
 
-5) neteko galios;
-Straipsnio punkto pakeitimai:
-Nr. XIII-443, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10804
- 
+5) rengia ir savivaldybės tarybai teikia sprendimams priimti reikalingas išvadas dėl skolininkų ir skolininkų, už kurių įsipareigojimų įvykdymą garantuoja valstybė, ūkinės ir finansinės būklės, taip pat dėl iš valstybės vardu pasiskolintų lėšų, teikiamų paskolų ir valstybės garantijų teikimo, paskolų naudojimo pagal tikslinę paskirtį ir paskolų grąžinimo;
 
 
 
 
-6) rengia ir savivaldybės tarybai teikia sprendimams priimti reikalingas išvadas dėl skolininkų ir skolininkų, už kurių įsipareigojimų įvykdymą garantuoja valstybė, ūkinės ir finansinės būklės, taip pat dėl iš valstybės vardu pasiskolintų lėšų, teikiamų paskolų ir valstybės garantijų teikimo, paskolų naudojimo pagal tikslinę paskirtį ir paskolų grąžinimo;
+6) Valstybės kontrolės prašymu teikia savivaldybės kontrolės ir audito tarnybos atliktų auditų ataskaitas ir darbo dokumentus audito išorinei peržiūrai atlikti; 
 
 
 
 
-7) Valstybės kontrolės prašymu teikia savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) atliktų auditų ataskaitas ir darbo dokumentus audito išorinei peržiūrai atlikti; 
-
-
-
-
-8) atlieka įstatymuose ir kituose teisės aktuose priskirtas funkcijas.
+7) atlieka įstatymuose ir kituose teisės aktuose priskirtas funkcijas.
 
 
 
 
 
 
-2. Savivaldybės kontrolės ir audito funkcijoms įgyvendinti savivaldybės taryba savivaldybės kontrolieriaus teikimu steigia (kai savivaldybės gyventojų skaičius yra mažesnis kaip 30 tūkstančių gyventojų, gali steigti) juridinį asmenį – savivaldybės kontrolės ir audito tarnybą. Šiai tarnybai vadovauja ir už jos veiklą atsako savivaldybės kontrolierius. Jei savivaldybės kontrolės ir audito tarnyba nesteigiama, plane numatytam išorės auditui atlikti gali būti pasitelkiami kitų savivaldybių kontrolieriai (kontrolės ir audito tarnybos valstybės tarnautojai).
+2. Savivaldybės kontrolės ir audito funkcijoms įgyvendinti savivaldybės taryba steigia juridinį asmenį – savivaldybės kontrolės ir audito tarnybą, kurioje yra ne mažiau kaip 2 pareigybės (įskaitant savivaldybės kontrolieriaus pareigybę). Savivaldybės kontrolės ir audito tarnybai vadovauja ir už jos veiklą atsako savivaldybės kontrolierius. 
 
 
 
 
-3. Savivaldybės kontrolierius (savivaldybės kontrolės ir audito tarnyba) turi savo antspaudą su pavadinimu ir savivaldybės herbu. Savivaldybės kontrolierius yra atskaitingas savivaldybės tarybai. Savivaldybės taryba savivaldybės biudžete nustato savivaldybės kontrolieriui (savivaldybės kontrolės ir audito tarnybai) skiriamų asignavimų dydį. Savivaldybės kontrolieriaus, kai nesteigiamas juridinis asmuo, finansinį, ūkinį, materialinį aptarnavimą, neviršydama savivaldybės kontrolieriaus išlaidų sąmatos, atlieka savivaldybės administracija.
+3. Savivaldybės kontrolės ir audito tarnyba yra biudžetinė įstaiga, turinti savo antspaudą su pavadinimu ir savivaldybės herbu. Už savivaldybės kontrolės ir audito tarnybos antspaudo naudojimą ir saugojimą atsako savivaldybės kontrolierius. Savivaldybės kontrolės ir audito tarnyba yra atskaitinga savivaldybės tarybai. Savivaldybės taryba savivaldybės biudžete nustato savivaldybės kontrolės ir audito tarnybai skiriamų asignavimų dydį. Tvarkyti savivaldybės kontrolės ir audito tarnybos buhalterinę apskaitą, atlikti šios tarnybos ūkinį, materialinį aptarnavimą gali savivaldybės administracija ar kiti subjektai teisės aktų nustatyta tvarka.
 
 
 
 
-4. Savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) veikla grindžiama nepriklausomumo, teisėtumo, viešumo, objektyvumo ir profesionalumo principais.
+4. Savivaldybės kontrolės ir audito tarnybos veikla grindžiama nepriklausomumo, teisėtumo, viešumo, objektyvumo ir profesionalumo principais.
 
 
 
 
-5. Savivaldybės kontrolierius (savivaldybės kontrolės ir audito tarnyba) savo veikloje vadovaujasi šiuo ir kitais įstatymais, valstybinio audito reikalavimais, Valstybės kontrolės parengtomis metodikomis ir kitais teisės aktais.
+5. Savivaldybės kontrolės ir audito tarnyba savo veikloje vadovaujasi šiuo ir kitais įstatymais, tarptautiniais aukščiausiųjų audito institucijų standartais, Valstybės kontrolės patvirtintomis metodikomis ir kitais teisės aktais.
 
 
 
 
-6. Savivaldybės kontrolieriaus, savivaldybės kontrolės ir audito tarnybos valstybės tarnautojų tarnybos santykių teisiniai pagrindai nustatyti Valstybės tarnybos įstatyme ir šiame įstatyme.
+6. Savivaldybės kontrolieriaus, savivaldybės kontrolės ir audito tarnybos valstybės tarnautojų tarnybos, darbuotojų, dirbančių pagal darbo sutartis, darbo santykių teisiniai pagrindai nustatyti Valstybės tarnybos įstatyme, Darbo kodekse ir šiame įstatyme.
 
 
 
@@ -2855,10 +2846,8 @@ Nr. XIII-443, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10804
 
 
 
-8. Savivaldybės kontrolierius į pareigas priimamas konkurso būdu ir iš jų atleidžiamas Valstybės tarnybos įstatymo nustatyta tvarka. Savivaldybės kontrolierius privalo turėti aukštąjį universitetinį išsilavinimą ir ne mažesnį kaip 3 metų darbo finansų, ekonomikos, teisės, audito arba kontrolės srityse stažą. Savivaldybės kontrolieriui kadencijų skaičius nėra ribojamas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
- 
+8. Savivaldybės kontrolierius į pareigas priimamas konkurso būdu ir iš jų atleidžiamas Valstybės tarnybos įstatymo nustatyta tvarka. Savivaldybės kontrolierius privalo turėti aukštąjį universitetinį išsilavinimą ir ne mažesnį kaip 3 metų darbo finansų, ekonomikos, teisės, audito arba kontrolės srityse stažą. Savivaldybės kontrolieriui kadencijų skaičius nėra ribojamas.
+TAR pastaba. 27 straipsnio 8 dalyje nustatyti reikalavimai taikomi asmenims, kurie į savivaldybės kontrolieriaus pareigas yra priimami po įstatymo Nr. XIII-1631 įsigaliojimo (2019-01-02).
 
 
 
@@ -2866,22 +2855,22 @@ Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
 9. Savivaldybės kontrolierius:
 
 
-1) jeigu sudaroma savivaldybės kontrolės ir audito tarnyba, tvirtina šios tarnybos struktūrą, pareigybių sąrašą, pareigybių aprašymus ir pareiginius nuostatus. Valstybės tarnybos įstatymo nustatyta tvarka priima į pareigas ir iš jų atleidžia valstybės tarnautojus ir Darbo kodekso nustatyta tvarka priima ir atleidžia darbuotojus, dirbančius pagal darbo sutartis, atlieka kitas savivaldybės kontrolės ir audito tarnybos personalo valdymo funkcijas;
+1) tvirtina savivaldybės kontrolės ir audito tarnybos struktūrą, pareigybių sąrašą, pareigybių aprašymus ir pareiginius nuostatus; Valstybės tarnybos įstatymo nustatyta tvarka priima į pareigas ir iš jų atleidžia valstybės tarnautojus ir Darbo kodekso nustatyta tvarka priima ir atleidžia darbuotojus, dirbančius pagal darbo sutartis, atlieka kitas savivaldybės kontrolės ir audito tarnybos personalo valdymo funkcijas;
 
 
 
 
-2) leidžia įsakymus, organizuoja savivaldybės kontrolės ir audito tarnybos darbą, valstybės tarnautojų mokymą ir jų kvalifikacijos tobulinimą;
+2) leidžia įsakymus, organizuoja savivaldybės kontrolės ir audito tarnybos darbą, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, mokymą ir jų kvalifikacijos tobulinimą;
 
 
 
 
-3) sudaro savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) veiklos plano projektą, gavęs savivaldybės tarybos Kontrolės komiteto pritarimą, su šio plano projektu supažindina Valstybės kontrolę ir savivaldybės centralizuotą vidaus audito tarnybą. Kasmet iki einamųjų metų lapkričio 15 dienos patvirtina ateinančių metų savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) veiklos planą, organizuoja jo vykdymą ir yra už tai atsakingas. Prireikus patvirtintą planą tikslina bendra plano tvirtinimo tvarka;
+3) sudaro savivaldybės kontrolės ir audito tarnybos veiklos plano projektą, gavęs savivaldybės tarybos Kontrolės komiteto pritarimą, su šio plano projektu supažindina Valstybės kontrolę ir savivaldybės centralizuotą vidaus audito tarnybą; kasmet iki einamųjų metų lapkričio 15 dienos patvirtina ateinančių metų savivaldybės kontrolės ir audito tarnybos veiklos planą, organizuoja jo vykdymą ir yra už tai atsakingas; prireikus patvirtintą savivaldybės kontrolės ir audito tarnybos veiklos planą tikslina bendra plano tvirtinimo tvarka;
 
 
 
 
-4) savivaldybės kontrolieriaus (savivaldybės kontrolės ir audito tarnybos) veiklos planą kasmet per 10 dienų nuo jo patvirtinimo pateikia Valstybės kontrolei;
+4) savivaldybės kontrolės ir audito tarnybos veiklos planą kasmet per 10 dienų nuo jo patvirtinimo pateikia Valstybės kontrolei;
 
 
 
@@ -2891,12 +2880,12 @@ Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
 
 
 
-6) valstybės kontrolieriaus rašytiniu prašymu gali dalyvauti ar pavesti savivaldybės kontrolės ir audito tarnybos valstybės tarnautojams pagal jų kompetenciją dalyvauti Valstybės kontrolės pareigūnų atliekamuose savivaldybės administravimo subjektų finansiniuose ir veiklos audituose;
+6) valstybės kontrolieriaus rašytiniu prašymu gali dalyvauti ar pavesti savivaldybės kontrolės ir audito tarnybos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, pagal jų kompetenciją dalyvauti Valstybės kontrolės pareigūnų atliekamuose savivaldybės administravimo subjektų finansiniuose ir veiklos audituose;
 
 
 
 
-7) pats atlieka ir (arba) skiria savivaldybės kontrolės ir audito tarnybos valstybės tarnautojus atlikti išorės finansinį ir veiklos auditą, įgyvendina įstatymuose ir kituose teisės aktuose priskirtas funkcijas;
+7) pats atlieka ir (arba) skiria savivaldybės kontrolės ir audito tarnybos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, atlikti išorės finansinį ir veiklos auditą, įgyvendina įstatymuose ir kituose teisės aktuose priskirtas funkcijas;
 
 
 
@@ -2911,7 +2900,7 @@ Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
 
 
 
-10) kiekvienais metais iki liepos 15 dienos reglamente nustatyta tvarka teikia savivaldybės tarybai išvadą dėl pateikto tvirtinti savivaldybės konsoliduotųjų ataskaitų rinkinio, savivaldybės biudžeto ir turto naudojimo;
+10) kiekvienais metais iki liepos 15 dienos reglamente nustatyta tvarka pateikia savivaldybės tarybai išvadą dėl pateikto tvirtinti savivaldybės konsoliduotųjų ataskaitų rinkinio, savivaldybės biudžeto ir turto naudojimo;
 
 
 
@@ -2936,7 +2925,7 @@ Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
 
 
 
-15) reglamente nustatyta tvarka ir terminais teikia savivaldybės kontrolės ir audito tarnybos veiklos ataskaitą. Savivaldybės kontrolės ir audito tarnybos veiklos ataskaitą arba jos santrauką paskelbia vietinėje spaudoje, savivaldybės interneto svetainėje, o jeigu įmanoma, – ir per kitas visuomenės informavimo priemones;
+15) reglamente nustatyta tvarka ir terminais pateikia savivaldybės kontrolės ir audito tarnybos veiklos ataskaitą; savivaldybės kontrolės ir audito tarnybos veiklos ataskaitą arba jos santrauką paskelbia vietinėje spaudoje, savivaldybės interneto svetainėje, o jeigu įmanoma, – ir per kitas visuomenės informavimo priemones;
 
 
 
@@ -2951,33 +2940,24 @@ Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
 
 
 
-18) atsako už įstatymuose ir kituose teisės aktuose savivaldybės kontrolieriui numatytų įgaliojimų vykdymą, taip pat už nepagrįstos ir neteisingos audito išvados pateikimą;
+18) atsako už įstatymuose ir kituose teisės aktuose nustatytų savivaldybės kontrolės ir audito tarnybos įgaliojimų vykdymą, taip pat už nepagrįstos ir neteisingos audito išvados pateikimą;
 
 
 
 
-19) neteko galios nuo 2017-01-01;
-Straipsnio punkto pakeitimai:
-Nr. XII-1887, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11178
-Nr. XII-2278, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06429
- 
+19) teikia Vyriausybės atstovui informaciją apie savivaldybės kontrolės ir audito tarnybos teiktas išvadas ir rekomendacijas;
 
 
 
 
-20) teikia informaciją Vyriausybės atstovui apie savivaldybės kontrolieriaus teiktas išvadas ir rekomendacijas;
-
-
-
-
-21) sudaro sąlygas Valstybės kontrolės pareigūnams dalyvauti savivaldybės konsoliduotųjų ataskaitų rinkinio audite tokiu mastu, kad Valstybės kontrolės pareigūnai surinktų tinkamus ir pakankamus įrodymus išvadai dėl nacionalinio finansinių ataskaitų rinkinio parengti, ir teikia duomenis Valstybės kontrolei apie savivaldybės konsoliduotųjų ataskaitų rinkinio audito rezultatus.
+20) sudaro sąlygas Valstybės kontrolės pareigūnams dalyvauti atliekant savivaldybės konsoliduotųjų ataskaitų rinkinio auditą tokiu mastu, kad Valstybės kontrolės pareigūnai surinktų tinkamus ir pakankamus įrodymus, reikalingus išvadai dėl nacionalinio finansinių ataskaitų rinkinio parengti, ir teikia Valstybės kontrolei duomenis apie savivaldybės konsoliduotųjų ataskaitų rinkinio audito rezultatus.
 
 
 
 
 
 
-10. Savivaldybės kontrolės ir audito tarnybos valstybės tarnautojai:
+10. Savivaldybės kontrolės ir audito tarnybos valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis:
 
 
 1) savivaldybės kontrolieriaus pavedimu atlieka audituojamų subjektų eilinius ir veiklos plane nenumatytus finansinius ir veiklos auditus;
@@ -2985,36 +2965,39 @@ Nr. XII-2278, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06429
 
 
 
-2) finansinio ir veiklos audito metu turi teisę įeiti į patalpas, gauti visus finansiniam ir veiklos auditui atlikti reikalingus dokumentus, gauti iš audituojamo subjekto darbuotojų reikiamus rašytinius paaiškinimus, pagal valstybinio audito reikalavimus pasitelkti ekspertų (specialistų), turinčių reikiamų žinių patikrinimo metu iškilusiems klausimams spręsti;
+2) finansinio ir veiklos audito metu turi teisę įeiti į audituojamo subjekto patalpas, gauti visus finansiniam ir veiklos auditui atlikti reikalingus dokumentus, gauti iš audituojamo subjekto darbuotojų reikiamus rašytinius paaiškinimus, pagal valstybinio audito reikalavimus pasitelkti ekspertų (specialistų), turinčių reikiamų žinių patikrinimo metu iškilusiems klausimams spręsti;
 
 
 
 
-3) įstatymų nustatyta tvarka atsako už jiems nustatytų funkcijų netinkamą atlikimą, už nepagrįstos ar neteisingos audito išvados pateikimą;
-
-
-
-
-4) neteko galios nuo 2017-01-01.
-Straipsnio punkto pakeitimai:
-Nr. XII-1887, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11178
-Nr. XII-2278, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06429
- 
+3) įstatymų nustatyta tvarka atsako už jiems nustatytų funkcijų netinkamą atlikimą, už nepagrįstos ar neteisingos audito išvados pateikimą.
 
 
 
 
 
 
-11. Atlikdamas (atlikdama) auditą, savivaldybės kontrolierius (savivaldybės kontrolės ir audito tarnyba) turi teisę atliekamo audito metu pasinaudoti savivaldybės centralizuotos vidaus audito tarnybos atliktų auditų ataskaitomis ir darbo dokumentais, būtinais vidaus kontrolės vertinimui atlikti, jei audito subjektas ir tikslai sutampa, taip pat turi teisę susipažinti su atliktų kitų išorės auditų savivaldybės įstaigose ir įmonėse dokumentais. 
+11. Atlikdama auditą, savivaldybės kontrolės ir audito tarnyba turi teisę pasinaudoti savivaldybės centralizuotos vidaus audito tarnybos atliktų auditų ataskaitomis ir darbo dokumentais, būtinais vidaus kontrolės vertinimui atlikti, jei audito subjektas ir tikslai sutampa, taip pat turi teisę susipažinti su atliktų kitų išorės auditų savivaldybės įstaigose ir įmonėse dokumentais.
 
 
+
+
+12. Savivaldybės kontrolės ir audito tarnyba veiklos plane numatytam išorės finansiniam ir veiklos auditui atlikti ir (ar) atliktam auditui peržiūrėti gali bendradarbiavimo sutarčių pagrindu pasitelkti kitų savivaldybių kontrolės ir audito tarnybų valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis. 
+
+
+
+
+13. Savivaldybių kontrolės ir audito tarnybos gali jungtis į asociacijas.
 Straipsnio pakeitimai:
 Nr. X-1830, 2008-11-14, Žin., 2008, Nr. 137-5379 (2008-11-29)
 Nr. XI-300, 2009-06-16, Žin., 2009, Nr. 77-3165 (2009-06-30)
 Nr. XI-1327, 2011-04-19, Žin., 2011, Nr. 52-2504 (2011-05-03)
 Nr. XII-643, 2013-12-03, Žin., 2013, Nr. 130-6627 (2013-12-19)
 Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
  
 
 
@@ -3043,12 +3026,18 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-5. Vidaus audito tarnyba, iki einamųjų metų lapkričio 1 dienos parengusi ateinančių metų vidaus audito tarnybos veiklos plano projektą, teikia jį savivaldybės kontrolieriui (savivaldybės kontrolės ir audito tarnybai) tarpusavio veiklos koordinavimo tikslais. Vidaus audito tarnybos veiklos plano projektas, kai su juo susipažįsta savivaldybės kontrolierius (savivaldybės kontrolės ir audito tarnyba), iki einamųjų metų lapkričio 15 dienos teikiamas Valstybės kontrolei. Ateinančių metų vidaus audito tarnybos veiklos planas turi būti suderintas su savivaldybės vykdomosios institucijos vadovu iki einamųjų metų gruodžio 31 dienos. Patvirtintas planas tikslinamas bendra plano tvirtinimo tvarka.
+5. Vidaus audito tarnyba, iki einamųjų metų lapkričio 1 dienos parengusi ateinančių metų vidaus audito tarnybos veiklos plano projektą, teikia jį savivaldybės kontrolės ir audito tarnybai tarpusavio veiklos koordinavimo tikslais. Vidaus audito tarnybos veiklos plano projektas, kai su juo susipažįsta savivaldybės kontrolės ir audito tarnyba, iki einamųjų metų lapkričio 15 dienos teikiamas Valstybės kontrolei. Ateinančių metų vidaus audito tarnybos veiklos planas turi būti suderintas su savivaldybės vykdomosios institucijos vadovu iki einamųjų metų gruodžio 31 dienos. Patvirtintas vidaus audito tarnybos veiklos planas tikslinamas bendra plano tvirtinimo tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
+ 
 
 
 
 
-6. Vidaus audito tarnyba savo funkcijas įgyvendina atlikdama vidaus auditus ir jų rezultatų pagrindu formuluodama rekomendacijas. Vidaus auditoriai atlikto audito ataskaitas pateikia savivaldybės administracijos direktoriui ir audituotų subjektų vadovams. Šie turi priimti sprendimus dėl vidaus audito rekomendacijų įgyvendinimo. Be to, atliktų vidaus auditų ataskaitos gali būti teikiamos savivaldybės tarybai, savivaldybės tarybos Kontrolės komitetui, merui ir savivaldybės kontrolieriui, kai jie raštu to prašo.
+6. Vidaus audito tarnyba savo funkcijas įgyvendina atlikdama vidaus auditus ir jų rezultatų pagrindu formuluodama rekomendacijas. Vidaus auditoriai atlikto audito ataskaitas pateikia savivaldybės administracijos direktoriui ir audituotų subjektų vadovams. Šie turi priimti sprendimus dėl vidaus audito rekomendacijų įgyvendinimo. Be to, atliktų vidaus auditų ataskaitos gali būti teikiamos savivaldybės tarybai, savivaldybės tarybos Kontrolės komitetui, merui ir savivaldybės kontrolės ir audito tarnybai, kai jie raštu to prašo.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
+ 
 
 
 
@@ -3107,10 +3096,11 @@ Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
 
 
 
-6. Pasibaigus savivaldybės administracijos direktorių, administracijos direktoriaus pavaduotoją į pareigas paskyrusios savivaldybės tarybos kadencijai, savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas, jeigu jie į šias pareigas nepaskiriami naujai kadencijai arba jeigu savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas atsistatydina ar atleidžiamas iš šių pareigų, išskyrus atleidimą už tarnybinius nusižengimus, turi teisę Vyriausybės nustatyta tvarka grįžti į iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju eitas pareigas, o kai tokios galimybės nėra, – į kitas lygiavertes ar žemesnes pareigas, jeigu eitos pareigos pagal teisės aktus priskiriamos valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms. Be to, šioje dalyje nustatytu atveju savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas turi teisę grįžti į iki išrinkimo savivaldybės tarybos nariais eitas pareigas, jeigu jie ėjo šias pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, o kai tokios galimybės nėra, – į kitas pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje. Jeigu šie asmenys iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju tokių pareigų nėjo arba atsisakė pasiūlytų kitų žemesnių pareigų, pagal teisės aktus priskiriamų valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms, arba kitų pareigų savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės kontroliuojamoje įmonėje, išmokos jiems mokamos Valstybės tarnybos įstatymo nustatyta tvarka. 
+6. Pasibaigus savivaldybės administracijos direktorių, administracijos direktoriaus pavaduotoją į pareigas paskyrusios savivaldybės tarybos kadencijai, savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas, jeigu jie į šias pareigas nepaskiriami naujai kadencijai arba jeigu savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas atsistatydina ar atleidžiamas iš šių pareigų, išskyrus atleidimą už tarnybinius nusižengimus, turi teisę Vyriausybės nustatyta tvarka grįžti į iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju eitas pareigas (išskyrus savivaldybės kontrolieriaus ir savivaldybės kontrolės ir audito tarnybos valstybės tarnautojo ir darbuotojo, dirbančio pagal darbo sutartį, pareigas), o kai tokios galimybės nėra, – į kitas lygiavertes ar žemesnes pareigas, jeigu eitos pareigos pagal teisės aktus priskiriamos valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms. Be to, šioje dalyje nustatytu atveju savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas turi teisę grįžti į iki išrinkimo savivaldybės tarybos nariais eitas pareigas, jeigu jie ėjo šias pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės valdomoje įmonėje, o kai tokios galimybės nėra, – į kitas pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės valdomoje įmonėje (išskyrus savivaldybės kontrolieriaus ir savivaldybės kontrolės ir audito tarnybos valstybės tarnautojo ir darbuotojo, dirbančio pagal darbo sutartį, pareigas). Jeigu šie asmenys iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju tokių pareigų nėjo arba atsisakė pasiūlytų kitų žemesnių pareigų, pagal teisės aktus priskiriamų valstybės tarnautojų (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas) pareigoms, arba kitų pareigų savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės valdomoje įmonėje, išmokos jiems mokamos Valstybės tarnybos įstatymo nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
 Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
+Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
  
 
 
@@ -5391,3 +5381,13 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16, 19, 27, 29 ir 31 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1664, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19164
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 ir 29 straipsnių pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1444, 2018-06-30, paskelbta TAR 2018-07-16, i. k. 2018-12066
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 straipsnio pakeitimo įstatymas
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 12, 14, 16, 20, 27, 28 ir 29 straipsnių pakeitimo įstatymas
