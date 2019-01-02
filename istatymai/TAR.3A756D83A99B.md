@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-01
+Suvestinė redakcija nuo 2019-01-02 iki 2019-07-01
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 104-2322; Žin. 1996, Nr.5-0, i. k. 0951010ISTA00I-1113
  
@@ -576,7 +576,10 @@ Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
 
 
 
-2. Iš savivaldybės biudžeto išlaikomos biudžetinės įstaigos veiklos ir išorės finansinį auditą atlieka savivaldybės kontrolierius (savivaldybės kontrolės ir audito tarnyba). 
+2. Iš savivaldybės biudžeto išlaikomos biudžetinės įstaigos veiklos ir išorės finansinį auditą atlieka savivaldybės kontrolės ir audito tarnyba.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1633, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18923
+ 
 
 
 
@@ -1000,3 +1003,8 @@ Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 papildymo 9-1 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
 Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 9, 11, 13 ir 14 straipsnių ir III skyriaus pavadinimo pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1633, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18923
+Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 12 straipsnio pakeitimo įstatymas
