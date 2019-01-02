@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2015-04-14 iki 2019-01-01
+Suvestinė redakcija nuo 2019-01-02 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1243, i. k. 0951010ISTA000I-907
  
@@ -356,7 +356,10 @@ VALSTYBĖS KONTROLĖS IR PAREIGŪNŲ KOMPETENCIJA
 
 
 
-5. Valstybės kontrolė rengia savivaldybių kontrolieriams (savivaldybių kontrolės ir audito tarnyboms) audito metodikas ir valstybės kontrolieriaus nustatyta tvarka atlieka savivaldybių kontrolierių (savivaldybių kontrolės ir audito tarnybų) atliekamo audito išorinę peržiūrą.
+5. Valstybės kontrolė rengia savivaldybių kontrolės ir audito tarnyboms audito metodikas ir valstybės kontrolieriaus nustatyta tvarka atlieka savivaldybių kontrolės ir audito tarnybų atliekamo audito išorinę peržiūrą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1638, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18928
+ 
 
 
 
@@ -1452,7 +1455,8 @@ Valstybės kontrolės pareigūnai draudžiami valstybiniu socialiniu draudimu Va
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                ALGIRDAS BRAZAUSKAS 
+ 
+RESPUBLIKOS PREZIDENTAS                                                        ALGIRDAS BRAZAUSKAS 
  
  
 
@@ -1603,3 +1607,8 @@ Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 2, 4, 6, 9 ir 23 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1588, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05703
 Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 39 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1638, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18928
+Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 9 straipsnio pakeitimo įstatymas
