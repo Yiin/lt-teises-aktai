@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-01-08
+Suvestinė redakcija nuo 2019-01-09 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -457,7 +457,10 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 
 
 
-49. Viešosios geležinkelių infrastruktūros pajėgumas – galimybė traukinių eismo grafike numatyti traukinio linijas, kurios gali būti skirtos geležinkelio įmonei (vežėjui) tam tikroje viešosios geležinkelių infrastruktūros dalyje naudotis tam tikrą laikotarpį.
+49. Viešosios geležinkelių infrastruktūros pajėgumas – galimybė tarnybiniame traukinių tvarkaraštyje numatyti traukinio linijas, kurios gali būti skirtos geležinkelio įmonei (vežėjui) tam tikroje viešosios geležinkelių infrastruktūros dalyje naudotis tam tikrą laikotarpį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -567,18 +570,20 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 
 
-5 straipsnis. Geležinkelių transporto objektų nuosavybė 
+5 straipsnis. Geležinkelių transporto objektų nuosavybė
 
 
-1. Viešoji geležinkelių infrastruktūra yra Lietuvos valstybės nuosavybė. Viešoji geležinkelių infrastruktūra neprivatizuojama.
+1. Viešoji geležinkelių infrastruktūra yra Lietuvos valstybės nuosavybė. Viešoji geležinkelių infrastruktūra ir Lietuvos valstybei nuosavybės teise priklausantys geležinkelių paslaugų įrenginiai negali būti perleisti nuosavybės teise kitiems asmenims.
 
 
 
 
-2. Kiti geležinkelių transporto objektai nuosavybės teise gali priklausyti Lietuvos valstybei, savivaldybėms, Lietuvos Respublikos ir kitų valstybių fiziniams ir juridiniams asmenims.
+2. Kiti geležinkelių transporto objektai, išskyrus nurodytus šio straipsnio 1 dalyje, nuosavybės teise gali priklausyti Lietuvos valstybei, savivaldybėms, Lietuvos Respublikos ir kitų valstybių fiziniams ir juridiniams asmenims, kitoms organizacijoms ir jų padaliniams. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
  
-
-
 
 
 
@@ -716,7 +721,10 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 
 
 
-5) tvirtinti konsultacijų su keleivių, bagažo ir (ar) krovinių vežimo geležinkelių transportu paslaugų naudotojų atstovais taisykles;
+5) vykdyti vežimo geležinkelių transportu rinkos segmentų nustatymo priežiūrą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -829,7 +837,10 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 7. Rinkos reguliuotojo pareigos:
 
 
-1) rinkos reguliuotojas privalo ne rečiau kaip kartą per dvejus metus konsultuotis su keleivių, bagažo ir (ar) krovinių vežimo geležinkelių transportu paslaugų naudotojų atstovais, kad būtų atsižvelgiama į jų nuomonę dėl konkurencijos geležinkelių transporto rinkoje; 
+1) rinkos reguliuotojas privalo ne rečiau kaip kartą per dvejus metus konsultuotis su keleivių, bagažo ir (ar) krovinių vežimo geležinkelių transportu paslaugų naudotojų atstovais, kad būtų atsižvelgiama į jų nuomonę dėl geležinkelių transporto rinkos; šios konsultacijos vykdomos rinkos reguliuotojo nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -950,23 +961,25 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 
 
 
-9 straipsnis. Viešosios geležinkelių infrastruktūros objektų statyba ir uždarymas (likvidavimas), jų konservavimas
+9 straipsnis. Viešosios geležinkelių infrastruktūros objektų, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių statyba ir uždarymas (likvidavimas), jų užkonservavimas
 
 
-1. Sprendimą dėl viešosios geležinkelių infrastruktūros objektų uždarymo (likvidavimo), jų užkonservavimo ir naujų objektų statybos priima Vyriausybė.
-
-
-
-
-2. Pasiūlymus dėl viešosios geležinkelių infrastruktūros objektų uždarymo (likvidavimo), jų konservavimo ir naujų objektų statybos teikia susisiekimo ministras, viešosios geležinkelių infrastruktūros valdytojas ar (ir) savivaldybė, kurios teritorijoje yra atitinkamas viešosios geležinkelių infrastruktūros objektas. Teikime turi būti nurodytos objektų statybos ar (ir) uždarymo (likvidavimo), jų konservavimo priežastys, teikiamų pasiūlymų ekonominis, socialinis bei aplinkosauginis pagrindimas.
+1. Sprendimą dėl viešosios geležinkelių infrastruktūros objektų, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių uždarymo (likvidavimo), jų užkonservavimo ir naujų objektų statybos priima Vyriausybė.
 
 
 
 
-3. Žemė naujų viešosios geležinkelių infrastruktūros objektų statybai suteikiama Žemės įstatymo nustatyta tvarka.
+2. Pasiūlymus Vyriausybei dėl viešosios geležinkelių infrastruktūros objektų, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių uždarymo (likvidavimo), jų užkonservavimo ir naujų objektų statybos teikia Lietuvos Respublikos susisiekimo ministras, atsižvelgdamas į viešosios geležinkelių infrastruktūros valdytojo pasiūlymus, jeigu tokie pasiūlymai buvo pateikti, ar (ir) savivaldybė, kurios teritorijoje yra atitinkamas viešosios geležinkelių infrastruktūros objektas ar Lietuvos valstybei nuosavybės teise priklausantis geležinkelių paslaugų įrenginys. Teikime turi būti nurodytos objektų statybos ar (ir) uždarymo (likvidavimo), jų užkonservavimo priežastys, teikiamų pasiūlymų ekonominis, socialinis bei aplinkosauginis pagrindimas.
+
+
+
+
+3. Žemė naujų viešosios geležinkelių infrastruktūros objektų, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių statybai suteikiama Lietuvos Respublikos žemės įstatymo nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
  
-
-
 
 
 
@@ -1527,7 +1540,10 @@ Geležinkelių infrastruktūros objektai yra šie:
 
 
 
-8) apšvietimo įrenginiai, sumontuoti siekiant užtikrinti geležinkelių transporto eismo saugą;
+8) apšvietimo įrenginiai, skirti geležinkelių transporto eismui ir geležinkelių transporto eismo saugai užtikrinti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -1537,7 +1553,10 @@ Geležinkelių infrastruktūros objektai yra šie:
 
 
 
-10) geležinkelių infrastruktūros valdytojo naudojami įrenginiai, skirti transporto mokesčiams surinkti.
+10) geležinkelių infrastruktūros valdytojo naudojami pastatai, įskaitant šiuose pastatuose esančių įrenginių dalį, skirtą transporto mokesčiams surinkti. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -1845,12 +1864,18 @@ VIEŠOSIOS GELEŽINKELIŲ INFRASTRUKTŪROS VALDYMAS, NAUDOJIMAS IR PRIEŽIŪRA
 
 
 
-4. Viešosios geležinkelių infrastruktūros turtas yra valdomas pagal turto patikėjimo sutartį, kurią su viešosios geležinkelių infrastruktūros valdytoju sudaro Vyriausybės įgaliota institucija. Viešosios geležinkelių infrastruktūros turtas registruojamas valstybės lėšomis. Viešosios geležinkelių infrastruktūros valdytojas parengia ir tvarko patikėjimo teise valdomo viešosios geležinkelių infrastruktūros turto ir turto, valdomo kitais teisėtais pagrindais, sąrašą, kuris naudojamas siekiant įvertinti, kokio finansavimo reikia šiam turtui atnaujinti ir modernizuoti, taip pat atskirai nurodo viešosios geležinkelių infrastruktūros atnaujinimo ir modernizavimo išlaidas. 
+4. Viešosios geležinkelių infrastruktūros turtas yra valdomas pagal šio turto patikėjimo sutartį, kurią su viešosios geležinkelių infrastruktūros valdytoju sudaro Susisiekimo ministerija. Sukurtas naujas viešosios geležinkelių infrastruktūros turtas inventorizuojamas ir registruojamas valstybės biudžeto lėšomis. Viešosios geležinkelių infrastruktūros valdytojas parengia ir tvarko patikėjimo teise valdomo viešosios geležinkelių infrastruktūros turto ir turto, valdomo kitais teisėtais pagrindais, sąrašą, atsižvelgiant į kurį nustatoma, kokio finansavimo reikia šiam turtui atnaujinti ir modernizuoti, taip pat atskirai nurodo viešosios geležinkelių infrastruktūros atnaujinimo ir modernizavimo išlaidas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
 
-5. Sprendimus dėl viešosios geležinkelių infrastruktūros objektų pripažinimo nereikalingais arba netinkamais (negalimais) naudoti priima viešosios geležinkelių infrastruktūros valdytojas. Sprendimus dėl nereikalingais arba netinkamais (negalimais) naudoti pripažintų viešosios geležinkelių infrastruktūros objektų perdavimo ar nurašymo priima Vyriausybė. Perduodamo turto vertės dydžiu sumažinamas viešosios geležinkelių infrastruktūros valdytojo įstatinis kapitalas, jeigu perduodamas turtas buvo įvertintas akcijomis, ir anuliuojamos valstybei nuosavybės teise priklausančios akcijos.
+5. Sprendimus dėl viešosios geležinkelių infrastruktūros objektų pripažinimo nereikalingais arba netinkamais (negalimais) naudoti priima viešosios geležinkelių infrastruktūros valdytojas. Sprendimai dėl nereikalingais arba netinkamais (negalimais) naudoti pripažintų viešosios geležinkelių infrastruktūros objektų perdavimo priimami Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatyta tvarka. Sprendimą dėl nereikalingu arba netinkamu (negalimu) naudoti pripažinto viešosios geležinkelių infrastruktūros objekto, kurio likutinė vertė, neatsižvelgiant į viešosios geležinkelių infrastruktūros valdytojo buhalterinėje apskaitoje pripažintą nuvertėjimą, yra 25 tūkstančiai eurų ir didesnė, nurašymo priima Vyriausybė, o sprendimą dėl nereikalingu arba netinkamu (negalimu) naudoti pripažinto viešosios geležinkelių infrastruktūros objekto, kurio likutinė vertė, neatsižvelgiant į viešosios geležinkelių infrastruktūros valdytojo buhalterinėje apskaitoje pripažintą nuvertėjimą, yra mažesnė negu 25 tūkstančiai eurų, nurašymo priima viešosios geležinkelių infrastruktūros valdytojas, gavęs rašytinį Susisiekimo ministerijos sutikimą. Perduodamo turto vertės dydžiu sumažinamas viešosios geležinkelių infrastruktūros valdytojo įstatinis kapitalas, jeigu perduodamas turtas buvo įvertintas akcijomis, ir anuliuojamos valstybei nuosavybės teise priklausančios akcijos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -1915,15 +1940,24 @@ VIEŠOSIOS GELEŽINKELIŲ INFRASTRUKTŪROS VALDYMAS, NAUDOJIMAS IR PRIEŽIŪRA
 
 
 
-13. Užtikrinant geležinkelių transporto eismo saugą, išlaikant viešosios geležinkelių infrastruktūros valdytojo paslaugų kokybę ir ją gerinant, skatinama mažinti viešosios geležinkelių infrastruktūros valdytojo išlaidas ir užmokesčio įmokų dydžius. Nurodytas skatinimas įgyvendinamas Susisiekimo ministerijai ne trumpesniam kaip 5 metų laikotarpiui sudarant su viešosios geležinkelių infrastruktūros valdytoju viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo sutartį, kurioje turi būti bent ši informacija:
+13. Užtikrinant geležinkelių transporto eismo saugą, išlaikant viešosios geležinkelių infrastruktūros valdytojo teikiamų paslaugų kokybę ir ją gerinant, skatinama mažinti viešosios geležinkelių infrastruktūros valdytojo išlaidas ir užmokesčio už minimalųjį prieigos paketą įmokų dydžius. Nurodytas skatinimas įgyvendinamas Susisiekimo ministerijai ne trumpesniam kaip 5 metų laikotarpiui sudarant su viešosios geležinkelių infrastruktūros valdytoju viešosios geležinkelių infrastruktūros ir Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių kokybės ir finansavimo užtikrinimo sutartį (toliau – viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo sutartis), kurioje turi būti bent ši informacija: 
+Pakeistas straipsnio dalies pavadinimas:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
-1) viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo sutarties taikymo sritis, susijusi su viešąja geležinkelių infrastruktūra ir geležinkelių paslaugų įrenginiais, nurodytais Lietuvos Respublikos geležinkelių transporto kodekse ir valdomais viešosios geležinkelių infrastruktūros valdytojo, ir apimanti visus viešosios geležinkelių infrastruktūros valdymo aspektus, įskaitant jau eksploatuojamos viešosios geležinkelių infrastruktūros techninę priežiūrą ir atnaujinimą (prireikus – ir naujos viešosios geležinkelių infrastruktūros statybą); 
+1) viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo sutarties taikymo sritis, susijusi su viešąja geležinkelių infrastruktūra ir Lietuvos valstybei nuosavybės teise priklausančiais geležinkelių paslaugų įrenginiais, valdomais viešosios geležinkelių infrastruktūros valdytojo, ir apimanti visus viešosios geležinkelių infrastruktūros valdymo aspektus, įskaitant jau eksploatuojamos viešosios geležinkelių infrastruktūros techninę priežiūrą, viešosios geležinkelių infrastruktūros atnaujinimą ir modernizavimą (prireikus – ir naujos viešosios geležinkelių infrastruktūros statybą); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
 
-2) skiriamų valstybės biudžeto lėšų paskirstymo struktūra, pagal kurią skirstomos lėšos už viešosios geležinkelių infrastruktūros valdytojo teikiamas paslaugas (minimalųjį prieigos paketą, geležinkelių paslaugų įrenginiuose teikiamas ir šio Kodekso 303 straipsnio 2 ir 3 dalyse nurodytas paslaugas), viešosios geležinkelių infrastruktūros techninę priežiūrą bei atnaujinimą ir už tai, kad būtų atlikti uždelsti viešosios geležinkelių infrastruktūros techninės priežiūros ir atnaujinimo darbai (prireikus gali būti įtraukta skiriamų valstybės biudžeto lėšų paskirstymo naujai viešajai geležinkelių infrastruktūrai struktūra); 
+2) skiriamų valstybės biudžeto lėšų paskirstymo struktūra, pagal kurią skirstomos lėšos už viešosios geležinkelių infrastruktūros valdytojo teikiamas paslaugas (numatant atskirai lėšas už minimalųjį prieigos paketą ir lėšas už Lietuvos valstybei nuosavybės teise priklausančiuose geležinkelių paslaugų įrenginiuose, valdomuose viešosios geležinkelių infrastruktūros valdytojo, teikiamas ir šio Kodekso 303 straipsnio 2 ir 3 dalyse nurodytas paslaugas), viešosios geležinkelių infrastruktūros techninę priežiūrą, atnaujinimą ir modernizavimą (prireikus – ir naujos viešosios geležinkelių infrastruktūros statybą) ir už tai, kad būtų atlikti uždelsti viešosios geležinkelių infrastruktūros techninės priežiūros, viešosios geležinkelių infrastruktūros atnaujinimo ir modernizavimo darbai (prireikus gali būti įtraukta skiriamų valstybės biudžeto lėšų paskirstymo naujai viešajai geležinkelių infrastruktūrai struktūra); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -1948,7 +1982,10 @@ VIEŠOSIOS GELEŽINKELIŲ INFRASTRUKTŪROS VALDYMAS, NAUDOJIMAS IR PRIEŽIŪRA
 
 
 
-7) sutarta viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo sutarties galiojimo trukmė, kuri turi būti suderinta su viešosios geležinkelių infrastruktūros valdytojo strateginiame veiklos plane, teisės aktuose nustatyta viešosios geležinkelių infrastruktūros apmokestinimo sistema ir reikalavimais; 
+7) sutarta viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo sutarties galiojimo trukmė, kuri turi būti suderinta su viešosios geležinkelių infrastruktūros valdytojo strateginiame veiklos plane, teisės aktuose nustatyta ir Tinklo nuostatuose nurodyta viešosios geležinkelių infrastruktūros apmokestinimo sistema ir reikalavimais; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -1975,12 +2012,18 @@ VIEŠOSIOS GELEŽINKELIŲ INFRASTRUKTŪROS VALDYMAS, NAUDOJIMAS IR PRIEŽIŪRA
 
 
 
-16. Šio straipsnio 13 dalyje nurodytoje sutartyje numatomas valstybės biudžeto finansavimas turi būti pakankamas, kad tais atvejais, kai verslo sąlygos yra įprastos, per ne ilgesnį kaip penkerių metų laikotarpį būtų išlaikytas viešosios geležinkelių infrastruktūros valdytojo pajamų (gautų iš užmokesčio, papildomų pajamų iš kitos komercinės veiklos, negrąžinamų pajamų iš privačių šaltinių ir valstybės biudžeto lėšų) ir sąnaudų balansas.
+16. Viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo sutartyje numatomas valstybės biudžeto finansavimas turi būti pakankamas, kad tais atvejais, kai veiklos sąlygos yra įprastos, per ne ilgesnį kaip 5 metų laikotarpį būtų išlaikytas viešosios geležinkelių infrastruktūros valdytojo pajamų (gautų iš užmokesčio už minimalųjį prieigos paketą, užmokesčio už naudojimąsi Lietuvos valstybei nuosavybės teise priklausančiais geležinkelių paslaugų įrenginiais, valdomais viešosios geležinkelių infrastruktūros valdytojo, nurodytais šio Kodekso 301 straipsnyje, ir šiuose įrenginiuose teikiamomis su geležinkelių transportu susijusiomis pagrindinėmis, papildomomis ar pagalbinėmis paslaugomis, papildomų pajamų iš kitos komercinės veiklos, negrąžinamų pajamų iš privačių šaltinių ir valstybės biudžeto lėšų) ir sąnaudų balansas. Viešosios geležinkelių infrastruktūros valdytojas susisiekimo ministro nustatyta tvarka parengia ir paskelbia veiklos planą, suderintą su Vyriausybės tvirtinama viešosios geležinkelių infrastruktūros plėtros programa ir atitinkantį Viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo sutartyje numatomą valstybės biudžeto finansavimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
 
-17. Užmokesčio už minimalųjį prieigos paketą lėšos ir valstybės biudžeto lėšos, skirtos šio Kodekso 24 straipsnyje nurodytoms viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti, turi būti apskaitomos atskirai ir negali būti naudojamos kitai veiklai.
+17. Užmokesčio už minimalųjį prieigos paketą lėšos ir valstybės biudžeto lėšos, skirtos šio Kodekso 24 straipsnyje nurodytoms viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti, turi būti apskaitomos atskirai ir negali būti naudojamos kitai veiklai. Viešosios geležinkelių infrastruktūros valdytojui atitinkamų metų tarnybinio traukinių tvarkaraščio galiojimo laikotarpiu surinkus užmokestį už minimalųjį prieigos paketą ir per tą laikotarpį jo nepanaudojus, šios lėšos ne ilgesnį kaip 5 metų laikotarpį naudojamos viešosios geležinkelių infrastruktūros techninei priežiūrai, atnaujinimui ir (ar) plėtrai. Viešosios geležinkelių infrastruktūros valdytojui užmokesčio už minimalųjį prieigos paketą nepanaudojus šioje straipsnio dalyje nustatyta tvarka, teisės aktų, reglamentuojančių dividendų apskaičiavimą, nustatyta tvarka apskaičiuoti dividendai mokami į valstybės biudžetą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 Straipsnio pakeitimai:
@@ -2134,6 +2177,34 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 Straipsnio pakeitimai:
 Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
+ 
+
+
+
+
+243 straipsnis. Vertikaliosios integracijos įmonių grupė
+
+
+1. Vertikaliosios integracijos įmonių grupę sudaro akcinė bendrovė „Lietuvos geležinkeliai“, viešosios geležinkelių infrastruktūros valdytojo funkcijoms vykdyti akcinės bendrovės „Lietuvos geležinkeliai“ įsteigta bendrovė ir keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugoms viešojoje geležinkelių infrastruktūroje teikti akcinės bendrovės „Lietuvos geležinkeliai“ įsteigtos bendrovės ir kitos akcinės bendrovės „Lietuvos geležinkeliai“ įsteigtos bendrovės, kurių visos akcijos nuosavybės teise priklauso akcinei bendrovei „Lietuvos geležinkeliai“. 
+
+
+
+
+2. Visų bendrovių, kurios įsteigtos viešosios geležinkelių infrastruktūros valdytojo funkcijoms vykdyti, ir bendrovių, kurios įsteigtos keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugoms teikti, akcijos nuosavybės teise priklauso akcinei bendrovei „Lietuvos geležinkeliai“.
+
+
+
+
+3. Visos akcinės bendrovės „Lietuvos geležinkeliai“ akcijos nuosavybės teise priklauso Lietuvos valstybei.
+
+
+
+
+4. Akcinės bendrovės „Lietuvos geležinkeliai“ įsteigtų bendrovių kolegialių valdymo organų nariais gali būti renkami tik vertikaliosios integracijos įmonių grupės darbuotojai. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
  
 
 
@@ -2352,7 +2423,7 @@ GELEŽINKELIŲ PASLAUGŲ ĮRENGINIAI, JŲ VALDYMAS IR NAUDOJIMAS, ŠIUOSE ĮRENG
 Geležinkelių paslaugų įrenginiai yra šie:
 
 
-1) keleivių geležinkelio stotys, jų pastatai ir kiti įrenginiai, kelionių informacijos skelbimo ir bilietų įsigijimo paslaugų vietos;
+1) keleivių geležinkelio stotys, jų pastatai ir kiti įrenginiai, kelionių informacijos skelbimo ir bilietų įsigijimo paslaugai teikti tinkamos vietos;
 
 
 
@@ -2397,12 +2468,14 @@ Geležinkelių paslaugų įrenginiai yra šie:
 
 
 
-10) kiti geležinkelių paslaugų įrenginiai, kuriuose teikiamos šio Kodekso 303 straipsnio 2 ir 3 dalyse nurodytos paslaugos.
+10) kiti geležinkelių paslaugų įrenginiai, kuriuose teikiamos šio Kodekso 303 straipsnio 2 ir 3 dalyse nurodytos paslaugos. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
  
-
-
-
-
 
 
 
@@ -2467,7 +2540,9 @@ TAR pastaba. 6 dalis įsigalioja 2017-01-01.
 
 
 
-10. Tuo atveju, kai geležinkelių paslaugų įrenginiai, nurodyti šio Kodekso 301 straipsnio 1–9 punktuose, ar jų dalis nenaudojami dvejus metus iš eilės arba ilgiau ir geležinkelio įmonė (vežėjas) ar šio Kodekso 28 straipsnio 3 dalyje nurodyta įmonė pateikė prašymą dėl prieigos prie šių įrenginių ar jų dalies, geležinkelių paslaugų įrenginių savininkas per 2 mėnesius nuo šioje dalyje nurodyto prašymo gavimo dienos paskelbia savo interneto svetainėje, kad šiais geležinkelių paslaugų įrenginiais ar jų dalimi galima naudotis išperkamosios nuomos ar nuomos sąlygomis, išskyrus atvejus, kai jis įrodo, kad dėl vykdomų pertvarkymo darbų prašomais geležinkelių paslaugų įrenginiais ar jų dalimi naudotis neįmanoma.
+10. Tuo atveju, kai geležinkelių paslaugų įrenginiai, nurodyti šio Kodekso 301 straipsnio 1–9 punktuose, ar jų dalis nenaudojami dvejus metus iš eilės arba ilgiau ir geležinkelio įmonė (vežėjas) ar šio Kodekso 28 straipsnio 3 dalyje nurodyta įmonė pateikė prašymą dėl prieigos prie šių įrenginių ar jų dalies, geležinkelių paslaugų įrenginių savininkas per 2 mėnesius nuo šioje dalyje nurodyto prašymo gavimo dienos paskelbia savo interneto svetainėje, kad šiais geležinkelių paslaugų įrenginiais ar jų dalimi galima naudotis išperkamosios nuomos ar nuomos sąlygomis, išskyrus atvejus, kai jis įrodo, kad dėl vykdomų pertvarkymo darbų prašomais geležinkelių paslaugų įrenginiais ar jų dalimi naudotis neįmanoma. Šiame straipsnyje nustatyti reikalavimai dėl išperkamosios nuomos netaikomi Lietuvos valstybei nuosavybės teise priklausantiems geležinkelių paslaugų įrenginiams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
  
 
 
