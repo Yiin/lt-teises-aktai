@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2019-01-03 iki 2019-01-12
+Suvestinė redakcija nuo 2019-01-13 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
  
@@ -98,7 +98,10 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-7. Šio įstatymo nuostatos, taikytinos perdraudimo veiklai, taip pat taikomos ir tais atvejais, kai perdraudikas vykdo subjektų, pagal Lietuvos Respublikos profesinių pensijų kaupimo įstatymą turinčių teisę vykdyti profesinių pensijų kaupimo veiklą, rizikų perėmimą.
+7. Neteko galios 2019-01-13.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
+ 
 
 
 
@@ -777,9 +780,25 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-69. Perdraudimo veikla – ūkinė veikla, kuria prisiimama draudiko ar perdraudiko perduodama rizika. Perdraudimo veikla taip pat yra veikla, kai draudimo ar perdraudimo įmonė, išskyrus „Lloyd’s“ draudikų asociaciją, prisiima riziką, perduodamą bet kurio „Lloyd’s“ nario. 
+69. Perdraudimo veikla: 
+
+
+1) ūkinė veikla, kuria prisiimama draudiko ar perdraudiko perduodama rizika;
+
+
+
+
+2) veikla, kai draudimo ar perdraudimo įmonė, išskyrus „Lloyd’s“ draudikų asociaciją, prisiima riziką, perduodamą bet kurio „Lloyd’s“ nario;
+
+
+
+
+3) veikla, kai draudimo paslaugas perdraudikas teikia subjektui, pagal Lietuvos Respublikos profesinių pensijų kaupimo įstatymą turinčiam teisę vykdyti profesinių pensijų kaupimo veiklą. 
+
+
 Straipsnio dalies pakeitimai:
 Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
  
 
 
@@ -2731,7 +2750,10 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 31 straipsnis. Apribojimai dėl interesų konflikto
 
 
-1. Draudimo ar perdraudimo įmonės vadovas negali atlikti stebėtojų tarybos nario ir kitų pagal šį įstatymą draudimo ar perdraudimo įmonės darbuotojams ar struktūriniams padaliniams priskirtų funkcijų ir būti kitos draudimo ar perdraudimo įmonės stebėtojų tarybos, valdybos nariu ar dirbti kitos draudimo ar perdraudimo įmonės administracijoje. Draudimo ar perdraudimo įmonės vadovas turi teisę būti tos pačios įmonių grupės draudimo ar perdraudimo įmonės stebėtojų tarybos ir valdybos nariu.
+1. Draudimo ar perdraudimo įmonės vadovas negali atlikti stebėtojų tarybos nario ir kitų pagal šį įstatymą draudimo ar perdraudimo įmonės darbuotojams ar struktūriniams padaliniams priskirtų funkcijų ir būti kitos draudimo ar perdraudimo įmonės stebėtojų tarybos, valdybos nariu ar eiti kitas vadovaujamas pareigas kitoje draudimo ar perdraudimo įmonėje. Draudimo ar perdraudimo įmonės vadovas turi teisę būti tos pačios įmonių grupės draudimo ar perdraudimo įmonės stebėtojų tarybos, valdybos nariu ar eiti kitas vadovaujamas pareigas tos pačios įmonių grupės draudimo ar perdraudimo įmonėje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
+ 
 
 
 
@@ -3290,7 +3312,10 @@ Draudimo ar perdraudimo įmonė turi nustatyti tinkamas procedūras, kurios sute
 
 
 
-4. Jeigu yra ypatingų neigiamų aplinkybių, apie kurias paskelbia Europos draudimo ir profesinių pensijų institucija, priežiūros institucija, atsižvelgusi į visus svarbius veiksnius, įskaitant vidutinę techninių atidėjinių trukmę, gali neigiamų aplinkybių paveiktai įmonei, kuri viena ar kartu su kitomis neigiamų aplinkybių paveiktomis įmonėmis užima didelę rinkos dalį, arba įmonės, kurios vienos ar kartu su kitomis įmonėmis paveikta didelė draudimo ar perdraudimo rūšių dalis, pratęsti šio straipsnio 3 dalyje nurodytą 3 mėnesių terminą ne daugiau kaip 7 metams. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją, kad ši paskelbtų apie ypatingas neigiamas aplinkybes, jei tikėtina, kad draudimo ar perdraudimo įmonė (įmonės), kuri (kurios) užima didelę rinkos dalį, arba draudimo ar perdraudimo įmonė (įmonės), kurios (kurių) paveikta didelė draudimo ar perdraudimo rūšių dalis, neįvykdys vieno iš reikalavimų, nustatytų šio straipsnio 3 dalyje. Ypatingos neigiamos aplinkybės egzistuoja, kai finansų rinkose yra nenumatytas, staigus ir didelis nuosmukis, palūkanų normos ilgą laiką išlieka žemos ar įvyksta didelio poveikio katastrofa, darantys didelį neigiamą poveikį draudimo ar perdraudimo įmonės (įmonių) finansinei būklei. Europos draudimo ir profesinių pensijų institucija, bendradarbiaudama su priežiūros institucija, reguliariai vertina ir paskelbia, kada ypatingos neigiamos aplinkybės nustoja egzistuoti. Draudimo ar perdraudimo įmonė privalo priežiūros institucijai kas 3 mėnesius pateikti pažangos ataskaitą, kurioje nurodomos priemonės, kurių buvo imtasi, ir pažanga, padaryta siekiant padengti mokumo kapitalo reikalavimą tinkamomis nuosavomis lėšomis arba siekiant užtikrinti mokumo kapitalo reikalavimo vykdymą, sumažinti draudimo ar perdraudimo įmonės riziką.
+4. Jeigu yra ypatingų neigiamų aplinkybių, apie kurias paskelbia Europos draudimo ir profesinių pensijų institucija, priežiūros institucija, prireikus pasikonsultavusi su Europos sisteminės rizikos valdyba, atsižvelgusi į visus svarbius veiksnius, įskaitant vidutinę techninių atidėjinių trukmę, gali neigiamų aplinkybių paveiktai įmonei, kuri viena ar kartu su kitomis neigiamų aplinkybių paveiktomis įmonėmis užima didelę rinkos dalį, arba įmonei, kurios vienos ar kartu su kitomis įmonėmis paveikta didelė draudimo ar perdraudimo rūšių dalis, pratęsti šio straipsnio 3 dalyje nurodytą 3 mėnesių terminą ne ilgiau kaip 7 metams. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją, kad ši paskelbtų apie ypatingas neigiamas aplinkybes, jeigu tikėtina, kad draudimo ar perdraudimo įmonė (įmonės), kuri (kurios) užima didelę rinkos dalį, arba draudimo ar perdraudimo įmonė (įmonės), kurios (kurių) paveikta didelė draudimo ar perdraudimo rūšių dalis, neįvykdys vieno iš reikalavimų, nustatytų šio straipsnio 3 dalyje. Ypatingos neigiamos aplinkybės egzistuoja, kai finansų rinkose yra nenumatytas, staigus ir didelis nuosmukis, palūkanų normos ilgą laiką išlieka žemos ar įvyksta didelio poveikio katastrofa, darantys didelį neigiamą poveikį draudimo ar perdraudimo įmonės (įmonių) finansinei būklei. Europos draudimo ir profesinių pensijų institucija, bendradarbiaudama su priežiūros institucija, reguliariai vertina ir paskelbia, kada ypatingos neigiamos aplinkybės nustoja egzistuoti. Draudimo ar perdraudimo įmonė privalo priežiūros institucijai kas 3 mėnesius pateikti pažangos ataskaitą, kurioje nurodomos priemonės, kurių buvo imtasi, ir pažanga, padaryta siekiant padengti mokumo kapitalo reikalavimą tinkamomis nuosavomis lėšomis arba siekiant užtikrinti mokumo kapitalo reikalavimo vykdymą, sumažinti draudimo ar perdraudimo įmonės riziką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
+ 
 
 
 
@@ -3481,7 +3506,10 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 50 straipsnis. Leidimo perleisti teises ir pareigas pagal draudimo ar perdraudimo sutartis išdavimas
 
 
-1. Draudimo įmonė apie ketinimą perleisti teises ir pareigas pagal draudimo sutartis privalo paskelbti mažiausiai 2 nacionaliniuose laikraščiuose, taip pat įvykdyti paskelbimo reikalavimus, nustatytus Europos ekonominės erdvės valstybėje, kurioje yra draudimo rizika, arba įsipareigojimo Europos ekonominės erdvės valstybėje. Skelbime apie ketinimą perleisti teises ir pareigas pagal draudimo sutartis turi būti nurodytas ne trumpesnis kaip 2 mėnesių terminas, per kurį draudėjas turi teisę raštu pareikšti draudimo įmonei savo prieštaravimą dėl ketinimo perleisti teises ir pareigas pagal draudimo sutartis ir perdraudimo sutartis. Šios dalies nuostatos taikomos ir tuo atveju, kai teises ir pareigas pagal draudimo sutartis perleidžia kitos Europos ekonominės erdvės valstybės draudimo įmonė, o Lietuvos Respublika yra Europos ekonominės erdvės valstybė, kurioje yra draudimo rizika, arba įsipareigojimo Europos ekonominės erdvės valstybė.
+1. Draudimo įmonė apie ketinimą perleisti teises ir pareigas pagal draudimo sutartis privalo paskelbti bent 2 nacionaliniuose laikraščiuose, taip pat įvykdyti paskelbimo reikalavimus, nustatytus Europos ekonominės erdvės valstybėje, kurioje yra draudimo rizika, arba įsipareigojimo Europos ekonominės erdvės valstybėje. Skelbime apie ketinimą perleisti teises ir pareigas pagal draudimo sutartis turi būti nurodytas ne trumpesnis kaip 2 mėnesių terminas, per kurį draudėjas turi teisę raštu pareikšti draudimo įmonei savo prieštaravimą dėl ketinimo perleisti teises ir pareigas pagal draudimo sutartis. Šios dalies nuostatos taikomos ir tuo atveju, kai teises ir pareigas pagal draudimo sutartis perleidžia kitos Europos ekonominės erdvės valstybės draudimo įmonė, o Lietuvos Respublika yra Europos ekonominės erdvės valstybė, kurioje yra draudimo rizika, arba įsipareigojimo Europos ekonominės erdvės valstybė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
+ 
 
 
 
@@ -7790,12 +7818,18 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-2) informacija ir dokumentai, kuriais patvirtinama, kad draudimo brokerių įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės, jos priežiūros ir valdymo organų nariai yra nepriekaištingos reputacijos, o vadovas – nepriekaištingos reputacijos, kvalifikuotas ir patyręs ir kad šio įstatymo 1581 straipsnyje nurodyti asmenys atitinka šio įstatymo 1581 straipsnio 1 dalyje nustatytus reikalavimus ir jiems netaikomas apribojimas vykdyti veiklą pagal šio įstatymo 1581 straipsnio 2 dalį;
+2) informacija ir dokumentai, kuriais patvirtinama, kad draudimo brokerių įmonės vadovas yra nepriekaištingos reputacijos, kvalifikuotas ir patyręs; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
+ 
 
 
 
 
-3) informacija apie prašymą teikiančio asmens dalyvių, kuriems priklauso daugiau kaip 10 procentų įstatinio kapitalo ir (arba) balsavimo teisių, tapatybę ir jų turimos įstatinio kapitalo ir (arba) balsavimo teisių dalies dydį, ir asmenų, susijusių glaudžiais ryšiais, tapatybę, taip pat duomenys, kuriais patvirtinama, kad šių asmenų dalyvavimas draudimo brokerių įmonės veikloje nesudarys kliūčių priežiūros institucijai atlikti veiksmingą draudimo brokerių įmonės priežiūrą;
+3) informacija ir dokumentai, kuriais patvirtinamos draudimo brokerių įmonės dalyvių, kuriems tiesiogiai ir netiesiogiai priklauso daugiau kaip 10 procentų įstatinio kapitalo ir (arba) balsavimo teisių, ir su šiais dalyviais glaudžiais ryšiais susijusių asmenų tapatybės ir kuriais patvirtinama, kad visų šių asmenų dalyvavimas draudimo brokerių įmonės veikloje nesudarys kliūčių priežiūros institucijai atlikti veiksmingą draudimo brokerių įmonės priežiūrą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
+ 
 
 
 
@@ -7830,12 +7864,18 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-2) draudimo brokerių įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės, draudimo brokerių įmonės priežiūros ir valdymo organų nariai nėra nepriekaištingos reputacijos, o vadovas nėra nepriekaištingos reputacijos, kvalifikuotas ir patyręs ir jeigu šio įstatymo 1581 straipsnyje nurodyti asmenys neatitinka šio įstatymo 1581 straipsnio 1 dalyje nustatytų reikalavimų ir (arba) jiems taikomas apribojimas vykdyti veiklą pagal šio įstatymo 1581 straipsnio 2 dalį;
+2) draudimo brokerių įmonės vadovas nėra nepriekaištingos reputacijos, kvalifikuotas ir patyręs; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
+ 
 
 
 
 
-3) prašymą įrašyti į draudimo brokerių įmonių sąrašą teikiančio asmens dalyvių, kuriems priklauso daugiau kaip 10 procentų įstatinio kapitalo ir (arba) balsavimo teisių, arba asmenų, susijusių su prašymą teikiančiu asmeniu glaudžiais ryšiais, dalyvavimas draudimo brokerių įmonės veikloje sudarys kliūčių priežiūros institucijai atlikti veiksmingą draudimo brokerių įmonės priežiūrą;
+3) prašymą įrašyti į draudimo brokerių įmonių sąrašą teikiančio asmens dalyvių, kuriems tiesiogiai ir netiesiogiai priklauso daugiau kaip 10 procentų įstatinio kapitalo ir (arba) balsavimo teisių, ir su šiais dalyviais glaudžiais ryšiais susijusių asmenų dalyvavimas draudimo brokerių įmonės veikloje sudarys kliūčių priežiūros institucijai atlikti veiksmingą draudimo brokerių įmonės priežiūrą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
+ 
 
 
 
@@ -7940,7 +7980,10 @@ Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
 162 straipsnis. Draudimo brokerių įmonės valdymas ir pareiga užtikrinti draudimo brokerių tinkamumo ir pasirengimo reikalavimų laikymąsi
 
 
-1. Draudimo brokerių įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės, draudimo brokerių įmonės priežiūros ir valdymo organų nariai privalo būti nepriekaištingos reputacijos asmenys, o vadovas – nepriekaištingos reputacijos, kvalifikuotas ir patyręs.
+1. Draudimo brokerių įmonę kontroliuojantys asmenys, joje dalyvaujančios įmonės, jų valdymo organų nariai, draudimo brokerių įmonės priežiūros ir valdymo organų nariai neturi būti pripažinti kaltais dėl sunkaus, labai sunkaus nusikaltimo arba nusikaltimo ar baudžiamojo nusižengimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai ar juos atitinkančių nusikalstamų veikų pagal kitų valstybių baudžiamuosius įstatymus padarymo, jeigu jų teistumas už nurodytus nusikaltimus nėra išnykęs ar panaikintas arba nepraėjo 3 metai nuo teismo nuosprendžio, kuriuo fizinis ar juridinis asmuo yra pripažintas kaltu dėl šioje dalyje nurodytų baudžiamųjų nusižengimų padarymo, įsiteisėjimo ir jiems per paskutinius 10 metų neturi būti iškelta fizinio ar juridinio asmens bankroto byla, o vadovas turi būti nepriekaištingos reputacijos, kvalifikuotas ir patyręs. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
+ 
 
 
 
@@ -8036,7 +8079,10 @@ DRAUDIMO BROKERIAI IR DRAUDIMO BROKERIŲ RŪMAI
 
 
 
-4. Draudimo brokeris, prieš pradėdamas vykdyti draudimo produktų platinimo veiklą, privalo tapti Draudimo brokerių rūmu nariu. Draudimo brokeris turi būti nepriekaištingos reputacijos.
+4. Draudimo brokeris, prieš pradėdamas vykdyti draudimo produktų platinimo veiklą, privalo tapti Draudimo brokerių rūmu nariu. Draudimo brokeris turi būti nepriekaištingos reputacijos. Draudimo brokeriui tapus Draudimo brokerių rūmu nariu, jis yra įtraukiamas į Draudimo brokerių rūmų narių sąrašą, kuriame nurodomas draudimo brokerio vardas (vardai), pavardė (pavardės), įrašymo į Draudimo brokerių rūmų narių sąrašą data ir draudimo brokerio pažymėjimo numeris. Aktualus Draudimo brokerių rūmų narių sąrašas yra nuolat skelbiamas Draudimo brokerių rūmų interneto svetainėje, siekiant sudaryti galimybę įsitikinti, kad asmenys yra išlaikę draudimo brokerių kvalifikacinį egzaminą ir tapę Draudimo brokerių rūmų nariais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
+ 
 
 
 
@@ -8172,9 +8218,10 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 169 straipsnis. Draudimo brokerių rūmų nariai
 
 
-1. Draudimo brokerių rūmų nariais turi teisę būti tik asmenys, išlaikę draudimo brokerių kvalifikacinį egzaminą, turintys nepriekaištingą reputaciją ir nustatyta tvarka davę draudimo brokerio priesaiką. Draudimo brokerių rūmams draudžiama atsisakyti priimti nariu asmenį, įvykdžiusį šiuos reikalavimus, išskyrus šio įstatymo 170 straipsnio 2 dalyje nustatytą atvejį. 
+1. Draudimo brokerių rūmų nariais turi teisę būti tik asmenys, išlaikę draudimo brokerių kvalifikacinį egzaminą, turintys nepriekaištingą reputaciją ir nustatyta tvarka davę draudimo brokerio priesaiką. Draudimo brokerių rūmams draudžiama atsisakyti priimti nariu asmenį, įvykdžiusį šiuos reikalavimus, išskyrus šio įstatymo 170 straipsnio 2 dalyje nustatytą atvejį. Draudimo brokeris informaciją apie savo nepriekaištingą reputaciją arba informaciją apie atsiradusias aplinkybes, dėl kurių jis negali būti laikomas nepriekaištingos reputacijos, privalo pateikti Draudimo brokerių rūmams jų nustatyta forma ir tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
  
 
 
@@ -8287,7 +8334,18 @@ Draudimo brokerių rūmai atlieka šias funkcijas:
 
 
 
-7) atlieka kitas Draudimo brokerių rūmų įstatuose nurodytas funkcijas. 
+7) tvarko Draudimo brokerių rūmų narių sąrašą; 
+Papildyta straipsnio punktu:
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
+ 
+
+
+
+
+8) atlieka kitas Draudimo brokerių rūmų įstatuose nurodytas funkcijas. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
+ 
 
 
 
@@ -10768,6 +10826,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos 
 draudimo įstatymo
 priedas
@@ -10776,115 +10835,71 @@ priedas
  
 
 
-1. 1978 m. liepos 25 d. ketvirtoji Tarybos direktyva 78/660/EEB, grindžiama Europos ekonominės bendrijos steigimo sutarties 54 straipsnio 3 dalies g punktu, dėl tam tikrų tipų bendrovių metinių atskaitomybių (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 21) su paskutiniais pakeitimais, padarytais Direktyva 2012/6/ES (OL 2012 L 81, p. 3).
+1. 1995 m. birželio 29 d. Europos Parlamento ir Tarybos direktyva 95/26/EB, iš dalies keičianti Direktyvas 77/780/EEB ir 89/646/EEB dėl kredito įstaigų, Direktyvas 73/239/EEB ir 92/49/EEB dėl ne gyvybės draudimo, Direktyvas 79/267/EEB ir 92/96/EEB dėl gyvybės draudimo, Direktyvą 93/22/EEB dėl investicinių įmonių, Direktyvą 85/611/EEB dėl kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektų (KIPVPS), kad būtų gerinama riziką ribojanti priežiūra (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 269), su paskutiniais pakeitimais, padarytais Direktyva 2009/65/EB (OL 2009 L 302, p. 32).
 
 
 
 
-2. 1983 m. birželio 13 d. septintoji Tarybos direktyva 83/349/EEB, pagrįsta Sutarties 54 straipsnio 3 dalies g punktu, dėl konsoliduotos atskaitomybės (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 58) su paskutiniais pakeitimais, padarytais Direktyva 2009/49/EB (OL 2009 L 164, p. 42).
+2. 2001 m. spalio 8 d. Tarybos reglamentas (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 251).
 
 
 
 
-3. 1990 m. lapkričio 8 d. Tarybos direktyva 90/618/EEB, iš dalies keičianti, pirmiausia dėl motorinių transporto priemonių civilinės atsakomybės draudimo, Direktyvą 73/239/EEB ir Direktyvą 88/357/EEB dėl įstatymų ir kitų teisės aktų, susijusių su tiesioginiu draudimu, išskyrus gyvybės draudimą, derinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 252).
+3. 2002 m. kovo 5 d. Europos Parlamento ir Tarybos direktyva 2002/13/EB, iš dalies keičianti Tarybos direktyvą 73/239/EEB dėl ne gyvybės draudimo įmonėms taikomų mokumo atsargos reikalavimų (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 310).
 
 
 
 
-4. 1995 m. birželio 29 d. Europos Parlamento ir Tarybos direktyva 95/26/EB, iš dalies keičianti Direktyvas 77/780/EEB ir 89/646/EEB dėl kredito įstaigų, Direktyvas 73/239/EEB ir 92/49/EEB dėl ne gyvybės draudimo, Direktyvas 79/267/EEB ir 92/96/EEB dėl gyvybės draudimo, Direktyvą 93/22/EEB dėl investicinių įmonių, Direktyvą 85/611/EEB dėl kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektų (KIPVPS), kad būtų gerinama riziką ribojanti priežiūra (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 269), su paskutiniais pakeitimais, padarytais Direktyva 2009/65/EB (OL 2009 L 302, p. 32).
+4. 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/87/EB dėl finansiniam konglomeratui priklausančių kredito įstaigų, draudimo įmonių ir investicinių firmų papildomos priežiūros ir iš dalies keičianti Tarybos direktyvas 73/239/EEB, 79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB ir 93/22/EEB bei Europos Parlamento ir Tarybos direktyvas 98/78/EB ir 2000/12/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 340), su paskutiniais pakeitimais, padarytais Direktyva 2010/78/ES (OL 2010 L 331, p. 120).
 
 
 
 
-5. 2000 m. lapkričio 7 d. Europos Parlamento ir Tarybos direktyva 2000/64/EB, iš dalies keičianti Tarybos direktyvas 85/611/EEB, 92/49/EEB, 92/96/EEB ir 93/22/EEB dėl keitimosi informacija su trečiosiomis valstybėmis (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 348), su paskutiniais pakeitimais, padarytais Direktyva 2009/65/EB (OL 2009 L 302, p. 32). 
+5. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/113/EB, įgyvendinanti vienodo požiūrio į moteris ir vyrus principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių tiekimo bei paslaugų teikimo (OL 2004 L 373, p. 37).
 
 
 
 
-6. 2001 m. spalio 8 d. Tarybos reglamentas (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 251).
+6. 2005 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 2005/1/EB, iš dalies keičianti Tarybos direktyvas 73/239/EEB, 85/611/EEB, 91/675/EEB, 92/49/EEB bei 93/6/EEB, taip pat Europos Parlamento ir Tarybos direktyvas 94/19/EB, 98/78/EB, 2000/12/EB, 2001/34/EB, 2002/83/EB ir 2002/87/EB, siekiant sukurti naują finansinių paslaugų komitetų organizacinę struktūrą (OL 2005 L 79, p. 9), su paskutiniais pakeitimais, padarytais Direktyva 2009/65/EB (OL 2009 L 302, p. 32).
 
 
 
 
-7. 2002 m. kovo 5 d. Europos Parlamento ir Tarybos direktyva 2002/13/EB, iš dalies keičianti Tarybos direktyvą 73/239/EEB dėl ne gyvybės draudimo įmonėms taikomų mokumo atsargos reikalavimų (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 310).
+7. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/51/ES (OL 2014 L 153, p. 1).
 
 
 
 
-8. Neteko galios 2018-10-01. 
-Punkto pakeitimai:
-Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
- 
+8. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/103/EB dėl motorinių transporto priemonių valdytojų civilinės atsakomybės draudimo ir privalomojo tokios atsakomybės draudimo patikrinimo (OL 2009 L 263, p. 11).
 
 
 
 
-9. 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/87/EB dėl finansiniam konglomeratui priklausančių kredito įstaigų, draudimo įmonių ir investicinių firmų papildomos priežiūros ir iš dalies keičianti Tarybos direktyvas 73/239/EEB, 79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB ir 93/22/EEB bei Europos Parlamento ir Tarybos direktyvas 98/78/EB ir 2000/12/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 340), su paskutiniais pakeitimais, padarytais Direktyva 2010/78/ES (OL 2010 L 331, p. 120).
+9. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2009 L 335, p. 1) su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2341 (OL 2016 L 354, p. 37).
 
 
 
 
-10. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/113/EB, įgyvendinanti vienodo požiūrio į moteris ir vyrus principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių tiekimo bei paslaugų teikimo (OL 2004 L 373, p. 37).
+10. 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos direktyva 2011/89/ES, kuria iš dalies keičiamos direktyvų 98/78/EB, 2002/87/EB, 2006/48/EB ir 2009/138/EB nuostatos dėl finansų konglomeratui priklausančių finansų subjektų papildomos priežiūros (OL 2011 L 326, p. 113).
 
 
 
 
-11. 2005 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 2005/1/EB, iš dalies keičianti Tarybos direktyvas 73/239/EEB, 85/611/EEB, 91/675/EEB, 92/49/EEB bei 93/6/EEB, taip pat Europos Parlamento ir Tarybos direktyvas 94/19/EB, 98/78/EB, 2000/12/EB, 2001/34/EB, 2002/83/EB ir 2002/87/EB, siekiant sukurti naują finansinių paslaugų komitetų organizacinę struktūrą (OL 2005 L 79, p. 9), su paskutiniais pakeitimais, padarytais Direktyva 2009/65/EB (OL 2009 L 302, p. 32).
+11. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB (OL 2013 L 182, p. 19).
 
 
 
 
-12. 2007 m. rugsėjo 5 d. Europos Parlamento ir Tarybos direktyva 2007/44/EB, iš dalies keičianti Tarybos direktyvą 92/49/EEB ir direktyvas 2002/83/EB, 2004/39/EB, 2005/68/EB ir 2006/48/EB dėl riziką ribojančio vertinimo tvarkos taisyklių ir vertinimo kriterijų, taikomų akcijų paketų įsigijimui ir didinimui finansų sektoriuje (OL 2007 L 247, p. 1).
+12. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1). 
 
 
 
 
-13. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/103/EB dėl motorinių transporto priemonių valdytojų civilinės atsakomybės draudimo ir privalomojo tokios atsakomybės draudimo patikrinimo (OL 2009 L 263, p. 11).
-
-
-
-
-14. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2009 L 335, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/51/ES (OL 2014 L 153, p. 1).
-
-
-
-
-15. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2009 L 335, p. 1) su paskutiniais pakeitimais, padarytais Direktyva 2011/89/ES (OL 2011 L 326, p. 113). 
-
-
-
-
-16. 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos direktyva 2011/89/ES, kuria iš dalies keičiamos direktyvų 98/78/EB, 2002/87/EB, 2006/48/EB ir 2009/138/EB nuostatos dėl finansų konglomeratui priklausančių finansų subjektų papildomos priežiūros (OL 2011 L 326, p. 113).
-
-
-
-
-17. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013 (OL 2013 L 146, p. 1). 
-Papildyta punktu:
-Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
- 
-
-
-
-
-18. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1). 
-Papildyta punktu:
-Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
- 
-
-
-
-
-19. 2016 m. sausio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/97 dėl draudimo produktų platinimo (OL 2016 L 26, p. 19). 
-Papildyta punktu:
-Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
- 
+13. 2016 m. sausio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/97 dėl draudimo produktų platinimo (OL 2016 L 26, p. 19). 
 
 
 Priedo pakeitimai:
-Nr. XII-1476, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21138
-Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
- 
+Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
  
 
 
