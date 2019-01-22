@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 
 # Lietuvos Respublikos transporto lengvatų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-21
+Suvestinė redakcija nuo 2019-01-22 iki 2020-11-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-890, i. k. 1001010ISTAIII-1605
  
@@ -315,7 +315,10 @@ Nr. XIII-619, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12574
 
 
 
-5. Keleiviui, vežančiam keletą vaikų iki 7 metų tolimojo reguliaraus susisiekimo autobusais, vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais, suteikiama teisė trečiajam ir kitiems vaikams iki 7 metų įgyti vienkartinį arba terminuotą vardinį važiavimo bilietą su 50 procentų nuolaida.
+5. Keleiviui, vežančiam vaiką (vaikus) iki 7 metų tolimojo reguliaraus susisiekimo autobusais, vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, keleiviniais traukiniais, reguliaraus susisiekimo laivais ir keltais, suteikiama teisė vaikui (vaikams) iki 7 metų įgyti vienkartinį arba terminuotą vardinį važiavimo bilietą su 50 procentų nuolaida.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1935, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00865
+ 
 
 
 
@@ -698,3 +701,8 @@ Lietuvos Respublikos transporto lengvatų istatymo Nr. VIII-1605 5 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1262, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10488
 Lietuvos Respublikos transporto lengvatų įstatymo Nr. VIII-1605 5, 7 straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1935, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00865
+Lietuvos Respublikos transporto lengvatų įstatymo Nr. VIII-1605 5 straipsnio pakeitimo įstatymas
