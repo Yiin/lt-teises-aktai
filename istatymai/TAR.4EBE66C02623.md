@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-21
+Suvestinė redakcija nuo 2019-01-22 iki 2019-02-26
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -10460,7 +10460,6 @@ užtraukia įspėjimą arba baudą asmenims nuo septyniasdešimt iki vieno šimt
 
 4. Vandens ir nuotekų apskaitos duomenų, žinant, kad jie klaidingi, pateikimas
 užtraukia įspėjimą arba baudą asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų ir baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų.
- 
 
 
 
@@ -13605,7 +13604,7 @@ Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 
 
 
-7. Neblaivumo ar apsvaigimo nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų patikrinimo vengimas arba alkoholio ar narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vartojimas iki patikrinimo
+7. Neblaivumo ar apsvaigimo nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų patikrinimo vengimas arba alkoholio ar narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vartojimas iki patikrinimo 
 užtraukia baudą vairuotojams nuo vieno tūkstančio iki dviejų tūkstančių eurų. 
 Papildyta straipsnio dalimi:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
@@ -16703,24 +16702,6 @@ užtraukia baudą darbdaviui ar jo įgaliotam asmeniui nuo vieno šimto keturias
 
 
 
-3. Informacijos apie sąlygų, kurios pagal Lietuvos Respublikos įstatymą „Dėl užsieniečių teisinės padėties“ taikomos užsieniečio perkėlimui įmonės viduje, pasikeitimą nepateikimas laiku vidaus reikalų ministro įgaliotai institucijai
-užtraukia baudą priimančiosios įmonės, įsteigtos Lietuvos Respublikoje, vadovui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų. 
-Papildyta straipsnio dalimi:
-Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
- 
-
-
-
-
-4. Informacijos apie užsienio valstybėje, kuri nėra Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybė narė, įsteigtos įmonės atsiųsto laikinai dirbti į įmonę Lietuvos Respublikoje užsieniečio darbo pradžią įmonėje Lietuvos Respublikoje nepateikimas laiku Valstybinės darbo inspekcijos teritoriniam skyriui
-užtraukia baudą įmonės vadovui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
-Papildyta straipsnio dalimi:
-Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
- 
-
-
-
-
 
 
 543 straipsnis. Vietinio eismo per sieną režimo pažeidimas
@@ -18646,7 +18627,9 @@ Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
 
 
 
-94) Civilinės aviacijos administracijos – dėl šio kodekso 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 413 straipsnio 2 dalyje, 443, 505, 515 straipsniuose numatytų administracinių nusižengimų;
+94) jūrų laivų avarijų ir incidentų tyrimo vadovas (vadovai) – dėl šio kodekso 401 straipsnio 1, 24 dalyse, 4131, 505 straipsniuose numatytų administracinių nusižengimų;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
@@ -18720,7 +18703,7 @@ Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
 
 
 
-101) kitų oficialiąją statistiką tvarkančių įstaigų – valstybės ir savivaldybių institucijų ir įstaigų, jeigu jų atliekami statistiniai tyrimai yra įtraukti į Oficialiosios statistikos programos I dalį, – dėl šio kodekso 221 straipsnyje numatytų administracinių nusižengimų. 
+101) kitų oficialiąją statistiką tvarkančių įstaigų – valstybės ir savivaldybių institucijų ir įstaigų, jeigu jų atliekami statistiniai tyrimai yra įtraukti į Oficialiosios statistikos programos I dalį, – dėl šio kodekso 221 straipsnyje numatytų administracinių nusižengimų;
 Papildyta punktu:
 Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481
 Punkto numeracijos pakeitimas:
@@ -23144,3 +23127,28 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 33, 38, 417, 424, 56
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
 Lietuvos Respublikos administracinių nusižengimų kodekso 541, 542 ir 589 straipsnių pakeitimo įstatymas
+ 
+68.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1541, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16599
+Lietuvos Respublikos administracinių nusižengimų kodekso 415 ir 589 straipsnių pakeitimo įstatymas
+ 
+69.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1887, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00095
+Lietuvos Respublikos administracinių nusižengimų kodekso 134 straipsnio pakeitimo įstatymas
+ 
+70.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1893, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00099
+Lietuvos Respublikos administracinių nusižengimų kodekso 332 straipsnio pakeitimo įstatymas
+ 
+71.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
+Lietuvos Respublikos administracinių nusižengimų kodekso 369 ir 589 straipsnių pakeitimo įstatymas
+ 
+ 
+
+
+0
