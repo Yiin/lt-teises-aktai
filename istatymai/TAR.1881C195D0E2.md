@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-21
+Suvestinė redakcija nuo 2019-01-22 iki 2019-07-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
  
@@ -1933,6 +1933,13 @@ TARNYBOS ŽVALGYBOS INSTITUCIJOJE SĄLYGOS
 
 
 5. Žvalgybos pareigūnas teisminio nagrinėjimo procese gali dalyvauti tik kaip liudytojas, kuriam įstatymų nustatyta tvarka taikomas anonimiškumas arba dalinis anonimiškumas. 
+
+
+
+
+6. Asmeniui, kuris būdamas žvalgybos pareigūnu ir vykdydamas tarnybines pareigas galimai padarė teisės pažeidimą dėl tarnybinės rizikos ribų viršijimo (dėl to yra įtariamas ar kaltinamas nusikalstamos veikos padarymu, jo atžvilgiu pareikštas ieškinys ar paduotas skundas (prašymas, pareiškimas), iš žvalgybos institucijos lėšų kompensuojamos teisinių paslaugų išlaidos ar jų dalis. Ši kompensacija skiriama žvalgybos institucijos vadovo nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIII-1952, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00867
  
 
 
@@ -4008,3 +4015,8 @@ Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 69 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1821, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21842
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 29 ir 50 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1952, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00867
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 41 straipsnio pakeitimo įstatymas
