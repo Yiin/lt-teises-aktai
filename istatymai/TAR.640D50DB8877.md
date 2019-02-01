@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.640D50DB8877"
 
 # Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas
 
-Suvestinė redakcija nuo 2017-05-01 iki 2019-01-31
+Suvestinė redakcija nuo 2019-02-01 iki 2019-06-19
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 109-2993, i. k. 0981010ISTAVIII-935
  
@@ -54,8 +54,6 @@ BENDROSIOS NUOSTATOS
 
 
 4. Šis įstatymas suderintas su Europos Sąjungos teisės aktu, nurodytu šio įstatymo priede. 
- 
- 
  
 
 
@@ -196,7 +194,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-24. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatyme. 
+24. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos vertybinių popierių įstatyme, Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme, Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1882, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00236
  
 
 
@@ -753,16 +753,16 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
- 
- 
-
-
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
  
 
 
+ 
 
 
+
+
+ 
 Lietuvos Respublikos
 smulkiojo ir vidutinio verslo 
 plėtros įstatymo
@@ -823,3 +823,8 @@ Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-9
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-192, 2017-01-12, paskelbta TAR 2017-01-24, i. k. 2017-01325
 Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1882, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00236
+Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo Nr. VIII-935 2 straipsnio pakeitimo įstatymas
