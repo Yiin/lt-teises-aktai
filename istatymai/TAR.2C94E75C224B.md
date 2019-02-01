@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2C94E75C224B"
 
 # Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2019-01-31
+Suvestinė redakcija nuo 2019-02-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 120-4433, i. k. 1041010ISTA0IX-2387
  
@@ -35,7 +35,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo tikslas ir taikymas
 
 
-1. Šio įstatymo tikslas – nustatyti papildomos priežiūros reikalavimus kredito įstaigoms, draudimo įmonėms, perdraudimo įmonėms, finansų konglomeratams, kolektyvinio investavimo subjektų valdymo įmonėms, profesionaliesiems investuotojams skirtų kolektyvinių investavimo subjektų valdymo įmonėms ir finansų maklerio įmonėms, priklausančioms finansų konglomeratui, siekiant, kad finansų sistema būtų stabili ir patikima. 
+1. Šio įstatymo tikslas – nustatyti papildomos priežiūros reikalavimus kredito įstaigoms, draudimo įmonėms, perdraudimo įmonėms, finansų konglomeratams, kolektyvinio investavimo subjektų valdymo įmonėms, alternatyviųjų kolektyvinio investavimo subjektų valdymo įmonėms ir finansų maklerio įmonėms, priklausančioms finansų konglomeratui, siekiant, kad finansų sistema būtų stabili ir patikima. 
 
 
 
@@ -45,15 +45,17 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Šiame įstatyme kolektyvinio investavimo subjekto valdymo įmonė laikoma finansų sektoriaus, kuriam ji priskirta atliekant konsoliduotą (jungtinę) priežiūrą, dalimi. Šiame įstatyme profesionaliesiems investuotojams skirto kolektyvinio investavimo subjekto valdymo įmonė laikoma finansų sektoriaus, kuriam ji priskirta atliekant konsoliduotą (jungtinę) priežiūrą, dalimi.
+3. Šiame įstatyme kolektyvinio investavimo subjekto valdymo įmonė laikoma finansų sektoriaus, kuriam ji priskirta atliekant konsoliduotą (jungtinę) priežiūrą, dalimi. Šiame įstatyme alternatyviojo kolektyvinio investavimo subjekto valdymo įmonė laikoma finansų sektoriaus, kuriam ji priskirta atliekant konsoliduotą (jungtinę) priežiūrą, dalimi.
 
 
 
 
-4. Šis įstatymas skirtas užtikrinti Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, taikymą.
+4. Šis įstatymas skirtas Europos Sąjungos teisės akto, nurodyto šio įstatymo priede, taikymui užtikrinti. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1879, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00231
  
-
-
 
 
 
@@ -146,7 +148,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-10. Finansų sektoriaus teisės aktai (toliau – sektoriaus teisės aktai) – kredito įstaigų, draudimo įmonių, perdraudimo įmonių, kolektyvinio investavimo subjektų valdymo įmonių, profesionaliesiems investuotojams skirtų kolektyvinių investavimo subjektų valdymo įmonių arba finansų maklerio įmonių veiklą reglamentuojantys teisės aktai, įskaitant Europos Sąjungos teisės aktus.
+10. Finansų sektoriaus teisės aktai (toliau – sektoriaus teisės aktai) – kredito įstaigų, draudimo įmonių, perdraudimo įmonių, kolektyvinio investavimo subjektų valdymo įmonių, alternatyviųjų kolektyvinio investavimo subjektų valdymo įmonių arba finansų maklerio įmonių veiklą reglamentuojantys teisės aktai, įskaitant Europos Sąjungos teisės aktus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1879, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00231
+ 
 
 
 
@@ -286,20 +291,27 @@ BENDROSIOS NUOSTATOS
 
 
 
-24. Priežiūros institucija – Lietuvos Respublikos ir (arba) kitų valstybių narių kredito įstaigas, draudimo įmones, perdraudimo įmones, finansų maklerio įmones, kolektyvinio investavimo subjektų valdymo įmones ir profesionaliesiems investuotojams skirtų kolektyvinių investavimo subjektų valdymo įmones prižiūrinti institucija. Lietuvos Respublikos priežiūros institucija yra Lietuvos bankas arba Europos centrinis bankas, atsižvelgiant į 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63), nuostatas.
+24. Priežiūros institucija – Lietuvos Respublikos ir (arba) kitų valstybių narių kredito įstaigas, draudimo įmones, perdraudimo įmones, finansų maklerio įmones, kolektyvinio investavimo subjektų valdymo įmones ir alternatyviųjų kolektyvinio investavimo subjektų valdymo įmones prižiūrinti institucija. Lietuvos Respublikos priežiūros institucija yra Lietuvos bankas arba Europos Centrinis Bankas pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63), nuostatas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1695, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07675
+Nr. XIII-1879, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00231
  
 
 
 
 
-25. Priežiūros institucijos prižiūrima įmonė (toliau – prižiūrima įmonė) – kredito įstaiga, draudimo įmonė, perdraudimo įmonė, finansų maklerio įmonė, kolektyvinio investavimo subjekto valdymo įmonė arba profesionaliesiems investuotojams skirto kolektyvinio investavimo subjekto valdymo įmonė, kurias prižiūri priežiūros institucija. 
+25. Priežiūros institucijos prižiūrima įmonė (toliau – prižiūrima įmonė) – kredito įstaiga, draudimo įmonė, perdraudimo įmonė, finansų maklerio įmonė, kolektyvinio investavimo subjekto valdymo įmonė arba alternatyviojo kolektyvinio investavimo subjekto valdymo įmonė, kurias prižiūri priežiūros institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1879, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00231
+ 
 
 
 
 
-26. Profesionaliesiems investuotojams skirto kolektyvinio investavimo subjekto valdymo įmonė – kaip ši sąvoka apibrėžta Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatyme arba užsienio įmonė, kuriai norint įsisteigti Lietuvos Respublikoje licencija būtų išduodama vadovaujantis Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymu. 
+26. Alternatyviojo kolektyvinio investavimo subjekto valdymo įmonė – kaip ši sąvoka apibrėžta Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatyme arba užsienio įmonė, kuriai norint įsisteigti Lietuvos Respublikoje licencija būtų išduodama vadovaujantis Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1879, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00231
+ 
 
 
 
@@ -335,7 +347,10 @@ Nr. XII-1695, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07675
 
 
 
-3. Laikoma, kad finansų konglomerato pagrindinis finansų sektorius yra tas, kurio vidurkis, nustatytas pagal šio straipsnio 2 dalį, yra didžiausias. Laikoma, kad finansų konglomerato mažiausias finansų sektorius yra tas, kurio vidurkis yra mažiausias. Skaičiuojant minėtąjį vidurkį ir nustatant pagrindinį ir mažiausią finansų sektorius, bankų ir investicinių paslaugų sektoriai sujungiami. Kolektyvinio investavimo subjekto valdymo įmonė ir profesionaliesiems investuotojams skirto kolektyvinio investavimo subjekto valdymo įmonė priskiriamos tam sektoriui, kuriam jos priklauso grupėje. Jeigu grupėje jos nepriklauso nė vienam sektoriui, jos priskiriamos mažiausiam finansų sektoriui.
+3. Laikoma, kad finansų konglomerato pagrindinis finansų sektorius yra tas, kurio vidurkis, nustatytas pagal šio straipsnio 2 dalį, yra didžiausias. Laikoma, kad finansų konglomerato mažiausias finansų sektorius yra tas, kurio vidurkis yra mažiausias. Skaičiuojant minėtąjį vidurkį ir nustatant pagrindinį ir mažiausią finansų sektorius, bankų ir investicinių paslaugų sektoriai sujungiami. Kolektyvinio investavimo subjekto valdymo įmonė ir alternatyviojo kolektyvinio investavimo subjekto valdymo įmonė priskiriamos tam sektoriui, kuriam jos priklauso grupėje. Jeigu grupėje jos nepriklauso nė vienam sektoriui, jos priskiriamos mažiausiam finansų sektoriui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1879, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00231
+ 
 
 
 
@@ -1124,7 +1139,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
  
 
 
@@ -1171,3 +1186,8 @@ Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1695, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07675
 Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Nr. IX-2387 2 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1879, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00231
+Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo Nr. IX-2387 1, 2 ir 3 straipsnių pakeitimo įstatymas
