@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/28d5a4e048fb11e6b5d09300a16a686c"
 
 # Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 7 ir 11 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2019-02-01 iki 2022-07-31
+ 
+Įstatymas paskelbtas: TAR 2016-07-13, i. k. 2016-20338
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 MIŠKŲ ĮSTATYMO NR. I-671 2, 4, 5, 7 IR 11 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -21,6 +28,9 @@ MIŠKŲ ĮSTATYMO NR. I-671 2, 4, 5, 7 IR 11 STRAIPSNIŲ PAKEITIMO
 Vilnius
  
  
+
+ 
+
  
  
 
@@ -196,7 +206,9 @@ Pakeisti 11 straipsnio 2 dalies 4 punktą ir jį išdėstyti taip:
 
 
 
-3. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2018 m. spalio 1 d. užtikrina visų laisvos valstybinės žemės fonde esančių ir nuosavybės teisėms atkurti nepanaudotų valstybinių miškų perdavimą patikėjimo teise valdyti miškų urėdijoms arba pardavimą aukcionuose.
+3. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2020 m. sausio 1 d. užtikrina visų laisvos valstybinės žemės fonde esančių ir nuosavybės teisėms atkurti nepanaudotų valstybinių miškų perdavimą patikėjimo teise valdyti miškų urėdijai (urėdijoms) arba pardavimą aukcionuose.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1926, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00890
  
 
 
@@ -208,4 +220,17 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1926, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00890
+Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 7 ir 11 straipsnių pakeitimo įstatymo Nr. XII-2584 6 straipsnio pakeitimo įstatymas
+ 
+ 
+part_5f22612bcfff4ceebf0368ccba738181_end
