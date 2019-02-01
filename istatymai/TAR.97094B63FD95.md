@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97094B63FD95"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-31
+Suvestinė redakcija nuo 2019-02-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 112-4990, i. k. 1031010ISTA0IX-1804
  
@@ -28,13 +28,20 @@ Vilnius
  
 
 
-1 straipsnis. Įstatymo paskirtis 
+1 straipsnis. Įstatymo paskirtis ir taikymo sritis 
 
 
-Šis įstatymas reglamentuoja įmonių, kurių teisinė forma yra tikroji ūkinė bendrija, ir įmonių, kurių teisinė forma yra komanditinė ūkinė bendrija, steigimą, valdymą, veiklą, pertvarkymą, pabaigą, šių įmonių dalyvių teises ir pareigas.
+1. Šis įstatymas reglamentuoja įmonių, kurių teisinė forma yra tikroji ūkinė bendrija, ir įmonių, kurių teisinė forma yra komanditinė ūkinė bendrija, steigimą, valdymą, veiklą, pertvarkymą, pabaigą, šių įmonių dalyvių teises ir pareigas.
+
+
+
+
+2. Šis įstatymas kolektyvinio investavimo subjektams, veikiantiems pagal Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymą ir Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymą, taikomas tiek, kiek šie įstatymai nenustato kitaip.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1885, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00244
  
-
-
 
 
 
@@ -955,7 +962,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                 ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                             ROLANDAS PAKSAS
  
 
 
@@ -988,3 +995,8 @@ Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 16 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-410, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09794
 Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1885, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00244
+Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 1 straipsnio pakeitimo įstatymas
