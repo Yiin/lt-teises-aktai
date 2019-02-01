@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-31
+Suvestinė redakcija nuo 2019-02-01 iki 2019-04-24
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
  
@@ -289,9 +289,10 @@ Nr. XI-2174, 2012-06-29, Žin., 2012, Nr. 83-4348 (2012-07-14), atitaisymas skel
 Ūkio subjektai apskaitą tvarko taip, kad užtikrintų finansinių ataskaitų sudarymą pagal šiuos apskaitos standartus:
 
 
-1) pagal tarptautinius apskaitos standartus – finansų maklerio įmonės, reguliuojamos rinkos operatorius, Centrinis vertybinių popierių depozitoriumas, draudimo įmonės, perdraudimo įmonės, valdymo įmonės, veikiančios pagal Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymą, Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymą ir Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymą, kredito įstaigos, išskyrus kredito unijas; 
+1) pagal tarptautinius apskaitos standartus – finansų maklerio įmonės, reguliuojamos rinkos operatorius, Centrinis vertybinių popierių depozitoriumas, draudimo įmonės, perdraudimo įmonės, valdymo įmonės, veikiančios pagal Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą, Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymą, Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymą ir Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymą, kredito įstaigos, išskyrus kredito unijas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-467, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10829
+Nr. XIII-1880, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00233
  
 
 
@@ -1616,3 +1617,8 @@ Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 7, 9, 10, 11, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1183, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09074
 Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 6 ir 10 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1880, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00233
+Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 3 straipsnio pakeitimo įstatymas
