@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-31
+Suvestinė redakcija nuo 2019-02-01 iki 2019-04-24
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
  
@@ -206,9 +206,11 @@ Nr. XIII-405, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09789
 
 
 
-151. Kolektyvinio investavimo subjektas – kolektyvinio investavimo subjektas, kaip ši sąvoka apibrėžta Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, informuotiesiems investuotojams skirtas kolektyvinio investavimo subjektas, kaip ši sąvoka apibrėžta Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme, profesionaliesiems investuotojams skirtas kolektyvinio investavimo subjektas, kaip ši sąvoka apibrėžta Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatyme. Kolektyvinio investavimo subjektu taip pat laikomas užsienio valstybėje įsteigtas ar kitaip organizuotas subjektas, mutatis mutandis atitinkantis šioje dalyje nurodytuose teisės aktuose atitinkamiems kolektyvinio investavimo subjektams nustatytus reikalavimus. Kolektyvinio investavimo subjektu taip pat laikomas subjektas, kuriam taikomas 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų (OL 2013 L 115, p. 1) arba 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 346/2013 dėl Europos socialinio verslumo fondų (OL 2013 L 115, p. 18), arba 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/760 dėl Europos ilgalaikių investicijų fondų (OL 2015 L 123, p. 98), arba 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų (OL 2017 L 169, p. 8). 
+151. Kolektyvinio investavimo subjektas – kolektyvinio investavimo subjektas, kaip ši sąvoka apibrėžta Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme, informuotiesiems investuotojams skirtas kolektyvinio investavimo subjektas, kaip ši sąvoka apibrėžta Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme, alternatyvusis kolektyvinio investavimo subjektas, kaip ši sąvoka apibrėžta Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatyme. Kolektyvinio investavimo subjektu taip pat laikomas užsienio valstybėje įsteigtas ar kitaip organizuotas subjektas, mutatis mutandis atitinkantis šioje dalyje nurodytuose teisės aktuose atitinkamiems kolektyvinio investavimo subjektams nustatytus reikalavimus. Kolektyvinio investavimo subjektu taip pat laikomas subjektas, kuriam taikomas 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų (OL 2013 L 115, p. 1) arba 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 346/2013 dėl Europos socialinio verslumo fondų (OL 2013 L 115, p. 18), arba 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/760 dėl Europos ilgalaikių investicijų fondų (OL 2015 L 123, p. 98), arba 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų (OL 2017 L 169, p. 8).
 Papildyta straipsnio dalimi:
 Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+Straipsnio dalies pakeitimai:
+Nr. XIII-1881, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00234
  
 
 
@@ -4938,3 +4940,8 @@ Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2, 4, 5, 11, 17, 30, 3
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1703, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20942
 Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 17-2 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1881, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00234
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2 straipsnio pakeitimo įstatymas
