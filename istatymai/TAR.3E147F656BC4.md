@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3E147F656BC4"
 
 # Lietuvos Respublikos profesionaliojo scenos meno įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-01-31
+Suvestinė redakcija nuo 2019-02-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3523, i. k. 1041010ISTA0IX-2257
  
@@ -102,7 +102,17 @@ BENDROSIOS NUOSTATOS
 
 
 
-11. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos yra apibrėžtos Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatyme, Lietuvos Respublikos biudžetinių įstaigų įstatyme, Lietuvos Respublikos viešųjų įstaigų įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos civiliniame kodekse ir Lietuvos Respublikos darbo kodekse.
+11. Užsienio scenos meno organizacija – profesionaliojo scenos meno srityje veikiantis užsienio valstybės juridinis asmuo ar jo padalinys, kita organizacija ar jos padalinys, organizuojantys scenos meno kūrinių sukūrimą ir (ar) viešą atlikimą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1841, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21869
+ 
+
+
+
+
+12. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos yra apibrėžtos Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatyme, Lietuvos Respublikos biudžetinių įstaigų įstatyme, Lietuvos Respublikos viešųjų įstaigų įstatyme, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme, Lietuvos Respublikos biudžeto sandaros įstatyme, Lietuvos Respublikos civiliniame kodekse ir Lietuvos Respublikos darbo kodekse.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1841, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21869
  
 
 
@@ -440,78 +450,135 @@ Profesionaliojo scenos meno įstaigų steigimo dokumentuose, be duomenų, nurody
 
 
 
-9 straipsnis. Profesionaliojo scenos meno įstaigų jungtinės veiklos (partnerystės) sutartis
+9 straipsnis. Jungtinės veiklos (partnerystės) sutartis  
 
 
-1. Nacionalinis, valstybinis ir savivaldybės teatras ir koncertinė įstaiga su kita profesionaliojo scenos meno įstaiga, bendrai organizuodami profesionaliojo scenos meno kūrinio sukūrimą, viešą atlikimą ir jo (jo dalies) naudojimą, gali sudaryti profesionaliojo scenos meno įstaigų jungtinės veiklos (partnerystės) sutartį. 
-
-
-
-
-2. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos su kita profesionaliojo scenos meno įstaiga (toliau šioje dalyje – šalys) sudaromoje profesionaliojo scenos meno įstaigų jungtinės veiklos (partnerystės) sutartyje turi būti nurodyta:
-
-
-1) kiekvienos šalies finansinis, materialusis, nematerialusis indėlis;
+1. Nacionalinis, valstybinis ir savivaldybės teatras ir koncertinė įstaiga su kita profesionaliojo scenos meno įstaiga ir (ar) užsienio scenos meno organizacija, bendrai organizuodami profesionaliojo scenos meno kūrinio sukūrimą, viešą atlikimą ir jo (jo dalies) naudojimą, gali sudaryti jungtinės veiklos (partnerystės) sutartį. 
 
 
 
 
-2) profesionaliojo scenos meno kūrinio sukūrimo sąlygos;
+2. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos su kita profesionaliojo scenos meno įstaiga ir (ar) užsienio scenos meno organizacija (toliau šioje dalyje – šalys) sudaromoje jungtinės veiklos (partnerystės) sutartyje turi būti nurodyta:
+
+
+1) šalių įsipareigojimas bendrai veikti sukuriant ir viešai atliekant profesionaliojo scenos meno kūrinį ir jį (jo dalį) viešai paskelbiant, atgaminant ir kitaip naudojant;
 
 
 
 
-3) profesionaliojo scenos meno kūrinio viešo atlikimo sąlygos;
+2) kiekvienos šalies finansinis, materialusis, nematerialusis indėlis;
 
 
 
 
-4) profesionaliojo scenos meno kūrinio (ar jo dalies) naudojimo (viešo paskelbimo, atgaminimo ir kitokio naudojimo) sąlygos;
+3) profesionaliojo scenos meno kūrinio sukūrimo sąlygos;
 
 
 
 
-5) nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos patikėjimo teise valdomo materialiojo turto naudojimo, apsaugos, priežiūros ir apskaitos sąlygos;
+4) profesionaliojo scenos meno kūrinio viešo atlikimo sąlygos;
 
 
 
 
-6) šalių atsakomybė už nacionalinio, valstybinio ar savivaldybės teatro ar koncertinės įstaigos patikėjimo teise valdomo turto sugadinimą ar praradimą;
+5) profesionaliojo scenos meno kūrinio (ar jo dalies) naudojimo (viešo paskelbimo, atgaminimo ir kitokio naudojimo) sąlygos;
 
 
 
 
-7) proporcingai šalies indėliui gautų pajamų paskirstymas iš bendrai sukurto profesionaliojo scenos meno kūrinio viešo atlikimo ir naudojimo.
+6) nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos nuosavybės ir (ar) patikėjimo teise valdomo materialiojo turto, reikalingo profesionaliojo scenos meno kūriniui sukurti ir atlikti, naudojimo, apsaugos, priežiūros ir apskaitos sąlygos;
+
+
+
+
+7) nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos numatomo sukurti materialiojo turto, reikalingo profesionaliojo scenos meno kūriniui sukurti ir atlikti, naudojimo, apsaugos, priežiūros ir apskaitos sąlygos;
+
+
+
+
+8) šalių atsakomybė už nacionalinio, valstybinio ar savivaldybės teatro ar koncertinės įstaigos nuosavybės ir (ar) patikėjimo teise valdomo turto sugadinimą ar praradimą;
+
+
+
+
+9) gautų pajamų paskirstymas kiekvienai šaliai iš bendrai sukurto profesionaliojo scenos meno kūrinio viešo atlikimo ir naudojimo;
+
+
+
+
+10) atsakomybė už kiekvienos šalies įsipareigojimų, atsiradusių vykdant bendrą veiklą, nevykdymą;
+
+
+
+
+11) proporcingai šalies indėliui išlaidų ir nuostolių paskirstymas iš bendrai sukurto profesionaliojo scenos meno kūrinio viešo atlikimo ir naudojimo, jeigu sudaroma sutartis su užsienio scenos meno organizacija;
+
+
+
+
+12) jungtinės veiklos (partnerystės) sutarties galiojimo terminas. Sutartis negali būti sudaryta ilgesniam kaip 5 metų laikotarpiui.
 
 
 
 
 
 
-3. Nacionalinis, valstybinis ir savivaldybės teatras ir koncertinė įstaiga, siekdami su kita profesionaliojo scenos meno įstaiga sudaryti profesionaliojo scenos meno įstaigų jungtinės veiklos (partnerystės) sutartį, kultūros ministro nustatyta tvarka savininko teises ir pareigas įgyvendinančiai institucijai pateikia:
+3. Nacionalinis, valstybinis ir savivaldybės teatras ir koncertinė įstaiga, siekdami su kita profesionaliojo scenos meno įstaiga ir (ar) užsienio scenos meno organizacija sudaryti jungtinės veiklos (partnerystės) sutartį, kultūros ministro nustatyta tvarka savininko teises ir pareigas įgyvendinančiai institucijai pateikia:
 
 
-1) prašymą dėl profesionaliojo scenos meno įstaigų jungtinės veiklos (partnerystės) sutarties sudarymo;
-
-
-
-
-2) profesionaliojo scenos meno įstaigų jungtinės veiklos (partnerystės) sutarties projektą. 
+1) prašymą dėl jungtinės veiklos (partnerystės) sutarties sudarymo; 
 
 
 
 
-
-
-4. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos savininko teises ir pareigas įgyvendinančios institucijos sprendimu nacionalinis, valstybinis ir savivaldybės teatras ir koncertinė įstaiga su kita profesionaliojo scenos meno įstaiga turi teisę pasirašyti profesionaliojo scenos meno įstaigų jungtinės veiklos (partnerystės) sutartį. 
+2) profesionaliojo scenos meno kūrinio idėjos (koncepcijos) aprašymą;
 
 
 
 
-5. Profesionaliojo scenos meno įstaigų jungtinės veiklos (partnerystės) sutartis gali būti keičiama tik turint savininko teises ir pareigas įgyvendinančios institucijos sutikimą.
+3) nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos meno tarybos pateiktą vertinimą dėl numatomo sukurti profesionaliojo scenos meno kūrinio reikalingumo ir meninės vertės;
+
+
+
+
+4) jungtinės veiklos (partnerystės) sutarties projektą;
+
+
+
+
+5) jungtinės veiklos (partnerystės) sutarties sąmatą, kurioje nurodyti sutarties šalių finansinis, materialusis ir nematerialusis indėliai, nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos išlaidos sukuriant, viešai atliekant, viešai skelbiant, atgaminant ir kitaip naudojant profesionaliojo scenos meno kūrinį ar jo dalį.
+
+
+
+
+
+
+4. Nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos savininko teises ir pareigas įgyvendinanti institucija, įvertinusi jungtinės veiklos (partnerystės) sutarties projekto nuostatas, duoda sutikimą sudaryti jungtinės veiklos (partnerystės) sutartį, jeigu: 
+
+
+1) vertinimą dėl numatomo sukurti profesionaliojo scenos meno kūrinio reikalingumo ir meninės vertės pateikė nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos meno taryba;
+
+
+
+
+2) užsienio scenos meno organizacijos interesai ir profesionaliojo scenos meno kūrinio turinys bei atlikimas nekelia grėsmės pagrindiniams nacionalinio saugumo objektams, įtvirtintiems Lietuvos Respublikos nacionalinio saugumo pagrindų įstatyme;
+
+
+
+
+3) pagrįstas jungtinės veiklos ekonominis naudingumas.
+
+
+
+
+
+
+5. Jungtinės veiklos (partnerystės) sutartis gali būti keičiama tik turint savininko teises ir pareigas įgyvendinančios institucijos sutikimą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1841, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21869
  
-
-
 
 
 
@@ -1225,3 +1292,8 @@ Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 11 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1842, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21870
 Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 15 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1841, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21869
+Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 2 ir 9 straipsnių pakeitimo įstatymas
