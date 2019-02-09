@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-02-08
+Suvestinė redakcija nuo 2019-02-09 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -1746,19 +1746,44 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-81. Lietuvos Respublikos rinkai tiekiamų registruotų vaistinių preparatų, išskyrus retuosius vaistinius preparatus, pakuotės turi būti paženklintos ir pakuotės lapeliai parengti sveikatos apsaugos ministro nustatyta tvarka ir vadovaujantis Lietuvos Respublikos valstybinės kalbos įstatymu bei Lietuvos Respublikos vartotojų teisių apsaugos įstatymu. Sveikatos apsaugos ministras, siekdamas užtikrinti tinkamą ir reikiamo dažnumo vaistinių preparatų tiekimą, gali nustatyti, kad tam tikri pakuotės ženklinimo elementai gali būti pateikti užsienio kalba. Registruotų vaistinių preparatų, išskyrus radiofarmacinius preparatus, pakuotės turi būti su apsaugos priemonėmis, kuriomis būtų galima patikrinti vaistinio preparato autentiškumą, identifikuoti atskiras pakuotes ir nustatyti, ar nebuvo pažeista išorinė pakuotė, šiais atvejais:
+81. Lietuvos Respublikos rinkai tiekiamų registruotų vaistinių preparatų, išskyrus retuosius vaistinius preparatus, pakuotės turi būti paženklintos ir pakuotės lapeliai parengti sveikatos apsaugos ministro nustatyta tvarka ir vadovaujantis Lietuvos Respublikos valstybinės kalbos įstatymu bei Lietuvos Respublikos vartotojų teisių apsaugos įstatymu. Sveikatos apsaugos ministras, siekdamas užtikrinti tinkamą ir reikiamo dažnumo vaistinių preparatų tiekimą, gali nustatyti, kad tam tikri pakuotės ženklinimo elementai gali būti pateikti užsienio kalba. Registruotų vaistinių preparatų, išskyrus radiofarmacinius preparatus, pakuotės turi būti su unikaliais identifikatoriais ir apsauginiais įtaisais (toliau – apsaugos priemonės), kurie suteikia galimybę patikrinti vaistinio preparato autentiškumą, identifikuoti atskiras pakuotes ir nustatyti, ar nebuvo praimta išorinė arba, jeigu jos nėra, vidinė pakuotė, šiais atvejais: 
 
 
-1) jeigu vaistinis preparatas yra receptinis vaistinis preparatas, išskyrus įrašytus į Europos Komisijos vaistinių preparatų ir jų grupių sąrašą, kuriame nurodyti receptiniai vaistiniai preparatai ar grupės, kuriems netaikomas reikalavimas, kad pakuotės turi būti su apsaugos priemonėmis; 
+1) jeigu vaistinis preparatas yra receptinis vaistinis preparatas, išskyrus į Reglamento (ES) 2016/161 I priede nurodytą sąrašą įrašytus vaistinius preparatus; 
 
 
 
 
-2) jeigu vaistinis preparatas yra nereceptinis vaistinis preparatas, kuris įrašytas į Europos Komisijos vaistinių preparatų ir jų grupių sąrašą, kuriame nurodyti nereceptiniai vaistiniai preparatai ar grupės, kuriems taikomas reikalavimas, kad pakuotės turi būti su apsaugos priemonėmis. 
+2) jeigu vaistinis preparatas yra nereceptinis vaistinis preparatas, įrašytas į Reglamento (ES) 2016/161 II priede nurodytą sąrašą. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+ 
+
+
+
+
+82. Vaistinių preparatų registruotojas arba lygiagretaus importo leidimo turėtojas gali taikyti apsauginius įtaisus ir kitiems vaistiniams preparatams, kurių pakuotės pagal šio straipsnio 81 dalį neturi būti su apsaugos priemonėmis, jeigu vaistiniai preparatai atitinka vieną iš šių sąlygų: apsauginio įtaiso taikymas nurodytas vaistinio preparato registracijos pažymėjimo sąlygose arba vaistinio preparato lygiagretaus importo leidimo sąlygose arba Valstybinei vaistų kontrolės tarnybai pateiktas informacinis pranešimas apie apsauginio įtaiso taikymą sveikatos apsaugos ministro nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+ 
+
+
+
+
+83. Jeigu Lietuvos Respublikos rinkai tiekiamų vaistinių preparatų, įskaitant neregistruotus vaistinius preparatus ir registruotus vaistinius preparatus, kurių pakuotės paženklintos užsienio kalba, pakuotės turi apsaugos priemones, šios apsaugos priemonės turi būti tikrinamos ir nustatytais atvejais deaktyvinami unikalūs identifikatoriai Reglamento (ES) 2016/161 nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+ 
+
+
+
+
+84. Reikalavimas tikrinti vaistinių preparatų pakuočių unikalių identifikatorių autentiškumą ir juos deaktyvinti netaikomas asmenims, kuriems tiekiamų vaistinių preparatų pakuočių unikalių identifikatorių autentiškumą tikrina ir juos deaktyvina didmeninio platinimo licencijos turėtojas. Tokiu atveju asmenys turi atitikti Reglamento (ES) 2016/161 26 straipsnio 3 dalyje nustatytas sąlygas arba turi būti įrašyti į Asmenų, kuriems tiekiamų vaistinių preparatų pakuočių unikalių identifikatorių autentiškumą tikrina ir juos deaktyvina didmeninio platinimo licencijos turėtojas, sąrašą. Šį sąrašą tvirtina ir šiems asmenims tiekiamų vaistinių preparatų pakuočių unikalių identifikatorių autentiškumo tikrinimo ir jų deaktyvinimo tvarką nustato sveikatos apsaugos ministras, vadovaudamasis Reglamento (ES) 2016/161 nuostatomis. Į Asmenų, kuriems tiekiamų vaistinių preparatų pakuočių unikalių identifikatorių autentiškumą tikrina ir juos deaktyvina didmeninio platinimo licencijos turėtojas, sąrašą įrašomi asmenys, atitinkantys Reglamento (ES) 2016/161 23 straipsnio nuostatas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
 
 
@@ -1775,8 +1800,10 @@ Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
 
 
 
-91. Asmens sveikatos priežiūros įstaigos įsigytus vaistinius preparatus laiko ir įtraukia į apskaitą sveikatos apsaugos ministro nustatyta tvarka, taip pat prisijungia prie Lietuvos Respublikos teritoriją aptarnaujančios kaupyklos, nurodytos Reglamento (ES) 2016/161 32 straipsnio 1 dalies b punkte (toliau – Lietuvos nacionalinė kaupykla). Asmenims, įrašytiems į sveikatos apsaugos ministro tvirtinamą Asmenų, kuriems tiekiamų vaistinių preparatų pakuočių unikalių identifikatorių autentiškumą tikrina ir juos deaktyvina didmeninio platinimo licencijos turėtojas, sąrašą, prisijungti prie Lietuvos nacionalinės kaupyklos nereikia. 
+91. Asmens sveikatos priežiūros įstaigos įsigytus vaistinius preparatus laiko, įtraukia į apskaitą, tikrina gautų vaistinių preparatų pakuočių apsaugos priemones ir deaktyvina unikalius identifikatorius sveikatos apsaugos ministro nustatyta tvarka, taip pat prisijungia prie Lietuvos Respublikos teritoriją aptarnaujančios kaupyklos, nurodytos Reglamento (ES) 2016/161 32 straipsnio 1 dalies b punkte (toliau – Lietuvos nacionalinė kaupykla), ir vykdo Reglamente (ES) 2016/161 nustatytas pareigas asmenims, turintiems leidimą arba įgaliotiems tiekti vaistus visuomenei. Vaistinių preparatų pakuočių unikalūs identifikatoriai gali būti deaktyvinami nuskaitant kiekvienos pakuotės dvimatį brūkšninį kodą, kuriame užkoduotas unikalus identifikatorius, arba naudojantis gamintojo ar didmeninio platintojo saugiu būdu pateikta suvestine informacija apie patiektų vaistinių preparatų pakuočių unikalius identifikatorius. Asmenims, nurodytiems šio straipsnio 84 dalyje, prisijungti prie Lietuvos nacionalinės kaupyklos nereikia. 
 Papildyta straipsnio dalimi:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+Straipsnio dalies pakeitimai:
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
 
@@ -1852,18 +1879,21 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-16. Valstybinė vaistų kontrolės tarnyba, išskyrus šio straipsnio 161 dalyje nurodytą atvejį, gali laikinai leisti tiekti Lietuvos Respublikos rinkai registruotus vaistinius preparatus pakuotėmis užsienio kalba ir su pakuotės lapeliais, parengtais užsienio kalba, jeigu vaistinio preparato gamintojas, o lygiagrečiai importuojamo vaistinio preparato atveju – jo perpakavimą vykdantis gamintojas dėl objektyvių priežasčių, susijusių su vaistinio preparato gamybos, tiekimo sutrikimais arba padidėjusiu vaistinio preparato poreikiu, negali užtikrinti tinkamo ir reikiamo dažnumo vaistinio preparato lietuviškomis pakuotėmis tiekimo, atitinkančio pacientų poreikį, ir, jeigu vaistinis preparatas nėra kompensuojamasis, nėra galimybės jo pakeisti kitais registruotais nekompensuojamaisiais vaistiniais preparatais lietuviškomis pakuotėmis, kurių yra pakankamai rinkoje. Leidimas išduodamas per 7 darbo dienas ir tik įsitikinus, kad vaistinis preparatas atitinka vaistinio preparato arba lygiagrečiai importuojamo vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį, ir nustačius būtinas visuomenės sveikatai apsaugoti priemones, kad vaistinis preparatas būtų teisingai identifikuojamas ir tinkamai skiriamas bei vartojamas. Leidimas galioja tol, kol tęsiasi priežastys, dėl kurių jis buvo išduotas, bet ne ilgiau kaip vienus metus nuo leidimo išdavimo datos. Jeigu vaistinis preparatas yra kompensuojamasis, leidimas galioja ne ilgiau kaip iki įsigalios sveikatos apsaugos ministro įsakymas dėl naujo Kompensuojamųjų vaistinių preparatų kainyno patvirtinimo ir vaistinį preparatą išduoti (parduoti) gyventojams kaip kompensuojamąjį vaistinį preparatą galima tik leidimo galiojimo metu. Leidimo, jeigu jis išduotas tiekti nekompensuojamąjį vaistinį preparatą, galiojimo terminas gali būti vieną kartą pratęstas, bet ne ilgiau kaip 6 mėnesiams. Sveikatos apsaugos ministras tvirtina šioje dalyje nurodytų leidimų išdavimo ir pratęsimo tvarkos aprašą, priežasčių objektyvumo vertinimo kriterijus ir būtinų visuomenės sveikatai apsaugoti priemonių sąrašą bei jų taikymo sąlygas. 
+16. Valstybinė vaistų kontrolės tarnyba, išskyrus šio straipsnio 161 dalyje nurodytą atvejį, gali laikinai leisti tiekti Lietuvos Respublikos rinkai registruotus vaistinius preparatus pakuotėmis užsienio kalba ir su pakuotės lapeliais, parengtais užsienio kalba, jeigu vaistinio preparato gamintojas, o lygiagrečiai importuojamo vaistinio preparato atveju – jo perpakavimą vykdantis gamintojas dėl objektyvių priežasčių, susijusių su vaistinio preparato gamybos, tiekimo sutrikimais arba padidėjusiu vaistinio preparato poreikiu, negali užtikrinti tinkamo ir reikiamo dažnumo vaistinio preparato lietuviškomis pakuotėmis tiekimo, atitinkančio pacientų poreikį, ir jeigu vaistinis preparatas nėra kompensuojamasis, nėra galimybės jo pakeisti kitais registruotais nekompensuojamaisiais vaistiniais preparatais lietuviškomis pakuotėmis, kurių yra pakankamai rinkoje. Leidimas išduodamas per 7 darbo dienas ir tik įsitikinus, kad vaistinis preparatas atitinka vaistinio preparato arba lygiagrečiai importuojamo vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį, ir nustačius būtinas visuomenės sveikatai apsaugoti priemones, kad vaistinis preparatas būtų teisingai identifikuojamas ir tinkamai skiriamas bei vartojamas. Leidimas galioja tol, kol tęsiasi priežastys, dėl kurių jis buvo išduotas, bet ne ilgiau kaip vienus metus nuo leidimo išdavimo datos. Jeigu vaistinis preparatas yra kompensuojamasis, leidimas galioja ne ilgiau kaip iki sveikatos apsaugos ministro įsakymo dėl naujo Kompensuojamųjų vaistinių preparatų kainyno patvirtinimo įsigaliojimo dienos ir vaistinį preparatą išduoti (parduoti) gyventojams kaip kompensuojamąjį vaistinį preparatą galima tik leidimo galiojimo metu. Leidimo tiekti nekompensuojamąjį vaistinį preparatą galiojimo terminas gali būti vieną kartą pratęstas, bet ne ilgiau kaip 6 mėnesiams. Sveikatos apsaugos ministras tvirtina šioje dalyje nurodytų leidimų išdavimo ir pratęsimo tvarkos aprašą, priežasčių objektyvumo vertinimo kriterijus ir būtinų visuomenės sveikatai apsaugoti priemonių sąrašą bei jų taikymo sąlygas. Vaistinių preparatų, atitinkančių šio straipsnio 81 dalies nuostatas, pakuotės turi būti su apsaugos priemonėmis. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
 Nr. XIII-1192, 2018-05-24, paskelbta TAR 2018-05-29, i. k. 2018-08644
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
 
 
 
 
-161. Registruoti vaistiniai preparatai pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, gali būti tiekiami asmens sveikatos priežiūros įstaigoms taikant sveikatos apsaugos ministro nustatytas būtinas visuomenės sveikatai apsaugoti priemones, kad vaistinis preparatas būtų teisingai identifikuojamas ir tinkamai skiriamas bei vartojamas. Tiekiami vaistiniai preparatai turi atitikti vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį, bei gali būti vartojami tik toje asmens sveikatos priežiūros įstaigoje teikiamoms asmens sveikatos priežiūros paslaugoms suteikti. 
+161. Registruoti vaistiniai preparatai pakuotėmis kitos EEE valstybės kalba, vartojant lotynišką raidyną, ir su pakuotės lapeliais, parengtais kitos EEE valstybės kalba, vartojant lotynišką raidyną, gali būti tiekiami asmens sveikatos priežiūros įstaigoms taikant sveikatos apsaugos ministro nustatytas būtinas visuomenės sveikatai apsaugoti priemones, kad vaistinis preparatas būtų teisingai identifikuojamas ir tinkamai skiriamas bei vartojamas. Asmens sveikatos priežiūros įstaigai tiekiami vaistiniai preparatai turi atitikti vaistinio preparato registracijos dokumentų duomenis ir informaciją, išskyrus vaistinio preparato pavadinimą, pakuotės ženklinimą ir pakuotės lapelį, ir gali būti vartojami tik toje asmens sveikatos priežiūros įstaigoje teikiamoms asmens sveikatos priežiūros paslaugoms suteikti. Vaistinių preparatų, atitinkančių šio straipsnio 81 dalies nuostatas, pakuotės turi būti su apsaugos priemonėmis. 
 Papildyta straipsnio dalimi:
 Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
+Straipsnio dalies pakeitimai:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
 
 
@@ -2554,8 +2584,10 @@ Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
 
 
 
-141. Vaistinio preparato registruotojas turi prisijungti prie Europos Sąjungos kaupyklų sistemos centrinio informacijos ir duomenų maršruto parinktuvo, nurodyto Reglamento (ES) 2016/161 32 straipsnio 1 dalies a punkte (toliau – centrinė sistemos kaupykla). 
+141. Vaistinio preparato registruotojas turi vykdyti Reglamente (ES) 2016/161 nustatytas pareigas rinkodaros leidimų turėtojams. 
 Papildyta straipsnio dalimi:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+Straipsnio dalies pakeitimai:
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
 
@@ -2769,8 +2801,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 
 
 
-7) prisijungti prie centrinės sistemos kaupyklos. 
+7) vykdyti Reglamente (ES) 2016/161 nustatytas pareigas asmenims, atsakingiems už lygiagrečiai importuojamų vaistų pateikimą rinkai. 
 Papildyta straipsnio punktu:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+Straipsnio punkto pakeitimai:
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
 
@@ -3788,7 +3822,15 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-14) turėti vaistų atšaukimo iš rinkos planą ir pranešti Valstybinei vaistų kontrolės tarnybai apie pradedamą vykdyti ir įvykdytą vaistinių preparatų atšaukimą iš rinkos, pateikti visą susijusią informaciją.
+14) turėti vaistų atšaukimo iš rinkos planą ir pranešti Valstybinei vaistų kontrolės tarnybai apie pradedamą vykdyti ir įvykdytą vaistinių preparatų atšaukimą iš rinkos, pateikti visą susijusią informaciją;
+
+
+
+
+15) vykdyti Reglamente (ES) 2016/161 nustatytas pareigas gamintojams. 
+Papildyta straipsnio punktu:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+ 
 
 
 
@@ -4340,7 +4382,7 @@ Nr. XIII-671, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16701
 
 
 
-6) prisijungti prie Lietuvos nacionalinės kaupyklos; 
+6) vykdyti Reglamente (ES) 2016/161 nustatytas pareigas didmenininkams ir asmenims, atsakingiems už lygiagrečiai platinamų vaistų pateikimą rinkai, prisijungti prie Lietuvos nacionalinės kaupyklos, taip pat tikrinti vaistinių preparatų, tiekiamų asmenims, atitinkantiems Reglamento (ES) 2016/161 26 straipsnio 3 dalyje nustatytas sąlygas, ir asmenims, įrašytiems į Asmenų, kuriems tiekiamų vaistinių preparatų pakuočių unikalių identifikatorių autentiškumą tikrina ir juos deaktyvina didmeninio platinimo licencijos turėtojas, sąrašą, pakuočių unikalių identifikatorių autentiškumą ir juos deaktyvinti. Šio įstatymo 8 straipsnio 91 dalyje nurodytų asmenų prašymu saugiu būdu pateikti suvestinę informaciją apie jiems patiektų vaistinių preparatų pakuočių unikalius identifikatorius; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
@@ -5046,7 +5088,7 @@ Nr. XII-2131, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19744
 
 
 
-10) prisijungti prie Lietuvos nacionalinės kaupyklos; 
+10) vadovaudamasis Reglamento (ES) 2016/161 nuostatomis, tikrinti gyventojams ir kitiems galutiniams vartotojams išduodamų (parduodamų) vaistinių preparatų pakuočių apsaugos priemones, deaktyvinti jų unikalius identifikatorius, prisijungti prie Lietuvos nacionalinės kaupyklos ir vykdyti kitas Reglamente (ES) 2016/161 nustatytas pareigas asmenims, turintiems leidimą arba įgaliotiems tiekti vaistus visuomenei; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
@@ -7315,9 +7357,26 @@ Nr. XIII-738, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18510
 
 
 2. Išimtiniais atvejais, jeigu Valstybinė vaistų kontrolės tarnyba dėl priežasčių, susijusių su visuomenės sveikata, negali sutikti su šio straipsnio 1 dalyje nurodytomis išvadomis, ji apie tai praneša Europos Komisijai ir Europos vaistų agentūrai. 
+
+
+
+
+
+
+651 straipsnis. Lietuvos nacionalinės kaupyklos priežiūra 
+
+
+1. Valstybinė vaistų kontrolės tarnyba atlieka Lietuvos nacionalinės kaupyklos priežiūrą.
+
+
+
+
+2. Lietuvos nacionalinės kaupyklos priežiūra vykdoma vadovaujantis sveikatos apsaugos ministro patvirtintomis taisyklėmis, Reglamento (ES) 2016/161 ir kitų Europos Sąjungos teisės aktų, reglamentuojančių nacionalinių kaupyklų priežiūrą, nuostatomis. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
  
-
-
 
 
 
@@ -8409,7 +8468,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
  
  
-part_1a8fcafbf89e4d9ab2d76afe79dd697c_end
+part_9e41df4158144eb0852e2317fc750c2a_end
 
 
 Pakeitimai:
