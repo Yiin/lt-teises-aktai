@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2C523B544966"
 
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-02-14
+Suvestinė redakcija nuo 2019-02-15 iki 2020-01-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2570, i. k. 1021010ISTA00IX-929
  
@@ -278,6 +278,10 @@ Aš, Lietuvos Respublikos pilietis (-ė), patvirtinu, kad remiu reikalavimą pas
 7. Skelbiant ar paskelbus privalomąjį referendumą, atsižvelgdamas į referendumui teikiamo sprendimo svarbą, Seimas gali pavesti Vyriausybei ar jos įgaliotai institucijai (institucijoms) valstybės biudžeto lėšomis referendumo agitacijos laikotarpiu informuoti visuomenę apie spręsti referendumu teikiamo klausimo svarbą Valstybės ir Tautos gyvenimui. 
 
 8. Referendumo agitacija, nepaisant jos būdų, formų ir priemonių, draudžiama likus 30 valandų iki balsavimo referendume pradžios ir balsavimo dieną iki balsavimo pabaigos, išskyrus nuolatinę vaizdinę agitaciją, kuri iškabinta iki prasidedant šiam referendumo agitacijos draudimui ir kurios pašalinimas susijęs su sudėtingais veiksmais. Referendumo agitacijos draudimo laikotarpiu ir balsavimo iš anksto metu jokių vaizdinių referendumo agitacijos priemonių (išskyrus tas, kurias išleido Vyriausioji rinkimų komisija) negali būti balsavimo patalpoje ir 50 metrų atstumu aplink pastatą, kuriame yra balsavimo patalpa. Jeigu tuo pačiu metu (kartu) vyksta rinkimų agitacija, agitacija draudžiama likus 30 valandų iki rinkimų pradžios ir rinkimų dieną iki balsavimo pabaigos tokiomis pačiomis, kaip šioje dalyje nurodyta, sąlygomis ir tvarka. Jeigu referendumas vyksta daugiau negu vieną (dvi ir daugiau) dieną ir tarp referendumo dienų yra didesnis negu vienos dienos laiko tarpas, pirmąją referendumo dieną agitacijos draudimo laikotarpis baigiasi pasibaigus balsavimui. Referendumo agitacijos draudimo laikotarpis prieš kitą referendumo dieną prasideda šioje dalyje nustatyta tvarka.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos referendumo įstatymo (2018 m. gruodžio 20 d. redakcija; TAR, 2018-12-28, Nr. 21715) 18 straipsnio 8 dalies nuostatos „Jeigu referendumas vyksta daugiau negu vieną (dvi ir daugiau) dieną ir tarp referendumo dienų yra didesnis negu vienos dienos laiko tarpas, pirmąją referendumo dieną agitacijos draudimo laikotarpis baigiasi pasibaigus balsavimui. Referendumo agitacijos draudimo laikotarpis prieš kitą referendumo dieną prasideda šioje dalyje nustatyta tvarka“, 45 straipsnio 1 dalies nuostata „(jeigu referendumas vyksta ne vieną dieną – iki balsavimo referendume paskutinės dienos 18 valandos)“, 53 straipsnio 2 dalis, 81 straipsnio 1 dalies nuostata „Tuo atveju, kai referendumas vyksta ne vieną dieną, referendumu priimto įstatymo, kito akto ar sprendimo priėmimo diena yra laikoma paskutinė balsavimo referendume diena“, 82 straipsnis prieštarauja Lietuvos Respublikos Konstitucijos 9 straipsnio 1, 4 dalims, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT8-N2/2019, 2019-02-15, paskelbta TAR 2019-02-15, i. k. 2019-02373
+ 
 
 9. Informacija apie vykstantį referendumą, jo svarbą Valstybės ir Tautos gyvenimui, atvykusių balsuoti referendume piliečių skaičių, dokumentus, kuriuos būtina turėti balsuojant referendume, kvietimas atvykti balsuoti ar kita informacija, kuria neraginama nedalyvauti referendume, balsuoti už arba prieš referendumui teikiamo sprendimo priėmimą, nelaikoma referendumo agitacija. 
 
@@ -748,6 +752,10 @@ Savivaldybės rinkėjų sąrašą elektroninėse informacijos laikmenose pagal L
 45 straipsnis. Rinkėjų sąrašų tikslinimas sudarius galutinius rinkėjų sąrašus, taip pat referendumo dieną
 
 1. Jeigu į apylinkės referendumo komisiją po galutinio rinkėjų sąrašų patvirtinimo, bet ne vėliau kaip iki referendumo dienos 18 valandos (jeigu referendumas vyksta ne vieną dieną – iki balsavimo referendume paskutinės dienos 18 valandos), kreipiasi neįrašytas į šios referendumo apylinkės rinkėjų sąrašą pilietis, kuris raštu patvirtina, kad nėra balsavęs kitoje referendumo apylinkėje, ir pateikia piliečio pasą su jame įrašytu gyvenamosios vietos adresu arba pasą ar asmens tapatybės kortelę ir dokumentą apie deklaruotą gyvenamąją vietą (gyvenamoji vieta turi būti priskirta šios referendumo apylinkės teritorijai arba pilietis turi pateikti kitus įrodymus, kad jis yra apsistojęs šiai referendumo apylinkei priskirtu adresu), apylinkės referendumo komisija įrašo šį pilietį į papildomą referendumo apylinkės rinkėjų sąrašą ir leidžia jam balsuoti Vyriausiosios rinkimų komisijos nustatyta tvarka, o jo vardą, pavardę, asmens kodą, paso arba asmens tapatybės kortelės numerį ir adresą tuoj pat praneša savivaldybės referendumo komisijai. Savivaldybės referendumo komisija patikrina, ar pilietis yra įrašytas į savivaldybės rinkėjų sąrašą, ir imasi priemonių garantuoti, kad pilietis negalėtų du kartus balsuoti arba kad jo užpildyti biuleteniai būtų skaičiuojami tik vieną kartą. Jeigu pilietis yra balsavęs du kartus, skaičiuojamas tik tas balsas, kuris pateko į referendumo apylinkės balsadėžę. Kitas šio piliečio balsas, gautas balsavimo vokais arba balsavus pagal papildomą referendumo apylinkės rinkėjų sąrašą, neskaičiuojamas.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos referendumo įstatymo (2018 m. gruodžio 20 d. redakcija; TAR, 2018-12-28, Nr. 21715) 18 straipsnio 8 dalies nuostatos „Jeigu referendumas vyksta daugiau negu vieną (dvi ir daugiau) dieną ir tarp referendumo dienų yra didesnis negu vienos dienos laiko tarpas, pirmąją referendumo dieną agitacijos draudimo laikotarpis baigiasi pasibaigus balsavimui. Referendumo agitacijos draudimo laikotarpis prieš kitą referendumo dieną prasideda šioje dalyje nustatyta tvarka“, 45 straipsnio 1 dalies nuostata „(jeigu referendumas vyksta ne vieną dieną – iki balsavimo referendume paskutinės dienos 18 valandos)“, 53 straipsnio 2 dalis, 81 straipsnio 1 dalies nuostata „Tuo atveju, kai referendumas vyksta ne vieną dieną, referendumu priimto įstatymo, kito akto ar sprendimo priėmimo diena yra laikoma paskutinė balsavimo referendume diena“, 82 straipsnis prieštarauja Lietuvos Respublikos Konstitucijos 9 straipsnio 1, 4 dalims, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT8-N2/2019, 2019-02-15, paskelbta TAR 2019-02-15, i. k. 2019-02373
+ 
 
 2. Referendumo dieną pilietis, kuris nėra balsavęs šiame referendume, gali Vyriausiosios rinkimų komisijos nustatyta tvarka balsuoti kitoje referendumo apylinkėje, jeigu abi šios referendumo apylinkės yra elektroninių ryšių priemonėmis prisijungusios prie elektroninio rinkėjų sąrašo ir apylinkių referendumo komisijos gali patvirtinti, kad pilietis nėra balsavęs nė vienoje iš referendumo apylinkių, o referendumo apylinkės, į kurios rinkėjų sąrašą yra įrašytas šis pilietis, referendumo komisija patvirtino, kad šios referendumo apylinkės rinkėjų sąraše yra padarytas įrašas apie šio piliečio atvykimą balsuoti į kitą referendumo apylinkę ir piliečio balsas, jeigu bus gautas balsavimo vokais, nebus skaičiuojamas.
  
@@ -837,6 +845,10 @@ BALSAVIMAS
 52 straipsnis. Balsavimo laikas ir vieta
 
 1. Balsavimas referendumo dieną vyksta nuo 7 iki 20 valandos referendumo komisijos nurodytoje patalpoje. Seimo nutarime dėl referendumo paskelbimo gali būti nustatytas ir kitoks balsavimo laikas (bet ne trumpesnis negu šiame įstatyme nustatytasis). Seimo nutarime gali būti nustatyta, kad referendumas vyksta ne vieną dieną.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos referendumo įstatymo (2018 m. gruodžio 20 d. redakcija; TAR, 2018-12-28, Nr. 21715) 52 straipsnio 1 dalies nuostata „Seimo nutarime gali būti nustatyta, kad referendumas vyksta ne vieną dieną“ prieštarauja Lietuvos Respublikos Konstitucijos 9 straipsnio 1, 4 dalims, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT8-N2/2019, 2019-02-15, paskelbta TAR 2019-02-15, i. k. 2019-02373
+ 
 
 2. Balsavimo vokais gautas piliečio balsas galioja tik toje referendumo apylinkėje, į kurios rinkėjų sąrašą pilietis yra įrašytas.
  
@@ -846,6 +858,9 @@ BALSAVIMAS
 1. Referendumo dieną balsavimo patalpa atidaroma, kai joje yra susirinkę ne mažiau kaip 3/5 apylinkės referendumo komisijos narių. Tada apylinkės referendumo komisijos pirmininkas su komisijos nariais patikrina, ar balsadėžė yra tuščia, ir ją užantspauduoja. Įsitikinęs, kad balsavimo patalpa įrengta nepažeidžiant nustatytų reikalavimų, apylinkės referendumo komisijos pirmininkas visą referendumo apylinkės gautų referendumo biuletenių skaičių įrašo į referendumo apylinkės balsų skaičiavimo protokolą, antspauduoja referendumo biuletenius, išdalija komisijos nariams referendumo biuletenius ir rinkėjų sąrašus, kiekvienam komisijos nariui duotų referendumo biuletenių skaičių įrašo į referendumo apylinkės balsų skaičiavimo protokolą ir atidaro balsavimo patalpą tuo skelbdamas balsavimo referendume pradžią. 
 
 2. Tuo atveju, kai referendumas vyksta daugiau negu vieną dieną, kiekvienos referendumo dienos pabaigoje, išskyrus paskutinę balsavimo referendume dieną, balsadėžės plyšys užklijuojamas ir užantspauduojamas, Vyriausiosios rinkimų komisijos nustatyta tvarka surenkami ir antspauduojami nepanaudoti ir sugadinti referendumo biuleteniai ir balsavimo patalpa perduodama saugoti policijai. Balsavimo patalpą saugoti taip pat gali ir to norintys referendumo komisijos nariai ir stebėtojai. Antrąją ir paskesnėmis referendumo dienomis balsavimo patalpa atidaroma, kai joje yra susirinkę ne mažiau kaip 3/5 apylinkės referendumo komisijos narių ir referendumo komisijos pirmininkas su komisijos nariais patikrina apylinkės referendumo balsadėžę: ar nepažeisti antspaudai ir (ar) nėra kitų požymių, liudijančių, kad ji galėjo būti atidaryta ar kitaip būtų buvę įmanoma iš jos išimti ar į ją įdėti referendumo biuletenius, taip pat patikrinami kiti antspaudai. 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos referendumo įstatymo (2018 m. gruodžio 20 d. redakcija; TAR, 2018-12-28, Nr. 21715) 18 straipsnio 8 dalies nuostatos „Jeigu referendumas vyksta daugiau negu vieną (dvi ir daugiau) dieną ir tarp referendumo dienų yra didesnis negu vienos dienos laiko tarpas, pirmąją referendumo dieną agitacijos draudimo laikotarpis baigiasi pasibaigus balsavimui. Referendumo agitacijos draudimo laikotarpis prieš kitą referendumo dieną prasideda šioje dalyje nustatyta tvarka“, 45 straipsnio 1 dalies nuostata „(jeigu referendumas vyksta ne vieną dieną – iki balsavimo referendume paskutinės dienos 18 valandos)“, 53 straipsnio 2 dalis, 81 straipsnio 1 dalies nuostata „Tuo atveju, kai referendumas vyksta ne vieną dieną, referendumu priimto įstatymo, kito akto ar sprendimo priėmimo diena yra laikoma paskutinė balsavimo referendume diena“, 82 straipsnis prieštarauja Lietuvos Respublikos Konstitucijos 9 straipsnio 1, 4 dalims, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT8-N2/2019, 2019-02-15, paskelbta TAR 2019-02-15, i. k. 2019-02373
  
 
 54 straipsnis. Piliečio asmens tapatybės nustatymas
@@ -1259,6 +1274,10 @@ Asmenys, pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
 81 straipsnis. Referendumu priimto Lietuvos Respublikos įstatymo, kito akto ar sprendimo įsigaliojimas
 
 1. Referendumu priimto įstatymo, kito akto ar sprendimo priėmimo diena yra laikoma balsavimo referendume diena. Tuo atveju, kai referendumas vyksta ne vieną dieną, referendumu priimto įstatymo, kito akto ar sprendimo priėmimo diena yra laikoma paskutinė balsavimo referendume diena.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos referendumo įstatymo (2018 m. gruodžio 20 d. redakcija; TAR, 2018-12-28, Nr. 21715) 18 straipsnio 8 dalies nuostatos „Jeigu referendumas vyksta daugiau negu vieną (dvi ir daugiau) dieną ir tarp referendumo dienų yra didesnis negu vienos dienos laiko tarpas, pirmąją referendumo dieną agitacijos draudimo laikotarpis baigiasi pasibaigus balsavimui. Referendumo agitacijos draudimo laikotarpis prieš kitą referendumo dieną prasideda šioje dalyje nustatyta tvarka“, 45 straipsnio 1 dalies nuostata „(jeigu referendumas vyksta ne vieną dieną – iki balsavimo referendume paskutinės dienos 18 valandos)“, 53 straipsnio 2 dalis, 81 straipsnio 1 dalies nuostata „Tuo atveju, kai referendumas vyksta ne vieną dieną, referendumu priimto įstatymo, kito akto ar sprendimo priėmimo diena yra laikoma paskutinė balsavimo referendume diena“, 82 straipsnis prieštarauja Lietuvos Respublikos Konstitucijos 9 straipsnio 1, 4 dalims, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT8-N2/2019, 2019-02-15, paskelbta TAR 2019-02-15, i. k. 2019-02373
+ 
 
 2. Referendumu priimtą įstatymą, kitą aktą ar sprendimą ne vėliau kaip per 5 dienas nuo galutinių referendumo rezultatų oficialaus paskelbimo privalo pasirašyti ir oficialiai paskelbti Respublikos Prezidentas. 
 
@@ -1274,13 +1293,17 @@ Asmenys, pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
 1. Kai referendumas vyksta ne vieną dieną, šiame įstatyme nustatyti terminai iki balsavimo referendume dienos skaičiuojami iki pirmosios balsavimo referendume dienos.
 
 2. Kai referendumas vyksta ne vieną dieną, šiame įstatyme nustatyti terminai po balsavimo referendume dienos skaičiuojami po paskutinės balsavimo referendume dienos.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos referendumo įstatymo (2018 m. gruodžio 20 d. redakcija; TAR, 2018-12-28, Nr. 21715) 18 straipsnio 8 dalies nuostatos „Jeigu referendumas vyksta daugiau negu vieną (dvi ir daugiau) dieną ir tarp referendumo dienų yra didesnis negu vienos dienos laiko tarpas, pirmąją referendumo dieną agitacijos draudimo laikotarpis baigiasi pasibaigus balsavimui. Referendumo agitacijos draudimo laikotarpis prieš kitą referendumo dieną prasideda šioje dalyje nustatyta tvarka“, 45 straipsnio 1 dalies nuostata „(jeigu referendumas vyksta ne vieną dieną – iki balsavimo referendume paskutinės dienos 18 valandos)“, 53 straipsnio 2 dalis, 81 straipsnio 1 dalies nuostata „Tuo atveju, kai referendumas vyksta ne vieną dieną, referendumu priimto įstatymo, kito akto ar sprendimo priėmimo diena yra laikoma paskutinė balsavimo referendume diena“, 82 straipsnis prieštarauja Lietuvos Respublikos Konstitucijos 9 straipsnio 1, 4 dalims, konstituciniam teisinės valstybės principui.
+
+Straipsnio pakeitimai:
+Nr. KT8-N2/2019, 2019-02-15, paskelbta TAR 2019-02-15, i. k. 2019-02373
  
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
 
  
  
@@ -1341,4 +1364,9 @@ Lietuvos Respublikos referendumo įstatymo Nr. IX-929 2, 11, 30, 31, 38, 53, 54,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1830, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21715
 Lietuvos Respublikos referendumo įstatymo Nr. IX-929 pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT8-N2/2019, 2019-02-15, paskelbta TAR 2019-02-15, i. k. 2019-02373
+Dėl Lietuvos Respublikos referendumo įstatymo (2018 m. gruodžio 20 d. redakcija) 18 straipsnio 8 dalies, 45 straipsnio 1 dalies, 52 straipsnio 1 dalies, 53 straipsnio 2 dalies, 81 straipsnio 1 dalies, 82 straipsnio ir Lietuvos Respublikos Seimo 2018 m. spalio 18 d. nutarimo Nr. XIII-1537 „Dėl privalomojo referendumo dėl Lietuvos Respublikos Konstitucijos 12 straipsnio pakeitimo paskelbimo“ 2 straipsnio atitikties Lietuvos Respublikos Konstitucijai
 
