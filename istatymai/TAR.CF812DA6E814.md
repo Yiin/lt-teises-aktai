@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF812DA6E814"
 
 # Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymas
 
-Suvestinė redakcija nuo 2018-11-13 iki 2019-02-27
+Suvestinė redakcija nuo 2019-02-28 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 135-4894, i. k. 1041010ISTA0IX-2428
  
@@ -448,7 +448,11 @@ POLITINĖ REKLAMA
 
 3. Politinės kampanijos dalyvio išlaidos šio straipsnio 2 dalies 2 punkte nurodytiems agitaciniams siužetams negali viršyti 50 procentų politinės kampanijos dalyviui nustatyto didžiausio leistino politinės kampanijos išlaidų dydžio.
 
-4. Politinės kampanijos laikotarpiu viešosios informacijos rengėjai ar skleidėjai politinę reklamą gali skleisti tik pagal visiems politinės kampanijos dalyviams vienodus įkainius ir sąlygas, pateiktus Vyriausiajai rinkimų komisijai. Politinės kampanijos laikotarpiu taikytini politinės reklamos įkainiai ir sąlygos negali būti teikiami, keičiami prasidėjus politinei kampanijai. Ne vėliau kaip iki politinės kampanijos laikotarpio pradžios politinei reklamai taikytini įkainiai ir sąlygos gali būti pakeisti su Vyriausiosios rinkimų komisijos sutikimu. Vyriausioji rinkimų komisija įkainius nedelsdama paskelbia savo interneto svetainėje.
+4. Politinės kampanijos laikotarpiu viešosios informacijos rengėjai ar skleidėjai politinę reklamą gali skleisti tik pagal visiems politinės kampanijos dalyviams vienodus įkainius ir sąlygas, pateiktus Vyriausiajai rinkimų komisijai ne vėliau kaip likus 30 dienų iki rinkimų ar referendumo. Viešosios informacijos rengėjų ar skleidėjų pateiktus politinės reklamos įkainius ir sąlygas Vyriausioji rinkimų komisija nedelsdama paskelbia savo interneto svetainėje. Paskelbti politinės kampanijos laikotarpiu taikytini politinės reklamos įkainiai ir sąlygos negali būti teikiami, keičiami prasidėjus politinei kampanijai. Ne vėliau kaip iki politinės kampanijos laikotarpio pradžios politinei reklamai taikytini įkainiai ir sąlygos gali būti pakeisti su Vyriausiosios rinkimų komisijos sutikimu. Vyriausioji rinkimų komisija įkainius ir sąlygas nedelsdama paskelbia savo interneto svetainėje.
+TAR pastaba. Jeigu įstatymas Nr. XIII-1964 įsigalioja (2019-02-28) vykstant politinei kampanijai, tos politinės kampanijos laikotarpiu jis taikomas tik po šio įstatymo įsigaliojimo veiklą pradėjusiems viešosios informacijos rengėjams ir skleidėjams.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1964, 2019-02-14, paskelbta TAR 2019-02-27, i. k. 2019-03285
+ 
 
 5. Viešosios informacijos rengėjai ar skleidėjai gali atsisakyti skleisti politinę reklamą, kurioje yra kitas politines partijas ar politinės kampanijos dalyvius kompromituojančios medžiagos, jeigu atsisakoma prisiimti galimas atsakomosios nuomonės paskleidimo išlaidas.
 
@@ -747,5 +751,10 @@ Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1585, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18199
+Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo Nr. IX-2428 16 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1964, 2019-02-14, paskelbta TAR 2019-02-27, i. k. 2019-03285
 Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo Nr. IX-2428 16 straipsnio pakeitimo įstatymas
 
