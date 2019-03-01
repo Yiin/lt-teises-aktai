@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-02-28
+Suvestinė redakcija nuo 2019-03-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -427,7 +427,6 @@ Civilinio proceso tikslai – ginti asmenų, kurių materialinės subjektinės t
 
 
 6. Teismas, nagrinėdamas bylas, taiko Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos ar jos protokolų nuostatas ir vadovaujasi Europos Žmogaus Teisių Teismo sprendimais. Lietuvos Aukščiausiasis Teismas, kai tai susiję su jo nagrinėjama byla, gali kreiptis į Europos Žmogaus Teisių Teismą su prašymu pateikti konsultacinę išvadą dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu. 
-TAR pastaba. Papildymas 6 dalimi įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną.
 Papildyta straipsnio dalimi:
 Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
  
@@ -436,7 +435,6 @@ Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
 
 
 7. Jeigu nėra įstatymo, reglamentuojančio ginčo materialinį arba procesinį santykį, teismas taiko įstatymą, reglamentuojantį panašius santykius (įstatymo analogija), o jeigu ir tokio įstatymo nėra, teismas vadovaujasi bendraisiais teisės principais (teisės analogija). Pagal analogiją negali būti taikomos specialiosios, t. y. bendrųjų taisyklių išimtis numatančios, teisės normos. 
-TAR pastaba. Buvusi 6 dalis laikoma 7 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01).
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
  
@@ -445,7 +443,6 @@ Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
 
 
 8. Jeigu įstatymai ar ginčo šalių susitarimas numato, kad tam tikrus klausimus teismas sprendžia savo nuožiūra, teismas tai darydamas privalo vadovautis teisingumo, protingumo ir sąžiningumo kriterijais. 
-TAR pastaba. Buvusi 7 dalis laikoma 8 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01).
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
  
@@ -453,8 +450,7 @@ Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
 
 
 
-9. Civilinių bylų procesas vyksta pagal bylos nagrinėjimo, atskirų procesinių veiksmų atlikimo arba teismo sprendimo vykdymo metu galiojančius civilinio proceso įstatymus.
-TAR pastaba. Buvusi 8 dalis laikoma 9 dalimi nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01).
+9. Civilinių bylų procesas vyksta pagal bylos nagrinėjimo, atskirų procesinių veiksmų atlikimo arba teismo sprendimo vykdymo metu galiojančius civilinio proceso įstatymus. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
  
@@ -5686,8 +5682,7 @@ Bylos sustabdymas – procesinių veiksmų, kuriais siekiama bylą išspręsti i
 
 
 
-2. Lietuvos Aukščiausiasis Teismas sustabdo bylą, kai kreipiasi į Europos Žmogaus Teisių Teismą šio Kodekso 3 straipsnio 6 dalyje nustatyta tvarka ir pagrindais.
-TAR pastaba. Papildymas 2 dalimi įsigalioja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dieną (2018-08-01).
+2. Lietuvos Aukščiausiasis Teismas sustabdo bylą, kai kreipiasi į Europos Žmogaus Teisių Teismą šio Kodekso 3 straipsnio 6 dalyje nustatyta tvarka ir pagrindais. 
 
 
 Straipsnio pakeitimai:
@@ -5733,8 +5728,6 @@ Teismas gali dalyvaujančių byloje asmenų pareiškimu ar savo iniciatyva susta
 165 straipsnis. Teismo nutarčių dėl bylos sustabdymo apskundimas
 
 
-Dėl teismo nutarties sustabdyti bylą, išskyrus nutartį sustabdyti bylą dėl kreipimosi į kompetentingą Europos Sąjungos teisminę instituciją, Konstitucinį Teismą ar administracinį teismą, gali būti duodamas atskirasis skundas.
-1 dalies redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01): 
 Dėl teismo nutarties sustabdyti bylą, išskyrus nutartį sustabdyti bylą dėl kreipimosi į kompetentingą Europos Sąjungos teisminę instituciją, Europos Žmogaus Teisių Teismą, Konstitucinį Teismą ar administracinį teismą, gali būti duodamas atskirasis skundas.
 
 
@@ -9626,8 +9619,11 @@ Apeliacinį skundą turi teisę paduoti dalyvaujantys byloje asmenys.
 
 
 3. Apeliacinį skundą surašo advokatas. Juridinio asmens apeliacinį skundą taip pat gali surašyti juridinio asmens darbuotojai ar valstybės tarnautojai, turintys aukštąjį universitetinį teisinį išsilavinimą. Jeigu apeliantas yra fizinis asmuo, turintis aukštąjį universitetinį teisinį išsilavinimą, surašyti apeliacinį skundą turi teisę jis pats. Be to, apeliacinį skundą gali surašyti šio Kodekso 56 straipsnio 1 dalies 4, 5, 6 ir 7 punktuose nurodyti asmenys. Apeliacinį skundą pasirašo jį paduodantis asmuo ir skundą surašęs asmuo. 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos civilinio proceso kodekso 306 straipsnio 3 dalis (2016 m. lapkričio 8 d. redakcija; TAR, 2016-11-17, Nr. 26956) prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
 Papildyta straipsnio dalimi:
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+Straipsnio dalies pakeitimai:
+Nr. KT9-N3/2019, 2019-03-01, paskelbta TAR 2019-03-01, i. k. 2019-03464
  
 
 
@@ -11321,8 +11317,6 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 1. Procesas gali būti atnaujinamas, jei yra šie pagrindai:
 
 
-1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika, arba kai Europos Žmogaus Teisių Teismas nagrinėjamą peticiją išbraukia iš bylų sąrašo taikaus susitarimo ar vienašalės deklaracijos pagrindu, jeigu taikiu susitarimu ar vienašale deklaracija pripažįstama, kad Lietuvos Respublikos teismų sprendimais, nutartimis ar nutarimais civilinėse bylose buvo pažeistos Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ir (ar) jos papildomuose protokoluose, kurių dalyvė yra Lietuvos Respublika, nustatytos pareiškėjų teisės dėl Lietuvos Respublikos teismų sprendimų, nutarčių ar nutarimų civilinėse bylose;
-1 punkto redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01):
 1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismų sprendimai, nutartys ar nutarimai civilinėse bylose prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir (ar) jos papildomiems protokolams, kurių dalyvė yra Lietuvos Respublika, arba kai Europos Žmogaus Teisių Teismas nagrinėjamą peticiją išbraukia iš bylų sąrašo taikaus susitarimo ar vienašalės deklaracijos pagrindu, jeigu taikiu susitarimu ar vienašale deklaracija pripažįstama, kad Lietuvos Respublikos teismų sprendimais, nutartimis ar nutarimais civilinėse bylose buvo pažeistos Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ir (ar) jos papildomuose protokoluose, kurių dalyvė yra Lietuvos Respublika, nustatytos pareiškėjų teisės dėl Lietuvos Respublikos teismų sprendimų, nutarčių ar nutarimų civilinėse bylose;
 Straipsnio punkto pakeitimai:
 Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
@@ -25124,3 +25118,8 @@ Dėl Lietuvos Respublikos civilinio proceso kodekso 93 straipsnio 6 dalies atit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1846, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21876
 Lietuvos Respublikos civilinio proceso kodekso 10, 192 ir 263 straipsnių pakeitimo įstatymas
+ 
+38.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT9-N3/2019, 2019-03-01, paskelbta TAR 2019-03-01, i. k. 2019-03464
+Dėl Lietuvos Respublikos civilinio proceso kodekso 306 straipsnio 3 dalies atitikties Lietuvos Respublikos Konstitucijai
