@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-02-28
+Suvestinė redakcija nuo 2019-03-01 iki 2019-05-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -1463,7 +1463,10 @@ Administracinis teismas, atsižvelgdamas į turtinę fizinio asmens ar fizinių 
 
 
 
-4. Teismas gali nukrypti nuo šio straipsnio 1, 2 ir 3 dalyse nustatytų bylinėjimosi išlaidų paskirstymo taisyklių, atsižvelgdamas į tai, ar proceso šalių procesinis elgesys buvo tinkamas, ir įvertinęs ginčo kilimo ir kitas priežastis, dėl kurių susidarė bylinėjimosi išlaidos. Proceso šalies procesinis elgesys laikomas tinkamu, jeigu ji sąžiningai naudojosi procesinėmis teisėmis ir sąžiningai atliko procesines pareigas.
+4. Teismas gali nesilaikyti šio straipsnio 1, 2 ir 3 dalyse nustatytų bylinėjimosi išlaidų paskirstymo taisyklių, atsižvelgdamas į tai, ar proceso šalių procesinis elgesys buvo tinkamas (taip pat ir mediacijos atveju), ir įvertinęs ginčo kilimo ir kitas priežastis, dėl kurių susidarė bylinėjimosi išlaidos. Proceso šalies procesinis elgesys laikomas tinkamu, jeigu ji sąžiningai naudojosi procesinėmis teisėmis ir sąžiningai atliko procesines pareigas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
+ 
 
 
 
@@ -1889,7 +1892,10 @@ Nr. XIII-1848, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21880
 51 straipsnis. Teisė sudaryti taikos sutartį
 
 
-1. Bet kurioje proceso stadijoje ginčo šalys gali baigti bylą taikos sutartimi, jeigu ją sudaryti galima atsižvelgiant į ginčo pobūdį. Taikos sutartis turi neprieštarauti imperatyvioms įstatymų ir kitų teisės aktų nuostatoms, viešajam interesui, nepažeisti trečiųjų suinteresuotų asmenų teisių ar teisėtų interesų. Taikos sutartis negali būti sudaroma bylose dėl norminių administracinių aktų teisėtumo. Taikos sutarties dalykas turi būti to paties pobūdžio, kaip ir skunde (prašyme) nurodyti reikalavimai. Taikos sutartimi gali būti išspręstas visas ginčas ar jo dalis (atskiri reikalavimai). Teismas imasi priemonių ginčo šalims sutaikyti tik tuo atveju, kai yra ginčo šalių sutikimas pradėti derybas dėl taikos sutarties sudarymo.
+1. Bet kurioje proceso stadijoje ginčo šalys gali baigti bylą taikos sutartimi, jeigu ją sudaryti galima atsižvelgiant į ginčo pobūdį. Taikos sutartis turi neprieštarauti imperatyvioms įstatymų ir kitų teisės aktų nuostatoms, viešajam interesui, nepažeisti trečiųjų suinteresuotų asmenų teisių ar teisėtų interesų. Taikos sutartis negali būti sudaroma bylose dėl norminių administracinių aktų teisėtumo, bylose pagal skundus dėl rinkimų įstatymų ir Referendumo įstatymo pažeidimų, bylose dėl savivaldybės tarybos prašymų pateikti išvadą, ar savivaldybės tarybos narys, savivaldybės tarybos narys – meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė įstatymuose nustatytų įgaliojimų. Taikos sutarties dalykas turi būti to paties pobūdžio, kaip ir skunde (prašyme) nurodyti reikalavimai. Taikos sutartimi gali būti išspręstas visas ginčas ar jo dalis (atskiri reikalavimai). Teismas imasi priemonių ginčo šalims sutaikyti tik tuo atveju, kai yra ginčo šalių sutikimas pradėti derybas dėl taikos sutarties sudarymo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
+ 
 
 
 
@@ -1907,12 +1913,17 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-3. Teismas netvirtina taikos sutarties, kuri prieštarauja šio straipsnio 1 dalyje nurodytoms sąlygoms. Jeigu teismas atsisako tvirtinti taikos sutartį, dėl to jis priima motyvuotą nutartį. Teismo nutartis dėl atsisakymo tvirtinti taikos sutartį gali būti skundžiama atskiruoju skundu.
+4. Teismas netvirtina taikos sutarties, kuri prieštarauja šio straipsnio 1 dalyje nurodytoms sąlygoms. Jeigu teismas atsisako tvirtinti taikos sutartį, dėl to jis priima motyvuotą nutartį. Teismo nutartis dėl atsisakymo tvirtinti taikos sutartį gali būti skundžiama atskiruoju skundu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
+ 
 
 
 
 
-4. Jeigu ginčo šalys taikos sutartį sudaro ir pateikia ją teismui tvirtinti po sprendimo, priimto išnagrinėjus administracinę bylą apygardos administraciniame teisme, priėmimo, bet nepasibaigus jo apskundimo apeliacine tvarka terminui, apygardos administracinis teismas, nutartimi patvirtinęs taikos sutartį, panaikina priimtą sprendimą ir bylą nutraukia. Kol sprendžiamas taikos sutarties tvirtinimo klausimas, apeliacinio skundo padavimo termino eiga sustabdoma. Šioje dalyje nurodytu atveju taikos sutarties tvirtinimo ar atsisakymo ją tvirtinti klausimas gali būti sprendžiamas rašytinio proceso tvarka.
+5. Jeigu ginčo šalys taikos sutartį sudaro ir pateikia ją teismui tvirtinti po sprendimo, priimto išnagrinėjus administracinę bylą apygardos administraciniame teisme, priėmimo, bet nepasibaigus jo apskundimo apeliacine tvarka terminui, apygardos administracinis teismas, nutartimi patvirtinęs taikos sutartį, panaikina priimtą sprendimą ir bylą nutraukia. Kol sprendžiamas taikos sutarties tvirtinimo klausimas, apeliacinio skundo padavimo termino eiga sustabdoma. Šioje dalyje nurodytu atveju taikos sutarties tvirtinimo ar atsisakymo ją tvirtinti klausimas gali būti sprendžiamas rašytinio proceso tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
  
 
 
@@ -1994,7 +2005,10 @@ IX SKYRIUS
 56 straipsnis. Įrodymai
 
 
-1. Įrodymai administracinėje byloje yra visi faktiniai duomenys, priimti bylą nagrinėjančio teismo ir kuriais remdamasis teismas įstatymų nustatyta tvarka konstatuoja, kad yra aplinkybių, pagrindžiančių proceso šalių reikalavimus bei atsikirtimus, ir kitokių aplinkybių, turinčių reikšmės bylai teisingai išspręsti, arba kad jų nėra.
+1. Įrodymai administracinėje byloje yra visi faktiniai duomenys, kurie priimti bylą nagrinėjančio teismo ir kuriais remdamasis teismas įstatymų nustatyta tvarka konstatuoja, kad yra aplinkybių, pagrindžiančių proceso šalių reikalavimus bei atsikirtimus, ir kitokių aplinkybių, turinčių reikšmės bylai teisingai išspręsti, arba kad jų nėra. Duomenys, gauti mediacijos metu, negali būti įrodymais administracinėje byloje. Informacija, kuriai netaikomas konfidencialumo reikalavimas, nustatoma mutatis mutandis taikant Mediacijos įstatymo nuostatas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
+ 
 
 
 
@@ -2122,7 +2136,10 @@ Nr. XII-2718, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26503
 
 
 
-5) taikinimo tarpininkai – apie aplinkybes, kurias jie sužinojo taikinamojo tarpininkavimo procedūros metu;
+5) mediatoriai – apie aplinkybes, kurias jie sužinojo mediacijos metu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
+ 
 
 
 
@@ -2390,7 +2407,10 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-7) atlieka kitus veiksmus, reikalingus pasiruošiant nagrinėti administracinę bylą.
+8) atlieka kitus veiksmus, reikalingus pasiruošiant nagrinėti administracinę bylą.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
+ 
 
 
 
@@ -2610,10 +2630,12 @@ Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 71 straipsnis. Atsiliepimo į skundą (prašymą, pareiškimą) reikalavimas
 
 
-Teismo pirmininkas ar teisėjas nusiunčia atsakovui skundo (prašymo, pareiškimo) nuorašą (skaitmeninę kopiją), o reikiamais atvejais – ir pridėtų prie jo dokumentų nuorašus (skaitmenines kopijas), taip pat paprastai nustato ne trumpesnį kaip keturiolikos kalendorinių dienų nuo skundo (prašymo, pareiškimo) nuorašo (skaitmeninės kopijos) gavimo terminą, per kurį atsakovas raštu privalo pateikti teismui savo atsiliepimą į skundą (prašymą, pareiškimą). Kai atsakovas yra viešojo administravimo subjektas, jis privalo pateikti atsiliepimus į skundą (prašymą, pareiškimą) tokios formos, kokios pageidauja pareiškėjas, o jeigu pareiškėjas pageidavimo dėl procesinių dokumentų formos nepareiškė, – tokios formos, kokios buvo paduotas skundas (prašymas, pareiškimas). Atsiliepime į skundą (prašymą, pareiškimą) atsakovas nurodo, ar jis sutinka, ar nesutinka su skundo (prašymo, pareiškimo) reikalavimais, taip pat ar dalyvaus bylą nagrinėjant teismo posėdyje. Atsiliepimo su priedais egzempliorių (kopijų) turi būti tiek, kad po vieną tektų kiekvienai proceso šaliai ir dar liktų egzempliorius teisme, išskyrus atvejus, kai atsiliepimas paduodamas elektroninių ryšių priemonėmis ir kai dėl didelės dokumento apimties teismas leidžia nepateikti priedų. Gavus iš atsakovo rašytinį atsiliepimą, jo nuorašai (skaitmeninės kopijos) išsiunčiami proceso šalims.
+Teismo pirmininkas ar teisėjas nusiunčia atsakovui skundo (prašymo, pareiškimo) nuorašą (skaitmeninę kopiją), o reikiamais atvejais – ir pridėtų prie jo dokumentų nuorašus (skaitmenines kopijas), taip pat paprastai nustato ne trumpesnį kaip keturiolikos kalendorinių dienų nuo skundo (prašymo, pareiškimo) nuorašo (skaitmeninės kopijos) gavimo terminą, per kurį atsakovas raštu privalo pateikti teismui savo atsiliepimą į skundą (prašymą, pareiškimą). Kai atsakovas yra viešojo administravimo subjektas, jis privalo pateikti atsiliepimus į skundą (prašymą, pareiškimą) tokios formos, kokios pageidauja pareiškėjas, o jeigu pareiškėjas pageidavimo dėl procesinių dokumentų formos nepareiškė, – tokios formos, kokios buvo paduotas skundas (prašymas, pareiškimas). Atsiliepime į skundą (prašymą, pareiškimą) atsakovas nurodo, ar jis sutinka, ar nesutinka su skundo (prašymo, pareiškimo) reikalavimais, ar dalyvaus bylą nagrinėjant teismo posėdyje, taip pat nuomonę dėl ketinimo ir galimybių ginčą spręsti teisminės mediacijos būdu. Atsiliepimo su priedais egzempliorių (kopijų) turi būti tiek, kad po vieną tektų kiekvienai proceso šaliai ir dar liktų egzempliorius teisme, išskyrus atvejus, kai atsiliepimas paduodamas elektroninių ryšių priemonėmis ir kai dėl didelės dokumento apimties teismas leidžia nepateikti priedų. Gavus iš atsakovo rašytinį atsiliepimą, jo nuorašai (skaitmeninės kopijos) išsiunčiami proceso šalims. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
  
-
-
 
 
 
