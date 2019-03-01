@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97BDCD719E57"
 
 # Lietuvos Respublikos veterinarijos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-02-28
+Suvestinė redakcija nuo 2019-03-01 iki 2020-07-09
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 3-0; Žin. 1992, Nr.2-15, i. k. 091XX01ISTA00I-2110
  
@@ -833,7 +833,10 @@ GYVŪNŲ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKA, VALSTYBINĖ VETERINARINĖ KONTROL�
 
 
 
-3. Nustačiusi, kad gyvūnai serga užkrečiamąja liga, Valstybinė maisto ir veterinarijos tarnyba, atsižvelgusi į ligos sukėlėjo pavojingumą, plitimo savybes, vietos geografinę padėtį ir kitas gamtines sąlygas, nustato gyvūnų užkrečiamosios ligos židinio teritorijos ribas, apsaugos ir priežiūros zonas ir taikytinas užkrečiamosios ligos židinio likvidavimo, profilaktikos ir apsaugos priemones.
+3. Nustačiusi, kad gyvūnai serga užkrečiamąja liga, Valstybinė maisto ir veterinarijos tarnyba, atsižvelgusi į ligos sukėlėjo pavojingumą, plitimo savybes, vietos geografinę padėtį ir kitas gamtines sąlygas, nustato gyvūnų užkrečiamosios ligos židinio teritorijos ribas, apsaugos ir priežiūros zonas, prireikus – ligos buferinę zoną, likvidavimo, kontrolės, stebėsenos, prevencijos ir biologinės apsaugos priemones, įskaitant draudimą laikyti tam tikrus gyvūnus ar nurodymą juos paskersti, nugaišinti ar sunaikinti. Valstybinė maisto ir veterinarijos tarnyba, nustačiusi, kad gyvūnų laikytojas nevykdo nustatyto draudimo laikyti gyvūnus ar nurodymo juos paskersti, nugaišinti ar sunaikinti, organizuoja gyvūnų nugaišinimą ir sunaikinimą bei mėginių paėmimą gyvūnų užkrečiamajai ligai nustatyti. Valstybinės maisto ir veterinarijos tarnybos patirtas gyvūnų nugaišinimo ir sunaikinimo bei mėginių paėmimo užkrečiamajai ligai nustatyti išlaidas atlygina gyvūnų laikytojai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1611, 2018-11-08, paskelbta TAR 2018-11-15, i. k. 2018-18506
+ 
 
 
 
@@ -895,6 +898,13 @@ GYVŪNŲ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKA, VALSTYBINĖ VETERINARINĖ KONTROL�
 
 
 4. Valstybinės veterinarinės kontrolės objektų atsakingi asmenys Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka teikia informaciją Valstybinei maisto ir veterinarijos tarnybai apie ūkinių gyvūnų perkėlimą ir kaitą.
+
+
+
+
+5. Valstybinė maisto ir veterinarijos tarnyba, nustačiusi galvijų, kiaulių, avių, ožkų, arklinių šeimos gyvūnų registravimo ir ženklinimo pažeidimų, atsižvelgdama į pažeidimų pobūdį ir mastą, gali taikyti galvijų, kiaulių, avių, ožkų, arklinių šeimos gyvūnų perkėlimo iš bandų, kuriose laikomi netinkamai paženklinti ar neženklinti galvijai, kiaulės, avys, ožkos, arklinių šeimos gyvūnai, apribojimus. Šie apribojimai panaikinami, kai pašalinami šioje dalyje nurodyti pažeidimai. Jeigu ūkinių gyvūnų laikytojai per nustatytą terminą negali įrodyti galvijų, kiaulių, avių, ožkų, arklinių šeimos gyvūnų atsekamumo, reikalingo užkrečiamųjų ligų kontrolei užtikrinti, Valstybinė maisto ir veterinarijos tarnyba nurodo gyvūnų laikytojams savo lėšomis atlikti užkrečiamųjų ligų tyrimus ir, atsižvelgdama į šių tyrimų rezultatus, leidžia jiems paskersti gyvūnus ir iš jų gautą mėsą suvartoti asmeninėms reikmėms arba įpareigoja juos gyvūnus nugaišinti ir sunaikinti neatlyginant patirtų nuostolių. Valstybinė maisto ir veterinarijos tarnyba, nustačiusi, kad gyvūnų laikytojai nevykdo nurodymų laikomus gyvūnus ištirti dėl užkrečiamosios ligos, paskersti arba nugaišinti ir sunaikinti, organizuoja šių gyvūnų nugaišinimą ir sunaikinimą bei mėginių paėmimą gyvūnų užkrečiamajai ligai nustatyti. Valstybinės maisto ir veterinarijos tarnybos patirtas gyvūnų nugaišinimo ir sunaikinimo bei mėginių paėmimo užkrečiamajai ligai nustatyti išlaidas atlygina gyvūnų laikytojai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1611, 2018-11-08, paskelbta TAR 2018-11-15, i. k. 2018-18506
  
 
 
@@ -905,25 +915,47 @@ GYVŪNŲ UŽKREČIAMŲJŲ LIGŲ PROFILAKTIKA, VALSTYBINĖ VETERINARINĖ KONTROL�
 17 straipsnis. Veterinarinių vaistų kontrolė
 
 
-1. Gyvūnams gydyti leidžiama naudoti tik tuos veterinarinius vaistus, kurie įregistruoti Veterinarinių vaistų registre arba registruoti 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 726/2004, nustatančio Bendrijos leidimų dėl žmonėms skirtų ir veterinarinių vaistų išdavimo ir priežiūros tvarką ir įsteigiančio Europos vaistų agentūrą, nustatyta tvarka.
+1. Gyvūnams gydyti ir profilaktikai leidžiama naudoti Veterinarinių vaistų registre arba Bendrijos veterinarinių vaistų registre registruotus veterinarinius vaistus, veterinarinius vaistus, įrašytus į Lygiagrečiai importuojamų veterinarinių vaistų sąrašą, arba neregistruotus veterinarinius vaistus, kuriems tiekti rinkai yra išduotas Valstybinės maisto ir veterinarijos tarnybos leidimas. Veterinariniai vaistai gali būti skiriami ir naudojami toms ligoms ir tų rūšių gyvūnams gydyti, kurie yra nurodyti veterinarinių vaistų informaciniuose dokumentuose. Jeigu tam tikrai gyvūno ligai gydyti nėra registruoto veterinarinio vaisto, išimties tvarka privatus veterinarijos gydytojas, siekdamas išvengti neleistinų gyvūno kančių, prisiimdamas atsakomybę, gali skirti konkrečiam gyvūnui gydyti arba pats gydyti konkretų gyvūną:
+
+
+1) veterinariniu vaistu, registruotu Veterinarinių vaistų registre arba Bendrijos veterinarinių vaistų registre ar įrašytu į Lygiagrečiai importuojamų veterinarinių vaistų sąrašą ir skirtu naudoti kitos rūšies gyvūnams arba tos pačios rūšies gyvūnams gydyti, bet kitos ligos atveju; 
 
 
 
 
-2. Vaistinių pašarų gamybos, tiekimo rinkai ir naudojimo reikalavimus nustato ir jų kontrolę atlieka Valstybinė maisto ir veterinarijos tarnyba.
+2) vaistu (vaistiniu preparatu), įrašytu į Lietuvos Respublikos vaistinių preparatų registrą, Bendrijos vaistinių preparatų registrą ar Lygiagrečiai importuojamų vaistinių preparatų sąrašą, arba veterinariniu vaistu, kuris registruotas kitoje Europos Sąjungos valstybėje narėje ir skirtas tos pačios rūšies gyvūnams arba kitos rūšies gyvūnams gydyti konkrečios ligos ar kitos ligos atveju, jeigu nėra galimybės jo gydyti šios dalies 1 punkte nurodytu veterinariniu vaistu;
 
 
 
 
-3. Valstybinė maisto ir veterinarijos tarnyba kontroliuoja, kaip fiziniai ar juridiniai asmenys, kitos organizacijos ir jų filialai naudoja veterinarinius vaistus, laikosi veterinarinę farmaciją reglamentuojančių teisės aktų reikalavimų, saugo ir tvarko naikintinus veterinarinius vaistus.
+3) Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka veterinariniu vaistu, paruoštu iš anksto (ex tempore) atsižvelgiant į veterinarinio recepto sąlygas, jeigu nėra galimybės jo gydyti šios dalies 1 ir 2 punktuose nurodytais veterinariniais vaistais ar vaistais (vaistiniais preparatais).
 
 
 
 
-4. Draudžiama vartoti tirostatinį, estrogeninį, androgeninį arba gestageninį poveikį turinčias medžiagas, skatinančias ūkinių gyvūnų augimą ir didinančias jų produktyvumą, išskyrus Valstybinės maisto ir veterinarijos tarnybos nustatytus atvejus.
+
+
+2. Veterinariniai vaistai, turintys antimikrobinių medžiagų, turi būti skiriami ir naudojami Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka, parengta vadovaujantis Europos Komisijos patvirtintomis Racionalaus antimikrobinių medžiagų naudojimo veterinarijoje gairėmis, ir tik taip, kaip nurodyta patvirtintuose šių veterinarinių vaistų informaciniuose dokumentuose.
+
+
+
+
+3. Vaistinių pašarų gamybos, tiekimo rinkai ir naudojimo reikalavimus nustato ir jų kontrolę atlieka Valstybinė maisto ir veterinarijos tarnyba.
+
+
+
+
+4. Valstybinė maisto ir veterinarijos tarnyba kontroliuoja, kaip fiziniai ar juridiniai asmenys, kitos organizacijos ir jų filialai naudoja veterinarinius vaistus, laikosi veterinarinę farmaciją reglamentuojančių teisės aktų reikalavimų, saugo ir tvarko naikintinus veterinarinius vaistus.
+
+
+
+
+5. Draudžiama vartoti tirostatinį, estrogeninį, androgeninį arba gestageninį poveikį turinčias medžiagas, skatinančias ūkinių gyvūnų augimą ir didinančias jų produktyvumą, išskyrus Valstybinės maisto ir veterinarijos tarnybos nustatytus atvejus. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1611, 2018-11-08, paskelbta TAR 2018-11-15, i. k. 2018-18506
  
-
-
 
 
 
@@ -989,8 +1021,7 @@ BAIGIAMOSIOS NUOSTATOS
  
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS 
-PIRMININKAS                                                                                  VYTAUTAS LANDSBERGIS
- 
+PIRMININKAS                                                                              VYTAUTAS LANDSBERGIS
  
 Vilnius, 1991 m. gruodžio 17 d. 
 Nr. I-2110
@@ -1002,6 +1033,7 @@ Nr. I-2110
 
 
 
+ 
 Lietuvos Respublikos
 veterinarijos įstatymo
 priedas
@@ -1066,3 +1098,8 @@ Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 5 straipsnio pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1686, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20186
 Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 2 straipsnio, trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1611, 2018-11-08, paskelbta TAR 2018-11-15, i. k. 2018-18506
+Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 15, 16 ir 17 straipsnių pakeitimo įstatymas
