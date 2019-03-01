@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-02-28
+Suvestinė redakcija nuo 2019-03-01 iki 2019-06-27
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -3248,7 +3248,10 @@ Nr. XIII-1018, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01031
 
 
 
-4. Baterijų ir akumuliatorių gamintojams ir importuotojams draudžiama tiekti Lietuvos Respublikos vidaus rinkai verslo tikslais baterijas ir akumuliatorius, kuriuose viršijamas sveikatos apsaugos ministro nustatytas gyvsidabrio ir kadmio kiekis.
+4. Baterijų ir akumuliatorių gamintojams ir importuotojams draudžiama tiekti Lietuvos Respublikos vidaus rinkai verslo tikslais baterijas ir akumuliatorius, kuriuose viršijamas ūkio ministro nustatytas gyvsidabrio ir kadmio kiekis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
+ 
 
 
 
