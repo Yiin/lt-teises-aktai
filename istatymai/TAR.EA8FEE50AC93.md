@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea8fee50ac9311e6b844f0f29024f5ac"
 
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-03-21
+Suvestinė redakcija nuo 2019-03-22 iki 2019-04-30
  
 Įstatymas paskelbtas: TAR 2016-11-17, i. k. 2016-26968
  
@@ -1914,7 +1914,11 @@ Nr. XIII-1251, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09919
 
 
 
-2. Kredito davėjo, kredito tarpininko darbuotojai, siūlantys ir sudarantys kredito sutartį, turi turėti aukštąjį išsilavinimą arba ne mažesnę kaip vienų metų darbo patirtį, susijusią su finansinių produktų kūrimu arba platinimu, turėti tinkamų žinių apie kredito produktus ir papildomas paslaugas, kurios siūlomos su šiais kredito produktais, nekilnojamojo turto įsigijimo procesą, nekilnojamojo turto rinką, nekilnojamojo turto registravimo procedūrą ir nuolat šias žinias atnaujinti, taip pat išmanyti teisės aktus, reglamentuojančius vartotojų teisių apsaugą, kredito gavėjų kreditingumo vertinimo procesą arba turėti patirties kredito gavėjų kreditingumo vertinimo srityje. 
+2. Kredito davėjo, kredito tarpininko darbuotojai, siūlantys ir sudarantys kredito sutartis, turi turėti aukštąjį išsilavinimą ir ne mažesnę kaip vienų metų darbo patirtį, susijusią su finansinių produktų kūrimu arba platinimu, turėti tinkamų žinių apie kredito produktus ir papildomas paslaugas, kurios siūlomos su šiais kredito produktais, nekilnojamojo turto įsigijimo procesą, nekilnojamojo turto rinką, nekilnojamojo turto registravimo procedūrą ir nuolat šias žinias atnaujinti, taip pat išmanyti teisės aktus, reglamentuojančius vartotojų teisių apsaugą, kredito gavėjų kreditingumo vertinimo procesą arba turėti patirties kredito gavėjų kreditingumo vertinimo srityje. 
+TAR pastaba. Kredito davėjo, kredito tarpininko darbuotojai, kurie su kredito davėju arba kredito tarpininku iki 2019 m. kovo 21 d. buvo susiję darbo santykiais arba jų esmę atitinkančiais santykiais, 32 straipsnio 2 dalyje nustatytus reikalavimus turi įgyvendinti iki 2022 m. rugpjūčio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
+ 
 
 
 
