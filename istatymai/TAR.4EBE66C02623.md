@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2019-03-01 iki 2019-03-21
+Suvestinė redakcija nuo 2019-03-22 iki 2019-03-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -3788,8 +3788,11 @@ Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 128 straipsnis. Kelionių organizavimo paslaugų teikimo reikalavimų pažeidimas
 
 
-1. Lietuvos Respublikos turizmo įstatyme nustatytų kelionių organizavimo paslaugų teikimo reikalavimų pažeidimas
+1. Lietuvos Respublikos turizmo įstatyme nustatytų kelionių organizavimo paslaugų teikimo reikalavimų pažeidimas, kelionių pardavimo agentams nustatytų reikalavimų pažeidimas ir (arba) turizmo paslaugų rinkinio pardavėjams nustatytų reikalavimų pažeidimas
 užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1994, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04395
+ 
 
 
 
@@ -18021,7 +18024,10 @@ Nr. XIII-1546, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16602
 
 
 
-22) Lietuvos Respublikos ūkio ministerijos – dėl šio kodekso 505, 507, 515 straipsniuose numatytų administracinių nusižengimų; 
+22) Lietuvos Respublikos ekonomikos ir inovacijų ministerijos – dėl šio kodekso 505, 507, 515 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1994, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04395
+ 
 
 
 
@@ -18098,9 +18104,10 @@ Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
 
 
 
-33) Informacinės visuomenės plėtros komiteto prie Ūkio ministerijos – dėl šio kodekso 478, 505, 507, 552 straipsniuose numatytų administracinių nusižengimų; 
+33) Informacinės visuomenės plėtros komiteto – dėl šio kodekso 478, 505, 507, 552 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1366, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11186
+Nr. XIII-1994, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04395
  
 
 
@@ -18379,12 +18386,13 @@ Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 
 
 
-70) Valstybinės vartotojų teisių apsaugos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 3, 4, 5 dalyse, 491 straipsnyje, 50 straipsnio 1, 2, 3, 4, 13, 14, 15, 16 dalyse, 70, 139 straipsniuose, 144 straipsnio 4, 5 dalyse, 145, 152, 155, 156, 157, 160, 161, 162, 163, 164, 173, 174 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 234 straipsnio 1 dalyje, 2701 straipsnyje, 308 straipsnio 1, 9, 10, 12, 16, 19, 21, 22, 23 dalyse, 3081 straipsnio 5, 7 dalyse, 309 straipsnio 6 dalyje, 310 straipsnio 10, 11, 12 dalyse, 473, 475, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+70) Valstybinės vartotojų teisių apsaugos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 3, 4, 5 dalyse, 491 straipsnyje, 50 straipsnio 1, 2, 3, 4, 13, 14, 15, 16 dalyse, 70, 128, 129, 139 straipsniuose, 144 straipsnio 4, 5 dalyse, 145, 152, 155, 156, 157, 160, 161, 162, 163, 164, 173, 174 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 234 straipsnio 1 dalyje, 2701 straipsnyje, 308 straipsnio 1, 9, 10, 12, 16, 19, 21, 22, 23 dalyse, 3081 straipsnio 5, 7 dalyse, 309 straipsnio 6 dalyje, 310 straipsnio 10, 11, 12 dalyse, 473, 475, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
 Nr. XIII-1212, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09724
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
+Nr. XIII-1994, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04395
  
 
 
@@ -18407,7 +18415,9 @@ Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
 
 
 
-73) Valstybinio turizmo departamento prie Ūkio ministerijos – dėl šio kodekso 128, 129, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
+73) neteko galios 2019-03-22;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1994, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04395
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
@@ -23153,6 +23163,11 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 369 ir 589 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1969, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03167
 Lietuvos Respublikos administracinių nusižengimų kodekso 328, 329, 589 ir 610 straipsnių pakeitimo įstatymas
+ 
+73.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1994, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04395
+Lietuvos Respublikos administracinių nusižengimų kodekso 128 ir 589 straipsnių pakeitimo įstatymas
  
  
 
