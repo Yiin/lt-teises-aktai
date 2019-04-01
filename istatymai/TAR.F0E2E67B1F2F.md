@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F0E2E67B1F2F"
 
 # Lietuvos Respublikos turizmo įstatymas
 
-Suvestinė redakcija nuo 2018-07-17 iki 2019-03-31
+Suvestinė redakcija nuo 2019-04-01 iki 2020-04-23
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 32-852, i. k. 0981010ISTAVIII-667
  
@@ -654,7 +654,9 @@ TAR pastaba. 8 straipsnio 1 dalyje nurodyti asmenys, kurie iki įstatymo Nr. XI
 
 
 
-4. Kelionių organizatoriaus pažymėjimo išdavimo, kelionių organizatoriaus pažymėjimo galiojimo sustabdymo, sustabdymo pratęsimo, sustabdymo panaikinimo, kelionių organizatoriaus pažymėjimo galiojimo panaikinimo tvarką nustato Lietuvos Respublikos ūkio ministerija.
+4. Kelionių organizatoriaus pažymėjimo išdavimo, kelionių organizatoriaus pažymėjimo galiojimo sustabdymo, sustabdymo pratęsimo, sustabdymo panaikinimo, kelionių organizatoriaus pažymėjimo galiojimo panaikinimo tvarkos aprašą tvirtina Lietuvos Respublikos ekonomikos ir inovacijų ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
  
 
 
@@ -668,7 +670,7 @@ TAR pastaba. 8 straipsnio 1 dalyje nurodyti asmenys, kurie iki įstatymo Nr. XI
 1. Vyriausybės įgaliota institucija privalo nedelsdama, bet ne vėliau kaip per vieną darbo dieną nuo šioje dalyje nurodytų aplinkybių paaiškėjimo, sustabdyti kelionių organizatoriaus pažymėjimo galiojimą 10 darbo dienų šioje dalyje nurodytais atvejais:
 
 
-1) po sprendimo išduoti kelionių organizatoriaus pažymėjimą priėmimo paaiškėjo faktų, dėl kurių būtų atsisakyta pareiškėjui išduoti kelionių organizatoriaus pažymėjimą, išskyrus atvejus, kai paaiškėja, kad kelionių organizatorius nėra laikomas nepriekaištingos reputacijos pagal šio įstatymo 8 straipsnio 3 dalį; 
+1) po sprendimo išduoti kelionių organizatoriaus pažymėjimą priėmimo paaiškėjo faktų, dėl kurių būtų atsisakyta pareiškėjui išduoti kelionių organizatoriaus pažymėjimą;
 
 
 
@@ -693,9 +695,17 @@ TAR pastaba. 8 straipsnio 1 dalyje nurodyti asmenys, kurie iki įstatymo Nr. XI
 
 
 
-6) motyvuotu sprendimu, kai atlikdama kelionių organizatoriaus priežiūrą Vyriausybės įgaliota institucija nustato, kad kelionių organizatorius negali vykdyti įsipareigojimų turistams pagal sudarytas organizuotos turistinės kelionės sutartis.
+6) motyvuotu sprendimu, kai atlikdama kelionių organizatoriaus priežiūrą Vyriausybės įgaliota institucija nustato, kad kelionių organizatorius negali vykdyti įsipareigojimų turistams pagal sudarytas organizuotos turistinės kelionės sutartis;
 
 
+
+
+7) atsiranda aplinkybių, dėl kurių kelionių organizatorius negali būti laikomas nepriekaištingos reputacijos pagal šio įstatymo 8 straipsnio 3 dalį. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+ 
 
 
 
@@ -890,7 +900,10 @@ KELIONIŲ ORGANIZATORIAUS PRIEVOLIŲ ĮVYKDYMO UŽTIKRINIMAS
 1. Kelionių organizatorius garantuoja, kad jo turimas prievolių įvykdymo užtikrinimas apima: 
 
 
-1) turisto grąžinimą į pradinę jo išvykimo vietą, įskaitant būtiną organizuotos turistinės kelionės sutartyje numatytą apgyvendinimą tol, kol turistas grąžinamas į pradinę jo išvykimo vietą, ir už organizuotą turistinę kelionę turisto sumokėtų pinigų sumos, atitinkančios nesuteiktų paslaugų kainą, grąžinimą turistui, jeigu prasidėjus organizuotai turistinei kelionei paaiškėja, kad kelionių organizatorius negalės toliau vykdyti organizuotos turistinės kelionės paslaugų teikimo sutarties; 
+1) turisto grąžinimą į pradinę jo išvykimo vietą, įskaitant būtiną organizuotos turistinės kelionės sutartyje numatytą apgyvendinimą tol, kol turistas grąžinamas į pradinę jo išvykimo vietą, ir už organizuotą turistinę kelionę turisto sumokėtų pinigų sumos, atitinkančios nesuteiktų paslaugų kainą, grąžinimą turistui, jeigu prasidėjus organizuotai turistinei kelionei paaiškėja, kad kelionių organizatorius negalės toliau vykdyti organizuotos turistinės kelionės sutarties; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+ 
 
 
 
@@ -943,6 +956,49 @@ KELIONIŲ ORGANIZATORIAUS PRIEVOLIŲ ĮVYKDYMO UŽTIKRINIMAS
 
 
 4. Turistas ne vėliau kaip per 3 mėnesius nuo Vyriausybės įgaliotos institucijos informacijos apie prašymų dėl žalos atlyginimo pateikimą ir nagrinėjimą paskelbimo dienos turi kreiptis į Vyriausybės įgaliotą instituciją. Nuostoliai atlyginami Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. 
+
+
+
+
+5. Prievolių įvykdymo užtikrinimo suma naudojama laikantis šio eiliškumo:
+
+
+1) turisto grąžinimo į pradinę jo išvykimo vietą, įskaitant sumą už būtiną organizuotos turistinės kelionės sutartyje numatytą apgyvendinimą tol, kol turistas grąžinamas į pradinę jo išvykimo vietą, nuostoliams kompensuoti;
+
+
+
+
+2) kitiems, negu nurodyti šios dalies 1 punkte, šio straipsnio 1 dalyje numatytiems nuostoliams kompensuoti ir išlaidoms padengti. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+ 
+
+
+
+
+6. Prievolių įvykdymo laidavimo draudimo išmoka arba finansinėje garantijoje nustatyta suma mokama laikantis šių terminų: 
+
+
+1) draudimo įmonė laidavimo draudimo išmoką ir (arba) finansų įstaiga suteiktoje finansinėje garantijoje nurodytą sumą, skirtą turisto grąžinimui į pradinę jo išvykimo vietą, įskaitant būtiną organizuotos turistinės kelionės sutartyje numatytą apgyvendinimą tol, kol turistas grąžinamas į pradinę jo išvykimo vietą, išmoka nedelsdama, ne vėliau kaip per vieną darbo dieną nuo Vyriausybės įgaliotos institucijos rašytinio reikalavimo ir jį patvirtinančių dokumentų gavimo dienos; šiuo atveju dokumentus ir su jais susijusią informaciją draudimo įmonei ir (arba) finansų įstaigai Vyriausybės įgaliota institucija pateikia nedelsdama, ne vėliau kaip per vieną darbo dieną nuo rašytinį reikalavimą patvirtinančių dokumentų gavimo dienos;
+
+
+
+
+2) draudimo įmonė laidavimo draudimo išmoką ir (arba) finansų įstaiga suteiktoje finansinėje garantijoje nurodytą sumą, skirtą kitiems šiame straipsnyje nurodytiems nuostoliams kompensuoti, išmoka ne vėliau kaip per 10 darbo dienų nuo Vyriausybės įgaliotos institucijos rašytinio reikalavimo ir jį patvirtinančių dokumentų gavimo dienos. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+ 
+
+
+
+
+7. Draudimo įmonė laidavimo draudimo išmokos ir (arba) finansų įstaiga suteiktoje finansinėje garantijoje nurodytos sumos turi teisę nemokėti, kai turėtus nuostolius visiškai kompensuoja kelionių organizatorius, turizmo paslaugų rinkinio pardavėjas arba trečiasis asmuo, arba sumažinti laidavimo draudimo išmoką proporcingai kelionių organizatoriaus, turizmo paslaugų rinkinio pardavėjo arba trečiojo asmens atlygintų nuostolių sumos dydžiui. Trečiajam asmeniui, atlyginusiam nuostolius, pereina reikalavimo teisė į laidavimo draudimo išmoką ar jos dalį Civilinio kodekso nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
  
 
 
@@ -1199,7 +1255,6 @@ TURIZMO PASLAUGŲ RINKINYS
 
 3. Jeigu kitos kelionės paslaugos sudaro 25 procentus arba daugiau turizmo paslaugų derinio vertės, tos paslaugos laikomos didele turizmo paslaugų rinkinio vertės dalimi.
  
- 
 
 
 
@@ -1245,7 +1300,6 @@ TURIZMO PASLAUGŲ RINKINYS
 
 
 4. Kai turistas įsigyja turizmo paslaugų rinkinį pagal sutartį su turizmo paslaugų teikėju, kuris nėra turizmo paslaugų rinkinio pardavėjas, šis turizmo paslaugų teikėjas nedelsdamas informuoja turizmo paslaugų rinkinio pardavėją apie sutarties su turistu sudarymą.
- 
  
 
 
@@ -1301,13 +1355,15 @@ TURIZMO PASLAUGŲ RINKINYS
 
 
 
-7. Šio įstatymo 15 straipsnio 4 dalies nuostata dėl patirtų išlaidų atlyginimo turistams turizmo paslaugų rinkinio pardavėjui taikoma mutatis mutandis. 
+7. Šio įstatymo 15 straipsnio 4–7 dalių nuostatos dėl patirtų išlaidų atlyginimo turistams turizmo paslaugų rinkinio pardavėjui taikomos mutatis mutandis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+ 
 
 
 
 
 8. Turizmo paslaugų rinkinio pardavėjo prievolių įvykdymo užtikrinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
- 
  
 
 
@@ -1475,7 +1531,10 @@ TURISTŲ INFORMAVIMO PASLAUGOS
 
 
 
-4. Gido pažymėjimo išdavimo ir panaikinimo tvarką ir gido pažymėjimo formą nustato Vyriausybės įgaliota institucija. 
+4. Gido pažymėjimo išdavimo ir panaikinimo tvarkos aprašą ir gido pažymėjimo formą tvirtina ekonomikos ir inovacijų ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+ 
 
 
 
@@ -1500,12 +1559,17 @@ TURISTŲ INFORMAVIMO PASLAUGOS
 
 
 
-6. Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos gidas, kurio Europos ekonominės erdvės valstybėje, Šveicarijos Konfederacijoje įgytą gido profesinę kvalifikaciją pripažino Vyriausybės įgaliota institucija, gali teikti gido paslaugas Lietuvos Respublikoje. Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos gidų profesinės kvalifikacijos pripažinimo Lietuvos Respublikoje tvarką nustato Vyriausybės įgaliota institucija, vadovaudamasi Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu.
+6. Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos gidas, kurio Europos ekonominės erdvės valstybėje, Šveicarijos Konfederacijoje įgytą gido profesinę kvalifikaciją pripažino Vyriausybės įgaliota institucija, gali teikti gido paslaugas Lietuvos Respublikoje. Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos gidų profesinės kvalifikacijos pripažinimo Lietuvos Respublikoje tvarkos aprašą tvirtina ekonomikos ir inovacijų ministras, vadovaudamasis Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+ 
 
 
 
 
-7. Turistus į Lietuvos Respubliką lydintis Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos gidas, Vyriausybės įgaliotai institucijai pateikęs išankstinę deklaraciją dėl laikinai ar kartais teikiamų gido paslaugų, gali laikinai ar kartais teikti gido paslaugas. Šios deklaracijos formą ir pateikimo tvarką nustato Vyriausybės įgaliota institucija, vadovaudamasi Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu. Laikinai ar kartais teikiamų Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos gido paslaugų tvarkos aprašą tvirtina Vyriausybės įgaliota institucija.
+7. Turistus į Lietuvos Respubliką lydintis Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos gidas, Vyriausybės įgaliotai institucijai pateikęs išankstinę deklaraciją dėl laikinai ar kartais teikiamų gido paslaugų, gali laikinai ar kartais teikti gido paslaugas. Šios deklaracijos formą ir pateikimo tvarką tvirtina ekonomikos ir inovacijų ministras, vadovaudamasis Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu. Laikinai ar kartais teikiamų Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos gido paslaugų tvarkos aprašą tvirtina ekonomikos ir inovacijų ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
  
 
 
@@ -1521,7 +1585,9 @@ TURISTŲ INFORMAVIMO PASLAUGOS
 
 
 
-2. Turizmo informacijos ženklo naudojimo tvarką nustato Vyriausybės įgaliota institucija.
+2. Turizmo informacijos ženklo naudojimo tvarkos aprašą tvirtina ekonomikos ir inovacijų ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
  
 
 
@@ -1536,7 +1602,7 @@ APGYVENDINIMO PASLAUGOS
  
 
 
-30 straipsnis. Apgyvendinimo paslaugų rūšys ir apgyvendinimo paslaugų teikėjai 
+30 straipsnis. Apgyvendinimo paslaugų rūšys ir apgyvendinimo paslaugų teikėjai
 
 
 1. Apgyvendinimo paslaugos yra skirstomos į:
@@ -1547,32 +1613,34 @@ APGYVENDINIMO PASLAUGOS
 
 
 
-2) neklasifikuojamąsias apgyvendinimo paslaugas: apartamentų komplekso paslaugos, kaimo turizmo paslaugos, nakvynės ir pusryčių paslaugos, nakvynės namų (angl. hostel) paslaugos, poilsio namų paslaugos, turistinio laivo apgyvendinimo paslaugos, turistinės stovyklos paslaugos.
+2) neklasifikuojamąsias apgyvendinimo paslaugas: apartamentų komplekso paslaugos, kaimo turizmo paslaugos, nakvynės ir pusryčių paslaugos, nakvynės namų (angl. hostel) paslaugos, poilsio namų paslaugos, turistinio laivo apgyvendinimo paslaugos, turistinės stovyklos paslaugos, sanatorijos apgyvendinimo paslaugos, trumpalaikio apgyvendinimo paslaugos.
 
 
 
 
 
 
-2. Klasifikuojamąsias apgyvendinimo paslaugas gali teikti apgyvendinimo paslaugų teikėjas, turintis šio įstatymo 32 straipsnyje nustatyta tvarka išduotą galiojantį apgyvendinimo paslaugų klasifikavimo pažymėjimą. 
+2. Klasifikuojamąsias apgyvendinimo paslaugas gali teikti apgyvendinimo paslaugų teikėjas, turintis šio įstatymo 32 straipsnyje nustatyta tvarka išduotą galiojantį apgyvendinimo paslaugų klasifikavimo pažymėjimą.
 
 
 
 
-3. Apgyvendinimo paslaugos klasifikuojamos pagal Vyriausybės įgaliotos institucijos nustatytus atitinkamos apgyvendinimo paslaugų rūšies klasifikavimo reikalavimus. Pagal teikiamų paslaugų kokybę ir įvairovę klasifikuojamųjų apgyvendinimo paslaugų (objektų) kokybės lygis ženklinamas žvaigždutėmis, kurių didesnis skaičius reiškia aukštesnį kokybės lygį. Aukščiausias apgyvendinimo paslaugų kokybės lygis žymimas penkiomis žvaigždutėmis.
+3. Apgyvendinimo paslaugos klasifikuojamos pagal ekonomikos ir inovacijų ministro patvirtintus nustatytus atitinkamos apgyvendinimo paslaugų rūšies klasifikavimo reikalavimus. Pagal teikiamų paslaugų kokybę ir įvairovę klasifikuojamųjų apgyvendinimo paslaugų (objektų) kokybės lygis ženklinamas žvaigždutėmis, kurių didesnis skaičius reiškia aukštesnį kokybės lygį. Aukščiausias apgyvendinimo paslaugų kokybės lygis žymimas penkiomis žvaigždutėmis.
 
 
 
 
-4. Apgyvendinimo paslaugų klasifikavimą atlieka Vyriausybės įgaliota institucija pagal Vyriausybės įgaliotos institucijos patvirtintą ir su Ūkio ministerija suderintą apgyvendinimo paslaugų klasifikavimo tvarkos aprašą. 
+4. Apgyvendinimo paslaugų klasifikavimą atlieka Vyriausybės įgaliota institucija pagal Vyriausybės įgaliotos institucijos patvirtintą apgyvendinimo paslaugų klasifikavimo tvarkos aprašą.
 
 
 
 
-5. Vyriausybės įgaliota institucija tvirtina Apgyvendinimo paslaugų rūšių sąrašą, kuriame nustatytos apgyvendinimo paslaugų rūšių apibrėžtys ir minimalus apgyvendinti skirtų kambarių skaičius.
+5. Ekonomikos ir inovacijų ministras tvirtina Apgyvendinimo paslaugų rūšių sąrašą, kuriame nustatytos apgyvendinimo paslaugų rūšių apibrėžtys ir minimalus apgyvendinti skirtų kambarių skaičius. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
  
-
-
 
 
 
@@ -1620,7 +1688,9 @@ APGYVENDINIMO PASLAUGOS
 
 
 
-2. Apgyvendinamų valstybių narių ir trečiųjų valstybių piliečių registravimo tvarką, įskaitant registracijos kortelėse pateikiamų duomenų tvarkymą, nustato Vyriausybė ar jos įgaliota institucija.
+2. Apgyvendinamų valstybių narių ir trečiųjų valstybių piliečių registravimo tvarkos aprašą, įskaitant registracijos kortelėse pateikiamų duomenų tvarkymą, tvirtina ekonomikos ir inovacijų ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
  
 
 
@@ -1691,7 +1761,9 @@ APGYVENDINIMO PASLAUGOS
 
 
 
-6. Apgyvendinimo paslaugų klasifikavimo pažymėjimo išdavimo ir galiojimo panaikinimo tvarką nustato Vyriausybės įgaliota institucija.
+6. Apgyvendinimo paslaugų klasifikavimo pažymėjimo išdavimo ir galiojimo panaikinimo tvarkos aprašą tvirtina ekonomikos ir inovacijų ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
  
 
 
@@ -1722,7 +1794,10 @@ TURIZMO PASLAUGŲ TEIKĖJŲ VEIKLOS PRIEŽIŪRA IR ATSAKOMYBĖ
 34 straipsnis. Vyriausybės įgaliotos institucijos teisės atliekant turizmo paslaugų teikėjų priežiūrą
 
 
-1. Lietuvos Respublikoje įsteigtų kelionių organizatorių, kelionių pardavimo agentų, turizmo paslaugų rinkinių pardavėjų, apgyvendinimo paslaugų teikėjų priežiūrą atlieka Vyriausybės įgaliota institucija Lietuvos Respublikos viešojo administravimo įstatymo, šio įstatymo ir Lietuvos Respublikos ūkio ministro nustatyta tvarka. 
+1. Lietuvos Respublikoje įsteigtų kelionių organizatorių, kelionių pardavimo agentų, turizmo paslaugų rinkinių pardavėjų, apgyvendinimo paslaugų teikėjų priežiūrą atlieka Vyriausybės įgaliota institucija Lietuvos Respublikos viešojo administravimo įstatymo, šio įstatymo ir ekonomikos ir inovacijų ministro nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+ 
 
 
 
@@ -1831,7 +1906,10 @@ TURIZMO VALDYMAS
 36 straipsnis. Turizmo politikos formavimas ir turizmo valdymas
 
 
-1. Turizmo valdymo funkcijas Lietuvos Respublikoje atlieka Lietuvos Respublikos Seimas, Vyriausybė, Ūkio ministerija, Vyriausybės įgaliota institucija, savivaldybės.
+1. Turizmo valdymo funkcijas Lietuvos Respublikoje atlieka Lietuvos Respublikos Seimas, Vyriausybė, Ekonomikos ir inovacijų ministerija, Vyriausybės įgaliota institucija, savivaldybės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+ 
 
 
 
@@ -1859,10 +1937,10 @@ TURIZMO VALDYMAS
 
 
 
-37 straipsnis. Ūkio ministerija
+37 straipsnis. Ekonomikos ir inovacijų ministerija
 
 
-Ūkio ministerija:
+Ekonomikos ir inovacijų ministerija:
 
 
 1) atlieka strateginį Lietuvos turizmo veiklos planavimą;
@@ -1870,7 +1948,7 @@ TURIZMO VALDYMAS
 
 
 
-2) formuoja valstybės politiką turizmo srityje ir organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
+2) formuoja valstybės politiką turizmo srityje, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
 
 
 
@@ -1880,17 +1958,19 @@ TURIZMO VALDYMAS
 
 
 
-4) dalyvauja Europos Sąjungos turizmo politiką formuojančių institucijų, tarptautinių organizacijų veikloje;
+4) dalyvauja tarptautinių turizmo ir su turizmu susijusių institucijų ir organizacijų, formuojančių turizmo politiką, veikloje;
 
 
 
 
-5) atlieka kitas šiame įstatyme ir kituose turizmo veiklą reglamentuojančiuose teisės aktuose nustatytas funkcijas.
+5) atlieka kitas šiame įstatyme ir kituose turizmo veiklą reglamentuojančiuose teisės aktuose nustatytas funkcijas. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
  
-
-
-
-
 
 
 
@@ -1901,7 +1981,10 @@ TURIZMO VALDYMAS
 Vyriausybės įgaliota institucija, įgyvendindama šio įstatymo nuostatas, atlieka šias funkcijas:
 
 
-1) įgyvendina strateginių Lietuvos turizmo veiklos planavimo dokumentų nuostatas;
+1) įgyvendina strateginių Lietuvos turizmo veiklos planavimo dokumentų nuostatas turizmo paslaugų teikėjų veiklos priežiūros srityje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+ 
 
 
 
@@ -1911,7 +1994,10 @@ Vyriausybės įgaliota institucija, įgyvendindama šio įstatymo nuostatas, atl
 
 
 
-3) atstovauja turistų interesams kelionių organizatoriaus nemokumo ar bankroto atvejais ir organizuoja turistų grąžinimą į pradinę išvykimo vietą ūkio ministro nustatyta tvarka;
+3) atstovauja turistų interesams kelionių organizatoriaus ir turizmo paslaugų rinkinio pardavėjo nemokumo ar bankroto atvejais ir organizuoja turistų grąžinimą į pradinę išvykimo vietą ekonomikos ir inovacijų ministro nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+ 
 
 
 
@@ -1929,7 +2015,10 @@ Vyriausybės įgaliota institucija, įgyvendindama šio įstatymo nuostatas, atl
 39 straipsnis. Viešoji įstaiga „Keliauk Lietuvoje“
 
 
-1. Viešoji įstaiga „Keliauk Lietuvoje“ yra pelno nesiekiantis ribotos civilinės atsakomybės viešasis juridinis asmuo, kurio savininkė yra valstybė, o savininkės teises ir pareigas įgyvendina Ūkio ministerija. 
+1. Viešoji įstaiga „Keliauk Lietuvoje“ yra pelno nesiekiantis ribotos civilinės atsakomybės viešasis juridinis asmuo, kurio savininkė yra valstybė, o savininkės teises ir pareigas įgyvendina Ekonomikos ir inovacijų ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+ 
 
 
 
@@ -1975,7 +2064,6 @@ Vyriausybės įgaliota institucija, įgyvendindama šio įstatymo nuostatas, atl
 
 
 3. Viešosios įstaigos „Keliauk Lietuvoje“ lėšas sudaro valstybės biudžeto asignavimai, pajamos už suteiktas paslaugas, lėšos, gautos kaip parama, ir kitos teisėtai gautos lėšos.
-TAR pastaba. 39 straipsnis įsigalioja 2019-01-01.
  
 
 
@@ -2032,17 +2120,25 @@ Savivaldybės:
 
 
 
-2. Turizmo taryba sudaroma ir veikia vadovaudamasi Vyriausybės ar Ūkio ministerijos patvirtintais Turizmo tarybos nuostatais.
+2. Turizmo taryba sudaroma ir veikia vadovaudamasi ekonomikos ir inovacijų ministro patvirtintais Turizmo tarybos nuostatais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+ 
 
 
 
 
-3. Turizmo tarybos sudėtį tvirtina ūkio ministras.
+3. Turizmo tarybos sudėtį tvirtina ekonomikos ir inovacijų ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+ 
 
 
 
 
-4. Turizmo tarybą techniškai aptarnauja Ūkio ministerija.
+4. Turizmo tarybą techniškai aptarnauja Ekonomikos ir inovacijų ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
  
 
 
@@ -2140,3 +2236,8 @@ Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 4-1, 6, 7, 8, 15 ir 16
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1447, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11758
 Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 9, 10, 15, 23, 28, 29, 30, 31, 32, 34, 36, 37, 38, 39 ir 41 straipsnių pakeitimo įstatymas
