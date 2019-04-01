@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2019-03-22 iki 2019-03-31
+Suvestinė redakcija nuo 2019-04-01 iki 2019-04-30
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -966,7 +966,9 @@ Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 
 
 
-4. Teisės vairuoti transporto priemones atėmimas negali būti skiriamas asmeniui, kuris šiomis priemonėmis naudojasi dėl neįgalumo, išskyrus atvejus, kai jas šis asmuo vairavo būdamas neblaivus arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų arba kai jis vengė neblaivumo ar apsvaigimo patikrinimo, vartojo alkoholį, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas po eismo įvykio iki jo aplinkybių nustatymo.
+4. Teisės vairuoti transporto priemones atėmimas negali būti skiriamas asmeniui, kuris šiomis priemonėmis naudojasi dėl neįgalumo, išskyrus atvejus, kai jas šis asmuo vairavo būdamas neblaivus arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų arba kai jis vengė apsvaigimo patikrinimo, vartojo alkoholį (nustatytas daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės neblaivumas), narkotines, psichotropines ar kitas psichiką veikiančias medžiagas po eismo įvykio iki jo aplinkybių nustatymo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
  
 
 
@@ -2389,14 +2391,18 @@ užtraukia baudą asmenims nuo trisdešimt iki penkiasdešimt eurų ir juridini�
 
 
 
-71 straipsnis. Narkotinių ar psichotropinių medžiagų vartojimas be gydytojo paskyrimo
+71 straipsnis. Narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vartojimas be gydytojo paskyrimo 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
+ 
 
 
-1. Narkotinių ar psichotropinių medžiagų vartojimas be gydytojo paskyrimo arba už administracinių nusižengimų (išskyrus šio kodekso 227 straipsnio 3 dalyje, 379 straipsnio 2 dalyje, 401 straipsnio 6, 21 dalyse, 406 straipsnio 5 dalyje, 420 straipsnio 3, 4 dalyse, 422 straipsnio 3, 6, 7 dalyse, 423 straipsnio 3 dalyje, 427 straipsnio 1 dalyje, 428 straipsnio 5, 8 dalyse numatytus nusižengimus) padarymą sulaikytų ir apsvaigimu nuo narkotinių ar psichotropinių medžiagų įtariamų asmenų vengimas pasitikrinti dėl apsvaigimo 
+1. Narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vartojimas be gydytojo paskyrimo arba už administracinių nusižengimų (išskyrus šio kodekso 227 straipsnio 3 dalyje, 379 straipsnio 2 dalyje, 401 straipsnio 6, 21 dalyse, 406 straipsnio 5 dalyje, 420 straipsnio 3, 4 dalyse, 422 straipsnio 3, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 4 dalyje, 427 straipsnio 1 dalyje, 428 straipsnio 5, 8 dalyse numatytus nusižengimus) padarymą sulaikytų ir apsvaigimu nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų įtariamų asmenų vengimas pasitikrinti dėl apsvaigimo
 užtraukia baudą nuo trisdešimt iki vieno šimto penkiasdešimt eurų. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
+Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
  
 
 
@@ -2413,7 +2419,9 @@ užtraukia baudą nuo vieno šimto penkiasdešimt iki dviejų šimtų trisdešim
 
 
 
-4. Asmuo, kuris savanoriškai kreipėsi į sveikatos priežiūros įstaigą dėl asmens sveikatos priežiūros paslaugų suteikimo dėl narkotinių ar psichotropinių medžiagų vartojimo be gydytojo paskyrimo, atleidžiamas nuo administracinės atsakomybės už šiame straipsnyje numatytus veiksmus. 
+4. Asmuo, kuris savanoriškai kreipėsi į sveikatos priežiūros įstaigą dėl asmens sveikatos priežiūros paslaugų suteikimo dėl narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vartojimo be gydytojo paskyrimo, atleidžiamas nuo administracinės atsakomybės už šiame straipsnyje numatytus veiksmus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
  
 
 
@@ -13292,10 +13300,11 @@ Nr. XII-2746, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26866
 
 
 
-2. Transporto priemonių, kurios nustatyta tvarka neįregistruotos (neperregistruotos) arba be privalomosios techninės apžiūros, arba turi gedimų, dėl kurių pagal Kelių eismo taisykles draudžiama važiuoti, arba kurių padangos neatitinka nustatytų techninių ar padangų naudojimo reikalavimų, vairavimas arba vairavimas neturint Lietuvos Respublikos vidaus reikalų ministro (toliau – vidaus reikalų ministras) nustatyta tvarka išduoto leidimo naudotis kelių transporto priemone su stiklais, kurių šviesos laidumas mažesnis, negu leistina, 
-užtraukia baudą vairuotojams nuo trisdešimt iki keturiasdešimt eurų. 
+2. Transporto priemonių, kurios nustatyta tvarka neįregistruotos (neperregistruotos) arba be privalomosios techninės apžiūros, arba turi gedimų, dėl kurių pagal Kelių eismo taisykles draudžiama važiuoti, arba dėl kurių nesumokėti valstybės nustatyti su transporto priemone ar jos dalyvavimu viešajame eisme susiję mokesčiai, arba kurių leidimas dalyvauti viešajame eisme sustabdytas, nes transporto priemonės savininkas ir valdytojas išregistruoti iš Juridinių asmenų registro (kai motorinės transporto priemonės ir (ar) priekabos savininkas ar valdytojas yra juridinis asmuo) arba mirę, arba kurių padangos neatitinka nustatytų techninių ar padangų naudojimo reikalavimų, vairavimas arba vairavimas neturint Lietuvos Respublikos vidaus reikalų ministro nustatyta tvarka išduoto leidimo naudotis kelių transporto priemone su stiklais, kurių šviesos laidumas mažesnis, negu leistina, 
+užtraukia baudą vairuotojams nuo trisdešimt iki keturiasdešimt eurų.
 Straipsnio dalies pakeitimai:
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+Nr. XIII-1541, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16599
  
 
 
@@ -13510,37 +13519,36 @@ užtraukia baudą nuo keturiasdešimt iki vieno šimto eurų.
 420 straipsnis. Pavojingas ir chuliganiškas vairavimas, Kelių eismo taisyklėse nustatyto draudimo lenkti ar įvažiuoti į priešpriešinio eismo juostą pažeidimas
 
 
-1. Transporto priemonių vairavimas vienu metu ar paeiliui padarant kelis grėsmę eismo saugumui keliančius eismo taisyklių pažeidimus, lenkimas vietose, kuriose pagal Kelių eismo taisykles draudžiama lenkti, vairavimas neteisėtai organizuotose transporto priemonių lenktynėse, pavojingą situaciją sukėlęs (t. y. privertęs kitus eismo dalyvius staigiai keisti judėjimo greitį, kryptį arba imtis kitokių veiksmų savo ar kitų žmonių saugumui užtikrinti) Kelių eismo taisyklių pažeidimas, tokią pat pavojingą situaciją sukėlęs įvažiavimas į priešpriešinio eismo juostą pažeidžiant Kelių eismo taisyklių reikalavimus 
-užtraukia baudą vairuotojams nuo vieno šimto septyniasdešimt iki dviejų šimtų trisdešimt eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo trijų šimtų iki šešių šimtų eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-640, 2017-09-26, paskelbta TAR 2017-10-02, i. k. 2017-15486
- 
+1. Transporto priemonių vairavimas vienu metu ar paeiliui padarant kelis grėsmę eismo saugumui keliančius eismo taisyklių pažeidimus, lenkimas vietose, kuriose pagal Kelių eismo taisykles draudžiama lenkti, vairavimas neteisėtai organizuotose transporto priemonių lenktynėse, pavojingą situaciją sukėlęs (t. y. privertęs kitus eismo dalyvius staigiai keisti judėjimo greitį, kryptį arba imtis kitokių veiksmų savo ar kitų žmonių saugumui užtikrinti) Kelių eismo taisyklių pažeidimas, tokią pat pavojingą situaciją sukėlęs įvažiavimas į priešpriešinio eismo juostą pažeidžiant Kelių eismo taisyklių reikalavimus
+užtraukia baudą vairuotojams nuo vieno šimto septyniasdešimt iki dviejų šimtų trisdešimt eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo keturių šimtų penkiasdešimt iki šešių šimtų eurų.
 
 
 
 
-2. Chuliganiškas vairavimas, t. y. pavojų eismo saugumui arba savo ar kitų žmonių saugumui keliantis Kelių eismo taisyklių pažeidimas dėl chuliganiškų paskatų, 
+2. Chuliganiškas vairavimas, t. y. pavojų eismo saugumui arba savo ar kitų žmonių saugumui keliantis Kelių eismo taisyklių pažeidimas dėl chuliganiškų paskatų,
 užtraukia baudą vairuotojams nuo keturių šimtų penkiasdešimt iki penkių šimtų penkiasdešimt eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo septynių šimtų penkiasdešimt iki vieno tūkstančio eurų.
 
 
 
 
-3. Šio straipsnio 1 dalyje nurodyti veiksmai, padaryti neblaivaus (nustatytas lengvas neblaivumas (daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės) arba apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, taip pat vengusio neblaivumo ar apsvaigimo patikrinimo arba alkoholį, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas vartojusio iki patikrinimo asmens,
-užtraukia baudą vairuotojams nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų. 
+3. Šio straipsnio 1 dalyje nurodyti veiksmai, padaryti neblaivaus (daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės) arba apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, taip pat vengusio apsvaigimo patikrinimo arba alkoholį (nustatytas daugiau negu 0,4 promilės neblaivumas), narkotines, psichotropines ar kitas psichiką veikiančias medžiagas vartojusio iki patikrinimo asmens,
+užtraukia baudą vairuotojams nuo devynių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
 
 
 
-4. Šio straipsnio 2 dalyje numatyti veiksmai, padaryti neblaivaus (nustatytas lengvas neblaivumas (daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės) arba apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, taip pat vengusio neblaivumo ar apsvaigimo patikrinimo arba alkoholį, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas vartojusio iki patikrinimo asmens,
-užtraukia baudą vairuotojams nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų. 
+4. Šio straipsnio 2 dalyje numatyti veiksmai, padaryti neblaivaus (daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės) arba apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, taip pat vengusio apsvaigimo patikrinimo arba alkoholį (nustatytas daugiau negu 0,4 promilės neblaivumas), narkotines, psichotropines ar kitas psichiką veikiančias medžiagas vartojusio iki patikrinimo asmens,
+užtraukia baudą vairuotojams nuo vieno tūkstančio dviejų šimtų iki vieno tūkstančio penkių šimtų eurų.
 
 
 
 
-5. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo trijų iki šešių mėnesių. Už šio straipsnio 2 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo vienų iki dvejų metų. Už šio straipsnio 3 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo dvejų iki trejų metų. Už šio straipsnio 4 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo trejų iki penkerių metų.
+5. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo trijų iki šešių mėnesių. Už šio straipsnio 2 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo vienų iki dvejų metų. Už šio straipsnio 3 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo dvejų iki trejų metų. Už šio straipsnio 4 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo trejų iki penkerių metų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
  
-
-
 
 
 
@@ -13571,65 +13579,36 @@ užtraukia baudą nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
 
 
 
-2. Taksi automobilių, mopedų, motociklų, triračių, lengvųjų keturračių, keturračių, galingųjų keturračių, transporto priemonių, kurių didžiausioji leidžiamoji masė didesnė negu 3,5 t arba kuriose yra daugiau kaip 9 sėdimos vietos, pavojinguosius krovinius vežančių transporto priemonių vairavimas, kai tai daro neblaivūs (nustatytas lengvas neblaivumas (daugiau kaip 0 promilių, bet ne daugiau kaip 0,4 promilės) vairuotojai,
+2. Taksi automobilių, mopedų, motociklų, triračių, lengvųjų keturračių, keturračių, galingųjų keturračių, transporto priemonių, kurių didžiausioji leidžiamoji masė didesnė negu 3,5 t arba kuriose yra daugiau kaip 9 sėdimos vietos, pavojinguosius krovinius vežančių transporto priemonių vairavimas, kai tai daro neblaivūs (daugiau kaip 0 promilių, bet ne daugiau kaip 0,4 promilės) vairuotojai,
 užtraukia baudą vairuotojams nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 
 
 
-3. Praktinis vairavimo mokymas, kai tai daro neblaivūs (nustatytas lengvas neblaivumas (daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės) vairavimo instruktoriai ar šeimos narį mokantys vairuoti asmenys  arba asmenys, apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, taip pat neblaivumo ar apsvaigimo patikrinimo vengimas arba alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vartojimas iki patikrinimo
+3. Praktinis vairavimo mokymas, kai tai daro neblaivūs (daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės) vairavimo instruktoriai ar šeimos narį mokantys vairuoti asmenys arba asmenys, apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, taip pat apsvaigimo patikrinimo vengimas arba alkoholio (nustatytas daugiau negu 0,4 promilės neblaivumas), narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vartojimas iki patikrinimo
 užtraukia baudą vairavimo instruktoriams ar šeimos narį mokantiems vairuoti asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 
 
 
-4. Transporto priemonių vairavimas, kai tai daro pradedantieji vairuotojai būdami neblaivūs (nustatytas lengvas neblaivumas (daugiau kaip 0 promilių, bet ne daugiau negu 0,4 promilės),
+4. Transporto priemonių vairavimas, kai tai daro pradedantieji vairuotojai būdami neblaivūs (daugiau kaip 0 promilių, bet ne daugiau negu 0,4 promilės),
 užtraukia baudą vairuotojams nuo dviejų šimtų trisdešimt iki trijų šimtų eurų.
 
 
 
 
-5. Transporto priemonių vairavimas, kai tai daro neblaivūs (nustatytas lengvas neblaivumas (daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės) vairuotojai, 
-užtraukia baudą vairuotojams nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+5. Transporto priemonių vairavimas, kai tai daro neblaivūs (daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės) ar apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vairuotojai, taip pat apsvaigimo patikrinimo vengimas arba alkoholio (nustatytas daugiau negu 0,4 promilės neblaivumas), narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vartojimas iki patikrinimo
+užtraukia baudą vairuotojams nuo aštuonių šimtų iki vieno tūkstančio vieno šimto eurų.
+
+
+
+
+6. Už šio straipsnio 3 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo vienuolikos mėnesių iki vienų metų vieno mėnesio. Už šio straipsnio 5 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo vienų metų iki vienų metų šešių mėnesių. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
  
-
-
-
-
-6. Transporto priemonių vairavimas, kai tai daro apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmenys, 
-užtraukia baudą vairuotojams nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
- 
-
-
-
-
-7. Neblaivumo ar apsvaigimo nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų patikrinimo vengimas arba alkoholio ar narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vartojimas iki patikrinimo 
-užtraukia baudą vairuotojams nuo vieno tūkstančio iki dviejų tūkstančių eurų. 
-Papildyta straipsnio dalimi:
-Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
- 
-
-
-
-
-8. Nustatant neblaivumą dujų chromatografijos metodu, turi būti įvertinta ribinė etilo alkoholio koncentracija ir nustatyta žemiausia etilo alkoholio koncentracija biologinėse organizmo terpėse; nustatant neblaivumą alkoholio matuokliu, turi būti įvertinta šio matavimo prietaiso paklaida.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
- 
-
-
-
-
-9. Už šio straipsnio 3 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo vienuolikos mėnesių iki vienų metų vieno mėnesio. Už šio straipsnio 5 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo vienų metų iki vienų metų šešių mėnesių. Už šio straipsnio 6 ir 7 dalyse numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo vienų iki ketverių metų.
-Straipsnio dalies pakeitimai:
-Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
- 
-
-
 
 
 
@@ -13649,10 +13628,11 @@ užtraukia baudą vairuotojams nuo vieno šimto penkiasdešimt iki trijų šimt�
 
 
 
-3. Neblaivių (nustatytas lengvas neblaivumas (daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės) arba apsvaigusių nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmenų, taip pat vengusių neblaivumo ar apsvaigimo patikrinimo arba alkoholį, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas vartojusių po eismo įvykio iki jo aplinkybių nustatymo asmenų padarytas Kelių eismo taisyklių pažeidimas, kuris sukėlė kitų asmenų nežymų sveikatos sutrikdymą ar lėmė kitiems asmenims priklausančių transporto priemonių, krovinių, kelių, kelio ir kitų įrenginių arba kito turto sugadinimą (apgadinimą),
-užtraukia baudą vairuotojams nuo vieno tūkstančio dviejų šimtų iki vieno tūkstančio keturių šimtų eurų.
+3. Neblaivių (daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės) arba apsvaigusių nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmenų, taip pat vengusių apsvaigimo patikrinimo arba alkoholį (nustatytas daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės neblaivumas), narkotines, psichotropines ar kitas psichiką veikiančias medžiagas vartojusių po eismo įvykio iki jo aplinkybių nustatymo asmenų padarytas Kelių eismo taisyklių pažeidimas, kuris sukėlė kitų asmenų nežymų sveikatos sutrikdymą ar lėmė kitiems asmenims priklausančių transporto priemonių, krovinių, kelių, kelio ir kitų įrenginių arba kito turto sugadinimą (apgadinimą),
+užtraukia baudą vairuotojams nuo vieno tūkstančio dviejų šimtų iki vieno tūkstančio penkių šimtų eurų. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
  
 
 
@@ -13701,10 +13681,12 @@ užtraukia baudą nuo keturių šimtų penkiasdešimt iki septynių šimtų eur�
 
 
 
-4. Šio straipsnio 2 ar 3 dalyje nurodyti veiksmai, padaryti neblaivaus (nustatytas lengvas neblaivumas (daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės) arba apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, taip pat vengusio neblaivumo ar apsvaigimo patikrinimo arba alkoholį, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas vartojusio iki patikrinimo asmens,
+4. Šio straipsnio 2 ar 3 dalyje nurodyti veiksmai, padaryti neblaivaus (daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės) arba apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, taip pat vengusio apsvaigimo patikrinimo arba alkoholį (nustatytas daugiau negu 0,4 promilės neblaivumas), narkotines, psichotropines ar kitas psichiką veikiančias medžiagas vartojusio iki patikrinimo asmens,
 užtraukia baudą nuo vieno tūkstančio vieno šimto iki vieno tūkstančio penkių šimtų eurų. 
 Papildyta straipsnio dalimi:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Straipsnio dalies pakeitimai:
+Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
  
 
 
@@ -13810,25 +13792,23 @@ Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 427 straipsnis. Pakartotinis transporto priemonių vairavimas, kai tai daro neblaivūs arba apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vairuotojai
 
 
-1. Transporto priemonių vairavimas, kai tai daro neblaivus (nustatytas lengvas neblaivumas (daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės) arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, arba vengęs neblaivumo ar apsvaigimo patikrinimo, arba alkoholį, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas vartojęs iki patikrinimo vairuotojas, kuriam buvo paskirta administracinė nuobauda už šioje dalyje, šio kodekso 420 straipsnio 3, 4 dalyse, 422 straipsnio 1, 2, 3, 4, 5, 6, 7 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 4 dalyje numatytus administracinius nusižengimus, jei nepraėjo vieni metai nuo paskirtos nuobaudos įvykdymo, arba kuris turi nepanaikintą ar neišnykusį teistumą už nusikalstamą veiką, kurią jis padarė neblaivus arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vairuodamas transporto priemonę,
-užtraukia baudą vairuotojams nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
-Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+1. Transporto priemonių vairavimas, kai tai daro neblaivus (daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės) arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, arba vengęs apsvaigimo  patikrinimo, arba alkoholį (nustatytas daugiau negu 0,4 promilės neblaivumas), narkotines, psichotropines ar kitas psichiką veikiančias medžiagas vartojęs iki patikrinimo vairuotojas, kuriam buvo paskirta administracinė nuobauda už šioje dalyje, šio kodekso 420 straipsnio 3, 4 dalyse, 422 straipsnio 1, 2, 3, 4, 5 dalyse, 423 straipsnio 3 dalyje, 424 straipsnio 4 dalyje numatytus administracinius nusižengimus, jei nepraėjo vieni metai nuo paskirtos nuobaudos įvykdymo, arba kuris turi nepanaikintą ar neišnykusį teistumą už nusikalstamą veiką, kurią jis padarė neblaivus arba apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų vairuodamas transporto priemonę,
+užtraukia baudą vairuotojams nuo vieno tūkstančio iki vieno tūkstančio penkių šimtų eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo vieno tūkstančio dviejų šimtų iki dviejų tūkstančių eurų.
+
+
+
+
+2. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo trejų iki penkerių metų.
+
+
+
+
+3. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą privaloma skirti transporto priemonės konfiskavimą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
  
-
-
-
-
-2. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą privaloma skirti teisės vairuoti transporto priemones atėmimą nuo trejų iki ketverių metų. 
-
-
-
-
-3. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą privaloma skirti transporto priemonės konfiskavimą.
- 
-
-
 
 
 
@@ -18274,10 +18254,11 @@ Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872
 
 
 
-55) Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 47 straipsnio 3 dalyje, 65 straipsnio 3 dalyje, 115, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 266 straipsniuose, 282 straipsnio 1 dalyje, 290 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 374 straipsnyje, 406 straipsnio 1, 2, 3, 5 dalyse, 408 straipsnyje, 410 straipsnio 1 dalyje, 415 straipsnio 1, 2, 3, 4, 5 dalyse, 416 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 417 straipsnio 1, 2, 3, 4, 6, 8 dalyse, 420 straipsnio 1, 2 dalyse, 421, 422, 424 straipsniuose, 426 straipsnio 4 dalyje, 428 straipsnio 1 dalyje, 431 straipsnio 1, 2 dalyse, 432, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 481, 484 straipsniuose, 506 straipsnio 4 dalyje, 508, 536, 537, 538, 539, 543 straipsniuose numatytų administracinių nusižengimų; 
+55) Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 47 straipsnio 3 dalyje, 65 straipsnio 3 dalyje, 115, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 266 straipsniuose, 282 straipsnio 1 dalyje, 290 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 374 straipsnyje, 406 straipsnio 1, 2, 3, 5 dalyse, 408 straipsnyje, 410 straipsnio 1 dalyje, 415 straipsnyje, 416 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 417 straipsnio 1, 2, 3, 4, 6, 8 dalyse, 420 straipsnio 1, 2 dalyse, 421, 422, 424 straipsniuose, 426 straipsnio 4 dalyje, 428 straipsnio 1 dalyje, 431 straipsnio 1, 2 dalyse, 432, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 481, 484 straipsniuose, 506 straipsnio 4 dalyje, 508, 536, 537, 538, 539, 543 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-595, 2017-07-04, paskelbta TAR 2017-07-11, i. k. 2017-11961
 Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
+Nr. XIII-1541, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16599
  
 
 
@@ -19306,9 +19287,11 @@ Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 
 
 
-4. Kai įtariama, kad administracinis nusižengimas, už kurį pagal šį kodeksą gali būti skiriamas teisės vairuoti transporto priemones atėmimas, padarytas neblaivaus ar apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, arba kai administracinėn atsakomybėn traukiamas asmuo vengė pasitikrinti dėl neblaivumo ar apsvaigimo, vartojo alkoholį, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas po veikos padarymo ar iki jos aplinkybių nustatymo, administracinėn atsakomybėn traukiamo asmens teisė vairuoti transporto priemones sustabdoma tol, kol administracinio nusižengimo byloje įsiteisėja galutinis sprendimas ir apie tai įrašoma administracinio nusižengimo protokole.
+4. Kai įtariama, kad administracinis nusižengimas, už kurį pagal šį kodeksą gali būti skiriamas teisės vairuoti transporto priemones atėmimas, padarytas neblaivaus ar apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmens, arba kai administracinėn atsakomybėn traukiamas asmuo vengė pasitikrinti dėl apsvaigimo, vartojo alkoholį (nustatytas daugiau negu 0,4 promilės, bet ne daugiau negu 1,5 promilės neblaivumas), narkotines, psichotropines ar kitas psichiką veikiančias medžiagas po veikos padarymo ar iki jos aplinkybių nustatymo, administracinėn atsakomybėn traukiamo asmens teisė vairuoti transporto priemones sustabdoma tol, kol administracinio nusižengimo byloje įsiteisėja galutinis sprendimas ir apie tai įrašoma administracinio nusižengimo protokole. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
+Straipsnio dalies pakeitimai:
+Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
  
 
 
@@ -19316,14 +19299,15 @@ Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 
 
 
-603 straipsnis. Priverstinis transporto priemonės nuvežimas 
+603 straipsnis. Priverstinis transporto priemonės nuvežimas
 
 
-Padarius šio kodekso 417 straipsnio 2 dalyje (sustojimas ar stovėjimas vietose, kuriose pagal Kelių eismo taisykles draudžiama sustoti ar stovėti, sustojimas ar stovėjimas nesilaikant kelio ženklų ir ženklinimo reikalavimų), 420 straipsnyje, 422 straipsnio 2, 3, 4, 5, 6, 7 dalyse, 423 straipsnyje, 424 straipsnio 2, 3, 4 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427 straipsnyje numatytus administracinius nusižengimus, kai tai trukdo saugiam transporto priemonių ar pėsčiųjų eismui, kelia grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei arba kitaip pažeidžia kitų asmenų teises, taip pat padarius nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, policijos pareigūnai turi teisę Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka priverstinai nuvežti transporto priemonę. Nuvežtą transporto priemonę leidžiama susigrąžinti pašalinus grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei, trukdymą saugiam transporto priemonių ar pėsčiųjų eismui, kitų asmenų teisių pažeidimą. Padarius nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, transporto priemonė grąžinama (išskyrus atvejus, kai ji konfiskuojama) tik po to, kai išnagrinėjama administracinio nusižengimo byla. Apie transporto priemonės grąžinimą pažymima nutarime. Kai transporto priemonė nuosavybės teise priklauso ne administracinėn atsakomybėn traukiamam asmeniui, ji grąžinama jos savininkui (valdytojui) institucijos, kurios pareigūnas surašė administracinio nusižengimo protokolą, vadovo ar jo įgalioto asmens sprendimu iki administracinio nusižengimo bylos išnagrinėjimo, jeigu tai nepakenks administracinio nusižengimo teisenai. Šiuo atveju transporto priemonės savininkas (valdytojas) privalo užtikrinti, kad transporto priemonė nebūtų parduota ar kitaip perleista kitiems asmenims iki nutarimo administracinio nusižengimo byloje apskundimo termino pabaigos (apskundus nutarimą – iki galutinio teismo nutarimo (nutarties) įsiteisėjimo), o įsiteisėjus nutarimui konfiskuoti transporto priemonę – iki nutarimo vykdymo, taip pat užtikrinti, kad transporto priemonė būtų Lietuvos Respublikos teritorijoje nuo nutarimo konfiskuoti transporto priemonę įsiteisėjimo dienos.
+Padarius šio kodekso 417 straipsnio 2 dalyje (sustojimas ar stovėjimas vietose, kuriose pagal Kelių eismo taisykles draudžiama sustoti ar stovėti, sustojimas ar stovėjimas nesilaikant kelio ženklų ir ženklinimo reikalavimų), 420 straipsnyje, 422 straipsnio 2, 3, 4, 5 dalyse, 423 straipsnyje, 424 straipsnio 2, 3, 4 dalyse, 426 straipsnio 1, 2, 4, 5 dalyse, 427 straipsnyje numatytus administracinius nusižengimus, kai tai trukdo saugiam transporto priemonių ar pėsčiųjų eismui, kelia grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei arba kitaip pažeidžia kitų asmenų teises, taip pat padarius nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, policijos pareigūnai turi teisę Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka priverstinai nuvežti transporto priemonę. Nuvežtą transporto priemonę leidžiama susigrąžinti pašalinus grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei, trukdymą saugiam transporto priemonių ar pėsčiųjų eismui, kitų asmenų teisių pažeidimą. Padarius nusižengimą, už kurį pagal šį kodeksą gali būti skiriamas transporto priemonės konfiskavimas, transporto priemonė grąžinama (išskyrus atvejus, kai ji konfiskuojama) tik po to, kai išnagrinėjama administracinio nusižengimo byla. Apie transporto priemonės grąžinimą pažymima nutarime. Kai transporto priemonė nuosavybės teise priklauso ne administracinėn atsakomybėn traukiamam asmeniui, ji grąžinama jos savininkui (valdytojui) institucijos, kurios pareigūnas surašė administracinio nusižengimo protokolą, vadovo ar jo įgalioto asmens sprendimu iki administracinio nusižengimo bylos išnagrinėjimo, jeigu tai nepakenks administracinio nusižengimo teisenai. Šiuo atveju transporto priemonės savininkas (valdytojas) privalo užtikrinti, kad transporto priemonė nebūtų parduota ar kitaip perleista kitiems asmenims iki nutarimo administracinio nusižengimo byloje apskundimo termino pabaigos (apskundus nutarimą – iki galutinio teismo nutarimo (nutarties) įsiteisėjimo), o įsiteisėjus nutarimui konfiskuoti transporto priemonę – iki nutarimo vykdymo, taip pat užtikrinti, kad transporto priemonė būtų Lietuvos Respublikos teritorijoje nuo nutarimo konfiskuoti transporto priemonę įsiteisėjimo dienos. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
  
 
 
@@ -23168,6 +23152,11 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 328, 329, 589 ir 610
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1994, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04395
 Lietuvos Respublikos administracinių nusižengimų kodekso 128 ir 589 straipsnių pakeitimo įstatymas
+ 
+74.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1931, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00862
+Lietuvos Respublikos administracinių nusižengimų kodekso 28, 71, 420, 422, 423, 424, 427, 602 ir 603 straipsnių pakeitimo įstatymas
  
  
 
