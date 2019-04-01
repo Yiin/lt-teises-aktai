@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-03-31
+Suvestinė redakcija nuo 2019-04-01 iki 2019-04-02
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -4005,9 +4005,10 @@ Kardomosios priemonės gali būti skiriamos siekiant užtikrinti įtariamojo, ka
 120 straipsnis. Kardomųjų priemonių rūšys
 
 
-1. Kardomosios priemonės yra šios: suėmimas, intensyvi priežiūra, namų areštas, įpareigojimas gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu, užstatas, dokumentų paėmimas, įpareigojimas periodiškai registruotis policijos įstaigoje, rašytinis pasižadėjimas neišvykti. 
+1. Kardomosios priemonės yra šios: suėmimas, intensyvi priežiūra, namų areštas, įpareigojimas gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu, užstatas, dokumentų paėmimas, specialiosios teisės sustabdymas, įpareigojimas periodiškai registruotis policijos įstaigoje, rašytinis pasižadėjimas neišvykti. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
+Nr. XIII-1956, 2019-01-15, paskelbta TAR 2019-01-21, i. k. 2019-00868
  
 
 
@@ -4027,9 +4028,10 @@ Nr. XII-498, 2013-07-02, Žin., 2013, Nr. 75-3769 (2013-07-13)
 121 straipsnis. Kardomųjų priemonių skyrimo bendrosios nuostatos
 
 
-1. Suėmimas, intensyvi priežiūra, namų areštas ir įpareigojimas gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu gali būti paskirti tik ikiteisminio tyrimo teisėjo ar teismo nutartimi, kitos kardomosios priemonės prokuroro nutarimu, ikiteisminio tyrimo teisėjo ar teismo nutartimi, o kardomosios priemonės: dokumentų paėmimas, įpareigojimas periodiškai registruotis policijos įstaigoje, rašytinis pasižadėjimas neišvykti, kario karinio dalinio, kuriame jis tarnauja, vadovybės stebėjimas ir nepilnamečio atidavimas tėvams, rūpintojams arba kitiems fiziniams ar juridiniams asmenims, kurie rūpinasi vaikais, prižiūrėti, – neatidėliotinais atvejais gali būti paskirtos ikiteisminio tyrimo pareigūno nutarimu. Tokiu atveju ikiteisminio tyrimo pareigūnas privalo nedelsdamas raštu apie paskirtą kardomąją priemonę pranešti prokurorui. 
+1. Suėmimas, intensyvi priežiūra, namų areštas ir įpareigojimas gyventi skyrium nuo nukentėjusiojo ir (ar) nesiartinti prie nukentėjusiojo arčiau nei nustatytu atstumu gali būti paskirti tik ikiteisminio tyrimo teisėjo ar teismo nutartimi, kitos kardomosios priemonės – prokuroro nutarimu, ikiteisminio tyrimo teisėjo ar teismo nutartimi, o kardomosios priemonės: dokumentų paėmimas, specialiosios teisės sustabdymas, įpareigojimas periodiškai registruotis policijos įstaigoje, rašytinis pasižadėjimas neišvykti, kario karinio dalinio, kuriame jis tarnauja, vadovybės stebėjimas ir nepilnamečio atidavimas tėvams, rūpintojams arba kitiems fiziniams ar juridiniams asmenims, kurie rūpinasi vaikais, prižiūrėti, – neatidėliotinais atvejais gali būti paskirtos ikiteisminio tyrimo pareigūno nutarimu. Tokiu atveju ikiteisminio tyrimo pareigūnas privalo nedelsdamas raštu apie paskirtą kardomąją priemonę pranešti prokurorui. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1677, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07564
+Nr. XIII-1956, 2019-01-15, paskelbta TAR 2019-01-21, i. k. 2019-00868
  
 
 
@@ -4640,6 +4642,24 @@ Dokumentų paėmimas kaip kardomoji priemonė gali būti skiriamas prokuroro nut
 
 Straipsnio pakeitimai:
 Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
+ 
+
+
+
+
+1341 straipsnis. Specialiosios teisės sustabdymas
+
+
+1. Specialiosios teisės sustabdymo laikotarpiu draudžiama naudotis šia teise.
+
+
+
+
+2. Asmeniui, kuriam paskirtas specialiosios teisės sustabdymas, pažeidusiam šią kardomąją priemonę, kartu su specialiosios teisės sustabdymu gali būti paskirta griežtesnė kardomoji priemonė. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1956, 2019-01-15, paskelbta TAR 2019-01-21, i. k. 2019-00868
  
 
 
@@ -16005,3 +16025,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 51 straipsnio ir priedo pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1845, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21875
 Lietuvos Respublikos baudžiamojo proceso kodekso 212 ir 217 straipsnių pakeitimo įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1956, 2019-01-15, paskelbta TAR 2019-01-21, i. k. 2019-00868
+Lietuvos Respublikos baudžiamojo proceso kodekso 120, 121 straipsnių pakeitimo ir Kodekso papildymo 134-1 straipsniu įstatymas
