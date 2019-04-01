@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-03-31
+Suvestinė redakcija nuo 2019-04-01 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
  
@@ -25,8 +25,7 @@ LIETUVOS RESPUBLIKOS ĮSTATYMAS
 1995 m. gegužės 9 d. Nr. I-886
 Vilnius
  
-LIETUVOS RESPUBLIKOS
-KONSULINIS STATUTAS
+LIETUVOS RESPUBLIKOS KONSULINIS STATUTAS
  
 
 
@@ -358,7 +357,9 @@ Nr. XIII-1116, 2018-04-24, paskelbta TAR 2018-04-30, i. k. 2018-06901
 
 
 
-3. Stichinės nelaimės, katastrofos, teroro akto, masinių riaušių, karo ar ginkluoto konflikto atveju arba tokiai padėčiai gresiant, Valstybinis turizmo departamentas prie Lietuvos Respublikos ūkio ministerijos nuolat informuoja Lietuvos Respublikos užsienio reikalų ministeriją apie Lietuvos Respublikos piliečius, esančius krizės zonoje, ir apie padėtį krizės zonoje.
+3. Neteko galios 2019-04-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1992, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04587
  
 
 
@@ -1131,3 +1132,8 @@ Lietuvos Respublikos konsulinio statuto 1, 2, 10, 11, 14, 22, 27, 38 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1394, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12065
 Lietuvos Respublikos konsulinio statuto 3 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1992, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04587
+Lietuvos Respublikos konsulinio statuto 14 straipsnio pakeitimo įstatymas
