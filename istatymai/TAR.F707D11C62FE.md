@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F707D11C62FE"
 
 # Lietuvos Respublikos tarptautinių sankcijų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-03-31
+Suvestinė redakcija nuo 2019-04-01 iki 2022-04-26
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 68-2369, i. k. 1041010ISTA0IX-2160
  
@@ -292,9 +292,10 @@ TARPTAUTINIŲ SANKCIJŲ ĮGYVENDINIMO ADMINISTRAVIMAS IR ĮGYVENDINIMO PRIEŽIŪ
 1. Už tarptautinių sankcijų įgyvendinimo priežiūrą pagal kompetenciją yra atsakingos šios institucijos:
 
 
-1) Lietuvos Respublikos užsienio reikalų ministerija, Lietuvos Respublikos ūkio ministerija, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Lietuvos bankas – už ekonominių sankcijų įgyvendinimo priežiūrą; 
+1) Lietuvos Respublikos užsienio reikalų ministerija, Lietuvos Respublikos ekonomikos ir inovacijų ministerija, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Lietuvos bankas – už ekonominių sankcijų įgyvendinimo priežiūrą; 
 Straipsnio punkto pakeitimai:
 Nr. XI-1693, 2011-11-17, Žin., 2011, Nr. 146-6839 (2011-12-01), i. k. 1111010ISTA0XI-1693
+Nr. XIII-1991, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04586
  
 
 
@@ -308,7 +309,10 @@ Nr. XI-1693, 2011-11-17, Žin., 2011, Nr. 146-6839 (2011-12-01), i. k. 1111010IS
 
 
 
-3) Lietuvos Respublikos Vyriausybė ir ministerijos, Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Valstybinis turizmo departamentas prie Lietuvos Respublikos ūkio ministerijos – už politinių sankcijų įgyvendinimo priežiūrą;
+3) Lietuvos Respublikos Vyriausybė ir ministerijos, Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos – už politinių sankcijų įgyvendinimo priežiūrą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1991, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04586
+ 
 
 
 
@@ -321,9 +325,10 @@ Nr. XIII-1567, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17487
 
 
 
-5) Lietuvos Respublikos kultūros ministerija, Lietuvos Respublikos švietimo, mokslo ir sporto ministerija, Valstybinis turizmo departamentas prie Lietuvos Respublikos ūkio ministerijos – už visuomeninių sankcijų įgyvendinimo priežiūrą.
+5) Lietuvos Respublikos kultūros ministerija, Lietuvos Respublikos švietimo, mokslo ir sporto ministerija – už visuomeninių sankcijų įgyvendinimo priežiūrą.
 Straipsnio punkto pakeitimai:
 Nr. XIII-1552, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17467
+Nr. XIII-1991, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04586
  
 
 
@@ -414,7 +419,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 LAIKINAI EINANTIS
-RESPUBLIKOS PREZIDENTO PAREIGAS                                  ARTŪRAS PAULAUSKAS
+RESPUBLIKOS PREZIDENTO PAREIGAS                                    ARTŪRAS PAULAUSKAS
 
 
  
@@ -434,4 +439,9 @@ Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1567, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17487
+Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymo Nr. IX-2160 12 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1991, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04586
 Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymo Nr. IX-2160 12 straipsnio pakeitimo įstatymas
