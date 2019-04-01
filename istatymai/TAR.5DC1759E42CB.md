@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2019-03-31
+Suvestinė redakcija nuo 2019-04-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -296,7 +296,11 @@ Bendrosios nuostatos
 45. Papildomas vairuotojų mokymas – Susisiekimo ministerijos arba jos įgaliotos institucijos nustatyta tvarka organizuojamas ir vykdomas mokymas:
 
 
-1) pradedančiųjų vairuotojų, pažeidusių KET reikalavimą (reikalavimus) vykdyti vairuotojų pareigas pėstiesiems, laikytis lenkimo taisyklių, vairuojant nesinaudoti mobiliojo ryšio priemonėmis, laikytis eismo reguliavimo signalų, KET nustatyta tvarka naudoti įspėjamuosius signalus, laikytis važiavimo per sankryžas tvarkos, vairuotojams naudoti saugos diržus, motociklininko šalmus, neviršyti nustatyto greičio daugiau kaip 10 km/h, nevairuoti transporto priemonių neblaiviems, kai nustatomas lengvas neblaivumo laipsnis (daugiau kaip 0 promilių, bet ne daugiau kaip 0,4 promilės), taip pat sukėlusių eismo įvykį, per kurį buvo sutrikdyta eismo dalyvių sveikata;
+1) pradedančiųjų vairuotojų, pažeidusių KET reikalavimą (reikalavimus) vykdyti vairuotojų pareigas pėstiesiems, laikytis lenkimo taisyklių, vairuojant nesinaudoti mobiliojo ryšio priemonėmis, laikytis eismo reguliavimo signalų, KET nustatyta tvarka naudoti įspėjamuosius signalus, laikytis važiavimo per sankryžas tvarkos, vairuotojams naudoti saugos diržus, motociklininko šalmus, neviršyti nustatyto greičio daugiau kaip 10 km/h, nevairuoti transporto priemonių neblaiviems, kai nustatomas daugiau kaip 0 promilių, bet ne daugiau kaip 0,4 promilės neblaivumas, taip pat sukėlusių eismo įvykį, per kurį buvo sutrikdyta eismo dalyvių sveikata (išskyrus atvejus, kai eismo įvykis sukeltas esant baudžiamąją atsakomybę šalinančioms aplinkybėms arba aplinkybėms, kai asmuo netraukiamas administracinėn atsakomybėn);
+Straipsnio punkto pakeitimai:
+Nr. XIII-1539, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16597
+Nr. XIII-1966, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02746
+ 
 
 
 
@@ -1996,7 +2000,11 @@ Nr. XIII-491, 2017-06-22, paskelbta TAR 2017-06-30, i. k. 2017-11221
 
 
 
-5. Pradedantiesiems vairuotojams išduodamas 2 metus galiojantis vairuotojo pažymėjimas, kurį jie vidaus reikalų ministro ar jo įgaliotos institucijos nustatyta tvarka turės teisę pakeisti į 10 metų galiojantį vairuotojo pažymėjimą nebaigę papildomo vairuotojų mokymo, jeigu per 2 metus nepažeidė KET reikalavimo (reikalavimų), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, arba nesukėlė eismo įvykio, dėl kurio buvo sutrikdyta eismo dalyvio sveikata. Pradedantysis vairuotojas, pažeidęs KET reikalavimą (reikalavimus), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, papildomą vairuotojų mokymą privalo baigti per vienus metus nuo pažeidimo padarymo datos.
+5. Pradedantiesiems vairuotojams išduodamas 3 metus galiojantis vairuotojo pažymėjimas, kurį jie vidaus reikalų ministro ar jo įgaliotos institucijos nustatyta tvarka po 2 metų nuo jo išdavimo dienos turės teisę pakeisti į 10 metų galiojantį vairuotojo pažymėjimą nebaigę papildomo vairuotojų mokymo, jeigu per 2 metus nuo pradedantiesiems vairuotojams išduodamo vairuotojo pažymėjimo išdavimo dienos nepažeidė KET reikalavimo (reikalavimų), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, arba nesukėlė eismo įvykio, dėl kurio buvo sutrikdyta eismo dalyvio sveikata (išskyrus atvejus, kai eismo įvykis sukeltas esant baudžiamąją atsakomybę šalinančioms aplinkybėms arba aplinkybėms, kai asmuo netraukiamas administracinėn atsakomybėn). Vairuotojas, kuris, būdamas pradedantysis vairuotojas, pažeidė KET reikalavimą (reikalavimus), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, arba sukėlė eismo įvykį, dėl kurio buvo sutrikdyta eismo dalyvio sveikata (išskyrus atvejus, kai eismo įvykis sukeltas esant baudžiamąją atsakomybę šalinančioms aplinkybėms arba aplinkybėms, kai asmuo netraukiamas administracinėn atsakomybėn), papildomą vairuotojų mokymą privalo baigti per vienus metus nuo nutarimo (teismo nuosprendžio), kuriuo asmuo pripažintas padariusiu teisės pažeidimą, įsiteisėjimo dienos ar nuo administracinio nurodymo, surašyto padarius administracinį nusižengimą, įvykdymo dienos. Tais atvejais, kai teismo nuosprendžiu ar baudžiamuoju įsakymu skiriamas areštas arba terminuotas laisvės atėmimas ir paskirtos bausmės vykdymas neatidėtas, papildomą vairuotojų mokymą privaloma baigti per vienus metus nuo paskirtos bausmės atlikimo. 
+TAR pastaba. 22 straipsnio 5 dalies nuostatos pradedantiesiems vairuotojams, kuriems vairuotojo pažymėjimas išduotas iki įstatymo Nr. XIII-1539 įsigaliojimo dienos (2019-04-01), netaikomos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1539, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16597
+ 
 
 
 
@@ -2330,7 +2338,10 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 
-3. Asmeniui, kuriam teisė vairuoti transporto priemones buvo atimta dėl KET pažeidimų, teisė vairuoti transporto priemones grąžinama tik jam nustatyta tvarka užbaigus papildomus vairuotojų mokymus.
+3. Asmeniui, kuriam teisė vairuoti transporto priemones buvo atimta dėl KET pažeidimų, teisė vairuoti transporto priemones grąžinama tik jam nustatyta tvarka užbaigus papildomą vairuotojų mokymą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1539, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16597
+ 
 
 
 
@@ -2360,7 +2371,11 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 
 
 
-9. Pradedantysis vairuotojas, per šio įstatymo 22 straipsnio 5 dalyje nustatytus terminus nebaigęs papildomo vairuotojų mokymo, praranda teisę vairuoti transporto priemones ir jo turimas 2 metus galiojęs vairuotojo pažymėjimas nekeičiamas į 10 metų galiojantį vairuotojo pažymėjimą. Šiuo atveju pradedančiajam vairuotojui teisė vairuoti transporto priemones grąžinama tik perlaikius vairavimo egzaminą ir išduodamas 2 metus galiojantis vairuotojo pažymėjimas, kurį jis turės teisę pakeisti į 10 metų galiojantį vairuotojo pažymėjimą šio įstatymo 22 straipsnyje nustatyta tvarka.
+9. Vairuotojas, kuris, būdamas pradedantysis vairuotojas, pažeidė KET reikalavimą (reikalavimus), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, arba sukėlė eismo įvykį, dėl kurio buvo sutrikdyta eismo dalyvio sveikata (išskyrus atvejus, kai eismo įvykis sukeltas esant baudžiamąją atsakomybę šalinančioms aplinkybėms arba aplinkybėms, kai asmuo netraukiamas administracinėn atsakomybėn), ir per šio įstatymo 22 straipsnio 5 dalyje nustatytus terminus nebaigė papildomo vairuotojų mokymo, praranda teisę vairuoti transporto priemones. Šiuo atveju vairuotojui teisė vairuoti transporto priemones grąžinama tik perlaikius vairavimo egzaminą ir išduodamas 3 metus galiojantis vairuotojo pažymėjimas, kurį jis turės teisę pakeisti į 10 metų galiojantį vairuotojo pažymėjimą šio įstatymo 22 straipsnyje nustatyta tvarka. 
+TAR pastaba. 24 straipsnio 9 dalies nuostatos pradedantiesiems vairuotojams, kuriems vairuotojo pažymėjimas išduotas iki įstatymo Nr. XIII-1539 įsigaliojimo dienos (2019-04-01), netaikomos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1539, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16597
+ 
 
 
 Straipsnio pakeitimai:
@@ -2556,9 +2571,10 @@ Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 
 
 
-4. Vidaus reikalų ministro nustatyta tvarka nustačius, kad neatlikta ar negalioja motorinės transporto priemonės ir (ar) priekabos privalomoji techninė apžiūra arba kad motorinė transporto priemonė ir (ar) priekaba neapdrausta transporto priemonių valdytojų civilinės atsakomybės privalomuoju draudimu, arba kad nesumokėti valstybės nustatyti su transporto priemone ar jos dalyvavimu viešajame eisme susiję mokesčiai, Lietuvos Respublikos kelių transporto priemonių registro tvarkytojo sprendimu leidimas tokiai motorinei transporto priemonei ir (ar) priekabai dalyvauti viešajame eisme sustabdomas (išskyrus motorines transporto priemones ir (ar) priekabas, turinčias leidimą nuvykti į transporto priemonių techninės apžiūros įmonę privalomosios techninės apžiūros atlikti). Pašalinus priežastis, lėmusias motorinės transporto priemonės ir (ar) priekabos leidimo dalyvauti viešajame eisme sustabdymą, Lietuvos Respublikos kelių transporto priemonių registro tvarkytojas panaikina šio leidimo sustabdymą ir motorinė transporto priemonė ir (ar) priekaba vėl gali dalyvauti viešajame eisme. Draudimo motorinei transporto priemonei ir (ar) priekabai dalyvauti viešajame eisme metu šių transporto priemonių ir (ar) priekabų valstybinio registracijos numerio ženklai laikomi negaliojančiais. 
+4. Vidaus reikalų ministro nustatyta tvarka nustačius, kad neatlikta ar negalioja motorinės transporto priemonės ir (ar) priekabos privalomoji techninė apžiūra arba kad motorinė transporto priemonė ir (ar) priekaba neapdrausta transporto priemonių valdytojų civilinės atsakomybės privalomuoju draudimu, arba kad nesumokėti valstybės nustatyti su transporto priemone ar jos dalyvavimu viešajame eisme susiję mokesčiai, vidaus reikalų ministro nustatyta tvarka leidimas tokiai motorinei transporto priemonei ir (ar) priekabai dalyvauti viešajame eisme sustabdomas (išskyrus motorines transporto priemones ir (ar) priekabas, turinčias leidimą nuvykti į transporto priemonių techninės apžiūros įmonę privalomosios techninės apžiūros atlikti). Vidaus reikalų ministro nustatyta tvarka nustačius, kad motorinės transporto priemonės ir (ar) priekabos savininkas ir valdytojas išregistruoti iš Juridinių asmenų registro (kai motorinės transporto priemonės ir (ar) priekabos savininkas ar valdytojas yra juridinis asmuo) arba mirę, po 14 dienų nuo šių aplinkybių paaiškėjimo dienos, jeigu per šį laikotarpį neįregistruojamas naujas transporto priemonės savininkas ar valdytojas, vidaus reikalų ministro nustatyta tvarka sustabdomas leidimas tokiai motorinei transporto priemonei ir (ar) priekabai dalyvauti viešajame eisme. Šiuo atveju informacija apie ketinimą sustabdyti leidimą transporto priemonei ir (ar) priekabai dalyvauti viešajame eisme išviešinama vidaus reikalų ministro nustatyta tvarka. Pašalinus priežastis, lėmusias motorinės transporto priemonės ir (ar) priekabos leidimo dalyvauti viešajame eisme sustabdymą (motorinės transporto priemonės ir (ar) priekabos savininko ir valdytojo išregistravimo iš Juridinių asmenų registro ar mirties atveju, įregistravus naują motorinės transporto priemonės ir (ar) priekabos savininką ar valdytoją Lietuvos Respublikos kelių transporto priemonių registre), Lietuvos Respublikos kelių transporto priemonių registro tvarkytojas panaikina šio leidimo sustabdymą ir motorinė transporto priemonė ir (ar) priekaba vėl gali dalyvauti viešajame eisme. Motorinės transporto priemonės ir (ar) priekabos savininko ir valdytojo išregistravimo iš Juridinių asmenų registro ar mirties atveju, iki bus įregistruotas naujas motorinės transporto priemonės ir (ar) priekabos savininkas, bet ne ilgesniam kaip vienų metų laikotarpiui nuo motorinės transporto priemonės ir (ar) priekabos savininko ir valdytojo išregistravimo iš Juridinių asmenų registro ar mirties aplinkybių nustatymo, gali būti registruojamas tik motorinės transporto priemonės ir (ar) priekabos valdytojas. Sustabdžius leidimą motorinei transporto priemonei ir (ar) priekabai dalyvauti viešajame eisme, leidimo sustabdymo metu šių transporto priemonių ir (ar) priekabų valstybinio registracijos numerio ženklai laikomi negaliojančiais. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
+Nr. XIII-1539, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16597
  
 
 
@@ -3371,3 +3387,13 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-974, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21733
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 13 ir 22 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1539, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16597
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 22, 24 ir 27 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1966, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02746
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 22, 24 ir 27 straipsnių pakeitimo įstatymo Nr. XIII-1539 1 straipsnio pakeitimo įstatymas
