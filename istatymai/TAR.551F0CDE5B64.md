@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.551F0CDE5B64"
 
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-03-31
+Suvestinė redakcija nuo 2019-04-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1598, i. k. 0991010ISTAIII-1185
  
@@ -4764,18 +4764,100 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
 
 
-78 straipsnis. Teisė reikalauti taikyti tarpininkui draudimus 
+78 straipsnis. Teisė reikalauti taikyti draudimus ir privalomus nurodymus
 
 
-1. Autorių teisių, gretutinių teisių ir sui generis teisių subjektai, gindami savo teises, turi teisę kreiptis į teismą ir reikalauti uždrausti tarpininkui teikti elektroninių ryšių tinklais paslaugas tretiesiems asmenims, kurie šiomis paslaugomis naudojasi pažeisdami autorių teises, gretutines teises ar sui generis teises. Draudimas teikti šias paslaugas apima su autorių teisių, gretutinių teisių ar sui generis teisių pažeidimu susijusios informacijos perdavimo sustabdymą arba, jei tarpininkas techniškai gali atlikti, tokios informacijos pašalinimą, arba prieigos prie autorių teises, gretutines teises ar sui generis teises pažeidžiančios informacijos panaikinimą. 
+1. Autorių teisių, gretutinių teisių ir sui generis teisių subjektai (toliau šiame straipsnyje – teisių subjektai), gindami savo teises, turi teisę kreiptis į teismą ir reikalauti uždrausti tarpininkui teikti elektroninių ryšių tinklais paslaugas tretiesiems asmenims, kurie šiomis paslaugomis naudojasi pažeisdami autorių teises, gretutines teises ar sui generis teises. Draudimas teikti šias paslaugas apima su autorių teisių, gretutinių teisių ar sui generis teisių pažeidimu susijusios informacijos perdavimo sustabdymą arba, jeigu tarpininkas techniškai tai gali atlikti, tokios informacijos pašalinimą, arba prieigos prie autorių teises, gretutines teises ar sui generis teises pažeidžiančios informacijos panaikinimą. Šioje dalyje nurodytu tarpininku laikomas fizinis arba juridinis asmuo, įskaitant Lietuvos Respublikoje įregistruotus užsienio juridinio asmens filialą ar atstovybę, teikiantis elektroninių ryšių tinklais paslaugas, kurias sudaro trečiųjų asmenų pateiktos informacijos perdavimas elektroninių ryšių tinklais arba galimybės naudotis elektroninių ryšių tinklais suteikimas ir (arba) pateiktos informacijos saugojimas.
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodytu tarpininku laikomas fizinis arba juridinis asmuo, įskaitant Lietuvos Respublikoje įregistruotus užsienio juridinio asmens filialą ar atstovybę, teikiantis elektroninių ryšių tinklais paslaugas, kurias sudaro trečiųjų asmenų pateiktos informacijos perdavimas elektroninių ryšių tinklais arba galimybės naudotis elektroninių ryšių tinklais suteikimas ir (arba) pateiktos informacijos saugojimas. 
+2. Teisių subjektai, jų įgalioti asmenys ar kolektyvinio administravimo organizacijos (be atskiro kolektyviai administruojamų teisių subjektų įgaliojimo), gindami savo teises, pagal įgaliojimą atstovaujamų teisių subjektų teises ar kolektyviai administruojamas teises į kūrinius ar gretutinių teisių objektus, taip pat turi teisę kreiptis į Lietuvos radijo ir televizijos komisiją su prašymu taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams, teikiantiems paslaugas tretiesiems asmenims, kurie šiomis paslaugomis naudojasi vykdydami veiklą, kuria kūriniai, gretutinių teisių ar sui generis teisių objektai (toliau šiame straipsnyje – autorių teisių saugomas turinys) neteisėtai viešai paskelbiami viešo naudojimo kompiuterių tinklais (internete). Šioje dalyje nurodytais interneto prieigos paslaugų teikėjais laikomi fiziniai arba juridiniai asmenys, įskaitant Lietuvos Respublikoje įregistruotus užsienio juridinio asmens filialus ar atstovybes, kurie teikia interneto prieigos paslaugas (toliau šiame straipsnyje – interneto prieigos paslaugų teikėjai).
+
+
+
+
+3. Lietuvos radijo ir televizijos komisija, įgyvendindama šio straipsnio 2 dalyje numatytas nuostatas, turi teisę duoti interneto prieigos paslaugų teikėjams privalomus nurodymus panaikinti galimybę pasiekti neteisėtai viešai paskelbtą autorių teisių saugomą turinį, blokuojant interneto domeno vardą, identifikuojantį interneto svetainę, tol, kol nepašalinamas autorių teisių saugomo turinio pažeidimas. 
+
+
+
+
+4. Lietuvos radijo ir televizijos komisija šio straipsnio 2 dalyje numatytiems interneto prieigos paslaugų teikėjams gali taikyti šio straipsnio 3 dalyje numatytus privalomus nurodymus tik nustačiusi, kad teisių subjektai, jų įgalioti asmenys ar kolektyvinio administravimo organizacijos prieš tai išnaudojo neteismines priemones siekdami, kad būtų nutrauktas autorių teisių saugomo turinio viešas skelbimas viešo naudojimo kompiuterių tinkluose (internete). Jeigu Lietuvos radijo ir televizijos komisija nustato, kad neteisminės priemonės neišnaudotos, ji pateikia teisių subjektams, jų įgaliotiems asmenims ar kolektyvinio administravimo organizacijoms siūlymus ir rekomendacijas dėl jų taikymo.
+
+
+
+
+5. Teisių subjektų, jų įgaliotų asmenų ar kolektyvinio administravimo organizacijų Lietuvos radijo ir televizijos komisijai teikiami prašymai taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams turi būti pagrįsti objektyviais duomenimis (faktais) ir juos pagrindžiančiais dokumentais. Preziumuojama, kad prašymuose taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams nurodytas autorių teisių saugomas turinys viešoje interneto prieigoje (interneto svetainėje) yra viešai paskelbtas neteisėtai. Prašymo taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams formą bei turinio reikalavimus ir prašymų nagrinėjimo tvarką nustato Lietuvos radijo ir televizijos komisija.
+
+
+
+
+6. Lietuvos radijo ir televizijos komisija gautus prašymus nagrinėja ir sprendimus priima vadovaudamasi šio Įstatymo 6 straipsnio 2 dalyje numatyta autorystės prezumpcija, šio Įstatymo 51 straipsnio 3 dalyje numatyta gretutinių teisių turėjimo prezumpcija, taip pat atsižvelgdama į šiuos vertinimo kriterijus, kurių reikšmingumą įvertina kiekvienu konkrečiu atveju:
+
+
+1) vieša interneto prieiga (interneto svetainė) sukurta ir naudojama autorių teisių saugomo turinio neteisėtam viešam paskelbimui;
+
+
+
+
+2) viešoje interneto prieigoje (interneto svetainėje) vartotojai tiesiogiai ar netiesiogiai skatinami neteisėtai viešai skelbti autorių teisių saugomą turinį, jį atsisiųsti, atgaminti ar kitaip naudoti;
+
+
+
+
+3) viešą interneto prieigą (interneto svetainę) administruojantis asmuo nesiėmė priemonių pagal teisių subjekto, jo įgalioto asmens ar kolektyvinio administravimo organizacijos pateiktą prašymą pašalinti neteisėtai viešai paskelbtą autorių teisių saugomą turinį.
+
+
+
+
+
+
+7. Lietuvos radijo ir televizijos komisija, nagrinėdama teisių subjektų, jų įgaliotų asmenų ar kolektyvinio administravimo organizacijų pateiktus prašymus taikyti privalomus nurodymus tarpininkams, turi teisę:
+
+
+1) reikalauti, kad pareiškėjai pateiktų papildomus paaiškinimus dėl aplinkybių, sudarančių privalomų nurodymų tarpininkams taikymo pagrindą, ir (ar) jas pagrindžiančius dokumentus;
+
+
+
+
+2) imtis priemonių, būtinų patikrinti, ar konkretus autorių teisių saugomas turinys yra viešai paskelbtas nurodytoje viešoje interneto prieigoje (interneto svetainėje), įskaitant atlikti veiksmus, reikalingus gauti naudojimosi vieša interneto prieiga (interneto svetaine) teises;
+
+
+
+
+3) peržiūrėti ir (ar) užfiksuoti viešai prieinamą apie šią interneto prieigą (interneto svetainę) skleidžiamą informaciją;
+
+
+
+
+4) atlikti kitus tyrimo veiksmus, reikalingus įvertinti šio straipsnio 6 dalyje nurodytus kriterijus ir jų reikšmingumą.
+
+
+
+
+
+
+8. Lietuvos radijo ir televizijos komisija, įvertinusi teisių subjekto, jo įgalioto asmens ar kolektyvinio administravimo organizacijos pateiktą prašymą, numatytą šio straipsnio 2 dalyje, ir siekdama taikyti šio straipsnio 3 dalyje numatytus privalomus nurodymus interneto prieigos paslaugų teikėjui, ne vėliau kaip per 14 kalendorinių dienų nuo visų dokumentų gavimo dienos priima sprendimą dėl privalomų nurodymų taikymo vadovaudamasi Lietuvos Respublikos visuomenės informavimo įstatymo 47 straipsnio 12, 13 ir 14 dalimis. Lietuvos radijo ir televizijos komisijos sprendimą taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams turi sankcionuoti Vilniaus apygardos administracinis teismas. Prašymas sankcionuoti Lietuvos radijo ir televizijos komisijos sprendimą turi būti pagrįstas objektyviais duomenimis (faktais), juos pagrindžiančiais dokumentais ir teisės aktų normomis, jame turi būti nurodytas interneto svetainę identifikuojantis domeno vardas ir numatomi atlikti veiksmai (privalomi nurodymai). 
+
+
+
+
+9. Vilniaus apygardos administracinis teismas Lietuvos radijo ir televizijos komisijos prašymą sankcionuoti Lietuvos radijo ir televizijos komisijos sprendimą išnagrinėja ir priima motyvuotą nutartį šį prašymą patenkinti arba atmesti ne vėliau kaip per 3 kalendorines dienas nuo prašymo gavimo dienos. Jeigu Lietuvos radijo ir televizijos komisija nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą, ji turi teisę per 7 kalendorines dienas nuo tokios nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7 kalendorines dienas nuo skundo priėmimo dienos.
+
+
+
+
+10. Pašalinus autorių teisių saugomo turinio pažeidimą ir apie tai pateikus informaciją Lietuvos radijo ir televizijos komisijai, prieiga prie užblokuoto interneto domeno vardo, identifikuojančio interneto svetainę, atnaujinama per 5 darbo dienas nuo informacijos apie pašalintą autorių teisių saugomo turinio pažeidimą gavimo dienos.
+
+
+
+
+11. Privalomų nurodymų taikymo interneto prieigos paslaugų teikėjams tvarką nustato Vyriausybė ar jos įgaliota institucija. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
  
-
-
 
 
 
