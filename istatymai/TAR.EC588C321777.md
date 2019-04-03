@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2019-04-01 iki 2019-04-02
+Suvestinė redakcija nuo 2019-04-03 iki 2019-07-05
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -66,6 +66,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS
+ 
 
 
 
@@ -12033,6 +12034,34 @@ Nr. XII-1820, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11076
 
 
 
+3601 straipsnis. Laisvės atėmimo iki gyvos galvos bausmės pakeitimo terminuoto laisvės atėmimo bausme tvarka
+
+
+1. Lietuvos Respublikos baudžiamojo kodekso 51 straipsnio 2 dalyje nurodytu atveju klausimą dėl nuteistajam paskirtos laisvės atėmimo iki gyvos galvos bausmės pakeitimo terminuoto laisvės atėmimo bausme nagrinėja ir motyvuota nutartimi išsprendžia bausmės atlikimo vietos apygardos teismo trijų teisėjų kolegija pagal bausmę vykdančios institucijos teikimą. Nagrinėjant klausimą dėl laisvės atėmimo iki gyvos galvos bausmės pakeitimo terminuoto laisvės atėmimo bausme, teismo posėdyje dalyvauja prokuroras ir bausmę vykdančios institucijos atstovas. Dalyvauti šiame teismo posėdyje šaukiamas nuteistasis ir nuteistojo prašymu gynėjas, nukentėjusysis arba jo atstovas, tačiau šių asmenų neatvykimas į teismo posėdį nesustabdo klausimo nagrinėjimo, jeigu teismas nepripažįsta, kad jiems dalyvauti būtina.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytu atveju klausimo nagrinėjimas pradedamas posėdžio pirmininko pranešimu. Po to teismas išklauso į posėdį atvykusius asmenis.
+
+
+
+
+3. Teismo nutarties nuorašai ne vėliau kaip kitą darbo dieną nuo nutarties priėmimo išsiunčiami prokurorui, bausmę vykdančiai institucijai, nuteistajam, jo gynėjui, nukentėjusiajam ar jo atstovui.
+
+
+
+
+4. Teismo nutartį turi teisę apskųsti prokuroras, nuteistasis ar jo gynėjas, nukentėjusysis ar jo atstovas. Nutartis skundžiama ir skundas nagrinėjamas šio Kodekso 364 straipsnyje nustatyta tvarka. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2006, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05332
+ 
+
+
+
+
 361 straipsnis. Nuosprendžio vykdymo metu kylančių abejonių ir neaiškumų pašalinimas
 
 
@@ -13224,8 +13253,6 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-3. Kasacinės bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu.
-3 dalies redakcija nuo Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolo Nr. 16 įsigaliojimo Lietuvos Respublikai dienos (2018-08-01):
 3. Kasacinės bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu, arba jei prireikia prašyti Europos žmogaus teisių teismo konsultacinės išvados dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu.
 Straipsnio dalies pakeitimai:
 Nr. XII-1773, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09616
@@ -16030,3 +16057,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 212 ir 217 straipsnių pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1956, 2019-01-15, paskelbta TAR 2019-01-21, i. k. 2019-00868
 Lietuvos Respublikos baudžiamojo proceso kodekso 120, 121 straipsnių pakeitimo ir Kodekso papildymo 134-1 straipsniu įstatymas
+ 
+41.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2006, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05332
+Lietuvos Respublikos baudžiamojo proceso kodekso papildymo 360-1 straipsniu įstatymas
