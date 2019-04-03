@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-02
+Suvestinė redakcija nuo 2019-04-03 iki 2019-04-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -1528,6 +1528,10 @@ ENERGETIKOS SEKTORIAUS PLĖTRA
 
 
 5. Vadovaudamasi Seimo patvirtinta Strategija, Vyriausybė tvirtina Nacionalinę atsinaujinančių energijos išteklių plėtros programą, kaip nurodyta Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme. Vyriausybė užtikrina Strategijos ir Nacionalinės atsinaujinančių energijos išteklių plėtros programos suderinamumą.
+TAR pastaba. 5 dalis netenka galios 2019-06-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2018, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05353
+ 
 
 
 
@@ -2080,7 +2084,30 @@ Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
 
 
-3. Draudžiamasis įvykis yra elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens civilinės atsakomybės atsiradimas už elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiksmų (veikimo ar neveikimo), atliktų draudimo sutarties galiojimo metu, pasekmes, net jeigu šios pasekmės atsirado pasibaigus draudimo sutarčiai.
+3. Draudžiamasis įvykis yra elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens civilinės atsakomybės atsiradimas už elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiksmų (veikimo ar neveikimo), dėl kurių atsirado žala, atlikimą ir reikalavimo atlyginti žalą draudėjui arba draudikui už užsakovui ir (ar) trečiajam asmeniui padarytą žalą dėl šioje dalyje nurodytų draudėjo veiksmų pateikimas, jeigu yra visos šios sąlygos:
+
+
+1) elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiklos atestatą turinčio asmens elektros įrenginių įrengimo ir (ar) gamtinių dujų įrenginių įrengimo veiksmai atliekami ir (ar) atlikti Lietuvos Respublikos teritorijoje draudimo sutarties galiojimo metu;
+
+
+
+
+2) reikalavimas pateiktas kaip rašytinė pretenzija arba ieškinys;
+
+
+
+
+3) reikalavimas pareikštas dėl žalos, kuri atsirado draudimo sutarties galiojimo metu ir (ar) per draudimo sutarties šalių nustatytą terminą, ne trumpesnį negu 24 mėnesiai po draudimo sutarties galiojimo pabaigos;
+
+
+
+
+4) reikalavimas pareikštas draudimo sutarties galiojimo metu ir (ar) per draudimo sutarties šalių nustatytą terminą, ne trumpesnį negu 24 mėnesiai po draudimo sutarties galiojimo pabaigos.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2018, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05353
+ 
 
 
 
@@ -3739,3 +3766,8 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 6, 9 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 9, 21, 22, 28 straipsnių pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2018, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05353
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 14 ir 22-1 straipsnių pakeitimo įstatymas
