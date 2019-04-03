@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2019-04-01 iki 2019-04-02
+Suvestinė redakcija nuo 2019-04-03 iki 2019-07-05
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -2024,12 +2024,23 @@ Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)
 
 
 
-2. Jeigu baudžiamasis įstatymas numato galimybę švelninti laisvės atėmimo iki gyvos galvos bausmę, sušvelnintos laisvės atėmimo bausmės terminas negali būti trumpesnis negu dvidešimt penkeri metai.
+2. Nuteistajam atlikus dvidešimt metų laisvės atėmimo iki gyvos galvos bausmės, klausimą dėl jam paskirtos laisvės atėmimo iki gyvos galvos bausmės pakeitimo terminuoto laisvės atėmimo bausme nagrinėja ir išsprendžia teismas pagal bausmę vykdančios institucijos teikimą. Jeigu teismas nusprendžia pakeisti laisvės atėmimo iki gyvos galvos bausmę terminuoto laisvės atėmimo bausme, terminuoto laisvės atėmimo bausmės terminas negali būti trumpesnis negu penkeri ir ilgesnis negu dešimt metų nuo teismo nutarties įsiteisėjimo dienos. Spręsdamas laisvės atėmimo iki gyvos galvos bausmės pakeitimo terminuoto laisvės atėmimo bausme klausimą, teismas atsižvelgia į nuteistojo nusikalstamo elgesio riziką, nuteistojo elgesį bausmės atlikimo metu, bausmės tikslus ir atliktos bausmės poveikį nuteistajam, ar nuteistasis atlygino ar pašalino reikšmingą padarytos žalos dalį ir įsipareigoja ją visiškai atlyginti ar pašalinti. Laisvės atėmimo iki gyvos galvos bausmės pakeitimo terminuoto laisvės atėmimo bausme tvarką nustato Lietuvos Respublikos baudžiamojo proceso kodeksas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2005, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05331
+ 
 
 
 
 
 3. Laisvės atėmimo iki gyvos galvos bausmę nuteistieji atlieka kalėjime. Pirmuosius dešimt metų laisvės atėmimo iki gyvos galvos bausmės atlikę nuteistieji įstatymų nustatytais atvejais ir tvarka gali būti perkelti į pataisos namus. Laisvės atėmimo iki gyvos galvos bausmės atlikimo tvarką ir sąlygas nustato Bausmių vykdymo kodeksas.
+
+
+
+
+4. Šio straipsnio 2 dalyje nurodytas dvidešimties metų laisvės atėmimo iki gyvos galvos bausmės terminas skaičiuojamas nuo kardomojo kalinimo (suėmimo) taikymo arba paskirtos laisvės atėmimo iki gyvos galvos bausmės atlikimo pradžios. Jeigu nuteistasis laisvės atėmimo iki gyvos galvos bausmės atlikimo metu padaro naują tyčinį nusikaltimą, šio straipsnio 2 dalyje nurodyto dvidešimties metų termino skaičiavimo eiga nutrūksta ir terminas pradedamas skaičiuoti iš naujo nuo tyčinio nusikaltimo padarymo dienos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2005, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05331
+ 
 
 
 Straipsnio pakeitimai:
@@ -4137,7 +4148,10 @@ c) aštuonerius metus, jeigu jie nuteisti už labai sunkų nusikaltimą;
 
 
 
-d) dešimt metų, jeigu jie yra pavojingi recidyvistai.
+d) dešimt metų, jeigu jie yra pavojingi recidyvistai arba jeigu jiems šio kodekso 51 straipsnio 2 dalyje nurodytu atveju laisvės atėmimo iki gyvos galvos bausmė buvo pakeista terminuoto laisvės atėmimo bausme. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2005, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05331
+ 
 
 
 
@@ -11903,3 +11917,8 @@ Lietuvos Respublikos baudžiamojo kodekso papildymo 39-2 straipsniu įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1929, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00859
 Lietuvos Respublikos baudžiamojo kodekso 68, 281 straipsnių pakeitimo ir Kodekso papildymo 281-1 straipsniu įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2005, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05331
+Lietuvos Respublikos baudžiamojo kodekso 51 ir 97 straipsnių pakeitimo įstatymas
