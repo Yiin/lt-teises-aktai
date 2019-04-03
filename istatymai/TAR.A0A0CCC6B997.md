@@ -18,9 +18,10 @@ PATVIRTINTAS
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2018-07-01 iki 2019-04-02
+Suvestinė redakcija nuo 2019-04-03 iki 2019-07-05
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
  
@@ -60,8 +61,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
- 
+RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
  
 
 
@@ -69,6 +69,9 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+
+ 
 PATVIRTINTAS
 Lietuvos Respublikos 
 2002 m. birželio 27 d.
@@ -1585,7 +1588,10 @@ Nr. IX-2338, 2004-07-08, Žin., 2004, Nr. 115-4278 (2004-07-24)
 
 
 
-3. Turintis teisę išvykti be sargybos arba be palydos ir atitinkantis Kalėjimų departamento direktoriaus nustatytas sąlygas nuteistasis, jeigu iki galimo jo lygtinio paleidimo iš pataisos įstaigos liko ne mažiau kaip šeši mėnesiai, gali būti perkeltas į kitos pataisos įstaigos ar kardomojo kalinimo vietos specialų padalinį (pusiaukelės namus), kuriame nuteistieji intensyviai rengiami lygtiniam paleidimui iš pataisos įstaigos. Į pusiaukelės namus perkelti nuteistieji turi šio Kodekso 91 straipsnio 1 dalies 3, 4, 6, 7 ir 8 punktuose nustatytas teises.
+3. Turintis teisę išvykti be sargybos arba be palydos ir atitinkantis Kalėjimų departamento direktoriaus nustatytas sąlygas nuteistasis, jeigu iki galimo jo lygtinio paleidimo iš pataisos įstaigos liko ne mažiau kaip šeši mėnesiai, gali būti perkeltas į kitos pataisos įstaigos ar kardomojo kalinimo vietos specialų padalinį (pusiaukelės namus), kuriame nuteistieji intensyviai rengiami lygtiniam paleidimui iš pataisos įstaigos. Kai yra pagrindas, į pusiaukelės namus paprastai perkeliami ir šio Kodekso 137 straipsnio 5 dalyje nurodyti nuteistieji, kuriems vienerius metus iki bausmės pabaigos taikoma sustiprinta socialinė reabilitacija. Į pusiaukelės namus perkelti nuteistieji turi šio Kodekso 91 straipsnio 1 dalies 3, 4, 6, 7 ir 8 punktuose nustatytas teises. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2007, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05335
+ 
 
 
 
@@ -3547,7 +3553,10 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 
 
-5. Siekiant palankesnės nuteistųjų socialinės reabilitacijos, pataisos įstaigų ar kardomojo kalinimo vietų specialiuose padaliniuose (pusiaukelės namuose) nuteistieji intensyviai rengiami lygtiniam paleidimui iš pataisos įstaigų.
+5. Siekiant palankesnės nuteistųjų socialinės reabilitacijos, pataisos įstaigų ar kardomojo kalinimo vietų specialiuose padaliniuose (pusiaukelės namuose) nuteistieji intensyviai rengiami lygtiniam paleidimui iš pataisos įstaigų. Nuteistiesiems, kuriems Lietuvos Respublikos baudžiamojo kodekso 51 straipsnio 2 dalyje nurodytu atveju laisvės atėmimo iki gyvos galvos bausmė buvo pakeista terminuoto laisvės atėmimo bausme, bet nebuvo pritaikytas lygtinis paleidimas iš pataisos įstaigos, vienerius metus iki terminuoto laisvės atėmimo bausmės pabaigos turi būti taikoma sustiprinta socialinė reabilitacija (intensyvus rengimas paleidimui iš pataisos įstaigos, taikant sustiprintus socialinės reabilitacijos veiksmus ir priemones). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2007, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05335
+ 
 
 
 
@@ -3784,7 +3793,10 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 
 
-4. Pataisos namuose lengvosios grupės sąlygomis laikomi nuteistieji, kuriems liko ne daugiau kaip vieneri metai iki galimo lygtinio paleidimo iš pataisos įstaigos, teismo nutartimi, priimta pagal pataisos namų administracijos teikimą ir atsižvelgiant į nusikalstamo elgesio riziką, elgesį bausmės atlikimo metu ir kitas reikšmingas aplinkybes, gali būti perkelti į atvirą koloniją tęsti bausmės atlikimo.
+4. Pataisos namuose lengvosios grupės sąlygomis laikomi nuteistieji, kuriems liko ne daugiau kaip vieneri metai iki galimo lygtinio paleidimo iš pataisos įstaigos, teismo nutartimi, priimta pagal pataisos namų administracijos teikimą ir atsižvelgiant į nusikalstamo elgesio riziką, elgesį bausmės atlikimo metu ir kitas reikšmingas aplinkybes, gali būti perkelti į atvirą koloniją tęsti bausmės atlikimo. Kai yra pagrindas, į atvirą koloniją paprastai perkeliami ir šio Kodekso 137 straipsnio 5 dalyje nurodyti nuteistieji, kuriems vienerius metus iki bausmės pabaigos taikoma sustiprinta socialinė reabilitacija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2007, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05335
+ 
 
 
 Straipsnio pakeitimai:
@@ -4398,7 +4410,10 @@ lygtinis paleidimas iš pataisos įstaigŲ
 
 
 
-2) pusę paskirtos laisvės atėmimo bausmės – nuteistieji už dėl neatsargumo padarytus nusikaltimus, kuriems paskirta bausmė viršija šešerius metus, taip pat kiti nuteistieji, kuriems paskirta bausmė viršija trejus metus laisvės atėmimo, bet neviršija dešimties metų laisvės atėmimo;
+2) pusę paskirtos laisvės atėmimo bausmės – nuteistieji už dėl neatsargumo padarytus nusikaltimus, kuriems paskirta bausmė viršija šešerius metus, taip pat nuteistieji, kuriems paskirta bausmė viršija trejus metus laisvės atėmimo, bet neviršija dešimties metų laisvės atėmimo, taip pat nuteistieji, kuriems Lietuvos Respublikos baudžiamojo kodekso 51 straipsnio 2 dalyje nurodytu atveju laisvės atėmimo iki gyvos galvos bausmė buvo pakeista terminuoto laisvės atėmimo bausme; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2007, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05335
+ 
 
 
 
@@ -4448,7 +4463,10 @@ lygtinis paleidimas iš pataisos įstaigŲ
 
 
 
-3) keturis penktadalius paskirtos laisvės atėmimo bausmės – nuteistieji, kuriems paskirta bausmė viršija penkiolika metų laisvės atėmimo, bet neviršija dvidešimt penkerių metų laisvės atėmimo.
+3) keturis penktadalius paskirtos laisvės atėmimo bausmės – nuteistieji, kuriems paskirta bausmė viršija penkiolika metų laisvės atėmimo, bet neviršija dvidešimt penkerių metų laisvės atėmimo, taip pat nuteistieji, kuriems Lietuvos Respublikos baudžiamojo kodekso 51 straipsnio 2 dalyje nurodytu atveju laisvės atėmimo iki gyvos galvos bausmė buvo pakeista terminuoto laisvės atėmimo bausme. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2007, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05335
+ 
 
 
 
@@ -4456,6 +4474,14 @@ lygtinis paleidimas iš pataisos įstaigŲ
 
 
 8. Jeigu pataisos įstaiga yra gavusi pažymą, kad nukentėjusysis pageidauja, jog jam būtų pranešta apie būsimą nuteistojo paleidimą į laisvę, Lygtinio paleidimo iš pataisos įstaigos komisija per tris darbo dienas nuo nuteistojo prašymo lygtinai paleisti iš pataisos įstaigos gavimo praneša nukentėjusiajam apie teisę per dešimt dienų nuo pranešimo išsiuntimo pateikti atsiliepimą dėl nuteistojo prašymo.
+
+
+
+
+9. Nuteistiesiems, kuriems Lietuvos Respublikos baudžiamojo kodekso 51 straipsnio 2 dalyje nurodytu atveju laisvės atėmimo iki gyvos galvos bausmė buvo pakeista terminuoto laisvės atėmimo bausme, šio straipsnio 2 dalies 2 punkte nurodyti atliktos bausmės terminai skaičiuojami nuo paskirtos terminuoto laisvės atėmimo bausmės atlikimo pradžios. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2007, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05335
+ 
 
 
 Straipsnio pakeitimai:
@@ -4671,6 +4697,34 @@ Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 
 Straipsnio pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+ 
+
+
+
+
+1671 straipsnis. Teikimas laisvės atėmimo iki gyvos galvos bausmę pakeisti terminuoto laisvės atėmimo bausme
+
+
+1. Ne mažiau kaip dvidešimt metų laisvės atėmimo iki gyvos galvos bausmės atlikęs nuteistasis gali pateikti bausmę vykdančiai institucijai prašymą dėl kreipimosi į teismą, kad jam paskirta laisvės atėmimo iki gyvos galvos bausmė būtų pakeista terminuoto laisvės atėmimo bausme.
+
+
+
+
+2. Bausmę vykdanti institucija, gavusi šio straipsnio 1 dalyje nurodytą nuteistojo prašymą, atlieka nuteistojo socialinį tyrimą ir ne vėliau kaip per dvidešimt darbo dienų nuo nuteistojo prašymo gavimo dienos kreipiasi į bausmės atlikimo vietos apygardos teismą su teikimu nuteistajam paskirtą laisvės atėmimo iki gyvos galvos bausmę, kai yra pagrindas, pakeisti terminuoto laisvės atėmimo bausme.
+
+
+
+
+3. Šio straipsnio 2 dalyje numatytame teikime turi būti nurodyti duomenys apie nuteistojo asmenybę ir jo socialinę aplinką, nustatytą nuteistojo nusikalstamo elgesio rizikos lygį ir kriminogeninius veiksnius, atliktos bausmės poveikį nuteistajam (pažangą mažinant nusikalstamo elgesio riziką, individualiame socialinės reabilitacijos plane nurodytų priemonių vykdymą, elgesį bausmės atlikimo metu), taip pat duomenys apie nusikaltimu padarytos žalos atlyginimą ar pašalinimą, įskaitant duomenis apie nuteistojo turėtas galimybes ją atlyginti ar pašalinti arba objektyvias priežastis, dėl kurių nusikaltimu padarytos žalos atlyginti ar pašalinti nebuvo įmanoma. Dalinio nusikaltimu padarytos žalos atlyginimo ar pašalinimo atveju teikime taip pat nurodomi duomenys apie nuteistojo galimybes ją visiškai atlyginti ar pašalinti. Be to, teikime turi būti nurodyta, ar nuteistasis pripažįsta savo kaltę ir gailisi padaręs nusikaltimą. Kartu su teikimu teismui nusiunčiama nuteistojo asmens byla.
+
+
+
+
+4. Jeigu teismas atsisako pakeisti laisvės atėmimo iki gyvos galvos bausmę terminuoto laisvės atėmimo bausme, pakartotinai teikti šio straipsnio 1 dalyje nurodytą prašymą galima ne anksčiau kaip po vienerių metų po nutarties atsisakyti pakeisti laisvės atėmimo iki gyvos galvos bausmę terminuoto laisvės atėmimo bausme įsiteisėjimo dienos. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2007, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05335
  
 
 
@@ -5128,8 +5182,7 @@ Nr. XI-1474, 2011-06-21, Žin., 2011, Nr. 81-3961 (2011-07-05)
 
 
 
-
-
+part_9d8f553449014810ad47430ab95575a7_end
 
 
  
@@ -5318,3 +5371,8 @@ Lietuvos Respublikos bausmių vykdymo kodekso 54, 113, 114 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-901, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21497
 Lietuvos Respublikos bausmių vykdymo kodekso 59 ir 119 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2007, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05335
+Lietuvos Respublikos bausmių vykdymo kodekso 69, 137, 140 ir 157 straipsnių pakeitimo ir Kodekso papildymo 167-1 straipsniu įstatymas
