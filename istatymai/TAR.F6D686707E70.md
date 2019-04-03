@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-02
+Suvestinė redakcija nuo 2019-04-03 iki 2019-05-07
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -6356,9 +6356,10 @@ PROFESINĖS SĄJUNGOS
 
 
 
-2. Darbdavio (fizinio asmens, įmonės, įstaigos ar organizacijos ar šio kodekso 21 straipsnio 4 dalyje nustatytu atveju – padalinio (filialo, atstovybės) lygmeniu veikiančiai profesinei sąjungai įsteigti būtina, kad ji turėtų dvidešimt steigėjų arba steigėjais būtų ne mažiau kaip 1/10 visų darbdavio darbuotojų, bet ne mažiau kaip trys. 
+2. Darbdavio (fizinio asmens, įmonės, įstaigos ar organizacijos ar šio kodekso 21 straipsnio 4 dalyje nustatytu atveju – padalinio (filialo, atstovybės) lygmeniu veikiančiai profesinei sąjungai įsteigti būtina, kad ji turėtų dvidešimt steigėjų arba steigėjais būtų ne mažiau kaip 1/10 visų darbdavio darbuotojų, bet ne mažiau kaip trys. Nacionaliniu, šakos ar teritoriniu lygmeniu veikiančios profesinių sąjungų organizacijos pagal savo įstatuose nustatytą tvarką turi teisę steigti savo padalinius. Tokie padaliniai laikomi darbdavio (fizinio asmens, įmonės, įstaigos ar organizacijos ar šio kodekso 21 straipsnio 4 dalyje nustatytu atveju – padalinio (filialo, atstovybės) lygmeniu veikiančiomis profesinėmis sąjungomis ir turi visas darbuotojų atstovų teises ir pareigas, numatytas šiame kodekse ir kituose teisės aktuose, jeigu jų nariais steigimo momentu yra atitinkamai ne mažiau kaip 20 to darbdavio darbuotojų arba ne mažiau kaip 1/10 visų to darbdavio darbuotojų, bet ne mažiau kaip trys.
 Straipsnio dalies pakeitimai:
 Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
+Nr. XIII-2009, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05337
  
 
 
@@ -9443,3 +9444,8 @@ Lietuvos Respublikos darbo kodekso 150 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1847, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21878
 Lietuvos Respublikos darbo kodekso 31 ir 59 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2009, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05337
+Lietuvos Respublikos darbo kodekso 179 straipsnio pakeitimo įstatymas
