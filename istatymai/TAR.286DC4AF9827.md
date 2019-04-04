@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.286DC4AF9827"
 
 # Lietuvos Respublikos teismo ekspertizės įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2019-04-03
+Suvestinė redakcija nuo 2019-04-04 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4969, i. k. 1021010ISTA0IX-1161
  
@@ -211,7 +211,10 @@ Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2
 
 
 
-2) išlaikyti teismo eksperto kvalifikacijos egzaminą, kurio programą tvirtina ekspertizės įstaigos vadovas;
+2) išlaikyti teismo eksperto kvalifikacijos ir teismo ekspertizės metodologijos egzaminą, kurio programą tvirtina ekspertizės įstaigos vadovas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2003, 2019-03-21, paskelbta TAR 2019-04-03, i. k. 2019-05382
+ 
 
 
 
@@ -240,6 +243,13 @@ Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2
 
 
 2. Šio straipsnio 1 dalies 2 punkto reikalavimai netaikomi asmenims, kuriems įstatymų ar kitų norminių teisės aktų nustatyta tvarka asmens, turinčio tam tikros srities žinių, kvalifikaciją suteikė kitos valstybės institucijos ar prie jų tam tikslui sudarytos komisijos. Tokie asmenys į Lietuvos Respublikos teismo ekspertų sąrašą įrašomi laikantis šio Įstatymo 8–10 straipsnių nuostatų.
+
+
+
+
+3. Nuo šio straipsnio 1 dalies 2 punkte nurodyto teismo eksperto kvalifikacijos egzamino, išskyrus teismo ekspertizės metodologijos dalį, atleidžiamas asmuo, turintis mokslo ir meno krypties, tinkančios pagal jo pasirinktą teismo eksperto specializaciją, daktaro laipsnį. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2003, 2019-03-21, paskelbta TAR 2019-04-03, i. k. 2019-05382
  
 
 
@@ -286,7 +296,9 @@ Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2
 
 
 
-7. Asmeniui, laikiusiam šio Įstatymo 5 straipsnio 1 dalies 2 ir 3 punktuose nurodytus egzaminus, apie kvalifikacinės komisijos priimtus sprendimus dėl teismo eksperto kvalifikacijos suteikimo ir teismo eksperto kvalifikacijos pažymėjimo išdavimo pranešama raštu ne vėliau kaip per 5 darbo dienas nuo šių egzaminų laikymo dienos. Išlaikiusiam šio Įstatymo 5 straipsnio 1 dalies 2 ir 3 punktuose nurodytus egzaminus asmeniui ne vėliau kaip per 10 darbo dienų nuo kvalifikacinės komisijos sprendimo priėmimo dienos atitinkamos teisės ekspertizės įstaigos vadovas išduoda teismo eksperto kvalifikacijos pažymėjimą. Šio straipsnio 5 dalyje nurodytam asmeniui teismo eksperto kvalifikacijos pažymėjimas išduodamas, kai jis išlaiko šio Įstatymo 5 straipsnio 1 dalies 3 punkte nurodytą egzaminą. Asmeniui, neišlaikiusiam šio Įstatymo 5 straipsnio 1 dalies 2 punkte nurodyto egzamino, pakartotinai laikyti šį egzaminą leidžiama ne anksčiau kaip po vienerių metų, išskyrus atvejus, kai kvalifikacinė komisija nustato trumpesnį terminą, kuris negali būti trumpesnis negu pusė metų. Jeigu asmuo neinformuojamas apie kvalifikacinės komisijos priimtus sprendimus ar teismo eksperto kvalifikacijos pažymėjimas neišduodamas šioje dalyje nustatytais terminais, laikoma, kad priimtas sprendimas suteikti teismo eksperto kvalifikaciją ir išduoti teismo eksperto kvalifikacijos pažymėjimą. Šis pažymėjimas patvirtina asmens pasirengimą atlikti jame nurodytos rūšies teismo ekspertizes.
+7. Asmeniui, laikiusiam šio Įstatymo 5 straipsnio 1 dalies 2 ir 3 punktuose nurodytus egzaminus, apie kvalifikacinės komisijos priimtus sprendimus dėl teismo eksperto kvalifikacijos suteikimo ir teismo eksperto kvalifikacijos pažymėjimo išdavimo pranešama raštu ne vėliau kaip per 5 darbo dienas nuo šių egzaminų laikymo dienos. Išlaikiusiam šio Įstatymo 5 straipsnio 1 dalies 2 ir 3 punktuose nurodytus egzaminus asmeniui ne vėliau kaip per 10 darbo dienų nuo kvalifikacinės komisijos sprendimo priėmimo dienos atitinkamos teisės ekspertizės įstaigos vadovas išduoda teismo eksperto kvalifikacijos pažymėjimą. Šio straipsnio 5 dalyje nurodytam asmeniui teismo eksperto kvalifikacijos pažymėjimas išduodamas, kai jis išlaiko šio Įstatymo 5 straipsnio 1 dalies 3 punkte nurodytą egzaminą. Asmeniui, neišlaikiusiam šio Įstatymo 5 straipsnio 1 dalies 2 punkte nurodyto egzamino, pakartotinai laikyti šį egzaminą leidžiama ne anksčiau kaip po dviejų mėnesių nuo egzamino laikymo dienos. Jeigu asmeniui nepranešama apie kvalifikacinės komisijos priimtus sprendimus ar teismo eksperto kvalifikacijos pažymėjimas neišduodamas šioje dalyje nustatytais terminais, laikoma, kad priimtas sprendimas suteikti teismo eksperto kvalifikaciją ir išduoti teismo eksperto kvalifikacijos pažymėjimą. Šis pažymėjimas patvirtina asmens pasirengimą atlikti jame nurodytos rūšies teismo ekspertizes. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2003, 2019-03-21, paskelbta TAR 2019-04-03, i. k. 2019-05382
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00379
  
@@ -466,7 +478,10 @@ Nr. XII-698, 2013-12-19, Žin., 2013, Nr. 140-7071 (2013-12-30); paskelbta TAR 2
 
 
 
-3. Asmuo, kuris be svarbios priežasties praleido šio straipsnio 2 dalyje nustatytą prašymo įrašyti asmenį į Lietuvos Respublikos teismo ekspertų sąrašą terminą, privalo pakartotinai išlaikyti teismo eksperto kvalifikacijos egzaminą tam, kad vėl įgytų šio straipsnio 2 dalyje nustatytą teisę.
+3. Asmuo, kuris be svarbios priežasties praleido šio straipsnio 2 dalyje nustatytą prašymo įrašyti asmenį į Lietuvos Respublikos teismo ekspertų sąrašą terminą, privalo pakartotinai išlaikyti teismo eksperto kvalifikacijos ir teismo ekspertizės metodologijos egzaminą tam, kad vėl įgytų šio straipsnio 2 dalyje nustatytą teisę. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2003, 2019-03-21, paskelbta TAR 2019-04-03, i. k. 2019-05382
+ 
 
 
 
@@ -1135,3 +1150,8 @@ Lietuvos Respublikos teismo ekspertizės įstatymo 1, 2, 3, 5, 6, 7, 9, 11, 12, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2721, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26507
 Lietuvos Respublikos teismo ekspertizės įstatymo Nr. IX-1161 15 ir 20 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2003, 2019-03-21, paskelbta TAR 2019-04-03, i. k. 2019-05382
+Lietuvos Respublikos teismo ekspertizės įstatymo Nr. IX-1161 5, 6 ir 8 straipsnių pakeitimo įstatymas
