@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS FINANSINIO TVARUMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2018-06-15 iki 2019-04-03
+Suvestinė redakcija nuo 2019-04-04 iki 2020-12-29
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 93-3985, i. k. 1091010ISTA00XI-393
  
@@ -412,8 +412,6 @@ GAIVINIMO PLANAVIMAS
 4. Priežiūros institucija, vadovaudamasi taikytinų ES teisės aktų nustatyta tvarka, informuoja Europos bankininkystės instituciją apie šio straipsnio 1 dalies nuostatų, susijusių su įstaiga, kuriai, vadovaujantis Reglamento (ES) Nr. 1024/2013 6 straipsnio 4 dalimi, taikoma tiesioginė Europos Centrinio Banko priežiūra ar kuri sudaro reikšmingą finansų sistemos dalį, taikymą Lietuvos Respublikoje licencijuotoms įstaigoms.
 
 
-TAR pastaba. 4 straipsnyje nurodytos įstaigos gaivinimo planus turi parengti ir priežiūros institucijai pateikti per 3 mėnesius nuo įstatymo Nr. XII-2053 įsigaliojimo dienos (2015-12-03).
- 
 
 
 
@@ -5679,7 +5677,10 @@ Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 
 
-102 straipsnis. Bankroto bylos iškėlimas 
+102 straipsnis. Bankroto bylos iškėlimas ir bankroto proceso ypatumai 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2021, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05387
+ 
 
 
 1. Pertvarkomam subjektui, įstaigai ar šio įstatymo 1 straipsnio 2 dalies 4 ar 5 punkte nurodytam subjektui, kurie atitinka šiame įstatyme nustatytas pertvarkymo sąlygas, bankroto byla gali būti iškelta tik pertvarkymo institucijos iniciatyva.
@@ -5706,9 +5707,18 @@ Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 
 
 2) nuo šio straipsnio 3 dalyje nurodytos informacijos pateikimo priežiūros ir pertvarkymo institucijoms dienos praėjo 7 kalendorinės dienos. 
+
+
+
+
+
+
+5. Šio įstatymo 1 straipsnio 2 dalies 4 ir 5 punktuose nurodytų subjektų kreditorių reikalavimų tenkinimui mutatis mutandis taikoma Bankų įstatymo 87 straipsnyje nustatyta kreditorių reikalavimų tenkinimo eilė. 
+TAR pastaba. 102 straipsnio 5 dalyje nustatyta kreditorių reikalavimų tenkinimo eilė taikoma bankroto procedūroms, pradėtoms po įstatymo Nr. XIII-2021 įsigaliojimo dienos (2019-04-04), išskyrus šiuos kreditorių reikalavimus:
+kreditorių reikalavimai, atsiradę dėl Lietuvos Respublikos bankų įstatymo 87 straipsnio 6 dalyje nurodytų ir toje dalyje nustatytus reikalavimus atitinkančių skolos priemonių, kurias Finansinio tvarumo įstatymo 1 straipsnio 2 dalies 4 ir 5 punktuose nurodyti subjektai išleido iki įstatymo Nr. XIII-2021 įsigaliojimo dienos (2019-04-04), mutatis mutandis tenkinami Bankų įstatymo 87 straipsnio 5 dalyje nustatyta eile.
+Papildyta straipsnio dalimi:
+Nr. XIII-2021, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05387
  
-
-
 
 
 
@@ -7040,7 +7050,10 @@ priedas
 
 
 
-2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012 (OL 2014 L 173, p. 190).
+2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012 (OL 2014 L 173, p. 190), su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/2399 (OL 2017 L 345, p. 96). 
+Punkto pakeitimai:
+Nr. XIII-2021, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05387
+ 
 
 
 
@@ -7071,3 +7084,8 @@ Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1249, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09917
 Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 1, 2, 3, 5, 7, 96, 101, 117, 118 ir 119 straipsnių pakeitimo ir 120 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2021, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05387
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 102 straipsnio ir priedo pakeitimo įstatymas
