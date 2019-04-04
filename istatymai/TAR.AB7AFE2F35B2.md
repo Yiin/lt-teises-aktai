@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2019-02-01 iki 2019-04-03
+Suvestinė redakcija nuo 2019-04-04 iki 2019-07-05
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
  
@@ -6552,6 +6552,15 @@ Finansų maklerio įmonė gali būti reorganizuojama tik gavus išankstinį prie
 
 
 5. Finansų maklerio įmonės administratorius grąžina įmonės klientams priklausančias lėšas, esančias įmonėje arba finansų maklerio įmonės valdomose klientų sąskaitose kredito įstaigoje, ir įmonės klientų asmeninių finansinių priemonių sąskaitų tvarkymą perduoda kliento nurodytam sąskaitų tvarkytojui.
+
+
+
+
+6. Finansų maklerio įmonės, kuriai taikomas šio įstatymo 14 straipsnio 2 dalyje nurodytas reikalavimas, kreditorių reikalavimų tenkinimui mutatis mutandis taikoma Bankų įstatymo 87 straipsnyje nustatyta kreditorių reikalavimų tenkinimo eilė. 
+TAR pastaba. 106 straipsnio 6 dalyje nustatyta kreditorių reikalavimų tenkinimo eilė taikoma bankroto procedūroms, pradėtoms po įstatymo Nr. XIII-2024 įsigaliojimo dienos (2019-04-04), išskyrus šiuos kreditorių reikalavimus:
+kreditorių reikalavimai, atsiradę dėl Lietuvos Respublikos bankų įstatymo 87 straipsnio 6 dalyje nurodytų ir toje dalyje nustatytus reikalavimus atitinkančių skolos priemonių, kurias finansų maklerio įmonė, kuriai taikomas Finansinių priemonių rinkų įstatymo 14 straipsnio 2 dalyje nurodytas reikalavimas, išleido iki įstatymo Nr. XIII-2024 įsigaliojimo dienos (2019-04-04), mutatis mutandis tenkinami Bankų įstatymo 87 straipsnio 5 dalyje nustatyta eile.
+Papildyta straipsnio dalimi:
+Nr. XIII-2024, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05398
  
 
 
@@ -7105,7 +7114,10 @@ priedas
 
 
 
-10. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012 (OL 2014 L 173, p. 190).
+10. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012 (OL 2014 L 173, p. 190), su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/2399 (OL 2017 L 345, p. 96). 
+Punkto pakeitimai:
+Nr. XIII-2024, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05398
+ 
 
 
 
@@ -7225,3 +7237,8 @@ Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1877, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00227
 Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 29 ir 88 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2024, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05398
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 106 straipsnio ir priedo pakeitimo įstatymas
