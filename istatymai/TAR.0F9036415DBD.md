@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-18
+Suvestinė redakcija nuo 2019-04-19 iki 2019-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -213,6 +213,15 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 1. Asmenys, dirbantys pagal darbo sutartis Lietuvos Respublikos teritorijoje (įskaitant komandiruotus į Lietuvos Respubliką ilgesniam negu vienų metų laikotarpiui asmenis) arba ne Lietuvos Respublikos teritorijoje, bet pagal darbo sutartis, sudarytas su Lietuvos Respublikoje registruotais draudėjais, jeigu vadovaujantis Lietuvos Respublikos tarptautinėmis sutartimis arba Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais nenustatyta kitaip, asmenys, atlygintinai einantys narystės pagrindu renkamąsias ar skiriamąsias pareigas, asmenys, susiję su draudėju darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti Gyventojų pajamų mokesčio įstatyme, tuo pačiu metu iš šio draudėjo gaunantys pajamas pagal autorines sutartis, iš sporto veiklos ar atlikėjo veiklos, draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
 Straipsnio dalies pakeitimai:
 Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
+ 
+
+
+
+
+11. Asmenys, kurie iki Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos buvo komandiruoti iš šios valstybės į Lietuvos Respubliką ir kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, buvo nustatyta Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės taikytina teisė, šio straipsnio 1 dalies taikymo tikslais išlaiko savo statusą iki nustatyto komandiravimo termino pabaigos.
+TAR pastaba. Papildymas 11 dalimi įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
+Papildyta straipsnio dalimi:
+Nr. XIII-2050, 2019-04-11, paskelbta TAR 2019-04-18, i. k. 2019-06367
  
 
 
@@ -3053,3 +3062,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 10, 15
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1721, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20975
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 3, 8, 10, 11, 12, 13, 19, 25, 35 ir 40 straipsnių pakeitimo įstatymo Nr. XIII-823 5 straipsnio pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2050, 2019-04-11, paskelbta TAR 2019-04-18, i. k. 2019-06367
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4 straipsnio pakeitimo įstatymas
