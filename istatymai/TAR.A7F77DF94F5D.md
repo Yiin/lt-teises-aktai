@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-18
+Suvestinė redakcija nuo 2019-04-19 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
  
@@ -461,6 +461,15 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 
 10. Per visus kalendorinius metus įgytas stažas sudedamas. Jis išreiškiamas metais ir skaičiuojamas keturių skaitmenų po kablelio tikslumu. 
+
+
+
+
+11. Stažas, įgytas Jungtinėje Didžiosios Britanijos ir Šiaurės Airijos Karalystėje iki Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos, apskaičiuojamas Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentuose nustatyta tvarka.
+TAR pastaba. 10 straipsnio papildymas 11 dalimi įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
+Papildyta straipsnio dalimi:
+Nr. XIII-2048, 2019-04-11, paskelbta TAR 2019-04-18, i. k. 2019-06366
+ 
 
 
 Straipsnio pakeitimai:
@@ -3727,3 +3736,8 @@ Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 11, 12, 45
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1728, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20993
 Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 6, 8, 19, 33, 59 ir 60 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2048, 2019-04-11, paskelbta TAR 2019-04-18, i. k. 2019-06366
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 10 straipsnio pakeitimo įstatymas
