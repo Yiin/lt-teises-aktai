@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2019-02-01 iki 2019-04-24
+Suvestinė redakcija nuo 2019-04-25 iki 2019-07-01
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3515, i. k. 1011010ISTA00IX-574
  
@@ -1368,13 +1368,27 @@ Nr. X-1679, 2008-07-03, Žin., 2008, Nr. 82-3236 (2008-07-19)
 
 Straipsnio pakeitimai:
 Nr. IX-1914, 2003-12-18, Žin., 2003, Nr. 123-5586 (2003-12-30)
-
-
-
-
-
-
  
+
+
+
+
+26 straipsnis. Įstatymo taikymas Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei
+
+
+Dvejus metus nuo Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos šio įstatymo 2 straipsnio 6 dalyje nuoroda į Europos Sąjungos valstybę narę apima Jungtinę Didžiosios Britanijos ir Šiaurės Airijos Karalystę.
+TAR pastaba. Papildymas 26 straipsniu  įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
+
+
+Papildyta straipsniu:
+Nr. XIII-2056, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06692
+ 
+
+
+
+
+
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
@@ -1387,6 +1401,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos buhalterinės
 apskaitos įstatymo
 priedas
@@ -1622,3 +1637,8 @@ Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 6 ir 10 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1880, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00233
 Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 3 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2056, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06692
+Lietuvos Respublikos buhalterinės apskaitos įstatymo Nr. IX-574 papildymo 26 straipsniu įstatymas
