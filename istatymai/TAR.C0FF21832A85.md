@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2019-01-30 iki 2019-04-24
+Suvestinė redakcija nuo 2019-04-25 iki 2020-04-30
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -906,6 +906,20 @@ Ginčai dėl labdaros ir paramos nagrinėjami Lietuvos Respublikos įstatymų nu
 
 
 
+15 straipsnis. Įstatymo taikymas Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei
+
+
+Dvejus metus nuo Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos šio įstatymo 7 straipsnio 5 dalies nuostatos Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei taikomos tiek pat, kiek ir Europos Sąjungos valstybėms narėms.
+TAR pastaba. Papildymas 15 straipsniu įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
+
+
+Papildyta straipsniu:
+Nr. XIII-2055, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06691
+ 
+
+
+
+
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
@@ -1038,3 +1052,8 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4 ir 9 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1955, 2019-01-15, paskelbta TAR 2019-01-29, i. k. 2019-01320
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 5, 11 straipsnių pakeitimo ir Įstatymo papildymo 9-1, 9-2 straipsniais įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2055, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06691
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 papildymo 15 straipsniu įstatymas
