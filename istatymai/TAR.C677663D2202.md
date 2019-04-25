@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-24
+Suvestinė redakcija nuo 2019-04-25 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
  
@@ -2870,6 +2870,21 @@ BAIGIAMOSIOS NUOSTATOS
 
 Straipsnio pakeitimai:
 Nr. IX-1660, 2003-07-01, Žin., 2003, Nr. 73-3340 (2003-07-23)
+ 
+
+
+
+
+40 straipsnis. Įstatymo taikymas Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei 
+
+
+Dvejus metus nuo Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos šio Įstatymo IV skyriaus nuostatos Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei taikomos tiek pat, kiek ir Europos Sąjungos valstybėms narėms.
+TAR pastaba. Įstatymo papildymas 40 straipsniu įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
+
+
+Papildyta straipsniu:
+Nr. XIII-2053, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06689
+ 
 
 
 
@@ -3409,3 +3424,8 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 6, 16
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1849, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21881
 Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2053, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06689
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 papildymo 40 straipsniu įstatymas
