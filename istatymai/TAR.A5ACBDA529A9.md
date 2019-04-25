@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2019-02-01 iki 2019-04-24
+Suvestinė redakcija nuo 2019-04-25 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
  
@@ -4197,6 +4197,20 @@ Nr. XI-2117, 2012-06-26, Žin., 2012, Nr. 76-3941 (2012-06-30)
 
 
 
+591 straipsnis. Įstatymo taikymas Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei
+
+
+Dvejus metus nuo Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos šio Įstatymo I, V, VII–IX ir X1 skyrių nuostatos Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei taikomos tiek pat, kiek ir Europos Sąjungos valstybėms narėms. 
+TAR pastaba. Papildymas 591 straipsniu įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
+
+
+Papildyta straipsniu:
+Nr. XIII-2052, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06688
+ 
+
+
+
+
 60 straipsnis. Netenkantys galios teisės aktai
 
 
@@ -4945,3 +4959,8 @@ Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 17-2 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1881, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00234
 Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2052, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06688
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 papildymo 59-1 straipsniu įstatymas
