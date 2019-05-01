@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-05-07
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -2883,7 +2883,10 @@ Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
 
 
 
-13. Kaip laikomasi šio ir kitų įstatymų nustatytų reikalavimų reklamai, kontroliuoja Valstybinė vartotojų teisių apsaugos tarnyba prie Teisingumo ministerijos, Lietuvos Respublikos konkurencijos taryba ir Komisija, bendradarbiaudamos su kitomis viešosios informacijos rengėjų ir (ar) skleidėjų veiklos reguliavimo institucijomis ir reklamos savitvarkos institucijomis.
+13. Kaip laikomasi šio ir kitų įstatymų nustatytų reikalavimų reklamai, kontroliuoja Valstybinė vartotojų teisių apsaugos tarnyba ir Komisija, bendradarbiaudamos su kitomis viešosios informacijos rengėjų ir (ar) skleidėjų veiklos reguliavimo institucijomis ir reklamos savitvarkos institucijomis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2013, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05346
+ 
 
 
 
@@ -4967,3 +4970,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 22 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19, 48 straipsnių ir priedo pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2013, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05346
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 39 straipsnio pakeitimo įstatymas
