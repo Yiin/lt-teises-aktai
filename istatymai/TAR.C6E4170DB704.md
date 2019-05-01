@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
  
@@ -212,7 +212,10 @@ PACIENTO TEISĖS IR PAREIGOS
 
 
 
-4. Šio straipsnio 3 dalyje nurodyta informacija pacientui gali būti nesuteikta tik tais atvejais, jeigu tai pakenktų paciento sveikatai ar sukeltų pavojų jo gyvybei arba kai pacientas šio įstatymo nustatyta tvarka atsisako šios informacijos. Sprendimą neteikti pacientui informacijos, kuri gali pakenkti paciento sveikatai ar sukelti pavojų jo gyvybei, priima gydantis gydytojas, išskyrus atvejus, kai įstatymai nustato kitokią tokio sprendimo priėmimo tvarką. Apie sprendimo neteikti informacijos priėmimą ir jo motyvus pažymima medicinos dokumentuose. Tais atvejais, kai pranešimas būtų prielaida žalai pacientui atsirasti, visa šiame straipsnyje numatyta informacija pateikiama paciento atstovui ir tai prilyginama informacijos pateikimui pacientui. Informacija pacientui pateikiama, kai išnyksta žalos atsiradimo pavojus. Paciento psichikos ligonio teisės gauti informaciją ypatumus nustato Psichikos sveikatos priežiūros įstatymas.
+4. Šio straipsnio 3 dalyje nurodyta informacija pacientui gali būti nesuteikta tik tais atvejais, jeigu tai pakenktų paciento sveikatai ar sukeltų pavojų jo gyvybei arba kai pacientas šio įstatymo nustatyta tvarka atsisako šios informacijos. Sprendimą neteikti pacientui informacijos, kuri gali pakenkti paciento sveikatai ar sukelti pavojų jo gyvybei, priima gydantis gydytojas, išskyrus atvejus, kai įstatymai nustato kitokią tokio sprendimo priėmimo tvarką. Apie sprendimo neteikti informacijos priėmimą ir jo motyvus pažymima medicinos dokumentuose. Tais atvejais, kai pranešimas būtų prielaida žalai pacientui atsirasti, visa šiame straipsnyje numatyta informacija pateikiama paciento atstovui ir tai prilyginama informacijos pateikimui pacientui. Informacija pacientui pateikiama, kai išnyksta žalos atsiradimo pavojus. Psichikos ir elgesio sutrikimų turinčio paciento teisės gauti informaciją ypatumus nustato Lietuvos Respublikos psichikos sveikatos priežiūros įstatymas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1909, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00841
+ 
 
 
 
@@ -266,7 +269,10 @@ Nr. XIII-1080, 2018-04-12, paskelbta TAR 2018-04-23, i. k. 2018-06424
 
 
 
-3. Paciento psichikos ligonio teisės susipažinti su paciento medicinos dokumentais ypatumus nustato Psichikos sveikatos priežiūros įstatymas.
+3. Psichikos ir elgesio sutrikimų turinčio paciento teisės susipažinti su paciento medicinos dokumentais ypatumus nustato Psichikos sveikatos priežiūros įstatymas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1909, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00841
+ 
 
 
 
@@ -932,3 +938,13 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1080, 2018-04-12, paskelbta TAR 2018-04-23, i. k. 2018-06424
 Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 5, 8 ir 22 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1745, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20718
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 24 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1909, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00841
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 5 ir 7 straipsnių pakeitimo įstatymas
