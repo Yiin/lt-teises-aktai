@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF3E2829B861"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2018-11-28 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2020-04-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 8-161, i. k. 0981010ISTAVIII-602
  
@@ -199,7 +199,10 @@ Nr. XIII-1659, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19127
 2. Sudaromi keturi narkotinių ir psichotropinių medžiagų sąrašai:
 
 
-1) pirmąjį sąrašą sudaro augalai, narkotinės ir psichotropinės medžiagos, uždrausti vartoti sveikatos priežiūros tikslams dėl žalingų padarinių, kai jais piktnaudžiaujama, žmogaus sveikatai (toliau – I sąrašas );
+1) pirmąjį sąrašą sudaro augalai, narkotinės ir psichotropinės medžiagos, uždrausti vartoti sveikatos priežiūros tikslams dėl žalingų padarinių, kai jais piktnaudžiaujama, žmogaus sveikatai (toliau – I sąrašas). Į I sąrašą įtraukti augalai, narkotinės ir psichotropinės medžiagos gali būti vartojami sveikatos priežiūros tikslams tik įgyvendinus šio įstatymo 8 straipsnio 1 dalyje nustatytus reikalavimus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1529, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16537
+ 
 
 
 
@@ -314,22 +317,43 @@ Nr. IX-1249, 2002-12-10, Žin., 2002, Nr. 123-5536 (2002-12-24), i. k. 1021010IS
 8 straipsnis. Į I sąrašą įtrauktų medžiagų teisėta apyvarta
 
 
-1. Į I sąrašą įtrauktas medžiagas vartoti sveikatos priežiūros tikslams draudžiama.
-
-
-
-
-2. Be Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoto leidimo į I sąrašą įtrauktas medžiagas draudžiama įsigyti, laikyti, gabenti Lietuvos Respublikos teritorijoje, gaminti, perdirbti, importuoti, eksportuoti, naudoti moksliniams tyrimams. 
+1. Į I sąrašą įtrauktas medžiagas vartoti sveikatos priežiūros tikslams draudžiama, išskyrus atvejus, kai į I sąrašą įtrauktos medžiagos yra vaistinio preparato, įregistruoto teisės aktų nustatyta tvarka įgyvendinus Farmacijos įstatymo 11 straipsnio 4 dalyje arba 11 straipsnio 5 dalyje, arba 11 straipsnio 8 dalyje, arba 11 straipsnio 10 dalyje, arba 11 straipsnio 15 dalyje nustatytus reikalavimus, arba registruoto vaistinio preparato, įrašyto į Bendrijos vaistinių preparatų registrą, sudėtyje. 
 Straipsnio dalies pakeitimai:
-Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
+Nr. XIII-1529, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16537
  
 
 
 
 
-3. Sveikatos apsaugos ministerija Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda leidimus įsigyti, laikyti, gabenti Lietuvos Respublikos teritorijoje, gaminti, perdirbti, importuoti, eksportuoti, naudoti moksliniams tyrimams arba teisėsaugos institucijoms būtinus minimalius į I sąrašą įtrauktų medžiagų kiekius. 
+l1. Vaistinius preparatus, kurių sudėtyje yra I sąrašo medžiagų, gaminti, importuoti, eksportuoti, verstis jų didmenine ir mažmenine prekyba turi teisę tik juridiniai asmenys, turintys atitinkamos rūšies licenciją verstis veikla, susijusia su vaistiniais preparatais, kurių sudėtyje yra I sąrašo medžiagų, ir II, III sąrašų narkotinėmis ir psichotropinėmis medžiagomis, nurodytą šio įstatymo 10 straipsnio 2 dalies 1, 2 ar 3 punkte ir išduotą bei tvarkomą vadovaujantis šio įstatymo trečiojo skirsnio nuostatomis. Veiklos, susijusios su vaistiniais preparatais, kurių sudėtyje yra I sąrašo medžiagų, licencijavimo reikalavimai nustatyti Lietuvos Respublikos Vyriausybės tvirtinamose Veiklos, susijusios su vaistiniais preparatais, kurių sudėtyje yra I sąrašo medžiagų, ir II, III sąrašų narkotinėmis ir psichotropinėmis medžiagomis licencijavimo taisyklėse (toliau – Licencijavimo taisyklės). Asmens sveikatos priežiūros įstaigos, kurių teikiamos paslaugos apima vaistinių preparatų, kurių sudėtyje yra I sąrašo medžiagų, vartojimą tose įstaigose, licencijos verstis veikla, susijusia su vaistiniais preparatais, kurių sudėtyje yra I sąrašo medžiagų, ir II, III sąrašų narkotinėmis ir psichotropinėmis medžiagomis, nereikia įgyti. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1529, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16537
+ 
+
+
+
+
+12. Juridiniai asmenys, turintys teisę vykdyti veiklą su vaistiniais preparatais, kurių sudėtyje yra I sąrašo medžiagų, ją vykdo vadovaudamiesi šiame įstatyme nustatytais veiklos, susijusios su į II sąrašą įtrauktomis medžiagomis, reikalavimais. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1529, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16537
+ 
+
+
+
+
+2. Be Lietuvos Respublikos Vyriausybės nustatyta tvarka išduodamo leidimo į I sąrašą įtrauktas medžiagas draudžiama įsigyti, laikyti, gabenti Lietuvos Respublikos teritorijoje, gaminti, perdirbti, importuoti, eksportuoti, naudoti moksliniams tyrimams, išskyrus atvejus, kai atliekami klinikiniai vaistinių preparatų tyrimai su tiriamaisiais vaistiniais preparatais, kurių sudėtyje yra I sąrašo medžiagų. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
+Nr. XIII-1529, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16537
+ 
+
+
+
+
+3. Sveikatos apsaugos ministerija Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda leidimus įsigyti, laikyti, gabenti Lietuvos Respublikos teritorijoje, gaminti, perdirbti, importuoti, eksportuoti, naudoti moksliniams tyrimams arba teisėsaugos institucijoms būtinus minimalius į I sąrašą įtrauktų medžiagų kiekius. Leidimus atlikti klinikinius vaistinių preparatų tyrimus su tiriamaisiais vaistiniais preparatais, kurių sudėtyje yra I sąrašo medžiagų, išduoda Valstybinė vaistų kontrolės tarnyba prie Lietuvos Respublikos sveikatos apsaugos ministerijos (toliau – Valstybinė vaistų kontrolės tarnyba) sveikatos apsaugos ministro nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
+Nr. XIII-1529, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16537
  
 
 
@@ -402,7 +426,10 @@ Su medžiagomis, įtrauktomis į II ar III sąrašus, susijusiai veiklai taikomi
 10 straipsnis. Bendrieji veiklos, susijusios su medžiagomis, įtrauktomis į II ir III sąrašus, licencijavimo reikalavimai
 
 
-1. Į II ir III sąrašus įtrauktas medžiagas gaminti, importuoti, eksportuoti, verstis jų didmenine ir mažmenine prekyba turi teisę tik juridiniai asmenys, turintys šio įstatymo nustatyta tvarka išduotą atitinkamos rūšies licenciją verstis veikla, susijusia su II ir III sąrašų narkotinėmis ir psichotropinėmis medžiagomis, arba licenciją verstis veikla, susijusia su III sąrašo psichotropinėmis medžiagomis (toliau – licencija).
+1. Į II ir III sąrašus įtrauktas medžiagas gaminti, importuoti, eksportuoti, verstis jų didmenine ir mažmenine prekyba turi teisę tik juridiniai asmenys, turintys šio įstatymo nustatyta tvarka išduotą atitinkamos rūšies licenciją verstis veikla, susijusia su vaistiniais preparatais, kurių sudėtyje yra I sąrašo medžiagų, ir II, III sąrašų narkotinėmis ir psichotropinėmis medžiagomis, arba licenciją verstis veikla, susijusia su III sąrašo psichotropinėmis medžiagomis (toliau – licencija). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1529, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16537
+ 
 
 
 
@@ -410,17 +437,17 @@ Su medžiagomis, įtrauktomis į II ar III sąrašus, susijusiai veiklai taikomi
 2. Išduodamos šių veiklos rūšių licencijos:
 
 
-1) gaminti II ir III sąrašų narkotines ir psichotropines medžiagas;
+1) gaminti vaistinius preparatus, kurių sudėtyje yra I sąrašo medžiagų, ir II, III sąrašų narkotines ir psichotropines medžiagas;
 
 
 
 
-2) verstis II ir III sąrašų narkotinių ir psichotropinių medžiagų didmenine prekyba, importu ir eksportu;
+2) verstis vaistinių preparatų, kurių sudėtyje yra I sąrašo medžiagų, ir II, III sąrašų narkotinių ir psichotropinių medžiagų didmenine prekyba, importu ir eksportu;
 
 
 
 
-3) verstis II ir III sąrašų narkotinių ir psichotropinių medžiagų mažmenine prekyba;
+3) verstis vaistinių preparatų, kurių sudėtyje yra I sąrašo medžiagų, ir II, III sąrašų narkotinių ir psichotropinių medžiagų mažmenine prekyba;
 
 
 
@@ -435,14 +462,21 @@ Su medžiagomis, įtrauktomis į II ar III sąrašus, susijusiai veiklai taikomi
 
 
 
-6) verstis III sąrašo psichotropinių medžiagų mažmenine prekyba.
+6) verstis III sąrašo psichotropinių medžiagų mažmenine prekyba. 
+TAR pastaba. Iki įstatymo Nr. XIII-1529 įsigaliojimo (2019-05-01) juridiniams asmenims išduotos atitinkamos rūšies licencijos verstis veikla, susijusia su II ir III sąrašų narkotinėmis ir psichotropinėmis medžiagomis, prilyginamos 10 straipsnio 2 dalyje nurodytoms atitinkamos rūšies licencijoms verstis veikla, susijusia su vaistiniais preparatais, kurių sudėtyje yra I sąrašo medžiagų, ir II, III sąrašų narkotinėmis ir psichotropinėmis medžiagomis.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1529, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16537
+ 
 
 
 
 
-
-
-3. Veiklos, susijusios su medžiagomis, įtrauktomis į II ir III sąrašus, licencijavimo taisykles (toliau – Licencijavimo taisyklės) tvirtina Lietuvos Respublikos Vyriausybė.
+3. Veiklos, susijusios su medžiagomis, įtrauktomis į II ir III sąrašus, licencijavimo reikalavimai nustatyti Licencijavimo taisyklėse. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1529, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16537
+ 
 
 
 
@@ -495,7 +529,10 @@ Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
 101 straipsnis. Licencijų ir licencijų dublikatų išdavimas, atsisakymas išduoti licenciją, licencijos galiojimo sustabdymas, licencijos galiojimo sustabdymo ir licencijos galiojimo panaikinimas
 
 
-1. Licencijas išduoda, atsisako išduoti, sustabdo ar panaikina jų galiojimą, panaikina galiojimo sustabdymą, išduoda licencijų dublikatus Valstybinė vaistų kontrolės tarnyba prie Lietuvos Respublikos sveikatos apsaugos ministerijos (toliau – Valstybinė vaistų kontrolės tarnyba). 
+1. Licencijas išduoda, atsisako išduoti, sustabdo ar panaikina jų galiojimą, panaikina galiojimo sustabdymą, išduoda licencijų dublikatus Valstybinė vaistų kontrolės tarnyba. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1529, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16537
+ 
 
 
 
@@ -841,7 +878,10 @@ Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
 
 
 
-4. Vaistinius preparatus ar tiriamuosius vaistinius preparatus, kuriuose yra į II ar III sąrašą įtrauktų medžiagų, importuoti iš trečiųjų šalių, siekiant juos išleisti į laisvą apyvartą, gali tik juridinis asmuo, turintis atitinkamai licenciją gaminti II ir III sąrašų narkotines ir psichotropines medžiagas arba gaminti III sąrašo psichotropines medžiagas.
+4. Vaistinius preparatus ar tiriamuosius vaistinius preparatus, kuriuose yra į II ar III sąrašą įtrauktų medžiagų, importuoti iš trečiųjų šalių, siekiant juos išleisti į laisvą apyvartą, gali tik juridinis asmuo, turintis atitinkamai licenciją gaminti vaistinius preparatus, kurių sudėtyje yra I sąrašo medžiagų, ir II, III sąrašų narkotines ir psichotropines medžiagas arba gaminti III sąrašo psichotropines medžiagas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1529, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16537
+ 
 
 
 Papildyta straipsniu:
@@ -854,10 +894,12 @@ Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
 11 straipsnis. Į II ir III sąrašus įtrauktų medžiagų gaminimas
 
 
-Licencija gaminti į II ir III sąrašus įtrauktas medžiagas išduodama tik pateikus visus dokumentus apie gamybos ir ekstrahavimo technologinius procesus, numatomų pagaminti ir tarpinių medžiagų kiekius, jų sudėtį. Gamintojas privalo užtikrinti, kad nebūtų viršyti licencijoje nurodyti gamybos kiekiai.
+Licencija gaminti vaistinius preparatus, kurių sudėtyje yra I sąrašo medžiagų, ir II, III sąrašų medžiagas išduodama tik pateikus visus dokumentus apie gamybos ir ekstrahavimo technologinius procesus, numatomų pagaminti ir tarpinių medžiagų kiekius, jų sudėtį. Gamintojas privalo užtikrinti, kad nebūtų viršyti licencijoje nurodyti gamybos kiekiai.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1529, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16537
  
-
-
 
 
 
