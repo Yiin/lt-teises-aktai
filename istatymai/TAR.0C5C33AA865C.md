@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -633,7 +633,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-12) nustato gamtinių dujų atsargų kaupimo ir panaudojimo buitiniams vartotojams ir nebuitiniams vartotojams, kurie per metus suvartoja iki 20 000 kubinių metrų gamtinių dujų, tvarką;
+12) nustato gamtinių dujų atsargų kaupimo ir panaudojimo buitiniams vartotojams tvarką; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -643,7 +646,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-14) nustato pažeidžiamų gamtinių dujų vartotojų ir jų grupių sąrašą;
+14) nustato pažeidžiamų gamtinių dujų vartotojų ir solidariai saugomų pažeidžiamų gamtinių dujų vartotojų ir jų grupių sąrašus, vadovaudamasi Reglamento (ES) Nr. 2017/1938 2 straipsnio 5 ir 6 punktų nuostatomis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -868,7 +874,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-14) nustatyti gamtinių dujų įmonių apskaitos atskyrimo standartines taisykles ir su apskaitos atskyrimu susijusius reikalavimus;
+14) nustatyti gamtinių dujų įmonių reguliavimo apskaitos sistemos reikalavimus ir (ar) metodą, ir (ar) modelį;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1626, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18859
+ 
 
 
 
@@ -1033,12 +1042,18 @@ Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
 
 
 
-11. Asmenys privalo atlikti auditą dėl tvarkomos apskaitos atitikties jų parengtai ir (ar) Komisijos patvirtintai sąnaudų apskaitos sistemai ir (ar) metodui, ir (ar) modeliui ir sąnaudų apskaitos taisyklėse ir kituose teisės aktuose nustatytiems reikalavimams. Audito išvada turi būti skelbiama kartą per metus pagal Komisijos nustatytas taisykles.
+11. Gamtinių dujų įmonės, kurių teikiamų paslaugų kainos yra valstybės reguliuojamos ir (ar) kurioms šio įstatymo 9 straipsnio 7 dalies pagrindu nustatyti Komisijos įpareigojimai, susiję su reguliavimo apskaitos sistema, privalo rengti reguliuojamosios veiklos ataskaitas ir užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra vadovaujantis Energetikos įstatymo 161 straipsnio nuostatomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1626, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18859
+ 
 
 
 
 
-12. Asmenų, kuriems taikomi šio straipsnio 4 dalyje nurodyti reikalavimai, Komisijai teikiami duomenys šių asmenų lėšomis turi būti patikrinti nepriklausomo audito.
+12. Neteko galios nuo 2019-05-01
+Straipsnio dalies naikinimas:
+Nr. XIII-1626, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18859
+ 
 
 
 
@@ -1782,7 +1797,10 @@ Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
 
 
 
-2) kalendoriniams metams pasibaigus, per keturis mėnesius atlikti nepriklausomą licencijuojamos ir leidimais reguliuojamos veiklos sąnaudų auditą ir apie rezultatus informuoti Komisiją;
+2) Neteko galios nuo 2019-05-01
+Straipsnio punkto naikinimas:
+Nr. XIII-1626, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18859
+ 
 
 
 
@@ -2651,7 +2669,10 @@ GARANTINIS TIEKIMAS
 
 
 
-2. Garantinis tiekimas užtikrinamas buitiniams vartotojams ir nebuitiniams vartotojams, kurie per metus suvartoja iki 20 000 kubinių metrų gamtinių dujų.
+2. Garantinis tiekimas užtikrinamas buitiniams vartotojams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -2692,7 +2713,10 @@ Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
 
 
 
-5) garantinis tiekimas vartotojui užtikrinamas tol, kol vartotojas energetikos ministro patvirtintose Gamtinių dujų tiekimo ir vartojimo taisyklėse nustatyta tvarka sudarys tiekimo sutartį su kita tiekimo įmone, bet ne ilgesniam kaip 6 mėnesių laikotarpiui, kuriam pasibaigus, garantinis tiekimas nutraukiamas, išskyrus atvejus, kai teritorijoje, kurioje skirstymo sistemos operatorius užtikrina garantinį tiekimą, nėra kitų tiekimo įmonių, vykdančių tiekimo veiklą pažeidžiamiems vartotojams;
+5) garantinis tiekimas vartotojui užtikrinamas tol, kol vartotojas energetikos ministro patvirtintose Gamtinių dujų tiekimo ir vartojimo taisyklėse nustatyta tvarka sudarys tiekimo sutartį su kita tiekimo įmone, bet ne ilgesniam kaip 6 mėnesių laikotarpiui, kuriam pasibaigus, garantinis tiekimas nutraukiamas, išskyrus atvejus, kai teritorijoje, kurioje skirstymo sistemos operatorius užtikrina garantinį tiekimą, nėra kitų tiekimo įmonių, vykdančių tiekimo veiklą buitiniams vartotojams; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -3021,35 +3045,27 @@ Nr. XII-772, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03220
 44 straipsnis. Gamtinių dujų įmonių apskaitos atskyrimas ir viešumas
 
 
-1. Gamtinių dujų įmonės kiekvienos gamtinių dujų veiklos (perdavimo, skirstymo, laikymo, tiekimo nebuitiniams ir buitiniams vartotojams, SGD pakartotinio dujinimo) apskaitą tvarko atskirai. Atskirai tvarkoma ir su gamtinių dujų veikla nesusijusios veiklos rūšių apskaita. Gamtinių dujų įmonės savo metines finansines ataskaitas parengia, pateikia nepriklausomam auditui ir paskelbia Lietuvos Respublikos akcinių bendrovių įstatyme, Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme, Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme ir Lietuvos Respublikos buhalterinės apskaitos įstatyme nustatyta tvarka ir sąlygomis. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
+1. Gamtinių dujų įmonės kiekvienos gamtinių dujų veiklos (perdavimo, skirstymo, laikymo, tiekimo nebuitiniams ir buitiniams vartotojams, SGD pakartotinio dujinimo) apskaitą tvarko atskirai. Atskirai tvarkoma ir su gamtinių dujų veikla nesusijusios veiklos rūšių apskaita. Gamtinių dujų įmonės, kurios, vadovaudamosi Energetikos įstatymo 16 straipsnio 8 dalimi, nėra įpareigotos skelbti metinių finansinių ataskaitų interneto svetainėse, pasibaigus kiekvieniems finansiniams metams per keturis mėnesius praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo reikalavimus, paskelbia savo interneto svetainėje. Jeigu šios gamtinių dujų įmonės dėl techninių priežasčių negali paskelbti praėjusių finansinių metų metinių finansinių ataskaitų ir auditoriaus išvadų savo interneto svetainėse ar jų neturi, tuomet jos apie tai raštu informuoja Komisiją ir praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal teisės aktų reikalavimus, teikia Komisijai, kuri paskelbia jas savo interneto svetainėje.
+
+
+
+
+2. Atskirų veiklos rūšių apskaita tvarkoma taip, kaip ji turėtų būti tvarkoma, jeigu šių rūšių veikla verstųsi atskiros įmonės su joms priskirtu turtu.
+
+
+
+
+3. Valstybės institucijos, įstatymų nustatyta tvarka atlikdamos joms pavestas įmonių veiklos priežiūros funkcijas, turi teisę susipažinti su gamtinių dujų įmonių apskaitos dokumentais, tačiau privalo saugoti gamtinių dujų įmonės pateiktą konfidencialią informaciją.
+
+
+
+
+4. Gamtinių dujų įmonės metinėse finansinėse ataskaitose turi pateikti informaciją apie 289 620 (dviejų šimtų aštuoniasdešimt devynių tūkstančių šešių šimtų dvidešimt) eurų ir didesnės vertės sandorius, sudarytus su susijusiomis įmonėmis.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1626, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18859
  
-
-
-
-
-2. Komisija nustato standartines gamtinių dujų įmonių apskaitos atskyrimo taisykles ir su apskaitos atskyrimu susijusius reikalavimus, įskaitant reikalavimą atlikti nepriklausomą auditą.
-
-
-
-
-3. Atskirų veiklos rūšių apskaita tvarkoma taip, kaip ji turėtų būti tvarkoma, jeigu šių rūšių veikla verstųsi atskiros įmonės su joms priskirtu turtu. 
-
-
-
-
-4. Valstybės institucijos, įstatymų nustatyta tvarka atlikdamos joms pavestas įmonių veiklos priežiūros funkcijas, turi teisę susipažinti su gamtinių dujų įmonių apskaitos dokumentais, tačiau privalo saugoti gamtinių dujų įmonės pateiktą konfidencialią informaciją.
-
-
-
-
-5. Gamtinių dujų įmonių metinės finansinės ataskaitos turi būti patikrintos nepriklausomo audito. Auditoriai išvadas teikia Komisijai. Gamtinių dujų įmonės metinėse finansinėse ataskaitose turi pateikti informaciją apie dviejų šimtų aštuoniasdešimt devynių tūkstančių šešių šimtų dvidešimties eurų ir didesnės vertės sandorius, sudarytus su susijusiomis įmonėmis.
-Straipsnio dalies pakeitimai:
-Nr. XII-1177, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13569
- 
-
-
 
 
 
@@ -3069,7 +3085,10 @@ GAMTINIŲ DUJŲ SEKTORIAUS PATIKIMUMAS
 
 
 
-2. Vyriausybė nustato konkrečias saugumą užtikrinančias priemones, kurių įgyvendinimas Komisijai, gamtinių dujų įmonėms ir vartotojams yra privalomas. Priemonės turi apimti minimalius dujų tiekimo patikimumo reikalavimus, pažeidžiamų vartotojų apibrėžimą, dujų tiekimo prioritetus dujų tiekimo sutrikimo atveju, dujų tiekimo kontrolės ir finansavimo tvarką, jos turi būti nediskriminuojančios, aiškios ir paskelbtos teisės aktų nustatyta tvarka. Su gamtinių dujų tiekimo saugumą užtikrinančių priemonių įgyvendinimu susijusių dalyvių funkcijas ir atsakomybę Vyriausybė nustato taip, kad visų pirma veiksmų turėtų imtis gamtinių dujų įmonės ir nebuitiniai dujų vartotojai, o po to – valstybės ir Europos Sąjungos institucijos.
+2. Vyriausybė nustato konkrečias saugumą užtikrinančias priemones, kurių įgyvendinimas Komisijai, gamtinių dujų įmonėms ir vartotojams yra privalomas. Priemonės turi apimti minimalius dujų tiekimo patikimumo reikalavimus, pažeidžiamų vartotojų ir solidariai saugomų pažeidžiamų vartotojų apibrėžimus, dujų tiekimo prioritetus dujų tiekimo sutrikimo atveju, dujų tiekimo kontrolės ir finansavimo tvarką, jos turi būti nediskriminuojančios, aiškios ir paskelbtos teisės aktų nustatyta tvarka. Su gamtinių dujų tiekimo saugumą užtikrinančių priemonių įgyvendinimu susijusių dalyvių funkcijas ir atsakomybę Vyriausybė nustato taip, kad visų pirma veiksmų turėtų imtis gamtinių dujų įmonės ir nebuitiniai dujų vartotojai, o po to – valstybės ir Europos Sąjungos institucijos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -3092,12 +3111,18 @@ GAMTINIŲ DUJŲ SEKTORIAUS PATIKIMUMAS
 
 
 
-3) esant susitarimų su kitomis valstybėmis narėmis, regioninio lygmens gamtinių dujų tiekimo sutrikimų rizikos vertinimo atlikimą;
+3) regioninio lygmens gamtinių dujų tiekimo sutrikimų rizikos vertinimo atlikimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
 
-4) esant susitarimų su kitomis valstybėmis narėmis, regioninio lygmens prevencinio ir ekstremaliųjų situacijų valdymo planų rengimą;
+4) regioninio lygmens prevencinio ir ekstremaliųjų situacijų valdymo planų rengimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -3219,7 +3244,10 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 
 
 
-3. Vyriausybė ar jos įgaliota institucija, atsižvelgdama į vidutinį buitinių vartotojų ir nebuitinių vartotojų, kurie per metus suvartoja iki 20 000 kubinių metrų gamtinių dujų, gamtinių dujų suvartojimą Reglamento (ES) Nr. 994/2010 8 straipsnio 1 dalyje nustatytais atvejais ir į būtinybę užtikrinti nepertraukiamą gamtinių dujų tiekimą, nustato gamtinių dujų tiekėjams privalomą sukaupti gamtinių dujų kiekį ir šio kiekio sukaupimo terminus.
+3. Vyriausybė ar jos įgaliota institucija, atsižvelgdama į buitinių vartotojų gamtinių dujų suvartojimą Reglamento (ES) Nr. 2017/1938 6 straipsnio 1 dalyje nustatytais atvejais ir į būtinybę užtikrinti nepertraukiamą gamtinių dujų tiekimą, nustato gamtinių dujų tiekėjams privalomą sukaupti gamtinių dujų kiekį ir šio kiekio sukaupimo terminus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+ 
 
 
 
@@ -4172,3 +4200,8 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 13-3 ir 37 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 5, 7, 9, 20, 21, 25, 31, 37-1, 38, 39, 45, 46, 47 straipsnių ir priedo pakeitimo ir Įstatymo papildymo septintuoju-1 skirsniu įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1626, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18859
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 7, 9, 20 ir 44 straipsnių pakeitimo įstatymas
