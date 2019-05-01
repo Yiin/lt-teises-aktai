@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.303FC0152D04"
 
 # Lietuvos Respublikos reklamos įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1937, i. k. 1001010ISTAIII-1871
  
@@ -900,62 +900,45 @@ REKLAMOS PRIEŽIŪRA
  
 
 
-19 straipsnis. Reklamos priežiūros institucijos
+19 straipsnis. Reklamos priežiūros institucijos
 
 
 1. Šiame įstatyme nustatytų reikalavimų įgyvendinimo priežiūrą, vadovaudamiesi šiuo ir kitais įstatymais, pagal kompetenciją atlieka:
 
 
-1) Valstybinė vartotojų teisių apsaugos tarnyba – dėl šio įstatymo 4, 7, 8, 9, 11, 13 straipsnių, 14 straipsnio (nagrinėja šiame straipsnyje nustatytų reikalavimų pažeidimus ir skiria baudas dėl pažeidimų, ištirtų savo iniciatyva, arba pagal Valstybinės maisto ir veterinarijos tarnybos pateiktus pažeidimų tyrimo dokumentus su atlikto tyrimo išvadomis (aktą, protokolą ar kitą dokumentą) (toliau – tyrimo dokumentas), 15, 16, 17 ir 18 straipsnių nuostatų;
+1) Valstybinė vartotojų teisių apsaugos tarnyba – dėl šio įstatymo 4, 5, 6, 7, 8, 9, 11, 13 straipsnių, 14 straipsnio (nagrinėja šiame straipsnyje nustatytų reikalavimų pažeidimus ir skiria baudas dėl pažeidimų, ištirtų savo iniciatyva, arba pagal Valstybinės maisto ir veterinarijos tarnybos pateiktus pažeidimų tyrimo dokumentus su atlikto tyrimo išvadomis (aktą, protokolą ar kitą dokumentą) (toliau – tyrimo dokumentas), 15, 16, 17 ir 18 straipsnių nuostatų;
 
 
 
 
-2) Lietuvos Respublikos konkurencijos taryba (toliau – Konkurencijos taryba) – dėl šio įstatymo 5 ir 6 straipsnių nuostatų;
+2) Valstybinė maisto ir veterinarijos tarnyba – dėl šio įstatymo 14 straipsnio nuostatų (atlieka tyrimą dėl šiame straipsnyje nustatytų reikalavimų pažeidimo ir surašo tyrimo dokumentus);
 
 
 
 
-3) Valstybinė maisto ir veterinarijos tarnyba – dėl šio įstatymo 14 straipsnio nuostatų (atlieka tyrimą dėl šiame straipsnyje nustatytų reikalavimų pažeidimo ir surašo tyrimo dokumentus);
+3) savivaldybių vykdomosios institucijos – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų;
 
 
 
 
-4) savivaldybių vykdomosios institucijos – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
+4) Kultūros paveldo departamentas prie Kultūros ministerijos – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų (dėl išorinės reklamos įrengimo kultūros paveldo objektuose, jų teritorijose ir apsaugos zonose);
+
+
+
+
+5) saugomų teritorijų direkcija arba Aplinkos apsaugos departamentas, kai saugomoje teritorijoje nėra įsteigtos saugomų teritorijų direkcijos, – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų (dėl išorinės reklamos įrengimo saugomose teritorijose).
+
+
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytos institucijos (toliau – priežiūros institucijos), atlikdamos reklamos naudojimo priežiūrą, bendradarbiauja su reklamos savitvarkos institucijomis. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2010, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05340
  
-
-
-
-
-5) Kultūros paveldo departamentas prie Kultūros ministerijos – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų (dėl išorinės reklamos įrengimo kultūros paveldo objektuose, jų teritorijose ir apsaugos zonose); 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
- 
-
-
-
-
-6) saugomų teritorijų direkcija arba Aplinkos apsaugos departamentas, kai saugomoje teritorijoje nėra įsteigtos saugomų teritorijų direkcijos, – dėl šio įstatymo 12 straipsnio 1, 3, 5, 15 ir 16 dalių nuostatų (dėl išorinės reklamos įrengimo saugomose teritorijose). 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
- 
-
-
-
-
-
-
-2. Konkurencijos taryba yra atsakinga už Reglamento (EB) Nr. 2006/2004 taikymą, kiek tai susiję su Konkurencijos tarybos funkcijomis prižiūrint, ar reklama nėra klaidinanti, ir lyginamąją reklamą.
-
-
-
-
-3. Šio straipsnio 1 dalyje nurodytos institucijos (toliau – priežiūros institucijos), atlikdamos reklamos naudojimo priežiūrą, bendradarbiauja su reklamos savitvarkos institucijomis.
- 
-
-
 
 
 
@@ -1039,22 +1022,10 @@ Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
 
 
 
-2. Konkurencijos taryba, be šio straipsnio 1 dalyje nustatytų teisių, turi:
-
-
-1) teisę įpareigoti reklaminės veiklos subjektus, kurių reklama pripažinta klaidinančia ar neleidžiama lyginamąja, ją paneigti ir nustatyti šio įpareigojimo įvykdymo terminus, tvarką ir sąlygas;
-
-
-
-
-2) Reglamente (EB) Nr. 2006/2004 kompetentingai institucijai numatytas teises, kiek tai susiję su Konkurencijos tarybos funkcijomis prižiūrint, ar reklama nėra klaidinanti, ir lyginamąją reklamą;
-
-
-
-
-3) teisę nustatyti Konkurencijos tarybos veiklos, atliekant reklamos naudojimo priežiūrą, prioritetus, kurie skelbiami Konkurencijos tarybos interneto svetainėje.
-
-
+2. Valstybinė vartotojų teisių apsaugos tarnyba, be šio straipsnio 1 dalyje nustatytų teisių, turi teisę įpareigoti reklaminės veiklos subjektus, kurių reklama pripažinta klaidinančia ar neleidžiama lyginamąja, ją paneigti ir nustatyti šio įpareigojimo įvykdymo terminus, tvarką ir sąlygas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2010, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05340
+ 
 
 
 
@@ -1142,9 +1113,10 @@ Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
 
 
 
-2. Už priežiūros institucijų laikino įpareigojimo sustabdyti reklamos skleidimą nevykdymą, įpareigojimo nutraukti šiame įstatyme nustatytų reikalavimų neatitinkančios reklamos naudojimą nevykdymą ar netinkamą jo vykdymą, už reklamos, kurios naudojimą reklaminės veiklos subjektas buvo įpareigotas nutraukti, pakartotinį naudojimą, jeigu tai pažeidžia šiame įstatyme nustatytus reikalavimus, arba Konkurencijos tarybos įpareigojimo paneigti klaidinančią ar neleidžiamą lyginamąją reklamą nevykdymą ar netinkamą jo vykdymą reklaminės veiklos subjektams skiriama dviejų šimtų aštuoniasdešimt devynių eurų bauda už kiekvieną įpareigojimų nevykdymo, netinkamo vykdymo ar reklamos pakartotinio naudojimo dieną. 
+2. Už priežiūros institucijų laikino įpareigojimo sustabdyti reklamos skleidimą nevykdymą, įpareigojimo nutraukti šiame įstatyme nustatytų reikalavimų neatitinkančios reklamos naudojimą nevykdymą ar netinkamą vykdymą, už reklamos, kurios naudojimą reklaminės veiklos subjektas buvo įpareigotas nutraukti, pakartotinį naudojimą, jeigu tai pažeidžia šiame įstatyme nustatytus reikalavimus, arba Valstybinės vartotojų teisių apsaugos tarnybos įpareigojimo paneigti klaidinančią ar neleidžiamą lyginamąją reklamą nevykdymą ar netinkamą vykdymą reklaminės veiklos subjektams skiriama dviejų šimtų aštuoniasdešimt devynių eurų bauda už kiekvieną įpareigojimų nevykdymo, netinkamo vykdymo ar reklamos pakartotinio naudojimo dieną. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1189, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14284
+Nr. XIII-2010, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05340
  
 
 
@@ -1279,7 +1251,10 @@ Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
 
 
 
-7. Konkurencijos taryba arba jos įgaliotas pareigūnas, be šio straipsnio 5 ir 6 dalyse nurodytų pranešimo (skundo) nagrinėjimo atsisakymo atvejų, gali atsisakyti pradėti pranešimo (skundo) nagrinėjimo procedūrą, jeigu pranešime (skunde) nurodyto šiame įstatyme nustatytų reikalavimų pažeidimo nagrinėjimas neatitinka Konkurencijos tarybos veiklos prioritetų. Ši nuostata netaikoma, jeigu pranešime (skunde) yra faktinių duomenų, leidžiančių pagrįstai įtarti, kad pažeidimas daro esminę žalą šio įstatymo saugomiems asmenų interesams.
+7. Neteko galios 2019-05-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2010, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05340
+ 
 
 
 
@@ -1596,3 +1571,8 @@ Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 14 straipsnio pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1123, 2018-04-26, paskelbta TAR 2018-04-30, i. k. 2018-06902
 Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2010, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05340
+Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas
