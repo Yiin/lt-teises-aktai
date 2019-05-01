@@ -21,7 +21,7 @@ DRAUDIMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2015-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 6-212, i. k. 1071010ISTA00X-1409
  
@@ -587,20 +587,15 @@ NESĄŽININGOS KOMERCINĖS VEIKLOS KONTROLĖ
  
 
 
-9 straipsnis. Nesąžiningos komercinės veiklos kontrolės institucijos
+9 straipsnis. Nesąžiningos komercinės veiklos kontrolės institucija
 
 
-1. Kaip laikomasi šio įstatymo nuostatų, išskyrus šio straipsnio 2 dalies nuostatas, kontroliuoja Valstybinė vartotojų teisių apsaugos tarnyba (toliau – Tarnyba).
+Kaip laikomasi šio įstatymo nuostatų, kontroliuoja Valstybinė vartotojų teisių apsaugos tarnyba (toliau – Tarnyba).
 
 
-
-
-2. Lietuvos Respublikos konkurencijos taryba (toliau – Konkurencijos taryba) kontroliuoja, ar reklama nėra klaidinanti, ir lyginamąją reklamą Lietuvos Respublikos reklamos įstatymo nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XII-317, 2013-05-16, Žin., 2013, Nr. 57-2856 (2013-06-01), i. k. 1131010ISTA0XII-317
+Straipsnio pakeitimai:
+Nr. XIII-2012, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05345
  
-
-
 
 
 
@@ -1168,3 +1163,8 @@ Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1249, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14869
 Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 13 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2012, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05345
+Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 9 straipsnio pakeitimo įstatymas
