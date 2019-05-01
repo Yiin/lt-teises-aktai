@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
+ 
+TAR pastaba. Iki įstatymo Nr. XIII-2011 įsigaliojimo (2019-05-01) Lietuvos Respublikos konkurencijos tarybos pradėtos, bet nebaigtos Lietuvos Respublikos reklamos įstatymo pažeidimų nagrinėjimo procedūros ir gauti skundai, dėl kurių iki šio įstatymo įsigaliojimo nepriimti sprendimai pradėti Reklamos įstatymo pažeidimų nagrinėjimo procedūras, baigiami nagrinėti pagal iki šio įstatymo įsigaliojimo galiojusius teisės aktus.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 15, 16, 18, 19, 22 ir 32 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-02-01:
 Nr. XIII-193, 2017-01-12, paskelbta TAR 2017-01-18, i. k. 2017-01075
@@ -778,7 +783,10 @@ NESĄŽININGA KONKURENCIJA
 
 
 
-7) reklamos, kuri pagal Lietuvos Respublikos reklamos įstatymą (toliau – Reklamos įstatymas) laikoma klaidinančia ar neleistina lyginamąja reklama, naudojimą.
+7) neteko galios 2019-05-01.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
+ 
 
 
 
@@ -841,7 +849,10 @@ NESĄŽININGA KONKURENCIJA
 
 
 
-3. Atsakomybę už klaidinančios ar neleistinos lyginamosios reklamos naudojimą nustato Reklamos įstatymas, Lietuvos Respublikos administracinių nusižengimų kodeksas (toliau – Administracinių nusižengimų kodeksas) ir Lietuvos Respublikos civilinis kodeksas (toliau – Civilinis kodeksas).
+3. Neteko galios 2019-05-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
+ 
 
 
 
@@ -918,7 +929,10 @@ KONKURENCIJOS PRIEŽIŪROS INSTITUCIJA
 
 
 
-5) tiria ir nagrinėja šio įstatymo, Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo (toliau – Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymas), Reklamos įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, pažeidimus ir taiko pažeidėjams šiuose įstatymuose numatytas sankcijas;
+5) tiria ir nagrinėja šio įstatymo, Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo (toliau – Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymas) ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, pažeidimus ir taiko pažeidėjams šiuose įstatymuose numatytas sankcijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
+ 
 
 
 
@@ -988,7 +1002,10 @@ KONKURENCIJOS PRIEŽIŪROS INSTITUCIJA
 
 
 
-7) užfiksuoti faktines aplinkybes, reikšmingas tyrimams dėl šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo, Reklamos įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, pažeidimų pradėti ir atlikti;
+7) užfiksuoti faktines aplinkybes, reikšmingas tyrimams dėl šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, pažeidimų pradėti ir atlikti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
+ 
 
 
 
@@ -1081,7 +1098,10 @@ KONKURENCIJOS PRIEŽIŪROS INSTITUCIJA
 
 
 
-8. Konkurencijos taryba dalį savo įgaliojimų, išskyrus šiame įstatyme nurodytų nutarimų priėmimą, procedūros dėl šio įstatymo pažeidimų dalyvių išklausymą ir šio įstatymo nustatytų sankcijų taikymą bei norminių teisės aktų, susijusių su šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo, Reklamos įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, taikymu, priėmimą, turi teisę perduoti Konkurencijos tarybos pirmininkui arba atskiriems nariams pagal veiklos sritis.
+8. Konkurencijos taryba dalį savo įgaliojimų, išskyrus šiame įstatyme nurodytų nutarimų priėmimą, procedūros dėl šio įstatymo pažeidimų dalyvių išklausymą ir šio įstatymo nustatytų sankcijų taikymą bei norminių teisės aktų, susijusių su šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, taikymu, priėmimą, turi teisę perduoti Konkurencijos tarybos pirmininkui arba atskiriems nariams pagal veiklos sritis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
+ 
 
 
 
@@ -1091,7 +1111,9 @@ KONKURENCIJOS PRIEŽIŪROS INSTITUCIJA
 
 
 
-10. Konkurencijos tarybos darbo tvarka ir jos atliekamų procedūrų dėl šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo, Reklamos įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, pažeidimų taisyklės nustatomos Konkurencijos tarybos nutarimu priimtame darbo reglamente.
+10. Konkurencijos tarybos darbo tvarka ir jos atliekamų procedūrų dėl šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, pažeidimų taisyklės nustatomos Konkurencijos tarybos nutarimu priimtame darbo reglamente. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
  
 
 
@@ -1306,7 +1328,9 @@ KONKURENCIJOS TARYBOS ATLIEKAMAS ŠIO ĮSTATYMO PAŽEIDIMO TYRIMAS
 
 
 
-5. Atskiroms Konkurencijos tarybos kompetencijai priskirtų tirti ir nagrinėti šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo, Reklamos įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, pažeidimų rūšims Konkurencijos taryba turi teisę nustatyti atskirą tyrimo ir nagrinėjimo tvarką, kiek tai neprieštarauja šių įstatymų nuostatoms.
+5. Konkurencijos taryba turi teisę nustatyti skirtingą jos kompetencijai priskirtų tirti ir nagrinėti šio įstatymo, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, atskirų rūšių pažeidimų tyrimo ir nagrinėjimo tvarką, kiek tai neprieštarauja šių įstatymų nuostatoms. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
  
 
 
@@ -1790,7 +1814,9 @@ KONKURENCIJOS TARYBOS IR JOS ĮGALIOTŲ PAREIGŪNŲ SPRENDIMŲ IR VEIKSMŲ APSKU
 
 
 
-4. Šiame straipsnyje nustatyta apskundimo tvarka mutatis mutandis taikoma Konkurencijos tarybos darbuotojų priimtiems sprendimams ir atliktiems veiksmams šio įstatymo II skyriaus trečiajame skirsnyje atliekamos koncentracijos priežiūros metu ir kitais atvejais, kai tokie veiksmai ir sprendimai yra susiję su Konkurencijos tarybai šiuo įstatymu, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymu, Reklamos įstatymu ir kitais įstatymais, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, priskirtų funkcijų atlikimu.
+4. Šiame straipsnyje nustatyta apskundimo tvarka mutatis mutandis taikoma Konkurencijos tarybos darbuotojų priimtiems sprendimams ir atliktiems veiksmams šio įstatymo II skyriaus trečiajame skirsnyje nurodytos koncentracijos priežiūros metu ir kitais atvejais, kai tokie veiksmai ir sprendimai yra susiję su Konkurencijos tarybai šiuo įstatymu, Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymu ir kitais įstatymais, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, priskirtų funkcijų atlikimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
  
 
 
@@ -2971,3 +2997,8 @@ Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
 Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 3, 8, 9, 11 ir 12 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 15, 16, 18, 19, 22 ir 32 straipsnių pakeitimo įstatymas
