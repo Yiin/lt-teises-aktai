@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2019-01-22 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-05-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -242,6 +242,15 @@ Nr. XIII-953, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21664
 
 
 
+21) Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiai ir jų šeimos nariai, kurie iki šios valstybės išstojimo iš Europos Sąjungos dienos buvo įgiję teisę gyventi Lietuvos Respublikoje ir teisėtai gyvena Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“; 
+TAR pastaba. 1 dalies papildymas 21 punktu įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
+Papildyta straipsnio punktu:
+Nr. XIII-2051, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06686
+ 
+
+
+
+
 3) nelydimi nepilnamečiai užsieniečiai;
 
 
@@ -323,6 +332,13 @@ Nr. XIII-1341, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10979
 
 
 7) Lietuvos Respublikos aukštųjų mokyklų studentai, studijuojantys pagal nuolatinės studijų formos studijų programas, Lietuvos Respublikos piliečiai ir kitų valstybių piliečiai bei asmenys be pilietybės, nuolat gyvenantys Lietuvos Respublikoje, studijuojantys Europos Sąjungos valstybių narių aukštosiose mokyklose pagal nuolatinės studijų formos studijų programas, mokiniai, kurie mokosi Lietuvos Respublikos mokyklose pagal bendrojo ugdymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu;
+7 punkto redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną ir galiojanti iki 2023-08-31:
+7) Lietuvos Respublikos aukštųjų mokyklų studentai, studijuojantys pagal nuolatinės studijų formos studijų programas, Lietuvos Respublikos piliečiai ir kitų valstybių piliečiai bei asmenys be pilietybės, nuolat gyvenantys Lietuvos Respublikoje, studijuojantys Europos Sąjungos valstybių narių (taip pat Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, jeigu studijos buvo pradėtos iki šios valstybės išstojimo iš Europos Sąjungos dienos) aukštosiose mokyklose pagal nuolatinės studijų formos studijų programas, mokiniai, kurie mokosi Lietuvos Respublikos mokyklose pagal bendrojo ugdymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu;
+7 punkto redakcija, įsigaliojanti 2023-09-01:
+7) Lietuvos Respublikos aukštųjų mokyklų studentai, studijuojantys pagal nuolatinės studijų formos studijų programas, Lietuvos Respublikos piliečiai ir kitų valstybių piliečiai bei asmenys be pilietybės, nuolat gyvenantys Lietuvos Respublikoje, studijuojantys Europos Sąjungos valstybių narių aukštosiose mokyklose pagal nuolatinės studijų formos studijų programas, mokiniai, kurie mokosi Lietuvos Respublikos mokyklose pagal bendrojo ugdymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2051, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06686
+ 
 
 
 
@@ -392,17 +408,19 @@ Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 
 
 
-5. Lietuvos Respublikos privalomosios pradinės karo tarnybos karių, taip pat privalomosios karo tarnybos karių, paskelbus mobilizaciją pašauktų į karinius mokymus įgyti pagrindinio karinio parengtumo, užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, taip pat užsieniečių, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje, teismo ar teisėsaugos institucijų sulaikytų asmenų, esančių kardomojo kalinimo vietose, nuteistųjų laisvės atėmimu ir asmenų, padariusių visuomenei pavojingą veiką, kuriems teismo nutartimi paskirtos priverčiamosios medicininio pobūdžio priemonės, sveikatos priežiūra apmokama iš valstybės biudžeto lėšų Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos institucijos nustatyta tvarka. 
+5. Lietuvos Respublikos privalomosios pradinės karo tarnybos karių, taip pat privalomosios karo tarnybos karių, paskelbus mobilizaciją pašauktų į karinius mokymus įgyti pagrindinio karinio parengtumo, užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, taip pat užsieniečių, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje, teismo ar teisėsaugos institucijų sulaikytų asmenų, esančių kardomojo kalinimo vietose, nuteistųjų laisvės atėmimu asmenų, laikomų laisvės atėmimo vietų įstaigose, ir asmenų, padariusių visuomenei pavojingą veiką, kuriems teismo nutartimi paskirtos priverčiamosios medicininio pobūdžio priemonės, sveikatos priežiūra apmokama iš valstybės biudžeto lėšų Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1643, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06584
+Nr. XIII-1950, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00893
  
 
 
 
 
-6. Privalomojo sveikatos draudimo fondas disponuoja valstybės biudžeto lėšomis, skirtomis šio straipsnio 4 dalyje nurodytų asmenų privalomajam sveikatos draudimui ir asmenų, nurodytų šio straipsnio 5 dalyje, sveikatos priežiūros paslaugoms apmokėti, išskyrus atvejus, kai šios paslaugos teikiamos teisingumo, krašto apsaugos ar vidaus reikalų ministrų valdymo srities sveikatos priežiūros įstaigose. 
+6. Privalomojo sveikatos draudimo fondas disponuoja valstybės biudžeto lėšomis, skirtomis šio straipsnio 4 dalyje nurodytų asmenų privalomajam sveikatos draudimui, ir asmenų, nurodytų šio straipsnio 5 dalyje, sveikatos priežiūros paslaugoms apmokėti, išskyrus atvejus, kai šios paslaugos teikiamos teisingumo, krašto apsaugos ar vidaus reikalų ministrų valdymo srities sveikatos priežiūros įstaigose, taip pat lėšomis, skirtomis asmenų, laikomų laisvės atėmimo vietų įstaigose, gydymui nuo pavojingų užkrečiamųjų ligų reikalingiems vaistams įsigyti. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1643, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06584
+Nr. XIII-1950, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00893
  
 
 
@@ -2972,3 +2990,8 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6, 16, 17 ir 18 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1950, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00893
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 ir 21 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2051, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06686
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeitimo įstatymas
