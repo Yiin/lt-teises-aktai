@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2019-02-09 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -2053,7 +2053,10 @@ Nr. XII-1498, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21252
 3. Receptinių vaistinių preparatų grupėje nustatomas vaistinių preparatų, kuriems taikomi specialūs sveikatos apsaugos ministro nustatyti išrašymo reikalavimai, pogrupis. Jam priskiriami vaistiniai preparatai, atitinkantys nors vieną iš šių kriterijų:
 
 
-1) jų sudėtyje yra narkotinių ar psichotropinių medžiagų, įrašytų į Lietuvos Respublikos sveikatos apsaugos ministro tvirtinamų narkotinių ir psichotropinių medžiagų sąrašų II sąrašą (Narkotinės ir psichotropinės medžiagos, leidžiamos vartoti medicinos tikslams);
+1) jų sudėtyje yra narkotinių ar psichotropinių medžiagų, įrašytų į Lietuvos Respublikos sveikatos apsaugos ministro tvirtinamų narkotinių ir psichotropinių medžiagų sąrašų I sąrašą (Narkotinės ir psichotropinės medžiagos, draudžiamos vartoti medicinos tikslais, išskyrus atvejus, kai į I sąrašą įrašytos medžiagos yra registruoto vaistinio preparato sudėtyje) ir II sąrašą (Narkotinės ir psichotropinės medžiagos, leidžiamos vartoti medicinos tikslams);
+Straipsnio punkto pakeitimai:
+Nr. XIII-1530, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16539
+ 
 
 
 
@@ -8468,7 +8471,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
  
  
-part_9e41df4158144eb0852e2317fc750c2a_end
+part_40e8360527284459a23aeb71a75e9a4c_end
 
 
 Pakeitimai:
@@ -8688,3 +8691,8 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 19, 33, 35, 35-1, 59-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 15, 17, 27, 33, 35, 36, 39, 48, 57 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 65-1 straipsniu įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1530, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16539
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 10 straipsnio pakeitimo įstatymas
