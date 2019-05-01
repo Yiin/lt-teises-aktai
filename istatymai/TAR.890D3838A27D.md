@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.890D3838A27D"
 
 # Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 30-712, i. k. 0971010ISTAVIII-157
  
@@ -527,7 +527,15 @@ Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
 
 
 
-8) medicininį mirties liudijimą išdavusio gydytojo pareigos, vardas, pavardė ir parašas.
+8) medicininį mirties liudijimą išdavusio gydytojo pareigos, vardas, pavardė ir parašas;
+
+
+
+
+9) žyma, kad yra bent viena iš sąlygų, nurodytų šio įstatymo 12 straipsnio 2 dalyje, arba jų nėra.
+Papildyta straipsnio punktu:
+Nr. XIII-1190, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09347
+ 
 
 
 
@@ -683,3 +691,8 @@ Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2119, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19712
 Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 15 ir 15-1 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1190, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09347
+Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 14 straipsnio pakeitimo įstatymas
