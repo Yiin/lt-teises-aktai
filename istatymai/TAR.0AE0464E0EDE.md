@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0AE0464E0EDE"
 
 # Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-05-01
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 82-3260, i. k. 1061010ISTA000X-764
+ 
+TAR pastaba. Įstatymo Nr. XIII-1629 nuostatos, susijusios su reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, taikomos atliekant 2019 m. sausio 1 d. ir vėliau prasidedančių finansinių metų reguliuojamosios veiklos ataskaitų patikrą ir reguliavimo apskaitos sistemos patikrą.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 3, 9, 26, 33 ir 36 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2014-11-01:
 Nr. XII-939, 2014-06-12, paskelbta TAR 2014-06-17, i. k. 2014-07685
@@ -207,7 +212,47 @@ Nr. XIII-1164, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08638
 
 
 
+291. Reguliavimo apskaitos sistema – reguliavimo veiklos tikslais naudojama geriamojo vandens tiekėjo ir nuotekų tvarkytojo, paviršinių nuotekų tvarkytojo veiklos apskaitos, apimančios apskaitos atskyrimą ir sąnaudų paskirstymą, sistema. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+ 
+
+
+
+
+292. Reguliavimo apskaitos sistemos patikra – geriamojo vandens tiekėjui ir nuotekų tvarkytojui, paviršinių nuotekų tvarkytojui auditoriaus, audito įmonės pagal Valstybinės kainų ir energetikos kontrolės komisijos tam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, paviršinių nuotekų tvarkytojui motyvuotu sprendimu nustatytą reikalavimą teikiama paslauga, kurią atlikus pagal Valstybinės kainų ir energetikos kontrolės komisijos patvirtintą techninę užduotį pateikiama reguliavimo apskaitos sistemos patikros ataskaita ir (ar) išvada. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+ 
+
+
+
+
+293. Reguliuojamosios veiklos ataskaitos – geriamojo vandens tiekėjo ir nuotekų tvarkytojo, paviršinių nuotekų tvarkytojo Valstybinei kainų ir energetikos kontrolės komisijai teikiamos vykdomos veiklos ataskaitos, kurios rengiamos vadovaujantis reguliavimo apskaitos sistemos reikalavimais ir geriamojo vandens tiekėjo ir nuotekų tvarkytojo, paviršinių nuotekų tvarkytojo veiklą reglamentuojančiais teisės aktais ir kuriose parodomas apskaitos atskyrimas ir sąnaudų paskirstymas pagal veiklas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+ 
+
+
+
+
+294. Reguliuojamosios veiklos ataskaitų patikra – geriamojo vandens tiekėjui ir nuotekų tvarkytojui, paviršinių nuotekų tvarkytojui auditoriaus, audito įmonės kasmet teikiama paslauga, kurią atlikus pagal Valstybinės kainų ir energetikos kontrolės komisijos patvirtintą ar pratęstą galioti techninę užduotį pateikiama reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+ 
+
+
+
+
 30. Savitoji nuotekų tarša – teršiančių medžiagų, kurių bazinė koncentracija, vadovaujantis Valstybinės kainų ir energetikos kontrolės komisijos patvirtintu Nuotekų valymo kainos už padidėjusią ir savitąją taršą skaičiavimo tvarkos aprašu, nebuvo nustatyta ir kurių koncentracija viršija Nuotekų tvarkymo reglamente nustatytas ribines koncentracijas medžiagų, išleidžiamų į geriamojo vandens tiekėjo ir nuotekų tvarkytojo nuotekų surinkimo sistemą, ir didžiausias leidžiamas koncentracijas medžiagų, išleidžiamų į gamtinę aplinką, buvimas į geriamojo vandens tiekėjo ir nuotekų tvarkytojo naudojamą nuotekų tvarkymo infrastruktūrą išleidžiamose nuotekose.
+
+
+
+
+301. Techninė užduotis – Valstybinės kainų ir energetikos kontrolės komisijos kasmet iki kovo 31 dienos tvirtinamas ar pratęsiamas galioti dokumentas, o atliekant reguliavimo apskaitos sistemos patikrą šio įstatymo 33 straipsnio 11 dalyje nustatytais atvejais Valstybinės kainų ir energetikos kontrolės komisijos tvirtinamas dokumentas, kuriame nurodomi konkretūs Tarptautinės buhalterių federacijos Tarptautinių audito ir užtikrinimo standartų valdybos parengti ir patvirtinti tarptautiniai užtikrinimo užduočių, tarptautiniai peržiūros užduočių, tarptautiniai susijusių paslaugų standartai ir susiję praktiniai nurodymai (toliau – profesiniai standartai) arba tarptautiniai audito standartai, kuriais vadovaujantis turi būti atliekama geriamojo vandens tiekėjų ir nuotekų tvarkytojų, paviršinių nuotekų tvarkytojų reguliuojamosios veiklos ataskaitų patikra ir (ar) reguliavimo apskaitos sistemos patikra ir šių patikros paslaugų reikalavimai ir (ar) apimtis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+ 
 
 
 
@@ -504,7 +549,10 @@ Valstybinė maisto ir veterinarijos tarnyba:
 
 
 
-6) nustato su viešojo geriamojo vandens tiekimo ir (arba) nuotekų tvarkymo veikla susijusių sąnaudų ir būtinųjų sąnaudų apskaitos taisykles ir su sąnaudų apskaita susijusių reikalavimų sąvadą;
+6) tvirtina reguliavimo apskaitos sistemos reikalavimus ir (ar) metodą, ir (ar) modelį ir technines užduotis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+ 
 
 
 
@@ -1494,7 +1542,10 @@ Geriamojo vandens tiekėjas ir nuotekų tvarkytojas privalo vykdyti šias licenc
 
 
 
-4) atlikti licencijuojamos veiklos sąnaudų auditą ir viešai skelbti informaciją, nurodytą šio įstatymo 36 straipsnyje;
+4) užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra vadovaujantis šio įstatymo 33 straipsnio 9–15 dalių nuostatomis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+ 
 
 
 
@@ -1932,7 +1983,57 @@ SĄNAUDŲ APSKAITA IR KONTROLĖ. KAINŲ NUSTATYMAS. ATSISKAITYMO TVARKA
 
 
 
-9. Geriamojo vandens tiekėjas ir nuotekų tvarkytojas ne rečiau kaip kartą per metus privalo atlikti tvarkomos apskaitos atitikties Valstybinės kainų ir energetikos kontrolės komisijos nustatytoms Geriamojo vandens tiekimo ir nuotekų tvarkymo apskaitos atskyrimo taisyklėms ir kituose teisės aktuose įtvirtintiems reikalavimams auditą.
+9. Geriamojo vandens tiekėjas ir nuotekų tvarkytojas, paviršinių nuotekų tvarkytojas privalo rengti reguliuojamosios veiklos ataskaitas ir užtikrinti, kad pasibaigus kiekvieniems finansiniams metams per 4 mėnesius pagal Valstybinės kainų ir energetikos kontrolės komisijos patvirtintą ar pratęstą galioti techninę užduotį būtų atlikta reguliuojamosios veiklos ataskaitų patikra dėl ataskaitų atitikties Valstybinės kainų ir energetikos kontrolės komisijos patvirtintiems reguliavimo apskaitos sistemos reikalavimams ir (ar) metodui, ir (ar) modeliui ir reguliuojamosios veiklos ataskaitos, reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada pateiktos Valstybinei kainų ir energetikos kontrolės komisijai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+ 
+
+
+
+
+10. Reguliuojamosios veiklos ataskaitos, reguliuojamosios veiklos ataskaitų patikros ataskaita ir (ar) išvada ir reguliavimo apskaitos sistemos patikros ataskaita ir (ar) išvada, išskyrus konfidencialią informaciją, yra viešos ir skelbiamos geriamojo vandens tiekėjo ir nuotekų tvarkytojo, paviršinių nuotekų tvarkytojo interneto svetainėje arba Valstybinės kainų ir energetikos kontrolės komisijos interneto svetainėje, jeigu geriamojo vandens tiekėjas ir nuotekų tvarkytojas, paviršinių nuotekų tvarkytojas neturi savo interneto svetainės. Informacija apie reguliuojamų veiklų sąnaudas negali būti pripažįstama konfidencialia. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+ 
+
+
+
+
+11. Jeigu Valstybinė kainų ir energetikos kontrolės komisija turi informacijos ar Valstybinei kainų ir energetikos kontrolės komisijai kyla pagrįstų įtarimų, kad geriamojo vandens tiekėjų ir nuotekų tvarkytojų, paviršinių nuotekų tvarkytojų tvarkoma reguliavimo apskaitos sistema neatitinka teisės aktuose įtvirtintų reikalavimų, ar paaiškėja aplinkybės dėl netinkamai vykdomos reguliuojamosios veiklos, Valstybinė kainų ir energetikos kontrolės komisija motyvuotu sprendimu gali nustatyti reikalavimą bet kuriam geriamojo vandens tiekėjui ir nuotekų tvarkytojui, paviršinių nuotekų tvarkytojui ne vėliau kaip per 12 mėnesių nuo Valstybinės kainų ir energetikos kontrolės komisijos sprendimo priėmimo dienos pagal Valstybinės kainų ir energetikos kontrolės komisijos patvirtintą techninę užduotį atlikti reguliavimo apskaitos sistemos patikrą dėl jos atitikties reguliuojamąją veiklą reglamentuojantiems teisės aktų reikalavimams ir per 10 darbo dienų nuo reguliavimo apskaitos sistemos patikros atlikimo dienos pateikti reguliavimo apskaitos sistemos patikros ataskaitą ir (ar) išvadą Valstybinei kainų ir energetikos kontrolės komisijai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+ 
+
+
+
+
+12. Valstybinė kainų ir energetikos kontrolės komisija, rengdama techninę užduotį, konsultuojasi su Lietuvos auditorių rūmais. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+ 
+
+
+
+
+13. Reguliuojamosios veiklos ataskaitų patikrą ir reguliavimo apskaitos sistemos patikrą gali atlikti auditorius, audito įmonė, turintys teisę atlikti finansinių ataskaitų auditą Lietuvos Respublikos finansinių ataskaitų audito įstatymo nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+ 
+
+
+
+
+14. Jeigu Valstybinė kainų ir energetikos kontrolės komisija turi informacijos ar Valstybinei kainų ir energetikos kontrolės komisijai kyla pagrįstų įtarimų dėl netinkamai atliktos reguliuojamųjų įmonių veiklos ataskaitų patikros ir (ar) reguliavimo apskaitos sistemos patikros, Lietuvos Respublikos Vyriausybės įgaliota atlikti auditorių ir audito įmonių viešąją priežiūrą įstaiga pagal Finansinių ataskaitų audito įstatymą atlieka reguliuojamosios veiklos ataskaitų patikros ir (ar) reguliavimo apskaitos sistemos patikros kokybės tyrimą (toliau – reguliuojamosios veiklos patikros kokybės tyrimas) ir parengia reguliuojamosios veiklos patikros kokybės tyrimo ataskaitą. Jeigu reguliuojamosios veiklos patikros kokybės tyrimo ataskaitoje nurodyta, kad auditorius, audito įmonė, atlikdami atitinkamą patikrą, nesilaikė tokiai patikrai techninėje užduotyje nurodytų taikyti profesinių standartų arba nurodytų tarptautinių audito standartų, kaip tai yra nustatyta Finansinių ataskaitų audito įstatymo 521 straipsnio 3 dalyje, tos patikros sąnaudos negali būti pripažintos būtinosiomis nustatant valstybės reguliuojamas kainas ir Valstybinė kainų ir energetikos kontrolės komisija turi teisę įpareigoti geriamojo vandens tiekėją ir nuotekų tvarkytoją, paviršinių nuotekų tvarkytoją ne vėliau kaip per 6 mėnesius atlikti pakartotinę reguliuojamosios veiklos ataskaitų patikrą ir (ar) pakartotinę reguliavimo apskaitos sistemos patikrą šio įstatymo nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+ 
+
+
+
+
+15. Valstybinė kainų ir energetikos kontrolės komisija šio įstatymo 9 straipsnyje nurodytoms funkcijoms vykdyti turi teisę gauti iš auditoriaus, audito įmonės, atlikusių reguliuojamosios veiklos ataskaitų patikrą ir (ar) reguliavimo apskaitos sistemos patikrą, paaiškinimus, susijusius su atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, paaiškinimus pagrindžiančius duomenis ir dokumentus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
  
 
 
@@ -2203,6 +2304,13 @@ INFORMACIJOS TEIKIMAS VISUOMENEI, VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJOMS
 
 
 4. Abonentų ir vartotojų teises ginančios institucijos teisės aktų nustatyta tvarka turi teisę gauti iš geriamojo vandens tiekėjų ir nuotekų tvarkytojų, paviršinių nuotekų tvarkytojų informaciją, reikalingą abonentų ir vartotojų teisėms ginti.
+
+
+
+
+5. Geriamojo vandens tiekėjai ir nuotekų tvarkytojai, paviršinių nuotekų tvarkytojai, kurie pagal Lietuvos Respublikos finansinės atskaitomybės įstatymo reikalavimus privalo atlikti finansinių ataskaitų auditą, užtikrina, kad pasibaigus kiekvieniems finansiniams metams per 4 mėnesius būtų atliktas metinių finansinių ataskaitų auditas ir auditoriaus išvada kartu su finansinėmis ataskaitomis pateikta Valstybinei kainų ir energetikos kontrolės komisijai ir paskelbta savivaldybių arba geriamojo vandens tiekėjų ir nuotekų tvarkytojų, paviršinių nuotekų tvarkytojų interneto svetainėse. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
  
 
 
@@ -2489,3 +2597,8 @@ Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1164, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08638
 Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 3, 10, 12, 13 ir 14 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1629, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18919
+Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 3, 9, 26, 33 ir 36 straipsnių pakeitimo įstatymas
