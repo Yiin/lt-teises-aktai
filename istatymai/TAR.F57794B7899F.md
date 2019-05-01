@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -188,6 +188,14 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 17. Elektros energijos sąnaudos – visos elektros energijos sąnaudos, kurios patiriamos teikiant elektros energijos persiuntimo paslaugą perdavimo ir skirstomaisiais tinklais ir kurios apskaičiuojamos kaip skirtumas tarp visos perdavimo sistemos operatoriaus ar skirstomųjų tinklų operatoriaus gautos elektros energijos ir vartotojų suvartotos ar kitiems operatoriams persiųstos elektros energijos kiekio.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+ 
+
+
+
+
+171. Elektros įrenginių prijungimo prie elektros tinklų ketinimų protokolas (toliau – ketinimų protokolas) – elektros tinklų operatoriaus ir gamintojo susitarimas, kuriuo, be kita ko, gamintojas įsipareigoja per nustatytą laikotarpį parengti savo elektros įrenginius prijungti prie elektros tinklų, o tinklų operatorius – per nustatytą laikotarpį prijungti gamintojo elektros įrenginius prie savo valdomų elektros tinklų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
  
 
 
@@ -389,6 +397,14 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+ 
+
+
+
+
+351. Prievolių įvykdymo užtikrinimas – finansinė garantija ar finansinis laidavimas, kaip tai nustatyta Lietuvos Respublikos finansų įstaigų įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
  
 
 
@@ -1041,7 +1057,10 @@ Nr. XIII-554, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12057
 
 
 
-12) tvirtina Elektros energetikos įmonių apskaitos atskyrimo taisykles;
+12) tvirtina elektros energetikos įmonių reguliavimo apskaitos sistemos reikalavimus ir (ar) metodą, ir (ar) modelį; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
+ 
 
 
 
@@ -1453,7 +1472,10 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-2) užtikrinti perdavimo ir skirstymo veiklos nepriklausomumą nuo kitų veiklos rūšių elektros energetikos sektoriuje šiame įstatyme nustatyta tvarka ir sąlygomis, atlikti nepriklausomą auditą, kaip nurodyta šio įstatymo 56 straipsnio 3 dalyje, ir licencijos turėtojo interneto svetainėje skelbti duomenis apie elektros energijos persiuntimo sąnaudas.
+2) užtikrinti perdavimo ir skirstymo veiklos nepriklausomumą nuo kitų veiklos rūšių elektros energetikos sektoriuje šiame įstatyme nustatyta tvarka ir sąlygomis, rengti reguliuojamosios veiklos ataskaitas, užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, vadovaujantis Energetikos įstatymo 161 straipsnio nuostatomis, ir kasmet licencijos turėtojo interneto svetainėje Komisijos nustatyta tvarka skelbti duomenis apie elektros energijos persiuntimo sąnaudas. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
+ 
 
 
 
@@ -1468,7 +1490,10 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-2) tvarkyti atskirą nuo kitų veiklos rūšių elektros energijos visuomeninio tiekimo pajamų ir sąnaudų apskaitą, atlikti nepriklausomą auditą, kaip nurodyta šio įstatymo 56 straipsnio 3 dalyje, ir licencijos turėtojo interneto svetainėje skelbti duomenis apie elektros energijos visuomeninio tiekimo sąnaudas. 
+2) tvarkyti atskirą nuo kitų veiklos rūšių elektros energijos visuomeninio tiekimo pajamų ir sąnaudų apskaitą, rengti reguliuojamosios veiklos ataskaitas, užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, vadovaujantis Energetikos įstatymo 161 straipsnio nuostatomis, ir kasmet licencijos turėtojo interneto svetainėje Komisijos nustatyta tvarka skelbti duomenis apie elektros energijos visuomeninio tiekimo sąnaudas. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -1569,7 +1594,10 @@ Nr. KT24-N14/2018, 2018-12-21, paskelbta TAR 2018-12-21, i. k. 2018-21226
 
 
 
-7. Šio straipsnio 6 dalyje nurodytų reikalavimų taikymo ir įvertinimo tvarka nustatoma Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse. Leidimo plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių galiojimo terminas pratęsiamas, kai asmuo pateikia šio straipsnio 6 dalyje nurodytus dokumentus bei įrodymus ir prievolių įvykdymo užtikrinimą prašomam pratęsti leidimo galiojimo terminui Atsinaujinančių išteklių energetikos įstatyme nustatyta tvarka ir sąlygomis.
+7. Šio straipsnio 6 dalyje nurodytų reikalavimų taikymo ir įvertinimo tvarka nustatoma Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse. Leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo terminas pratęsiamas, kai asmuo pateikia šio straipsnio 6 dalyje nurodytus dokumentus bei įrodymus ir prievolių įvykdymo užtikrinimą prašomam pratęsti leidimo galiojimo terminui šio įstatymo 211 straipsnio 1 dalyje nustatyta tvarka ir sąlygomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+ 
 
 
 
@@ -1597,7 +1625,15 @@ Nr. KT24-N14/2018, 2018-12-21, paskelbta TAR 2018-12-21, i. k. 2018-21226
 
 
 
-4) kurių pastatytas energetikos objektas, kuriame kaip kuras energijai gaminti planuojamos naudoti po rūšiavimo likusios ir perdirbti netinkamos energinę vertę turinčios komunalinės atliekos, Vyriausybės pripažintas valstybinės reikšmės objektu. 
+4) kurių pastatytas energetikos objektas, kuriame kaip kuras energijai gaminti planuojamos naudoti po rūšiavimo likusios ir perdirbti netinkamos energinę vertę turinčios komunalinės atliekos, Vyriausybės pripažintas valstybinės reikšmės objektu; 
+
+
+
+
+5) pateikusiems rašytinį įsipareigojimą nugriauti ar išmontuoti elektrinę Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, kai įsigalioja Valstybinės energetikos inspekcijos sprendimas panaikinti leidimo gaminti elektros energiją galiojimą. Įsipareigojime taip pat turi būti nustatyta leidimo turėtojo prievolė nugriauti ar išmontuoti elektrinės prijungimui reikalingus elektros tinklus ir nugriovimą ar išmontavimą vykdyti pagal tinklų operatoriaus išduotas prijungimo sąlygas griovimo ar išmontavimo projektui rengti. Elektrinė gali būti nenugriauta ar neišmontuota, jeigu ją numatoma naudoti kitiems tikslams, atitinkantiems teisės aktų reikalavimus. Šio punkto nuostata taikoma elektros energijos iš atsinaujinančių energijos išteklių gamintojams. 
+Papildyta straipsnio punktu:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+ 
 
 
 
@@ -1630,14 +1666,20 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-3) pateikusiems patvirtinimą apie skatinimo kvotų paskirstymo aukcione laimėtą fiksuotą tarifą, išskyrus atvejus, kai elektrinėms fiksuotas tarifas, numatytas Atsinaujinančių išteklių energetikos įstatyme, netaikomas. Šis reikalavimas taikomas tik išduodant leidimus plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių.
+3) neteko galios 2019-05-01.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+ 
 
 
 
 
 
 
-13. Tais atvejais, išskyrus Atsinaujinančių išteklių energetikos įstatymo 20 straipsnio 3 dalyje nurodytus atvejus, kai elektros energijos gamybos pajėgumų plėtra yra susijusi su riboto elektros tinklų pralaidumo ir galios panaudojimu tam tikrame tinklų taške ar jų dalyje, šio įstatymo ir Atsinaujinančių išteklių energetikos įstatymo nustatyta tvarka ir sąlygomis leidimai plėtoti elektros energijos gamybos pajėgumus išduodami konkurso (aukciono) tvarka.
+13. Neteko galios 2019-05-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+ 
 
 
 
@@ -1819,9 +1861,11 @@ Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 
 
 
-8) kalendoriniams metams pasibaigus, per keturis mėnesius atlikti nepriklausomą leidimais reguliuojamos veiklos sąnaudų auditą ir apie rezultatus informuoti Komisiją. Ši nuostata taikoma nepriklausomiems tiekėjams, kurių tiekiamos elektros energijos kaina reguliuojama šio įstatymo 67 straipsnio 1 dalyje numatytais atvejais; 
+8) neteko galios 2019-05-01; 
 Papildyta straipsnio punktu:
 Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+Straipsnio punkto pakeitimai:
+Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
  
 
 
@@ -1992,6 +2036,44 @@ Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
 
 
 
+211 straipsnis. Gamintojų įsipareigojimai
+
+
+1. Gamintojas, pasirašęs šio įstatymo 22 straipsnio 8 dalyje nurodytą ketinimų protokolą, tinklų operatoriui privalo pateikti savo prievolių įvykdymo užtikrinimą, garantuojantį tinklų operatoriui gamintojo įsipareigojimo įvykdymą, ne vėliau kaip per 10 kalendorinių dienų nuo ketinimų protokolo pasirašymo dienos. Gamintojo prievolių įvykdymo užtikrinimas privalo galioti 30 kalendorinių dienų ilgiau negu ketinimų protokolas. Prievolių įvykdymo užtikrinimo dydis apskaičiuojamas dauginant numatomų įrengti elektrinės pajėgumų dydį (kW) iš 15 eurų už 1 kW. Norint pratęsti leidimo plėtoti elektros energijos gamybos terminą, kaip tai nustatyta šio įstatymo 16 straipsnio 7 dalyje, prievolių įvykdymo užtikrinimo dydis padidinamas dydžiu, kuris apskaičiuojamas dauginant numatomų įrengti elektrinės pajėgumų dydį (kW) iš 15 eurų už 1 kW ir laikotarpio, kuriam norima pratęsti šio leidimo galiojimo terminą, trukmės, išreikštos metais.
+
+
+
+
+2. Jeigu gamintojas užbaigia ketinimų protokole numatytos įrengtosios galios elektrinės statybą Statybos įstatyme nustatyta tvarka ir gamintojui šiame įstatyme nustatyta tvarka išduotas leidimas gaminti elektros energiją arba gamintojas, dalyvaujantis Atsinaujinančių išteklių energetikos įstatymo 20 straipsnio 3 dalyje nurodytame skatinimo kvotų paskirstymo aukcione, nelaimi šio skatinimo kvotų paskirstymo aukciono arba atsisako jame dalyvauti, tinklų operatorius, gavęs gamintojo prašymą, atsisako savo teisių pagal gamintojo prievolių įvykdymo užtikrinimą ir grąžina jį šiam gamintojui ar jo prievolių įvykdymo užtikrinimą išdavusiam asmeniui, o šalių teisės ir pareigos pagal ketinimų protokolą pasibaigia. 
+
+
+
+
+3. Jeigu gamintojas per leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo laikotarpį, įskaitant galimus jo pratęsimus, neįvykdo ketinimų protokole nustatyto įsipareigojimo pastatyti ar įrengti ketinimų protokole nurodytos įrengtosios galios elektrinę, tinklų operatorius pasinaudoja visu šio gamintojo pateiktu prievolių įvykdymo užtikrinimu, išskyrus atvejus, kai tokie įsipareigojimai neįvykdomi dėl aplinkybių, kurių šis gamintojas negalėjo kontroliuoti ir protingai numatyti ketinimų protokolo ir (ar) elektrinės prijungimo prie elektros tinklų paslaugos sutarties sudarymo metu ir negalėjo užkirsti kelio šioms aplinkybėms ar jų pasekmėms atsirasti, taip pat dėl įstatymų nustatytų kitų aplinkybių, kai nėra šio gamintojo kaltės. Tais atvejais, kai yra šioje dalyje nurodytos aplinkybės, gamintojas pateikia tinklų operatoriui dokumentus, įrodančius, kad yra šioje dalyje nurodytos aplinkybės, o tinklų operatorius įvertina pateiktus dokumentus ir priima sprendimą dėl pateikto prievolių įvykdymo užtikrinimo grąžinimo. 
+
+
+
+
+4. Jeigu gamintojas nutraukia ketinimų protokolą, tinklų operatorius pasinaudoja gamintojo pateikto prievolių įvykdymo užtikrinimo dalimi, kuri apskaičiuojama 0,0123 Eur/kW dauginant iš laikotarpio nuo prievolių įvykdymo užtikrinimo pateikimo dienos iki dienos, kai gamintojas nutraukia ketinimų protokolą, išreikšto dienomis.
+
+
+
+
+5. Jeigu gamintojas per leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo laikotarpį, įskaitant galimus jo pratęsimus, pastato ar įrengia mažesnės galios elektrinę, negu buvo įsipareigojęs pagal ketinimų protokolą, tinklų operatorius pasinaudoja pateikto prievolių įvykdymo užtikrinimo dalimi proporcingai neįvykdytiems įsipareigojimams.
+
+
+
+
+6. Pagal gamintojo pateiktą prievolių įvykdymo užtikrinimą tinklų operatoriaus gautos lėšos įvertinamos nustatant skirstymo ir perdavimo tiekimo paslaugų kainų viršutines ribas. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+ 
+
+
+
+
 22 straipsnis. Gamintojų elektros įrenginių prijungimas prie elektros tinklų
 
 
@@ -2038,6 +2120,103 @@ Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
 
 Papildyta straipsnio dalimi:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+ 
+
+
+
+
+8. Gamintojas, gavęs išankstines prijungimo sąlygas, parengia ir pateikia elektros tinklų operatoriui prašymą pasirašyti ketinimų protokolą. Ši nuostata netaikoma gaminantiems vartotojams, gamintojams, planuojantiems gaminti elektros energiją savo reikmėms ir ūkio poreikiams ir planuojantiems į elektros tinklus patiekti elektros energiją, likusią nuo savo reikmėms ir ūkio poreikiams nesuvartotos elektros energijos, kai elektrinės įrengtoji galia yra ne didesnė kaip 500 kW ir ne didesnė negu gamintojo objektui suteikta leistinoji naudoti galia, ir gamintojams, planuojantiems gaminti elektros energiją tik savo reikmėms ir ūkio poreikiams, nepatiekiant elektros energijos į elektros tinklus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+ 
+
+
+
+
+9. Tinklų operatorius privalo per 30 kalendorinių dienų nuo šio straipsnio 8 dalyje nurodyto prašymo pateikimo dienos su gamintoju pasirašyti ketinimų protokolą. Ketinimų protokole privalo būti nurodyta:
+
+
+1) planuojamos statyti elektrinės galia ir naudojama energijos rūšis;
+
+
+
+
+2) terminas, per kurį gamintojas įsipareigoja pastatyti elektrinę, baigti savo elektros tinklų dalyje susijusius darbus ir pateikti reikalingus dokumentus Valstybinei energetikos inspekcijai leidimui gaminti elektros energiją gauti;
+
+
+
+
+3) gamintojo įsipareigojimas ne vėliau kaip per vieną mėnesį nuo ketinimų protokolo pasirašymo dienos Valstybinei energetikos inspekcijai pateikti prašymą išduoti leidimą plėtoti elektros energijos gamybos pajėgumus arba Komisijai pateikti prašymą dalyvauti skatinimo kvotų paskirstymo aukcione, jeigu asmuo ketina statyti ar įrengti atsinaujinančius energijos išteklius naudojančias elektrines ir pasinaudoti Atsinaujinančių išteklių energetikos įstatymo 3 straipsnio 2 dalies 1–3 punktuose nurodytomis skatinimo priemonėmis;
+
+
+
+
+4) tinklų operatoriaus įsipareigojimas per ne ilgesnį kaip vieno mėnesio laikotarpį nuo su tinklų operatoriumi suderinto techninio projekto pateikimo dienos arba per ne ilgesnį kaip vieno mėnesio laikotarpį nuo ketinimų protokolo pasirašymo dienos, jeigu toks techninis projektas planuojamai statyti elektrinei yra neprivalomas, parengti elektrinės prijungimo prie elektros tinklų paslaugos sutarties projektą;
+
+
+
+
+5) gamintojo įsipareigojimas per vieną mėnesį nuo dienos, kai tinklų operatorius pateikia elektrinės prijungimo prie elektros tinklų paslaugos sutarties projektą, atitinkantį suderintą techninį projektą, arba elektros tinklų operatoriaus išduotas prijungimo sąlygas, jeigu techninis projektas planuojamai statyti elektrinei yra neprivalomas, pasirašyti prijungimo prie elektros tinklų paslaugos sutartį;
+
+
+
+
+6) gamintojo įsipareigojimas elektrinės prijungimo prie elektros tinklų paslaugos sutartyje nustatyta tvarka apmokėti elektrinės prijungimo išlaidas;
+
+
+
+
+7) tinklų operatoriaus įsipareigojimas prijungti gamintojų, gaminančių elektros energiją iš atsinaujinančių energijos išteklių, elektrinę prie elektros tinklų ir užtikrinti patikimą joje pagamintos elektros energijos perdavimą ir paskirstymą per terminą, kuris negali būti ilgesnis už Atsinaujinančių išteklių energetikos įstatymo 14 straipsnio 1 ir 2 dalyse nurodytus terminus;
+
+
+
+
+8) gamintojo prievolių įvykdymo užtikrinimo dydis, jo pateikimo ir panaudojimo sąlygos ir tvarka;
+
+
+
+
+9) savivaldybės, kurioje numatoma statyti ar įrengti elektrinę, administracijos patvirtinimas, kad planuojamos nurodytos galios ir tipo elektrinės įrengimas ar statyba pagal galiojančius teritorijų planavimo dokumentus yra galimi;
+
+
+
+
+10) Lietuvos kariuomenės patvirtinimas, kai planuojama statyti vėjo elektrines, kad teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo reikalavimus, netaikomi apribojimai projektuoti ir statyti vėjo elektrines. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+ 
+
+
+
+
+10. Šio straipsnio 9 dalies 2 punkte nurodytas terminas pratęsiamas dėl šioje dalyje nurodytų priežasčių, tačiau laikotarpis, kuriam pratęsiamas nurodytas terminas, neturi viršyti leidimo plėtoti elektros energijos gamybos pajėgumus galiojimo termino:
+
+
+1) dėl valstybės veiksmų, trečiųjų asmenų veiksmų ar esant nenugalimos jėgos aplinkybėms šio straipsnio 8 dalyje nurodyto asmens prašymu;
+
+
+
+
+2) šio straipsnio 8 dalyje nurodyto asmens prašymu;
+
+
+
+
+3) elektrinės prijungimo prie elektros tinklų paslaugos sutartyje ir kitais teisės aktuose nustatytais atvejais. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+ 
+
+
+
+
+11. Ketinimų protokolo pavyzdinę formą tvirtinta Komisija. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
  
 
 
@@ -3862,7 +4041,7 @@ Nr. XIII-554, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12057
 56 straipsnis. Apskaitos atskyrimas
 
 
-1. Perdavimo sistemos operatorius, skirstomųjų tinklų operatorius ir visuomeninis tiekėjas privalo atskirai tvarkyti su elektros energijos perdavimo, skirstymo, visuomeninio tiekimo veikla, viešuosius interesus atitinkančių paslaugų teikimo veikla ir kita, su elektros energetika nesusijusia, veikla susijusią apskaitą.
+1. Perdavimo sistemos operatorius, skirstomųjų tinklų operatorius ir visuomeninis tiekėjas privalo atskirai tvarkyti su elektros energijos perdavimo, skirstymo, visuomeninio tiekimo veikla, viešuosius interesus atitinkančių paslaugų teikimo veikla ir kita, su elektros energetika nesusijusia veikla, susijusią apskaitą.
 
 
 
@@ -3872,20 +4051,12 @@ Nr. XIII-554, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12057
 
 
 
-3. Apskaitos atskyrimo taisykles ir su apskaitos atskyrimu susijusius reikalavimus, taip pat reikalavimus nepriklausomam auditui, kurį šiame įstatyme nurodyti asmenys privalo atlikti Komisijos nustatytu periodiškumu, nustato Komisija.
+3. Elektros energetikos įmonės (išskyrus gamintojus, gaminančius elektros energiją iš atsinaujinančių energijos išteklių), kurios vadovaudamosi Energetikos įstatymo 16 straipsnio 8 dalimi, nėra įpareigotos skelbti metinių finansinių ataskaitų interneto svetainėse, pasibaigus kiekvieniems finansiniams metams per 4 mėnesius praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo reikalavimus, skelbia savo interneto svetainėse. Jeigu šios elektros energetikos įmonės dėl techninių priežasčių negali paskelbti praėjusių finansinių metų metinių finansinių ataskaitų ir auditoriaus išvadų savo interneto svetainėse ar jų neturi, tada jos apie tai raštu informuoja Komisiją ir praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal teisės aktų reikalavimus, teikia Komisijai, kuri paskelbia jas savo interneto svetainėje. 
 
 
-
-
-4. Perdavimo sistemos operatorius, skirstomųjų tinklų operatoriai, gamintojai ir tiekėjai savo metines finansines ataskaitas parengia, pateikia nepriklausomam auditui ir paskelbia Lietuvos Respublikos buhalterinės apskaitos įstatyme, Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme ir Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme nustatyta tvarka ir sąlygomis.
-
-
-
-
-5. Asmenys, kurie teisiškai nėra įpareigoti skelbti savo metinių finansinių ataskaitų, jų kopijas laiko savo pagrindinėje buveinėje, kur su jomis gali susipažinti visuomenė.
+Straipsnio pakeitimai:
+Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
  
-
-
 
 
 
@@ -4481,7 +4652,9 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-8. Tinklų operatorių sąnaudos, susijusios su gamintojo, gaminančio elektros energiją iš atsinaujinančių energijos išteklių, elektros įrenginių prijungimu prie elektros tinklų, paskirstomos tarp gamintojo ir tinklų operatoriaus Atsinaujinančių išteklių energetikos įstatyme nustatyta tvarka ir sąlygomis.
+8. Neteko galios 2019-05-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
  
@@ -4629,12 +4802,18 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-12. Asmuo, turintis didelę įtaką elektros energijos rinkoje, taip pat perdavimo, skirstymo paslaugų teikėjas ir (ar) visuomeninis tiekėjas privalo atlikti tvarkomos apskaitos atitikties Komisijos nustatytai sąnaudų apskaitos sistemai ir (ar) metodui, ir (ar) modeliui bei sąnaudų apskaitos taisyklėms, taip pat kituose teisės aktuose nustatytiems reikalavimams auditą. Audito išvada turi būti skelbiama kartą per metus pagal Komisijos nustatytas taisykles.
+12. Elektros energetikos įmonės, kurių  teikiamų paslaugų kainos yra valstybės reguliuojamos ir (ar) kurioms šio įstatymo 67 straipsnio 1 dalies pagrindu nustatyti Komisijos įpareigojimai, susiję su reguliavimo apskaitos sistema,  privalo rengti reguliuojamosios veiklos ataskaitas, užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra vadovaujantis Energetikos įstatymo 161 straipsnio nuostatomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
+ 
 
 
 
 
-13. Komisija turi teisę reikalauti, kad asmenų, kuriems nustatyti šio straipsnio 1 dalyje nurodyti įpareigojimai, teikiami duomenys būtų patikrinti nepriklausomo audito šių asmenų lėšomis.
+13. Neteko galios 2019-05-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
+ 
 
 
 
@@ -5010,7 +5189,11 @@ Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
 2. Siekiant įgyvendinti valstybės energetikos, ekonominės ir aplinkos apsaugos politikos strateginius tikslus elektros energetikos sektoriuje ir užtikrinti visuomenės interesų įgyvendinimą, Vyriausybė gali įpareigoti rinkos dalyvius teikti šias viešuosius interesus atitinkančias paslaugas elektros energetikos sektoriuje:
 
 
-1) elektros energijos gamyba naudojant atsinaujinančius energijos išteklius, šios elektros energijos balansavimas ir jos centralizuota prekyba, vykdoma Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
+1) elektros energijos gamyba naudojant atsinaujinančius energijos išteklius ir šios elektros energijos, kurią gamina rinkos dalyviai, kurių eksploatuojama elektrinė yra mažesnė kaip 500 kW, balansavimas vykdomi Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka; 
+TAR pastaba. 74 straipsnio 2 dalies 1 punkto nuostatos netaikomos rinkos dalyviams, kurie iki įstatymo Nr. XIII-1891 įsigaliojimo Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo nustatyta tvarka ir sąlygomis įgijo teisę pasinaudoti fiksuotu elektros energijos iš atsinaujinančių energijos išteklių tarifu. Šių rinkos dalyvių elektros energijos gamyba naudojant atsinaujinančius energijos išteklius, šios elektros energijos balansavimas ir jos centralizuota prekyba, vykdomi Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, laikomi viešuosius interesus atitinkančiomis paslaugomis.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+ 
 
 
 
@@ -6001,3 +6184,8 @@ Dėl Lietuvos Respublikos elektros energetikos įstatymo 16 straipsnio 6 dalies
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 16, 22, 34, 40, 46, 67, 74 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 9, 15, 16, 56 ir 68 straipsnių pakeitimo įstatymas
