@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C51D9C259EFE"
 
 # Lietuvos Respublikos žmonių palaikų laidojimo įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 140-5763, i. k. 1071010ISTA00X-1404
  
@@ -159,7 +159,10 @@ Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
 
 
 
-16. Laidojimo paslaugos – su žmogaus palaikų laidojimu susijusios paslaugos, apimančios žmogaus palaikų pirminį vežimą, žmogaus palaikų laikymą, žmogaus palaikų paruošimą šarvoti, šarvojimą, žmogaus palaikų vežimą laidoti arba kremuoti, laidojimą, kremavimo dokumentų parengimą.
+16. Laidojimo paslaugos – paslaugos, apimančios žmogaus palaikų pirminį vežimą, žmogaus palaikų laikymą, žmogaus palaikų paruošimą šarvoti, šarvojimą, žmogaus palaikų vežimą laidoti arba kremuoti, laidojimą, kremavimo dokumentų parengimą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1189, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09345
+ 
 
 
 
@@ -221,12 +224,26 @@ Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
 
 
 
-26. Žmogaus palaikų pirminis vežimas – žmogaus palaikų iki jų paruošimo šarvoti ir (ar) šarvojimo gabenimas ne karste, išskyrus žmonių palaikų, įvežtų į Lietuvos Respubliką iš užsienio valstybių, gabenimą iki kitų laidojimo paslaugų teikimo vietos.
+26. Žmogaus palaikų pirminis vežimas – žmogaus palaikų iki jų paruošimo šarvoti ir (ar) balzamavimo, ir (ar) šarvojimo gabenimas ne karste, išskyrus žmonių palaikų, įvežtų į Lietuvos Respubliką iš užsienio valstybių, gabenimą iki kitų laidojimo paslaugų teikimo vietos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1189, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09345
+ 
 
 
 
 
-27. Žmogaus palaikų vežimas laidoti – žmogaus palaikų ir (ar) balzamuotų žmogaus palaikų po jų paruošimo šarvoti ir (ar) šarvojimo gabenimas į kapines laidoti.
+27. Žmogaus palaikų vežimas kremuoti – žmogaus palaikų po jų paruošimo šarvoti ir (ar) šarvojimo gabenimas kremuoti. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1189, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09345
+ 
+
+
+
+
+28. Žmogaus palaikų vežimas laidoti – žmogaus palaikų ir (ar) balzamuotų žmogaus palaikų po jų paruošimo šarvoti ir (ar) šarvojimo gabenimas į kapines laidoti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1189, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09345
+ 
 
 
 Straipsnio pakeitimai:
@@ -420,7 +437,10 @@ Nr. XII-2120, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19713
 
 
 
-5) prokuroro rašytinį leidimą, jeigu prašoma kremuoti ekshumuotus žmogaus palaikus
+5) prokuroro rašytinį sutikimą, jeigu medicininiame mirties liudijime pažymėta, kad yra bent viena iš sąlygų, nurodytų Žmogaus mirties nustatymo ir kritinių būklių įstatyme, kada asmens mirties faktą nustatęs asmuo privalo apie tai nedelsdamas pranešti policijai arba kai prašoma kremuoti ekshumuotus žmogaus palaikus.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1189, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09345
+ 
 
 
 
@@ -439,38 +459,40 @@ Nr. XI-2377, 2012-11-06, Žin., 2012, Nr. 135-6866 (2012-11-22)
 1. Draudžiama kremuoti žmogaus palaikus:
 
 
-1) kai asmuo šio įstatymo 3 straipsnio 2 dalyje nustatyta tvarka yra pareiškęs nesutikimą dėl savo palaikų kremavimo;
+1) kai asmuo šio įstatymo 3 straipsnio 2 dalyje nustatyta tvarka yra pareiškęs nesutikimą dėl savo palaikų kremavimo ir laidojimo paslaugų teikėjas ar (ir) kremavimo įmonė apie tai informuoti raštu;
 
 
 
 
-2) jeigu dėl žmogaus palaikų kremavimo tarp mirusiojo artimųjų giminaičių yra kilęs nesutarimas, nurodytas šio įstatymo 5 straipsnio 3 dalyje, ir apie tai kremavimo įmonė yra informuota raštu;
+2) jeigu dėl žmogaus palaikų kremavimo tarp mirusiojo artimųjų giminaičių yra kilęs nesutarimas, nurodytas šio įstatymo 5 straipsnio 3 dalyje, ir apie tai laidojimo paslaugų teikėjas ar (ir) kremavimo įmonė yra informuoti raštu;
 
 
 
 
-3) kai žmogaus palaikai neatpažinti;
+3) kai nenustatyta mirusiojo asmens tapatybė;
 
 
 
 
-4) kai žinoma ar įtariama, kad asmens mirties priežastis yra nusikalstama veika, ir dėl to vyksta ikiteisminis tyrimas.
+4) jeigu medicininiame mirties liudijime pažymėta, kad yra bent viena iš sąlygų, nurodytų Žmogaus mirties nustatymo ir kritinių būklių įstatyme, kada asmens mirties faktą nustatęs asmuo privalo apie tai nedelsdamas pranešti policijai, ir negautas rašytinis prokuroro sutikimas kremuoti žmogaus palaikus;
+
+
+
+
+5) jeigu negautas rašytinis prokuroro sutikimas, kai norima kremuoti ekshumuotus žmogaus palaikus.
 
 
 
 
 
 
-2. Kai žmogaus palaikai neatpažinti arba kai įtariama, kad žmogaus mirties priežastimi gali būti nusikalstama veika ir dėl to buvo pradėtas ikiteisminis tyrimas, žmogaus palaikai ne kremuojami, o laidojami tradiciniu būdu – užkasami į žemę.
-
-
-
-
-3. Laidojimo paslaugų teikėjas privalo informuoti kremavimo įmonę apie kilusį nesutarimą tarp mirusiojo artimųjų giminaičių.
+2. Žmogaus palaikai, kuriuos draudžiama kremuoti, laidojami tradiciniu būdu – užkasami į žemę.
 
 
 Straipsnio pakeitimai:
 Nr. XI-2377, 2012-11-06, Žin., 2012, Nr. 135-6866 (2012-11-22)
+Straipsnio pakeitimai:
+Nr. XIII-1189, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09345
  
 
 
@@ -546,7 +568,10 @@ Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 
 
 
-2. Kremavimo įmonė privalo užtikrinti, kad jos vykdoma veikla nesukeltų pavojaus visuomenės sveikatai ir aplinkai.
+2. Kremavimo įmonė, vykdydama veiklą, privalo laikytis Vyriausybės ar jos įgaliotos institucijos nustatytų aplinkosaugos reikalavimų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1189, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09345
+ 
 
 
 
@@ -981,7 +1006,7 @@ LAIDOJIMO PASLAUGOS
 
 
 
-2) teikti žmogaus palaikų pirminio vežimo ir žmogaus palaikų vežimo laidoti paslaugas Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus atitinkančiomis transporto priemonėmis ir šio įstatymo 22 straipsnio 1 dalyje nustatyta tvarka;
+2) teikti žmogaus palaikų pirminio vežimo ir žmogaus palaikų vežimo laidoti ar kremuoti paslaugas laikydamasis šio įstatymo 22 straipsnyje nustatytų reikalavimų;
 
 
 
@@ -996,9 +1021,17 @@ LAIDOJIMO PASLAUGOS
 
 
 
-5) laikytis kitų laidojimo paslaugų teikėjui teisės aktuose nustatytų pareigų.
+5) atsisakyti vežti žmogaus palaikus kremuoti, jeigu yra bent vienas iš šio įstatymo 7 straipsnio 1 dalyje nurodytų atvejų, dėl kurių žmogaus palaikai negali būti kremuojami;
 
 
+
+
+6) raštu informuoti kremavimo įmonę, kad tarp mirusiojo artimųjų giminaičių yra kilę nesutarimų dėl  mirusiojo palaikų kremavimo ir (ar) kad mirusysis yra pareiškęs nesutikimą dėl savo palaikų kremavimo, jeigu laidojimo paslaugų teikėjas apie tai informuotas raštu.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1189, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09345
+ 
 
 
 Straipsnio pakeitimai:
@@ -1061,50 +1094,37 @@ Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 
 
 
-22 straipsnis. Žmogaus palaikų gabenimas
+22 straipsnis. Žmogaus palaikų vežimas
 
 
-1. Teikiant laidojimo paslaugas, žmogaus palaikai gabenami Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus atitinkančiomis transporto priemonėmis ir laikantis Vyriausybės įgaliotos institucijos patvirtintų žmonių palaikų gabenimo reikalavimų. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2257, 2016-03-17, paskelbta TAR 2016-03-21, i. k. 2016-05451
- 
+1. Teikiant laidojimo paslaugas, žmogaus palaikai vežami Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus atitinkančiomis transporto priemonėmis.
 
 
 
 
-2. Žmogaus palaikai į užsienio valstybes vežami turint Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduotą leidimą vežti mirusiojo kūną (laissez-passer), išskyrus atvejus, kai žmogaus palaikai per Lietuvos Respublikos teritoriją gabenami tranzitu turint užsienio valstybės kompetentingos institucijos išduota leidimą vežti mirusiojo kūną (laissez-passer). 
-Papildyta straipsnio dalimi:
-Nr. XII-2257, 2016-03-17, paskelbta TAR 2016-03-21, i. k. 2016-05451
- 
+2. Žmogaus palaikai į užsienio valstybes, kurios yra 1973 m. spalio 26 d. Strasbūre priimto Susitarimo dėl mirusiųjų kūnų pervežimo (toliau – susitarimas) šalys, vežami turint Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduotą dokumentą (mirusiojo kūno laissez-passer), išskyrus atvejus, kai žmogaus palaikai per Lietuvos Respublikos teritoriją vežami tranzitu turint užsienio valstybės susitarimo šalies kompetentingos institucijos išduotą dokumentą (mirusiojo kūno laissez-passer). Žmogaus palaikai į užsienio valstybes, kurios nėra susitarimo šalys, taip pat iš šių valstybių per Lietuvos Respublikos teritoriją tranzitu vežami apie tai informavus Vyriausybės įgaliotą instituciją Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
 
 
 
-3. Žmogaus palaikų pirminis vežimas atliekamas gavus Vyriausybės įgaliotos institucijos išduotą mirties liudijimą, kuriame pažymima, ar nėra šio įstatymo 7 straipsnio 1 dalyje, 19 straipsnyje ar kituose teisės aktuose nurodytų apribojimų, dėl kurių žmogaus palaikai negali būti vežami kremuoti ar balzamuoti. Žmogaus palaikų gabenimo patologinės anatomijos tyrimams ar teismo medicinos ekspertizėms ir tyrimams tvarką nustato Vyriausybės įgaliotos institucijos. 
-Papildyta straipsnio dalimi:
-Nr. XII-2257, 2016-03-17, paskelbta TAR 2016-03-21, i. k. 2016-05451
- 
+3. Žmogaus palaikai, išskyrus į Lietuvos Respubliką iš užsienio valstybių įvežtus žmogaus palaikus, vežami laidoti ar kremuoti turint Žmogaus mirties nustatymo ir kritinių būklių įstatymo nustatyta tvarka išduotą medicininį mirties liudijimą. Žmogaus palaikų vežimo patologinės anatomijos tyrimams ar teismo medicinos ekspertizėms ir tyrimams tvarką nustato Vyriausybės įgaliotos institucijos.
 
 
 
 
-4. Asmenų, kurie sirgo pavojingomis arba ypač pavojingomis užkrečiamosiomis ligomis, įrašytomis į Sveikatos apsaugos ministerijos patvirtintą sąrašą, arba buvo šių ligų sukėlėjų nešiotojai, palaikų gabenimo tvarką nustato Sveikatos apsaugos ministerija.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2257, 2016-03-17, paskelbta TAR 2016-03-21, i. k. 2016-05451
- 
+4. Asmenų, kurie sirgo pavojingomis arba ypač pavojingomis užkrečiamosiomis ligomis, įrašytomis į sveikatos apsaugos ministro patvirtintą sąrašą, arba buvo šių ligų sukėlėjų nešiotojai, palaikų vežimo tvarką nustato sveikatos apsaugos ministras.
 
 
 
 
-5. Žmogaus palaikams gabenti iš užsienio valstybių į Lietuvos Respublikos teritoriją būtinas Lietuvos Respublikos diplomatinių atstovybių ar konsulinių įstaigų išduotas leidimas mirusiojo palaikus parvežti į Lietuvą. Šis leidimas išduodamas vadovaujantis Lietuvos Respublikos sveikatos apsaugos ir Lietuvos Respublikos užsienio reikalų ministrų nustatyta tvarka, jeigu Lietuvos Respublikos tarptautinės sutartys nenustato kitaip.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2257, 2016-03-17, paskelbta TAR 2016-03-21, i. k. 2016-05451
- 
+5. Žmogaus palaikams iš užsienio valstybių į Lietuvos Respublikos teritoriją parvežti būtinas Lietuvos Respublikos sveikatos apsaugos ir Lietuvos Respublikos užsienio reikalų ministrų nustatyta tvarka Lietuvos Respublikos diplomatinių atstovybių ar konsulinių įstaigų išduotas leidimas žmogaus palaikus parvežti į Lietuvą, jeigu Lietuvos Respublikos tarptautinėse sutartyse nenustatyta kitaip. Su šiuo leidimu žmogaus palaikai vežami laidoti ar kremuoti, jeigu Lietuvos Respublikos tarptautinėse sutartyse nenustatyta kitaip.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 Nr. XI-2377, 2012-11-06, Žin., 2012, Nr. 135-6866 (2012-11-22)
+Straipsnio pakeitimai:
+Nr. XIII-1189, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09345
  
 
 
@@ -1454,15 +1474,94 @@ Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 
 
 
-32 straipsnis. Atsakomybė
+32 straipsnis. Fizinių asmenų atsakomybė
 
 
-Fiziniai ir juridiniai asmenys, pažeidę šį įstatymą, atsako įstatymų nustatyta tvarka.
+Fiziniai asmenys, pažeidę šį įstatymą, atsako Lietuvos Respublikos administracinių nusižengimų kodekso ir Lietuvos Respublikos baudžiamojo kodekso nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1189, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09345
  
 
 
 
 
+
+
+ŠEŠTASIS1 SKYRIUS
+JURIDINIŲ ASMENŲ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
+ 
+
+
+321 straipsnis. Juridinių asmenų atsakomybė už kremavimo veiklos pažeidimus
+
+
+1. Kremavimo veiklos vykdymas neturint šiai veiklai licencijos (jeigu tai neužtraukia baudžiamosios atsakomybės) užtraukia baudą juridiniams asmenims, įskaitant užsienio valstybių juridinius asmenis, kitas organizacijas ir jų filialus, nuo dviejų tūkstančių iki keturių tūkstančių eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytas pažeidimas, padarytas pakartotinai, užtraukia baudą juridiniams asmenims, įskaitant užsienio valstybių juridinius asmenis, kitas organizacijas ir jų filialus, nuo keturių tūkstančių iki aštuonių tūkstančių eurų.
+
+
+
+
+3. Žmogaus palaikų kremavimas pažeidžiant šio įstatymo 9 straipsnio 1 dalyje ir 13 straipsnyje nustatytus reikalavimus užtraukia baudą kremavimo įmonei nuo vieno tūkstančio šešių šimtų iki dviejų tūkstančių eurų.
+
+
+
+
+4. Šio straipsnio 3 dalyje nurodytas pažeidimas, padarytas pakartotinai, užtraukia baudą kremavimo įmonei nuo dviejų tūkstančių iki trijų tūkstančių keturių šimtų eurų.
+
+
+
+
+5. Kremavimo veiklos vykdymas pažeidžiant šio įstatymo 14 straipsnio 1 ir 2 dalyse nustatytus reikalavimus užtraukia baudą kremavimo įmonei nuo trijų šimtų iki šešių šimtų dvidešimt eurų.
+
+
+
+
+6. Šio straipsnio 5 dalyje nurodytas pažeidimas, padarytas pakartotinai, užtraukia baudą kremavimo įmonei nuo šešių šimtų dvidešimt iki vieno tūkstančio eurų.
+
+
+
+
+7. Aplinkosaugos reikalavimų, nustatytų kremavimo įmonėms, pažeidimas užtraukia baudą kremavimo įmonei nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių eurų.
+
+
+
+
+8. Šio straipsnio 7 dalyje nurodytas pažeidimas, padarytas pakartotinai, užtraukia baudą kremavimo įmonei nuo dviejų tūkstančių iki trijų tūkstančių dviejų šimtų eurų.
+ 
+
+
+
+
+
+
+322 straipsnis. Bylų dėl ekonominių sankcijų skyrimo juridiniams asmenims nagrinėjimas
+
+
+Šio įstatymo 321 straipsnyje nurodytus pažeidimus tiria, protokolus surašo ir bylas dėl ekonominių sankcijų juridiniams asmenims, įskaitant užsienio valstybių juridinius asmenis, kitas organizacijas ir jų filialus, skyrimo pagal kompetenciją nagrinėja aplinkos apsaugos valstybinės kontrolės pareigūnai Lietuvos Respublikos aplinkos apsaugos įstatymo nustatyta tvarka.
+ 
+
+
+
+
+
+
+323 straipsnis. Nutarimo skirti ekonominę sankciją vykdymas ir baudų įskaitymas į valstybės biudžetą
+
+
+Nutarimas skirti ekonominę sankciją vykdomas ir baudos į valstybės biudžetą įskaitomos Aplinkos apsaugos įstatymo nustatyta tvarka.
+
+
+
+
+Papildyta skyriumi:
+Nr. XIII-1189, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09345
+ 
 
 
 
@@ -1626,3 +1725,8 @@ Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 1, 2, 6, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-780, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18835
 Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 30 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1189, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09345
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 2, 6, 7, 11, 20, 22, 32 straipsnių pakeitimo ir Įstatymo papildymo šeštuoju-1 skyriumi įstatymas
