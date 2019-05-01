@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
  
@@ -1747,7 +1747,10 @@ LICENCIJOS IR LEIDIMAI
 
 
 
-4) tvarkyti atskirą nuo kitų rūšių veiklos šilumos tiekimo sąnaudų apskaitą, atlikti licencijuojamos veiklos sąnaudų auditą ir viešai skelbti duomenis apie šilumos gamybos ir šilumos perdavimo sąnaudas;
+4) tvarkyti atskirą nuo kitų rūšių veiklos šilumos tiekimo veiklos apskaitą, rengti reguliuojamosios veiklos ataskaitas ir užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, vadovaujantis Lietuvos Respublikos energetikos įstatymo 161 straipsnio nuostatomis, ir kasmet skelbti duomenis apie licencijuojamos veiklos sąnaudas Valstybinės kainų ir energetikos kontrolės komisijos nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1628, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18861
+ 
 
 
 
@@ -1976,10 +1979,10 @@ Nr. XII-1791, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09814
 
 
 
-34 straipsnis. Šilumos tiekimo sąnaudų apskaita
+34 straipsnis. Sąnaudų apskaita ir kontrolė
 
 
-1. Jeigu šilumos tiekėjas valdo daugiau kaip vieną šilumos tiekimo sistemą, kurioje realizuojama ne mažiau kaip 10 GWh šilumos per metus, kiekvienos sistemos sąnaudos įtraukiamos į apskaitą atskirai. Tvarkant buhalterinę apskaitą, pajamų ir sąnaudų ataskaitos parengiamos pagal atskiras savivaldybes.
+1. Jeigu šilumos tiekėjas valdo daugiau kaip vieną šilumos tiekimo sistemą, kurioje realizuojama ne mažiau kaip 10 GWh šilumos per metus, kiekvienos sistemos sąnaudos įtraukiamos į apskaitą atskirai. 
 
 
 
@@ -1989,10 +1992,27 @@ Nr. XII-1791, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09814
 
 
 
-3. Šilumos tiekėjų informacija, susijusi su jų licencijuojama veikla ar veikla, kurios kainos reguliuojamos, yra vieša. Valstybės ir savivaldybės institucijos, įstatymų nustatyta tvarka atlikdamos joms pavestas funkcijas, turi teisę gauti iš šilumos ar karšto vandens tiekėjų ir pastato šildymo bei karšto vandens sistemos prižiūrėtojų visus finansinės atskaitomybės ir kitus dokumentus, susijusius su jų reguliuojama veikla. Šilumos tiekėjų duomenys apie šilumos gamybos ir šilumos perdavimo sąnaudas skelbiami viešai.
+3. Šilumos tiekėjų informacija, susijusi su jų licencijuojama veikla ar veikla, kurios kainos reguliuojamos, yra vieša. Valstybės ir savivaldybės institucijos, įstatymų nustatyta tvarka atlikdamos joms pavestas funkcijas, turi teisę gauti iš šilumos ar karšto vandens tiekėjų ir pastato šildymo bei karšto vandens sistemos prižiūrėtojų finansines ataskaitas ir kitus dokumentus, susijusius su jų reguliuojamąja veikla. Šilumos tiekėjų duomenys apie šilumos tiekimo ir karšto vandens tiekimo sąnaudas skelbiami Valstybinės kainų ir energetikos kontrolės komisijos nustatyta tvarka.
+
+
+
+
+4. Nepriklausomi šilumos gamintojai, kuriems taikoma privaloma šilumos gamybos kainodara, privalo tvarkyti atskirą nuo kitų rūšių veiklos šilumos gamybos veiklos apskaitą, rengti reguliuojamosios veiklos ataskaitas ir užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, vadovaujantis Lietuvos Respublikos energetikos įstatymo 161 straipsnio nuostatomis.
+
+
+
+
+5. Karšto vandens tiekėjai privalo tvarkyti atskirą nuo kitų rūšių veiklos karšto vandens tiekimo veiklos apskaitą, rengti reguliuojamosios veiklos ataskaitas ir užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, vadovaujantis Lietuvos Respublikos energetikos įstatymo 161 straipsnio nuostatomis.
+
+
+
+
+6. Valstybės institucijos, įstatymų nustatyta tvarka atlikdamos joms pavestas funkcijas, turi teisę gauti iš nepriklausomų šilumos gamintojų, kuriems taikoma privaloma šilumos gamybos kainodara, dokumentus, susijusius su jų reguliuojamąja veikla. Nepriklausomų šilumos gamintojų, kuriems taikoma privaloma šilumos gamybos kainodara, duomenys apie reguliuojamosios veiklos sąnaudas skelbiami Valstybinės kainų ir energetikos kontrolės komisijos nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1628, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18861
  
-
-
 
 
 
