@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BA283DF0FB41"
 
 # Lietuvos Respublikos želdynų įstatymas
 
-Suvestinė redakcija nuo 2017-11-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3215, i. k. 1071010ISTA00X-1241
  
@@ -493,7 +493,10 @@ III SKYRIUS
 
 
 
-3) organizuoja ir koordinuoja želdynuose augančių augalų genetinių išteklių atrinkimą ir kaupimą, jų priskyrimą augalų nacionaliniams genetiniams ištekliams, koordinuoja jų išsaugojimą, genetinės medžiagos perkėlimą į Augalų genų banko saugyklą, arboretumus, specialias plantacijas ir kitus biologinius tyrimus;
+3) neteko galios nuo 2019-05-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2016, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05351
+ 
 
 
 
@@ -570,7 +573,10 @@ Nr. XIII-435, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10251
 
 
 
-2) organizuoja valstybinėje ir savivaldybei priskirtoje žemėje esančių želdynų ir želdinių apsaugą, pertvarkymą ir priežiūrą, želdynų kūrimą ir naujų želdinių veisimą, želdynų tvarkymo ir kūrimo projektų rengimą, derina juos;
+2) organizuoja valstybinėje ir savivaldybei priskirtoje žemėje esančių želdynų ir želdinių (tarp jų augalų nacionaliniams genetiniams ištekliams priskirtų medžių grupių ir pavienių medžių) apsaugą, pertvarkymą ir priežiūrą, želdynų kūrimą ir naujų želdinių veisimą, želdynų tvarkymo ir kūrimo projektų rengimą, derina juos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2016, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05351
+ 
 
 
 
@@ -1056,7 +1062,10 @@ KULTŪRINĖS PASKIRTIES ŽELDYNAI IR VALSTYBINĖS REIKŠMĖS PARKAI
 
 
 
-3. Kultūrinės paskirties želdynų einamoji priežiūra, apsauga nuo ligų ir kenkėjų, būklės stebėsena, inventorizacija ir apskaita, augalų genetinių išteklių atranka ir išsaugojimas, biologiniai tyrimai vykdomi vadovaujantis šiame įstatyme ir kituose teisės aktuose nustatytais reikalavimais.
+3. Kultūrinės paskirties želdynų einamoji priežiūra, apsauga nuo ligų ir kenkėjų, būklės stebėsena, inventorizacija ir apskaita vykdomi vadovaujantis šiame įstatyme ir kituose teisės aktuose nustatytais reikalavimais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2016, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05351
+ 
 
 
 
@@ -1260,7 +1269,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
  
 
 
@@ -1287,3 +1296,8 @@ Lietuvos Respublikos želdynų įstatymo 10, 25 straipsnių pakeitimo ir papildy
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-435, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10251
 Lietuvos Respublikos želdynų įstatymo Nr. X-1241 9, 13 ir 20 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2016, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05351
+Lietuvos Respublikos želdynų įstatymo Nr. X-1241 9, 10 ir 23 straipsnių pakeitimo įstatymas
