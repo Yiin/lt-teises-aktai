@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CA89372D00AA"
 
 # Lietuvos Respublikos policijos įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 90-2777; Žin. 2000, Nr.101-0, i. k. 1001010ISTAIII-2048
  
@@ -142,7 +142,10 @@ Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
 
 
 
-8) kuris yra įrašytas į narkologinių ligonių įskaitą;
+8) turintis sveikatos apsaugos ministro tvirtinamame sąraše nurodytą psichikos ir elgesio sutrikimą;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1917, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00850
+ 
 
 
 
@@ -1110,7 +1113,10 @@ Pareigūnas, įgyvendindamas nusikalstamų veikų ar administracinių teisės pa
 
 
 
-4) pristatyti į sveikatos priežiūros įstaigą priverstiniam patikrinimui ar kitoms nustatytoms profilaktinėms priemonėms atlikti asmenį, įtariamą nusikalstamos veikos ar administracinio teisės pažeidimo (nusižengimo) padarymu, taip pat rizikos grupės asmenį, kai įtariama, kad jis neblaivus, apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, ar asmenį, kuris turi psichinės ligos požymių, kelia grėsmę savo, kitų asmenų ar pareigūno saugumui; 
+4) pristatyti į sveikatos priežiūros įstaigą priverstiniam patikrinimui ar kitoms nustatytoms profilaktinėms priemonėms atlikti asmenį, įtariamą nusikalstamos veikos ar administracinio teisės pažeidimo (nusižengimo) padarymu, taip pat rizikos grupės asmenį, kai įtariama, kad jis neblaivus, apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, ar asmenį, kuris turi psichikos ir elgesio sutrikimų požymių, kelia grėsmę savo, kitų asmenų ar pareigūno saugumui;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1917, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00850
+ 
 
 
 
@@ -1631,3 +1637,13 @@ Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 2, 6, 27 ir 28 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1006, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01019
 Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 28 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1866, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21877
+Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 6, 23 ir 27 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1917, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00850
+Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 2 ir 23 straipsnių pakeitimo įstatymas
