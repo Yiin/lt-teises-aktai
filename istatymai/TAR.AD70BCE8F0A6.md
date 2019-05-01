@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AD70BCE8F0A6"
 
 # Lietuvos Respublikos asmens ir turto apsaugos įstatymas
 
-Suvestinė redakcija nuo 2018-11-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 116-4317, i. k. 1041010ISTA0IX-2327
  
@@ -203,7 +203,10 @@ REIKALAVIMAI ASMENIMS, VYKDANTIEMS ASMENS IR TURTO APSAUGĄ, JŲ TEISĖS IR PARE
 2. Apsaugininku, apsaugos vadovu ir apsaugos darbuotoju negali būti asmuo:
 
 
-1) įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos ar sveikatos priežiūros įstaigos prižiūrimas dėl psichikos ligos ar sutrikimo;
+1) serga sveikatos apsaugos ministro tvirtinamame sąraše nurodytomis ligomis ar turi šiame sąraše nurodytų sveikatos sutrikimų, dėl kurių negali tinkamai atlikti asmens ir turto apsaugos;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1912, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00845
+ 
 
 
 
@@ -1373,9 +1376,10 @@ Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įst
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
+ 
+ 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
  
- 
 
 
  
@@ -1383,6 +1387,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos
 asmens ir turto apsaugos įstatymo 
 priedas
@@ -1427,3 +1432,8 @@ Lietuvos Respublikos asmens ir turto saugos įstatymo Nr. IX-2327 1, 2, 5, 6, 7,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-537, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11934
 Lietuvos Respublikos asmens ir turto saugos įstatymo Nr. IX-2327 pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1912, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00845
+Lietuvos Respublikos asmens ir turto saugos įstatymo Nr. IX-2327 3 straipsnio pakeitimo įstatymas
