@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
  
@@ -783,7 +783,10 @@ Nr. XIII-373, 2017-05-23, paskelbta TAR 2017-05-31, i. k. 2017-09277
 
 
 
-3. Apskaičiuojant būsto šildymo išlaidas ir karšto vandens išlaidas, centralizuotai tiekiamos šilumos, karšto vandens, kitų būstui šildyti ir karštam vandeniui ruošti naudojamų energijos ir kuro rūšių, kurių kainos reguliuojamos, taip pat geriamojo vandens karštam vandeniui ruošti sąnaudos įvertinamos pagal įstatymų nustatyta tvarka patvirtintas kainas, taikant vienanares centralizuotai tiekiamos šilumos kainas, o kuro, kurio kainos nereguliuojamos ir už kurį atsiskaitoma kas mėnesį pagal apskaitos prietaisų rodmenis, – pagal nustatytas tiekėjų kainas; kietojo ar kitokio kuro, kurio faktinės sąnaudos kiekvieną mėnesį nenustatomos, – pagal savivaldybėse patvirtintas vidutines kainas. 
+3. Apskaičiuojant būsto šildymo išlaidas ir karšto vandens išlaidas, centralizuotai tiekiamos šilumos, karšto vandens, kitų būstui šildyti ir karštam vandeniui ruošti naudojamų energijos ir kuro rūšių, kurių kainos reguliuojamos, taip pat geriamojo vandens karštam vandeniui ruošti sąnaudos įvertinamos pagal įstatymų nustatyta tvarka patvirtintas kainas, taikant vienanares ar dvinares centralizuotai tiekiamos šilumos kainas, o kuro, kurio kainos nereguliuojamos ir už kurį atsiskaitoma kas mėnesį pagal apskaitos prietaisų rodmenis, – pagal nustatytas tiekėjų kainas; kietojo ar kitokio kuro, kurio faktinės sąnaudos kiekvieną mėnesį nenustatomos, – pagal savivaldybėse patvirtintas vidutines kainas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1973, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03172
+ 
 
 
 
@@ -2436,3 +2439,8 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1831, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21851
 Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 4 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1973, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03172
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 2, 11 ir 12 straipsnių pakeitimo įstatymas
