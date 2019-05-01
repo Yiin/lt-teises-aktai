@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS PILIETYBĖS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2018-10-31 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2010, Nr. 144-7361, i. k. 1101010ISTA0XI-1196
  
@@ -645,7 +645,9 @@ Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010IST
 
 
 
-4. Asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų darbingumo lygis, ir asmenims, kuriems sukako senatvės pensijos amžius ir kuriems teisės aktų nustatyta tvarka yra nustatytas didelių ir vidutinių specialiųjų poreikių lygis, taip pat asmenims, sergantiems sunkiomis chroninėmis psichikos ligomis, šio straipsnio 1 dalies 3 ir 4 punktų nuostatos netaikomos.
+4. Asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų darbingumo lygis, ir asmenims, kuriems sukako senatvės pensijos amžius ir kuriems teisės aktų nustatyta tvarka yra nustatytas didelių ir vidutinių specialiųjų poreikių lygis, taip pat asmenims, turintiems sunkių lėtinių psichikos ir elgesio sutrikimų, šio straipsnio 1 dalies 3 ir 4 punktų nuostatos netaikomos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1916, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00849
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-269, 2013-05-09, Žin., 2013, Nr. 54-2674 (2013-05-25), i. k. 1131010ISTA0XII-269
  
@@ -1673,7 +1675,10 @@ PRAŠYMAI DĖL LIETUVOS RESPUBLIKOS PILIETYBĖS
 
 
 
-5) dokumentus, patvirtinančius, kad asmuo išlaikė valstybinės kalbos ir Lietuvos Respublikos Konstitucijos pagrindų egzaminus. Šių dokumentų nereikia pateikti asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų darbingumo lygis, asmenims, kuriems sukako senatvės pensijos amžius ir kuriems teisės aktų nustatyta tvarka nustatytas didelių ir vidutinių specialiųjų poreikių lygis, taip pat sergantiems sunkiomis chroninėmis psichikos ligomis asmenims.
+5) dokumentus, patvirtinančius, kad asmuo išlaikė valstybinės kalbos ir Lietuvos Respublikos Konstitucijos pagrindų egzaminus. Šių dokumentų nereikia pateikti asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų darbingumo lygis, asmenims, kuriems sukako senatvės pensijos amžius ir kuriems Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatyti nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikiai, taip pat asmenims, turintiems sunkių lėtinių psichikos ir elgesio sutrikimų. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1916, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00849
+ 
 
 
 
@@ -1718,7 +1723,10 @@ PRAŠYMAI DĖL LIETUVOS RESPUBLIKOS PILIETYBĖS
 
 
 
-8) dokumentus, patvirtinančius, kad asmuo išlaikė valstybinės kalbos egzaminą (jeigu jis pagal šio įstatymo 19 straipsnio 1 ir 3 dalis turi išlaikyti šį egzaminą) ir Lietuvos Respublikos Konstitucijos pagrindų egzaminą. Šių dokumentų nereikia pateikti asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų darbingumo lygis, asmenims, kuriems sukako senatvės pensijos amžius ir kuriems teisės aktų nustatyta tvarka nustatytas didelių ir vidutinių specialiųjų poreikių lygis, taip pat sergantiems sunkiomis chroninėmis psichikos ligomis asmenims.
+8) dokumentus, patvirtinančius, kad asmuo išlaikė valstybinės kalbos egzaminą (jeigu jis pagal šio įstatymo 19 straipsnio 1 ir 3 dalis turi išlaikyti šį egzaminą) ir Lietuvos Respublikos Konstitucijos pagrindų egzaminą. Šių dokumentų nereikia pateikti asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų darbingumo lygis, asmenims, kuriems sukako senatvės pensijos amžius ir kuriems Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatyti nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikiai, taip pat asmenims, turintiems sunkių lėtinių psichikos ir elgesio sutrikimų. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1916, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00849
+ 
 
 
 
@@ -1753,7 +1761,10 @@ PRAŠYMAI DĖL LIETUVOS RESPUBLIKOS PILIETYBĖS
 
 
 
-6) dokumentus, patvirtinančius, kad asmuo išlaikė valstybinės kalbos ir Lietuvos Respublikos Konstitucijos pagrindų egzaminus. Šių dokumentų nereikia pateikti asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų darbingumo lygis, asmenims, kuriems sukako senatvės pensijos amžius ir kuriems teisės aktų nustatyta tvarka nustatytas didelių ir vidutinių specialiųjų poreikių lygis, taip pat asmenims, sergantiems sunkiomis lėtinėmis psichikos ligomis. 
+6) dokumentus, patvirtinančius, kad asmuo išlaikė valstybinės kalbos ir Lietuvos Respublikos Konstitucijos pagrindų egzaminus. Šių dokumentų nereikia pateikti asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų darbingumo lygis, asmenims, kuriems sukako senatvės pensijos amžius ir kuriems Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatyti nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikiai, taip pat asmenims, turintiems sunkių lėtinių psichikos ir elgesio sutrikimų. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1916, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00849
+ 
 
 
 Papildyta straipsnio dalimi:
@@ -2149,3 +2160,8 @@ Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 2 ir 7 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1538, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17327
 Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 7, 21, 24, 32, 33 ir 42 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1916, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00849
+Lietuvos Respublikos pilietybės įstatymo Nr. XI-1196 18 ir 40 straipsnių pakeitimo įstatymas
