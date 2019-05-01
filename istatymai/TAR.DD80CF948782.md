@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782"
 
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2225, i. k. 1021010ISTA00IX-886
  
@@ -367,7 +367,10 @@ Nr. XII-464, 2013-07-02, Žin., 2013, Nr. 79-3985 (2013-07-23)
 
 
 
-2) visuomenės psichikos sveikatos priežiūrą ir psichikos ligų bei priklausomybės ligų profilaktiką ir stebėseną (monitoringą), organizuodamos koordinuotą, multidisciplininę, kompleksinę profilaktikos, gydymo bei psichosocialinės reabilitacijos ir reintegracijos sistemą psichikos sutrikimus turintiems asmenims ir jų šeimoms, užtikrindamos tarpinstitucinį bendradarbiavimą ir veiksmų koordinavimą vykdant programas, skirtas smurto, prievartos, patyčių, agresijos šeimoje, darbe bei visuomenėje, saviagresijos augimo stabilizavimui ir mažinimui, įgyvendindamos politiką, leidžiančią mažinti priklausomybių alkoholiui, tabakui, psichoaktyvioms medžiagoms skaičių bei su tuo susijusią ekonominę naštą;
+2) visuomenės psichikos sveikatos priežiūrą, psichikos ir elgesio sutrikimų profilaktiką ir stebėseną (monitoringą), organizuodamos koordinuotą, multidisciplininę, kompleksinę profilaktikos, gydymo bei psichosocialinės reabilitacijos ir reintegracijos sistemą psichikos ir elgesio sutrikimų turintiems asmenims ir jų šeimoms, užtikrindamos tarpinstitucinį bendradarbiavimą ir veiksmų koordinavimą vykdant programas, skirtas smurto, prievartos, patyčių, agresijos šeimoje, darbe bei visuomenėje, saviagresijos augimo stabilizavimui ir mažinimui, įgyvendindamos politiką, leidžiančią mažinti priklausomybių alkoholiui, tabakui, psichoaktyviosioms medžiagoms skaičių bei su tuo susijusią ekonominę naštą;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1910, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00842
+ 
 
 
 
@@ -2139,3 +2142,8 @@ Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 34 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1692, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20190
 Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 6 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1910, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00842
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 7 straipsnio pakeitimo įstatymas
