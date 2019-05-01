@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2018-12-31 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2021-05-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
  
@@ -587,12 +587,18 @@ Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
 8 straipsnis. Pakuočių pardavėjų pareigos užstato sistemoje 
 
 
-1. Daugkartinių pakuočių pardavėjai privalo priimti daugkartines pakuotes, už kurias nustatytas užstatas, ir grąžinti užstatą, išskyrus pakuočių pardavėjus, prekiaujančius smulkiose parduotuvėse, kurių bendrasis plotas neviršija 90 kv. m (neskaitant kaimo parduotuvių), ir prekyvietėse, kioskuose, degalinėse, viešojo maitinimo įstaigose. Daugkartinių pakuočių pardavėjai, kuriems taikoma šioje dalyje numatyta išimtis, gali savo pasirinkimu dalyvauti užstato už daugkartines pakuotes sistemoje.
+1. Daugkartinių pakuočių pardavėjai privalo priimti daugkartines pakuotes, už kurias nustatytas užstatas, ir grąžinti užstatą. Nuo šios pareigos atleidžiami pakuočių pardavėjai, prekiaujantys miestelių ir kaimo parduotuvėse, kurių prekybos plotas neviršija 60 kv. m, kitose parduotuvėse, kurių prekybos plotas neviršija 90 kv. m, ir prekyvietėse, kioskuose, degalinėse, viešojo maitinimo įstaigose. Daugkartinių pakuočių pardavėjai, kuriems taikomos šioje dalyje numatytos išimtys, gali dalyvauti užstato už daugkartines pakuotes sistemoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-681, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16709
+ 
 
 
 
 
-2. Vienkartinių pakuočių pardavėjai privalo priimti vienkartinių pakuočių, už kurias pagal šio įstatymo 11 straipsnio 2 dalį nustatytas užstatas, atliekas ir grąžinti užstatą, išskyrus pakuočių pardavėjus, prekiaujančius parduotuvėse, kurių prekybos plotas neviršija 300 kv. m (neskaitant kaimo parduotuvių), ir prekyvietėse, kioskuose, degalinėse, viešojo maitinimo įstaigose. Vienkartinių pakuočių pardavėjai, kuriems taikoma šioje dalyje numatyta išimtis, gali savo pasirinkimu dalyvauti užstato už vienkartines pakuotes sistemoje.
+2. Vienkartinių pakuočių pardavėjai privalo priimti vienkartinių pakuočių, už kurias pagal šio įstatymo 11 straipsnio 2 dalį nustatytas užstatas, atliekas ir grąžinti užstatą. Nuo šios pareigos atleidžiami pakuočių pardavėjai, prekiaujantys miestelių ir kaimo parduotuvėse, kurių prekybos plotas neviršija 60 kv. m, kitose parduotuvėse, kurių prekybos plotas neviršija 300 kv. m, ir prekyvietėse, kioskuose, degalinėse, viešojo maitinimo įstaigose. Vienkartinių pakuočių pardavėjai, kuriems taikomos šioje dalyje numatytos išimtys, gali dalyvauti užstato už vienkartines pakuotes sistemoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-681, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16709
+ 
 
 
 
@@ -1579,3 +1585,8 @@ Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
 Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 6, 7, 7-1, 10 straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-681, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16709
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 8 straipsnio pakeitimo įstatymas
