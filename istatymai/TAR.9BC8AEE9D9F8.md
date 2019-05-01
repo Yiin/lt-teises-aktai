@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2017-10-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 3-37, i. k. 0941010ISTA000I-733
  
@@ -1046,7 +1046,10 @@ Nr. XII-416, 2013-06-27, Žin., 2013, Nr. 76-3833 (2013-07-16)
 
 
 
-3. Kultūros paveldo vietovių teritorijos nustatomos Teritorijų planavimo ir šio įstatymo nustatyta tvarka parengtuose dokumentuose.
+3. Kultūros paveldo vietovių teritorijos nustatomos Teritorijų planavimo įstatymo, Saugomų teritorijų įstatymo ir šio įstatymo nustatyta tvarka parengtuose dokumentuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2096, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07053
+ 
 
 
 
@@ -1076,7 +1079,10 @@ Nr. XII-416, 2013-06-27, Žin., 2013, Nr. 76-3833 (2013-07-16)
 
 
 
-7. Apsaugos zonos ribos nustatomos vadovaujantis Teritorijų planavimo ir šiuo įstatymu. Draustinyje ar rezervate esančio kultūros paveldo objekto apsaugos zonos ribos nenustatomos. Šiuo atveju draustinio ar rezervato teritorijų planavimo dokumentai ir (ar) šių saugomų teritorijų nuostatai papildomi apsaugos nuo galimo neigiamo veiklos gretimose teritorijose poveikio reikalavimais.
+7. Apsaugos zonos ribos nustatomos vadovaujantis Teritorijų planavimo įstatymu ir šiuo įstatymu. Draustinyje, rezervate ar kultūros paveldo vietovėje esančio kultūros paveldo objekto apsaugos zonos ribos nenustatomos. Šiuo atveju draustinio ar rezervato teritorijų planavimo dokumentai ir (ar) šių saugomų teritorijų nuostatai papildomi apsaugos nuo galimo neigiamo veiklos gretimose teritorijose poveikio reikalavimais.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2096, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07053
+ 
 
 
 Straipsnio pakeitimai:
@@ -1546,7 +1552,10 @@ Nr. XII-549, 2013-10-10, Žin., 2013, Nr. 111-5489 (2013-10-24)
 
 
 
-3) organizuoja teritorijų planavimo dokumentų rengimą; 
+3) organizuoja teritorijų planavimo dokumentų rengimą (išskyrus valstybiniuose parkuose esančių kultūrinių draustinių ir kultūrinių rezervatų teritorijų planavimo dokumentų rengimą); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2096, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07053
+ 
 
 
 
@@ -1578,7 +1587,10 @@ Nr. XII-549, 2013-10-10, Žin., 2013, Nr. 111-5489 (2013-10-24)
 
 
 
-6. Savivaldybės institucijos prižiūri saugomose teritorijose esančių savivaldybės paskelbtų saugomais kultūros paveldo objektų ir vietovių naudojimą ir juose atliekamus statybos ar tvarkybos darbus, kontroliuoja, kaip užtikrinama savivaldybės saugomų objektų, vietovių apsauga ir kaip laikomasi nustatyto apsaugos ir naudojimo režimo planuojant ar vykdant veiklą, rengia savivaldybės saugomų kultūros paveldo objektų apsaugos reglamentus, organizuoja kultūros paveldo vietovių ir jų apsaugos zonų tvarkymo planų rengimą.
+6. Savivaldybės institucijos prižiūri saugomose teritorijose esančių savivaldybės paskelbtų saugomais kultūros paveldo objektų ir vietovių naudojimą ir juose atliekamus statybos ar tvarkybos darbus, kontroliuoja, kaip užtikrinama savivaldybės saugomų objektų, vietovių apsauga ir kaip laikomasi nustatyto apsaugos ir naudojimo režimo planuojant ar vykdant veiklą, rengia savivaldybės saugomų kultūros paveldo objektų apsaugos reglamentus, organizuoja kultūros paveldo vietovių ir jų apsaugos zonų tvarkymo planų rengimą (išskyrus valstybiniuose parkuose, valstybiniuose rezervatuose, valstybiniuose draustiniuose esančių kultūros paveldo vietovių ir jų apsaugos zonų tvarkymo planų rengimą).
+Straipsnio dalies pakeitimai:
+Nr. XIII-2096, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07053
+ 
 
 
 Straipsnio pakeitimai:
@@ -1591,12 +1603,15 @@ Nr. XI-2389, 2012-11-08, Žin., 2012, Nr. 136-6960 (2012-11-24)
 22 straipsnis. Nekilnojamojo kultūros paveldo apsauga ir teritorijų planavimas
 
 
-1. Nekilnojamosios kultūros vertybės, jų teritorijos, apsaugos zonos tvarkomos ir veikla jose plėtojama pagal kompleksinio ir specialiojo teritorijų planavimo, strateginio planavimo dokumentus, apsaugos reglamentus ir jais nustatomus paveldosaugos reikalavimus, parengtus vadovaujantis šio įstatymo ir Teritorijų planavimo įstatymo nuostatomis.
+1. Nekilnojamosios kultūros vertybės, jų teritorijos, apsaugos zonos tvarkomos ir veikla jose plėtojama pagal kompleksinio ir specialiojo teritorijų planavimo, strateginio planavimo dokumentus, apsaugos reglamentus ir jais nustatomus paveldosaugos reikalavimus, parengtus vadovaujantis šio įstatymo, Saugomų teritorijų įstatymo ir Teritorijų planavimo įstatymo nuostatomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2096, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07053
+ 
 
 
 
 
-2. Kultūros paveldo objektai, jų teritorijos, kultūros paveldo vietovės ir jų apsaugos zonos tvarkomi ir veikla juose plėtojama:
+2. Kultūros paveldo objektai, jų teritorijos ir jų apsaugos zonos, kultūros paveldo vietovės ir jų apsaugos zonos, kultūriniai rezervatai ir kultūriniai draustiniai tvarkomi ir veikla juose plėtojama:
 
 
 1) kultūros paveldo objektai, jų teritorijos ir apsaugos zonos – pagal paveldosaugos reikalavimus, nustatomus kultūros paveldo objektų tipiniuose apsaugos reglamentuose, tvirtinamuose Vyriausybės, ir individualiuose apsaugos reglamentuose, parengtuose ir patvirtintuose kultūros ministro nustatyta tvarka; 
@@ -1604,14 +1619,30 @@ Nr. XI-2389, 2012-11-08, Žin., 2012, Nr. 136-6960 (2012-11-24)
 
 
 
-2) kultūros paveldo vietovės ir jų apsaugos zonos – pagal nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentus – tvarkymo planus. Tvarkymo planai kultūros ministro ir aplinkos ministro nustatyta tvarka gali būti rengiami ir kompleksiniams kultūros paveldo objektams. Kompleksinių kultūros paveldo objektų ir jų apsaugos zonų tvarkymo planai prilyginami kultūros paveldo vietovių ir jų apsaugos zonų tvarkymo planams ir rengiami bei tvirtinami tokia pačia tvarka kaip ir kultūros paveldo vietovių ir jų apsaugos zonų tvarkymo planai.
+2) kultūros paveldo vietovės ir jų apsaugos zonos – pagal nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentus – tvarkymo planus (išskyrus šios dalies 3 ir 4 punktuose nustatytus atvejus). Tvarkymo planai kultūros ministro ir aplinkos ministro nustatyta tvarka gali būti rengiami ir kompleksiniams kultūros paveldo objektams. Kompleksinių kultūros paveldo objektų ir jų apsaugos zonų tvarkymo planai prilyginami kultūros paveldo vietovių ir jų apsaugos zonų tvarkymo planams ir rengiami bei tvirtinami tokia pačia tvarka, kaip ir kultūros paveldo vietovių ir jų apsaugos zonų tvarkymo planai; 
 
 
 
 
+3) valstybiniuose parkuose esančios kultūros paveldo vietovės, kultūriniai draustiniai ir kultūriniai rezervatai – pagal valstybinių parkų planavimo schemas (ribų ir tvarkymo planus);
 
 
-3. Kultūros paveldo vietovių ir jų apsaugos zonų tvarkymo planas yra specialiojo teritorijų planavimo dokumentas, kuriame nustatomi nekilnojamojo kultūros paveldo apsaugos ir veiklos plėtojimo kultūros paveldo vietovėje ir jos apsaugos zonoje paveldosaugos reikalavimai bei kultūros paveldo vietovės ir jos apsaugos zonos ribos.
+
+
+4) valstybiniuose rezervatuose ir valstybiniuose draustiniuose esančios kultūros paveldo vietovės – pagal šių saugomų teritorijų planavimo schemas (ribų ir tvarkymo planus)  ir tvarkymo planus. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2096, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07053
+ 
+
+
+
+
+3. Kultūros paveldo vietovių ir jų apsaugos zonų tvarkymo planas yra specialiojo teritorijų planavimo dokumentas, kuriame nustatomi nekilnojamojo kultūros paveldo apsaugos ir veiklos plėtojimo kultūros paveldo vietovėje ir jos apsaugos zonoje paveldosaugos reikalavimai bei kultūros paveldo vietovės ir jos apsaugos zonos ribos. Valstybiniuose parkuose, valstybiniuose rezervatuose ir valstybiniuose draustiniuose esančių kultūros paveldo vietovių kultūros paveldo apsaugos ir veiklos plėtojimo paveldosaugos reikalavimai ir ribos nustatomi vadovaujantis šiuo įstatymu ir Saugomų teritorijų įstatymo nustatyta tvarka rengiamuose saugomų teritorijų specialiojo teritorijų planavimo dokumentuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2096, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07053
+ 
 
 
 
@@ -1644,17 +1675,20 @@ Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 
 
 
-7. Teritorijų, kuriose yra registruotų nekilnojamųjų kultūros vertybių, kompleksinio ir specialiojo teritorijų planavimo dokumentai tvirtinami:
+7. Teritorijų, kuriose yra registruotų nekilnojamųjų kultūros vertybių, kompleksinio ir specialiojo teritorijų planavimo dokumentai Teritorijų planavimo įstatymo ir atitinkamose teritorijų planavimo dokumentų rengimo taisyklėse nustatyta tvarka turi būti derinami:
 
 
-1) valstybės lygmens – kai yra Departamento motyvuotos išvados ir pritarimas dėl parengtų teritorijų planavimo dokumentų sprendinių suderinimo pagal Departamento išduotas planavimo sąlygas;
+1) valstybės lygmens ir (ar) Vyriausybės tvirtinami – su planavimo sąlygas išdavusia Kultūros ministerija ir atitinkamose teritorijų planavimo dokumentų rengimo taisyklėse nurodytomis institucijomis;
 
 
 
 
-2) savivaldybės, vietovės lygmens – kai yra Departamento ir savivaldybės paveldosaugos padalinio atstovų pasirašytas Teritorijų planavimo komisijos protokolas, kuriuo rekomenduojama teritorijų planavimo dokumentą patvirtinti.
+2) savivaldybės ir (ar) vietovės lygmens – Teritorijų planavimo komisijoje, į kurios sudėtį privalo būti įtraukti Departamento atstovas ir savivaldybės administracijos atstovas, atsakingas už paveldosaugą.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2096, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07053
+ 
 
 
 
@@ -2702,3 +2736,8 @@ Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-73
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-582, 2017-06-30, paskelbta TAR 2017-07-13, i. k. 2017-12167
 Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 7 ir 10 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2096, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07053
+Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 11, 21 ir 22 straipsnių pakeitimo įstatymas
