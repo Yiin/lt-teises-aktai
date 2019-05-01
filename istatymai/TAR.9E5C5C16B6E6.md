@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-10-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
  
@@ -1813,23 +1813,20 @@ Nr. XI-2103, 2012-06-21, Žin., 2012, Nr. 78-4025 (2012-07-04)
 
 
 
-27 straipsnis. Narkologinės priežiūros organizavimas
+27 straipsnis. Asmenų, kuriems diagnozuoti psichikos ir elgesio sutrikimai dėl alkoholio vartojimo, psichikos sveikatos priežiūra
 
 
-1. Narkologinė priežiūra atliekama Lietuvos Respublikos narkologinės priežiūros įstatymo, kitų įstatymų ir teisės aktų nustatyta tvarka.
-
-
-
-
-2. Asmenys, apsinuodiję alkoholiu, gali būti įstatymų ir kitų teisės aktų nustatyta tvarka detoksikuojami asmens sveikatos priežiūros įstaigose. Šiuos asmenis policija gali priverstinai pristatyti į asmens sveikatos priežiūros įstaigas tik tuo atveju, kai jie savo veiksmais (ar neveikimu) gali padaryti esminės žalos savo ar aplinkinių sveikatai, gyvybei.
+1. Asmenims, kuriems diagnozuoti psichikos ir elgesio sutrikimai dėl alkoholio vartojimo, asmens psichikos sveikatos priežiūros paslaugos teikiamos Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo nustatyta tvarka.
 
 
 
 
-3. Įstatymų nustatytais atvejais ir tvarka gali būti apribotas asmenų, kuriems pasireiškia priklausomybės nuo alkoholio sindromas, veiksnumas.
+2. Asmenis, apsinuodijusius alkoholiu, policija gali priverstinai pristatyti į asmens sveikatos priežiūros įstaigas tik tuo atveju, kai jie savo veiksmais (ar neveikimu) gali padaryti esminės žalos savo ar aplinkinių sveikatai, gyvybei ar turtui.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1911, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00843
  
-
-
 
 
 
@@ -3015,3 +3012,8 @@ Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 20 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1545, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17453
 Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 18 ir 22 straipsnių pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1911, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00843
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 27 straipsnio pakeitimo įstatymas
