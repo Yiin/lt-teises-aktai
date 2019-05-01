@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-11-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-10-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
  
@@ -2289,7 +2289,10 @@ Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 
 
 
-2) specialiojo teritorijų planavimo dokumento derinimas teritorijų planavimo dokumentą derinančiose institucijose (valstybės lygmeniu) ar Teritorijų planavimo komisijoje (savivaldybės lygmeniu ar vietovės lygmeniu);
+2) specialiojo teritorijų planavimo dokumento derinimas teritorijų planavimo dokumentą derinančiose institucijose (kai specialiojo teritorijų planavimo dokumentai rengiami valstybės lygmeniu ir (ar) juos tvirtina Vyriausybė) ar Teritorijų planavimo komisijoje (savivaldybės ir (ar) vietovės lygmeniu);
+Straipsnio punkto pakeitimai:
+Nr. XIII-2097, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07055
+ 
 
 
 
@@ -3192,3 +3195,8 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 22 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 4, 6, 20, 28 ir 31 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2097, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07055
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 30 straipsnio pakeitimo įstatymas
