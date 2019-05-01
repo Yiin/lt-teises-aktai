@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6C5599DD9A1"
 
 # Lietuvos Respublikos mokėjimų įstatymas
 
-Suvestinė redakcija nuo 2018-08-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-10-19
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 97-2775, i. k. 0991010ISTAIII-1370
  
@@ -500,7 +500,10 @@ b) vienos mokėjimo operacijos vertė neviršija 50 eurų ir vieno abonento bend
 
 
 
-16) priverstiniam lėšų išieškojimui (nurašymui) teisės aktų nustatyta tvarka. 
+16) priverstiniam lėšų išieškojimui (nurašymui) teisės aktų nustatyta tvarka. Kai teisės aktai nustato, kad išieškojimas negali būti nukreiptas į nustatyto dydžio pinigų sumą vartotojo mokėjimo sąskaitoje, mokėjimo paslaugų teikėjas užtikrina, kad vartotojas galėtų disponuoti šiomis lėšomis naudodamasis bent mokėjimo kortelėmis (išskyrus kredito korteles), o tais atvejais, kai mokėjimo paslaugų teikėjas neleidžia mokėjimo kortelių, kitais būdais. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1092, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06727
+ 
 
 
 
@@ -2838,18 +2841,30 @@ TAR pastaba: 64 straipsnis įsigalioja praėjus 9 mėnesiams nuo Europos Komisij
 
 
 
-65 straipsnis. Mokėjimo sąskaitos, įtrauktos į paslaugų rinkinius, apimančius kitą produktą arba paslaugą
+65 straipsnis. Mokėjimo sąskaitos ir kito su mokėjimo sąskaita nesusijusio produkto arba paslaugos siejimas ir grupavimas
 
 
-1. Kai mokėjimo sąskaita siūloma kaip paslaugų rinkinio, apimančio kitą produktą arba paslaugą, kurie nėra susiję su mokėjimo sąskaita, dalis, mokėjimo paslaugų teikėjas privalo informuoti vartotoją, ar yra galimybė mokėjimo sąskaitą atidaryti atskirai ir, jeigu tokia galimybė yra, – pateikti atskirą informaciją apie išlaidas ir komisinį atlyginimą, susijusius su kiekvienu iš kitų į tą paslaugų rinkinį įtrauktų siūlomų produktų ir paslaugų, kuriuos galima įsigyti atskirai.
+1. Mokėjimo paslaugų teikėjas gali taikyti mokėjimo sąskaitos ir kito su mokėjimo sąskaita nesusijusio produkto arba paslaugos grupavimą. Tokiu atveju jis privalo informuoti vartotoją apie išlaidas ir komisinį atlyginimą, susijusius su mokėjimo sąskaita ir kiekvienu iš kitų į tą paslaugų grupę įtrauktų siūlomų produktų ir paslaugų, jeigu jie būtų įsigyjami atskirai.
 
 
 
 
-2. Mokėjimo paslaugų teikėjas, siūlydamas bendrosios sutarties dėl mokėjimo sąskaitos, kuri teikiama kaip paslaugų rinkinio, apimančio kitą produktą arba paslaugą, dalis, pakeitimus, privalo laikytis šio įstatymo 15 straipsnio 1 dalies reikalavimų ir, jeigu vartotojas nesutinka su siūlomais pakeitimais, privalo be jokių neigiamų pasekmių ir apribojimų vartotojui užtikrinti jo teisę nutraukti bendrąją sutartį arba pasinaudoti mokėjimo sąskaitos perkėlimo paslauga. 
+2. Kai mokėjimo paslaugų teikėjas taiko mokėjimo sąskaitos ir kito su mokėjimo sąskaita nesusijusio produkto arba paslaugos grupavimą, jis privalo be jokių apribojimų, atsižvelgdamas į pagal šio straipsnio 1 dalies reikalavimus pateiktą informaciją, vartotojui užtikrinti jo teisę nutraukti bendrąją sutartį dėl mokėjimo sąskaitos arba pasinaudoti mokėjimo sąskaitos perkėlimo paslauga. 
+
+
+
+
+3. Mokėjimo paslaugų teikėjas negali taikyti vartotojo mokėjimo sąskaitos, atidarytos eurais, ir terminuotojo indėlio, laidavimo ir garantijos, kuriais vartotojas užtikrina trečiųjų asmenų prievolių mokėjimo paslaugų teikėjui vykdymą, susiejimo. Mokėjimo paslaugų teikėjas turi tik teisę reikalauti, kad vartotojas, sudarydamas sutartį dėl šioje dalyje nurodytų paslaugų, turėtų riboto naudojimo mokėjimo sąskaitą, skirtą tai paslaugai administruoti. Tokia mokėjimo sąskaita atidaroma, tvarkoma, uždaroma ir su ja susijusios paslaugos, skirtos perkamai paslaugai administruoti, turi būti teikiamos nemokamai.
+
+
+
+
+4. Mokėjimo paslaugų teikėjas, siūlydamas bendrosios sutarties dėl mokėjimo sąskaitos, kuri yra susieta su kita, negu šio straipsnio 3 dalyje nustatyta, su mokėjimo sąskaita nesusijusia paslauga ar produktu, pakeitimus, privalo laikytis šio įstatymo 15 straipsnio 1 dalies reikalavimų ir, jeigu vartotojas nesutinka su siūlomais pakeitimais, privalo be jokių neigiamų padarinių ir apribojimų vartotojui užtikrinti jo teisę nutraukti bendrąją sutartį arba pasinaudoti mokėjimo sąskaitos perkėlimo paslauga. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1092, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06727
  
-
-
 
 
 
