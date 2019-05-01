@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea8fee50ac9311e6b844f0f29024f5ac"
 
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas
 
-Suvestinė redakcija nuo 2019-03-22 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2020-03-18
  
 Įstatymas paskelbtas: TAR 2016-11-17, i. k. 2016-26968
  
@@ -862,7 +862,11 @@ Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
 
 
 
-10. Kai kredito įmokos mokamos pavėluotai, netesybos kredito gavėjui netaikomos, jeigu kredito davėjas ne dėl kredito gavėjo kaltės netinkamai įvertino kredito gavėjo kreditingumą.
+10. Finansinių įsipareigojimų pagal kredito sutartį nevykdymo atvejais netesybos kredito gavėjui netaikomos, jeigu kredito davėjas ne dėl kredito gavėjo kaltės netinkamai įvertino kredito gavėjo kreditingumą. 
+TAR pastaba. 10 dalis taikoma nuo 2019 m. gegužės 1 d. sudarytoms kredito sutartims.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
+ 
 
 
 
@@ -1051,7 +1055,11 @@ Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
 
 
 
-10) pavėluoto kredito įmokų mokėjimo atvejais mokamos netesybos ir jų apskaičiavimo tvarka;
+10) finansinių įsipareigojimų pagal kredito sutartį nevykdymo atvejais mokamos netesybos ir jų apskaičiavimo tvarka; 
+TAR pastaba. 10 punktas taikomas nuo 2019 m. gegužės 1 d. sudarytoms kredito sutartims.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
+ 
 
 
 
@@ -1157,7 +1165,11 @@ Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
 
 
 
-4. Kredito sutartyje nustatyta marža gali būti didinama tik tiek, kiek nurodyta kredito sutartyje, ir tik esant esminiams kredito sutarties sąlygų pažeidimams, tinkamai apie tokį maržos padidinimą informuojant kredito gavėją, tačiau tik tokiam laikotarpiui, kurį truko kredito sutarties sąlygų pažeidimas.
+4. Esminių kredito sutarties sąlygų pažeidimų atvejais, išskyrus finansinių įsipareigojimų pagal kredito sutartį nevykdymo atvejus, kredito sutartyje nustatyta marža gali būti didinama tik tiek, kiek nurodyta kredito sutartyje, tinkamai apie tokį maržos padidinimą informuojant kredito gavėją, ir tik tokiam laikotarpiui, kurį truko kredito sutarties sąlygų pažeidimas. Finansinių įsipareigojimų pagal kredito sutartį nevykdymo atvejais kredito sutartyje nustatyta marža negali būti didinama. 
+TAR pastaba. 4 dalis taikoma nuo 2019 m. gegužės 1 d. sudarytoms kredito sutartims.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
+ 
 
 
 
@@ -1167,7 +1179,19 @@ Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
 
 
 
-6. Pavėluoto kredito įmokų mokėjimo atvejais kredito gavėjui taikomos netesybos negali būti didesnės kaip 0,05 procento pradelstos sumokėti sumos už kiekvieną pradelstą dieną. Jokios kitos netesybos ir mokėjimai už įsipareigojimų pagal kredito sutartį nevykdymą kredito gavėjui negali būti taikomi.
+6. Finansinių įsipareigojimų pagal kredito sutartį nevykdymo atvejais kredito gavėjui gali būti taikomos netesybos, nedidesnės kaip 0,05 procento pradelstos sumokėti sumos už kiekvieną pradelstą dieną, išskyrus šio straipsnio 7 dalyje nustatytus atvejus. Visais finansinių įsipareigojimų pagal kredito sutartį nevykdymo atvejais netesybos negali būti skaičiuojamos už ilgesnį kaip 180 dienų laikotarpį. Jokios kitos netesybos ir mokėjimai už finansinių įsipareigojimų pagal kredito sutartį nevykdymą kredito gavėjui negali būti taikomi. 
+TAR pastaba. 16 straipsnio 6 ir 7 dalys taikomos ir iki 2019 m. balandžio 30 d. sudarytoms kredito sutartims. 16 straipsnio 6 ir 7 dalių nuostatos taikomos toms teisėms ir pareigoms pagal kredito sutartis, sudarytas iki 2019 m. balandžio 30 d., kurios atsiranda arba yra įgyvendinamos nuo 2019 m. gegužės 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
+ 
+
+
+
+
+7. Nutraukus kredito sutartį arba pareikalavus grąžinti visą kreditą nepasibaigus kredito sutarties galiojimo laikotarpiui nenutraukiant kredito sutarties, kredito gavėjui gali būti taikomos netesybos, kurios negali būti didesnės kaip 0,015 procento pradelstos sumokėti sumos už kiekvieną pradelstą dieną. 
+TAR pastaba. 16 straipsnio 6 ir 7 dalys taikomos ir iki 2019 m. balandžio 30 d. sudarytoms kredito sutartims. 16 straipsnio 6 ir 7 dalių nuostatos taikomos toms teisėms ir pareigoms pagal kredito sutartis, sudarytas iki 2019 m. balandžio 30 d., kurios atsiranda arba yra įgyvendinamos nuo 2019 m. gegužės 1 d.
+Papildyta straipsnio dalimi:
+Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
  
 
 
@@ -3043,7 +3067,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-5. Šio įstatymo 14 straipsnis, 16 straipsnio 6 dalis, 17, 20, 21, 22 ir 23 straipsniai taikomi kredito sutartims, sudarytoms iki šio įstatymo įsigaliojimo dienos. Taip pat, jeigu keičiamos esminės iki šio įstatymo įsigaliojimo dienos sudarytos kredito sutarties sąlygos, pakeistai kredito sutarčiai taikomos šio įstatymo nuostatos. 
+5. Šio įstatymo 14 straipsnis, 16 straipsnio 6 ir 7 dalys, 17, 20, 21, 22 ir 23 straipsniai taikomi kredito sutartims, sudarytoms iki šio įstatymo įsigaliojimo dienos. Taip pat, jeigu keičiamos esminės iki šio įstatymo įsigaliojimo dienos sudarytos kredito sutarties sąlygos, pakeistai kredito sutarčiai taikomos šio įstatymo nuostatos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
+ 
 
 
 
@@ -3118,3 +3145,8 @@ Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1476, 2018-09-13, paskelbta TAR 2018-09-24, i. k. 2018-14922
 Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 2, 12, 14, 16, 24, 32, 37 ir 43 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
+Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 12, 16 ir 58 straipsnių pakeitimo įstatymas
