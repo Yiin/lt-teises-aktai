@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -429,7 +429,10 @@ Nr. XII-2228, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00086
 
 
 
-21) odontologinės priežiūros, narkologinės priežiūros sąlygas, jų organizavimo bei valdymo teisinius pagrindus;
+21) odontologinės priežiūros sąlygas, jos organizavimo bei valdymo teisinius pagrindus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1908, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00840
+ 
 
 
 
@@ -1400,15 +1403,32 @@ Nr. IX-1472, 2003-04-03, Žin., 2003, Nr. 38-1717 (2003-04-24)
 
 
 
-29 straipsnis. Teismo psichiatrijos ekspertizė
+29 straipsnis. Teismo psichiatrijos ir teismo psichologijos ekspertizės
 
 
-Teismo psichiatrijos ekspertizė atliekama pagal ikiteisminio tyrimo teisėjo ar teismo nutartį. Ekspertizes atlieka Valstybinė teismo psichiatrijos tarnyba prie Sveikatos apsaugos ministerijos, taip pat kiti asmenys, turintys teismo psichiatro eksperto kvalifikaciją, įrašyti į Lietuvos Respublikos teismo ekspertų sąrašą. Stacionarinę teismo psichiatrijos ekspertizę atlieka tik Valstybinė teismo psichiatrijos tarnyba prie Sveikatos apsaugos ministerijos. Teismo psichiatrijos ekspertizės organizavimo ir atlikimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+1. Teismo psichiatrijos ir teismo psichologijos ekspertizės atliekamos pagal ikiteisminio tyrimo teisėjo ar teismo nutartį. Stacionarines ekspertizes atlieka Valstybinė teismo psichiatrijos tarnyba prie Sveikatos apsaugos ministerijos. Ambulatorines ekspertizes atlieka Valstybinė teismo psichiatrijos tarnyba prie Sveikatos apsaugos ministerijos ir kiti asmenys, turintys teismo psichiatro eksperto ar teismo psichologo eksperto kvalifikaciją ir įrašyti į Lietuvos Respublikos teismo ekspertų sąrašą. Teismo psichiatrijos ir teismo psichologijos ekspertizių organizavimo ir atlikimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 
+
+
+2. Stacionarinių teismo psichiatrijos ir teismo psichologijos ekspertizių atlikimo metu ūmiai sutrikus paciento psichikos būklei teismo psichiatrijos ir teismo psichologijos ekspertizės atlikimas sustabdomas:
+
+
+1) jeigu pacientui Lietuvos Respublikos baudžiamojo kodekso nustatyta tvarka taikomos priverčiamosios medicinos priemonės, – iki tol, kol jos bus baigtos taikyti; 
+
+
+
+
+2) šios dalies 1 punkte nenurodytais atvejais – iki tol, kol pacientui bus baigtos teikti asmens psichikos sveikatos priežiūros paslaugos, reikalingos dėl ūmaus paciento psichikos būklės sutrikimo. 
 Straipsnio pakeitimai:
 Nr. IX-1472, 2003-04-03, Žin., 2003, Nr. 38-1717 (2003-04-24)
 Nr. XI-2360, 2012-11-06, Žin., 2012, Nr. 133-6758 (2012-11-17)
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1908, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00840
  
 
 
@@ -2195,7 +2215,10 @@ PRIEŽIŪRA IR JOS TEIKIMO TVARKA
 
 
 
-7) asmenų, sergančių tuberkulioze, lytiniu keliu plintančiomis ligomis, ŽIV (AIDS), užkrečiamosiomis, endokrininėmis, psichikos, onkologinėmis ligomis, priklausomybės nuo alkoholio sindromu, narkomanijomis, toksikomanijomis ir kitomis Sveikatos apsaugos ministerijos nustatyto sąrašo ligomis, bei nėščiųjų asmens sveikatos priežiūra;
+7) asmenų, sergančių tuberkulioze, lytiniu keliu plintančiomis ligomis, ŽIV (AIDS), užkrečiamosiomis, endokrininėmis, onkologinėmis ligomis, turinčių psichikos ir elgesio sutrikimų ir sergančių kitomis sveikatos apsaugos ministro nustatyto sąrašo ligomis, taip pat nėščiųjų asmens sveikatos priežiūra; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1908, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00840
+ 
 
 
 
@@ -3974,40 +3997,9 @@ Nr. XIII-248, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05919
 
 
 
-67(1) straipsnis. Valstybinė psichikos sveikatos komisija prie Lietuvos Respublikos 
-Vyriausybės
-
-
-1. Valstybinė psichikos sveikatos komisija prie Lietuvos Respublikos Vyriausybės (toliau - VPSK) yra psichikos sveikatos politikos koordinavimo institucija, įgyvendinanti tarpdisciplininį požiūrį į psichikos sveikatą.
-
-
-
-
-2. VPSK analizuoja visuomenės moralinės aplinkos ir propaguojamų vertybinių nuostatų įtaką gyventojų psichikos sveikatai.
-
-
-
-
-3. VPSK analizuoja Lietuvos gyventojų psichikos sveikatos būklę, valstybės raidos ir valstybėje vykdomų švietimo, socialinių bei ekonominių permainų įtaką gyventojų psichikos sveikatai ir apie tai informuoja Vyriausybę, Seimą ir visuomenę.
-
-
-
-
-4. VPSK koordinuoja tarpžinybinį bendradarbiavimą psichikos sveikatos politikos srityje ir teikia pasiūlymus valstybės valdymo ir vietos savivaldos institucijoms, įstaigoms, organizacijoms dėl visuomenės psichologinės darnos gerinimo, gyventojų psichikos sveikatos išsaugojimo ir grąžinimo priemonių planavimo bei įgyvendinimo.
-
-
-
-
-5. VPSK sudaro ir jos nuostatus tvirtina Vyriausybė. Šios komisijos veikla finansuojama iš valstybės biudžeto. 
-
-
-
-
-6. VPSK sudarymo tvarką, funkcijas ir teises reglamentuoja šis įstatymas, Psichikos sveikatos priežiūros įstatymas ir šios komisijos nuostatai.
-
-
-Įstatymas papildytas straipsniu:
-Nr. VIII-1462, 99.12.02, Žin., 1999, Nr.108-3128 (99.12.22)
+671 straipsnis. Neteko galios nuo 2019-05-01
+Straipsnio naikinimas:
+Nr. XIII-1908, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00840
  
 
 
@@ -4339,7 +4331,10 @@ ministerijos
 2. Valstybinė teismo psichiatrijos tarnyba prie Sveikatos apsaugos ministerijos:
 
 
-1) atlieka teismo medicinos, teismo psichiatrijos ekspertizes teismams;
+1) atlieka teismo medicinos, teismo psichiatrijos ir teismo psichologijos ekspertizes teismams; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1908, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00840
+ 
 
 
 
@@ -4866,9 +4861,8 @@ Jeigu Lietuvos Respublikos tarptautinėje sutartyje nustatyti kitokie reikalavim
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                        VALDAS ADAMKUS
- 
- 
 
 
 
@@ -5180,3 +5174,8 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 38-1 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1691, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20189
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 41 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1908, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00840
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 3, 29, 47, 74 straipsnių pakeitimo ir 67-1 straipsnio pripažinimo netekusiu galios įstatymas
