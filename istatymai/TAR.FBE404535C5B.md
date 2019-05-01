@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2019-04-30
+Suvestinė redakcija nuo 2019-05-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 215-0; Žin. 1991, Nr.30-804, i. k. 0911010ISTA00I-1863
  
@@ -205,7 +205,10 @@ Valstybė teisinėmis, o prireikus ir finansinėmis priemonėmis užtikrina:
 
 
 
-6) kombinuotų vežimų sistemos kūrimo ir plėtojimo skatinimą, taip pat šiuo pagrindu remiantis ir tranzito skatinimą.
+6) kombinuotųjų krovinių ir keleivių vežimų sistemos kūrimo ir plėtojimo skatinimą, taip pat šiuo pagrindu remiantis ir tranzito skatinimą. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1856, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00092
+ 
 
 
 
@@ -283,10 +286,12 @@ Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 5 straipsnis. Transporto rūšys
 
 
-Transporto rūšys pagal šį Įstatymą yra šios: geležinkelių, kelių, jūrų, oro ir vidaus vandenų transportas. Šių transporto rūšių, taip pat kombinuotų vežimų veiklos ypatumus nustato specialieji transporto rūšių įstatymai ir kodeksai bei kiti teisės aktai.
+Transporto rūšys pagal šį Įstatymą yra šios: geležinkelių, kelių, jūrų, oro ir vidaus vandenų transportas. Šių transporto rūšių, taip pat kombinuotųjų krovinių ir keleivių vežimų veiklos ypatumus nustato specialieji transporto rūšių įstatymai ir kodeksai bei kiti krovinių ir keleivių vežimo veiklą reglamentuojantys teisės aktai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1856, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00092
  
-
-
 
 
 
@@ -425,12 +430,18 @@ Nr. XII-2395, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16846
 
 
 
-3. Asmens duomenys intelektinių transporto sistemų srityje tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo ir Lietuvos Respublikos elektroninių ryšių įstatymo nuostatomis. Tais atvejais, kai nėra būtini asmens tapatybę nustatantys duomenys, intelektinių transporto sistemų srityje tvarkomi tokie duomenys, iš kurių negalima nustatyti asmens tapatybės.
+3. Asmens duomenys intelektinių transporto sistemų srityje tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo, Lietuvos Respublikos elektroninių ryšių įstatymo ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) nuostatomis. Tais atvejais, kai nėra būtini asmens tapatybę nustatantys duomenys, intelektinių transporto sistemų srityje tvarkomi tokie duomenys, iš kurių negalima nustatyti asmens tapatybės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1856, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00092
+ 
 
 
 
 
-4. Atsakomybę už intelektinių transporto sistemų prietaikų ir paslaugų saugos ir kokybės pažeidimus reglamentuoja Lietuvos Respublikos produktų saugos įstatymas ir Lietuvos Respublikos administracinių teisės pažeidimų kodeksas.
+4. Atsakomybę už intelektinių transporto sistemų prietaikų ir paslaugų saugos ir kokybės pažeidimus reglamentuoja Lietuvos Respublikos produktų saugos įstatymas ir Lietuvos Respublikos administracinių nusižengimų kodeksas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1856, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00092
+ 
 
 
 
@@ -445,18 +456,20 @@ Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 
 
 
-12 straipsnis. Kombinuoti vežimai
+12 straipsnis. Kombinuotieji krovinių ir keleivių vežimai
 
 
-1. Kombinuoti vežimai - krovinių gabenimas naudojant ne mažiau kaip dvi transporto rūšis, kai tas pats krovinys esantis sunkvežimyje, priekaboje ar puspriekabėje (su vilkiku ar be jo), keičiamoje talpykloje arba 20 ar daugiau pėdų konteineryje didžiąją maršruto dalį yra gabenamas geležinkelių, vidaus vandenų arba jūrų transportu, o pradinę ir (arba) galutinę maršruto dalį - kelių transporto priemonėmis. 
+1. Kombinuotasis krovinių vežimas – krovinių vežimas ne mažiau kaip dviejų rūšių transporto priemonėmis, kai tas pats krovinys, esantis sunkvežimyje, priekaboje ar puspriekabėje (su vilkiku ar be jo), keičiamoje talpykloje arba 20 ar daugiau pėdų konteineryje, didžiąją maršruto dalį yra vežamas geležinkelių, vidaus vandenų arba jūrų transportu, o pradinę ir (arba) galutinę maršruto dalį – kelių transporto priemonėmis. 
 
 
 
 
-2. Vyriausybė gali nustatyti kombinuotų vežimų konkurencingumą  skatinančias priemones.
+2. Kombinuotasis keleivių vežimas – keleivių vežimas ne mažiau kaip dviejų transporto rūšių transporto priemonėmis, kai toks vežimas vykdomas vienos keleivių vežimo sutarties pagrindu. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1856, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00092
  
-
-
 
 
 
@@ -1357,3 +1370,8 @@ Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 9 ir 15 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 1, 19, 19-1, 20, 21, 22, 23, 24, 25, 26, 27 ir 28 straipsnių pakeitimo, Įstatymo papildymo nauju 1 ir 2 priedais ir priedo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1856, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00092
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 3, 5, 11 ir 12 straipsnių pakeitimo įstatymas
