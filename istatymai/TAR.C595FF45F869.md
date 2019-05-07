@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2019-04-25 iki 2019-05-06
+Suvestinė redakcija nuo 2019-05-07 iki 2019-07-31
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -4152,10 +4152,11 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
 
-3. Atitinkamais metais priimamų trumposios pakopos, pirmosios pakopos ir vientisųjų studijų, antrosios pakopos, doktorantūros, profesinių studijų vietų, studijų stipendijų preliminarų skaičių ir skiriamą valstybės finansavimą (nustatytus pagal patvirtintas atitinkamų metų normines studijų kainas ir studijų krypčių grupes (mokslo doktorantūros – pagal mokslo sritis), iki kiekvienų metų balandžio 2 dienos nustato Vyriausybė, atsižvelgdama į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir valstybės finansines galimybes. 
+3. Atitinkamais metais priimamų trumposios pakopos, pirmosios pakopos ir vientisųjų studijų, antrosios pakopos, doktorantūros, profesinių studijų vietų, studijų stipendijų preliminarų skaičių ir skiriamą valstybės finansavimą (nustatytus pagal patvirtintas atitinkamų metų normines studijų kainas ir studijų krypčių grupes (mokslo ir meno doktorantūros – pagal mokslo ir meno sritis) iki kiekvienų metų balandžio 2 dienos nustato Vyriausybė, atsižvelgdama į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir valstybės finansines galimybes.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1369, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11698
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
+Nr. XIII-2089, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07326
  
 
 
@@ -5156,3 +5157,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 82 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2057, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06693
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 80 ir 82 straipsnių pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2089, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07326
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 77 straipsnio pakeitimo įstatymas
