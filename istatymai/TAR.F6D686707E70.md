@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2019-04-03 iki 2019-05-07
+Suvestinė redakcija nuo 2019-05-08 iki 2019-06-30
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -4284,7 +4284,10 @@ POILSIO LAIKAS
 
 
 
-9) liepos 6-ąją – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) dieną; 
+9) liepos 6-ąją – Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) ir Tautiškos giesmės dieną;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2092, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07402
+ 
 
 
 
@@ -9449,3 +9452,8 @@ Lietuvos Respublikos darbo kodekso 31 ir 59 straipsnių pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2009, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05337
 Lietuvos Respublikos darbo kodekso 179 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2092, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07402
+Lietuvos Respublikos darbo kodekso 123 straipsnio pakeitimo įstatymas
