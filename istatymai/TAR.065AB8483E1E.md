@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-05-07
+Suvestinė redakcija nuo 2019-05-08 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -2401,121 +2401,120 @@ Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 
 
 
-2. Užsienyje parengtas radijo ir (ar) televizijos programas ir (ar) atskiras programas leidžiama transliuoti ir retransliuoti Lietuvos Respublikoje nepažeidžiant šio ir kitų įstatymų nuostatų.
+2. Užsienyje parengtas radijo ir (ar) televizijos programas ir (ar) atskiras programas leidžiama transliuoti ir retransliuoti, platinti internete ar laikyti kataloguose Lietuvos Respublikoje nepažeidžiant šio ir kitų įstatymų nuostatų.
 
 
 
 
-3. Iš Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ir kitų Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių Europos valstybių transliuojamų ar retransliuojamų arba internete platinamų televizijos programų ar atskirų programų, kai perduodama tik atskira programa, laisvas priėmimas Lietuvos Respublikoje laikinai sustabdomas, kai yra visos šios sąlygos:
+3. Iš Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių transliuojamų, retransliuojamų arba internete platinamų televizijos programų ar atskirų programų, kai perduodama tik atskira programa, ar užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų kataloguose esančių programų laisvas priėmimas Lietuvos Respublikoje laikinai sustabdomas, kai:
 
 
-1) tokios televizijos programos pažeidžia šio įstatymo 17 straipsnio, 19 straipsnio 1 dalies 1, 2, 3 ar 4 punkto reikalavimus;
+1) šios programos rimtai ir sunkiai pažeidžia šio įstatymo 17 straipsnio, 19 straipsnio 1 dalies 3 punkto (kai kurstoma neapykanta, tyčiojimasis, niekinimas, kurstoma diskriminuoti, smurtauti, fiziškai susidoroti su žmonių grupe ar jai priklausančiu asmeniu dėl amžiaus, lyties, lytinės orientacijos, etninės priklausomybės, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, negalios, tikėjimo, įsitikinimų, pažiūrų ar religijos pagrindu), 4 ar 5 punkto reikalavimus po to, kai buvo nustatytos visos šios sąlygos:
 
 
+a) toks pažeidimas per paskutinius 12 mėnesių buvo padarytas bent du kartus;
 
 
-2) šios dalies 1 punkte nurodytas pažeidimas padaromas pakartotinai per 12 mėnesių nuo pirmo pažeidimo padarymo dienos;
 
 
+b) Komisija raštu pranešė visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjui, jurisdikciją turinčios Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės atsakingai institucijai ir Europos Komisijai apie įtariamus pažeidimus ir apie priemones, kurių Komisija ketina imtis, jeigu tokie pažeidimai pasikartos;
 
 
-3) Komisija, nustačiusi šio įstatymo 17 straipsnio, 19 straipsnio 1 dalies 1, 2, 3 ar 4 punkto pažeidimą, pranešė televizijos programų transliuotojui ir Europos Komisijai apie įtariamus pažeidimus ir apie priemones, kurių Komisija ketina imtis, jeigu tokie pažeidimai pasikartos;
 
 
+c) Komisija visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjui suteikė teisę duoti paaiškinimus ir būti išklausytam dėl įtariamų pažeidimų ir priemonių, kurių ji ketina imtis, jeigu tokie pažeidimai pasikartos;
 
 
-4) konsultuojantis su televizijos programas transliuojančia valstybe ir Europos Komisija nepavyksta susitarti abipusiu sutarimu per 15 dienų nuo šios dalies 3 punkte nurodyto įspėjimo ir tariami pažeidimai daromi toliau. 
 
 
-Straipsnio dalies pakeitimai:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+d) konsultuojantis su jurisdikciją turinčios Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės atsakinga institucija ir Europos Komisija nepavyksta susitarti abipusiu sutarimu per vieną mėnesį nuo šio punkto b papunktyje nurodyto pranešimo gavimo Europos Komisijoje dienos;
 
 
 
 
-4. Tais atvejais, kai Lietuvos Respublikos teisės aktuose nustatyti griežtesni ar išsamesni televizijos programų transliavimo reikalavimai, negu nustatyti Audiovizualinės žiniasklaidos paslaugų direktyvoje, o kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės jurisdikcijai priklausantis televizijos programų transliuotojas transliuoja televizijos programą, kurios visa ar didžioji dalis skirta Lietuvos Respublikos teritorijai, Komisija kreipiasi į jurisdikciją turinčios Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės atsakingą instituciją, kad būtų pasiektas abi valstybes tenkinantis bet kokios iškeltos problemos sprendimas. Tais atvejais, kai Lietuvos Respublikos jurisdikcijai priklausantis televizijos programų transliuotojas transliuoja televizijos programą, kurios visa ar didžioji dalis skirta kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teritorijai, nesilaikydamas tos valstybės teisės aktuose nustatytų griežtesnių ar išsamesnių televizijos programų transliavimo reikalavimų, negu nustatyti Audiovizualinės žiniasklaidos paslaugų direktyvoje, ir gavusi tos valstybės kompetentingos institucijos pagrįstą prašymą, Komisija kreipiasi į transliuotoją su prašymu laikytis atitinkamos valstybės nustatytų televizijos programų transliavimo reikalavimų. Ne vėliau kaip per du mėnesius nuo prašymo gavimo dienos Komisija informuoja prašymą pateikusios valstybės kompetentingą instituciją apie pasiektus prašyme iškeltos problemos sprendimo rezultatus.
 
 
+2) šios programos rimtai ir sunkiai pažeidžia šio įstatymo 19 straipsnio 1 dalies 1, 2 ar 3 punkto (kai skleidžiama karo propaganda, kurstomas karas) reikalavimus po to, kai buvo nustatytos visos šios sąlygos:
 
 
-5. Jeigu Komisija nustato, kad šio straipsnio 4 dalyje nurodytu atveju iškeltai problemai spręsti pasiektų rezultatų nepakanka, o televizijos programų transliuotojas, kurio programos pažeidžia Lietuvos Respublikos teisės aktų reikalavimus, įsisteigė kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės jurisdikcijai priklausančioje valstybėje, siekdamas išvengti griežtesnių nurodytoms sritims keliamų reikalavimų, negu nustatyti Audiovizualinės žiniasklaidos paslaugų direktyvoje, taikomų Lietuvos Respublikoje įsisteigusiems televizijos programų transliuotojams, Komisija turi teisę nustatyti tam televizijos programų transliuotojui galimas taikyti objektyviai būtinas, taikomas nediskriminuojant ir proporcingas tikslams, kurių siekiama, tinkamas priemones ir jų imtis.
+a) toks pažeidimas per paskutinius 12 mėnesių jau buvo padarytas;
 
 
 
 
-6. Komisija taiko šio straipsnio 5 dalyje nurodytas priemones tik esant visoms šioms aplinkybėms:
- 
+b) Komisija pranešė visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjui, jurisdikciją turinčios Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės atsakingai institucijai ir Europos Komisijai apie įtariamą pažeidimą ir apie priemones, kurių Komisija ketina imtis, jeigu toks pažeidimas pasikartos;
 
 
-1) Komisija yra pranešusi Europos Komisijai ir Europos Sąjungos valstybei narei, kurioje įsisteigęs televizijos programų transliuotojas, apie ketinimą imtis šio straipsnio 5 dalyje nurodytų priemonių, nurodydama priežastis, kuriomis ji grindžia savo vertinimą;
 
 
+c) Komisija visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjui suteikė teisę duoti paaiškinimus ir būti išklausytam dėl įtariamo pažeidimo ir priemonių, kurių ji ketina imtis, jeigu toks pažeidimas pasikartos;
 
 
-2) Europos Komisija nusprendžia, kad numatytos taikyti priemonės suderintos su Europos Sąjungos teise ir kad vertinimai, kuriuos Komisija atliko pagal šio straipsnio 4 ir 5 dalis imdamasi šių priemonių, yra tinkamai pagrįsti. 
 
 
+d) Komisija gavo iš nacionalinį saugumą užtikrinančios ar kitos kompetentingos institucijos informaciją, kurią įvertinusi nustatė, kad įtariamas pažeidimas kenkia ar kelia rimtą ir didelį pavojų visuomenės saugumui, įskaitant nacionalinio saugumo ir gynybos užtikrinimą. 
 
 
 
 
-7. Jeigu Europos Komisija nusprendžia, kad priemonės nesuderinamos su Europos Sąjungos teise, tai Komisija neturi teisės imtis pasiūlytų priemonių.
 
 
 
 
-8. Užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo atveju Komisija gali imtis priemonių, kuriomis ribojamas laisvas naudojimasis visuomenės informavimo audiovizualinėmis priemonėmis paslaugomis, tik kai yra visos šios aplinkybės: 
+4. Skubiu atveju, ne vėliau kaip per vieną mėnesį nuo įtariamo pažeidimo dienos, Komisija gali taikyti šio straipsnio 3 dalyje nurodytas priemones – laikinai sustabdyti laisvą programų priėmimą Lietuvos Respublikoje ir nesilaikydama šio straipsnio 3 dalies 2 punkto a, b ir c papunkčiuose nurodytų sąlygų. Tokiu atveju Komisija apie taikomas priemones turi kuo greičiau pranešti Europos Komisijai ir Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės, kurios jurisdikcijai priklauso visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas, atsakingai institucijai, taip pat nurodyti priežastis, kodėl Komisija mano, kad tai yra skubus atvejis. Šios dalies reikalavimai taikomi tik imantis priemonių prieš visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėją, kuris priklauso Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės jurisdikcijai.
 
 
-1) priemonės yra būtinos siekiant užtikrinti viešąją tvarką, ypač nusikaltimų prevenciją, tyrimą, atskleidimą ir persekiojimą už juos baudžiamąja tvarka, įskaitant nepilnamečių apsaugą ir kovą su bet kokiu neapykantos kurstymu dėl rasės, lyties, religinių įsitikinimų ar tautybės ir atskirų asmenų žmogiškojo orumo žeminimą; taip pat siekiant užtikrinti visuomenės sveikatos apsaugą, visuomenės saugumą, įskaitant valstybės saugumą ir gynybos užtikrinimą, vartotojų, įskaitant investuotojus, apsaugą;
 
 
+5. Tais atvejais, kai Lietuvos Respublikos teisės aktuose nustatyti griežtesni ar išsamesni televizijos programų transliavimo reikalavimai, negu nustatyti Audiovizualinės žiniasklaidos paslaugų direktyvoje, o kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės jurisdikcijai priklausantis televizijos programų transliuotojas transliuoja televizijos programą, kurios visa ar didžioji dalis skirta Lietuvos Respublikos teritorijai, Komisija kreipiasi į jurisdikciją turinčios Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės atsakingą instituciją, kad būtų pasiektas abi valstybes tenkinantis bet kokios iškeltos problemos sprendimas. Tais atvejais, kai Lietuvos Respublikos jurisdikcijai priklausantis televizijos programų transliuotojas transliuoja televizijos programą, kurios visa ar didžioji dalis skirta kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teritorijai, nesilaikydamas tos valstybės teisės aktuose nustatytų griežtesnių ar išsamesnių televizijos programų transliavimo reikalavimų, negu nustatyti Audiovizualinės žiniasklaidos paslaugų direktyvoje, ir gavusi tos valstybės kompetentingos institucijos pagrįstą prašymą, Komisija kreipiasi į transliuotoją su prašymu laikytis atitinkamos valstybės nustatytų televizijos programų transliavimo reikalavimų. Ne vėliau kaip per du mėnesius nuo prašymo gavimo dienos Komisija informuoja prašymą pateikusios valstybės kompetentingą instituciją apie pasiektus prašyme iškeltos problemos sprendimo rezultatus.
 
 
-2) priemonės yra taikomos užsakomajai visuomenės informavimo audiovizualinėmis priemonėmis paslaugai, kuri prieštarauja šios dalies 1 punkte nurodytiems tikslams arba kelia rimtą ir didelį pavojų, kad šių tikslų nebus paisoma;
 
 
+6. Jeigu Komisija nustato, kad šio straipsnio 5 dalyje nurodytu atveju iškeltai problemai spręsti pasiektų rezultatų nepakanka, o televizijos programų transliuotojas, kurio programos pažeidžia Lietuvos Respublikos teisės aktų reikalavimus, įsisteigė kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės jurisdikcijai priklausančioje valstybėje, siekdamas išvengti griežtesnių nurodytoms sritims keliamų reikalavimų, negu nustatyti Audiovizualinės žiniasklaidos paslaugų direktyvoje, taikomų Lietuvos Respublikoje įsisteigusiems televizijos programų transliuotojams, Komisija turi teisę nustatyti tam televizijos programų transliuotojui galimas taikyti objektyviai būtinas, taikomas nediskriminuojant ir proporcingas tikslams, kurių siekiama, tinkamas priemones ir jų imtis.
 
 
-3) taikomos priemonės yra proporcingos šios dalies 1 punkte nurodytiems tikslams;
 
 
+7. Komisija taiko šio straipsnio 6 dalyje nurodytas priemones tik esant visoms šioms aplinkybėms:
 
 
-4) Komisija, netrukdydama teismo procesui, įskaitant ikiteisminį tyrimą ir baudžiamojo tyrimo metu atliktus veiksmus, kreipėsi į Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės ar kitos valstybės atsakingas institucijas, prašydama imtis priemonių, ir šios institucijos tokių priemonių nesiėmė arba priemonės buvo nepakankamos. 
+1) Komisija yra pranešusi Europos Komisijai ir Europos Sąjungos valstybei narei, kurioje įsisteigęs televizijos programų transliuotojas, apie ketinimą imtis šio straipsnio 6 dalyje nurodytų priemonių, nurodydama priežastis, kuriomis ji grindžia savo vertinimą;
 
 
 
 
+2) Europos Komisija nusprendžia, kad numatytos taikyti priemonės suderintos su Europos Sąjungos teise ir kad vertinimai, kuriuos Komisija atliko pagal šio straipsnio 5 ir 6 dalis imdamasi šių priemonių, yra tinkamai pagrįsti.
 
 
-9. Prieš imdamasi šio straipsnio 8 dalyje nurodytų priemonių ir netrukdydama teismo procesui, įskaitant ikiteisminį tyrimą ir baudžiamojo tyrimo metu atliktus veiksmus, Komisija privalo pranešti Europos Komisijai, Europos Sąjungos valstybei narei ir Europos ekonominės erdvės valstybei, kurios jurisdikcijai priklauso visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas, apie ketinimą imtis tokių priemonių. Šios dalies reikalavimai taikomi tik imantis šio straipsnio 8 dalyje nurodytų priemonių prieš visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėją, kuris priklauso Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės jurisdikcijai.
 
 
 
 
-10. Skubiu atveju Komisija gali nesilaikyti šio straipsnio 9 dalies nuostatų. Tokiu atveju Komisija apie taikomas priemones turi kuo greičiau pranešti Europos Komisijai ir Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės, kurios jurisdikcijai priklauso visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas, atsakingai institucijai, taip pat nurodyti priežastis, kodėl Komisija mano, kad tai yra skubus atvejis. Šios dalies reikalavimai taikomi tik imantis priemonių prieš visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėją, kuris priklauso Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės jurisdikcijai.
- 
+8. Jeigu Europos Komisija nusprendžia, kad priemonės nesuderinamos su Europos Sąjungos teise, Komisija neturi teisės imtis pasiūlytų priemonių.
 
 
 
 
-11. Iš ne Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ir kitų Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių Europos valstybių transliuojamų ar retransliuojamų arba internete platinamų televizijos programų ir (ar) atskirų programų, kai perduodama tik atskira programa, ar katalogų laisvas priėmimas Lietuvos Respublikoje gali būti sustabdytas Komisijos sprendimu, jeigu tokios valstybių televizijos programos ir (ar) atskiros programos, ir (ar) katalogai pažeidžia šio įstatymo 17 arba 19 straipsnių reikalavimus. Komisija savo sprendime nurodo, kokios priemonės ir nuo kada bus taikomos, siekiant sustabdyti minėtų televizijos programų ir (ar) atskirų programų, ir (ar) katalogų priėmimą Lietuvos Respublikos teritorijoje. Numatomos taikyti priemonės ir jų taikymo terminai turi būti proporcingi padarytiems pažeidimams, o taikoma priemonė turi būti parinkta atsižvelgiant į subjektą, kuriam ji taikoma, ir viešosios informacijos skleidimo būdą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+9. Iš ne Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ir kitų Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių Europos valstybių transliuojamų ar retransliuojamų arba internete platinamų televizijos programų ir (ar) atskirų programų, kai perduodama tik atskira programa, ar katalogų laisvas priėmimas Lietuvos Respublikoje gali būti sustabdytas Komisijos sprendimu, jeigu tokios valstybių televizijos programos ir (ar) atskiros programos, ir (ar) katalogai pažeidžia šio įstatymo 17 arba 19 straipsnių reikalavimus. Komisija savo sprendime nurodo, kokios priemonės ir nuo kada bus taikomos, siekiant sustabdyti minėtų televizijos programų ir (ar) atskirų programų, ir (ar) katalogų priėmimą Lietuvos Respublikos teritorijoje. Numatomos taikyti priemonės ir jų taikymo terminai turi būti proporcingi padarytiems pažeidimams, o taikoma priemonė turi būti parinkta atsižvelgiant į subjektą, kuriam ji taikoma, ir viešosios informacijos skleidimo būdą. 
 
 
 
 
-12. Pagal šio straipsnio 11 dalį priimtas Komisijos sprendimas dėl televizijos programų ir (ar) atskirų programų, ir (ar) katalogų priėmimo sustabdymo Lietuvos Respublikos teritorijoje gali būti priimamas tik gavus Vilniaus apygardos administracinio teismo sankciją.
+10. Pagal šio straipsnio  9 dalį priimtas Komisijos sprendimas dėl televizijos programų ir (ar) atskirų programų, ir (ar) katalogų priėmimo sustabdymo Lietuvos Respublikos teritorijoje ilgiau kaip 72 valandoms gali būti priimamas tik gavus Vilniaus apygardos administracinio teismo sankciją.
 
 
+
+
+11. Komisija Europos Tarybos konvencijos dėl televizijos be sienų objektu esančius pažeidimus sprendžia šioje konvencijoje nustatyta tvarka. Kai įtariamas pažeidimas nėra reguliuojamas Europos Tarybos konvencijos dėl televizijos be sienų, laisvas visuomenės informavimo audiovizualinėmis priemonėmis paslaugų priėmimas iš Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių valstybių stabdomas šio straipsnio 9 ir 10 dalyse nustatyta tvarka ir sąlygomis.
 Įstatymas papildytas straipsniu:
 Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
+Straipsnio pakeitimai:
 Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2088, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07397
  
 
 
@@ -4671,6 +4670,14 @@ Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
  
 
 
+
+
+7. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1808, kuria, atsižvelgiant į kintančias rinkos realijas, iš dalies keičiama Direktyva 2010/13/ES dėl valstybių narių įstatymuose ir kituose teisės aktuose išdėstytų tam tikrų nuostatų, susijusių su audiovizualinės žiniasklaidos paslaugų teikimu, derinimo (Audiovizualinės žiniasklaidos paslaugų direktyva) (OL 2018 L 303, p. 69).
+Papildyta punktu:
+Nr. XIII-2088, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07397
+ 
+
+
 Priedo pakeitimai:
 Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
@@ -4975,3 +4982,13 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19, 48 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2013, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05346
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 39 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1355, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11457
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 34 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2088, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07397
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 34-1 straipsnio ir priedo pakeitimo įstatymas
