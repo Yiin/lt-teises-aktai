@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.70F4FFCAE536"
 
 # Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymas
 
-Suvestinė redakcija nuo 2017-12-30 iki 2019-05-13
+Suvestinė redakcija nuo 2019-05-14 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 50-1432, i. k. 1001010ISTAIII-1708
  
@@ -128,7 +128,10 @@ Vaiko teisių apsaugos kontrolieriumi gali būti skiriamas nepriekaištingos rep
 6 straipsnis. Vaiko teisių apsaugos kontrolieriaus skyrimas
 
 
-1. Seimo Pirmininko teikimu Seimas skiria vaiko teisių apsaugos kontrolierių penkerių metų kadencijai.
+1. Seimo Pirmininko teikimu Seimas skiria vaiko teisių apsaugos kontrolierių penkerių metų kadencijai. Tas pats asmuo vaiko teisių apsaugos kontrolieriumi gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2106, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07643
+ 
 
 
 
@@ -934,9 +937,9 @@ VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS VEIKLOS IR KITOS GARANTIJOS
 
 
  
- 
- 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+ 
+ 
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
 
@@ -990,3 +993,8 @@ Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-17
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-965, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21719
 Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-1708 10 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2106, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07643
+Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-1708 6 straipsnio pakeitimo įstatymas
