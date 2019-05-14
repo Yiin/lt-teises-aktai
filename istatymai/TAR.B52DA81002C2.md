@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b52da81002c211e9a5eaf2cd290f1944"
 
 # Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 1, 16 ir 17 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
 
+Suvestinė redakcija nuo 2019-05-14
+ 
+Įstatymas paskelbtas: TAR 2018-12-18, i. k. 2018-20741
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 LYGIŲ GALIMYBIŲ ĮSTATYMO NR. IX-1826 1, 16 IR 17 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 151 STRAIPSNIU
 ĮSTATYMAS
@@ -42,17 +49,19 @@ Vilnius
 
 
 
-2. Pakeisti 1 straipsnio 4 dalį ir ją išdėstyti taip:
+2. Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
 
-„4. Šiuo įstatymu siekiama užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, taikymą, taip pat Jungtinių Tautų neįgaliųjų teisių konvencijos įgyvendinimo stebėseną ir kontrolę.“
+„3. Šiuo įstatymu siekiama užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, taikymą, taip pat Jungtinių Tautų neįgaliųjų teisių konvencijos įgyvendinimo stebėseną ir kontrolę.“
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2105, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07642
  
-
-
-
-
 
 
 
@@ -234,3 +243,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2105, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07642
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 1, 16 ir 17 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymo Nr. XIII-1760 1 straipsnio pakeitimo įstatymas
