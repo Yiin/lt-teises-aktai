@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2019-07-26
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -56,7 +56,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3) leidimą gyventi Lietuvos Respublikoje turintiems užsieniečiams, kurie pagal Lietuvos Respublikos teisės aktus atleidžiami nuo pareigos įsigyti leidimą dirbti Lietuvos Respublikoje; 
+3) leidimą gyventi Lietuvos Respublikoje turintiems užsieniečiams, kurie pagal Lietuvos Respublikos teisės aktus atleidžiami nuo pareigos įsigyti leidimą dirbti Lietuvos Respublikoje, asmenims, kuriems suteiktas perkeliamojo asmens statusas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2082, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07321
+ 
 
 
 
@@ -3454,3 +3457,8 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 35, 37, 38, 39, 39-1, 40, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1729, 2018-12-11, paskelbta TAR 2018-12-19, i. k. 2018-20874
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 35, 37, 38, 39, 39-1, 40, 41, 44, 50, 54 straipsnių pakeitimo ir 51, 52, 53 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-1342 3 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2082, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07321
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 1 straipsnio pakeitimo įstatymas
