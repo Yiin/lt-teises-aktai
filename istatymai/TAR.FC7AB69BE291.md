@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2019-09-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
  
@@ -630,7 +630,10 @@ Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
 
 
 
-2) vadovaudamasi šiuo įstatymu ir kitais teisės aktais, tvirtina Nacionalinę atsinaujinančių energijos išteklių plėtros programą;
+2) neteko galios nuo 2019-06-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+ 
 
 
 
@@ -993,7 +996,10 @@ Susisiekimo ministerija:
 
 
 
-2) nustato biodegalais laikytinų produktų sąrašą;
+2) neteko galios nuo 2019-06-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+ 
 
 
 
@@ -1050,7 +1056,10 @@ Susisiekimo ministerija:
 
 
 
-3) rengia programas žemės ūkio produkcijos, naudojamos energijai gaminti, gamintojams remti ir teikia jas tvirtinti Vyriausybei;
+3) neteko galios nuo 2019-06-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+ 
 
 
 
@@ -2296,13 +2305,45 @@ KETVIRTASIS SKIRSNIS
 
 
 
-26 straipsnis. Šilumos siurblių naudojimo skatinimas
+26 straipsnis. Šilumos siurblių naudojimo skatinimas
 
 
-Investicijos į šilumos siurblius, atitinkančius šio įstatymo 47 straipsnio 3 dalyje nustatytus reikalavimus, ir investicijos, būtinos šiems siurbliams įrengti, skatinamos šio įstatymo aštuntajame skirsnyje nustatyta tvarka. Pasinaudojus šia paramos forma, netenkama galimybės naudotis skatinimo priemone, nurodyta šio įstatymo 11 straipsnio 3 punkte.
+1. Investicijos į šilumos siurblius, atitinkančius šio įstatymo 47 straipsnio 3 dalyje nustatytus reikalavimus, ir investicijos, būtinos šiems siurbliams įrengti, skatinamos iš šių paramos šaltinių:
+
+
+1) valstybės biudžeto asignavimų;
+
+
+
+
+2) Klimato kaitos programos lėšų, kaip numatyta Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatyme;
+
+
+
+
+3) Europos Sąjungos paramos lėšų;
+
+
+
+
+4) savanoriškų užsienio valstybių lėšų, skirtų atsinaujinančių energijos išteklių naudojimui skatinti;
+
+
+
+
+5) pajamų, gautų vykdant susitarimus dėl statistinių energijos perdavimų tarp Lietuvos Respublikos ir kitų valstybių narių ar bendrus projektus tarp Lietuvos Respublikos, kitų valstybių narių ir užsienio valstybių.
+
+
+
+
+
+
+2. Pasinaudojus šiais paramos šaltiniais, netenkama galimybės naudotis skatinimo priemone, nurodyta šio įstatymo 11 straipsnio 3 punkte. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
  
-
-
 
 
 
@@ -2333,7 +2374,10 @@ ATSINAUJINANČIŲ IŠTEKLIŲ ENERGIJOS KILMĖS GARANTIJOS
 28 straipsnis. Energijos, pagamintos iš atsinaujinančių energijos išteklių, kilmės garantijos paskirtis
 
 
-1. Siekiant įrodyti galutiniams vartotojams, kokią energijos tiekėjo tiekiamos energijos dalį ar kokį kiekį sudaro atsinaujinančių išteklių energija, elektros energijos, pagamintos iš atsinaujinančių energijos išteklių ir tiekiamos į elektros tinklus, ir šilumos energijos, pagamintos iš atsinaujinančių energijos išteklių ir tiekiamos į aprūpinimo šiluma sistemą, vienetui išduodama kilmės garantija.
+1. Siekiant įrodyti galutiniams vartotojams, kokią energijos tiekėjo tiekiamos energijos dalį ar kokį kiekį sudaro atsinaujinančių išteklių energija, elektros energijos, pagamintos iš atsinaujinančių energijos išteklių ir tiekiamos į elektros tinklus, ir šilumos energijos, pagamintos iš atsinaujinančių energijos išteklių ir tiekiamos į aprūpinimo šiluma sistemą, ir dujų, pagamintų iš atsinaujinančių energijos išteklių ir tiekiamų į gamtinių dujų sistemą, vienetui išduodama kilmės garantija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+ 
 
 
 
@@ -2359,7 +2403,10 @@ ATSINAUJINANČIŲ IŠTEKLIŲ ENERGIJOS KILMĖS GARANTIJOS
 
 
 
-3. Kilmės garantijos išduodamos elektros energijos, šilumos ar vėsumos energijos, pagamintos iš atsinaujinančių energijos išteklių, gamintojų prašymu, kuris Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka teikiamas šio straipsnio 2 dalyje nurodytai įstaigai.
+3. Kilmės garantijos išduodamos elektros energijos, šilumos ar vėsumos energijos, pagamintos iš atsinaujinančių energijos išteklių, ar dujų, pagamintų iš atsinaujinančių energijos išteklių, gamintojų prašymu, kuris Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka teikiamas šio straipsnio 2 dalyje nurodytai įstaigai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+ 
 
 
 
@@ -2382,7 +2429,10 @@ ATSINAUJINANČIŲ IŠTEKLIŲ ENERGIJOS KILMĖS GARANTIJOS
 7. Kilmės garantijoje, be kita ko, nurodoma:
 
 
-1) energijos rūšis: elektros energija, šilumos energija ar vėsumos energija;
+1) energijos rūšis: elektros energija, šilumos energija, vėsumos energija ar dujos, pagamintos iš atsinaujinančių energijos išteklių; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+ 
 
 
 
@@ -2424,7 +2474,10 @@ ATSINAUJINANČIŲ IŠTEKLIŲ ENERGIJOS KILMĖS GARANTIJOS
 
 
 
-10. Kilmės garantijų perdavimas kartu ar atskirai su fiziniu elektros energijos perdavimu nedaro jokio poveikio sprendimui naudoti statistinius energijos perdavimus, bendrus projektus ar bendras paramos schemas, nurodytas šio įstatymo dvyliktajame skirsnyje, laikantis tarpinių nacionalinių planinių rodiklių arba apskaičiuojant bendrąjį galutinį atsinaujinančių išteklių energijos suvartojimą.
+10. Kilmės garantijų perdavimas kartu ar atskirai su fiziniu elektros energijos ar dujų perdavimu nedaro jokio poveikio sprendimui naudoti statistinius energijos perdavimus, bendrus projektus ar bendras paramos schemas, nurodytas šio įstatymo dvyliktajame skirsnyje, laikantis tarpinių nacionalinių planinių rodiklių arba apskaičiuojant bendrąjį galutinį atsinaujinančių išteklių energijos suvartojimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+ 
 
 
 
@@ -2593,7 +2646,10 @@ ATSINAUJINANČIŲ IŠTEKLIŲ ENERGIJOS GAMYBOS IR NAUDOJIMO TRANSPORTO SEKTORIUJ
 
 
 
-2. Atsinaujinančių išteklių energijos gamyba ir vartojimas transporto sektoriuje yra finansuojamas šio įstatymo 42 straipsnyje nustatytomis sąlygomis.
+2. Neteko galios nuo 2019-06-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+ 
 
 
 
@@ -2654,7 +2710,15 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-3) teikiant finansinę paramą už biodegalų ir skystųjų bioproduktų naudojimą.
+3) teikiant finansinę paramą už biodegalų ir skystųjų bioproduktų naudojimą;
+
+
+
+
+4) įmaišant juos į degalus, pagamintus iš mineralinių degalų, kaip nurodyta šio įstatymo 39 straipsnyje. 
+Papildyta straipsnio punktu:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+ 
 
 
 
@@ -2696,7 +2760,10 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-6. Jeigu asmuo pateikia įrodymų ar duomenų, gautų pagal Europos Sąjungos sudarytą dvišalį ar daugiašalį susitarimą su užsienio valstybėmis, kuriame susitariama dėl tvarumo kriterijų, ir Europos Komisija priima sprendimą, kad tokiu susitarimu įrodoma iš atitinkamose šalyse išaugintų (gautų) žaliavų pagamintų biodegalų ir skystųjų bioproduktų atitiktis tvarumo kriterijams, kiek toks Europos Komisijos sprendimas yra taikomas, Vyriausybės įgaliota institucija nereikalauja, kad asmuo pateiktų papildomų įrodymų, kad šio įstatymo 38 straipsnio 2, 3, 4, 6 ir 7 dalyse nustatyti tvarumo kriterijai yra įvykdyti, arba pateiktų informaciją apie priemones, nurodytas šio straipsnio 4 dalyje.
+6. Jeigu asmuo pateikia įrodymų ar duomenų, gautų pagal Europos Sąjungos su užsienio valstybėmis sudarytą dvišalį ar daugiašalį susitarimą, kuriame susitariama dėl tvarumo kriterijų, ir Europos Komisija priima sprendimą, kad tokiu susitarimu įrodoma iš atitinkamose šalyse išaugintų (gautų) žaliavų pagamintų biodegalų ir skystųjų bioproduktų atitiktis tvarumo kriterijams, arba pagal Europos Komisijos sprendimu pripažintą savanorišką schemą, kiek toks Europos Komisijos sprendimas yra taikomas, Vyriausybės įgaliota institucija nereikalauja, kad asmuo pateiktų papildomų įrodymų, kad šio įstatymo 38 straipsnio 2, 3, 4, 6 ir 7 dalyse nustatyti tvarumo kriterijai yra įvykdyti, arba pateiktų informaciją apie priemones, nurodytas šio straipsnio 4 dalyje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+ 
 
 
 
@@ -2821,7 +2888,18 @@ Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
 39 straipsnis. Biodegalų maišymas į degalus, pagamintus iš mineralinių degalų
 
 
-1. Degalų pardavimo vietose turi būti prekiaujama Lietuvos arba Europos standartų reikalavimus atitinkančiu benzinu, kuriame yra nuo 5 iki 10 procentų biodegalų, ir dyzelinu, kuriame yra ne mažiau kaip 7 procentai biodegalų.
+1. Degalų pardavimo vietose turi būti prekiaujama Lietuvos arba Europos standartų reikalavimus atitinkančiu benzinu, kuriame yra 10 procentų biodegalų, ir dyzelinu, kuriame yra ne mažiau kaip 7 procentai biodegalų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+ 
+
+
+
+
+11. Biodegalai ir skystieji bioproduktai, įmaišant juos į degalus, pagamintus iš mineralinių degalų, turi atitikti šio įstatymo 38 straipsnyje nustatytus tvarumo kriterijus. Vyriausybės įgaliota institucija prižiūri ir tikrina, kad atitinkamą veiklą vykdantys asmenys laikytųsi šioje dalyje nurodytų reikalavimų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+ 
 
 
 
@@ -2841,7 +2919,10 @@ Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
 
 
 
-5. Degalų pardavimo vietose turi būti nurodomos biodegalų, įmaišytų į mineralinius naftos produktus, procentinės dalys, kai jos viršija 10 procentų šių produktų tūrio vertės benzine ir 7 procentus šių produktų tūrio vertės dyzeline.
+5. Neteko galios nuo 2019-06-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+ 
 
 
 Straipsnio pakeitimai:
@@ -2853,236 +2934,10 @@ Nr. XII-1327, 2014-11-13, paskelbta TAR 2014-11-18, i. k. 2014-17046
 
 
 
-AŠTUNTASIS SKIRSNIS
-NACIONALINĖ ATSINAUJINANČIŲ ENERGIJOS IŠTEKLIŲ PLĖTROS PROGRAMA IR JOS FINANSAVIMO ŠALTINIAI 
+8 skirsnis. Neteko galios nuo 2019-06-01
+Skirsnio naikinimas:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
  
-Pakeistas skirsnio pavadinimas:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-40 straipsnis. Nacionalinė atsinaujinančių energijos išteklių plėtros programa
-
-
-1. Nacionalinė atsinaujinančių energijos išteklių plėtros programa nustato valstybės energetikos politikos kryptis atsinaujinančių išteklių energetikos sektoriuje.
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-2. Nacionalinės atsinaujinančių energijos išteklių plėtros programos tikslas – nustatyti suvartotos atsinaujinančių išteklių energijos nacionalinius planinius rodiklius elektros energetikos, šilumos energetikos ir transporto sektoriuose ir atitinkamas priemones šiems rodikliams pasiekti. Nacionaliniai planiniai rodikliai nustatomi 2011–2012 m., 2013–2014 m., 2015–2016 m., 2017–2018 m. ir 2019–2020 m.
-
-
-
-
-3. Nacionalinę atsinaujinančių energijos išteklių plėtros programą tvirtina Vyriausybė. 
-
-
-
-
-4. Neteko galios nuo 2017-11-01.
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-5. Nacionalinę atsinaujinančių energijos išteklių plėtros programą pagal kompetenciją įgyvendina valstybės ir (ar) savivaldybės institucijos, įstaigos ir (ar) kiti nurodyti asmenys.
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-6. Nacionalinės atsinaujinančių energijos išteklių plėtros programos vykdymą koordinuoja ir jos įgyvendinimo stebėseną atlieka Vyriausybės įgaliota institucija.
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-7. Nacionalinės atsinaujinančių energijos išteklių plėtros programos įgyvendinimas yra finansuojamas iš šio įstatymo 41 straipsnyje nustatytų finansavimo šaltinių.
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-Straipsnio pakeitimai:
-Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
- 
-
-
-
-
-41 straipsnis. Nacionalinės atsinaujinančių energijos išteklių plėtros programos finansavimo šaltiniai
-
-
-Nacionalinės atsinaujinančių energijos išteklių plėtros programos finansavimo šaltiniai:
-
-
-1) valstybės biudžeto asignavimai;
-
-
-
-
-2) klimato kaitos specialiosios programos lėšos, kaip numatyta Klimato kaitos valdymo finansinių instrumentų įstatyme;
-
-
-
-
-3) Europos Sąjungos paramos lėšos;
-
-
-
-
-4) savanoriškos fizinių ir juridinių asmenų bei užsienio valstybių lėšos, skirtos atsinaujinančių energijos išteklių naudojimo plėtrai;
-
-
-
-
-5) pajamos, gautos vykdant susitarimus dėl statistinių energijos perdavimų tarp Lietuvos Respublikos ir kitų valstybių narių ar bendrus projektus tarp Lietuvos Respublikos, kitų valstybių narių ir užsienio valstybių; 
-Papildyta straipsnio punktu:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-6) kitos lėšos, gautos Lietuvos Respublikos teisės aktų nustatyta tvarka.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
- 
-
-
-
-
-42 straipsnis. Nacionalinės atsinaujinančių energijos išteklių plėtros programos įgyvendinimas
-
-
-1. Nacionalinei atsinaujinančių energijos išteklių plėtros programai įgyvendinti skirtos finansavimo lėšos naudojamos Vyriausybės nustatyta tvarka.
-
-
-
-
-2. Nacionalinėje atsinaujinančių energijos išteklių plėtros programoje gali būti numatytos šios įgyvendinimo priemonės:
-
-
-1) biokuro naudojimo elektros energijai gaminti termofikaciniu režimu kombinuotojo elektros energijos ir šilumos gamybos ciklo elektrinėse, kai šios elektrinės tiekia šilumą į centralizuoto aprūpinimo šiluma sistemas ir sutaupomas toks pirminės energijos kiekis, kad bendrą elektros energijos ir šilumos gamybą galima laikyti efektyvia, projektai;
-
-
-
-
-2) kietojo biokuro naudojimo elektros, šilumos ir (ar) vėsumos energijos, tiekiamos į aprūpinimo šiluma (vėsuma) sistemas, taip pat vartojamos pramonės įmonėse, žemės ūkio ir komerciniuose objektuose, gamybos projektai;
-
-
-
-
-3) biodujų naudojimo elektros, šilumos ir (ar) vėsumos energijos, tiekiamos į aprūpinimo šiluma (vėsuma) sistemas, taip pat vartojamos pramonės įmonėse, žemės ūkio ir komerciniuose objektuose, gamybos projektai;
-
-
-
-
-4) kitų atsinaujinančių energijos išteklių naudojimo šilumos ir (ar) vėsumos energijos, tiekiamos į aprūpinimo šiluma (vėsuma) sistemas, taip pat vartojamos pramonės įmonėse, žemės ūkio ir komerciniuose objektuose, gamybos projektai;
-
-
-
-
-5) biodujų gamybos, gavybos, gryninimo, valymo ir paruošimo tolesniam tiesioginiam panaudojimui, tiekiant biodujas į gamtinių dujų tinklus ir (ar) transportavimui iki galutinės suvartojimo vietos, projektai;
-
-
-
-
-6) elektromobilių, vandenilį naudojančių ir hibridinių transporto priemonių įsigijimo ir transporto priemonių pritaikymo atsinaujinančių išteklių energijai naudoti rėmimas;
-
-
-
-
-7) geoterminės energijos naudojimo energijai gaminti projektai;
-
-
-
-
-8) technologijų, naudojančių atsinaujinančius energijos išteklius, kūrimas ir gamyba;
-
-
-
-
-9) biokuro gamybos rėmimas;
-
-
-
-
-10) mokslo tiriamieji darbai, susiję su moksliniais tyrimais atsinaujinančių energijos išteklių srityje, tokių išteklių naudojimo bandomieji projektai;
-
-
-
-
-11) įrangos, didinančios atsinaujinančių energijos išteklių panaudojimą savo poreikiams gyvenamajame ir visuomeniniame sektoriuose, įsigijimo rėmimas, kompensuojant fiksuotą lėšų, tenkančių vienam įrengtosios galios vienetui pagal savivaldybės patvirtintą tvarkos aprašą, sumą;
-
-
-
-
-12) atsinaujinančių išteklių energijos naudojimo transporto sektoriuje infrastruktūros plėtra;
-
-
-
-
-13) atsinaujinančių išteklių energijos, naudojamos transporto sektoriuje, gamybos infrastruktūros plėtra;
-
-
-
-
-14) elektromobilių baterijų įkrovimo ir vandenilį naudojančių automobilių užpildymo punktų tinklo bei kitos reikiamos infrastruktūros sukūrimo ir plėtros projektai;
-
-
-
-
-15) demonstracinių (parodomųjų) projektų, susijusių su hibridinių transporto priemonių, vandenilį naudojančių transporto priemonių ar elektromobilių platesniu panaudojimu ir (ar) šių transporto priemonių eksploatavimui reikiamos infrastruktūros įdiegimu, įgyvendinimas;
-
-
-
-
-16) visuomenės informavimas ir švietimas, konsultavimas ir mokymas atsinaujinančių energijos išteklių panaudojimo technologijų diegimo klausimais.
-
-
-
-
-
-
-3. Iš Nacionalinei atsinaujinančių energijos išteklių plėtros programai įgyvendinti skirtų lėšų negali būti finansuojamos asmenų, kurie šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka įgijo ir turi teisę į šio įstatymo 3 straipsnio 2 dalies 1–6 punktuose numatytas skatinimo priemones, elektrinių statybos ir įrengimo projektų parengimo ir įgyvendinimo išlaidos.
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
-
-
-Straipsnio pakeitimai:
-Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
- 
-
-
-
-
-43 straipsnis. Informacijos teikimas
-
-
-Nacionalinės atsinaujinančių energijos išteklių plėtros finansavimo programos ir savivaldybių atsinaujinančių energijos išteklių plėtros finansavimo programų projektus įgyvendinantys asmenys, taip pat valstybinio reglamentavimo ir priežiūros funkcijas pagal kompetenciją atliekančios valstybės institucijos ir įstaigos Vyriausybės nustatyta tvarka teikia programų įgyvendinimo priežiūrą vykdančioms ir programų lėšų naudojimą administruojančioms institucijoms visą reikiamą informaciją apie vykdomą veiklą.
- 
-
-
-
-
 
 
 
@@ -3536,7 +3391,10 @@ Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
 
 
 
-4) priemonės, susijusios su administracinių procedūrų supaprastinimu, reglamentų ir kitų teisės aktų nuostatomis, susijusiomis su atsinaujinančių energijos išteklių naudojimo skatinimu, informavimu ir mokymu atsinaujinančių energijos išteklių srityje, iš atsinaujinančių energijos išteklių pagamintos elektros energijos, šilumos ir vėsumos energijos kilmės garantijomis, prieigos prie energetikos tinklų ar sistemų ir jų eksploatavimo palengvinimu gamintojams, biodegalų ir skystųjų bioproduktų tvarumo kriterijų sistemos įgyvendinimu;
+4) priemonės, susijusios su administracinių procedūrų supaprastinimu, reglamentų ir kitų teisės aktų nuostatomis, susijusiomis su atsinaujinančių energijos išteklių naudojimo skatinimu, informavimu ir mokymu atsinaujinančių energijos išteklių srityje, iš atsinaujinančių energijos išteklių pagamintų dujų, elektros energijos, šilumos ir vėsumos energijos kilmės garantijomis, prieigos prie energetikos tinklų ar sistemų ir jų eksploatavimo palengvinimu gamintojams, biodegalų ir skystųjų bioproduktų tvarumo kriterijų sistemos įgyvendinimu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+ 
 
 
 
@@ -3671,7 +3529,10 @@ Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
 
 
 
-8. Savivaldybių atsinaujinančių išteklių energijos naudojimo plėtros veiksmų planų įgyvendinimas finansuojamas iš savivaldybių biudžetuose patvirtintų bendrųjų asignavimų, Nacionalinei atsinaujinančių energijos išteklių plėtros programai įgyvendinti skirtų lėšų ir kitų finansavimo šaltinių bei lėšų.
+8. Savivaldybių atsinaujinančių išteklių energijos naudojimo plėtros veiksmų planų įgyvendinimas finansuojamas iš savivaldybių biudžetuose patvirtintų bendrųjų asignavimų ir kitų finansavimo šaltinių bei lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+ 
 
 
 
@@ -4363,3 +4224,8 @@ Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 3, 5, 11, 13, 14, 17, 20, 20-1, 21 straipsnių pakeitimo, Įstatymo papildymo 63-1 straipsniu ir 15 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 5, 8, 10, 26, 28, 29, 36, 37, 39, 54, 57 straipsnių pakeitimo ir aštuntojo skirsnio pripažinimo netekusiu galios įstatymas
