@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2019-07-03
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -251,12 +251,18 @@ Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 
 
 
-12. Geležinkelių paslaugų įrenginio operatorius – fizinis ar juridinis asmuo, kita organizacija, juridinio asmens, kitos organizacijos filialas, kurie yra atsakingi už vieno ar daugiau geležinkelių paslaugų įrenginių valdymą arba vienos ar daugiau paslaugų, teikiamų šio Kodekso 301 straipsnyje nurodytuose geležinkelių paslaugų įrenginiuose, teikimą geležinkelio įmonėms (vežėjams) ir šio Kodekso 28 straipsnio 3 dalyje nurodytoms įmonėms.
+12. Geležinkelių paslaugų įrenginio operatorius – fizinis ar juridinis asmuo, kita organizacija, juridinio asmens, kitos organizacijos padalinys, kurie yra atsakingi už vieno ar daugiau geležinkelių paslaugų įrenginių valdymą arba vienos ar daugiau su geležinkelių transportu susijusių pagrindinių, papildomų ir (ar) pagalbinių paslaugų, teikiamų šio Kodekso 301 straipsnyje nurodytuose geležinkelių paslaugų įrenginiuose, teikimą geležinkelio įmonėms (vežėjams) ir šio Kodekso 28 straipsnio 3 dalyje nurodytoms įmonėms. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
 
-13. Geležinkelių paslaugų įrenginys – įrenginys, įskaitant žemės sklypą, įrangą ir statinį, kuris buvo specialiai paruoštas, kad būtų galima teikti vieną ar daugiau paslaugų, teikiamų šio Kodekso 301 straipsnyje nurodytuose įrenginiuose.
+13. Geležinkelių paslaugų įrenginys – įrenginys, įskaitant žemės sklypą, įrangą ir statinį, kuris visas arba iš dalies buvo specialiai paruoštas, kad būtų galima teikti vieną ar daugiau su geležinkelių transportu susijusių pagrindinių, papildomų ir (ar) pagalbinių paslaugų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -402,6 +408,14 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 
 
 
+381. Suinteresuotieji asmenys – pareiškėjai, šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės, taip pat keleivių, bagažo ir (ar) krovinių vežimo geležinkelių transportu tarptautiniais ir (ar) vietiniais maršrutais paslaugas ketinantys teikti asmenys, kurie pageidauja pareikšti savo nuomonę apie tai, kokią įtaką tarnybinis traukinių tvarkaraštis gali turėti jų galimybei teikti šias paslaugas per šio tvarkaraščio galiojimo laikotarpį. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
+
+
+
+
 39. Tarnybinis traukinių tvarkaraštis – traukinių ir geležinkelių riedmenų eismo geležinkelių tinkle per laikotarpį, kurį tas tvarkaraštis galioja, planas.
 
 
@@ -478,7 +492,10 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-52. Kitos šiame Kodekse vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse (toliau – Civilinis kodeksas), Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos geležinkelių transporto eismo saugos įstatyme, Lietuvos Respublikos konkurencijos įstatyme, 2010 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 913/2010 dėl konkurencingo krovinių vežimo Europos geležinkeliais tinklo (toliau – Reglamentas (ES) Nr. 913/2010), 2015 m. liepos 7 d. Komisijos įgyvendinimo reglamente (ES) 2015/1100 dėl valstybių narių pareigų teikti geležinkelių rinkos stebėjimo ataskaitas (toliau – Reglamentas (ES) Nr. 2015/1100).
+52. Kitos šiame Kodekse vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos geležinkelių transporto eismo saugos įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Reglamente (ES) Nr. 913/2010, Reglamente (ES) 2015/1100, Reglamente (ES) 2017/2177. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 Straipsnio pakeitimai:
@@ -560,9 +577,11 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 
 
 
-5. Specialieji geležinkelių paslaugų įrenginių valdymo apskaitos reikalavimai nustatyti šio Kodekso 302 straipsnio 5 dalyje.
+5. Specialieji geležinkelių paslaugų įrenginių valdymo apskaitos reikalavimai nustatyti šio Kodekso 302 straipsnio 6 dalyje. 
 Papildyta straipsnio dalimi:
 Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
  
 
 
@@ -704,7 +723,10 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 1. Rinkos reguliuotojo funkcijos yra šios:
 
 
-1) savo iniciatyva ar pagal pareiškėjų skundus nagrinėti viešosios geležinkelių infrastruktūros valdytojo, geležinkelių paslaugų įrenginių operatorių, geležinkelio įmonių (vežėjų), institucijų, įstaigų ar organizacijų veiksmus ir (ar) neveikimą, įskaitant pagal kompetenciją priimtus sprendimus dėl teisės naudotis viešąja geležinkelių infrastruktūra, geležinkelių paslaugų įrenginiais ir juose teikiamomis paslaugomis sąlygų geležinkelio įmonėms (vežėjams) apribojimo, Tinklo nuostatų, kuriuos privalo parengti ir paskelbti viešosios geležinkelių infrastruktūros valdytojas, turinio, viešosios geležinkelių infrastruktūros pajėgumų skyrimo, geležinkelio įmonės (vežėjo) mokėtino užmokesčio už minimalųjį prieigos paketą dydžio, taip pat užmokesčių už naudojimąsi geležinkelių paslaugų įrenginiais ir šiuose įrenginiuose teikiamomis paslaugomis ir užmokesčių už pagalbines ir papildomas paslaugas dydžių; rinkos reguliuotojas pareiškėjų skundus nagrinėja ir sprendimus dėl jų priima vadovaudamasis Vyriausybės nustatyta tvarka;
+1) savo iniciatyva ar pagal pareiškėjų skundus privaloma išankstine ne teismo tvarka nagrinėti viešosios geležinkelių infrastruktūros valdytojo, geležinkelių paslaugų įrenginių operatorių, geležinkelio įmonių (vežėjų), institucijų, įstaigų ar organizacijų veiksmus ir (ar) neveikimą, įskaitant pagal kompetenciją priimtus sprendimus dėl teisės naudotis viešąja geležinkelių infrastruktūra, geležinkelių paslaugų įrenginiais ir juose teikiamomis su geležinkelių transportu susijusiomis pagrindinėmis, papildomomis ir (ar) pagalbinėmis paslaugomis sąlygų geležinkelio įmonėms (vežėjams) apribojimo, Tinklo nuostatų turinio, viešosios geležinkelių infrastruktūros pajėgumų skyrimo, geležinkelio įmonės (vežėjo) mokėtino užmokesčio už minimalųjį prieigos paketą sudedamųjų dalių ar dydžio, taip pat užmokesčių už naudojimąsi geležinkelių paslaugų įrenginiais ir šiuose įrenginiuose teikiamomis su geležinkelių transportu susijusiomis paslaugomis ir užmokesčių už su geležinkelių transportu susijusias pagalbines ir papildomas paslaugas dydžių; rinkos reguliuotojas pareiškėjų skundus nagrinėja ir sprendimus dėl jų priima Vyriausybės nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -747,7 +769,10 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 
 
 
-2. Rinkos reguliuotojas, nagrinėdamas pareiškėjų skundus, ne vėliau kaip per 42 dienas nuo dienos, kurią buvo gauta visa atitinkamam skundui nagrinėti reikalinga medžiaga, privalo priimti sprendimą ir apie priimtą sprendimą informuoti pareiškėją ir, jeigu skundas pripažįstamas pagrįstu, imtis veiksmų padėčiai ištaisyti, taip pat reikalauti pakeisti ar panaikinti skundžiamą sprendimą ar jo dalį ir skirti šio straipsnio 3 dalyje nustatytas sankcijas rinkos reguliuotojo sprendimų nevykdantiems ūkio subjektams. Jeigu pateikiamas skundas dėl atsisakymo skirti viešosios geležinkelių infrastruktūros pajėgumus arba dėl sąlygų, kuriomis buvo pasiūlyta skirti viešosios geležinkelių infrastruktūros pajėgumus, rinkos reguliuotojas turi patvirtinti, kad toks skundžiamas sprendimas turi likti nepakeistas, arba pareikalauti, kad jis būtų pakeistas pagal jo nurodymus. 
+2. Rinkos reguliuotojas, nagrinėdamas pareiškėjų skundus, ne vėliau kaip per 42 dienas nuo dienos, kurią buvo gauta visa atitinkamam skundui nagrinėti reikalinga medžiaga, privalo priimti sprendimą bei apie priimtą sprendimą informuoti pareiškėją ir, jeigu skundas pripažįstamas pagrįstu, imtis veiksmų padėčiai ištaisyti, taip pat reikalauti pakeisti ar panaikinti skundžiamą sprendimą ar jo dalį. Už rinkos reguliuotojų sprendimų nevykdymą ar netinkamą vykdymą rinkos reguliuotojas taip pat turi teisę skirti šio straipsnio 3 dalyje nustatytas sankcijas. Jeigu pateikiamas skundas dėl atsisakymo skirti viešosios geležinkelių infrastruktūros pajėgumus arba dėl sąlygų, kuriomis buvo pasiūlyta skirti viešosios geležinkelių infrastruktūros pajėgumus, rinkos reguliuotojas turi patvirtinti, kad toks skundžiamas sprendimas turi likti nepakeistas, arba pareikalauti, kad jis būtų pakeistas pagal jo nurodymus. Rinkos reguliuotojui šio straipsnio 1 dalies 1 punkte nustatyta tvarka savo iniciatyva nagrinėjant viešosios geležinkelių infrastruktūros valdytojo, geležinkelių paslaugų įrenginių operatorių, geležinkelio įmonių (vežėjų), institucijų, įstaigų ar organizacijų veiksmus ir (ar) neveikimą, šios dalies nuostatos taikomos mutatis mutandis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -998,12 +1023,18 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 2. Geležinkelio įmonės (vežėjo) licencija Lietuvos Respublikoje registruotai įmonei išduodama, jeigu įmonė:
 
 
-1) atitinka geros reputacijos reikalavimus – įmonė, įmonės dalyviai, nuosavybės teise tiesiogiai arba netiesiogiai valdantys mažiausiai 34 procentus įmonės akcijų (pajų, įnašų ar panašiai), įmonės valdymo organų nariai, vadovai ir jų įgalioti asmenys, kuriems pavesta vadovauti keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugų teikimui naudojantis geležinkelių linijomis, neturi neišnykusio arba nepanaikinto teistumo už sunkius ar labai sunkius tyčinius nusikaltimus, taip pat už tyčinius nusikaltimus ekonomikai, verslo tvarkai, finansų sistemai, pakartotinius nusikaltimus asmens socialinėms teisėms, nusikaltimus, susijusius su muitinės procedūrų pažeidimais;
+1) atitinka geros reputacijos reikalavimus – įmonė, įmonės dalyviai, nuosavybės teise tiesiogiai arba netiesiogiai valdantys mažiausiai 34 procentus įmonės akcijų (pajų, įnašų ar panašiai), įmonės valdymo organų nariai, vadovai ir jų įgalioti asmenys, kuriems pavesta vadovauti keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugų teikimui naudojantis geležinkelių linijomis, neturi neišnykusio arba nepanaikinto teistumo už sunkius ar labai sunkius tyčinius nusikaltimus, taip pat už tyčinius nusikaltimus ekonomikai, verslo tvarkai, finansų sistemai, pakartotinius nusikaltimus asmens socialinėms teisėms, nusikaltimus, susijusius su muitinės procedūrų pažeidimais, įmonė nėra paskelbta bankrutavusia, nuo valdymo organų narių, vadovų ir jų įgaliotų asmenų, kuriems pavesta vadovauti keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugų teikimui naudojantis geležinkelių linijomis, fizinio asmens bankroto proceso nutraukimo ar pabaigos praėjo daugiau kaip 10 metų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
 
-2) atitinka finansinio pajėgumo reikalavimus – įmonės finansinė atskaitomybė visais atžvilgiais teisingai atspindi įmonės finansinę būklę, veiklos rezultatus ir pinigų srautus, atitinka teisės aktų, reglamentuojančių finansinę apskaitą ir finansinės atskaitomybės sudarymą, reikalavimus, taip pat Lietuvos Respublikoje taikomus bendruosius apskaitos principus ir įmonė paskutinius 12 mėnesių yra moki; įmonės ekonominį pajėgumą apibūdinantys rodikliai atitinka susisiekimo ministro nustatytas geležinkelio įmonių (vežėjų) ekonominį pajėgumą apibūdinančių rodiklių kritines reikšmes; įmonė neturi mokestinės nepriemokos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), nėra skolinga Valstybinio socialinio draudimo fondo biudžetui;
+2) atitinka finansinio pajėgumo reikalavimus – įmonės finansinė atskaitomybė visais atžvilgiais teisingai atspindi įmonės finansinę būklę, veiklos rezultatus ir pinigų srautus, atitinka teisės aktų, reglamentuojančių finansinę apskaitą ir finansinės atskaitomybės sudarymą, reikalavimus, taip pat Lietuvos Respublikoje taikomus bendruosius apskaitos principus ir įmonė paskutinius 12 mėnesių yra moki; įmonės ekonominį pajėgumą apibūdinantys rodikliai atitinka susisiekimo ministro nustatytas geležinkelio įmonių (vežėjų) ekonominį pajėgumą apibūdinančių rodiklių kritines reikšmes; įmonė neturi didelės ar nuolatinės mokestinės nepriemokos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), neturi didelių ar nuolatinių įsiskolinimų Valstybinio socialinio draudimo fondo biudžetui; kriterijus, kuriais remiantis nustatoma, kad įmonė turi didelę ar nuolatinę mokestinę nepriemoką ar didelių ar nuolatinių įsiskolinimų nustato susisiekimo ministras; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -1068,7 +1099,10 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-2) pateikti prašymą sustabdyti geležinkelio įmonės (vežėjo) licencijos galiojimą, jeigu geležinkelio įmonė (vežėjas) neketina vykdyti licencijuojamos veiklos ilgiau kaip 6 mėnesius arba neketina pradėti vykdyti licencijuojamos veiklos per 6 mėnesius nuo geležinkelio įmonės (vežėjo) licencijos išdavimo dienos;
+2) pateikti prašymą sustabdyti geležinkelio įmonės (vežėjo) licencijos galiojimą, jeigu geležinkelio įmonė (vežėjas) neketina vykdyti licencijuojamos veiklos ilgiau kaip 6 mėnesius arba neketina pradėti vykdyti licencijuojamos veiklos per 6 mėnesius nuo geležinkelio įmonės (vežėjo) licencijos išdavimo dienos, išskyrus atvejį, kai licencijuojamos veiklos pradžios terminas geležinkelių transporto eismo saugos institucijos motyvuotu sprendimu buvo pratęstas atsižvelgiant į geležinkelio įmonės (vežėjo) prašymą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -1098,7 +1132,15 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-8) sudaryti sąlygas geležinkelių transporto eismo saugos institucijos darbuotojams tikrinti keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugų teikimą naudojantis geležinkelių linijomis ir pateiktą informaciją, susijusią su licencijuojama veikla.
+8) sudaryti sąlygas geležinkelių transporto eismo saugos institucijos darbuotojams tikrinti keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugų teikimą naudojantis geležinkelių linijomis ir pateiktą informaciją, susijusią su licencijuojama veikla;
+
+
+
+
+9) pateikti prašymą pratęsti licencijuojamos veiklos pradžios terminą, jeigu tai būtina dėl ketinamos vykdyti geležinkelių transporto veiklos pobūdžio. 
+Papildyta straipsnio punktu:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -1106,6 +1148,14 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 10. Geležinkelio įmonės (vežėjo) licencijuojamos veiklos priežiūrą atlieka geležinkelių transporto eismo saugos institucija Viešojo administravimo įstatymo ir kitų teisės aktų nustatyta tvarka.
+
+
+
+
+101. Geležinkelių transporto eismo saugos institucija, gavusi informaciją apie geležinkelio įmonės (vežėjo) reorganizavimą, be kita ko, apie tai, kad geležinkelio įmonė (vežėjas) susijungė su kita įmone ar įsigijo kitą įmonę, ir jeigu turi pagrįstų duomenų dėl reorganizuotos geležinkelio įmonės (vežėjo) neatitikties šio straipsnio 2 dalyje nustatytiems reikalavimams, ne vėliau kaip per 5 dienas nuo šioje dalyje nurodytos informacijos gavimo dienos turi priimti sprendimą peržiūrėti geležinkelio įmonės (vežėjo) licencijos galiojimą ir sustabdyti geležinkelio įmonės (vežėjo) licencijos galiojimą, jeigu geležinkelio įmonei (vežėjui) vykdant licencijuojamą veiklą keliama grėsmė geležinkelių transporto eismo saugai. Tokiu atveju geležinkelio įmonės (vežėjo) licencijos galiojimas turi būti peržiūrėtas ne vėliau kaip per 20 dienų nuo geležinkelių transporto eismo saugos institucijos sprendimo peržiūrėti geležinkelio įmonės (vežėjo) licencijos galiojimą priėmimo dienos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -1123,7 +1173,15 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-3) paaiškėja, kad geležinkelio įmonės (vežėjo) licencijai gauti pateikti klaidingi duomenys ir geležinkelio įmonė (vežėjas) per geležinkelių transporto eismo saugos institucijos nustatytą terminą nepateikia ištaisytų ar tikrovę atitinkančių dokumentų.
+3) paaiškėja, kad geležinkelio įmonės (vežėjo) licencijai gauti pateikti klaidingi duomenys ir geležinkelio įmonė (vežėjas) per geležinkelių transporto eismo saugos institucijos nustatytą terminą nepateikia ištaisytų ar tikrovę atitinkančių dokumentų;
+
+
+
+
+4) priimtas sprendimas peržiūrėti geležinkelio įmonės (vežėjo) licencijos galiojimą ir licencijuojama veikla negali būti vykdoma, kadangi keliama grėsmė geležinkelių transporto eismo saugai. 
+Papildyta straipsnio punktu:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -2126,10 +2184,16 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 
 
 
-231 straipsnis. Viešosios geležinkelių infrastruktūros objektų užimamos valstybinės žemės perdavimas, valdymas, naudojimas ir disponavimas ja
+231 straipsnis. Viešosios geležinkelių infrastruktūros objektų, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių užimamos valstybinės žemės perdavimas, valdymas, naudojimas ir disponavimas ja 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
-1. Viešosios geležinkelių infrastruktūros objektų užimamą valstybinę žemę Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos pagal patikėjimo sutartis Vyriausybės nustatyta tvarka perduoda valdyti, naudoti ir disponuoti ja turto patikėjimo teise viešosios geležinkelių infrastruktūros valdytojui.
+1. Viešosios geležinkelių infrastruktūros objektų, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių užimamą valstybinę žemę Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos pagal patikėjimo sutartis Vyriausybės nustatyta tvarka perduoda valdyti, naudoti ir disponuoti ja patikėjimo teise viešosios geležinkelių infrastruktūros valdytojui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -2428,24 +2492,36 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 28 straipsnis. Naudojimosi viešąja geležinkelių infrastruktūra sąlygos 
 
 
-1. Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje įregistruota geležinkelio įmonė (vežėjas), įgijusi geležinkelio įmonės (vežėjo) licenciją ir saugos sertifikatą ir su viešosios geležinkelių infrastruktūros valdytoju sudariusi naudojimosi viešąja geležinkelių infrastruktūra sutartį, turi teisę gauti minimalųjį prieigos paketą, išskyrus šio straipsnio 2 dalyje numatytas išimtis.
+1. Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje įregistruota geležinkelio įmonė (vežėjas), kuriai skirti viešosios geležinkelių infrastruktūros pajėgumai, arba pareiškėjo interesais veikianti geležinkelio įmonė (vežėjas), įgijusi geležinkelio įmonės (vežėjo) licenciją ir saugos sertifikatą ir sudariusi su viešosios geležinkelių infrastruktūros valdytoju naudojimosi viešąja geležinkelių infrastruktūra sutartį, turi teisę naudotis viešąja geležinkelių infrastruktūra, išskyrus šio straipsnio 2 ir 5 dalyse numatytas išimtis.
 
 
 
 
-2. Išimtinė teisė gauti minimalųjį prieigos paketą teikiant tranzito geležinkelių transportu paslaugas suteikiama geležinkelio įmonėms (vežėjams), kurių visos akcijos nuosavybės teise priklauso Lietuvos valstybei.
+2. Išimtinė teisė gauti minimalųjį prieigos paketą teikiant tranzito geležinkelių transportu paslaugas suteikiama geležinkelio įmonėms (vežėjams), kurių visos akcijos nuosavybės teise priklauso Lietuvos valstybei..
 
 
 
 
-3. Įmonės, kurios manevruoja šio Kodekso nustatyta tvarka apsidraudusios civilinės atsakomybės draudimu, įgijusios saugos sertifikatą turi teisę naudotis viešajai geležinkelių infrastruktūrai priklausančiais geležinkelių paslaugų įrenginiais laikydamosi šio Kodekso ketvirtajame1 skirsnyje nustatytų reikalavimų. Įmonės, kurios važiuoja į geležinkelių infrastruktūros objektų statybos, remonto ir (ar) techninės priežiūros darbų atlikimo vietą ir iš jos, turi teisę naudotis viešąja geležinkelių infrastruktūra laikydamosi šiame Kodekse geležinkelio įmonėms (vežėjams) nustatytų reikalavimų, išskyrus reikalavimą turėti geležinkelio įmonės (vežėjo) licenciją.
+3. Įmonės, kurios manevruoja šio Kodekso nustatyta tvarka apsidraudusios civilinės atsakomybės draudimu, įgijusios saugos sertifikatą turi teisę naudotis Lietuvos valstybei nuosavybės teise priklausančiais geležinkelių paslaugų įrenginiais laikydamosi šio Kodekso ketvirtajame1 skirsnyje nustatytų reikalavimų. Įmonės, kurios važiuoja į geležinkelių infrastruktūros objektų statybos, remonto ir (ar) techninės priežiūros darbų atlikimo vietą ir iš jos, turi teisę naudotis viešąja geležinkelių infrastruktūra laikydamosi šiame Kodekse geležinkelio įmonėms (vežėjams) nustatytų reikalavimų, išskyrus reikalavimą turėti geležinkelio įmonės (vežėjo) licenciją.
 
 
+
+
+4. Viešosios geležinkelių infrastruktūros valdytojui draudžiama diskriminuoti geležinkelio įmones (vežėjus) ir šio straipsnio 3 dalyje nurodytas įmones ar sudaryti joms skirtingas prieigos prie viešosios geležinkelių infrastruktūros sąlygas.
+
+
+
+
+5. Prieiga prie viešosios geležinkelių infrastruktūros vežimo geležinkelių transportu paslaugoms teikti iš trečiosios valstybės ir į ją gali būti apribota, jeigu yra tarpvalstybinio susisiekimo geležinkelių transportu su ta trečiąja valstybe konkurencijos iškraipymų, įskaitant iškraipymus, atsiradusius dėl nediskriminacinės prieigos prie geležinkelių infrastruktūros ir susijusių paslaugų toje trečiojoje valstybėje nebuvimo. Sprendimą dėl naudojimosi viešąja geležinkelių infrastruktūra vežimo geležinkelių transportu paslaugoms teikti iš trečiosios valstybės ir į ją apribojimo priima Vyriausybė savo nustatyta tvarka. Toks sprendimas priimamas tik tuo atveju, jeigu Europos Komisija ir kitos Europos Sąjungos valstybės narės per tris mėnesius nuo Vyriausybės sprendimo projekto pateikimo Europos Komisijai ir kitoms Europos Sąjungos valstybėms narėms dienos neprieštarauja dėl numatomo naudojimosi viešąja geležinkelių infrastruktūra vežimo geležinkelių transportu paslaugoms teikti iš trečiosios valstybės ir į ją apribojimo. 
+TAR pastaba. 28 straipsnio 5 dalyje nustatyti reikalavimai taikomi 2020–2021 metų tarnybinio traukinių tvarkaraščio galiojimo ir vėlesniais tarnybinio traukinių tvarkaraščio galiojimo laikotarpiais.
 Straipsnio pakeitimai:
 Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
 Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
+
+
 Straipsnio pakeitimai:
 Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
  
 
 
@@ -2570,10 +2646,10 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-302 straipsnis. Prieiga prie geležinkelių paslaugų įrenginių ir šiuose įrenginiuose teikiamų paslaugų, geležinkelių paslaugų įrenginių valdymas ir naudojimas
+302 straipsnis. Prieiga prie geležinkelių paslaugų įrenginių ir šiuose įrenginiuose teikiamų su geležinkelių transportu susijusių pagrindinių paslaugų, geležinkelių paslaugų įrenginių valdymas ir naudojimas
 
 
-1. Geležinkelių paslaugų įrenginių operatoriai geležinkelio įmonėms (vežėjams) ir šio Kodekso 28 straipsnio 3 dalyje nurodytoms įmonėms pagal naudojimosi geležinkelių paslaugų įrenginiais sutartį suteikia nediskriminacinę prieigą prie geležinkelių paslaugų įrenginių, nurodytų šio Kodekso 301 straipsnio 1–9 punktuose, taip pat prieigą prie geležinkelio kelių ir pagal paslaugų teikimo sutartį – prieigą prie šiuose įrenginiuose teikiamų paslaugų. 
+1. Geležinkelių paslaugų įrenginių operatoriai geležinkelio įmonėms (vežėjams) ir šio Kodekso 28 straipsnio 3 dalyje nurodytoms įmonėms pagal naudojimosi geležinkelių paslaugų įrenginiais sutartį suteikia nediskriminacinę prieigą prie šio Kodekso 301 straipsnio 1–9 punktuose nurodytų geležinkelių paslaugų įrenginių, kuriuose teikiamos su geležinkelių transportu susijusios pagrindinės paslaugos, taip pat prieigą prie geležinkelio kelių ir pagal paslaugų teikimo sutartį – prieigą prie šiuose įrenginiuose teikiamų su geležinkelių transportu susijusių pagrindinių paslaugų.
 
 
 
@@ -2583,63 +2659,61 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-3. Šio Kodekso 301 straipsnio 1–4, 7 ir 9 punktuose nurodytus geležinkelių paslaugų įrenginius valdantis geležinkelių paslaugų įrenginių operatorius, kurį tiesiogiai ar netiesiogiai kontroliuoja įstaiga arba įmonė, veikianti ir užimanti dominuojančią padėtį Lietuvos geležinkelių transporto paslaugų rinkoje, kurioje naudojami šioje dalyje nurodyti geležinkelių paslaugų įrenginiai, savo vidine organizacine struktūra, nuo kurios priklauso funkcijų paskirstymas, vykdymas ir kontrolė, ir priimdamas sprendimus turi būti nepriklausomas nuo jį tiesiogiai ar netiesiogiai kontroliuojančios įstaigos arba įmonės, veikiančios ir užimančios dominuojančią padėtį Lietuvos geležinkelių transporto paslaugų rinkoje, tai yra geležinkelių paslaugų įrenginių operatorių tiesiogiai ar netiesiogiai kontroliuojanti įstaiga arba įmonė, veikianti ir užimanti dominuojančią padėtį Lietuvos geležinkelių transporto paslaugų rinkoje, negali daryti įtakos geležinkelių paslaugų įrenginių operatoriaus priimamiems sprendimams. 
+3. Šio Kodekso 301 straipsnio 1–4, 7 ir 9 punktuose nurodytus geležinkelių paslaugų įrenginius valdantis geležinkelių paslaugų įrenginių operatorius, kurio kontroliuojantysis subjektas apibrėžtas Reglamento (ES) 2017/2177 3 straipsnio 7 punkte, priimdamas sprendimus turi būti nepriklausomas nuo kontroliuojančiojo subjekto, tai yra kontroliuojantysis subjektas negali daryti įtakos geležinkelių paslaugų įrenginių operatoriaus priimamiems sprendimams.
 
 
 
 
-4. Geležinkelių paslaugų įrenginių operatoriaus organizacinio ir sprendimų priėmimo nepriklausomumo užtikrinimas nereiškia, kad turi būti įsteigtas atskiras juridinis asmuo ir kad šį reikalavimą galima įvykdyti atitinkamai organizuojant skirtingus to paties juridinio asmens padalinius. Šiuo atveju geležinkelių paslaugų įrenginių operatoriaus nepriklausomumas turi būti užtikrinamas tarp juridinio asmens padalinio (padalinių), vykdančio (vykdančių) juridinio asmens veiklą ir užimančio dominuojančią padėtį Lietuvos geležinkelių transporto paslaugų rinkoje, ir juridinio asmens padalinio (padalinių), vykdančio (vykdančių) geležinkelių paslaugų įrenginių, nurodytų šio Kodekso 301 straipsnio 1–4, 7 ir 9 punktuose, valdymo veiklą. 
+4. Geležinkelių paslaugų įrenginių operatoriaus organizacinio ir sprendimų priėmimo nepriklausomumo užtikrinimas nereiškia, kad turi būti įsteigtas atskiras juridinis asmuo ir kad šį reikalavimą galima įvykdyti atitinkamai organizuojant skirtingus to paties juridinio asmens padalinius. Šiuo atveju geležinkelių paslaugų įrenginių operatoriaus nepriklausomumas turi būti užtikrinamas tarp juridinio asmens padalinio (padalinių), vykdančio (vykdančių) juridinio asmens veiklą ir užimančio dominuojančią padėtį Lietuvos geležinkelių transporto paslaugų rinkoje, ir juridinio asmens padalinio (padalinių), vykdančio (vykdančių) geležinkelių paslaugų įrenginių, nurodytų šio Kodekso 301 straipsnio 1–4, 7 ir 9 punktuose, valdymo veiklą.
 
 
 
 
-41. Lietuvos valstybei nuosavybės teise priklausantys geležinkelių paslaugų įrenginiai, perduodami viešosios geležinkelių infrastruktūros valdytojui valdyti, naudoti ir jais disponuoti patikėjimo teise pagal patikėjimo sutartį, kurią su viešosios geležinkelių infrastruktūros valdytoju sudaro Susisiekimo ministerija. 
-Papildyta straipsnio dalimi:
-Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
- 
+5. Lietuvos valstybei nuosavybės teise priklausantys geležinkelių paslaugų įrenginiai, perduodami viešosios geležinkelių infrastruktūros valdytojui valdyti, naudoti ir jais disponuoti patikėjimo teise pagal patikėjimo sutartį, kurią su viešosios geležinkelių infrastruktūros valdytoju sudaro Susisiekimo ministerija.
 
 
 
 
-5. Geležinkelių paslaugų įrenginių operatorius privalo atskirai tvarkyti geležinkelių paslaugų įrenginių, nurodytų šio Kodekso 301 straipsnio 1–9 punktuose, valdymo apskaitą, sudaryti atskiras pelno (nuostolių) ataskaitas ir balansus. 
+6. Geležinkelių paslaugų įrenginių operatorius privalo atskirai tvarkyti geležinkelių paslaugų įrenginių, nurodytų šio Kodekso 301 straipsnio 1–9 punktuose, valdymo apskaitą, sudaryti atskiras pelno (nuostolių) ataskaitas ir balansus.
 
 
 
 
-6. Tuo atveju, kai geležinkelių paslaugų įrenginių valdymo veiklą vykdo geležinkelių infrastruktūros valdytojas arba geležinkelių paslaugų įrenginių operatorių tiesiogiai ar netiesiogiai valdo geležinkelių infrastruktūros valdytojas ir yra įvykdyti šio Kodekso 7 straipsnio 3 dalies 5 ir 6 punktuose, 25 straipsnio 7 dalyje ir 29 straipsnio 1 dalyje nurodyti reikalavimai, laikoma, kad įvykdyti ir šio straipsnio 3 ir 5 dalyse nurodyti reikalavimai. 
+7. Tuo atveju, kai geležinkelių paslaugų įrenginių valdymo veiklą vykdo geležinkelių infrastruktūros valdytojas arba geležinkelių paslaugų įrenginių operatorių tiesiogiai ar netiesiogiai valdo geležinkelių infrastruktūros valdytojas ir yra įvykdyti šio Kodekso 25 straipsnio 7 dalyje ir 29 straipsnio 1 dalyje nurodyti reikalavimai, laikoma, kad įvykdyti ir šio straipsnio 3 ir 6 dalyse nurodyti reikalavimai.
 
 
 
 
-7. Geležinkelių paslaugų įrenginių operatorius į geležinkelio įmonių (vežėjų) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių prašymus dėl prieigos prie šio Kodekso 301 straipsnio 1–9 punktuose nurodytų geležinkelių paslaugų įrenginių ir šiuose įrenginiuose teikiamų paslaugų turi atsakyti per pagrįstą laikotarpį, kurį nustato rinkos reguliuotojas. Šioje dalyje nurodyti prašymai atmetami tik tada, kai yra perspektyvių alternatyvų teikti atitinkamas keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugas tokiu pačiu arba alternatyviu maršrutu ekonomiškai priimtinomis sąlygomis. Geležinkelių paslaugų įrenginių operatorius neprivalo investuoti į išteklius arba geležinkelių paslaugų įrenginius tik dėl to, kad būtų patenkinti visi geležinkelio įmonių (vežėjų) ir šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių prašymai.
+8. Geležinkelių paslaugų įrenginių operatorius geležinkelio įmonių (vežėjų) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių prašymus dėl prieigos prie šio Kodekso 301 straipsnio 1–9 punktuose nurodytų geležinkelių paslaugų įrenginių ir šiuose įrenginiuose teikiamų su geležinkelių transportu susijusių pagrindinių paslaugų nagrinėja Reglamente (ES) 2017/2177 nustatyta tvarka. Geležinkelių paslaugų įrenginių operatorius neprivalo investuoti į išteklius arba geležinkelių paslaugų įrenginius tik dėl to, kad būtų patenkinti visi geležinkelio įmonių (vežėjų) ir šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių prašymai.
 
 
 
 
-8. Tuo atveju, kai geležinkelio įmonė (vežėjas) ar šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės pateikia prašymą dėl prieigos prie geležinkelių paslaugų įrenginių, nurodytų šio Kodekso 301 straipsnio 1–9 punktuose, valdomų geležinkelių paslaugų įrenginio operatoriaus, tiesiogiai ar netiesiogiai kontroliuojamos įstaigos arba įmonės, veikiančios ir užimančios dominuojančią padėtį Lietuvos geležinkelių transporto paslaugų rinkoje, kurioje naudojami šie geležinkelių paslaugų įrenginiai, ir šiuose įrenginiuose teikiamų paslaugų, šis geležinkelių paslaugų įrenginių operatorius turi raštu pagrįsti kiekvieną sprendimą atmesti tokį geležinkelio įmonės (vežėjo) ar šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės prašymą ir nurodyti perspektyvias alternatyvas naudotis kitais geležinkelių paslaugų įrenginiais, nurodytais šio Kodekso 301 straipsnio 1–9 punktuose.
+9. Tuo atveju, kai geležinkelių paslaugų įrenginiai, nurodyti šio Kodekso 301 straipsnio 1–9 punktuose, ar jų dalis nenaudojami dvejus metus iš eilės arba ilgiau ir geležinkelio įmonė (vežėjas) ar šio Kodekso 28 straipsnio 3 dalyje nurodyta įmonė pateikė prašymą dėl prieigos prie šių įrenginių ar jų dalies, geležinkelių paslaugų įrenginių savininkas Reglamente (ES) 2017/2177 nustatytais atvejais ir tvarka paskelbia, kad šiais geležinkelių paslaugų įrenginiais ar jų dalimi galima naudotis išperkamosios nuomos ar nuomos sąlygomis. Lietuvos valstybei nuosavybės teise priklausantys geležinkelių paslaugų įrenginiai išnuomojami Lietuvos Respublikos Vyriausybės nustatyta tvarka. Šiame straipsnyje nustatyti reikalavimai dėl išperkamosios nuomos netaikomi Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių atžvilgiu.
 
 
 
 
-9. Gavęs geležinkelio įmonių (vežėjų) ir šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės prašymus dėl prieigos prie tų pačių geležinkelių paslaugų įrenginių, nurodytų šio Kodekso 301 straipsnio 1–9 punktuose, ir šiuose įrenginiuose teikiamų paslaugų, geležinkelių paslaugų įrenginių operatorius turi imtis visų įmanomų priemonių, kad patenkintų visus geležinkelio įmonių (vežėjų) prašymus. Jeigu nėra perspektyvių alternatyvų ir pagal pareikštą poreikį neįmanoma patenkinti visų geležinkelio įmonių (vežėjų) ar šio Kodekso 28 straipsnio 3 dalyje nurodytų įmonių prašymų dėl prieigos prie geležinkelių paslaugų įrenginių, nurodytų šio Kodekso 301 straipsnio 1–9 punktuose, ir šiuose įrenginiuose teikiamų paslaugų, geležinkelio įmonė (vežėjas) ar šio Kodekso 28 straipsnio 3 dalyje nurodyta įmonė gali pateikti skundą rinkos reguliuotojui, kuris šį skundą išnagrinėja ir, nustatęs, kad prašymą dėl prieigos prie tų pačių geležinkelių paslaugų įrenginių, nurodytų šio Kodekso 301 straipsnio 1–9 punktuose, buvo įmanoma patenkinti, imasi veiksmų, siekdamas užtikrinti, kad tai geležinkelio įmonei (vežėjui) ir šio Kodekso 28 straipsnio 3 dalyje nurodytai įmonei būtų suteikta prieiga prie geležinkelių paslaugų įrenginių, nurodytų šio Kodekso 301 straipsnio 1–9 punktuose.
+10. Vyriausybės nustatyta tvarka priimant sprendimus dėl nereikalingais arba netinkamais (negalimais) naudoti pripažintų Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių perdavimo ar juos nurašant, nuomojant Lietuvos valstybei nuosavybės teise priklausančius geležinkelių paslaugų įrenginius ir jų užimamą valstybinę žemę mutatis mutandis taikomos šio Kodekso 23 straipsnio 5–10 dalių ir 231 straipsnio 2–8 dalių nuostatos. 
 
 
-
-
-10. Tuo atveju, kai geležinkelių paslaugų įrenginiai, nurodyti šio Kodekso 301 straipsnio 1–9 punktuose, ar jų dalis nenaudojami dvejus metus iš eilės arba ilgiau ir geležinkelio įmonė (vežėjas) ar šio Kodekso 28 straipsnio 3 dalyje nurodyta įmonė pateikė prašymą dėl prieigos prie šių įrenginių ar jų dalies, geležinkelių paslaugų įrenginių savininkas per 2 mėnesius nuo šioje dalyje nurodyto prašymo gavimo dienos paskelbia savo interneto svetainėje, kad šiais geležinkelių paslaugų įrenginiais ar jų dalimi galima naudotis išperkamosios nuomos ar nuomos sąlygomis, išskyrus atvejus, kai jis įrodo, kad dėl vykdomų pertvarkymo darbų prašomais geležinkelių paslaugų įrenginiais ar jų dalimi naudotis neįmanoma. Šiame straipsnyje nustatyti reikalavimai dėl išperkamosios nuomos netaikomi Lietuvos valstybei nuosavybės teise priklausantiems geležinkelių paslaugų įrenginiams. 
-Straipsnio dalies pakeitimai:
+Straipsnio pakeitimai:
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
  
 
 
 
 
+303 straipsnis. Su geležinkelių transportu susijusios papildomos ir pagalbinės paslaugos 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
-303 straipsnis. Papildomos ir pagalbinės paslaugos
-
-
-1. Papildomas ir pagalbines paslaugas šio Kodekso 301 straipsnyje nurodytuose įrenginiuose teikia geležinkelių paslaugų įrenginių operatoriai.
+1. Su geležinkelių transportu susijusias papildomas ir pagalbines paslaugas teikia geležinkelių paslaugų įrenginių operatoriai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -2699,12 +2773,17 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-4. Jeigu geležinkelių paslaugų įrenginių operatorius teikia papildomas paslaugas, jis nediskriminacinėmis sąlygomis teikia jas pagal paslaugų teikimo sutartį prašymą pateikusioms geležinkelio įmonėms (vežėjams) ir šio Kodekso 28 straipsnio 3 dalyje nurodytoms įmonėms.
+4. Jeigu geležinkelių paslaugų įrenginių operatorius teikia su geležinkelių transportu susijusias papildomas paslaugas, jis nediskriminacinėmis sąlygomis teikia jas pagal paslaugų teikimo sutartį prašymą pateikusioms geležinkelio įmonėms (vežėjams) ir šio Kodekso 28 straipsnio 3 dalyje nurodytoms įmonėms Reglamente (ES) 2017/2177 nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
 
-5. Geležinkelio įmonės (vežėjai) ir šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės gali prašyti geležinkelio paslaugų įrenginių operatorių pagalbinių paslaugų. Geležinkelių paslaugų įrenginio operatorius neprivalo teikti pagalbinių paslaugų, tačiau jeigu geležinkelių paslaugų įrenginio operatorius nusprendžia teikti bet kurią iš šio straipsnio 2 dalyje nurodytų paslaugų, jis teikia jas pagal paslaugų teikimo sutartį prašymą pateikusioms geležinkelio įmonėms (vežėjams) ir šio Kodekso 28 straipsnio 3 dalyje nurodytoms įmonėms.
+5. Geležinkelio įmonės (vežėjai) ir šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės gali prašyti geležinkelio paslaugų įrenginių operatorių su geležinkelių transportu susijusių pagalbinių paslaugų. Geležinkelių paslaugų įrenginio operatorius neprivalo teikti su geležinkelių transportu susijusių pagalbinių paslaugų, tačiau jeigu geležinkelių paslaugų įrenginio operatorius nusprendžia teikti bet kurią iš šio straipsnio 3 dalyje nurodytų paslaugų, jis teikia jas nediskriminacinėmis sąlygomis pagal paslaugų teikimo sutartį prašymą pateikusioms geležinkelio įmonėms (vežėjams) ir šio Kodekso 28 straipsnio 3 dalyje nurodytoms įmonėms Reglamente (ES) 2017/2177 nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
  
 
 
@@ -2712,15 +2791,24 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-304 straipsnis. Užmokestis už naudojimąsi geležinkelių paslaugų įrenginiais, juose esančiais geležinkelio keliais ir šiuose įrenginiuose teikiamomis paslaugomis, taip pat papildomomis ir pagalbinėmis paslaugomis 
+304 straipsnis. Užmokestis už naudojimąsi geležinkelių paslaugų įrenginiais, juose esančiais geležinkelio keliais ir šiuose įrenginiuose teikiamomis su geležinkelių transportu susijusiomis pagrindinėmis, papildomomis ir pagalbinėmis paslaugomis 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
-1. Užmokestį už naudojimąsi geležinkelių paslaugų įrenginiais, nurodytais šio Kodekso 301 straipsnio 1–9 punktuose, juose esančiais geležinkelio keliais ir šiuose įrenginiuose teikiamomis paslaugomis nustato geležinkelių paslaugų įrenginių operatorius. Šis užmokestis naudojamas geležinkelių paslaugų įrenginių operatoriaus veiklai finansuoti.
+1. Užmokestį už naudojimąsi geležinkelių paslaugų įrenginiais, nurodytais šio Kodekso 301 straipsnio 1–9 punktuose, juose esančiais geležinkelio keliais ir šiuose įrenginiuose teikiamomis su geležinkelių transportu susijusiomis pagrindinėmis paslaugomis nustato geležinkelių paslaugų įrenginių operatorius. Šis užmokestis naudojamas geležinkelių paslaugų įrenginių operatoriaus veiklai finansuoti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
 
-2. Užmokestis už naudojimąsi geležinkelių paslaugų įrenginiais, nurodytais šio Kodekso 301 straipsnio 1–9 punktuose, ir šiuose įrenginiuose teikiamomis paslaugomis negali būti didesnis už šių paslaugų teikimo išlaidas, pridėjus pagrįstą pelną.
+2. Užmokestis už naudojimąsi geležinkelių paslaugų įrenginiais, nurodytais šio Kodekso 301 straipsnio 1–9 punktuose, ir šiuose įrenginiuose teikiamomis su geležinkelių transportu susijusiomis pagrindinėmis paslaugomis negali būti didesnis už šių paslaugų teikimo išlaidas, pridėjus pagrįstą pelną. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -2730,7 +2818,10 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-4. Užmokestį už papildomas ir pagalbines paslaugas nustato geležinkelių įrenginių operatorius. Jeigu papildomas ir pagalbines paslaugas teikia vienas paslaugų teikėjas, užmokestis už papildomas ir pagalbines paslaugas negali būti didesnis už jų teikimo išlaidas, pridėjus pagrįstą pelną.
+4. Užmokestį už su geležinkelių transportu susijusias papildomas ir pagalbines paslaugas nustato geležinkelių įrenginių operatorius. Jeigu su geležinkelių transportu susijusias papildomas ir pagalbines paslaugas teikia vienas paslaugų teikėjas, užmokestis už šias paslaugas negali būti didesnis už jų teikimo išlaidas, pridėjus pagrįstą pelną. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
@@ -2849,12 +2940,27 @@ KELEIVIŲ, BAGAŽO IR KROVINIŲ VEŽIMAS
 
 
 
-2. Europos Sąjungos valstybėje narėje įregistruota geležinkelio įmonė (vežėjas), veždama keleivius tarptautiniais maršrutais, turi teisę įlaipinti keleivius bet kurioje Lietuvos Respublikos teritorijoje esančioje traukinio važiavimo maršruto geležinkelio stotyje ir išlaipinti kitoje.
+2. Geležinkelio įmonė (vežėjas), teikianti keleivių ir bagažo vežimo geležinkelių transportu paslaugas, privalo sudaryti nenumatytų atvejų planus ir užtikrinti, kad šie planai būtų tinkamai koordinuojami su keleivių geležinkelio stoties operatoriumi ir viešosios geležinkelių infrastruktūros valdytoju tam, kad įvykus esminiam keleivių ir bagažo vežimo geležinkelių transportu paslaugų teikimo sutrikimui keleiviams būtų suteikta pagalba, kaip nustatyta Reglamento (EB) Nr. 1371/2007 18 straipsnyje. 
+TAR pastaba. 33 straipsnio 2 dalyje nustatyti reikalavimai taikomi 2020–2021 metų tarnybinio traukinių tvarkaraščio galiojimo ir vėlesniais tarnybinio traukinių tvarkaraščio galiojimo laikotarpiais.
+Papildyta straipsnio dalimi:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 
 
-3. Keleivių teisių, nurodytų Reglamente (EB) Nr. 1371/2007, apsaugą užtikrina Valstybinė vartotojų teisių apsaugos tarnyba, kuri nagrinėja keleivių skundus dėl jų teisių, nurodytų Reglamente (EB) Nr. 1371/2007, pažeidimo.
+3. Europos Sąjungos valstybėje narėje įregistruota geležinkelio įmonė (vežėjas), veždama keleivius tarptautiniais maršrutais, turi teisę įlaipinti keleivius bet kurioje Lietuvos Respublikos teritorijoje esančioje traukinio važiavimo maršruto geležinkelio stotyje ir išlaipinti kitoje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
+
+
+
+
+4. Keleivių teisių, nurodytų Reglamente (EB) Nr. 1371/2007, apsaugą užtikrina Valstybinė vartotojų teisių apsaugos tarnyba, kuri nagrinėja keleivių skundus dėl jų teisių, nurodytų Reglamente (EB) Nr. 1371/2007, pažeidimo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
+ 
 
 
 Straipsnio pakeitimai:
@@ -3850,6 +3956,14 @@ Nr. XIII-833, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20053
 11. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/798 dėl geležinkelių saugos (OL 2016 L 138, p. 102). 
 Papildyta punktu:
 Nr. XIII-833, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20053
+ 
+
+
+
+
+12. 2016 m. balandžio 7 d. Komisijos įgyvendinimo reglamentas (ES) 2016/545 dėl procedūrų ir kriterijų, susijusių su pamatiniais susitarimais dėl geležinkelių infrastruktūros pajėgumų paskirstymo (OL 2016 L 94, p. 1). 
+Papildyta punktu:
+Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
  
 
 
