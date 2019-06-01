@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
  
@@ -973,7 +973,9 @@ Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 
 
 
-4. Asmenims, patiriantiems socialinę riziką, išmokos dydis piniginėmis lėšomis negali viršyti 50 procentų paskirtos išmokos dydžio.
+4. Asmenims, patiriantiems socialinę riziką, išmokos dydis piniginėmis lėšomis negali viršyti 50 procentų paskirtos išmokos dydžio, išskyrus atvejus, kai atvejo vadybininkas, koordinuojantis atvejo vadybos procesą, rekomenduoja didesnę kaip 50 procentų paskirtos išmokos dydžio sumą mokėti piniginėmis lėšomis, o kai atvejo vadyba netaikoma, – atsižvelgiant į socialinio darbuotojo, dirbančio su asmenimis, patiriančiais socialinę riziką, rekomendaciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
  
 
 
@@ -1457,3 +1459,8 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 6, 7, 9, 11, 13, 14, 15, 17, 18, 21 ir 24 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 3, 16, 17, 19, 21 straipsnių, trečiojo skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
