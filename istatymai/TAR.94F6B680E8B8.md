@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2019-06-10
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -150,6 +150,14 @@ Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
  
 
 
+
+
+14. Perkeliamasis asmuo – kaip ši sąvoka apibrėžta Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-98, 2008-12-22, Žin., 2008, Nr. 149-6022 (2008-12-30)
 Nr. XI-1165, 2010-11-23, Žin., 2010, Nr. 145-7422 (2010-12-11)
@@ -261,7 +269,15 @@ Nr. XIII-2051, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06686
 
 
 
-5) asmenys, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas.
+5) asmenys, kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas šis Įstatymas;
+
+
+
+
+6) perkeliamieji asmenys. 
+Papildyta straipsnio punktu:
+Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
+ 
 
 
 
@@ -398,7 +414,15 @@ Nr. XIII-2051, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06686
 
 
 
-19) asmenys, atliekantys savanorišką praktiką Užimtumo įstatymo nustatyta tvarka.
+19) asmenys, atliekantys savanorišką praktiką Užimtumo įstatymo nustatyta tvarka;
+
+
+
+
+20) perkeliamieji asmenys. 
+Papildyta straipsnio punktu:
+Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -2995,3 +3019,8 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 ir 21 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2051, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06686
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2 ir 6 straipsnių pakeitimo įstatymas
