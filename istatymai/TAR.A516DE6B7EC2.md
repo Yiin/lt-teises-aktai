@@ -20,9 +20,14 @@ LIETUVOS RESPUBLIKOS ENERGIJOS IŠTEKLIŲ RINKOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2021-11-12
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 63-3164, i. k. 1121010ISTA0XI-2023
+ 
+TAR pastaba. Šilumos aukciono dalyvių, kuriems Lietuvos Respublikos energijos išteklių rinkos įstatymo 9 straipsnio 3 dalies ir 191 straipsnio nuostatos iki įstatymo Nr. XIII-2084 įsigaliojimo (2019-06-01) nebuvo  taikomos, neteikiant pirmenybės energijos išteklių biržai tiesiogiai sudaryti dvišaliai susitarimai, įskaitant visus galimus jų pratęsimus, galioja ne ilgiau kaip iki 2020 m. gegužės 31 d.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
+Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 8, 13, 17, 19-1 ir 28-1 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS 
 ENERGIJOS IŠTEKLIŲ RINKOS 
@@ -346,7 +351,10 @@ Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010IST
 
 
 
-10) kiekvieną ketvirtį viešai skelbia apibendrintą informaciją apie kiekvienos savivaldybės teritorijoje veiklą vykdančių šilumos tiekėjų, reguliuojamų nepriklausomų šilumos gamintojų ir bendrų šilumos ir elektros energijos gamintojų tiesiogiai sudaromų dvišalių susitarimų pagrindu įsigyjamo biokuro vidutinę kainą (su transportavimo išlaidomis) atskirai pagal biokuro rūšį ir kitus duomenis, nustatytus energetikos ministro patvirtintose Informacijos, susijusios su energetikos veikla, teikimo valstybės, savivaldybių institucijoms, įstaigoms ir (ar) kitiems asmenims taisyklėse;
+10) kiekvieną ketvirtį viešai skelbia apibendrintą informaciją apie kiekvienos savivaldybės teritorijoje veiklą vykdančių šilumos tiekėjų, šilumos aukciono dalyvių ir bendrų šilumos ir elektros energijos gamintojų tiesiogiai sudaromų dvišalių susitarimų pagrindu įsigyjamo biokuro vidutinę kainą (su transportavimo išlaidomis) atskirai pagal biokuro rūšį ir kitus duomenis, nustatytus energetikos ministro patvirtintose Informacijos, susijusios su energetikos veikla, teikimo valstybės, savivaldybių institucijoms, įstaigoms ir (ar) kitiems asmenims taisyklėse; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
+ 
 
 
 
@@ -595,60 +603,95 @@ Nr. XIII-1785, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21230
 
 
 
-3) valdo, palaiko ir administruoja energijos išteklių biržos operatoriaus informacinę sistemą ir energijos išteklių biržos duomenų valdymo sistemą;
+3) energijos išteklių biržos duomenų valdymo sistemoje renka duomenis apie šilumos tiekėjų, šilumos aukciono dalyvių ir bendrų šilumos ir elektros energijos gamintojų tiesiogiai sudaromus dvišalius susitarimus (sandorio šalis, sudarymo datą, biokuro rūšis ir sandorio galiojimo laikotarpį) ir šių susitarimų pagrindu įsigytą biokuro kiekį bei kainą ir teikia šiuos duomenis Komisijai; 
+Papildyta straipsnio punktu:
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
+ 
 
 
 
 
-4) teisės aktų nustatyta tvarka ir sąlygomis teikia kompetentingoms institucijoms, įmonėms, įstaigoms ir organizacijoms informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti;
+4) valdo, palaiko ir administruoja energijos išteklių biržos operatoriaus informacinę sistemą ir energijos išteklių biržos duomenų valdymo sistemą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
+ 
 
 
 
 
-5) užtikrina vienodas ir nediskriminuojančias sąlygas visiems energijos išteklių biržos dalyviams, vadovaudamasis šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytais reikalavimais;
+5) teisės aktų nustatyta tvarka ir sąlygomis teikia kompetentingoms institucijoms, įmonėms, įstaigoms ir organizacijoms informaciją, reikalingą įstatymų ir kitų teisės aktų nustatytoms pareigoms vykdyti;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
+ 
 
 
 
 
-6) energijos išteklių biržos dalyviams ir kitiems suinteresuotiems asmenims neatlygintinai teikia informaciją apie energijos išteklių biržos veiklą;
+6) užtikrina vienodas ir nediskriminuojančias sąlygas visiems energijos išteklių biržos dalyviams, vadovaudamasis šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytais reikalavimais;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
+ 
 
 
 
 
-7) ne vėliau kaip per 30 dienų nuo kiekvieno metų kalendorinio ketvirčio pabaigos parengia ir teikia Komisijai bei skelbia energijos išteklių biržos operatoriaus informacinėje sistemoje energijos išteklių biržos operatoriaus veiklos ketvirčio ataskaitą;
+7) energijos išteklių biržos dalyviams ir kitiems suinteresuotiems asmenims neatlygintinai teikia informaciją apie energijos išteklių biržos veiklą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
+ 
 
 
 
 
-8) ne vėliau kaip iki kiekvienų metu kovo 1 dienos parengia ir teikia Komisijai bei skelbia energijos išteklių biržos operatoriaus informacinėje sistemoje energijos išteklių biržos operatoriaus veiklos metinę ataskaitą;
+8) ne vėliau kaip per 30 dienų nuo kiekvieno metų kalendorinio ketvirčio pabaigos parengia ir teikia Komisijai bei skelbia energijos išteklių biržos operatoriaus informacinėje sistemoje energijos išteklių biržos operatoriaus veiklos ketvirčio ataskaitą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
+ 
 
 
 
 
-9) gavęs Komisijos pasiūlymus ar nurodymus dėl energijos išteklių biržos operatoriaus veiklos ataskaitose nurodytų duomenų patikslinimo ar papildomų duomenų pateikimo, per Komisijos nurodytą terminą pateikia ir energijos išteklių biržos operatoriaus informacinėje sistemoje paskelbia patikslintas veiklos ataskaitas;
+9) ne vėliau kaip iki kiekvienų metu kovo 1 dienos parengia ir teikia Komisijai bei skelbia energijos išteklių biržos operatoriaus informacinėje sistemoje energijos išteklių biržos operatoriaus veiklos metinę ataskaitą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
+ 
 
 
 
 
-10) Šilumos ūkio įstatyme nustatyta tvarka organizuoja šilumos aukcionus; 
+10) gavęs Komisijos pasiūlymus ar nurodymus dėl energijos išteklių biržos operatoriaus veiklos ataskaitose nurodytų duomenų patikslinimo ar papildomų duomenų pateikimo, per Komisijos nurodytą terminą pateikia ir energijos išteklių biržos operatoriaus informacinėje sistemoje paskelbia patikslintas veiklos ataskaitas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
+ 
+
+
+
+
+11) Šilumos ūkio įstatyme nustatyta tvarka organizuoja šilumos aukcionus; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
  
 
 
 
 
-11) valdo, palaiko ir administruoja šilumos aukciono duomenų valdymo sistemą ir šilumos aukciono informacinę sistemą; 
+12) valdo, palaiko ir administruoja šilumos aukciono duomenų valdymo sistemą ir šilumos aukciono informacinę sistemą; 
 Papildyta straipsnio punktu:
 Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
  
 
 
 
 
-12) pagal kompetenciją užtikrina, kad būtų laikomasi kitų šiame įstatyme ir kituose teisės aktuose nustatytų įpareigojimų ir reikalavimų prekybai energijos ištekliais ir šilumos aukcionams. 
+13) pagal kompetenciją užtikrina, kad būtų laikomasi kitų šiame įstatyme ir kituose teisės aktuose nustatytų įpareigojimų ir reikalavimų prekybai energijos ištekliais ir šilumos aukcionams. 
 Papildyta straipsnio punktu:
 Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
  
 
 
@@ -759,6 +802,13 @@ Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010IST
 
 
 4. Energijos išteklių biržos operatorius turi teisę reikalauti prekybos energijos išteklių biržoje prievolių įvykdymo užtikrinimo. Prievolių įvykdymo užtikrinimo priemonės nustatomos energijos išteklių biržos dalyvio sutartyje ir, suderinus su Komisija, nediskriminaciniais pagrindais privalo būti taikomos visiems energijos išteklių biržos dalyviams. Energijos išteklių biržos dalyviams taikomos prievolių įvykdymo užtikrinimo priemonės gali būti diferencijuojamos, taip pat šio įstatymo įgyvendinamuosiuose teisės aktuose gali būti nustatomi specialieji reikalavimai atskiroms energijos išteklių biržos dalyvių grupėms, atsižvelgiant į energijos išteklius, kuriais jie prekiauja energijos išteklių biržoje. Nustatytos prievolių įvykdymo užtikrinimo priemonės turi būti motyvuotos, proporcingos ir pagrįstos.
+
+
+
+
+5. Šilumos tiekėjai, šilumos aukciono dalyviai ir bendri šilumos ir elektros energijos gamintojai per energijos išteklių biržos duomenų valdymo sistemą teikia duomenis energijos išteklių biržos operatoriui apie tiesiogiai sudarytus dvišalius susitarimus (sandorio šalis, sudarymo datą, biokuro rūšis ir sandorio galiojimo laikotarpį) ir šių susitarimų pagrindu įsigytą biokuro kiekį bei kainą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
  
 
 
@@ -861,24 +911,10 @@ Nr. XII-493, 2013-07-02, Žin., 2013, Nr. 78-3938 (2013-07-20), i. k. 1131010IST
 191 straipsnis. Biokuro, naudojamo šilumos gamybai, įsigijimas
 
 
-1. Šilumos tiekėjai, reguliuojami nepriklausomi šilumos gamintojai ir bendri šilumos ir elektros energijos gamintojai, kurie elektros ir (ar) šilumos energijai gaminti naudoja biokurą, privalo teikti pirmenybę energijos išteklių biržai įsigydami šią elektros ir (ar) šilumos energijai gaminti reikalingo biokuro kiekio dalį: 
-
-
-1) 2014 metais – ne mažiau kaip 10 procentų;
-
-
-
-
-2) 2015 metais – ne mažiau kaip 50 procentų; 
-
-
-
-
-3) 2016 metais ir vėlesniais metais – ne mažiau kaip 100 procentų.
-
-
+1. Šilumos tiekėjai, šilumos aukciono dalyviai ir bendri šilumos ir elektros energijos gamintojai, kurie elektros ir (ar) šilumos energijai gaminti naudoja biokurą, privalo teikti pirmenybę energijos išteklių biržai įsigydami visą elektros ir (ar) šilumos energijai gaminti reikalingą biokuro kiekį. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1432, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20609
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
  
 
 
@@ -1111,6 +1147,13 @@ ENERGIJOS IŠTEKLIŲ RINKOS PRIEŽIŪRA IR ATSAKOMYBĖS TAIKYMAS. SKUNDŲ ir gin
 
 
 4. Šilumos tiekėjai, reguliuojamieji nepriklausomi šilumos gamintojai ir bendrieji šilumos ir elektros energijos gamintojai, įsigyjantys energijos išteklius elektros ir (ar) šilumos energijai gaminti, už vykdytų energijos išteklių elektros ir (ar) šilumos energijai gaminti įsigijimo tvarkos pažeidimus atsako šio įstatymo 28 straipsnyje nustatyta tvarka.
+
+
+
+
+5. Nereguliuojamiesiems nepriklausomiems šilumos gamintojams už vykdytų energijos išteklių elektros ir (ar) šilumos energijai gaminti įsigijimo tvarkos pažeidimus Komisija skiria piniginę baudą iki 10 procentų metinių pajamų praėjusiais finansiniais metais iš veiklos, kurią vykdant padarytas pažeidimas. Baudos skyrimo klausimas svarstomas ir sprendimas dėl baudos skyrimo, jos dydžio ir diferencijavimo priimamas ir vykdomas mutatis mutandis vadovaujantis Energetikos įstatymo nuostatomis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
  
 
 
@@ -1159,6 +1202,7 @@ Vyriausybė, Energetikos ministerija ir Komisija pagal kompetenciją parengia ir
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
  
  
@@ -1192,3 +1236,8 @@ Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 1, 2, 10,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1785, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21230
 Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 2, 3, 10, 13 straipsnių, šeštojo ir septintojo skirsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
+Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 8, 13, 17, 19-1 ir 28-1 straipsnių pakeitimo įstatymas
