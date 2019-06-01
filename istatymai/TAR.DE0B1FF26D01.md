@@ -20,9 +20,14 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2018-08-01 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
+ 
+TAR pastaba. Lietuvos Respublikos kredito unijų įstatymo 51, 52 ir 53 straipsnių nuostatos dėl finansinių ataskaitų rinkinių audito iki 2023 m. sausio 1 d. taikomos tik centrinių kredito unijų narėmis nesančioms kredito unijoms, kurios pagal Lietuvos Respublikos kredito unijų įstatymo 71 straipsnio nuostatas iki 2018 m. sausio 1 d. yra gavusios Lietuvos banko sutikimą vykdyti pertvarkymą.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 5, 10, 21, 29, 40, 45, 51, 52 straipsnių pakeitimo ir 52, 53 straipsnių pripažinimo netekusiais galios įstatymas
  
 Nauja redakcija nuo 2017-01-01:
 Nr. XII-2567, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20320
@@ -311,7 +316,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Be šio straipsnio 4 dalyje nurodytų asmenų, indėlius ir kitas grąžintinas lėšas kredito unija turi teisę priimti ir iš Lietuvos Respublikos biudžetinių įstaigų, tarp jų iš viešųjų įstaigų, kurių dalininkės yra valstybės ar savivaldybių institucijos, jeigu tai numatyta kredito unijų steigimo dokumentuose, Lietuvos Respublikoje įsteigtų asociacijų, religinių bendruomenių ir bendrijų, profesinių sąjungų organizacijų, labdaros ir paramos fondų, tarptautinių ar užsienio valstybių labdaros ir paramos fondų, kredito unijos narių steigiamų juridinių asmenų, kurie gali būti kredito unijos asocijuotais nariais pagal šio įstatymo 10 straipsnio 4 dalyje nurodytus reikalavimus, taip pat Lietuvos Respublikos civilinio kodekso nustatyta tvarka iš kredito unijos narių nepilnamečių vaikų (įvaikių) ar globojamų vaikų, jeigu bent vienas iš tėvų (įtėvių) ar globėjų (rūpintojų) yra kredito unijos narys. 
+6. Be šio straipsnio 4 dalyje nurodytų asmenų, indėlius ir kitas grąžintinas lėšas kredito unija turi teisę priimti ir iš Lietuvos Respublikos biudžetinių įstaigų, jeigu tai numatyta kredito unijų steigimo dokumentuose, Lietuvos Respublikoje įsteigtų asociacijų, religinių bendruomenių ir bendrijų, profesinių sąjungų organizacijų, labdaros ir paramos fondų, tarptautinių ar užsienio valstybių labdaros ir paramos fondų, kredito unijos narių steigiamų juridinių asmenų, kurie gali būti kredito unijos asocijuotais nariais pagal šio įstatymo 10 straipsnio 4 dalyje nurodytus reikalavimus, taip pat Lietuvos Respublikos civilinio kodekso nustatyta tvarka iš kredito unijos narių nepilnamečių vaikų (įvaikių) ar globojamų vaikų, jeigu bent vienas iš tėvų (įtėvių) ar globėjų (rūpintojų) yra kredito unijos narys. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
+ 
 
 
 
@@ -648,7 +656,10 @@ KREDITO UNIJOS NARIAI
 4. Kredito unijos asocijuotais nariais gali būti šie Lietuvos Respublikoje įregistruoti ir Lietuvos Respublikos savivaldybės, kurioje įregistruota kredito unijos buveinė, teritorijoje ir kitų kredito unijos įstatuose nurodytų savivaldybių, kurios ribojasi su šia savivaldybe, teritorijose buveinę turintys juridiniai asmenys:
 
 
-1) asociacijos, profesinės sąjungos, profesinių sąjungų susivienijimai, religinės bendruomenės ir bendrijos, advokatų profesinės bendrijos, sodininkų bendrijos, daugiabučių gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrijos, viešosios įstaigos, kurių dalininkė nėra valstybė ar savivaldybė, šeimynos, kooperatinės bendrovės (kooperatyvai), žemės ūkio bendrovės; 
+1) asociacijos, profesinės sąjungos, profesinių sąjungų susivienijimai, religinės bendruomenės ir bendrijos, advokatų profesinės bendrijos, sodininkų bendrijos, daugiabučių gyvenamųjų namų ar kitos paskirties pastatų savininkų bendrijos, viešosios įstaigos, šeimynos, kooperatinės bendrovės (kooperatyvai), žemės ūkio bendrovės; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
+ 
 
 
 
@@ -665,7 +676,10 @@ KREDITO UNIJOS NARIAI
 
 
 
-6. Jeigu reorganizuojant kredito uniją dalyvauja kredito unijos, kurių buveinės įregistruotos vienos Lietuvos Respublikos apskrities teritorijoje, kurių narystės kriterijai atitinka šio straipsnio 1 dalies 1 punktą, po reorganizavimo veiklą vykdančios kredito unijos narystės kriterijus gali apimti reorganizuojamos ir reorganizavime dalyvaujančios vienos ar kelių kredito unijų narystės kriterijus. Jeigu reorganizuojant kredito uniją dalyvauja kredito unijos, kurių buveinės įregistruotos skirtingose Lietuvos Respublikos apskrityse esančiose savivaldybėse, tokiu atveju po reorganizavimo veiklą vykdančios kredito unijos nariais gali būti fiziniai asmenys, jeigu jie gyvena, dirba arba mokosi Lietuvos Respublikos apskrities, kurios savivaldybėje įregistruota po reorganizavimo veiklą vykdančios kredito unijos buveinė, teritorijoje ir kitų po reorganizavimo veikiančios kredito unijos įstatuose nurodytų savivaldybių, kurios ribojasi su šia apskritimi, teritorijose. Šios nuostatos mutatis mutandis taikomos ir po reorganizavimo veiklą vykdančios kredito unijos asocijuotiems nariams.
+6. Jeigu reorganizuojant kredito uniją dalyvauja kredito unijos, kurių buveinės įregistruotos besiribojančiose savivaldybėse ir kurių narystės kriterijai atitinka šio straipsnio 1 dalies 1 punktą, po reorganizavimo veiklą vykdančios kredito unijos narystės kriterijus gali apimti reorganizuojamos ir reorganizavime dalyvaujančios vienos ar kelių kredito unijų narystės kriterijus. Tuo atveju, kai reorganizuojant kredito uniją dalyvauja kredito unijos, kurių buveinės įregistruotos nesiribojančiose savivaldybėse, po reorganizavimo veiklą vykdančios kredito unijos nariais gali būti fiziniai asmenys, jeigu jie gyvena, dirba arba mokosi savivaldybės, kurioje įregistruota po reorganizavimo veiklą vykdančios kredito unijos buveinė, teritorijoje ir kitų po reorganizavimo veikiančios kredito unijos įstatuose nurodytų savivaldybių, kurios ribojasi su šia savivaldybe, teritorijose. Šios nuostatos mutatis mutandis taikomos ir po reorganizavimo veiklą vykdančios kredito unijos asocijuotiems nariams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
+ 
 
 
 
@@ -1149,7 +1163,10 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 21 straipsnis. Kredito unijos visuotinių narių susirinkimų šaukimo terminai ir tvarka
 
 
-1. Eilinį visuotinį narių susirinkimą šaukia kredito unijos valdyba kasmet ne vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos. Apie šaukiamą eilinį visuotinį narių susirinkimą valdyba privalo ne vėliau kaip prieš 20 dienų iki susirinkimo dienos, be įstatuose nurodytų informavimo būdų, paskelbti kredito unijos interneto svetainėje (jeigu ją kredito unija turi), paskelbti centrinės kredito unijos, kurios nare yra kredito unija, interneto svetainėje ir pranešti kredito unijos nariams raštu vienu iš šių būdų: asmeniškai, paštu ar elektroninių ryšių priemonėmis (elektroniniu paštu, trumpąja (SMS) žinute ar per elektroninės bankininkystės sistemas).
+1. Eilinį visuotinį narių susirinkimą šaukia kredito unijos valdyba kasmet ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos. Apie šaukiamą eilinį visuotinį narių susirinkimą kredito unijos valdyba privalo ne vėliau kaip prieš 20 dienų iki susirinkimo dienos, be įstatuose nurodytų informavimo būdų, paskelbti kredito unijos interneto svetainėje (jeigu ją kredito unija turi), paskelbti centrinės kredito unijos, kurios nare yra kredito unija, interneto svetainėje ir pranešti kredito unijos nariams raštu vienu iš šių būdų: asmeniškai, paštu ar elektroninių ryšių priemonėmis (elektroniniu paštu, trumpąja (SMS) žinute ar per elektroninės bankininkystės sistemas). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
+ 
 
 
 
@@ -1852,7 +1869,10 @@ Kredito unijos vidaus kontrolei taikomus reikalavimus nustato Lietuvos Respublik
 29 straipsnis. Kredito unijos tarnybos ir komitetai
 
 
-1. Kredito unija privalo turėti nuolat veikiančią vidaus audito tarnybą. Vidaus audito tarnybą renka ir atšaukia stebėtojų taryba, o jeigu ji kredito unijoje nesudaroma, – kredito unijos valdyba. Vidaus audito tarnyba už savo veiklą atsiskaito visuotiniam narių susirinkimui ir stebėtojų tarybai, o jeigu ji kredito unijoje nesudaroma, – kredito unijos valdybai kredito unijos įstatuose nustatyta tvarka ne rečiau kaip kartą per metus. 
+1. Kredito unija privalo turėti nuolat veikiančią vidaus audito tarnybą arba atlikti vidaus audito funkciją stebėtojų tarybos sprendimu, o jeigu ji kredito unijoje nesudaroma, – kredito unijos valdybos sprendimu pavesti centrinei kredito unijai, kurios nare ji yra. Vidaus audito tarnybą renka ir atšaukia stebėtojų taryba, o jeigu ji kredito unijoje nesudaroma, – kredito unijos valdyba. Vidaus audito tarnyba už savo veiklą atsiskaito visuotiniam narių susirinkimui ir stebėtojų tarybai, o jeigu ji kredito unijoje nesudaroma, – kredito unijos valdybai kredito unijos įstatuose nustatyta tvarka ne rečiau kaip kartą per metus. Jeigu atlikti kredito unijos vidaus audito funkciją pavedama centrinei kredito unijai, kurios nare ji yra, toks pavedimas nelaikomas kredito unijos veiklą papildančių paslaugų pirkimu ir jam netaikomos šio įstatymo 5 straipsnio 12 dalies nuostatos. Tuo atveju, kai kredito unija atlikti vidaus audito funkciją paveda centrinei kredito unijai, kurios nare ji yra, šio įstatymo nuostatos, reglamentuojančios vidaus auditą, išskyrus šio įstatymo 27 straipsnio 1 dalies 4 punktą, centrinei kredito unijai taikomos mutatis mutandis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
+ 
 
 
 
@@ -2241,7 +2261,10 @@ Kredito unijos perskaičiuotas kapitalas yra kredito unijos kapitalo suma, suma�
 
 
 
-3. Per finansinius metus gautas grynasis finansinis metinės veiklos rezultatas (pelnas arba nuostoliai) turi būti paskirstytas ne vėliau kaip per 3 mėnesius pasibaigus finansiniams metams, kai eilinis kredito unijos visuotinis narių susirinkimas tvirtina metinių finansinių ataskaitų rinkinį.
+3. Neteko galios 2019-06-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
+ 
 
 
 
@@ -2442,10 +2465,17 @@ KREDITO UNIJOS VEIKLOS RIZIKA IR JOS APRIBOJIMAS. KREDITO UNIJOS KLIENTŲ INTERE
 
 
 
-4) valstybės garantuojamos garantijų institucijos, kaip tai apibrėžta Lietuvos Respublikos valstybės skolos įstatyme, garantija.
+4) valstybės garantuojamos garantijų institucijos, kaip tai apibrėžta Lietuvos Respublikos valstybės skolos įstatyme, garantija; 
+
+
+
+
+5) kilnojamojo daikto, įsigyto už skolinimo sandorio lėšas, įkeitimu, tačiau ne daugiau negu 30 procentų skolinimo sumos ir ne ilgesniam kaip 7 metų terminui nuo skolinimo sandorio sudarymo. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
  
-
-
 
 
 
@@ -2600,7 +2630,10 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 
 
 
-2) ne vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos kredito unijos visuotinio narių susirinkimo sprendimu patvirtinti metinių finansinių ataskaitų rinkinį ir priimti sprendimą dėl pelno paskirstymo;
+2) ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos kredito unijos visuotinio narių susirinkimo sprendimu patvirtinti metinių finansinių ataskaitų rinkinį ir priimti sprendimą dėl pelno paskirstymo;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
+ 
 
 
 
@@ -2674,7 +2707,10 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 
 
 
-2. Kredito unijos, kuri nėra pripažinta viešojo intereso įmone pagal Lietuvos Respublikos finansinių ataskaitų audito įstatymą, auditorius negali atlikti tos pačios kredito unijos audito ilgiau kaip 5 finansinius metus iš eilės.
+2. Kredito unijos auditorius negali atlikti tos pačios kredito unijos audito ilgiau kaip 5 finansinius metus iš eilės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
+ 
 
 
 
@@ -3912,3 +3948,8 @@ Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 27, 54, 55, 57, 59, 60, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1307, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11312
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 49, 60 ir 66 straipsnių pakeitimo įstatymo Nr. XIII-1100 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 5, 10, 21, 29, 40, 45, 51, 52 straipsnių pakeitimo ir 52, 53 straipsnių pripažinimo netekusiais galios įstatymas
