@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2019-04-04 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
+ 
+TAR pastaba. Kiekvienos centrinės kredito unijos valdyba savo darbo reglamentą turi priimti valdybos posėdyje ne vėliau kaip per 3 mėnesius nuo įstatymo Nr. XIII-2131 įsigaliojimo dienos (2019-06-01). Iki valdybos darbo reglamento priėmimo valdybos posėdyje centrinės kredito unijos vadovaujasi iki šio įstatymo įsigaliojimo priimtu valdybos darbo reglamentu.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 5, 15, 17, 20, 30, 32 ir 42 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-01-01:
 Nr. XII-2566, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20319
@@ -294,7 +299,15 @@ Nr. XIII-2023, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05394
 
 
 
-5) atlikdama kredito unijų stebėseną ir tikrinimą nustačiusi pažeidimus ar trūkumus, duoti nurodymus kredito unijoms centrinės kredito unijos narėms per nurodytą terminą juos pašalinti ir užtikrinti, kad nustatyti pažeidimai ir trūkumai nesikartotų, arba imtis kitų šiame įstatyme, centrinės kredito unijos įstatuose ir centrinės kredito unijos su kredito unijomis sudarytose sutartyse nustatytų veiksmų.
+5) atlikdama kredito unijų stebėseną ir tikrinimą nustačiusi pažeidimus ar trūkumus, duoti nurodymus kredito unijoms centrinės kredito unijos narėms per nurodytą terminą juos pašalinti ir užtikrinti, kad nustatyti pažeidimai ir trūkumai nesikartotų, arba imtis kitų šiame įstatyme, centrinės kredito unijos įstatuose ir centrinės kredito unijos su kredito unijomis sudarytose sutartyse nustatytų veiksmų;
+
+
+
+
+6) atlikti kredito unijose centrinės kredito unijos narėse vidaus audito ir atitikties funkcijas. Atlikdama šiame punkte nurodytas funkcijas, centrinė kredito unija privalo funkciškai jas atskirti nuo kitų centrinės kredito unijos atliekamų funkcijų. 
+Papildyta straipsnio punktu:
+Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
+ 
 
 
 
@@ -800,17 +813,41 @@ CENTRINĖS KREDITO UNIJOS NARIAI
 
 
 
-4. Apie pateiktus pagal šio straipsnio 1 ir 2 dalių nuostatas pranešimus centrinė kredito unija nedelsdama informuoja priežiūros instituciją ir paskelbia viešai centrinės kredito unijos interneto svetainėje. 
+4. Apie pateiktus pagal šio straipsnio 1 ir 2 dalių nuostatas pranešimus centrinė kredito unija nedelsdama informuoja priežiūros instituciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
+ 
 
 
 
 
-5. Centrinė kredito unija, grąžindama asmeniui, kurio narystė centrinėje kredito unijoje pasibaigė, pajinius įnašus, privalo juos proporcingai, atsižvelgdama į tų metų, kuriais narystė centrinėje kredito unijoje pasibaigė, centrinės kredito unijos metinėje balansinėje ataskaitoje įrašytas centrinės kredito unijos nuostolių sumas, sumažinti.
+5. Centrinė kredito unija, grąžindama asmeniui, kurio narystė centrinėje kredito unijoje pasibaigė, pajinius įnašus, turi teisę atidėti pajinių įnašų visos sumos grąžinimą ar apriboti pajinių įnašų dalies sumos grąžinimą neribotam laikui, jeigu toks atidėjimas ar apribojimas yra pagrįstas ir proporcingas atsižvelgiant į 2014 m. sausio 7 d. Komisijos deleguotojo reglamento (ES) Nr. 241/2014, kuriuo papildomos Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 nuostatos, susijusios su įstaigų nuosavų lėšų reikalavimų techniniais reguliavimo standartais (OL 2014 L 74, p. 8) (toliau – Reglamentas (ES) Nr. 241/2014), 10 straipsnio 3 dalies nuostatas. Apie sprendimą atsiskaityti, atidėti pajinių įnašų visos sumos grąžinimą ar apriboti pajinių įnašų dalies sumos grąžinimą asmeniui, kurio narystė centrinėje kredito unijoje pasibaigė, centrinė kredito unija nedelsdama privalo raštu pranešti priežiūros institucijai. Išnykus pajinių įnašų grąžinimo atidėjimo ar apribojimo pagrindui, centrinė kredito unija privalo nedelsdama spręsti klausimą dėl pajinių įnašų visos ar dalies sumos grąžinimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
+ 
 
 
 
 
-6. Su asmeniu, kurio narystė centrinėje kredito unijoje pasibaigė, centrinė kredito unija atsiskaito išmokėdama jam priklausantį pajinį įnašą tik tada, kai įvertinusi centrinės kredito unijos finansinę būklę nustato, kad atsiskaitymas nekels grėsmės centrinės kredito unijos veiklos stabilumui ir patikimumui. Apie sprendimą atsiskaityti su asmeniu, kurio narystė centrinėje kredito unijoje pasibaigė, centrinė kredito unija nedelsdama privalo raštu pranešti priežiūros institucijai ir teisės aktų nustatyta tvarka gauti priežiūros institucijos leidimą mažinti kapitalą.
+6. Centrinė kredito unija gali atsiskaityti su asmeniu, kurio narystė centrinėje kredito unijoje pasibaigė, tik gavusi priežiūros institucijos leidimą grąžinti pajinius įnašus. Priežiūros institucijos leidimas grąžinti pajinius įnašus išduodamas vadovaujantis Reglamento (ES) Nr. 575/2013 ir Reglamento (ES) Nr. 241/2014 nuostatomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
+ 
+
+
+
+
+7. Centrinė kredito unija, gavusi priežiūros institucijos sprendimą dėl leidimo grąžinti pajinius įnašus asmeniui, kurio narystė centrinėje kredito unijoje pasibaigė, nedelsdama jį informuoja apie šį sprendimą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
+ 
+
+
+
+
+8. Asmeniui, kurio narystė centrinėje kredito unijoje pasibaigė, grąžinami pajiniai įnašai ar jų dalis ir išmokamos apyvartai proporcingos išmokos ir (ar) dividendai, jeigu dėl jų išmokėjimo už tuos metus yra priimtas centrinės kredito unijos visuotinio narių susirinkimo sprendimas. Grąžinami pajiniai įnašai ar jų dalis proporcingai sumažinami centrinės kredito unijos ankstesnių metų sukauptų nuostolių ir einamųjų metų, kuriais narystė centrinėje kredito unijoje pasibaigė, veiklos rezultato suma. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
  
 
 
@@ -859,7 +896,10 @@ CENTRINĖS KREDITO UNIJOS VALDYMAS
 
 
 
-2. Eilinis centrinės kredito unijos visuotinis narių susirinkimas šaukiamas kiekvienais metais, bet ne vėliau kaip per 3 mėnesius nuo finansinių metų pabaigos. Centrinės kredito unijos visuotinis narių susirinkimas, be kitų įstatymuose nustatytų pagrindų, šaukiamas ir priežiūros institucijos nurodymu.
+2. Eilinis centrinės kredito unijos visuotinis narių susirinkimas šaukiamas kiekvienais metais, ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos. Centrinės kredito unijos visuotinis narių susirinkimas, be kitų įstatymuose nustatytų pagrindų, šaukiamas ir priežiūros institucijos nurodymu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
+ 
 
 
 
@@ -1182,12 +1222,25 @@ CENTRINĖS KREDITO UNIJOS VALDYMAS
 
 
 
-5. Valdybos posėdžiai, be valdybos darbo reglamente numatytų atvejų, šaukiami ir priežiūros institucijos nurodymu.
+5. Centrinės kredito unijos valdybos darbo tvarką nustato jos priimtas centrinės kredito unijos valdybos darbo reglamentas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
+ 
 
 
 
 
-6. Valdybos nariu negali būti centrinės kredito unijos stebėtojų tarybos narys, stabilizacijos fondo komisijos narys, vidaus audito tarnybos narys.
+6. Valdybos posėdžiai, be valdybos darbo reglamente numatytų atvejų, šaukiami ir priežiūros institucijos nurodymu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
+ 
+
+
+
+
+7. Valdybos nariu negali būti centrinės kredito unijos stebėtojų tarybos narys, stabilizacijos fondo komisijos narys, vidaus audito tarnybos narys.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
  
 
 
@@ -1711,7 +1764,10 @@ Reglamento (ES) Nr. 575/2013 26 straipsnio 1 dalies a–e punktuose nustatytų c
 
 
 
-5. Pajinė įmoka, sumokėta už pagrindinį ir papildomą pajus, gali būti grąžinama šio įstatymo 15 straipsnyje nustatyta tvarka tik narystei centrinėje kredito unijoje pasibaigus. 
+5. Pajinis įnašas, sumokėtas už pagrindinį ir papildomą pajus, gali būti grąžinamas šio įstatymo 15 straipsnyje nustatyta tvarka tik narystei centrinėje kredito unijoje pasibaigus. Jeigu centrinės kredito unijos nare yra valstybė, jai pajinis įnašas, sumokėtas už papildomus pajus, gali būti grąžinamas šio įstatymo 15 straipsnyje nustatyta tvarka ir nepasibaigus narystei centrinėje kredito unijoje laikantis teisės aktuose nustatytų pajinių įnašų grąžinimo reikalavimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
+ 
 
 
 
@@ -1768,7 +1824,10 @@ Reglamento (ES) Nr. 575/2013 26 straipsnio 1 dalies a–e punktuose nustatytų c
 
 
 
-3. Per finansinius metus gautas grynasis finansinis metinės veiklos rezultatas (pelnas arba nuostoliai) turi būti paskirstytas ne vėliau kaip per 3 mėnesius pasibaigus finansiniams metams. Eilinis centrinės kredito unijos visuotinis narių susirinkimas tvirtina metinių finansinių ataskaitų rinkinį.
+3. Neteko galios 2019-06-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
+ 
 
 
 
@@ -2096,7 +2155,10 @@ CENTRINĖS KREDITO UNIJOS APSKAITA, FINANSINIŲ ATASKAITŲ RINKINIAI IR AUDITAS
 42 straipsnis. Finansinių ataskaitų rinkiniai
 
 
-1. Centrinė kredito unija ir centrinės kredito unijos finansinė grupė sudaro tarpinių finansinių ataskaitų rinkinius ir metinių finansinių ataskaitų rinkinius.
+1. Centrinė kredito unija ir centrinės kredito unijos finansinė grupė sudaro tarpinių finansinių ataskaitų rinkinius ir metinių finansinių ataskaitų rinkinius. Centrinės kredito unijos finansinės grupės konsoliduotasis metinių finansinių ataskaitų rinkinys sudaromas priežiūros institucijos teisės aktų nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
+ 
 
 
 
@@ -3565,3 +3627,8 @@ Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 40, 54 ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2023, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05394
 Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 2, 70 straipsnių ir priedo pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2131, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08709
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 5, 15, 17, 20, 30, 32 ir 42 straipsnių pakeitimo įstatymas
