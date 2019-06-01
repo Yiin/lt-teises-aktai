@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-01-02 iki 2019-05-31
+Suvestinė redakcija nuo 2019-06-01 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -786,9 +786,17 @@ Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
 
 
-6) humanitarinei pagalbai teikti.
+6) humanitarinei pagalbai teikti;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
+ 
+
+
+
+
+7) perkeliamųjų asmenų perkėlimo į Lietuvos Respubliką išlaidoms apmokėti.
+Papildyta straipsnio punktu:
+Nr. XIII-2080, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07319
  
 
 
@@ -2156,3 +2164,8 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 5 ir 7 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1632, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18922
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 37 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2080, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07319
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 15 straipsnio pakeitimo įstatymas
