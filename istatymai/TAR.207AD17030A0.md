@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/207ad17030a011e78397ae072f58c508"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2019-06-11 iki 2022-12-29
+ 
+Įstatymas paskelbtas: TAR 2017-05-04, i. k. 2017-07550
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VIEŠŲJŲ PIRKIMŲ ĮSTATYMO NR. I-1491 PAKEITIMO
 ĮSTATYMAS
@@ -7690,14 +7697,16 @@ Pakeisti šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos viešųj�
 
 
 
-„2. Atliekant mažos vertės pirkimus, taikomos šio įstatymo I skyriaus, 26, 31, 34 straipsnių, 58 straipsnio 1 dalies, 82 straipsnio, 86 straipsnio 5, 6, 7 ir 9 dalių, 91 straipsnio, VI ir VII skyrių nuostatos ir Viešųjų pirkimų tarnybos patvirtintame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu neskelbiamas mažos vertės pirkimas atliekamas šio įstatymo 31 straipsnio 3 dalies 2 ir 4 punktuose, 71 straipsnio 1 dalies 2 punkte, 3 dalies 2, 3 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis, 22 straipsnyje nustatytų reikalavimų, išskyrus šio įstatymo 22 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Taip pat gali būti nesilaikoma šio įstatymo 82 straipsnyje nustatytų reikalavimų, jeigu neskelbiamas mažos vertės pirkimas atliekamas vadovaujantis šio įstatymo 31 straipsnio 3 dalies 4 punkto nuostatomis.“
+„2. Atliekant mažos vertės pirkimus, taikomos šio įstatymo I skyriaus, 26, 31, 34 straipsnių, 58 straipsnio 1 dalies, 82 straipsnio, 86 straipsnio 5, 6, 7 ir 9 dalių, 91 straipsnio, VI ir VII skyrių nuostatos ir Viešųjų pirkimų tarnybos patvirtintame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu neskelbiamas mažos vertės pirkimas atliekamas šio įstatymo 31 straipsnio 3 dalies 1, 2 ir 4 punktuose, 71 straipsnio 1 dalies 2 punkte, 3 dalies 2, 3 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis, 22 straipsnyje nustatytų reikalavimų, išskyrus šio įstatymo 22 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Taip pat gali būti nesilaikoma šio įstatymo 82 straipsnyje nustatytų reikalavimų, jeigu neskelbiamas mažos vertės pirkimas atliekamas vadovaujantis šio įstatymo 31 straipsnio 3 dalies 4 punkto nuostatomis.“ 
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2161, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09414
  
-
-
-
-
-
-
 
 
 
@@ -7730,12 +7739,18 @@ Pakeisti šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos viešųj�
 
 
 
-2. Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos viešųjų pirkimų įstatymo 19 straipsnio 6 dalis ir 92 straipsnio 9 dalis įsigalioja 2020 m. liepos 1 d.
+2. Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos viešųjų pirkimų įstatymo 19 straipsnio 6 dalis ir 92 straipsnio 9 dalis įsigalioja 2023 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2161, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09414
+ 
 
 
 
 
-3. Šio įstatymo 2 straipsnis įsigalioja 2020 m. sausio 1 d.
+3. Šio įstatymo 2 straipsnis įsigalioja 2023 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2161, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09414
+ 
 
 
 
@@ -7776,4 +7791,14 @@ Pakeisti šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos viešųj�
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2161, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09414
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymo Nr. XIII-327 2 ir 4 straipsnių pakeitimo įstatymas
