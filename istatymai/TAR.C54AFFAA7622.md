@@ -13,14 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-06-10
+Suvestinė redakcija nuo 2019-06-11 iki 2019-10-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
  
-TAR pastaba. Iki įstatymo Nr. XIII-1330 įsigaliojimo (2019-01-01) pradėtos viešųjų pirkimų procedūros tęsiamos, sudarytų preliminariųjų sutarčių pagrindu atnaujintas tiekėjų varžymasis vyksta, pagal sukurtą dinaminę pirkimo sistemą pirkimai atliekami pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
+TAR pastaba. Iki įstatymo Nr. XIII-2158 įsigaliojimo pradėtos pirkimų procedūros tęsiamos, sudarytų preliminariųjų sutarčių pagrindu atnaujintas tiekėjų varžymasis atliekamas, pradėtų pirkimų ataskaitos ir elektroninės sąskaitos faktūros pagal pirkimo sutartis, sudarytas pagal iki šio įstatymo įsigaliojimo pradėtas pirkimo procedūras, teikiamos pagal tuo metu galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
-Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 46, 92 ir 95 straipsnių pakeitimo įstatymas
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-07-01:
 Nr. XIII-327, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07550
@@ -230,7 +230,10 @@ PIRMASIS SKIRSNIS
 
 
 
-2) jame pasiūlyta kaina viršija viešajam pirkimui skirtas lėšas, perkančiosios organizacijos nustatytas prieš pradedant pirkimo procedūrą;
+2) jame pasiūlyta kaina viršija viešajam pirkimui skirtas lėšas, perkančiosios organizacijos nustatytas prieš pradedant pirkimo procedūrą, išskyrus šio įstatymo 45 straipsnio 1 dalies 5 punkte numatytus atvejus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -412,47 +415,81 @@ c) turi administraciją, valdymo ar priežiūros organą, kurio daugiau kaip pus
 
 
 
-40. Viešojo pirkimo kandidatas (toliau – kandidatas) – tiekėjas, raštu išreiškęs siekį būti pakviestas arba jau pakviestas dalyvauti dialoge, kai pirkimas atliekamas konkurencinio dialogo būdu, ar pateikti pasiūlymo, kai pirkimas atliekamas riboto konkurso, skelbiamų derybų, neskelbiamų derybų arba inovacijų partnerystės būdu.
+40. Viešojo pirkimo iniciatorius (toliau – pirkimo iniciatorius) – perkančiosios organizacijos darbuotojas, kuris nurodo poreikį viešojo pirkimo būdu įsigyti reikalingų prekių, paslaugų arba darbų ir (ar) parengia jų techninę specifikaciją ir (ar) jos projektą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
 
-41. Viešojo pirkimo paraiška (toliau – paraiška) – tiekėjo raštu pateikiamų dokumentų ir duomenų visuma, kuria reiškiamas pageidavimas dalyvauti šiais būdais atliekamame pirkime: riboto konkurso, skelbiamų derybų, konkurencinio dialogo arba inovacijų partnerystės.
+41. Viešojo pirkimo kandidatas (toliau – kandidatas) – tiekėjas, raštu išreiškęs siekį būti pakviestas arba jau pakviestas dalyvauti dialoge, kai pirkimas atliekamas konkurencinio dialogo būdu, ar pateikti pasiūlymo, kai pirkimas atliekamas riboto konkurso, skelbiamų derybų, neskelbiamų derybų arba inovacijų partnerystės būdu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
 
-42. Viešojo pirkimo–pardavimo sutarties arba preliminariosios viešojo pirkimo–pardavimo sutarties sudarymo atidėjimo terminas (toliau – atidėjimo terminas) – pagal šio įstatymo reikalavimus nustatytas laikotarpis, kuris prasideda nuo pranešimo apie sprendimą nustatyti laimėjusį viešojo pirkimo pasiūlymą išsiuntimo iš perkančiosios organizacijos suinteresuotiems kandidatams ir suinteresuotiems dalyviams dienos ir kuriam pasibaigus sudaroma viešojo pirkimo–pardavimo sutartis arba preliminarioji viešojo pirkimo–pardavimo sutartis.
+42. Viešojo pirkimo paraiška (toliau – paraiška) – tiekėjo raštu pateikiamų dokumentų ir duomenų visuma, kuria reiškiamas pageidavimas dalyvauti šiais būdais atliekamame pirkime: riboto konkurso, skelbiamų derybų, konkurencinio dialogo arba inovacijų partnerystės.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
 
-43. Viešojo pirkimo–pardavimo sutartis (toliau – pirkimo sutartis) – šio įstatymo nustatyta tvarka dėl ekonominės naudos vieno ar daugiau ūkio subjektų ir vienos ar kelių perkančiųjų organizacijų raštu, išskyrus šiame įstatyme nustatytus atvejus, kai pirkimo sutartis gali būti sudaroma žodžiu, sudaroma sutartis, kurios dalykas yra prekės, paslaugos ar darbai. Ekonomine nauda laikomas piniginis atlygis arba kitoks atlygis tiekėjui, pavyzdžiui, teisė nemokėti mokesčių, pasinaudoti pirkimo sutarties vykdymo rezultatu, galimybė gauti pajamas iš trečiųjų asmenų ir panašiai.
+43. Viešojo pirkimo–pardavimo sutarties arba preliminariosios viešojo pirkimo–pardavimo sutarties sudarymo atidėjimo terminas (toliau – atidėjimo terminas) – pagal šio įstatymo reikalavimus nustatytas laikotarpis, kuris prasideda nuo pranešimo apie sprendimą nustatyti laimėjusį viešojo pirkimo pasiūlymą išsiuntimo iš perkančiosios organizacijos suinteresuotiems kandidatams ir suinteresuotiems dalyviams dienos ir kuriam pasibaigus sudaroma viešojo pirkimo–pardavimo sutartis arba preliminarioji viešojo pirkimo–pardavimo sutartis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
 
-44. Viešojo pirkimo pasiūlymas (toliau – pasiūlymas) – tiekėjo raštu pateikiamų dokumentų ir duomenų visuma ar žodžiu pateiktas siūlymas tiekti prekes, teikti paslaugas ar atlikti darbus pagal perkančiosios organizacijos pirkimo dokumentuose nustatytas sąlygas.
+44. Viešojo pirkimo–pardavimo sutartis (toliau – pirkimo sutartis) – šio įstatymo nustatyta tvarka dėl ekonominės naudos vieno ar daugiau ūkio subjektų ir vienos ar kelių perkančiųjų organizacijų raštu, išskyrus šiame įstatyme nustatytus atvejus, kai pirkimo sutartis gali būti sudaroma žodžiu, sudaroma sutartis, kurios dalykas yra prekės, paslaugos ar darbai. Ekonomine nauda laikomas piniginis atlygis arba kitoks atlygis tiekėjui, pavyzdžiui, teisė nemokėti mokesčių, pasinaudoti pirkimo sutarties vykdymo rezultatu, galimybė gauti pajamas iš trečiųjų asmenų ir panašiai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
 
-45. Viešojo pirkimo subtiekimo sutartis (toliau – subtiekimo sutartis) – laimėjusio dalyvio ir vieno arba kelių ūkio subjektų (toliau – subtiekėjai) arba subtiekėjo ir vieno arba kelių ūkio subjektų (toliau kartu – subtiekėjai) raštu ar žodžiu sudaroma sutartis dėl ekonominės naudos tiekti prekes, teikti paslaugas ar atlikti darbus, nurodytus perkančiosios organizacijos su laimėjusiu dalyviu sudarytoje pirkimo sutartyje.
+45. Viešojo pirkimo pasiūlymas (toliau – pasiūlymas) – tiekėjo raštu pateikiamų dokumentų ir duomenų visuma ar žodžiu pateiktas siūlymas tiekti prekes, teikti paslaugas ar atlikti darbus pagal perkančiosios organizacijos pirkimo dokumentuose nustatytas sąlygas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
 
-46. Ženklinimo dokumentas – sertifikatas, liudijimas ar kitas dokumentas, kuriais patvirtinama, kad darbai, prekės, paslaugos, procesai ar procedūros atitinka ženklinimo reikalavimus.
+46. Viešojo pirkimo subtiekimo sutartis (toliau – subtiekimo sutartis) – laimėjusio dalyvio ir vieno arba kelių ūkio subjektų (toliau – subtiekėjai) arba subtiekėjo ir vieno arba kelių ūkio subjektų (toliau kartu – subtiekėjai) raštu ar žodžiu sudaroma sutartis dėl ekonominės naudos tiekti prekes, teikti paslaugas ar atlikti darbus, nurodytus perkančiosios organizacijos su laimėjusiu dalyviu sudarytoje pirkimo sutartyje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
 
-47. Ženklinimo reikalavimai – reikalavimai, kuriuos turi atitikti prekės, paslaugos, darbai, procesai ar procedūros, kad būtų išduotas ženklinimo dokumentas.
+47. Ženklinimo dokumentas – sertifikatas, liudijimas ar kitas dokumentas, kuriais patvirtinama, kad darbai, prekės, paslaugos, procesai ar procedūros atitinka ženklinimo reikalavimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
 
-48. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos baudžiamajame kodekse, Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme, Lietuvos Respublikos visuomenės informavimo įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme.
+48. Ženklinimo reikalavimai – reikalavimai, kuriuos turi atitikti prekės, paslaugos, darbai, procesai ar procedūros, kad būtų išduotas ženklinimo dokumentas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
+
+
+
+
+49. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos baudžiamajame kodekse, Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatyme, Lietuvos Respublikos visuomenės informavimo įstatyme, Lietuvos Respublikos finansinių priemonių rinkų įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
 
 
@@ -897,7 +934,10 @@ e) kitų teisinių paslaugų, susijusių su viešosios valdžios funkcijų atlik
 
 
 
-2) reikalauja iš tiekėjo, kad vykdant vidaus sandorius pridėtinės vertės mokesčio sąskaitos faktūros, sąskaitos faktūros, kreditiniai ir debetiniai dokumentai bei avansinės sąskaitos būtų teikiami naudojantis informacinės sistemos „E. sąskaita“ priemonėmis; 
+2) reikalauja iš tiekėjo, kad vykdant vidaus sandorius sąskaitos už įsigyjamas prekes, paslaugas ir darbus (toliau – sąskaitos faktūros) būtų teikiamos šio įstatymo 22 straipsnio 3 dalyje nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -1136,18 +1176,10 @@ PIRKIMŲ YPATUMAI
 
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos patvirtina šių pirkimų tvarkos aprašus:
-
-
-1) mokslinių tyrimų ir eksperimentinės plėtros paslaugų, kurių BVPŽ kodai yra nuo 73000000-2 iki 73120000-9, 73300000-5, 73420000-2 ir 73430000-5, pirkimų, kuriems šio įstatymo reikalavimai netaikomi pagal šio straipsnio 1 dalį ir kuriais siekiama tenkinti mokslo ir studijų institucijų poreikius;
-
-
-
-
-2) mokslinių tyrimų ir eksperimentinės plėtros paslaugų, kurių BVPŽ kodai yra nuo 73000000-2 iki 73120000-9, 73300000-5, 73420000-2 ir 73430000-5, pirkimų, kuriems šio įstatymo reikalavimai netaikomi pagal šio straipsnio 1 dalį ir kuriais siekiama sukurti inovatyvųjį produktą, paslaugą ar darbus (toliau – inovatyvusis produktas) ir taip tenkinti viešojo sektoriaus poreikius.
+2. Šio straipsnio 1 dalyje nurodytų mokslinių tyrimų ir eksperimentinės plėtros paslaugų pirkimų, kurie netenkina šio straipsnio 1 dalyje nurodytų sąlygų, tvarką nustato Lietuvos Respublikos Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
-
-
 
 
 
@@ -1226,6 +1258,13 @@ BENDROSIOS TAISYKLĖS
 
 
 4. Atsižvelgiant į Pasaulio prekybos organizacijos sutartį dėl viešųjų pirkimų ir kitus tarptautinius susitarimus, kurie yra privalomi valstybėms narėms, perkančioji organizacija pirkimų metu turi taikyti vienodas sąlygas trečiųjų šalių, pasirašiusių atitinkamus tarptautinius susitarimus, ir valstybių narių tiekėjams, darbams, prekėms ir paslaugoms.
+
+
+
+
+5. Perkančioji organizacija, veikianti gynybos srityje arba srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, atlikdama su nacionaliniu saugumu susijusių prekių, paslaugų ar darbų pirkimus, įvertina visus galinčius kelti grėsmę nacionalinio saugumo interesams rizikos veiksnius ir sprendžia, ar šiuose pirkimuose gali dalyvauti tiekėjai ir jo subtiekėjai, kurie nėra registruoti (jeigu tiekėjas ar subtiekėjas yra fizinis asmuo – nuolat gyvenantys) Europos Sąjungos valstybėje narėje, Šiaurės Atlanto sutarties organizacijos valstybėje narėje ar trečiojoje šalyje, pasirašiusioje šio straipsnio 4 dalyje nurodytus tarptautinius susitarimus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
 
 
@@ -1257,7 +1296,10 @@ BENDROSIOS TAISYKLĖS
 19 straipsnis. Viešojo pirkimo komisija, ekspertai, stebėtojai 
 
 
-1. Perkančioji organizacija pirkimo (pirkimų) procedūroms atlikti privalo (mažos vertės pirkimų procedūroms, pagal preliminariąją sutartį atliekamoms atnaujinto tiekėjų varžymosi procedūroms – gali) sudaryti viešojo pirkimo komisiją (toliau – Komisija), nustatyti jai užduotis ir suteikti visus įgaliojimus toms užduotims atlikti. Jeigu perkančioji organizacija pirkimų procedūroms atlikti įgalioja kitą perkančiąją organizaciją, šiuos veiksmus atlieka įgaliotoji organizacija. Komisija dirba pagal ją sudariusios perkančiosios organizacijos patvirtintą darbo reglamentą, yra jai atskaitinga ir vykdo tik rašytines jos užduotis ir įpareigojimus. 
+1. Perkančioji organizacija pirkimo (pirkimų) procedūroms atlikti privalo (mažos vertės pirkimų procedūroms, pagal preliminariąją sutartį atliekamoms atnaujinto tiekėjų varžymosi procedūroms, dinaminės pirkimo sistemos pagrindu atliekamo kiekvieno konkretaus pirkimo procedūroms – gali) sudaryti viešojo pirkimo komisiją (toliau – Komisija), nustatyti jai užduotis ir suteikti visus įgaliojimus toms užduotims atlikti. Jeigu perkančioji organizacija atlikti pirkimų procedūras įgalioja kitą perkančiąją organizaciją, šiuos veiksmus atlieka įgaliotoji organizacija. Komisija dirba pagal ją sudariusios perkančiosios organizacijos patvirtintą darbo reglamentą, yra jai atskaitinga ir vykdo tik rašytines jos užduotis ir įpareigojimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -1283,7 +1325,9 @@ BENDROSIOS TAISYKLĖS
 
 
 6. Komisijos posėdžiai gali vykti Centrinės viešųjų pirkimų informacinės sistemos priemonėmis.
-TAR pastaba. 6 dalis įsigalioja 2020-07-01.
+TAR pastaba. 6 dalis įsigalioja 2023-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2161, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09414
  
 
 
@@ -1299,7 +1343,7 @@ TAR pastaba. 6 dalis įsigalioja 2020-07-01.
 
 
 
-2. Visas tiekėjo pasiūlymas ir paraiška negali būti laikomi konfidencialia informacija, tačiau tiekėjas gali nurodyti, kad tam tikra jo pasiūlyme pateikta informacija yra konfidenciali. Konfidencialia informacija gali būti, įskaitant, bet ja neapsiribojant, komercinė (gamybinė) paslaptis ir konfidencialieji pasiūlymų aspektai. Konfidencialia negalima laikyti informacijos:
+2. Visas tiekėjo pasiūlymas ir paraiška negali būti laikomi konfidencialia informacija, tačiau tiekėjas gali nurodyti, kad tam tikra jo pasiūlyme pateikta informacija yra konfidenciali. Konfidencialia informacija gali būti, pavyzdžiui, komercinė (gamybinė) paslaptis ir konfidencialieji pasiūlymų aspektai. Konfidencialia negalima laikyti informacijos:
 
 
 1) jeigu tai pažeistų įstatymus, nustatančius informacijos atskleidimo ar teisės gauti informaciją reikalavimus, ir šių įstatymų įgyvendinamuosius teisės aktus;
@@ -1307,19 +1351,22 @@ TAR pastaba. 6 dalis įsigalioja 2020-07-01.
 
 
 
-2) jeigu tai pažeistų šio įstatymo 33 ir 58 straipsniuose nustatytus reikalavimus dėl paskelbimo apie sudarytą pirkimo sutartį, kandidatų ir dalyvių informavimo, įskaitant informaciją apie pasiūlyme nurodytą prekių, paslaugų ar darbų kainą, išskyrus jos sudedamąsias dalis;
+2) jeigu tai pažeistų šio įstatymo 33, 58 straipsniuose ir 86 straipsnio 9 dalyje nustatytus reikalavimus dėl paskelbimo apie sudarytą pirkimo sutartį, kandidatų ir dalyvių informavimo, laimėjusio dalyvio pasiūlymo, sudarytos pirkimo sutarties, preliminariosios sutarties ir šių sutarčių pakeitimų paskelbimo, įskaitant informaciją apie pasiūlyme nurodytą prekių, paslaugų ar darbų kainą, išskyrus jos sudedamąsias dalis;
 
 
 
 
-3) pateiktos tiekėjų pašalinimo pagrindų nebuvimą, atitiktį kvalifikacijos reikalavimams, kokybės vadybos sistemos ir aplinkos apsaugos vadybos sistemos standartams patvirtinančiuose dokumentuose, išskyrus informaciją, kurią atskleidus būtų pažeisti Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo reikalavimai ar tiekėjo įsipareigojimai pagal su trečiaisiais asmenimis sudarytas sutartis;
+3) pateiktos tiekėjų pašalinimo pagrindų nebuvimą, atitiktį kvalifikacijos reikalavimams, kokybės vadybos sistemos ir aplinkos apsaugos vadybos sistemos standartams patvirtinančiuose dokumentuose, išskyrus informaciją, kurią atskleidus būtų pažeisti tiekėjo įsipareigojimai pagal su trečiaisiais asmenimis sudarytas sutartis, – tuo atveju, kai ši informacija reikalinga tiekėjui jo teisėtiems interesams ginti;
 
 
 
 
-4) informacija apie pasitelktus ūkio subjektus, kurių pajėgumais remiasi tiekėjas, ir subtiekėjus, išskyrus informaciją, kurią atskleidus būtų pažeisti Asmens duomenų teisinės apsaugos įstatymo reikalavimai.
+4) informacija apie pasitelktus ūkio subjektus, kurių pajėgumais remiasi tiekėjas, ir subtiekėjus – tuo atveju, kai ši informacija reikalinga tiekėjui jo teisėtiems interesams ginti. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -1345,7 +1392,10 @@ TAR pastaba. 6 dalis įsigalioja 2020-07-01.
 21 straipsnis. Interesų konfliktas
 
 
-1. Pirkimuose kylantiems interesų konfliktams priskiriami atvejai, kai perkančiosios organizacijos ar pagalbinės pirkimų veiklos paslaugų teikėjo darbuotojai, Komisijos nariai ar ekspertai, stebėtojai, dalyvaujantys pirkimo procedūroje ar galintys daryti įtaką jos rezultatams, turi tiesioginį ar netiesioginį finansinį, ekonominį ar kitokio pobūdžio asmeninį suinteresuotumą, galintį pakenkti jų nešališkumui ir nepriklausomumui pirkimo metu.
+1. Pirkimuose kylantiems interesų konfliktams priskiriami atvejai, kai perkančiosios organizacijos ar pagalbinės pirkimų veiklos paslaugų teikėjo darbuotojai, pirkimo iniciatoriai, Komisijos nariai ar ekspertai, stebėtojai, dalyvaujantys pirkimo procedūroje ar galintys daryti įtaką jos rezultatams, turi tiesioginį ar netiesioginį finansinį, ekonominį ar kitokio pobūdžio asmeninį suinteresuotumą, galintį pakenkti jų nešališkumui ir nepriklausomumui pirkimo metu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -1376,7 +1426,10 @@ TAR pastaba. 6 dalis įsigalioja 2020-07-01.
 
 
 
-3. Pasirašant ar nutraukiant pirkimo ir preliminariąsias sutartis, vykdant ir keičiant pirkimo sutartis, perkančiosios organizacijos ir tiekėjo bendravimas ir keitimasis informacija gali vykti ne Centrinės viešųjų pirkimų informacinės sistemos priemonėmis. Vykdant pirkimo sutartis, pridėtinės vertės mokesčio sąskaitos faktūros, sąskaitos faktūros, kreditiniai ir debetiniai dokumentai bei avansinės sąskaitos turi būti teikiami naudojantis informacinės sistemos „E. sąskaita“ priemonėmis, išskyrus šio straipsnio 12 dalyje nustatytus atvejus ir kai pirkimo sutartys sudaromos žodžiu. 
+3. Pasirašant ar nutraukiant pirkimo ir preliminariąsias sutartis, vykdant ir keičiant pirkimo sutartis, perkančiosios organizacijos ir tiekėjo bendravimas ir keitimasis informacija gali vykti ne Centrinės viešųjų pirkimų informacinės sistemos priemonėmis. Vykdant pirkimo sutartis, sąskaitos faktūros teikiamos tik elektroniniu būdu. Elektroninės sąskaitos faktūros, atitinkančios Europos elektroninių sąskaitų faktūrų standartą, kurio nuoroda paskelbta 2017 m. spalio 16 d. Komisijos įgyvendinimo sprendime (ES) 2017/1870 dėl nuorodos į Europos elektroninių sąskaitų faktūrų standartą ir sintaksių sąrašo paskelbimo pagal Europos Parlamento ir Tarybos direktyvą 2014/55/ES (OL 2017 L 266, p. 19) (toliau – Europos elektroninių sąskaitų faktūrų standartas), teikiamos tiekėjo pasirinktomis priemonėmis. Europos elektroninių sąskaitų faktūrų standarto neatitinkančios elektroninės sąskaitos faktūros gali būti teikiamos tik naudojantis informacinės sistemos „E. sąskaita“ priemonėmis. Perkančioji organizacija elektronines sąskaitas faktūras priima ir apdoroja naudodamasi informacinės sistemos „E. sąskaita“ priemonėmis, išskyrus šio straipsnio 12 dalyje nustatytus atvejus ir atvejus, kai pirkimo sutartys sudaromos žodžiu. Šiame straipsnyje elektroninė sąskaita faktūra suprantama kaip sąskaita faktūra, išrašyta, perduota ir gauta tokiu elektroniniu formatu, kuris sudaro galimybę ją apdoroti automatiniu ir elektroniniu būdu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -1491,12 +1544,25 @@ b) jeigu tiekėjo dokumentai pasirašyti kvalifikuotu elektroniniu parašu, patv
 
 
 
-12. Jeigu mobilizacijos, karo ir nepaprastosios padėties atveju yra Centrinės viešųjų pirkimų informacinės sistemos ar informacinės sistemos „E. sąskaita“ pažeidimų, dėl kurių negalimas perkančiojo subjekto ir tiekėjo bendravimas ir keitimasis informacija naudojantis šiomis sistemomis, atliekant pirkimus gali būti naudojamos kitos šiame straipsnyje Centrinei viešųjų pirkimų informacinei sistemai keliamus reikalavimus atitinkančios elektroninės priemonės, vykdant pirkimo sutartis, pridėtinės vertės mokesčio sąskaitos faktūros, sąskaitos faktūros, kreditiniai ir debetiniai dokumentai bei avansinės sąskaitos gali būti teikiami ne elektroninėmis priemonėmis. 
+12. Jeigu mobilizacijos, karo ar nepaprastosios padėties atveju yra Centrinės viešųjų pirkimų informacinės sistemos ar informacinės sistemos „E. sąskaita“ pažeidimų, dėl kurių negalimas perkančiosios organizacijos ir tiekėjo bendravimas ir keitimasis informacija naudojantis šiomis sistemomis, atliekant pirkimus gali būti naudojamos kitos šiame straipsnyje Centrinei viešųjų pirkimų informacinei sistemai keliamus reikalavimus atitinkančios elektroninės priemonės, vykdant pirkimo sutartis sąskaitos faktūros gali būti teikiamos ne elektroninėmis priemonėmis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
 
-13. Institucijos ir kiti subjektai, kompetentingi išduoti atliekant viešojo pirkimo procedūras reikalaujamus dokumentus, gali sudaryti kvalifikuoto parašo formatą pagal Reglamento Nr. 910/2014 27 straipsnyje nurodytus įgyvendinimo aktus. Tokiu atveju turi būti parengtos tam formatui techniškai tvarkyti būtinos priemonės ir informacija. Į tokių dokumentų elektroninį parašą arba elektroninio dokumento laikmeną įtraukiama informacija apie esamas kvalifikuoto elektroninio parašo patvirtinimo galimybes, kuriomis naudojantis gautus elektroninius parašus būtų galima patvirtinti internetu, neatlygintinai ir asmenims, kuriems pateikiamų dokumentų kalba nėra gimtoji, suprantamu būdu.
+13. Informacinė sistema „E. sąskaita“ turi sudaryti galimybes perkančiosioms organizacijoms priimti ir apdoroti elektronines sąskaitas faktūras, atitinkančias Europos elektroninių sąskaitų faktūrų standartą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
+
+
+
+
+14. Institucijos ir kiti subjektai, kompetentingi išduoti atliekant viešojo pirkimo procedūras reikalaujamus dokumentus, gali sudaryti kvalifikuoto parašo formatą pagal Reglamento Nr. 910/2014 27 straipsnyje nurodytus įgyvendinimo aktus. Tokiu atveju turi būti parengtos tam formatui techniškai tvarkyti būtinos priemonės ir informacija. Į tokių dokumentų elektroninį parašą arba elektroninio dokumento laikmeną įtraukiama informacija apie esamas kvalifikuoto elektroninio parašo patvirtinimo galimybes, kuriomis naudojantis gautus elektroninius parašus būtų galima patvirtinti internetu, neatlygintinai ir asmenims, kuriems pateikiamų dokumentų kalba nėra gimtoji, suprantamu būdu.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
 
 
@@ -1537,7 +1603,10 @@ b) jeigu tiekėjo dokumentai pasirašyti kvalifikuotu elektroniniu parašu, patv
 
 
 
-2. Perkančioji organizacija, išskyrus Lietuvos Respublikos diplomatines atstovybes užsienio valstybėse, Lietuvos Respublikos atstovybes prie tarptautinių organizacijų, konsulines įstaigas ir specialiąsias misijas, taip pat kitas perkančiąsias organizacijas, kurios užsienyje įsigyja prekių, paslaugų ar darbų, skirtų užsienyje esantiems jų padaliniams, kariniams atstovams ar specialiesiems atašė, atlikdama supaprastintus pirkimus, ne mažiau kaip 2 procentus visų per kalendorinius metus atliktų supaprastintų pirkimų vertės pirkimų privalo rezervuoti šiame straipsnyje nurodytiems tiekėjams, išskyrus atvejus, kai šie tiekėjai perkančiajai organizacijai reikiamų prekių negamina, paslaugų neteikia ar darbų neatlieka. 
+2. Perkančioji organizacija, atlikdama supaprastintus pirkimus, ne mažiau kaip 2 procentus visų per kalendorinius metus atliktų supaprastintų pirkimų vertės pirkimų privalo rezervuoti šio straipsnio 1 dalyje nurodytiems tiekėjams, išskyrus atvejus, kai šie tiekėjai perkančiajai organizacijai reikiamų prekių negamina, paslaugų neteikia ar darbų neatlieka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -1615,8 +1684,11 @@ b) jeigu tiekėjo dokumentai pasirašyti kvalifikuotu elektroniniu parašu, patv
 
 
 2. Atliekant mažos vertės pirkimus, taikomos šio įstatymo I skyriaus, 31, 34 straipsnių, 58 straipsnio 1 dalies, 82 straipsnio, 86 straipsnio 5, 6, 7 ir 9 dalių, 91 straipsnio, VI ir VII skyrių nuostatos ir Viešųjų pirkimų tarnybos patvirtintame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu neskelbiamas mažos vertės pirkimas atliekamas šio įstatymo 31 straipsnio 3 dalies 2 ir 4 punktuose, 71 straipsnio 1 dalies 2 punkte, 3 dalies 2, 3 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis, 22 straipsnyje nustatytų reikalavimų, išskyrus šio įstatymo 22 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Taip pat gali būti nesilaikoma šio įstatymo 82 straipsnyje nustatytų reikalavimų, jeigu neskelbiamas mažos vertės pirkimas atliekamas vadovaujantis šio įstatymo 31 straipsnio 3 dalies 4 punkto nuostatomis. 
-2 dalies redakcija nuo 2020-01-01:
-2. Atliekant mažos vertės pirkimus, taikomos šio įstatymo I skyriaus, 26, 31, 34 straipsnių, 58 straipsnio 1 dalies, 82 straipsnio, 86 straipsnio 5, 6, 7 ir 9 dalių, 91 straipsnio, VI ir VII skyrių nuostatos ir Viešųjų pirkimų tarnybos patvirtintame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu neskelbiamas mažos vertės pirkimas atliekamas šio įstatymo 31 straipsnio 3 dalies 2 ir 4 punktuose, 71 straipsnio 1 dalies 2 punkte, 3 dalies 2, 3 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis, 22 straipsnyje nustatytų reikalavimų, išskyrus šio įstatymo 22 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Taip pat gali būti nesilaikoma šio įstatymo 82 straipsnyje nustatytų reikalavimų, jeigu neskelbiamas mažos vertės pirkimas atliekamas vadovaujantis šio įstatymo 31 straipsnio 3 dalies 4 punkto nuostatomis.
+2 dalies redakcija nuo 2023-01-01:
+2. Atliekant mažos vertės pirkimus, taikomos šio įstatymo I skyriaus, 26, 31, 34 straipsnių, 58 straipsnio 1 dalies, 82 straipsnio, 86 straipsnio 5, 6, 7 ir 9 dalių, 91 straipsnio, VI ir VII skyrių nuostatos ir Viešųjų pirkimų tarnybos patvirtintame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu neskelbiamas mažos vertės pirkimas atliekamas šio įstatymo 31 straipsnio 3 dalies 1, 2 ir 4 punktuose, 71 straipsnio 1 dalies 2 punkte, 3 dalies 2, 3 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis, 22 straipsnyje nustatytų reikalavimų, išskyrus šio įstatymo 22 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Taip pat gali būti nesilaikoma šio įstatymo 82 straipsnyje nustatytų reikalavimų, jeigu neskelbiamas mažos vertės pirkimas atliekamas vadovaujantis šio įstatymo 31 straipsnio 3 dalies 4 punkto nuostatomis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2161, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09414
+ 
 
 
 
@@ -1651,7 +1723,10 @@ PIRKIMO PLANAVIMAS IR PASIRENGIMAS PIRKIMUI
 26 straipsnis. Pirkimų planai 
 
 
-1. Perkančioji organizacija turi parengti ir patvirtinti planuojamų atlikti einamaisiais kalendoriniais metais pirkimų planus ir pagal Viešųjų pirkimų tarnybos nustatytus reikalavimus ir tvarką Centrinėje viešųjų pirkimų informacinėje sistemoje paskelbti planuojamų atlikti pirkimų suvestinę. Ši suvestinė turi būti paskelbta kiekvienais metais ne vėliau kaip iki kovo 15 dienos, o patikslinus planuojamų atlikti einamaisiais kalendoriniais metais pirkimų planus, – ne vėliau kaip per 5 darbo dienas.
+1. Perkančioji organizacija, išskyrus Lietuvos Respublikos diplomatines atstovybes užsienio valstybėse, Lietuvos Respublikos atstovybes prie tarptautinių organizacijų, konsulines įstaigas ir specialiąsias misijas, taip pat kitas perkančiąsias organizacijas, kurios užsienyje įsigyja prekių, paslaugų ar darbų, skirtų užsienyje esantiems jų padaliniams, kariniams atstovams ar specialiesiems atašė, turi parengti ir patvirtinti planuojamų atlikti einamaisiais kalendoriniais metais pirkimų planus ir pagal Viešųjų pirkimų tarnybos nustatytus reikalavimus ir tvarką Centrinėje viešųjų pirkimų informacinėje sistemoje paskelbti planuojamų atlikti pirkimų suvestinę. Ši suvestinė turi būti paskelbta kiekvienais metais ne vėliau kaip iki kovo 15 dienos, o patikslinus planuojamų atlikti einamaisiais kalendoriniais metais pirkimų planus, – ne vėliau kaip per 5 darbo dienas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -1713,7 +1788,18 @@ PIRKIMO PLANAVIMAS IR PASIRENGIMAS PIRKIMUI
 
 
 
-3. Tais atvejais, kai pirkimo objektas skaidomas į dalis, perkančioji organizacija skelbime apie pirkimą, kvietime patvirtinti susidomėjimą ar kituose pirkimo dokumentuose, kuriais kviečiama dalyvauti pirkime, nurodo:
+3. Statinio statybos darbų ir statinio projektavimo paslaugų pirkimas turi būti atliekamas dalimis (atskiriant statinio statybos darbų pirkimą nuo statinio projektavimo paslaugų pirkimo), kurių kiekvienai numatoma sudaryti atskirą pirkimo sutartį, apibrėžiant šių dalių apimtį ir dalyką. Pareiga skaidyti statinio statybos darbų ir statinio projektavimo paslaugų pirkimą į dalis gali būti netaikoma, jeigu perkančioji organizacija pirkimo dokumentuose pagrindžia, kad dėl to sumažėtų tiekėjų konkurencija, pirkimo sutarties vykdymas taptų per brangus ar sudėtingas techniniu požiūriu, skirtingų pirkimo objekto dalių įgyvendinimas būtų susijęs ir perkančioji organizacija privalėtų koordinuoti šių dalių tiekėjus, o tai keltų riziką netinkamai įvykdyti pirkimo sutartį, ar nurodo kitas pagrįstas aplinkybes, kodėl netikslinga skaidyti statinio statybos darbų ir statinio projektavimo paslaugų pirkimą į atskiras dalis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
+
+
+
+
+4. Tais atvejais, kai pirkimo objektas skaidomas į dalis, perkančioji organizacija skelbime apie pirkimą, kvietime patvirtinti susidomėjimą ar kituose pirkimo dokumentuose, kuriais kviečiama dalyvauti pirkime, nurodo:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 1) dėl kelių pirkimo objekto dalių (vienos, dviejų ar daugiau) tas pats tiekėjas gali pateikti pasiūlymą;
@@ -1727,7 +1813,6 @@ PIRKIMO PLANAVIMAS IR PASIRENGIMAS PIRKIMUI
 
 
 3) ar perkančioji organizacija pasilieka galimybę nuspręsti sudaryti vieną pirkimo sutartį dėl jos nurodytų pirkimo dalių ar jų grupių, dėl kurių pagal pirkimo dokumentus laimėtoju gali būti nustatomas tas pats tiekėjas.
- 
 
 
 
@@ -1925,17 +2010,10 @@ Perkančioji organizacija, atlikdama pirkimą, apie kurį, jos manymu, neprivalo
 
 
 
-2. Skelbimas apie pirkimo sutarties sudarymą, preliminariosios sutarties sudarymą, projekto konkurso rezultatus skelbiamas ne vėliau kaip per 30 dienų po pirkimo sutarties ar preliminariosios sutarties sudarymo arba po projekto konkurso rezultatų patvirtinimo. Šie skelbimai gali būti sugrupuojami ir skelbiami kas ketvirtį:
-
-
-1) pirkimo sutarties sudarymo atlikus šio įstatymo 2 priede nurodytų socialinių ir kitų specialiųjų paslaugų pirkimą ar pirkimo sutarties sudarymo preliminariosios sutarties pagrindu atvejais – ne vėliau kaip per 30 dienų ketvirčiui pasibaigus;
-
-
-
-
-2) pirkimo sutarties sudarymo taikant dinaminę pirkimo sistemą atveju – ne vėliau kaip per 48 dienas ketvirčiui pasibaigus.
-
-
+2. Skelbimas apie pirkimo sutarties sudarymą, preliminariosios sutarties sudarymą, projekto konkurso rezultatus skelbiamas ne vėliau kaip per 30 dienų po pirkimo sutarties ar preliminariosios sutarties sudarymo arba po projekto konkurso rezultatų patvirtinimo. Skelbimai apie pirkimo sutarties sudarymą atlikus šio įstatymo 2 priede nurodytų socialinių ir kitų specialiųjų paslaugų pirkimą ar pirkimo sutarties sudarymą preliminariosios sutarties pagrindu arba pirkimo sutarties sudarymą taikant dinaminę pirkimo sistemą gali būti sugrupuojami ir skelbiami kas ketvirtį ne vėliau kaip per 30 dienų ketvirčiui pasibaigus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -2177,7 +2255,10 @@ PIRKIMO DOKUMENTAI IR TECHNINĖ SPECIFIKACIJA
 
 
 
-22) susipažinimo su pasiūlymais vieta, data, valanda ir minutė;
+22) susipažinimo su pasiūlymais data, o jeigu pirkimas atliekamas ne elektroninėmis priemonėmis, – vieta, data, valanda ir minutė; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -2280,7 +2361,10 @@ PIRKIMO DOKUMENTAI IR TECHNINĖ SPECIFIKACIJA
 
 
 
-5. Jeigu papildomos su pirkimo dokumentais susijusios informacijos paprašoma laiku, perkančioji organizacija ją pateikia visiems tiekėjams ne vėliau kaip likus 6 dienoms iki pasiūlymų pateikimo termino pabaigos. Atviro konkurso, riboto konkurso, skelbiamų derybų pagreitintų procedūrų atvejais, kaip nustatyta šio įstatymo 60 straipsnio 3 dalyje, 62 straipsnio 7 dalyje, šis terminas yra 4 dienos, supaprastinto pirkimo atveju – 3 dienos.
+5. Jeigu papildomos su pirkimo dokumentais susijusios informacijos paprašoma laiku, perkančioji organizacija ją pateikia visiems tiekėjams ne vėliau kaip likus 6 dienoms, supaprastinto pirkimo atveju – 4 dienoms iki pasiūlymų pateikimo termino pabaigos. Atviro konkurso, riboto konkurso, skelbiamų derybų pagreitintų procedūrų atvejais, kaip nustatyta šio įstatymo 60 straipsnio 3 dalyje, 62 straipsnio 7 dalyje, šis terminas yra 4 dienos, supaprastinto pirkimo pagreitintų procedūrų atvejais – 3 dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -2306,7 +2390,10 @@ PIRKIMO DOKUMENTAI IR TECHNINĖ SPECIFIKACIJA
 
 
 
-2. Visų pirkimų, skirtų fiziniams asmenims (visai visuomenei, perkančiosios organizacijos valstybės tarnautojams ar darbuotojams), techninės specifikacijos, išskyrus pagrįstus atvejus, turėtų būti parengtos taip, kad jose būtų atsižvelgta į neįgaliųjų kriterijus ir tinkamumą visiems naudotojams. Jeigu Europos Sąjungos ar nacionaliniu teisės aktu yra nustatyti privalomi neįgaliųjų kriterijai ir tinkamumo visiems naudotojams kriterijai, perkančioji organizacija privalo jais vadovautis rengdama technines specifikacijas. 
+2. Visų pirkimų, skirtų fiziniams asmenims (visai visuomenei, perkančiosios organizacijos valstybės tarnautojams ar darbuotojams), techninės specifikacijos, išskyrus pagrįstus atvejus, turėtų būti parengtos taip, kad jose būtų atsižvelgta į neįgaliųjų kriterijus ir tinkamumą visiems naudotojams. Jeigu Europos Sąjungos ar nacionaliniu teisės aktu yra nustatyti privalomi neįgaliųjų kriterijai ir tinkamumo visiems naudotojams kriterijai, perkančioji organizacija privalo jais vadovautis rengdama technines specifikacijas. Perkančioji organizacija, veikianti gynybos srityje ar valdanti ypatingos svarbos informacinę infrastruktūrą, ar veikianti srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, rengdama su nacionaliniu saugumu susijusių pirkimų technines specifikacijas, turi teisę reikalauti, kad tiekėjo siūlomos prekės, paslaugos ar darbai nekeltų grėsmės nacionaliniam saugumui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -2454,7 +2541,10 @@ TIEKĖJO PARAIŠKOS IR PASIŪLYMO PATEIKIMAS
 4. Perkančioji organizacija privalo pratęsti pasiūlymų pateikimo terminus, kad visi pirkime norintys dalyvauti tiekėjai turėtų galimybę susipažinti su visa pasiūlymui parengti reikalinga informacija, šiais atvejais:
 
 
-1) jeigu dėl kokių nors priežasčių papildoma su pirkimo dokumentais susijusi informacija būtų pateikiama likus mažiau kaip 6 dienoms iki pasiūlymų pateikimo termino pabaigos, nors šios informacijos buvo paprašyta laiku. Atviro konkurso, riboto konkurso, skelbiamų derybų pagreitintų procedūrų atvejais, kaip nustatyta šio įstatymo 60 straipsnio 3 dalyje, 62 straipsnio 7 dalyje, šis terminas yra 4 dienos, supaprastinto pirkimo atveju – 3 dienos; 
+1) jeigu dėl kokių nors priežasčių papildoma su pirkimo dokumentais susijusi informacija būtų pateikiama likus mažiau kaip 6 dienoms, supaprastinto pirkimo atveju – 4 dienoms iki pasiūlymų pateikimo termino pabaigos, nors šios informacijos buvo paprašyta laiku. Atviro konkurso, riboto konkurso, skelbiamų derybų pagreitintų procedūrų atvejais, kaip nustatyta šio įstatymo 60 straipsnio 3 dalyje, 62 straipsnio 7 dalyje, šis terminas yra 4 dienos, supaprastinto pirkimo pagreitintų procedūrų atvejais – 3 dienos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -2580,12 +2670,18 @@ TIEKĖJO PARAIŠKOS IR PASIŪLYMO PATEIKIMAS
 44 straipsnis. Susipažinimas su paraiškomis ar pasiūlymais
 
 
-1. Pradinis susipažinimas su paraiškomis ar pasiūlymais vyksta Komisijos posėdyje. Pradiniu susipažinimu su paraiškomis ar pasiūlymais, pateiktais ne elektroninėmis priemonėmis, laikomas vokų su paraiškomis ar pasiūlymais atplėšimas.
+1. Pradinis susipažinimas su paraiškomis ar pasiūlymais vyksta Komisijos posėdyje, išskyrus atvejus, kai, vadovaujantis šio įstatymo 22 straipsnio 2 dalimi, su paraiškomis ar pasiūlymais susipažįstama naudojantis centrinės perkančiosios organizacijos siūlomomis elektroninėmis priemonėmis. Pradiniu susipažinimu su paraiškomis ar pasiūlymais, pateiktais ne elektroninėmis priemonėmis, laikomas vokų su paraiškomis ar pasiūlymais atplėšimas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
 
-2. Susipažinimas su paraiškomis ar pasiūlymais pradedamas pirkimo dokumentuose nurodytą dieną, valandą ir minutę. Jeigu paraiškos ir pasiūlymai teikiami ne elektroninėmis priemonėmis, Komisijos posėdžio diena ir valanda turi sutapti su paraiškų ar pasiūlymų pateikimo termino pabaiga. Pakeitus šį terminą, atitinkamai turi būti pakeistas ir susipažinimo su paraiškomis ar pasiūlymais laikas. Nustatytu laiku turi įvykti pradinis susipažinimas su visomis paraiškomis ar pasiūlymais, gautais nepasibaigus jų pateikimo terminui.
+2. Susipažinimas su paraiškomis ar pasiūlymais pradedamas pirkimo dokumentuose nurodytą dieną, o jeigu pirkimas atliekamas ne elektroninėmis priemonėmis, – nurodytą dieną, valandą ir minutę. Jeigu paraiškos ir pasiūlymai teikiami ne elektroninėmis priemonėmis, Komisijos posėdžio diena ir valanda turi sutapti su paraiškų ar pasiūlymų pateikimo termino pabaiga. Pakeitus šį terminą, atitinkamai turi būti pakeistas ir susipažinimo su paraiškomis ar pasiūlymais laikas. Nustatytu laiku turi įvykti pradinis susipažinimas su visomis paraiškomis ar pasiūlymais, gautais nepasibaigus jų pateikimo terminui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -2645,7 +2741,10 @@ TIEKĖJO PARAIŠKOS IR PASIŪLYMO PATEIKIMAS
 
 
 
-9. Susipažinimo su paraiškomis ar pasiūlymais procedūros rezultatus Komisija įformina protokolu. Susipažinimo su pasiūlymais procedūros protokolo privalomuosius rekvizitus nustato Viešųjų pirkimų tarnyba.
+9. Susipažinimo su paraiškomis ar pasiūlymais procedūros rezultatus Komisija įformina protokolu, išskyrus atvejus, kai, vadovaujantis šio įstatymo 22 straipsnio 2 dalimi, su paraiškomis ar pasiūlymais susipažįstama naudojantis centrinės perkančiosios organizacijos siūlomomis elektroninėmis priemonėmis. Susipažinimo su pasiūlymais procedūros protokolo privalomuosius rekvizitus nustato Viešųjų pirkimų tarnyba. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -2696,7 +2795,10 @@ TIEKĖJO IR JO PATEIKTOS PARAIŠKOS IR PASIŪLYMO VERTINIMAS
 
 
 
-5) pasiūlyta kaina nėra per didelė ir perkančiajai organizacijai nepriimtina. Laikoma, kad pasiūlyta kaina yra per didelė ir nepriimtina, jeigu ji viršija perkančiosios organizacijos pirkimui skirtas lėšas, nustatytas ir užfiksuotas perkančiosios organizacijos rengiamuose dokumentuose prieš pradedant pirkimo procedūrą. Jeigu ekonomiškai naudingiausiame pasiūlyme nurodyta kaina yra per didelė ir nepriimtina ir perkančioji organizacija pirkimo dokumentuose nėra nurodžiusi pirkimui skirtų lėšų sumos, kiti pasiūlymų eilėje esantys pasiūlymai laimėjusiais negali būti nustatyti;
+5) pasiūlyta kaina neviršija pirkimui skirtų lėšų, nustatytų perkančiosios organizacijos prieš pradedant pirkimo procedūrą. Jeigu ekonomiškai naudingiausiame pasiūlyme nurodyta kaina viršija pirkimui skirtas lėšas, nustatytas perkančiosios organizacijos prieš pradedant pirkimo procedūrą, ir perkančioji organizacija pirkimo dokumentuose nėra nurodžiusi pirkimui skirtų lėšų sumos, kiti pasiūlymų eilėje esantys pasiūlymai laimėjusiais negali būti nustatyti. Pirkimui skirtų lėšų suma, nustatyta ir užfiksuota perkančiosios organizacijos rengiamuose dokumentuose prieš pradedant pirkimo procedūras, gali būti keičiama, kai ji nėra nurodyta pirkimo dokumentuose, perkančiajai organizacijai ekonomiškai naudingiausiame pasiūlyme nurodyta kaina yra priimtina ir perkančioji organizacija gali pagrįsti šios kainos priimtinumą ir suderinamumą su racionalaus lėšų naudojimo principu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -3006,7 +3108,10 @@ c) ėmėsi techninių, organizacinių, personalo valdymo priemonių, skirtų tol
 
 
 
-6. Tikrindama tiekėjo techninį ir profesinį pajėgumą, perkančioji organizacija gali reikalauti žmogiškųjų ir techninių išteklių bei patirties, kurie reikalingi pirkimo sutarčiai įvykdyti pagal pirkimo dokumentuose pirkimo objektui nustatytus kokybės reikalavimus. Reikiama tiekėjo patirtis visų pirma gali būti įrodoma užsakovų pažymomis apie tinkamai įvykdytas ankstesnes sutartis. Perkančioji organizacija gali laikyti, kad tiekėjas neturi reikalaujamo profesinio pajėgumo, jeigu nustato tiekėjo interesų konfliktą, galintį neigiamai paveikti pirkimo sutarties vykdymą. Perkant prekes, kurias numatoma atvežti į vietą ir įrengti, paslaugas ar darbus, tiekėjo profesinis pajėgumas suteikti tokias paslaugas arba atlikti įrengimo ir kitus darbus gali būti vertinamas atsižvelgiant į pirkimo sutartį vykdysiančių jo darbuotojų kvalifikaciją, darbo produktyvumą, patirtį ir patikimumą. 
+6. Tikrindama tiekėjo techninį ir profesinį pajėgumą, perkančioji organizacija gali reikalauti žmogiškųjų ir techninių išteklių bei patirties, kurie reikalingi pirkimo sutarčiai įvykdyti pagal pirkimo dokumentuose pirkimo objektui nustatytus kokybės reikalavimus. Reikiama tiekėjo patirtis visų pirma gali būti įrodoma užsakovų pažymomis apie tinkamai įvykdytas ankstesnes sutartis. Perkančioji organizacija gali laikyti, kad tiekėjas neturi reikalaujamo profesinio pajėgumo, jeigu nustato tiekėjo interesų konfliktą, galintį neigiamai paveikti pirkimo sutarties vykdymą. Perkančioji organizacija, veikianti gynybos srityje ar valdanti ypatingos svarbos informacinę infrastruktūrą, ar veikianti srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, atlikdama pirkimą, susijusį su nacionaliniu saugumu, taip pat gali laikyti, kad tiekėjas turi interesų konfliktą, galintį neigiamai paveikti pirkimo sutarties vykdymą, jeigu turi informacijos, kad tiekėjas ir jo pasitelkiami subtiekėjai turi interesų, galinčių kelti grėsmę nacionaliniam saugumui. Perkant prekes, kurias numatoma atvežti į vietą ir įrengti, paslaugas ar darbus, tiekėjo profesinis pajėgumas suteikti tokias paslaugas arba atlikti įrengimo ir kitus darbus gali būti vertinamas atsižvelgiant į pirkimo sutartį vykdysiančių jo darbuotojų kvalifikaciją, darbo produktyvumą, patirtį ir patikimumą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -3474,7 +3579,10 @@ c) garantinę priežiūrą ir techninę pagalbą, pristatymo sąlygas (pavyzdži
 
 
 
-8. Perkančioji organizacija, norėdama priimti sprendimą dėl laimėjusio pasiūlymo, turi nedelsdama įvertinti pateiktus dalyvių pasiūlymus ir nustatyti pasiūlymų eilę (išskyrus atvejus, kai pasiūlymą pateikti kviečiamas tik vienas tiekėjas arba pasiūlymą pateikia tik vienas tiekėjas). Pasiūlymų eilė nustatoma ekonominio naudingumo mažėjimo tvarka. Tais atvejais, kai kelių tiekėjų pasiūlymų ekonominis naudingumas yra vienodas, sudarant pasiūlymų eilę, pirmesnis į šią eilę įrašomas tiekėjas, kurio pasiūlymas pateiktas anksčiausiai.
+8. Perkančioji organizacija, norėdama priimti sprendimą dėl laimėjusio pasiūlymo, turi nedelsdama įvertinti pateiktus dalyvių pasiūlymus ir nustatyti pasiūlymų eilę (išskyrus atvejus, kai pasiūlymą pateikti kviečiamas tik vienas tiekėjas arba pasiūlymą pateikia tik vienas tiekėjas). Pasiūlymų eilė nustatoma ekonominio naudingumo mažėjimo tvarka. Tais atvejais, kai kelių tiekėjų pasiūlymų ekonominis naudingumas yra vienodas, sudarant pasiūlymų eilę, pirmesnis į šią eilę įrašomas tiekėjas, kurio pasiūlymas pateiktas anksčiausiai, arba pagal preliminariojoje sutartyje nustatytas pirmumo sąlygas, kai taikoma šio įstatymo 22 straipsnio 2 dalis ir tiekėjo pasiūlymas pateikiamas automatiniu būdu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -3485,7 +3593,6 @@ c) garantinę priežiūrą ir techninę pagalbą, pristatymo sąlygas (pavyzdži
 
 
 10. Perkančioji organizacija gali nevertinti viso tiekėjo pasiūlymo, jeigu patikrinusi jo dalį nustato, kad, vadovaujantis šio įstatymo reikalavimais, pasiūlymas turi būti atmestas. Šios dalies nuostata netaikoma, jeigu perkančioji organizacija ketina pasinaudoti šio įstatymo 63 straipsnio 1 dalies 2 punkte nustatyta skelbiamų derybų sąlyga, kai leidžiama pakartotinai nebeskelbti skelbimo apie pirkimą.
- 
 
 
 
@@ -3627,12 +3734,17 @@ d) gyvavimo ciklo pabaigos išlaidas, pavyzdžiui, atliekų surinkimo, perdirbim
 58 straipsnis. Informavimas apie pirkimo procedūros rezultatus 
 
 
-1. Perkančioji organizacija suinteresuotiems kandidatams ir suinteresuotiems dalyviams, išskyrus atvejus, kai pirkimo sutartis sudaroma žodžiu, ne vėliau kaip per 5 darbo dienas raštu praneša apie priimtą sprendimą nustatyti laimėjusį pasiūlymą, dėl kurio bus sudaroma pirkimo sutartis ar preliminarioji sutartis, arba sprendimą leisti dalyvauti dinaminėje pirkimo sistemoje, pateikia šio straipsnio 2 dalyje nurodytos atitinkamos informacijos, kuri dar nebuvo pateikta pirkimo procedūros metu, santrauką, nurodo nustatytą pasiūlymų eilę, laimėjusį pasiūlymą ir tikslų atidėjimo terminą. Perkančioji organizacija taip pat turi nurodyti priežastis, dėl kurių buvo priimtas sprendimas nesudaryti pirkimo sutarties ar preliminariosios sutarties, pradėti pirkimą ar dinaminę pirkimų sistemą iš naujo. Šioje dalyje nurodyto reikalavimo gali būti nesilaikoma, kai supaprastinto pirkimo ar šio įstatymo 2 priede nurodytų socialinių ir kitų specialiųjų paslaugų pirkimų atveju pirkimo sutartis, kurios numatoma vertė neviršija 10 000 Eur (dešimt tūkstančių eurų) (be pridėtinės vertės mokesčio), sudaroma preliminariosios sutarties pagrindu.
+1. Perkančioji organizacija kandidatams ir dalyviams ne vėliau kaip per 5 darbo dienas raštu praneša apie priimtą sprendimą nustatyti laimėjusį pasiūlymą, dėl kurio bus sudaroma pirkimo sutartis ar preliminarioji sutartis, arba sprendimą leisti dalyvauti dinaminėje pirkimo sistemoje, pateikia šio straipsnio 2 dalyje nurodytos atitinkamos informacijos, kuri dar nebuvo pateikta pirkimo procedūros metu, santrauką, nurodo nustatytą pasiūlymų eilę, laimėjusį pasiūlymą ir tikslų atidėjimo terminą. Perkančioji organizacija taip pat turi nurodyti priežastis, dėl kurių buvo priimtas sprendimas nesudaryti pirkimo sutarties ar preliminariosios sutarties, pradėti pirkimą ar dinaminę pirkimų sistemą iš naujo. Šioje dalyje nurodyto reikalavimo gali būti nesilaikoma, kai supaprastinto pirkimo ar šio įstatymo 2 priede nurodytų socialinių ir kitų specialiųjų paslaugų pirkimų atveju pirkimo sutartis, kurios numatoma vertė neviršija 10 000 Eur (dešimt tūkstančių eurų) (be pridėtinės vertės mokesčio), sudaroma preliminariosios sutarties pagrindu, kai pasiūlymas pateikiamas žodžiu ar pirkimo sutartis sudaroma žodžiu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
 
-2. Perkančioji organizacija, gavusi suinteresuoto kandidato ar suinteresuoto dalyvio raštu pateiktą prašymą, ne vėliau kaip per 15 dienų nuo jo gavimo dienos išsamiai pateikia šią informaciją:
+2. Perkančioji organizacija, gavusi kandidato ar dalyvio raštu pateiktą prašymą, ne vėliau kaip per 15 dienų nuo jo gavimo dienos išsamiai pateikia šią informaciją: 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 1) kandidatui – jo paraiškos atmetimo priežastis;
@@ -3643,7 +3755,10 @@ d) gyvavimo ciklo pabaigos išlaidas, pavyzdžiui, atliekų surinkimo, perdirbim
 2) dalyviui, kurio pasiūlymas nebuvo atmestas: 
 
 
-a) laimėjusio pasiūlymo charakteristikas ir santykinius pranašumus, dėl kurių šis pasiūlymas buvo pripažintas geriausiu, taip pat šį pasiūlymą pateikusio dalyvio ar preliminariosios sutarties šalių pavadinimus; 
+a) laimėjusio pasiūlymo charakteristikas ir santykinius pranašumus, įskaitant kainą, dėl kurių šis pasiūlymas buvo pripažintas geriausiu, taip pat šį pasiūlymą pateikusio dalyvio ar preliminariosios sutarties šalių pavadinimus; 
+Papunkčio pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -3667,7 +3782,10 @@ b) informaciją apie derybų ir dialogo su dalyviais eigą ir pažangą;
 
 
 
-4. Jeigu perkančioji organizacija pirkimo dokumentuose prašo pateikti ir prekių pavyzdžių, ji, įvertinusi pasiūlymus, nustačiusi pasiūlymų eilę ir priėmusi sprendimą dėl laimėjusio pasiūlymo, iki pirkimo sutarties ar preliminariosios sutarties sudarymo turi leisti visiems dalyviams susipažinti su pateiktais pavyzdžiais.
+4. Jeigu perkančioji organizacija pirkimo dokumentuose prašo pateikti ir prekių pavyzdžių, ji, įvertinusi pasiūlymus, nustačiusi pasiūlymų eilę ir priėmusi sprendimą dėl laimėjusio pasiūlymo, iki pirkimo sutarties ar preliminariosios sutarties sudarymo turi leisti visiems dalyviams susipažinti su pateiktais laimėjusio pasiūlymo prekių pavyzdžiais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -4480,7 +4598,10 @@ c) dėl išimtinių teisių, įskaitant intelektinės nuosavybės teises, apsaug
 
 
 
-6) ekspertų komisijų, komitetų, tarybų narių, taip pat jų pasitelkiamų ekspertų, valstybės institucijų kontrolės veiklai reikalingų ekspertų teikiamos nematerialaus pobūdžio (intelektinės) paslaugos;
+6) ekspertų komisijų, komitetų, tarybų narių, taip pat jų pasitelkiamų ekspertų, valstybės institucijų ar įstaigų kontrolės veiklai reikalingų ekspertų teikiamos nematerialaus pobūdžio (intelektinės) paslaugos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -4490,7 +4611,10 @@ c) dėl išimtinių teisių, įskaitant intelektinės nuosavybės teises, apsaug
 
 
 
-8) prekės, gaminamos tik mokslinių tyrimų, eksperimentų, studijų ar eksperimentinės plėtros tikslais ir ženklinamos kaip išimtinai mokslo tikslams skirtos prekės;
+8) prekės, gaminamos ir (ar) naudojamos tik mokslinių tyrimų, eksperimentų, studijų ar eksperimentinės plėtros tikslais, kai norimo rezultato negalima pasiekti naudojant tokios pačios paskirties gaminius; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -4500,7 +4624,14 @@ c) dėl išimtinių teisių, įskaitant intelektinės nuosavybės teises, apsaug
 
 
 
-10) keleivių pervežimo, nakvynės ir kitos su tarnybine komandiruote susijusios paslaugos, kai jos įsigyjamos iš tiesioginio paslaugos teikėjo.
+10) keleivių pervežimo, nakvynės ir kitos su tarnybine komandiruote susijusios paslaugos, kai jos įsigyjamos iš tiesioginio paslaugos teikėjo;
+
+
+
+
+11) dalijimosi pačių naudotojų sukurta informacija su visuomene platformos paslaugos, kai jos įsigyjamos iš tiesioginio paslaugos teikėjo pagal jo nustatytą visiems paslaugų gavėjams taikomą vienodą paslaugų kainodarą ir paslaugų organizavimo būdus ir kai paslaugos teikėjas neprisiima atsakomybės už skelbiamos informacijos turinį. 
+Papildyta straipsnio punktu:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
 
 
@@ -4543,7 +4674,9 @@ c) dėl išimtinių teisių, įskaitant intelektinės nuosavybės teises, apsaug
 
 
 
-3. Supaprastinto pirkimo ir šio įstatymo 2 priede nurodytų socialinių ir kitų specialiųjų paslaugų tarptautinio pirkimo atvejais perkančioji organizacija, vykdydama neskelbiamas derybas šio įstatymo 71 straipsnio 1 dalies 2 ir 3 punktuose, 3 dalies 2, 3 ir 4 punktuose, 5 ir 6 dalyse nustatytomis sąlygomis, gali pirkimo sutartį sudaryti nesilaikydama šio straipsnio 2 dalyje nurodytiems etapams taikomų ir kitų pirkimo procedūroms keliamų reikalavimų.
+3. Supaprastinto pirkimo ir šio įstatymo 2 priede nurodytų socialinių ir kitų specialiųjų paslaugų tarptautinio pirkimo atvejais perkančioji organizacija, vykdydama neskelbiamas derybas šio įstatymo 71 straipsnio 1 dalies 2 ir 3 punktuose, 3 dalies 2, 3 ir 4 punktuose, 5 ir 6 dalyse nustatytomis sąlygomis, gali pirkimo sutartį sudaryti nesilaikydama šio straipsnio 2 dalyje nurodytiems etapams taikomų ir kitų pirkimo procedūroms bei pirkimo sutarties turiniui nustatytų reikalavimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
 
 
@@ -5251,7 +5384,10 @@ c) dėl kurių sąlygų vyks atnaujintas tiekėjų varžymasis.
 
 
 
-2. Perkančiosios organizacijos, išskyrus Lietuvos Respublikos diplomatines atstovybes užsienio valstybėse, Lietuvos Respublikos atstovybes prie tarptautinių organizacijų, konsulines įstaigas ir specialiąsias misijas, privalo įsigyti prekių, paslaugų ir darbų šio straipsnio 1 dalyje nurodytu būdu, jeigu Lietuvos Respublikoje veikiančios centrinės perkančiosios organizacijos siūlomos prekės ar paslaugos, per sukurtą dinaminę pirkimų sistemą ar sudarytą preliminariąją sutartį galimos įsigyti prekės, paslaugos ar darbai atitinka perkančiosios organizacijos poreikius ir perkančioji organizacija negali prekių, paslaugų ar darbų įsigyti efektyvesniu būdu racionaliai naudodama tam skirtas lėšas. Perkančiosios organizacijos privalo motyvuoti savo sprendimą neatlikti pirkimo naudojantis centrinės perkančiosios organizacijos paslaugomis ir saugoti tai patvirtinantį dokumentą kartu su kitais pirkimo dokumentais šio įstatymo 97 straipsnyje nustatyta tvarka.
+2. Perkančiosios organizacijos, išskyrus Lietuvos Respublikos diplomatines atstovybes užsienio valstybėse, Lietuvos Respublikos atstovybes prie tarptautinių organizacijų, konsulines įstaigas ir specialiąsias misijas, privalo įsigyti prekių, paslaugų ir darbų šio straipsnio 1 dalyje nurodytu būdu, jeigu Lietuvos Respublikoje veikiančios centrinės perkančiosios organizacijos siūlomos prekės ar paslaugos, per sukurtą dinaminę pirkimų sistemą ar sudarytą preliminariąją sutartį galimos įsigyti prekės, paslaugos ar darbai atitinka perkančiosios organizacijos poreikius ir perkančioji organizacija negali prekių, paslaugų ar darbų įsigyti efektyvesniu būdu racionaliai naudodama tam skirtas lėšas. Perkančiosios organizacijos privalo motyvuoti savo sprendimą neatlikti pirkimo naudojantis centrinės perkančiosios organizacijos paslaugomis, tai patvirtinantį dokumentą paskelbti pirkėjo profilyje ir jį saugoti kartu su kitais pirkimo dokumentais šio įstatymo 97 straipsnyje nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -5474,7 +5610,9 @@ PIRKIMO SUTARTIES AR PRELIMINARIOSIOS SUTARTIES SUDARYMAS IR VYKDYMAS
 
 
 
-5. Sudaromoje pirkimo sutartyje turi būti nustatomas ne ilgesnis kaip 3 metų nuo sutarties sudarymo prekių tiekimo, paslaugų teikimo, darbų atlikimo laikotarpis, išskyrus pagrįstus atvejus, kai atsižvelgiant į perkamo objekto ypatybes ir siekiant racionalaus lėšų panaudojimo būtina pailginti šį laikotarpį. Tokie atvejai gali apimti pirkimo sutartis dėl: 
+5. Sudaromoje pirkimo sutartyje turi būti nustatomas ne ilgesnis kaip 3 metų nuo sutarties įsigaliojimo prekių tiekimo, paslaugų teikimo, darbų atlikimo laikotarpis, išskyrus pagrįstus atvejus, kai atsižvelgiant į perkamo objekto ypatybes ir siekiant racionalaus lėšų panaudojimo būtina pailginti šį laikotarpį. Tokie atvejai gali apimti pirkimo sutartis dėl:  
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 1) elektros energijos ir šilumos, dujų, karšto ir šalto vandens, nuotekų ir atliekų tvarkymo paslaugų;
@@ -5564,7 +5702,9 @@ PIRKIMO SUTARTIES AR PRELIMINARIOSIOS SUTARTIES SUDARYMAS IR VYKDYMAS
 
 
 
-9. Perkančioji organizacija laimėjusio dalyvio pasiūlymą, sudarytą pirkimo sutartį, preliminariąją sutartį ir šių sutarčių pakeitimus, išskyrus informaciją, kurios atskleidimas prieštarautų informacijos ir duomenų apsaugą reguliuojantiems teisės aktams arba visuomenės interesams, pažeistų teisėtus konkretaus tiekėjo komercinius interesus arba turėtų neigiamą poveikį tiekėjų konkurencijai, ne vėliau kaip per 15 dienų nuo pirkimo sutarties ar preliminariosios sutarties sudarymo ar jų pakeitimo, bet ne vėliau kaip iki pirmojo mokėjimo pagal jį pradžios Viešųjų pirkimų tarnybos nustatyta tvarka turi paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje. Šis reikalavimas netaikomas pirkimams, kai pasiūlymas pateikiamas žodžiu arba pirkimo sutartis sudaroma žodžiu, pirkimams, kurie atlikti neskelbiamų derybų būdu (mažos vertės pirkimų atveju – neskelbiant apie pirkimą) esant šio įstatymo 71 straipsnio 1 dalies 2 punkto b ir c papunkčiuose ir 6 dalies 5, 6, 7 punktuose nustatytoms sąlygoms, jeigu jų metu laimėjusiu dalyviu nustatomas fizinis asmuo, ir esant šio įstatymo 71 straipsnio 1 dalies 2 punkto a papunktyje nustatytai sąlygai, taip pat laimėjusio dalyvio pasiūlymo, pirkimo sutarties ar preliminariosios sutarties dalims, kai nėra techninių galimybių tokiu būdu paskelbti informacijos. Tokiu atveju perkančioji organizacija turi sudaryti galimybę susipažinti su nepaskelbtomis laimėjusio dalyvio pasiūlymo, pirkimo sutarties ar preliminariosios sutarties dalimis. 
+9. Perkančioji organizacija laimėjusio dalyvio pasiūlymą, sudarytą pirkimo sutartį, preliminariąją sutartį ir šių sutarčių pakeitimus, išskyrus informaciją, kurios atskleidimas prieštarautų informacijos ir duomenų apsaugą reguliuojantiems teisės aktams arba visuomenės interesams, pažeistų teisėtus konkretaus tiekėjo komercinius interesus arba turėtų neigiamą poveikį tiekėjų konkurencijai, ne vėliau kaip per 15 dienų nuo pirkimo sutarties ar preliminariosios sutarties sudarymo ar jų pakeitimo, bet ne vėliau kaip iki pirmojo mokėjimo pagal jį pradžios Viešųjų pirkimų tarnybos nustatyta tvarka turi paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje. Šis reikalavimas netaikomas laimėjusio dalyvio pasiūlymui, kai pasiūlymas pateikiamas žodžiu, arba sudarytai pirkimo sutarčiai, kai pirkimo sutartis sudaroma žodžiu, pirkimams, kurie atlikti neskelbiamų derybų būdu (mažos vertės pirkimų atveju – neskelbiant apie pirkimą) esant šio įstatymo 71 straipsnio 1 dalies 2 punkto b ir c papunkčiuose ir 6 dalies 5, 6, 7 punktuose nustatytoms sąlygoms, jeigu jų metu laimėjusiu dalyviu nustatomas fizinis asmuo, ir esant šio įstatymo 71 straipsnio 1 dalies 2 punkto a papunktyje nustatytai sąlygai, taip pat laimėjusio dalyvio pasiūlymo, pirkimo sutarties ar preliminariosios sutarties dalims, kai nėra techninių galimybių tokiu būdu paskelbti informacijos. Tokiu atveju perkančioji organizacija turi sudaryti galimybę susipažinti su nepaskelbtomis laimėjusio dalyvio pasiūlymo, pirkimo sutarties ar preliminariosios sutarties dalimis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
 
 
@@ -5633,7 +5773,10 @@ PIRKIMO SUTARTIES AR PRELIMINARIOSIOS SUTARTIES SUDARYMAS IR VYKDYMAS
 
 
 
-12) perkančiosios organizacijos vadovo įsakymu (potvarkiu) skiriamas asmuo, atsakingas už sutarties vykdymą, sutarties ir pakeitimų paskelbimą pagal šio įstatymo 86 straipsnio 9 dalies nuostatas.
+12) perkančiosios organizacijos vadovo sprendimu skiriamas asmuo, atsakingas už sutarties vykdymą, sutarties ir pakeitimų paskelbimą pagal šio įstatymo 86 straipsnio 9 dalies nuostatas. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -5700,7 +5843,9 @@ PIRKIMO SUTARTIES AR PRELIMINARIOSIOS SUTARTIES SUDARYMAS IR VYKDYMAS
 
 
 
-2) kai prireikia iš to paties tiekėjo pirkti papildomų darbų, paslaugų ar prekių, kurie nebuvo įtraukti į pirminį pirkimą, kai yra visos šios sąlygos kartu:
+2) kai būtina iš to paties tiekėjo pirkti papildomų darbų, paslaugų ar prekių, kurie nebuvo įtraukti į pirminį pirkimą, kai yra visos šios sąlygos kartu: 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 a) tiekėjo pakeitimas negalimas dėl ekonominių ar techninių priežasčių, tokių kaip pagal pirminį pirkimą įsigytos įrangos, paslaugų ar įrenginių pakeičiamumo ir sąveikumo reikalavimų užtikrinimas, ir dėl to, kad perkančiajai organizacijai sukeltų didelių nepatogumų ar nemažą išlaidų dubliavimą;
@@ -5715,7 +5860,9 @@ b) atskiro pakeitimo vertė neviršija 50 procentų, o bendra atskirų pakeitim�
 
 
 
-3) kai pakeitimo būtinybė atsirado dėl aplinkybių, kurių protinga ir apdairi perkančioji organizacija negalėjo numatyti, ir kai kartu yra šios sąlygos:
+3) kai pakeitimo poreikis atsirado dėl aplinkybių, kurių protinga ir apdairi perkančioji organizacija negalėjo numatyti, ir kai kartu yra šios sąlygos: 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 a) pakeitimas iš esmės nepakeičia pirkimo sutarties ar preliminariosios sutarties pobūdžio;
@@ -5738,7 +5885,10 @@ a) įgyvendinant pirkimo dokumentuose iš anksto nedviprasmiškai, laikantis ši
 
 
 
-b) dėl pradinio tiekėjo reorganizavimo, likvidavimo, restruktūrizavimo ar bankroto procedūros naujas tiekėjas, atitinkantis anksčiau pirkimo dokumentuose nustatytus kvalifikacinius reikalavimus, visiškai arba iš dalies perima pradinio tiekėjo teises ir pareigas. Toks tiekėjo pakeitimas negali lemti kitų esminių sutarties pakeitimų ir taip negali būti siekiama išvengti šio įstatymo taikymo; 
+b) dėl pradinio tiekėjo reorganizavimo, įskaitant jungimą ir skaidymą, atskyrimo ar bankroto procedūros, pradinio tiekėjo teises ir pareigas visiškai arba iš dalies perima kitas tiekėjas, atitinkantis anksčiau pirkimo dokumentuose nustatytus kvalifikacinius reikalavimus. Toks tiekėjo pakeitimas negali lemti kitų esminių sutarties pakeitimų ir taip negali būti siekiama išvengti šio įstatymo taikymo; 
+Papunkčio pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -5757,7 +5907,9 @@ c) kai pati perkančioji organizacija prisiima tiekėjo įsipareigojimus dėl su
 
 
 
-2. Pirkimo sutartis ar preliminarioji sutartis jos galiojimo laikotarpiu taip pat gali būti keičiama pagal šį įstatymą neatliekant naujos pirkimo procedūros, nors ir nėra šio straipsnio 1 dalies 1–4 punktuose nurodytų aplinkybių, tačiau yra visos šios sąlygos kartu:
+2. Pirkimo sutartis ar preliminarioji sutartis jos galiojimo laikotarpiu taip pat gali būti keičiama pagal šį įstatymą neatliekant naujos pirkimo procedūros, nereikalaujant patikrinti, ar nėra šio straipsnio 4 dalies 1–4 punktuose nurodytų aplinkybių, tačiau yra visos šios sąlygos kartu: 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 1) bendra atskirų pakeitimų pagal šį punktą vertė neviršija atitinkamų tarptautinio pirkimo vertės ribų, nurodytų šio įstatymo 4 straipsnio 1 dalyje; 
@@ -5968,7 +6120,10 @@ PIRKIMŲ VALDYMAS
 
 
 9. Perkančiųjų organizacijų neatlygintiną prieigą prie dokumentų ar informacijos, patvirtinančios tiekėjo pašalinimo pagrindų nebuvimą, per Centrinę viešųjų pirkimų informacinę sistemą teikia tokius duomenis tvarkančios pagal šio įstatymo 51 straipsnio 8 dalį į Viešųjų pirkimų tarnybos sudaromą sąrašą įtrauktos institucijos.
-TAR pastaba. 9 dalis įsigalioja 2020-07-01.
+TAR pastaba. 9 dalis įsigalioja 2023-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2161, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09414
+ 
 
 
 
@@ -5978,9 +6133,19 @@ TAR pastaba. 9 dalis įsigalioja 2020-07-01.
 
 
 
-11. Informaciją apie subjektus, neatitinkančius minimalių patikimo mokesčių mokėtojo kriterijų, kaip tai numatyta šio įstatymo 46 straipsnio 4 dalies 8 punkte, Viešųjų pirkimų tarnybai teikia Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos. 
+11. Informaciją apie subjektus, neatitinkančius minimalių patikimo mokesčių mokėtojo kriterijų, kaip tai numatyta šio įstatymo 46 straipsnio 4 dalies 8 punkte, skelbia Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
+
+
+
+
+12. Šio įstatymo 37 straipsnio 2 dalyje ir 47 straipsnio 6 dalyje nurodytą informaciją, reikalingą įvertinti, ar perkančiosios organizacijos, veikiančios gynybos srityje, ketinama sudaryti pirkimo sutartis keltų grėsmę nacionalinio saugumo interesams, pagal perkančiosios organizacijos kreipimąsi teikia kompetentingos institucijos, vadovaudamosi Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nurodytais sandorių atitikties nacionalinio saugumo interesams kriterijais. Šio įstatymo 37 straipsnio 2 dalyje ir 47 straipsnio 6 dalyje nurodytos informacijos vertinimas, ar perkančiosios organizacijos, valdančios ypatingos svarbos informacinę infrastruktūrą ar veikiančios srityse, kurios laikomos nacionaliniam saugumui užtikrinti strategiškai svarbių ūkio sektorių dalimi, ketinama sudaryti pirkimo sutartis keltų grėsmę nacionalinio saugumo interesams, atliekamas Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
 
 
@@ -6166,9 +6331,10 @@ Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
 
 
 
-11) administruoja perkančiųjų organizacijų pagal šio įstatymo 91 straipsnio 1 dalį paskelbtą informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus ir pagal šio įstatymo 52 straipsnio 2 dalį paskelbtą informaciją apie tiekėjus, kurie pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šio įstatymo 46 ir 47 straipsniuose nustatytiems reikalavimams, arba apie tiekėjus, kurie dėl pateiktos melagingos informacijos nepateikė patvirtinančių dokumentų, reikalaujamų pagal šio įstatymo 50 straipsnį, taip pat savo interneto svetainėje skelbia Valstybinės mokesčių inspekcijos pateiktą informaciją apie subjektus, neatitinkančius minimalių patikimo mokesčių mokėtojo kriterijų, kaip tai numatyta šio įstatymo 46 straipsnio 4 dalies 8 punkte; 
+11) administruoja perkančiųjų organizacijų pagal šio įstatymo 91 straipsnio 1 dalį paskelbtą informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus ir pagal šio įstatymo 52 straipsnio 2 dalį paskelbtą informaciją apie tiekėjus, kurie pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šio įstatymo 46 ir 47 straipsniuose nustatytiems reikalavimams, arba apie tiekėjus, kurie dėl pateiktos melagingos informacijos nepateikė patvirtinančių dokumentų, reikalaujamų pagal šio įstatymo 50 straipsnį; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
 
 
@@ -6286,7 +6452,10 @@ Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
 
 
 
-4. Viešųjų pirkimų tarnyba, paskyrusi administracinę nuobaudą perkančiosios organizacijos valstybės tarnautojui ar darbuotojui, ne vėliau kaip per vieną darbo dieną nuo sprendimo skirti administracinę nuobaudą priėmimo apie tai praneša perkančiosios organizacijos vadovui.
+4. Viešųjų pirkimų tarnyba, paskyrusi administracinę nuobaudą perkančiosios organizacijos valstybės tarnautojui ar darbuotojui arba gavusi informaciją apie teismo paskirtą administracinę nuobaudą perkančiosios organizacijos valstybės tarnautojui ar darbuotojui, ne vėliau kaip per vieną darbo dieną nuo sprendimo skirti administracinę nuobaudą įsiteisėjimo dienos apie tai praneša perkančiosios organizacijos vadovui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -6310,7 +6479,10 @@ Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
 2. Perkančioji organizacija Centrinės viešųjų pirkimų informacinės sistemos priemonėmis Viešųjų pirkimų tarnybai pateikia:
 
 
-1) kiekvienų pirkimo procedūrų, įskaitant ir pirkimo procedūras, kurių metu sudaroma preliminarioji sutartis ar jos pagrindu sudaroma pirkimo sutartis, sukuriama dinaminė pirkimo sistema ar jos pagrindu sudaroma pirkimo sutartis, ataskaitą per 15 dienų pasibaigus pirkimo procedūroms, bet ne vėliau kaip iki pirmojo mokėjimo pagal sudarytą pirkimo sutartį pradžios. Ši ataskaita neteikiama, kai pirkimo sutartis sudaroma pagal šio įstatymo 72 straipsnio 3 dalį atlikus supaprastintą pirkimą, preliminariosios sutarties pagrindu pagal šio įstatymo 78 straipsnio 4 dalį ar 78 straipsnio 5 dalies 1 punktą ar atliekant šio įstatymo 25 straipsnio 3 ir 4 dalyse nurodytą pirkimą ir mažos vertės pirkimą;
+1) kiekvienų pirkimo procedūrų, įskaitant ir pirkimo procedūras, kurių metu sudaroma preliminarioji sutartis ar jos pagrindu sudaroma pirkimo sutartis, sukuriama dinaminė pirkimo sistema ar jos pagrindu sudaroma pirkimo sutartis, ataskaitą per 15 dienų pasibaigus pirkimo procedūroms, bet ne vėliau kaip iki pirmojo mokėjimo pagal sudarytą pirkimo sutartį pradžios. Ši ataskaita neteikiama, kai pirkimo sutartis sudaroma pagal šio įstatymo 72 straipsnio 3 dalį atlikus supaprastintą pirkimą, preliminariosios sutarties pagrindu pagal šio įstatymo 78 straipsnio 4 dalį ar 78 straipsnio 5 dalies 1 punktą, atliekant pirkimą pagal šio įstatymo 82 straipsnio 1 dalį ar atliekant šio įstatymo 25 straipsnio 3 ir 4 dalyse nurodytą pirkimą ir mažos vertės pirkimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -6646,7 +6818,10 @@ GINČŲ NAGRINĖJIMAS, ŽALOS ATLYGINIMAS, PIRKIMO SUTARTIES PRIPAŽINIMAS NEGAL
 
 
 
-2) perkančioji organizacija pažeidė šio įstatymo 86 straipsnio 8 dalyje, 103 straipsnio 2 dalyje ar 104 straipsnio 2 dalyje nustatytus reikalavimus, kartu pažeisdama ir kitus šio įstatymo reikalavimus, ir tai turėjo neigiamą įtaką teismui prašymą pateikusio ar ieškinį pareiškusio dalyvio galimybėms sudaryti pirkimo sutartį ar preliminariąją sutartį, ir šis dalyvis neturėjo galimybės pasinaudoti teisių gynimo priemonėmis iki pirkimo sutarties ar preliminariosios sutarties sudarymo; 
+2) perkančioji organizacija pažeidė šio įstatymo 86 straipsnio 8 dalyje, 103 straipsnio 2 dalyje ar 104 straipsnio 2 dalyje nustatytus reikalavimus, dėl ko teismui prašymą pateikęs ar ieškinį pareiškęs dalyvis neturėjo galimybės pasinaudoti teisių gynimo priemonėmis iki pirkimo sutarties ar preliminariosios sutarties sudarymo, ir kartu perkančioji organizacija pažeidė ir kitus šio įstatymo reikalavimus, jeigu tas pažeidimas turėjo neigiamos įtakos teismui prašymą pateikusio ar ieškinį pareiškusio dalyvio galimybėms sudaryti pirkimo sutartį ar preliminariąją sutartį; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -6656,7 +6831,10 @@ GINČŲ NAGRINĖJIMAS, ŽALOS ATLYGINIMAS, PIRKIMO SUTARTIES PRIPAŽINIMAS NEGAL
 
 
 
-4) nustačius kitų šio įstatymo imperatyviųjų nuostatų pažeidimų, kurie turėjo neigiamą įtaką teismui prašymą pateikusio ar ieškinį pareiškusio dalyvio galimybėms sudaryti pirkimo sutartį ar preliminariąją sutartį, ir šis dalyvis neturėjo galimybės pasinaudoti teisių gynimo priemonėmis iki pirkimo sutarties ar preliminariosios sutarties sudarymo. 
+4) nustačius kitų šio įstatymo imperatyviųjų nuostatų šiurkščių pažeidimų. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -6860,7 +7038,7 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2 STRAIPSNIO 7 DALYJE NURODY
  45.21 
  Bendroji pastatų statyba ir civilinės inžinerijos darbai 
  Ši klasė apima: – visų rūšių pastatų statybą, civilinės inžinerijos statinių statybą: – tiltus, įskaitant tuos, kurie skirti estakadinėms magistralėms, viadukams, tuneliams ir požeminėms perėjoms, – ilgus nuotolių vamzdynus ir elektros linijas, – miesto vamzdynų, miesto komunikacijų ir elektros linijas, – papildomus miesto darbus, – surenkamų statinių statymą ir įrengimą statybvietėje. Ši klasė neapima: – paslaugų, susijusių su naftos ir gamtinių dujų gavyba (žr. 11.20), – surenkamų statinių, kurių dalys nėra betoninės ir yra pačių pagamintos, įrengimo statybvietėje (žr. 20, 26 ir 28 skyrius), – stadionų, plaukimo baseinų, sporto salių, teniso ir golfo aikštelių ir kitų sportui skirtų įrenginių statybos darbų (išskyrus pastatų statybos darbus) (žr. 45.23), – pastatų įrengimo (žr. 45.3), – pastatų apdailos (žr. 45.4), – architektūrinės ir inžinerinės veiklos (žr. 74.20), – statybos projektų valdymo (žr. 74.20). 
- 45210000, išskyrus: 45213316, 45220000, 45231000, 45232000 
+ 45210000 (išskyrus 45213316), 45220000, 45231000, 45232000 
 
 
  7. 
@@ -7018,6 +7196,9 @@ LIETUVOS RESPUBLIKOS VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2 STRAIPSNIO 7 DALYJE NURODY
 
 
  
+Priedo pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -7163,7 +7344,10 @@ KVIETIMO PATEIKTI PASIŪLYMĄ, DALYVAUTI DIALOGE IR KVIETIMO PATVIRTINTI SUSIDOM
 
 
 
-6) pasiūlymų ar sprendinių, ar galutinių pasiūlymų vertinimo tvarką, vertinimo kriterijus, vertinimo kriterijų lyginamuosius svorius ir, jeigu reikia, – šių kriterijų reikšmingumą mažėjimo tvarka, jeigu jie nebuvo pateikti skelbime apie pirkimą, techninėse specifikacijose arba kituose pirkimo dokumentuose;
+6) pasiūlymų vertinimo kriterijų lyginamuosius svorius ir, jeigu reikia, – šių kriterijų reikšmingumą mažėjimo tvarka, jeigu jie nebuvo pateikti skelbime apie pirkimą, techninėse specifikacijose arba kituose pirkimo dokumentuose; 
+Papunkčio pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -7701,12 +7885,26 @@ viešųjų pirkimų įstatymo
 
 
 
-5. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/27/ES dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamos direktyvos 2009/125/EB ir 2010/30/ES bei kuria panaikinamos direktyvos 2004/8/EB ir 2006/32/EB (OL 2012 L 315, p. 1).
+5. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/27/ES dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamos direktyvos 2009/125/EB ir 2010/30/ES bei kuria panaikinamos direktyvos 2004/8/EB ir 2006/32/EB (OL 2012 L 315, p. 1), su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos direktyva 2013/12/ES (OL 2013 L 141, p. 28). 
+Punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
 
-6. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/24/ES dėl viešųjų pirkimų, kuria panaikinama Direktyva 2004/18/EB (OL 2014 L 94, p. 65).
+6. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/24/ES dėl viešųjų pirkimų, kuria panaikinama Direktyva 2004/18/EB (OL 2014 L 94, p. 65), su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 18 d. Komisijos deleguotuoju reglamentu (ES) 2017/2365 (OL 2017 L 337, p. 19). 
+Punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
+
+
+
+
+7. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/55/ES dėl elektroninių sąskaitų faktūrų naudojimo viešuosiuose pirkimuose (OL 2014 L 133, p. 1). 
+Papildyta punktu:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -7956,3 +8154,13 @@ Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
 Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 46, 92 ir 95 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2161, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09414
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymo Nr. XIII-327 2 ir 4 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymas
