@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2019-06-01 iki 2019-06-10
+Suvestinė redakcija nuo 2019-06-11 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -1715,7 +1715,10 @@ INSTITUCIJOS, VYKDANČIOS PRIVALOMĄJĮ SVEIKATOS DRAUDIMĄ
 3. Privalomojo sveikatos draudimo tarybą sudaro 15 narių. Privalomojo sveikatos draudimo taryba sudaroma taip, kad būtų vienodai ir lygiateisiškai atstovaujama valstybės institucijoms, draudėjų (darbdavių) organizacijoms ir apdraustųjų interesus ginančioms organizacijoms. Į Privalomojo sveikatos draudimo tarybą įeina: 
 
 
-1) penki Vyriausybės deleguojami valstybės institucijų atstovai – po vieną Sveikatos apsaugos ministerijos, Socialinės apsaugos ir darbo ministerijos, Finansų ministerijos, Vyriausybės kanceliarijos ir Valstybinės ligonių kasos atstovą Tarybos nuostatuose nustatyta tvarka;
+1) penki valstybės institucijų atstovai – po vieną Sveikatos apsaugos ministerijos, Socialinės apsaugos ir darbo ministerijos, Finansų ministerijos, Vyriausybės kanceliarijos ir Valstybinės ligonių kasos atstovą – deleguojami Tarybos nuostatuose nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2152, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09404
+ 
 
 
 
@@ -3024,3 +3027,8 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2 ir 6 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2152, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09404
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 10 ir 28 straipsnių pakeitimo įstatymas
