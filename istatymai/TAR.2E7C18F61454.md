@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-06-19
+Suvestinė redakcija nuo 2019-06-20 iki 2019-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -2615,9 +2615,17 @@ b) supaprastintus pirkimus (išskyrus mažos vertės pirkimus), kai ieškinys pa
 
 
 
-c) tarptautinius pirkimus, kai ieškinys pareiškiamas iki perkančiosios organizacijos pranešimo apie jos priimtą sprendimą nustatyti laimėjusį pasiūlymą, – trijų tūkstančių eurų, o kai ieškinys pareiškiamas po perkančiosios organizacijos pranešimo apie jos priimtą sprendimą nustatyti laimėjusį pasiūlymą, – penkių tūkstančių eurų;
+c) tarptautinius pirkimus, išskyrus tarptautinius pirkimus, skirtus ypatingos valstybinės svarbos projektams įgyvendinti, kai ieškinys pareiškiamas iki perkančiosios organizacijos pranešimo apie jos priimtą sprendimą nustatyti laimėjusį pasiūlymą, – trijų tūkstančių eurų, o kai ieškinys pareiškiamas po perkančiosios organizacijos pranešimo apie jos priimtą sprendimą nustatyti laimėjusį pasiūlymą, – penkių tūkstančių eurų;
 
 
+
+
+d) tarptautinius pirkimus, skirtus ypatingos valstybinės svarbos projektams įgyvendinti, kai ieškinys pareiškiamas iki perkančiosios organizacijos pranešimo apie jos priimtą sprendimą nustatyti laimėjusį pasiūlymą, – dešimt tūkstančių eurų, o kai ieškinys pareiškiamas po perkančiosios organizacijos pranešimo apie jos priimtą sprendimą nustatyti laimėjusį pasiūlymą, – penkiolikos tūkstančių eurų; 
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIII-2216, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09858
+ 
 
 
 
@@ -25153,3 +25161,8 @@ Dėl Lietuvos Respublikos civilinio proceso kodekso 306 straipsnio 3 dalies ati
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2037, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06549
 Lietuvos Respublikos civilinio proceso kodekso 336, 580, 581 ir 582 straipsnių pakeitimo įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2216, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09858
+Lietuvos Respublikos civilinio proceso kodekso 80 straipsnio pakeitimo įstatymas
