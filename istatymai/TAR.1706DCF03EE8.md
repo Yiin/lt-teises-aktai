@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/1706dcf03ee811e7b66ae890e1368363"
 
 # Lietuvos Respublikos profesionaliojo scenos meno įstatymo IX-2257 11 ir 13 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2019-06-25
+ 
+Įstatymas paskelbtas: TAR 2017-05-22, i. k. 2017-08567
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PROFESIONALIOJO SCENOS MENO ĮSTATYMO NR. IX-2257 11 IR 13 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -172,6 +179,10 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 
 3. Iki šio įstatymo įsigaliojimo į nacionalinių, valstybinių ar savivaldybių teatrų ar koncertinių įstaigų vadovų pareigas tam tikram terminui priimti asmenys toliau eina atitinkamos įstaigos vadovo pareigas iki šio termino pabaigos. Jeigu konkursas įstaigos vadovo pareigoms buvo surengtas iki šio įstatymo įsigaliojimo, tačiau konkurso nugalėtojas dar nebuvo nustatytas ir (ar) nepradėjo eiti pareigų, toks konkursas laikomas negaliojančiu ir turi būti rengiamas iš naujo. 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 11 ir 13 straipsnių pakeitimo įstatymo (TAR, 2017-05-22, Nr. 8567, identifikacinis kodas 2017-08567) 3 straipsnio 3 dalis tiek, kiek joje nustatyta, kad iki šio įstatymo įsigaliojimo surengtas konkursas nacionalinio, valstybinio ar savivaldybės teatro ar koncertinės įstaigos vadovo pareigoms laikomas negaliojančiu, jeigu konkurso nugalėtojas buvo nustatytas, tačiau nepradėjo eiti pareigų, prieštarauja Lietuvos Respublikos Konstitucijos 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus gali laisvai pasirinkti darbą“, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT18-N9/2019, 2019-06-25, paskelbta TAR 2019-06-25, i. k. 2019-10150
+ 
 
 
 
@@ -194,3 +205,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT18-N9/2019, 2019-06-25, paskelbta TAR 2019-06-25, i. k. 2019-10150
+Dėl Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 11 ir 13 straipsnių pakeitimo įstatymo 3 straipsnio 3 dalies atitikties Lietuvos Respublikos Konstitucijai
