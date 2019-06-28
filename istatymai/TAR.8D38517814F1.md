@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2019-03-01 iki 2019-06-27
+Suvestinė redakcija nuo 2019-06-28 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -4283,7 +4283,15 @@ Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
 
 
 
-7) tą eksportuotą gaminių ir (ar) pakuočių atliekų kiekį, apie kurio išvežimą neinformuota ir (ar) nepateiktas iš gavėjo gautas dokumentas, patvirtinantis išvežtų gaminių ir (ar) pakuočių atliekų panaudojimą, teisės aktų nustatyta tvarka ir terminais.
+7) tą eksportuotą gaminių ir (ar) pakuočių atliekų kiekį, apie kurio išvežimą neinformuota ir (ar) nepateiktas iš gavėjo gautas dokumentas, patvirtinantis išvežtų gaminių ir (ar) pakuočių atliekų panaudojimą, teisės aktų nustatyta tvarka ir terminais;
+
+
+
+
+8) gaminių ir (ar) pakuočių atliekų kiekį, kurio gavimą ir sutvarkymą pagal atliekų tvarkymą reglamentuojančių teisės aktų reikalavimus patvirtinantys dokumentai nepateikti aplinkos apsaugos valstybinę kontrolę atliekančiai institucijai. 
+Papildyta straipsnio punktu:
+Nr. XIII-2246, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10380
+ 
 
 
 
@@ -4433,7 +4441,10 @@ Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
 
 
 
-2) pateikė klaidingus duomenis ir (ar) dokumentus.
+2) aplinkos apsaugos valstybinę kontrolę atliekančiai institucijai nepateikė dokumentų, patvirtinančių, kad gaminių ir (ar) pakuočių atliekos gautos ir sutvarkytos laikantis atliekų tvarkymą reglamentuojančių teisės aktų reikalavimų, arba pateikė klaidingus duomenis ir (ar) dokumentus.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2246, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10380
+ 
 
 
 
@@ -4915,3 +4926,8 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1571, 2018-10-25, paskelbta TAR 2018-10-29, i. k. 2018-17068
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2 ir 4 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2246, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10380
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 34-31 straipsnio pakeitimo įstatymas
