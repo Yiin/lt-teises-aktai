@@ -1,0 +1,556 @@
+---
+tar_id: TAR.CBC0F0C098B6
+dok_nr: XIII-2214
+pavadinimas: Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas įstatymo Nr. XI-2052 pakeitimo įstatymas
+rusis: istatymas
+leidziantis_organas: Lietuvos Respublikos Seimas
+priemimo_data: 2019-06-13
+isigaliojimo_data: 2019-06-28
+paskelbimo_data: 2019-06-27
+statusas: galioja
+etar_url: "https://e-tar.lt/portal/lt/legalAct/cbc0f0c098b611e9ae2e9d61b1f977b3"
+---
+
+# Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas įstatymo Nr. XI-2052 pakeitimo įstatymas
+
+LIETUVOS RESPUBLIKOS
+ELEKTROS ENERGETIKOS SISTEMOS INTEGRACIJOS Į EUROPOS ELEKTROS ENERGETIKOS SISTEMAS ĮSTATYMO NR. XI-2052 PAKEITIMO
+ĮSTATYMAS
+ 
+2019 m. birželio 13 d. Nr. XIII-2214
+Vilnius
+ 
+ 
+ 
+ 
+
+
+1 straipsnis. Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas įstatymo Nr. XI-2052 nauja redakcija
+
+
+Pakeisti Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas įstatymą Nr. XI-2052 ir jį išdėstyti taip:
+ 
+
+
+
+
+„LIETUVOS RESPUBLIKOS ELEKTROS ENERGETIKOS SISTEMOS SUJUNGIMO SU KONTINENTINĖS EUROPOS ELEKTROS TINKLAIS DARBUI SINCHRONINIU REŽIMU ĮSTATYMAS
+ 
+
+
+Lietuvos Respublikos Seimas,
+vadovaudamasis Seimo 2018 m. birželio 21 d. nutarimu Nr. XIII-1288 nauja redakcija išdėstytos Nacionalinės energetinės nepriklausomybės strategijos nuostata, kad Lietuvos Respublika savo energetinį saugumą sieja su kompleksine šalies energetikos sistemų integracija į Europos Sąjungos energetikos sistemas ir bendrą Europos vidaus energijos rinką;
+atsižvelgdamas į Europos Komisijos komunikatą „Europos energetinio saugumo strategija“ (COM/2014/0330), kuriame yra akcentuojamas Baltijos šalių energijos tiekimo saugumo klausimas, susijęs su elektros energijos tinklo veikimo priklausomybe nuo išorės operatoriaus;
+įvertindamas tai, kad Baltijos šalys yra pareiškusios savo valią elektros energetikos sistemas sujungti su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu;
+atsižvelgdamas į Baltijos šalių, Lenkijos Respublikos ir Europos Komisijos 2018 m. birželio 28 d. pasirašytą politinį susitarimą dėl Baltijos šalių elektros energetikos sistemų sinchronizacijos su kontinentinės Europos elektros tinklais per Lenkijos Respublikos elektros energetikos sistemą;
+pripažindamas Lietuvos Respublikos energetinę nepriklausomybę strateginiu valstybės tikslu, kurį elektros energetikos sektoriuje galima pasiekti tik Lietuvos Respublikos elektros energetikos sistemą integravus į Europos elektros energetikos sistemas;
+atsižvelgdamas į tai, kad tinkamai įgyvendinti 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančio Reglamentą (EB) Nr. 1228/2003 (OL 2009 L 211, p. 15), 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyvos 2009/72/EB dėl elektros energijos vidaus rinkos bendrųjų taisyklių, panaikinančios Direktyvą 2003/54/EB (OL 2009 L 211, p. 55), ir 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo (OL 2011 L 326, p. 1) reikalavimus Europos Sąjungos valstybių narių elektros energetikos sistemų ir elektros energijos rinkų organizavimui ir integracijai galima tik sujungus Lietuvos Respublikos elektros energetikos sistemą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu;
+atsižvelgdamas į Baltijos energijos rinkos jungčių planą (BEMIP), kuriame Baltijos šalių elektros energetikos sistemų sujungimas su Europos elektros tinklais darbui sinchroniniu režimu iki 2025 m. yra pripažintas vienu iš esminių tikslų;
+atsižvelgdamas į Baltijos energijos rinkos jungčių plano (BEMIP) aukšto lygio grupės (BEMIP HLG) 2018 m. rugsėjo 14 d. priimtą sprendimą dėl elektros energetikos sistemų sinchronizacijos su kontinentinės Europos tinklais scenarijaus įgyvendinimo;
+suprasdamas, kad visavertė integracija į Europos elektros energetikos sistemas yra įmanoma tik užtikrinus būtinų elektros jungčių nutiesimą, kitos reikalingos perdavimo tinklo infrastruktūros įrengimą ir Lietuvos Respublikos elektros energetikos sistemos sujungimą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu;
+palaikydamas ir skatindamas Lietuvos Respublikos elektros energetikos sistemos sujungimą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu kartu su kitų Baltijos šalių elektros energetikos sistemomis, kaip bendrą Baltijos regiono iniciatyvą ir energetinio saugumo interesą;
+atsižvelgdamas į tai, kad Lietuvos Respublika yra priklausoma nuo importuojamos elektros energijos, o šią priklausomybę galėtų sumažinti konkurencingų vietinių elektros energijos gamybos pajėgumų plėtra ir Lietuvos Respublikos elektros energetikos sistemos sujungimas su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu;
+siekdamas užtikrinti Lietuvos Respublikos nacionalinį saugumą ir elektros energijos tiekimo patikimumą, nustatyti izoliuoto elektros energetikos sistemos darbo veikimo užtikrinimo reikalavimus;
+siekdamas sisteminio ir koordinuoto visų elektros energetikos projektų, užtikrinančių Lietuvos Respublikos energetikos sistemos sujungimą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu, įgyvendinimo;
+siekdamas visa apimtimi įgyvendinti tiesiogiai taikomas ir perdavimo sistemos operatoriui privalomas Europos Sąjungos tinklo kodeksų nuostatas;
+siekdamas visų susijusių šalies ūkio subjektų bendradarbiavimo ir įsitraukimo vykdant elektros energetikos sistemos sinchronizacijos projektą,
+priima Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymą.
+ 
+
+
+
+
+1 straipsnis. Įstatymo paskirtis
+
+
+Šis įstatymas nustato Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu ir sistemos desinchronizacijos nuo Nepriklausomų Valstybių Sandraugos šalių elektros energetikos sistemos (toliau – IPS / UPS sistema) bendruosius įgyvendinimo principus, būtinąsias sąlygas ir svarbiausius veiksmus.
+ 
+
+
+
+
+
+
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
+
+
+1. Baltijos šalys – Estijos Respublika, Latvijos Respublika ir Lietuvos Respublika.
+
+
+
+
+2. Elektros energetikos sistemos sinchronizacija – Lietuvos Respublikos elektros energetikos sistemos sujungimas su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu.
+
+
+
+
+3. Elektros energetikos sistemos sinchronizacijos projektas – visuma šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka ir sąlygomis planuojamų ir vykdomų elektros energetikos projektų (tarp jų vystymo, planavimo, bandymų, organizavimo, statybos ir kitokio įgyvendinimo, paslaugų, darbų ir kitų projektų) ir veiksmų, reikalingų elektros energetikos sistemos sinchronizacijai įgyvendinti.
+
+
+
+
+4. Elektros energetikos sistemos sinchronizacijos projekto inžinerinės infrastruktūros vystymo planai – specialiojo teritorijų planavimo dokumentai, kuriuose nustatomos elektros energetikos sistemos sinchronizacijai įgyvendinti reikalingos elektros tinklų inžinerinės infrastruktūros plėtros kryptys, numatomos jų plėtrai reikalingos teritorijos ir planuojamų teritorijų naudojimo, tvarkymo ir (ar) apsaugos priemonės.
+
+
+
+
+5. Izoliuotas elektros energetikos sistemos darbas – elektros energetikos sistemos veikimas atskirai nuo kitų valstybių elektros energetikos sistemų, įskaitant nuo kontinentinės Europos elektros tinklų ir nuo IPS / UPS sistemos.
+
+
+
+
+6. Izoliuoto elektros energetikos sistemos darbo bandymas – perdavimo sistemos operatoriaus atliekamas nuo IPS / UPS sistemos atskirtos elektros energetikos sistemos veikimo bandymas.
+
+
+
+
+7. Kontinentinės Europos elektros tinklai – Europos elektros perdavimo sistemos operatorių asociacijos (ENTSO-E) kontinentinės Europos regioninei grupei (RGCE) priklausančių valstybių elektros perdavimo sistemų operatorių valdomos elektros energetikos sistemos, dirbančios sinchroniniu režimu.
+
+
+
+
+8. Prisijungimas avariniu būdu – Lietuvos Respublikos elektros energetikos sistemos avarinis prijungimas prie Lenkijos Respublikos elektros tinklų darbui sinchroniniu režimu pasinaudojant esama elektros tinklų infrastruktūra, įskaitant naujai įrengtą įgyvendinant elektros energetikos sistemos sinchronizacijos projektą, vykdomas nenumatyto atjungimo nuo IPS / UPS sistemos atveju Lietuvos Respublikai neišpildžius visų Europos elektros perdavimo sistemos operatorių asociacijos (ENTSO-E) kontinentinės Europos regioninės grupės (RGCE) išduotų sujungimo su kontinentinės Europos elektros tinklais sąlygų.
+
+
+
+
+9. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatyme ir kituose teisės aktuose.
+ 
+
+
+
+
+
+
+3 straipsnis. Pagrindiniai šio įstatymo tikslai
+
+
+Pagrindiniai šio įstatymo tikslai:
+
+
+1) užtikrinti sklandžią Lietuvos Respublikos elektros energetikos sistemos desinchronizaciją nuo IPS / UPS sistemos ir sklandų sujungimą bei tolesnį elektros energetikos sistemos darbą sinchroniniu režimu su kontinentinės Europos elektros tinklais;
+
+
+
+
+2) užtikrinti būtinas technines ir organizacines priemones, kad Lietuvos Respublikos elektros energetikos sistema iki 2025 metų būtų parengta sujungimui su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu per Lenkijos Respublikos elektros energetikos sistemą;
+
+
+
+
+3) užtikrinti būtinas technines ir organizacines priemones, reikalingas saugiam ir patikimam Lietuvos Respublikos elektros energetikos sistemos darbui sinchroniniu režimu su kontinentinės Europos elektros tinklais;
+
+
+
+
+4) užtikrinti elektros energetikos sistemos sinchronizacijos projekto vykdymo ir įgyvendinimo finansavimo priemones;
+
+
+
+
+5) nustatyti Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos tinklais darbui sinchroniniu režimu ir desinchronizacijos nuo IPS / UPS sistemos būtinąsias sąlygas;
+
+
+
+
+6) nustatyti būtinuosius reikalavimus Lietuvos Respublikos Vyriausybės tvirtinamam Elektros energetikos sistemos sinchronizacijos veiksmų ir priemonių planui;
+
+
+
+
+7) nustatyti elektros energetikos sistemos sinchronizacijos projekte dalyvaujančių subjektų teises ir pareigas ar apibrėžti būtinuosius reikalavimus šių teisių ir pareigų reglamentavimui šio įstatymo įgyvendinamaisiais teisės aktais.
+ 
+
+
+
+
+
+
+
+
+4 straipsnis. Lietuvos Respublikos elektros energetikos sistemos sujungimas su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu
+
+
+1. Lietuvos Respublikos elektros energetikos sistemos sujungimas su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu yra integracijos į Europos elektros energetikos sistemas dalis ir atitinka viešąjį interesą, kuriuo siekiama užtikrinti saugų ir patikimą Lietuvos Respublikos elektros energetikos sistemos veikimą. Lietuvos Respublikos elektros energetikos sistema darbui sinchroniniu režimu su kontinentinės Europos elektros tinklais sujungiama per Lenkijos Respublikos elektros energetikos sistemą.
+
+
+
+
+2. Šiuo įstatymu elektros energetikos sistemos sinchronizacijos projektas yra pripažįstamas ypatingos valstybinės svarbos projektu.
+
+
+
+
+3. Lietuvos Respublikos elektros energetikos sistema turi būti išplėtota taip, kad 2025 metais ją būtų galima sujungti su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu.
+ 
+
+
+
+
+
+
+5 straipsnis. Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu būtinosios sąlygos
+
+
+Siekiant užtikrinti, kad Lietuvos Respublikos elektros energetikos sistema būtų laiku ir tinkamai sujungta su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu, nustatomos šios elektros energetikos sistemos sinchronizacijai būtinosios sąlygos:
+
+
+1) parengta perdavimo tinklų infrastruktūra, leidžianti užtikrinti darbą su kontinentinės Europos elektros tinklais sinchroniniu režimu;
+
+
+
+
+2) įgyvendintos Europos elektros perdavimo sistemos operatorių asociacijos (ENTSO-E) kontinentinės Europos regioninės grupės (RGCE) išduotos sujungimo su kontinentinės Europos elektros tinklais sąlygos;
+
+
+
+
+3) susitarta su Lenkijos Respublikos elektros perdavimo sistemos operatoriumi dėl tarpininkavimo vykdant elektros energetikos sistemos sinchronizaciją;
+
+
+
+
+4) su Šiaurės Europos šalių perdavimo sistemų operatoriais susitarta dėl elektros energetikos sistemos sinchronizacijos palaikymo;
+
+
+
+
+5) nustatytas būtinų dažnio išlaikymo, atkūrimo, pakaitos rezervų, patikimai prieinamų gamybinių pajėgumų galios ir kitų sisteminių paslaugų poreikis Lietuvos Respublikos elektros energetikos sistemai dirbant izoliuotu režimu, vertinamas tiek Lietuvos Respublikos elektros energetikos sistemos mastu, tiek ir bendradarbiaujant su kitų Baltijos šalių perdavimo sistemų operatoriais;
+
+
+
+
+6) nustatytas Lietuvos elektros energetikos sistemos sujungimui su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu būtinas elektros energijos gamybos šaltinių poreikis, atsižvelgiant į Europos elektros perdavimo sistemos operatorių asociacijos (ENTSO-E) kontinentinės Europos regioninės grupės (RGCE) išduotas sujungimo su kontinentinės Europos elektros tinklais sąlygas. Elektros energijos gamybos šaltiniai turi būti techniškai įrengiami taip, kad atitiktų Lietuvos Respublikos elektros energetikos sistemos darbo sinchroniniu režimu su kontinentinės Europos elektros tinklais reikalavimus;
+
+
+
+
+7) nustatyti Lietuvos Respublikos elektros energetikos sistemos patikimumo užtikrinimo reikalavimai, atsižvelgiant į Europos elektros perdavimo sistemos operatorių asociacijos (ENTSO-E) kontinentinės Europos regioninės grupės (RGCE) išduotas sujungimo su kontinentinės Europos elektros tinklais sąlygas;
+
+
+
+
+8) užtikrintas Europos Sąjungos tinklo kodeksuose nustatytų reikalavimų tinklų naudotojams įgyvendinimas;
+
+
+
+
+9) suderintos su kitų Baltijos šalių elektros perdavimo sistemų operatoriais Baltijos šalių elektros perdavimo sistemų operatyvinio valdymo sąlygos;
+
+
+
+
+10) užtikrinta tinklų naudotojų (išskyrus buitinius elektros energijos vartotojus) parengtis dirbti avariniu režimu teisės aktų nustatyta tvarka ir sąlygomis;
+
+
+
+
+11) užtikrintas elektros energetikos sistemos sinchronizacijos projekto įgyvendinimo finansavimas;
+
+
+
+
+12) užtikrintas reikiamos kvalifikacijos perdavimo sistemos operatoriaus specialistų, reikalingų šio įstatymo 3 straipsnyje nurodytiems tikslams įgyvendinti, pritraukimas, mokymas ir išlaikymas.
+ 
+
+
+
+
+
+
+
+
+6 straipsnis. Lietuvos Respublikos elektros energetikos sistemos desinchronizacijos nuo IPS / UPS sistemos būtinosios sąlygos
+
+
+Siekiant laiku užtikrinti tinkamą Lietuvos Respublikos elektros energetikos sistemos desinchronizaciją nuo IPS / UPS sistemos, nustatomos šios būtinosios sąlygos:
+
+
+1) parengtos Lietuvos Respublikos elektros energetikos sistemos desinchronizacijos nuo IPS / UPS sistemos teisinės ir techninės sąlygos, kurios pagal poreikį ir galimybes yra aptariamos ar suderinamos su suinteresuotais kitų šalių perdavimo sistemų operatoriais;
+
+
+
+
+2) parengta perdavimo tinklų infrastruktūra, leidžianti Lietuvos Respublikos elektros energetikos sistemą desinchronizuoti nuo IPS / UPS sistemos;
+
+
+
+
+3) pasirengta Lietuvos Respublikos elektros energetikos sistemos desinchronizacijai nuo trečiųjų šalių elektros energetikos sistemų, įskaitant Rusijos Federacijos Kaliningrado (Karaliaučiaus) srities elektros energetikos sistemą;
+
+
+
+
+4) pasirengta izoliuotam Lietuvos Respublikos elektros energetikos sistemos darbui ir atliktas izoliuoto elektros energetikos sistemos darbo bandymas.
+ 
+
+
+
+
+
+
+
+
+7 straipsnis. Elektros energetikos sistemos sinchronizacijos projekto veiksmų ir priemonių planas
+
+
+1. Lietuvos Respublikos Vyriausybė Lietuvos Respublikos energetikos ministerijos teikimu tvirtina Elektros energetikos sistemos sinchronizacijos projekto veiksmų ir priemonių planą, kuriame nustatoma:
+
+
+1) reikalingi veiksmai ir jų seka siekiant užtikrinti laiku įgyvendinamą ir technologiškai pagrįstą elektros energetikos sistemos sinchronizacijos projektą, tai yra Lietuvos Respublikos elektros energetikos sistemos sujungimą su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu ir desinchronizaciją nuo IPS / UPS sistemos;
+
+
+
+
+2) priemonės šio įstatymo 5 ir 6 straipsniuose nustatytoms būtinosioms sąlygoms įgyvendinti, taip pat atitikties šioms sąlygoms reikalavimai ir vertinimo kriterijai;
+
+
+
+
+3) dažnio valdymo galios rezervo poreikis, reikalingas Lietuvos Respublikos elektros energetikos sistemai dirbti izoliuotu režimu, ir techninės priemonės šiam poreikiui užtikrinti, kurios turi būti įdiegtos ne vėliau kaip 2022 metais;
+
+
+
+
+4) reikalavimai įrengti perdavimo tinklų infrastruktūrą, leidžiančią vykdyti prisijungimą avariniu būdu;
+
+
+
+
+5) priemonės Lietuvos Respublikos elektros energetikos sistemos patikimumui užtikrinti ir izoliuotam sistemos darbui vykdyti, atsižvelgiant į Europos elektros perdavimo sistemos operatorių asociacijos (ENTSO-E) kontinentinės Europos regioninės grupės (RGCE) išduotas sujungimo su kontinentinės Europos elektros tinklais sąlygas;
+
+
+
+
+6) kiti reikalavimai ir sąlygos šiame plane nustatytiems veiksmams ir priemonėms tinkamai įgyvendinti, atsakingos valstybės ir savivaldybių institucijos ir kiti asmenys, įpareigojimai bendradarbiavimui tarp institucijų ir kitų asmenų siekiant užtikrinti tinkamą, sklandų plano vykdymą ir įgyvendinimą laiku, taip pat plano vykdymo ir įgyvendinimo terminai;
+
+
+
+
+7) plane nustatytų veiksmų ir priemonių vykdymo, įgyvendinimo ir rezultatų stebėsena, atskaitomybė ir atsakomybė.
+
+
+
+
+
+
+2. Lietuvos Respublikos energetikos ministerija Elektros energetikos sistemos sinchronizacijos projekto veiksmų ir priemonių plane nustatyta tvarka ir terminais teikia Lietuvos Respublikos Vyriausybei metinę Elektros energetikos sistemos sinchronizacijos projekto veiksmų ir priemonių plano vykdymo ir įgyvendinimo ataskaitą.
+ 
+
+
+
+
+
+
+8 straipsnis. Izoliuotas elektros energetikos sistemos darbas
+
+
+1. Lietuvos Respublikos elektros energetikos sistema, ją sujungus su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu, turi būti parengta izoliuotam elektros energetikos sistemos darbui.
+
+
+
+
+2. Siekiant užtikrinti pasirengimą izoliuotam elektros energetikos sistemos darbui avariniais atvejais iki sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu, privalo būti nustatyta:
+
+
+1) avarijų, sutrikimų prevencijos ir likvidavimo sisteminės paslaugos, kurias kiekvieniems kalendoriniams metams nustato perdavimo sistemos operatorius ir tarp kurių turi būti įtraukta parengtis užtikrinti izoliuotą elektros energetikos sistemos darbą, ir kurios būtinos elektros energetikos sistemos sinchronizacijai įgyvendinti;
+
+
+
+
+2) perdavimo sistemos operatoriaus techniniai reikalavimai tinklų naudotojams, reikalingi izoliuotam elektros energetikos sistemos darbui vykdyti;
+
+
+
+
+3) valstybinę energetikos kontrolę atliekančios institucijos, nurodytos Lietuvos Respublikos energetikos įstatyme, nustatyta parengties užtikrinti izoliuotą elektros energetikos sistemos darbą vertinimo ir patikros tvarka.
+
+
+
+
+
+
+3. Elektros energijos gamintojai, teikiantys aktyviosios galios rezervo paslaugą, teisės aktų nustatyta tvarka ir sąlygomis privalomai dalyvauja teikiant avarijų, sutrikimų prevencijos ir likvidavimo sistemines paslaugas.
+
+
+
+
+4. Siekdamas tinkamai pasirengti Lietuvos Respublikos elektros energetikos sistemos sujungimui su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu, perdavimo sistemos operatorius turi atlikti izoliuoto elektros energetikos sistemos darbo bandymą. Izoliuoto elektros energetikos sistemos darbo bandymo metu gali būti apribotas elektros energijos rinkos veikimas. Perdavimo sistemos operatorius privalo imtis visų reikiamų priemonių, kad būtų išvengta elektros energijos tiekimo tinklų naudotojams sutrikimų.
+
+
+
+
+5. Tinklų naudotojai, išskyrus buitinius vartotojus, nepaisant to, kokia patikimumo kategorija jiems yra suteikta, iki izoliuoto elektros energetikos sistemos darbo bandymo ir izoliuoto elektros energetikos sistemos darbo bandymo metu bendradarbiauja su perdavimo sistemos operatoriumi ir privalo būti pasirengę galimiems elektros energijos tiekimo sutrikimams ar būti įsidiegę technines priemones, reikalingas technologiniams procesams saugiai sustabdyti ir galimiems nuostoliams išvengti ar maksimaliai juos sumažinti laikydamiesi teisės aktų ir (ar) jų pagrindu perdavimo sistemos operatoriaus nustatytų techninių sąlygų. Tinklų naudotojų patirti nuostoliai vykdant izoliuoto elektros energetikos sistemos darbo bandymą nekompensuojami, jeigu jie atsiranda dėl aplinkybių, kurios prieš pradedant izoliuoto elektros energetikos sistemos darbo bandymą nebuvo ir negalėjo būti numatytos, taip pat jų nebuvo galima išvengti, kontroliuoti bei pašalinti.
+ 
+
+
+
+
+
+
+9 straipsnis. Elektros energetikos sistemos sinchronizacijos projekto teritorijų planavimas
+
+
+1. Elektros energetikos sistemos sinchronizacijos projekto inžinerinės infrastruktūros vystymo planų rengimą organizuoja Lietuvos Respublikos energetikos ministerija (toliau – planavimo organizatorius).
+
+
+
+
+2. Elektros energetikos sistemos sinchronizacijos projekto inžinerinės infrastruktūros vystymo planams taikoma Lietuvos Respublikos teritorijų planavimo įstatyme numatyta valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka, išskyrus šiame įstatyme numatytas išimtis.
+
+
+
+
+3. Perdavimo sistemos operatorius arba kitas ūkio subjektas, dalyvaujantis elektros energetikos sistemos sinchronizacijos projekte, turi planavimo iniciatyvos teisę (toliau – planavimo iniciatorius) ir teikia planavimo organizatoriui pasiūlymus dėl elektros energetikos sistemos sinchronizacijos projekto inžinerinės infrastruktūros vystymo planų rengimo, keitimo ar koregavimo ir finansavimo. Priėmus sprendimą rengti, keisti ar koreguoti siūlomą inžinerinės infrastruktūros vystymo planą, planavimo iniciatorius su planavimo organizatoriumi sudaro sutartį, numatančią teritorijų planavimo dokumento rengimą, keitimą ar koregavimą ir finansavimą.
+
+
+
+
+4. Planavimo organizatorius gali įgalioti planavimo iniciatorių atlikti dalį Lietuvos Respublikos teritorijų planavimo įstatyme reglamentuotų su viešojo administravimo veikla nesusijusių specialiojo teritorijų planavimo procedūrų ir jas finansuoti.
+
+
+
+
+5. Elektros energetikos sistemos sinchronizacijos projekto inžinerinės infrastruktūros vystymo plano rengėją Lietuvos Respublikos įstatymų nustatyta tvarka parenka planavimo iniciatorius. Elektros energetikos sistemos sinchronizacijos projekto inžinerinės infrastruktūros vystymo plano rengimas finansuojamas šio įstatymo 12 straipsnio 1 dalyje nurodytomis lėšomis.
+ 
+
+
+
+
+
+
+10 straipsnis. Elektros energetikos sistemos sinchronizacijos projektui įgyvendinti reikalingos žemės suteikimas
+
+
+1. Elektros energetikos sistemos sinchronizacijos projektui įgyvendinti reikalingos žemės paėmimo visuomenės poreikiams procedūros atliekamos Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo nustatyta tvarka.
+
+
+
+
+2. Servitutai, suteikiantys teisę tiesti inžinerinės infrastruktūros (elektros) tinklus ar įrengti kitą elektros energetikos sistemos sinchronizacijos projektui įgyvendinti būtiną infrastruktūrą, ja naudotis ir ją prižiūrėti, reikalingi elektros energetikos sistemos sinchronizacijos projektui įgyvendinti, kurių dydis ir vieta suprojektuojami elektros energetikos sistemos sinchronizacijos projekto inžinerinės infrastruktūros vystymo plane, nustatomi administraciniu aktu Lietuvos Respublikos žemės įstatymo nustatyta tvarka. Šiuo administraciniu aktu nustatytus servitutus Lietuvos Respublikos nekilnojamojo turto registre įregistruoja perdavimo sistemos operatorius.
+ 
+
+
+
+
+
+
+11 straipsnis. Administracinių procedūrų, paslaugų ir individualių administracinių aktų, susijusių su elektros energetikos sistemos sinchronizacijos projekto įgyvendinimu, terminai
+
+
+1. Valstybės ir savivaldybių institucijos privalo užtikrinti, kad visos elektros energetikos sistemos sinchronizacijos projektui įgyvendinti reikalingos su teritorijų planavimu, statyba, servitutų nustatymu ir planuojamos ūkinės veiklos poveikio aplinkai vertinimu susijusios administracinės procedūros būtų atliktos, administracinės paslaugos suteiktos ir individualūs administraciniai aktai priimti prioriteto tvarka per įmanomai trumpiausią terminą.
+
+
+
+
+2. Elektros energetikos sistemos sinchronizacijos projektui įgyvendinti rengiami specialiojo teritorijų planavimo dokumentai turi būti išnagrinėti ir derinimo ar motyvuota atsisakymo derinti išvada dėl jų pateikta per 10 darbo dienų nuo teritorijų planavimo dokumentų pateikimo derinančioms institucijoms dienos, taip pat elektros energetikos sistemos sinchronizacijos projekto specialiojo teritorijų planavimo dokumentai ir procedūrų dokumentai turi būti patikrinti ir patikrinimo aktas pateiktas per 10 darbo dienų nuo teritorijų planavimo dokumentų gavimo dienos.
+ 
+
+
+
+
+
+
+12 straipsnis. Finansavimas ir elektros energetikos sistemos sinchronizacijos projekto sąnaudų įtraukimas į elektros energijos perdavimo ir (ar) sisteminių paslaugų kainą
+
+
+1. Elektros energetikos sistemos sinchronizacijos projektas yra priskirtinas elektros energijos perdavimo veiklai ir finansuojamas perdavimo sistemos operatoriaus nuosavomis ir (ar) skolintomis lėšomis ir (ar) Europos Sąjungos fondų lėšomis, gautomis subsidijomis, dotacijomis ar joms prilygintomis lėšomis.
+
+
+
+
+2. Elektros energetikos sistemos sinchronizacijos projekto sąnaudos Valstybinės energetikos reguliavimo tarybos nustatyta tvarka yra įtraukiamos į perdavimo ir (ar) sisteminių paslaugų kainą.
+ 
+
+
+
+
+
+
+13 straipsnis. Elektros energetikos sistemos sinchronizacijos projekto įgyvendinimas
+
+
+1. Elektros energetikos sistemos sinchronizacijos projektą pagal sudarytus tarpvalstybinius susitarimus ir priimtus sprendimus dėl elektros energetikos sistemos sinchronizacijos scenarijaus įgyvendina perdavimo sistemos operatorius, vadovaudamasis šiuo įstatymu, Elektros energetikos sistemos sinchronizacijos projekto veiksmų ir priemonių planu, kitais Lietuvos Respublikos teisės aktais ir Europos elektros perdavimo sistemos operatorių asociacijos (ENTSO-E) kontinentinės Europos regioninės grupės (RGCE) išduotomis sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu sąlygomis. Elektros energetikos sistemos sinchronizacijos projekto įgyvendinimą pagal kompetenciją prižiūri ir koordinuoja Lietuvos Respublikos energetikos ministerija bendradarbiaudama su kitomis valstybės ir savivaldybių institucijomis ir asmenimis Elektros energetikos sistemos sinchronizacijos projekto veiksmų ir priemonių plane nustatyta tvarka ir sąlygomis.
+
+
+
+
+2. Konkrečių elektros energetikos projektų, vykdomų įgyvendinant elektros energetikos sistemos sinchronizacijos projektą ir esančių neatsiejama šio projekto dalimi, sąrašą Lietuvos Respublikos energetikos ministerijos teikimu tvirtina Lietuvos Respublikos Vyriausybė.
+
+
+
+
+3. Valstybės ir savivaldybių institucijos, elektros energijos gamintojai, taip pat kitos įmonės, įstaigos ir organizacijos ir kiti tinklų naudotojai bendradarbiauja ir pagal kompetenciją Elektros energetikos sistemos sinchronizacijos projekto veiksmų ir priemonių plane ir kituose teisės aktuose nustatyta tvarka ir sąlygomis užtikrina Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu būtinąsias sąlygas, įsidiegia ir užtikrina reikiamas technines priemones ir priima sprendimus, reikalingus šiam įstatymui tinkamai įgyvendinti.
+
+
+
+
+4. Įgyvendinant Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu tikslą, perdavimo sistemos operatorius, valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos pagal kompetenciją koordinuoja savo veiksmus su Latvijos Respublikos, Estijos Respublikos ir Lenkijos Respublikos elektros perdavimo sistemų operatoriais, institucijomis, įmonėmis, įstaigomis ir organizacijomis, Europos Komisija, Europos elektros perdavimo sistemos operatorių asociacija (ENTSO-E) ir Baltijos energijos rinkos jungčių plano (BEMIP) aukšto lygio grupe (BEMIP HLG), kad pagal poreikį būtų bendrai priimami suderinti sprendimai, reikalingi šiam tikslui pasiekti.
+
+
+
+
+5. Lietuvos Respublikos Seimas atlieka Elektros energetikos sistemos sinchronizacijos projekto įgyvendinimo parlamentinę kontrolę Lietuvos Respublikos Seimo statuto ir kitų teisės aktų nustatyta tvarka ir sąlygomis.
+ 
+
+
+
+
+
+
+14 straipsnis. Ginčų nagrinėjimas
+
+
+Administracinės bylos, kurioje nagrinėjami ginčai, susiję su elektros energetikos sistemos sinchronizacijos projekto įgyvendinimu, išskyrus ginčus dėl žemės paėmimo visuomenės poreikiams, nagrinėjimas administraciniame teisme turi būti užbaigtas ir sprendimas pirmosios instancijos teisme turi būti priimtas ne vėliau kaip per vieną mėnesį nuo nutarties skirti bylą nagrinėti teismo posėdyje priėmimo dienos, o apeliacinės instancijos teisme – ne vėliau kaip per du mėnesius nuo apeliacinio skundo priėmimo dienos.
+ 
+
+
+
+
+
+
+15 straipsnis. Atsakomybė
+
+
+Asmenys, įgalioti priimti su šio įstatymo įgyvendinimu susijusius sprendimus ir nesilaikantys ar nevykdantys šio įstatymo reikalavimų, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.“
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 straipsnis. Įstatymo taikymas ir įgyvendinimas
+
+
+1. Iki šio įstatymo įsigaliojimo pradėti rengti elektros energetikos sistemos sinchronizacijos projekto vietovės lygmens teritorijų planavimo dokumentai, dėl kurių rengimo kreiptasi planavimo sąlygų, baigiami rengti, derinami, tikrinami ir tvirtinami pagal iki šio įstatymo įsigaliojimo galiojusį teisinį reguliavimą.
+
+
+
+
+2. Lietuvos Respublikos Vyriausybė iki 2019 m. rugsėjo 10 d. patvirtina Elektros energetikos sistemos sinchronizacijos projekto veiksmų ir priemonių planą, kaip nurodyta šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymo 7 straipsnyje, ir konkrečių elektros energetikos projektų sąrašą, kaip nurodyta šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymo 13 straipsnio 2 dalyje. Vyriausybė ar jos įgaliotos institucijos iki 2019 m. spalio 10 d. priima kitus jų kompetencijai priskirtus šio įstatymo įgyvendinamuosius teisės aktus.
+
+
+
+
+3. Valstybinė energetikos reguliavimo taryba iki 2019 m. lapkričio 1 d. priima jos kompetencijai priskirtus šio įstatymo įgyvendinamuosius teisės aktus.
+ 
+
+
+
+
+
+
+Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
+ 
+ 
+ 
+Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
