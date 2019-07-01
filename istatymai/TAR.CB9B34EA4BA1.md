@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB9B34EA4BA1"
 
 # Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2002, i. k. 0961010ISTA00I-1494
  
@@ -220,7 +220,10 @@ Nr. XII-2758, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26899
 6 straipsnis. Meno kūrėjo ir meno kūrėjų organizacijos statuso suteikimo taryba
 
 
-1. Meno kūrėjo ir meno kūrėjų organizacijos statuso suteikimo tarybą (toliau – Taryba) sudaro kultūros ministras. Taryba yra visuomeninė institucija, kolegialiu sprendimu suteikianti meno kūrėjo ir meno kūrėjų organizacijos statusą.
+1. Meno kūrėjo ir meno kūrėjų organizacijos statuso suteikimo tarybą (toliau – Taryba) sudaro kultūros ministras. Taryba kolegialiu sprendimu suteikia meno kūrėjo ir meno kūrėjų organizacijos statusą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1753, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20733
+ 
 
 
 
@@ -230,7 +233,10 @@ Nr. XII-2758, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26899
 
 
 
-3. Tarybos nuostatus ir sudėtį tvirtina kultūros ministras.
+3. Tarybos nuostatus ir sudėtį tvirtina kultūros ministras. Tarybos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1753, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20733
+ 
 
 
 
@@ -680,6 +686,7 @@ MENO KŪRĖJŲ ORGANIZACIJŲ ASOCIACIJA
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
  
 
@@ -713,3 +720,8 @@ Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2758, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26899
 Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo Nr. I-1494 3 ir 4 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1753, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20733
+Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo Nr. I-1494 6 straipsnio pakeitimo įstatymas
