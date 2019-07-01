@@ -20,16 +20,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B2F1F575D794"
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2020-11-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 51-951, i. k. 0941010ISTA000I-509
  
 Nauja įstatymo redakcija nuo 2008-01-01:
 Nr. X-1300, 2007-10-18, Žin., 2007, Nr. 114-4631 (2007-11-08)
  
-LIETUVOS RESPUBLIKOS
-KONSULINIO MOKESČIO 
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS KONSULINIO MOKESČIO  ĮSTATYMAS
  
 1994 m. birželio 23 d. Nr. I-509
 Vilnius
@@ -341,9 +339,10 @@ Nr. XII-2118, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19707
 
 
 
-21) paso ar asmens tapatybės kortelės (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimą, keitimą arba dokumentų dėl paso ar asmens tapatybės kortelės (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimo ir keitimo priėmimą ir perdavimą bendra tvarka vaikams, kuriems nustatyta globa ar rūpyba, užsienio valstybių išlaikomiems stacionariose globos įstaigose asmenims, vienišiems asmenims, sukakusiems senatvės pensijos amžių, asmenims, kuriems nustatytas 0–40 procentų darbingumo lygis, asmenims iki 18 metų, kuriems nustatytas neįgalumo lygis, asmenims, kuriems pagal Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymą pripažįstamas nuo okupacijų nukentėjusio – represuoto asmens teisinis statusas; 
+21) paso ar asmens tapatybės kortelės (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimą, keitimą arba dokumentų dėl paso ar asmens tapatybės kortelės (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimo ir keitimo priėmimą ir perdavimą bendra tvarka vaikams, kuriems nustatyta globa ar rūpyba, užsienio valstybių išlaikomiems stacionariose globos įstaigose asmenims, vienišiems asmenims, sukakusiems senatvės pensijos amžių, asmenims, kuriems nustatytas 0–40 procentų darbingumo lygis, asmenims iki 18 metų, kuriems nustatytas neįgalumo lygis, pasipriešinimo (rezistencijos) dalyviams, kuriems kario savanorio ar laisvės kovų dalyvio teisinis statusas pripažįstamas Lietuvos Respublikos pasipriešinimo 1940–1990 metų okupacijoms dalyvių teisinio statuso įstatyme nustatyta tvarka, ir Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 3 straipsnyje nurodytiems nuo okupacijų nukentėjusiems asmenims, kuriems pagal šį įstatymą pripažįstamas nuo okupacijų nukentėjusio asmens teisinis statusas;
 Straipsnio punkto pakeitimai:
 Nr. XII-1522, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21284
+Nr. XIII-2026, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05401
  
 
 
@@ -454,7 +453,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                 ALGIRDAS BRAZAUSKAS 
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS 
  
 
 
@@ -463,6 +462,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
+ 
  
 Lietuvos Respublikos 
 konsulinio mokesčio įstatymo
@@ -482,7 +482,7 @@ priedas
 
 
 
-3. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB)  Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas) (OL 2009 L 243, p. 1).
+3. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas) (OL 2009 L 243, p. 1).
 
 
 Priedo pakeitimas:
@@ -575,3 +575,8 @@ Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 3, 6 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2118, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19707
 Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 3 ir 6 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2026, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05401
+Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 6 straipsnio pakeitimo įstatymas
