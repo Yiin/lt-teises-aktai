@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-08-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -540,7 +540,10 @@ Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 
 
-4) Neįgaliųjų reikalų departamentas prie Socialinės apsaugos ir darbo ministerijos (toliau – Neįgaliųjų reikalų departamentas) pagal kompetenciją organizuoja neįgaliųjų socialinės integracijos politikos įgyvendinimą ir, įtraukdamas neįgaliųjų asociacijas, organizuoja neįgaliųjų socialinės integracijos veiklos rezultatų stebėseną, rengia Jungtinių Tautų neįgaliųjų teisių konvencijos ir jos Fakultatyvaus protokolo įgyvendinimo stebėsenos ataskaitas;
+4) Neįgaliųjų reikalų departamentas prie Socialinės apsaugos ir darbo ministerijos (toliau – Neįgaliųjų reikalų departamentas) pagal kompetenciją organizuoja neįgaliųjų socialinės integracijos politikos įgyvendinimą ir, įtraukdamas neįgaliųjų asociacijas, organizuoja neįgaliųjų socialinės integracijos veiklos rezultatų stebėseną, dalyvauja rengiant Jungtinių Tautų neįgaliųjų teisių konvencijos įgyvendinimo stebėsenos ataskaitas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1761, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20742
+ 
 
 
 
@@ -1589,3 +1592,8 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1553, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17468
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 15 straipsnio pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1761, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20742
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 16 straipsnio pakeitimo įstatymas
