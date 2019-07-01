@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2019-05-08 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-10-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -2352,7 +2352,10 @@ viešosios informacijos rengimo ir platinimo Reikalavimai
 
 
 
-2. Radijo ir (ar) televizijos programos, transliuojamos ne lietuvių kalba, turi būti verčiamos į lietuvių kalbą arba rodomos su lietuviškais subtitrais, išskyrus mokomąsias, progines, specialiąsias, muzikines ir retransliuojamas užsienio valstybių radijo ir (ar) televizijos programas ar atskiras programas, taip pat radijo ir (ar) televizijos programų transliuotojų sukurtas programas, skirtas Lietuvos tautinėms mažumoms. Komisija, atsižvelgdama į tautinių mažumų, gyvenančių transliuojamų radijo ir (ar) televizijos programų aprėpties zonoje, poreikius, nurodydama licencijos sąlygas, gali nustatyti, kokią transliuojamų ir (ar) retransliuojamų radijo ir (ar) televizijos programų ar atskirų programų dalį turi sudaryti radijo ir (ar) televizijos programos ar atskiros programos tautinių mažumų kalbomis.
+2. Radijo ir (ar) televizijos programos, transliuojamos ne lietuvių kalba, bet kita oficialia Europos Sąjungos kalba, taip pat radijo ir (ar) televizijos programas sudarančios atskiros programos, transliuojamos ne oficialia Europos Sąjungos kalba, jeigu tokių programų suminė trukmė per parą yra ne didesnė negu 90 minučių, turi būti verčiamos į lietuvių kalbą arba rodomos su lietuviškais subtitrais. Radijo ir (ar) televizijos programas sudarančios atskiros programos, transliuojamos ne oficialia Europos Sąjungos kalba, turi būti verčiamos į lietuvių kalbą, jeigu tokių programų suminė trukmė per parą yra didesnė negu 90 minučių. Skaičiuojant programų trukmę, neįskaitomas tokių programų pakartotinės transliacijos laikas, komercinių audiovizualinių pranešimų laikas ir anonsai. Ši nuostata netaikoma mokomosioms, proginėms, specialiosioms, muzikinėms ir retransliuojamoms užsienio valstybių radijo ir (ar) televizijos programoms ar atskiroms programoms, taip pat radijo ir (ar) televizijos programų transliuotojų sukurtoms programoms, skirtoms Lietuvos tautinėms mažumoms. Komisija, atsižvelgdama į tautinių mažumų, gyvenančių transliuojamų radijo ir (ar) televizijos programų aprėpties zonoje, poreikius, nurodydama licencijos sąlygas, gali nustatyti, kokią transliuojamų ir (ar) retransliuojamų radijo ir (ar) televizijos programų ar atskirų programų dalį turi sudaryti radijo ir (ar) televizijos programos ar atskiros programos tautinių mažumų kalbomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1355, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11457
+ 
 
 
 
@@ -2362,9 +2365,10 @@ viešosios informacijos rengimo ir platinimo Reikalavimai
 
 
 
-4. Retransliuotojai, retransliuodami televizijos programas, ir (ar) kiti asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, pirmenybę turi teikti oficialioms Europos Sąjungos kalboms. Televizijos programos oficialiomis Europos Sąjungos kalbomis, taip pat programos neoficialiomis Europos Sąjungos kalbomis, sukurtos kitoje valstybėje narėje, turi sudaryti ne mažiau kaip 90 procentų programų kiekio teikiant Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas ir (ar) ne mažiau kaip 90 procentų retransliuojamų televizijos programų kiekio kiekviename jų vartotojams siūlomame pagrindiniame televizijos programų pakete. Šis reikalavimas netaikomas už papildomą mokestį platinamiems televizijos programų paketams. Esant galimybei pasirinkti, kuria kalba retransliuoti ir (ar) platinti internete tokią pačią televizijos programą – oficialia Europos Sąjungos ar kita kalba, retransliuotojai ir (ar) asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, privalo sudaryti visas sąlygas, kad televizijos programa ar atskira programa būtų retransliuojama ir (ar) platinama internete oficialia Europos Sąjungos kalba. 
+4. Retransliuotojai, retransliuodami televizijos programas, ir (ar) kiti asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, pirmenybę turi teikti oficialioms Europos Sąjungos kalboms. Televizijos programos oficialiomis Europos Sąjungos kalbomis turi sudaryti ne mažiau kaip 90 procentų programų kiekio teikiant Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas ir (ar) ne mažiau kaip 90 procentų retransliuojamų televizijos programų kiekio kiekviename jų vartotojams siūlomame pagrindiniame televizijos programų pakete. Šis reikalavimas netaikomas už papildomą mokestį platinamiems televizijos programų paketams. Esant galimybei pasirinkti, kuria kalba retransliuoti ir (ar) platinti internete tokią pačią televizijos programą – oficialia Europos Sąjungos kalba ar kita kalba, retransliuotojai ir (ar) asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, privalo sudaryti visas sąlygas, kad televizijos programa ar atskira programa būtų retransliuojama ir (ar) platinama internete oficialia Europos Sąjungos kalba. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIII-1355, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11457
  
 
 
