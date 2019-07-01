@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D00D08A48D5D"
 
 # Lietuvos Respublikos žmogaus audinių, ląstelių, organų donorystės ir transplantacijos įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 116-2696, i. k. 0961010ISTA00I-1626
  
@@ -431,7 +431,10 @@ II SKYRIUS
 
 
 
-5) audinių, ląstelių, organų paėmimo, transplantacijos, šalinimo atvejai.
+5) su žmogaus audiniais, ląstelėmis (įskaitant žmogaus lytines ląsteles), organais atliekami veiksmai.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2154, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09406
+ 
 
 
 
@@ -828,3 +831,8 @@ Lietuvos Respublikos žmogaus audinių, ląstelių ir organų donorystės ir tra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2344, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13911
 Lietuvos Respublikos žmogaus audinių, ląstelių, organų donorystės ir transplantacijos įstatymo Nr. I-1626 10 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2154, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09406
+Lietuvos Respublikos žmogaus audinių, ląstelių, organų donorystės ir transplantacijos įstatymo Nr. I-1626 7 straipsnio pakeitimo įstatymas
