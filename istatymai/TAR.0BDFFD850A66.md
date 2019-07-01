@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66"
 
 # Lietuvos Respublikos viešojo administravimo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-10-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1945, i. k. 0991010ISTAIII-1234
  
@@ -1671,10 +1671,11 @@ Nr. XIII-392, 2017-06-01, paskelbta TAR 2017-06-07, i. k. 2017-09671
 
 
 
-16. Šis straipsnis mokesčių administratoriui, muitinei, finansų rinkos priežiūrą, asmens duomenų apsaugos priežiūrą, taip pat konkurencijos priežiūrą atliekantiems subjektams netaikomas. Šioje dalyje nurodytiems subjektams šio straipsnio nuostatos yra rekomendacinės.
+16. Šis straipsnis mokesčių administratoriui, muitinei, finansų rinkos priežiūrą, asmens duomenų apsaugos priežiūrą, didelę rinkos galią turinčių mažmeninės prekybos įmonių rinkos galios panaudojimo priežiūrą, taip pat konkurencijos priežiūrą atliekantiems subjektams netaikomas. Šioje dalyje nurodytiems subjektams šio straipsnio nuostatos yra rekomendacinės. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1317, 2014-11-11, paskelbta TAR 2014-11-20, i. k. 2014-17213
 Nr. XIII-1432, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11740
+Nr. XIII-2122, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08420
  
 
 
@@ -1821,9 +1822,10 @@ Nr. XIII-1432, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11740
 
 
 
-7. Šio straipsnio 1, 2, 3, 4 ir 5 dalys netaikomos mokesčių administratoriui, muitinei, finansų rinkos priežiūrą, asmens duomenų apsaugos priežiūrą, taip pat konkurencijos priežiūrą atliekantiems subjektams. Šioje dalyje nurodytiems subjektams šio straipsnio 1, 2, 3, 4 ir 5 dalių nuostatos yra rekomendacinės.
+7. Šio straipsnio 1, 2, 3, 4 ir 5 dalys netaikomos mokesčių administratoriui, muitinei, finansų rinkos priežiūrą, asmens duomenų apsaugos priežiūrą, didelę rinkos galią turinčių mažmeninės prekybos įmonių rinkos galios panaudojimo priežiūrą, taip pat konkurencijos priežiūrą atliekantiems subjektams. Šioje dalyje nurodytiems subjektams šio straipsnio 1, 2, 3, 4 ir 5 dalių nuostatos yra rekomendacinės. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1432, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11740
+Nr. XIII-2122, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08420
  
 
 
@@ -2203,3 +2205,8 @@ Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 36-4, 36-8 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1372, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12040
 Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 11 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2122, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08420
+Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 36-4 ir 36-8 straipsnių pakeitimo įstatymas
