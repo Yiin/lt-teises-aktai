@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-09-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -386,7 +386,7 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 11 straipsnis. Socialinės apsaugos ir darbo ministerijos kompetencija 
 
 
-1. Socialinės apsaugos ir darbo ministerija įgyvendina valstybės socialinių paslaugų politiką:
+Socialinės apsaugos ir darbo ministerija įgyvendina valstybės socialinių paslaugų politiką:
 
 
 1) pagal savo kompetenciją teikia Vyriausybei siūlymus dėl valstybės socialinių paslaugų sistemos ir socialinio darbo vystymo krypčių ir rengia teisės aktų projektus dėl asmens (šeimos) socialinių paslaugų poreikio nustatymo, socialinių paslaugų skyrimo, teikimo, finansavimo, mokėjimo už socialines paslaugas, socialinės globos normų, socialinės globos įstaigų licencijavimo, socialinių darbuotojų, socialinių darbuotojų padėjėjų profesinės kvalifikacijos kėlimo ir veiklos reglamentavimo ir kt.; 
@@ -394,31 +394,24 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-2) analizuoja ir vertina socialinių paslaugų būklę šalyje ir teikia siūlymus savivaldybėms dėl socialinių paslaugų planavimo, organizavimo;
+2) analizuoja ir vertina socialinių paslaugų būklę šalyje ir teikia savivaldybėms siūlymus dėl socialinių paslaugų planavimo, organizavimo; 
 
 
 
 
 3) analizuoja socialinių darbuotojų poreikius tobulinti profesinę kompetenciją, organizuoja socialinių darbuotojų praktinės veiklos vertinimą; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
- 
 
 
 
 
-4) rengia ir įgyvendina valstybės socialinių paslaugų programas ir projektus.
+4) rengia ir įgyvendina valstybės socialinių paslaugų programas ir projektus. 
 
 
-
-
-
-
-2. Socialinės apsaugos ir darbo ministerija ar jos įgaliota institucija steigia, reorganizuoja ar likviduoja socialinės globos įstaigas, kurios teikia gyventojams ilgalaikę ar trumpalaikę socialinę globą, reikalingą ne kiekvienoje savivaldybės teritorijoje. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
  
 
 
@@ -493,7 +486,10 @@ Nr. XI-777, 2010-04-22, Žin. 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA0
 
 
 
-6) steigia, reorganizuoja ir likviduoja socialinių paslaugų įstaigas bei užtikrina jų funkcionavimą;
+6) steigia, pertvarko, reorganizuoja ir likviduoja socialinių paslaugų įstaigas bei užtikrina jų funkcionavimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
+ 
 
 
 
@@ -807,57 +803,83 @@ Nr. XIII-1292, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10596
 
 
 
-3. Vaikus globojanti šeima, budintis globotojas turi atitikti teisės aktų nustatytus reikalavimus ir turėti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos atestuotų asmenų išvadą apie vaikus globojančios šeimos, budinčio globotojo tinkamumą globoti (rūpintis) vaikus (vaikais).
+3. Vyriausybė ar jos įgaliota institucija steigia, pertvarko, reorganizuoja ar likviduoja ilgalaikę ar trumpalaikę socialinę globą gyventojams teikiančias socialinės globos įstaigas, kurios reikalingos ne kiekvienos savivaldybės teritorijoje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
+ 
+
+
+
+
+4. Socialinių paslaugų įstaigos, kurių teisinė forma yra biudžetinė įstaiga, Lietuvos Respublikos civilinio kodekso ir Lietuvos Respublikos biudžetinių įstaigų įstatymo nustatyta tvarka gali būti pertvarkomos į viešąsias įstaigas. Šioms iš biudžetinių įstaigų pertvarkytoms viešosioms įstaigoms valstybės ar savivaldybių turtas gali būti perduodamas Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
+ 
+
+
+
+
+5. Vaikus globojanti šeima, budintis globotojas turi atitikti teisės aktų nustatytus reikalavimus ir turėti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos atestuotų asmenų išvadą apie vaikus globojančios šeimos, budinčio globotojo tinkamumą globoti (rūpintis) vaikus (vaikais).
 Straipsnio dalies pakeitimai:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
 Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
 Nr. XIII-1292, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10596
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
  
 
 
 
 
-4. Socialinių paslaugų įstaigoje dirba socialiniai darbuotojai, socialinių darbuotojų padėjėjai ir kiti socialinių paslaugų srities darbuotojai, kurių pareigybių sąrašą tvirtina socialinės apsaugos ir darbo ministras, taip pat švietimo, sveikatos priežiūros specialistai ir kiti darbuotojai.       
+6. Socialinių paslaugų įstaigoje dirba socialiniai darbuotojai, socialinių darbuotojų padėjėjai ir kiti socialinių paslaugų srities darbuotojai, kurių pareigybių sąrašą tvirtina socialinės apsaugos ir darbo ministras, taip pat švietimo, sveikatos priežiūros specialistai ir kiti darbuotojai.       
 Papildyta straipsnio dalimi:
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
  
 
 
 
 
-5. Socialinių paslaugų įstaigoje gali dirbti sielovados darbuotojas. Sielovados darbuotojas netenka teisės dirbti sielovados darbą, kai tradicinė religinė bendruomenė ar bendrija atšaukia leidimą arba siuntimą. 
+7. Socialinių paslaugų įstaigoje gali dirbti sielovados darbuotojas. Sielovados darbuotojas netenka teisės dirbti sielovados darbą, kai tradicinė religinė bendruomenė ar bendrija atšaukia leidimą arba siuntimą. 
 Papildyta straipsnio dalimi:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
  
 
 
 
 
-6. Socialinės globos įstaigos vadovas privalo turėti aukštąjį išsilavinimą ir nuolat tobulinti savo profesinę kompetenciją socialinės apsaugos ir darbo ministro nustatyta tvarka. 
+8. Socialinės globos įstaigos vadovas privalo turėti aukštąjį išsilavinimą ir nuolat tobulinti savo profesinę kompetenciją socialinės apsaugos ir darbo ministro nustatyta tvarka. 
 Papildyta straipsnio dalimi:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 Straipsnio dalies pakeitimai:
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
  
 
 
 
 
-7. Europos Sąjungos valstybėse išduoti leidimai, licencijos, kvalifikacijos reikalavimus patvirtinantys dokumentai teisės aktų nustatyta tvarka pripažįstami tinkamais verstis socialinėmis paslaugomis Lietuvos Respublikoje.
+9. Europos Sąjungos valstybėse išduoti leidimai, licencijos, kvalifikacijos reikalavimus patvirtinantys dokumentai teisės aktų nustatyta tvarka pripažįstami tinkamais verstis socialinėmis paslaugomis Lietuvos Respublikoje.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
  
 
 
 
 
-8. Kitoje Europos Sąjungos valstybėje narėje arba Europos ekonominės erdvės  valstybėje įsisteigusiai socialinės globos įstaigai, siekiančiai Lietuvos Respublikoje teikti socialinę globą, reikalavimas turėti licenciją Lietuvos Respublikoje netaikomas, jeigu ji turi licenciją (leidimą) teikti socialinę globą pagal savo įsisteigimo valstybės teisės aktus. 
+10. Kitoje Europos Sąjungos valstybėje narėje arba Europos ekonominės erdvės  valstybėje įsisteigusiai socialinės globos įstaigai, siekiančiai Lietuvos Respublikoje teikti socialinę globą, reikalavimas turėti licenciją Lietuvos Respublikoje netaikomas, jeigu ji turi licenciją (leidimą) teikti socialinę globą pagal savo įsisteigimo valstybės teisės aktus. 
 Papildyta straipsnio dalimi:
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
  
 
 
@@ -1798,20 +1820,35 @@ Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 
 
 
-2. Tais atvejais, kai asmeniui šio straipsnio 1 dalyje išvardytas turtas priklauso bendrosios jungtinės nuosavybės teise, į asmens turtą įskaitoma jam tenkanti šio turto dalis. 
-
-
-
-
-3. Tais atvejais, kai asmuo gyvena su šeima ir (arba) artimaisiais giminaičiais ir šios šeimos ir (arba) artimųjų giminaičių gyvenamoji patalpa, kurioje jie ne trumpiau kaip vienus metus yra deklaravę savo gyvenamąją vietą, yra asmens nuosavybės teise turimas turtas, šios patalpos į asmens turtą neįskaitomos.   
-Straipsnio dalies pakeitimai:
-Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+2. Į asmens turtą įskaitomas šio straipsnio 1 dalyje išvardytas turtas, perduotas kitam fiziniam ar juridiniam asmeniui pagal rentos ar išlaikymo iki gyvos galvos sutartis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
  
 
 
 
 
-4. Asmens turtas apskaičiuojamas vadovaujantis Vyriausybės ar jos įgaliotos institucijos patvirtintu mokėjimo už socialines paslaugas tvarkos aprašu. 
+3. Tais atvejais, kai asmeniui šio straipsnio 1 dalyje išvardytas turtas priklauso bendrosios jungtinės nuosavybės teise, į asmens turtą įskaitoma jam tenkanti šio turto dalis. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
+ 
+
+
+
+
+4. Tais atvejais, kai asmuo gyvena su šeima ir (arba) artimaisiais giminaičiais ir šios šeimos ir (arba) artimųjų giminaičių gyvenamoji patalpa, kurioje jie ne trumpiau kaip vienus metus yra deklaravę savo gyvenamąją vietą, yra asmens nuosavybės teise turimas turtas, šios patalpos į asmens turtą neįskaitomos.   
+Straipsnio dalies pakeitimai:
+Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
+ 
+
+
+
+
+5. Asmens turtas apskaičiuojamas vadovaujantis Vyriausybės ar jos įgaliotos institucijos patvirtintu mokėjimo už socialines paslaugas tvarkos aprašu. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
  
 
 
@@ -2247,3 +2284,8 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 4, 16, 18, 19,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1402, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11463
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 30 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19 ir 31 straipsnių pakeitimo įstatymas
