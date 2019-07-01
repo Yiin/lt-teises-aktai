@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2271, i. k. 1001010ISTAIII-1904
  
@@ -83,7 +83,7 @@ Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
 
 
 
-2. Neteko galios nuo 2008-11-15.
+2. Neteko galios 2008-11-15.
 
 
 
@@ -138,7 +138,10 @@ Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
 
 
 
-9) Seimo, Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams;
+9) Seimo, Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams (išskyrus Valstybinės energetikos reguliavimo tarybos pirmininką ir narius); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1972, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03170
+ 
 
 
 
@@ -148,11 +151,19 @@ Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
 
 
 
-12) netenka galios 2018-01-01.
+12) netenka galios 2018-01-01;
 Papildyta straipsnio punktu:
 Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
 Straipsnio punkto pakeitimai:
 Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
+ 
+
+
+
+
+13) Vyriausybės atstovams.
+Papildyta straipsnio punktu:
+Nr. XIII-1481, 2018-09-18, paskelbta TAR 2018-09-24, i. k. 2018-14925
  
 
 
@@ -393,7 +404,7 @@ Nr. IX-1045, 2002-07-05, Žin., 2002, Nr. 73-3104 (2002-07-19)
 
 
 
-7 straipsnis. Neteko galios nuo 2008-11-15.
+7 straipsnis. Neteko galios 2008-11-15.
 Straipsnio pakeitimai:
 Nr. VIII-2057, 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
 Nr. IX-231, 2001 03 27, Žin., 2001, Nr. 29-918 (2001 04 04)
@@ -410,7 +421,7 @@ Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
 
 
 
-8 straipsnis. Neteko galios nuo 2000-10-31.
+8 straipsnis. Neteko galios 2000-10-31.
 Straipsnio pakeitimai:
 Nr. VIII-2057, 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
  
@@ -648,7 +659,7 @@ IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
 
 
  6. 
- Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos tarybos, Lietuvos radijo ir televizijos komisijos, Lietuvos kultūros tarybos, Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Valstybinės kainų ir energetikos kontrolės komisijos ir Vyriausiosios tarnybinės etikos komisijos, Valstybinės lietuvių kalbos komisijos: 
+ Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtų institucijų – Konkurencijos tarybos, Lietuvos radijo ir televizijos komisijos, Lietuvos kultūros tarybos, Viešųjų pirkimų tarnybos, Ryšių reguliavimo tarnybos, Vyriausiosios tarnybinės etikos komisijos, Valstybinės lietuvių kalbos komisijos: 
 
 
 
@@ -773,72 +784,28 @@ IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
 
 
  13. 
- Vyriausybės įstaigų vadovai  13 p. netenka galios 2019-01-01 
- 12,3 
+ netenka galios 2019-01-01 
+
+
+
+ 14. 
+ Vyriausybės atstovai: 
+   
+
+
+ 14.1. 
+ įstaigos vadovas 
+ 14,3 
+
+
+ 14.2. 
+ Vyriausybės atstovas 
+ 13 
 
 
 
 Pastaba. Komisijų ir tarybų, kurių posėdžiai vyksta periodiškai, nariams pareiginės algos dydis apskaičiuojamas proporcingai dirbtam laikui.
  
-V skyriaus redakcija iki 2019-06-30:
-V. ŽVALGYBOS PAREIGŪNŲ PAREIGINĖS ALGOS
- 
-(Baziniais dydžiais)
- 
-
-
-
- Pareigų pavadinimas 
- Pareiginės algos koeficientas 
-
-
- Direktorius 
- 17 
-
-
- Direktoriaus pavaduotojas 
- 16 
-
-
- Valdybos viršininkas 
- 15 
-
-
- Valdybos viršininko pavaduotojas 
- 14 
-
-
- Skyriaus viršininkas 
- 11,5–13,5 
-
-
- Skyriaus viršininko pavaduotojas 
- 11–12,5 
-
-
- Poskyrio viršininkas 
- 10,5–12,5 
-
-
- Vyriausiasis specialistas 
- 10–12 
-
-
- Vyresnysis specialistas 
- 9–11 
-
-
- Specialistas 
- 8–9,5 
-
-
- Jaunesnysis specialistas 
- 6,5–8,5 
-
-
-
- 
-V skyriaus redakcija nuo 2019-07-01:
 V. ŽVALGYBOS PAREIGŪNŲ PAREIGINĖS ALGOS
  
 (Baziniais dydžiais)
@@ -958,6 +925,8 @@ Nr. XIII-899, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21496
 Nr. XIII-1103, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06970
 Nr. XIII-1376, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11331
 Nr. XIII-1828, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21848
+Nr. XIII-1481, 2018-09-18, paskelbta TAR 2018-09-24, i. k. 2018-14925
+Nr. XIII-1972, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03170
  
 
 
@@ -1317,3 +1286,13 @@ Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmok�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1828, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21848
 Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 priedėlio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1481, 2018-09-18, paskelbta TAR 2018-09-24, i. k. 2018-14925
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 2 straipsnio ir priedėlio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1972, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03170
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 2 straipsnio ir priedėlio pakeitimo įstatymas
