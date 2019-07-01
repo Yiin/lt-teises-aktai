@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-07-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -748,12 +748,18 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-3) Valstybinė energetikos inspekcija prie Energetikos ministerijos (toliau – Valstybinė energetikos inspekcija);
+3) Valstybinė energetikos reguliavimo taryba (toliau – Taryba); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
 
-4) Valstybinė kainų ir energetikos kontrolės komisija (toliau – Komisija);
+4) neteko galios 2019-07-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -969,31 +975,28 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-8 straipsnis. Valstybinės energetikos inspekcijos funkcijos elektros energetikos sektoriuje
-
-
-Valstybinės energetikos inspekcijos funkcijas, uždavinius, teises ir pareigas elektros energetikos sektoriuje nustato Energetikos įstatymas, šis ir kiti įstatymai bei Valstybinės energetikos inspekcijos nuostatai.
+8 straipsnis. Neteko galios nuo 2019-07-01
+Straipsnio naikinimas:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
 
 
+9 straipsnis. Tarybos funkcijos elektros energetikos sektoriuje
 
 
-9 straipsnis. Valstybinės kainų ir energetikos kontrolės komisijos funkcijos elektros energetikos sektoriuje
-
-
-1. Komisijos funkcijas, uždavinius, teises ir pareigas elektros energetikos sektoriuje nustato Energetikos įstatymas, šis ir kiti įstatymai bei Valstybinės kainų ir energetikos kontrolės komisijos nuostatai.
-
-
-
-
-2. Komisija pagal kompetenciją Lietuvos Respublikoje atlieka veiklos elektros energetikos sektoriuje valstybinio reguliavimo funkcijas, be kita ko, užtikrindama reguliuojamosios energetikos veiklos vykdymo bei elektros energetikos įmonių ir vartotojų teisių ir pareigų tinkamo įgyvendinimo priežiūrą ir kontrolę.
+1. Tarybos funkcijas, uždavinius, teises ir pareigas elektros energetikos sektoriuje nustato Energetikos įstatymas, šis ir kiti įstatymai bei Tarybos nuostatai.
 
 
 
 
-3. Komisija:
+2. Taryba pagal kompetenciją Lietuvos Respublikoje atlieka veiklos elektros energetikos sektoriuje valstybinio reguliavimo funkcijas, be kita ko, užtikrindama reguliuojamosios energetikos veiklos vykdymo bei elektros energetikos įmonių ir vartotojų teisių ir pareigų tinkamo įgyvendinimo priežiūrą ir kontrolę.
+
+
+
+
+3. Taryba:
 
 
 1) šio įstatymo nustatytais atvejais išduoda licencijas ir leidimus verstis veikla elektros energetikos sektoriuje;
@@ -1006,157 +1009,107 @@ Valstybinės energetikos inspekcijos funkcijas, uždavinius, teises ir pareigas 
 
 
 
-3) neteko galios nuo 2017-07-17;
-Straipsnio punkto pakeitimai:
-Nr. XIII-554, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12057
- 
+3) nustato elektros energijos persiuntimo patikimumo ir paslaugų kokybės reikalavimus;
 
 
 
 
-4) nustato elektros energijos persiuntimo patikimumo ir paslaugų kokybės reikalavimus;
+4) tvirtina elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų viršutinių ribų skaičiavimo metodikas, nustato valstybės reguliuojamų paslaugų ir elektros energijos kainų viršutines ribas;
 
 
 
 
-5) tvirtina elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų viršutinių ribų skaičiavimo metodikas, nustato valstybės reguliuojamų paslaugų ir elektros energijos kainų viršutines ribas;
+5) paslaugų teikėjų teikimu skelbia elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainas;
 
 
 
 
-6) paslaugų teikėjų teikimu skelbia elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainas;
+6) tvirtina viešuosius interesus elektros energetikos sektoriuje atitinkančių paslaugų kainų skaičiavimo metodiką, nustato viešuosius interesus atitinkančių paslaugų kainas;
 
 
 
 
-7) tvirtina viešuosius interesus elektros energetikos sektoriuje atitinkančių paslaugų kainų skaičiavimo metodiką, nustato viešuosius interesus atitinkančių paslaugų kainas;
+7) atlieka viešuosius interesus atitinkančių paslaugų lėšų administravimo priežiūrą;
 
 
 
 
-8) atlieka viešuosius interesus atitinkančių paslaugų lėšų administravimo priežiūrą;
+8) nustato elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų diferencijavimo tvarką;
 
 
 
 
-9) nustato elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų diferencijavimo tvarką;
+9) tvirtina vartotojų ir gamintojų elektros įrenginių prijungimo prie elektros tinklų įkainius, jų nustatymo metodiką, kurioje nustatytos ir įkainių apskaičiavimo sąlygos, vadovaudamasi šiame įstatyme nustatytais bendraisiais įkainių nustatymo reikalavimais;
 
 
 
 
-10) tvirtina vartotojų ir gamintojų elektros įrenginių prijungimo prie elektros tinklų įkainius, jų nustatymo metodiką, kurioje nustatytos ir įkainių apskaičiavimo sąlygos, vadovaudamasi šiame įstatyme nustatytais bendraisiais įkainių nustatymo reikalavimais;
-Straipsnio punkto pakeitimai:
-Nr. XIII-554, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12057
- 
+10) nustato įėjimo į Lietuvos Respublikos elektros energijos rinką įmokos skaičiavimo metodiką, nustato įėjimo į Lietuvos Respublikos elektros energijos rinką įmoką. Įėjimo į Lietuvos Respublikos elektros energijos rinką įmoka Tarybos nustatytais atvejais ir tvarka gali būti taikoma tik asmenims, importuojantiems elektros energiją iš trečiųjų šalių;
 
 
 
 
-11) nustato įėjimo į Lietuvos Respublikos elektros energijos rinką įmokos skaičiavimo metodiką, nustato įėjimo į Lietuvos Respublikos elektros energijos rinką įmoką. Įėjimo į Lietuvos Respublikos elektros energijos rinką įmoka Komisijos nustatytais atvejais ir tvarka gali būti taikoma tik asmenims, importuojantiems elektros energiją iš trečiųjų šalių;
+11) tvirtina elektros energetikos įmonių reguliavimo apskaitos sistemos reikalavimus ir (ar) metodą, ir (ar) modelį;
 
 
 
 
-12) tvirtina elektros energetikos įmonių reguliavimo apskaitos sistemos reikalavimus ir (ar) metodą, ir (ar) modelį; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
- 
+12) nustato perdavimo sistemos operatoriaus dokumentų, duomenų ir informacijos pateikimo tvarką ir sąlygas;
 
 
 
 
-13) nustato perdavimo sistemos operatoriaus dokumentų, duomenų ir informacijos pateikimo tvarką ir sąlygas;
+13) tvirtina Naudojimosi jungiamųjų linijų paslaugomis kainų skaičiavimo metodiką, perdavimo sistemos operatoriaus pateiktas perdavimo tinklų ir jungiamųjų linijų valdymą, jų pralaidumo nustatymą, paskirstymą ir perkrovų valdymą reglamentuojančias taisykles;
 
 
 
 
-14) tvirtina Naudojimosi jungiamųjų linijų paslaugomis kainų skaičiavimo metodiką, perdavimo sistemos operatoriaus pateiktas perdavimo tinklų ir jungiamųjų linijų valdymą, jų pralaidumo nustatymą, paskirstymą ir perkrovų valdymą reglamentuojančias taisykles; 
-Papildyta straipsnio punktu:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
- 
+14) nustato prekybos elektros energija priežiūros tvarką;
 
 
 
 
-15) nustato prekybos elektros energija priežiūros tvarką; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
- 
+15) tvirtina Elektros energijos rinkos tyrimo taisykles;
 
 
 
 
-16) tvirtina Elektros energijos rinkos tyrimo taisykles;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
- 
+16) nustato Tarybos priimamų teisės aktų ir sprendimų skelbimo tvarką ir sąlygas;
 
 
 
 
-17) nustato Komisijos priimamų teisės aktų ir sprendimų skelbimo tvarką ir sąlygas;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
- 
+17) tvirtina Tarybos viešojo konsultavimosi taisykles;
 
 
 
 
-18) tvirtina Komisijos viešojo konsultavimosi taisykles;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
- 
+18) tvirtina Elektros energiją gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainos skaičiavimo metodiką ir nustato naudojimosi elektros tinklais paslaugų kainą;
 
 
 
 
-19) tvirtina Elektros energiją gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainos skaičiavimo metodiką ir nustato naudojimosi elektros tinklais paslaugų kainą; 
-Papildyta straipsnio punktu:
-Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
- 
+19) vykdo Energetikos įstatyme numatytų priemonių, taikomų paskelbus valstybės lygio ekstremaliąją energetikos padėtį, įgyvendinimo elektros energetikos sektoriuje, taip pat aprūpinimo elektros energija nutraukimo ir ribojimo kitais pagrindais stebėseną, pagal kompetenciją bendradarbiauja įgyvendinant šias priemones ir teikia rekomendacijas dėl jų atitikties įstatymų nustatytiems reikalavimams;
 
 
 
 
-20) vykdo Energetikos įstatyme numatytų priemonių, taikomų paskelbus valstybės lygio ekstremaliąją energetikos padėtį, įgyvendinimo elektros energetikos sektoriuje, taip pat aprūpinimo elektros energija nutraukimo ir ribojimo kitais pagrindais stebėseną, pagal kompetenciją bendradarbiauja įgyvendinant šias priemones ir teikia rekomendacijas dėl jų atitikties įstatymų nustatytiems reikalavimams; 
-Papildyta straipsnio punktu:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
- 
+20) derina tinklų operatorių apskaičiuotus šių operatorių išduodamų prijungimo sąlygų, išankstinių prijungimo sąlygų parengimo, elektros energijos persiuntimo ir (ar) tiekimo nutraukimo, apribojimo, atnaujinimo ir elektros apskaitos prietaiso rodmenų nuskaitymo paslaugų įkainius, kurie nustatomi pagal tinklų operatorių parengtą, su Taryba suderintą ir tinklų operatorių patvirtintą šių įkainių apskaičiavimo metodiką;
 
 
 
 
-21) derina tinklų operatorių apskaičiuotus šių operatorių išduodamų prijungimo sąlygų, išankstinių prijungimo sąlygų parengimo, elektros energijos persiuntimo ir (ar) tiekimo nutraukimo, apribojimo, atnaujinimo ir elektros apskaitos prietaiso rodmenų nuskaitymo paslaugų įkainius, kurie nustatomi pagal tinklų operatorių parengtą, su Komisija suderintą ir tinklų operatorių patvirtintą šių įkainių apskaičiavimo metodiką; 
-Papildyta straipsnio punktu:
-Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
- 
+21) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
 
 
 
 
-22) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
-Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
-Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
- 
 
 
+4. Taryba turi užtikrinti konkurenciją tarp elektros energijos rinkos dalyvių, atskirų rinkos dalyvių ir vartotojų nediskriminavimą bei nustatytos kokybės paslaugų teikimą vartotojams. Siekdama šio tikslo, Taryba kontroliuoja:
 
 
-
-
-4. Komisija turi užtikrinti konkurenciją tarp elektros energijos rinkos dalyvių, atskirų rinkos dalyvių ir vartotojų nediskriminavimą bei nustatytos kokybės paslaugų teikimą vartotojams. Siekdama šio tikslo, Komisija kontroliuoja:
-
-
-1) kaip laikomasi perdavimo tinklų ir jungiamųjų linijų valdymo, jų pralaidumo nustatymo, paskirstymo ir perkrovų valdymo taisyklių. Komisija turi teisę teikti privalomus nurodymus perdavimo sistemos operatoriui dėl šių taisyklių koregavimo ar keitimo; 
-Straipsnio punkto pakeitimai:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
- 
+1) kaip laikomasi perdavimo tinklų ir jungiamųjų linijų valdymo, jų pralaidumo nustatymo, paskirstymo ir perkrovų valdymo taisyklių. Taryba turi teisę teikti privalomus nurodymus perdavimo sistemos operatoriui dėl šių taisyklių koregavimo ar keitimo;
 
 
 
@@ -1206,27 +1159,29 @@ Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 
 
-11) kitų Komisijos kompetencijai priskirtų valstybinio reguliavimo, priežiūros ir kontrolės bei veiklos elektros energetikos sektoriuje rūšių tinkamą funkcionavimą.
+11) kitų Tarybos kompetencijai priskirtų valstybinio reguliavimo, priežiūros ir kontrolės bei veiklos elektros energetikos sektoriuje rūšių tinkamą funkcionavimą.
 
 
 
 
 
 
-5. Komisija savo metinėje veiklos ataskaitoje paskelbia pagal šio straipsnio 4 dalies nuostatas vykdomos kontrolės rezultatus.
+5. Taryba savo metinėje veiklos ataskaitoje paskelbia pagal šio straipsnio 4 dalies nuostatas vykdomos kontrolės rezultatus.
 
 
 
 
-6. Komisija, atlikdama jai pavestas elektros energetikos sektoriaus valstybinio reguliavimo, priežiūros ir kontrolės funkcijas, veikia nepriklausomai nuo kitų valstybės institucijų, įstaigų, organizacijų, taip pat komercinių veiklos elektros energetikos sektoriuje interesų.
+6. Taryba, atlikdama jai pavestas elektros energetikos sektoriaus valstybinio reguliavimo, priežiūros ir kontrolės funkcijas, veikia nepriklausomai nuo kitų valstybės institucijų, įstaigų, organizacijų, taip pat komercinių veiklos elektros energetikos sektoriuje interesų.
 
 
 
 
-7. Komisija įstatymų nustatyta tvarka ir sąlygomis už valstybės reguliuojamosios energetikos veiklos elektros energetikos sektoriuje pažeidimus elektros energetikos įmonėms skiria veiksmingas, proporcingas ir atgrasančias sankcijas. Komisijos skiriamos baudos už pažeidimus vykdant reguliuojamąją energetikos veiklą ir jų skyrimo tvarka nustatytos Energetikos įstatyme.
+7. Taryba įstatymų nustatyta tvarka ir sąlygomis už valstybės reguliuojamosios energetikos veiklos elektros energetikos sektoriuje pažeidimus elektros energetikos įmonėms skiria veiksmingas, proporcingas ir atgrasančias sankcijas. Tarybos skiriamos baudos už pažeidimus vykdant reguliuojamąją energetikos veiklą ir jų skyrimo tvarka nustatytos Energetikos įstatyme. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
 
 
 
@@ -1271,25 +1226,27 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 11 straipsnis. Viešasis konsultavimasis
 
 
-1. Komisija, šio įstatymo ar jo įgyvendinamųjų teisės aktų pagrindu priimdama teisės aktus, išskyrus individualius teisės aktus ir teisės aktus, kuriais išsprendžiamas ginčas ar išnagrinėjamas skundas, savo nustatyta tvarka ir sąlygomis savo interneto svetainėje paskelbia šių teisės aktų projektus ir nustato suinteresuotiems asmenims protingumo kriterijų atitinkantį terminą pastaboms pateikti.
+1. Taryba, šio įstatymo ar jo įgyvendinamųjų teisės aktų pagrindu priimdama teisės aktus, išskyrus individualius teisės aktus ir teisės aktus, kuriais išsprendžiamas ginčas ar išnagrinėjamas skundas, savo nustatyta tvarka ir sąlygomis savo interneto svetainėje paskelbia šių teisės aktų projektus ir nustato suinteresuotiems asmenims protingumo kriterijų atitinkantį terminą pastaboms pateikti.
 
 
 
 
-2. Komisija savo nustatyta tvarka ir sąlygomis Komisijos interneto svetainėje paskelbia Komisijos sprendimų dėl klausimų, susijusių su visomis elektros energetikos sektoriaus dalyvių teisėmis, projektus ir suteikia elektros energetikos sektoriaus dalyviams protingumo kriterijų atitinkantį terminą pastaboms pateikti.
+2. Taryba savo nustatyta tvarka ir sąlygomis Tarybos interneto svetainėje paskelbia Tarybos sprendimų dėl klausimų, susijusių su visomis elektros energetikos sektoriaus dalyvių teisėmis, projektus ir suteikia elektros energetikos sektoriaus dalyviams protingumo kriterijų atitinkantį terminą pastaboms pateikti.
 
 
 
 
-3. Komisija nustato viešojo konsultavimosi taisykles, apibrėžiančias konsultacijų atvejus, tvarką ir sąlygas. Informacija, susijusi su visomis tuo metu vykstančiomis konsultacijomis, skelbiama Komisijos interneto svetainėje. Komisija skelbia konsultacijų rezultatus, išskyrus informaciją, kuri yra valstybės, tarnybos ar komercinė paslaptis.
+3. Taryba nustato viešojo konsultavimosi taisykles, apibrėžiančias konsultacijų atvejus, tvarką ir sąlygas. Informacija, susijusi su visomis tuo metu vykstančiomis konsultacijomis, skelbiama Tarybos interneto svetainėje. Taryba skelbia konsultacijų rezultatus, išskyrus informaciją, kuri yra valstybės, tarnybos ar komercinė paslaptis.
 
 
 
 
-4. Komisija, atlikdama šiame įstatyme ir kituose teisės aktuose jai priskirtas funkcijas, šio straipsnio 3 dalyje nurodytose viešojo konsultavimosi taisyklėse nustatyta tvarka ir sąlygomis konsultuojasi su tinklų operatoriais, nepažeisdama jų nepriklausomumo ir nedarydama įtakos jų specialiajai kompetencijai, taip pat su kitomis kompetentingomis institucijomis, įstaigomis ir (ar) tinklų naudotojais.
+4. Taryba, atlikdama šiame įstatyme ir kituose teisės aktuose jai priskirtas funkcijas, šio straipsnio 3 dalyje nurodytose viešojo konsultavimosi taisyklėse nustatyta tvarka ir sąlygomis konsultuojasi su tinklų operatoriais, nepažeisdama jų nepriklausomumo ir nedarydama įtakos jų specialiajai kompetencijai, taip pat su kitomis kompetentingomis institucijomis, įstaigomis ir (ar) tinklų naudotojais. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
 
 
 
@@ -1384,7 +1341,7 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-5. Licencijos išduodamos asmenims, turintiems pakankamus technologinius, finansinius ir vadybinius pajėgumus, leidžiančius tinkamai vykdyti licencijuojamos veiklos sąlygas. Asmenų technologinius, finansinius ir vadybinius pajėgumus ir jų įvertinimo tvarką nustato Komisija, atsižvelgdama į šiuos minimalius kriterijus:
+5. Licencijos išduodamos asmenims, turintiems pakankamus technologinius, finansinius ir vadybinius pajėgumus, leidžiančius tinkamai vykdyti licencijuojamos veiklos sąlygas. Asmenų technologinius, finansinius ir vadybinius pajėgumus ir jų įvertinimo tvarką nustato Taryba, atsižvelgdama į šiuos minimalius kriterijus:
 
 
 1) tinklų operatoriai privalo nuosavybės teise, kaip nurodyta šiame įstatyme, ar kitais teisėtais pagrindais valdyti elektros energijos perdavimo ar skirstomuosius tinklus;
@@ -1392,19 +1349,22 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-2) pareiškėjo licencijai gauti finansinis pajėgumas įvertinamas pagal jo dvejų paskutinių ataskaitinių finansinių metų balanso ir pelno (nuostolių) ataskaitų duomenis, kuriems įvertinti taikomi Komisijos nustatyti finansinio pajėgumo rodikliai;
+2) pareiškėjo licencijai gauti finansinis pajėgumas įvertinamas pagal jo dvejų paskutinių ataskaitinių finansinių metų balanso ir pelno (nuostolių) ataskaitų duomenis, kuriems įvertinti taikomi Tarybos nustatyti finansinio pajėgumo rodikliai;
 
 
 
 
-3) pareiškėjas licencijai gauti privalo turėti darbuotojus licencijuojamai veiklai vykdyti ir ataskaitoms rengti, atskirai licencijuojamos veiklos apskaitai tvarkyti, vartotojams informuoti ir konsultuoti bei skundams dėl licencijuojamos veiklos sąlygų nagrinėti;
+3) pareiškėjas licencijai gauti privalo turėti darbuotojus licencijuojamai veiklai vykdyti ir ataskaitoms rengti, atskirai licencijuojamos veiklos apskaitai tvarkyti, vartotojams informuoti ir konsultuoti ir skundams dėl licencijuojamos veiklos sąlygų nagrinėti;
 
 
 
 
-4) pareiškėjas licencijai gauti privalo atitikti kitus šiame straipsnyje nustatytus reikalavimus, keliamus pareiškėjo technologiniams, finansiniams ar vadybiniams pajėgumams ir (ar) licencijuojamai veiklai.
+4) pareiškėjas licencijai gauti privalo atitikti kitus šiame straipsnyje nustatytus reikalavimus, keliamus pareiškėjo technologiniams, finansiniams ar vadybiniams pajėgumams ir (ar) licencijuojamai veiklai. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -1424,7 +1384,10 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-9. Siekiant užtikrinti elektros energijos perdavimo veiklos tęstinumą ir nenutrūkstamumą, iki Komisijos galutinio sprendimo dėl perdavimo sistemos operatoriaus paskyrimo šio įstatymo 25 straipsnyje nustatyta tvarka asmeniui, atitinkančiam šio straipsnio 8 dalyje nustatytus reikalavimus, Komisija išduoda terminuotą elektros energijos perdavimo veiklos licenciją ne ilgesniam kaip 12 mėnesių laikotarpiui. Kai Komisija paskiria perdavimo sistemos operatorių, jam išduodama neterminuota elektros energijos perdavimo veiklos licencija. Išdavus neterminuotą elektros energijos perdavimo veiklos licenciją, šioje dalyje numatyta terminuota veiklos licencija laikoma netekusia galios.
+9. Siekiant užtikrinti elektros energijos perdavimo veiklos tęstinumą ir nenutrūkstamumą, iki Tarybos galutinio sprendimo dėl perdavimo sistemos operatoriaus paskyrimo šio įstatymo 25 straipsnyje nustatyta tvarka asmeniui, atitinkančiam šio straipsnio 8 dalyje nustatytus reikalavimus, Taryba išduoda terminuotą elektros energijos perdavimo veiklos licenciją ne ilgesniam kaip 12 mėnesių laikotarpiui. Kai Taryba paskiria perdavimo sistemos operatorių, jam išduodama neterminuota elektros energijos perdavimo veiklos licencija. Išdavus neterminuotą elektros energijos perdavimo veiklos licenciją, šioje dalyje numatyta terminuota veiklos licencija laikoma netekusia galios. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -1472,9 +1435,10 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-2) užtikrinti perdavimo ir skirstymo veiklos nepriklausomumą nuo kitų veiklos rūšių elektros energetikos sektoriuje šiame įstatyme nustatyta tvarka ir sąlygomis, rengti reguliuojamosios veiklos ataskaitas, užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, vadovaujantis Energetikos įstatymo 161 straipsnio nuostatomis, ir kasmet licencijos turėtojo interneto svetainėje Komisijos nustatyta tvarka skelbti duomenis apie elektros energijos persiuntimo sąnaudas. 
+2) užtikrinti perdavimo ir skirstymo veiklos nepriklausomumą nuo kitų veiklos rūšių elektros energetikos sektoriuje šiame įstatyme nustatyta tvarka ir sąlygomis, rengti reguliuojamosios veiklos ataskaitas, užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, vadovaujantis Energetikos įstatymo 161 straipsnio nuostatomis, ir kiekvienais metais licencijos turėtojo interneto svetainėje Tarybos nustatyta tvarka skelbti duomenis apie elektros energijos persiuntimo sąnaudas. 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -1490,9 +1454,10 @@ Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
 
 
 
-2) tvarkyti atskirą nuo kitų veiklos rūšių elektros energijos visuomeninio tiekimo pajamų ir sąnaudų apskaitą, rengti reguliuojamosios veiklos ataskaitas, užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, vadovaujantis Energetikos įstatymo 161 straipsnio nuostatomis, ir kasmet licencijos turėtojo interneto svetainėje Komisijos nustatyta tvarka skelbti duomenis apie elektros energijos visuomeninio tiekimo sąnaudas. 
+2) tvarkyti atskirą nuo kitų veiklos rūšių elektros energijos visuomeninio tiekimo pajamų ir sąnaudų apskaitą, rengti reguliuojamosios veiklos ataskaitas, užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, vadovaujantis Energetikos įstatymo 161 straipsnio nuostatomis, ir kiekvienais metais licencijos turėtojo interneto svetainėje Tarybos nustatyta tvarka skelbti duomenis apie elektros energijos visuomeninio tiekimo sąnaudas. 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -1503,7 +1468,9 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-14. Šio straipsnio 1 dalyje nurodytos veiklos licencijas išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina licencijų galiojimą, keičia, tikslina, išduoda licencijų dublikatus ir licencijuojamą veiklą kontroliuoja Komisija.
+14. Šio straipsnio 1 dalyje nurodytos veiklos licencijas išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina licencijų galiojimą, keičia, tikslina, išduoda licencijų dublikatus ir licencijuojamą veiklą kontroliuoja Taryba. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -1549,14 +1516,18 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-2. Veiklos elektros energetikos sektoriuje leidimų išdavimo taisykles tvirtina Vyriausybė ar jos įgaliota institucija, vadovaudamasi šiame įstatyme, Energetikos įstatyme ir Atsinaujinančių išteklių energetikos įstatyme nustatytais reikalavimais.
+2. Veiklos elektros energetikos sektoriuje leidimų išdavimo taisykles tvirtina Vyriausybė, vadovaudamasi šiame įstatyme, Energetikos įstatyme ir Atsinaujinančių išteklių energetikos įstatyme nustatytais reikalavimais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
 
-3. Leidimus, nurodytus šio straipsnio 1 dalies 1–5 punktuose, išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, keičia, tikslina, išduoda leidimų dublikatus, leidimais reguliuojamą veiklą prižiūri Valstybinė energetikos inspekcija. Leidimus, nurodytus šio straipsnio 1 dalies 6 punkte, išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, keičia, tikslina ir leidimais reguliuojamą veiklą prižiūri Komisija. 
+3. Leidimus, nurodytus šio straipsnio 1 dalies 1–6 punktuose, išduoda, sustabdo jų galiojimą, panaikina galiojimo sustabdymą, panaikina leidimų galiojimą, keičia, tikslina, išduoda leidimų dublikatus, leidimais reguliuojamą veiklą prižiūri Taryba. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -1570,7 +1541,10 @@ Nr. XIII-614, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12337
 
 
 
-5. Tuo atveju, kai plėtojamos elektros energijos gamybos technologijos savybės objektyviai lemia ilgesnius statybos ir įrengimo terminus ir kai pareiškėjas pateikia tai pagrindžiančius dokumentus, Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka Valstybinė energetikos inspekcija išduoda leidimus plėtoti elektros energijos gamybos pajėgumus, išskyrus leidimus plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių, ilgesniam laikotarpiui negu numatyta šio straipsnio 4 dalyje.
+5. Tuo atveju, kai plėtojamos elektros energijos gamybos technologijos savybės objektyviai lemia ilgesnius statybos ir įrengimo terminus ir kai pareiškėjas pateikia tai pagrindžiančius dokumentus, Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka Taryba išduoda leidimus plėtoti elektros energijos gamybos pajėgumus, išskyrus leidimus plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių, ilgesniam laikotarpiui, negu numatyta šio straipsnio 4 dalyje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -1630,9 +1604,11 @@ Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 
 
 
-5) pateikusiems rašytinį įsipareigojimą nugriauti ar išmontuoti elektrinę Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, kai įsigalioja Valstybinės energetikos inspekcijos sprendimas panaikinti leidimo gaminti elektros energiją galiojimą. Įsipareigojime taip pat turi būti nustatyta leidimo turėtojo prievolė nugriauti ar išmontuoti elektrinės prijungimui reikalingus elektros tinklus ir nugriovimą ar išmontavimą vykdyti pagal tinklų operatoriaus išduotas prijungimo sąlygas griovimo ar išmontavimo projektui rengti. Elektrinė gali būti nenugriauta ar neišmontuota, jeigu ją numatoma naudoti kitiems tikslams, atitinkantiems teisės aktų reikalavimus. Šio punkto nuostata taikoma elektros energijos iš atsinaujinančių energijos išteklių gamintojams. 
+5) pateikusiems rašytinį įsipareigojimą nugriauti ar išmontuoti elektrinę Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, kai įsigalioja Tarybos sprendimas panaikinti leidimo gaminti elektros energiją galiojimą. Įsipareigojime taip pat turi būti nustatyta leidimo turėtojo prievolė nugriauti ar išmontuoti elektrinės prijungimui reikalingus elektros tinklus ir nugriovimą ar išmontavimą vykdyti pagal tinklų operatoriaus išduotas prijungimo sąlygas griovimo ar išmontavimo projektui rengti. Elektrinė gali būti nenugriauta ar neišmontuota, jeigu ją numatoma naudoti kitiems tikslams, atitinkantiems teisės aktų reikalavimus. Šio punkto nuostata taikoma elektros energijos iš atsinaujinančių energijos išteklių gamintojams. 
 Papildyta straipsnio punktu:
 Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -1648,7 +1624,10 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-11. Valstybinė energetikos inspekcija, atsižvelgdama į paskirstytosios gamybos ribotą apimtį ir galimą poveikį elektros energetikos sistemos patikimumui, kai elektros energijos gamybos įrenginių įrengtoji galia yra ne didesnė kaip 10 kW, išduoda leidimą gaminti elektros energiją Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse numatyta supaprastinta tvarka, jeigu asmuo pateikia prašymą ir šio straipsnio 9 dalies 2 punkte nurodytus dokumentus.
+11. Taryba, atsižvelgdama į paskirstytosios gamybos ribotą apimtį ir galimą poveikį elektros energetikos sistemos patikimumui, kai elektros energijos gamybos įrenginių įrengtoji galia yra ne didesnė kaip 10 kW, išduoda leidimą gaminti elektros energiją Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse numatyta supaprastinta tvarka, jeigu asmuo pateikia prašymą ir šio straipsnio 9 dalies 2 punkte nurodytus dokumentus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -1700,7 +1679,7 @@ Nr. XIII-614, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12337
 
 
 
-15. Leidimas plėtoti elektros energijos gamybos pajėgumus išduodamas, jeigu Valstybinė energetikos inspekcija, įvertinusi asmens pateiktus dokumentus, nustato, kad asmuo atitinka šio įstatymo reikalavimus ir jo planuojama vykdyti veikla atitinka visas šias sąlygas, tai yra:
+15. Leidimas plėtoti elektros energijos gamybos pajėgumus išduodamas, jeigu Taryba, įvertinusi asmens pateiktus dokumentus, nustato, kad asmuo atitinka šio įstatymo reikalavimus ir jo planuojama vykdyti veikla atitinka visas šias sąlygas, tai yra:
 
 
 1) elektros energijos įrenginiai ir su jais susijusi įranga yra saugūs ir patikimi, taip pat neturės neigiamos įtakos elektros tinklams, prie kurių šie įrenginiai prijungti, ar nesudarys prielaidų tokiai neigiamai įtakai atsirasti;
@@ -1738,9 +1717,12 @@ Nr. XIII-614, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12337
 
 
 
-8) planuojamas statyti energetikos objektas, kuriame kaip kuras energijai gaminti planuojamos naudoti po rūšiavimo likusios ir perdirbti netinkamos energinę vertę turinčios komunalinės atliekos, Vyriausybės pripažintas valstybinės reikšmės objektu.
+8) planuojamas statyti energetikos objektas, kuriame kaip kuras energijai gaminti planuojamos naudoti po rūšiavimo likusios ir perdirbti netinkamos energinę vertę turinčios komunalinės atliekos, Vyriausybės pripažintas valstybinės reikšmės objektu. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -1765,7 +1747,10 @@ Nr. XIII-614, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12337
 
 
 
-20. Valstybinė energetikos inspekcija savo interneto svetainėje skelbia informaciją apie išduotus leidimus, nurodytus šio straipsnio 1 dalies 1–5 punktuose. 
+20. Taryba savo interneto svetainėje skelbia informaciją apie išduotus leidimus, nurodytus šio straipsnio 1 dalies 1–6 punktuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -1809,9 +1794,10 @@ Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 
 
 
-25. Jeigu pateikti ne visi šio straipsnio 1 dalies 1–5 punktuose nurodytiems leidimams išduoti reikalingi dokumentai arba pateikti duomenys yra neteisingi, taip pat jeigu jų nepakanka nustatyti, ar dokumentai atitinka nustatytus reikalavimus, Valstybinė energetikos inspekcija ne vėliau kaip per 10 darbo dienų nuo prašymo registravimo leidimus išduodančioje institucijoje dienos praneša asmeniui, kad būtina pateikti trūkstamus dokumentus ar informaciją. Asmuo trūkstamus dokumentus ar informaciją pateikia ne vėliau kaip per 30 kalendorinių dienų nuo pranešimo gavimo dienos. Jeigu asmuo per nustatytą terminą pateikia trūkstamus dokumentus ar informaciją, taip pašalindamas aplinkybes, trukdančias išduoti leidimą, leidimas išduodamas šio įstatymo 17 straipsnyje nustatytu terminu. 
+25. Jeigu pateikti ne visi šio straipsnio 1 dalies 1–5 punktuose nurodytiems leidimams išduoti reikalingi dokumentai arba pateikti duomenys yra neteisingi, taip pat jeigu jų nepakanka nustatyti, ar dokumentai atitinka nustatytus reikalavimus, Taryba ne vėliau kaip per 10 darbo dienų nuo prašymo registravimo leidimus išduodančioje institucijoje dienos praneša asmeniui, kad būtina pateikti trūkstamus dokumentus ar informaciją. Asmuo trūkstamus dokumentus ar informaciją pateikia ne vėliau kaip per 30 kalendorinių dienų nuo pranešimo gavimo dienos. Jeigu asmuo per nustatytą terminą pateikia trūkstamus dokumentus ar informaciją, taip pašalindamas aplinkybes, trukdančias išduoti leidimą, leidimas išduodamas šio įstatymo 17 straipsnyje nustatytu terminu. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -1820,63 +1806,47 @@ Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 26. Asmenys, kurie verčiasi šio straipsnio 1 dalyje nurodyta veikla, neturi teisės įgalioti kitų asmenų verstis leidime nurodyta veikla arba perduoti jiems šią teisę pagal sutartį ir privalo laikytis šių veiklos sąlygų:
 
 
-1) teisės aktų nustatyta tvarka teikti kompetentingoms valstybės institucijoms ir įstaigoms informaciją apie leidimais reguliuojamą veiklą;
+1) teisės aktų nustatyta tvarka teikti kompetentingoms valstybės institucijoms ir įstaigoms informaciją apie leidimais reguliuojamą veiklą;
 
 
 
 
-2) eksportuoti ar importuoti elektros energiją galima tik pagal sutartis su valstybių, kurios nėra valstybės narės, asmenimis;
+2) eksportuoti ar importuoti elektros energiją galima tik pagal sutartis su valstybių, kurios nėra valstybės narės, asmenimis;
 
 
 
 
-3) asmenys, importuojantys elektros energiją iš valstybių, kurios nėra valstybės narės, privalo teisės aktų nustatyta tvarka ir sąlygomis tinkamai su perdavimo sistemos operatoriumi sureguliuoti santykius, susijusius su įėjimo į Lietuvos Respublikos elektros energijos rinką įmokos sumokėjimu ir (ar) kitų reikalavimų, keliamų elektros energijos importo veiklai, įvykdymu;
+3) asmenys, importuojantys elektros energiją iš valstybių, kurios nėra valstybės narės, privalo teisės aktų nustatyta tvarka ir sąlygomis tinkamai su perdavimo sistemos operatoriumi sureguliuoti santykius, susijusius su įėjimo į Lietuvos Respublikos elektros energijos rinką įmokos sumokėjimu ir (ar) kitų reikalavimų, keliamų elektros energijos importo veiklai, įvykdymu;
 
 
 
 
-4) elektros energiją gaminantys asmenys, vartojantys elektros energiją savo reikmėms ir ūkio poreikiams, privalo sudaryti sutartis su tinklų operatoriais dėl elektros energijos persiuntimo;
+4) elektros energiją gaminantys asmenys, vartojantys elektros energiją savo reikmėms ir ūkio poreikiams, privalo sudaryti sutartis su tinklų operatoriais dėl elektros energijos persiuntimo;
 
 
 
 
-5) teisės aktų nustatyta tvarka eksploatuoti elektros energetikos įrenginius arba sudaryti sutartį dėl elektros energetikos įrenginių eksploatavimo su asmeniu, turinčiu atestatą, suteikiantį teisę eksploatuoti šiuos įrenginius;
+5) teisės aktų nustatyta tvarka eksploatuoti elektros energetikos įrenginius arba sudaryti sutartį dėl elektros energetikos įrenginių eksploatavimo su asmeniu, turinčiu atestatą, suteikiantį teisę eksploatuoti šiuos įrenginius;
 
 
 
 
 6) efektyviai ir ekonomiškai vykdyti leidimais reguliuojamą veiklą, nediskriminuoti vartotojų ir kitų rinkos dalyvių, laikytis sąžiningos konkurencijos; 
-Papildyta straipsnio punktu:
-Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
- 
 
 
 
 
 7) informuoti ir konsultuoti vartotojus; 
-Papildyta straipsnio punktu:
-Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+
+
+
+
+8) užtikrinti kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir reikalavimų, keliamų vykdomai veiklai elektros energetikos sektoriuje, laikymąsi. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
-
-
-8) neteko galios 2019-05-01; 
-Papildyta straipsnio punktu:
-Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
-Straipsnio punkto pakeitimai:
-Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
- 
-
-
-
-
-9) užtikrinti kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir reikalavimų, keliamų vykdomai veiklai elektros energetikos sektoriuje, laikymąsi.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
- 
-
-
 
 
 Straipsnio pakeitimai:
@@ -1889,9 +1859,10 @@ Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
 17 straipsnis. Veiklos elektros energetikos sektoriuje licencijų ir leidimų išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas ir keitimas
 
 
-1. Asmuo, siekiantis gauti veiklos elektros energetikos sektoriuje licenciją ar leidimą, išskyrus šio įstatymo 16 straipsnio 1 dalies 6 punkte nurodytą leidimą, Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia licencijas ar leidimus išduodančiai institucijai prašymą ir šiose taisyklėse nustatytus dokumentus ir (ar) informaciją. Asmuo, siekiantis įgyti leidimą vykdyti nepriklausomo elektros energijos tiekimo veiklą, Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia Komisijai atitikties šio įstatymo 16 straipsnio 21 dalyje nustatytiems reikalavimams deklaraciją (toliau – deklaracija). Ne vėliau kaip per 5 darbo dienas nuo asmens teisės vykdyti nepriklausomo elektros energijos tiekimo veiklą įgijimo dienos Komisija privalo patikrinti deklaracijoje pateiktą informaciją. 
+1. Asmuo, siekiantis gauti veiklos elektros energetikos sektoriuje licenciją ar leidimą, išskyrus šio įstatymo 16 straipsnio 1 dalies 6 punkte nurodytą leidimą, Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia licencijas ar leidimus išduodančiai institucijai prašymą ir šiose taisyklėse nustatytus dokumentus ir (ar) informaciją. Asmuo, siekiantis įgyti leidimą vykdyti nepriklausomo elektros energijos tiekimo veiklą, Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka pateikia Tarybai atitikties šio įstatymo 16 straipsnio 21 dalyje nustatytiems reikalavimams deklaraciją (toliau – deklaracija). Ne vėliau kaip per 5 darbo dienas nuo asmens teisės vykdyti nepriklausomo elektros energijos tiekimo veiklą įgijimo dienos Taryba privalo patikrinti deklaracijoje pateiktą informaciją. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -1915,17 +1886,25 @@ Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 
 
 
-5. Licencijuojamą elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo veiklą nutraukti ketinantis asmuo privalo ne vėliau kaip prieš 6 mėnesius informuoti apie tai licenciją išdavusią instituciją. Tuo atveju, kai pranešime nurodomas asmuo, kuris ketina pasibaigus pranešime nurodytam terminui verstis licencijuojama elektros energijos perdavimo, skirstymo ar visuomeninio tiekimo veikla ir atitinka šiai veiklai keliamus reikalavimus, nustatytus šiame įstatyme ir kituose teisės aktuose, ir Komisijai pateikia įvertinti tokį atitikimą pagrindžiančius dokumentus, pranešimo apie veiklos nutraukimą terminas derinamas Komisijos, pranešimą teikiančio asmens ir ketinančio verstis licencijuojama veikla asmens sutarimu.
+5. Licencijuojamą elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo veiklą nutraukti ketinantis asmuo privalo ne vėliau kaip prieš 6 mėnesius informuoti apie tai licenciją išdavusią instituciją. Tuo atveju, kai pranešime nurodomas asmuo, kuris ketina pasibaigus pranešime nurodytam terminui verstis licencijuojama elektros energijos perdavimo, skirstymo ar visuomeninio tiekimo veikla ir atitinka šiai veiklai nustatytus reikalavimus, nustatytus šiame įstatyme ir kituose teisės aktuose, ir Tarybai pateikia įvertinti tokį atitikimą pagrindžiančius dokumentus, pranešimo apie veiklos nutraukimą terminas derinamas Tarybos, pranešimą teikiančio asmens ir ketinančio verstis licencijuojama veikla asmens sutarimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
 
-6. Jeigu sprendimas dėl licencijos galiojimo sustabdymo ar panaikinimo turi įtakos saugiam vartotojų aprūpinimui elektros energija, jis gali įsigalioti ne anksčiau kaip po 2 mėnesių nuo sprendimo priėmimo dienos. Apie tai, kad numatoma priimti tokį sprendimą, Komisija privalo informuoti Vyriausybę ir Energetikos ministeriją.
+6. Jeigu sprendimas dėl licencijos galiojimo sustabdymo ar panaikinimo turi įtakos saugiam vartotojų aprūpinimui elektros energija, jis gali įsigalioti ne anksčiau kaip po 2 mėnesių nuo sprendimo priėmimo dienos. Apie tai, kad numatoma priimti tokį sprendimą, Taryba privalo informuoti Vyriausybę ir Energetikos ministeriją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
 
-7. Siekiant užtikrinti elektros energetikos sistemos darbo saugumą, vartotojų aprūpinimo elektros energija patikimumą ir viešųjų interesų elektros energetikos sektoriuje apsaugą, licencijuojama ar leidimu reguliuojama veikla besiverčiančio asmens veiklos patikrinimai gali būti atliekami ir įstatymų nustatytos poveikio priemonės už licencijuojamos ar leidimu reguliuojamos veiklos sąlygų pažeidimus gali būti taikomos jau pirmaisiais atitinkamos veiklos elektros energetikos sektoriuje vykdymo metais. Komisija ir (ar) kitos valstybės ar savivaldybių institucijos pagal kompetenciją užtikrina nuolatinę licencijuojamos ir leidimais reguliuojamos veiklos elektros energetikos sektoriuje priežiūrą ir kontrolę, vadovaudamosi teisingumo, protingumo, sąžiningumo ir rinkos dalyvių nediskriminavimo principais.
+7. Siekiant užtikrinti elektros energetikos sistemos darbo saugumą, vartotojų aprūpinimo elektros energija patikimumą ir viešųjų interesų elektros energetikos sektoriuje apsaugą, licencijuojama ar leidimu reguliuojama veikla besiverčiančio asmens veiklos patikrinimai gali būti atliekami ir įstatymų nustatytos poveikio priemonės už licencijuojamos ar leidimu reguliuojamos veiklos sąlygų pažeidimus gali būti taikomos jau pirmaisiais atitinkamos veiklos elektros energetikos sektoriuje vykdymo metais. Taryba ir (ar) kitos valstybės ar savivaldybių institucijos pagal kompetenciją užtikrina nuolatinę licencijuojamos ir leidimais reguliuojamos veiklos elektros energetikos sektoriuje priežiūrą ir kontrolę, vadovaudamosi teisingumo, protingumo, sąžiningumo ir rinkos dalyvių nediskriminavimo principais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -1936,9 +1915,10 @@ Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 18 straipsnis. Ilgalaikis planavimas ir sistemos plėtra
 
 
-1. Tinklų operatorius, įvertindamas elektros energijos tiekimo saugumo ir patikimumo, kokybės, efektyvumo, vartojimo, vadybos ir aplinkos apsaugos reikalavimus, nurodytus Nacionalinėje energetinės nepriklausomybės strategijoje, gerindamas naudojimosi sistema sąlygas, planuoja ilgalaikę elektros energetikos sistemos plėtrą, derindamas ją su Energetikos ministerija, Komisija ir kitais tinklų operatoriais. Ilgalaikės elektros energetikos sistemos plėtros planavimas turi būti pagrįstas moksliniu, technologiniu ir ekonominiu įvertinimu. Tinklų operatoriai privalo bendradarbiauti, siekdami užtikrinti perdavimo ir skirstomųjų tinklų optimalią plėtrą.
+1. Tinklų operatorius, įvertindamas elektros energijos tiekimo saugumo ir patikimumo, kokybės, efektyvumo, vartojimo, vadybos ir aplinkos apsaugos reikalavimus, nurodytus Nacionalinėje energetinės nepriklausomybės strategijoje, gerindamas naudojimosi sistema sąlygas, planuoja ilgalaikę elektros energetikos sistemos plėtrą, derindamas ją su Energetikos ministerija, Taryba ir kitais tinklų operatoriais. Ilgalaikės elektros energetikos sistemos plėtros planavimas turi būti pagrįstas moksliniu, technologiniu ir ekonominiu įvertinimu. Tinklų operatoriai privalo bendradarbiauti, siekdami užtikrinti perdavimo ir skirstomųjų tinklų optimalią plėtrą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -1959,10 +1939,10 @@ Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
 
 
 
-19 straipsnis. Patikimumo stebėsena
+19 straipsnis. Patikimumo stebėsena 
 
 
-1. Komisija stebi ir vertina perdavimo ir skirstomųjų tinklų patikimumą. Patikimumo stebėsenos rezultatai apibendrinami Komisijos interneto svetainėje skelbiamose metinėse ataskaitose. Šiose ataskaitose pateikiami šie duomenys:
+1. Taryba stebi ir vertina perdavimo ir skirstomųjų tinklų patikimumą. Patikimumo stebėsenos rezultatai apibendrinami Tarybos interneto svetainėje skelbiamose metinėse ataskaitose. Šiose ataskaitose pateikiami šie duomenys:
 
 
 1) elektros energijos poreikio ir tiekimo (faktinio suvartojimo) balansas valstybės elektros energetikos sistemos mastu;
@@ -1992,10 +1972,13 @@ Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
 
 
 
-2. Komisija kiekvienais metais, ne vėliau kaip liepos 31 dieną, perduoda metines ataskaitas Vyriausybei ar jos įgaliotai institucijai ir Europos Komisijai.
+2. Taryba kiekvienais metais, ne vėliau kaip liepos 31 dieną, perduoda metines ataskaitas Vyriausybei ar jos įgaliotai institucijai ir Europos Komisijai. 
+TAR pastaba. Pirmą kartą po įstatymo Nr. XIII-1970 įsigaliojimo (2019-07-01) teikiant 19 straipsnio 2 dalyje nurodytą ataskaitą, teikiama laikotarpio nuo Valstybinės energetikos reguliavimo tarybos veiklos pradžios ataskaita, kurioje taip pat pateikiama informacija apie Valstybinės kainų ir energetikos kontrolės komisijos veiklą nuo 2018 m. sausio 1 d. iki šio įstatymo įsigaliojimo dienos.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
 
 
 
@@ -2082,7 +2065,10 @@ Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 
 
 
-2. Tinklų operatorius parengia ir, suderinęs su Komisija, savo interneto svetainėje skelbia naudojimosi elektros tinklais tvarką. Ši tvarka grindžiama objektyviais, skaidriais ir nediskriminaciniais kriterijais, kuriais atsižvelgiama į visą naudą ir sąnaudas, susijusias su gamintojų elektros įrenginių prijungimu prie elektros tinklų, ir į konkrečias gamintojų, įsikūrusių atokiuose ir menkai apgyvendintuose regionuose, ūkinės veiklos aplinkybes.
+2. Tinklų operatorius parengia ir, suderinęs su Taryba, savo interneto svetainėje skelbia naudojimosi elektros tinklais tvarką. Ši tvarka grindžiama objektyviais, skaidriais ir nediskriminaciniais kriterijais, kuriais atsižvelgiama į visą naudą ir sąnaudas, susijusias su gamintojų elektros įrenginių prijungimu prie elektros tinklų, ir į konkrečias gamintojų, įsikūrusių atokiuose ir menkai apgyvendintuose regionuose, ūkinės veiklos aplinkybes. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -2146,7 +2132,10 @@ Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 
 
 
-3) gamintojo įsipareigojimas ne vėliau kaip per vieną mėnesį nuo ketinimų protokolo pasirašymo dienos Valstybinei energetikos inspekcijai pateikti prašymą išduoti leidimą plėtoti elektros energijos gamybos pajėgumus arba Komisijai pateikti prašymą dalyvauti skatinimo kvotų paskirstymo aukcione, jeigu asmuo ketina statyti ar įrengti atsinaujinančius energijos išteklius naudojančias elektrines ir pasinaudoti Atsinaujinančių išteklių energetikos įstatymo 3 straipsnio 2 dalies 1–3 punktuose nurodytomis skatinimo priemonėmis;
+3) gamintojo įsipareigojimas ne vėliau kaip per vieną mėnesį nuo ketinimų protokolo pasirašymo dienos Tarybai pateikti prašymą išduoti leidimą plėtoti elektros energijos gamybos pajėgumus arba pateikti prašymą dalyvauti skatinimo kvotų paskirstymo aukcione, jeigu asmuo ketina statyti ar įrengti atsinaujinančius energijos išteklius naudojančias elektrines ir pasinaudoti Atsinaujinančių išteklių energetikos įstatymo 3 straipsnio 2 dalies 1, 2 ir 3 punktuose nurodytomis skatinimo priemonėmis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -2214,9 +2203,11 @@ Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 
 
 
-11. Ketinimų protokolo pavyzdinę formą tvirtinta Komisija. 
+11. Ketinimų protokolo pavyzdinę formą tvirtina Taryba. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -2267,9 +2258,10 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-5. Perdavimo sistemos operatorius privalo užtikrinti, kad tinklų naudotojams būtų sudarytos objektyvios ir nediskriminacinės naudojimosi perdavimo tinklais sąlygos. Komisija derina elektros energijos perdavimo paslaugos sutarčių standartines sąlygas, kurių projektą parengia ir Komisijai teikia perdavimo sistemos operatorius. Suderintas elektros energijos perdavimo paslaugos sutarčių standartines sąlygas perdavimo sistemos operatorius skelbia savo interneto svetainėje. 
+5. Perdavimo sistemos operatorius privalo užtikrinti, kad tinklų naudotojams būtų sudarytos objektyvios ir nediskriminacinės naudojimosi perdavimo tinklais sąlygos. Taryba derina elektros energijos perdavimo paslaugos sutarčių standartines sąlygas, kurių projektą parengia ir Tarybai teikia perdavimo sistemos operatorius. Suderintas elektros energijos perdavimo paslaugos sutarčių standartines sąlygas perdavimo sistemos operatorius skelbia savo interneto svetainėje. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -2307,40 +2299,42 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-2. Iki perdavimo sistemos operatoriaus paskyrimo šiame straipsnyje nustatyta tvarka ir sąlygomis, gali būti išduodama terminuota elektros energijos perdavimo veiklos licencija, kaip nurodyta šio įstatymo 15 straipsnio 9 dalyje, arba asmuo gali būti laikomas paskirtu laikinai vykdyti elektros energijos perdavimo veiklą, kaip nurodyta šio įstatymo 80 straipsnio 2 dalyje.
+2. Iki perdavimo sistemos operatoriaus paskyrimo šiame straipsnyje nustatyta tvarka ir sąlygomis gali būti išduodama terminuota elektros energijos perdavimo veiklos licencija, kaip nurodyta šio įstatymo 15 straipsnio 9 dalyje.
 
 
 
 
-3. Perdavimo sistemos operatorius, įvykdęs šio įstatymo 53 straipsnio 2 ir 3 dalyse nustatytus reikalavimus, raštu informuoja Komisiją ir pateikia visus šių reikalavimų įvykdymą pagrindžiančius dokumentus, duomenis ir informaciją. Perdavimo sistemos operatoriaus dokumentų, duomenų ir informacijos pateikimo tvarką ir sąlygas nustato Komisija.
+3. Perdavimo sistemos operatorius, įvykdęs šio įstatymo 53 straipsnio 2 ir 3 dalyse nustatytus reikalavimus, raštu informuoja Tarybą ir pateikia visus šių reikalavimų įvykdymą pagrindžiančius dokumentus, duomenis ir informaciją. Perdavimo sistemos operatoriaus dokumentų, duomenų ir informacijos pateikimo tvarką ir sąlygas nustato Taryba.
 
 
 
 
-4. Komisija ne vėliau kaip per 4 mėnesių laikotarpį nuo visų reikalingų ir tinkamai parengtų dokumentų, duomenų ir informacijos pateikimo dienos įvertina įgyvendintų perdavimo sistemos operatoriaus nepriklausomumo ir veiklos atskyrimo reikalavimų tinkamumą bei priima sprendimą dėl perdavimo sistemos operatoriaus paskyrimo. Pasibaigus šioje dalyje nustatytam terminui ir Komisijai nepriėmus sprendimo, laikoma, kad yra priimtas teigiamas sprendimas dėl perdavimo sistemos operatoriaus paskyrimo.
+4. Taryba ne vėliau kaip per 4 mėnesių laikotarpį nuo visų reikalingų ir tinkamai parengtų dokumentų, duomenų ir informacijos pateikimo dienos įvertina įgyvendintų perdavimo sistemos operatoriaus nepriklausomumo ir veiklos atskyrimo reikalavimų tinkamumą bei priima sprendimą dėl perdavimo sistemos operatoriaus paskyrimo. Pasibaigus šioje dalyje nustatytam terminui ir Tarybai nepriėmus sprendimo, laikoma, kad yra priimtas teigiamas sprendimas dėl perdavimo sistemos operatoriaus paskyrimo.
 
 
 
 
-5. Komisija šio straipsnio 4 dalyje nurodytais atvejais informuoja perdavimo sistemos operatorių ir Europos Komisiją apie priimtą sprendimą, kartu pateikdama sprendimą pagrindžiančius dokumentus, duomenis ir informaciją.
+5. Taryba šio straipsnio 4 dalyje nurodytais atvejais informuoja perdavimo sistemos operatorių ir Europos Komisiją apie priimtą sprendimą, kartu pateikdama sprendimą pagrindžiančius dokumentus, duomenis ir informaciją.
 
 
 
 
-6. Komisija, 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančio Reglamentą (EB) Nr. 1228/2003, 3 straipsnyje nustatytais terminais gavusi teigiamą Europos Komisijos išvadą arba negavusi neigiamos išvados, priima galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo.
+6. Taryba Reglamento (EB) Nr. 714/2009 3 straipsnyje nustatytais terminais gavusi teigiamą Europos Komisijos išvadą arba negavusi neigiamos išvados, priima galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo.
 
 
 
 
-7. Komisija, šio straipsnio 6 dalyje nustatyta tvarka gavusi Europos Komisijos prieštaravimų dėl perdavimo sistemos operatoriaus paskyrimo, nurodo perdavimo sistemos operatoriui pašalinti Europos Komisijos nustatytus neatitikimus ir ne vėliau kaip per 2 mėnesių laikotarpį priima galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo.
+7. Taryba, šio straipsnio 6 dalyje nustatyta tvarka gavusi Europos Komisijos prieštaravimų dėl perdavimo sistemos operatoriaus paskyrimo, nurodo perdavimo sistemos operatoriui pašalinti Europos Komisijos nustatytus neatitikimus ir ne vėliau kaip per 2 mėnesių laikotarpį priima galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo.
 
 
 
 
-8. Galutinis sprendimas dėl perdavimo sistemos operatoriaus paskyrimo išsiunčiamas perdavimo sistemos operatoriui ir Europos Komisijai, kartu nurodant, kaip buvo atsižvelgta į gautą Europos Komisijos išvadą, ir skelbiamas Komisijos interneto svetainėje ir Europos Sąjungos oficialiajame leidinyje. Kartu su Komisijos sprendimu skelbiama gauta Europos Komisijos išvada. Kai Komisijos sprendimas skiriasi nuo Europos Komisijos išvados, kartu pateikiamas ir paskelbiamas priimto sprendimo pagrindimas.
+8. Galutinis sprendimas dėl perdavimo sistemos operatoriaus paskyrimo išsiunčiamas perdavimo sistemos operatoriui ir Europos Komisijai, kartu nurodant, kaip buvo atsižvelgta į gautą Europos Komisijos išvadą, ir skelbiamas Tarybos interneto svetainėje ir Europos Sąjungos oficialiajame leidinyje. Kartu su Tarybos sprendimu skelbiama gauta Europos Komisijos išvada. Kai Tarybos sprendimas skiriasi nuo Europos Komisijos išvados, kartu pateikiamas ir paskelbiamas priimto sprendimo pagrindimas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
 
 
 
@@ -2348,7 +2342,7 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 26 straipsnis. Perdavimo sistemos operatoriaus nepriklausomumo ir veiklos atskyrimo reikalavimų įgyvendinimo priežiūra
 
 
-1. Komisija nuolat prižiūri ir kontroliuoja, kaip paskirtasis perdavimo sistemos operatorius, vykdydamas savo veiklą, užtikrina šiame įstatyme nustatytus nepriklausomumo ir veiklos atskyrimo reikalavimus. Komisija pradeda perdavimo sistemos operatoriaus veiklos patikrinimą bent vienu iš šių atvejų:
+1. Taryba nuolat prižiūri ir kontroliuoja, kaip paskirtasis perdavimo sistemos operatorius, vykdydamas savo veiklą, užtikrina šiame įstatyme nustatytus nepriklausomumo ir veiklos atskyrimo reikalavimus. Taryba pradeda perdavimo sistemos operatoriaus veiklos patikrinimą bent vienu iš šių atvejų:
 
 
 1) gavusi perdavimo sistemos operatoriaus pranešimą apie numatomus sandorius, kuriuos reikia iš naujo įvertinti, ar jie atitinka perdavimo sistemos operatoriaus nepriklausomumo ir veiklos atskyrimo reikalavimus;
@@ -2368,20 +2362,22 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-2. Komisija priima sprendimą dėl perdavimo sistemos operatoriaus atitikties nustatytoms nepriklausomumo ir veiklos atskyrimo sąlygoms ir reikalavimams ne vėliau kaip per 4 mėnesių laikotarpį nuo atitinkamo perdavimo sistemos operatoriaus pranešimo ar Europos Komisijos prašymo gavimo dienos arba nuo perdavimo sistemos operatoriaus veiklos patikrinimo savo iniciatyva pradžios, kuria laikoma pirmo Komisijos pranešimo apie atliekamą patikrinimą perdavimo sistemos operatoriui diena.
+2. Taryba priima sprendimą dėl perdavimo sistemos operatoriaus atitikties nustatytoms nepriklausomumo ir veiklos atskyrimo sąlygoms ir reikalavimams ne vėliau kaip per 4 mėnesių laikotarpį nuo atitinkamo perdavimo sistemos operatoriaus pranešimo ar Europos Komisijos prašymo gavimo dienos arba nuo perdavimo sistemos operatoriaus veiklos patikrinimo savo iniciatyva pradžios, kuria laikoma pirmo Tarybos pranešimo apie atliekamą patikrinimą perdavimo sistemos operatoriui diena.
 
 
 
 
-3. Tuo atveju, kai Komisija nustato perdavimo sistemos operatoriaus nepriklausomumo ir (ar) veiklos atskyrimo reikalavimų pažeidimus, perdavimo sistemos operatorius privalo per Komisijos nustatytą laikotarpį pašalinti nustatytus pažeidimus ir pateikti Komisijai tai pagrindžiančius dokumentus, duomenis ir informaciją. Laikotarpiu iki galutinio Komisijos sprendimo paskelbimo dėl nustatytų pažeidimų pašalinimo perdavimo sistemos operatorius laikomas paskirtu laikinai vykdyti elektros energijos perdavimo veiklą.
+3. Tuo atveju, kai Taryba nustato perdavimo sistemos operatoriaus nepriklausomumo ir (ar) veiklos atskyrimo reikalavimų pažeidimus, perdavimo sistemos operatorius privalo per Tarybos nustatytą laikotarpį pašalinti nustatytus pažeidimus ir pateikti Tarybai tai pagrindžiančius dokumentus, duomenis ir informaciją. Laikotarpiu iki galutinio Tarybos sprendimo paskelbimo dėl nustatytų pažeidimų pašalinimo perdavimo sistemos operatorius laikomas paskirtu laikinai vykdyti elektros energijos perdavimo veiklą.
 
 
 
 
-4. Komisijos sprendimo dėl perdavimo sistemos operatoriaus atitikties nustatytiems nepriklausomumo ir veiklos atskyrimo reikalavimams derinimui su Europos Komisija ir viešam paskelbimui mutatis mutandis taikomas šio įstatymo 25 straipsnis.
+4. Tarybos sprendimo dėl perdavimo sistemos operatoriaus atitikties nustatytiems nepriklausomumo ir veiklos atskyrimo reikalavimams derinimui su Europos Komisija ir viešam paskelbimui mutatis mutandis taikomas šio įstatymo 25 straipsnis. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
 
 
 
@@ -2389,22 +2385,22 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 27 straipsnis. Trečiųjų šalių kontroliuojamo perdavimo sistemos operatoriaus paskyrimas
 
 
-1. Kai asmuo, kurį tiesiogiai ar netiesiogiai kontroliuoja trečiosios šalies ar trečiųjų šalių asmenys, kreipiasi dėl elektros energijos perdavimo veiklos licencijos išdavimo ir (ar) paskyrimo vykdyti perdavimo veiklą arba toks asmuo įgyja tiesioginę ar netiesioginę perdavimo sistemos operatoriaus kontrolę, Komisija nedelsdama informuoja Europos Komisiją, kartu pateikdama visą susijusią informaciją.
+1. Kai asmuo, kurį tiesiogiai ar netiesiogiai kontroliuoja trečiosios šalies ar trečiųjų šalių asmenys, kreipiasi dėl elektros energijos perdavimo veiklos licencijos išdavimo ir (ar) paskyrimo vykdyti perdavimo veiklą arba toks asmuo įgyja tiesioginę ar netiesioginę perdavimo sistemos operatoriaus kontrolę, Taryba nedelsdama informuoja Europos Komisiją, kartu pateikdama visą susijusią informaciją.
 
 
 
 
-2. Siekiant tinkamo šio straipsnio 1 dalyje numatytos Komisijos pareigos informuoti Europos Komisiją įgyvendinimo, asmuo, prašantis išduoti elektros energijos perdavimo veiklos licenciją ir (ar) paskirti vykdyti perdavimo veiklą, taip pat veiklą vykdantis perdavimo sistemos operatorius privalo nedelsdami savarankiškai arba Komisijos reikalavimu Komisijai pateikti visus duomenis ir informaciją, susijusią su įmonės tiesiogine ar netiesiogine kontrole ar jos pokyčiais. Dokumentų, duomenų ir informacijos pateikimo tvarką ir sąlygas nustato Komisija.
+2. Siekdamas tinkamo šio straipsnio 1 dalyje numatytos Tarybos pareigos informuoti Europos Komisiją įgyvendinimo, asmuo, prašantis išduoti elektros energijos perdavimo veiklos licenciją ir (ar) paskirti vykdyti perdavimo veiklą, taip pat veiklą vykdantis perdavimo sistemos operatorius privalo nedelsdami savarankiškai arba Tarybos reikalavimu Tarybai pateikti visus duomenis ir informaciją, susijusią su įmonės tiesiogine ar netiesiogine kontrole ar jos pokyčiais. Dokumentų, duomenų ir informacijos pateikimo tvarką ir sąlygas nustato Taryba.
 
 
 
 
-3. Siekiant užtikrinti perdavimo veiklos tęstinumą ir nenutrūkstamumą, kaip nurodyta šio įstatymo 15 straipsnio 9 dalyje, iki Komisijos galutinio sprendimo dėl perdavimo sistemos operatoriaus paskyrimo šiame straipsnyje nustatyta tvarka Komisija išduoda nustatytus reikalavimus atitinkančiam asmeniui terminuotą elektros energijos perdavimo veiklos licenciją šio įstatymo 15 ir 17 straipsniuose nustatyta tvarka ir sąlygomis.
+3. Siekdama užtikrinti perdavimo veiklos tęstinumą ir nenutrūkstamumą, kaip nurodyta šio įstatymo 15 straipsnio 9 dalyje, iki Tarybos galutinio sprendimo dėl perdavimo sistemos operatoriaus paskyrimo šiame straipsnyje nustatyta tvarka Taryba išduoda nustatytus reikalavimus atitinkančiam asmeniui terminuotą elektros energijos perdavimo veiklos licenciją šio įstatymo 15 ir 17 straipsniuose nustatyta tvarka ir sąlygomis.
 
 
 
 
-4. Komisija priima sprendimą dėl perdavimo sistemos operatoriaus paskyrimo per 4 mėnesius nuo šio straipsnio 2 dalyje numatyto pranešimo dienos. Komisija atsisako paskirti perdavimo sistemos operatorių, jeigu asmuo neįrodo, kad:
+4. Taryba priima sprendimą dėl perdavimo sistemos operatoriaus paskyrimo per 4 mėnesius nuo šio straipsnio 2 dalyje numatyto pranešimo dienos. Taryba atsisako paskirti perdavimo sistemos operatorių, jeigu asmuo neįrodo, kad:
 
 
 1) jis yra tinkamai įvykdęs šio įstatymo 24 ir 53 straipsniuose nustatytus nepriklausomumo ir veiklos atskyrimo reikalavimus;
@@ -2412,17 +2408,14 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-2) jo veikla nekelia grėsmės elektros energetikos sistemos darbo saugumui ir patikimumui, viešiesiems interesams elektros energetikos sektoriuje, vartotojų teisių ir teisėtų interesų apsaugai, visuomenės saugumui ar nacionalinio saugumo interesams. Atitikties nacionalinio saugumo interesams įvertinimas atliekamas Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatyta tvarka ir sąlygomis. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-996, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01008
- 
+2) jo veikla nekelia grėsmės elektros energetikos sistemos darbo saugumui ir patikimumui, viešiesiems interesams elektros energetikos sektoriuje, vartotojų teisių ir teisėtų interesų apsaugai, visuomenės saugumui ar nacionalinio saugumo interesams. Atitikties nacionalinio saugumo interesams įvertinimas atliekamas Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme nustatyta tvarka ir sąlygomis.
 
 
 
 
 
 
-5. Komisija, prieš priimdama sprendimą dėl perdavimo sistemos operatoriaus paskyrimo, atsižvelgia į šio straipsnio 4 dalies 2 punkte numatyta tvarka priimtą sprendimą dėl to, ar asmens veikla nekelia grėsmės nacionaliniam saugumui, taip pat įvertina, ar asmens veikla nekelia grėsmės elektros energijos tiekimo Europos Sąjungai ar atskiroms valstybėms narėms saugumui ir patikimumui, atsižvelgiant į:
+5. Taryba, prieš priimdama sprendimą dėl perdavimo sistemos operatoriaus paskyrimo, atsižvelgia į šio straipsnio 4 dalies 2 punkte numatyta tvarka priimtą sprendimą dėl to, ar asmens veikla nekelia grėsmės nacionaliniam saugumui, taip pat įvertina, ar asmens veikla nekelia grėsmės elektros energijos tiekimo Europos Sąjungai ar atskiroms valstybėms narėms saugumui ir patikimumui, atsižvelgiant į:
 
 
 1) Europos Sąjungos teises ir pareigas atitinkamos trečiosios šalies atžvilgiu, kurios numatytos pagal tarptautinę teisę, įskaitant bet kokį susitarimą, sudarytą su viena ar daugiau trečiųjų šalių, kurio šalis yra Europos Sąjunga ir kuriame nagrinėjami energijos tiekimo saugumo klausimai;
@@ -2442,17 +2435,17 @@ Nr. XIII-996, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01008
 
 
 
-6. Komisija, vertindama šio straipsnio 5 dalyje numatytas aplinkybes, kreipiasi į Energetikos ministeriją ir (ar) kitas kompetentingas institucijas dėl nuomonės pateikimo, į kurią turi atsižvelgti priimdama galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo.
+6. Taryba, vertindama šio straipsnio 5 dalyje numatytas aplinkybes, kreipiasi į Energetikos ministeriją ir (ar) kitas kompetentingas institucijas dėl nuomonės pateikimo, į kurią turi atsižvelgti priimdama galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo.
 
 
 
 
-7. Komisija nedelsdama praneša Europos Komisijai apie priimtą sprendimą ir kartu pateikia visą svarbią su šiuo sprendimu susijusią informaciją.
+7. Taryba nedelsdama praneša Europos Komisijai apie priimtą sprendimą ir kartu pateikia visą svarbią su šiuo sprendimu susijusią informaciją.
 
 
 
 
-8. Prieš priimdama galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo, Komisija privalo kreiptis į Europos Komisiją su prašymu pateikti nuomonę dėl:
+8. Prieš priimdama galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo, Taryba privalo kreiptis į Europos Komisiją su prašymu pateikti nuomonę dėl:
 
 
 1) asmens atitikties šio įstatymo 24 ir 53 straipsniuose nustatytiems nepriklausomumo ir veiklos atskyrimo reikalavimams;
@@ -2467,20 +2460,22 @@ Nr. XIII-996, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01008
 
 
 
-9. Komisija, gavusi teigiamą Europos Komisijos išvadą arba negavusi neigiamos išvados, ne vėliau kaip per 2 mėnesių laikotarpį nuo Europos Komisijos išvados gavimo dienos arba suėjus terminui Europos Komisijos išvadai pateikti priima galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo. Teigiama Europos Komisijos išvada neįpareigoja Komisijos paskirti asmenį perdavimo sistemos operatoriumi, jeigu asmuo neatitinka šio straipsnio 4 dalies 2 punkte ar kituose teisės aktuose nustatytų reikalavimų.
+9. Taryba, gavusi teigiamą Europos Komisijos išvadą arba negavusi neigiamos išvados, ne vėliau kaip per 2 mėnesių laikotarpį nuo Europos Komisijos išvados gavimo dienos arba suėjus terminui Europos Komisijos išvadai pateikti priima galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo. Teigiama Europos Komisijos išvada neįpareigoja Tarybos paskirti asmenį perdavimo sistemos operatoriumi, jeigu asmuo neatitinka šio straipsnio 4 dalies 2 punkte ar kituose teisės aktuose nustatytų reikalavimų.
 
 
 
 
-10. Komisija, gavusi Europos Komisijos prieštaravimų dėl perdavimo sistemos operatoriaus paskyrimo, nurodo asmeniui pašalinti Europos Komisijos nustatytus neatitikimus ir ne vėliau kaip per 2 mėnesių laikotarpį priima galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo. Europos Komisijos nustatytų prieštaravimų pašalinimas neįpareigoja Komisijos paskirti asmenį perdavimo sistemos operatoriumi, jei asmuo neatitinka šio straipsnio 4 dalies 2 punkte ar kituose teisės aktuose nustatytų reikalavimų. Jeigu asmuo nepašalina Europos Komisijos nustatytų prieštaravimų, Komisija negali asmens paskirti perdavimo sistemos operatoriumi.
+10. Taryba, gavusi Europos Komisijos prieštaravimų dėl perdavimo sistemos operatoriaus paskyrimo, nurodo asmeniui pašalinti Europos Komisijos nustatytus neatitikimus ir ne vėliau kaip per 2 mėnesių laikotarpį priima galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo. Europos Komisijos nustatytų prieštaravimų pašalinimas neįpareigoja Tarybos paskirti asmenį perdavimo sistemos operatoriumi, jeigu asmuo neatitinka šio straipsnio 4 dalies 2 punkte ar kituose teisės aktuose nustatytų reikalavimų. Jeigu asmuo nepašalina Europos Komisijos nustatytų prieštaravimų, Taryba negali asmens paskirti perdavimo sistemos operatoriumi.
 
 
 
 
-11. Galutinis sprendimas dėl perdavimo sistemos operatoriaus paskyrimo išsiunčiamas perdavimo sistemos operatoriui ir Europos Komisijai, kartu nurodant, kaip buvo atsižvelgta į gautą Europos Komisijos išvadą, ir skelbiamas Komisijos interneto svetainėje ir Europos Sąjungos oficialiajame leidinyje. Kartu su Komisijos sprendimu skelbiama gauta Europos Komisijos išvada. Kai Komisijos sprendimas skiriasi nuo Europos Komisijos išvados, kartu pateikiamas ir paskelbiamas priimto sprendimo pagrindimas.
+11. Galutinis sprendimas dėl perdavimo sistemos operatoriaus paskyrimo išsiunčiamas perdavimo sistemos operatoriui ir Europos Komisijai, kartu nurodant, kaip buvo atsižvelgta į gautą Europos Komisijos išvadą, ir skelbiamas Tarybos interneto svetainėje ir Europos Sąjungos oficialiajame leidinyje. Kartu su Tarybos sprendimu skelbiama gauta Europos Komisijos išvada. Kai Tarybos sprendimas skiriasi nuo Europos Komisijos išvados, kartu pateikiamas ir paskelbiamas priimto sprendimo pagrindimas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
 
 
 
@@ -2488,25 +2483,27 @@ Nr. XIII-996, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01008
 28 straipsnis. Informacijos teikimas
 
 
-1. Perdavimo sistemos operatorius, asmuo, ketinantis verstis elektros energijos perdavimo veikla, ir (ar) vertikaliai integruota įmonė ar bet kuri jos grupės įmonė privalo pateikti Komisijai visus pagrįstai Komisijos ar Europos Komisijos reikalaujamus dokumentus, duomenis ir informaciją, reikalingus šio įstatymo 25, 26 ir 27 straipsniuose nustatytiems veiksmams atlikti.
+1. Perdavimo sistemos operatorius, asmuo, ketinantis verstis elektros energijos perdavimo veikla, ir (ar) vertikaliai integruota įmonė ar bet kuri jos grupės įmonė privalo pateikti Tarybai visus pagrįstai Tarybos ar Europos Komisijos reikalaujamus dokumentus, duomenis ir informaciją, reikalingus šio įstatymo 25, 26 ir 27 straipsniuose nustatytiems veiksmams atlikti.
 
 
 
 
-2. Dėl šio straipsnio 1 dalyje nurodytų dokumentų, duomenų ar informacijos pateikimo Komisija ar Europos Komisija gali kreiptis bet kuriuo metu iki galutinio Komisijos sprendimo pateikimo. Dokumentų, duomenų ir informacijos pateikimo tvarką ir sąlygas nustato Komisija.
+2. Dėl šio straipsnio 1 dalyje nurodytų dokumentų, duomenų ar informacijos pateikimo Taryba ar Europos Komisija gali kreiptis bet kuriuo metu iki galutinio Tarybos sprendimo pateikimo. Dokumentų, duomenų ir informacijos pateikimo tvarką ir sąlygas nustato Taryba.
 
 
 
 
-3. Perdavimo sistemos operatorius privalo pateikti Komisijai informaciją apie visus numatomus sandorius, taip pat visus kitus aktualius duomenis ir informaciją ar jų pasikeitimus, kuriuos reikia naujai įvertinti, ar jie atitinka perdavimo sistemos operatoriaus nepriklausomumo ir veiklos atskyrimo reikalavimus.
+3. Perdavimo sistemos operatorius privalo pateikti Tarybai informaciją apie visus numatomus sandorius, taip pat visus kitus aktualius duomenis ir informaciją ar jų pasikeitimus, kuriuos reikia naujai įvertinti, ar jie atitinka perdavimo sistemos operatoriaus nepriklausomumo ir veiklos atskyrimo reikalavimus.
 
 
 
 
-4. Komisija užtikrina perdavimo sistemos operatoriaus ar kitų asmenų pateiktos informacijos, laikomos komercine (gamybine) ar profesine paslaptimi, konfidencialumą.
+4. Taryba užtikrina perdavimo sistemos operatoriaus ar kitų asmenų pateiktos informacijos, laikomos komercine (gamybine) ar profesine paslaptimi, konfidencialumą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
 
 
 
@@ -2685,17 +2682,26 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-18) užtikrinti linijų perkrovų valdymą rinkos mechanizmais, gautų perkrovų pajamų paskirstymą ir dėl tarpsisteminių elektros energijos srautų atsiradusių sąnaudų kompensavimą pagal 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančio Reglamentą (EB) Nr. 1228/2003, nustatytus principus;
+18) užtikrinti linijų perkrovų valdymą rinkos mechanizmais, gautų perkrovų pajamų paskirstymą ir dėl tarpsisteminių elektros energijos srautų atsiradusių sąnaudų kompensavimą pagal Reglamente (EB) Nr. 714/2009 nustatytus principus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
 
-19) rengti ir teikti Komisijai tvirtinti perdavimo tinklų ir jungiamųjų linijų valdymą, jų pralaidumo nustatymą, paskirstymą ir perkrovų valdymą reglamentuojančias taisykles;
+19) rengti ir teikti Tarybai tvirtinti perdavimo tinklų ir jungiamųjų linijų valdymą, jų pralaidumo nustatymą, paskirstymą ir perkrovų valdymą reglamentuojančias taisykles; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
 
-20) užtikrinti informacijos, gautos atliekant savo funkcijas ir sudarančios komercinę ar kitokią paslaptį, konfidencialumą, išskyrus įstatymų nustatytus atvejus, ir nenaudoti šios informacijos kitų elektros energetikos sektoriaus dalyvių diskriminavimo tikslais. Komisija prižiūri ir kontroliuoja, kad perdavimo sistemos operatoriaus gauta informacija, sudaranti komercinę ar kitokią paslaptį, nebūtų perduodama jokiems tretiesiems asmenims, išskyrus įstatymų nustatytus atvejus, o perdavimo sistemos operatoriaus personalas neteiktų paslaugų ar nebūtų perleidžiamas įmonėms, vykdančioms elektros energijos gamybos ar tiekimo veiklą;
+20) užtikrinti informacijos, gautos atliekant savo funkcijas ir sudarančios komercinę ar kitokią paslaptį, konfidencialumą, išskyrus įstatymų nustatytus atvejus, ir nenaudoti šios informacijos kitų elektros energetikos sektoriaus dalyvių diskriminavimo tikslais. Taryba prižiūri ir kontroliuoja, kad perdavimo sistemos operatoriaus gauta informacija, sudaranti komercinę ar kitokią paslaptį, nebūtų perduodama jokiems tretiesiems asmenims, išskyrus įstatymų nustatytus atvejus, o perdavimo sistemos operatoriaus personalas neteiktų paslaugų ar nebūtų perleidžiamas įmonėms, vykdančioms elektros energijos gamybos ar tiekimo veiklą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -2775,7 +2781,9 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-3. Perdavimo sistemos operatorius gali naudotis bendromis paslaugomis administracinio aptarnavimo, informacinių technologijų ar kitoje su perdavimo veikla tiesiogiai nesusijusioje srityje kartu su vertikaliai integruota įmone, jos grupės įmonėmis ir padaliniais tik tokiu mastu, kiek tokių paslaugų teikimas nesuteikia vertikaliai integruotai įmonei, jos grupės įmonėms ir (ar) padaliniams nepagrįsto pranašumo prieš kitus tinklų naudotojus, neriboja konkurencijos tarp rinkos dalyvių, neiškreipia jos arba neužkerta jai kelio. Bendrosios paslaugos teikiamos rinkos sąlygomis, kurių pagrįstumą teisės aktų nustatyta tvarka įvertina Komisija.
+3. Perdavimo sistemos operatorius gali naudotis bendromis paslaugomis administracinio aptarnavimo, informacinių technologijų ar kitoje su perdavimo veikla tiesiogiai nesusijusioje srityje kartu su vertikaliai integruota įmone, jos grupės įmonėmis ir padaliniais tik tokiu mastu, kiek tokių paslaugų teikimas nesuteikia vertikaliai integruotai įmonei, jos grupės įmonėms ir (ar) padaliniams nepagrįsto pranašumo prieš kitus tinklų naudotojus, neriboja konkurencijos tarp rinkos dalyvių, neiškreipia jos arba neužkerta jai kelio. Bendrosios paslaugos teikiamos rinkos sąlygomis, kurių pagrįstumą įvertina Taryba. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -2786,7 +2794,8 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 33 straipsnis. Perdavimo tinklų plėtra ir įgaliojimai priimti sprendimus dėl investavimo
 
 
-1. Perdavimo sistemos operatorius ne vėliau kaip iki kiekvienų metų liepos 1 dienos Komisijai pateikia 10 metų perdavimo tinklų plėtros planą, grindžiamą esama ir numatoma elektros energijos pasiūla ir paklausa elektros energetikos sistemoje. Prieš teikiant tinklų plėtros planą Komisijai, perdavimo sistemos operatoriaus sprendimu vykdomos konsultacijos su kompetentingomis valstybės institucijomis ir suinteresuotais tinklų naudotojais. Tinklų plėtros plane nurodomos veiksmingos priemonės, skirtos sistemos pajėgumų pakankamumui ir tiekimo saugumui užtikrinti.
+1. Perdavimo sistemos operatorius ne vėliau kaip iki kiekvienų metų liepos 1 dienos Tarybai pateikia 10 metų perdavimo tinklų plėtros planą, grindžiamą esama ir numatoma elektros energijos pasiūla ir paklausa elektros energetikos sistemoje. Prieš teikiant tinklų plėtros planą Tarybai, perdavimo sistemos operatoriaus sprendimu vykdomos konsultacijos su kompetentingomis valstybės institucijomis ir suinteresuotais tinklų naudotojais. Tinklų plėtros plane nurodomos veiksmingos priemonės, skirtos sistemos pajėgumų pakankamumui ir tiekimo saugumui užtikrinti. 
+TAR pastaba. Pirmą kartą po įstatymo Nr. XIII-1970 įsigaliojimo (2019-07-01) teikiant 33 straipsnio 1 dalyje nurodytą perdavimo tinklų plėtros planą, perdavimo tinklų plėtros planas pateikiamas Valstybinei energetikos reguliavimo tarybai, jeigu perdavimo sistemos operatorius šio plano nebuvo pateikęs Valstybinei kainų ir energetikos kontrolės komisijai iki šio įstatymo įsigaliojimo.
 
 
 
@@ -2794,7 +2803,7 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 2. Šio straipsnio 1 dalyje nurodytame tinklų plėtros plane visų pirma nurodoma:
 
 
-1) perdavimo sistemos infrastruktūra, kurią reikia įrengti ar atnaujinti per planuojamą 10 metų laikotarpį;
+1) perdavimo sistemos infrastruktūra, kurią reikia įrengti ar atnaujinti per planuojamą 10 metų laikotarpį;
 
 
 
@@ -2816,25 +2825,22 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-4. Komisija dėl perdavimo sistemos operatoriaus pateikto tinklų plėtros plano vykdo skaidrias ir viešas konsultacijas su visais suinteresuotais tinklų naudotojais. Komisija savo interneto svetainėje skelbia konsultacijų rezultatus, visų pirma galimą investicijų į tinklų plėtrą poreikį.
+4. Taryba dėl perdavimo sistemos operatoriaus pateikto tinklų plėtros plano vykdo skaidrias ir viešas konsultacijas su visais suinteresuotais tinklų naudotojais. Taryba savo interneto svetainėje skelbia konsultacijų rezultatus, visų pirma galimą investicijų į tinklų plėtrą poreikį.
 
 
 
 
-5. Komisija įvertina, ar perdavimo sistemos operatoriaus pateiktame tinklų plėtros plane atsižvelgta į visus investicijų poreikius, kurie buvo nustatyti konsultacijų metu, ir ar planas neprieštarauja neprivalomam Europos Sąjungos 10 metų tinklų plėtros planui, nurodytam 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančio Reglamentą (EB) Nr. 1228/2003, 8 straipsnio 3 dalies b punkte.
+5. Taryba įvertina, ar perdavimo sistemos operatoriaus pateiktame tinklų plėtros plane atsižvelgta į visus investicijų poreikius, kurie buvo nustatyti konsultacijų metu, ir ar planas neprieštarauja neprivalomam Europos Sąjungos 10 metų tinklų plėtros planui, nurodytam Reglamento (EB) Nr. 714/2009 8 straipsnio 3 dalies b punkte.
 
 
 
 
-6. Komisija vykdo tinklų plėtros plano įgyvendinimo stebėseną ir atlieka jo vertinimą. Komisija, nustačiusi tinklų plėtros plano neatitiktį šiame straipsnyje nustatytiems reikalavimams, teikia perdavimo sistemos operatoriui rekomendacijas dėl tinklų plėtros plano koregavimo ar keitimo ir nurodo protingą terminą šiems veiksmams atlikti. Perdavimo sistemos operatorius, nepateikęs plėtros plano šio straipsnio 1 dalyje nustatytais terminais arba pateikęs plėtros planą nesilaikydamas šiame straipsnyje nustatytų reikalavimų ir nepašalinęs nustatytų pažeidimų per Komisijos nurodytą terminą, laikomas pažeidusiu reguliuojamos elektros energijos perdavimo veiklos sąlygas. 
-Straipsnio dalies pakeitimai:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
- 
+6. Taryba vykdo tinklų plėtros plano įgyvendinimo stebėseną ir atlieka jo vertinimą. Taryba, nustačiusi tinklų plėtros plano neatitiktį šiame straipsnyje nustatytiems reikalavimams, teikia perdavimo sistemos operatoriui rekomendacijas dėl tinklų plėtros plano koregavimo ar keitimo ir nurodo protingą terminą šiems veiksmams atlikti. Perdavimo sistemos operatorius, nepateikęs plėtros plano šio straipsnio 1 dalyje nustatytais terminais arba pateikęs plėtros planą nesilaikydamas šiame straipsnyje nustatytų reikalavimų ir nepašalinęs nustatytų pažeidimų per Tarybos nurodytą terminą, laikomas pažeidusiu reguliuojamos elektros energijos perdavimo veiklos sąlygas.
 
 
 
 
-7. Tuo atveju, kai perdavimo sistemos operatorius neatlieka investicijų, kurios pagal tinklų plėtros planą turėjo būti padarytos per ateinančius 3 metus, Komisija imasi šių priemonių tam, kad atitinkamos investicijos būtų atliktos, jeigu jos yra reikalingos atsižvelgiant į naujausią tinklų plėtros planą:
+7. Tuo atveju, kai perdavimo sistemos operatorius neatlieka investicijų, kurios pagal tinklų plėtros planą turėjo būti padarytos per ateinančius 3 metus, Taryba imasi šių priemonių tam, kad atitinkamos investicijos būtų atliktos, jeigu jos yra reikalingos atsižvelgiant į naujausią tinklų plėtros planą:
 
 
 1) įpareigoja perdavimo sistemos operatorių atlikti atitinkamas investicijas;
@@ -2854,7 +2860,7 @@ Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 
 
-8. Tuo atveju, kai Komisija pasinaudoja šio straipsnio 7 dalies 2 punkte nurodytais įgaliojimais, ji gali reikalauti iš perdavimo sistemos operatoriaus įgyvendinti vieną ar daugiau iš šių reikalavimų, kad:
+8. Tuo atveju, kai Taryba pasinaudoja šio straipsnio 7 dalies 2 punkte nurodytais įgaliojimais, ji gali reikalauti iš perdavimo sistemos operatoriaus įgyvendinti vieną ar daugiau iš šių reikalavimų, kad:
 
 
 1) konkursą laimėjęs investuotojas teiktų finansavimą;
@@ -2879,15 +2885,17 @@ Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 
 
-9. Perdavimo sistemos operatorius suteikia investuotojams visą investicijoms atlikti reikalingą informaciją, prijungia naują perdavimo sistemos turtą prie perdavimo tinklų ir deda visas protingas pastangas sudaryti palankias sąlygas investiciniams projektams įgyvendinti. Atitinkamas finansavimo priemones patvirtina Komisija.
+9. Perdavimo sistemos operatorius suteikia investuotojams visą investicijoms atlikti reikalingą informaciją, prijungia naują perdavimo sistemos turtą prie perdavimo tinklų ir deda visas protingas pastangas sudaryti palankias sąlygas investiciniams projektams įgyvendinti. Atitinkamas finansavimo priemones patvirtina Taryba.
 
 
 
 
-10. Tuo atveju, kai Komisija pasinaudoja šio straipsnio 7 dalyje nurodytais įgaliojimais, teisės aktų nustatyta tvarka elektros energijos perdavimo paslaugos ir susijusių paslaugų kainodaros tikslais įvertinamos atitinkamų investicijų sąnaudos.
+10. Tuo atveju, kai Taryba pasinaudoja šio straipsnio 7 dalyje nurodytais įgaliojimais, elektros energijos perdavimo paslaugos ir susijusių paslaugų kainodaros tikslais įvertinamos atitinkamų investicijų sąnaudos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
 
 
 
@@ -3148,12 +3156,18 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-4. Komisija turi teisę kreiptis į skirstomųjų tinklų operatorių su prašymu pateikti papildomą informaciją apie 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą, informaciją apie praėjusiais metais atliktas investicijas ir (ar) paaiškinimus dėl neatliktų investicijų pagal 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą. 
+4. Taryba turi teisę kreiptis į skirstomųjų tinklų operatorių su prašymu pateikti papildomą informaciją apie 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą, informaciją apie praėjusiais metais atliktas investicijas ir (ar) paaiškinimus dėl neatliktų investicijų pagal 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų planą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
 
-5. Tuo atveju, kai skirstomųjų tinklų operatorius neatlieka 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plano investicijų, kurios taip pat yra numatytos Vyriausybės nutarimuose, Komisija gali įpareigoti skirstomųjų tinklų operatorių pateikti derinti atitinkamas investicijas ir suderinusi investicijų projektą įpareigoti šias investicijas atlikti. Tuo atveju, kai Komisija pasinaudoja šioje dalyje nurodytais įgaliojimais, atitinkamų suderintų investicijų sąnaudos įvertinamos nustatant skirstomųjų tinklų operatoriaus paslaugos ir susijusių paslaugų kainas. 
+5. Tuo atveju, kai skirstomųjų tinklų operatorius neatlieka 10 metų skirstomųjų tinklų plėtros, atnaujinimo, modernizavimo ir investicijų plano investicijų, kurios taip pat yra numatytos Vyriausybės nutarimuose, Taryba gali įpareigoti skirstomųjų tinklų operatorių pateikti derinti atitinkamas investicijas ir suderinusi investicijų projektą įpareigoti šias investicijas atlikti. Tuo atveju, kai Taryba pasinaudoja šioje dalyje nurodytais įgaliojimais, atitinkamų suderintų investicijų sąnaudos įvertinamos nustatant skirstomųjų tinklų operatoriaus paslaugos ir susijusių paslaugų kainas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 Straipsnio pakeitimai:
@@ -3208,9 +3222,10 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-3. Balansavimo energijos tiekėjai prekiauja balansavimo elektros energija su perdavimo sistemos operatoriumi. Balansavimo elektros energijos pirkimo–pardavimo sutarčių, sudaromų su balansavimo elektros tiekėjais, standartines sąlygas rengia ir, suderinęs su Komisija, savo interneto svetainėje skelbia perdavimo sistemos operatorius.
+3. Balansavimo energijos tiekėjai prekiauja balansavimo elektros energija su perdavimo sistemos operatoriumi. Balansavimo elektros energijos pirkimo–pardavimo sutarčių, sudaromų su balansavimo energijos tiekėjais, standartines sąlygas rengia ir, suderinęs su Taryba, savo interneto svetainėje skelbia perdavimo sistemos operatorius. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -3284,7 +3299,9 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-4. Visuomeninis tiekėjas neprivalo vykdyti šio straipsnio reikalavimų, jeigu tai padaryti trukdo nuo visuomeninio tiekėjo nepriklausančios aplinkybės, tarp jų valstybės veiksmai, trečiųjų asmenų veiksmai ar nenugalimos jėgos aplinkybės, taip pat kitos aplinkybės, kurių visuomeninis tiekėjas negalėjo kontroliuoti ar kitaip valdyti. Esant tokioms aplinkybėms, visuomeninis tiekėjas, vartotojai ir (ar) tinklų operatoriai visapusiškai bendradarbiauja, siekdami pašalinti visuomeniniam elektros energijos tiekimui užtikrinti trukdančias aplinkybes. Vartotojams teikiamų visuomeninio elektros energijos tiekimo paslaugų patikimumo ir jų sąlygų priežiūrą bei kontrolę vykdo Komisija.
+4. Visuomeninis tiekėjas neprivalo vykdyti šio straipsnio reikalavimų, jeigu tai padaryti trukdo nuo visuomeninio tiekėjo nepriklausančios aplinkybės, tarp jų valstybės veiksmai, trečiųjų asmenų veiksmai ar nenugalimos jėgos aplinkybės, taip pat kitos aplinkybės, kurių visuomeninis tiekėjas negalėjo kontroliuoti ar kitaip valdyti. Esant tokioms aplinkybėms, visuomeninis tiekėjas, vartotojai ir (ar) tinklų operatoriai visapusiškai bendradarbiauja, siekdami pašalinti visuomeniniam elektros energijos tiekimui užtikrinti trukdančias aplinkybes. Vartotojams teikiamų visuomeninio elektros energijos tiekimo paslaugų patikimumo ir jų sąlygų priežiūrą bei kontrolę vykdo Taryba. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
  
@@ -3315,8 +3332,10 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-3) vartotojams, kuriems užtikrinamas garantinis tiekimas, taikoma garantinio tiekimo kaina, kuri apskaičiuojama vidutinei praėjusio ataskaitinio mėnesio elektros energijos biržos kainai, susiformavusiai Lietuvos kainų zonoje, pritaikius koeficientą 1,25. Skirtumas tarp faktinių ataskaitinio laikotarpio pajamų ir asmens, atliekančio garantinio tiekimo funkciją, patirtų garantinio elektros energijos tiekimo veiklos sąnaudų, įskaitant elektros energijos įsigijimo sąnaudas, priskiriamas asmens, atliekančio garantinio tiekimo funkciją, sąnaudoms ar pajamoms pagal šio įstatymo 9 straipsnio 3 dalies 5 punkte nurodytą metodiką. Garantinio tiekimo kainą apskaičiuoja ir nustato asmuo, atliekantis garantinio tiekimo funkciją.
-TAR pastaba. 44 straipsnio 2 dalies 3 punkto nuostatos įsigalioja ir yra taikomos nuo 2018 m. rugpjūčio 1 d.
+3) vartotojams, kuriems užtikrinamas garantinis tiekimas, taikoma garantinio tiekimo kaina, kuri apskaičiuojama vidutinei praėjusio ataskaitinio mėnesio elektros energijos biržos kainai, susiformavusiai Lietuvos kainų zonoje, pritaikius koeficientą 1,25. Skirtumas tarp faktinių ataskaitinio laikotarpio pajamų ir asmens, atliekančio garantinio tiekimo funkciją, patirtų garantinio elektros energijos tiekimo veiklos sąnaudų, įskaitant elektros energijos įsigijimo sąnaudas, priskiriamas asmens, atliekančio garantinio tiekimo funkciją, sąnaudoms ar pajamoms pagal šio įstatymo 9 straipsnio 3 dalies 4 punkte nurodytą metodiką. Garantinio tiekimo kainą apskaičiuoja ir nustato asmuo, atliekantis garantinio tiekimo funkciją. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -3326,7 +3345,10 @@ TAR pastaba. 44 straipsnio 2 dalies 3 punkto nuostatos įsigalioja ir yra taikom
 3. Šio straipsnio 2 dalies 1 punkte nurodytas 2 savaičių nepriklausomo tiekėjo pranešimo terminas netaikomas ir garantinis tiekimas užtikrinamas nedelsiant, ne vėliau kaip per 3 darbo dienas nuo bet kurios iš šių aplinkybių atsiradimo:
 
 
-1) vartotojo pasirinktam nepriklausomam tiekėjui pažeidus reguliuojamos veiklos sąlygas, Komisija sustabdo ar panaikina elektros energijos tiekimo veiklos leidimo galiojimą;
+1) vartotojo pasirinktam nepriklausomam tiekėjui pažeidus reguliuojamos veiklos sąlygas, Taryba sustabdo ar panaikina elektros energijos tiekimo veiklos leidimo galiojimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -3528,7 +3550,9 @@ Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 
 
-4. Elektros energijos vartotojų teisių ir teisėtų interesų apsaugos valstybinę priežiūrą ir kontrolę pagal kompetenciją vykdo Komisija ir Tarnyba.
+4. Elektros energijos vartotojų teisių ir teisėtų interesų apsaugos valstybinę priežiūrą ir kontrolę pagal kompetenciją vykdo Taryba ir Tarnyba. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
  
@@ -3551,7 +3575,9 @@ Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 
 
-3. Komisija prižiūri ir kontroliuoja tinklų operatorių veiklos atitiktį elektros energijos persiuntimo patikimumo ir paslaugų kokybės reikalavimams, kaip nurodyta šio straipsnio 2 dalyje. Asmenys, nesilaikantys elektros energijos persiuntimo patikimumo ir paslaugų kokybės reikalavimų, atsako įstatymų nustatyta tvarka.
+3. Taryba prižiūri ir kontroliuoja tinklų operatorių veiklos atitiktį elektros energijos persiuntimo patikimumo ir paslaugų kokybės reikalavimams, kaip nurodyta šio straipsnio 2 dalyje. Asmenys, nesilaikantys elektros energijos persiuntimo patikimumo ir paslaugų kokybės reikalavimų, atsako įstatymų nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -3565,9 +3591,10 @@ Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 1. Vartotojai turi teisę:
 
 
-1) gauti iš Komisijos, perdavimo sistemos ir skirstomųjų tinklų operatorių, visuomeninių ir nepriklausomų tiekėjų aiškią ir suprantamą informaciją apie savo teises, susijusias su elektros energijos vartojimu ir gaunamomis paslaugomis; 
+1) gauti iš Tarybos, perdavimo sistemos ir skirstomųjų tinklų operatorių, visuomeninių ir nepriklausomų tiekėjų aiškią ir suprantamą informaciją apie savo teises, susijusias su elektros energijos vartojimu ir gaunamomis paslaugomis; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -3728,7 +3755,9 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-10. Komisija imasi būtinų priemonių, kad užtikrintų šiame straipsnyje nurodytos vartotojams teikiamos informacijos patikimumą ir kad tokia informacija būtų pateikiama nacionaliniu lygmeniu lengvai palyginamu būdu.
+10. Taryba imasi būtinų priemonių, kad užtikrintų šiame straipsnyje nurodytos vartotojams teikiamos informacijos patikimumą ir kad tokia informacija būtų pateikiama nacionaliniu lygmeniu lengvai palyginamu būdu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
@@ -3737,7 +3766,9 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-11. Komisija parengia ir savo interneto svetainėje skelbia bei periodiškai atnaujina aiškų ir glaustą elektros energijos vartotojams skirtą klausimų ir atsakymų sąrašą, kuriame būtų teikiama praktinė informacija apie vartotojų teises. Rengdama informaciją buitinių vartotojų teisių klausimais, Komisija bendradarbiauja su Tarnyba. Be to, Komisija savo interneto svetainėje skelbia Europos Komisijos parengtą vartotojams skirtą klausimų ir atsakymų sąrašą ir užtikrina, kad tiekėjai ar skirstomųjų tinklų operatoriai, bendradarbiaudami su Komisija, imtųsi reikiamų veiksmų, kad atitinkamas klausimų ir atsakymų sąrašas būtų skelbiamas tiekėjų ir (ar) skirstomųjų tinklų operatorių interneto svetainėse, apie tai informuojant vartotojus elektroninių ryšių priemonėmis, o kai tokios galimybės nėra, – vartotojui būtų išsiųsta klausimų ir atsakymų sąrašo kopija.
+11. Taryba parengia ir savo interneto svetainėje skelbia bei periodiškai atnaujina aiškų ir glaustą elektros energijos vartotojams skirtą klausimų ir atsakymų sąrašą, kuriame būtų teikiama praktinė informacija apie vartotojų teises. Rengdama informaciją buitinių vartotojų teisių klausimais, Taryba bendradarbiauja su Tarnyba. Be to, Taryba savo interneto svetainėje skelbia Europos Komisijos parengtą vartotojams skirtą klausimų ir atsakymų sąrašą ir užtikrina, kad tiekėjai ar skirstomųjų tinklų operatoriai, bendradarbiaudami su Taryba, imtųsi reikiamų veiksmų, kad atitinkamas klausimų ir atsakymų sąrašas būtų skelbiamas tiekėjų ir (ar) skirstomųjų tinklų operatorių interneto svetainėse, apie tai informuojant vartotojus elektroninių ryšių priemonėmis, o kai tokios galimybės nėra, – vartotojui būtų išsiųsta klausimų ir atsakymų sąrašo kopija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
@@ -3854,12 +3885,18 @@ APSKAITOS IR VEIKLOS ELEKTROS ENERGETIKOS SEKTORIUJE SKAIDRUMAS
 
 
 
-4) vertikaliai integruota įmonė, atsižvelgdama į Komisijos nustatytas perdavimo paslaugų kainų viršutines ribas, patvirtina tik perdavimo sistemos operatoriaus metinį finansinį planą ar bet kurį lygiavertį dokumentą, metinę turto grąžos normą ir maksimalų skolinių įsipareigojimų dydį ir perdavimo sistemos operatoriui neduoda nurodymų dėl perdavimo sistemos valdymo, taip pat dėl sprendimų, susijusių su perdavimo linijų statyba ar atnaujinimu, jeigu tie sprendimai neviršija patvirtinto metinio finansinio plano ar bet kurio lygiaverčio dokumento;
+4) vertikaliai integruota įmonė, atsižvelgdama į Tarybos nustatytas perdavimo paslaugų kainų viršutines ribas, patvirtina tik perdavimo sistemos operatoriaus metinį finansinį planą ar bet kurį lygiavertį dokumentą, metinę turto grąžos normą ir maksimalų skolinių įsipareigojimų dydį ir perdavimo sistemos operatoriui neduoda nurodymų dėl perdavimo sistemos valdymo, taip pat dėl sprendimų, susijusių su perdavimo linijų statyba ar atnaujinimu, jeigu tie sprendimai neviršija patvirtinto metinio finansinio plano ar bet kurio lygiaverčio dokumento; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
 
-5) perdavimo sistemos operatorius patvirtina atitikties programą, nustatančią darbuotojams įpareigojimus ir priemones, kuriais siekiama užkirsti kelią tinklų naudotojų ir rinkos dalyvių diskriminavimui, ir užtikrina tinkamą nustatytų priemonių ir įpareigojimų laikymosi priežiūrą, kiekvienais metais parengia, paskelbia savo interneto svetainėje ir Komisijai pateikia priemonių, kurių buvo imtasi vykdant šią programą, ataskaitą;
+5) perdavimo sistemos operatorius patvirtina atitikties programą, nustatančią darbuotojams įpareigojimus ir priemones, kuriais siekiama užkirsti kelią tinklų naudotojų ir rinkos dalyvių diskriminavimui, ir užtikrina tinkamą nustatytų priemonių ir įpareigojimų laikymosi priežiūrą, kiekvienais metais parengia, paskelbia savo interneto svetainėje ir Tarybai pateikia priemonių, kurių buvo imtasi vykdant šią programą, ataskaitą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -3975,12 +4012,18 @@ APSKAITOS IR VEIKLOS ELEKTROS ENERGETIKOS SEKTORIUJE SKAIDRUMAS
 
 
 
-4) vertikaliai integruota įmonė patvirtina, atsižvelgdama į Komisijos nustatytas skirstymo paslaugų kainų viršutines ribas, skirstomųjų tinklų operatoriaus metinį finansinį planą ar bet kurį lygiavertį dokumentą, metinę turto grąžos normą ir maksimalų skolinių įsipareigojimų dydį ir skirstomųjų tinklų operatoriui neduoda nurodymų dėl skirstomųjų tinklų valdymo, taip pat dėl sprendimų, susijusių su skirstomųjų linijų statyba ar atnaujinimu, jeigu tie sprendimai neviršija patvirtinto metinio finansinio plano ar bet kurio lygiaverčio dokumento. Vertikaliai integruota įmonė, teisės aktų nustatyta tvarka įgyvendindama skirstomųjų tinklų operatoriaus akcininko teises ir pareigas, turi teisę taikyti ir kitus skirstomųjų tinklų operatoriaus veiklos koordinavimo mechanizmus, kiek tai neprieštarauja šiame įstatyme nustatytiems nepriklausomumo ir skirstymo veiklos atskyrimo reikalavimams;
+4) vertikaliai integruota įmonė patvirtina, atsižvelgdama į Tarybos nustatytas skirstymo paslaugų kainų viršutines ribas, skirstomųjų tinklų operatoriaus metinį finansinį planą ar bet kurį lygiavertį dokumentą, metinę turto grąžos normą ir maksimalų skolinių įsipareigojimų dydį ir skirstomųjų tinklų operatoriui neduoda nurodymų dėl skirstomųjų tinklų valdymo, taip pat dėl sprendimų, susijusių su skirstomųjų linijų statyba ar atnaujinimu, jeigu tie sprendimai neviršija patvirtinto metinio finansinio plano ar bet kurio lygiaverčio dokumento. Vertikaliai integruota įmonė, įgyvendindama skirstomųjų tinklų operatoriaus akcininko teises ir pareigas, turi teisę taikyti ir kitus skirstomųjų tinklų operatoriaus veiklos koordinavimo mechanizmus, kiek tai neprieštarauja šiame įstatyme nustatytiems nepriklausomumo ir skirstymo veiklos atskyrimo reikalavimams; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
 
-5) skirstomųjų tinklų operatorius patvirtina atitikties programą, nustatančią darbuotojams įpareigojimus ir priemones, kuriais siekiama užkirsti kelią diskriminuojančiam elgesiui, ir užtikrina tinkamą nustatytų priemonių ir įpareigojimų laikymosi priežiūrą, kiekvienais metais parengia, paskelbia savo interneto svetainėje ir Komisijai pateikia priemonių, kurių buvo imtasi vykdant šią programą, ataskaitą;
+5) skirstomųjų tinklų operatorius patvirtina atitikties programą, nustatančią darbuotojams įpareigojimus ir priemones, kuriais siekiama užkirsti kelią diskriminuojančiam elgesiui, ir užtikrina tinkamą nustatytų priemonių ir įpareigojimų laikymosi priežiūrą, kiekvienais metais parengia, paskelbia savo interneto svetainėje ir Tarybai pateikia priemonių, kurių buvo imtasi vykdant šią programą, ataskaitą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -4007,7 +4050,10 @@ APSKAITOS IR VEIKLOS ELEKTROS ENERGETIKOS SEKTORIUJE SKAIDRUMAS
 
 
 
-4. Kai skirstomųjų tinklų operatorius yra vertikaliai integruotos įmonės dalis, Komisija vykdo skirstomųjų tinklų operatoriaus veiklos priežiūrą, užtikrindama, kad skirstomųjų tinklų operatorius negalėtų pasinaudoti vertikalios integracijos pranašumu konkurencijai iškraipyti.
+4. Kai skirstomųjų tinklų operatorius yra vertikaliai integruotos įmonės dalis, Taryba vykdo skirstomųjų tinklų operatoriaus veiklos priežiūrą, užtikrindama, kad skirstomųjų tinklų operatorius negalėtų pasinaudoti vertikalios integracijos pranašumu konkurencijai iškraipyti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -4051,7 +4097,10 @@ Nr. XIII-554, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12057
 
 
 
-3. Elektros energetikos įmonės (išskyrus gamintojus, gaminančius elektros energiją iš atsinaujinančių energijos išteklių), kurios vadovaudamosi Energetikos įstatymo 16 straipsnio 8 dalimi, nėra įpareigotos skelbti metinių finansinių ataskaitų interneto svetainėse, pasibaigus kiekvieniems finansiniams metams per 4 mėnesius praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo reikalavimus, skelbia savo interneto svetainėse. Jeigu šios elektros energetikos įmonės dėl techninių priežasčių negali paskelbti praėjusių finansinių metų metinių finansinių ataskaitų ir auditoriaus išvadų savo interneto svetainėse ar jų neturi, tada jos apie tai raštu informuoja Komisiją ir praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal teisės aktų reikalavimus, teikia Komisijai, kuri paskelbia jas savo interneto svetainėje. 
+3. Elektros energetikos įmonės (išskyrus gamintojus, gaminančius elektros energiją iš atsinaujinančių energijos išteklių), kurios, vadovaudamosi Energetikos įstatymo 16 straipsnio 8 dalimi, nėra įpareigotos skelbti metinių finansinių ataskaitų interneto svetainėse, pasibaigus kiekvieniems finansiniams metams per 4 mėnesius praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo reikalavimus, skelbia savo interneto svetainėse. Jeigu šios elektros energetikos įmonės dėl techninių priežasčių negali paskelbti praėjusių finansinių metų metinių finansinių ataskaitų ir auditoriaus išvadų savo interneto svetainėse ar jų neturi, tada jos apie tai raštu informuoja Tarybą ir praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal teisės aktų reikalavimus, teikia Tarybai, kuri paskelbia jas savo interneto svetainėje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 Straipsnio pakeitimai:
@@ -4069,9 +4118,10 @@ Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
 
 
 
-2. Komisija turi teisę gauti iš valstybės institucijų, įskaitant ir jų turimą Europos Sąjungos institucijų bei kitų valstybių narių disponuojamą informaciją, ir iš savivaldybių institucijų bei įstaigų, elektros energijos gamybos, perdavimo, skirstymo ir tiekimo veiklą vykdančių įmonių, taip pat iš elektros biržos operatoriaus ir kitų asmenų informaciją, kuri reikalinga Komisijai pavestoms elektros energetikos sektoriaus reguliavimo, priežiūros ir kontrolės funkcijoms tinkamai atlikti, įskaitant, bet neapsiribojant, išsamius paaiškinimus dėl ribojamo trečiųjų asmenų dalyvavimo (prieigos) persiunčiant elektros energiją ar atsisakymo suteikti šią prieigą bei informaciją apie priemones, reikalingas elektros tinklams stiprinti. 
+2. Taryba turi teisę gauti iš valstybės institucijų, įskaitant ir jų turimą Europos Sąjungos institucijų bei kitų valstybių narių disponuojamą informaciją, ir iš savivaldybių institucijų bei įstaigų, elektros energijos gamybos, perdavimo, skirstymo ir tiekimo veiklą vykdančių įmonių, taip pat iš elektros biržos operatoriaus ir kitų asmenų informaciją, kuri reikalinga Tarybai pavestoms elektros energetikos sektoriaus reguliavimo, priežiūros ir kontrolės funkcijoms tinkamai atlikti, įskaitant, bet neapsiribojant, išsamius paaiškinimus dėl ribojamo trečiųjų asmenų dalyvavimo (prieigos) persiunčiant elektros energiją ar atsisakymo suteikti šią prieigą bei informaciją apie priemones, reikalingas elektros tinklams stiprinti. 
 Straipsnio dalies pakeitimai:
 Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -4082,7 +4132,10 @@ Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 
 
-4. Komisija ar kitos institucijos užtikrina informacijos, laikomos komercine (gamybine) ar profesine paslaptimi, konfidencialumą ir gautą konfidencialią informaciją gali naudoti tik tiems tikslams, dėl kurių informacijos buvo prašoma. Konfidenciali informacija gali būti atskleidžiama tik tokiais atvejais, kai tai yra būtina kompetentingoms institucijoms pagal įstatymus tinkamai atlikti savo funkcijas.
+4. Taryba ar kitos institucijos užtikrina informacijos, laikomos komercine (gamybine) ar profesine paslaptimi, konfidencialumą ir gautą konfidencialią informaciją gali naudoti tik tiems tikslams, dėl kurių informacijos buvo prašoma. Konfidenciali informacija gali būti atskleidžiama tik tokiais atvejais, kai tai yra būtina kompetentingoms institucijoms pagal įstatymus tinkamai atlikti savo funkcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -4092,7 +4145,7 @@ Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 
 
-6. Komisija kas 2 metai iki liepos 31 dienos turi Europos Komisijai pateikti elektros energijos rinkos ataskaitą. Ataskaitoje turi būti pateikiama:
+6. Taryba kas 2 metai iki liepos 31 dienos turi Europos Komisijai pateikti elektros energijos rinkos ataskaitą. Ataskaitoje turi būti pateikiama:
 
 
 1) dominavimo ir konkurencijai kenkiančios elgsenos analizė;
@@ -4105,10 +4158,12 @@ Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
 
 
 
-3) praktinių priemonių, skirtų šalies mastu pakankamai rinkos dalyvių įvairovei užtikrinti, konkurencijai ir valstybių elektros energetikos jungtims stiprinti, taikymo apžvalga.
+3) praktinių priemonių, skirtų šalies mastu pakankamai rinkos dalyvių įvairovei užtikrinti, konkurencijai ir valstybių elektros energetikos jungtims stiprinti, taikymo apžvalga. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
 
 
 
@@ -4364,7 +4419,9 @@ Elektros energijos gamintoju gali tapti kiekvienas asmuo, šio įstatymo 16 ir 1
 
 
 
-7. Komisija nereguliuoja elektros biržos operatoriaus veiklos sąlygų, susijusių su kitoje valstybėje narėje reguliuojama veikla. Siekdama šio tikslo, Komisija visapusiškai bendradarbiauja su atitinkamos valstybės narės nacionaline reguliavimo institucija.
+7. Taryba nereguliuoja elektros biržos operatoriaus veiklos sąlygų, susijusių su kitoje valstybėje narėje reguliuojama veikla. Siekdama šio tikslo, Taryba visapusiškai bendradarbiauja su atitinkamos valstybės narės nacionaline reguliavimo institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -4375,20 +4432,22 @@ Elektros energijos gamintoju gali tapti kiekvienas asmuo, šio įstatymo 16 ir 1
 64 straipsnis. Elektros energijos rinkos priežiūra
 
 
-1. Komisija atlieka elektros energijos rinkos priežiūrą ir stebėseną ir skelbia elektros energijos rinkos stebėsenos ataskaitas teisės aktų nustatyta tvarka ir terminais.
+1. Taryba atlieka elektros energijos rinkos priežiūrą ir stebėseną ir skelbia elektros energijos rinkos stebėsenos ataskaitas teisės aktų nustatyta tvarka ir terminais.
 
 
 
 
-2. Elektros energijos rinkos priežiūros tvarkos aprašą tvirtina Komisija.
+2. Elektros energijos rinkos priežiūros tvarkos aprašą tvirtina Taryba.
 
 
 
 
-3. Perdavimo sistemos operatorius ir elektros biržos operatorius pagal savo kompetenciją informuoja Komisiją apie licencijų ir (ar) leidimų turėtojams nustatytų veiklos sąlygų galimus pažeidimus.
+3. Perdavimo sistemos operatorius ir elektros biržos operatorius pagal savo kompetenciją informuoja Tarybą apie licencijų ir (ar) leidimų turėtojams nustatytų veiklos sąlygų galimus pažeidimus. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
 
 
 
@@ -4396,12 +4455,12 @@ Elektros energijos gamintoju gali tapti kiekvienas asmuo, šio įstatymo 16 ir 1
 65 straipsnis. Konkurencijos elektros energetikos sektoriuje priežiūra
 
 
-1. Komisija siekia, kad būtų sudarytos sąlygos veiksmingai konkurencijai elektros energetikos sektoriuje ir jos plėtrai bei sąlygos, užkertančios kelią asmenims piktnaudžiauti savo įtaka rinkoje. Siekdama šio tikslo, Komisija šio įstatymo nustatyta tvarka atlieka elektros energijos gamybos ir nepriklausomo tiekimo rinkos tyrimus, kuriais siekiama užtikrinti veiksmingą konkurenciją elektros energetikos sektoriuje ir didelę įtaką elektros energijos rinkoje turintiems asmenims užkirsti kelią piktnaudžiauti šia įtaka.
+1. Taryba siekia, kad būtų sudarytos sąlygos veiksmingai konkurencijai elektros energetikos sektoriuje ir jos plėtrai bei sąlygos, užkertančios kelią asmenims piktnaudžiauti savo įtaka rinkoje. Siekdama šio tikslo, Taryba šio įstatymo nustatyta tvarka atlieka elektros energijos gamybos ir nepriklausomo tiekimo rinkos tyrimus, kuriais siekiama užtikrinti veiksmingą konkurenciją elektros energetikos sektoriuje ir didelę įtaką elektros energijos rinkoje turintiems asmenims užkirsti kelią piktnaudžiauti šia įtaka.
 
 
 
 
-2. Komisija atlieka rinkos tyrimą:
+2. Taryba atlieka rinkos tyrimą:
 
 
 1) valstybės ar savivaldybių institucijų prašymu;
@@ -4446,45 +4505,47 @@ Elektros energijos gamintoju gali tapti kiekvienas asmuo, šio įstatymo 16 ir 1
 
 
 
-4. Rinkos tyrimas atliekamas Komisijos patvirtintose Elektros energijos rinkos tyrimo taisyklėse nustatyta tvarka ir sąlygomis. Rinkos tyrimą atlieka Komisija. Rinkos tyrimas pradedamas Komisijos sprendimu.
+4. Rinkos tyrimas atliekamas Tarybos patvirtintose Elektros energijos rinkos tyrimo taisyklėse nustatyta tvarka ir sąlygomis. Rinkos tyrimą atlieka Taryba. Rinkos tyrimas pradedamas Tarybos sprendimu.
 
 
 
 
-5. Komisija, tirdama rinką, vadovaujasi Lietuvos Respublikos teisės aktais, Europos Sąjungos teisės aktais ir atsižvelgia į kompetentingų Europos Sąjungos ir (ar) Lietuvos Respublikos institucijų rekomendacijas.
+5. Taryba, tirdama rinką, vadovaujasi Lietuvos Respublikos teisės aktais, Europos Sąjungos teisės aktais ir atsižvelgia į kompetentingų Europos Sąjungos ir (ar) Lietuvos Respublikos institucijų rekomendacijas.
 
 
 
 
-6. Komisija rinkos tyrimo procedūrą atlieka per 4 mėnesius nuo sprendimo pradėti rinkos tyrimą pradžios, neįskaitant konsultacijų dėl rinkos tyrimo, numatytų šio įstatymo 11 straipsnyje, trukmės. Motyvuotu Komisijos sprendimu šis terminas gali būti pratęstas, tačiau ne daugiau kaip 3 kartus, kiekvieną kartą jį pratęsiant ne ilgiau kaip 3 mėnesiams. Komisija siekia, kad rinkos tyrimas būtų atliktas per kuo trumpiausią laiką. Rinkos tyrimas baigiamas Komisijos sprendimu dėl rinkos tyrimo rezultatų. Sprendime išdėstomi visų atliktų rinkos tyrimo etapų rezultatai.
+6. Taryba rinkos tyrimo procedūrą atlieka per 4 mėnesius nuo sprendimo pradėti rinkos tyrimą pradžios, neįskaitant konsultacijų dėl rinkos tyrimo, numatytų šio įstatymo  11 straipsnyje, trukmės. Motyvuotu Tarybos sprendimu šis terminas gali būti pratęstas, tačiau ne daugiau kaip 3 kartus, kiekvieną kartą jį pratęsiant ne ilgiau kaip 3 mėnesiams. Taryba siekia, kad rinkos tyrimas būtų atliktas per kuo trumpiausią laiką. Rinkos tyrimas baigiamas Tarybos sprendimu dėl rinkos tyrimo rezultatų. Sprendime išdėstomi visų atliktų rinkos tyrimo etapų rezultatai.
 
 
 
 
-7. Prieš priimdama sprendimą, kuriuo būtų apibrėžta atitinkama produktų ar paslaugų rinka, ar nustatyti arba nenustatyti asmenys, turintys didelę įtaką atitinkamoje rinkoje, ar nustatyti, nenustatyti ar panaikinti atitinkami šio įstatymo 68 straipsnio 1 dalyje nurodyti įpareigojimai, Komisija privalo atlikti viešąsias konsultacijas pagal šio įstatymo 11 straipsnį.
+7. Prieš priimdama sprendimą, kuriuo būtų apibrėžta atitinkama produktų ar paslaugų rinka, ar nustatyti arba nenustatyti asmenys, turintys didelę įtaką atitinkamoje rinkoje, ar nustatyti, nenustatyti ar panaikinti atitinkami šio įstatymo 68 straipsnio 1 dalyje nurodyti įpareigojimai, Taryba privalo atlikti viešąsias konsultacijas pagal šio įstatymo 11 straipsnį.
 
 
 
 
-8. Komisija, priimdama sprendimą, įvertina viešųjų konsultacijų metu gautas pastabas ir nuomones ir savo interneto svetainėje paskelbia jų suvestinę. Priimtą galutinį sprendimą Komisija pateikia Vyriausybei ar jos įgaliotai institucijai.
+8. Taryba, priimdama sprendimą, įvertina viešųjų konsultacijų metu gautas pastabas ir nuomones ir savo interneto svetainėje paskelbia jų suvestinę. Priimtą galutinį sprendimą Taryba pateikia Vyriausybei ar jos įgaliotai institucijai.
 
 
 
 
-9. Atitinkamų rinkų, kuriose nustatyti didelę įtaką turintys asmenys, sąrašą ir didelę įtaką šiose rinkose turinčių asmenų sąrašą bei jiems nustatytus įpareigojimus, taip pat bet kuriuos šios informacijos pasikeitimus Komisija skelbia savo interneto svetainėje.
+9. Atitinkamų rinkų, kuriose nustatyti didelę įtaką turintys asmenys, sąrašą ir didelę įtaką šiose rinkose turinčių asmenų sąrašą bei jiems nustatytus įpareigojimus, taip pat bet kuriuos šios informacijos pasikeitimus Taryba skelbia savo interneto svetainėje.
 
 
 
 
-10. Atlikdama rinkos tyrimą, taip pat ir spręsdama, ar asmuo turi didelę įtaką rinkoje, ir nustatydama įpareigojimus didelę įtaką rinkoje turintiems asmenims, Komisija atsižvelgia į atitinkamas tarptautinių sutarčių ir (ar) susitarimų nuostatas ir pagal kompetenciją užtikrina šių sutarčių ir (ar) susitarimų laikymąsi bei įgyvendinimą Lietuvos Respublikoje.
+10. Atlikdama rinkos tyrimą, taip pat ir spręsdama, ar asmuo turi didelę įtaką rinkoje, ir nustatydama įpareigojimus didelę įtaką rinkoje turintiems asmenims, Taryba atsižvelgia į atitinkamas tarptautinių sutarčių ir (ar) susitarimų nuostatas ir pagal kompetenciją užtikrina šių sutarčių ir (ar) susitarimų laikymąsi bei įgyvendinimą Lietuvos Respublikoje.
 
 
 
 
-11. Konkurencijos priežiūrą elektros energetikos sektoriuje pagal Lietuvos Respublikos konkurencijos įstatymą atlieka Lietuvos Respublikos konkurencijos taryba (toliau – Konkurencijos taryba).
+11. Konkurencijos priežiūrą elektros energetikos sektoriuje pagal Lietuvos Respublikos konkurencijos įstatymą atlieka Lietuvos Respublikos konkurencijos taryba (toliau – Konkurencijos taryba). 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
 
 
 
@@ -4502,7 +4563,9 @@ Elektros energijos gamintoju gali tapti kiekvienas asmuo, šio įstatymo 16 ir 1
 
 
 
-3. Asmuo laikomas turinčiu didelę įtaką elektros energijos rinkoje, kai, atlikus rinkos tyrimą, tai yra nustatyta Komisijos sprendimu, ir laikomas tokiu tol, kol kito rinkos tyrimo metu Komisijos sprendimu nenustatoma, kad šis asmuo didelės įtakos elektros energijos rinkoje neturi.
+3. Asmuo laikomas turinčiu didelę įtaką elektros energijos rinkoje, kai, atlikus rinkos tyrimą, tai yra nustatyta Tarybos sprendimu, ir laikomas tokiu tol, kol kito rinkos tyrimo metu Tarybos sprendimu nenustatoma, kad šis asmuo didelės įtakos elektros energijos rinkoje neturi. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -4513,33 +4576,27 @@ Elektros energijos gamintoju gali tapti kiekvienas asmuo, šio įstatymo 16 ir 1
 67 straipsnis. Kainų reguliavimas
 
 
-1. Gamintojų ir nepriklausomų tiekėjų parduodamos elektros energijos ir rezervinės galios kainos nereguliuojamos, išskyrus atvejus, kai Komisija, vadovaudamasi Elektros energijos rinkos tyrimo taisyklėmis, ištyrusi rinką nustato, kad toks gamintojas ar nepriklausomas tiekėjas turi didelę įtaką rinkoje ir dėl veiksmingos konkurencijos trūkumo gali taikyti pernelyg dideles kainas arba naudoti kainų spaudimą, tuo darydamas žalą rinkos dalyviams. Komisija, atlikdama rinkos tyrimą, konsultuojasi su Konkurencijos taryba. Gamintojams ar nepriklausomiems tiekėjams, turintiems didelę įtaką rinkoje, Komisija turi teisę nustatyti šio įstatymo 68 straipsnio 1 dalyje nurodytus įpareigojimus.
+1. Gamintojų ir nepriklausomų tiekėjų parduodamos elektros energijos ir rezervinės galios kainos nereguliuojamos, išskyrus atvejus, kai Taryba, vadovaudamasi Elektros energijos rinkos tyrimo taisyklėmis, ištyrusi rinką nustato, kad toks gamintojas ar nepriklausomas tiekėjas turi didelę įtaką rinkoje ir dėl veiksmingos konkurencijos trūkumo gali taikyti pernelyg dideles kainas arba naudoti kainų spaudimą, tuo darydamas žalą rinkos dalyviams. Taryba, atlikdama rinkos tyrimą, konsultuojasi su Konkurencijos taryba. Gamintojams ar nepriklausomiems tiekėjams, turintiems didelę įtaką rinkoje, Taryba turi teisę nustatyti šio įstatymo 68 straipsnio 1 dalyje nurodytus įpareigojimus.
 
 
 
 
-2. Perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomeninės elektros energijos kainos reguliuojamos Komisijai nustatant viršutines kainų ribas. Konkrečias perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomenines elektros energijos kainas ir tarifus nustato ir keičia paslaugos teikėjas.
+2. Perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomeninės elektros energijos kainos reguliuojamos Tarybai nustatant viršutines kainų ribas. Konkrečias perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomenines elektros energijos kainas ir tarifus nustato ir keičia paslaugos teikėjas.
 
 
 
 
-3. Nustatant šio straipsnio 2 dalyje nurodytas viršutines kainų ribas ir įvertinus kiekvienos energijos vartojimo efektyvumą didinančios priemonės kaštus ir naudą, turi būti numatytos būtinos ir pagrįstos tinklų operatorių reguliuojamos veiklos investicijos į energijos vartojimo efektyvumo didinimo priemones, įskaitant išmaniųjų elektros tinklų plėtrą, kurios leistų tinklų operatoriams efektyviau vykdyti reguliuojamą veiklą ir teikti papildomas paslaugas asmenims, įgyvendinantiems energijos vartojimo efektyvumą didinančias priemones. Teikiamos papildomos paslaugos negali turėti neigiamos įtakos sistemos saugumui ir patikimumui. 
-Papildyta straipsnio dalimi:
-Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
- 
+3. Nustatant šio straipsnio 2 dalyje nurodytas viršutines kainų ribas ir įvertinus kiekvienos energijos vartojimo efektyvumą didinančios priemonės kaštus ir naudą, turi būti numatytos būtinos ir pagrįstos tinklų operatorių reguliuojamos veiklos investicijos į energijos vartojimo efektyvumo didinimo priemones, įskaitant išmaniųjų elektros tinklų plėtrą, kurios leistų tinklų operatoriams efektyviau vykdyti reguliuojamą veiklą ir teikti papildomas paslaugas asmenims, įgyvendinantiems energijos vartojimo efektyvumą didinančias priemones. Teikiamos papildomos paslaugos negali turėti neigiamos įtakos sistemos saugumui ir patikimumui.
 
 
 
 
-4. Garantinio elektros energijos tiekimo kaina apskaičiuojama šio įstatymo 44 straipsnio 2 dalies 3 punkte nustatyta tvarka ir sąlygomis.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
- 
+4. Garantinio elektros energijos tiekimo kaina apskaičiuojama šio įstatymo 44 straipsnio  2 dalies 3 punkte nustatyta tvarka ir sąlygomis.
 
 
 
 
-5. Komisija, tvirtindama vartotojų ir gamintojų įrenginių prijungimo prie elektros tinklų įkainių apskaičiavimo metodiką, nustatydama įkainius ir juos diferencijuodama, taip pat derindama operatorių parengtą prijungimo sąlygų ir išankstinių prijungimo sąlygų parengimo įkainių apskaičiavimo metodiką ir elektros energijos persiuntimo ir (ar) tiekimo nutraukimo, apribojimo, atnaujinimo ir elektros apskaitos prietaiso rodmenų nuskaitymo paslaugų įkainių apskaičiavimo metodiką, vadovaujasi šiais bendraisiais kriterijais:
+5. Taryba, tvirtindama vartotojų ir gamintojų įrenginių prijungimo prie elektros tinklų įkainių apskaičiavimo metodiką, nustatydama įkainius ir juos diferencijuodama, taip pat derindama operatorių parengtą prijungimo sąlygų ir išankstinių prijungimo sąlygų parengimo įkainių apskaičiavimo metodiką ir elektros energijos persiuntimo ir (ar) tiekimo nutraukimo, apribojimo, atnaujinimo ir elektros apskaitos prietaiso rodmenų nuskaitymo paslaugų įkainių apskaičiavimo metodiką, vadovaujasi šiais bendraisiais kriterijais:
 
 
 1) tinklų naudotojų nediskriminavimo;
@@ -4590,17 +4647,11 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 10) teisės aktų nustatytų lengvatų ir (ar) skatinimo priemonių, taikomų gamintojų įrenginių prijungimui, įvertinimo.
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
- 
 
 
 
 
 6. Kai vartotojo ar gamintojo elektros įrenginiai prijungiami prie perdavimo tinklų, vartotojas ir (ar) gamintojas apmoka visas sąnaudas, susijusias su įrenginių prijungimu prie elektros perdavimo tinklų.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
- 
 
 
 
@@ -4608,120 +4659,74 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 7. Kai vartotojo ar gamintojo elektros įrenginiai prijungiami prie skirstomųjų tinklų, sąnaudos paskirstomos tokia tvarka:
 
 
-1) buitiniai vartotojai, įskaitant ir pažeidžiamus vartotojus, apmoka 20 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Komisijos patvirtintą įkainį;
+1) buitiniai vartotojai, įskaitant ir pažeidžiamus vartotojus, apmoka 20 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį;
 
 
 
 
-2) vartotojai, kurių pirmą kartą prie skirstomųjų tinklų prijungiamų elektros įrenginių leistinoji naudoti galia yra ne mažesnė kaip 1 MW ar kurie didina leistinąją naudoti galią ne mažiau kaip 1 MW ir kurie su skirstomųjų tinklų operatoriumi yra sudarę sutartį, kuria įsipareigoja 10 metų nuo elektros energijos persiuntimo paslaugos sutarties įsigaliojimo momento nemažinti leistinosios naudoti galios, apmoka 10 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Komisijos patvirtintą įkainį. Šis punktas netaikomas prijungiant gyvenamosios paskirties pastatų elektros įrenginius prie skirstomųjų tinklų;
+2) vartotojai, kurių pirmą kartą prie skirstomųjų tinklų prijungiamų elektros įrenginių leistinoji naudoti galia yra ne mažesnė kaip 1 MW ar kurie didina leistinąją naudoti galią ne mažiau kaip 1 MW ir kurie su skirstomųjų tinklų operatoriumi yra sudarę sutartį, kuria įsipareigoja 10 metų nuo elektros energijos persiuntimo paslaugos sutarties įsigaliojimo momento nemažinti leistinosios naudoti galios, apmoka 10 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį. Šis punktas netaikomas prijungiant gyvenamosios paskirties pastatų elektros įrenginius prie skirstomųjų tinklų;
 
 
 
 
 3) vartotojai, kurių prijungiamų elektros įrenginių leistinoji naudoti galia ar didinama elektros įrenginių leistinoji naudoti galia yra didesnė kaip 250 kW ir kurių elektros įrenginiams prijungti prie elektros tinklų reikia įrengti transformatorių pastotes, transformatorines, skirstomuosius punktus, ir kurie pageidauja Energetikos ministerijos nustatyta tvarka, suderinę su skirstomųjų tinklų operatoriumi, įrengti šiuos elektros tinklus ir organizuoti jų įrengimo darbus, apmoka 100 procentų šių skirstomųjų tinklų įrengimo sąnaudų. Atlikti skirstomųjų tinklų įrengimo darbai laikomi vartotojų elektros įrenginių prijungimo prie skirstomųjų tinklų paslaugos dalimi ir šie vartotojų lėšomis vartotojų įrengti skirstomieji tinklai yra skirstomųjų tinklų operatoriaus nuosavybė. Prie šių skirstomųjų tinklų prijungiant kitų vartotojų įrenginius, už jų įrengimą ir (ar) naudojimą šių skirstomųjų tinklų įrengimą atlikusiems vartotojams neatlyginama;
-TAR pastaba. 67 straipsnio 7 dalies 3 punkto nuostatos įsigalioja 2019 m. sausio 1 d.
 
 
 
 
-4) kiti vartotojai, išskyrus šios dalies 1, 2 ir 3 punktuose nurodytus vartotojus, apmoka 40 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Komisijos patvirtintą įkainį;
+4) kiti vartotojai, išskyrus šios dalies 1, 2 ir 3 punktuose nurodytus vartotojus, apmoka 40 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį;
 
 
 
 
-5) gamintojai apmoka 100 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Komisijos patvirtintą įkainį, išskyrus atvejus, kai kituose įstatymuose nustatyta kitaip;
+5) gamintojai apmoka 100 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį, išskyrus atvejus, kai kituose įstatymuose nustatyta kitaip;
 
 
 
 
-6) likusios sąnaudos, kurių neapmoka vartotojas ar gamintojas, yra pripažįstamos skirstomųjų tinklų operatoriaus tinklų plėtros išlaidomis. Skirstomųjų tinklų operatoriaus sąnaudų apskaita tvarkoma ir kontrolė vykdoma šio įstatymo 68 straipsnyje nustatyta tvarka. 
+6) likusios sąnaudos, kurių neapmoka vartotojas ar gamintojas, yra pripažįstamos skirstomųjų tinklų operatoriaus tinklų plėtros išlaidomis. Skirstomųjų tinklų operatoriaus sąnaudų apskaita tvarkoma ir kontrolė vykdoma šio įstatymo 68 straipsnyje nustatyta tvarka.
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+
+
+
+
+8. Vartotojai, kurių prijungiamų elektros įrenginių leistinoji naudoti galia ar didinama elektros įrenginių leistinoji naudoti galia yra ne mažesnė kaip 10 MW ir kurių elektros įrenginiams prijungti prie elektros tinklo reikia pastatyti naujus elektros perdavimo tinklus, ir kurie pageidauja Energetikos ministerijos nustatyta tvarka, suderinę su perdavimo sistemos operatoriumi, pastatyti šiuos elektros tinklus ir organizuoti jų statybos darbus, apmoka 100 procentų perdavimo tinklų statybos sąnaudų. Atlikti perdavimo tinklo statybos darbai laikomi vartotojo elektros įrenginių prijungimo prie perdavimo tinklo paslaugos dalimi ir šie vartotojų lėšomis vartotojų pastatyti perdavimo tinklai yra perdavimo sistemos operatoriaus nuosavybė. Prie šių perdavimo tinklų prijungiant kitų vartotojų įrenginius, už jų statybą ir (ar) naudojimą šiuos perdavimo tinklus pastačiusiems vartotojams neatlyginama.
+
+
+
+
+9. Skirstomųjų tinklų operatoriaus sąnaudos, nurodytos šio straipsnio 7 dalyje, apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo ar gamintojo elektros įrenginių prijungimu prie skirstomųjų tinklų. Tokias perdavimo sistemos operatoriaus sąnaudas vartotojas ir gamintojas, taikant šio straipsnio 7 dalyje nustatytą sąnaudų paskirstymo tvarką, apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriui 100 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gamintojo elektros įrenginius, arba 10 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo, nurodyto šio straipsnio 7 dalies 2 punkte, elektros įrenginius, arba 40 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo, nurodyto šio straipsnio 7 dalies 4 punkte, elektros įrenginius. Likusi nepadengta perdavimo sistemos operatoriaus sąnaudų dalis laikoma perdavimo sistemos operatoriaus tinklų plėtros išlaidomis.
+
+
+
+
+10. Tuo atveju, kai buitinis vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant šio straipsnio 7 dalies 1 punkte nurodytą sąnaudų paskirstymo tvarką, ne vėliau kaip per 12 mėnesių nuo elektros įrenginių prijungimo momento pradeda vartoti šiais įrenginiais patiektą elektros energiją savo ar kitų asmenų ūkinės komercinės ar profesinės veiklos reikmėms tenkinti, toks vartotojas nėra laikomas buitiniu vartotoju ir, gavęs atitinkamą skirstomųjų tinklų operatoriaus reikalavimą, privalo apmokėti likusią sąnaudų dalį, apskaičiuojamą šio straipsnio 7 dalies 4 punkte nustatyta tvarka.
+
+
+
+
+11. Tuo atveju, kai vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant šio straipsnio 7 dalies 2 punkte nurodytą sąnaudų paskirstymo tvarką, sumažina leistinąją naudoti galią nepraėjus 10 metų nuo elektros energijos persiuntimo paslaugos sutarties, vartotojas privalo apmokėti visas patirtas skirstomųjų tinklų operatoriaus sąnaudas, susijusias su vartotojo elektros įrenginių prijungimu prie skirstomųjų tinklų, proporcingai sumažintai leistinajai naudoti galiai. Jeigu skirstomųjų tinklų operatoriaus sąnaudos apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo elektros įrenginių prijungimu prie skirstomųjų tinklų, perdavimo sistemos operatoriaus patirtas sąnaudas, proporcingai sumažintai leistinajai naudoti galiai, vartotojas apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriaus patirtas sąnaudas proporcingai vartotojo sumažintai leistinajai naudoti galiai.
+
+
+
+
+12. Taryba, vadovaudamasi jos patvirtinta metodika, nustato naudojimosi jungiamosiomis linijomis paslaugų kainą, kuri nustatoma ir pradedama taikyti atsižvelgus į motyvuotą Energetikos ministerijos pranešimą. Nustatant naudojimosi jungiamosiomis linijomis paslaugų kainą nėra vertinamos sąnaudos, kompensuojamos vadovaujantis 2010 m. rugsėjo 23 d. Europos Komisijos reglamento (ES) Nr. 838/2010 dėl perdavimo sistemos operatorių tarpusavio kompensavimo mechanizmo ir bendro perdavimo mokesčių reguliavimo metodo taikymo gairių nustatymo (OL 2010 L 250, p. 5) nuostatomis. Naudojimosi jungiamosiomis linijomis paslaugų kainos įsigalioja praėjus 2 mėnesiams nuo jų paskelbimo. Tinklų naudotojai ir (ar) rinkos dalyviai, atsižvelgdami į tai, kas sukelia papildomas sąnaudas, už naudojimosi jungiamosiomis linijomis paslaugas atskirai moka tik tuo atveju, kai šių paslaugų sąnaudos teisės aktuose nustatyta tvarka nėra įtrauktos į elektros energijos perdavimo paslaugos kainą ar į Tarybos nustatomą įėjimo į Lietuvos Respublikos elektros energijos rinką įmoką.
+
+
+
+
+13. Taryba, vadovaudamasi Atsinaujinančių išteklių energetikos įstatymo 201 straipsnio nuostatomis, tvirtina Elektros energiją gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainos skaičiavimo metodiką ir nustato gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainą.
+
+
+
+
+14. Viešuosius interesus atitinkančių paslaugų kainą ir ją sudarančių atskirų sudedamųjų dalių kainas pagal šiame įstatyme nustatytą galutinį viešuosius interesus atitinkančių paslaugų sąrašą nustato Taryba. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
-
-
-71. Vartotojai, kurių prijungiamų elektros įrenginių leistinoji naudoti galia ar didinama elektros įrenginių leistinoji naudoti galia yra ne mažesnė kaip 10 MW ir kurių elektros įrenginiams prijungti prie elektros tinklo reikia pastatyti naujus elektros perdavimo tinklus, ir kurie pageidauja Energetikos ministerijos nustatyta tvarka, suderinę su perdavimo sistemos operatoriumi, pastatyti šiuos elektros tinklus ir organizuoti jų statybos darbus, apmoka 100 procentų perdavimo tinklų statybos sąnaudų. Atlikti perdavimo tinklo statybos darbai laikomi vartotojo elektros įrenginių prijungimo prie perdavimo tinklo paslaugos dalimi ir šie vartotojų lėšomis vartotojų pastatyti perdavimo tinklai yra perdavimo sistemos operatoriaus nuosavybė. Prie šių perdavimo tinklų prijungiant kitų vartotojų įrenginius, už jų statybą ir (ar) naudojimą šiuos perdavimo tinklus pastačiusiems vartotojams neatlyginama. 
-Papildyta straipsnio dalimi:
-Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
- 
-
-
-
-
-8. Neteko galios 2019-05-01.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
- 
-
-
-
-
-9. Skirstomųjų tinklų operatoriaus sąnaudos, nurodytos šio straipsnio 7 ir 8 dalyse, apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo ar gamintojo elektros įrenginių prijungimu prie skirstomųjų tinklų. Tokias perdavimo sistemos operatoriaus sąnaudas vartotojas ir gamintojas, taikant šio straipsnio 7 dalyje nustatytą sąnaudų paskirstymo tvarką, apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriui 100 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gamintojo elektros įrenginius, arba 10 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo, nurodyto šio straipsnio 7 dalies 2 punkte, elektros įrenginius, arba 40 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo, nurodyto šio straipsnio 7 dalies 4 punkte, elektros įrenginius. Likusi nepadengta perdavimo sistemos operatoriaus sąnaudų dalis laikoma perdavimo sistemos operatoriaus tinklų plėtros išlaidomis. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
-Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
-Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
- 
-
-
-
-
-10. Tuo atveju, kai buitinis vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant šio straipsnio 7 dalies 1 punkte nurodytą sąnaudų paskirstymo tvarką, ne vėliau kaip per 12 mėnesių nuo elektros įrenginių prijungimo momento pradeda vartoti šiais įrenginiais patiektą elektros energiją savo ar kitų asmenų ūkinės komercinės ar profesinės veiklos reikmėms tenkinti, toks vartotojas nėra laikomas buitiniu vartotoju ir, gavęs atitinkamą skirstomųjų tinklų operatoriaus reikalavimą, privalo apmokėti likusią sąnaudų dalį, apskaičiuojamą šio straipsnio 7 dalies 4 punkte nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
-Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
-Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
- 
-
-
-
-
-11. Tuo atveju, kai vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant šio straipsnio 7 dalies 2 punkte nurodytą sąnaudų paskirstymo tvarką, sumažina leistinąją naudoti galią nepraėjus 10 metų nuo elektros energijos persiuntimo paslaugos sutarties, vartotojas privalo apmokėti visas patirtas skirstomųjų tinklų operatoriaus sąnaudas, susijusias su vartotojo elektros įrenginių prijungimu prie skirstomųjų tinklų, proporcingai sumažintai leistinajai naudoti galiai. Jeigu skirstomųjų tinklų operatoriaus sąnaudos apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo elektros įrenginių prijungimu prie skirstomųjų tinklų, perdavimo sistemos operatoriaus patirtas sąnaudas, proporcingai sumažintai leistinajai naudoti galiai, vartotojas apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriaus patirtas sąnaudas proporcingai vartotojo sumažintai leistinajai naudoti galiai. 
-Papildyta straipsnio dalimi:
-Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
-Straipsnio dalies pakeitimai:
-Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
- 
-
-
-
-
-12. Komisija, vadovaudamasi jos patvirtinta metodika, nustato naudojimosi jungiamosiomis linijomis paslaugų kainą, kuri nustatoma ir pradedama taikyti atsižvelgus į motyvuotą Energetikos ministerijos pranešimą. Nustatant naudojimosi jungiamosiomis linijomis paslaugų kainą nėra vertinamos sąnaudos, kompensuojamos vadovaujantis 2010 m. rugsėjo 23 d. Europos Komisijos reglamento (ES) Nr. 838/2010 dėl perdavimo sistemos operatorių tarpusavio kompensavimo mechanizmo ir bendro perdavimo mokesčių reguliavimo metodo taikymo gairių nustatymo (OL 2010 L 250, p. 5) nuostatomis. Naudojimosi jungiamosiomis linijomis paslaugų kainos įsigalioja praėjus 2 mėnesiams nuo jų paskelbimo. Tinklų naudotojai ir (ar) rinkos dalyviai, atsižvelgdami į tai, kas sukelia papildomas sąnaudas, už naudojimosi jungiamosiomis linijomis paslaugas atskirai moka tik tuo atveju, kai šių paslaugų sąnaudos teisės aktuose nustatyta tvarka nėra įtrauktos į elektros energijos perdavimo paslaugos kainą ar į Komisijos nustatomą įėjimo į Lietuvos Respublikos elektros energijos rinką įmoką. 
-Papildyta straipsnio dalimi:
-Nr. XII-774, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03219
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
-Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
- 
-
-
-
-
-13. Komisija, vadovaudamasi Atsinaujinančių išteklių energetikos įstatymo 201 straipsnio nuostatomis, tvirtina Elektros energiją gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainos skaičiavimo metodiką ir nustato gaminančių vartotojų naudojimosi elektros tinklais paslaugų kainą. 
-Papildyta straipsnio dalimi:
-Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
-Straipsnio dalies pakeitimai:
-Nr. XIII-1079, 2018-04-12, paskelbta TAR 2018-04-24, i. k. 2018-06509
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
-Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
- 
-
-
-
-
-14. Viešuosius interesus atitinkančių paslaugų kainą ir ją sudarančių atskirų sudedamųjų dalių kainas pagal šiame įstatyme nustatytą galutinį viešuosius interesus atitinkančių paslaugų sąrašą nustato Komisija.
-Papildyta straipsnio dalimi:
-Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
- 
-
-
 
 
 
@@ -4729,7 +4734,7 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 68 straipsnis. Sąnaudų apskaita ir kontrolė
 
 
-1. Komisija asmeniui, turinčiam didelę įtaką elektros energijos rinkoje, taip pat elektros energijos perdavimo, skirstymo paslaugų teikėjams ir (ar) visuomeniniam tiekėjui:
+1. Taryba asmeniui, turinčiam didelę įtaką elektros energijos rinkoje, taip pat elektros energijos perdavimo, skirstymo paslaugų teikėjams ir (ar) visuomeniniam tiekėjui:
 
 
 1) nustato įpareigojimus teikti paslaugas sąnaudomis pagrįstomis kainomis, atsižvelgiant į protingumo kriterijų atitinkančią investicijų grąžą;
@@ -4742,96 +4747,79 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-3) įpareigoja pakeisti taikomas paslaugų kainas arba nustato viršutinę reguliuojamų paslaugų kainų ir (ar) pajamų ribą. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+3) įpareigoja pakeisti taikomas paslaugų kainas arba nustato viršutinę reguliuojamų paslaugų kainų ir (ar) pajamų ribą.
+
+
+
+
+
+
+2. Taryba, nustatydama įpareigojimus, tinkamai atsižvelgia į asmens, turinčio didelę įtaką elektros energijos rinkoje, taip pat perdavimo, skirstymo paslaugų teikėjo ir (ar) visuomeninio tiekėjo teisę gauti protingumo kriterijų atitinkančią investicijų grąžą. Tarybos nustatomi įpareigojimai turi būti aiškiai apibrėžti, skaidrūs, nediskriminaciniai, patikrinami ir turi užtikrinti vienodas galimybes teikti paslaugas vartotojams.
+
+
+
+
+3. Taryba, apskaičiuodama šio straipsnio 2 dalyje nurodytą protingumo kriterijų atitinkančią investicijų grąžą, atsižvelgia į Lietuvos banko nefinansinėms korporacijoms suteiktų paskolų metinę palūkanų normą, Vyriausybės vertybinių popierių aukcionų metinę palūkanų normą, valstybės kreditingumo riziką, asmens, kurio atžvilgiu apskaičiuojama protingumo kriterijų atitinkanti investicijų grąža, kapitalo struktūrą ir kitus ekonominius veiksnius, darančius tiesioginę įtaką protingumo kriterijų atitinkančios investicijų grąžos apskaičiavimui.
+
+
+
+
+4. Asmuo, turintis didelę įtaką elektros energijos rinkoje, kuriam yra nustatytas šio straipsnio 1 dalies 1 punkte numatytas įpareigojimas, šiame įstatyme, kituose teisės aktuose nustatyta tvarka ir vadovaudamasis gera verslo praktika užtikrina vykdomos veiklos elektros energetikos sektoriuje efektyvumą ir sąnaudų pagrįstumą. Tuo atveju, kai, nepažeidžiant reikalavimų, keliamų veiklos elektros energetikos sektoriuje saugumui ir patikimumui, pagerinami veiklos efektyvumo rodikliai, palyginti su šiame įstatyme numatyta tvarka Tarybos nustatytais įpareigojimais, tokią veiklą vykdantis asmuo turi teisę į didesnę investicijų grąžą per atitinkamą reguliavimo periodą. Elektros energetikos įmonės pelno paskirstymo teisinius pagrindus nustato atitinkamą asmens teisinę formą reglamentuojantis įstatymas.
+
+
+
+
+5. Nustatydama šio straipsnio 1 dalies 1 punkte numatytą įpareigojimą, Taryba turi teisę nustatyti sąnaudų padengimo mechanizmą ir (ar) kainų nustatymo metodiką, skatinančią, efektyvumą ir, kiek įmanoma, ilgalaikę konkurenciją elektros energijos gamybos ir nepriklausomo tiekimo rinkose, strateginių valstybės elektros energetikos sektoriaus projektų, didinančių valstybės energetinę nepriklausomybę ir elektros energijos tiekimo saugumą bei patikimumą, įgyvendinimą, taip pat padidinančią naudą vartotojams. Siekdama šio tikslo, Taryba turi teisę atsižvelgti į atitinkamų paslaugų teikėjų sąnaudas ir kainas, siūlomas palyginamose rinkose.
+
+
+
+
+6. Taryba reikalauja, kad asmuo, turintis didelę įtaką elektros energijos rinkoje, taip pat perdavimo, skirstymo paslaugų teikėjas ir (ar) visuomeninis tiekėjas įrodytų nustatytų kainų pagrįstumą sąnaudomis. Taryba turi teisę nustatyti privalomą protingumo kriterijų atitinkantį terminą įrodymams pateikti. Jeigu asmuo, turintis didelę įtaką elektros energijos rinkoje, taip pat perdavimo, skirstymo paslaugų teikėjas ir (ar) visuomeninis tiekėjas per šį terminą kainų pagrįstumo sąnaudomis neįrodo, laikoma, kad asmens nustatytos kainos yra nepagrįstos sąnaudomis.
+
+
+
+
+7. Kol asmuo, turintis didelę įtaką elektros energijos rinkoje, įrodys kainų pagrįstumą sąnaudomis, Taryba turi teisę nustatyti laikinas viršutines kainų ribas, atsižvelgdama į netiesioginiais sąnaudų vertinimo metodais gautus duomenis apie atitinkamas sąnaudas. Nustatydama laikinas viršutines kainų ribas, Taryba lygina atitinkamų paslaugų kainas, atsižvelgdama į valstybių narių praktiką, panašaus išsivystymo valstybių praktiką, Lietuvos Respublikos praktiką, taip pat vertindama atitinkamų didmeninių ir mažmeninių kainų santykį.
+
+
+
+
+8. Perdavimo, skirstymo ir visuomeninio tiekimo paslaugų viršutinės kainų ribos nustatomos šio įstatymo 69 straipsnyje nustatyta tvarka ir sąlygomis. Taryba turi teisę nustatyti laikinas perdavimo, skirstymo ir visuomeninio tiekimo paslaugų viršutines kainų ribas, kaip nurodyta šio įstatymo 69 straipsnio 8 dalyje, atsižvelgdama į šio straipsnio 5 dalyje nustatytus kriterijus.
+
+
+
+
+9. Nustatydama šio straipsnio 1 dalies 2 punkte numatytą įpareigojimą, Taryba turi teisę nustatyti sąnaudų apskaitos taisykles ir su sąnaudų apskaita susijusius reikalavimus, siekdama, kad būtų skaičiuojamos efektyvaus paslaugų teikimo sąnaudos.
+
+
+
+
+10. Jeigu Taryba, siekdama užtikrinti kainų kontrolę, asmeniui, turinčiam didelę įtaką elektros energijos rinkoje, taip pat perdavimo, skirstymo paslaugų teikėjui ir (ar) visuomeniniam tiekėjui nustato šio straipsnio 1 dalies 2 punkte numatytą įpareigojimą, toks asmuo privalo Tarybos nustatytomis sąlygomis, tvarka ir terminais parengti sąnaudų apskaitos sistemą, jos aprašymą pateikti Tarybai ir laikytis šios sąnaudų apskaitos sistemos reikalavimų. Sąnaudų apskaitos sistema ir jos skelbimo būdas turi atitikti Tarybos nustatytas sąnaudų apskaitos taisykles.
+
+
+
+
+11. Taryba turi teisę nustatyti sąnaudų apskaitos sistemą, metodą ir (ar) modelį, privalomą asmeniui, turinčiam didelę įtaką elektros energijos rinkoje, taip pat perdavimo, skirstymo paslaugų teikėjui ir (ar) visuomeniniam tiekėjui. Tokią apskaitos sistemą, metodą ir (ar) modelį Taryba privalo paskelbti savo interneto svetainėje.
+
+
+
+
+12. Elektros energetikos įmonės, kurių teikiamų paslaugų kainos yra valstybės reguliuojamos ir (ar) kurioms šio įstatymo 67 straipsnio 1 dalies pagrindu nustatyti Tarybos įpareigojimai, susiję su reguliavimo apskaitos sistema, privalo rengti reguliuojamosios veiklos ataskaitas, užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra vadovaujantis Energetikos įstatymo 161 straipsnio nuostatomis.
+
+
+
+
+13. Nustatydama šio straipsnio 1 dalies 3 punkte numatytą įpareigojimą, Taryba turi teisę nustatyti viršutinių reguliuojamų paslaugų kainų ir (ar) pajamų ribos nustatymo metodiką, atsižvelgdama į šio straipsnio 5 dalyje nustatytus kriterijus.
+
+
+
+
+14. Viršutinių reguliuojamų paslaugų kainų ir (ar) pajamų ribos reguliavimas taikomas laikotarpiui, kuriam asmuo pripažintas turinčiu didelę įtaką elektros energijos rinkoje. Konkrečią viršutinių reguliuojamų paslaugų kainų ir (ar) pajamų ribą Taryba nustato kiekvienais kalendoriniais metais. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
-
-
-
-
-2. Komisija, nustatydama įpareigojimus, tinkamai atsižvelgia į asmens, turinčio didelę įtaką elektros energijos rinkoje, taip pat perdavimo, skirstymo paslaugų teikėjo ir (ar) visuomeninio tiekėjo teisę gauti protingumo kriterijų atitinkančią investicijų grąžą. Komisijos nustatomi įpareigojimai turi būti aiškiai apibrėžti, skaidrūs, nediskriminuojantys, patikrinami ir turi užtikrinti vienodas galimybes teikti paslaugas vartotojams.
-
-
-
-
-3. Komisija, apskaičiuodama šio straipsnio 2 dalyje nurodytą protingumo kriterijų atitinkančią investicijų grąžą, atsižvelgia į Lietuvos banko nefinansinėms korporacijoms suteiktų paskolų metinę palūkanų normą, Vyriausybės vertybinių popierių aukcionų metinę palūkanų normą, valstybės kreditingumo riziką, asmens, kurio atžvilgiu apskaičiuojama protingumo kriterijų atitinkanti investicijų grąža, kapitalo struktūrą ir kitus ekonominius veiksnius, darančius tiesioginę įtaką protingumo kriterijų atitinkančios investicijų grąžos apskaičiavimui.
-
-
-
-
-4. Asmuo, turintis didelę įtaką elektros energijos rinkoje, kuriam yra nustatytas šio straipsnio 1 dalies 1 punkte numatytas įpareigojimas, šiame įstatyme, kituose teisės aktuose nustatyta tvarka ir vadovaudamasis gera verslo praktika užtikrina vykdomos veiklos elektros energetikos sektoriuje efektyvumą ir sąnaudų pagrįstumą. Tuo atveju, kai, nepažeidžiant teisės aktų nustatytų reikalavimų, keliamų veiklos elektros energetikos sektoriuje saugumui ir patikimumui, pagerinami veiklos efektyvumo rodikliai, palyginti su šiame įstatyme numatyta tvarka Komisijos nustatytais įpareigojimais, tokią veiklą vykdantis asmuo turi teisę į didesnę investicijų grąžą per atitinkamą reguliavimo periodą. Elektros energetikos įmonės pelno paskirstymo teisinius pagrindus nustato atitinkamą asmens teisinę formą reglamentuojantis įstatymas.
-
-
-
-
-5. Nustatydama šio straipsnio 1 dalies 1 punkte numatytą įpareigojimą, Komisija turi teisę nustatyti sąnaudų padengimo mechanizmą ir (ar) kainų nustatymo metodiką, skatinančią, efektyvumą ir, kiek įmanoma, ilgalaikę konkurenciją elektros energijos gamybos ir nepriklausomo tiekimo rinkose, strateginių valstybės elektros energetikos sektoriaus projektų, didinančių valstybės energetinę nepriklausomybę ir elektros energijos tiekimo saugumą bei patikimumą, įgyvendinimą, taip pat padidinančią naudą vartotojams. Siekdama šio tikslo, Komisija turi teisę atsižvelgti į atitinkamų paslaugų teikėjų sąnaudas ir kainas, siūlomas palyginamose rinkose.
-
-
-
-
-6. Komisija reikalauja, kad asmuo, turintis didelę įtaką elektros energijos rinkoje, taip pat perdavimo, skirstymo paslaugų teikėjas ir (ar) visuomeninis tiekėjas įrodytų nustatytų kainų pagrįstumą sąnaudomis. Komisija turi teisę nustatyti privalomą protingumo kriterijų atitinkantį terminą įrodymams pateikti. Jeigu asmuo, turintis didelę įtaką elektros energijos rinkoje, taip pat perdavimo, skirstymo paslaugų teikėjas ir (ar) visuomeninis tiekėjas per šį terminą kainų pagrįstumo sąnaudomis neįrodo, laikoma, kad asmens nustatytos kainos yra nepagrįstos sąnaudomis.
-
-
-
-
-7. Kol asmuo, turintis didelę įtaką elektros energijos rinkoje, įrodys kainų pagrįstumą sąnaudomis, Komisija turi teisę nustatyti laikinas viršutines kainų ribas, atsižvelgdama į netiesioginiais sąnaudų vertinimo metodais gautus duomenis apie atitinkamas sąnaudas. Nustatydama laikinas viršutines kainų ribas, Komisija lygina atitinkamų paslaugų kainas, atsižvelgdama į valstybių narių praktiką, panašaus išsivystymo valstybių praktiką, Lietuvos Respublikos praktiką, taip pat vertindama atitinkamų didmeninių ir mažmeninių kainų santykį.
-
-
-
-
-8. Perdavimo, skirstymo ir visuomeninio tiekimo paslaugų viršutinės kainų ribos nustatomos šio įstatymo 69 straipsnyje nustatyta tvarka ir sąlygomis. Komisija turi teisę nustatyti laikinas perdavimo, skirstymo ir visuomeninio tiekimo paslaugų viršutines kainų ribas, kaip nurodyta 69 straipsnio 8 dalyje, atsižvelgdama į šio straipsnio 5 dalyje nustatytus kriterijus.
-
-
-
-
-9. Nustatydama šio straipsnio 1 dalies 2 punkte numatytą įpareigojimą, Komisija turi teisę nustatyti sąnaudų apskaitos taisykles ir su sąnaudų apskaita susijusius reikalavimus, siekdama, kad būtų skaičiuojamos efektyvaus paslaugų teikimo sąnaudos.
-
-
-
-
-10. Jeigu Komisija, siekdama užtikrinti kainų kontrolę, asmeniui, turinčiam didelę įtaką elektros energijos rinkoje, taip pat perdavimo, skirstymo paslaugų teikėjui ir (ar) visuomeniniam tiekėjui nustato šio straipsnio 1 dalies 2 punkte numatytą įpareigojimą, toks asmuo privalo Komisijos nustatytomis sąlygomis, tvarka ir terminais parengti sąnaudų apskaitos sistemą, jos aprašymą pateikti Komisijai ir laikytis šios sąnaudų apskaitos sistemos reikalavimų. Sąnaudų apskaitos sistema ir jos skelbimo būdas turi atitikti Komisijos nustatytas sąnaudų apskaitos taisykles.
-
-
-
-
-11. Komisija turi teisę nustatyti sąnaudų apskaitos sistemą, metodą ir (ar) modelį, privalomą asmeniui, turinčiam didelę įtaką elektros energijos rinkoje, taip pat perdavimo, skirstymo paslaugų teikėjui ir (ar) visuomeniniam tiekėjui. Tokią apskaitos sistemą, metodą ir (ar) modelį Komisija privalo paskelbti savo interneto svetainėje.
-
-
-
-
-12. Elektros energetikos įmonės, kurių  teikiamų paslaugų kainos yra valstybės reguliuojamos ir (ar) kurioms šio įstatymo 67 straipsnio 1 dalies pagrindu nustatyti Komisijos įpareigojimai, susiję su reguliavimo apskaitos sistema,  privalo rengti reguliuojamosios veiklos ataskaitas, užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra vadovaujantis Energetikos įstatymo 161 straipsnio nuostatomis. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
- 
-
-
-
-
-13. Neteko galios 2019-05-01.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
- 
-
-
-
-
-14. Nustatydama šio straipsnio 1 dalies 3 punkte numatytą įpareigojimą, Komisija turi teisę nustatyti viršutinių reguliuojamų paslaugų kainų ir (ar) pajamų ribos nustatymo metodiką, atsižvelgdama į šio straipsnio 5 dalyje nustatytus kriterijus. 
-Papildyta straipsnio dalimi:
-Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
- 
-
-
-
-
-15. Viršutinių reguliuojamų paslaugų kainų ir (ar) pajamų ribos reguliavimas taikomas laikotarpiui, kuriam asmuo pripažintas turinčiu didelę įtaką elektros energijos rinkoje. Konkrečią viršutinių reguliuojamų paslaugų kainų ir (ar) pajamų ribą Komisija nustato kiekvienais kalendoriniais metais. 
-Papildyta straipsnio dalimi:
-Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
- 
-
-
 
 
 
@@ -4839,12 +4827,18 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 69 straipsnis. Perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų reguliavimas
 
 
-1. Viršutines perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų ribas nustato Komisija, vadovaudamasi Energetikos įstatymu, šiuo įstatymu ir viršutinių kainų ribų nustatymo metodikomis. Komisija, nustatydama perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų viršutines ribas, atsižvelgia į šių paslaugų teikimo sąnaudas.
+1. Viršutines perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų ribas nustato Taryba, vadovaudamasi Energetikos įstatymu, šiuo įstatymu ir viršutinių kainų ribų nustatymo metodikomis. Taryba, nustatydama perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų viršutines ribas, atsižvelgia į šių paslaugų teikimo sąnaudas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
 
-2. Viršutinės perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų ribos nustatomos 5 metų reguliavimo laikotarpiui. Šis laikotarpis gali būti keičiamas motyvuotu Komisijos sprendimu. Apie tokį sprendimą Komisija privalo informuoti Vyriausybę ar jos įgaliotą instituciją. Atitinkamas Komisijos sprendimas dėl reguliavimo laikotarpio pakeitimo pradedamas taikyti ne anksčiau, kaip pasibaigus ankstesniajam reguliavimo laikotarpiui.
+2. Viršutinės perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų ribos nustatomos 5 metų reguliavimo laikotarpiui. Šis laikotarpis gali būti keičiamas motyvuotu Tarybos sprendimu. Apie tokį sprendimą Taryba privalo informuoti Vyriausybę ar jos įgaliotą instituciją. Atitinkamas Tarybos sprendimas dėl reguliavimo laikotarpio pakeitimo pradedamas taikyti ne anksčiau, kaip pasibaigus ankstesniajam reguliavimo laikotarpiui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -4854,9 +4848,10 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-4. Nustatydama viršutines perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Komisija užtikrina, kad perdavimo sistemos ir skirstomųjų tinklų operatoriams būtų suteiktos tinkamos paskatos trumpalaikiu ir ilgalaikiu laikotarpiu didinti, sudarant sąlygas diegti išmaniuosius elektros tinklus ir užtikrinti sistemos saugumą, elektros energijos vartojimo efektyvumą, teikiant tinklo naudotojams sistemines paslaugas, plėtoti elektros energijos paklausos valdymo ir reagavimo į paklausą paslaugas, taip pat skatinti elektros energijos rinkos integraciją ir tiekimo saugumą bei remti susijusius mokslinius tyrimus. Siekiant elektros energijos vartojimo efektyvumo didinimo, nustatydama viršutines perdavimo ir skirstymo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Komisija įvertina perdavimo sistemos ir skirstomųjų tinklų operatorių veiklos sąnaudų sumažėjimą dėl paklausos, reagavimo į paklausą priemonių diegimo, gamybos pajėgumų plėtros, įskaitant sutaupymą dėl elektros energijos perdavimo ar skirstymo paslaugų teikimo ar investicijų į tinklus sąnaudų sumažėjimo bei optimalaus tinklo eksploatavimo. 
+4. Nustatydama viršutines perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Taryba užtikrina, kad perdavimo sistemos ir skirstomųjų tinklų operatoriams būtų suteiktos tinkamos paskatos trumpalaikiu ir ilgalaikiu laikotarpiu didinti, sudarant sąlygas diegti išmaniuosius elektros tinklus ir užtikrinti sistemos saugumą, elektros energijos vartojimo efektyvumą, teikiant tinklo naudotojams sistemines paslaugas, plėtoti elektros energijos paklausos valdymo ir reagavimo į paklausą paslaugas, taip pat skatinti elektros energijos rinkos integraciją ir tiekimo saugumą bei remti susijusius mokslinius tyrimus. Siekiant elektros energijos vartojimo efektyvumo didinimo, nustatydama viršutines perdavimo ir skirstymo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Taryba įvertina perdavimo sistemos ir skirstomųjų tinklų operatorių veiklos sąnaudų sumažėjimą dėl paklausos, reagavimo į paklausą priemonių diegimo, gamybos pajėgumų plėtros, įskaitant sutaupymą dėl elektros energijos perdavimo ar skirstymo paslaugų teikimo ar investicijų į tinklus sąnaudų sumažėjimo bei optimalaus tinklo eksploatavimo. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -4908,25 +4903,28 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-7. Komisijai nustačius viršutines kainų ribas, paslaugų teikėjai turi teisę diferencijuoti paslaugos kainas pagal objektyvius požymius. Paslaugų teikėjai, diferencijuodami kainas, privalo laikytis nediskriminavimo principo ir tinkamai atsižvelgti į energijos vartojimo efektyvumo didinimo principą. Perdavimo paslaugos kaina gali būti diferencijuojama į dedamąsias elektros energijos vartotojams, gamintojams ir importuotojams, importuojantiems elektros energiją iš valstybių, kurios nėra valstybės narės. Perdavimo paslaugos kaina, persiuntimo paslaugos kaina, skirstymo paslaugos kaina visais atvejais, išskyrus viešuosius interesus atitinkančių paslaugų kainos dalį, gali būti diferencijuojamos į galios ir elektros energijos dedamąsias. Visuomeninė elektros energijos kaina gali būti diferencijuojama į prieigos ir elektros energijos dedamąsias. Paslaugų kainos taip pat gali būti diferencijuojamos pagal elektros energijos vartojimo laiką, realų valandinį elektros energijos vartojimą, taikant su vartojimo perkėlimu iš piko meto susijusias nuolaidas ir kitaip sudarant sąlygas reaguoti į elektros energijos paklausą. Paslaugų teikėjai nustato kainų diferencijavimo tvarką, kurios aprašą tvirtina Komisija. 
+7. Tarybai nustačius viršutines kainų ribas, paslaugų teikėjai turi teisę diferencijuoti paslaugos kainas pagal objektyvius požymius. Paslaugų teikėjai, diferencijuodami kainas, privalo laikytis nediskriminavimo principo ir tinkamai atsižvelgti į energijos vartojimo efektyvumo didinimo principą. Perdavimo paslaugos kaina gali būti diferencijuojama į dedamąsias elektros energijos vartotojams, gamintojams ir importuotojams, importuojantiems elektros energiją iš valstybių, kurios nėra valstybės narės. Perdavimo paslaugos kaina, persiuntimo paslaugos kaina, skirstymo paslaugos kaina visais atvejais, išskyrus viešuosius interesus atitinkančių paslaugų kainos dalį, gali būti diferencijuojamos į galios ir elektros energijos dedamąsias. Visuomeninė elektros energijos kaina gali būti diferencijuojama į prieigos ir elektros energijos dedamąsias. Paslaugų kainos taip pat gali būti diferencijuojamos pagal elektros energijos vartojimo laiką, realų valandinį elektros energijos vartojimą, taikant su vartojimo perkėlimu iš piko meto susijusias nuolaidas ir kitaip sudarant sąlygas reaguoti į elektros energijos paklausą. Paslaugų teikėjai nustato kainų diferencijavimo tvarką, kurios aprašą tvirtina Taryba. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
 
 
-8. Visuomeninę elektros energijos kainą ir tarifus nustato visuomeninis tiekėjas 6 kalendoriniams mėnesiams. Visuomeninė elektros energijos kaina nustatoma kaip elektros energijos įsigijimo kainos, perdavimo, viešuosius interesus atitinkančių paslaugų, skirstymo, visuomeninio tiekimo kainos ir faktinės elektros energijos įsigijimo kainos bei ankstesnio laikotarpio prognozuotos elektros energijos kainos skirtumo suma. Visuomeninio tiekėjo nustatytas visuomenines elektros energijos kainas ir tarifus tikrina Komisija šio straipsnio 9 dalyje nustatyta tvarka.
+8. Visuomeninę elektros energijos kainą ir tarifus nustato visuomeninis tiekėjas 6 kalendoriniams mėnesiams. Visuomeninė elektros energijos kaina nustatoma kaip elektros energijos įsigijimo kainos, perdavimo, viešuosius interesus atitinkančių paslaugų, skirstymo, visuomeninio tiekimo kainos ir faktinės elektros energijos įsigijimo kainos bei ankstesnio laikotarpio prognozuotos elektros energijos kainos skirtumo suma. Visuomeninio tiekėjo nustatytas visuomenines elektros energijos kainas ir tarifus tikrina Taryba šio straipsnio 9 dalyje nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
 
 
-9. Paslaugos teikėjo nustatytas kainas ir tarifus per 15 kalendorinių dienų nuo paslaugos teikėjo prašymo gavimo dienos skelbia Komisija, prieš tai patikrinusi, ar nustatant kainas ir tarifus nebuvo pažeisti kainų ir tarifų nustatymo reikalavimai, ar nediskriminuojami vartotojai. Komisija, nustačiusi, kad paslaugos teikėjo pateiktos paslaugų kainos ir tarifai nustatyti nesilaikant kainų ir tarifų nustatymo reikalavimų arba kad yra diskriminuojami vartotojai, nurodo paslaugų teikėjui klaidas, kurias paslaugų teikėjas turi ištaisyti, ir kad ne vėliau kaip per 10 kalendorinių dienų nuo Komisijos pastabų gavimo Komisijai turi būti pateiktos pataisytos paslaugų kainos ir tarifai. Komisija ne vėliau kaip per 15 kalendorinių dienų nuo pataisytų paslaugų kainų ir tarifų pateikimo juos paskelbia arba, jeigu paslaugų teikėjas per nustatytą terminą neištaiso nurodytų klaidų, paslaugų kainas ir tarifus nustato vienašališkai ir juos paskelbia. 
+9. Paslaugos teikėjo nustatytas kainas ir tarifus per 15 kalendorinių dienų nuo paslaugos teikėjo prašymo gavimo dienos skelbia Taryba, prieš tai patikrinusi, ar nustatant kainas ir tarifus nebuvo pažeisti kainų ir tarifų nustatymo reikalavimai, ar nediskriminuojami vartotojai. Taryba, nustačiusi, kad paslaugos teikėjo pateiktos paslaugų kainos ir tarifai nustatyti nesilaikant kainų ir tarifų nustatymo reikalavimų arba kad yra diskriminuojami vartotojai, nurodo paslaugų teikėjui klaidas, kurias paslaugų teikėjas turi ištaisyti, ir kad ne vėliau kaip per 10 kalendorinių dienų nuo Tarybos pastabų gavimo Tarybai turi būti pateiktos pataisytos paslaugų kainos ir tarifai. Taryba ne vėliau kaip per 15 kalendorinių dienų nuo pataisytų paslaugų kainų ir tarifų pateikimo juos paskelbia arba, jeigu paslaugų teikėjas per nustatytą terminą neištaiso nurodytų klaidų, paslaugų kainas ir tarifus nustato vienašališkai ir juos paskelbia. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
  
@@ -4944,7 +4942,9 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-11. Pasibaigus kiekvieniems reguliavimo periodo metams, Komisija kontroliuoja, ar paslaugos teikėjas užtikrino Komisijos nustatytos viršutinės kainų ribos įgyvendinimą. Nustačiusi skirtumą tarp Komisijos nustatytos viršutinės kainų ribos ir paslaugos teikėjo faktiškai taikyto kainų ir tarifų svertinio vidurkio, Komisija įpareigoja paslaugos teikėją atitinkamai koreguoti kitų reguliavimo periodo metų kainas ir tarifus.
+11. Pasibaigus kiekvieniems reguliavimo periodo metams, Taryba kontroliuoja, ar paslaugos teikėjas užtikrino Tarybos nustatytos viršutinės kainų ribos įgyvendinimą. Nustačiusi skirtumą tarp Tarybos nustatytos viršutinės kainų ribos ir paslaugos teikėjo faktiškai taikyto kainų ir tarifų svertinio vidurkio, Taryba įpareigoja paslaugos teikėją atitinkamai koreguoti kitų reguliavimo periodo metų kainas ir tarifus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
  
@@ -4992,9 +4992,11 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-17. Sisteminių paslaugų kainą, kaip atskirą elektros energijos kainos dedamąją prie perdavimo paslaugos kainos, nustato Komisija ne vėliau kaip iki einamųjų metų spalio 20 dienos. 
+17. Sisteminių paslaugų kainą, kaip atskirą elektros energijos kainos dedamąją prie perdavimo paslaugos kainos, nustato Taryba ne vėliau kaip iki einamųjų metų spalio 20 dienos. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -5025,9 +5027,10 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-2. Asmenys, gaunantys elektros energiją tiesiogine linija, turi apmokėti už viešuosius interesus atitinkančias paslaugas. Perdavimo sistemos operatorius šiems asmenims galios ir energijos rezervavimo funkcijos neatlieka. Asmenų, gaunančių elektros energiją tiesioginėmis linijomis, mokamą viešuosius interesus atitinkančių paslaugų kainą nustato Komisija.
+2. Asmenys, gaunantys elektros energiją tiesiogine linija, turi apmokėti už viešuosius interesus atitinkančias paslaugas. Perdavimo sistemos operatorius šiems asmenims galios ir energijos rezervavimo funkcijos neatlieka. Asmenų, gaunančių elektros energiją tiesioginėmis linijomis, mokamą viešuosius interesus atitinkančių paslaugų kainą nustato Taryba. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -5048,9 +5051,10 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-6. Valstybinė energetikos inspekcija gali atsisakyti išduoti leidimą tiesti tiesioginę liniją, jeigu jį išdavus būtų pažeidžiami šio įstatymo 4 straipsnyje nustatyti elektros energetikos sektoriaus veiklos reguliavimo bendrieji principai. Valstybinė energetikos inspekcija privalo pateikti tinkamai pagrįstas tokio atsisakymo priežastis.
+6. Taryba gali atsisakyti išduoti leidimą tiesti tiesioginę liniją, jeigu jį išdavus būtų pažeidžiami šio įstatymo 4 straipsnyje nustatyti elektros energetikos sektoriaus veiklos reguliavimo bendrieji principai. Taryba privalo pateikti tinkamai pagrįstas tokio atsisakymo priežastis. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -5092,7 +5096,10 @@ APRŪPINIMO ELEKTROS ENERGIJA NUTRAUKIMAS IR RIBOJIMAS. TECHNINIAI IR SAUGUMO RE
 4. Sprendžiant dėl nuostolių, susijusių su laikinu elektros energijos persiuntimo nutraukimu, siekiant užtikrinti visuomenės interesus, atlyginimo ir apskaičiavimo vadovaujamasi šiomis nuostatomis:
 
 
-1) tinklų operatorius vartotojui neatlygina jo patirtų nuostolių, kai elektros energijos persiuntimas nutraukiamas arba apribojamas Valstybinei energetikos inspekcijai nustačius tokius vartotojo elektros įrenginių ir (ar) jų eksploatacijos trūkumus, dėl kurių gresia avarija, gedimai, sutrikimai ar kyla pavojus žmonių gyvybei ir saugumui, taip pat tais atvejais, kai tai būtina siekiant išvengti ekstremaliosios padėties ar susiklosčius energetikos sistemoje ar tinklų operatoriaus elektros tinkle ne dėl tinklų operatoriaus kaltės ekstremaliajai padėčiai, kuri kelia grėsmę sistemos ar elektros tinklo funkcionavimui ir stabilumui, taip pat susidarius generavimo galios ar elektros energijos deficitui ir tada, kai elektros energijos persiuntimo nutraukimas arba apribojimas yra būtinas atliekant elektros tinklų priežiūros darbus, taip pat vykdant naujų elektros energijos vartotojų ir (ar) gamintojų įrenginių prijungimo prie elektros tinklų darbus;
+1) tinklų operatorius vartotojui neatlygina jo patirtų nuostolių, kai elektros energijos persiuntimas nutraukiamas arba apribojamas Tarybai nustačius tokius vartotojo elektros įrenginių ir (ar) jų eksploatacijos trūkumus, dėl kurių gresia avarija, gedimai, sutrikimai ar kyla pavojus žmonių gyvybei ir saugumui, taip pat tais atvejais, kai tai būtina siekiant išvengti ekstremaliosios padėties ar susiklosčius energetikos sistemoje ar tinklų operatoriaus elektros tinkle ne dėl tinklų operatoriaus kaltės ekstremaliajai padėčiai, kuri kelia grėsmę sistemos ar elektros tinklo funkcionavimui ir stabilumui, taip pat susidarius generavimo galios ar elektros energijos deficitui ir tada, kai elektros energijos persiuntimo nutraukimas arba apribojimas yra būtinas atliekant elektros tinklų priežiūros darbus, taip pat vykdant naujų elektros energijos vartotojų ir (ar) gamintojų įrenginių prijungimo prie elektros tinklų darbus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -5156,12 +5163,17 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-3. Elektros energetikos objektų ir įrenginių valstybinę kontrolę atlieka Valstybinė energetikos inspekcija Energetikos įstatymo nustatyta tvarka. Valstybinė energetikos kontrolė, be kita ko, apima energetikos įmonių ir energijos vartotojų elektros energetikos objektų, vidaus tinklų ir įrenginių valstybinę kontrolę, taip pat elektros įrenginių patikimumo, efektyvumo ir saugos reikalavimų laikymosi kontrolę.
+3. Elektros energetikos objektų ir įrenginių valstybinę kontrolę atlieka Taryba Energetikos įstatymo nustatyta tvarka. Valstybinė energetikos kontrolė, be kita ko, apima energetikos įmonių ir energijos vartotojų elektros energetikos objektų, vidaus tinklų ir įrenginių valstybinę kontrolę, taip pat elektros įrenginių patikimumo, efektyvumo ir saugos reikalavimų laikymosi kontrolę. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
 
-4. Komisija kontroliuoja, kaip elektros energetikos sektoriuje laikomasi elektros energijos persiuntimo patikimumo ir paslaugų kokybės reikalavimų.
+4. Taryba kontroliuoja, kaip elektros energetikos sektoriuje laikomasi elektros energijos persiuntimo patikimumo ir paslaugų kokybės reikalavimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -5277,7 +5289,10 @@ Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 
 
 
-3) elektros energiją, būtiną elektros energijos perdavimo ir skirstymo veiklos technologiniam procesui užtikrinti. Šios energijos metinis kiekis negali būti didesnis už tiems kalendoriniams metams Komisijos konkrečiam skirstomųjų tinklų operatoriui apskaičiuojant elektros energijos skirstymo paslaugos kainų viršutines ribas naudotą procentinį dydį (normatyvinį arba faktinį, jeigu pastarasis mažesnis);
+3) elektros energiją, būtiną elektros energijos perdavimo ir skirstymo veiklos technologiniam procesui užtikrinti. Šios energijos metinis kiekis negali būti didesnis už tiems kalendoriniams metams Tarybos konkrečiam skirstomųjų tinklų operatoriui apskaičiuojant elektros energijos skirstymo paslaugos kainų viršutines ribas naudotą procentinį dydį (normatyvinį arba faktinį, jeigu pastarasis mažesnis); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -5294,7 +5309,10 @@ Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 
 
 
-7. Rinkos dalyviai viešuosius interesus atitinkančių paslaugų teikimo sąnaudų apskaitą tvarko atskirai nuo visų kitų jų vykdomų veiklų sąnaudų apskaitos, vadovaudamiesi Komisijos patvirtintomis apskaitos atskyrimo taisyklėmis.
+7. Rinkos dalyviai viešuosius interesus atitinkančių paslaugų teikimo sąnaudų apskaitą tvarko atskirai nuo visų kitų jų vykdomų veiklų sąnaudų apskaitos, vadovaudamiesi Tarybos patvirtintomis apskaitos atskyrimo taisyklėmis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -5344,7 +5362,10 @@ Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 
 
 
-10. Šio straipsnio 4 ir 5 dalyse nurodytų įrenginių ir jų pagamintos elektros energijos, asmenų savo ūkiniams poreikiams suvartotos ir asmenų, iš gamintojų gaunančių elektros energiją tiesioginėmis linijomis, ūkiniams poreikiams suvartotos elektros energijos kiekio kontrolę atlieka Valstybinė energetikos inspekcija.
+10. Šio straipsnio 4 ir 5 dalyse nurodytų įrenginių ir jų pagamintos elektros energijos, asmenų savo ūkiniams poreikiams suvartotos ir asmenų, iš gamintojų gaunančių elektros energiją tiesioginėmis linijomis, ūkiniams poreikiams suvartotos elektros energijos kiekio kontrolę atlieka Taryba. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -5373,12 +5394,18 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 741 straipsnis. Viešuosius interesus atitinkančių paslaugų kaina
 
 
-1. Komisija, atsižvelgdama į šio straipsnio nuostatas, nustato viešuosius interesus atitinkančių paslaugų kainą ir ją sudarančių atskirų sudedamųjų dalių kainas pagal šio įstatymo 74 straipsnio 2 dalyje nustatytą viešuosius interesus atitinkančių paslaugų sąrašą. 
+1. Taryba, atsižvelgdama į šio straipsnio nuostatas, nustato viešuosius interesus atitinkančių paslaugų kainą ir ją sudarančių atskirų sudedamųjų dalių kainas pagal šio įstatymo 74 straipsnio 2 dalyje nustatytą viešuosius interesus atitinkančių paslaugų sąrašą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
 
-2. Vartotojai, atitinkantys šio straipsnio 3 dalyje nustatytus reikalavimus, iki kiekvienų metų liepos 1 dienos už vartotojo suvartotą elektros energijos kiekį, viršijantį 1 GWh per praėjusius kalendorinius metus, turi teisę Vyriausybės nustatyta tvarka už praėjusius kalendorinius metus susigrąžinti 85 procentus sumokėtos Komisijos nustatytos viešuosius interesus atitinkančių paslaugų kainos dalies, susijusios su elektros energijos gamyba naudojant atsinaujinančius energijos išteklius.
+2. Vartotojai, atitinkantys šio straipsnio 3 dalyje nustatytus reikalavimus, iki kiekvienų metų liepos 1 dienos už vartotojo suvartotą elektros energijos kiekį, viršijantį 1 GWh per praėjusius kalendorinius metus, turi teisę Vyriausybės nustatyta tvarka už praėjusius kalendorinius metus susigrąžinti 85 procentus sumokėtos Tarybos nustatytos viešuosius interesus atitinkančių paslaugų kainos dalies, susijusios su elektros energijos gamyba naudojant atsinaujinančius energijos išteklius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -5433,7 +5460,10 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-6. Vartotojai, neatitinkantys nors vieno iš šio straipsnio 3 dalyje numatytų reikalavimų, ir (ar) vartotojai, kurie šio straipsnio 5 dalyje nustatyta tvarka neįsidiegia geriausių esamų energijos vartojimo efektyvumo didinimo priemonių, moka visą pagal šio straipsnio 1 dalį Komisijos nustatytą viešuosius interesus atitinkančių paslaugų kainą. Vartotojai privalo Energetikos ministerijos įgaliotai institucijai ar įstaigai per 60 kalendorinių dienų nuo jos pareikalavimo grąžinti šio straipsnio 5 dalyje nustatyta tvarka geriausioms esamoms energijos vartojimo efektyvumo didinimo priemonėms diegti skirtą, bet nepanaudotą viešuosius interesus atitinkančių paslaugų lėšų dalį.
+6. Vartotojai, neatitinkantys nors vieno iš šio straipsnio 3 dalyje numatytų reikalavimų, ir (ar) vartotojai, kurie šio straipsnio 5 dalyje nustatyta tvarka neįsidiegia geriausių esamų energijos vartojimo efektyvumo didinimo priemonių, moka visą pagal šio straipsnio 1 dalį Tarybos nustatytą viešuosius interesus atitinkančių paslaugų kainą. Vartotojai privalo Energetikos ministerijos įgaliotai institucijai ar įstaigai per 60 kalendorinių dienų nuo jos pareikalavimo grąžinti šio straipsnio 5 dalyje nustatyta tvarka geriausioms esamoms energijos vartojimo efektyvumo didinimo priemonėms diegti skirtą, bet nepanaudotą viešuosius interesus atitinkančių paslaugų lėšų dalį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -5562,7 +5592,10 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-7) jeigu kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo darbai atliekami pažeidžiant kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektą, nedelsdamas informuoti užsakovą, o tais atvejais, kai nustatoma avarijos grėsmė, – užsakovą ir Valstybinę energetikos inspekciją prie Energetikos ministerijos.
+7) jeigu kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo darbai atliekami pažeidžiant kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektą, nedelsdamas informuoti užsakovą, o tais atvejais, kai nustatoma avarijos grėsmė, – užsakovą ir Tarybą. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
 
 
 
@@ -5587,17 +5620,20 @@ Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
 752 straipsnis. Teisė būti kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo rangovu. Rangovo teisės ir pareigos
 
 
-1. Būti kilnojamųjų elektros energetikos objektų ir įrenginių, nurodytų šio įstatymo 75 straipsnio 2 dalyje, išskyrus vartotojo elektros įrenginius, įrengimo rangovu turi teisę Lietuvos Respublikos ar kitos valstybės narės juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos inspekcijos Energetikos įstatymo nustatyta tvarka išduotą elektros įrenginių įrengimo veiklos atestatą. 
+1. Būti kilnojamųjų elektros energetikos objektų ir įrenginių, nurodytų šio įstatymo 75 straipsnio 2 dalyje, išskyrus vartotojo elektros įrenginius, įrengimo rangovu turi teisę Lietuvos Respublikos ar kitos valstybės narės juridinis asmuo, kita organizacija ar jų padalinys, turintys Tarybos Energetikos įstatymo nustatyta tvarka išduotą elektros įrenginių įrengimo veiklos atestatą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
 
 
-2. Būti šio įstatymo 75 straipsnio 2 dalyje nurodytų vartotojo elektros įrenginių, išskyrus vartotojo elektros įrenginius ypatinguosiuose statiniuose, įrengimo rangovu turi teisę Lietuvos Respublikos ar kitos valstybės narės fizinis asmuo ir juridinis asmuo, kita organizacija ar jų padalinys, turintys Valstybinės energetikos inspekcijos Energetikos įstatymo nustatyta tvarka išduotą elektros įrenginių įrengimo veiklos atestatą. 
+2. Būti šio įstatymo 75 straipsnio 2 dalyje nurodytų vartotojo elektros įrenginių, išskyrus vartotojo elektros įrenginius ypatinguosiuose statiniuose, įrengimo rangovu turi teisę Lietuvos Respublikos ar kitos valstybės narės fizinis asmuo ir juridinis asmuo, kita organizacija ar jų padalinys, turintys Tarybos Energetikos įstatymo nustatyta tvarka išduotą elektros įrenginių įrengimo veiklos atestatą. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -5690,7 +5726,7 @@ TARPTAUTINIS BENDRADARBIAVIMAS
 76 straipsnis. Bendradarbiavimas su užsienio valstybių nacionalinėmis reguliavimo institucijomis elektros energetikos sektoriuje
 
 
-1. Komisija bendradarbiauja su užsienio valstybių nacionalinėmis energetikos sektoriaus reguliavimo institucijomis:
+1. Taryba bendradarbiauja su užsienio valstybių nacionalinėmis energetikos sektoriaus reguliavimo institucijomis:
 
 
 1) skatinant nacionalinės rinkos integravimą Europos Sąjungos ir regionų lygmeniu ir siekiant sujungti nacionalinius elektros tinklus su užsienio valstybių elektros tinklais;
@@ -5703,7 +5739,7 @@ TARPTAUTINIS BENDRADARBIAVIMAS
 
 
 
-3) rengiant eksploatacines priemones, skirtas sudaryti optimalaus elektros tinklo valdymo sąlygas;
+3) rengiant eksploatacines priemones, skirtas optimalaus elektros tinklo valdymo sąlygoms sudaryti;
 
 
 
@@ -5740,20 +5776,22 @@ TARPTAUTINIS BENDRADARBIAVIMAS
 
 
 
-2. Komisija gali sudaryti bendradarbiavimo elektros energetikos sektoriuje susitarimus su kitų valstybių nacionalinėmis energetikos sektoriaus reguliavimo institucijomis, pagal kompetenciją dalyvauti tarptautinių ir regioninių organizacijų, asociacijų, komitetų, komisijų ir darbo grupių veikloje.
+2. Taryba gali sudaryti bendradarbiavimo elektros energetikos sektoriuje susitarimus su kitų valstybių nacionalinėmis energetikos sektoriaus reguliavimo institucijomis, pagal kompetenciją dalyvauti tarptautinių ir regioninių organizacijų, asociacijų, komitetų, komisijų ir darbo grupių veikloje.
 
 
 
 
-3. Komisija pagal kompetenciją atstovauja Lietuvos Respublikai Energetikos reguliavimo institucijų bendradarbiavimo agentūros, veikiančios pagal 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 713/2009, įsteigiantį Energetikos reguliavimo institucijų bendradarbiavimo agentūrą, veikloje.
+3. Taryba pagal kompetenciją atstovauja Lietuvos Respublikai Energetikos reguliavimo institucijų bendradarbiavimo agentūros, veikiančios pagal Reglamentą (EB) Nr. 713/2009, įsteigiantį Energetikos reguliavimo institucijų bendradarbiavimo agentūrą, veikloje.
 
 
 
 
-4. Komisija, bendradarbiaudama su Energetikos reguliavimo institucijų bendradarbiavimo agentūra ir užsienio valstybių nacionalinėmis energetikos sektoriaus reguliavimo institucijomis, keičiasi informacija, reikalinga Komisijos užduotims pagal šį įstatymą ir kitus teisės aktus atlikti. Komisija užtikrina gautos informacijos konfidencialumą.
+4. Taryba, bendradarbiaudama su Energetikos reguliavimo institucijų bendradarbiavimo agentūra ir užsienio valstybių nacionalinėmis energetikos sektoriaus reguliavimo institucijomis, keičiasi informacija, reikalinga Tarybos veiklos tikslams pasiekti. Taryba užtikrina gautos informacijos konfidencialumą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
 
 
 
@@ -5786,7 +5824,9 @@ TARPTAUTINIS BENDRADARBIAVIMAS
 
 
 
-3. Lietuvos Respublikos perdavimo sistemos operatorius dalyvauja Europos elektros energijos perdavimo sistemos operatorių tinklo, veikiančio pagal 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinantį Reglamentą (EB) Nr. 1228/2003, veikloje.
+3. Lietuvos Respublikos perdavimo sistemos operatorius dalyvauja Europos elektros energijos perdavimo sistemos operatorių tinklo, veikiančio pagal Reglamentą (EB) Nr. 714/2009, veikloje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
@@ -5837,92 +5877,42 @@ BAIGIAMOSIOS NUOSTATOS
  
 
 
-80 straipsnis. Įstatymo įgyvendinimo tvarka vykdant perdavimo veiklą
-
-
-1. Jeigu perdavimo sistemos operatorius šio įstatymo įsigaliojimo dieną neatitinka šiame įstatyme nustatytų veiklos atskyrimo sąlygų ir reikalavimų, vertikaliai integruota įmonė ir perdavimo sistemos operatorius ar juos kontroliuojantys asmenys privalo imtis visų būtinų priemonių jiems įgyvendinti, įskaitant įmonės reorganizavimą, atskyrimą, atlygintinį ar neatlygintinį perdavimo sistemos operatoriaus ar jį kontroliuojančio asmens bendrovės akcijų perleidimą valstybei, taip pat kitas teisėtas priemones.
-
-
-
-
-2. Perdavimo sistemos operatorius, vykdantis perdavimo veiklą pagal licenciją, išduotą iki šio įstatymo įsigaliojimo dienos, laikomas paskirtu laikinai vykdyti perdavimo veiklą, kol šiame įstatyme nustatyta tvarka ir sąlygomis Komisija patvirtins tinkamą perdavimo sistemos operatoriaus nepriklausomumo ir veiklos atskyrimo sąlygų ir reikalavimų įvykdymą.
-
-
-
-
-3. Tuo atveju, kai perdavimo sistemos operatorius ne vėliau kaip iki 2012 m. kovo 3 d. nepateikia Komisijai dokumentų, pagrindžiančių visišką perdavimo sistemos operatoriaus atskyrimą nuo vertikaliai integruotos įmonės šiame įstatyme nustatyta tvarka ir sąlygomis, Komisija Vyriausybės įgaliotos institucijos nustatyta tvarka paskiria nepriklausomą sistemos operatorių elektros energijos perdavimo veiklai laikinai vykdyti.
-
-
-
-
-4. Šio straipsnio 3 dalyje nurodytas nepriklausomas sistemos operatorius pradeda vykdyti veiklą ne vėliau kaip Komisijos nustatytais terminais. Nepriklausomas sistemos operatorius administruoja perdavimo sistemą ir už vykdomą veiklą iš sistemos savininko gauna Komisijos nustatyto dydžio atlygį. Nepriklausomo sistemos operatoriaus ir sistemos savininko tarpusavio teisės ir pareigos nustatomos bendradarbiavimo sutartimi, kurią tvirtina Komisija. Nepriklausomas sistemos operatorius vykdo veiklą tol, kol perdavimo sistemos operatorius neužtikrina visiško jo veiklos atskyrimo nuo vertikaliai integruotos įmonės ir nėra paskiriamas šio įstatymo penktajame skirsnyje nustatyta tvarka ir sąlygomis.
-
-
-
-
-5. Komisijos paskirtas nepriklausomas sistemos operatorius privalo įgyvendinti ne mažesnius negu šio įstatymo 53 straipsnio 1 dalyje nustatytus veiklos atskyrimo reikalavimus.
+80 straipsnis. Neteko galios nuo 2019-07-01
+Straipsnio naikinimas:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
 
 
-
-
-81 straipsnis. Įstatymo įgyvendinimo tvarka vykdant skirstymo veiklą
-
-
-1. Jeigu skirstomųjų tinklų operatorius šio įstatymo įsigaliojimo dieną neatitinka šiame įstatyme nustatytų veiklos atskyrimo sąlygų ir reikalavimų, vertikaliai integruota įmonė ir skirstomųjų tinklų operatorius privalo imtis visų būtinų priemonių jiems įgyvendinti, įskaitant įmonės reorganizavimą ar kitas teisėtas priemones.
-
-
-
-
-2. Skirstomųjų tinklų operatorius užtikrina, kad ne vėliau kaip nuo 2012 m. kovo 3 d. skirstomųjų tinklų operatoriaus, esančio vertikaliai integruotos įmonės dalimi, ir kitų su elektros energijos skirstymu nesusijusių veiklų komerciniai interesai bus atskirti, įgyvendinant šio įstatymo 54 straipsnio 1 ir 3 dalyse nustatytus reikalavimus.
+81 straipsnis. Neteko galios nuo 2019-07-01
+Straipsnio naikinimas:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
 
 
-
-
-82 straipsnis. Įstatymo įgyvendinimo tvarka vykdant nepriklausomo tiekimo veiklą
-
-
-1. Nuo šio įstatymo įsigaliojimo dienos nepriklausomą elektros energijos tiekimą vykdantys asmenys, turintys šio įstatymo nustatyta tvarka išduotą leidimą verstis nepriklausomo elektros energijos tiekimo veikla, Lietuvos Respublikos akcizų įstatymo (toliau – Akcizų įstatymas) 45 straipsnyje nurodytais tikslais yra prilyginami asmenims, turintiems šiame įstatyme nustatytas veiklos elektros energetikos sektoriuje licencijas.
-
-
-
-
-2. Šio straipsnio 1 dalis taikoma vykdant nepriklausomą elektros energijos tiekimą tol, kol teisės aktų nustatyta tvarka įsigalios atitinkami Akcizų įstatymo pakeitimai.
+82 straipsnis. Neteko galios nuo 2019-07-01
+Straipsnio naikinimas:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
 
 
-
-
-83 straipsnis. Įstatymo įgyvendinimo tvarka sudarant sutartis su vartotojais
-
-
-1. Tuo atveju, kai šio įstatymo įsigaliojimo dieną galiojančių elektros energijos pirkimo–pardavimo ir (ar) paslaugų teikimo sutarčių, sudarytų su vartotojais, sąlygos neatitinka šio įstatymo 51 straipsnio 2 dalyje ir 52 straipsnio 2 dalyje nustatytų reikalavimų, Energetikos ministerija parengia ir patvirtina reikiamus elektros energijos pirkimo–pardavimo sutarčių ir persiuntimo paslaugos teikimo sutarčių su buitiniais vartotojais standartinių sąlygų bei Elektros energijos tiekimo ir naudojimo taisyklių pakeitimus. Energetikos ministerijos nustatyta tvarka energetikos įmonės privalo savo interneto svetainėse ir kitais Energetikos ministerijos nustatytais būdais skelbti išsamią informaciją, nurodytą šio įstatymo 51 straipsnio 2 dalyje ir 52 straipsnio 2 dalyje.
-
-
-
-
-2. Energetikos įmonės vengimas ar delsimas įgyvendinti šio straipsnio 1 dalyje nustatytą įpareigojimą gali būti skundžiamas šio įstatymo 78 straipsnyje nustatyta tvarka.
+83 straipsnis. Neteko galios nuo 2019-07-01
+Straipsnio naikinimas:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
 
 
-
-
-84 straipsnis. Įstatymo įgyvendinimo tvarka vykdant elektros biržos operatoriaus veiklą
-
-
-Iki elektros biržos operatoriaus veiklos pradžios, kaip nurodyta šio įstatymo 63 straipsnio 5 dalyje, didmeninę prekybą elektros energija elektros biržoje organizuoja, prekybos elektros energija vietos techninį aptarnavimą ir palaikymą užtikrina bei elektros biržą administruoja asmuo, iki šio įstatymo įsigaliojimo vykdęs rinkos operatoriaus veiklą.
+84 straipsnis. Neteko galios nuo 2019-07-01
+Straipsnio naikinimas:
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
-
-
 
 
 
@@ -5967,6 +5957,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos elektros
 energetikos įstatymo
 priedas
@@ -6189,3 +6180,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 16, 22, 34,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 9, 15, 16, 56 ir 68 straipsnių pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įstatymas
