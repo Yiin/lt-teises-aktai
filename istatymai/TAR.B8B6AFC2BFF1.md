@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-07-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
- 
-TAR pastaba. Iki įstatymo Nr. XIII-2011 įsigaliojimo (2019-05-01) Lietuvos Respublikos konkurencijos tarybos pradėtos, bet nebaigtos Lietuvos Respublikos reklamos įstatymo pažeidimų nagrinėjimo procedūros ir gauti skundai, dėl kurių iki šio įstatymo įsigaliojimo nepriimti sprendimai pradėti Reklamos įstatymo pažeidimų nagrinėjimo procedūras, baigiami nagrinėti pagal iki šio įstatymo įsigaliojimo galiojusius teisės aktus.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
-Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 15, 16, 18, 19, 22 ir 32 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-02-01:
 Nr. XIII-193, 2017-01-12, paskelbta TAR 2017-01-18, i. k. 2017-01075
@@ -962,7 +957,18 @@ Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 
 
 
-11) atlieka kitas šiame ir kituose Konkurencijos tarybos veiklai taikomuose įstatymuose nustatytas funkcijas. 
+11) atlieka Konkurencijos tarybos valstybės institucijoms teiktų išvadų ir pasiūlymų dėl konkurencijos ribojimų įgyvendinimo stebėseną ir pagal kompetenciją imasi veiksmų, kad atitinkami konkurencijos ribojimai būtų pašalinti; 
+Papildyta straipsnio punktu:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
+ 
+
+
+
+
+12) atlieka kitas šiame ir kituose Konkurencijos tarybos veiklai taikomuose įstatymuose nustatytas funkcijas. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
+ 
 
 
 
@@ -1306,7 +1312,10 @@ KONKURENCIJOS TARYBOS ATLIEKAMAS ŠIO ĮSTATYMO PAŽEIDIMO TYRIMAS
 
 
 
-6) pažeidimus, kai nurodymai pateikti informaciją nevykdomi ar vykdomi ne laiku, pateikiama neteisinga ar ne visa informacija, šio įstatymo numatytais atvejais informacija nepateikiama nustatytu laiku, pažeidžiamas ar nuplėšiamas antspaudas, uždėtas pagal šio įstatymo 25 straipsnio 1 dalies 4 punktą, kliudoma Konkurencijos tarybos pareigūnams atlikti tyrimą arba nevykdomi Konkurencijos tarybos nutarimais paskirtos sankcijos ar įpareigojimai, taip pat ūkio subjektų prisiimti įsipareigojimai pagal šio įstatymo 28 straipsnio 3 dalies 2 punktą.
+6) pažeidimus, kai nurodymai pateikti tyrimui atlikti ar koncentracijai nagrinėti reikalingą informaciją pagal šio įstatymo 11 straipsnio 5 dalį ir 25 straipsnio 1 dalies 6 punktą nevykdomi ar vykdomi ne laiku, pateikiama neteisinga, klaidinanti ar ne visa informacija, nurodymai pateikti atsakymus į klausimus, užduotus asmenims, susijusiems su tiriamųjų ūkio subjektų veikla dėl faktų ir dokumentų pagal šio įstatymo 25 straipsnio 1 dalies 5 punktą, nevykdomi arba pateikti atsakymai į klausimus yra neteisingi, klaidinantys ar neišsamūs, kliudoma Konkurencijos tarybos pareigūnams atlikti šio įstatymo 25 straipsnio 1 dalyje nurodytus veiksmus arba nevykdomi reikalavimai, pareikšti įgyvendinant šio įstatymo 25 straipsnio 1 dalyje nurodytas teises, pažeidžiamas ar nuplėšiamas antspaudas, uždėtas pagal šio įstatymo 25 straipsnio 1 dalies 4 punktą, arba nevykdomos Konkurencijos tarybos nutarimais paskirtos šio įstatymo 35 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytos sankcijos, laikinosios priemonės ar ūkinės veiklos apribojimai, taip pat ūkio subjektų prisiimti įsipareigojimai pagal šio įstatymo 28 straipsnio 4 dalį.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
+ 
 
 
 
@@ -1476,7 +1485,10 @@ Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 
 
 
-5) gauti žodinius ir rašytinius paaiškinimus iš asmenų, susijusių su tikrinamų ūkio subjektų veikla, reikalauti, kad jie atvyktų duoti paaiškinimų į tyrimą atliekančio įgalioto pareigūno tarnybines patalpas;
+5) gauti žodinius ir rašytinius paaiškinimus iš asmenų, galinčių turėti tyrimui reikšmingos informacijos, įskaitant atsakymus į klausimus dėl faktų ir dokumentų iš asmenų, susijusių su tiriamųjų ūkio subjektų veikla, reikalauti, kad jie atvyktų duoti paaiškinimų į tyrimą atliekančio įgalioto pareigūno tarnybines patalpas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
+ 
 
 
 
@@ -1659,32 +1671,34 @@ Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 
 
 
-2) veiksmai nepadarė esminės žalos šio įstatymo saugomiems interesams, o ūkio subjektas, įtariamas pažeidęs įstatymą, geranoriškai nutraukė veiksmus ir pateikė Konkurencijos tarybai rašytinį įsipareigojimą tokių veiksmų neatlikti ar atlikti veiksmus, šalinančius įtariamą pažeidimą ar sudarančius prielaidas jo išvengti ateityje;
-
-
-
-
-3) tyrimo metu paaiškėja arba atsiranda šio įstatymo 24 straipsnio 4 dalyje nurodytos aplinkybės.
+2) tyrimo metu paaiškėja arba atsiranda šio įstatymo 24 straipsnio 4 dalyje nurodytos aplinkybės.
 
 
 
 
 
 
-4. Įsipareigojimai, pateikti pagal šio straipsnio 3 dalies 2 punktą ir įrašyti į Konkurencijos tarybos nutarimą tyrimą nutraukti, ūkio subjektui yra privalomi.
+4. Konkurencijos taryba, ketindama nustatyti įpareigojimą ūkio subjektui nutraukti draudžiamą susitarimą ar piktnaudžiavimą dominuojančia padėtimi, turi teisę priimti nutarimą tyrimą nutraukti, jeigu ūkio subjektas, įtariamas pažeidęs šį įstatymą, pateikia savo rašytinius įsipareigojimus dėl įtariamo pažeidimo pašalinimo ir juos Konkurencijos taryba nutarimu nustato kaip privalomus ūkio subjektams. Šioje dalyje nurodytų įsipareigojimų taikymo laikotarpis nustatomas Konkurencijos tarybos nutarimu. 
 
 
 
 
-5. Jeigu paaiškėja naujų aplinkybių, Konkurencijos taryba turi teisę priimti nutarimą nutrauktą tyrimą atnaujinti.
+5. Įsipareigojimai, pateikti pagal šio straipsnio 4 dalį ir įrašyti į Konkurencijos tarybos nutarimą tyrimą nutraukti, ūkio subjektui yra privalomi.
 
 
 
 
-6. Konkurencijos tarybos nutarimai, priimti pagal šio straipsnio 3 dalies 2 punktą, skelbiami Konkurencijos tarybos interneto svetainėje.
+6. Jeigu paaiškėja naujų aplinkybių, Konkurencijos taryba turi teisę priimti nutarimą nutrauktą tyrimą atnaujinti.
+
+
+
+
+7. Konkurencijos tarybos nutarimai, priimti pagal šio straipsnio 4 dalį, skelbiami Konkurencijos tarybos interneto svetainėje.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
  
-
-
 
 
 
@@ -1704,7 +1718,10 @@ PROCEDŪROS DALYVIŲ IŠKLAUSYMAS KONKURENCIJOS TARYBOJE IR KONKURENCIJOS TARYBO
 
 
 
-2. Baigus tyrimą, procedūros dalyviams taip pat sudaroma galimybė susipažinti su tyrimo bylos medžiaga, išskyrus dokumentus, kuriuose yra valstybės ar tarnybos paslapčių arba kito ūkio subjekto komercinių paslapčių. Norint susipažinti su dokumentais, kuriuose yra kito ūkio subjekto komercinių paslapčių, būtina gauti ūkio subjekto, su kurio komercines paslaptis sudarančiais dokumentais norima susipažinti, sutikimą. Susipažinimui su informacija, kurią Konkurencijos tarybai pateikė ūkio subjektas šio įstatymo 38 straipsnio 1 dalies pagrindu ar šio įstatymo 37 straipsnio 2 dalyje nurodytu tyrimo metu pateiktu rašytiniu pripažinimo pareiškimu, taikomi šio įstatymo 21 straipsnio 8–11 dalyse numatyti apribojimai. 
+2. Baigus tyrimą, procedūros dalyviams taip pat sudaroma galimybė susipažinti su tyrimo bylos medžiaga, išskyrus dokumentus, kuriuose yra valstybės ar tarnybos paslapčių arba kito ūkio subjekto komercinių paslapčių. Norint susipažinti su dokumentais, kuriuose yra kito ūkio subjekto komercinių paslapčių, būtina gauti ūkio subjekto, su kurio komercines paslaptis sudarančiais dokumentais norima susipažinti, sutikimą. Susipažinimui su informacija, kurią Konkurencijos tarybai pateikė ūkio subjektas šio įstatymo 38 straipsnio 1 dalies pagrindu ar šio įstatymo 37 straipsnio 2 dalyje nurodytu tyrimo metu pateiktu rašytiniu pripažinimo pareiškimu, taikomi šio įstatymo 21 straipsnio 8–11 dalyse numatyti apribojimai. Susipažinimui su informacija apie fizinį asmenį, pateikusį įrodymus, kuriais remdamasi Konkurencijos taryba nustato konkurentų susitarimą, nurodytą šio įstatymo 5 straipsnio 2 dalyje, arba ne konkurentų susitarimą dėl tiesioginio ar netiesioginio kainų nustatymo (fiksavimo), nurodytą šio įstatymo 5 straipsnio 1 dalies 1 punkte, taikomi šio įstatymo 381 straipsnio 6 dalyje numatyti apribojimai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
+ 
 
 
 
@@ -1902,17 +1919,34 @@ ADMINISTRACINĖ ATSAKOMYBĖ
 
 
 
-2) įpareigoti ūkio subjektus ar kontroliuojančius asmenis, įvykdžiusius koncentraciją, dėl kurios buvo sukurta ar sustiprinta dominuojanti padėtis arba itin apribota konkurencija atitinkamoje rinkoje, nepranešus Konkurencijos tarybai ar negavus Konkurencijos tarybos leidimo, taip pat šio įstatymo 14 straipsnio 2 dalyje numatytais atvejais atlikti veiksmus, atkuriančius ankstesnę padėtį arba pašalinančius koncentracijos pasekmes, įskaitant įpareigojimus parduoti įmonę ar jos dalį, ūkio subjekto turtą ar jo dalį, akcijas ar jų dalį, reorganizuoti įmonę, nutraukti ar pakeisti sutartis, taip pat nustatyti šių įpareigojimų įvykdymo terminus ir sąlygas;
+2) įpareigoti ūkio subjektus nutraukti draudžiamą susitarimą ar piktnaudžiavimą dominuojančia padėtimi ūkio subjektų struktūrą keičiančiomis priemonėmis, įskaitant įpareigojimus parduoti įmonę ar jos dalį, ūkio subjekto turtą ar jo dalį, akcijas ar jų dalį, reorganizuoti įmonę, taip pat nustatyti šių įpareigojimų įvykdymo terminus ir sąlygas; 
+Papildyta straipsnio punktu:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
+ 
 
 
 
 
-3) viešojo administravimo subjektui nurodyti per nustatytą terminą pakeisti ar panaikinti teisės aktus, kitus šio įstatymo 4 straipsnyje nurodytiems reikalavimams prieštaraujančius sprendimus, ar atlikti kitus šio įstatymo 4 straipsnio pažeidimą šalinančius veiksmus;
+3) įpareigoti ūkio subjektus ar kontroliuojančius asmenis, įvykdžiusius koncentraciją, dėl kurios buvo sukurta ar sustiprinta dominuojanti padėtis arba itin apribota konkurencija atitinkamoje rinkoje, nepranešus Konkurencijos tarybai ar negavus Konkurencijos tarybos leidimo, taip pat šio įstatymo 14 straipsnio 2 dalyje numatytais atvejais atlikti veiksmus, atkuriančius ankstesnę padėtį arba pašalinančius koncentracijos pasekmes, įskaitant įpareigojimus parduoti įmonę ar jos dalį, ūkio subjekto turtą ar jo dalį, akcijas ar jų dalį, reorganizuoti įmonę, nutraukti ar pakeisti sutartis, taip pat nustatyti šių įpareigojimų įvykdymo terminus ir sąlygas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
+ 
 
 
 
 
-4) skirti ūkio subjektams ir viešojo administravimo subjektams šiame įstatyme nustatytas pinigines baudas.
+4) viešojo administravimo subjektui nurodyti per nustatytą terminą pakeisti ar panaikinti teisės aktus, kitus šio įstatymo 4 straipsnyje nurodytiems reikalavimams prieštaraujančius sprendimus, ar atlikti kitus šio įstatymo 4 straipsnio pažeidimą šalinančius veiksmus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
+ 
+
+
+
+
+5) skirti ūkio subjektams ir viešojo administravimo subjektams šiame įstatyme nustatytas pinigines baudas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
+ 
 
 
 
@@ -1943,9 +1977,16 @@ ADMINISTRACINĖ ATSAKOMYBĖ
 
 
 3) teisme nagrinėjamas ginčas dėl Konkurencijos tarybos nutarimo taikyti sankcijas. Sankcijų skyrimo terminas šiuo atveju sustabdomas nuo skundo padavimo teismui dienos iki teismo sprendimo įsiteisėjimo dienos.
+
+
+
+
+
+
+5. Konkurencijos taryba turi teisę taikyti vieną ar kelis įpareigojimus, nurodytus šio straipsnio 1 dalies 1 ir 2 punktuose. Konkurencijos taryba taiko tą šio straipsnio 1 dalies 1 ir 2 punktuose nurodytą įpareigojimą, kuris yra veiksmingesnis siekiant išspręsti konkurencijos problemą. Jeigu konkrečiu atveju keli įpareigojimai, nurodyti šio straipsnio 1 dalies 1 ir 2 punktuose, yra vienodai veiksmingi siekiant išspręsti konkurencijos problemą, Konkurencijos taryba, vadovaudamasi proporcingumo principu, taiko tą įpareigojimą, kuris ūkio subjektą mažiausiai apsunkina.
+Papildyta straipsnio dalimi:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
  
-
-
 
 
 
@@ -1955,7 +1996,7 @@ ADMINISTRACINĖ ATSAKOMYBĖ
 36 straipsnis. Baudos
 
 
-1. Už draudžiamus susitarimus, piktnaudžiavimą dominuojančia padėtimi, koncentracijos, apie kurią buvo privaloma pranešti, įgyvendinimą be Konkurencijos tarybos leidimo, koncentracijos tęsimą jos sustabdymo laikotarpiu, Konkurencijos tarybos nustatytų koncentracijos vykdymo sąlygų ar privalomų įpareigojimų pažeidimą ūkio subjektams skiriama piniginė bauda iki 10 procentų bendrųjų metinių pajamų praėjusiais ūkiniais metais.
+1. Už draudžiamus susitarimus, piktnaudžiavimą dominuojančia padėtimi, koncentracijos, apie kurią buvo privaloma pranešti, įgyvendinimą be Konkurencijos tarybos leidimo, koncentracijos tęsimą jos sustabdymo laikotarpiu, Konkurencijos tarybos nustatytų koncentracijos vykdymo sąlygų ar privalomų įpareigojimų pažeidimą, už šio įstatymo 35 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytų įpareigojimų nevykdymą, už laikinųjų priemonių, ūkinės veiklos apribojimų ar už šio įstatymo 28 straipsnio 4 dalyje prisiimtų įsipareigojimų nesilaikymą ūkio subjektams skiriama piniginė bauda iki 10 procentų bendrųjų metinių pajamų praėjusiais ūkiniais metais.
 
 
 
@@ -1965,12 +2006,12 @@ ADMINISTRACINĖ ATSAKOMYBĖ
 
 
 
-3. Už informacijos, reikalingos tyrimui atlikti ar koncentracijai nagrinėti, nepateikimą, taip pat neteisingos ar ne visos informacijos pateikimą šiame įstatyme numatytais atvejais, už kliudymą Konkurencijos tarybos pareigūnams įeiti ir patikrinti ūkio subjekto patalpas, teritoriją ir transporto priemones, peržiūrėti ar paimti dokumentus ir daiktus, turinčius įrodomosios reikšmės tiriant bylą, už antspaudo, Konkurencijos tarybos pareigūnų uždėto pagal šio įstatymo 25 straipsnio 1 dalies 4 punktą, sugadinimą ar nuplėšimą ūkio subjektams gali būti skiriama piniginė bauda iki 1 procento bendrųjų metinių pajamų praėjusiais ūkiniais metais.
+3. Už informacijos, reikalingos tyrimui atlikti ar koncentracijai nagrinėti, nepateikimą ar pateikimą ne laiku, taip pat neteisingos, klaidinančios ar ne visos informacijos pagal šio įstatymo 11 straipsnio 5 dalį ir 25 straipsnio 1 dalies 6 punktą pateikimą, nurodymų pateikti atsakymus į klausimus, užduotus asmenims, susijusiems su tiriamųjų ūkio subjektų veikla dėl faktų ir dokumentų pagal šio įstatymo 25 straipsnio 1 dalies 5 punktą, nevykdymą arba pateikimą neteisingų, klaidinančių ar neišsamių atsakymų į klausimus, už reikalavimų, pareikštų įgyvendinant šio įstatymo 25 straipsnio 1 dalyje nurodytas teises, nevykdymą, kliudymą atlikti šio įstatymo 25 straipsnio 1 dalyje nurodytus veiksmus, pažeistą ar nuplėštą antspaudą, uždėtą pagal šio įstatymo 25 straipsnio 1 dalies 4 punktą, ūkio subjektams gali būti skiriama piniginė bauda iki 1 procento bendrųjų metinių pajamų praėjusiais ūkiniais metais.
 
 
 
 
-4. Už Konkurencijos tarybos įpareigojimų nutraukti neteisėtą veiklą, atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, nevykdymą arba vykdymą ne laiku, už nurodymų pateikti informaciją vykdymą ne laiku, už prisiimtų įsipareigojimų nesilaikymą šio įstatymo numatytais atvejais ūkio subjektams gali būti skiriama piniginė bauda už kiekvieną pažeidimo vykdymo (tęsimo) dieną iki 5 procentų vidutinių dienos bendrųjų pajamų praėjusiais ūkiniais metais.
+4. Už Konkurencijos tarybos įpareigojimų nutraukti neteisėtą veiklą, atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, nevykdymą už įpareigojimų nutraukti draudžiamą susitarimą ar piktnaudžiavimą dominuojančia padėtimi ūkio subjektų struktūrą keičiančiomis priemonėmis nevykdymą, už laikinųjų priemonių nesilaikymą, už reikalavimų, pareikštų įgyvendinant šio įstatymo 25 straipsnio 1 dalyje nurodytas teises, nevykdymą, už kliudymą atlikti šio įstatymo 25 straipsnio 1 dalyje nurodytus veiksmus, už prisiimtų įsipareigojimų nesilaikymą pagal šio įstatymo 28 straipsnio 4 dalį ūkio subjektams gali būti skiriama piniginė bauda už kiekvieną pažeidimo vykdymo (tęsimo) dieną iki 5 procentų vidutinių dienos bendrųjų pajamų praėjusiais ūkiniais metais.
 
 
 
@@ -1980,15 +2021,27 @@ ADMINISTRACINĖ ATSAKOMYBĖ
 
 
 
-6. Už per Konkurencijos tarybos nustatytą arba šio įstatymo 39 straipsnio 5 dalies pagrindu pratęstą terminą šio įstatymo 35 straipsnio 1 dalies 3 punkte nurodytų įpareigojimų neįvykdymą viešojo administravimo subjektams gali būti skiriama piniginė bauda iki šešių šimtų eurų už kiekvieną pažeidimo vykdymo dieną po termino įvykdyti įpareigojimus pašalinti pažeidimą pabaigos.
+6. Už per Konkurencijos tarybos nustatytą arba šio įstatymo 39 straipsnio 5 dalies pagrindu pratęstą terminą šio įstatymo 35 straipsnio 1 dalies 4 punkte nurodytų įpareigojimų neįvykdymą viešojo administravimo subjektams gali būti skiriama piniginė bauda iki šešių šimtų eurų už kiekvieną pažeidimo vykdymo dieną po termino įvykdyti įpareigojimus pašalinti pažeidimą pabaigos.
 
 
 
 
-7. Už šio įstatymo 4 straipsnio pažeidimus viešojo administravimo subjektams gali būti skiriama piniginė bauda iki 0,5 procento viešojo administravimo subjekto metinio biudžeto einamaisiais metais ir kitų praėjusiais metais gautų bendrųjų metinių pajamų, bet ne daugiau negu šešiasdešimt tūkstančių eurų.
+7. Už šio įstatymo 4 straipsnio pažeidimus viešojo administravimo subjektams gali būti skiriama piniginė bauda iki 0,5 procento viešojo administravimo subjekto metinio biudžeto einamaisiais metais ir kitų praėjusiais metais gautų bendrųjų metinių pajamų, bet ne daugiau kaip šešiasdešimt tūkstančių eurų.
+
+
+
+
+8. Šio straipsnio 1, 2 ir 3 dalyse nurodytos baudos skiriamos už laikotarpį, kuris baigiasi ne vėliau kaip Konkurencijos tarybos nutarimo skirti baudą priėmimo dieną.
+
+
+
+
+9. Šio straipsnio 4 dalyje nurodytos baudos skiriamos už laikotarpį, kuris prasideda nuo Konkurencijos tarybos nutarimo skirti baudą priėmimo dienos ir baigiasi tą dieną, kai baigiasi atitinkamo pažeidimo vykdymas (tęsimas).
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
  
-
-
 
 
 
@@ -2085,6 +2138,74 @@ ADMINISTRACINĖ ATSAKOMYBĖ
 
 
 
+381 straipsnis. Atlyginimas už įrodymų pateikimą Konkurencijos tarybai
+
+
+1. Fiziniams asmenims, pateikusiems įrodymus, kuriais remdamasi Konkurencijos taryba nustato konkurentų susitarimą, nurodytą šio įstatymo 5 straipsnio 2 dalyje, arba ne konkurentų susitarimą dėl tiesioginio ar netiesioginio kainų nustatymo (fiksavimo), nurodytą šio įstatymo 5 straipsnio 1 dalies 1 punkte, Konkurencijos taryba turi teisę skirti vienkartinę piniginę išmoką.
+
+
+
+
+2. Vienkartinės piniginės išmokos dydis sudaro 1 procentą Konkurencijos tarybos visų už šio straipsnio 1 dalyje nurodytą pažeidimą, apie kurį įrodymus pateikė fizinis asmuo, paskirtų baudų sumos, tačiau ne mažiau kaip tūkstantį eurų ir ne daugiau kaip šimtą tūkstančių eurų. 
+
+
+
+
+3. Vienkartinė piniginė išmoka gali būti skiriama, jeigu yra visos šios sąlygos:
+
+
+1) fizinis asmuo įrodymus pateikė iki Konkurencijos tarybos tyrimo pradžios ir yra pirmasis juos pateikęs asmuo;
+
+
+
+
+2) įrodymai nebuvo gauti dėl įvykdytos nusikalstamos veiklos;
+
+
+
+
+3) fizinis asmuo nėra ūkio subjekto, pagal šio įstatymo 38 straipsnį pateikusio prašymą dėl atleidimo nuo baudos už tą patį pažeidimą, apie kurį įrodymus pagal šį straipsnį pateikė fizinis asmuo, vadovas, valdymo ar priežiūros organų narys, dalyvis ar darbuotojas;
+
+
+
+
+4) įrodymai nebuvo gauti fiziniam asmeniui atliekant savo pareigas teisėsaugos institucijose ar kitose institucijose ir įstaigose, vykdančiose teisės aktų reikalavimų laikymosi priežiūrą.
+
+
+
+
+
+
+4. Konkurencijos taryba, tik priėmusi šio įstatymo 30 straipsnio 1 dalies 1 punkte numatytą nutarimą pripažinti, kad šio straipsnio 1 dalyje nurodyti susitarimai pažeidė šio įstatymo 5 straipsnyje nustatytus reikalavimus, sprendžia, ar buvo laikomasi šiame straipsnyje nurodytų sąlygų, kad būtų galima fiziniam asmeniui skirti vienkartinę piniginę išmoką. Konkurencijos taryba nustato vienkartinės piniginės išmokos skyrimo ir mokėjimo tvarką.
+
+
+
+
+5. Jeigu sumokėjus vienkartinę piniginę išmoką paaiškėja, kad įrodymai buvo gauti dėl įvykdytos nusikalstamos veiklos, vienkartinė piniginė išmoka turi būti grąžinta.
+
+
+
+
+6. Fizinio asmens, pateikusio šio straipsnio 1 dalyje nurodytų draudžiamų susitarimų įrodymus, prašymu Konkurencijos taryba užtikrina jo konfidencialumą. Šio asmens tapatybė neatskleidžiama procedūros dalyviams, įskaitant ūkio subjektams, įtariamiems ar Konkurencijos tarybos nutarimu pripažintiems dalyvavusiais pažeidime, dėl kurio fizinis asmuo pateikė įrodymus, nebent netiesioginio asmens tapatybės atskleidimo neįmanoma išvengti šio įstatymo 29 straipsnio 2 dalyje numatytos teisės į gynybą įgyvendinimo tikslais ir apimtimi. Asmens tapatybė gali būti atskleidžiama teismui, kai reikia patikrinti to asmens pateiktus šio straipsnio 1 dalyje nurodytus draudžiamų susitarimų įrodymus. Teismas jokiais atvejais neatskleidžia kitiems asmenims šio fizinio asmens tapatybės.
+
+
+
+
+7. Šio straipsnio 1 dalyje nurodytų draudžiamų susitarimų įrodymų pateikimas Konkurencijos tarybai nelaikomas komercinės (gamybinės) paslapties, profesinės paslapties, banko paslapties, įstaigos konfidencialios informacijos ar informacijos apie privatų asmens gyvenimą atskleidimu ir fiziniam asmeniui dėl tokios informacijos pateikimo neatsiranda sutartinė ar deliktinė atsakomybė. 
+
+
+
+
+8.    Vienkartinės piniginės išmokos fiziniams asmenims mokamos iš Konkurencijos tarybai šiam tikslui skirtų Lietuvos Respublikos valstybės biudžeto asignavimų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
+ 
+
+
+
+
 39 straipsnis. Ūkio subjektams ir viešojo administravimo subjektams paskirtų sankcijų vykdymas
 
 
@@ -2118,7 +2239,9 @@ ADMINISTRACINĖ ATSAKOMYBĖ
 
 
 
-7. Jeigu viešojo administravimo subjektas neįvykdo per Konkurencijos tarybos nustatytą arba šio straipsnio 5 dalies pagrindu pratęstą terminą šio įstatymo 35 straipsnio 1 dalies 3 punkte nurodyto įpareigojimo, Konkurencijos taryba turi teisę per 20 dienų nuo termino įpareigojimui įvykdyti pabaigos kreiptis į administracinį teismą Administracinių bylų teisenos įstatymo nustatyta tvarka, prašydama panaikinti Konkurencijos įstatymo 4 straipsniui prieštaraujantį viešojo administravimo subjekto teisės aktą ar kitokį sprendimą ar pažeidimą pašalinti kitu būdu. Šiuos Konkurencijos tarybos prašymus pirmąja instancija nagrinėja Vilniaus apygardos administracinis teismas.
+7. Jeigu viešojo administravimo subjektas neįvykdo per Konkurencijos tarybos nustatytą arba šio straipsnio 5 dalies pagrindu pratęstą terminą šio įstatymo 35 straipsnio 1 dalies 4 punkte nurodyto įpareigojimo, Konkurencijos taryba turi teisę per 20 dienų nuo įpareigojimo įvykdymo termino pabaigos kreiptis į administracinį teismą Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, prašydama panaikinti šio įstatymo 4 straipsniui prieštaraujantį viešojo administravimo subjekto teisės aktą ar kitokį sprendimą ar pažeidimą pašalinti kitu būdu. Šiuos Konkurencijos tarybos prašymus pirmąja instancija nagrinėja Vilniaus apygardos administracinis teismas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
  
 
 
@@ -2533,7 +2656,10 @@ CIVILINĖS ATSAKOMYBĖS YPATUMAI
 3. Šio straipsnio 2 dalyje nurodytas ieškinio senaties terminas sustabdomas: 
 
 
-1) kai Konkurencijos taryba priima nutarimą pradėti tyrimą dėl pažeidimo, su kuriuo susijęs ieškinys dėl žalos atlyginimo. Ieškinio senaties termino sustabdymas pasibaigia praėjus vieniems metams po to, kai Konkurencijos tarybos šio įstatymo 28 straipsnio 3 dalies arba 30 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytu pagrindu priimtas nutarimas nebegali būti skundžiamas arba įsiteisėja teismo priimtas sprendimas dėl pažeidimo. Kai pažeidimą nagrinėja Europos Komisija ar kitos Europos Sąjungos valstybės narės konkurencijos institucija ar teismas, mutatis mutandis taikomos šiame punkte nurodytos ieškinio senaties termino sustabdymo taisyklės;
+1) kai Konkurencijos taryba priima nutarimą pradėti tyrimą dėl pažeidimo, su kuriuo susijęs ieškinys dėl žalos atlyginimo. Ieškinio senaties termino sustabdymas pasibaigia praėjus vieniems metams po to, kai Konkurencijos tarybos šio įstatymo 28 straipsnio 3 ir 4 dalyse arba 30 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytu pagrindu priimtas nutarimas nebegali būti skundžiamas arba įsiteisėja teismo priimtas sprendimas dėl pažeidimo. Kai pažeidimą nagrinėja Europos Komisija ar kitos Europos Sąjungos valstybės narės konkurencijos institucija ar teismas, mutatis mutandis taikomos šiame punkte nurodytos ieškinio senaties termino sustabdymo taisyklės;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
+ 
 
 
 
@@ -2749,7 +2875,9 @@ Teismas, nagrinėjantis bylą dėl žalos, padarytos dėl šio įstatymo 43 stra
 
 
 
-4. Kol Konkurencijos taryba nepriėmė vieno iš šio įstatymo 28 straipsnio 3 dalyje arba 30 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytų nutarimų, teismas negali išreikalauti ir naudoti:
+4. Kol Konkurencijos taryba nepriėmė vieno iš šio įstatymo 28 straipsnio 3 ir 4 dalyse arba 30 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytų nutarimų, teismas negali išreikalauti ir naudoti: 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
 
 
 1) informacijos, kurią asmuo parengė specialiai Konkurencijos tarybos atliekamai pažeidimų tyrimo procedūrai;
@@ -3002,3 +3130,8 @@ Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 3, 8, 9, 11 ir 12 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 15, 16, 18, 19, 22 ir 32 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 18, 22, 25, 28, 29, 35, 36, 39, 49, 53 straipsnių pakeitimo ir Įstatymo papildymo 38-1 straipsniu įstatymas
