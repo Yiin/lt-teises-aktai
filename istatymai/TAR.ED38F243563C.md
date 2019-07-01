@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-07-23
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
  
@@ -145,9 +145,10 @@ Nr. XII-2514, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20671
 
 
 
-Kiekvienos šio įstatymo 1 straipsnio 1 dalies 1–4 punktuose nustatytos valstybinės pensijos dydis bei šios pensijos dydžio ir tam pačiam asmeniui paskirtų pagal šio straipsnio 1 dalį valstybinių pensijų ir socialinio draudimo pensijų bendra suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama valstybinė pensija, Lietuvos statistikos departamento paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio 1,5 dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją mokanti institucija.
+Kiekvienos šio įstatymo 1 straipsnio 1 dalies 1–4 punktuose nustatytos valstybinės pensijos dydis (pareigūnų ir karių valstybinių pensijų – kartu su mokamu priedu už tarnybą) bei šios pensijos dydžio (pareigūnų ir karių valstybinių pensijų – kartu su mokamu priedu už tarnybą) ir tam pačiam asmeniui paskirtų pagal šio straipsnio 1 dalį valstybinių pensijų ir socialinio draudimo pensijų bendra suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama valstybinė pensija, Lietuvos statistikos departamento paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) 1,1637 dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją mokanti institucija.
 Straipsnio dalies pakeitimai:
 Nr. XII-2514, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20671
+Nr. XIII-1351, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11453
  
 
 
