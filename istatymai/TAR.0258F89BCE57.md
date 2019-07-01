@@ -13,16 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0258F89BCE57"
 
 # Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymas
 
-Suvestinė redakcija nuo 2014-12-23 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 85-3140, i. k. 1051010ISTA000X-296
  
-Nauja redakcija nuo 2009-03-01:
-Nr. X-1843, 2008-11-14, Žin. 2008, Nr. 137-5387 (2008-11-29), i. k. 1081010ISTA00X-1843
+TAR pastaba. Įstatymo Nr. XIII-1928 nuostatos taikomos kompensuojant žalą, atsiradusią dėl po šio įstatymo įsigaliojimo (2019-07-01) padarytų smurtinių nusikaltimų.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1928, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00858
+Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 pakeitimo įstatymas
  
-LIETUVOS RESPUBLIKOS
-SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMO
-ĮSTATYMAS
+Nauja redakcija nuo 2019-07-01:
+Nr. XIII-1928, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00858
+ 
+LIETUVOS RESPUBLIKOS SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMO ĮSTATYMAS
  
 2005 m. birželio 30 d. Nr. X-296
 Vilnius
@@ -30,7 +33,7 @@ Vilnius
  
 
 
-PIRMASIS SKIRSNIS 
+I SKYRIUS
 BENDROSIOS NUOSTATOS
  
 
@@ -43,7 +46,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šis įstatymas nustato priteistos smurtiniais nusikaltimais padarytos turtinės ir (ar) neturtinės žalos kompensavimą ir smurtiniais nusikaltimais padarytos turtinės ir (ar) neturtinės žalos kompensavimą avansu. Šis įstatymas nereglamentuoja smurtiniais nusikaltimais padarytos žalos atlyginimo iš nusikaltimą padariusių asmenų ar už jų veikas atsakingų asmenų.
+2. Šis įstatymas nustato smurtiniais nusikaltimais padarytos turtinės ir (ar) neturtinės žalos kompensavimą ir smurtiniais nusikaltimais padarytos turtinės ir (ar) neturtinės žalos kompensavimą avansu, Nukentėjusių nuo nusikaltimų asmenų fondo programos įgyvendinimą, valstybės reikalavimo teisių įgyvendinimą ir bendradarbiavimą su kitomis Europos Sąjungos valstybėmis narėmis kompensuojant smurtiniais nusikaltimais padarytą žalą. Šis įstatymas nereglamentuoja smurtiniais nusikaltimais padarytos žalos atlyginimo iš nusikaltimą padariusių asmenų ar už jų veikas atsakingų asmenų. 
 
 
 
@@ -59,37 +62,42 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Smurtinis nusikaltimas – Baudžiamajame kodekse numatyto nusikaltimo požymių turinti veika, kuria buvo tyčia atimta žmogaus gyvybė arba sunkiai ar nesunkiai sutrikdyta jo sveikata, arba apysunkio, sunkaus ar labai sunkaus nusikaltimo žmogaus laisvei, seksualinio apsisprendimo laisvei ar neliečiamumui požymių turinti veika. Smurtiniu nusikaltimu nelaikoma Baudžiamajame kodekse numatyto nusikaltimo požymių turinti veika, kuria žmogui buvo sukeltas fizinis skausmas, kuria žmogus buvo nežymiai sužalotas ar trumpam susargdintas. Smurtinių nusikaltimų, dėl kurių padaryta žala kompensuojama, sąrašą nustato Lietuvos Respublikos Vyriausybės įgaliota institucija.
+1. Nukentėjusių nuo nusikaltimų asmenų fondo programos vykdytojas (toliau – Fondo programos vykdytojas) – Lietuvos Respublikos Vyriausybės įgaliota institucija, įgyvendinanti Nukentėjusių nuo nusikaltimų asmenų fondo programą ir atliekanti kitas šiame įstatyme nustatytas funkcijas. 
 
 
 
 
-2. Nuo smurtinio nusikaltimo nukentėjęs asmuo (toliau – nukentėjęs asmuo) – Lietuvos Respublikos pilietis, kitos Europos Sąjungos valstybės narės pilietis, kitas Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje teisėtai nuolat gyvenantis asmuo, o Lietuvos Respublikos tarptautinėse sutartyse numatytais atvejais – kitas asmuo, kuriems padarytas smurtinis nusikaltimas.
+2. Nuo smurtinio nusikaltimo mirusio asmens išlaikytinis (toliau – išlaikytinis) – asmens, kuriam smurtiniu nusikaltimu buvo atimta gyvybė, mirties dieną išlaikomas arba tą dieną turėjęs teisę gauti iš jo išlaikymą asmuo.
 
 
 
 
-3. Nukentėjusio asmens išlaikytiniai (toliau – išlaikytiniai) – nukentėjusio asmens nepilnamečiai vaikai, įvaikiai, sutuoktinis, nedarbingi ar iš dalies darbingi tėvai arba kiti faktiniai nedarbingi ar iš dalies darbingi asmenys, kurie buvo nukentėjusio asmens išlaikomi arba turėjo teisę gauti iš jo išlaikymą jo mirties dieną, taip pat po nukentėjusio asmens mirties gimęs jo vaikas.
+3. Nuo smurtinio nusikaltimo nukentėjęs asmuo (toliau – nukentėjęs asmuo) – Lietuvos Respublikos pilietis, kitos Europos Sąjungos valstybės narės pilietis ar jo šeimos narys, kitas Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje teisėtai nuolat gyvenantis asmuo ar Lietuvos Respublikos tarptautinėse sutartyse nurodytais atvejais – kitas asmuo, kuriems padarytas smurtinis nusikaltimas, arba tokio asmens, kurio gyvybė buvo atimta smurtiniu nusikaltimu, sutuoktinis, partneris, vaikas, įvaikis, tėvas, motina, įtėvis, įmotė, išlaikytinis, jeigu jie atitinka šioje dalyje nurodytus kriterijus. 
 
 
 
 
-4. Už žalą atsakingas asmuo – smurtinį nusikaltimą padaręs asmuo arba asmuo, kuris pagal įstatymus yra atsakingas už žalą padariusio asmens veiksmus.
+4. Smurtinis nusikaltimas – Lietuvos Respublikos baudžiamajame kodekse nurodyto nusikaltimo sudėties požymių turinti veika, kuria buvo tyčia atimta žmogaus gyvybė arba sunkiai ar nesunkiai sutrikdyta jo sveikata, arba apysunkio, sunkaus ar labai sunkaus nusikaltimo žmogaus laisvei, seksualinio apsisprendimo laisvei ar neliečiamumui sudėties požymių turinti veika. Smurtinių nusikaltimų sąrašą tvirtina Fondo programos vykdytojas.
 
 
 
 
-5. Smurtiniais nusikaltimais padarytos žalos kompensavimas – smurtiniais nusikaltimais padarytos turtinės ir (ar) neturtinės žalos kompensavimas iš specialiosios Nukentėjusių nuo nusikaltimų asmenų fondo programos, kai smurtinį nusikaltimą padaręs asmuo ar už jo veiką atsakingas asmuo neatlygina priteistos žalos ar teismo patvirtintoje sutartyje dėl smurtiniu nusikaltimu padarytos žalos atlyginimo ar pašalinimo nurodytos žalos.
+5. Smurtiniu nusikaltimu padarytos žalos kompensavimas – smurtiniu nusikaltimu padarytos turtinės ir (ar) neturtinės žalos kompensavimas iš Nukentėjusių nuo nusikaltimų asmenų fondo programos lėšų, kai yra priimtas apkaltinamasis teismo nuosprendis ir smurtinį nusikaltimą padaręs asmuo ar už jo veiką atsakingas asmuo neatlygina teismo sprendimu priteistos žalos.
 
 
 
 
-6. Smurtiniais nusikaltimais padarytos žalos kompensavimas avansu – smurtiniais nusikaltimais padarytos turtinės ir (ar) neturtinės žalos kompensavimas iš specialiosios Nukentėjusių nuo nusikaltimų asmenų fondo programos, kai nėra teismo sprendimo dėl žalos atlyginimo iš smurtinį nusikaltimą padariusio asmens ar už jo veiką atsakingo asmens.
+6. Smurtiniu nusikaltimu padarytos žalos kompensavimas avansu – smurtiniu nusikaltimu padarytos turtinės ir (ar) neturtinės žalos kompensavimas iš Nukentėjusių nuo nusikaltimų asmenų fondo programos lėšų, kai nėra priimtas apkaltinamasis teismo nuosprendis.
 
 
 
 
-7. Sąvokos „turtinė žala“ ir „neturtinė žala“ šiame įstatyme suprantamos taip, kaip jos apibrėžtos Civiliniame kodekse. Pagal šį įstatymą 3 straipsnio 1 dalyje nurodytiems asmenims taip pat kompensuojamos jų turėtos bylinėjimosi (proceso) išlaidos ir vykdymo išlaidos. Už šiuos asmenis vykdymo išlaidos apmokamos Sprendimų vykdymo instrukcijos nustatyta tvarka.
+7. Už žalą atsakingas asmuo – smurtinį nusikaltimą padaręs asmuo arba smurtinio nusikaltimo padarymu įtariamas ar kaltinamas asmuo, arba asmuo, kuris pagal Lietuvos Respublikos civilinį kodeksą yra atsakingas už žalą padariusio asmens veiksmus.
+
+
+
+
+8. Sąvokos „turtinė žala“ ir „neturtinė žala“ šiame įstatyme suprantamos taip, kaip jos apibrėžtos Civiliniame kodekse. 
  
 
 
@@ -99,7 +107,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-ANTRASIS SKIRSNIS 
+II SKYRIUS
 SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS
  
 
@@ -107,12 +115,17 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS
 3 straipsnis. Asmenys, turintys teisę į smurtiniais nusikaltimais padarytos žalos kompensavimą
 
 
-1. Teisę į smurtiniais nusikaltimais padarytos turtinės ir (ar) neturtinės žalos kompensavimą šio įstatymo nustatyta tvarka turi nukentėję asmenys, kuriems teismas priteisė smurtiniu nusikaltimu padarytą turtinę ir (ar) neturtinę žalą arba patvirtino sutartį dėl šios žalos atlyginimo ar pašalinimo.
+1. Teisę į smurtiniais nusikaltimais padarytos žalos kompensavimą pagal šį įstatymą turi nukentėjęs asmuo, kuriam teismas priteisė smurtiniu nusikaltimu padarytą turtinę ir (ar) neturtinę žalą. Pagal šį įstatymą taip pat kompensuojamos nukentėjusio asmens patirtos bylinėjimosi (proceso) išlaidos, kurias priteisė teismas, ir vykdymo išlaidos.
 
 
 
 
-2. Jeigu šio straipsnio 1 dalyje nurodytas asmuo, pateikęs prašymą kompensuoti smurtiniu nusikaltimu padarytą žalą, miršta, teisė į kompensaciją paveldima Civilinio kodekso nustatyta tvarka. Teisė kreiptis dėl smurtiniu nusikaltimu padarytos žalos kompensavimo šio įstatymo nustatyta tvarka yra nepaveldima.
+2. Jeigu šio straipsnio 1 dalyje nurodytas asmuo, pateikęs prašymą kompensuoti smurtiniu nusikaltimu padarytą žalą, miršta, teisė į kompensaciją paveldima Civilinio kodekso nustatyta tvarka. 
+
+
+
+
+3. Jei teisę į smurtiniu nusikaltimu padarytos žalos kompensavimą pagal šį įstatymą turintis asmuo miršta nepateikęs prašymo dėl svarbių priežasčių ir nėra pasibaigęs prašymo pateikimo terminas, teisę kreiptis dėl smurtiniu nusikaltimu padarytos žalos kompensavimo turi šio asmens įpėdinis, atitinkantis šio įstatymo 2 straipsnio 3 dalies kriterijus.
  
 
 
@@ -131,22 +144,22 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS
 
 
 
-2) teismo priteista smurtiniu nusikaltimu padaryta žala ar teismo patvirtintoje sutartyje nurodyta smurtiniu nusikaltimu padaryta žala neatlyginta;
+2) teismo priteista smurtiniu nusikaltimu padaryta žala neatlyginta;
 
 
 
 
-3) prašymas kompensuoti smurtiniu nusikaltimu padarytą žalą pateiktas ne vėliau kaip per 10 metų nuo teismo sprendimo, kuriuo priteista smurtiniu nusikaltimu padaryta žala ar patvirtinta sutartis dėl jos atlyginimo, įsiteisėjimo, išskyrus atvejus, kai šis terminas praleistas dėl svarbių priežasčių.
+3) prašymas kompensuoti smurtiniu nusikaltimu padarytą žalą pateiktas ne vėliau kaip per 10 metų nuo teismo sprendimo, kuriuo priteista smurtiniu nusikaltimu padaryta žala, įsiteisėjimo, išskyrus atvejus, kai šis terminas praleistas dėl svarbių priežasčių. Praleisto šioje dalyje nurodyto termino atnaujinimo klausimą sprendžia teismas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
 
 
 
 
 
 
-2. Teismo priteista smurtiniu nusikaltimu padaryta žala ar teismo patvirtintoje sutartyje nurodyta smurtiniu nusikaltimu padaryta žala laikoma neatlyginta, jeigu yra visos šios sąlygos:
+2. Laikoma, kad teismo priteista smurtiniu nusikaltimu padaryta žala neatlyginta, jeigu yra visos šios sąlygos:
 
 
-1) žalos savanoriškai neatlygino už žalą atsakingas asmuo;
+1) žalos savanoriškai neatlygino už žalą atsakingas asmuo; 
 
 
 
@@ -156,15 +169,15 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS
 
 
 
-3) žala neatlyginta ir nekompensuota iš valstybės ar savivaldybių, Valstybinio socialinio draudimo fondo ir Privalomojo sveikatos draudimo fondo biudžetų, užsienio valstybių kompetentingos institucijos;
+3) už žalą atsakingo asmens atlygintos, iš už žalą atsakingo asmens išieškotos žalos, iš valstybės ar savivaldybių biudžetų, užsienio valstybių kompetentingų institucijų ar kitų asmenų kompensuotos žalos bendra suma nesiekia šio įstatymo 7 straipsnyje nustatyto maksimalaus kompensuojamos žalos dydžio.
 
 
 
 
-4) atlygintos, kompensuotos ir išieškotos žalos bendra suma nesiekia šio įstatymo 7 straipsnyje nustatyto maksimalaus kompensuojamos žalos dydžio.
+
+
+3. Smurtiniais nusikaltimais padaryta žala nekompensuojama, jeigu nukentėjęs asmuo prašyme kompensuoti smurtiniu nusikaltimu padarytą žalą pateikė melagingą informaciją apie šio straipsnio 1 dalyje nurodytas sąlygas. 
  
-
-
 
 
 
@@ -174,63 +187,13 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS
 5 straipsnis. Prašymas kompensuoti smurtiniu nusikaltimu padarytą žalą
 
 
-1. Prašymo kompensuoti smurtiniu nusikaltimu padarytą žalą formą tvirtina teisingumo ministras. Prašyme kompensuoti smurtiniu nusikaltimu padarytą žalą turi būti nurodoma:
-
-
-1) prašymą pateikusio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta;
+1. Prašymo kompensuoti smurtiniu nusikaltimu padarytą žalą formą tvirtina Fondo programos vykdytojas. 
 
 
 
 
-2) jeigu smurtiniu nusikaltimu buvo atimta nukentėjusio asmens gyvybė, – šio asmens vardas, pavardė, buvusi gyvenamoji vieta;
-
-
-
-
-3) smurtinis nusikaltimas, kuriuo padaryta žala, ir Baudžiamojo kodekso norma, pagal kurią šis smurtinis nusikaltimas kvalifikuotas;
-
-
-
-
-4) teismo sprendimo, kuriuo buvo priteista smurtiniu nusikaltimu padaryta žala, ar patvirtintos sutarties dėl šios žalos atlyginimo ar pašalinimo ir kokio dydžio žalą priteisė ar patvirtino teismas, nuorašas;
-
-
-
-
-5) asmens patvirtinimas, kad nėra atlyginta visa smurtiniu nusikaltimu padaryta žala, arba informacija apie atlygintos žalos dydį ir ją atlyginusius asmenis, jeigu dalis žalos buvo atlyginta;
-
-
-
-
-6) sąskaitos banke rekvizitai arba prašymas išmokėti žalos atlyginimą grynaisiais pinigais;
-
-
-
-
-7) patvirtinimas, kad visi prašyme nurodyti duomenys yra teisingi.
-
-
-
-
-
-
-2. Kartu su prašymu kompensuoti smurtiniu nusikaltimu padarytą žalą asmuo turi pateikti:
-
-
-1) asmens tapatybę patvirtinantį dokumentą;
-
-
-
-
-2) įsiteisėjusio teismo sprendimo, kuriuo buvo priteista smurtiniu nusikaltimu padaryta turtinė ir (ar) neturtinė žala, arba patvirtintos sutarties dėl šios žalos atlyginimo ar pašalinimo nuorašą;
-
-
-
-
-3) antstolio surašytą aktą, kad žala neišieškota dėl Civilinio proceso kodekso 631 straipsnio 1 dalies 2, 3, 4, 6 ar 9 punkte nurodytų aplinkybių, arba antstolio surašytą teisingumo ministro patvirtintos formos pažymą, kad žala, neviršijanti šio įstatymo 7 straipsnyje nustatytų kompensuojamos žalos dydžių, neišieškota dėl objektyvių priežasčių, išskyrus atvejus, kai už žalą atsakingas asmuo yra miręs.
+2. Kartu su prašymu kompensuoti smurtiniu nusikaltimu padarytą žalą asmuo turi pateikti šio įstatymo 4 straipsnio 1 dalyje nurodytas sąlygas patvirtinančius dokumentus. Šių dokumentų sąrašą tvirtina Fondo programos vykdytojas. 
  
-
-
 
 
 
@@ -240,87 +203,32 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS
 6 straipsnis. Prašymų kompensuoti smurtiniais nusikaltimais padarytą žalą nagrinėjimas
 
 
-1. Prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą nagrinėja ir sprendimus dėl smurtiniais nusikaltimais padarytos žalos kompensavimo priima Lietuvos Respublikos teisingumo ministerija (toliau – Teisingumo ministerija) arba jos įgaliotos institucijos. Šios institucijos turi teisę gauti iš teismo, teisėsaugos institucijų ar kitų asmenų sprendimams dėl smurtiniais nusikaltimais padarytos žalos kompensavimo priimti reikalingą informaciją.
+1. Prašymai kompensuoti smurtiniais nusikaltimais padarytą žalą nagrinėjami ir sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo priimami Fondo programos vykdytojo nustatyta tvarka. 
 
 
 
 
-2. Jeigu prašyme kompensuoti smurtiniu nusikaltimu padarytą žalą nurodyti ne visi duomenys arba kartu su prašymu pateikiami ne visi šio įstatymo 5 straipsnio 2 dalyje nurodyti dokumentai, nustatomas terminas trūkumams pašalinti ir apie tai pranešama prašymą pateikusiam asmeniui. Jeigu per nustatytą terminą trūkumai nepašalinami, prašymas kompensuoti smurtiniu nusikaltimu padarytą žalą nenagrinėjamas.
+2. Fondo programos vykdytojas, siekdamas priimti sprendimą dėl smurtiniais nusikaltimais padarytos žalos kompensavimo, turi teisę tvarkyti šiuos nukentėjusio asmens ir už žalą atsakingo asmens duomenis: asmens vardą, pavardę, gimimo datą, asmens kodą, pilietybę, gyvenamąją vietą, giminystės ryšį, kontaktinius duomenis, mokėjimo sąskaitos rekvizitus, informaciją apie padarytą smurtinį nusikaltimą, informaciją apie asmens teistumą, informaciją apie nukentėjusiam asmeniui iš valstybės ar savivaldybių biudžetų, užsienio valstybių kompetentingų institucijų ar kitų asmenų kompensuotą žalą ir kitą informaciją, reikalingą nustatyti, ar egzistuoja šiame įstatyme nustatytos smurtiniais nusikaltimais padarytos žalos kompensavimo sąlygos. 
 
 
 
 
-3. Motyvuotas sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo – sprendimas kompensuoti žalą (išmokėti piniginę kompensaciją) arba sprendimas atsisakyti kompensuoti žalą – priimamas ne vėliau kaip per mėnesį nuo prašymo kompensuoti smurtiniu nusikaltimu padarytą žalą ir šio įstatymo 5 straipsnio 2 dalyje nurodytų dokumentų gavimo dienos.
+3. Fondo programos vykdytojas turi teisę neatlygintinai gauti iš teismo, prokuratūros, ikiteisminio tyrimo įstaigų, kitų valstybės ir savivaldybių institucijų, užsienio valstybių kompetentingų institucijų ar kitų asmenų sprendimams dėl smurtiniais nusikaltimais padarytos žalos kompensavimo priimti ar valstybės regreso teisei įgyvendinti reikalingą informaciją, nurodytą šio straipsnio 2 dalyje, ir ją patvirtinančius dokumentus. Šioje dalyje nurodyti subjektai prašomą informaciją ir ją patvirtinančius dokumentus privalo pateikti per Fondo programos vykdytojo nurodytą terminą. Šis terminas negali būti trumpesnis negu 5 darbo dienos. Gautus asmens duomenis Fondo programos vykdytojas saugo 10 metų ir naikina pasibaigus nustatytam saugojimo terminui.
 
 
 
 
-4. Jeigu baudžiamoji byla atnaujinama ar yra kitų svarbių aplinkybių, dėl kurių negalima priimti sprendimo dėl smurtiniu nusikaltimu padarytos žalos kompensavimo, asmens prašymo kompensuoti smurtiniu nusikaltimu padarytą žalą nagrinėjimas motyvuotu sprendimu sustabdomas iki baudžiamojo proceso pabaigos ar kitų svarbių aplinkybių, dėl kurių negalima priimti sprendimo dėl žalos kompensavimo, išnykimo.
+4. Motyvuotas sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo priimamas ne vėliau kaip per 20 darbo dienų nuo prašymo kompensuoti smurtiniu nusikaltimu padarytą žalą ir visų šio įstatymo 5 straipsnio 2 dalyje nurodytų dokumentų gavimo dienos.
 
 
 
 
-5. Sprendime dėl smurtiniu nusikaltimu padarytos žalos kompensavimo turi būti nurodyta:
+5. Sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo per 3 darbo dienas nuo priėmimo išsiunčiamas nukentėjusiam asmeniui, pateikusiam prašymą kompensuoti smurtiniu nusikaltimu padarytą žalą, ar jo atstovui. Sprendimo dėl smurtiniu nusikaltimu padarytos žalos kompensavimo kopija per 3 darbo dienas nuo šio sprendimo priėmimo taip pat išsiunčiama asmeniui, iš kurio teismas priteisė atlyginti smurtiniu nusikaltimu padarytą žalą, ir antstoliui, jeigu šis vykdo teismo sprendimą, kuriuo buvo priteista atlyginti smurtiniu nusikaltimu padarytą žalą, siekiant informuoti, kad valstybė įgijo regreso teisę į išmokėtą sumą, ir įgyvendinti šio įstatymo 14 straipsnio 1 ir 2 dalyse numatytas valstybės reikalavimo teises.
 
 
-1) sprendimo priėmimo data ir vieta;
 
 
-
-
-2) sprendimą priėmusios institucijos pavadinimas;
-
-
-
-
-3) sprendimą priėmusio asmens vardas, pavardė ir pareigos;
-
-
-
-
-4) asmens, kuris pateikė prašymą kompensuoti smurtiniu nusikaltimu padarytą žalą, vardas, pavardė ir asmens kodas;
-
-
-
-
-5) smurtinis nusikaltimas, kuriuo buvo padaryta žala;
-
-
-
-
-6) teismo sprendimas, kuriuo buvo priteista smurtiniu nusikaltimu padaryta žala ar patvirtinta sutartis dėl šios žalos atlyginimo ar pašalinimo;
-
-
-
-
-7) avansu už smurtiniu nusikaltimu padarytą žalą išmokėta kompensacijos suma, jeigu asmuo ją buvo gavęs;
-
-
-
-
-8) smurtiniu nusikaltimu padarytos žalos kompensavimo arba atsisakymo kompensuoti šią žalą pagrindai;
-
-
-
-
-9) kompensuojamos smurtiniu nusikaltimu padarytos žalos dydis – konkreti pinigų suma;
-
-
-
-
-10) sprendimo apskundimo tvarka ir terminai.
-
-
-
-
-
-
-6. Priimtas sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo ne vėliau kaip per 3 darbo dienas išsiunčiamas asmeniui, pateikusiam prašymą kompensuoti smurtiniu nusikaltimu padarytą žalą. Be to, sprendimo nuorašas išsiunčiamas asmeniui, iš kurio teismas priteisė smurtiniu nusikaltimu padarytą žalą ar kuris teismo patvirtinta sutartimi įsipareigojo šią žalą atlyginti, ir antstoliui, jeigu šis vykdo teismo sprendimą, kuriuo buvo priteista smurtiniu nusikaltimu padaryta žala.
-
-
-
-
-7. Sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
+6. Sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo gali būti skundžiami Vilniaus apygardos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
  
 
 
@@ -331,58 +239,52 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS
 7 straipsnis. Kompensacijos dydis
 
 
-1. Pagal šį įstatymą kompensuojama teismo nustatyto dydžio turtinė ir neturtinė žala, neviršijanti šiame straipsnyje nustatytų dydžių.
+1. Pagal šį įstatymą kompensuojama smurtiniais nusikaltimais padaryta teismo nustatyto dydžio turtinė ir (ar) neturtinė žala, neviršijanti šiame straipsnyje nustatytų dydžių. Į šio straipsnio 2 dalyje nustatytą kompensuojamos turtinės žalos dydį įskaičiuojamos teismo priteistos bylinėjimosi (proceso) išlaidos. Vykdymo išlaidos į šiame straipsnyje nustatytus kompensuojamos žalos dydžius neįskaičiuojamos.
 
 
 
 
-2. Šio įstatymo 3 straipsnio 1 dalyje nurodytiems asmenims, taip pat nukentėjusių asmenų, kurių gyvybė buvo atimta smurtiniais nusikaltimais, sutuoktiniams, vaikams, įvaikiams, tėvams, įtėviams ir išlaikytiniams kompensuojamos turtinės žalos dydis negali viršyti:
+2. Šio įstatymo 3 straipsnio 1 dalyje nurodytiems asmenims kompensuojamos turtinės žalos dydis negali viršyti:
 
 
-1) 100 minimaliųjų gyvenimo lygių (toliau – MGL), jeigu smurtiniu nusikaltimu atimta žmogaus gyvybė;
-
-
-
-
-2) 80 MGL, jeigu smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata arba kitu, negu nurodyta šios dalies 1 punkte, smurtiniu nusikaltimu padaryta žala nepilnamečiui; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1419, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20437
- 
+1) 100 bazinių socialinių išmokų (toliau – BSI), kai smurtiniu nusikaltimu atimta žmogaus gyvybė;
 
 
 
 
-3) 60 MGL, jeigu padarytas kitas smurtinis nusikaltimas.
+2) 80 BSI, kai smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata arba kitu, negu nurodyta šios dalies 1 punkte, smurtiniu nusikaltimu padaryta žala nepilnamečiui;
 
 
 
 
-
-
-3. Šio įstatymo 3 straipsnio 1 dalyje nurodytiems asmenims, taip pat nukentėjusių asmenų, kurių gyvybė buvo atimta smurtiniais nusikaltimais, sutuoktiniams, vaikams, įvaikiams, tėvams, įtėviams ir išlaikytiniams kompensuojamos neturtinės žalos dydis negali viršyti:
-
-
-1) 120 MGL, jeigu smurtiniu nusikaltimu atimta žmogaus gyvybė;
-
-
-
-
-2) 100 MGL, jeigu smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata arba kitu, negu nurodyta šios dalies 1 punkte, smurtiniu nusikaltimu padaryta žala nepilnamečiui;
-Straipsnio punkto pakeitimai:
-Nr. XII-1419, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20437
- 
-
-
-
-
-3) 80 MGL, jeigu padarytas kitas smurtinis nusikaltimas.
+3) 60 BSI, kai padarytas kitas, negu nurodyta šios dalies 1 ir 2 punktuose, smurtinis nusikaltimas. 
 
 
 
 
 
 
-4. Jeigu smurtiniu nusikaltimu buvo atimta žmogaus gyvybė ir teismas priteisė šiuo nusikaltimu padarytą turtinę ir (ar) neturtinę žalą arba patvirtino sutartį dėl šios žalos atlyginimo ar pašalinimo keliems asmenims, ir bendra žalos suma viršija šio straipsnio 2 dalies 1 punkte ir (ar) šio straipsnio 3 dalies 1 punkte nurodytą sumą, kiekvienam asmeniui išmokama kompensacijos dalis proporcinga jam priteistai ar teismo patvirtintoje sutartyje nurodytai žalos sumai.
+3. Šio įstatymo 3 straipsnio 1 dalyje nurodytiems asmenims kompensuojamos neturtinės žalos dydis negali viršyti:
+
+
+1) 120 BSI, kai smurtiniu nusikaltimu atimta žmogaus gyvybė;
+
+
+
+
+2) 100 BSI, kai smurtiniu nusikaltimu sunkiai sutrikdyta žmogaus sveikata arba kitu, negu nurodyta šios dalies 1 punkte, smurtiniu nusikaltimu padaryta žala nepilnamečiui; 
+
+
+
+
+3) 80 BSI, kai padarytas kitas, negu nurodyta šios dalies 1 ir 2 punktuose, smurtinis nusikaltimas.
+
+
+
+
+
+
+4. Jeigu smurtiniu nusikaltimu buvo atimta žmogaus gyvybė ir teismas priteisė šiuo nusikaltimu padarytą turtinę ir (ar) neturtinę žalą, ir bendra žalos suma viršija šio straipsnio 2 dalies 1 punkte ir (ar) šio straipsnio 3 dalies 1 punkte nurodytą sumą, kiekvienam asmeniui išmokama kompensacijos dalis, proporcinga jam priteistai žalos sumai.
 
 
 
@@ -392,7 +294,7 @@ Nr. XII-1419, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20437
 
 
 
-6. Kompensacija mažinama avansu kompensuotos žalos suma, jeigu teismo sprendime neatsižvelgta į šią aplinkybę.
+6. Kompensacija mažinama pagal šį įstatymą avansu kompensuotos, už žalą atsakingo asmens atlygintos ar iš jo išieškotos, iš valstybės ar savivaldybių biudžetų, užsienio valstybių kompetentingų institucijų ar kitų asmenų kompensuotos žalos suma. 
  
 
 
@@ -402,7 +304,7 @@ Nr. XII-1419, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20437
 
 
 
-TREČIASIS SKIRSNIS 
+III SKYRIUS
 SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS AVANSU
  
 
@@ -410,25 +312,15 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS AVANSU
 8 straipsnis. Smurtiniais nusikaltimais padarytos žalos kompensavimo avansu sąlygos
 
 
-1. Teisę į smurtiniais nusikaltimais padarytos turtinės ir (ar) neturtinės žalos kompensaciją avansu šio įstatymo nustatyta tvarka turi:
-
-
-1) nukentėję asmenys, kuriems padaryti smurtiniai nusikaltimai;
+1. Teisę į smurtiniais nusikaltimais padarytos turtinės ir (ar) neturtinės žalos kompensavimą avansu pagal šį įstatymą turi nukentėjęs asmuo, išskyrus šio straipsnio 4 dalyje nurodytus atvejus. 
 
 
 
 
-2) nukentėjusių asmenų, kurių gyvybė buvo atimta smurtiniais nusikaltimais, sutuoktiniai, vaikai, įvaikiai, tėvai, įtėviai ir išlaikytiniai.
+2. Žala šio straipsnio 1 dalyje nurodytiems asmenims kompensuojama avansu, jeigu yra visos šios sąlygos:
 
 
-
-
-
-
-2. Smurtiniais nusikaltimais padaryta žala šio straipsnio 1 dalyje nurodytiems asmenims kompensuojama avansu, jeigu yra visos šios sąlygos:
-
-
-1) vyksta baudžiamasis procesas dėl smurtinio nusikaltimo ir asmuo yra pripažintas civiliniu ieškovu arba įsiteisėjusiu teismo sprendimu nustatyta, kad buvo padarytas smurtinis nusikaltimas, tačiau nebuvo pareikštas ieškinys dėl smurtiniu nusikaltimu padarytos žalos atlyginimo ar ieškinys paliktas nenagrinėtas, arba nustatyta Baudžiamojo proceso kodekso 3 straipsnio 1 dalies 3, 4 ar 7 punkte nurodyta aplinkybė;
+1) vyksta baudžiamasis procesas dėl smurtinio nusikaltimo ir asmuo yra pripažintas civiliniu ieškovu arba įsiteisėjusiu teismo sprendimu konstatuota, kad smurtinį nusikaltimą padarė nepakaltinamas, ribotai pakaltinamas asmuo ar asmuo, kuriam po nusikalstamos veikos padarymo sutriko psichika ir dėl to jis negali suvokti savo veiksmų esmės ar jų valdyti, arba nustatyta Lietuvos Respublikos baudžiamojo proceso kodekso 3 straipsnio 1 dalies 4 ar 7 punkte, 31 straipsnio 1 dalyje arba 32 straipsnio 2 dalyje nurodyta aplinkybė;
 
 
 
@@ -438,37 +330,24 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS AVANSU
 
 
 
-3) už žalą atsakingas asmuo savanoriškai neatlygino turtinės žalos arba atlygintos, kompensuotos ir išieškotos žalos bendra suma nesiekia šio įstatymo 7 straipsnyje nustatyto maksimalaus kompensuojamos žalos dydžio;
+3) už žalą atsakingo asmens atlygintos, iš už žalą atsakingo asmens išieškotos, iš valstybės ar savivaldybių biudžetų, užsienio valstybių kompetentingų institucijų ar kitų asmenų kompensuotos žalos bendra suma nesiekia šio įstatymo 11 straipsnyje nustatyto maksimalaus kompensuojamos žalos dydžio;
 
 
 
 
-4) nėra nustatyta šio straipsnio 3 dalyje nurodytų aplinkybių.
+4) prašymas avansu kompensuoti smurtiniu nusikaltimu padarytą žalą pateiktas ne vėliau kaip per 10 metų nuo smurtinio nusikaltimo padarymo dienos, išskyrus atvejus, kai šis terminas praleistas dėl svarbių priežasčių. Praleisto šiame punkte nurodyto termino atnaujinimo klausimą sprendžia teismas Civilinio proceso kodekso nustatyta tvarka.
 
 
 
 
 
 
-3. Teisė į smurtiniu nusikaltimu padarytos žalos kompensavimą avansu neatsiranda, jeigu:
-
-
-1) pradėtas nukentėjusio asmens baudžiamasis persekiojimas dėl smurtinio nusikaltimo padarymo;
+3. Jeigu smurtiniu nusikaltimu buvo atimta žmogaus gyvybė ir bent vienas iš nuo to nusikaltimo nukentėjusių asmenų įgijo teisę į smurtiniais nusikaltimais padarytos žalos kompensavimą pagal šio įstatymo II skyriuje nustatytas sąlygas, kiti nuo tos pačios veikos nukentėję asmenys netenka teisės į smurtiniu nusikaltimu padarytos turtinės ir (ar) neturtinės žalos kompensavimą avansu. Šiems asmenims žala gali būti kompensuojama šio įstatymo II skyriuje nustatytomis sąlygomis. 
 
 
 
 
-2) nukentėjęs asmuo smurtinio nusikaltimo padarymo metu turėjo neišnykusį ar nepanaikintą teistumą už smurtinį nusikaltimą;
-
-
-
-
-3) smurtinio nusikaltimo padarymo metu nukentėjusiam asmeniui buvo taikomi teismo įpareigojimai pagal Organizuoto nusikalstamumo užkardymo įstatymą;
-
-
-
-
-4) asmuo piktnaudžiauja teise į smurtiniu nusikaltimu padarytos žalos kompensavimą avansu.
+4. Žala avansu nekompensuojama, jeigu nukentėjęs asmuo prašyme avansu kompensuoti smurtiniu nusikaltimu padarytą žalą pateikė melagingą informaciją apie šio straipsnio 2 dalyje nurodytas sąlygas. 
  
 
 
@@ -476,78 +355,16 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS AVANSU
 
 
 
+9 straipsnis. Prašymas avansu kompensuoti smurtiniu nusikaltimu padarytą žalą 
 
 
-9 straipsnis. Prašymas avansu kompensuoti smurtiniu nusikaltimu padarytą žalą
-
-
-1. Prašymo avansu kompensuoti smurtiniu nusikaltimu padarytą žalą formą tvirtina teisingumo ministras. Prašyme avansu kompensuoti smurtiniu nusikaltimu padarytą žalą turi būti nurodoma:
-
-
-1) prašymą pateikusio asmens vardas, pavardė, asmens kodas, gyvenamoji vieta, taip pat kiti žinomi nuo to paties smurtinio nusikaltimo nukentėję asmenys;
+1. Prašymo avansu kompensuoti smurtiniu nusikaltimu padarytą žalą formą tvirtina Fondo programos vykdytojas. 
 
 
 
 
-2) jeigu smurtiniu nusikaltimu buvo atimta nukentėjusio asmens gyvybė, – šio asmens vardas, pavardė, buvusi gyvenamoji vieta;
-
-
-
-
-3) smurtinis nusikaltimas, kuriuo padaryta žala, šio nusikaltimo padarymo aplinkybės, Baudžiamojo kodekso norma, pagal kurią šis smurtinis nusikaltimas kvalifikuojamas;
-
-
-
-
-4) ikiteisminį tyrimą dėl smurtinio nusikaltimo atliekanti (atlikusi) institucija ir (ar) baudžiamąją bylą nagrinėjantis (išnagrinėjęs) teismas;
-
-
-
-
-5) kokio dydžio turtinę žalą prašoma kompensuoti;
-
-
-
-
-6) asmens patvirtinimas, kad nėra atlyginta visa smurtiniu nusikaltimu padaryta žala, ir informacija apie atlygintos žalos dydį ir ją atlyginusius asmenis, jeigu dalis žalos buvo atlyginta;
-
-
-
-
-7) sąskaitos banke rekvizitai arba prašymas išmokėti kompensaciją grynaisiais pinigais;
-
-
-
-
-8) patvirtinimas, kad visi prašyme nurodyti duomenys yra teisingi.
-
-
-
-
-
-
-2. Kartu su prašymu avansu kompensuoti smurtiniu nusikaltimu padarytą žalą asmuo turi pateikti: 
-
-
-1) asmens tapatybę patvirtinantį dokumentą;
-
-
-
-
-2) turtinės žalos dydį pagrindžiančius dokumentus;
-
-
-
-
-3) nutarimą ar nutartį, kuria asmuo yra pripažintas civiliniu ieškovu, arba įsiteisėjusį teismo sprendimą, kuriuo nustatyta, kad padarytas smurtinis nusikaltimas, tačiau nėra priteisiamas žalos atlyginimas, arba procesinio sprendimo, kad baudžiamasis procesas nutrauktas dėl Baudžiamojo proceso kodekso 3 straipsnio 1 dalies 3, 4 ir 7 punktuose nurodytų aplinkybių, nuorašas;
-
-
-
-
-4) santuokos, giminystės ar išlaikymo faktą patvirtinančius dokumentus, jeigu prašymą pateikia šio įstatymo 8 straipsnio 1 dalies 2 punkte nurodytas asmuo.
+2. Kartu su prašymu avansu kompensuoti smurtiniu nusikaltimu padarytą žalą asmuo turi pateikti šio įstatymo 8 straipsnio 2 dalyje nurodytas sąlygas patvirtinančius dokumentus. Šių dokumentų sąrašą tvirtina Fondo programos vykdytojas.
  
-
-
 
 
 
@@ -557,72 +374,32 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS AVANSU
 10 straipsnis. Prašymų avansu kompensuoti smurtiniais nusikaltimais padarytą žalą nagrinėjimas
 
 
-1. Prašymus avansu kompensuoti smurtiniais nusikaltimais padarytą žalą nagrinėja ir sprendimus dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu priima Teisingumo ministerija ar jos įgaliotos institucijos. Šios institucijos turi teisę gauti iš teismo, teisėsaugos institucijų ar kitų asmenų sprendimams dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu priimti reikalingą informaciją.
+1. Prašymai avansu kompensuoti smurtiniais nusikaltimais padarytą žalą nagrinėjami ir sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu priimami Fondo programos vykdytojo nustatyta tvarka. 
 
 
 
 
-2. Jeigu prašyme avansu kompensuoti smurtiniu nusikaltimu padarytą žalą nurodyti ne visi duomenys arba pateikiami ne visi šio įstatymo 9 straipsnio 2 dalyje nurodyti dokumentai, nustatomas terminas trūkumams pašalinti ir apie tai pranešama prašymą pateikusiam asmeniui. Jeigu per nustatytą terminą trūkumai nepašalinami, prašymas avansu kompensuoti smurtiniu nusikaltimu padarytą žalą nenagrinėjamas.
+2. Fondo programos vykdytojas, siekdamas priimti sprendimus dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu, turi teisę tvarkyti šiuos nukentėjusio asmens ir už žalą atsakingo asmens duomenis: asmens vardą, pavardę, gimimo datą, asmens kodą, pilietybę, gyvenamąją vietą, giminystės ryšį, kontaktinius duomenis, mokėjimo sąskaitos rekvizitus, informaciją apie padarytą smurtinį nusikaltimą, informaciją apie asmens teistumą, informaciją apie nukentėjusiam asmeniui iš valstybės ar savivaldybių biudžetų, užsienio valstybių kompetentingų institucijų ar kitų asmenų kompensuotą žalą ir kitą informaciją, reikalingą nustatyti, ar egzistuoja šiame įstatyme nustatytos smurtiniais nusikaltimais padarytos žalos kompensavimo avansu sąlygos. 
 
 
 
 
-3. Motyvuotas sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo avansu – sprendimas avansu kompensuoti žalą (išmokėti piniginę kompensaciją) arba sprendimas atsisakyti avansu kompensuoti žalą – priimamas ne vėliau kaip per mėnesį nuo prašymo avansu kompensuoti smurtiniu nusikaltimu padarytą žalą ir šio įstatymo 9 straipsnio 2 dalyje nurodytų dokumentų gavimo dienos.
+3. Fondo programos vykdytojas turi teisę neatlygintinai gauti iš teismo, prokuratūros, ikiteisminio tyrimo įstaigų, kitų valstybės ir savivaldybių institucijų, užsienio valstybių kompetentingų institucijų ar kitų asmenų sprendimams dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu priimti ar valstybės regreso teisei įgyvendinti reikalingą informaciją, nurodytą šio straipsnio 2 dalyje, ir ją patvirtinančius dokumentus. Šioje dalyje nurodyti subjektai prašomą informaciją ir ją patvirtinančius dokumentus privalo pateikti per Fondo programos vykdytojo nurodytą terminą. Šis terminas negali būti trumpesnis negu 5 darbo dienos. Gautus asmens duomenis Fondo programos vykdytojas saugo 10 metų ir pasibaigus šiam saugojimo terminui sunaikina. 
 
 
 
 
-4. Sprendime dėl smurtiniu nusikaltimu padarytos žalos kompensavimo avansu turi būti nurodyta:
-
-
-1) sprendimo priėmimo data ir vieta;
+4. Motyvuotas sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo avansu priimamas ne vėliau kaip per 20 darbo dienų nuo prašymo avansu kompensuoti smurtiniu nusikaltimu padarytą žalą ir visų šio įstatymo 9 straipsnio 2 dalyje nurodytų dokumentų gavimo dienos.
 
 
 
 
-2) sprendimą priėmusios institucijos pavadinimas;
+5. Sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo avansu per 3 darbo dienas išsiunčiamas nukentėjusiam asmeniui, pateikusiam prašymą avansu kompensuoti smurtiniu nusikaltimu padarytą žalą, ar jo atstovui. Taip pat, siekiant gyvendinti valstybės reikalavimo teises, numatytas šio įstatymo 14 straipsnio 1 ir 2 dalyse, sprendimo dėl smurtiniu nusikaltimu padarytos žalos kompensavimo avansu kopija per 3 darbo dienas išsiunčiama prokurorui, kurio žinioje yra ar buvo byla. Prokuroras, kuriam buvo išsiųsta sprendimo dėl smurtiniu nusikaltimu padarytos žalos kompensavimo avansu kopija, privalo pagal kompetenciją informuoti Fondo programos vykdytoją apie nusikalstamos veikos kvalifikavimo pakeitimą, ikiteisminio tyrimo nutraukimą, baudžiamosios bylos perdavimą teismui ar įsiteisėjusio teismo nuosprendžio (nutarties) priėmimą ne vėliau kaip per 20 darbo dienų nuo tam tikro procesinio sprendimo priėmimo.
 
 
 
 
-3) sprendimą priėmusio asmens vardas, pavardė ir pareigos;
-
-
-
-
-4) asmens, kuris pateikė prašymą avansu kompensuoti smurtiniu nusikaltimu padarytą žalą, vardas, pavardė ir asmens kodas;
-
-
-
-
-5) trumpas smurtinio nusikaltimo ir juo padarytos žalos apibūdinimas;
-
-
-
-
-6) smurtiniu nusikaltimu padarytos žalos kompensavimo avansu arba atsisakymo avansu kompensuoti smurtiniu nusikaltimu padarytą žalą pagrindai;
-
-
-
-
-7) avansu kompensuojamos žalos dydis – konkreti pinigų suma;
-
-
-
-
-8) sprendimo apskundimo tvarka ir terminai.
-
-
-
-
-
-
-5. Priimtas sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo avansu ne vėliau kaip per 3 darbo dienas išsiunčiamas asmeniui, pateikusiam prašymą avansu kompensuoti smurtiniu nusikaltimu padarytą žalą. Be to, šio sprendimo nuorašas išsiunčiamas ikiteisminio tyrimo pareigūnui, prokurorui ar teismui, kurio žinioje yra byla.
-
-
-
-
-6. Sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
+6. Sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu gali būti skundžiami Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
  
 
 
@@ -633,10 +410,10 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS AVANSU
 11 straipsnis. Avansu mokamos kompensacijos dydis
 
 
-1. Avansu kompensuojama tik ši smurtiniais nusikaltimais padaryta turtinė žala:
+1. Avansu kompensuojama tik ši smurtiniais nusikaltimais padaryta turtinė žala: 
 
 
-1) su sveikatos grąžinimu susijusios išlaidos (gydymo, papildomo maitinimo, vaistų įsigijimo, protezavimo, sužaloto asmens priežiūros, specialių transporto priemonių įsigijimo, sužaloto asmens perkvalifikavimo išlaidos ir kitos sveikatai grąžinti būtinos išlaidos);
+1) su sveikatos grąžinimu susijusios būtinos išlaidos;
 
 
 
@@ -646,54 +423,34 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS AVANSU
 
 
 
-3) 12 MGL neviršijančios laidojimo išlaidos, jeigu smurtiniu nusikaltimu buvo atimta žmogaus gyvybė;
+3) 12 BSI neviršijančios laidojimo išlaidos, jeigu smurtiniu nusikaltimu buvo atimta žmogaus gyvybė. Šios išlaidos mažinamos gautos laidojimo pašalpos dydžiu;
 
 
 
 
-4) negautos pajamos, kurias gavo ar turėjo teisę gauti išlaikytiniai mirusiajam esant gyvam, jeigu smurtiniu nusikaltimu buvo atimta žmogaus gyvybė.
-
-
-
-
-
-
-2. Avansu dėl turtinės žalos padarymo mokama kompensacija negali viršyti pusės šio įstatymo 7 straipsnio 2 dalyje nustatytų dydžių, išskyrus šio straipsnio 3 dalyje nurodytus atvejus. Turtinės žalos dydis nustatomas pagal turtinės žalos dydį pagrindžiančius dokumentus.
-
-
-
-
-3. Avansu dėl turtinės žalos padarymo mokama kompensacija, neviršijanti šio įstatymo 7 straipsnio 2 dalyje nustatytų dydžių, jeigu:
-
-
-1) baudžiamasis procesas dėl smurtinio nusikaltimo vyksta ilgiau kaip 3 metus ir asmuo yra pripažintas civiliniu ieškovu;
-
-
-
-
-2) įsiteisėjusiu teismo sprendimu nustatyta, kad buvo padarytas smurtinis nusikaltimas, tačiau nebuvo pareikštas ieškinys dėl smurtiniu nusikaltimu padarytos žalos atlyginimo arba ieškinys paliktas nenagrinėtas;
-
-
-
-
-3) dėl už žalą atsakingo asmens mirties ar kitų svarbių priežasčių iš jo negali būti priteista smurtiniu nusikaltimu padaryta žala.
+4) negautos pajamos, kurias gavo ar turėjo teisę gauti asmens, kurio gyvybė buvo atimta smurtiniu nusikaltimu, sutuoktinis, partneris, vaikas, įvaikis, tėvas, motina, įtėvis, įmotė, išlaikytinis mirusiajam esant gyvam. 
 
 
 
 
 
 
-4. Avansu dėl neturtinės žalos padarymo mokama kompensacija sudaro pusę šio įstatymo 7 straipsnio 3 dalyje nustatytų dydžių.
+2. Avansu dėl turtinės žalos padarymo mokama kompensacija negali viršyti pusės šio įstatymo 7 straipsnio 2 dalyje nustatytų dydžių ir civilinio ieškinio dydžio. Avansu kompensuojamos turtinės žalos dydis nustatomas pagal turtinės žalos dydį pagrindžiančius dokumentus.
 
 
 
 
-5. Jeigu smurtiniu nusikaltimu buvo atimta žmogaus gyvybė ir teisę į šiuo nusikaltimu padarytos žalos kompensaciją turi daugiau negu vienas iš šio įstatymo 8 straipsnio 1 dalies 2 punkte nurodytų asmenų, kompensacija dėl neturtinės žalos padarymo dalijama lygiomis dalimis visiems asmenims, turintiems teisę į žalos kompensavimą avansu.
+3. Avansu dėl neturtinės žalos padarymo mokama kompensacija sudaro pusę šio įstatymo 7 straipsnio 3 dalyje nustatytų dydžių, tačiau negali viršyti civilinio ieškinio dydžio. 
 
 
 
 
-6. Jeigu šio įstatymo 8 straipsnio 1 ar 2 dalyje nurodytas asmuo gavo pašalpą ar kitas iš valstybės ar savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto, Privalomojo sveikatos draudimo fondo biudžeto mokamas kompensacijas, draudimo išmokas, taip pat užsienio valstybių kompetentingų institucijų išmokas, avansu mokama kompensacija atitinkamai mažinama.
+4. Jeigu smurtiniu nusikaltimu buvo atimta žmogaus gyvybė ir teisę į tuo nusikaltimu padarytos žalos kompensavimą avansu turi daugiau negu vienas nukentėjęs asmuo, avansu dėl neturtinės žalos padarymo mokama kompensacija dalijama lygiomis dalimis visiems asmenims, turintiems teisę į žalos kompensavimą avansu. 
+
+
+
+
+5. Avansu mokama kompensacija mažinama už žalą atsakingo asmens atlygintos ar iš jo išieškotos, iš valstybės ar savivaldybių biudžetų, užsienio valstybių kompetentingų institucijų ar kitų asmenų kompensuotos žalos suma.
  
 
 
@@ -703,25 +460,20 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS AVANSU
 
 
 
-KETVIRTASIS SKIRSNIS
-SPECIALIOJI NUKENTĖJUSIŲ NUO NUSIKALTIMŲ ASMENŲ FONDO PROGRAMA
+IV SKYRIUS
+NUKENTĖJUSIŲ NUO NUSIKALTIMŲ ASMENŲ FONDO PROGRAMA
  
 
 
-12 straipsnis. Specialioji Nukentėjusių nuo nusikaltimų asmenų fondo programa, jos lėšos
+12 straipsnis. Nukentėjusių nuo nusikaltimų asmenų fondo programa ir jos lėšos 
 
 
-1. Specialiosios Nukentėjusių nuo nusikaltimų asmenų fondo programos tikslas – užtikrinti smurtiniais nusikaltimais padarytos žalos kompensavimą pagal šį įstatymą.
-
-
-
-
-2. Specialiąją Nukentėjusių nuo nusikaltimų asmenų fondo programą (toliau – specialioji programa) įgyvendina Teisingumo ministerija.
+1. Nukentėjusių nuo nusikaltimų asmenų fondo programa – strateginio veiklos plano programa ar jos dalis (toliau – programa), kurios tikslas – užtikrinti smurtiniais nusikaltimais padarytos žalos kompensavimą pagal šį įstatymą.
 
 
 
 
-3. Specialiosios programos lėšas sudaro:
+2. Programos lėšas sudaro:
 
 
 1) teismo paskirtos baudžiamojo poveikio priemonės – įmokos į Nukentėjusių nuo nusikaltimų asmenų fondą;
@@ -746,7 +498,7 @@ SPECIALIOJI NUKENTĖJUSIŲ NUO NUSIKALTIMŲ ASMENŲ FONDO PROGRAMA
 
 
 
-4. Metams pasibaigus, nepanaudotos specialiosios programos lėšos naudojamos kitais metais vadovaujantis šiuo įstatymu.
+3. Biudžetiniais metais nepanaudotos programos lėšos, išskyrus nurodytas šio straipsnio 2 dalies 3 punkte, naudojamos kitais metais vadovaujantis šiuo įstatymu.
  
 
 
@@ -754,30 +506,25 @@ SPECIALIOJI NUKENTĖJUSIŲ NUO NUSIKALTIMŲ ASMENŲ FONDO PROGRAMA
 
 
 
-13 straipsnis. Kompensuojamos smurtiniais nusikaltimais padarytos žalos mokėjimas
+13 straipsnis. Smurtiniais nusikaltimais padarytos žalos kompensacijų mokėjimas
 
 
-1. Šio įstatymo nustatyta tvarka priimtus sprendimus kompensuoti smurtiniais nusikaltimais padarytą žalą vykdo Teisingumo ministerija iš specialiosios programos lėšų.
-
-
-
-
-2. Šio įstatymo nustatyta tvarka priimti sprendimai kompensuoti smurtiniais nusikaltimais padarytą žalą įvykdomi ne vėliau kaip per mėnesį nuo sprendimo priėmimo dienos, išskyrus šio straipsnio 3 dalyje nurodytus atvejus.
+1. Pagal šį įstatymą priimtus sprendimus dėl smurtiniais nusikaltimais padarytos žalos kompensavimo ir sprendimus dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu vykdo Fondo programos vykdytojas iš programos lėšų.
 
 
 
 
-3. Šio įstatymo 3 straipsnio 1 dalyje nurodyto asmens prašymu arba ypatingais atvejais motyvuotu teisingumo ministro sprendimu, atsižvelgiant į specialiosios programos lėšas, smurtiniu nusikaltimu padaryta žala gali būti kompensuojama dalimis, bet ne vėliau kaip per metus nuo sprendimo kompensuoti smurtiniu nusikaltimu padarytą žalą priėmimo dienos.
+2. Pagal šį įstatymą priimti sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo ir sprendimai dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu įvykdomi ne vėliau kaip per tris mėnesius nuo sprendimo priėmimo dienos.
 
 
 
 
-4. Vykdant sprendimus kompensuoti smurtiniais nusikaltimais padarytą žalą, lėšos pervedamos į asmens, nurodyto sprendime, sąskaitą banke arba išmokamos grynaisiais pinigais.
+3. Vykdant sprendimus dėl smurtiniais nusikaltimais padarytos žalos kompensavimo ir sprendimus dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu, kompensacija pervedama į nukentėjusio asmens ar jo atstovo mokėjimo sąskaitą. 
 
 
 
 
-5. Priėmus sprendimą kompensuoti smurtiniu nusikaltimu padarytą žalą, laikoma, kad sprendime nurodyto dydžio žala yra atlyginta. Žalos kompensavimas šio įstatymo nustatyta tvarka neatleidžia už žalą atsakingo asmens nuo pareigos atlyginti likusią smurtiniu nusikaltimu padarytą žalą.
+4. Sprendime dėl smurtiniais nusikaltimais padarytos žalos kompensavimo ar sprendime dėl smurtiniais nusikaltimais padarytos žalos kompensavimo avansu nurodyto dydžio žala laikoma atlyginta nuo kompensacijos išmokėjimo nukentėjusiam asmeniui ar jo atstovui. Žalos kompensavimas pagal šį įstatymą neatleidžia už žalą atsakingo asmens nuo pareigos atlyginti likusią smurtiniu nusikaltimu padarytą žalą. 
  
 
 
@@ -788,22 +535,27 @@ SPECIALIOJI NUKENTĖJUSIŲ NUO NUSIKALTIMŲ ASMENŲ FONDO PROGRAMA
 14 straipsnis. Valstybės reikalavimo teisės
 
 
-1. Šio įstatymo nustatyta tvarka kompensavus smurtiniu nusikaltimu padarytą žalą, valstybė įgyja regreso (atgręžtinio reikalavimo) teisę iš už žalą atsakingo asmens, jeigu šis yra nustatytas, teismo tvarka išieškoti tokio dydžio sumas, kiek yra sumokėta šio įstatymo 3 straipsnio 1 dalyje ir 8 straipsnio 1 dalyje nurodytiems asmenims.
+1. Pagal šį įstatymą kompensavus smurtiniu nusikaltimu padarytą žalą, valstybė, atstovaujama Fondo programos vykdytojo, įgyja regreso (atgręžtinio reikalavimo) teisę iš už žalą atsakingo asmens, jeigu šis nustatytas, išreikalauti tokio dydžio sumas, kokios sumokėtos šio įstatymo 3 straipsnio 1 dalyje ir 8 straipsnio 1 dalyje nurodytiems asmenims.
 
 
 
 
-2. Valstybė turi teisę iš asmenų, kuriems šio įstatymo nustatyta tvarka kompensuota smurtiniais nusikaltimais padaryta žala, teismo tvarka išieškoti jiems sumokėtas kompensacijas, jeigu paaiškėja, kad asmuo, kuriam buvo kompensuota smurtiniu nusikaltimu padaryta žala, neturėjo teisės į žalos kompensavimą.
+2. Valstybė, atstovaujama Fondo programos vykdytojo, turi teisę iš asmenų, kuriems pagal šį įstatymą kompensuota smurtiniais nusikaltimais padaryta žala arba avansu kompensuota smurtiniais nusikaltimais padaryta žala, išreikalauti jiems sumokėtas kompensacijas, jeigu paaiškėja, kad asmuo neturėjo teisės į žalos kompensavimą arba žala buvo padaryta ne smurtiniu nusikaltimu. 
 
 
 
 
-3. Šio straipsnio 1 ir 2 dalyse nustatyta tvarka išieškotos lėšos pervedamos į specialiąją programą.
+3. Šio straipsnio 1 ir 2 dalyse nurodytais atvejais valstybės reikalavimo teisės įgyvendinamos Fondo programos vykdytojo patvirtinta tvarka. Fondo programos vykdytojo sprendimas dėl valstybės reikalavimo teisių įgyvendinimo kartu yra ir vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka. Fondo programos vykdytojas taip pat turi teisę įgyvendinti valstybės reikalavimo teises teismo tvarka.
 
 
 
 
-4. Šio straipsnio 1 ir 2 dalyse nustatytais atvejais valstybei atstovauja Lietuvos Respublikos Vyriausybės įgaliota institucija.
+4. Fondo programos vykdytojas, siekdamas įgyvendinti šio straipsnio 1 ir 2 dalyse numatytas valstybės reikalavimo teises, turi teisę tvarkyti šiuos nukentėjusio asmens ir už žalą atsakingo asmens duomenis: asmens vardą, pavardę, gimimo datą, asmens kodą, pilietybę, gyvenamąją vietą, laisvės atėmimo bausmės vykdymo vietą, kontaktinius duomenis, mokėjimo sąskaitos rekvizitus, informaciją apie padarytą smurtinį nusikaltimą, informaciją apie dėl asmens priimtus sprendimus baudžiamosiose ir civilinėse bylose, susijusiose su smurtinio nusikaltimo padarymu ar juo padarytos žalos atlyginimu, informaciją apie asmens teistumą ir kitą įgyvendinant šio straipsnio 1 ir 2 dalyse numatytas valstybės reikalavimo teises reikalingą informaciją. 
+
+
+
+
+5. Šio straipsnio 3 dalyje nurodyti sprendimai gali būti skundžiami Vilniaus apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
  
 
 
@@ -814,12 +566,12 @@ SPECIALIOJI NUKENTĖJUSIŲ NUO NUSIKALTIMŲ ASMENŲ FONDO PROGRAMA
 15 straipsnis. Baudžiamojo poveikio priemonės – įmokos į Nukentėjusių nuo nusikaltimų asmenų fondą vykdymas
 
 
-1. Teismas įsiteisėjusių sprendimų paskirti baudžiamojo poveikio priemonę – įmoką į Nukentėjusių nuo nusikaltimų asmenų fondą nuorašus išsiunčia Teisingumo ministerijai ar jos įgaliotai institucijai.
+1. Ikiteisminio tyrimo teisėjas, patvirtinęs prokuroro nutarimą nutraukti ikiteisminį tyrimą ir paskirti baudžiamojo poveikio priemonę – įmoką į Nukentėjusių nuo nusikaltimų asmenų fondą, ar teismas įsiteisėjusių sprendimų paskirti baudžiamojo poveikio priemonę – įmoką į Nukentėjusių nuo nusikaltimų asmenų fondą – kopijas išsiunčia Fondo programos vykdytojui. 
 
 
 
 
-2. Teisingumo ministerija ar jos įgaliota institucija yra baudžiamojo poveikio priemonę – įmoką į Nukentėjusių nuo nusikaltimų asmenų fondą vykdanti institucija. Jeigu kaltininkas teismo nustatytu laiku nesumokėjo visos įmokos, ši institucija kreipiasi į baudžiamojo poveikio priemonę paskyrusį pirmosios instancijos teismą su prašymu išduoti vykdomąjį raštą. Baudžiamojo kodekso 74 straipsnio 2 dalyje nustatytais atvejais Teisingumo ministerija ar jos įgaliota institucija kreipiasi į teisėsaugos institucijas su prašymu pradėti baudžiamąjį procesą pagal Baudžiamojo kodekso 243 straipsnį.
+2. Fondo programos vykdytojas yra baudžiamojo poveikio priemonę – įmoką į Nukentėjusių nuo nusikaltimų asmenų fondą – vykdanti institucija. Jeigu kaltininkas teismo nustatytu laiku nesumokėjo visos įmokos į Nukentėjusių nuo nusikaltimų asmenų fondą, ši institucija kreipiasi į pirmosios instancijos teismą, kurio žinioje yra byla, su prašymu išduoti vykdomąjį raštą ir jį pateikia vykdyti antstoliui. Baudžiamojo kodekso 74 straipsnio 2 dalyje nustatytais atvejais Fondo programos vykdytojas, iš įmokos į Nukentėjusių nuo nusikaltimų asmenų fondą išieškojimą vykdančio antstolio gavęs informaciją apie asmens vengimą įvykdyti šią jam paskirtą baudžiamojo poveikio priemonę, kreipiasi į ikiteisminio tyrimo įstaigą su prašymu pradėti baudžiamąjį procesą pagal Baudžiamojo kodekso 243 straipsnį. 
  
 
 
@@ -830,7 +582,7 @@ SPECIALIOJI NUKENTĖJUSIŲ NUO NUSIKALTIMŲ ASMENŲ FONDO PROGRAMA
 16 straipsnis. Visuomenės informavimas apie smurtiniais nusikaltimais padarytos žalos kompensavimą
 
 
-Informacija apie smurtiniais nusikaltimais padarytos žalos kompensavimo sąlygas ir tvarką skelbia Teisingumo ministerija arba jos įgaliotos institucijos.
+Informaciją apie smurtiniais nusikaltimais padarytos žalos kompensavimo sąlygas ir tvarką Lietuvos Respublikos Vyriausybės nustatyta tvarka skelbia Fondo programos vykdytojas savo interneto svetainėje.
  
 
 
@@ -840,7 +592,7 @@ Informacija apie smurtiniais nusikaltimais padarytos žalos kompensavimo sąlyga
 
 
 
-PENKTASIS SKIRSNIS
+V SKYRIUS
 BENDRADARBIAVIMAS SU KITOMIS EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS KOMPENSUOJANT SMURTINIAIS NUSIKALTIMAIS PADARYTĄ ŽALĄ
  
 
@@ -848,17 +600,22 @@ BENDRADARBIAVIMAS SU KITOMIS EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS KOMPENSUOJA
 17 straipsnis. Lietuvos Respublikos kompetentingos institucijos, bendradarbiaujančios su kitų Europos Sąjungos valstybių narių kompetentingomis institucijomis
 
 
-1. Teisingumo ministerija bendradarbiauja su Europos Bendrijų Komisija ir kitų Europos Sąjungos valstybių narių kompetentingomis institucijomis siekdama užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, tinkamą įgyvendinimą.
+1. Lietuvos Respublikos teisingumo ministerija bendradarbiauja su Europos Komisija ir kitų Europos Sąjungos valstybių narių kompetentingomis institucijomis siekdama užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, tinkamą įgyvendinimą.
 
 
 
 
-2. Teisingumo ministerija yra įgaliota siųsti kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms Lietuvos Respublikos piliečių, taip pat kitų Lietuvos Respublikoje teisėtai nuolat gyvenančių asmenų prašymus kompensuoti smurtiniais nusikaltimais, padarytais kitos Europos Sąjungos valstybės narės teritorijoje, padarytą žalą.
+2. Teisingumo ministerija yra įgaliota siųsti kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms Lietuvos Respublikos piliečių, kitų Lietuvos Respublikoje teisėtai nuolat gyvenančių asmenų prašymus kompensuoti smurtiniais nusikaltimais, padarytais kitos Europos Sąjungos valstybės narės teritorijoje, padarytą žalą. Teisingumo ministerija, įgyvendindama šią funkciją, turi teisę tvarkyti šiuos nukentėjusio asmens ir už žalą atsakingo asmens duomenis: asmens vardą, pavardę, gimimo datą, asmens kodą, pilietybę, gyvenamąją vietą, giminystės ryšį, kontaktinius duomenis ir kitus asmens duomenis, kurie pagal kitų Europos Sąjungos valstybių narių teisės aktus yra būtini siekiant priimti sprendimus dėl smurtiniais nusikaltimais padarytos žalos kompensavimo.
 
 
 
 
-3. Teisingumo ministerija yra įgaliota spręsti dėl kitose Europos Sąjungos valstybėse narėse teisėtai nuolat gyvenančių asmenų prašymų kompensuoti smurtiniais nusikaltimais, padarytais Lietuvos Respublikos teritorijoje, padarytą žalą.
+3. Teisingumo ministerija yra įgaliota spręsti dėl kitose Europos Sąjungos valstybėse narėse teisėtai nuolat gyvenančių asmenų prašymų kompensuoti smurtiniais nusikaltimais, padarytais Lietuvos Respublikos teritorijoje, padarytą žalą. Teisingumo ministerija, nagrinėdama kitose Europos Sąjungos valstybėse narėse teisėtai nuolat gyvenančių asmenų prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą, turi teisę tvarkyti ir gauti nukentėjusio asmens ir už žalą atsakingo asmens duomenis, nurodytus šio įstatymo 6 straipsnio 2 ir 3 dalyse ir 10 straipsnio 2 ir 3 dalyse. 
+
+
+
+
+4. Šiame straipsnyje numatytais atvejais gautus asmens duomenis Teisingumo ministerija saugo 10 metų ir pasibaigus šiam saugojimo terminui sunaikina.
  
 
 
@@ -869,17 +626,17 @@ BENDRADARBIAVIMAS SU KITOMIS EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS KOMPENSUOJA
 18 straipsnis. Bendradarbiavimas kompensuojant smurtiniais nusikaltimais, padarytais Lietuvos Respublikos teritorijoje, padarytą žalą
 
 
-1. Šio įstatymo 3 straipsnio 1 dalyje ir 8 straipsnio 1 dalyje nurodyti asmenys turi teisę Teisingumo ministerijai pateikti prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą šio įstatymo nustatyta tvarka, taip pat prašymus avansu kompensuoti smurtiniais nusikaltimais padarytą žalą ir kitus šiame įstatyme nustatytus dokumentus kitos Europos Sąjungos valstybės narės, kurioje jie teisėtai nuolat gyvena, kompetentingai institucijai arba tiesiogiai Teisingumo ministerijai.
+1. Šio įstatymo 3 straipsnio 1 dalyje ir 8 straipsnio 1 dalyje nurodyti asmenys turi teisę Teisingumo ministerijai pateikti prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą, prašymus avansu kompensuoti smurtiniais nusikaltimais padarytą žalą ir kitus šiame įstatyme nurodytus dokumentus kitos Europos Sąjungos valstybės narės, kurioje jie teisėtai nuolat gyvena, kompetentingai institucijai arba tiesiogiai Teisingumo ministerijai.
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodyti dokumentai turi būti išversti į lietuvių kalbą arba kitą kalbą, kurią Lietuvos Respublika Europos Bendrijų Komisijai yra nurodžiusi kaip jai priimtiną kalbą. Šie dokumentai neturi būti legalizuoti ar jiems neturi būti taikomas lygiavertis formalumas.
+2. Šio straipsnio 1 dalyje nurodyti dokumentai turi būti išversti į lietuvių kalbą arba kitą kalbą, kurią Lietuvos Respublika Europos Komisijai yra nurodžiusi kaip jai priimtiną kalbą. Šie dokumentai neturi būti legalizuoti ar patvirtinti pažyma (Apostille).
 
 
 
 
-3. Teisingumo ministerija, iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos gavusi prašymą kompensuoti smurtiniu nusikaltimu padarytą žalą, privalo ne vėliau kaip per 7 dienas nuo prašymo gavimo šiai institucijai ir prašymą pateikusiam asmeniui pateikti šiuos duomenis:
+3. Teisingumo ministerija, iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos gavusi prašymą kompensuoti smurtiniu nusikaltimu padarytą žalą, privalo ne vėliau kaip per 5 darbo dienas nuo prašymo gavimo dienos šiai institucijai ir prašymą pateikusiam asmeniui pateikti šiuos duomenis:
 
 
 1) nurodyti asmenį ar administracijos padalinį, atsakingą už prašymo nagrinėjimą;
@@ -892,7 +649,7 @@ BENDRADARBIAVIMAS SU KITOMIS EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS KOMPENSUOJA
 
 
 
-3) jei įmanoma, per kiek laiko bus priimtas sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo;
+3) jei įmanoma, nurodyti, per kiek laiko bus priimtas sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo;
 
 
 
@@ -904,7 +661,7 @@ BENDRADARBIAVIMAS SU KITOMIS EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS KOMPENSUOJA
 
 
 
-4. Sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo asmeniui, kuris teisėtai nuolat gyvena kitoje Europos Sąjungos valstybėje narėje, siunčiamas pagal Europos Bendrijų Komisijos nustatytas formas prašymą kompensuoti smurtiniu nusikaltimu padarytą žalą pateikusiam asmeniui ir kitos Europos Sąjungos valstybės narės kompetentingai institucijai.
+4. Sprendimas dėl smurtiniu nusikaltimu padarytos žalos kompensavimo asmeniui, kuris teisėtai nuolat gyvena kitoje Europos Sąjungos valstybėje narėje, nedelsiant, bet ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo, siunčiamas Europos Komisijos nustatyta forma prašymą kompensuoti smurtiniu nusikaltimu padarytą žalą pateikusiam asmeniui ir kitos Europos Sąjungos valstybės narės kompetentingai institucijai.
  
 
 
@@ -915,12 +672,12 @@ BENDRADARBIAVIMAS SU KITOMIS EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS KOMPENSUOJA
 19 straipsnis. Bendradarbiavimas kompensuojant smurtiniais nusikaltimais, padarytais kitos Europos Sąjungos valstybės narės teritorijoje, padarytą žalą
 
 
-1. Asmuo, kuris teisėtai nuolat gyvena Lietuvos Respublikoje ir kuriam žala buvo padaryta smurtiniu nusikaltimu, padarytu kitos Europos Sąjungos valstybės narės teritorijoje, turi teisę pateikti prašymą kompensuoti smurtiniu nusikaltimu padarytą žalą tiesiogiai tos Europos Sąjungos valstybės narės kompetentingai institucijai arba per siunčiančią instituciją – Teisingumo ministeriją.
+1. Asmenys, kurie teisėtai nuolat gyvena Lietuvos Respublikoje ir kuriems žala buvo padaryta smurtiniais nusikaltimais, padarytais kitos Europos Sąjungos valstybės narės teritorijoje, turi teisę prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą pateikti tiesiogiai tos Europos Sąjungos valstybės narės kompetentingai institucijai arba per siunčiančią instituciją – Teisingumo ministeriją.
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodyti dokumentai turi būti išversti į kitos Europos Sąjungos valstybės narės oficialią kalbą arba vieną iš jos oficialių kalbų, kuri atitinka vieną iš Europos Bendrijų institucijų kalbų, ar kitą kalbą, kurią ta Europos Sąjungos valstybė narė yra nurodžiusi Europos Bendrijų Komisijai kaip jai priimtiną kalbą.
+2. Šio straipsnio 1 dalyje nurodyti dokumentai turi būti išversti į kitos Europos Sąjungos valstybės narės oficialią kalbą arba vieną iš jos oficialių kalbų, kuri atitinka vieną iš Europos Sąjungos institucijų kalbų, ar kitą kalbą, kurią ta Europos Sąjungos valstybė narė yra nurodžiusi Europos Komisijai kaip jai priimtiną kalbą.
 
 
 
@@ -935,12 +692,12 @@ BENDRADARBIAVIMAS SU KITOMIS EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS KOMPENSUOJA
 
 
 
-5. Teisingumo ministerija privalo ne vėliau kaip per 7 dienas persiųsti kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą ir kitus reikalingus dokumentus. Šie prašymai siunčiami pagal Europos Bendrijų Komisijos nustatytas formas.
+5. Teisingumo ministerija privalo ne vėliau kaip per 5 darbo dienas persiųsti kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms prašymus kompensuoti smurtiniais nusikaltimais padarytą žalą ir kitus reikalingus dokumentus. Šie prašymai siunčiami Europos Komisijos nustatyta forma.
 
 
 
 
-6. Prireikus Teisingumo ministerija padeda pateikti kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms reikalingą papildomą informaciją ir šio straipsnio 1 dalyje nurodyto asmens prašymu tiesiogiai ją persiunčia kartu su siunčiamų dokumentų sąrašu ne vėliau kaip per 7 dienas.
+6. Teisingumo ministerija padeda pateikti kitų Europos Sąjungos valstybių narių kompetentingoms institucijoms reikalingą papildomą informaciją ir šio straipsnio 1 dalyje nurodytų asmenų prašymu tiesiogiai ją persiunčia kartu su siunčiamų dokumentų sąrašu ne vėliau kaip per 5 darbo dienas.
 
 
 
@@ -955,7 +712,7 @@ BENDRADARBIAVIMAS SU KITOMIS EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS KOMPENSUOJA
 
 
 
-ŠEŠTASIS SKIRSNIS
+VI SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
  
 
@@ -971,22 +728,10 @@ Pagal šį įstatymą kompensuojama tik dėl po 2005 m. liepos 1 d. padarytų sm
 
 
 
-21 straipsnis. Iki šio įstatymo įsigaliojimo teismo paskirtos įmokos į Nukentėjusių nuo nusikaltimų asmenų fondą
-
-
-Iki šio įstatymo įsigaliojimo pagal Baudžiamojo kodekso 71 straipsnį teismo paskirtos įmokos į Nukentėjusių nuo nusikaltimų asmenų fondą yra specialiosios programos lėšos.
- 
-
-
-
-
-
-
-22 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei
+21 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei 
 
 
 Lietuvos Respublikos Vyriausybė kiekvienų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projekte numato asignavimus, skirtus smurtiniais nusikaltimais padarytai žalai kompensuoti.
- 
  
 
 
@@ -998,7 +743,10 @@ Lietuvos Respublikos Vyriausybė kiekvienų metų valstybės biudžeto ir saviva
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
+ 
+ 
 RESPUBLIKOS PREZIDENTAS                                                                           VALDAS ADAMKUS
+ 
 
 
  
@@ -1006,17 +754,19 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
-Lietuvos Respublikos 
-smurtiniais nusikaltimais padarytos 
+ 
+Lietuvos Respublikos
+smurtiniais nusikaltimais padarytos
 žalos kompensavimo įstatymo 
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-2004 m. balandžio 29 d. Tarybos direktyva 2004/80/EB dėl žalos kompensavimo nusikaltimų aukoms (2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 65).
-Priedo pakeitimai:
-Nr. X-1843, 2008-11-14, Žin., 2008, Nr. 137-5387 (2008-11-29), i. k. 1081010ISTA00X-1843
- 
+
+
+1. 2004 m. balandžio 29 d. Tarybos direktyva 2004/80/EB dėl žalos kompensavimo nusikaltimų aukoms (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 65).
+
+
  
  
 Pakeitimai:
@@ -1030,3 +780,8 @@ Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1419, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20437
 Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 7 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1928, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00858
+Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo Nr. X-296 pakeitimo įstatymas
