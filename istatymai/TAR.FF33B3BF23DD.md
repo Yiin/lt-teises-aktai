@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-10-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -6685,76 +6685,78 @@ Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
 
 
 
-58 straipsnis. Vaistinių preparatų,  ligų ir medicinos pagalbos priemonių įrašymas į Ligų ir kompensuojamųjų vaistinių preparatų joms gydyti, Kompensuojamųjų vaistinių preparatų bei Kompensuojamųjų medicinos pagalbos priemonių sąrašus
+58 straipsnis. Vaistinių preparatų ir medicinos pagalbos priemonių įrašymas į Ligų ir kompensuojamųjų vaistinių preparatų joms gydyti, Kompensuojamųjų vaistinių preparatų bei Kompensuojamųjų medicinos pagalbos priemonių sąrašus
 
 
-1. Vaistiniai preparatai, ligos ir medicinos pagalbos priemonės į Ligų ir kompensuojamųjų vaistinių preparatų joms gydyti, Kompensuojamųjų vaistinių preparatų bei Kompensuojamųjų medicinos pagalbos priemonių sąrašus įrašomi sveikatos apsaugos ministro vadovaujantis šiame straipsnyje nurodytais reikalavimais nustatyta tvarka.
-
-
-
-
-2. Pareiškėjas, siekdamas įrašyti vaistinį preparatą, ligą ar medicinos pagalbos priemonę į šio straipsnio 1 dalyje nurodytus sąrašus, sveikatos apsaugos ministro nustatyta tvarka pateikia Sveikatos apsaugos ministerijai paraišką ir dokumentus. Paraiškos ir dokumentai nagrinėjami sveikatos apsaugos ministro nustatyta tvarka.
+1. Vaistiniai preparatai ir medicinos pagalbos priemonės į Ligų ir kompensuojamųjų vaistinių preparatų joms gydyti, Kompensuojamųjų vaistinių preparatų bei Kompensuojamųjų medicinos pagalbos priemonių sąrašus įrašomi sveikatos apsaugos ministro vadovaujantis šiame straipsnyje nurodytais reikalavimais.
 
 
 
 
-3. Paraiškoms ir dokumentams nagrinėti bei siūlymams dėl vaistinių preparatų, ligų ar medicinos pagalbos priemonių įrašymo ar neįrašymo į šio straipsnio 1 dalyje nurodytus sąrašus, taip pat dėl jų kompensavimo sąlygų nustatymo teikti sveikatos apsaugos ministras sudaro nuolatinę komisiją (toliau šiame straipsnyje – komisija) iš ne mažiau kaip 3 Sveikatos apsaugos ministerijos, Socialinės apsaugos ir darbo ministerijos, Finansų ministerijos ir (ar) viena kitai bei šioms ministerijoms nepavaldžių institucijų atstovų ir ne mažiau kaip 3 skirtingų nevyriausybinių organizacijų ir (ar) asociacijų (pacientų, akademinės bendruomenės narių ir kt.) atstovų, atitinkančių sveikatos apsaugos ministro nustatytus kvalifikacijos ir patirties reikalavimus, ir paskiria komisijos pirmininką. Komisijos nariais negali būti asmenys, tarpusavyje susiję tiesioginio pavaldumo santykiais.
+2. Pareiškėjas, siekdamas įrašyti vaistinį preparatą ar medicinos pagalbos priemonę į šio straipsnio 1 dalyje nurodytus sąrašus, sveikatos apsaugos ministro nustatyta tvarka pateikia paraišką sveikatos apsaugos ministro įgaliotai institucijai. Kartu su paraiška yra pateikiami sveikatos apsaugos ministro nustatyti dokumentai. Paraiškos ir dokumentų vertinimas atliekamas ir rekomendacija dėl vaistinio preparato ar medicinos pagalbos priemonės kompensavimo tikslingumo teikiama sveikatos apsaugos ministro nustatyta tvarka. 
 
 
 
 
-4. Komisijos nariai skiriami 2 metų laikotarpiui. Pasibaigus 2 metų laikotarpiui, tas pats komisijos narys negali būti skiriamas komisijos nariu naujai kadencijai. 
+3. Už sveikatos apsaugos ministro įgaliotos institucijos atliekamą paraiškos įrašyti vaistinį preparatą ar medicinos pagalbos priemonę į šio straipsnio 1 dalyje nurodytus sąrašus ir kartu su paraiška pateiktų dokumentų vertinimą mokama nustatyto dydžio valstybės rinkliava. Jeigu sveikatos apsaugos ministro įgaliota institucija, patikrinusi paraišką ir kartu su ja pateiktus dokumentus, nustato, kad nesumokėta valstybės rinkliava, paraiškos ir dokumentų vertinimas neatliekamas.
+TAR pastaba. 58 straipsnio 3 dalis įsigalioja 2020-01-01
 
 
 
 
-5. Komisija privalo rinktis į posėdžius ne rečiau kaip du kartus per mėnesį. Komisijos sprendimai priimami visų komisijos narių balsų dauguma. Balsams pasiskirsčius po lygiai, lemia komisijos pirmininko balsas. Komisijos narių teises ir pareigas, komisijos funkcijas ir darbo organizavimo tvarką pagal šiame straipsnyje nustatytus reikalavimus nustato sveikatos apsaugos ministras.
+4. Šio straipsnio 2 dalyje nurodytoms rekomendacijoms nagrinėti bei siūlymams dėl vaistinių preparatų ar medicinos pagalbos priemonių įrašymo ar neįrašymo į šio straipsnio 1 dalyje nurodytus sąrašus, taip pat dėl jų kompensavimo sąlygų nustatymo teikti sveikatos apsaugos ministras sudaro komisiją (toliau šiame straipsnyje – komisija) iš dviejų Sveikatos apsaugos ministerijos, vieno Valstybinės ligonių kasos prie Sveikatos apsaugos ministerijos, dviejų universiteto ligoninių, dviejų nevyriausybinių organizacijų, atstovaujančių pacientams, dviejų nevyriausybinių organizacijų, atstovaujančių šeimos gydytojams, ir dviejų mokslo ir studijų institucijų deleguotų atstovų ir tvirtina komisijos personalinę sudėtį. Komisijos nariu, atstovaujančiu valstybės institucijoms, skiriamas asmuo, turintis aukštąjį universitetinį arba jam prilygintą sveikatos mokslų studijų krypčių grupės arba socialinių mokslų studijų krypčių grupės išsilavinimą ir ne mažesnę kaip vienų metų patirtį sveikatos sistemos srityje. Komisijos nariu, atstovaujančiu universiteto ligoninėms, skiriamas gydytojas, kuris ne trumpiau kaip penkerius metus verčiasi medicinos praktika. Komisijos nariu, atstovaujančiu nevyriausybinėms organizacijoms, skiriamas asmuo, turintis ne mažesnę kaip vienų metų atstovavimo atitinkamai pacientų ar šeimos gydytojų interesams patirtį. Komisijos nariu, atstovaujančiu mokslo ir studijų institucijoms, skiriamas asmuo, turintis ne mažesnę kaip vienų metų mokslinio darbo sveikatos ar socialinių mokslų srityje patirtį. Komisijos nariais negali būti asmenys, tarpusavyje susiję tiesioginio pavaldumo santykiais.
 
 
 
 
-6.  Komisijos posėdyje, prieš priimant sprendimą siūlyti įrašyti vaistinį preparatą, ligą ar medicinos pagalbos priemonę į šio straipsnio 1 dalyje nurodytus sąrašus, nustatant jų kompensavimo sąlygas, ar jų neįrašyti, sveikatos apsaugos ministro nustatyta tvarka turi būti sudarytos galimybės dalyvauti ir pateikti savo paaiškinimus pareiškėjui. Sprendime turi būti išsamiai nurodyti tokio sprendimo priėmimo argumentai ir motyvai, sprendimo apskundimo tvarka ir terminai. Ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos pareiškėjas informuojamas raštu, aiškiai, suprantamai ir išsamiai nurodant objektyviais ir patikrinamais kriterijais pagrįstas tokio sprendimo priežastis.
+5. Komisijos nariai skiriami 2 metų laikotarpiui. Pasibaigus 2 metų laikotarpiui, tas pats komisijos narys negali būti skiriamas komisijos nariu naujai kadencijai.
 
 
 
 
-7. Jeigu pareiškėjas nesutinka su komisijos priimtu sprendimu, jis per 10 darbo dienų nuo sprendimo gavimo dienos turi teisę pateikti skundą sveikatos apsaugos ministro nustatyta tvarka. Skundams dėl komisijos priimtų sprendimų nagrinėti sveikatos apsaugos ministras sudaro nuolatinę Apeliacinę komisiją ir paskiria šios komisijos pirmininką. Apeliacinė komisija, sveikatos apsaugos ministro nustatyta tvarka  išnagrinėjusi pareiškėjo skundą, gali priimti šiuos sprendimus:
-
-
-1) patenkinti skundą ir siūlyti sveikatos apsaugos ministrui pavesti komisijai pakartotinai svarstyti paraišką, įvertinant Apeliacinės komisijos nurodytus trūkumus;
+6. Komisijos funkcijas, darbo organizavimo ir sudarymo tvarką pagal šiame straipsnyje nustatytus reikalavimus nustato sveikatos apsaugos ministras.
 
 
 
 
-2) atmesti skundą.
+7. Komisijos posėdyje, prieš priimant sprendimą siūlyti įrašyti vaistinį preparatą ar medicinos pagalbos priemonę į šio straipsnio 1 dalyje nurodytus sąrašus, nustatant jų kompensavimo sąlygas, ar jų neįrašyti, sveikatos apsaugos ministro nustatyta tvarka turi būti sudarytos galimybės dalyvauti ir pateikti savo paaiškinimus pareiškėjui. Sprendime turi būti išsamiai nurodyti tokio sprendimo priėmimo argumentai ir motyvai, sprendimo apskundimo tvarka ir terminai. Apie priimtą sprendimą pareiškėjas informuojamas raštu ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos. 
+
+
+
+
+8. Jeigu pareiškėjas nesutinka su komisijos priimtu sprendimu, jis per 10 darbo dienų nuo sprendimo gavimo dienos turi teisę pateikti skundą sveikatos apsaugos ministro sudarytai Apeliacinei komisijai. Apeliacinė komisija, sveikatos apsaugos ministro nustatyta tvarka išnagrinėjusi pareiškėjo skundą, gali priimti šiuos sprendimus:
+
+
+1) patenkinti skundą ir siūlyti sveikatos apsaugos ministrui pavesti komisijai pakartotinai svarstyti paraišką, įvertinant Apeliacinės komisijos nurodytus trūkumus;
+
+
+
+
+2) atmesti skundą.
 
 
 
 
 
 
-8. Apeliacinės komisijos sudėčiai ir jos narių skyrimui taikomi šio straipsnio 3 ir 4 dalyse nustatyti reikalavimai. Apeliacinės komisijos nariu taip pat negali būti skiriamas šio straipsnio 3 dalyje nurodytos komisijos narys. Komisijos ir Apeliacinės komisijos nariai negali būti tarpusavyje susiję tiesioginio pavaldumo santykiais. Apeliacinės komisijos funkcijas ir darbo organizavimo tvarką pagal šiame straipsnyje nustatytus reikalavimus nustato sveikatos apsaugos ministras.
+9. Apeliacinės komisijos sudėčiai ir jos narių skyrimui taikomi šio straipsnio 4 ir 5 dalyse nustatyti reikalavimai. Apeliacinės komisijos nariu taip pat negali būti skiriamas šio straipsnio 4 dalyje nurodytos komisijos narys. Komisijos ir Apeliacinės komisijos nariai negali būti tarpusavyje susiję tiesioginio pavaldumo santykiais. Apeliacinės komisijos funkcijas, darbo organizavimo ir sudarymo tvarką pagal šiame straipsnyje nustatytus reikalavimus nustato sveikatos apsaugos ministras.
 
 
 
 
-9. Komisijos ir Apeliacinės komisijos posėdžiai protokoluojami ir daromi šių posėdžių garso įrašai. Komisijos ir Apeliacinės komisijos posėdžių protokolai, išskyrus konfidencialią informaciją, paskelbiami Sveikatos apsaugos ministerijos interneto svetainėje ne vėliau kaip per 5 darbo dienas nuo posėdžio dienos. Pareiškėjų pageidavimu jiems turi būti sudaryta galimybė susipažinti su komisijos ir Apeliacinės komisijos posėdžių garso įrašais sveikatos apsaugos ministro nustatyta tvarka.
+10. Komisijos ir Apeliacinės komisijos posėdžiai protokoluojami ir daromi šių posėdžių garso įrašai. Komisijos ir Apeliacinės komisijos posėdžių protokolų skelbimo ir pareiškėjų susipažinimo su komisijos ir Apeliacinės komisijos posėdžių garso įrašais tvarką nustato sveikatos apsaugos ministras.
 
 
 
 
-10. Komisijos ir Apeliacinės komisijos nariai, nevykdę ar netinkamai vykdę šiame įstatyme ir kituose teisės aktuose jiems nustatytas pareigas, šalinami iš komisijos sveikatos apsaugos ministro nustatyta tvarka ir atsako įstatymų nustatyta tvarka. Jeigu komisijos narys yra valstybės tarnautojas, apie jo pareigų nevykdymą ar netinkamą vykdymą informuojamas institucijos ar įstaigos vadovas. 
-
-
-
-
-11. Sveikatos apsaugos ministro sprendimas dėl vaistinio preparato, ligos ar medicinos pagalbos priemonės įrašymo ar neįrašymo į šio straipsnio 1 dalyje nurodytus sąrašus ir jų kompensavimo sąlygų nustatymo priimamas ne vėliau kaip per 180 dienų nuo paraiškos įregistravimo Sveikatos apsaugos ministerijoje dienos.
-
-
+11. Sveikatos apsaugos ministro sprendimas dėl vaistinio preparato ar medicinos pagalbos priemonės įrašymo ar neįrašymo į šio straipsnio 1 dalyje nurodytus sąrašus ir jų kompensavimo sąlygų nustatymo priimamas ne vėliau kaip per 180 dienų nuo paraiškos įregistravimo sveikatos apsaugos ministro įgaliotoje institucijoje dienos. Jeigu pareiškėjo pateiktuose dokumentuose nurodytos informacijos nepakanka paraiškos įrašyti vaistinį preparatą ar medicinos pagalbos priemonę į šio straipsnio 1 dalyje nurodytus sąrašus vertinimui atlikti ir rekomendacijai dėl vaistinio preparato ar medicinos pagalbos priemonės kompensavimo tikslingumo pateikti, sveikatos apsaugos ministro įgaliota institucija kreipiasi į pareiškėją ir nurodo, kokią papildomą informaciją, susijusią su vertinimo atlikimu, turi pateikti pareiškėjas. Laikas, per kurį pareiškėjas pateikia sveikatos apsaugos ministro įgaliotos institucijos pareikalautą papildomą informaciją, į paraiškos nagrinėjimo laiką neįskaičiuojamas. 
 Straipsnio pakeitimai:
 Nr. XI-627, 2009-12-22, Žin., 2010, Nr. 1-32 (2010-01-05)
+
+
 Straipsnio pakeitimai:
 Nr. XII-1875, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11211
+Nr. XIII-2151, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09403
  
 
 
@@ -8471,7 +8473,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
  
  
-part_40e8360527284459a23aeb71a75e9a4c_end
+part_64ec903966d04521b2610516992d3212_end
 
 
 Pakeitimai:
@@ -8696,3 +8698,8 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 15, 17, 27, 33, 35, 36
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1530, 2018-10-11, paskelbta TAR 2018-10-23, i. k. 2018-16539
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 10 straipsnio pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2151, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09403
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 58 straipsnio pakeitimo įstatymas
