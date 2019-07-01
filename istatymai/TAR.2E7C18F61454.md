@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2019-06-20 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
+ 
+TAR pastaba. Įstatymas Nr. XIII-1934 taikomas parduodant turtą iš varžytynių, kurios paskelbtos po šio įstatymo įsigaliojimo (2019-07-01), taip pat kai po šio įstatymo įsigaliojimo turtas parduodamas skolininko pasiūlytam pirkėjui ar perduodamas išieškotojui.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
+Lietuvos Respublikos civilinio proceso kodekso 702, 704, 713, 715, 716, 717, 720, 724 ir 746 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS
 CIVILINIO PROCESO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR ĮGYVENDINIMO 
@@ -21631,7 +21636,10 @@ Turto pardavimas iš varžytynių, turto perdavimas išieškotojui be varžytyni
 702 straipsnis. Neparduoto iš varžytynių turto perdavimo išieškotojui aktas
 
 
-1. Išieškotojui, pareiškusiam norą pasiimti turtą natūra, turtas perduodamas surašant Sprendimų vykdymo instrukcijoje nustatytos formos aktą, kuris yra nuosavybės teisę patvirtinantis dokumentas. 
+1. Išieškotojui, pareiškusiam norą pasiimti turtą natūra, turtas perduodamas surašant Sprendimų vykdymo instrukcijoje nustatytos formos aktą, kuris yra nuosavybės teisę patvirtinantis dokumentas. Šį turto perdavimo išieškotojui aktą antstolis surašo praėjus dvidešimt dienų nuo išieškotojo sutikimo paimti turtą gavimo antstolio kontoroje dienos, o tais atvejais, kai išieškotojas privalo sumokėti jam perduodamo turto kainos ir išieškotojo daliai tenkančios lėšų sumos skirtumą, – praėjus dvidešimt dienų nuo visos skirtumo sumos sumokėjimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
+ 
 
 
 
@@ -21641,7 +21649,10 @@ Turto pardavimas iš varžytynių, turto perdavimas išieškotojui be varžytyni
 
 
 
-3. Nuo neparduoto iš varžytynių turto perdavimo išieškotojui akto pasirašymo momento laikoma, kad yra tinkamai įvykdyta pareiga perduoti turtą išieškotojui ir jam pereina nuosavybės teisė.
+3. Nuo neparduoto iš varžytynių turto perdavimo išieškotojui akto surašymo momento laikoma, kad yra tinkamai įvykdyta pareiga perduoti turtą išieškotojui ir jam pereina nuosavybės teisė. Kai išieškotojui perduodamas nekilnojamasis turtas, turto perdavimo išieškotojui aktas elektroninių ryšių priemonėmis perduodamas Nekilnojamojo turto registro tvarkytojui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
+ 
 
 
 Straipsnio pakeitimai:
@@ -21678,22 +21689,44 @@ Nr. XII-889, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05571
 
 
 
-2. Jeigu iki varžytynių paskelbimo į antstolio depozitinę sąskaitą sumokama ne mažesnė pinigų suma kaip turto arešto akte nurodyta areštuoto turto vertė arba mažesnė suma, kurios užtenka visiškai padengti įsiskolinimams ir vykdymo išlaidoms, turto pardavimas iš varžytynių nevykdomas. 
+2. Skolininko pasiūlytam pirkėjui turtas gali būti parduodamas už kainą, ne mažesnę kaip turto arešto akte nurodyta areštuoto turto vertė, arba mažesnę kainą, kurios užtenka visiškai padengti įsiskolinimams ir vykdymo išlaidoms.
 
 
 
 
-3. Areštuotas turtas skolininko pasiūlytam pirkėjui parduodamas surašant Sprendimų vykdymo instrukcijoje nustatytos formos aktą. 
+3. Jeigu skolininko pasiūlytas pirkėjas iki varžytynių paskelbimo specialiame interneto tinklalapyje į turtą parduodančio antstolio depozitinę sąskaitą sumoka 10 procentų šio straipsnio 2 dalyje nurodytos turto pardavimo kainos, turto pardavimas iš varžytynių nevykdomas.
 
 
 
 
-4. Šio straipsnio 2 dalyje nurodytos pinigų sumos laikomos sumokėtomis, jeigu pinigai į antstolio depozitinę sąskaitą yra įskaityti iki varžytynių paskelbimo specialiame interneto tinklalapyje.
+4. Skolininko pasiūlytas pirkėjas visą kainą už perkamą turtą privalo sumokėti per šio Kodekso 716 straipsnio 2 dalyje nustatytą terminą, kuris pradedamas skaičiuoti nuo skolininko pasiūlyto pirkėjo sutikimo pirkti areštuotą turtą pateikimo antstoliui dienos. Skolininko pasiūlyto pirkėjo rašytiniu prašymu antstolis patvarkymu sumokėjimo už perkamą turtą terminą gali pratęsti šio Kodekso 716 straipsnio 3 dalyje nustatyta tvarka.
 
 
+
+
+5. Skolininko pasiūlytas pirkėjas, kuris areštuotą nekilnojamąjį turtą pageidauja pirkti skolintomis lėšomis, turtą parduodančiam antstoliui turi pateikti rašytinį prašymą išduoti Sprendimų vykdymo instrukcijoje nustatytos formos pažymą, patvirtinančią teisę pirkti šį areštuotą turtą. Šią pažymą antstolis išduoda ne vėliau kaip per tris darbo dienas nuo rašytinio prašymo gavimo dienos.
+
+
+
+
+6. Areštuotas turtas skolininko pasiūlytam pirkėjui parduodamas surašant Sprendimų vykdymo instrukcijoje nustatytos formos aktą, kuris yra nuosavybės teisę patvirtinantis dokumentas. Šį turto pardavimo skolininko pasiūlytam pirkėjui aktą antstolis surašo praėjus dvidešimt dienų nuo visos kainos už parduotą turtą sumokėjimo. Kai skolininko pasiūlytam pirkėjui parduodamas nekilnojamasis turtas, turto pardavimo skolininko pasiūlytam pirkėjui aktas elektroninių ryšių priemonėmis perduodamas Nekilnojamojo turto registro tvarkytojui.
+
+
+
+
+7. Nuo turto pardavimo skolininko pasiūlytam pirkėjui akto surašymo momento laikoma, kad yra tinkamai įvykdyta pareiga perduoti turtą skolininko pasiūlytam pirkėjui ir jam pereina nuosavybės teisė.
+
+
+
+
+8. Jeigu per šio straipsnio 4 dalyje nustatytą terminą nesumokama visa kaina už perkamą turtą, skolininko pasiūlytas pirkėjas netenka teisės pirkti turtą ir jo sumokėti 10 procentų turto pardavimo kainos šio Kodekso 753 straipsnyje nustatyta tvarka skiriami skolininko skoloms ir vykdymo išlaidoms padengti. 
 Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 Nr. XII-889, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05571
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
  
 
 
@@ -21999,6 +22032,14 @@ Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
  
 
 
+
+
+15. Varžytynių laimėtojas, kuris už varžytynėse parduotą nekilnojamąjį turtą pageidauja atsiskaityti skolintomis lėšomis, varžytynes organizavusiam antstoliui turi pateikti rašytinį prašymą išduoti Sprendimų vykdymo instrukcijoje nustatytos formos pažymą, patvirtinančią teisę pirkti šį areštuotą turtą. Šią pažymą antstolis išduoda ne vėliau kaip per tris darbo dienas nuo rašytinio prašymo gavimo dienos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 Nr. XII-889, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05571
@@ -22018,12 +22059,14 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 715 straipsnis. Iš varžytynių parduoto turto nuosavybės teisės perėjimo momentas
 
 
-Nuo turto pardavimo iš varžytynių akto pasirašymo momento laikoma, kad yra tinkamai įvykdyta pareiga perduoti turtą pirkėjui ir jam pereina nuosavybės teisė į iš varžytynių parduotą turtą.
-
-
+Nuo turto pardavimo iš varžytynių akto surašymo momento laikoma, kad yra tinkamai įvykdyta pareiga perduoti turtą pirkėjui ir jam pereina nuosavybės teisė į iš varžytynių parduotą turtą. 
 Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 Nr. XI-1843, 2011-12-22, Žin., 2012, Nr. 6-179 (2012-01-10)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
  
 
 
@@ -22040,21 +22083,17 @@ Nr. XI-1843, 2011-12-22, Žin., 2012, Nr. 6-179 (2012-01-10)
 2. Šio straipsnio 1 dalyje nurodytą sumą varžytynes laimėjęs varžytynių dalyvis privalo sumokėti:
 
 
-1) per dešimt dienų nuo varžytynių pabaigos – jeigu turto kaina yra mažesnė negu trys tūkstančiai eurų;
+1) per dešimt dienų nuo varžytynių pabaigos – jeigu turto kaina yra trys tūkstančiai eurų ar mažesnė;
 
 
 
 
-2) per dvidešimt dienų nuo varžytynių pabaigos – jeigu turto kaina yra nuo trijų tūkstančių eurų iki trisdešimt tūkstančių eurų;
-
-
-
-
-3) per trisdešimt dienų nuo varžytynių pabaigos – jeigu turto kaina viršija trisdešimt tūkstančių eurų.
+2) per trisdešimt dienų nuo varžytynių pabaigos – jeigu turto kaina viršija tris tūkstančius eurų. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
+Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
  
 
 
@@ -22096,7 +22135,10 @@ Antstolis savo patvarkymu varžytynes paskelbia neįvykusiomis:
 
 
 
-5) jeigu iki turto pardavimo iš varžytynių akto pasirašymo paaiškėja, kad pirkėjas neturėjo teisės dalyvauti varžytynėse.
+5) jeigu iki turto pardavimo iš varžytynių akto surašymo paaiškėja, kad pirkėjas neturėjo teisės dalyvauti varžytynėse. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
+ 
 
 
 
@@ -22162,7 +22204,18 @@ Nr. XII-889, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05571
 
 
 
-2. Išieškotojo rašytiniu prašymu antstolis patvarkymu sumokėjimo terminą gali pratęsti šio Kodekso 716 straipsnio 3 dalyje nustatyta tvarka.
+2. Išieškotojas, kuriam perduodamas nekilnojamasis turtas ir kuris šio straipsnio 1 dalyje nurodytą sumą pageidauja apmokėti skolintomis lėšomis, antstoliui turi pateikti rašytinį prašymą išduoti Sprendimų vykdymo instrukcijoje nustatytos formos pažymą, patvirtinančią teisę pirkti šį areštuotą turtą. Šią pažymą antstolis išduoda ne vėliau kaip per tris darbo dienas nuo rašytinio prašymo gavimo dienos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
+ 
+
+
+
+
+3. Išieškotojo rašytiniu prašymu antstolis patvarkymu sumokėjimo terminą gali pratęsti šio Kodekso 716 straipsnio 3 dalyje nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
+ 
 
 
 Straipsnio pakeitimai:
@@ -22256,10 +22309,10 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 
 
-724 straipsnis. Turto pardavimo iš varžytinių aktas
+724 straipsnis. Turto pardavimo iš varžytynių aktas
 
 
-1. Antstolis per tris darbo dienas po visos turto kainos sumokėjimo, bet ne anksčiau kaip po dvidešimties dienų nuo varžytynių pabaigos, surašo Sprendimų vykdymo instrukcijoje nustatytos formos kiekvieno iš varžytynių parduodamo turto pardavimo iš varžytynių aktą. Šiame akte nurodoma: 
+1. Antstolis per tris darbo dienas po visos turto kainos sumokėjimo, bet ne anksčiau kaip po dvidešimt dienų nuo varžytynių pabaigos, surašo Sprendimų vykdymo instrukcijoje nustatytos formos kiekvieno iš varžytynių parduodamo turto pardavimo iš varžytynių aktą. Šiame akte nurodoma: 
 
 
 1) kas ir kada įvykdė varžytynes, varžytynių numeris;
@@ -22277,19 +22330,21 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 
 
-4) akto pasirašymo vieta ir laikas (nurodomas minučių tikslumu).
+4) akto surašymo vieta ir laikas (nurodomas minučių tikslumu). 
 
 
 
 
 
 
-2. Kai iš varžytynių parduodamas nekilnojamasis turtas, turto pardavimo iš varžytynių aktas elektroninių ryšių priemonėmis perduodamas Nekilnojamojo turto registro tvarkytojui.
-
-
+2. Turto pardavimo iš varžytynių aktas yra nuosavybės teisę patvirtinantis dokumentas. Kai iš varžytynių parduodamas nekilnojamasis turtas, turto pardavimo iš varžytynių aktas elektroninių ryšių priemonėmis perduodamas Nekilnojamojo turto registro tvarkytojui. 
 Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 Nr. XII-889, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05571
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
  
 
 
@@ -22918,9 +22973,10 @@ Nr. XI-1843, 2011-12-22, Žin., 2012, Nr. 6-179 (2012-01-10)
 
 
 
-3. Jeigu skolininkas, gavęs antstolio raginimą įvykdyti hipoteka ar įkeitimu užtikrintą įsipareigojimą, per raginime nurodytą terminą neįvykdo hipoteka ar įkeitimu užtikrinto skolinio įsipareigojimo, antstolis nustato įkeisto turto administravimą arba įkeistą turtą realizuoja priverstine tvarka. Hipotekos ar įkeitimo kreditoriaus prašymu skolininko pasiūlytam pirkėjui ar varžytynėse pardavęs įkeistą daiktą ir surašęs turto pardavimo skolininko pasiūlytam pirkėjui ar turto pardavimo iš varžytynių aktą, antstolis nedelsdamas apie tai praneša Hipotekos registrui ir pateikia tai patvirtinančius dokumentus. 
+3. Jeigu skolininkas, gavęs antstolio raginimą įvykdyti hipoteka ar įkeitimu užtikrintą įsipareigojimą, per raginime nurodytą terminą neįvykdo hipoteka ar įkeitimu užtikrinto skolinio įsipareigojimo, antstolis nustato įkeisto turto administravimą arba įkeistą turtą realizuoja priverstine tvarka. Hipotekos ar įkeitimo kreditoriaus prašymu skolininko pasiūlytam pirkėjui ar varžytynėse pardavęs įkeistą turtą ir surašęs turto pardavimo skolininko pasiūlytam pirkėjui ar turto pardavimo iš varžytynių aktą arba įkeistą turtą perdavęs hipotekos ar įkeitimo kreditoriui ir surašęs neparduoto iš varžytynių turto perdavimo išieškotojui aktą, antstolis nedelsdamas apie tai praneša Hipotekos registrui ir pateikia tai patvirtinančius dokumentus. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
+Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
  
 
 
@@ -25166,3 +25222,8 @@ Lietuvos Respublikos civilinio proceso kodekso 336, 580, 581 ir 582 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2216, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09858
 Lietuvos Respublikos civilinio proceso kodekso 80 straipsnio pakeitimo įstatymas
+ 
+41.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
+Lietuvos Respublikos civilinio proceso kodekso 702, 704, 713, 715, 716, 717, 720, 724 ir 746 straipsnių pakeitimo įstatymas
