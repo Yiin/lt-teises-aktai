@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C828E20E430B"
 
 # Lietuvos Respublikos kino įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 31-1107, i. k. 1021010ISTA00IX-752
- 
-TAR pastaba. Iki šio įstatymo (Nr. XIII-885) įsigaliojimo (2018-01-01) su Lietuvos kino centru pasirašytos kino valstybinio finansavimo sutartys dėl filmų parengiamųjų ir gamybos darbų, kino sklaidos ir platinimo projektų baigiamos vykdyti pagal teisės aktus, galiojusius iki šio įstatymo įsigaliojimo. Filmų indeksavimo pagal žiūrovų amžiaus cenzą ir registravimo Filmų registre procedūros, pradėtos iki šio įstatymo įsigaliojimo, baigiamos vykdyti pagal paraiškos filmui indeksuoti ir prašymo registruoti filmą pateikimo metu galiojusius teisės aktus.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-885, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21487
-Lietuvos Respublikos kino įstatymo Nr. IX-752 pakeitimo įstatymas
  
 Nauja redakcija nuo 2018-01-01:
 Nr. XIII-885, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21487
@@ -615,7 +610,10 @@ KINO FINANSAVIMAS
 
 
 
-4. Lietuvos kino centro direktorius, suderinęs su kultūros ministru, nustato ekspertų komisijų skaičių, nuostatus ir personalinę sudėtį. Ekspertų darbo apmokėjimo tvarką nustato Vyriausybė.
+4. Lietuvos kino centro direktorius, suderinęs su kultūros ministru, nustato ekspertų komisijų skaičių, nuostatus ir personalinę sudėtį. Ekspertų komisijų narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
+ 
 
 
 
@@ -626,8 +624,6 @@ KINO FINANSAVIMAS
 
 
 6. Ekspertų komisijos nario kadencija yra dveji metai. Tas pats asmuo ekspertu gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės.
-TAR pastaba. 10 straipsnis įsigalioja 2018 m. balandžio 1 d.
- 
 
 
 
@@ -787,7 +783,10 @@ FILMŲ PLATINIMAS, RODYMAS IR PADARYMAS VIEŠAI PRIEINAMŲ ELEKTRONINIŲ RYŠIŲ
 
 
 
-5. Filmų indeksavimo komisijos sudėtį, nuostatus, kuriuose nustatomi filmų vertinimo pagal žiūrovų amžiaus cenzą kriterijai, šios komisijos narių paslaugų teikimo tvarkos aprašą ir apmokėjimo tvarką tvirtina Lietuvos kino centro direktorius, suderinęs su kultūros ministru.
+5. Filmų indeksavimo komisijos sudėtį, nuostatus, kuriuose nustatomi filmų vertinimo pagal žiūrovų amžiaus cenzą kriterijai, tvirtina Lietuvos kino centro direktorius, suderinęs su kultūros ministru. Komisijos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
+ 
 
 
 
@@ -1013,3 +1012,8 @@ Lietuvos Respublikos kino įstatymo Nr. IX-752 9 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-885, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21487
 Lietuvos Respublikos kino įstatymo Nr. IX-752 pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
+Lietuvos Respublikos kino įstatymo Nr. IX-752 10 ir 14 straipsnių pakeitimo įstatymas
