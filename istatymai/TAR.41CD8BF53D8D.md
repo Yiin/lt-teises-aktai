@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2019-01-02 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2020-06-04
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
  
@@ -217,7 +217,10 @@ Nr. XII-2115, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19702
 
 
 
-6) asmens tapatybės kortelės arba paso (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimą ir keitimą bendra tvarka, dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą ir keitimą, asmens be pilietybės kelionės dokumento išdavimą ir keitimą, nacionalinių vizų išdavimą asmenims, kuriems pagal Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymą pripažįstamas nuo okupacijų nukentėjusio – represuoto asmens teisinis statusas;
+6) asmens tapatybės kortelės arba paso (asmens pasirinkimu tik už vieno iš šių dokumentų) išdavimą ir keitimą bendra tvarka, dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą ir keitimą, asmens be pilietybės kelionės dokumento išdavimą ir keitimą, nacionalinių vizų išdavimą pasipriešinimo (rezistencijos) dalyviams, kuriems kario savanorio ar laisvės kovų dalyvio teisinis statusas pripažįstamas Lietuvos Respublikos pasipriešinimo 1940–1990 metų okupacijoms dalyvių teisinio statuso įstatyme nustatyta tvarka, ir Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 3 straipsnyje nurodytiems nuo okupacijų nukentėjusiems asmenims, kuriems pagal šį įstatymą pripažįstamas nuo okupacijų nukentėjusio asmens teisinis statusas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2025, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05399
+ 
 
 
 
@@ -353,9 +356,18 @@ Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
 
 
 
-29) profesinės kvalifikacijos pripažinimą asmenims, kvalifikaciją įgijusiems kitoje Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje (Islandijos Respublikoje, Lichtenšteino Kunigaikštystėje, Norvegijos Karalystėje) arba Šveicarijos Konfederacijoje ir siekiantiems įsisteigti ar laikinai ir kartais teikti paslaugas Lietuvos Respublikoje pagal reglamentuojamą profesiją, remiantis Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu.
+29) profesinės kvalifikacijos pripažinimą asmenims, kvalifikaciją įgijusiems kitoje Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje (Islandijos Respublikoje, Lichtenšteino Kunigaikštystėje, Norvegijos Karalystėje) arba Šveicarijos Konfederacijoje ir siekiantiems įsisteigti ar laikinai ir kartais teikti paslaugas Lietuvos Respublikoje pagal reglamentuojamą profesiją, remiantis Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu;
 Papildyta straipsnio punktu:
 Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
+ 
+
+
+
+
+30) dokumentų dėl leidimo gyventi Lietuvos Respublikoje išdavimo tvarkymą ir leidimo gyventi Lietuvos Respublikoje išdavimą Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (toliau – Jungtinė Karalystė) piliečiams ir jų šeimos nariams, kurie iki Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos yra įgiję teisę gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai ir dėl leidimo gyventi Lietuvos Respublikoje kreipėsi per 9 mėnesius nuo Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos.
+TAR pastaba. 6 straipsnio papildymas 30 punktu įsigalioja Jungtinės Karalystės išstojimo iš Europos Sąjungos dieną.
+Papildyta straipsnio punktu:
+Nr. XIII-2054, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06690
  
 
 
@@ -827,10 +839,25 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 2) Lietuvos Respublikos vietinių rinkliavų įstatymas (Žin., 1996, Nr.57-1339; 1997, Nr.58-1329; 1998, Nr.38-998).
+ 
 
 
 
 
+
+
+
+
+19 straipsnis. Įstatymo taikymas Jungtinei Karalystei
+
+
+Dvejus metus nuo Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos šio įstatymo 6 straipsnio nuostatos, kuriose numatyta atleisti nuo valstybės rinkliavos už vizų išdavimą Europos Sąjungos piliečių šeimos narius ar Europos Sąjungos valstybėje narėje įgytą profesinę kvalifikaciją prašančius pripažinti asmenis, taikomos ir asmenims, prašantiems pripažinti Jungtinėje Karalystėje įgytą profesinę kvalifikaciją, ir Jungtinės Karalystės piliečiams bei jų šeimos nariams, kurie kreipiasi dėl vizų išdavimo.
+TAR pastaba. Įstatymo papildymas 19 straipsniu įsigalioja Jungtinės Karalystės išstojimo iš Europos Sąjungos dieną.
+
+
+Papildyta straipsniu:
+Nr. XIII-2054, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06690
+ 
 
 
 
@@ -1023,3 +1050,13 @@ Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 5, 6, 9, 10, 11, 12, 13,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1635, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18925
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 14 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2025, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05399
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2054, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06690
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6 straipsnio pakeitimo ir Įstatymo papildymo 19 straipsniu įstatymas
