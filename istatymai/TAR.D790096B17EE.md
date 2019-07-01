@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2018-12-03 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
  
@@ -1064,14 +1064,18 @@ TAR pastaba. Įstatymo nuostatos dėl vartojimo ginčų neteisminio sprendimo pr
 
 
 
-3) Valstybinė kainų ir energetikos kontrolės komisija – vartotojų ir energetikos įmonių, geriamojo vandens tiekimo ir (ar) nuotekų tvarkymo įmonių ginčus dėl apmokėjimo už suvartotą energiją ar paslaugas, dėl valstybės reguliuojamų kainų ir (ar) tarifų taikymo, dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl prisijungimo, energijos ir energijos išteklių tiekimo srautų balansavimo, taip pat kitus vartotojų ir energetikos įmonių ginčus energetikos srityje, nepriskirtus Valstybinei energetikos inspekcijai prie Energetikos ministerijos;
+3) Valstybinė energetikos reguliavimo taryba – vartotojų ir energetikos įmonių, geriamojo vandens tiekimo ir (ar) nuotekų tvarkymo įmonių ginčus dėl apmokėjimo už suvartotą energiją ar paslaugas, dėl valstybės reguliuojamų kainų ir (ar) tarifų taikymo, dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl prisijungimo, energijos ir energijos išteklių tiekimo srautų balansavimo, vartotojų ir energetikos įmonių ginčus dėl energetikos objektų, įrenginių ir apskaitos priemonių naudojimo, energijos tiekimo nutraukimo, sustabdymo ar ribojimo, taip pat vartotojų ir energijos taupymo paslaugų teikėjų ginčus dėl energijos taupymo paslaugų teikimo ir kitus vartotojų ir energetikos įmonių ginčus energetikos srityje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1975, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03174
+ 
 
 
 
 
-4) Valstybinė energetikos inspekcija prie Energetikos ministerijos – vartotojų ir energetikos įmonių ginčus dėl energetikos objektų, įrenginių ir apskaitos priemonių naudojimo, energijos tiekimo nutraukimo, sustabdymo ar ribojimo, taip pat vartotojų ir energijos taupymo paslaugų teikėjų ginčus dėl energijos taupymo paslaugų teikimo;
+4) netenka galios 2019-07-01;
 Straipsnio punkto pakeitimai:
 Nr. XII-2707, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26491
+Nr. XIII-1975, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03174
  
 
 
@@ -1210,7 +1214,10 @@ c) asociacijoje yra ne mažiau kaip 20 narių.
 
 
 
-4. Šio straipsnio 2 dalies 2 ir 3 punktuose nurodyti vartojimo ginčų komisijos nariai atleidžiami nuo darbo pareigų atlikimo laikotarpiu, kuriuo jie dalyvauja vartojimo ginčų komisijos darbe. Vartojimo ginčų komisijos nariams už darbą vartojimo ginčų komisijos posėdžiuose atlyginama ir kelionės išlaidos apmokamos vartojimo ginčų komisijų nuostatuose nustatyta tvarka. 
+4. Šio straipsnio 2 dalies 2 ir 3 punktuose nurodyti vartojimo ginčų komisijos nariai atleidžiami nuo darbo pareigų atlikimo laikotarpiu, kuriuo jie dalyvauja vartojimo ginčų komisijos darbe. Vartojimo ginčų komisijos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka, o kelionės išlaidos – vartojimo ginčų komisijų nuostatuose nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1744, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20717
+ 
 
 
 
@@ -3219,3 +3226,13 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 1 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1600, 2018-11-06, paskelbta TAR 2018-11-12, i. k. 2018-18211
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 40 straipsnio ir priedo pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1744, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20717
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 22-1 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1975, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03174
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 22 straipsnio pakeitimo įstatymas
