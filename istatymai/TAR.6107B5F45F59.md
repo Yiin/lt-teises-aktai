@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6107B5F45F59"
 
 # Lietuvos Respublikos tautinio paveldo produktų įstatymas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3043, i. k. 1071010ISTA00X-1207
  
@@ -496,7 +496,10 @@ EKSPERTŲ KOMISIJA, TAUTINIO PAVELDO PRODUKTŲ IR TRADICINIŲ AMATŲ NEFORMALIOJ
 11 straipsnis. Ekspertų komisija
 
 
-1. Ekspertų komisija sudaroma iš etninės kultūros ir kitų sričių, atsižvelgiant į tautinio paveldo produktų grupes ir sritis, ekspertų, turinčių ne mažiau kaip 5 metų patirties etninės kultūros ir (arba) tradicinių amatų ir (arba) kitose, atsižvelgiant į tautinio paveldo produktų grupes ir sritis, srityse, taip pat iš valstybės institucijų, veikiančių kultūros, tautinio paveldo ir švietimo ir kitose, atsižvelgiant į tautinio paveldo produktų grupes ir sritis, srityse, atstovų. Ekspertų komisijos sudėtį, pirmininką ir darbo tvarkos aprašą, suderintus su Tautinio paveldo produktų taryba, tvirtina žemės ūkio ministras. Ekspertų komisijos sudėtis kas 2 metai atnaujinama ne mažiau kaip trečdaliu. Tas pats asmuo ekspertų komisijos nariu gali būti skiriamas ne daugiau kaip du kartus iš eilės. 
+1. Ekspertų komisija sudaroma iš etninės kultūros ir kitų sričių, atsižvelgiant į tautinio paveldo produktų grupes ir sritis, ekspertų, turinčių ne mažiau kaip 5 metų patirties etninės kultūros ir (arba) tradicinių amatų, ir (arba) kitose, atsižvelgiant į tautinio paveldo produktų grupes ir sritis, srityse, taip pat iš valstybės institucijų, veikiančių kultūros, tautinio paveldo ir švietimo, ir kitose, atsižvelgiant į tautinio paveldo produktų grupes ir sritis, srityse, atstovų. Ekspertų komisijos sudėtį, pirmininką ir darbo tvarkos aprašą, suderintus su Tautinio paveldo produktų taryba, tvirtina žemės ūkio ministras. Ekspertų komisijos sudėtis kas 2 metai atnaujinama ne mažiau kaip trečdaliu. Tas pats asmuo ekspertų komisijos nariu gali būti skiriamas ne daugiau kaip du kartus iš eilės. Ekspertų komisijos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1752, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20732
+ 
 
 
 
@@ -937,3 +940,8 @@ Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
 Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 2, 4, 5, 7, 10, 14, 15, 20 ir 25 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1752, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20732
+Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 11 straipsnio pakeitimo įstatymas
