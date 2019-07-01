@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2019-06-11 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-12-21
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -674,17 +674,26 @@ Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
 
 
 
-6. Iš Privalomojo sveikatos draudimo fondo biudžeto apmokamos asmens sveikatos priežiūros paslaugos išvardijamos iš Privalomojo sveikatos draudimo fondo biudžeto apmokamų asmens sveikatos priežiūros paslaugų sąraše. Šį sąrašą tvirtina Sveikatos apsaugos ministerija, įvertinusi Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. 
+6. Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamos asmens sveikatos priežiūros paslaugos išvardijamos Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąraše. Šį sąrašą tvirtina sveikatos apsaugos ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1764, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21109
+ 
 
 
 
 
-7. Iš Privalomojo sveikatos draudimo fondo biudžeto apmokamų asmens sveikatos priežiūros paslaugų sąrašas gali būti detalizuojamas konkrečias sveikatos priežiūros paslaugas nurodant teritorinių ligonių kasų ir sveikatos priežiūros įstaigų sutartyse. 
+7. Neteko galios 2019-07-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1764, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21109
+ 
 
 
 
 
-8. Iš Privalomojo sveikatos draudimo fondo biudžeto apmokamos tik asmens sveikatos priežiūros paslaugos, kurios atitinka Vyriausybės nustatytus iš Privalomojo sveikatos draudimo fondo biudžeto apmokamų asmens sveikatos priežiūros paslaugų kriterijus.
+8. Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros įstaigoms apmokamos asmens sveikatos priežiūros paslaugos, kurios atitinka Vyriausybės nustatytas Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų teikimo sąlygas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1764, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21109
+ 
 
 
 
@@ -733,11 +742,140 @@ Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
 
 
 
+92 straipsnis. Asmens sveikatos priežiūros paslaugų įrašymo į Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašą ir išbraukimo iš šio sąrašo sąlygos ir tvarka
+
+
+1. Naujas asmens sveikatos priežiūros paslaugas, kurios galėtų būti apmokamos Privalomojo sveikatos draudimo fondo biudžeto lėšomis, ir šio fondo biudžeto lėšomis jau apmokamas asmens sveikatos priežiūros paslaugas, kurių teikimo sąnaudos padidėjo dėl organizacinių pakeitimų ir (ar) diegiamų naujų technologijų, vertina Asmens sveikatos priežiūros paslaugų vertinimo komitetas (toliau – Komitetas) šio įstatymo ir sveikatos apsaugos ministro nustatyta tvarka.
+
+
+
+
+2. Paraiškas dėl šio straipsnio 1 dalyje nurodytų asmens sveikatos priežiūros paslaugų vertinimo Komitetui teikia Sveikatos apsaugos ministerija, Valstybinė ligonių kasa, universiteto ligoninės ir sveikatos priežiūros specialistus vienijančios asociacijos. Paraiškos Komitetui teikiamos iki kiekvienų metų kovo 1 dienos ir iki rugsėjo 1 dienos. Komitetas ne vėliau kaip atitinkamai iki kiekvienų metų gegužės 1 dienos arba iki lapkričio 1 dienos įvertina šio straipsnio 1 dalyje nurodytas asmens sveikatos priežiūros paslaugas ir jas įtraukia (arba jų neįtraukia) į Kompensuotinų Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros paslaugų sąrašą, vadovaudamasis visais šiais įtraukimo į šį sąrašą kriterijais: 
+
+
+1) asmens sveikatos priežiūros paslaugos veiksmingumas yra pagrįstas medicinos mokslo įrodymais;
+
+
+
+
+2) asmens sveikatos priežiūros paslaugos poreikis – daugiau kaip vienas sveikatos sutrikimo atvejis, tenkantis 200 000 Lietuvos Respublikos gyventojų per kalendorinius metus.
+
+
+
+
+
+
+3. Sveikatos apsaugos ministro nustatyta tvarka Komitetas ne vėliau kaip atitinkamai iki einamųjų metų birželio 1 dienos arba gruodžio 1 dienos peržiūri Kompensuotinų Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros paslaugų sąrašą, įvertina jame nurodytas asmens sveikatos priežiūros paslaugas ir išdėsto jas prioriteto tvarka, atsižvelgdamas į visus šiuos vertinimo kriterijus:
+
+
+1) asmens sveikatos priežiūros paslaugos poveikį ligoms ir būklėms, lemiančioms didžiausią šalies gyventojų ligotumą ir mirtingumą, ir (ar) svarbiausiems vertinamiems visos šalies sveikatos rodikliams;
+
+
+
+
+2) asmens sveikatos priežiūros paslaugos poveikį pacientų išgyvenamumui; 
+
+
+
+
+3) asmens sveikatos priežiūros paslaugos poveikį pacientų darbingumui ir (ar) neįgalumui;
+
+
+
+
+4) asmens sveikatos priežiūros paslaugos poveikį pacientų gyvenimo kokybei;
+
+
+
+
+5) asmens sveikatos priežiūros paslaugos poveikį Privalomojo sveikatos draudimo fondo biudžeto lėšų panaudojimo efektyvumui;
+
+
+
+
+6) galimybę užtikrinti visuotinį asmens sveikatos priežiūros paslaugos prieinamumą.
+
+
+
+
+
+
+4. Komitetas, įvertinęs asmens sveikatos priežiūros paslaugas ir išdėstęs jas prioriteto tvarka, priima sprendimą siūlyti sveikatos apsaugos ministrui asmens sveikatos priežiūros paslaugą įrašyti (arba jos neįrašyti) į Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašą. Prieš priimant šioje dalyje nurodytą sprendimą turi būti sudarytos galimybės Komiteto posėdyje dalyvauti ir pateikti savo paaiškinimus šio straipsnio 2 dalyje nurodytiems paraiškų teikėjams. Ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos Komiteto sprendimas skelbiamas viešai, o pareiškėjas informuojamas raštu, aiškiai, suprantamai ir išsamiai nurodant objektyviais ir patikrinamais kriterijais pagrįstas Komiteto priimto sprendimo priežastis.
+
+
+
+
+5. Jeigu pareiškėjas nesutinka su Komiteto priimtu sprendimu, jis per 10 darbo dienų nuo sprendimo gavimo dienos turi teisę pateikti skundą sveikatos apsaugos ministro nustatyta tvarka. Skundus dėl Komiteto priimtų sprendimų nagrinėja sveikatos apsaugos ministro sudaryta nuolatinė Apeliacinė komisija. Apeliacinė komisija, sveikatos apsaugos ministro nustatyta tvarka išnagrinėjusi pareiškėjo skundą, ne vėliau kaip per 20 darbo dienų nuo skundo gavimo dienos gali priimti šiuos sprendimus:
+
+
+1) patenkinti skundą ir siūlyti sveikatos apsaugos ministrui pavesti Komitetui pakartotinai priimti sprendimą, įvertinus Apeliacinės komisijos nurodytus trūkumus;
+
+
+
+
+2) atmesti skundą.
+
+
+
+
+
+
+6. Sveikatos apsaugos ministras, atsižvelgęs į Valstybinės ligonių kasos išvadą dėl galimybių Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokėti šio straipsnio 1 dalyje nurodytas asmens sveikatos priežiūros paslaugas bei Privalomojo sveikatos draudimo tarybos nuomonę, ne vėliau kaip atitinkamai iki einamųjų metų spalio 1 dienos arba iki kitų metų balandžio 1 dienos keičia Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašą pagal Komiteto pateiktus siūlymus.
+
+
+
+
+7. Asmens sveikatos priežiūros paslaugos, neįtrauktos į Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašą, lieka Kompensuotinų Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros paslaugų sąraše ir kitais metais vėl yra vertinamos bei dėstomos prioriteto tvarka šiame straipsnyje nustatyta tvarka. 
+
+
+
+
+8. Komitetas šio straipsnio 2 dalyje nurodytų subjektų siūlymu ir nustatyta tvarka įvertina, ar Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąraše nurodytos asmens sveikatos priežiūros paslaugos atitinka visus šio straipsnio 2 dalyje nustatytus įtraukimo į Kompensuotinų Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros paslaugų sąrašą kriterijus. Asmens sveikatos priežiūros paslaugos, neatitinkančios visų šio straipsnio 2 dalyje nustatytų įtraukimo kriterijų, Komiteto siūlymu išbraukiamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų sąrašo šio straipsnio 6 dalyje nustatyta tvarka. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1764, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21109
+ 
+
+
+
+
+93 straipsnis. Asmens sveikatos priežiūros paslaugų vertinimo komitetas ir Apeliacinė komisija
+
+
+1. Komitetas sudaromas iš dviejų Sveikatos apsaugos ministerijos, dviejų Valstybinės ligonių kasos, dviejų Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos, dviejų universiteto ligoninių, dviejų gydytojams ir dviejų pacientams atstovaujančių organizacijų atstovų, turinčių aukštąjį universitetinį išsilavinimą ir atitinkančių sveikatos apsaugos ministro nustatytus kvalifikacijos ir patirties reikalavimus. Komiteto nario kadencija yra ketveri metai. Tas pats Komiteto narys negali būti skiriamas Komiteto nariu daugiau kaip dviem kadencijoms iš eilės. Komiteto narius skiria sveikatos apsaugos ministras. Sveikatos apsaugos ministras taip pat skiria pakaitinius Komiteto narius, kurie nesant atitinkamų Komiteto narių, juos pakeičia.
+
+
+
+
+2. Apeliacinė komisija sudaroma iš dviejų Sveikatos apsaugos ministerijos, dviejų gydytojams ir dviejų pacientams atstovaujančių organizacijų atstovų. Apeliacinės komisijos nariu gali būti skiriamas asmuo, turintis aukštąjį universitetinį išsilavinimą ir atitinkantis sveikatos apsaugos ministro nustatytus kvalifikacijos ir patirties reikalavimus. Apeliacinės komisijos nario kadencija yra ketveri metai. Tas pats Apeliacinės komisijos narys negali būti skiriamas Apeliacinės komisijos nariu daugiau kaip dviem kadencijoms iš eilės. Apeliacinės komisijos nariu taip pat negali būti skiriamas šio straipsnio 1 dalyje nurodyto Komiteto narys. Komiteto ir Apeliacinės komisijos nariai negali būti tarpusavyje susiję tiesioginio pavaldumo santykiais. 
+
+
+
+
+3. Komiteto ir Apeliacinės komisijos nariai, nevykdę šiame įstatyme ir kituose teisės aktuose jiems nustatytų pareigų ar netinkamai jas vykdę, sveikatos apsaugos ministro nustatyta tvarka šalinami iš Komiteto ir Apeliacinės komisijos ir atsako įstatymų nustatyta tvarka. Jeigu Komiteto ir Apeliacinės komisijos narys yra valstybės tarnautojas, apie jo pareigų nevykdymą ar netinkamą vykdymą informuojamas institucijos ar įstaigos, kurioje jis eina valstybės tarnautojo pareigas, vadovas.
+
+
+
+
+4. Komiteto ir Apeliacinės komisijos funkcijas ir darbo organizavimo tvarką nustato šis įstatymas ir sveikatos apsaugos ministras. 
+
+
+Papildyta straipsniu:
+Nr. XIII-1764, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21109
+ 
+
+
+
+
 10 straipsnis. Vaistų ir medicinos pagalbos priemonių įsigijimo išlaidų 
 kompensavimas apdraustiesiems 
 
 
-1. Apdraustiesiems yra kompensuojamos išlaidos kompensuojamiesiems vaistams ir medicinos pagalbos priemonėms, išrašytiems ambulatoriniam gydymui Sveikatos apsaugos ministerijos nustatyta tvarka. Ligų ir kompensuojamųjų vaistų joms gydyti, Kompensuojamųjų vaistų bei Kompensuojamųjų medicinos pagalbos priemonių sąrašus ir įsigijimo išlaidų kompensavimo tvarką tvirtina Sveikatos apsaugos ministerija, įvertinusi Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Išlaidos vaistams ir medicinos pagalbos priemonėms kompensuojamos pagal bazines kainas, apskaičiuotas Vyriausybės nustatyta tvarka.
+1. Apdraustiesiems yra kompensuojamos išlaidos kompensuojamiesiems vaistams ir medicinos pagalbos priemonėms, išrašytiems ambulatoriniam gydymui sveikatos apsaugos ministro nustatyta tvarka. Ligų ir kompensuojamųjų vaistų joms gydyti, Kompensuojamųjų vaistų bei Kompensuojamųjų medicinos pagalbos priemonių sąrašus tvirtina sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos nuomonę. Kompensuojamųjų vaistų ir kompensuojamųjų medicinos pagalbos priemonių įsigijimo išlaidų kompensavimo tvarką nustato sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones. Išlaidos vaistams ir medicinos pagalbos priemonėms kompensuojamos pagal bazines kainas, apskaičiuotas Vyriausybės nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2152, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09404
+ 
 
 
 
@@ -3032,3 +3170,8 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2 ir 6 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2152, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09404
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 10 ir 28 straipsnių pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1764, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21109
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 9 straipsnio pakeitimo ir Įstatymo papildymo 9-2 ir 9-3 straipsniais įstatymas
