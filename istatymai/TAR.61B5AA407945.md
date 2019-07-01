@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/61b5aa40794511e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymas
 
+Suvestinė redakcija nuo 2019-07-01 iki 2020-01-31
+ 
+Įstatymas paskelbtas: TAR 2018-06-26, i. k. 2018-10518
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 FINANSINĖS PASKATOS PIRMĄJĮ BŪSTĄ ĮSIGYJANČIOMS JAUNOMS ŠEIMOMS
 ĮSTATYMAS
@@ -155,7 +162,10 @@ FINANSINĖ PASKATA PIRMĄJĮ BŪSTĄ ĮSIGYJANČIOMS JAUNOMS ŠEIMOMS IR JOS FIN
 
 
 
-4 straipsnis. Finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms finansavimas
+4 straipsnis. Finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms finansavimas ir finansinės paramos skyrimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2146, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09048
+ 
 
 
 1. Finansinė paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms finansuojama iš Lietuvos Respublikos valstybės biudžeto.
@@ -164,6 +174,13 @@ FINANSINĖ PASKATA PIRMĄJĮ BŪSTĄ ĮSIGYJANČIOMS JAUNOMS ŠEIMOMS IR JOS FIN
 
 
 2. Finansinė paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms teikiama atsižvelgiant į atitinkamų metų Lietuvos Respublikos valstybės biudžeto asignavimus finansinei paskatai pirmąjį būstą įsigyjančioms jaunoms šeimoms teikti.
+
+
+
+
+3. Finansinė paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms gali būti teikiama kartu su savivaldybės ir (ar) pelno siekiančio juridinio asmens finansine parama. Finansinės paramos teikimo tvarką ir sąlygas nustato savivaldybių tarybos ir (ar) pelno siekiančio juridinio asmens valdymo organai. Bendra finansinės paskatos ir finansinės paramos dalis negali būti didesnė negu 50 procentų įsigyjamo būsto vertės.
+Papildyta straipsnio dalimi:
+Nr. XIII-2146, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09048
  
 
 
@@ -426,3 +443,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2146, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09048
+Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymo Nr. XIII-1281 4 straipsnio pakeitimo įstatymas
