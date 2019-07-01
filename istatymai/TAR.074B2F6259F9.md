@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.074B2F6259F9"
 
 # Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas
 
-Suvestinė redakcija nuo 2019-04-25 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2020-04-30
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 47-1747, i. k. 1081010ISTA00X-1478
  
@@ -572,7 +572,10 @@ b) leisti teikti paslaugas.
 
 
 
-12. Paslaugą galima pradėti teikti per vieną mėnesį nuo šio straipsnio 9 dalies 1 punkte ir 2 punkto b papunktyje nurodytų sprendimų priėmimo dienos. 
+12. Paslaugą galima pradėti teikti per vieną mėnesį nuo šio straipsnio 9 dalyje nurodytų sprendimų priėmimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2240, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10363
+ 
 
 
 
@@ -1309,7 +1312,10 @@ Nr. XIII-2049, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06685
 
 
 
-9. Kad valstybių narių piliečiai Lietuvos Respublikoje galėtų užsiimti pagrindinio rengimo medicinos gydytojo, gydytojo specialisto, bendrosios praktikos slaugytojo, gydytojo odontologo, gydytojo odontologo specialisto, veterinarijos gydytojo, akušerio profesinėmis veiklomis, vaistininko profesine veikla, nurodyta šio įstatymo 43 straipsnio 2 dalyje, ir architekto profesine veikla, nurodyta šio įstatymo 46 straipsnyje, Lietuvos Respublikos kompetentinga institucija pripažįsta valstybių narių piliečių formalios kvalifikacijos įrodymą, suteikiantį galimybę užsiimti pagrindinio rengimo medicinos gydytojo ir gydytojo specialisto, bendrosios praktikos slaugytojo, gydytojo odontologo, gydytojo odontologo specialisto, veterinarijos gydytojo, akušerio, vaistininko ir architekto profesine veikla, išduotą buvusioje Jugoslavijoje, arba jeigu šie specialistai pradėti rengti Slovėnijoje iki 1991 m. birželio 25 d., kai minėtos valstybės narės kompetentingos institucijos patvirtina, kad toks formalios kvalifikacijos įrodymas jų teritorijoje turi tokią pačią teisinę galią kaip ir jų išduodamas formalios kvalifikacijos įrodymas, o dėl architektų – kaip šio įstatymo 4 priedo 4 punkte toms valstybėms narėms nurodytas formalios kvalifikacijos įrodymas.
+9. Kad valstybių narių piliečiai Lietuvos Respublikoje galėtų užsiimti pagrindinio rengimo medicinos gydytojo, gydytojo specialisto, bendrosios praktikos slaugytojo, gydytojo odontologo, gydytojo odontologo specialisto, veterinarijos gydytojo, akušerio profesinėmis veiklomis, vaistininko profesine veikla, nurodyta šio įstatymo 43 straipsnio 2 dalyje, ir architekto profesine veikla, nurodyta šio įstatymo 46 straipsnyje, Lietuvos Respublikos kompetentinga institucija pripažįsta valstybių narių piliečių formalios kvalifikacijos įrodymą, suteikiantį galimybę užsiimti pagrindinio rengimo medicinos gydytojo ir gydytojo specialisto, bendrosios praktikos slaugytojo, gydytojo odontologo, gydytojo odontologo specialisto, veterinarijos gydytojo, akušerio, vaistininko ir architekto profesine veikla, išduotą buvusioje Jugoslavijoje, arba jeigu šie specialistai pradėti rengti Slovėnijoje iki 1991 m. birželio 25 d. ar Kroatijoje iki 1991 m. spalio 8 d., kai šių valstybių narių kompetentingos institucijos patvirtina, kad toks formalios kvalifikacijos įrodymas jų teritorijoje turi tokią pačią teisinę galią kaip ir jų išduodamas formalios kvalifikacijos įrodymas, o dėl architektų – kaip šio įstatymo 4 priedo 4 punkte toms valstybėms narėms nurodytas formalios kvalifikacijos įrodymas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2240, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10363
+ 
 
 
 
@@ -12149,3 +12155,8 @@ Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2049, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06685
 Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 18 straipsnio ir 1 priedo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2240, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10363
+Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 9 ir 21 straipsnių pakeitimo įstatymas
