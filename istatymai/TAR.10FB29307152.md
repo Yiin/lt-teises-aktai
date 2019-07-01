@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/10fb2930715211e484b9c12b550436a3"
 
 # Lietuvos Respublikos įstatymas dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo
 
-Suvestinė redakcija nuo 2017-06-15 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2020-11-19
  
 Įstatymas paskelbtas: TAR 2014-11-21, i. k. 2014-17299
  
@@ -760,7 +760,6 @@ Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 
 5. Prašymo dėl tranzito nereikalaujama, jeigu vykstama oro transportu be numatytų tarpinių nusileidimų. Nenumatyto nusileidimo Lietuvos Respublikos teritorijoje atveju Lietuvos Respublikos generalinė prokuratūra pateikia prašymą kitos Europos Sąjungos valstybės narės kompetentingai institucijai atsiųsti šio straipsnio 2 dalyje nurodytą informaciją, jeigu ši informacija nebuvo gauta per 72 valandas.
  
- 
 
 
 
@@ -934,7 +933,6 @@ Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 
 3. Kitos Europos Sąjungos valstybės narės kompetentingai institucijai informacija perduodama bet kokiu būdu, leidžiančiu pateikti rašytinį dokumentą tokiomis sąlygomis, kad būtų galima nustatyti jo autentiškumą. Pateikiamai informacijai taip pat keliami šio įstatymo 23 straipsnio 5 dalyje nurodyti reikalavimai. 
  
- 
 
 
 
@@ -1000,7 +998,10 @@ LIETUVOS RESPUBLIKOS TEISMŲ SPRENDIMŲ DĖL LAISVĖS ATĖMIMO BAUSMĖS PERDAVIM
 
 
 
-2) šio asmens gyvenamoji vieta yra jo pilietybės valstybėje arba Lietuvos Respublikos teismas, Migracijos departamentas prie Vidaus reikalų ministerijos, policija ar Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos yra priėmę sprendimą, kuriuo remiantis bausmę atlikęs asmuo bus įpareigotas išvykti, išsiųstas arba grąžintas į jo pilietybės valstybę. 
+2) šio asmens gyvenamoji vieta yra jo pilietybės valstybėje arba Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos ar Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos yra priėmę sprendimą, kuriuo remiantis bausmę atlikęs asmuo bus įpareigotas išvykti arba išsiųstas į jo pilietybės valstybę.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1903, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00887
+ 
 
 
 
@@ -3781,3 +3782,8 @@ Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių spren
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Nr. XII-1322 pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1903, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00887
+Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Nr. XII-1322 18 straipsnio pakeitimo įstatymas
