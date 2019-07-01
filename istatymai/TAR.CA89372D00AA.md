@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CA89372D00AA"
 
 # Lietuvos Respublikos policijos įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 90-2777; Žin. 2000, Nr.101-0, i. k. 1001010ISTAIII-2048
  
@@ -319,12 +319,18 @@ Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
 
 
 
-11) tvarko asmens duomenis, išduoda ir keičia Lietuvos Respublikos pilietybę ir asmens tapatybę patvirtinančius dokumentus; 
+11) neteko galios 2019-07-01; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1866, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21877
+ 
 
 
 
 
-12) atlieka užsieniečių teisinės padėties Lietuvos Respublikoje kontrolę;
+12) pagal kompetenciją atlieka Rusijos Federacijos piliečių vykimo iš Rusijos Federacijos teritorijos į Rusijos Federacijos Kaliningrado sritį ir atgal per Lietuvos Respublikos teritoriją kontrolę; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1866, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21877
+ 
 
 
 
@@ -1103,7 +1109,10 @@ Pareigūnas, įgyvendindamas nusikalstamų veikų ar administracinių teisės pa
 
 
 
-2) įeiti į gyvenamąsias ar kitas patalpas, kai įtariama, kad jose gali būti laikomi ar gyventi neteisėtai Lietuvos Respublikoje esantys užsieniečiai, ar kai įtariama, kad užsieniečio sudaryta santuoka gali būti fiktyvi;
+2) neteko galios 2019-07-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1866, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21877
+ 
 
 
 
@@ -1308,7 +1317,10 @@ Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
 
 
 
-2) konvojuodamas arba pristatydamas į policijos įstaigą, kitą instituciją ar įstaigą administracinius nusižengimus ar nusikalstamas veikas padariusius (galimai padariusius) asmenis, atlikdamas šių asmenų apžiūrą, taip pat vykdydamas asmenų išsiuntimą iš Lietuvos Respublikos ar vykdydamas šių asmenų grąžinimą į Lietuvos Respubliką.
+2) konvojuodamas arba pristatydamas į policijos įstaigą, kitą instituciją ar įstaigą administracinius nusižengimus ar nusikalstamas veikas padariusius (galimai padariusius) asmenis, atlikdamas šių asmenų apžiūrą, taip pat vykdydamas asmenų grąžinimą į Lietuvos Respubliką. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1866, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21877
+ 
 
 
 
