@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/074c2b707e7311e6b969d7ae07280e89"
 
 # Lietuvos Respublikos pagalbinio apvaisinimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2022-06-30
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23713
  
@@ -550,7 +550,7 @@ Asmens sveikatos priežiūros įstaigos, teikiančios pagalbinio apvaisinimo pas
 
 
 
-14 straipsnis. Duomenų kaupimas 
+14 straipsnis. Duomenų kaupimas
 
 
 1. Duomenys apie lytines ląsteles bei embrionus ir jų naudojimą turi būti atsekami jų įsigijimo, paruošimo, laikymo ir paskirstymo metu.
@@ -558,20 +558,13 @@ Asmens sveikatos priežiūros įstaigos, teikiančios pagalbinio apvaisinimo pas
 
 
 
-2. Duomenys apie lytinių ląstelių saugojimą lytinių ląstelių banke, jų paskirstymą ir naudojimą, asmens sveikatos priežiūros įstaigose atliktas pagalbinio apvaisinimo procedūras, jų būdus, sukurtų bei į moters organizmą perkeltų embrionų skaičių, nėštumų ir gimdymų skaičių po pagalbinio apvaisinimo, taip pat apie po pagalbinio apvaisinimo gimusius vaikus turi būti įrašomi į Pagalbinio apvaisinimo informacinę sistemą (toliau – Informacinė sistema).
+2. Duomenys apie lytinių ląstelių saugojimą lytinių ląstelių banke, jų paskirstymą ir naudojimą, asmens sveikatos priežiūros įstaigose atliktas pagalbinio apvaisinimo procedūras, jų būdus, sukurtų bei į moters organizmą perkeltų embrionų skaičių, nėštumų ir gimdymų skaičių po pagalbinio apvaisinimo, taip pat apie po pagalbinio apvaisinimo gimusius vaikus turi būti įrašomi į Žmogaus audinių, ląstelių ir organų donorų bei recipientų registrą. 
+TAR pastaba. Asmens sveikatos priežiūros įstaigos, teikiančios pagalbinio apvaisinimo paslaugas, ir žmogaus lytinių ląstelių bankai Lietuvos Respublikos pagalbinio apvaisinimo įstatymo 14 straipsnio 2 dalyje nurodytus duomenis, sukauptus iki įstatymo Nr. XIII-2153 įsigaliojimo dienos (2019-07-01), perduoda Žmogaus audinių, ląstelių ir organų donorų bei recipientų registro tvarkytojui iki 2019 m. rugsėjo 1 d.
 
 
-
-
-3. Informacinę sistemą steigia ir jos nuostatus tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė).
-
-
-
-
-4. Siekiant visiško atsekamumo, Informacinės sistemos duomenys saugomi ne trumpiau kaip 30 metų po lytinių ląstelių panaudojimo arba saugojimo termino pabaigos šio įstatymo 15 straipsnio 1 dalyje nurodytos kompetentingos institucijos nustatytus reikalavimus atitinkančiame archyve. 
+Straipsnio pakeitimai:
+Nr. XIII-2153, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09405
  
-
-
 
 
 
@@ -617,13 +610,15 @@ Asmens sveikatos priežiūros įstaigos, teikiančios pagalbinio apvaisinimo pas
 
 
 
-7) nustato Informacinės sistemos duomenų archyvavimo reikalavimus; 
+7) neteko galios 2019-07-01; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2153, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09405
+ 
 
 
 
 
 8) atlieka kitas jai pavestas funkcijas.
- 
  
 
 
@@ -669,7 +664,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                      Dalia Grybauskaitė
  
  
 
@@ -708,3 +703,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-201, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01328
 Lietuvos Respublikos pagalbinio apvaisinimo įstatymo Nr. XII-2608 3, 10 ir 12 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2153, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09405
+Lietuvos Respublikos pagalbinio apvaisinimo įstatymo Nr. XII-2608 14 ir 15 straipsnių pakeitimo įstatymas
