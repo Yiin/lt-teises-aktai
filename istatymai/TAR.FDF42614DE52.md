@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01
+Suvestinė redakcija nuo 2019-07-01 iki 2019-12-21
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-26, i. k. 1031010ISTA0IX-1904
  
@@ -250,9 +250,10 @@ Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
 
 
 
-6. Kiekvienu iš šio straipsnio 3 dalyje nurodytų laikotarpių mokama nedarbo draudimo išmoka negali būti didesnė kaip 75 procentai Lietuvos statistikos departamento skelbiamo vidutinio mėnesinio bruto darbo užmokesčio (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) šalies ūkyje, galiojusio užpraeitą kalendorinį ketvirtį nuo bedarbio įsiregistravimo Užimtumo tarnyboje dienos. 
+6. Kiekvienu iš šio straipsnio 3 dalyje nurodytų laikotarpių mokama nedarbo draudimo išmoka negali būti didesnė kaip 58,18 procento Lietuvos statistikos departamento skelbiamo vidutinio mėnesinio bruto darbo užmokesčio (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) šalies ūkyje, galiojusio užpraeitą kalendorinį ketvirtį nuo bedarbio įsiregistravimo Užimtumo tarnyboje dienos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
+Nr. XIII-1340, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11436
  
 
 
