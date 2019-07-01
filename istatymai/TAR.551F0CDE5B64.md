@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.551F0CDE5B64"
 
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas
 
-Suvestinė redakcija nuo 2019-04-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2021-10-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1598, i. k. 0991010ISTAIII-1185
  
@@ -4551,12 +4551,18 @@ Kolektyvinio administravimo organizacijų ir naudotojų ginčai, susiję su taik
 
 
 
-5. Komisija sudaroma dvejiems metams iš 7 narių Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka perkant Komisijos narių nematerialaus pobūdžio (intelektines) paslaugas. Komisijos nariais gali būti fiziniai asmenys, turintys teisinį arba kitą (socialinių ar humanitarinių mokslų) aukštąjį universitetinį išsilavinimą ir ne mažesnę kaip trejų metų profesinės, ekspertinės ar mokslinės veiklos patirtį autorių teisių ir gretutinių teisių srityje arba ne mažesnę kaip trejų metų civilinių ginčų taikinamojo tarpininkavimo (mediacijos) paslaugų teikimo patirtį.
+5. Komisija sudaroma dvejiems metams iš 7 narių. Komisijos nariais gali būti fiziniai asmenys, turintys teisinį arba kitą (socialinių ar humanitarinių mokslų) aukštąjį universitetinį išsilavinimą ir ne mažesnę kaip trejų metų profesinės, ekspertinės ar mokslinės veiklos patirtį autorių teisių ir gretutinių teisių srityje arba ne mažesnę kaip trejų metų civilinių ginčų taikinamojo tarpininkavimo (mediacijos) paslaugų teikimo patirtį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1758, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20739
+ 
 
 
 
 
-6. Komisija neturi juridinio asmens statuso. Komisijos nuostatus, sudėtį ir darbo reglamentą tvirtina, jos veiklos organizacinį ir techninį aptarnavimą atlieka Vyriausybės įgaliota institucija. Komisijos narių paslaugos apmokamos pagal Vyriausybės įgaliotos institucijos ir Komisijos narių sudarytas atlygintinų paslaugų teikimo sutartis iš šiam tikslui Vyriausybės įgaliotai institucijai skirtų valstybės biudžeto asignavimų. 
+6. Komisija neturi juridinio asmens statuso. Komisijos nuostatus, sudėtį ir darbo reglamentą tvirtina, jos veiklos organizacinį ir techninį aptarnavimą atlieka Vyriausybės įgaliota institucija. Komisijos narių darbas Komisijoje apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1758, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20739
+ 
 
 
 
@@ -5404,9 +5410,10 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 96 straipsnis. Teisė gauti kompensaciją panaikinus nenustatytų teisių turėtojų kūrinio statusą 
 
 
-1. Šio Įstatymo 95 straipsnio 1 dalyje nustatyta tvarka panaikinus nenustatytų teisių turėtojų kūrinio statusą, teisių turėtojai turi teisę gauti vienkartinę kompensaciją už buvusio nenustatytų teisių turėtojų kūrinio naudojimą šio Įstatymo 94 straipsnio 1 dalyje nustatytais būdais. Prašymus išmokėti šią kompensaciją teisių turėtojai pateikia Vyriausybės įgaliotai institucijai. Sprendimą dėl kompensacijos išmokėjimo ir jos dydžio Vyriausybės įgaliota institucija priima atsižvelgdama į kompensavimo už nenustatytų teisių turėtojų kūrinių naudojimą ekspertų komisijos (toliau – ekspertų komisija) rekomendacines išvadas. Vyriausybės įgaliotos institucijos sprendimas ir ekspertų komisijos išvados priimamos įvertinus konkretaus buvusio nenustatytų teisių turėtojų kūrinio nekomercines naudojimo sąlygas (kūrinio ar fonogramos viešą prieinamumą, naudojimo būdus, poreikį išsaugoti arba atgaminti prarastus, sunaikintus arba tapusius netinkamus naudoti egzempliorius, nenustatytų teisių turėtojų kūrinių naudotojo siekiamų viešojo intereso tikslų svarbą, galimą padarytą žalą teisių turėtojams). Ekspertų komisiją iš 7 narių – Lietuvos meno kūrėjų asociacijos, kolektyvinio administravimo organizacijų ir Vyriausybės įgaliotos institucijos atstovų – 2 metams sudaro ir jos nuostatus tvirtina Vyriausybės įgaliota institucija.
+1. Šio Įstatymo 95 straipsnio 1 dalyje nustatyta tvarka panaikinus nenustatytų teisių turėtojų kūrinio statusą, teisių turėtojai turi teisę gauti vienkartinę kompensaciją už buvusio nenustatytų teisių turėtojų kūrinio naudojimą šio Įstatymo 94 straipsnio 1 dalyje nustatytais būdais. Prašymus išmokėti šią kompensaciją teisių turėtojai pateikia Vyriausybės įgaliotai institucijai. Sprendimą dėl kompensacijos išmokėjimo ir jos dydžio Vyriausybės įgaliota institucija priima atsižvelgdama į kompensavimo už nenustatytų teisių turėtojų kūrinių naudojimą ekspertų komisijos (toliau – ekspertų komisija) rekomendacines išvadas. Vyriausybės įgaliotos institucijos sprendimas ir ekspertų komisijos išvados priimamos įvertinus konkretaus buvusio nenustatytų teisių turėtojų kūrinio nekomercines naudojimo sąlygas (kūrinio ar fonogramos viešą prieinamumą, naudojimo būdus, poreikį išsaugoti arba atgaminti prarastus, sunaikintus arba tapusius netinkamus naudoti egzempliorius, nenustatytų teisių turėtojų kūrinių naudotojo siekiamų viešojo intereso tikslų svarbą, galimą padarytą žalą teisių turėtojams). Ekspertų komisiją iš 7 narių – Lietuvos meno kūrėjų asociacijos, kolektyvinio administravimo organizacijų ir Vyriausybės įgaliotos institucijos atstovų – 2 metams sudaro ir jos nuostatus tvirtina Vyriausybės įgaliota institucija. Darbas ekspertų komisijoje apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
+Nr. XIII-1758, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20739
  
 
 
@@ -5871,3 +5878,8 @@ Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
 Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 2, 20, 20-1, 25, 31, 32, 63, 75 straipsnių ir 3 priedo pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1758, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20739
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 72-30 ir 96 straipsnių pakeitimo įstatymas
