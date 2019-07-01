@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/946da260a67b11e69ad4c8713b612d0f"
 
 # Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymas
 
+Suvestinė redakcija nuo 2019-07-01 iki 2020-06-25
+ 
+Įstatymas paskelbtas: TAR 2016-11-09, i. k. 2016-26481
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ENERGIJOS VARTOJIMO EFEKTYVUMO DIDINIMO
 ĮSTATYMAS
@@ -576,7 +583,9 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-2. Šio įstatymo pažeidimų nagrinėjimo tvarką nustato šis įstatymas ir Valstybinės energetikos inspekcijos prie Energetikos ministerijos (toliau – Valstybinė energetikos inspekcija) patvirtintos taisyklės.
+2. Šio įstatymo pažeidimų nagrinėjimo tvarką nustato šis įstatymas ir Valstybinės energetikos reguliavimo tarybos (toliau – Taryba) patvirtintos taisyklės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1976, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03183
  
 
 
@@ -584,26 +593,28 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-14 straipsnis. Šio įstatymo pažeidimus nagrinėjanti institucija
+14 straipsnis. Šio įstatymo pažeidimus nagrinėjanti institucija
 
 
-1. Šio įstatymo pažeidimus nagrinėja ir sankcijas skiria Valstybinė energetikos inspekcija.
+1. Šio įstatymo pažeidimus nagrinėja ir sankcijas skiria Taryba.
 
 
 
 
-2. Jeigu Valstybinė energetikos inspekcija gauna duomenų apie galimą šio įstatymo pažeidimą, ji privalo motyvuotu sprendimu pradėti šio įstatymo pažeidimo nagrinėjimo procedūrą.
+2. Jeigu Taryba gauna duomenų apie galimą šio įstatymo pažeidimą, ji privalo motyvuotu sprendimu pradėti šio įstatymo pažeidimo nagrinėjimo procedūrą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1976, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03183
  
 
 
 
 
+15 straipsnis. Tarybos teisės ir pareigos
 
 
-15 straipsnis. Valstybinės energetikos inspekcijos teisės ir pareigos
-
-
-Valstybinė energetikos inspekcija:
+Taryba:
 
 
 1) savo iniciatyva nagrinėja galimus šio įstatymo ir jo pagrindu priimtų teisės aktų pažeidimus;
@@ -611,7 +622,7 @@ Valstybinė energetikos inspekcija:
 
 
 
-2) bendradarbiauja su Energetikos ministerija, kitomis valstybinėmis institucijomis ar įstaigomis ir pagal šį įstatymą įsipareigojimų turinčiais asmenimis;
+2) bendradarbiauja su Energetikos ministerija, kitomis valstybės institucijomis ar įstaigomis ir pagal šį įstatymą įsipareigojimų turinčiais asmenimis;
 
 
 
@@ -631,12 +642,14 @@ Valstybinė energetikos inspekcija:
 
 
 
-6) atlieka kitas šiame įstatyme nustatytas funkcijas.
+6) atlieka kitas šiame įstatyme nustatytas funkcijas. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1976, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03183
  
-
-
-
-
 
 
 
@@ -657,7 +670,10 @@ Valstybinė energetikos inspekcija:
 
 
 
-3) ekspertai, specialistai ir kiti asmenys – Valstybinės energetikos inspekcijos sprendimu.
+3) ekspertai, specialistai ir kiti asmenys – Tarybos sprendimu. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1976, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03183
+ 
 
 
 
@@ -680,17 +696,17 @@ Valstybinė energetikos inspekcija:
 17 straipsnis. Šio įstatymo pažeidimo tyrimo ir nagrinėjimo tvarka ir terminai
 
 
-1. Valstybinė energetikos inspekcija tyrimą pradeda savo iniciatyva arba gavusi informaciją iš Energetikos ministerijos, kitų valstybinių institucijų ar įstaigų.
+1. Taryba tyrimą pradeda savo iniciatyva arba gavusi informaciją iš Energetikos ministerijos, kitų valstybės institucijų ar įstaigų.
 
 
 
 
-2. Energetikos ministerija, prieš perduodama informaciją apie galimą pažeidimą Valstybinei energetikos inspekcijai, galimam pažeidėjui raštu gali nustatyti ne trumpesnį kaip 10 darbo dienų ir ne ilgesnį kaip 30 darbo dienų terminą nustatytiems trūkumams pašalinti.
+2. Energetikos ministerija, prieš perduodama informaciją apie galimą pažeidimą Tarybai, galimam pažeidėjui raštu gali nustatyti ne trumpesnį kaip 10 darbo dienų ir ne ilgesnį kaip 30 darbo dienų terminą nustatytiems trūkumams pašalinti.
 
 
 
 
-3. Tyrimą Valstybinė energetikos inspekcija pradeda dėl šių pažeidimų: 
+3. Tyrimą Taryba pradeda dėl šių pažeidimų: 
 
 
 1) nustatytais terminais nepateiktų šio įstatymo 7, 8 ir 11 straipsniuose nurodytų ataskaitų;
@@ -715,12 +731,12 @@ Valstybinė energetikos inspekcija:
 
 
 
-4. Valstybinė energetikos inspekcija, pradėjusi šio įstatymo pažeidimo nagrinėjimo procedūrą, raštu kreipiasi į asmenį, dėl kurio veiksmų ši procedūra pradėta, ir paprašo per 14 darbo dienų pateikti motyvuotą paaiškinimą ir jį pagrindžiančius įrodymus apie aplinkybes, dėl kurių pradėta šio įstatymo pažeidimo nagrinėjimo procedūra.
+4. Taryba, pradėjusi šio įstatymo pažeidimo nagrinėjimo procedūrą, raštu kreipiasi į asmenį, dėl kurio veiksmų ši procedūra pradėta, ir paprašo per 14 darbo dienų pateikti motyvuotą paaiškinimą ir jį pagrindžiančius įrodymus apie aplinkybes, dėl kurių pradėta šio įstatymo pažeidimo nagrinėjimo procedūra.
 
 
 
 
-5. Šio įstatymo pažeidimo nagrinėjimo procedūros dalyviams ne vėliau kaip prieš 14 kalendorinių dienų iki šio įstatymo pažeidimų nagrinėjimo Valstybinėje energetikos inspekcijoje dienos registruotu laišku pranešama apie galimus šio įstatymo pažeidimus, šių pažeidimų nagrinėjimo vietą ir laiką, taip pat pasiūloma susipažinti su gautais dokumentais ir kita informacija ir raštu pateikti paaiškinimus.
+5. Šio įstatymo pažeidimo nagrinėjimo procedūros dalyviams ne vėliau kaip prieš 14 kalendorinių dienų iki šio įstatymo pažeidimų nagrinėjimo Taryboje dienos registruotu laišku pranešama apie galimus šio įstatymo pažeidimus, šių pažeidimų nagrinėjimo vietą ir laiką, taip pat pasiūloma susipažinti su gautais dokumentais ir kita informacija ir raštu pateikti paaiškinimus.
 
 
 
@@ -730,10 +746,12 @@ Valstybinė energetikos inspekcija:
 
 
 
-7. Šio įstatymo pažeidimų nagrinėjimo procedūros dalyviai turi teisę susipažinti su gautais dokumentais ir kita informacija, duoti žodinius ar rašytinius paaiškinimus, teikti prašymus, pateikti papildomą informaciją ir kitus dokumentus.
+7. Šio įstatymo pažeidimų nagrinėjimo procedūros dalyviai turi teisę susipažinti su gautais dokumentais ir kita informacija, duoti žodinius ar rašytinius paaiškinimus, teikti prašymus, pateikti papildomą informaciją ir kitus dokumentus. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1976, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03183
  
-
-
 
 
 
@@ -741,10 +759,12 @@ Valstybinė energetikos inspekcija:
 18 straipsnis. Pareiga teikti informaciją
 
 
-Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, privalo Valstybinei energetikos inspekcijai per jos nurodytą terminą pateikti informaciją ir dokumentus galimiems šio įstatymo pažeidimams tirti.
+Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, privalo Tarybai per jos nurodytą terminą pateikti informaciją ir dokumentus galimiems šio įstatymo pažeidimams tirti. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1976, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03183
  
-
-
 
 
 
@@ -752,7 +772,7 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 19 straipsnis. Sprendimas atlikus šio įstatymo pažeidimo nagrinėjimo procedūrą
 
 
-1. Valstybinė energetikos inspekcija, atlikusi šio įstatymo pažeidimo nagrinėjimo procedūrą, priima sprendimą, kuriame turi būti nurodyta:
+1. Taryba, atlikusi šio įstatymo pažeidimo nagrinėjimo procedūrą, priima sprendimą, kuriame turi būti nurodyta:
 
 
 1) sprendimą priėmusios institucijos pavadinimas;
@@ -765,7 +785,7 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 
 
 
-3) sprendimą priėmusio asmens (Valstybinės energetikos inspekcijos viršininkas ar jį pavaduojantis asmuo) duomenys, šio įstatymo pažeidimo nagrinėjimo procedūros dalyviai ir kiti dalyvavę suinteresuoti asmenys;
+3) šio įstatymo pažeidimo nagrinėjimo procedūros dalyviai ir kiti dalyvavę suinteresuoti asmenys;
 
 
 
@@ -812,7 +832,7 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 
 
 
-2. Valstybinė energetikos inspekcija, atlikusi šio įstatymo pažeidimo nagrinėjimo procedūrą, turi teisę priimti šiuos sprendimus:
+2. Taryba, atlikusi šio įstatymo pažeidimo nagrinėjimo procedūrą, turi teisę priimti šiuos sprendimus:
 
 
 1) taikyti šio įstatymo nustatytas sankcijas;
@@ -827,10 +847,12 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 
 
 
-3. Šiame straipsnyje nurodytas Valstybinės energetikos inspekcijos sprendimas per 3 darbo dienas nuo jo priėmimo registruotu laišku išsiunčiamas asmeniui, dėl kurio šis sprendimas priimtas.
+3. Šiame straipsnyje nurodytas Tarybos sprendimas per 3 darbo dienas nuo jo priėmimo registruotu laišku išsiunčiamas asmeniui, dėl kurio šis sprendimas priimtas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1976, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03183
  
-
-
 
 
 
@@ -838,7 +860,7 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 20 straipsnis. Baudos
 
 
-1. Valstybinė energetikos inspekcija, nustačiusi, kad šio įstatymo 16 straipsnio 1 dalies 1 punkte nurodyti asmenys padarė šio įstatymo pažeidimus, skiria šias sankcijas:
+1. Taryba, nustačiusi, kad šio įstatymo 16 straipsnio 1 dalies 1 punkte nurodyti asmenys padarė šio įstatymo pažeidimus, skiria šias sankcijas:
 
 
 1) įspėjimą;
@@ -853,7 +875,7 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 
 
 
-2. Valstybinė energetikos inspekcija turi teisę asmenims skirti šias sankcijas: 
+2. Taryba turi teisę asmenims skirti šias sankcijas: 
 
 
 1) už šio įstatymo 7 straipsnyje nustatytos ataskaitos nepateikimą susitarime dėl energijos sutaupymo nustatyta tvarka – įspėjimą;
@@ -861,7 +883,7 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 
 
 
-2) už atsisakymą sudaryti su Energetikos ministerija šio įstatymo 7 straipsnio 1 dalyje numatytą susitarimą dėl energijos sutaupymo arba šiuo susitarimu nustatytų reikalavimų ar sąlygų nesilaikymą – baudą iki 5 procentų nuo bendrųjų metinių pajamų;
+2) už atsisakymą sudaryti su Energetikos ministerija šio įstatymo 7 straipsnio 1 dalyje numatytą susitarimą dėl energijos sutaupymo arba už šiuo susitarimu nustatytų reikalavimų ar sąlygų nesilaikymą – baudą iki 5 procentų nuo bendrųjų metinių pajamų;
 
 
 
@@ -871,7 +893,7 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 
 
 
-4) už atsisakymą sudaryti su Energetikos ministerija šio įstatymo 8 straipsnyje numatytą susitarimą dėl vartotojų švietimo ir konsultavimo arba šiuo susitarimu nustatytų reikalavimų ar sąlygų nesilaikymą – baudą iki 3 procentų nuo bendrųjų metinių pajamų;
+4) už atsisakymą sudaryti su Energetikos ministerija šio įstatymo 8 straipsnyje numatytą susitarimą dėl vartotojų švietimo ir konsultavimo arba už šiuo susitarimu nustatytų reikalavimų ar sąlygų nesilaikymą – baudą iki 3 procentų nuo bendrųjų metinių pajamų;
 
 
 
@@ -893,12 +915,12 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 
 
 
-3. Skiriamos baudos dydis nustatomas pagal minimalios ir maksimalios baudos dydžio vidurkį, atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidutinio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidutinio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas Valstybinės energetikos inspekcijos sprendime.
+3. Skiriamos baudos dydis nustatomas pagal minimalios ir maksimalios baudos dydžio vidurkį, atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidutinio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidutinio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas Tarybos sprendime.
 
 
 
 
-4. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad pažeidėjas padėjo Valstybinei energetikos inspekcijai tyrimo metu, įsipareigojimo ar susitarimo metu Energetikos ministerijai teikė visapusišką ir objektyvią informaciją, tokio pobūdžio pažeidimą padarė pirmą kartą. 
+4. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad pažeidėjas padėjo Tarybai tyrimo metu, įsipareigojimo ar susitarimo metu Energetikos ministerijai teikė visapusišką ir objektyvią informaciją, tokio pobūdžio pažeidimą padarė pirmą kartą. 
 
 
 
@@ -908,7 +930,7 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 
 
 
-6. Sprendimas dėl sankcijos skyrimo turi būti priimtas per 3 mėnesius nuo pažeidimo nustatymo dienos, o kai pažeidimas yra tęstinis ar trunkamasis, – nuo paskutinių tęstinio pažeidimo veiksmų atlikimo dienos ar trunkamojo pažeidimo paaiškėjimo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip penkeri metai, sankcijos negali būti skiriamos. 
+6. Sprendimas dėl sankcijos skyrimo turi būti priimtas per 3 mėnesius nuo pažeidimo nustatymo dienos, o kai pažeidimas yra tęstinis ar trunkamasis, – nuo paskutinių tęstinio pažeidimo veiksmų atlikimo dienos ar trunkamojo pažeidimo paaiškėjimo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip 5 metai, sankcijos negali būti skiriamos. 
 
 
 
@@ -918,52 +940,58 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 
 
 
-8. Pakartotinai per vienus metus nuo pažeidimo padarymo padarius šio straipsnio 2 dalies 1, 3 ar 7 punktų pažeidimą, už kurį jau buvo pritaikyta šio įstatymo nustatyta sankcija, gali būti skiriama bauda iki 5 procentų praėjusių metų bendrųjų metinių pajamų.
+8. Pakartotinai per vienus metus nuo pažeidimo padarymo padarius šio straipsnio 2 dalies 1, 3 ar 7 punktų pažeidimą, už kurį jau buvo pritaikyta šio įstatymo nustatyta sankcija, gali būti skiriama bauda iki 5 procentų praėjusių metų bendrųjų metinių pajamų.
 
 
 
 
-9. Tais atvejais, kai neįmanoma nustatyti juridinio asmens praėjusių metų bendrųjų metinių pajamų, Valstybinė energetikos inspekcija turi teisę vietoj šio straipsnio 2 dalies 2, 4 ar 6 punktuose ar 8 dalyje nurodytos baudos skirti juridiniam asmeniui baudą iki 80 000 eurų.
+9. Tais atvejais, kai neįmanoma nustatyti juridinio asmens praėjusių metų bendrųjų metinių pajamų, Taryba turi teisę vietoj šio straipsnio 2 dalies 2, 4 ar 6 punktuose ar 8 dalyje nurodytos baudos skirti juridiniam asmeniui baudą iki 80 000 eurų.
 
 
 
 
-10. Valstybinė energetikos inspekcija turi teisę neskirti baudos, kai pažeidimas Viešojo administravimo įstatymo nustatyta tvarka laikomas mažareikšmiu.
+10. Taryba turi teisę neskirti baudos, kai pažeidimas Viešojo administravimo įstatymo nustatyta tvarka laikomas mažareikšmiu.
 
 
 
 
-11. Skundai dėl Valstybinės energetikos inspekcijos sprendimų teisėtumo ir pagrįstumo nagrinėjami Lietuvos Respublikos administracinių bylų teisenos įstatymo (toliau – Administracinių bylų teisenos įstatymas) nustatyta tvarka.
+11. Skundai dėl Tarybos sprendimų teisėtumo ir pagrįstumo nagrinėjami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1976, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03183
  
 
 
 
 
+21 straipsnis. Tarybos sprendimo vykdymas 
 
 
-21 straipsnis. Valstybinės energetikos inspekcijos sprendimo vykdymas 
-
-
-1. Valstybinės energetikos inspekcijos sprendimu paskirta bauda turi būti sumokėta per 30 kalendorinių dienų nuo tos dienos, kai sprendimas dėl baudos skyrimo buvo įteiktas. Apskundus Valstybinės energetikos inspekcijos sprendimą, bauda turi būti sumokėta ne vėliau kaip per 30 kalendorinių dienų nuo teismo sprendimo įsiteisėjimo dienos.
+1. Tarybos sprendimu paskirta bauda turi būti sumokėta per 30 kalendorinių dienų nuo tos dienos, kai sprendimas dėl baudos skyrimo buvo įteiktas. Apskundus Tarybos sprendimą, bauda turi būti sumokėta ne vėliau kaip per 30 kalendorinių dienų nuo teismo sprendimo įsiteisėjimo dienos.
 
 
 
 
-2. Valstybinės energetikos inspekcijos sprendimas yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. 
+2. Tarybos sprendimas yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1976, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03183
  
 
 
 
 
+22 straipsnis. Tarybos sprendimo apskundimas
 
 
-22 straipsnis. Valstybinės energetikos inspekcijos sprendimo apskundimas
+Asmuo, nesutinkantis su Tarybos sprendimu, turi teisę per 30 kalendorinių dienų nuo sprendimo priėmimo dienos apskųsti jį teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. 
 
 
-Asmuo, nesutinkantis su Valstybinės energetikos inspekcijos sprendimu, turi teisę per 30 kalendorinių dienų nuo sprendimo priėmimo dienos apskųsti jį teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XIII-1976, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03183
  
-
-
 
 
 
@@ -1030,3 +1058,14 @@ priedas
 
 
 ____________________
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1976, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03183
+Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatymo Nr. XII-2702 13, 14, 15, 16, 17, 18, 19, 20, 21 ir 22 straipsnių pakeitimo įstatymas
