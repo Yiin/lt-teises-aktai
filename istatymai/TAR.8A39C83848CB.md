@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -919,6 +919,7 @@ b) iki 2001 m. spalio 1 d. – hipotekos registrą;
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
 RESPUBLIKOS PREZIDENTAS                                                        VALDAS ADAMKUS
+ 
 
 
 
@@ -926,6 +927,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
+ 
 PATVIRTINTAS
 2000 m. liepos 18 d.
 įstatymu Nr. VIII-1864
@@ -4628,7 +4630,10 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 
 
-5. Komisijos narių darbo apmokėjimo tvarką nustato Vyriausybė.
+5. Komisijos narių darbas Komisijoje apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1742, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20715
+ 
 
 
 Papildyta straipsniu:
@@ -21045,6 +21050,22 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 2. Sąlygine hipoteka gali būti įkeičiamas būsimas nekilnojamasis daiktas, kuris bus sukurtas ateityje arba kurio savininku įkaito davėjas taps ateityje. Ši sąlyginė hipoteka įsigalioja nuo to momento, kai hipotekos objektu esantis daiktas įregistruojamas nekilnojamojo turto registre kaip įkaito davėjo nuosavybė.
 
 
+
+
+3. Sąlygine hipoteka gali būti įkeičiamas nekilnojamasis daiktas, kurį siekiama įsigyti nuosavybės teise Civilinio proceso kodekso VI dalyje nustatyta tvarka. Ši sąlyginė hipoteka įsigalioja nuo to momento, kai Civilinio proceso kodekso VI dalyje nustatyta tvarka įsigijęs nekilnojamąjį daiktą asmuo tampa šio daikto savininku. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
+ 
+
+
+
+
+4. Duomenys apie sąlyginės hipotekos sąlygos, su kuria siejamas hipotekos galiojimas, atsiradimą ar pabaigą pateikiami Hipotekos registrui Hipotekos registro nuostatuose nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
  
@@ -21513,7 +21534,10 @@ Hipotekos PABAIGA
 4.197 straipsnis. Hipotekos pabaigos pagrindai
 
 
-1. Priverstinis įkeisto daikto realizavimas hipotekos kreditoriaus prašymu išlaisvina jį nuo visų hipotekų.
+1. Priverstinis įkeisto daikto realizavimas hipotekos kreditoriaus prašymu išlaisvina jį nuo visų galiojančių hipotekų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
+ 
 
 
 
@@ -21568,7 +21592,10 @@ Hipotekos PABAIGA
 
 
 
-7. Pasibaigusi hipoteka išregistruojama iš Hipotekos registro. Hipotekos kreditoriaus, skolininko arba turto savininko prašymas dėl hipotekos pabaigos pateikiamas notarui, o šis duomenis apie hipotekos pabaigą perduoda Hipotekos registrui.
+7. Pasibaigusi hipoteka išregistruojama iš Hipotekos registro. Hipotekos kreditoriaus, skolininko arba turto savininko prašymas dėl hipotekos pabaigos pateikiamas notarui, o šis duomenis apie hipotekos pabaigą perduoda Hipotekos registrui. Sąlyginė hipoteka, sudaryta siekiant įsigyti nuosavybės teise nekilnojamąjį daiktą Civilinio proceso kodekso VI dalyje nustatyta tvarka, išregistruojama iš Hipotekos registro pagal antstolio pranešimą, kad sąlyginę hipoteką sudaręs asmuo netapo šio turto savininku. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
+ 
 
 
 Straipsnio pakeitimai:
@@ -49879,3 +49906,13 @@ Lietuvos Respublikos civilinio kodekso 1.84, 1.85, 2.10, 2.11, 2.26, 3.14, 3.210
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2039, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06551
 Lietuvos Respublikos civilinio kodekso 3.254-1 straipsnio pakeitimo įstatymas
+ 
+42.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1742, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20715
+Lietuvos Respublikos civilinio kodekso 2.10-1 straipsnio pakeitimo įstatymas
+ 
+43.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
+Lietuvos Respublikos civilinio kodekso 4.184 ir 4.197 straipsnių pakeitimo įstatymas
