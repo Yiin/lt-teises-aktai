@@ -13,22 +13,22 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-08-31
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
  
  
 
  
-LIETUVOS RESPUBLIKOS
-VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ DARBUOTOJŲ DARBO APMOKĖJIMO
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS  VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ DARBUOTOJŲ IR KOMISIJŲ NARIŲ DARBO APMOKĖJIMO  ĮSTATYMAS 
  
 2017 m. sausio 17 d. Nr. XIII-198
 Vilnius
  
  
  
+Pakeistas teisės akto pavadinimas:
+Nr. XIII-1739, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20709
  
 
 
@@ -40,7 +40,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šis įstatymas nustato valstybės ir savivaldybių biudžetinių įstaigų, finansuojamų iš valstybės biudžeto, savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto ir kitų valstybės įsteigtų pinigų fondų lėšų (toliau – biudžetinės įstaigos), darbuotojų, dirbančių pagal darbo sutartis (toliau – darbuotojai), darbo apmokėjimo sąlygas ir dydžius, materialines pašalpas, darbuotojų pareigybių lygius ir grupes, taip pat kasmetinį veiklos vertinimą. 
+1. Šis įstatymas nustato valstybės ir savivaldybių biudžetinių įstaigų, finansuojamų iš valstybės biudžeto, savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto ir kitų valstybės įsteigtų pinigų fondų lėšų (toliau – biudžetinės įstaigos), darbuotojų, dirbančių pagal darbo sutartis (toliau – darbuotojai), darbo apmokėjimo sąlygas ir dydžius, materialines pašalpas, darbuotojų pareigybių lygius ir grupes, kasmetinį veiklos vertinimą, taip pat įstatymų pagrindais sudarytų komisijų (darbo grupių, tarybų, Teisėjų garbės teismo, darbo arbitražo), finansuojamų iš valstybės ir savivaldybių biudžetų (toliau kartu – komisijos), pirmininkų, pirmininkų pavaduotojų ir narių (toliau – komisijų nariai) atlygį už darbą. 
 
 
 
@@ -68,16 +68,34 @@ BENDROSIOS NUOSTATOS
 
 
 
-5) gydytojams rezidentams, gydytojams odontologams rezidentams ir veterinarijos gydytojams rezidentams. 
-Papildyta straipsnio punktu:
-Nr. XIII-1413, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11478
-Straipsnio punkto pakeitimai:
-Nr. XIII-1688, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20187
+5) gydytojams rezidentams, gydytojams odontologams rezidentams ir veterinarijos gydytojams rezidentams;
+
+
+
+
+6) komisijų nariams apmokant už darbą Lietuvos Respublikos Seimo, Respublikos Prezidento, Europos Parlamento, savivaldybių tarybų rinkimų, referendumo komisijose ir balsavimo komisijose Lietuvos diplomatinėse atstovybėse, konsulinėse įstaigose ir laivuose, susijusį su rinkimų ar referendumo organizavimu ir balsų skaičiavimu;
+
+
+
+
+7) Lietuvos Respublikos Seimo, Respublikos Prezidento, kitų pagal specialius įstatymus paskirtų valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams;
+
+
+
+
+8) komisijų nariams – valstybės tarnautojams, teisėjams, prokurorams ir kitiems valstybės pareigūnams.
+
+
+
+
+
+
+3. Šio įstatymo II ir III skyriai netaikomi komisijų nariams.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1739, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20709
  
-
-
-
-
 
 
 
@@ -708,6 +726,51 @@ Nr. XIII-1395, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11323
 
 
 
+III1 SKYRIUS
+KOMISIJOS NARIO ATLYGIS UŽ DARBĄ
+ 
+
+
+141 straipsnis. Komisijos nario atlygio dydžiai ir jų nustatymas
+
+
+1. Komisijos nario atlygio už darbą komisijoje dydis nustatomas už vieną komisijos posėdyje dirbtą valandą ir diferencijuojamas pagal komisijos veiklos pobūdį:
+
+
+1) jei komisija priima sprendimus, kurie yra privalomi asmenims, valstybės ir savivaldybių institucijoms ir įstaigoms, taip pat kitoms įstaigoms, įmonėms ir organizacijoms ir kuriuos pakeisti arba panaikinti gali tik pati komisija arba teismas, komisijos nariui nustatomas 0,04–0,082 pareiginės algos bazinio dydžio atlygis; 
+
+
+
+
+2) jei komisija priima rekomendacinio pobūdžio sprendimus (teikia išvadas, pasiūlymus), komisijos nariui nustatomas 0,037–0,07 pareiginės algos bazinio dydžio atlygis.
+
+
+
+
+
+
+2. Už pasirengimą komisijos posėdyje nagrinėti vieną paraišką, pareiškimą, prašymą ar skundą, eksperto išvados parengimą mokamas 0,07–0,3 pareiginės algos bazinio dydžio atlygis.
+
+
+
+
+3. Komisijos pirmininkui (o kai jo nėra, – komisijos pirmininko pavaduotojui) už darbą komisijos posėdyje papildomai mokama 30 procentų faktiškai apskaičiuoto atlygio už kiekvieną komisijos posėdį. 
+
+
+
+
+4. Vyriausybė ar jos įgaliota institucija, atsižvelgdama į komisijos veiklos pobūdį, nustato konkretų komisijos narių atlygio dydį ir mokėjimo tvarką. 
+
+
+
+
+Papildyta skyriumi:
+Nr. XIII-1739, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20709
+ 
+
+
+
+
 IV SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
  
@@ -822,17 +885,17 @@ Respublikos Prezidentė                            �
  
  
  
-
-
-
-
-
-
  
+
+
+
+
+
+
 Lietuvos Respublikos 
 valstybės ir savivaldybių įstaigų 
-darbuotojų darbo apmokėjimo 
-įstatymo 
+darbuotojų ir komisijų narių darbo 
+apmokėjimo įstatymo 
 1 priedas
  
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ VADOVŲ IR JŲ PAVADUOTOJŲ 
@@ -903,6 +966,7 @@ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
  
 Priedo pakeitimai:
 Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
+Nr. XIII-1739, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20709
  
 
 
@@ -911,8 +975,8 @@ Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
  
 Lietuvos Respublikos 
 valstybės ir savivaldybių įstaigų 
-darbuotojų darbo apmokėjimo 
-įstatymo
+darbuotojų ir komisijų narių darbo 
+apmokėjimo įstatymo
 2 priedas
  
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINIŲ VADOVŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
@@ -1027,6 +1091,7 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINI
 Priedo pakeitimai:
 Nr. XIII-745, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18513
 Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
+Nr. XIII-1739, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20709
  
 
 
@@ -1035,8 +1100,8 @@ Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
  
 Lietuvos Respublikos 
 valstybės ir savivaldybių įstaigų 
-darbuotojų darbo apmokėjimo 
-įstatymo
+darbuotojų ir komisijų narių darbo 
+apmokėjimo įstatymo
 3 priedas
  
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ A IR B LYGIO SPECIALISTŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
@@ -1076,6 +1141,7 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ A IR B LYGIO SPECIALISTŲ PAREIGINĖS ALGO
 Priedo pakeitimai:
 Nr. XIII-745, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18513
 Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
+Nr. XIII-1739, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20709
  
 
 
@@ -1084,8 +1150,8 @@ Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
  
 Lietuvos Respublikos 
 valstybės ir savivaldybių įstaigų
-darbuotojų darbo apmokėjimo 
-įstatymo
+darbuotojų ir komisijų narių darbo 
+apmokėjimo įstatymo
 4 priedas
  
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ KVALIFIKUOTŲ DARBUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI
@@ -1118,6 +1184,7 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ KVALIFIKUOTŲ DARBUOTOJŲ PAREIGINĖS ALGO
 Priedo pakeitimai:
 Nr. XIII-745, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18513
 Nr. XIII-1712, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20970
+Nr. XIII-1739, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20709
  
 
 
@@ -2706,3 +2773,8 @@ Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1838, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21865
 Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 5 priedo pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1739, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20709
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 pavadinimo, 1 straipsnio, 1, 2, 3, 4, 5 priedų pakeitimo ir Įstatymo papildymo III-1 skyriumi įstatymas
