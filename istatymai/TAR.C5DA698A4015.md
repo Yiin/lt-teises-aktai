@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2020-03-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 14-352, i. k. 0961010ISTA00I-1179
  
@@ -434,6 +434,14 @@ Nr. XII-2618, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24192
 3) pagal kompetenciją atlieka kituose įstatymuose ir teisės aktuose nustatytas funkcijas.
 
 
+
+
+
+
+7. Šio straipsnio 2 dalies 5 punkte nustatytos Restauravimo taryba, Kilnojamųjų kultūros vertybių restauratorių atestavimo komisija, Kilnojamųjų kultūros vertybių išvežimo taryba ir Kilnojamųjų kultūros vertybių vertinimo komisija atlieka joms jų nuostatuose priskirtas funkcijas kultūros vertybių apsaugos srityje, o jų narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIII-1755, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20736
+ 
 
 
 Straipsnio pakeitimai:
@@ -1260,3 +1268,8 @@ Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2726, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26896
 Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 2, 11, 13, 14, 16, 17, 18 straipsnių ir priedo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1755, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20736
+Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 4 straipsnio pakeitimo įstatymas
