@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E39827DBDE34"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-10-07
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 253-0; Žin. 1993, Nr.2-29, i. k. 0921010ISTA0000I-28
  
@@ -79,7 +79,9 @@ Respublikos Prezidentą renka Lietuvos Respublikos piliečiai penkeriems metams,
 
 1. Teisę rinkti Respublikos Prezidentą turi Lietuvos Respublikos piliečiai, kurie rinkimų dieną yra ne jaunesni kaip 18 metų. Rinkimuose nedalyvauja Lietuvos Respublikos piliečiai, teismo pripažinti neveiksniais.
 
-2. Bet kokie tiesioginiai arba netiesioginiai Lietuvos Respublikos piliečių rinkimų teisės apribojimai dėl lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų draudžiami.
+2. Bet kokie tiesioginiai arba netiesioginiai Lietuvos Respublikos piliečių rinkimų teisės apribojimai – dėl lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, neįgalumo, tikėjimo, įsitikinimų ar pažiūrų – draudžiami.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
  
 
 5 straipsnis. Lygi rinkimų teisė
@@ -94,7 +96,12 @@ Respublikos Prezidentą rinkėjai renka be tarpininkų.
 
 7 straipsnis. Slaptas balsavimas
 
-Rinkėjai balsuoja asmeniškai ir slaptai. Kontroliuoti rinkėjų valią rinkimuose draudžiama.
+1. Rinkėjai balsuoja asmeniškai ir slaptai. Draudžiama balsuoti už kitą asmenį arba pavesti kitam asmeniui balsuoti už save. Jeigu kam nors tapo žinoma kito asmens balsavimo paslaptis, draudžiama ją atskleisti. Kontroliuoti rinkėjų valią rinkimuose draudžiama.
+
+2. Rinkėjui, kuris dėl neįgalumo negali balsuoti savarankiškai, turi būti sudarytos sąlygos laisvai pasirinkti balsuoti padedamam kito asmens, kuriuo jis pasitiki, kaip tai nustatyta šio įstatymo 56 straipsnio 5 dalyje, arba pasinaudoti galimybe balsuoti neįgaliųjų poreikiams pritaikytose balsavimo patalpose.
+
+Straipsnio pakeitimai:
+Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
  
 
 8 straipsnis. Draudimas papirkti rinkėjus ir rinkimų teisę turinčius asmenis
@@ -125,7 +132,10 @@ Nr. XIII-1572, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18178
 
 10 straipsnis. Rinkimų rengimo ir vykdymo išlaidos
 
-Respublikos Prezidento rinkimų rengimo ir vykdymo išlaidas apmoka valstybė ir savivaldybės. Iš valstybės biudžeto lėšų apmokamos rinkimų komisijų išlaidos rinkimams organizuoti ir vykdyti ir atlyginama už rinkimų komisijų narių ir jas aptarnaujančio personalo bei balsavimo komisijų darbą. Iš savivaldybių biudžetų lėšų apmokama už savivaldybių ir apylinkių rinkimų komisijų būstinių ir balsavimo patalpų išlaikymą, balsavimo patalpų įrengimo inventoriaus įsigijimą ir išsaugojimą. Jeigu savivaldybė nesuteikia tinkamų patalpų ar inventoriaus rinkimų apylinkės būstinei ir balsavimo patalpoms, tam Vyriausiosios rinkimų komisijos sprendimu panaudojamos valstybės biudžeto lėšos. Šiuo atveju faktines išlaidas balsavimo patalpoms išlaikyti ir inventoriui įsigyti ir išsaugoti per 2 mėnesius po Respublikos Prezidento rinkimų Vyriausioji rinkimų komisija ne ginčo tvarka išieško iš savivaldybės. Už rinkėjų pavėžėjimą į rinkimų apylinkes balsuoti, kai pavėžėjimas organizuojamas Vyriausiosios rinkimų komisijos nustatyta tvarka, apmokama iš valstybės ir savivaldybių biudžetų.
+Respublikos Prezidento rinkimų rengimo ir vykdymo išlaidas apmoka valstybė ir savivaldybės. Iš valstybės biudžeto lėšų apmokamos rinkimų komisijų išlaidos rinkimams organizuoti ir vykdyti, taip pat atlyginama už rinkimų komisijų narių ir jas aptarnaujančio personalo bei balsavimo komisijų darbą. Iš savivaldybių biudžetų lėšų mokama už savivaldybių ir apylinkių rinkimų komisijų būstinių ir balsavimo patalpų išlaikymą, inventoriaus įsigijimą ir išsaugojimą, balsavimo patalpų įrengimą ir pritaikymą neįgaliųjų poreikiams, o jeigu galimybės įrengti balsavimo patalpų ar jų pritaikyti neįgaliųjų poreikiams nėra, – už tinkamų patalpų nuomą. Jeigu savivaldybės administracija nesuteikia tinkamų patalpų ar inventoriaus rinkimų apylinkės būstinei ir balsavimo patalpoms, tam Vyriausiosios rinkimų komisijos sprendimu panaudojamos valstybės biudžeto lėšos. Šiuo atveju faktines išlaidas balsavimo patalpoms ir inventoriui per 2 mėnesius po Respublikos Prezidento rinkimų Vyriausioji rinkimų komisija ne ginčo tvarka išieško iš savivaldybės. Už rinkėjų pavėžėjimą į rinkimų apylinkes balsuoti, kai pavėžėjimas organizuojamas Vyriausiosios rinkimų komisijos nustatyta tvarka, mokama iš valstybės ir savivaldybių biudžetų.
+
+Straipsnio pakeitimai:
+Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
  
 
 Antrasis skirsnis
@@ -341,7 +351,10 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
  
 
-4. Valstybės ir savivaldybių institucijos ir įstaigos privalo suteikti rinkimų komisijoms rinkimams organizuoti ir vykdyti tinkamas patalpas, įrangą, kompiuterinę techniką ir interneto ryšį. Rinkimams suteikiamos balsavimo patalpos ir patekimas į jas turi būti tinkamos judėjimo, regėjimo negalią turintiems ir senyvo amžiaus rinkėjams.
+4. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės privalo suteikti rinkimų komisijoms rinkimams organizuoti ir vykdyti tinkamas patalpas, įrangą, kompiuterinę techniką ir interneto ryšį. Savivaldybės administracija ne vėliau kaip per 20 dienų nuo rinkimų paskelbimo dienos, atsižvelgdama į patalpų, pritaikytų neįgaliems rinkėjams, poreikį konkrečioje rinkimų apylinkėje, privalo įvertinti, ar balsavimo patalpos tinkamos ir pritaikytos neįgaliųjų bei senyvo amžiaus rinkėjų poreikiams. Savivaldybės administracija, įvertinusi, kad balsavimo patalpos nėra tinkamos, privalo jas pritaikyti arba išnuomoti pritaikytas. Likus ne ilgiau kaip 2 mėnesiams iki rinkimų atliekamas pakartotinis balsavimo patalpų tinkamumo įvertinimas, kurį atlieka rinkimų komisijos kartu su savivaldybės administracija. Balsavimo patalpų tinkamumui įvertinti gali būti pasitelkiamos nevyriausybinės organizacijos. Balsavimo patalpų tinkamumas vertinamas ir nevyriausybinės organizacijos pasitelkiamos Vyriausiosios rinkimų komisijos nustatyta tvarka..
+Straipsnio dalies pakeitimai:
+Nr. XIII-1776, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21112
+ 
 
 5. Vyriausioji rinkimų komisija savivaldybių rinkimų komisijoms skirtas valstybės biudžeto lėšas rinkimams organizuoti perveda į kiekvienai savivaldybės rinkimų komisijai atidarytą Vyriausiosios rinkimų komisijos banko sąskaitą. 
 
