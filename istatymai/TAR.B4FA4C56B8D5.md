@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-06-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2020-03-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
  
@@ -574,12 +574,18 @@ Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
 
 
 
-5. Apmokėjimo už darbą Seimo, Seimo struktūrinių padalinių arba Seimo pareigūnų sudarytose darbo grupėse (komisijose) teisės aktų projektams rengti tvarką nustato Seimo statute nurodyta institucija.
+5. Darbas Seimo, Seimo struktūrinių padalinių arba Seimo pareigūnų sudarytose darbo grupėse (komisijose) teisės aktų projektams rengti apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1743, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20716
+ 
 
 
 
 
-6. Apmokėjimo už darbą Respublikos Prezidento, Vyriausybės, Ministro Pirmininko, iš valstybės biudžeto ar valstybės pinigų fondų išlaikomų įstaigų sudaromose darbo grupėse (komisijose) teisės aktų projektams rengti tvarką nustato Vyriausybė.
+6. Darbas Respublikos Prezidento, Vyriausybės, Ministro Pirmininko, iš valstybės biudžeto ar valstybės pinigų fondų išlaikomų įstaigų sudaromose darbo grupėse (komisijose) teisės aktų projektams rengti apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1743, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20716
+ 
 
 
 
@@ -779,7 +785,10 @@ Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
 
 
 
-2. Atliekant numatomo teisinio reguliavimo poveikio vertinimą, nustatomas galimas teigiamas ir neigiamas poveikis to teisinio reguliavimo sričiai, asmenims ar jų grupėms, kuriems bus taikomas numatomas teisinis reguliavimas. Atsižvelgiant į teisės akte numatomo naujo teisinio reguliavimo pobūdį, mastą, turi būti įvertinamas poveikis ekonomikai, valstybės finansams, socialinei aplinkai, viešajam administravimui, teisinei sistemai, kriminogeninei situacijai, korupcijos mastui, aplinkai, administracinei naštai, regionų plėtrai ir kitoms sritims.
+2. Atliekant numatomo teisinio reguliavimo poveikio vertinimą, nustatomas galimas teigiamas ir neigiamas poveikis to teisinio reguliavimo sričiai, asmenims ar jų grupėms, kuriems bus taikomas numatomas teisinis reguliavimas. Atsižvelgiant į teisės akte numatomo naujo teisinio reguliavimo pobūdį, mastą, turi būti įvertinamas poveikis ekonomikai, konkurencijai, valstybės finansams, socialinei aplinkai, viešajam administravimui, teisinei sistemai, kriminogeninei situacijai, korupcijos mastui, aplinkai, administracinei naštai, regionų plėtrai ir kitoms sritims. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2220, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10162
+ 
 
 
 
@@ -799,6 +808,19 @@ Numatomo teisinio reguliavimo poveikio korupcijos mastui vertinimas (teisės akt
  
 
 
+
+
+
+
+161 straipsnis. Numatomo teisinio reguliavimo poveikio konkurencijai vertinimas
+
+
+Lietuvos Respublikos konkurencijos įstatymo nustatytais atvejais teisės aktų projektų rengėjai atlieka teisės aktų projektų poveikio konkurencijai vertinimą. Šio vertinimo tvarką nustato Vyriausybė. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2220, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10162
+ 
 
 
 
@@ -1408,3 +1430,8 @@ Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 10 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
 Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 2, 3, 5, 6, 7, 8, 10 straipsnių ir ketvirtojo skirsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2220, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10162
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 15 straipsnio pakeitimo ir Įstatymo papildymo 16-1 straipsniu įstatymas
