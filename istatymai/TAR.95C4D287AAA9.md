@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.95C4D287AAA9"
 
 # Lietuvos Respublikos Bendrojo pagalbos centro įstatymas
 
-Suvestinė redakcija nuo 2011-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2021-11-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 90-3306, i. k. 1041010ISTA0IX-2246
  
@@ -64,66 +64,57 @@ Nr. X-589, 2006-05-02, Žin., 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA0
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Bendrasis pagalbos telefono numeris 112 (toliau – numeris 112) – Nacionaliniame telefono ryšio numeracijos plane nurodytas vienas telefono ryšio numeris, skirtas pranešti apie rengiamą, daromą ar padarytą teisės pažeidimą, staiga iškilusią grėsmę gyvybei, sveikatai, saugumui, aplinkai, materialioms, nematerialioms ar kitoms vertybėms ir, jei reikia, iškviesti (išsikviesti) atitinkamoms pagalbos tarnyboms.
+1. Iškvieta „eCall“ – pagalbos iškvieta skubiosios pagalbos tarnybų telefono numeriu 112, kai transporto priemonėje įrengta sistema suaktyvinama automatiškai (transporto priemonėje įrengtais jutikliais) arba rankiniu būdu ir per viešąjį judriojo ryšio tinklą užmezgamas ryšys tarp transporto priemonės ir Centro.
 
 
 
 
-2. Nelaimės vieta – vieta, kurioje susidarė ar gali susidaryti šio straipsnio 1 dalyje nurodytos aplinkybės ir (arba) kurioje reikia suteikti pagalbą.
+2. Operatyvusis pajėgų valdymas – sprendimų dėl pajėgų reagavimo į pranešimus apie pagalbos poreikį priėmimas, skubiosios pagalbos tarnybos pajėgų išsiuntimas į įvykio vietą, jų veiksmų koordinavimas ir turimos aktualios informacijos joms teikimas.
 
 
 
 
-3. Pagalba – neatidėliotini veiksmai nelaimės vietoje, atliekami pagalbos tarnybų pagal savo kompetenciją reaguojant į pranešimus apie pagalbos poreikį. Pagalba taip pat laikomi Centro pareigūnų, priėmusių pagalbos prašymus, telefonu teikiami patarimai, paaiškinimai ar nurodymai. 
-Straipsnio dalies pakeitimai:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
+3. Pagalba – Centro ir skubiosios pagalbos tarnybų pagal savo kompetenciją atliekami neatidėliotini veiksmai reaguojant į pranešimus apie pagalbos poreikį. Pagalba taip pat laikomi Centro pareigūnų, priėmusių pagalbos prašymus, telefonu teikiami patarimai, paaiškinimai ar nurodymai.
+
+
+
+
+4. Pagalbos prašymas – skubiosios pagalbos tarnybų telefono numeriu 112, iškvieta „eCall“ ar kitomis Centre įdiegtomis ryšio priemonėmis gaunamas prašymas pagal skubiosios pagalbos tarnybų kompetenciją suteikti pagalbą, kai pranešama apie šio straipsnio 9 dalyje nurodytas aplinkybes. 
+
+
+
+
+5. Pagalbos skambutis – viešųjų telefono ryšio paslaugų priemonėmis skubiosios pagalbos tarnybų telefono numeriu 112 sukuriamas sujungimas su Centru, suteikiantis dvipusio ryšio galimybę realiuoju laiku.
+
+
+
+
+6. Pranešimas apie pagalbos poreikį – Centro pareigūno, priėmusio pagalbos prašymą, parengiamas ir skubiosios pagalbos tarnyboms perduodamas pranešimas apie šio straipsnio 9 dalyje nurodytas aplinkybes, prireikus papildomas Centro informacinės sistemos ar kitais duomenimis.
+
+
+
+
+7. Reagavimas į pagalbos prašymą – Centro veiksmai, apimantys pagalbos prašymo priėmimą, įvertinimą, teiktinos pagalbos poreikio nustatymą, pagalbos teikimą telefonu, pranešimo apie pagalbos poreikį parengimą, jo perdavimą skubiosios pagalbos tarnyboms ir tolesnį turimos informacijos teikimą šioms tarnyboms.
+
+
+
+
+8. Skubiosios pagalbos tarnybos (toliau – pagalbos tarnybos) – policija, priešgaisrinės gelbėjimo pajėgos, greitosios medicinos pagalbos tarnyba, aplinkos apsaugos pajėgos.
+
+
+
+
+9. Skubiosios pagalbos tarnybų telefono numeris 112 (toliau – numeris 112) – bendras telefono ryšio numeris, skirtas pranešti apie rengiamą, daromą ar padarytą teisės pažeidimą, staiga iškilusią grėsmę gyvybei, sveikatai, saugumui, aplinkai, materialiosioms ar nematerialiosioms vertybėms ir pagalbos tarnyboms iškviesti (išsikviesti).
+
+
+
+
+10. Šio straipsnio 1 ir 5 dalyse, šio įstatymo 7 straipsnyje, 8 straipsnio 1 ir 2 dalyse vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos elektroninių ryšių įstatyme. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1901, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00796
  
-
-
-
-
-4. Pagalbos prašymas – numeriu 112 Centre gautas prašymas suteikti pagalbą. Pagalbos prašymu nelaikomas prašymas suteikti informaciją ar pagalbą, kai akivaizdu, kad pranešama apie aplinkybes, nesusijusias su nurodytomis šio straipsnio 1 dalyje.
-
-
-
-
-5. Pagalbos skambutis – viešųjų telefono ryšio paslaugų priemonėmis sukurtas numeriu 112 sujungimas su Centru, suteikiantis dvipusio ryšio galimybę realiu laiku.
-
-
-
-
-6. Pagalbos tarnybos – policija, priešgaisrinės gelbėjimo pajėgos, greitosios medicinos pagalbos tarnyba. Pagalbos tarnybomis gali būti laikomi ir kiti viešieji ir privatieji juridiniai asmenys, kai jie pasitelkiami reaguoti į pranešimus apie pagalbos poreikį įstatymų ir kitų teisės aktų nustatyta tvarka ir sąlygomis.
-
-
-
-
-7. Pranešimas apie pagalbos poreikį – Centro pareigūno, priėmusio pagalbos prašymą, parengtas ir perduotas pranešimas pagalbos tarnyboms apie šio straipsnio 1 dalyje nurodytas aplinkybes ir reikalingų atlikti veiksmų poreikį nelaimės vietoje, prireikus papildytas Centro informacinės sistemos ar kitais duomenimis. 
-Straipsnio dalies pakeitimai:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
- 
-
-
-
-
-8. Reagavimas į pagalbos prašymą – Centro veiksmai, apimantys pagalbos prašymo priėmimą, įvertinimą, teiktinos pagalbos poreikio nustatymą, pagalbos teikimą telefonu, pranešimo apie pagalbos poreikį parengimą ir jo perdavimą pagalbos tarnyboms bei tolesnį turimos informacijos teikimą šioms tarnyboms.
-
-
-
-
-9. Operatyvusis pajėgų valdymas – reagavimas į pagalbos prašymą ir priešgaisrinių gelbėjimo ir greitosios medicinos pagalbos tarnybos pajėgų išsiuntimas į nelaimės vietą, jų veiksmų koordinavimas ir turimos aktualios informacijos jiems teikimas. 
-Papildyta straipsnio dalimi:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
- 
-
-
-
-
-10. Šio įstatymo 7 straipsnyje, 8 straipsnio 1 ir 2 dalyse, 15 straipsnio 1 dalies 4 punkte ir 16 straipsnio 1 dalies 3 punkte vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos elektroninių ryšių įstatyme.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
- 
-
-
 
 
 
@@ -270,114 +261,74 @@ CENTRO UŽDAVINIAI IR FUNKCIJOS
 Centro funkcijos:
 
 
-1) atsakyti į pagalbos skambučius;
+1) atsakyti į pagalbos skambučius neinformuojant pagalbos prašančio asmens apie daromą pagalbos skambučio įrašą;
 
 
 
 
-2) priimti ir operatyviai įvertinti pagalbos prašymus bei nustatyti teiktinos pagalbos poreikį;
+2) priimti ir operatyviai įvertinti pagalbos prašymus, nustatyti teiktinos pagalbos poreikį;
 
 
 
 
-3) pagal savo kompetenciją suteikti pagalbą telefonu;
+3) pagal savo kompetenciją suteikti pagalbos prašančiajam asmeniui pagalbą telefonu arba kitomis Centre įdiegtomis ryšio priemonėmis;
 
 
 
 
-4) perduoti pranešimus apie pagalbos poreikį atitinkamoms pagalbos tarnyboms, kai pagalba turi būti teikiama nelaimės vietoje;
+4) perduoti pranešimus apie pagalbos poreikį reikiamoms pagalbos tarnyboms;
 
 
 
 
-5) atlikti operatyvųjį pajėgų valdymą; 
-Papildyta straipsnio punktu:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
+5) priimti iškvietas „eCall“;
+
+
+
+
+6) perduoti informaciją apie asmenis, trukdančius Centro pareigūnų, priimančių pagalbos prašymus, darbą atitinkamoms valstybės institucijoms;
+
+
+
+
+7) užtikrinti tinkamą Centro informacinės sistemos veikimą ir joje tvarkomų duomenų apsaugą;
+
+
+
+
+8) diegti techninius ir programinius sprendimus, leidžiančius sutrumpinti reagavimo į pagalbos prašymus laiką;
+
+
+
+
+9) automatiniu ir neautomatiniu būdu be asmens sutikimo tvarkyti asmens duomenis, įskaitant specialių kategorijų asmens duomenis, taip pat kitus duomenis, jei to reikia viešojo intereso apsaugai užtikrinti, pagalbos prašančio asmens gyvybiniams interesams apsaugoti ir (ar) Centro uždaviniams įgyvendinti; 
+
+
+
+
+10) įgyvendinti priemones, skirtas skambučių, trukdančių priimti pagalbos prašymus, skaičiui sumažinti;
+
+
+
+
+11) pagal kompetenciją dalyvauti valdant ekstremaliąsias situacijas;
+
+
+
+
+12) teikti Centre turimą informaciją pagalbos tarnyboms ir kitoms valstybės ir savivaldybių institucijoms, įstaigoms ar įmonėms;
+
+
+
+
+13) atlikti kitas įstatymų nustatytas funkcijas. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1901, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00796
  
-
-
-
-
-6) teikti pagalbą telefonu iki pagalbos tarnybų atvykimo;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
- 
-
-
-
-
-7) jei reikia, pranešti apie susidariusias ar galinčias susidaryti šio įstatymo 2 straipsnio 1 dalyje nurodytas aplinkybes suinteresuotiems juridiniams ar (ir) fiziniams asmenims;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
- 
-
-
-
-
-8) užtikrinti tinkamą Centro informacinės sistemos veikimą ir joje tvarkomų duomenų apsaugą teisės aktų nustatyta tvarka ir sąlygomis;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
- 
-
-
-
-
-9) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka  teikti informaciją apie Centro regioninių padalinių aptarnaujamas teritorijas viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
- 
-
-
-
-
-10) diegti techninius ir programinius sprendimus, leidžiančius sutrumpinti reagavimo į pagalbos prašymus laiką;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
- 
-
-
-
-
-11) įstatymų nustatyta tvarka ir sąlygomis automatiniu ir neautomatiniu būdu tvarkyti asmens ir kitokius duomenis, jei to reikia nustatytiems uždaviniams įgyvendinti;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
- 
-
-
-
-
-12) įgyvendinti priemones, skirtas sumažinti melagingų pagalbos prašymų skaičiui;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
- 
-
-
-
-
-13) pagal kompetenciją dalyvauti valdant ekstremalias situacijas;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
- 
-
-
-
-
-14) įstatymų ir kitų teisės aktų nustatyta tvarka ir sąlygomis teikti Centre turimą informaciją pagalbos tarnyboms bei kitoms valstybės ir savivaldybių institucijoms, įstaigoms ar įmonėms;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
- 
-
-
-
-
-15) atlikti kitas įstatymų nustatytas funkcijas.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
- 
-
-
-
-
 
 
 
@@ -385,50 +336,63 @@ Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA
 
 
 TREČIASIS SKIRSNIS
-CENTRO KOMPETENCIJA ATLIEKANT OPERATYVŲJĮ PAJĖGŲ VALDYMĄ
+Centro ir pagalbos tarnybų sąveika, CENTRO INFORMACINĖ SISTEMA IR RYŠIŲ TINKLAS
  
 
 
-11 straipsnis. Centro kompetencija atliekant operatyvųjį pajėgų valdymą
+11 straipsnis. Centro ir pagalbos tarnybų sąveika 
 
 
-1. Esant galimybei Centras suteikia pagalbą telefonu, pranešimo apie pagalbos poreikį neperduodamas pagalbos tarnyboms.
-
-
-
-
-2. Kai nustatoma, kad pagalbą privalo suteikti pagalbos tarnybos, Centras perduoda atitinkamoms pagalbos tarnyboms pagal jų pateiktus algoritmus (informavimo schemas) pranešimą apie pagalbos poreikį ir, jei reikia, teikia pagalbą telefonu iki šių tarnybų atvykimo į nelaimės vietą.
+1. Centras atsako į pagalbos skambučius, priima pagalbos prašymus, parengia pranešimus apie pagalbos poreikį ir perduoda juos reikiamoms pagalbos tarnyboms. Pagalbos tarnybos atlieka operatyvųjį pajėgų valdymą ir yra atsakingos už tinkamą reagavimo į įvykius organizavimą.
 
 
 
 
-3. Pagalbos tarnybos, gavusios Centro perduotą pranešimą apie pagalbos poreikį, jų veiklą reglamentuojančių teisės aktų nustatyta tvarka privalo reaguoti į šį pranešimą ir pagal savo kompetenciją nelaimės vietoje suteikti pagalbą.
+2. Pagalbos prašymų priėmimo, įvertinimo, pranešimų apie pagalbos poreikį perdavimo greitosios medicinos pagalbos tarnybai tvarką nustato Lietuvos Respublikos sveikatos apsaugos ministras. Pagalbos prašymų priėmimo, įvertinimo, pranešimų apie pagalbos poreikį perdavimo policijai ir priešgaisrinėms gelbėjimo pajėgoms tvarką nustato atitinkamos pagalbos tarnybos centrinė įstaiga ir Centras. Pagalbos prašymų priėmimo, įvertinimo, pranešimų apie pagalbos poreikį perdavimo aplinkos apsaugos pajėgoms tvarką nustato Lietuvos Respublikos aplinkos ministras arba jo įgaliota įstaiga ir Centras.
 
 
 
 
-4. Pagalbos tarnyboms, reaguojančioms į pranešimą apie pagalbos poreikį, Centras teikia turimą informaciją apie padėties nelaimės vietoje pasikeitimus bei kitą informaciją, galinčią padėti šioms tarnyboms veiksmingai suteikti pagalbą ar racionaliau panaudoti jų pajėgų ir priemonių išteklius, naudojamus reaguoti į pranešimus apie pagalbos poreikį.
+3. Pagalbos tarnybos, gavusios Centro perduotą pranešimą apie pagalbos poreikį, jų veiklą reglamentuojančių teisės aktų nustatyta tvarka privalo reaguoti į šį pranešimą ir pagal savo kompetenciją suteikti pagalbą. 
 
 
 
 
-5. Operatyviojo pajėgų valdymo tvarką nustato vidaus reikalų ministras ir sveikatos apsaugos ministras.
+4. Pagalbos tarnyboms, reaguojančioms į pranešimą apie pagalbos poreikį, Centras teikia turimą informaciją, galinčią padėti šioms tarnyboms veiksmingai suteikti pagalbą ar racionaliau panaudoti jų pajėgų ir priemonių išteklius, naudojamus reaguoti į pranešimus apie pagalbos poreikį. 
 
 
 
 
-6. Pagalbos tarnybos informuoja Centrą apie pagalbos suteikimo rezultatus.
+5. Pagalbos tarnybos informuoja Centrą apie pagalbos suteikimo rezultatus.
 
 
 
 
-7. Centras neatsako už pagalbos tarnybų patirtą turtinę ar neturtinę žalą (nuostolius) sureagavus į netikslius pranešimus apie pagalbos poreikį, jeigu jie buvo parengti pagal melagingus ar klaidingus pagalbos prašymus.
+6. Centras neatsako už pagalbos tarnybų patirtą turtinę ar neturtinę žalą (nuostolius) joms sureagavus į netikslius pranešimus apie pagalbos poreikį, jeigu jie buvo parengti pagal melagingus ar klaidingus pagalbos prašymus.
+ 
+
+
+
+
+
+
+111 straipsnis. Centro informacinė sistema ir ryšių tinklas 
+
+
+1. Centras ir pagalbos tarnybos tarpusavio sąveikai užtikrinti bendrai naudoja Centro informacinę sistemą, kuri yra Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo nustatyta tvarka įsteigta valstybės informacinė sistema. Centro informacinė sistema skirta pagalbos prašymams priimti ir įvertinti, pranešimams apie pagalbos poreikį parengti ir pagalbos tarnyboms perduoti, pagalbos tarnybų operatyviajam pajėgų valdymui atlikti ir pagalbos tarnybų veiksmams koordinuoti, keistis duomenimis, informacijai apie pagalbos skambučius, pagalbos prašymus ir reagavimą į juos kaupti.
+
+
+
+
+2. Centras, policija, priešgaisrinės gelbėjimo pajėgos, greitosios medicinos pagalbos tarnyba komunikacijai balsu ir operatyviajam pajėgų valdymui naudoja Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninį mobilųjį radijo ryšio tinklą (toliau – SMRRT). Centras ir šios pagalbos tarnybos, reaguodamos į pagalbos prašymus, privalo naudoti radijo ryšio terminalus, veikiančius SMRRT. 
+TAR pastaba. 111 straipsnis įsigalioja 2021 m. sausio 1 d.
 
 
 
 
 Skirsnio pakeitimai:
 Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
+Nr. XIII-1901, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00796
  
 
 
@@ -450,27 +414,25 @@ Centro PAREIGŪNO TEISĖS IR PAREIGOS
 15 straipsnis. Centro pareigūno teisės
 
 
-1. Centro pareigūnas turi teisę:
+1. Centro pareigūnas turi teisę:
 
 
-1) prašyti papildomos informacijos apie susidariusias aplinkybes iš pagalbos prašančio asmens;
-
-
-
-
-2) atsisakyti teikti pagalbą ar perduoti pranešimą apie pagalbos poreikį pagalbos tarnyboms, kai nustato, kad gautas prašymas negali būti laikomas pagalbos prašymu; 
+1) prašyti papildomos informacijos apie susidariusias aplinkybes iš pagalbos prašančio asmens ir (ar) pagalbos tarnybų;
 
 
 
 
-3) pagal kompetenciją reikalauti, kad pagalbos tarnybos informuotų apie pagalbos suteikimo nelaimės vietoje rezultatus;
+2) atsisakyti teikti pagalbą ir nutraukti pokalbį, kai nustato, kad gautas prašymas negali būti laikomas pagalbos prašymu (yra nesusijęs su pagalbos tarnybų kompetencija); 
 
 
 
 
-4) teisės aktų nustatyta tvarka iš viešųjų ryšių tinklų teikėjų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjų, pagalbos tarnybų, kitų valstybės ir savivaldybių institucijų, įstaigų ar įmonių, kitų juridinių ir fizinių asmenų gauti jų turimus duomenis, būtinus operatyviai reaguoti į pagalbos prašymus.
+3) pagal kompetenciją reikalauti, kad pagalbos tarnybos informuotų apie pagalbos suteikimo rezultatus. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1901, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00796
+ 
 
 
 
@@ -486,35 +448,25 @@ Centro PAREIGŪNO TEISĖS IR PAREIGOS
 16 straipsnis. Centro pareigūno pareigos
 
 
-1. Centro pareigūnas, be Vidaus tarnybos statuto 3 straipsnio 9 dalyje nustatytų bendrųjų pareigų, privalo vykdyti šias pareigas:
+1. Centro pareigūnas privalo:
 
 
-1) tinkamai įvertinti pagalbos prašymus; jei įmanoma, suteikti pagalbą telefonu arba perduoti pranešimą apie pagalbos poreikį atitinkamoms pagalbos tarnyboms ir, jei reikia, teikti pagalbą iki pagalbos tarnybų atvykimo;
-
-
-
-
-2) jei reikia, apie susidariusias ar galinčias susidaryti šio įstatymo 2 straipsnio 1 dalyje nurodytas aplinkybes informuoti kitus suinteresuotus juridinius ar (ir) fizinius asmenis;
+1) tinkamai įvertinti pagalbos prašymus; perduoti pranešimą apie pagalbos poreikį reikiamoms pagalbos tarnyboms ir, jei reikia, teikti pagalbą iki pagalbos tarnybų atvykimo arba, jei įmanoma, suteikti pagalbą telefonu;
 
 
 
 
-3) imtis visų įstatymų leidžiamų priemonių siekdamas nustatyti asmenis, trukdančius Centro pareigūnų, priimančių pagalbos prašymus numeriu 112, darbą melagingais pagalbos prašymais, erzinančiais ar piktybiškais skambučiais, perduoti informaciją apie tokius asmenis atitinkamoms valstybės institucijoms ir viešųjų ryšių tinklų teikėjams ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams;
+2) pagal kompetenciją užtikrinti Centro informacinėje sistemoje esančių duomenų teisingumą ir saugumą;
 
 
 
 
-4) pagal kompetenciją užtikrinti Centro informacinėje sistemoje esančių duomenų teisingumą ir saugumą;
+3) tik tarnybos tikslams naudoti Centro informacinėje sistemoje tvarkomus duomenis. 
 
 
-
-
-5) tik tarnybos tikslams naudoti Centro informacinėje sistemoje tvarkomus duomenis. 
-Straipsnio punkto pakeitimai:
-Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
+Straipsnio dalies pakeitimai:
+Nr. XIII-1901, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00796
  
-
-
 
 
 
@@ -566,7 +518,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 LAIKINAI EINANTIS
-RESPUBLIKOS PREZIDENTO PAREIGAS                                      ARTŪRAS PAULAUSKAS
+RESPUBLIKOS PREZIDENTO PAREIGAS                                        ARTŪRAS PAULAUSKAS
  
 
 
@@ -574,36 +526,35 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
 
 
 
- 
- 
 Lietuvos Respublikos
-bendrojo pagalbos centro
-įstatymo
+Bendrojo pagalbos centro įstatymo
 priedas
  
-Įgyvendinami Europos Sąjungos teisės aktai
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2002 m. kovo 7 d. Europos Parlamento ir Tarybos direktyva 2002/22/EB „Dėl universaliųjų paslaugų ir paslaugų gavėjų teisių, susijusių su elektroninių ryšių tinklais ir paslaugomis (Universaliųjų paslaugų direktyva)“.
+1. 2002 m. kovo 7 d. Europos Parlamento ir Tarybos direktyva 2002/22/EB dėl universaliųjų paslaugų ir paslaugų gavėjų teisių, susijusių su elektroninių ryšių tinklais ir paslaugomis (Universaliųjų paslaugų direktyva) (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 367), su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/136/EB (OL 2009 L 337, p. 11).
 
 
 
 
-2. 2002 m. liepos 12 d. Europos Parlamento ir Tarybos direktyva 2002/58/EB „Dėl asmens duomenų tvarkymo ir privatumo apsaugos elektroninių ryšių sektoriuje (Direktyva dėl privatumo ir elektroninių ryšių)“.
+2. 2002 m. liepos 12 d. Europos Parlamento ir Tarybos direktyva 2002/58/EB dėl asmens duomenų tvarkymo ir privatumo apsaugos elektroninių ryšių sektoriuje (Direktyva dėl privatumo ir elektroninių ryšių) (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 514) su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/136/EB (OL 2009 L 337, p. 11).
 
 
 
 
-3. 2003 m. liepos 25 d. Komisijos rekomendacija 2003/558/EB „Dėl telefono ryšio paslaugų gavėjo vietos nustatymo tvarkos elektroninių ryšių tinkluose užtikrinant skubios pagalbos paslaugų teikimą“.
+3. 2003 m. liepos 25 d. Europos Komisijos rekomendacija 2003/558/EB dėl skambinančio asmens vietos nustatymo informacijos apdorojimo elektroninio ryšio tinkluose teikiant pagalbos skambučio paslaugas.
 
 
 
 
-______________
+4. 2012 m. lapkričio 26 d. Komisijos deleguotasis reglamentas (ES) Nr. 305/2013, kuriuo dėl sąveikios europinės pagalbos iškvietos paslaugos suderinto teikimo papildoma Europos Parlamento ir Tarybos direktyva 2010/40/ES (OL, 2013 L 91, p. 1). 
+
+
+Priedo pakeitimai:
+Nr. XIII-1901, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00796
  
-
-
  
  
 Pakeitimai:
@@ -617,3 +568,8 @@ Lietuvos Respublikos Bendrojo pagalbos centro įstatymo 1, 3 straipsnių pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. 1101010ISTA00XI-772
 Lietuvos Respublikos Bendrojo pagalbos centro įstatymo 2, 10, 16 straipsnių ir trečiojo skirsnio pakeitimo ir papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1901, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00796
+Lietuvos Respublikos Bendrojo pagalbos centro įstatymo Nr. IX-2246 2, 10, 15, 16 straipsnių, trečiojo skirsnio ir priedo pakeitimo įstatymas
