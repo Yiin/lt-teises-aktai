@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-07-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 3-37, i. k. 0941010ISTA000I-733
  
@@ -710,7 +710,18 @@ Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 
 
 
-11. Kad valstybinis valdymas būtų racionalus ir būtų galima rengti nekilnojamojo kultūros paveldo paveldotvarkos ir kitas apsaugos programas, kultūros ministro patvirtinta tvarka vykdoma stebėsena.
+11. Šio straipsnio 6 dalyje nurodytos Nekilnojamojo kultūros paveldo apsaugos specialistų (tyrėjų, projektuotojų, paveldosaugos ekspertų) atestavimo komisija ir Nekilnojamojo kultūros paveldo apsaugos ekspertų komisija atlieka joms jų nuostatuose priskirtas funkcijas, o jų narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1757, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20738
+ 
+
+
+
+
+12. Kad valstybinis valdymas būtų racionalus ir būtų galima rengti nekilnojamojo kultūros paveldo paveldotvarkos ir kitas apsaugos programas, kultūros ministro patvirtinta tvarka vykdoma stebėsena.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-1757, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20738
+ 
 
 
 Straipsnio pakeitimai:
@@ -875,7 +886,10 @@ Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 
 
 
-6. Nekilnojamųjų kultūros vertybių vertinimo atrankos ir reikšmingumo lygmens nustatymo kriterijus, šių vertybių atskleidimui reikalingų tyrimų duomenų apimtį ir vertinimo tarybų pavyzdinius nuostatus tvirtina kultūros ministras.
+6. Nekilnojamųjų kultūros vertybių vertinimo atrankos ir reikšmingumo lygmens nustatymo kriterijus, šių vertybių atskleidimui reikalingų tyrimų duomenų apimtį ir vertinimo tarybų pavyzdinius nuostatus tvirtina kultūros ministras. Vertinimo tarybų narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1757, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20738
+ 
 
 
 
@@ -2741,3 +2755,8 @@ Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-73
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2096, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07053
 Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 11, 21 ir 22 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1757, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20738
+Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 5 ir 8 straipsnių pakeitimo įstatymas
