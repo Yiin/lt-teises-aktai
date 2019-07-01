@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2019-03-15 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-07-26
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -600,9 +600,18 @@ Nr. XIII-649, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16086
 
 
 
-45) kitos funkcijos, nepriskirtos valstybės institucijoms.
+45) Šeimos kortelės programos įgyvendinimo priemonių organizavimas ir koordinavimas savivaldybės teritorijoje; 
+Papildyta straipsnio punktu:
+Nr. XIII-1407, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11731
+ 
+
+
+
+
+46) kitos funkcijos, nepriskirtos valstybės institucijoms.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-649, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16086
+Nr. XIII-1407, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11731
  
 
 
@@ -5489,3 +5498,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 12, 14, 16, 20, 27
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 9, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas
+ 
+39.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1407, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11731
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 straipsnio pakeitimo įstatymas
