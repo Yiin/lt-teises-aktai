@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2019-05-25 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-07-05
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -10389,7 +10389,7 @@ užtraukia įspėjimą arba baudą asmenims nuo keturiolikos iki trisdešimt eur
 328 straipsnis. Energijos išteklių ir energijos bei šalto vandens tiekėjų duomenų apie įmonės ūkinę finansinę veiklą nepateikimas ir duomenų, žinant, kad jie klaidingi, pateikimas
 
 
-1. Energijos išteklių biržos operatoriaus, įmonių, kurios verčiasi energetikos veikla, geriamojo vandens tiekėjų duomenų apie įmonės ūkinę finansinę veiklą nepateikimas nustatyta tvarka Valstybinei kainų ir energetikos kontrolės komisijai
+1. Energijos išteklių biržos operatoriaus, įmonių, kurios verčiasi energetikos veikla, geriamojo vandens tiekėjų duomenų apie įmonės ūkinę finansinę veiklą nepateikimas nustatyta tvarka Valstybinei energetikos reguliavimo tarybai 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 
@@ -10401,29 +10401,32 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 
 
-3. Energijos išteklių biržos operatoriaus, įmonių, kurios verčiasi energetikos veikla, geriamojo vandens tiekėjų duomenų, žinant, kad jie klaidingi, pateikimas Valstybinei kainų ir energetikos kontrolės komisijai
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų.
+3. Energijos išteklių biržos operatoriaus, įmonių, kurios verčiasi energetikos veikla, geriamojo vandens tiekėjų duomenų, žinant, kad jie klaidingi, pateikimas Valstybinei energetikos reguliavimo tarybai 
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1969, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03167
  
 
 
 
 
+329 straipsnis. Valstybinės energetikos reguliavimo tarybos nutarimų pažeidimas arba nevykdymas 
 
 
-329 straipsnis. Valstybinės kainų ir energetikos kontrolės komisijos nutarimų pažeidimas arba nevykdymas 
-
-
-1. Valstybinės kainų ir energetikos kontrolės komisijos nutarimų pažeidimas arba nevykdymas 
+1. Valstybinės energetikos reguliavimo tarybos nutarimų pažeidimas arba nevykdymas 
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
 
 
 
 
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1969, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03167
  
-
-
 
 
 
@@ -16803,10 +16806,10 @@ užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eur
 
 
 
-541 straipsnis. Melagingų duomenų pateikimas kvietimams užsieniečiams atvykti į Lietuvos Respubliką patvirtinti arba pagalba kitu neteisėtu būdu užsieniečiui gauti teisę būti ar gyventi Lietuvos Respublikoje patvirtinantį dokumentą
+541 straipsnis. Melagingų duomenų pateikimas kviečiant užsienietį atvykti į Lietuvos Respubliką arba pagalba kitu neteisėtu būdu užsieniečiui gauti teisę būti ar gyventi Lietuvos Respublikoje patvirtinantį dokumentą
 
 
-1. Melagingų duomenų pateikimas kvietimams užsieniečiams atvykti į Lietuvos Respubliką patvirtinti arba pagalba kitu neteisėtu būdu užsieniečiui gauti teisę būti ar gyventi Lietuvos Respublikoje patvirtinantį dokumentą
+1. Melagingų duomenų pateikimas kviečiant užsienietį atvykti į Lietuvos Respubliką arba pagalba kitu neteisėtu būdu užsieniečiui gauti teisę būti ar gyventi Lietuvos Respublikoje patvirtinantį dokumentą
 užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų. 
 
 
@@ -16814,9 +16817,11 @@ užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
  
-
-
 
 
 
@@ -16824,19 +16829,25 @@ užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio p
 542 straipsnis. Nepranešimas apie pasikeitusius užsieniečio duomenis
 
 
-1. Informacijos apie leidimą laikinai gyventi Lietuvos Respublikoje turinčio užsieniečio mokymosi, studijų, stažuotės, kvalifikacijos tobulinimo ar savanoriškos veiklos nutraukimą nepateikimas laiku vidaus reikalų ministro įgaliotai institucijai
-užtraukia baudą švietimo įstaigos, mokslo ir studijų institucijos ar kitos įmonės, įstaigos ar organizacijos vadovui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964
- 
+1. Informacijos apie leidimą laikinai gyventi Lietuvos Respublikoje turinčio užsieniečio mokymosi, studijų, stažuotės, kvalifikacijos tobulinimo ar savanoriškos veiklos nutraukimą nepateikimas laiku Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos 
+užtraukia baudą švietimo įstaigos, mokslo ir studijų institucijos ar kitos įmonės, įstaigos ar organizacijos vadovui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 
 
 
-2. Informacijos apie darbo sutarties su leidimą laikinai gyventi Lietuvos Respublikoje turinčiu užsieniečiu nutraukimą, o nustatytais atvejais – apie jo darbo užmokesčio sumažėjimą nepateikimas laiku vidaus reikalų ministro įgaliotai institucijai 
+2. Informacijos apie darbo sutarties su leidimą laikinai gyventi Lietuvos Respublikoje turinčiu užsieniečiu nutraukimą, o nustatytais atvejais – apie jo darbo užmokesčio sumažėjimą nepateikimas laiku Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos 
 užtraukia baudą darbdaviui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 
+
+
+3. Informacijos apie sąlygų, kurios pagal Lietuvos Respublikos įstatymą „Dėl užsieniečių teisinės padėties“ taikomos užsieniečio perkėlimui įmonės viduje, pasikeitimą nepateikimas laiku Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos
+užtraukia baudą priimančiosios įmonės, įsteigtos Lietuvos Respublikoje, vadovui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
+ 
 
 
 
@@ -18111,7 +18122,10 @@ Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 
 
 
-14) Valstybinės kainų ir energetikos kontrolės komisijos – dėl šio kodekso 326 straipsnio 2 dalyje, 328 straipsnio 1, 3 dalyse, 329, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+14) Valstybinės energetikos reguliavimo tarybos – dėl šio kodekso 323, 324, 325, 326, 327, 328, 329, 330, 331, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1969, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03167
+ 
 
 
 
@@ -18371,7 +18385,7 @@ Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
 
 
 
-49) policijos – dėl šio kodekso 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 2091, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 2341, 2342 straipsniuose, 281 straipsnio 1, 2 dalyse, 282, 290, 306, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16 dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 451, 452, 453, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 4841, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 4941, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 5, 6 dalyse, 507, 508, 5101, 511, 512, 513, 518, 519, 520, 521, 523, 524, 527, 528, 530, 532, 534, 535, 538, 539, 540, 541 straipsniuose, 542 straipsnio 1, 2, 3 dalyse, 543, 546, 553, 5551 straipsniuose numatytų administracinių nusižengimų; 
+49) policijos – dėl šio kodekso 48, 62, 63, 65, 69, 71, 72, 73, 74 straipsniuose, 75 straipsnio 1 dalyje, 76, 77, 78, 80, 88, 89, 95 straipsniuose, 98 straipsnio 1 dalyje, 108, 109, 115, 122, 125, 127, 130, 131, 133, 134, 137, 142, 143, 150, 151, 152, 153, 154, 155, 159, 160, 161, 162, 163, 164, 166, 167, 168, 169, 170, 171 straipsniuose, 172 straipsnio 1, 2 dalyse, 173, 174, 176, 182, 183, 192, 206, 207, 208, 209, 2091, 214, 219, 220, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 2341, 2342 straipsniuose, 281 straipsnio 1, 2 dalyse, 282, 290, 306, 307, 321, 336, 339, 340, 342, 346, 366, 367, 368 straipsniuose, 369 straipsnio 5, 6, 11, 12, 15, 16  dalyse, 414, 415, 416, 417, 420, 421, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 428, 429, 430, 431, 432, 433 straipsniuose, 434 straipsnio 1, 3 dalyse, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 451, 452, 453, 454, 455, 456, 458, 459, 460, 461, 462, 463, 473, 474 straipsniuose, 479 straipsnio 3, 4 dalyse, 480 straipsnio 1 dalyje, 481, 482, 483, 484, 4841, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 4941, 495 straipsniuose, 496 straipsnio 1, 2 dalyse, 506 straipsnio 1, 2, 4, 5, 6 dalyse, 508, 5101, 511, 512, 513, 518, 519, 520, 521, 523, 524, 527, 528, 530, 534, 535, 538, 540, 546, 553, 5551 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-383, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09474
@@ -18383,7 +18397,9 @@ Nr. XIII-1542, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16600
 Nr. XIII-1546, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16602
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872
+Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
 Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
+Nr. XIII-2127, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08307
  
 
 
@@ -18414,11 +18430,12 @@ Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
 
 
 
-55) Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 47 straipsnio 3 dalyje, 65 straipsnio 3 dalyje, 115, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 266 straipsniuose, 282 straipsnio 1 dalyje, 290 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 374 straipsnyje, 406 straipsnio 1, 2, 3, 5 dalyse, 408 straipsnyje, 410 straipsnio 1 dalyje, 415 straipsnyje, 416 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 417 straipsnio 1, 2, 3, 4, 6, 8 dalyse, 420 straipsnio 1, 2 dalyse, 421, 422, 424 straipsniuose, 426 straipsnio 4 dalyje, 428 straipsnio 1 dalyje, 431 straipsnio 1, 2 dalyse, 432, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 481, 484 straipsniuose, 506 straipsnio 4 dalyje, 508, 536, 537, 538, 539, 543 straipsniuose numatytų administracinių nusižengimų;
+55) Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 47 straipsnio 3 dalyje, 65 straipsnio 3 dalyje, 115, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 266 straipsniuose, 282 straipsnio 1 dalyje, 290 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 374 straipsnyje, 406 straipsnio 1, 2, 3, 5 dalyse, 408 straipsnyje, 410 straipsnio 1 dalyje, 415 straipsnyje, 416 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 417 straipsnio 1, 2, 3, 4, 6, 8 dalyse, 420 straipsnio 1, 2 dalyse, 421, 422, 424 straipsniuose, 426 straipsnio 4 dalyje, 428 straipsnio 1 dalyje, 431 straipsnio 1, 2 dalyse, 432, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 481, 484 straipsniuose, 506 straipsnio 4 dalyje, 508, 536, 537, 538, 539, 540, 541, 543 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-595, 2017-07-04, paskelbta TAR 2017-07-11, i. k. 2017-11961
 Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
 Nr. XIII-1541, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16599
+Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
  
 
 
@@ -18453,7 +18470,10 @@ Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
 
 
 
-60) Valstybinės energetikos inspekcijos prie Energetikos ministerijos – dėl šio kodekso 323, 324, 325 straipsniuose, 326 straipsnio 1 dalyje, 327 straipsnyje, 328 straipsnio 2 dalyje, 330, 331, 505, 507 straipsniuose numatytų administracinių nusižengimų;
+60) neteko galios 2019-07-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1969, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03167
+ 
 
 
 
@@ -18860,6 +18880,14 @@ Papildyta punktu:
 Nr. XIII-1129, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07481
 Punkto numeracijos pakeitimas:
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
+ 
+
+
+
+
+102) Migracijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos – dėl šio kodekso 224, 505, 507, 528, 530, 532, 535, 538, 539, 541, 542 straipsniuose numatytų administracinių nusižengimų.
+Papildyta straipsnio punktu:
+Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
  
 
 
@@ -23338,6 +23366,11 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 123 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2126, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08306
 Lietuvos Respublikos administracinių nusižengimų kodekso 57 ir 58 straipsnių pakeitimo įstatymas
+ 
+79.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2127, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08307
+Lietuvos Respublikos administracinių nusižengimų kodekso 541, 542 ir 589 straipsnių pakeitimo įstatymo Nr. XIII-1868 3 straipsnio pakeitimo įstatymas
  
  
 
