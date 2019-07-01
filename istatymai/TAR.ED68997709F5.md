@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-06-30
+Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
  
@@ -4762,15 +4762,21 @@ Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
 
 
 
-2. Jeigu visos PVM mokėtojo pajamos iš ekonominės veiklos per praėjusius kalendorinius metus neviršijo 60 000 eurų, toks PVM mokėtojas turi teisę pateikti mokesčio administratoriui prašymą mokestiniu laikotarpiu laikyti kalendorinį pusmetį. Kreiptis į mokesčio administratorių su prašymu mokestiniu laikotarpiu laikyti kalendorinį pusmetį turi teisę ir naujai įsteigti PVM mokėtojai, kurie numato, kad einamaisiais kalendoriniais metais jų pajamos iš ekonominės veiklos neviršys šioje dalyje nurodyto dydžio.
+2. Jeigu visos PVM mokėtojo, išskyrus fizinį asmenį, pajamos iš ekonominės veiklos per praėjusius kalendorinius metus neviršijo 300 000 eurų, toks PVM mokėtojas turi teisę pateikti mokesčio administratoriui prašymą mokestiniu laikotarpiu laikyti kalendorinį ketvirtį. Kreiptis į mokesčio administratorių su prašymu mokestiniu laikotarpiu laikyti kalendorinį ketvirtį turi teisę ir naujai įsteigti PVM mokėtojai, kurie numato, kad einamaisiais kalendoriniais metais jų pajamos iš ekonominės veiklos neviršys šioje dalyje nurodyto dydžio. 
+TAR pastaba. PVM mokėtojui, išskyrus fizinį asmenį, kurio mokestinis laikotarpis iki įstatymo Nr. XIII-1708 įsigaliojimo (2019-07-01) pagal Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 84 straipsnio 2 dalį buvo kalendorinis pusmetis, po šio įstatymo įsigaliojimo dienos taikomas kalendorinio ketvirčio mokestinis laikotarpis. Jeigu nuo šio įstatymo įsigaliojimo toks PVM mokėtojas pageidauja taikyti kalendorinio mėnesio mokestinį laikotarpį, jis iki 2019 m. liepos 31 d. turi kreiptis į mokesčio administratorių su atitinkamu prašymu.
+PVM mokėtojas, išskyrus fizinį asmenį, kurio mokestinis laikotarpis iki šio įstatymo įsigaliojimo buvo kalendorinis mėnuo, pradedant 2019 m. birželio 1 d. gali kreiptis į mokesčio administratorių su prašymu mokestiniu laikotarpiu laikyti kalendorinį ketvirtį.
 Straipsnio dalies pakeitimai:
 Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
+Nr. XIII-1708, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20966
  
 
 
 
 
-3. Jeigu mokestiniu laikotarpiu pasirenkamas kalendorinis pusmetis, mokestinis laikotarpis PVM mokėtojo prašymu gali būti pakeistas ne anksčiau kaip kalendoriniam pusmečiui pasibaigus. 
+3. Jeigu mokestiniu laikotarpiu pasirenkamas kalendorinis ketvirtis, mokestinis laikotarpis PVM mokėtojo prašymu gali būti pakeistas ne anksčiau kaip kalendoriniam ketvirčiui pasibaigus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1708, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20966
+ 
 
 
 
@@ -4816,6 +4822,14 @@ Nr. XI-518, 2009-12-03, Žin., 2009, Nr. 151-6772 (2009-12-22)
 
 
 1. Jeigu mokestinis laikotarpis yra kalendorinis mėnuo, mokestinio laikotarpio PVM deklaracija turi būti pateikta ne vėliau kaip iki kito mėnesio 25 dienos.
+
+
+
+
+11. Jeigu mokestinis laikotarpis yra kalendorinis ketvirtis, PVM deklaracija pateikiama ne vėliau kaip iki kito ketvirčio pirmo mėnesio 25 dienos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-1708, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20966
+ 
 
 
 
@@ -7383,3 +7397,8 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 123 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1707, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20947
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1708, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20966
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 84 ir 85 straipsnių pakeitimo įstatymas
