@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-01-02 iki 2019-07-01
+Suvestinė redakcija nuo 2019-07-02 iki 2021-10-15
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 104-2322; Žin. 1996, Nr.5-0, i. k. 0951010ISTA00I-1113
  
@@ -479,7 +479,10 @@ Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
 
 
 
-2. Vyriausybė turi teisę priimti sprendimą dėl Vyriausybės kanceliarijos, ministerijų, Vyriausybės įstaigų, Vyriausybės atstovų tarnybų, atitinkamo ministro valdymo sritims priskirtų įstaigų prie ministerijos, kitų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė arba jos įgaliota institucija, bendrųjų funkcijų centralizuoto atlikimo ir konkrečių biudžetinių įstaigų, kurių bendrosios funkcijos bus atliekamos centralizuotai. Sprendimą dėl biudžetinės įstaigos (įstaigų), kuri (kurios) centralizuotai atliktų šioje dalyje nurodytas funkcijas, priima Vyriausybė.
+2. Vyriausybė turi teisę priimti sprendimą dėl Vyriausybės kanceliarijos, ministerijų, Vyriausybės įstaigų, Vyriausybės atstovų įstaigos, atitinkamo ministro valdymo sritims priskirtų įstaigų prie ministerijos, kitų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė arba jos įgaliota institucija, bendrųjų funkcijų centralizuoto atlikimo ir konkrečių biudžetinių įstaigų, kurių bendrosios funkcijos bus atliekamos centralizuotai. Sprendimą dėl biudžetinės įstaigos (įstaigų), kuri (kurios) centralizuotai atliktų šioje dalyje nurodytas funkcijas, priima Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2237, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10358
+ 
 
 
 
@@ -1008,3 +1011,8 @@ Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 9, 11, 13 ir 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1633, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18923
 Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 12 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2237, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10358
+Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 9-1 straipsnio pakeitimo įstatymas
