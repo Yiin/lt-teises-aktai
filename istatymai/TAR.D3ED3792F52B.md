@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-07-01
+Suvestinė redakcija nuo 2019-07-02 iki 2019-12-19
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -412,7 +412,10 @@ VALSTYBĖS TARNAUTOJŲ PAREIGYBĖS
 8 straipsnis. Valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartį ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, skaičius bei pareigybių aprašymai ir sąrašai 
 
 
-1. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas) (toliau – darbuotojai, dirbantys pagal darbo sutartis), pareigybių skaičių tvirtina: Seimo valdyba – Seimo kanceliarijoje ir Seimui atskaitingose institucijose; Respublikos Prezidentas ar jo įgaliotas asmuo – Respublikos Prezidento kanceliarijoje ir Respublikos Prezidentui atskaitingose institucijose; Vyriausybė – Vyriausybės kanceliarijoje, ministerijose, Vyriausybės įstaigose, Vyriausybės atstovų tarnybose, ministrų valdymo sritims nepriskirtose valstybės institucijose ir įstaigose ir bendrą didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių atitinkamo ministro valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose (išskyrus bendrą didžiausią leistiną Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių); ministrai – jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose. Ministrai, tvirtindami didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose, negali viršyti Vyriausybės patvirtinto bendro didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičiaus atitinkamų ministrų valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių savivaldybės institucijose ir įstaigose tvirtina savivaldybės taryba. Nacionalinės teismų administracijos didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių, suderinęs su savininko teises ir pareigas įgyvendinančia institucija, tvirtina Nacionalinės teismų administracijos direktorius.
+1. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, dirbančius pagal darbo sutartis ir gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas) (toliau – darbuotojai, dirbantys pagal darbo sutartis), pareigybių skaičių tvirtina: Seimo valdyba – Seimo kanceliarijoje ir Seimui atskaitingose institucijose; Respublikos Prezidentas ar jo įgaliotas asmuo – Respublikos Prezidento kanceliarijoje ir Respublikos Prezidentui atskaitingose institucijose; Vyriausybė – Vyriausybės kanceliarijoje, ministerijose, Vyriausybės įstaigose, Vyriausybės atstovų įstaigoje, ministrų valdymo sritims nepriskirtose valstybės institucijose ir įstaigose ir bendrą didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių atitinkamo ministro valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose (išskyrus bendrą didžiausią leistiną Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių); ministrai – jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose. Ministrai, tvirtindami didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių jų valdymo sritims priskirtose atskirose įstaigose prie ministerijų bei kitose priskirtose valstybės institucijose ir įstaigose, negali viršyti Vyriausybės patvirtinto bendro didžiausio leistino valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičiaus atitinkamų ministrų valdymo sritims priskirtose įstaigose prie ministerijos bei kitose priskirtose valstybės institucijose ir įstaigose. Didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių savivaldybės institucijose ir įstaigose tvirtina savivaldybės taryba. Nacionalinės teismų administracijos didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, pareigybių skaičių, suderinęs su savininko teises ir pareigas įgyvendinančia institucija, tvirtina Nacionalinės teismų administracijos direktorius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
+ 
 
 
 
@@ -445,7 +448,10 @@ VALSTYBĖS TARNAUTOJŲ PAREIGYBĖS
 
 
 
-4) Vyriausybės atstovų, Vyriausybės įgaliotinių ir jų pavaduotojų – Vyriausybė ar jos įgaliotas ministras;
+4) Vyriausybės įgaliotinių ir jų pavaduotojų – Vyriausybė ar jos įgaliotas ministras;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
+ 
 
 
 
@@ -589,7 +595,10 @@ PRIĖMIMAS Į VALSTYBĖS TARNAUTOJŲ PAREIGAS
 
 
 
-3) Vyriausybės atstovą – Vyriausybė;
+3) neteko galios 2019-07-02;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
+ 
 
 
 
@@ -2504,7 +2513,10 @@ VALSTYBĖS TARNAUTOJŲ ATLEIDIMAS IŠ PAREIGŲ
 
 
 
-2) savivaldybės kontrolierius, savivaldybės kontrolieriaus tarnybos valstybės tarnautojas ar savivaldybės administracijos valstybės tarnautojas pradeda eiti tos pačios savivaldybės tarybos nario pareigas arba Vyriausybės atstovas pradeda eiti savivaldybės tarybos nario pareigas;
+2) savivaldybės kontrolierius, savivaldybės kontrolieriaus tarnybos valstybės tarnautojas ar savivaldybės administracijos valstybės tarnautojas pradeda eiti tos pačios savivaldybės tarybos nario pareigas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
+ 
 
 
 
@@ -3907,3 +3919,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1823, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21845
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymo Nr. XIII-1370 1 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 8, 10 ir 51 straipsnių pakeitimo įstatymas
