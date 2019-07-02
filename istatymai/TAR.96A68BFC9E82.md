@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-07-01
+Suvestinė redakcija nuo 2019-07-02 iki 2019-07-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
  
@@ -678,11 +678,12 @@ Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
 
 
-9) tvirtina ministerijų, Vyriausybės kanceliarijos, Vyriausybės įstaigų, įstaigų prie ministerijų, Vyriausybės atstovo tarnybos, kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė arba ministerijos, nuostatus, Vyriausybės įstaigų bei kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė, administracijos struktūrą arba paveda ją tvirtinti Vyriausybės įstaigos arba kitos Vyriausybės įsteigtos biudžetinės įstaigos vadovui, jei kiti įstatymai nenustato kitos jos tvirtinimo tvarkos; tvirtinti įstaigų prie ministerijų nuostatus ir jų administracijos struktūrą Vyriausybė gali pavesti atitinkamos valdymo srities ministrui, jei kiti įstatymai nenustato kitos jų tvirtinimo tvarkos;
+9) tvirtina ministerijų, Vyriausybės kanceliarijos, Vyriausybės įstaigų, įstaigų prie ministerijų, Vyriausybės atstovų įstaigos, kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė arba ministerijos, nuostatus, Vyriausybės įstaigų bei kitų Vyriausybės įsteigtų biudžetinių įstaigų, kurių savininko teises ir pareigas įgyvendina Vyriausybė, administracijos struktūrą arba paveda ją tvirtinti Vyriausybės įstaigos arba kitos Vyriausybės įsteigtos biudžetinės įstaigos vadovui, jei kiti įstatymai nenustato kitos jos tvirtinimo tvarkos; tvirtinti įstaigų prie ministerijų nuostatus ir jų administracijos struktūrą Vyriausybė gali pavesti atitinkamos valdymo srities ministrui, jei kiti įstatymai nenustato kitos jų tvirtinimo tvarkos; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1862, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10824
 Nr. XIII-1431, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11739
 Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+Nr. XIII-2234, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10353
  
 
 
@@ -708,9 +709,10 @@ Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 
 
 
-14) priima į pareigas ir atleidžia iš jų Vyriausybės atstovus, Vyriausybės įgaliotinį ir jo pavaduotoją, Vyriausybės įstaigų vadovus, kitus įstatymų nustatytus valstybės tarnautojus ir pareigūnus, juos skatina; atitinkamos valdymo srities ministro teikimu Vyriausybės priimtiems valstybės tarnautojams ir pareigūnams skiria tarnybines nuobaudas;
+14) skiria į pareigas ir atleidžia iš jų Vyriausybės atstovus, Vyriausybės įgaliotinį ir jo pavaduotoją, priima į pareigas ir atleidžia iš jų Vyriausybės įstaigų vadovus, kitus įstatymų nustatytus valstybės tarnautojus ir pareigūnus, juos skatina; atitinkamos valdymo srities ministro teikimu Vyriausybės į pareigas priimtiems ar paskirtiems valstybės tarnautojams ir pareigūnams skiria tarnybines nuobaudas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+Nr. XIII-2234, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10353
  
 
 
@@ -1587,7 +1589,10 @@ Nr. X-1182, 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
 
 
 
-4. Vyriausybės atstovui įgyvendinti jo įgaliojimus padeda Vyriausybės atstovo tarnyba. Vyriausybės atstovo tarnybą steigia, jos veiklos nuostatus tvirtina ir didžiausią leistiną valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų, pareigybių skaičių nustato Vyriausybė.
+4. Vyriausybės atstovams įgyvendinti jų įgaliojimus padeda Vyriausybės atstovų įstaiga. Vyriausybės atstovų įstaigą steigia Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2234, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10353
+ 
 
 
 
@@ -2428,3 +2433,8 @@ Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 42 straipsnio pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1804, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21812
 Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 6, 13, 18, 22, 24, 26, 29-1, 30, 31-1, 38, 45 ir 46 straipsnių pakeitimo įstatymo Nr. XIII-1371 9 ir 13 straipsnių pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2234, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10353
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 22 ir 35 straipsnių pakeitimo įstatymas
