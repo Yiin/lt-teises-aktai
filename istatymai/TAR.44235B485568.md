@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-07-01
+Suvestinė redakcija nuo 2019-07-02 iki 2019-10-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -1050,7 +1050,10 @@ Susisiekimo ministerija:
 
 
 
-7) išduoda energetikos veiklos licencijas, jas keičia, sustabdo licencijų galiojimą, panaikina galiojimo sustabdymą, panaikina licencijų galiojimą, prižiūri ir kontroliuoja energetikos įmonių licencijuojamą veiklą;
+7) išduoda energetikos veiklos licencijas ir leidimus, juos keičia, sustabdo licencijų ir leidimų galiojimą, panaikina galiojimo sustabdymą, panaikina licencijų ir leidimų galiojimą, prižiūri ir kontroliuoja energetikos įmonių licencijuojamą ar leidimais reguliuojamą veiklą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+ 
 
 
 
@@ -1265,12 +1268,26 @@ Susisiekimo ministerija:
 
 
 
-6) Taryba pagal šią dalį gautas pajamas privalo įmokėti į valstybės biudžetą ir tvarkyti Lietuvos Respublikos biudžeto sandaros įstatymo nustatyta tvarka;
+6) pajamos, gautos už Tarybos atliekamus darbus ir teikiamas paslaugas, susijusias su energetikos įmonių, turinčių leidimą prekiauti naftos produktais ir (ar) leidimą prekiauti suskystintomis naftos dujomis, reguliuojamosios veiklos priežiūra. Įmokų už Tarybos atliekamus darbus ir teikiamas paslaugas, susijusias su energetikos įmonių, turinčių leidimą prekiauti naftos produktais ir (ar) leidimą prekiauti suskystintomis naftos dujomis, reguliuojamosios veiklos priežiūra, dydžius ir mokėjimo tvarką nustato Taryba, pagrįsdama Tarybos sąnaudomis; 
+Papildyta straipsnio punktu:
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+ 
 
 
 
 
-7) Tarybos pajamos, gautos pagal šią dalį ir įmokėtos į valstybės biudžetą, gali būti naudojamos tik Tarybos strateginiame veiklos plane numatytoms ir vykdomoms programoms finansuoti.
+7) Taryba pagal šią dalį gautas pajamas privalo įmokėti į valstybės biudžetą ir tvarkyti Lietuvos Respublikos biudžeto sandaros įstatymo nustatyta tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+ 
+
+
+
+
+8) Tarybos pajamos, gautos pagal šią dalį ir įmokėtos į valstybės biudžetą, gali būti naudojamos tik Tarybos strateginiame veiklos plane numatytoms ir vykdomoms programoms finansuoti.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+ 
 
 
 
@@ -1341,7 +1358,10 @@ Savivaldybės administracijos direktorius savivaldybės teritorijoje:
 
 
 
-2) išduoda leidimus verstis didmenine ir mažmenine prekyba nefasuotais naftos produktais ir suskystintomis naftos dujomis, sustabdo šių leidimų galiojimą, panaikina leidimų galiojimo sustabdymą, panaikina leidimų galiojimą, keičia leidimus Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;
+2) neteko galios 2019-07-02;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+ 
 
 
 
@@ -1898,7 +1918,10 @@ Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
 
 
 
-4. Už reguliuojamosios veiklos sąlygų ir reikalavimų pažeidimus energetikos įmonė, turinti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka įspėjama apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą šio straipsnio 5 dalyje nustatytais pagrindais arba licencijos, leidimo ar atestato panaikinimą šio straipsnio 7 dalyje nustatytais pagrindais ir nustatomas laikotarpis, per kurį turi būti pašalinti nurodyti reguliuojamosios veiklos pažeidimai. Šis laikotarpis negali būti ilgesnis kaip 30 kalendorinių dienų, išskyrus atvejus, kai dėl objektyvių priežasčių pažeidimui pašalinti reikia ilgesnio laikotarpio.
+4. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus energetikos įmonė, turinti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka įspėjama apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą šio straipsnio 5 dalyje nustatytais pagrindais arba licencijos, leidimo ar atestato galiojimo panaikinimą šio straipsnio 7 dalyje nustatytais pagrindais ir nustatomas laikotarpis, per kurį turi būti pašalinti nurodyti reguliuojamosios veiklos pažeidimai. Šis laikotarpis negali būti ilgesnis kaip 30 kalendorinių dienų, išskyrus atvejus, kai dėl objektyvių priežasčių pažeidimui pašalinti reikia ilgesnio laikotarpio. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus šio straipsnio 5 dalies 6, 7, 9 ar 10 punktuose, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas stabdomas nedelsiant, ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+ 
 
 
 
@@ -1924,9 +1947,10 @@ Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
 
 
 
-4) paaiškėja, kad fizinis asmuo, turintis leidimą, ar juridinio asmens, turinčio leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, turi neišnykusį ar nepanaikintą teistumą arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus buvo priimtas ir yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla ar jas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus;
+4) paaiškėja, kad fizinis asmuo, turintis leidimą, ar juridinio asmens, turinčio leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, turi neišnykusį ar nepanaikintą teistumą arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus buvo priimtas ir yra įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, turto pasisavinimą, turto iššvaistymą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla, nusikalstamą bankrotą, mokesčių nesumokėjimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, apgaulingą apskaitos tvarkymą ar šias veikas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
  
 
 
@@ -1945,17 +1969,35 @@ Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
-7) atliekant priežiūros veiksmus naftos produktų prekyba besiverčiančiose įmonėse, randama neregistruotų talpyklų, vamzdynais sujungtų su registruotomis talpyklomis, neplombuotų degalų skaitiklių, pažeistų jungčių tarp elektroninio kasos aparato ir degalų išdavimo kolonėlės, pažeistų vamzdynų jungčių tarp kuro talpyklos (talpyklų) ir degalų išdavimo kolonėlės, – licencijos, leidimo ar atestato galiojimas stabdomas nedelsiant, ne vėliau kaip per vieną dieną nuo pažeidimų nustatymo dienos;
+7) atliekant priežiūros veiksmus naftos produktų prekyba besiverčiančiose įmonėse, randama neregistruotų talpyklų, vamzdynais sujungtų su registruotomis talpyklomis, neplombuotų degalų skaitiklių, pažeistų jungčių tarp elektroninio kasos aparato ir degalų išdavimo kolonėlės, pažeistų vamzdynų jungčių tarp kuro talpyklos (talpyklų) ir degalų išdavimo kolonėlės; 
 Papildyta straipsnio punktu:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+Straipsnio punkto pakeitimai:
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
  
 
 
 
 
-8) paaiškėja, kad asmuo, kuris turi elektros įrenginių įrengimo atestatą ir (ar) gamtinių dujų įrenginių įrengimo atestatą, vykdo atestatuose nurodytą veiklą neturėdamas profesinės civilinės atsakomybės draudimo, kaip nustatyta šio įstatymo 221 straipsnyje. 
+8) paaiškėja, kad asmuo, kuris turi elektros įrenginių įrengimo atestatą ir (ar) gamtinių dujų įrenginių įrengimo atestatą, vykdo atestatuose nurodytą veiklą neturėdamas profesinės civilinės atsakomybės draudimo, kaip nustatyta šio įstatymo 221 straipsnyje; 
 Papildyta straipsnio punktu:
 Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
+ 
+
+
+
+
+9) paaiškėja, kad asmuo, turintis leidimą verstis didmenine prekyba nefasuotais naftos produktais, neturi šio įstatymo 24 straipsnio 8 ar 9 dalyje nustatyto dydžio prievolių įvykdymo užtikrinimą patvirtinančių dokumentų; 
+Papildyta straipsnio punktu:
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+ 
+
+
+
+
+10) paaiškėja, kad asmuo, turintis leidimą verstis didmenine prekyba nefasuotais naftos produktais, neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, nustatytų Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje. 
+Papildyta straipsnio punktu:
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
  
 
 
@@ -2332,9 +2374,10 @@ Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
 
 
-3) fizinis asmuo, siekiantis gauti leidimą, ar juridinio asmens, siekiančio gauti leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus nebuvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla ar jas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus.
+3) fizinis asmuo, siekiantis gauti leidimą, ar juridinio asmens, siekiančio gauti leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus nebuvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, turto pasisavinimą, turto iššvaistymą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla, nusikalstamą bankrotą, mokesčių nesumokėjimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, apgaulingą apskaitos tvarkymą ar šias veikas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus. 
 Straipsnio punkto pakeitimai:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
  
 
 
@@ -2394,22 +2437,39 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 
 
-10) užtikrinti, kad būtų laikomasi kitų šiame ir kituose įstatymuose nustatytų pareigų ir teisės aktuose nustatytų reikalavimų.
+10) užtikrinti, kad būtų laikomasi kitų šiame ir kituose įstatymuose nustatytų pareigų ir teisės aktuose nustatytų reikalavimų;
+
+
+
+
+11) užtikrinti, kad pasibaigus kiekvieniems finansiniams metams per keturis mėnesius būtų atliktas leidimą verstis prekyba suskystintomis naftos dujomis turinčios energetikos įmonės finansinių ataskaitų auditas ir jo išvados pateiktos Tarybai. 
+Papildyta straipsnio punktu:
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+ 
 
 
 
 
 
 
-7. Šio straipsnio 1 dalyje nurodytus leidimus verstis prekyba suskystintomis naftos dujomis išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina leidimų galiojimą, leidimus keičia ir šią reguliuojamąją veiklą kontroliuoja savivaldybės administracijos direktorius Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatyta tvarka ir sąlygomis. Informaciją apie išduotus leidimus juos išduodančios institucijos skelbia Licencijų informacinėje sistemoje teisės aktų nustatyta tvarka.
+7. Šio straipsnio 1 dalyje nurodytus leidimus verstis prekyba suskystintomis naftos dujomis išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina leidimų galiojimą, leidimus keičia ir šią reguliuojamąją veiklą kontroliuoja Taryba Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatyta tvarka ir sąlygomis. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
  
 
 
 
 
 8. Prekybos suskystintomis naftos dujomis tvarka ir sąlygos, vadovaujantis šiame įstatyme nustatytais bendraisiais reikalavimais, nustatytos Energetikos ministerijos patvirtintose Prekybos naftos produktais taisyklėse.
+
+
+
+
+9. Asmenims, vykdantiems prekybos suskystintomis naftos dujomis veiklą, neturint leidimo verstis prekyba suskystintomis naftos dujomis, skiriama piniginė bauda iki 10 procentų prekybos suskystintomis naftos dujomis veiklą vykdančio ūkio subjekto pajamų, gautų praėjusiais finansiniais metais ar per trumpesnį laikotarpį, jei asmuo vykdo veiklą trumpiau negu vienerius metus. Sprendimą skirti baudą priima Taryba. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+ 
 
 
 Straipsnio pakeitimai:
@@ -2430,12 +2490,18 @@ Nr. XII-382, 2013-06-18, Žin., 2013, Nr. 68-3414 (2013-06-28)
 
 
 
-2) leidimas verstis didmenine prekyba nefasuotais naftos produktais, kurie tiekiami kaip kuro atsargos laivams;
+2) neteko galios 2019-07-02;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+ 
 
 
 
 
-3) leidimas verstis didmenine prekyba nefasuotais naftos produktais, kurie tiekiami kaip kuro atsargos orlaiviams;
+3) neteko galios 2019-07-02;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+ 
 
 
 
@@ -2468,17 +2534,26 @@ Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
-2) fizinis asmuo, siekiantis gauti leidimą, ar juridinio asmens, siekiančio gauti leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus nebuvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla ar jas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus;
+2) fizinis asmuo, siekiantis gauti leidimą, ar juridinio asmens, siekiančio gauti leidimą, vadovas, savininkas ir (ar) juridinio asmens dalyvis – fizinis asmuo, turintis ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens, turinčio leidimą, ar dėl šio juridinio asmens dalyvio – juridinio asmens, turinčio ne mažiau kaip 10 procentų akcijų, pajų, dalininkų įnašų, per pastaruosius penkerius metus nebuvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už šias nusikalstamas veikas: dalyvavimą nusikalstamame susivienijime, nusikalstamo susivienijimo organizavimą arba vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, turto pasisavinimą, turto iššvaistymą, kreditinį sukčiavimą, nusikalstamu būdu įgytų pinigų ar turto legalizavimą, neteisėtą vertimąsi ūkine, komercine, finansine ar profesine veikla, nusikalstamą bankrotą, mokesčių nesumokėjimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, apgaulingą apskaitos tvarkymą ar šias veikas atitinkančias nusikalstamas veikas pagal užsienio valstybių baudžiamuosius įstatymus; 
 Straipsnio punkto pakeitimai:
+Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+ 
+
+
+
+
+3) neturi mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ir (ar) Valstybinio socialinio draudimo fondui ir (ar) įsipareigojimų muitinei, kurių bendra suma viršija 10 tūkstančių eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi; 
+Papildyta straipsnio punktu:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
  
 
 
 
 
-3) neturi mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų valstybės biudžetui, savivaldybių biudžetams ir (ar) fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ir (ar) Valstybinio socialinio draudimo fondui ir (ar) įsipareigojimų muitinei, kurių bendra suma viršija 10 tūkstančių eurų. Jeigu dėl šių mokestinių nepriemokų ir (ar) pradelstų įsipareigojimų mokėjimas yra atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl jų vyksta ginčas ginčus nagrinėjančioje institucijoje, laikoma, kad asmuo mokestinių nepriemokų neturi. 
+4) asmuo, siekiantis gauti leidimą verstis didmenine prekyba nefasuotais naftos produktais, atitinka minimalius patikimo mokesčių mokėtojo kriterijus, nustatytus Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje. 
 Papildyta straipsnio punktu:
-Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
  
 
 
@@ -2537,7 +2612,7 @@ Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
-10) nefasuotus naftos produktus Lietuvos Respublikoje didmeninėje prekyboje gali įsigyti tik iš asmenų, turinčių galiojantį leidimą verstis prekyba nefasuotais naftos produktais. 
+10) nefasuotus naftos produktus Lietuvos Respublikoje didmeninėje prekyboje gali įsigyti tik iš asmenų, turinčių galiojantį leidimą verstis prekyba nefasuotais naftos produktais; 
 Papildyta straipsnio punktu:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
  
@@ -2545,11 +2620,20 @@ Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 
 
 
+11) užtikrinti, kad pasibaigus kiekvieniems finansiniams metams per keturis mėnesius būtų atliktas leidimą verstis prekyba nefasuotais naftos produktais turinčios energetikos įmonės finansinių ataskaitų auditas ir jo išvados pateiktos Tarybai. 
+Papildyta straipsnio punktu:
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+ 
 
 
-6. Šio straipsnio 1 dalyje nurodytus leidimus verstis prekyba nefasuotais naftos produktais išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina leidimų galiojimą, leidimus keičia ir šią reguliuojamąją veiklą kontroliuoja savivaldybės administracijos direktorius Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatyta tvarka ir sąlygomis. Informaciją apie išduotus leidimus juos išduodančios institucijos skelbia Licencijų informacinėje sistemoje teisės aktų nustatyta tvarka.
+
+
+
+
+6. Šio straipsnio 1 dalyje nurodytus leidimus verstis prekyba nefasuotais naftos produktais išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, panaikina leidimų galiojimą, leidimus keičia ir šią reguliuojamąją veiklą kontroliuoja Taryba Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatyta tvarka ir sąlygomis. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
  
 
 
@@ -2618,6 +2702,14 @@ Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
 13. Asmuo, kuris verčiasi didmenine prekyba nefasuotais naftos produktais, privalo atnaujinti šio straipsnio 8 ar 9 dalyje nurodyto dydžio prievolių įvykdymo užtikrinimo dokumentą ir pateikti jį Valstybinei mokesčių inspekcijai ne vėliau kaip iki besibaigiančio prievolių įvykdymo užtikrinimo dokumento galiojimo termino pabaigos. Prievolių įvykdymo užtikrinimo dokumento pateikimo ir atnaujinimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
 Papildyta straipsnio dalimi:
 Nr. XIII-565, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12064
+ 
+
+
+
+
+14. Asmenims, vykdantiems prekybos naftos produktais veiklą, neturint leidimo verstis prekyba nefasuotais naftos produktais, skiriama piniginė bauda iki 10 procentų prekybos nefasuotais naftos produktais veiklą vykdančio ūkio subjekto veiklos pajamų, gautų praėjusiais finansiniais metais ar per trumpesnį laikotarpį, jei asmuo vykdo veiklą trumpiau negu vienerius metus. Sprendimą skirti baudą priima Taryba. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
  
 
 
@@ -3830,3 +3922,8 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 8, 16, 19-1, 23 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 4, 8, 15, 16, 16-1, 19, 19-1, 22, 23, 24-1, 25, 26, 28, 31, 32, 34, 34-1, 36, 37 straipsnių pakeitimo ir 9 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 8, 13, 21, 23 ir 24 straipsnių pakeitimo įstatymas
