@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-07-01
+Suvestinė redakcija nuo 2019-07-02 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
+ 
+TAR pastaba. Gamintojams, kurių vienetinė elektros energijos gamybos įrenginio galia yra 20 MW ir daugiau ir kurie perdavimo sistemos operatoriui iki 2019 m. rugpjūčio 31 d. pateikė pranešimą apie planuojamą tokio elektros energijos įrenginio laikiną eksploatavimo sustabdymą arba visišką eksploatavimo nutraukimą, taikomas iki 2019 m. rugpjūčio 31 d galiojęs teisinis reguliavimas.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 20, 67, 68, 69, 71 ir 72 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2012-02-07:
 Nr. XI-1919, 2012-01-17, Žin. 2012, Nr. 17-752 (2012-02-07), i. k. 1121010ISTA0XI-1919
@@ -1584,12 +1589,18 @@ Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 9. Leidimas gaminti elektros energiją išduodamas šio įstatymo nustatyta tvarka ir sąlygomis asmenims, atitinkantiems šio straipsnio 8 dalyje nustatytą reikalavimą ir:
 
 
-1) pateikusiems dokumentus, įrodančius, kad pastatytas naujas ar rekonstruotas elektros energetikos objektas yra užbaigtas Lietuvos Respublikos statybos įstatyme (toliau – Statybos įstatymas) nustatyta tvarka ir sąlygomis;
+1) kurių pastatytas naujas ar rekonstruotas elektros energetikos objektas yra užbaigtas Statybos įstatyme nustatyta tvarka ir sąlygomis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2201, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09724
+ 
 
 
 
 
-2) pateikusiems dokumentus, įrodančius, kad elektros energijos gamybos įrenginiai yra išbandyti ir tinkami eksploatuoti;
+2) kurių elektros energijos gamybos įrenginiai yra išbandyti ir tinkami eksploatuoti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2201, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09724
+ 
 
 
 
@@ -1616,17 +1627,19 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-10. Leidimas gaminti elektros energiją nereikalingas, jeigu asmuo numato gaminti elektros energiją ne didesnės kaip 10 kW įrengtosios galios elektros energijos gamybos įrenginiuose tik savo reikmėms ir ūkio poreikiams, nepatiekiant elektros energijos į elektros tinklus, taip pat jeigu asmuo atitinka šio įstatymo 2 straipsnio 9 dalies nuostatas ir numato gaminti elektros energiją ne didesnės kaip 5 kW įrengtosios galios elektros energijos iš atsinaujinančių išteklių gamybos įrenginiuose.
+10. Leidimas gaminti elektros energiją nereikalingas, jeigu asmuo numato gaminti elektros energiją ne didesnės kaip 30 kW įrengtosios galios elektros energijos gamybos įrenginiuose tik savo reikmėms ir ūkio poreikiams, nepatiekiant elektros energijos į elektros tinklus, taip pat jeigu asmuo atitinka šio įstatymo 2 straipsnio 9 dalies nuostatas ir numato gaminti elektros energiją ne didesnės kaip 30 kW įrengtosios galios elektros energijos iš atsinaujinančių išteklių gamybos įrenginiuose. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-2201, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09724
  
 
 
 
 
-11. Taryba, atsižvelgdama į paskirstytosios gamybos ribotą apimtį ir galimą poveikį elektros energetikos sistemos patikimumui, kai elektros energijos gamybos įrenginių įrengtoji galia yra ne didesnė kaip 10 kW, išduoda leidimą gaminti elektros energiją Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse numatyta supaprastinta tvarka, jeigu asmuo pateikia prašymą ir šio straipsnio 9 dalies 2 punkte nurodytus dokumentus. 
+11. Taryba, atsižvelgdama į paskirstytosios gamybos ribotą apimtį ir galimą poveikį elektros energetikos sistemos patikimumui, kai elektros energijos gamybos įrenginių įrengtoji galia yra ne didesnė kaip 10 kW, išduoda leidimą gaminti elektros energiją Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse numatyta supaprastinta tvarka, jeigu asmuo pateikia prašymą, kuriame pateikiama informacija apie šio straipsnio 9 dalies 2 punkte nurodytų dokumentų išdavimą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+Nr. XIII-2201, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09724
  
 
 
@@ -1663,9 +1676,10 @@ Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 
 
 
-14. Leidimas plėtoti elektros energijos gamybos pajėgumus nereikalingas, jeigu asmuo numato plėsti (įrengti) elektros energijos gamybos pajėgumus, kurių įrengtoji galia ne didesnė kaip 10 kW, ir juose gaminti elektros energiją tik savo reikmėms ir ūkio poreikiams, nepatiekiant elektros energijos į elektros tinklus, taip pat jeigu asmuo atitinka šio įstatymo 2 straipsnio 9 dalies nuostatas ir numato plėsti (įrengti) elektros energijos iš atsinaujinančių išteklių gamybos pajėgumus, kurių įrengtoji galia ne didesnė kaip 5 kW. Asmuo, numatantis plėsti (įrengti) ne didesnės kaip 10 kW įrengtosios galios elektros energijos gamybos pajėgumus ir juose gaminti elektros energiją tik savo reikmėms ir ūkio poreikiams, nepatiekiant elektros energijos į elektros tinklus, taip pat šio įstatymo 2 straipsnio 9 dalyje nurodyti asmenys, numatantys plėsti (įrengti) ne didesnės kaip 5 kW įrengtosios galios elektros energijos iš atsinaujinančių išteklių gamybos pajėgumus, Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka apie tai privalo informuoti tinklų operatorių.
+14. Leidimas plėtoti elektros energijos gamybos pajėgumus nereikalingas, jeigu asmuo numato statyti ar įrengti elektros energijos gamybos įrenginius, kurių įrengtoji galia ne didesnė kaip 30 kW, ir juose gaminti elektros energiją tik savo reikmėms ir ūkio poreikiams, nepatiekiant elektros energijos į elektros tinklus, taip pat jeigu asmuo atitinka šio įstatymo 2 straipsnio 9 dalies nuostatas arba siekia tapti gaminančiu vartotoju ir numato statyti ar įrengti elektros energijos iš atsinaujinančių išteklių gamybos įrenginius, kurių įrengtoji galia ne didesnė kaip 30 kW. Asmuo, numatantis statyti ar įrengti ne didesnės kaip 30 kW įrengtosios galios elektros energijos gamybos įrenginius ir juose gaminti elektros energiją tik savo reikmėms ir ūkio poreikiams, nepatiekiant elektros energijos į elektros tinklus, taip pat asmuo, atitinkantis šio įstatymo 2 straipsnio 9 dalies nuostatas arba siekiantis tapti gaminančiu vartotoju ir numatantis statyti ar įrengti ne didesnės kaip 30 kW įrengtosios galios elektros energijos iš atsinaujinančių išteklių gamybos įrenginius, Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka apie tai privalo informuoti tinklų operatorių. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-2201, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09724
  
 
 
@@ -5075,20 +5089,20 @@ APRŪPINIMO ELEKTROS ENERGIJA NUTRAUKIMAS IR RIBOJIMAS. TECHNINIAI IR SAUGUMO RE
  
 
 
-71 straipsnis. Laikino elektros energijos persiuntimo vartotojams nutraukimo ir ribojimo sąlygos nesant vartotojų kaltės
+71 straipsnis. Laikino elektros energijos persiuntimo tinklų naudotojams nutraukimo ir ribojimo sąlygos nesant tinklų naudotojų kaltės
 
 
-1. Elektros energijos persiuntimas vartotojams gali būti laikinai nutrauktas nesant vartotojų kaltės tik siekiant apsaugoti visuomenės interesus, tarp jų Energetikos įstatyme nustatyta tvarka paskelbus ekstremaliąją energetikos padėtį, arba atliekant naujų vartotojų prijungimo ar elektros tinklų priežiūros darbus. Laikino elektros energijos persiuntimo nutraukimo siekiant užtikrinti visuomenės interesus ir su tuo tiesiogiai susijusių pagrįstų nuostolių apskaičiavimo ir atlyginimo tvarką nustato energetikos ministras.
-
-
-
-
-2. Elektros energijos persiuntimą nutraukti ar apriboti vartotojams be išankstinio įspėjimo galima tik tais atvejais, kai tuo siekiama išvengti avarijos ar gedimų elektros energetikos sistemoje ar operatoriaus elektros tinkle arba likviduoti patirtą avariją, gedimus ar sutrikimus, tarp jų esant šio straipsnio 1 dalyje nurodytoms aplinkybėms. Šiais atvejais teisės aktų nustatyta tvarka ir sąlygomis vartotojui turi būti nedelsiant pranešama apie elektros energijos persiuntimo nutraukimą ar apribojimą.
+1. Elektros energijos persiuntimas tinklų naudotojams gali būti laikinai nutrauktas nesant tinklų naudotojų kaltės tik siekiant apsaugoti visuomenės interesus, tarp jų Energetikos įstatyme nustatyta tvarka paskelbus ekstremaliąją energetikos padėtį, arba įgyvendinant ypatingos valstybinės svarbos projektus, arba atliekant naujų vartotojų ar gamintojų prijungimo ar elektros tinklų priežiūros darbus. Laikino elektros energijos persiuntimo nutraukimo siekiant užtikrinti visuomenės interesus ir su tuo tiesiogiai susijusių pagrįstų nuostolių apskaičiavimo ir atlyginimo tvarką nustato energetikos ministras.
 
 
 
 
-3. Atlikdami naujų vartotojų elektros įrenginių prijungimo ar elektros tinklų priežiūros darbus, elektros tinklų operatoriai gali iš dalies arba visiškai atjungti vartotojo įrenginius reikiamam laikotarpiui tik pagal iš anksto nustatytą grafiką ir ne vėliau kaip prieš 5 kalendorines dienas pranešę vartotojams. 
+2. Elektros energijos persiuntimą nutraukti ar apriboti tinklų naudotojams be išankstinio įspėjimo galima tik tais atvejais, kai tuo siekiama išvengti avarijos ar gedimų elektros energetikos sistemoje ar operatoriaus elektros tinkle arba likviduoti patirtą avariją, gedimus ar sutrikimus, tarp jų esant šio straipsnio 1 dalyje nurodytoms aplinkybėms. Šiais atvejais teisės aktų nustatyta tvarka ir sąlygomis tinklų naudotojui turi būti nedelsiant pranešama apie elektros energijos persiuntimo nutraukimą ar apribojimą.
+
+
+
+
+3. Atlikdami naujų vartotojų ar gamintojų elektros įrenginių prijungimo ar elektros tinklų priežiūros darbus, elektros tinklų operatoriai gali iš dalies arba visiškai atjungti tinklų naudotojo įrenginius reikiamam laikotarpiui tik pagal iš anksto nustatytą grafiką ir ne vėliau kaip prieš 5 kalendorines dienas pranešę tinklų naudotojams. 
 
 
 
@@ -5096,56 +5110,53 @@ APRŪPINIMO ELEKTROS ENERGIJA NUTRAUKIMAS IR RIBOJIMAS. TECHNINIAI IR SAUGUMO RE
 4. Sprendžiant dėl nuostolių, susijusių su laikinu elektros energijos persiuntimo nutraukimu, siekiant užtikrinti visuomenės interesus, atlyginimo ir apskaičiavimo vadovaujamasi šiomis nuostatomis:
 
 
-1) tinklų operatorius vartotojui neatlygina jo patirtų nuostolių, kai elektros energijos persiuntimas nutraukiamas arba apribojamas Tarybai nustačius tokius vartotojo elektros įrenginių ir (ar) jų eksploatacijos trūkumus, dėl kurių gresia avarija, gedimai, sutrikimai ar kyla pavojus žmonių gyvybei ir saugumui, taip pat tais atvejais, kai tai būtina siekiant išvengti ekstremaliosios padėties ar susiklosčius energetikos sistemoje ar tinklų operatoriaus elektros tinkle ne dėl tinklų operatoriaus kaltės ekstremaliajai padėčiai, kuri kelia grėsmę sistemos ar elektros tinklo funkcionavimui ir stabilumui, taip pat susidarius generavimo galios ar elektros energijos deficitui ir tada, kai elektros energijos persiuntimo nutraukimas arba apribojimas yra būtinas atliekant elektros tinklų priežiūros darbus, taip pat vykdant naujų elektros energijos vartotojų ir (ar) gamintojų įrenginių prijungimo prie elektros tinklų darbus; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
- 
+1) tinklų operatorius tinklų naudotojui neatlygina jo patirtų nuostolių, kai elektros energijos persiuntimas nutraukiamas arba apribojamas Tarybai nustačius tokius tinklų naudotojo elektros įrenginių ir (ar) jų eksploatacijos trūkumus, dėl kurių gresia avarija, gedimai, sutrikimai ar kyla pavojus žmonių gyvybei ir saugumui, taip pat tais atvejais, kai tai būtina siekiant išvengti ekstremaliosios padėties ar susiklosčius energetikos sistemoje ar tinklų operatoriaus elektros tinkle ne dėl tinklų operatoriaus kaltės ekstremaliajai padėčiai, kuri kelia grėsmę sistemos ar elektros tinklo funkcionavimui ir stabilumui, taip pat susidarius generavimo galios ar elektros energijos deficitui ir tada, kai elektros energijos persiuntimo nutraukimas arba apribojimas yra būtinas atliekant elektros tinklų priežiūros darbus, taip pat vykdant naujų elektros energijos vartotojų ir (ar) gamintojų įrenginių prijungimo prie elektros tinklų darbus; taip pat tinklų operatorius tinklų naudotojui neatlygina jo patirtų nuostolių dėl izoliuoto elektros energetikos sistemos darbo bandymo, jeigu jie atsiranda dėl aplinkybių, kurių prieš pradedant izoliuoto elektros energetikos sistemos darbo bandymą nebuvo ir kurios negalėjo būti numatytos, taip pat jų nebuvo galima išvengti, kontroliuoti ir pašalinti;
 
 
 
 
-2) elektros energijos persiuntimo nutraukimo laikas, nepersiųstos (nepatiektos) elektros energijos kiekis ir priežastys nustatomos pagal tinklų operatoriaus bei vartotojo operatyvinius dokumentus ir registravimo prietaisų rodmenis. Nepersiųstos (nepatiektos) elektros energijos kiekis, nekokybiškai pagamintos arba sugadintos produkcijos kiekis, sugadintos įrangos vertė nustatomi pagal tinklų operatoriaus arba vartotojo pateiktus įrodančius dokumentus. Jeigu nuostolių dydžių pagal turimą informaciją tiksliai nustatyti negalima, tai jų dydis nustatomas šalių susitarimu. Šalims nesusitarus, nuostolių dydį nustato teismas;
+2) elektros energijos persiuntimo nutraukimo laikas, nepersiųstos (nepatiektos) elektros energijos kiekis ir priežastys nustatomi pagal tinklų operatoriaus bei tinklų naudotojo operatyvinius dokumentus ir registravimo prietaisų rodmenis. Nepersiųstos (nepatiektos) elektros energijos kiekis, nekokybiškai pagamintos arba sugadintos produkcijos kiekis, sugadintos įrangos vertė nustatomi pagal tinklų operatoriaus arba tinklų naudotojo pateiktus įrodančius dokumentus. Jeigu nuostolių dydžių pagal turimą informaciją tiksliai nustatyti negalima, jų dydis nustatomas šalių susitarimu. Šalims nesusitarus, nuostolių dydį nustato teismas;
 
 
 
 
-3) prašymą dėl nuostolių atlyginimo vartotojas turi teisę pateikti tinklų operatoriui ne vėliau kaip per vieną mėnesį nuo nuostolių atsiradimo dienos. Tinklų operatorius privalo vartotojo prašymą išnagrinėti ne vėliau kaip per 30 kalendorinių dienų nuo prašymo gavimo;
+3) prašymą dėl nuostolių atlyginimo tinklų naudotojas turi teisę pateikti tinklų operatoriui ne vėliau kaip per vieną mėnesį nuo nuostolių atsiradimo dienos. Tinklų operatorius privalo tinklų naudotojo prašymą išnagrinėti ne vėliau kaip per 30 kalendorinių dienų nuo prašymo gavimo dienos;
 
 
 
 
-4) tinklų operatoriai, nustatę, kad vartotojo prašymas dėl nuostolių atlyginimo yra pagrįstas, vartotojams nuostolius, patirtus dėl elektros energijos persiuntimo nutraukimo ar apribojimo, atlygina per 30 kalendorinių dienų nuo vartotojo prašymo išnagrinėjimo dienos, jeigu vartotojas ir tinklų operatorius nesusitaria kitaip. Tinklų operatoriai vartotojų prašymus nagrinėja vadovaudamiesi teisingumo, protingumo ir sąžiningumo reikalavimais.
+4) tinklų operatoriai, nustatę, kad tinklų naudotojo prašymas dėl nuostolių atlyginimo yra pagrįstas, tinklų naudotojams nuostolius, patirtus dėl elektros energijos persiuntimo nutraukimo ar apribojimo, atlygina per 30 kalendorinių dienų nuo tinklų naudotojo prašymo išnagrinėjimo dienos, jeigu tinklų naudotojas ir tinklų operatorius nesusitaria kitaip. Tinklų operatoriai tinklų naudotojų prašymus nagrinėja vadovaudamiesi teisingumo, protingumo ir sąžiningumo reikalavimais. 
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
  
 
 
 
 
-72 straipsnis. Elektros energijos persiuntimo nutraukimas dėl vartotojų kaltės
+72 straipsnis. Elektros energijos persiuntimo nutraukimas dėl tinklų naudotojų kaltės
 
 
-1. Perdavimo sistemos ar skirstomųjų tinklų operatorius gali nutraukti elektros energijos persiuntimą tiems vartotojams, kurie savo veika sukelia trikdžius ir neigiamai veikia elektros energijos kokybę, jeigu šie vartotojai, gavę rašytinį įspėjimą, per 5 dienas nenutraukia šios veikos, arba nedelsiant ir be išankstinio įspėjimo, jeigu dėl vartotojų veiksmų kyla perdavimo ar skirstomųjų tinklų avarijos grėsmė arba kenkiama elektros energetikos sistemos saugumui ir patikimumui.
+1. Perdavimo sistemos ar skirstomųjų tinklų operatorius gali nutraukti elektros energijos persiuntimą tiems tinklų naudotojams, kurie savo veika sukelia trikdžius ir neigiamai veikia elektros energijos kokybę, jeigu šie tinklų naudotojai, gavę rašytinį įspėjimą, per 5 dienas nenutraukia šios veikos, arba nedelsdamas ir be išankstinio įspėjimo, jeigu dėl tinklų naudotojų veiksmų kyla perdavimo ar skirstomųjų tinklų avarijos grėsmė arba kenkiama elektros energetikos sistemos saugumui ir patikimumui.
 
 
 
 
-2. Perdavimo sistemos ar skirstomųjų tinklų operatorius gali nutraukti elektros energijos persiuntimą ir tiems vartotojams, kurie gavę rašytinį įspėjimą neapmokėjo sąskaitų už suvartotą elektros energiją arba jos persiuntimą ir su tuo susijusias paslaugas bei už viešuosius interesus atitinkančias paslaugas: buitiniai vartotojai – per 15 dienų, kiti vartotojai – per 10 dienų.
-Straipsnio dalies pakeitimai:
-Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+2. Perdavimo sistemos ar skirstomųjų tinklų operatorius gali nutraukti elektros energijos persiuntimą ir tiems tinklų naudotojams, kurie gavę rašytinį įspėjimą neapmokėjo sąskaitų už suvartotą elektros energiją arba jos persiuntimą ir už su tuo susijusias paslaugas bei už viešuosius interesus atitinkančias paslaugas: buitiniai vartotojai – per 15 dienų, kiti tinklų naudotojai – per 10 dienų.
+
+
+
+
+3. Perdavimo sistemos ar skirstomųjų tinklų operatorius, iš anksto įspėjęs, šio straipsnio 2 dalyje nustatytais terminais gali nutraukti elektros energijos persiuntimą tiems tinklų naudotojams, kurie nesutinka įleisti perdavimo sistemos ar skirstomųjų tinklų operatoriaus įgaliotų atstovų į savo teritorijas ir (ar) patalpas įrengti, prižiūrėti ar keisti elektros energijos apskaitos prietaisų arba nuskaityti jų rodmenų. Tinklų naudotojų pareigą sudaryti sąlygas perdavimo sistemos ar skirstomųjų tinklų operatoriui įrengti, prižiūrėti ar keisti elektros energijos apskaitos prietaisus arba nuskaityti jų rodmenis ir šios pareigos įgyvendinimo sąlygas ir tvarką nustato Elektros energijos tiekimo ir naudojimo taisyklės. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
  
-
-
-
-
-3. Perdavimo sistemos ar skirstomųjų tinklų operatorius, iš anksto įspėjęs, šio straipsnio 2 dalyje nustatytais terminais gali nutraukti elektros energijos persiuntimą tiems vartotojams, kurie nesutinka įleisti perdavimo sistemos ar skirstomųjų tinklų operatoriaus įgaliotų atstovų į savo teritorijas ir (ar) patalpas įrengti, prižiūrėti ar keisti elektros energijos apskaitos prietaisus arba nuskaityti jų rodmenis. Vartotojų pareigą sudaryti sąlygas perdavimo sistemos ar skirstomųjų tinklų operatoriui įrengti, prižiūrėti ar keisti elektros energijos apskaitos prietaisus arba nuskaityti jų rodmenis ir šios pareigos įgyvendinimo sąlygas ir tvarką nustato Elektros energijos tiekimo ir naudojimo taisyklės.
- 
-
-
 
 
 
@@ -6185,3 +6196,13 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 9, 15, 16, 56 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2201, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09724
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 16 ir 67 straipsnių pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 20, 67, 68, 69, 71 ir 72 straipsnių pakeitimo įstatymas
