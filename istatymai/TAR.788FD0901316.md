@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/788fd090131611e9b2b6e7cdb14007b4"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso 3, 4-1, 5, 6-1, 7, 7-1, 9, 10, 14, 23, 23-1, 24, 25, 26, 28, 29, 30-1, 30-2, 30-3, 30-4, 33 straipsnių ir priedo pakeitimo, Kodekso papildymo 24-1, 24-2, 24-3, 24-4, 25-1, 25-2, 29-1, 29-2, 29-3, 29-4, 29-5, 29-6, 29-7 ir 29-8 straipsniais įstatymas
 
+Suvestinė redakcija nuo 2019-07-04
+ 
+Įstatymas paskelbtas: TAR 2019-01-08, i. k. 2019-00218
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 GELEŽINKELIŲ TRANSPORTO KODEKSO 3, 41, 5, 61, 7, 71, 9, 10, 14, 23, 231, 24, 25, 26, 28, 29, 301, 302, 303, 304, 33 STRAIPSNIŲ IR PRIEDO PAKEITIMO, KODEKSO PAPILDYMO 241, 242, 243, 244, 251, 252, 291, 292, 293, 294, 295, 296, 297 IR 298 STRAIPSNIAIS
 ĮSTATYMAS
@@ -1731,18 +1738,49 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 
 
 
-2. Pakeisti 28 straipsnio 2 dalį ir ją išdėstyti taip:
+2. Pakeisti 28 straipsnį ir jį išdėstyti taip:
 
 
 
 
-„2. Išimtinė teisė gauti minimalųjį prieigos paketą teikiant tranzito geležinkelių transportu paslaugas suteikiama geležinkelio įmonėms (vežėjams), kurių visos akcijos nuosavybės teise tiesiogiai ar netiesiogiai priklauso Lietuvos valstybei.“
+„28 straipsnis. Naudojimosi viešąja geležinkelių infrastruktūra sąlygos
+
+
+1. Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje įregistruota geležinkelio įmonė (vežėjas), kuriai skirti viešosios geležinkelių infrastruktūros pajėgumai, arba pareiškėjo interesais veikianti geležinkelio įmonė (vežėjas), turinti galiojančius geležinkelio įmonės (vežėjo) licenciją ir saugos sertifikatą ir sudariusi su viešosios geležinkelių infrastruktūros valdytoju naudojimosi viešąja geležinkelių infrastruktūra sutartį, turi teisę naudotis viešąja geležinkelių infrastruktūra, išskyrus šio straipsnio 2 ir 5 dalyse numatytas išimtis.
+
+
+
+
+2. Išimtinė teisė gauti minimalųjį prieigos paketą ir teisė naudotis viešąja geležinkelių infrastruktūra teikiant tranzito geležinkelių transportu paslaugas suteikiama geležinkelio įmonėms (vežėjams), kurių visos akcijos nuosavybės teise tiesiogiai ar netiesiogiai priklauso Lietuvos valstybei. Geležinkelio įmonės (vežėjai) ir pareiškėjo interesais veikiančios geležinkelio įmonės (vežėjai), teikdamos keleivių, bagažo ir (ar) krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugas Lietuvos Respublikos teritorijoje, privalo užtikrinti, kad viešoji geležinkelių infrastruktūra nebūtų naudojama tranzito geležinkelių transportu paslaugoms teikti. 
+
+
+
+
+3. Įmonės, kurios manevruoja šio Kodekso nustatyta tvarka apsidraudusios civilinės atsakomybės draudimu, įgijusios saugos sertifikatą turi teisę naudotis Lietuvos valstybei nuosavybės teise priklausančiais geležinkelių paslaugų įrenginiais laikydamosi šio Kodekso ketvirtajame1 skirsnyje nustatytų reikalavimų. Įmonės, kurios važiuoja į geležinkelių infrastruktūros objektų statybos, remonto ir (ar) techninės priežiūros darbų atlikimo vietą ir iš jos, turi teisę naudotis viešąja geležinkelių infrastruktūra laikydamosi šiame Kodekse geležinkelio įmonėms (vežėjams) nustatytų reikalavimų, išskyrus reikalavimą turėti geležinkelio įmonės (vežėjo) licenciją.
+
+
+
+
+4. Viešosios geležinkelių infrastruktūros valdytojui draudžiama diskriminuoti geležinkelio įmones (vežėjus) ir šio straipsnio 3 dalyje nurodytas įmones ar sudaryti joms skirtingas prieigos prie viešosios geležinkelių infrastruktūros sąlygas.
+
+
+
+
+5. Prieiga prie viešosios geležinkelių infrastruktūros vežimo geležinkelių transportu paslaugoms teikti iš trečiosios valstybės ir į ją gali būti apribota, jeigu yra tarpvalstybinio susisiekimo geležinkelių transportu su ta trečiąja valstybe konkurencijos iškraipymų, įskaitant iškraipymus, atsiradusius dėl nediskriminacinės prieigos prie geležinkelių infrastruktūros ir susijusių paslaugų toje trečiojoje valstybėje nebuvimo. Sprendimą dėl naudojimosi viešąja geležinkelių infrastruktūra vežimo geležinkelių transportu paslaugoms teikti iš trečiosios valstybės ir į ją apribojimo priima Vyriausybė savo nustatyta tvarka. Toks sprendimas priimamas tik tuo atveju, jeigu Europos Komisija ir kitos Europos Sąjungos valstybės narės per tris mėnesius nuo Vyriausybės sprendimo projekto pateikimo Europos Komisijai ir kitoms Europos Sąjungos valstybėms narėms dienos neprieštarauja dėl numatomo naudojimosi viešąja geležinkelių infrastruktūra vežimo geležinkelių transportu paslaugoms teikti iš trečiosios valstybės ir į ją apribojimo.
+
+
+
+
+6. Viešosios geležinkelių infrastruktūros valdytojas Tinklo nuostatuose nustatyta tvarka vykdo šio straipsnio 1 ir 2 dalyse nustatytų naudojimosi viešąja geležinkelių infrastruktūra sąlygų laikymosi kontrolę. Šio straipsnio 2 dalyje nustatytų naudojimosi viešąja geležinkelių infrastruktūra sąlygų laikymosi kontrolę viešosios geležinkelių infrastruktūros valdytojas vykdo bendradarbiaudamas su Lietuvos Respublikos muitine ir Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos tarpusavio susitarimų nustatyta tvarka.“
+
+
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2254, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10924
  
- 
-
-
-
-
 
 
 
@@ -1765,7 +1803,7 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
 
 
-2. Paskirtus viešosios geležinkelių infrastruktūros pajėgumus draudžiama perduoti kitai įmonei ar kitai vežimo geležinkelių transportu paslaugai teikti arba šiuos pajėgumus parduoti. Jeigu geležinkelio įmonė (vežėjas) nėra pareiškėja, tačiau pagal sutartį su pareiškėju turi teisę naudotis perleistais viešosios geležinkelių infrastruktūros pajėgumais, tai nėra laikoma viešosios geležinkelių infrastruktūros pajėgumų perdavimu.
+2. Pareiškėjas negali jam skirtų viešosios geležinkelių infrastruktūros pajėgumų perduoti kitai įmonei ar kitai vežimo geležinkelių transportu paslaugai teikti arba šių pajėgumų parduoti. Jeigu, vykdydama pareiškėjo, kuris nėra geležinkelio įmonė (vežėjas), interesais veikiančios geležinkelio įmonės (vežėjo) veiklą, viešosios geležinkelių infrastruktūros pajėgumus naudoja geležinkelio įmonė (vežėjas), tai nėra laikoma viešosios geležinkelių infrastruktūros pajėgumų perdavimu.
 
 
 
@@ -1785,7 +1823,7 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
 
 
-6. Viešosios geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas) sudaro naudojimosi viešąja geležinkelių infrastruktūra sutartį vieno tarnybinio traukinių tvarkaraščio galiojimo laikotarpiui ir nustato geležinkelio įmonės (vežėjo) ir viešosios geležinkelių infrastruktūros valdytojo teises ir pareigas, susijusias su paskirtų viešosios geležinkelių infrastruktūros pajėgumų panaudojimu per vieno tarnybinio traukinių tvarkaraščio galiojimo laikotarpį. Derybos dėl naudojimosi viešąja geležinkelių infrastruktūra sutarties sudarymo galiojančiam tarnybinio traukinių tvarkaraščio laikotarpiui turi būti pradėtos ne vėliau kaip likus 3 mėnesiams iki tarnybinio traukinių tvarkaraščio įsigaliojimo ar paskutinės minutės paraiškos pateikimo dienos.
+6. Viešosios geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas) sudaro naudojimosi viešąja geležinkelių infrastruktūra sutartį vieno tarnybinio traukinių tvarkaraščio galiojimo laikotarpiui ir nustato geležinkelio įmonės (vežėjo) ir viešosios geležinkelių infrastruktūros valdytojo teises ir pareigas, susijusias su paskirtų viešosios geležinkelių infrastruktūros pajėgumų panaudojimu per vieno tarnybinio traukinių tvarkaraščio galiojimo laikotarpį. Derybos dėl naudojimosi viešąja geležinkelių infrastruktūra sutarties sudarymo galiojančiam tarnybinio traukinių tvarkaraščio laikotarpiui turi būti pradėtos ne vėliau kaip likus 3 mėnesiams iki paskutinės minutės paraiškos pateikimo dienos.
 
 
 
@@ -1815,7 +1853,7 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
 
 
-12. Bendrasis susitarimas paprastai sudaromas ne ilgiau kaip 5 metams su galimybe jį sudariusių šalių susitarimu pratęsti tokios pat trukmės laikotarpiui, išskyrus šio straipsnio 13 dalyje nurodytus atvejus. Kiekvienas ilgesnis kaip 5 metų bendrojo susitarimo galiojimo laikotarpis turi būti pagrįstas atsižvelgiant į pareiškėjo sudarytas vežimo sutartis, investicijas ir rizikos veiksnius, susijusius su keleivių, bagažo ir (ar) krovinių vežimo geležinkelių transportu paslaugų teikimo veikla. Šis reikalavimas taikomas ir tuo atveju, kai bendrasis susitarimas, sudarytas 5 metams, pratęsiamas tokios pačios trukmės laikotarpiui.
+12. Bendrasis susitarimas paprastai sudaromas ne ilgiau kaip 5 metams su galimybe jį sudariusių šalių susitarimu pratęsti tokios pačios trukmės laikotarpiui, išskyrus šio straipsnio 13 dalyje nurodytus atvejus. Kiekvienas ilgesnis kaip 5 metų bendrojo susitarimo galiojimo laikotarpis turi būti pagrįstas atsižvelgiant į pareiškėjo sudarytas vežimo sutartis, investicijas ir rizikos veiksnius, susijusius su keleivių, bagažo ir (ar) krovinių vežimo geležinkelių transportu paslaugų teikimo veikla. Šis reikalavimas taikomas ir tuo atveju, kai bendrasis susitarimas, sudarytas 5 metams, pratęsiamas tokios pačios trukmės laikotarpiui.
 
 
 
@@ -1836,15 +1874,17 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 
 
 16. Šio straipsnio ir šio Kodekso 291–298 straipsnių nuostatos, reglamentuojančios viešosios geležinkelių infrastruktūros pajėgumų skyrimą geležinkelio įmonėms (vežėjams), išskyrus nuostatas, reglamentuojančias bendrųjų susitarimų sudarymą, mutatis mutandis taikomos, kai paraišką skirti viešosios geležinkelių infrastruktūros pajėgumus teikia šio Kodekso 28 straipsnio 3 dalyje nurodytos įmonės.“
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2254, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10924
  
-
-
-
-
-
-
-
-
 
 
 
@@ -2233,7 +2273,7 @@ Papildyti Kodeksą 296 straipsniu:
 4. Viešosios geležinkelių infrastruktūros valdytojas priima sprendimą panaikinti skirtus viešosios geležinkelių infrastruktūros pajėgumus, jeigu:
 
 
-1) geležinkelio įmonė (vežėjas) nesilaiko šio Kodekso 28 straipsnio 1 dalyje nustatytų naudojimosi viešąja geležinkelių infrastruktūra sąlygų;
+1) paaiškėja, kad geležinkelio įmonė (vežėjas), pareiškėjo interesais veikianti geležinkelio įmonė (vežėjas) nesilaiko šio Kodekso 28 straipsnio 1 ir 2 dalyse nustatytų naudojimosi viešąja geležinkelių infrastruktūra sąlygų;
 
 
 
@@ -2258,18 +2298,20 @@ Papildyti Kodeksą 296 straipsniu:
 
 
 
-6) neįmanoma naudotis pareiškėjui skirtais viešosios geležinkelių infrastruktūros pajėgumais dėl nenumatytų viešosios geležinkelių infrastruktūros pajėgumų apribojimų, kurių neįmanoma pašalinti per vieno tarnybinio traukinių tvarkaraščio, kuriam prašoma viešosios geležinkelių infrastruktūros pajėgumų, galiojimo laikotarpį.“
+6) neįmanoma naudotis pareiškėjui skirtais viešosios geležinkelių infrastruktūros pajėgumais dėl nenumatytų viešosios geležinkelių infrastruktūros pajėgumų apribojimų, kurių neįmanoma pašalinti per vieno tarnybinio traukinių tvarkaraščio, kuriam prašoma viešosios geležinkelių infrastruktūros pajėgumų, galiojimo laikotarpį.“ 
+
+
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2254, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10924
  
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2429,7 +2471,6 @@ Geležinkelių paslaugų įrenginiai yra šie:
 
 
 10) kiti geležinkelių paslaugų įrenginiai, kuriuose teikiamos šio Kodekso 303 straipsnio 2 ir 3 dalyse nurodytos paslaugos.“
- 
  
 
 
@@ -2773,63 +2814,90 @@ Geležinkelių paslaugų įrenginiai yra šie:
 
 
 
-37 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
+37 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas 
 
 
-1. Šis įstatymas, išskyrus 1 straipsnio 5, 6, 13, 20 ir 26 dalis, 2 straipsnio 2 dalį, 3 straipsnį, 6 straipsnio 1, 4, 5, 7 ir 11 dalis, 7 straipsnį, 8 straipsnio 1–6 dalis, 9 straipsnį, 10 straipsnio 3, 4, 7–12 dalis, 11 straipsnį, 15 straipsnį, 21 straipsnio 1 dalį, 31 straipsnį, 32 straipsnio 1–4 dalis, 33, 34 ir 35 straipsnius, 36 straipsnio 3 dalį ir šį straipsnį, įsigalioja 2019 m. gruodžio 8 d.
-
-
-
-
-2. Šio įstatymo 1 straipsnio 5, 6, 13 ir 26 dalys, 2 straipsnio 2 dalis, 6 straipsnio 1 ir 7 dalys, 8 straipsnio 1–6 dalys, 11 straipsnis, 21 straipsnio 1 dalis, 32 straipsnio 3 ir 4 dalys, 33, 34 ir 35 straipsniai, 36 straipsnio 3 dalis įsigalioja 2019 m. birželio 1 d.
+1. Šis įstatymas, išskyrus 1 straipsnio 5, 6, 13, 20 ir 26 dalis, 2 straipsnio 2 dalį, 3 straipsnį, 6 straipsnio 1, 4, 5, 7 ir 11 dalis, 7 straipsnį, 8 straipsnio 1–6 dalis, 9 straipsnį, 10 straipsnio 3, 4, 7–12 dalis, 11, 15, 21, 31 straipsnius, 32 straipsnio 1–4 dalis, 33, 34, 35 straipsnius, 36 straipsnio 3 dalį ir šį straipsnį, įsigalioja 2019 m. gruodžio 8 d.
 
 
 
 
-3. Akcinė bendrovė „Lietuvos geležinkeliai“ ne vėliau kaip iki 2019 m. rugsėjo 1 d. įsteigia dukterinę bendrovę viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti, dukterinę bendrovę keleivių, bagažo vežimo geležinkelių transportu paslaugoms teikti ir dukterinę bendrovę krovinių vežimo geležinkelių transportu paslaugoms teikti.
+2. Šio įstatymo 1 straipsnio 5, 6, 13 ir 26 dalys, 2 straipsnio 2 dalis, 6 straipsnio 1 ir 7 dalys, 8 straipsnio 1–6 dalys, 11 straipsnis, 21 straipsnio 1 dalis, 32 straipsnio 3 ir 4 dalys, 33, 34, 35 straipsniai, 36 straipsnio 3 dalis įsigalioja 2019 m. birželio 1 d.
 
 
 
 
-4. Viešosios geležinkelių infrastruktūros patikėjimo teisei perduoti Lietuvos Respublikos susisiekimo ministerija ir akcinės bendrovės „Lietuvos geležinkeliai“ viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti įsteigta bendrovė pasirašo patikėjimo sutartį, pagal kurią akcinės bendrovės „Lietuvos geležinkeliai“ patikėjimo teise valdomas valstybei nuosavybės teise priklausantis viešosios geležinkelių infrastruktūros ir geležinkelių paslaugų įrenginių turtas nuo 2019 m. gruodžio 8 d. perduodamas patikėjimo teise pagal patikėjimo sutartį valdyti akcinės bendrovės „Lietuvos geležinkeliai“ viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti įsteigtai bendrovei.
+3. Šio įstatymo 21 straipsnio 2 dalis įsigalioja 2019 m. liepos 1 d.
 
 
 
 
-5. Lietuvos Respublikos susisiekimo ministerija, akcinė bendrovė „Lietuvos geležinkeliai“ ir akcinės bendrovės „Lietuvos geležinkeliai“ viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti įsteigta bendrovė pasirašo trišalį turto perdavimo ir priėmimo aktą, pagal kurį akcinės bendrovės „Lietuvos geležinkeliai“ patikėjimo teise valdomas valstybei nuosavybės teise priklausantis viešosios geležinkelių infrastruktūros ir geležinkelių paslaugų įrenginių turtas nuo 2019 m. gruodžio 8 d. perduodamas patikėjimo teise pagal patikėjimo sutartį valdyti akcinės bendrovės „Lietuvos geležinkeliai“ viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti įsteigtai bendrovei. 
+4. Akcinė bendrovė „Lietuvos geležinkeliai“ ne vėliau kaip iki 2019 m. rugsėjo 1 d. įsteigia dukterinę bendrovę viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti, dukterinę bendrovę keleivių, bagažo vežimo geležinkelių transportu paslaugoms teikti ir dukterinę bendrovę krovinių vežimo geležinkelių transportu paslaugoms teikti.
 
 
 
 
-6. Viešosios geležinkelių infrastruktūros atnaujinimo ir plėtros projektai, pradėti vykdyti iki šio įstatymo įsigaliojimo, vykdomi ir užbaigiami vadovaujantis iki šio įstatymo įsigaliojimo galiojusio Lietuvos Respublikos geležinkelių transporto kodekso reikalavimais.
+5. Viešosios geležinkelių infrastruktūros patikėjimo teisei perduoti Lietuvos Respublikos susisiekimo ministerija ir akcinės bendrovės „Lietuvos geležinkeliai“ viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti įsteigta bendrovė pasirašo patikėjimo sutartį, pagal kurią akcinės bendrovės „Lietuvos geležinkeliai“ patikėjimo teise valdomi Lietuvos valstybei nuosavybės teise priklausantys viešosios geležinkelių infrastruktūros objektai, geležinkelių paslaugų įrenginiai, išskyrus viešosios geležinkelių infrastruktūros objektų ir Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių užimamą valstybinę žemę, nuo 2019 m. gruodžio 8 d. perduodami patikėjimo teise pagal patikėjimo sutartį valdyti akcinės bendrovės „Lietuvos geležinkeliai“ viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti įsteigtai bendrovei.
 
 
 
 
-7. Šio įstatymo 8 straipsnio 1 ir 2 dalyse išdėstytuose Lietuvos Respublikos geležinkelių transporto kodekso 10 straipsnio 2 dalies 1 ir 2 punktuose nustatyti reikalavimai taikomi nagrinėjant prašymus gauti, pakeisti geležinkelio įmonės (vežėjo) licenciją, pateiktus įsigaliojus šio įstatymo 8 straipsniui.
+6. Lietuvos Respublikos susisiekimo ministerija, akcinė bendrovė „Lietuvos geležinkeliai“ ir akcinės bendrovės „Lietuvos geležinkeliai“ viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti įsteigta bendrovė pasirašo trišalį turto perdavimo ir priėmimo aktą, pagal kurį akcinės bendrovės „Lietuvos geležinkeliai“ patikėjimo teise valdomi Lietuvos valstybei nuosavybės teise priklausantys viešosios geležinkelių infrastruktūros objektai, geležinkelių paslaugų įrenginiai, išskyrus viešosios geležinkelių infrastruktūros objektų ir Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių užimamą valstybinę žemę, nuo 2019 m. gruodžio 8 d. perduodami patikėjimo teise pagal patikėjimo sutartį valdyti akcinės bendrovės „Lietuvos geležinkeliai“ viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti įsteigtai bendrovei.
 
 
 
 
-8. Šio įstatymo 10 straipsnio 8, 9 ir 10 dalyse išdėstyti Geležinkelių transporto kodekso 23 straipsnio 13 dalyje nustatyti reikalavimai netaikomi viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo sutartims, sudarytoms iki šio įstatymo įsigaliojimo dienos.
+7. Akcinės bendrovės „Lietuvos geležinkeliai“ ir Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos sudarytose viešosios geležinkelių infrastruktūros objektų ir Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių užimamos valstybinės žemės perdavimo valdyti, naudoti ir disponuoti ja turto patikėjimo teise viešosios geležinkelių infrastruktūros valdytojui patikėjimo sutartyse patikėtinės teises ir pareigas nuo 2019 m. gruodžio 8 d. perima akcinės bendrovės „Lietuvos geležinkeliai“ viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti įsteigta bendrovė. Nekilnojamojo turto registro tvarkytojas ne vėliau kaip per vieną mėnesį nuo šių teisių ir pareigų perėmimo pakeičia valstybinės žemės sklypų, kurių patikėtine nurodyta akcinė bendrovė „Lietuvos geležinkeliai“, registro duomenis ir įrašo valstybinės žemės sklypų registro įraše patikėtinę – akcinės bendrovės „Lietuvos geležinkeliai“ viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti įsteigtą bendrovę.
 
 
 
 
-9. Šio įstatymo 21 straipsnio 1 dalyje išdėstyto Geležinkelių transporto kodekso 28 straipsnio 5 dalyje ir šio įstatymo 35 straipsnio 1 dalyje išdėstytoje Geležinkelių transporto kodekso 33 straipsnio 2 dalyje nustatyti reikalavimai taikomi 2020–2021 metų tarnybinio traukinių tvarkaraščio galiojimo ir vėlesniais tarnybinio traukinių tvarkaraščio galiojimo laikotarpiais.
+8. Viešosios geležinkelių infrastruktūros atnaujinimo ir plėtros projektai, pradėti vykdyti iki šio įstatymo įsigaliojimo, vykdomi ir užbaigiami vadovaujantis iki šio įstatymo įsigaliojimo galiojusio Lietuvos Respublikos geležinkelių transporto kodekso reikalavimais.
 
 
 
 
-10. Akcinės bendrovės „Lietuvos geležinkeliai“ viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti įsteigta įmonė skiria viešosios geležinkelių infrastruktūros pajėgumus pagal paskutinės minutės paraiškas, pateiktas 2019–2020 metų tarnybinio traukinių tvarkaraščio galiojimo laikotarpiu, skiria viešosios geležinkelių infrastruktūros pajėgumus, apskaičiuoja užmokesčio už minimalųjį prieigos paketą įmokų tarifus ir surenka šį užmokestį 2020–2021 metų ir vėlesniais tarnybinio traukinių tvarkaraščio galiojimo laikotarpiais.
+9. Šio įstatymo 8 straipsnio 1 ir 2 dalyse išdėstytuose Lietuvos Respublikos geležinkelių transporto kodekso 10 straipsnio 2 dalies 1 ir 2 punktuose nustatyti reikalavimai taikomi nagrinėjant prašymus gauti, pakeisti geležinkelio įmonės (vežėjo) licenciją, pateiktus įsigaliojus šio įstatymo 8 straipsniui.
 
 
 
 
-11. Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos susisiekimo ministras, Lietuvos Respublikos ryšių reguliavimo tarnybos direktorius ir Lietuvos transporto saugos administracijos direktorius ne vėliau kaip iki 2019 m. rugsėjo 7 d. priima šio įstatymo įgyvendinamuosius teisės aktus.
+10. Šio įstatymo 10 straipsnio 8, 9 ir 10 dalyse išdėstyti Geležinkelių transporto kodekso 23 straipsnio 13 dalyje nustatyti reikalavimai netaikomi viešosios geležinkelių infrastruktūros kokybės ir finansavimo užtikrinimo sutartims, sudarytoms iki šio įstatymo įsigaliojimo dienos.
+
+
+
+
+11. Šio įstatymo 21 straipsnio 1 dalyje išdėstyto Geležinkelių transporto kodekso 28 straipsnio 5 dalyje ir šio įstatymo 35 straipsnio 1 dalyje išdėstytoje Geležinkelių transporto kodekso 33 straipsnio 2 dalyje nustatyti reikalavimai taikomi 2020–2021 metų tarnybinio traukinių tvarkaraščio galiojimo ir vėlesniais tarnybinio traukinių tvarkaraščio galiojimo laikotarpiais.
+
+
+
+
+12. Lietuvos transporto saugos administracija per 5 darbo dienas nuo šio straipsnio 4 dalyje nurodytų bendrovių prašymų joms perduoti akcinei bendrovei „Lietuvos geležinkeliai“ paskirtus viešosios geležinkelių infrastruktūros pajėgumus gavimo dienos pakeičia priimtus sprendimus dėl viešosios geležinkelių infrastruktūros pajėgumų skyrimo akcinei bendrovei „Lietuvos geležinkeliai“ ir:
+
+
+1) viešosios geležinkelių infrastruktūros pajėgumus, kurie buvo skirti viešosios geležinkelių infrastruktūros statybos, remonto ir (ar) techninės priežiūros darbams atlikti, nuo prašyme nurodytos dienos tokiomis pačiomis sąlygomis ir tokiam pačiam laikotarpiui perduoda akcinės bendrovės „Lietuvos geležinkeliai“ įsteigtai bendrovei viešosios geležinkelių infrastruktūros valdytojo funkcijoms atlikti;
+
+
+
+
+2) viešosios geležinkelių infrastruktūros pajėgumus, kurie buvo skirti keleivių, bagažo vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugoms teikti, nuo prašyme nurodytos dienos tokiomis pačiomis sąlygomis ir tokiam pačiam laikotarpiui perduoda akcinės bendrovės „Lietuvos geležinkeliai“ įsteigtai bendrovei keleivių, bagažo vežimo geležinkelių transportu paslaugoms teikti;
+
+
+
+
+3) viešosios geležinkelių infrastruktūros pajėgumus, kurie buvo skirti krovinių vežimo vietiniais ir (ar) tarptautiniais maršrutais paslaugoms teikti, nuo prašyme nurodytos dienos tokiomis pačiomis sąlygomis ir tokiam pačiam laikotarpiui perduoda akcinės bendrovės „Lietuvos geležinkeliai“ įsteigtai bendrovei krovinių vežimo geležinkelių transportu paslaugoms teikti.
+
+
+
+
+
+
+13. Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos susisiekimo ministras, Lietuvos Respublikos ryšių reguliavimo tarnybos direktorius ir Lietuvos transporto saugos administracijos direktorius ne vėliau kaip iki 2019 m. rugsėjo 7 d. priima šio įstatymo įgyvendinamuosius teisės aktus. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2254, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10924
  
-
-
 
 
 
@@ -2839,3 +2907,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2254, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10924
+Lietuvos Respublikos geležinkelių transporto kodekso 3, 4-1, 5, 6-1, 7, 7-1, 9, 10, 14, 23, 23-1, 24, 25, 26, 28, 29, 30-1, 30-2, 30-3, 30-4, 33 straipsnių ir priedo pakeitimo, Kodekso papildymo 24-1, 24-2, 24-3, 24-4, 25-1, 25-2, 29-1, 29-2, 29-3, 29-4, 29-5, 29-6, 29-7 ir 29-8 straipsniais įstatymo Nr. XIII-1858 21, 22, 28 ir 37 straipsnių pakeitimo įstatymas
