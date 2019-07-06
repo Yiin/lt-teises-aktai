@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2019-02-01 iki 2019-07-05
+Suvestinė redakcija nuo 2019-07-06 iki 2019-07-20
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
+ 
+TAR pastaba. Akcinių bendrovių, kurių akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politika turi būti patvirtinta artimiausiame akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, eiliniame visuotiniame akcininkų susirinkime.  Iki akcinių bendrovių, kurių akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos patvirtinimo artimiausiame eiliniame visuotiniame akcininkų susirinkime šių bendrovių vadovui, valdybos ir stebėtojų tarybos nariams atlygis mokamas vadovaujantis iki įstatymo Nr. XIII-2249 įsigaliojimo (2019-07-06) taikyta atlygio mokėjimo praktika.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 1, 16, 20, 21, 28, 32, 34, 37, 37-2, 78 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 37-3 straipsniu įstatymas
  
 Nauja įstatymo redakcija nuo 2004-01-01:
 Nr. IX-1889, 2003-12-11, Žin., 2003, Nr. 123-5574 (2003-12-30), atitaisymas skelbtas: Žin., 2004, Nr. 33
@@ -51,9 +56,11 @@ Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
 
 
 
-3. Šis Įstatymas finansų įstaigoms taikomas tiek, kiek kiti įstatymai, reglamentuojantys finansinių paslaugų teikimą ar finansų įstaigų veiklą arba finansų įstaigų ir finansų įstaigų sistemos stabilumą, nenustato kitaip. 
+3. Šis Įstatymas finansų įstaigoms taikomas tiek, kiek kiti įstatymai ir Europos Sąjungos teisės aktus įgyvendinantys kiti teisės aktai, reglamentuojantys finansinių paslaugų teikimą ar finansų įstaigų veiklą arba finansų įstaigų ir finansų įstaigų sistemos stabilumą, nenustato kitaip. 
 Papildyta straipsnio dalimi:
 Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
+Straipsnio dalies pakeitimai:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
@@ -1043,7 +1050,18 @@ Nr. X-1540, 2008-05-15, Žin., 2008, Nr. 63-2378 (2008-06-03)
 
 
 
-6) kitas šio ir kitų įstatymų nustatytas neturtines teises. 
+6) gauti Finansinių priemonių rinkų įstatymo 89 straipsnio 6 dalyje nurodytą informaciją apie akcinę bendrovę, kurios akcijomis leista prekiauti reguliuojamoje rinkoje; 
+Papildyta straipsnio punktu:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
+
+
+
+
+7) kitas šio ir kitų įstatymų nustatytas neturtines teises. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
 
 
 
@@ -1262,155 +1280,189 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-6) nustatyti bendrovės išleidžiamų akcijų klasę, skaičių, nominalią vertę ir minimalią emisijos kainą;
+6) priimti sprendimą dėl akcinių bendrovių, kurių akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos patvirtinimo; 
+Papildyta straipsnio punktu:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
 
 
 
 
-7) priimti sprendimą konvertuoti bendrovės vienos klasės akcijas į kitos, tvirtinti akcijų konvertavimo tvarkos aprašą;
+7) nustatyti bendrovės išleidžiamų akcijų klasę, skaičių, nominalią vertę ir minimalią emisijos kainą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
 
 
 
 
-8) priimti sprendimą keisti bendrovės išleistų tos pačios klasės akcijų skaičių ir akcijos nominalią vertę, nekeičiant įstatinio kapitalo dydžio; 
+8) priimti sprendimą konvertuoti bendrovės vienos klasės akcijas į kitos, tvirtinti akcijų konvertavimo tvarkos aprašą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
+
+
+
+
+9) priimti sprendimą keisti bendrovės išleistų tos pačios klasės akcijų skaičių ir akcijos nominalią vertę, nekeičiant įstatinio kapitalo dydžio; 
 Papildyta straipsnio punktu:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-9) priimti sprendimą keisti uždarosios akcinės bendrovės akcijų sertifikatus į akcijas; 
+10) priimti sprendimą keisti uždarosios akcinės bendrovės akcijų sertifikatus į akcijas; 
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-10) tvirtinti metinių finansinių ataskaitų rinkinį;
+11) tvirtinti metinių finansinių ataskaitų rinkinį;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-11) priimti sprendimą dėl pelno (nuostolių) paskirstymo;
+12) priimti sprendimą dėl pelno (nuostolių) paskirstymo;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-12) priimti sprendimą dėl rezervų sudarymo, naudojimo, sumažinimo ir naikinimo;
+13) priimti sprendimą dėl rezervų sudarymo, naudojimo, sumažinimo ir naikinimo;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-13) tvirtinti tarpinių finansinių ataskaitų rinkinį, sudarytą siekiant priimti sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo;
+14) tvirtinti tarpinių finansinių ataskaitų rinkinį, sudarytą siekiant priimti sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-14) priimti sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo;
+15) priimti sprendimą dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-15) priimti sprendimą išleisti konvertuojamąsias obligacijas;
+16) priimti sprendimą išleisti konvertuojamąsias obligacijas;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-16) priimti sprendimą atšaukti visiems akcininkams pirmumo teisę įsigyti konkrečios emisijos bendrovės akcijų ar konvertuojamųjų obligacijų;
+17) priimti sprendimą atšaukti visiems akcininkams pirmumo teisę įsigyti konkrečios emisijos bendrovės akcijų ar konvertuojamųjų obligacijų;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-17) priimti sprendimą padidinti įstatinį kapitalą;
+18) priimti sprendimą padidinti įstatinį kapitalą;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-18) priimti sprendimą sumažinti įstatinį kapitalą, išskyrus šiame Įstatyme nustatytas išimtis;
+19) priimti sprendimą sumažinti įstatinį kapitalą, išskyrus šiame Įstatyme nustatytas išimtis;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-19) priimti sprendimą bendrovei įsigyti savų akcijų;
+20) priimti sprendimą bendrovei įsigyti savų akcijų;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-20) priimti sprendimą dėl Akcijų suteikimo darbuotojams ir (ar) organų nariams taisyklių (toliau – Akcijų suteikimo taisyklės) patvirtinimo; 
+21) priimti sprendimą dėl Akcijų suteikimo darbuotojams ir (ar) organų nariams taisyklių (toliau – Akcijų suteikimo taisyklės) patvirtinimo; 
 Papildyta straipsnio punktu:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-21) priimti sprendimą dėl bendrovės reorganizavimo ar atskyrimo ir patvirtinti reorganizavimo ar atskyrimo sąlygas, išskyrus šiame Įstatyme nustatytas išimtis;
+22) priimti sprendimą dėl bendrovės reorganizavimo ar atskyrimo ir patvirtinti reorganizavimo ar atskyrimo sąlygas, išskyrus šiame Įstatyme nustatytas išimtis;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-22) priimti sprendimą pertvarkyti bendrovę;
+23) priimti sprendimą pertvarkyti bendrovę;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-23) priimti sprendimus dėl bendrovės restruktūrizavimo Įmonių restruktūrizavimo įstatymo nustatytais atvejais;
+24) priimti sprendimus dėl bendrovės restruktūrizavimo Įmonių restruktūrizavimo įstatymo nustatytais atvejais;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-24) priimti sprendimą likviduoti bendrovę, atšaukti bendrovės likvidavimą, išskyrus šiame Įstatyme nustatytas išimtis; 
+25) priimti sprendimą likviduoti bendrovę, atšaukti bendrovės likvidavimą, išskyrus šiame Įstatyme nustatytas išimtis; 
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-25) rinkti ir atšaukti bendrovės likvidatorių, išskyrus šiame Įstatyme nustatytas išimtis.
+26) rinkti ir atšaukti bendrovės likvidatorių, išskyrus šiame Įstatyme nustatytas išimtis.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
@@ -1458,6 +1510,11 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 4. Bendrovė gali sudaryti galimybę akcininkams visuotiniame akcininkų susirinkime dalyvauti ir balsuoti elektroninių ryšių priemonėmis. 
+4 dalies redakcija nuo 2020-09-03:
+4. Bendrovė gali sudaryti galimybę akcininkams visuotiniame akcininkų susirinkime dalyvauti ir balsuoti elektroninių ryšių priemonėmis. Akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, privalo užtikrinti, kad tais atvejais, kai akcininkas ar jo įgaliotinis visuotiniame akcininkų susirinkime dalyvavo ir balsavo elektroninių ryšių priemonėmis, jam nedelsiant būtų išsiųstas balsavimo elektroninių ryšių priemonėmis rezultato gavimo patvirtinimas ir akcininko ar jo įgaliotinio prašymu, kuris gali būti pateiktas ne vėliau kaip per 7 dienas nuo visuotinio akcininkų susirinkimo dienos, būtų pateiktas patvirtinimas, kad jo balsas užregistruotas ir įskaitytas tinkamai (nebent jis jau turi šią informaciją). Jeigu šioje dalyje nurodytą patvirtinimą gauna juridinis asmuo, kuris, vadovaujantis Finansinių priemonių rinkų įstatymu, yra atidaręs ir tvarko akcininko asmeninę vertybinių popierių sąskaitą, jis nedelsdamas bet kokiomis priemonėmis šį patvirtinimą perduoda akcininkui ar jo įgaliotiniui. Jeigu perduodant patvirtinimą yra daugiau negu vienas juridinis asmuo, kuris, vadovaujantis Finansinių priemonių rinkų įstatymu, turi teisę atidaryti ir tvarkyti finansinių priemonių asmenines sąskaitas, taikomos Finansinių priemonių rinkų įstatymo 89 straipsnio 9–11 dalys.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
 
 
 
@@ -2140,33 +2197,45 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-13) dėl bendrovės reorganizavimo ar atskyrimo ir reorganizavimo ar atskyrimo sąlygų patvirtinimo;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+13) patvirtinti akcinių bendrovių, kurių akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politiką; 
+Papildyta straipsnio punktu:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-14) dėl bendrovės pertvarkymo;
+14) dėl bendrovės reorganizavimo ar atskyrimo ir reorganizavimo ar atskyrimo sąlygų patvirtinimo;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-15) dėl bendrovės restruktūrizavimo;
+15) dėl bendrovės pertvarkymo;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-16) dėl bendrovės likvidavimo ir likvidavimo atšaukimo, išskyrus šiame Įstatyme nustatytas išimtis. 
+16) dėl bendrovės restruktūrizavimo;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
+
+
+
+
+17) dėl bendrovės likvidavimo ir likvidavimo atšaukimo, išskyrus šiame Įstatyme nustatytas išimtis. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
@@ -2511,7 +2580,7 @@ Pastaba: šio įstatymo 31 straipsnio 7 dalies nuostatos taikomos bendrovėse re
 
 
 
-2) renka valdybos narius (jeigu valdyba nesudaroma – bendrovės vadovą) ir atšaukia juos iš pareigų. Jeigu bendrovė dirba nuostolingai, stebėtojų taryba privalo svarstyti, ar valdybos nariai (jeigu valdyba nesudaroma – bendrovės vadovas) tinka eiti pareigas;
+2) renka valdybos narius (jeigu valdyba nesudaroma, – bendrovės vadovą) ir atšaukia juos iš pareigų. Jeigu bendrovė dirba nuostolingai, stebėtojų taryba privalo svarstyti, ar valdybos nariai (jeigu valdyba nesudaroma, – bendrovės vadovas) tinka eiti pareigas;
 
 
 
@@ -2536,22 +2605,28 @@ Pastaba: šio įstatymo 31 straipsnio 7 dalies nuostatos taikomos bendrovėse re
 
 
 
-7) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto ir jam priimti sudaryto tarpinių finansinių ataskaitų rinkinio ir parengto tarpinio pranešimo;
+7) pateikia visuotiniam akcininkų susirinkimui atsiliepimus ir pasiūlymus dėl sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto ir jam priimti sudaryto tarpinių finansinių ataskaitų rinkinio bei parengto tarpinio pranešimo;
 
 
 
 
-7) teikia siūlymus valdybai ir bendrovės vadovui atšaukti jų sprendimus, kurie prieštarauja įstatymams ir kitiems teisės aktams, bendrovės įstatams ar visuotinio akcininkų susirinkimo sprendimams;
+8) teikia siūlymus valdybai ir bendrovės vadovui atšaukti jų sprendimus, kurie prieštarauja įstatymams ir kitiems teisės aktams, bendrovės įstatams ar visuotinio akcininkų susirinkimo sprendimams;
 
 
 
 
-8) sprendžia kitus bendrovės įstatuose, taip pat visuotinio akcininkų susirinkimo sprendimuose stebėtojų tarybos kompetencijai priskirtus bendrovės ir jos valdymo organų veiklos priežiūros klausimus. 
+9) pateikia visuotiniam akcininkų susirinkimui ir valdybai atsiliepimus ir pasiūlymus dėl akcinių bendrovių, kurių akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos projekto ir atlygio ataskaitos projekto;
+
+
+
+
+10) sprendžia kitus bendrovės įstatuose, taip pat visuotinio akcininkų susirinkimo sprendimuose stebėtojų tarybos kompetencijai priskirtus bendrovės ir jos valdymo organų veiklos priežiūros klausimus. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
@@ -2758,12 +2833,31 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-2. Valdyba renka ir atšaukia bendrovės vadovą, nustato jo atlyginimą, kitas darbo sutarties sąlygas, tvirtina pareiginius nuostatus, skatina jį ir skiria nuobaudas.
+2. Valdyba renka ir atšaukia bendrovės vadovą, nustato jo atlygį, kitas darbo sutarties sąlygas, tvirtina pareiginius nuostatus, skatina jį ir skiria nuobaudas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
+
+
+
+
+21. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, valdyba, nustatydama bendrovės vadovo atlygį, vadovaujasi atlygio politika, kaip nustatyta šio Įstatymo 373 straipsnyje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
 
 
 
 
 3. Valdyba nustato informaciją, kuri laikoma bendrovės komercine (gamybine) paslaptimi ir konfidencialia informacija. Komercine (gamybine) paslaptimi ir konfidencialia informacija negali būti laikoma informacija, kuri pagal šį ir kitus įstatymus turi būti vieša.
+
+
+
+
+31. Valdybai patvirtinus bendrovės metinį pranešimą, visuotinis akcininkų susirinkimas turi teisę priimti sprendimą pritarti atlygio ataskaitai. Visuotinio akcininkų susirinkimo pritarimas nepanaikina valdybos atsakomybės už priimtą sprendimą. Jeigu visuotinis akcininkų susirinkimas priima sprendimą nepritarti atlygio ataskaitai, valdyba, tvirtindama kitų metų atlygio ataskaitą, joje nurodo, kaip buvo atsižvelgta į visuotinio akcininkų susirinkimo nepritarimo argumentus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
 
 
 
@@ -2871,9 +2965,16 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 91. Valdyba analizuoja, vertina Akcijų suteikimo taisyklių projektą, kurį kartu su atsiliepimais ir pasiūlymais dėl jo teikia stebėtojų tarybai ir visuotiniam akcininkų susirinkimui.
-Straipsnis papildomas 91 dalimi nuo 2018-01-01.
 Papildyta straipsnio dalimi:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+ 
+
+
+
+
+92. Valdyba analizuoja ir vertina akcinių bendrovių, kurių akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos projektą ir jį kartu su atsiliepimais ir pasiūlymais dėl jo teikia stebėtojų tarybai ir visuotiniam akcininkų susirinkimui. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
@@ -3043,7 +3144,10 @@ Nr. X-750, 2006-07-11, Žin., 2006, Nr. 82-3252 (2006-07-27)
 
 
 
-3. Bendrovės vadovą renka ir atšaukia bei atleidžia iš pareigų, nustato jo atlyginimą, tvirtina pareiginius nuostatus, skatina jį ir skiria nuobaudas bendrovės valdyba (jei valdyba nesudaroma, – stebėtojų taryba, o jei nesudaroma ir stebėtojų taryba, – visuotinis akcininkų susirinkimas). Bendrovės vadovas pradeda eiti pareigas nuo jo išrinkimo dienos, jeigu su juo sudarytoje sutartyje nenustatyta kitaip.
+3. Bendrovės vadovą renka ir atšaukia bei atleidžia iš pareigų, nustato jo atlygį, tvirtina pareiginius nuostatus, skatina jį ir skiria nuobaudas bendrovės valdyba (jeigu valdyba nesudaroma, – stebėtojų taryba, o jeigu nesudaroma ir stebėtojų taryba, – visuotinis akcininkų susirinkimas). Bendrovės vadovas pradeda eiti pareigas nuo jo išrinkimo dienos, jeigu su juo sudarytoje sutartyje nenustatyta kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
 
 
 
@@ -3115,92 +3219,131 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-3) sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto parengimą, tarpinių finansinių ataskaitų rinkinio sudarymą ir tarpinio pranešimo parengimą, sprendimui dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo priimti. Tarpiniam pranešimui mutatis mutandis taikomos Įmonių finansinės atskaitomybės įstatymo nuostatos, reglamentuojančios metinio pranešimo rengimą ir skelbimą;
+3) atlygio politikos projekto parengimą; 
+Papildyta straipsnio punktu:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
 
 
 
 
-4) Akcijų suteikimo taisyklių projekto parengimą; 
+4) atlygio ataskaitos projekto parengimą; 
+Papildyta straipsnio punktu:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
+
+
+
+
+5) atlygio politikos ir atlygio ataskaitos viešą paskelbimą akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje; 
+Papildyta straipsnio punktu:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
+
+
+
+
+6) sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto parengimą, tarpinių finansinių ataskaitų rinkinio sudarymą ir tarpinio pranešimo parengimą, sprendimui dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo priimti. Tarpiniam pranešimui mutatis mutandis taikomos Įmonių finansinės atskaitomybės įstatymo nuostatos, reglamentuojančios metinio pranešimo rengimą ir skelbimą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
+
+
+
+
+7) Akcijų suteikimo taisyklių projekto parengimą; 
 Papildyta straipsnio punktu:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-5) sutarties su auditoriumi ar audito įmone sudarymą, kai auditas privalomas pagal įstatymus ar bendrovės įstatus;
+8) sutarties su auditoriumi ar audito įmone sudarymą, kai auditas privalomas pagal įstatymus ar bendrovės įstatus;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-6) informacijos ir dokumentų pateikimą visuotiniam akcininkų susirinkimui, stebėtojų tarybai ir valdybai šio Įstatymo nustatytais atvejais ar jų prašymu;
+9) informacijos ir dokumentų pateikimą visuotiniam akcininkų susirinkimui, stebėtojų tarybai ir valdybai šio Įstatymo nustatytais atvejais ar jų prašymu;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-7) bendrovės dokumentų ir duomenų pateikimą juridinių asmenų registro tvarkytojui;
+10) bendrovės dokumentų ir duomenų pateikimą juridinių asmenų registro tvarkytojui;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-8) akcinės bendrovės dokumentų pateikimą Lietuvos bankui ir Centriniam vertybinių popierių depozitoriumui; 
+11) akcinės bendrovės dokumentų pateikimą Lietuvos bankui ir Centriniam vertybinių popierių depozitoriumui; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-9) šiame Įstatyme nustatytos informacijos viešą paskelbimą įstatuose nurodytame šaltinyje;
+12) šiame Įstatyme nustatytos informacijos viešą paskelbimą įstatuose nurodytame šaltinyje;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-10) pranešimą akcininkams, stebėtojų tarybai ir valdybai apie svarbiausius įvykius, turinčius reikšmės bendrovės veiklai; 
+13) pranešimą akcininkams, stebėtojų tarybai ir valdybai apie svarbiausius įvykius, turinčius reikšmės bendrovės veiklai; 
 Papildyta straipsnio punktu:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-11) informacijos pateikimą akcininkams;
+14) informacijos pateikimą akcininkams;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-12) neteko galios nuo 2017-07-13;
+15) neteko galios nuo 2017-07-13;
 Straipsnio punkto pakeitimai:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
 
 
-13) kitų šiame ir kituose įstatymuose bei teisės aktuose, taip pat bendrovės įstatuose ir bendrovės vadovo pareiginiuose nuostatuose nustatytų pareigų vykdymą.
+16) kitų šiame ir kituose įstatymuose bei teisės aktuose, taip pat bendrovės įstatuose ir bendrovės vadovo pareiginiuose nuostatuose nustatytų pareigų vykdymą.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
@@ -3361,7 +3504,10 @@ Nr. XIII-356, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08566
 
 
 
-10. Šio straipsnio nuostatos, išskyrus šio straipsnio 9 dalyje nustatytą reikalavimą, netaikomos akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, sandoriams su susijusia šalimi, sudaromiems verčiantis įprasta ūkine veikla.
+10. Šio straipsnio nuostatos, išskyrus šio straipsnio 9 dalyje nustatytą reikalavimą, netaikomos akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, sandoriams su susijusia šalimi, sudaromiems verčiantis įprasta ūkine veikla. Papildomai bendrovės metiniame pranešime nurodoma tokių sandorių, sudarytų per finansinius metus su ta pačia susijusia šalimi, verčių suma. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
 
 
 
@@ -3371,6 +3517,109 @@ Nr. XIII-356, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08566
 
 Papildyta straipsniu:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+ 
+
+
+
+
+373 straipsnis. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politika
+
+
+1. Akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, turi patvirtinti atlygio politiką. Atlygio politika turi būti taikoma bent bendrovės vadovui, valdybos ir stebėtojų tarybos nariams. 
+
+
+
+
+2. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, vadovui, valdybos ir stebėtojų tarybos nariams atlygis mokamas vadovaujantis visuotinio akcininkų susirinkimo patvirtinta atlygio politika. 
+
+
+
+
+3. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, vadovas nedelsdamas po visuotinio akcininkų susirinkimo, kuriame patvirtinta atlygio politika, bendrovės interneto svetainėje paskelbia atlygio politiką, visuotinio akcininkų susirinkimo datą ir balsavimo rezultatus, kurie viešai skelbiami ir nemokamai prieinami visą atlygio politikos taikymo laikotarpį. 
+
+
+
+
+4. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikoje turi būti nurodyta: 
+
+
+1) kaip atlygio politika atitinka bendrovės veiklos strategiją, ilgalaikius tikslus ir interesus;
+
+
+
+
+2) visos atlygio sudedamosios dalys, įskaitant fiksuotas ir kintamąsias atlygio dalis, premijas, priemokas, taip pat šių atlygio sudedamųjų dalių santykinė dalis, atsižvelgiant į visą atlygį. Jeigu akcinė bendrovė moka kintamąją atlygio dalį, atlygio politikoje turi būti nurodyti aiškūs, išsamūs ir varijuojantys kintamosios atlygio dalies kriterijai;
+
+
+
+
+3) informacija apie bet kokio atlygio mokėjimo atidėjimo laikotarpius ir galimybes susigrąžinti kintamąjį atlygį;
+
+
+
+
+4) nuo finansinių ir nefinansinių veiklos rezultatų priklausantys atlygio nustatymo kriterijai ir kaip jais prisidedama prie bendrovės veiklos strategijos, ilgalaikių tikslų ir interesų, taip pat metodai, kurie turi būti taikomi siekiant nustatyti, kokiu mastu rezultatų kriterijai tenkinami;
+
+
+
+
+5) sutarčių su bendrovės vadovu, valdybos ir stebėtojų tarybos nariais terminai ir taikomi įspėjimo terminai, esminės susitarimų dėl papildomų pensijų ar išankstinio išėjimo į pensiją sąlygos, sutarties nutraukimo sąlygos ir su sutarties nutraukimu susiję mokėjimai;
+
+
+
+
+6) kaip, nustatant atlygio politiką, atsižvelgta į bendrovės darbuotojų atlygio ir įdarbinimo sąlygas;
+
+
+
+
+7) kai taikoma, nurodyta su socialine atsakomybe susiję kriterijai ir paaiškinta, kaip jais prisidedama prie bendrovės veiklos strategijos, ilgalaikių tikslų ir interesų; 
+
+
+
+
+8) jeigu skiriamas atlygis suteikiant akcijas, turi būti nurodyta, kaip šio Įstatymo 471 straipsnio 4 dalyje nustatyta tvarka visuotinio akcininkų susirinkimo patvirtintos Akcijų suteikimo taisyklės prisideda prie bendrovės veiklos strategijos, ilgalaikių tikslų ir interesų;
+
+
+
+
+9) atlygio politikos rengimo, vykdymo, peržiūrėjimo ir įgyvendinimo procesas, sprendimų, susijusių su atlygio politika, priėmimo procesas, įskaitant interesų konflikto vengimo ir valdymo priemones;
+
+
+
+
+10) jeigu yra sudaryti, atlygio komiteto ar kito atitinkamo komiteto vaidmuo;
+
+
+
+
+11) jeigu atlygio politika keičiama, apibūdinami ir paaiškinami esminiai atlygio politikos pakeitimai ir, jeigu keičiama atlygio politika jau buvo svarstyta visuotiniame akcininkų susirinkime, bet jai nepritarta, – visuotinio akcininkų susirinkimo sprendime nurodyti argumentai;
+
+
+
+
+12) kita akcininkų nuomonei dėl atlygio politikos pareikšti svarbi informacija.
+
+
+
+
+
+
+5. Atlygio politika teikiama tvirtinti visuotiniam akcininkų susirinkimui ne rečiau kaip kas ketverius metus, taip pat jeigu esama esminių atlygio politikos pakeitimų. Keičiant atlygio politiką, visuotiniam akcininkų susirinkimui pateikiamos visos atlygio ataskaitos, patvirtintos po paskutinio visuotinio akcininkų susirinkimo balsavimo dėl atlygio politikos. 
+
+
+
+
+6. Kai siūloma keisti visuotinio akcininkų susirinkimo patvirtintą atlygio politiką, tačiau visuotinis akcininkų susirinkimas nepatvirtina naujos atlygio politikos, akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, vadovui, valdybos ir stebėtojų tarybos nariams atlygis mokamas vadovaujantis galiojančia atlygio politika, o siūloma nauja atlygio politika teikiama tvirtinti kitame visuotiniame akcininkų susirinkime.
+
+
+
+
+7. Šiame straipsnyje nustatyti papildomi reikalavimai, palyginti su kitų įstatymų ir Europos Sąjungos teisės aktus įgyvendinančių teisės aktų, reglamentuojančių finansinių paslaugų teikimą ar finansų įstaigų veiklą arba finansų įstaigų ir finansų įstaigų sistemos stabilumą, reikalavimais, finansų įstaigoms taikomi kartu su šių teisės aktų reikalavimais. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
  
 
 
@@ -6897,7 +7146,10 @@ BAIGIAMOSIOS NUOSTATOS ir įstatymo įsigaliojimas
 78 straipsnis. Baigiamosios nuostatos
 
 
-1. Šio Įstatymo 22 straipsnio 3 ir 4 dalių, 261, 262, 302 ir 303 straipsnių nuostatos netaikomos Kolektyvinio investavimo subjektų įstatyme nurodytiems kolektyvinio investavimo subjektams, išskyrus uždaro tipo kolektyvinio investavimo subjektus.
+1. Šio Įstatymo 16 straipsnio 1 dalies 6 punkto, 20 straipsnio 1 dalies 6 punkto, 22 straipsnio 3 ir 4 dalių, 261, 262 straipsnių, 28 straipsnio 1 dalies 13 punkto, 302, 303 straipsnių, 32 straipsnio 1 dalies 9 punkto, 34 straipsnio 1 dalies 4 punkto, 21, 31 ir 92 dalių, 37 straipsnio 12 dalies 3, 4 ir 5 punktų, 373 straipsnio nuostatos netaikomos Kolektyvinio investavimo subjektų įstatyme nurodytiems kolektyvinio investavimo subjektams, išskyrus uždaro tipo kolektyvinio investavimo subjektus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
 
 
 
@@ -7116,6 +7368,14 @@ Nr. XII-2062, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19173
 
 10. 2012 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva 2012/17/ES, kuria iš dalies keičiamos Tarybos direktyvos 89/666/EEB ir Europos Parlamento ir Tarybos direktyvų 2005/56/EB ir 2009/101/EB nuostatos dėl centrinių, komercinių ir bendrovių registrų sąveikos (OL 2012 L 156, p. 1).
 TAR pastaba. Papildymas 10 punktu įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių centrinių, komercinių ir bendrovių registrų sąveikos sistema.
+
+
+
+
+11. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu (OL 2017 L 132, p. 1). 
+Papildyta punktu:
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+ 
 
 
 Priedo pakeitimai:
@@ -7349,3 +7609,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 41-1 straipsnio
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1883, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00239
 Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 1 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 1, 16, 20, 21, 28, 32, 34, 37, 37-2, 78 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 37-3 straipsniu įstatymas
