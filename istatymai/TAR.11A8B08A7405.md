@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2017-09-01 iki 2019-07-05
+Suvestinė redakcija nuo 2019-07-06 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
@@ -52,17 +52,17 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Suėmimą vykdančios įstaigos
 
 
-1. Suėmimas vykdomas tardymo izoliatoriuose (kardomojo kalinimo vietose) (toliau – tardymo izoliatoriai). Tardymo izoliatorius steigia, reorganizuoja, pertvarko ir likviduoja Lietuvos Respublikos Vyriausybė Teisingumo ministerijos teikimu. Tardymo izoliatorių vidaus tvarkos taisykles tvirtina teisingumo ministras.
+1. Suėmimas vykdomas tardymo izoliatoriuose (kardomojo kalinimo vietose) (toliau – tardymo izoliatoriai). Tardymo izoliatorius steigia, reorganizuoja, pertvarko ir likviduoja Lietuvos Respublikos Vyriausybė Lietuvos Respublikos teisingumo ministerijos teikimu. Tardymo izoliatorių vidaus tvarkos taisykles tvirtina Lietuvos Respublikos teisingumo ministras. Tardymo izoliatoriai taip pat gali vykdyti Lietuvos Respublikos bausmių vykdymo kodekso 62 straipsnio 1 dalyje nurodytų rūšių pataisos įstaigų funkcijas.
 
 
 
 
-2. Asmenys, kuriems paskirtas suėmimas, iki jų pasiuntimo į tardymo izoliatorių gali būti laikomi teritorinės policijos įstaigos areštinėje ne ilgiau kaip penkiolika parų, kol bus atliekami procesiniai veiksmai, kurių negalima atlikti šiems asmenims esant tardymo izoliatoriuje. Suimtieji ikiteisminio tyrimo metu prokuroro motyvuotu nutarimu, o bylos nagrinėjimo teisme metu teisėjo ar teismo motyvuota nutartimi iš tardymo izoliatoriaus gali būti perkelti (uždaryti) į teritorinės policijos įstaigos areštinę ne ilgiau kaip penkioms paroms, kad būtų galima atlikti procesinius veiksmus, jeigu procesinių veiksmų atlikimo negalima užtikrinti suimtiesiems esant tardymo izoliatoriuje arba dėl suimtųjų dalyvavimo bylų nagrinėjime teisme. Toks laikymas teritorinės policijos įstaigos areštinėje turi būti nedelsiant nutrauktas, kai tai tampa nebereikalinga. Šiems asmenims taikomos šio įstatymo, išskyrus 23, 25, 26, 28, 40, 41, 42, 43 straipsnius, nuostatos. Teritorinių policijos įstaigų areštinių vidaus tvarkos taisykles tvirtina vidaus reikalų ministras.
-Straipsnio dalies pakeitimai:
-Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
+2. Asmenys, kuriems paskirtas suėmimas, iki jų pasiuntimo į tardymo izoliatorių gali būti laikomi teritorinės policijos įstaigos areštinėje ne ilgiau kaip penkiolika parų, kol bus atliekami procesiniai veiksmai, kurių negalima atlikti šiems asmenims esant tardymo izoliatoriuje. Suimtieji ikiteisminio tyrimo metu prokuroro motyvuotu nutarimu, o bylos nagrinėjimo teisme metu teisėjo ar teismo motyvuota nutartimi iš tardymo izoliatoriaus gali būti perkelti (uždaryti) į teritorinės policijos įstaigos areštinę ne ilgiau kaip penkioms paroms, kad būtų galima atlikti procesinius veiksmus, jeigu procesinių veiksmų atlikimo negalima užtikrinti suimtiesiems esant tardymo izoliatoriuje arba dėl suimtųjų dalyvavimo bylų nagrinėjime teisme. Toks laikymas teritorinės policijos įstaigos areštinėje turi būti nedelsiant nutrauktas, kai tai tampa nebereikalinga. Šiems asmenims taikomos šio įstatymo, išskyrus 23, 25, 26, 28, 40, 41, 42 straipsnius, nuostatos. Teritorinių policijos įstaigų areštinių vidaus tvarkos taisykles tvirtina Lietuvos Respublikos vidaus reikalų ministras. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
  
-
-
 
 
 
@@ -130,7 +130,7 @@ ASMENŲ SUĖMIMAS, PRISTATYMAS IR PRIĖMIMAS Į TARDYMO IZOLIATORIUS
 6 straipsnis. Asmenų suėmimo tvarka
 
 
-1. Asmenis, kuriems paskirtas suėmimas, išskyrus nuteistuosius, atliekančius arešto bausmę areštinėse, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmes pataisos įstaigose, suima ikiteisminio tyrimo ar kiti teisėsaugos institucijų pareigūnai.
+1. Asmenis, kuriems paskirtas suėmimas, išskyrus nuteistuosius, atliekančius arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmes pataisos įstaigose, suima ikiteisminio tyrimo ar kiti teisėsaugos institucijų pareigūnai.
 
 
 
@@ -140,10 +140,12 @@ ASMENŲ SUĖMIMAS, PRISTATYMAS IR PRIĖMIMAS Į TARDYMO IZOLIATORIUS
 
 
 
-3. Arešto bausmę vykdančios areštinės ar pataisos įstaigos administracija, gavusi ikiteisminio tyrimo teisėjo ar teismo nutartį skirti nuteistajam suėmimą, nedelsdama jį pasiunčia į tardymo izoliatorių.
+3. Pataisos įstaigos administracija, gavusi ikiteisminio tyrimo teisėjo ar teismo nutartį skirti nuteistajam suėmimą, nedelsdama jį pasiunčia į tardymo izoliatorių. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
  
-
-
 
 
 
@@ -167,7 +169,9 @@ Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
 
 
 
-3) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kuriems teismo nuosprendis įsiteisėjo, taip pat nuteistieji, kurie perduoti į Lietuvos Respubliką toliau atlikti terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, – iki šių nuteistųjų pasiuntimo į areštines ar pataisos įstaigas;
+3) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kuriems teismo nuosprendis įsiteisėjo, taip pat nuteistieji, kurie perduoti į Lietuvos Respubliką toliau atlikti terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, – iki šių nuteistųjų pasiuntimo į pataisos įstaigas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
  
@@ -183,9 +187,10 @@ Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
 
 
 
-5) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kurie teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartimi iki penkių parų perkelti į tardymo izoliatorius iš areštinių ar pataisos įstaigų dėl bylų nagrinėjimo teisme; 
+5) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kurie teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartimi iki penkių parų perkelti į tardymo izoliatorius iš pataisos įstaigų dėl bylų nagrinėjimo teisme; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
  
@@ -201,7 +206,9 @@ Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
 
 
 
-7) nuteistieji, kuriems panaikintas lygtinis paleidimas iš pataisos įstaigų arba lygtinis atleidimas nuo laisvės atėmimo bausmės prieš terminą, siunčiami į pataisos įstaigas atlikti likusią laisvės atėmimo bausmės dalį, – iki šių nuteistųjų pasiuntimo į pataisos įstaigas;
+7) nuteistieji, kuriems panaikintas lygtinis paleidimas iš pataisos įstaigų, siunčiami į pataisos įstaigas atlikti likusią laisvės atėmimo bausmės dalį, – iki šių nuteistųjų pasiuntimo į pataisos įstaigas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
  
@@ -225,11 +232,19 @@ Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
 
 
 
-10) Bausmių vykdymo kodekso 69 straipsnio 3 dalyje nustatyta tvarka į tardymo izoliatorių specialius padalinius (pusiaukelės namus) perkelti nuteistieji.
+10) Bausmių vykdymo kodekso 69 straipsnio 3 dalyje nustatyta tvarka į tardymo izoliatorių specialius padalinius (pusiaukelės namus) perkelti nuteistieji;
 Papildyta straipsnio punktu:
 Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
+ 
+
+
+
+
+11) nuteistieji, tardymo izoliatoriuje atliekantys arešto, terminuoto laisvės atėmimo arba laisvės atėmimo iki gyvos galvos bausmę, kai tardymo izoliatorius atlieka pataisos įstaigos funkcijas. 
+Papildyta straipsnio punktu:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
  
 
 
@@ -261,7 +276,10 @@ Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
 
 
 
-3) teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartis perkelti iki penkių parų nuteistąjį arešto ar laisvės atėmimo bausme iš areštinės ar pataisos įstaigos į tardymo izoliatorių dėl bylos nagrinėjimo teisme;
+3) teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartis perkelti iki penkių parų nuteistąjį arešto ar laisvės atėmimo bausme iš pataisos įstaigos į tardymo izoliatorių dėl bylos nagrinėjimo teisme; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
+ 
 
 
 
@@ -531,33 +549,22 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 2. Suimtiesiems prilyginami:
 
 
-1) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kuriems nuosprendžiai įsiteisėjo, – iki jų pasiuntimo į areštines ar pataisos įstaigas; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
+1) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kuriems nuosprendžiai įsiteisėjo, – iki jų pasiuntimo į pataisos įstaigas;
+
+
+
+
+2) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kurie, vadovaudamiesi Baudžiamojo proceso kodekso 315 straipsnio nuostatomis, pareiškė norą atlikti bausmę, – iki jų pasiuntimo į pataisos įstaigas;
+
+
+
+
+3) nuteistieji, kuriems panaikintas bausmės vykdymo atidėjimas arba lygtinis paleidimas iš pataisos įstaigų, – iki jų pasiuntimo į pataisos įstaigas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
  
-
-
-
-
-2) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, kurie, vadovaudamiesi Baudžiamojo proceso kodekso 315 straipsnio nuostatomis, pareiškė norą atlikti bausmę, – iki jų pasiuntimo į areštines ar pataisos įstaigas; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
- 
-
-
-
-
-3) Neteko galios nuo 2016-04-01
-Straipsnio punkto naikinimas:
-Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
- 
-
-
-
-
-4) nuteistieji, kuriems panaikintas bausmės vykdymo atidėjimas arba lygtinis paleidimas iš pataisos įstaigų, arba lygtinis atleidimas nuo laisvės atėmimo bausmės prieš terminą, – iki jų pasiuntimo į pataisos įstaigas.
-
-
 
 
 
@@ -565,15 +572,12 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 3. Nuteistaisiais, atliekančiais arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmes, laikomi:
 
 
-1) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, perkelti iki penkių parų į tardymo izoliatorius iš areštinių ar pataisos įstaigų teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartimi dėl bylų nagrinėjimo teisme; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
- 
+1) nuteistieji arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmėmis, perkelti iki penkių parų į tardymo izoliatorius iš pataisos įstaigų teisėjo ar teismo, nagrinėjančio bylą teisiamajame posėdyje, nutartimi dėl bylų nagrinėjimo teisme;
 
 
 
 
-2) nuteistieji, kurie perduoti į Lietuvos Respubliką toliau atlikti terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, – iki šių nuteistųjų pasiuntimo į areštines ar pataisos įstaigas;
+2) nuteistieji, kurie perduoti į Lietuvos Respubliką toliau atlikti terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, – iki šių nuteistųjų pasiuntimo į pataisos įstaigas;
 
 
 
@@ -588,12 +592,17 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-5) Bausmių vykdymo kodekso 69 straipsnio 3 dalyje nustatyta tvarka į tardymo izoliatorių specialius padalinius (pusiaukelės namus) perkelti nuteistieji.
-Papildyta straipsnio punktu:
-Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
+5) Bausmių vykdymo kodekso 69 straipsnio 3 dalyje nustatyta tvarka į tardymo izoliatorių specialius padalinius (pusiaukelės namus) perkelti nuteistieji;
+
+
+
+
+6) nuteistieji, tardymo izoliatoriuje atliekantys terminuoto laisvės atėmimo arba laisvės atėmimo iki gyvos galvos bausmę, kai tardymo izoliatorius atlieka pataisos įstaigos funkcijas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
  
-
-
 
 
 
@@ -726,7 +735,9 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-2. Šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems susitikti su žurnalistais, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo.
+2. Šio įstatymo 12 straipsnio 2 dalyje nurodytiems asmenims, norintiems susitikti su žurnalistais, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
  
 
 
@@ -769,7 +780,10 @@ Civilinio kodekso nustatyta tvarka suimtieji turi teisę disponuoti savo turtu, 
 
 
 
-2. Apie suimtojo, išskyrus šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytus asmenis, prašymą suteikti jam galimybę sudaryti santuoką tardymo izoliatoriaus administracija privalo nedelsdama raštu pranešti šio suimtojo ikiteisminiam tyrimui vadovaujančiam ar jį atliekančiam prokurorui arba teismui, kurio žinioje yra byla.
+2. Apie suimtojo, išskyrus šio įstatymo 12 straipsnio 2 dalyje nurodytus asmenis, prašymą suteikti jam galimybę sudaryti santuoką tardymo izoliatoriaus administracija privalo nedelsdama raštu pranešti šio suimtojo ikiteisminiam tyrimui vadovaujančiam ar jį atliekančiam prokurorui arba teismui, kurio žinioje yra byla. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
+ 
 
 
 
@@ -826,7 +840,10 @@ Civilinio kodekso nustatyta tvarka suimtieji turi teisę disponuoti savo turtu, 
 
 
 
-3. Šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodyti asmenys turi teisę į vieną pasimatymą.
+3. Šio įstatymo 12 straipsnio 2 dalyje nurodyti asmenys turi teisę į vieną pasimatymą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
+ 
 
 
 
@@ -1009,7 +1026,10 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-4. Šio straipsnio 3 dalyje nurodytais atvejais paimti elektros prietaisai ir kiti daiktai saugomi tardymo izoliatoriuje. Jie grąžinami juos perdavusiems asmenims pagal jų arba suimtojo rašytinį prašymą arba suimtajam, kai jis perkeliamas į areštinę ar pataisos įstaigą arba paleidžiamas iš tardymo izoliatoriaus.
+4. Šio straipsnio 3 dalyje nurodytais atvejais paimti elektros prietaisai ir kiti daiktai saugomi tardymo izoliatoriuje. Jie grąžinami juos perdavusiems asmenims pagal jų arba suimtojo rašytinį prašymą arba suimtajam, kai jis perkeliamas į pataisos įstaigą arba paleidžiamas iš tardymo izoliatoriaus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
+ 
 
 
 Straipsnio pakeitimai:
@@ -1069,7 +1089,10 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-2. Leidimą išvykti, gavęs suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinį sutikimą, duoda tardymo izoliatoriaus direktorius, atsižvelgdamas į suimtojo asmenybę ir jo elgesį buvimo tardymo izoliatoriuje laiku. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam išvykti už tardymo izoliatoriaus ribų, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems išvykti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. Laikas, kurį suimtasis buvo išvykęs už tardymo izoliatoriaus ribų, įskaitomas į suėmimo laiką. Kelionės išlaidas apmoka pats suimtasis arba jo sutuoktinis, sugyventinis ar artimieji giminaičiai.
+2. Leidimą išvykti, gavęs suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinį sutikimą, duoda tardymo izoliatoriaus direktorius, atsižvelgdamas į suimtojo asmenybę ir jo elgesį buvimo tardymo izoliatoriuje laiku. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam išvykti už tardymo izoliatoriaus ribų, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo 12 straipsnio 2 dalyje nurodytiems asmenims, norintiems išvykti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. Laikas, kurį suimtasis buvo išvykęs už tardymo izoliatoriaus ribų, įskaitomas į suėmimo laiką. Kelionės išlaidas apmoka pats suimtasis arba jo sutuoktinis, sugyventinis ar artimieji giminaičiai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
+ 
 
 
 
@@ -1121,7 +1144,10 @@ Nr. XIII-359, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08718
 
 
 
-4) tausoti tardymo izoliatoriaus, o jeigu suimtasis mokosi, – ir švietimo ar profesinio mokymo įstaigos turtą;
+4) Neteko galios nuo 2019-07-06
+Straipsnio punkto naikinimas:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
+ 
 
 
 
@@ -1146,12 +1172,18 @@ Nr. XIII-359, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08718
 
 
 
-3) įsigyti, gaminti, platinti, laikyti ar vartoti alkoholinius gėrimus ar jų surogatus, toksines, narkotines, psichotropines ar kitas psichiką veikiančias medžiagas, be gydytojo leidimo vartoti medikamentus;
+3) vartoti alkoholinius gėrimus ar jų surogatus, taip pat be gydytojo leidimo vartoti medikamentus, naudoti toksines priemones; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
+ 
 
 
 
 
-4) bet kokiu būdu įgyti ar perleisti tiek savo, tiek valstybės turtą kitiems suimtiesiems, nuteistiesiems ar tardymo izoliatoriaus administracijai, taip pat teikti mokamas ar kitaip atlyginamas paslaugas tiek kitiems suimtiesiems ar nuteistiesiems, tiek tardymo izoliatoriaus administracijai;
+4) perleisti savo turtą kitiems suimtiesiems, nuteistiesiems ar tardymo izoliatoriaus administracijai, taip pat teikti mokamas ar kitaip atlyginamas paslaugas tiek kitiems suimtiesiems ar nuteistiesiems, tiek tardymo izoliatoriaus administracijai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
+ 
 
 
 
@@ -1333,7 +1365,9 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-9. Suimtiesiems, kurie siunčiami į areštines ar pataisos įstaigas atlikti arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmes, paskirtos nuobaudos nebevykdomos.
+9. Suimtiesiems, kurie siunčiami į pataisos įstaigas atlikti arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmes, paskirtos nuobaudos nebevykdomos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
  
 
 
@@ -1427,7 +1461,10 @@ SUIMTŲJŲ UŽIMTUMAS IR JŲ SOCIALINIŲ POREIKIŲ TENKINIMAS
 40 straipsnis. Suimtųjų įtraukimas į darbą
 
 
-1. Tardymo izoliatoriuose, jei yra galimybė dirbti, suimtieji gali dirbti tik jų rašytiniu prašymu ir šių suimtųjų ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam dirbti, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo 12 straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems dirbti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo.
+1. Tardymo izoliatoriuose, jei yra galimybė dirbti, suimtieji gali dirbti tik jų rašytiniu prašymu ir šių suimtųjų ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam dirbti, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo 12 straipsnio 2 dalyje nurodytiems asmenims, norintiems dirbti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
+ 
 
 
 
@@ -1531,33 +1568,10 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-43 straipsnis. Tardymo izoliatorių psichologinės tarnybos
-
-
-1. Tardymo izoliatoriuose veikia psichologinės tarnybos. Šių tarnybų veiklos pagrindinės kryptys yra šios:
-
-
-1) suimtojo asmenybės tyrimas ir individualaus psichologinių konsultacijų poreikio nustatymas;
-
-
-
-
-2) suimtųjų psichologinis konsultavimas;
-
-
-
-
-3) suimtųjų ir nuteistųjų psichologinių charakteristikų rengimas ir pateikimas tardymo izoliatoriaus administracijai.
-
-
-
-
-
-
-2. Tardymo izoliatorių psichologinių tarnybų struktūrą, darbo tvarką nustato teisingumo ministras.
+43 straipsnis. Neteko galios nuo 2019-07-06
+Straipsnio naikinimas:
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
  
-
-
 
 
 
@@ -1759,6 +1773,8 @@ PAREIGŪNŲ VEIKSMŲ IR SPRENDIMŲ APSKUNDIMAS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+ 
+ 
 
 
  
@@ -1871,3 +1887,8 @@ Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 7 ir 8 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-495, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10916
 Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 11 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 6, 7, 8, 12, 17, 20, 22, 27, 30, 32, 36, 40 straipsnių pakeitimo ir 43 straipsnio pripažinimo netekusiu galios įstatymas
