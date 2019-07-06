@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2019-04-03 iki 2019-07-05
+Suvestinė redakcija nuo 2019-07-06 iki 2019-07-26
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -1634,9 +1634,10 @@ BAUSMĖ
 
 
 
-6. Padariusiam nusikalstamą veiką asmeniui kartu su bausme, remiantis šio kodekso 67, 68, 681, 682, 72, 721, 722 ir 723 straipsniais, gali būti skiriamos viena arba daugiau šių baudžiamojo poveikio priemonių – uždraudimas naudotis specialia teise, viešųjų teisių atėmimas, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, turto konfiskavimas, įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas.
+6. Padariusiam nusikalstamą veiką asmeniui kartu su bausme, remiantis šio kodekso 67, 68, 681, 682, 71, 72, 721, 722 ir 723 straipsniais, gali būti skiriamos viena arba daugiau šių baudžiamojo poveikio priemonių – uždraudimas naudotis specialia teise, viešųjų teisių atėmimas, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, įmoka į nukentėjusių nuo nusikaltimų asmenų fondą, turto konfiskavimas, įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas. Kartu su baudos bausme įmoka į nukentėjusių nuo nusikaltimų asmenų fondą neskiriama. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1676, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07563
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
  
 
 
@@ -1691,6 +1692,13 @@ Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
 
 
 4. Juridiniams asmenims skiriamos bausmės šio kodekso specialiosios dalies straipsnių sankcijose nenurodomos. Teismas, skirdamas bausmę juridiniam asmeniui, vadovaujasi šio straipsnio 1 dalyje nustatytu bausmių sąrašu.
+
+
+
+
+5. Juridiniam asmeniui kartu su bausme, remiantis šio kodekso 67, 71, 72 ir 723 straipsniais, gali būti skiriamos viena arba daugiau šių baudžiamojo poveikio priemonių – įmoka į nukentėjusių nuo nusikaltimų asmenų fondą, turto konfiskavimas, išplėstinis turto konfiskavimas. Įmoka į nukentėjusių nuo nusikaltimų asmenų fondą gali būti skiriama tik su juridinio asmens veiklos apribojimo bausme. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
  
 
 
@@ -1718,7 +1726,10 @@ Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 46 straipsnis. Viešieji darbai
 
 
-1. Viešuosius darbus teismas skiria šio kodekso specialiojoje dalyje numatytais atvejais. Viešieji darbai vykdomi tik tuo atveju, jeigu nuteistasis sutinka. 
+1. Viešuosius darbus teismas skiria šio kodekso specialiojoje dalyje numatytais atvejais. Viešieji darbai skiriami tik tuo atveju, jeigu kaltinamasis sutinka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
+ 
 
 
 
@@ -1738,7 +1749,10 @@ Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 
 
 
-5. Jeigu dėl objektyvių priežasčių asmuo negali atlikti pagal šį straipsnį jam paskirtų viešųjų darbų, teismas gali atleisti jį nuo šios bausmės vietoj jos paskirdamas šio kodekso IX skyriuje numatytą baudžiamojo poveikio priemonę.
+5. Jeigu dėl objektyvių priežasčių asmuo negali atlikti pagal šį straipsnį jam paskirtų viešųjų darbų, teismas gali atleisti jį nuo šios bausmės vietoj jos paskirdamas šio kodekso IX skyriuje numatytą vieną ar kelias baudžiamojo poveikio priemones arba XI skyriuje numatytą vieną ar kelias auklėjamojo poveikio priemones, kai nuo viešųjų darbų bausmės atleidžiamas nepilnametis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
+ 
 
 
 
@@ -1748,12 +1762,18 @@ Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 
 
 
-7. Jeigu asmuo vengia atlikti viešuosius darbus, bausmę vykdanti institucija įspėja nuteistąjį dėl galimų teisinių pasekmių. Jeigu asmuo ir po įspėjimo vengia atlikti viešųjų darbų bausmę, teismas bausmę vykdančios institucijos teikimu gali pakeisti viešuosius darbus bauda arba areštu. Viešieji darbai keičiami bauda arba areštu pagal šio kodekso 47, 49 ir 65 straipsniuose nustatytas taisykles. 
+7. Jeigu asmuo vengia atlikti viešuosius darbus, bausmę vykdanti institucija įspėja nuteistąjį dėl galimų teisinių pasekmių. Jeigu asmuo ir po įspėjimo vengia atlikti viešuosius darbus, teismas bausmę vykdančios institucijos teikimu gali pakeisti viešuosius darbus bauda arba laisvės apribojimu. Viešieji darbai keičiami bauda arba laisvės apribojimu pagal šio kodekso 47, 48 ir 65 straipsniuose nustatytas taisykles. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
+ 
 
 
 
 
-8. Jeigu asmuo po nuosprendžio įsiteisėjimo nesutinka atlikti viešuosius darbus, teismas bausmę vykdančios institucijos teikimu pakeičia viešuosius darbus bauda arba areštu pagal šio kodekso 47, 49 ir 65 straipsniuose nustatytas taisykles.
+8. Neteko galios 2019-07-06.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
+ 
 
 
 Straipsnio pakeitimai:
@@ -1827,11 +1847,10 @@ Nr. XI-742, 2010-04-13, Žin., 2010, Nr. 48-2292 (2010-04-27)
 
 
 
-8. Jeigu asmuo vengia savu noru sumokėti baudą ir nėra galimybių ją išieškoti, teismas gali pakeisti baudą areštu. Keisdamas baudą areštu, teismas vadovaujasi šio kodekso 65 straipsnyje nustatytomis taisyklėmis. 
-Straipsnio pakeitimai:
-Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
-Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
-Nr. XI-1350, 2011-04-21, Žin., 2011, Nr. 49-2374 (2011-04-28)
+8. Jeigu asmuo vengia savo noru sumokėti baudą ir nėra galimybių ją išieškoti, teismas gali pakeisti baudą laisvės apribojimu. Keisdamas baudą laisvės apribojimu, teismas vadovaujasi šio kodekso 48 ir 65 straipsniuose nustatytomis taisyklėmis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
+ 
 
 
 Straipsnio pakeitimai:
@@ -1967,7 +1986,10 @@ Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)
 
 
 
-2. Areštas yra trumpalaikis laisvės atėmimas, atliekamas areštinėje. Arešto terminas skaičiuojamas paromis. 
+2. Areštas yra trumpalaikis laisvės atėmimas. Arešto terminas skaičiuojamas paromis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
+ 
 
 
 
@@ -1982,7 +2004,10 @@ Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)
 
 
 
-5. Jeigu paskirta iki keturiasdešimt penkių parų arešto, teismas gali nustatyti atlikti jį poilsio dienomis. Jeigu asmuo pažeidžia šią arešto atlikimo tvarką, ją teismas savo sprendimu gali pakeisti įprastine arešto atlikimo tvarka.
+5. Neteko galios 2019-07-06.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
+ 
 
 
 
@@ -2148,14 +2173,15 @@ Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
 
 
 
-55 straipsnis. Bausmės skyrimas asmeniui, pirmą kartą teisiamam už neatsargų arba nesunkų ar apysunkį tyčinį nusikaltimą
+55 straipsnis. Bausmės skyrimas asmeniui, pirmą kartą teisiamam už neatsargų arba nesunkų ar apysunkį tyčinį nusikaltimą 
 
 
-Asmeniui, pirmą kartą teisiamam už neatsargų arba nesunkų ar apysunkį tyčinį nusikaltimą, teismas paprastai skiria su laisvės atėmimu nesusijusias bausmes. Skirdamas laisvės atėmimo bausmę, teismas privalo motyvuoti savo sprendimą.
+Asmeniui, pirmą kartą teisiamam už neatsargų arba nesunkų ar apysunkį tyčinį nusikaltimą, teismas paprastai skiria su areštu arba terminuotu laisvės atėmimu nesusijusias bausmes. Skirdamas arešto arba terminuoto laisvės atėmimo bausmę, teismas privalo motyvuoti savo sprendimą. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
  
 
 
@@ -2753,7 +2779,7 @@ BAUDŽIAMOJO POVEIKIO PRIEMONĖS IR JŲ SKYRIMAS
 
 
 
-2. Pilnamečiam asmeniui, atleistam nuo baudžiamosios atsakomybės šio kodekso VI skyriuje numatytais pagrindais arba atleistam nuo bausmės šio kodekso X skyriuje numatytais pagrindais, arba lygtinai paleistam iš pataisos įstaigos Lietuvos Respublikos bausmių vykdymo kodekso XI skyriuje numatytais pagrindais, gali būti skiriamos šios baudžiamojo poveikio priemonės: 
+2. Pilnamečiam asmeniui, atleistam nuo baudžiamosios atsakomybės šio kodekso VI skyriuje numatytais pagrindais arba atleistam nuo bausmės šio kodekso X skyriuje numatytais pagrindais, arba lygtinai paleistam iš pataisos įstaigos Bausmių vykdymo kodekso XI skyriuje numatytais pagrindais, gali būti skiriamos šios baudžiamojo poveikio priemonės:
 
 
 1) uždraudimas naudotis specialia teise;
@@ -2791,10 +2817,7 @@ BAUDŽIAMOJO POVEIKIO PRIEMONĖS IR JŲ SKYRIMAS
 
 
 
-8) įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1676, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07563
- 
+8) įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu;
 
 
 
@@ -2811,27 +2834,22 @@ Nr. XII-1676, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07563
 
 
 
-3. Uždraudimas naudotis specialia teise, viešųjų teisių atėmimas, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, turto konfiskavimas, įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas gali būti skiriami kartu su bausme.
-Straipsnio dalies pakeitimai:
-Nr. XII-1676, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07563
- 
+3. Uždraudimas naudotis specialia teise, viešųjų teisių atėmimas, teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, įmoka į nukentėjusių nuo nusikaltimų asmenų fondą, turto konfiskavimas, įpareigojimas gyventi skyrium nuo nukentėjusio asmens ir (ar) nesiartinti prie nukentėjusio asmens arčiau nei nustatytu atstumu, dalyvavimas smurtinį elgesį keičiančiose programose, išplėstinis turto konfiskavimas gali būti skiriami kartu su bausme. Kartu su baudos bausme įmoka į nukentėjusių nuo nusikaltimų asmenų fondą neskiriama.
 
 
 
 
-4. Nepilnamečiui, atleistam nuo baudžiamosios atsakomybės šio kodekso VI ar XI skyriuje numatytais pagrindais arba atleistam nuo bausmės šio kodekso X skyriuje numatytais pagrindais, gali būti skiriamas turto konfiskavimas, išplėstinis turto konfiskavimas.
+4. Nepilnamečiui, atleistam nuo baudžiamosios atsakomybės šio kodekso VI ar XI skyriuje numatytais pagrindais arba atleistam nuo bausmės šio kodekso X skyriuje arba 92 straipsnyje numatytais pagrindais, gali būti skiriama įmoka į nukentėjusių nuo nusikaltimų asmenų fondą, turto konfiskavimas, išplėstinis turto konfiskavimas. Kartu su baudos bausme įmoka į nukentėjusių nuo nusikaltimų asmenų fondą neskiriama.
 
 
 
 
-5. Juridiniam asmeniui gali būti skiriamas turto konfiskavimas, išplėstinis turto konfiskavimas.
+5. Juridiniam asmeniui gali būti skiriama įmoka į nukentėjusių nuo nusikaltimų asmenų fondą, turto konfiskavimas, išplėstinis turto konfiskavimas. Kartu su baudos bausme įmoka į nukentėjusių nuo nusikaltimų asmenų fondą neskiriama.
 
 
 
 
-6. Kai skiriamos dvi ar daugiau baudžiamojo poveikio priemonių, atsižvelgiama į jų suderinamumą ir galimybes taisomai veikti nuteistąjį.
-
-
+6. Kai baudžiamojo poveikio priemonės skiriamos kartu su bausme arba skiriamos dvi ar daugiau baudžiamojo poveikio priemonių, atsižvelgiama į jų suderinamumą ir galimybes taisomai veikti nuteistąjį. 
 Straipsnio pakeitimai:
 Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
@@ -2839,6 +2857,10 @@ Nr. X-1597, 2008-06-12, Žin., 2008, Nr. 73-2796 (2008-06-27)
 Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)
 Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
  
 
 
@@ -2959,16 +2981,18 @@ Pastaba. Baudžiamojo kodekso 682 straipsnyje numatyta baudžiamojo poveikio pri
 70 straipsnis. Nemokami darbai
 
 
-1. Teismas skiria nuo 20 iki 100 valandų nemokamų darbų sveikatos priežiūros, globos ir rūpybos ar kitose valstybinėse ar nevalstybinėse įstaigose bei organizacijose. Skirdamas nemokamus darbus, teismas nustato terminą, per kurį jie turi būti atlikti. Šis terminas negali būti ilgesnis kaip vieneri metai.
+1. Teismas skiria nuo 20 iki 100 valandų nemokamų darbų sveikatos priežiūros, socialinių paslaugų ar kitose valstybinėse ar nevalstybinėse įstaigose bei organizacijose. Skirdamas nemokamus darbus, teismas nustato terminą, per kurį jie turi būti atlikti. Šis terminas negali būti ilgesnis kaip vieneri metai.
 
 
 
 
-2. Nemokami darbai vykdomi tik tuo atveju, jeigu asmuo sutinka.
+2. Nemokami darbai skiriami tik tuo atveju, jeigu asmuo sutinka. 
+Straipsnio pakeitimai:
+Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 
 
 Straipsnio pakeitimai:
-Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
  
 
 
@@ -2977,11 +3001,22 @@ Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 71 straipsnis. Įmoka į nukentėjusių nuo nusikaltimų asmenų fondą
 
 
-Teismas gali paskirti nuo 5 iki 125 MGL dydžio įmoką į nukentėjusių nuo nusikaltimų asmenų fondą. Įmoka turi būti sumokėta per teismo nustatytą terminą. Šis terminas negali būti ilgesnis negu treji metai.
+1. Teismas asmeniui gali paskirti nuo 5 iki 125 MGL, o nepilnamečiui – nuo 3 iki 25 MGL dydžio įmoką į nukentėjusių nuo nusikaltimų asmenų fondą. Nepilnamečiui įmoka į nukentėjusių nuo nusikaltimų asmenų fondą skiriama tik tuo atveju, kai nepilnametis dirba ar turi savo turto.
+
+
+
+
+2. Juridiniam asmeniui teismas gali paskirti nuo 100 iki 2 000 MGL dydžio įmoką į nukentėjusių nuo nusikaltimų asmenų fondą.
+
+
+
+
+3. Teismas, skirdamas įmoką į nukentėjusių nuo nusikaltimų asmenų fondą, kartu nustato šios įmokos sumokėjimo terminą. Šis terminas negali būti ilgesnis negu treji metai. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
  
 
 
@@ -3176,17 +3211,19 @@ Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)
 74 straipsnis. Baudžiamojo poveikio priemonių nevykdymo teisinės pasekmės
 
 
-1. Bet kokia teismo paskirta šio kodekso 67 straipsnio 2 dalies 4, 5 ir 6 punktuose numatyta baudžiamojo poveikio priemonė, kurios asmuo negali įvykdyti dėl pateisinamų priežasčių, jo prašymu gali būti pakeista kita baudžiamojo poveikio priemone. Jeigu asmuo po teismo sprendimo įsiteisėjimo nesutinka atlikti nemokamus darbus, teismas baudžiamąją poveikio priemonę vykdančios institucijos teikimu pakeičia nemokamus darbus kita baudžiamojo poveikio priemone.
+1. Teismo paskirta šio kodekso 67 straipsnio 2 dalies 4 ar 5 punkte numatyta baudžiamojo poveikio priemonė, kurios asmuo negali įvykdyti dėl pateisinamų priežasčių, jo prašymu gali būti pakeista kita baudžiamojo poveikio priemone. 
 
 
 
 
-2. Asmeniui, kuris vengia įvykdyti jam paskirtą baudžiamojo poveikio priemonę (išskyrus turto konfiskavimą), teismas bausmę vykdančios institucijos teikimu gali paskirti bausmę pagal šio kodekso 243 straipsnį. Šiuo atveju nubaudimas neatleidžia nuteistojo nuo pareigos įvykdyti paskirtą baudžiamojo poveikio priemonę.
-
-
+2. Asmuo, kuris vengia įvykdyti jam paskirtą baudžiamojo poveikio priemonę (išskyrus turto konfiskavimą), atsako pagal šio kodekso 243 straipsnį. 
 Straipsnio pakeitimai:
 Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
  
 
 
@@ -3499,20 +3536,22 @@ Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)
 85 straipsnis. Nemokami auklėjamojo pobūdžio darbai
 
 
-1. Nemokami auklėjamojo pobūdžio darbai skiriami nuo 20 iki 100 valandų sveikatos priežiūros, globos ir rūpybos ar kitose valstybinėse ar nevalstybinėse įstaigose bei organizacijose, kuriose darbas gali turėti auklėjamąjį pobūdį.
+1. Nemokami auklėjamojo pobūdžio darbai skiriami nuo 20 iki 100 valandų sveikatos priežiūros, socialinių paslaugų ar kitose valstybinėse ar nevalstybinėse įstaigose bei organizacijose, kuriose darbas gali turėti auklėjamąjį pobūdį.
 
 
 
 
-2. Nemokami auklėjamojo pobūdžio darbai vykdomi, jeigu nepilnametis sutinka.
+2. Nemokami auklėjamojo pobūdžio darbai skiriami tik tuo atveju, jeigu nepilnametis sutinka.
 
 
 
 
-3. Nemokamų darbų nepilnamečiui negalima skirti, jeigu jis atiduodamas į specialią auklėjimo įstaigą.
+3. Nemokamų darbų nepilnamečiui negalima skirti, jeigu jis atiduodamas į specialią auklėjimo įstaigą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
  
-
-
 
 
 
@@ -8491,18 +8530,20 @@ baudžiamas bauda arba laisvės atėmimu iki dvejų metų.
 
 
 
-243 straipsnis. Vengimas atlikti su laisvės atėmimu nesusijusias bausmes arba baudžiamojo poveikio priemones
+243 straipsnis. Vengimas atlikti baudžiamojo poveikio priemones
 
 
-Tas, kas vengė atlikti teismo paskirtą su laisvės atėmimu nesusijusią bausmę arba baudžiamojo poveikio priemonę (išskyrus turto konfiskavimą), padarė baudžiamąjį nusižengimą ir
+Tas, kas vengė atlikti teismo paskirtą baudžiamojo poveikio priemonę (išskyrus turto konfiskavimą), padarė baudžiamąjį nusižengimą ir
 
 
 
 
-baudžiamas bauda arba areštu.
+baudžiamas bauda arba areštu. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
  
-
-
 
 
 
@@ -11922,3 +11963,8 @@ Lietuvos Respublikos baudžiamojo kodekso 68, 281 straipsnių pakeitimo ir Kodek
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2005, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05331
 Lietuvos Respublikos baudžiamojo kodekso 51 ir 97 straipsnių pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
+Lietuvos Respublikos baudžiamojo kodekso 42, 43, 46, 47, 48, 49, 50, 51, 55, 67, 70, 71, 74, 75, 85, 92 ir 243 straipsnių pakeitimo įstatymas
