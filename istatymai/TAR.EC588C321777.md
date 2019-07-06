@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2019-04-03 iki 2019-07-05
+Suvestinė redakcija nuo 2019-07-06 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -10364,12 +10364,18 @@ Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
 
 
 
-6) paskiria areštą, atliekamą poilsio dienomis;
+6) Neteko galios nuo 2019-07-06
+Straipsnio punkto naikinimas:
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+ 
 
 
 
 
-7) atideda nuosprendžio ar bausmės vykdymą.
+7) atideda nuosprendžio ar visos bausmės vykdymą. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+ 
 
 
 
@@ -11502,7 +11508,10 @@ Nr. XIII-900, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21500
 4. Šio straipsnio 1 ir 2 dalyse numatytais atvejais nuosprendis pateikiamas vykdyti:
 
 
-1) dėl viešųjų darbų bausmės – probacijos tarnyboms;
+1) dėl viešųjų darbų bausmės – probacijos tarnybai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+ 
 
 
 
@@ -11512,17 +11521,26 @@ Nr. XIII-900, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21500
 
 
 
-3) dėl laisvės apribojimo bausmės – probacijos tarnyboms;
+3) dėl laisvės apribojimo bausmės – probacijos tarnybai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+ 
 
 
 
 
-4) dėl poilsio dienomis atliekamo arešto bausmės – areštinėms pagal Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos nustatytą tvarką;
+4) dėl arešto bausmės – laisvės atėmimo vietai, kurioje laikomas nuteistasis arba kurioje jis turės atlikti bausmę, jeigu nuteistajam iki nuosprendžio įsiteisėjimo nebuvo paskirta kardomoji priemonė – suėmimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+ 
 
 
 
 
-5) dėl arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmių – laisvės atėmimo vietai, kurioje laikomas nuteistasis, arba policijos įstaigai, kurios teritorijoje yra nuteistojo gyvenamoji vieta, jeigu nuteistajam iki nuosprendžio įsiteisėjimo nebuvo paskirta kardomoji priemonė – suėmimas;
+5) dėl terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmių – laisvės atėmimo vietai, kurioje laikomas nuteistasis, arba policijos įstaigai, kurios teritorijoje yra nuteistojo gyvenamoji vieta, jeigu nuteistajam iki nuosprendžio įsiteisėjimo nebuvo paskirta kardomoji priemonė – suėmimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+ 
 
 
 
@@ -11547,7 +11565,10 @@ Nr. XIII-900, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21500
 
 
 
-10) dėl kitų baudžiamojo poveikio priemonių – probacijos tarnyboms;
+10) dėl kitų baudžiamojo poveikio priemonių – probacijos tarnybai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+ 
 
 
 
@@ -11557,7 +11578,10 @@ Nr. XIII-900, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21500
 
 
 
-12) dėl kitų auklėjamojo poveikio priemonių (išskyrus įspėjimą) taikymo nepilnamečiams – probacijos tarnyboms;
+12) dėl kitų auklėjamojo poveikio priemonių (išskyrus įspėjimą) taikymo nepilnamečiams – probacijos tarnybai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+ 
 
 
 
@@ -11802,20 +11826,12 @@ Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 354 straipsnis. Nuosprendžio, kuriuo paskirtas areštas, vykdymas
 
 
-1. Nuosprendį paskelbęs teismas tuoj pat išaiškina nuteistajam paskirtos arešto bausmės atlikimo tvarką, sąlygas bei jo teises ir pareigas.
+Nuosprendį paskelbęs teismas tuoj pat išaiškina nuteistajam paskirtos arešto bausmės atlikimo tvarką, sąlygas bei jo teises ir pareigas. 
 
 
-
-
-2. Teismas arešto atlikimo tvarką gali keisti Lietuvos Respublikos baudžiamojo kodekso 49 straipsnyje numatytais atvejais.
-
-
-
-
-3. Arešto atlikimo tvarka pakeičiama šio Kodekso 362 straipsnyje nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
  
-
-
 
 
 
@@ -11855,7 +11871,10 @@ Nuosprendį paskelbęs teismas tuoj pat išaiškina nuteistajam paskirtos laisv�
 
 
 
-3. Jeigu uždraudimas naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, arba viešųjų teisių atėmimas paskirtas kartu su laisvės atėmimo arba arešto bausme, šios baudžiamojo poveikio priemonės pradedamos vykdyti, kai nuteistasis atliko bausmę arba lygtinai paleidžiamas iš pataisos įstaigos. Pataisos įstaigos arba areštinės administracija ne vėliau kaip per tris darbo dienas išsiunčia pranešimą apie nuteistojo paleidimą iš pataisos įstaigos arba areštinės uždraudimą naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą, arba viešųjų teisių atėmimą vykdančiai institucijai pagal nuteistojo gyvenamąją vietą.
+3. Jeigu uždraudimas naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, arba viešųjų teisių atėmimas paskirtas kartu su laisvės atėmimo arba arešto bausme, šios baudžiamojo poveikio priemonės pradedamos vykdyti, kai nuteistasis atliko bausmę arba lygtinai paleidžiamas iš pataisos įstaigos. Pataisos įstaigos administracija ne vėliau kaip per tris darbo dienas išsiunčia pranešimą apie nuteistojo paleidimą iš pataisos įstaigos uždraudimą naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą, arba viešųjų teisių atėmimą vykdančiai institucijai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+ 
 
 
 
@@ -16062,3 +16081,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 120, 121 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2006, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05332
 Lietuvos Respublikos baudžiamojo proceso kodekso papildymo 360-1 straipsniu įstatymas
+ 
+42.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+Lietuvos Respublikos baudžiamojo proceso kodekso 309, 339, 342, 353, 354, 357, 358, 360, 361, 362 ir 364 straipsnių pakeitimo įstatymas
