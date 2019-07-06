@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-07-05
+Suvestinė redakcija nuo 2019-07-06 iki 2019-07-29
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -3616,6 +3616,38 @@ užtraukia baudą nuo dviejų tūkstančių septynių šimtų iki šešių tūks
  
 
 
+
+
+
+
+1191 straipsnis. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos projekto ir (ar) atlygio ataskaitos projekto neparengimas ir (ar) nepaskelbimas
+
+
+1. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos ir (ar) atlygio ataskaitos nepaskelbimas viešai akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje 
+užtraukia baudą akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, vadovui nuo dviejų šimtų iki vieno tūkstančio eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio penkių šimtų eurų.
+
+
+
+
+3. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos projekto ir (ar) atlygio ataskaitos projekto neparengimas 
+užtraukia baudą akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, vadovui nuo keturių šimtų aštuoniasdešimt iki trijų tūkstančių eurų.
+
+
+
+
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo dviejų tūkstančių septynių šimtų iki šešių tūkstančių eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2251, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11170
+ 
 
 
 
@@ -18921,9 +18953,10 @@ Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 
 
 
-4. Administracinių nusižengimų teisena dėl šio kodekso 119, 120, 204 straipsniuose nurodytų administracinių nusižengimų pradedama atitinkamai pagal akcininko, žemės ūkio bendrovės, kooperatinės bendrovės (kooperatyvo) nario ar kreditoriaus pareiškimą, kuriame turi būti išvardyti asmenys, traukiami administracinėn atsakomybėn už akcininkų, žemės ūkio bendrovių, kooperatinių bendrovių (kooperatyvų) narių ar kreditorių teisių pažeidimus. Administracinio nusižengimo byla dėl šio kodekso 547 straipsnyje numatytų pažeidimų pradedama pagal visuomenės informavimo priemonės atstovo ar žurnalisto pareiškimą. Šioje dalyje numatytais atvejais administracinio nusižengimo tyrimas neatliekamas, protokolas nesurašomas, o pareiškimas siunčiamas teismui bylai nagrinėti. Kai teismas yra sudarytas iš teismo rūmų, pareiškimas gali būti siunčiamas bet kuriems to teismo rūmams.
+4. Administracinių nusižengimų teisena dėl šio kodekso 119, 120, 204 straipsniuose nurodytų administracinių nusižengimų pradedama atitinkamai pagal akcininko, žemės ūkio bendrovės, kooperatinės bendrovės (kooperatyvo) nario ar kreditoriaus pareiškimą, kuriame turi būti išvardyti asmenys, traukiami administracinėn atsakomybėn už akcininkų, žemės ūkio bendrovių, kooperatinių bendrovių (kooperatyvų) narių ar kreditorių teisių pažeidimus. Administracinio nusižengimo teisena dėl šio kodekso 1191 straipsnyje numatytų administracinių nusižengimų pradedama pagal akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, akcininko, valdybos, stebėtojų tarybos ar atskirų valdybos ar stebėtojų tarybos narių pareiškimą. Administracinio nusižengimo byla dėl šio kodekso 547 straipsnyje numatytų administracinių nusižengimų pradedama pagal visuomenės informavimo priemonės atstovo ar žurnalisto pareiškimą. Šioje dalyje numatytais atvejais administracinio nusižengimo tyrimas neatliekamas, protokolas nesurašomas, o pareiškimas siunčiamas teismui bylai nagrinėti. Kai teismas yra sudarytas iš teismo rūmų, pareiškimas gali būti siunčiamas bet kuriems to teismo rūmams. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2482, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17980
+Nr. XIII-2251, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11170
  
 
 
@@ -19864,7 +19897,10 @@ ADMINISTRACINIŲ NUSIŽENGIMŲ BYLŲ PRISKIRTINUMAS
 
 
 
-3) šio kodekso 119, 120, 204, 547 straipsniuose numatytų administracinių nusižengimų bylas, kai neatliekamas administracinio nusižengimo tyrimas ir nesurašomas administracinio nusižengimo protokolas;
+3) šio kodekso 119, 1191, 120, 204, 547 straipsniuose numatytų administracinių nusižengimų bylas, kai neatliekamas administracinio nusižengimo tyrimas ir nesurašomas administracinio nusižengimo protokolas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2251, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11170
+ 
 
 
 
@@ -22970,6 +23006,14 @@ Nr. XIII-1543, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16601
  
 
 
+
+
+102. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu (OL 2017 L 132, p. 1). 
+Papildyta punktu:
+Nr. XIII-2251, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11170
+ 
+
+
 Priedo pakeitimai:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
  
@@ -23372,7 +23416,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2127, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08307
 Lietuvos Respublikos administracinių nusižengimų kodekso 541, 542 ir 589 straipsnių pakeitimo įstatymo Nr. XIII-1868 3 straipsnio pakeitimo įstatymas
  
- 
-
-
-0
+80.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2251, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11170
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 119-1 straipsniu ir 590, 614 straipsnių ir priedo pakeitimo įstatymas
