@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2017-11-29 iki 2019-07-05
+Suvestinė redakcija nuo 2019-07-06 iki 2020-10-13
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
  
@@ -143,10 +143,12 @@ Nr. XIII-100, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29412
 Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
  
 
-10. Šio straipsnio 7 dalies nuostata netaikoma rengiant šio įstatymo 23 straipsnio 3 dalyje nurodytą bendrovių valdymo ataskaitą, šio įstatymo 23 straipsnio 4 dalyje nurodytą socialinės atsakomybės ataskaitą, šio įstatymo 29 straipsnyje nurodytą mokėjimų valdžios institucijoms ataskaitą ir Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo 15 straipsnyje nurodytą konsoliduotąją mokėjimų valdžios institucijoms ataskaitą. 
-TAR pastaba. 10 dalis taikoma rengiant 2017 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonės metinius pranešimus.
+10. Šio straipsnio 7 dalies nuostata netaikoma rengiant šio įstatymo 23 straipsnio 3 dalyje nurodytą bendrovių valdymo ataskaitą, šio įstatymo 23 straipsnio 4 dalyje nurodytą socialinės atsakomybės ataskaitą, šio įstatymo 233 straipsnyje nurodytą atlygio ataskaitą, šio įstatymo 29 straipsnyje nurodytą mokėjimų valdžios institucijoms ataskaitą ir Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymo 15 straipsnyje nurodytą konsoliduotąją mokėjimų valdžios institucijoms ataskaitą. 
+TAR pastaba. Pagal 10 dalyje išdėstytas nuostatas rengiamos 2020 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonių, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, atlygio ataskaitos, valdymo ataskaitos ir metiniai pranešimai.
 Papildyta straipsnio dalimi:
 Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
+Straipsnio dalies pakeitimai:
+Nr. XIII-2250, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11169
  
 
 TREČIASIS SKIRSNIS
@@ -409,16 +411,37 @@ Straipsnio punkto pakeitimai:
 Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
  
 
-3. Įmonės, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, be šio straipsnio 2 dalyje nustatytos informacijos, į metinį pranešimą įtraukia bendrovių valdymo ataskaitą.
+3. Įmonės, kurių akcijomis prekiaujama reguliuojamoje rinkoje, į metinį pranešimą įtraukia ir atlygio ataskaitą. 
+TAR pastaba. Pagal 3 dalyje išdėstytas nuostatas rengiamos 2020 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonių, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, atlygio ataskaitos, valdymo ataskaitos ir metiniai pranešimai.
+Papildyta straipsnio dalimi:
+Nr. XIII-2250, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11169
+ 
 
-4. Didelės viešojo intereso įmonės, kurių vidutinis metinis darbuotojų skaičius pagal sąrašą per ataskaitinius finansinius metus paskutinę tų metų dieną viršija 500, be šio straipsnio 2 ir 3 dalyse nustatytos informacijos, į metinį pranešimą įtraukia socialinės atsakomybės ataskaitą, išskyrus šio įstatymo 232 straipsnio 8 dalyje nustatytą atvejį.
+4. Įmonės, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, be šio straipsnio 2 dalyje nustatytos informacijos, į metinį pranešimą įtraukia bendrovių valdymo ataskaitą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2250, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11169
+ 
 
-5. Įmonių veiklą reglamentuojančiuose įstatymuose ir kituose teisės aktuose arba įmonės įstatuose gali būti nustatyta ir daugiau metinio pranešimo sudarymo reikalavimų.
+5. Didelės viešojo intereso įmonės, kurių vidutinis metinis darbuotojų skaičius pagal sąrašą per ataskaitinius finansinius metus paskutinę tų metų dieną viršija 500, be šio straipsnio 2 ir 3 dalyse nustatytos informacijos, į metinį pranešimą įtraukia socialinės atsakomybės ataskaitą, išskyrus šio įstatymo 232 straipsnio 8 dalyje nustatytą atvejį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2250, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11169
+ 
 
-6. Labai mažos ir mažos įmonės gali nerengti metinio pranešimo, tačiau šio straipsnio 2 dalies 3, 4, 5 ir 6 punktuose nurodytą informaciją labai mažos įmonės turi pateikti po balansu, o mažos įmonės – aiškinamajame rašte.
+6. Įmonių veiklą reglamentuojančiuose įstatymuose ir kituose teisės aktuose arba įmonės įstatuose gali būti nustatyta ir daugiau metinio pranešimo sudarymo reikalavimų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2250, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11169
+ 
 
-7. Mažos ir vidutinės įmonės gali nepateikti šio straipsnio 2 dalies 2 punkte nurodytos nefinansinės informacijos. 
+7. Labai mažos ir mažos įmonės gali nerengti metinio pranešimo, tačiau šio straipsnio 2 dalies 3, 4, 5 ir 6 punktuose nurodytą informaciją labai mažos įmonės turi pateikti po balansu, o mažos įmonės – aiškinamajame rašte.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2250, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11169
+ 
+
+8. Mažos ir vidutinės įmonės gali nepateikti šio straipsnio 2 dalies 2 punkte nurodytos nefinansinės informacijos. 
 TAR pastaba. 23 straipsnis taikomas rengiant 2017 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonės metinius pranešimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2250, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11169
+ 
 
 Straipsnio pakeitimai:
 Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
@@ -477,10 +500,11 @@ Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
  
 
-13) informacija apie kiekvieno valdymo, priežiūros organo nario atlyginimą (vidutinius per ataskaitinį laikotarpį išmokėtus atlyginimus, atskirai nurodant premijas, priemokas, tantjemas ir kitokias išmokas); 
-TAR pastaba. Pagal 13 punkto nuostatas rengiami 2018 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonių metiniai pranešimai.
+13) neteko galios 2019-07-06;
 Papildyta straipsnio punktu:
 Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
+Straipsnio punkto pakeitimai:
+Nr. XIII-2250, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11169
  
 
 14) informacija apie visus akcininkų tarpusavio susitarimus (jų esmė, sąlygos). 
@@ -534,7 +558,7 @@ Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
 
 5. Įmonė gali neatskleisti informacijos apie būsimą plėtrą arba su vykstančiomis derybomis susijusių klausimų, jeigu, remiantis tinkamai pagrįsta įmonės vadovo, valdymo ir priežiūros organų narių, veikiančių pagal jiems įstatymais atitinkamai priskirtą kompetenciją, nuomone, už kurią įmonės vadovas, valdymo ir priežiūros organų nariai yra atsakingi, tokios informacijos atskleidimas pakenktų komercinei įmonės padėčiai, o jos neatskleidimas netrukdytų teisingai suprasti įmonės plėtros, veiklos rezultatų, būklės ir jos veiklos poveikio. 
 
-6. Įmonė, pateikdama šio straipsnio 2 dalyje nurodytą informaciją, gali vadovautis šios informacijos atskleidimo reikalavimus nustatančiomis Europos Sąjungos ar tarptautinėmis sistemomis ar metodikomis. Socialinės atsakomybės ataskaitoje nurodoma, kokiomis  sistemomis ar metodikomis vadovautasi.
+6. Įmonė, pateikdama šio straipsnio 2 dalyje nurodytą informaciją, gali vadovautis šios informacijos atskleidimo reikalavimus nustatančiomis Europos Sąjungos ar tarptautinėmis sistemomis ar metodikomis. Socialinės atsakomybės ataskaitoje nurodoma, kokiomis  sistemomis ar metodikomis vadovautasi.
 
 7. Įmonė, kuri yra patronuojamoji įmonė, atleidžiama nuo prievolės parengti socialinės atsakomybės ataskaitą, jeigu jos ir jos patronuojamųjų įmonių informacija yra įtraukta į vadovaujantis Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymu arba kitos valstybės narės teisės aktais rengiamą patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą ataskaitą, kurioje pateikiama konsoliduotojoje socialinės atsakomybės ataskaitoje reikalaujama pateikti informacija (toliau – atskira konsoliduotoji socialinės atsakomybės ataskaita). Metiniame pranešime turi būti nurodyta, kad patronuojamosios įmonės informacija įtraukta į patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą konsoliduotąją socialinės atsakomybės ataskaitą. Jeigu patronuojančioji įmonė yra kitoje valstybėje narėje ir rengia atskirą konsoliduotąją socialinės atsakomybės ataskaitą, ši ataskaita lietuvių kalba skelbiama viešai patronuojamosios įmonės interneto svetainėje. 
 
@@ -547,6 +571,35 @@ TAR pastaba. 232 straipsnis taikomas rengiant 2017 m. sausio 1 d. ir vėliau pra
 
 Papildyta straipsniu:
 Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
+ 
+
+233 straipsnis. Atlygio ataskaita
+
+1. Atlygio ataskaitoje turi būti nurodyta, kaip buvo atsižvelgta į ankstesnio ataskaitinio laikotarpio visuotinio akcininkų susirinkimo balsavimo dėl atlygio ataskaitos rezultatus. Į atlygio ataskaitą neįtraukiami valdymo ir priežiūros organų narių asmens duomenys, kaip tai apibrėžta 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) 9 straipsnio 1 dalyje, arba asmens duomenys, kurie parodo valdymo ir priežiūros organų narių šeiminę padėtį. Atlygio ataskaitoje nurodoma ši informacija apie kiekvieną valdymo ir priežiūros organų nario atlygį:
+
+1) visas atlygis ir visos atlygio dalys, santykinės fiksuoto ir kintamojo atlygio dalys, paaiškinimas, kaip atlygis atitinka patvirtintą atlygio politiką, įskaitant tai, kaip jis prisideda prie įmonės ilgojo laikotarpio rezultatų, ir informacija apie tai, kaip buvo taikomi veiklos rezultatų kriterijai;
+
+2) metiniai atlygio pokyčiai; įmonės rezultatų ir vidutinio atlygio, remiantis įmonės darbuotojų, kurie nėra valdymo ir priežiūros organų nariai, darbo visą darbo laiką ekvivalentu, pokyčiai per bent penkerius paskutinius finansinius metus, pateikti taip, kad būtų galima juos palyginti;
+
+3) bet koks atlygis, gautas iš bet kurios įmonės, kuri priklauso įmonių grupei, kaip ji apibrėžta Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme;
+
+4) suteiktos akcijos, akcijų pasirinkimo sandorių suteiktos teisės, tų sandorių kainos ir datos ir bet kokie šių sandorių pakeitimai;
+
+5) informacija apie naudojimąsi galimybe susigrąžinti kintamąjį atlygį.
+
+2. Į atlygio ataskaitą įtraukti įmonės valdymo ir priežiūros organų narių asmens duomenys (vardas, pavardė ir šio straipsnio 1 dalyje nurodyti duomenys) tvarkomi šiame straipsnyje nustatyta tvarka, siekiant šių tikslų:
+
+1) didinti įmonės skaidrumą;
+
+2) gerinti valdymo ir priežiūros organų narių atskaitomybę;
+
+3) vykdyti valdymo ir priežiūros organų narių atlygio priežiūrą.
+
+3. Auditoriui ar audito įmonei patikrinus atlygio ataskaitą ir valdybai ją patvirtinus, įmonė paskelbia atlygio ataskaitą savo interneto svetainėje, kur ji nemokamai turi būti prieinama dešimt metų. Atlygio ataskaita su įtrauktais įmonės valdymo ir priežiūros organų narių asmens duomenimis skelbiama įmonės interneto svetainėje ne ilgiau kaip dešimt metų nuo atlygio ataskaitos paskelbimo dienos. Atlygio ataskaita be asmens duomenų įmonės interneto svetainėje gali būti skelbiama ilgiau kaip dešimt metų. 
+TAR pastaba. Pagal 233 straipsnyje išdėstytas nuostatas rengiamos 2020 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonių, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, atlygio ataskaitos, valdymo ataskaitos ir metiniai pranešimai.
+
+Papildyta straipsniu:
+Nr. XIII-2250, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11169
  
 
 SEPTINTASIS SKIRSNIS
@@ -662,6 +715,11 @@ Papildyta punktu:
 Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
  
 
+5. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu (OL 2017 L 132, p. 1). 
+Papildyta punktu:
+Nr. XIII-2250, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11169
+ 
+
  
  
 Pakeitimai:
@@ -740,4 +798,9 @@ Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 2 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-785, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18848
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 4, 23, 23-1 ir 24 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2250, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11169
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 4, 23, 23-1 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 23-3 straipsniu įstatymas
 
