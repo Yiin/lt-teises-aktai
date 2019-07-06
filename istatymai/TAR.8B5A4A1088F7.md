@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/8b5a4a1088f711e8af589337bf1eb893"
 
 # Lietuvos Respublikos bausmių vykdymo sistemos įstatymas
 
+Suvestinė redakcija nuo 2019-07-06 iki 2022-06-30
+ 
+Įstatymas paskelbtas: TAR 2018-07-16, i. k. 2018-12055
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PATAISOS PAREIGŪNŲ VEIKLOS
 ĮSTATYMAS
@@ -101,7 +108,7 @@ PATAISOS PAREIGŪNŲ VEIKLOS ORGANIZAVIMAS
 4 straipsnis. Pataisos pareigūnų tarnybos vieta
 
 
-Pataisos pareigūnai tarnauja Kalėjimų departamente ir jam pavaldžiose įstaigose, tai yra:
+1. Pataisos pareigūnai tarnauja Kalėjimų departamente ir jam pavaldžiose įstaigose, tai yra:
 
 
 1) pataisos įstaigoje;
@@ -120,67 +127,26 @@ Pataisos pareigūnai tarnauja Kalėjimų departamente ir jam pavaldžiose įstai
 
 
 4) pataisos pareigūnų statutinėje profesinio mokymo įstaigoje.
+
+
+
+
+
+
+2. Kalėjimų departamento struktūrą nustato Lietuvos Respublikos teisingumo ministras, o šiam departamentui pavaldžių įstaigų – Kalėjimų departamento direktorius. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2268, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11188
  
 
 
 
 
-
-
-
-
-5 straipsnis. Pataisos pareigūnų pareigybės
-
-
-Pataisos pareigūnų pareigybės:
-
-
-1) direktorius;
-
-
-
-
-2) direktoriaus pavaduotojas;
-
-
-
-
-3) valdybos viršininkas; 
-
-
-
-
-4) skyriaus (tarnybos) viršininkas;
-
-
-
-
-5) skyriaus (tarnybos) viršininko pavaduotojas;
-
-
-
-
-6) poskyrio (grupės) viršininkas;
-
-
-
-
-7) vyriausiasis specialistas;
-
-
-
-
-8) specialistas;
-
-
-
-
-9) jaunesnysis specialistas.
+5 straipsnis. Neteko galios nuo 2019-07-06
+Straipsnio naikinimas:
+Nr. XIII-2268, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11188
  
-
-
-
-
 
 
 
@@ -327,7 +293,7 @@ Pataisos pareigūnai privalo:
 
 
 
-5) įstatymų nustatyta tvarka neatlygintinai gauti iš valstybės ir savivaldybių institucijų ir įstaigų, kitų juridinių ir fizinių asmenų informaciją, būtiną pataisos pareigūnų veiklos uždaviniams įgyvendinti.
+5) neatlygintinai gauti iš valstybės, savivaldybių ir kitų institucijų, įstaigų, organizacijų valstybės informacinių išteklių, žinybinių registrų duomenis ir dokumentus bei kitą informaciją, būtiną pataisos pareigūnų veiklos uždaviniams įgyvendinti, arba susipažinti su šia informacija.
 
 
 
@@ -335,9 +301,16 @@ Pataisos pareigūnai privalo:
 
 
 2. Pataisos pareigūnai gali turėti ir kitų Lietuvos Respublikos įstatymuose, kituose teisės aktuose nustatytų teisių.
+
+
+
+
+3. Šio straipsnio 1 dalies 5 punkte nurodyti duomenys Kalėjimų departamentui ir jam pavaldžioms įstaigoms teikiami šių įstaigų prašymu arba pagal atskiras duomenų teikimo sutartis. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2268, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11188
  
-
-
 
 
 
@@ -588,4 +561,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2268, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11188
+Lietuvos Respublikos pataisos pareigūnų veiklos įstatymo Nr. XIII-1387 4, 10 straipsnių pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas
