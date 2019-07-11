@@ -21,6 +21,10 @@ STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 
 
+Suvestinė redakcija nuo 2019-07-11
+ 
+Įstatymas paskelbtas: Žin. 2013, Nr. 67-3335, i. k. 1131010ISTA0XII-372
+ 
 LIETUVOS RESPUBLIKOS  MEDŽIOKLĖS ĮSTATYMO 7, 8, 9, 11, 12, 13, 14, 18, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO  ĮSTATYMAS
  
 2013 m. birželio 18 d. Nr. XII-372 
@@ -242,6 +246,10 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 
 
 1. Privačios žemės sklypo savininkas, kuris turi medžiotojo bilietą ir kuriam konkrečiame medžioklės plotų vienete nuosavybės teise priklauso ne mažiau kaip 100 ha miško arba žemės ūkio paskirties žemės, turi teisę tapti medžioklės plotų naudotojo medžiotojų kolektyvo nariu, prisiimdamas visas medžiotojų kolektyvo įstatuose numatytas pareigas ir teises, o medžioklės plotų naudotojas privalo priimti į medžiotojų kolektyvą narius per 30 dienų nuo jų prašymų pateikimo dienos.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos medžioklės įstatymo 13 straipsnio (2013 m. birželio 18 d. redakcija; Žin., 2013, Nr. 67-3335) 1 dalis tiek, kiek joje nustatytas teisinis reguliavimas, pagal kurį medžioklės plotų naudotojas medžiotojų kolektyvas, veikiantis Lietuvos Respublikos asociacijų įstatymo nustatyta tvarka, privalėjo priimti į savo narius privačios žemės sklypo savininką, kuriam medžiotojų kolektyvo naudojamame medžioklės plotų vienete nuosavybės teise priklauso ne mažiau kaip 100 ha miško arba žemės ūkio paskirties žemės, prieštaravo Lietuvos Respublikos Konstitucijos 35 straipsnio 1 daliai.
+Straipsnio dalies pakeitimai:
+Nr. KT21-N10/2019, 2019-07-11, paskelbta TAR 2019-07-11, i. k. 2019-11475
+ 
 
 
 
@@ -412,3 +420,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT21-N10/2019, 2019-07-11, paskelbta TAR 2019-07-11, i. k. 2019-11475
+Dėl Lietuvos Respublikos medžioklės įstatymo 13 straipsnio (2013 m. birželio 18 d. redakcija) 1 dalies atitikties Lietuvos Respublikos Konstitucijai
