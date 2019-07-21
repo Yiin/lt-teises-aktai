@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/60391540ab3c11e6a6f98c1425a5ffa8"
 
 # Lietuvos Respublikos sutelktinio finansavimo įstatymas
 
-Suvestinė redakcija nuo 2018-06-15 iki 2019-07-20
+Suvestinė redakcija nuo 2019-07-21 iki 2022-11-09
  
 Įstatymas paskelbtas: TAR 2016-11-15, i. k. 2016-26828
  
@@ -92,9 +92,15 @@ SUTELKTINIO FINANSAVIMO SĄLYGOS
 
 4 straipsnis. Sutelktinio finansavimo lėšų pritraukimo sąlygos
 
-1. Projekto savininkas, kuris siekia per sutelktinio finansavimo platformą sudaryti vieną ar kelis finansavimo sandorius, kurių bendra suma yra nuo 100 tūkstančių eurų iki 5 milijonų eurų per 12 mėnesių laikotarpį, nepriklausomai nuo finansavimo sandorio rūšies, privalo parengti ir sutelktinio finansavimo platformos operatoriui pateikti tvirtinti informacinį dokumentą, kuriame nurodoma informacija apie projekto savininką ir siūlomą sudaryti sandorį, ir finansavimo sandorį ketinantiems sudaryti asmenims sudaryti galimybę su juo susipažinti. Priežiūros institucija detalizuoja informacinio dokumento turinį. 
+1. Projekto savininkas, kuris siekia per sutelktinio finansavimo platformą sudaryti vieną ar kelis finansavimo sandorius, kurių bendra suma siekia 1–8 milijonus eurų per 12 mėnesių laikotarpį, nepriklausomai nuo finansavimo sandorio rūšies, privalo parengti ir sutelktinio finansavimo platformos operatoriui pateikti tvirtinti informacinį dokumentą, kuriame nurodoma informacija apie projekto savininką ir siūlomą sudaryti sandorį, ir finansavimo sandorį ketinantiems sudaryti asmenims sudaryti galimybę su juo susipažinti. Parengti ir sutelktinio finansavimo platformos operatoriui pateikti tvirtinti informacinį dokumentą nereikalaujama, kai projekto savininko siūlomi vertybiniai popieriai, jų siūlymas atitinka bent vieną iš 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB (OL 2017 L 168, p. 12) (toliau – Reglamentas (ES) 2017/1129), nustatytų sąlygų, kai vertybinius popierius viešai siūlant nereikalaujama paskelbti prospekto. Priežiūros institucija detalizuoja informacinio dokumento turinį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2359, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11981
+ 
 
-2. Projekto savininkas, kuris siekia per sutelktinio finansavimo platformą sudaryti vieną ar kelis finansavimo sandorius, kurių bendra suma per 12 mėnesių laikotarpį yra 5 milijonai eurų arba didesnė, gali tai padaryti tik išleisdamas vertybinius popierius Vertybinių popierių įstatyme nustatyta tvarka.
+2. Projekto savininkas, kuris siekia per sutelktinio finansavimo platformą sudaryti vieną ar kelis finansavimo sandorius, kurių bendra suma per 12 mėnesių laikotarpį yra didesnė negu 8 milijonai eurų, gali tai padaryti tik išleisdamas vertybinius popierius Vertybinių popierių įstatyme ir Reglamente (ES) 2017/1129 nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2359, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11981
+ 
 
 3. Projekto savininkas, numatantis vykdyti kelis projektus, išleisdamas finansines priemones ir jas platindamas per sutelktinio finansavimo platformą arba viešai kitais būdais, šio straipsnio 1 ir 2 dalyse nurodytas sumas skaičiuoja įvertindamas visų savo viešai siūlomų tos pačios rūšies finansinių priemonių bendrą pardavimo sumą per 12 mėnesių laikotarpį. Finansavimo sandorių dėl lėšų suteikimo paskolos ar kita pinigine forma suma skaičiuojama atskirai nuo finansinių priemonių finansavimo sandorių, tačiau tokiu pačiu būdu.   
 
@@ -580,7 +586,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
 
  
  
@@ -595,4 +601,9 @@ Lietuvos Respublikos sutelktinio finansavimo įstatymo Nr. XII-2690 23 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1250, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09918
 Lietuvos Respublikos sutelktinio finansavimo įstatymo Nr. XII-2690 6, 7, 8, 9, 19, 20, 21, 22, 23, 24 straipsnių pakeitimo, Įstatymo papildymo 10-1 straipsniu ir 25, 26 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2359, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11981
+Lietuvos Respublikos sutelktinio finansavimo įstatymo Nr. XII-2690 4 straipsnio įstatymas
 
