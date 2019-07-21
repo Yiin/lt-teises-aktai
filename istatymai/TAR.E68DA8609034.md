@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e68da860903411e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymas
 
-Suvestinė redakcija nuo 2019-02-01 iki 2019-07-20
+Suvestinė redakcija nuo 2019-07-21 iki 2019-12-20
  
 Įstatymas paskelbtas: TAR 2014-12-30, i. k. 2014-21092
  
@@ -468,7 +468,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-44. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Finansinių priemonių rinkų įstatyme, Finansų įstaigų įstatyme, Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme, Akcinių bendrovių įstatyme, Ūkinių bendrijų įstatyme, Lietuvos Respublikos darbo kodekse, Kolektyvinio investavimo subjektų įstatyme, Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme ir Vertybinių popierių įstatyme.
+44. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Finansinių priemonių rinkų įstatyme, Finansų įstaigų įstatyme, Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme, Akcinių bendrovių įstatyme, Ūkinių bendrijų įstatyme, Lietuvos Respublikos darbo kodekse, Kolektyvinio investavimo subjektų įstatyme, Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme, Vertybinių popierių įstatyme ir 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB (OL 2017 L 168, p. 12) (toliau – Reglamentas (ES) 2017/1129). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2362, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11984
  
 
 
@@ -1606,7 +1608,9 @@ INVESTUOTOJAMS IR PRIEŽIŪROS INSTITUCIJAI TEIKIAMA INFORMACIJA
 
 
 
-3. Jeigu kolektyvinio investavimo subjektas, vadovaudamasis Vertybinių popierių įstatymo nuostatomis, privalo parengti prospektą, atskirai arba kaip prospektą papildanti informacija turi būti paskelbta ta šio straipsnio 1 ir 2 dalyse nurodyta informacija, kurios nėra privaloma nurodyti prospekte.
+3. Jeigu kolektyvinio investavimo subjektas, vadovaudamasis Vertybinių popierių įstatymo ir Reglamento (ES) 2017/1129 nuostatomis, privalo parengti prospektą, atskirai arba kaip prospektą papildanti informacija turi būti paskelbta ta šio straipsnio 1 ir 2 dalyse nurodyta informacija, kurios nėra privaloma nurodyti prospekte. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2362, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11984
  
 
 
@@ -1789,7 +1793,6 @@ VALDYMO ĮMONĖS IR KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ METŲ VEIKLOS ATASKAITOS 
 
 
 7. Metų veiklos ataskaita turi būti parengta laikantis Reglamento (ES) Nr. 231/2013 nustatytų turinio ir formos reikalavimų.
- 
  
 
 
@@ -2145,7 +2148,10 @@ DEPOZITORIUMAS
 
 
 
-11. Iki šio straipsnio 9 dalyje nurodyto priežiūros institucijos sprendimo priėmimo iš Sąrašo išbraukiamo asmens saugomas kiekvieno kolektyvinio investavimo subjekto turtas turi būti perduotas saugoti asmeniui, atitinkančiam šiame įstatyme nustatytus reikalavimus. Už šio reikalavimo įvykdymą atsakinga kolektyvinio investavimo subjekto valdymo įmonė. 
+11. Iki šio straipsnio 10 dalyje nurodyto priežiūros institucijos sprendimo priėmimo iš Sąrašo išbraukiamo asmens saugomas kiekvieno kolektyvinio investavimo subjekto turtas turi būti perduotas saugoti asmeniui, atitinkančiam šiame įstatyme nustatytus reikalavimus. Už šio reikalavimo įvykdymą atsakinga kolektyvinio investavimo subjekto valdymo įmonė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2362, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11984
+ 
 
 
 
@@ -3251,7 +3257,6 @@ LIETUVOS RESPUBLIKOJE, KITOJE VALSTYBĖJE NARĖJE LICENCIJĄ GAVUSIŲ VALDYMO Į
 
 7. Reikšmingos informacijos, nurodytos šio straipsnio 2 dalyje ir, jeigu aktualu, šio straipsnio 3 dalyje, pasikeitimui mutatis mutandis taikomos šio įstatymo 41 straipsnio 7, 8 ir 9 dalių nuostatos. 
  
- 
 
 
 
@@ -3557,7 +3562,6 @@ REFERENCINĖ VALSTYBĖ NARĖ
 
 
 2) nesutikti su Europos vertybinių popierių ir rinkų institucijos rekomendacija. Tokiu atveju ji turi apie nesutikimą ir to priežastis pranešti visų valstybių narių, kuriose trečiojoje valstybėje įsteigta valdymo įmonė ketina platinti savo valdomo kolektyvinio investavimo subjekto investicinius vienetus ar akcijas, priežiūros institucijoms.
- 
  
 
 
@@ -4228,7 +4232,9 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-3. Kolektyvinio investavimo subjekto, kurio akcijos siūlomos viešai ar viešai siūloma įnešti įnašus pažeidžiant Vertybinių popierių įstatyme nustatytus prospekto rengimo, tvirtinimo ir paskelbimo reikalavimus, valdymo įmonei poveikio priemones priežiūros institucija taiko vadovaudamasi Vertybinių popierių įstatymo nuostatomis.
+3. Kolektyvinio investavimo subjekto, kurio investiciniai vienetai ar akcijos siūlomi viešai ar viešai siūloma įnešti įnašus pažeidžiant Vertybinių popierių įstatyme ir Reglamente (ES) 2017/1129 nustatytus prospekto rengimo, tvirtinimo ir paskelbimo reikalavimus (išskyrus Vertybinių popierių įstatyme ir Reglamente (ES) 2017/1129 numatytas prospektų skelbimo išimtis), valdymo įmonei poveikio priemones priežiūros institucija taiko vadovaudamasi Vertybinių popierių įstatymu ir Lietuvos banko įstatymu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2362, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11984
  
 
 
@@ -4242,14 +4248,17 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 1. Priežiūros institucija skiria baudas:
 
 
-1) juridiniams asmenims – iki 10 procentų bendrųjų metinių pajamų;
+1) juridiniams asmenims, kai netaikoma šio straipsnio 6 dalis, – iki 10 procentų bendrųjų metinių pajamų;
 
 
 
 
-2) juridinio asmens vadovams ir kitiems fiziniams asmenims – iki 50 000 eurų. 
+2) juridinio asmens vadovams ir kitiems fiziniams asmenims, kai netaikoma šio straipsnio 6 dalis, – iki 50 000 eurų. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2362, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11984
+ 
 
 
 
@@ -4274,12 +4283,17 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-6. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka.
+6. Už Vertybinių popierių įstatymo ir Reglamento (ES) 2017/1129 pažeidimus asmenims taikomos Vertybinių popierių įstatyme nustatytos baudos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2362, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11984
+ 
 
 
 
 
-7. Už Vertybinių popierių įstatymo pažeidimus asmenims taikomos Vertybinių popierių įstatyme nustatytos baudos.
+7. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2362, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11984
  
 
 
@@ -4378,3 +4392,8 @@ Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio inve
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1874, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00224
 Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio investavimo subjektų valdymo įmonių įstatymo Nr. XII-1467 pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2362, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11984
+Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo Nr. XII-1467 3, 18, 25, 61 ir 62 straipsnių pakeitimo įstatymas
