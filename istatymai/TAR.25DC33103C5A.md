@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/25dc33103c5a11e6bcc5c96b48152012"
 
 # Lietuvos Respublikos akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatymas
 
+Suvestinė redakcija nuo 2019-07-21 iki 2022-07-21
+ 
+Įstatymas paskelbtas: TAR 2016-06-27, i. k. 2016-17712
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 AKCINIŲ BENDROVIŲ IR UŽDARŲJŲ AKCINIŲ BENDROVIŲ OBLIGACIJŲ SAVININKŲ INTERESŲ GYNIMO
 ĮSTATYMAS
@@ -21,6 +28,9 @@ AKCINIŲ BENDROVIŲ IR UŽDARŲJŲ AKCINIŲ BENDROVIŲ OBLIGACIJŲ SAVININKŲ IN
 Vilnius
  
  
+
+ 
+
  
  
 
@@ -80,7 +90,10 @@ Vilnius
 
 
 
-2. Šio įstatymo nuostatos šio straipsnio 1 dalies 1 punkte nurodytoms bendrovėms netaikomos, kai yra bent viena iš Vertybinių popierių įstatymo 5 straipsnio 2 dalies 1, 3, 4 ir 5 punktuose nustatytų sąlygų. 
+2. Šio įstatymo nuostatos šio straipsnio 1 dalies 1 punkte nurodytoms bendrovėms netaikomos, kai yra bent viena iš 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB (OL 2017 L 168, p. 12), 1 straipsnio 3 dalyje ir 4 dalies a, c ir d punktuose nustatytų sąlygų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2363, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11985
+ 
 
 
 
@@ -660,4 +673,17 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2363, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11985
+Lietuvos Respublikos akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatymo Nr. XII-2443 3 straipsnio pakeitimo įstatymas
+ 
+ 
+part_3fedf8fe84ff461f83aca39867a9effc_end
