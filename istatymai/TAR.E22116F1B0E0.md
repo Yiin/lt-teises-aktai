@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2019-07-06 iki 2019-07-20
+Suvestinė redakcija nuo 2019-07-21 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
- 
-TAR pastaba. Akcinių bendrovių, kurių akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politika turi būti patvirtinta artimiausiame akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, eiliniame visuotiniame akcininkų susirinkime.  Iki akcinių bendrovių, kurių akcijomis leista prekiauti reguliuojamoje rinkoje, atlygio politikos patvirtinimo artimiausiame eiliniame visuotiniame akcininkų susirinkime šių bendrovių vadovui, valdybos ir stebėtojų tarybos nariams atlygis mokamas vadovaujantis iki įstatymo Nr. XIII-2249 įsigaliojimo (2019-07-06) taikyta atlygio mokėjimo praktika.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 1, 16, 20, 21, 28, 32, 34, 37, 37-2, 78 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 37-3 straipsniu įstatymas
  
 Nauja įstatymo redakcija nuo 2004-01-01:
 Nr. IX-1889, 2003-12-11, Žin., 2003, Nr. 123-5574 (2003-12-30), atitaisymas skelbtas: Žin., 2004, Nr. 33
@@ -112,10 +107,11 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-4. Uždarosios akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip 2,5 tūkstančio eurų. Uždarosios akcinės bendrovės akcijos negali būti platinamos ir jomis prekiaujama viešai, jeigu įstatymai nenustato kitaip. Jeigu uždarosios akcinės bendrovės siūlomos akcijos ar jų siūlymas atitinka bent vieną iš Vertybinių popierių įstatyme nustatytų sąlygų, kai vertybinius popierius viešai siūlant ar įtraukiant į prekybą reguliuojamoje rinkoje nereikalaujama paskelbti prospekto, akcijų siūlymas tos uždarosios akcinės bendrovės akcininkams, darbuotojams, kreditoriams, profesionaliesiems investuotojams, kurie atitinka Finansinių priemonių rinkų įstatyme nustatytus kriterijus, ir informuotiesiems investuotojams, kurie atitinka Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme nustatytus kriterijus, nėra laikomas vertybinių popierių viešu siūlymu.
+4. Uždarosios akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip 2,5 tūkstančio eurų. Uždarosios akcinės bendrovės akcijos negali būti platinamos ir jomis prekiaujama viešai, jeigu įstatymai nenustato kitaip. Jeigu uždarosios akcinės bendrovės siūlomos akcijos ar jų siūlymas atitinka bent vieną iš Vertybinių popierių įstatyme ir (arba) 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB (OL 2017 L 168, p. 12), nustatytų sąlygų, kai vertybinius popierius viešai siūlant nereikalaujama paskelbti prospekto, akcijų siūlymas tos uždarosios akcinės bendrovės akcininkams, darbuotojams, kreditoriams, profesionaliesiems investuotojams, kurie atitinka Finansinių priemonių rinkų įstatyme nustatytus kriterijus, ir informuotiesiems investuotojams, kurie atitinka Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme nustatytus kriterijus, nėra laikomas vertybinių popierių viešu siūlymu. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
+Nr. XIII-2357, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11979
  
 
 
@@ -1073,7 +1069,10 @@ Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
 
 
 
-3. Teisė balsuoti visuotiniuose akcininkų susirinkimuose gali būti uždrausta ar apribota šio ir kitų įstatymų nustatytais atvejais, taip pat kai ginčijama nuosavybės teisė į akciją.
+3. Teisė balsuoti visuotiniuose akcininkų susirinkimuose gali būti uždrausta ar apribota šio ir kitų įstatymų nustatytais atvejais, taip pat kai ginčijama nuosavybės teisė į akciją ir teismas taiko laikinąsias apsaugos priemones, kuriomis apribota akcininko teisė balsuoti visuotiniuose akcininkų susirinkimuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2357, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11979
+ 
 
 
 Straipsnio pakeitimai:
@@ -2061,7 +2060,7 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 
 
-4. Nustatant bendrą bendrovės akcijų teikiamų balsų skaičių ir visuotinio akcininkų susirinkimo kvorumą, nesuteikiančiomis balsų akcijomis laikomos:
+4. Visuotiniame akcininkų susirinkime nustatant bendrovės akcijų teikiamų balsų skaičių ir šio susirinkimo kvorumą, nesuteikiančiomis balsų akcijomis laikomos:
 
 
 1) bendrovės įgytos savos akcijos;
@@ -2069,9 +2068,18 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 
 
-2) bendrovės įstatuose nustatytos klasės privilegijuotosios akcijos, kurios nesuteikia balsavimo teisės.
+2) bendrovės įstatuose nustatytos klasės privilegijuotosios akcijos, kurios nesuteikia balsavimo teisės;
 
 
+
+
+3) akcijos, kurių suteikiamos balsavimo teisės yra apribotos kitų įstatymų nustatytais atvejais, taip pat ginčijama nuosavybės teisė į akciją ir teismas taiko laikinąsias apsaugos priemones, kuriomis apribota akcininko teisė balsuoti visuotiniuose akcininkų susirinkimuose. 
+TAR pastaba. 27 straipsnio 4 dalis netaikoma nustatant bendrą bendrovės akcijų teikiamų balsų skaičių visuotiniame akcininkų susirinkime, jeigu sprendimas sušaukti visuotinį akcininkų susirinkimą buvo priimtas iki įstatymo Nr. XIII-2357 įsigaliojimo dienos (2019-07-21). Tokiu atveju bendras bendrovės akcijų teikiamų balsų skaičius nustatomas pagal iki šio įstatymo įsigaliojimo dienos galiojusias Lietuvos Respublikos akcinių bendrovių įstatymo nuostatas.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2357, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11979
+ 
 
 
 
@@ -4178,7 +4186,10 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 44 straipsnis. Akcijų pasirašymas
 
 
-1. Akcijos pasirašomos bendrovei ir fiziniam ar juridiniam asmeniui sudarant akcijų pasirašymo sutartį, išskyrus bendrovės steigimo atvejį. Akcijų pasirašymo sutartimi viena šalis įsipareigoja pateikti tam tikrą skaičių naujų akcijų, o kita šalis – apmokėti visą pasirašytų akcijų emisijos kainą. Akcinių bendrovių akcijų, išleidžiamų didinant įstatinį kapitalą ir platinamų pasitelkiant reguliuojamos rinkos operatoriaus technines priemones, pasirašymo, kainos nustatymo ir apmokėjimo tvarką nustato Lietuvos bankas.
+1. Akcijos pasirašomos bendrovei ir fiziniam ar juridiniam asmeniui sudarant akcijų pasirašymo sutartį, išskyrus bendrovės steigimo atvejį. Akcijų pasirašymo sutartimi viena šalis įsipareigoja pateikti tam tikrą skaičių naujų akcijų, o kita šalis – apmokėti visą pasirašytų akcijų emisijos kainą. Akcinių bendrovių akcijų, išleidžiamų didinant įstatinį kapitalą ir platinamų pasitelkiant reguliuojamos rinkos, daugiašalės prekybos sistemos, organizuotos prekybos sistemos ir (arba) atsiskaitymų sistemos operatorių technines organizacines priemones, pasirašymo, kainos nustatymo ir apmokėjimo tvarka nustatoma, kaip tai numatyta Vertybinių popierių įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2357, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11979
+ 
 
 
 
@@ -4214,7 +4225,10 @@ Nr. XII-1092, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12714
 
 
 
-5) akcinės bendrovės akcijų prospekto patvirtinimo pažymos data ir numeris, jei prospektas turi būti tvirtinamas vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka;
+5) dokumento, kuriuo pažymimas akcinės bendrovės akcijų prospekto patvirtinimas, data ir numeris, jeigu prospektas turi būti tvirtinamas vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2357, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11979
+ 
 
 
 
@@ -7154,11 +7168,11 @@ Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
 
 
 
-2. Jeigu akcinės bendrovės išleidžiamų perleidžiamųjų vertybinių popierių ar uždarosios akcinės bendrovės obligacijų viešas platinimas nepatenka į vertybinių popierių rinką reglamentuojančių teisės aktų reguliavimo sritį ir šių vertybinių popierių bendra pardavimo vertė viršija 100 tūkstančių eurų per 12 mėnesių laikotarpį, prieš viešą jų platinimą turi būti parengtas informacinis dokumentas, kuriame nurodoma informacija apie akcinę bendrovę ir siūlomus perleidžiamuosius vertybinius popierius arba uždarąją akcinę bendrovę ir siūlomas obligacijas, ir sudaryta galimybė su juo susipažinti vertybinių popierių įsigyti ketinantiems asmenims. Lietuvos bankas detalizuoja informacinio dokumento turinį ir nustato atvejus, kada šio dokumento parengti nereikalaujama.
-TAR pastaba. 78 straipsnio 2 dalies nuostatos taikomos akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kurios sprendimą dėl obligacijų emisijos priėmė įsigaliojus (2016-11-01)  įstatymui Nr. XII-2444.
+2. Jeigu akcinės bendrovės išleidžiamų perleidžiamųjų vertybinių popierių ar uždarosios akcinės bendrovės obligacijų bendra pardavimo vertė yra 1–8 milijonai eurų per 12 mėnesių laikotarpį, prieš viešą jų siūlymą Lietuvos Respublikoje turi būti parengtas ir paskelbtas informacinis dokumentas Vertybinių popierių įstatymo nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
 Nr. XII-2444, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17729
+Nr. XIII-2357, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11979
  
 
 
@@ -7614,3 +7628,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 1 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
 Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 1, 16, 20, 21, 28, 32, 34, 37, 37-2, 78 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 37-3 straipsniu įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2357, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11979
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 16, 27, 44 ir 78 straipsnių pakeitimo įstatymas
