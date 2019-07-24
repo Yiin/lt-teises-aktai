@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2019-07-04 iki 2019-07-23
+Suvestinė redakcija nuo 2019-07-24 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
  
@@ -1717,9 +1717,10 @@ Nr. XII-1145, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13604
 1. Savivaldybės administracija, teikdama piniginę socialinę paramą, privalo:
 
 
-1) derinti socialinės pašalpos teikimo bendrai gyvenantiems asmenims arba vieniems gyvenantiems asmenims, patiriantiems socialinę riziką, formas – nepinigine forma ir pinigais – savivaldybės tarybos nustatyta tvarka. Socialinės pašalpos dydis pinigais negali viršyti 50 procentų paskirtos socialinės pašalpos dydžio; 
+1) derinti socialinės pašalpos teikimo bendrai gyvenantiems asmenims arba vieniems gyvenantiems asmenims, patiriantiems socialinę riziką, formas – nepinigine forma ir pinigais – savivaldybės tarybos nustatyta tvarka. Socialinės pašalpos dydis pinigais negali viršyti 50 procentų paskirtos socialinės pašalpos dydžio, išskyrus atvejus, kai atvejo vadybininkas, koordinuojantis atvejo vadybos procesą, rekomenduoja didesnę kaip 50 procentų paskirtos socialinės pašalpos dydžio sumą mokėti piniginėmis lėšomis, o kai atvejo vadyba netaikoma, – atsižvelgiant į socialinio darbuotojo, dirbančio su asmenimis, patiriančiais socialinę riziką, rekomendaciją;
 Straipsnio punkto pakeitimai:
 Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
+Nr. XIII-2324, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12117
  
 
 
@@ -2479,3 +2480,13 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2262, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10931
 Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 17 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1960, 2019-02-12, paskelbta TAR 2019-02-20, i. k. 2019-02743
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 17 ir 23 straipsnių pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2324, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12117
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 17 straipsnio pakeitimo įstatymo Nr. XIII-1960 pakeitimo įstatymas
