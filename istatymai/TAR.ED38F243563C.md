@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-07-23
+Suvestinė redakcija nuo 2019-07-24 iki 2020-11-13
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
  
@@ -1118,7 +1118,10 @@ Respublikos Prezidento sutuoktinio valstybinė pensija skiriama ir mokama Respub
 
 
 
-Respublikos Prezidento sutuoktinio valstybinės pensijos dydis – 15 procentų Respublikos Prezidento darbo užmokesčio dydžio per mėnesį. 
+Respublikos Prezidento sutuoktinio valstybinės pensijos dydis – 11,64 procento Respublikos Prezidento darbo užmokesčio dydžio per mėnesį.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2300, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12124
+ 
 
 
 
@@ -1618,3 +1621,8 @@ Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 3 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1555, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17471
 Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 4 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2300, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12124
+Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 15-1 straipsnio pakeitimo įstatymas
