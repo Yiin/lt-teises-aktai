@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-07-23
+Suvestinė redakcija nuo 2019-07-24 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
  
@@ -400,7 +400,10 @@ Nr. XIII-1379, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12047
 
 
 
-3) atstovavimo išlaidos šalies viduje ir lankantis užsienio valstybėse – pagal tarptautinę diplomatinę praktiką atsiskaitytinai, taip pat 25 procentai Respublikos Prezidento mėnesinio darbo užmokesčio neatsiskaitytinai kas mėnesį.
+3) atstovavimo išlaidos šalies viduje ir lankantis užsienio valstybėse – pagal tarptautinę diplomatinę praktiką atsiskaitytinai, taip pat 19,39 procento Respublikos Prezidento mėnesinio darbo užmokesčio neatsiskaitytinai kas mėnesį. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
+ 
 
 
 
@@ -440,52 +443,64 @@ Jeigu Respublikos Prezidentas suserga ir dėl to laikinai negali eiti savo parei
 17 straipsnis. Respublikos Prezidento socialinės garantijos nelaimingo atsitikimo atveju
 
 
-1. Jeigu eidamas pareigas Respublikos Prezidentas žuvo, jo išlaikytiems asmenims (šio straipsnio 7 dalis) lygiomis dalimis išmokama 120 mėnesių darbo užmokesčio, kuris būtų mokamas jo žūties mėnesį, dydžio vienkartinė kompensacija.
+1. Jeigu Respublikos Prezidentas, eidamas pareigas žuvo, jo išlaikytiems asmenims (šio straipsnio 7 dalis) lygiomis dalimis išmokama 93,1 mėnesio darbo užmokesčio dydžio vienkartinė kompensacija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
+ 
 
 
 
 
-2. Jeigu Respublikos Prezidento sveikata sutriko dėl jo sužalojimo ir jis tapo neįgalus, jam išmokama nuo 12 iki 60 mėnesių darbo užmokesčio, kuris būtų išmokėtas darbingumo lygio nustatymo mėnesį, dydžio vienkartinė kompensacija:
+2. Jeigu Respublikos Prezidento sveikata sutriko dėl jo sužalojimo ir jis tapo neįgalus, jam išmokama nuo 27,93 iki 46,55 mėnesio darbo užmokesčio dydžio vienkartinė kompensacija:
 
 
-1) netekus 85–100 procentų darbingumo – 60 mėnesių darbo užmokesčio dydžio;
-
-
-
-
-2) netekus 65–80 procentų darbingumo – 48 mėnesių darbo užmokesčio dydžio;
+1) netekus 85–100 procentų darbingumo – 46,55 mėnesio darbo užmokesčio dydžio;
 
 
 
 
-3) netekus 45–60 procentų darbingumo – 36 mėnesių darbo užmokesčio dydžio.
+2) netekus 65–80 procentų darbingumo – 37,24 mėnesio darbo užmokesčio dydžio;
 
 
 
 
+3) netekus 45–60 procentų darbingumo – 27,93 mėnesio darbo užmokesčio dydžio. 
 
 
-3. Jeigu Respublikos Prezidentas netapo neįgalus, tačiau neteko darbingumo, mokamos tokio dydžio vienkartinės kompensacijos, kurios apskaičiuojamos taikant sveikatos sutrikimo mėnesį galiojusį darbo užmokesčio dydį:
-
-
-1) sunkaus sveikatos sutrikimo atveju – 24 mėnesių darbo užmokesčio dydžio;
-
-
-
-
-2) apysunkio sveikatos sutrikimo atveju – 18 mėnesių darbo užmokesčio dydžio;
+Straipsnio dalies pakeitimai:
+Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
+ 
 
 
 
 
-3) lengvo sveikatos sutrikimo atveju – 12 mėnesių darbo užmokesčio dydžio.
+3. Jeigu Respublikos Prezidentas netapo neįgalus, tačiau neteko darbingumo, mokamos tokio dydžio vienkartinės kompensacijos:
+
+
+1) sunkaus sveikatos sutrikimo atveju – 18,62 mėnesio darbo užmokesčio dydžio;
 
 
 
 
+2) apysunkio sveikatos sutrikimo atveju – 13,96 mėnesio darbo užmokesčio dydžio;
 
 
-4. Šio straipsnio 1–3 dalyse numatytos kompensacijos mokamos, jei Respublikos Prezidentas žuvo ar jo sveikata sutriko dėl priežasčių, susijusių su Respublikos Prezidento pareigų vykdymu. Sprendimą, ar Respublikos Prezidentas žuvo arba jo sveikata sutriko dėl jo eitų Respublikos Prezidento pareigų, priima Vyriausybės sudaryta laikinoji komisija, dalyvaujant joje teisėsaugos ir kitų kompetentingų institucijų atstovams.
+
+
+3) lengvo sveikatos sutrikimo atveju – 9,31 mėnesio darbo užmokesčio dydžio. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
+ 
+
+
+
+
+4. Šio straipsnio 1, 2 ir 3 dalyse numatytos kompensacijos mokamos, jeigu Respublikos Prezidentas žuvo ar jo sveikata sutriko dėl priežasčių, susijusių su Respublikos Prezidento pareigų vykdymu. Šios kompensacijos apskaičiuojamos pagal žūties mėnesį ar neįgalumo nustatymo mėnesį, ar sveikatos sutrikimo mėnesį galiojusį Respublikos Prezidento mėnesinį darbo užmokestį. Sprendimą, ar Respublikos Prezidentas žuvo, ar jo sveikata sutriko dėl jo eitų Respublikos Prezidento pareigų, priima Vyriausybės sudaryta laikinoji komisija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
+ 
 
 
 
@@ -510,7 +525,9 @@ Jeigu Respublikos Prezidentas suserga ir dėl to laikinai negali eiti savo parei
 
 
 
-9. Šiame straipsnyje numatytas kompensacijas iš šiam tikslui skirtų valstybės biudžeto lėšų išmoka Respublikos Prezidento kanceliarija.
+9. Šiame straipsnyje numatytas kompensacijas iš šiam tikslui skirtų valstybės biudžeto lėšų per 20 darbo dienų nuo komisijos, nurodytos šio straipsnio 4 dalyje, arba komisijos, nurodytos šio straipsnio 6 dalyje, sprendimo, kuriuo konstatuojama, kad Respublikos Prezidentas žuvo ar jo sveikata sutriko dėl priežasčių, susijusių su Respublikos Prezidento pareigų vykdymu, arba kad Respublikos Prezidento sutuoktinis ar Respublikos Prezidentą lydintis asmuo žuvo ar jo sveikata sutriko dėl valstybinio ir (ar) diplomatinio protokolo numatytų funkcijų vykdymo, išmoka Respublikos Prezidento kanceliarija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
  
 
 
@@ -542,7 +559,9 @@ Jeigu Respublikos Prezidentas suserga ir dėl to laikinai negali eiti savo parei
 
 
 
-2. Respublikos Prezidento sutuoktiniui ar Respublikos Prezidentą lydinčiam asmeniui atstovavimo išlaidos šalies viduje ir lankantis užsienio valstybėse apmokamos pagal tarptautinę diplomatinę praktiką atsiskaitytinai, taip pat sutuoktiniui reprezentacinėms išlaidoms mokama 15 procentų Respublikos Prezidento mėnesinio darbo užmokesčio dydžio išmoka neatsiskaitytinai kas mėnesį.
+2. Respublikos Prezidento sutuoktiniui ar Respublikos Prezidentą lydinčiam asmeniui atstovavimo išlaidos šalies viduje ir lankantis užsienio valstybėse apmokamos pagal tarptautinę diplomatinę praktiką atsiskaitytinai, taip pat sutuoktiniui reprezentacinėms išlaidoms mokama 11,64 procento Respublikos Prezidento mėnesinio darbo užmokesčio dydžio išmoka neatsiskaitytinai kas mėnesį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
  
 
 
@@ -680,10 +699,10 @@ RESPUBLIKOS PREZIDENTO MATERIALINĖS IR SOCIALINĖS GARANTIJOS NUTRŪKUS RESPUBL
 
 
 
-4. Jeigu Respublikos Prezidentas eidamas pareigas ar pasibaigus kadencijai miršta, jo sutuoktiniui, jei šis pageidauja, panaudos pagrindais suteikiamas būstas (gyvenamosios patalpos) Lietuvos Respublikos Vyriausybės nustatyta tvarka.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos Prezidento įstatymo (Žin., 2008, Nr. 135-5234) 23 straipsnio 4 dalis prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsnio 2 daliai, 90 straipsniui, konstituciniam teisinės valstybės principui.
+4. Neteko galios 2019-07-24.
 Straipsnio dalies pakeitimai:
 Nr. KT19-N9/2017, 2017-12-15, paskelbta TAR 2017-12-15, i. k. 2017-20254
+Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
  
 
 
@@ -700,6 +719,10 @@ Nr. KT19-N9/2017, 2017-12-15, paskelbta TAR 2017-12-15, i. k. 2017-20254
 
 
 7. Respublikos Prezidentas laidojamas valstybės lėšomis.
+7 dalies redakcija nuo 2019-09-01:
+7. Respublikos Prezidentas laidojamas ir jo atminimas įamžinamas valstybės lėšomis Vyriausybės ir jos įgaliotos institucijos nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
  
 
 
@@ -797,3 +820,8 @@ Dėl Lietuvos Respublikos Prezidento įstatymo 23 straipsnio 4 dalies atitiktie
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1379, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12047
 Lietuvos Respublikos Prezidento įstatymo Nr. I-56 13 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
+Lietuvos Respublikos Prezidento įstatymo Nr. I-56 14, 17, 19 ir 23 straipsnių pakeitimo įstatymas
