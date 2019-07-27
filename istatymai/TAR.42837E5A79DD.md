@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-07-26
+Suvestinė redakcija nuo 2019-07-27 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -3250,26 +3250,26 @@ Nr. XII-1193, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14279
 451 straipsnis. Leidimo laikinai gyventi išdavimas užsieniečiui, kuris ketina užsiimti teisėta veikla, susijusia su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu
 
 
-1. Leidimas laikinai gyventi gali būti išduodamas užsieniečiui, kuris ketina užsiimti teisėta veikla, susijusia su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu, jeigu ūkio ministro įgaliota institucija raštu patvirtina, kad teisėta veikla, kuria ketina užsiimti užsienietis, yra susijusi su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu ir kad šiai veiklai vykdyti užsienietis turi reikiamą kvalifikaciją, finansavimą bei verslo planą ir kad šio užsieniečio, būsiančio numatomos įsteigti įmonės dalyviu, buvimas Lietuvos Respublikoje būtinas šios įmonės veiklai.
+1. Leidimas laikinai gyventi gali būti išduodamas užsieniečiui, kuris ketina užsiimti teisėta veikla, susijusia su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu, jeigu ekonomikos ir inovacijų ministro įgaliota institucija raštu patvirtina, kad teisėta veikla, kuria ketina užsiimti užsienietis, yra susijusi su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu ir kad užsiimti šia veikla užsienietis turi reikiamą kvalifikaciją, finansavimą bei verslo planą, ir kad šio užsieniečio, būsiančio numatomos įsteigti įmonės dalyviu, buvimas Lietuvos Respublikoje būtinas šios įmonės veiklai.
 
 
 
 
-2. Vertinimo tvarką, pagal kurią nustatoma, ar numatomos steigti įmonės veikla susijusi su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu ir ar šiai veiklai vykdyti užsienietis turi reikiamą kvalifikaciją, finansavimą bei verslo planą, nustato ūkio ministras, suderinęs su švietimo ir mokslo bei vidaus reikalų ministrais.
+2. Vertinimo tvarką, pagal kurią nustatoma, ar numatomos steigti įmonės veikla susijusi su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu ir ar užsiimti šia veikla užsienietis turi reikiamą kvalifikaciją, finansavimą bei verslo planą, nustato ekonomikos ir inovacijų ministras, suderinęs su švietimo ir mokslo ministru ir vidaus reikalų ministru.
 
 
 
 
-3. Užsieniečiui, kuris ketina užsiimti teisėta veikla, susijusia su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu, leidimas laikinai gyventi išduodamas vieneriems metams. Šis leidimas, ūkio ministro įgaliotai institucijai patvirtinus, kad užsienietis atitinka šio straipsnio 1 dalyje nurodytus reikalavimus, gali būti pakeistas vieneriems metams vieną kartą. 
+3. Užsieniečiui, kuris ketina užsiimti teisėta veikla, susijusia su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu, leidimas laikinai gyventi išduodamas vieneriems metams. Šis leidimas, ekonomikos ir inovacijų ministro įgaliotai institucijai patvirtinus, kad užsienietis atitinka šio straipsnio 1 dalyje nurodytus reikalavimus, gali būti pakeistas vieneriems metams du kartus.
 
 
 
 
-4. Užsienietis, nutraukęs teisėtą veiklą, susijusią su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu, privalo išvykti iš Lietuvos Respublikos.
+4. Užsienietis, nutraukęs teisėtą veiklą, susijusią su naujų technologijų ar kitų Lietuvos Respublikos ūkio ir socialinei plėtrai reikšmingų naujovių diegimu, privalo išvykti iš Lietuvos Respublikos. 
 
 
-Papildyta straipsniu:
-Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
+Straipsnio pakeitimai:
+Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
  
 
 
@@ -9169,3 +9169,8 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2078, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07317
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 1 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
