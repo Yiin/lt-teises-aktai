@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.026F44E06A27"
 
 # Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymas
 
-Suvestinė redakcija nuo 2018-06-01 iki 2019-07-26
+Suvestinė redakcija nuo 2019-07-27 iki 2020-10-07
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 54-1048, i. k. 0931010ISTA000I-270
  
@@ -169,7 +169,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos viešojo administravimo įstatyme ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme.
+22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) (toliau – Reglamentas (ES) 2016/679) ir Lietuvos Respublikos viešojo administravimo įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2365, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12389
  
 
 
@@ -272,7 +274,10 @@ OFICIALIOSIOS STATISTIKOS ORGANIZAVIMAS
 1. Oficialiąją statistiką tvarkančios įstaigos, vykdydamos Oficialiosios statistikos programą, turi teisę:
 
 
-1) neatlygintinai gauti iš šio įstatymo 10 straipsnyje nurodytų oficialiosios statistikos šaltinių reikalingus statistinius duomenis, įskaitant asmens duomenis, ypatingus asmens duomenis ir tokius duomenis, iš kurių galimas tiesioginis ar netiesioginis atpažinimas, taip pat juos jungti su kitais statistiniais duomenimis;
+1) neatlygintinai gauti iš šio įstatymo 10 straipsnyje nurodytų oficialiosios statistikos šaltinių reikalingus statistinius duomenis, įskaitant asmens duomenis, tarp jų ir specialių kategorijų asmens duomenis, ir tokius duomenis, iš kurių galimas tiesioginis ar netiesioginis atpažinimas, taip pat juos jungti su kitais statistiniais duomenimis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2365, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12389
+ 
 
 
 
@@ -282,7 +287,10 @@ OFICIALIOSIOS STATISTIKOS ORGANIZAVIMAS
 
 
 
-3) naudoti konkrečiam statistiniam tyrimui asmens duomenis, ypatingus asmens duomenis, kurie panaudoti turi būti nedelsiant pakeisti taip, kad nebūtų galima nustatyti duomenų subjekto tapatybės, išskyrus atvejus, kai asmens duomenys, ypatingi asmens duomenys reikalingi statistiniams duomenims jungti, palyginti ir jų kokybei užtikrinti. Asmens duomenys, ypatingi asmens duomenys, nebereikalingi statistiniams duomenims jungti, palyginti ir jų kokybei užtikrinti, nedelsiant pakeičiami taip, kad nebūtų galima nustatyti duomenų subjekto tapatybės;
+3) naudoti konkrečiam statistiniam tyrimui asmens duomenis, tarp jų ir specialių kategorijų asmens duomenis, kurie panaudoti turi būti nedelsiant pakeisti taip, kad nebūtų galima nustatyti duomenų subjekto tapatybės, išskyrus atvejus, kai asmens duomenys, tarp jų ir specialių kategorijų asmens duomenys, reikalingi statistiniams duomenims jungti, palyginti ir jų kokybei užtikrinti. Asmens duomenys, tarp jų ir specialių kategorijų asmens duomenys, nebereikalingi statistiniams duomenims jungti, palyginti ir jų kokybei užtikrinti, nedelsiant pakeičiami taip, kad nebūtų galima nustatyti duomenų subjekto tapatybės; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2365, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12389
+ 
 
 
 
@@ -340,6 +348,13 @@ OFICIALIOSIOS STATISTIKOS ORGANIZAVIMAS
 
 
 3. Oficialiąją statistiką tvarkanti įstaiga turi teisę susipažinti su mokslo tikslais atliktos statistinės analizės, kuriai atlikti statistiniai duomenys gauti iš šios oficialiąją statistiką tvarkančios įstaigos pagal šio įstatymo 13 straipsnio 4 dalyje nurodytą sutartį, rezultatais. 
+
+
+
+
+4. Kai asmens duomenis, tarp jų ir specialių kategorijų asmens duomenis oficialiąją statistiką tvarkančios įstaigos naudoja oficialiosios statistikos tikslams, netaikomos Reglamento (ES) 2016/679 18 ir 21 straipsniuose nurodytos duomenų subjekto teisės. Oficialiąją statistiką tvarkančios įstaigos gali netaikyti Reglamento (ES) 2016/679 15 ir 16 straipsniuose nurodytų duomenų subjekto teisių, jeigu dėl jų taikymo gali tapti neįmanoma pasiekti konkrečių oficialiosios statistikos tikslų. Šioje dalyje nurodytas nuo Reglamento (ES) 2016/679 nukrypti leidžiančias nuostatas galima taikyti, kai oficialiąją statistiką tvarkančios įstaigos taiko Reglamento (ES) 2016/679 89 straipsnio 1 dalyje nurodytas sąlygas ir tinkamas asmens duomenų apsaugos priemones. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2365, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12389
  
 
 
@@ -755,7 +770,10 @@ STATISTINIŲ DUOMENŲ KONFIDENCIALUMAS IR NAUDOJIMAS, STATISTINIŲ DUOMENŲ IR S
 15 straipsnis. Statistinių duomenų ir statistinės informacijos apsauga
 
 
-1. Oficialiąją statistiką tvarkančios įstaigos privalo imtis organizacinių, technologinių ir techninių priemonių, užtikrinančių statistinių duomenų, įskaitant asmens duomenis, ypatingus asmens duomenis, ir statistinės informacijos apsaugą, diegti informacines technologijas, užkertančias kelią atsitiktiniam ar neteisėtam jų sunaikinimui, pakeitimui, atskleidimui, kitokiam neteisėtam jų tvarkymui. 
+1. Oficialiąją statistiką tvarkančios įstaigos privalo imtis organizacinių, technologinių ir techninių priemonių, užtikrinančių statistinių duomenų, įskaitant asmens duomenis, tarp jų ir specialių kategorijų asmens duomenis, ir statistinės informacijos apsaugą, diegti informacines technologijas, užkertančias kelią atsitiktiniam ar neteisėtam jų sunaikinimui, pakeitimui, atskleidimui, kitokiam neteisėtam jų tvarkymui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2365, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12389
+ 
 
 
 
@@ -787,7 +805,9 @@ Respondentai turi teisę:
 
 
 
-2) susipažinti su oficialiąją statistiką tvarkančių įstaigų tvarkomais respondentų asmens duomenimis ir kitais apie juos surinktais statistiniais duomenimis, saugomais oficialiąją statistiką tvarkančių įstaigų tvarkomose informacinėse sistemose ir (arba) registruose, ir, pastebėję netikslumų, reikalauti, kad jie būtų ištaisyti.
+2) susipažinti su oficialiąją statistiką tvarkančių įstaigų tvarkomais respondentų asmens duomenimis ir kitais apie juos surinktais statistiniais duomenimis, saugomais oficialiąją statistiką tvarkančių įstaigų tvarkomose informacinėse sistemose ir (arba) registruose, ir, pastebėję netikslumų, reikalauti, kad jie būtų ištaisyti, išskyrus šio įstatymo 5 straipsnio 4 dalyje numatytus atvejus. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2365, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12389
  
 
 
@@ -803,7 +823,10 @@ Respondentai turi teisę:
 Respondentai privalo:
 
 
-1) Oficialiosios statistikos programai įgyvendinti teisės aktų nustatyta tvarka neatlygintinai teikti teisingus statistinius duomenis, įskaitant asmens duomenis, ypatingus asmens duomenis ir tokius duomenis, pagal kuriuos galimas tiesioginis ar netiesioginis atpažinimas. Respondentai fiziniai asmenys privalo teikti statistinius duomenis, įskaitant asmens duomenis, ypatingus asmens duomenis ir tokius duomenis, pagal kuriuos galimas tiesioginis ar netiesioginis atpažinimas, jeigu taip nustatyta Europos Sąjungos teisės aktais arba įstatymais;
+1) Oficialiosios statistikos programai įgyvendinti teisės aktų nustatyta tvarka neatlygintinai teikti teisingus statistinius duomenis, įskaitant asmens duomenis, tarp jų ir specialių kategorijų asmens duomenis ir tokius duomenis, pagal kuriuos galimas tiesioginis ar netiesioginis atpažinimas. Respondentai fiziniai asmenys privalo teikti statistinius duomenis, įskaitant asmens duomenis, tarp jų ir specialių kategorijų asmens duomenis ir tokius duomenis, pagal kuriuos galimas tiesioginis ar netiesioginis atpažinimas, jeigu taip nustatyta Europos Sąjungos teisės aktais arba įstatymais; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2365, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12389
+ 
 
 
 
@@ -963,3 +986,8 @@ Lietuvos Respublikos statistikos įstatymo 2, 6, 7, 11, 18 straipsnių pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1128, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07480
 Lietuvos Respublikos statistikos įstatymo Nr. I-270 pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2365, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12389
+Lietuvos Respublikos oficialiosios statistikos įstatymo Nr. I-270 2, 5, 15, 16 ir 17 straipsnių pakeitimo įstatymas
