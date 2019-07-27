@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-07-26
+Suvestinė redakcija nuo 2019-07-27 iki 2019-12-31
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -872,6 +872,13 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 
 
 5. Pareigą saugoti konfidencialią informaciją (informaciją, kuri laikoma komercine (gamybine), profesine, valstybės ar tarnybos paslaptimi) ir atsakomybę už jos pažeidimą reglamentuoja įstatymai. Šio kodekso nustatyta tvarka darbo sutarties šalys gali sudaryti papildomus susitarimus dėl konfidencialios informacijos apsaugos.
+
+
+
+
+6. Darbo skelbime darbdavys privalo nurodyti informaciją apie siūlomo bazinio (tarifinio) darbo užmokesčio (valandinio atlygio arba mėnesinės algos, arba pareiginės algos pastoviosios dalies) dydį ir (arba) dydžio intervalą, išskyrus įstatymuose numatytus atvejus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2327, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12397
  
 
 
@@ -4952,7 +4959,10 @@ DARBO UŽMOKESTIS
 2. Darbuotojo darbo užmokestį sudaro:
 
 
-1) bazinis (tarifinis) darbo užmokestis (valandinis atlygis arba mėnesinė alga);
+1) bazinis (tarifinis) darbo užmokestis (valandinis atlygis arba mėnesinė alga, arba pareiginės algos pastovioji dalis); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2327, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12397
+ 
 
 
 
@@ -9466,3 +9476,8 @@ Lietuvos Respublikos darbo kodekso 123 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1759, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20740
 Lietuvos Respublikos darbo kodekso 222 ir 240 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2327, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12397
+Lietuvos Respublikos darbo kodekso 25 ir 139 straipsnių pakeitimo įstatymas
