@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2019-06-01 iki 2019-07-26
+Suvestinė redakcija nuo 2019-07-27 iki 2019-07-31
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -1828,7 +1828,9 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-4) kurių vadovas ar kitas atsakingas asmuo neturi galiojančios baudos, paskirtos už šio įstatymo 56, 57 ir 58 straipsniuose nustatytus pažeidimus, ir (ar) administracinės nuobaudos, skirtos pagal Lietuvos Respublikos administracinių nusižengimų kodeksą už nelegalų darbą, arba turi ne daugiau negu vieną galiojančią administracinę nuobaudą pagal šį kodeksą už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus.
+4) kurių vadovas ar kitas atsakingas asmuo per paskutinius vienus metus iki šio straipsnio 4 dalyje nurodytų pasiūlymų pateikimo dienos neturėjo baudos, paskirtos už šio įstatymo 56, 57 ir 58 straipsniuose nurodytus pažeidimus, ir (ar) administracinės nuobaudos, skirtos pagal Lietuvos Respublikos administracinių nusižengimų kodeksą už nelegalų darbą, arba turi ne daugiau negu vieną per paskutinius vienus metus iki šio straipsnio 4 dalyje nurodytų pasiūlymų pateikimo dienos paskirtą administracinę nuobaudą pagal šį kodeksą už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimus, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
  
 
 
@@ -3189,7 +3191,10 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-2. Prievolę apskaityti šio straipsnio 1 dalyje nurodytų darbuotojo darbo funkcijų atlikimą darbdavys privalo įvykdyti iki kitos darbo dienos darbovietėje pabaigos, išskyrus atvejį, kai darbuotojas laikinai, bet ne ilgiau kaip 5 darbo dienas, dirba kitoje vietoje, negu yra darbovietė. Tokiu atveju darbo funkcijos atlikimas turi būti apskaitytas ne vėliau kaip kitą dieną po darbo funkcijos atlikimo kitoje vietoje pabaigos. Jeigu darbuotojas ilgiau kaip 5 darbo dienas dirba kitoje darbo vietoje, prievolė apskaityti darbuotojo darbo funkcijos atlikimą turi būti įvykdyta ne vėliau kaip praėjus savaitei nuo jos atlikimo.
+2. Prievolę įtraukti į apskaitos dokumentus šio straipsnio 1 dalyje nurodytas darbuotojo atliekamas darbo funkcijas darbdavys privalo įvykdyti iki darbo dienos darbovietėje pabaigos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
+ 
 
 
 
@@ -3462,3 +3467,8 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 35, 37, 38, 39, 39-1, 40, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2082, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07321
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 1 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 1, 35, 56, 57, 58 straipsnių pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas
