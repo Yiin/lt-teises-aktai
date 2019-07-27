@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-07-26
+Suvestinė redakcija nuo 2019-07-27 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
  
@@ -3708,6 +3708,19 @@ Nr. XIII-1819, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21839
 
 
 
+701 straipsnis. Pareigūnų sielovada 
+
+
+Pagal centrinių statutinių įstaigų vadovų susitarimus su tradicinėmis ir kitomis valstybės pripažintomis religinėmis bendruomenėmis ar bendrijomis gali būti vykdoma pareigūnų sielovada ir teikiamos su sielovada susijusios paslaugos. Šiais susitarimais nustatomos dvasininkų (kapelionų) teisės, pareigos, darbo sąlygos ir kompetencija.
+
+
+Papildyta straipsniu:
+Nr. XIII-2316, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12358
+ 
+
+
+
+
 
 
 DVYLIKTASIS SKIRSNIS
@@ -4434,3 +4447,8 @@ Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymo Nr. XIII-1381 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1822, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21844
 Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymo Nr. XIII-1381 1 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2316, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12358
+Lietuvos Respublikos vidaus tarnybos statuto papildymo 70-1 straipsniu įstatymas
