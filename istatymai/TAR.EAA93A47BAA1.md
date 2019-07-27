@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-07-26
+Suvestinė redakcija nuo 2019-07-27 iki 2019-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
  
@@ -727,11 +727,12 @@ Nr. XIII-1437, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11748
 
 
 
-8. Šio straipsnio 7 dalies 1, 2, 3, 4, 10 punktai netaikomi antrinės teisinės pagalbos teikimui administracinių nusižengimų bylose, kai antrinės teisinės pagalbos kreipiasi administracinėn atsakomybėn traukiamas asmuo, ir baudžiamosiose bylose, išskyrus prašymus dėl proceso atnaujinimo, procesinius dokumentus, kuriems paduoti įstatymų nustatytas naikinamasis terminas yra pasibaigęs. Šio straipsnio 7 dalies 1, 2, 3, 4, 10 punktai taikomi antrinės teisinės pagalbos teikimui tarptautinėse teisminėse institucijose tik tais atvejais, kai vertinama, ar kreipimasis į tarptautines institucijas atitinka nustatytus priimtinumo kriterijus. 
+8. Šio straipsnio 7 dalies 1, 2, 3, 4, 10 punktai netaikomi antrinės teisinės pagalbos teikimui administracinių nusižengimų bylose, kai antrinės teisinės pagalbos kreipiasi administracinėn atsakomybėn traukiamas asmuo, ir baudžiamosiose bylose, išskyrus prašymus dėl proceso atnaujinimo, procesinius dokumentus, kuriems paduoti įstatymų nustatytas naikinamasis terminas yra pasibaigęs. Šio straipsnio 7 dalies 11 punktas netaikomas antrinės teisinės pagalbos teikimui baudžiamosiose bylose. Šio straipsnio 7 dalies 1, 2, 3, 4, 10 punktai taikomi antrinės teisinės pagalbos teikimui tarptautinėse teisminėse institucijose tik tais atvejais, kai vertinama, ar kreipimasis į tarptautines institucijas atitinka nustatytus priimtinumo kriterijus.
 Straipsnio dalies pakeitimai:
 Nr. XII-2715, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26500
 Nr. XIII-629, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12576
 Nr. XIII-1437, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11748
+Nr. XIII-2317, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12359
  
 
 
@@ -2382,3 +2383,8 @@ Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. V
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1437, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11748
 Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 2, 11, 12, 13, 14, 15, 18, 19, 21, 22, 23, 24, 29, 30, 31, 32, 34 straipsnių ir priedo pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2317, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12359
+Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 11 straipsnio pakeitimo įstatymas
