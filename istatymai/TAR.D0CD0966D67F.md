@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-07-26
+Suvestinė redakcija nuo 2019-07-27 iki 2019-12-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -3464,17 +3464,21 @@ Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
 
 
 
-9. Seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir Valstybės tarnybos įstatymu. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant Valstybės tarnybos įstatymo 17 straipsnio 2 ir 3 dalyse numatytas garantijas arba kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, taikomus kitos formos seniūnijos vadovui. Į seniūno pareigas negali būti priimamas asmuo taikant Valstybės tarnybos įstatymo 49 straipsnio 1 dalyje numatytą garantiją. Priimant į seniūno pareigas taip pat netaikomos Valstybės tarnybos įstatymo nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių; ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos išplėstinės seniūnaičių sueigos deleguoti asmenys. 
+9. Seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir Valstybės tarnybos įstatymu. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant Valstybės tarnybos įstatymo 17 straipsnio 2 ir 3 dalyse numatytas garantijas, kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, nustatytus šio straipsnio 10 dalyje, taip pat kai kitai 5 metų kadencijai priimamas seniūnas, kurio iki tol eitos kadencijos metu visi metiniai tarnybinės veiklos vertinimai buvo geri arba labai geri. Į seniūno pareigas negali būti priimamas asmuo taikant Valstybės tarnybos įstatymo 49 straipsnio 1 dalyje numatytą garantiją. Priimant į seniūno pareigas taip pat netaikomos Valstybės tarnybos įstatymo nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių; ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos išplėstinės seniūnaičių sueigos deleguoti asmenys. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
 Nr. XIII-1064, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05882
 Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
+Nr. XIII-2321, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12360
  
 
 
 
 
-10. Kai keičiama seniūnijos forma, seniūnas turi teisę būti be konkurso paskirtas į kitos formos seniūnijos seniūno pareigas, išskyrus atvejus, kai seniūno pareigas einantis asmuo neatitinka reikalavimų, taikomų kitos formos seniūnijos vadovui.
+10. Kai keičiama seniūnijos forma, seniūnas turi teisę būti be konkurso priimtas į kitos formos seniūnijos seniūno pareigas, kai seniūno pareigas einantis asmuo atitinka reikalavimus, taikomus kitos formos seniūnijos vadovui, ir iki tol jo eitos kadencijos metu visi metiniai tarnybinės veiklos vertinimai buvo geri arba labai geri.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2321, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12360
+ 
 
 
 
@@ -5503,3 +5507,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 9, 13, 14, 15, 16 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1407, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11731
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 straipsnio pakeitimo įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2321, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12360
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 31 straipsnio pakeitimo įstatymas
