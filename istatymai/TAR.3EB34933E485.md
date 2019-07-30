@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2019-01-02 iki 2019-07-29
+Suvestinė redakcija nuo 2019-07-30 iki 2019-10-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -955,7 +955,10 @@ Nr. XIII-1390, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12060
 
 
 
-10) sprendžia abipusio susitarimo procedūrų, numatytų Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse arba Konvencijoje 90/436/ EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną, taikymo klausimus. Šią funkciją kaip centrinis mokesčių administratorius atlieka tik Valstybinė mokesčių inspekcija prie Finansų ministerijos;
+10) sprendžia dvigubo apmokestinimo ginčų sprendimo procedūrų, numatytų Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse, Lietuvos Respublikos dvigubo apmokestinimo ginčų sprendimo įstatyme, Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną arba Daugiašalėje konvencijoje, kuria įgyvendinamos su mokesčių sutartimis susijusios priemonės, skirtos užkirsti kelią mokesčių bazės erozijai ir pelno perkėlimui, ratifikuotoje Lietuvos Respublikos įstatymu „Dėl Daugiašalės konvencijos, kuria įgyvendinamos su mokesčių sutartimis susijusios priemonės, skirtos užkirsti kelią mokesčių bazės erozijai ir pelno perkėlimui, ratifikavimo“ (toliau – Daugiašalė konvencija), taikymo klausimus. Šią funkciją kaip centrinis mokesčių administratorius atlieka tik Valstybinė mokesčių inspekcija prie Finansų ministerijos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
+ 
 
 
 
@@ -2989,9 +2992,10 @@ Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
 
 
 
-9. Mokesčių administratorius, per šio straipsnio 7 dalyje nurodytą terminą negrąžinęs mokesčio permokos sumos, mokesčių mokėtojo naudai skaičiuoja palūkanas, kurių dydis lygus praėjusio kalendorinio ketvirčio aukciono būdu išleistų Lietuvos Respublikos valstybės iždo vekselių metinės palūkanų normos svertinio vidurkio dydžiui, iki ši mokesčio permoka bus mokesčių mokėtojui grąžinta. Mokesčių mokėtojo naudai palūkanos neskaičiuojamos, kai vykdoma abipusio susitarimo procedūra, numatyta Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse arba Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną. Šiuo atveju palūkanos neskaičiuojamos laikotarpiu nuo kreipimosi dėl abipusio susitarimo procedūros iki šios procedūros pabaigos, tačiau jeigu pasibaigus abipusio susitarimo procedūrai mokesčių mokėtojo prievolė sumažėja, jam proporcingai grąžinamos visos, jei jų buvo, sumokėtos ar išieškotos baudų, delspinigių ar palūkanų pagal mokestinės paskolos sutartį sumos. 
+9. Mokesčių administratorius, per šio straipsnio 7 dalyje nurodytą terminą negrąžinęs mokesčio permokos sumos, mokesčių mokėtojo naudai skaičiuoja palūkanas, kurių dydis lygus praėjusio kalendorinio ketvirčio aukciono būdu išleistų Lietuvos Respublikos valstybės iždo vekselių metinės palūkanų normos svertinio vidurkio dydžiui, iki ši mokesčio permoka bus mokesčių mokėtojui grąžinta. Mokesčių mokėtojo naudai palūkanos neskaičiuojamos, kai vykdomos dvigubo apmokestinimo ginčų sprendimo procedūros, numatytos Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse, Dvigubo apmokestinimo ginčų sprendimo įstatyme, Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną arba Daugiašalėje konvencijoje. Šiuo atveju palūkanos neskaičiuojamos laikotarpiu nuo kreipimosi dėl dvigubo apmokestinimo ginčų sprendimo procedūrų iki šių procedūrų pabaigos, tačiau jeigu pasibaigus dvigubo apmokestinimo ginčų sprendimo procedūroms mokesčių mokėtojo prievolė sumažėja, jam proporcingai grąžinamos visos, jei jų buvo, sumokėtos ar išieškotos baudų, delspinigių ar palūkanų pagal mokestinės paskolos sutartį sumos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
+Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
  
 
 
@@ -3015,10 +3019,10 @@ Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
 
 
 
-13. Jei atitinkamame mokesčio įstatyme nenustatyta kitaip, mokesčio permoka gali būti grąžinta (įskaityta), jeigu ji susidarė ne anksčiau kaip per atitinkamą šio Įstatymo 68 straipsnyje nurodytą mokesčių apskaičiavimo ar perskaičiavimo terminą, – skaičiuojama atgal nuo įskaitymo dienos, kai įskaitymas atliekamas mokesčių administratoriaus iniciatyva be atskiro mokesčių mokėtojo prašymo, o kai yra mokesčių mokėtojo prašymas, – skaičiuojama atgal nuo šio prašymo pateikimo dienos. Jei iki prašymo pateikimo mokesčių mokėtojas atlieka veiksmą, liudijantį tai, kad jis žino apie mokesčio permokos buvimą ir siekia ją susigrąžinti (įskaityti), minėtas terminas skaičiuojamas nuo to veiksmo atlikimo dienos. Šiuo atveju mokesčių mokėtojas prie prašymo grąžinti (įskaityti) mokesčio permoką privalo pateikti mokesčių administratoriui minėto veiksmo atlikimą pagrindžiančius įrodymus. Į paminėtą terminą neįskaičiuojami kalendoriniai metai, kuriais dėl grąžintinų (įskaitytinų) sumų vyko mokestiniai arba teisminiai ginčai arba buvo taikoma abipusio susitarimo procedūra, numatyta Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse arba Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną. 
-TAR pastaba. 87 straipsnio nuostatos, kiek jos susijusios su mokesčių mokėtojo naudai mokėtinų palūkanų dydžiu, yra taikomos tokia tvarka: iki įstatymo Nr. XIII-1329 įsigaliojimo turėta mokesčių mokėtojo teisė į palūkanas užtikrinama mokant jam palūkanas, kurių dydis lygus delspinigių už ne laiku sumokėtą mokestį dydžiui, iki ši mokesčio permoka bus mokesčių mokėtojui grąžinta; jeigu mokesčių mokėtojo teisė į palūkanas išlieka ir po šio įstatymo įsigaliojimo, mokesčių mokėtojo teisė į palūkanas, turima nuo 2019 m. sausio 1 d., užtikrinama mokant jam palūkanas, kurių dydis lygus praėjusio kalendorinio ketvirčio aukciono būdu išleistų Lietuvos Respublikos valstybės iždo vekselių metinės palūkanų normos svertinio vidurkio dydžiui, iki ši mokesčio permoka bus mokesčių mokėtojui grąžinta.
+13. Jei atitinkamame mokesčio įstatyme nenustatyta kitaip, mokesčio permoka gali būti grąžinta (įskaityta), jeigu ji susidarė ne anksčiau kaip per atitinkamą šio Įstatymo 68 straipsnyje nurodytą mokesčių apskaičiavimo ar perskaičiavimo terminą, – skaičiuojama atgal nuo įskaitymo dienos, kai įskaitymas atliekamas mokesčių administratoriaus iniciatyva be atskiro mokesčių mokėtojo prašymo, o kai yra mokesčių mokėtojo prašymas, – skaičiuojama atgal nuo šio prašymo pateikimo dienos. Jei iki prašymo pateikimo mokesčių mokėtojas atlieka veiksmą, liudijantį tai, kad jis žino apie mokesčio permokos buvimą ir siekia ją susigrąžinti (įskaityti), minėtas terminas skaičiuojamas nuo to veiksmo atlikimo dienos. Šiuo atveju mokesčių mokėtojas prie prašymo grąžinti (įskaityti) mokesčio permoką privalo pateikti mokesčių administratoriui minėto veiksmo atlikimą pagrindžiančius įrodymus. Į paminėtą terminą neįskaičiuojami kalendoriniai metai, kuriais dėl grąžintinų (įskaitytinų) sumų vyko mokestiniai arba teisminiai ginčai arba buvo taikomos dvigubo apmokestinimo ginčų sprendimo procedūros, numatytos Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse, Dvigubo apmokestinimo ginčų sprendimo įstatyme, Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną arba Daugiašalėje konvencijoje. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
+Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
  
 
 
@@ -3914,7 +3918,10 @@ Nr. XII-602, 2013-11-19, Žin., 2013, Nr. 124-6281 (2013-12-05)
 
 
 
-3) priimamas sprendimas sustabdyti arba netaikyti mokestinės nepriemokos priverstinio išieškojimo pradėjus taikyti abipusio susitarimo procedūrą, numatytą Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse arba Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną;
+3) priimamas sprendimas sustabdyti arba netaikyti mokestinės nepriemokos priverstinio išieškojimo pradėjus taikyti dvigubo apmokestinimo ginčų sprendimo procedūras, numatytas Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse, Dvigubo apmokestinimo ginčų sprendimo įstatyme, Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną arba Daugiašalėje konvencijoje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
+ 
 
 
 
@@ -3939,7 +3946,10 @@ Nr. XII-602, 2013-11-19, Žin., 2013, Nr. 124-6281 (2013-12-05)
 
 
 
-3) šio straipsnio 1 dalies 3 punkte nurodytu atveju – nuo nurodytos abipusio susitarimo procedūros užbaigimo dienos;
+3) šio straipsnio 1 dalies 3 punkte nurodytu atveju – nuo nurodytų dvigubo apmokestinimo ginčų sprendimo procedūrų užbaigimo dienos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
+ 
 
 
 
@@ -4224,7 +4234,10 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 
 
-2) atliekant mokesčių mokėtojo patikrinimą pagal užsienio valstybės mokesčių administracijos (kompetentingos institucijos) kreipimąsi arba su minėta institucija atliekant bendrą patikrinimą; atliekant mokestinį patikrinimą dėl abipusio susitarimo procedūros, numatytos Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse arba Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną, taikymo;
+2) atliekant mokesčių mokėtojo patikrinimą pagal užsienio valstybės mokesčių administracijos (kompetentingos institucijos) kreipimąsi arba su minėta institucija atliekant bendrą patikrinimą; atliekant mokestinį patikrinimą dėl dvigubo apmokestinimo ginčų sprendimo procedūrų, numatytų Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse, Dvigubo apmokestinimo ginčų sprendimo įstatyme, Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną arba Daugiašalėje konvencijoje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
+ 
 
 
 
@@ -5194,7 +5207,9 @@ Mokesčių mokėtojas turi teisę apskųsti bet kurį mokesčių administratoria
 
 
 
-3. Mokestiniai ginčai nepradedami nagrinėti, jei dėl ginčijamų sumų yra pradėta abipusio susitarimo procedūra, numatyta Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse arba Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną.
+3. Mokestiniai ginčai nepradedami nagrinėti, jei dėl ginčijamų sumų yra pradėtos dvigubo apmokestinimo ginčų sprendimo procedūros, numatytos Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse, Dvigubo apmokestinimo ginčų sprendimo įstatyme, Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną arba Daugiašalėje konvencijoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
  
 
 
@@ -5303,6 +5318,14 @@ Nr. XIII-1156, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08528
 
 
 8. Komisijos funkcijoms atlikti sudaroma valstybės tarnautojų ir darbuotojų administracija. Jos struktūrą ir pareigybių sąrašą, neviršydamas lėšų, patvirtintų darbo užmokesčiui, tvirtina Komisijos pirmininkas. Komisijos valstybės tarnautojų priėmimo į pareigas ir darbuotojų, dirbančių pagal darbo sutartis, priėmimo į darbą tvarką, darbo užmokesčio jiems mokėjimo tvarką ir sąlygas nustato Valstybės tarnybos įstatymas, Darbo kodeksas, kiti įstatymai ir teisės aktai.
+
+
+
+
+9. Komisijos nariams kasmetinės atostogos suteikiamos Valstybės tarnybos įstatymo nustatyta tvarka 
+Papildyta straipsnio dalimi:
+Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
+ 
 
 
  Straipsnio pakeitimai:
@@ -5608,7 +5631,9 @@ Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
 
 
 
-2. Skundo nagrinėjimas mokestiniame ginče taip pat sustabdomas, jei dėl ginčijamų sumų pradedama abipusio susitarimo procedūra, numatyta Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse arba Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną. Nagrinėjimas sustabdomas iki nurodytų procedūrų užbaigimo.
+2. Skundo nagrinėjimas mokestiniame ginče taip pat sustabdomas, jei dėl ginčijamų sumų pradedamos dvigubo apmokestinimo ginčų sprendimo procedūros, numatytos Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse, Dvigubo apmokestinimo ginčų sprendimo įstatyme, Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną arba Daugiašalėje konvencijoje. Nagrinėjimas sustabdomas iki šioje dalyje nurodytų procedūrų užbaigimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
  
 
 
@@ -5630,10 +5655,17 @@ Ikiteisminė mokestinį ginčą nagrinėjanti institucija priimtą sprendimą d�
 158 straipsnis. Sprendimo dėl mokestinio ginčo privalomumas
 
 
-Praėjus šiame Įstatyme nustatytiems sprendimo dėl mokestinio ginčo apskundimo terminams, centrinio mokesčių administratoriaus ar Mokestinių ginčų komisijos priimtą sprendimą privalo vykdyti ginčo šalys, taip pat su ginču susiję tretieji asmenys.
+1. Praėjus šiame Įstatyme nustatytiems sprendimo dėl mokestinio ginčo apskundimo terminams, centrinio mokesčių administratoriaus ar Mokestinių ginčų komisijos priimtą sprendimą privalo vykdyti ginčo šalys, taip pat su ginču susiję tretieji asmenys.
+
+
+
+
+2. Šio straipsnio 1 dalies nuostatos dėl centrinio mokesčių administratoriaus sprendimo vykdymo privalomumo netaikomos, kai pradedamos dvigubo apmokestinimo ginčų sprendimo procedūros, numatytos Dvigubo apmokestinimo ginčų sprendimo įstatyme. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
  
-
-
 
 
 
@@ -6279,12 +6311,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 LAIKINAI EINANTIS 
 RESPUBLIKOS PREZIDENTO PAREIGAS                                 ARTŪRAS PAULAUSKAS 
+ 
 
 
 
 
 
 
+ 
 Lietuvos Respublikos
 mokesčių administravimo įstatymo 
 priedas
@@ -6298,12 +6332,23 @@ priedas
 
 
 
-2. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB (OL 2011 L 64, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 6 d. Tarybos direktyva (ES) 2016/2258 (OL 2016 L 324, p. 1).
+2. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB (OL 2011 L 64, p. 1) su paskutiniais pakeitimais, padarytais 2018 m. gegužės 25 d. Tarybos direktyva (ES) 2018/822 (OL 2018 L 139, p. 1). 
+Punkto pakeitimai:
+Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
+ 
 
 
 
 
 3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ir teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlameno ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB (OL 2015 L 141, p. 73).
+
+
+
+
+4. 2017 m. spalio 10 d. Tarybos direktyva (ES) 2017/1852 dėl mokestinių ginčų sprendimo mechanizmų Europos Sąjungoje (OL 2017 L 265, p. 1). 
+Papildyta punktu:
+Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
+ 
 
 
 Priedo pakeitimai:
@@ -6524,3 +6569,8 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 33 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1390, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12060
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 23 ir 24 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 25, 40-1, 87, 108, 118, 145, 148, 156, 158 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 61-2 straipsniu įstatymas
