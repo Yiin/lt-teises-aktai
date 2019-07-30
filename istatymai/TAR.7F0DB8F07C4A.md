@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/7f0db8f07c4a11e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 38, 68, 87, 100, 132, 139, 140 straipsnių pakeitimo ir Įstatymo papildymo 40-1 straipsniu įstatymas
 
+Suvestinė redakcija nuo 2019-07-30
+ 
+Įstatymas paskelbtas: TAR 2018-06-30, i. k. 2018-10972
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO NR. IX-2112 2, 38, 68, 87, 100, 132, 139, 140 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 401 STRAIPSNIU
 ĮSTATYMAS
@@ -199,18 +206,20 @@ Pakeisti 68 straipsnį ir jį išdėstyti taip:
 
 
 
-2) kai vykdoma abipusio susitarimo procedūra, numatyta Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse arba Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną, taip pat kai mokesčių administratorius apskaičiuoja arba perskaičiuoja mokestį. Šiuo atveju apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu šio straipsnio 1 dalyje numatytas terminas galima tik tiek, kiek tai susiję su šiame punkte nurodytąja aplinkybe.“
+2) kai vykdomos dvigubo apmokestinimo ginčų sprendimo procedūros, numatytos Lietuvos Respublikos sudarytose ir taikomose dvigubo apmokestinimo išvengimo sutartyse, Lietuvos Respublikos dvigubo apmokestinimo ginčų sprendimo įstatyme, Konvencijoje 90/436/EEB dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną arba Daugiašalėje konvencijoje, taip pat kai mokesčių administratorius apskaičiuoja arba perskaičiuoja mokestį. Šiuo atveju apskaičiuoti ar perskaičiuoti mokestį už ilgesnį negu šio straipsnio 1 dalyje numatytas terminas galima tik tiek, kiek tai susiję su šiame punkte nurodytąja aplinkybe.“
+
+
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2353, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12443
  
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -688,3 +697,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2353, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12443
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 38, 68, 87, 100, 132, 139, 140 straipsnių pakeitimo ir Įstatymo papildymo 40-1 straipsniu įstatymo Nr. XIII-1329 4 straipsnio pakeitimo įstatymas
