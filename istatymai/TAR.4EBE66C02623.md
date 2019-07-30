@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2019-07-06 iki 2019-07-29
+Suvestinė redakcija nuo 2019-07-30 iki 2019-08-02
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -5443,6 +5443,27 @@ Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 
 
 
+1881 straipsnis. Informacijos apie praneštinus tarpvalstybinius susitarimus pateikimo mokesčių administratoriui tvarkos pažeidimas
+
+
+1. Informacijos apie praneštinus tarpvalstybinius susitarimus pateikimo mokesčių administratoriui tvarkos pažeidimas
+užtraukia baudą nuo vieno tūkstančio aštuonių šimtų dvidešimt iki penkių tūkstančių penkių šimtų devyniasdešimt eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo trijų tūkstančių septynių šimtų septyniasdešimt iki šešių tūkstančių eurų.
+TAR pastaba. Kodekso papildymas 1881  straipsniu įsigalioja 2020-07-01.
+
+
+Papildyta straipsniu:
+Nr. XIII-2354, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12444
+ 
+
+
+
+
 189 straipsnis. Registravimosi mokesčių mokėtoju tvarkos pažeidimas
 
 
@@ -5463,15 +5484,16 @@ Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 
 
 
-190 straipsnis. Neteisėtas informacijos apie mokesčių mokėtoją paskleidimas
+190 straipsnis. Neteisėtas informacijos apie mokesčių mokėtoją arba informacijos, gaunamos įgyvendinant Lietuvos Respublikos dvigubo apmokestinimo ginčų sprendimo įstatymą, paskleidimas
 
 
-Neteisėtas informacijos apie mokesčių mokėtoją paskleidimas
-užtraukia baudą nuo trijų šimtų devyniasdešimt iki vieno tūkstančio aštuonių šimtų devyniasdešimt eurų.
+Neteisėtas informacijos apie mokesčių mokėtoją arba informacijos, gaunamos įgyvendinant Lietuvos Respublikos dvigubo apmokestinimo ginčų sprendimo įstatymą, paskleidimas 
+užtraukia baudą nuo trijų šimtų devyniasdešimt iki vieno tūkstančio aštuonių šimtų  devyniasdešimt eurų.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
+Nr. XIII-2354, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12444
  
 
 
@@ -23420,3 +23442,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 541, 542 ir 589 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2251, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11170
 Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 119-1 straipsniu ir 590, 614 straipsnių ir priedo pakeitimo įstatymas
+ 
+81.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2354, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12444
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 188-1 straipsniu ir 190, 589 straipsnių pakeitimo įstatymas
