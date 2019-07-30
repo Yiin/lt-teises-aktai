@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-07-29
+Suvestinė redakcija nuo 2019-07-30 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -69,7 +69,18 @@ Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
 
 
 
-4) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje. 
+4) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje; 
+
+
+
+
+5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“. 
+TAR pastaba. 3 dalis papildoma 5 punktu nuo 2019-09-01.
+5 punkto redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
+5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, suteikiantys teisę gyventi Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“.
+Papildyta straipsnio punktu:
+Nr. XIII-2346, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12437
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -1251,3 +1262,8 @@ Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 2, 6, 7, 8, 23 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1734, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20996
 Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 4, 7, 15, 16, 24 straipsnių pakeitimo ir 17, 18 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-882 4 ir 8 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2346, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12437
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1 straipsnio pakeitimo įstatymas
