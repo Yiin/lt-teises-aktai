@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-07-31
+Suvestinė redakcija nuo 2019-08-01 iki 2019-11-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
  
@@ -274,9 +274,19 @@ Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
 
 
 
-191. Valstybinis duomenų centras – valstybės biudžetinės įstaigos patikėjimo teise valdomose patalpose įrengtas ir valstybės biudžetinės įstaigos eksploatuojamas duomenų centras, įrašytas į valstybinių duomenų centrų sąrašą. 
+191. Valstybės ir savivaldybių institucijos ir įstaigos – atstovaujamosios, valstybės vadovo, vykdomosios, teisminės valdžios institucijos, teisėsaugos institucijos ir įstaigos, auditą, kontrolę (priežiūrą) atliekančios institucijos ir įstaigos, kitos valstybės ir savivaldybių institucijos ir įstaigos, kurios finansuojamos iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų ir kurioms Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka yra suteikti viešojo administravimo įgaliojimai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2280, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12171
+ 
+
+
+
+
+192. Valstybinis duomenų centras – valstybės biudžetinės įstaigos patikėjimo teise valdomose patalpose įrengtas ir valstybės biudžetinės įstaigos eksploatuojamas duomenų centras, įrašytas į valstybinių duomenų centrų sąrašą. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1871, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00094
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2280, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12171
  
 
 
@@ -1719,18 +1729,20 @@ Nr. XIII-848, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20329
 
 
 
-4. Sąnaudos, kurias registro tvarkytojas patyrė dėl išrašų, pažymų ir kitų dokumentų, dokumentų kopijų ir (arba) informacijos rengimo, teikimo ir perdavimo susijusiems registrams, valstybės informacinėms sistemoms, valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti, už kuriuos iš kitų subjektų imamas atlyginimas, finansuojamos iš šiam registro tvarkytojui skiriamų valstybės biudžeto lėšų. Vyriausybės nustatyta tvarka registro tvarkytojas per 2 mėnesius nuo kalendorinių metų pabaigos Vyriausybės įgaliotai institucijai pateikia auditoriaus arba audito įmonės patikrintus duomenis apie per ataskaitinį laikotarpį patirtas sąnaudas, apskaičiuotas remiantis Vyriausybės nustatyta tvarka apskaičiuotais ir patvirtintais atlyginimo už duomenų teikimą dydžiais. Vyriausybės įgaliota institucija per 30 darbo dienų nuo registro tvarkytojo pateiktų duomenų apie patirtas sąnaudas kartu su auditoriaus patikrinimo ataskaita gavimo dienos įvertina registro tvarkytojo nurodytų neatlygintino duomenų teikimo sąnaudų, kurias prašoma atlyginti iš valstybės biudžeto lėšų, dydžio pagrįstumą ir pateikia išvadą registro tvarkytojui. Registro tvarkytojo sąnaudos, nurodytos šiame punkte, patikrinamos auditoriaus ar audito įmonės registro tvarkytojo lėšomis. Jeigu Vyriausybės įgaliota institucija nustato, kad registro tvarkytojo pateiktas vertinti sąnaudų dydis yra nepagrįstas, registro tvarkytojas privalo per 10 darbo dienų pateikti patikslintą informaciją. Nepatikslinus informacijos, kompensuojamas tik tinkamai apskaičiuotas ir pagrįstas sąnaudų dydis. 
+4. Sąnaudos, kurias registro tvarkytojas patyrė dėl išrašų, pažymų ir kitų dokumentų, dokumentų kopijų ir (arba) informacijos rengimo, teikimo ir perdavimo susijusiems registrams, valstybės informacinėms sistemoms, valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti, už kuriuos iš kitų subjektų imamas atlyginimas (toliau – neatlygintino duomenų teikimo sąnaudos), finansuojamos iš šiam registro tvarkytojui skiriamų valstybės biudžeto lėšų. Vyriausybės nustatyta tvarka valstybės biudžeto lėšos registro tvarkytojui jo prašymu gali būti išmokamos vieną kartą, kompensuojant visas per praėjusius kalendorinius metus patirtas neatlygintino duomenų teikimo sąnaudas, arba dalimis, kompensuojant dalį per einamuosius metus patirtų neatlygintino duomenų teikimo sąnaudų, o likusią jų dalį kompensuojant tik šioje dalyje nustatyta tvarka patikrinus visų per praėjusius kalendorinius metus registro tvarkytojo patirtų neatlygintino duomenų teikimo sąnaudų pagrįstumą. Vyriausybės nustatyta tvarka registro tvarkytojas per 2 mėnesius nuo kalendorinių metų pabaigos Vyriausybės įgaliotai institucijai pateikia auditoriaus arba audito įmonės patikrintus duomenis apie per praėjusius kalendorinius metus patirtas neatlygintino duomenų teikimo sąnaudas, apskaičiuotas remiantis Vyriausybės nustatyta tvarka apskaičiuotais ir patvirtintais atlyginimo už duomenų teikimą dydžiais. Vyriausybės įgaliota institucija per 30 darbo dienų nuo registro tvarkytojo pateiktų duomenų apie patirtas neatlygintino duomenų teikimo sąnaudas kartu su auditoriaus patikrinimo ataskaita gavimo dienos įvertina registro tvarkytojo nurodytų neatlygintino duomenų teikimo sąnaudų, kurias prašoma atlyginti iš valstybės biudžeto lėšų, pagrįstumą ir pateikia išvadą registro tvarkytojui. Šioje dalyje nurodytos registro tvarkytojo neatlygintino duomenų teikimo sąnaudos patikrinamos auditoriaus ar audito įmonės registro tvarkytojo lėšomis. Jeigu Vyriausybės įgaliota institucija nustato, kad registro tvarkytojo pateiktos vertinti neatlygintino duomenų teikimo sąnaudos yra nepagrįstos, registro tvarkytojas privalo per 10 darbo dienų pateikti patikslintą informaciją. Nepatikslinus informacijos, kompensuojamos tik tinkamai apskaičiuotos ir pagrįstos sąnaudos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-848, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20329
+Nr. XIII-2280, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12171
  
 
 
 
 
-5. Atlyginimo už registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų teikimą dydis apskaičiuojamas ir mokamas Vyriausybės nustatyta tvarka. Vyriausybės patvirtintame apraše taip pat nustatomos išlaidų kategorijos, priskiriamos sąnaudoms, kurias galima įtraukti apskaičiuojant atlyginimo dydį (registro, informacinės sistemos amortizacijos, priežiūros, administravimo, darbo užmokesčio ir kitos Vyriausybės nustatytos išlaidos). Registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų teikimo sąnaudos turi būti registro tvarkytojo lėšomis patikrintos auditoriaus ar audito įmonės. Vyriausybės įgaliota institucija vertina, ar atlyginimo už registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų teikimą dydžiai apskaičiuoti Vyriausybės nustatyta tvarka, ir teikia išvadą registro tvarkytojui. 
+5. Atlyginimo už registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų teikimą dydis apskaičiuojamas ir mokamas Vyriausybės nustatyta tvarka. Vyriausybės patvirtintame apraše nustatomos išlaidų kategorijos, priskiriamos sąnaudoms, kurias galima įtraukti apskaičiuojant atlyginimo dydį (registro, informacinės sistemos amortizacijos, priežiūros, administravimo, darbo užmokesčio ir kitos Vyriausybės nustatytos išlaidos). Registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų teikimo sąnaudos, patirtos per praėjusius kalendorinius metus, turi būti registro tvarkytojo lėšomis patikrintos auditoriaus ar audito įmonės. Vyriausybės įgaliota institucija vertina, ar atlyginimo už registro duomenų, registro informacijos, registrui pateiktų dokumentų ir (arba) jų kopijų teikimą dydžiai apskaičiuoti Vyriausybės nustatyta tvarka, ir teikia išvadą registro tvarkytojui. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
 Nr. XIII-848, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20329
+Nr. XIII-2280, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12171
  
 
 
@@ -2783,3 +2795,8 @@ Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. X
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1871, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00094
 Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 1, 2, 5, 6, 43 straipsnių pakeitimo ir Įstatymo papildymo 43-2, 43-3 straipsniais įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2280, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12171
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 2 ir 29 straipsnių pakeitimo įstatymas
