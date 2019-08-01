@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2019-05-07 iki 2019-07-31
+Suvestinė redakcija nuo 2019-08-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -688,8 +688,11 @@ Mokslo ir studijų institucijos yra dviejų grupių: aukštosios mokyklos ir mok
 
 
 
-7. Sutarčių su aukštosiomis mokyklomis vykdymo stebėseną atlieka Mokslo ir studijų stebėsenos ir analizės centras. 
+7. Sutarčių su aukštosiomis mokyklomis vykdymo stebėseną atlieka Vyriausybės strateginės analizės centras.
 TAR pastaba. 9 straipsnio 1, 3, 4, 5, 6 ir 7 dalys įsigalioja 2019 m. rugsėjo 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2367, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12448
+ 
 
 
 Straipsnio pakeitimai:
@@ -914,7 +917,10 @@ MOKSLO IR STUDIJŲ POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 
 
 
-2. Valstybės mokslo ir studijų politiką pagal šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją įgyvendina Lietuvos mokslo taryba, Lietuvos mokslų akademija, Technologijų ir inovacijų įstatymo 14 straipsnyje nurodyta Vyriausybės įgaliota institucija, Mokslo ir studijų stebėsenos ir analizės centras, Valstybinis studijų fondas, Aukštojo mokslo taryba, Studijų kokybės vertinimo centras, akademinės etikos ir procedūrų kontrolierius, Vyriausybės ir švietimo ir mokslo ministro įgaliotos institucijos, mokslo ir studijų institucijos.
+2. Valstybės mokslo ir studijų politiką pagal šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją įgyvendina Lietuvos mokslo taryba, Lietuvos mokslų akademija, Technologijų ir inovacijų įstatymo 14 straipsnyje nurodyta Vyriausybės įgaliota institucija, Valstybinis studijų fondas, Aukštojo mokslo taryba, Studijų kokybės vertinimo centras, akademinės etikos ir procedūrų kontrolierius, Vyriausybės ir švietimo ir mokslo ministro įgaliotos institucijos, mokslo ir studijų institucijos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2367, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12448
+ 
 
 
 
@@ -1281,99 +1287,35 @@ Nr. XIII-891, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21317
 
 
 
-21 straipsnis. Mokslo ir studijų stebėsenos ir analizės centras
+21 straipsnis. Vyriausybės strateginės analizės centras
 
 
-1. Mokslo ir studijų stebėsenos ir analizės centras (toliau šiame straipsnyje – Įstaiga) yra pelno nesiekiantis ribotos civilinės atsakomybės viešasis juridinis asmuo, veikiantis kaip viešoji įstaiga, kurios steigėja ir savininkė yra valstybė, o savininkės teises ir pareigas įgyvendina Vyriausybė arba jos įgaliota institucija.
+Šio įstatymo reguliavimo srityje Vyriausybės strateginės analizės centras:
 
 
+1) vykdo mokslo ir studijų sistemos stebėseną;
 
 
-2. Įstaiga veikia pagal savo įstatus, kuriuos tvirtina Vyriausybė. 
 
 
+2) rengia mokslo ir studijų sričių būklės analizes ir teikia išvadas dėl mokslo ir studijų sistemos tobulinimo;
 
 
-3. Įstaiga yra ekspertinė institucija, teikianti įrodymais grįstą informaciją ir rekomendacijas dėl visuomenei aktualių mokslo, studijų ir inovacijų politikos formavimo ir įgyvendinimo sprendimų priėmimo. Įstaiga:
 
 
-1) vykdo mokslo, studijų ir inovacijų stebėseną ir vertinimą, atsižvelgdama į valstybės, visuomenės ir ūkio poreikius;
+3) rengia analitinę informaciją apie specialistų rengimą mokslo ir studijų institucijose, prognozuoja aukštojo mokslo kvalifikacijų poreikį;
 
 
 
 
-2) teikia rekomendacijas Seimui ir Vyriausybei dėl mokslo, studijų ir inovacijų politikos tobulinimo, siekiant didinti mokslo, studijų ir inovacijų efektyvumą bei skatinti inovatyvios ekonomikos augimą;
+4) vertina mokslo ir studijų sistemos tendencijas, identifikuoja svarbiausius spręstinus nacionalinio lygio iššūkius, rengia strategines įžvalgas.
 
 
-
-
-3) rengia mokslo, studijų ir inovacijų politikos strategines įžvalgas;
-
-
-
-
-4) rengia mokslo, studijų ir inovacijų politikai formuoti ir įgyvendinti reikalingą įrodymais grįstą informaciją, įtraukdama mokslo, studijų ir inovacijų sistemos suinteresuotąsias šalis, ir ją viešai skelbia;
-
-
-
-
-5) atlieka mokslo, studijų ir inovacijų politikos įgyvendinimo analizę ir teikia tobulinimo rekomendacijas;
-
-
-
-
-6) teikia pasiūlymus dėl tarpinstitucinės ir tarpžinybinės veiklos suderinamumo mokslo, studijų ir inovacijų politikos srityse;
-
-
-
-
-7) rengia ir viešai skelbia savo veiklos metines ataskaitas;
-
-
-
-
-8) renka duomenis, apdoroja, apibendrina, analizuoja ir skelbia statistinę informaciją, susijusią su mokslo, studijų ir inovacijų politika;
-
-
-
-
-9) atlieka kitas funkcijas, numatytas Profesinio mokymo įstatyme, Lietuvos Respublikos užimtumo įstatyme, Technologijų ir inovacijų įstatyme ir kituose teisės aktuose.
-
-
-
-
-
-
-4. Įstaigos kolegialus patariamasis organas yra taryba, tarybos tikslas – patarti įstaigos direktoriui. Taryba veikia visuomeniniais pagrindais. Įstaigos tarybą sudaro 7 nariai: vieną narį skiria Seimo Švietimo ir mokslo komitetas, 3 narius – Vyriausybė, vieną – Lietuvos pramonininkų konfederacija, vieną – Lietuvos universitetų rektorių konferencija (konferencijos), vieną – Lietuvos kolegijų direktorių konferencija (konferencijos). Taryba sudaroma 5 metams, o tarybos kadencija pradedama skaičiuoti nuo tada, kai savininko teises ir pareigas įgyvendinanti institucija paskelbia tarybos sudėtį.
-
-
-
-
-5. Taryba veikia pagal įstaigos įstatus. Taryba tvirtina savo darbo reglamentą. 
-
-
-
-
-6. Įstaigos vienasmenis valdymo organas yra direktorius. Direktorių 5 metų kadencijai viešo konkurso būdu renka ir jį atšaukia, darbo sutarties sąlygas, reikalavimus, kuriuos turi atitikti asmuo, priimamas į direktoriaus pareigas, nustato savininko teises ir pareigas įgyvendinanti institucija. 
-
-
-
-
-7. Įstaigos lėšas sudaro valstybės biudžeto asignavimai, pajamos už suteiktas paslaugas, lėšos, gautos kaip parama, ir kitos teisėtai gautos lėšos.
-
-
-
-
-8. Įstaiga turi teisę gauti visą reikalingą informaciją iš valstybės ir savivaldybių įstaigų, įmonių ir organizacijų, valstybės registrų ir informacinių sistemų įstaigos funkcijoms atlikti.
-
-
-
-
-9. Įstaiga gali būti organizacijų, veikiančių su įstaigos veikla susijusiose srityse, narė. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1415, 2018-06-30, paskelbta TAR 2018-07-13, i. k. 2018-11960
+Nr. XIII-2367, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12448
  
 
 
@@ -5162,3 +5104,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 80 ir 82 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2089, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07326
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 77 straipsnio pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2367, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12448
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 9, 14 ir 21 straipsnių pakeitimo įstatymas
