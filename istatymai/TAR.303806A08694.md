@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/303806a0869411e8af589337bf1eb893"
 
 # Lietuvos Respublikos technologijų ir inovacijų įstatymas
 
+Suvestinė redakcija nuo 2019-08-01 iki 2020-07-10
+ 
+Įstatymas paskelbtas: TAR 2018-07-13, i. k. 2018-11954
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 TECHNOLOGIJŲ IR INOVACIJŲ
 ĮSTATYMAS
@@ -297,23 +304,25 @@ Mokslo, Technologijų ir inovacijų politiką formuojančios institucijos
  
 
 
-9 straipsnis. Mokslo, technologijų ir inovacijų srities politiką formuojančios institucijos
+9 straipsnis. Mokslo, technologijų ir inovacijų sričių politiką formuojančios institucijos
 
 
-1. Valstybės mokslo politiką formuoja Mokslų ir studijų įstatyme nurodytos mokslo ir studijų politiką formuojančios institucijos. Šio straipsnio 2 dalyje nurodyta ministerija inicijuoja valstybės mokslo politiką formuojančius sprendimus.
-
-
-
-
-2. Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją formuoja Lietuvos Respublikos ūkio ministerija (toliau – valstybės technologijų ir inovacijų politiką formuojanti ministerija).
+1. Valstybės mokslo politiką formuoja Mokslo ir studijų įstatyme nurodytos mokslo ir studijų politiką formuojančios institucijos. Šio straipsnio 2 dalyje nurodyta ministerija inicijuoja valstybės mokslo politikos formavimo sprendimus.
 
 
 
 
-3. Šio straipsnio 2 dalyje nenurodytos ministerijos politikos formavimo sprendimus valstybės technologijų ir inovacijų srityje priima suderinusios su valstybės technologijų ir inovacijų politiką formuojančia ministerija.
+2. Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstatymuose bei kituose teisės aktuose nustatytą kompetenciją formuoja Lietuvos Respublikos ekonomikos ir inovacijų ministerija (toliau – valstybės technologijų ir inovacijų politiką formuojanti ministerija).
+
+
+
+
+3. Šio straipsnio 2 dalyje nenurodytos ministerijos politikos formavimo sprendimus valstybės technologijų ir inovacijų srityse priima suderinusios su valstybės technologijų ir inovacijų politiką formuojančia ministerija.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
  
-
-
 
 
 
@@ -329,22 +338,22 @@ Mokslo, Technologijų ir inovacijų politiką formuojančios institucijos
 2. Taryba:
 
 
-1) rengia mokslo, technologijų ir inovacijų srities įžvalgas, vizijas ir planus, teikia Vyriausybei pasiūlymus dėl mokslo, technologijų ir inovacijų srities nacionalinio lygmens prioritetų, krypčių ir gairių nustatymo;
+1) rengia mokslo, technologijų ir inovacijų sričių įžvalgas, vizijas ir planus, teikia Vyriausybei pasiūlymus dėl mokslo, technologijų ir inovacijų sričių nacionalinio lygmens prioritetų, krypčių ir gairių nustatymo;
 
 
 
 
-2) teikdama atitinkamus pasiūlymus Vyriausybei, užtikrina nuolatinį mokslo, technologijų ir inovacijų sistemos struktūros ir pagrindinių charakteristikų tobulinimą;
+2) teikdama pasiūlymus Vyriausybei, užtikrina nuolatinį mokslo, technologijų ir inovacijų sistemos struktūros ir pagrindinių charakteristikų tobulinimą;
 
 
 
 
-3) teikia siūlymus Vyriausybei dėl mokslo, technologijų ir inovacijų politikos įgyvendinimo koordinavimo ir mokslo, technologijų ir inovacijų sistemos strateginio valdymo;
+3) teikia pasiūlymus Vyriausybei dėl mokslo, technologijų ir inovacijų politikos įgyvendinimo koordinavimo ir mokslo, technologijų ir inovacijų sistemos strateginio valdymo;
 
 
 
 
-4) teikia pasiūlymus Vyriausybei dėl atskirų sričių, sektorių arba šakų iniciatyvų mokslo, technologijų ir inovacijų integravimo į bendrą valstybės mokslo, technologijų ir inovacijų politiką, siekdama spręsti mokslo, technologijų ir inovacijų sistemoje kylančias problemas ir įgyvendinti pageidaujamus socialinius tikslus;
+4) siekdama spręsti mokslo, technologijų ir inovacijų sistemoje kylančias problemas ir įgyvendinti pageidaujamus socialinius tikslus, teikia pasiūlymus Vyriausybei dėl atskirų sričių, sektorių arba šakų iniciatyvų mokslo, technologijų ir inovacijų integravimo į bendrą valstybės mokslo, technologijų ir inovacijų politiką;
 
 
 
@@ -366,15 +375,20 @@ Mokslo, Technologijų ir inovacijų politiką formuojančios institucijos
 
 
 
-3. Taryba veikia Tarybos darbo reglamento nustatyta tvarka. Tarybos darbo reglamentą tvirtina Vyriausybė. Tarybą sudaro Vyriausybė. Tarybai pirmininkauja Ministras Pirmininkas. Į Tarybos sudėtį turi būti įtraukiami valstybės technologijų ir inovacijų politiką formuojančios ministerijos ministras ir švietimo ir mokslo ministras, kurie yra Tarybos pirmininko pavaduotojai, ministerijų, kurioms pavesta įgyvendinti sumanios specializacijos kryptis, ministrai ir 7 asocijuotų verslo ir mokslo struktūrų atstovai, kurių veikla susijusi su technologijomis ir inovacijomis. Į Tarybos sudėtį gali būti įtraukiami ir kiti asmenys.
+3. Taryba veikia Tarybos darbo reglamento nustatyta tvarka. Tarybos darbo reglamentą tvirtina Vyriausybė. Tarybą sudaro Vyriausybė. Tarybai pirmininkauja Ministras Pirmininkas. Į Tarybos sudėtį turi būti įtraukiami valstybės technologijų ir inovacijų politiką formuojančios ministerijos ministras ir švietimo, mokslo ir sporto ministras, kurie yra Tarybos pirmininko pavaduotojai, ministerijų, kurioms pavesta įgyvendinti sumanios specializacijos kryptis, ministrai ir septynių asocijuotų verslo ir mokslo struktūrų pasiūlyti atstovai, kurių veikla susijusi su technologijomis ir inovacijomis. Į Tarybos sudėtį gali būti įtraukiami ir kiti asmenys.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
  
 
 
 
 
-
-
-11 straipsnis. Valstybės technologijų ir inovacijų politiką formuojančios ministerijos funkcijos technologijų ir inovacijų srityje
+11 straipsnis. Valstybės technologijų ir inovacijų politiką formuojančios ministerijos funkcijos technologijų ir inovacijų srityse 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
+ 
 
 
 1. Valstybės technologijų ir inovacijų politiką formuojanti ministerija formuoja technologijų plėtros ir inovacijų politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą.
@@ -382,7 +396,7 @@ Mokslo, Technologijų ir inovacijų politiką formuojančios institucijos
 
 
 
-2. Valstybės technologijų ir inovacijų politiką formuojančios ministerijos funkcijos technologijų ir inovacijų srityje:
+2. Valstybės technologijų ir inovacijų politiką formuojančios ministerijos funkcijos technologijų ir inovacijų srityse:
 
 
 1) teikia Vyriausybei teisės aktų, reguliuojančių technologinės ir inovacinės veiklos skatinimą valstybėje, viešojo ir privataus sektorių eksperimentinės plėtros ir inovacinės veiklos vertinimą, rėmimą ir finansavimą, suderinimą su valstybės pagalbos taisyklėmis, projektus;
@@ -405,9 +419,12 @@ Mokslo, Technologijų ir inovacijų politiką formuojančios institucijos
 
 
 
-5) atlieka kitas šiuo ir kitais įstatymais, Vyriausybės nutarimais jai pavestas funkcijas technologijų ir inovacijų srityje.
+5) atlieka kitas šiuo ir kitais įstatymais, Vyriausybės nutarimais jai pavestas funkcijas technologijų ir inovacijų srityse.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
+ 
 
 
 
@@ -417,7 +434,7 @@ Mokslo, Technologijų ir inovacijų politiką formuojančios institucijos
 
 
 
-4. Valstybės technologijų ir inovacijų politiką formuojanti ministerija kartu su Lietuvos Respublikos švietimo ir mokslo ministerija atlieka šias funkcijas:
+4. Valstybės technologijų ir inovacijų politiką formuojanti ministerija kartu su Lietuvos Respublikos švietimo, mokslo ir sporto ministerija atlieka šias funkcijas:
 
 
 1) užtikrina efektyvų mokslo ir studijų institucijų ir ūkio subjektų bendradarbiavimą;
@@ -436,6 +453,10 @@ Mokslo, Technologijų ir inovacijų politiką formuojančios institucijos
 
 
 4) rengia ilgalaikę mokslo, technologijų ir inovacijų plėtros strategiją, kurią Vyriausybės teikimu tvirtina Seimas.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
  
 
 
@@ -443,9 +464,10 @@ Mokslo, Technologijų ir inovacijų politiką formuojančios institucijos
 
 
 
-
-
-12 straipsnis. Kitų ministerijų funkcijos mokslo, technologijų ir inovacijų srityje
+12 straipsnis. Kitų ministerijų funkcijos mokslo, technologijų ir inovacijų srityse 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
+ 
 
 
 1. Šio įstatymo 11 straipsnyje nenurodytos kitos ministerijos (toliau šiame straipsnyje – kitos ministerijos) pagal savo kompetenciją:
@@ -463,7 +485,9 @@ Mokslo, Technologijų ir inovacijų politiką formuojančios institucijos
 
 
 
-2. Valstybės technologijų ir inovacijų politiką formuojanti ministerija ir Švietimo ir mokslo ministerija taip pat atlieka šio straipsnio 1 dalies 1 punkte nurodytą funkciją.
+2. Valstybės technologijų ir inovacijų politiką formuojanti ministerija ir Švietimo, mokslo ir sporto ministerija taip pat atlieka šio straipsnio 1 dalies 1 punkte nurodytą funkciją.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
  
 
 
@@ -575,13 +599,40 @@ Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstaty
 
 
 
-15 straipsnis. Mokslo ir studijų stebėsenos ir analizės centras
+15 straipsnis. Vyriausybės strateginės analizės centras
 
 
-Mokslo ir studijų stebėsenos ir analizės centras teikia Tarybai įrodymais grįstą analitinę informaciją, pasiūlymus aktualiais sisteminiais klausimais, reikalingais Tarybai jai pavestoms užduotims atlikti, atlieka Tarybos sekretoriato funkcijas bei vykdo kitas Mokslo ir studijų įstatyme nustatytas funkcijas.
+Šio įstatymo reguliavimo srityje Vyriausybės strateginės analizės centras:
+
+
+1) atlieka technologijų ir inovacijų sričių stebėseną;
+
+
+
+
+2) rengia technologijų ir inovacijų sričių analizes ir teikia išvadas;
+
+
+
+
+3) vertina technologijų ir inovacijų sričių tendencijas, identifikuoja svarbiausius spręstinus nacionalinio lygio iššūkius, rengia strategines įžvalgas;
+
+
+
+
+4) rengia, sistemina ir teikia analitinę informaciją, reikalingą Tarybai jai pavestoms užduotims atlikti;
+
+
+
+
+5) atlieka Tarybos sekretoriato funkcijas.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
  
-
-
 
 
 
@@ -749,7 +800,9 @@ SUBJEKTAI, VYKDANTYS EKSPERIMENTINĘ PLĖTRĄ IR (ARBA) INOVACINĘ VEIKLĄ
 
 
 
-2. Valstybės finansavimas ir kitos skatinimo priemonės klasteriams skiriamos valstybės technologijų ir inovacijų politiką formuojančios ministerijos teikimu, vadovaujantis Vyriausybės arba jos įgaliotos institucijos nustatytais principais ir Vyriausybės nustatyta tvarka.
+2. Valstybės finansavimas ir kitos skatinimo priemonės klasteriams skiriamos valstybės technologijų ir inovacijų politiką formuojančios ministerijos sprendimu.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
  
 
 
@@ -816,7 +869,10 @@ EKPERIMENTINĖS PLĖTROS IR INOVACINĖS VEIKLOS finansavimas IR SKATINIMAS
 
 
 
-3. Nacionalinės mokslo ir technologijų programos – konkursinės programos, kuriomis, sutelkus Lietuvos mokslo, technologijų ir verslo potencialą bei kryptingai naudojant valstybės finansinius išteklius, inicijuojamas valstybės, verslo ir visuomenės poreikius tenkinančių naujų sprendinių kūrimas pasirinktose srityse. Nacionalinių mokslo ir technologijų programų projektus įgyvendina konkurso būdu atrinktos valstybės mokslo ir studijų institucijos ir ūkio subjektai. Kiekvienos nacionalinės mokslo ir technologijų programos nuostatus rengia Ūkio ministerija kartu su Švietimo ir mokslo ministerija, o tvirtina Vyriausybė. Nacionalinės mokslo ir technologijų programos gali būti finansuojamos iš Ūkio ministerijos, Švietimo ir mokslo ministerijos, kitų ministerijų šio įstatymo 14 straipsnyje nurodytos Vyriausybės įgaliotos institucijos, Lietuvos mokslo tarybos valstybės biudžeto asignavimų, Inovacijų skatinimo fondo ir kitų šaltinių. Nacionalines mokslo ir technologijų programas gali įgyvendinti šio įstatymo 14 straipsnyje nurodyta Vyriausybės įgaliota institucija ir Lietuvos mokslo taryba. Konkrečios nacionalinės mokslo ir technologijų programos finansavimo šaltinis arba šaltiniai ir programą įgyvendinanti institucija nurodomi tos programos nuostatuose.
+3. Nacionalinės mokslo ir technologijų programos – konkursinės programos, kuriomis, sutelkus Lietuvos mokslo, technologijų ir verslo potencialą bei kryptingai naudojant valstybės finansinius išteklius, inicijuojamas valstybės, verslo ir visuomenės poreikius tenkinančių naujų sprendinių kūrimas pasirinktose srityse. Nacionalinių mokslo ir technologijų programų projektus įgyvendina konkurso būdu atrinktos valstybės mokslo ir studijų institucijos ir ūkio subjektai. Kiekvienos nacionalinės mokslo ir technologijų programos nuostatus rengia valstybės technologijų ir inovacijų politiką formuojanti ministerija kartu su Švietimo, mokslo ir sporto ministerija, o tvirtina Vyriausybė. Nacionalinės mokslo ir technologijų programos gali būti finansuojamos iš valstybės technologijų ir inovacijų politiką formuojančios ministerijos, Švietimo, mokslo ir sporto ministerijos, kitų ministerijų, šio įstatymo 14 straipsnyje nurodytos Vyriausybės įgaliotos institucijos, Lietuvos mokslo tarybos valstybės biudžeto asignavimų, Inovacijų skatinimo fondo ir kitų šaltinių. Nacionalines mokslo ir technologijų programas gali įgyvendinti šio įstatymo 14 straipsnyje nurodyta Vyriausybės įgaliota institucija ir Lietuvos mokslo taryba. Konkrečios nacionalinės mokslo ir technologijų programos finansavimo šaltinis arba šaltiniai ir programą įgyvendinanti institucija nurodomi tos programos nuostatuose.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
+ 
 
 
 
@@ -881,9 +937,6 @@ EKPERIMENTINĖS PLĖTROS IR INOVACINĖS VEIKLOS finansavimas IR SKATINIMAS
 
 Siekdama paskatinti technologijų plėtrą ir inovacijas, valstybė taiko mokesčių lengvatas mokslinius tyrimus atliekantiems, eksperimentinę plėtrą ir inovacinę veiklą vykdantiems ūkio subjektams. Šių mokestinių lengvatų dydį ir taikymo tvarką nustato konkrečių mokesčių įstatymai.
  
- 
- 
- 
 
 
 
@@ -911,15 +964,12 @@ Vyriausybė iki 2020 m. kovo 1 d. Lietuvos Respublikos Seimui pateikia Lietuvos 
 26 straipsnis. Įstatymo įgyvendinimas
 
 
-1. Šio įstatymo 14 straipsnyje nurodyta biudžetinė įstaiga gali būti pertvarkoma į viešąją įstaigą Inovacijų agentūrą. Pertvarkius šio įstatymo 14 straipsnyje nurodytą biudžetinę įstaigą į viešąją įstaigą Inovacijų agentūra, visas šio įstatymo 14 straipsnyje nurodytas Vyriausybės įgaliotas funkcijas atlieka viešoji įstaiga Inovacijų agentūra ir šių funkcijų atlikimas finansuojamas iš valstybės biudžeto asignavimų ir (arba) kitų lėšų.
+Šio įstatymo 14 straipsnyje nurodyta biudžetinė įstaiga gali būti pertvarkoma į viešąją įstaigą Inovacijų agentūrą. Pertvarkius šio įstatymo 14 straipsnyje nurodytą biudžetinę įstaigą į viešąją įstaigą Inovacijų agentūrą, visas šio įstatymo 14 straipsnyje nurodytas Vyriausybės įgaliotos institucijos funkcijas atlieka viešoji įstaiga Inovacijų agentūra ir šių funkcijų atlikimas finansuojamas iš valstybės biudžeto asignavimų ir (arba) kitų lėšų.
 
 
-
-
-2. Šio įstatymo 15 straipsnyje nurodytos viešosios įstaigos Mokslo ir studijų stebėsenos ir analizės centro (toliau šiame straipsnyje – įstaiga) savininko teises ir pareigas įgyvendinanti institucija iki 2019 m. liepos 1 d. pakeičia įstaigos pavadinimą pavadinimu „Mokslo, technologijų ir inovacijų stebėsenos ir analizės centras“. Nuo 2019 m. liepos 1 d. galiojančiuose teisės aktuose Mokslo ir studijų stebėsenos ir analizės centrui nustatytos teisės, pareigos ir funkcijos reiškia Mokslo, technologijų ir inovacijų stebėsenos ir analizės centrui nustatytas teises, pareigas ir funkcijas.
+Straipsnio pakeitimai:
+Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
  
-
-
 
 
 
@@ -951,3 +1001,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
+Lietuvos Respublikos technologijų ir inovacijų įstatymo Nr. XIII-1414 9, 10, 11, 12, 15, 19, 21 ir 26 straipsnių pakeitimo įstatymas
