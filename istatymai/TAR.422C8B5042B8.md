@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2019-07-27 iki 2019-07-31
+Suvestinė redakcija nuo 2019-08-01 iki 2019-08-31
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -586,7 +586,10 @@ Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
 121 straipsnis. Užimtumo ir darbo rinkos stebėsena
 
 
-1. Užimtumo ir darbo rinkos stebėsenos paskirtis – sudaryti sąlygas užimtumo rėmimo politikos subjektams priimti pagrįstus sprendimus. Užimtumo stebėseną, nurodytą šio straipsnio 2 dalyje, atlieka Mokslo ir studijų stebėsenos ir analizės centras Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Darbo rinkos stebėseną atlieka užimtumo rėmimo politiką formuojančios, jos įgyvendinimą organizuojančios, koordinuojančios ir kontroliuojančios valstybės institucijos ir šią politiką įgyvendinančios institucijos ir įstaigos, nurodytos šio įstatymo 13 straipsnio 1 dalyje ir 2 dalies 1 ir 2 punktuose.
+1. Užimtumo ir darbo rinkos stebėsenos paskirtis – sudaryti sąlygas užimtumo rėmimo politikos subjektams priimti pagrįstus sprendimus. Užimtumo stebėseną, nurodytą šio straipsnio 2 dalyje, atlieka Vyriausybės strateginės analizės centras Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Darbo rinkos stebėseną atlieka užimtumo rėmimo politiką formuojančios, jos įgyvendinimą organizuojančios, koordinuojančios ir kontroliuojančios valstybės institucijos ir šią politiką įgyvendinančios institucijos ir įstaigos, nurodytos šio įstatymo 13 straipsnio 1 dalyje ir 2 dalies 1 ir 2 punktuose.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2370, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12450
+ 
 
 
 
@@ -3472,3 +3475,8 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 1 straipsnio pakeitimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 1, 35, 56, 57, 58 straipsnių pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2370, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12450
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 12-1 straipsnio pakeitimo įstatymas
