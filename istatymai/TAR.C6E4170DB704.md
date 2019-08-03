@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-08-02
+Suvestinė redakcija nuo 2019-08-03 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
  
@@ -128,7 +128,6 @@ BENDROSIOS NUOSTATOS
 
 
 13. Paciento skundas – asmens rašytinis kreipimasis į sveikatos priežiūros įstaigą ar kompetentingą valstybės instituciją, kuriame nurodomos teikiant sveikatos priežiūros paslaugas pažeistos jo teisės ar teisėti interesai.
- 
 
 
 
@@ -282,7 +281,9 @@ Nr. XIII-1909, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00841
 
 
 
-5. Pateikus asmens tapatybę patvirtinančius dokumentus, pacientui pageidaujant, jo lėšomis sveikatos priežiūros įstaiga privalo padaryti ir išduoti sveikatos priežiūros įstaigos patvirtintas paciento medicinos dokumentų kopijas, taip pat išduoti diagnozės ir gydymo aprašymus. Ši paciento teisė gali būti ribojama tik Lietuvos Respublikos įstatymų nustatyta tvarka. 
+5. Pateikus asmens tapatybę patvirtinančius dokumentus, pacientui pageidaujant asmens duomenų tvarkymą reguliuojančių teisės aktų nustatyta tvarka asmens sveikatos priežiūros įstaiga privalo padaryti ir išduoti asmens sveikatos priežiūros įstaigos patvirtintas paciento medicinos dokumentų kopijas, taip pat išduoti diagnozės ir gydymo aprašymus. Ši paciento teisė gali būti ribojama tik Lietuvos Respublikos įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2377, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12799
  
 
 
@@ -951,3 +952,8 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1909, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00841
 Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 5 ir 7 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2377, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12799
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 2, 7, 8, 13, 20 straipsnių ir V skyriaus pakeitimo įstatymas
