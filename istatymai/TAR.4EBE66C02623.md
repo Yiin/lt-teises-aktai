@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2019-07-30 iki 2019-08-02
+Suvestinė redakcija nuo 2019-08-03 iki 2019-08-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -12213,6 +12213,38 @@ užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
 
 
+3701 straipsnis. Transporto priemonių, jų sistemų, komponentų ir atskirų techninių mazgų tipo patvirtinimo, rinkos priežiūros, administracinių ir techninių reikalavimų pažeidimai 
+
+
+1. Reglamento (ES) Nr. 168/2013 76 straipsnio 2 dalyje nurodytų pažeidimų padarymas
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų tūkstančių iki keturių tūkstančių eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo penkių tūkstančių iki šešių tūkstančių eurų.
+
+
+
+
+3. Reglamento (ES) 2016/1628 57 straipsnio 2 dalyje nurodytų pažeidimų padarymas
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų tūkstančių iki keturių tūkstančių eurų.
+
+
+
+
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo penkių tūkstančių iki šešių tūkstančių eurų.
+
+
+Papildyta straipsniu:
+Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
+ 
+
+
+
+
 371 straipsnis. Traktorių, savaeigių ir žemės ūkio mašinų ir jų priekabų techninio eksploatavimo, registravimo ir techninės apžiūros tvarkos pažeidimas
 
 
@@ -18548,7 +18580,7 @@ Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
 
 
 
-63) Lietuvos transporto saugos administracijos – dėl šio kodekso 127 straipsnio 1, 2 dalyse, 150, 306, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 401 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 402, 403, 404, 405, 406, 407, 409, 410, 411, 413 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 4, 5, 6, 7, 9, 10 dalyse, 463, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų; 
+63) Lietuvos transporto saugos administracijos – dėl šio kodekso 127 straipsnio 1, 2 dalyse, 150, 306, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 3701, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 401 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 402, 403, 404, 405, 406, 407, 409, 410, 411, 413 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 4, 5, 6, 7, 9, 10 dalyse, 463, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-590, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11959
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
@@ -18557,6 +18589,7 @@ Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997
 Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
 Nr. XIII-1542, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16600
 Nr. XIII-1563, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17480
+Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
  
 
 
@@ -22792,6 +22825,14 @@ Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 
 
 
+771. 2013 m. sausio 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 168/2013 dėl dviračių ir triračių transporto priemonių bei keturračių patvirtinimo ir rinkos priežiūros (OL 2013 L 60, p. 52). 
+Papildyta punktu:
+Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
+ 
+
+
+
+
 78. 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų (OL 2013 L 115, p. 1). 
 Punkto numeracijos pakeitimas:
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
@@ -23016,6 +23057,14 @@ Nr. XIII-1543, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16601
 
 
 
+1001. 2016 m. rugsėjo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1628 dėl reikalavimų, susijusių su ne keliais judančių mechanizmų vidaus degimo variklių dujinių ir kietųjų dalelių išmetamųjų teršalų ribinėmis vertėmis ir tipo patvirtinimu, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1024/2012 ir (ES) Nr. 167/2013 ir iš dalies keičiama bei panaikinama Direktyva 97/68/EB (OL 2016 L 252, p. 53). 
+Papildyta punktu:
+Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
+ 
+
+
+
+
 101. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1). 
 Papildyta punktu:
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
@@ -23033,6 +23082,14 @@ Nr. XIII-1543, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16601
 102. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu (OL 2017 L 132, p. 1). 
 Papildyta punktu:
 Nr. XIII-2251, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11170
+ 
+
+
+
+
+1021. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/858 dėl motorinių transporto priemonių ir jų priekabų bei tokioms transporto priemonėms skirtų sistemų, komponentų ir atskirų techninių mazgų patvirtinimo ir rinkos priežiūros, kuriuo iš dalies keičiami reglamentai (EB) Nr. 715/2007 ir (EB) Nr. 595/2009 bei panaikinama Direktyva 2007/46/EB (OL 2018 L 151, p. 1).
+Papildyta punktu:
+Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
  
 
 
@@ -23447,3 +23504,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 119-1 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2354, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12444
 Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 188-1 straipsniu ir 190, 589 straipsnių pakeitimo įstatymas
+ 
+82.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 370-1 straipsniu ir 370-1, 589 straipsnių ir priedo pakeitimo įstatymas
