@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-08-30
+Suvestinė redakcija nuo 2019-08-31 iki 2019-10-07
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
  
@@ -166,7 +166,10 @@ RINKIMŲ APYGARDOS IR APYLINKĖS
 
 9 straipsnis. Rinkimų apygardų sudarymas
 
-1. Rinkimams organizuoti ir vykdyti Lietuvos Respublikos teritorija dalijama į 71 vienmandatę rinkimų apygardą, atsižvelgiant į rinkėjų skaičių rinkimų apygardoje, Lietuvos Respublikos teritorijos suskirstymą į vienmandates rinkimų apygardas per ankstesnius Seimo rinkimus ir administracinį teritorinį padalijimą. Rinkimų apygarda sudaroma iš bendrą ribą turinčių rinkimų apylinkių. Rinkėjų skaičius apygardoje turi būti nuo 0,9 iki 1,1 vidutinio rinkėjų visose vienmandatėse rinkimų apygardose skaičiaus. Vyriausioji rinkimų komisija, likus ne mažiau kaip 210 dienų iki rinkimų, nustato ir, likus ne mažiau kaip 180 dienų iki rinkimų, savo interneto svetainėje skelbia rinkimų apygardas sudarančių rinkimų apylinkių sąrašą, jų balsavimo būstinių adresus ir telefonus, apygardos rinkėjų skaičių, apygardų rinkimų komisijų adresus ir telefonus. Sudarant vienmandatę rinkimų apygardą, kurioje balsuoja šio įstatymo 33 straipsnio 1 dalyje nurodyti rinkėjai, jos rinkėjų skaičius nustatomas įskaičiuojant paskutiniuose Seimo rinkimuose dalyvavusių ir Lietuvos diplomatinėse atstovybėse ir konsulinėse įstaigose balsavusių rinkėjų skaičių.
+1. Rinkimams organizuoti ir vykdyti sudaroma 71 vienmandatė rinkimų apygarda, atsižvelgiant į rinkėjų skaičių rinkimų apygardoje, Lietuvos Respublikos teritorijos suskirstymą į vienmandates rinkimų apygardas per ankstesnius Seimo rinkimus ir administracinį teritorinį padalijimą. Rinkimų apygarda sudaroma iš bendrą ribą turinčių rinkimų apylinkių. Rinkėjų skaičius apygardoje turi būti nuo 0,9 iki 1,1 vidutinio rinkėjų visose vienmandatėse rinkimų apygardose skaičiaus. Vyriausioji rinkimų komisija, likus ne mažiau kaip 210 dienų iki rinkimų, nustato ir, likus ne mažiau kaip 180 dienų iki rinkimų, savo interneto svetainėje skelbia rinkimų apygardas sudarančių rinkimų apylinkių sąrašą, jų balsavimo būstinių adresus ir telefonus, apygardos rinkėjų skaičių, apygardų rinkimų komisijų adresus ir telefonus. Sudarant vienmandatę rinkimų apygardą, kurioje balsuoja šio įstatymo 33 straipsnio 1 dalyje nurodyti rinkėjai, jos rinkėjų skaičius nustatomas įskaičiuojant paskutiniuose rinkimuose dalyvavusių ir Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose balsavusių rinkėjų skaičių. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2413, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13750
+ 
 
 2. Taip pat sudaroma viena daugiamandatė rinkimų apygarda, kurioje balsuoja visi rinkimų teisę turintys Lietuvos Respublikos piliečiai. Šioje apygardoje pagal proporcinę rinkimų sistemą renkama 70 Seimo narių.
 
@@ -296,6 +299,11 @@ Nr. XII-2052, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18860
 7. Apygardos rinkimų komisijos pirmininką iš komisijos narių skiria Vyriausioji rinkimų komisija. Apygardos rinkimų komisijos pirmininku skiriamas asmuo, turintis darbo Vyriausiosios rinkimų komisijos arba apygardos ar savivaldybės rinkimų komisijos pirmininku ar nariu patirties arba darbo apylinkės rinkimų komisijos pirmininku patirties.
 
 8. Apygardos rinkimų komisija pirmajame posėdyje išsirenka komisijos pirmininko pavaduotoją ir sekretorių.
+
+9. Jeigu pagal šio įstatymo 33 straipsnio 2 dalį yra sudaroma Pasaulio lietuvių vienmandatė rinkimų apygarda, šios apygardos rinkimų komisijos funkcijas vykdo Vyriausioji rinkimų komisija. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2413, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13750
+ 
 
 Straipsnio pakeitimai:
 Nr. X-1490, 2008-04-15, Žin., 2008, Nr. 50-1839 (2008-04-30)
@@ -679,9 +687,14 @@ Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
 
 33 straipsnis. Užsienyje esančių Lietuvos Respublikos piliečių įrašymas į rinkėjų sąrašus
 
-1. Kitose valstybėse esantys Lietuvos Respublikos piliečiai įrašomi į tos vienmandatės rinkimų apygardos rinkėjų sąrašą, kurios teritorijoje yra Lietuvos Respublikos Seimas.
+1. Kitose valstybėse esantys Lietuvos Respublikos piliečiai įrašomi į tos vienmandatės rinkimų apygardos, kurios teritorijoje yra Lietuvos Respublikos Seimas, rinkėjų sąrašą, išskyrus šio straipsnio 2 dalyje nurodytą atvejį.
 
-2. Lietuvos Respublikos diplomatinė atstovybė, likus ne mažiau kaip 15 dienų iki Seimo rinkimų, perduoda Vyriausiajai rinkimų komisijai diplomatinėje atstovybėje sudarytą rinkėjų sąrašą ir duomenis apie jo patikslinimą. Šis sąrašas gali būti papildomas rinkėjais, kurie balsavimo paštu laikotarpiu ir rinkimų dieną negali sugrįžti į Lietuvą ir balsuoja diplomatinėje atstovybėje.
+2. Kai paskutiniuose rinkimuose dalyvavusių ir Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose balsavusių užsienyje esančių rinkėjų skaičius, kuris nustatomas iki Seimo rinkimų likus vieneriems metams, yra didesnis negu 0,9 vidutinio rinkėjų visose vienmandatėse rinkimų apygardose skaičiaus, sudaroma Pasaulio lietuvių vienmandatė rinkimų apygarda ir kitose valstybėse esantys Lietuvos Respublikos piliečiai įrašomi į Pasaulio lietuvių vienmandatės rinkimų apygardos rinkėjų sąrašą.
+
+3. Lietuvos Respublikos diplomatinė atstovybė, likus ne mažiau kaip 15 dienų iki Seimo rinkimų, perduoda Vyriausiajai rinkimų komisijai diplomatinėje atstovybėje sudarytą rinkėjų sąrašą ir duomenis apie jo patikslinimą. Šis sąrašas gali būti papildomas rinkėjais, kurie balsavimo paštu laikotarpiu ir rinkimų dieną negali sugrįžti į Lietuvą ir balsuoja diplomatinėje atstovybėje. 
+
+Straipsnio pakeitimai:
+Nr. XIII-2413, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13750
  
 
 34 straipsnis. Rinkėjų, esančių kariniuose vienetuose, laivuose, areštinėse, tardymo izoliatoriuose (sulaikymo namuose) ir bausmių vykdymo įstaigose, įrašymas į rinkėjų sąrašus
@@ -1726,7 +1739,10 @@ Apygardos rinkimų komisija visus dokumentus, gautus iš rinkimų apylinkių (i�
 2. Iki Vyriausiosios rinkimų komisijos pranešimo visuomenės informavimo priemonių atstovams draudžiama vaizdo ar garso įrašymo technika, žodžiu, raštu ar kitaip skleisti informaciją apie balsų skaičiavimo ar rinkimų rezultatus.
  
 
-86 straipsnis. Skundai dėl rinkimų komisijų sprendimų, priimtų pasibaigus balsavimui
+86 straipsnis. Skundai dėl rinkimų ir balsavimo komisijų sprendimų, priimtų pasibaigus balsavimui 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2413, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13750
+ 
 
 1. Partijos, iškėlusios kandidatą į Seimo narius, kandidatai į Seimo narius, jų atstovai rinkimams, rinkimų stebėtojai apylinkių rinkimų komisijų sprendimus dėl balsų skaičiavimo protokolų surašymo gali apskųsti apygardos rinkimų komisijai ne vėliau kaip per 24 valandas nuo jų surašymo. Šie skundai turi būti išnagrinėti ne vėliau kaip per 24 valandas.
 
@@ -1739,9 +1755,16 @@ Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
 
 4. Vyriausioji rinkimų komisija, nagrinėdama skundą dėl apygardos rinkimų komisijos sprendimo dėl apygardos balsų skaičiavimo protokolo surašymo, gali perskaičiuoti apygardos rinkimų komisijos pateiktus rinkimų biuletenius, o nustačiusi protokole aritmetinę klaidą, neteisingai suskaičiuotus galiojančius ar negaliojančius biuletenius, surašo papildomą apygardos, apylinkės balsų skaičiavimo protokolą ir prideda jį prie apygardos balsų skaičiavimo protokolo.
 
-5. Partijos, iškėlusios kandidatus į Seimo narius, kandidatai į Seimo narius Vyriausiosios rinkimų komisijos sprendimus arba jos atsisakymą nagrinėti skundus dėl Seimo rinkimų įstatymo pažeidimų ne vėliau kaip per 24 valandas po to, kai oficialiai paskelbiami rinkimų galutiniai rezultatai, gali apskųsti Seimui ar Respublikos Prezidentui. Tokiais atvejais Seimas ar Respublikos Prezidentas ne vėliau kaip per 48 valandas kreipiasi į Konstitucinį Teismą su paklausimu dėl Seimo rinkimų įstatymo pažeidimo.
+5. Partijos, iškėlusios kandidatą į Seimo narius, kandidatai į Seimo narius, jų atstovai rinkimams, rinkimų stebėtojai balsavimo komisijų sprendimus dėl balsų skaičiavimo protokolų surašymo gali apskųsti Vyriausiajai rinkimų komisijai ne vėliau kaip per 24 valandas nuo jų surašymo. Šie skundai turi būti išnagrinėti ne vėliau kaip per 24 valandas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2413, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13750
+ 
+
+6. Partijos, iškėlusios kandidatus į Seimo narius, kandidatai į Seimo narius Vyriausiosios rinkimų komisijos sprendimus arba jos atsisakymą nagrinėti skundus dėl Seimo rinkimų įstatymo pažeidimų ne vėliau kaip per 24 valandas po to, kai oficialiai paskelbiami rinkimų galutiniai rezultatai, gali apskųsti Seimui ar Respublikos Prezidentui. Tokiais atvejais Seimas ar Respublikos Prezidentas ne vėliau kaip per 48 valandas kreipiasi į Konstitucinį Teismą su paklausimu dėl Seimo rinkimų įstatymo pažeidimo.
 Straipsnio dalies pakeitimai:
 Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2413, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13750
  
 
 87 straipsnis. Rinkimų apygardos balsų skaičiavimo protokolai
@@ -1763,6 +1786,11 @@ Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
 7) už kiekvieną kandidatą daugiamandatės rinkimų apygardos dalyje, kurią sudaro ši vienmandatė rinkimų apygarda, paduotų pirmumo balsų skaičių.
 
 2. Apygardos rinkimų komisijos pirmininkas ir nariai rinkimų apygardos balsų skaičiavimo protokolą pasirašo po to, kai apsvarsto apylinkių rinkimų komisijų narių atskirąsias nuomones, rinkimų stebėtojų pastabas ir rinkėjų skundus. Rinkimų apygardos balsų skaičiavimo protokolo išrašas arba kopija pateikiami rinkimų stebėtojams ir komisijos nariams jų prašymu. Apygardos rinkimų komisija gali pasiūlyti Vyriausiajai rinkimų komisijai pripažinti rinkimus apygardoje negaliojančiais.
+
+3. Pasaulio lietuvių vienmandatės rinkimų apygardos balsų skaičiavimo protokolą pasirašo Vyriausioji rinkimų komisija. Vyriausioji rinkimų komisija, išnagrinėjusi balsavimo komisijų narių atskirąsias nuomones, rinkimų stebėtojų pastabas ir rinkėjų skundus, gali pripažinti rinkimus šioje apygardoje negaliojančiais. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2413, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13750
+ 
 
 Straipsnio pakeitimai:
 Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
@@ -2246,4 +2274,9 @@ Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 papildymo 1-1 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1775, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21111
 Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 2, 5, 8, 22, 23, 38 ir 68 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2413, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13750
+Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 9, 15, 33, 86 ir 87 straipsnių pakeitimo įstatymas
 
