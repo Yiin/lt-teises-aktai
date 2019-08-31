@@ -13,6 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/41c6f620629811e99676cb74c51fe1f4"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 3, 4, 9, 12, 14, 29, 30, 31, 32, 33, 34, 35, 36, 37, 41, 42, 43, 49, 50 straipsnių pakeitimo, Įstatymo papildymo 36-1, 36-2, 36-3, 36-4, 36-5 straipsniais ir 38, 39, 40 straipsnių pripažinimo netekusiais galios įstatymas
 
+Suvestinė redakcija nuo 2019-08-31
+ 
+Įstatymas paskelbtas: TAR 2019-04-19, i. k. 2019-06546
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VAIKO TEISIŲ APSAUGOS PAGRINDŲ ĮSTATYMO NR. I-1234 2, 3, 4, 9, 12, 14, 29, 30, 31, 32, 33, 34, 35, 36, 37, 41, 42, 43, 49, 50 STRAIPSNIŲ PAKEITIMO, ĮSTATYMO PAPILDYMO 361, 362, 363, 364, 365 STRAIPSNIAIS IR 38, 39, 40 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS
 ĮSTATYMAS
@@ -660,17 +666,17 @@ Pakeisti 35 straipsnio 2 dalį ir ją išdėstyti taip:
 „36 straipsnis. Reagavimas į pranešimą apie galimą vaiko teisių pažeidimą
 
 
-1. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, gavęs žodžiu, raštu ar bet kokiomis nuotolinio ryšio priemonėmis pranešimą apie galimą vaiko teisių pažeidimą, kuo skubiau, tačiau ne vėliau kaip per tris darbo dienas nuo pranešimo gavimo dienos, pradeda nagrinėti pranešimą ir susitinka su vaiku, užsitikrindamas galimybę pabendrauti su juo be apribojimų, jeigu yra poreikis, – nedalyvaujant vaiko atstovams pagal įstatymą, atsižvelgęs į vaiko amžių ir brandą išklauso vaiką jam priimtinu būdu apie galimą jo teisių pažeidimą, pagal poreikį įvertina vaiko gyvenamąją ir (ar) socialinę aplinką bei vaiko santykius su jo tėvais ar kitais vaiko atstovais pagal įstatymą. Jeigu yra įtarimų, kad vaikas patyrė smurtą, ar jeigu vaikas turi specialiųjų poreikių, raidos ir (ar) kitokių sutrikimų, jis pagal poreikį turi būti išklausytas psichologo. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, atlikęs šioje dalyje nurodytus veiksmus, socialinės apsaugos ir darbo ministro nustatyta tvarka atlieka vaiko situacijos vertinimą. Jeigu Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, atlikęs šioje dalyje nurodytus veiksmus, nenustato vaiko teisių pažeidimų ir pavojaus vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei, jis priima sprendimą baigti pranešimo nagrinėjimą.
+1. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, gavęs žodžiu, raštu ar bet kokiomis nuotolinio ryšio priemonėmis pranešimą apie galimą vaiko teisių pažeidimą, kuo skubiau, tačiau ne vėliau kaip per 3 darbo dienas nuo pranešimo gavimo dienos, pradeda nagrinėti pranešimą ir susitinka su vaiku, užsitikrindamas galimybę pabendrauti su juo be apribojimų, jeigu yra poreikis, – nedalyvaujant vaiko atstovams pagal įstatymą, atsižvelgęs į vaiko amžių ir brandą išklauso vaiką jam priimtinu būdu apie galimą jo teisių pažeidimą, pagal poreikį įvertina vaiko gyvenamąją ir (ar) socialinę aplinką bei vaiko santykius su jo tėvais ar kitais vaiko atstovais pagal įstatymą. Jeigu yra įtarimų, kad vaikas patyrė smurtą, ar jeigu vaikas turi specialiųjų poreikių, raidos ir (ar) kitokių sutrikimų, jis pagal poreikį turi būti išklausytas psichologo. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, atlikęs šioje dalyje nurodytus veiksmus, socialinės apsaugos ir darbo ministro nustatyta tvarka atlieka vaiko situacijos vertinimą. Jeigu Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, atlikęs šioje dalyje nurodytus veiksmus, nenustato vaiko teisių pažeidimų ir pavojaus vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei, jis priima sprendimą baigti pranešimo nagrinėjimą.
 
 
 
 
-2. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, reaguodamas į pranešimą apie galimą smurto prieš vaiką naudojimą, galimai kilusį pavojų vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei ar vaiko buvimą jam nesaugioje aplinkoje, šio straipsnio 1 dalyje nurodytus veiksmus pradeda atlikti pranešimo gavimo dieną, tačiau ne vėliau kaip per 6 valandas nuo pranešimo gavimo momento, ir užbaigia visus veiksmus ne vėliau kaip per tris darbo dienas. 
+2. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, reaguodamas į pranešimą apie galimą smurto prieš vaiką naudojimą, galimai kilusį pavojų vaiko fiziniam ar psichiniam saugumui, sveikatai ar gyvybei ar vaiko buvimą jam nesaugioje aplinkoje, šio straipsnio 1 dalyje nurodytus veiksmus pradeda atlikti pranešimo gavimo dieną, tačiau ne vėliau kaip per 6 valandas nuo pranešimo gavimo momento, ir užbaigia visus veiksmus ne vėliau kaip per 3 darbo dienas. 
 
 
 
 
-3. Policijos pareigūnai, turintys specialią darbo su nepilnamečiais kvalifikaciją, įvykio vietoje nustatę vaiko buvimą jam nesaugioje aplinkoje, privalo nedelsdami imtis veiksmų vaiko fiziniam ar psichiniam saugumui užtikrinti ir apie įvykį nedelsdami informuoti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybą ar jos įgaliotą teritorinį skyrių. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, gavę pranešimą iš policijos pareigūnų apie vaiko buvimą jam nesaugioje aplinkoje, atvyksta į įvykio vietą ne vėliau kaip per vieną valandą nuo pranešimo gavimo. Jeigu dėl objektyvių priežasčių Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius negali atvykti į policijos pareigūnų pranešime nurodytą vietą per vieną valandą nuo pranešimo gavimo, jis privalo apie tai nedelsdamas informuoti policijos pareigūnus ir užtikrinti atvykimą kiek įmanoma skubiau.
+3. Policijos pareigūnai, turintys darbo su nepilnamečiais kompetenciją, įvykio vietoje nustatę vaiko buvimą jam nesaugioje aplinkoje, privalo nedelsdami imtis veiksmų vaiko fiziniam ar psichiniam saugumui užtikrinti ir apie įvykį nedelsdami informuoti Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybą ar jos įgaliotą teritorinį skyrių. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, gavę pranešimą iš policijos pareigūnų apie vaiko buvimą jam nesaugioje aplinkoje, atvyksta į įvykio vietą ne vėliau kaip per vieną valandą nuo pranešimo gavimo. Jeigu dėl objektyvių priežasčių Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius negali atvykti į policijos pareigūnų pranešime nurodytą vietą per vieną valandą nuo pranešimo gavimo, jis privalo apie tai nedelsdamas informuoti policijos pareigūnus ir užtikrinti atvykimą kiek įmanoma skubiau.
 
 
 
@@ -687,6 +693,9 @@ Pakeisti 35 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2414, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13751
+ 
 
 
 
@@ -1158,7 +1167,7 @@ Pakeisti 41 straipsnį ir jį išdėstyti taip:
 „41 straipsnis. Atvejo vadybininkas ir jo sudaromas pagalbos planas
 
 
-1. Atvejo vadybininku skiriamas fizinis asmuo, įgijęs aukštąjį socialinio darbo (profesinio bakalauro, bakalauro, magistro) kvalifikacinį laipsnį ar iki 2014 m. gruodžio 31 d. įgijęs kitą kvalifikacinį laipsnį (profesinio bakalauro, bakalauro, magistro) ir socialinio darbuotojo kvalifikaciją, ar iki 2014 m. gruodžio 31 d. įgijęs kitą kvalifikacinį laipsnį (profesinio bakalauro, bakalauro, magistro), ar įgijęs socialinės pedagogikos (bakalauro, magistro) kvalifikacinį laipsnį ir turintis ne mažesnę kaip vienų metų darbo su šeima ar vaikais ar savanorystės patirtį ir atitinkantis kituose teisės aktuose jam nustatytus reikalavimus.
+1. Atvejo vadybininku skiriamas fizinis asmuo, įgijęs aukštąjį socialinio darbo (profesinio bakalauro, bakalauro, magistro) kvalifikacinį laipsnį ar iki 2014 m. gruodžio 31 d. įgijęs kitą kvalifikacinį laipsnį (profesinio bakalauro, bakalauro, magistro) ir socialinio darbuotojo kvalifikaciją, ar iki 2014 m. gruodžio 31 d. įgijęs kitą kvalifikacinį laipsnį (profesinio bakalauro, bakalauro, magistro) ir baigęs socialinio darbo studijų programą, ar įgijęs socialinės pedagogikos (bakalauro, magistro) kvalifikacinį laipsnį ir turintis ne mažesnę kaip vienų metų darbo su šeima ar vaikais ar savanorystės patirtį ir atitinkantis kituose teisės aktuose jam nustatytus reikalavimus.
 
 
 
@@ -1192,6 +1201,9 @@ Pakeisti 41 straipsnį ir jį išdėstyti taip:
 
 
 
+Straipsnio pakeitimai:
+Nr. XIII-2414, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13751
+ 
 
 
 
@@ -1392,3 +1404,13 @@ Pakeisti 43 straipsnio 1 dalį ir ją išdėstyti taip:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2414, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13751
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 3, 4, 9, 12, 14, 29, 30, 31, 32, 33, 34, 35, 36, 37, 41, 42, 43, 49, 50 straipsnių pakeitimo, Įstatymo papildymo 36-1, 36-2, 36-3, 36-4, 36-5 straipsniais ir 38, 39, 40 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-2035 14 ir 23 straipsnių pakeitimo įstatymas
