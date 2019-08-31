@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/398a02704a6f11e6b5d09300a16a686c"
 
 # Lietuvos Respublikos tikslinių kompensacijų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-08-30
+Suvestinė redakcija nuo 2019-08-31 iki 2019-08-31
  
 Įstatymas paskelbtas: TAR 2016-07-15, i. k. 2016-20644
  
@@ -246,7 +246,10 @@ TIKSLINIŲ KOMPENSACIJŲ SKYRIMO IR MOKĖJIMO TVARKA
 
 
 
-9. Savivaldybės administracija per 15 darbo dienų nuo prašymo skirti tikslinę kompensaciją, paskirtą tikslinę kompensaciją mokėti slaugančiam asmeniui ar atnaujinti (pratęsti) tikslinės kompensacijos mokėjimą ir visų socialinės apsaugos ir darbo ministro nustatyta kreipimosi dėl tikslinių kompensacijų skyrimo ir mokėjimo, tikslinių kompensacijų skyrimo ir mokėjimo tvarka pateiktų dokumentų arba trūkstamų dokumentų gavimo savivaldybės administracijoje dienos privalo priimti sprendimą dėl tikslinės kompensacijos skyrimo, mokėjimo atnaujinimo (pratęsimo) arba paskirtos tikslinės kompensacijos mokėjimo slaugančiam asmeniui ir apie tai raštu pranešti pareiškėjui. 
+9. Savivaldybės administracija per 15 darbo dienų nuo prašymo skirti tikslinę kompensaciją, paskirtą tikslinę kompensaciją mokėti slaugančiam asmeniui ar atnaujinti (pratęsti) tikslinės kompensacijos mokėjimą ir visų socialinės apsaugos ir darbo ministro nustatyta kreipimosi dėl tikslinių kompensacijų skyrimo ir mokėjimo, tikslinių kompensacijų skyrimo ir mokėjimo tvarka pateiktų dokumentų arba trūkstamų dokumentų gavimo savivaldybės administracijoje dienos (kai šio įstatymo 7 straipsnio 2 dalyje nustatytu atveju atskiras prašymas atnaujinti tikslinės kompensacijos mokėjimą neteikiamas, – nuo informacijos apie šio įstatymo 7 straipsnio 1 dalyje nurodytų aplinkybių išnykimą gavimo iš valstybės ir savivaldybės institucijų, įstaigų, įmonių bei organizacijų savivaldybės administracijoje dienos) privalo priimti sprendimą dėl tikslinės kompensacijos skyrimo, mokėjimo atnaujinimo (pratęsimo) arba paskirtos tikslinės kompensacijos mokėjimo slaugančiam asmeniui ir apie tai raštu pranešti pareiškėjui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2416, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13754
+ 
 
 
 
@@ -256,7 +259,9 @@ TIKSLINIŲ KOMPENSACIJŲ SKYRIMO IR MOKĖJIMO TVARKA
 
 
 
-11. Tikslinės kompensacijos gavėjo mirties atveju apskaičiuotos tikslinės kompensacijos sumos, kurios jam priklausė ir kurių jis dėl mirties negavo, išmokamos mirusiojo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio tikslinės kompensacijos gavėjo turtas, kai jie pateikia paveldėjimo teisės liudijimą, ir (arba) mirusįjį pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą.
+11. Mirus tikslinės kompensacijos gavėjui, jį laidojusiam asmeniui, kuris pirmas kreipiasi, išmokama mirusio tikslinės kompensacijos gavėjo negauta praėjusio mėnesio tikslinė kompensacija ir tikslinė kompensacija už tą mėnesį, kurį tikslinės kompensacijos gavėjas mirė. Kitos tikslinės kompensacijos gavėjui priklausančios apskaičiuotos tikslinės kompensacijos sumos, kurios jam nebuvo išmokėtos dėl mirties, išmokamos mirusiojo įpėdiniams, kuriems paveldėjimo tvarka pereina mirusio asmens turtas, pateikusiems paveldėjimo teisės liudijimą, ir (ar) mirusįjį pergyvenusiam sutuoktiniui, pateikusiam nuosavybės teisės į sutuoktinių bendro turto dalį liudijimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2416, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13754
  
 
 
@@ -306,7 +311,10 @@ TIKSLINIŲ KOMPENSACIJŲ SKYRIMO IR MOKĖJIMO TVARKA
 1. Tikslinės kompensacijos neskiriamos, o paskirtosios nemokamos:
 
 
-1) jeigu asmuo, turintis teisę gauti tikslinę kompensaciją, gyvena švietimo įstaigoje, o likęs be tėvų globos vaikas ir (ar) vaikas, patiriantis socialinę riziką, – ir socialinės globos įstaigoje arba jeigu asmeniui, turinčiam teisę gauti tikslinę kompensaciją, palaikomojo gydymo ir slaugos ligoninėje teikiamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamos slaugos, palaikomojo gydymo, paliatyviosios pagalbos, socialinės paslaugos ir patarnavimai;
+1) jeigu asmuo, turintis teisę gauti tikslinę kompensaciją, gyvena švietimo įstaigoje, o likęs be tėvų globos vaikas ir (ar) vaikas, patiriantis socialinę riziką, – ir socialinės globos įstaigoje arba jeigu asmeniui, turinčiam teisę gauti tikslinę kompensaciją, palaikomojo gydymo ir slaugos ligoninėje ar asmens sveikatos priežiūros įstaigos slaugos skyriuje arba šios įstaigos bendrajame skyriuje įsteigtoje vietoje neįgaliojo asmens slaugai teikiamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamos slaugos, palaikomojo gydymo, paliatyviosios pagalbos, socialinės paslaugos ir patarnavimai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2416, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13754
+ 
 
 
 
@@ -333,7 +341,10 @@ TIKSLINIŲ KOMPENSACIJŲ SKYRIMO IR MOKĖJIMO TVARKA
 
 
 
-2. Atsiradus kuriai nors iš šio straipsnio 1 dalies 1–4 punktuose nurodytų aplinkybių, paskirtos tikslinės kompensacijos mokėjimas sustabdomas nuo kitos dienos po šios aplinkybės atsiradimo dienos. Atsiradus šio straipsnio 1 dalies 5 punkte nurodytai aplinkybei, paskirtos tikslinės kompensacijos mokėjimas nutraukiamas nuo mėnesio, einančio po to mėnesio, kurį ši aplinkybė atsirado, pirmos dienos, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar Europos Sąjungos teisės aktuose nenustatyta kitaip. Išnykus šio straipsnio 1 dalyje nurodytoms aplinkybėms, tikslinė kompensacija skiriama arba, gavus šio įstatymo 5 straipsnio 4 dalyje nurodyto asmens prašymą ir visus reikiamus dokumentus, tikslinės kompensacijos mokėjimas atnaujinamas nuo kitos dienos po atitinkamos aplinkybės išnykimo dienos, jeigu asmens teisė gauti tikslinę kompensaciją yra išlikusi. 
+2. Atsiradus kuriai nors iš šio straipsnio 1 dalies 1–4 punktuose nurodytų aplinkybių, paskirtos tikslinės kompensacijos mokėjimas sustabdomas nuo kitos dienos po šios aplinkybės atsiradimo dienos. Atsiradus šio straipsnio 1 dalies 5 punkte nurodytai aplinkybei, paskirtos tikslinės kompensacijos mokėjimas nutraukiamas nuo mėnesio, einančio po to mėnesio, kurį ši aplinkybė atsirado, pirmos dienos, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar Europos Sąjungos teisės aktuose nenustatyta kitaip. Išnykus šio straipsnio 1 dalyje nurodytoms aplinkybėms, tikslinė kompensacija skiriama arba, gavus šio įstatymo 5 straipsnio 4 dalyje nurodyto asmens prašymą ir visus reikiamus dokumentus arba gavus informaciją iš valstybės ir savivaldybės institucijų, įstaigų, įmonių bei organizacijų, tikslinės kompensacijos mokėjimas atnaujinamas nuo kitos dienos po atitinkamos aplinkybės išnykimo dienos, jeigu asmens teisė gauti tikslinę kompensaciją yra išlikusi. Gavus informaciją apie šio straipsnio 1 dalyje nurodytų aplinkybių išnykimą iš valstybės ir savivaldybės institucijų, įstaigų, įmonių bei organizacijų, tikslinės kompensacijos mokėjimas atnaujinamas be atskiro šio įstatymo 5 straipsnio 4 dalyje nurodyto asmens prašymo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2416, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13754
+ 
 
 
 
@@ -571,3 +582,8 @@ Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 1 ir 7 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1263, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10489
 Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2416, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13754
+Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 5 ir 7 straipsnių pakeitimo įstatymas
