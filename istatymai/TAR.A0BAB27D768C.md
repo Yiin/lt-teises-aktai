@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
  
@@ -698,10 +698,10 @@ Vyriausybė, teikdama Seimui metinę ataskaitą, dalyje apie nacionalinio saugum
 ANTRASIS SKIRSNIS
 KRIZIŲ VALDYMAS
  
-Krizių valdymo sistema kuriama ir plėtojama pavojų keliančioms bei ekstremalioms situacijoms ir kriziniams reiškiniams prognozuoti, stebėti, prevencinėms priemonėms parengti ir vykdyti, krizėms nustatyti bei valdyti, padariniams pašalinti.
-Krizių valdymo strategiją tvirtina Vyriausybė. Krizių valdymą koordinuoja Vyriausybės sudaromas Krizių valdymo komitetas, kuriam vadovauja Ministras Pirmininkas. Krizių valdymo komitetą sudaro svarbiausi su krizių valdymu susiję ministrai, Vyriausybės kancleris ar jo pirmasis pavaduotojas. Prireikus Krizių valdymo komitetas, atsižvelgdamas į krizės pobūdį, priima sprendimą siūlyti Vyriausybei iš atitinkamų ministerijų ir kitų valstybės institucijų atstovų sudaryti Jungtinį koordinavimo centrą krizei valdyti ir jos padarinių likvidavimui koordinuoti. Jungtinio koordinavimo centro nuostatus tvirtina Vyriausybė.
-Krizių prevenciją ir pasirengimą jas valdyti koordinuoja Vyriausybės kanceliarija. Vyriausybės kanceliarija koordinuoja integralių krizių ir ekstremalių situacijų prevencijos bei jų valdymo planų ir priemonių rengimą; ministerijos ir kitos valstybės institucijos pagal savo kompetenciją rengia šiuos planus ir priemones, numatydamos veiksmų koordinavimą su kitomis institucijomis. Integralius krizių ir ekstremalių situacijų valdymo planus ir priemones tvirtina Vyriausybė.
-Krizių valdymą reglamentuoja įstatymai ir kiti teisės aktai.
+Krizių valdymo sistema kuriama ir plėtojama grėsmę nacionaliniam saugumui keliantiems reiškiniams prognozuoti, stebėti, prevencinėms priemonėms parengti ir vykdyti, krizėms nustatyti bei valdyti, padariniams pašalinti.
+Klausimus dėl grėsmių prevencijos svarsto ir krizių valdymą koordinuoja Vyriausybės sudaroma Nacionalinio saugumo komisija, kuriai vadovauja Ministras Pirmininkas. Prireikus Nacionalinio saugumo komisija, atsižvelgdama į krizės pobūdį, siūlo Vyriausybei paskirti už krizės valdymą atsakingą instituciją, kuri kartu su Jungtine grėsmių prevencijos ir krizių valdymo grupe, sudaryta iš Vyriausybės kanceliarijos, atitinkamų ministerijų ir kitų valstybės institucijų bei įstaigų atstovų, imasi krizės valdymo ir jos padarinių likvidavimo koordinavimo veiksmų. Jungtinės grėsmių prevencijos ir krizių valdymo grupės sudėtį ir nuostatus tvirtina Vyriausybė.
+Seimo nutarimu tvirtinamoje Nacionalinio saugumo strategijoje apibrėžtų grėsmių prevenciją ir pasirengimą valdyti krizes koordinuoja Vyriausybės kanceliarija  kartu su Jungtine grėsmių prevencijos ir krizių valdymo grupe. Grėsmių prevencija vykdoma Vyriausybės nustatyta grėsmių nacionaliniam saugumui stebėjimo, vertinimo ir perspėjimo apie grėsmes tvarka. Vyriausybės kanceliarija koordinuoja  grėsmių prevencijos bei krizių valdymo planų ir priemonių rengimą; ministerijos ir kitos valstybės institucijos bei įstaigos pagal savo kompetenciją rengia šiuos planus ir priemones, numatydamos veiksmų koordinavimą su kitomis institucijomis. Integralius krizių valdymo planus ir priemones tvirtina Vyriausybė.
+Krizių valdymą reglamentuoja įstatymai ir kiti teisės aktai. 
 Skyriaus pakeitimai:
 Nr. VIII-1778, 2000 06 29, Žin., 2000, Nr. 58-1710 (2000 07 19)
 Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
@@ -709,6 +709,8 @@ Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 Nr. XI-125, 2008-12-23, Žin., 2008, Nr. 149-6045 (2008-12-30)
 Nr. XI-480, 2009-11-12, Žin., 2009, Nr. 141-6203 (2009-11-28)
 Nr. XII-161, 2013-01-17, Žin., 2013, Nr. 11-505 (2013-01-30)
+Skirsnio pakeitimai:
+Nr. XIII-2255, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10925
  
 
 
@@ -1099,4 +1101,9 @@ Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 pried�
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1812, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21827
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2255, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10925
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
