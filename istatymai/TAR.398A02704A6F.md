@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/398a02704a6f11e6b5d09300a16a686c"
 
 # Lietuvos Respublikos tikslinių kompensacijų įstatymas
 
-Suvestinė redakcija nuo 2019-08-31 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2022-03-22
  
 Įstatymas paskelbtas: TAR 2016-07-15, i. k. 2016-20644
  
@@ -71,6 +71,16 @@ BENDROSIOS NUOSTATOS
 
 
 
+5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje. 
+5 punkto redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
+5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, suteikiantys teisę gyventi Lietuvos Respublikoje.
+Papildyta straipsnio punktu:
+Nr. XIII-2347, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12438
+ 
+
+
+
+
 
 
 4. Šis įstatymas taip pat taikomas asmenims, kuriems taikomi Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentai.
@@ -78,7 +88,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos šalpos pensijų įstatyme ir Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme.
+5. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos šalpos pensijų įstatyme, Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme ir Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2347, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12438
+ 
 
 
 
@@ -537,7 +550,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
  
  
 
@@ -587,3 +600,8 @@ Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2416, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13754
 Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 5 ir 7 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2347, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12438
+Lietuvos Respublikos tikslinių kompensacijų įstatymo Nr. XII-2507 1 straipsnio pakeitimo įstatymas
