@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2019-08-01 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2019-10-30
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -56,9 +56,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3) leidimą gyventi Lietuvos Respublikoje turintiems užsieniečiams, kurie pagal Lietuvos Respublikos teisės aktus atleidžiami nuo pareigos įsigyti leidimą dirbti Lietuvos Respublikoje, asmenims, kuriems suteiktas perkeliamojo asmens statusas;
+3) leidimą gyventi Lietuvos Respublikoje turintiems asmenims, kurie nėra Europos Sąjungos piliečiai, kaip nustatyta Sutarties dėl Europos Sąjungos veikimo 20 straipsnio 1 dalyje, ir nėra asmenys, kurie pagal Europos Sąjungos teisės aktus naudojasi judėjimo laisve (toliau – trečiųjų šalių piliečiai), kurie pagal Lietuvos Respublikos teisės aktus atleidžiami nuo pareigos įsigyti leidimą dirbti Lietuvos Respublikoje, asmenims, kuriems suteiktas perkeliamojo asmens statusas;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2082, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07321
+Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
  
 
 
@@ -71,7 +72,10 @@ Nr. XIII-2082, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07321
 
 
 
-3. Šio įstatymo nuostatos dėl konsultavimo apie sezoninį darbą paslaugų teikimo taikomos ir užsieniečiams, atvykstantiems į Lietuvos Respubliką dirbti sezoninių darbų, nuostatos dėl laisvų darbo vietų registravimo, informavimo ir tarpininkavimo įdarbinant paslaugų teikimo taikomos ir darbdaviams, vykdantiems veiklą Europos ekonominės erdvės valstybėse narėse ir Šveicarijos Konfederacijoje. 
+3. Šio įstatymo nuostatos dėl konsultavimo apie sezoninį darbą paslaugų teikimo taikomos ir trečiųjų šalių piliečiams, atvykstantiems į Lietuvos Respubliką dirbti sezoninių darbų, nuostatos dėl tarpininkavimo įdarbinant paslaugų teikimo taikomos trečiųjų šalių piliečiams, ketinantiems dirbti Lietuvos Respublikoje pagal darbo sutartį, išskyrus piliečius, atvykstančius į Lietuvos Respubliką dirbti sezoninių darbų, nuostatos dėl laisvų darbo vietų registravimo, informavimo ir tarpininkavimo įdarbinant paslaugų teikimo taikomos ir darbdaviams, vykdantiems veiklą Europos ekonominės erdvės valstybėse narėse ir Šveicarijos Konfederacijoje.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
+ 
 
 
 
@@ -1628,6 +1632,54 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
+301 straipsnis. Tarpininkavimo įdarbinant paslaugos trečiųjų šalių piliečiams, ketinantiems dirbti Lietuvos Respublikoje
+
+
+1. Tarpininkavimo įdarbinant paslaugas trečiųjų šalių piliečiams, ketinantiems dirbti Lietuvos Respublikoje pagal darbo sutartį, teikia šio įstatymo 30 straipsnio 4 dalies 2 punkte nurodytas juridinis asmuo ar jo filialas (toliau – teikėjas).
+
+
+
+
+2. Teikėjas, ketinantis teikti tarpininkavimo įdarbinant paslaugas trečiųjų šalių piliečiams, ketinantiems dirbti Lietuvos Respublikoje pagal darbo sutartį, turi atitikti šiuos kriterijus:
+
+
+1) jam nėra iškelta bankroto byla, nėra likviduojamas, nėra priimtas kreditorių susirinkimo nutarimas bankroto procedūras vykdyti ne teismo tvarka;
+
+
+
+
+2) neturi mokestinės nepriemokos arba turi ne didesnę negu vieno bazinės socialinės išmokos dydžio mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar Valstybinio socialinio draudimo fondo biudžetui (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), vykdo įsipareigojimus muitinei;
+
+
+
+
+3) juridinio asmens vadovui ar kitam atsakingam asmeniui per paskutinius vienus metus iki šio įstatymo 30 straipsnio 5 dalyje nurodytos informacijos gavimo dienos nebuvo paskirta administracinė nuobauda už Lietuvos Respublikos administracinių nusižengimų kodekse numatytus tarpininkavimo įdarbinant paslaugų teikimo reikalavimų pažeidimus ar sąlygų užsiimti kita, negu atliekama pagal darbo sutartį, veikla sudarymą užsieniečiams, neturintiems leidimo užsiimti tokia veikla ir (ar) dokumento, patvirtinančio užsieniečio teisę būti ar gyventi Lietuvos Respublikoje.
+
+
+
+
+
+
+3. Sprendimą dėl teikėjo, ketinančio teikti tarpininkavimo įdarbinant paslaugas trečiųjų šalių piliečiams, ketinantiems dirbti Lietuvos Respublikoje pagal darbo sutartį, atitikties šio straipsnio 1 dalyje nurodytiems kriterijams priima Užimtumo tarnyba, gavusi šio įstatymo 30 straipsnio 5 dalyje nurodytą informaciją, jos nustatyta tvarka. 
+
+
+
+
+4. Tarpininkavimo įdarbinant paslaugos teikiamos tarp teikėjo ir darbdavio, ketinančio įdarbinti trečiųjų šalių piliečius, sudarant sutartį, kuria teikėjas įsipareigoja teikti nemokamas arba už atlyginimą tarpininkavimo įdarbinant paslaugas, o darbdavys įsipareigoja įdarbinti trečiųjų šalių piliečius šio straipsnio 5 dalyje nurodytomis sąlygomis.
+
+
+
+
+5. Tarpininkavimo įdarbinant paslaugas trečiosios šalies piliečiui, ketinančiam dirbti Lietuvos Respublikoje pagal darbo sutartį, teikia pats teikėjas pagal tarp teikėjo ir trečiosios šalies piliečio sudarytą sutartį, kuria įsipareigoja teikti nemokamas tarpininkavimo įdarbinant paslaugas ir pateikti darbo ieškančiam trečiosios šalies piliečiui darbdavio įsipareigojimą įdarbinti trečiosios šalies pilietį ne trumpesniam negu vienų metų laikotarpiui pagal darbo sutartį ir mokėti mėnesinį darbo užmokestį, ne mažesnį negu 1,5 Lietuvos statistikos departamento paskutinio paskelbto ketvirčio šalies ūkio (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) darbuotojų vidutinio mėnesinio bruto darbo užmokesčio dydžio, kai trečiosios šalies pilietis ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą, arba darbdavio įsipareigojimą įdarbinti trečiosios šalies pilietį pagal darbo sutartį ne trumpesniam negu 6 mėnesių laikotarpiui, kai trečiosios šalies pilietis ketina dirbti kitą darbą.
+
+
+Papildyta straipsniu:
+Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
+ 
+
+
+
+
 31 straipsnis. Individualios užimtumo veiklos planavimo paslaugos 
 
 
@@ -3013,7 +3065,10 @@ Nelegalaus darbo, nedeklaruoto darbo ir nedeklaruotos savarankiškos veiklos pre
 
 
 
-2) dirba asmuo, kuris nėra Europos Sąjungos pilietis, kaip nustatyta Sutarties dėl Europos Sąjungos veikimo 20 straipsnio 1 dalyje, ir nėra asmuo, kuris pagal Europos Sąjungos teisės aktus naudojasi judėjimo laisve (toliau – trečiosios šalies pilietis), įdarbintas nesilaikant norminių teisės aktų, reglamentuojančių trečiųjų šalių piliečių įdarbinimą, nustatytos tvarkos.
+2) dirba trečiosios šalies pilietis, įdarbintas nesilaikant norminių teisės aktų, reglamentuojančių trečiųjų šalių piliečių įdarbinimą, nustatytos tvarkos.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
+ 
 
 
 
@@ -3023,7 +3078,10 @@ Nelegalaus darbo, nedeklaruoto darbo ir nedeklaruotos savarankiškos veiklos pre
 2. Darbdavys nelaikomas pažeidusiu šio straipsnio 1 dalies 2 punktą, jeigu, įdarbindamas trečiosios šalies pilietį, įvykdo šias sąlygas:
 
 
-1) ne vėliau kaip prieš vieną darbo dieną iki numatytos darbo sutarties sudarymo dienos yra gautas leidimas gyventi Lietuvos Respublikoje ar kitas dokumentas, suteikiantis teisę būti ar gyventi Lietuvos Respublikoje, ir leidimas dirbti Lietuvos Respublikoje; 
+1) ne vėliau kaip prieš vieną darbo dieną iki numatytos darbo sutarties sudarymo dienos yra gautas leidimas gyventi Lietuvos Respublikoje ar kitas dokumentas, suteikiantis teisę būti ar gyventi Lietuvos Respublikoje, ir leidimas dirbti Lietuvos Respublikoje, jeigu pagal Lietuvos Respublikos įstatymą „Dėl užsieniečių teisinės padėties“ trečiosios šalies pilietis nėra atleidžiamas nuo pareigos įsigyti leidimą dirbti Lietuvos Respublikoje, arba Lietuvos Respublikos socialinės apsaugos ir darbo ministro nustatyta tvarka pranešė Užimtumo tarnybai apie trečiosios šalies piliečio įdarbinimą jo teisėto buvimo Lietuvos Respublikoje laikotarpiu, nurodytu Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 11 straipsnio 2–5 dalyse, kai jo profesija yra įtraukta į Užimtumo tarnybos direktoriaus patvirtintą profesijų, kurių darbuotojų trūksta Lietuvos Respublikoje, sąrašą pagal ekonominės veiklos rūšis;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
+ 
 
 
 
@@ -3146,14 +3204,30 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
+11) ne vėliau kaip prieš vieną darbo dieną iki numatytos darbo sutarties sudarymo dienos nepareikalauja iš trečiosios šalies piliečio pateikti dokumento, įrodančio jo kvalifikaciją ir (ar) kompetenciją, ir (ar) turimą darbo patirtį; 
+Papildyta straipsnio punktu:
+Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
+ 
+
+
+
+
 2) darbo Lietuvos Respublikoje laikotarpiu nesaugo šio įstatymo 56 straipsnio 2 dalies 1 punkte nurodytų dokumentų kopijų ir (ar) nepateikia jų Valstybinei darbo inspekcijai, Migracijos departamentui ar kitoms šio įstatymo 55 straipsnyje nurodytoms institucijoms jų reikalavimu;
 
 
 
 
-3) neteko galios.
+3) neteko galios;
 Straipsnio punkto pakeitimai:
 Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
+ 
+
+
+
+
+4) įdarbina trečiosios šalies pilietį pagal laikinojo darbo sutartį taip, kaip ji apibrėžiama Lietuvos Respublikos darbo kodekse.
+Papildyta straipsnio punktu:
+Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
  
 
 
