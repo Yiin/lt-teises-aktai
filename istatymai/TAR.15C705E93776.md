@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -323,6 +323,14 @@ Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
+ 
+
+
+
+
+35. Krizė suprantama taip, kaip ji apibrėžiama Nepaprastosios padėties įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2256, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10926
  
 
 
@@ -1861,7 +1869,10 @@ Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
 
 
-3. Šio straipsnio 1 dalies 2 punkte nurodytu atveju kariniai vienetai siunčiami padėti institucijoms, užtikrinančioms Nepaprastosios padėties įstatymo vykdymą, krašto apsaugos ministro įsakymu, gavę institucijos, atsakingos už ekstremalių situacijų valdymą, vadovo rašytinį prašymą. Karinių vienetų sąveiką su kitomis valstybės ir savivaldybių institucijomis koordinuoja institucijos, atsakingos už ekstremalių situacijų valdymą, vadovas. 
+3. Šio straipsnio 1 dalies 2 punkte nurodytu atveju kariniai vienetai siunčiami padėti institucijoms, užtikrinančioms Nepaprastosios padėties įstatymo vykdymą, krašto apsaugos ministro įsakymu, gavę institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą, vadovo rašytinį prašymą. Karinių vienetų sąveiką su kitomis valstybės ir savivaldybių institucijomis koordinuoja institucijos, atsakingos už ekstremalių situacijų ar krizės valdymą, vadovas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2256, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10926
+ 
 
 
 
@@ -1881,9 +1892,10 @@ Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
 
 
-7. Šio straipsnio 1 dalies 6 punkte nurodytu atveju karinis vienetas gali būti pasitelktas krašto apsaugos ministro įsakymu, kai dėl teroro išpuolio priimamas Krizių valdymo komiteto sprendimas pasitelkti karinį vienetą. Teroro išpuolio likvidavimo operacijai, kurią padeda vykdyti karinis vienetas, vadovauja teisės aktų nustatyta tvarka paskirtas teroro išpuolio likvidavimo operacijos vadovas. 
+7. Šio straipsnio 1 dalies 6 punkte nurodytu atveju karinis vienetas gali būti pasitelktas krašto apsaugos ministro įsakymu, kai dėl teroro išpuolio priimamas Nacionalinio saugumo komisijos sprendimas pasitelkti karinį vienetą. Teroro išpuolio likvidavimo operacijai, kurią padeda vykdyti karinis vienetas, vadovauja teisės aktų nustatyta tvarka paskirtas teroro išpuolio likvidavimo operacijos vadovas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
+Nr. XIII-2256, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10926
  
 
 
@@ -3924,7 +3936,7 @@ seržantas majoras                               
 3) jaunesniųjų karininkų
 leitenantas                                                                             leitenantas
 vyresnysis leitenantas                                                           vyresnysis leitenantas
-kapitonas                                                                              kapitonas leitenantas 
+kapitonas                                                                              kapitonas leitenantas 
  
 
 
@@ -6256,3 +6268,8 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1820, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21841
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 42 straipsnio pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2256, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10926
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2 ir 18 straipsnių pakeitimo įstatymas
