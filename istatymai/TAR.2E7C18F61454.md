@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2019-09-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
- 
-TAR pastaba. Įstatymas Nr. XIII-1934 taikomas parduodant turtą iš varžytynių, kurios paskelbtos po šio įstatymo įsigaliojimo (2019-07-01), taip pat kai po šio įstatymo įsigaliojimo turtas parduodamas skolininko pasiūlytam pirkėjui ar perduodamas išieškotojui.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
-Lietuvos Respublikos civilinio proceso kodekso 702, 704, 713, 715, 716, 717, 720, 724 ir 746 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS
 CIVILINIO PROCESO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR ĮGYVENDINIMO 
@@ -11381,9 +11376,17 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 
-9) jeigu pirmosios instancijos teismo sprendime (nutartyje, įsakyme ar nutarime) yra padaryta aiški teisės normos taikymo klaida, kuri galėjo turėti įtakos priimant neteisėtą sprendimą (nutartį, įsakymą ar nutarimą), ir sprendimas (nutartis, įsakymas ar nutarimas) nebuvo peržiūrėtas apeliacine tvarka. 
+9) jeigu pirmosios instancijos teismo sprendime (nutartyje, įsakyme ar nutarime) yra padaryta aiški teisės normos taikymo klaida, kuri galėjo turėti įtakos priimant neteisėtą sprendimą (nutartį, įsakymą ar nutarimą), ir sprendimas (nutartis, įsakymas ar nutarimas) nebuvo peržiūrėtas apeliacine tvarka; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+ 
+
+
+
+
+10) Lietuvos Respublikos Konstitucinis Teismas, nagrinėdamas Lietuvos Respublikos Konstitucijos 106 straipsnio ketvirtojoje dalyje nurodyto asmens prašymą, pripažįsta, kad įstatymas ar kitas Seimo priimtas aktas, Respublikos Prezidento aktas ar Vyriausybės aktas (ar jų dalis), kurio (kurios) pagrindu priimtas asmens konstitucines teises ar laisves pažeidžiantis sprendimas, prieštarauja Konstitucijai. 
+Papildyta straipsnio punktu:
+Nr. XIII-2329, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12370
  
 
 
@@ -11409,7 +11412,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 367 straipsnis. Prašymų atnaujinti procesą pateikimas 
 
 
-1. Jeigu prašymas atnaujinti procesą grindžiamas šio Kodekso 366 straipsnio 1 dalies 1 punkte numatytu pagrindu, jis pateikiamas Lietuvos Aukščiausiajam Teismui.
+1. Jeigu prašymas atnaujinti procesą grindžiamas šio Kodekso 366 straipsnio 1 dalies 1 ar 10 punkte numatytu pagrindu, jis pateikiamas Lietuvos Aukščiausiajam Teismui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2329, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12370
+ 
 
 
 
@@ -25227,3 +25233,8 @@ Lietuvos Respublikos civilinio proceso kodekso 80 straipsnio pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1934, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00892
 Lietuvos Respublikos civilinio proceso kodekso 702, 704, 713, 715, 716, 717, 720, 724 ir 746 straipsnių pakeitimo įstatymas
+ 
+42.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2329, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12370
+Lietuvos Respublikos civilinio proceso kodekso 366 ir 367 straipsnių pakeitimo įstatymas
