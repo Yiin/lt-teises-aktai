@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2019-06-01 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
  
@@ -86,7 +86,10 @@ Nr. XIII-951, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21662
 
 
 
-7) Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas. Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio šeimos nariais laikomi sutuoktinis arba asmuo, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginiai palikuonys, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, įskaitant sutuoktinio arba asmens, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginius palikuonis, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio, sutuoktinio ar asmens, su kuriuo sudaryta registruotos partnerystės sutartis, išlaikomi giminaičiai pagal tiesiąją aukštutinę liniją; 
+7) Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
+ 
 
 
 
@@ -96,7 +99,17 @@ Nr. XIII-951, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21662
 
 
 
-9) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje.
+9) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje;
+
+
+
+
+10) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Šių valstybių piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas. 
+10 punkto redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
+10) Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Šių valstybių piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas.
+Papildyta straipsnio punktu:
+Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
+ 
 
 
 
@@ -145,6 +158,13 @@ Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 
 
 5. Vaiko globėjas (rūpintojas) – fizinis ar juridinis asmuo, kuriam Civilinio kodekso nustatyta tvarka pavesta be tėvų globos likusio vaiko priežiūra, auklėjimas, teisių bei interesų gynimas ir atstovavimas jam. 
+
+
+
+
+6. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
  
 
 
@@ -264,7 +284,10 @@ VIENKARTINĖ IŠMOKA VAIKUI, IŠMOKA VAIKUI, IŠMOKA GIMUS VIENU METU DAUGIAU KA
 
 
 
-4. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas, kai vaiko globa nustatyta šeimoje, ir vaikas atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7 ar 9 punkto nuostatas, kai vaiko globa nustatyta šeimynoje, – jeigu vaikas atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7 ar 9 punkto nuostatas. Ši išmoka mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar globėjui. 
+4. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas, kai vaiko globa nustatyta šeimoje, ir vaikas atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas, kai vaiko globa nustatyta šeimynoje, – jeigu vaikas atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas. Ši išmoka mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar globėjui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
+ 
 
 
 
@@ -320,12 +343,18 @@ VIENKARTINĖ IŠMOKA VAIKUI, IŠMOKA VAIKUI, IŠMOKA GIMUS VIENU METU DAUGIAU KA
 
 
 
-3. Išmoka vaikui, kai vaikas auginamas ir (ar) globojamas šeimoje, skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7 ar 9 punkto nuostatas arba jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) atitinka šio įstatymo 1 straipsnio 2 dalies 4, 5 ar 8 punkto nuostatas, o vaikui yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo 1 straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje. Kai vaikui globa (rūpyba) nustatyta šeimynoje ar vaikų globos institucijoje ar kai vaiko globėjo (rūpintojo) teises ir pareigas įgyvendina globos centras, išmoka vaikui skiriama, jeigu vaikas atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7 ar 9 punkto nuostatas. Ši išmoka mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių), bendrai gyvenančių asmenų, globėjui (rūpintojui), emancipuotam ar susituokusiam nepilnamečiam vaikui, vaikui nuo 14 iki 18 metų, turinčiam tėvų ar rūpintojų sutikimą, ar pilnamečiam asmeniui, kuriam ši išmoka paskirta. 
+3. Išmoka vaikui, kai vaikas auginamas ir (ar) globojamas šeimoje, skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas arba jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) atitinka šio įstatymo 1 straipsnio 2 dalies 4, 5 ar 8 punkto nuostatas, o vaikui yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo 1 straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje. Kai vaikui globa (rūpyba) nustatyta šeimynoje ar vaikų globos institucijoje ar kai vaiko globėjo (rūpintojo) teises ir pareigas įgyvendina globos centras, išmoka vaikui skiriama, jeigu vaikas atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas. Ši išmoka mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių), bendrai gyvenančių asmenų, globėjui (rūpintojui), emancipuotam ar susituokusiam nepilnamečiam vaikui, vaikui nuo 14 iki 18 metų, turinčiam tėvų ar rūpintojų sutikimą, ar pilnamečiam asmeniui, kuriam ši išmoka paskirta. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
+ 
 
 
 
 
-4. Kai vaikas (asmuo) mokosi užsienio valstybės mokymo įstaigoje pagal mokymo programas, atitinkančias šio straipsnio 1 dalyje nustatytas mokymo programas, išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) (ar turimas vienintelis iš tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7 ar 9 punkto nuostatas, o kitas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) gyvena Lietuvos Respublikoje, arba jeigu nors vienas iš vaiko tėvų (įtėvių) (ar turimas vienintelis iš tėvų (įtėvių) ar globėjas (rūpintojas) atitinka šio įstatymo 1 straipsnio 2 dalies 4, 5 ar 8 punkto nuostatas ir vaikui yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, o kitas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) gyvena Lietuvos Respublikoje. Kai vaikas (asmuo) mokosi valstybėje, kurioje jam taikomos Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos, išmoka vaikui skiriama ir mokama pagal Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas dėl išmokų šeimai mokėjimo. Savivaldybių administracijos užsienio valstybės mokymo įstaigų mokymo programų atitiktį šio straipsnio 1 dalyje nurodytoms mokymo programoms nustato Vyriausybės tvirtinamuose Išmokų vaikams skyrimo ir mokėjimo nuostatuose (toliau – Išmokų vaikams skyrimo ir mokėjimo nuostatai) nustatyta tvarka.
+4. Kai vaikas (asmuo) mokosi užsienio valstybės mokymo įstaigoje pagal mokymo programas, atitinkančias šio straipsnio 1 dalyje nustatytas mokymo programas, išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) (ar turimas vienintelis iš tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas, o kitas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) gyvena Lietuvos Respublikoje, arba jeigu nors vienas iš vaiko tėvų (įtėvių) (ar turimas vienintelis iš tėvų (įtėvių) ar globėjas (rūpintojas) atitinka šio įstatymo 1 straipsnio 2 dalies 4, 5 ar 8 punkto nuostatas ir vaikui yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, o kitas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) gyvena Lietuvos Respublikoje. Kai vaikas (asmuo) mokosi valstybėje, kurioje jam taikomos Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos, išmoka vaikui skiriama ir mokama pagal Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas dėl išmokų šeimai mokėjimo. Savivaldybių administracijos užsienio valstybės mokymo įstaigų mokymo programų atitiktį šio straipsnio 1 dalyje nurodytoms mokymo programoms nustato Vyriausybės tvirtinamuose Išmokų vaikams skyrimo ir mokėjimo nuostatuose (toliau – Išmokų vaikams skyrimo ir mokėjimo nuostatai) nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
+ 
 
 
 
@@ -354,9 +383,10 @@ Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 
 
 
-3. Išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama, jeigu nors vienas iš vaikų tėvų ir vaikai atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7 ar 9 punkto nuostatas arba jeigu nors vienas iš vaikų tėvų atitinka šio įstatymo 1 straipsnio 2 dalies 4, 5 ar 8 punkto nuostatas, o vaikams yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo 1 straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaikų tėvų ir vaikai gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje, ir mokama vienam iš vaikus auginančių tėvų (ar turimam vieninteliam iš tėvų). 
+3. Išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama, jeigu nors vienas iš vaikų tėvų ir vaikai atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas arba jeigu nors vienas iš vaikų tėvų atitinka šio įstatymo 1 straipsnio 2 dalies 4, 5 ar 8 punkto nuostatas, o vaikams yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo 1 straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaikų tėvų ir vaikai gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje, ir mokama vienam iš vaikus auginančių tėvų (ar turimam vieninteliam iš tėvų). 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
+Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
  
 
 
@@ -409,7 +439,10 @@ Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 
 
 
-2. Išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7 ar 9 punkto nuostatas arba jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas atitinka šio įstatymo 1 straipsnio 2 dalies 4, 5 ar 8 punkto nuostatas, o vaikui yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo 1 straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje, ir mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar globėjui.
+2. Išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas atitinka šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas arba jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas atitinka šio įstatymo 1 straipsnio 2 dalies 4, 5 ar 8 punkto nuostatas, o vaikui yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo 1 straipsnio 2 dalies 6 punkto nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje, ir mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar globėjui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
+ 
 
 
 
@@ -452,7 +485,9 @@ Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 
 
 
-2. Vienkartinė išmoka nėščiai moteriai skiriama ir mokama moterims, atitinkančioms šio įstatymo 1 straipsnio 2 dalies 1, 2, 7 ar 9 punkto nuostatas.
+2. Vienkartinė išmoka nėščiai moteriai skiriama ir mokama moterims, atitinkančioms šio įstatymo 1 straipsnio 2 dalies 1, 2, 7, 9 ar 10 punkto nuostatas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
  
 
 
@@ -1464,3 +1499,8 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 6, 7, 9, 11, 13, 14
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
 Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 3, 16, 17, 19, 21 straipsnių, trečiojo skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 2, 5, 6, 7, 9 ir 10 straipsnių pakeitimo įstatymas
