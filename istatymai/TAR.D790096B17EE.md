@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2020-01-16
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
  
@@ -467,8 +467,6 @@ Vartotojų teisių apsaugą Lietuvos Respublikoje užtikrina:
 1. Vyriausybė vartotojų teisių apsaugos srityje:
 
 
-1) kas 4 metai tvirtina Valstybinę vartotojų teisių apsaugos strategiją; 
-1 punkto redakcija nuo 2019-01-01:
 1) tvirtina Valstybinę vartotojų apsaugos plėtros programą;
 Straipsnio punkto pakeitimai:
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
@@ -696,7 +694,18 @@ Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 
 
 
-14) atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
+14) organizuoja vartotojų nuomonių, elgsenos, prekių ir paslaugų kainų bei kitus tyrimus; 
+Papildyta straipsnio punktu:
+Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
+ 
+
+
+
+
+15) atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
+ 
 
 
 
@@ -729,12 +738,33 @@ Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 
 
 
-5) sudaryti komisijas, darbo grupes teisės aktams rengti ar kitiems Valstybinės vartotojų teisių apsaugos tarnybos kompetencijos klausimams spręsti, įtraukti į jas kitų institucijų (suderinus su jų vadovais) specialistus;
+5) atlikti prekių ir paslaugų kontrolinius pirkimus. Juos atliekant, sprendimo atlikti neplaninį patikrinimą kopija verslininkui turi būti pateikta iš karto po atlikto kontrolinio pirkimo. Atliekant kontrolinius pirkimus gali būti daromas vaizdo ir (ar) garso įrašas. Jeigu atliekant prekių kontrolinį pirkimą pažeidimo požymių nenustatyta, kontrolinio pirkimo metu sumokėti pinigai grąžinami Valstybinei vartotojų teisių apsaugos tarnybai, o prekės – verslininkui. Kontrolinių pirkimų atlikimo tvarką nustato teisingumo ministras; 
+Papildyta straipsnio punktu:
+Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
+ 
 
 
 
 
-6) kitas įstatymų ir kitų teisės aktų nustatytas teises.
+6) duoti šio įstatymo 491 straipsnyje nurodytus privalomus nurodymus panaikinti galimybę pasiekti informaciją, blokuojant interneto domeno vardą, identifikuojantį interneto svetainę; 
+Papildyta straipsnio punktu:
+Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
+ 
+
+
+
+
+7) sudaryti komisijas, darbo grupes teisės aktams rengti ar kitiems Valstybinės vartotojų teisių apsaugos tarnybos kompetencijos klausimams spręsti, įtraukti į jas kitų institucijų (suderinus su jų vadovais) specialistus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
+ 
+
+
+
+
+8) kitas įstatymų ir kitų teisės aktų nustatytas teises.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
  
 
 
@@ -2657,12 +2687,13 @@ Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
 40 straipsnis. Atsakomybė už teisės aktų, reglamentuojančių vartotojų teisių apsaugą, pažeidimus
 
 
-1. Valstybinė vartotojų teisių apsaugos tarnyba už Reglamento (ES) 2018/302 3, 4 straipsniuose ir 5 straipsnio 1 ir 2 dalyse, Civilinio kodekso 6.2285 straipsnio 5 dalyje, 6.2286 straipsnio 1 dalyje, 6.2287 straipsnio 1 dalyje, 6.2288 straipsnio 2–6 dalyse, 6.2289 straipsnio 4 ir 5 dalyse, 6.22810 straipsnio 1, 9 ir 10 dalyse, 6.22811 straipsnio 2, 6–12 dalyse, 6.22812 straipsnio 3, 4 ir 7 dalyse, 6.22816 straipsnio 1 dalyje, 6.359, 6.3591 straipsniuose, 6.369 straipsnio 3, 7–13 dalyse, 6.370 straipsnio 4–9 dalyse ir šio įstatymo 36 straipsnio 5–17 dalyse, 37 straipsnio 1–4, 8–12 dalyse, 38 straipsnio 1 dalyje, 39 straipsnyje nurodytų reikalavimų (draudimų) nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo vieno šimto keturiasdešimt keturių iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų baudą. Valstybinė vartotojų teisių apsaugos tarnyba už Reglamento (ES) Nr. 524/2013 14 straipsnyje, šio įstatymo 5 straipsnio 3–5 dalyse, 21 straipsnio 2 ir 3 dalyse nurodytų reikalavimų nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo septyniasdešimt dviejų iki septynių šimtų dvidešimt keturių eurų baudą.
+1. Valstybinė vartotojų teisių apsaugos tarnyba už Reglamento (ES) 2018/302 3, 4 straipsniuose ir 5 straipsnio 1 ir 2 dalyse, Civilinio kodekso 6.2285 straipsnio 5 dalyje, 6.2286 straipsnio 1 dalyje, 6.2287 straipsnio 1 dalyje, 6.2288 straipsnio 2–6 dalyse, 6.2289 straipsnio 4 ir 5 dalyse, 6.22810 straipsnio 1, 9 ir 10 dalyse, 6.22811 straipsnio 2, 6–12 dalyse, 6.22812 straipsnio 4 ir 7 dalyse, 6.22816 straipsnio 1 dalyje, 6.359, 6.3591 straipsniuose, 6.369 straipsnio 3, 7–13 dalyse, 6.370 straipsnio 4–9 dalyse ir šio įstatymo 36 straipsnio 5–17 dalyse, 37 straipsnio 1–4, 8–12 dalyse, 38 straipsnio 1 dalyje, 39 straipsnyje nurodytų reikalavimų (draudimų) nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo penkių šimtų iki penkių tūkstančių eurų baudą. Valstybinė vartotojų teisių apsaugos tarnyba už Reglamento (ES) Nr. 524/2013 14 straipsnyje, šio įstatymo 5 straipsnio 3–5 dalyse, 21 straipsnio 2 ir 3 dalyse nurodytų reikalavimų nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo dviejų šimtų penkiasdešimt iki dviejų tūkstančių penkių šimtų eurų baudą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1256, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14862
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 Nr. XII-2757, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26961
 Nr. XIII-1600, 2018-11-06, paskelbta TAR 2018-11-12, i. k. 2018-18211
+Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
  
 
 
@@ -2688,9 +2719,10 @@ Nr. XIII-1600, 2018-11-06, paskelbta TAR 2018-11-12, i. k. 2018-18211
 
 
 
-6. Už informacijos, reikalingos tyrimui atlikti, nepateikimą, taip pat neteisingos ar ne visos informacijos pateikimą, vengimą Valstybinės vartotojų teisių apsaugos tarnybos reikalavimu atvykti ir pateikti paaiškinimus, jeigu prieš tai buvo taikytas įspėjimas, gali būti skiriama bauda iki dviejų šimtų aštuoniasdešimt devynių eurų.
+6. Už informacijos, reikalingos tyrimui atlikti, nepateikimą, taip pat neteisingos ar ne visos informacijos pateikimą gali būti skiriama bauda nuo vieno tūkstančio iki penkių tūkstančių eurų. Už vengimą Valstybinės vartotojų teisių apsaugos tarnybos reikalavimu atvykti ir pateikti paaiškinimus, jeigu prieš tai pardavėjas, paslaugų teikėjas buvo įspėtas, gali būti skiriama bauda  nuo keturių šimtų iki dviejų tūkstančių eurų. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1256, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14862
+Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
  
 
 
@@ -3014,6 +3046,50 @@ Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
 
 Įstatymas papildytas straipsniu:
 Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
+ 
+
+
+
+
+491 straipsnis. Privalomi nurodymai interneto prieigos paslaugų teikėjams
+
+
+1. Valstybinė vartotojų teisių apsaugos tarnyba turi teisę duoti interneto prieigos paslaugų teikėjams, teikiantiems paslaugas pardavėjams, paslaugų teikėjams, kurie šiomis paslaugomis naudojasi vykdydami veiklą, kuria šiurkščiai ar sistemingai pažeidžiami vartotojų apsaugos reikalavimai, nustatyti šiame įstatyme, Civiliniame kodekse, Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme ar Produktų saugos įstatyme, privalomus nurodymus panaikinti galimybę pasiekti informaciją, blokuojant interneto domeno vardą, identifikuojantį interneto svetainę, tol, kol nepašalinami pažeidimai. Šioje dalyje nurodytais interneto prieigos paslaugų teikėjais laikomi fiziniai arba juridiniai asmenys, įskaitant Lietuvos Respublikoje įregistruotus užsienio juridinio asmens filialus ar atstovybes, kurie teikia interneto prieigos paslaugas.
+
+
+
+
+2. Valstybinė vartotojų teisių apsaugos tarnyba, siekdama įgyvendinti šio įstatymo 12 straipsnio 2 dalies 6 punkte nurodytą teisę, privalo pateikti prašymą išduoti leidimą atlikti veiksmus Vilniaus apygardos administraciniam teismui. Prašyme turi būti nurodytas pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas (jei jie žinomi), interneto svetainę identifikuojantis domeno vardas, įstatymų pažeidimų esmė ir numatomi atlikti veiksmai (privalomi nurodymai).
+
+
+
+
+3. Vilniaus apygardos administracinis teismas Valstybinės vartotojų teisių apsaugos tarnybos prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį šį prašymą patenkinti arba atmesti ne vėliau kaip per 5 dienas nuo prašymo gavimo dienos. 
+
+
+
+
+4. Jeigu Valstybinė vartotojų teisių apsaugos tarnyba nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą, ji turi teisę per 7 dienas nuo tokios nutarties priėmimo dienos apskųsti šią nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7  dienas nuo skundo gavimo dienos.
+
+
+
+
+5. Pašalinus pažeidimą ir apie tai pateikus informaciją Valstybinei vartotojų teisių apsaugos tarnybai, prieiga prie užblokuoto interneto domeno vardo, identifikuojančio interneto svetainę, atnaujinama per 7 dienas nuo informacijos apie pašalintą pažeidimą gavimo dienos. 
+
+
+
+
+6. Valstybinės vartotojų teisių apsaugos tarnybos atstovas turi teisę dalyvauti nagrinėjant skundą, kai skundas nagrinėjamas žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+
+
+
+
+7. Privalomų nurodymų taikymo interneto prieigos paslaugų teikėjams tvarką nustato Vyriausybė ar jos įgaliota institucija. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
+ 
 
 
 
@@ -3236,3 +3312,8 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 22-1 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1975, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03174
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 22 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12 ir 40 straipsnių pakeitimo ir Įstatymo papildymo 49-1 straipsniu įstatymas
