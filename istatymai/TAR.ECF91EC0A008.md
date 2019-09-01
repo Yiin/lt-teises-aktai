@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ecf91ec0a00811e58fd1fc0b9bba68a7"
 
 # Lietuvos Respublikos civilinės būklės aktų registravimo įstatymas
 
+Suvestinė redakcija nuo 2019-09-01 iki 2022-04-30
+ 
+Įstatymas paskelbtas: TAR 2015-12-14, i. k. 2015-19697
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 CIVILINĖS BŪKLĖS AKTŲ REGISTRAVIMO
 ĮSTATYMAS
@@ -341,7 +348,10 @@ SANTUOKŲ REGISTRAVIMAS IR APSKAITA
 
 
 
-3. Užsieniečiai, paduodami prašymą įregistruoti santuoką, privalo pateikti savo kilmės valstybės kompetentingos institucijos išduotą dokumentą, patvirtinantį, kad pagal kilmės valstybės teisę santuokai nėra kliūčių. Jeigu nuolat Lietuvos Respublikoje gyvenantis asmuo be pilietybės, pabėgėlis ar užsienietis, kuriam suteikta papildoma apsauga Lietuvos Respublikoje, šio dokumento pateikti negali, jis pateikia pasirašytą deklaraciją, kuria patvirtina, kad nėra kliūčių sudaryti santuoką. Deklaracijos, kuria patvirtinamas kliūčių sudaryti santuoką nebuvimas, formą tvirtina teisingumo ministras.
+3. Užsieniečiai, paduodami prašymą įregistruoti santuoką, privalo pateikti savo kilmės valstybės kompetentingos institucijos išduotą dokumentą, patvirtinantį, kad pagal kilmės valstybės teisę santuokai nėra kliūčių. Jeigu nuolat Lietuvos Respublikoje gyvenantis asmuo be pilietybės, pabėgėlis ar užsienietis, kuriam suteikta papildoma apsauga Lietuvos Respublikoje, šio dokumento pateikti negali, jis pateikia pasirašytą deklaraciją, kuria patvirtina, kad nėra kliūčių sudaryti santuoką. Deklaracijos, kuria patvirtinamas kliūčių sudaryti santuoką nebuvimas, formą tvirtina teisingumo ministras. Užsieniečiai, išskyrus Europos Sąjungos ir Europos laisvosios prekybos asociacijos valstybių narių piliečius, taip pat privalo pateikti teisėtą buvimą Lietuvos Respublikoje patvirtinančius dokumentus. Jeigu civilinės metrikacijos įstaigai kyla abejonių dėl užsieniečio, išskyrus Europos Sąjungos ir Europos laisvosios prekybos asociacijos valstybių narių piliečius, teisėto buvimo Lietuvos Respublikoje, ji kreipiasi išvados į Valstybės sienos apsaugos tarnybą prie Lietuvos Respublikos vidaus reikalų ministerijos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2340, 2019-07-16, paskelbta TAR 2019-07-30, i. k. 2019-12536
+ 
 
 
 
@@ -659,4 +669,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2340, 2019-07-16, paskelbta TAR 2019-07-30, i. k. 2019-12536
+Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo Nr. XII-2111 15 straipsnio pakeitimo įstatymas
