@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2019-10-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -520,7 +520,10 @@ Nr. XI-2361, 2012-11-06, Žin., 2012, Nr. 132-6687 (2012-11-15)
 
 
 
-3. Žemės savininkas apie sprendimą parduoti miškų ūkio paskirties žemės sklypą praneša pasirinktam notarui arba Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos (toliau – Nacionalinė žemės tarnyba) teritoriniam padaliniui pagal parduodamo žemės sklypo buvimo vietą. Pranešime apie sprendimą parduoti miškų ūkio paskirties žemės sklypą žemės savininkas privalo nurodyti pardavimo sąlygas. Jeigu miškų ūkio paskirties žemės sklypo savininko pranešimas apie sprendimą parduoti miškų ūkio paskirties žemės sklypą pateikiamas notarui, šis ne vėliau kaip per 2 darbo dienas nuo jo gavimo pranešimą perduoda Nacionalinės žemės tarnybos teritoriniam padaliniui pagal parduodamo žemės sklypo buvimo vietą. Kai parduodama bendrosios nuosavybės teise valdoma žemės sklypo dalis, pranešimas apie sprendimą parduoti miškų ūkio paskirties žemės sklypo dalį Nacionalinės žemės tarnybos teritoriniam padaliniui pateikiamas tik tuo atveju, kai Civilinio kodekso 4.79 straipsnyje nustatyta tvarka pirmumo teise pirkti žemės sklypą nepasinaudoja to žemės sklypo bendraturtis.
+3. Miškų ūkio paskirties žemės sklypo savininkas apie sprendimą parduoti miškų ūkio paskirties žemės sklypą praneša pasirinktam notarui arba Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos (toliau – Nacionalinė žemės tarnyba) teritoriniam padaliniui pagal parduodamo miškų ūkio paskirties žemės sklypo buvimo vietą. Pranešime apie sprendimą parduoti miškų ūkio paskirties žemės sklypą savininkas privalo nurodyti pardavimo sąlygas. Miškų ūkio paskirties žemės sklypo savininkui draudžiama nustatyti žemės sklypo pardavimo sąlygą, numatančią, kad šio straipsnio 1 ar 2 dalyje nurodytas pirmumo teisę turintis asmuo gali pirmumo teise įsigyti parduodamą miškų ūkio paskirties žemės sklypą tik su kitais parduodamais miškų ūkio paskirties žemės sklypais. Jeigu miškų ūkio paskirties žemės sklypo savininko pranešimas apie sprendimą parduoti miškų ūkio paskirties žemės sklypą pateikiamas notarui, šis ne vėliau kaip per 2 darbo dienas nuo jo gavimo pranešimą perduoda Nacionalinės žemės tarnybos teritoriniam padaliniui pagal parduodamo žemės sklypo buvimo vietą. Kai parduodama bendrosios nuosavybės teise valdoma žemės sklypo dalis, pranešimas apie sprendimą parduoti miškų ūkio paskirties žemės sklypo dalį Nacionalinės žemės tarnybos teritoriniam padaliniui pateikiamas tik kai Civilinio kodekso 4.79 straipsnyje nustatyta tvarka pirmumo teise pirkti žemės sklypą nepasinaudoja to žemės sklypo bendraturtis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2410, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12400
+ 
 
 
 
@@ -1886,3 +1889,8 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1644, 2018-11-15, paskelbta TAR 2018-11-27, i. k. 2018-19126
 Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2410, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12400
+Lietuvos Respublikos miškų įstatymo Nr. I-671 4-1 straipsnio pakeitimo įstatymas
