@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2019-08-03 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2019-10-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -16915,24 +16915,25 @@ Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
 542 straipsnis. Nepranešimas apie pasikeitusius užsieniečio duomenis
 
 
-1. Informacijos apie leidimą laikinai gyventi Lietuvos Respublikoje turinčio užsieniečio mokymosi, studijų, stažuotės, kvalifikacijos tobulinimo ar savanoriškos veiklos nutraukimą nepateikimas laiku Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos 
+1. Informacijos apie nacionalinę vizą ar leidimą laikinai gyventi Lietuvos Respublikoje turinčio užsieniečio mokymosi, studijų, stažuotės, kvalifikacijos tobulinimo ar savanoriškos veiklos nutraukimą arba apie jo neatvykimą nepateikimas laiku Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos
 užtraukia baudą švietimo įstaigos, mokslo ir studijų institucijos ar kitos įmonės, įstaigos ar organizacijos vadovui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 
 
 
-2. Informacijos apie darbo sutarties su leidimą laikinai gyventi Lietuvos Respublikoje turinčiu užsieniečiu nutraukimą, o nustatytais atvejais – apie jo darbo užmokesčio sumažėjimą nepateikimas laiku Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos 
+2. Informacijos apie darbo sutarties su nacionalinę vizą ar leidimą laikinai gyventi Lietuvos Respublikoje turinčiu užsieniečiu nutraukimą, o nustatytais atvejais – apie jo neatvykimą ar neįdarbinimą arba užsieniečio darbo užmokesčio sumažėjimą nepateikimas laiku Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos
 užtraukia baudą darbdaviui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 
 
 
 3. Informacijos apie sąlygų, kurios pagal Lietuvos Respublikos įstatymą „Dėl užsieniečių teisinės padėties“ taikomos užsieniečio perkėlimui įmonės viduje, pasikeitimą nepateikimas laiku Migracijos departamentui prie Lietuvos Respublikos vidaus reikalų ministerijos
-užtraukia baudą priimančiosios įmonės, įsteigtos Lietuvos Respublikoje, vadovui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų. 
+užtraukia baudą priimančiosios įmonės, įsteigtos Lietuvos Respublikoje, vadovui ar jo įgaliotam asmeniui nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
+Nr. XIII-2339, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12402
  
 
 
@@ -21244,6 +21245,14 @@ Administracinio nusižengimo byla, užbaigta įsiteisėjusiu nutarimu ar nutarti
 
 
 
+7) Lietuvos Respublikos Konstitucinis Teismas, nagrinėdamas Lietuvos Respublikos Konstitucijos 106 straipsnio ketvirtojoje dalyje nurodyto asmens prašymą, pripažįsta, kad įstatymas ar kitas Lietuvos Respublikos Seimo priimtas aktas, Respublikos Prezidento aktas ar Lietuvos Respublikos Vyriausybės aktas (ar jų dalis), kurio (kurios) pagrindu priimtas sprendimas patraukti asmenį administracinėn atsakomybėn, prieštarauja Lietuvos Respublikos Konstitucijai, taip pat jeigu dėl šio prieštaravimo kyla pagrįstų abejonių dėl asmens patraukimo administracinėn atsakomybėn ir besitęsiantys šio asmens teisių ar laisvių pažeidimai gali būti ištaisyti tik atnaujinus bylą.
+Papildyta straipsnio punktu:
+Nr. XIII-2331, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12373
+ 
+
+
+
+
 
 
 2. Kai šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytiems asmenims negalima priimti nuosprendžio, nutarimo ar nutarties, nes administracinėn atsakomybėn patrauktas asmuo miręs arba suėjo baudžiamosios ar administracinės atsakomybės senaties terminai, paaiškėjusios naujos aplinkybės nustatomos atliekant šio kodekso 661 straipsnyje nurodytą tyrimą.
@@ -21276,7 +21285,10 @@ Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 
 
 
-3) šio kodekso 658 straipsnio 1 dalies 6 punkte nurodytais pagrindais – administracinėn atsakomybėn patrauktas asmuo, jo teisių perėmėjas ar kitas atstovas;
+3) šio kodekso 658 straipsnio 1 dalies 6 ar 7 punkte nurodytais pagrindais – administracinėn atsakomybėn patrauktas asmuo, jo teisių perėmėjas ar kitas atstovas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2331, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12373
+ 
 
 
 
@@ -21309,7 +21321,9 @@ Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 
 
 
-3. Prašymas atnaujinti administracinio nusižengimo bylą šio kodekso 658 straipsnio 1 dalies 6 punkte nurodytais pagrindais paduodamas Lietuvos Aukščiausiajam Teismui per šešis mėnesius nuo tos dienos, kurią priimtas Jungtinių Tautų Žmogaus teisių komiteto sprendimas arba Europos Žmogaus Teisių Teismo sprendimas yra ar tapo galutinis.
+3. Prašymas atnaujinti administracinio nusižengimo bylą šio kodekso 658 straipsnio 1 dalies 6 ar 7 punkte nurodytais pagrindais paduodamas Lietuvos Aukščiausiajam Teismui per šešis mėnesius nuo tos dienos, kurią priimtas Jungtinių Tautų Žmogaus teisių komiteto sprendimas arba Europos Žmogaus Teisių Teismo sprendimas, arba Lietuvos Respublikos Konstitucinio Teismo sprendimas yra ar tapo galutinis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2331, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12373
  
 
 
@@ -21517,7 +21531,7 @@ Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 
 
 
-663 straipsnis. Administracinio nusižengimo bylos atnaujinimas dėl Jungtinių Tautų Žmogaus teisių komiteto arba Europos Žmogaus Teisių Teismo sprendimo
+663 straipsnis. Administracinio nusižengimo bylos atnaujinimas dėl Jungtinių Tautų Žmogaus teisių komiteto sprendimo arba Europos Žmogaus Teisių Teismo sprendimo, arba Lietuvos Respublikos Konstitucinio Teismo sprendimo
 
 
 1. Prašymas atnaujinti administracinio nusižengimo bylą šio kodekso 658 straipsnio 1 dalies 6 punkte nurodytu pagrindu kartu su Jungtinių Tautų Žmogaus teisių komiteto sprendimu arba Europos Žmogaus Teisių Teismo galutiniu sprendimu ir jų vertimais į lietuvių kalbą paduodami Lietuvos Aukščiausiajam Teismui.
@@ -21525,15 +21539,22 @@ Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 
 
 
-2. Šio straipsnio 1 dalyje nurodyto prašymo priėmimo ir administracinio nusižengimo bylos atnaujinimo klausimas sprendžiamas, atnaujinta administracinio nusižengimo byla Lietuvos Aukščiausiajame Teisme nagrinėjama taikant atitinkamai Baudžiamojo proceso kodekso 459, 460 straipsnių nuostatas. Atnaujinęs administracinio nusižengimo bylą, teismas turi įgaliojimus sustabdyti toje byloje priimtų nutarimų ir nutarčių vykdymą. 
+2. Prašymas atnaujinti administracinio nusižengimo bylą šio kodekso 658 straipsnio 1 dalies 7 punkte nurodytu pagrindu paduodamas Lietuvos Aukščiausiajam Teismui.
 
 
 
 
-3. Išnagrinėjęs atnaujintą administracinio nusižengimo bylą, teismas priima vieną iš šio kodekso 662 straipsnio 14 dalyje nurodytų sprendimų.
+3. Šio straipsnio 1 ar 2 dalyje nurodyto prašymo priėmimo ir administracinio nusižengimo bylos atnaujinimo klausimas sprendžiamas, atnaujinta administracinio nusižengimo byla Lietuvos Aukščiausiajame Teisme nagrinėjama taikant atitinkamai Baudžiamojo proceso kodekso 459, 460 straipsnių nuostatas. Atnaujinęs administracinio nusižengimo bylą, teismas turi įgaliojimus sustabdyti toje byloje priimtų nutarimų ir nutarčių vykdymą. 
+
+
+
+
+4. Išnagrinėjęs atnaujintą administracinio nusižengimo bylą, teismas priima vieną iš šio kodekso 662 straipsnio 14 dalyje nurodytų sprendimų.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2331, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12373
  
-
-
 
 
 
@@ -23509,3 +23530,13 @@ Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 188-1 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
 Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 370-1 straipsniu ir 370-1, 589 straipsnių ir priedo pakeitimo įstatymas
+ 
+83.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2331, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12373
+Lietuvos Respublikos administracinių nusižengimų kodekso 658, 659, 660 ir 663 straipsnių pakeitimo įstatymas
+ 
+84.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2339, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12402
+Lietuvos Respublikos administracinių nusižengimų kodekso 542 straipsnio pakeitimo įstatymas
