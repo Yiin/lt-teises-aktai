@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-06-01 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -188,7 +188,10 @@ Nr. XIII-85, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29273
 
 
 
-21. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos fiskalinės drausmės įstatyme (toliau – Fiskalinės drausmės įstatymas), Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme (toliau – Viešojo sektoriaus atskaitomybės įstatymas) ir Lietuvos Respublikos valstybės skolos įstatyme (toliau – Valstybės skolos įstatymas).
+21. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos fiskalinės drausmės įstatyme (toliau – Fiskalinės drausmės įstatymas), Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme (toliau – Viešojo sektoriaus atskaitomybės įstatymas), Lietuvos Respublikos valstybės skolos įstatyme (toliau – Valstybės skolos įstatymas), Lietuvos Respublikos civilinės saugos įstatyme ir Lietuvos Respublikos nepaprastosios padėties įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2259, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10929
+ 
 
 
 Straipsnio pakeitimai:
@@ -758,7 +761,10 @@ Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
 2. Vyriausybės rezervo lėšos naudojamos:
 
 
-1) ekstremaliosioms situacijoms likviduoti, jų padariniams šalinti ir padarytiems nuostoliams iš dalies padengti;
+1) ekstremaliosioms situacijoms ar krizėms likviduoti, jų padariniams šalinti ir padarytiems nuostoliams iš dalies padengti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2259, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10929
+ 
 
 
 
@@ -2169,3 +2175,8 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 37 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2080, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07319
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 15 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2259, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10929
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2 ir 15 straipsnių pakeitimo įstatymas
