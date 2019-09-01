@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.12977CB93B03"
 
 # Lietuvos Respublikos paramos mirties atveju įstatymas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 73-1371, i. k. 0931010ISTA000I-348
  
@@ -162,7 +162,10 @@ Nr. XIII-950, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21661
 
 
 
-7) Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams, kuriems buvo išduoti dokumentai, patvirtinantys ar suteikiantys teisę gyventi Lietuvos Respublikoje. Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio šeimos nariais laikomi sutuoktinis arba asmuo, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginiai palikuonys, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, įskaitant sutuoktinio arba asmens, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginius palikuonis, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio, sutuoktinio ar asmens, su kuriuo sudaryta registruotos partnerystės sutartis, išlaikomi giminaičiai pagal tiesiąją aukštutinę liniją;
+7) Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams, kuriems buvo išduoti dokumentai, patvirtinantys ar suteikiantys teisę gyventi Lietuvos Respublikoje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2344, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12435
+ 
 
 
 
@@ -173,7 +176,16 @@ Nr. XIII-950, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21661
 
 
 9) Lietuvos Respublikoje gyvenusiems užsieniečiams, kuriems buvo išduotas leidimas laikinai gyventi Lietuvos Respublikoje kaip perkeltiems įmonės viduje.
-TAR pastaba. 5 straipsnio 1 dalies 9 punktas įsigalioja 2017-06-01.
+
+
+
+
+10) Lietuvos Respublikoje gyvenusiems Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems buvo išduoti leidimai laikinai gyventi Lietuvos Respublikoje. 
+10 punkto redakcija, įsigaliojanti  Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
+10) Lietuvos Respublikoje gyvenusiems Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems buvo išduoti leidimai laikinai gyventi Lietuvos Respublikoje.
+Papildyta straipsnio punktu:
+Nr. XIII-2344, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12435
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -398,7 +410,7 @@ BAIGIAMOSIOS NUOSTATOS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
  
  
 
@@ -505,4 +517,9 @@ Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 5 straipsnio pak
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-950, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21661
+Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 5 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2344, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12435
 Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 5 straipsnio pakeitimo įstatymas
