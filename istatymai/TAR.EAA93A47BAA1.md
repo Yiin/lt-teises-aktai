@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EAA93A47BAA1"
 
 # Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas
 
-Suvestinė redakcija nuo 2019-07-27 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2019-09-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 30-827, i. k. 1001010ISTAIII-1591
  
@@ -56,9 +56,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Antrinė valstybės garantuojama teisinė pagalba (toliau – antrinė teisinė pagalba) – dokumentų rengimas, gynyba ir atstovavimas bylose, įskaitant vykdymo procesą, atstovavimas išankstinio ginčų sprendimo ne teisme atvejais, jeigu tokią tvarką nustato įstatymai ar teismo sprendimas. Antrinė teisinė pagalba taip pat apima bylinėjimosi išlaidų bylose, išnagrinėtose civilinio proceso tvarka, atlyginimą, su bylos nagrinėjimu administracinio proceso tvarka susijusių išlaidų, administracinių nusižengimų bylų nagrinėjimo teisme išlaidų ir su baudžiamojoje byloje pareikšto civilinio ieškinio nagrinėjimu susijusių išlaidų atlyginimą.
+1. Antrinė valstybės garantuojama teisinė pagalba (toliau – antrinė teisinė pagalba) – dokumentų rengimas, gynyba ir atstovavimas bylose, įskaitant vykdymo procesą, atstovavimas išankstinio ginčų sprendimo ne teisme atvejais, jeigu tokią tvarką nustato įstatymai ar teismo sprendimas. Antrinė teisinė pagalba taip pat apima bylinėjimosi išlaidų bylose, išnagrinėtose civilinio proceso tvarka, ir išlaidų konstitucinės justicijos bylose atlyginimą, su bylos nagrinėjimu administracinio proceso tvarka susijusių išlaidų, administracinių nusižengimų bylų nagrinėjimo teisme išlaidų ir su baudžiamojoje byloje pareikšto civilinio ieškinio nagrinėjimu susijusių išlaidų atlyginimą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2715, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26500
+Nr. XIII-2333, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12377
  
 
 
@@ -69,9 +70,10 @@ Nr. XII-2715, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26500
 
 
 
-3. Gynyba ir atstovavimas bylose – įstatymų reglamentuojami procesiniai veiksmai ginant įtariamojo, kaltinamojo, nuteistojo ar atstovaujamojo teises ir interesus baudžiamosiose, civilinėse (išskyrus arbitražo bylas), administracinėse ir administracinių nusižengimų bylose, taip pat tarptautinėse teisminėse institucijose, kurių jurisdikciją ar kompetenciją spręsti dėl Lietuvos Respublikos jurisdikcijai priklausančių asmenų teisių pažeidimų yra pripažinusi Lietuvos Respublika, jeigu šiose institucijose nėra teikiama teisinė pagalba.
+3. Gynyba ir atstovavimas bylose – įstatymų reglamentuojami procesiniai veiksmai ginant įtariamojo, kaltinamojo, nuteistojo ar atstovaujamojo teises ir interesus baudžiamosiose, civilinėse (išskyrus arbitražo bylas), administracinėse, administracinių nusižengimų bylose ir konstitucinės justicijos bylose, taip pat tarptautinėse teisminėse institucijose, kurių jurisdikciją ar kompetenciją spręsti dėl Lietuvos Respublikos jurisdikcijai priklausančių asmenų teisių pažeidimų yra pripažinusi Lietuvos Respublika, jeigu šiose institucijose nėra teikiama teisinė pagalba. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2715, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26500
+Nr. XIII-2333, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12377
  
 
 
@@ -1070,9 +1072,10 @@ Nr. XIII-1437, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11748
 
 
 
-2. Antrinės teisinės pagalbos išlaidas sudaro išlaidos, nuo kurių mokėjimo pareiškėjas atleidžiamas, tai yra: bylinėjimosi išlaidos bylose, išnagrinėtose civilinio proceso tvarka, su bylos nagrinėjimu administracinio proceso tvarka susijusios išlaidos, administracinių nusižengimų bylų nagrinėjimo teisme išlaidos, su baudžiamojoje byloje pareikšto civilinio ieškinio nagrinėjimu susijusios išlaidos, numatytos šio įstatymo 20 straipsnyje, išlaidos, susijusios su gynyba ir atstovavimu nagrinėjant bylas (įskaitant apeliacine ir kasacine tvarka nagrinėjamas bylas, nesvarbu, kas jas pradeda), taip pat vykdymo proceso išlaidos, nurodytos teisingumo ministro patvirtintoje Sprendimų vykdymo instrukcijoje, išlaidos, susijusios su procesinių dokumentų rengimu ir įrodymų rinkimu, vertimu, su atstovavimu išankstinio ginčų sprendimo ne teisme atvejais, jeigu tokia tvarka nustatyta įstatymuose ar teismo sprendime.
+2. Antrinės teisinės pagalbos išlaidas sudaro išlaidos, nuo kurių mokėjimo pareiškėjas atleidžiamas, tai yra: bylinėjimosi išlaidos bylose, išnagrinėtose civilinio proceso tvarka, išlaidos išnagrinėtose konstitucinės justicijos bylose, su bylos nagrinėjimu administracinio proceso tvarka susijusios išlaidos, administracinių nusižengimų bylų nagrinėjimo teisme išlaidos, su baudžiamojoje byloje pareikšto civilinio ieškinio nagrinėjimu susijusios išlaidos, numatytos šio įstatymo 20 straipsnyje, išlaidos, susijusios su gynyba ir atstovavimu nagrinėjant bylas (įskaitant apeliacine ir kasacine tvarka nagrinėjamas bylas, nesvarbu, kas jas pradeda), taip pat vykdymo proceso išlaidos, nurodytos teisingumo ministro patvirtintoje Sprendimų vykdymo instrukcijoje, išlaidos, susijusios su procesinių dokumentų rengimu ir įrodymų rinkimu, vertimu, su atstovavimu išankstinio ginčų sprendimo ne teisme atvejais, jeigu tokia tvarka nustatyta įstatymuose ar teismo sprendime. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2715, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26500
+Nr. XIII-2333, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12377
  
 
 
@@ -1386,11 +1389,12 @@ Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
 
 
 
-2. Sprendimus dėl antrinės teisinės pagalbos teikimo priima tarnyba. Sprendimas dėl antrinės teisinės pagalbos teikimo priimamas iš karto, kai asmuo kreipiasi. Jeigu nėra galimybės sprendimą dėl antrinės teisinės pagalbos teikimo priimti iš karto, šis sprendimas civilinėse, administracinėse ir administracinių nusižengimų bylose priimamas ne vėliau kaip per 5 darbo dienas nuo šio straipsnio 1 dalyje nurodytų dokumentų ir šio įstatymo 11 straipsnio 9 dalyje nurodytos advokato išvados arba šio straipsnio 14 dalyje nurodytos informacijos gavimo dienos, baudžiamosiose bylose – iki proceso veiksmų atlikimo dienos, bet ne vėliau kaip per 5 darbo dienas nuo šio straipsnio 1 dalyje nurodytų dokumentų ir šio įstatymo 11 straipsnio 9 dalyje nurodytos advokato išvados arba šio straipsnio 14 dalyje nurodytos informacijos gavimo dienos. Apie priimtą sprendimą dėl antrinės teisinės pagalbos teikimo tarnyba nedelsdama raštu praneša pareiškėjui ir advokatui. Jeigu pareiškėjas nepateikė visų šio straipsnio 1 dalyje nurodytų dokumentų, reikalingų sprendimui dėl antrinės teisinės pagalbos teikimo priimti, tarnyba ne vėliau kaip per 5 darbo dienas nuo prašymo suteikti antrinę teisinę pagalbą gavimo dienos praneša pareiškėjui apie būtinybę per tarnybos nustatytą terminą, kuris turi būti ne trumpesnis kaip 5 darbo dienos, pateikti trūkstamus dokumentus. Jeigu pagal prašyme suteikti antrinę teisinę pagalbą pateiktą informaciją sprendimas dėl antrinės teisinės pagalbos teikimo, atsižvelgiant į pareiškėjo interesus, turi būti priimtas skubiai, tarnyba gali nustatyti trumpesnį kaip 5 darbo dienų terminą trūkstamiems dokumentams pateikti. Tarnybos sprendimai gali būti skundžiami Lietuvos administracinių ginčų komisijai arba teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. 
+2. Sprendimus dėl antrinės teisinės pagalbos teikimo priima tarnyba. Sprendimas dėl antrinės teisinės pagalbos teikimo priimamas iš karto, kai asmuo kreipiasi. Jeigu nėra galimybės sprendimą dėl antrinės teisinės pagalbos teikimo priimti iš karto, šis sprendimas civilinėse, konstitucinės justicijos, administracinėse ir administracinių nusižengimų bylose priimamas ne vėliau kaip per 5 darbo dienas nuo šio straipsnio 1 dalyje nurodytų dokumentų ir šio įstatymo 11 straipsnio 9 dalyje nurodytos advokato išvados arba šio straipsnio 14 dalyje nurodytos informacijos gavimo dienos, baudžiamosiose bylose – iki proceso veiksmų atlikimo dienos, bet ne vėliau kaip per 5 darbo dienas nuo šio straipsnio 1 dalyje nurodytų dokumentų ir šio įstatymo 11 straipsnio 9 dalyje nurodytos advokato išvados arba šio straipsnio 14 dalyje nurodytos informacijos gavimo dienos. Apie priimtą sprendimą dėl antrinės teisinės pagalbos teikimo tarnyba nedelsdama raštu praneša pareiškėjui ir advokatui. Jeigu pareiškėjas nepateikė visų šio straipsnio 1 dalyje nurodytų dokumentų, reikalingų sprendimui dėl antrinės teisinės pagalbos teikimo priimti, tarnyba ne vėliau kaip per 5 darbo dienas nuo prašymo suteikti antrinę teisinę pagalbą gavimo dienos praneša pareiškėjui apie būtinybę per tarnybos nustatytą terminą, kuris turi būti ne trumpesnis kaip 5 darbo dienos, pateikti trūkstamus dokumentus. Jeigu pagal prašyme suteikti antrinę teisinę pagalbą pateiktą informaciją sprendimas dėl antrinės teisinės pagalbos teikimo, atsižvelgiant į pareiškėjo interesus, turi būti priimtas skubiai, tarnyba gali nustatyti trumpesnį kaip 5 darbo dienų terminą trūkstamiems dokumentams pateikti. Tarnybos sprendimai gali būti skundžiami Lietuvos administracinių ginčų komisijai arba teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1417, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20549
 Nr. XIII-164, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29858
 Nr. XIII-1437, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11748
+Nr. XIII-2333, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12377
  
 
 
@@ -1584,12 +1588,16 @@ Nr. XIII-1437, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11748
 
 
 
-20 straipsnis. Atleidimas nuo žyminio mokesčio ir kitų bylinėjimosi išlaidų (išlaidų, susijusių su bylos nagrinėjimu, ir proceso išlaidų) mokėjimo ir jų apmokėjimas
+20 straipsnis. Atleidimas nuo žyminio mokesčio ir kitų bylinėjimosi išlaidų (su dalyvavimu byloje, su bylos nagrinėjimu susijusių išlaidų, taip pat proceso išlaidų) mokėjimo ir jų apmokėjimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2333, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12377
+ 
 
 
-1. Turintys teisę gauti antrinę teisinę pagalbą asmenys, nagrinėjant civilines, administracines ir administracinių nusižengimų bylas, taip pat baudžiamosiose bylose pareikštus civilinius ieškinius, atleidžiami nuo žyminio mokesčio ir kitų bylinėjimosi išlaidų (išskyrus Lietuvos Respublikos civilinio proceso kodekso (toliau – Civilinio proceso kodeksas) 88 straipsnio 1 dalies 6 ir 9 punktuose nurodytas bylinėjimosi išlaidas), su bylos nagrinėjimu susijusių išlaidų ir proceso išlaidų Baudžiamojo proceso kodekso 104 straipsnio 2 dalyje nurodytu atveju mokėjimo atsižvelgiant į šio įstatymo 14 straipsnio 4, 5, 6, 7 ir 8 dalis.
+1. Turintys teisę gauti antrinę teisinę pagalbą asmenys atleidžiami nuo žyminio mokesčio ir kitų bylinėjimosi išlaidų (išskyrus Lietuvos Respublikos civilinio proceso kodekso (toliau – Civilinio proceso kodeksas) 88 straipsnio 1 dalies 6 ir 10 punktuose nurodytas bylinėjimosi išlaidas) nagrinėjant civilines, administracines ir administracinių nusižengimų bylas, baudžiamosiose bylose pareikštus civilinius ieškinius, nuo su bylos nagrinėjimu susijusių išlaidų, taip pat nuo išlaidų, susijusių su dalyvavimu konstitucinės justicijos byloje ir jos nagrinėjimu, nuo proceso išlaidų Baudžiamojo proceso kodekso 104 straipsnio 2 dalyje nurodytu atveju mokėjimo atsižvelgiant į šio įstatymo 14 straipsnio 4, 5, 6, 7 ir 8 dalis. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2715, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26500
+Nr. XIII-2333, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12377
  
 
 
@@ -2388,3 +2396,8 @@ Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. V
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2317, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12359
 Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 11 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2333, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12377
+Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo Nr. VIII-1591 2, 14, 18 ir 20 straipsnių pakeitimo įstatymas
