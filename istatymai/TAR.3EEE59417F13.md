@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2019-07-24 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
  
@@ -59,12 +59,25 @@ BENDROSIOS NUOSTATOS
 
 
 
-3) Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams, kuriems teisės aktų nustatyta tvarka išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas. Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio šeimos nariais laikomi sutuoktinis arba asmuo, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginiai palikuonys, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, įskaitant sutuoktinio arba asmens, su kuriuo sudaryta registruotos partnerystės sutartis, tiesioginius palikuonis, kuriems nesukakę 21 metai arba kurie yra išlaikytiniai, Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečio, sutuoktinio ar asmens, su kuriuo sudaryta registruotos partnerystės sutartis, išlaikomi giminaičiai pagal tiesiąją aukštutinę liniją;
+3) Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams, kuriems teisės aktų nustatyta tvarka išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2345, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12436
+ 
 
 
 
 
-4) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje arba laikinoji apsauga. 
+4) užsieniečiams, kuriems suteiktas prieglobstis Lietuvos Respublikoje arba laikinoji apsauga; 
+
+
+
+
+5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Šių valstybių piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas. 
+5 punkto redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
+5) Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Šių valstybių piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas.
+Papildyta straipsnio punktu:
+Nr. XIII-2345, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12436
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -165,6 +178,14 @@ Nr. XIII-1973, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03172
 
 
 15. Vienas gyvenantis asmuo – vienas gyvenantis vyresnis kaip 18 metų asmuo arba veiksniu pripažintas nepilnametis, kuris yra nesusituokęs (įskaitant santuoką nutraukusius asmenis), taip pat susituokęs, tačiau teismo sprendimu gyvenantis skyrium, neturintis vaikų (įvaikių) arba jų turintis, tačiau teismo sprendimu dėl sutuoktinių gyvenimo skyrium ar dėl santuokos nutraukimo vaikai (įvaikiai) yra likę gyventi su kitu sutuoktiniu. 
+
+
+
+
+16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2345, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12436
+ 
 
 
 Straipsnio pakeitimai:
@@ -1133,11 +1154,14 @@ Nr. XIII-651, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16001
 
 
 
-12) socialinio pobūdžio pajamos (išskyrus vienkartines išmokas ir (ar) pašalpas, mokamas iš valstybės, Valstybinio socialinio draudimo fondo ar savivaldybių biudžetų, išmokas, mokamas pagal Lietuvos Respublikos užimtumo įstatymą ir (ar) iš Europos prisitaikymo prie globalizacijos padarinių fondo, darbdavio mokamas vienkartines išmokas ir (ar) pašalpas bei kas mėnesį gaunamas socialinio pobūdžio pajamas: transporto išlaidų kompensacijas neįgaliesiems; kompensacijas donorams; pagalbos pinigus, mokamus pagal Lietuvos Respublikos socialinių paslaugų įstatymą; išmoką vaikui, globos (rūpybos) išmokos tikslinį priedą, mokamus pagal Lietuvos Respublikos išmokų vaikams įstatymą; būsto nuomos ar išperkamosios būsto nuomos mokesčių dalies kompensaciją, mokamą pagal Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymą; tikslines kompensacijas ir tikslinį priedą, mokamus pagal Lietuvos Respublikos tikslinių kompensacijų įstatymą); 
+12) socialinio pobūdžio pajamos (išskyrus vienkartines išmokas ir (ar) pašalpas, mokamas iš valstybės, Valstybinio socialinio draudimo fondo ar savivaldybių biudžetų, socialinę paramą, skiriamą kitais šiame įstatyme nenumatytais atvejais ir mokamą iš savivaldybių biudžetų, išmokas, mokamas pagal Lietuvos Respublikos užimtumo įstatymą ir (ar) iš Europos prisitaikymo prie globalizacijos padarinių fondo, darbdavio mokamas vienkartines išmokas ir (ar) pašalpas bei kas mėnesį gaunamas socialinio pobūdžio pajamas: transporto išlaidų kompensacijas neįgaliesiems; kompensacijas donorams; pagalbos pinigus, mokamus pagal Lietuvos Respublikos socialinių paslaugų įstatymą; išmoką vaikui, globos (rūpybos) išmokos tikslinį priedą, mokamus pagal Lietuvos Respublikos išmokų vaikams įstatymą; būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensaciją, mokamą pagal Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymą; tikslines kompensacijas ir tikslinį priedą, mokamus pagal Lietuvos Respublikos tikslinių kompensacijų įstatymą); 
+12 punkto redakcija nuo 2020-01-01:
+12) socialinio pobūdžio pajamos (išskyrus vienkartines išmokas ir (ar) pašalpas, mokamas iš valstybės, Valstybinio socialinio draudimo fondo ar savivaldybių biudžetų, socialinę paramą, skiriamą kitais šiame įstatyme nenumatytais atvejais ir mokamą iš savivaldybių biudžetų, išmokas, mokamas pagal Lietuvos Respublikos užimtumo įstatymą ir (ar) iš Europos prisitaikymo prie globalizacijos padarinių fondo, darbdavio mokamas vienkartines išmokas ir (ar) pašalpas bei kas mėnesį gaunamas socialinio pobūdžio pajamas: transporto išlaidų kompensacijas neįgaliesiems; kompensacijas donorams; pagalbos pinigus, mokamus pagal Lietuvos Respublikos socialinių paslaugų įstatymą; išmoką vaikui, globos (rūpybos) išmokos tikslinį priedą, vaiko laikinosios priežiūros išmoką, mokamus pagal Lietuvos Respublikos išmokų vaikams įstatymą; būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensaciją, mokamą pagal Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymą; tikslines kompensacijas ir tikslinį priedą, mokamus pagal Lietuvos Respublikos tikslinių kompensacijų įstatymą); 
 Straipsnio punkto pakeitimai:
 Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
 Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
+Nr. XIII-2324, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12117
  
 
 
@@ -2490,3 +2514,8 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2324, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12117
 Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 17 straipsnio pakeitimo įstatymo Nr. XIII-1960 pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2345, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12436
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 1 ir 2 straipsnių pakeitimo įstatymas
