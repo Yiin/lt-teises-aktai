@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2019-07-06 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2019-12-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -767,9 +767,10 @@ Ikiteisminio tyrimo teisėjas yra apylinkės teismo teisėjas, apylinkės teismo
 
 
 
-4. Įtariamasis turi teisę: žinoti, kuo jis įtariamas; nuo sulaikymo ar pirmosios apklausos momento turėti gynėją; gauti vertimą žodžiu ir raštu; informuoti konsulines įstaigas ir vieną asmenį; gauti skubią medicinos pagalbą; žinoti maksimalų terminą, kiek valandų (dienų) gali būti ribojama jo laisvė iki bylos nagrinėjimo teisminėje institucijoje pradžios; duoti parodymus; tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką; pateikti tyrimui reikšmingus dokumentus ir daiktus; pateikti prašymus; pareikšti nušalinimus; susipažinti su ikiteisminio tyrimo medžiaga; apskųsti ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo veiksmus bei sprendimus. 
+4. Įtariamasis turi teisę: gauti informaciją apie su juo susijusio baudžiamojo proceso padėtį, žinoti, kuo jis įtariamas; nuo sulaikymo ar pirmosios apklausos momento turėti gynėją; gauti vertimą žodžiu ir raštu; informuoti konsulines įstaigas ir vieną asmenį; gauti skubią medicinos pagalbą; žinoti maksimalų terminą, kiek valandų (dienų) gali būti ribojama jo laisvė iki bylos nagrinėjimo teisminėje institucijoje pradžios; duoti parodymus; tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką; pateikti tyrimui reikšmingus dokumentus ir daiktus; pateikti prašymus; pareikšti nušalinimus; susipažinti su ikiteisminio tyrimo medžiaga; apskųsti ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo veiksmus bei sprendimus; būti lydimas atstovo pagal įstatymą teismo posėdžiuose ir atliekant kitus proceso veiksmus, taip pat teisę į privatumo apsaugą, kai įtariamasis yra nepilnametis.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
+Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
  
 
 
@@ -798,9 +799,10 @@ Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
 
 
 
-3. Kaltinamasis turi teisę: žinoti, kuo jis kaltinamas, ir gauti kaltinamojo akto nuorašą; susipažinti teisme su byla; nustatyta tvarka pasidaryti reikiamų dokumentų išrašus arba nuorašus; turėti gynėją; gauti vertimą žodžiu ir raštu; informuoti konsulines įstaigas ir vieną asmenį; gauti skubią medicinos pagalbą; pateikti prašymus; pareikšti nušalinimus; teikti įrodymus ir dalyvauti juos tiriant; nagrinėjimo teisme metu duoti parodymus ir užduoti klausimus; duoti paaiškinimus apie teismo tiriamas bylos aplinkybes ir pareikšti savo nuomonę dėl kitų nagrinėjimo teisme dalyvių pareikštų prašymų; tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką; dalyvauti baigiamosiose kalbose, kai nėra gynėjo; kreiptis į teismą paskutiniu žodžiu; apskųsti teismo nuosprendį ir nutartis. 
+3. Kaltinamasis turi teisę: gauti informaciją apie su juo susijusio baudžiamojo proceso padėtį, žinoti, kuo jis kaltinamas, ir gauti kaltinamojo akto nuorašą; susipažinti teisme su byla; nustatyta tvarka pasidaryti reikiamų dokumentų išrašus arba nuorašus; turėti gynėją; gauti vertimą žodžiu ir raštu; informuoti konsulines įstaigas ir vieną asmenį; gauti skubią medicinos pagalbą; pateikti prašymus; pareikšti nušalinimus; teikti įrodymus ir dalyvauti juos tiriant; nagrinėjimo teisme metu duoti parodymus ir užduoti klausimus; duoti paaiškinimus apie teismo tiriamas bylos aplinkybes ir pareikšti savo nuomonę dėl kitų nagrinėjimo teisme dalyvių pareikštų prašymų; tylėti ir (ar) atsisakyti duoti parodymus apie savo paties galimai padarytą nusikalstamą veiką; dalyvauti baigiamosiose kalbose, kai nėra gynėjo; kreiptis į teismą paskutiniu žodžiu; apskųsti teismo nuosprendį ir nutartis; būti lydimas atstovo pagal įstatymą teismo posėdžiuose ir atliekant kitus proceso veiksmus, taip pat teisę į privatumo apsaugą, kai kaltinamasis yra nepilnametis.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
+Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
  
 
 
@@ -1629,7 +1631,10 @@ Atstovavimas
 53 straipsnis. Atstovai pagal įstatymą
 
 
-1. Įtariamojo, kaltinamojo, nuteistojo arba nukentėjusiojo atstovai pagal įstatymą gali dalyvauti procese ir ginti savo atstovaujamų proceso dalyvių interesus, jeigu šie yra nepilnamečiai arba nustatyta tvarka pripažinti neveiksniais, išskyrus atvejus, kai tai prieštarautų nepilnamečio ar neveiksnaus asmens interesams.
+1. Įtariamojo, kaltinamojo, nuteistojo arba nukentėjusiojo atstovai pagal įstatymą gali dalyvauti procese ir ginti savo atstovaujamų proceso dalyvių interesus, jeigu šie yra nepilnamečiai arba nustatyta tvarka pripažinti neveiksniais, išskyrus atvejus, kai tai prieštarautų nepilnamečio ar neveiksnaus asmens interesams ar pakenktų baudžiamajam procesui.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
+ 
 
 
 
@@ -1639,7 +1644,10 @@ Atstovavimas
 
 
 
-3. Atstovui pagal įstatymą, pateikusiam rašytinį ar žodinį prašymą, leidžiama dalyvauti procese, kai ikiteisminio tyrimo pareigūnas, prokuroras priima dėl to nutarimą, o teismas – nutartį. Atstovas pagal įstatymą paprastai dalyvauja procese kartu su asmeniu, kuriam atstovauja. Ikiteisminio tyrimo pareigūno, prokuroro nutarimu bei teismo nutartimi gali būti atsisakyta leisti atstovui pagal įstatymą dalyvauti procese kaip atstovui, jeigu tai prieštarautų nepilnamečio ar neveiksnaus asmens interesams. Tokiu atveju ikiteisminio tyrimo pareigūnas, prokuroras ar teismas turi užtikrinti, kad procese dalyvautų kitas atstovas pagal įstatymą, o kai tokios galimybės nėra, – laikinai, kol bus išspręstas naujo atstovo pagal įstatymą klausimas, paskirti atstovu bet kokį kitą asmenį, galintį tinkamai atstovauti nepilnamečio ar neveiksnaus asmens interesams.
+3. Atstovui pagal įstatymą, pateikusiam rašytinį ar žodinį prašymą, leidžiama dalyvauti procese, kai ikiteisminio tyrimo pareigūnas, prokuroras priima dėl to nutarimą, o teismas – nutartį. Atstovas pagal įstatymą paprastai dalyvauja procese kartu su asmeniu, kuriam atstovauja. Ikiteisminio tyrimo pareigūno, prokuroro nutarimu bei teismo nutartimi gali būti atsisakyta leisti atstovui pagal įstatymą dalyvauti procese kaip atstovui, jeigu tai prieštarautų nepilnamečio ar neveiksnaus asmens interesams ar pakenktų baudžiamajam procesui. Tokiu atveju, taip pat kai nėra galimybės susisiekti su atstovu pagal įstatymą arba jo tapatybė nežinoma, nepilnamečio atstovu pagal įstatymą gali būti jo pasirinktas ir ikiteisminio tyrimo pareigūno, prokuroro ar teismo pripažintas tinkamu būti atstovu pagal įstatymą asmuo. Jeigu nepilnametis nepasirinko kito asmens arba jo pasirinktas asmuo nėra tinkamas būti atstovu pagal įstatymą, ikiteisminio tyrimo pareigūnas ar prokuroras, ikiteisminio tyrimo teisėjas ar teismas, atsižvelgdamas į nepilnamečio interesus, paskiria kitą asmenį, galintį tinkamai atstovauti nepilnamečiui. Kai atsisakyta leisti asmeniui dalyvauti baudžiamajame procese kaip neveiksnaus asmens atstovui pagal įstatymą, ikiteisminio tyrimo pareigūnas, prokuroras ar teismas turi užtikrinti, kad procese dalyvautų kitas atstovas pagal įstatymą. Ikiteisminio tyrimo pareigūnas, prokuroras ar teismas laikinai, kol bus išspręstas naujo atstovo pagal įstatymą klausimas, turi paskirti atstovu bet kokį kitą asmenį, galintį tinkamai atstovauti nepilnamečio ar neveiksnaus asmens interesams.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
+ 
 
 
 
@@ -1662,7 +1670,10 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 54 straipsnis. Atstovo pagal įstatymą teisės ir pareigos
 
 
-1. Atstovas pagal įstatymą turi teisę dalyvauti atliekant proceso veiksmus, kuriuose dalyvauja jo atstovaujamas asmuo, ir padėti šiam asmeniui pasinaudoti įstatymų suteiktomis teisėmis. Jeigu atstovaujamas asmuo yra suimtas, atstovas pagal įstatymą gali su juo pasimatyti ikiteisminio tyrimo pareigūno, prokuroro, teisėjo leidimu.
+1. Atstovas pagal įstatymą turi teisę lydėti atstovaujamą asmenį viso baudžiamojo proceso metu, dalyvauti atliekant proceso veiksmus, kuriuose dalyvauja jo atstovaujamas asmuo, ir padėti šiam asmeniui pasinaudoti įstatymų suteiktomis teisėmis. Jeigu atstovaujamas asmuo yra suimtas, atstovas pagal įstatymą gali su juo pasimatyti ikiteisminio tyrimo pareigūno, prokuroro, teisėjo leidimu. Atstovas pagal įstatymą taip pat turi teisę gauti informaciją apie nepilnamečio teises baudžiamajame procese. Kai išnyksta šio Kodekso 53 straipsnio 3 dalyje nurodytos aplinkybės, dėl kurių nepilnamečio atstovui pagal įstatymą atsisakyta leisti dalyvauti procese kaip atstovui, jam taip pat suteikiama informacija apie nepilnamečio teises baudžiamajame procese.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
+ 
 
 
 
@@ -3621,7 +3632,10 @@ Nr. X-81, 2005-01-20, Žin., 2005, Nr. 18-575 (2005-02-08)
 105 straipsnis. Proceso išlaidų išieškojimas
 
 
-1. Teismas, priimdamas nuosprendį, turi teisę nuspręsti išieškoti iš nuteistojo proceso išlaidas, išskyrus išlaidas, skirtas mokėti vertėjui.
+1. Teismas, priimdamas nuosprendį, turi teisę nuspręsti išieškoti iš nuteistojo proceso išlaidas, išskyrus išlaidas, skirtas mokėti vertėjui, ir išlaidas, patirtas atliekant nepilnamečio įtariamojo ar nepilnamečio kaltinamojo individualų vertinimą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
+ 
 
 
 
@@ -6737,10 +6751,11 @@ Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
 
 
 
-5. Proceso dalyvių prašymu arba ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo iniciatyva į nepilnamečio įtariamojo apklausą kviečiamas psichologas, kuris padeda apklausti nepilnametį, atsižvelgdamas į jo socialinę ir psichologinę brandą, ir (ar) valstybinės vaiko teisių apsaugos institucijos atstovas, kuris stebi, ar apklausos metu nepažeidžiamos nepilnamečio įtariamojo teisės. Valstybinės vaiko teisių apsaugos institucijos atstovas gali užduoti apklausiamam asmeniui klausimų ir reikšti prašymus dėl apklausos.
+5. Proceso dalyvių prašymu arba ikiteisminio tyrimo pareigūno, prokuroro ar ikiteisminio tyrimo teisėjo iniciatyva į nepilnamečio įtariamojo apklausą kviečiamas psichologas, kuris padeda apklausti nepilnametį, atsižvelgdamas į jo socialinę ir psichologinę brandą, ir (ar) valstybinės vaiko teisių apsaugos institucijos atstovas, kuris stebi, ar apklausos metu nepažeidžiamos nepilnamečio įtariamojo teisės. Valstybinės vaiko teisių apsaugos institucijos atstovas gali užduoti apklausiamam asmeniui klausimų ir reikšti prašymus dėl apklausos. Ikiteisminio tyrimo pareigūno ar prokuroro iniciatyva arba nepilnamečio įtariamojo ar jo gynėjo arba atstovo pagal įstatymą prašymu gali būti daromas apklausos garso ir vaizdo įrašas. Apklausiant suimtą ar sulaikytą nepilnametį įtariamąjį, garso ir vaizdo įrašas daromas visais atvejais.
 Straipsnio dalies pakeitimai:
 Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
 Nr. XIII-217, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04612
+Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
  
 
 
@@ -15184,40 +15199,60 @@ Teismas, išnagrinėjęs bylą, priima vieną iš šių nutarčių:
 
 
 XXXV SKYRIUS
-BAUDŽIAMOSIOS BYLOS ATNAUJINIMAS DĖL JUNGTINIŲ TAUTŲ ŽMOGAUS TEISIŲ KOMITETO ARBA EUROPOS ŽMOGAUS TEISIŲ TEISMO SPRENDIMŲ
+BAUDŽIAMOSIOS BYLOS ATNAUJINIMAS DĖL JUNGTINIŲ TAUTŲ ŽMOGAUS TEISIŲ KOMITETO ARBA EUROPOS ŽMOGAUS TEISIŲ TEISMO SPRENDIMŲ ARBA KONSTITUCINIO TEISMO NUTARIMO 
 Skyriaus pavadinimas keistas:
 Nr. IX-2336, 2004-07-08, Žin., 2004, Nr. 115-4276 (2004-07-24)
  
+Pakeistas skyriaus pavadinimas:
+Nr. XIII-2330, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12371
+ 
 
 
-456 straipsnis. Baudžiamosios bylos atnaujinimo dėl Jungtinių Tautų 
-žmogaus teisių komiteto arba Europos žmogaus teisių teismo 
-sprendimų pagrindai
+456 straipsnis. Baudžiamosios bylos atnaujinimo dėl Jungtinių Tautų žmogaus teisių komiteto arba Europos žmogaus teisių teismo sprendimų arba Konstitucinio Teismo nutarimo pagrindai
 
 
-Lietuvos Respublikos teismų išnagrinėtos baudžiamosios bylos gali būti atnaujintos, kai Jungtinių Tautų žmogaus teisių komitetas pripažįsta, kad sprendimas nuteisti asmenį yra priimtas pažeidžiant Tarptautinį pilietinių ir politinių teisių paktą ar jo papildomus protokolus, arba Europos žmogaus teisių teismas pripažįsta, kad sprendimas nuteisti asmenį yra priimtas pažeidžiant Žmogaus teisių ir pagrindinių laisvių apsaugos konvenciją ar jos papildomus protokolus, jeigu pažeidimai pagal pobūdį ir sunkumą kelia pagrįstų abejonių dėl asmens nuteisimo ir besitęsiantys pažeidimai gali būti ištaisyti tik atnaujinus nuteistojo bylą.
+Lietuvos Respublikos teismų išnagrinėtos baudžiamosios bylos gali būti atnaujintos, kai:
 
 
-Straipsnio pakeitimai:
+1) Jungtinių Tautų žmogaus teisių komitetas pripažįsta, kad sprendimas nuteisti asmenį yra priimtas pažeidžiant Tarptautinį pilietinių ir politinių teisių paktą ar jo papildomus protokolus, arba Europos žmogaus teisių teismas pripažįsta, kad sprendimas nuteisti asmenį yra priimtas pažeidžiant Žmogaus teisių ir pagrindinių laisvių apsaugos konvenciją ar jos papildomus protokolus, jeigu pažeidimai pagal pobūdį ir sunkumą kelia pagrįstų abejonių dėl asmens nuteisimo ir besitęsiantys pažeidimai gali būti ištaisyti tik atnaujinus nuteistojo bylą;
+
+
+
+
+2) Konstitucinis Teismas, nagrinėdamas Konstitucijos 106 straipsnio ketvirtojoje dalyje nurodyto asmens prašymą, pripažįsta, kad įstatymas ar kitas Seimo priimtas aktas, Respublikos Prezidento aktas ar Vyriausybės aktas (ar jų dalis), kuriuo (kuria) grindžiamas priimtas sprendimas nuteisti asmenį, prieštarauja Konstitucijai, ir kyla pagrįstų abejonių dėl asmens nuteisimo, o besitęsiantys šio asmens teisių ir laisvių pažeidimai gali būti ištaisyti tik atnaujinus nuteistojo bylą.
+
+
+
+
+ Straipsnio pakeitimai:
 Nr. IX-2336, 2004-07-08, Žin., 2004, Nr. 115-4276 (2004-07-24)
+Straipsnio pakeitimai:
+Nr. XIII-2330, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12371
  
 
 
 
 
-457 straipsnis. Teisė kreiptis dėl baudžiamosios bylos atnaujinimo
+457 straipsnis. Teisė kreiptis dėl baudžiamosios bylos atnaujinimo 
 
 
-1. Prašymą atnaujinti baudžiamąją bylą šio Kodekso 456 straipsnyje numatytu pagrindu gali pateikti asmuo, kurio atžvilgiu byloje buvo padaryta Tarptautinio pilietinių ir politinių teisių pakto ar jo papildomų protokolų arba Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos ar jos papildomų protokolų pažeidimų, jo teisių perėmėjas, šių asmenų įgaliotas atstovas ar Lietuvos Respublikos generalinis prokuroras.
+1. Prašymą atnaujinti baudžiamąją bylą šio Kodekso 456 straipsnio 1 punkte nurodytu pagrindu gali pateikti asmuo, kurio atžvilgiu byloje buvo padaryta Tarptautinio pilietinių ir politinių teisių pakto ar jo papildomų protokolų arba Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos ar jos papildomų protokolų pažeidimų, jo teisių perėmėjas, šių asmenų įgaliotas atstovas ar Lietuvos Respublikos generalinis prokuroras.
 
 
 
 
-2. Lietuvos Aukščiausiojo Teismo pirmininkas teikimu gali reikalauti atnaujinti bylą ir tuo atveju, kai nėra šio straipsnio 1 dalyje nurodyto prašymo.
+2. Prašymą atnaujinti baudžiamąją bylą šio Kodekso 456 straipsnio 2 punkte nurodytu pagrindu gali pateikti asmuo, dėl kurio priimtas sprendimas jį nuteisti pagrįstas įstatymu ar kitu Seimo priimtu aktu, Respublikos Prezidento aktu ar Vyriausybės aktu (ar jų dalimi), kurį (kurią) Konstitucinis Teismas, nagrinėdamas šio asmens prašymą, pripažino prieštaraujančiu Konstitucijai, taip pat jo atstovas ar Lietuvos Respublikos generalinis prokuroras.
+
+
+
+
+3. Lietuvos Aukščiausiojo Teismo pirmininkas teikimu gali reikalauti atnaujinti bylą ir tuo atveju, kai nėra šiame straipsnyje nurodyto prašymo.
 
 
 Straipsnio pakeitimai:
 Nr. IX-2336, 2004-07-08, Žin., 2004, Nr. 115-4276 (2004-07-24)
+Straipsnio pakeitimai:
+Nr. XIII-2330, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12371
  
 
 
@@ -15226,12 +15261,12 @@ Nr. IX-2336, 2004-07-08, Žin., 2004, Nr. 115-4276 (2004-07-24)
 458 straipsnis. Prašymo ar teikimo dėl baudžiamosios bylos atnaujinimo padavimas
 
 
-1. Prašymas ar teikimas atnaujinti baudžiamąją bylą kartu su Jungtinių Tautų žmogaus teisių komiteto sprendimu arba Europos žmogaus teisių teismo galutiniu sprendimu ir jų vertimais į lietuvių kalbą paduodami Lietuvos Aukščiausiajam Teismui.
+1. Prašymas ar teikimas atnaujinti baudžiamąją bylą paduodamas Lietuvos Aukščiausiajam Teismui. Prašymas ar teikimas atnaujinti baudžiamąją bylą šio Kodekso 456 straipsnio 1 punkte nurodytais pagrindais paduodamas kartu su Jungtinių Tautų žmogaus teisių komiteto sprendimu arba Europos žmogaus teisių teismo galutiniu sprendimu ir jų vertimu į lietuvių kalbą.
 
 
 
 
-2. Prašymas ar teikimas paduodamas per šešis mėnesius nuo tos dienos, kai priimtas Jungtinių Tautų žmogaus teisių komiteto sprendimas arba Europos žmogaus teisių teismo sprendimas yra ar tampa galutinis.
+2. Prašymas ar teikimas paduodamas per šešis mėnesius nuo tos dienos, kai priimtas Konstitucinio Teismo nutarimas arba Jungtinių Tautų žmogaus teisių komiteto sprendimas, arba Europos žmogaus teisių teismo sprendimas yra ar tampa galutinis.
 
 
 
@@ -15242,6 +15277,8 @@ Nr. IX-2336, 2004-07-08, Žin., 2004, Nr. 115-4276 (2004-07-24)
 Straipsnio pakeitimai:
 Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 Nr. IX-2336, 2004-07-08, Žin., 2004, Nr. 115-4276 (2004-07-24)
+Straipsnio pakeitimai:
+Nr. XIII-2330, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12371
  
 
 
@@ -15250,7 +15287,10 @@ Nr. IX-2336, 2004-07-08, Žin., 2004, Nr. 115-4276 (2004-07-24)
 459 straipsnis. Sprendimas dėl prašymo ar teikimo priimtinumo ir baudžiamosios bylos atnaujinimo 
 
 
-1. Lietuvos Aukščiausiojo Teismo pirmininkas patikrina, ar prašymas dėl bylos atnaujinimo pateiktas nepažeidžiant šio Kodekso 457 straipsnio 1 dalies ir 458 straipsnio reikalavimų, taip pat ar nėra atnaujintas bylos nagrinėjimas Europos žmogaus teisių teisme. Jeigu tokių pažeidimų yra arba bylos nagrinėjimas Europos žmogaus teisių teisme atnaujintas, Lietuvos Aukščiausiojo Teismo pirmininkas prašymą grąžina jo pateikėjui. Tinkamai pateiktas prašymas ar teikimas perduodamas trijų teisėjų kolegijai spręsti dėl jo priimtinumo pagal šio Kodekso 456 straipsnio reikalavimus. Teisėjų kolegija dėl prašymo ar teikimo priimtinumo nusprendžia ne vėliau kaip per vieną mėnesį nuo šio prašymo ar teikimo perdavimo kolegijai dienos.
+1. Lietuvos Aukščiausiojo Teismo pirmininkas patikrina, ar prašymas dėl bylos atnaujinimo pateiktas nepažeidžiant šio Kodekso 457 straipsnio 1 ar 2 dalies ir 458 straipsnio reikalavimų, taip pat ar nėra atnaujintas bylos nagrinėjimas Europos žmogaus teisių teisme. Jeigu tokių pažeidimų yra arba bylos nagrinėjimas Europos žmogaus teisių teisme atnaujintas, Lietuvos Aukščiausiojo Teismo pirmininkas prašymą grąžina jo pateikėjui. Tinkamai pateiktas prašymas ar teikimas perduodamas trijų teisėjų kolegijai spręsti dėl jo priimtinumo pagal šio Kodekso 456 straipsnio reikalavimus. Teisėjų kolegija dėl prašymo ar teikimo priimtinumo nusprendžia ne vėliau kaip per vieną mėnesį nuo šio prašymo ar teikimo perdavimo kolegijai dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2330, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12371
+ 
 
 
 
@@ -15574,9 +15614,19 @@ Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
 
 
 
-21. 2016 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/1919 dėl teisinės pagalbos įtariamiesiems ir kaltinamiesiems vykstant baudžiamajam procesui ir prašomiems perduoti asmenims vykstant Europos arešto orderio vykdymo procedūroms (OL 2016 L 297, p. 1). 
+21. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/800 dėl procesinių garantijų vaikams, kurie baudžiamajame procese yra įtariamieji ar kaltinamieji (OL 2016 L 132, p. 1). 
+Papildyta punktu:
+Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
+ 
+
+
+
+
+22. 2016 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/1919 dėl teisinės pagalbos įtariamiesiems ir kaltinamiesiems vykstant baudžiamajam procesui ir prašomiems perduoti asmenims vykstant Europos arešto orderio vykdymo procedūroms (OL 2016 L 297, p. 1). 
 Papildyta punktu:
 Nr. XIII-1438, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11749
+Punkto numeracijos pakeitimas:
+Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
  
 
 
@@ -16086,3 +16136,23 @@ Lietuvos Respublikos baudžiamojo proceso kodekso papildymo 360-1 straipsniu įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 Lietuvos Respublikos baudžiamojo proceso kodekso 309, 339, 342, 353, 354, 357, 358, 360, 361, 362 ir 364 straipsnių pakeitimo įstatymas
+ 
+43.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2225, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10339
+Lietuvos Respublikos baudžiamojo proceso kodekso 114 straipsnio pakeitimo įstatymas
+ 
+44.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2269, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11190
+Lietuvos Respublikos baudžiamojo proceso kodekso 342 ir 357 straipsnių pakeitimo įstatymas
+ 
+45.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2330, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12371
+Lietuvos Respublikos baudžiamojo proceso kodekso XXXV skyriaus pavadinimo ir 456, 457, 458 ir 459 straipsnių pakeitimo įstatymas
+ 
+46.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
+Lietuvos Respublikos baudžiamojo proceso kodekso 21, 22, 53, 54, 105, 188 straipsnių ir priedo pakeitimo ir Kodekso papildymo 27-2, 189-1 straipsniais įstatymas
