@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2019-12-19
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
+ 
+TAR pastaba. Jeigu mokytojų, kurių darbo užmokestis įsigaliojus (2019-09-01) įstatymui Nr. XIII-1780 yra didesnis už buvusį iki šio įstatymo įsigaliojimo darbo užmokestį, paliekamas iki šio įstatymo įsigaliojimo nustatytas darbo užmokestis tol, kol asmuo eina tas pačias pareigas arba kol įstatymų nustatyta tvarka darbo užmokestis bus pakeistas.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1780, 2018-12-13, paskelbta TAR 2018-12-20, i. k. 2018-20997
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 4 straipsnio ir 5 priedo pakeitimo įstatymas
  
  
 
@@ -221,10 +226,10 @@ Nr. XIII-1395, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11323
 
 
 
-2. Mokytojų, dirbančių pagal bendrojo ugdymo, profesinio mokymo ir neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), pareigybių skaičius biudžetinės įstaigos darbuotojų pareigybių sąraše nustatomas, atsižvelgiant į:
+2. Mokytojų, dirbančių pagal bendrojo ugdymo, profesinio mokymo ir neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), pareigybių skaičius biudžetinės įstaigos darbuotojų pareigybių sąraše nustatomas, atsižvelgiant į:
 
 
-1) biudžetinės įstaigos pagal atitinkamas ugdymo programas dirbančių mokytojų kontaktinių valandų skaičių per mokslo metus, nustatytą atsižvelgiant į: 
+1) biudžetinės įstaigos pagal atitinkamas ugdymo programas dirbančių mokytojų kontaktinių valandų skaičių per mokslo metus, nustatytą atsižvelgiant į: 
 
 
 a) kai mokiniai ugdomi pagal bendrojo ugdymo programas, – sąlyginių klasių (grupių) skaičių ir dydį, nustatytus pagal Mokymo lėšų apskaičiavimo, paskirstymo ir panaudojimo tvarkos aprašą, kurį tvirtina Lietuvos Respublikos Vyriausybė, taip pat biudžetinės įstaigos savininko teises ir pareigas įgyvendinančios institucijos papildomai finansuojamą klasių (grupių) skaičių; 
@@ -239,7 +244,7 @@ b) kai mokiniai ugdomi pagal profesinio mokymo ir neformaliojo švietimo program
 
 
 
-2) vidutinį kontaktinių valandų, tenkančių per mokslo metus vienai pareigybei, skaičių, kuris nustatomas: 
+2) vidutinį kontaktinių valandų, tenkančių per mokslo metus vienai pareigybei, skaičių, kuris nustatomas:
 
 
 a) kai mokiniai ugdomi pagal bendrojo ugdymo programas, – pagal Mokymo lėšų apskaičiavimo, paskirstymo ir panaudojimo tvarkos apraše nustatytas vidutinių kontaktinių valandų, tenkančių per mokslo metus vienai pareigybei, normas pagal sąlyginį klasės (grupės) dydį;
@@ -247,17 +252,15 @@ a) kai mokiniai ugdomi pagal bendrojo ugdymo programas, – pagal Mokymo lėšų
 
 
 
-b) kai mokiniai ugdomi pagal profesinio mokymo ir neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), – pagal šio įstatymo 5 priedo 9 punkte nustatyto mokytojo, turinčio kvalifikacinę kategoriją, mažiausio ir didžiausio galimo kontaktinių valandų skaičiaus per mokslo metus aritmetinį vidurkį;
+b) kai mokiniai ugdomi pagal profesinio mokymo ir neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), – ne daugiau kaip 888 kontaktinės valandos.
 
 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1780, 2018-12-13, paskelbta TAR 2018-12-20, i. k. 2018-20997
+ 
 
 
-
-
-3) iš valstybės ir savivaldybių biudžetų finansuojamų valandų (kontaktinių ir nekontaktinių), vidutiniškai tenkančių per mokslo metus vienai pareigybei, skaičių, kuris yra  1 386. 
-
-
-Papildyta straipsnio dalimi:
+Straipsnio dalies pakeitimai:
 Nr. XIII-1395, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11323
  
 
@@ -1209,7 +1212,6 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 
 
 1. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai:
- 
 
 
 
@@ -1221,68 +1223,83 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 
 
  iki 2 
- nuo daugiau kaip 2 iki 5  
- nuo daugiau kaip 5 iki 10 
- nuo daugiau kaip 10 iki 15 
- nuo daugiau kaip 15 iki 20 
+ nuo daugiau kaip 2  iki 5  
+ nuo daugiau kaip 5  iki 10 
+ nuo daugiau kaip 10  iki 15 
+ nuo daugiau kaip 15  iki 20 
  nuo daugiau kaip 20 iki 25 
  daugiau kaip 25 
+
+
 
 
  Nesuteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 6,36- 6,42 
- 6,42- 6,44 
- 6,44- 6,5 
- 6,52- 6,62 
- 6,62- 6,82 
- 6,82- 6,85 
- 6,85- 6,89 
+ 6,36– 6,42 
+ 6,42– 6,44 
+ 6,44– 6,5 
+ 6,52– 6,62 
+ 6,62– 6,82 
+ 6,82– 6,85 
+ 6,85– 6,89 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 6,89- 6,9 
- 6,9- 6, 91 
- 6,91- 6,92 
- 6,92- 6,95 
- 6,95- 6,97 
- 6,97- 7,0 
- 7,0- 7,05 
+ 6,89– 6,9 
+ 6,9– 6, 91 
+ 6,91– 6,92 
+ 6,92– 6,95 
+ 6,95– 6,97 
+ 6,97– 7,0 
+ 7,0– 7,05 
 
 
  Vyresnysis mokytojas 
 
- 7,05- 7,06 
- 7,06- 7,08 
- 7,08- 7,12 
- 7,26- 7,4 
- 7,4- 7,44 
- 7,44- 7,47 
+ 7,05– 7,06 
+ 7,06– 7,08 
+ 7,08– 7,12 
+ 7,26– 7,4 
+ 7,4– 7,44 
+ 7,44– 7,47 
 
 
  Mokytojas metodininkas 
 
 
- 7,47- 7,54 
- 7,54- 7,68 
- 7,78- 7,92 
- 7,92- 7,96 
- 7,96- 8,0 
+ 7,47– 7,54 
+ 7,54– 7,68 
+ 7,78– 7,92 
+ 7,92– 7,96 
+ 7,96– 8,0 
 
 
  Mokytojas ekspertas 
 
 
- 8,4- 8,58 
- 8,58- 8,72 
- 8,80- 8,94 
- 8,94- 8,98 
- 8,98- 9,02 
+ 8,4– 8,58 
+ 8,58– 8,72 
+ 8,80– 8,94 
+ 8,94– 8,98 
+ 8,98– 9,02 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1367,9 +1384,6 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 
 
  
-Punkto pakeitimai:
-Nr. XIII-1838, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21865
- 
 
 
 
@@ -1380,15 +1394,11 @@ Nr. XIII-1838, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21865
 2.1. didinami 3–15 procentų:
 2.1. papunkčio pirmosios pastraipos redakcija nuo 2019-09-02:
 2.1. didinami 1–15 procentų:
- 
 
 
-2.1.1. dirbantiems bendrojo ugdymo mokyklose, išskyrus šio priedo 2.1.2 ir 2.1.3 papunkčiuose nurodytas mokyklas, įstaigose, vykdančiose profesinio mokymo, neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), kurių klasėje (grupėje) ugdomi 2 ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių vidutinius specialiuosius ugdymosi poreikius, ir (arba) 1 ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių didelių ar labai didelių specialiųjų ugdymosi poreikių;
+2.1.1. dirbantiems bendrojo ugdymo mokyklose, išskyrus šio priedo 2.1.2 ir 2.1.3 papunkčiuose nurodytas mokyklas, įstaigose, vykdančiose profesinio mokymo, neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), kurių klasėje (grupėje) ugdomi 2 ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių vidutinius specialiuosius ugdymosi poreikius, ir (arba) 1 ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių didelių ar labai didelių specialiųjų ugdymosi poreikių;
 2.1.1. papunkčio redakcija nuo 2019-09-02:
 2.1.1. dirbantiems bendrojo ugdymo mokyklose, išskyrus šio priedo 2.1.2 ir 2.1.3 papunkčiuose nurodytas mokyklas, įstaigose, vykdančiose profesinio mokymo, neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), kurių klasėje (grupėje) ugdomi  vienas ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių vidutinius, didelius ar labai didelius specialiuosius ugdymosi poreikius;
-Papunkčio pakeitimai:
-Nr. XIII-1838, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21865
- 
 
 
 
@@ -1436,9 +1446,6 @@ Nr. XIII-1838, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21865
 2.1.10. Vilniaus rajono, Šalčininkų rajono, Elektrėnų savivaldybės, Širvintų rajono, Švenčionių rajono, Trakų rajono, Visagino savivaldybės ir Vilniaus miesto savivaldybių teritorijose esančiose bendrojo ugdymo mokyklose, kuriose įteisintas mokymas lietuvių kalba, mokytojams, dirbantiems pradinėse klasėse (jeigu klasėje mokosi 10 ir daugiau mokinių ir iš jų ne mažiau kaip 50 procentų nemoka valstybinės kalbos);
 
 
-Papunkčio pakeitimai:
-Nr. XIII-1838, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21865
- 
 
 
 
@@ -1455,110 +1462,74 @@ Nr. XIII-1838, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21865
 
 
 
-4. Mokytojų, dirbančių pagal bendrojo ugdymo, profesinio mokymo ir neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), darbo laikas per savaitę yra 36 valandos (kontaktinės ir nekontaktinės).
+4. Mokytojų, dirbančių pagal bendrojo ugdymo, profesinio mokymo ir neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), darbo laikas per savaitę yra 36 valandos ugdomajai veiklai planuoti, pasiruošti pamokoms, mokinių mokymosi pasiekimams vertinti, vadovauti klasei (grupei).
 
 
 
 
-5. Kontaktinės valandos skiriamos bendrojo ugdymo srities (dalyko), profesinio mokymo, formalųjį švietimą papildančio ugdymo programoms įgyvendinti pagal ugdymo (mokymo) planuose numatytas valandas, neformaliojo švietimo programoms (išskyrus ikimokyklinio, priešmokyklinio ir formalųjį švietimą papildančio ugdymo programas) – pagal programoje numatytas valandas. 
+5. Mokytojų, dirbančių pagal bendrojo ugdymo, profesinio mokymo ir neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), darbo laiką sudaro:
+
+
+5.1. kontaktinės valandos, skiriamos bendrojo ugdymo srities (dalyko), profesinio mokymo, formalųjį švietimą papildančio ugdymo programoms įgyvendinti pagal ugdymo (mokymo) planuose numatytas valandas, neformaliojo švietimo programoms (išskyrus ikimokyklinio, priešmokyklinio ir formalųjį švietimą papildančio ugdymo programas) – pagal programoje numatytas valandas, ir valandos ugdomajai veiklai planuoti, pasiruošti pamokoms, mokinių mokymosi pasiekimams vertinti, vadovauti klasei (grupei); 
 
 
 
 
-6. Nekontaktinės valandos yra skirstomos į valandas, skirtas funkcijoms, susijusioms su kontaktinėmis valandomis, vykdyti, ir valandas, skirtas funkcijoms, susijusioms su veikla mokyklos bendruomenei, vykdyti:
-
-
-6.1. valandos funkcijoms, susijusioms su kontaktinėmis valandomis, vykdyti skiriamos ugdomajai veiklai planuoti, pasiruošti pamokoms, mokinių mokymosi pasiekimams vertinti, mokiniams, jų tėvams (globėjams, rūpintojams) informuoti apie mokinių ugdymo ir ugdymosi poreikius, mokymosi pažangą, profesiškai tobulėti;
-
-
-
-
-6.2. valandos funkcijoms, susijusioms su veikla mokyklos bendruomenei, vykdyti, skiriamos kitai ugdomajai veiklai su mokiniais, bendradarbiauti su pedagoginiais darbuotojais, mokinių tėvais (globėjais, rūpintojais) ir mokyklos partneriais; vadovauti klasei (grupei), įsivertinti biudžetinės įstaigos veiklai, siekiant biudžetinės įstaigos ugdymo (mokymo) tikslų, atlikti kitiems darbams, kurie nėra apibrėžiami kaip kontaktinės valandos ir valandos funkcijoms, susijusioms su kontaktinėmis valandomis, vykdyti. 
+5.2. valandos, susijusios su profesiniu tobulėjimu ir su veikla mokyklos bendruomenei.
 
 
 
 
 
 
-7. Mokytojo, dirbančio pagal bendrojo ugdymo programas, kontaktinių valandų, valandų funkcijoms, susijusioms su kontaktinėmis valandomis, vykdyti ir valandų funkcijoms, susijusioms su veikla mokyklos bendruomenei, vykdyti proporcija ir kiekis per mokslo metus: 
- 
- 
- 
-
-
-
- Pareigybė 
- Kontaktinės valandos 
- Nekontaktinės valandos 
- Iš viso   
-
-
- valandos funkcijoms, susijusioms su kontaktinėmis valandomis, vykdyti 
- valandos funkcijoms, susijusioms su veikla mokyklos bendruomenei, vykdyti 
-
-
- Mokytojas (pedagoginis darbo stažas iki 2 metų) 
- 504–756 
- nuo 60 iki 100 proc. kontaktinių valandų skaičiaus 
- iki 40 proc.  visų valandų skaičiaus 
- 1 512 
-
-
- Mokytojas Vyresnysis mokytojas Mokytojas metodininkas Mokytojas ekspertas (pedagoginis darbo stažas nuo daugiau kaip 2 metų) 
- 504–1 008 
- nuo 30 iki 50 proc. kontaktinių valandų skaičiaus 
- iki 50 proc.  visų valandų skaičiaus 
-
-
-
- 
+6. Veiklų, susijusių su profesiniu tobulėjimu, aprašą tvirtina švietimo, mokslo ir sporto ministras, atsižvelgdamas į socialinių partnerių ir pedagogų rengimo centrų pasiūlymus. Veiklų mokyklos bendruomenei aprašą tvirtina švietimo, mokslo ir sporto ministras, atsižvelgdamas į socialinių partnerių pasiūlymus. 
 
 
 
 
-8. Mokytojui, dirbančiam pagal bendrojo ugdymo programas, per savaitę skiriama ne daugiau kaip 24 kontaktinės valandos privalomiems dalykams pagal bendruosius ugdymo planus, kuriuos tvirtina švietimo ir mokslo ministras, mokyti. 
-
-
-
-
-9. Mokytojo, dirbančio pagal profesinio mokymo ir neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), kontaktinių valandų, valandų funkcijoms, susijusioms su kontaktinėmis valandomis, vykdyti ir valandų funkcijoms, susijusioms su veikla mokyklos bendruomenei, vykdyti proporcija ir kiekis per mokslo metus:
- 
+7. Mokytojo, dirbančio pagal bendrojo ugdymo, profesinio mokymo ir neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), valandų skaičius per mokslo metus:
 
 
 
  Pareigybė 
- Kontaktinės valandos  
- Nekontaktinės valandos 
+ Kontaktinės valandos ir valandos ugdomajai veiklai planuoti, pasiruošti pamokoms, mokinių mokymosi pasiekimams vertinti, vadovauti klasei (grupei) 
+ Valandos, susijusios su profesiniu tobulėjimu ir veikla mokyklos bendruomenei 
  Iš viso 
 
 
- valandos funkcijoms, susijusioms su kontaktinėmis valandomis, vykdyti 
- valandos funkcijoms, susijusioms su veikla mokyklos bendruomenei, vykdyti 
-
-
- Mokytojas (pedagoginis darbo stažas iki 2 metų) 
- 672–924 
- nuo 60 iki 100 proc. kontaktinių valandų skaičiaus 
- iki 30 proc.  visų valandų skaičiaus 
+ Mokytojas (pedagoginis darbo stažas iki 2 metų) Mokytojas Vyresnysis mokytojas Mokytojas metodininkas Mokytojas ekspertas (pedagoginis darbo stažas nuo daugiau kaip 2 metų) 
+ 1 010-1 410 
+ 102-502 
  1 512 
 
 
- Mokytojas Vyresnysis mokytojas Mokytojas metodininkas Mokytojas ekspertas (pedagoginis darbo stažas nuo daugiau kaip 2 metų) 
- 672–1 032 
- nuo 30 iki 50 proc. kontaktinių valandų skaičiaus 
- iki 50 proc.  visų valandų skaičiaus 
-
-
 
  
 
 
 
 
-10. Mokytojo, dirbančio pagal bendrojo ugdymo, profesinio mokymo ir neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), darbo krūvio sandarą nustato biudžetinės įstaigos vadovas pagal šio priedo 7 ir 9 punktuose nustatytą kontaktinių valandų, valandų funkcijoms, susijusioms su kontaktinėmis valandomis, vykdyti ir valandų funkcijoms, susijusioms su veikla mokyklos bendruomenei, vykdyti proporciją per mokslo metus, kvalifikacinę kategoriją, ugdymo (mokymo) programą, dalyką (dalykų grupę, mokymo modulį) ir kitus biudžetinės įstaigos darbo apmokėjimo sistemoje nustatytus kriterijus, atsižvelgdamas į švietimo ir mokslo ministro patvirtintas rekomendacijas dėl mokytojų, dirbančių pagal bendrojo ugdymo, profesinio mokymo ir neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), darbo krūvio sandaros.
+8. Mokytojui, dirbančiam pagal bendrojo ugdymo programas, per metus skiriama ne daugiau kaip 888 kontaktinės valandos privalomiems dalykams pagal bendruosius ugdymo planus, kuriuos tvirtina švietimo, mokslo ir sporto ministras, mokyti; tuo atveju ne mažiau kaip 355 valandos skiriamos ugdomajai veiklai planuoti, pasiruošti pamokoms, mokinių mokymosi pasiekimams vertinti; ne mažiau kaip 152 valandos gali būti skiriamos vadovauti klasei (grupei).
+
+
+
+
+81. Mokytojui (kurio pedagoginis darbo stažas iki 2 metų), dirbančiam pagal bendrojo ugdymo programas, per metus skiriama ne daugiau kaip 756 kontaktinės valandos, o dirbančiam pagal profesinio mokymo ir neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas) – ne daugiau kaip 924 kontaktinės valandos.
+
+
+
+
+9. Mokytojų, dirbančių pagal bendrojo ugdymo, profesinio mokymo ir neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), darbo laiko grafiko sudarymo bendrąsias nuostatas tvirtina švietimo, mokslo ir sporto ministras, suderinęs su socialinės apsaugos ir darbo ministru.
+
+
+
+
+10. Mokytojo, dirbančio pagal bendrojo ugdymo, profesinio mokymo ir neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), darbo krūvio sandarą pagal dalykus, ugdymo ar mokymo sritis nustato biudžetinės įstaigos vadovas pagal šio priedo 7 punkte nustatytas valandas vadovaudamasis švietimo, mokslo ir sporto ministro nustatyta tvarka.
+
+
+Skyriaus pakeitimai:
+Nr. XIII-1780, 2018-12-13, paskelbta TAR 2018-12-20, i. k. 2018-20997
  
-
-
 
 
 
@@ -2444,44 +2415,6 @@ MOKYKLŲ VADOVŲ IR JŲ PAVADUOTOJŲ UGDYMUI PAREIGINĖS ALGOS PASTOVIOSIOS DALI
  Pastoviosios dalies koeficientai (pareiginės algos baziniais dydžiais) 
 
 
- pedagoginio darbo stažas (metais) 
-
-
- iki 10 metų  
- nuo daugiau kaip 10 iki 15  
- daugiau kaip 15  
-
-
- iki 200 
- 7,2–10,71 
- 7,49–11,1 
- 7,86–11,37 
-
-
- 201–600 
- 8,0–11,74 
- 8,46–11,8 
- 8,8–11,81 
-
-
- 601 ir daugiau 
- 8,58–12,6 
- 8,95–12,62 
- 9,24–12,65 
-
-
-
- 
-41 punkto redakcija nuo 2019-09-01:
-41. Mokyklų vadovų pareiginės algos pastoviosios dalies koeficientai:
- 
-
-
-
- Mokinių skaičius  
- Pastoviosios dalies koeficientai (pareiginės algos baziniais dydžiais) 
-
-
 
  Iki 10 metų  
  Nuo daugiau kaip 10 iki 15 metų 
@@ -2778,3 +2711,8 @@ Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1739, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20709
 Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 pavadinimo, 1 straipsnio, 1, 2, 3, 4, 5 priedų pakeitimo ir Įstatymo papildymo III-1 skyriumi įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1780, 2018-12-13, paskelbta TAR 2018-12-20, i. k. 2018-20997
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 4 straipsnio ir 5 priedo pakeitimo įstatymas
