@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2019-07-06 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
@@ -443,6 +443,14 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 3. Nuteistieji, palikti tardymo izoliatoriuose atlikti ūkio darbus, laikomi atskirose patalpose.
+
+
+
+
+4. Nepilnametis, kuris nepasibaigus suėmimo terminui sulaukia pilnametystės, tardymo izoliatoriaus administracijos sprendimu gali būti toliau, bet ne ilgiau negu jam sukaks 21 metai, laikomas kartu su nepilnamečiais suimtaisiais, kai tai atitinka šių nepilnamečių interesus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2336, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12387
+ 
 
 
 Straipsnio pakeitimai:
@@ -1634,7 +1642,10 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-3. Privaloma nuodugniai patikrinti naujų į tardymo izoliatorių priimtų asmenų sveikatos būklę.
+3. Privaloma nuodugniai patikrinti naujų į tardymo izoliatorių priimtų asmenų sveikatos būklę. Atsižvelgiant į suimto nepilnamečio sveikatos būklę, taip pat į suimto nepilnamečio ar jo gynėjo arba atstovo prašymą, turi būti atliktas papildomas ar pakartotinis šio suimto nepilnamečio sveikatos būklės patikrinimas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2336, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12387
+ 
 
 
 
@@ -1806,6 +1817,14 @@ Nr. XIII-359, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08718
  
 
 
+
+
+4. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/800 dėl procesinių garantijų vaikams, kurie baudžiamajame procese yra įtariamieji ar kaltinamieji (OL 2016 L 132, p. 1). 
+Papildyta punktu:
+Nr. XIII-2336, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12387
+ 
+
+
 Priedo pakeitimai:
 Nr. VIII-1424, 1999-11-16, Žin., 1999, Nr. 102-2922 (1999-12-01), i. k. 0991010ISTAIII-1424
 Nr. XII-2196, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20998
@@ -1892,3 +1911,8 @@ Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 11 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
 Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 6, 7, 8, 12, 17, 20, 22, 27, 30, 32, 36, 40 straipsnių pakeitimo ir 43 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2336, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12387
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 10, 45 straipsnių ir priedo pakeitimo įstatymas
