@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 2019-07-24 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
  
@@ -718,9 +718,7 @@ Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
 
 
 
-7. Respublikos Prezidentas laidojamas valstybės lėšomis.
-7 dalies redakcija nuo 2019-09-01:
-7. Respublikos Prezidentas laidojamas ir jo atminimas įamžinamas valstybės lėšomis Vyriausybės ir jos įgaliotos institucijos nustatyta tvarka.
+7. Respublikos Prezidentas laidojamas ir jo atminimas įamžinamas valstybės lėšomis Vyriausybės ir jos įgaliotos institucijos nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
  
