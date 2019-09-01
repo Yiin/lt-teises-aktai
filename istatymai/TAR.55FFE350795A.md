@@ -21,9 +21,14 @@ DRAUDIMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-08-31
+Suvestinė redakcija nuo 2019-09-01 iki 2022-01-04
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 6-212, i. k. 1071010ISTA00X-1409
+ 
+TAR pastaba. Įstatymo Nr. XIII-2217 nuostatos taikomos pažeidimams, padarytiems po šio įstatymo įsigaliojimo (2019-09-01).
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
+Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 13, 14, 16 ir 20 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS  NESĄŽININGOS KOMERCINĖS VEIKLOS VARTOTOJAMS DRAUDIMO  ĮSTATYMAS
  
@@ -698,27 +703,17 @@ Komercinės veiklos subjektai, pažeidę šio įstatymo reikalavimus, atsako ši
 13 straipsnis. Baudos ir įspėjimas
 
 
-1. Už nesąžiningą komercinę veiklą komercinės veiklos subjektams Tarnyba pagal savo kompetenciją gali skirti nuo dviejų šimtų aštuoniasdešimt devynių iki aštuonių tūkstančių šešių šimtų aštuoniasdešimt aštuonių eurų baudą, jeigu ši bauda neviršija 3 procentų komercinės veiklos subjekto metinių pajamų praėjusiais finansiniais metais. Pakartotinai per vienus metus padariusiems pažeidimą, už kurį buvo paskirta šiame įstatyme nustatyta bauda, komercinės veiklos subjektams gali būti skiriama didesnė, iki trisdešimt keturių tūkstančių septynių šimtų penkiasdešimt keturių eurų, bauda, jeigu ši bauda neviršija 6 procentų komercinės veiklos subjekto metinių pajamų praėjusiais finansiniais metais. Komercinės veiklos subjektui, kuris vykdo komercinę veiklą trumpiau negu vienus metus, didžiausia galima skirti bauda apskaičiuojama pagal jo einamaisiais finansiniais metais gautas pajamas. Tais atvejais, kai pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems vartotojų interesams, Tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, už nesąžiningą komercinę veiklą komercinės veiklos subjektams gali taikyti nuobaudą – įspėjimą, neskirdama baudos. Tarnyba negali komercinės veiklos subjektams skirti baudos, jeigu nuo šio įstatymo pažeidimo padarymo dienos praėjo daugiau kaip treji metai. 
-Straipsnio dalies pakeitimai:
-Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010ISTA0XII-628
-Nr. XII-1249, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14869
- 
+1. Už nesąžiningą komercinę veiklą komercinės veiklos subjektams Tarnyba pagal savo kompetenciją gali skirti baudą iki 3 procentų jų metinių pajamų praėjusiais finansiniais metais, bet ne didesnę negu vienas šimtas tūkstančių eurų. Jeigu komercinės veiklos subjektas veikia trumpiau negu vienus metus, bauda skiriama iki 3 procentų jo pajamų einamaisiais finansiniais metais, bet ne didesnė negu vienas šimtas tūkstančių eurų. Komercinės veiklos subjektams, pakartotinai per vienus metus padariusiems pažeidimą, už kurį buvo paskirta šiame įstatyme nustatyta bauda ar įspėjimas, gali būti skiriama bauda iki 6 procentų jų metinių pajamų praėjusiais finansiniais metais, bet ne didesnė negu du šimtai tūkstančių eurų, o jeigu komercinės veiklos subjektas veikia trumpiau negu vienus metus, – iki 6 procentų jo pajamų einamaisiais finansiniais metais, bet ne didesnė negu du šimtai tūkstančių eurų. Jeigu komercinės veiklos subjektas nepateikia informacijos apie savo metines pajamas, jam už nesąžiningą komercinę veiklą skiriama bauda iki vieno šimto tūkstančių eurų, o jeigu pažeidimas padaromas pakartotinai per vienus metus nuo baudos ar įspėjimo už šiame įstatyme numatytą pažeidimą paskyrimo, – iki dviejų šimtų tūkstančių eurų. Tais atvejais, kai pažeidimu nepadaroma esminės žalos šio įstatymo saugomiems vartotojų interesams, Tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, už nesąžiningą komercinę veiklą komercinės veiklos subjektams gali taikyti nuobaudą – įspėjimą, neskirdama baudos. Tarnyba negali komercinės veiklos subjektams skirti baudos, jeigu nuo šio įstatymo pažeidimo padarymo dienos praėjo daugiau kaip treji metai.
 
 
 
 
-2. Už Tarnybos sprendimo dėl šiame įstatyme numatytos laikinojo pobūdžio priemonės nevykdymą arba netinkamą jo vykdymą komercinės veiklos subjektams skiriama dviejų šimtų aštuoniasdešimt devynių eurų bauda už kiekvieną nevykdymo arba netinkamo vykdymo dieną. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1249, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14869
- 
+2. Už Tarnybos sprendimo dėl šiame įstatyme numatytos laikinojo pobūdžio priemonės nevykdymą arba netinkamą jo vykdymą komercinės veiklos subjektams skiriama trijų šimtų eurų bauda už kiekvieną nevykdymo arba netinkamo vykdymo dieną.
 
 
 
 
-3. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudų vidurkį. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio 4 ir 5 dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidurkio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidurkio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas turi būti motyvuojamas Tarnybos nutarime. 
-Straipsnio dalies pakeitimai:
-Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010ISTA0XII-628
- 
+3. Įspėjimas skiriamas ir baudos dydis nustatomas pagal Lietuvos Respublikos Vyriausybės patvirtintą Įspėjimų ir baudų už Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo pažeidimus skyrimo tvarkos aprašą, atsižvelgiant į pažeidimo pobūdį, pažeidimo trukmę, mastą ir šio straipsnio 4 ir 5 dalyse nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes.
 
 
 
@@ -728,27 +723,17 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010IS
 
 
 
-5. Atsakomybę sunkinančiomis aplinkybėmis laikomos aplinkybės, kai padarę pažeidimą komercinės veiklos subjektai kliudė atlikti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą, nepaisydami šio įstatymo 17 straipsnyje nurodytos laikinojo pobūdžio priemonės – įpareigojimo sustabdyti nesąžiningą komercinę veiklą. 
-Straipsnio dalies pakeitimai:
-Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010ISTA0XII-628
+5. Atsakomybę sunkinančiomis aplinkybėmis laikomos aplinkybės, kai padarę pažeidimą komercinės veiklos subjektai kliudė atlikti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą, nepaisydami šio įstatymo 17 straipsnyje nurodytos laikinojo pobūdžio priemonės – įpareigojimo sustabdyti nesąžiningą komercinę veiklą.
+
+
+
+
+6. Už Tarnybos reikalavimo pateikti informaciją ir dokumentus, reikalingus šio įstatymo pažeidimui tirti, nevykdymą ar netinkamą vykdymą, jeigu prieš tai jis buvo įspėtas dėl šio reikalavimo nevykdymo arba netinkamo vykdymo, komercinės veiklos subjektui gali būti skiriama bauda iki trijų tūkstančių eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
  
-
-
-
-
-6. Skundą dėl Tarnybos nutarimo nagrinėjantis teismas, atsižvelgdamas į atsakomybę lengvinančias ir kitas aplinkybes (dėl kurių atitinkama piniginė bauda komercinės veiklos subjektui, kuris pažeidė šį įstatymą, būtų akivaizdžiai per didelė, nes neproporcinga padarytam teisės pažeidimui ir dėl to neteisinga) ir vadovaudamasis teisingumo, protingumo kriterijais, turi teisę skirti mažesnę piniginę baudą, negu atitinkamoje šio straipsnio dalyje nustatytos minimalios piniginės baudos;
-
-
-
-
-7. Už Tarnybos reikalavimo pateikti informaciją ir dokumentus, reikalingus šio įstatymo pažeidimui tirti, nevykdymą ar netinkamą vykdymą, jeigu prieš tai buvo įspėta dėl šio reikalavimo nevykdymo arba netinkamo vykdymo, komercinės veiklos subjektui gali būti skiriama bauda nuo dviejų šimtų aštuoniasdešimt devynių iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų.
-Papildyta straipsnio dalimi:
-Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010ISTA0XII-628
-Straipsnio dalies pakeitimai:
-Nr. XII-1249, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14869
- 
-
-
 
 
 
@@ -756,10 +741,12 @@ Nr. XII-1249, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14869
 14 straipsnis. Nesąžiningos komercinės veiklos atvejų nagrinėjimo tvarka
 
 
-Tarnyba nagrinėja šio įstatymo 9 straipsnio 1 dalyje jos kompetencijai priskirtus nesąžiningos komercinės veiklos atvejus ir skiria numatytas baudas arba įspėjimą. Nesąžiningos komercinės veiklos atvejų nagrinėjimo ir baudų bei įspėjimo skyrimo tvarką nustato šis įstatymas ir Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo pažeidimų nagrinėjimo taisyklės, kurias patvirtina Lietuvos Respublikos teisingumo ministras įsakymu.
+Tarnyba nagrinėja šio įstatymo 9 straipsnio 1 dalyje jos kompetencijai priskirtus nesąžiningos komercinės veiklos atvejus ir skiria numatytas baudas arba įspėjimą. Nesąžiningos komercinės veiklos atvejų nagrinėjimo ir baudų bei įspėjimo skyrimo tvarką nustato šis įstatymas ir Įspėjimų ir baudų už Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo pažeidimus skyrimo tvarkos aprašas, kurį tvirtina Vyriausybė. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
  
-
-
 
 
 
@@ -839,27 +826,50 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. 1131010IS
 3. Pradėti prašymo (skundo) nagrinėjimo procedūrą atsisakoma, jeigu:
 
 
-1) prašymas (skundas) neatitinka šio straipsnio 1 dalyje nustatytų reikalavimų ir šie trūkumai nepašalinami per Tarnybos nustatytą terminą, kuris negali būti trumpesnis kaip septynios dienos;
+1) prašyme (skunde) nurodyti faktai yra mažareikšmiai; 
+Papildyta straipsnio punktu:
+Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
+ 
 
 
 
 
-2) prašyme (skunde) nurodyto pažeidimo nagrinėjimas nepriskirtas Tarnybos kompetencijai;
+2) prašymas (skundas) neatitinka šio straipsnio 1 dalyje nustatytų reikalavimų ir šie trūkumai nepašalinami per Tarnybos nustatytą terminą, kuris negali būti trumpesnis kaip septynios dienos;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
+ 
 
 
 
 
-3) prašyme (skunde) nurodyti faktiniai duomenys jau buvo patikrinti ir dėl jų priimtas nutarimas;
+3) prašyme (skunde) nurodyto pažeidimo nagrinėjimas nepriskirtas Tarnybos kompetencijai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
+ 
 
 
 
 
-4) nėra faktinių duomenų, kurie leistų pagrįstai įtarti šio įstatymo pažeidimą, arba Tarnyba prašymą (skundą), atsižvelgdama į jo esmę, nagrinėja kitų įstatymų nustatyta tvarka;
+4) prašyme (skunde) nurodyti faktiniai duomenys jau buvo patikrinti ir dėl jų priimtas nutarimas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
+ 
 
 
 
 
-5) nuo dienos, kurią šio įstatymo 15 straipsnio 1 dalyje nurodytas asmuo sužinojo arba turėjo sužinoti apie prašyme (skunde) nurodytą šio įstatymo pažeidimą, iki prašymo (skundo) padavimo yra praėję daugiau kaip šeši mėnesiai, bet visais atvejais – daugiau kaip treji metai nuo pažeidimo padarymo dienos.
+5) nėra faktinių duomenų, kurie leistų pagrįstai įtarti šio įstatymo pažeidimą, arba Tarnyba prašymą (skundą), atsižvelgdama į jo esmę, nagrinėja kitų įstatymų nustatyta tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
+ 
+
+
+
+
+6) nuo dienos, kurią šio įstatymo 15 straipsnio 1 dalyje nurodytas asmuo sužinojo arba turėjo sužinoti apie prašyme (skunde) nurodytą šio įstatymo pažeidimą, iki prašymo (skundo) padavimo yra praėję daugiau kaip šeši mėnesiai, bet visais atvejais – daugiau kaip treji metai nuo pažeidimo padarymo dienos.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
+ 
 
 
 
@@ -964,7 +974,10 @@ Prašymo (skundo) nagrinėjimo procedūros dalyviams ne vėliau kaip prieš ketu
 20 straipsnis. Prašymo (skundo) nagrinėjimas
 
 
-1. Tarnyba prašymą (skundą) nagrinėja rašytinio proceso arba žodinio proceso tvarka šiame įstatyme ir Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo pažeidimų nagrinėjimo taisyklėse nustatyta tvarka.
+1. Tarnyba prašymą (skundą) nagrinėja rašytinio proceso arba žodinio proceso tvarka šiame įstatyme ir Įspėjimų ir baudų už Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo pažeidimus skyrimo tvarkos apraše nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
+ 
 
 
 
@@ -1130,7 +1143,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS
  
 
 
@@ -1168,3 +1181,8 @@ Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2012, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05345
 Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 9 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
+Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 13, 14, 16 ir 20 straipsnių pakeitimo įstatymas
