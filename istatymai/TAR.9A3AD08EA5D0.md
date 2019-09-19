@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-09-18
+Suvestinė redakcija nuo 2019-09-19 iki 2019-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -3823,6 +3823,9 @@ Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
 
 
 16. Tais atvejais, kai švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) ar jos (jo) įgaliotas asmuo arba savivaldybės meras gauna informaciją (asmens skundą, informaciją apie tai, kad švietimo įstaigos vadovas įtariamas ar kaltinamas padaręs nusikalstamą veiką, visuomenės informavimo priemonėse paskelbtą ar kitokią informaciją) apie tai, kad švietimo įstaigos vadovas galimai padarė šiurkštų darbo pareigų pažeidimą arba nėra nepriekaištingos reputacijos, ši institucija arba jos įgaliotas asmuo ne vėliau kaip per 3 darbo dienas nuo tokios informacijos gavimo dienos privalo pradėti tarnybinį patikrinimą. Tarnybinių patikrinimų atlikimo tvarką nustato švietimo ir mokslo ministras. Tarnybinio patikrinimo laikotarpiu švietimo įstaigos vadovas privalo būti nušalintas nuo pareigų savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) ar jos (jo) įgalioto asmens sprendimu arba atitinkamai – savivaldybės mero potvarkiu. Savivaldybės meras apie pradėtą tarnybinį patikrinimą, švietimo įstaigos vadovo, kuriam pradėtas tarnybinis patikrinimas, nušalinimą nuo pareigų, švietimo įstaigos darbuotoją, paskirtą laikinai eiti tos įstaigos vadovo pareigas, nedelsdamas raštu informuoja savivaldybės tarybą.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos švietimo įstatymo 59 straipsnio 16 dalyje (2018 m. birželio 29 d. redakcija, TAR, 2018-07-04, Nr. 11327) nustatytas teisinis reguliavimas tiek, kiek pagal jį, gavus bet kokią informaciją apie tai, kad švietimo įstaigos vadovas galimai padarė šiurkštų darbo pareigų pažeidimą arba nėra nepriekaištingos reputacijos, ne vėliau kaip per 3 darbo dienas nuo tokios informacijos gavimo dienos privalo būti pradėtas tarnybinis patikrinimas, o tokio patikrinimo laikotarpiu švietimo įstaigos vadovas privalo būti visais atvejais nušalintas nuo pareigų, prieštarauja Lietuvos Respublikos Konstitucijos 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus gali laisvai pasirinkti darbą“, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT25-N11/2019, 2019-09-19, paskelbta TAR 2019-09-19, i. k. 2019-14836
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
  
@@ -4651,3 +4654,8 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 56 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2090, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07327
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 41 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT25-N11/2019, 2019-09-19, paskelbta TAR 2019-09-19, i. k. 2019-14836
+Dėl Lietuvos Respublikos švietimo įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai
