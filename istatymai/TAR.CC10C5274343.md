@@ -20,9 +20,14 @@ Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 
 
-Suvestinė redakcija nuo 2019-02-21 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2019-10-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
+ 
+TAR pastaba. Jeigu iki įstatymo Nr. XIII-2283 įsigaliojimo (2019-10-01) yra pradėtas valstybei arba savivaldybei nuosavybės teise priklausančio nekilnojamojo turto, kuriam priskirta valstybinė žemė negali būti perduodama privačion nuosavybėn, pardavimas viešame aukcione, tokius žemės sklypus centralizuotai valdomo valstybės turto valdytojas išnuomoja pagal iki įstatymo Nr. XIII-2283 įsigaliojimo (2019-10-01) galiojusias nuostatas. Įsigaliojus įstatymui Nr. XIII-2283, centralizuotai valdomo valstybės turto valdytojo patikėjimo teise valdomi valstybinės žemės sklypai, kurie priskirti parduotam valstybės ar savivaldybių nekilnojamajam turtui ir dėl kurių sudarytos nuomos sutartys, per 6 mėnesius nuo įstatymo Nr. XIII-2283 įsigaliojimo (2019-10-01) centralizuotai valdomo valstybės turto valdytojo vadovo sprendimu perduodami patikėjimo teise valdyti, naudoti ir disponuoti jais Nacionalinei žemės tarnybai prie Lietuvos Respublikos žemės ūkio ministerijos.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2283, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12240
+Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 8, 9 ir 32 straipsnių pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2004-02-21:
 Nr. IX-1983, 2004-01-27, Žin., 2004, Nr. 28-868 (2004-02-21)
@@ -427,7 +432,10 @@ Nr. X-982, 2006-12-14, Žin., 2006, Nr. 138-5268 (2006-12-19)
 
 
 
-3) centralizuotai valdomo valstybės turto valdytojas – kai valstybinė žemė yra priskirta centralizuotai valdomo valstybės turto valdytojo patikėjimo teise valdomam valstybės nekilnojamajam turtui, kai valstybinė žemė priskirta įstatymų nustatyta tvarka parduodamam valstybei arba savivaldybei nuosavybės teise priklausančiam nekilnojamajam turtui arba kai valstybinė žemė yra reikalinga įgyvendinti valstybei svarbiems ekonominiams projektams, kurių valstybinę svarbą savo sprendimu pripažino Lietuvos Respublikos Seimas arba Vyriausybė ir kurių valdymą Seimas arba Vyriausybė pavedė centralizuotai valdomo valstybės turto valdytojui;
+3) centralizuotai valdomo valstybės turto valdytojas – kai valstybinė žemė yra priskirta centralizuotai valdomo valstybės turto valdytojo patikėjimo teise valdomam valstybės nekilnojamajam turtui arba kai valstybinė žemė, kuri gali būti parduodama, priskirta parduodamam valstybės arba savivaldybės nekilnojamajam turtui, arba kai valstybinė žemė yra reikalinga administracinės paskirties valstybės nekilnojamojo turto atnaujinimo projektams įgyvendinti;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2283, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12240
+ 
 
 
 
@@ -548,7 +556,10 @@ Nr. XIII-1266, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10508
 8 straipsnis. Valstybinės žemės perdavimas neatlygintinai ja naudotis (panauda)
 
 
-1. Sudarant valstybinės žemės panaudos sutartis, valstybinė žemė gali būti perduodama laikinai neatlygintinai naudotis valstybės institucijoms, savivaldybėms, miškų urėdijoms, valstybinių rezervatų direkcijoms, valstybinių parkų direkcijoms, kitoms iš valstybės ar savivaldybių biudžetų išlaikomoms įstaigoms, tradicinėms religinėms bendruomenėms ir bendrijoms, viešosioms įstaigoms, veikiančioms pagal Viešųjų įstaigų įstatymą, kai bent vienas iš jų dalininkų yra valstybės ar savivaldybės institucija, ir viešosioms įstaigoms – mokykloms. Kitiems Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 14 straipsnyje nurodytiems asmenims, kuriems valstybės turtas (statiniai ar įrenginiai) perduotas panaudos pagrindais neatlygintinai naudotis, gali būti perduodami laikinai neatlygintinai naudotis valstybinės žemės sklypai, reikalingi šiems statiniams ar įrenginiams eksploatuoti. Tuo atveju, kai panaudos pagrindais perduodamas žemės sklypas yra reikalingas panaudos pagrindais perduotiems statiniams ar įrenginiams eksploatuoti, žemės panaudos sutarties terminas negali būti ilgesnis už statinių ar įrenginių panaudos sutarties terminą. Valstybinė žemė perduodama neatlygintinai naudotis Vyriausybės nustatyta tvarka.
+1. Sudarant valstybinės žemės panaudos sutartis, valstybinė žemė gali būti perduodama laikinai neatlygintinai naudotis valstybės institucijoms, savivaldybėms, miškų urėdijoms, valstybinių rezervatų direkcijoms, valstybinių parkų direkcijoms, kitoms iš valstybės ar savivaldybių biudžetų išlaikomoms įstaigoms, tradicinėms religinėms bendruomenėms ir bendrijoms, viešosioms įstaigoms, kurios pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą laikomos viešojo sektoriaus subjektais. Kitiems Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 14 straipsnyje nurodytiems asmenims, kuriems valstybės turtas (statiniai ar įrenginiai) perduotas panaudos pagrindais neatlygintinai naudotis, gali būti perduodami laikinai neatlygintinai naudotis valstybinės žemės sklypai, reikalingi šiems statiniams ar įrenginiams eksploatuoti. Tuo atveju, kai panaudos pagrindais perduodamas žemės sklypas yra reikalingas panaudos pagrindais perduotiems statiniams ar įrenginiams eksploatuoti, žemės panaudos sutarties terminas negali būti ilgesnis už statinių ar įrenginių panaudos sutarties terminą. Valstybinė žemė perduodama neatlygintinai naudotis Vyriausybės nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2283, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12240
+ 
 
 
 
@@ -633,7 +644,10 @@ Nr. XIII-971, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21730
 
 
 
-2) centralizuotai valdomo valstybės turto valdytojas – kai valstybinė žemė yra priskirta centralizuotai valdomo valstybės turto valdytojo patikėjimo teise valdomam valstybės nekilnojamajam turtui, kai valstybinė žemė priskirta įstatymų nustatyta tvarka parduodamam valstybei arba savivaldybei nuosavybės teise priklausančiam nekilnojamajam turtui arba kai valstybinė žemė yra reikalinga įgyvendinti valstybei svarbiems ekonominiams projektams, kurių valstybinę svarbą savo sprendimu pripažino Seimas arba Vyriausybė ir kurių valdymą Seimas arba Vyriausybė pavedė centralizuotai valdomo valstybės turto valdytojui. Sprendimą išnuomoti valstybinės žemės sklypą priima centralizuotai valdomo valstybės turto valdytojo vadovas, o valstybinės žemės nuomos sutartį sudaro centralizuotai valdomo valstybės turto valdytojo vadovas ar jo įgaliotas darbuotojas;
+2) centralizuotai valdomo valstybės turto valdytojas – kai valstybinė žemė yra priskirta centralizuotai valdomo valstybės turto valdytojo patikėjimo teise valdomam valstybės nekilnojamajam turtui. Sprendimą išnuomoti valstybinės žemės sklypą priima centralizuotai valdomo valstybės turto valdytojo vadovas, o valstybinės žemės nuomos sutartį sudaro centralizuotai valdomo valstybės turto valdytojo vadovas ar jo įgaliotas darbuotojas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2283, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12240
+ 
 
 
 
@@ -2063,7 +2077,10 @@ VI skyrius
 
 
 
-5) veikia valstybės vardu valstybei paveldint ir įsigyjant privačią žemę valstybės nuosavybėn, išskyrus atvejus, kai centralizuotai valdomo valstybės turto valdytojas veikia valstybės vardu įsigyjant privačią žemę valstybės nuosavybėn Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme nustatyto valstybės nekilnojamojo turto atnaujinimo tikslais, ir šio Įstatymo nustatytus atvejus, kai valstybės vardu paveldint ar kitaip įsigyjant privačią žemę valstybės nuosavybėn valstybės vardu veikia Valstybės žemės fondas;
+5) veikia valstybės vardu valstybei paveldint ir įsigyjant privačią žemę valstybės nuosavybėn, išskyrus atvejus, kai centralizuotai valdomo valstybės turto valdytojas veikia valstybės vardu įsigyjant privačią žemę valstybės nuosavybėn Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme nustatyto administracinės paskirties valstybės nekilnojamojo turto atnaujinimo projektams įgyvendinti, ir šio Įstatymo nustatytus atvejus, kai valstybės vardu paveldint ar kitaip įsigyjant privačią žemę valstybės nuosavybėn valstybės vardu veikia Valstybės žemės fondas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2283, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12240
+ 
 
 
 
@@ -3909,3 +3926,8 @@ Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 10 straipsnių pakeitimo i
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1967, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02747
 Lietuvos Respublikos žemės įstatymo Nr. I-446 32 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2283, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12240
+Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 8, 9 ir 32 straipsnių pakeitimo įstatymas
