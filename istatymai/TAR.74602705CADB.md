@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.74602705CADB"
 
 # Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymas
 
-Suvestinė redakcija nuo 2019-07-25 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3008, i. k. 1021010ISTA00IX-986
  
@@ -540,7 +540,11 @@ Nr. XIII-1450, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11762
 
 
 
-3. Valstybės nuosavybės teise įgytas atsargas, taip pat susitarimų su įpareigotosiomis įmonėmis pagrindu kaupiamas ir tvarkomas atsargas Agentūra gali laikyti naftos produktų ar naftos sandėliuose (terminaluose) ar saugyklose, kuriuos (ar dalį kurių) Agentūra valdo turto patikėjimo, nuomos ar panaudos pagrindais, arba sandėliavimo (terminalo) paslaugų teikėjų dispozicijoje.
+3. Valstybės nuosavybės teise įgytas atsargas, taip pat susitarimų su įpareigotosiomis įmonėmis pagrindu kaupiamas ir tvarkomas atsargas Agentūra gali laikyti naftos produktų ar naftos sandėliuose (terminaluose) ar saugyklose, kuriuos (ar dalį kurių) Agentūra valdo turto patikėjimo ar nuomos pagrindais, arba sandėliavimo (terminalo) paslaugų teikėjų dispozicijoje.
+TAR pastaba. Iki įstatymo Nr. XIII-2287 įsigaliojimo dienos (2019-10-01) sudarytos terminuotos valstybės turto panaudos sutartys galioja iki jų pabaigos dienos. Įsigaliojus šiam įstatymui, valstybės turto panaudos davėjai, Lietuvos Respublikos civilinio kodekso nustatyta tvarka įspėję panaudos gavėjus, nutraukia visas neterminuotas valstybės turto panaudos sutartis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2287, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12176
+ 
 
 
 
@@ -1096,3 +1100,8 @@ Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2294, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12182
 Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 2, 4, 7, 9, 21, 22 straipsnių ir priedo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2287, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12176
+Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo Nr. IX-986 11 straipsnio pakeitimo įstatymas
