@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -112,11 +112,12 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-9. Elektros energiją iš atsinaujinančių energijos išteklių gaminantis vartotojas (toliau – gaminantis vartotojas) – elektros energijos vartotojas, gaminantis elektros energiją iš atsinaujinančių energijos išteklių savo reikmėms ir ūkio poreikiams tenkinti ir turintis teisę pagamintą, bet savo reikmėms ir ūkio poreikiams nesuvartotą elektros energiją patiekti į elektros tinklus Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo nustatyta tvarka.
+9. Elektros energiją iš atsinaujinančių išteklių gaminantis vartotojas (toliau – gaminantis vartotojas) – elektros energijos vartotojas ar kitas asmuo, gaminantys elektros energiją iš atsinaujinančių išteklių elektros energijos gamybos įrenginiuose, valdomuose nuosavybės teise ar kitais teisėtais pagrindais, savo reikmėms ir ūkio poreikiams tenkinti ir turintys teisę pagamintą, bet savo reikmėms ir ūkio poreikiams nesuvartotą elektros energiją patiekti į elektros tinklus Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo nustatyta tvarka. 
 Papildyta straipsnio dalimi:
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 Straipsnio dalies pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-2201, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09724
  
 
 
@@ -4734,6 +4735,14 @@ Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
 6) likusios sąnaudos, kurių neapmoka vartotojas ar gamintojas, yra pripažįstamos skirstomųjų tinklų operatoriaus tinklų plėtros išlaidomis. Skirstomųjų tinklų operatoriaus sąnaudų apskaita tvarkoma ir kontrolė vykdoma šio įstatymo 68 straipsnyje nustatyta tvarka.
 
 
+
+
+
+
+71. Tinklų operatorių sąnaudos, susijusios su gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, elektros įrenginių prijungimu prie elektros tinklų, paskirstomos tarp gaminančio vartotojo ar asmens, siekiančio tapti gaminančiu vartotoju, ir tinklų operatoriaus Atsinaujinančių išteklių energetikos įstatymo nustatyta tvarka ir sąlygomis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2201, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09724
+ 
 
 
 
