@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2020-06-14
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -481,7 +481,11 @@ Nr. XI-777, 2010-04-22, Žin. 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA0
 
 
 
-5) jeigu reikia, teisės aktų, reglamentuojančių valstybės ir savivaldybių turto valdymą, naudojimą ir disponavimą, nustatyta tvarka perduoda savivaldybei priklausančias patalpas socialinių paslaugų įstaigoms panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis; 
+5) neteko galios 2019-10-01;
+TAR pastaba. Iki įstatymo Nr. XIII-2292 įsigaliojimo dienos (2019-10-01) sudarytos terminuotos savivaldybės turto panaudos sutartys galioja iki jų pabaigos dienos. Įsigaliojus šiam įstatymui, savivaldybės turto panaudos davėjai, Lietuvos Respublikos civilinio kodekso nustatyta tvarka įspėję panaudos gavėjus, nutraukia visas neterminuotas savivaldybės turto panaudos sutartis.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2292, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12180
+ 
 
 
 
@@ -2289,3 +2293,8 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 30 straipsnio pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19 ir 31 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2292, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12180
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 13 straipsnio pakeitimo įstatymas
