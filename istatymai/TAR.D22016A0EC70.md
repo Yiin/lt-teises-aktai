@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2017-12-14 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2019-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
  
@@ -3466,12 +3466,18 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
 
 
-3. Valstybei nuosavybės teise priklausančių žuvininkystės kontrolei užtikrinti naudojamų sistemų įranga ir kitos priemonės, vadovaujantis Vyriausybės nustatyta tvarka, gali būti perduodamos panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis ūkio subjektams, jeigu jiems ta įranga ir kitos priemonės reikalingos funkcijoms, susijusioms su žuvininkystės kontrole, atlikti tol, kol jie vykdo panaudos sutartyje nustatytą žuvininkystės veiklą arba kol panaudos sutartis nenutraukiama teisės aktų nustatyta tvarka.
+3. Neteko galios 2019-10-01.
+TAR pastaba. Iki įstatymo Nr. XIII-2291 įsigaliojimo dienos (2019-10-01) sudarytos terminuotos valstybės turto panaudos sutartys galioja iki jų pabaigos dienos. Įsigaliojus šiam įstatymui, valstybės turto panaudos davėjai, Lietuvos Respublikos civilinio kodekso nustatyta tvarka įspėję panaudos gavėjus, nutraukia visas neterminuotas valstybės turto panaudos sutartis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2291, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12179
+ 
 
 
 
 
-4. Sprendimą dėl valstybės turto perdavimo pagal panaudos sutartį šio straipsnio 3 dalyje nurodytiems ūkio subjektams priima ir panaudos sutartį sudaro perduodamo valstybės turto valdytojas.
+4. Neteko galios 2019-10-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2291, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12179
  
 
 
@@ -5049,3 +5055,8 @@ Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 12 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-813, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20007
 Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 31 straipsnio pakeitimo ir Įstatymo papildymo 31-1 straipsniu įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2291, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12179
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 34 straipsnio pakeitimo įstatymas
