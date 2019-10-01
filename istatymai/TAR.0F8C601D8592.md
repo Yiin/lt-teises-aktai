@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0F8C601D8592"
 
 # Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2022-01-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 42-1192, i. k. 1001010ISTAIII-1666
  
@@ -1328,7 +1328,10 @@ Valstybės sienos apsaugos tarnyba automatizuotu būdu kaupia ir tvarko duomenis
 
 
 
-13) vykdo Lietuvos Respublikos branduolinės energijos įstatymo nustatyta tvarka pavestų saugoti objektų fizinę apsaugą;
+13) neteko galios 2019-10-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2155, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09407
+ 
 
 
 
@@ -2001,7 +2004,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
  
 
@@ -2067,3 +2070,8 @@ Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
 Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 26 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2155, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09407
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 23 straipsnio pakeitimo įstatymas
