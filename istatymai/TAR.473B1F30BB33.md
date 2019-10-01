@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/473b1f30bb3311e38766a859941f6073"
 
 # Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2023-08-31
  
 Įstatymas paskelbtas: TAR 2014-04-03, i. k. 2014-04033
  
@@ -69,7 +69,9 @@ Vilnius
 
 
 
-4. Įmonės veiklos tikslai – įstatymų ir kitų teisės aktų nustatyta tvarka įgyvendinti centralizuotą valstybės nekilnojamojo turto valdymą, organizuoti valstybei ir savivaldybėms nuosavybės teise priklausančių akcijų privatizavimą, išieškoti skolas valstybei ir administruoti pagal pavedimo sutartis perduotas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, taip pat atlikti kitas įstatymų nustatytas funkcijas. 
+4. Įmonės veiklos tikslai – įgyvendinti centralizuotą valstybės nekilnojamojo turto valdymą, vykdyti valstybei ir savivaldybėms nuosavybės teise priklausančių akcijų privatizavimą, išieškoti skolas valstybei ir administruoti pagal pavedimo sutartis perduotas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
  
 
 
@@ -116,42 +118,42 @@ Nr. XIII-558, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12061
 2. Įmonė, įgyvendindama centralizuotą valstybės nekilnojamojo turto valdymą:
 
 
-1) valdo, naudoja jai įstatymų nustatyta tvarka Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nutarimu patikėjimo teise perduotą valstybės nekilnojamąjį turtą ir jam priskirtus žemės sklypus ir jais disponuoja;
+1) valdo, naudoja jai Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nustatyta tvarka patikėjimo teise perduotą valstybės nekilnojamąjį turtą ir jam priskirtus valstybinės žemės sklypus ir jais disponuoja;
 
 
 
 
-2) parduoda įstatymų nustatyta tvarka valstybės nekilnojamąjį turtą ir jam priskirtus žemės sklypus ir kitus nekilnojamuosius daiktus pagal Vyriausybės patvirtintą parduodamų valstybės nekilnojamųjų daiktų sąrašą;
+2) parduoda įstatymų nustatyta tvarka valstybės nekilnojamąjį turtą ir jam priskirtus žemės sklypus, ir kitus nekilnojamuosius daiktus;
 
 
 
 
-3) gali sudaryti sutartis su savivaldybėmis dėl joms nuosavybės teise priklausančio nekilnojamojo turto ir jam priskirtų žemės sklypų pardavimo; 
+3) nuomoja patikėjimo teise valdomą administracinės paskirties valstybės nekilnojamąjį turtą;
 
 
 
 
-4) teikia patikėjimo teise perduoto valdyti administracinės paskirties valstybės nekilnojamojo turto valdymo ir priežiūros paslaugas pagal kartu su panaudos sutartimis su turto valdytojais sudarytas valstybės nekilnojamojo turto valdymo ir priežiūros paslaugų sutartis;
+4) teikia išvadas dėl turto valdytojų derinti pateiktų sprendimų, susijusių su jų patikėjimo teise valdomo valstybės nekilnojamojo turto valdymu, naudojimu ir disponavimu juo, projektų; 
 
 
 
 
-5) teikia teisės aktų nustatyta tvarka išvadas dėl turto valdytojų derinti pateiktų sprendimų, susijusių su jų patikėjimo teise valdomo valstybės nekilnojamojo turto valdymu, naudojimu ir disponavimu juo, projektų; 
+5) pagal Vyriausybės įgaliotos institucijos nustatytus administracinės paskirties valstybės nekilnojamojo turto panaudojimo efektyvumo rodiklius vertina šio turto panaudojimo efektyvumą;
 
 
 
 
-6) pagal teisės aktų nustatytus rodiklius ir normatyvus vertina administracinės paskirties valstybės nekilnojamojo turto panaudojimo efektyvumą ir rengia apsirūpinimo administracinės paskirties nekilnojamuoju turtu alternatyvų sąnaudų ir naudos analizės vertinimus;
+6) vadovaudamasi Vyriausybės įgaliotos institucijos nustatytais apsirūpinimo administracinės paskirties nekilnojamuoju turtu, reikalingu valstybinėms funkcijoms atlikti, normatyvais, aprūpina valstybės institucijas ir įstaigas valstybinėms funkcijoms atlikti reikalingu ir jų poreikius atitinkančiu administracinės paskirties nekilnojamuoju turtu ir (jeigu reikia) kitos paskirties valstybės nekilnojamuoju turtu, reikalingu valdymo ir naudojimo tikslams ir turtą naudojančių asmenų poreikiams tenkinti; 
 
 
 
 
-7) įsigyja naują administracinės paskirties valstybės nekilnojamąjį turtą (pirkdama, statydama), organizuoja ir koordinuoja valstybės nekilnojamojo turto atnaujinimą įstatymų nustatyta tvarka;
+7) įgyvendina centralizuotai valdomo administracinės paskirties valstybės nekilnojamojo turto atnaujinimo ir energijos vartojimo efektyvumo didinimo projektus;
 
 
 
 
-8) atstovauja valstybei bylose dėl nekilnojamojo turto įgijimo pagal įgyjamąją senatį fakto nustatymo; 
+8) Vyriausybės nustatyta tvarka atstovauja valstybei bylose dėl nekilnojamojo turto valdymo nuosavybės teise fakto nustatymo ir kitose bylose dėl valstybės nekilnojamojo turto nuosavybės teisių gynimo, kai šis turtas nėra perduotas kitai valstybės institucijai ar įstaigai; 
 
 
 
@@ -164,6 +166,9 @@ Nr. XIII-558, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12061
 10) atlieka kitas įstatymų nustatytas funkcijas, susijusias su centralizuotu valstybės nekilnojamojo turto valdymu. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
+ 
 
 
 
@@ -249,7 +254,10 @@ Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
 6. Įmonė, administruodama bešeimininkį, konfiskuotą, valstybės paveldėtą, valstybei perduotą nekilnojamąjį turtą ir akcinių bendrovių ir uždarųjų akcinių bendrovių akcijas:
 
 
-1) perima, įvertina ir tvarko konfiskuoto, valstybės paveldėto, valstybei perduoto nekilnojamojo turto, akcinių bendrovių ir uždarųjų akcinių bendrovių akcijų apskaitą;
+1) perima, įvertina konfiskuotą, valstybės paveldimą ir paveldėtą, valstybei perduotą nekilnojamąjį turtą, akcinių bendrovių ir uždarųjų akcinių bendrovių akcijas ir tvarko šio turto ir akcijų apskaitą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
+ 
 
 
 
@@ -294,177 +302,21 @@ Nr. XII-1591, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04841
 
 
 
-5 straipsnis. Įmonės valdymas
-
-
-1. Įmonės organai yra savininko teises ir pareigas įgyvendinanti institucija, valdyba ir įmonės vadovas. 
-
-
-
-
-2. Savininko teises ir pareigas įgyvendinanti institucija:
-
-
-1) tvirtina įmonės veiklos strategiją, nustato įmonės veiklos rodiklius;
-
-
-
-
-2) tvirtina įmonės įstatus;
-
-
-
-
-3) tvirtina įmonės pajamų ir išlaidų sąmatą;
-
-
-
-
-4) tvirtina ataskaitinių finansinių metų veiklos ataskaitą;
-
-
-
-
-5) skiria į pareigas ir atšaukia iš pareigų įmonės vadovą bei įmonės vardu pasirašo su įmonės vadovu darbo sutartį;
-
-
-
-
-6) tvirtina įmonės vadovo pareigybės aprašymą;
-
-
-
-
-7) skiria ir atšaukia valdybos pirmininką ir valdybos narius; 
-
-
-
-
-8) tvirtina įmonės metinių finansinių ataskaitų rinkinius, kurių sudėtį nustato Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymas (toliau – Įmonių finansinės atskaitomybės įstatymas), pelno (nuostolių) paskirstymą;
-
-
-
-
-9) parenka atestuotą auditorių ar audito įmonę finansinių ataskaitų auditui atlikti;
-
-
-
-
-10) nustato ir tvirtina įmonės teikiamų paslaugų kainas ir tarifus, išskyrus atvejus, kai juos įstatymų ar kitų teisės aktų nustatyta tvarka nustato Vyriausybė arba kita įstatymų nustatyta institucija; 
-
-
-
-
-11) sprendžia kitus įstatymuose jos kompetencijai priskirtus klausimus.
-
-
-
-
-
-
-3. Valdyba: 
-
-
-1) pritaria įmonės pajamų ir išlaidų sąmatai, įmonės veiklos strategijai, įmonės ataskaitinių finansinių metų veiklos ataskaitos ir metinio finansinių ataskaitų rinkinio, pelno (nuostolių) paskirstymo projektams ir teikia juos savininko teises ir pareigas įgyvendinančiai institucijai;
-
-
-
-
-2) nustato įmonės struktūrą;
-
-
-
-
-3) teikia siūlymus savininko teises ir pareigas įgyvendinančiai institucijai dėl įmonės teikiamų paslaugų kainų ir tarifų nustatymo, išskyrus atvejus, kai juos įstatymų ar kitų teisės aktų nustatyta tvarka nustato Vyriausybė arba kita įstatymų nustatyta institucija;
-
-
-
-
-4) užtikrina efektyvų įmonės turto ir lėšų panaudojimą;
-
-
-
-
-5) tvirtina įmonės metinius turto įsigijimo ir skolinimosi planus; 
-
-
-
-
-6) priima sprendimą įkeisti įstatymų nustatytą turtą;
-
-
-
-
-7) pritaria įmonės pasirašomų taikos sutarčių projektams;
-
-
-
-
-8) priima sprendimą dėl lėšų, siekiančių 1/20 ir daugiau savininko kapitalo, skolinimosi;
-
-
-
-
-9) priima sprendimą parduoti įmonės ilgalaikį materialųjį turtą, kurio balansinė vertė siekia 1/20 ir daugiau savininko kapitalo;
-
-
-
-
-10) priima sprendimą dėl sandorių, kurių vertė siekia 1/20 ir daugiau savininko kapitalo;
-
-
-
-
-11) atlieka kitas įstatymuose nustatytas funkcijas.
-
-
-
-
-
-
-4. Neteko galios nuo 2017-07-01
-Straipsnio dalies naikinimas:
-Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
+5 straipsnis. Neteko galios nuo 2019-10-01
+Straipsnio naikinimas:
+Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
  
 
 
 
 
-5. Įmonės vadovas:
-
-
-1) priima sprendimus dėl lėšų, mažesnių kaip 1/20 savininko kapitalo, skolinimosi;
-
-
-
-
-2) teikia valdybai informaciją apie įmonės veiklos prognozes ir planus, nurodydamas reikiamų ateinančiais finansiniais metais investicijų sumas, taip pat įvykius, turinčius esminę reikšmę įmonės veiklai;
-
-
-
-
-3) sudaro įmonės sandorius, kurių vertė mažesnė kaip 1/20 savininko kapitalo, išskyrus atvejus, kai sandoriui sudaryti reikia įmonės valdybos, savininko teises ir pareigas įgyvendinančios institucijos ar Vyriausybės pritarimo;
-
-
-
-
-4) atlieka kitas įstatymuose, kituose teisės aktuose ir įmonės įstatuose nustatytas įmonės vadovo kompetencijai priskirtas funkcijas.
- 
-
-
-
-
-
-
-
-
-6 straipsnis. Įmonės lėšos ir jų naudojimas
+6 straipsnis. Įmonės lėšos ir jų panaudojimas
 
 
 1. Įmonės lėšos yra:
 
 
-1) atlygis už valstybei nuosavybės teise priklausančių akcijų privatizavimą, skolų valstybei išieškojimą, valstybės nekilnojamojo turto atnaujinimo organizavimą ir koordinavimą, valstybės nekilnojamojo turto ir jam priskirtų valstybinės žemės sklypų bei kitų nekilnojamųjų daiktų pardavimą, atlygis už administracinės paskirties valstybės nekilnojamojo turto valdymo ir priežiūros paslaugas, apskaičiuotas Vyriausybės nustatyta tvarka atskirai kiekvienai šioje dalyje nurodytai veiklai;
+1) atlygis už: valstybei nuosavybės teise priklausančių akcijų privatizavimą, skolų valstybei išieškojimą, valstybės nekilnojamojo turto ir jam priskirtų valstybinės žemės sklypų bei kitų nekilnojamųjų daiktų, įtrauktų į Vyriausybės patvirtintą viešame aukcione parduodamo valstybės nekilnojamojo turto ir kitų nekilnojamųjų daiktų sąrašą, pardavimą, bešeimininkio, konfiskuoto, valstybės paveldėto, valstybei perduoto nekilnojamojo turto ir akcinių bendrovių ir uždarųjų akcinių bendrovių akcijų administravimą, pardavimą ir (arba) privatizavimą, apskaičiuotas Vyriausybės nustatyta tvarka atskirai kiekvienai šioje dalyje nurodytai veiklai;
 
 
 
@@ -479,12 +331,12 @@ Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
 
 
 
-4) valstybės biudžeto ir išteklių fondų lėšos, kurios įstatymų nustatyta tvarka gali būti skiriamos programoms vykdyti;
+4) valstybės biudžeto lėšos, gautos iš valstybės biudžeto asignavimų valdytojų programoms vykdyti;
 
 
 
 
-5) lėšos, gautos už įstatymų nustatyta tvarka parduotą valstybės nekilnojamąjį turtą ir jam priskirtą žemės sklypą bei kitus nekilnojamuosius daiktus;
+5) lėšos, gautos už parduotą turtą, įgyvendinant centralizuotai valdomo administracinės paskirties valstybės nekilnojamojo turto atnaujinimo projektus;
 
 
 
@@ -494,17 +346,12 @@ Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
 
 
 
-7) lėšos, gautos išieškant valstybei skolas ir administruojant pagal sutartis perduotas paskolas ir kitus turtinius įsipareigojimus;
+7) lėšos, gautos už parduotą savininko kapitalą atitinkantį turtą; 
 
 
 
 
-8) lėšos už savininko kapitalą atitinkantį parduotą turtą;
-
-
-
-
-9) kitos lėšos.
+8) kitos lėšos.
 
 
 
@@ -529,12 +376,14 @@ Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
 
 
 
-4) pagal patvirtintas Vyriausybės programas valstybės turtui įsigyti ir (ar) atnaujinti.
+4) centralizuotai valdomo administracinės paskirties valstybės nekilnojamojo turto atnaujinimo ir energijos vartojimo efektyvumo didinimo projektams įgyvendinti. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
  
-
-
-
-
 
 
 
@@ -581,7 +430,10 @@ Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
 
 
 
-3) turtą, kuris yra naudojamas valstybės institucijų ir įstaigų funkcijoms atlikti ir kuris yra perduotas įmonei valdyti, naudoti ir disponuoti juo patikėjimo teise, atitinkantis kapitalas; 
+3) turtą, kuris yra perduotas įmonei centralizuotai valdyti, naudoti ir disponuoti juo patikėjimo teise, atitinkantis kapitalas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
+ 
 
 
 
@@ -608,7 +460,9 @@ Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
 
 
 
-2. Savininko kapitalą sudaro įmonės savininko perduoto turto, jeigu tai nėra turtas, kuris pagal įstatymus gali būti tik valstybės nuosavybė ar dotacija, vertė.
+2. Neteko galios nuo 2019-10-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
  
 
 
@@ -629,12 +483,17 @@ Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
 
 
 
-3. Nuosavo kapitalo dalį atitinkantis turtas, kuris yra naudojamas valstybės institucijų ir įstaigų funkcijoms atlikti ir perduotas įmonei valdyti, naudoti ir disponuoti juo patikėjimo teise, nurodomas įmonės balanse.
+3. Nuosavo kapitalo dalį atitinkantis turtas, kuris yra perduotas įmonei centralizuotai valdyti, naudoti ir disponuoti juo patikėjimo teise, nurodomas įmonės balanse. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
+ 
 
 
 
 
-4. Turtas, kurį įmonė valdo patikėjimo teise ir kuris yra skirtas parduoti ir (ar) privatizuoti, nurodomas įmonės balansinėse atsargų ir įsipareigojimų sąskaitose.
+4. Turtas, kurį įmonė valdo patikėjimo teise ir kuris yra skirtas parduoti, išskyrus centralizuotai valdomą valstybės nekilnojamąjį turtą, skirtą parduoti įgyvendinant centralizuotai valdomo administracinės paskirties valstybės nekilnojamojo turto atnaujinimo projektus, ir (ar) privatizuoti, nurodomas įmonės balansinėse atsargų ir įsipareigojimų sąskaitose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
  
 
 
@@ -704,7 +563,7 @@ Nr. XIII-295, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06973
 
 
 
-2. Pripažinti netekusiu galios Lietuvos Respublikos Valstybės turto fondo įstatymą Nr. VIII-482 su visais pakeitimais ir papildymais.
+2. Pripažinti netekusiu galios Lietuvos Respublikos Valstybės turto fondo įstatymą  Nr. VIII-482 su visais pakeitimais ir papildymais.
  
 
 
@@ -716,7 +575,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                             Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
 
 
  
@@ -737,3 +596,8 @@ Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-558, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12061
 Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymo Nr. XII-791 4 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2282, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12172
+Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymo Nr. XII-791 3, 4, 6, 8, 9 straipsnių pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas
