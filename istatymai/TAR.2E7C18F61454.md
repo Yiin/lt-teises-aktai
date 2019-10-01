@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-09-30
+Suvestinė redakcija nuo 2019-10-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
+ 
+TAR pastaba. Įstatymas Nr. XIII-2285 taikomas ir vykdomosioms byloms, pradėtoms iki šio įstatymo įsigaliojimo (2019-10-01).
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
+Lietuvos Respublikos civilinio proceso kodekso 626, 628, 629, 668 ir 691 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS
 CIVILINIO PROCESO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR ĮGYVENDINIMO 
@@ -19474,6 +19479,14 @@ Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 3. Kai turtas areštuotas ar nuosavybės teisės į turtą laikinai apribotos tos pačios ar paskesnės eilės kreditorių reikalavimams užtikrinti, išieškojimas iš šio turto nestabdomas. Šiuo atveju išieškojimas iš areštuoto turto ar lėšų vykdomas Sprendimų vykdymo instrukcijoje nustatyta tvarka.
 
 
+
+
+4. Jeigu mirusio skolininko turtą paveldi valstybė, išskyrus atvejus, kai vykdomas išieškojimas iš įkeisto turto, sustabdydamas vykdomąją bylą, antstolis privalo panaikinti skolininko turto areštą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
  
@@ -19547,6 +19560,13 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 3. Sustabdžius vykdomąją bylą šio Kodekso 626 ir 627 straipsniuose numatytais pagrindais, antstolis gali imtis tik priemonių skolininko turtui surasti bei areštuoti.
+
+
+
+
+4. Vykdomoji byla, kurioje mirusio skolininko turtą paveldi valstybė, išskyrus atvejus, kai vykdomas išieškojimas iš įkeisto turto, sustabdoma tol, kol valstybės institucija Vyriausybės nustatyta tvarka realizuos valstybės paveldėtą skolininko turtą ir apmokės antstoliui vykdymo išlaidas, apskaičiuotas iki vykdomosios bylos sustabdymo dėl to, kad mirusio skolininko turtą paveldi valstybė. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
  
 
 
@@ -19610,9 +19630,17 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 
-11) jeigu vykdomojoje byloje, kurioje išieškomos bylinėjimosi išlaidos į valstybės biudžetą, neišieškoma dėl to, kad skolininkas neturi turto ar pajamų, iš kurių gali būti išieškoma, ir likusi išieškoti bylinėjimosi išlaidų suma yra mažesnė negu šio Kodekso 96 straipsnio 6 dalyje nustatyta suma. 
+11) jeigu vykdomojoje byloje, kurioje išieškomos bylinėjimosi išlaidos į valstybės biudžetą, neišieškoma dėl to, kad skolininkas neturi turto ar pajamų, iš kurių gali būti išieškoma, ir likusi išieškoti bylinėjimosi išlaidų suma yra mažesnė negu šio Kodekso 96 straipsnio 6 dalyje nustatyta suma; 
 Papildyta straipsnio punktu:
 Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
+ 
+
+
+
+
+12) jeigu valstybės institucija atliko šio Kodekso 628 straipsnio 4 dalyje nurodytus veiksmus. 
+Papildyta straipsnio punktu:
+Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
  
 
 
@@ -20874,9 +20902,10 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 
 
-2. Vykdant išieškojimą iš valstybės, savivaldybės ar biudžetinių įstaigų, išieškojimas gali būti nukreipiamas tik į joms priklausančias pinigines lėšas. Vykdant išieškojimą iš valstybės ar biudžetinių įstaigų, išieškojimas negali būti nukreipiamas į valstybės iždo bendrąją sąskaitą Lietuvos Respublikos valstybės iždo įstatyme nustatytais atvejais. 
+2. Vykdant išieškojimą iš valstybės, savivaldybės ar biudžetinių įstaigų, išieškojimas gali būti nukreipiamas tik į joms priklausančias pinigines lėšas, išskyrus atvejus, kai vykdomas išieškojimas iš įkeisto turto ir mirusio skolininko turtą paveldi valstybė. Vykdant išieškojimą iš valstybės ar biudžetinių įstaigų, išieškojimas negali būti nukreipiamas į valstybės iždo bendrąją sąskaitą Lietuvos Respublikos valstybės iždo įstatyme nustatytais atvejais. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
  
 
 
@@ -21479,9 +21508,10 @@ TURTO REALIZAVIMO TVARKA
 
 
 
-2. Areštuotą turtą, atsižvelgiant į arešto pagrindus ir turto rūšis, įstatymų nustatyta tvarka realizuoja antstolis, Valstybinė mokesčių inspekcija, vertybinių popierių viešosios apyvartos tarpininkai ir prekybos įmonės. 
+2. Areštuotas turtas, atsižvelgiant į arešto pagrindus ir turto rūšis, realizuojamas šiame Kodekse, Vyriausybės ir Sprendimų vykdymo instrukcijoje nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
+Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
  
 
 
@@ -25238,3 +25268,8 @@ Lietuvos Respublikos civilinio proceso kodekso 702, 704, 713, 715, 716, 717, 720
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2329, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12370
 Lietuvos Respublikos civilinio proceso kodekso 366 ir 367 straipsnių pakeitimo įstatymas
+ 
+43.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
+Lietuvos Respublikos civilinio proceso kodekso 626, 628, 629, 668 ir 691 straipsnių pakeitimo įstatymas
