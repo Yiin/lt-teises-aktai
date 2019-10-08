@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-10-07
+Suvestinė redakcija nuo 2019-10-08 iki 2019-12-20
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -323,7 +323,10 @@ Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
 
 1. Apylinkės rinkimų komisija:
 
-1) iš savivaldybės rinkimų komisijos gauna rinkimų apylinkės rinkėjų sąrašus, sudaro sąlygas su jais susipažinti rinkėjams, atstovams rinkimams, įteikia ar kitaip perduoda rinkėjams rinkėjo korteles, sudaro rinkėjų, kurie balsuos namuose, sąrašą, praneša savivaldybės rinkimų komisijai apie rinkimų apylinkės rinkėjų sąraše aptiktus netikslumus, asmenis, atsisakiusius deklaruoti, nedeklaravusius, ar jie atitinka šio įstatymo 2 straipsnio reikalavimus, ir Vyriausiosios rinkimų komisijos nustatyta tvarka elektroninių ryšių priemonėmis perduoda šiuos duomenis;
+1) iš savivaldybės rinkimų komisijos gauna rinkimų apylinkės rinkėjų sąrašus, sudaro sąlygas su jais susipažinti rinkėjams, atstovams rinkimams, platina rinkėjams pranešimus apie rinkimus, sudaro rinkėjų, kurie balsuos namuose, sąrašą, praneša savivaldybės rinkimų komisijai apie rinkimų apylinkės rinkėjų sąraše aptiktus netikslumus, asmenis, atsisakiusius deklaruoti, nedeklaravusius, ar jie atitinka šio įstatymo 2 straipsnio reikalavimus, ir Vyriausiosios rinkimų komisijos nustatyta tvarka elektroninių ryšių priemonėmis perduoda šiuos duomenis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
+ 
 
 2) nagrinėja skundus dėl rinkimų apylinkės rinkėjų sąraše padarytų klaidų;
 
@@ -464,7 +467,9 @@ Nr. XIII-1778, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21114
  
 
 KETVIRTASIS SKIRSNIS
-RINKĖJŲ SĄRAŠAI IR RINKĖJO KORTELĖS
+RINKĖJŲ SĄRAŠAI IR PRANEŠIMAI APIE RINKIMUS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
  
 
 23 straipsnis. Rinkėjų sąrašai
@@ -481,13 +486,17 @@ RINKĖJŲ SĄRAŠAI IR RINKĖJO KORTELĖS
 
 3. Rinkėjų sąrašų sudarymo tvarka turi būti tokia, kad kiekvienas rinkimų teisę turintis asmuo būtų įrašytas į rinkėjų sąrašus. Niekas negali būti įrašytas į rinkėjų sąrašą kelis kartus.
 
-4. Lietuvos Respublikos rinkėjų sąrašą ir savivaldybių rinkėjų sąrašus elektroninių ryšių priemonėmis sudaro ir tvarko Vyriausioji rinkimų komisija kartu su Lietuvos Respublikos gyventojų registro tvarkytoju. Rinkimų apylinkių rinkėjų sąrašai yra saugomi elektroninėje informacijos laikmenoje ir spausdinami kaip išankstinis rinkimų apylinkės rinkėjų sąrašas, kuris naudojamas rinkėjo kortelėms įteikti ir rinkėjams susipažinti. Rinkėjų sąrašų sudarymo tvarką, formą, sudarymo būdą ir jų naudojimo tvarką nustato Vyriausioji rinkimų komisija. Atspausdintas rinkimų apylinkės galutinis rinkėjų sąrašas naudojamas balsuoti rinkimų dieną. Kartu su rinkimų apylinkės galutiniu rinkėjų sąrašu spausdinami jo priedai, kuriuose nurodomi šiame rinkėjų sąraše padaryti pakeitimai. Sudarant rinkėjų sąrašus, naudojami šie asmens duomenys:
+4. Lietuvos Respublikos rinkėjų sąrašą ir savivaldybių rinkėjų sąrašus elektroninių ryšių priemonėmis sudaro ir tvarko Vyriausioji rinkimų komisija kartu su Lietuvos Respublikos gyventojų registro tvarkytoju. Rinkimų apylinkių rinkėjų sąrašai yra saugomi elektroninėje informacijos laikmenoje ir spausdinami kaip išankstinis rinkimų apylinkės rinkėjų sąrašas, kuris naudojamas pranešimams apie rinkimus platinti ir rinkėjams susipažinti. Rinkėjų sąrašų sudarymo tvarką, formą, sudarymo būdą ir jų naudojimo tvarką nustato Vyriausioji rinkimų komisija. Atspausdintas rinkimų apylinkės galutinis rinkėjų sąrašas naudojamas balsuoti rinkimų dieną. Kartu su rinkimų apylinkės galutiniu rinkėjų sąrašu spausdinami jo priedai, kuriuose nurodomi šiame rinkėjų sąraše padaryti pakeitimai. Sudarant rinkėjų sąrašus, naudojami šie asmens duomenys:
 
-1) Lietuvos Respublikos rinkėjų sąraše: vardas, pavardė, asmens kodas, gimimo data, pilietybę patvirtinančio asmens dokumento numeris, gyvenamosios vietos adresas ir adreso įrašymo į Lietuvos Respublikos gyventojų registrą pagrindas;
+ 1) Lietuvos Respublikos rinkėjų sąraše: vardas, pavardė, asmens kodas, gimimo data, pilietybę patvirtinančio asmens dokumento numeris, gyvenamosios vietos adresas ir adreso įrašymo į Lietuvos Respublikos gyventojų registrą pagrindas;
 
 2) savivaldybės rinkėjų sąraše: vardas, pavardė, asmens kodas, gimimo data, deklaruotos gyvenamosios vietos adresas;
 
-3) rinkimų apylinkės rinkėjų sąraše: vardas, pavardė ir gyvenamosios vietos adresas. Rinkėjo, kuris yra pareiškęs nesutikimą, kad jo gyvenamosios vietos adresas būtų skelbiamas rinkimų apylinkės rinkėjų sąraše, gyvenamosios vietos adresas nurodomas tik rinkimų apylinkės rinkėjų sąrašo priede ir rinkėjo kortelėje.
+3) rinkimų apylinkės rinkėjų sąraše: vardas, pavardė ir gyvenamosios vietos adresas. Rinkėjo, kuris yra pareiškęs nesutikimą, kad jo gyvenamosios vietos adresas būtų skelbiamas rinkimų apylinkės rinkėjų sąraše, gyvenamosios vietos adresas nurodomas tik rinkimų apylinkės rinkėjų sąrašo priede. 
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
+ 
 
 5. Kiekvienas rinkėjas turi teisę nesutikti, kad jo gyvenamosios vietos adresas būtų viešai skelbiamas rinkimų apylinkės rinkėjų sąraše. Vyriausioji rinkimų komisija kartu su Lietuvos Respublikos gyventojų registro tvarkytoju sudaro sąlygas rinkėjui įgyvendinti savo teisę nesutikti, kad jo gyvenamosios vietos adresas būtų skelbiamas rinkimų apylinkės rinkėjų sąraše. 
  
@@ -526,44 +535,40 @@ Rinkimų apylinkės rinkėjų sąrašą pagal savivaldybės rinkėjų sąrašą 
 
 27 straipsnis. Rinkėjų sąrašų paskelbimas ir susipažinimas su rinkėjų sąrašais
 
-1. Likus ne mažiau kaip 25 dienoms iki rinkimų, apylinkės rinkimų komisija sudaro sąlygas rinkėjams susipažinti su rinkimų apylinkės rinkėjų sąrašu. Rinkimų apylinkės rinkėjų sąrašo priedo duomenys teikiami rinkėjams tik apie juos pačius. Draudžiama daryti rinkimų apylinkės rinkėjų sąrašų kopijas ar kitu būdu dauginti ar platinti šiuos sąrašus. Prie įėjimo į apylinkės rinkimų komisijos būstinę turi būti nurodytas komisijos narių budėjimo laikas ir paskelbti telefonų numeriai, kuriais rinkėjai gali pasitikslinti, ar jie yra įrašyti į rinkėjų sąrašą. Pasibaigus šiame įstatyme nustatytam laikotarpiui įteikti rinkėjo korteles, apylinkės rinkimų komisijos budėjimo laikas, jos telefonai ir rinkimų apylinkė, į kurios rinkėjų sąrašą įrašyti šio namo gyventojai, taip pat turi būti paskelbti daugiabučių namų laiptinėse.
+1. Likus ne mažiau kaip 25 dienoms iki rinkimų, apylinkės rinkimų komisija sudaro sąlygas rinkėjams susipažinti su rinkimų apylinkės rinkėjų sąrašu. Rinkimų apylinkės rinkėjų sąrašo priedo duomenys teikiami rinkėjams tik apie juos pačius. Draudžiama daryti rinkimų apylinkės rinkėjų sąrašų kopijas ar kitu būdu dauginti ar platinti šiuos sąrašus. Prie įėjimo į apylinkės rinkimų komisijos būstinę turi būti nurodytas komisijos narių budėjimo laikas ir paskelbti telefonų numeriai, kuriais rinkėjai gali pasitikslinti, ar jie yra įrašyti į rinkėjų sąrašą. Pasibaigus šiame įstatyme nustatytam laikotarpiui platinti pranešimus apie rinkimus, apylinkės rinkimų komisijos budėjimo laikas, jos telefonai ir rinkimų apylinkė, į kurios rinkėjų sąrašą įrašyti šio namo gyventojai, taip pat turi būti paskelbti daugiabučių namų laiptinėse. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
+ 
 
 2. Lietuvos Respublikos rinkėjų sąrašas ir savivaldybių rinkėjų sąrašai viešai neskelbiami, tačiau rinkėjui duomenys apie jo įrašymą į rinkėjų sąrašus gali būti teikiami ir telefonu.
  
 
-28 straipsnis. Rinkėjo kortelė
+28 straipsnis. Pranešimas apie rinkimus
 
-1. Rinkėjo kortelė yra informacinė pažyma rinkėjui apie rinkimus, vardinis pakvietimas dalyvauti rinkimuose. Rinkėjo korteles kartu su kita informacija apie rinkimus rinkėjams perduoda ar jų perdavimą organizuoja rinkimų komisijos. Savo rinkėjo kortelę gali išsispausdinti ar surašyti ir pats rinkėjas arba jo prašymu kitas asmuo pagal Lietuvos Respublikos rinkėjų sąrašo duomenis, gautus Vyriausiosios rinkimų komisijos nustatyta tvarka elektroninių ryšių priemonėmis (internetu ar mobiliojo ryšio tekstine žinute). Šiuo atveju rinkėjo kortelę pasirašo pats rinkėjas, išskyrus atvejus, kai dėl neįgalumo ar kitokių priežasčių rinkėjas pats pasirašyti negali ir rinkėjo kortelę pasirašo kitas rinkėjo pasirinktas asmuo, nurodydamas savo vardą, pavardę ir asmens kodą. Rinkėjo kortelių blankus, kuriuos rinkėjas gali užpildyti pats, platina rinkimų komisijos. Rinkėjo kortelė būtina tik tais atvejais, kai rinkėjas balsuoja ne rinkimų dieną ne rinkimų apylinkėje. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1778, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21114
+1. Pranešimas apie rinkimus yra informacinis pakvietimas dalyvauti rinkimuose. Pranešimų apie rinkimus kartu su kita informacija apie rinkimus platinimą rinkėjams organizuoja rinkimų komisijos. Su informacija apie rinkimus gali susipažinti ir pats rinkėjas arba jo prašymu kitas asmuo pagal Lietuvos Respublikos rinkėjų sąrašo duomenis, gautus Vyriausiosios rinkimų komisijos nustatyta tvarka elektroninių ryšių priemonėmis (internetu ar mobiliojo ryšio tekstine žinute). 
+
+2. Pranešime apie rinkimus nurodoma:
+
+1) rinkimų apylinkės, į kurios rinkėjų sąrašą įrašytas rinkėjas, pavadinimas, numeris ir balsavimo patalpos adresas;
+
+2) rinkimų data, balsavimo rinkimų apylinkės balsavimo patalpoje laikas, kvietimas dalyvauti rinkimuose, kita rinkėjui ar organizuojant rinkimus svarbi informacija. 
+
+Straipsnio pakeitimai:
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
  
 
-2. Rinkėjo kortelėje nurodoma:
+29 straipsnis. Pranešimų apie rinkimus platinimas
 
-1) rinkėjo vardas ir pavardė;
+1. Pranešimų apie rinkimus platinimą rinkėjams organizuoja apylinkės rinkimų komisija.
 
-2) rinkėjo gyvenamosios vietos adresas;
+2. Pranešimų apie rinkimus platinimo rinkėjams, esantiems sveikatos priežiūros (išskyrus ambulatorines), socialinės rūpybos ir globos įstaigose, kariniuose vienetuose, areštinėse, tardymo izoliatoriuose (sulaikymo namuose), atliekantiems bausmę bausmių vykdymo įstaigose, tvarka nustatyta šio įstatymo 66, 67 ir 68 straipsniuose.
 
-3) rinkimų apylinkės, į kurios rinkėjų sąrašą įrašytas rinkėjas, pavadinimas, numeris ir balsavimo patalpos adresas;
+3. Pranešimų apie rinkimus platinimas rinkėjams turi būti baigtas ne vėliau kaip likus 8 dienoms iki rinkimų.
 
-4) rinkėjo eilės numeris rinkimų apylinkės rinkėjų sąraše;
+4. Jeigu rinkėjas neįrašytas į rinkimų apylinkės rinkėjų sąrašą, bet rinkėjo gyvenamosios vietos adresas pagal Lietuvos Respublikos gyventojų registro duomenis yra priskirtas šiai rinkimų apylinkės teritorijai (ir jis savo gyvenamąją vietą šiuo adresu yra deklaravęs likus ne mažiau kaip 90 dienų iki rinkimų dienos), arba rinkėjas likus ne mažiau kaip 90 dienų iki rinkimų dienos yra įtrauktas į gyvenamosios vietos nedeklaravusių asmenų apskaitą atitinkamoje savivaldybėje, apylinkės rinkimų komisija pateikia rinkėjui užpildyti Vyriausiosios rinkimų komisijos nustatytos formos prašymą įrašyti rinkėją į šios rinkimų apylinkės rinkėjų sąrašą (arba šį prašymą užpildo pats apylinkės rinkimų komisijos narys, šį prašymą rinkėjas taip pat gali teikti elektroniniu būdu Vyriausiosios rinkimų komisijos nustatyta tvarka) ir apie tai nedelsdama praneša savivaldybės rinkimų komisijai, kuri turi pasirūpinti, kad pagal šį prašymą rinkėjas būtų įrašytas į tos rinkimų apylinkės rinkėjų sąrašą. Pranešimas apie rinkimus išplatinamas rinkėjui po to, kai yra patikslinti rinkėjų sąrašai. 
 
-5) rinkimų data, balsavimo rinkimų apylinkės balsavimo patalpoje laikas, kvietimas dalyvauti rinkimuose, kita rinkėjui ar organizuojant rinkimus svarbi informacija.
-
-3. Jeigu rinkėjas prašo išduoti rinkėjo kortelę vietoj prarastos ar negautos rinkėjo kortelės, rinkėjo kortelė turi būti išduodama nedelsiant, kai tik nustatomi rinkėjo duomenys, kurie turi būti įrašyti į kortelę.
- 
-
-29 straipsnis. Rinkėjo kortelių įteikimas
-
-1. Rinkėjo kortelių įteikimą rinkėjams organizuoja apylinkės rinkimų komisija.
-
-2. Rinkėjo kortelių įteikimo rinkėjams, esantiems sveikatos priežiūros (išskyrus ambulatorines), socialinės rūpybos ir globos įstaigose, kariniuose vienetuose, areštinėse, tardymo izoliatoriuose (sulaikymo namuose), atliekantiems bausmę bausmių vykdymo įstaigose, tvarka nustatyta šio įstatymo 66, 67 ir 68 straipsniuose.
-
-3. Kad rinkėjo kortelė įteikta rinkėjui, pažymima rinkimų apylinkės išankstiniame rinkėjų sąraše. Rinkėjui, kuris turi teisę balsuoti namuose, rinkėjo kortelė įteikiama asmeniškai arba kitam kartu su rinkėju gyvenančiam asmeniui. Jeigu rinkėjo kortelės negalima įteikti, nes tuo metu rinkėjo ar kartu su juo gyvenančio asmens nėra namuose, nevardinis kvietimas atvykti balsuoti gali būti įdėtas į pašto dėžutę arba perduotas rinkėjo kaimynui, kuris pažįsta rinkėją ir įsipareigoja jam perduoti. Rinkėjo kortelių įteikimas rinkėjams turi būti baigtas ne vėliau kaip likus 8 dienoms iki rinkimų.
-
-4. Rinkėjas, kuris laiku negavo rinkėjo kortelės arba kuriam buvo išduota rinkėjo kortelė su netikslumais, privalo nedelsdamas apie tai pranešti apylinkės rinkimų komisijai, kurios aptarnaujamoje teritorijoje gyvena, ir šiai rinkimų komisijai pateikti savo pasą arba kitą asmens tapatybę patvirtinantį dokumentą. Jeigu rinkėjas yra įrašytas į šios rinkimų apylinkės rinkėjų sąrašą, apylinkės rinkimų komisija turi rinkėjui išrašyti naują rinkėjo kortelę ir nedelsdama ją išduoti. Jeigu rinkėjas neįrašytas į šios rinkimų apylinkės rinkėjų sąrašą, bet rinkėjo gyvenamosios vietos adresas pagal Lietuvos Respublikos gyventojų registro duomenis yra priskirtas šiai rinkimų apylinkės teritorijai (ir jis savo gyvenamąją vietą šiuo adresu yra deklaravęs likus ne mažiau kaip 90 dienų iki rinkimų dienos), arba rinkėjas likus ne mažiau kaip 90 dienų iki rinkimų dienos yra įtrauktas į gyvenamosios vietos neturinčių asmenų apskaitą atitinkamoje savivaldybėje, apylinkės rinkimų komisija pateikia rinkėjui užpildyti Vyriausiosios rinkimų komisijos nustatytos formos prašymą įrašyti rinkėją į šios rinkimų apylinkės rinkėjų sąrašą (arba šį prašymą užpildo pats apylinkės rinkimų komisijos narys, šį prašymą rinkėjas taip pat gali teikti elektroniniu būdu Vyriausiosios rinkimų komisijos nustatyta tvarka) ir apie tai nedelsdama praneša savivaldybės rinkimų komisijai, kuri turi pasirūpinti, kad pagal šį prašymą rinkėjas būtų įrašytas į tos rinkimų apylinkės rinkėjų sąrašą. Rinkėjo kortelė išrašoma ir įteikiama rinkėjui po to, kai yra patikslinti rinkėjų sąrašai.
-Straipsnio dalies pakeitimai:
-Nr. XII-1976, 2015-10-20, paskelbta TAR 2015-10-28, i. k. 2015-17032
+Straipsnio pakeitimai:
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
  
 
 30 straipsnis. Rinkėjų sąrašų tikslinimas iki galutinių sąrašų sudarymo
@@ -1106,10 +1111,11 @@ PARENGTINĖ RINKIMŲ ORGANIZAVIMO VEIKLA
 
 54 straipsnis. Rinkimų dokumentų pavyzdžių nustatymas
 
-Rinkėjo kortelių, kandidato į savivaldybės tarybos narius anketos, atstovo rinkimams ir rinkimų stebėtojo pažymėjimų, kandidatų sąrašų, kandidatų plakatų su duomenimis apie kandidatą (kandidatus), rinkimų biuletenių (taip pat balsavimo iš anksto biuletenių), vidinių ir išorinių balsavimo vokų, blankų, kitų dokumentų ir antspaudų, naudojamų rinkimuose, pavyzdžius ir formas, taip pat jų pildymo pavyzdžius nustato Vyriausioji rinkimų komisija. 
+Pranešimų apie rinkimus, kandidato į savivaldybės tarybos narius anketos, atstovo rinkimams ir rinkimų stebėtojo pažymėjimų, kandidatų sąrašų, kandidatų plakatų su duomenimis apie kandidatą (kandidatus), rinkimų biuletenių (taip pat balsavimo iš anksto biuletenių), vidinių ir išorinių balsavimo vokų, blankų, kitų dokumentų ir antspaudų, naudojamų rinkimuose, pavyzdžius ir formas, taip pat jų pildymo pavyzdžius nustato Vyriausioji rinkimų komisija. 
 
 Straipsnio pakeitimai:
 Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
  
 
 55 straipsnis. Rinkimų biuleteniai
@@ -1209,11 +1215,15 @@ Rinkimų dieną rinkėjams balsavimo patalpa atidaroma tik susirinkus ne mažiau
 
 62 straipsnis. Rinkėjo asmens tapatybės nustatymas
 
-1. Prasidėjus balsavimui, prie įėjimo į balsavimo patalpą rinkėjas apylinkės rinkimų komisijos nariui pateikia pasą ar kitą asmens tapatybę patvirtinantį dokumentą, taip pat gali pateikti rinkėjo kortelę. Rinkimų apylinkėse, kurios elektroninių ryšių priemonėmis prisijungusios prie elektroninio rinkėjų sąrašo, elektroniniame rinkėjų sąraše nurodoma, kad rinkėjas atvyko balsuoti. Komisijos narys, nustatęs, kad rinkėjas atvyko į tą rinkimų apylinkę, į kurios rinkėjų sąrašą jis įrašytas, įteikia rinkėjui rinkimų apylinkės antspaudu antspauduotą atvykimo lapelį, kuriame nurodyta, kelintas rinkėjas atvyko balsuoti, ir nurodo, į kurį komisijos narį kreiptis rinkimų biuletenių. Draudžiama vienam rinkėjui išduoti kelis atvykimo lapelius arba išduoti kitam rinkėjui skirtą atvykimo lapelį. Jeigu asmuo, atvykęs į balsavimo patalpą, neturi reikalingų dokumentų arba neaišku, ar jis įrašytas į šios rinkimų apylinkės rinkėjų sąrašą, komisijos narys šiam asmeniui atvykimo lapelio neišduoda, įteikia jam svečio lapelį ir siunčia jį pas komisijos pirmininką ar pirmininko pavaduotoją išsiaiškinti dėl balsavimo.
+1. Prasidėjus balsavimui, prie įėjimo į balsavimo patalpą rinkėjas apylinkės rinkimų komisijos nariui pateikia pasą ar kitą asmens tapatybę patvirtinantį dokumentą. Rinkimų apylinkėse, kurios elektroninių ryšių priemonėmis prisijungusios prie elektroninio rinkėjų sąrašo, elektroniniame rinkėjų sąraše nurodoma, kad rinkėjas atvyko balsuoti. Komisijos narys, nustatęs, kad rinkėjas atvyko į tą rinkimų apylinkę, į kurios rinkėjų sąrašą jis įrašytas, įteikia rinkėjui rinkimų apylinkės antspaudu antspauduotą atvykimo lapelį, kuriame nurodyta, kelintas rinkėjas atvyko balsuoti, ir nurodo, į kurį komisijos narį kreiptis rinkimų biuletenių. Draudžiama vienam rinkėjui išduoti kelis atvykimo lapelius arba išduoti kitam rinkėjui skirtą atvykimo lapelį. Jeigu asmuo, atvykęs į balsavimo patalpą, neturi reikalingų dokumentų arba neaišku, ar jis įrašytas į šios rinkimų apylinkės rinkėjų sąrašą, komisijos narys šiam asmeniui atvykimo lapelio neišduoda, įteikia jam svečio lapelį ir siunčia jį pas komisijos pirmininką ar pirmininko pavaduotoją išsiaiškinti dėl balsavimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
+ 
 
-2. Komisijos narys, kuriam pavesta išduoti rinkimų biuletenius, pagal pateiktus dokumentus nustatęs, kad atvykęs balsuoti asmuo tikrai yra į šios rinkimų apylinkės rinkėjų sąrašą įrašytas asmuo, arba jeigu rinkimų komisijos pirmininkui raštu tai paliudija du į tos rinkimų apylinkės rinkėjų sąrašą įrašyti asmenys, rinkėjų sąraše suranda rinkėjo pavardę ir paima iš asmens atvykimo lapelį. Po to, kai rinkėjas ir rinkimų biuletenius išduodantis komisijos narys pasirašo rinkimų apylinkės rinkėjų sąraše, rinkėjui išduodami rinkimų biuleteniai. Atvykimo lapelis rinkėjui negrąžinamas. Balsuojant specialiuose balsavimo punktuose, iš anksto ar namuose, rinkėjo kortelėje pažymima apie rinkimų biuletenių išdavimą ir rinkėjo kortelė grąžinama rinkėjui. 
+2. Komisijos narys, kuriam pavesta išduoti rinkimų biuletenius, pagal pateiktus dokumentus nustatęs, kad atvykęs balsuoti asmuo tikrai yra į šios rinkimų apylinkės rinkėjų sąrašą įrašytas asmuo, arba jeigu rinkimų komisijos pirmininkui raštu tai paliudija du į tos rinkimų apylinkės rinkėjų sąrašą įrašyti asmenys, rinkėjų sąraše suranda rinkėjo pavardę ir paima iš asmens atvykimo lapelį. Po to, kai rinkėjas ir rinkimų biuletenius išduodantis komisijos narys pasirašo rinkimų apylinkės rinkėjų sąraše, rinkėjui išduodami rinkimų biuleteniai. Atvykimo lapelis rinkėjui negrąžinamas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
  
 
 3. Išduoti rinkėjui kitam rinkėjui skirtus rinkimų biuletenius, išskyrus šio įstatymo 63 straipsnio 4 dalyje nustatytą atvejį, draudžiama. Šį reikalavimą pažeidęs rinkimų komisijos narys atsako įstatymų nustatyta tvarka.
@@ -1241,11 +1251,17 @@ Nr. XIII-1778, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21114
 
 2. Už balsavimo specialiuose balsavimo punktuose organizavimą atsako apylinkės, kurios teritorijoje tas specialus balsavimo punktas yra, rinkimų komisijos pirmininkas. Jis kartu su kitų apylinkių rinkimų komisijų pirmininkais, kuriems tai pavedė savivaldybės rinkimų komisija, organizuoja, kad rinkimų komisijos nariai dalyvautų balsuojant specialiuose balsavimo punktuose. Už balsavimo užsienyje esančiuose kariniuose vienetuose organizavimą atsako tų karinių vienetų vadai.
 
-3. Vyriausiosios rinkimų komisijos nustatyta tvarka įgyvendinant balsavime iš anksto (balsuojant savivaldybėje, namuose ir specialiuose balsavimo punktuose) dalyvavusių rinkėjų elektroninį žymėjimą, naudojamas išankstinio balsavimo lakštas. Išankstinio balsavimo lakštas yra dokumentas, kurį rinkėjui, balsuojančiam ne rinkimų dieną, atspausdina rinkimų komisija ar įstaigos, turinčios specialų balsavimo punktą, vadovas (ar jo įgaliotas asmuo) iš Vyriausiosios rinkimų komisijos informacinės sistemos. Balsuojant ne rinkimų dieną, išankstinio balsavimo lakštas yra būtinas. Šį lakštą sudaro trys dalys. Pirmojoje dalyje pateikiama informacija apie rinkėją ir jam išduotus balsavimo dokumentus. Ši dalis po balsavimo saugoma rinkimų komisijoje. Antroji dalis – užpildyto išorinio balsavimo voko priėmimo kvitas, išduodamas rinkėjui, jam pateikus po balsavimo užklijuotą išorinį voką. Trečioji dalis – rinkėjo kortelė, kartu su balsavimo dokumentais atiduodama rinkėjui, kuris balsuodamas ją įdeda į išorinį balsavimo voką.
+3. Vyriausiosios rinkimų komisijos nustatyta tvarka įgyvendinant balsavime iš anksto (balsuojant savivaldybėje, namuose ir specialiuose balsavimo punktuose) dalyvavusių rinkėjų elektroninį žymėjimą, naudojamas išankstinio balsavimo lakštas. Išankstinio balsavimo lakštas yra dokumentas, kurį rinkėjui, balsuojančiam ne rinkimų dieną, atspausdina rinkimų komisija ar įstaigos, turinčios specialų balsavimo punktą, vadovas (ar jo įgaliotas asmuo) iš Vyriausiosios rinkimų komisijos informacinės sistemos. Balsuojant ne rinkimų dieną, išankstinio balsavimo lakštas yra būtinas. Šį lakštą sudaro trys dalys. Pirmojoje dalyje pateikiama informacija apie rinkėją ir jam išduotus balsavimo dokumentus. Ši dalis po balsavimo saugoma rinkimų komisijoje. Antroji dalis – užpildyto išorinio balsavimo voko priėmimo kvitas, išduodamas rinkėjui, jam pateikus po balsavimo užklijuotą išorinį voką. Trečioji dalis – informacinis rinkėjo lapelis, kartu su balsavimo dokumentais atiduodamas rinkėjui, kuris balsuodamas jį įdeda į išorinį balsavimo voką. Informaciniame rinkėjo lapelyje nurodoma rinkėjo vardas ir pavardė, rinkimų apylinkės, į kurios rinkėjų sąrašą yra įrašytas rinkėjas, pavadinimas, numeris ir balsavimo patalpos adresas, rinkėjo eilės numeris rinkimų apylinkės rinkėjų sąraše. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
+ 
 
 4. Šio įstatymo 66, 67 ir 68 straipsniuose nurodytose vietose turi būti patalpa (vieta), kurioje rinkėjas galėtų netrukdomas ir slaptai užpildyti rinkimų biuletenius ir įdėti juos į balsavimo voką. Šiais atvejais balsavimą gali stebėti rinkimų stebėtojai, turintys rinkimų stebėtojo pažymėjimą stebėti rinkimus bet kurioje rinkimų apylinkėje.
 
-5. Apylinkės rinkimų komisijos nariai, komisijos pirmininko paskirti dirbti specialiame balsavimo punkte, rinkimų dokumentus rinkėjui išduoda Vyriausiosios rinkimų komisijos nustatyta tvarka. Kartu su rinkimų biuleteniais rinkėjui išduodami balsavimo vokai. Išorinį balsavimo voką komisijos narys adresuoja tai apylinkės rinkimų komisijai, kuri nurodyta asmens rinkėjo kortelėje. Balsuojant specialiame balsavimo punkte, iš anksto ar namuose, rinkėjo kortelėje pažymima apie rinkimų biuletenių išdavimą ir rinkėjo kortelė grąžinama rinkėjui.
+5. Apylinkės rinkimų komisijos nariai, komisijos pirmininko paskirti dirbti specialiame balsavimo punkte, rinkimų dokumentus rinkėjui išduoda Vyriausiosios rinkimų komisijos nustatyta tvarka. Kartu su rinkimų biuleteniais rinkėjui išduodami balsavimo vokai. Išorinį balsavimo voką komisijos narys adresuoja tai apylinkės rinkimų komisijai, kuri nurodyta informaciniame rinkėjo lapelyje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
+ 
 
 6. Rinkėjas balsuoja asmeniškai ir slaptai:
 
@@ -1255,11 +1271,17 @@ Nr. XIII-1778, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21114
 
 3) užklijuoja vidinį balsavimo voką;
 
-4) vidinį balsavimo voką kartu su rinkėjo kortele įdeda į išorinį balsavimo voką;
+4) vidinį balsavimo voką kartu su informaciniu rinkėjo lapeliu įdeda į išorinį balsavimo voką; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
+ 
 
 5) užklijuoja išorinį balsavimo voką.
 
-7. Užklijuotą išorinį balsavimo voką (su jame esančiais rinkėjo kortele, vidiniu balsavimo voku ir rinkimų biuleteniais) rinkėjas įteikia apylinkės rinkimų komisijos nariui, išdavusiam jam rinkimų dokumentus. Šis, gavęs rinkėjo įteiktą voką, šį voką rinkėjo akivaizdoje užklijuoja specialiu ženklu ir išduoda rinkėjui šio voko priėmimo kvitą.
+7. Užklijuotą išorinį balsavimo voką (su jame esančiais informaciniu rinkėjo lapeliu, vidiniu balsavimo voku ir rinkimų biuleteniais) rinkėjas įteikia apylinkės rinkimų komisijos nariui, išdavusiam jam rinkimų dokumentus. Šis, gavęs rinkėjo įteiktą voką, šį voką rinkėjo akivaizdoje užklijuoja specialiu ženklu ir išduoda rinkėjui šio voko priėmimo kvitą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
+ 
 
 8. Šio straipsnio 6 ir 7 dalyse nurodytus veiksmus rinkėjas atlieka pats. Jeigu rinkėjas dėl neįgalumo ar kitokių priežasčių šių veiksmų negali atlikti pats, jo prašymu juos atlieka rinkėjo pasirinktas asmuo. Šis asmuo rinkimų biuletenius privalo užpildyti rinkėjo akivaizdoje, pagal jo nurodymą ir išsaugoti balsavimo paslaptį. 
 Straipsnio dalies pakeitimai:
@@ -1280,13 +1302,17 @@ Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
 
 65 straipsnis. Balsavimas namuose ir balsavimas iš anksto
 
-1. Balsuoti namuose gali tik šie rinkėjai: neįgalieji, dėl ligos laikinai nedarbingi rinkėjai, sukakę 70 metų ir vyresni rinkėjai, jeigu jie dėl sveikatos būklės patys negali atvykti rinkimų dieną į rinkimų apylinkę ir jeigu jie pateikė Vyriausiosios rinkimų komisijos nustatytos formos rinkėjo prašymą balsuoti namuose, ir jeigu yra įrašyti į namuose balsuojančių rinkėjų sąrašus. Šiuos sąrašus sudarančios ir tikslinančios rinkimų komisijos turi teisę duomenis apie neįgalius asmenis gauti iš Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos ar jos teritorinių skyrių, o duomenis apie laikinai nedarbingus asmenis – iš sveikatos priežiūros įstaigų. Šių duomenų rinkimų komisijos negali skleisti ir juos naudoja tik namuose balsuojančių rinkėjų sąrašų sudarymo ir tikslinimo tikslais. 
+1. Balsuoti namuose gali tik šie rinkėjai: neįgalieji, dėl ligos laikinai nedarbingi rinkėjai, sukakę 70 metų ir vyresni rinkėjai, jeigu jie dėl sveikatos būklės patys negali atvykti rinkimų dieną į rinkimų apylinkę ir jeigu jie pateikė Vyriausiosios rinkimų komisijos nustatytos formos rinkėjo prašymą balsuoti namuose, ir jeigu yra įrašyti į namuose balsuojančių rinkėjų sąrašus. Šiuos sąrašus sudarančios ir tikslinančios rinkimų komisijos turi teisę duomenis apie neįgalius asmenis gauti iš Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos ar jos teritorinių skyrių, o duomenis apie laikinai nedarbingus asmenis – iš sveikatos priežiūros įstaigų. Šių duomenų rinkimų komisijos negali skleisti ir juos naudoja tik namuose balsuojančių rinkėjų sąrašų sudarymo ir tikslinimo tikslais. Rinkimų komisijų nariai, platindami pranešimus apie rinkimus, privalo juos įteikti asmeniškai tiems rinkėjams, kurie turi teisę balsuoti namuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
+ 
 
 2. Balsuoti iš anksto gali rinkėjai, kurie rinkimų dieną negali atvykti balsuoti į rinkimų apylinkę. Rinkėjų balsavimą iš anksto organizuoja savivaldybės rinkimų komisija. Balsavimas iš anksto turi vykti nuo 8 iki 20 valandos paskutinį trečiadienį ir ketvirtadienį iki rinkimų dienos iš anksto parengtose ir balsavimui tinkamose patalpose, esančiose pastate, kuriame yra savivaldybės mero (administracijos direktoriaus) darbo vieta. Rinkimų biuleteniams ir balsavimo vokams išduoti ir priimti balsuojant iš anksto savivaldybės rinkimų komisijos pirmininkas paskiria ne mažiau kaip 2 savivaldybės rinkimų komisijos ar apylinkių rinkimų komisijų narius, kurie negali būti pasiūlyti tos pačios politinės partijos. Balsavimą iš anksto prižiūri savivaldybės rinkimų komisijos pirmininkas ar jo pavedimu savivaldybės rinkimų komisijos narys. Vyriausiosios rinkimų komisijos pirmininkas, jo įgaliotas šios komisijos narys ar savivaldybės rinkimų komisijos pirmininkas, Vyriausiosios rinkimų komisijos nustatyta tvarka nustatę rinkėjų papirkimo ar kitus rinkėjų teises šiurkščiai pažeidžiančius atvejus, privalo sustabdyti balsavimą iš anksto, iki pažeidimai bus pašalinti ir rinkimus bus galima vykdyti laisvai ir demokratiškai pagal šio įstatymo reikalavimus.
 
-3. Rinkėjų prašymai balsuoti namuose pateikiami apylinkių rinkimų komisijoms. Rinkėjų, gyvenančių konkrečios rinkimų apylinkės teritorijoje, prašymai balsuoti namuose pradedami priimti įteikiant jiems rinkėjo korteles ir baigiami priimti paskutinį trečiadienį iki rinkimų dienos. Rinkėjų, kurie laikinai apsistoję konkrečios rinkimų apylinkės teritorijoje ir nėra įrašyti į šios rinkimų apylinkės rinkėjų sąrašą, prašymai balsuoti namuose baigiami priimti paskutinį antradienį iki rinkimų dienos. Rinkėjas, kuris dėl neįgalumo ar kitokių priežasčių pats negali užpildyti prašymo balsuoti namuose ar jo įteikti apylinkės rinkimų komisijai, gali pavesti šiuos veiksmus už jį atlikti savo šeimos nariui, kaimynui ar juo besirūpinančiam asmeniui arba komisijos nariui. Šie asmenys rinkėjo prašymą pasirašo ir nurodo savo vardą, pavardę ir asmens kodą. 
+3. Rinkėjų prašymai balsuoti namuose pateikiami apylinkių rinkimų komisijoms. Rinkėjų, gyvenančių konkrečios rinkimų apylinkės teritorijoje, prašymai balsuoti namuose telefonu, elektroniniu paštu ir pateikiant prašymą pradedami priimti įteikiant jiems pranešimus apie rinkimus ir baigiami priimti paskutinį trečiadienį iki rinkimų dienos. Rinkėjų, kurie laikinai apsistoję konkrečios rinkimų apylinkės teritorijoje ir nėra įrašyti į šios rinkimų apylinkės rinkėjų sąrašą, prašymai balsuoti namuose baigiami priimti paskutinį antradienį iki rinkimų dienos. Rinkėjas, kuris dėl neįgalumo ar kitokių priežasčių pats negali užpildyti prašymo balsuoti namuose ar jo įteikti apylinkės rinkimų komisijai, gali pavesti šiuos veiksmus už jį atlikti savo šeimos nariui, kaimynui ar juo besirūpinančiam asmeniui arba komisijos nariui. Šie asmenys rinkėjo prašymą pasirašo ir nurodo savo vardą, pavardę ir asmens kodą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1778, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21114
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
  
 
 4. Į rinkimų apylinkės rinkėjų sąrašą įrašytų namuose balsuojančių rinkėjų sąrašą paskutinį ketvirtadienį iki rinkimų dienos sudaro ir tvirtina apylinkės rinkimų komisija. Rinkėjų, kurie gyvena ar laikinai apsistoję konkrečios rinkimų apylinkės teritorijoje, bet įrašyti į kitos rinkimų apylinkės rinkėjų sąrašą ir jį tikslinant į šios rinkimų apylinkės rinkėjų sąrašą nebuvo įrašyti, sąrašą paskutinį trečiadienį iki rinkimų dienos sudaro ir tvirtina savivaldybės rinkimų komisija.
@@ -1303,7 +1329,10 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
  
 
-8. Užklijuotą išorinį balsavimo voką (su jame esančiais rinkėjo kortele, vidiniu balsavimo voku ir rinkimų biuleteniais) rinkėjas įteikia apylinkės (savivaldybės) rinkimų komisijos nariui. Šis, gavęs rinkėjo įteiktą voką, šį voką rinkėjo akivaizdoje užklijuoja specialiu ženklu ir išduoda rinkėjui šio voko priėmimo kvitą.
+8. Užklijuotą išorinį balsavimo voką (su jame esančiais informaciniu rinkėjo lapeliu, vidiniu balsavimo voku ir rinkimų biuleteniais) rinkėjas įteikia apylinkės (savivaldybės) rinkimų komisijos nariui. Šis, gavęs rinkėjo įteiktą voką, šį voką rinkėjo akivaizdoje užklijuoja specialiu ženklu ir išduoda rinkėjui šio voko priėmimo kvitą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
+ 
 
 9. Komisijos nariams ir rinkimų stebėtojams draudžiama už rinkėją atlikti šio įstatymo 64 straipsnio 6 ir 7 dalyse nurodytus veiksmus, taip pat priimti iš rinkėjo neužklijuotą išorinį balsavimo voką. Rinkėjams draudžiama išsinešti biuletenius ar juos perduoti kitiems asmenims.
 
@@ -1441,9 +1470,10 @@ Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
 
 2) išoriniai vokai po vieną atplėšiami;
 
-3) iš išorinio voko išimama rinkėjo kortelė, garsiai perskaitoma rinkėjo pavardė, ji sutikrinama su apylinkės rinkėjų sąrašu ir vidinis balsavimo vokas antspauduojamas rinkimų apylinkės antspaudu. Jeigu rinkėjo kortelėje įrašytas asmuo, kurio nėra rinkėjų sąraše, arba rinkėjų sąraše yra rinkėjo parašas, liudijantis, kad jis jau balsavo rinkimų apylinkėje, arba yra įrašas, nurodantis, kad rinkėjas balsavo kitoje rinkimų apylinkėje, arba yra gautas kitas to paties rinkėjo balsavimo vokas, arba išoriniame voke nėra rinkėjo kortelės, arba išoriniame voke yra įdėta daugiau kaip vienas vidinis balsavimo vokas, antspaudas nededamas ir laikoma, kad voke esantis rinkimų biuletenis negalioja, ir vokas neatplėšiamas. Ant vidinio (vidinių) balsavimo voko (vokų) būtina pažymėti, kad voke esantis rinkimų biuletenis negalioja. Tokių vokų turinys rinkimų apylinkės balsų skaičiavimo protokole neįskaičiuojamas; 
+3) iš išorinio voko išimamas informacinis rinkėjo lapelis, garsiai perskaitoma rinkėjo pavardė, ji sutikrinama su apylinkės rinkėjų sąrašu ir vidinis balsavimo vokas antspauduojamas rinkimų apylinkės antspaudu. Jeigu informaciniame rinkėjo lapelyje įrašytas asmuo, kurio nėra rinkėjų sąraše, arba rinkėjų sąraše yra rinkėjo parašas, liudijantis, kad jis jau balsavo rinkimų apylinkėje, arba yra įrašas, nurodantis, kad rinkėjas balsavo kitoje rinkimų apylinkėje, arba yra gautas kitas to paties rinkėjo balsavimo vokas, arba išoriniame voke nėra informacinio rinkėjo lapelio, arba išoriniame voke yra įdėta daugiau kaip vienas vidinis balsavimo vokas, antspaudas nededamas ir laikoma, kad voke esantis rinkimų biuletenis negalioja, ir vokas neatplėšiamas. Ant vidinio (vidinių) balsavimo voko (vokų) būtina pažymėti, kad voke esantis rinkimų biuletenis negalioja. Tokių vokų turinys rinkimų apylinkės balsų skaičiavimo protokole neįskaičiuojamas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
  
 
 4) apylinkės rinkėjų sąraše prie rinkėjo, kurio balsas gautas balsuojant vokais, pavardės įrašoma „balsavo vokais“ arba „BV“; 
@@ -2164,4 +2194,9 @@ Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 48 ir 91
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1778, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21114
 Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 2, 5, 9, 20, 21, 28, 36, 63, 64, 65 ir 66 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 16, 23, 27, 28, 29, 54, 62, 64, 65, 73 straipsnių ir ketvirtojo skirsnio pavadinimo pakeitimo įstatymas
 
