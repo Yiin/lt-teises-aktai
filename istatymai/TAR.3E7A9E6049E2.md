@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/3e7a9e6049e211e8ade598b2394a491d"
 
 # Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2018-08-01 iki 2019-10-29
+Suvestinė redakcija nuo 2019-10-30
  
 Įstatymas paskelbtas: TAR 2018-04-27, i. k. 2018-06727
  
@@ -4018,7 +4018,24 @@ Nr. XIII-1301, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11306
 
 
 
-7. 2019 m. spalio 20 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos mokėjimų įstatymo 42 straipsnio 1 dalies redakcija:
+7. 2020 m. spalio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos mokėjimų įstatymo 42 straipsnio 1 dalies redakcija:
+
+
+
+
+„1. Mokėjimo nurodymo gavimo momentu laikomas momentas, kai mokėtojo mokėjimo paslaugų teikėjas gauna mokėjimo nurodymą. Jeigu mokėjimo nurodymo gavimo momentas nėra mokėtojo mokėjimo paslaugų teikėjo darbo diena, laikoma, kad mokėjimo nurodymas gautas kitą darbo dieną. Mokėjimo paslaugų teikėjas gali nustatyti laiką baigiantis darbo dienai, po kurio bet kuris gautas mokėjimo nurodymas laikomas gautu kitą darbo dieną. Mokėjimo paslaugų teikėjas negali nurašyti lėšų iš mokėtojo sąskaitos anksčiau, negu gaunamas mokėjimo nurodymas, jeigu 2019 metais jis įvykdė daugiau negu vieną milijoną kredito pervedimų.“ 
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2488, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17215
+ 
+
+
+
+
+71. 2021 m. lapkričio 2 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos mokėjimų įstatymo 42 straipsnio 1 dalies redakcija:
 
 
 
@@ -4028,6 +4045,9 @@ Nr. XIII-1301, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11306
 
 
 
+Papildyta straipsnio dalimi:
+Nr. XIII-2488, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17215
+ 
 
 
 
@@ -4113,3 +4133,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1301, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11306
 Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2488, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17215
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymo Nr. XIII-1092 2 straipsnio pakeitimo įstatymas
