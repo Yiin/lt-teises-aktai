@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-10-29
+Suvestinė redakcija nuo 2019-10-30 iki 2019-12-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
  
@@ -630,7 +630,10 @@ MOTINYSTĖS, TĖVYSTĖS IR VAIKO PRIEŽIŪROS IŠMOKOS
 1. Teisę gauti motinystės išmoką turi asmuo, kuris:
 
 
-1) yra apdraustas motinystės socialiniu draudimu, išskyrus atvejus, numatytus šio straipsnio 2 dalyje;
+1) yra apdraustas motinystės socialiniu draudimu, išskyrus atvejus, numatytus šio straipsnio 3 dalyje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
+ 
 
 
 
@@ -661,10 +664,10 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-3. Moteriai, turinčiai šio straipsnio 1 dalyje nurodytą motinystės socialinio draudimo stažą, kuriai pasibaigė darbo sutartis arba kuri buvo atleista iš tarnybos, motinystės išmoka mokama šio įstatymo 17 straipsnyje nustatyta tvarka. Ši nuostata taip pat taikoma ir kitoms nėštumo ir gimdymo atostogoms, jeigu jos prasideda prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 16 straipsnio 3 dalyje (2017 m. gruodžio 5 d. redakcija; TAR, 2017, Nr. 2017-20050) nustatytas teisinis reguliavimas tiek, kiek pagal jį teisę gauti motinystės išmoką šio įstatymo 17 straipsnyje nustatyta tvarka turi tik moteris, turinti šio įstatymo 16 straipsnio 1 dalies 3 punkte nurodytą motinystės socialinio draudimo stažą, kuriai pasibaigė darbo sutartis arba kuri buvo atleista iš tarnybos, prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsniui, konstituciniam teisingumo principui.
+3. Moteriai, turinčiai šio straipsnio 1 dalyje nurodytą motinystės socialinio draudimo stažą ir nėštumo laikotarpiu tapusiai neapdraustu asmeniu, motinystės išmoka mokama šio įstatymo 17 straipsnyje nustatyta tvarka. Ši nuostata taikoma ir kitoms nėštumo ir gimdymo atostogoms, jeigu jos prasideda prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu. 
 Straipsnio dalies pakeitimai:
 Nr. KT23-N13/2018, 2018-12-19, paskelbta TAR 2018-12-19, i. k. 2018-20843
+Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
  
@@ -1617,3 +1620,13 @@ Dėl Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 16 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1827, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21847
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 6 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2323, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12116
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 5, 22, 23 ir 24 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 5, 9, 10, 11 ir 16 straipsnių pakeitimo įstatymas
