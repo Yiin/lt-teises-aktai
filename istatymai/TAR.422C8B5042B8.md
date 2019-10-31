@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-10-30
+Suvestinė redakcija nuo 2019-10-31 iki 2019-12-31
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -1034,6 +1034,10 @@ Nedirbantis asmuo yra asmuo, kuris atitinka bent vieną iš šių sąlygų:
 
 
 5) nestudijuoja aukštojoje mokykloje pagal nuolatinės formos studijų programas, nesimoko pagal bendrojo ugdymo arba pagal formaliojo profesinio mokymo programas, išskyrus asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas, ar asmenis, kurie mokosi pagal formaliojo profesinio mokymo programas savo lėšomis; 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos užimtumo įstatymo 22 straipsnio 1 dalies 5 punktas (2017 m. birželio 6 d. redakcija, TAR, 2017-06-14, Nr. 10024; 2017 m. gruodžio 21 d. redakcija, TAR, 2017-12-29, Nr. 21627) tiek, kiek jame nustatyta, kad bedarbiu laikomas asmuo, kuris nestudijuoja aukštojoje mokykloje pagal nuolatinės formos studijų programas, prieštaravo (prieštarauja) Lietuvos Respublikos Konstitucijos 48 straipsnio 1 dalies nuostatai „Kiekvienas žmogus <...> turi teisę <...> gauti <...> socialinę apsaugą nedarbo atveju“, 52 straipsnio nuostatai „Valstybė laiduoja piliečių teisę gauti <...> socialinę paramą nedarbo <...> atvejais“, konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+Nr. KT41-N12/2019, 2019-10-31, paskelbta TAR 2019-10-31, i. k. 2019-17396
+ 
 
 
 
@@ -1183,8 +1187,10 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 4) bedarbis pradeda studijuoti aukštojoje mokykloje pagal nuolatinės formos studijų programas arba mokytis pagal bendrojo ugdymo arba formaliojo profesinio mokymo programas, išskyrus bedarbius, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas, bedarbius, kurie mokosi pagal formaliojo profesinio mokymo programas savo lėšomis, ar bedarbius, kurie dalyvauja paramos mokymuisi priemonėse; 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos užimtumo įstatymo 24 straipsnio 4 dalies 4 punktas (2017 m. birželio 6 d. redakcija, TAR, 2017-06-14, Nr. 10024) tiek, kiek jame nustatyta, kad bedarbio statusas panaikinamas, kai bedarbis pradeda studijuoti aukštojoje mokykloje pagal nuolatinės formos studijų programas, prieštarauja Lietuvos Respublikos Konstitucijos 48 straipsnio 1 dalies nuostatai „Kiekvienas žmogus <...> turi teisę <...> gauti <...> socialinę apsaugą nedarbo atveju“, 52 straipsnio nuostatai „Valstybė laiduoja piliečių teisę gauti <...> socialinę paramą nedarbo <...> atvejais“, konstituciniam teisinės valstybės principui.
 Straipsnio punkto pakeitimai:
 Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
+Nr. KT41-N12/2019, 2019-10-31, paskelbta TAR 2019-10-31, i. k. 2019-17396
  
 
 
@@ -3554,3 +3560,8 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 1, 35, 56, 57, 58 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2370, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12450
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 12-1 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT41-N12/2019, 2019-10-31, paskelbta TAR 2019-10-31, i. k. 2019-17396
+Dėl Lietuvos Respublikos užimtumo įstatymo 22 straipsnio 1 dalies 5 punkto ir 24 straipsnio 4 dalies 4 punkto atitikties Lietuvos Respublikos Konstitucijai
