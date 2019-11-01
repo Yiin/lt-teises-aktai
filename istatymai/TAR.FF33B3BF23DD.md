@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -4888,7 +4888,10 @@ Nr. XIII-1408, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11508
 
 
 
-4. Siūlyti parduoti Lietuvos Respublikoje nuotoliniu būdu leidžiama tik registruotus nereceptinius vaistinius preparatus. Šis reikalavimas taikomas ir šio straipsnio 3 dalyje nurodytiems asmenims.
+4. Siūlyti parduoti Lietuvos Respublikoje nuotoliniu būdu leidžiama registruotus receptinius vaistinius preparatus pagal elektroninius receptus, išskyrus vaistinius preparatus, kurių sudėtyje yra narkotinių ir (ar) psichotropinių medžiagų, įrašytų į sveikatos apsaugos ministro tvirtinamus kontroliuojamų narkotinių ir psichotropinių medžiagų sąrašus, ir nereceptinius vaistinius preparatus. Šis reikalavimas taikomas ir šio straipsnio 3 dalyje nurodytiems asmenims.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1408, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11508
+ 
 
 
 
