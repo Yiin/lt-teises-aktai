@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
  
@@ -1987,7 +1987,7 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
 
 
-2. Teisė į žvejybos galimybes suteikiama ūkio subjektams 3 kalendoriniams metams.
+2. Teisė į žvejybos galimybes suteikiama ūkio subjektams 15 kalendorinių metų.
 
 
 
@@ -2035,7 +2035,7 @@ Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
 
 
 
-7. Teisė naudoti žvejybos įrankius suteikiama ūkio subjektams 3 kalendoriniams metams. 
+7. Teisė naudoti žvejybos įrankius suteikiama ūkio subjektams 15 kalendorinių metų.
 
 
 Papildyta straipsniu:
