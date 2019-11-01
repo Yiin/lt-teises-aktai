@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2019-07-30 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -1457,7 +1457,18 @@ Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 
 
-21) naudotis kitomis mokesčių ir kitų įstatymų suteiktomis teisėmis.
+21) centrinio mokesčių administratoriaus nustatyta tvarka priimti automatizuotu duomenų tvarkymu, įskaitant profiliavimą, grindžiamus sprendimus; 
+Papildyta straipsnio punktu:
+Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
+ 
+
+
+
+
+22) naudotis kitomis mokesčių ir kitų įstatymų suteiktomis teisėmis.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
+ 
 
 
 
@@ -1572,7 +1583,25 @@ Mokesčių mokėtojas turi teisę:
 
 
 
-13) naudotis kitomis šio ir kitų įstatymų bei jų lydimųjų teisės aktų suteiktomis teisėmis.
+13) tvarkyti mokesčių apskaičiavimo teisingumui pagrįsti reikalingus asmens duomenis; 
+Papildyta straipsnio punktu:
+Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
+ 
+
+
+
+
+14) pareikšti savo požiūrį dėl mokesčių administratoriaus priimtų sprendimų, kurie grindžiami automatizuotu duomenų tvarkymu, įskaitant profiliavimą, ir reikalauti, kad tokius sprendimus peržiūrėtų ir motyvuotus paaiškinimus dėl jų pateiktų ar juos pakeistų tam įgaliotas mokesčių administratoriaus pareigūnas; 
+Papildyta straipsnio punktu:
+Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
+ 
+
+
+
+
+15) naudotis kitomis šio ir kitų įstatymų bei jų lydimųjų teisės aktų suteiktomis teisėmis.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
  
 
 
@@ -6574,3 +6603,8 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 23 ir 24 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 25, 40-1, 87, 108, 118, 145, 148, 156, 158 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 61-2 straipsniu įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 33 ir 36 straipsnių pakeitimo įstatymas
