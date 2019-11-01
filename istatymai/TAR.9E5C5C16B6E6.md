@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
  
@@ -1877,9 +1877,17 @@ Nr. XII-2356, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13917
 
 
 
-7) skelbti apie alkoholinių gėrimų kainų sumažinimą. 
+7) skelbti apie alkoholinių gėrimų kainų sumažinimą;
 
 
+
+
+8) gaminti ir (ar) parduoti maisto produktus, žaislus ir kitas prekes, skirtas vaikams ir paaugliams, kurių dizainas imituoja alkoholinius gėrimus ir (ar) jų tarą.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2205, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09824
+ 
 
 
 
@@ -3017,3 +3025,8 @@ Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 18 ir 22 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1911, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00843
 Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 27 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2205, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09824
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 28 straipsnio pakeitimo įstatymas
