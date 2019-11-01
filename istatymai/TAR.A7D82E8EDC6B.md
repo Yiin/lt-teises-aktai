@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
  
@@ -109,7 +109,10 @@ Programos finansavimo šaltiniai yra:
 
 
 
-5) mokestis už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis ar jų junginiais; 
+5) mokestis už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
+ 
 
 
 
@@ -180,7 +183,14 @@ Nr. XIII-812, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20006
 
 
 
-2) už specialiai neįgaliesiems vairuoti pritaikytas krovinines transporto priemones, priklausančias savivaldybių administracijoms ir nevalstybinėms neįgaliųjų organizacijoms.
+2) už specialiai neįgaliesiems vairuoti pritaikytas krovinines transporto priemones, priklausančias savivaldybių administracijoms ir nevalstybinėms neįgaliųjų organizacijoms;
+
+
+
+
+3) už Lietuvos Respublikos krašto apsaugos sistemos krovinines transporto priemones. 
+Papildyta straipsnio punktu:
+Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
  
 
 
@@ -234,7 +244,10 @@ Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
 
 
 
-6) valstybinės reikšmės kelius prižiūrinčių valstybės įmonių transporto priemonėmis ar jų junginiais;
+6) transporto priemonėmis ar jų junginiais, naudojamais valstybinės reikšmės keliams prižiūrėti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
+ 
 
 
 
@@ -244,7 +257,10 @@ Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
 
 
 
-8) užsienio valstybių karinės apsaugos sistemos transporto priemonėmis ar jų junginiais;
+8) krašto apsaugos sistemos ir užsienio valstybių ginkluotųjų pajėgų transporto priemonėmis ar jų junginiais; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
+ 
 
 
 
@@ -259,10 +275,10 @@ Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
 
 
 
-7 straipsnis. Mokestis už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis ar jų junginiais 
+7 straipsnis. Mokestis už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis 
 
 
-1. Transporto priemonių ar jų junginių, nurodytų šio įstatymo 3 priede, kurių matmenys ir (ar) ašies (ašių) apkrova ir (ar) masė su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio matmenis ir (ar) ašies (ašių) apkrovą ir (ar) masę, valdytojai moka mokestį už naudojimąsi valstybinės reikšmės ir vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis ar jų junginiais. Mokesčio už naudojimąsi valstybinės reikšmės keliais važiuojant tokiomis transporto priemonėmis mokėjimo, administravimo, priežiūros tvarką ir dydžius, neviršydama šio įstatymo 3 priede nustatytų ribinių tarifų, nustato Vyriausybė. Mokesčio už naudojimąsi vietinės reikšmės viešaisiais keliais važiuojant tokiomis transporto priemonėmis dydį, neviršydamos šio įstatymo 3 priede nustatytų ribinių tarifų, ir mokesčio mokėjimo, administravimo ir priežiūros tvarką nustato savivaldybių tarybos.
+1. Transporto priemonių ar jų junginių, kurių techniniai parametrai viršija didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio techninius parametrus, valdytojai moka mokestį už naudojimąsi valstybinės reikšmės ir vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis. Mokesčio už naudojimąsi valstybinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis mokėjimo, administravimo, priežiūros tvarką ir dydžius, neviršydama šio įstatymo 3 priede nustatytų ribinių tarifų, nustato Vyriausybė. Mokesčio už naudojimąsi vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis dydį, neviršydamos šio įstatymo 3 priede nustatytų ribinių tarifų, ir mokesčio mokėjimo, administravimo ir priežiūros tvarką nustato savivaldybių tarybos.
 
 
 
@@ -270,22 +286,24 @@ Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
 2. Mokestis nemokamas:
 
 
-1) už Vidaus reikalų ministerijos ir įstaigų prie šios ministerijos didžiagabarites ir (ar) sunkiasvores transporto priemones ar jų junginius, priskirtus kovinei, kovos-mokomajai, mokomajai, rikiuotės ir transportavimo grupėms;
+1) už Vidaus reikalų ministerijos ir įstaigų prie šios ministerijos didžiagabarites ir (ar) sunkiasvores transporto priemones, priskirtas kovinei, kovos-mokomajai, mokomajai, rikiuotės ir transportavimo grupėms;
 
 
 
 
-2) už užsienio valstybių karinės apsaugos sistemos didžiagabarites ir (ar) sunkiasvores transporto priemones ar jų junginius.
+2) už krašto apsaugos sistemos ir užsienio valstybių ginkluotųjų pajėgų didžiagabarites ir (ar) sunkiasvores transporto priemones.
 
 
 
 
 
 
-3. Naudojimosi valstybinės ir vietinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis ar jų junginiais tvarką reglamentuoja Kelių įstatymas.
+3. Naudojimosi valstybinės ir vietinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis teisinius pagrindus reglamentuoja Kelių įstatymas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
  
-
-
 
 
 
@@ -412,7 +430,10 @@ Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
 
 
 
-20) kelių naudotojo mokesčiui, mokesčiams už Lietuvos Respublikoje įregistruotas krovinines transporto priemones, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis ar jų junginiais, mokesčiui už eismo ribojimą administruoti ir jų surinkimo priežiūrai atlikti;
+20) kelių naudotojo mokesčiui, mokesčiams už Lietuvos Respublikoje įregistruotas krovinines transporto priemones, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis, už eismo ribojimą administruoti ir jų surinkimo priežiūrai atlikti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
+ 
 
 
 
@@ -549,17 +570,26 @@ Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
  
 
 
-1) neįgaliųjų ir jų vairuojamų specialiųjų lengvųjų automobilių; 
+1) neįgaliųjų ir jų nuosavybės ar kitokiu teisėtu pagrindu valdomų automobilių, kuriuos jie vairuoja arba kuriais jie važiuoja; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
+ 
 
 
 
 
-2) tarnybos reikalais vykstančių greitosios medicinos pagalbos ir reanimacijos, priešgaisrinių gelbėjimo tarnybų, policijos, valstybės sienos apsaugos, civilinės saugos, kelių priežiūros, uosto saugos tarnybų, prokuratūros, muitinės pareigūnų ir šių tarnybų transporto priemonių;
+2) tarnybos reikalais vykstančių greitosios medicinos pagalbos ir reanimacijos, priešgaisrinių gelbėjimo tarnybų, policijos, valstybės sienos apsaugos, civilinės saugos, kelių priežiūros, uosto saugos tarnybų, prokuratūros, muitinės pareigūnų, Lietuvos kariuomenėje tarnaujančių karių, valstybės tarnautojų ir pagal darbo sutartis dirbančių darbuotojų ir šiame punkte nurodytų institucijų ir tarnybų transporto priemonių; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
+ 
 
 
 
 
-3) Klaipėdos miesto savivaldybės valstybės tarnautojų ir darbuotojų, atliekančių tarnybines funkcijas Klaipėdos miesto dalyje Smiltynėje;
+3) Klaipėdos miesto savivaldybės tarnybinių transporto priemonių, valstybės tarnautojų ir darbuotojų, atliekančių tarnybines funkcijas ir dirbančių darbus Klaipėdos miesto dalyje Smiltynėje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
+ 
 
 
 
@@ -574,7 +604,10 @@ Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
 
 
 
-6) Klaipėdos miesto savivaldybės įmonių transporto priemonių ir darbuotojų, dirbančių darbus Klaipėdos miesto dalyje Smiltynėje;
+6) Klaipėdos miesto savivaldybės įmonių ir įstaigų transporto priemonių ir darbuotojų, dirbančių darbus Klaipėdos miesto dalyje Smiltynėje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
+ 
 
 
 
@@ -637,8 +670,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
  
+ 
  
 Lietuvos Respublikos 
 kelių priežiūros ir 
@@ -732,6 +765,7 @@ Nr. XII-2347, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13914
 
 
 
+ 
 Lietuvos Respublikos 
 kelių priežiūros ir 
 plėtros programos 
@@ -846,6 +880,7 @@ Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
 
 
 
+ 
 Lietuvos Respublikos 
 kelių priežiūros ir 
 plėtros programos 
@@ -920,20 +955,24 @@ MOKESČIŲ UŽ NAUDOJIMĄSI KELIAIS VAŽIUOJANT DIDŽIAGABARITĖMIS MOTORINĖMIS
  101–145* 
  501–750* 
  2,3–2,4 
- 109–114 
- 273–287 
- 547–574 
- 1 368–1 436 
+ – 
+ – 
+ – 
+ – 
 
 
 
-* I kategorijos valstybinės reikšmės keliuose su skiriamąja juosta.
+* Automagistralėse ir I kategorijos valstybinės reikšmės keliuose su skiriamąja juosta.
+Punkto pakeitimai:
+Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
  
 
 
 
 
-2. Jeigu transporto priemonės ar jų junginio matmenys su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamuosius matmenis daugiau, negu nurodyta lentelėje, transporto priemonė ar jų junginys tampa ypač pavojingi saugiam eismui. Tokioms didžiagabaritėms motorinėms transporto priemonėms ar jų junginiams taikomas vienkartinis mokestis, kuris apskaičiuojamas taip: prie didžiausiojo ribinio tarifo pridedamas papildomas 0,28 euro mokestis už kiekvieno didžiausiojo leidžiamojo matmens viršijimą, t. y. už kiekvieną aukščio viršijimą 10 cm, pločio viršijimą 10 cm ar ilgio viršijimą 1 m, ir dauginama iš koeficiento 1,5. Visais atvejais, jeigu viršijami du ar visi trys matmenys, mokestis nustatomas sumuojant mokesčius už atskirų didžiausiųjų leidžiamųjų matmenų viršijimą.
+2. Jeigu didžiagabaritės motorinės transporto priemonės ar jų junginio matmenys su kroviniu ar be jo viršija didžiausiuosius leidžiamus naudojantis keliais transporto priemonių ar jų junginių matmenis daugiau, negu nurodyta šio priedo 1 punkto lentelėje, didžiagabaritė motorinė transporto priemonė ar jų junginys tampa ypač pavojingi saugiam eismui. Tokioms didžiagabaritėms motorinėms transporto priemonėms ar jų junginiams taikomas vienkartinis tarifas, kuris apskaičiuojamas taip: prie didžiausiojo ribinio tarifo už atitinkamo didžiausiojo leidžiamojo matmens viršijimą pridedamas papildomas 0,28 euro mokestis už kiekvieną aukščio viršijimą 10 cm, pločio viršijimą 10 cm ar ilgio viršijimą 1 m ir dauginama iš koeficiento 1,5. Visais atvejais, jeigu viršijami du ar visi trys matmenys, mokestis nustatomas sumuojant mokesčius už atskirų didžiausiųjų leidžiamųjų matmenų viršijimą. 
+Punkto pakeitimai:
+Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
  
 
 
@@ -1127,35 +1166,40 @@ MOKESČIO UŽ NAUDOJIMĄSI KELIAIS VAŽIUOJANT SUNKIASVORĖMIS TRANSPORTO PRIEMO
  
 
 
-8. Mokesčio už naudojimąsi keliais važiuojant Lietuvos Respublikos teritorijoje sunkiasvorėmis motorinėmis transporto priemonėmis, kurių masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginių masę (40 t, o vežant vieną arba kelis kombinuoto vežimo vienetus (puspriekabes, nuimamuosius kėbulus ir konteinerius, kurių bendras maksimalus ilgis ne didesnis kaip 45 pėdos) magistraliniais keliais ir kitais keliais 50 km spinduliu nuo Klaipėdos valstybinio jūrų uosto, oro uostų, geležinkelio ir vidaus vandenų stočių teritorijų, kuriuose iškraunami ir (arba) pakraunami kombinuoto vežimo vienetai, – 44 t) (toliau – didžiausioji leidžiamoji masė), ribiniai tarifai:
+8. Mokesčio už naudojimąsi keliais važiuojant sunkiasvorėmis motorinėmis transporto priemonėmis ar jų junginiais, kurių masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginių masę ir yra didesnė kaip 40 t, o vežant vieną arba kelis kombinuoto vežimo vienetus (puspriekabes, nuimamuosius kėbulus ir konteinerius, kurių bendras maksimalus ilgis ne didesnis kaip 45 pėdos) magistraliniais keliais ir kitais keliais 50 km spinduliu nuo Klaipėdos valstybinio jūrų uosto, oro uostų, geležinkelio ir vidaus vandenų stočių teritorijų, kuriose iškraunami ir (arba) pakraunami kombinuoto vežimo vienetai, – 44 t (toliau – didžiausioji leidžiamoji masė), ribiniai tarifai:
  
 
 
 
  Didžiausioji leidžiamoji masė viršyta, t 
  Vienkartiniai ribiniai tarifai už kiekvieną viršytą toną, eurais už 10 km 
- Mėnesio ribiniai tarifai, eurais (šalies teritorijoje)* 
+ Mėnesio ribiniai tarifai*, eurais 
+ Metų ribiniai tarifai*, eurais 
 
 
  1,0–20,0 
  1,01–1,30 
  115–173 
+ 920–1 384 
 
 
  21,0–40,0 
  1,30–1,44 
+ – 
  – 
 
 
  > 40 
  1,59–1,88 
  – 
+ – 
 
 
 
-* Taikoma šešių ar daugiau ašių transporto priemonėms, kurias sudaro motorinė transporto priemonė su suporintais galiniais ratais ir priekaba (puspriekabė) su suporintais ratais ir kurių ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą, bendroji masė yra didesnė už didžiausiąją leidžiamąją bendrąją masę ir yra ne didesnė kaip 48 t.
+* Taikoma šešių ar daugiau ašių transporto priemonėms, kurias sudaro motorinė transporto priemonė ir priekaba (puspriekabė), kurių ne mažiau kaip penkių ašių ratai yra suporinti, ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą ir masė yra didesnė už didžiausiąją leidžiamąją masę, tačiau ne didesnė kaip 48 t.
 Punkto pakeitimai:
 Nr. XII-2347, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13914
+Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
  
 
 
@@ -1200,6 +1244,7 @@ Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
 
 
 
+ 
 Lietuvos Respublikos 
 kelių priežiūros ir plėtros 
 programos finansavimo 
@@ -1355,6 +1400,7 @@ Nr. XII-1310, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17042
 
 
 
+ 
 Lietuvos Respublikos 
 kelių priežiūros ir plėtros 
 programos finansavimo 
@@ -1566,3 +1612,8 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
 Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 6 ir 9 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 3, 5, 6, 7, 9 straipsnių ir 3 priedo pakeitimo įstatymas
