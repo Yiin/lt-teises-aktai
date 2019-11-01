@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CA89372D00AA"
 
 # Lietuvos Respublikos policijos įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 90-2777; Žin. 2000, Nr.101-0, i. k. 1001010ISTAIII-2048
  
@@ -497,7 +497,7 @@ Lietuvos Respublikos vidaus reikalų ministras (toliau – vidaus reikalų minis
 
 
 
-6) siūlo policijos generalinio komisaro kandidatūrą;
+6) teikia Vyriausybei skirti policijos generalinį komisarą;
 
 
 
@@ -845,7 +845,7 @@ II SKYRIUS POLICIJOS VEIKLOS ORGANIZAVIMAS
 
 
 
-3. Policijos generalinį komisarą vidaus reikalų ministro siūlymu ir Vyriausybės teikimu 5 metų kadencijai skiria ir atleidžia Respublikos Prezidentas. Policijos generalinis komisaras yra tiesiogiai pavaldus vidaus reikalų ministrui ir atskaitingas Respublikos Prezidentui.
+3. Policijos generalinį komisarą vidaus reikalų ministro teikimu 5 metų kadencijai skiria ir atleidžia Vyriausybė. Policijos generalinis komisaras yra tiesiogiai pavaldus vidaus reikalų ministrui ir atsiskaito Vyriausybei.
 
 
 
