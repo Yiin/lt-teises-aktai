@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-19
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -14992,20 +14992,29 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 
 
-4. Važiavimas be leidimo kelių transporto priemonėmis (jų junginiais) viršijant leidžiamą ašies (ašių) apkrovą daugiau kaip 0,6 tonos, bet ne daugiau kaip 2 tonomis ir (ar) didžiausiąją leidžiamąją masę daugiau kaip 1 tona, bet ne daugiau kaip 4 tonomis, važiavimas be leidimo kelių transporto priemonėmis (jų junginiais), kurių matmenys su kroviniu ar be jo viršija leidžiamus,
+4. Važiavimas be leidimo kelių transporto priemonėmis (jų junginiais) viršijant didžiausiąją leidžiamąją ašies (ašių) apkrovą daugiau kaip 0,6 tonos, bet ne daugiau kaip 2 tonomis, ir (ar) didžiausiąją leidžiamąją masę daugiau kaip 1 tona, bet ne daugiau kaip 4 tonomis, važiavimas be leidimo kelių transporto priemonėmis (jų junginiais), kurių faktiniai matmenys su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamus naudojantis keliais transporto priemonių ar jų junginių matmenis: ilgį – daugiau kaip 1 m, aukštį – daugiau kaip 10 cm, plotį – daugiau kaip 9 cm, 
 užtraukia baudą vairuotojams nuo vieno šimto keturiasdešimt iki trijų šimtų eurų ir (ar) juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo trijų šimtų iki penkių šimtų septyniasdešimt eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2243, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10371
+ 
 
 
 
 
-5. Važiavimas be leidimo kelių transporto priemonėmis (jų junginiais) viršijant leidžiamą ašies (ašių) apkrovą daugiau kaip 2 tonomis, bet ne daugiau kaip 4 tonomis ir (ar) didžiausiąją leidžiamąją masę daugiau kaip 4 tonomis, bet ne daugiau kaip 8 tonomis
+5. Važiavimas be leidimo kelių transporto priemonėmis (jų junginiais) viršijant didžiausiąją leidžiamąją ašies (ašių) apkrovą daugiau kaip 2 tonomis, bet ne daugiau kaip 4 tonomis, ir (ar) didžiausiąją leidžiamąją masę daugiau kaip 4 tonomis, bet ne daugiau kaip 8 tonomis,
 užtraukia baudą vairuotojams nuo trijų šimtų iki aštuonių šimtų šešiasdešimt eurų ir (ar) juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo šešių šimtų iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2243, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10371
+ 
 
 
 
 
-6. Važiavimas be leidimo kelių transporto priemonėmis (jų junginiais) viršijant leidžiamą ašies (ašių) apkrovą daugiau kaip 4 tonomis ir (ar) didžiausiąją leidžiamąją masę daugiau kaip 8 tonomis
+6. Važiavimas be leidimo kelių transporto priemonėmis (jų junginiais) viršijant didžiausiąją leidžiamąją ašies (ašių) apkrovą daugiau kaip 4 tonomis ir (ar) didžiausiąją leidžiamąją masę daugiau kaip 8 tonomis
 užtraukia baudą vairuotojams nuo devynių šimtų iki dviejų tūkstančių eurų ir (ar) juridinių asmenų vadovams ar kitiems atsakingiems asmenims, kuriems pavesta vadovauti krovinių ar keleivių vežimo veiklai, – nuo vieno tūkstančio vieno šimto penkiasdešimt iki trijų tūkstančių penkių šimtų eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2243, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10371
+ 
 
 
 
@@ -18325,7 +18334,7 @@ Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
 
 
 
-31) aplinkos apsaugos valstybinės kontrolės institucijų aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijų bei saugomų teritorijų valstybinio valdymo ir kontrolės įstaigų, kitų institucijų, kurių pareigūnams įstatymuose ir kituose teisės aktuose nustatyta tvarka suteikti įgaliojimai atlikti aplinkos apsaugos valstybinę kontrolę, – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 110, 111, 114, 235, 236, 2361, 237, 238, 239, 241, 242, 243, 2431, 244, 246, 247, 248, 249, 250, 251, 252, 253, 255, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275 straipsniuose, 276 straipsnio 1, 2, 5, 6, 7, 8 dalyse, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304, 3041, 3042, 305, 306, 307, 308, 3081, 309, 310, 311, 312, 313, 315, 316, 317, 318, 346 straipsniuose, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų; 
+31) aplinkos apsaugos valstybinės kontrolės institucijų aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijų bei saugomų teritorijų valstybinio valdymo ir kontrolės įstaigų, kitų institucijų, kurių pareigūnams įstatymuose ir kituose teisės aktuose nustatyta tvarka suteikti įgaliojimai atlikti aplinkos apsaugos valstybinę kontrolę, – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 110, 111, 114, 235, 236, 2361, 237, 238, 239, 241, 242, 243, 2431, 244, 246, 247, 248, 249, 250, 251, 252, 253, 255, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275 straipsniuose, 276 straipsnio 1, 2, 5, 6, 7, 8 dalyse, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304, 3041, 3042, 305, 306, 307, 308, 3081, 309, 310, 311, 312, 313, 315, 316, 317, 318, 346 straipsniuose, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų, o aplinkos apsaugos valstybinės kontrolės institucijų aplinkos apsaugos valstybinės kontrolės pareigūnai – ir dėl šio kodekso 491 straipsnyje numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
@@ -18333,6 +18342,7 @@ Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
 Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
+Nr. XIII-2468, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17213
  
 
 
@@ -18492,7 +18502,10 @@ Nr. XIII-2127, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08307
 
 
 
-50) Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos – dėl šio kodekso 254, 279, 286, 288, 493, 505 straipsniuose, 506 straipsnio 4 dalyje, 507, 508, 525, 526 straipsniuose numatytų administracinių nusižengimų;
+50) Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos – dėl šio kodekso 254, 279, 286, 288, 491, 493, 505 straipsniuose, 506 straipsnio 4 dalyje, 507, 508, 525, 526 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2468, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17213
+ 
 
 
 
@@ -18517,12 +18530,13 @@ Nr. XIII-2127, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08307
 
 
 
-55) Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 47 straipsnio 3 dalyje, 65 straipsnio 3 dalyje, 115, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 266 straipsniuose, 282 straipsnio 1 dalyje, 290 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 374 straipsnyje, 406 straipsnio 1, 2, 3, 5 dalyse, 408 straipsnyje, 410 straipsnio 1 dalyje, 415 straipsnyje, 416 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 417 straipsnio 1, 2, 3, 4, 6, 8 dalyse, 420 straipsnio 1, 2 dalyse, 421, 422, 424 straipsniuose, 426 straipsnio 4 dalyje, 428 straipsnio 1 dalyje, 431 straipsnio 1, 2 dalyse, 432, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 481, 484 straipsniuose, 506 straipsnio 4 dalyje, 508, 536, 537, 538, 539, 540, 541, 543 straipsniuose numatytų administracinių nusižengimų; 
+55) Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 47 straipsnio 3 dalyje, 65 straipsnio 3 dalyje, 115, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 266 straipsniuose, 282 straipsnio 1 dalyje, 290 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 374 straipsnyje, 406 straipsnio 1, 2, 3, 5 dalyse, 408 straipsnyje, 410 straipsnio 1 dalyje, 415 straipsnyje, 416 straipsnio 1, 2, 3, 4, 5, 6 dalyse, 417 straipsnio 1, 2, 3, 4, 6, 8 dalyse, 420 straipsnio 1, 2 dalyse, 421, 422, 424 straipsniuose, 426 straipsnio 4 dalyje, 428 straipsnio 1 dalyje, 431 straipsnio 1, 2 dalyse, 432, 436, 438 straipsniuose, 439 straipsnio 2 dalyje, 450, 481, 484, 491 straipsniuose, 506 straipsnio 4 dalyje, 508, 536, 537, 538, 539, 540, 541, 543 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-595, 2017-07-04, paskelbta TAR 2017-07-11, i. k. 2017-11961
 Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
 Nr. XIII-1541, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16599
 Nr. XIII-1868, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21882
+Nr. XIII-2468, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17213
  
 
 
@@ -23540,3 +23554,13 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 658, 659, 660 ir 663
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2339, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12402
 Lietuvos Respublikos administracinių nusižengimų kodekso 542 straipsnio pakeitimo įstatymas
+ 
+85.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2243, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10371
+Lietuvos Respublikos administracinių nusižengimų kodekso 459 straipsnio pakeitimo įstatymas
+ 
+86.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2468, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17213
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
