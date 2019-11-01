@@ -20,14 +20,9 @@ Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 
 
-Suvestinė redakcija nuo 2019-10-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-19
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
- 
-TAR pastaba. Jeigu iki įstatymo Nr. XIII-2283 įsigaliojimo (2019-10-01) yra pradėtas valstybei arba savivaldybei nuosavybės teise priklausančio nekilnojamojo turto, kuriam priskirta valstybinė žemė negali būti perduodama privačion nuosavybėn, pardavimas viešame aukcione, tokius žemės sklypus centralizuotai valdomo valstybės turto valdytojas išnuomoja pagal iki įstatymo Nr. XIII-2283 įsigaliojimo (2019-10-01) galiojusias nuostatas. Įsigaliojus įstatymui Nr. XIII-2283, centralizuotai valdomo valstybės turto valdytojo patikėjimo teise valdomi valstybinės žemės sklypai, kurie priskirti parduotam valstybės ar savivaldybių nekilnojamajam turtui ir dėl kurių sudarytos nuomos sutartys, per 6 mėnesius nuo įstatymo Nr. XIII-2283 įsigaliojimo (2019-10-01) centralizuotai valdomo valstybės turto valdytojo vadovo sprendimu perduodami patikėjimo teise valdyti, naudoti ir disponuoti jais Nacionalinei žemės tarnybai prie Lietuvos Respublikos žemės ūkio ministerijos.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2283, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12240
-Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 8, 9 ir 32 straipsnių pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2004-02-21:
 Nr. IX-1983, 2004-01-27, Žin., 2004, Nr. 28-868 (2004-02-21)
@@ -2723,14 +2718,17 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 4. Asmenys, turintys teisę inicijuoti žemės sklypų formavimo ir pertvarkymo projektų rengimą, prašymus leisti rengti žemės sklypų formavimo ir pertvarkymo projektus pateikia:
 
 
-1) Nacionalinės žemės tarnybos teritorinio padalinio pagal žemės sklypo buvimo vietą vadovui, kai žemės sklypų formavimo ir pertvarkymo projektus pageidaujama rengti kaimo gyvenamųjų vietovių, išskyrus miestelius, teritorijose;
+1) Nacionalinės žemės tarnybos teritorinio padalinio pagal žemės sklypo buvimo vietą vadovui, kai žemės sklypų formavimo ir pertvarkymo projektus pageidaujama rengti kaimo gyvenamųjų vietovių, išskyrus miestelius, laisvąsias ekonomines zonas ir pramonės parkus, teritorijose;
 
 
 
 
-2) savivaldybės administracijai, kai žemės sklypų formavimo ir pertvarkymo projektus pageidaujama rengti miestų ir miestelių teritorijose.
+2) savivaldybės administracijai, kai žemės sklypų formavimo ir pertvarkymo projektus pageidaujama rengti miestų ir miestelių, laisvųjų ekonominių zonų ir pramonės parkų teritorijose.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1987, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04583
+ 
 
 
 
@@ -2778,7 +2776,10 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 
 
-4) žemės sklypų formavimo ir pertvarkymo projektus, parengtus kaimo gyvenamųjų vietovių, išskyrus miestelius, teritorijose, tvirtina Nacionalinės žemės tarnybos vadovas ar jo įgaliotas teritorinio padalinio vadovas, o žemės sklypų formavimo ir pertvarkymo projektus, parengtus miestų ir miestelių teritorijose, tvirtina savivaldybės administracijos direktorius Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse nustatyta tvarka. 
+4) žemės sklypų formavimo ir pertvarkymo projektus, parengtus kaimo gyvenamųjų vietovių, išskyrus miestelius, laisvąsias ekonomines zonas ir pramonės parkus, teritorijose, tvirtina Nacionalinės žemės tarnybos vadovas ar jo įgaliotas teritorinio padalinio vadovas, o žemės sklypų formavimo ir pertvarkymo projektus, parengtus miestų ir miestelių, laisvųjų ekonominių zonų ir pramonės parkų teritorijose, tvirtina savivaldybės administracijos direktorius Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse nustatyta tvarka.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1987, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04583
+ 
 
 
 
@@ -2790,7 +2791,10 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 
 
-9. Dviejų bendrą ribą turinčių žemės sklypų perdalijimas gali būti atliekamas nerengiant žemės sklypų formavimo ir pertvarkymo projekto. Tvarka ir atvejai, kai žemės sklypai pertvarkomi nerengiant pertvarkymo projekto, nustatomi Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse. Sprendimą dėl šių perdalijimo būdu patikslintų žemės sklypų plotų ir ribų patvirtinimo pagal žemės savininkų suderintus žemės sklypų planus kaimo gyvenamųjų vietovių, išskyrus miestelius, teritorijose priima Nacionalinės žemės tarnybos vadovas ar jo įgaliotas teritorinio padalinio vadovas, o miestų ir miestelių teritorijose – savivaldybės administracijos direktorius.
+9. Dviejų bendrą ribą turinčių žemės sklypų perdalijimas gali būti atliekamas nerengiant žemės sklypų formavimo ir pertvarkymo projekto. Tvarka ir atvejai, kai žemės sklypai pertvarkomi nerengiant pertvarkymo projekto, nustatomi Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse. Sprendimą dėl šių perdalijimo būdu patikslintų žemės sklypų plotų ir ribų patvirtinimo pagal žemės savininkų suderintus žemės sklypų planus kaimo gyvenamųjų vietovių, išskyrus miestelius, laisvąsias ekonomines zonas ir pramonės parkus, teritorijose priima Nacionalinės žemės tarnybos vadovas ar jo įgaliotas teritorinio padalinio vadovas, o miestų ir miestelių, laisvųjų ekonominių zonų ir pramonės parkų teritorijose – savivaldybės administracijos direktorius.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1987, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04583
+ 
 
 
 
@@ -3931,3 +3935,8 @@ Lietuvos Respublikos žemės įstatymo Nr. I-446 32 straipsnio pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2283, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12240
 Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 8, 9 ir 32 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1987, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04583
+Lietuvos Respublikos žemės įstatymo Nr. I-446 40 straipsnio pakeitimo įstatymas
