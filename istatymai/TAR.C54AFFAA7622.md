@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2019-06-11 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
  
@@ -1683,11 +1683,12 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 
-2. Atliekant mažos vertės pirkimus, taikomos šio įstatymo I skyriaus, 31, 34 straipsnių, 58 straipsnio 1 dalies, 82 straipsnio, 86 straipsnio 5, 6, 7 ir 9 dalių, 91 straipsnio, VI ir VII skyrių nuostatos ir Viešųjų pirkimų tarnybos patvirtintame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu neskelbiamas mažos vertės pirkimas atliekamas šio įstatymo 31 straipsnio 3 dalies 2 ir 4 punktuose, 71 straipsnio 1 dalies 2 punkte, 3 dalies 2, 3 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis, 22 straipsnyje nustatytų reikalavimų, išskyrus šio įstatymo 22 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Taip pat gali būti nesilaikoma šio įstatymo 82 straipsnyje nustatytų reikalavimų, jeigu neskelbiamas mažos vertės pirkimas atliekamas vadovaujantis šio įstatymo 31 straipsnio 3 dalies 4 punkto nuostatomis. 
+2. Atliekant mažos vertės pirkimus, taikomos šio įstatymo I skyriaus, 31, 34 straipsnių, 58 straipsnio 1 dalies, 82 straipsnio, 86 straipsnio 5, 6, 7 ir 9 dalių, 91 straipsnio, VI ir VII skyrių nuostatos ir Viešųjų pirkimų tarnybos patvirtintame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu neskelbiamas mažos vertės pirkimas atliekamas šio įstatymo 31 straipsnio 3 dalies 1, 2 ir 4 punktuose, 71 straipsnio 1 dalies 2 punkte, 3 dalies 2, 3 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis, šio įstatymo 22 straipsnyje nustatytų reikalavimų, išskyrus šio įstatymo 22 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Taip pat gali būti nesilaikoma šio įstatymo 82 straipsnyje nustatytų reikalavimų, jeigu neskelbiamas mažos vertės pirkimas atliekamas vadovaujantis šio įstatymo 31 straipsnio 3 dalies 4 punkto nuostatomis. 
 2 dalies redakcija nuo 2023-01-01:
 2. Atliekant mažos vertės pirkimus, taikomos šio įstatymo I skyriaus, 26, 31, 34 straipsnių, 58 straipsnio 1 dalies, 82 straipsnio, 86 straipsnio 5, 6, 7 ir 9 dalių, 91 straipsnio, VI ir VII skyrių nuostatos ir Viešųjų pirkimų tarnybos patvirtintame mažos vertės pirkimų tvarkos apraše nustatytos taisyklės. Jeigu neskelbiamas mažos vertės pirkimas atliekamas šio įstatymo 31 straipsnio 3 dalies 1, 2 ir 4 punktuose, 71 straipsnio 1 dalies 2 punkte, 3 dalies 2, 3 ir 4 punktuose ar 5 ir 6 dalyse nustatytomis sąlygomis, 22 straipsnyje nustatytų reikalavimų, išskyrus šio įstatymo 22 straipsnio 3 dalyje nustatytą reikalavimą, gali būti nesilaikoma. Taip pat gali būti nesilaikoma šio įstatymo 82 straipsnyje nustatytų reikalavimų, jeigu neskelbiamas mažos vertės pirkimas atliekamas vadovaujantis šio įstatymo 31 straipsnio 3 dalies 4 punkto nuostatomis.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2161, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09414
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
  
 
 
@@ -1745,7 +1746,10 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 1. Perkančioji organizacija, siekdama pasirengti pirkimui ir pranešti tiekėjams apie savo pirkimo planus ir reikalavimus, gali:
 
 
-1) prašyti suteikti ir gauti nepriklausomų ekspertų, institucijų arba rinkos dalyvių konsultacijas. Šiomis konsultacijomis remiamasi pirkimo metu, jeigu dėl tokių konsultacijų nėra iškreipiama konkurencija ir pažeidžiami nediskriminavimo ir skaidrumo principai. Perkančiajai organizacijai nusprendus paskelbti kvietimą suteikti šiame punkte nurodytas konsultacijas, šis kvietimas turi būti skelbiamas Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka; 
+1) prašyti suteikti ir gauti nepriklausomų ekspertų, institucijų arba rinkos dalyvių konsultacijas, taip pat konsultuotis su visuomene. Šiomis konsultacijomis remiamasi pirkimo metu, jeigu dėl tokių konsultacijų nėra iškreipiama konkurencija ir pažeidžiami nediskriminavimo ir skaidrumo principai. Perkančiajai organizacijai nusprendus paskelbti kvietimą suteikti šiame punkte nurodytas konsultacijas, šis kvietimas turi būti skelbiamas Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -1966,7 +1970,10 @@ PIRKIMO SKELBIMAI
 3. Apie mažos vertės pirkimą gali būti neskelbiama, jeigu yra šio įstatymo 71 straipsnio 1 dalies 2 punkte, 2, 3, 5 arba 6 dalyje nustatytų sąlygų arba bent viena iš šių sąlygų: 
 
 
-1) nebuvo gauta paraiškų ar pasiūlymų dalyvauti pirkime, apie kurį buvo skelbta, arba visos pateiktos paraiškos ar pasiūlymai yra netinkami, o pirminės pirkimo sąlygos iš esmės nekeičiamos;
+1) nebuvo gauta paraiškų ar pasiūlymų dalyvauti pirkime, apie kurį buvo skelbta, arba visos pateiktos paraiškos ar pasiūlymai yra nepriimtini ar netinkami, o pirminės pirkimo sąlygos iš esmės nekeičiamos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -2303,7 +2310,18 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 
-31) kita Viešųjų pirkimų tarnybos nustatyta informacija. 
+31) informacija apie tai, kad tiekėjas, sudarius sutartį, bet ne vėliau kaip iki sutarties vykdymo pradžios, turi pateikti sutartį vykdysiančių ir perkančiosios organizacijos nurodytas užduotis atliksiančių darbuotojų sąrašą (vardus, pavardes, gimimo datas) ir jiems siūlomo mokėti darbo užmokesčio mėnesio medianą, taip pat informacija, kad sutarties vykdymo metu pasikeitus nurodytai informacijai tiekėjas nedelsdamas turi informuoti perkančiąją organizaciją ir pateikti atnaujintą nurodytų darbuotojų sąrašą ir patikslintą darbo užmokesčio mėnesio medianą, jeigu taikytina; 
+Papildyta straipsnio punktu:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
+
+
+
+
+32) kita Viešųjų pirkimų tarnybos nustatyta informacija. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -2929,7 +2947,10 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 
-4) tiekėjas pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šiame straipsnyje ir šio įstatymo 47 straipsnyje nustatytiems reikalavimams, ir perkančioji organizacija gali tai įrodyti bet kokiomis teisėtomis priemonėmis, arba tiekėjas dėl pateiktos melagingos informacijos negali pateikti patvirtinančių dokumentų, reikalaujamų pagal šio įstatymo 50 straipsnį. Šiuo pagrindu tiekėjas taip pat šalinamas iš pirkimo procedūros, kai ankstesnių procedūrų metu nuslėpė informaciją ar pateikė šiame punkte nurodytą melagingą informaciją arba tiekėjas dėl pateiktos melagingos informacijos negalėjo pateikti patvirtinančių dokumentų, reikalaujamų pagal šio įstatymo 50 straipsnį, dėl ko per pastaruosius vienus metus buvo pašalintas iš pirkimo procedūrų arba per pastaruosius vienus metus buvo priimtas ir įsiteisėjęs teismo sprendimas. Šiuo pagrindu tiekėjas taip pat pašalinamas iš pirkimo procedūros, kai vadovaujantis kitų valstybių teisės aktais ankstesnių procedūrų metu jis nuslėpė informaciją ar pateikė melagingą informaciją arba dėl melagingos informacijos pateikimo negalėjo pateikti patvirtinančių dokumentų, dėl ko per pastaruosius vienus metus buvo pašalintas iš pirkimo procedūrų arba per pastaruosius vienus metus buvo priimtas ir įsiteisėjęs teismo sprendimas ar taikomos kitos panašios sankcijos;
+4) tiekėjas pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šiame straipsnyje ir šio įstatymo 47 straipsnyje nustatytiems reikalavimams, ir perkančioji organizacija gali tai įrodyti bet kokiomis teisėtomis priemonėmis, arba tiekėjas dėl pateiktos melagingos informacijos negali pateikti patvirtinančių dokumentų, reikalaujamų pagal šio įstatymo 50 straipsnį. Šiuo pagrindu tiekėjas taip pat šalinamas iš pirkimo procedūros, kai ankstesnių procedūrų, atliktų šio įstatymo, Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo ar Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nustatyta tvarka, metu nuslėpė informaciją ar pateikė šiame punkte nurodytą melagingą informaciją arba tiekėjas dėl pateiktos melagingos informacijos negalėjo pateikti patvirtinančių dokumentų, reikalaujamų pagal šio įstatymo 50 straipsnį, dėl ko per pastaruosius vienus metus buvo pašalintas iš pirkimo procedūrų arba per pastaruosius vienus metus buvo priimtas ir įsiteisėjęs teismo sprendimas. Šiuo pagrindu tiekėjas taip pat pašalinamas iš pirkimo procedūros, kai, vadovaujantis kitų valstybių teisės aktais, ankstesnių procedūrų metu jis nuslėpė informaciją ar pateikė melagingą informaciją arba dėl melagingos informacijos pateikimo negalėjo pateikti patvirtinančių dokumentų, dėl ko per pastaruosius vienus metus buvo pašalintas iš pirkimo procedūrų arba per pastaruosius vienus metus buvo priimtas ir įsiteisėjęs teismo sprendimas ar taikomos kitos panašios sankcijos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -2939,7 +2960,10 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 
-6) tiekėjas yra neįvykdęs pirkimo sutarties, pirkimo sutarties su perkančiuoju subjektu ar koncesijos sutarties ar netinkamai ją įvykdęs ir tai buvo esminis pirkimo sutarties pažeidimas, kaip nustatyta Civiliniame kodekse (toliau – esminis pirkimo sutarties pažeidimas), dėl kurio per pastaruosius 3 metus buvo nutraukta pirkimo sutartis arba per pastaruosius 3 metus buvo priimtas ir įsiteisėjęs teismo sprendimas, kuriuo tenkinamas perkančiosios organizacijos, perkančiojo subjekto ar suteikiančiosios institucijos reikalavimas atlyginti nuostolius, patirtus dėl to, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais. Šiuo pagrindu tiekėjas taip pat pašalinamas iš pirkimo procedūros, kai, vadovaujantis kitų valstybių teisės aktais, per pastaruosius 3 metus nustatyta, kad jis, vykdydamas ankstesnę pirkimo sutartį, ankstesnę pirkimo sutartį su perkančiuoju subjektu arba ankstesnę koncesijos sutartį, pirkimo sutartyje nustatytą esminį reikalavimą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to ta ankstesnė pirkimo sutartis buvo nutraukta anksčiau, negu toje pirkimo sutartyje nustatytas jos galiojimo terminas, buvo pareikalauta atlyginti žalą ar taikomos kitos panašios sankcijos. Perkančioji organizacija iš pirkimo procedūros pašalina tiekėją ir tuo atveju, kai ji turi įtikinamų duomenų, kad tiekėjas yra įsteigtas, siekiant išvengti šio pašalinimo pagrindo taikymo;
+6) tiekėjas yra neįvykdęs pirkimo sutarties, sudarytos vadovaujantis šiuo įstatymu, Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymu ar Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymu, ar koncesijos sutarties ar netinkamai ją įvykdęs ir tai buvo esminis sutarties pažeidimas, kaip nustatyta Civiliniame kodekse (toliau – esminis pirkimo sutarties pažeidimas), dėl kurio per pastaruosius 3 metus buvo nutraukta sutartis arba per pastaruosius 3 metus buvo priimtas ir įsiteisėjęs teismo sprendimas, kuriuo tenkinamas perkančiosios organizacijos, perkančiojo subjekto ar suteikiančiosios institucijos reikalavimas atlyginti nuostolius, patirtus dėl to, kad tiekėjas sutartyje nustatytą esminę sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais, ar per pastaruosius 3 metus buvo priimtas perkančiosios organizacijos sprendimas, kad tiekėjas sutartyje nustatytą esminę sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to buvo pritaikyta sutartyje nustatyta sankcija. Šiuo pagrindu tiekėjas taip pat pašalinamas iš pirkimo procedūros, kai, vadovaujantis kitų valstybių teisės aktais, per pastaruosius 3 metus nustatyta, kad jis, vykdydamas ankstesnę pirkimo sutartį, ankstesnę pirkimo sutartį su perkančiuoju subjektu arba ankstesnę koncesijos sutartį, sutartyje nustatytą esminį reikalavimą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to ta ankstesnė sutartis buvo nutraukta anksčiau, negu toje sutartyje nustatytas jos galiojimo terminas, buvo pareikalauta atlyginti žalą ar taikomos kitos panašios sankcijos. Perkančioji organizacija iš pirkimo procedūros pašalina tiekėją ir tuo atveju, kai ji turi įtikinamų duomenų, kad tiekėjas yra įsteigtas, siekiant išvengti šio pašalinimo pagrindo taikymo; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -2959,7 +2983,10 @@ Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
 
 
 
-5. Perkančioji organizacija šio straipsnio 1 dalyje, 3 dalies 1 ir 2 punktuose, 4 dalyje nustatytais pagrindais gali nepašalinti tiekėjo iš pirkimo procedūros tik išimtiniais atvejais, kai būtina užtikrinti viešojo intereso apsaugą, įskaitant visuomenės sveikatos ir aplinkos apsaugą. 
+5. Perkančioji organizacija šio straipsnio 1, 3 ir 4 dalyse nustatytais pagrindais gali nepašalinti tiekėjo iš pirkimo procedūros tik išimtiniais atvejais, kai būtina užtikrinti viešojo intereso apsaugą, įskaitant visuomenės sveikatos ir aplinkos apsaugą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -3520,7 +3547,10 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 1) kainos ar sąnaudų ir kokybės santykį. Vertinant atsižvelgiama į kainą arba sąnaudas ir kriterijus, susijusius su pirkimo objektu, įskaitant kokybinius, aplinkosaugos ir (arba) socialinius kriterijus, pavyzdžiui:
 
 
-a) techninius pranašumus, estetines ir funkcines charakteristikas, prieinamumą, tinkamumą visiems vartotojams, socialines, aplinkosaugines ir inovatyvias charakteristikas bei sąžiningos prekybos sąlygas. Darbų pirkimuose privaloma įtraukti šį kriterijų įvertinant, kiek tiekėjo siūlomas atlyginimas pirkimo sutartį vykdysiantiems darbuotojams viršija jo arba ūkio subjekto, kurio pajėgumais remiamasi, kilmės šalyje nustatytą minimalų darbo užmokestį;
+a) techninius pranašumus, estetines ir funkcines charakteristikas, prieinamumą, tinkamumą visiems vartotojams, socialines, aplinkosaugines ir inovatyvias charakteristikas bei sąžiningos prekybos sąlygas; 
+Papunkčio pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -3593,6 +3623,14 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 10. Perkančioji organizacija gali nevertinti viso tiekėjo pasiūlymo, jeigu patikrinusi jo dalį nustato, kad, vadovaujantis šio įstatymo reikalavimais, pasiūlymas turi būti atmestas. Šios dalies nuostata netaikoma, jeigu perkančioji organizacija ketina pasinaudoti šio įstatymo 63 straipsnio 1 dalies 2 punkte nustatyta skelbiamų derybų sąlyga, kai leidžiama pakartotinai nebeskelbti skelbimo apie pirkimą.
+
+
+
+
+11. Perkančioji organizacija gali nustatyti socialinį pasiūlymų vertinimo kriterijų ir įvertinti, kiek tiekėjo ir subtiekėjo, jeigu jis pasitelkiamas, sutartį vykdysiantiems ir perkančiosios organizacijos pirkimo dokumentuose nurodytas užduotis atliksiantiems darbuotojams (toliau – nurodyti darbuotojai) siūlomo darbo užmokesčio mėnesio mediana viršija Lietuvos Respublikoje nustatytą minimalų darbo užmokestį. Tokiu atveju perkančioji organizacija privalo reikalauti, kad tiekėjas visą pirkimo sutarties vykdymo laikotarpį užtikrintų, kad nurodytų darbuotojų darbo užmokesčio mėnesio mediana būtų ne mažesnė, negu buvo nurodyta pateikiant pasiūlymą. Jeigu perkančiajai organizacijai kyla abejonių dėl tiekėjo pateiktos informacijos teisingumo, ji turi teisę kreiptis į kompetentingas institucijas, kad gautų visą reikiamą informaciją apie nurodytiems darbuotojams mokamo darbo užmokesčio mėnesio medianą. Informacija apie nurodytiems darbuotojams mokamo darbo užmokesčio mėnesio medianą perkančiajai organizacijai teikiama Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -6029,7 +6067,10 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 1. Perkančioji organizacija ne vėliau kaip per 10 dienų Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka skelbia informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus (tiekėjų grupės atveju – visus grupės narius), taip pat apie ūkio subjektus, kurių pajėgumais rėmėsi tiekėjas ir kurie su tiekėju prisiėmė solidarią atsakomybę už pirkimo sutarties įvykdymą pagal šio įstatymo 49 straipsnio 5 dalį, jeigu pažeidimas įvykdytas dėl tos pirkimo sutarties dalies, kuriai jie buvo pasitelkti, kai:
 
 
-1) sutartis nutraukta dėl esminio pirkimo sutarties pažeidimo; 
+1) sutartis nutraukta dėl esminio pirkimo sutarties pažeidimo arba priimtas perkančiosios organizacijos sprendimas, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkančioji organizacija pritaikė sutartyje nustatytą sankciją; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -6044,12 +6085,18 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 2. Šio įstatymo 46 straipsnio 4 dalies 6 punkte ir šio straipsnio 1 dalyje nurodytas terminas skaičiuojamas:
 
 
-1) jeigu tiekėjas nesikreipė į teismą, ginčydamas pirkimo sutarties nutraukimą dėl esminio pirkimo sutarties pažeidimo, – nuo šio įstatymo 102 straipsnio 4 dalyje nurodyto termino pabaigos; 
+1) jeigu tiekėjas nesikreipė į teismą, ginčydamas pirkimo sutarties nutraukimą dėl esminio pirkimo sutarties pažeidimo ar perkančiosios organizacijos sprendimą, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkančioji organizacija pritaikė sutartyje nustatytą sankciją, – nuo šio įstatymo 102 straipsnio 4 dalyje nurodyto termino pabaigos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
 
-2) jeigu tiekėjas kreipėsi į teismą, ginčydamas pirkimo sutarties nutraukimą dėl esminio pirkimo sutarties pažeidimo, – nuo teismo sprendimo, kuriuo nustatoma, kad nėra pagrindo tenkinti tiekėjo reikalavimą, įsiteisėjimo dienos; 
+2) jeigu tiekėjas kreipėsi į teismą, ginčydamas pirkimo sutarties nutraukimą dėl esminio pirkimo sutarties pažeidimo ar perkančiosios organizacijos sprendimą, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkančioji organizacija pritaikė sutartyje nustatytą sankciją, – nuo teismo sprendimo, kuriuo nustatoma, kad nėra pagrindo tenkinti tiekėjo reikalavimą, įsiteisėjimo dienos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
@@ -6707,7 +6754,9 @@ GINČŲ NAGRINĖJIMAS, ŽALOS ATLYGINIMAS, PIRKIMO SUTARTIES PRIPAŽINIMAS NEGAL
 102 straipsnis. Pretenzijos pateikimo perkančiajai organizacijai, prašymo pateikimo ar ieškinio pareiškimo teismui terminai
 
 
-1. Tiekėjas turi teisę pateikti pretenziją perkančiajai organizacijai, pateikti prašymą ar pareikšti ieškinį teismui (išskyrus ieškinį dėl pirkimo sutarties ar preliminariosios sutarties pripažinimo negaliojančia ar ieškinį dėl pirkimo sutarties nutraukimo pripažinimo nepagrįstu):
+1. Tiekėjas turi teisę pateikti pretenziją perkančiajai organizacijai, pateikti prašymą ar pareikšti ieškinį teismui (išskyrus šio straipsnio 3 ir 4 dalyse nurodytus atvejus): 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 1) per 10 dienų (supaprastintų pirkimų atveju – per 5 darbo dienas) nuo perkančiosios organizacijos pranešimo raštu apie jos priimtą sprendimą išsiuntimo tiekėjams dienos, o jeigu šis pranešimas nebuvo siunčiamas elektroninėmis priemonėmis, – per 15 dienų nuo pranešimo išsiuntimo tiekėjams dienos;
@@ -6732,7 +6781,10 @@ GINČŲ NAGRINĖJIMAS, ŽALOS ATLYGINIMAS, PIRKIMO SUTARTIES PRIPAŽINIMAS NEGAL
 
 
 
-4. Tiekėjas, manydamas, kad perkančioji organizacija nepagrįstai nutraukė pirkimo sutartį dėl esminio pirkimo sutarties pažeidimo, turi teisę pareikšti ieškinį teismui per 30 dienų nuo pirkimo sutarties nutraukimo.
+4. Tiekėjas, manydamas, kad perkančioji organizacija nepagrįstai nutraukė pirkimo sutartį dėl esminio pirkimo sutarties pažeidimo ar nepagrįstai priėmė sprendimą, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkančioji organizacija pritaikė sutartyje nustatytą sankciją, turi teisę pareikšti ieškinį teismui per 30 dienų nuo pirkimo sutarties nutraukimo ar perkančiosios organizacijos sprendimo išsiuntimo tiekėjui dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+ 
 
 
 
