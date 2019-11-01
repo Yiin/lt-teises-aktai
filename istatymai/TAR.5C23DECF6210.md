@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2019-02-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2020-03-18
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 86-2045, i. k. 0961010ISTA00I-1508
  
@@ -51,12 +51,18 @@ Vilnius
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Draudimo įmonė – Lietuvos Respublikos draudimo įstatymo (toliau – Draudimo įstatymas) nustatyta tvarka draudimo veiklos licenciją gavusi Lietuvos Respublikos įstatymų nustatyta tvarka įsteigta draudimo įmonė, steigimosi teisę ir (arba) teisę teikti paslaugas įgyvendinanti kitos Europos ekonominės erdvės valstybės narės draudimo įmonė ir Draudimo įstatymo nustatyta tvarka draudimo veiklos leidimą gavęs Lietuvos Respublikoje įsteigtas užsienio valstybės draudimo įmonės filialas, turintys teisę vykdyti draudimo veiklą.
+1. Draudimo įmonė – Lietuvos Respublikos draudimo įstatymo (toliau – Draudimo įstatymas) nustatyta tvarka draudimo veiklos licenciją gavusi Lietuvos Respublikos įstatymų nustatyta tvarka įsteigta draudimo įmonė, steigimosi teisę ir (arba) teisę teikti paslaugas įgyvendinanti kitos Europos ekonominės erdvės valstybės narės draudimo įmonė arba Draudimo įstatymo nustatyta tvarka draudimo veiklos leidimą gavęs Lietuvos Respublikoje įsteigtas užsienio valstybės draudimo įmonės filialas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2087, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07325
+ 
 
 
 
 
-2. Eksporto kredito draudėjas – kredituojantis eksportuotojas, su draudimo įmone sudaręs draudimo sutartį dėl nuostolių, patirtų negavus komerciniu kreditu atidėtų mokėjimų už eksportuotas lietuviškos kilmės prekes, turinčias Lietuvos prekybos, pramonės ir amatų rūmų išduotą prekių kilmės sertifikatą, liudijantį, kad prekės pagamintos Lietuvos Respublikoje, padengimo.
+2. Eksporto kredito draudėjas – kredituojantis eksportuotojas, su draudimo įmone sudaręs draudimo sutartį dėl nuostolių, patirtų negavus komerciniu kreditu atidėtų mokėjimų už eksportuotas prekes, turinčias Lietuvos prekybos, pramonės ir amatų rūmų išduotą prekių kilmės sertifikatą, liudijantį, kad prekės pagamintos Lietuvos Respublikoje, ar suteiktas paslaugas, padengimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2087, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07325
+ 
 
 
 
@@ -84,12 +90,18 @@ Nr. XIII-1255, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09923
 
 
 
-7. Kiti įsipareigojamieji skolos dokumentai – dokumentai, kuriais patvirtinamas skolinantis prisiimtas įsipareigojimas (neapimantis įsipareigojimų, prisiimamų išplatinant Vyriausybės vertybinius popierius, pasirašant paskolų sutartis, finansinės nuomos (lizingo) sutartis, suteikiant valstybės garantijas) grąžinti dokumentuose nurodytą pinigų sumą šiuose dokumentuose sutartomis (nustatytomis) sąlygomis (komerciniai popieriai, paprastieji ir įsakomieji vekseliai, depozitų sertifikatai ir pan.).
+7. Kiti įsipareigojamieji skolos dokumentai – dokumentai, kuriais patvirtinamas skolinantis prisiimtas įsipareigojimas (neapimantis įsipareigojimų, prisiimamų išplatinant Vyriausybės vertybinius popierius, pasirašant paskolų sutartis, finansinės nuomos (lizingo) sutartis, suteikiant valstybės garantijas) grąžinti dokumentuose nurodytą pinigų sumą šiuose dokumentuose sutartomis (nustatytomis) sąlygomis (komerciniai popieriai, paprastieji ir įsakomieji vekseliai, depozitų sertifikatai, Vyriausybės depozitinių įsipareigojimų sutartys ir pan.). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2130, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08708
+ 
 
 
 
 
-8. Kredituojantis eksportuotojas – Lietuvos Respublikoje veikiantis, ūkinę komercinę veiklą vykdantis juridinis asmuo arba juridinio asmens statuso neturintis Europos ekonominės erdvės valstybės narės įmonės filialas, kuris eksportuoja į kitas šalis lietuviškos kilmės prekes, turinčias Lietuvos prekybos, pramonės ir amatų rūmų išduotą prekių kilmės sertifikatą, liudijantį, kad prekės pagamintos Lietuvos Respublikoje, ir taiko šių prekių pirkėjui apmokėjimo už parduotas prekes atidėjimą (t. y. suteikia pirkėjui komercinį kreditą).
+8. Kredituojantis eksportuotojas – Lietuvos Respublikoje veikiantis, ūkinę komercinę veiklą vykdantis juridinis asmuo arba juridinio asmens statuso neturintis Europos ekonominės erdvės valstybės narės įmonės filialas, kuris eksportuoja į kitas šalis prekes, turinčias Lietuvos prekybos, pramonės ir amatų rūmų išduotą prekių kilmės sertifikatą, liudijantį, kad prekės pagamintos Lietuvos Respublikoje, arba kuris eksportuoja paslaugas ir taiko šių prekių ar paslaugų pirkėjui apmokėjimo už parduotas prekes ar suteiktas paslaugas atidėjimą (tai yra suteikia pirkėjui komercinį kreditą). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2087, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07325
+ 
 
 
 
@@ -134,7 +146,26 @@ Nr. XIII-1255, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09923
 
 
 
-17. Valstybės garantuojama garantijų institucija (toliau – garantijų institucija) – Vyriausybės įsteigtas juridinis asmuo, kuris garantijų institucijos garantijos gavėjams užtikrina garantijų institucijos garantuojamų įsipareigojimų vykdymą arba nuostolių, susijusių su garantijų institucijos prisiimama kredito rizika, atlyginimą. 
+17. Valstybės garantuojama garantijų institucija (toliau – garantijų institucija) – Vyriausybės įsteigtas juridinis asmuo, kuris pagal savo išduotą garantiją tos garantijos gavėjui užtikrina įsipareigojimų vykdymą toje garantijoje nustatyta suma ir sąlygomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2130, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08708
+ 
+
+
+
+
+171. Valstybės garantuojamos garantijų institucijos individuali garantija (toliau – individuali garantija) – garantijų institucijos įsipareigojimas šios institucijos garantijos gavėjui garantijoje nurodyta suma ir sąlygomis užtikrinti savo garantuojamų įsipareigojimų vykdymą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2130, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08708
+ 
+
+
+
+
+172. Valstybės garantuojamos garantijų institucijos portfelinė garantija (toliau – portfelinė garantija) – garantijų institucijos įsipareigojimas šios institucijos garantijos gavėjui garantijoje nurodyta suma ir sąlygomis užtikrinti savo garantuojamų įsipareigojimų, įtrauktų į garantuojamą portfelį, vykdymą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2130, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08708
+ 
 
 
 
@@ -149,7 +180,10 @@ Nr. XIII-1255, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09923
 
 
 
-20. Valstybės perskolinama paskola (toliau – perskolinama paskola) – Vyriausybės nustatyta tvarka iš valstybės vardu pasiskolintų lėšų Lietuvos Respublikos juridiniam asmeniui, Lietuvos Respublikoje įsteigtam Europos ekonominės erdvės valstybės narės įmonės filialui (išskyrus Lietuvos Respublikos valstybės ir savivaldybių biudžetines įstaigas) suteikiama paskola.
+20. Valstybės perskolinama paskola (toliau – perskolinama paskola) – Vyriausybės nustatyta tvarka iš valstybės vardu pasiskolintų lėšų Lietuvos Respublikos juridiniam asmeniui (išskyrus kitas, nei Valstybinio socialinio draudimo fondo valdyba prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos, Lietuvos Respublikos biudžetines įstaigas), Lietuvos Respublikoje įsteigtam Europos ekonominės erdvės valstybės narės įmonės filialui suteikiama paskola. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2130, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08708
+ 
 
 
 
@@ -170,6 +204,14 @@ Nr. XIII-1255, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09923
 
 
 24. Vidaus kreditoriai – juridiniai ar fiziniai asmenys, kurių pagrindiniai asmeniniai ir ekonominiai interesai yra Lietuvos Respublikoje, kurie nuolat veikia ar gyvena Lietuvos Respublikoje arba veikia ar gyvena kitose šalyse trumpiau negu vienus metus ir yra įsigiję Vyriausybės vertybinių popierių, suteikę paskolų pagal paskolų sutartis arba kitus įsipareigojamuosius skolos dokumentus.
+
+
+
+
+241. Vyriausybės depozitinio įsipareigojimo sutartis – sutartis, kuria patvirtinamas Vyriausybės valstybės vardu prisiimtas įsipareigojimas grąžinti iš užsienio šalies vyriausybės arba užsienio šalies skolos valdymo įstaigos, kuri įpareigota valdyti arba dalyvauja valdant valstybės skolą, gautą pinigų sumą šioje sutartyje nustatytomis sąlygomis ir tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2130, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08708
+ 
 
 
 
@@ -210,9 +252,10 @@ Nr. XIII-181, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29869
 
 
 
-2) nustato Vyriausybės vertybinių popierių charakteristikas, išleidimo į apyvartą sąlygas ir vidaus ar užsienio kreditorių, įsigijusių Vyriausybės vertybinių popierių, kolektyvinių veiksmų, susijusių su Vyriausybės vertybinių popierių emisijos (emisijų) sąlygų keitimu, nuostatas ir jų taikymo atvejus ir tvarką;
+2) nustato Vyriausybės vertybinių popierių charakteristikas, išleidimo į apyvartą sąlygas ir vidaus ar užsienio kreditorių, įsigijusių Vyriausybės vertybinių popierių, kolektyvinių veiksmų, susijusių su Vyriausybės vertybinių popierių emisijos (emisijų) sąlygų keitimu, nuostatas ir jų taikymo atvejus ir tvarką, įsipareigojimų pagal kitus įsipareigojamuosius skolos dokumentus sąlygas; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1123, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13629
+Nr. XIII-2130, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08708
  
 
 
@@ -288,7 +331,10 @@ Nr. XII-1123, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13629
 
 
 
-7) skelbia duomenis apie valstybės skolininkus ir valstybės garantuojamus skolininkus, kiek tai neprieštarauja Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo ir Lietuvos Respublikos visuomenės informavimo įstatymo nuostatoms.
+7) skelbia duomenis apie valstybės skolininkus ir valstybės garantuojamus skolininkus, laikydamasi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1). 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2130, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08708
+ 
 
 
 
@@ -363,7 +409,10 @@ Nr. XII-1123, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13629
 
 
 
-3) parduoti ar kitaip perleisti, išnuomoti, įkeisti ilgalaikio turto;
+3) parduoti ar kitaip perleisti, išnuomoti, įkeisti ilgalaikio turto, išskyrus įmonės veikloje nenaudojamą turtą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2130, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08708
+ 
 
 
 
@@ -383,7 +432,10 @@ Nr. XII-1123, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13629
 
 
 
-7) prisiimti naujų įsipareigojimų išplatinant skolos vertybinius popierius, pasirašant paskolų sutartis, finansinės nuomos (lizingo) sutartis ar kitus įsipareigojamuosius skolos dokumentus.
+7) prisiimti naujų įsipareigojimų išplatinant skolos vertybinius popierius, pasirašant paskolų sutartis (išskyrus atvejus, kai imama valstybės perskolinama paskola), finansinės nuomos (lizingo) sutartis ar kitus įsipareigojamuosius skolos dokumentus (išskyrus atvejus, kai suteikiama valstybės garantija). 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2130, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08708
+ 
 
 
 
@@ -498,35 +550,37 @@ Nr. XII-2146, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19629
 4. Garantijų institucija gali teikti garantijas dėl:
 
 
-1) iš Lietuvos Respublikos ir užsienio valstybių kredito įstaigų imamų paskolų, naudojamų investicijoms finansuoti; 
+1) iš finansų įstaigų, kurių paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, imamų paskolų, naudojamų investicijoms finansuoti; 
 
 
 
 
-2) iš Lietuvos Respublikos ir užsienio valstybių kredito įstaigų imamų paskolų, naudojamų apyvartinėms lėšoms papildyti; 
+2) iš finansų įstaigų, kurių paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, imamų paskolų, naudojamų apyvartinėms lėšoms papildyti; 
 
 
 
 
-3) naujos (nenaudotos) gamybinės įrangos ir (arba) naujų (nenaudotų) įrenginių kainos ar jos dalies sumokėjimo pagal naujos (nenaudotos) gamybinės įrangos ir (arba) naujų (nenaudotų) įrenginių finansinės nuomos (lizingo) sutartis, sudarytas su finansinės nuomos (lizingo) bendrovėmis; 
+3) gamybinės įrangos ir (arba) įrenginių kainos ar jos dalies sumokėjimo pagal gamybinės įrangos ir (arba) įrenginių finansinės nuomos (lizingo) sutartis, sudarytas su finansinės nuomos (lizingo) bendrovėmis; 
 
 
 
 
-4) piniginio reikalavimo dalinio apmokėjimo finansuotojui pagal faktoringo sutartis, skirtas kliento apyvartinėms lėšoms papildyti; 
-Papildyta straipsnio punktu:
-Nr. XIII-181, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29869
+4) piniginio reikalavimo dalinio apmokėjimo finansuotojui, kurio paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, pagal faktoringo sutartis, skirtas kliento apyvartinėms lėšoms papildyti; 
+
+
+
+
+5) dalies atidėto mokėjimo pagal kredituojančio eksportuotojo sudarytą prekių, turinčių Lietuvos prekybos, pramonės ir amatų rūmų išduotą prekių kilmės sertifikatą, liudijantį, kad prekės pagamintos Lietuvos Respublikoje, pirkimo–pardavimo sutartį ir (ar) kredituojančio eksportuotojo sudarytą paslaugų teikimo sutartį sumokėjimo ar draudimo įmonės eksporto kredito draudėjui sumokėtos draudimo išmokos dalies padengimo;
+
+
+
+
+6) piniginio reikalavimo dalinio apmokėjimo finansuotojui, kurio paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, dėl finansavimo, skirto investicijoms finansuoti ir (ar) apyvartinėms lėšoms papildyti įsigyjant obligacijų. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2087, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07325
  
-
-
-
-
-5) dalies atidėto mokėjimo pagal kredituojančio eksportuotojo sudarytą lietuviškos kilmės prekių, turinčių Lietuvos prekybos, pramonės ir amatų rūmų išduotą prekių kilmės sertifikatą, liudijantį, kad prekės pagamintos Lietuvos Respublikoje, pirkimo–pardavimo sutartį sumokėjimo ar draudimo įmonės eksporto kredito draudėjui sumokėtos draudimo išmokos dalies padengimo. 
-Papildyta straipsnio punktu:
-Nr. XIII-181, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29869
- 
-
-
 
 
 
@@ -557,7 +611,10 @@ Nr. XI-1749, 2011-11-29, Žin., 2011, Nr. 146-6855 (2011-12-01)
 
 
 
-3. Valstybės vardu gaunamų paskolų sutartys, su Vyriausybės vertybinių popierių platinimu susiję dokumentai, išvestinių finansinių priemonių sandoriai ir kiti įsipareigojamieji skolos dokumentai yra komerciniai susitarimai. Valstybės vardu gaunamų paskolų sutartis, su Vyriausybės vertybinių popierių platinimu arba su išvestinių finansinių priemonių sandoriais susijusius arba kitus įsipareigojamuosius skolos dokumentus pasirašo finansų ministras. Valstybės vardu gaunamų paskolų sutartis, su Vyriausybės vertybinių popierių platinimu susijusius dokumentus, išvestinių finansinių priemonių sandorius ir kitus įsipareigojamuosius skolos dokumentus gali pasirašyti valstybės tarnautojai, kuriems finansų ministro teikimu Vyriausybės nutarimu suteikti įgaliojimai.
+3. Valstybės vardu gaunamų paskolų sutartys, su Vyriausybės vertybinių popierių platinimu susiję dokumentai, išvestinių finansinių priemonių sandoriai ir kiti įsipareigojamieji skolos dokumentai yra komerciniai susitarimai, kuriuos pasirašo finansų ministras arba jo įgaliotas (įgalioti) finansų viceministras (viceministrai). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2130, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08708
+ 
 
 
 
@@ -617,48 +674,9 @@ Nr. XII-1123, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13629
 
 
 
-7 straipsnis. Valstybinė paskolų komisija
-
-
-1. Vyriausybė sudaro Valstybinę paskolų komisiją. Valstybinė paskolų komisija teikia pasiūlymus Vyriausybei dėl:
-
-
-1) perskolinamų paskolų teikimo valstybės investicijoms finansuoti, valstybės socialinės apsaugos fondų skoliniams įsipareigojimams dengti ir šių fondų pinigų srautams subalansuoti, valstybės nekilnojamajam turtui atnaujinti, Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme numatytų indėlių ir (ar) įsipareigojimų investuotojams draudimo išmokų mokėjimui finansuoti, Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatytiems tikslams finansuoti, valstybės garantijų, nurodytų šio įstatymo 4 straipsnio 2 dalies 1, 2, 4, 5 punktuose ir 3 dalyje, teikimo, taip pat tokių valstybės garantijų sąlygų keitimo;
-Straipsnio punkto pakeitimai:
-Nr. XIII-1787, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21240
- 
-
-
-
-
-2) suteiktų perskolinamų paskolų pagal perskolinamų paskolų sutartis ir skolinių įsipareigojimų pagal kitus įsipareigojamuosius skolos dokumentus kapitalizavimo, reikalavimų perleidimo atlygintinai, skolos perkėlimo, valstybės skolininko atleidimo nuo apskaičiuotų, bet nesumokėtų delspinigių ir delspinigių skaičiavimo sustabdymo, atleidimo nuo valiutų kursų skirtumo mokėjimo;
-
-
-
-
-3) teisės aktuose nustatytų valstybės, kaip kreditorės, teisių įgyvendinimo pagal perskolinamų paskolų sutartis ir kitus įsipareigojamuosius skolos dokumentus.
-
-
-
-
-
-
-2. Valstybinė paskolų komisija svarsto ir teikia Finansų ministerijai pasiūlymus dėl suteiktų perskolinamų paskolų grąžinimo sąlygų keitimo, jeigu numatoma keisti teisės aktuose nurodytas perskolinamų paskolų teikimo ar grąžinimo sąlygas, taip pat skolos grąžinimo sutarčių pasirašymo ar jų sąlygų keitimo, bankroto ar restruktūrizavimo bylų iškėlimo tikslingumo.
-
-
-
-
-3. Valstybinės paskolų komisijos sudėtį tvirtina Vyriausybė.
-
-
-
-
-4. Valstybinės paskolų komisijos darbo tvarką nustato Vyriausybė arba jos įgaliota institucija.
-
-
-Straipsnio pakeitimai:
-Nr. XI-1749, 2011-11-29, Žin., 2011, Nr. 146-6855 (2011-12-01)
-Nr. XII-81, 2012-12-20, Žin., 2012, Nr. 153-7831 (2012-12-29)
+7 straipsnis. Neteko galios nuo 2019-11-01
+Straipsnio naikinimas:
+Nr. XIII-2130, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08708
  
 
 
@@ -667,22 +685,22 @@ Nr. XII-81, 2012-12-20, Žin., 2012, Nr. 153-7831 (2012-12-29)
 8 straipsnis. Garantijų institucijų steigimas ir valstybės garantija už garantijų instituciją
 
 
-1. Vyriausybė turi teisę steigti garantijų institucijas, kurios užtikrintų Lietuvos Respublikos ir užsienio valstybių kredito įstaigoms, finansinės nuomos (lizingo) bendrovėms, draudimo įmonėms, piniginio reikalavimo dalinio apmokėjimo finansuotojams pagal faktoringo sutartis, kredituojantiems eksportuotojams pagal garantijas Lietuvos Respublikos juridiniams asmenims, Lietuvos Respublikoje įsteigtiems Europos ekonominės erdvės valstybių narių įmonių filialams ar Lietuvos Respublikos piliečiams arba kitiems asmenims, kuriems, vadovaujantis Europos Sąjungos teise, yra suteiktos analogiškos teisės kaip ir Lietuvos Respublikos piliečiams, teikiamų paskolų grąžinimą, naujos (nenaudotos) gamybinės įrangos ir (arba) naujų (nenaudotų) įrenginių finansinės nuomos (lizingo) sutartyse nustatytos kainos ar jos dalies sumokėjimą, piniginio reikalavimo dalinį apmokėjimą pagal faktoringo sutartis, dalies atidėto mokėjimo pagal kredituojančio eksportuotojo sudarytą pirkimo–pardavimo sutartį sumokėjimą ar draudimo įmonės eksporto kredito draudėjui sumokėtos draudimo išmokos dalies padengimą, jeigu tam tikroms programoms įgyvendinti yra numatyta lėšų tų metų valstybės biudžete ar valstybės fonduose.
+1. Vyriausybė turi teisę steigti garantijų institucijas, kurios užtikrintų finansų įstaigoms, kurių paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, finansinės nuomos (lizingo) bendrovėms, draudimo įmonėms, finansuotojams, kurių paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, pagal faktoringo ar obligacijų įsigijimo sutartis, kredituojantiems eksportuotojams pagal garantijas Lietuvos Respublikos juridiniams asmenims, Lietuvos Respublikoje įsteigtiems Europos ekonominės erdvės valstybių narių įmonių filialams ar Lietuvos Respublikos piliečiams arba kitiems asmenims, kuriems, vadovaujantis Europos Sąjungos teise, yra suteiktos analogiškos teisės kaip ir Lietuvos Respublikos piliečiams, teikiamų paskolų grąžinimą, gamybinės įrangos ir (arba) įrenginių finansinės nuomos (lizingo) sutartyse nustatytos kainos ar jos dalies sumokėjimą, piniginio reikalavimo dalinį apmokėjimą pagal faktoringo ar obligacijų įsigijimo sutartis, dalies atidėto mokėjimo pagal kredituojančio eksportuotojo sudarytą pirkimo–pardavimo ar paslaugų teikimo sutartį sumokėjimą ar draudimo įmonės eksporto kredito draudėjui sumokėtos draudimo išmokos dalies padengimą, jeigu tam tikroms programoms įgyvendinti yra numatyta lėšų tų metų valstybės biudžete ar valstybės fonduose.
 
 
 
 
-2. Už garantijų institucijos įsipareigojimų Lietuvos Respublikos ir užsienio valstybių kredito įstaigoms, finansinės nuomos (lizingo) bendrovėms, draudimo įmonėms, piniginio reikalavimo dalinio apmokėjimo finansuotojams pagal faktoringo sutartis, kredituojantiems eksportuotojams pagal garantijas įvykdymą garantuoja valstybė. Vyriausybė kiekvienais metais kiekvienai garantijų institucijai nustato įsipareigojimų pagal garantijas limitus. Šie limitai negali viršyti Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatyto limito.
+2. Už garantijų institucijos įsipareigojimų finansų įstaigoms, kurių paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, finansinės nuomos (lizingo) bendrovėms, draudimo įmonėms, finansuotojams, kurių paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, pagal faktoringo ar obligacijų įsigijimo sutartis, kredituojantiems eksportuotojams pagal garantijas įvykdymą garantuoja valstybė. Vyriausybė kiekvienais metais kiekvienai garantijų institucijai nustato įsipareigojimų pagal garantijas limitus. Šie limitai negali viršyti Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nustatyto limito.
 
 
 
 
-3. Garantijų institucijos garantijas Vyriausybės nustatyta tvarka pasirašo garantijų institucijos vadovas. Vyriausybės įsteigtų garantijų institucijų įsipareigojimai Lietuvos Respublikos ir užsienio valstybių kredito įstaigoms, finansinės nuomos (lizingo) bendrovėms, draudimo įmonėms, piniginio reikalavimo dalinio apmokėjimo finansuotojams pagal faktoringo sutartis, kredituojantiems eksportuotojams pagal garantijas prilyginami valstybės garantijai. 
+3. Garantijų institucijos garantijas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pasirašo garantijų institucijos vadovas ar jo įgaliotas asmuo. Vyriausybės įsteigtų garantijų institucijų įsipareigojimai finansų įstaigoms, kurių paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, finansinės nuomos (lizingo) bendrovėms, draudimo įmonėms, finansuotojams, kurių paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, pagal faktoringo ar obligacijų įsigijimo sutartis, kredituojantiems eksportuotojams pagal garantijas prilyginami valstybės garantijai. 
 
 
 
 
-4. Garantijų institucija, įgyvendindama valstybės vykdomas programas, Vyriausybės nustatyta tvarka nagrinėja Lietuvos Respublikos juridinių asmenų, Lietuvos Respublikoje įsteigtų Europos ekonominės erdvės valstybių narių įmonių filialų ar Lietuvos Respublikos piliečių arba kitų asmenų, kuriems, vadovaujantis Europos Sąjungos teise, yra suteiktos analogiškos teisės kaip ir Lietuvos Respublikos piliečiams, prašymus užtikrinti Lietuvos Respublikos ir užsienio valstybių kredito įstaigoms, kurios teikia jiems paskolas (investicijoms finansuoti ir apyvartinėms lėšoms papildyti), paskolų grąžinimą, naujos (nenaudotos) gamybinės įrangos ir (arba) naujų (nenaudotų) įrenginių finansinės nuomos (lizingo) sutartyse nustatytos kainos ar jos dalies sumokėjimą, piniginio reikalavimo dalinį apmokėjimą pagal faktoringo sutartis, dalies atidėto mokėjimo pagal kredituojančio eksportuotojo sudarytą pirkimo–pardavimo sutartį sumokėjimą ar draudimo įmonės eksporto kredito draudėjui sumokėtos draudimo išmokos dalies padengimą, tvarko įsipareigojimų pagal suteiktas garantijas apskaitą, kontroliuoja, kaip yra vykdomos garantijos sąlygos, ir taiko poveikio priemones garantijų sąlygų nevykdantiems garantijų institucijos skolininkams, Lietuvos Respublikos ir užsienio valstybių kredito įstaigoms, finansinės nuomos (lizingo) bendrovėms, draudimo įmonėms, piniginio reikalavimo dalinio apmokėjimo finansuotojams pagal faktoringo sutartis ir kredituojantiems eksportuotojams.
+4. Garantijų institucija, įgyvendindama valstybės vykdomas programas, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nagrinėja Lietuvos Respublikos juridinių asmenų, Lietuvos Respublikoje įsteigtų Europos ekonominės erdvės valstybių narių įmonių filialų ar Lietuvos Respublikos piliečių arba kitų asmenų, kuriems, vadovaujantis Europos Sąjungos teise, yra suteiktos analogiškos teisės kaip ir Lietuvos Respublikos piliečiams, prašymus užtikrinti finansų įstaigoms, kurių paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas ir kurios teikia jiems paskolas (investicijoms finansuoti ir apyvartinėms lėšoms papildyti), paskolų grąžinimą, gamybinės įrangos ir (arba) įrenginių finansinės nuomos (lizingo) sutartyse nustatytos kainos ar jos dalies sumokėjimą, piniginio reikalavimo dalinį apmokėjimą pagal faktoringo ar obligacijų įsigijimo sutartis, dalies atidėto mokėjimo pagal kredituojančio eksportuotojo sudarytą pirkimo–pardavimo ar paslaugų teikimo sutartį sumokėjimą ar draudimo įmonės eksporto kredito draudėjui sumokėtos draudimo išmokos dalies padengimą, tvarko įsipareigojimų pagal suteiktas garantijas apskaitą, kontroliuoja, kaip yra vykdomos garantijos sąlygos, ir taiko poveikio priemones garantijų sąlygų nevykdantiems garantijų institucijos skolininkams, finansų įstaigoms, kurių paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, finansinės nuomos (lizingo) bendrovėms, draudimo įmonėms, piniginio reikalavimo dalinio apmokėjimo finansuotojams, kurių paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, pagal faktoringo ar obligacijų įsigijimo sutartis ir kredituojantiems eksportuotojams.
 
 
 
@@ -702,6 +720,7 @@ Nr. XII-81, 2012-12-20, Žin., 2012, Nr. 153-7831 (2012-12-29)
 
 Straipsnio pakeitimai:
 Nr. XIII-181, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29869
+Nr. XIII-2087, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07325
  
 
 
@@ -1005,3 +1024,13 @@ Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1787, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21240
 Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 4, 7 ir 9 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2087, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07325
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 4 ir 8 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2130, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08708
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 3, 5 straipsnių pakeitimo ir 7 straipsnio pripažinimo netekusiu galios įstatymas
