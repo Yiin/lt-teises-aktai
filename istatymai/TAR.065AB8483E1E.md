@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-11-13
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -1527,32 +1527,131 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 
 
-24 straipsnis. Duomenys apie juridinių asmenų, kurie yra vietinių, regioninių, nacionalinių laikraščių, žurnalų leidėjai ar informacinės visuomenės informavimo priemonių valdytojai, dalyvius 
+24 straipsnis. Duomenų apie viešosios informacijos rengėjus, skleidėjus ir jų dalyvius teikimas ir skleidimas
 
 
-1. Juridiniai asmenys, kurie yra vietinių, regioninių, nacionalinių laikraščių, žurnalų leidėjai ar informacinės visuomenės informavimo priemonių valdytojai, išskyrus nurodytus šio įstatymo 22 straipsnio 8 dalyje, privalo Vyriausybės įgaliotai institucijai visuomenės informavimo srityje (toliau – Vyriausybės įgaliota institucija) šios institucijos nustatyta tvarka ir terminais pateikti duomenis apie savo dalyvius, kurie nuosavybės teise turi ar valdo ne mažiau kaip 10 procentų visų akcijų ar turto (jeigu turtas yra neakcionuotas), ir pranešti apie patikslintus duomenis, jeigu jie pasikeičia. Pranešimuose apie patikslintus duomenis turi būti nurodyti tokių dalyvių vardai ir pavardės (pavadinimai), asmens kodas (registracijos numeris), turimo turto dalis ar akcijų skaičius ir balsų dalis procentais, valdymo organai, jų nariai ir informacija apie turtinius santykius ir (ar) jungtinę veiklą, siejančią juos su kitais viešosios informacijos rengėjais ir (ar) skleidėjais, ir (ar) jų dalyviais. Jeigu juridinių asmenų dalyviai yra Lietuvos Respublikoje arba užsienio valstybėje registruoti juridiniai asmenys, turi būti nurodyti ir šių subjektų dalyviai. Vyriausybės įgaliota institucija gautus duomenis skelbia savo interneto svetainėje ne vėliau kaip per 15 dienų nuo jų gavimo dienos.
-Straipsnio dalies pakeitimai:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
- 
+1. Viešosios informacijos rengėjų ir skleidėjų informacinėje sistemoje Vyriausybės įgaliotos institucijos visuomenės informavimo srityje (toliau – Vyriausybės įgaliota institucija) nustatyta tvarka turi būti pateikiami, o jiems pasikeitus atnaujinami šie duomenys apie viešosios informacijos rengėjus ir (ar) skleidėjus, kurie yra juridiniai asmenys, išskyrus nurodytus šio įstatymo 22 straipsnio 8 dalyje, taip pat apie jų veiklą:
 
 
-
-
-2. Respublikos Prezidentas, Seimo, Vyriausybės nariai, savivaldybių tarybų nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, valstybės ir savivaldybių institucijų bei įstaigų vadovai privalo pateikti Vyriausybės įgaliotai institucijai jos nustatyta tvarka duomenis, kokių juridinių asmenų, kurie yra vietinių, regioninių, nacionalinių laikraščių, žurnalų leidėjai ar informacinės visuomenės informavimo priemonių valdytojai, dalyviai jie yra. Vyriausybės įgaliota institucija gautus duomenis skelbia savo interneto tinklalapyje.
+1) pavadinimas ir kodas;
 
 
 
 
-3. Viešosios informacijos rengėjai ir (ar) skleidėjai, jų dalyviai privalo visuomenės informavimo priemonėje paskelbti apie gautą paramą, jeigu ji viršija 10 bazinių socialinių išmokų dydį, nurodydami, kokio dydžio ir iš ko gauta parama.
+2) valdomos (valdomų) visuomenės informavimo priemonės (priemonių) pavadinimas (pavadinimai), rūšis (rūšys) ir kategorija (kategorijos);
 
 
 
 
-4. Už šio straipsnio 1 ir 2 dalyse nurodytų duomenų nepateikimą taikoma atsakomybė teisės aktų nustatyta tvarka ir kitos poveikio priemonės.
+3) kontaktiniai duomenys (elektroninio pašto adresas, telefono ryšio numeris);
+
+
+
+
+4) buveinės adresas;
+
+
+
+
+5) valdymo organų narių vardai ir pavardės;
+
+
+
+
+6) už valdomos visuomenės informavimo priemonės turinį atsakingo (atsakingų) asmens (asmenų) vardas (vardai) ir pavardė (pavardės), jeigu už turinį atsako ne juridinio asmens vadovas;
+
+
+
+
+7) dalyvių sąrašas, kuriame turi būti nurodyta: dalyvių vardai ir pavardės (jeigu dalyvis yra juridinis asmuo, pateikiamas juridinio asmens pavadinimas ir šio juridinio asmens dalyviai – fiziniai asmenys, nurodant jų vardus ir pavardes; jeigu dalyvis yra viešasis juridinis asmuo, pateikiamas jo pavadinimas), asmens kodai (jeigu dalyvis yra juridinis asmuo, pateikiamas juridinio asmens kodas; jeigu dalyvis yra užsienio valstybės fizinis asmuo, kuriam pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, pateikiama jo gimimo data ir valstybės, kuri išdavė asmens dokumentus, pavadinimas; jeigu dalyvis yra užsienio valstybės juridinis asmuo, nurodoma valstybė ir registras, kuriuose juridinis asmuo įregistruotas), nuosavybės teise turima ar valdoma juridinio asmens turto dalis procentais arba akcijų skaičius ir balsų dalis procentais;
+
+
+
+
+8) informacija apie padarytą rimtą profesinį pažeidimą, kaip jis apibrėžtas šio įstatymo 27 straipsnio 3 dalyje, ir už šį pažeidimą kompetentingos institucijos skirtą baudą arba taikytas kitas šiame įstatyme numatytas poveikio priemones;
+
+
+
+
+9) informacija apie profesinės etikos nesilaikančius viešosios informacijos rengėjus ir (ar) skleidėjus, kuriuos tokiais pripažino Visuomenės informavimo etikos komisija;
+
+
+
+
+10) informacija apie turimą (turimas) licenciją (licencijas), jeigu juridinis asmuo pagal šį įstatymą užsiima licencijuojama veikla;
+
+
+
+
+11) informacija apie viešosios informacijos rengėjui ir (ar) skleidėjui šio įstatymo nustatyta tvarka nustatytą metinę įmoką už radijo ir (ar) televizijos programų transliavimo, retransliavimo, platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą;
+
+
+
+
+12) leidinio (leidinių) tiražas (tiražai) ir kiti šio įstatymo 36 straipsnio 1 dalyje nustatyti leidybiniai duomenys, jeigu juridinis asmuo pagal šį įstatymą privalo juos nurodyti ar skelbti;
+
+
+
+
+13) metinių finansinių ataskaitų rinkinys (metinė veiklos ataskaita);
+
+
+
+
+14) informacija apie viešosios informacijos rengėjo ir (ar) skleidėjo:
+
+
+a) pajamas iš politinės reklamos;
+
+
+
+
+b) lėšas, gautas sandorio ar administracinio akto pagrindu, kurių šaltinis yra valstybės ar savivaldybės biudžetas ar kitas valstybės ar savivaldybės įsteigtas fondas, valstybės ar savivaldybės įmonė, akcinė bendrovė, uždaroji akcinė bendrovė ar kita bendrovė, kurioje valstybė ar savivaldybė turi daugiau kaip 50 procentų balsų visuotiniame akcininkų susirinkime suteikiančių akcijų arba skiria daugiau kaip pusę jų valdymo organų narių, ar šios bendrovės dukterinė bendrovė, taip pat kitas juridinis asmuo, kurio dalyvių susirinkime valstybė ar savivaldybė turi daugiau kaip 50 procentų balsų arba skiria daugiau kaip pusę jų valdymo organų narių;
+
+
+
+
+c) gautą paramą, jeigu to paties paramos teikėjo per vienerius kalendorinius metus suteiktos paramos suma viršija 10 bazinių socialinių išmokų dydį.
+
+
+
+
+
+
+
+
+2. Viešosios informacijos rengėjų ir skleidėjų informacinėje sistemoje pateikti duomenys, išskyrus fizinio asmens kodą, skelbiami viešai ir neatlygintinai Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo nustatyta tvarka.
+
+
+
+
+3. Viešosios informacijos rengėjų ir skleidėjų informacinėje sistemoje tvarkomų viešosios informacijos rengėjų ir (ar) skleidėjų, kurie yra juridiniai asmenys, dalyvių asmens duomenų tvarkymo tikslas – vienoje informacinėje sistemoje rinkti, kaupti, apdoroti, saugoti, stebėti ir neatlygintinai skelbti šio straipsnio 1 dalyje nurodytus duomenis apie viešosios informacijos rengėjus, skleidėjus, jų dalyvius ir veiklą.
+
+
+
+
+4. Viešosios informacijos rengėjų ir skleidėjų informacinės sistemos tvarkytojas turi teisę gauti iš kitų valstybės informacinių išteklių valdytojų ir (ar) tvarkytojų, taip pat kitų valstybės ir savivaldybių institucijų ir įstaigų šio straipsnio 1 dalyje nurodytus duomenis. Šiuos duomenis nurodytų valstybės informacinių išteklių valdytojai ir (ar) tvarkytojai, taip pat kitos valstybės ir savivaldybių institucijos ir įstaigos privalo pateikti Viešosios informacijos rengėjų ir skleidėjų informacinės sistemos tvarkytojui Viešosios informacijos rengėjų ir skleidėjų informacinės sistemos nuostatuose nustatyta tvarka.
+
+
+
+
+5. Pareigą Viešosios informacijos rengėjų ir skleidėjų informacinėje sistemoje pateikti šio straipsnio 1 dalyje nurodytus duomenis viešosios informacijos rengėjai ir (ar) skleidėjai turi tik tais atvejais, kai šie duomenys nėra kaupiami kituose valstybės informaciniuose ištekliuose ar valstybės ir savivaldybių institucijose ir įstaigose.
+
+
+
+
+6. Viešosios informacijos rengėjų ir skleidėjų informacinės sistemos nuostatus tvirtina Vyriausybės įgaliota institucija.
+
+
+
+
+7. Už šio straipsnio 1 dalyje nurodytų duomenų pateikimą, kai juos pateikti yra viešosios informacijos rengėjo ir (ar) skleidėjo pareiga, Viešosios informacijos rengėjų ir skleidėjų informacinės sistemos tvarkytojui yra atsakingas viešosios informacijos rengėjo ir (ar) skleidėjo vadovas ar kitas jo paskirtas atsakingas asmuo. Už minėtų duomenų nepateikimą ar klaidingų duomenų pateikimą taikoma Lietuvos Respublikos administracinių nusižengimų kodekse nustatyta atsakomybė ir kitos poveikio priemonės, kurių taikymas viešosios informacijos rengėjams ir (ar) skleidėjams yra nustatytas su viešosios informacijos rengimu ir skleidimu susijusiuose teisės aktuose. 
+Straipsnio pakeitimai:
+Nr. XI-1048, 2010-09-30, Žin., 2010, Nr. 123-6262 (2010-10-18)
 
 
 Straipsnio pakeitimai:
-Nr. XI-1048, 2010-09-30, Žin., 2010, Nr. 123-6262 (2010-10-18)
+Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
  
 
 
