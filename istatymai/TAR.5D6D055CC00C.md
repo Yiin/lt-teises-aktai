@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -1270,6 +1270,14 @@ Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
  
 
 
+
+
+13. Jeigu šio straipsnio 1 dalies 1 punkte nurodyti atvejai yra numatyti bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose, miško žemė gali būti paverčiama kitomis naudmenomis ir netaikant šio straipsnio 5 ir 6 dalyse nustatytų reikalavimų, kai tai reikalinga valstybei svarbiems projektams įgyvendinti ir kai Vyriausybė priima nutarimą dėl tam tikrų valstybinės miško žemės plotų pavertimo kitomis naudmenomis, o jeigu tai valstybinės reikšmės miškai, – ir nutarimą dėl tam tikrų valstybinės reikšmės miškų plotų išbraukimo iš valstybinės reikšmės miškų plotų.
+Papildyta straipsnio dalimi:
+Nr. XIII-1988, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04584
+ 
+
+
 Straipsnio pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. 16/07-17/07-20/08, 2009-06-22, Žin., 2009, Nr. 75-3074 (2009-06-25)
@@ -1894,3 +1902,8 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2410, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12400
 Lietuvos Respublikos miškų įstatymo Nr. I-671 4-1 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1988, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04584
+Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas
