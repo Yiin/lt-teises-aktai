@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2294490FE9DD"
 
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2517, i. k. 1041010ISTA0IX-2183
  
@@ -1917,6 +1917,34 @@ Muitinės procedūrų atlikimą reglamentuojančių muitų teisės aktų nuostat
 
 
 
+561 straipsnis. TIR įgaliotojo siuntėjo statusas
+
+
+1. Muitinės departamentas arba kita Muitinės departamento generalinio direktoriaus įgaliota muitinės įstaiga, gavę asmens prašymą, gali jam suteikti leidimą naudotis TIR įgaliotojo siuntėjo statusu, kurį įgijusiam leidimo turėtojui leidžiama įforminti prekėms TIR procedūrą – tranzito procedūrą, atliekamą vadovaujantis Muitinės konvencija dėl tarptautinio krovinių gabenimo su TIR knygelėmis (1975 m. TIR konvencija), nepateikiant prekių ir TIR knygelės muitinei.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytą TIR įgaliotojo siuntėjo statusą įgijęs asmuo šiuo statusu naudotis gali tik tuo atveju, kai TIR procedūra pradedama Lietuvos Respublikos teritorijoje.
+
+
+
+
+3. Leidimas naudotis TIR įgaliotojo siuntėjo statusu suteikiamas asmeniui, atitinkančiam Reglamento (ES) 2015/2446 191 straipsnyje nustatytus reikalavimus. Vertinant, ar asmuo atitinka Reglamento (ES) Nr. 952/2013 39 straipsnio a, b ir d punktuose nustatytus kriterijus, vadovaujamasi Reglamento (ES) 2015/2447 24, 25 ir 27 straipsniais.
+
+
+
+
+4. Leidimų naudotis TIR įgaliotojo siuntėjo statusu suteikimo, leidimų naudotis TIR įgaliotojo siuntėjo statusu suteikiamų teisių įgyvendinimo ir muitinės priežiūros tvarką nustato Muitinės departamento generalinis direktorius.
+
+
+Papildyta straipsniu:
+Nr. XIII-2355, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12388
+ 
+
+
+
+
 57 straipsnis. Laisvosios zonos
 
 
@@ -2244,3 +2272,8 @@ Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
 Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 3, 7, 15, 17 straipsnių pakeitimo ir Įstatymo papildymo 18-1 ir 18-2 straipsniais įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2355, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12388
+Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 papildymo 56-1 straipsniu įstatymas
