@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9116a35030a011e78397ae072f58c508"
 
 # Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas
 
-Suvestinė redakcija nuo 2019-06-11 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-30
  
 Įstatymas paskelbtas: TAR 2017-05-04, i. k. 2017-07551
  
@@ -1981,7 +1981,10 @@ PIRKIMO PLANAVIMAS IR PASIRENGIMAS PIRKIMUI
 1. Perkantysis subjektas, siekdamas pasirengti pirkimui ir pranešti tiekėjams apie savo pirkimų planus ir reikalavimus, gali:
 
 
-1) prašyti suteikti ir gauti nepriklausomų ekspertų, institucijų arba rinkos dalyvių konsultacijas. Šiomis konsultacijomis remiamasi pirkimo metu, jeigu dėl tokių konsultacijų nėra iškreipiama konkurencija ir pažeidžiami nediskriminavimo ir skaidrumo principai. Perkančiajam subjektui nusprendus paskelbti kvietimą suteikti šiame punkte nurodytas konsultacijas, šis kvietimas turi būti skelbiamas Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka; 
+1) prašyti suteikti ir gauti nepriklausomų ekspertų, institucijų arba rinkos dalyvių konsultacijas, taip pat konsultuotis su visuomene. Šiomis konsultacijomis remiamasi pirkimo metu, jeigu dėl tokių konsultacijų nėra iškreipiama konkurencija ir pažeidžiami nediskriminavimo ir skaidrumo principai. Perkančiajam subjektui nusprendus paskelbti kvietimą suteikti šiame punkte nurodytas konsultacijas, šis kvietimas turi būti skelbiamas Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
+ 
 
 
 
@@ -2550,7 +2553,18 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
-31) kita Viešųjų pirkimų tarnybos nustatyta informacija. 
+31) informacija apie tai, kad tiekėjas, sudarius sutartį, bet ne vėliau kaip iki sutarties vykdymo pradžios, turi pateikti sutartį vykdysiančių ir perkančiojo subjekto nurodytas užduotis atliksiančių darbuotojų sąrašą (vardus, pavardes, gimimo datas) ir jiems siūlomo mokėti darbo užmokesčio mėnesio medianą, taip pat informacija, kad sutarties vykdymo metu pasikeitus nurodytai informacijai tiekėjas nedelsdamas turi informuoti perkantįjį subjektą ir pateikti atnaujintą nurodytų darbuotojų sąrašą ir patikslintą darbo užmokesčio mėnesio medianą, jeigu taikytina; 
+Papildyta straipsnio punktu:
+Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
+ 
+
+
+
+
+32) kita Viešųjų pirkimų tarnybos nustatyta informacija. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
+ 
 
 
 
@@ -3264,7 +3278,10 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 1) kainos ar sąnaudų ir kokybės santykį. Vertinant atsižvelgiama į kainą arba sąnaudas ir kriterijus, susijusius su pirkimo objektu, įskaitant kokybinius, aplinkosaugos ir (arba) socialinius kriterijus, pavyzdžiui:
 
 
-a) techninius pranašumus, estetines ir funkcines charakteristikas, prieinamumą, tinkamumą visiems vartotojams, socialines, aplinkosaugines ir inovatyvias charakteristikas bei sąžiningos prekybos sąlygas (pavyzdžiui, taikant šį kriterijų gali būti vertinama, kiek tiekėjo siūlomas atlyginimas pirkimo sutartį vykdysiantiems darbuotojams viršija jo arba ūkio subjekto, kurio pajėgumais remiamasi, kilmės šalyje nustatytą minimalų darbo užmokestį);
+a) techninius pranašumus, estetines ir funkcines charakteristikas, prieinamumą, tinkamumą visiems vartotojams, socialines, aplinkosaugines ir inovatyvias charakteristikas bei sąžiningos prekybos sąlygas; 
+Papunkčio pakeitimai:
+Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
+ 
 
 
 
@@ -3337,6 +3354,14 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 10. Perkantysis subjektas gali nevertinti viso tiekėjo pasiūlymo, jeigu patikrinęs jo dalį nustato, kad pasiūlymas vadovaujantis šio įstatymo reikalavimais turi būti atmetamas.
+
+
+
+
+11. Perkantysis subjektas gali nustatyti socialinį pasiūlymų vertinimo kriterijų ir įvertinti, kiek tiekėjo ir subtiekėjo, jeigu jis pasitelkiamas, sutartį vykdysiantiems ir perkančiojo subjekto pirkimo dokumentuose nurodytas užduotis atliksiantiems darbuotojams (toliau – nurodyti darbuotojai) siūlomo darbo užmokesčio mėnesio mediana viršija Lietuvos Respublikoje nustatytą minimalų darbo užmokestį. Tokiu atveju perkantysis subjektas privalo reikalauti, kad tiekėjas visą pirkimo sutarties vykdymo laikotarpį užtikrintų, kad nurodytų darbuotojų darbo užmokesčio mėnesio mediana būtų ne mažesnė, negu buvo nurodyta pateikiant pasiūlymą. Jeigu perkančiajam subjektui kyla abejonių dėl tiekėjo pateiktos informacijos teisingumo, jis turi teisę kreiptis į kompetentingas institucijas, kad gautų visą reikiamą informaciją apie nurodytiems darbuotojams mokamo darbo užmokesčio mėnesio medianą. Informacija apie nurodytiems darbuotojams mokamo darbo užmokesčio mėnesio medianą perkančiajam subjektui teikiama Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
+ 
 
 
 
@@ -5657,7 +5682,10 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 1. Perkantysis subjektas ne vėliau kaip per 10 dienų Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka skelbia informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus (tiekėjų grupės atveju – visus grupės narius), taip pat apie ūkio subjektus, kurių pajėgumais rėmėsi tiekėjas ir kurie su tiekėju prisiėmė solidarią atsakomybę už pirkimo sutarties įvykdymą pagal šio įstatymo 62 straipsnio 5 dalį, jeigu pažeidimas įvykdytas dėl tos pirkimo sutarties dalies, kuriai jie buvo pasitelkti, kai:
 
 
-1) sutartis nutraukta dėl esminio pirkimo sutarties pažeidimo, kaip nustatyta Civiliniame kodekse (toliau – esminis pirkimo sutarties pažeidimas); 
+1) sutartis nutraukta dėl esminio pirkimo sutarties pažeidimo, kaip nustatyta Civiliniame kodekse (toliau – esminis pirkimo sutarties pažeidimas), arba priimtas perkančiojo subjekto sprendimas, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkantysis subjektas pritaikė sutartyje nustatytą sankciją; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
+ 
 
 
 
@@ -5672,12 +5700,18 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 2. Šio straipsnio 1 dalyje ir mutatis mutandis taikomo Viešųjų pirkimų įstatymo 46 straipsnio 4 dalies 6 punkte nurodytas terminas skaičiuojamas:
 
 
-1) jeigu tiekėjas nesikreipė į teismą, ginčydamas pirkimo sutarties nutraukimą dėl esminio pirkimo sutarties pažeidimo, – nuo šio įstatymo 108 straipsnio 4 dalyje nurodyto termino pabaigos; 
+1) jeigu tiekėjas nesikreipė į teismą, ginčydamas pirkimo sutarties nutraukimą dėl esminio pirkimo sutarties pažeidimo ar perkančiojo subjekto sprendimą, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkantysis subjektas pritaikė sutartyje nustatytą sankciją, – nuo šio įstatymo 108 straipsnio 4 dalyje nurodyto termino pabaigos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
+ 
 
 
 
 
-2) jeigu tiekėjas kreipėsi į teismą, ginčydamas pirkimo sutarties nutraukimą dėl esminio pirkimo sutarties pažeidimo, – nuo teismo sprendimo, kuriuo nustatoma, kad nėra pagrindo tenkinti tiekėjo reikalavimą, įsiteisėjimo dienos; 
+2) jeigu tiekėjas kreipėsi į teismą, ginčydamas pirkimo sutarties nutraukimą dėl esminio pirkimo sutarties pažeidimo ar perkančiojo subjekto sprendimą, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkantysis subjektas pritaikė sutartyje nustatytą sankciją, – nuo teismo sprendimo, kuriuo nustatoma, kad nėra pagrindo tenkinti tiekėjo reikalavimą, įsiteisėjimo dienos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
+ 
 
 
 
@@ -6165,7 +6199,10 @@ GINČŲ NAGRINĖJIMAS, ŽALOS ATLYGINIMAS, PIRKIMO SUTARTIES PRIPAŽINIMAS NEGAL
 108 straipsnis. Pretenzijos pateikimo perkančiajam subjektui, prašymo pateikimo ar ieškinio pareiškimo teismui terminai
 
 
-1. Tiekėjas turi teisę pateikti pretenziją perkančiajam subjektui, pateikti prašymą ar pareikšti ieškinį teismui (išskyrus ieškinį dėl pirkimo sutarties ar preliminariosios sutarties pripažinimo negaliojančia ar ieškinį dėl pirkimo sutarties nutraukimo pripažinimo nepagrįstu):
+1. Tiekėjas turi teisę pateikti pretenziją perkančiajam subjektui, pateikti prašymą ar pareikšti ieškinį teismui (išskyrus šio straipsnio 3 ir 4 dalyse nurodytus atvejus): 
+ 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 1) per 10 dienų (supaprastintų pirkimų atveju – per 5 darbo dienas) nuo perkančiojo subjekto pranešimo raštu apie jo priimtą sprendimą išsiuntimo tiekėjams dienos, o jeigu šis pranešimas nebuvo siunčiamas elektroninėmis priemonėmis, – per 15 dienų;
@@ -6190,7 +6227,10 @@ GINČŲ NAGRINĖJIMAS, ŽALOS ATLYGINIMAS, PIRKIMO SUTARTIES PRIPAŽINIMAS NEGAL
 
 
 
-4. Tiekėjas, manydamas, kad perkantysis subjektas nepagrįstai nutraukė pirkimo sutartį dėl esminio pirkimo sutarties pažeidimo, turi teisę pareikšti ieškinį teismui per 30 dienų nuo pirkimo sutarties nutraukimo.
+4. Tiekėjas, manydamas, kad perkantysis subjektas nepagrįstai nutraukė pirkimo sutartį dėl esminio pirkimo sutarties pažeidimo ar nepagrįstai priėmė sprendimą, kad tiekėjas pirkimo sutartyje nustatytą esminę pirkimo sutarties sąlygą vykdė su dideliais arba nuolatiniais trūkumais ir dėl to perkantysis subjektas pritaikė sutartyje nustatytą sankciją, turi teisę pareikšti ieškinį teismui per 30 dienų nuo pirkimo sutarties nutraukimo ar perkančiojo subjekto sprendimo išsiuntimo tiekėjui dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
+ 
 
 
 
