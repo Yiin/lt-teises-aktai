@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2018-12-22 iki 2019-10-31
+Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
+ 
+TAR pastaba. Leidimai naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis, išduoti iki įstatymo Nr. XIII-2241 įsigaliojimo (2019-11-01), galioja iki juose nurodyto laikotarpio pabaigos. Iki šio įstatymo įsigaliojimo pradėtos leidimų naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis išdavimo ar leidimų galiojimo panaikinimo procedūros tęsiamos iki šio įstatymo įsigaliojimo nustatyta tvarka.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2241, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10365
+Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 20 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2002-10-23:
 Nr. IX-1113, 2002-10-03, Žin. 2002, Nr. 101-4492 (2002-10-23), i. k. 1021010ISTA0IX-1113
@@ -189,25 +194,36 @@ Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
 
 
 
-19. Sunkiasvorė transporto priemonė – transporto priemonė, įskaitant jų junginį, kurios ašies (ašių) apkrova ir (ar) masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovą ir (ar) masę.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+19. Savaeigė žemės ūkio mašina – prie motorinių transporto priemonių nepriskiriama variklio varoma pati važiuojanti žemės ūkio mašina, skirta judėti ne keliais. Prie savaeigių žemės ūkio mašinų priskiriami kombainai, taip pat šienapjovės, smulkintuvai ir augalų purkštuvai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2241, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10365
  
 
 
 
 
-20. Techninės eismo reguliavimo priemonės – kelio ženklai, šviesoforai, atitvarai, kelių ženklinimas ir kitos techninės priemonės eismui reguliuoti.
+20. Sunkiasvorė transporto priemonė – transporto priemonė, įskaitant jų junginį, kurios ašies (ašių) apkrova ir (ar) masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovą ir (ar) masę.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+Nr. XIII-2241, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10365
  
 
 
 
 
-21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme ir Lietuvos Respublikos žemės įstatyme.
+21. Techninės eismo reguliavimo priemonės – kelio ženklai, šviesoforai, atitvarai, kelių ženklinimas ir kitos techninės priemonės eismui reguliuoti.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+Nr. XIII-2241, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10365
+ 
+
+
+
+
+22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme ir Lietuvos Respublikos žemės įstatyme.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
+Nr. XIII-2241, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10365
  
 
 
@@ -854,143 +870,260 @@ Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010IST
 
 
 
-20 straipsnis. Naudojimasis valstybinės ir vietinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis 
+20 straipsnis. Naudojimasis valstybinės ir vietinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis
 
 
-1. Naudotis valstybinės ir vietinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis galima tik suderinus su kelio savininku ir gavus jo leidimą. Leidimai važiuoti valstybinės reikšmės keliais išduodami susisiekimo ministro nustatyta tvarka, o vietinės reikšmės viešaisiais keliais – savivaldybių tarybų nustatyta tvarka, sumokėjus įstatymų nustatyto dydžio mokestį už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis. Išduodami leidimai vežti tik nedalomus krovinius ir kai tokių krovinių negalima arba netikslinga vežti kitokiomis transporto priemonėmis ir vežti dalomus krovinius šešių ar daugiau ašių transporto priemonėmis, kurias sudaro motorinė transporto priemonė su suporintais galiniais ratais ir priekaba (puspriekabė) su suporintais ratais ir kurių ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą, bendroji masė yra didesnė už didžiausiąją leidžiamąją bendrąją masę ir yra ne didesnė kaip 48 t. Mokesčio už naudojimąsi vietinės reikšmės vidaus keliais dydis gali būti nustatomas šalių (kelio savininko ir kelio naudotojo) tarpusavio sutarimu.
+1. Naudotis valstybinės ir vietinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis galima tik suderinus su kelio savininku ir gavus jo leidimą.
 
 
 
 
-2. Transporto priemonės savininko ar valdytojo tapatybę, transporto priemonės registraciją, krovinio masę ir matmenis patvirtinančių dokumentų, kurių reikia leidimui važiuoti valstybinės reikšmės keliais gauti, sąrašą nustato susisiekimo ministras, o leidimui važiuoti vietinės reikšmės viešaisiais keliais gauti – savivaldybių tarybos. Šios institucijos, nustatydamos dokumentų sąrašą, negali reikalauti, kad transporto priemonės savininkas ar valdytojas pateiktų informaciją, kurią galima gauti iš valstybės registrų ir informacinių sistemų.
+2. Leidimai naudotis valstybinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis išduodami ir naudojami susisiekimo ministro nustatyta tvarka. Leidimai naudotis vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis išduodami ir naudojami savivaldybių tarybų nustatyta tvarka. Leidimai išduodami pateikus prašymą išduoti leidimą ir sumokėjus Vyriausybės ar savivaldybių tarybų nustatyto dydžio mokestį, kuris negali būti didesnis už Kelių priežiūros ir plėtros programos finansavimo įstatyme nustatytus ribinius tarifus, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis arba pateikus važiavimo deklaraciją, kai naudojamasi keliais važiuojant Kelių priežiūros ir plėtros programos finansavimo įstatyme nurodytomis transporto priemonėmis, už kurias šis mokestis nemokamas.
 
 
 
 
-3. Leidimą važiuoti valstybinės reikšmės keliais išduoda Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos, važiavimo maršrutą suderinusi su Alytaus miesto, Druskininkų, Kauno miesto, Klaipėdos miesto, Marijampolės, Palangos miesto, Panevėžio miesto, Šiaulių miesto, Vilniaus miesto savivaldybių administracijomis, kai važiuojama jų teritorijose esančiomis gatvėmis, kurios yra valstybinės reikšmės kelių tąsa. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-757, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18808
- 
+3. Leidimą naudotis valstybinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis išduoda Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos, važiavimo maršrutą suderinusi su Alytaus miesto, Druskininkų, Kauno miesto, Klaipėdos miesto, Marijampolės, Palangos miesto, Panevėžio miesto, Šiaulių miesto, Vilniaus miesto savivaldybių administracijomis, kai važiuojama jų teritorijose esančiomis gatvėmis, kurios yra valstybinės reikšmės kelių tąsa, o leidimą naudotis vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis – savivaldybių vykdomosios institucijos (toliau kartu – leidimus išduodanti institucija).
 
 
 
 
-4. Transporto priemonės, kurių matmenys su kroviniu yra didesni už didžiausiuosius leidžiamuosius matmenis: aukštį daugiau kaip 50 cm ir (ar) plotį daugiau kaip 100 cm ir (ar) ilgį daugiau kaip 500 cm ir (ar) masė su kroviniu yra daugiau kaip du kartus didesnė už didžiausiąją leidžiamąją masę, savininkas ar valdytojas ar jo įgaliotas asmuo, prieš teikdamas prašymą išduoti leidimą, su šio straipsnio 3 dalies 1 ir 2 punktuose nurodytomis institucijomis suderina važiavimo maršrutą, kurį nurodo prašyme išduoti leidimą.
+4. Leidimo naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais nereikia, kai traktoriumi ar savaeige žemės ūkio mašina, kurių matmenys (ilgis, plotis, aukštis) su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio matmenis ir kurios kraštiniai taškai paženklinti, važiuojama į lauką, iš vieno lauko į kitą lauką ar grįžtama iš jo.
 
 
 
 
-5. Leidimas gali būti išduodamas:
+5. Leidimas naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis likviduoti įvykį ir šalinti jo padarinius išduodamas ne vėliau kaip per vieną darbo dieną po prašymo išduoti leidimą ir kitų dokumentų ir duomenų, kurių reikia leidimui gauti, pateikimo leidimus išduodančiai institucijai ir nesumokėjus mokesčio už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis; šis mokestis turi būti sumokėtas ne vėliau kaip per 2 darbo dienas po leidimo išdavimo dienos. Įvykis suprantamas taip, kaip jis apibrėžtas Lietuvos Respublikos civilinės saugos įstatyme.
 
 
-1) važiuoti vieną kartą, mėnesiui arba metams, jeigu transporto priemonės su kroviniu ar be jo matmenys yra didesni už didžiausiuosius leidžiamuosius matmenis: aukštį iki 50 cm (įskaitytinai) ir (ar) plotį iki 100 cm (įskaitytinai), ir (ar) ilgį iki 500 cm (įskaitytinai);
 
 
+6. Mokesčio už naudojimąsi vietinės reikšmės vidaus keliais dydis nustatomas šalių (kelio savininko ir kelio naudotojo) tarpusavio susitarimu.
 
 
-2) važiuoti vieną kartą, jeigu transporto priemonės su kroviniu ar be jo matmenys yra didesni už didžiausiuosius leidžiamuosius matmenis: aukštį daugiau kaip 50 cm ir (ar) plotį daugiau kaip 100 cm, ir (ar) ilgį daugiau kaip 500 cm;
 
 
+7. Leidimas naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis išduodamas, kai vežamas:
 
 
-3) važiuoti vieną kartą arba mėnesiui, jeigu transporto priemonės su kroviniu ar be jo ašies (ašių) apkrova yra didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą ne daugiau kaip 4 t;
+1) nedalijamas krovinys ir kai tokio krovinio negalima arba netikslinga vežti kitokia transporto priemone taip, kad jį vežančios transporto priemonės matmenys, ašies (ašių) apkrova ir (ar) masė su kroviniu nebūtų didesni už didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio techninius parametrus; nedalijamas krovinys yra toks krovinys, kurio negalima padalyti į kelis krovinius taip, kad jį vežančios transporto priemonės matmenys, ašies (ašių) apkrova ir (ar) masė su kroviniu nebūtų didesni už didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio techninius parametrus;
 
 
 
 
-4) važiuoti vieną kartą, jeigu transporto priemonės ašies (ašių) apkrova su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą nuo 4,1 t iki 8 t;
+2) dalijamas krovinys šešių ar daugiau ašių sunkiasvore transporto priemone, kurią sudaro motorinė transporto priemonė ir priekaba (puspriekabė), kurios ne mažiau kaip penkių ašių ratai yra suporinti, ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą ir kurios masė yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio masę, tačiau yra ne didesnė kaip 48 t. 
 
 
 
 
-5) važiuoti vieną kartą, jeigu transporto priemonės masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamąją masę;
 
 
+8. Norint gauti leidimą naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis, leidimus išduodančiai institucijai būtina pateikti: 
 
 
-6) važiuoti mėnesiui, jeigu šešių ar daugiau ašių transporto priemonės, kurią sudaro motorinė transporto priemonė su suporintais galiniais ratais ir priekaba (puspriekabe) su suporintais ratais ir kurios ašies (ašių) apkrova ne didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą, bendroji masė yra didesnė už didžiausiąją leidžiamąją bendrąją masę ir yra ne didesnė kaip 48 tonos. 
-Papildyta straipsnio punktu:
-Nr. XII-1843, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10589
- 
+1) leidimus išduodančios institucijos nustatytos formos važiavimo deklaraciją arba prašymą išduoti leidimą;
 
 
 
 
+2) detalų važiavimo į vieną pusę maršrutą, kai prašoma išduoti leidimą važiuoti vieną kartą;
 
 
-6. Leidimas neišduodamas, jeigu:
 
 
-1) pateikiami nustatytų reikalavimų neatitinkantys, nevisiškai ar neteisingai užpildyti dokumentai ir transporto priemonės savininkas ar valdytojas neįvykdo reikalavimo per 2 darbo dienas pateikti trūkstamus dokumentus ar ištaisyti trūkumus;
+3) traktoriaus arba savaeigės mašinos registracijos liudijimo kopiją, jeigu jie registruoti ne Lietuvos Respublikoje.
 
 
 
 
-2) sunkiasvorės transporto priemonės masė su kroviniu yra didesnė už transporto priemonės gamintojo nustatytą didžiausiąją leidžiamąją masę;
 
 
+9. Leidimas naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis išduodamas važiuoti vieną kartą, mėnesiui arba metams. Vieno važiavimo metu gali būti naudojamas tik vienas leidimas naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis.
 
 
-3) nesumokėta valstybės rinkliava už leidimo išdavimą ir (ar) mokestis už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis;
 
 
+10. Leidimas naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis vieną kartą išduodamas, jeigu:
 
 
-4) šio straipsnio 3 dalyje nurodytos institucijos nesuderino važiavimo valstybinės reikšmės keliais maršruto;
+1) transporto priemonės matmenys su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio matmenis;
 
 
 
 
-5) sunkiasvorės transporto priemonės ašies (ašių) apkrova yra didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą daugiau kaip 8 t.
+2) transporto priemonės ašies (ašių) apkrova su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovą ne daugiau kaip 8 t;
 
 
 
 
+3) transporto priemonės masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio masę.
 
 
-7. Leidimas išduodamas arba motyvuotai atsisakoma jį išduoti ne vėliau kaip per 5 darbo dienas po prašymo išduoti leidimą pateikimo.
 
 
 
 
-8. Leidimas panaikinamas, o sumokėtas mokestis grąžinamas, jeigu transporto priemonės savininkas ar valdytojas atsisako leidimo iki jo galiojimo pradžios.
+11. Leidimas naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis mėnesiui išduodamas, jeigu:
 
 
+1) transporto priemonės matmenys su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio matmenis: aukštį ne daugiau kaip 50 cm ir (ar) plotį ne daugiau kaip 100 cm, ir (ar) ilgį ne daugiau kaip 500 cm;
 
 
-9. Jeigu nustatoma, kad transporto priemonės faktiniai matmenys yra didesni už leidime nurodytus matmenis daugiau kaip 5 cm ir (ar) ašies (ašių) faktinė apkrova yra didesnė už leidime nurodytą apkrovą daugiau kaip 0,6 t ir (ar) faktinė bendroji masė yra didesnė už leidime nurodytą masę daugiau kaip 1 t, mutatis mutandis taikomi šio straipsnio 10 dalies 1, 2 ir 3 punktuose nustatyti reikalavimai.
 
 
+2) transporto priemonės ašies (ašių) apkrova su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovą ne daugiau kaip 4 t;
 
 
-10. Jeigu nustatoma, kad transporto priemonės matmenys su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamuosius matmenis: ilgį daugiau kaip 1 m, aukštį daugiau kaip 10 cm, plotį daugiau kaip 9 cm ir (ar) ašies (ašių) apkrova su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą daugiau kaip 0,6 t ir (ar) bendroji masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamąją masę daugiau kaip 1 t, o jos savininkas ar valdytojas (vairuotojas) neturi leidimo:
 
 
-1) transporto priemonei leidžiama važiuoti tik įforminus administracinį teisės pažeidimą ir gavus leidimą. Jeigu leidimas važiuoti tokia transporto priemone negali būti išduotas, turi būti sumokėtas mokestis už nuvažiuotą maršrutą, o toliau transporto priemonei važiuoti turi būti draudžiama iki tol, kol didžiagabarite ir (ar) sunkiasvore transporto priemone vežamas krovinys nebus nukrautas arba krovinys nebus perkrautas į kitą transporto priemonę, kuriai yra išduotas leidimas vežti tokį krovinį;
-Straipsnio punkto pakeitimai:
-Nr. XII-1843, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10589
- 
+3) šešių ar daugiau ašių transporto priemonės, kurią sudaro motorinė transporto priemonė ir priekaba (puspriekabė), kurios ne mažiau kaip penkių ašių ratai yra suporinti, ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovą, o masė yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio masę, tačiau yra ne didesnė kaip 48 t.
 
 
 
 
-2) transporto priemonei leidžiama įvažiuoti į Lietuvos Respublikos teritoriją tik gavus leidimą važiuoti visą maršrutą;
 
 
+12. Leidimas naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis metams išduodamas, jeigu:
 
 
-3) transporto priemonė iš Lietuvos Respublikos gali išvažiuoti tik įforminus administracinį teisės pažeidimą ir sumokėjus mokestį už nuvažiuotą visą maršrutą.
+1) transporto priemonės matmenys su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamus naudojantis keliais transporto priemonės ar jų junginio matmenis: aukštį ne daugiau kaip 50 cm ir (ar) plotį ne daugiau kaip 100 cm, ir (ar) ilgį ne daugiau kaip 500 cm;
 
 
 
 
+2) šešių ar daugiau ašių transporto priemonės, kurią sudaro motorinė transporto priemonė ir priekaba (puspriekabė), kurios ne mažiau kaip penkių ašių ratai yra suporinti, ašies (ašių) apkrova yra ne didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovą, o masė yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio masę, tačiau yra ne didesnė kaip 48 t.
 
 
-11. Platesnėmis kaip 3,5 m arba ilgesnėmis kaip 24,0 m transporto priemonėmis leidžiama važiuoti šviesiuoju paros metu esant geram matomumui, o tamsiuoju paros metu ar esant blogam matomumui – tik lydint automobiliui su įjungtais oranžiniais žybčiojančiais švyturėliais. Važiuojant platesnėmis kaip 4,0 m arba ilgesnėmis kaip 25,0 m didžiagabaritėmis transporto priemonėmis, visais atvejais šias transporto priemones turi lydėti automobilis su įjungtais oranžiniais žybčiojančiais švyturėliais. Jeigu transporto priemonių junginys yra platesnis kaip 4,5 m ir (ar) ilgesnis kaip 30 m, jį turi lydėti policijos automobilis. 
+
+
+
+
+13. Leidimas naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis vieną kartą išduodamas 7 kalendorinių dienų laikotarpiui ir galioja važiuoti į vieną pusę leidime nurodytu maršrutu. Leidimas galioja nuo leidime nurodyto laikotarpio pradžios dienos nulis valandų nulis minučių arba nuo leidimo išdavimo momento, jeigu leidimas išduotas leidimo galiojimo laikotarpio pradžios dieną, iki laikotarpio galiojimo pabaigos dienos dvidešimt ketvirtos valandos nulis minučių.
+
+
+
+
+14. Leidimas naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis mėnesiui arba metams išduodamas atitinkamai 30 kalendorinių dienų arba 12 mėnesių laikotarpiui. Leidimas galioja nuo leidime nurodyto laikotarpio pradžios dienos nulis valandų nulis minučių arba nuo leidimo išdavimo momento, jeigu leidimas išduotas leidimo galiojimo laikotarpio pradžios dieną, iki laikotarpio galiojimo pabaigos dienos dvidešimt ketvirtos valandos nulis minučių.
+
+
+
+
+15. Leidimas naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis neišduodamas, jeigu:
+
+
+1) pateikiami ne visi arba neteisingi duomenys ir dokumentai, kurių reikia leidimui gauti;
+
+
+
+
+2) transporto priemonės masė su kroviniu ar be jo yra didesnė už transporto priemonės gamintojo nustatytą didžiausiąją leidžiamąją masę;
+
+
+
+
+3) nesumokėta nustatyto dydžio valstybės rinkliava už leidimo išdavimą ir (ar) Vyriausybės ar savivaldybių tarybų nustatyto dydžio mokestis, kuris negali būti didesnis už Kelių priežiūros ir plėtros programos finansavimo įstatyme nustatytus ribinius tarifus, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis, išskyrus Kelių priežiūros ir plėtros programos finansavimo įstatyme nurodytas didžiagabarites ir (ar) sunkiasvores transporto priemones, už kurias šis mokestis nemokamas, arba jeigu toks mokestis gali būti sumokėtas ne vėliau kaip po 2 darbo dienų po leidimo išdavimo dienos;
+
+
+
+
+4) kelio savininkas nesuderino važiavimo maršruto;
+
+
+
+
+5) transporto priemonės ašies (ašių) apkrova yra didesnė už didžiausiąją leidžiamą naudojantis keliais transporto priemonės ar jų junginio ašies (ašių) apkrovą daugiau kaip 8 t.
+
+
+
+
+
+
+16. Leidimas naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis išduodamas ne vėliau kaip per 3 darbo dienas po prašymo išduoti leidimą ir kitų dokumentų ir duomenų, kurių reikia leidimui gauti, gavimo leidimus išduodančioje institucijoje dienos ir apie tai informuojamas didžiagabaritės ir (ar) sunkiasvorės transporto priemonės savininkas ar valdytojas. Kai pateikiamas netinkamai užpildytas prašymas išduoti leidimą, su prašymu išduoti leidimą pateikiami ne visi ar reikalavimų neatitinkantys, netinkamai užpildyti dokumentai, leidimus išduodanti institucija ne vėliau kaip per 2 darbo dienas nuo prašymo išduoti leidimą gavimo leidimus išduodančioje institucijoje dienos apie tai informuoja didžiagabaritės ir (ar) sunkiasvorės transporto priemonės savininką ar valdytoją. Tokiu atveju leidimus išduodanti institucija išduoda leidimą arba motyvuotai atsisako jį išduoti ne vėliau kaip per 3 darbo dienas nuo tinkamai užpildyto prašymo išduoti leidimą ir (ar) trūkstamų dokumentų ar duomenų gavimo leidimus išduodančioje institucijoje dienos.
+
+
+
+
+17. Leidimas naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis laikomas išduotu, kai leidimus išduodanti institucija gavo važiavimo deklaraciją ir kitus dokumentus ir duomenis, kurių reikia leidimui gauti. 
+
+
+
+
+18. Leidimas naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis panaikinamas ir sumokėtas Vyriausybės ar savivaldybių tarybų nustatyto dydžio mokestis, kuris negali būti didesnis už Kelių priežiūros ir plėtros programos finansavimo įstatyme nustatytus ribinius tarifus, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis grąžinamas arba transporto priemonės savininko ar valdytojo prašymu įskaitomas kitam važiavimui, jeigu leidimus išduodanti institucija:
+
+
+1) likus ne mažiau kaip vienai valandai iki darbo dienos, esančios prieš leidime nurodyto laikotarpio pradžios dieną, darbo laiko institucijoje pabaigos gauna transporto priemonės savininko ar valdytojo pateiktą prašymą panaikinti leidimą (leidimas turi būti panaikintas iki jo galiojimo pradžios);
+
+
+
+
+2) nustato, kad leidimas buvo išduotas esant šio straipsnio 15 dalyje nurodytoms aplinkybėms. Leidimas turi būti panaikintas per vieną darbo dieną po tokių aplinkybių nustatymo.
+
+
+
+
+
+
+19. Jeigu nustatoma, kad didžiagabaritės ir (ar) sunkiasvorės transporto priemonės faktiniai matmenys, ašies (ašių) apkrova ir (ar) masė, kurie yra didesni už didžiausiuosius leidžiamus naudojantis keliais transporto priemonių ar jų junginių techninius parametrus, yra didesni už leidime naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis nurodytus matmenis, ašies (ašių) apkrovą ir (ar) masę, laikoma, kad jos vairuotojas neturi leidimo, ir tokiai didžiagabaritei ir (ar) sunkiasvorei transporto priemonei leidžiama: 
+
+
+1) važiuoti tik įforminus administracinį nusižengimą ir gavus naują leidimą naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis šio straipsnio 2 dalyje nustatyta tvarka; jeigu leidimas naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant tokia transporto priemone negali būti išduotas, už nuvažiuotą maršrutą turi būti sumokėtas Vyriausybės ar savivaldybių tarybų nustatyto dydžio mokestis, kuris negali būti didesnis už Kelių priežiūros ir plėtros programos finansavimo įstatyme nustatytus ribinius tarifus, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis, išskyrus Kelių priežiūros ir plėtros programos finansavimo įstatyme nurodytas didžiagabarites ir (ar) sunkiasvores transporto priemones, už kurias šis mokestis nemokamas, o transporto priemonei turi būti draudžiama važiuoti toliau tol, kol transporto priemone vežamas krovinys nebus nukrautas arba krovinys nebus perkrautas į kitą transporto priemonę, kuriai yra išduotas leidimas;
+
+
+
+
+2) įvažiuoti į Lietuvos Respublikos teritoriją tik gavus naują leidimą naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis šio straipsnio 2 dalyje nustatyta tvarka;
+
+
+
+
+3) išvažiuoti iš Lietuvos Respublikos teritorijos tik įforminus administracinį nusižengimą ir sumokėjus Vyriausybės ar savivaldybių tarybų nustatyto dydžio mokestį, kuris negali būti didesnis už Kelių priežiūros ir plėtros programos finansavimo įstatyme nustatytus ribinius tarifus, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis už visą nuvažiuotą maršrutą, išskyrus Kelių priežiūros ir plėtros programos finansavimo įstatyme nurodytas didžiagabarites ir (ar) sunkiasvores transporto priemones, už kurias šis mokestis nemokamas.
+
+
+
+
+
+
+20. Jeigu nustatoma, kad didžiagabaritės ir (ar) sunkiasvorės transporto priemonės faktiniai matmenys su kroviniu ar be jo yra didesni už didžiausiuosius leidžiamus naudojantis keliais transporto priemonių ar jų junginių matmenis: ilgį daugiau kaip 1 m, aukštį daugiau kaip 10 cm, plotį daugiau kaip 9 cm, ir (ar) ašies (ašių) apkrova su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamąją ašies (ašių) apkrovą daugiau kaip 0,6 t, ir (ar) bendroji masė su kroviniu ar be jo yra didesnė už didžiausiąją leidžiamąją masę daugiau kaip 1 t, o jos vairuotojas neturi leidimo, tokiai didžiagabaritei ir (ar) sunkiasvorei transporto priemonei leidžiama:
+
+
+1) važiuoti tik įforminus administracinį nusižengimą ir gavus leidimą naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis šio straipsnio 2 dalyje nustatyta tvarka; jeigu leidimas naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant tokia didžiagabarite ir (ar) sunkiasvore transporto priemone negali būti išduotas, už nuvažiuotą maršrutą turi būti sumokėtas Vyriausybės ar savivaldybių tarybų nustatyto dydžio mokestis, kuris negali būti didesnis už Kelių priežiūros ir plėtros programos finansavimo įstatyme nustatytus ribinius tarifus, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis, išskyrus Kelių priežiūros ir plėtros programos finansavimo įstatyme nurodytas didžiagabarites ir (ar) sunkiasvores transporto priemones, už kurias šis mokestis nemokamas, o transporto priemonei turi būti draudžiama važiuoti toliau tol, kol transporto priemone vežamas krovinys nebus nukrautas arba krovinys nebus perkrautas į kitą transporto priemonę, kuriai yra išduotas leidimas; 
+
+
+
+
+2) įvažiuoti į Lietuvos Respublikos teritoriją tik gavus leidimą naudotis valstybinės reikšmės ar vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis šio straipsnio 2 dalyje nustatyta tvarka;
+
+
+
+
+3) išvažiuoti iš Lietuvos Respublikos teritorijos tik įforminus administracinį nusižengimą ir sumokėjus Vyriausybės ar savivaldybių tarybų nustatyto dydžio mokestį, kuris negali būti didesnis už Kelių priežiūros ir plėtros programos finansavimo įstatyme nustatytus ribinius tarifus, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis už visą nuvažiuotą maršrutą, išskyrus Kelių priežiūros ir plėtros programos finansavimo įstatyme nurodytas didžiagabarites ir (ar) sunkiasvores transporto priemones, už kurias šis mokestis nemokamas.
+
+
+
+
+
+
+21. Didžiagabarites ir (ar) sunkiasvores transporto priemones turi lydėti:
+
+
+1) ne mažiau kaip vienas automobilis su įjungtais oranžiniais žybčiojančiais švyturėliais, jeigu didžiagabaritės ir (ar) sunkiasvorės transporto priemonės plotis su kroviniu ar be jo yra nuo 3,56 iki 4,00 m;
+
+
+
+
+2) ne mažiau kaip du automobiliai su įjungtais oranžiniais žybčiojančiais švyturėliais, po vieną priekyje ir gale, jeigu didžiagabaritės ir (ar) sunkiasvorės transporto priemonės plotis su kroviniu ar be jo yra nuo 4,01 iki 4,50 m ir (ar) ilgis nuo 24,00 iki 30,00 m;
+
+
+
+
+3) policijos automobilis priekyje ir automobilis su įjungtais oranžiniais žybčiojančiais švyturėliais gale, jeigu didžiagabaritės ir (ar) sunkiasvorės transporto priemonės plotis su kroviniu ar be jo yra didesnis kaip 4,50 m ir (ar) ilgis didesnis kaip 30,00 m.
+
+
 
 
 Straipsnio pakeitimai:
 Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
+Nr. XIII-2241, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10365
  
 
 
@@ -1189,3 +1322,8 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 20 straipsnio pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1788, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21116
 Lietuvos Respublikos kelių įstatymo Nr. I-891 16 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2241, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10365
+Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 20 straipsnių pakeitimo įstatymas
