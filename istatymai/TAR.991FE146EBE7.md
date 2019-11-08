@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.991FE146EBE7"
 
 # Lietuvos Respublikos vaikų išlaikymo išmokų įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-11-07
+Suvestinė redakcija nuo 2019-11-08 iki 2022-06-28
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 144-5464, i. k. 1061010ISTA000X-987
  
@@ -164,6 +164,10 @@ Vaikas turi teisę į išmokas, jeigu kreipiantis ir priimant sprendimą dėl i�
 
 
 1) vaikas yra Lietuvos Respublikos pilietis, asmuo be pilietybės arba užsienietis, nuolat gyvenantis Lietuvos Respublikoje, kurio duomenys apie gyvenamąją vietą Lietuvos Respublikoje, o neturinčio gyvenamosios vietos – apie savivaldybę, kurios teritorijoje jis gyvena, yra įrašyti į Lietuvos Respublikos gyventojų registrą (toliau – Gyventojų registras); 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos vaikų išlaikymo išmokų įstatymo (2017 m. rugsėjo 28 d. redakcija; TAR, 2017-10-09, Nr. 16000) 7 straipsnio 1, 3 punktai tiek, kiek juose nustatyta būtina paskirtų išmokų mokėjimo sąlyga vaikui ir pareiškėjui nuolat gyventi Lietuvos Respublikoje, prieštarauja Lietuvos Respublikos Konstitucijos 38 straipsnio 2 daliai, 39 straipsnio 3 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
+ 
 
 
 
@@ -174,6 +178,9 @@ Vaikas turi teisę į išmokas, jeigu kreipiantis ir priimant sprendimą dėl i�
 
 
 3) pareiškėjas yra Lietuvos Respublikos pilietis, asmuo be pilietybės arba užsienietis, nuolat gyvenantis Lietuvos Respublikoje, kurio duomenys apie gyvenamąją vietą Lietuvos Respublikoje, o neturinčio gyvenamosios vietos – apie savivaldybę, kurios teritorijoje jis gyvena, yra įrašyti į Gyventojų registrą.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos vaikų išlaikymo išmokų įstatymo (2017 m. rugsėjo 28 d. redakcija; TAR, 2017-10-09, Nr. 16000) 7 straipsnio 1, 3 punktai tiek, kiek juose nustatyta būtina paskirtų išmokų mokėjimo sąlyga vaikui ir pareiškėjui nuolat gyventi Lietuvos Respublikoje, prieštarauja Lietuvos Respublikos Konstitucijos 38 straipsnio 2 daliai, 39 straipsnio 3 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
  
 
 
@@ -242,6 +249,10 @@ Pareiškėjas, kreipdamasis į išmokų administratorių, Lietuvos Respublikos V
 
 
 1) vaikas neatitinka šio įstatymo 7 straipsnio 1 punkte nurodytos sąlygos – nuo faktinių aplinkybių atsiradimo dienos;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos vaikų išlaikymo išmokų įstatymo (2017 m. rugsėjo 28 d. redakcija; TAR, 2017-10-09, Nr. 16000) 10 straipsnio 1 dalies 1, 3 punktai prieštarauja Lietuvos Respublikos Konstitucijos 38 straipsnio 2 daliai, 39 straipsnio 3 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
+ 
 
 
 
@@ -252,6 +263,10 @@ Pareiškėjas, kreipdamasis į išmokų administratorių, Lietuvos Respublikos V
 
 
 3) pareiškėjas neatitinka šio įstatymo 7 straipsnio 3 punkte nurodytos sąlygos – nuo faktinių aplinkybių atsiradimo dienos;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos vaikų išlaikymo išmokų įstatymo (2017 m. rugsėjo 28 d. redakcija; TAR, 2017-10-09, Nr. 16000) 10 straipsnio 1 dalies 1, 3 punktai prieštarauja Lietuvos Respublikos Konstitucijos 38 straipsnio 2 daliai, 39 straipsnio 3 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
+ 
 
 
 
@@ -464,7 +479,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
  
 
@@ -488,3 +503,8 @@ Lietuvos Respublikos vaikų išlaikymo fondo įstatymo Nr. X-987 pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-928, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21601
 Lietuvos Respublikos vaikų išlaikymo fondo įstatymo Nr. X-987 pakeitimo įstatymo Nr. XIII-650 1 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT44-N13/2019, 2019-11-08, paskelbta TAR 2019-11-08, i. k. 2019-17963
+Dėl Lietuvos Respublikos vaikų išlaikymo fondo įstatymo ir Lietuvos Respublikos vaikų išlaikymo išmokų įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai
