@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2019-07-27 iki 2019-11-11
+Suvestinė redakcija nuo 2019-11-12 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -3387,7 +3387,17 @@ Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
 
 
 
-2. Malonės suteikimo tvarką nustato Respublikos Prezidentas.
+2. Respublikos Prezidentas gali patenkinti nuteistojo malonės prašymą ir tuo atveju, jeigu, susitarus su užsienio valstybe, siekiama sugrąžinti į Lietuvos Respubliką toje užsienio valstybėje esantį Lietuvos Respublikos pilietį, kuris veikdamas Lietuvos Respublikos valstybės interesais užsienio valstybėje yra nuteistas ar jo atžvilgiu vykdomas baudžiamasis persekiojimas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2502, 2019-11-07, paskelbta TAR 2019-11-11, i. k. 2019-18050
+ 
+
+
+
+
+3. Malonės suteikimo tvarką nustato Respublikos Prezidentas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2502, 2019-11-07, paskelbta TAR 2019-11-11, i. k. 2019-18050
  
 
 
@@ -12057,3 +12067,8 @@ Lietuvos Respublikos baudžiamojo kodekso 42, 43, 46, 47, 48, 49, 50, 51, 55, 67
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
 Lietuvos Respublikos baudžiamojo kodekso 8, 95, 205, 206, 207 straipsnių ir priedo pakeitimo ir Kodekso papildymo 100-3 straipsniu įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2502, 2019-11-07, paskelbta TAR 2019-11-11, i. k. 2019-18050
+Lietuvos Respublikos baudžiamojo kodekso 79 straipsnio pakeitimo įstatymas
