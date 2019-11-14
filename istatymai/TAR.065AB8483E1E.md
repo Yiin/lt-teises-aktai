@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-11-13
+Suvestinė redakcija nuo 2019-11-14 iki 2020-01-16
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -4337,7 +4337,15 @@ Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 
 
 
-11) atlieka viešosios informacijos stebėseną visuomenės informavimo priemonėse, išskyrus radijo ir televizijos programų stebėseną.
+11) atlieka viešosios informacijos stebėseną visuomenės informavimo priemonėse, išskyrus radijo ir televizijos programų stebėseną;
+
+
+
+
+12) įgyvendina 1981 m. sausio 28 d. Strasbūre sudarytos Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu (ETS Nr. 108) ir jos protokolų nuostatas, kai asmens duomenys tvarkomi žurnalistikos tikslais ir akademinės, meninės ar literatūrinės saviraiškos tikslais.
+Papildyta straipsnio punktu:
+Nr. XIII-2501, 2019-11-07, paskelbta TAR 2019-11-13, i. k. 2019-18190
+ 
 
 
 
@@ -5095,3 +5103,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 34 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2088, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07397
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 34-1 straipsnio ir priedo pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2501, 2019-11-07, paskelbta TAR 2019-11-13, i. k. 2019-18190
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 50 straipsnio pakeitimo įstatymas
