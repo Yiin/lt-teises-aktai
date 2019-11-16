@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2019-06-01 iki 2019-11-15
+Suvestinė redakcija nuo 2019-11-16 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
  
@@ -1235,6 +1235,22 @@ Nr. XIII-1859, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00219
 
 
 
+21. Akcinė bendrovė „Problematika“. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2529, 2019-11-14, paskelbta TAR 2019-11-15, i. k. 2019-18359
+ 
+
+
+
+
+22. Akcinė bendrovė „Kelių priežiūra“.
+Papildyta straipsnio dalimi:
+Nr. XIII-2529, 2019-11-14, paskelbta TAR 2019-11-15, i. k. 2019-18359
+ 
+
+
+
+
 
 
  
@@ -1478,3 +1494,8 @@ Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaug
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1859, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00219
 Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. XIII-992 2 ir 4 priedų pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2529, 2019-11-14, paskelbta TAR 2019-11-15, i. k. 2019-18359
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. XIII-992 2 priedo pakeitimo įstatymas
