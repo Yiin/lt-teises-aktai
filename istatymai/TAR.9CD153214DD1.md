@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9CD153214DD1"
 
 # Lietuvos Respublikos pašto įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2019-11-22
+Suvestinė redakcija nuo 2019-11-23 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 36-1070, i. k. 0991010ISTAIII-1141
  
@@ -47,7 +47,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede.
+3. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2213, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09830
  
 
 
@@ -1198,7 +1200,10 @@ LAIKYMOSI PRIEŽIŪRA
 19 straipsnis. Įstatymo nuostatų laikymosi priežiūra
 
 
-1. Ryšių reguliavimo tarnyba atlieka šio įstatymo nuostatų laikymosi priežiūrą vadovaudamasi Viešojo administravimo įstatymo nuostatomis, susijusiomis su ūkio subjektų veiklos priežiūros teisiniu reguliavimu.
+1. Ryšių reguliavimo tarnyba atlieka šio įstatymo ar tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių pašto paslaugos teikimo veiklą, nuostatų laikymosi priežiūrą vadovaudamasi Viešojo administravimo įstatymo nuostatomis, susijusiomis su ūkio subjektų veiklos priežiūros teisiniu reguliavimu.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2213, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09830
+ 
 
 
 
@@ -1266,7 +1271,11 @@ EKONOMINĖS SANKCIJOS
 20 straipsnis. Ryšių reguliavimo tarnybos veiksmai nustačius pažeidimą
 
 
-1. Ryšių reguliavimo tarnyba, nustačiusi, kad pašto paslaugos teikėjas nesilaiko pašto paslaugos teikimo taisyklių reikalavimų, nevykdo ar netinkamai vykdo vieną ar daugiau pašto paslaugos teikėjui šio įstatymo 10 straipsnyje nustatytų pareigų, universaliosios pašto paslaugos teikėjui šio įstatymo 14 ir 16 straipsniuose nustatytų pareigų, praneša pašto paslaugos teikėjui apie nustatytus pažeidimus ir nustato terminą pažeidimams pašalinti ir apie tai informuoti Ryšių reguliavimo tarnybą per terminą, ne trumpesnį kaip 30 kalendorinių dienų ir ne ilgesnį kaip 60 kalendorinių dienų nuo pranešimo gavimo dienos.
+1. Ryšių reguliavimo tarnyba, nustačiusi, kad pašto paslaugos teikėjas nesilaiko pašto paslaugos teikimo taisyklių ar tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių pašto paslaugos teikimo veiklą, reikalavimų, nevykdo ar netinkamai vykdo vieną ar daugiau pašto paslaugos teikėjui šio įstatymo 10 straipsnyje, 18 straipsnio 2 dalyje nustatytų pareigų, universaliosios pašto paslaugos teikėjui šio įstatymo 14 ir 16 straipsniuose nustatytų pareigų, praneša pašto paslaugos teikėjui apie nustatytus pažeidimus ir nustato terminą pažeidimams pašalinti ir apie tai informuoti Ryšių reguliavimo tarnybą per terminą, ne trumpesnį kaip 30 kalendorinių dienų ir ne ilgesnį kaip 60 kalendorinių dienų nuo pranešimo gavimo dienos.
+TAR pastaba. 20 straipsnio 1 dalies nuostatos taikomos pašto paslaugos teikėjų po įstatymo Nr. XIII-2213 įsigaliojimo (2019-11-23) padarytiems tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių pašto paslaugos teikimo veiklą, pažeidimams ir Pašto įstatymo 18 straipsnio 2 dalyje nustatytų pareigų pažeidimams.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2213, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09830
+ 
 
 
 
@@ -1344,7 +1353,9 @@ Ryšių reguliavimo tarnybos pareigūnas, inicijavęs pažeidimo nagrinėjimo pr
 
 
 
-2. Ekonominė sankcija turi būti paskirta ne vėliau kaip per 6 mėnesius nuo pašto paslaugos teikėjo pažeidimo padarymo dienos.
+2. Ekonominė sankcija turi būti paskirta ne vėliau kaip per 2 metus nuo pažeidimo padarymo dienos, o trunkamojo pažeidimo atveju – per 2 metus nuo jo paaiškėjimo dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2213, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09830
  
 
 
@@ -1412,7 +1423,11 @@ Pažeidimo nagrinėjimo posėdis yra viešas, išskyrus atvejus, kai siekiama ap
 26 straipsnis. Ekonominės sankcijos
 
 
-1. Pašto paslaugos teikėjui, kuris nesilaiko Ryšių reguliavimo tarnybos patvirtintų pašto paslaugos teikimo taisyklių reikalavimų, nevykdo ar netinkamai vykdo vieną ar daugiau pašto paslaugos teikėjui šio įstatymo 10 straipsnyje nustatytų pareigų, universaliosios pašto paslaugos teikėjui šio įstatymo 14 ir 16 straipsniuose nustatytų pareigų ir per šio įstatymo 20 straipsnio 1 dalyje nurodytą terminą pažeidimų nepašalina, Ryšių reguliavimo tarnyba skiria baudą iki 3 procentų bendrųjų metinių pajamų iš pašto paslaugos teikimo veiklos, o jeigu tokios veiklos mastą apskaičiuoti sunku arba neįmanoma, – iki 86 886 eurų. 
+1. Pašto paslaugos teikėjui, kuris nesilaiko Ryšių reguliavimo tarnybos patvirtintų pašto paslaugos teikimo taisyklių ar tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių pašto paslaugos teikimo veiklą, reikalavimų, nevykdo ar netinkamai vykdo vieną ar daugiau pašto paslaugos teikėjui šio įstatymo 10 straipsnyje, 18 straipsnio 2 dalyje nustatytų pareigų, universaliosios pašto paslaugos teikėjui šio įstatymo 14 ir 16 straipsniuose nustatytų pareigų ir per šio įstatymo 20 straipsnio 1 dalyje nurodytą terminą pažeidimų nepašalina, Ryšių reguliavimo tarnyba skiria baudą iki 3 procentų bendrųjų metinių pajamų iš pašto paslaugos teikimo veiklos, o jeigu tokios veiklos mastą apskaičiuoti sunku arba neįmanoma, – iki 86 886 eurų.
+TAR pastaba. 26 straipsnio 1 dalies nuostatos taikomos pašto paslaugos teikėjų po įstatymo Nr. XIII-2213 įsigaliojimo (2019-11-23) padarytiems tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių pašto paslaugos teikimo veiklą, pažeidimams ir Pašto įstatymo 18 straipsnio 2 dalyje nustatytų pareigų pažeidimams.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2213, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09830
+ 
 
 
 
@@ -1427,23 +1442,26 @@ Nr. XII-1143, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13457
 
 
 
-27 straipsnis. Šiurkštus ar sistemingas pažeidimas
+27 straipsnis. Šiurkštus ir (ar) sistemingas pažeidimas
 
 
-1. Už šiurkštų ir sistemingą Ryšių reguliavimo tarnybos patvirtintų pašto paslaugos teikimo taisyklių reikalavimų nesilaikymą, vienos ar daugiau pašto paslaugos teikėjui šio įstatymo 10 straipsnyje nustatytų pareigų nevykdymą ar netinkamą vykdymą Ryšių reguliavimo tarnyba turi teisę uždrausti teikti pašto paslaugą iki vienų metų.
-
-
-
-
-2. Šiurkščiu pažeidimu laikomas šio įstatymo 26 straipsnio 1 dalyje numatytas pažeidimas, kuris sukėlė didelius finansinius nuostolius ar pašto paslaugos teikimo veiklos apribojimus kitiems pašto paslaugos teikėjams. 
+1. Už šiurkštų ir (ar) sistemingą Ryšių reguliavimo tarnybos patvirtintų pašto paslaugos teikimo taisyklių ar tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių pašto paslaugos teikimo veiklą, reikalavimų nesilaikymą, vienos ar daugiau pašto paslaugos teikėjui šio įstatymo 10 straipsnyje, 18 straipsnio 2 dalyje nustatytų pareigų nevykdymą ar netinkamą vykdymą Ryšių reguliavimo tarnyba turi teisę uždrausti teikti pašto paslaugą iki vienų metų.
 
 
 
 
-3. Sistemingu pažeidimu laikomas Ryšių reguliavimo tarnybos patvirtintų pašto paslaugos teikimo taisyklių reikalavimų nesilaikymas, vienos ar daugiau pašto paslaugos teikėjui šio įstatymo 10 straipsnyje nustatytų pareigų nevykdymas ar netinkamas vykdymas, padarytas tris ar daugiau kartų per vienus metus.
+2. Šiurkščiu pažeidimu laikomas šio įstatymo 26 straipsnio 1 dalyje numatytas pažeidimas, dėl kurio kiti pašto paslaugos teikėjai patyrė didelių finansinių nuostolių ar pašto paslaugos teikimo apribojimų.
+
+
+
+
+3. Sistemingu pažeidimu laikomas Ryšių reguliavimo tarnybos patvirtintų pašto paslaugos teikimo taisyklių ar tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių pašto paslaugos teikimo veiklą, reikalavimų nesilaikymas, vienos ar daugiau pašto paslaugos teikėjui šio įstatymo 10 straipsnyje, 18 straipsnio 2 dalyje nustatytų pareigų nevykdymas ar netinkamas vykdymas, padarytas tris ar daugiau kartų per vienus metus.
+TAR pastaba. 27 straipsnio nuostatos taikomos pašto paslaugos teikėjų po įstatymo Nr. XIII-2213 įsigaliojimo (2019-11-23) padarytiems tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių pašto paslaugos teikimo veiklą, pažeidimams ir Pašto įstatymo 18 straipsnio 2 dalyje nustatytų pareigų pažeidimams.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2213, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09830
  
-
-
 
 
 
@@ -1647,14 +1665,22 @@ priedas
 
 
 1. 1997 m. gruodžio 15 d. Europos Parlamento ir Tarybos direktyva 97/67/EB dėl Bendrijos pašto paslaugų vidaus rinkos plėtros bendrųjų taisyklių ir paslaugų kokybės gerinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 71) su paskutiniais pakeitimais, padarytais 2008 m. vasario 20 d. Europos Parlamento ir Tarybos direktyva 2008/6/EB (OL 2008 L 52, p. 3).
+
+
+
+
+2. 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/644 dėl tarptautinių siuntinių pristatymo paslaugų (OL 2018 L 112, p. 19).
+Papildyta punktu:
+Nr. XIII-2213, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09830
+ 
+
+
+
+
+
+
  
  
-
-
-
-
-
-
 Pakeitimai:
  
 1.
@@ -1722,3 +1748,8 @@ Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 26 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2087, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19365
 Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 3, 6, 10 ir 13 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2213, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09830
+Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 1, 19, 20, 23, 26, 27 straipsnių ir priedo pakeitimo įstatymas
