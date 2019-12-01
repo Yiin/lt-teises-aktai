@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-08-01 iki 2019-11-30
+Suvestinė redakcija nuo 2019-12-01 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
  
@@ -282,9 +282,11 @@ Nr. XIII-2280, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12171
 
 
 
-192. Valstybinis duomenų centras – valstybės biudžetinės įstaigos patikėjimo teise valdomose patalpose įrengtas ir valstybės biudžetinės įstaigos eksploatuojamas duomenų centras, įrašytas į valstybinių duomenų centrų sąrašą. 
+192. Valstybinis duomenų centras – biudžetinės įstaigos arba valstybės valdomos įmonės, kuri yra nacionaliniam saugumui užtikrinti svarbi įmonė, patikėjimo arba nuosavybės teise valdomose patalpose įrengtas duomenų centras, įrašytas į valstybinių duomenų centrų sąrašą. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1871, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00094
+Straipsnio dalies pakeitimai:
+Nr. XIII-2538, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19037
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2280, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12171
  
@@ -292,9 +294,11 @@ Nr. XIII-2280, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12171
 
 
 
-20. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatyme.
+20. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme, Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatyme ir Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
+Straipsnio dalies pakeitimai:
+Nr. XIII-2538, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19037
  
 
 
@@ -2502,12 +2506,18 @@ Nr. XIII-1871, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00094
 
 
 
-2. Valstybinių duomenų centrų sąrašą, techninius reikalavimus, taikomus valstybiniams duomenų centrams, ir naudojimosi valstybinių duomenų centrų paslaugomis tvarkos aprašą tvirtina Vyriausybė ar jos įgaliota institucija.
+2. Valstybinių duomenų centrų sąrašą, techninius reikalavimus, taikomus valstybiniams duomenų centrams, valstybinių duomenų centrų naudotojams teikiamų paslaugų teikimo sąlygų aprašą tvirtina Vyriausybė ar jos įgaliota institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2538, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19037
+ 
 
 
 
 
-3. Valstybinių duomenų centrų naudotojams valstybinių duomenų centrų paslaugos teikiamos neatlygintinai. Valstybės biudžetinių įstaigų, eksploatuojančių valstybinius duomenų centrus, išlaidos, patirtos dėl neatlygintinai teikiamų valstybinių duomenų centrų paslaugų ir valstybiniuose duomenų centruose laikomos įrangos eksploatavimo, finansuojamos iš valstybės biudžetinei įstaigai, eksploatuojančiai valstybinius duomenų centrus, skiriamų valstybės biudžeto lėšų ir (arba) kitų teisės aktuose nustatytų finansavimo šaltinių. 
+3. Institucijų išlaidos, patirtos dėl valstybinių duomenų centrų naudotojams teikiamų paslaugų teikimo ir valstybiniuose duomenų centruose laikomos įrangos eksploatavimo, finansuojamos iš valstybės biudžeto lėšų ir (arba) kitų teisės aktuose nustatytų finansavimo šaltinių. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2538, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19037
+ 
 
 
 
@@ -2800,3 +2810,8 @@ Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. X
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2280, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12171
 Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 2 ir 29 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2538, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19037
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 2 ir 43-3 straipsnių pakeitimo įstatymas
