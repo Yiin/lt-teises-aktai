@@ -13,6 +13,18 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/7fdeef00689211e7827cd63159af616c"
 
 # Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir 19 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2019-12-02
+ 
+Įstatymas paskelbtas: TAR 2017-07-14, i. k. 2017-12233
+ 
+TAR pastaba. Pripažinta, kad Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir 19 straipsnių pakeitimo įstatymas (TAR, 2017-07-14, Nr. 12233) pagal priėmimo tvarką prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2, 3 dalims, 69 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT12-N4/2019, 2019-04-16, paskelbta TAR 2019-12-02, i. k. 2019-19221
+Dėl Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir 19 straipsnių pakeitimo įstatymo, Lietuvos Respublikos Seimo statuto 164 straipsnio 1 dalies atitikties Lietuvos Respublikos Konstitucijai
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 MIŠKŲ ĮSTATYMO NR. I-671 2, 4, 5, 6, 7, 8, 13, 18 IR 19 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -369,3 +381,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT12-N4/2019, 2019-04-16, paskelbta TAR 2019-12-02, i. k. 2019-19221
+Dėl Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir 19 straipsnių pakeitimo įstatymo, Lietuvos Respublikos Seimo statuto 164 straipsnio 1 dalies atitikties Lietuvos Respublikos Konstitucijai
