@@ -20,9 +20,14 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-12-01
+Suvestinė redakcija nuo 2019-12-02 iki 2019-12-19
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
+ 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir 19 straipsnių pakeitimo įstatymas (TAR, 2017-07-14, Nr. 12233) pagal priėmimo tvarką prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2, 3 dalims, 69 straipsnio 1 daliai, konstituciniams teisinės valstybės, atsakingo valdymo principams.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT12-N4/2019, 2019-04-16, paskelbta TAR 2019-12-02, i. k. 2019-19221
+Dėl Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir 19 straipsnių pakeitimo įstatymo, Lietuvos Respublikos Seimo statuto 164 straipsnio 1 dalies atitikties Lietuvos Respublikos Konstitucijai
  
 Nauja įstatymo redakcija nuo 2001 m. liepos 1 d.:
 Nr. IX-240, 2001 04 10, Žin., 2001, Nr. 35-1161 (2001 04 25)
@@ -1907,3 +1912,8 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 4-1 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1988, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04584
 Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT12-N4/2019, 2019-04-16, paskelbta TAR 2019-12-02, i. k. 2019-19221
+Dėl Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir 19 straipsnių pakeitimo įstatymo, Lietuvos Respublikos Seimo statuto 164 straipsnio 1 dalies atitikties Lietuvos Respublikos Konstitucijai
