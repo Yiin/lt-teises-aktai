@@ -21,6 +21,10 @@ LIETUVOS RESPUBLIKOS ĮTARIAMŲJŲ, KALTINAMŲJŲ IR NUTEISTŲJŲ REGISTRO
 
 
 
+Suvestinė redakcija nuo 2019-12-11
+ 
+Įstatymas paskelbtas: Žin. 2011, Nr. 86-4145, i. k. 1111010ISTA0XI-1503
+ 
 LIETUVOS RESPUBLIKOS 
 ĮTARIAMŲJŲ, KALTINAMŲJŲ IR NUTEISTŲJŲ REGISTRO 
 ĮSTATYMAS
@@ -34,7 +38,10 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato Įtariamųjų, kaltinamųjų ir nuteistųjų registro (toliau – Registras) statusą, Registro steigimo tvarką, Registro objektus, Registro duomenų teikėjus ir šių duomenų tvarkymą, Registro finansavimą, reorganizavimą ir likvidavimą. 
+1. Šis įstatymas nustato Įtariamųjų, kaltinamųjų ir nuteistųjų registro (toliau – Registras) statusą, Registro steigimo tvarką, Registro objektus, Registro valdytoją, Registro duomenų, Registro informacijos, Registrui teikiamų dokumentų ir (arba) jų kopijų (toliau – duomenys) teikėjus, Registro duomenų tvarkymą, Registro finansavimą, reorganizavimą ir likvidavimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2562, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19870
+ 
 
 
 
@@ -106,28 +113,30 @@ Registras yra valstybės registras.
 
 
 
-6 straipsnis. Registrą tvarkančios įstaigos ir Registro duomenų tvarkymas
+6 straipsnis. Registro valdytojas, Registro tvarkytojo skyrimas ir Registro duomenų tvarkymas
 
 
-1. Vadovaujančioji Registro tvarkymo įstaiga yra Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, kuris kartu yra ir Registro tvarkymo įstaiga.
-
-
-
-
-2. Registro duomenys tvarkomi vadovaujantis šiuo įstatymu, Lietuvos Respublikos valstybės registrų įstatymu, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, Lietuvos Respublikos baudžiamuoju kodeksu, Lietuvos Respublikos baudžiamojo proceso kodeksu, Lietuvos Respublikos bausmių vykdymo kodeksu, Registro nuostatais ir kitais Lietuvos Respublikos, Europos Sąjungos ir tarptautinės teisės aktais.
+1. Registro valdytojas yra Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos. Registro tvarkytojas skiriamas Vyriausybės nutarimu, kuriuo tvirtinami Registro nuostatai.
 
 
 
 
-3. Valstybės ir savivaldybių institucijos ir įstaigos turi teisę gauti Registro duomenis neatlygintinai, kai tai būtina tiesioginėms ir teisės aktuose nustatytoms šių institucijų ir įstaigų funkcijoms atlikti. 
+2. Registro duomenys tvarkomi vadovaujantis šiuo įstatymu, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymu, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1), Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu, Lietuvos Respublikos baudžiamuoju kodeksu, Lietuvos Respublikos baudžiamojo proceso kodeksu, Lietuvos Respublikos bausmių vykdymo kodeksu, Registro nuostatais ir kitais Lietuvos Respublikos, Europos Sąjungos ir tarptautinės teisės aktais.
 
 
 
 
-4. Registro duomenys viešai neskelbiami.
+3. Registro duomenys Registro nuostatuose nustatyta tvarka neatlygintinai teikiami Valstybės informacinių išteklių valdymo įstatyme numatytais atvejais.
+
+
+
+
+4. Registro duomenys viešai neskelbiami. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2562, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19870
  
-
-
 
 
 
@@ -146,10 +155,12 @@ Registras finansuojamas iš Lietuvos Respublikos valstybės biudžeto, taip pat 
 8 straipsnis. Registro reorganizavimas ir likvidavimas
 
 
-Registras reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės registrų įstatymo ir kitų teisės aktų nustatyta tvarka. 
+Registras reorganizuojamas ir likviduojamas Valstybės informacinių išteklių valdymo įstatymo ir kitų teisės aktų nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2562, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19870
  
-
-
 
 
 
@@ -204,3 +215,15 @@ priedas
 
 
 _________________
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2562, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19870
+Lietuvos Respublikos įtariamųjų, kaltinamųjų ir nuteistųjų registro įstatymo Nr. XI-1503 1, 6 ir 8 straipsnių pakeitimo įstatymas
