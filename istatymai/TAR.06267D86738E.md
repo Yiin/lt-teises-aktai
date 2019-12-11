@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2019-10-08 iki 2019-12-10
+Suvestinė redakcija nuo 2019-12-11 iki 2020-01-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
  
@@ -631,9 +631,10 @@ Rinkimų apylinkės rinkėjų sąrašą pagal apygardos rinkėjų sąrašą ir j
 
 29 straipsnis. Rinkėjų sąrašų paskelbimas ir susipažinimas su rinkėjų sąrašais 
 
-1. Likus ne mažiau kaip 25 dienoms iki rinkimų, apylinkės rinkimų komisija, diplomatinė atstovybė sudaro sąlygas rinkėjams susipažinti su rinkimų apylinkės rinkėjų sąrašu. Rinkimų apylinkės rinkėjų sąrašo priedo duomenys teikiami rinkėjams tik apie juos pačius. Draudžiama daryti rinkimų apylinkės rinkėjų sąrašų kopijas ar kitu būdu dauginti ar platinti šiuos sąrašus. Prie įėjimo į rinkimų komisijos patalpas turi būti nurodytas komisijos narių budėjimo laikas, taip pat paskelbti telefonai, kuriais rinkėjai gali pasitikslinti, ar jie yra įrašyti į rinkėjų sąrašą. Pasibaigus šiame įstatyme nustatytam laikotarpiui platinti pranešimus apie rinkimus, apylinkės rinkimų komisijos budėjimo laikas, jos telefonai taip pat turi būti paskelbti daugiabučių namų laiptinėse. Diplomatinėje atstovybėje, prie įėjimo į rinkimų komisijos patalpas, turi būti nurodytas laikas ir vieta šiai rinkėjų teisei įgyvendinti. 
+1. Likus ne mažiau kaip 25 dienoms iki rinkimų, apylinkės rinkimų komisija, Lietuvos Respublikos diplomatinė atstovybė ir konsulinė įstaiga sudaro sąlygas rinkėjams susipažinti su rinkimų apylinkės rinkėjų sąrašu. Rinkimų apylinkės rinkėjų sąrašo priedo duomenys teikiami rinkėjams tik apie juos pačius. Draudžiama daryti rinkimų apylinkės rinkėjų sąrašų kopijas ar kitu būdu dauginti ar platinti šiuos sąrašus. Prie įėjimo į rinkimų komisijos patalpas turi būti nurodytas komisijos narių budėjimo laikas, taip pat paskelbti telefonai, kuriais rinkėjai gali pasitikslinti, ar jie yra įrašyti į rinkėjų sąrašą. Pasibaigus šiame įstatyme nustatytam laikotarpiui įteikti rinkėjo korteles, apylinkės rinkimų komisijos budėjimo laikas, jos telefonai taip pat turi būti paskelbti daugiabučių namų laiptinėse. Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, prie įėjimo į rinkimų komisijos patalpas (papildomose balsavimo vietose užsienyje prie Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos – prie įėjimo į balsavimo patalpas) turi būti nurodytas laikas ir vieta šiai rinkėjų teisei įgyvendinti. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2440, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15887
+Nr. XIII-2577, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19884
  
 
 2. Lietuvos Respublikos rinkėjų sąrašas ir vienmandačių rinkimų apygardų rinkėjų sąrašai viešai neskelbiami, tačiau rinkėjui duomenys apie jo įrašymą į rinkėjų sąrašus gali būti teikiami ir telefonu.
@@ -696,7 +697,10 @@ Nr. XIII-2440, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15887
 
 2. Kai paskutiniuose rinkimuose dalyvavusių ir Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose balsavusių užsienyje esančių rinkėjų skaičius, kuris nustatomas iki Seimo rinkimų likus vieneriems metams, yra didesnis negu 0,9 vidutinio rinkėjų visose vienmandatėse rinkimų apygardose skaičiaus, sudaroma Pasaulio lietuvių vienmandatė rinkimų apygarda ir kitose valstybėse esantys Lietuvos Respublikos piliečiai įrašomi į Pasaulio lietuvių vienmandatės rinkimų apygardos rinkėjų sąrašą.
 
-3. Lietuvos Respublikos diplomatinė atstovybė, likus ne mažiau kaip 15 dienų iki Seimo rinkimų, perduoda Vyriausiajai rinkimų komisijai diplomatinėje atstovybėje sudarytą rinkėjų sąrašą ir duomenis apie jo patikslinimą. Šis sąrašas gali būti papildomas rinkėjais, kurie balsavimo paštu laikotarpiu ir rinkimų dieną negali sugrįžti į Lietuvą ir balsuoja diplomatinėje atstovybėje. 
+3. Lietuvos Respublikos diplomatinė atstovybė, likus ne mažiau kaip 15 dienų iki Seimo rinkimų, perduoda Vyriausiajai rinkimų komisijai diplomatinėje atstovybėje sudarytą rinkėjų sąrašą ir duomenis apie jo patikslinimą. Šis sąrašas gali būti papildomas rinkėjais, kurie balsavimo paštu laikotarpiu ir rinkimų dieną negali sugrįžti į Lietuvą ir balsuoja diplomatinėje atstovybėje, konsulinėje įstaigoje ar papildomoje balsavimo vietoje užsienyje prie Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2577, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19884
+ 
 
 Straipsnio pakeitimai:
 Nr. XIII-2413, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13750
@@ -753,7 +757,10 @@ KANDIDATŲ Į SEIMO NARIUS KĖLIMAS
 
 1) daugiamandatėje ir vienmandatėse rinkimų apygardose partija, įregistruota pagal Lietuvos Respublikos politinių partijų įstatymą (toliau – Politinių partijų įstatymas) ne vėliau kaip likus 185 dienoms iki rinkimų, atitinkanti Politinių partijų įstatymo reikalavimus dėl partijos narių skaičiaus ir neturinti partijos, kuriai inicijuojamas likvidavimas, ar likviduojamos partijos teisinio statuso;
 
-2) vienmandatėje rinkimų apygardoje kiekvienas Lietuvos Respublikos pilietis, kuris gali būti renkamas Seimo nariu, gali išsikelti kandidatu į Seimo narius, jeigu jo išsikėlimą parašais paremia ne mažiau kaip vienas tūkstantis tos apygardos rinkėjų. Jeigu partija nekelia kandidatų sąrašo, partijos keliamą kandidatą vienmandatėje rinkimų apygardoje parašais turi paremti ne mažiau kaip vienas tūkstantis tos apygardos rinkėjų.
+2) vienmandatėje rinkimų apygardoje kiekvienas Lietuvos Respublikos pilietis, kuris gali būti renkamas Seimo nariu, gali išsikelti kandidatu į Seimo narius, jeigu jo išsikėlimą parašais paremia ne mažiau kaip vienas tūkstantis tos apygardos rinkėjų. Jeigu partija nekelia kandidatų sąrašo, partijos keliamą kandidatą vienmandatėje rinkimų apygardoje parašais turi paremti ne mažiau kaip vienas tūkstantis tos apygardos rinkėjų. Šie reikalavimai netaikomi partijų keliamiems kandidatams vienmandatėje rinkimų apygardoje, jeigu rinkimai joje organizuojami laisvai Seimo nario vietai užimti pagal šio įstatymo 97 straipsnio 1 punkte numatytą tvarką ir prieš tai vykusiuose eiliniuose Seimo rinkimuose partija kėlė kandidatų sąrašą, taip pat pakartotiniuose rinkimuose tiems Lietuvos Respublikos piliečiams, kurie prieš tai neįvykusiuose rinkimuose arba rinkimuose, kurie buvo pripažinti negaliojančiais, toje vienmandatėje apygardoje buvo įregistruoti kandidatais. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2576, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19883
+ 
 
 2. Daugiamandatėje rinkimų apygardoje partija kandidatus į Seimo narius kelia pateikdama kandidatų sąrašą, kuriame kandidatai surašyti iš jos nustatytos eilės. Jeigu partijos įstatai nenumato kitaip, kandidatai vienmandatėse rinkimų apygardose ir kandidatų, surašytų iš eilės, sąrašas daugiamandatėje rinkimų apygardoje turi būti patvirtinti partijos suvažiavimo ar konferencijos. Kandidatų sąraše (jungtiniame sąraše) negali būti mažiau kaip 25 ir daugiau kaip 141 kandidatas. 
 
@@ -1197,7 +1204,10 @@ Nr. IX-2233, 2004-05-11, Žin., 2004, Nr. 83-2986 (2004-05-22)
 
 1. Apygardų rinkimų komisijos rinkimų biuletenius ir vokus centriniams pašto skyriams pateikia ne vėliau kaip prieš 2 dienas iki balsavimo paštu pradžios, rinkimų biuletenius rinkimų apylinkėms - ne vėliau kaip prieš 12 valandų iki balsavimo pradžios.
 
-2. Lietuvos Respublikos diplomatinėse atstovybėse biuleteniai ir balsavimui paštu vokai turi būti laisvai prieinami rinkėjams likus ne mažiau kaip 20 dienų iki rinkimų. Laivuose biuletenių tekstas turi būti laisvai prieinamas rinkėjams likus ne mažiau kaip 15 dienų iki rinkimų.
+2. Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose rinkimų biuleteniai ir balsavimo paštu vokai turi būti laisvai prieinami rinkėjams likus ne mažiau kaip 20 dienų iki rinkimų. Laivuose rinkimų biuletenių tekstas turi būti laisvai prieinamas rinkėjams likus ne mažiau kaip 15 dienų iki rinkimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2577, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19884
+ 
 
 3. Vyriausioji rinkimų komisija atsako už rinkimų biuletenių ir balsavimui paštu vokų išleidimą, jų apskaitos tvarkymą ir pristatymą nepažeidžiant nurodytų terminų.
  
@@ -1231,7 +1241,10 @@ Nr. IX-2233, 2004-05-11, Žin., 2004, Nr. 83-2986 (2004-05-22)
 
 4. Rinkimų stebėtojus registruoja ir jiems pažymėjimus išduoda:
 
-1) Vyriausioji rinkimų komisija – stebėti rinkimus visoje Lietuvos Respublikos teritorijoje, Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose, rinkimų apygardose, rinkimų apylinkėse;
+1) Vyriausioji rinkimų komisija – stebėti rinkimus visoje Lietuvos Respublikos teritorijoje, Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose, papildomose balsavimo vietose užsienyje prie Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos, rinkimų apygardose, rinkimų apylinkėse; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2577, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19884
+ 
 
 2) apygardos rinkimų komisija – stebėti rinkimus visoje rinkimų apygardoje arba tos rinkimų apygardos konkrečiose rinkimų apylinkėse.
 
@@ -1398,7 +1411,10 @@ Nr. XI-1226, 2010-12-14, Žin., 2010, Nr. 153-7793 (2010-12-28)
 Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
  
 
-68 straipsnis. Balsavimo organizavimas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir laivuose
+68 straipsnis. Balsavimo organizavimas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose, papildomose balsavimo vietose užsienyje prie Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos ir laivuose 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2577, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19884
+ 
 
 1. Balsavimui organizuoti ir paduotiems balsams suskaičiuoti Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir laivuose sudaromos balsavimo komisijos.
 
@@ -1408,9 +1424,15 @@ Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
 
 4. Balsavimo, balsų skaičiavimo ir protokolų pateikimo Vyriausiajai rinkimų komisijai tvarką, taip pat rinkimų stebėtojų pažymėjimų įteikimo tvarką nustato Vyriausioji rinkimų komisija.
 
-5. Vyriausioji rinkimų komisija užsienio reikalų ministro teikimu sudaro Lietuvos Respublikos diplomatinių atstovybių ir konsulinių įstaigų, kuriose vyksta balsavimas, sąrašą ir kiekvienai diplomatinei atstovybei ar konsulinei įstaigai nustato balsavimo jose dienas (ne mažiau kaip 10 dienų).
+5. Vyriausioji rinkimų komisija užsienio reikalų ministro teikimu sudaro Lietuvos Respublikos diplomatinių atstovybių, konsulinių įstaigų ir papildomų balsavimo vietų užsienyje prie Lietuvos Respublikos diplomatinių atstovybių ar konsulinių įstaigų, kuriose vyksta balsavimas, sąrašą ir kiekvienai Lietuvos Respublikos diplomatinei atstovybei ar konsulinei įstaigai nustato balsavimo jose dienas (ne mažiau kaip 5 dienas). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2577, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19884
+ 
 
-6. Už balsavimo organizavimą, protokolų ir kitų Vyriausiosios rinkimų komisijos nustatytų rinkimų dokumentų pateikimą Vyriausiajai rinkimų komisijai Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose atsako jų vadovai, o laivuose – laivų kapitonai – Lietuvos Respublikos piliečiai.
+6. Už balsavimo organizavimą, protokolų ir kitų Vyriausiosios rinkimų komisijos nustatytų rinkimų dokumentų pateikimą Vyriausiajai rinkimų komisijai Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose atsako jų vadovai, o laivuose – laivų kapitonai – Lietuvos Respublikos piliečiai. Už balsavimo organizavimą, protokolų ir kitų nustatytų rinkimų dokumentų pateikimą Vyriausiajai rinkimų komisijai papildomoje balsavimo vietoje prie Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos atsako tos diplomatinės atstovybės ar konsulinės įstaigos vadovas. Balsavimo komisijos perduoda rinkimų dokumentų duomenis Vyriausiajai rinkimų komisijai atitinkamų Lietuvos Respublikos diplomatinių atstovybių ir konsulinių įstaigų pasirinktu saugiu būdu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2577, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19884
+ 
 
 7. Laivuose, kuriuose organizuoti balsavimą pagal šio įstatymo reikalavimus nėra sąlygų, balsavimas neorganizuojamas.
 
@@ -1421,13 +1443,21 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-1775, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21111
  
 
+9. Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos vadovas arba užsienio reikalų ministras, suderinę su Vyriausiąja rinkimų komisija, į Lietuvos Respublikos diplomatinę atstovybę ar konsulinę įstaigą arba papildomą balsavimo vietą užsienyje prie Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos balsavimui joje organizuoti gali siųsti balsavimo komisijos narius (atitinkamai – Užsienio reikalų ministerijos ir Lietuvos Respublikos diplomatinių atstovybių, konsulinių įstaigų darbuotojus). Šios ir kitos išlaidos, susijusios su balsavimo organizavimu, yra apmokamos iš Vyriausiajai rinkimų komisijai skirtų valstybės biudžeto lėšų rinkimams organizuoti ir vykdyti. Vyriausioji rinkimų komisija su Užsienio reikalų ministerija pasirašo valstybės biudžeto lėšų rinkimams organizuoti naudojimo sutartį. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2577, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19884
+ 
+
 Straipsnio pakeitimai:
 Nr. X-397, 2005-11-17, Žin., 2005, Nr. 143-5171 (2005-12-08)
  
 
 69 straipsnis. Balsavimas laivuose
 
-1. Rinkėjai (laivo įgulos nariai ir keleiviai), esantys laive, jeigu jie ne mažiau kaip prieš 4 dienas iki rinkimų dienos yra išplaukę iš Lietuvos Respublikos uosto ir negrįžę iki rinkimų dienos arba jeigu yra kitų aplinkybių, dėl kurių jie negali balsuoti savo rinkimų apylinkėje, paštu, Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje, turi teisę balsuoti laive.
+1. Rinkėjai (laivo įgulos nariai ir keleiviai), esantys laive, jeigu jie ne mažiau kaip prieš 4 dienas iki rinkimų dienos yra išplaukę iš Lietuvos Respublikos uosto ir negrįžę iki rinkimų dienos arba jeigu yra kitų aplinkybių, dėl kurių jie negali balsuoti savo rinkimų apylinkėje, paštu, Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje arba papildomoje balsavimo vietoje užsienyje prie Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos, turi teisę balsuoti laive. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2577, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19884
+ 
 
 2. Vyriausioji rinkimų komisija susisiekimo ministro teikimu sudaro su Lietuvos valstybės vėliava plaukiojančių laivų, kuriuose yra ne mažiau kaip 5 įgulos nariai rinkėjai, organizuojamas balsavimas ir balsavimo metu palaikomas radijo ryšys, sąrašą. Vyriausioji rinkimų komisija susisiekimo ministro teikimu nustato tokį balsavimo kiekviename laive laiką, kad kiekvienam laive esančiam rinkėjui būtų sudaryta galimybė balsuoti.
 
@@ -1441,16 +1471,18 @@ Nr. X-397, 2005-11-17, Žin., 2005, Nr. 143-5171 (2005-12-08)
 Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
  
 
-70 straipsnis. Balsavimas Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose
+70 straipsnis. Balsavimas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir papildomose balsavimo vietose užsienyje prie Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos
 
-1. Rinkėjai, išvykę į užsienio valstybes, turi teisę balsuoti Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje šių darbo valandomis. Balsavimui skiriama ne mažiau kaip 4 valandos per šių įstaigų darbo dieną. Balsavimas baigiamas rinkimų dieną Lietuvos Respublikos laiku. 
+1. Rinkėjai, išvykę į užsienio valstybes, turi teisę balsuoti Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje šių įstaigų darbo valandomis. Balsavimui skiriama ne mažiau kaip 4 valandos per šių įstaigų darbo dieną. Balsavimas papildomoje balsavimo vietoje užsienyje prie Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos vyksta Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos nustatytomis valandomis. Balsavimas baigiamas rinkimų dieną Lietuvos Respublikos laiku.
 
 2. Rinkimų dokumentus rinkėjams, pranešusiems savo gyvenamosios vietos adresą Lietuvos Respublikos diplomatinei atstovybei ar konsulinei įstaigai, įteikia ar jų pageidavimu paštu išsiunčia ir priima šių įstaigų sudarytos balsavimo komisijos.
 
-3. Rinkėjams, atvykusiems balsuoti į Lietuvos Respublikos diplomatinę atstovybę ar konsulinę įstaigą, draudžiama išsinešti rinkimų dokumentus ar juos perduoti kitiems asmenims.
+3. Rinkėjams, atvykusiems balsuoti į Lietuvos Respublikos diplomatinę atstovybę ar konsulinę įstaigą arba papildomą balsavimo vietą užsienyje prie Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos, draudžiama išsinešti rinkimų dokumentus ar juos perduoti kitiems asmenims. 
 
-Straipsnio pakeitimai:
+ Straipsnio pakeitimai:
 Nr. X-397, 2005-11-17, Žin., 2005, Nr. 143-5171 (2005-12-08)
+Straipsnio pakeitimai:
+Nr. XIII-2577, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19884
  
 
 71 straipsnis. Balsavimas sveikatos priežiūros (išskyrus ambulatorines), socialinės rūpybos ir globos įstaigose
@@ -2331,4 +2363,14 @@ Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 9, 15, 33, 86 ir 87 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2440, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15887
 Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 18, 25, 29, 30, 31, 57, 65, 67, 67-1, 69, 71, 72, 73, 78 straipsnių ir ketvirtojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2576, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19883
+Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 37 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2577, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19884
+Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 29, 33, 59, 61, 68, 69 ir 70 straipsnių pakeitimo įstatymas
 
