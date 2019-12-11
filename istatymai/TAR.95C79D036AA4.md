@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.95C79D036AA4"
 
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-12-10
+Suvestinė redakcija nuo 2019-12-11 iki 2020-04-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 70-3170, i. k. 1031010ISTA0IX-1672
  
@@ -90,23 +90,28 @@ Nr. XI-2045, 2012-06-05, Žin., 2012, Nr. 69-3525 (2012-06-21)
 
 
 
-2. Darbdavys – kaip nustatyta Lietuvos Respublikos darbo kodekso (toliau – Darbo kodeksas) 21 straipsnio 3 dalyje, taip pat valstybės ar savivaldybės institucija ar įstaiga. 
+2. Darbdavys – kaip nustatyta Lietuvos Respublikos darbo kodekso 21 straipsnio 3 dalyje, taip pat valstybės ar savivaldybės institucija ar įstaiga. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
  
 
 
 
 
-3. Darbdavio įgaliotas asmuo – padalinio vadovas ar kitas administracijos pareigūnas, kuriam darbdavys ar darbdaviui atstovaujantis asmuo pavedė įgyvendinti darbuotojų saugos ir sveikatos reikalavimus įmonėje ir (ar) įmonės struktūriniame padalinyje.
+3. Darbdavio įgaliotas asmuo – padalinio vadovas ar kitas administracijos pareigūnas, kuriam darbdavys ar darbdaviui atstovaujantis asmuo pavedė įgyvendinti darbuotojų saugos ir sveikatos reikalavimus įmonėje, įstaigoje ar organizacijoje (toliau – įmonė) ir (ar) įmonės struktūriniame padalinyje. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1437, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20565
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
  
 
 
 
 
-4. Darbdaviui atstovaujantis asmuo – įmonės, įstaigos, organizacijos ar kitos organizacinės struktūros (toliau – įmonė) vadovas arba darbdavys fizinis asmuo.
+4. Darbdaviui atstovaujantis asmuo – įmonės vadovas arba darbdavys fizinis asmuo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
+ 
 
 
 
@@ -131,9 +136,10 @@ Nr. XII-1437, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20565
 
 
 
-9. Darbuotojas – kaip nustatyta Darbo kodekso 21 straipsnio 2 dalyje. Šiame Įstatyme darbuotoju taip pat yra laikomas asmuo, dirbantis kitų darbo santykiams prilygintų teisinių santykių pagrindu pagal Lietuvos Respublikos užimtumo įstatymo 4 straipsnio 3 dalį, ir asmuo, kuris vykdo neatlygintiną veiklą pagal Lietuvos Respublikos užimtumo įstatymo 9 straipsnį. 
+9. Darbuotojas – kaip nustatyta Darbo kodekso 21 straipsnio 2 dalyje. Šiame Įstatyme darbuotoju taip pat yra laikomas asmuo, dirbantis kitų darbo santykiams prilygintų teisinių santykių pagrindu pagal Lietuvos Respublikos užimtumo įstatymo 4 straipsnio 3 dalį, ir asmuo, kuris vykdo neatlygintiną veiklą pagal Užimtumo įstatymo 9 straipsnį. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
  
 
 
@@ -160,7 +166,10 @@ Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 
 
 
-13. Darbuotojų saugos ir sveikatos norminiai teisės aktai – norminiai teisės aktai, kuriuose nustatomos, keičiamos arba pripažįstamos netekusiomis galios teisės normos (įstatymai, Seimo, Vyriausybės nutarimai, socialinės apsaugos ir darbo ministro arba šio ministro su kitu ministru (kitais ministrais), sveikatos apsaugos ministro, Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus (toliau – vyriausiasis valstybinis darbo inspektorius) patvirtinti darbuotojų saugos ir sveikatos norminiai teisės aktai). 
+13. Darbuotojų saugos ir sveikatos norminiai teisės aktai – norminiai teisės aktai, kuriuose nustatomos, keičiamos arba pripažįstamos netekusiomis galios teisės normos (įstatymai, Seimo, Vyriausybės nutarimai, socialinės apsaugos ir darbo ministro arba šio ministro su kitu ministru (kitais ministrais), sveikatos apsaugos ministro, Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus patvirtinti darbuotojų saugos ir sveikatos norminiai teisės aktai). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
+ 
 
 
 
@@ -324,7 +333,10 @@ Nr. XII-739, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 214-00017
 
 
 
-2. Darbuotojo teisę turėti saugias ir sveikatai nekenksmingas darbo sąlygas garantuoja Lietuvos Respublikos Konstitucija, šis Įstatymas ir kiti darbuotojų saugos ir sveikatos norminiai teisės aktai. Saugias ir sveikatai nekenksmingas darbo sąlygas darbuotojams privalo sudaryti darbdaviai. Dėl saugių ir sveikatai nekenksmingų darbo sąlygų sudarymo darbuotojas turi teisę kreiptis į darbuotojų atstovą, padalinio vadovą ar kitą darbdavio įgaliotą asmenį, darbdaviui atstovaujantį asmenį, darbuotojų saugos ir sveikatos komitetą, Valstybinę darbo inspekciją prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinė darbo inspekcija) ar kitas valstybės institucijas, teikdamas pasiūlymus ar reikalaudamas, kad būtų sudarytos saugios ir sveikatai nekenksmingos darbo sąlygos.
+2. Darbuotojo teisę turėti saugias ir sveikatai nekenksmingas darbo sąlygas garantuoja Lietuvos Respublikos Konstitucija, šis Įstatymas ir kiti darbuotojų saugos ir sveikatos norminiai teisės aktai. Saugias ir sveikatai nekenksmingas darbo sąlygas darbuotojams privalo sudaryti darbdaviai. Dėl saugių ir sveikatai nekenksmingų darbo sąlygų sudarymo darbuotojas turi teisę kreiptis į darbuotojų atstovą, padalinio vadovą ar kitą darbdavio įgaliotą asmenį, darbdaviui atstovaujantį asmenį, darbuotojų saugos ir sveikatos komitetą, Lietuvos Respublikos valstybinę darbo inspekciją prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinė darbo inspekcija) ar kitas valstybės institucijas, teikdamas pasiūlymus ar reikalaudamas, kad būtų sudarytos saugios ir sveikatai nekenksmingos darbo sąlygos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
+ 
 
 
 Straipsnio pakeitimai:
@@ -344,7 +356,10 @@ Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 
 
 
-2. Krašto apsaugos pareigūnams ir kariams, vidaus reikalų sistemos, muitinės, valstybės saugumo ir kitų institucijų pareigūnams, kurių tarnybinius santykius nustato atitinkami statutai ir Lietuvos Respublikos žvalgybos įstatymas, šio Įstatymo bei kitų darbuotojų saugos ir sveikatos norminių teisės aktų nuostatos netaikomos tik tais atvejais, kai šie asmenys vykdo veiklą, kuriai būdingi specifiniai veiklos požymiai. Šių institucijų pareigūnų ir karių tarnybą reglamentuojančiuose norminiuose teisės aktuose privalo būti nustatyti saugos ir sveikatos reikalavimai jiems vykdant specifinę veiklą.
+2. Krašto apsaugos pareigūnams ir kariams, vidaus tarnybos sistemos, valstybės saugumo ir kitų institucijų pareigūnams, kurių tarnybinius santykius nustato atitinkami statutai ir Lietuvos Respublikos žvalgybos įstatymas, šio Įstatymo bei kitų darbuotojų saugos ir sveikatos norminių teisės aktų nuostatos netaikomos tik tais atvejais, kai šie asmenys vykdo veiklą, kuriai būdingi specifiniai veiklos požymiai. Šių institucijų pareigūnų ir karių tarnybą reglamentuojančiuose norminiuose teisės aktuose privalo būti nustatyti saugos ir sveikatos reikalavimai jiems vykdant specifinę veiklą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
+ 
 
 
 
@@ -354,7 +369,10 @@ Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 
 
 
-4. Darbuotojų, dirbančių su radioaktyviosiomis medžiagomis ir kitais jonizuojančiosios spinduliuotės šaltiniais, saugą ir sveikatą reglamentuoja Radiacinės saugos įstatymas, šis Įstatymas ir kiti darbuotojų saugos ir sveikatos norminiai teisės aktai.
+4. Darbuotojų, dirbančių su radioaktyviosiomis medžiagomis ir kitais jonizuojančiosios spinduliuotės šaltiniais, saugą ir sveikatą reglamentuoja Lietuvos Respublikos radiacinės saugos įstatymas, šis Įstatymas ir kiti darbuotojų saugos ir sveikatos norminiai teisės aktai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
+ 
 
 
 Straipsnio pakeitimai:
@@ -409,10 +427,12 @@ Nr. X-1169, 2007-06-07, Žin., 2007, Nr. 69-2720 (2007-06-23)
 6 straipsnis. Lietuvos Respublikos darbuotojų saugos ir sveikatos komisija
 
 
-Valstybės, darbuotojų ir darbdavių interesams saugos ir sveikatos srityje derinti trišaliu socialinių partnerių (šalių) bendradarbiavimo principu steigiama Lietuvos Respublikos darbuotojų saugos ir sveikatos komisija (toliau – Darbuotojų saugos ir sveikatos komisija). Šios Komisijos sudarymo tvarką ir jos funkcijas nustato Vyriausybės patvirtinti Darbuotojų saugos ir sveikatos komisijos nuostatai. 
+Valstybės, darbuotojų ir darbdavių interesams saugos ir sveikatos srityje derinti trišaliu socialinių partnerių (šalių) bendradarbiavimo principu steigiama Lietuvos Respublikos darbuotojų saugos ir sveikatos komisija. Šios komisijos sudarymo tvarka ir funkcijos nustatomos Vyriausybės tvirtinamuose Lietuvos Respublikos darbuotojų saugos ir sveikatos komisijos nuostatuose. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
  
-
-
 
 
 
@@ -2176,7 +2196,10 @@ Nr. XII-1806, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10367
 
 
 
-2. Įvertinimą, ar naujos įmonės arba jų padaliniai atitinka darbuotojų saugos ir sveikatos reikalavimus, reglamentuoja Statybos įstatymas ir atitinkami reglamentai.
+2. Įvertinimą, ar naujos įmonės arba jų padaliniai atitinka darbuotojų saugos ir sveikatos reikalavimus, reglamentuoja Lietuvos Respublikos statybos įstatymas ir atitinkami reglamentai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
+ 
 
 
 
@@ -2736,3 +2759,13 @@ Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2, 5,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1746, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20719
 Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 44 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2475, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16485
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2 ir 27 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2, 3, 4, 6, 25, 27, 39 ir 41 straipsnių pakeitimo įstatymas
