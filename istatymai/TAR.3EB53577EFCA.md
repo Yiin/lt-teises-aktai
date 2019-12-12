@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.03.17)
 
 
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-12-11
+Suvestinė redakcija nuo 2019-12-12 iki 2020-06-19
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 81-1514, i. k. 0941010ISTA000I-599
  
@@ -747,7 +747,10 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 
 
 
-4. Prokurorui, kuriam suteiktas specialus statusas, netaikomos šio Įstatymo 32 straipsnio 4 dalies, 33, 34, 36, 37–377straipsnių, 39 straipsnio, 391 straipsnio 2 dalies, 40, 41 ir 42 straipsnių nuostatos.
+4. Prokurorui, kuriam suteiktas specialusis statusas, netaikomos šio Įstatymo 32 straipsnio 4 dalies, 33, 34, 36, 37, 371, 372, 373, 374, 375, 376, 378, 379, 3710 straipsnių, 39 straipsnio, 391 straipsnio 2 dalies, 40, 41 ir 42 straipsnių nuostatos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
+ 
 
 
 
@@ -1952,7 +1955,10 @@ Nr. XI-338, 2009-07-14, Žin., 2009, Nr. 89-3800 (2009-07-28)
 372 straipsnis. Atstovavimas Lietuvos Respublikai Eurojuste
 
 
-1. Lietuvos Respublikai Eurojuste atstovauja Lietuvos nacionalinis narys Eurojuste. Lietuvos nacionaliniam nariui Eurojuste padeda jo pavaduotojas ir padėjėjas.
+1. Lietuvos Respublikai Eurojuste atstovauja Lietuvos nacionalinis narys Eurojuste. Lietuvos nacionaliniam nariui Eurojuste padeda jo pavaduotojas ir padėjėjas, taip pat gali padėti paskirti papildomi pavaduotojas ir padėjėjas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
+ 
 
 
 
@@ -1963,6 +1969,14 @@ Nr. XI-338, 2009-07-14, Žin., 2009, Nr. 89-3800 (2009-07-28)
 
 
 3. Kai Lietuvos nacionalinio nario Eurojuste nėra ar jis negali eiti šių pareigų, jo funkcijas atlieka pavaduotojas.
+
+
+
+
+4. Jeigu Lietuvos nacionalinis narys Eurojuste išrenkamas Eurojusto pirmininku, generalinis prokuroras gali paskirti kitą prokurorą, atrinktą vadovaujantis šio Įstatymo 373 straipsnio 1, 2 ir 3 dalyse nustatyta tvarka, dirbti Eurojusto buveinės vietoje tol, kol Lietuvos nacionalinis narys Eurojuste eis Eurojusto pirmininko pareigas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
+ 
 
 
 Papildyta straipsniu:
@@ -1990,7 +2004,10 @@ Nr. XII-1763, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09299
 
 
 
-4. Lietuvos nacionalinį narį Eurojuste, jo pavaduotoją ir padėjėją ketverių metų kadencijai, atsižvelgdamas į šio straipsnio 3 dalyje nurodytos komisijos siūlymą, skiria generalinis prokuroras. Lietuvos nacionalinis narys Eurojuste, jo pavaduotojas ir padėjėjas į tas pačias pareigas gali būti skiriamas ne daugiau kaip dviem kadencijoms.
+4. Lietuvos nacionalinį narį Eurojuste, jo pavaduotoją ir padėjėją penkerių metų kadencijai, atsižvelgdamas į šio straipsnio 3 dalyje nurodytos komisijos siūlymą, skiria generalinis prokuroras. Lietuvos nacionalinis narys Eurojuste, jo pavaduotojas ir padėjėjas į tas pačias pareigas gali būti skiriamas ne daugiau kaip dviem kadencijoms.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
+ 
 
 
 Papildyta straipsniu:
@@ -2003,16 +2020,11 @@ Nr. XII-1763, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09299
 374 straipsnis. Lietuvos nacionalinio nario Eurojuste, jo pavaduotojo ir padėjėjo įgaliojimai ir funkcijos
 
 
-1. Lietuvos nacionalinis narys Eurojuste, jo pavaduotojas ir padėjėjas turi prokuroro įgaliojimus, taip pat atlieka Europos Sąjungos teisės aktuose, reglamentuojančiuose Eurojusto veiklą, nustatytas funkcijas.
+Lietuvos nacionalinis narys Eurojuste, jo pavaduotojas ir padėjėjas turi prokuroro įgaliojimus, taip pat atlieka Europos Sąjungos teisės aktuose, reglamentuojančiuose Eurojusto veiklą, ir generalinio prokuroro nustatytas funkcijas. 
 
 
-
-
-2. Lietuvos nacionalinio nario Eurojuste, jo pavaduotojo ir padėjėjo kompetenciją įgyvendinant 2002 m. vasario 28 d. Tarybos sprendimo 2002/187/TVR, įkuriančio Eurojustą siekiant sustiprinti kovą su sunkiais nusikaltimais, 6 straipsnyje nurodytas funkcijas nustato generalinis prokuroras. 
-
-
-Papildyta straipsniu:
-Nr. XII-1763, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09299
+Straipsnio pakeitimai:
+Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
  
 
 
@@ -2021,24 +2033,21 @@ Nr. XII-1763, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09299
 375 straipsnis. Lietuvos nacionalinio nario Eurojuste, jo pavaduotojo ir padėjėjo darbo vieta ir kitos garantijos 
 
 
-1. Lietuvos nacionalinio nario Eurojuste nuolatinė darbo vieta yra Eurojusto buveinės vietoje. Prireikus generalinis prokuroras gali nustatyti Lietuvos nacionalinio nario Eurojuste pavaduotojo ar padėjėjo darbo vietą Eurojusto buveinės vietoje.
+1. Lietuvos nacionalinio nario Eurojuste nuolatinė darbo vieta yra Eurojusto buveinės vietoje. Prireikus generalinis prokuroras gali nustatyti, o Eurojusto kolegijos prašymu jos nurodytam laikotarpiui privalo nustatyti Lietuvos nacionalinio nario Eurojuste pavaduotojo ar padėjėjo darbo vietą Eurojusto buveinės vietoje. 
 
 
 
 
-2. Lietuvos nacionaliniam nariui Eurojuste, jo pavaduotojui ir padėjėjui, kurių darbo vieta yra Eurojusto buveinės vietoje, mokamas šiame Įstatyme nustatytas darbo užmokestis. Pasibaigus paskyrimo į pareigas laikotarpiui, prokuroras jo sutikimu be atrankos perkeliamas į prokuroro pareigas Generalinėje prokuratūroje arba teritorinėje prokuratūroje. Šiuo pagrindu prokuroras be atrankos negali būti paskirtas į vyriausiojo prokuroro ar jo pavaduotojo pareigas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
- 
+2. Lietuvos nacionaliniam nariui Eurojuste, jo pavaduotojui ir padėjėjui, kurių darbo vieta yra Eurojusto buveinės vietoje, mokamas šiame Įstatyme nustatytas darbo užmokestis. Pasibaigus paskyrimo į pareigas laikotarpiui, prokuroras jo sutikimu be atrankos perkeliamas į prokuroro pareigas Generalinėje prokuratūroje arba teritorinėje prokuratūroje. Šiuo pagrindu prokuroras be atrankos negali būti paskirtas į vyriausiojo prokuroro ar jo pavaduotojo pareigas.
 
 
 
 
-3. Lietuvos nacionaliniam nariui Eurojuste, jo pavaduotojui ir padėjėjui, kurių darbo vieta yra Eurojusto buveinės vietoje, ir jų šeimos nariams taikomos šio Įstatymo 371 straipsnio 2 dalies nuostatos. 
+3. Lietuvos nacionaliniam nariui Eurojuste, jo pavaduotojui ir padėjėjui, taip pat šio Įstatymo 372 straipsnio 4 dalyje nurodytu atveju paskirtam prokurorui, kurių darbo vieta yra Eurojusto buveinės vietoje, ir jų šeimos nariams taikomos šio Įstatymo 371 straipsnio 2 dalies nuostatos. 
 
 
-Papildyta straipsniu:
-Nr. XII-1763, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09299
+Straipsnio pakeitimai:
+Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
  
 
 
@@ -2060,7 +2069,15 @@ Lietuvos nacionalinio nario Eurojuste, jo pavaduotojo ir padėjėjo įgaliojimai
 
 
 
-3) atleidus jį iš pareigų šio Įstatymo aštuntajame skirsnyje nustatytais pagrindais.
+3) atleidus jį iš pareigų šio Įstatymo aštuntajame skirsnyje nustatytais pagrindais;
+
+
+
+
+4) išrinkus jį Eurojusto ryšių palaikymo teisminiu pareigūnu pagal Reglamento (ES) 2018/1727 53 straipsnį. 
+Papildyta straipsnio punktu:
+Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
+ 
 
 
 
@@ -2072,7 +2089,23 @@ Nr. XII-1763, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09299
 
 
 
-377 straipsnis. Prokurorų dalyvavimas Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose
+377 straipsnis. Sutikimas komandiruoti Eurojusto ryšių palaikymo teisminį pareigūną 
+
+
+Sutikimą komandiruoti Eurojusto ryšių palaikymo teisminį pareigūną pagal Reglamento (ES) 2018/1727 53 straipsnio 3 dalį Eurojusto kolegijai teikia teisingumo ministras, suderinęs su valstybės ar savivaldybių institucijos ar įstaigos, kurios darbuotojas yra preliminariai atrinktas Eurojusto ryšių palaikymo teisminis pareigūnas, vadovu. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
+ 
+
+
+
+
+378 straipsnis. Prokurorų dalyvavimas Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose
+Straipsnio numeracijos pakeitimas:
+Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
+ 
 
 
 1. Prokuroras jo sutikimu gali būti paskirtas dalyvauti Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su prokuratūros misija ir tikslais susijusi veikla, paprastai ne ilgiau kaip trejiems metams, jeigu tarptautinėje sutartyje ar Europos Sąjungos teisės aktuose nenustatyta kitaip.
@@ -2100,7 +2133,10 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 
 
 
-378 straipsnis. Kandidatų į Europos prokurorus atrankos tvarka ir kandidatūrų siūlymas
+379 straipsnis. Kandidatų į Europos prokurorus atrankos tvarka ir kandidatūrų siūlymas
+Straipsnio numeracijos pakeitimas:
+Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
+ 
 
 
 1. Kandidatų į Europos prokurorus, nurodytus Reglamento (ES) 2017/1939 12 straipsnyje, atrankos tvarka nustatoma bendru teisingumo ministro ir generalinio prokuroro įsakymu. 
@@ -2128,7 +2164,10 @@ Nr. XIII-1902, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00797
 
 
 
-379 straipsnis. Kandidatų į Europos deleguotuosius prokurorus atrankos tvarka ir kandidatūrų siūlymas
+3710 straipsnis. Kandidatų į Europos deleguotuosius prokurorus atrankos tvarka ir kandidatūrų siūlymas
+Straipsnio numeracijos pakeitimas:
+Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
+ 
 
 
 1. Generalinio prokuroro nustatyta tvarka vyksta kandidatų į Europos deleguotuosius prokurorus, nurodytus Reglamento (ES) 2017/1939 13 straipsnyje, atranka.
@@ -3460,6 +3499,14 @@ Nr. XIII-1902, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00797
  
 
 
+
+
+3. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1727 dėl Europos Sąjungos bendradarbiavimo baudžiamosios teisenos srityje agentūros (Eurojusto) ir kuriuo pakeičiamas ir panaikinamas Tarybos sprendimas 2002/187/TVR (OL 2018 L 295, p. 138). 
+Papildyta punktu:
+Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
+ 
+
+
 Priedo pakeitimai:
 Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
  
@@ -3635,3 +3682,8 @@ Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 10 straipsnio pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1902, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00797
 Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 papildymo 37-8 ir 37-9 straipsniais ir 2 priedo pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 16-1, 37-2, 37-3, 37-4, 37-5, 37-6, 37-7, 37-8, 37-9 straipsnių ir 2 priedo pakeitimo ir Įstatymo papildymo nauju 37-7 straipsniu įstatymas
