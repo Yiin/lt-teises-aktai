@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0120FD7BCFFC"
 
 # Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas
 
-Suvestinė redakcija nuo 2015-01-01 iki 2019-12-12
+Suvestinė redakcija nuo 2019-12-13 iki 2022-01-27
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 60-1183, i. k. 0941010ISTA000I-558
  
@@ -371,7 +371,43 @@ Lietuvos Respublikos Vyriausybė, teikdama Lietuvos Respublikos Seimui dokumentu
 
 
 
-Lietuvos Respublikos Vyriausybė, teikdama Lietuvos Respublikos Seimui dokumentus dėl savivaldybių teritorijų ribų keitimo, kartu pateikia savivaldybių, kurių teritorijų ribos keičiamos, tarybų nuomonę ir teritorijos dalies, priskiriamos kitai savivaldybei, vietos gyventojų nuomonę, pareikštą vietos gyventojų apklausoje.
+Lietuvos Respublikos Vyriausybė parengia ir teikia Lietuvos Respublikos Seimui dokumentus dėl savivaldybių teritorijų ribų keitimo, kai tenkinamos visos šios sąlygos:
+
+
+1) savivaldybės teritorijos dalies, kurią siūloma priskirti kitai savivaldybei, vietos gyventojų apklausoje, kurioje dalyvavo daugiau kaip pusė šios savivaldybės teritorijos dalies vietos gyventojų, turinčių teisę dalyvauti apklausoje, daugiau kaip pusė dalyvavusiųjų pasisakė už šios savivaldybės teritorijos dalies priskyrimą kitai savivaldybei;
+
+
+
+
+2) savivaldybės teritorijos dalies be kitai savivaldybei siūlomos priskirti savivaldybės teritorijos vietos gyventojų apklausoje, kurioje dalyvavo daugiau kaip pusė šios savivaldybės teritorijos dalies vietos gyventojų, turinčių teisę dalyvauti apklausoje, daugiau kaip pusė dalyvavusiųjų pasisakė už šios savivaldybės teritorijos dalies priskyrimą kitai savivaldybei;
+
+
+
+
+3) savivaldybės, kurios teritorijos dalį siūloma priskirti kitai savivaldybei, teritorijos dalis be kitai savivaldybei siūlomos priskirti teritorijos atitinka šio straipsnio 1 dalies 1 ir 2 punktuose nustatytus kriterijus. 
+TAR pastaba. 7 straipsnio 3 ir 4 dalyse nustatyta tvarka yra taikoma toms savivaldybių teritorijų ribų keitimo procedūroms, dėl kurių inicijavimo iki įstatymo Nr. XIII-2583 įsigaliojimo (2019-12-13) savivaldybės taryba arba gyventojų iniciatyvinė grupė Lietuvos Respublikos Vyriausybės nustatyta tvarka nėra pateikusi reikalaujamų dokumentų.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-2583, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20019
+ 
+
+
+
+
+Šio straipsnio 3 dalies 2 ir 3 punktuose nustatytos sąlygos nėra taikomos, kai savivaldybių teritorijų ribos siūlomos keisti siekiant sujungti savivaldybių teritorijų ribomis padalytą gyvenamąją vietovę ar Nekilnojamojo turto kadastre įregistruotą žemės (miško) sklypą arba siekiant vienos ar kelių gyvenamųjų vietovių, priklausančių vienai savivaldybei, teritoriją, kurioje savo gyvenamąją vietą yra deklaravę ne daugiau kaip 500 gyventojų, priskirti gretimos savivaldybės teritorijai ir kai tam pritaria abiejų savivaldybių tarybos. 
+TAR pastaba. 7 straipsnio 3 ir 4 dalyse nustatyta tvarka yra taikoma toms savivaldybių teritorijų ribų keitimo procedūroms, dėl kurių inicijavimo iki įstatymo Nr. XIII-2583 įsigaliojimo (2019-12-13) savivaldybės taryba arba gyventojų iniciatyvinė grupė Lietuvos Respublikos Vyriausybės nustatyta tvarka nėra pateikusi reikalaujamų dokumentų.
+Papildyta straipsnio dalimi:
+Nr. XIII-2583, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20019
+ 
+
+
+
+
+Lietuvos Respublikos Vyriausybė, teikdama Lietuvos Respublikos Seimui dokumentus dėl savivaldybių teritorijų ribų keitimo, kartu pateikia savivaldybių, kurių teritorijų ribos keičiamos, tarybų nuomonę ir savivaldybės, kurios teritorijos dalį ketinama priskirti kitai savivaldybei, vietos gyventojų nuomonę, pareikštą vietos gyventojų apklausoje, nurodytoje šio straipsnio 3 dalies 1 ir (ar) 2 punktuose.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2583, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20019
+ 
 
 
 Straipsnio pakeitimai:
@@ -634,7 +670,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 
  
@@ -710,3 +746,8 @@ Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1426, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20561
 Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 3, 9 straipsnių pakeitimo ir Įstatymo papildymo 7-2, 12-1 straipsniais įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2583, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20019
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 7 straipsnio pakeitimo įstatymas
