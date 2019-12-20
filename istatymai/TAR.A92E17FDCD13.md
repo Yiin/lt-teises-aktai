@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A92E17FDCD13"
 
 # Lietuvos Respublikos medžioklės įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-12-19
+Suvestinė redakcija nuo 2019-12-20 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2634; Žin. 2002, Nr.112-0, i. k. 1021010ISTA00IX-966
  
@@ -165,7 +165,10 @@ Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
 
 
 
-22. Profesionalios medžioklės plotai – miškų urėdijų prižiūrimi ir profesionaliai tvarkomi medžioklės plotai, kuriuose įgyvendinamos specialios medžiojamųjų gyvūnų populiacijų gausinimo priemonės bei plėtojamas medžioklės turizmas.
+22. Profesionalios medžioklės plotai – miškų urėdijos prižiūrimi ir profesionaliai tvarkomi medžioklės plotai, kuriuose įgyvendinamos specialios medžiojamųjų gyvūnų populiacijų gausinimo priemonės bei plėtojamas medžioklės turizmas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2637, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20659
+ 
 
 
 
@@ -726,7 +729,10 @@ Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
 2. Leidimą naudoti medžiojamųjų gyvūnų išteklius konkrečiame medžioklės plotų vienete išduoda Aplinkos apsaugos departamentas, Aplinkos ministerijos nustatyta tvarka organizuodamas leidimo naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete išdavimo konkursą, išskyrus atvejus, kai:
 
 
-1) Aplinkos ministerijos siūlymu leidimas naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete išduodamas biologinio profilio mokslo ir mokymo įstaigoms, vykdančioms laukinės gyvūnijos, jos gyvenamosios aplinkos ir medžioklės mokslinius tyrimus, studentų, medžiotojų arba siekiančių jais tapti asmenų mokymą, arba miškų urėdijoms profesionaliai medžioklei plėtoti, medžioklės turizmui organizuoti bei specialioms medžiojamųjų gyvūnų populiacijų gausinimo priemonėms įgyvendinti;
+1) Aplinkos ministerijos siūlymu leidimas naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete išduodamas biologinio profilio mokslo ir mokymo įstaigoms, vykdančioms laukinės gyvūnijos, jos gyvenamosios aplinkos ir medžioklės mokslinius tyrimus, studentų, medžiotojų arba siekiančių jais tapti asmenų mokymą, arba miškų urėdijai profesionaliai medžioklei plėtoti, medžioklės turizmui organizuoti bei specialioms medžiojamųjų gyvūnų populiacijų gausinimo priemonėms įgyvendinti;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2637, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20659
+ 
 
 
 
@@ -1429,7 +1435,7 @@ Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. 1131010IST
 7. Iki tol, kol medžioklės plotai bus pripažinti medžioklės plotų vienetais pagal jų naudojimo tęstinumą, privaloma laikytis šio Įstatymo 8 straipsnio 9, 10 ir 11 dalyse nustatytų sąlygų.
 TAR pastaba. Pripažinti, kad Lietuvos Respublikos medžioklės įstatymo 22 straipsnio 7 dalis ta apimtimi, kuria įtvirtinta, kad iki tol, kol medžioklės plotai bus pripažinti medžioklės plotų vienetais pagal jų naudojimo tęstinumą, privaloma laikytis: 1) Medžioklės įstatymo 8 straipsnio 9 dalies ta apimtimi, kuria nustatyta, jog privačios žemės sklypo savininkas apie tai, kad jam nuosavybės teise priklausantį žemės sklypą ketinama naudoti medžiojimui, informuojamas ne tiesiogiai, o tik atitinkamos savivaldybės komisijai apie parengtą preliminarų medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projektą paskelbus šalies bei vietinėje spaudoje; 2) Medžioklės įstatymo 8 straipsnio 9 dalies ta apimtimi, kuria nustatytas 1 mėnesio terminas, per kurį šio įstatymo 13 straipsnio 2 dalyje nurodyti asmenys atitinkamos savivaldybės komisijai raštu gali pateikti reikalavimus dėl medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projekto; 3) Medžioklės įstatymo 8 straipsnio 9 dalies nuostatos „Pasikeitus žemės sklypo savininkui, toks pareiškimas gali būti pateikiamas per seniūniją, kurioje yra šis žemės sklypas, per 1 mėnesį po nuosavybės teisės įregistravimo Nekilnojamojo turto registre“; 4) Medžioklės įstatymo 8 straipsnio 10 dalies ta apimtimi, kuria nustatyta, kad komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti gali ir neatsižvelgti į privačios žemės, miško, vandens telkinio savininko valią, kad jam nuosavybės teise priklausančiame žemės sklype, miške, vandens telkinyje nebūtų medžiojama, prieštarauja Lietuvos Respublikos Konstitucijos 23 straipsnio 1 ir 2 dalims.
 Straipsnio dalies pakeitimai:
-2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456            
  
 
 
@@ -1518,3 +1524,8 @@ Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1915, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00848
 Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14 ir 16 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2637, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20659
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 10 straipsnių pakeitimo įstatymas
