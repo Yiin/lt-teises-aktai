@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-12-19
+Suvestinė redakcija nuo 2019-12-20 iki 2019-12-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -929,7 +929,7 @@ ADMINISTRACINĖS NUOBAUDOS IR ADMINISTRACINIO POVEIKIO PRIEMONĖS
 
 
 
-4) draudimas lankytis viešosiose vietose vykstančiuose renginiuose. 
+4) draudimas lankytis viešosiose vietose vykstančiuose renginiuose; 
 
 
 
@@ -17115,7 +17115,6 @@ užtraukia įspėjimą arba baudą nuo devyniasdešimt iki vieno šimto keturias
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
  
- 
 
 
 
@@ -17133,7 +17132,6 @@ užtraukia įspėjimą arba baudą nuo trisdešimt iki devyniasdešimt eurų.
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
- 
  
 
 
@@ -18437,10 +18435,11 @@ Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069
 
 
 
-43) miškų urėdijos (urėdijų) valstybiniai miškų pareigūnai – dėl šio kodekso 110, 112, 114 straipsniuose, 247 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 dalyse, 256, 261, 264, 270, 271, 272, 273, 274, 275 straipsniuose, 276 straipsnio 1, 2, 5, 6, 7, 8 dalyse, 277, 278, 279, 280, 282, 283 straipsniuose, 284 straipsnio 1, 3, 4 dalyse, 286, 290, 305, 364 straipsniuose, 426 straipsnio 4 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+43) miškų urėdijos valstybiniai miškų pareigūnai – dėl šio kodekso 110, 112, 114 straipsniuose, 247 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 dalyse, 256, 261, 264, 270, 271, 272, 273, 274, 275 straipsniuose, 276 straipsnio 1, 2, 5, 6, 7, 8 dalyse, 277, 278, 279, 280, 282, 283 straipsniuose, 284 straipsnio 1, 3, 4 dalyse, 286, 290, 305, 364 straipsniuose, 426 straipsnio 4 dalyje, 505, 507 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-973, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21758
+Nr. XIII-2636, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20658
  
 
 
@@ -22181,6 +22180,7 @@ Nutarimas, kuriuo paskirta administracinio poveikio priemonė – turto konfiska
 
 
 
+ 
 Lietuvos Respublikos 
 administracinių nusižengimų kodekso 
 priedas
@@ -23563,4 +23563,24 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 459 straipsnio pakei
 86.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2468, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17213
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+ 
+87.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404
+Lietuvos Respublikos administracinių nusižengimų kodekso 27, 34, 420, 422, 423, 424 straipsnių pakeitimo ir Kodekso papildymo 31-1 ir 693 straipsniais įstatymas
+ 
+88.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
+Lietuvos Respublikos administracinių nusižengimų kodekso 53, 247, 256, 305, 385 ir 589 straipsnių pakeitimo įstatymas
+ 
+89.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
+Lietuvos Respublikos administracinių nusižengimų kodekso 426, 449, 454, 455, 589 straipsnių pakeitimo ir Kodekso papildymo 449-1 straipsniu įstatymas
+ 
+90.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2636, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20658
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
