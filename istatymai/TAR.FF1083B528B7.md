@@ -20,7 +20,7 @@ Redaguota : 1995 07 21
 
 
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-12-19
+Suvestinė redakcija nuo 2019-12-20 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
  
@@ -2697,7 +2697,10 @@ Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
 
 
 
-9. Apsaugos ir tvarkymo veiklai valstybiniame parke ar biosferos rezervate koordinuoti sudaroma jungtinė taryba iš saugomos teritorijos direkcijos, savivaldybių, kurių teritorijose yra valstybinis parkas ar biosferos rezervatas, institucijų, regionuose veikiančių aplinkos apsaugos, kultūros paveldo institucijų teritorinių padalinių, miškų urėdijų, valstybiniame parke ar biosferos rezervate veikiančių vietos bendruomenių ir nevyriausybinių organizacijų atstovų. Jungtinėje taryboje gali būti kitų valstybės ir savivaldybių institucijų ir įstaigų atstovų. Jungtinės tarybos personalinę sudėtį tvirtina saugomos teritorijos direkcijos steigėjas. Jungtinės tarybos sudarymo tvarką nustato ir veiklos aprašą tvirtina Vyriausybės įgaliotos institucijos. Valstybinio parko ar biosferos rezervato jungtinė taryba svarsto ir teikia pasiūlymus saugomos teritorijos direkcijai ir jos steigėjui dėl parengto valstybinio parko ar biosferos rezervato planavimo schemos (ribų ir tvarkymo planų) projekto ir kitais svarbiausiais valstybinio parko apsaugos ir tvarkymo organizavimo klausimais.
+9. Apsaugos ir tvarkymo veiklai valstybiniame parke ar biosferos rezervate koordinuoti sudaroma jungtinė taryba iš saugomos teritorijos direkcijos, savivaldybių, kurių teritorijose yra valstybinis parkas ar biosferos rezervatas, institucijų, regionuose veikiančių aplinkos apsaugos, kultūros paveldo institucijų teritorinių padalinių, miškų urėdijos, valstybiniame parke ar biosferos rezervate veikiančių vietos bendruomenių ir nevyriausybinių organizacijų atstovų. Jungtinėje taryboje gali būti kitų valstybės ir savivaldybių institucijų ir įstaigų atstovų. Jungtinės tarybos personalinę sudėtį tvirtina saugomos teritorijos direkcijos steigėjas. Jungtinės tarybos sudarymo tvarką nustato ir veiklos aprašą tvirtina Vyriausybės įgaliotos institucijos. Valstybinio parko ar biosferos rezervato jungtinė taryba svarsto ir teikia pasiūlymus saugomos teritorijos direkcijai ir jos steigėjui dėl parengto valstybinio parko ar biosferos rezervato planavimo schemos (ribų ir tvarkymo planų) projekto ir kitais svarbiausiais valstybinio parko apsaugos ir tvarkymo organizavimo klausimais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2638, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20660
+ 
 
 
 
@@ -2707,7 +2710,10 @@ Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
 
 
 
-11. Pagal kompetenciją specialias apsaugos ir tvarkymo priemones tinklo „Natura 2000“ teritorijose įgyvendina miškų urėdijos, savivaldybių ir kitos institucijos.
+11. Pagal kompetenciją specialias apsaugos ir tvarkymo priemones tinklo „Natura 2000“ teritorijose įgyvendina miškų urėdija, savivaldybių ir kitos institucijos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2638, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20660
+ 
 
 
 
@@ -3641,3 +3647,8 @@ Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 9, 13 ir 20 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2095, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07052
 Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 23, 28 ir 28-1 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2638, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20660
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 27 straipsnio pakeitimo įstatymas
