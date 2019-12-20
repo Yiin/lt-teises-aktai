@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-19
+Suvestinė redakcija nuo 2019-12-20 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
  
@@ -1054,7 +1054,10 @@ d) kitą teisės aktų nustatyta tvarka mokamą atlyginimą;
 
 
 
-7) būti paskirtas (išrinktas) valstybės įmonių, savivaldybės įmonių, akcinių bendrovių arba uždarųjų akcinių bendrovių, kurių akcijos ar dalis akcijų, suteikiančios daugiau kaip 1/2  balsų šių bendrovių visuotiniuose akcininkų susirinkimuose, priklauso valstybei ar savivaldybei nuosavybės teise, kolegialių organų nariu; 
+7) diplomatą į pareigas priimančio asmens sprendimu būti paskirtas (išrinktas) eiti su valstybės atstovavimu susijusias pareigas įmonių, įstaigų, organizacijų, nepaisant jų nuosavybės formos, teisinės formos, rūšies bei veiklos pobūdžio, kolegialiuose organuose;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2611, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20638
+ 
 
 
 
@@ -4026,3 +4029,8 @@ Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1818, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21838
 Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 pakeitimo įstatymo Nr. XIII-1393 1 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2611, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20638
+Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 30 straipsnio pakeitimo įstatymas
