@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B9E1D301256F"
 
 # Lietuvos Respublikos akcizų įstatymas
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-12-19
+Suvestinė redakcija nuo 2019-12-20 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 98-3482, i. k. 1011010ISTA00IX-569
  
@@ -3010,11 +3010,12 @@ Akcizų už elektroninių cigarečių skystį mokėtojai yra registruoti akcizų
 65 straipsnis. Kaitinamojo tabako produktams ir elektroninių cigarečių skysčiui taikomi akcizų tarifai
 
 
-1. Kaitinamojo tabako produktams taikomas 68,6 euro už kilogramą tabako akcizų tarifas.
+1. Kaitinamojo tabako produktams taikomas 68,6 euro už kilogramą tabako akcizų tarifas. 
 1 dalies redakcija nuo 2020-03-01:
-1. Kaitinamojo tabako produktams taikomas 78,5 euro už kilogramą tabako akcizų tarifas.
-1 dalies redakcija nuo 2021-03-01:
-1. Kaitinamojo tabako produktams taikomas 90 eurų už kilogramą tabako akcizų tarifas.
+1. Kaitinamojo tabako produktams taikomas 113,2 euro už kilogramą tabako akcizų tarifas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2612, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20642
+ 
 
 
 
@@ -3843,6 +3844,11 @@ Lietuvos Respublikos akcizų įstatymo Nr. IX-569 26 straipsnio pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
 Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3, 4 ir 70 straipsnių ir II skyriaus pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2612, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20642
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3, 30, 31 straipsnių, II ir III skyrių pakeitimo įstatymo Nr. XIII-1327 8 ir 9 straipsnių pakeitimo įstatymas
  
  
 
