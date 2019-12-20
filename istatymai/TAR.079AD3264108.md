@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.079AD3264108"
 
 # Lietuvos Respublikos valstybės turto perėmimo savivaldybių nuosavybėn įstatymas
 
-Suvestinė redakcija nuo 2008-10-18 iki 2019-12-19
+Suvestinė redakcija nuo 2019-12-20 iki 2022-07-07
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 6-113, i. k. 0971010ISTAVIII-546
  
@@ -290,9 +290,11 @@ l) katilinės ir šilumos tinklai;
 
 
 
-5. Savivaldybių nuosavybėn perduodami apskričių viršininkų, kitų valstybės institucijų, miškų urėdijų, valstybinių parkų administracijų valdomi valstybei nuosavybės teise priklausantys vietinės reikšmės viešieji keliai.
+5. Savivaldybių nuosavybėn perduodami apskričių viršininkų, kitų valstybės institucijų, miškų urėdijos, valstybinių parkų administracijų valdomi valstybei nuosavybės teise priklausantys vietinės reikšmės viešieji keliai.
 Papildyta straipsnio dalimi:
 Nr. IX-1114, 2002-10-03, Žin., 2002, Nr. 101-4493 (2002-10-23), i. k. 1021010ISTA0IX-1114
+Straipsnio dalies pakeitimai:
+Nr. XIII-2639, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20661
  
 
 
@@ -469,7 +471,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
  
 
 
@@ -486,3 +488,8 @@ Lietuvos Respublikos valstybės turto perdavimo savivaldybių nuosavybėn įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1734, 2008-09-29, Žin., 2008, Nr. 120-4546 (2008-10-18), i. k. 1081010ISTA00X-1734
 Lietuvos Respublikos valstybės turto perdavimo savivaldybių nuosavybėn įstatymo 3 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2639, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20661
+Lietuvos Respublikos valstybės turto perdavimo savivaldybių nuosavybėn įstatymo Nr. VIII-546 3 straipsnio pakeitimo įstatymas
