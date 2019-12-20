@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-07-02 iki 2019-12-19
+Suvestinė redakcija nuo 2019-12-20 iki 2019-12-21
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -965,7 +965,10 @@ d) kitą teisės aktų nustatyta tvarka mokamą atlyginimą;
 
 
 
-7) būti paskirti (išrinkti) valstybės įmonių, savivaldybės įmonių, akcinių bendrovių arba uždarųjų akcinių bendrovių, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 balsų šių bendrovių visuotiniuose akcininkų susirinkimuose, priklauso valstybei ar savivaldybei nuosavybės teise, kolegialių organų nariais;
+7) valstybės tarnautoją į pareigas priimančio asmens sprendimu būti paskirti (išrinkti) eiti su valstybės ar savivaldybės atstovavimu susijusias pareigas įmonių, įstaigų, organizacijų, nepaisant jų nuosavybės formos, teisinės formos, rūšies bei veiklos pobūdžio, kolegialiuose organuose;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2610, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20634
+ 
 
 
 
@@ -3924,3 +3927,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 8, 10 ir 51 straipsnių pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2610, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20634
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 17 straipsnio pakeitimo įstatymas
