@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/5f4fbc907f8111e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3, 30, 31 straipsnių, II ir III skyrių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2019-12-20
+ 
+Įstatymas paskelbtas: TAR 2018-07-04, i. k. 2018-11320
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 AKCIZŲ ĮSTATYMO NR. IX-569 1, 2, 3, 30, 31 STRAIPSNIŲ, II IR III SKYRIŲ PAKEITIMO
 ĮSTATYMAS
@@ -101,6 +108,7 @@ Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 6) elektros energija.“
+ 
 
 
 
@@ -136,6 +144,7 @@ Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 „181. Kaitinamojo tabako produktai – prie cigarų ir cigarilių, cigarečių ir rūkomojo tabako, kaip jie apibrėžti šio straipsnio 10, 11 ir 27 dalyse, nepriskiriami tabako gaminiai, paruošti vartoti tik specialiame elektroniniame įrenginyje, kuriame tabako gaminiai yra kaitinami jiems nedegant.“
+ 
 
 
 
@@ -225,6 +234,7 @@ Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 „3. Šio straipsnio 1 dalyje cigaretėms nustatytas kombinuotasis akcizų tarifas turi būti ne mažesnis kaip 115,5 euro už 1 000 cigarečių.“
+ 
 
 
 
@@ -300,6 +310,7 @@ Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 2. Rūkomajam tabakui taikomas 90 eurų už kilogramą produkto akcizų tarifas.“
+ 
 
 
 
@@ -628,6 +639,7 @@ Akcizų už elektroninių cigarečių skystį mokėtojai yra registruoti akcizų
 
 
 Kaitinamojo tabako produktai, skirti parduoti Lietuvos Respublikoje, turi būti paženklinti specialiais ženklais – banderolėmis. Šiame straipsnyje nurodytų produktų ženklinimo tvarką ir atvejus, kai ženklinti nereikalaujama, nustato Vyriausybė.“
+ 
 
 
 
@@ -660,6 +672,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 Akcizai įskaitomi į valstybės biudžetą.“
+ 
 
 
 
@@ -677,32 +690,21 @@ Akcizai įskaitomi į valstybės biudžetą.“
 8 straipsnis. 65 straipsnio pakeitimas
 
 
-1. Pakeisti 65 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti 65 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 
 
-„1. Kaitinamojo tabako produktams taikomas 78,5 euro už kilogramą tabako akcizų tarifas.“
-
-
-
-
-
-
-
-
-2. Pakeisti 65 straipsnio 1 dalį ir ją išdėstyti taip:
-
-
-
-
-„1. Kaitinamojo tabako produktams taikomas 90 eurų už kilogramą tabako akcizų tarifas.“
+„1. Kaitinamojo tabako produktams taikomas 113,2 euro už kilogramą tabako akcizų tarifas.“
 
 
 
 
 
 
+Straipsnio pakeitimai:
+Nr. XIII-2612, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20642
+ 
 
 
 
@@ -715,12 +717,18 @@ Akcizai įskaitomi į valstybės biudžetą.“
 
 
 
-2. Šio įstatymo 4 straipsnio 3 ir 4 dalys, 5 straipsnio 2 dalis ir 8 straipsnio 1 dalis įsigalioja 2020 m. kovo 1 d. 
+2. Šio įstatymo 4 straipsnio 3 ir 4 dalys, 5 straipsnio 2 dalis ir 8 straipsnis įsigalioja 2020 m. kovo 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2612, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20642
+ 
 
 
 
 
-3. Šio įstatymo 4 straipsnio 5 ir 6 dalys, 5 straipsnio 3 dalis ir 8 straipsnio 2 dalis įsigalioja 2021 m. kovo 1 d.
+3. Šio įstatymo 4 straipsnio 5 ir 6 dalys ir 5 straipsnio 3 dalis įsigalioja 2021 m. kovo 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2612, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20642
+ 
 
 
 
@@ -747,4 +755,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                          Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2612, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20642
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3, 30, 31 straipsnių, II ir III skyrių pakeitimo įstatymo Nr. XIII-1327 8 ir 9 straipsnių pakeitimo įstatymas
