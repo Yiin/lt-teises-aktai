@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-12-19
+Suvestinė redakcija nuo 2019-12-20 iki 2019-12-31
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
- 
-TAR pastaba. Jeigu mokytojų, kurių darbo užmokestis įsigaliojus (2019-09-01) įstatymui Nr. XIII-1780 yra didesnis už buvusį iki šio įstatymo įsigaliojimo darbo užmokestį, paliekamas iki šio įstatymo įsigaliojimo nustatytas darbo užmokestis tol, kol asmuo eina tas pačias pareigas arba kol įstatymų nustatyta tvarka darbo užmokestis bus pakeistas.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-1780, 2018-12-13, paskelbta TAR 2018-12-20, i. k. 2018-20997
-Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 4 straipsnio ir 5 priedo pakeitimo įstatymas
  
  
 
@@ -1304,85 +1299,8 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 
 
  
-1 punkto redakcija nuo 2020-01-01:
-1. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai:
- 
-
-
-
- Kvalifikacinė  kategorija  
- Pastoviosios dalies koeficientai (pareiginės algos baziniais dydžiais) 
-
-
- pedagoginio darbo stažas (metais) 
-
-
- iki 2 
- nuo daugiau kaip 2 iki 5  
- nuo daugiau kaip 5 iki 10 
- nuo daugiau kaip 10 iki 15 
- nuo daugiau kaip 15 iki 20 
- nuo daugiau kaip 20 iki 25 
- daugiau kaip 25 
-
-
- Nesuteiktos kvalifikacinės kategorijos 
-
-
- Mokytojas 
- 6,42 
- 6,44 
- 6,5 
- 6,62 
- 6,82 
- 6,85 
- 6,89 
-
-
- Suteiktos kvalifikacinės kategorijos 
-
-
- Mokytojas 
- 6,9 
- 6, 91 
- 6,92 
- 6,95 
- 6,97 
- 7,0 
- 7,05 
-
-
- Vyresnysis mokytojas 
-
- 7,06 
- 7,08 
- 7,12 
- 7,4 
- 7,44 
- 7,47 
-
-
- Mokytojas metodininkas 
-
-
- 7,54 
- 7,68 
- 7,92 
- 7,96 
- 8,0 
-
-
- Mokytojas ekspertas 
-
-
- 8,58 
- 8,72 
- 8,94 
- 8,98 
- 9,02 
-
-
-
+Punkto pakeitimai:
+Nr. XIII-2607, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20632
  
 
 
@@ -1391,13 +1309,9 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 2. Pareiginės algos pastoviosios dalies koeficientai dėl veiklos sudėtingumo mokytojams:
 
 
-2.1. didinami 3–15 procentų:
-2.1. papunkčio pirmosios pastraipos redakcija nuo 2019-09-02:
 2.1. didinami 1–15 procentų:
 
 
-2.1.1. dirbantiems bendrojo ugdymo mokyklose, išskyrus šio priedo 2.1.2 ir 2.1.3 papunkčiuose nurodytas mokyklas, įstaigose, vykdančiose profesinio mokymo, neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), kurių klasėje (grupėje) ugdomi 2 ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių vidutinius specialiuosius ugdymosi poreikius, ir (arba) 1 ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių didelių ar labai didelių specialiųjų ugdymosi poreikių;
-2.1.1. papunkčio redakcija nuo 2019-09-02:
 2.1.1. dirbantiems bendrojo ugdymo mokyklose, išskyrus šio priedo 2.1.2 ir 2.1.3 papunkčiuose nurodytas mokyklas, įstaigose, vykdančiose profesinio mokymo, neformaliojo švietimo programas (išskyrus ikimokyklinio ir priešmokyklinio ugdymo programas), kurių klasėje (grupėje) ugdomi  vienas ir daugiau mokinių, dėl įgimtų ar įgytų sutrikimų turinčių vidutinius, didelius ar labai didelius specialiuosius ugdymosi poreikius;
 
 
@@ -2716,3 +2630,8 @@ Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1780, 2018-12-13, paskelbta TAR 2018-12-20, i. k. 2018-20997
 Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 4 straipsnio ir 5 priedo pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2607, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20632
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 5 priedo pakeitimo įstatymo Nr. XIII-1838 pakeitimo įstatymas
