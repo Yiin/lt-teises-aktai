@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f65af7c00aa111e9a5eaf2cd290f1944"
 
 # Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 5 priedo pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2019-12-20
+ 
+Įstatymas paskelbtas: TAR 2018-12-28, i. k. 2018-21865
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ DARBUOTOJŲ DARBO APMOKĖJIMO ĮSTATYMO NR. XIII-198 5 PRIEDO PAKEITIMO
 ĮSTATYMAS
@@ -28,93 +35,10 @@ Vilnius
 1 straipsnis. Įstatymo 5 priedo pakeitimas
 
 
-1. Pakeisti Įstatymo 5 priedo 1 punktą ir jį išdėstyti taip:
-
-
-
-
-„1. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai:
-
-
-
- Kvalifikacinė  kategorija  
- Pastoviosios dalies koeficientai (pareiginės algos baziniais dydžiais) 
-
-
- pedagoginio darbo stažas (metais) 
-
-
- iki 2 
- nuo daugiau kaip 2 iki 5  
- nuo daugiau kaip 5  iki 10 
- nuo daugiau kaip 10  iki 15 
- nuo daugiau kaip 15  iki 20 
- nuo daugiau kaip 20  iki 25 
- daugiau kaip 25 
-
-
- Nesuteiktos kvalifikacinės kategorijos 
-
-
- Mokytojas 
- 6,42 
- 6,44 
- 6,5 
- 6,62 
- 6,82 
- 6,85 
- 6,89 
-
-
- Suteiktos kvalifikacinės kategorijos 
-
-
- Mokytojas 
- 6,9 
- 6,91 
- 6,92 
- 6,95 
- 6,97 
- 7,0 
- 7,05 
-
-
- Vyresnysis mokytojas 
-
- 7,06 
- 7,08 
- 7,12 
- 7,4 
- 7,44 
- 7,47 
-
-
- Mokytojas metodininkas 
-
-
- 7,54 
- 7,68 
- 7,92 
- 7,96 
- 8,0 
-
-
- Mokytojas ekspertas 
-
-
- 8,58 
- 8,72 
- 8,94 
- 8,98 
- 9,02“ 
-
-
-
+1. Neteko galios nuo 2019-12-20
+Straipsnio dalies naikinimas:
+Nr. XIII-2607, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20632
  
-
-
-
-
 
 
 
@@ -321,12 +245,18 @@ Vilnius
 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 
-1. Šis įstatymas, išskyrus 1 straipsnio 1, 2 ir 3 dalis ir šio straipsnio 4 dalį, įsigalioja 2019 m. sausio 1 d.
+1. Šis įstatymas, išskyrus 1 straipsnio 2 ir 3 dalis ir šio straipsnio 4 dalį, įsigalioja 2019 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2607, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20632
+ 
 
 
 
 
-2. Šio įstatymo 1 straipsnio 1 dalis įsigalioja 2020 m. sausio 1 d. 
+2. Neteko galios nuo 2019-12-20
+Straipsnio dalies naikinimas:
+Nr. XIII-2607, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20632
+ 
 
 
 
@@ -349,3 +279,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2607, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20632
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatymo Nr. XIII-198 5 priedo pakeitimo įstatymo Nr. XIII-1838 pakeitimo įstatymas
