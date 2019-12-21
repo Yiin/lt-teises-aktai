@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/81d99b206f0d11e8b83be60b2e217f90"
 
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 1, 2, 6, 8, 45, 47, 56, 57, 58, 59 straipsnių pakeitimo, Įstatymo papildymo 6-1, 39-1, 57-1, 58-1, 58-2, 58-3 straipsniais ir priedu ir 15, 16, 17, 60 straipsnių pripažinimo netekusiais galios įstatymas
 
+Suvestinė redakcija nuo 2019-12-21 iki 2022-04-28
+ 
+Įstatymas paskelbtas: TAR 2018-06-14, i. k. 2018-09844
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO ĮSTATYMO NR. VIII-1212 1, 2, 6, 8, 45, 47, 56, 57, 58, 59 STRAIPSNIŲ PAKEITIMO, ĮSTATYMO PAPILDYMO 61, 391, 571, 581, 582, 583 STRAIPSNIAIS IR PRIEDU IR 15, 16, 17, 60 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS 
 ĮSTATYMAS
@@ -34,6 +41,7 @@ Papildyti 1 straipsnį 5 dalimi:
 
 
 „5. Šiuo įstatymu įgyvendinamas Europos Sąjungos teisės aktas, nurodytas šio įstatymo priede.“
+ 
 
 
 
@@ -81,6 +89,7 @@ Papildyti 1 straipsnį 5 dalimi:
 
 
 „27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Kolektyvinio investavimo subjektų įstatyme ir Lietuvos Respublikos pensijų sistemos reformos įstatyme.“
+ 
 
 
 
@@ -100,6 +109,7 @@ Pakeisti 6 straipsnio 1 dalies 10 punktą ir jį išdėstyti taip:
 
 
 „10) užtikrinti, kad sprendimus dėl turto valdymo priimantys asmenys turėtų tinkamą kvalifikaciją, darbo patirtį ir būtų nepriekaištingos reputacijos. Sprendimus priimančių asmenų kvalifikacija ir darbo patirtis vertinama atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir darbo patirčiai.“
+ 
 
 
 
@@ -122,6 +132,7 @@ Papildyti Įstatymą 61 straipsniu:
 
 
 Valdymo įmonė turi užtikrinti, kad būtų įdiegtos priemonės, leidžiančios jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo, Reglamento (ES) Nr. 1286/2014 ir kitų pensijų kaupimo veiklą reglamentuojančių teisės aktų pažeidimą. Šioms priemonėms įdiegti valdymo įmonė gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio 2, 3 ir 4 punktuose nustatyti reikalavimai.“
+ 
 
 
 
@@ -182,6 +193,7 @@ Papildyti Įstatymą 391 straipsniu:
 
 
 2. Valdymo įmonė privalo išnagrinėti rašytinį pensijų fondo dalyvio skundą ir ne vėliau kaip per 15 darbo dienų nuo skundo gavimo dienos pateikti išsamų, motyvuotą, dokumentais pagrįstą atsakymą raštu popieriuje ar naudodama kitą patvariąją laikmeną, jeigu dėl to susitarė pensijų fondo dalyvis ir valdymo įmonė. Išskirtiniais atvejais, kai dėl priežasčių, kurių valdymo įmonė negali kontroliuoti, atsakymo neįmanoma pateikti per 15 darbo dienų, ji turi išsiųsti negalutinį atsakymą aiškiai nurodžiusi atsakymo į skundą vėlavimo priežastis ir terminą, iki kurio pensijų fondo dalyvis gaus galutinį atsakymą. Bet kuriuo atveju galutinio atsakymo pateikimo terminas neturi viršyti 35 darbo dienų nuo skundo gavimo dienos. Valdymo įmonė pensijų fondo dalyvio skundus nagrinėja neatlygintinai.“
+ 
 
 
 
@@ -217,6 +229,7 @@ Papildyti Įstatymą 391 straipsniu:
 
 
 „3. Pensijų turtas negali būti investuotas į tauriuosius metalus arba į suteikiančius į juos teises vertybinius popierius ir nekilnojamąjį turtą.“
+ 
 
 
 
@@ -236,6 +249,7 @@ Pakeisti 47 straipsnio 9 dalį ir ją išdėstyti taip:
 
 
 „9. Į įmonių, priklausančių grupei, kuri turi sudaryti konsoliduotąsias finansines ataskaitas, išleistus perleidžiamuosius vertybinius popierius ir pinigų rinkos priemones gali būti investuota ne daugiau kaip 20 procentų grynųjų aktyvų.“
+ 
 
 
 
@@ -263,6 +277,7 @@ Pakeisti 56 straipsnį ir jį išdėstyti taip:
 
 
 2. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi Lietuvos banko įstatymu, Kolektyvinio investavimo subjektų įstatymu, šiuo įstatymu ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai.“
+ 
 
 
 
@@ -305,6 +320,7 @@ Priežiūros institucija atlieka šias funkcijas:
 
 
 4) atlieka kitas šiame ir kituose įstatymuose nustatytas funkcijas.“
+ 
 
 
 
@@ -331,6 +347,7 @@ Papildyti Įstatymą 571 straipsniu:
 
 
 Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugoti taikomos Lietuvos banko įstatymo 43 straipsnio nuostatos.“
+ 
 
 
 
@@ -420,6 +437,7 @@ Pakeisti 58 straipsnį ir jį išdėstyti taip:
 
 
 6. Valdymo įmonės privalo vykdyti šio straipsnio 3 ir 5 dalyse nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai.“
+ 
 
 
 
@@ -489,6 +507,7 @@ Papildyti Įstatymą 581 straipsniu:
 
 
 2. Priežiūros institucija turi teisę taikyti depozitoriumui šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytas poveikio priemones.“
+ 
 
 
 
@@ -568,6 +587,7 @@ Papildyti Įstatymą 582 straipsniu:
 
 
 2. Poveikio priemonių taikymo tvarką nustato Lietuvos banko įstatymas.“
+ 
 
 
 
@@ -630,6 +650,7 @@ Papildyti Įstatymą 583 straipsniu:
 
 
 3) panaikinamas valdymo įmonės licencijos galiojimas.“
+ 
 
 
 
@@ -696,6 +717,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 
 
 7. Baudos apskaičiuojamos vadovaujantis Lietuvos banko įstatymo 433 straipsnyje nustatyta tvarka.“
+ 
 
 
 
@@ -723,12 +745,11 @@ Pripažinti netekusiu galios 60 straipsnį.
 
 
 Papildyti Įstatymą priedu: 
- 
 
 
 
 
-„Lietuvos Respublikos 
+„Lietuvos Respublikos
 papildomo savanoriško
 pensijų kaupimo įstatymo
 priedas
@@ -737,7 +758,7 @@ priedas
  
 
 
-1. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1).“
+1. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1) su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156 (OL 2019 L 188, p. 55).“
 
 
 
@@ -746,6 +767,9 @@ priedas
 
 
 
+Straipsnio pakeitimai:
+Nr. XIII-2657, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20831
+ 
 
 
 
@@ -758,7 +782,10 @@ priedas
 
 
 
-2. Jeigu valdymo įmonė, rengdama pagrindinės informacijos investuotojams dokumentą, vietoj Reglamento (ES) Nr. 1286/2014 nustatytų reikalavimų pasirenka vadovautis Lietuvos Respublikos kolektyvinio investavimo įstatyme ir jo įgyvendinamuosiuose teisės aktuose pagrindinės informacijos investuotojams dokumento rengimui ir teikimui nustatytais reikalavimais, šio įstatymo 3 straipsnyje nustatytas reikalavimas ir kiti Reglamente (ES) Nr. 1286/2014 nustatyti reikalavimai joms taikomi nuo 2020 m. sausio 1 d. Tokiu atveju valdymo įmonė iki 2019 m. gruodžio 31 d. privalo vadovautis Lietuvos Respublikos kolektyvinio investavimo įstatyme ir Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio 2, 3 ir 4 punktuose nustatytais reikalavimais dėl priemonių, leidžiančių jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo ir kitų kolektyvinio investavimo subjektų veiklą reglamentuojančių teisės aktų pažeidimą. Valdymo įmonė apie tokį savo pasirinkimą informuoja priežiūros instituciją nedelsdama po šio įstatymo įsigaliojimo.
+2. Jeigu valdymo įmonė, rengdama pagrindinės informacijos investuotojams dokumentą, vietoj Reglamento (ES) Nr. 1286/2014 nustatytų reikalavimų pasirenka vadovautis Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme ir jo įgyvendinamuosiuose teisės aktuose pagrindinės informacijos investuotojams dokumento rengimui ir teikimui nustatytais reikalavimais, šio įstatymo 3 straipsnyje nustatytas reikalavimas ir kiti Reglamente (ES) Nr. 1286/2014 nustatyti reikalavimai jai taikomi nuo 2022 m. sausio 1 d. Tokiu atveju valdymo įmonė iki 2021 m. gruodžio 31 d. privalo vadovautis Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme ir Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio 2, 3 ir 4 punktuose nustatytais reikalavimais dėl priemonių, leidžiančių jos darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo ir kitų kolektyvinio investavimo subjektų veiklą reglamentuojančių teisės aktų pažeidimą. Valdymo įmonė apie tokį savo pasirinkimą informuoja priežiūros instituciją nedelsdama po šio įstatymo įsigaliojimo.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2657, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20831
+ 
 
 
 
@@ -795,4 +822,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                          Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2657, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20831
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 1, 2, 6, 8, 45, 47, 56, 57, 58, 59 straipsnių pakeitimo, Įstatymo papildymo 6-1, 39-1, 57-1, 58-1, 58-2, 58-3 straipsniais ir priedu ir 15, 16, 17, 60 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-1237 19 ir 20 straipsnių pakeitimo įstatymas
