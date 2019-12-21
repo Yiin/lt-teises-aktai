@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2019-12-08 iki 2019-12-20
+Suvestinė redakcija nuo 2019-12-21 iki 2019-12-21
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -4867,9 +4867,10 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 6. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų (OL 2007 L 315, p. 14).
-TAR pastaba. Vežant keleivius vietinio susisiekimo maršrutais, Reglamento (EB) Nr. 1371/2007 8 straipsnio 2 ir 3 dalių, 13, 21, 22, 23, 24 straipsnių nuostatos netaikomos iki 2019 m. gruodžio 3 d. Teikiant keleivių vežimo geležinkelių transportu tarptautiniais maršrutais paslaugas, kai didelė dalis šių paslaugų, įskaitant bent vieną sustojimą geležinkelio stotyje pagal tvarkaraštį, suteikiama už Europos Sąjungos valstybės narės ribų, Reglamento (EB) Nr. 1371/2007 nuostatos netaikomos iki 2019 m. gruodžio 3 d.
+TAR pastaba. Vežant keleivius vietinio susisiekimo maršrutais, Reglamento (EB) Nr. 1371/2007 8 straipsnio 2 ir 3 dalių, 21 straipsnio, 24 straipsnio d dalies, atsižvelgiant į 22 ir 23 straipsnius, nuostatos netaikomos iki 2024 m. gruodžio 2 d. Teikiant keleivių vežimo geležinkelių transportu tarptautiniais maršrutais paslaugas, kai didelė dalis šių paslaugų, įskaitant bent vieną sustojimą geležinkelio stotyje pagal tvarkaraštį, suteikiama už Europos Sąjungos valstybės narės ribų, Reglamento (EB) Nr. 1371/2007 nuostatos netaikomos iki 2024 m. gruodžio 2 d.
 Punkto pakeitimai:
 Nr. XII-1622, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06523
+Nr. XIII-2686, 2019-12-13, paskelbta TAR 2019-12-20, i. k. 2019-20857
  
 
 
@@ -5050,3 +5051,8 @@ Lietuvos Respublikos geležinkelių transporto kodekso 29 straipsnio pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2254, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10924
 Lietuvos Respublikos geležinkelių transporto kodekso 3, 4-1, 5, 6-1, 7, 7-1, 9, 10, 14, 23, 23-1, 24, 25, 26, 28, 29, 30-1, 30-2, 30-3, 30-4, 33 straipsnių ir priedo pakeitimo, Kodekso papildymo 24-1, 24-2, 24-3, 24-4, 25-1, 25-2, 29-1, 29-2, 29-3, 29-4, 29-5, 29-6, 29-7 ir 29-8 straipsniais įstatymo Nr. XIII-1858 21, 22, 28 ir 37 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2686, 2019-12-13, paskelbta TAR 2019-12-20, i. k. 2019-20857
+Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 4, 7, 11, 12, 13, 16, 23, 24, 25, 29, 33 straipsnių, priedo pakeitimo ir papildymo, Kodekso papildymo 4-1, 25-1, 33-1 straipsniais ir 8, 27 straipsnių pripažinimo netekusiais galios įstatymo Nr. XI-1595 20 straipsnio pakeitimo įstatymas
