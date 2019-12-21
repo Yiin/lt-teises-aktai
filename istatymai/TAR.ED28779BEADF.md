@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2019-07-21 iki 2019-12-20
+Suvestinė redakcija nuo 2019-12-21 iki 2020-06-14
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
  
@@ -517,7 +517,7 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS-VALDYTOJOS LICENCIJAVIMAS IR VEIKLA
 4 straipsnis. Valdymo įmonių ir investicinių bendrovių veikla
 
 
-1. Valdymo įmonė turi teisę verstis pagrindine veikla – šio įstatymo nustatytų investicinių fondų ir (arba) investicinių bendrovių, kurių valdymas perduotas valdymo įmonei, valdymu ir teikti šias paslaugas kitiems kolektyvinio investavimo subjektams, jeigu jos numatytos jai išduotoje licencijoje ir jeigu ji verčiasi pagrindine veikla:
+1. Valdymo įmonė turi teisę verstis pagrindine veikla – valdyti šio įstatymo nustatytus investicinius fondus ir (arba) investicines bendroves, kurių valdymas perduotas valdymo įmonei. Valdymo įmonė taip pat turi teisę teikti šias paslaugas, jeigu jos numatytos valdymo įmonei išduotoje licencijoje ir jeigu ji verčiasi pagrindine veikla:
 
 
 1) valdyti kitų asmenų finansinių priemonių portfelius;
@@ -530,14 +530,25 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS-VALDYTOJOS LICENCIJAVIMAS IR VEIKLA
 
 
 
-3) teikti papildomas paslaugas: konsultuoti investavimo į finansines priemones klausimais; saugoti ir tvarkyti kolektyvinio investavimo subjektų investicinius vienetus ar akcijas.
+3) teikti papildomas paslaugas: konsultuoti investavimo į finansines priemones klausimais; saugoti ir tvarkyti kolektyvinio investavimo subjektų investicinius vienetus ar akcijas. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2654, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20824
+ 
 
 
 
 
 2. Valdymo įmonė negali teikti papildomų paslaugų, nurodytų šio straipsnio 1 dalies 3 punkte, jeigu ji neturi teisės teikti šio straipsnio 1 dalies 1 ar 2 punkte nurodytų paslaugų.
+
+
+
+
+21. Valdymo įmonė gali atlikti jai pavestas kitų valdymo įmonių valdomų kolektyvinio investavimo subjektų valdymo funkcijas, jeigu valdymo įmonei išduota licencija suteikia jai teisę valdyti atitinkamos rūšies kolektyvinio investavimo subjektus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2654, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20824
+ 
 
 
 
@@ -1506,10 +1517,12 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS-VALDYTOJOS LICENCIJAVIMAS IR VEIKLA
 
 
 Valdymo įmonė ir depozitoriumas turi užtikrinti, kad būtų įdiegtos priemonės, leidžiančios jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje ar depozitoriume atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo ir kitų kolektyvinio investavimo subjektų ar jų valdymo įmonių veiklą reglamentuojančių teisės aktų pažeidimą. Šioms priemonėms įdiegti valdymo įmonė ir depozitoriumas gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio 2, 3 ir 4 punktuose nustatyti reikalavimai.
-TAR pastaba. 17 straipsnis netenka galios 2020 m. sausio 1 d.
+TAR pastaba. 17 straipsnis netenka galios 2022 m. sausio 1 d.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
  
-
-
 
 
 
@@ -1518,11 +1531,12 @@ TAR pastaba. 17 straipsnis netenka galios 2020 m. sausio 1 d.
 
 
 Valdymo įmonė ir depozitoriumas turi užtikrinti, kad būtų įdiegtos priemonės, leidžiančios jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje ar depozitoriume atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo, Reglamento (ES) Nr. 1286/2014 ir kitų kolektyvinio investavimo subjektų ar jų valdymo įmonių veiklą reglamentuojančių teisės aktų pažeidimą. Šioms priemonėms įdiegti valdymo įmonė ir depozitoriumas gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi Lietuvos banko įstatymo 437 straipsnio 2, 3 ir 4 punktuose nustatyti reikalavimai.
-TAR pastaba. 18 straipsnis įsigalioja 2020 m. sausio 1 d.
- 
- 
+TAR pastaba. 18 straipsnis įsigalioja 2022 m. sausio 1 d.
 
 
+Straipsnio pakeitimai:
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+ 
 
 
 
@@ -2099,10 +2113,12 @@ Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 
 
 6. Priežiūros institucija detalizuoja pagrindinės informacijos investuotojams dokumento turinio, formos ir jo pateikimo investuotojams tvarkos reikalavimus.
-TAR pastaba. 30 straipsnis netenka galios 2020 m. sausio 1 d.
+TAR pastaba. 30 straipsnis netenka galios 2022 m. sausio 1 d.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
  
-
-
 
 
 
@@ -2136,12 +2152,14 @@ TAR pastaba. 30 straipsnis netenka galios 2020 m. sausio 1 d.
 
 
 6. Valdymo įmonė privalo pagrindinės informacijos investuotojams dokumentą ir visus jo pakeitimus nedelsdama, ne vėliau kaip per 3 darbo dienas, pateikti priežiūros institucijai.
-31 straipsnio redakcija nuo 2020-01-01:
+31 straipsnio redakcija nuo 2022-01-01:
 31 straipsnis. Pagrindinės informacijos investuotojams dokumento pateikimo tvarka
 Rengiant ir teikiant pagrindinės informacijos investuotojams dokumentą, turi būti vadovaujamasi Reglamente (ES) Nr. 1286/2014 nustatytais reikalavimais.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
  
-
-
 
 
 
@@ -2186,9 +2204,10 @@ Rengiant ir teikiant pagrindinės informacijos investuotojams dokumentą, turi b
 34 straipsnis. Reklaminio pobūdžio informacija 
 
 
-1. Investuotojams skirta reklaminio pobūdžio informacija turi būti aiškiai atpažįstama. Ji turi būti teisinga, aiški ir neklaidinanti. Reklaminio pobūdžio informacijoje, kuria siūloma įsigyti kolektyvinio investavimo subjekto investicinių vienetų ar akcijų ir kurioje pateikiama informacija apie kolektyvinio investavimo subjektą, neturi būti teiginių, prieštaraujančių atitinkamo kolektyvinio investavimo subjekto prospekte ir pagrindinės informacijos investuotojams dokumente pateiktai informacijai arba sumenkinančių tokios informacijos svarbą. Reklaminio pobūdžio informacijoje turi būti nurodoma, kad yra parengtas prospektas ir pagrindinės informacijos investuotojams dokumentas, taip pat vietos, kur ir kokia kalba investuotojai gali juos gauti arba su jais susipažinti. Rengiant investuotojams reklaminio pobūdžio informaciją ir ją viešinant, turi būti vadovaujamasi šio įstatymo ir Reglamento (ES) 2017/1129 nuostatomis. 
+1. Investuotojams skirta reklaminio pobūdžio informacija turi būti aiškiai atpažįstama. Ji turi būti teisinga, aiški ir neklaidinanti. Reklaminio pobūdžio informacijoje, kuria siūloma įsigyti kolektyvinio investavimo subjekto investicinių vienetų ar akcijų ir kurioje pateikiama informacija apie kolektyvinio investavimo subjektą, neturi būti teiginių, prieštaraujančių atitinkamo kolektyvinio investavimo subjekto prospekte ir pagrindinės informacijos investuotojams dokumente pateiktai informacijai arba sumenkinančių tokios informacijos svarbą. Reklaminio pobūdžio informacijoje turi būti nurodoma, kad yra parengtas prospektas ir pagrindinės informacijos investuotojams dokumentas, taip pat vietos, kur ir kokia kalba investuotojai gali juos gauti arba su jais susipažinti. Rengiant investuotojams reklaminio pobūdžio informaciją ir ją viešinant, turi būti vadovaujamasi šio įstatymo, Reglamento (ES) 2017/1129 ir Reglamento (ES) 2019/1156 nuostatomis. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
+Nr. XIII-2654, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20824
  
 
 
@@ -7558,7 +7577,14 @@ PRIEŽIŪROS INSTITUCIJA, JOS FUNKCIJOS IR TEISĖS
 
 
 
-5) atlieka kitas šiame ir kituose įstatymuose, taip pat Reglamente (ES) 2017/1131 nustatytas funkcijas.
+
+
+5) atlieka kitas šiame ir kituose įstatymuose, taip pat Reglamente (ES) 2017/1131 ir Reglamente (ES) 2019/1156 nustatytas funkcijas. 
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIII-2654, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20824
+ 
 
 
 
@@ -7636,7 +7662,10 @@ Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugo
 
 
 5) nutraukti Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą;
-TAR pastaba. 164 straipsnio 3 dalies 5 punktas įsigalioja 2020 m. sausio 1 d.
+TAR pastaba. 164 straipsnio 3 dalies 5 punktas įsigalioja 2022 m. sausio 1 d.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+ 
 
 
 
@@ -7972,8 +8001,11 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-8) valdymo įmonė ar investicinė bendrovė pažeidžia Reglamente (ES) Nr. 1286/2014 nustatytus reikalavimus;
-TAR pastaba. 171 straipsnio 1 dalies 8 punktas įsigalioja 2020 m. sausio 1 d.
+8) valdymo įmonė ar investicinė bendrovė pažeidžia Reglamente (ES) Nr. 1286/2014 ir Reglamente (ES) 2019/1156 nustatytus reikalavimus; 
+TAR pastaba. 171 straipsnio 1 dalies 8 punktas įsigalioja 2022 m. sausio 1 d.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+ 
 
 
 
@@ -8272,13 +8304,24 @@ priedas
 
 
 
-6. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1).
-TAR pastaba. 6 punktas įsigalioja 2020 m. sausio 1 d.
+6. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1) su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156 (OL 2019 L 188, p. 55). 
+TAR pastaba. 6 punktas įsigalioja 2022 m. sausio 1 d.
+Punkto pakeitimai:
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+ 
 
 
 
 
 7. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1131 dėl pinigų rinkos fondų (OL 2017 L 169, p. 8).
+
+
+
+
+8. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1156 dėl palankesnių sąlygų tarpvalstybiniu mastu platinti kolektyvinio investavimo subjektų investicinius vienetus ar akcijas sudarymo, kuriuo iš dalies keičiami reglamentai (ES) Nr. 345/2013, (ES) Nr. 346/2013 ir (ES) Nr. 1286/2014 (OL 2019 L 188, p. 55). 
+Papildyta straipsnio dalimi:
+Nr. XIII-2654, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20824
+ 
 
 
 
@@ -8387,3 +8430,13 @@ Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 2, 28, 34, 55, 130, 153, 157, 159, 171 ir 173 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2654, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20824
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 4, 34, 162 straipsnių ir priedo pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 pakeitimo įstatymo Nr. XIII-1872 1 ir 2 straipsnių pakeitimo įstatymas
