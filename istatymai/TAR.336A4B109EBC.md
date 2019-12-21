@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2019-10-08 iki 2019-12-20
+Suvestinė redakcija nuo 2019-12-21 iki 2019-12-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -829,10 +829,11 @@ Nr. XII-1070, 2014-07-17, paskelbta TAR 2014-07-24, i. k. 2014-10474
 
 2. Rinkimų užstatas pakeisti vieno kandidato vietą kandidatų sąraše, įrašyti į kandidatų sąrašą naują kandidatą – 0,5 VMDU dydžio, sujungti partijos iškeltus kandidatų sąrašus – po 0,3 VMDU dydžio už kiekvieną sujungiamą sąrašą.
 
-3. Jeigu partijos ar rinkimų komiteto keliamame kandidatų sąraše yra įrašyti kandidatai, einantys pareigas, nesuderinamas su savivaldybės tarybos nario pareigomis, rinkimų užstatas už kiekvieną tokį kandidatą – dešimt VMDU dydžio. Šis užstatas (už kiekvieną kandidatą nustatant atskirai) grąžinamas jį sumokėjusiai partijai, rinkimų komitetui ar kandidatui, jeigu rinkimų užstatas tampa grąžintinu pagal šio straipsnio 5 dalyje nustatytus reikalavimus, bet kandidatas nebuvo išrinktas, taip pat jeigu kandidatas buvo išrinktas arba buvo pripažintas išrinktu ir atsisakė pareigų, nesuderinamų su savivaldybės tarybos nario pareigomis, šio įstatymo 91 straipsnio 2 dalyje nustatyta tvarka. 
+3. Jeigu partijos ar rinkimų komiteto keliamame kandidatų sąraše yra įrašyti kandidatai, einantys pareigas, nesuderinamas su savivaldybės tarybos nario pareigomis, rinkimų užstatas už kiekvieną tokį kandidatą – dešimt VMDU dydžio. Šis užstatas (už kiekvieną kandidatą nustatant atskirai) grąžinamas jį sumokėjusiai partijai, rinkimų komitetui ar kandidatui, jeigu kandidatas nebuvo išrinktas, taip pat jeigu kandidatas buvo išrinktas arba buvo pripažintas išrinktu ir atsisakė pareigų, nesuderinamų su savivaldybės tarybos nario pareigomis, šio įstatymo 91 straipsnio 2 dalyje nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1385, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19669
 Nr. XIII-1473, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14701
+Nr. XIII-2689, 2019-12-13, paskelbta TAR 2019-12-20, i. k. 2019-20858
  
 
 4. Rinkimų užstatai įregistruoti kandidatų sąrašą nustatomi du kartus didesni tai partijai, kuri per paskutinius Seimo rinkimus arba savivaldybių tarybų rinkimus, arba per rinkimus į Europos Parlamentą buvo iškėlusi kandidatus arba kandidatų sąrašą (sąrašus) ir nepateikė įstatymų nustatyta tvarka paskelbti spaudoje lėšų šaltinių ir jų panaudojimo rinkimų agitacijai ataskaitos.
@@ -2199,4 +2200,9 @@ Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 2, 5, 9,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2439, 2019-09-26, paskelbta TAR 2019-10-07, i. k. 2019-15886
 Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 16, 23, 27, 28, 29, 54, 62, 64, 65, 73 straipsnių ir ketvirtojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2689, 2019-12-13, paskelbta TAR 2019-12-20, i. k. 2019-20858
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 39 straipsnio pakeitimo įstatymas
 
