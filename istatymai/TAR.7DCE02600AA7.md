@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/7dce02600aa711e9a5eaf2cd290f1944"
 
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2019-12-21
+ 
+Įstatymas paskelbtas: TAR 2018-12-28, i. k. 2018-21887
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ ĮSTATYMO NR. IX-1709 PAKEITIMO
 ĮSTATYMAS
@@ -7956,7 +7963,10 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-8) valdymo įmonė ar investicinė bendrovė pažeidžia Reglamente (ES) Nr. 1286/2014 nustatytus reikalavimus;
+8) valdymo įmonė ar investicinė bendrovė pažeidžia Reglamente (ES) Nr. 1286/2014 ir Reglamente (ES) 2019/1156 nustatytus reikalavimus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+ 
 
 
 
@@ -8215,7 +8225,10 @@ priedas
 
 
 
-6. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1).
+6. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1) su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156 (OL 2019 L 188, p. 55). 
+Punkto pakeitimai:
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+ 
 
 
 
@@ -8242,17 +8255,23 @@ priedas
 
 
 
-2. 2020 m. sausio 1 d. netenka galios šio įstatymo 1 straipsnyje išdėstyto Kolektyvinio investavimo subjektų įstatymo 17 straipsnis.
+2. 2022 m. sausio 1 d. netenka galios šio įstatymo 1 straipsnyje išdėstyto Kolektyvinio investavimo subjektų įstatymo 17 straipsnis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+ 
 
 
 
 
-3. 2020 m. sausio 1 d. netenka galios šio įstatymo 1 straipsnyje išdėstyto Kolektyvinio investavimo subjektų įstatymo 30 straipsnis.
+3. 2022 m. sausio 1 d. netenka galios šio įstatymo 1 straipsnyje išdėstyto Kolektyvinio investavimo subjektų įstatymo 30 straipsnis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+ 
 
 
 
 
-4. 2020 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Kolektyvinio investavimo subjektų įstatymo 31 straipsnio redakcija:
+4. 2022 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Kolektyvinio investavimo subjektų įstatymo 31 straipsnio redakcija:
 
 
 
@@ -8260,13 +8279,16 @@ priedas
 „31 straipsnis. Pagrindinės informacijos investuotojams dokumento pateikimo tvarka
 
 
-Rengiant ir teikiant pagrindinės informacijos investuotojams dokumentą, turi būti vadovaujamasi Reglamente (ES) Nr. 1286/2014 nustatytais reikalavimais.“
+Rengiant ir teikiant pagrindinės informacijos investuotojams dokumentą, turi būti vadovaujamasi Reglamente (ES) Nr. 1286/2014 nustatytais reikalavimais.“ 
 
 
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+ 
 
 
 
@@ -8276,7 +8298,10 @@ Rengiant ir teikiant pagrindinės informacijos investuotojams dokumentą, turi b
 
 
 
-6. Šio įstatymo 1 straipsnyje išdėstyto Kolektyvinio investavimo subjektų įstatymo 18 straipsnis, 164 straipsnio 3 dalies 5 punktas, 171 straipsnio 1 dalies 8 punktas ir priedo 6 punktas įsigalioja 2020 m. sausio 1 d.
+6. Šio įstatymo 1 straipsnyje išdėstyto Kolektyvinio investavimo subjektų įstatymo 18 straipsnis, 164 straipsnio 3 dalies 5 punktas, 171 straipsnio 1 dalies 8 punktas ir priedo 6 punktas įsigalioja 2022 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+ 
 
 
 
@@ -8314,3 +8339,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 pakeitimo įstatymo Nr. XIII-1872 1 ir 2 straipsnių pakeitimo įstatymas
