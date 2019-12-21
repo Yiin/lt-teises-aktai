@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B"
 
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2019-02-01 iki 2019-12-20
+Suvestinė redakcija nuo 2019-12-21 iki 2020-04-29
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 55-1765, i. k. 0991010ISTAIII-1212
  
@@ -369,9 +369,10 @@ Be Akcinių bendrovių įstatyme nustatytų bendrovėje privalomų sudaryti vald
 
 
 10) užtikrinti, kad sprendimus dėl turto valdymo priimantys asmenys turėtų tinkamą kvalifikaciją, darbo patirtį ir būtų nepriekaištingos reputacijos. Sprendimus priimančių asmenų kvalifikacija ir darbo patirtis vertinama atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir darbo patirčiai; 
-TAR pastaba. Jeigu valdymo įmonė, rengdama pagrindinės informacijos investuotojams dokumentą, vietoj Reglamento (ES) Nr. 1286/2014 nustatytų reikalavimų pasirenka vadovautis Lietuvos Respublikos kolektyvinio investavimo įstatyme ir jo įgyvendinamuosiuose teisės aktuose pagrindinės informacijos investuotojams dokumento rengimui ir teikimui nustatytais reikalavimais, 6 straipsnio 1 dalies 10 punkte  nustatytas reikalavimas ir kiti Reglamente (ES) Nr. 1286/2014 nustatyti reikalavimai joms taikomi nuo 2020 m. sausio 1 d. Tokiu atveju valdymo įmonė iki 2019 m. gruodžio 31 d. privalo vadovautis Lietuvos Respublikos kolektyvinio investavimo įstatyme ir Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio 2, 3 ir 4 punktuose nustatytais reikalavimais dėl priemonių, leidžiančių jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo (Nr. XIII-1237) ir kitų kolektyvinio investavimo subjektų veiklą reglamentuojančių teisės aktų pažeidimą. Valdymo įmonė apie tokį savo pasirinkimą informuoja priežiūros instituciją nedelsdama po šio įstatymo (Nr. XIII-1237) įsigaliojimo (2018-06-15).
+TAR pastaba. Jeigu valdymo įmonė, rengdama pagrindinės informacijos investuotojams dokumentą, vietoj Reglamento (ES) Nr. 1286/2014 nustatytų reikalavimų pasirenka vadovautis Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme ir jo įgyvendinamuosiuose teisės aktuose pagrindinės informacijos investuotojams dokumento rengimui ir teikimui nustatytais reikalavimais, 6 straipsnio 1 dalies 10 punkte nustatytas reikalavimas ir kiti Reglamente (ES) Nr. 1286/2014 nustatyti reikalavimai jai taikomi nuo 2022 m. sausio 1 d. Tokiu atveju valdymo įmonė iki 2021 m. gruodžio 31 d. privalo vadovautis Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme ir Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio 2, 3 ir 4 punktuose nustatytais reikalavimais dėl priemonių, leidžiančių jos darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo ir kitų kolektyvinio investavimo subjektų veiklą reglamentuojančių teisės aktų pažeidimą. Valdymo įmonė apie tokį savo pasirinkimą informuoja priežiūros instituciją nedelsdama po įstatymo Nr. XIII-2675 įsigaliojimo.
 Straipsnio punkto pakeitimai:
 Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
+Nr. XIII-2657, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20831
  
 
 
@@ -3097,8 +3098,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-Lietuvos Respublikos 
+Lietuvos Respublikos
 papildomo savanoriško
 pensijų kaupimo įstatymo
 priedas
@@ -3107,11 +3107,11 @@ priedas
  
 
 
-1. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1). 
+1. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1) su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156 (OL 2019 L 188, p. 55).
 
 
-Papildyta priedu:
-Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
+Priedo pakeitimai:
+Nr. XIII-2657, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20831
  
 
 
@@ -3212,3 +3212,8 @@ Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1875, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00225
 Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 2, 6, 34, 45, 47, 48, 49, 50 ir 55 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2657, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20831
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 1, 2, 6, 8, 45, 47, 56, 57, 58, 59 straipsnių pakeitimo, Įstatymo papildymo 6-1, 39-1, 57-1, 58-1, 58-2, 58-3 straipsniais ir priedu ir 15, 16, 17, 60 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-1237 19 ir 20 straipsnių pakeitimo įstatymas
