@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e68da860903411e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymas
 
-Suvestinė redakcija nuo 2019-07-21 iki 2019-12-20
+Suvestinė redakcija nuo 2019-12-21 iki 2020-06-14
  
 Įstatymas paskelbtas: TAR 2014-12-30, i. k. 2014-21092
  
@@ -503,40 +503,43 @@ VALDYMO ĮMONĖS IR JŲ FUNKCIJOS
 
 
 
-3. Valdymo įmonė gali teikti kitas su kolektyvinio investavimo subjektu susijusias papildomas paslaugas ir verstis šiame straipsnyje numatyta licencijuojama veikla, jeigu šios paslaugos ar veikla numatytos jai išduotoje licencijoje ir įmonė laikosi jos vykdomą kitą licencijuojamą veiklą reglamentuojančių teisės aktų:
+3. Valdymo įmonė gali teikti šias paslaugas, jeigu jos numatytos valdymo įmonei išduotoje licencijoje ir ji laikosi šioms paslaugoms teikti taikomų teisės aktų reikalavimų:
 
 
-1) pensijų fondų ir (arba) kitų asmenų finansinių priemonių portfelių valdymu;
-
-
-
-
-2) investavimo rekomendacijų teikimu; 
+1) pensijų fondų ir (arba) kitų asmenų finansinių priemonių portfelių valdymo;
 
 
 
 
-3) kolektyvinio investavimo subjektų investicinių vienetų ar akcijų saugojimu ir tvarkymu; 
+2) investavimo rekomendacijų teikimo; 
 
 
 
 
-4) pavedimų dėl finansinių priemonių priėmimu ir perdavimu.
+3) kolektyvinio investavimo subjektų investicinių vienetų ar akcijų saugojimo ir tvarkymo; 
 
 
 
 
+4) pavedimų dėl finansinių priemonių priėmimo ir perdavimo. 
 
 
-4. Valdymo įmonė turi teisę vykdyti ir kitą su valdomu kolektyvinio investavimo subjektu susijusią veiklą:
+Straipsnio dalies pakeitimai:
+Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
+ 
 
 
-1) administravimą: buhalterinės apskaitos tvarkymą, atsakymų į klientų klausimus teikimą, grynųjų aktyvų vertės skaičiavimą, atitikties teisės aktų reikalavimams kontrolę, investicinių vienetų savininkų ar akcininkų registro tvarkymą, pajamų paskirstymą, investicinių vienetų ar akcijų kainos nustatymą, jų išleidimą ir išpirkimą, atsiskaitymą sandorių pagrindu, duomenų apie atliktas operacijas saugojimą;
+
+
+4. Valdymo įmonė turi teisę atlikti ir kitas valdomo kolektyvinio investavimo subjekto valdymui priskiriamas funkcijas:
+
+
+1) administravimo: buhalterinės apskaitos tvarkymo, atsakymų į klientų klausimus teikimo, grynųjų aktyvų vertės skaičiavimo, atitikties teisės aktų reikalavimams kontrolės, investicinių vienetų savininkų ar akcininkų registro tvarkymo, pajamų paskirstymo, investicinių vienetų ar akcijų kainos nustatymo, jų išleidimo ir išpirkimo, atsiskaitymo sandorių pagrindu, duomenų apie atliktas operacijas saugojimo;
 
 
 
 
-2) kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimą;
+2) kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimo;
 
 
 
@@ -544,6 +547,17 @@ VALDYMO ĮMONĖS IR JŲ FUNKCIJOS
 3) kitą su kolektyvinio investavimo subjekto turtu susijusią veiklą, tokią kaip paslaugų, reikalingų valdymo įmonės pareigoms atlikti, teikimas, infrastruktūros valdymas, nekilnojamojo turto administravimas, įmonių konsultavimas kapitalo struktūros, pramonės strategijos ir susijusiais klausimais, konsultacijų ir paslaugų, susijusių su įmonių jungimusi ir pirkimu, bei kitų paslaugų, susijusių su kolektyvinio investavimo subjektu, teikimas, taip pat bendrovių ir kito turto, į kurį jis yra investavęs, valdymas ir kita panašaus pobūdžio veikla. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
+ 
+
+
+
+
+41. Valdymo įmonė gali atlikti jai pavestas kitų valdymo įmonių valdomų kolektyvinio investavimo subjektų valdymo funkcijas, jeigu valdymo įmonei išduota licencija suteikia jai teisę valdyti atitinkamos rūšies kolektyvinio investavimo subjektus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
+ 
 
 
 
@@ -3849,7 +3863,10 @@ DEPOZITORIUMO IR VALDYMO ĮMONIŲ PRIEŽIŪRA
 
 
 
-12. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi šiuo įstatymu, Finansinių priemonių rinkų įstatymu, Lietuvos Respublikos Lietuvos banko įstatymu ir turi šiame ir kituose Lietuvos Respublikos įstatymuose, taip pat Reglamente (ES) Nr. 345/2013, Reglamente (ES) Nr. 346/2013 ir Reglamente (ES) Nr. 2017/1131 kompetentingai institucijai nustatytas teises ir pareigas. 
+12. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi šiuo įstatymu, Finansinių priemonių rinkų įstatymu, Lietuvos Respublikos Lietuvos banko įstatymu ir turi šiame ir kituose Lietuvos Respublikos įstatymuose, taip pat Reglamente (ES) Nr. 345/2013, Reglamente (ES) Nr. 346/2013, Reglamente (ES) Nr. 2017/1131 ir Reglamente (ES) 2019/1156 kompetentingai institucijai nustatytas teises ir pareigas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
+ 
 
 
 
@@ -3888,7 +3905,10 @@ DEPOZITORIUMO IR VALDYMO ĮMONIŲ PRIEŽIŪRA
 
 
 
-5) atlieka kitas šiame ir kituose Lietuvos Respublikos įstatymuose, Reglamente (ES) Nr. 345/2013, Reglamente (ES) Nr. 346/2013 ir Reglamente (ES) Nr. 2017/1131 nustatytas funkcijas.
+5) kitas šiame ir kituose Lietuvos Respublikos įstatymuose, Reglamente (ES) Nr. 345/2013, Reglamente (ES) Nr. 346/2013, Reglamente (ES) Nr. 2017/1131 ir Reglamente (ES) 2019/1156 nustatytas funkcijas. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
+ 
 
 
 
@@ -3915,7 +3935,9 @@ DEPOZITORIUMO IR VALDYMO ĮMONIŲ PRIEŽIŪRA
 
 
 
-3. Priežiūros institucija, įgyvendindama Reglamento (ES) Nr. 345/2013 ir Reglamento (ES) Nr. 346/2013 jai pavestas funkcijas, turi šio straipsnio 2 dalies 1 ir 2 punktuose, šio įstatymo 60 straipsnio 1 dalies 8, 9 punktuose, taip pat Lietuvos banko įstatymo 42 straipsnio 4 dalies 2, 3, 6, 7, 8, 9, 10, 11 punktuose ir 42 straipsnio 8 ir 9 dalyse nustatytas teises.
+3. Priežiūros institucija, įgyvendindama Reglamento (ES) Nr. 345/2013, Reglamento (ES) Nr. 346/2013 ir Reglamento (ES) 2019/1156 jai pavestas funkcijas, turi šio straipsnio 2 dalies 1 ir 2 punktuose, šio įstatymo 60 straipsnio 1 dalies 8, 9 punktuose, taip pat Lietuvos banko įstatymo 42 straipsnio 4 dalies 2, 3, 6, 7, 8, 9, 10, 11 punktuose ir 42 straipsnio 8 ir 9 dalyse nustatytas teises. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
  
 
 
@@ -4126,7 +4148,7 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-2. Priežiūros institucija valdymo įmonėms, pažeidusioms Reglamento (ES) Nr. 345/2013, Reglamento (ES) Nr. 346/2013, Reglamento (ES) Nr. 231/2013 ar Reglamento (ES) Nr. 2017/1131 nuostatas, turi teisę: 
+2. Priežiūros institucija valdymo įmonėms, pažeidusioms Reglamento (ES) Nr. 345/2013, Reglamento (ES) Nr. 346/2013, Reglamento (ES) Nr. 231/2013, Reglamento (ES) Nr. 2017/1131 ar Reglamento (ES) 2019/1156 nuostatas, turi teisę:
 
 
 1) taikyti šio straipsnio 1 dalies 1, 2, 3, 4 ir 5 punktuose nurodytas poveikio priemones;
@@ -4134,9 +4156,12 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-2) taikyti atitinkamai Reglamento (ES) Nr. 345/2013 21 straipsnio 2 dalies b punkte, Reglamento (ES) Nr. 346/2013 22 straipsnio 2 dalies b punkte nurodytas poveikio priemones.
+2) taikyti atitinkamai Reglamento (ES) Nr. 345/2013 21 straipsnio 2 dalies b punkte, Reglamento (ES) Nr. 346/2013 22 straipsnio 2 dalies b punkte nurodytas poveikio priemones. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
+ 
 
 
 
@@ -4195,7 +4220,10 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 
 
 
-5) pažeisti Reglamente (EB) Nr. 1060/2009 ar Reglamente (ES) Nr. 2017/1131 nustatyti reikalavimai;
+5) pažeisti Reglamente (EB) Nr. 1060/2009, Reglamente (ES) Nr. 2017/1131 ar Reglamente (ES) 2019/1156 nustatyti reikalavimai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
+ 
 
 
 
@@ -4364,6 +4392,14 @@ priedas
 8. 2017 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1991, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų ir Reglamentas (ES) Nr. 346/2013 dėl Europos socialinio verslumo fondų (OL 2017 L 293, p. 1).
 
 
+
+
+9. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1156 dėl palankesnių sąlygų tarpvalstybiniu mastu platinti kolektyvinio investavimo subjektų investicinius vienetus ar akcijas sudarymo, kuriuo iš dalies keičiami reglamentai (ES) Nr. 345/2013, (ES) Nr.  346/2013 ir (ES) Nr. 1286/2014 (OL 2019 L 188, p. 55). 
+Papildyta straipsnio dalimi:
+Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
+ 
+
+
  
  
 Pakeitimai:
@@ -4397,3 +4433,8 @@ Lietuvos Respublikos profesionaliesiems investuotojams skirtų kolektyvinio inve
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2362, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11984
 Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo Nr. XII-1467 3, 18, 25, 61 ir 62 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
+Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo Nr. XII-1467 4, 55, 56, 60, 61 straipsnių ir priedo pakeitimo įstatymas
