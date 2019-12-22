@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-12-21
+Suvestinė redakcija nuo 2019-12-22 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -1121,10 +1121,10 @@ Nr. XII-640, 2013-12-03, Žin., 2013, Nr. 130-6624 (2013-12-19)
 
 
 
-14 straipsnis. Privalomojo sveikatos draudimo fondo biudžetas 
+14 straipsnis. Privalomojo sveikatos draudimo fondo biudžetas
 
 
-1. Privalomojo sveikatos draudimo fondo biudžetas sudaromas vieneriems metams – nuo sausio 1 dienos iki gruodžio 31 dienos įskaitytinai. 
+1. Privalomojo sveikatos draudimo fondo biudžetas sudaromas vieniems metams – nuo sausio 1 dienos iki gruodžio 31 dienos įskaitytinai. 
 
 
 
@@ -1134,15 +1134,12 @@ Nr. XII-640, 2013-12-03, Žin., 2013, Nr. 130-6624 (2013-12-19)
 
 
 
-3. Netenka galios 2018-01-01.
-Straipsnio dalies pakeitimai:
-Nr. XIII-874, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20564
- 
+3. Jeigu vykdant Privalomojo sveikatos draudimo fondo biudžetą prisiimti įsipareigojimai pagal tam tikrą jo išlaidų straipsnį viršija Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatyme tam straipsniui numatytą tų metų išlaidų sumą ir dėl to negali būti laiku įvykdyti šio fondo įsipareigojimai kreditoriams, mokėjimai šio biudžeto lėšomis gali būti atliekami viršijant šiam išlaidų straipsniui Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymu numatytą šio biudžeto išlaidų sumą, tačiau bendros metinės pagal prisiimtus įsipareigojimus pervestos Privalomojo sveikatos draudimo fondo biudžeto lėšos negali viršyti bendros metinės Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatyme numatytos išlaidų sumos, išskyrus šio Įstatymo 15 straipsnio 4 dalyje nurodytą atvejį. 
 
 
 
 
-4. Privalomojo sveikatos draudimo fondo biudžeto sudarymo ir vykdymo taisykles tvirtina Vyriausybė. 
+4. Privalomojo sveikatos draudimo fondo biudžeto sudarymo ir vykdymo taisykles tvirtina Vyriausybė.
 
 
 Straipsnio pakeitimai:
@@ -1150,6 +1147,8 @@ Nr. X-1220, 2007-06-26, Žin., 2007, Nr. 77-3052 (2007-07-12)
 Nr. X-1828, 2008-11-14, Žin., 2008, Nr. 137-5377 (2008-11-29)
 Nr. XI-1346, 2011-04-21, Žin., 2011, Nr. 52-2521 (2011-05-03)
 Nr. XII-640, 2013-12-03, Žin., 2013, Nr. 130-6624 (2013-12-19)
+Straipsnio pakeitimai:
+Nr. XIII-2646, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20987
  
 
 
@@ -3175,3 +3174,8 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 10 ir 28 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1764, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21109
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 9 straipsnio pakeitimo ir Įstatymo papildymo 9-2 ir 9-3 straipsniais įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2646, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20987
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 14 straipsnio pakeitimo įstatymas
