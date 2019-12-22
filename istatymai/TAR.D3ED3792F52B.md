@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-12-20 iki 2019-12-21
+Suvestinė redakcija nuo 2019-12-22 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -265,12 +265,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Lietuvos Respublikos Prezidento kanceliarijos kancleriui ir Lietuvos Respublikos Vyriausybės kancleriui šis įstatymas taikomas be išlygų. Seimo kancleriui šis įstatymas taikomas tiek, kiek jo statuso nereglamentuoja Lietuvos Respublikos Seimo statutas. Seimo ar Respublikos Prezidento paskirtiems valstybės institucijų ir įstaigų vadovams, kitiems Seimo ar Respublikos Prezidento paskirtiems valstybės pareigūnams, Vyriausybės priimamiems ir Ministro Pirmininko skiriamiems valstybės pareigūnams taikomi šio įstatymo 4, 38 ir 39 straipsniai.
+2. Lietuvos Respublikos Prezidento kanceliarijos kancleriui ir Lietuvos Respublikos Vyriausybės kancleriui šis įstatymas taikomas be išlygų. Seimo kancleriui šis įstatymas taikomas tiek, kiek jo statuso nereglamentuoja Lietuvos Respublikos Seimo statutas. Seimo ar Respublikos Prezidento paskirtiems valstybės institucijų ir įstaigų vadovams, kitiems Seimo ar Respublikos Prezidento paskirtiems valstybės pareigūnams, Vyriausybės priimamiems ir Ministro Pirmininko skiriamiems valstybės pareigūnams taikomi šio įstatymo 4, 38 ir 39 straipsniai. Šiems valstybės pareigūnams, išskyrus tuos, kurių kasmetines atostogas reglamentuoja specialūs įstatymai, taip pat taikomas šio įstatymo 42 straipsnis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2660, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20995
+ 
 
 
 
 
-3. Seimo ar Respublikos Prezidento paskirtiems valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams, taip pat pagal specialius įstatymus įsteigtų komisijų, tarybų, fondų valdybų pirmininkams ir nariams taikomi šio įstatymo 4, 38 ir 39 straipsniai. 
+3. Seimo ar Respublikos Prezidento paskirtiems valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams, taip pat pagal specialius įstatymus įsteigtų komisijų, tarybų, fondų valdybų pirmininkams ir nariams taikomi šio įstatymo 4, 38 ir 39 straipsniai. Šiems valstybės pareigūnams, išskyrus tuos, kurie tik periodiškai dalyvauja šioje dalyje nurodytų komisijų, tarybų, fondų valdybų posėdžiuose, ir tuos, kurių kasmetines atostogas reglamentuoja specialūs įstatymai, taip pat taikomas šio įstatymo 42 straipsnis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2660, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20995
+ 
 
 
 
@@ -3932,3 +3938,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 8, 10 ir 51 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2610, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20634
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 17 straipsnio pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2660, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20995
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5 straipsnio pakeitimo įstatymas
