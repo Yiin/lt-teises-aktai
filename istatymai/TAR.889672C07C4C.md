@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/889672c07c4c11e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 6, 16, 20, 21 ir 27 straipsnių pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-21
+Suvestinė redakcija nuo 2019-12-22
  
 Įstatymas paskelbtas: TAR 2018-06-30, i. k. 2018-10977
  
@@ -92,13 +92,16 @@ Pakeisti 2 straipsnio 39 dalį ir ją išdėstyti taip:
 
 
 
-2) metinė pajamų dalis, viršijanti 84 VDU dydžio sumą, taikomą apdraustųjų asmenų 2020 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 27 procentų pajamų mokesčio tarifą.“
+2) metinė pajamų dalis, viršijanti 84 VDU dydžio sumą, taikomą apdraustųjų asmenų 2020 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 32 procentų pajamų mokesčio tarifą.“
 
 
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+ 
 
 
 
@@ -116,13 +119,16 @@ Pakeisti 2 straipsnio 39 dalį ir ją išdėstyti taip:
 
 
 
-2) metinė pajamų dalis, viršijanti 60 VDU dydžio sumą, taikomą apdraustųjų asmenų 2021 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 27 procentų pajamų mokesčio tarifą.“
+2) metinė pajamų dalis, viršijanti 60 VDU dydžio sumą, taikomą apdraustųjų asmenų 2021 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 32 procentų pajamų mokesčio tarifą.“
 
 
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+ 
 
 
 
@@ -140,13 +146,16 @@ Pakeisti 2 straipsnio 39 dalį ir ją išdėstyti taip:
 
 
 
-2) metinė pajamų dalis, viršijanti 60 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 27 procentų pajamų mokesčio tarifą.“
+2) metinė pajamų dalis, viršijanti 60 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 32 procentų pajamų mokesčio tarifą.“
 
 
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+ 
 
 
 
@@ -258,11 +267,11 @@ Pakeisti 16 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-„1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jei šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu 4 800 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos. Kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, MNPD, jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
+„1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu 4 200 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos. Kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, MNPD, jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
 
 
 
- Gyventojui taikytinas MNPD = 4 800 – 0,2 x (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių).“ 
+ Gyventojui taikytinas MNPD = 4 200 – 0,17 x (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių).“ 
 
 
 
@@ -271,6 +280,9 @@ Pakeisti 16 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+ 
 
 
 
@@ -283,7 +295,7 @@ Pakeisti 16 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 „2. Jeigu šio straipsnio 6 dalyje nenustatyta kitaip, NPD mokestiniu laikotarpiu taikomas tokia tvarka:
 
 
-1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 400 eurų;
+1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 350 eurų;
 
 
 
@@ -292,7 +304,7 @@ Pakeisti 16 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
- Gyventojui taikytinas mėnesio NPD = 400 – 0,2 x (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis).“ 
+ Gyventojui taikytinas mėnesio NPD = 350 – 0,17 x (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis).“ 
 
 
 
@@ -303,6 +315,9 @@ Pakeisti 16 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+ 
 
 
 
@@ -312,11 +327,14 @@ Pakeisti 16 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-„6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 453 eurai. Asmenims, kuriems nustatytas 30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra 408 eurai. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal šio straipsnio 1 dalį šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui.“ 
+„6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 645 eurai. Asmenims, kuriems nustatytas  30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra  600 eurų. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal šio straipsnio 1 dalį šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui.“ 
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+ 
 
 
 
@@ -326,11 +344,11 @@ Pakeisti 16 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-„1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jei šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu 6 000 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos. Kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, MNPD, jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
+„1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu 4 800 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos. Kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, MNPD, jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
 
 
 
- Gyventojui taikytinas MNPD = 6 000 – 0,23 x (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių).“ 
+ Gyventojui taikytinas MNPD = 4 800 – 0,18 x (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių).“ 
 
 
 
@@ -339,6 +357,9 @@ Pakeisti 16 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+ 
 
 
 
@@ -351,7 +372,7 @@ Pakeisti 16 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 „2. Jeigu šio straipsnio 6 dalyje nenustatyta kitaip, NPD mokestiniu laikotarpiu taikomas tokia tvarka:
 
 
-1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 500 eurų;
+1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 400  eurų;
 
 
 
@@ -360,7 +381,7 @@ Pakeisti 16 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
- Gyventojui taikytinas mėnesio NPD = 500 – 0,23 x (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis).“ 
+ Gyventojui taikytinas mėnesio NPD = 400 – 0,18 x (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis).“ 
 
 
 
@@ -371,21 +392,17 @@ Pakeisti 16 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 
 
 
-
-
-
-
-9. Pakeisti 20 straipsnio 6 dalį ir ją išdėstyti taip: 
-
-
-
-
-„6. Asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 553 eurai. Asmenims, kuriems nustatytas 30–55 procentų darbingumo lygis, arba senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinių ar nedidelių specialiųjų poreikių lygis, arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra 508 eurai. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal šio straipsnio 1 dalį šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui.“ 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
  
 
 
 
 
+9. Neteko galios nuo 2019-12-22
+Straipsnio dalies naikinimas:
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+ 
 
 
 
@@ -522,7 +539,10 @@ Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
 7 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas 
 
 
-1. Šis įstatymas, išskyrus 2 straipsnio 2, 3, 4 dalis, 4 straipsnio 4, 5, 6, 7, 8, 9 dalis, 5 straipsnio 3, 5 dalis ir šio straipsnio 5 dalį, įsigalioja 2019 m. sausio 1 d. 
+1. Šis įstatymas, išskyrus 2 straipsnio 2, 3, 4 dalis, 4 straipsnio 4, 5, 6, 7, 8 dalis, 5 straipsnio 3, 5 dalis ir šio straipsnio 5 dalį, įsigalioja 2019 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+ 
 
 
 
@@ -532,7 +552,10 @@ Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
 
 
 
-3. Šio įstatymo 2 straipsnio 3 dalis, 4 straipsnio 7, 8 ir 9 dalys įsigalioja 2021 m. sausio 1 d.
+3. Šio įstatymo 2 straipsnio 3 dalis, 4 straipsnio 7 ir 8 dalys įsigalioja 2021 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+ 
 
 
 
@@ -563,7 +586,10 @@ Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
 
 
 
-8. Šio įstatymo 2 straipsnio 2 dalies, 4 straipsnio 4, 5 ir 6 dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų mokestinio laikotarpio pajamas.
+8. Šio įstatymo 2 straipsnio 2 dalies, 4 straipsnio 4 ir 5 dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų mokestinio laikotarpio pajamas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+ 
 
 
 
@@ -573,7 +599,10 @@ Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
 
 
 
-10. Šio įstatymo 4 straipsnio 7, 8 ir 9 dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2021 metų ir vėlesnių mokestinių laikotarpių pajamas.
+10. Šio įstatymo 4 straipsnio 7 ir 8 dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2021 metų ir vėlesnių mokestinių laikotarpių pajamas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+ 
 
 
 
@@ -601,6 +630,14 @@ Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
 
 
 
+15. Šio įstatymo 4 straipsnio 6 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Papildyta straipsnio dalimi:
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+ 
+
+
+
+
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
@@ -618,3 +655,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
 Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 6, 16, 20, 21 ir 27 straipsnių pakeitimo įstatymo Nr. XIII-1335 2, 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 6, 16, 20, 21 ir 27 straipsnių pakeitimo įstatymo Nr. XIII-1335 2, 4 ir 7 straipsnių pakeitimo įstatymas
