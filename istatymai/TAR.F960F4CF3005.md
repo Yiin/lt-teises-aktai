@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F960F4CF3005"
 
 # Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas
 
-Suvestinė redakcija nuo 2019-10-18 iki 2019-12-21
+Suvestinė redakcija nuo 2019-12-22 iki 2021-12-22
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1743, i. k. 0971010ISTAVIII-385
  
@@ -495,7 +495,13 @@ a) savivaldybių finansiniams ištekliams papildyti. Kintamajai gyventojų pajam
 
 
 
+b) Seimo ir (ar) Vyriausybės sprendimų nulemtų savivaldybių išlaidų pokyčiams kompensuoti. Kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos, kurios savivaldybėms apskaičiuojamos konkretiems Seimo ir (ar) Vyriausybės sprendimams įgyvendinti. Kintamoji gyventojų pajamų mokesčio dalis išlaidų pokyčiams kompensuoti  rengiant Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą neskaičiuojama, jeigu pakanka ateinančių biudžetinių metų savivaldybių prognozuojamų pajamų, palyginti su einamaisiais biudžetiniais metais apskaičiuotomis savivaldybių prognozuojamomis pajamomis, padidėjimo sumos; 
+2 punkto b papunkčio redakcija nuo 2021-01-01:
 b) Seimo ir (ar) Vyriausybės sprendimų nulemtų savivaldybių išlaidų pokyčiams kompensuoti. Kintamajai gyventojų pajamų mokesčio daliai (procentais) apskaičiuoti naudojamos sumos, kurios savivaldybėms apskaičiuojamos konkretiems Seimo ir (ar) Vyriausybės sprendimams įgyvendinti;
+TAR pastaba. 2 punkto b papunktis (redakcija nuo 2021-01-01) taikomas rengiant Lietuvos Respublikos 2021 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektus.
+Papunkčio pakeitimai:
+Nr. XIII-2648, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20989
+ 
 
 
 
@@ -541,7 +547,11 @@ b) jeigu savivaldybės prognozuojamos pajamos iš gyventojų pajamų mokesčio v
 
 
 
-c) savivaldybės ateinančių metų pajamos iš gyventojų pajamų mokesčio prognozuojamos pagal nuolatinę gyvenamąją vietą ar gyvenamąją vietą Lietuvoje, apie kurią gyventojas informavo Gyventojų pajamų mokesčio įstatymo 35 straipsnio 3 dalyje nustatyta tvarka;
+c) savivaldybės ateinančių metų pajamos iš gyventojų pajamų mokesčio prognozuojamos pagal apskaičiuotą gyventojų, toje savivaldybėje deklaravusių paskutinę gyvenamąją vietą praėjusiais kalendoriniais metais, gyventojų pajamų mokestį. Jeigu gyventojas nedeklaravęs gyvenamosios vietos, savivaldybės ateinančių metų pajamos iš gyventojų pajamų mokesčio prognozuojamos pagal to gyventojo pajamų mokestį išskaičiuojančio asmens paskutinį buveinės arba deklaruotos gyvenamosios vietos adresą atitinkamoje savivaldybėje praėjusiais kalendoriniais metais; 
+TAR pastaba. 6 punkto c papunktis taikomas rengiant Lietuvos Respublikos 2020 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+Papunkčio pakeitimai:
+Nr. XIII-2648, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20989
+ 
 
 
 
@@ -781,7 +791,7 @@ Nr. XII-660, 2013-12-12, Žin., 2013, Nr. 140-7045 (2013-12-30)
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                                     VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                      VALDAS ADAMKUS
  
  
  
@@ -947,4 +957,9 @@ Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstat
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2467, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16482
+Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 10 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2648, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20989
 Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 10 straipsnio pakeitimo įstatymas
