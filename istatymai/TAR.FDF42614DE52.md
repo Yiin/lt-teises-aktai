@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-12-21
+Suvestinė redakcija nuo 2019-12-22 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-26, i. k. 1031010ISTA0IX-1904
- 
-TAR pastaba. Įstatymo Nr. XIII-1340 nuostatos taikomos skiriant nedarbo socialinio draudimo išmokas asmenims, kurie įsiregistravo Užimtumo tarnyboje prie Socialinės apsaugos ir darbo ministerijos ir kuriems suteiktas bedarbio statusas po 2019 m. sausio 1 d., ir skiriant dalinio darbo išmokas asmenims, kuriems Lietuvos Respublikos darbo kodekso nustatyta tvarka priimtas darbdavio sprendimas nustatyti dalinį darbą įsigalioja po 2019 m. sausio 1 d.  Kai į nedarbo draudimo ar dalinio darbo išmokoms apskaičiuoti reikalingą laikotarpį patenka draudžiamųjų pajamų laikotarpiai iki 2018 m. gruodžio 31 d., asmens draudžiamosios pajamos (pagal Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 3 straipsnio 2 dalį) perskaičiuojamos Lietuvos Respublikos Vyriausybės tvirtinamuose Nedarbo socialinio draudimo išmokų nuostatuose ir (ar) Dalinio darbo išmokų nuostatuose nustatyta tvarka ir didinamos 1,289 karto.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-1340, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11436
-Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 2, 3, 6, 8, 13, 15 ir 19 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-07-01:
 Nr. XII-2471, 2016-06-21, paskelbta TAR 2016-07-05, i. k. 2016-18826
@@ -254,6 +249,14 @@ Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
 Straipsnio dalies pakeitimai:
 Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
 Nr. XIII-1340, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11436
+ 
+
+
+
+
+7. Ne viso mėnesio nedarbo draudimo išmoka apskaičiuojama pagal kalendorines to mėnesio, už kurį mokama nedarbo draudimo išmoka, dienas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
  
 
 
@@ -741,3 +744,8 @@ Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 5, 6, 8, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1340, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11436
 Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 2, 3, 6, 8, 13, 15 ir 19 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 7, 8, 12, 13, 15, 17 ir 18 straipsnių pakeitimo įstatymas
