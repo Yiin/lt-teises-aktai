@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a55037d0dcd611e89a31865acf012092"
 
 # Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2019-12-28 iki 2024-07-05
+ 
+Įstatymas paskelbtas: TAR 2018-10-31, i. k. 2018-17451
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 KŪNO KULTŪROS IR SPORTO ĮSTATYMO NR. I-1151 PAKEITIMO
 ĮSTATYMAS
@@ -1405,7 +1412,10 @@ Valstybės ir savivaldybių institucijos ir įstaigos turi teisę steigti apdova
 
 
 
-7. Asmenys, kuriems iki šio įstatymo įsigaliojimo buvo išduoti kūno kultūros ir sporto veiklos leidimai ir šių leidimų galiojimo terminas nebuvo pasibaigęs, turi teisę dirbti fizinio aktyvumo ar aukšto meistriškumo sporto specialistais arba fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriais ar teikti fizinio aktyvumo ar aukšto meistriškumo sporto specialistų paslaugas iki šių leidimų galiojimo pabaigos.
+7. Asmenys, kuriems iki šio įstatymo įsigaliojimo buvo išduoti kūno kultūros ir sporto veiklos leidimai ir šių leidimų galiojimo terminas nebuvo pasibaigęs, yra laikomi įgijusiais fizinio aktyvumo ar aukšto meistriškumo sporto specialisto (toliau – fizinio aktyvumo ar sporto specialistas) arba fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriaus (toliau – instruktorius) statusą iki šio įstatymo įsigaliojimo ir turi teisę dirbti fizinio aktyvumo ar sporto specialistais arba instruktoriais ar teikti fizinio aktyvumo ar sporto specialistų paslaugas iki 2024 m. rugsėjo 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2669, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21311
+ 
 
 
 
@@ -1435,7 +1445,9 @@ Valstybės ir savivaldybių institucijos ir įstaigos turi teisę steigti apdova
 
 
 
-13. Asmenys, įgiję fizinio aktyvumo ar sporto specialisto statusą iki šio įstatymo įsigaliojimo, tačiau neatitinkantys šio įstatymo 1 straipsnyje išdėstyto Sporto įstatymo fizinio aktyvumo ar sporto specialistams keliamų reikalavimų, turi teisę dirbti fizinio aktyvumo ar aukšto meistriškumo sporto specialistais arba fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriais ar teikti fizinio aktyvumo ar aukšto meistriškumo sporto specialistų paslaugas iki 2024 m. rugsėjo 1 d.
+13. Neteko galios nuo 2019-12-28
+Straipsnio dalies naikinimas:
+Nr. XIII-2669, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21311
  
 
 
@@ -1469,4 +1481,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2669, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21311
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIII-1540 2 straipsnio pakeitimo įstatymas
