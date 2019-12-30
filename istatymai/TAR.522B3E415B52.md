@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2019-10-01 iki 2019-12-29
+Suvestinė redakcija nuo 2019-12-30 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -1483,6 +1483,10 @@ Nr. XI-1423, 2011-05-26, Žin., 2011, Nr. 67-3157 (2011-06-02)
 
 
 2. Draudžiama įeiti į teisėjo gyvenamąsias ar tarnybines patalpas, daryti ten arba teisėjo asmeniniame ar tarnybiniame automobilyje, arba kitoje asmeninėje susisiekimo priemonėje apžiūrą, kratą ar poėmį, taip pat atlikti teisėjo asmens apžiūrą ar kratą, jam priklausančių daiktų ir dokumentų apžiūrą ar poėmį, išskyrus įstatymų nustatytus atvejus. 
+TAR pastaba. Nuo 2019-12-30 iki bus paskelbtas Konstitucinio Teismo nutarimas šioje byloje sustabdomas Lietuvos Respublikos teismų įstatymo 47 straipsnio 2 dalies (2013 m. gruodžio 23 d. redakcija; TAR, 2014-01-07, Nr. 63, identifikacinis kodas 2014-00063) galiojimas.
+Straipsnio dalies pakeitimai:
+Nr. 2B-56P, 2019-12-30, paskelbta TAR 2019-12-30, i. k. 2019-21605
+ 
 
 
 
@@ -5332,3 +5336,8 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 54, 55-1, 85, 91-3 ir 122 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2284, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12173
 Lietuvos Respublikos teismų įstatymo Nr. I-480 128 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Konstitucinis Teismas, Pranešimas
+Nr. 2B-56P, 2019-12-30, paskelbta TAR 2019-12-30, i. k. 2019-21605
+Dėl Lietuvos Respublikos teismų įstatymo 47 straipsnio 2 dalies (2013 m. gruodžio 23 d. redakcija) galiojimo sustabdymo
