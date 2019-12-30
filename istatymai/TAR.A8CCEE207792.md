@@ -13,6 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a8ccee20779211e3996afa27049d9d4e"
 
 # Lietuvos Respublikos teismų įstatymo 47 straipsnio pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2019-12-30 iki 2020-03-09
+ 
+Įstatymas paskelbtas: TAR 2014-01-07, i. k. 2014-00063
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 TEISMŲ ĮSTATYMO 47 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
@@ -43,6 +49,10 @@ Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
 
 2. Draudžiama įeiti į teisėjo gyvenamąsias ar tarnybines patalpas, daryti ten arba teisėjo asmeniniame ar tarnybiniame automobilyje, arba kitoje asmeninėje susisiekimo priemonėje apžiūrą, kratą ar poėmį, taip pat atlikti teisėjo asmens apžiūrą ar kratą, jam priklausančių daiktų ir dokumentų apžiūrą ar poėmį, išskyrus įstatymų nustatytus atvejus. 
+TAR pastaba. Nuo 2019-12-30 iki bus paskelbtas Konstitucinio Teismo nutarimas šioje byloje sustabdomas Lietuvos Respublikos teismų įstatymo 47 straipsnio 2 dalies (2013 m. gruodžio 23 d. redakcija; TAR, 2014-01-07, Nr. 63, identifikacinis kodas 2014-00063) galiojimas.
+Straipsnio dalies pakeitimai:
+Nr. 2B-56P, 2019-12-30, paskelbta TAR 2019-12-30, i. k. 2019-21605
+ 
 
 
 
@@ -91,3 +101,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTĖ                                              DALIA GRYBAUSKAITĖ
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Konstitucinis Teismas, Pranešimas
+Nr. 2B-56P, 2019-12-30, paskelbta TAR 2019-12-30, i. k. 2019-21605
+Dėl Lietuvos Respublikos teismų įstatymo 47 straipsnio 2 dalies (2013 m. gruodžio 23 d. redakcija) galiojimo sustabdymo
