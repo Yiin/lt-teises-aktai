@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-12-30
+Suvestinė redakcija nuo 2019-12-31 iki 2020-03-18
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
- 
-TAR pastaba. Iki įstatymo Nr. XIII-2158 įsigaliojimo pradėtos pirkimų procedūros tęsiamos, sudarytų preliminariųjų sutarčių pagrindu atnaujintas tiekėjų varžymasis atliekamas, pradėtų pirkimų ataskaitos ir elektroninės sąskaitos faktūros pagal pirkimo sutartis, sudarytas pagal iki šio įstatymo įsigaliojimo pradėtas pirkimo procedūras, teikiamos pagal tuo metu galiojusias Lietuvos Respublikos viešųjų pirkimų įstatymo nuostatas.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
-Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymas
  
 Nauja redakcija nuo 2017-07-01:
 Nr. XIII-327, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07550
@@ -921,7 +916,20 @@ e) kitų teisinių paslaugų, susijusių su viešosios valdžios funkcijų atlik
 
 
 
-2. Vidaus sandoris gali būti sudaromas tik išimtiniu atveju, kai tenkinamos šio straipsnio 1 dalyje išdėstytos sąlygos ir perkant viešojo pirkimo būdu būtų neįmanoma užtikrinti paslaugos teikimo nepertraukiamumo, geros kokybės ir prieinamumo.
+2. Vidaus sandoris gali būti sudaromas tik išimtiniu atveju, kai tenkinamos šio straipsnio 1 dalyje išdėstytos sąlygos ir kai:
+
+
+1) perkant viešojo pirkimo būdu būtų neįmanoma užtikrinti paslaugos teikimo nepertraukiamumo, geros kokybės ir prieinamumo arba 
+
+
+
+
+2) įsigyjamos viešosios paslaugos, administruojamos vadovaujantis Lietuvos Respublikos vietos savivaldos įstatymo 9 straipsnio 2 dalimi.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2765, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21571
+ 
 
 
 
@@ -8216,3 +8224,8 @@ Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2765, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21571
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 10 straipsnio pakeitimo įstatymas
