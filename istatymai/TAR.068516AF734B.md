@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2019-10-30 iki 2019-12-30
+Suvestinė redakcija nuo 2019-12-31 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
  
@@ -664,10 +664,12 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-3. Moteriai, turinčiai šio straipsnio 1 dalyje nurodytą motinystės socialinio draudimo stažą ir nėštumo laikotarpiu tapusiai neapdraustu asmeniu, motinystės išmoka mokama šio įstatymo 17 straipsnyje nustatyta tvarka. Ši nuostata taikoma ir kitoms nėštumo ir gimdymo atostogoms, jeigu jos prasideda prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu. 
+3. Moteriai, turinčiai šio straipsnio 1 dalyje nurodytą motinystės socialinio draudimo stažą ir tapusiai neapdraustu asmeniu, motinystės išmoka mokama šio įstatymo 17 straipsnyje nustatyta tvarka. Ši nuostata taikoma ir kitoms nėštumo ir gimdymo atostogoms, jeigu jos prasideda prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu.
+TAR pastaba. Moterims, kurios neturėjo teisės gauti motinystės išmokos nuo 2019 m. spalio 30 d. iki įstatymo  Nr. XIII-2741 įsigaliojimo (2019-12-31) dėl to, kad tapo neapdraustais asmenimis ne nėštumo laikotarpiu, motinystės išmoka išmokama Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo nustatyta tvarka ir terminais.
 Straipsnio dalies pakeitimai:
 Nr. KT23-N13/2018, 2018-12-19, paskelbta TAR 2018-12-19, i. k. 2018-20843
 Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
+Nr. XIII-2741, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21563
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
  
@@ -1630,3 +1632,8 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 5, 9, 10, 11 ir 16 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2741, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21563
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 16 straipsnio pakeitimo įstatymas
