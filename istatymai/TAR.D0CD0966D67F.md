@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2019-07-27 iki 2019-12-30
+Suvestinė redakcija nuo 2019-12-31 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -922,18 +922,44 @@ Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
 
 
 
-2. Savivaldybė steigia naujus viešųjų paslaugų teikėjus tik tais atvejais, kai kiti teikėjai viešųjų paslaugų neteikia arba negali jų teikti gyventojams geros kokybės ir už mažesnę kainą. Tais atvejais, kai viešąją paslaugą teikia ne savivaldybės biudžetinė įstaiga ir viešosios paslaugos teikimas yra ūkinė veikla, kaip ji apibrėžta Lietuvos Respublikos konkurencijos įstatyme, turi būti įgyvendinti šio įstatymo 91 straipsnyje nustatyti reikalavimai. Ūkine veikla nelaikoma tokia viešosios paslaugos teikėjo veikla, kuri papildo jo teikiamą viešąją paslaugą ir teikiama tik kartu su šia viešąja paslauga. 
+2. Savivaldybė gali steigti naujus viešųjų paslaugų teikėjus ir (ar) Lietuvos Respublikos viešųjų pirkimų įstatymo arba Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo, arba Lietuvos Respublikos koncesijų įstatymo nustatyta tvarka pavesti viešosios paslaugos teikimą jau įsteigtam viešųjų paslaugų teikėjui, kai:
+
+
+1) teikiamos vandens tiekimo, nuotekų valymo, šilumos tiekimo, atliekų tvarkymo, keleivių vežimo, teritorijų ir gatvių priežiūros ir tvarkymo, maitinimo švietimo, socialinės globos arba sveikatos priežiūros įstaigose paslaugos arba
+
+
+
+
+2) teikiant viešąsias paslaugas turi būti valdomas ir naudojamas savivaldybių ar savivaldybių juridinių asmenų nekilnojamasis turtas ir kitas ūkio subjektas tokios paslaugos negalėtų teikti savo patalpose, arba
+
+
+
+
+3) pagal šio įstatymo 91 straipsnį steigiant naują juridinį asmenį ar pavedant vykdyti šios viešosios paslaugos teikimą, kuris yra ūkinė veikla, jau veikiančiai savivaldybės valdomai įmonei buvo gautas Lietuvos Respublikos konkurencijos tarybos sutikimas.“  
+
+
 Straipsnio dalies pakeitimai:
 Nr. XII-2741, 2016-11-08, paskelbta TAR 2016-11-15, i. k. 2016-26839
 Nr. XIII-1275, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10517
+Nr. XIII-2767, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21573
  
 
 
 
 
-3. Jeigu seniūnija, vadovaudamasi šio įstatymo 8 straipsnio 2 dalimi, pati teikia viešąsias paslaugas, šioms paslaugoms administruoti paskiriamas savivaldybės administracijos padalinys. 
+3. Kai viešosios paslaugos teikimas yra ūkinė veikla, kaip ji apibrėžta Lietuvos Respublikos konkurencijos įstatyme, turi būti įgyvendinti šio įstatymo 91 straipsnyje nustatyti reikalavimai. Šio straipsnio 2 dalies 1 ir 2 punktuose nurodytais atvejais šio įstatymo 91 straipsnyje nustatyti reikalavimai yra netaikomi. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2767, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21573
+ 
+
+
+
+
+4. Jeigu seniūnija, vadovaudamasi šio įstatymo 8 straipsnio 2 dalimi, pati teikia viešąsias paslaugas, šioms paslaugoms administruoti paskiriamas savivaldybės administracijos padalinys. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2767, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21573
  
 
 
@@ -964,12 +990,18 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-2. Jeigu nėra pažeidžiami šio straipsnio 1 dalyje nustatyti reikalavimai, savivaldybė gali steigti naują juridinį asmenį šiai ūkinei veiklai vykdyti arba pavesti naują ūkinę veiklą vykdyti jau veikiančioms savivaldybės valdomoms įmonėms, tik gavusi išankstinį Lietuvos Respublikos konkurencijos tarybos sutikimą (toliau – sutikimas), išskyrus šio straipsnio 3 dalyje nurodytas išimtis. Nauju juridiniu asmeniu nelaikomas po juridinių asmenų reorganizavimo veiklą tęsiantis juridinis asmuo, taip pat po pertvarkymo naują teisinę formą įgijęs juridinis asmuo. Nauja ūkine veikla laikoma ūkinė veikla, kurios savivaldybės valdoma įmonė per pastaruosius trejus metus iki savivaldybės sprendimo pavesti jai tokią veiklą vykdyti priėmimo faktiškai nevykdė. Jeigu ūkinę veiklą vykdyti pavedama per paskutinius trejus metus po juridinių asmenų reorganizavimo veiklą tęsiančiai savivaldybės valdomai įmonei, bent vieno iš po juridinių asmenų reorganizavimo pasibaigusių juridinių asmenų faktiškai vykdyta atitinkama ūkinė veikla yra laikoma po juridinių asmenų reorganizavimo veiklą tęsiančio juridinio asmens faktiškai vykdyta ūkine veikla.
+2. Jeigu nėra pažeidžiami šio straipsnio 1 dalyje nustatyti reikalavimai, savivaldybė gali steigti naują juridinį asmenį šiai ūkinei veiklai vykdyti arba pavesti naują ūkinę veiklą vykdyti jau veikiančioms savivaldybės valdomoms įmonėms, tik gavusi išankstinį Lietuvos Respublikos konkurencijos tarybos sutikimą (toliau – sutikimas). Nauju juridiniu asmeniu nelaikomas po juridinių asmenų reorganizavimo veiklą tęsiantis juridinis asmuo, taip pat po pertvarkymo naują teisinę formą įgijęs juridinis asmuo. Nauja ūkine veikla laikoma ūkinė veikla, kurios savivaldybės valdoma įmonė per pastaruosius trejus metus iki savivaldybės sprendimo pavesti jai tokią veiklą vykdyti priėmimo faktiškai nevykdė. Jeigu ūkinę veiklą vykdyti pavedama per paskutinius trejus metus po juridinių asmenų reorganizavimo veiklą tęsiančiai savivaldybės valdomai įmonei, bent vieno iš po juridinių asmenų reorganizavimo pasibaigusių juridinių asmenų faktiškai vykdyta atitinkama ūkinė veikla yra laikoma po juridinių asmenų reorganizavimo veiklą tęsiančio juridinio asmens faktiškai vykdyta ūkine veikla. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2767, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21573
+ 
 
 
 
 
-3. Išankstinis Konkurencijos tarybos sutikimas nebūtinas, jeigu nauja ūkinė veikla yra vandens tiekimo, nuotekų valymo, šilumos tiekimo, atliekų tvarkymo, keleivių vežimo, teritorijų ir gatvių priežiūros ir tvarkymo paslaugų teikimas, taip pat maitinimo paslaugų teikimas ugdymo, globos arba sveikatos priežiūros įstaigose.
+3. Neteko galios 2019-12-31.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2767, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21573
+ 
 
 
 
@@ -1004,7 +1036,10 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-10. Siekdama įvertinti, ar šio straipsnio 3 dalyje numatytos naujos ūkinės veiklos vykdymas atitinka šio straipsnio 1 dalyje nustatytus reikalavimus, savivaldybė Konkurencijos tarybos nustatyta tvarka gali kreiptis išvados į Konkurencijos tarybą. Kartu su šiuo kreipimusi savivaldybė pateikia Konkurencijos tarybos išvadai priimti reikalingus dokumentus. Konkurencijos taryba išvadą pateikia per 30 dienų nuo savivaldybės kreipimosi ir išvadai priimti reikalingų dokumentų gavimo. Jeigu savivaldybė sprendimą priima neatsižvelgdama į Konkurencijos tarybos išvadą arba tokios išvados nebuvo kreiptasi, sprendime dėl naujos ūkinės veiklos vykdymo privaloma nurodyti motyvus, pagrindžiančius, kad sprendimas atitinka šio straipsnio 1 dalyje nustatytus reikalavimus. Savivaldybei tenka pareiga įrodyti, kad nauja ūkinė veikla atitinka šio įstatymo reikalavimus.
+10. Neteko galios 2019-12-31.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2767, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21573
+ 
 
 
 
@@ -5512,3 +5547,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2321, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12360
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 31 straipsnio pakeitimo įstatymas
+ 
+41.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2767, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21573
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 9 ir 9-1 straipsnių pakeitimo įstatymas
