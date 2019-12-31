@@ -13,14 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7"
 
 # Lietuvos Respublikos pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-30
+Suvestinė redakcija nuo 2019-12-31 iki 2020-04-29
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 75-3472, i. k. 1031010ISTA0IX-1691
  
-TAR pastaba. Nuo įstatymo Nr. XIII-1360 įsigaliojimo (2019-01-01) iki 2019 m. gruodžio 31 d. pensijų išmokų rūšys nustatomos ir pensijų išmokos mokamos pagal teisės aktų nuostatas, galiojusias iki 2018 m. gruodžio 31 d.
+TAR pastaba. Nuo įstatymo Nr XIII-1360 įsigaliojimo iki 2020 m. birželio 30 d. pensijų išmokų rūšys nustatomos ir pensijų išmokos mokamos pagal teisės aktų nuostatas, galiojusias iki 2018 m. gruodžio 31 d.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-1360, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11459
-Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 pakeitimo įstatymas
+Nr. XIII-2750, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21421
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 pakeitimo įstatymo Nr. XIII-1360 2 ir 3 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2019-01-01:
 Nr. XIII-1360, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11459
@@ -1232,10 +1232,12 @@ PENSIJŲ IŠMOKOS
 
 
 9. Priežiūros institucija nustato periodinių pensijų išmokų dydžio apskaičiavimo tvarką ir metodiką.
-TAR pastaba. 29 straipsnis įsigalioja 2020 m. sausio 1 d.
+TAR pastaba. 29 straipsnis įsigalioja 2020 m. liepos 1 d.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2750, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21421
  
-
-
 
 
 
@@ -1284,10 +1286,12 @@ TAR pastaba. 29 straipsnis įsigalioja 2020 m. sausio 1 d.
 
 
 9. Pensijų kaupimo bendrovė atsako už laiku vykdomą ir teisingą pensijų išmokų mokėjimą laikantis pensijų išmokos sutartyje nustatytų sąlygų. Pensijų išmokos sutarčių vykdymą prižiūri priežiūros institucija.
-TAR pastaba. 30 straipsnis įsigalioja 2020 m. sausio 1 d.
+TAR pastaba. 30 straipsnis įsigalioja 2020 m. liepos 1 d.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2750, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21421
  
-
-
 
 
 
@@ -1306,10 +1310,12 @@ TAR pastaba. 30 straipsnis įsigalioja 2020 m. sausio 1 d.
 
 
 3. Vienkartinė pensijų išmoka, neišmokėta dėl pensijų išmokos gavėjo mirties, paveldima Civilinio kodekso nustatyta tvarka. 
-TAR pastaba. 31 straipsnis įsigalioja 2020 m. sausio 1 d.
+TAR pastaba. 31 straipsnis įsigalioja 2020 m. liepos 1 d.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2750, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21421
  
-
-
 
 
 
@@ -1333,10 +1339,12 @@ TAR pastaba. 31 straipsnis įsigalioja 2020 m. sausio 1 d.
 
 
 4. Sudarius periodinės pensijų išmokos sutartį, dalyviui priklausantis pensijų turtas lieka jo asmeninėje pensijos sąskaitoje. Dalyvis, gaunantis periodines išmokas, turi teisę pereiti į tos pačios arba kitos pensijų kaupimo bendrovės valdomą kitą pensijų fondą – tokiais atvejais šio įstatymo 9 ir 10 straipsnių nuostatos taikomos mutatis mutandis.
-TAR pastaba. 32 straipsnis įsigalioja 2020 m. sausio 1 d.
+TAR pastaba. 32 straipsnis įsigalioja 2020 m. liepos 1 d.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2750, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21421
  
-
-
 
 
 
@@ -1385,10 +1393,12 @@ TAR pastaba. 32 straipsnis įsigalioja 2020 m. sausio 1 d.
 
 
 9. Pensijų anuiteto sutarčiai mutatis mutandis taikomos Draudimo įstatymo nuostatos, reglamentuojančios draudimo sutarties nutraukimą lengvatinėmis sąlygomis. 
-TAR pastaba. 33 straipsnis įsigalioja 2020 m. sausio 1 d.
+TAR pastaba. 33 straipsnis įsigalioja 2020 m. liepos 1 d.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2750, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21421
  
-
-
 
 
 
@@ -1412,10 +1422,12 @@ TAR pastaba. 33 straipsnis įsigalioja 2020 m. sausio 1 d.
 
 
 4. Dalyvis, per numatytą pasiūlymo galiojimo terminą nesudaręs pensijų anuiteto sutarties arba sudarytą pensijų anuiteto sutartį nutraukęs lengvatinėmis sąlygomis Draudimo įstatymo nustatyta tvarka, turi teisę sudaryti sutartį vėliau šiame straipsnyje nustatyta tvarka.
-TAR pastaba. 34 straipsnis įsigalioja 2020 m. sausio 1 d.
+TAR pastaba. 34 straipsnis įsigalioja 2020 m. liepos 1 d.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2750, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21421
  
-
-
 
 
 
@@ -1716,3 +1728,8 @@ Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 2, 3, 21 ir 30 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1360, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11459
 Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2750, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21421
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 pakeitimo įstatymo Nr. XIII-1360 2 ir 3 straipsnių pakeitimo įstatymas
