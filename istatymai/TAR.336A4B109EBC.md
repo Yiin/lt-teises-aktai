@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2019-12-21 iki 2019-12-30
+Suvestinė redakcija nuo 2019-12-31 iki 2019-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -1675,7 +1675,14 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-1604, 2018-11-08, paskelbta TAR 2018-11-16, i. k. 2018-18595
  
 
-6. Savivaldybės rinkimų komisija Vyriausiosios rinkimų komisijos nustatyta tvarka burtais parenka rinkimų apylinkę ar apylinkes, jose – kandidatų sąrašą ar sąrašus, už kuriuos paduoti balsai ir kurių kandidatų gauti pirmumo balsai turi būti perskaičiuojami, ir organizuoja balsų perskaičiavimą. Perskaičiavus balsus, surašomas rinkimų apylinkės balsų perskaičiavimo protokolas. Jeigu, perskaičiavus balsus, nustatomi kitokie, negu buvo nustačiusi apylinkės rinkimų komisija, balsų skaičiavimo rezultatai, perskaičiuojami visi tos rinkimų apylinkės rinkėjų paduoti balsai.
+6. Savivaldybės rinkimų komisija privalo priimti sprendimą perskaičiuoti visus vienmandatės rinkimų apygardos biuletenius, kai balsų skirtumas pirmą kartą balsuojant vienmandatėje rinkimų apygardoje tarp antrą ir trečią vietas užėmusių kandidatų į savivaldybių tarybų narius – merus, o per pakartotinį balsavimą ir pirmą kartą balsuojant vienmandatėje rinkimų apygardoje, kai dalyvauja tik du kandidatai, – tarp pirmą ir antrą vietas užėmusių kandidatų į savivaldybių tarybų narius – merus yra mažesnis negu 50, ir kai iki vienmandatės rinkimų apygardos balsų skaičiavimo protokolo pasirašymo to pareikalauja bent vienas šios komisijos narys arba partijos, rinkimų komiteto, rinkimuose į savivaldybių tarybų narius – merus iškėlusių savo kandidatą, taip pat išsikėlusio kandidatu į savivaldybių tarybų narius – merus asmens atstovas rinkimams. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2687, 2019-12-13, paskelbta TAR 2019-12-30, i. k. 2019-21532
+ 
+
+7. Savivaldybės rinkimų komisija Vyriausiosios rinkimų komisijos nustatyta tvarka burtais parenka rinkimų apylinkę ar apylinkes, jose – kandidatų sąrašą ar sąrašus, už kuriuos paduoti balsai ir kurių kandidatų gauti pirmumo balsai turi būti perskaičiuojami, ir organizuoja balsų perskaičiavimą. Perskaičiavus balsus, surašomas rinkimų apylinkės balsų perskaičiavimo protokolas. Jeigu, perskaičiavus balsus, nustatomi kitokie, negu buvo nustačiusi apylinkės rinkimų komisija, balsų skaičiavimo rezultatai, perskaičiuojami visi tos rinkimų apylinkės rinkėjų paduoti balsai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2687, 2019-12-13, paskelbta TAR 2019-12-30, i. k. 2019-21532
  
 
 78 straipsnis. Savivaldybių rinkimų komisijų dokumentų pateikimas Vyriausiajai rinkimų komisijai
@@ -2205,4 +2212,9 @@ Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 16, 23, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2689, 2019-12-13, paskelbta TAR 2019-12-20, i. k. 2019-20858
 Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 39 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2687, 2019-12-13, paskelbta TAR 2019-12-30, i. k. 2019-21532
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 77 straipsnio pakeitimo įstatymas
 
