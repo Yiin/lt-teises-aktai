@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e944ee00600111e4bad5c03f56793630"
 
 # Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-12-30
+Suvestinė redakcija nuo 2019-12-31 iki 2020-06-30
  
 Įstatymas paskelbtas: TAR 2014-10-30, i. k. 2014-15180
- 
-TAR pastaba. Asmenims ir šeimoms, dėl kurių savivaldybės taryba iki įstatymo Nr. XIII-1959 įsigaliojimo (2019-09-01) priėmė sprendimą parduoti savivaldybei nuosavybės teise priklausantį būstą, taikomos šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo V skyriaus nuostatos. Asmenų ir šeimų prašymai suteikti paramą būstui įsigyti ar išsinuomoti, pateikti iki šio įstatymo įsigaliojimo, baigiami nagrinėti vadovaujantis šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo nuostatomis.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-1959, 2019-02-12, paskelbta TAR 2019-02-20, i. k. 2019-02742
-Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 pakeitimo įstatymas
  
 Nauja redakcija nuo 2019-09-01:
 Nr. XIII-1959, 2019-02-12, paskelbta TAR 2019-02-20, i. k. 2019-02742
@@ -720,6 +715,13 @@ PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI TEIKIMO TVARKA IR SĄLYGOS
 
 
 6. Savivaldybės būstas, nuomojamas teisę į socialinio būsto nuomą turintiems asmenims ir šeimoms, negali būti parduodamas ar kitaip perleidžiamas kitų asmenų nuosavybėn.
+
+
+
+
+7. Savivaldybės būsto fonde esantys būstai negali būti subnuomojami. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2752, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21602
  
 
 
@@ -1457,3 +1459,8 @@ Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1959, 2019-02-12, paskelbta TAR 2019-02-20, i. k. 2019-02742
 Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2752, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21602
+Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 14 straipsnio pakeitimo įstatymas
