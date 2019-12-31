@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/96842d9088f511e8af589337bf1eb893"
 
 # Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-30
+Suvestinė redakcija nuo 2019-12-31
  
 Įstatymas paskelbtas: TAR 2018-07-16, i. k. 2018-12049
  
@@ -4358,17 +4358,10 @@ Nr. XIII-1790, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21121
 
 
 
-20. Finansų ministro valdymo srities statutinių įstaigų pareigūnai, į tarnybą muitinėje priimti iki šio įstatymo įsigaliojimo, gali tarnauti:
-
-
-1) muitinės pareigūnai, išskyrus šios dalies 2 punkte nurodytus pareigūnus, – kol jiems sukaks 65 metai;
-
-
-
-
-2) muitinės mobiliųjų grupių pareigūnai, muitinės postų pareigūnai ir muitinės pareigūnai, atliekantys kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, – kol jiems sukaks 62 metai ir 6 mėnesiai.
-
-
+20. Finansų ministro valdymo srities statutinių įstaigų pareigūnai, į tarnybą muitinėje priimti iki šio įstatymo įsigaliojimo, gali tarnauti tol, kol jiems sukaks 65 metai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2739, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21561
+ 
 
 
 
@@ -4383,7 +4376,10 @@ Nr. XIII-1790, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21121
 
 
 
-23. Šio straipsnio 19, 20 ir 21 dalyse nurodytiems pareigūnams ir iki šio įstatymo įsigaliojimo atleistiems teisingumo ir finansų ministrų valdymo sričių statutinių įstaigų pareigūnams, kurie atitinka Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 3 straipsnio 1 dalies 5 punkte ir 3 straipsnio 2 dalyje nustatytas sąlygas, skiriant ir mokant pareigūnų ir karių valstybinę pensiją, atitinkamai taikomos šio straipsnio 19 arba 20 dalies nuostatos dėl tarnybos trukmės.
+23. Šio straipsnio 19, 20 ir 21 dalyse nurodytiems pareigūnams (išskyrus muitinės mobiliųjų grupių pareigūnus, muitinės postų pareigūnus ir muitinės pareigūnus, atliekančius kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą) ir iki šio įstatymo įsigaliojimo atleistiems teisingumo ir finansų ministrų valdymo sričių statutinių įstaigų pareigūnams (išskyrus muitinės mobiliųjų grupių pareigūnus, muitinės postų pareigūnus ir muitinės pareigūnus, atliekančius kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą), kurie atitinka Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 3 straipsnio 1 dalies 5 punkte ir 3 straipsnio 2 dalyje nustatytas sąlygas, skiriant ir mokant pareigūnų ir karių valstybinę pensiją, atitinkamai taikomos šio straipsnio 19 arba 20 dalies nuostatos dėl tarnybos trukmės. Iki šio įstatymo įsigaliojimo į tarnybą muitinėje priimtiems ar iš jos atleistiems muitinės mobiliųjų grupių pareigūnams, muitinės postų pareigūnams ir muitinės pareigūnams, atliekantiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, kurie atitinka Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo 3 straipsnio 1 dalies 5 punkte ir 3 straipsnio 2 dalyje nustatytas sąlygas, skiriant ir mokant pareigūnų ir karių valstybinę pensiją, taikoma vidaus tarnybos trukmė – kol jiems sukaks 62 metai ir 6 mėnesiai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2739, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21561
+ 
 
 
 
@@ -4478,3 +4474,8 @@ Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymo Nr. XIII-1381 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1822, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21844
 Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymo Nr. XIII-1381 1 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2739, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21561
+Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymo Nr. XIII-1381 2 straipsnio pakeitimo įstatymas
