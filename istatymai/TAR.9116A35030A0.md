@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9116a35030a011e78397ae072f58c508"
 
 # Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-12-30
+Suvestinė redakcija nuo 2019-12-31 iki 2020-07-31
  
 Įstatymas paskelbtas: TAR 2017-05-04, i. k. 2017-07551
- 
-TAR pastaba. Iki įstatymo Nr. XIII-2159 įsigaliojimo pradėtos pirkimų procedūros tęsiamos, sudarytų preliminariųjų sutarčių pagrindu atnaujintas tiekėjų varžymasis atliekamas, pradėtų pirkimų ataskaitos ir elektroninės sąskaitos faktūros pagal pirkimo sutartis, sudarytas pagal iki šio įstatymo įsigaliojimo pradėtas pirkimo procedūras, teikiamos pagal tuo metu galiojusias Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo nuostatas.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
-Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 pakeitimo įstatymas
  
  
 
@@ -1011,7 +1006,20 @@ Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 
 
 
-2. Vidaus sandoris gali būti sudaromas tik išimtiniu atveju, kai tenkinamos šio straipsnio 1 dalyje išdėstytos sąlygos ir perkant pagal šį įstatymą būtų neįmanoma užtikrinti paslaugos teikimo nepertraukiamumo, geros kokybės ir prieinamumo. 
+2. Vidaus sandoris gali būti sudaromas tik išimtiniu atveju, kai tenkinamos šio straipsnio 1 dalyje išdėstytos sąlygos ir kai:
+
+
+1) perkant pagal šį įstatymą būtų neįmanoma užtikrinti paslaugos teikimo nepertraukiamumo, geros kokybės ir prieinamumo arba 
+
+
+
+
+2) įsigyjamos viešosios paslaugos, administruojamos vadovaujantis Lietuvos Respublikos vietos savivaldos įstatymo 9 straipsnio 2 dalimi.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2766, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21572
+ 
 
 
 
@@ -7280,3 +7288,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2159, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09412
 Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2766, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21572
+Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo Nr. XIII-328 19 straipsnio pakeitimo įstatymas
