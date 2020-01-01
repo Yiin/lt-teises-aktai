@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FDF42614DE52"
 
 # Lietuvos Respublikos nedarbo socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2019-12-22 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-11
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-26, i. k. 1031010ISTA0IX-1904
  
@@ -183,7 +183,9 @@ Nr. XIII-417, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10025
 
 
 
-3. Į nedarbo draudimo išmokos mokėjimo laikotarpį neįskaitomi laikotarpiai, kai nedarbo draudimo išmokos mokėjimas buvo sustabdytas pagal šio įstatymo 9 straipsnio 1 dalį, išskyrus atvejus, kai bedarbis pagal Užimtumo įstatymą dalyvauja profesiniame mokyme ir jo pasirinkimu gauna nedarbo draudimo išmokos dydžio mokymo stipendiją arba pagal Užimtumo įstatymą yra sudaręs stažuotės sutartį ir gauna nedarbo draudimo išmokos dydžio stipendiją.
+3. Į nedarbo draudimo išmokos mokėjimo laikotarpį neįskaitomi laikotarpiai, kai nedarbo draudimo išmokos mokėjimas buvo sustabdytas pagal šio įstatymo 9 straipsnio 1 dalį, išskyrus atvejus, kai bedarbis pagal Užimtumo įstatymą dalyvauja profesiniame mokyme ir jo pasirinkimu gauna nedarbo draudimo išmokos dydžio mokymo stipendiją arba pagal Užimtumo įstatymą yra sudaręs stažuotės sutartį ir gauna nedarbo draudimo išmokos dydžio stipendiją. Laikotarpis, už kurį bedarbis privalo grąžinti nedarbo draudimo išmoką pagal šio įstatymo 15 straipsnio 1 dalį, įskaitomas į nedarbo draudimo išmokos mokėjimo trukmę. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
  
 
 
@@ -336,7 +338,10 @@ Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
 
 
 
-3. Bedarbiams, kurie savanoriškai gydosi nuo alkoholizmo, narkomanijos ar toksikomanijos specializuotuose stacionaruose, nedarbo draudimo išmokos mokėjimo trukmė pratęsiama ne ilgiau kaip 14 kalendorinių dienų vieną kartą per kalendorinius metus. Nedarbo draudimo išmokos mokėjimo pratęsimo dėl laikinojo nedarbingumo trukmė negali būti ilgesnė už šio straipsnio 2 dalyje nustatytą laikotarpį. 
+3. Bedarbiams, kurie asmens sveikatos priežiūros įstaigose, teikiančiose stacionarinio priklausomybės ligų gydymo paslaugas, savanoriškai gydosi patologinį potraukį į azartinius lošimus, priklausomybės sindromą vartojant psichoaktyviąsias medžiagas, nedarbo draudimo išmokos mokėjimo trukmė pratęsiama ne ilgiau kaip 28 kalendorines dienas vieną kartą per kalendorinius metus. Nedarbo draudimo išmokos mokėjimo pratęsimo dėl laikinojo nedarbingumo trukmė negali būti ilgesnė už šio straipsnio 2 dalyje nustatytą laikotarpį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
+ 
 
 
 
@@ -354,7 +359,10 @@ Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
 
 
 
-3) tapo laikinai nedarbingas dėl neblaivumo (girtumo) ar dėl piktnaudžiavimo psichiką veikiančiomis medžiagomis, išskyrus bedarbius, kurie savanoriškai gydosi nuo alkoholizmo, narkomanijos ar toksikomanijos specializuotuose stacionaruose. 
+3) tapo laikinai nedarbingas dėl neblaivumo (girtumo) ar dėl piktnaudžiavimo psichiką veikiančiomis medžiagomis, išskyrus bedarbius, kurie asmens sveikatos priežiūros įstaigose, teikiančiose stacionarinio priklausomybės ligų gydymo paslaugas, savanoriškai gydosi patologinį potraukį į azartinius lošimus, priklausomybės sindromą vartojant psichoaktyviąsias medžiagas. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
+ 
 
 
 
@@ -387,9 +395,11 @@ Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
 13 straipsnis. Nedarbo draudimo išmokos mokėjimas kartu su kitomis socialinės apsaugos išmokomis
 
 
-1. Asmenims, gaunantiems socialinio draudimo, šalpos ar valstybines pensijas (išskyrus našlių, našlaičių ir maitintojo netekimo pensijas, kompensacijas už ypatingas darbo sąlygas, šalpos pensijas, gaunamas už kitus asmenis), taip pat netekto darbingumo periodines kompensacijas ar ligos išmokas dėl nelaimingų atsitikimų darbe ir profesinių ligų, taip pat ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros socialinio draudimo išmokas, iš nedarbo draudimo lėšų mokama tik nedarbo draudimo išmokos dalis, viršijanti gaunamą pensijų, kompensacijų ar išmokų sumą. 
+1. Asmenims, gaunantiems jiems patiems priklausančias socialinio draudimo pensijas, šalpos išmokas, valstybines pensijas, rentas buvusiems sportininkams, kompensacines išmokas profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, taip pat netekto darbingumo periodines kompensacijas ar ligos išmokas dėl nelaimingų atsitikimų darbe ir profesinių ligų, taip pat ligos, motinystės, tėvystės ar vaiko priežiūros socialinio draudimo išmokas, profesinės reabilitacijos išmokas, iš nedarbo draudimo lėšų mokama tik nedarbo draudimo išmokos dalis, viršijanti gaunamą pensijų, kompensacijų, rentų ar išmokų sumą. 
+TAR pastaba. 1 dalies nuostatos taikomos skiriant nedarbo socialinio draudimo išmokas asmenims, kurie įsiregistravo Užimtumo tarnyboje prie Socialinės apsaugos ir darbo ministerijos ir kuriems suteiktas bedarbio statusas po 2020 m. sausio 1 d., bei skiriant dalinio darbo išmokas asmenims, kuriems Lietuvos Respublikos darbo kodekso nustatyta tvarka darbdavio sprendimas nustatyti dalinį darbą įsigalioja po 2020 m. sausio 1 d.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1340, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11436
+Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
  
 
 
@@ -417,7 +427,11 @@ Nedarbo draudimo išmoka, neišmokėta iki turėjusio į ją teisę asmens mirti
 15 straipsnis. Nedarbo draudimo išmokos grąžinimas
 
 
-1. Kai nedarbo draudimo išmoka buvo išmokėta bedarbiui, kuris dirbo nelegalų darbą, toks bedarbis privalo grąžinti nedarbo draudimo išmoką už laikotarpį, už kurį darbdavys sumokėjo jam atlyginimą.
+1. Jeigu nedarbo draudimo išmoka buvo išmokėta bedarbiui, kuris dirbo nelegalų darbą, jis privalo grąžinti nedarbo draudimo išmoką už nelegalaus darbo laikotarpį. 
+TAR pastaba. 1 dalies nuostatos taikomos skiriant nedarbo socialinio draudimo išmokas asmenims, kurie įsiregistravo Užimtumo tarnyboje prie Socialinės apsaugos ir darbo ministerijos ir kuriems suteiktas bedarbio statusas po 2020 m. sausio 1 d., bei skiriant dalinio darbo išmokas asmenims, kuriems Lietuvos Respublikos darbo kodekso nustatyta tvarka darbdavio sprendimas nustatyti dalinį darbą įsigalioja po 2020 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
+ 
 
 
 
@@ -456,10 +470,10 @@ Teisę į dalinio darbo išmoką turi apdraustieji, kuriems Lietuvos Respublikos
 
 
 
-17 straipsnis. Dalinio darbo išmokos skyrimo ir mokėjimo sąlygos
+17 straipsnis. Dalinio darbo išmokos skyrimo ir mokėjimo sąlygos 
 
 
-1. Kai yra Darbo kodekso 48 straipsnio 1 dalyje nustatytos aplinkybės, dėl dalinio darbo išmokos skyrimo darbuotojams darbdavys kreipiasi į Valstybinio socialinio draudimo fondo valdybos teritorinį skyrių, pateikdamas motyvuotą prašymą skirti dalinio darbo išmoką ir nurodydamas kiekvieno darbuotojo darbo laiko normos sutrumpinimą iki 50 procentų, dalinio darbo pradžią ir jo trukmę. Prašymas skirti dalinio darbo išmoką svarstomas Valstybinio socialinio draudimo fondo taryboje. Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius sprendimą dėl dalinio darbo išmokos skyrimo priima gavęs Valstybinio socialinio draudimo fondo tarybos išvadą. Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius dalinio darbo išmoką skiria Lietuvos Respublikos Vyriausybės nustatyta tvarka. 
+1. Jeigu yra Darbo kodekso 48 straipsnio 1 dalyje nustatytos aplinkybės, dėl dalinio darbo išmokos skyrimo darbuotojams darbdavys kreipiasi į Valstybinio socialinio draudimo fondo valdybos teritorinį skyrių, pateikdamas motyvuotą prašymą skirti dalinio darbo išmoką ir nurodydamas kiekvieno darbuotojo darbo laiko normos sutrumpinimą iki 50 procentų, planuojamą dalinio darbo pradžią, kuri negali būti ankstesnė kaip po 30 dienų nuo kreipimosi dienos, ir pabaigą. Prašymas skirti dalinio darbo išmoką svarstomas Valstybinio socialinio draudimo fondo taryboje. Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius sprendimą dėl dalinio darbo išmokos skyrimo priima gavęs Valstybinio socialinio draudimo fondo tarybos išvadą. Valstybinio socialinio draudimo fondo valdybos teritorinis skyrius dalinio darbo išmoką skiria Lietuvos Respublikos Vyriausybės nustatyta tvarka. Pakartotinai dėl dalinio darbo išmokų skyrimo tam pačiam darbuotojui darbdavys į Valstybinio socialinio draudimo fondo valdybos teritorinį skyrių gali kreiptis ne anksčiau kaip po 12 mėnesių nuo dalinio darbo išmokų, skirtų pagal ankstesnį kreipimąsi, mokėjimo paskutinės dienos.
 
 
 
@@ -469,15 +483,18 @@ Teisę į dalinio darbo išmoką turi apdraustieji, kuriems Lietuvos Respublikos
 
 
 
-3. Dalinio darbo išmoka mokama kartu su kitomis socialinės apsaugos išmokomis šio įstatymo 13 straipsnyje nustatyta tvarka.
+3. Dalinio darbo išmoka, negauta iki turėjusio į ją teisę asmens mirties dienos, išmokama įpėdiniui, pateikusiam paveldėjimo dokumentus.
 
 
 
 
-4. Dalinio darbo išmoka, negauta iki turėjusio į ją teisę asmens mirties dienos, išmokama įpėdiniui, pateikusiam paveldėjimo dokumentus.
+4. Jeigu dalinio darbo išmoką gaunantis asmuo tampa laikinai nedarbingas dėl ligos ar traumos ir nustatoma jo teisė į ligos išmoką pagal Ligos ir motinystės socialinio draudimo įstatymą arba Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą, dalinio darbo išmoka jam nemokama. Išnykus šioje dalyje nurodytoms aplinkybėms, dėl kurių dalinio darbo išmoka nebuvo mokama, dalinio darbo išmokos mokėjimas tęsiamas, jeigu dar nepasibaigęs laikotarpis, kuriam buvo paskirta ši išmoka. 
+TAR pastaba. 17 straipsnio nuostatos taikomos skiriant nedarbo socialinio draudimo išmokas asmenims, kurie įsiregistravo Užimtumo tarnyboje prie Socialinės apsaugos ir darbo ministerijos ir kuriems suteiktas bedarbio statusas po 2020 m. sausio 1 d., bei skiriant dalinio darbo išmokas asmenims, kuriems Lietuvos Respublikos darbo kodekso nustatyta tvarka darbdavio sprendimas nustatyti dalinį darbą įsigalioja po 2020 m. sausio 1 d.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
  
-
-
 
 
 
@@ -485,30 +502,28 @@ Teisę į dalinio darbo išmoką turi apdraustieji, kuriems Lietuvos Respublikos
 18 straipsnis. Dalinio darbo išmokos dydis, mokėjimo trukmė ir grąžinimas
 
 
-1. Dalinio darbo išmokos dydis yra lygus sutrumpintam darbo laikui (iki 50 procentų darbo laiko normos) proporcingai mažesnei nedarbo draudimo išmokai, kuri būtų mokama asmeniui šio įstatymo 8 straipsnyje nustatyta tvarka.
+1. Dalinio darbo išmokos dydis yra lygus sutrumpintam darbo laikui (iki 50 procentų darbo laiko normos) proporcingai mažesnei nedarbo draudimo išmokai, kuri būtų mokama asmeniui šio įstatymo 8 straipsnyje nustatyta tvarka. Dalinio darbo išmokai apskaičiuoti naudojamas nedarbo draudimo išmokos dydis negali būti didesnis kaip 58,18 procento Lietuvos statistikos departamento skelbiamo vidutinio mėnesinio bruto darbo užmokesčio (įtraukiant ir individualių įmonių darbo užmokesčio duomenis) šalies ūkyje, galiojusio užpraeitą kalendorinį ketvirtį nuo dalinio darbo išmokos pirmosios mokėjimo dienos.
 
 
 
 
-2. Visa dalinio darbo išmokos mokėjimo trukmė negali būti ilgesnė kaip 3 mėnesiai.
+2. Dalinio darbo išmoka negali būti skiriama ilgesniam kaip 3 mėnesių laikotarpiui.
 
 
 
 
-3. Dalinio darbo išmokos mokėjimo laikotarpiai įskaitomi į nedarbo draudimo išmokos mokėjimo laikotarpius pagal šio įstatymo 8 straipsnio 3 dalyje nustatytus terminus. Pasibaigus dalinio darbo išmokos mokėjimo laikotarpiui, asmeniui šio įstatymo nustatyta tvarka mokama nedarbo draudimo išmoka, neviršijant maksimalaus šio įstatymo 7 straipsnio 2 dalyje nustatyto termino.
+3. Dalinio darbo išmokos mokėjimas nutraukiamas pasibaigus darbo santykiams, įsiteisėjus teismo nutarčiai iškelti darbdaviui nemokumo bylą ar darbdaviui panaikinus sprendimą dėl dalinio darbo nustatymo darbuotojui. Apie sprendimą dėl dalinio darbo nustatymo darbuotojui panaikinimo darbdavys privalo informuoti Valstybinio socialinio draudimo fondo valdybos teritorinį skyrių ne vėliau kaip likus 2 darbo dienoms iki šio sprendimo įsigaliojimo. Šioje dalyje nustatytu terminu neinformavus apie darbdavio sprendimo dėl dalinio darbo nustatymo darbuotojui panaikinimą, asmeniui permokėta suma išieškoma iš darbdavio Valstybinio socialinio draudimo įstatymo nustatyta tvarka. 
 
 
 
 
-4. Dalinio darbo išmokos mokėjimas nutraukiamas pasibaigus darbo santykiams ar darbdaviui panaikinus sprendimą dėl dalinio darbo nustatymo darbuotojui. Apie tokį sprendimą darbdavys privalo informuoti Valstybinio socialinio draudimo fondo valdybos teritorinį skyrių ne vėliau kaip prieš 2 darbo dienas iki sprendimo dėl dalinio darbo nustatymo darbuotojui panaikinimo įsigaliojimo.
+4. Dalinio darbo išmoka, išmokėta asmeniui, kuris dirbo nelegalų darbą, grąžinama šio įstatymo 15 straipsnyje nustatyta tvarka. 
+TAR pastaba. 18 straipsnio nuostatos taikomos skiriant nedarbo socialinio draudimo išmokas asmenims, kurie įsiregistravo Užimtumo tarnyboje prie Socialinės apsaugos ir darbo ministerijos ir kuriems suteiktas bedarbio statusas po 2020 m. sausio 1 d., bei skiriant dalinio darbo išmokas asmenims, kuriems Lietuvos Respublikos darbo kodekso nustatyta tvarka darbdavio sprendimas nustatyti dalinį darbą įsigalioja po 2020 m. sausio 1 d.
 
 
-
-
-5. Dalinio darbo išmoka, išmokėta asmeniui, kuris dirbo nelegalų darbą, grąžinama šio įstatymo 15 straipsnyje nustatyta tvarka.
+Straipsnio pakeitimai:
+Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
  
-
-
 
 
 
