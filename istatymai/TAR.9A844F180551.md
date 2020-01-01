@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9A844F180551"
 
 # Lietuvos Respublikos aplinkos oro apsaugos įstatymas
 
-Suvestinė redakcija nuo 2018-12-31 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 98-2813, i. k. 0991010ISTAIII-1392
  
@@ -168,7 +168,10 @@ Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA
 
 
 
-18. Sanitarinė apsaugos zona – aplink stacionarų taršos šaltinį arba keletą šaltinių esantis žemės plotas, kuriame galioja Vyriausybės arba jos įgaliotos institucijos nustatytos specialiosios sąlygos.
+18. Neteko galios nuo 2020-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2168, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09940
+ 
 
 
 
@@ -493,13 +496,10 @@ Nr. XI-785, 2010-04-27, Žin., 2010, Nr. 54-2648 (2010-05-11), i. k. 1101010ISTA
 
 
 
-12 straipsnis. Sanitarinė apsaugos zona
-
-
-Sanitarinių apsaugos zonų nustatymo ir priežiūros tvarką tvirtina Vyriausybė arba jos įgaliota institucija.
+12 straipsnis. Neteko galios nuo 2020-01-01.
+Straipsnio pakeitimai:
+Nr. XIII-2168, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09940
  
-
-
 
 
 
@@ -835,7 +835,7 @@ Pripažįstami netekusiais galios:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
  
  
 
@@ -899,3 +899,8 @@ Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 1 ir 2 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-428, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10029
 Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 2, 3, 4, 10 straipsnių ir priedo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2168, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09940
+Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 2 straipsnio pakeitimo ir 12 straipsnio pripažinimo netekusiu galios įstatymas
