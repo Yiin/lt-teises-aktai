@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB0E44DE47D8"
 
 # Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinasis įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1656, i. k. 0971010ISTAVIII-366
  
@@ -547,12 +547,14 @@ Nr. X-211, 2005-05-19, Žin., 2005, Nr. 71-2557 (2005-06-07)
 
 
 
-2. Jeigu įmonė, kuri turėjo mokėti nukentėjusiajam šiame įstatyme nustatytą žalos atlyginimą, likviduojama dėl bankroto, žalos atlyginimas mokamas Įmonių bankroto įstatyme nustatyta tvarka. Jeigu įmonė likviduojama ne Įmonių bankroto įstatymo nustatyta tvarka, ji nukentėjusiojo pageidavimu sumoka visą žalos atlyginimą iš karto arba jį kapitalizuoja Civilinio kodekso 508 straipsnyje nustatyta tvarka.
-
-
+2. Jeigu įmonė, kuri turėjo mokėti nukentėjusiajam šiame įstatyme nustatytą žalos atlyginimą, likviduojama ne Juridinių asmenų nemokumo įstatymo nustatyta tvarka, žalos atlyginimo klausimas sprendžiamas Civilinio kodekso nustatyta tvarka. 
 Straipsnio pakeitimai:
 Nr. VIII-1403, 1999 11 11, Žin., 1999, Nr. 102-2918 (1999 12 01)
 Nr. XI-752, 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2233, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10350
  
 
 
@@ -564,7 +566,10 @@ Nr. XI-752, 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
 1. Šiame įstatyme nurodyta žalos atlyginimo mokėjimo prievolė pereina valstybei šiais atvejais:
 
 
-1) kai įmonei iškelta bankroto byla, kai įmonė likviduojama dėl bankroto, taip pat kai įmonė neveikia ir jai netaikoma bankroto procedūra bei dėl lėšų ir turto stokos įmonėje pagal teismo antstolių kontoros dokumentus nėra galimybės išieškoti nukentėjusiems teismo priteistą žalos atlyginimą;
+1) kai įmonei ar fiziniam asmeniui iškelta bankroto byla ar įmonės bankroto procesas vykdomas ne teismo tvarka, taip pat kai įmonė neveikia ir jos bankroto procesas nevykdomas bei dėl lėšų ir turto stokos įmonėje antstolis grąžino nukentėjusiajam vykdomuosius dokumentus arba teismas priima nutartį atsisakyti iškelti nemokaus juridinio asmens bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2233, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10350
+ 
 
 
 
@@ -587,6 +592,14 @@ Nr. XI-752, 2010-04-13, Žin., 2010, Nr. 48-2302 (2010-04-27)
 
 
 2. Šiame straipsnyje nurodytą žalos atlyginimo mokėjimo prievolės perėjimo valstybei tvarką nustato Vyriausybė. Valstybė, atlyginusi žalą šio straipsnio 1 dalies 1 punkte nustatytais atvejais, turi atgręžtinio reikalavimo teisę į žalos atlyginimo mokėtoją.
+
+
+
+
+3. Nutraukus įmonės ar fizinio asmens bankroto procesą, valstybės perimta žalos atlyginimo mokėjimo prievolė grąžinama įmonei ar fiziniam asmeniui. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2233, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10350
+ 
 
 
 Įstatymas papildytas straipsniu:
@@ -761,7 +774,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                      ALGIRDAS BRAZAUSKAS
  
  
 
@@ -855,3 +868,8 @@ Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar sus
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1723, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20977
 Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 12 ir 13 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2233, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10350
+Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 18 ir 18-1 straipsnių pakeitimo įstatymas
