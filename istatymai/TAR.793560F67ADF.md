@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.793560F67ADF"
 
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.11-274, i. k. 0911010ISTA00I-1163
  
@@ -271,7 +271,10 @@ Nr. XII-835, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04869
 
 
 
-2. Mokestis už medžiojamųjų gyvūnų išteklius įskaitomas: 70 procentų mokesčio už medžiojamųjų gyvūnų išteklius – į savivaldybės, kurios teritorijoje išgaunami medžiojamųjų gyvūnų ištekliai, biudžetą ir teisės aktų nustatyta tvarka naudojamas Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti, o 30 procentų – į valstybės biudžetą ir teisės aktų nustatyta tvarka naudojamas Aplinkos apsaugos rėmimo programai finansuoti.
+2. Mokestis už medžiojamųjų gyvūnų išteklius įskaitomas: 50 procentų mokesčio už medžiojamųjų gyvūnų išteklius – į savivaldybės, kurios teritorijoje išgaunami medžiojamųjų gyvūnų ištekliai, biudžetą ir teisės aktų nustatyta tvarka naudojamas Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti, ir 50 procentų – į valstybės biudžetą ir teisės aktų nustatyta tvarka naudojamas Aplinkos apsaugos rėmimo programai finansuoti.
+Straipsnio dalies pakeitimai:
+Nr. XIII-1711, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20969
+ 
 
 
 
