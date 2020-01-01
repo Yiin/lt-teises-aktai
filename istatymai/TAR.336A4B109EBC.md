@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2019-12-31 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-01-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -162,9 +162,15 @@ RINKIMŲ APYGARDOS IR APYLINKĖS
 
 1) 51 savivaldybės tarybos narys – savivaldybėse, kuriose yra daugiau kaip 500 000 gyventojų;
 
-2) 41 savivaldybės tarybos narys – savivaldybėse, kuriose yra nuo 300 000 iki 500 000 gyventojų;
+2) 41 savivaldybės tarybos narys – savivaldybėse, kuriose yra nuo 250 000 iki 500 000 gyventojų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-1580, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18194
+ 
 
-3) 31 savivaldybės tarybos narys – savivaldybėse, kuriose yra nuo 100 000 iki 300 000 gyventojų;
+3) 31 savivaldybės tarybos narys – savivaldybėse, kuriose yra nuo 100 000 iki 250 000 gyventojų;
+Straipsnio punkto pakeitimai:
+Nr. XIII-1580, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18194
+ 
 
 4) 27 savivaldybės tarybos nariai – savivaldybėse, kuriose yra nuo 50 000 iki 100 000 gyventojų;
 
@@ -625,7 +631,10 @@ KANDIDATŲ KĖLIMAS
 
 3. Partija, rinkimų komitetas gali kelti kandidatus, o asmuo gali keltis pats (kandidatu į savivaldybės tarybos narius – merus), jeigu jie yra įregistruoti politinės kampanijos dalyviais pagal Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymą (toliau – Politinių kampanijų finansavimo ir finansavimo kontrolės įstatymas), bet ne vėliau kaip iki rinkimų likus 65 dienoms.
 
-4. Partija, rinkimų komitetas kandidatus kelia pateikdami bendrą kandidatų į savivaldybės tarybos narius sąrašą, kuriame kandidatai surašyti pagal partijos nustatytą eilę. Iš viso partijos teikiamame kandidatų sąraše kandidatų negali būti mažiau negu pusė ir du kartus daugiau negu iš viso renkama tos savivaldybės tarybos narių.
+4. Partija, rinkimų komitetas kandidatus kelia pateikdami bendrą kandidatų į savivaldybės tarybos narius sąrašą, kuriame kandidatai surašyti pagal partijos, rinkimų komiteto nustatytą eilę. Iš viso teikiamame kandidatų sąraše kandidatų negali būti mažiau negu pusė ir du kartus daugiau negu iš viso renkama tos savivaldybės tarybos narių.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2382, 2019-07-18, paskelbta TAR 2019-07-26, i. k. 2019-12390
+ 
 
 5. Partijos, rinkimų komiteto keliamą kandidatų į savivaldybės tarybos narius sąrašą ir kandidatą į savivaldybės tarybos narius – merus arba, jeigu keliamas tik sąrašas arba tik kandidatas, asmenį, išsikeliantį kandidatu į savivaldybės tarybos narius – merus, atitinkamoje savivaldybėje turi paremti ne mažiau kaip 20 procentų tos savivaldybės rinkėjų skaičiuojant vienam savivaldybės tarybos nario mandatui, bet ne mažiau kaip 100 tos savivaldybės rinkėjų. Reikalingų surinkti parašų skaičių, nustatytą pagal paskutinių rinkimų rezultatus ir suapvalintą iki pirmųjų dviejų reikšminių skaitmenų, paskelbia Vyriausioji rinkimų komisija ne vėliau kaip iki rinkimų likus 110 dienų. 
 
@@ -1858,9 +1867,10 @@ Jeigu asmuo, keliamas ar išsikėlęs kandidatu, neįvykdė šio įstatymo 36 st
 
 91 straipsnis. Pareigos, nesuderinamos su savivaldybės tarybos nario pareigomis, ir išrinkto savivaldybės tarybos nario mandato netekimas
 
-1. Savivaldybės tarybos nario pareigos yra nesuderinamos su Respublikos Prezidento, Seimo nario, Europos Parlamento nario, Vyriausybės nario pareigomis, su Vyriausybės įstaigos ar įstaigos prie ministerijos vadovo, kurio veikla susijusi su savivaldybių veiklos priežiūra ir kontrole, pareigomis, su Vyriausybės atstovo apskrityje pareigomis, su valstybės kontrolieriaus ir jo pavaduotojo pareigomis. Be to, savivaldybės tarybos nario pareigos yra nesuderinamos su tos kadencijos savivaldybės mero politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigomis, su tos savivaldybės kontrolieriaus ar tos savivaldybės kontrolieriaus tarnybos valstybės tarnautojo pareigomis, su tos kadencijos savivaldybės administracijos direktoriaus ir jo pavaduotojo ar su tos savivaldybės administracijos valstybės tarnautojo ir darbuotojo, dirbančio pagal darbo sutartį, pareigomis, su tos savivaldybės tarybos sekretoriato karjeros valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, pareigomis, su tos biudžetinės įstaigos, kurios savininkas ar vienas iš savininkų yra savivaldybė, vadovo pareigomis, su tos viešosios įstaigos, kurios savininkas ar vienas iš dalininkų yra savivaldybė, vienasmenio vadovo ir kolegialaus valdymo organo nario pareigomis, su tos savivaldybės įmonės vienasmenio vadovo ir kolegialaus valdymo organo nario pareigomis, su tos savivaldybės valdomos akcinės bendrovės kolegialaus valdymo organo (valdybos) nario pareigomis arba su tos savivaldybės valdomos akcinės bendrovės vadovo pareigomis.
+1. Savivaldybės tarybos nario pareigos yra nesuderinamos su Respublikos Prezidento, Seimo nario, Europos Parlamento nario, Vyriausybės nario pareigomis, su Vyriausybės įstaigos ar įstaigos prie ministerijos vadovo, kurio veikla susijusi su savivaldybių veiklos priežiūra ir kontrole, pareigomis, su Vyriausybės atstovo apskrityje pareigomis, su valstybės kontrolieriaus ir jo pavaduotojo pareigomis. Be to, savivaldybės tarybos nario pareigos yra nesuderinamos su tos kadencijos savivaldybės mero politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigomis, su tos savivaldybės kontrolieriaus ar tos savivaldybės kontrolieriaus tarnybos valstybės tarnautojo pareigomis, su tos kadencijos savivaldybės administracijos direktoriaus ir jo pavaduotojo ar su tos savivaldybės administracijos valstybės tarnautojo ir darbuotojo, dirbančio pagal darbo sutartį, pareigomis, su tos savivaldybės tarybos sekretoriato karjeros valstybės tarnautojo ar darbuotojo, dirbančio pagal darbo sutartį, pareigomis, su tos biudžetinės įstaigos, kurios savininkas ar vienas iš savininkų yra savivaldybė, vadovo pareigomis, su tos viešosios įstaigos, kurios savininkas ar vienas iš dalininkų yra savivaldybė, vienasmenio vadovo ir kolegialaus valdymo organo nario pareigomis, su tos savivaldybės įmonės vienasmenio vadovo ir kolegialaus valdymo organo nario pareigomis, su tos savivaldybės valdomos akcinės bendrovės arba uždarosios akcinės bendrovės kolegialaus valdymo organo (valdybos) nario pareigomis arba su tos savivaldybės valdomos akcinės bendrovės arba uždarosios akcinės bendrovės vadovo pareigomis. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1166, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08639
+Nr. XIII-2688, 2019-12-13, paskelbta TAR 2019-12-27, i. k. 2019-21323
  
 
 2. Jeigu asmuo, kuris eina pareigas, pagal Konstituciją, šį ar kitus įstatymus nesuderinamas su savivaldybės tarybos nario pareigomis, išrenkamas savivaldybės tarybos nariu, jis turi apsispręsti ir atsisakyti tų pareigų arba išrinkto savivaldybės tarybos nario mandato. Išrinktas savivaldybės tarybos narys, apsisprendęs atsisakyti savivaldybės tarybos nario mandato, ne vėliau kaip likus 10 dienų iki savivaldybės tarybos pirmojo posėdžio dienos paduoda Vyriausiajai rinkimų komisijai asmeniškai arba išsiunčia jai notarine tvarka patvirtintą pareiškimą dėl išrinkto savivaldybės tarybos nario mandato atsisakymo. Gavusi šį pareiškimą, Vyriausioji rinkimų komisija mandatų komisijos teisėmis ne vėliau kaip likus 7 dienoms iki savivaldybės tarybos pirmojo posėdžio dienos priima sprendimą dėl išrinkto savivaldybės tarybos nario mandato netekimo ir mandato naujam savivaldybės tarybos nariui pripažinimo. Porinkiminio kandidatų sąrašo kandidatai į atsiradusią laisvą savivaldybės tarybos nario vietą, apsisprendę atsisakyti išrinkto savivaldybės tarybos nario mandato, taip pat turi paduoti Vyriausiajai rinkimų komisijai pareiškimus dėl savivaldybės tarybos nario mandato atsisakymo ne vėliau kaip likus 7 dienoms iki savivaldybės tarybos pirmojo posėdžio dienos. Jeigu išrinktas savivaldybės tarybos narys ne vėliau kaip likus 10 dienų iki savivaldybės tarybos pirmojo posėdžio dienos nustatyta tvarka nepraneša Vyriausiajai rinkimų komisijai, kad jis atsisako pareigų, nesuderinamų su savivaldybės tarybos nario pareigomis, Vyriausioji rinkimų komisija mandatų komisijos teisėmis ne vėliau kaip likus 7 dienoms iki savivaldybės tarybos pirmojo posėdžio dienos priima sprendimą dėl šio savivaldybės tarybos nario mandato netekimo.
@@ -2217,4 +2227,19 @@ Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 39 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2687, 2019-12-13, paskelbta TAR 2019-12-30, i. k. 2019-21532
 Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 77 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1580, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18194
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 10 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2382, 2019-07-18, paskelbta TAR 2019-07-26, i. k. 2019-12390
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 34 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2688, 2019-12-13, paskelbta TAR 2019-12-27, i. k. 2019-21323
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 91 straipsnio pakeitimo įstatymas
 
