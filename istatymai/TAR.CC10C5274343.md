@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.11)
 
 
 
-Suvestinė redakcija nuo 2019-12-20 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 34-620, i. k. 0941010ISTA000I-446
  
@@ -78,7 +78,10 @@ Nr. XII-2173, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20862
 
 
 
-4. Specialiosios žemės naudojimo sąlygos – įstatymais ar Vyriausybės nutarimais nustatyti ūkinės ir (ar) kitokios veiklos apribojimai, priklausantys nuo geografinės padėties, gretimybių, pagrindinės žemės naudojimo paskirties, žemės sklypo naudojimo būdo ir jame vykdomos konkrečios veiklos, žemės sklype esančių statinių, aplinkos apsaugos ir visuomenės sveikatos saugos poreikių.
+4. Neteko galios nuo 2020-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2193, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09851
+ 
 
 
 
@@ -956,7 +959,10 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 
 
-2. Laisvos valstybinės žemės fondo žemė perleidžiama nuosavybėn, perduodama naudotis ar išnuomojama, atlikus būtinus teritorijų planavimo, žemės tvarkymo darbus, nustačius žemės sklypų pagrindinę naudojimo paskirtį, naudojimo būdą, specialiąsias žemės naudojimo sąlygas ir suformuotus žemės sklypus įregistravus Nekilnojamojo turto registre Civilinio kodekso, šio Įstatymo ir kitų įstatymų nustatyta tvarka.
+2. Laisvos valstybinės žemės fondo žemė perleidžiama nuosavybėn, perduodama naudotis ar išnuomojama, atlikus būtinus teritorijų planavimo, žemės tvarkymo darbus, nustačius žemės sklypų pagrindinę naudojimo paskirtį, naudojimo būdą, nurodžius Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nurodytas teritorijas, į kurias patenka šie žemės sklypai, ir suformuotus žemės sklypus įregistravus Nekilnojamojo turto registre Civilinio kodekso, šio Įstatymo ir kitų įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2193, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09851
+ 
 
 
 
@@ -1219,7 +1225,10 @@ IV skyrius
 
 
 
-2) laikytis žemės sklypui nustatytų specialiųjų žemės naudojimo sąlygų, teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatytų reikalavimų;
+2) laikytis žemės sklypui Specialiųjų žemės naudojimo sąlygų įstatyme nustatytų specialiųjų žemės naudojimo sąlygų, teritorijų planavimo dokumentuose ar žemės valdos projektuose nustatytų reikalavimų;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2193, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09851
+ 
 
 
 
@@ -1286,102 +1295,9 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 
 
-22 straipsnis. Specialiosios žemės naudojimo sąlygos 
-
-
-1. Specialiąsias žemės naudojimo sąlygas nustato šis Įstatymas, kiti įstatymai ir Vyriausybės nutarimai.
-
-
-
-
-2. Šiuo Įstatymu žemės ūkio paskirties žemės sklypams nustatomos šios specialiosios žemės naudojimo sąlygos:
-
-
-1) ariamoji žemė, kurios dirvožemio našumas didesnis už vidutinį šalyje, taip pat žemė, kurioje yra eksploatuojamos melioracijos sistemos, turi būti naudojama taip, kad nesumažėtų jos plotas, išskyrus ekologiškai nuskurdintas gamtinio karkaso teritorijas, ir nepablogėtų dirvožemio savybės;
-
-
-
-
-2) žemės ūkio naudmenos, kurių dirvožemis yra veikiamas vėjo ir vandens erozijos, turi būti naudojamos taikant antierozinių priemonių kompleksą;
-
-
-
-
-3) žemės naudmenų plotai, kuriuos sudaro dirvožemio ir vandens apsauginę reikšmę turintys ir ekologiškai vertingi miškai bei medžių ir krūmų želdiniai, taip pat pelkės, akmenynai, natūralios pievos ir ganyklos, pažymėti teritorijų planavimo dokumentuose ar žemės valdos projektuose, turi būti naudojami atsižvelgiant į kraštovaizdžio formavimo ir aplinkos apsaugos reikalavimus.
-
-
-
-
-
-
-3. Specialiųjų žemės naudojimo sąlygų taikymo tvarką nustato Vyriausybė.
-
-
-
-
-4. Rengiant teritorijų planavimo dokumentus, žemės valdos projektus, statybų ar kitokios veiklos projektus, turi būti laikomasi nustatytų specialiųjų žemės naudojimo sąlygų.
-
-
-
-
-5. Konkrečiam žemės sklypui taikomos specialiosios žemės naudojimo sąlygos įrašomos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą registruojant suformuotus naujus (teritorijose, kuriose iki teritorijų planavimo dokumentų ar žemės valdos projektų patvirtinimo nebuvo suformuoti žemės sklypai) žemės sklypus pagal teritorijų planavimo dokumentus ar žemės valdos projektus. 
-
-
-
-
-6. Nekilnojamojo turto registre įregistruotam žemės sklypui (ar jo daliai) taikomos papildomos specialiosios žemės naudojimo sąlygos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą įrašomos (esamos panaikinamos), jeigu jos nustatomos patvirtinus naują teritorijų planavimo dokumentą, žemės valdos projektą, žemės savininko, valstybinės ar savivaldybės žemės patikėtinio rašytiniu sutikimu. Žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas dėl specialiųjų žemės naudojimo sąlygų įrašymo į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą neprivalomas tik tais atvejais, kai teritorijų planavimo dokumentas ar žemės valdos projektas rengiamas tenkinant viešąjį interesą šio Įstatymo 45 straipsnio 1 dalyje nurodytoms reikmėms. Kai įstatymų nustatytais atvejais planuojamai ūkinei veiklai vykdyti teritorijų planavimo dokumentai ar žemės valdos projektai nerengiami, tačiau specialiosios žemės naudojimo sąlygos turi būti nustatytos, Nekilnojamojo turto registre įregistruotam žemės sklypui (ar jo daliai) taikomos papildomos specialiosios žemės naudojimo sąlygos įrašomos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą nerengiant teritorijų planavimo dokumento ar žemės valdos projekto žemės savininko, valstybinės ar savivaldybės žemės patikėtinio rašytiniu sutikimu, jeigu jie susitarė su asmeniu, suinteresuotu planuojamos ūkinės veiklos vykdymu, dėl nuostolių, patiriamų dėl papildomų žemės sklypo specialiųjų žemės naudojimo sąlygų nustatymo, atlyginimo. 
-
-
-
-
-7. Kai, patvirtinus naują teritorijų planavimo dokumentą ar žemės valdos projektą, Nekilnojamojo turto registre įregistruotam žemės sklypui (ar jo daliai) turi būti taikomos papildomos specialiosios žemės naudojimo sąlygos arba panaikinamos anksčiau šiam sklypui (ar jo daliai) taikytos specialiosios žemės naudojimo sąlygos, teritorijų planavimo dokumento ar žemės valdos projekto organizatorius per vieną mėnesį nuo teritorijų planavimo dokumento ar žemės valdos projekto patvirtinimo apie tai raštu praneša žemės sklypo savininkui arba valstybinės ar savivaldybės žemės naudotojui, nurodydamas konkrečias taikytinas ar panaikinamas specialiąsias žemės naudojimo sąlygas, ir Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro įstatymų nustatyta tvarka pateikia Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro tvarkytojui pranešimą, kurio pagrindu jis žemės sklypo registro įraše padaro atitinkamą žymą apie taikomas ar panaikintas specialiąsias žemės naudojimo sąlygas. 
-
-
-
-
-8. Šio straipsnio 6 dalyje nustatytais atvejais, taip pat kai, formuojant naują žemės sklypą (teritorijose, kuriose iki teritorijų planavimo dokumentų ar žemės valdos projektų patvirtinimo nebuvo suformuoti žemės sklypai), šiam žemės sklypui taikytinos specialiosios žemės naudojimo sąlygos nekilnojamojo daikto kadastro duomenų byloje nebuvo nurodytos ir (ar) įrašytos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą, keičiami žemės sklypo kadastro duomenys. Žemės sklypo kadastro duomenys keičiami ir šių duomenų pakeitimai į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą įrašomi Vyriausybės patvirtintų Nekilnojamojo turto kadastro nuostatų nustatyta tvarka ir sąlygomis. 
-
-
-
-
-9. Prašymą pakeisti žemės sklypo kadastro duomenis ir į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą įrašyti naujas (papildomas) specialiąsias žemės naudojimo sąlygas paduoda žemės sklypo savininkas, valstybinės ar savivaldybės žemės patikėtinis arba asmuo, suinteresuotas planuojamos ūkinės veiklos, dėl kurios nustatomos specialiosios žemės naudojimo sąlygos, vykdymu.
-
-
-
-
-10. Jeigu formuojant žemės sklypą (teritorijose, kuriose iki teritorijų planavimo dokumentų ar žemės valdos projektų patvirtinimo nebuvo suformuoti žemės sklypai) jam taikytinos specialiosios žemės naudojimo sąlygos nekilnojamojo daikto kadastro duomenų byloje nebuvo nurodytos ir (ar) įrašytos į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą, šių žemės sklypo kadastro duomenų – žemės sklypo formavimo metu taikytinų specialiųjų žemės naudojimo sąlygų – įrašymą į Nekilnojamojo turto kadastrą ir Nekilnojamojo turto registrą organizuoja Nacionalinės žemės tarnybos teritorinio padalinio vadovas. 
-
-
-
-
-11. Ginčai dėl teritorijų planavimo dokumento ar žemės valdos projekto, pagal kuriuos žemės sklypui turi būti taikomos specialiosios žemės naudojimo sąlygos ar panaikinamos anksčiau taikytos sąlygos, nagrinėjami Teritorijų planavimo įstatymo ir šio Įstatymo nustatyta tvarka.
-
-
-
-
-12. Nustatytos specialiosios žemės naudojimo sąlygos konkrečiam žemės sklypui taikomos nuo jų įrašymo į Nekilnojamojo turto registrą. 
-
-
-
-
-13. Žemės savininkai, valstybinės arba savivaldybės žemės patikėtiniai ir naudotojai, nesilaikantys nustatytų specialiųjų žemės naudojimo sąlygų, įstatymų nustatyta tvarka traukiami atsakomybėn ir privalo atlyginti kitiems asmenims, savivaldybėms ar valstybei padarytą žalą. Šiose bylose valstybei atstovauja Nacionalinė žemės tarnyba, jeigu kituose įstatymuose nenustatyta kitaip.
-
-
-
-
-14. Žemės savininkas, valstybinės ar savivaldybės žemės patikėtinis arba kitas naudotojas dėl nuostolių, patiriamų dėl Nekilnojamojo turto registre įregistruoto žemės sklypo papildomų specialiųjų žemės naudojimo sąlygų nustatymo, atlyginimo (išskyrus atvejus, kai papildomos specialiosios žemės naudojimo sąlygos buvo nustatytos žemės savininko, valstybinės ar savivaldybės žemės patikėtinio rašytiniu sutikimu) turi teisę kreiptis į teritorijų planavimo dokumento ar žemės valdos projekto rengimo organizatorių arba tiesiogiai į teismą dėl nuostolių atlyginimo teismo tvarka. Žemės savininkas, valstybinės ar savivaldybės žemės patikėtinis arba kitas naudotojas į teritorijų planavimo dokumento ar žemės valdos projekto rengimo organizatorių dėl šioje dalyje nurodytų nuostolių atlyginimo gali kreiptis ne vėliau kaip per vienus metus nuo pranešimo apie papildomų specialiųjų sąlygų žemės sklypui (ar jo daliai) nustatymą gavimo dienos. Šioje dalyje nurodytų žemės savininko, valstybinės ar savivaldybės žemės patikėtinio arba kito naudotojo patirtų nuostolių dydis ir atlyginimo terminai nustatomi teritorijų planavimo dokumento ar žemės valdos projekto rengimo organizatoriaus ir žemės sklypo savininko, valstybinės ar savivaldybės žemės patikėtinio arba kito naudotojo susitarimu. Šalims nesusitarus, ginčus dėl nuostolių atlyginimo Civilinio proceso kodekso nustatyta tvarka sprendžia teismas. 
-
-
-
-
-15. Kompensacijos už realiai sumažintą gaunamą naudą arba anksčiau vykdytos veiklos ribojimą dėl Saugomų teritorijų įstatymo nustatytų specialiųjų žemės naudojimo sąlygų taikymo išmokamos Vyriausybės nustatyta tvarka.
-
-
-Straipsnio pakeitimai:
-Nr. IX-2517, 2004-11-02, Žin., 2004, Nr. 167-6098 (2004-11-17)
-Nr. XI-660, 2010-01-19, Žin., 2010, Nr. 13-623 (2010-02-02)
-Nr. XI-912, 2010-06-18, Žin., 2010, Nr. 72-3616 (2010-06-22)
-Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
+22 straipsnis. Neteko galios nuo 2020-01-01
+Straipsnio naikinimas:
+Nr. XIII-2193, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09851
  
 
 
@@ -2081,12 +1997,18 @@ Nr. XIII-2283, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12240
 
 
 
-6) įstatymų ir kitų teisės aktų nustatyta tvarka ir atvejais organizuoja valstybės lygmens žemėtvarkos schemų, žemės reformos žemėtvarkos ir žemės sklypų formavimo ir pertvarkymo projektų rengimą, taip pat kontroliuoja planuojamų darbų, susijusių su žemės naudmenų būklės ir žemės naudojimo sąlygų pakeitimu, derinimą su žemėtvarkos planavimo dokumentų sprendiniais;
+6) įstatymų ir kitų teisės aktų nustatyta tvarka ir atvejais organizuoja valstybės lygmens žemėtvarkos schemų ir žemės reformos žemėtvarkos projektų rengimą, taip pat kontroliuoja planuojamų darbų, susijusių su žemės naudmenų būklės ir žemės naudojimo sąlygų pakeitimu, derinimą su žemėtvarkos planavimo dokumentų sprendiniais;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2149, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09402
+ 
 
 
 
 
-7) tvirtina rengiamus žemėtvarkos planavimo dokumentus, išskyrus žemėtvarkos schemas ir šio Įstatymo 40 straipsnyje nustatytais atvejais rengiamus žemės sklypų formavimo ir pertvarkymo projektus;
+7) tvirtina žemėtvarkos planavimo dokumentus, išskyrus žemėtvarkos schemas ir žemės sklypų formavimo ir pertvarkymo projektus;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2149, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09402
+ 
 
 
 
@@ -2147,12 +2069,18 @@ Nr. XIII-1967, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02747
 4. Savivaldybės institucijos savivaldybės teritorijoje: 
 
 
-1) savivaldybės taryba įstatymų ir kitų teisės aktų nustatyta tvarka tvirtina savivaldybės lygmeniu rengiamas žemėtvarkos schemas, o savivaldybės administracijos direktorius tvirtina vietovės lygmeniu rengiamas žemėtvarkos schemas ir šio Įstatymo 40 straipsnyje nustatytais atvejais žemės sklypų formavimo ir pertvarkymo projektus;
+1) savivaldybės taryba įstatymų ir kitų teisės aktų nustatyta tvarka tvirtina savivaldybės lygmens žemėtvarkos schemas, o savivaldybės administracijos direktorius tvirtina vietovės lygmens žemėtvarkos schemas ir žemės sklypų formavimo ir pertvarkymo projektus;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2149, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09402
+ 
 
 
 
 
-2) savivaldybės administracijos direktorius organizuoja savivaldybės teritorijos ar jos dalies žemėtvarkos schemų ir kaimo plėtros žemėtvarkos projektų rengimą, taip pat šio Įstatymo ir atitinkamų žemės valdos projektų rengimo taisyklių nustatytais atvejais – žemės sklypų formavimo ir pertvarkymo projektų ir žemės paėmimo visuomenės poreikiams projektų rengimą;
+2) savivaldybės administracijos direktorius organizuoja savivaldybės teritorijos ar jos dalies žemėtvarkos schemų ir kaimo plėtros žemėtvarkos projektų rengimą, taip pat žemės sklypų formavimo ir pertvarkymo projektų ir žemės paėmimo visuomenės poreikiams projektų rengimą;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2149, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09402
+ 
 
 
 
@@ -2706,7 +2634,10 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 
 
-2. Žemės sklypų formavimo ir pertvarkymo projektų rengimą organizuoja savivaldybių administracijos arba Nacionalinė žemės tarnyba.
+2. Žemės sklypų formavimo ir pertvarkymo projektų rengimą organizuoja savivaldybės administracijos direktorius.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2149, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09402
+ 
 
 
 
@@ -2716,19 +2647,10 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 
 
-4. Asmenys, turintys teisę inicijuoti žemės sklypų formavimo ir pertvarkymo projektų rengimą, prašymus leisti rengti žemės sklypų formavimo ir pertvarkymo projektus pateikia:
-
-
-1) Nacionalinės žemės tarnybos teritorinio padalinio pagal žemės sklypo buvimo vietą vadovui, kai žemės sklypų formavimo ir pertvarkymo projektus pageidaujama rengti kaimo gyvenamųjų vietovių, išskyrus miestelius, laisvąsias ekonomines zonas ir pramonės parkus, teritorijose;
-
-
-
-
-2) savivaldybės administracijai, kai žemės sklypų formavimo ir pertvarkymo projektus pageidaujama rengti miestų ir miestelių, laisvųjų ekonominių zonų ir pramonės parkų teritorijose.
-
-
+4. Asmenys, turintys teisę inicijuoti žemės sklypų formavimo ir pertvarkymo projektų rengimą, prašymus leisti rengti žemės sklypų formavimo ir pertvarkymo projektus pateikia savivaldybės administracijos direktoriui.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1987, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04583
+Nr. XIII-2149, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09402
  
 
 
@@ -2777,9 +2699,10 @@ Nr. XIII-1987, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04583
 
 
 
-4) žemės sklypų formavimo ir pertvarkymo projektus, parengtus kaimo gyvenamųjų vietovių, išskyrus miestelius, laisvąsias ekonomines zonas ir pramonės parkus, teritorijose, tvirtina Nacionalinės žemės tarnybos vadovas ar jo įgaliotas teritorinio padalinio vadovas, o žemės sklypų formavimo ir pertvarkymo projektus, parengtus miestų ir miestelių, laisvųjų ekonominių zonų ir pramonės parkų teritorijose, tvirtina savivaldybės administracijos direktorius Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse nustatyta tvarka.
+4) suderintus ir Nacionalinės žemės tarnybos patikrintus žemės sklypų formavimo ir pertvarkymo projektus tvirtina savivaldybės administracijos direktorius Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse nustatyta tvarka. Žemės sklypų formavimo ir pertvarkymo projektas gali būti tvirtinamas tik gavus Nacionalinės žemės tarnybos išvadą, kad šį projektą tvirtinti tikslinga.
 Straipsnio punkto pakeitimai:
 Nr. XIII-1987, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04583
+Nr. XIII-2149, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09402
  
 
 
@@ -2792,9 +2715,10 @@ Nr. XIII-1987, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04583
 
 
 
-9. Dviejų bendrą ribą turinčių žemės sklypų perdalijimas gali būti atliekamas nerengiant žemės sklypų formavimo ir pertvarkymo projekto. Tvarka ir atvejai, kai žemės sklypai pertvarkomi nerengiant pertvarkymo projekto, nustatomi Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse. Sprendimą dėl šių perdalijimo būdu patikslintų žemės sklypų plotų ir ribų patvirtinimo pagal žemės savininkų suderintus žemės sklypų planus kaimo gyvenamųjų vietovių, išskyrus miestelius, laisvąsias ekonomines zonas ir pramonės parkus, teritorijose priima Nacionalinės žemės tarnybos vadovas ar jo įgaliotas teritorinio padalinio vadovas, o miestų ir miestelių, laisvųjų ekonominių zonų ir pramonės parkų teritorijose – savivaldybės administracijos direktorius.
+9. Dviejų bendrą ribą turinčių žemės sklypų perdalijimas gali būti atliekamas nerengiant žemės sklypų formavimo ir pertvarkymo projekto. Tvarka ir atvejai, kuriais žemės sklypai pertvarkomi nerengiant žemės sklypų formavimo ir pertvarkymo projekto, nustatomi Žemės sklypų formavimo ir pertvarkymo projektų rengimo taisyklėse. Sprendimą dėl šių perdalijimo būdu patikslintų žemės sklypų plotų ir ribų patvirtinimo pagal žemės savininkų ir savivaldybės administracijos direktoriaus suderintus žemės sklypų planus priima Nacionalinės žemės tarnybos vadovas ar jo įgaliotas teritorinio padalinio vadovas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1987, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04583
+Nr. XIII-2149, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09402
  
 
 
@@ -3322,7 +3246,9 @@ Nr. XII-411, 2013-06-27, Žin., 2013, Nr. 76-3828 (2013-07-16)
 
 
 
-2) naujų kelių projektavimas, melioracijos sistemų pertvarkymas, specialiųjų žemės naudojimo sąlygų nustatymas arba pakeitimas, taip pat siūlomų žemės servitutų projektavimas.
+2) naujų kelių projektavimas, melioracijos sistemų pertvarkymas, Specialiųjų žemės naudojimo sąlygų įstatyme nurodytų teritorijų, į kurias patenka formuojami žemės sklypai, nurodymas, taip pat siūlomų žemės servitutų projektavimas.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2193, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09851
  
 
 
@@ -3526,7 +3452,10 @@ Nr. XI-912, 2010-06-18, Žin., 2010, Nr. 72-3616 (2010-06-22)
 
 
 
-2. Pagal patvirtintą savivaldybės ar jos dalies bendrąjį planą arba žemės ūkio ir kaimo plėtros projektą žemės konsolidacijos projektu teritorija kompleksiškai pertvarkoma numatant žemės sklypų vietos ir (ar) ribų pakeitimą, pagrindinės žemės naudojimo paskirties, žemės sklypų naudojimo būdo nustatymą ir pakeitimą, specialiųjų žemės naudojimo sąlygų nustatymą ir pakeitimą, kelių išdėstymą.
+2. Pagal patvirtintą savivaldybės ar jos dalies bendrąjį planą arba žemės ūkio ir kaimo plėtros projektą žemės konsolidacijos projektu teritorija kompleksiškai pertvarkoma numatant žemės sklypų vietos ir (ar) ribų pakeitimą, pagrindinės žemės naudojimo paskirties, žemės sklypų naudojimo būdo nustatymą ir pakeitimą, Specialiųjų žemės naudojimo sąlygų įstatyme nurodytų teritorijų nustatymą ar jų pakeitimą, kelių išdėstymą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2193, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09851
+ 
 
 
 
@@ -3946,3 +3875,13 @@ Lietuvos Respublikos žemės įstatymo Nr. I-446 40 straipsnio pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2640, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20662
 Lietuvos Respublikos žemės įstatymo Nr. I-446 8 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2149, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09402
+Lietuvos Respublikos žemės įstatymo Nr. I-446 32 ir 40 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2193, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09851
+Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 13, 21, 34, 48 ir 51 straipsnių pakeitimo ir 22 straipsnio pripažinimo netekusiu galios įstatymas
