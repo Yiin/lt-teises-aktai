@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D22016A0EC70"
 
 # Lietuvos Respublikos žuvininkystės įstatymas
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2021-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 56-1648, i. k. 1001010ISTAIII-1756
  
@@ -3034,42 +3034,18 @@ AKVAKULTŪRA
 
 
 
-3. Aplink akvakultūros tvenkinius nustatomos 20 metrų pločio apsaugos juostos (toliau – akvakultūros tvenkinių apsaugos juostos).
+3. Aplink akvakultūros tvenkinius nustatomos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nurodyto dydžio akvakultūros tvenkinių apsaugos zonos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2196, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09855
+ 
 
 
 
 
-4. Akvakultūros tvenkinių apsaugos juostose draudžiama:
-
-
-1) statyti statinius (išskyrus hidrotechnikos statinius ir statinius, skirtus akvakultūros tvenkiniams eksploatuoti ir prižiūrėti);
-
-
-
-
-2) naudoti pesticidus ir kitus chemikalus, neskirtus akvakultūros tvenkiniams eksploatuoti ir prižiūrėti;
-
-
-
-
-3) dirbti žemę, ardyti velėną, ganyti gyvulius;
-
-
-
-
-4) įrengti poilsiavietes, kūrenti laužus;
-
-
-
-
-5) statyti motorines transporto priemones, išskyrus specialiąsias, kurių reikia akvakultūros tvenkiniams eksploatuoti ir prižiūrėti;
-
-
-
-
-6) užkasti kritusius gyvulius ir šiukšles, įrengti sąvartynus.
-
-
+4. Specialiosios žemės naudojimo akvakultūros tvenkinių apsaugos zonose sąlygos nustatytos Specialiųjų žemės naudojimo sąlygų įstatyme.  
+Straipsnio dalies pakeitimai:
+Nr. XIII-2196, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09855
+ 
 
 
 
@@ -5060,3 +5036,8 @@ Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 31 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2291, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12179
 Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 34 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2196, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09855
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 24 straipsnio pakeitimo įstatymas
