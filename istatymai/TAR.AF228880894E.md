@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF228880894E"
 
 # Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymas
 
-Suvestinė redakcija nuo 2019-12-21 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-04-24
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 68-2774, i. k. 1021010ISTA00IX-985
  
@@ -32,9 +32,10 @@ VYRIAUSIOSIOS RINKIMŲ KOMISIJOS
 
 2 straipsnis. Vyriausioji rinkimų komisija 
 
-1. Vyriausioji rinkimų komisija yra Lietuvos Respublikos Konstitucijoje numatyta nuolatinė aukščiausioji rinkimų ir referendumų organizavimo ir vykdymo valstybės institucija. Be to, Vyriausioji rinkimų komisija yra koordinuojanti institucija įgyvendinant šio įstatymo priede nurodyto Reglamento (ES) Nr. 211/2011 15 straipsnio 1 ir 2 dalis, taip pat nacionalinis informacijos centras, kaip tai nustatyta šio įstatymo priede nurodyto Reglamento (ES, Euratomas) Nr. 1141/2014 2 straipsnio 10 punkte. 
+1. Vyriausioji rinkimų komisija yra Lietuvos Respublikos Konstitucijoje numatyta nuolatinė aukščiausioji rinkimų ir referendumų organizavimo ir vykdymo valstybės institucija. Be to, Vyriausioji rinkimų komisija yra koordinuojanti institucija įgyvendinant Reglamento (ES) 2019/788 20 straipsnio 1 ir 2 dalis ir informacijos centras, kaip tai nustatyta Reglamento (ES) 2019/788 4 straipsnio 6 dalyje, taip pat nacionalinis informacijos centras, kaip tai nustatyta Reglamento (ES, Euratomas) Nr. 1141/2014 2 straipsnio 10 punkte. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2299, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12107
+Nr. XIII-2615, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20645
  
 
 2. Vyriausioji rinkimų komisija yra juridinis asmuo, turi savo antspaudą su Lietuvos valstybės herbu ir pavadinimu „Lietuvos Respublikos vyriausioji rinkimų komisija“, taip pat sąskaitų Lietuvos Respublikos bankuose.
@@ -59,7 +60,10 @@ Nr. XI-1958, 2012-03-29, Žin., 2012, Nr. 39-1922 (2012-03-31)
 
 5) įstatymų nustatyta tvarka ir formomis kontroliuoti politinių partijų ir politinių organizacijų (toliau – partijų), politinių kampanijų finansavimą;
 
-6) koordinuoti Europos Sąjungos piliečių iniciatyvų įgyvendinimą;
+6) koordinuoti Europos Sąjungos piliečių iniciatyvų įgyvendinimą ir teikti su Europos Sąjungos piliečių iniciatyvos teikimu susijusią informaciją ir pagalbą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2615, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20645
+ 
 
 7) dalytis informacija apie Europos politinių partijų ir Europos politinių fondų veiklą Lietuvos Respublikoje. 
 Papildyta straipsnio punktu:
@@ -92,36 +96,51 @@ Nr. XIII-2299, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12107
 
 12) bendradarbiauja su tarptautinėmis organizacijomis, palaiko ryšius su kitų valstybių institucijomis, organizuojančiomis rinkimus ir referendumus, taip pat su institucijomis, koordinuojančiomis Europos Sąjungos piliečių iniciatyvas;
 
-13) apibendrina ir neribotą laiką skelbia informaciją apie Lietuvos Respublikoje rengtus rinkimus, referendumus, Lietuvos Respublikos piliečių įstatymų leidybos ir Europos Sąjungos piliečių iniciatyvas bei jų rezultatus, įstatymų numatytus politinių partijų ir politinių kampanijų finansavimo bei politinės reklamos skleidimo duomenis, politinės kampanijos aukotojų paaukotas sumas, duomenis apie politinių partijų ir politinių kampanijų išlaidas ir skolos įsipareigojimus;
+13) apibendrina ir neribotą laiką skelbia informaciją, išskyrus asmens duomenis, apie Lietuvos Respublikoje rengtus rinkimus, referendumus, Lietuvos Respublikos piliečių įstatymų leidybos ir Europos Sąjungos piliečių iniciatyvas bei jų rezultatus, įstatymų numatytus politinių partijų ir politinių kampanijų finansavimo bei politinės reklamos skleidimo duomenis, politinės kampanijos aukotojų paaukotas sumas, duomenis apie politinių partijų ir politinių kampanijų išlaidas bei skolos įsipareigojimus; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1433, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11743
+Nr. XIII-2615, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20645
  
 
 14) apibendrina rinkimų ir referendumų patirtį, rūpinasi Lietuvos Respublikos piliečių ir asmenų, nuolat gyvenančių Lietuvoje, švietimu ir informavimu apie rinkimus, teikia informaciją apie jų dalyvavimą rinkimuose;
 
 15) rūpinasi rinkimų technologijų tobulinimu;
 
-16) teisės aktų nustatyta tvarka perduoda valstybės archyvui saugoti rinkimų, referendumo dokumentus ir neribotą laiką savo interneto svetainėje skelbia rinkimų informaciją tokią, kokia ji buvo rinkimų metu;
+16) perduoda valstybės archyvui saugoti rinkimų, referendumų, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos, Europos Sąjungos piliečių iniciatyvos dokumentus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2615, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20645
+ 
 
-17) atlieka institucijos, tikrinančios ir tvirtinančios asmenų, Lietuvos Respublikoje turinčių teisę balsuoti rinkimuose į Europos Parlamentą ir įgyvendinančių Europos Sąjungos piliečių iniciatyvą, pritarimo pareiškimus, funkcijas;
+17) atlieka institucijos, tikrinančios ir tvirtinančios asmenų, Lietuvos Respublikoje turinčių teisę balsuoti rinkimuose į Europos Parlamentą ir įgyvendinančių Europos Sąjungos piliečių iniciatyvą, pritarimo pareiškimus ir išduodančios Lietuvos Respublikoje gautų galiojančių pritarimo pareiškimų skaičių patvirtinantį sertifikatą, taip pat informacijos centro, teikiančio su Europos Sąjungos piliečių iniciatyvos teikimu susijusią informaciją ir pagalbą, funkcijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2615, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20645
+ 
 
 18) atlieka nacionalinio informacijos centro, kuris su Reglamento (ES, Euratomas) Nr. 1141/2014 28 straipsnio 1 dalyje nurodytais subjektais dalijasi informacija apie Europos politinių partijų ir Europos politinių fondų finansavimą, kontrolę ir sankcijas, funkcijas; 
 Papildyta straipsnio punktu:
 Nr. XIII-2299, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12107
  
 
-19) turi teisę iš sutaupytų rinkimams ir referendumams organizuoti skirtų valstybės biudžeto lėšų įsigyti balsavimo patalpų įrengimo inventorių ir teisės aktuose nustatyta tvarka jį perduoti savivaldybėms valdyti, naudoti ir juo disponuoti patikėjimo teise; 
+19) rinkimų, referendumų, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos, Europos Sąjungos piliečių iniciatyvos, politinių kampanijų, politinių partijų finansavimo, rinkėjų informavimo, rinkimų ir referendumų procesų skaidrumo bei demokratinės sistemos veikimo valstybėje užtikrinimo, kandidatų sąžiningos konkurencijos tikslais Vyriausiosios rinkimų komisijos interneto svetainėje jos nustatyta tvarka skelbia rinkimų įstatymuose ir Referendumo įstatyme, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatyme, Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatyme nurodytą ir pagal kandidatų ar jų atstovų pateiktus pareiškinius ir kitus dokumentus parengtą informaciją Vyriausiosios rinkimų komisijos interneto svetainėje paskelbta informacija gali būti tikslinama, kai taisomos rašybos ir gramatinės klaidos arba kai informacija interneto svetainėje skiriasi nuo informacijos, pateiktos pareiškiniuose ir kituose dokumentuose. Vyriausiosios rinkimų komisijos interneto svetainėje negali būti skelbiami kandidatų ir kitų asmenų asmens kodas, pilietybę ar asmens tapatybę patvirtinančių dokumentų numeriai, gyvenamosios vietos adresas; 
 Papildyta straipsnio punktu:
 Nr. XII-1339, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17992
+Straipsnio punkto pakeitimai:
+Nr. XIII-2615, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20645
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2299, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12107
  
 
-20) rinkimų, referendumo, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos, Europos Sąjungos piliečių iniciatyvos, politinių kampanijų, politinių partijų finansavimo, rinkėjų informavimo, rinkimų ir referendumų procesų skaidrumo bei demokratinės sistemos veikimo valstybėje užtikrinimo, kandidatų sąžiningos konkurencijos tikslais Vyriausiosios rinkimų komisijos interneto svetainėje skelbia pagal kandidatų ar jų atstovų pateiktus pareiškinius ir kitus dokumentus parengtą informaciją apie kandidatus, kandidatų gautus balsus, rinkimų, referendumo komisijų narių, stebėtojų, atstovų, iniciatyvinių grupių narių, politinės kampanijos aukotojų sąrašus Vyriausiosios rinkimų komisijos nustatyta tvarka. Informacija apie kandidatus, kandidatų gautus balsus ir rinkimų, referendumo komisijų narių, stebėtojų, atstovų, iniciatyvinių grupių narių, politinės kampanijos aukotojų sąrašai po šios informacijos ir sąrašų paskelbimo Vyriausiosios rinkimų komisijos interneto svetainėje gali būti keičiami, kai taisomos kalbos klaidos ar informacija interneto svetainėje skiriasi nuo informacijos, pateiktos pareiškiniuose ir kituose dokumentuose. Interneto svetainėje negali būti skelbiami kandidatų ir kitų asmenų asmens kodai, pilietybę ar asmens tapatybę patvirtinančių dokumentų numeriai, gyvenamosios vietos adresas; 
+20) nagrinėja asmenų pranešimus, skundus ir prašymus dėl politinių partijų ir politinių kampanijų finansavimo pažeidimų; 
+Papildyta straipsnio punktu:
+Nr. XIII-2568, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19880
+ 
+
+21) rinkimų, referendumo, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos, Europos Sąjungos piliečių iniciatyvos, politinių kampanijų, politinių partijų finansavimo, rinkėjų informavimo, rinkimų ir referendumų procesų skaidrumo bei demokratinės sistemos veikimo valstybėje užtikrinimo, kandidatų sąžiningos konkurencijos tikslais Vyriausiosios rinkimų komisijos interneto svetainėje skelbia pagal kandidatų ar jų atstovų pateiktus pareiškinius ir kitus dokumentus parengtą informaciją apie kandidatus, kandidatų gautus balsus, rinkimų, referendumo komisijų narių, stebėtojų, atstovų, iniciatyvinių grupių narių, politinės kampanijos aukotojų sąrašus Vyriausiosios rinkimų komisijos nustatyta tvarka. Informacija apie kandidatus, kandidatų gautus balsus ir rinkimų, referendumo komisijų narių, stebėtojų, atstovų, iniciatyvinių grupių narių, politinės kampanijos aukotojų sąrašai po šios informacijos ir sąrašų paskelbimo Vyriausiosios rinkimų komisijos interneto svetainėje gali būti keičiami, kai taisomos kalbos klaidos ar informacija interneto svetainėje skiriasi nuo informacijos, pateiktos pareiškiniuose ir kituose dokumentuose. Interneto svetainėje negali būti skelbiami kandidatų ir kitų asmenų asmens kodai, pilietybę ar asmens tapatybę patvirtinančių dokumentų numeriai, gyvenamosios vietos adresas; 
 Papildyta straipsnio punktu:
 Nr. XIII-1433, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11743
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2299, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12107
+Nr. XIII-2568, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19880
  
 
 21) atlieka kitas šiame bei kituose įstatymuose nustatytas funkcijas.
@@ -171,15 +190,26 @@ Nr. XIII-2299, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12107
 
 5) (neteko galios nuo 2009 m. gegužės 26 d).
 
-7. Vykdydama šio įstatymo priede nurodytą Europos Parlamento ir Tarybos reglamentą (ES) Nr. 211/2011, Vyriausioji rinkimų komisija, be šio straipsnio 2 dalyje nustatytų funkcijų:
+7. Vykdydama Reglamentą (ES) 2019/788, Vyriausioji rinkimų komisija, be šio straipsnio 2 dalyje nustatytų funkcijų:
 
 1) jos nustatyta tvarka išduoda pritarimo pareiškimus Europos Komisijos registruotiems Europos Sąjungos piliečių iniciatyvos organizatoriams šių prašymu; 
 
-2) nustato Europos Sąjungos piliečių iniciatyvos organizatorių Vyriausiajai rinkimų komisijai pateiktų pritarimo pareiškimų tikrinimo tvarką.
+2) nustato Europos Sąjungos piliečių iniciatyvos organizatorių Vyriausiajai rinkimų komisijai pateiktų pritarimo pareiškimų tikrinimo ir Lietuvos Respublikoje gautų galiojančių pritarimo pareiškimų skaičiaus patvirtinimo sertifikato išdavimo tvarką;
+
+3) išduoda sertifikatą, patvirtinantį, kad internetinė pritarimo pareiškimų rinkimo sistema atitinka Reglamento (ES) 2019/788 11 straipsnio 4 dalyje nustatytus reikalavimus;
+
+4) teikia su Europos Sąjungos piliečių iniciatyva susijusią informaciją ir pagalbą. 
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2615, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20645
+ 
 
 8. Vyriausioji rinkimų komisija, įgyvendindama šiame ir kituose įstatymuose nustatytas funkcijas, turi teisę:
 
-1) gauti iš visų valstybės ir savivaldybių institucijų ir įstaigų, taip pat kitų įstaigų, įmonių ir organizacijų, rinkimų ir referendumo komisijų duomenis ir dokumentus, reikalingus Vyriausiosios rinkimų komisijos funkcijoms atlikti;
+1) gauti iš visų valstybės ir savivaldybių institucijų ir įstaigų, taip pat kitų įstaigų, įmonių ir organizacijų, rinkimų ir referendumo komisijų, politinių partijų ir politinių kampanijų dalyvių ar kitų asmenų visą turimą informaciją ir dokumentus, reikalingus Vyriausiosios rinkimų komisijos funkcijoms atlikti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2568, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19880
+ 
 
 2) reikalauti iš visų valstybės ir savivaldybių institucijų ir įstaigų, taip pat kitų įstaigų, įmonių ir organizacijų, rinkimų ir referendumo komisijų, kad būtų pašalinti rinkimų ir Referendumo įstatymų bei kitų rinkimų ir referendumo organizavimą bei vykdymą, Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos teisės įgyvendinimą ir Europos Sąjungos piliečių iniciatyvas reglamentuojančių teisės aktų pažeidimai;
 
@@ -441,6 +471,44 @@ Straipsnio pakeitimai:
 Nr. XI-2395, 2012-11-08, Žin., 2012, Nr. 133-6761 (2012-11-17)
  
 
+121 straipsnis. Pranešimas, skundas ar prašymas dėl politinių partijų ir politinių kampanijų finansavimo pažeidimų 
+
+1. Pranešimas, skundas ar prašymas dėl politinių partijų ir politinių kampanijų finansavimo pažeidimų (toliau – pranešimas) Vyriausiajai rinkimų komisijai gali būti pateiktas raštu per trejus metus nuo galimų pažeidimų atsiradimo dienos.
+
+2. Vyriausioji rinkimų komisija pranešimą išnagrinėja ir sprendimą priima per 3 mėnesius nuo pranešimo Vyriausiojoje rinkimų komisijoje gavimo dienos. Apie priimtą sprendimą pareiškėjas informuojamas per 5 darbo dienas nuo sprendimo priėmimo dienos.
+
+3. Dėl pranešime nurodytų aplinkybių sudėtingumo, informacijos gausos ar skundžiamų veiksmų tęstinio pobūdžio Vyriausiosios rinkimų komisijos sprendimu šio straipsnio 2 dalyje nurodytas pranešimo išnagrinėjimo terminas gali būti pratęsiamas iki 6 mėnesių. Apie pranešimo nagrinėjimo termino pratęsimą pranešimą pateikęs asmuo informuojamas raštu.
+
+4. Vyriausioji rinkimų komisija ne vėliau kaip per 14 darbo dienų nuo pranešimo gavimo dienos informuoja pranešimą pateikusį asmenį apie atsisakymą nagrinėti pranešimą arba pranešimo nagrinėjimo nutraukimą, jeigu:
+
+1) pranešimas pateiktas pasibaigus šio straipsnio 1 dalyje nustatytam terminui;
+
+2) pranešime nurodytų aplinkybių nagrinėjimas nepriklauso Vyriausiosios rinkimų komisijos kompetencijai;
+
+3) pareiškėjas nepateikia duomenų, be kurių nėra galimybės pradėti nagrinėti pranešimą, taip pat jeigu pranešimo tekstas neįskaitomas;
+
+4) pranešimas tuo pačiu klausimu jau buvo išnagrinėtas, o naujų aplinkybių ar faktų nenurodoma;
+
+5) pranešime nurodytas pažeidimas nagrinėjamas teisme arba dėl pranešimo dalyko yra priimtas procesinis sprendimas pradėti ikiteisminį tyrimą.
+
+5. Pakartotinai pateiktas pranešimas nenagrinėjamas, išskyrus atvejus, kai pranešime nurodomos naujos aplinkybės ar pateikiami nauji faktai. 
+
+6. Jeigu pranešime gauta informacija leidžia pagrįstai manyti, kad yra rengiama, daroma ar padaryta nusikalstama veika, administracinis nusižengimas arba kitas pažeidimas, Vyriausioji rinkimų komisija persiunčia gautą informaciją apie galimus pažeidimus tokią informaciją įgaliotai tirti institucijai. 
+
+Papildyta straipsniu:
+Nr. XIII-2568, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19880
+ 
+
+122 straipsnis. Informacijos ir dokumentų pateikimas Vyriausiajai rinkimų komisijai
+
+1. Valstybės ir savivaldybių institucijos ir įstaigos, taip pat kitos įstaigos, įmonės ir organizacijos, rinkimų ir referendumo komisijos, politinės partijos ir politinių kampanijų dalyviai ar kiti asmenys Vyriausiosios rinkimų komisijos reikalavimu privalo ne vėliau kaip iki Vyriausiosios rinkimų komisijos nustatyto termino pabaigos pateikti turimą informaciją ir dokumentus, reikalingus Vyriausiajai rinkimų komisijai nagrinėjant asmenų pranešimus, tiriant rinkimų bei politinių partijų ir politinių kampanijų finansavimo pažeidimus. 
+
+2. Nagrinėdama pranešimą, Vyriausioji rinkimų komisija turi teisę kreiptis į asmenį, dėl kurio veiksmų gautas pranešimas, prašydama per nustatytą terminą pateikti paaiškinimus ir, esant galimybei, juos pagrindžiančius dokumentus. 
+
+Papildyta straipsniu:
+Nr. XIII-2568, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19880
+ 
+
 13 straipsnis. Vyriausiosios rinkimų komisijos pirmininkas
 
 1. Vyriausiosios rinkimų komisijos pirmininkas yra biudžetinės įstaigos vadovas. Vyriausiosios rinkimų komisijos pirmininkas:
@@ -525,7 +593,10 @@ Nr. XIII-2632, 2019-12-10, paskelbta TAR 2019-12-20, i. k. 2019-20804
 
 6) įeiti į visas patalpas, kuriose vyksta pasirengimas rinkimams ar referendumui, taip pat kuriose vyksta balsavimas ar skaičiuojami balsai;
 
-7) įstatymų nustatytais atvejais surašyti administracinių teisės pažeidimų protokolus.
+7) įstatymų nustatytais atvejais surašyti administracinių nusižengimų protokolus. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2568, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19880
+ 
 
 2. Vyriausiosios rinkimų komisijos pirmininkui ir nariams draudžiama bet kokia rinkimų ar referendumo agitacija arba kiti bandymai paveikti rinkėjų valią.
  
@@ -580,23 +651,24 @@ RESPUBLIKOS PREZIDENTAS                             
  
  
 
-Lietuvos Respublikos 
-vyriausiosios rinkimų 
+Lietuvos Respublikos
+vyriausiosios rinkimų
 komisijos įstatymo
-priedas 
+priedas
+ 
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
-1. Europos Parlamento ir Tarybos 2011 m. vasario 16 d. reglamentas (ES) Nr. 211/2011 dėl piliečių iniciatyvos (OL 2011 L 65, p. 1).
+1. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (ES, Euratomas) Nr. 1141/2014 dėl Europos politinių partijų ir Europos politinių fondų statuto ir finansavimo (OL 2014 L 317, p. 1).
 
-2. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (ES, Euratomas) Nr. 1141/2014 dėl Europos politinių partijų ir Europos politinių fondų statuto ir finansavimo (OL 2014 L 317, p. 1). 
-Papildyta punktu:
-Nr. XIII-2299, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12107
- 
+2. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/788 dėl Europos piliečių iniciatyvos (OL 2019 L 130, p. 55). 
 
 Įstatymas papildytas priedu:
 Nr. XI-1958, 2012-03-29, Žin., 2012, Nr. 39-1922 (2012-03-31)
+Priedo pakeitimai:
+Nr. XIII-2615, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20645
+ 
 
  
  
@@ -693,4 +765,14 @@ Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 2, 3 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2632, 2019-12-10, paskelbta TAR 2019-12-20, i. k. 2019-20804
 Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 13 ir 14 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2568, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19880
+Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 3 ir 16 straipsnių pakeitimo ir Įstatymo papildymo 12-1 ir 12-2 straipsniais įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2615, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20645
+Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 2, 3 straipsnių ir priedo pakeitimo įstatymas
 
