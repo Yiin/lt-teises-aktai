@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2019-07-30 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-11-13
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -109,7 +109,10 @@ Nr. XIII-449, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10813
 2 straipsnis. Pagrindinės šio įstatymo sąvokos 
 
 
-1. Nedarbingi ar iš dalies darbingi asmenys – asmenys, kuriems Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka nustatytas 55 procentų ir mažesnis darbingumo lygis. 
+1. Neteko galios nuo 2020-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
+ 
 
 
 
@@ -202,27 +205,29 @@ Teisę gauti šalpos neįgalumo pensiją turi:
 
 
 
-2) asmenys, pripažinti nedarbingais ar iš dalies darbingais iki dienos (įskaitytinai), kurią jiems sukanka 24 metai, taip pat asmenys, kurie dėl ligos ar traumos, atsiradusios iki jiems sukako 24 metai, padarinių nedarbingais ar iš dalies darbingais pripažinti po 24 metų sukakties dienos, tačiau ne vėliau kaip iki dienos (įskaitytinai), kurią jiems sukanka 26 metai; 
+2) asmenys, pripažinti netekusiais 45 procentų ir daugiau darbingumo iki dienos (įskaitytinai), kurią jiems sukanka 24 metai, taip pat asmenys, kurie dėl ligos ar traumos, atsiradusios iki jiems sukako 24 metai, padarinių pripažinti netekusiais 45 procentų ir daugiau darbingumo po 24 metų sukakties dienos, tačiau ne vėliau kaip iki dienos (įskaitytinai), kurią jiems sukanka 26 metai; 
 
 
 
 
-3) tėvai (įtėviai), globėjai ar rūpintojai, kurie yra pripažinti nedarbingais ar iš dalies darbingais, netekusiais 60 procentų ir daugiau darbingumo, ir kurie ne mažiau kaip 15 metų slaugė namuose neįgaliuosius, kuriems nustatytas specialusis nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikis. Už vieno neįgalaus asmens slaugą šalpos pensija gali būti paskirta tik vienam asmeniui; 
+3) tėvai (įtėviai), globėjai ar rūpintojai, kurie yra pripažinti netekusiais 60 procentų ir daugiau darbingumo ir kurie ne mažiau kaip 15 metų slaugė namuose neįgaliuosius, kuriems nustatytas specialusis nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikis. Už vieno neįgalaus asmens slaugą šalpos neįgalumo pensija skiriama ir mokama tik vienam asmeniui; 
 
 
 
 
-4) motinos, pagimdžiusios ir išauginusios iki 8 metų penkis ar daugiau vaikų ir pripažintos nedarbingomis ar iš dalies darbingomis, netekusiomis 60 procentų ir daugiau darbingumo;
+4) motinos, išauginusios penkis ar daugiau vaikų (vaikų mirties atveju – auginusios ne trumpiau kaip 8 metus) ir pripažintos netekusiomis 60 procentų ir daugiau darbingumo;
 
 
 
 
-5) asmenys, pripažinti nedarbingais ar iš dalies darbingais, netekusiais 60 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. pripažinti I ar II grupės invalidais), išskyrus asmenis, nurodytus šio straipsnio 2, 3 ir 4 punktuose.
+5) asmenys, pripažinti netekusiais 60 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. pripažinti I ar II grupės invalidais), išskyrus asmenis, nurodytus šio straipsnio 2, 3 ir 4 punktuose. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
  
-
-
-
-
 
 
 
@@ -294,7 +299,10 @@ Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
 
 
 
-3) asmenims, kuriems nustatytas lengvas neįgalumas, – šalpos pensijų bazės dydžio.
+3) asmenims, kuriems nustatytas lengvas neįgalumas, – 1 šalpos pensijų bazės dydžio. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+ 
 
 
 
@@ -354,12 +362,18 @@ Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
 
 
 
-11) asmenims, netekusiems 50 procentų darbingumo, – 0,98 šalpos pensijų bazės dydžio;
+11) asmenims, netekusiems 45–50 procentų darbingumo, – 1 šalpos pensijų bazės dydžio; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+ 
 
 
 
 
-12) asmenims, netekusiems 45 procentų darbingumo, – 0,75 šalpos pensijų bazės dydžio.
+12) neteko galios 2020-01-01.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+ 
 
 
 
@@ -409,66 +423,43 @@ Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
 
 
 
-9) asmenims, netekusiems 60 procentų darbingumo, – šalpos pensijų bazės dydžio. 
+9) asmenims, netekusiems 60 procentų darbingumo, – 1 šalpos pensijų bazės dydžio. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+ 
 
 
 
 
 
 
-4. Šalpos neįgalumo pensijos šio įstatymo 5 straipsnio 5 punkte nurodytiems asmenims yra šių dydžių:
-
-
-1) asmenims, netekusiems 100 procentų darbingumo, – šalpos pensijų bazės dydžio;
-
-
-
-
-2) asmenims, netekusiems 95 procentų darbingumo, – 0,99 šalpos pensijų bazės dydžio;
+4. Šalpos neįgalumo pensijos šio įstatymo 5 straipsnio 5 punkte nurodytiems asmenims yra 1 šalpos pensijų bazės dydžio. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+ 
 
 
 
 
-3) asmenims, netekusiems 90 procentų darbingumo, – 0,98 šalpos pensijų bazės dydžio;
+5. Šalpos senatvės pensijos yra šių dydžių:
+
+
+1) tėvams (įtėviams), globėjams ar rūpintojams, kurie ne mažiau kaip 15 metų slaugė namuose neįgaliuosius, kuriems nustatytas specialusis nuolatinės slaugos ar nuolatinės priežiūros (pagalbos) poreikis, – 1,5 šalpos pensijų bazės dydžio;
 
 
 
 
-4) asmenims, netekusiems 85 procentų darbingumo, – 0,96 šalpos pensijų bazės dydžio;
+2) motinoms, išauginusioms penkis ar daugiau vaikų (vaikų mirties atveju – auginusioms ne trumpiau kaip 8 metus), – 1,5 šalpos pensijų bazės dydžio;
 
 
 
 
-5) asmenims, netekusiems 80 procentų darbingumo, – 0,95 šalpos pensijų bazės dydžio;
+3) senatvės pensijos amžių sukakusiems asmenims, išskyrus asmenis, nurodytus šios dalies 1 ir 2 punktuose, – 1 šalpos pensijų bazės dydžio. 
 
 
-
-
-6) asmenims, netekusiems 75 procentų darbingumo, – 0,94 šalpos pensijų bazės dydžio;
-
-
-
-
-7) asmenims, netekusiems 70 procentų darbingumo, – 0,93 šalpos pensijų bazės dydžio;
-
-
-
-
-8) asmenims, netekusiems 65 procentų darbingumo, – 0,91 šalpos pensijų bazės dydžio;
-
-
-
-
-9) asmenims, netekusiems 60 procentų darbingumo, – 0,9 šalpos pensijų bazės dydžio.
-
-
-
-
-
-
-5. Šalpos senatvės pensijos yra 1 šalpos pensijų bazės dydžio. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
+Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
  
 
 
@@ -499,7 +490,10 @@ III SKYRIUS
 
 
 
-3) sukakę 18 metų ir pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) iki dienos (įskaitytinai), kurią jiems sukanka 24 metai, taip pat asmenys, kurie dėl ligos ar traumos, atsiradusios iki jiems sukako 24 metai, padarinių nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais) pripažinti po 24 metų sukakties dienos, tačiau ne vėliau kaip iki dienos (įskaitytinai), kurią jiems sukanka 26 metai, ir, jeigu jie nuo pripažinimo neįgaliaisiais dienos nuolat yra nedarbingi ar iš dalies darbingi (invalidai).
+3) sukakę 18 metų ir pripažinti netekusiais 45 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. – invalidais) iki dienos (įskaitytinai), kurią jiems sukanka 24 metai, taip pat asmenys, kurie dėl ligos ar traumos, atsiradusios iki jiems sukako 24 metai, padarinių pripažinti netekusiais 45 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. – invalidais) po 24 metų sukakties dienos, tačiau ne vėliau kaip iki dienos (įskaitytinai), kurią jiems sukanka 26 metai, ir jeigu jie nuo pripažinimo neįgaliaisiais dienos nuolat yra pripažįstami netekusiais 45 procentų ir daugiau darbingumo (invalidai). 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
+ 
 
 
 
@@ -582,12 +576,12 @@ Teisę gauti šalpos kompensaciją turi:
 13 straipsnis. Šalpos kompensacijų skyrimo ir mokėjimo sąlygos
 
 
-1. Šalpos kompensacijos šio įstatymo 12 straipsnyje nurodytiems asmenims skiriamos ir mokamos, kai jie sukanka amžių, penkeriais metais mažesnį už senatvės pensijos amžių, arba pripažįstami nedarbingais ar iš dalies darbingais asmenimis, netekusiais 60 procentų ir daugiau darbingumo. 
+1. Šalpos kompensacijos šio įstatymo 12 straipsnyje nurodytiems asmenims skiriamos ir mokamos, kai jie sukanka amžių, penkeriais metais mažesnį už senatvės pensijos amžių, arba pripažįstami netekusiais 60 procentų ir daugiau darbingumo. 
 
 
 
 
-2. Šalpos kompensacijos mokamos tol, kol jų gavėjai įgyja teisę gauti šio įstatymo 7 straipsnio 1 dalyje nurodytas pensijas ar pensijų išmokas, išskyrus valstybinę socialinio draudimo našlių pensiją. Jeigu šalpos kompensacijos gavėjas neįgyja teisės gauti nė vienos iš nurodytų pensijų ar pensijų išmokų, išskyrus valstybinę socialinio draudimo našlių pensiją, šalpos kompensacija jam mokama tol, kol jis yra pripažintas nedarbingu ar iš dalies darbingu asmeniu, netekusiu 60 procentų ir daugiau darbingumo (sukakusiam senatvės pensijos amžių – iki gyvos galvos).
+2. Šalpos kompensacijos mokamos tol, kol jų gavėjai įgyja teisę gauti šio įstatymo 7 straipsnio 1 dalyje nurodytas pensijas ar pensijų išmokas, išskyrus socialinio draudimo našlių pensiją. Jeigu šalpos kompensacijos gavėjas neįgyja teisės gauti nė vienos iš nurodytų pensijų ar pensijų išmokų, išskyrus socialinio draudimo našlių pensiją, šalpos kompensacija jam mokama tol, kol jis yra pripažintas netekusiu 60 procentų ir daugiau darbingumo (sukakusiam senatvės pensijos amžių – iki gyvos galvos).
 
 
 
@@ -598,9 +592,11 @@ Teisę gauti šalpos kompensaciją turi:
 
 
 4. Asmenų, kurie tuo pačiu metu turi teisę gauti kelias šalpos kompensacijas, pasirinkimu skiriama ir mokama viena šalpos kompensacija. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
  
-
-
 
 
 
@@ -654,12 +650,18 @@ Nr. XIII-1734, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20996
 
 
 
-6. Asmenims, turintiems teisę gauti šalpos neįgalumo pensiją ir šalpos senatvės pensiją arba šalpos neįgalumo ar senatvės pensiją ir šalpos kompensaciją, jų pasirinkimu mokama tik viena iš šių šalpos išmokų. 
+6. Asmenims, turintiems teisę gauti šalpos neįgalumo pensiją ir šalpos senatvės pensiją arba šalpos neįgalumo ar senatvės pensiją ir šalpos kompensaciją, jų pasirinkimu mokama tik viena iš šių šalpos išmokų. Kai šio įstatymo 5 straipsnio 3 ir 4 punktuose nurodyti asmenys, kuriems yra skiriamos ir mokamos šalpos neįgalumo pensijos, sukanka senatvės pensijos amžių, be atskiro jų prašymo jiems yra skiriama ir mokama atitinkamai šio įstatymo 8 straipsnio 5 dalies 1 ir 2 punktuose nurodyto dydžio šalpos senatvės pensija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
+ 
 
 
 
 
-7. Šalpos neįgalumo pensijos šio įstatymo 5 straipsnio 4 punkte nurodytiems asmenims ir šalpos kompensacijos šio įstatymo 12 straipsnio 2 punkte nurodytiems asmenims skiriamos ir mokamos tik tuo atveju, jeigu jų vaikams nebuvo nustatyta nuolatinė globa ar rūpyba.
+7. Šalpos neįgalumo pensijos šio įstatymo 5 straipsnio 4 punkte nurodytiems asmenims, šalpos senatvės pensijos šio įstatymo 8 straipsnio 5 dalies 2 punkte nurodytiems asmenims ir šalpos kompensacijos šio įstatymo 12 straipsnio 2 punkte nurodytiems asmenims skiriamos ir mokamos tik tuo atveju, jeigu jų vaikams nebuvo nustatyta nuolatinė globa ar rūpyba. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
+ 
 
 
 
@@ -764,7 +766,10 @@ Nr. XIII-882, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21483
 
 
 
-3. Teisė gauti šalpos neįgalumo pensiją ar šalpos našlaičių pensiją išlieka, kai nedarbingu ar iš dalies darbingu (iki 2005 m. liepos 1 d. – invalidu) pripažintas asmuo senatvės pensijos amžių sukanka šalpos neįgalumo pensijos ar šalpos našlaičių pensijos gavimo laikotarpiu.
+3. Teisė gauti šalpos neįgalumo pensiją ar šalpos našlaičių pensiją išlieka, kai asmuo, pripažintas netekusiu 45 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. – invalidu), senatvės pensijos amžių sukanka šalpos neįgalumo pensijos ar šalpos našlaičių pensijos gavimo laikotarpiu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
+ 
 
 
 
@@ -882,7 +887,10 @@ Asmenims iki 18 metų, kurie iki 2005 m. liepos 1 d. buvo pripažinti vaikais in
 3. Šio straipsnio 1 dalyje nurodytiems invalidams šalpos neįgalumo pensijos mokamos šių dydžių:
 
 
-1) šio straipsnio 1 dalies 1 ir 2 punktuose nurodytiems asmenims, pripažintiems I grupės invalidais, – 2 šalpos pensijų bazių dydžio; pripažintiems II grupės invalidais – 1,5 šalpos pensijų bazės dydžio; pripažintiems III grupės invalidais – 0,75 šalpos pensijų bazės dydžio;
+1) šio straipsnio 1 dalies 1 ir 2 punktuose nurodytiems asmenims, pripažintiems I grupės invalidais, – 2 šalpos pensijų bazių dydžio; pripažintiems II grupės invalidais, – 1,5 šalpos pensijų bazės dydžio; pripažintiems III grupės invalidais, – 1 šalpos pensijų bazės dydžio; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+ 
 
 
 
@@ -894,7 +902,9 @@ Asmenims iki 18 metų, kurie iki 2005 m. liepos 1 d. buvo pripažinti vaikais in
 
 
 
-4. Jeigu asmenims, nurodytiems šio straipsnio 1 dalies 1 ir 2 punktuose, šalpos neįgalumo pensijos mokėjimas buvo nutrauktas dėl atgauto darbingumo ir jiems vėl nustatant darbingumo lygį jie pripažįstami nedarbingais ar iš dalies darbingais, šalpos neįgalumo pensijos jiems skiriamos ir mokamos nepaisant jų amžiaus darbingumo lygio nustatymo metu tokio paties dydžio ir tokiomis pačiomis sąlygomis kaip asmenims, nurodytiems šio įstatymo 5 straipsnio 2 punkte. 
+4. Jeigu asmenims, nurodytiems šio straipsnio 1 dalies 1 ir 2 punktuose, šalpos neįgalumo pensijos mokėjimas buvo nutrauktas dėl atgauto darbingumo ir jiems vėl nustatant darbingumo lygį jie pripažįstami netekusiais 45 procentų ir daugiau darbingumo, šalpos neįgalumo pensijos jiems skiriamos ir mokamos nepaisant jų amžiaus darbingumo lygio nustatymo metu tokio paties dydžio ir tokiomis pačiomis sąlygomis kaip asmenims, nurodytiems šio įstatymo 5 straipsnio 2 punkte. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
  
 
 
@@ -969,10 +979,12 @@ PENSIJOS PRIEMOKOS
 221 straipsnis. Asmenys, turintys teisę gauti pensijos priemoką
 
 
-Socialinio draudimo senatvės pensijų, išskyrus išankstines senatvės pensijas, gavėjai ir socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensijų gavėjai, netekę 60 procentų ar daugiau darbingumo (iki 2005 m. liepos 1 d. pripažinti I ar II grupės invalidais), senatvės pensijos amžių sukakę socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensijų gavėjai, netekę 45–55 procentų darbingumo (iki 2005 m. liepos 1 d. pripažinti III grupės invalidais), jeigu jų gaunamų socialinio draudimo pensijų, kompensacijų už ypatingas darbo sąlygas, valstybinių pensijų, užsienio valstybių pensijų (toliau kartu – pensijos) suma per mėnesį yra mažesnė negu 95 procentai Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka apskaičiuoto minimalių vartojimo poreikių dydžio (toliau – MVPD), turi teisę gauti pensijos priemoką. Pensijos priemoka skiriama ir mokama, jeigu šiame straipsnyje nurodyti asmenys yra deklaravę gyvenamąją vietą arba įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą Gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka.
+Socialinio draudimo senatvės pensijų, išskyrus išankstines senatvės pensijas, gavėjai ir socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensijų gavėjai, netekę 60 procentų ar daugiau darbingumo (iki 2005 m. liepos 1 d. pripažinti I ar II grupės invalidais), senatvės pensijos amžių sukakę socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensijų gavėjai, netekę 45–55 procentų darbingumo (iki 2005 m. liepos 1 d. pripažinti III grupės invalidais), jeigu jų gaunamų socialinio draudimo pensijų, kompensacijų už ypatingas darbo sąlygas, valstybinių pensijų, užsienio valstybių pensijų (toliau kartu – pensijos) suma per mėnesį yra mažesnė, negu Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka apskaičiuotas minimalių vartojimo poreikių dydis (toliau – MVPD), turi teisę gauti pensijos priemoką. Pensijos priemoka skiriama ir mokama, jeigu šiame straipsnyje nurodyti asmenys yra deklaravę gyvenamąją vietą arba įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą Gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
  
-
-
 
 
 
@@ -980,7 +992,7 @@ Socialinio draudimo senatvės pensijų, išskyrus išankstines senatvės pensija
 222 straipsnis. Pensijos priemokų apskaičiavimas
 
 
-1. Pensijos priemoka asmenims, kuriems mokama socialinio draudimo senatvės arba socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensija, apskaičiuota turint būtinąjį pensijų socialinio draudimo stažą, apskaičiuojama euro cento tikslumu pagal formulę PD = 0,95 × MVPD – P, čia:
+1. Pensijos priemoka asmenims, kuriems mokama socialinio draudimo senatvės arba socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensija, apskaičiuota turint būtinąjį pensijų socialinio draudimo stažą, apskaičiuojama euro cento tikslumu pagal formulę PD = MVPD – P, čia:
 
 
 1) PD – pensijos priemokos dydis;
@@ -993,14 +1005,17 @@ Socialinio draudimo senatvės pensijų, išskyrus išankstines senatvės pensija
 
 
 
-3) P – visų asmeniui mokamų pensijų suma.
+3) P – visų asmeniui mokamų pensijų suma. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+ 
 
 
 
 
-
-
-2. Pensijos priemoka asmenims, kuriems mokama socialinio draudimo senatvės arba socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensija, apskaičiuota neturint būtinojo pensijų socialinio draudimo stažo, apskaičiuojama euro cento tikslumu pagal formulę PD = (0,95 × MVPD – P) × (S / BS), čia:
+2. Pensijos priemoka asmenims, kuriems mokama socialinio draudimo senatvės arba socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensija, apskaičiuota neturint būtinojo pensijų socialinio draudimo stažo, apskaičiuojama euro cento tikslumu pagal formulę PD = (MVPD – P) × (S / BS), čia:
 
 
 1) PD – pensijos priemokos dydis;
@@ -1023,9 +1038,12 @@ Socialinio draudimo senatvės pensijų, išskyrus išankstines senatvės pensija
 
 
 
-5) P – visų asmeniui mokamų pensijų suma.
+5) P – visų asmeniui mokamų pensijų suma. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+ 
 
 
 
@@ -1097,16 +1115,17 @@ BAIGIAMOSIOS NUOSTATOS
 23 straipsnis. Slaugos namuose laikotarpių nustatymas
 
 
-1. Nustatant asmens teisę gauti šalpos neįgalumo pensiją pagal šio įstatymo 5 straipsnio 3 punktą, vaikų invalidų, I ar II grupės invalidų nuo vaikystės arba tapusių I ar II grupės invalidais iki 18 metų, taip pat visiškos negalios invalidų, pripažintų tokiais iki 2005 m. liepos 1 d., slaugos namuose laikas prilyginamas neįgaliųjų, kuriems nustatytas specialusis nuolatinės slaugos poreikis arba nuolatinės priežiūros (pagalbos) poreikis, slaugos namuose laikui.
+1. Skiriant šalpos neįgalumo pensiją šio įstatymo 5 straipsnio 3 punkte nurodytiems asmenims arba šalpos senatvės pensiją šio įstatymo 8 straipsnio 5 dalies 1 punkte nurodytiems asmenims, vaikų invalidų, I ar II grupės invalidų nuo vaikystės arba tapusių I ar II grupės invalidais iki 18 metų, taip pat visiškos negalios invalidų, pripažintų tokiais iki 2005 m. liepos 1 d., slaugos namuose laikas prilyginamas neįgaliųjų, kuriems nustatytas specialusis nuolatinės slaugos poreikis arba nuolatinės priežiūros (pagalbos) poreikis, slaugos namuose laikui. Už vieno neįgalaus asmens slaugą šalpos senatvės pensija skiriama ir mokama tik vienam asmeniui.
 
 
 
 
-2. Skiriant šalpos neįgalumo pensiją pagal šio įstatymo 5 straipsnio 3 punktą arba šalpos kompensaciją pagal šio įstatymo 12 straipsnio 1 punktą, slaugomais namuose taip pat laikomi neįgalieji, gydomi stacionarinėse asmens sveikatos priežiūros įstaigose (išskyrus asmenis, kurie pagal šį įstatymą laikomi slaugomais palaikomojo gydymo ir slaugos ligoninėse) ar gaunantys socialines paslaugas nestacionariose socialinės globos įstaigose. 
+2. Skiriant šalpos neįgalumo pensiją šio įstatymo 5 straipsnio 3 punkte nurodytiems asmenims, šalpos senatvės pensiją šio įstatymo 8 straipsnio 5 dalies 1 punkte nurodytiems asmenims arba šalpos kompensaciją šio įstatymo 12 straipsnio 1 punkte nurodytiems asmenims, slaugomais namuose taip pat laikomi neįgalieji, gydomi stacionarinėse asmens sveikatos priežiūros įstaigose (išskyrus asmenis, kurie pagal šį įstatymą laikomi slaugomais palaikomojo gydymo ir slaugos ligoninėse) ar gaunantys socialines paslaugas nestacionariose socialinės globos įstaigose. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
+Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
  
 
 
@@ -1115,7 +1134,10 @@ Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
 24 straipsnis. Informacijos ir duomenų, susijusių su šalpos išmokų skyrimu ir mokėjimu, gavimas ir teikimas 
 
 
-1. Šalpos išmokas mokanti įstaiga šalpos išmokų skyrimo ir (ar) mokėjimo tikslu turi teisę gauti iš valstybės ir savivaldybių institucijų, įstaigų, įmonių ir organizacijų, valstybės, žinybinių registrų arba valstybės, savivaldybių informacinių sistemų informaciją, duomenis, taip pat ypatingus asmens duomenis, susijusius su teistumu (laisvės atėmimo bausmės atlikimo laiką ir vietą) ir sveikata, ir juos tvarkyti.
+1. Šalpos išmokas mokanti įstaiga šalpos išmokų, pensijų priemokų skyrimo ir (ar) mokėjimo tikslu turi teisę gauti iš valstybės ir savivaldybių institucijų, įstaigų, įmonių ir organizacijų, valstybės, žinybinių registrų arba valstybės, savivaldybių informacinių sistemų informaciją, duomenis (įskaitant asmens duomenis), taip pat asmens duomenis, susijusius su paskirta kardomąja priemone (duomenis apie suėmimo laiką), priverčiamosiomis medicinos priemonėmis (duomenis apie taikomo stacionarinio stebėjimo bendro, sustiprinto ar griežto stebėjimo sąlygomis specializuotose psichikos sveikatos priežiūros įstaigose laiką), auklėjamojo poveikio priemone (duomenis apie nustatytą atidavimo į specialią auklėjimo įstaigą laiką), teistumu (duomenis apie laisvės atėmimo bausmės atlikimo laiką), specialių kategorijų asmens duomenis (sveikatos duomenis apie neįgalumą, darbingumo lygį (invalidumą), specialiuosius poreikius, slaugymą, slaugą, palaikomąjį gydymą) ir juos tvarkyti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+ 
 
 
 
@@ -1267,3 +1289,13 @@ Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1, 4, 7, 15, 16, 24 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2346, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12437
 Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 2, 5, 8, 9, 13, 15, 16, 20 ir 23 straipsnių pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 8, 20, 22-1, 22-2 ir 24 straipsnių pakeitimo įstatymas
