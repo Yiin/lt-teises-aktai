@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2019-12-22 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-07-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -1979,10 +1979,10 @@ Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 
 
 
-19 straipsnis. Geležinkelio kelių ir jų įrenginių apsaugos zonos 
+19 straipsnis. Geležinkelio kelių ir jų įrenginių, geležinkelio želdinių apsaugos zonos
 
 
-1. Geležinkelio keliams ir jų įrenginiams yra nustatomos apsaugos zonos, kurios skirstomos į viešosios geležinkelių infrastruktūros kelių ir jų įrenginių apsaugos, privažiuojamųjų geležinkelio kelių ir jų įrenginių apsaugos bei geležinkelio želdinių apsaugos zonas.
+1. Geležinkelio keliams ir jų įrenginiams yra nustatomos apsaugos zonos, kurios skirstomos į viešosios geležinkelių infrastruktūros kelių ir jų įrenginių apsaugos, privažiuojamųjų geležinkelio kelių ir jų įrenginių apsaugos, siaurųjų geležinkelių (600 mm ir 750 mm pločio vėžės) ir jų įrenginių apsaugos bei geležinkelio želdinių apsaugos zonas. 
 
 
 
@@ -2002,43 +2002,14 @@ Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 
 
 
-5. Geležinkelio kelių ir jų įrenginių apsaugos zonoje be geležinkelių infrastruktūros valdytojo rašytinio sutikimo draudžiama:
+5. Geležinkelio kelių ir jų įrenginių, geležinkelio želdinių apsaugos zonų dydis ir specialiosios žemės naudojimo sąlygos šiose zonose nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme. 
 
 
-1) kasti žemę giliau kaip 0,3 metro, mechanizuotai lyginti gruntą, atlikti sprogdinimo ir melioravimo darbus;
-
-
-
-
-2) sodinti ar kirsti medžius ir krūmus, išskyrus šio straipsnio 2 dalyje nurodytus atvejus;
-
-
-
-
-3) įrengti pervažas ir perėjas;
-
-
-
-
-4) statyti naujus ir rekonstruoti esamus pastatus, skirtus geležinkelių transporto veiklai, ir inžinerinius statinius.
-
-
-
-
-
-
-6. Geležinkelio kelių ir jų įrenginių apsaugos zonoje draudžiama statyti naujus ir rekonstruoti esamus pastatus, nesusijusius su geležinkelių transporto veikla.
-
-
-
-
-7. Geležinkelio kelių ir įrenginių apsaugos zonų, geležinkelio želdinių apsaugos zonų ribas nustato Vyriausybė.
 Straipsnio pakeitimai:
 Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
-
-
 Straipsnio pakeitimai:
 Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
+Nr. XIII-2176, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09950
  
 
 
@@ -5090,3 +5061,8 @@ Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 4, 7, 11, 12, 13, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2685, 2019-12-13, paskelbta TAR 2019-12-21, i. k. 2019-20999
 Lietuvos Respublikos geležinkelių transporto kodekso papildymo 33-2 straipsniu įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2176, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09950
+Lietuvos Respublikos geležinkelių transporto kodekso 19 straipsnio pakeitimo įstatymas
