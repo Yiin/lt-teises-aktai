@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EFE69222D6BC"
 
 # Lietuvos Respublikos geodezijos ir kartografijos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2226, i. k. 1011010ISTA00IX-415
  
@@ -1165,7 +1165,10 @@ GEODEZINIAI PUNKTAI ir JŲ APSAUGA
 
 
 
-2. Apie gruntinius geodezinius ženklus nuo išorinės jų ribos teisės aktų nustatyta tvarka nustatoma apsaugos zona, kurioje draudžiama bet kokia ūkinė veikla. 
+2. Gruntinio geodezinio ženklo apsaugos zonos dydis ir specialiosios žemės naudojimo sąlygos šioje zonoje nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2177, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09954
+ 
 
 
 
@@ -1175,7 +1178,10 @@ GEODEZINIAI PUNKTAI ir JŲ APSAUGA
 
 
 
-4. Įrengus geodezinį ženklą, žemės savininko ar kito naudotojo prašymu nuostoliai dėl specialiųjų žemės naudojimo sąlygų nustatymo atlyginami Lietuvos Respublikos žemės įstatymo nustatyta tvarka.
+4. Įrengus gruntinį geodezinį ženklą, žemės savininko ar kito naudotojo prašymu nuostoliai dėl specialiųjų žemės naudojimo sąlygų nustatymo atlyginami Specialiųjų žemės naudojimo sąlygų įstatyme nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2177, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09954
+ 
 
 
 
@@ -1797,3 +1803,8 @@ Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 12, 13 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-601, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12174
 Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 4, 6, 7, 8, 9, 10, 11, 18, 19, 20, 21, 23, 25 ir 27 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2177, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09954
+Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 17 straipsnio pakeitimo įstatymas
