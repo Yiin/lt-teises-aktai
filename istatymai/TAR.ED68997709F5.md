@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-07-03
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
+ 
+TAR pastaba. Prekėms, dėl kurių prievolė apskaičiuoti pridėtinės vertės mokestį arba importo pridėtinės vertės mokestį atsirado iki įstatymoNr. XIII-2487 įsigaliojimo (2020-01-01), taikomos iki šio įstatymo įsigaliojimo galiojusios taisyklės.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 4, 4-1, 5-1, 12, 12-2, 33-1, 35, 49, 56, 78, 88-1 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 4-2, 9-2 straipsniais įstatymas
  
  
 LIETUVOS RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMAS
@@ -132,6 +137,14 @@ Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
 
 
 10. Europos Sąjungos teritorija – valstybių narių teritorijos, kaip jos apibrėžtos šio straipsnio 39 dalyje.
+
+
+
+
+101. Grandininis prekių tiekimo sandoris (toliau – grandininis sandoris) – vienas po kito vykdomo tų pačių prekių tiekimo sandoris, kuriame dalyvauja tarpinis veiklos vykdytojas, kai prekės gabenamos iš vienos valstybės narės į kitą valstybę narę tiesiogiai iš pirmojo prekių tiekėjo paskutiniam prekių tiekimo grandinėje esančiam tas prekes įsigyjančiam asmeniui. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
 
 
 
@@ -376,6 +389,14 @@ Nr. XII-2697, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26861
 
 
 
+331. Tarpinis veiklos vykdytojas – grandininiame sandoryje dalyvaujantis prekių tiekėjas (išskyrus pirmąjį prekių tiekimo grandinės prekių tiekėją), kuris gabena prekes arba kurio užsakymu tai atlieka trečioji šalis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
+
+
+
+
 34. Telekomunikacijų paslaugos – paslaugos, susijusios su signalų, žodžių, vaizdo ir garso, duomenų arba kitokios informacijos perdavimu, siuntimu arba priėmimu laidinėmis, radijo, optinėmis arba kitokiomis elektromagnetinėmis sistemomis, įskaitant teisės naudotis šiomis perdavimo, siuntimo arba priėmimo galimybėmis suteikimą arba perdavimą, taip pat prieigos prie pasaulinių informacijos tinklų suteikimą. 
 
 
@@ -593,17 +614,10 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 4 straipsnis. Prekių tiekimas 
 
 
-1. Prekių tiekimu laikomas:
-
-
-1) prekių perdavimas kitam asmeniui, kai pagal sandorio sąlygas šis asmuo arba trečioji šalis įgyja teisę disponuoti tomis prekėmis kaip jų savininkas, išskyrus prekių, atgabentų iš kitos valstybės narės šio Įstatymo 4(1) straipsnio 6 dalyje nurodytomis sąlygomis, nuosavybės perdavimą toje dalyje nurodytam PVM mokėtojui, arba
-
-
-
-
-2) prekių išgabenimas iš šalies teritorijos kitos valstybės narės PVM mokėtojui, kuriam pagal sandorio sąlygas numatytas prekių nuosavybės perdavimas, o prekės yra padedamos saugoti į šiam PVM mokėtojui nuosavybės teise priklausančius ar kitais teisėtais pagrindais naudojamus sandėlius ar kitas patalpas, jeigu toje valstybėje narėje yra taikomos nuostatos, iš esmės atitinkančios šio Įstatymo 4(1) straipsnio 6 dalies nuostatas. Toks prekių išgabenimas laikomas prekių tiekimu kitos valstybės narės PVM mokėtojui.
-
-
+1. Prekių tiekimu laikomas prekių perdavimas kitam asmeniui, kai pagal sandorio sąlygas šis asmuo arba trečioji šalis įgyja teisę disponuoti tomis prekėmis kaip jų savininkas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
 
 
 
@@ -652,13 +666,64 @@ Nr. X-932, 2006-11-28, Žin., 2006, Nr. 137-5203 (2006-12-16)
 
 
 
-6. Tais atvejais, kai prekės iš kitos valstybės narės yra atgabenamos PVM mokėtojui, kuriam pagal sandorio sąlygas numatytas prekių nuosavybės perdavimas ne vėliau kaip po 12 mėnesių (centrinio mokesčių administratoriaus nustatyta tvarka šis terminas dėl asmens verslo ypatumų gali būti pratęstas), o prekės yra padedamos saugoti į šiam PVM mokėtojui nuosavybės teise priklausančius ar kitais teisėtais pagrindais naudojamus sandėlius ar kitas patalpas ir jis vienintelis naudos šias prekes savo ekonominėje veikloje, toks prekių atgabenimas laikomas šio PVM mokėtojo prekių įsigijimu už atlygį ir nelaikomas asmens, disponuojančio atgabentomis iš kitos valstybės narės prekėmis kaip jų savininko, prekių įsigijimu už atlygį.
+6. Laikoma, kad prekes, patiektas pagal šio Įstatymo 42 straipsnyje nustatytas sąlygas, iš kitos valstybės narės įsigyja apmokestinamasis asmuo, kuriam perduota disponavimo tokiomis prekėmis kaip jų savininko teisė toje valstybėje narėje, į kurią prekės yra atgabentos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
 
 
 Įstatymas papildytas straipsniu:
 Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Straipsnio pakeitimai:
 Nr. X-932, 2006-11-28, Žin., 2006, Nr. 137-5203 (2006-12-16)
+ 
+
+
+
+
+42 straipsnis. Prekių pristatymas, kad jos būtų patiektos pagal pareikalavimą
+
+
+1. Laikoma, kad prekės pristatomos, kad jos būtų patiektos pagal pareikalavimą (angl. call-of stock), kai tenkinamos visos šios sąlygos:
+
+
+1) apmokestinamasis asmuo (arba jo užsakymu trečioji šalis) gabena prekes į kitą valstybę narę, siekdamas atgabentas prekes toje valstybėje narėje vėliau patiekti kitam prekes įsigyjančiam apmokestinamajam asmeniui, kuris turi teisę perimti tų prekių nuosavybę (toliau šiame straipsnyje – įsigyjantis apmokestinamasis asmuo), pagal galiojantį tarp šių abiejų apmokestinamųjų asmenų sudarytą sandorį;
+
+
+
+
+2) šios dalies 1 punkte nurodytas prekes išgabenantis apmokestinamasis asmuo nėra įsikūręs (t. y. jo buveinė (jeigu tai ne fizinis asmuo) arba nuolatinė gyvenamoji vieta (jeigu tai fizinis asmuo) nėra toje valstybėje narėje arba toje valstybėje narėje neturi padalinio) valstybėje narėje, į kurią prekės atgabenamos;
+
+
+
+
+3) įsigyjantis apmokestinamasis asmuo, kuriam ketinama tiekti prekes, įregistruotas PVM mokėtoju valstybėje narėje, į kurią atgabenamos prekės, o jo tapatybė ir PVM mokėtojo kodas, kurį jam priskyrė ta valstybė narė, į kurią atgabenamos prekės, žinomi šios dalies 2 punkte nurodytam apmokestinamajam asmeniui tuo momentu, kai prasideda prekių išgabenimas;
+
+
+
+
+4) šios dalies 2 punkte nurodytas apmokestinamasis asmuo prekių išgabenimą užregistruoja šio Įstatymo 78 straipsnio 51 dalyje numatytame arba kitos valstybės narės nustatytame atitinkamame žurnale, o įsigyjančio apmokestinamojo asmens tapatybę ir valstybės narės, į kurią atgabenamos prekės, jam suteiktą PVM mokėtojo kodą nurodo prekių tiekimo ir (arba) paslaugų teikimo į kitas valstybes nares ataskaitoje, nurodytoje šio Įstatymo 881 straipsnio 11 dalyje, arba kitos valstybės narės nustatytoje atitinkamoje ataskaitoje;
+
+
+
+
+5) šios dalies 2 punkte nurodytas apmokestinamasis asmuo prekes įsigyjančiam apmokestinamajam asmeniui patiekia ne vėliau kaip per 12 mėnesių nuo prekių atgabenimo į kitą valstybę narę.
+
+
+
+
+
+
+2. Laikoma, kad prekės pristatomos, kad jos būtų patiektos pagal pareikalavimą, ir tuo atveju, kai per 12 mėnesių nuo prekių atgabenimo į kitą valstybę narę šio straipsnio 1 dalies 3 punkte nurodytą asmenį pakeičia kitas apmokestinamasis asmuo ir tokį keitimą šio straipsnio 1 dalies 2 punkte nurodytas apmokestinamasis asmuo užregistruoja šio Įstatymo 78 straipsnio 51 dalyje numatytame arba kitos valstybės narės nustatytame atitinkamame žurnale, ir tenkinamos kitos šio straipsnio 1 dalyje nustatytos sąlygos.
+
+
+
+
+3. Laikoma, kad prekių pristatymas, kad jos būtų patiektos pagal pareikalavimą, nebeatitinka šio straipsnio 1 ar 2 dalyje nustatytų sąlygų tuo atveju, jeigu prekės sunaikinamos arba prarandamos (įskaitant praradimą dėl vagystės). 
+
+
+Papildyta straipsniu:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
  
 
 
@@ -756,14 +821,74 @@ Nr. X-932, 2006-11-28, Žin., 2006, Nr. 137-5203 (2006-12-16)
 
 
 
-8) dujų perdavimas Europos Sąjungos teritorijoje esančiomis gamtinių dujų sistemomis ar prie jų prijungtais tinklais į kitą valstybę narę, šilumos ar vėsumos energijos perdavimas šilumos ar vėsumos tinklais į kitą valstybę narę, elektros energijos perdavimas į kitą valstybę narę (kai tokiu būdu perduotoms prekėms kitoje valstybėje narėje bus taikomos nuostatos, iš esmės tolygios šio Įstatymo 12 straipsnio 6 dalies nuostatoms).
+8) dujų perdavimas Europos Sąjungos teritorijoje esančiomis gamtinių dujų sistemomis ar prie jų prijungtais tinklais į kitą valstybę narę, šilumos ar vėsumos energijos perdavimas šilumos ar vėsumos tinklais į kitą valstybę narę, elektros energijos perdavimas į kitą valstybę narę (kai tokiu būdu perduotoms prekėms kitoje valstybėje narėje bus taikomos nuostatos, iš esmės tolygios šio Įstatymo 12 straipsnio 6 dalies nuostatoms);
+
+
+
+
+9) prekių pristatymas, kad jos būtų patiektos pagal pareikalavimą, kaip nustatyta šio Įstatymo 42 straipsnyje; 
+Papildyta straipsnio punktu:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
+
+
+
+
+10) prekių, pristatytų, kad jos būtų patiektos pagal pareikalavimą, kaip nustatyta šio Įstatymo 42 straipsnyje, pargabenimas atgal į valstybę narę, iš kurios prekės buvo išgabentos, jeigu teisė disponuoti tokiomis prekėmis kaip jų savininkui nebuvo perduota kitam apmokestinamajam asmeniui, o prekės grąžinamos per 12 mėnesių terminą, nustatytą šio Įstatymo 42 straipsnio 1 dalies 5 punkte, ir apmokestinamasis asmuo, nurodytas šio Įstatymo 42 straipsnio 1 dalies 2 punkte, tokį grąžinimą užregistruoja šio Įstatymo 78 straipsnio 51 dalyje numatytame arba kitos valstybės narės nustatytame atitinkamame žurnale. 
+Papildyta straipsnio punktu:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
 
 
 
 
 
 
-3. Tuo atveju, jeigu nebetenkinamos šio straipsnio 2 dalyje nurodytos sąlygos, prekių pervežimas į kitą valstybę narę laikomas prekių tiekimu už atlygį, kaip nurodyta šio straipsnio 1 dalyje. Prekių tiekimas laikomas įvykusiu, kai šios sąlygos nebetenkinamos.
+3. Tuo atveju, jeigu nebetenkinamos šio straipsnio 2 dalies 1–8 punktuose nurodytos sąlygos, prekių pervežimas į kitą valstybę narę laikomas prekių tiekimu už atlygį, kaip nustatyta šio straipsnio 1 dalyje. Prekių tiekimas laikomas įvykusiu, kai šios sąlygos nebetenkinamos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
+
+
+
+
+4. Tuo atveju, jeigu nebetenkinama šio straipsnio 2 dalies 9 punkte nurodyta sąlyga, prekių išgabenimas į kitą valstybę narę laikomas prekių tiekimu už atlygį, kaip nustatyta šio straipsnio 1 dalyje. Prekių tiekimas laikomas įvykusiu:
+
+
+1) kitą dieną po 12 mėnesių termino, nustatyto šio Įstatymo 42 straipsnio 1 dalies 5 punkte, pabaigos, jeigu teisė disponuoti tokiomis prekėmis kaip jų savininkui per 12 mėnesių po šių prekių atgabenimo į valstybę narę, į kurią jos buvo gabenamos, nebuvo perduota apmokestinamajam asmeniui, nurodytam šio Įstatymo 42 straipsnio 1 dalies 3 punkte ar 42 straipsnio 2 dalyje;
+
+
+
+
+2) prieš pat į kitą valstybę narę nugabentų prekių tiekimą kitam asmeniui negu apmokestinamasis asmuo, nurodytas šio Įstatymo 42 straipsnio 1 dalies 3 punkte ar 42 straipsnio 2 dalyje, kai prekės tiekiamos dar nepasibaigus 12 mėnesių terminui, nustatytam šio Įstatymo 42 straipsnio 1 dalies 5 punkte;
+
+
+
+
+3) prieš pat prasidedant į kitą valstybę narę atgabentų prekių išgabenimui į valstybę narę, kuri nėra valstybė narė, iš kurios prekės buvo išgabentos, prekių pristatymui, kad jos būtų patiektos pagal pareikalavimą, kaip nustatyta šio Įstatymo 42 straipsnyje, jeigu prekės gabenamos dar nepasibaigus 12 mėnesių terminui, nustatytam šio Įstatymo 42 straipsnio 1 dalies 5 punkte;
+
+
+
+
+4) tą dieną, kai prekės buvo sunaikintos ar prarastos (įskaitant praradimą dėl vagystės), o jeigu neįmanoma nustatyti tos dienos, tą dieną, kai sužinoma, kad prekės sunaikintos arba prarastos (įskaitant praradimą dėl vagystės), jeigu šios aplinkybės įvyko per 12 mėnesių terminą, nustatytą šio Įstatymo 42 straipsnio 1 dalies 5 punkte;
+
+
+
+
+5) tuo metu, kai nebetenkinamos šio Įstatymo 42 straipsnyje nurodytos sąlygos dėl kitų aplinkybių, negu nurodyta šios dalies 2, 3 ir 4 punktuose, ir nėra pasibaigęs šio Įstatymo 42 straipsnio 1 dalies 5 punkte nustatytas 12 mėnesių terminas. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
+
+
+
+
+5. Tuo atveju, kai nebetenkinamos šio straipsnio 2 dalies 10 punkte nurodytos sąlygos, prekių pervežimas į kitą valstybę narę laikomas prekių tiekimu už atlygį, kaip nurodyta šio straipsnio 1 dalyje. Prekių tiekimas laikomas įvykusiu kitą dieną po 12 mėnesių termino, nustatyto šio Įstatymo 42 straipsnio 1 dalies 5 punkte, pabaigos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
 
 
 Įstatymas papildytas straipsniu:
@@ -927,6 +1052,24 @@ Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
 
 
 
+92 straipsnis. Gabenimui pagal grandininius sandorius taikomos taisyklės
+
+
+1. Prekių gabenimas pagal grandininį sandorį priskiriamas tik prekių tiekimui tarpiniam veiklos vykdytojui.
+
+
+
+
+2. Neatsižvelgiant į šio straipsnio 1 dalį, prekių gabenimas pagal grandininį sandorį priskiriamas tik tarpinio veiklos vykdytojo vykdomam prekių tiekimui, kai tarpinis veiklos vykdytojas yra pranešęs savo prekių tiekėjui valstybės narės, iš kurios prekės išgabenamos, jam suteiktą PVM mokėtojo kodą. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
+
+
+
+
 10 straipsnis. Mainai
 
 
@@ -1046,6 +1189,14 @@ Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
 7. Jeigu tiekiamos prekės neturi būti gabenamos, laikoma, kad prekių tiekimas įvyko šalies teritorijoje tuo atveju, jeigu šios prekės buvo šalies teritorijoje tuo momentu, kai įvyko jų tiekimas.
 
 
+
+
+8. Jeigu tiekiamos prekės buvo gabenamos pagal prekių pristatymui, kad jos būtų patiektos pagal pareikalavimą, taikomas sąlygas, nustatytas šio Įstatymo 42 straipsnyje, laikoma, kad prekių tiekimas įvyko šalies teritorijoje tuo atveju, kai šių prekių gabenimas prasidėjo šalies teritorijoje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
@@ -1114,6 +1265,14 @@ Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
 
 
 3. Neatsižvelgiant į šio straipsnio 2 dalies nuostatas, tuo atveju, kai iš vienos valstybės narės į kitą valstybę narę išgabenamas prekes įsigyja Lietuvos Respublikoje registruotas PVM mokėtojas, kuris šias prekes iš karto toje kitoje valstybėje narėje patiekia asmeniui, kuriam toje kitoje valstybėje narėje nustatyta prievolė apskaičiuoti ir sumokėti už šias patiektas prekes PVM, o Lietuvos Respublikos PVM mokėtojas šio Įstatymo nustatyta tvarka šiuos sandorius deklaruoja prekių tiekimo į kitas valstybes nares ataskaitoje, nelaikoma, kad šis prekių įsigijimas iš kitos valstybės narės įvyko šalies teritorijoje.
+
+
+
+
+4. Laikoma, kad prekių įsigijimas iš kitos valstybės narės įvyko šalies teritorijoje ir tuo atveju, kai prekės įsigyjamos pagal prekių pristatymui, kad jos būtų patiektos pagal pareikalavimą, taikomas sąlygas, nustatytas šio Įstatymo 42 straipsnyje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
 
 
 Įstatymas papildytas straipsniu:
@@ -2441,7 +2600,10 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 
 
-3. PVM neapmokestinamas už šalies teritorijos ribų įsikūrusio apmokestinamojo asmens, įsiregistravusio PVM mokėtoju bet kurioje valstybėje narėje (išskyrus Lietuvos Respubliką), prekių įsigijimas iš kitos valstybės narės (kitos negu valstybė narė, kurioje jis įregistruotas PVM mokėtoju), kai šis asmuo šias prekes šalies teritorijoje iš karto patiekia PVM mokėtojui, kuriam pagal šį Įstatymą nustatyta prievolė apskaičiuoti ir sumokėti PVM už šias patiektas prekes.
+3. PVM neapmokestinamas už šalies teritorijos ribų įsikūrusio apmokestinamojo asmens, įsiregistravusio PVM mokėtoju bet kurioje kitoje valstybėje narėje, prekių įsigijimas iš kitos valstybės narės (kitos negu valstybė narė, kurios jam suteiktą PVM mokėtojo kodą jis nurodo įsigydamas šias prekes), kai šis asmuo šias prekes šalies teritorijoje iš karto patiekia PVM mokėtojui, kuriam pagal šį Įstatymą nustatyta prievolė apskaičiuoti ir sumokėti PVM už šias patiektas prekes. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
 
 
 
@@ -2486,7 +2648,10 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 
 
-2. Šio straipsnio nuostatos taikomos, jeigu importuotojas yra registruotas PVM mokėtoju Lietuvos Respublikoje, o prekės išgabenamos į kitą valstybę narę per terminą, ne ilgesnį kaip 1 mėnuo nuo apmokestinimo momento, nurodyto šio Įstatymo 14 straipsnio 12 arba 13 dalyje, dienos. Dėl objektyvių aplinkybių gali būti nustatytas ir ilgesnis išgabenimo terminas.
+2. Šio straipsnio nuostatos taikomos, jeigu importuotojas yra registruotas PVM mokėtoju Lietuvos Respublikoje, o prekės išgabenamos į kitą valstybę narę per terminą, ne ilgesnį kaip 7 dienos nuo apmokestinimo momento, nurodyto šio Įstatymo 14 straipsnio 12 arba 13 dalyje, dienos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
 
 
 
@@ -3063,7 +3228,10 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 49 straipsnis. Prekės, tiekiamos į kitą valstybę narę
 
 
-1. Taikant 0 procentų PVM tarifą apmokestinamos prekės, tiekiamos kitoje valstybėje narėje įregistruotam PVM mokėtojui ir išgabenamos iš šalies teritorijos į kitą valstybę narę (neatsižvelgiant į tai, kas (prekių tiekėjas, pirkėjas ar bet kurio iš jų užsakymu trečioji šalis) prekes gabena).
+1. Taikant 0 procentų PVM tarifą apmokestinamos prekės, tiekiamos kitoje valstybėje narėje įregistruotam PVM mokėtojui, kuris šių prekių tiekėjui nurodė tos kitos valstybės narės jam suteiktą PVM mokėtojo kodą, ir išgabenamos iš šalies teritorijos į kitą valstybę narę (neatsižvelgiant į tai, kas (prekių tiekėjas, pirkėjas ar bet kurio iš jų užsakymu trečioji šalis) prekes gabena). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
 
 
 
@@ -3084,6 +3252,14 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 
 5. 0 procentų PVM tarifas netaikomas prekėms, apmokestinamoms taikant specialią schemą, nustatytą šio Įstatymo XII skyriaus trečiajame skirsnyje, išgabenamoms į kitą valstybę narę.
+
+
+
+
+6. Šio straipsnio 1 dalies nuostatos netaikomos, kai prekių tiekėjas nevykdo šio Įstatymo 881 straipsnyje nustatytos prievolės pateikti prekių tiekimo ir (arba) paslaugų teikimo į kitas valstybes nares ataskaitą arba kai jo pateiktoje prekių tiekimo ir (arba) paslaugų teikimo į kitas valstybes nares ataskaitoje nėra pateikta pagal šio Įstatymo 881 straipsnio 3 dalį centrinio mokesčių administratoriaus nustatyto turinio teisinga informacija apie šį tiekimą, išskyrus atvejus, kai prekių tiekėjas gali tokį informacijos nepateikimą arba teisingos informacijos nepateikimą tinkamai pagrįsti centrinio mokesčių administratoriaus nustatytu būdu. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
 
 
 Straipsnio pakeitimai:
@@ -3303,7 +3479,10 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 56 straipsnis. 0 procentų PVM tarifo pritaikymo pagrįstumo įrodymas
 
 
-1. PVM mokėtojas, pritaikęs 0 procentų PVM tarifą pagal šio Įstatymo 41 straipsnį, privalo turėti dokumentus, įrodančius, kad prekės išgabentos iš Europos Sąjungos teritorijos. PVM mokėtojas, pritaikęs 0 procentų PVM tarifą pagal šio Įstatymo 49 straipsnį, privalo turėti įrodymus, kad prekės išgabentos iš šalies teritorijos, o tais atvejais, kai 0 procentų PVM tarifas taikomas prekes tiekiant kitoje valstybėje narėje registruotam PVM mokėtojui, – ir įrodymus, kad asmuo, kuriam prekės išgabentos, yra kitoje valstybėje narėje registruotas PVM mokėtojas, o kai 0 procentų PVM tarifas taikomas prekes tiekiant atvejais, nurodytais šio Įstatymo 4 straipsnio 1 dalies 2 punkte, – ir įrodymus, kad tenkinamos šio Įstatymo 4 straipsnio 1 dalies 2 punkte nurodytos sąlygos.
+1. PVM mokėtojas, pritaikęs 0 procentų PVM tarifą pagal šio Įstatymo 41 straipsnį, privalo turėti dokumentus, įrodančius, kad prekės išgabentos iš Europos Sąjungos teritorijos. PVM mokėtojas, pritaikęs 0 procentų PVM tarifą pagal šio Įstatymo 49 straipsnį, privalo turėti arba įrodymus, nurodytus Reglamento (ES) Nr. 282/2011 45a straipsnyje, arba kitus įrodymus, kad prekės išgabentos iš šalies teritorijos, ir įrodymus, kad asmuo, kuriam prekės išgabentos, yra kitoje valstybėje narėje registruotas PVM mokėtojas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
 
 
 
@@ -4278,6 +4457,14 @@ Nr. XII-2039, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18854
 
 
 
+51. Apmokestinamieji asmenys, iš šalies teritorijos išgabenantys prekes, skirtas pristatyti, kad jos būtų patiektos pagal pareikalavimą, kaip nustatyta šio Įstatymo 42 straipsnyje, ir apmokestinamieji asmenys, šalies teritorijoje įsigyjantys prekes, skirtas pristatyti, kad jos būtų patiektos pagal pareikalavimą, kaip nustatyta šio Įstatymo 42 straipsnyje, privalo pildyti tų prekių žurnalą. Gabentų prekių, skirtų pristatyti, kad jos būtų patiektos pagal pareikalavimą, žurnale reikalaujamus pateikti duomenis ir jų pateikimo (pildymo) tvarką nustato centrinis mokesčių administratorius. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
+
+
+
+
 6. Centrinis mokesčio administratorius turi teisę nustatyti ir kitus reikalavimus dėl PVM apskaičiavimui naudojamų apskaitos registrų, jų pildymo bei tvarkymo. 
 
 
@@ -4885,6 +5072,14 @@ Mokestinio laikotarpio PVM deklaracijos formą, reikalaujamus joje pateikti duom
 
 
 1. Jeigu apmokestinamasis asmuo buvo išregistruotas (paties prašymu ar mokesčio administratoriaus iniciatyva) iš PVM mokėtojų, per 20 dienų po išregistravimo jis privalo pateikti specialią išregistruojamo iš PVM mokėtojų arba likviduojamo asmens PVM deklaraciją ir joje šio Įstatymo nustatyta tvarka deklaruoti visas likusias prievoles, susijusias su PVM apskaičiavimu ir sumokėjimu. Jeigu PVM mokėtojas likviduojamas, pateikti specialią išregistruojamo iš PVM mokėtojų arba likviduojamo asmens PVM deklaraciją ir joje šio Įstatymo nustatyta tvarka deklaruoti visas likusias prievoles, susijusias su PVM apskaičiavimu ir sumokėjimu, privaloma iki likvidavimo.
+
+
+
+
+11. PVM mokėtojai, kurie išgabena prekes į kitą valstybę narę pagal prekių pristatymui, kad jos būtų patiektos pagal pareikalavimą, taikomas sąlygas, nustatytas šio Įstatymo 42 straipsnyje, tokį prekių išgabenimą privalo nurodyti prekių tiekimo ir (arba) paslaugų teikimo į kitas valstybes nares ataskaitoje pateikdami informaciją apie asmenų, nurodytų šio Įstatymo 42 straipsnio 1 dalies 3 punkte ar to paties straipsnio 2 dalyje PVM mokėtojo kodus ir informaciją apie bet kokį pateiktos informacijos pasikeitimą. Informacija pateikiama to kalendorinio mėnesio, kurį buvo išgabentos prekės arba pasikeitė informacija, prekių tiekimo ir (arba) paslaugų teikimo į kitas valstybes nares ataskaitoje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
 
 
 
@@ -7049,6 +7244,14 @@ Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
  
 
 
+
+
+21. 2018 m. gruodžio 4 d. Tarybos direktyva (ES) 2018/1910, kuria dėl tam tikrų pridėtinės vertės mokesčio sistemos taisyklių suderinimo ir supaprastinimo, susijusio su valstybių narių tarpusavio prekybos apmokestinimu, iš dalies keičiama Direktyva 2006/112/EB (OL 2018 L 311, p. 3). 
+Papildyta punktu:
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+ 
+
+
 Įstatymas papildytas priedu:
 Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Priedo pakeitimai:
@@ -7402,3 +7605,8 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1708, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20966
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 84 ir 85 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 4, 4-1, 5-1, 12, 12-2, 33-1, 35, 49, 56, 78, 88-1 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 4-2, 9-2 straipsniais įstatymas
