@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-03-19
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
  
@@ -277,6 +277,45 @@ Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 
 34. Tarptautinės teisės aktai – Pasaulio Sveikatos Organizacijos Asamblėjos patvirtintos taisyklės užkrečiamųjų ligų profilaktikos ir kontrolės klausimais, kiti Pasaulio Sveikatos Organizacijos Asamblėjos priimti teisės aktai, prie kurių įstatymų nustatyta tvarka yra prisijungusi Lietuvos Respublika.
+
+
+
+
+35. Dezinfekcija – daugelio arba visų mikroorganizmų, išskyrus kai kurias bakterijų sporas, sunaikinimas aplinkoje fizinėmis ir cheminėmis priemonėmis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2195, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09854
+ 
+
+
+
+
+36. Deratizacija – priemonių kompleksas, apimantis graužikų naikinimą specialiais metodais ir priemonėmis, taip pat jų profilaktiką, stebėjimą, atbaidymą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2195, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09854
+ 
+
+
+
+
+37. Dezinsekcija – priemonių kompleksas, apimantis nariuotakojų naikinimą specialiais metodais ir priemonėmis, taip pat jų profilaktiką, stebėjimą, atbaidymą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2195, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09854
+ 
+
+
+
+
+38. Nuolatinis užkrečiamosios ligos židinys – Vyriausybės įgaliotos institucijos patvirtintas pavojingos ar ypač pavojingos užkrečiamosios ligos židinys, kuriame negalimas privalomas aplinkos kenksmingumo pašalinimas (dezinfekcija, dezinsekcija, deratizacija) ir kuriame yra rizika užsikrėsti pavojinga ar ypač pavojinga užkrečiamąja liga. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2195, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09854
+ 
+
+
+
+
+39. Nuolatinio užkrečiamosios ligos židinio apsauginė zona – aplink nuolatinį užkrečiamosios ligos židinį žymintį ženklą esanti teritorija, kurioje dėl rizikos užsikrėsti pavojinga ar ypač pavojinga užkrečiamąja liga galioja Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nustatytos specialiosios žemės naudojimo sąlygos.
+Papildyta straipsnio dalimi:
+Nr. XIII-2195, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09854
  
 
 
@@ -760,6 +799,29 @@ Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 
 
 5. Pavojingų ir ypač pavojingų užkrečiamųjų ligų židiniuose privalomo aplinkos kenksmingumo pašalinimo (dezinfekcijos, dezinsekcijos, deratizacijos) tvarką tvirtina sveikatos apsaugos ministras.
+
+
+
+
+6. Pavojingų ar ypač pavojingų užkrečiamųjų ligų židiniai, kuriuose privalomas aplinkos kenksmingumo pašalinimas (dezinfekcija, dezinsekcija, deratizacija) negalimas, dėl jų keliamos rizikos užsikrėsti pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis Vyriausybės įgaliotos institucijos yra tvirtinami kaip nuolatiniai užkrečiamųjų ligų židiniai ir Vyriausybės įgaliotos institucijos yra paženklinami žemės sklypuose. Nuolatinių užkrečiamųjų ligų židinių ženklinimo tvarką nustato Vyriausybės įgaliota institucija. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2195, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09854
+ 
+
+
+
+
+7. Nuolatiniams užkrečiamųjų ligų židiniams nustatomos apsauginės zonos. Nuolatinių užkrečiamųjų ligų židinių apsauginių zonų dydį ir jose taikomas specialiąsias žemės naudojimo sąlygas nustato Specialiųjų žemės naudojimo sąlygų įstatymas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2195, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09854
+ 
+
+
+
+
+8. Kontrolę, kaip laikomasi nuolatinių užkrečiamųjų ligų židinių apsauginėse zonose taikomų specialiųjų žemės naudojimo sąlygų, pagal kompetenciją vykdo savivaldybių institucijos, Lietuvos Respublikos žemės ūkio ministerija, Lietuvos Respublikos aplinkos ministerija, Sveikatos apsaugos ministerija ar jų įgaliotos institucijos, Valstybinė maisto ir veterinarijos tarnyba ir kitos valstybės institucijos.
+Papildyta straipsnio dalimi:
+Nr. XIII-2195, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09854
  
 
 
@@ -1867,3 +1929,8 @@ Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
 Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 2, 22, 25, 26 ir 29 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2195, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09854
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 2 ir 14 straipsnių pakeitimo įstatymas
