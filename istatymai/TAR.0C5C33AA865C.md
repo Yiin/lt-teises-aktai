@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-25
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -1209,20 +1209,22 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
 
 
-3. Apsaugos zonų atstumai, apsaugos zonose galiojančios specialios žemės ir miško naudojimo sąlygos, apsaugos zonose ribojami darbai ir veiksmai, mažiausi leistini atstumai nuo vamzdynų ir kitų įrenginių iki statinių ir kitų objektų, žemės ir vandens paviršiaus nustatomi Vyriausybės ar jos įgaliotos institucijos patvirtintose gamtinių dujų vamzdynų ir kitų įrenginių apsaugos taisyklėse ir kituose teisės aktuose.
-Straipsnio dalies pakeitimai:
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
+3. Vienkartinė kompensacija nuostoliams, patiriamiems dėl specialiųjų žemės naudojimo sąlygų taikymo skirstomųjų dujotiekių apsaugos zonose, atlyginti apskaičiuojama atsižvelgiant į Vyriausybės patvirtintą metodiką. 
+
+
+
+
+4. Apsaugos zonų dydis ir specialiosios žemės naudojimo sąlygos šiose zonose nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme. Mažiausi leistini atstumai nuo vamzdynų ir kitų įrenginių iki statinių ir kitų objektų, žemės ir vandens paviršiaus nustatomi energetikos ministro patvirtintose gamtinių dujų vamzdynų ir kitų įrenginių apsaugos ir (ar) įrengimo taisyklėse.
+
+
+
+
+5. Didžiausią leistiną pastatų ir jų aukštų skaičių vietovės klasės teritorijoje ir vietovės klasės vienete, atsižvelgdama į magistralinio dujotiekio vamzdyno pavojingumo ir rizikos laipsnį, nustato Vyriausybė ar jos įgaliota institucija.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2175, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09949
  
-
-
-
-
-4. Didžiausią leistiną pastatų ir jų aukštų skaičių vietovės klasės teritorijoje ir vietovės klasės vienete, atsižvelgiant į magistralinio dujotiekio vamzdyno pavojingumo ir rizikos laipsnį, nustato Vyriausybė ar jos įgaliota institucija.
-Papildyta straipsnio dalimi:
-Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
- 
-
-
 
 
 
@@ -4249,3 +4251,8 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 7, 9, 20 ir 44 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2175, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09949
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 13 straipsnio pakeitimo įstatymas
