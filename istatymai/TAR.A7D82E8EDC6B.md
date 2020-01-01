@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
  
@@ -140,10 +140,10 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 4 straipsnis. Dalis akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus ir energetinius produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai, ir dalis akcizo pajamų, gautų už realizuotas suskystintas dujas, skirtas automobiliams
 
 
-1. Programai finansuoti skiriama 48 procentai akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus, suskystintas dujas, skirtas automobiliams, ir energetinius produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai. 
-TAR pastaba. 1 dalies nuostatos taikomos rengiant 2018 metų ir vėlesnių metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus.
+1. Programai finansuoti skiriama 50 procentų, o nuo 2021 m. sausio 1 d. – 52 procentai akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus, suskystintas dujas, skirtas automobiliams, ir energetinius produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai.
 Straipsnio dalies pakeitimai:
 Nr. XIII-812, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20006
+Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
  
 
 
@@ -536,37 +536,49 @@ Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
 
 
 
-3. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką ir paskiria institucijas šiam įstatymui įgyvendinti. Šio įstatymo įgyvendinimą prižiūri nuolatinė Programos komisija. Jos sudėtį ir nuostatus tvirtina Vyriausybė.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
+3. Specialiajai vietinės reikšmės žvyrkelių asfaltavimo programai finansuoti skiriama 2 procentai, o nuo 2021 m. sausio 1 d. – 4 procentai akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus, suskystintas dujas, skirtas automobiliams, ir energetinius produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
  
 
 
 
 
-4. Programos finansavimo lėšos naudojamos pagal iki atitinkamų metų vasario 1 dienos Vyriausybės patvirtintą metinę lėšų naudojimo sąmatą. Metinėje lėšų naudojimo sąmatoje numatomas iki 5 procentų Programos finansavimo lėšų rezervas valstybės reikmėms, susijusioms su keliais, finansuoti.
+4. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką ir paskiria institucijas šiam įstatymui įgyvendinti. Šio įstatymo įgyvendinimą prižiūri nuolatinė Programos komisija. Jos sudėtį ir nuostatus tvirtina Vyriausybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
+Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
+ 
+
+
+
+
+5. Programos finansavimo lėšos naudojamos pagal iki atitinkamų metų vasario 1 dienos Vyriausybės patvirtintą metinę lėšų naudojimo sąmatą. Metinėje lėšų naudojimo sąmatoje numatomas iki 5 procentų Programos finansavimo lėšų rezervas valstybės reikmėms, susijusioms su keliais, finansuoti.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2118, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08302
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
+Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
  
 
 
 
 
-5. Metinėje lėšų naudojimo sąmatoje numatoma 30 procentų Programos finansavimo lėšų valstybės institucijų ar viešųjų įstaigų, kurių dalininkė yra valstybė, valstybės įmonių, savivaldybių ar viešųjų įstaigų, kurių dalininkė yra savivaldybė, savivaldybių įmonių valdomiems vietinės reikšmės keliams tiesti, taisyti, prižiūrėti ir saugaus eismo sąlygoms užtikrinti.
+6. Metinėje lėšų naudojimo sąmatoje numatoma 30 procentų Programos finansavimo lėšų valstybės institucijų ar viešųjų įstaigų, kurių dalininkė yra valstybė, valstybės įmonių, savivaldybių ar viešųjų įstaigų, kurių dalininkė yra savivaldybė, savivaldybių įmonių valdomiems vietinės reikšmės keliams tiesti, taisyti, prižiūrėti ir saugaus eismo sąlygoms užtikrinti.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
+Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
  
 
 
 
 
-6. Vyriausybės nustatyta tvarka Programos finansavimo lėšos taip pat naudojamos perkėlimo keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į Kuršių neriją ir iš Kuršių nerijos bilieto kainai kompensuoti:
+7. Vyriausybės nustatyta tvarka Programos finansavimo lėšos taip pat naudojamos perkėlimo keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į Kuršių neriją ir iš Kuršių nerijos bilieto kainai kompensuoti:
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
+Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
  
 
 
@@ -630,9 +642,10 @@ Nr. XII-2571, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20663
 
 
 
-7. Programos finansavimo lėšos pagal Vyriausybės nustatytą tvarką naudojamos gyventojų ir jų lengvųjų automobilių neatlygintino perkėlimo užlietu krašto kelio Šilutė–Rusnė ruožu sąnaudoms kompensuoti.
+8. Programos finansavimo lėšos pagal Vyriausybės nustatytą tvarką naudojamos gyventojų ir jų lengvųjų automobilių neatlygintino perkėlimo užlietu krašto kelio Šilutė–Rusnė ruožu sąnaudoms kompensuoti.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
+Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
  
 
 
@@ -1617,3 +1630,8 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 3, 5, 6, 7, 9 straipsnių ir 3 priedo pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 4 ir 9 straipsnių pakeitimo įstatymas
