@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D66F6A760DE7"
 
 # Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas
 
-Suvestinė redakcija nuo 2018-05-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2023-01-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 53-1245, i. k. 0961010ISTA00I-1340
  
@@ -886,7 +886,10 @@ UOSTO ŽEMĖS NUOMA
 
 
 
-2. Ūkinės veiklos uosto rezervinėse teritorijose apribojimus, rezervinių teritorijų priežiūros bei tvarkymo tvarką nustato Lietuvos Respublikos Vyriausybė.
+2. Specialiosios žemės naudojimo sąlygos uosto rezervinėse teritorijose nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, rezervinių teritorijų priežiūros ir tvarkymo tvarką nustato Lietuvos Respublikos Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2180, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09962
+ 
 
 
 
@@ -1840,3 +1843,8 @@ Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 23
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1082, 2018-04-12, paskelbta TAR 2018-04-24, i. k. 2018-06511
 Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 31-2 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2180, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09962
+Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 22 straipsnio pakeitimo įstatymas
