@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.43F9A0BDB7EE"
 
 # Lietuvos Respublikos kultūros centrų įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 120-4435, i. k. 1041010ISTA0IX-2395
  
@@ -541,20 +541,15 @@ Kultūros centrų darbuotojų darbo santykius reglamentuoja Darbo kodeksas ir ki
 
 
 
-11 straipsnis. Kultūros centrų darbuotojų darbo apmokėjimas ir atestavimas 
+11 straipsnis. Kultūros centrų darbuotojų darbo apmokėjimas 
 
 
-1. Kultūros centrų darbuotojų darbo apmokėjimas nustatomas vadovaujantis Darbo kodekso ir kitų teisės aktų nustatyta tvarka. 
+Kultūros centrų darbuotojų darbo apmokėjimas nustatomas vadovaujantis Valstybės ir savivaldybių biudžetinių įstaigų darbuotojų darbo apmokėjimo įstatymo ir kitų teisės aktų nustatyta tvarka. 
 
 
-
-
-2. Valstybės ir savivaldybių kultūros centrų kultūros ir meno darbuotojus Kultūros ministerijos nustatyta tvarka atestuoja steigėjas. Į atestacijos komisijos sudėtį įeina ir Kultūros ministerijos atstovai.
-Straipsnio dalies pakeitimai:
-Nr. XI-732, 2010-04-08, Žin., 2010, Nr. 48-2282 (2010-04-27), i. k. 1101010ISTA00XI-732
+Straipsnio pakeitimai:
+Nr. XIII-2319, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12114
  
-
-
 
 
 
@@ -607,7 +602,10 @@ KULTŪROS CENTRŲ VEIKLOS VALSTYBINIS VALDYMAS
 
 
 
-7) tvirtina valstybės ir savivaldybių kultūros centrų kultūros ir meno darbuotojų atestavimo nuostatus ir atlieka atestavimo priežiūrą;
+7) Neteko galios nuo 2020-01-01
+Straipsnio punkto naikinimas:
+Nr. XIII-2319, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12114
+ 
 
 
 
@@ -658,7 +656,10 @@ Kitos ministerijos:
 
 
 
-3) organizuoja valstybės kultūros centrų kultūros ir meno darbuotojų kvalifikacijos kėlimą ir atestavimą;
+3) organizuoja valstybės kultūros centrų kultūros ir meno darbuotojų kvalifikacijos kėlimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2319, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12114
+ 
 
 
 
@@ -711,7 +712,10 @@ Savivaldybės taryba:
 
 
 
-6) organizuoja savivaldybės kultūros centrų kultūros ir meno darbuotojų kvalifikacijos kėlimą ir atestavimą;
+6) organizuoja savivaldybės kultūros centrų kultūros ir meno darbuotojų kvalifikacijos kėlimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2319, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12114
+ 
 
 
 
@@ -815,7 +819,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
  
 
 
@@ -837,3 +841,8 @@ Lietuvos Respublikos kultūros centrų įstatymo Nr. IX-2395 9 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1748, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20721
 Lietuvos Respublikos kultūros centrų įstatymo Nr. IX-2395 15 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2319, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12114
+Lietuvos Respublikos kultūros centrų įstatymo Nr. IX-2395 11, 12, 13 ir 14 straipsnių pakeitimo įstatymas
