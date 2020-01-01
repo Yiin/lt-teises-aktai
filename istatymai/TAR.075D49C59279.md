@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2023-01-03
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 151-0; Žin. 1991, Nr.24-635, i. k. 0911010ISTA00I-1607
  
@@ -384,7 +384,10 @@ Nr. XII-856, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04857
 
 
 
-5. Privatizuotini valstybinėje žemėje esantys miškai ir vandens telkiniai, įsiterpę į žemės ūkio paskirties žemės sklypus, gali būti parduodami šių žemės sklypų savininkams, o besiribojantys su žemės ūkio paskirties žemės sklypais valstybinėje žemėje esantys miškai ir vandens telkiniai gali būti parduodami šių žemės sklypų savininkams, jeigu miškai sudaro atskirus, ne didesnius kaip 1 ha masyvus, o vandens telkiniai yra iki 1 ha. Šiais atvejais miškai ir vandens telkiniai parduodami be aukciono žemės sklypų savininkams nesilaikant šiame straipsnyje nustatytos eilės.
+5. Privatizuotini valstybinėje žemėje esantys miškai, medžių savaiminukais apaugusi ne miško žemė, inventorizuota ir įtraukta į apskaitą kaip miškas (toliau – medžių savaiminukais apaugusi ne miško žemė), ir vandens telkiniai, įsiterpę į žemės ūkio paskirties žemės sklypus, gali būti parduodami šių žemės sklypų savininkams, o besiribojantys su žemės ūkio paskirties žemės sklypais valstybinėje žemėje esantys miškai, medžių savaiminukais apaugusi ne miško žemė ir vandens telkiniai gali būti parduodami šių žemės sklypų savininkams, jeigu miškai sudaro atskirus, ne didesnius kaip 1 ha masyvus, medžių savaiminukais apaugusi ne miško žemė sudaro atskirus, ne didesnius kaip 3 ha sklypus, o vandens telkiniai yra iki 1 ha. Šiais atvejais miškai, medžių  savaiminukais apaugusi ne miško žemė ir vandens telkiniai parduodami be aukciono žemės sklypų savininkams, nesilaikant šiame straipsnyje nustatytos eilės.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2466, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17212
+ 
 
 
 
@@ -1153,3 +1156,8 @@ Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 22 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1269, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10514
 Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2466, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17212
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 10 straipsnio pakeitimo įstatymas
