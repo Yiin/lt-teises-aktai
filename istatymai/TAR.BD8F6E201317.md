@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/bd8f6e20131711e9b2b6e7cdb14007b4"
 
 # Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2020-01-01
+ 
+Įstatymas paskelbtas: TAR 2019-01-08, i. k. 2019-00223
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 INFORMUOTIESIEMS INVESTUOTOJAMS SKIRTŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ ĮSTATYMO NR. XII-376 PAKEITIMO
 ĮSTATYMAS
@@ -3413,7 +3420,9 @@ priedas
 
 
 
-2. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1).“
+2. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1) su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156 (OL 2019 L 188, p. 55).“
+Punkto pakeitimai:
+Nr. XIII-2656, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20828
  
 
 
@@ -3460,21 +3469,27 @@ priedas
 
 
 
-5. 2020 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo 47 straipsnio 1 dalies redakcija:
+5. 2022 m. sausio 1 d. įsigalioja tokia šio įstatymo 1 straipsnyje išdėstyto Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo 47 straipsnio 1 dalies redakcija:
 
 
 
 
-„1. Valdymo įmonė ir investicinė bendrovė-valdytoja parengia kiekvieno savo valdomo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentą. Rengiant ir teikiant pagrindinės informacijos investuotojams dokumentą, laikomasi Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų.“
+„1. Valdymo įmonė ir investicinė bendrovė-valdytoja parengia kiekvieno savo valdomo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentą. Rengiant ir teikiant pagrindinės informacijos investuotojams dokumentą, laikomasi Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų.“ 
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2656, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20828
+ 
 
 
 
 
-6. 2020 m. sausio 1 d. netenka galios šio įstatymo 1 straipsnyje išdėstyto Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo priedo 1 punktas.
+6. 2022 m. sausio 1 d. netenka galios šio įstatymo 1 straipsnyje išdėstyto Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo priedo 1 punktas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2656, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20828
+ 
 
 
 
@@ -3497,3 +3512,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2656, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20828
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 pakeitimo įstatymo Nr. XIII-1873 1 ir 2 straipsnių pakeitimo įstatymas
