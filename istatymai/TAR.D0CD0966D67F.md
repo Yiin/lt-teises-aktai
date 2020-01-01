@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2019-12-31 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-03-18
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -3499,12 +3499,13 @@ Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
 
 
 
-9. Seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir Valstybės tarnybos įstatymu. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant Valstybės tarnybos įstatymo 17 straipsnio 2 ir 3 dalyse numatytas garantijas, kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, nustatytus šio straipsnio 10 dalyje, taip pat kai kitai 5 metų kadencijai priimamas seniūnas, kurio iki tol eitos kadencijos metu visi metiniai tarnybinės veiklos vertinimai buvo geri arba labai geri. Į seniūno pareigas negali būti priimamas asmuo taikant Valstybės tarnybos įstatymo 49 straipsnio 1 dalyje numatytą garantiją. Priimant į seniūno pareigas taip pat netaikomos Valstybės tarnybos įstatymo nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių; ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos išplėstinės seniūnaičių sueigos deleguoti asmenys. 
+9. Seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir Valstybės tarnybos įstatymu. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant Valstybės tarnybos įstatymo 17 straipsnio 2 ir 3 dalyse numatytas garantijas, kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, nustatytus šio straipsnio 10 dalyje, taip pat kai kitai 5 metų kadencijai priimamas seniūnas, kurio iki tol eitos kadencijos metu visi metiniai tarnybinės veiklos vertinimai buvo geri arba labai geri. Į seniūno pareigas negali būti priimamas asmuo taikant Valstybės tarnybos įstatymo 49 straipsnio 1 dalyje numatytą garantiją, išskyrus atvejus, kai dėl kitos seniūnijos – biudžetinės įstaigos reorganizavimo ar savivaldybės administracijoje atliekamos seniūnijų, kurių forma yra filialas, struktūrinės pertvarkos naikinama seniūno pareigybė. Priimant į seniūno pareigas taip pat netaikomos Valstybės tarnybos įstatymo nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių; ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos išplėstinės seniūnaičių sueigos deleguoti asmenys. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
 Nr. XIII-1064, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05882
 Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
 Nr. XIII-2321, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12360
+Nr. XIII-2659, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20994
  
 
 
@@ -3729,114 +3730,6 @@ ATSTOVAVIMAS GYVENAMŲJŲ VIETOVIŲ BENDRUOMENĖMS
  
 
 
-33 straipsnis. Seniūnaičio statusas
-
-
-1. Iš gyvenamųjų vietovių ar jų dalių yra sudaromos seniūnaitijos. Seniūnaitijos sudaromos nepriklausomai nuo to, ar steigiamos seniūnijos, ar nesteigiamos. Seniūnaitijų sudarymo projektą tvirtina meras savivaldybės administracijos direktoriaus teikimu.
-
-
-
-
-2. Seniūnaitijų gyventojai, turintys teisę rinkti šios savivaldybės tarybą, šio įstatymo ir savivaldybės tarybos nustatyta tvarka renka gyvenamosios vietovės bendruomenės atstovus – seniūnaičius. Seniūnaitis renkamas 3 metams. Seniūnaitis dirba visuomeniniais pagrindais. 
-
-
-
-
-3. Seniūnaičio rinkimų datą, suderinęs su savivaldybės administracijos direktoriumi, skelbia seniūnas. Jeigu seniūnijos neįsteigtos, seniūnaičio rinkimų datą skelbia savivaldybės administracijos direktorius. Seniūnaičio rinkimų data skelbiama ne vėliau kaip likus 15 dienų iki rinkimų. Seniūnaičio rinkimų data, rinkimų būdas ir kita aktuali informacija apie seniūnaičio rinkimus skelbiama savivaldybės interneto svetainėje, viešai savivaldybės ir seniūnijos patalpose, skelbimų lentose (ten, kur jos oficialiai įrengtos) ir vietinėse ar regioninėse visuomenės informavimo priemonėse. 
-
-
-
-
-4. Kandidatus į seniūnaičius gali siūlyti tik tos seniūnaitijos, kurioje renkamas seniūnaitis, gyventojai, bendruomeninės organizacijos.
-
-
-
-
-5. Kandidatu į seniūnaičius gali būti pilnametis seniūnaitijos gyventojas, deklaravęs gyvenamąją vietą toje seniūnaitijoje, kurioje jo kandidatūra siūloma į seniūnaičius. 
-
-
-
-
-6. Seniūnaičiu negali būti renkamas asmuo, kuris:
-
-
-1) įstatymų nustatyta tvarka pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą;
-
-
-
-
-2) yra įstatymų nustatyta tvarka uždraustos organizacijos narys.
-
-
-TAR pastaba. 6 dalies nuostatos dėl apribojimų asmenims būti renkamiems seniūnaičiais taikomos tik po įstatymo Nr. XII-2494 įsigaliojimo (2017-01-01) renkamiems seniūnaičiams.
-
-
-
-
-7. Seniūnaičiu negali būti renkamas tos savivaldybės tarybos narys, savivaldybės administracijos direktorius, savivaldybės kontrolierius, savivaldybės administracijos valstybės tarnautojas.
-TAR pastaba. 7 dalies nuostatos dėl apribojimų asmenims būti renkamiems seniūnaičiais taikomos tik po įstatymo Nr. XII-2494 įsigaliojimo (2017-01-01) renkamiems seniūnaičiams.
-
-
-
-
-8. Seniūnaičiu negali būti renkamas asmuo, kuris teismo pripažintas neveiksniu tam tikroje srityje.
-TAR pastaba. 8 dalies nuostatos dėl apribojimų asmenims būti renkamiems seniūnaičiais taikomos tik po įstatymo Nr. XII-2494 įsigaliojimo (2017-01-01) renkamiems seniūnaičiams.
-
-
-
-
-9. Seniūnaitijose, kuriose gyvena ne daugiau kaip 500 gyventojų, seniūnaičiai paprastai renkami gyventojų susirinkime, kurį savivaldybės tarybos nustatyta tvarka organizuoja seniūnas. Jeigu seniūnija neįsteigta, gyventojų susirinkimą organizuoja savivaldybės administracijos direktoriaus paskirtas valstybės tarnautojas. Seniūnaitis renkamas balsuojant. Išrinktas seniūnaičiu laikomas tas kandidatas, kuris surinko daugiausiai susirinkime dalyvavusių gyventojų balsų.
-
-
-
-
-10. Seniūnaitijose, kuriose gyvena daugiau kaip 500 gyventojų, seniūnaičiai paprastai renkami savivaldybės tarybos nustatyta tvarka apklausiant gyventojus. Išrinktu seniūnaičiu laikomas daugiausiai balsų per apklausą gavęs kandidatas.
-
-
-
-
-11. Rinkimai laikomi įvykusiais, jeigu rinkimuose dalyvauja ne mažiau kaip 5 procentai seniūnaitijos gyventojų, turinčių teisę rinkti seniūnaitį. Neįvykus rinkimams, pakartotiniai rinkimai organizuojami ne vėliau kaip po 2 mėnesių. Pakartotiniams rinkimams netaikomas šioje dalyje nustatytas reikalavimas dėl rinkimuose dalyvaujančių gyventojų skaičiaus.
-
-
-
-
-12. Išrinktam seniūnaičiui ne vėliau kaip per 10 darbo dienų po rinkimų įteikiamas savivaldybės administracijos direktoriaus nustatytos formos seniūnaičio pažymėjimas, kuriame įrašomi šie duomenys:
-
-
-1) seniūnaičio vardas ir pavardė;
-
-
-
-
-2) savivaldybės, seniūnijos (jeigu ji yra įsteigta) ir seniūnaitijos, kurios gyventojų atstovu asmuo išrinktas, pavadinimas;
-
-
-
-
-3) išrinkimo seniūnaičiu data.
-
-
-
-
-
-
-13. Seniūnaičio pažymėjime turi būti seniūnaičio atvaizdas (nuotrauka). Seniūnaičio pažymėjimas turi būti pasirašytas mero. Seniūnaičio pažymėjimas nėra asmens tapatybę patvirtinantis dokumentas. 
-
-
-
-
-14. Seniūnaitį atšaukia iš pareigų savivaldybės administracijos direktorius, jeigu nepasitikėjimą seniūnaičiu pareiškia ne mažiau kaip 5 procentai seniūnaitijos gyventojų, turinčių teisę rinkti seniūnaitį. Seniūnaičio atšaukimo tvarką nustato savivaldybės taryba.
-
-
-
-
-15. Jeigu seniūnaitis atsisako savo įgaliojimų, yra atšaukiamas iš pareigų arba negali eiti pareigų dėl ligos ar dėl kitų priežasčių, organizuojami nauji seniūnaičio rinkimai.
-16. Seniūnaičiui su jo, kaip seniūnaičio, veikla susijusioms kanceliarijos, pašto, telefono, interneto ryšio, transporto išlaidoms apmokėti, kiek jų nesuteikia ar tiesiogiai neapmoka savivaldybės administracija, gali būti skiriama išmoka, už kurią atsiskaitoma ne rečiau kaip vieną kartą per metus. Šios išmokos dydį ir atsiskaitymo tvarką nustato tos savivaldybės taryba.
-
-
-
-
-33 straipsnio redakcija taikoma savivaldybėse, kuriose į pirmą posėdį susirinko 2019 metais išrinktos savivaldybių tarybos:
 33 straipsnis. Seniūnaitijų sudarymas ir seniūnaičio statusas
 
 
@@ -3946,8 +3839,6 @@ TAR pastaba. 8 dalies nuostatos dėl apribojimų asmenims būti renkamiems seni�
 
 
 17. Išrinktiems seniūnaičiams per 3 mėnesius nuo jų išrinkimo dienos savivaldybės administracijos direktoriaus nustatyta tvarka organizuojami mokymai, skirti įgyti kompetencijos, būtinos tinkamai atlikti šiame įstatyme nustatytas seniūnaičių funkcijas. 
-
-
 
 
 Straipsnio pakeitimai:
@@ -4240,11 +4131,13 @@ Nr. XI-2387, 2012-11-08, Žin., 2012, Nr. 136-6958 (2012-11-24)
 39 straipsnis. Apklausos teritorija
 
 
-Apklausa gali būti surengta visoje savivaldybės teritorijoje, seniūnijos (kelių seniūnijų) aptarnaujamoje teritorijoje (aptarnaujamose teritorijose) ar jos (jų) dalyse arba gyvenamosios vietovės teritorijoje ar jos dalyje. Apklausos teritorija parenkama atsižvelgiant į tai, kokios teritorijos gyventojams yra aktualūs apklausai teikiami klausimai.
+Apklausa gali būti surengta visoje savivaldybės teritorijoje, seniūnijos (kelių seniūnijų) aptarnaujamoje teritorijoje (aptarnaujamose teritorijose) ar jos (jų) dalyse arba gyvenamosios vietovės teritorijoje ar jos dalyje. Kai apklausą inicijuoja savivaldybės taryba, meras ar seniūnas, apklausos teritorija nustatoma atsižvelgiant į tai, kokios teritorijos gyventojams yra aktualūs apklausai teikiami klausimai. Kai apklausą inicijuoja savivaldybės gyventojai, apklausos teritoriją pasiūlo apklausos iniciatorius, atsižvelgdamas į teritorinį suskirstymą ir į tai, kokios teritorijos gyventojams yra aktualūs apklausai teikiami klausimai. Galutinį sprendimą dėl apklausos teritorijos priima savivaldybės taryba. Savivaldybės taryba po to, kai yra surinktas reikiamas parašų dėl reikalavimo paskelbti apklausą skaičius ir nenustatyta parašų rinkimo pažeidimų, turi teisę parinkti kitą negu apklausos iniciatoriaus pasiūlyta apklausos teritorija. Tokiu atveju netaikomas 40 straipsnio 2 dalyje nustatytas reikalavimas. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-2387, 2012-11-08, Žin., 2012, Nr. 136-6958 (2012-11-24)
+Straipsnio pakeitimai:
+Nr. XIII-2496, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17226
  
 
 
@@ -4258,7 +4151,10 @@ Nr. XI-2387, 2012-11-08, Žin., 2012, Nr. 136-6958 (2012-11-24)
 
 
 
-2. Gyventojai apklausos paskelbimo iniciatyvos teisę įgyvendina ne mažiau kaip 5 procentų apklausos teritorijos gyventojų, turinčių teisę rinkti šios savivaldybės tarybą, reikalavimu.
+2. Gyventojai apklausos paskelbimo iniciatyvos teisę įgyvendina ne mažiau kaip 5 procentų siūlomos apklausos teritorijos gyventojų, turinčių teisę rinkti šios savivaldybės tarybą, reikalavimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2496, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17226
+ 
 
 
 
@@ -4287,7 +4183,10 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-2. Iniciatyvinės grupės prašyme turi būti nurodyta: preliminarus arba galutinis apklausai teikiamo (teikiamų) klausimo (klausimų) tekstas, siūlomas apklausos būdas ir iniciatyvinės grupės atstovas (atstovai). Be to, iniciatyvinės grupės prašyme gali būti pasiūlyta apklausos teritorija. Prašymą pasirašo visi iniciatyvinės grupės nariai.
+2. Iniciatyvinės grupės prašyme turi būti nurodyta: preliminarus arba galutinis apklausai teikiamo (teikiamų) klausimo (klausimų) tekstas, siūlomas apklausos būdas, siūloma apklausos teritorija ir iniciatyvinės grupės atstovas (atstovai). Prašymą pasirašo visi iniciatyvinės grupės nariai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2496, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17226
+ 
 
 
 
@@ -5552,3 +5451,13 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 31 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2767, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21573
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 9 ir 9-1 straipsnių pakeitimo įstatymas
+ 
+42.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2496, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17226
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 39, 40 ir 41 straipsnių pakeitimo įstatymas
+ 
+43.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2659, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20994
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 31 straipsnio pakeitimo įstatymas
