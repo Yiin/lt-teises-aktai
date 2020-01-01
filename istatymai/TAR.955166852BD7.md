@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.955166852BD7"
 
 # Lietuvos Respublikos valstybės politikų elgesio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Valstybės politikų elgesio kodeksas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 102-3938, i. k. 1061010ISTA000X-816
  
@@ -75,6 +75,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
+ 
  
 PATVIRTINTAS
 2006 m. rugsėjo 19 d. įstatymu Nr. X-816
@@ -310,7 +311,10 @@ Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
 
 
 
-2. Valstybės politiko elgesio tyrimas pradedamas ne vėliau kaip per 10 dienų nuo šio straipsnio 1 dalyje nurodyto pagrindo atsiradimo. Komisija tiria galimus pažeidimus, jeigu nuo jų padarymo praėjo ne daugiau kaip 1 metai. Anoniminiai skundai nenagrinėjami. Komisijos atliekamas pažeidimo tyrimas turi būti baigtas ne vėliau kaip per 30 dienų nuo tyrimo pradžios. Į šį terminą neįskaičiuojamas politiko laikinojo nedarbingumo, atostogų laikas ir laikas, kai politikas yra išvykęs į tarnybinę komandiruotę. Prireikus Komisija gali, bet ne ilgiau kaip dviem mėnesiams pratęsti šioje straipsnio dalyje nustatytą tyrimo terminą.
+2. Valstybės politiko elgesio tyrimas pradedamas ne vėliau kaip per 10 dienų nuo šio straipsnio 1 dalyje nurodyto pagrindo atsiradimo. Komisija tiria galimus pažeidimus, jeigu nuo jų padarymo praėjo ne daugiau kaip vieni metai. Anoniminiai skundai nenagrinėjami. Komisijos atliekamas pažeidimo tyrimas turi būti baigtas ne vėliau kaip per tris mėnesius nuo tyrimo pradžios. Į šį terminą neįskaičiuojamas politiko laikinojo nedarbingumo, atostogų laikas ir laikas, kai politikas yra išvykęs į tarnybinę komandiruotę. Prireikus Komisija gali, bet ne ilgiau kaip vienam mėnesiui pratęsti šioje dalyje nustatytą tyrimo terminą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2276, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11197
+ 
 
 
 
@@ -539,11 +543,16 @@ Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
 10 straipsnis. Sprendimų apskundimas
 
 
-Komisijos sprendimai gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka per vieną mėnesį nuo sprendimo paskelbimo arba jo įteikimo valstybės politikui, dėl kurio yra priimtas sprendimas, dienos. 
+1. Šio kodekso 6 straipsnio 1 dalies 2 punkte nurodytų komisijų priimti sprendimai gali būti skundžiami Vyriausiajai tarnybinės etikos komisijai per vieną mėnesį nuo sprendimo paskelbimo arba jo įteikimo valstybės politikui, dėl kurio yra priimtas sprendimas, dienos.
 
 
-Papildyta straipsniu:
-Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
+
+
+2. Šio kodekso 6 straipsnio 1 dalies 1 punkte ir 2 dalyje nurodytų komisijų priimti sprendimai gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka per vieną mėnesį nuo sprendimo paskelbimo arba jo įteikimo valstybės politikui, dėl kurio yra priimtas sprendimas, dienos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2276, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11197
  
 
 
@@ -566,3 +575,8 @@ Lietuvos Respublikos valstybės politikų elgesio kodekso 3 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
 Lietuvos Respublikos valstybės politikų elgesio kodekso 2, 5, 7 ir 9 straipsnių pakeitimo ir Kodekso papildymo 10 straipsniu įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2276, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11197
+Lietuvos Respublikos valstybės politikų elgesio kodekso 7 ir 10 straipsnių pakeitimo įstatymas
