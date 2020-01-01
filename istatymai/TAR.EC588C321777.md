@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2019-12-31 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -891,6 +891,19 @@ Nakties metas yra paros laikas nuo 22 iki 6 valandos.
 
 Papildyta straipsniu:
 Nr. XII-2194, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-20993
+ 
+
+
+
+
+272 straipsnis. Nepilnamečio individualus vertinimas
+
+
+Nepilnamečio įtariamojo ar kaltinamojo individualus vertinimas yra informacijos apie nepilnamečio įtariamojo ar kaltinamojo asmenybę, jo aplinką ir poreikius apsaugos, švietimo ir socialinės integracijos srityse apibendrinimas, kurį atlieka valstybinė vaiko teisių apsaugos institucija ar laisvės atėmimo įstaiga, kurioje nepilnametis laikomas.
+
+
+Papildyta straipsniu:
+Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
  
 
 
@@ -3935,14 +3948,16 @@ Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
 
 
 
-114 straipsnis. Civilinio ieškinio perdavimas bankroto bylą nagrinėjančiam teismui
+114 straipsnis. Civilinio ieškinio perdavimas bankroto ar restruktūrizavimo bylą nagrinėjančiam teismui
 
 
-Jeigu į baudžiamąją bylą kaip civilinis atsakovas įtraukta įmonė ar fizinis asmuo, kuriems iškelta bankroto byla, civilinis ieškinys šioje baudžiamojoje byloje gali būti nenagrinėjamas, o visi su civiliniu ieškiniu susiję dokumentai prokuroro nutarimu ar teismo nutartimi gali būti perduodami bankroto bylą nagrinėjančiam teismui. Apie tai turi būti pranešta civiliniam ieškovui ir jam turi būti išaiškintos jo teisės bankroto byloje.
+Jeigu į baudžiamąją bylą kaip civilinis atsakovas įtrauktas juridinis asmuo ar fizinis asmuo, kuriems iškelta bankroto ar restruktūrizavimo byla, civilinis ieškinys šioje baudžiamojoje byloje gali būti nenagrinėjamas, o visi su civiliniu ieškiniu susiję dokumentai prokuroro nutarimu ar teismo nutartimi gali būti perduodami bankroto ar restruktūrizavimo bylą nagrinėjančiam teismui. Apie tai turi būti pranešta civiliniam ieškovui ir jam turi būti išaiškintos jo teisės bankroto ar restruktūrizavimo byloje. 
+Straipsnio pakeitimai:
+Nr. XI-2003, 2012-05-10, Žin., 2012, Nr. 57-2826 (2012-05-19)
 
 
 Straipsnio pakeitimai:
-Nr. XI-2003, 2012-05-10, Žin., 2012, Nr. 57-2826 (2012-05-19)
+Nr. XIII-2225, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10339
  
 
 
@@ -6841,6 +6856,34 @@ Nr. XII-1848, 2015-06-23, paskelbta TAR 2015-07-09, i. k. 2015-11213
  
 
 
+
+
+
+
+1891 straipsnis. Nepilnamečio individualaus vertinimo tvarka
+
+
+1. Pirmą kartą apklausus nepilnametį įtariamąjį, ikiteisminį tyrimą atliekantis ikiteisminio tyrimo pareigūnas ar prokuroras nedelsdamas kreipiasi į valstybinę vaiko teisių apsaugos instituciją dėl nepilnamečio įtariamojo individualaus vertinimo Lietuvos Respublikos socialinės apsaugos ir darbo ministro nustatyta tvarka ir forma. Valstybinė vaiko teisių apsaugos institucija turi teisę gauti iš savivaldybės pedagoginės psichologinės tarnybos duomenis apie nepilnamečio specialius ugdymosi poreikius, asmenybės ir brandos vertinimą.  Šiuos duomenis savivaldybės pedagoginė psichologinė tarnyba turi pateikti ne vėliau kaip per dešimt darbo dienų nuo kreipimosi  gavimo. Jeigu nepilnametis yra suimtas, kreipimasis dėl jo individualaus vertinimo pateikiamas laisvės atėmimo vietai, kurioje šis nepilnametis laikomas. Nepilnamečio individualus vertinimas turi būti atliktas ir informacijos apibendrinimas nustatyta rašytine forma pateiktas ikiteisminio tyrimo pareigūnui ar prokurorui ne vėliau kaip per dvidešimt penkias darbo dienas nuo kreipimosi gavimo dienos. 
+
+
+
+
+2. Į nepilnamečio individualaus vertinimo duomenis atsižvelgiama parenkant nepilnamečiui kardomąsias ir kitas procesines prievartos priemones, priimant sprendimus dėl ikiteisminio tyrimo nutraukimo ar bylos perdavimo teismui, organizuojant proceso veiksmus su nepilnamečiu įtariamuoju ar nepilnamečiu kaltinamuoju, priimant sprendimus dėl bausmės, baudžiamojo ar auklėjamojo poveikio priemonių skyrimo nepilnamečiui. 
+
+
+
+
+3. Iš esmės pasikeitus aplinkybėms, kurios sudarė nepilnamečio individualaus vertinimo turinį, ikiteisminio tyrimo pareigūnas, prokuroras ar teismas savo iniciatyva arba nepilnamečio įtariamojo arba jo gynėjo ar nepilnamečio kaltinamojo arba jo gynėjo prašymu kreipiasi dėl papildomo ar pakartotinio nepilnamečio individualaus vertinimo. 
+
+
+
+
+4. Bylose, kurios tiriamos pagreitinto proceso tvarka arba kuriose priimamas teismo baudžiamasis įsakymas, taip pat bylose dėl nesunkių ar neatsargių nusikaltimų arba dėl baudžiamųjų nusižengimų nepilnamečio individualus vertinimas gali būti neatliekamas, jeigu tai neprieštarauja nepilnamečio interesams.
+
+
+Papildyta straipsniu:
+Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
+ 
 
 
 
@@ -11607,7 +11650,10 @@ Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
 
 
-7) dėl baudžiamojo poveikio priemonių – turto konfiskavimo ir išplėstinio turto konfiskavimo – antstoliams;
+7) dėl baudžiamojo poveikio priemonių – turto konfiskavimo ir išplėstinio turto konfiskavimo – antstoliui arba ikiteisminį tyrimą atlikusiai institucijai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2269, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11190
+ 
 
 
 
@@ -11946,12 +11992,18 @@ Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
 
 
 
-6. Jeigu nuosprendžiu paskirta baudžiamojo poveikio priemonė – turto konfiskavimas arba išplėstinis turto konfiskavimas, nuosprendį paskelbęs teismas nuosprendžio nuorašą, konfiskuotino turto dokumentų nuorašus ir vykdomąjį raštą išsiunčia nuosprendžio vykdymo vietos antstoliui ir apie tai raštu praneša teritorinei valstybinei mokesčių inspekcijai.
+6. Jeigu nuosprendžiu paskirta baudžiamojo poveikio priemonė – turto konfiskavimas arba išplėstinis turto konfiskavimas, kai konfiskuotas turtas buvo paimtas ir yra valstybės institucijos žinioje arba buvo apribotos nuosavybės teisės į šį turtą, nuosprendį paskelbęs teismas nuosprendžio nuorašą ir konfiskuoto turto dokumentų nuorašus išsiunčia ikiteisminį tyrimą atlikusiai institucijai, o ši išsprendžia konfiskuoto turto perdavimo realizuoti ar sunaikinimo klausimą. Tais atvejais, kai atliekant ikiteisminį tyrimą nebuvo apribotos nuosavybės teisės į konfiskuotiną turtą, arba Lietuvos Respublikos baudžiamojo kodekso 72 straipsnio 5 dalyje nustatytu atveju teismui nusprendus išieškoti konfiskuotino turto vertę atitinkančią pinigų sumą, nuosprendį paskelbęs teismas nuosprendžio nuorašą, konfiskuoto turto dokumentų nuorašus ir vykdomąjį raštą išsiunčia nuosprendžio vykdymo vietos antstoliui. Turto konfiskavimą ir pinigų sumų išieškojimą antstolis vykdo Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2269, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11190
+ 
 
 
 
 
-7. Antstolis, perdavęs konfiskuotą turtą teritorinei valstybinei mokesčių inspekcijai, ne vėliau kaip per 3 dienas grąžina nuosprendį priėmusiam teismui vykdomąjį raštą su įrašu, kad turtas konfiskuotas.
+7. Neteko galios 2020-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2269, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11190
+ 
 
 
 
