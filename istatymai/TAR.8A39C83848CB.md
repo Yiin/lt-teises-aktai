@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-04-23
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -6455,7 +6455,15 @@ Už juridinio asmens dokumentų, duomenų bei kitos juridinių asmenų registrui
 
 
 
-6) akcinės bendrovės ar uždarosios akcinės bendrovės įstatinis kapitalas yra mažesnis už įstatymuose nustatytą minimalų įstatinio kapitalo dydį.
+6) akcinės bendrovės ar uždarosios akcinės bendrovės įstatinis kapitalas yra mažesnis už įstatymuose nustatytą minimalų įstatinio kapitalo dydį;
+
+
+
+
+7) teismas priima nutartį atsisakyti iškelti nemokaus juridinio asmens bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą juridinių asmenų registro tvarkytojo iniciatyva ir apie tai praneša juridinių asmenų registro tvarkytojui. 
+Papildyta straipsnio punktu:
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -6475,32 +6483,58 @@ Nr. XII-1225, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14523
 
 
 
-4. Inicijuojamas juridinio asmens likvidavimas gali būti atšauktas teismo sprendimu Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka. Kreiptis į teismą su prašymu atšaukti inicijuojamą juridinio asmens likvidavimą gali juridinio asmens dalyvis ar valdymo organo narys per vienerius metus nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo. Teismas, priėmęs šį prašymą, taip pat priėmęs sprendimą dėl inicijuojamo juridinio asmens likvidavimo atšaukimo, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui. Registro tvarkytojas, gavęs pranešimą apie teismo sprendimą dėl inicijuojamo juridinio asmens likvidavimo atšaukimo, juridinių asmenų registro nuostatuose nustatyta tvarka išregistruoja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą. Apie tai registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje.
+4. Kai yra šio straipsnio 1 dalies 7 punkte numatytos aplinkybės, asmuo, padavęs teismui pareiškimą dėl juridinio asmens bankroto bylos iškėlimo ir pagal juridinių asmenų nemokumą reglamentuojantį įstatymą nesumokėjęs teismo nustatytos bankroto administravimo išlaidoms apmokėti skirtos sumos, neturi teisės neigti aplinkybių dėl juridinio asmens likvidavimo pagrindo buvimo šio straipsnio 3 dalyje nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
+ 
 
 
 
 
-5. Juridinio asmens kreditoriai turi teisę pareikšti ieškinį teisme dėl skolininko prievolių įvykdymo ar bankroto bylos iškėlimo per vienerių metų ieškinio senaties terminą, skaičiuojamą nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo. Teismas, priėmęs šioje dalyje numatytą ieškinį, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui. Registro tvarkytojas, gavęs šį teismo pranešimą, juridinių asmenų registro nuostatuose nustatyta tvarka išregistruoja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą.
+5. Inicijuojamas juridinio asmens likvidavimas gali būti atšauktas teismo sprendimu Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka. Kreiptis į teismą su prašymu atšaukti inicijuojamą juridinio asmens likvidavimą gali juridinio asmens dalyvis ar valdymo organo narys per vienerius metus nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo. Teismas, priėmęs šį prašymą, taip pat priėmęs sprendimą dėl inicijuojamo juridinio asmens likvidavimo atšaukimo, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui. Registro tvarkytojas, gavęs pranešimą apie teismo sprendimą dėl inicijuojamo juridinio asmens likvidavimo atšaukimo, juridinių asmenų registro nuostatuose nustatyta tvarka išregistruoja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą. Apie tai registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
+ 
 
 
 
 
-6. Jeigu teismas nepriėmė šio straipsnio 4 dalyje nurodyto prašymo ir 5 dalyje nurodyto ieškinio arba teismas inicijuojamo juridinio asmens likvidavimo neatšaukia, juridinių asmenų registro tvarkytojas juridinių asmenų registro nuostatuose nustatyta tvarka priima sprendimą likviduoti juridinį asmenį ir juridinis asmuo įgyja likviduojamo juridinio asmens statusą. Apie tai registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje. 
+6. Juridinio asmens kreditoriai turi teisę pareikšti ieškinį teisme dėl skolininko prievolių įvykdymo ar bankroto bylos iškėlimo per vienerių metų ieškinio senaties terminą, skaičiuojamą nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo. Teismas, priėmęs šioje dalyje numatytą ieškinį, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui. Registro tvarkytojas, gavęs šį teismo pranešimą, juridinių asmenų registro nuostatuose nustatyta tvarka išregistruoja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
+ 
 
 
 
 
-7. Juridinį asmenį likviduojant  juridinių asmenų registro tvarkytojo iniciatyva, likvidatorius neskiriamas. Juridinių asmenų registro tvarkytojo iniciatyva likviduojamo juridinio asmens valdymo organai netenka įgaliojimų nuo šio straipsnio 6 dalyje nurodyto sprendimo priėmimo. Šiuo atveju juridinių asmenų registro tvarkytojas atlieka šiame straipsnyje ir juridinių asmenų registro nuostatuose nustatytus veiksmus, reikalingus juridiniam asmeniui, likviduojamam juridinių asmenų registro tvarkytojo iniciatyva, išregistruoti.
+7. Jeigu teismas nepriėmė šio straipsnio 5 dalyje nurodyto prašymo ir 6 dalyje nurodyto ieškinio arba teismas inicijuojamo juridinio asmens likvidavimo neatšaukia, juridinių asmenų registro tvarkytojas juridinių asmenų registro nuostatuose nustatyta tvarka priima sprendimą likviduoti juridinį asmenį ir juridinis asmuo įgyja likviduojamo juridinio asmens statusą. Apie tai registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
+ 
 
 
 
 
-8. Pasibaigusio juridinio asmens dalyviai trejus metus yra solidariai atsakingi ir privalo atlyginti žalą, kurią kreditoriai patyrė dėl to, kad juridinis asmuo likviduotas juridinių asmenų registro tvarkytojo iniciatyva dėl juridinio asmens dalyvių nesąžiningų veiksmų.
+8. Juridinį asmenį likviduojant juridinių asmenų registro tvarkytojo iniciatyva, likvidatorius neskiriamas. Juridinių asmenų registro tvarkytojo iniciatyva likviduojamo juridinio asmens valdymo organai netenka įgaliojimų nuo šio straipsnio 7 dalyje nurodyto sprendimo priėmimo. Šiuo atveju juridinių asmenų registro tvarkytojas atlieka šiame straipsnyje ir juridinių asmenų registro nuostatuose nustatytus veiksmus, reikalingus juridiniam asmeniui, likviduojamam juridinių asmenų registro tvarkytojo iniciatyva, išregistruoti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
+ 
 
 
 
 
-9. Šiame straipsnyje nustatyti juridinių asmenų registro tvarkytojo veiksmai gali būti skundžiami teismui įstatymų nustatyta tvarka.
+9. Pasibaigusio juridinio asmens dalyviai trejus metus yra solidariai atsakingi ir privalo atlyginti žalą, kurią kreditoriai patyrė dėl to, kad juridinis asmuo likviduotas juridinių asmenų registro tvarkytojo iniciatyva dėl juridinio asmens dalyvių nesąžiningų veiksmų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
+ 
+
+
+
+
+10. Šiame straipsnyje nustatyti juridinių asmenų registro tvarkytojo veiksmai gali būti skundžiami teismui įstatymų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
+ 
 
 
 Straipsnio pakeitimai:
@@ -7533,7 +7567,10 @@ Juridinio asmens likvidavimo pagrindai gali būti tik šie:
 
 
 
-2) teismo ar kreditorių susirinkimo sprendimas likviduoti bankrutavusį juridinį asmenį;
+2) teismo ar kreditorių susirinkimo sprendimas likviduoti juridinį asmenį dėl bankroto; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
+ 
 
 
 
@@ -35641,11 +35678,17 @@ Devintasis skirsnis
 6.410 straipsnis. Atvejai, kuriais šio skirsnio normos netaikomos
 
 
-Šio skirsnio normos, reglamentuojančios įmonės pirkimą–pardavimą, netaikomos tais atvejais, kai parduodamas įkeistas įmonės turtas, taip pat kai įmonės turtą parduoda jos administratorius ar antstolis.
+1. Šio skirsnio normos, reglamentuojančios įmonės pirkimą–pardavimą, netaikomos tais atvejais, kai parduodamas įkeistas įmonės turtas, taip pat kai įmonės turtą parduoda antstolis.
+
+
+
+
+2. Šio skirsnio normos, reglamentuojančios įmonės pirkimą–pardavimą, bankroto proceso metu taikomos tiek, kiek juridinių asmenų nemokumą reglamentuojantis įstatymas nenustato kitaip. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
  
 
 
@@ -38996,7 +39039,10 @@ Lizingo davėjas, pirkdamas daiktą lizingui, privalo pranešti pardavėjui, kad
 
 
 
-2. Lizingo gavėjo bankroto atveju lizingo davėjas gali panaudoti savo teises prieš lizingo gavėjo kreditorius ir administratorių tik tuo atveju, jeigu lizingo sutartis buvo įstatymų nustatyta tvarka įregistruota.
+2. Lizingo gavėjo bankroto atveju lizingo davėjas gali panaudoti savo teises prieš lizingo gavėjo kreditorius ir nemokumo administratorių tik tuo atveju, jeigu lizingo sutartis buvo įstatymų nustatyta tvarka įregistruota. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
+ 
 
 
 
@@ -43605,9 +43651,10 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 
 
 
-3. Šio straipsnio 1 ir 2 dalyse nustatytos taisyklės taip pat taikomos neveiksniu šioje srityje pripažinto įgaliotinio globėjui, ribotai veiksniu šioje srityje pripažintam įgaliotiniui kartu su rūpintoju arba įgaliotinio, kuriam iškelta bankroto byla, administratoriui.
+3. Šio straipsnio 1 ir 2 dalyse nustatytos taisyklės taip pat taikomos neveiksniu šioje srityje pripažinto įgaliotinio globėjui, ribotai veiksniu šioje srityje pripažintam įgaliotiniui kartu su rūpintoju arba įgaliotinio, kuriam iškelta bankroto byla, nemokumo administratoriui. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
  
 
 
@@ -49916,3 +49963,8 @@ Lietuvos Respublikos civilinio kodekso 2.10-1 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
 Lietuvos Respublikos civilinio kodekso 4.184 ir 4.197 straipsnių pakeitimo įstatymas
+ 
+44.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2222, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10325
+Lietuvos Respublikos civilinio kodekso 2.70, 2.106, 6.410, 6.572 ir 6.765 straipsnių pakeitimo įstatymas
