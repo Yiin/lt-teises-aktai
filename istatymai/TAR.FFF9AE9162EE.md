@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FFF9AE9162EE"
 
 # Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 47-1469, i. k. 0991010ISTAIII-1183
  
@@ -565,6 +565,7 @@ Nr. XII-288, 2013-05-09, Žin., 2013, Nr. 55-2728 (2013-05-28)
 
 
 1) 30 procentų mokama į valstybės biudžetą. Šios lėšos naudojamos pagal tikslinę paskirtį Lietuvos aplinkos apsaugos investicijų fondo programos lėšoms administruoti ir šioje programoje numatytiems aplinkos apsaugos investiciniams projektams finansuoti aplinkos ministro nustatyta tvarka;
+TAR pastaba. 2020 m. lapkričio 3 d. Konstitucinio Teismo nutarimas Nr. KT187-N15/2020, įsigaliojęs 2020 m. lapkričio 4 d., pripažįsta, kad Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 10 straipsnio (2014 m. lapkričio 13 d. redakcija; TAR, 2014-12-01, Nr. 18284) 1 dalies 1 punktas prieštarauja Lietuvos Respublikos Konstitucijos 67 straipsnio 14 punkto nuostatai, kad Seimas tvirtina valstybės biudžetą, 94 straipsnio 4 punkto nuostatai, kad Vyriausybė rengia valstybės biudžeto projektą, 129 straipsniui, 130 straipsnio nuostatai, kad valstybės biudžeto projektą sudaro Vyriausybė, 131 straipsnio 1 dalies nuostatai, kad valstybės biudžeto projektą svarsto Seimas ir tvirtina įstatymu, 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
 
 
 
@@ -634,7 +635,6 @@ Vyriausybė ar jos įgaliota institucija iki 2002 m. spalio 1 d. parengia ir pat
 
 
 
- 
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
@@ -1210,7 +1210,6 @@ Nr. XI-254, 2009-05-12, Žin., 2009, Nr. 61-2404 (2009-05-26)
 
 
 
- 
 Lietuvos Respublikos
 mokesčio už aplinkos teršimą
 įstatymo 
@@ -1236,7 +1235,7 @@ MOKESČIO UŽ APLINKOS TERŠIMĄ SĄVARTYNE ŠALINAMOMIS ATLIEKOMIS TARIFAI
  3 
  5 
  5 
- 27,51 
+ 5 
 
 
  2. Inertinių atliekų sąvartyne šalinamos atliekos ir nepavojingųjų atliekų sąvartyno atskirose sekcijose šalinamos asbesto atliekos 
@@ -1262,6 +1261,7 @@ Nr. XII-1328, 2014-11-13, paskelbta TAR 2014-12-01, i. k. 2014-18284
 Priedo pakeitimai:
 Nr. XII-2244, 2015-12-23, paskelbta TAR 2015-12-30, i. k. 2015-21031
 Nr. XIII-1793, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21122
+Nr. XIII-2755, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21569
  
 
 
@@ -1424,6 +1424,11 @@ Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 4 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1793, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21122
+Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 7 priedėlio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2755, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21569
 Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo Nr. VIII-1183 7 priedėlio pakeitimo įstatymas
  
  
