@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2019-11-16 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
  
@@ -387,7 +387,10 @@ Vyriausybė ir valstybės institucijos, priimdamos sprendimus ir sudarydamos sus
 
 
 
-3. Kituose įstatymuose gali būti numatyti atvejai, kai visuomenės saugumui ar viešajai tvarkai apsaugoti arba taikant atsakomąsias priemones trečiosioms valstybėms investuotoju negali būti konkrečios trečiosios valstybės investuotojas.
+3. Kituose įstatymuose gali būti numatyti atvejai, kai visuomenės saugumui ar viešajai tvarkai apsaugoti arba taikant atsakomąsias priemones trečiosioms valstybėms investuotoju negali būti konkrečios trečiosios valstybės investuotojas ar negali būti vykdoma konkreti veikla, pripažinta kelianti grėsmę Lietuvos Respublikos nacionaliniam saugumui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
+ 
 
 
 
@@ -471,7 +474,10 @@ Investuotojas neatitinka nacionalinio saugumo interesų, jeigu:
 
 
 
-8) vadovaujantis kitais įstatymais, kaip numatyta šio įstatymo 10 straipsnio 3 dalyje, investuotoju negali būti konkrečios trečiosios valstybės investuotojas;
+8) vadovaujantis kitais įstatymais, kaip numatyta šio įstatymo 10 straipsnio 3 dalyje, investuotoju negali būti konkrečios trečiosios valstybės investuotojas arba negali būti vykdoma konkreti veikla, kuri įstatymu yra pripažinta kelianti grėsmę Lietuvos Respublikos nacionaliniam saugumui; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
+ 
 
 
 
@@ -534,7 +540,10 @@ Investuotojas neatitinka nacionalinio saugumo interesų, jeigu:
 
 
 
-5. Investuotojo patikrą dėl atitikties nacionalinio saugumo interesams gali inicijuoti Vyriausybė, ministras, nacionalinį saugumą užtikrinančios institucijos, kaip jos apibrėžtos Nacionalinio saugumo pagrindų įstatyme, Lietuvos bankas, Lietuvos radijo ir televizijos komisija, taip pat valstybės arba savivaldybės vykdomoji institucija, kuri yra valstybei ar savivaldybei nuosavybės teise priklausančių akcinės bendrovės ar uždarosios akcinės bendrovės akcijų valdytoja (kuriai šios akcijos perduotos valdyti patikėjimo teise) arba kuri įgyvendina valstybės ar savivaldybės įmonės savininko teises ir pareigas, arba savivaldybė, kurios teritorijoje esančioje apsaugos zonoje investuotojas siekia vykdyti (vykdo) veiklą ar įsigyti turto. 
+5. Investuotojo patikrą dėl atitikties nacionalinio saugumo interesams gali inicijuoti Vyriausybė, ministras, nacionalinį saugumą užtikrinančios institucijos, kaip jos apibrėžtos Nacionalinio saugumo pagrindų įstatyme, Lietuvos bankas, Lietuvos radijo ir televizijos komisija, Valstybinė energetikos reguliavimo taryba, taip pat valstybės arba savivaldybės vykdomoji institucija, kuri yra valstybei ar savivaldybei nuosavybės teise priklausančių akcinės bendrovės ar uždarosios akcinės bendrovės akcijų valdytoja (kuriai šios akcijos perduotos valdyti patikėjimo teise) arba kuri įgyvendina valstybės ar savivaldybės įmonės savininko teises ir pareigas, arba savivaldybė, kurios teritorijoje esančioje apsaugos zonoje investuotojas siekia vykdyti (vykdo) veiklą ar įsigyti turto. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
+ 
 
 
 
@@ -628,6 +637,19 @@ Investuotojas neatitinka nacionalinio saugumo interesų, jeigu:
  
 
 
+
+
+
+
+121 straipsnis. Asmenų, kurie siekia vykdyti (vykdo) veiklą nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje, kuri įstatymu yra pripažinta keliančia grėsmę nacionaliniam saugumui, atitikties nacionalinio saugumo interesams patikra
+
+
+Asmenims, kurie siekia vykdyti (vykdo) veiklą nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje, kuri įstatymu yra pripažinta keliančia grėsmę nacionaliniam saugumui, mutatis mutandis taikoma patikra, numatyta investuotojams šio įstatymo 12 straipsnyje. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
+ 
 
 
 
@@ -1499,3 +1521,8 @@ Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaug
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2529, 2019-11-14, paskelbta TAR 2019-11-15, i. k. 2019-18359
 Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. XIII-992 2 priedo pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 10, 11, 12 straipsnių pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
