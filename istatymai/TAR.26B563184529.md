@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
  
@@ -1159,9 +1159,10 @@ Valstybės teritorijos ir valstybės teritorijos dalių bendrųjų planų sprend
 1. Savivaldybės lygmens ir vietovės lygmens bendrųjų planų sprendiniai įgyvendinami:
 
 
-1) detalizuojant sprendinius žemesnio lygmens teritorijų planavimo dokumentuose, detaliuosiuose planuose ar žemėtvarkos planavimo dokumentuose – žemės valdos projektuose, kurių rengimą reglamentuoja Lietuvos Respublikos žemės įstatymas (toliau – Žemės įstatymas) (toliau – žemės valdos projektai). Miestuose ir miesteliuose bei laisvosiose ekonominėse zonose ir pramonės parkuose žemės valdos projektų rengimą organizuoja ir juos tvirtina savivaldybės administracijos direktorius;
+1) detalizuojant sprendinius žemesnio lygmens teritorijų planavimo dokumentuose, detaliuosiuose planuose ar žemėtvarkos planavimo dokumentuose – žemės valdos projektuose, kurių rengimą reglamentuoja Lietuvos Respublikos žemės įstatymas (toliau – Žemės įstatymas); 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1986, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04582
+Nr. XIII-2148, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09401
  
 
 
@@ -1278,7 +1279,10 @@ Nr. XIII-1986, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04582
 
 
 
-5) nurodyti specialiąsias žemės naudojimo sąlygas;
+5) neteko galios nuo 2020-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2188, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09843
+ 
 
 
 
@@ -1395,25 +1399,27 @@ Nr. XIII-1986, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04582
 2. Detaliojo plano sprendiniams įgyvendinti:
 
 
-1) jeigu detaliajame plane numatyti tik žemės sklypų formavimo ir (ar) pertvarkymo principai, rengiami žemės valdos projektai, kuriuose pagal detaliojo plano nustatytus teritorijos naudojimo reglamentus suformuojami nauji žemės sklypai arba pertvarkomos esamų žemės sklypų ribos, vadovaujantis detaliajame plane numatytais principais, ir nustatoma ar keičiama pagrindinė žemės naudojimo paskirtis, naudojimo būdas. Miestuose ir miesteliuose bei laisvosiose ekonominėse zonose ir pramonės parkuose žemės valdos projektų rengimą organizuoja ir juos tvirtina savivaldybės administracijos direktorius;
-Straipsnio punkto pakeitimai:
-Nr. XIII-1986, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04582
+1) jeigu detaliajame plane numatyti tik žemės sklypų formavimo ir (ar) pertvarkymo principai, rengiami žemės sklypų formavimo ir pertvarkymo projektai, kuriuose pagal detaliojo plano nustatytus teritorijos naudojimo reglamentus suformuojami nauji žemės sklypai arba pertvarkomos esamų žemės sklypų ribos, vadovaujantis detaliajame plane numatytais principais, ir nustatoma ar keičiama pagrindinė žemės naudojimo paskirtis, naudojimo būdas;
+
+
+
+
+2) išduodami statybą leidžiantys dokumentai Statybos įstatymo nustatyta tvarka, kai žemės sklypų formavimo ir pertvarkymo projektai yra neprivalomi. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2148, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09401
  
 
 
 
 
-2) išduodami statybą leidžiantys dokumentai Statybos įstatymo nustatyta tvarka, kai žemės valdos projektai yra neprivalomi.
+
+
+20 straipsnis. Teisė statyti ir žemės sklypų formavimo ir pertvarkymo projektų taikymas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2148, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09401
  
-
-
-
-
-
-
-
-
-20 straipsnis. Teisė statyti ir žemės valdos projektų taikymas
 
 
 1. Žemės sklype, esančiame urbanizuotoje ir urbanizuojamoje teritorijoje, kuriai neparengti detalieji planai, arba žemės sklype, esančiame neurbanizuotoje ir neurbanizuojamoje teritorijoje, gali būti vykdoma statyba, atitinkanti savivaldybės lygmens bendrojo plano ir (ar) vietovės lygmens bendrojo plano, jeigu jis parengtas,  sprendinius, vadovaujantis Statybos įstatymo nuostatomis. 
@@ -1479,10 +1485,10 @@ Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 
 
 
-6. Miestų ir miestelių teritorijose, laisvųjų ekonominių zonų ar pramonės parkų teritorijose savivaldybės administracijos direktoriaus patvirtintais žemės valdos projektais:
+6. Savivaldybės administracijos direktoriaus patvirtintais žemės sklypų formavimo ir pertvarkymo projektais:
 
 
-1) įgyvendinami šio įstatymo 16 straipsnio 1 dalies 1 punkte ir 19 straipsnio 2 dalies 1 punkte nustatytais atvejais kompleksinio teritorijų planavimo dokumentų sprendiniai;
+1) įgyvendinami šio įstatymo 16 straipsnio 1 dalies 1 punkte ir 19 straipsnio 2 dalies 1 punkte nustatytais atvejais kompleksinio teritorijų planavimo dokumentų sprendiniai; 
 
 
 
@@ -1492,7 +1498,7 @@ Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 
 
 
-3) žemės sklypai padalijami, atidalijami, sujungiami ar perdalijami, išskyrus atvejus, kai tai draudžia įstatymai, ir jeigu keitimai nesiejami su žemės sklypų ribų ir ploto pakeitimu laisvoje valstybinėje žemėje ir nepažeidžiamas teritorijų planavimo dokumentuose nustatytas leistinas užstatymo tankis arba nekeičiamas faktinis užstatymo tankis. Pertvarkant sodybų, vieno ar dviejų butų gyvenamųjų pastatų žemės sklypus, nustatomas teisės aktais leistinas užstatymo tankis, išskyrus atvejus, kai teritorijų planavimo dokumentuose šis teritorijos naudojimo reglamentas nustatytas mažesnis;
+3) žemės sklypai padalijami, atidalijami, sujungiami ar perdalijami, išskyrus atvejus, kai tai draudžia įstatymai, ir jeigu keitimai nesiejami su žemės sklypų ribų ir ploto pakeitimu laisvoje valstybinėje žemėje ir nepažeidžiamas teritorijų planavimo dokumentuose nustatytas leistinas užstatymo tankis arba nekeičiamas faktinis užstatymo tankis. Pertvarkant sodybų, vieno ar dviejų butų gyvenamųjų pastatų žemės sklypus, nustatomas teisės aktais leistinas užstatymo tankis, išskyrus atvejus, kai teritorijų planavimo dokumentuose šis teritorijos naudojimo reglamentas nustatytas mažesnis; 
 
 
 
@@ -1507,17 +1513,20 @@ Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 
 
 
-6) suformuojami nauji valstybinės žemės sklypai, išskyrus atvejus, kai sklypai formuojami Lietuvos Respublikos žemės reformos įstatymo nustatyta tvarka.
+6) suformuojami nauji valstybinės žemės sklypai, išskyrus atvejus, kai sklypai formuojami Lietuvos Respublikos žemės reformos įstatymo nustatyta tvarka. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1986, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04582
+Nr. XIII-2148, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09401
  
 
 
 
 
-7. Tais atvejais, kai planuojamai ūkinei veiklai vykdyti teritorijų planavimo dokumentą ar žemės valdos projektą rengti neprivaloma, o įstatymų ar kitų teisės aktų nustatytais atvejais šiai veiklai vykdyti turi būti taikomos specialiosios žemės naudojimo sąlygos, jos nurodomos planuojamos ūkinės veiklos poveikio aplinkai vertinimo ar planuojamos ūkinės veiklos poveikio visuomenės sveikatai vertinimo dokumentuose, statinio projekto sklypo sutvarkymo (sklypo plano) dalyje arba žemės savininko, valstybinės ar savivaldybės žemės patikėtinio rašytiniame susitarime (sutikime) su suinteresuotu subjektu (statytoju ar planuojamos ūkinės veiklos organizatoriumi), dėl kurio planuojamos ūkinės veiklos vykdymo žemės sklypui ar jo daliai turi būti nustatytos papildomos specialiosios žemės naudojimo sąlygos.
+7. Neteko galios nuo 2020-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2188, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09843
  
 
 
@@ -1578,7 +1587,10 @@ SPECIALUSIS TERITORIJŲ PLANAVIMAS
 
 
 
-5) nurodyti specialiąsias žemės naudojimo sąlygas.
+5) neteko galios nuo 2020-01-01.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2188, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09843
+ 
 
 
 
@@ -2133,7 +2145,10 @@ Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
 
 
 
-10. Kai šio įstatymo 20 straipsnio 6 dalies 3 punkte numatytu atveju pertvarkomi galiojančiame detaliajame plane, parengtame pagal iki 2014 m. sausio 1 d. galiojusį teritorijų planavimo teisinį reguliavimą, nustatyti žemės sklypai, žemės valdos projektas laikytinas galiojančio detaliojo plano koregavimu.
+10. Kai šio įstatymo 20 straipsnio 6 dalies 3 punkte numatytu atveju pertvarkomi galiojančiame detaliajame plane, parengtame pagal iki 2014 m. sausio 1 d. galiojusį teritorijų planavimo teisinį reguliavimą, nustatyti žemės sklypai, žemės sklypų formavimo ir pertvarkymo projektas laikytinas galiojančio detaliojo plano koregavimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2148, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09401
+ 
 
 
 
@@ -3214,3 +3229,13 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 30 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1986, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04582
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 16, 19 ir 20 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2148, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09401
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 16, 19, 20 ir 28 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2188, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09843
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 17, 20 ir 21 straipsnių pakeitimo įstatymas
