@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-05-06
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -117,7 +117,10 @@ Nr. XIII-1455, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11768
 
 
 
-10. Energetikos objektai – elektrinės ir katilinės; elektros tinklai ir jų technologiniai priklausiniai; magistraliniai dujotiekiai, gamtinių dujų sistemos, gamtinių dujų saugyklos, suskystintų gamtinių dujų terminalai ir saugyklos; magistraliniai naftotiekiai (produktotiekiai); naftos perdirbimo įrenginiai, naftos ir naftos produktų terminalai ir saugyklos, suskystintų naftos dujų įrenginiai; šilumos tiekimo tinklai ir jų technologiniai priklausiniai.
+10. Energetikos objektai – elektrinės ir katilinės; elektros tinklai ir jų technologiniai priklausiniai; magistraliniai dujotiekiai, gamtinių dujų sistemos, gamtinių dujų saugyklos, suskystintų gamtinių dujų terminalai ir saugyklos; magistraliniai naftotiekiai (produktotiekiai); naftos perdirbimo įrenginiai, naftos ir naftos produktų terminalai ir saugyklos, suskystintų naftos dujų įrenginiai; šilumos perdavimo tinklai ir jų technologiniai priklausiniai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2174, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09947
+ 
 
 
 
@@ -1786,7 +1789,9 @@ Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
 
 
 
-3. Energetikos objektų apsaugai ir eksploatavimui užtikrinti nustatomos apsaugos zonos. Statybos, želdinimo ir žemės darbai šioje zonoje yra ribojami. Apsaugos zonoje esančių žemės ir kitų nekilnojamųjų daiktų servitutai nustatomi teisės aktų nustatyta tvarka ir sąlygomis. Apsaugos zonoje esančių nekilnojamųjų daiktų savininkai ar jų naudotojai turi leisti energetikos įmonėms patekti prie joms priklausančių ar jų eksploatuojamų energetikos objektų ir atlikti modernizavimo ar eksploatavimo darbus. Nuostolius, atsiradusius dėl energetikos įmonių veiklos apsaugos zonose, atlygina energetikos įmonė, kuriai nuosavybės teise priklauso apsaugos zonos nekilnojamajame daikte esantis energetikos objektas.
+3. Energetikos objektų apsaugai ir eksploatavimui užtikrinti nustatomos apsaugos zonos. Energetikos objektų apsaugos zonų dydis ir specialiosios žemės naudojimo sąlygos šiose zonose nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme. Apsaugos zonoje esančių žemės ir kitų nekilnojamųjų daiktų servitutai nustatomi teisės aktų nustatyta tvarka ir sąlygomis. Apsaugos zonoje esančių nekilnojamųjų daiktų savininkai, patikėtiniai ir jų naudotojai turi leisti energetikos įmonėms patekti prie joms priklausančių ar jų eksploatuojamų energetikos objektų ir atlikti jų remonto, techninės priežiūros, eksploatavimo, rekonstravimo ar modernizavimo darbus. Nuostolius, atsiradusius dėl energetikos įmonių veiklos apsaugos zonose, atlygina energetikos įmonė, kuriai nuosavybės teise priklauso apsaugos zonos nekilnojamajame daikte esantis energetikos objektas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2174, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09947
  
 
 
@@ -1918,9 +1923,10 @@ Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
 
 
 
-4. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus energetikos įmonė, turinti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka įspėjama apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą šio straipsnio 5 dalyje nustatytais pagrindais arba licencijos, leidimo ar atestato galiojimo panaikinimą šio straipsnio 7 dalyje nustatytais pagrindais ir nustatomas laikotarpis, per kurį turi būti pašalinti nurodyti reguliuojamosios veiklos pažeidimai. Šis laikotarpis negali būti ilgesnis kaip 30 kalendorinių dienų, išskyrus atvejus, kai dėl objektyvių priežasčių pažeidimui pašalinti reikia ilgesnio laikotarpio. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus šio straipsnio 5 dalies 6, 7, 9 ar 10 punktuose, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas stabdomas nedelsiant, ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo dienos. 
+4. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus energetikos įmonė, turinti energetikos veiklos licenciją, leidimą ar atestatą, teisės aktų nustatyta tvarka įspėjama apie galimą licencijos, leidimo ar atestato galiojimo sustabdymą šio straipsnio 5 dalyje nustatytais pagrindais arba licencijos, leidimo ar atestato galiojimo panaikinimą šio straipsnio 7 dalyje nustatytais pagrindais ir nustatomas laikotarpis, per kurį turi būti pašalinti nurodyti reguliuojamosios veiklos pažeidimai. Šis laikotarpis negali būti ilgesnis kaip 30 kalendorinių dienų, išskyrus atvejus, kai dėl objektyvių priežasčių pažeidimui pašalinti reikia ilgesnio laikotarpio. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus šio straipsnio 5 dalies 6, 7, 9, 10 ar 11 punktuose, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas stabdomas nedelsiant, ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo dienos. Už reguliuojamosios veiklos sąlygų ir (ar) reikalavimų pažeidimus, nurodytus šio straipsnio 7 dalies 10 punkte, energetikos įmonei energetikos veiklos licencijos, leidimo ar atestato galiojimas panaikinamas nedelsiant, ne vėliau kaip per vieną darbo dieną nuo pažeidimų nustatymo dienos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+Nr. XIII-2707, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21554
  
 
 
@@ -1995,9 +2001,17 @@ Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-10) paaiškėja, kad asmuo, turintis leidimą verstis didmenine prekyba nefasuotais naftos produktais, neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, nustatytų Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje. 
+10) paaiškėja, kad asmuo, turintis leidimą verstis didmenine prekyba nefasuotais naftos produktais, neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, nustatytų Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje; 
 Papildyta straipsnio punktu:
 Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
+ 
+
+
+
+
+11) paaiškėja, kad asmuo, turintis licenciją vykdyti visuomeninio elektros energijos tiekimo veiklą, ar asmuo, turintis leidimą vykdyti nepriklausomo elektros energijos tiekimo veiklą, šią veiklą vykdo pažeisdamas Lietuvos Respublikos būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatyme nustatytus ribojimus elektros energijos patekimui į Lietuvos Respublikos elektros energijos rinką iš trečiųjų šalių, kuriose veikia nesaugios branduolinės elektrinės. 
+Papildyta straipsnio punktu:
+Nr. XIII-2707, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21554
  
 
 
@@ -2056,9 +2070,17 @@ Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
 
 
 
-9) energetikos įmonė deklaracijoje pateikė klaidingus duomenis. 
+9) energetikos įmonė deklaracijoje pateikė klaidingus duomenis; 
 Papildyta straipsnio punktu:
 Nr. XIII-709, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18144
+ 
+
+
+
+
+10) paaiškėja aplinkybės dėl leidimo importuoti elektros energiją iš valstybių, kurios nėra valstybės narės, galiojimo panaikinimo, nustatytos Būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymo 4 straipsnio 2 dalyje.
+Papildyta straipsnio punktu:
+Nr. XIII-2707, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21554
  
 
 
@@ -3932,3 +3954,13 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 8, 13, 21, 23 ir 24 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2202, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09725
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 24 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2174, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09947
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2 ir 18 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2707, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21554
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 21 straipsnio pakeitimo įstatymas
