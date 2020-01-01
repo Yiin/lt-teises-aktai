@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.890D3838A27D"
 
 # Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2022-10-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 30-712, i. k. 0971010ISTAVIII-157
  
@@ -46,35 +46,59 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės Įstatymo sąvokos
 
 
-1. Gaivinimas – medicinos pagalbos priemonės, kuriomis siekiama atnaujinti sutrikusius arba išnykusius kvėpavimą, kraujotaką, galvos smegenų veiklą ir kitas gyvybiškai svarbias žmogaus organizmo funkcijas gyvybei pavojingų būklių atvejais.
-
-
-
-
-2. Kritinės būklės – žmogaus gyvybei pavojingos būklės, pasižyminčios kritiniu kvėpavimo, kraujotakos, galvos smegenų veiklos bei kitų organizmo funkcijų lygiu ir kurioms esant reikia imtis gaivinimo bei kitų medicinos pagalbos priemonių stengiantis išsaugoti žmogaus gyvybę.
-
-
-
-
-3. Medicininis mirties liudijimas – gydytojo išduodamas dokumentas, patvirtinantis asmens mirties faktą ir būtinas mirčiai užregistruoti.
-
-
-
-
-4. Mirties faktas – faktas, konstatuojamas pagal šio Įstatymo nuostatas nustačius negrįžtamai nutrūkusią žmogaus kraujotaką ir kvėpavimą arba smegenų mirtį. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
+1. Beviltiškas gaivinimas – gaivinimas kritinės būklės paciento, kurio ligos etiopatogenetinių gydymo būdų nėra arba jie jau išnaudoti ir yra objektyvių požymių gyvybines funkcijas užtikrinančios vienos ar kelių organų sistemų negrįžtamo pažeidimo, dėl kurio nėra mediciniškai pagrįstos tikimybės pagerinti arba atkurti paciento gyvybiškai svarbių organizmo funkcijų, buvusių iki kritinės būklės. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
  
 
 
 
 
-5. Mirties momentas – laikas, kai negrįžtamai nutrūksta žmogaus kraujotaka ir kvėpavimas arba kai negrįžtamai nutrūksta visų žmogaus galvos smegenų struktūrų veikla.
+2. Gaivinimas – medicinos pagalbos priemonės, kuriomis siekiama atnaujinti sutrikusius arba išnykusius kvėpavimą, kraujotaką, galvos smegenų veiklą ir kitas gyvybiškai svarbias žmogaus organizmo funkcijas gyvybei pavojingų būklių atvejais.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
+ 
 
 
 
 
-6. Mirtis – negrįžtama žmogaus organizmo, kaip visumos, žūtis.
+3. Kritinės būklės – žmogaus gyvybei pavojingos būklės, pasižyminčios kritiniu kvėpavimo, kraujotakos, galvos smegenų veiklos bei kitų organizmo funkcijų lygiu ir kurioms esant reikia imtis gaivinimo bei kitų medicinos pagalbos priemonių stengiantis išsaugoti žmogaus gyvybę.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
+ 
+
+
+
+
+4. Medicininis mirties liudijimas – gydytojo išduodamas dokumentas, patvirtinantis asmens mirties faktą ir būtinas mirčiai užregistruoti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
+ 
+
+
+
+
+5. Mirties faktas – faktas, konstatuojamas pagal šio Įstatymo nuostatas nustačius negrįžtamai nutrūkusią žmogaus kraujotaką ir kvėpavimą arba smegenų mirtį. 
+Straipsnio dalies pakeitimai:
+Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
+ 
+
+
+
+
+6. Mirties momentas – laikas, kai negrįžtamai nutrūksta žmogaus kraujotaka ir kvėpavimas arba kai negrįžtamai nutrūksta visų žmogaus galvos smegenų struktūrų veikla.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
+ 
+
+
+
+
+7. Mirtis – negrįžtama žmogaus organizmo, kaip visumos, žūtis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
  
 
 
@@ -105,7 +129,9 @@ Kritinę būklę nustato:
 
 
 
-3) Vyriausybės nustatyto sąrašo profesijų, darbų ir veiklos sričių darbuotojai, transporto priemonių vairuotojai mėgėjai, buvę kartu su nukentėjusiaisiais ar ligoniais nelaimingų atsitikimų ar ūmaus gyvybei pavojingo susirgimo vietose ir privalantys suteikti jiems pirmąją pagalbą.
+3) Vyriausybės nustatyto sąrašo profesijų, darbų ir veiklos sričių darbuotojai, transporto priemonių vairuotojai mėgėjai, buvę kartu su nukentėjusiaisiais ar pacientais nelaimingų atsitikimų ar ūmaus gyvybei pavojingo susirgimo vietose ir privalantys suteikti jiems pirmąją pagalbą. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
  
 
 
@@ -268,9 +294,10 @@ KRITINĘ BŪKLĘ IR MIRTĮ NUSTATANČIŲ ASMENŲ TEISĖS IR PAREIGOS
 
 
 
-2. Sveikatos priežiūros ir farmacijos specialistų kompetenciją teikti pirmąją medicinos pagalbą nustato sveikatos apsaugos ministras. Vyriausybės nustatyto sąrašo profesijų, darbų ir veiklos sričių darbuotojų bei transporto priemonių vairuotojų mėgėjų, buvusių kartu su nukentėjusiaisiais ar ligoniais nelaimingų atsitikimų ar ūmaus gyvybei pavojingo susirgimo vietose ir privalančių suteikti jiems pirmąją pagalbą, taip pat įstatymų nustatytų kitų asmenų kompetenciją šiais klausimais nustato Vyriausybė.
+2. Sveikatos priežiūros ir farmacijos specialistų kompetenciją teikti pirmąją medicinos pagalbą nustato sveikatos apsaugos ministras. Vyriausybės nustatyto sąrašo profesijų, darbų ir veiklos sričių darbuotojų bei transporto priemonių vairuotojų mėgėjų, buvusių kartu su nukentėjusiaisiais ar pacientais nelaimingų atsitikimų ar ūmaus gyvybei pavojingo susirgimo vietose ir privalančių suteikti jiems pirmąją pagalbą, taip pat įstatymų nustatytų kitų asmenų kompetenciją šiais klausimais nustato Vyriausybė. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
  
 
 
@@ -289,19 +316,35 @@ Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
 
 
 
-2) jeigu pacientas įstatymų nustatyta tvarka yra pareiškęs nesutikimą, kad būtų gaivinamas, ir yra gydytojų konsiliumo pritarimas;
+2) jeigu pacientas yra pareiškęs rašytinį nesutikimą, kad pacientas būtų gaivinamas, ir yra gydytojų konsiliumo sprendimas, kad paciento gaivinimas prilygtų beviltiškam gaivinimui. Į gydytojų konsiliumo sudėtį turi įeiti bent vienas gydytojas anesteziologas-reanimatologas. Gydytojų konsiliumo sprendimas priimamas vadovaujantis sveikatos apsaugos ministro nustatytais vienos ar kelių žmogaus organų sistemų negrįžtamo pažeidimo, dėl kurio nėra mediciniškai pagrįstos tikimybės pagerinti arba atkurti paciento gyvybiškai svarbių organizmo funkcijų, buvusių iki kritinės būklės, požymiais ir tvarka. Rašytinio paciento nesutikimo, kad būtų gaivinamas, pareiškimo tvarką nustato sveikatos apsaugos ministras; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
+ 
 
 
 
 
-3) tais atvejais, kai gaivinimas kelia tiesioginę grėsmę kritinę būklę nustačiusio asmens gyvybei.
+3) jeigu yra gydytojų konsiliumo sprendimas, kad paciento gaivinimas prilygtų beviltiškam gaivinimui. Į gydytojų konsiliumo sudėtį turi įeiti bent vienas gydytojas anesteziologas-reanimatologas. Gydytojų konsiliumo sprendimas priimamas vadovaujantis sveikatos apsaugos ministro nustatytais vienos ar kelių žmogaus organų sistemų negrįžtamo pažeidimo, dėl kurio nėra mediciniškai pagrįstos tikimybės pagerinti arba atkurti paciento gyvybiškai svarbių organizmo funkcijų, buvusių iki kritinės būklės, požymiais ir tvarka ir įgauna teisinę galią, kai yra paciento arba Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatytais atvejais – paciento atstovo rašytinis pritarimas. Rašytinio pritarimo davimo tvarką nustato sveikatos apsaugos ministras; 
+Papildyta straipsnio punktu:
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
+ 
+
+
+
+
+4) tais atvejais, kai gaivinimas kelia tiesioginę grėsmę kritinę būklę nustačiusio asmens gyvybei.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
+ 
 
 
 
 
 
 
-2. Jeigu dėl šio straipsnio 1 dalies 1 ir 2 punktuose nustatytų sąlygų yra abejonių, kritinę būklę nustatęs asmuo privalo pradėti gaivinimą. 
+2. Jeigu dėl šio straipsnio 1 dalies 1, 2 ir 3 punktuose nustatytų sąlygų yra abejonių, kritinę būklę nustatęs asmuo privalo pradėti gaivinimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
  
 
 
@@ -325,12 +368,25 @@ Leidžiama nutraukti gaivinimą:
 
 
 
-3) išaiškėjus, jog pacientas įstatymų nustatyta tvarka yra pareiškęs nesutikimą, kad būtų gaivinamas, ir yra gydytojų konsiliumo pritarimas;
+3) išaiškėjus, jog pacientas yra pareiškęs rašytinį nesutikimą, kad būtų gaivinamas, ir yra gydytojų konsiliumo sprendimas, kad paciento gaivinimas prilygtų beviltiškam gaivinimui. Į gydytojų konsiliumo sudėtį turi įeiti bent vienas gydytojas anesteziologas-reanimatologas. Gydytojų konsiliumo sprendimas priimamas vadovaujantis sveikatos apsaugos ministro nustatytais vienos ar kelių žmogaus organų sistemų negrįžtamo pažeidimo, dėl kurio nėra mediciniškai pagrįstos tikimybės pagerinti arba atkurti paciento gyvybiškai svarbių organizmo funkcijų, buvusių iki kritinės būklės, požymiais ir tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
+ 
 
 
 
 
-4) iškilus tiesioginei grėsmei gaivinančio asmens gyvybei.
+4) išaiškėjus, jog yra gydytojų konsiliumo sprendimas, kad paciento gaivinimas prilygtų beviltiškam gaivinimui. Į gydytojų konsiliumo sudėtį turi įeiti bent vienas gydytojas anesteziologas-reanimatologas. Gydytojų konsiliumo sprendimas priimamas vadovaujantis sveikatos apsaugos ministro nustatytais vienos ar kelių žmogaus organų sistemų negrįžtamo pažeidimo, dėl kurio nėra mediciniškai pagrįstos tikimybės pagerinti arba atkurti paciento gyvybiškai svarbių organizmo funkcijų, buvusių iki kritinės būklės, požymiais ir tvarka ir įgauna teisinę galią, kai yra paciento arba Pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatytais atvejais – paciento atstovo rašytinis pritarimas; 
+Papildyta straipsnio punktu:
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
+ 
+
+
+
+
+5) iškilus tiesioginei grėsmei gaivinančio asmens gyvybei.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
  
 
 
@@ -659,7 +715,7 @@ Asmenys, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvar
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 
  
@@ -696,3 +752,8 @@ Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1190, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09347
 Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 14 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
+Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 2, 3, 9, 10 ir 11 straipsnių pakeitimo įstatymas
