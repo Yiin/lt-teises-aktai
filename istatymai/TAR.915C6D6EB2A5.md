@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.915C6D6EB2A5"
 
 # Lietuvos Respublikos socialinės paramos mokiniams įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-08-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 73-2755, i. k. 1061010ISTA000X-686
- 
-TAR pastaba. Mokinių nemokamas maitinimas, paskirtas iki įstatymo Nr. XIII-1690 įsigaliojimo dienos (2019-01-01), teikiamas iki sprendime dėl socialinės paramos mokiniams skyrimo nurodyto termino pabaigos, taikant šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos socialinės paramos mokiniams įstatymo 7 straipsnio nuostatas.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-1690, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20237
-Lietuvos Respublikos socialinės paramos mokiniams įstatymo Nr. X-686 pakeitimo įstatymas
  
 Nauja redakcija nuo 2019-01-01:
 Nr. XIII-1690, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20237
@@ -66,12 +61,17 @@ BENDROSIOS NUOSTATOS
 
 
 
-3) mokiniams, kurie yra išlaikomi (nemokamai gauna nakvynę, maistą ir mokinio reikmenis) valstybės arba savivaldybės finansuojamose įstaigose; 
+3) mokiniams, kurie yra išlaikomi (nemokamai gauna nakvynę, maistą ir mokinio reikmenis) valstybės arba savivaldybės finansuojamose įstaigose, išskyrus šio įstatymo 5 straipsnio 3 dalyje nustatytą atvejį; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2603, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20562
+ 
 
 
 
 
-4) mokiniams, kuriems Lietuvos Respublikos civilinio kodekso nustatyta tvarka nustatyta vaiko laikinoji ar nuolatinė globa (rūpyba).
+4) mokiniams, kuriems Lietuvos Respublikos civilinio kodekso nustatyta tvarka nustatyta vaiko laikinoji ar nuolatinė globa (rūpyba), išskyrus šio įstatymo 5 straipsnio 3 dalyje nustatytą atvejį. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2603, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20562
  
 
 
@@ -89,7 +89,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Pareiškėjas – vienas iš mokinio tėvų ar kitų bendrai gyvenančių pilnamečių asmenų, pilnametis mokinys ar nepilnametis mokinys, kuris yra susituokęs arba emancipuotas, mokinys nuo keturiolikos iki aštuoniolikos metų, turintis tėvų sutikimą.
+2. Pareiškėjas – vienas iš mokinio tėvų, globėjų ar kitų bendrai gyvenančių pilnamečių asmenų, pilnametis mokinys ar nepilnametis mokinys, kuris yra susituokęs arba emancipuotas, mokinys nuo keturiolikos iki aštuoniolikos metų, turintis tėvų sutikimą, kurie kreipiasi dėl socialinės paramos mokiniams gavimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2603, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20562
+ 
 
 
 
@@ -176,7 +179,10 @@ Nustatomos šios socialinės paramos mokiniams rūšys:
 
 
 
-6. Šio straipsnio 2 dalies 4 punkte nustatytoms išlaidoms finansuoti iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams ir iš valstybės biudžeto skirtų bendrųjų asignavimų Švietimo, mokslo ir sporto ministerijai papildomai skiriama 4 procentų, skaičiuojant nuo šio straipsnio 2 dalies 1 ir 2 punktuose nustatytoms išlaidoms finansuoti skirtų lėšų, dydžio suma. Išlaidoms socialinei paramai mokiniams administruoti per kalendorinius metus panaudojama ne didesnė lėšų suma negu nustatytas išlaidoms socialinei paramai mokiniams administruoti skiriamų lėšų procento dydis nuo panaudotų lėšų išlaidoms produktams ir mokinio reikmenims (įskaitant prekių pirkimo pridėtinės vertės mokestį) finansuoti.
+6. Šio straipsnio 2 dalies 4 punkte nustatytoms išlaidoms finansuoti iš valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams ir iš valstybės biudžeto skirtų bendrųjų asignavimų Švietimo, mokslo ir sporto ministerijai papildomai skiriama iki 4 procentų, skaičiuojant nuo šio straipsnio 2 dalies 1 ir 2 punktuose nustatytoms išlaidoms finansuoti skirtų lėšų, dydžio suma. Konkretų socialinei paramai mokiniams administruoti skiriamos specialios tikslinės dotacijos savivaldybių biudžetams procento dydį iki biudžetinių metų pradžios nustato socialinės apsaugos ir darbo ministras, o valstybės biudžete skiriamų bendrųjų asignavimų Švietimo, mokslo ir sporto ministerijai procento dydį – Lietuvos Respublikos švietimo, mokslo ir sporto ministras. Išlaidoms socialinei paramai mokiniams administruoti per kalendorinius metus panaudojama ne didesnė lėšų suma, negu nustatytas išlaidoms socialinei paramai mokiniams administruoti skiriamų lėšų procento dydis nuo panaudotų lėšų išlaidoms produktams ir mokinio reikmenims (įskaitant prekių pirkimo pridėtinės vertės mokestį) finansuoti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2603, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20562
+ 
 
 
 
@@ -199,25 +205,27 @@ Socialinė parama mokiniams
 5 straipsnis. Mokinių teisė į socialinę paramą
 
 
-1. Mokiniai turi teisę į nemokamus pietus ir paramą mokinio reikmenims įsigyti, jeigu vidutinės pajamos vienam iš bendrai gyvenančių asmenų ar vienam gyvenančiam asmeniui (toliau – vidutinės pajamos vienam asmeniui) per mėnesį yra mažesnės kaip 1,5 valstybės remiamų pajamų dydžio. 
+1. Mokiniai turi teisę į nemokamus pietus, maitinimą mokyklų organizuojamose vasaros poilsio stovyklose ir paramą mokinio reikmenims įsigyti, jeigu vidutinės pajamos vienam iš bendrai gyvenančių asmenų ar vienam gyvenančiam asmeniui (toliau – vidutinės pajamos vienam asmeniui) per mėnesį yra mažesnės kaip 1,5 valstybės remiamų pajamų dydžio. 
 
 
 
 
-2. Mokiniai turi teisę į nemokamus pietus ir paramą mokinio reikmenims įsigyti, jeigu vidutinės pajamos vienam asmeniui per mėnesį yra mažesnės kaip 2 valstybės remiamų pajamų dydžiai, atsižvelgiant į bendrai gyvenančių asmenų ar vieno gyvenančio asmens gyvenimo sąlygas šiais atvejais: ligos, nelaimingo atsitikimo, netekus maitintojo, kai motina ar tėvas vieni augina vaiką (vaikus), kai bendrai gyvenantys asmenys augina tris ir daugiau vaikų ar bent vienas iš bendrai gyvenančių asmenų ar vienas gyvenantis asmuo yra neįgalus.
+2. Mokiniai turi teisę į nemokamus pietus, maitinimą mokyklų organizuojamose vasaros poilsio stovyklose ir paramą mokinio reikmenims įsigyti, jeigu vidutinės pajamos vienam asmeniui per mėnesį yra mažesnės kaip 2 valstybės remiamų pajamų dydžiai, atsižvelgiant į bendrai gyvenančių asmenų ar vieno gyvenančio asmens gyvenimo sąlygas šiais atvejais: ligos, nelaimingo atsitikimo, netekus maitintojo, kai motina ar tėvas vieni augina vaiką (vaikus), kai bendrai gyvenantys asmenys augina tris ir daugiau vaikų ar bent vienas iš bendrai gyvenančių asmenų ar vienas gyvenantis asmuo yra neįgalus. 
 
 
 
 
-3. Šio straipsnio 1 ir 2 dalyse nurodytiems mokiniams skiriamas nemokamas maitinimas mokyklų organizuojamose vasaros poilsio stovyklose.
+3. Mokiniai, kurie mokosi pagal priešmokyklinio ugdymo programą savivaldybių bendrojo ugdymo mokyklose, kuriose maitinimas organizuojamas taikant savitarnos principą Lietuvos Respublikos sveikatos apsaugos ministro nustatyta tvarka, turi teisę į nemokamus pietus, nevertinant gaunamų pajamų. Savivaldybių, kurių administracijų patvirtintuose sąrašuose esančiose bendrojo ugdymo mokyklose bus organizuojamas nemokamas maitinimas taikant savitarnos principą, sąrašą tvirtina socialinės apsaugos ir darbo ministras.
 
 
 
 
-4. Mokiniai turi teisę į nemokamus pusryčius, pietus, pavakarius, maitinimą mokyklų organizuojamose vasaros poilsio stovyklose pagal šio įstatymo 15 straipsnio 4 dalies 4 punktą. 
+4. Mokiniai turi teisę į nemokamus pusryčius, pietus, pavakarius, maitinimą mokyklų organizuojamose vasaros poilsio stovyklose ir paramą mokinio reikmenims įsigyti pagal šio įstatymo 15 straipsnio 4 dalies 4 punktą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2603, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20562
  
-
-
 
 
 
@@ -433,7 +441,10 @@ SOCIALINĖS PARAMOS MOKINIAMS ADMINISTRAVIMAS
 
 
 
-3. Mokiniams nemokamas maitinimas neteikiamas, jeigu jų tėvai yra atleisti nuo mokėjimo už vaikų maitinimą mokyklų bendrabučiuose.
+3. Mokiniams nemokamas maitinimas neteikiamas, jeigu jų tėvai yra atleisti nuo mokėjimo už vaikų maitinimą mokyklų bendrabučiuose, išskyrus šio įstatymo 5 straipsnio 3 dalyje nustatytą atvejį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2603, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20562
+ 
 
 
 
@@ -458,7 +469,9 @@ SOCIALINĖS PARAMOS MOKINIAMS ADMINISTRAVIMAS
 
 
 
-8. Parama mokinio reikmenims įsigyti privalo būti teikiama nepinigine forma, jeigu mokinys patiria socialinę riziką arba mokinį augina bendrai gyvenantys asmenys, patiriantys socialinę riziką.
+8. Parama mokinio reikmenims įsigyti privalo būti teikiama nepinigine forma, jeigu mokinys patiria socialinę riziką arba mokinį augina bendrai gyvenantys asmenys, patiriantys socialinę riziką, išskyrus atvejį, kai atvejo vadybininkas, koordinuojantis atvejo vadybos procesą, o kai atvejo vadyba netaikoma, – socialinis darbuotojas, dirbantis su asmenimis, patiriančiais socialinę riziką, rekomenduoja paramą mokinio reikmenims įsigyti teikti pinigine forma. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2603, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20562
  
 
 
@@ -477,7 +490,10 @@ SOCIALINĖS PARAMOS MOKINIAMS ADMINISTRAVIMAS
 
 
 
-2) kai nėra aplinkybių, nurodytų šio įstatymo 1 straipsnio 2 dalyje, 5 straipsnio 1 ar 2 dalyje;
+2) kai nėra aplinkybių, nurodytų šio įstatymo 1 straipsnio 2 dalyje ir 5 straipsnyje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2603, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20562
+ 
 
 
 
@@ -783,3 +799,8 @@ Lietuvos Respublikos socialinės paramos mokiniams įstatymo Nr. X-686 8, 10, 11
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1690, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20237
 Lietuvos Respublikos socialinės paramos mokiniams įstatymo Nr. X-686 pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2603, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20562
+Lietuvos Respublikos socialinės paramos mokiniams įstatymo Nr. X-686 1, 2, 4, 5, 12 ir 13 straipsnių pakeitimo įstatymas
