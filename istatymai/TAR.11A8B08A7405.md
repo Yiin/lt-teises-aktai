@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-19
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
@@ -1629,31 +1629,46 @@ Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
 
 
 
-45 straipsnis. Suimtųjų sveikatos priežiūra
+45 straipsnis. Suimtųjų asmens sveikatos priežiūra 
 
 
-1. Asmens sveikatos priežiūra tardymo izoliatoriuose organizuojama ir atliekama įstatymų nustatyta tvarka. Suimtiesiems turi būti užtikrintas tokios pat kokybės ir lygio gydymas kaip ir laisvėje esantiems asmenims.
-
-
-
-
-2. Tardymo izoliatoriuose veikia asmens sveikatos priežiūros tarnybos. Šių tarnybų struktūrą ir darbo tvarką nustato sveikatos apsaugos ir teisingumo ministrai.
+1. Asmens sveikatos priežiūros paslaugos suimtiesiems teikiamos Lietuvos Respublikos sveikatos apsaugos ministro ir teisingumo ministro nustatyta tvarka.
 
 
 
 
-3. Privaloma nuodugniai patikrinti naujų į tardymo izoliatorių priimtų asmenų sveikatos būklę. Atsižvelgiant į suimto nepilnamečio sveikatos būklę, taip pat į suimto nepilnamečio ar jo gynėjo arba atstovo prašymą, turi būti atliktas papildomas ar pakartotinis šio suimto nepilnamečio sveikatos būklės patikrinimas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2336, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12387
+2. Pirminio lygio ambulatorinę suimtųjų asmens sveikatos priežiūrą užtikrina laisvės atėmimo vietų ligoninė arba tardymo izoliatorių asmens sveikatos priežiūros padaliniai. Pirminio lygio ambulatorinės asmens sveikatos priežiūros paslaugos suimtiesiems teikiamos tardymo izoliatorių patalpose. 
+
+
+
+
+3. Privaloma nuodugniai patikrinti naujų į tardymo izoliatorių priimtų asmenų sveikatos būklę. Atsižvelgiant į suimto nepilnamečio sveikatos būklę, taip pat į suimto nepilnamečio ar jo gynėjo arba atstovo prašymą, turi būti atliktas papildomas ar pakartotinis šio suimto nepilnamečio sveikatos būklės patikrinimas.
+
+
+
+
+4. Kai laisvės atėmimo vietų ligoninė arba tardymo izoliatorių asmens sveikatos priežiūros padaliniai dėl objektyvių priežasčių negali užtikrinti pirminio lygio ambulatorinių asmens sveikatos priežiūros paslaugų teikimo suimtiesiems, šių paslaugų teikimą tardymo izoliatorių patalpose pagal sudarytas sutartis užtikrina savivaldybės, kurios teritorijoje veikia tardymo izoliatorius, pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas teikianti asmens sveikatos priežiūros įstaiga. Sprendimą dėl konkrečios pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas teikiančios asmens sveikatos priežiūros įstaigos, kuri užtikrins asmens sveikatos priežiūros paslaugų teikimą suimtiesiems, paskyrimo priima savivaldybės, kurios teritorijoje veikia tardymo izoliatorius, taryba.
+TAR pastaba. Savivaldybių, kurių teritorijose veikia tardymo izoliatoriai, tarybos iki 2020 m. sausio 1 d. paskiria konkrečias pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas teiksiančias asmens sveikatos priežiūros įstaigas, kurios užtikrins asmens sveikatos priežiūros paslaugų teikimą suimtiesiems, o šių sveikatos priežiūros įstaigų vadovai su laisvės atėmimo vietų ligonine arba su tardymo izoliatoriais, kuriuose įsteigti asmens sveikatos priežiūros padaliniai, sudaro 45 straipsnio 4 dalyje nurodytą sutartį.
+
+
+
+
+5. Antrinio lygio asmens sveikatos priežiūros paslaugos, kurios neteikiamos laisvės atėmimo vietų ligoninėje, ir tretinio lygio asmens sveikatos priežiūros paslaugos suimtiesiems teikiamos arčiausiai esančiose ir atitinkamas paslaugas galinčiose suteikti valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose. 
+
+
+
+
+6. Asmens sveikatos priežiūros paslaugos valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose teikiamos užtikrinant suimtųjų apsaugą.
+
+
+
+
+7. Suimtųjų asmens sveikatos priežiūrą organizuoja Lietuvos Respublikos sveikatos apsaugos ministerija. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2700, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21418
  
-
-
-
-
-4. Suimtajam reikalinga būtinoji medicinos pagalba, kurią suteikti laisvės atėmimo vietų ligoninėje nėra galimybių, gali būti teikiama valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose užtikrinant suimtojo apsaugą. Šios pagalbos teikimo tvarką nustato sveikatos apsaugos ir teisingumo ministrai.
- 
-
-
 
 
 
@@ -1916,3 +1931,8 @@ Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 6, 7, 8, 12, 17, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2336, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12387
 Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 10, 45 straipsnių ir priedo pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2700, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21418
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 45 straipsnio pakeitimo įstatymas
