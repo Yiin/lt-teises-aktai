@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ BANKROTO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2018-06-26 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2021-05-18
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 57-2823, i. k. 1121010ISTA0XI-2000
  
@@ -95,7 +95,9 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 
 
 
-3. Bankroto administratorius – fizinis arba juridinis asmuo arba juridinio asmens padalinys (filialas), Lietuvos Respublikos įmonių bankroto įstatymo (toliau – Įmonių bankroto įstatymas) nustatyta tvarka turintys teisę teikti įmonių bankroto administravimo paslaugas ar Lietuvos Respublikos įmonių restruktūrizavimo įstatymo (toliau – Įmonių restruktūrizavimo įstatymas) nustatyta tvarka turintys teisę teikti įmonių restruktūrizavimo administravimo paslaugas.
+3. Bankroto administratorius – nemokumo administratorius, kaip jis apibrėžtas Lietuvos Respublikos juridinių asmenų nemokumo įstatyme (toliau – Juridinių asmenų nemokumo įstatymas). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
  
 
 
@@ -474,9 +476,17 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 
 
-7) mokesčius surinkti įpareigotoms valstybei atstovaujančioms institucijoms. 
+7) mokesčius surinkti įpareigotoms valstybei atstovaujančioms institucijoms; 
 Papildyta straipsnio punktu:
 Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
+ 
+
+
+
+
+8) Garantinio fondo administratoriui.
+Papildyta straipsnio punktu:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
  
 
 
@@ -990,7 +1000,10 @@ BANKROTO ADMINISTRATORIUS
 
 
 
-4. Bankroto administratoriaus juridinio asmens vadovui, jo pavaduotojams, vyriausiajam buhalteriui, juridinio asmens kolegialaus valdymo organo nariams, juridinio asmens darbuotojams, teikiantiems administravimo paslaugas, taikomi šio straipsnio 3 dalyje bankroto administratoriui nustatyti apribojimai.
+4. Bankroto administratoriaus juridinio asmens dalyviams, organų nariams, vadovui, vyriausiajam buhalteriui, kaip jis apibrėžtas Juridinių asmenų nemokumo įstatyme, juridinio asmens darbuotojams, atsakingiems už fizinių asmenų bankroto procesų administravimą, taikomi šio straipsnio 3 dalyje bankroto administratoriui nustatyti apribojimai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
+ 
 
 
 
@@ -1127,14 +1140,19 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 
 
 
-15) pateikia Garantiniam fondui dokumentus dėl lėšų skyrimo darbuotojų reikalavimams, susijusiems su darbo santykiais, tenkinti;
+15) neteko galios 2020-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
+ 
 
 
 
 
-16) pateikia Nacionalinei mokėjimo agentūrai prie Žemės ūkio ministerijos dokumentus dėl lėšų skyrimo kreditorių – žemės ūkio veiklos subjektų, kaip jie apibrėžti Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme, reikalavimams sumokėti už parduotus žemės ūkio produktus tenkinti; 
+16) neteko galios 2020-01-01; 
 Papildyta straipsnio punktu:
 Nr. XII-2108, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19294
+Straipsnio punkto pakeitimai:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
  
 
 
@@ -1190,7 +1208,9 @@ Nr. XII-2108, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19294
 
 
 
-6. Bankroto administratorius, netekęs teisės teikti įmonių bankroto administravimo arba įmonių restruktūrizavimo paslaugas, nebegali atlikti fizinio asmens bankroto procedūrų nuo nurodytos teisės netekimo dienos.
+6. Bankroto administratorius, netekęs teisės administruoti juridinių asmenų nemokumo procesų, nebegali atlikti fizinio asmens bankroto procedūrų nuo nurodytos teisės netekimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
  
 
 
@@ -1201,7 +1221,34 @@ Nr. XII-2108, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19294
 13 straipsnis. Bankroto administratoriaus civilinės atsakomybės draudimas ir jo veiklos priežiūra
 
 
-1. Bankroto administratoriaus profesinė civilinė atsakomybė už atliekant fizinių asmenų bankroto procedūras fiziniams ar juridiniams asmenims padarytą žalą, viršijančią 290 eurų, draudžiama profesinės civilinės atsakomybės privalomuoju draudimu. 
+1. Bankroto administratoriaus profesinė civilinė atsakomybė draudžiama profesinės civilinės atsakomybės privalomuoju draudimu Juridinių asmenų nemokumo įstatyme nustatytomis sąlygomis. 
+Straipsnio dalies pakeitimai:
+Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
+ 
+
+
+
+
+2. Neteko galios nuo 2020-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
+ 
+
+
+
+
+3. Neteko galios nuo 2020-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
+ 
+
+
+
+
+4. Neteko galios nuo 2020-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
 Straipsnio dalies pakeitimai:
 Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
  
@@ -1209,46 +1256,41 @@ Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
 
 
 
-2. Bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo objektas yra bankroto administratoriaus civilinė atsakomybė už draudimo sutarties galiojimo metu bankroto administratoriaus ir (ar) jo darbuotojų neteisėtais veiksmais atliekant fizinių asmenų bankroto procedūras padarytą žalą.
-
-
-
-
-3. Draudžiamuoju įvykiu laikomi draudimo sutarties galiojimo metu bankroto administratoriaus ir (ar) jo darbuotojų atlikti neteisėti veiksmai (veikimas, neveikimas) atliekant fizinių asmenų bankroto procedūras, kurie yra pagrindas atsirasti apdraustojo civilinei atsakomybei, ir reikalavimo, kuris atitinka bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo standartines sąlygas, atlyginti žalą pateikimas.
-
-
-
-
-4. Bankroto administratorius profesinės civilinės atsakomybės privalomuoju draudimu draudžiamas sudarant bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo sutartį. Bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo draudėjas yra bankroto administratorius. Bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo minimali draudimo suma yra 28 900 eurų vienam draudžiamajam įvykiui ir 57 900 eurų visiems draudžiamiesiems įvykiams per metus. Dėl draudžiamojo įvykio išmokėjus draudimo išmoką ir sumažėjus šio straipsnio nustatytai minimaliai draudimo sumai, bankroto administratorius privalo per vieną mėnesį apsidrausti civilinę atsakomybę, kad būtų atkurta privalomoji minimali draudimo suma.
-TAR pastaba. 13 straipsnio 4 dalies nuostatos taikomos nuo 2015 m. sausio 1 d. iš naujo sudaromoms bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo sutartims.
-Straipsnio dalies pakeitimai:
-Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
+5. Neteko galios nuo 2020-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
  
 
 
 
 
-5. Bankroto administratorius gali pats papildomai draustis bankroto administratoriaus profesinės civilinės atsakomybės draudimu už atliekant fizinių asmenų bankroto procedūras fiziniams ar juridiniams asmenims padarytą žalą.
+6. Neteko galios nuo 2020-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
+ 
 
 
 
 
-6. Draudikas, turintis teisę Lietuvos Respublikos teritorijoje vykdyti bankroto administratorių profesinės civilinės atsakomybės privalomąjį draudimą, privalo sudaryti bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo sutartį su bankroto administratoriumi, pateikusiu prašymą ir visus šiai sutarčiai sudaryti būtinus duomenis ir dokumentus. Bankroto administratorių profesinės civilinės atsakomybės privalomojo draudimo standartines sąlygas tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.
+7. Neteko galios nuo 2020-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
+ 
 
 
 
 
-7. Bankroto administratorius, siekdamas atlikti fizinio asmens bankroto procedūras, privalo teismui ir šio įstatymo 13 straipsnio 9 dalyje nurodytai Lietuvos Respublikos Vyriausybės įgaliotai institucijai pateikti bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo liudijimo kopiją. Paskirto naujo bankroto administratoriaus profesinės civilinės atsakomybės privalomojo draudimo liudijimo kopija teismui ir šio įstatymo 13 straipsnio 9 dalyje nurodytai Lietuvos Respublikos Vyriausybės įgaliotai institucijai pateikiama nedelsiant.
+8. Neteko galios nuo 2020-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
+ 
 
 
 
 
-8. Jeigu draudimo išmokos visai bankroto administratoriaus padarytai žalai atlyginti nepakanka, žalą padaręs bankroto administratorius atlygina faktinės žalos dydžio ir draudimo išmokos skirtumą.
-
-
-
-
-9. Bankroto administratoriaus veiklą fizinio asmens bankroto proceso metu prižiūri Lietuvos Respublikos Vyriausybės įgaliota institucija. Fizinio asmens bankroto proceso metu priežiūrai atlikti mutatis mutandis taikomos Įmonių bankroto įstatymo nuostatos, kai fizinio asmens bankroto procedūras atlieka fizinis arba juridinis asmuo arba juridinio asmens padalinys (filialas), turintys teisę teikti įmonių bankroto administravimo paslaugas. Fizinio asmens bankroto proceso metu priežiūrai atlikti mutatis mutandis taikomos Įmonių restruktūrizavimo įstatymo nuostatos, kai fizinio asmens bankroto procedūras atlieka fizinis arba juridinis asmuo arba juridinio asmens padalinys (filialas), turintys teisę teikti įmonių restruktūrizavimo administravimo paslaugas.
+9. Bankroto administratoriaus veiklą prižiūri Lietuvos Respublikos Vyriausybės įgaliota institucija, kuri Juridinių asmenų nemokumo įstatyme apibrėžta kaip priežiūros institucija (toliau – Lietuvos Respublikos Vyriausybės įgaliota institucija). Bankroto administratoriaus veiklos priežiūrai atlikti mutatis mutandis taikomos Juridinių asmenų nemokumo įstatymo III dalies nuostatos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
  
 
 
@@ -1267,7 +1309,10 @@ Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
 
 
 
-2) teismas gauna informacijos, kad bankroto administratorius neteko teisės teikti įmonių bankroto administravimo arba įmonių restruktūrizavimo administravimo paslaugas, ir bankroto administratorius ir (ar) fizinis asmuo nesikreipė į teismą dėl šio bankroto administratoriaus atstatydinimo. Šiuo atveju teismas priima nutartį dėl bankroto administratoriaus atstatydinimo ir naujo bankroto administratoriaus paskyrimo ne vėliau kaip per 15 dienų nuo informacijos gavimo dienos.
+2) teismas gauna informacijos, kad bankroto administratorius neteko teisės administruoti juridinių asmenų nemokumo procesų, ir bankroto administratorius ir (ar) fizinis asmuo nesikreipė į teismą dėl šio bankroto administratoriaus atstatydinimo. Šiuo atveju teismas priima nutartį dėl bankroto administratoriaus atstatydinimo ir naujo bankroto administratoriaus paskyrimo ne vėliau kaip per 15 dienų nuo informacijos gavimo dienos. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
+ 
 
 
 
@@ -1289,7 +1334,10 @@ Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
 
 
 
-3. Apie ketinimą pateikti prašymą dėl atsistatydinimo bankroto administratorius praneša fiziniam asmeniui ir kreditorių susirinkimo pirmininkui ne vėliau kaip prieš 10 dienų iki kreipimosi į teismą dienos. Kai bankroto administratorius netenka teisės teikti įmonių bankroto administravimo arba įmonių restruktūrizavimo administravimo paslaugas, jis ne vėliau kaip kitą darbo dieną po tos dienos, kai sužinojo apie teisės teikti įmonių bankroto administravimo arba įmonių restruktūrizavimo administravimo paslaugas netekimą, pateikia prašymą teismui (teismams) dėl jo atstatydinimo iš visų jo administruojamų fizinio asmens bankroto procedūrų ir šio prašymo kopiją pateikia fiziniam asmeniui ir kreditorių susirinkimo pirmininkui. Fizinis asmuo ir (ar) kreditorių susirinkimo pirmininkas ne vėliau kaip per 5 darbo dienas nuo šio bankroto administratoriaus pranešimo gavimo dienos arba nuo informacijos, kad bankroto administratorius prarado teisę teikti įmonių bankroto administravimo arba įmonių restruktūrizavimo administravimo paslaugas, gavimo dienos gali teismui pasiūlyti naują bankroto administratoriaus kandidatūrą šio įstatymo nustatyta tvarka. Jeigu fizinis asmuo bankroto administratoriaus kandidatūros nepasiūlo, teismas skiria bankroto administratorių, kurio kandidatūrą pasiūlo šio įstatymo 13 straipsnio 9 dalyje nurodyta Lietuvos Respublikos Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka.
+3. Apie ketinimą pateikti prašymą dėl atsistatydinimo bankroto administratorius praneša fiziniam asmeniui ir kreditorių susirinkimo pirmininkui ne vėliau kaip prieš 10 dienų iki kreipimosi į teismą dienos. Kai bankroto administratorius netenka teisės administruoti juridinių asmenų nemokumo procesų, jis ne vėliau kaip kitą darbo dieną po tos dienos, kai sužinojo apie šios teisės netekimą, pateikia prašymą teismui (teismams) dėl jo atstatydinimo iš visų jo administruojamų fizinio asmens bankroto procesų ir šio prašymo kopiją pateikia fiziniam asmeniui ir kreditorių susirinkimo pirmininkui. Fizinis asmuo ir (ar) kreditorių susirinkimo pirmininkas ne vėliau kaip per 5 darbo dienas nuo šio bankroto administratoriaus pranešimo gavimo dienos arba nuo informacijos, kad bankroto administratorius neteko teisės administruoti juridinių asmenų nemokumo procesų, gavimo dienos gali teismui pasiūlyti naują bankroto administratoriaus kandidatūrą šio įstatymo nustatyta tvarka. Jeigu fizinis asmuo bankroto administratoriaus kandidatūros nepasiūlo, teismas skiria bankroto administratorių, kurio kandidatūrą pasiūlo šio įstatymo 13 straipsnio 9 dalyje nurodyta Lietuvos Respublikos Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
+ 
 
 
 
@@ -1631,13 +1679,15 @@ Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
 
 
 
-21 straipsnis. Darbo santykių reguliavimas
+21 straipsnis. Darbo santykių reguliavimas
 
 
-Įmonių bankroto įstatymo nuostatos, reglamentuojančios darbo santykius įmonių bankroto proceso metu, mutatis mutandis taikomos fizinio asmens bankroto proceso metu.
+Juridinių asmenų nemokumo įstatymo nuostatos, reglamentuojančios darbo santykius juridinių asmenų bankroto proceso metu, mutatis mutandis taikomos fizinio asmens bankroto proceso metu. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
  
-
-
 
 
 
@@ -1708,7 +1758,10 @@ KREDITORIŲ TEISĖS IR PAREIGOS FIZINIO ASMENS BANKROTO PROCESO METU
 
 
 
-6. Teismas priima nutartį dėl kreditorių reikalavimų tvirtinimo ar atsisakymo juos tvirtinti ne vėliau kaip per 20 dienų nuo kreditorių ir jų reikalavimų sąrašo gavimo dienos. Teismo nutartis dėl kreditorių reikalavimų tvirtinimo ar atsisakymo juos tvirtinti atskiruoju skundu gali būti skundžiama teisės aktų nustatyta tvarka. Atskirasis skundas turi būti išnagrinėtas teisme ne vėliau kaip per 30 dienų nuo jo gavimo apeliacinės instancijos teisme dienos.
+6. Teismas priima nutartį dėl kreditorių reikalavimų tvirtinimo ar atsisakymo juos tvirtinti ne vėliau kaip per 20 dienų nuo kreditorių ir jų reikalavimų sąrašo gavimo dienos. Teismo nutartyje dėl kreditorių reikalavimų tvirtinimo prie darbuotojų su darbo santykiais susijusių reikalavimų turi būti išskirtos šių reikalavimų sumos, nuo kurių yra skaičiuojamos valstybinio socialinio draudimo įmokos. Teismo nutartis dėl kreditorių reikalavimų tvirtinimo ar atsisakymo juos tvirtinti atskiruoju skundu gali būti skundžiama teisės aktų nustatyta tvarka. Atskirasis skundas turi būti išnagrinėtas teisme ne vėliau kaip per 30 dienų nuo jo gavimo apeliacinės instancijos teisme dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
+ 
 
 
 
@@ -1724,6 +1777,13 @@ KREDITORIŲ TEISĖS IR PAREIGOS FIZINIO ASMENS BANKROTO PROCESO METU
 
 
 9. Kai teismas priima nutartį dėl kreditorių sąrašo ir jų reikalavimų patikslinimo, planas tikslinamas šio įstatymo nustatyta tvarka.
+
+
+
+
+10. Įsiteisėjus teismo nutarčiai dėl kreditorių sąrašo ir jų reikalavimų patikslinimo, jeigu teismo nutartimi tvirtinami su darbo santykiais susiję darbuotojų reikalavimai, teismas privalo ne vėliau kaip kitą darbo dieną apie tai raštu pranešti Garantinio fondo administratoriui ir kartu pateikti šios nutarties patvirtintą kopiją. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
  
 
 
@@ -2024,13 +2084,10 @@ KREDITORIŲ REIKALAVIMŲ TENKINIMAS IR FIZINIO ASMENS BANKROTO PROCESO PABAIGA
  
 
 
-29 straipsnis. Kreditorių reikalavimų tenkinimas
+29 straipsnis. Kreditorių reikalavimų tenkinimas
 
 
 1. Pagal įkeitimo sutartį arba įregistruotą hipotekos ir (ar) įkeitimo lakštą kreditorius (įkaito turėtojas, hipotekos kreditorius) įgyja teisę, jeigu fizinis asmuo neįvykdė įkeitimu ir (ar) hipoteka užtikrintos prievolės, šio įstatymo nustatyta tvarka reikalauti įkeistą turtą parduoti ir iš gautų lėšų pirmiausia tenkinti jo reikalavimus, o jeigu įkeisto turto parduoti nepavyksta, – perduoti šį turtą jo nuosavybėn. Įkeitimu ir (ar) hipoteka užtikrinti kreditorių reikalavimai tenkinami pirmiausia iš lėšų, gautų pardavus įkeistą fizinio asmens turtą, arba perduodant įkeistą turtą. Jeigu įkeistas turtas parduodamas už didesnę kainą negu įkeitimu ir (ar) hipoteka užtikrintų reikalavimų suma, šių lėšų likutis skiriamas kitų kreditorių reikalavimams tenkinti. Jeigu plane nenumatyta parduoti įkeisto turto, mokėjimai įkaito turėtojui ir (ar) hipotekos kreditoriui atliekami kiekvieną mėnesį, kaip nustatyta šio įstatymo 7 straipsnio 1 dalies 6 punkte. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
- 
 
 
 
@@ -2040,23 +2097,32 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 
 
-3. Pirmąja eile tenkinami darbuotojų reikalavimai, susiję su darbo santykiais (įskaitant gyventojų pajamų mokestį, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokas); reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe ir piniginės lėšos vaikui (įvaikiui) išlaikyti (alimentai); iš Lietuvos Respublikos žemės ūkio ministerijos skirtų lėšų tenkinami žemės ūkio veiklos subjektų reikalavimai sumokėti už parduotus žemės ūkio produktus. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2108, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19294
- 
+3. Pirmąja eile tenkinami:
+
+
+1) darbuotojų reikalavimai, susiję su darbo santykiais;
 
 
 
 
-4. Antrąja eile tenkinami visi likusieji kreditorių reikalavimai.
+2) reikalavimai dėl valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokų;
+
+
+
+
+3) reikalavimai dėl lėšų vaikui (įvaikiui) išlaikyti (alimentų).  
+
+
+
+
+
+
+4. Antrąja eile tenkinami visi likusieji kreditorių reikalavimai, įskaitant atgręžtinius reikalavimus, atsiradusius dėl šio straipsnio 8, 9 ir 10 dalyse nurodytų reikalavimų tenkinimo.
 
 
 
 
 5. Kreditorių reikalavimai, atsiradę fizinio asmens bankroto proceso metu iš individualios ir (ar) ūkininko veiklos dėl neįvykdytų prievolių ir įsipareigojimų, ir kreditorių reikalavimai, atsiradę dėl šio įstatymo 17 straipsnio 9 punkte nurodytų prisiimtų skolinių įsipareigojimų, išskyrus įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus, tenkinami po šio straipsnio 3 dalyje nustatytų kreditorių reikalavimų ir prieš šio straipsnio 4 dalyje nustatytus kreditorių reikalavimus. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
- 
 
 
 
@@ -2066,29 +2132,32 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 
 
-7. Plane numatyti likę nepatenkinti kreditorių reikalavimai, tarp jų įkeitimu ir (ar) hipoteka užtikrinti kreditorių reikalavimai, baigus fizinio asmens bankroto procesą, išskyrus šio įstatymo 30 straipsnio 3 dalies 2 punkte nurodytą atvejį, nurašomi, išskyrus reikalavimus dėl žalos atlyginimo dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, dėl nusikalstama veika padarytos žalos atlyginimo, piniginių lėšų vaikui (įvaikiui) išlaikyti (alimentų) bei reikalavimus, kurie kyla iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus administracinius nusižengimus arba nusikalstamas veikas, ir įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus, jeigu šie kreditoriai ir fizinis asmuo susitarė dėl įkeisto turto išsaugojimo fizinio asmens bankroto proceso metu, nebent šio įstatymo 4 straipsnio 4 dalies 10 punkte nurodytame susitarime susitarta kitaip. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
-Nr. XII-2286, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06438
-Nr. KT5-N4/2017, 2017-05-19, paskelbta TAR 2017-05-19, i. k. 2017-08442
-Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
+7. Plane numatyti likę nepatenkinti kreditorių reikalavimai, tarp jų įkeitimu ir (ar) hipoteka užtikrinti kreditorių reikalavimai, baigus fizinio asmens bankroto procesą, išskyrus šio įstatymo 30 straipsnio 3 dalies 2 punkte nurodytą atvejį, nurašomi, išskyrus reikalavimus dėl lėšų vaikui (įvaikiui) išlaikyti (alimentų) ir reikalavimus, kurie kyla iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus administracinius nusižengimus arba nusikalstamas veikas, ir įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus, jeigu šie kreditoriai ir fizinis asmuo susitarė dėl įkeisto turto išsaugojimo fizinio asmens bankroto proceso metu, nebent šio įstatymo 4 straipsnio 4 dalies 10 punkte nurodytame susitarime susitarta kitaip. 
+
+
+
+
+8. Šio straipsnio 3 dalyje nurodytų kreditorių reikalavimai, susiję su darbo santykiais gali būti tenkinami iš Garantinio fondo lėšų. Šiuo atveju kreditoriaus patvirtinti reikalavimai, susiję su darbo santykiais, mažinami iš Garantinio fondo sumokėtos sumos dydžiu.
+
+
+
+
+9. Darbuotojų reikalavimai atlyginti žalą dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga tenkinami Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo nustatyta tvarka.
+
+
+
+
+10. Žemės ūkio veiklos subjektų reikalavimai tenkinami 2013 m. gruodžio 18 d. Komisijos reglamento (ES) Nr. 1408/2013 dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai žemės ūkio sektoriuje (OL 2013 L 352, p. 9) ir Vyriausybės nustatyta tvarka. Šiuo atveju žemės ūkio veiklos subjekto patvirtinti reikalavimai mažinami Vyriausybės nustatyta tvarka išmokėtos sumos dydžiu.
+
+
+
+
+11. Fizinio asmens ir kreditoriaus priešpriešinių vienarūšių reikalavimų įskaitymo atveju, kai toks įskaitymas galimas pagal mokesčių įstatymuose nustatytas mokesčio permokos (skirtumo) įskaitymo nuostatas, kreditoriaus reikalavimai mažinami įskaitytos sumos dydžiu kartu su priskaičiuotomis palūkanomis ir netesybomis. Jeigu įskaitomos sumos neužtenka visiems kreditoriaus reikalavimams tenkinti, pirmiausia tenkinama reikalavimo dalis be palūkanų ir netesybų, likusi reikalavimų dalis tenkinama šiame straipsnyje nustatyta tvarka, atsižvelgiant į šio straipsnio 2 dalyje nustatytą reikalavimų tenkinimą dviem etapais. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
  
-
-
-
-
-8. Šio straipsnio 3 dalyje nurodytų kreditorių reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe gali būti tenkinami iš Garantinio fondo lėšų, o žemės ūkio veiklos subjektų reikalavimai sumokėti už parduotus žemės ūkio produktus gali būti tenkinami Lietuvos Respublikos Vyriausybės nustatyta tvarka iki 40 procentų reikalaujamos sumokėti sumos iš Lietuvos Respublikos žemės ūkio ministerijos einamaisiais metais šiam tikslui skirtų valstybės biudžeto lėšų. Šiuo atveju kreditoriaus patvirtinti reikalavimai, susiję su darbo santykiais, reikalavimai atlyginti žalą dėl suluošinimo ar kitokio kūno sužalojimo, ar mirties, susirgimo profesine liga arba dėl mirties nuo nelaimingo atsitikimo darbe mažinami iš Garantinio fondo sumokėtos sumos dydžiu, o kreditoriaus – žemės ūkio veiklos subjekto reikalavimai sumokėti už parduotus žemės ūkio produktus mažinami iš Lietuvos Respublikos žemės ūkio ministerijos skirtų lėšų sumokėtos sumos dydžiu. Dėl šios priežasties Garantinio fondo ir Nacionalinės mokėjimo agentūros prie Žemės ūkio ministerijos atgręžtiniai reikalavimai turi būti tenkinami antrąja eile.
-Straipsnio dalies pakeitimai:
-Nr. XII-2108, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19294
- 
-
-
-
-
-9. Fizinio asmens ir kreditoriaus priešpriešinių vienarūšių reikalavimų įskaitymo atveju, kai toks įskaitymas galimas pagal mokesčių įstatymuose nustatytas mokesčio permokos (skirtumo) įskaitymo nuostatas, kreditoriaus reikalavimai mažinami įskaitytos sumos dydžiu kartu su priskaičiuotomis palūkanomis ir netesybomis. Jeigu įskaitomos sumos neužtenka visiems kreditoriaus reikalavimams tenkinti, pirmiausia tenkinama reikalavimo dalis be palūkanų ir netesybų, likusi reikalavimų dalis tenkinama šiame straipsnyje nustatyta tvarka, atsižvelgiant į šio straipsnio 2 dalyje nustatytą reikalavimų tenkinimą dviem etapais.
- 
-
-
 
 
 
@@ -2309,3 +2378,8 @@ Dėl Lietuvos Respublikos fizinių asmenų bankroto įstatymo nuostatų atitikti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 1, 3, 5, 6, 7, 8, 9, 12, 27, 29, 31 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 2, 6, 11, 12, 13, 14, 21, 23 ir 29 straipsnių pakeitimo įstatymas
