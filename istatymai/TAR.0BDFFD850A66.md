@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66"
 
 # Lietuvos Respublikos viešojo administravimo įstatymas
 
-Suvestinė redakcija nuo 2019-11-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-08-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1945, i. k. 0991010ISTAIII-1234
  
@@ -285,9 +285,18 @@ Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
 
 
 
-13) išsamumo. Šis principas reiškia, kad viešojo administravimo subjektas į prašymą ar skundą turi atsakyti aiškiai ir argumentuotai, nurodydamas visas prašymo ar skundo nagrinėjimui įtakos turėjusias aplinkybes ir konkrečias teisės aktų nuostatas, kuriomis rėmėsi vertindamas prašymo ar skundo turinį. 
+13) išsamumo. Šis principas reiškia, kad viešojo administravimo subjektas į prašymą ar skundą turi atsakyti aiškiai ir argumentuotai, nurodydamas visas prašymo ar skundo nagrinėjimui įtakos turėjusias aplinkybes ir konkrečias teisės aktų nuostatas, kuriomis rėmėsi vertindamas prašymo ar skundo turinį; 
 Papildyta straipsnio punktu:
 Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
+ 
+
+
+
+
+14) draudimo keisti į blogąją pusę (non reformatio in peius). Šis principas reiškia, kad viešojo administravimo subjektas, priimdamas administracinės procedūros sprendimą, negali pabloginti asmens, dėl kurio yra pradėta administracinė procedūra, padėties. 
+TAR pastaba. Skundai, pradėti nagrinėti iki įstatymo Nr. XIII-2239 įsigaliojimo (2020-01-01), baigiami nagrinėti laikantis šio įstatymo nuostatų.
+Papildyta straipsnio punktu:
+Nr. XIII-2239, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10362
  
 
 
@@ -1384,7 +1393,11 @@ Pareigūnas, valstybės tarnautojas ar darbuotojas, atlikęs administracinę pro
 34 straipsnis. Administracinės procedūros sprendimo priėmimas, įteikimas (išsiuntimas) ir saugojimas 
 
 
-1. Administracinė procedūra baigiama administracinės procedūros sprendimo priėmimu. Asmeniui, dėl kurio pradėta administracinė procedūra, ne vėliau kaip per 3 darbo dienas nuo administracinės procedūros sprendimo priėmimo dienos raštu pranešama apie priimtą administracinės procedūros sprendimą ir nurodomos faktinės aplinkybės, nustatytos skundo nagrinėjimo metu, teisės aktai, kuriais vadovaujantis priimtas administracinės procedūros sprendimas, ir sprendimo apskundimo tvarka. Asmeniui, kuris kreipėsi dėl administracinės procedūros pradėjimo, per 3 darbo dienas nuo administracinės procedūros sprendimo priėmimo dienos, laikantis asmens duomenų teisinę apsaugą reglamentuojančių teisės aktų reikalavimų, raštu pateikiama informacija apie priimtą administracinės procedūros sprendimą.
+1. Administracinė procedūra baigiama administracinės procedūros sprendimo priėmimu. Viešojo administravimo subjektas, priimdamas administracinės procedūros sprendimą, negali pabloginti asmens, dėl kurio buvo pradėta administracinė procedūra, padėties. Asmeniui, dėl kurio pradėta administracinė procedūra, ne vėliau kaip per 3 darbo dienas nuo administracinės procedūros sprendimo priėmimo dienos raštu pranešama apie priimtą administracinės procedūros sprendimą ir nurodomos faktinės aplinkybės, nustatytos skundo nagrinėjimo metu, teisės aktai, kuriais vadovaujantis priimtas administracinės procedūros sprendimas, ir sprendimo apskundimo tvarka. Asmeniui, kuris kreipėsi dėl administracinės procedūros pradėjimo, per 3 darbo dienas nuo administracinės procedūros sprendimo priėmimo dienos, laikantis asmens duomenų teisinę apsaugą reglamentuojančių teisės aktų reikalavimų, raštu pateikiama informacija apie priimtą administracinės procedūros sprendimą. 
+TAR pastaba. Skundai, pradėti nagrinėti iki įstatymo Nr. XIII-2239 įsigaliojimo (2020-01-01), baigiami nagrinėti laikantis šio įstatymo nuostatų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2239, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10362
+ 
 
 
 
@@ -2243,3 +2256,8 @@ Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 36-4 ir 36-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2123, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08421
 Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 papildymo 15-1 straipsniu įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2239, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10362
+Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 3 ir 34 straipsnių pakeitimo įstatymas
