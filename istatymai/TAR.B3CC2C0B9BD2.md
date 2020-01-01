@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B3CC2C0B9BD2"
 
 # Lietuvos Respublikos vandens įstatymas
 
-Suvestinė redakcija nuo 2019-11-02 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 104-2615, i. k. 0971010ISTAVIII-474
  
@@ -133,110 +133,117 @@ BENDROSIOS NUOSTATOS
 
 
 
-11. Patvenktas ežeras – ežeras, kurio vandens lygis reguliuojamas ežero ištakose įrengtais patvenkiamaisiais hidrotechniniais statiniais.
+11. Paplūdimys – sausumos ir su ja besiribojančio paviršinio vandens telkinio dalis, skirta poilsiui organizuoti.
 
 
 
 
-12. Paviršinio vandens telkinio būklė – bendra paviršinio vandens telkinio kokybė, nustatoma įvertinus jo ekologinę ir cheminę būklę ir tapatinama su blogiau įvertinta.
+12. Patvenktas ežeras – ežeras, kurio vandens lygis reguliuojamas ežero ištakose įrengtais patvenkiamaisiais hidrotechniniais statiniais.
 
 
 
 
-13. Paviršinis vandens telkinys – kiekybės rodikliais apibūdinama žemės paviršiuje esanti vandens aplinkos dalis, tai yra: jūra ar jos dalis, upė ar jos dalis, ežeras, dirbtinis vandens telkinys. 
+13. Paviršinio vandens telkinio būklė – bendra paviršinio vandens telkinio kokybė, nustatoma įvertinus jo ekologinę ir cheminę būklę ir tapatinama su blogiau įvertinta.
 
 
 
 
-14. Plaukiojimo priemonės – laivai, kiti plaukiojimui naudojami (įskaitant ir plūduriuojančius) įrenginiai arba priemonės.
+14. Paviršinis vandens telkinys – kiekybės rodikliais apibūdinama žemės paviršiuje esanti vandens aplinkos dalis, tai yra: jūra ar jos dalis, upė ar jos dalis, ežeras, dirbtinis vandens telkinys. 
 
 
 
 
-15. Požeminio vandens telkinio būklė – bendra požeminio vandens telkinio kokybė, nustatoma įvertinus jo kiekybinę ir cheminę būklę ir tapatinama su blogiau įvertinta.
+15. Plaukiojimo priemonės – laivai, kiti plaukiojimui naudojami (įskaitant ir plūduriuojančius) įrenginiai arba priemonės.
 
 
 
 
-16. Požeminis vandens telkinys – sąlygines ribas turinti vandeningojo sluoksnio ar sluoksnių dalis, kurioje susitelkęs pakankamas kiekis požeminio vandens, kurio per parą būtų galima išgauti 10 m3.
+16. Požeminio vandens telkinio būklė – bendra požeminio vandens telkinio kokybė, nustatoma įvertinus jo kiekybinę ir cheminę būklę ir tapatinama su blogiau įvertinta.
 
 
 
 
-17. Priekrantės vandenys – jūros dalis nuo kranto iki linijos, kurios kiekvienas taškas nutolęs vieną jūrmylę jūros link nuo vidaus vandenis ir teritorinę jūrą skiriančios linijos.
+17. Požeminis vandens telkinys – sąlygines ribas turinti vandeningojo sluoksnio ar sluoksnių dalis, kurioje susitelkęs pakankamas kiekis požeminio vandens, kurio per parą būtų galima išgauti 10 m3.
 
 
 
 
-18. Prioritetinės medžiagos – teršalai, kurių išleidimas ar kitoks patekimas į aplinką turi būti mažinamas ar nutrauktas. Prioritetinių medžiagų sąrašą tvirtina Lietuvos Respublikos aplinkos ministras.
+18. Priekrantės vandenys – jūros dalis nuo kranto iki linijos, kurios kiekvienas taškas nutolęs vieną jūrmylę jūros link nuo vidaus vandenis ir teritorinę jūrą skiriančios linijos.
 
 
 
 
-19. Tarpiniai vandenys – prie upės žiočių esanti jūros dalis, kurioje vanduo yra iš dalies sūrus ir kurioje maišosi sūrus ir gėlas vanduo. Prie tarpinių vandenų priskiriama Lietuvos Respublikos teritorijoje esanti Kuršių marių dalis.
+19. Prioritetinės medžiagos – teršalai, kurių išleidimas ar kitoks patekimas į aplinką turi būti mažinamas ar nutrauktas. Prioritetinių medžiagų sąrašą tvirtina Lietuvos Respublikos aplinkos ministras.
 
 
 
 
-20. Tarša – dėl žmogaus veiklos tiesioginis ar netiesioginis medžiagų ar energijos patekimas į vandenį, orą ar žemę, galintis padaryti žalingą poveikį žmonių sveikatai, vandens ar žemės ekosistemų, priklausomų nuo vandens ekosistemų, kokybei, taip pat galintis padaryti žalą materialiajam turtui ir (arba) aplinkai ir (arba) apriboti galimybes teisėtai naudotis aplinka.
+20. Tarpiniai vandenys – prie upės žiočių esanti jūros dalis, kurioje vanduo yra iš dalies sūrus ir kurioje maišosi sūrus ir gėlas vanduo. Prie tarpinių vandenų priskiriama Lietuvos Respublikos teritorijoje esanti Kuršių marių dalis.
 
 
 
 
-21. Teršalas – medžiaga ar medžiagų grupė, kuri patekusi į aplinką dėl savo savybių gali būti kenksminga aplinkai ar žmonių sveikatai.
+21. Tarša – dėl žmogaus veiklos tiesioginis ar netiesioginis medžiagų ar energijos patekimas į vandenį, orą ar žemę, galintis padaryti žalingą poveikį žmonių sveikatai, vandens ar žemės ekosistemų, priklausomų nuo vandens ekosistemų, kokybei, taip pat galintis padaryti žalą materialiajam turtui ir (arba) aplinkai ir (arba) apriboti galimybes teisėtai naudotis aplinka.
 
 
 
 
-22. Tvenkinys – dirbtinis vandens telkinys, kuris įrengiamas užtvenkiant vandens tėkmę vandentakyje, žemės paviršiaus įdauboje ar pylimu apsuptame plote.
+22. Teršalas – medžiaga ar medžiagų grupė, kuri patekusi į aplinką dėl savo savybių gali būti kenksminga aplinkai ar žmonių sveikatai.
 
 
 
 
-23. Upės baseinas – žemės plotas, iš kurio paviršinis vanduo upėmis ir ežerais nuteka į jūrą vienos upės žiotimis. 
+23. Tvenkinys – dirbtinis vandens telkinys, kuris įrengiamas užtvenkiant vandens tėkmę vandentakyje, žemės paviršiaus įdauboje ar pylimu apsuptame plote.
 
 
 
 
-24. Upių baseinų rajonas – šio įstatymo nustatyta tvarka sudarytas pagrindinis vandens apsaugos ir valdymo teritorinis vienetas iš vienos ar kelių gretimų upių baseinų kartu su visais susijusiais požeminiais vandens telkiniais, tarpiniais ir priekrantės vandenimis. 
+24. Upės baseinas – žemės plotas, iš kurio paviršinis vanduo upėmis ir ežerais nuteka į jūrą vienos upės žiotimis. 
 
 
 
 
-25. Vandens kokybė – vandens sudėtis ir jo savybės, rodančios, kiek jis atitinka vandensaugos tikslus ir (arba) kiek tinka konkrečioms paviršinio ir (arba) požeminio vandens telkinio ir (arba) jo vandens naudojimo sritims.
+25. Upių baseinų rajonas – šio įstatymo nustatyta tvarka sudarytas pagrindinis vandens apsaugos ir valdymo teritorinis vienetas iš vienos ar kelių gretimų upių baseinų kartu su visais susijusiais požeminiais vandens telkiniais, tarpiniais ir priekrantės vandenimis. 
 
 
 
 
-26. Vandens naudojimo paslaugos – namų ūkiams, viešiesiems juridiniams asmenims ir ekonominės veiklos vykdytojams teikiamos paslaugos, apimančios paviršinių vandens telkinių užtvenkimą, vandens iš paviršinių ir (arba) požeminių vandens telkinių išgavimą, kaupimą, apdorojimą (gerinimą, ruošimą) ir tiekimą, taip pat nuotekų tvarkymą.
+26. Vandens kokybė – vandens sudėtis ir jo savybės, rodančios, kiek jis atitinka vandensaugos tikslus ir (arba) kiek tinka konkrečioms paviršinio ir (arba) požeminio vandens telkinio ir (arba) jo vandens naudojimo sritims.
 
 
 
 
-27. Vandens telkinio ir (arba) jo vandens naudojimas – veikla, kuria daromas tiesioginis poveikis paviršiniam ir (arba) požeminiam vandens telkiniui ir (arba) jo vandens kokybei, pavyzdžiui, paviršinio ir (arba) požeminio vandens telkinio naudojimas vandeniui išgauti, nuotekoms išleisti, hidroenergetikos, rekreacijos, laivybos, žuvininkystės reikmėms.
+27. Vandens naudojimo paslaugos – namų ūkiams, viešiesiems juridiniams asmenims ir ekonominės veiklos vykdytojams teikiamos paslaugos, apimančios paviršinių vandens telkinių užtvenkimą, vandens iš paviršinių ir (arba) požeminių vandens telkinių išgavimą, kaupimą, apdorojimą (gerinimą, ruošimą) ir tiekimą, taip pat nuotekų tvarkymą.
 
 
 
 
-28. Vandens telkinio ir (arba) jo vandens naudotojas – asmuo, kuris naudoja paviršinį ir (arba) požeminį vandens telkinį vandeniui išgauti, nuotekoms išleisti, rekreacijos, hidroenergetikos, laivybos, žuvininkystės ir kitoms reikmėms arba kitokiu būdu daro tiesioginį poveikį paviršiniam ir (arba) požeminiam vandens telkiniui ir (arba) jo vandens kokybei.
+28. Vandens telkinio ir (arba) jo vandens naudojimas – veikla, kuria daromas tiesioginis poveikis paviršiniam ir (arba) požeminiam vandens telkiniui ir (arba) jo vandens kokybei, pavyzdžiui, paviršinio ir (arba) požeminio vandens telkinio naudojimas vandeniui išgauti, nuotekoms išleisti, hidroenergetikos, rekreacijos, laivybos, žuvininkystės reikmėms.
 
 
 
 
-29. Vandens telkinio ir (arba) jo vandens stebėsena – sistemingas paviršinio ir (arba) požeminio vandens telkinio būklės ir (arba) jo vandens kokybės, savaiminių pokyčių ir antropogeninio poveikio stebėjimas, vertinimas ir prognozė.
+29. Vandens telkinio ir (arba) jo vandens naudotojas – asmuo, kuris naudoja paviršinį ir (arba) požeminį vandens telkinį vandeniui išgauti, nuotekoms išleisti, rekreacijos, hidroenergetikos, laivybos, žuvininkystės ir kitoms reikmėms arba kitokiu būdu daro tiesioginį poveikį paviršiniam ir (arba) požeminiam vandens telkiniui ir (arba) jo vandens kokybei.
 
 
 
 
-30. Vandensaugos tikslai – aplinkos ministro patvirtinti paviršinių ir (arba) požeminių vandens telkinių būklės ir (arba) jų vandens kokybės, taip pat upių baseinų rajonų saugomų plotų reikalavimai, kuriuos reikia įgyvendinti per tam tikrą laikotarpį.
+30. Vandens telkinio ir (arba) jo vandens stebėsena – sistemingas paviršinio ir (arba) požeminio vandens telkinio būklės ir (arba) jo vandens kokybės, savaiminių pokyčių ir antropogeninio poveikio stebėjimas, vertinimas ir prognozė.
 
 
 
 
-31. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos monitoringo įstatyme, Lietuvos Respublikos geriamojo vandens įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos sporto įstatyme, Lietuvos Respublikos melioracijos įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos turizmo įstatyme, Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme, Lietuvos Respublikos vidaus vandenų transporto kodekse, Lietuvos Respublikos žemės gelmių įstatyme, Lietuvos Respublikos žuvininkystės įstatyme.
+31. Vandensaugos tikslai – aplinkos ministro patvirtinti paviršinių ir (arba) požeminių vandens telkinių būklės ir (arba) jų vandens kokybės, taip pat upių baseinų rajonų saugomų plotų reikalavimai, kuriuos reikia įgyvendinti per tam tikrą laikotarpį.
+
+
+
+
+32. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos monitoringo įstatyme, Lietuvos Respublikos geriamojo vandens įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos sporto įstatyme, Lietuvos Respublikos melioracijos įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme, Lietuvos Respublikos saugios laivybos įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos turizmo įstatyme, Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme, Lietuvos Respublikos vidaus vandenų transporto kodekse, Lietuvos Respublikos žemės gelmių įstatyme, Lietuvos Respublikos žuvininkystės įstatyme. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2314, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12112
  
-
-
 
 
 
@@ -397,9 +404,16 @@ VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS
 
 
 3. Planuojant, projektuojant, statant ir eksploatuojant ūkinės ar kitos veiklos objektus, galinčius neigiamai veikti paviršinių ir (arba) požeminių vandens telkinių būklę, turi būti numatytos priemonės, užtikrinančios racionalų vandens naudojimą, vandens apsaugą nuo teršimo, paviršinių vandens telkinių hidromorfologinių sąlygų, kraštovaizdžio ir biologinės įvairovės apsaugą, išgaunamo vandens apskaitą, laikomasi pažangaus ūkininkavimo praktikos, diegiamos švaresnės gamybos ir taršos mažinimo technologijos.
+
+
+
+
+4. Specialiąsias žemės naudojimo sąlygas paviršiniuose vandens telkiniuose nustato Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2191, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09847
  
-
-
 
 
 
@@ -441,7 +455,7 @@ VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS
 
 
 
-10 straipsnis. Paviršinių vandens telkinių naudojimas rekreacijai ir sportui
+10 straipsnis. Paviršinių vandens telkinių naudojimas rekreacijai ir sportui, skęstančiųjų gelbėjimas
 
 
 1. Paviršiniai vandens telkiniai rekreacijai ir sportui gali būti naudojami vadovaujantis šio įstatymo, Teritorijų planavimo įstatymo, Turizmo įstatymo ir Saugomų teritorijų įstatymo nustatytais reikalavimais.
@@ -455,9 +469,31 @@ VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS
 
 
 3. Maudyklų naudojimas ir maudyklų vandens kokybės rodikliai turi atitikti Lietuvos Respublikos sveikatos apsaugos ministro nustatytų visuomenės sveikatos saugos reglamentų (higienos normų) reikalavimus.
+
+
+
+
+4. Saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisykles tvirtina savivaldybių tarybos pagal Lietuvos Respublikos vidaus reikalų ministro patvirtintas pavyzdines Saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisykles.
+
+
+
+
+5. Skęstančiųjų gelbėjimo darbus organizuoja:
+
+
+1) paplūdimyje Saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisyklėse nustatytomis paplūdimio lankymo valandomis – paplūdimio administratorius;
+
+
+
+
+2) paviršiniuose vandens telkiniuose ne paplūdimio teritorijoje (išskyrus paieškos ir gelbėjimo rajoną), taip pat paplūdimyje po Saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisyklėse nustatytų paplūdimio lankymo valandų – Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2314, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12112
  
-
-
 
 
 
@@ -528,7 +564,7 @@ VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS
 
 
 
-12 straipsnis. Plaukiojimo priemonių naudojimas paviršiniuose vandens telkiniuose, važiavimas paviršinių vandens telkinių dugnu ir ledu
+12 straipsnis. Plaukiojimo priemonių naudojimas paviršiniuose vandens telkiniuose
 
 
 1. Asmenys, paviršiniuose vandens telkiniuose naudojantys plaukiojimo priemones, privalo užtikrinti, kad šios priemonės neterštų vandens, neardytų krantų, negadintų hidrotechninių statinių ir komunikacijų, nekeltų pavojaus žmonėms ir aplinkai. 
@@ -536,7 +572,7 @@ VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS
 
 
 
-2. Aplinkosaugos sąlygas plaukioti paviršiniuose vandens telkiniuose plaukiojimo priemonėmis ir paviršinių vandens telkinių, kuriuose tam tikro tipo plaukiojimo priemonių naudojimas draudžiamas ar ribojamas, sąrašą nustato aplinkos ministras. Paviršinių vandens telkinių, kuriuose tam tikro tipo plaukiojimo priemonių naudojimas draudžiamas ar ribojamas, sąrašas sudaromas atsižvelgiant į Saugomų teritorijų įstatyme numatytus saugomų teritorijų veiklos reglamentavimo dokumentuose nustatytus apribojimus ir argumentuotus savivaldybių institucijų pasiūlymus, kuriais siekiama užtikrinti šio straipsnio 7 dalyje nurodytų žmonių saugaus elgesio paviršinių vandens telkinių vandenyje ir ant jų ledo taisyklių reikalavimų vykdymą.
+2. Aplinkosaugos sąlygas plaukioti paviršiniuose vandens telkiniuose plaukiojimo priemonėmis ir paviršinių vandens telkinių, kuriuose tam tikro tipo plaukiojimo priemonių naudojimas draudžiamas ar ribojamas, sąrašą nustato aplinkos ministras. Paviršinių vandens telkinių, kuriuose tam tikro tipo plaukiojimo priemonių naudojimas draudžiamas ar ribojamas, sąrašas sudaromas atsižvelgiant į Saugomų teritorijų įstatyme numatytus saugomų teritorijų veiklos reglamentavimo dokumentuose nustatytus apribojimus ir argumentuotus savivaldybių institucijų pasiūlymus, kuriais siekiama užtikrinti šio įstatymo 10 straipsnio 4 dalyje nurodytų saugaus elgesio paviršinių vandens telkinių vandenyje ir ant paviršinių vandens telkinių ledo taisyklių reikalavimų vykdymą.
 
 
 
@@ -546,60 +582,13 @@ VANDENS TELKINIŲ IR (ARBA) JŲ VANDENS NAUDOJIMO VALSTYBINIS REGULIAVIMAS
 
 
 
-4. Laivybą vidaus vandenų keliuose reglamentuoja Vidaus vandenų transporto kodeksas.
+4. Laivybą vidaus vandenų keliuose reglamentuoja Vidaus vandenų transporto kodeksas. 
 
 
-
-
-5. Draudžiama važiuoti motorinėmis transporto priemonėmis, traktoriais ir savaeigėmis mašinomis paviršinių vandens telkinių ledu, išskyrus atvejus, kai:
-
-
-1) vykdomi žmonių paieškos ir gelbėjimo darbai, ekstremaliųjų įvykių ir (arba) avarijų padarinių likvidavimo darbai, inžinerinės infrastruktūros eksploatavimo darbai, valstybės sienos apsauga, viešosios tvarkos užtikrinimas, aplinkos apsaugos ir saugomų teritorijų valstybinė kontrolė, kariniai mokymai ir (arba) pratybos, saugomų teritorijų gamtotvarkos, paviršinių vandens telkinių tvarkymo darbai ir būklės tyrimai, kertamos nendrės;
-
-
-
-
-2) organizuojami ir vyksta sporto renginiai ir (arba) sporto pratybos;
-
-
-
-
-3) organizuojama ir vykdoma verslinė žvejyba naudojant motorines transporto priemones, traktorius ir savaeiges mašinas, būtinas tokiai žvejybai organizuoti ir vykdyti;
-
-
-
-
-4) organizuojama ir vykdoma mėgėjų žvejyba naudojant ne kelių transporto priemones žvejams ir įrangai vežti į žvejybos vietą ir iš jos.
-
-
-
-
-
-
-6. Draudžiama važiuoti motorinėmis transporto priemonėmis, traktoriais ir savaeigėmis mašinomis paviršinių vandens telkinių dugnu, išskyrus atvejus, kai:
-
-
-1) važiuojama per brastas, kurios, vadovaujantis Lietuvos Respublikos kelių įstatymo ir kitų teisės aktų, reglamentuojančių kelių plėtojimo, priežiūros ir naudojimosi jais teisinius pagrindus, pripažįstamos kelių dalimis, vykdomi žmonių paieškos ir gelbėjimo darbai, ekstremaliųjų įvykių ir (arba) avarijų padarinių likvidavimo darbai, inžinerinės infrastruktūros eksploatavimo darbai, valstybės sienos apsauga, viešosios tvarkos užtikrinimas, aplinkos apsaugos ir saugomų teritorijų valstybinė kontrolė, kariniai mokymai ir (ar) pratybos, saugomų teritorijų gamtotvarkos, paviršinių vandens telkinių tvarkymo darbai ir būklės tyrimai;
-
-
-
-
-2) organizuojami ir vyksta sporto renginiai ir (arba) sporto pratybos;
-
-
-
-
-3) nustatytose vietose į paviršinį vandens telkinį nuleidžiamos (ištraukiamos) plaukiojimo priemonės.
-
-
-
-
-
-
-7. Savivaldybių tarybos tvirtina žmonių saugaus elgesio paviršinių vandens telkinių vandenyje ir ant jų ledo taisykles.
+Straipsnio pakeitimai:
+Nr. XIII-2191, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09847
+Nr. XIII-2314, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12112
  
-
-
 
 
 
@@ -618,82 +607,22 @@ Paviršiniuose vandens telkiniuose gali būti statomi statiniai, reikalingi pavi
 14 straipsnis. Upių ir ežerų reguliavimas
 
 
-1. Draudžiama reguliuoti (tvenkti (patvenkti) ir kitais būdais keisti vandens lygį, gylį ir (arba) krantų liniją) upes ir (arba) ežerus, išskyrus atvejus, kai teisės aktų nustatyta tvarka: 
-
-
-1) atliekami paviršinių vandens telkinių tvarkymo darbai;
+1. Draudžiama reguliuoti (tvenkti (patvenkti) ir kitais būdais keisti vandens lygį, gylį ir (arba) krantų liniją) upes ir (arba) ežerus, išskyrus Specialiųjų žemės naudojimo sąlygų įstatyme nustatytus atvejus. 
 
 
 
 
-2) įrengiamos maudyklos;
+2. Šio straipsnio 1 dalyje nenumatyti upių ir (arba) ežerų reguliavimo darbai ir (arba) priemonės gali būti vykdomi, kai jie, atsižvelgiant į šio straipsnio 4 dalies nuostatas, yra įrašyti į šio įstatymo 20 straipsnyje numatytus vidutinės trukmės strateginius planavimo dokumentus.
 
 
 
 
-3) įrengiamos bendrojo naudojimo krantinės miestuose ir miesteliuose;
+3. Vyriausybė arba jos įgaliota institucija, atsižvelgdama į šio straipsnio 1 dalyje numatytų darbų mastą, pobūdį, tikslus ir galimą jų poveikį upėms ir (arba) ežerams, nustato kriterijus, kada šio straipsnio 1 dalyje numatyti darbai ir (arba) priemonės gali būti vykdomi, kai jie, atsižvelgiant į šio straipsnio 4 dalies nuostatas, yra įrašyti į šio įstatymo 20 straipsnyje numatytus vidutinės trukmės strateginius planavimo dokumentus.
 
 
 
 
-4) atliekami vidaus vandens kelių įrengimo ir (arba) priežiūros darbai;
-
-
-
-
-5) eksploatuojami naudingųjų iškasenų telkiniai ežeruose;
-
-
-
-
-6) statomi ir (arba) rekonstruojami melioracijos statiniai, inžineriniai tinklai, susisiekimo komunikacijos, specialiosios paskirties pastatai;
-
-
-
-
-7) vykdomos žuvų išteklių apsaugos priemonės (dirbtinių nerštaviečių, žuvų pralaidų, aptekėjimo kanalų ir kitų įrengimas);
-
-
-
-
-8) vykdomos potvynių prevencijos priemonės (polderių sistemų, krantosaugos statinių, apsauginių pylimų, vandens nuvedimo kanalų ir kitų įrengimas);
-
-
-
-
-9) vykdomi gerą vandens telkinio būklę užtikrinantys darbai ir darbai, skirti saugomų rūšių ir buveinių apsaugos priemonėms įgyvendinti;
-
-
-
-
-10) vykdomi nekilnojamojo kultūros paveldo tyrimai ar tvarkybos darbai;
-
-
-
-
-11) atliekami stichinių nelaimių ir (arba) avarijų padarinių likvidavimo darbai; 
-
-
-
-
-12) atkuriama erozijos nuardyta kranto linija ir (arba) taikomos priešerozinės kranto apsaugos priemonės.
-
-
-
-
-
-
-2. Šio straipsnio 1 dalyje nenurodyti upių ir (arba) ežerų reguliavimo darbai ir (arba) priemonės gali būti vykdomi, kai jie, atsižvelgiant į šio straipsnio 4 dalies nuostatas, yra įrašyti į šio įstatymo 20 straipsnyje numatytus vidutinės trukmės strateginius planavimo dokumentus.
-
-
-
-
-3. Vyriausybė arba jos įgaliota institucija, atsižvelgdama į šio straipsnio 1 dalyje nurodytų darbų mastą, pobūdį, tikslus ir galimą jų poveikį upėms ir (arba) ežerams, nustato kriterijus, kada šio straipsnio 1 dalyje nurodyti darbai ir (arba) priemonės gali būti vykdomi, kai jie, atsižvelgiant į šio straipsnio 4 dalies nuostatas, yra įrašyti į šio įstatymo 20 straipsnyje numatytus vidutinės trukmės strateginius planavimo dokumentus.
-
-
-
-
-4. Šio straipsnio 1 dalyje nurodyti ir kiti darbai ir (arba) priemonės, kuriuos vykdant upės ir (arba) ežerai, kuriems nustatyti vandensaugos tikslai, reguliuojami taip, kad blogina jų būklę, gali būti vykdomi, kai tokia veikla yra labai svarbi visuomenės interesams ir (arba) nauda žmonių sveikatai, žmonių saugos palaikymui ar subalansuotai plėtrai yra didesnė už naudą, kurią aplinkai ir visuomenei duoda nesureguliuota upė ir (arba) ežeras, ir (arba) tokia veikla yra būtina, nes dėl techninių galimybių ar per didelių sąnaudų, naudos, kurią duoda upių ir (arba) ežerų reguliavimas, negalima gauti kitais būdais, kurie aplinkosaugos požiūriu būtų gerokai pranašesni. Visais atvejais turi būti imamasi visų įmanomų priemonių, mažinančių neigiamą poveikį upėms ir (arba) ežerams ir užtikrinančių gerą jų būklę.
+4. Šio straipsnio 1 dalyje numatyti ir kiti darbai ir (arba) priemonės, kuriuos vykdant upės ir (arba) ežerai, kuriems nustatyti vandensaugos tikslai, reguliuojami taip, kad blogina jų būklę, gali būti vykdomi, kai tokia veikla yra labai svarbi visuomenės interesams ir (arba) nauda žmonių sveikatai, žmonių saugos palaikymui ar subalansuotai plėtrai yra didesnė už naudą, kurią aplinkai ir visuomenei duoda nesureguliuota upė ir (arba) ežeras, ir (arba) tokia veikla yra būtina, nes dėl techninių galimybių ar per didelių sąnaudų, naudos, kurią duoda upių ir (arba) ežerų reguliavimas, negalima gauti kitais būdais, kurie aplinkosaugos požiūriu būtų gerokai pranašesni. Visais atvejais turi būti imamasi visų įmanomų priemonių, mažinančių neigiamą poveikį upėms ir (arba) ežerams ir užtikrinančių gerą jų būklę.
 
 
 
@@ -719,11 +648,11 @@ Paviršiniuose vandens telkiniuose gali būti statomi statiniai, reikalingi pavi
 3) upių užtvenkimas neleistų užtikrinti geros vandens telkinių būklės ir Direktyvos 2000/60/EB reikalavimų įgyvendinimo.
 
 
-Straipsnio dalies pakeitimai:
+
+
+Straipsnio pakeitimai:
 Nr. XIII-2191, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09847
  
-
-
 
 
 
@@ -1208,7 +1137,7 @@ SĄNAUDŲ SUSIGRĄŽINIMAS IR VALSTYBĖS PARAMA
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                                   ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
  
  
 
@@ -1282,4 +1211,9 @@ Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2191, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09847
+Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymo Nr. XIII-1826 2 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2314, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12112
 Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymo Nr. XIII-1826 2 straipsnio pakeitimo įstatymas
