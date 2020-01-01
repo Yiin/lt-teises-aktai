@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-01-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -801,43 +801,63 @@ Nr. IX-1175, 2002-11-05, Žin., 2002, Nr. 112-4979 (2002-11-22), i. k. 1021010IS
 
 
 
-10 straipsnis. Statinių statyba ir kliūčių ženklinimas bei žiburių įrengimas
+10 straipsnis. Aerodromo apsaugos ir aerodromo triukšmo apsauginės zonos. Statinių statyba ir kliūčių ženklinimas bei žiburių įrengimas
 
 
-1. Statinių statyba bei rekonstravimas ir ūkinė veikla aerodromo apsaugos ir sanitarinėse apsaugos zonose leidžiama Vyriausybės nustatyta tvarka.
+1. Aerodromo apsaugos zonų dydis ir specialiosios žemės naudojimo sąlygos aerodromo apsaugos ir aerodromo triukšmo apsauginėse zonose nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme.
 
 
 
 
-2. Aerodromo sanitarinės apsaugos zonos teritorijos ribos nustatomos atsižvelgiant į triukšmo, elektromagnetinės energijos dydžius, oro, dirvožemio ir vandens taršą.
+2. Aerodromo triukšmo apsauginė zona nustatoma viename iš Specialiųjų žemės naudojimo sąlygų įstatyme nurodytų dokumentų, kuriuose nurodomos teritorijos, kuriose taikomos specialiosios žemės naudojimo sąlygos, teritorijoje aplink aerodromą su dirbtine orlaivių kilimo ir tūpimo tako danga, kai kilimo ir tūpimo tako ilgis ne trumpesnis kaip 1 200 metrų. Aerodromo triukšmo apsauginė zona nustatoma, atsižvelgus į modeliavimo būdu parengtą perspektyvinį triukšmo žemėlapį, kai prognozuojamas nakties triukšmo rodiklio (Lnakties) lygis viršija 55 dBA, dienos, vakaro ir nakties triukšmo rodiklio (Ldvn) lygis viršija 65 dBA. Perspektyvinių triukšmo žemėlapių rengimo, derinimo, tvirtinimo ir viešinimo tvarka nustatoma Vyriausybės patvirtintose Perspektyvinių triukšmo žemėlapių rengimo, derinimo, tvirtinimo, viešinimo ir triukšmo mažinimo priemonių įgyvendinimo išlaidų kompensavimo taisyklėse (toliau – Taisyklės).
 
 
 
 
 3. LTSA ir kariuomenės vadas atitinkamai turi teisę uždrausti civilinių ir karinių aerodromų apsaugos zonose įrengti arba naudoti žiburius, galinčius kelti pavojų orlaivių skrydžių saugai. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
- 
 
 
 
 
-4. Statinių ir įrenginių, kurių aukštis virš žemės paviršiaus yra 100 m ir daugiau, statyba, rekonstravimas ar įrengimas, išskyrus aerodromo apsaugos ir sanitarines apsaugos zonas, Vyriausybės nustatyta tvarka turi būti suderinti su Agentūra ir kariuomenės vadu, o pasienio ruože statinių ir įrenginių, kurių aukštis virš žemės paviršiaus yra 30 m ir daugiau, – ir su Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
- 
+4. Statinių ir įrenginių, kurių aukštis virš žemės paviršiaus yra 100 m ir daugiau, statyba, rekonstravimas ar įrengimas Lietuvos Respublikos teritorijoje, išskyrus aerodromų, radiolokatorių ir meteorologinių radiolokatorių apsaugos zonas, Vyriausybės nustatyta tvarka turi būti suderinti su Agentūra ir kariuomenės vadu, o pasienio ruože statinių ir įrenginių, kurių aukštis virš žemės paviršiaus yra 30 m ir daugiau, – ir su Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos.
 
 
 
 
-5. Kliūtys turi būti ženklinamos tam tikrais nakties ir dienos ženklais. Jų įrengimo ir naudojimo tvarką nustato LTSA, suderinusi su kariuomenės vadu. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
- 
+5. Kliūtys turi būti ženklinamos tam tikrais nakties ir dienos ženklais. Jų įrengimo ir naudojimo tvarką nustato LTSA, suderinusi su kariuomenės vadu.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1392, 2011-05-19, Žin., 2011, Nr. 68-3223 (2011-06-04), i. k. 1111010ISTA0XI-1392
+Nr. XIII-2170, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09977
+ 
+
+
+
+
+101 straipsnis. Kompensavimas už specialiųjų žemės naudojimo sąlygų taikymą ir triukšmo mažinimo priemonių įgyvendinimą aerodromo triukšmo apsauginėse zonose 
+
+
+1. Specialiųjų žemės naudojimo sąlygų įstatyme nurodytos kompensacijos dėl specialiųjų žemės naudojimo sąlygų taikymo nustatytose aerodromo triukšmo apsauginėse zonose nemokamos, kai aerodromo triukšmo apsauginės zonos nustatytos aplink esamus civilinius aerodromus, esamus ir naujus karinius aerodromus. Šios kompensacijos mokamos, kai aerodromo triukšmo apsauginės zonos nustatytos aplink naujus civilinius aerodromus ir (ar) kai, atsižvelgus į perspektyvinį triukšmo žemėlapį, aplink esamą civilinį aerodromą nustatyta aerodromo triukšmo apsauginė zona teisės aktų nustatyta tvarka padidinama, kompensacijas mokant įvertinus specialiąsias žemės naudojimo sąlygas, taikomas padidėjusioje nustatytos aerodromo triukšmo apsauginės zonos dalyje. 
+
+
+
+
+2. Aplink civilinį aerodromą nustatytoje aerodromo triukšmo apsauginėje zonoje civilinį aerodromą valdanti įmonė pagal Taisykles kompensuoja triukšmo mažinimo priemonių įgyvendinimo išlaidas įgyvendinus triukšmo mažinimo priemones esamuose gyvenamosios, poilsio, gydymo paskirties pastatuose (patalpose), bendrojo ugdymo, profesinių, aukštųjų mokyklų, vaikų darželių, lopšelių mokslo paskirties pastatuose (patalpose), skirtuose švietimo reikmėms, ir kituose pastatuose (patalpose), skirtuose neformaliajam švietimui). Triukšmo mažinimo priemonių įgyvendinimo išlaidos iš rinkliavų už naudojimąsi oro uostais kompensuojamos šioje dalyje nurodytų pastatų (patalpų) savininkams ir (ar) patikėtiniams. Triukšmo mažinimo priemonių įgyvendinimo tame pačiame pastate (patalpoje) išlaidos kompensuojamos tik vieną kartą.
+
+
+
+
+3. Vyriausybė nustato konkrečias triukšmo mažinimo priemones, maksimalius kompensacijų už jas dydžius, atsižvelgdama į triukšmo lygį, pastatų (patalpų) dydį ir (ar) paskirtį. 
+
+
+
+
+4. Prašymai dėl kompensacijų už triukšmo mažinimo priemonių įgyvendinimą pateikiami ne vėliau kaip per trejus metus nuo perspektyvinių triukšmo žemėlapių viešo paskelbimo dienos ir kompensacijos pareiškėjams išmokamos ne ilgiau kaip per trejus metus nuo prašymų patvirtinimo dienos. Prašymų nagrinėjimo tvarka ir kompensacijų mokėjimo sąlygos nustatomos Taisyklėse. Ginčus dėl šiame straipsnyje nurodytų kompensacijų Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka sprendžia teismas.
+
+
+Papildyta straipsniu:
+Nr. XIII-2170, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09977
  
 
 
@@ -3203,3 +3223,8 @@ Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 44 straipsnio pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1564, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17482
 Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 3, 5, 6, 7, 10, 12, 13, 14, 14-1, 15, 16, 17, 18, 20, 22, 23, 25, 26, 28, 29, 30, 31, 32, 33, 35, 36, 37, 38, 40, 41, 42, 43, 45, 46, 47, 48, 49, 51, 54, 55, 56, 58, 61, 62, 63, 65, 66, 67, 67-1, 68, 70, 70-1, 71, 71-1, 72, 73 straipsnių ir priedo pakeitimo, Įstatymo papildymo 6-1, 6-2 straipsniais ir 57 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2170, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09977
+Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 10 straipsnio pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
