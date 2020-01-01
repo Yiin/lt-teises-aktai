@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
  
@@ -299,9 +299,11 @@ Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
 
 
 
-2. Karo prievolininkai į nuolatinę privalomąją pradinę karo tarnybą iš neparengtojo kariuomenės personalo rezervo šaukiami nuo 19 iki 26 metų (įskaitytinai). Karo prievolininkai, raštu pareiškę norą, į nuolatinę privalomąją pradinę karo tarnybą šaukiami nuo 18 iki 38 metų (įskaitytinai).
+2. Karo prievolininkai į nuolatinę privalomąją pradinę karo tarnybą iš neparengtojo kariuomenės personalo rezervo šaukiami nuo 18 iki 23 metų (įskaitytinai), o raštu pareiškę norą, nuo 18 iki 38 metų (įskaitytinai). Karo prievolininkai, kuriems nuolatinė privalomoji pradinė karo tarnyba atidėta individualia tvarka šio įstatymo 15 straipsnio 1 dalies 2 punkte numatytu pagrindu, į šią tarnybą, pasibaigus šio įstatymo 15 straipsnio 1 dalies 2 punkte numatytoms aplinkybėms, šaukiami iki 26 metų (įskaitytinai), bet ne ilgiau kaip iki kitų kalendorinių metų pabaigos po šio įstatymo 15 straipsnio 1 dalies 2 punkte numatytų aplinkybių. 
+TAR pastaba. Iki 3 straipsnio įsigaliojimo (2020-01-01) vyresni negu 23 metų karo prievolininkai, paskirti atlikti nuolatinę privalomąją pradinę karo tarnybą, ją atlieka iki nustatytos nuolatinės privalomosios pradinės karo tarnybos pabaigos.
 Straipsnio dalies pakeitimai:
 Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
 
 
@@ -2115,3 +2117,8 @@ Dėl Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio 1 dalies 3 pu
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1807, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21820
 Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 41 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 2, 4, 5, 6, 6-1, 12, 15, 21, 23, 24, 25, 26, 27, 29, 31, 35, 36, 41, 41-1 straipsnių, IV skyriaus pavadinimo pakeitimo ir 22 straipsnio pripažinimo netekusiu galios įstatymas
