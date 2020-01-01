@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A3C0EA6B2203"
 
 # Lietuvos Respublikos metrologijos įstatymas
 
-Suvestinė redakcija nuo 2019-11-30 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 74-1768, i. k. 0961010ISTA00I-1452
  
@@ -1680,10 +1680,12 @@ FINANSAVIMAS
 31 straipsnis. Finansavimas
 
 
-Šio įstatymo 9 straipsnio 4 ir 5 dalyse nustatyta veikla yra finansuojama iš ministerijai skirtų valstybės biudžeto asignavimų ir (arba) kitų lėšų.
+Šio įstatymo 9 straipsnio 4 ir 5 dalyse nustatyta veikla yra finansuojama iš valstybės biudžeto asignavimų ir (arba) kitų lėšų.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2521, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19122
  
-
-
 
 
 
