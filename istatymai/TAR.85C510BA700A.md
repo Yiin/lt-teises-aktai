@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-12-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
  
@@ -1181,7 +1181,10 @@ Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
 
 
 
-3. Vadovaujantis registro nuostatais, parengiamas registro techninis aprašymas (specifikacija). Registro techninis aprašymas (specifikacija) ir kiti projektiniai dokumentai rengiami, derinami ir tvirtinami Vyriausybės nustatyta tvarka ir institucijos, atsakingos už valstybės informacinių išteklių funkcinį suderinamumą, jų kūrimą, tvarkymą ir plėtrą, patvirtinta metodika. Registro diegimo dokumentai ir kiti projektiniai dokumentai, išskyrus registro techninį aprašymą (specifikaciją), yra konfidencialūs ir atskleidžiami tik tuo atveju, jeigu Lietuvos Respublikos įstatymai ar kiti teisės aktai reikalauja juose pateiktą informaciją atskleisti.
+3. Vadovaujantis registro nuostatais, parengiamas registro techninis aprašymas (specifikacija). Registro techninis aprašymas (specifikacija) ir kiti projektiniai dokumentai rengiami, derinami ir tvirtinami Vyriausybės nustatyta tvarka ir institucijos, atsakingos už valstybės informacinių išteklių funkcinį suderinamumą, jų kūrimą, tvarkymą ir plėtrą, patvirtinta metodika. Registro diegimo dokumentai ir kiti projektiniai dokumentai, išskyrus registro techninį aprašymą (specifikaciją), yra konfidencialūs ir teikiami, jeigu galimybė teikti juose pateiktą informaciją yra numatyta įstatymuose ar jų pagrindu priimtuose kituose norminiuose teisės aktuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2539, 2019-11-26, paskelbta TAR 2019-12-06, i. k. 2019-19760
+ 
 
 
 
@@ -1826,7 +1829,10 @@ Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
 
 
 
-2. Valstybės informacinė sistema kuriama pagal valstybės informacinės sistemos techniniame aprašyme (specifikacijoje) nurodytą kūrimo būdą. Valstybės informacinės sistemos kūrimo būdas pasirenkamas vadovaujantis institucijos, atsakingos už valstybės informacinių išteklių funkcinį suderinamumą, jų kūrimą, tvarkymą ir plėtrą, patvirtinta metodika. Valstybės informacinės sistemos techninis aprašymas (specifikacija) ir kiti projektiniai dokumentai rengiami, derinami ir tvirtinami vadovaujantis Vyriausybės nustatyta tvarka ir institucijos, atsakingos už valstybės informacinių išteklių funkcinį suderinamumą, jų kūrimą, tvarkymą ir plėtrą, patvirtinta metodika. Valstybės informacinės sistemos diegimo dokumentai ir kiti projektiniai dokumentai, išskyrus valstybės informacinės sistemos techninį aprašymą (specifikaciją), yra konfidencialūs ir atskleidžiami tik tuo atveju, jeigu Lietuvos Respublikos įstatymai ar kiti teisės aktai reikalauja juose pateiktą informaciją atskleisti.
+2. Valstybės informacinė sistema kuriama pagal valstybės informacinės sistemos techniniame aprašyme (specifikacijoje) nurodytą kūrimo būdą. Valstybės informacinės sistemos kūrimo būdas pasirenkamas vadovaujantis institucijos, atsakingos už valstybės informacinių išteklių funkcinį suderinamumą, jų kūrimą, tvarkymą ir plėtrą, patvirtinta metodika. Valstybės informacinės sistemos techninis aprašymas (specifikacija) ir kiti projektiniai dokumentai rengiami, derinami ir tvirtinami vadovaujantis Vyriausybės nustatyta tvarka ir institucijos, atsakingos už valstybės informacinių išteklių funkcinį suderinamumą, jų kūrimą, tvarkymą ir plėtrą, patvirtinta metodika. Valstybės informacinės sistemos diegimo dokumentai ir kiti projektiniai dokumentai, išskyrus valstybės informacinės sistemos techninį aprašymą (specifikaciją), yra konfidencialūs ir teikiami, jeigu galimybė teikti juose pateiktą informaciją yra numatyta įstatymuose ar jų pagrindu priimtuose kituose norminiuose teisės aktuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2539, 2019-11-26, paskelbta TAR 2019-12-06, i. k. 2019-19760
+ 
 
 
 
@@ -2390,6 +2396,14 @@ Nr. XIII-1871, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00094
 
 
 
+7. Informacija apie saugos priemones, nurodytas šio straipsnio 1 dalyje, ir valstybės informacinių išteklių pažeidžiamumą yra konfidenciali ir teikiama, jeigu galimybė teikti šią informaciją yra numatyta įstatymuose ar jų pagrindu priimtuose kituose norminiuose teisės aktuose. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2539, 2019-11-26, paskelbta TAR 2019-12-06, i. k. 2019-19760
+ 
+
+
+
+
 
 
 431 straipsnis. Valstybės informacinių išteklių atitikties nustatytiems elektroninės informacijos saugos reikalavimams stebėsena
@@ -2815,3 +2829,8 @@ Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. X
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2538, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19037
 Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 2 ir 43-3 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2539, 2019-11-26, paskelbta TAR 2019-12-06, i. k. 2019-19760
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 19, 31 ir 43 straipsnių pakeitimo įstatymas
