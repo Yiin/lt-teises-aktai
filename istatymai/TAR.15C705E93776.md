@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -918,12 +918,21 @@ Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
 
 
 
-11) teikia Valstybės gynimo tarybai svarstyti ir, gavęs jos pritarimą, Vyriausybės įgaliotas kiekvienais metais, atsižvelgdamas į šio įstatymo 101 straipsnį, teikia Seimui pavasario sesijoje tvirtinti kitų metų principinę kariuomenės struktūrą, karių ir kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ribinius skaičius, taip pat principinės kariuomenės struktūros 6 metų planavimo gaires, karių ir kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), ribinius skaičius; 
+11) teikia Valstybės gynimo tarybai svarstyti ir, gavęs jos pritarimą, Vyriausybės įgaliotas, atsižvelgdamas į šio įstatymo 101 straipsnį, teikia Seimui tvirtinti principinę kariuomenės struktūrą, ribinius karių ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas), skaičius; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-620, 2017-07-11, paskelbta TAR 2017-07-20, i. k. 2017-12471
 Nr. XIII-1810, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21824
+Nr. XIII-2351, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12441
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
+ 
+
+
+
+
+111) kiekvienais metais iki kovo 1 d. teikia Seimo Nacionalinio saugumo ir gynybos komitetui informaciją apie tarnaujančių (dirbančių) šio įstatymo 101 straipsnio 2 dalyje nurodytų karių ir Lietuvos kariuomenės darbuotojų, dirbančių pagal darbo sutartis ir gaunančių darbo užmokestį iš valstybės biudžeto ir valstybės pinigų fondų (išskyrus darbuotojus, gaunančius darbo užmokestį iš Europos Sąjungos struktūrinės, kitos Europos Sąjungos finansinės paramos ir tarptautinės finansinės paramos lėšų (išskyrus techninės paramos lėšas) skaičius; 
+Papildyta straipsnio punktu:
+Nr. XIII-2351, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12441
  
 
 
@@ -1059,12 +1068,15 @@ Nr. XI-2292, 2012-10-17, Žin., 2012, Nr. 129-6466 (2012-11-08)
 101 straipsnis. Principinė kariuomenės struktūra ir ribiniai karių skaičiai
 
 
-1. Tvirtinant kitų metų principinę kariuomenės struktūrą ir 6 metų planavimo gaires, nurodomi nuolatiniai kariuomenės junginiai, daliniai ir jiems prilyginti kariniai vienetai, išskyrus parengtojo rezervo karinius vienetus.
+1. Tvirtinant principinę kariuomenės struktūrą, nurodomos kariuomenės pajėgų rūšys, nuolatiniai kariuomenės junginiai, daliniai ir jiems prilyginti kariniai vienetai, išskyrus parengtojo rezervo karinius vienetus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2351, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12441
+ 
 
 
 
 
-2. Tvirtinant kitų metų ribinius karių skaičius, nurodoma:
+2. Tvirtinant ribinius karių skaičius, nurodoma:
 
 
 1) bendri ribiniai karių skaičiai;
@@ -1077,7 +1089,7 @@ Nr. XI-2292, 2012-10-17, Žin., 2012, Nr. 129-6466 (2012-11-08)
 
 
 
-3) ribiniai privalomosios pradinės karo tarnybos karių skaičiai (atskirai nurodant nuolatinę privalomąją pradinę karo tarnybą atliekančių ir jaunesniųjų karininkų vadų mokymuose dalyvaujančių karių skaičius);
+3) ribiniai privalomosios pradinės karo tarnybos karių skaičiai (atskirai nurodant per metus į nuolatinę privalomąją pradinę karo tarnybą pašaukiamų ir jaunesniųjų karininkų vadų mokymuose dalyvaujančių karių skaičius);
 
 
 
@@ -1087,7 +1099,7 @@ Nr. XI-2292, 2012-10-17, Žin., 2012, Nr. 129-6466 (2012-11-08)
 
 
 
-5) ribiniai pratybose ir mokymuose dalyvaujančių parengtojo rezervo karių skaičiai;
+5) ribiniai kiekvienais metais į pratybas ir mokymus pašaukiamų parengtojo rezervo karių skaičiai;
 
 
 
@@ -1097,9 +1109,12 @@ Nr. XI-2292, 2012-10-17, Žin., 2012, Nr. 129-6466 (2012-11-08)
 
 
 
-7) ribinis kiekvieno laipsnio vyresniųjų karininkų, generolų ir admirolų skaičius.
+7) ribinis kiekvieno laipsnio vyresniųjų karininkų, generolų ir admirolų skaičius. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2351, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12441
+ 
 
 
 
@@ -1184,7 +1199,10 @@ Nr. XII-2429, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17526
 
 
 
-7. Detalią kariuomenės struktūrą nustato, kariuomenės junginius bei dalinius steigia, reorganizuoja ar likviduoja krašto apsaugos ministras, vadovaudamasis Seimo patvirtinta principine kariuomenės struktūra.
+7. Detalią kariuomenės struktūrą, kurioje nurodomos kariuomenės pajėgų rūšys, kariuomenės junginiai ir daliniai, vadovaudamasis Seimo patvirtinta principine kariuomenės struktūra, nustato krašto apsaugos ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2351, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12441
+ 
 
 
 
@@ -3936,7 +3954,7 @@ seržantas majoras                               
 3) jaunesniųjų karininkų
 leitenantas                                                                             leitenantas
 vyresnysis leitenantas                                                           vyresnysis leitenantas
-kapitonas                                                                              kapitonas leitenantas 
+kapitonas                                                                              kapitonas leitenantas 
  
 
 
@@ -5657,12 +5675,10 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 Lietuvos Respublikos 
-krašto apsaugos sistemos 
-organizavimo ir karo tarnybos 
-įstatymo
+krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo
 1 priedas
  
-profesinės karo tarnybos karių TARNYBINIO ATLYGINIMO KOEFICIENTAI 
+profesinės karo tarnybos karių tarnybiniO atlyginimO KOEFICIENTAI 
  
 (baziniais dydžiais)
 
@@ -5685,150 +5701,152 @@ profesinės karo tarnybos karių TARNYBINIO ATLYGINIMO KOEFICIENTAI
 
 
  Generolas leitenantas, viceadmirolas 
- 25,1 
- 25,1 
- 25,1 
- 25,1 
- 25,1 
+ 25,9 
+ 25,9 
+ 25,9 
+ 25,9 
+ 25,9 
 
 
  Generolas majoras, kontradmirolas 
- 22,7 
- 23 
- 23 
- 23 
- 23 
+ 23,5 
+ 23,8 
+ 23,8 
+ 23,8 
+ 23,8 
 
 
  Brigados generolas, flotilės admirolas 
- 20,6 
- 20,9 
- 20,9 
- 20,9 
- 20,9 
+ 21,3 
+ 21,6 
+ 21,6 
+ 21,6 
+ 21,6 
 
 
  Pulkininkas, jūrų kapitonas 
- 17,9 
- 18,2 
  18,5 
  18,8 
- 18,8 
+ 19,1 
+ 19,4 
+ 19,4 
 
 
  Pulkininkas leitenantas, komandoras 
- 15,2 
- 15,5 
  15,8 
  16,1 
  16,4 
+ 16,7 
+ 17 
 
 
  Majoras, komandoras leitenantas 
- 13,3 
- 13,6 
  13,9 
  14,2 
  14,5 
+ 14,8 
+ 15,1 
 
 
  Kapitonas, kapitonas leitenantas 
- 11,5 
- 11,7 
- 11,9 
- 12,1 
- 12,1 
+ 12 
+ 12,2 
+ 12,4 
+ 12,6 
+ 12,6 
 
 
  Vyresnysis leitenantas 
- 10,3 
- 10,5 
- 10,7 
- 10,7 
- 10,7 
+ 10,8 
+ 11 
+ 11,2 
+ 11,2 
+ 11,2 
 
 
  Leitenantas 
- 8,7 
- 8,9 
- 8,9 
- 8,9 
- 8,9 
-
-
- Seržantas majoras, vyresnysis laivūnas 
- 12,7 
- 13 
- 13,3 
- 13,3 
- 13,3 
-
-
- Viršila, laivūnas 
- 10,9 
- 11,1 
- 11,3 
- 11,3 
- 11,3 
-
-
- Štabo seržantas, štabo laivūnas, štabo seržantas specialistas, štabo laivūnas specialistas 
- 9,7 
- 9,9 
- 10,1 
- 10,1 
- 10,1 
-
-
- Vyresnysis seržantas, vyresnysis seržantas specialistas 
- 8,9 
  9,1 
  9,3 
  9,3 
  9,3 
+ 9,3 
+
+
+ Seržantas majoras, vyresnysis laivūnas 
+ 13,3 
+ 13,6 
+ 13,9 
+ 13,9 
+ 13,9 
+
+
+ Viršila, laivūnas 
+ 11,3 
+ 11,5 
+ 11,7 
+ 11,7 
+ 11,7 
+
+
+ Štabo seržantas, štabo laivūnas, štabo seržantas specialistas, štabo laivūnas specialistas 
+ 10,1 
+ 10,3 
+ 10,5 
+ 10,5 
+ 10,5 
+
+
+ Vyresnysis seržantas, vyresnysis seržantas specialistas 
+ 9,3 
+ 9,5 
+ 9,7 
+ 9,7 
+ 9,7 
 
 
  Seržantas, seržantas specialistas 
- 8 
- 8,2 
- 8,2 
- 8,2 
- 8,2 
+ 8,3 
+ 8,5 
+ 8,5 
+ 8,5 
+ 8,5 
 
 
  Grandinis 
- 7,5 
- 7,7 
- 7,7 
- 7,7 
- 7,7 
+ 7,8 
+ 8 
+ 8 
+ 8 
+ 8 
 
 
  Vyresnysis eilinis, vyresnysis jūreivis 
- 6,9 
- 6,9 
- 6,9 
- 6,9 
- 6,9 
+ 7,2 
+ 7,2 
+ 7,2 
+ 7,2 
+ 7,2 
 
 
  Eilinis, jūreivis 
- 6,3 
- 6,3 
- 6,3 
- 6,3 
- 6,3 
+ 6,6 
+ 6,6 
+ 6,6 
+ 6,6 
+ 6,6 
 
 
  Jaunesnysis eilinis, jaunesnysis jūreivis 
- 6,1 
- 6,1 
- 6,1 
- 6,1 
- 6,1 
+ 6,4 
+ 6,4 
+ 6,4 
+ 6,4 
+ 6,4 
 
 
 
+ 
+TAR pastaba. Taikant šį priedą, profesinės karo tarnybos karių tarnybinis atlyginimas perskaičiuojamas ir taikytinas koeficientas nustatomas atsižvelgiant į kario ištarnautus metus pagal turimą kario laipsnį.
  
 Papildyta priedu:
 Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
@@ -6273,3 +6291,8 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2256, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10926
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2 ir 18 straipsnių pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2351, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12441
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 10, 10-1 ir 11 straipsnių pakeitimo įstatymas
