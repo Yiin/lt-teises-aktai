@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-08-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2021-10-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 79-0; Žin. 1992, Nr.14-378, i. k. 0921010ISTA00I-2455
  
@@ -122,9 +122,20 @@ VALSTYBĖS PARAMA DAUGIABUČIAMS NAMAMS ATNAUJINTI
 
 
 
-6) apmokant nepasiturintiems gyventojams tenkančias atnaujinimo projekto parengimo, įskaitant atnaujinimo projekto vykdymo priežiūrą ir atnaujinimo projekto ekspertizės, kai ji privaloma pagal Statybos įstatymą, atlikimą, jo įgyvendinimo administravimo, statybos techninės priežiūros išlaidas, kredito draudimo įmoką, kiekvieno mėnesio kredito ir palūkanų įmokas.
+6) apmokant nepasiturintiems gyventojams ir Lietuvos Respublikos nepriklausomybės gynėjams, nukentėjusiems nuo 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos, tenkančias atnaujinimo projekto parengimo, įskaitant atnaujinimo projekto vykdymo priežiūrą ir atnaujinimo projekto ekspertizės, kai ji privaloma pagal Statybos įstatymą, atlikimą, jo įgyvendinimo administravimo, statybos techninės priežiūros išlaidas, kredito draudimo įmoką, kiekvieno mėnesio kredito ir palūkanų įmokas.
+Straipsnio punkto pakeitimai:
+Nr. XIII-1899, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00886
+ 
 
 
+
+
+
+
+11. Valstybės parama teikiama kompensuojant 30 procentų priemonių įgyvendinimo kainos, jeigu įgyvendinant atnaujinimo projektą daugiabučiame name įrengiamas atskiras automatizuotas šilumos punktas ar modernizuojamas esamas neautomatizuotas šilumos punktas, įrengiami balansiniai ventiliai ant stovų ir (ar) pertvarkomos ar keičiamos šildymo ir (ar) karšto vandens sistemos, butuose ir kitose patalpose įrengiant individualios šilumos apskaitos prietaisus ar šilumos daliklių sistemą ir (ar) termostatinius ventilius; šiuo atveju šio straipsnio 1 dalyje nustatyti valstybės paramos teikimo reikalavimai netaikomi. Šio straipsnio 1 dalyje nustatyti valstybės paramos teikimo reikalavimai taikomi, jeigu įgyvendinus šioje dalyje nurodytą priemonę vėlesniu etapu yra įgyvendinamos likusios energinį efektyvumą didinančios ir (ar) kitos priemonės pagal Daugiabučių namų atnaujinimo (modernizavimo) programą.
+Papildyta straipsnio dalimi:
+Nr. XIII-1996, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04589
+ 
 
 
 
@@ -537,3 +548,13 @@ Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modern
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1464, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11779
 Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 5 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1899, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00886
+Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 3 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1996, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04589
+Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo Nr. I-2455 3 straipsnio pakeitimo įstatymas
