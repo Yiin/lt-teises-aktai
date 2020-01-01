@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/baeac2202f3c11e78397ae072f58c508"
 
 # Lietuvos Respublikos būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymas
 
+Suvestinė redakcija nuo 2020-01-01 iki 2021-12-03
+ 
+Įstatymas paskelbtas: TAR 2017-05-02, i. k. 2017-07282
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 BŪTINŲJŲ PRIEMONIŲ, SKIRTŲ APSISAUGOTI NUO TREČIŲJŲ ŠALIŲ NESAUGIŲ BRANDUOLINIŲ ELEKTRINIŲ KELIAMŲ GRĖSMIŲ,
 ĮSTATYMAS
@@ -54,7 +61,6 @@ priima šį įstatymą.
 
 
 2. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos branduolinės saugos įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme.
- 
  
 
 
@@ -115,7 +121,10 @@ priima šį įstatymą.
 
 
 
-4. Dėl branduolinės elektrinės pripažinimo nesaugia sprendžia Lietuvos Respublikos Seimas, atsižvelgdamas į Lietuvos Respublikos Vyriausybės pateiktą vertinimą. 
+4. Dėl branduolinės elektrinės pripažinimo nesaugia sprendžia Lietuvos Respublikos Seimas, atsižvelgdamas į Lietuvos Respublikos Vyriausybės pateiktą vertinimą. Lietuvos Respublikos Seimui įstatymu pripažinus trečiosios šalies branduolinę elektrinę nesaugia, elektros energijos importo iš trečiosios šalies, kurioje veikia nesaugi branduolinė elektrinė, veikla, taip pat elektros energijos, pagamintos trečiojoje šalyje, kurioje veikia nesaugi branduolinė elektrinė, prekybos dvišalių sutarčių pagrindu ir tiekimo veikla yra kelianti grėsmę Lietuvos Respublikos nacionaliniam saugumui, aplinkai ir visuomenės sveikatai. Elektros energijos importo iš trečiosios šalies, kurioje veikia nesaugi branduolinė elektrinė, veikla apima elektros energijos, pagamintos trečiojoje šalyje, kurioje veikia nesaugi branduolinė elektrinė, tiekimą persiunčiant ją tiesiogiai Lietuvos Respublikos ir trečiosios šalies jungiamosiomis linijomis ar persiunčiant tranzitu per kitos valstybės elektros energetikos sistemą, siekiant šią elektros energiją realizuoti Lietuvos Respublikos elektros energijos rinkoje Prekybos elektros energija taisyklėse nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2705, 2019-12-19, paskelbta TAR 2019-12-27, i. k. 2019-21326
+ 
 
 
 
@@ -126,7 +135,6 @@ priima šį įstatymą.
 
 
 6. Atliekant šiame straipsnyje nustatytą vertinimą, Lietuvos Respublikos Vyriausybės prašymu dalyvauja ir išvadas teikia kompetentingos valstybės ir savivaldybių institucijos, įmonės, įstaigos ir organizacijos.
- 
  
 
 
@@ -142,7 +150,17 @@ priima šį įstatymą.
 
 
 
-2. Iki Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos tinklais darbui sinchroniniu režimu 2020 m. turi būti taikomos su patikimu Lietuvos Respublikos elektros energetikos sistemos veikimu suderinamos techninės priemonės, leidžiančios mažinti elektros energijos patekimo iš trečiųjų šalių, kuriose yra nesaugių branduolinių elektrinių, apimtį. Po Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos tinklais darbui sinchroniniu režimu neturi likti galimybių į Lietuvos elektros energetikos sistemą tiesiogiai patekti elektros energijai iš trečiųjų šalių arba į Lietuvos elektros energetikos sistemą gali patekti tik tokia apimtimi, kuri gali būti reikalinga dėl techninių priežasčių po desinchronizavimo nuo Nepriklausomų Valstybių Sandraugos šalių elektros energetikos sistemos (IPS / UPS), įskaitant Kaliningrado (Karaliaučiaus) sritį.
+2. Išduotų leidimų importuoti elektros energiją iš trečiosios šalies, kurioje veikia nesaugi branduolinė elektrinė, galiojimas panaikinamas nuo įstatyme, kuriuo Seimas pripažino trečiosios šalies branduolinę elektrinę nesaugia, nurodytos datos, o jeigu data nenurodyta, – nedelsiant juos išdavusios institucijos sprendimu teisės aktų nustatyta tvarka nuo tokios nesaugios branduolinės elektrinės elektros energijos gamybos veiklos pradžios. Informaciją apie nesaugios branduolinės elektrinės elektros energijos gamybos veiklos pradžią leidimą importuoti elektros energiją iš trečiosios šalies išdavusiai institucijai pateikia Lietuvos elektros energijos perdavimo sistemos operatorius, gavęs tokią informaciją iš trečiosios šalies perdavimo sistemos operatoriaus arba savarankiškai užfiksavęs veikiančių elektros energijos gamybos pajėgumų pokytį trečiosios šalies elektros energetikos sistemoje. Nesaugios branduolinės elektrinės elektros energijos gamybos veiklos pradžios data šio įstatymo tikslais laikoma perdavimo sistemos operatoriaus pranešimo apie tokios veiklos pradžią diena. Nauji leidimai importuoti elektros energiją iš trečiosios šalies, kurioje veikia nesaugi branduolinė elektrinė, nėra išduodami. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2705, 2019-12-19, paskelbta TAR 2019-12-27, i. k. 2019-21326
+ 
+
+
+
+
+3. Iki Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos tinklais darbui sinchroniniu režimu 2020 m. turi būti taikomos su patikimu Lietuvos Respublikos elektros energetikos sistemos veikimu suderinamos techninės priemonės, leidžiančios mažinti elektros energijos patekimo iš trečiųjų šalių, kuriose yra nesaugių branduolinių elektrinių, apimtį. Po Lietuvos Respublikos elektros energetikos sistemos sujungimo su kontinentinės Europos tinklais darbui sinchroniniu režimu neturi likti galimybių į Lietuvos elektros energetikos sistemą tiesiogiai patekti elektros energijai iš trečiųjų šalių arba į Lietuvos elektros energetikos sistemą gali patekti tik tokia apimtimi, kuri gali būti reikalinga dėl techninių priežasčių po desinchronizavimo nuo Nepriklausomų Valstybių Sandraugos šalių elektros energetikos sistemos (IPS / UPS), įskaitant Kaliningrado (Karaliaučiaus) sritį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2705, 2019-12-19, paskelbta TAR 2019-12-27, i. k. 2019-21326
  
 
 
@@ -191,4 +209,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2705, 2019-12-19, paskelbta TAR 2019-12-27, i. k. 2019-21326
+Lietuvos Respublikos būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymo Nr. XIII-306 3 ir 4 straipsnių pakeitimo įstatymas
