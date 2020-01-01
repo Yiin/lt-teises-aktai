@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4FAA1DD73CF"
 
 # Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 2005, Nr. 76-2741, i. k. 1051010ISTA000X-233
  
@@ -61,6 +61,14 @@ BENDROSIOS NUOSTATOS
 
 
 4. Juridinis asmuo – Lietuvos Respublikos teisės aktų nustatyta tvarka įregistruotas juridinis asmuo, užsienio valstybės juridinis asmuo, taip pat bet kokia užsienio valstybės organizacija, pagal Lietuvos Respublikos ar šios užsienio valstybės įstatymus pripažįstama teisės subjektu.
+
+
+
+
+41. Kolektyvinio investavimo subjektas – kaip ši sąvoka apibrėžta Lietuvos Respublikos pelno mokesčio įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2244, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10373
+ 
 
 
 
@@ -113,7 +121,10 @@ Nr. XIII-430, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10250
 3 straipsnis. Mokesčio mokėtojai
 
 
-1. Mokestį moka nekilnojamojo turto savininkai – fiziniai ir juridiniai asmenys, išskyrus šio straipsnio 2 ir 3 dalyse nurodytus atvejus.
+1. Mokestį moka nekilnojamojo turto savininkai – fiziniai ir juridiniai asmenys, išskyrus šio straipsnio 2, 3 ir 4 dalyse nurodytus atvejus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2244, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10373
+ 
 
 
 
@@ -124,6 +135,14 @@ Nr. XIII-430, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10250
 
 
 3. Nekilnojamojo turto mokestį už juridiniam asmeniui neterminuotai ar ilgesniam kaip vieno mėnesio laikotarpiui perduotą naudotis nekilnojamąjį turtą (arba jo dalį), nuosavybės teise priklausantį fiziniam asmeniui (asmenims) arba jo (jų) įsigyjamą, tuo laikotarpiu moka šis juridinis asmuo. 
+
+
+
+
+4. Kolektyvinio investavimo subjekto, kuris nėra juridinis asmuo, nekilnojamojo turto savininkams šio įstatymo nustatytas prievoles vykdantis ir teises įgyvendinantis asmuo (mokesčio mokėtojas) yra šio kolektyvinio investavimo subjekto valdymo įmonė. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2244, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10373
+ 
 
 
 Straipsnio pakeitimai:
@@ -171,24 +190,33 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 6 straipsnis. Mokesčio tarifai
 
 
-1. Mokesčio tarifas – nuo 0,3 procento iki 3 procentų nekilnojamojo turto mokestinės vertės, jeigu šiame straipsnyje nenustatyta kitaip. 
+1. Mokesčio tarifas – nuo 0,5 procento iki 3 procentų nekilnojamojo turto mokestinės vertės, jeigu šiame straipsnyje nenustatyta kitaip.
+TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
+Savivaldybės, kurios taryba nėra nustačiusi 2020 metų mokestiniu laikotarpiu taikomo nekilnojamojo turto mokesčio tarifo arba yra nustačiusi mažesnį nekilnojamojo mokesčio tarifą negu 6 straipsnio 1 dalyje nurodytas minimalus mokesčio tarifas, arba keičia jau nustatytus 2020 metų nekilnojamojo turto mokesčio tarifus, teritorijoje 2020 metų mokestiniu laikotarpiu taikomas 0,5 procento nekilnojamojo turto mokesčio tarifas.
 Straipsnio dalies pakeitimai:
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
 Nr. XI-2178, 2012-06-29, Žin., 2012, Nr. 82-4265 (2012-07-13), i. k. 1121010ISTA0XI-2178
+Nr. XIII-2653, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21307
  
 
 
 
 
-2. Konkretų mokesčio tarifą, kuris galios atitinkamos savivaldybės teritorijoje nuo kito mokestinio laikotarpio pradžios, savivaldybės taryba nustato iki einamojo mokestinio laikotarpio birželio 1 dienos. Jeigu, vadovaujantis šio įstatymo 9 straipsnio 3 dalimi, nuo kito mokestinio laikotarpio mokestis už šio įstatymo 9 straipsnio 2 dalies 1 ir 2 punktuose nurodytą nekilnojamąjį turtą bus skaičiuojamas taikant naujai atlikto nekilnojamojo turto masinio vertinimo metu nustatytą vertę, kitą mokestinį laikotarpį galiosiantį mokesčio tarifą savivaldybės taryba gali nustatyti iki einamojo mokestinio laikotarpio gruodžio 1 dienos. Savivaldybės taryba gali nustatyti ir kelis konkrečius mokesčio tarifus, kurie diferencijuojami tik atsižvelgiant į vieną arba kelis iš šių kriterijų: nekilnojamojo turto paskirtį, naudojimą, teisinį statusą, jo technines savybes, priežiūros būklę, apleistumą, mokesčio mokėtojų kategorijas (dydį ar teisinę formą, ar socialinę padėtį) ar nekilnojamojo turto buvimo savivaldybės teritorijoje vietą (pagal strateginio planavimo ir teritorijų planavimo dokumentuose nustatytus prioritetus). 
+2. Savivaldybės taryba, siekdama, kad naujas konkretus mokesčio tarifas galiotų šios savivaldybės teritorijoje nuo kito mokestinio laikotarpio pradžios, naują konkretų mokesčio tarifą turi nustatyti iki einamojo mokestinio laikotarpio liepos 1 dienos. Jeigu, vadovaujantis šio įstatymo 9 straipsnio 3 dalimi, nuo kito mokestinio laikotarpio mokestis už šio įstatymo 9 straipsnio 2 dalies 1 ir 2 punktuose nurodytą nekilnojamąjį turtą bus skaičiuojamas taikant naujai atlikto nekilnojamojo turto masinio vertinimo metu nustatytą vertę, kitą mokestinį laikotarpį galiosiantį naują konkretų mokesčio tarifą savivaldybės taryba gali nustatyti iki einamojo mokestinio laikotarpio gruodžio 1 dienos. Savivaldybės taryba gali nustatyti ir kelis konkrečius mokesčio tarifus, kurie diferencijuojami tik atsižvelgiant į vieną arba kelis iš šių kriterijų: nekilnojamojo turto paskirtį, naudojimą, teisinį statusą, jo technines savybes, priežiūros būklę, apleistumą, mokesčio mokėtojų kategorijas (dydį ar teisinę formą, ar socialinę padėtį) ar nekilnojamojo turto buvimo savivaldybės teritorijoje vietą (pagal strateginio planavimo ir teritorijų planavimo dokumentuose nustatytus prioritetus). Jeigu savivaldybės taryba per šioje dalyje nurodytus terminus nenustato naujų konkrečių mokesčio tarifų, kitą mokestinį laikotarpį galioja paskutiniai nustatyti konkretūs mokesčio tarifai. 
+TAR pastaba. 6 straipsnio 2 ir 3 dalių nuostatos taikomos nustatant 2021 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokesčio tarifus.
 Straipsnio dalies pakeitimai:
 Nr. XIII-430, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10250
+Nr. XIII-2244, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10373
  
 
 
 
 
-3. Jeigu savivaldybės taryba iki šio straipsnio 2 dalyje nurodytų terminų nenustato konkrečių mokesčio tarifų arba po šio straipsnio 2 dalyje nurodytų terminų keičia nustatytus mokesčio tarifus, atitinkamą mokestinį laikotarpį tos savivaldybės teritorijoje taikomas 0,3 procento mokesčio tarifas. 
+3. Jeigu savivaldybės taryba kito mokestinio laikotarpio konkrečius mokesčio tarifus nustato arba pakeičia po šio straipsnio 2 dalyje nurodytų terminų, nustatyti (pakeisti) konkretūs mokesčio tarifai savivaldybės teritorijoje taikomi dar kitą mokestinį laikotarpį po ateinančio mokestinio laikotarpio. 
+TAR pastaba. 6 straipsnio 2 ir 3 dalių nuostatos taikomos nustatant 2021 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokesčio tarifus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2244, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10373
+ 
 
 
 
@@ -289,22 +317,25 @@ Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
 
 
 
-6) fiziniams asmenims nuosavybės teise priklausančių ar jų įsigyjamų gyvenamosios, sodų, garažų, fermų, šiltnamių, ūkio, pagalbinio ūkio, mokslo, religinės, poilsio paskirties statinių (patalpų), žuvininkystės statinių ir inžinerinių statinių bendra vertė, neviršijanti 220 000 eurų; 
-TAR pastaba. 6 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
+6) fiziniams asmenims nuosavybės teise priklausančių ar jų įsigyjamų gyvenamosios, sodų, garažų, fermų, šiltnamių, ūkio, pagalbinio ūkio, mokslo, religinės, poilsio paskirties statinių (patalpų), žuvininkystės statinių ir inžinerinių statinių bendra vertė, neviršijanti 150 000 eurų; 
+TAR pastaba. 6 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
 Papildyta straipsnio punktu:
 Nr. XI-1828, 2011-12-21, Žin., 2011, Nr. 163-7742 (2011-12-31), i. k. 1111010ISTA0XI-1828
 Straipsnio punkto pakeitimai:
 Nr. XII-1390, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20429
 Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
+Nr. XIII-2653, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21307
  
 
 
 
 
-7) asmenims, auginantiems tris ir daugiau vaikų (įvaikių) iki 18 metų, ir asmenims, auginantiems neįgalų vaiką (įvaikį) iki 18 metų, taip pat vyresnį neįgalų vaiką (įvaikį), kuriam nustatytas specialusis nuolatinės slaugos poreikis, nuosavybės teise priklausančio ar jų įsigyjamo šios dalies 6 punkte nurodyto nekilnojamojo turto bendra vertė, neviršijanti 286 000 eurų. 
-TAR pastaba. 7 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2018 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
+7) asmenims, auginantiems tris ir daugiau vaikų (įvaikių) iki 18 metų, ir asmenims, auginantiems neįgalų vaiką (įvaikį) iki 18 metų, taip pat vyresnį neįgalų vaiką (įvaikį), kuriam nustatytas specialusis nuolatinės slaugos poreikis, nuosavybės teise priklausančio ar jų įsigyjamo šios dalies 6 punkte nurodyto nekilnojamojo turto bendra vertė, neviršijanti 200 000 eurų. 
+TAR pastaba. 7 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių nekilnojamojo turto mokestį.
 Papildyta straipsnio punktu:
 Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
+Straipsnio punkto pakeitimai:
+Nr. XIII-2653, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21307
  
 
 
@@ -857,7 +888,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
  
 
 
@@ -944,3 +975,13 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 2 ir 6 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
 Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 6, 7, 11, 12 ir 14 straipsnių pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2244, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10373
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 2, 3 ir 6 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2653, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21307
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 6 ir 7 straipsnių pakeitimo įstatymas
