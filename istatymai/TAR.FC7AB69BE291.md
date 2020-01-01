@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-05-06
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
  
@@ -3243,10 +3243,11 @@ TERITORIJŲ PLANAVIMAS IR STATYBA
 
 
 
-8. Vėjo elektrinių statybos vietos teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo klausimus, taikomi apribojimai, iš anksto, teritorijų planavimo metu, derinamos su Lietuvos kariuomene ir kitomis institucijomis įstatymų ir kitų teisės aktų nustatyta tvarka. Vėjo elektrinių statybos vietoms nepritariama, jeigu planuojamų statyti vėjo elektrinių keliamų trukdžių negalima išvengti panaudojant papildomas priemones. Jeigu nustatoma, kad planuojamų statyti vėjo elektrinių keliamų trukdžių galima išvengti panaudojant papildomas priemones, vėjo elektrinių statybos vietos derinamos su sąlyga, kad statyti ar įrengti elektrinę planuojantis asmuo ne vėliau kaip iki statybą leidžiančio dokumento išdavimo derinimo išvadoje nurodytai institucijai pateiks patvirtintą statybos projektą ir su šia institucija pasirašys sutartį dėl kompensacijos, skirtos daliai investicijų ir kitoms išlaidoms, kurios reikalingos nacionalinio saugumo funkcijų vykdymui užtikrinti, atlyginti, sumokėjimo, ir pateiks šios prievolės įvykdymo užtikrinimą. Kompensacijos dydis apskaičiuojamas dauginant leidime plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių numatomų įrengti elektrinės pajėgumų dydį (kW) iš 18 eurų už 1 kW. Kompensacijų mokėjimo tvarką nustato Vyriausybė. Kompensacijos naudojamos teisės aktų nustatyta tvarka kaip kitos biudžetinių įstaigų lėšos, kurios nėra gautos kaip valstybės biudžeto asignavimai.
+8. Vėjo elektrinių statybos vietos teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo klausimus, taikomos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nustatytos specialiosios žemės naudojimo sąlygos, iš anksto, teritorijų planavimo metu, derinamos su Lietuvos kariuomenės vadu ir kitomis institucijomis įstatymų ir kitų teisės aktų nustatyta tvarka. Vėjo elektrinių statybos vietoms nepritariama, jeigu planuojamų statyti vėjo elektrinių keliamų trukdžių negalima išvengti panaudojant papildomas priemones. Jeigu nustatoma, kad planuojamų statyti vėjo elektrinių keliamų trukdžių galima išvengti panaudojant papildomas priemones, vėjo elektrinių statybos vietos derinamos su sąlyga, kad statyti ar įrengti elektrinę planuojantis asmuo ne vėliau kaip iki statybą leidžiančio dokumento išdavimo derinimo išvadoje nurodytai institucijai pateiks patvirtintą statybos projektą ir su šia institucija pasirašys sutartį dėl kompensacijos, skirtos daliai investicijų ir kitoms išlaidoms, kurios reikalingos nacionalinio saugumo funkcijų vykdymui užtikrinti, atlyginti, sumokėjimo, ir pateiks šios prievolės įvykdymo užtikrinimą. Kompensacijos dydis apskaičiuojamas dauginant leidime plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių numatomų įrengti elektrinės pajėgumų dydį (kW) iš 18 eurų už 1 kW. Kompensacijų mokėjimo tvarką nustato Vyriausybė. Kompensacijos naudojamos teisės aktų nustatyta tvarka kaip kitos biudžetinių įstaigų lėšos, kurios nėra gautos kaip valstybės biudžeto asignavimai.
 Straipsnio dalies pakeitimai:
 Nr. XII-1173, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13575
 Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
+Nr. XIII-2169, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09941
  
 
 
@@ -3342,7 +3343,10 @@ Nr. XIII-1451, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11763
 
 
 
-5. Lietuvos kariuomenė Vyriausybės nustatyta tvarka teikia informaciją apie teritorijas, kuriose, atsižvelgiant į nacionalinio saugumo reikalavimus, taikomi apribojimai vėjo elektrinėms projektuoti ir statyti.
+5. Lietuvos kariuomenė Vyriausybės nustatyta tvarka teikia informaciją apie teritorijas, kuriose, atsižvelgiant į nacionalinio saugumo reikalavimus, taikomos specialiosios žemės naudojimo sąlygos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2169, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09941
+ 
 
 
 
@@ -4291,3 +4295,8 @@ Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2200, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09723
 Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 13, 14, 20 ir 20-1 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2169, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09941
+Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 49 ir 51 straipsnių pakeitimo įstatymas
