@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.27B041C4CCDE"
 
 # Lietuvos Respublikos mediacijos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 87-3462, i. k. 1081010ISTA00X-1702
  
@@ -35,7 +35,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato pagrindines civilinių ginčų mediacijos sąlygas, institucijų funkcijas mediacijos srityje, reikalavimus asmenims, siekiantiems teikti mediacijos paslaugas, mediacijos vykdymo tvarką, teisminės mediacijos ypatumus, mediatorių drausminę atsakomybę.
+1. Šis įstatymas nustato pagrindines civilinių ginčų mediacijos sąlygas, institucijų funkcijas mediacijos srityje, reikalavimus asmenims, siekiantiems teikti mediacijos paslaugas, mediacijos vykdymo tvarką, privalomosios mediacijos ir teisminės mediacijos ypatumus, mediatorių drausminę atsakomybę.
+Straipsnio dalies pakeitimai:
+Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
+ 
 
 
 
@@ -898,7 +901,10 @@ MEDIACIJOS VYKDYMAS
 
 
 
-2. Mediacijos pradžios momentu ieškinio senaties terminų sustabdymo tikslais laikoma diena, kurią viena ginčo šalis tiesiogiai arba per kitą asmenį (atstovą, mediatorių, mediacijos paslaugų administratorių ar kitą įgaliotą asmenį) išsiunčia kitai ginčo šaliai rašytinį pasiūlymą dėl ginčo sprendimo mediacijos būdu.
+2. Mediacijos pradžios momentu ieškinio senaties terminų sustabdymo tikslais laikoma diena, kurią viena ginčo šalis tiesiogiai arba per kitą asmenį (atstovą, mediatorių, mediacijos paslaugų administratorių ar kitą įgaliotą asmenį) išsiunčia kitai ginčo šaliai rašytinį pasiūlymą dėl ginčo sprendimo mediacijos būdu, taip pat diena, kurią viena ginčo šalis ar abi ginčo šalys kreipiasi į Valstybės garantuojamos teisinės pagalbos tarnybą dėl privalomosios mediacijos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
+ 
 
 
 
@@ -966,7 +972,7 @@ Privalomoji mediacija taikoma sprendžiant šiuos ginčus:
 
 
 2) kitais įstatymų nustatytais atvejais.
-TAR pastaba. 20 straipsnis įsigalioja 2020-01-01.
+ 
 
 
 
@@ -1004,7 +1010,7 @@ TAR pastaba. 20 straipsnis įsigalioja 2020-01-01.
 
 
 6. Valstybės garantuojamos teisinės pagalbos tarnyba turi skirti patalpas privalomajai mediacijai vykdyti. Ginčo šalių ir mediatoriaus susitarimu privalomoji mediacija gali būti vykdoma ir kitose patalpose.
-TAR pastaba. 21 straipsnis įsigalioja 2020-01-01.
+ 
 
 
 
@@ -1030,7 +1036,7 @@ TAR pastaba. 21 straipsnis įsigalioja 2020-01-01.
 
 
 4. Už suteiktas privalomosios mediacijos paslaugas mediatoriams iš valstybės biudžeto lėšų mokamo atlyginimo dydžius ir mokėjimo tvarką nustato Vyriausybė.
-TAR pastaba. 22 straipsnis įsigalioja 2020-01-01.
+ 
 
 
 
