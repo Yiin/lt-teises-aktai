@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.234B15954C2F"
 
 # Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2021-05-25
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 44-1247, i. k. 1001010ISTAIII-1679
  
@@ -316,7 +316,10 @@ BIOMEDICININIŲ TYRIMŲ ETIKOS REIKALAVIMAI
 
 
 
-8) šio įstatymo 12 straipsnio 2 ir 3 dalyse nustatytais atvejais pagrindinis tyrėjas ir biomedicininio tyrimo užsakovas arba sveikatos priežiūros įstaiga yra apsidraudę civilinę atsakomybę dėl galimos turtinės ir neturtinės žalos, padarytos biomedicininio tyrimo metu, tiriamajam atlyginimo; 
+8) šio įstatymo 12 straipsnio 2 dalyje nustatytais atvejais pagrindinis tyrėjas ir biomedicininio tyrimo užsakovas yra apsidraudę civilinę atsakomybę dėl galimos turtinės ir neturtinės žalos, padarytos biomedicininio tyrimo metu, tiriamajam atlyginimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2381, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12804
+ 
 
 
 
@@ -737,7 +740,11 @@ Tiriamieji turi teisę gauti kompensaciją už dėl dalyvavimo biomedicininiame 
 
 
 
-12 straipsnis. Biomedicininio tyrimo užsakovo ir tyrėjo civilinė atsakomybė ir jos draudimas
+12 straipsnis. Turtinės ir neturtinės žalos, padarytos tiriamajam, atlyginimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2381, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12804
+Nr. XIII-2760, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21604
+ 
 
 
 1. Biomedicininio tyrimo užsakovas ir tyrėjas atsako už turtinę ir neturtinę žalą, padarytą tiriamajam, išskyrus turtinę ir neturtinę žalą, kuri atsirado dėl priežasčių, nesusijusių su biomedicininiais tyrimais, arba dėl tiriamojo tyčinių veiksmų. Biomedicininio tyrimo užsakovas ir tyrėjas atsako solidariai už šioje dalyje nurodytą turtinę ir neturtinę žalą, padarytą tiriamajam, išskyrus atvejus, kai biomedicininio tyrimo užsakovas ir tyrėjas raštu susitaria kitaip. Biomedicininio tyrimo užsakovo ir tyrėjo padaryta turtinė ir neturtinė žala tiriamojo sveikatai atlyginama Civilinio kodekso, Draudimo įstatymo ir kitų teisės aktų nustatyta tvarka.
@@ -745,12 +752,19 @@ Tiriamieji turi teisę gauti kompensaciją už dėl dalyvavimo biomedicininiame 
 
 
 
-2. Biomedicininio tyrimo užsakovas ir pagrindinis tyrėjas privalo drausti savo civilinę atsakomybę dėl galimos turtinės ir neturtinės žalos, atsiradusios dėl tiriamojo sveikatos sužalojimo ar tiriamojo mirties, atlyginimo, sudarydami biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo sutartis su draudikais. Šis reikalavimas taikomas tik tais atvejais, kai atliekamas klinikinis vaistinio preparato tyrimas arba bet kuris kitas biomedicininis tyrimas, kuriame dalyvaujančiam asmeniui biomedicininio tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia riziką tiriamojo sveikatai. Tai, ar biomedicininio tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia riziką tiriamojo sveikatai, vertina Lietuvos bioetikos komitetas, išduodantis pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą arba leidimą atlikti biomedicininį tyrimą, arba regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą atlikti biomedicininį tyrimą.
+2. Biomedicininio tyrimo, kuriame dalyvaujančiam asmeniui tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia riziką tiriamojo sveikatai, taip pat klinikinio vaistinio preparato tyrimo užsakovas ir pagrindinis tyrėjas privalo drausti savo civilinę atsakomybę dėl galimos turtinės ir neturtinės žalos, atsiradusios dėl tiriamojo sveikatos sužalojimo ar tiriamojo mirties, atlyginimo, sudarydami biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo sutartis su draudikais, išskyrus šio straipsnio 3 dalyje nurodytus atvejus, kai biomedicininius tyrimus leidžiama atlikti ir neturint biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo. Tai, ar biomedicininio tyrimo tikslais taikomi intervenciniai tyrimo metodai kelia riziką tiriamojo sveikatai, vertina Lietuvos bioetikos komitetas, išduodantis pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą arba leidimą atlikti biomedicininį tyrimą, arba regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą atlikti biomedicininį tyrimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2760, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21604
+ 
 
 
 
 
-3. Klinikinį vaistinio preparato tyrimą arba bet kurį kitą biomedicininį tyrimą, kuriame dalyvaujančiam asmeniui taikomi intervenciniai biomedicininio tyrimo metodai kelia tik nedidelį nepageidaujamą laikiną poveikį jo sveikatai, leidžiama atlikti ir tokiu atveju, kai asmens sveikatos priežiūros įstaigos, kuri pati arba jos darbuotojas yra tokio biomedicininio tyrimo užsakovas arba jos darbuotojas yra tokio biomedicininio tyrimo tyrėjas, civilinės atsakomybės už pacientams padarytą žalą draudimo sutartyje yra numatytas turtinės ir neturtinės žalos, galinčios atsirasti tokių biomedicininių tyrimų metu, atlyginimas. Tai, ar taikomi intervenciniai biomedicininio tyrimo metodai kelia nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai, vertina Lietuvos bioetikos komitetas, išduodantis pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą arba leidimą atlikti biomedicininį tyrimą, arba regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą atlikti biomedicininį tyrimą, vadovaudamiesi sveikatos apsaugos ministro patvirtintu Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąrašu. Lietuvos bioetikos komitetas arba regioninis biomedicininių tyrimų etikos komitetas motyvuotu sprendimu gali pripažinti keliančiais nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai ir kitus Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąraše nenurodytus intervencinius biomedicininių tyrimų metodus.
+3. Klinikinį vaistinio preparato tyrimą arba bet kurį kitą biomedicininį tyrimą, kuriame dalyvaujančiam asmeniui taikomi intervenciniai biomedicininio tyrimo metodai kelia tik nedidelį nepageidaujamą laikiną poveikį jo sveikatai, asmens sveikatos priežiūros įstaigai, kuri pati arba jos darbuotojas yra tokio biomedicininio tyrimo užsakovas arba jos darbuotojas yra tokio biomedicininio tyrimo tyrėjas, leidžiama atlikti ir neturint biomedicininio tyrimo užsakovo ir pagrindinio tyrėjo civilinės atsakomybės privalomojo draudimo. Šioje dalyje nurodytu atveju biomedicininio tyrimo užsakovo ir tyrėjo padaryta turtinė ir neturtinė žala tiriamojo sveikatai atlyginama Pacientų teisių ir žalos sveikatai atlyginimo įstatymo nustatyta tvarka iš Vyriausybės įgaliotos institucijos valdomos sąskaitos, kurioje kaupiamos sveikatos priežiūros įstaigų įmokos pacientų sveikatai padarytai žalai (turtinei ir neturtinei) atlyginti, lėšų. Tai, ar taikomi intervenciniai biomedicininio tyrimo metodai kelia nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai, vertina Lietuvos bioetikos komitetas, išduodantis pritarimo atlikti klinikinį vaistinio preparato tyrimą liudijimą arba leidimą atlikti biomedicininį tyrimą, arba regioninis biomedicininių tyrimų etikos komitetas, išduodantis leidimą atlikti biomedicininį tyrimą, vadovaudamiesi sveikatos apsaugos ministro patvirtintu Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąrašu. Lietuvos bioetikos komitetas arba regioninis biomedicininių tyrimų etikos komitetas motyvuotu sprendimu gali pripažinti keliančiais nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai ir kitus Nedidelį nepageidaujamą laikiną poveikį tiriamojo sveikatai keliančių intervencinių biomedicininių tyrimų metodų sąraše nenurodytus intervencinius biomedicininių tyrimų metodus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2381, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12804
+Nr. XIII-2760, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21604
+ 
 
 
 
@@ -1432,3 +1446,13 @@ Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-735, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18507
 Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 1, 2, 7, 11, 12, 20, 21, 22, 25 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 11-1, 24-2 straipsniais įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2381, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12804
+Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 5 ir 12 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2760, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21604
+Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo Nr. VIII-1679 5 ir 12 straipsnių pakeitimo įstatymo Nr. XIII-2381 2 straipsnio pakeitimo įstatymas
