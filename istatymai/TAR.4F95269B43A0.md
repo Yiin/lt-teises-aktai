@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4F95269B43A0"
 
 # Lietuvos Respublikos pajūrio juostos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2023-01-03
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3091, i. k. 1021010ISTA0IX-1016
  
@@ -33,10 +33,12 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis Įstatymas apibūdina pajūrio juostos nustatymo tikslus, jos sudedamąsias dalis, nustato pajūrio kraštovaizdžio apsaugą ir naudojimą, žemės ir jūros akvatorijos naudojimo sąlygas bei ūkinės veiklos apribojimus.
+Šis Įstatymas apibūdina pajūrio juostos nustatymo tikslus, jos sudedamąsias dalis, nustato pajūrio kraštovaizdžio žemės ir jūros akvatorijos apsaugą ir naudojimą.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
  
-
-
 
 
 
@@ -148,11 +150,12 @@ Pajūrio juostos nustatymo tikslai yra:
 
 
 
-2. Pajūrio juostos ribos nustatomos Pajūrio juostos žemyninės dalies tvarkymo plane.
+2. Pajūrio juostos žemyninės dalies ribos nustatomos Pajūrio juostos žemyninės dalies tvarkymo plane. Pajūrio juosta Kuršių nerijos dalyje sutampa su Kuršių nerijos nacionalinio parko sausumos teritorija ir šiam parkui priskirta Baltijos jūros akvatorija.
 Straipsnio dalies pakeitimai:
 Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA00XI-825
 Nr. XII-417, 2013-06-27, Žin., 2013, Nr. 76-3834 (2013-07-16), i. k. 1131010ISTA0XII-417
 Nr. XII-2201, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21058
+Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
  
 
 
@@ -169,7 +172,9 @@ Nr. XII-2201, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21058
 
 
 TREČIASIS SKIRSNIS
-PAJŪRIO JUOSTOS naudojimo sąlygos ir ūkinės veiklos joje apribojimai
+VEIKLOS PAJŪRIO JUOSTOJE REGULIAVIMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
  
 
 
@@ -181,44 +186,18 @@ PAJŪRIO JUOSTOS naudojimo sąlygos ir ūkinės veiklos joje apribojimai
 
 
 
-2. Pajūrio juostoje privačios nuosavybės teise priklausantys žemės sklypai, suteikti iki šio Įstatymo įsigaliojimo, yra nedalomi dalimis parduodant, išnuomojant, atidalijant, įkeičiant, dovanojant. Valstybė turi pirmumo teisę tokiomis pačiomis sąlygomis Civilinio kodekso, Žemės įstatymo nustatyta tvarka įsigyti žemės savininkų parduodamus žemės sklypus, kurie buvo jiems suteikti pajūrio juostoje iki šio Įstatymo įsigaliojimo. 
+2. Valstybė turi pirmumo teisę tokiomis pačiomis sąlygomis Civilinio kodekso, Žemės įstatymo nustatyta tvarka įsigyti žemės savininkų parduodamus žemės sklypus, kurie buvo jiems suteikti pajūrio juostoje iki šio Įstatymo įsigaliojimo.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
+ 
 
 
 
 
-3. Žemės tvarkymą pajūrio juostoje nustato šis Įstatymas ir kiti teisės aktai, taip pat Teritorijų planavimo įstatymo nustatyta tvarka parengti ir patvirtinti šie teritorijų planavimo dokumentai:
-
-
-1) Kuršių nerijos nacionalinio parko tvarkymo planas – specialiojo teritorijų planavimo dokumentas;
-
-
-
-
-2) Pajūrio regioninio parko tvarkymo planas – specialiojo teritorijų planavimo dokumentas;
-
-
-
-
-3) Pajūrio juostos žemyninės dalies tvarkymo planas – specialiojo teritorijų planavimo dokumentas; šio plano rengimo organizatorė yra Aplinkos ministerija. Pajūrio juostos žemyninės dalies tvarkymo planą tvirtina Aplinkos ministerija;
-
-
-
-
-4) Neringos savivaldybės, Klaipėdos ir Palangos miestų, Klaipėdos rajono savivaldybių bendrieji planai;
-
-
-
-
-5) Neringos, Klaipėdos ir Palangos miestų ir Klaipėdos rajono vietovės lygmens teritorijų planavimo dokumentai;
-
-
-
-
-6) inžinerinės infrastruktūros vystymo planai, kai planuojamos valstybinės reikšmės ūkinės veiklos įgyvendinimas yra numatytas Lietuvos Respublikos Vyriausybės patvirtintuose valstybės strateginiuose planuose. 
-
-
+3. Žemės tvarkymą pajūrio juostoje nustato šis Įstatymas ir kiti teisės aktai, taip pat Teritorijų planavimo įstatymo nustatyta tvarka parengti ir patvirtinti teritorijų planavimo dokumentai.
 Straipsnio dalies pakeitimai:
 Nr. XII-417, 2013-06-27, Žin., 2013, Nr. 76-3834 (2013-07-16), i. k. 1131010ISTA0XII-417
+Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
  
 
 
@@ -237,10 +216,10 @@ Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA
 
 
 
-6 straipsnis. Bendrieji ūkinės veiklos apribojimai
+6 straipsnis. Veiklos pajūrio juostoje reguliavimas
 
 
-1. Pajūrio juostoje žemės, akvatorijos naudotojai privalo laikytis šiame Įstatyme, taip pat Jūros aplinkos apsaugos, Saugomų teritorijų, kituose įstatymuose ir teisės aktuose bei teritorijų planavimo dokumentuose nustatytų ūkinės veiklos apribojimų, netrukdyti įgyvendinti krantotvarkos priemones.
+1. Pajūrio juostoje žemės, akvatorijos naudotojai privalo laikytis šiame Įstatyme, kituose įstatymuose nustatytų ūkinės veiklos apribojimų, šio Įstatymo 5 straipsnio 3 dalyje nurodytų teritorijų planavimo dokumentų sprendinių, netrukdyti įgyvendinti krantotvarkos priemones. Specialiosios žemės naudojimo pajūrio juostoje sąlygos nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme.
 
 
 
@@ -255,115 +234,25 @@ Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA
 
 
 
-4. Pajūrio juostoje draudžiama:
+4. Privažiavimo prie jūros kranto tvarką pajūrio juostoje pagal kompetenciją nustato Neringos savivaldybė, suderinusi su Kuršių nerijos nacionalinio parko direkcija, Nacionaline žemės tarnyba prie Žemės ūkio ministerijos (toliau – Nacionalinė žemės tarnyba) ir Žuvininkystės tarnyba prie Lietuvos Respublikos žemės ūkio ministerijos (toliau – Žuvininkystės tarnyba), Klaipėdos miesto savivaldybė, suderinusi su Kuršių nerijos nacionalinio parko direkcija (Kuršių nerijos dalyje), Aplinkos apsaugos agentūra (pajūrio juostos žemyninėje dalyje), Nacionaline žemės tarnyba ir Žuvininkystės tarnyba, Klaipėdos rajono savivaldybė, suderinusi su Aplinkos apsaugos agentūra, Pajūrio regioninio parko direkcija (Pajūrio regioninio parko teritorijoje), Nacionaline žemės tarnyba ir Žuvininkystės tarnyba, ir Palangos miesto savivaldybė, suderinusi su Aplinkos apsaugos agentūra, Nacionaline žemės tarnyba, Žuvininkystės tarnyba ir Pajūrio regioninio parko direkcija (Pajūrio regioninio parko teritorijoje).
 
 
-1) niokoti gamtos ir kultūros paveldo objektus, ardyti paplūdimius, povandeninį krantą, kopagūbrį, kopas, klifo šlaitus ar kitaip žaloti reljefą, dirvožemį, augmeniją ir gyvūniją;
-
-
-
-
-2) eksploatuoti naudinguosius žemės gelmių išteklius. Šis reikalavimas netaikomas įstatymų ir kitų teisės aktų nustatyta tvarka vykdomai šių išteklių gavybai; 
-
-
-
-
-3) statyti statinius arčiau kaip 100 m nuo Baltijos jūros kranto, 50 m nuo Kuršių marių kranto, išskyrus šio Įstatymo 7 straipsnyje nurodytus atvejus ir kai jų statyba atitinka pajūrio juostos nustatymo tikslus;
-Straipsnio punkto pakeitimai:
-Nr. XI-825, 2010-05-20, Žin., 2010, Nr. 65-3194 (2010-06-05), i. k. 1101010ISTA00XI-825
+Straipsnio pakeitimai:
+Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
  
 
 
 
 
-4) važiuoti motorinėmis transporto priemonėmis, traktoriais ir savaeigėmis mašinomis pajūrio juostos paplūdimiu, kopagūbriu (kopomis) ir povandeniniu krantu, išskyrus ekstremaliųjų situacijų ir avarijų atvejus, atvejus, kai vykdomi paplūdimių priežiūros ir valymo darbai, įgyvendinamos krantotvarkos priemonės, vykdoma kontrolinė (inspekcinė, priežiūros) veikla su pažymėtomis transporto priemonėmis, atliekami moksliniai tyrimai, taip pat transporto priemones, naudojamas valstybei svarbiems projektams įgyvendinti, specialiąsias transporto priemones ir kitą transportą, skirtą inžinerinės infrastruktūros objektams. 
-Papildyta straipsnio punktu:
-Nr. XII-2201, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21058
- 
+7 straipsnis. Statybą leidžiantys dokumentai naujų ypatingųjų ir neypatingųjų statinių statybai pajūrio juostoje
 
 
-
-
-
-
-5. Šio straipsnio 4 dalies 4 punkte nenurodytais atvejais prie jūros kranto privažiuoti, gabenti inventorių ir plaukiojimo priemones, paslaugoms teikti ar veiklai būtinas prekes, įskaitant žuvų išteklių naudotojų, žvejojančių Baltijos jūros priekrantėje, transporto priemones žvejybos produktų, sugautų Baltijos jūroje žvejybos laivais, iškrovimo, pirminio pardavimo ir supirkimo vietose, galima tik teritorijų planavimo dokumentuose nustatytais ir esamais privažiavimo keliais su kieta danga. Privažiavimo prie jūros kranto tvarką pajūrio juostoje pagal kompetenciją nustato Neringos savivaldybė, suderinusi su Kuršių nerijos nacionalinio parko direkcija, Nacionaline žemės tarnyba prie Žemės ūkio ministerijos (toliau – Nacionalinė žemės tarnyba) ir Žuvininkystės tarnyba prie Lietuvos Respublikos žemės ūkio ministerijos (toliau – Žuvininkystės tarnyba), Klaipėdos miesto savivaldybė, suderinusi su Kuršių nerijos nacionalinio parko direkcija (Kuršių nerijos dalyje), Aplinkos apsaugos agentūra (pajūrio juostos žemyninėje dalyje), Nacionaline žemės tarnyba ir Žuvininkystės tarnyba, Klaipėdos rajono savivaldybė, suderinusi su Aplinkos apsaugos agentūra, Pajūrio regioninio parko direkcija (Pajūrio regioninio parko teritorijoje), Nacionaline žemės tarnyba ir Žuvininkystės tarnyba, ir Palangos miesto savivaldybė, suderinusi su Aplinkos apsaugos agentūra, Nacionaline žemės tarnyba, Žuvininkystės tarnyba ir Pajūrio regioninio parko direkcija (Pajūrio regioninio parko teritorijoje).
-Papildyta straipsnio dalimi:
-Nr. XII-2201, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21058
- 
-
-
-
-
-
-
-7 straipsnis. Statinių statybos sąlygos ir tvarka
-
-
-1. Vadovaujantis Statybos įstatymu ir Saugomų teritorijų įstatymu, šio Įstatymo 5 straipsnyje nurodytais teritorijų planavimo dokumentais, pajūrio juostoje gali būti:
-
-
-1) statomi statiniai vandens ištekliams naudoti ir aplinkai nuo žalingo vandens poveikio saugoti, kranto linijai stabilizuoti, natūraliai nešmenų pusiausvyrai atkurti ir kitoms vandens ūkio ar uosto reikmėms (užtvankos, krantinės, molai, pralaidos, pylimai, bangolaužiai, bunos); 
-
-
-
-
-2) atstatomi stichinių nelaimių ir katastrofų metu sugriauti ar pažeisti statiniai nedidinant jų tūrio; 
-
-
-
-
-3) statomos priekrantės žvejybos laivų prieplaukos, įrengiamos šių laivų saugojimo aikštelės;
-
-
-
-
-4) statomi laikini paplūdimių statiniai;
-
-
-
-
-5) statomi nauji statiniai vietoj buvusių, skaidant stambių pastatų tūrį, keičiant jų paskirtį, įrengiant infrastruktūrą, nesukeliant naujų neigiamų pasekmių gyvenimo ir aplinkos kokybei ir kai tokių statinių statyba numatyta specialiuosiuose planuose;
-
-
-
-
-6) rekonstruojami Nekilnojamojo turto registre įregistruoti statiniai privačioje žemėje arba valstybinėje žemėje, jeigu yra sudaryta ilgalaikė jais užstatytų žemės sklypų žemės nuomos sutartis arba valstybinė žemė yra valdoma patikėjimo teise;
-
-
-
-
-7) remontuojami ar griaunami statiniai, atnaujinami (modernizuojami) pastatai.
-
-
-
-
-
-
-2. Statybą leidžiančius dokumentus išduoda savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas), išskyrus statybą leidžiančius dokumentus naujai statomiems ypatingiems ar neypatingiems statiniams, kuriuos per 30 dienų nuo prašymo gavimo dienos išduoda Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos (toliau – Valstybinė teritorijų planavimo ir statybos inspekcija) aplinkos ministrui pritarus naujo ypatingo ar neypatingo statinio statybai.
-
-
-
-
-3. Statytojo (užsakovo) prašymas ir kiti dokumentai Valstybinės teritorijų planavimo ir statybos inspekcijos sprendimui dėl pritarimo naujo ypatingo ar neypatingo statinio statybai pajūrio juostoje priimti rengiami ir teikiami šia tvarka:
-
-
-1) statytojas (užsakovas) prašymą ir projektinius pasiūlymus dėl naujo ypatingo ar neypatingo statinio statybos pajūrio juostoje pateikia savivaldybės, kurioje jis planuoja statyti statinį, institucijai;
-
-
-
-
-2) savivaldybės institucija prašymą ir projektinius pasiūlymus apsvarsto viešai ir, surinkusi už atitinkamų veiklos sričių priežiūrą atsakingų valstybės institucijų (pagal įstatymų ir kitų teisės aktų nustatytą kompetenciją) bei kitų suinteresuotų organizacijų pasiūlymus, juos apibendrina ir perduoda Valstybinei teritorijų planavimo ir statybos inspekcijai;
-
-
-
-
-3) jeigu numatoma statyba ir veikla atitinka šio Įstatymo 5 straipsnyje nurodytų teritorijų planavimo dokumentų sprendinius ir pajūrio juostos nustatymo tikslus ir yra gautas aplinkos ministro pritarimas, Valstybinė teritorijų planavimo ir statybos inspekcija priima sprendimą išduoti statybą leidžiančius dokumentus naujo ypatingo ar neypatingo statinio statybai pajūrio juostoje.
-
-
+Statybą leidžiančius dokumentus naujų ypatingųjų ir neypatingųjų statinių, kurių projektiniams pasiūlymams pritarė aplinkos ministras, statybai pajūrio juostoje aplinkos ministro nustatyta tvarka išduoda Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos (toliau – Valstybinė teritorijų planavimo ir statybos inspekcija). Statytojas prašymą pritarti projektiniams pasiūlymams ir projektinius pasiūlymus aplinkos ministro nustatyta tvarka pateikia savivaldybės, kurioje jis planuoja statyti statinį, administracijai. Savivaldybės administracija aplinkos ministro nustatyta tvarka viešina projektinius pasiūlymus, apibendrina gautas visuomenės ar suinteresuotų institucijų pastabas projektiniams pasiūlymams ir statytojo prašymą pritarti projektiniams pasiūlymams, projektinius pasiūlymus ir viešinimo dokumentus pateikia Valstybinei teritorijų planavimo ir statybos inspekcijai. Valstybinė teritorijų planavimo ir statybos inspekcija aplinkos ministro nustatyta tvarka išnagrinėja savivaldybės administracijos pateiktus dokumentus, parengia išvadą, ar numatoma statyba atitinka šio Įstatymo 5 straipsnyje nurodytų teritorijų planavimo dokumentų sprendinius, ir visus dokumentus pateikia aplinkos ministrui. Aplinkos ministras per 20 darbo dienų įvertina gautus dokumentus ir priima sprendimą dėl pritarimo projektiniams pasiūlymams. Statytojas, gavęs aplinkos ministro sprendimą, kuriuo pritariama projektiniams pasiūlymams, aplinkos ministro nustatyta tvarka teikia prašymą dėl statybą leidžiančio dokumento išdavimo Valstybinei teritorijų planavimo ir statybos inspekcijai.
 
 
 Straipsnio pakeitimai:
 Nr. XII-2201, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21058
+Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
  
 
 
@@ -444,7 +333,7 @@ PAJŪRIO JUOSTOS NAUDOJIMO KONTROLĖ IR ATSAKOMYBĖ UŽ PAŽEIDIMUS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
  
 
@@ -467,3 +356,8 @@ Lietuvos Respublikos pajūrio juostos įstatymo 4, 5 ir 7 straipsnių pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2201, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21058
 Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 4, 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
+Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 1, 4, 5, 6, 7 straipsnių ir trečiojo skirsnio pavadinimo pakeitimo įstatymas
