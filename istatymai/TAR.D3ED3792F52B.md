@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-12-22 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-03-17
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -2902,7 +2902,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFIC
  6. 
  skyriaus, kuris nėra kitame struktūriniame padalinyje, vedėjas, komisijos sekretoriato vadovas, tarybos sekretoriato vadovas,  seniūnas, skyriaus, kuris yra kitame struktūriniame padalinyje, vedėjas (Seimo kanceliarijoje) 
 
- 10–16,5 
+ 11–16,5 
  9–16 
  8,1–15 
 
@@ -2910,7 +2910,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFIC
  6.1. 
  vyresnysis patarėjas, patarėjas (Seimo kanceliarijoje) 
  ministro patarėjas 
- 10–16 
+ 11–16 
  9–15,5 
  8,1–14,5 
 
@@ -2942,17 +2942,17 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFIC
  9. 
  vyresnysis specialistas, valstybinis auditorius, specialistas (Seimo kanceliarijoje) 
  Seimo nario patarėjas, Seimo nario padėjėjas, ministro padėjėjas, mero padėjėjas 
- 5,7–12 
- 5,3–11,5 
- 4,8–10,5 
+ 6,7–12 
+ 6,3–11,5 
+ 5,8–10,5 
 
 
  10. 
  specialistas, teismo administracijos sekretorius, valstybinio auditoriaus padėjėjas, teismo posėdžių sekretorius 
 
- 4,6–11 
- 4,3–10,5 
- 4–9,5 
+ 5,6–11 
+ 5,3–10,5 
+ 5–9,5 
 
 
 
@@ -2960,6 +2960,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFIC
 Priedo pakeitimai:
 Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 Nr. XIII-1805, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21813
+Nr. XIII-2609, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20565
  
 
 
@@ -3943,3 +3944,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 17 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2660, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20995
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5 straipsnio pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2609, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20565
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1 priedo pakeitimo įstatymas
