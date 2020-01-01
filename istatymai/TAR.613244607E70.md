@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/613244607e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-03-18
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23708
+ 
+TAR pastaba. Įstatymas Nr. XIII-2227 taikomas, kai darbdavio bankroto byla iškelta arba bankroto procesas pradėtas ne teismo tvarka ar teismo nutartis atsisakyti iškelti nemokiam juridiniam asmeniui bankroto bylą ir siūlyti inicijuoti jo likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva priimta po 2020 m. sausio 1 d.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 2, 3, 5, 6, 7, 8, 10 ir 19 straipsnių pakeitimo įstatymas
  
 
  
@@ -58,7 +63,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Darbdavio administratorius – Lietuvos Respublikos įmonių bankroto įstatymo (toliau – Įmonių bankroto įstatymas) nustatyta tvarka paskirtas įmonės administratorius, Lietuvos Respublikos fizinių asmenų bankroto įstatymo (toliau – Fizinių asmenų bankroto įstatymas) nustatyta tvarka paskirtas bankroto administratorius ar asmuo, kitoje valstybėje narėje atliekantis įmonės administratoriaus ar bankroto administratoriaus funkcijas atitinkančias funkcijas.
+2. Neteko galios 2020-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
+ 
 
 
 
@@ -98,23 +106,23 @@ GARANTIJOS DARBUOTOJAMS JŲ DARBDAVIUI TAPUS NEMOKIAM
  
 
 
-3 straipsnis. Asmenys, kuriems užtikrinamos garantijos jų darbdaviui tapus nemokiam 
+3 straipsnis. Asmenys, kuriems užtikrinamos garantijos jų darbdaviui tapus nemokiam
 
 
 1. Šiame įstatyme nustatytos garantijos darbuotojams jų darbdaviui tapus nemokiam užtikrinamos:
 
 
-1) Lietuvos Respublikoje įsteigtų juridinių asmenų, išskyrus Lietuvos banką, biudžetines įstaigas, politines partijas, profesines sąjungas, religines bendruomenes ir bendrijas, taip pat fizinių asmenų, ūkininkų ir kitų fizinių asmenų, kurie verčiasi individualia veikla, kaip ji apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme, ir kurių pagrindinių turtinių interesų vieta yra Lietuvos Respublikoje (toliau – fizinis asmuo), dėl kurių pradėtas Lietuvos Respublikos įstatymuose numatytas bankroto procesas, darbuotojams;
+1) Lietuvos Respublikos juridinių asmenų, kurių bankroto procesas vykdomas Lietuvos Respublikos juridinių asmenų nemokumo įstatymo (toliau – Juridinių asmenų nemokumo įstatymas) nustatyta tvarka arba dėl kurių yra priimta teismo nutartis atsisakyti iškelti nemokaus juridinio asmens bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva, taip pat fizinių asmenų, ūkininkų ir kitų fizinių asmenų, kurie verčiasi individualia veikla, kaip ji apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme, ir kurių pagrindinių turtinių interesų vieta yra Lietuvos Respublikoje, kurių bankroto procesas vykdomas Lietuvos Respublikos fizinių asmenų bankroto įstatyme nustatyta tvarka (toliau visi šiame punkte nurodyti nemokumo procesai kartu – Lietuvos Respublikos įstatymais reglamentuoti bankroto procesai), darbuotojams;
 
 
 
 
-2) kitų Europos Sąjungos valstybių narių arba kitų Europos ekonominės erdvės valstybių (toliau – valstybė narė) juridinių asmenų ar kitų organizacijų, dėl kurių pradėti Lietuvos Respublikos įstatymuose numatytam bankroto procesui tolygūs nemokumo procesai, padalinių, įsteigtų Lietuvos Respublikoje, darbuotojams;
+2) kitų Europos Sąjungos valstybių narių arba kitų Europos ekonominės erdvės valstybių (toliau – valstybė narė) juridinių asmenų ar kitų organizacijų, dėl kurių pradėti Juridinių asmenų nemokumo įstatyme reglamentuotam bankroto procesui tolygūs nemokumo procesai, arba nemokaus juridinio asmens, likviduojamo administracine tvarka, padalinių, įsteigtų Lietuvos Respublikoje, darbuotojams;
 
 
 
 
-3) Lietuvos Respublikoje neįsisteigusių valstybių narių juridinių asmenų, kitų organizacijų ir jų padalinių, fizinių asmenų, kurių pagrindinių turtinių interesų vieta yra kitoje valstybėje narėje, kurie atitinkama veikla verčiasi ne mažiau kaip dviejų valstybių narių teritorijose ir dėl kurių pradėti Lietuvos Respublikos įstatymuose numatytam bankroto procesui tolygūs nemokumo procesai, darbuotojams, kurie nuolat dirba Lietuvos Respublikoje.
+3) kitų valstybių narių juridinių asmenų, kitų organizacijų ir jų padalinių, fizinių asmenų, kurių pagrindinių turtinių interesų vieta yra kitoje valstybėje narėje, kurie atitinkama veikla verčiasi ne mažiau kaip dviejų valstybių narių teritorijose ir dėl kurių pradėti Lietuvos Respublikos įstatymais reglamentuotiems bankroto procesams tolygūs nemokumo procesai, darbuotojams, kurie nuolat dirba Lietuvos Respublikoje.
 
 
 
@@ -131,20 +139,22 @@ GARANTIJOS DARBUOTOJAMS JŲ DARBDAVIUI TAPUS NEMOKIAM
 
 
 
-4. Sprendžiant dėl nemokumo procesų, pradėtų kitoje valstybėje narėje, lygiavertiškumo Lietuvos Respublikos įstatymuose numatytam bankroto procesui, atsižvelgiama į kitoje valstybėje narėje priimtus sprendimus dėl nemokumo procesų, nurodytų 2000 m. gegužės 29 d. Tarybos reglamento (EB) Nr. 1346/2000 dėl bankroto bylų (OL 2004 m. specialusis leidimas, 19 skyrius, 1 tomas, p. 191) su paskutiniais pakeitimais, padarytais 2011 m. birželio 9 d. Tarybos įgyvendinimo reglamentu (ES) Nr. 583/2011 (OL 2011 L 160, p. 52), A priede. 
+4. Sprendžiant dėl nemokumo procesų, pradėtų kitoje valstybėje narėje, tolygumo Lietuvos Respublikos įstatymais reglamentuotiems bankroto procesams, atsižvelgiama į kitoje valstybėje narėje priimtus sprendimus dėl nemokumo procesų, nurodytų 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamento (ES) 2015/848 dėl nemokumo bylų (OL 2015 L 141, p. 19) A priede.
 
 
 
 
-5. Garantijos darbuotojams jų darbdaviui tapus nemokiam užtikrinamos darbuotojams, dirbusiems iki teismo nutarties iškelti bankroto bylą arba kreditorių susirinkimo nutarimo bankroto procedūras vykdyti ne teismo tvarka priėmimo dienos, neatsižvelgiant į tai, ar jų darbo santykiai tęsiasi, ar darbo sutartis baigėsi darbo santykius reglamentuojančių teisės aktų nustatyta tvarka, taip pat neatsižvelgiant į darbo sutarties rūšį.
+5. Garantijos darbuotojams jų darbdaviui tapus nemokiam užtikrinamos darbuotojams, dirbusiems iki teismo nutarties iškelti bankroto bylą, teismo nutarties atsisakyti iškelti bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva arba kreditorių susirinkimo nutarimo bankroto procesą vykdyti ne teismo tvarka priėmimo dienos, neatsižvelgiant į tai, ar jų darbo santykiai tęsiasi, ar darbo sutartis baigėsi darbo santykius reglamentuojančių teisės aktų nustatyta tvarka, taip pat neatsižvelgiant į darbo sutarties rūšį.
 
 
 
 
-6. Garantijos darbuotojams jų darbdaviui tapus nemokiam užtikrinamos skiriant ir mokant išmokas iš Garantinio fondo.
+6. Garantijos darbuotojams jų darbdaviui tapus nemokiam užtikrinamos skiriant ir mokant išmokas iš Garantinio fondo. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
  
-
-
 
 
 
@@ -244,9 +254,10 @@ Nr. XIII-1348, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11450
 
 
 
-4. Laikinai laisvas Garantinio fondo lėšas valdo ir sprendimus dėl šių lėšų investavimo Lietuvos Respublikos finansų ministro (toliau – finansų ministras) nustatyta tvarka priima Lietuvos Respublikos finansų ministerija (toliau – Finansų ministerija), garantuodama, kad reikalingos investuotos lėšos, taip pat investavimo metu gautos pajamos būtų laiku grąžinamos į Fondo valdybos sąskaitą išmokų iš Garantinio fondo skyrimo tęstinumui užtikrinti. Laikinai laisvomis Garantinio fondo lėšomis laikomos valstybės iždo bendrojoje sąskaitoje esančios Garantinio fondo lėšos, kurios laikinai neskiriamos išmokoms iš Garantinio fondo mokėti, nenaudojamos kredito pervedimams ir išlaidoms, susijusioms su šio įstatymo 6 straipsnio 1 dalyje nurodytų paraiškų parengimu, taip pat Garantinio fondo administravimo ir laikinai laisvų Garantinio fondo lėšų investavimo išlaidoms apmokėti. 
+4. Laikinai laisvas Garantinio fondo lėšas valdo ir sprendimus dėl šių lėšų investavimo Lietuvos Respublikos finansų ministro (toliau – finansų ministras) nustatyta tvarka priima Lietuvos Respublikos finansų ministerija (toliau – Finansų ministerija), garantuodama, kad reikalingos investuotos lėšos, taip pat investavimo metu gautos pajamos būtų laiku grąžinamos į Fondo valdybos sąskaitą išmokų iš Garantinio fondo skyrimo tęstinumui užtikrinti. Laikinai laisvomis Garantinio fondo lėšomis laikomos valstybės iždo bendrojoje sąskaitoje esančios Garantinio fondo lėšos, kurios laikinai neskiriamos išmokoms iš Garantinio fondo mokėti, nenaudojamos kredito pervedimams, taip pat Garantinio fondo administravimo ir laikinai laisvų Garantinio fondo lėšų investavimo išlaidoms apmokėti. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
+Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
  
 
 
@@ -263,61 +274,32 @@ Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
 6 straipsnis. Garantinio fondo lėšų naudojimas
 
 
-1. Garantinio fondo lėšos naudojamos šioms iki paraiškos skirti lėšų iš Garantinio fondo (toliau – paraiška) pateikimo administratoriui dienos darbuotojams neišmokėtoms išmokoms:
+Garantinio fondo lėšos naudojamos:
 
 
-1) darbuotojui priklausančiam darbo užmokesčiui, bet ne didesniam kaip užpraeitą kalendorinį ketvirtį, buvusį prieš darbuotojo atleidimo dieną, priskaičiuotų darbuotojui su darbo santykiais susijusių pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, 3/4 sumos ir neviršijančiam kalendorinio ketvirčio, einančio prieš nutarties iškelti bankroto bylą arba kreditorių susirinkimo nutarimo bankroto procedūras vykdyti ne teismo tvarka priėmimo dienos mėnesį, Lietuvos statistikos departamento skelbiamų trijų šalies ūkio vidutinių mėnesinių bruto darbo užmokesčių sumos. Kai užpraeitą kalendorinį ketvirtį, buvusį prieš darbuotojo atleidimo dieną, priskaičiuotų darbuotojui su darbo santykiais susijusių pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, suma yra mažesnė už tris minimaliąsias mėnesines algas arba tokios sumos nebuvo, laikoma, kad maksimali išmoka nesumokėtam darbo užmokesčiui atlyginti yra lygi trijų minimaliųjų mėnesinių algų sumai; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
+1) šio įstatymo 3 straipsnio 1 dalyje nurodytų darbdavių darbuotojų negautoms priskaičiuotoms su darbo santykiais susijusioms sumoms, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, neviršijančioms šio įstatymo 7 straipsnyje nustatytų dydžių, mokėti;
+
+
+
+
+2) mokesčiams, nurodytiems Lietuvos Respublikos mokesčių administravimo įstatymo 13 straipsnyje (išskyrus gyventojų pajamų mokestį), kurie skaičiuojami nuo darbuotojams priskaičiuotų sumų, mokėti, kaip nurodyta Garantinio fondo nuostatuose;
+
+
+
+
+3) kredito pervedimams dėl išmokų iš Garantinio fondo pervedimo į darbuotojų asmenines sąskaitas Lietuvos Respublikoje ar kitose valstybėse narėse įregistruotose kredito įstaigose (jų filialuose) apmokėti pagal šių kredito įstaigų (jų filialų) įkainius. Jeigu išmokos iš Garantinio fondo pervedamos į darbuotojų asmenines sąskaitas kitose negu Lietuvos Respublikoje ar kitose valstybėse narėse įregistruotose kredito įstaigose (jų filialuose), su šių išmokų pervedimu susijusios išlaidos atlyginamos iš jų gavėjui skirtų išmokų iš Garantinio fondo. Jeigu kredito pervedimui apmokėti naudojamos Garantinio fondo lėšos, kai išmokos iš Garantinio fondo pervedamos į darbuotojų asmenines sąskaitas kitose negu Lietuvos Respublikoje ar kitose valstybėse narėse įsteigtose kredito įstaigose (jų filialuose), viršija darbuotojui skirtų išmokų iš Garantinio fondo sumą, išmokos iš Garantinio fondo šiam darbuotojui nepervedamos;
+
+
+
+
+4) Garantinio fondo administravimo išlaidoms apmokėti Garantinio fondo nuostatuose nustatyta tvarka ir laikinai laisvų Garantinio fondo lėšų investavimo išlaidoms apmokėti finansų ministro nustatyta tvarka. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
  
-
-
-
-
-2) piniginei kompensacijai už nepanaudotas kasmetines atostogas, neviršijančiai vienos minimaliosios mėnesinės algos;
-
-
-
-
-3) išeitinei išmokai, numatytai Lietuvos Respublikos darbo kodekso (toliau – Darbo kodeksas) 56 straipsnio 2 dalyje, 57 straipsnio 8 dalyje, 62 straipsnio 3 dalyje, ar Darbo kodekso 218 straipsnio 4 dalyje numatytam vidutiniam darbo užmokesčiui už priverstinės pravaikštos laiką ir kompensacijai, neviršijančiai dviejų minimaliųjų mėnesinių algų sumos;
-
-
-
-
-4) apmokėti už prastovą, neviršijant vienos minimaliosios mėnesinės algos;
-
-
-
-
-5) Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo nustatytam žalos atlyginimui dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga, kai ši prievolė šiame punkte nurodyto įstatymo nustatyta tvarka nepereina valstybei.
-
-
-
-
-
-
-2. Skiriant šio straipsnio 1 dalyje nurodytas išmokas, darbdavio administratoriaus prašymu Garantinio fondo lėšos naudojamos:
-
-
-1) kredito pervedimams dėl išmokų iš Garantinio fondo pervedimo į darbuotojų asmenines sąskaitas Lietuvos Respublikoje ar kitose valstybėse narėse įregistruotose kredito įstaigose (jų filialuose) apmokėti pagal šių kredito įstaigų (jų filialų) įkainius. Jeigu išmokos iš Garantinio fondo pervedamos į darbuotojų asmenines sąskaitas kitose negu Lietuvos Respublikoje ar kitose valstybėse narėse įregistruotose kredito įstaigose (jų filialuose), su šių išmokų pervedimu susijusios išlaidos atlyginamos iš jų gavėjui skirtų išmokų iš Garantinio fondo. Jeigu kredito pervedimui apmokėti naudojamos Garantinio fondo lėšos, kai išmokos iš Garantinio fondo pervedamos į darbuotojų asmenines sąskaitas kitose negu Lietuvos Respublikoje ar kitose valstybėse narėse įsteigtose kredito įstaigose (jų filialuose), viršija darbuotojui skirtų išmokų iš Garantinio fondo sumą, išmokos iš Garantinio fondo šiam darbuotojui nepervedamos;
-
-
-
-
-2) išlaidoms, susijusioms su paraiškų parengimu (darbdavio administratoriaus darbo daliniu apmokėjimu), apmokėti, kai bankroto byla nagrinėjama supaprastinto bankroto proceso tvarka. Šių išlaidų apmokėjimo tvarką ir dydžius (atsižvelgus į darbuotojų skaičių), neviršijančius trijų minimaliųjų mėnesinių algų sumos, nustato Vyriausybė ar jos įgaliota institucija. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
- 
-
-
-
-
-
-
-3. Garantinio fondo lėšos taip pat naudojamos Garantinio fondo administravimo išlaidoms apmokėti Garantinio fondo nuostatuose nustatyta tvarka ir laikinai laisvų Garantinio fondo lėšų investavimo išlaidoms apmokėti finansų ministro nustatyta tvarka.
- 
-
-
 
 
 
@@ -325,103 +307,90 @@ Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
 7 straipsnis. Išmokų iš Garantinio fondo skaičiavimo tvarka
 
 
-1. Išmokos iš Garantinio fondo skaičiuojamos pagal teismo nutartimi ar kreditorių susirinkimo nutarimu patvirtintus darbuotojų reikalavimus, susijusius su darbo santykiais, apskaičiuotus pagal personalo ir buhalterinės apskaitos dokumentus ir susidariusius iki teismo nutarties iškelti bankroto bylą ar kreditorių susirinkimo nutarimo bankroto procedūras vykdyti ne teismo tvarka priėmimo dienos ir laikotarpiu, kuris ne ilgesnis kaip du mėnesiai nuo teismo nutarties iškelti bankroto bylą ar kreditorių susirinkimo nutarimo bankroto procedūras vykdyti ne teismo tvarka priėmimo dienos. Išmokos, numatytos šio įstatymo 6 straipsnio 1 dalies 2 ir 3 punktuose, skaičiuojamos nutraukiant darbo sutartį.
+1. Išmokos, nurodytos šio įstatymo 6 straipsnio 1 punkte, apskaičiuojamos:
+
+
+1) kai darbdaviui iškelta bankroto byla arba bankroto procesas vykdomas ne teismo tvarka, – pagal teismo nutartimi ar kreditorių susirinkimo sprendimu patvirtintas darbuotojų reikalavimų sumas, susijusias su darbo santykiais, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos. Tuo atveju, jeigu darbuotojų reikalavimų sumos neviršija šešių minimaliųjų mėnesinių algų dydžio, darbuotojui išmokama patvirtinto reikalavimo šių sumų dydžio išmoka. Tuo atveju, jeigu reikalavimo suma viršija šešių minimaliųjų mėnesinių algų dydį, darbuotojui išmokama šešių minimaliųjų mėnesinių algų dydžio išmoka;
 
 
 
 
-2. Kai darbdavio administratorius pagrindžia, kad nėra šio straipsnio 1 dalyje nurodytų dokumentų, pagal kuriuos skaičiuojamos išmokos iš Garantinio fondo, bet yra duomenų, patvirtinančių darbuotojų teisę gauti su darbo santykiais susijusią išmoką iš Garantinio fondo, darbuotojams skiriamos Garantinio fondo lėšos, kurių suma sudaro ne daugiau kaip tris minimaliąsias mėnesines algas. 
+2) kai dėl nemokaus juridinio asmens yra priimta teismo nutartis atsisakyti iškelti bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva, – pagal Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro (toliau – Registras) duomenis apie darbuotojui per 3 mėnesius iki teismo nutarties atsisakyti iškelti bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva priėmimo dienos priskaičiuotas su darbo santykiais susijusias pajamas, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos. Darbuotojui išmokama minėtu laikotarpiu priskaičiuotų su darbo santykiais susijusių pajamų, išskaičiavus mokesčius, dydžio išmoka, tačiau ne didesnė negu šešių minimaliųjų mėnesinių algų dydžio.
 
 
 
 
-3. Apskaičiuojant iš Garantinio fondo skiriamas lėšas, taikomas minimaliosios mėnesinės algos dydis, buvęs teismo nutarties iškelti bankroto bylą arba kreditorių susirinkimo nutarimo bankroto procedūras vykdyti ne teismo tvarka priėmimo dieną.
+
+
+2. Apskaičiuojant iš Garantinio fondo skiriamas lėšas, taikomas minimaliosios mėnesinės algos dydis, buvęs:
+
+
+1) teismo nutarties iškelti bankroto bylą priėmimo dieną; 
+
+
+
+
+2) kreditorių susirinkimo sprendimo vykdyti bankroto procesą ne teismo tvarka priėmimo dieną;
+
+
+
+
+3) teismo nutarties atsisakyti iškelti nemokiam juridiniam asmeniui bankroto bylą ir siūlyti inicijuoti jo likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva priėmimo dieną.
+
+
+
+
+
+
+3. Šio straipsnio 2 dalyje nurodyti dokumentai teikiami administratoriui Juridinių asmenų nemokumo įstatymo ir Fizinių asmenų bankroto įstatymo nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
  
 
 
 
 
+8 straipsnis. Garantinio fondo lėšų skyrimo ir mokėjimo tvarka
 
 
-8 straipsnis. Garantinio fondo lėšų skyrimas
-
-
-1. Garantinio fondo lėšos, kai darbdavys neturi pakankamai nuosavų lėšų atsiskaityti su darbuotojais, kurių reikalavimai yra patvirtinti teismo nutartimi ar kreditorių susirinkimo nutarimu, skiriamos pagal administratoriui pateiktą darbdavio administratoriaus paraišką. 
-
-
-
-
-2. Paraiškoje nurodoma suma, kurią darbdavys skolingas darbuotojams, prašoma skirti išmokų iš Garantinio fondo suma, darbuotojų, kuriems prašoma skirti išmokas iš Garantinio fondo, sąrašai ir jiems prašomų skirti išmokų iš Garantinio fondo pagal išmokų rūšis sumos, prašomos skirti lėšos kredito pervedimams apmokėti, taip pat nurodomos su paraiškos parengimu susijusios išlaidos ir kiti Garantinio fondo nuostatuose nurodyti būtini duomenys ir pridedami dokumentai sprendimui dėl Garantinio fondo lėšų skyrimo priimti. Už paraiškoje nurodytų duomenų atitiktį personalo ir buhalterinės apskaitos dokumentams darbdavio administratorius atsako Įmonių bankroto įstatymo arba Fizinių asmenų bankroto įstatymo nustatyta tvarka.
+1. Įsiteisėjusi teismo nutartis arba kreditorių susirinkimo sprendimas patvirtinti darbuotojų reikalavimus, susijusius su darbo santykiais, ar teismo nutartis atsisakyti iškelti nemokiam juridiniam asmeniui bankroto bylą ir siūlyti inicijuoti jo likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva yra dokumentai, kuriais patvirtinama darbuotojų teisė gauti su darbo santykiais susijusią išmoką iš Garantinio fondo. Šie dokumentai administratoriui pateikiami Juridinių asmenų nemokumo įstatymo ir Fizinių asmenų bankroto įstatymo nustatyta tvarka.
 
 
 
 
-3. Darbdavio administratorius paraišką administratoriui pateikia per vieną mėnesį nuo teismo nutarties patvirtinti kreditorių reikalavimus įsiteisėjimo dienos ar kreditorių susirinkimo nutarimo patvirtinti kreditorių reikalavimus priėmimo dienos. 
+2. Išmokos iš Garantinio fondo šio įstatymo 3 straipsnio 1 dalyje nurodytiems darbuotojams skiriamos, jeigu jie Garantinio fondo nuostatuose nustatyta tvarka ne vėliau kaip per 6 mėnesius nuo šio straipsnio 1 dalyje nurodytų dokumentų įsiteisėjimo dienos kreipėsi į administratorių.
 
 
 
 
-4. Administratorius ne vėliau kaip per dvidešimt dienų nuo paraiškos gavimo dienos išnagrinėja paraišką ir priima sprendimą dėl Garantinio fondo lėšų skyrimo. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
+3. Administratorius Garantinio fondo nuostatuose nustatyta tvarka ir terminais apskaičiuoja šio įstatymo 6 straipsnio 1 ir 2 punktuose nustatytas sumas ir priima sprendimus dėl Garantinio fondo lėšų skyrimo ir išmokėjimo.
+
+
+
+
+4. Išmokos iš Garantinio fondo neskiriamos darbuotojui, kuriam išmokos, analogiškos šio įstatymo 6 straipsnio 1 ir 2 punktuose nurodytoms išmokoms iš Garantinio fondo, buvo skirtos kitų valstybių narių institucijų, atliekančių garantijų institucijų funkcijas. Jeigu šioje dalyje nurodytam darbuotojui buvo skirtos išmokos iš Garantinio fondo, administratorius priima sprendimą dėl darbuotojui skirtų išmokų iš Garantinio fondo grąžinimo. Šios išmokos iš Garantinio fondo grąžinamos Vyriausybės nustatyta tvarka. 
+
+
+
+
+5. Administratoriaus sprendimai gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+
+
+6. Patvirtinta darbuotojų reikalavimų, susijusių su darbo santykiais, suma mažinama iš Garantinio fondo sumokėtos išmokos suma. Administratorius turi atgręžtinio reikalavimo teisę išieškoti šią sumą iš darbdavio. Administratoriaus reikalavimai tenkinami Juridinių asmenų nemokumo įstatymo ir Fizinių asmenų bankroto įstatymo nustatyta tvarka.
+
+
+
+
+7. Darbuotojai nepraranda teisės gauti išmokas iš Garantinio fondo darbdaviui į Garantinį fondą nesumokėjus šio įstatymo 5 straipsnio 1 dalies 1 punkte nurodytų įmokų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
  
-
-
-
-
-5. Išmokos iš Garantinio fondo neskiriamos:
-
-
-1) darbuotojui, kuriam pačiam arba kartu su jo artimaisiais giminaičiais ar sutuoktiniu ne mažiau kaip vienus metus per pastaruosius dvidešimt keturis mėnesius iki teismo nutarties iškelti bankroto bylą ar kreditorių susirinkimo nutarimo bankroto procedūras vykdyti ne teismo tvarka priėmimo dienos nuosavybės teise priklausė daugiau kaip 50 procentų įmonės akcijų (dalių, pajų);
-
-
-
-
-2) darbuotojui, kuriam išmokos, analogiškos šio įstatymo 6 straipsnio 1 dalyje nurodytoms išmokoms iš Garantinio fondo, buvo skirtos kitų valstybių narių institucijų, atliekančių garantijų institucijų funkcijas. Jeigu šiame punkte nurodytam darbuotojui buvo skirtos išmokos iš Garantinio fondo, administratorius priima sprendimą dėl darbuotojui skirtų išmokų iš Garantinio fondo grąžinimo. Šios išmokos iš Garantinio fondo grąžinamos Vyriausybės nustatyta tvarka. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
- 
-
-
-
-
-
-
-6. Administratoriaus sprendimai gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
-
-
-
-
-7. Administratorius, priėmęs sprendimą dėl Garantinio fondo lėšų skyrimo, su darbdavio administratoriumi sudaro Garantinio fondo lėšų pervedimo sutartį (toliau – sutartis). Šioje sutartyje turi būti nurodyta skiriama Garantinio fondo lėšų suma, jų naudojimo tvarka, sąskaita, į kurią turi būti pervestos skiriamos Garantinio fondo lėšos, informacija apie šio įstatymo 6 straipsnio 2 dalies 1 punkte nurodytą atvejį dėl išmokų iš Garantinio fondo nepervedimo, administratoriaus ir darbdavio administratoriaus įsipareigojimai ir atsakomybė.
-
-
-
-
-8. Darbdavio administratorius ne vėliau kaip per trisdešimt dienų nuo Garantinio fondo lėšų pervedimo į sutartyje nurodytą sąskaitą dienos perveda darbuotojams jiems skirtas išmokas. Pervestos ir pagal paskirtį nepanaudotos Garantinio fondo lėšos ne vėliau kaip per penkias darbo dienas nuo šioje dalyje nurodyto termino pabaigos grąžinamos į Fondo valdybos sąskaitą. Laiku negrąžinus nepanaudotų Garantinio fondo lėšų, darbdavio administratorius moka delspinigius pagal finansų ministro nustatytą delspinigių normą, taikomą už pavėluotą mokesčių mokėjimą. Delspinigių suma pervedama į Garantinį fondą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
- 
-
-
-
-
-9. Grąžinus į Fondo valdybos sąskaitą pervestas ir pagal paskirtį nepanaudotas Garantinio fondo lėšas, taip pat šio įstatymo 6 straipsnio 2 dalies 1 punkte nurodytu atveju, kai išmokos iš Garantinio fondo nepervedamos, darbuotojams išmokos iš Garantinio fondo mokamos Vyriausybės nustatyta tvarka. Darbuotojai dėl šioje dalyje nurodytų išmokų iš Garantinio fondo mokėjimo turi teisę kreiptis ne vėliau kaip per trejus metus nuo sprendimo dėl Garantinio fondo lėšų skyrimo priėmimo dienos. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
- 
-
-
-
-
-10. Patvirtinta darbuotojų reikalavimų, susijusių su darbo santykiais, suma mažinama iš Garantinio fondo sumokėtos išmokos suma. Administratorius turi atgręžtinio reikalavimo teisę išieškoti šią sumą iš darbdavio. Administratoriaus reikalavimai tenkinami Įmonių bankroto įstatymo ir Fizinių asmenų bankroto įstatymo nustatyta tvarka. 
-
-
-
-
-11. Darbuotojai nepraranda teisės gauti išmokas iš Garantinio fondo darbdaviui į Garantinį fondą nesumokėjus šio įstatymo 5 straipsnio 1 dalies 1 punkte nurodytų įmokų.
- 
-
-
 
 
 
@@ -475,9 +444,10 @@ Nr. XIII-1348, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11450
 
 
 
-2. Nustatant šio straipsnio 1 dalyje nurodytą ilgalaikio darbo išmokos dydį, darbuotojo mėnesinio darbo užmokesčio dydis apskaičiuojamas remiantis Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro (toliau – Registras) duomenimis pagal tam darbuotojui priskaičiuotų su darbo santykiais susijusių pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, vidurkį. Šis vidurkis apskaičiuojamas pagal paskutinių dvylikos mėnesių darbuotojo gautas su darbo santykiais susijusias pajamas Ilgalaikio darbo išmokų fondo nuostatuose nustatyta tvarka. 
+2. Nustatant šio straipsnio 1 dalyje nurodytą ilgalaikio darbo išmokos dydį, darbuotojo mėnesinio darbo užmokesčio dydis apskaičiuojamas remiantis Registro duomenimis pagal tam darbuotojui priskaičiuotų su darbo santykiais susijusių pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, vidurkį. Šis vidurkis apskaičiuojamas pagal paskutinių dvylikos mėnesių darbuotojo gautas su darbo santykiais susijusias pajamas Ilgalaikio darbo išmokų fondo nuostatuose nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-830, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20027
+Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
  
 
 
@@ -755,7 +725,10 @@ Nr. XIII-137, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29841
 
 
 
-3) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka sudaro sutartis su darbdavių administratoriais;
+3) neteko galios 2020-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
+ 
 
 
 
@@ -995,13 +968,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
  
+
+
+
+
+
+
  
-
-
-
-
-
-
 Lietuvos Respublikos
 garantijų darbuotojams jų 
 darbdaviui tapus nemokiam ir 
@@ -1044,3 +1017,8 @@ Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir il
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1726, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20985
 Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 15 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 2, 3, 5, 6, 7, 8, 10 ir 19 straipsnių pakeitimo įstatymas
