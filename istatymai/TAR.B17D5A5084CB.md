@@ -13,6 +13,18 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b17d5a5084cb11e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos šeimos kortelės įstatymas
 
+Suvestinė redakcija nuo 2020-01-01
+ 
+Įstatymas paskelbtas: TAR 2018-07-11, i. k. 2018-11730
+ 
+TAR pastaba. Iki įstatymo Nr. XIII-2742 įsigaliojimo dienos (2020-01-01) išduotos šeimos kortelės galioja tol, kol teisė į šeimos kortelę prarandama, vadovaujantis Lietuvos Respublikos šeimos kortelės įstatymo nuostatomis, galiojusiomis iki šio įstatymo įsigaliojimo dienos. Iki šio įstatymo įsigaliojimo dienos pateikti prašymai gauti šeimos kortelę tenkinami nustačius teisę į šeimos kortelę, vadovaujantis Šeimos kortelės įstatymo nuostatomis, galiojusiomis iki šio įstatymo įsigaliojimo dienos.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2742, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21596
+Lietuvos Respublikos šeimos kortelės įstatymo Nr. XIII-1406 2 ir 3 straipsnių pakeitimo įstatymas
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ŠEIMOS KORTELĖS
 ĮSTATYMAS
@@ -44,76 +56,65 @@ Vilnius
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Gausi šeima – tėvai, globėjai (rūpintojai), kurie augina ir (ar) globoja (rūpina) tris ar daugiau vaikų iki 18 metų, taip pat susituokęs asmuo, su kuriuo teismo sprendimu dėl sutuoktinių gyvenimo skyrium yra likę gyventi jų trys ar daugiau vaikų iki 18 metų, arba vienas iš tėvų ir jų trys ar daugiau vaikų iki 18 metų, taip pat jų nedirbantys ir savarankiškos veiklos nevykdantys nesusituokę ir savo vaikų neturintys pilnamečiai vaikai iki 24 metų, kurie mokosi pagal bendrojo ugdymo programą ar pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai įgyti arba studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą, arba bendrojo ugdymo mokyklas baigę šių šeimų vaikai laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos.
+1. Gausi šeima – tėvai, nuolatiniai globėjai (rūpintojai), kurie augina ir (ar) nuolatinai globoja (rūpina) tris ar daugiau vaikų iki 18 metų, taip pat susituokęs asmuo, su kuriuo teismo sprendimu dėl sutuoktinių gyvenimo skyrium yra likę gyventi jų trys ar daugiau vaikų iki 18 metų, arba vienas iš tėvų ir jų trys ar daugiau vaikų iki 18 metų, taip pat jų nesusituokę ir savo vaikų neturintys pilnamečiai vaikai iki 24 metų, kurie mokosi pagal bendrojo ugdymo programą ar pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą, arba bendrojo ugdymo mokyklas baigę šių šeimų vaikai laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos.
 
 
 
 
-2. Šeima, prižiūrinti (slauganti) neįgalųjį, – šeima, kurioje kartu su globėju, kuriuo paskirtas vienas iš tėvų, gyvena asmuo, teismo pripažintas neveiksniu tam tikroje srityje ir kuriam šioje srityje yra nustatyta globa, arba šeima, kurioje kartu su tėvais gyvena asmuo, kuriam nustatytas neįgalumo lygis arba 55 procentų ir mažesnis darbingumo lygis.
+2. Šeima, prižiūrinti (slauganti) neįgalųjį, – šeima, kurioje kartu su tėvais gyvena vaikas, kuriam nustatytas neįgalumo lygis, arba darbingo amžiaus nesusituokęs asmuo, kuriam nustatytas specialusis nuolatinės priežiūros (pagalbos) ar specialusis nuolatinės slaugos poreikis.
 
 
 
 
-3. Šeimos kortelė – Lietuvos Respublikos socialinės apsaugos ir darbo ministro nustatyta tvarka išduotas dokumentas, kuriame įrašytas šeimos kortelės turėtojo vardas, pavardė, kortelės identifikacinis numeris, arba į išmanųjį įrenginį atsisiunčiama mobilioji šeimos kortelės programa.
+3. Šeimos kortelė – Lietuvos Respublikos socialinės apsaugos ir darbo ministro nustatyta tvarka išduotas dokumentas, kuriame įrašyti šeimos kortelės turėtojo vardas, pavardė, kortelės identifikacinis numeris, arba į išmanųjį įrenginį atsisiunčiama mobilioji šeimos kortelės programa.
 
 
 
 
 4. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos išmokų vaikams įstatyme, Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2742, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21596
  
 
 
 
 
+3 straipsnis. Teisė į šeimos kortelę
 
 
-3 straipsnis. Teisė į šeimos kortelę 
+1. Teisę į šeimos kortelę turi kiekvienas gausios šeimos narys arba šeimos, prižiūrinčios (slaugančios) neįgalųjį, narys (toliau – šeimos kortelės turėtojas):
 
 
-1. Teisę į šeimos kortelę turi kiekvienas gausios šeimos narys arba šeimos, prižiūrinčios (slaugančios) neįgalųjį, narys (toliau – šeimos kortelės turėtojas): 
-
-
-1) tėvas, motina, globėjas (rūpintojas), jų sutuoktiniai ar vienas iš tėvų, kuris augina ir (ar) globoja (rūpina) tris ar daugiau vaikų arba prižiūri (slaugo) neįgalųjį; 
-
-
-
-
-2) kiekvienas vaikas, iki jam sukaks 18 metų; vyresni negu 18 metų vaikai ar buvę globojami vaikai, jeigu jie mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai įgyti arba studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį), bet ne ilgiau, iki jiems sukaks 24 metai; 
+1) gausios šeimos tėvas, motina, nuolatinis globėjas (rūpintojas), jų sutuoktiniai ar vienas iš tėvų, kuris augina ir (ar) nuolat globoja (rūpina) tris ar daugiau vaikų, vaikas, augantis arba nuolat globojamas (rūpinamas) gausioje šeimoje, iki jam sukaks 18 metų, vyresni negu 18 metų vaikai ar buvę nuolat globojami (rūpinami) vaikai, jeigu jie mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį), bet ne ilgiau, iki jiems sukaks 24 metai;
 
 
 
 
-3) asmuo, kuriam nustatytas neįgalumo lygis arba 55 procentų ir mažesnis darbingumo lygis ir kuris gyvena kartu su tėvais, – neapibrėžtą laikotarpį;
-
-
-
-
-4) asmuo, teismo pripažintas neveiksniu tam tikroje srityje ir kuriam šioje srityje yra nustatyta globa, gyvenantis kartu su globėju, kuriuo paskirtas vienas iš tėvų, – neapibrėžtą laikotarpį, išskyrus atvejus, kai įsiteisėja teismo sprendimas, kad tokiam asmeniui nustatyta globa toje srityje pasibaigia.
+2) šeimos, prižiūrinčios (slaugančios) neįgalųjį, tėvas, motina, nuolatinis globėjas (rūpintojas), jų sutuoktiniai ar vienas iš tėvų, kuris prižiūri (slaugo) kartu su juo gyvenantį, nuolat globojamą (rūpinamą) vaiką, kuriam nustatytas neįgalumo lygis, arba darbingo amžiaus nesusituokusį asmenį, kuriam nustatytas specialusis nuolatinės priežiūros (pagalbos) ar specialusis nuolatinės slaugos poreikis, kiti auginami ar nuolat globojami (rūpinami) vaikai, iki jiems sukaks 18 metų, ir vyresni negu 18 metų vaikai ar buvę nuolat globojami (rūpinami) vaikai, jeigu jie mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį), bet ne ilgiau, iki jiems sukaks 24 metai (išskyrus darbingo amžiaus nesusituokusio asmens, kuriam nustatytas specialusis nuolatinės priežiūros (pagalbos) ar specialusis nuolatinės slaugos poreikis, vaikus), kartu su tėvais gyvenantis nesusituokęs darbingo amžiaus asmuo, kuriam nustatytas specialusis nuolatinės priežiūros (pagalbos) ar specialusis nuolatinės slaugos poreikis.
 
 
 
 
 
 
-2. Teisę į šeimos kortelę praranda tie tėvai arba vienas iš tėvų, dėl kurių teismas priėmė sprendimą dėl laikino ar neterminuoto tėvų (tėvo ar motinos) valdžios apribojimo; globėjas ar rūpintojas, kurie teismo nutartimi nušalinti arba atleisti nuo globėjo ar rūpintojo pareigų; šeimyna, kuri jos dalyvių arba teismo sprendimu yra atleista nuo vaikų globėjo (rūpintojo) pareigų arba teismo sprendimu yra nušalinta nuo vaikų globėjo (rūpintojo) pareigų.
+2. Teisę į šeimos kortelę praranda tie tėvai arba vienas iš tėvų, dėl kurių teismas priėmė sprendimą dėl laikino ar neterminuoto tėvų (tėvo ar motinos) valdžios apribojimo; nuolatinis globėjas ar rūpintojas, kurie teismo nutartimi nušalinti arba atleisti nuo nuolatinio globėjo ar rūpintojo pareigų; šeimyna, kuri jos dalyvių arba teismo sprendimu yra atleista nuo vaikų nuolatinio globėjo (rūpintojo) pareigų arba teismo sprendimu yra nušalinta nuo vaikų nuolatinio globėjo (rūpintojo) pareigų.
 
 
 
 
-3. Vaikas, kuriam išduota šeimos kortelė, nepraranda teisės į šeimos kortelę šio straipsnio 1 dalyje nustatytu laikotarpiu, nors šią teisę prarado vienas iš tėvų, globėjas (rūpintojas), šeimynos dalyvis arba sumažėjo vaikų, sudariusių gausią šeimą, skaičius.
+3. Vaikas, kuriam išduota šeimos kortelė, nepraranda teisės į šeimos kortelę šio straipsnio 1 dalyje nustatytu laikotarpiu, nors šią teisę prarado vienas iš tėvų, nuolatinis globėjas (rūpintojas), šeimynos dalyvis arba sumažėjo vaikų, sudariusių gausią šeimą, skaičius.
 
 
 
 
-4. Tuo atveju, kai šeimos kortelę turintiems tėvams gimė vaikas arba vienas iš tėvų tapo vaiko globėju (rūpintoju), šis vaikas įgyja teisę į šeimos kortelę, nors šią teisę prarado kiti gausios šeimos vaikai.
+4. Gausioms šeimoms ar šeimoms, prižiūrinčioms (slaugančioms) neįgalųjį, nemokamai išduodama viena šeimos kortelė. Prireikus kiti gausios šeimos ar šeimos, prižiūrinčios (slaugančios) neįgalųjį, nariai šeimos kortelę gali įsigyti vadovaudamiesi Šeimos kortelės išdavimo ir naudojimo tvarkos aprašo nuostatomis.
 
 
-
-
-5. Gausioms šeimoms ar šeimoms, prižiūrinčioms (slaugančioms) neįgalųjį, nemokamai išduodama viena šeimos kortelė. Prireikus kiti gausios šeimos ar šeimos, prižiūrinčios (slaugančios) neįgalųjį, nariai šeimos kortelę gali įsigyti vadovaujantis Šeimos kortelės išdavimo ir naudojimo tvarkos aprašo nuostatomis.
+Straipsnio pakeitimai:
+Nr. XIII-2742, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21596
  
-
-
 
 
 
@@ -233,3 +234,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2742, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21596
+Lietuvos Respublikos šeimos kortelės įstatymo Nr. XIII-1406 2 ir 3 straipsnių pakeitimo įstatymas
