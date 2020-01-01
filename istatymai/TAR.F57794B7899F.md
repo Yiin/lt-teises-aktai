@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-05-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
- 
-TAR pastaba. Gamintojams, kurių vienetinė elektros energijos gamybos įrenginio galia yra 20 MW ir daugiau ir kurie perdavimo sistemos operatoriui iki 2019 m. rugpjūčio 31 d. pateikė pranešimą apie planuojamą tokio elektros energijos įrenginio laikiną eksploatavimo sustabdymą arba visišką eksploatavimo nutraukimą, taikomas iki 2019 m. rugpjūčio 31 d galiojęs teisinis reguliavimas.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
-Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 20, 67, 68, 69, 71 ir 72 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2012-02-07:
 Nr. XI-1919, 2012-01-17, Žin. 2012, Nr. 17-752 (2012-02-07), i. k. 1121010ISTA0XI-1919
@@ -1469,10 +1464,18 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-2) tvarkyti atskirą nuo kitų veiklos rūšių elektros energijos visuomeninio tiekimo pajamų ir sąnaudų apskaitą, rengti reguliuojamosios veiklos ataskaitas, užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, vadovaujantis Energetikos įstatymo 161 straipsnio nuostatomis, ir kiekvienais metais licencijos turėtojo interneto svetainėje Tarybos nustatyta tvarka skelbti duomenis apie elektros energijos visuomeninio tiekimo sąnaudas. 
+2) tvarkyti atskirą nuo kitų veiklos rūšių elektros energijos visuomeninio tiekimo pajamų ir sąnaudų apskaitą, rengti reguliuojamosios veiklos ataskaitas, užtikrinti, kad būtų atlikta reguliuojamosios veiklos ataskaitų patikra ir reguliavimo apskaitos sistemos patikra, vadovaujantis Energetikos įstatymo 161 straipsnio nuostatomis, ir kiekvienais metais licencijos turėtojo interneto svetainėje Tarybos nustatyta tvarka skelbti duomenis apie elektros energijos visuomeninio tiekimo sąnaudas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
 Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
+
+
+
+
+3) nepirkti elektros energijos importui į Lietuvos Respubliką, prekybai ar tiekimui vartotojams iš asmenų, prekiaujančių elektros energija, pagaminta trečiojoje šalyje, kurioje veikiančią branduolinę elektrinę Lietuvos Respublikos Seimas įstatymu yra pripažinęs nesaugia. 
+Papildyta straipsnio punktu:
+Nr. XIII-2706, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21553
  
 
 
@@ -1766,7 +1769,10 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-19. Leidimas importuoti elektros energiją iš valstybių, kurios nėra valstybės narės, išduodamas asmenims, kurie teisės aktų nustatyta tvarka verčiasi nepriklausomo elektros energijos tiekimo veikla, arba asmenims, kurie turi teisės aktų nustatyta tvarka išduotą visuomeninio tiekimo veiklos licenciją.
+19. Leidimas importuoti elektros energiją iš valstybių, kurios nėra valstybės narės, išduodamas asmenims, kurie teisės aktų nustatyta tvarka verčiasi nepriklausomo elektros energijos tiekimo veikla, arba asmenims, kurie turi teisės aktų nustatyta tvarka išduotą visuomeninio tiekimo veiklos licenciją. Taryba atsisako išduoti leidimą importuoti elektros energiją iš valstybių, kurios nėra valstybės narės, jeigu kitais įstatymais tokia veikla yra pripažinta keliančia grėsmę nacionaliniam saugumui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2706, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21553
+ 
 
 
 
@@ -1835,7 +1841,10 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-2) eksportuoti ar importuoti elektros energiją galima tik pagal sutartis su valstybių, kurios nėra valstybės narės, asmenimis;
+2) eksportuoti ar importuoti elektros energiją galima tik pagal sutartis su trečiųjų šalių asmenimis, laikantis Lietuvos Respublikos būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatyme nustatytų ribojimų elektros energijos patekimui į Lietuvos Respublikos elektros energijos rinką iš trečiųjų šalių, kuriose veikia nesaugios branduolinės elektrinės; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2706, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21553
+ 
 
 
 
@@ -1865,7 +1874,18 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-8) užtikrinti kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir reikalavimų, keliamų vykdomai veiklai elektros energetikos sektoriuje, laikymąsi. 
+8) nepriklausomo elektros energijos tiekimo veiklą vykdantiems asmenims draudžiama pirkti elektros energiją importui į Lietuvos Respubliką, prekybai ar tiekimui vartotojams iš asmenų, prekiaujančių elektros energija, pagaminta trečiojoje šalyje, kurioje veikiančią branduolinę elektrinę Lietuvos Respublikos Seimas įstatymu yra pripažinęs nesaugia; 
+Papildyta straipsnio punktu:
+Nr. XIII-2706, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21553
+ 
+
+
+
+
+9) užtikrinti kitų šiame įstatyme ir kituose teisės aktuose nustatytų pareigų ir reikalavimų, keliamų vykdomai veiklai elektros energetikos sektoriuje, laikymąsi. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2706, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21553
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -2042,6 +2062,14 @@ Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
 
 
 4. Perdavimo sistemos operatorius, gavęs gamintojo prašymą laikinai sustabdyti arba visiškai nutraukti elektros energijos gamybos įrenginio eksploatavimą anksčiau šio straipsnio 3 dalyje nustatytų pranešimo terminų, per vieną mėnesį nuo prašymo gavimo dienos įvertina tokio įrenginio laikino eksploatavimo sustabdymo ar visiško eksploatavimo nutraukimo įtaką elektros energetikos sistemos darbo stabilumui, saugumui, patikimumui ir adekvatumui. Perdavimo sistemos operatorius, nustatęs, kad šis elektros energijos gamybos įrenginys bus reikalingas elektros energetikos sistemos darbo stabilumui, saugumui, patikimumui ir adekvatumui užtikrinti po gamintojo prašyme nurodytos datos, apie tai informuoja prašymą pateikusį gamintoją ir Tarybą. Gamintojas su šiuo elektros energijos gamybos įrenginiu turi teikti perdavimo sistemos operatoriaus nustatytas izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugas nuo prašyme nurodytos elektros energijos gamybos įrenginio laikino eksploatavimo sustabdymo arba visiško eksploatavimo nutraukimo datos, bet ne anksčiau negu po 4 mėnesių nuo prašymo pateikimo dienos, iki perdavimo sistemos operatoriaus nustatyto termino, kuris negali būti vėlesnis negu šio straipsnio 3 dalyje nustatyti terminai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
+ 
+
+
+
+
+5. Elektros energijos gamybos įrenginio, kurio vienetinė elektros energijos gamybos galia yra 5 MW ir daugiau, valstybinė kontrolė atliekama ne rečiau kaip kartą per metus šio įstatymo 73 straipsnio 3 dalyje nustatyta tvarka. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
  
@@ -5556,23 +5584,28 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-3. Elektros energetikos objektų ir įrenginių, esančių elektros energetikos objektus ir įrenginius valdančiai elektros energetikos įmonei nuosavybės teise ar kitais teisėtais pagrindais nepriklausančioje žemėje ar kituose nekilnojamuosiuose daiktuose, eksploatavimui, aptarnavimui, remontui, techninei priežiūrai, rekonstravimui, modernizavimui ir (ar) naudojimui užtikrinti šiuo įstatymu nustatomi žemės ir kitų nekilnojamųjų daiktų servitutai šių objektų ir įrenginių teisės aktuose nustatytų apsaugos zonų ribose. Tinklų operatoriai tiesti perdavimo, skirstomuosius tinklus ar įrengti kitus elektros įrenginius tinklų operatoriui nuosavybės teise ar kitais teisėtais pagrindais nepriklausančioje žemėje ar kituose nekilnojamuosiuose daiktuose turi teisę tik įstatymų nustatyta tvarka su žemės ar kito nekilnojamojo turto savininku išsprendę žemės ar kito nekilnojamojo turto naudojimo klausimą. Tinklų operatoriai, sudarę sutartis su žemės ar kito nekilnojamojo turto savininkais dėl žemės ar kito nekilnojamojo turto servitutų nustatymo elektros tinklams įrengti tinklų operatoriams nuosavybės teise ar kitais teisėtais pagrindais nepriklausančioje žemėje ar kituose nekilnojamuosiuose daiktuose, žemės ar kitų nekilnojamųjų daiktų savininkams išmoka vienkartines kompensacijas nuostoliams dėl servituto nustatymo atlyginti, kurių maksimalus dydis yra apskaičiuojamas pagal Vyriausybės patvirtintą metodiką. Žemės ar kitų nekilnojamųjų daiktų savininkams atlyginama sunaikintų sodinių, pasėlių, iškirsto miško rinkos vertė bei nuostoliai, atsiradę dėl galimybės naudoti žemės sklypą, jo dalį ar kitą nekilnojamąjį turtą pagal pagrindinę žemės ar kito nekilnojamojo turto naudojimo paskirtį praradimo.
+3. Elektros energetikos objektų ir įrenginių, esančių elektros energetikos objektus ir įrenginius valdančiai elektros energetikos įmonei nuosavybės teise ar kitais teisėtais pagrindais nepriklausančioje žemėje ar kituose nekilnojamuosiuose daiktuose, eksploatavimui, aptarnavimui, remontui, techninei priežiūrai, rekonstravimui, modernizavimui ir (ar) naudojimui užtikrinti šiuo įstatymu nustatomi žemės ir kitų nekilnojamųjų daiktų servitutai šių objektų ir įrenginių nustatytų (nustatomų) apsaugos zonų ribose. Tinklų operatoriai tiesti perdavimo, skirstomuosius tinklus ar įrengti kitus elektros įrenginius tinklų operatoriui nuosavybės teise ar kitais teisėtais pagrindais nepriklausančioje žemėje ar kituose nekilnojamuosiuose daiktuose turi teisę tik įstatymų nustatyta tvarka su žemės ar kito nekilnojamojo turto savininku išsprendę žemės ar kito nekilnojamojo turto naudojimo klausimą. Tinklų operatoriai, sudarę sutartis su žemės ar kito nekilnojamojo turto savininkais dėl žemės ar kito nekilnojamojo turto servitutų nustatymo elektros tinklams įrengti ir (ar) elektros tinklų apsaugos zonoms nustatyti (kai įstatymuose nurodyta, kad privaloma gauti žemės savininko, valstybinės ar savivaldybės žemės patikėtinio rašytinį sutikimą dėl šių zonų nustatymo) tinklų operatoriams nuosavybės teise ar kitais teisėtais pagrindais nepriklausančioje žemėje ar kituose nekilnojamuosiuose daiktuose, žemės ar kitų nekilnojamųjų daiktų savininkams išmoka vienkartines kompensacijas nuostoliams dėl servituto nustatymo ar nuostoliams, patiriamiems dėl specialiųjų žemės naudojimo sąlygų taikymo šioje dalyje nurodytų elektros tinklų apsaugos zonose, atlyginti. Šių nuostolių dydžiai apskaičiuojami pagal atitinkamas Vyriausybės patvirtintas metodikas. Kai toje pačioje teritorijoje (jos dalyje) atsiranda nuostoliai dėl tų pačių ar skirtingų apribojimų taikymo arba kai nuostoliai dėl anksčiau šiai teritorijai (jos daliai) nustatytų apribojimų taikymo buvo atlyginti, kompensacija atitinkamai mažinama sutampančių arba atlygintų nuostolių dalimi. Žemės ar kitų nekilnojamųjų daiktų savininkams atlyginama sunaikintų sodinių, pasėlių, iškirsto miško rinkos vertė bei nuostoliai, atsiradę dėl galimybės naudoti žemės sklypą, jo dalį ar kitą nekilnojamąjį turtą pagal pagrindinę žemės ar kito nekilnojamojo turto naudojimo paskirtį praradimo. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-2173, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09945
  
 
 
 
 
-4. Tinklų operatoriai turi teisę nekliudomi prieiti, privažiuoti ar kitaip patekti prie jiems priklausančių ar jų eksploatuojamų elektros tinklų, esančių kito žemės ar kito nekilnojamojo daikto savininko ar naudotojo teritorijoje, teisės aktų nustatyta tvarka atlikti jų remonto, techninės priežiūros, eksploatavimo, medžių ir krūmų kirtimo (esant žemės savininko sutikimui; dėl iškirstos medienos naudojimo sprendžia žemės savininkai), rekonstravimo ar modernizavimo darbus, taip pat įrengti naujus elektros energetikos objektus, neišplečiant esamų apsaugos zonų ribų. Be tinklų operatoriaus rašytinio sutikimo elektros tinklų apsaugos zonose draudžiama statyti, remontuoti, rekonstruoti arba griauti bet kokius statinius, atlikti įvairius kasybos, krovos, dugno gilinimo, žemės kasimo, sprogdinimo, melioravimo, užtvindymo darbus, mechanizuotai laistyti žemės ūkio kultūras, įrengti gyvulių laikymo aikšteles, vielines užtvaras ir metalines tvoras, sodinti arba kirsti medžius, atlikti kitus teisės aktuose numatytus ribojamus darbus ar veiksmus. Prašymą dėl šių darbų atlikimo tinklų operatoriai turi išnagrinėti ir į juos atsakyti ne vėliau kaip per 15 kalendorinių dienų nuo prašymo gavimo dienos. Jeigu per nurodytą terminą tinklų operatorius neatsako, laikoma, kad jis sutinka.
+4. Tinklų operatoriai turi teisę nekliudomi prieiti, privažiuoti ar kitaip patekti prie jiems priklausančių ar jų eksploatuojamų elektros tinklų, esančių kito žemės ar kito nekilnojamojo daikto savininko ar naudotojo teritorijoje, teisės aktų nustatyta tvarka atlikti jų remonto, techninės priežiūros, eksploatavimo, medžių ir krūmų kirtimo (dėl iškirstos medienos naudojimo sprendžia žemės savininkai), rekonstravimo ar modernizavimo darbus, taip pat įrengti naujus elektros energetikos objektus, neišplečiant esamų apsaugos zonų ribų. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-2173, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09945
  
 
 
 
 
-5. Apsaugos zonų atstumus, jose galiojančias specialiąsias žemės ir miško naudojimo sąlygas, apsaugos zonose ribojamus darbus ir veiksmus, mažiausius leistinus atstumus nuo elektros energetikos objektų iki statinių, žemės ir vandens paviršiaus nustato Vyriausybės įgaliotos institucijos patvirtintos elektros energetikos objektų apsaugos taisyklės ir kiti teisės aktai.
+5. Tinklų operatorių vykdomą veiklą elektros tinklų apsaugos zonose, jose esančių proskynų plotį, mažiausius leistinus atstumus nuo elektros tinklų iki statinių, žemės ir vandens paviršiaus nustato energetikos ministro patvirtintos elektros tinklų apsaugos taisyklės ir elektros įrenginių įrengimo taisyklės.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2173, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09945
+ 
 
 
 
@@ -6252,3 +6285,13 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 16 ir 67 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 20, 67, 68, 69, 71 ir 72 straipsnių pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2173, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09945
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 75 straipsnio pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2706, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21553
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 15 ir 16 straipsnių pakeitimo įstatymas
