@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E60B29052C0"
 
 # Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 75-2271, i. k. 1001010ISTAIII-1904
  
@@ -353,26 +353,23 @@ Nr. XI-82, 2008-12-19, Žin., 2008, Nr. 149-6008 (2008-12-30)
 
 
 
-5 straipsnis. Priedas už ištarnautus Lietuvos valstybei metus
+5 straipsnis. Priedas už tarnybos Lietuvos valstybei stažą 
 
 
-1. Valstybės politikams ir valstybės pareigūnams mokamas priedas už ištarnautus Lietuvos valstybei metus nuo 1990 m. kovo 11 d., einant  pareigas, nurodytas Valstybės tarnybos įstatymo straipsnio 1–4 dalyse ir 5 dalies 1–4 punktuose (išskyrus savivaldybės tarybos narius, kurie nebuvo merais ir mero pavaduotojais). Į ištarnautus metus įskaitomi laikotarpiai, nurodyti minėto įstatymo 42 straipsnio 1 dalyje.
-
-
-
-
-2. Tarnybos stažo skaičiavimo tvarką nustato Vyriausybė.
+1. Valstybės politikams ir valstybės pareigūnams mokamas priedas už tarnybos Lietuvos valstybei stažą, nurodytą Lietuvos Respublikos valstybės tarnybos įstatymo 47 straipsnio 1 ir 2 dalyse, apskaičiuojamą Vyriausybės nustatyta tvarka.
 
 
 
 
-3. Priedą už ištarnautus valstybei metus sudaro 3 procentai valstybės politiko ar valstybės pareigūno pareiginės algos už kiekvienus trejus metus, tačiau priedo dydis neturi viršyti 30 procentų pareiginės algos.
+2. Priedą už tarnybos Lietuvos valstybei stažą sudaro 1 procentas valstybės politiko ar valstybės pareigūno pareiginės algos už kiekvienus tarnybos Lietuvos valstybei metus, tačiau šio priedo dydis neturi viršyti 30 procentų pareiginės algos.
 
 
-Straipsnio pakeitimai:
+ Straipsnio pakeitimai:
 Nr. VIII-2057, 00.10.17, Žin., 2000, Nr.92-2887 (00.10.31)
 Nr. X-1254, 2007-07-03, Žin., 2007, Nr. 81-3318 (2007-07-21)
 Nr. X-1773, 2008-11-06, Žin., 2008, Nr. 131-5021 (2008-11-15)
+Straipsnio pakeitimai:
+Nr. XIII-2751, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21567
  
 
 
@@ -444,7 +441,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
  
  
 
@@ -567,23 +564,33 @@ I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
 
 
  5. 
- Savivaldybių merai ir merų pavaduotojai 
- Savivaldybės teritorijoje gyvena 
+ Savivaldybių merai ir merų pavaduotojai, kai savivaldybės teritorijoje gyvena 
 
 
- per 100 tūkst. gyventojų 
- iki 100 tūkst. gyventojų 
+   
+   
+ per 500 tūkst. gyventojų 
+ nuo 100 tūkst. gyventojų iki 500 tūkst. gyventojų 
+ nuo 50 tūkst. gyventojų iki 100 tūkst. gyventojų 
+ nuo 15 tūkst. gyventojų iki 50 tūkst. gyventojų 
+ iki 15 tūkst. gyventojų 
 
 
  5.1. 
  Merai 
+ 19,1 
  19 
+ 18,6 
+ 18,3 
  18 
 
 
  5.2. 
  Merų pavaduotojai 
+ 16,1 
  16 
+ 15,6 
+ 15,3 
  15 
 
 
@@ -596,10 +603,17 @@ I. VALSTYBĖS POLITIKŲ PAREIGINĖS ALGOS
 
 
 
-Pastaba. Savivaldybės mero ir mero pavaduotojo pareiginėms algoms taikytini koeficientai nustatomi atsižvelgiant į savivaldybės gyventojų skaičių, nustatytą pagal kalendorinių metų, einančių prieš kalendorinius metus, kuriais vyko paskutiniai savivaldybių tarybų rinkimai, sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje šio tvarkytojo nuostatuose nustatyta tvarka ir terminais. Nustatyti koeficientai galioja iki pirmojo išrinktos naujos savivaldybės tarybos posėdžio.
+
+
+
+
+
+Pastabos. 
+1. Savivaldybės mero ir mero pavaduotojo pareiginėms algoms taikytini koeficientai nustatomi atsižvelgiant į savivaldybės gyventojų skaičių, nustatytą pagal kalendorinių metų, einančių prieš kalendorinius metus, kuriais vyko paskutiniai savivaldybių tarybų rinkimai, sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje Lietuvos Respublikos gyventojų registro tvarkytojo nuostatuose nustatyta tvarka ir terminais. Nustatyti koeficientai galioja iki pirmojo išrinktos naujos savivaldybės tarybos posėdžio.
+2. Jeigu savivaldybės teritorijoje yra kurortinė teritorija, savivaldybės merui ir mero pavaduotojams šio įstatymo priedėlio I skyriaus 5.1 ir 5.2 papunkčiuose nustatytas pareiginės algos koeficientas didinamas 4 procentais, o jeigu savivaldybės teritorijoje yra kurortas, savivaldybės merui ir mero pavaduotojams šio įstatymo priedėlio I skyriaus 5.1 ir 5.2 papunkčiuose nustatytas pareiginės algos koeficientas didinamas 5 procentais.
  
 III. Prokurorų pareiginės algos
-III skyrius netenka galios 2018-07-01
+III skyrius neteko galios 2018-07-01
  
  
 IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
@@ -740,12 +754,12 @@ IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
 
  10.1. 
  pirmininkas  
- 12 
+ 18 
 
 
  10.2. 
  nariai  
- 9,5 
+ 17 
 
 
  11. 
@@ -784,7 +798,7 @@ IV. VALSTYBĖS PAREIGŪNŲ PAREIGINĖS ALGOS
 
 
  13. 
- netenka galios 2019-01-01 
+ neteko galios 2019-01-01 
 
 
 
@@ -865,7 +879,7 @@ V. ŽVALGYBOS PAREIGŪNŲ PAREIGINĖS ALGOS
  
  
 VI. SPECIALIŲJŲ TYRIMŲ TARNYBOS PAREIGŪNŲ PAREIGINĖS ALGOS
-VI skyrius netenka galios 2018-01-01
+VI skyrius neteko galios 2018-01-01
  
  
 Priedėlio pakeitimai:
@@ -927,6 +941,8 @@ Nr. XIII-1376, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11331
 Nr. XIII-1828, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21848
 Nr. XIII-1481, 2018-09-18, paskelbta TAR 2018-09-24, i. k. 2018-14925
 Nr. XIII-1972, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03170
+Nr. XIII-2431, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16069
+Nr. XIII-2751, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21567
  
 
 
@@ -1296,3 +1312,13 @@ Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmok�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1972, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03170
 Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 2 straipsnio ir priedėlio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2431, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16069
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 priedėlio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2751, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21567
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 5 straipsnio ir priedėlio pakeitimo įstatymas
