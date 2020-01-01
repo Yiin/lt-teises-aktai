@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.72C31F8DD98E"
 
 # Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas
 
-Suvestinė redakcija nuo 2016-05-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 58-1704, i. k. 1001010ISTAIII-1764
  
@@ -149,6 +149,13 @@ Nr. XI-924, 2010-06-22, Žin., 2010, Nr. 76-3870 (2010-06-30)
 
 
 3. Nekilnojamųjų daiktų kadastro duomenis į nekilnojamojo turto kadastrą įrašo Kadastro tvarkytojo darbuotojai, turintys Nekilnojamojo turto kadastro nuostatų (toliau – Kadastro nuostatai) nustatyta tvarka suteiktą kvalifikaciją. Kadastro nuostatus tvirtina Vyriausybė.
+
+
+
+
+4. Lietuvos Respublikos žemės ūkio ministerija formuoja valstybės politiką Nekilnojamojo turto kadastro srityje.
+Papildyta straipsnio dalimi:
+Nr. XIII-2183, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09965
  
 
 
@@ -231,7 +238,10 @@ Nr. XI-998, 2010-07-02, Žin., 2010, Nr. 84-4407 (2010-07-15)
 
 
 
-3) pagrindinė tikslinė žemės naudojimo paskirtis;
+3) pagrindinė žemės naudojimo paskirtis;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2183, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09965
+ 
 
 
 
@@ -261,7 +271,10 @@ Nr. XI-998, 2010-07-02, Žin., 2010, Nr. 84-4407 (2010-07-15)
 
 
 
-9) žemės naudojimo specialiosios sąlygos ir saugomų teritorijų apsaugos reglamentai;
+9) Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nurodytos teritorijos ir jose taikomos specialiosios žemės naudojimo sąlygos;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2183, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09965
+ 
 
 
 
@@ -1068,10 +1081,11 @@ turto kadastrą ir jų pakeitimas
 
 
 
-2. Prašymą įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą ar juos pakeisti pateikia nekilnojamojo daikto savininkas ar patikėjimo teise valdantis nekilnojamąjį daiktą asmuo, išskyrus šio Įstatymo 9 straipsnio 4 dalyje ir Žemės įstatymo 22 straipsnio 6 dalyje nustatytus atvejus, kai nekilnojamojo turto kadastre įrašyti duomenys Kadastro nuostatuose nustatyta tvarka keičiami atitinkamai minėtuose straipsniuose nurodytų institucijų teikimu ar asmenų prašymu. Keičiant nekilnojamojo turto kadastre įrašytus žemės sklypų kadastro duomenis, kai Kadastro nuostatuose nustatyta tvarka įrašomas sodininkų bendrijos, kurioje yra mėgėjų sodo sklypas, pavadinimas ir kodas, prašymą įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą ar juos pakeisti Kadastro nuostatų nustatyta tvarka gali pateikti sodininkų bendrijos pirmininkas, jo įgaliotas asmuo arba sodininkų bendrijos valdyba, jeigu ji yra sudaryta. Kai nekilnojamojo daikto kadastro duomenys į nekilnojamojo turto kadastrą įrašomi ar pakeičiami mokesčių administravimo tikslais, prašymą įrašyti ar pakeisti kadastro duomenis pateikia mokesčių administratorius.
+2. Prašymą įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą ar juos pakeisti pateikia nekilnojamojo daikto savininkas ar patikėjimo teise valdantis nekilnojamąjį daiktą asmuo, išskyrus šio Įstatymo 9 straipsnio 4 dalyje ir Specialiųjų žemės naudojimo sąlygų įstatymo 9 straipsnyje nustatytus atvejus, kai nekilnojamojo turto kadastre įrašyti duomenys Kadastro nuostatuose nustatyta tvarka keičiami atitinkamai šioje dalyje nurodytuose straipsniuose nustatytų institucijų teikimu ar asmenų prašymu. Keičiant nekilnojamojo turto kadastre įrašytus žemės sklypų kadastro duomenis, kai Kadastro nuostatuose nustatyta tvarka įrašomas sodininkų bendrijos, kurioje yra mėgėjų sodo sklypas, pavadinimas ir kodas, prašymą įrašyti nekilnojamojo daikto kadastro duomenis į nekilnojamojo turto kadastrą ar juos pakeisti Kadastro nuostatuose nustatyta tvarka gali pateikti sodininkų bendrijos pirmininkas, jo įgaliotas asmuo arba sodininkų bendrijos valdyba, jeigu ji yra sudaryta. Kai nekilnojamojo daikto kadastro duomenys į nekilnojamojo turto kadastrą įrašomi ar pakeičiami mokesčių administravimo tikslais, prašymą įrašyti ar pakeisti kadastro duomenis pateikia mokesčių administratorius.
 Straipsnio dalies pakeitimai:
 Nr. XII-1427, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20552
 Nr. XII-1832, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10582
+Nr. XIII-2183, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09965
  
 
 
@@ -1508,3 +1522,8 @@ Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 5, 9, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
 Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 8, 11 ir 17 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2183, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09965
+Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 4, 6 ir 13 straipsnių pakeitimo įstatymas
