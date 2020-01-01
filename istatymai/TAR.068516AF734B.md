@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2019-12-31 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-03-18
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
  
@@ -46,10 +46,12 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Ligos socialinis draudimas ir motinystės socialinis draudimas 
 
 
-Ligos socialinis draudimas įstatymų nustatytais atvejais kompensuoja šios rūšies draudimu apdraustiems asmenims dėl jų pačių arba šeimos narių ligos ar dėl dalyvavimo profesinės reabilitacijos programoje prarastas ar negautas pajamas arba jų dalį. Motinystės socialinis draudimas įstatymų nustatytais atvejais kompensuoja šios rūšies draudimu apdraustiems asmenims dėl motinystės, tėvystės ar vaiko priežiūros prarastas pajamas ar jų dalį. 
+Ligos socialinis draudimas įstatymų nustatytais atvejais kompensuoja šios rūšies draudimu apdraustiems asmenims dėl jų pačių ar jų šeimos narių arba budinčio globotojo, globėjo ar rūpintojo prižiūrimų vaikų ligos ar dėl dalyvavimo profesinės reabilitacijos programoje prarastas ar negautas pajamas arba jų dalį. Motinystės socialinis draudimas įstatymų nustatytais atvejais kompensuoja šios rūšies draudimu apdraustiems asmenims dėl motinystės, tėvystės ar vaiko priežiūros prarastas pajamas ar jų dalį. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
  
-
-
 
 
 
@@ -178,7 +180,10 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-5) pagal ikimokyklinio ar priešmokyklinio ugdymo programą ugdomų vaikų priežiūrai, jeigu švietimo įstaigose nustatytas infekcijų plitimą ribojantis režimas;
+5) pagal ikimokyklinio, priešmokyklinio ar pradinio ugdymo programą ugdomų vaikų priežiūrai, jeigu švietimo įstaigose nustatytas infekcijų plitimą ribojantis režimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
+ 
 
 
 
@@ -208,12 +213,13 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-3) vaiko priežiūros – apdraustajam asmeniui vaiko priežiūros atostogų metu, kol vaikui sueis vieni arba 2 metai, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte.
+3) vaiko priežiūros – apdraustajam asmeniui vaiko priežiūros atostogų metu, kol vaikui sueis vieni arba 2 metai, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte, arba vaiko priežiūros atostogų, suteiktų pagal Lietuvos Respublikos darbo kodekso 134 straipsnio 2 dalį, metu (išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte), bet ne ilgiau, iki vaikui sukaks 18 metų, jeigu įmotė (įtėvis) anksčiau negavo vaiko priežiūros išmokos tam pačiam vaikui prižiūrėti. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 Nr. XIII-245, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05916
+Nr. XIII-2323, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12116
  
 
 
@@ -390,7 +396,10 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-3. Apdraustiesiems asmenims, kurie savanoriškai gydosi nuo alkoholizmo, narkomanijos ar toksikomanijos specializuotuose stacionaruose, ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti šio straipsnio 1 dalyje nustatyta tvarka ir mokama ne ilgiau kaip 14 kalendorinių dienų vieną kartą per kalendorinius metus.
+3. Apdraustiesiems asmenims, kurie asmens sveikatos priežiūros įstaigose, teikiančiose stacionarinio priklausomybės ligų gydymo paslaugas, savanoriškai gydosi patologinį potraukį į azartinius lošimus, priklausomybės sindromą vartojant psichoaktyviąsias medžiagas, ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti šio straipsnio 1 dalyje nustatyta tvarka ir mokama ne ilgiau kaip 28 kalendorines dienas vieną kartą per kalendorinius metus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
+ 
 
 
 
@@ -418,9 +427,10 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-2. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui), seneliui (senelei) ar globėjui, slaugančiam sergantį iki 14 metų vaiką, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko slaugymo dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų.
+2. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui), seneliui (senelei), budinčiam globotojui ar globėjui, slaugančiam sergantį iki 14 metų vaiką, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko slaugymo dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-300, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06977
+Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
  
 
 
@@ -435,18 +445,21 @@ Nr. XIII-987, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00962
 
 
 
-4. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui), seneliui (senelei), globėjui ar rūpintojui, slaugančiam stacionare ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje sergantį iki 7 metų vaiką ar vaiką iki 18 metų, sergantį ligomis, dėl kurių nustatytas sunkus neįgalumo lygis, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 120 dienų per kalendorinius metus. 
+4. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui), seneliui (senelei), budinčiam globotojui, globėjui ar rūpintojui, slaugančiam stacionare ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje sergantį iki 7 metų vaiką ar vaiką iki 18 metų, sergantį ligomis, dėl kurių nustatytas sunkus neįgalumo lygis, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 120 dienų per kalendorinius metus. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-300, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06977
 Nr. XIII-717, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18149
+Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
  
 
 
 
 
-5. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui), seneliui (senelei), globėjui ar rūpintojui, slaugančiam stacionare, ambulatoriškai ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje vaiką iki 18 metų, sergantį ypač sunkiomis ligomis, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 364 kalendorines dienas, skaičiuojant nuo pirmosios slaugymo dienos. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui), seneliui (senelei), globėjui ar rūpintojui, slaugančiam stacionare, ambulatoriškai ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje vaiką iki 18 metų, sergantį sunkiomis ligomis, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 180 kalendorinių dienų, skaičiuojant nuo pirmosios slaugymo dienos. Ypač sunkių ir sunkių ligų sąrašus tvirtina sveikatos apsaugos ministras ir socialinės apsaugos ir darbo ministras. Pasibaigus šioje dalyje nurodytiems ligos išmokos mokėjimo terminams, toliau išmoka už to paties vaiko, sergančio ypač sunkia ar sunkia liga, slaugymą gali būti mokama ne daugiau kaip 120 dienų per kalendorinius metus. 
+5. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui), seneliui (senelei), budinčiam globotojui, globėjui ar rūpintojui, slaugančiam stacionare, ambulatoriškai ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje vaiką iki 18 metų, sergantį ypač sunkiomis ligomis, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 364 kalendorines dienas, skaičiuojant nuo pirmosios slaugymo dienos. Turinčiam teisę gauti ligos išmoką šio įstatymo 8 straipsnyje nustatyta tvarka motinai (tėvui), įmotei (įtėviui), seneliui (senelei), budinčiam globotojui, globėjui ar rūpintojui, slaugančiam stacionare, ambulatoriškai ar (ir) medicininės reabilitacijos ir sanatorinio gydymo įstaigoje vaiką iki 18 metų, sergantį sunkiomis ligomis, išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios slaugymo dienos ir mokama visą reikalingą slaugymo laikotarpį, bet ne ilgiau kaip 180 kalendorinių dienų, skaičiuojant nuo pirmosios slaugymo dienos. Ypač sunkių ir sunkių ligų sąrašus tvirtina sveikatos apsaugos ministras ir socialinės apsaugos ir darbo ministras. Pasibaigus šioje dalyje nurodytiems ligos išmokos mokėjimo terminams, toliau išmoka už to paties vaiko, sergančio ypač sunkia ar sunkia liga, slaugymą gali būti mokama ne daugiau kaip 120 dienų per kalendorinius metus. 
 Papildyta straipsnio dalimi:
 Nr. XIII-717, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18149
+Straipsnio dalies pakeitimai:
+Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
  
 
 
@@ -486,9 +499,10 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-4. Kai teisės aktų nustatyta tvarka švietimo įstaigose nustatomas infekcijų plitimą ribojantis režimas ir dėl to atsirado būtinybė prižiūrėti pagal ikimokyklinio ar priešmokyklinio ugdymo programą ugdomą vaiką, ligos išmoka motinai (tėvui), įmotei (įtėviui) ar globėjui iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko priežiūros dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. Šiame straipsnyje nurodytu atveju ligos išmoka po atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui mokama, jeigu apdraustojo asmens laikinasis nedarbingumas dėl vaiko priežiūros, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos.
+4. Kai teisės aktų nustatyta tvarka švietimo įstaigose nustatomas infekcijų plitimą ribojantis režimas ir dėl to atsirado būtinybė prižiūrėti pagal ikimokyklinio, priešmokyklinio ar pradinio ugdymo programą ugdomą vaiką, ligos išmoka motinai (tėvui), įmotei (įtėviui), budinčiam globotojui ar globėjui iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti nuo pirmosios vaiko priežiūros dienos ir mokama ne ilgiau kaip 14 kalendorinių dienų. Šiame straipsnyje nurodytu atveju ligos išmoka po atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui mokama, jeigu apdraustojo asmens laikinasis nedarbingumas dėl vaiko priežiūros, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
+Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
  
 
 
@@ -883,7 +897,7 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 22 straipsnis. Teisė gauti vaiko priežiūros išmoką
 
 
-1. Teisę gauti vaiko priežiūros išmoką turi vienas iš tėvų (įtėvių) ar globėjas, ar vienas iš vaiko senelių (jeigu jis atitinka šios dalies sąlygas ir tik tuo atveju, jeigu teisę gauti vaiko priežiūros išmoką tam pačiam vaikui prižiūrėti turi bent vienas iš vaiko tėvų (įtėvių), kuris:
+1. Teisę gauti vaiko priežiūros išmoką turi vienas iš tėvų (įtėvių) ar globėjas, ar vienas iš vaiko senelių (jeigu jis atitinka šioje dalyje nustatytas sąlygas ir tik tuo atveju, jeigu teisę gauti vaiko priežiūros išmoką tam pačiam vaikui prižiūrėti turi bent vienas iš vaiko tėvų (įtėvių), kuris:
 
 
 1) yra apdraustas motinystės socialiniu draudimu, išskyrus atvejus, numatytus šio straipsnio 5, 6 ir 7 dalyse;
@@ -891,7 +905,7 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-2) įstatymų nustatyta tvarka išleistas vaiko priežiūros atostogų, išskyrus pirmaisiais vaiko auginimo metais (iki vaikui sueis vieni metai), kai vaiko priežiūros atostogos nutraukiamos dėl grįžimo į darbą ar tarnybą, ar antraisiais vaiko auginimo metais (iki vaikui sueis 2 metai), taip pat atvejus, kai apdraustasis asmuo pagal šio įstatymo 5 straipsnio 4 dalį prilyginamas asmeniui, išleistam vaiko priežiūros atostogų, ir atvejus, numatytus šio straipsnio 5 ir 6 dalyse;
+2) įstatymų nustatyta tvarka išleistas vaiko priežiūros atostogų, išskyrus pirmaisiais vaiko auginimo metais (iki vaikui sueis vieni metai arba pirmaisiais įvaikinto vaiko auginimo metais), kai vaiko priežiūros atostogos nutraukiamos dėl grįžimo į darbą ar tarnybą, ar antraisiais vaiko auginimo metais (iki vaikui sueis 2 metai arba antraisiais įvaikinto vaiko auginimo metais), taip pat atvejus, kai apdraustasis asmuo pagal šio įstatymo 5 straipsnio 4 dalį prilyginamas asmeniui, išleistam vaiko priežiūros atostogų, ir atvejus, numatytus šio straipsnio 5 ir 6 dalyse;
 
 
 
@@ -903,6 +917,7 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-245, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05916
 Nr. XIII-832, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20051
 Nr. XIII-987, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00962
+Nr. XIII-2323, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12116
  
 
 
@@ -967,10 +982,11 @@ Nr. XIII-832, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20051
 23 straipsnis. Vaiko priežiūros išmokos mokėjimo trukmė
 
 
-1. Vaiko priežiūros išmoka mokama vaiko priežiūros atostogų laikotarpiu, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte, nuo nėštumo ir gimdymo atostogų pabaigos tol, kol vaikui sueis vieni arba 2 metai.
+1. Vaiko priežiūros išmoka mokama vaiko priežiūros atostogų laikotarpiu, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte, nuo nėštumo ir gimdymo atostogų pabaigos tol, kol vaikui sueis vieni arba 2 metai, arba vaiko priežiūros atostogų, suteiktų pagal Darbo kodekso 134 straipsnio 2 dalį, laikotarpiu, išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 Nr. XIII-245, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05916
+Nr. XIII-2323, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12116
  
 
 
@@ -1004,11 +1020,12 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 24 straipsnis. Vaiko priežiūros išmokos dydis
 
 
-1. Vaiko priežiūros išmokos dydis iki vaikui sueis vieni metai yra 77,58 procento išmokos gavėjo kompensuojamojo uždarbio dydžio, jeigu apdraustasis pasirenka gauti šią išmoką, kol vaikui sueis vieni metai. Jeigu apdraustasis pasirenka gauti vaiko priežiūros išmoką, kol vaikui sueis 2 metai, šios išmokos dydis iki vaikui sueis vieni metai yra 54,31 procento, o iki vaikui sueis 2 metai – 31,03 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. 
+1. Vaiko priežiūros išmokos dydis iki vaikui sueis vieni metai yra 77,58 procento išmokos gavėjo kompensuojamojo uždarbio dydžio, jeigu apdraustasis pasirenka gauti šią išmoką, kol vaikui sueis vieni metai. Jeigu apdraustasis pasirenka gauti vaiko priežiūros išmoką, kol vaikui sueis 2 metai, šios išmokos dydis iki vaikui sueis vieni metai yra 54,31 procento, o iki vaikui sueis 2 metai – 31,03 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Vaiko priežiūros išmokos dydis pirmaisiais įvaikinto vaiko auginimo metais vaiko priežiūros atostogų, suteiktų pagal Darbo kodekso 134 straipsnio 2 dalį, laikotarpiu (išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte) yra 77,58 procento išmokos gavėjo kompensuojamojo uždarbio dydžio, jeigu apdraustasis pasirenka gauti šią išmoką 12 mėnesių. Jeigu apdraustasis pasirenka gauti vaiko priežiūros išmoką 24 mėnesius, šios išmokos dydis pirmaisiais įvaikinto vaiko auginimo metais vaiko priežiūros atostogų, suteiktų pagal Darbo kodekso 134 straipsnio 2 dalį, laikotarpiu (išskyrus atvejus, numatytus šio įstatymo 22 straipsnio 1 dalies 2 punkte) yra 54,31 procento, o antraisiais įvaikinto vaiko auginimo metais – 31,03 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 Nr. XIII-245, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05916
 Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
+Nr. XIII-2323, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12116
  
 
 
@@ -1030,10 +1047,11 @@ Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
 
 
 
-4. Jeigu apdraustasis asmuo, kuriam yra paskirta vaiko priežiūros išmoka, pirmaisiais vaiko auginimo metais (iki vaikui sueis vieni metai) turi pajamų, nuo kurių skaičiuojamos motinystės socialinio draudimo įmokos, ar iš pirmaisiais vaiko auginimo metais (iki vaikui sueis vieni metai) vykdytos darbinės veiklos gautų pajamų, kurios pagal šį įstatymą nėra draudžiamosios pajamos, ar gauna šio įstatymo nustatytas ligos (įskaitant darbdavio mokamas dvi pirmąsias ligos dienas) ar profesinės reabilitacijos išmokas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokas, mokamas vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu, ir jų dydis mažesnis už vaiko priežiūros išmoką (bendrą šių išmokų sumą), jam mokamas vaiko priežiūros išmokos (bendros šių išmokų sumos) ir jo atitinkamą mėnesį turėtų pajamų ir (ar) išmokų skirtumas Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka. Jeigu šių pajamų ir (ar) išmokų dydis yra didesnis už vaiko priežiūros išmoką arba jai lygus, vaiko priežiūros išmoka nemokama. Mokant vaiko priežiūros išmoką, į draudžiamąsias pajamas neįtraukiamos vaiko priežiūros išmokos mokėjimo metu gautos draudžiamosios pajamos už darbą, atliktą iki pirmosios vaiko priežiūros atostogų dienos. Antraisiais vaiko auginimo metais (iki vaikui sueis 2 metai) vaiko priežiūros išmoka mokama nepriklausomai nuo tuo metu gautų pajamų ir (ar) išmokų. Asmenys, gaunantys pajamų tik iš sporto, atlikėjo veiklos, pagal autorines sutartis arba iš individualios veiklos, laikomi turinčiais draudžiamųjų pajamų visą mėnesį, jeigu motinystės socialinio draudimo įmokos sumokėtos nuo pajamų sumos, ne mažesnės negu minimalioji mėnesinė alga. Tuo atveju, kai motinystės socialinio draudimo įmokos sumokėtos nuo mažesnės negu minimalioji mėnesinė alga sumos, šių asmenų draudžiamųjų pajamų turėjimo laikotarpis laikomas proporcingai mažesniu. Ūkininkams ir jų partneriams, šeimynos dalyviams, individualių įmonių savininkams, mažųjų bendrijų nariams ir ūkinių bendrijų tikriesiems nariams, įgijusiems teisę gauti vaiko priežiūros išmoką, vaiko priežiūros išmoka mokama neatsižvelgiant į pajamas. Mokant vaiko priežiūros išmoką, neatsižvelgiama į meno kūrėjo statusą turinčio asmens draudimo valstybės lėšomis sumas.
+4. Jeigu apdraustasis asmuo, kuriam yra paskirta vaiko priežiūros išmoka, pirmaisiais vaiko auginimo metais (iki vaikui sueis vieni metai arba pirmaisiais įvaikinto vaiko auginimo metais) turi pajamų, nuo kurių skaičiuojamos motinystės socialinio draudimo įmokos, ar iš pirmaisiais vaiko auginimo metais (iki vaikui sueis vieni metai arba pirmaisiais įvaikinto vaiko auginimo metais) vykdytos darbinės veiklos gautų pajamų, kurios pagal šį įstatymą nėra draudžiamosios pajamos, ar gauna šio įstatymo nustatytas ligos (įskaitant darbdavio mokamas dvi pirmąsias ligos dienas) ar profesinės reabilitacijos išmokas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokas, mokamas vadovaujantis Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu, ir jų dydis mažesnis už vaiko priežiūros išmoką (bendrą šių išmokų sumą), jam mokamas vaiko priežiūros išmokos (bendros šių išmokų sumos) ir jo atitinkamą mėnesį turėtų pajamų ir (ar) išmokų skirtumas Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka. Jeigu šių pajamų ir (ar) išmokų dydis yra didesnis už vaiko priežiūros išmoką arba jai lygus, vaiko priežiūros išmoka nemokama. Mokant vaiko priežiūros išmoką, į draudžiamąsias pajamas neįtraukiamos vaiko priežiūros išmokos mokėjimo metu gautos draudžiamosios pajamos už darbą, atliktą iki pirmosios vaiko priežiūros atostogų dienos. Antraisiais vaiko auginimo metais (iki vaikui sueis 2 metai arba antraisiais įvaikinto vaiko auginimo metais) vaiko priežiūros išmoka mokama nepriklausomai nuo tuo metu gautų pajamų ir (ar) išmokų. Asmenys, gaunantys pajamų tik iš sporto, atlikėjo veiklos, pagal autorines sutartis arba iš individualios veiklos, laikomi turinčiais draudžiamųjų pajamų visą mėnesį, jeigu motinystės socialinio draudimo įmokos sumokėtos nuo pajamų sumos, ne mažesnės negu minimalioji mėnesinė alga. Tuo atveju, kai motinystės socialinio draudimo įmokos sumokėtos nuo mažesnės negu minimalioji mėnesinė alga sumos, šių asmenų draudžiamųjų pajamų turėjimo laikotarpis laikomas proporcingai mažesniu. Ūkininkams ir jų partneriams, šeimynos dalyviams, individualių įmonių savininkams, mažųjų bendrijų nariams ir ūkinių bendrijų tikriesiems nariams, įgijusiems teisę gauti vaiko priežiūros išmoką, vaiko priežiūros išmoka mokama neatsižvelgiant į pajamas. Mokant vaiko priežiūros išmoką, neatsižvelgiama į meno kūrėjo statusą turinčio asmens draudimo valstybės lėšomis sumas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-245, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05916
 Nr. XIII-832, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20051
+Nr. XIII-2323, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12116
  
 
 
