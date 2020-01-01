@@ -20,9 +20,14 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-09-19 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-05-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
+ 
+TAR pastaba. Iki įstatymo Nr. XIII-2764 įsigaliojimo (2020-01-01) pagal Lietuvos Respublikos švietimo įstatymo Nr. I-1489 37, 43, 47, 48, 53, 56, 57, 58, 59, 60, 64, 68 straipsnių pakeitimo ir Įstatymo papildymo 51, 563 straipsniais įstatymo Nr. XIII-592 15 straipsnį penkerių metų kadencijai paskirtų valstybinės ar savivaldybės švietimo įstaigų (išskyrus aukštąsias mokyklas) vadovų einamos pareigos yra prilyginamos šiame įstatyme numatytai pirmajai penkerių metų kadencijai.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2764, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21570
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 59 straipsnio pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2011-07-01:
 Nr. XI-1281, 2011-03-17, Žin., 2011, Nr. 38-1804 (2011-03-31)
@@ -3671,7 +3676,9 @@ Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
 
 
 
-4. Pasibaigus valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovo penkerių metų kadencijai, jis iš pareigų atleidžiamas, išskyrus atvejus, kai jis laimi viešą konkursą švietimo įstaigos vadovo pareigoms eiti ir skiriamas į švietimo įstaigos vadovo pareigas naujai kadencijai. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovas, baigęs penkerių metų kadenciją, turi teisę dalyvauti tos pačios švietimo įstaigos viešame konkurse vadovo pareigoms eiti.
+4. Pasibaigus valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovo pirmajai penkerių metų kadencijai, jis gali būti skiriamas be konkurso antrajai penkerių metų kadencijai, jeigu jo metų veikla kiekvienais metais buvo vertinama labai gerai arba gerai. Pasibaigus valstybinės ir savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovo kadencijai, jam sutikus, jo įgaliojimai pratęsiami, iki įvyks viešas konkursas švietimo įstaigos vadovo pareigoms eiti ir bus paskirtas švietimo įstaigos vadovas. Valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovas, baigęs penkerių metų kadenciją, turi teisę dalyvauti tos pačios švietimo įstaigos viešame konkurse vadovo pareigoms eiti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2764, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21570
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
  
@@ -3679,7 +3686,9 @@ Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
 
 
 
-5. Likus ne mažiau kaip 6 mėnesiams iki valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovo kadencijos pabaigos, švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) skelbia viešą konkursą šios švietimo įstaigos vadovo pareigoms eiti.
+5. Likus ne mažiau kaip 6 mėnesiams iki valstybinės ar savivaldybės švietimo įstaigos (išskyrus aukštąsias mokyklas) vadovo kadencijos pabaigos, švietimo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) skelbia viešą konkursą šios švietimo įstaigos vadovo pareigoms eiti, išskyrus atvejus, kai vadovas paskiriamas be konkurso antrajai penkerių metų kadencijai, šio straipsnio 4 dalyje nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2764, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21570
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
  
@@ -3774,7 +3783,9 @@ Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
 
 
 
-10. Jeigu pasibaigus penkerių metų kadencijai švietimo įstaigos vadovas, kurio visos metų veiklos ataskaitos buvo įvertintos gerai ir labai gerai, atsisako dalyvauti viešame konkurse tos švietimo įstaigos vadovo pareigoms eiti arba jo nelaimi, esant galimybei, jam turi būti pasiūlytos iki paskyrimo švietimo įstaigos vadovu eitos arba kitos pareigos atitinkamai valstybės ar savivaldybės įsteigto juridinio asmens, savininko teises ir pareigas įgyvendinančios Vyriausybės ar jos įgaliotos institucijos arba savivaldybės tarybos ar savivaldybės vykdomosios institucijos įsteigtoje įstaigoje.
+10. Jeigu pasibaigus penkerių metų kadencijai švietimo įstaigos vadovas, kurio visos metų veiklos ataskaitos buvo įvertintos gerai ir labai gerai, atsisako būti paskirtas be konkurso antrajai penkerių metų kadencijai šio straipsnio 4 dalyje nustatyta tvarka arba dalyvauti viešame konkurse tos švietimo įstaigos vadovo pareigoms eiti arba jo nelaimi, esant galimybei, jam turi būti pasiūlytos iki paskyrimo švietimo įstaigos vadovu eitos arba kitos pareigos atitinkamai valstybės ar savivaldybės įsteigto juridinio asmens, savininko teises ir pareigas įgyvendinančios Vyriausybės ar jos įgaliotos institucijos arba savivaldybės tarybos ar savivaldybės vykdomosios institucijos įsteigtoje įstaigoje.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2764, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21570
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1400, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11327
  
@@ -4659,3 +4670,8 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 41 straipsnio pakeitimo įst
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT25-N11/2019, 2019-09-19, paskelbta TAR 2019-09-19, i. k. 2019-14836
 Dėl Lietuvos Respublikos švietimo įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2764, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21570
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 59 straipsnio pakeitimo įstatymas
