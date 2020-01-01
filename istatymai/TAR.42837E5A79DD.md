@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-01-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -489,9 +489,10 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
 
 
-30. Užsieniečio registracijos pažymėjimas – dokumentas, kuriuo patvirtinama užsieniečio teisė likti Lietuvos Respublikos teritorijoje ir, jeigu vidaus reikalų ministro nustatyta tvarka užsieniečio asmens tapatybė yra nustatyta, – šio užsieniečio asmens tapatybė.
+30. Užsieniečio registracijos pažymėjimas – dokumentas, kuriuo patvirtinama užsieniečio teisė likti Lietuvos Respublikos teritorijoje ir teisė dirbti (kai tokia teisė įgyjama). 
 Straipsnio dalies pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
+Nr. XIII-2582, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20018
  
 
 
@@ -4614,9 +4615,17 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 13) jis yra Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos pilietis, kuris atvyksta į Lietuvos Respubliką dirbti (įskaitant nurodytoje valstybėje įsteigtos įmonės atsiunčiamą laikinai dirbti į įmonę Lietuvos Respublikoje pagal tarp šių įmonių sudarytą sutartį dėl paslaugų teikimo ar darbų atlikimo) ar užsiimti kita teisėta veikla. 
 13 punkto redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
-13) jis yra Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos pilietis, kuris atvyksta į Lietuvos Respubliką dirbti (įskaitant nurodytoje valstybėje įsteigtos įmonės atsiunčiamą laikinai dirbti į įmonę Lietuvos Respublikoje pagal tarp šių įmonių sudarytą sutartį dėl paslaugų teikimo ar darbų atlikimo) ar užsiimti kita teisėta veikla.
+13) jis yra Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos pilietis, kuris atvyksta į Lietuvos Respubliką dirbti (įskaitant nurodytoje valstybėje įsteigtos įmonės atsiunčiamą laikinai dirbti į įmonę Lietuvos Respublikoje pagal tarp šių įmonių sudarytą sutartį dėl paslaugų teikimo ar darbų atlikimo) ar užsiimti kita teisėta veikla;
 Papildyta straipsnio punktu:
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+ 
+
+
+
+
+14) jis yra įgijęs šio Įstatymo 71 straipsnio 1 dalies 11 punkte nurodytą teisę. 
+Papildyta straipsnio punktu:
+Nr. XIII-2582, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20018
  
 
 
@@ -5066,7 +5075,15 @@ Užsieniečio darbas arba užsiėmimas kita veikla Lietuvos Respublikoje laikomi
 
 
 
-3) studijuoja, mokosi švietimo įstaigoje, stažuoja ar tobulina kvalifikaciją be leidimo laikinai gyventi ar vizos, išskyrus atvejus, nurodytus šio Įstatymo 32 straipsnio 2 dalies 2 punkte ir 71 straipsnio 2 dalyje.
+3) studijuoja, mokosi švietimo įstaigoje, stažuoja ar tobulina kvalifikaciją be leidimo laikinai gyventi ar vizos, išskyrus atvejus, nurodytus šio Įstatymo 32 straipsnio 2 dalies 2 punkte ir 71 straipsnio 2 dalyje;
+
+
+
+
+4) yra prieglobsčio prašytojas, kuris dirba be užsieniečio registracijos pažymėjimo, patvirtinančio jo teisę dirbti, ir (arba) be darbo sutarties. 
+Papildyta straipsnio punktu:
+Nr. XIII-2582, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20018
+ 
 
 
 
@@ -5370,7 +5387,18 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 
 
 
-11) naudotis kitomis priėmimo sąlygomis ir teisėmis, kurios jam garantuojamos pagal Lietuvos Respublikos tarptautines sutartis, įstatymus ir kitus teisės aktus.
+11) dirbti, jeigu per 6 mėnesius nuo prašymo suteikti prieglobstį pateikimo dienos Migracijos departamentas nepriėmė sprendimo dėl prieglobsčio Lietuvos Respublikoje suteikimo ne dėl prieglobsčio prašytojo kaltės; 
+Papildyta straipsnio punktu:
+Nr. XIII-2582, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20018
+ 
+
+
+
+
+12) naudotis kitomis priėmimo sąlygomis ir teisėmis, kurios jam garantuojamos pagal Lietuvos Respublikos tarptautines sutartis, įstatymus ir kitus teisės aktus.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2582, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20018
+ 
 
 
 
@@ -5430,10 +5458,26 @@ Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 
 
 
+51. Prieglobsčio prašytojo gaunamos su darbo santykiais Lietuvos Respublikoje susijusios pajamos, kurios yra mažesnės kaip 3 valstybės remiamų pajamų dydžiai, nelaikomos finansinės būklės pagerėjimu. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2582, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20018
+ 
+
+
+
+
 6. Prieglobsčio prašytojui, nevykdančiam pareigų, išvardytų šio straipsnio 3 dalies 4–6 punktuose, ir (ar) nesilaikančiam apgyvendinimo Valstybės sienos apsaugos tarnyboje arba kitoje apgyvendinimo vietoje tvarkos, socialinės apsaugos ir darbo ministro ir vidaus reikalų ministro nustatyta tvarka gali būti apribotas arba nutrauktas šio straipsnio 1 dalies 8 punkte numatytos piniginės pašalpos mokėjimas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
+ 
+
+
+
+
+7. Šio straipsnio 1 dalies 11 punkte nurodytą teisę įgijęs prieglobsčio prašytojas, ketinantis dirbti, privalo turėti užsieniečio registracijos pažymėjimą, patvirtinantį jo teisę dirbti. Migracijos departamentas, gavęs prieglobsčio prašytojo prašymą nurodyti jo teisę dirbti užsieniečio registracijos pažymėjime ir nustatęs, kad prieglobsčio prašytojas šio straipsnio 1 dalies 11 punkte nurodytą teisę įgijo, šio prieglobsčio prašytojo užsieniečio registracijos pažymėjime nurodo įgytą teisę dirbti. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2582, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20018
  
 
 
@@ -6107,7 +6151,10 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 2. Prieglobsčio prašytojui, atitinkančiam šio Įstatymo 86 straipsnio 1 dalyje nustatytus kriterijus, nesuteikiamas pabėgėlio statusas, jeigu:
 
 
-1) jis naudojasi Jungtinių Tautų institucijų ar organizacijų, išskyrus Jungtinių Tautų vyriausiojo pabėgėlių komisaro valdybą, parama ir apsauga;
+1) jis naudojasi Jungtinių Tautų institucijų ar organizacijų, išskyrus Jungtinių Tautų vyriausiojo pabėgėlių komisaro valdybą, parama ir apsauga tol, kol tokia parama ir apsauga teikiama; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2582, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20018
+ 
 
 
 
@@ -9559,3 +9606,8 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2582, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20018
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 58, 64, 71 ir 88 straipsnių pakeitimo įstatymas
