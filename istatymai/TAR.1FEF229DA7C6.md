@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
  
@@ -739,14 +739,17 @@ Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr.
 2. Valstybės ar savivaldybės institucijos, įstaigos ar įmonės vadovas privalo:
 
 
-1) nustatyti institucijos, įstaigos ar įmonės veiklos dokumentų registrus, kitus apskaitos dokumentus;
+1) nustatyti institucijos, įstaigos ar įmonės veiklos dokumentų registrus ir (ar) nurodyti jos naudojamus registrus, valstybės informacines sistemas ar kitas informacines sistemas, kuriuose registruoti dokumentai nėra registruojami institucijos, įstaigos ar įmonės veiklos dokumentų registruose, ir kitus apskaitos dokumentus;
 
 
 
 
-2) paskirti už veiklos dokumentų registravimą, tvarkymą, apskaitą, saugojimą ir naikinimą atsakingus asmenis ir nustatyti jų įgaliojimus.
+2) paskirti už veiklos dokumentų registravimą, tvarkymą, apskaitą, saugojimą ir naikinimą atsakingus asmenis ir nustatyti jų įgaliojimus. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2473, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16483
+ 
 
 
 
@@ -794,7 +797,10 @@ Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr.
 
 
 
-2. Valstybės ar savivaldybių institucijų, įstaigų ar įmonių vykdant teisės norminių aktų nustatytus įgaliojimus ir veiklą sudaryti ir gauti dokumentai turi būti užregistruoti dokumentų registruose, susisteminti pagal institucijos, įstaigos ar įmonės dokumentacijos planą, sutvarkyti ir įtraukti į apskaitą.
+2. Valstybės ar savivaldybių institucijų, įstaigų ar įmonių vykdant teisės norminių aktų nustatytus įgaliojimus ir veiklą sudaryti ir gauti dokumentai turi būti užregistruoti dokumentų registruose arba nurodytuose naudojamuose registruose, valstybės informacinėse sistemose ar kitose informacinėse sistemose, susisteminti pagal institucijos, įstaigos ar įmonės dokumentacijos planą, sutvarkyti ir įtraukti į apskaitą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2473, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16483
+ 
 
 
 
@@ -850,9 +856,19 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 
 
 
-3. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių dokumentų saugojimo ir saugyklų įrengimo reikalavimus nustato ir dokumentų saugyklų statinių projektavimo sąlygas Statybos įstatymo nustatyta tvarka išduoda Lietuvos vyriausiasis archyvaras. 
+3. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, valstybės įgalioti asmenys, nevalstybinės organizacijos, privatūs juridiniai asmenys popierinius veiklos dokumentus, išskyrus nuolat saugomus dokumentus, gali išsaugoti elektronine forma, nesaugodami popierinio dokumento, jeigu yra užtikrinamas popierinio dokumento skaitmeninio vaizdo tikrumas. Popierinių dokumentų atrankos ir jų išsaugojimo elektronine forma tvarką nustato Lietuvos vyriausiasis archyvaras. 
+TAR pastaba. 12 straipsnio 3 dalies nuostatos dėl popierinių dokumentų galimo išsaugojimo elektronine forma taikomos ir iki įstatymo Nr. XIII-2473 įsigaliojimo (2020-01-01) sukurtiems popieriniams dokumentams.
+Papildyta straipsnio dalimi:
+Nr. XIII-2473, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16483
+ 
+
+
+
+
+4. Valstybės ir savivaldybių institucijų, įstaigų ir įmonių dokumentų saugojimo ir saugyklų įrengimo reikalavimus nustato Lietuvos vyriausiasis archyvaras. 
 Straipsnio dalies pakeitimai:
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
+Nr. XIII-2473, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16483
  
 
 
@@ -899,11 +915,12 @@ Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr.
 14 straipsnis. Dokumentų naikinimas
 
 
-1. Dokumentus galima naikinti atlikus jų vertės ekspertizę, kai pasibaigia norminių teisės aktų nustatyti dokumentų saugojimo terminai. Sprendimą dėl valstybės ar savivaldybės institucijos, įstaigos ar įmonės, nevalstybinės organizacijos, privataus juridinio asmens veiklos dokumentų naikinimo ar jų saugojimo terminų pratęsimo priima vadovas pagal Lietuvos vyriausiojo archyvaro nustatytus dokumentų rengimo, tvarkymo ir apskaitos bendruosius reikalavimus.
+1. Dokumentus galima naikinti atlikus jų vertės ekspertizę, kai pasibaigia norminių teisės aktų nustatyti dokumentų saugojimo terminai. Sprendimą dėl valstybės ar savivaldybės institucijos, įstaigos ar įmonės, nevalstybinės organizacijos, privataus juridinio asmens veiklos dokumentų naikinimo ar jų saugojimo terminų pratęsimo priima vadovas pagal Lietuvos vyriausiojo archyvaro nustatytus dokumentų rengimo, tvarkymo ir apskaitos bendruosius reikalavimus. 
 Straipsnio dalies pakeitimai:
 Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. 1061010ISTA000X-992
 Nr. X-1497, 2008-04-15, Žin., 2008, Nr. 50-1846 (2008-04-30), i. k. 1081010ISTA00X-1497
 Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA00XI-917
+Nr. XIII-2473, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16483
  
 
 
@@ -1501,3 +1518,8 @@ Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 5 ir 6 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1754, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20735
 Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 5 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2473, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16483
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 10, 11, 12 ir 14 straipsnių pakeitimo įstatymas
