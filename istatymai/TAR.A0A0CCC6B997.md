@@ -21,7 +21,7 @@ PATVIRTINTAS
  
 
 
-Suvestinė redakcija nuo 2019-07-06 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
  
@@ -4841,37 +4841,41 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 
 
-174 straipsnis. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų sveikatos priežiūra
+174 straipsnis. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų asmens sveikatos priežiūra
 
 
-1. Asmens sveikatos priežiūra pataisos įstaigose organizuojama ir atliekama pagal Lietuvos Respublikos sveikatos apsaugą reglamentuojančius įstatymus. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
+1. Asmens sveikatos priežiūros paslaugos arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekantiems nuteistiesiems teikiamos sveikatos apsaugos ministro ir teisingumo ministro nustatyta tvarka.
+
+
+
+
+2. Pirminio lygio ambulatorinę arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų asmens sveikatos priežiūrą užtikrina laisvės atėmimo vietų ligoninė arba pataisos įstaigų asmens sveikatos priežiūros padaliniai. Pirminio lygio ambulatorinės asmens sveikatos priežiūros paslaugos teikiamos pataisos įstaigų patalpose.
+
+
+
+
+3. Kai laisvės atėmimo vietų ligoninė arba pataisos įstaigų asmens sveikatos priežiūros padaliniai dėl objektyvių priežasčių negali užtikrinti pirminio lygio ambulatorinių asmens sveikatos priežiūros paslaugų teikimo arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekantiems nuteistiesiems, šių paslaugų teikimą pataisos įstaigų patalpose pagal sudarytas sutartis užtikrina savivaldybės, kurios teritorijoje veikia pataisos įstaiga, pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas teikianti asmens sveikatos priežiūros įstaiga. Sprendimą dėl konkrečios pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas teikiančios savivaldybės asmens sveikatos priežiūros įstaigos, kuri užtikrins asmens sveikatos priežiūros paslaugų teikimą arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekantiems nuteistiesiems, paskyrimo priima savivaldybės, kurios teritorijoje veikia pataisos įstaiga, taryba.
+TAR pastaba. Savivaldybių, kurių teritorijose veikia pataisos įstaigos, tarybos iki 2020 m. sausio 1 d. paskiria konkrečias pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas teiksiančias sveikatos priežiūros įstaigas, kurios užtikrins asmens sveikatos priežiūros paslaugų teikimą arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekantiems nuteistiesiems, o šių sveikatos priežiūros įstaigų vadovai su laisvės atėmimo vietų ligonine arba su pataisos įstaigomis, kuriose įsteigti asmens sveikatos priežiūros padaliniai, sudaro Lietuvos Respublikos bausmių vykdymo kodekso 174 straipsnio 3 dalyje nurodytą sutartį.
+
+
+
+
+4. Antrinio lygio asmens sveikatos priežiūros paslaugos, kurios neteikiamos laisvės atėmimo vietų ligoninėje, ir tretinio lygio asmens sveikatos priežiūros paslaugos arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekantiems nuteistiesiems teikiamos arčiausiai esančiose ir atitinkamas paslaugas galinčiose suteikti valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose. 
+
+
+
+
+5. Asmens sveikatos priežiūros paslaugos valstybės arba savivaldybių asmens sveikatos priežiūros įstaigose teikiamos užtikrinant nuteistųjų apsaugą.
+
+
+
+
+6. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų asmens sveikatos priežiūrą organizuoja Sveikatos apsaugos ministerija. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2699, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21417
  
-
-
-
-
-2. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų ambulatorinėms pirminės ir antrinės asmens sveikatos priežiūros paslaugoms teikti pataisos įstaigose steigiamos sveikatos priežiūros tarnybos. Šių tarnybų struktūrą, pareigybių skaičių ir veiklos tvarką nustato sveikatos apsaugos ministras ir teisingumo ministras. Stacionarinių asmens sveikatos priežiūros įstaigų teikiamoms antrinės asmens sveikatos priežiūros paslaugoms teikti steigiamos laisvės atėmimo vietų ligoninės. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
- 
-
-
-
-
-3. Laisvės atėmimo bausmę arba areštą atliekančiam nuteistajam reikalingos asmens sveikatos priežiūros paslaugos, kurių suteikti pataisos įstaigų sveikatos priežiūros tarnybose ir laisvės atėmimo vietų ligoninėse nėra galimybių, sveikatos apsaugos ministro ir teisingumo ministro nustatyta tvarka teikiamos valstybės arba savivaldybių asmens sveikatos priežiūros viešosiose įstaigose užtikrinant nuteistųjų apsaugą.
-Straipsnio dalies pakeitimai:
-Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
- 
-
-
-
-
-4. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų sveikatos priežiūrą organizuoja Sveikatos apsaugos ministerija.
- 
-
-
 
 
 
@@ -5155,7 +5159,7 @@ Nr. XI-1474, 2011-06-21, Žin., 2011, Nr. 81-3961 (2011-07-05)
 
 
 
-part_2a1fccae98674d7f876ad502b6862565_end
+part_01387da79c704052888f1375b09d31d6_end
 
 
  
@@ -5354,3 +5358,13 @@ Lietuvos Respublikos bausmių vykdymo kodekso 69, 137, 140 ir 157 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2555, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19863
+Lietuvos Respublikos bausmių vykdymo kodekso 41 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2699, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21417
+Lietuvos Respublikos bausmių vykdymo kodekso 174 straipsnio pakeitimo įstatymas
