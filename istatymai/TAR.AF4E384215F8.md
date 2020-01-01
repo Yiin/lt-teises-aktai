@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
  
@@ -326,7 +326,10 @@ Saugomas asmuo turi teisę:
 
 
 
-9 straipsnis. Saugomų objektų apsaugos užtikrinimas ir saugomų objektų apsaugos zonų nustatymas 
+9 straipsnis. Saugomų objektų apsaugos užtikrinimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2190, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09846
+ 
 
 
 1. Saugomų objektų apsauga užtikrinama nustatant juose specialų režimą.
@@ -364,7 +367,10 @@ Saugomas asmuo turi teisę:
 
 
 
-3. Saugomų objektų – Prezidentūros, Seimo, Vyriausybės pastatų, Respublikos Prezidento, Ministro Pirmininko rezidencijų pastatų su jiems priskirtais žemės sklypais ir priklausiniais – apsaugai užtikrinti, be šio straipsnio 2 dalyje nustatyto specialaus režimo, nustatomos saugomų objektų apsaugos zonos. Saugomų objektų apsaugos zonų ribas tvirtina Vyriausybė ar jos įgaliota institucija. 
+3. Saugomų objektų – Prezidentūros, Seimo, Vyriausybės pastatų, Respublikos Prezidento, Ministro Pirmininko rezidencijų pastatų su jiems priskirtais žemės sklypais ir priklausiniais – apsaugai užtikrinti, be šio straipsnio 2 dalyje nustatyto specialaus režimo, nustatomos saugomų objektų apsaugos zonos. Saugomų objektų apsaugos zonų ribas tvirtina Vyriausybė ar jos įgaliota institucija. Specialiosios žemės naudojimo sąlygos šiose zonose nustatytos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2190, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09846
+ 
 
 
 
@@ -372,17 +378,26 @@ Saugomas asmuo turi teisę:
 4. Saugomų objektų apsaugos zonose šiuo įstatymu nustatomi tokie apribojimai:
 
 
-1) saugomų objektų apsaugos zonose draudžiama statyti ar rekonstruoti viešojo naudojimo pastatus, dėl kurių gali padidėti transporto priemonių ir (ar) žmonių srautai, taip pat naujus gamybos ir pramonės paskirties pastatus, automobilių stovėjimo aikšteles, degalines, sprogmenų ir (ar) degių medžiagų saugyklas, jų prekybos vietas;
+1) neteko galios nuo 2020-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2190, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09846
+ 
 
 
 
 
-2) saugomų objektų apsaugos zonose statomų ar rekonstruojamų statinių aukštis negali viršyti Vyriausybės nustatyto maksimalaus aukščio;
+2) neteko galios nuo 2020-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2190, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09846
+ 
 
 
 
 
-3) saugomų objektų apsaugos zonose statyti naujus ar rekonstruoti esamus statinius, keisti jų paskirtį, sudaryti žemės sklypų ir (ar) statinių perleidimo, nuomos ar panaudos sandorius leidžiama tik suderinus su Vadovybės apsaugos departamentu Vyriausybės nustatyta tvarka;
+3) neteko galios nuo 2020-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2190, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09846
+ 
 
 
 
@@ -1402,3 +1417,8 @@ Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 17 ir 27 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1010, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01023
 Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 23 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2190, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09846
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 9 straipsnio pakeitimo įstatymas
