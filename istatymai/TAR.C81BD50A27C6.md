@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2019-09-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -181,7 +181,10 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 1. LNSS įstaigoms priskiriamos licencijas sveikatos priežiūrai (toliau – licencija) turinčios:
 
 
-1) valstybės ir savivaldybių asmens sveikatos priežiūros viešosios įstaigos (toliau – LNSS viešosios įstaigos) ir biudžetinės įstaigos (toliau – LNSS biudžetinės įstaigos). LNSS viešosioms įstaigoms Lietuvos Respublikos viešųjų įstaigų įstatymas taikomas tiek, kiek tai neprieštarauja šiam įstatymui;
+1) valstybės ir savivaldybių asmens sveikatos priežiūros viešosios įstaigos (toliau – LNSS viešosios įstaigos) ir biudžetinės įstaigos (toliau – LNSS biudžetinės įstaigos). LNSS viešosioms įstaigoms Lietuvos Respublikos viešųjų įstaigų įstatymas ir Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas taikomi tiek, kiek tai neprieštarauja šiam įstatymui; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2443, 2019-09-26, paskelbta TAR 2019-10-09, i. k. 2019-16070
+ 
 
 
 
@@ -343,22 +346,34 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 5 straipsnis. Licencijavimas asmens sveikatos priežiūros veiklai
 
 
-1. Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio valstybėje įsteigto juridinio asmens ar kitos organizacijos filialas, įsteigtas Lietuvos Respublikoje, (toliau – pareiškėjas) gali teikti asmens sveikatos priežiūros paslaugas tik gavęs licenciją asmens sveikatos priežiūros veiklai. Išduodamos licencijos asmens sveikatos priežiūros veiklai yra neterminuotos. Licencijos asmens sveikatos priežiūros veiklai išduodamos elektronine arba pareiškėjo prašymu popierine forma. Asmens sveikatos priežiūros įstaiga turi vieną licenciją asmens sveikatos priežiūros veiklai, kurioje nurodomos visos licencijuojamos asmens sveikatos priežiūros paslaugos, kurias ji šiame straipsnyje nustatyta tvarka įgijo teisę teikti. Šias paslaugas asmens sveikatos priežiūros įstaiga turi teisę teikti tik konkrečiais licencijoje asmens sveikatos priežiūros veiklai nurodytais adresais, išskyrus atvejus, kai pagal asmens sveikatos priežiūros paslaugų teikimo pobūdį ir paskirtį jos turi būti teikiamos ne tik sveikatos priežiūros įstaigoje ir tai numatyta atskirų paslaugų teikimą reglamentuojančiuose sveikatos apsaugos ministro įsakymuose.
+1. Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio valstybėje įsteigto juridinio asmens ar kitos organizacijos filialas, įsteigtas Lietuvos Respublikoje, (toliau – pareiškėjas) gali teikti asmens sveikatos priežiūros paslaugas tik gavęs licenciją asmens sveikatos priežiūros veiklai. Išduodamos licencijos asmens sveikatos priežiūros veiklai yra neterminuotos. Asmens sveikatos priežiūros įstaiga turi vieną licenciją asmens sveikatos priežiūros veiklai, kurioje nurodomos visos licencijuojamos asmens sveikatos priežiūros paslaugos, kurias ji šiame straipsnyje nustatyta tvarka įgijo teisę teikti. Šias paslaugas asmens sveikatos priežiūros įstaiga turi teisę teikti tik konkrečiais licencijoje asmens sveikatos priežiūros veiklai nurodytais adresais, išskyrus atvejus, kai pagal asmens sveikatos priežiūros paslaugų teikimo pobūdį ir paskirtį jos turi būti teikiamos ne tik sveikatos priežiūros įstaigoje ir tai numatyta atskirų paslaugų teikimą reglamentuojančiuose sveikatos apsaugos ministro įsakymuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
+ 
 
 
 
 
-2. Licencijas asmens sveikatos priežiūros veiklai išduoda, atsisako jas išduoti, licencijų asmens sveikatos priežiūros veiklai (ar jų dalies) galiojimą sustabdo, licencijų asmens sveikatos priežiūros veiklai (ar jų dalies) galiojimo sustabdymą panaikina, licencijų asmens sveikatos priežiūros veiklai (ar jų dalies) galiojimą panaikina, licencijas asmens sveikatos priežiūros veiklai patikslina, pagal poreikį išduoda popierinės formos licencijos asmens sveikatos priežiūros veiklai dublikatą Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba). 
+2. Licencijas asmens sveikatos priežiūros veiklai išduoda, atsisako jas išduoti, licencijų asmens sveikatos priežiūros veiklai (ar jų dalies) galiojimą sustabdo, licencijų asmens sveikatos priežiūros veiklai (ar jų dalies) galiojimo sustabdymą panaikina, licencijų asmens sveikatos priežiūros veiklai (ar jų dalies) galiojimą panaikina, licencijas asmens sveikatos priežiūros veiklai patikslina, licencijų asmens sveikatos priežiūros veiklai sąlygų laikymosi priežiūrą vykdo Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba). Vykdydama šias funkcijas, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba, siekdama užtikrinti asmens sveikatos priežiūros paslaugų tinkamumą ir pacientų saugą, turi teisę gauti iš pareiškėjų ir asmens sveikatos priežiūros įstaigų visą informaciją, įskaitant asmens duomenis (pareiškėjų ir asmens sveikatos priežiūros įstaigų darbuotojų, atstovų (fizinių asmenų) vardą ir pavardę, kontaktinius, kvalifikaciją ir atitinkamą asmens sveikatos priežiūros praktiką patvirtinančius duomenis), reikalingą atitikčiai šio straipsnio 4 dalyje nurodytų teisės aktų reikalavimams įvertinti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
+ 
 
 
 
 
-3. Licencijos asmens sveikatos priežiūros veiklai išdavimo, atsisakymo išduoti licenciją asmens sveikatos priežiūros veiklai, licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimo sustabdymo, licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimo sustabdymo panaikinimo, licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimo panaikinimo, licencijos asmens sveikatos priežiūros veiklai patikslinimo, popierinės formos licencijos asmens sveikatos priežiūros veiklai dublikato išdavimo tvarką nustato sveikatos apsaugos ministro patvirtintos Asmens sveikatos priežiūros įstaigų licencijavimo taisyklės.
+3. Licencijos asmens sveikatos priežiūros veiklai išdavimo, atsisakymo išduoti licenciją asmens sveikatos priežiūros veiklai, licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimo sustabdymo, licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimo sustabdymo panaikinimo, licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimo panaikinimo, licencijos asmens sveikatos priežiūros veiklai patikslinimo tvarką nustato sveikatos apsaugos ministro patvirtintos Asmens sveikatos priežiūros įstaigų licencijavimo taisyklės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
+ 
 
 
 
 
-4. Pareiškėjas, siekiantis gauti licenciją asmens sveikatos priežiūros veiklai ar įgyti teisę teikti naujas licencijuojamas asmens sveikatos priežiūros paslaugas, Valstybinei akreditavimo sveikatos priežiūros veiklai tarnybai per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) arba kreipdamasis tiesiogiai pateikia prašymą išduoti licenciją asmens sveikatos priežiūros veiklai ar prašymą patikslinti licenciją, Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nurodytus dokumentus, patvirtinančius, kad pareiškėjas atitinka Lietuvos Respublikos įstatymų, Lietuvos Respublikos Vyriausybės nutarimų ir sveikatos apsaugos ministro įsakymų, reglamentuojančių asmens sveikatos priežiūros įstaigų veiklą, nustatytus civilinės atsakomybės draudimo, higienos, medicinos priemonių (prietaisų) (toliau – medicinos priemonės), personalo, patalpų ir teisinės formos reikalavimus.
+4. Pareiškėjas, siekiantis gauti asmens sveikatos priežiūros veiklos licenciją ar įgyti teisę teikti naujas licencijuojamas asmens sveikatos priežiūros paslaugas, Valstybinei akreditavimo sveikatos priežiūros veiklai tarnybai per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) arba kreipdamasis tiesiogiai pateikia prašymą išduoti asmens sveikatos priežiūros veiklos licenciją ar prašymą patikslinti licenciją, Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nurodytus dokumentus, patvirtinančius, kad pareiškėjas atitinka Lietuvos Respublikos įstatymų, Lietuvos Respublikos Vyriausybės nutarimų ir Lietuvos Respublikos sveikatos apsaugos ministro įsakymų, reglamentuojančių asmens sveikatos priežiūros įstaigų veiklą, nustatytus higienos, medicinos priemonių (prietaisų) (toliau – medicinos priemonės), personalo, patalpų ir teisinės formos reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2378, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12801
+ 
 
 
 
@@ -428,7 +443,10 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 
 
 
-10. Praradus popierinės formos licencijos asmens sveikatos priežiūros veiklai originalą, taip pat jį sugadinus, išduodamas popierinės formos licencijos asmens sveikatos priežiūros veiklai dublikatas arba elektroninės formos licencija asmens sveikatos priežiūros veiklai (atsižvelgus į asmens sveikatos priežiūros įstaigos prašymą). Sprendimas išduoti popierinės formos licencijos asmens sveikatos priežiūros veiklai dublikatą arba elektroninės formos licenciją asmens sveikatos priežiūros veiklai priimamas ne vėliau kaip kitą darbo dieną nuo prašymo išduoti popierinės formos licencijos asmens sveikatos priežiūros veiklai dublikatą ar elektroninės formos licenciją asmens sveikatos priežiūros veiklai gavimo Valstybinėje akreditavimo sveikatos priežiūros veiklai tarnyboje dienos.
+10. Neteko galios nuo 2020-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
+ 
 
 
 
@@ -441,7 +459,7 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 
 
 
-2) ne ilgiau kaip trims mėnesiams, kai paaiškėja, kad asmens sveikatos priežiūros įstaiga pažeidžia šio straipsnio 4 dalyje nurodytus reikalavimus (išskyrus atvejus, kai paslaugų teikimas stabdomas šio įstatymo 54 straipsnyje nustatyta tvarka), ir yra bent viena iš šių sąlygų:
+2) ne ilgiau kaip trims mėnesiams, kai paaiškėja, kad asmens sveikatos priežiūros įstaiga pažeidžia šio straipsnio 4 dalyje nurodytus reikalavimus (išskyrus atvejus, kai paslaugų teikimas stabdomas šio įstatymo 54 straipsnyje nustatyta tvarka) arba Pacientų teisių ir žalos sveikatai atlyginimo įstatyme nustatytą įpareigojimą į Vyriausybės įgaliotos institucijos administruojamą sąskaitą mokėti įmokas, reikalingas pacientų sveikatai padarytai žalai (turtinei ir neturtinei) atlyginti, ir yra bent viena iš šių sąlygų:
 
 
 a) yra realus pavojus pacientų sveikatai ar gyvybei;
@@ -453,7 +471,7 @@ b) per Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos nustaty
 
 
 Straipsnio punkto pakeitimai:
-Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
+Nr. XIII-2378, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12801
  
 
 
@@ -547,12 +565,26 @@ Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
 
 
 
-16. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba informaciją apie licencijos asmens sveikatos priežiūros veiklai išdavimą, jos galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ar galiojimo panaikinimą, licencijos asmens sveikatos priežiūros veiklai patikslinimą, licencijos asmens sveikatos priežiūros veiklai dublikato išdavimą ne vėliau kaip per penkias darbo dienas nuo atitinkamo sprendimo priėmimo paskelbia savo interneto svetainėje Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nustatyta tvarka.
+16. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba informaciją apie licencijos asmens sveikatos priežiūros veiklai išdavimą, jos galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ar galiojimo panaikinimą, licencijos asmens sveikatos priežiūros veiklai patikslinimą ne vėliau kaip kitą darbo dieną nuo atitinkamo sprendimo priėmimo dienos paskelbia savo interneto svetainėje Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
+ 
 
 
 
 
-17. Už licencijos asmens sveikatos priežiūros veiklai išdavimą, patikslinimą, popierinės formos licencijos asmens sveikatos priežiūros veiklai dublikato išdavimą mokama nustatyto dydžio valstybės rinkliava. 
+17. Už licencijos asmens sveikatos priežiūros veiklai išdavimą ir jos patikslinimą mokama nustatyto dydžio valstybės rinkliava. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
+ 
+
+
+
+
+18. Licencijos asmens sveikatos priežiūros veiklai išduodamos ir registruojamos Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos valdomoje ir tvarkomoje Sveikatos priežiūros įstaigų licencijavimo informacinėje sistemoje šios sistemos nuostatuose nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
+ 
 
 
 Straipsnio pakeitimai:
@@ -641,7 +673,10 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 
 
 
-3) Lietuvos medicinos normos, patvirtintos sveikatos apsaugos ministro įsakymais;
+3) asmens sveikatos priežiūros paslaugų teikimo reikalavimai, patvirtinti sveikatos apsaugos ministro įsakymais; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
+ 
 
 
 
@@ -2034,7 +2069,9 @@ Viešą konkursą valstybės aukštųjų mokyklų, valstybinių mokslo įstaigų
 
 
 
-5. Į stebėtojų tarybą negali įeiti asmenys, kurie dirba įstaigos administracijoje, Valstybinėje ar teritorinėje ligonių kasoje, taip pat sveikatos draudimo įmonėje.
+5. Į stebėtojų tarybą negali įeiti asmenys, kurie dirba įstaigos administracijoje, Valstybinėje ar teritorinėje ligonių kasoje, taip pat Pacientų sveikatai padarytos žalos nustatymo komisijoje, veikiančioje prie Sveikatos apsaugos ministerijos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2378, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12801
  
 
 
@@ -2097,20 +2134,47 @@ Viešą konkursą valstybės aukštųjų mokyklų, valstybinių mokslo įstaigų
 
 
 
-2. Valstybės ir savivaldybių institucijos (steigėjai) turtą viešosioms įstaigoms perduoda panaudos pagrindu įstatymų ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+2. Valstybė jai nuosavybės teise priklausantį ilgalaikį materialųjį turtą (toliau – valstybės turtas) Vyriausybės nustatyta tvarka viešosioms įstaigoms, kurių savininkas (dalininkas) yra valstybė (toliau – valstybės viešoji įstaiga), perduoda patikėjimo teise pagal patikėjimo  sutartį. Sprendimą dėl valstybės turto perdavimo patikėjimo teise priima Vyriausybė. Tokiame sprendime turi būti nurodyta valstybės institucija ar įstaiga, įgaliota sudaryti valstybės turto patikėjimo sutartį. Valstybės viešosios įstaigos negali šio valstybės turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą. Valstybės turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų. 
 
 
 
 
-3. LNSS viešosios ir valstybės visuomenės sveikatos priežiūros viešosios įstaigos ilgalaikį materialųjį turtą parduoti, perleisti, išnuomoti, įkeisti, taip pat laiduoti ar garantuoti juo kitų subjektų prievolių įvykdymą gali tik raštiškai leidus steigėjui (steigėjams) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Tokį leidimą valstybės aukštųjų mokyklų ar valstybinių švietimo ir mokslo įstaigų ir Sveikatos apsaugos ministerijos įsteigtoms įstaigoms duoda Sveikatos apsaugos ministerija.
+3. Savivaldybė jai nuosavybės teise priklausantį ilgalaikį materialųjį turtą (toliau – savivaldybės turtas) savivaldybės tarybos nustatyta tvarka perduoda savivaldybių viešosioms įstaigoms patikėjimo teise pagal patikėjimo sutartį. Sprendimą dėl savivaldybės turto perdavimo patikėjimo teise priima savivaldybės taryba. Tokiame sprendime turi būti nurodyta savivaldybės institucija ar įstaiga, įgaliota sudaryti savivaldybės turto patikėjimo sutartį. Savivaldybių viešosios įstaigos negali šio savivaldybės turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą. Savivaldybės turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų. 
 
 
 
 
-4. Viešoji įstaiga, pardavusi susidėvėjusį ar jos veiklai nereikalingą materialųjį turtą bei vertybes, gautas pajamas naudoja įstatuose nustatyta tvarka.
+4. Valstybės turto ir savivaldybės turto (toliau – turtas) patikėjimo sutartis sudaroma ne ilgesniam kaip 99 metų terminui. Patikėjimo sutarties pavyzdinę formą tvirtina Vyriausybė.
+
+
+
+
+5. Be kitų Civiliniame kodekse numatytų pagrindų, turto patikėjimo sutartis nutrūksta pasibaigus valstybės ar savivaldybės viešosios įstaigos veiklai, kuriai vykdyti buvo perduotas turtas.
+
+
+
+
+6. Turto patikėjimo sutartyje, be kitų Civiliniame kodekse nurodytų esminių turto patikėjimo sutarties sąlygų, turi būti numatyta valstybės ar savivaldybės viešosios įstaigos pareiga ne vėliau kaip iki kitų metų gegužės 1 dienos paskelbti praėjusių finansinių metų turto valdymo, naudojimo ir disponavimo juo ataskaitą valstybės ar savivaldybės viešosios įstaigos interneto svetainėje.
+
+
+
+
+7. Valstybės ar savivaldybių viešosios įstaigos joms pagal patikėjimo sutartį perduotą turtą gali nuomoti arba perduoti panaudai Vyriausybės nustatyta tvarka. 
+
+
+
+
+8. Į turtą, perduotą pagal patikėjimo sutartį, negali būti nukreipiamas išieškojimas pagal valstybės ar savivaldybės viešosios įstaigos prievoles, įskaitant prievoles, atsiradusias šį turtą valdant, naudojant ir juo disponuojant.
+
+
+
+
+9. Valstybės ir savivaldybių viešosios įstaigos Vyriausybės nustatyta tvarka, kai yra valstybės ar savivaldybės institucijos, perdavusios turtą patikėjimo teise pagal patikėjimo sutartį, rašytinis sutikimas, priima sprendimus dėl valstybės ar savivaldybių nekilnojamųjų daiktų, kurie joms perduoti patikėjimo teise pagal patikėjimo sutartis, pripažinimo nereikalingais arba netinkamais (negalimais) naudoti. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2443, 2019-09-26, paskelbta TAR 2019-10-09, i. k. 2019-16070
  
-
-
 
 
 
@@ -2461,7 +2525,7 @@ Sveikatos priežiūros įstaigų teises nustato Sveikatos sistemos įstatymas, �
 45 straipsnis. Asmens sveikatos priežiūros įstaigos pareigos
 
 
-Asmens sveikatos priežiūros įstaigai privaloma:
+1. Asmens sveikatos priežiūros įstaiga privalo:
 
 
 1) užtikrinti būtinąją medicinos pagalbą;
@@ -2469,7 +2533,7 @@ Asmens sveikatos priežiūros įstaigai privaloma:
 
 
 
-2) įgyvendinti būtinąsias visuomenės sveikatos priežiūros priemones pagal Sveikatos apsaugos ministerijos patvirtintą sąrašą;
+2) įgyvendinti būtinąsias visuomenės sveikatos priežiūros priemones pagal sveikatos apsaugos ministro patvirtintą sąrašą;
 
 
 
@@ -2479,100 +2543,84 @@ Asmens sveikatos priežiūros įstaigai privaloma:
 
 
 
-4) Neteko galios nuo 2016-05-01
-Straipsnio punkto naikinimas:
-Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+4) pildyti ir saugoti pacientų ligos istorijas, ambulatorines korteles bei teikti informaciją apie pacientą valstybės institucijoms ir kitoms įstaigoms sveikatos apsaugos ministro nustatyta tvarka;
+
+
+
+
+5) užtikrinti lygias pacientų teises į teikiamas sveikatos priežiūros paslaugas;
+
+
+
+
+6) atlyginti teikiant paslaugas paciento sveikatai padarytą žalą;
+
+
+
+
+7) saugoti paciento medicininę paslaptį, išskyrus atvejus, kai asmens sveikatos priežiūros įstaiga privalo pateikti informaciją apie pacientą arba kai pacientas duoda sutikimą skelbti informaciją apie jo sveikatos būklę;
+
+
+
+
+8) informuoti Sveikatos apsaugos ministeriją, savo steigėjus ar savininkus apie įstaigoje įvykusius vidaus infekcijų atvejus ir protrūkius, kitus žalos pacientų sveikatai padarymo atvejus;
+
+
+
+
+9) teikti nemokamas planinės sveikatos priežiūros paslaugas, įsitikinus, kad pacientas turi teisę tokias paslaugas gauti;
+
+
+
+
+10) teisės aktų nustatytais atvejais teikti informaciją apie teikiamas asmens sveikatos priežiūros paslaugas;
+
+
+
+
+11) jeigu ji priklauso LNSS ir teikia pirminės ambulatorinės asmens sveikatos priežiūros paslaugas, užtikrinti nepertraukiamą (visomis dienomis ištisą parą) pirminės ambulatorinės asmens sveikatos priežiūros paslaugų (išskyrus pirminės ambulatorinės psichikos sveikatos ir odontologijos priežiūros paslaugas) teikimą sveikatos apsaugos ministro nustatyta tvarka;
+
+
+
+
+12) naudoti, instaliuoti ir prižiūrėti medicinos priemones vadovaujantis gamintojo su medicinos priemonėmis pateikiama informacija ir laikantis sveikatos apsaugos ministro nustatytų reikalavimų;
+
+
+
+
+13) sveikatos apsaugos ministro nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis;
+
+
+
+
+14) sveikatos apsaugos ministro nustatyta tvarka registruoti ir teikti informaciją apie incidentus, susijusius su medicinos priemonėmis;
+
+
+
+
+15) sužinojus, kad medicinos priemonės neatitinka sveikatos apsaugos ministro nustatytų reikalavimų ar gali kenkti pacientų, medicinos priemonių naudotojų saugai, nutraukti medicinos priemonių naudojimą ir (ar) imtis reikiamų veiksmų keliamam pavojui pašalinti, taip pat apie tai informuoti sveikatos apsaugos ministro įgaliotą instituciją, atsakingą už medicinos priemones;
+
+
+
+
+16) pasiūlyti pacientui artimiausią objektyviai įmanomą asmens sveikatos priežiūros paslaugos suteikimo datą ir laiką ir registruoti visus pacientus jų kreipimosi į asmens sveikatos priežiūros įstaigą momentu, neribojant registravimosi terminų, sveikatos apsaugos ministro nustatyta tvarka.
+
+
+
+
+
+
+2. Savivaldybės asmens sveikatos priežiūros įstaiga, teikianti pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas, Lietuvos Respublikos bausmių vykdymo kodekso ir Lietuvos Respublikos suėmimo vykdymo įstatymo nustatytais atvejais sudaro sutartis su laisvės atėmimo vietų ligonine, pataisos įstaiga arba tardymo izoliatoriumi dėl pirminio lygio ambulatorinių asmens sveikatos priežiūros paslaugų teikimo suimtiesiems ir arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekantiems nuteistiesiems. Tipinę šios sutarties formą tvirtina sveikatos apsaugos ministras ir teisingumo ministras.
+
+
+
+
+3. Už šio straipsnio 2 dalyje nurodytas paslaugas jas suteikusioms savivaldybių asmens sveikatos priežiūros įstaigoms laisvės atėmimo vietų ligoninė, pataisos įstaiga arba tardymo izoliatorius sumoka pagal sveikatos apsaugos ministro ir teisingumo ministro nustatytus paslaugų įkainius ir mokėjimo tvarką.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2702, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21420
  
-
-
-
-
-5) pildyti ir saugoti pacientų ligos istorijas, ambulatorines korteles bei teikti informaciją apie pacientą valstybės institucijoms ir kitoms įstaigoms Sveikatos apsaugos ministerijos nustatyta tvarka;
-
-
-
-
-6) užtikrinti lygias pacientų teises į teikiamas sveikatos priežiūros paslaugas;
-
-
-
-
-7) atlyginti teikiant paslaugas paciento sveikatai padarytą žalą;
-
-
-
-
-8) saugoti paciento medicininę paslaptį, išskyrus atvejus, kai asmens sveikatos priežiūros įstaiga privalo pateikti informaciją apie pacientą arba kai pacientas duoda sutikimą skelbti informaciją apie jo sveikatos būklę;
-
-
-
-
-9) informuoti teisės aktų nustatyta tvarka Sveikatos apsaugos ministeriją, įstaigų steigėjus ar savininkus apie įstaigoje įvykusius vidaus infekcijų atvejus ir protrūkius, kitus žalos pacientų sveikatai padarymo atvejus;
-
-
-
-
-10) teikti nemokamas planinės sveikatos priežiūros paslaugas, įsitikinus, kad pacientas turi teisę tokias paslaugas gauti;
-
-
-
-
-11) įstatymų ir kitų teisės aktų nustatytais atvejais teikti informaciją apie teikiamas asmens sveikatos priežiūros paslaugas; 
-Papildyta straipsnio punktu:
-Nr. XII-1335, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17988
- 
-
-
-
-
-12) jeigu jos priklauso LNSS ir teikia pirminės ambulatorinės asmens sveikatos priežiūros paslaugas, užtikrinti nepertraukiamą (visomis dienomis ištisą parą) pirminės ambulatorinės asmens sveikatos priežiūros paslaugų (išskyrus pirminės ambulatorinės psichikos ir odontologijos sveikatos priežiūros paslaugas) teikimą sveikatos apsaugos ministro nustatyta tvarka;
-Papildyta straipsnio punktu:
-Nr. XII-1335, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17988
- 
-
-
-
-
-13) naudoti, instaliuoti ir prižiūrėti medicinos priemones vadovaujantis gamintojo su medicinos priemonėmis pateikiama informacija ir laikantis sveikatos apsaugos ministro nustatytų reikalavimų; 
-Papildyta straipsnio punktu:
-Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
- 
-
-
-
-
-14) sveikatos apsaugos ministro nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis; 
-Papildyta straipsnio punktu:
-Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
- 
-
-
-
-
-15) sveikatos apsaugos ministro nustatyta tvarka registruoti ir teikti informaciją apie incidentus, susijusius su medicinos priemonėmis; 
-Papildyta straipsnio punktu:
-Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
- 
-
-
-
-
-16) sužinojus, kad medicinos priemonės neatitinka sveikatos apsaugos ministro nustatytų reikalavimų ar gali kenkti pacientų, naudotojų saugai, nutraukti medicinos priemonių naudojimą ir (ar) imtis reikiamų veiksmų keliamam pavojui pašalinti, taip pat apie tai informuoti sveikatos apsaugos ministro įgaliotą instituciją, atsakingą už medicinos priemones;
-Papildyta straipsnio punktu:
-Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
- 
-
-
-
-
-17) pasiūlyti pacientui artimiausią objektyviai įmanomą asmens sveikatos priežiūros paslaugos suteikimo datą ir laiką ir registruoti visus pacientus jų kreipimosi į asmens sveikatos priežiūros įstaigą momentu, neribojant registravimosi terminų, sveikatos apsaugos ministro nustatyta tvarka. 
-Papildyta straipsnio punktu:
-Nr. XII-2538, 2016-06-29, paskelbta TAR 2016-07-14, i. k. 2016-20556
- 
-
-
-
-
 
 
 
@@ -2978,7 +3026,10 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 
 
 
-2) reikalauti ir gauti visą reikalingą informaciją, dokumentus, medžiagą, laboratorinius mėginius, ligonių medicininių apžiūrų ir tyrimų duomenis, įstaigos vadovų ir kitų darbuotojų žodinius ir rašytinius paaiškinimus, kurie reikalingi patikrinimui atlikti; 
+2) reikalauti ir gauti visą reikalingą informaciją, dokumentus, medžiagą, laboratorinius mėginius, ligonių medicininių apžiūrų ir tyrimų duomenis, įstaigos vadovų ir kitų darbuotojų žodinius ir rašytinius paaiškinimus, įskaitant asmens duomenis, tarp jų ir sveikatos duomenis, kurie reikalingi patikrinimui atlikti ir paslaugų kokybės, pacientų saugos užtikrinimo bei neteisėtos sveikatinimo veiklos užkardymo tikslams pasiekti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
+ 
 
 
 
@@ -3042,7 +3093,10 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 1. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba, Nacionalinis visuomenės sveikatos centras pagal kompetenciją priimtais sprendimais turi teisę sustabdyti įstaigoje visų ar tam tikrų paslaugų teikimą, jeigu:
 
 
-1) įstaiga arba jos padalinys (filialas) verčiasi veikla, kuriai neturi licencijos ar akreditavimo pažymėjimo;
+1) įstaiga arba jos padalinys (filialas) verčiasi veikla, kuriai neturi licencijos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
+ 
 
 
 
@@ -3550,3 +3604,23 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 25 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1762, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21108
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1 ir 15-2 straipsnių pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2378, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12801
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5 ir 33 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2443, 2019-09-26, paskelbta TAR 2019-10-09, i. k. 2019-16070
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 3 ir 36 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5, 9, 53 ir 54 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2702, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21420
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 45 straipsnio pakeitimo įstatymas
