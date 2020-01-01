@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2019-10-31 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-03-18
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -560,7 +560,15 @@ Nr. XIII-890, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21492
 
 
 
-6) individualios užimtumo veiklos planavimas.
+6) individualios užimtumo veiklos planavimas;
+
+
+
+
+7) įdarbinimas su pagalba. 
+Papildyta straipsnio punktu:
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
+ 
 
 
 
@@ -936,14 +944,12 @@ IR UŽIMTUMO RĖMIMO PRIEMONĖS
 
 
 
-4) nedarbingiems asmenims;
+4) darbdaviams. 
 
 
-
-
-5) darbdaviams.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
+ 
 
 
 
@@ -956,16 +962,12 @@ IR UŽIMTUMO RĖMIMO PRIEMONĖS
 
 
 
-2) nedarbingiems asmenims;
-
-
-
-
-3) užimtiems asmenims. 
+2) užimtiems asmenims. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
  
 
 
@@ -1018,7 +1020,10 @@ Nedirbantis asmuo yra asmuo, kuris atitinka bent vieną iš šių sąlygų:
 
 
 
-2) nėra savarankiškai dirbantis asmuo, išskyrus asmenį, vykdantį šio įstatymo 5 straipsnio 3 punkte nurodytą veiklą pagal paslaugų kvitus teikiant žemės ūkio ir miškininkystės paslaugas, asmenį, kuris yra užimtas šio įstatymo 7 straipsnio 3–7 punktuose nurodytomis veiklomis, asmenį, kuris yra individualios įmonės, mažosios bendrijos, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos, kuri laikinai nevykdo veiklos ir apie tai yra informavusi mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka, savininkas arba mažosios bendrijos narys ar tikrosios ūkinės bendrijos, ar komanditinės ūkinės bendrijos tikrasis narys arba Juridinių asmenų registre suteiktą likviduojamos ar bankrutuojančios individualios įmonės, mažosios bendrijos, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos statusą turinčios individualios įmonės savininkas ar mažosios bendrijos narys, ar tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos tikrasis narys, ir ūkinius gyvūnus įregistravusį asmenį, kuris neturi ūkininko statuso ar nėra ūkininko partneris arba nėra įregistravęs žemės ūkio valdos ar nėra žemės ūkio valdos partneris;
+2) nėra savarankiškai dirbantis asmuo, išskyrus asmenį, vykdantį šio įstatymo 5 straipsnio 3 punkte nurodytą veiklą pagal paslaugų kvitus teikiant žemės ūkio ir miškininkystės paslaugas, asmenį, kuris yra užimtas šio įstatymo 7 straipsnio 3–7 punktuose nurodytomis veiklomis, asmenį, kuris yra individualios įmonės, mažosios bendrijos, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos, kuri laikinai nevykdo veiklos ir apie tai yra informavusi mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka, savininkas arba mažosios bendrijos narys ar tikrosios ūkinės bendrijos, ar komanditinės ūkinės bendrijos tikrasis narys arba Juridinių asmenų registre suteiktą likviduojamos ar bankrutuojančios individualios įmonės, mažosios bendrijos, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos statusą turinčios individualios įmonės savininkas ar mažosios bendrijos narys, ar tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos tikrasis narys, ir asmenį, vykdantį individualią žemės ūkio veiklą, kai žemės ūkio valdos ar ūkio ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra mažesnis už 4 ekonominio dydžio vienetus;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2133, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08712
+ 
 
 
 
@@ -1028,7 +1033,10 @@ Nedirbantis asmuo yra asmuo, kuris atitinka bent vieną iš šių sąlygų:
 
 
 
-4) yra asmuo, pagal Lietuvos Respublikos darbo kodeksą galintis būti darbuotoju, išskyrus asmenį, Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka pripažintą nedarbingu; 
+4) yra asmuo, pagal Lietuvos Respublikos darbo kodeksą galintis būti darbuotoju; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
+ 
 
 
 
@@ -1072,19 +1080,17 @@ Nr. KT41-N12/2019, 2019-10-31, paskelbta TAR 2019-10-31, i. k. 2019-17396
 
 
 
-3) nedarbingo asmens;
+3) besimokančio asmens;
 
 
 
 
-4) besimokančio asmens;
+4) asmens, praradusio bedarbio statusą. 
 
 
-
-
-5) asmens, praradusio bedarbio statusą.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
+ 
 
 
 
@@ -1094,7 +1100,10 @@ Nr. KT41-N12/2019, 2019-10-31, paskelbta TAR 2019-10-31, i. k. 2019-17396
 
 
 
-6. Asmenų, kurių bedarbio statusas panaikintas dėl šio įstatymo 24 straipsnio 4 dalies 5–9 punktuose nurodytų aplinkybių, registracija Užimtumo tarnyboje gali būti tęsiama asmens prašymu ir jiems gali būti priskiriamas šio straipsnio 4 dalies 5 punkte nurodytas statusas, o bedarbio statusas pakartotinai jiems gali būti suteikiamas ne anksčiau kaip po 6 mėnesių nuo bedarbio statuso panaikinimo dienos.
+6. Asmenų, kurių bedarbio statusas panaikintas dėl šio įstatymo 24 straipsnio 4 dalies  5–9 punktuose nurodytų aplinkybių, registracija Užimtumo tarnyboje gali būti tęsiama asmens prašymu ir jiems gali būti priskiriamas šio straipsnio 4 dalies 4 punkte nurodytas statusas, o bedarbio statusas pakartotinai jiems gali būti suteikiamas ne anksčiau kaip po 6 mėnesių nuo bedarbio statuso panaikinimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
+ 
 
 
 
@@ -1176,12 +1185,18 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-2) bedarbis įregistruoja ūkininko ūkį Ūkininkų ūkių registre ar tampa ūkininko partneriu arba įregistruoja žemės ūkio valdą Lietuvos Respublikos žemės ūkio ir kaimo verslo registre ar tampa žemės ūkio valdos partneriu;
+2) bedarbis įregistruoja ūkininko ūkį Ūkininkų ūkių registre ar tampa ūkininko partneriu arba įregistruoja žemės ūkio valdą Lietuvos Respublikos žemės ūkio ir kaimo verslo registre ar tampa žemės ūkio valdos partneriu, išskyrus bedarbius, kai žemės ūkio valdos ar ūkio ekonominis dydis pagal valstybės įmonės Žemės ūkio informacijos ir kaimo verslo centro atliktus skaičiavimus už praėjusių metų mokestinį laikotarpį nuo sausio 1 d. iki gruodžio 31 d. yra mažesnis už 4 ekonominio dydžio vienetus;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2133, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08712
+ 
 
 
 
 
-3) bedarbis sukanka teisės aktais nustatytą senatvės pensijos amžių arba pripažįstamas nedarbingu;
+3) bedarbis sukanka senatvės pensijos amžių; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
+ 
 
 
 
@@ -1346,13 +1361,13 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-25 straipsnis. Darbo rinkoje papildomai remiami asmenys 
+25 straipsnis. Darbo rinkoje papildomai remiami asmenys
 
 
 Darbo rinkoje papildomai remiamais laikomi šie asmenys:
 
 
-1) darbingo amžiaus neįgalieji, kuriems nustatytas iki 25 procentų darbingumo lygis arba sunkus neįgalumo lygis;
+1) bedarbiai, kurie yra darbingo amžiaus neįgalieji, kuriems nustatytas iki 25 procentų darbingumo lygis arba sunkus neįgalumo lygis;
 
 
 
@@ -1367,15 +1382,12 @@ Darbo rinkoje papildomai remiamais laikomi šie asmenys:
 
 
 
-4) nekvalifikuoti bedarbiai, kurie nėra įgiję jokios profesinės kvalifikacijos arba jų užsienyje įgyta profesinė kvalifikacija nėra pripažinta įstatymų nustatyta tvarka, taip pat bedarbiai, kurie neturi jokios neformaliu būdu įgytos kompetencijos, pripažintos įstatymų nustatyta tvarka; 
+4) nekvalifikuoti bedarbiai, kurie nėra įgiję jokios profesinės kvalifikacijos arba jų užsienyje įgyta profesinė kvalifikacija nėra pripažinta įstatymų, reglamentuojančių profesinės kvalifikacijos pripažinimą, nustatyta tvarka, taip pat bedarbiai, kurie neturi jokios neformaliu būdu įgytos kompetencijos, pripažintos įstatymų, reglamentuojančių įgytos kompetencijos pripažinimą, nustatyta tvarka; 
 
 
 
 
-5) ilgalaikiai bedarbiai iki 25 metų, kurių nedarbo trukmė ilgesnė kaip 6 mėnesiai, ir ilgalaikiai bedarbiai nuo 25 metų, kurių nedarbo trukmė ilgesnė kaip 12 mėnesių, skaičiuojant nuo įsiregistravimo Užimtumo tarnyboje dienos; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
- 
+5) ilgalaikiai bedarbiai iki 25 metų, kurių nedarbo trukmė ilgesnė kaip 6 mėnesiai, ir ilgalaikiai bedarbiai nuo 25 metų, kurių nedarbo trukmė ilgesnė kaip 12 mėnesių, skaičiuojant nuo įsiregistravimo Užimtumo tarnyboje dienos;
 
 
 
@@ -1400,14 +1412,29 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-10) asmenys, kuriems suteiktas pabėgėlio statusas, arba asmenys, kuriems suteikta papildoma ar laikinoji apsauga. 
-Papildyta straipsnio punktu:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
+10) asmenys, kuriems suteiktas pabėgėlio statusas, arba asmenys, kuriems suteikta papildoma ar laikinoji apsauga;
+
+
+
+
+11) nėščios moterys, vaiko motina (įmotė) arba tėvas (įtėvis), vaiko globėjas, rūpintojas ir asmenys, faktiškai auginantys vaiką (įvaikį) iki 8 metų arba neįgalų vaiką (įvaikį) iki 18 metų (iki 2005 m. liepos 1 d. pripažintą vaiku invalidu), ir asmenys, prižiūrintys neįgalius šeimos narius, kuriems Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Neįgalumo ir darbingumo nustatymo tarnyba) sprendimu nustatyta nuolatinė slauga ar priežiūra;
+
+
+
+
+12) grįžę iš laisvės atėmimo vietų, kai laisvės atėmimo laikotarpis buvo ne trumpesnis kaip 6 mėnesiai, jeigu jie kreipiasi į Užimtumo tarnybą ne vėliau kaip per 6 mėnesius nuo grįžimo iš laisvės atėmimo vietų;
+
+
+
+
+13) priklausomi nuo narkotinių, psichotropinių ir kitų psichiką veikiančių medžiagų, baigę psichologinės socialinės ir (ar) profesinės reabilitacijos programas, jeigu jie kreipiasi į Užimtumo tarnybą ne vėliau kaip per 6 mėnesius nuo psichologinės socialinės ir (ar) profesinės reabilitacijos programos baigimo. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
  
-
-
-
-
 
 
 
@@ -1686,6 +1713,49 @@ Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
 
 
 
+302 straipsnis. Įdarbinimo su pagalba paslaugos
+
+
+1.  Įdarbinimo su pagalba paslaugos gali būti teikiamos šio įstatymo 25 straipsnio 1, 2 ir 3 punktuose nurodytiems asmenims, Užimtumo tarnybos priskirtiems vidutinių ar ribotų įsidarbinimo galimybių grupei, siekiant jiems individualiai suteikti pagalbą įsidarbinti ir (ar) įsitvirtinti darbo vietoje.
+
+
+
+
+2. Įdarbinimo su pagalba paslaugas sudaro:
+
+
+1) pagalba atliekant įsidarbinimo procedūras;
+
+
+
+
+2) lydimoji pagalba įsidarbinus.
+
+
+
+
+
+
+3. Pagalba atliekant įsidarbinimo procedūras teikiama siekiant užtikrinti komunikavimą tarp darbdavio ir asmens, kuriam dėl turimo neįgalumo reikalinga pagalba įsidarbinant. Pagalba atliekant įsidarbinimo procedūras teikiama pagal poreikį ne daugiau kaip 8 valandas pas vieną darbdavį. Pagalbos atliekant įsidarbinimo procedūras vienos valandos įkainis negali viršyti 0,1 bazinės socialinės išmokos dydžio už kiekvieną neįgalų asmenį, kuris Užimtumo tarnybos buvo priskirtas vidutinių ar ribotų įsidarbinimo galimybių grupei.
+
+
+
+
+4. Lydimoji pagalba įsidarbinus teikiama darbdavio ar neįgalaus asmens prašymu, siekiant užtikrinti įdarbinimo tvarumą. Teikiant šią paslaugą, asmeniui padedama rasti būdų, kaip išspręsti darbe kylančias problemas, dėl kurių asmuo gali netekti darbo. Lydimoji pagalba teikiama pagal poreikį, tačiau ne ilgiau negu 12 kalendorinių mėnesių nuo įsidarbinimo dienos. Lydimosios pagalbos vienos valandos įkainis negali viršyti 0,1 bazinės socialinės išmokos dydžio už kiekvieną neįgalų asmenį, kuris Užimtumo tarnybos buvo priskirtas vidutinių ar ribotų įsidarbinimo galimybių grupei.
+
+
+
+
+5. Užimtumo tarnyba įdarbinimo su pagalba paslaugoms teikti Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali pasitelkti trečiuosius asmenis. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
+ 
+
+
+
+
 31 straipsnis. Individualios užimtumo veiklos planavimo paslaugos 
 
 
@@ -1889,9 +1959,17 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-4) kurių vadovas ar kitas atsakingas asmuo per paskutinius vienus metus iki šio straipsnio 4 dalyje nurodytų pasiūlymų pateikimo dienos neturėjo baudos, paskirtos už šio įstatymo 56, 57 ir 58 straipsniuose nurodytus pažeidimus, ir (ar) administracinės nuobaudos, skirtos pagal Lietuvos Respublikos administracinių nusižengimų kodeksą už nelegalų darbą, arba turi ne daugiau negu vieną per paskutinius vienus metus iki šio straipsnio 4 dalyje nurodytų pasiūlymų pateikimo dienos paskirtą administracinę nuobaudą pagal šį kodeksą už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimus, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus.
+4) kurių vadovas ar kitas atsakingas asmuo per paskutinius vienus metus iki šio straipsnio 4 dalyje nurodytų pasiūlymų pateikimo dienos neturėjo baudos, paskirtos už šio įstatymo 56, 57 ir 58 straipsniuose nurodytus pažeidimus, ir (ar) administracinės nuobaudos, skirtos pagal Lietuvos Respublikos administracinių nusižengimų kodeksą už nelegalų darbą, arba turi ne daugiau negu vieną per paskutinius vienus metus iki šio straipsnio 4 dalyje nurodytų pasiūlymų pateikimo dienos paskirtą administracinę nuobaudą pagal šį kodeksą už darbo įstatymų, darbuotojų saugos ir sveikatos norminių teisės aktų pažeidimus, nelaimingo atsitikimo darbe nuslėpimą, nustatytos pranešimo ir ištyrimo tvarkos, darbo užmokesčio apskaičiavimo ir mokėjimo tvarkos, darbo laiko apskaitos, laikinųjų darbuotojų darbo sąlygų bei komercinės ar ūkinės veiklos tvarkos pažeidimus;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2341, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12405
+ 
+
+
+
+
+5) kurie nėra valstybės ar savivaldybės institucija ar įstaiga, profesinė sąjunga, religinė bendruomenė (bendrija) ar asociacija. 
+Papildyta straipsnio punktu:
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
  
 
 
@@ -2352,7 +2430,7 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-2. Įgyvendinant remiamojo įdarbinimo priemones, darbdaviams, įdarbinusiems Užimtumo tarnybos siųstus asmenis, mokama subsidija darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, ir nuo šio darbo užmokesčio apskaičiuotoms draudėjo privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti (toliau – subsidija darbo užmokesčiui). Jeigu įdarbinto asmens darbo sutartyje nustatytas ne visas darbo laikas arba jis dirbo ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą ar darbo sutartyje nustatytą valandinį atlygį. Subsidijos darbo užmokesčiui dydis negali viršyti 1,55 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio. Subsidijos darbo užmokesčiui dydis, kai įdarbinami šio įstatymo 25 straipsnyje nurodyti asmenys, apskaičiuojamas procentais nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų lėšų:
+2. Įgyvendinant remiamojo įdarbinimo priemones, darbdaviams, įdarbinusiems Užimtumo tarnybos siųstus asmenis, mokama subsidija darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, ir nuo šio darbo užmokesčio apskaičiuotoms draudėjo privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti. Subsidijos darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, dydis negali viršyti 1,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų sumos (toliau – subsidija darbo užmokesčiui). Jeigu įdarbinto asmens darbo sutartyje nustatytas ne visas darbo laikas arba jis dirbo ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą arba darbo sutartyje nustatytą valandinį atlygį. Subsidijos darbo užmokesčiui dydis, kai įdarbinami šio įstatymo 25 straipsnyje nurodyti asmenys, apskaičiuojamas procentais nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų lėšų:
 
 
 1) 75 procentai apskaičiuotų lėšų, kai įdarbinami asmenys, nurodyti šio įstatymo 25 straipsnio 1 ir 10 punktuose; 
@@ -2365,12 +2443,13 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-3) 50 procentų apskaičiuotų lėšų, kai įdarbinami asmenys, nurodyti šio įstatymo 25 straipsnio 3–9 punktuose.
+3) 50 procentų apskaičiuotų lėšų, kai įdarbinami asmenys, nurodyti šio įstatymo 25 straipsnio 3–9, 11, 12 ir 13 punktuose. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
  
 
 
@@ -2443,17 +2522,14 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 1. Įdarbinimas subsidijuojant, kurio tikslas yra įdarbinti Užimtumo tarnybos siųstą asmenį negrąžintinai kompensuojant darbdaviui dalį šio asmens darbo užmokesčio išlaidų, organizuojamas siekiant:
 
 
-1) šio įstatymo 25 straipsnio 3–10 punktuose nurodytiems bedarbiams padėti įsitvirtinti darbo rinkoje arba įsidarbinti; 
+1) šio įstatymo 25 straipsnio 3–13 punktuose nurodytiems bedarbiams padėti įsitvirtinti darbo rinkoje arba įsidarbinti;
 
 
 
 
-2) šio įstatymo 25 straipsnio 1 punkte nurodytiems asmenims, kurie registruoti Užimtumo tarnyboje kaip nedarbingi, ir šio įstatymo 25 straipsnio 2 punkte nurodytiems bedarbiams sudaryti specialias sąlygas išlikti darbo rinkoje. 
+2) šio įstatymo 25 straipsnio 1 ir 2 punktuose nurodytiems bedarbiams sudaryti specialias sąlygas išlikti darbo rinkoje.
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
- 
 
 
 
@@ -2466,25 +2542,24 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 3. Subsidija darbo užmokesčiui mokama:
 
 
-1) iki 6 mėnesių, kai darbo sutartis sudaroma su asmenimis, nurodytais šio įstatymo 25 straipsnio 3–9 punktuose;
+1) iki 6 mėnesių, kai darbo sutartis sudaroma su asmenimis, nurodytais šio įstatymo 25 straipsnio 3–9, 11, 12 ir 13 punktuose;
 
 
 
 
-2) iki 24 mėnesių, kai darbo sutartis sudaroma su asmenimis, nurodytais šio įstatymo 25 straipsnio 2 ir 10 punktuose; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
+2) iki 24 mėnesių, kai darbo sutartis sudaroma su asmenimis, nurodytais šio įstatymo 25 straipsnio 2 ir 10 punktuose;
+
+
+
+
+3) neterminuotai per visą darbo laikotarpį, kai įdarbinami asmenys, nurodyti šio įstatymo 25 straipsnio 1 punkte. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
  
-
-
-
-
-3) neterminuotai per visą darbo laikotarpį, kai įdarbinami asmenys, nurodyti šio įstatymo 25 straipsnio 1 punkte.
- 
-
-
-
-
 
 
 
@@ -2737,7 +2812,10 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 Darbo vietų steigimo (pritaikymo) subsidijavimas organizuojamas:
 
 
-1) šio įstatymo 25 straipsnio 1 punkte nurodytų asmenų, kurie registruoti Užimtumo tarnyboje kaip nedarbingi, ir šio įstatymo 25 straipsnio 2 ir 3 punktuose nurodytų bedarbių neterminuotam įdarbinimui remti steigiant naujas (atsižvelgiant į neįgaliųjų negalią pritaikant esamas) darbo vietas;
+1) šio įstatymo 25 straipsnio 1, 2 ir 3 punktuose nurodytų bedarbių neterminuotam įdarbinimui remti steigiant naujas (atsižvelgiant į neįgaliųjų negalią pritaikant esamas) darbo vietas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
+ 
 
 
 
@@ -2793,9 +2871,10 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 3. Subsidija darbo vietai steigti mokama, kai darbo vietą sau pirmą kartą steigia:
 
 
-1) šio įstatymo 25 straipsnio 1 punkte nurodyti asmenys, kurie registruoti Užimtumo tarnyboje kaip nedarbingi, ir šio įstatymo 25 straipsnio 2 ir 8 punktuose nurodyti bedarbiai; 
+1) šio įstatymo 25 straipsnio 1, 2 ir 8 punktuose nurodyti bedarbiai; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
  
 
 
@@ -2859,7 +2938,10 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-2) nėščios moterys, vaiko motina (įmotė) arba tėvas (įtėvis), vaiko globėjas, rūpintojas ir asmenys, faktiškai auginantys vaiką (įvaikį) iki 8 metų arba neįgalų vaiką (įvaikį) iki 18 metų (iki 2005 m. liepos 1 d. pripažintą vaiku invalidu), ir asmenys, prižiūrintys sergančius ar neįgalius šeimos narius, kuriems Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos sprendimu nustatyta nuolatinė slauga ar priežiūra;
+2) nėščios moterys, vaiko motina (įmotė) arba tėvas (įtėvis), vaiko globėjas, rūpintojas ir asmenys, faktiškai auginantys vaiką (įvaikį) iki 8 metų arba neįgalų vaiką (įvaikį) iki 18 metų (iki 2005 m. liepos 1 d. pripažintą vaiku invalidu), ir asmenys, prižiūrintys neįgalius šeimos narius, kuriems Neįgalumo ir darbingumo nustatymo tarnybos sprendimu nustatyta nuolatinė slauga ar priežiūra; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
+ 
 
 
 
@@ -3565,3 +3647,13 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 12-1 straipsnio pakeitimo 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT41-N12/2019, 2019-10-31, paskelbta TAR 2019-10-31, i. k. 2019-17396
 Dėl Lietuvos Respublikos užimtumo įstatymo 22 straipsnio 1 dalies 5 punkto ir 24 straipsnio 4 dalies 4 punkto atitikties Lietuvos Respublikos Konstitucijai
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2133, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08712
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 22 ir 24 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 12, 20, 22, 24, 25, 35, 41, 42, 45, 47, 48 straipsnių pakeitimo ir Įstatymo papildymo 30-2 straipsniu įstatymas
