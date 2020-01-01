@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.38E82AA2664C"
 
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymas
 
-Suvestinė redakcija nuo 2015-11-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-01-03
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2261, i. k. 0961010ISTA00I-1539
- 
-TAR pastaba. Asmenys, iki įstatymo Nr. XII-1833 įsigaliojimo (2015-11-01) įgiję, bet Nekilnojamojo turto registre neįregistravę daiktinių teisių į nekilnojamąjį turtą, šių teisių suvaržymų ir juridinių faktų, prašymą dėl daiktinių teisių, šių teisių suvaržymų ir juridinių faktų įregistravimo teritoriniam registratoriui turi pateikti per vienus metus nuo šio įstatymo įsigaliojimo dienos.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
-Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 17, 23, 26 straipsnių pakeitimo ir 25 straipsnio pripažinimo netekusiu galios įstatymas
  
 Nauja redakcija nuo 2001-07-01:
 Nr. IX-391, 2001-06-21, Žin. 2001, Nr. 55-1948 (2001-06-27), i. k. 1011010ISTA00IX-391
@@ -55,13 +50,15 @@ Nekilnojamojo turto registras steigiamas nekilnojamiesiems daiktams, nuosavybės
 
 
 
-3 straipsnis. Nekilnojamųjų daiktų, daiktinių teisių į juos, šių teisių suvaržymų, juridinių faktų įregistravimo momentas
+3 straipsnis. Nekilnojamųjų daiktų, daiktinių teisių į juos, šių teisių suvaržymų, juridinių faktų, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, įregistravimo momentas
 
 
-Nekilnojamieji daiktai, daiktinės teisės į juos, šių teisių suvaržymai, juridiniai faktai laikomi įregistruotais, kai atitinkami duomenys įrašomi į nekilnojamojo turto registrą. Duomenų įrašymo momentu laikomas Centrinio registratoriaus patvirtinimas apie duomenų įrašymą į centrinį duomenų banką. Duomenų įrašymo į centrinį duomenų banką tvarką nustato Nekilnojamojo turto registro nuostatai. Juos tvirtina Vyriausybė.
+Nekilnojamieji daiktai, daiktinės teisės į juos, šių teisių suvaržymai, juridiniai faktai laikomi įregistruotais, kai atitinkami duomenys įrašomi į Nekilnojamojo turto registro duomenų bazę. Duomenų įrašymo į Nekilnojamojo turto registro duomenų bazę tvarką nustato Nekilnojamojo turto registro nuostatai. Juos tvirtina Lietuvos Respublikos Vyriausybė. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
  
-
-
 
 
 
@@ -468,7 +465,10 @@ Daiktinės teisės į nekilnojamąjį daiktą nekilnojamojo turto registre regis
 
 
 
-19) nekilnojamosios kultūros vertybės apsaugos reglamento ar specialių naudojimo sąlygų nustatyti daiktinių teisių į nekilnojamąjį daiktą suvaržymai;
+19) neteko galios 2020-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
+ 
 
 
 
@@ -739,18 +739,15 @@ Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
 
 
 
-26 straipsnis. Prašymų įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus nagrinėjimas ir sprendimų priėmimas 
+26 straipsnis. Prašymų įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus nagrinėjimas ir sprendimų priėmimas
 
 
-1. Prašymas įregistruoti nuosavybės teisę į nekilnojamąjį daiktą turi būti išnagrinėtas, sprendimas dėl jo priimtas ir duomenys į Nekilnojamojo turto registro duomenų bazę turi būti įrašyti ne vėliau kaip per dešimt darbo dienų po prašymo padavimo dienos arba asmens prašymu – skubos tvarka, per vieną darbo dieną. Prašymas įregistruoti kitą daiktinę teisę, šios teisės suvaržymus, juridinius faktus turi būti išnagrinėtas, sprendimas dėl jo priimtas ir duomenys į Nekilnojamojo turto registro duomenų bazę turi būti įrašyti ne vėliau kaip per penkias darbo dienas po prašymo padavimo. Lietuvos Respublikos Vyriausybės nustatyta tvarka asmens prašymas gali būti išnagrinėtas ir duomenys į Nekilnojamojo turto registrą įrašyti skubos tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
- 
+1. Prašymas įregistruoti nuosavybės teisę į nekilnojamąjį daiktą turi būti išnagrinėtas, sprendimas dėl jo priimtas ir duomenys į Nekilnojamojo turto registro duomenų bazę turi būti įrašyti ne vėliau kaip per dešimt darbo dienų po prašymo padavimo dienos arba asmens prašymu – skubos tvarka, per vieną darbo dieną. Prašymas įregistruoti kitą daiktinę teisę, šios teisės suvaržymus, juridinius faktus turi būti išnagrinėtas, sprendimas dėl jo priimtas ir duomenys į Nekilnojamojo turto registro duomenų bazę turi būti įrašyti ne vėliau kaip per penkias darbo dienas po prašymo padavimo. Vyriausybės nustatyta tvarka asmens prašymas gali būti išnagrinėtas ir duomenys į Nekilnojamojo turto registro duomenų bazę įrašyti skubos tvarka.
 
 
 
 
-2. Prašymus įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus nagrinėja ir sprendimus priima teritorinio registratoriaus įgalioti darbuotojai. 
+2. Prašymus įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus nagrinėja ir sprendimus priima teritorinio registratoriaus įgalioti darbuotojai.
 
 
 
@@ -775,22 +772,22 @@ Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
 
 
 
-4. Sprendimų dėl daiktinių teisių į nekilnojamąjį daiktą, šių teisių suvaržymų, juridinių faktų įregistravimo priėmimo tvarką ir jų formą nustato Nekilnojamojo turto registro nuostatai. 
+4. Sprendimų dėl daiktinių teisių į nekilnojamąjį daiktą, šių teisių suvaržymų, juridinių faktų įregistravimo priėmimo tvarką ir jų formą nustato Nekilnojamojo turto registro nuostatai.
 
 
 
 
-5. Kai priimamas sprendimas prašymą tenkinti, ne vėliau kaip per 24 valandas po sprendimo priėmimo teritorinio registratoriaus įgalioti darbuotojai į nekilnojamo turto registro centrinį duomenų banką įrašo duomenis apie įregistruotas daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus.
+5. Kai priimamas sprendimas prašymą tenkinti, ne vėliau kaip per 24 valandas po sprendimo priėmimo teritorinio registratoriaus įgalioti darbuotojai į Nekilnojamojo turto registro duomenų bazę įrašo duomenis apie įregistruotas daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus.
 
 
 
 
-6. Kai priimamas sprendimas prašymą atmesti arba sprendimo priėmimą atidėti dėl aplinkybių, kurios trukdo įregistruoti daiktinę teisę, daiktinės teisės suvaržymus ar juridinius faktus, notarui, per kurį pateiktas asmens prašymas, arba prašymą pateikusiam asmeniui (kai prašymas pateiktas šio įstatymo 17 straipsnio 3 dalyje nustatytu atveju) teritorinis registratorius Nekilnojamojo turto registro nuostatų nustatyta tvarka ne vėliau kaip per šio straipsnio 1 dalyje nustatytus terminus įteikia arba išsiunčia sprendimą atsisakyti įregistruoti daiktinę teisę, daiktinės teisės suvaržymus ar juridinius faktus arba sprendimą dėl sprendimo priėmimo atidėjimo. Notaras ne vėliau kaip kitą darbo dieną apie gautą sprendimą informuoja prašymą pateikusį asmenį.
-Papildyta straipsnio dalimi:
-Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
+6. Kai priimamas sprendimas prašymą atmesti arba sprendimo priėmimą atidėti dėl aplinkybių, kurios trukdo įregistruoti daiktinę teisę, daiktinės teisės suvaržymus ar juridinius faktus, notarui, per kurį pateiktas asmens prašymas, arba prašymą pateikusiam asmeniui (kai prašymas pateiktas šio įstatymo 17 straipsnio 3 dalyje nustatytu atveju) teritorinis registratorius Nekilnojamojo turto registro nuostatuose nustatyta tvarka ne vėliau kaip per šio straipsnio 1 dalyje nustatytus terminus įteikia arba išsiunčia sprendimą atsisakyti įregistruoti daiktinę teisę, daiktinės teisės suvaržymus ar juridinius faktus arba sprendimą dėl sprendimo priėmimo atidėjimo. Notaras ne vėliau kaip kitą darbo dieną apie gautą sprendimą informuoja prašymą pateikusį asmenį. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
  
-
-
 
 
 
@@ -1051,18 +1048,20 @@ Nr. IX-1583, 2003-05-27, Žin., 2003, Nr. 57-2531 (2003-06-13), i. k. 1031010IST
 
 
 
-37 straipsnis. Nekilnojamojo turto registro centrinis duomenų bankas
+37 straipsnis. Nekilnojamojo turto registro duomenų bazė
 
 
-1. Nekilnojamojo turto registro duomenų ir nekilnojamojo turto kadastro duomenų originalai kaupiami ir saugomi nekilnojamojo turto registro centriniame duomenų banke. Nekilnojamojo turto registro centrinio duomenų banko duomenų struktūrą ir jų teikimo vartotojams tvarką nustato Nekilnojamojo turto registro nuostatai. 
+1. Nekilnojamojo turto registro duomenų ir nekilnojamojo turto kadastro duomenų originalai kaupiami ir saugomi Nekilnojamojo turto registro duomenų bazėje. Nekilnojamojo turto registro duomenų bazės duomenų struktūrą ir jų teikimo vartotojams tvarką nustato Nekilnojamojo turto registro nuostatai. 
 
 
 
 
-2. Nekilnojamojo turto registro centrinio duomenų banko išrašai ar kiti dokumentai, parengti remiantis šio duomenų banko duomenimis, yra vienintelė oficiali informacija, įrodanti nekilnojamojo daikto, daiktinių teisių į jį, šių teisių suvaržymų bei juridinių faktų įregistravimo nekilnojamojo turto registre faktą.
+2. Nekilnojamojo turto registro duomenų bazės išrašai ar kiti dokumentai, parengti remiantis šios duomenų bazės duomenimis, yra vienintelė oficiali informacija, įrodanti nekilnojamojo daikto, daiktinių teisių į jį, šių teisių suvaržymų, juridinių faktų įregistravimo nekilnojamojo turto registre faktą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
  
-
-
 
 
 
@@ -1398,3 +1397,8 @@ Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 13 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1833, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10609
 Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 17, 23, 26 straipsnių pakeitimo ir 25 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 1, 2, 3, 8, 15, 16, 21, 22, 23, 24, 26, 27, 29, 33, 35, 36, 37, 41, 43, 44, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
