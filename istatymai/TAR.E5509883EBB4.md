@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2019-12-31 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-06-09
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
  
@@ -796,9 +796,11 @@ Nr. XII-2588, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20336
 
 
 
-21. Asmenis, pateikusius prašymus neleisti lošti, draudžiama įleisti į lošimų organizavimo vietas ir leisti jiems dalyvauti nuotoliniuose lošimuose jų prašyme neleisti lošti nurodytą laikotarpį, o jeigu prašyme neleisti lošti laikotarpis nenurodytas, – 2 metus nuo prašymo neleisti lošti pateikimo Priežiūros tarnybai arba lošimų organizatoriui dienos. Taip pat draudžiama į lošimų organizavimo vietas įleisti asmenis, kurie teismo tvarka pagal Lietuvos Respublikos civilinio kodekso antrosios knygos I dalies I skyriaus III skirsnį pripažinti neveiksniais arba ribotai veiksniais šioje srityje ir leisti tokiems asmenims dalyvauti nuotoliniuose lošimuose. Šių reikalavimų vykdymą privalo užtikrinti lošimų organizatorius.
+21. Asmenis, pateikusius prašymus neleisti lošti, draudžiama įleisti į lošimų organizavimo vietas ir leisti jiems dalyvauti nuotoliniuose lošimuose jų prašyme neleisti lošti nurodytą laikotarpį, o jeigu prašyme neleisti lošti laikotarpis nenurodytas, – 2 metus nuo prašymo neleisti lošti pateikimo Priežiūros tarnybai arba lošimų organizatoriui dienos. Šių reikalavimų vykdymą privalo užtikrinti lošimų organizatorius. 
 Papildyta straipsnio dalimi:
 Nr. XII-2588, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20336
+Straipsnio dalies pakeitimai:
+Nr. XIII-2745, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21565
  
 
 
@@ -2804,3 +2806,8 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 10, 15, 16, 29 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2744, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21600
 Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 15 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2745, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21565
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 10 straipsnio pakeitimo įstatymas
