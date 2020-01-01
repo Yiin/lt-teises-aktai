@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D267FBDC094B"
 
 # Lietuvos Respublikos žemės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 128-0; Žin. 1992, Nr.21-612, i. k. 0921010ISTA00I-2675
  
@@ -55,6 +55,14 @@ BENDROSIOS NUOSTATOS
 
 
 3. Juridinis asmuo – Lietuvos Respublikos teisės aktų nustatyta tvarka įregistruotas juridinis asmuo, užsienio valstybės juridinis asmuo, taip pat užsienio valstybės organizacija, pagal Lietuvos Respublikos ar šios užsienio valstybės įstatymus pripažįstama teisės subjektu.
+
+
+
+
+31. Kolektyvinio investavimo subjektas – kaip ši sąvoka apibrėžta Lietuvos Respublikos pelno mokesčio įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2245, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10376
+ 
 
 
 
@@ -135,7 +143,11 @@ Mokesčio bazė yra žemės mokestinė vertė.
 
 
 
-2. Savivaldybės taryba iki einamojo mokestinio laikotarpio birželio 1 dienos nustato konkretų mokesčio tarifą, kuris galios atitinkamos savivaldybės teritorijoje kitą mokestinį laikotarpį, neviršydama šio straipsnio 1 dalyje nustatytų ribų, jeigu šiame straipsnyje nenustatyta kitaip. Jeigu, vadovaujantis šio įstatymo 10 straipsnio 4 dalimi, nuo kito mokestinio laikotarpio žemės mokestinė vertė nustatoma atsižvelgiant į naujai atlikto masinio žemės vertinimo rezultatus, kitą mokestinį laikotarpį galiosiantį mokesčio tarifą savivaldybės taryba gali nustatyti iki einamojo mokestinio laikotarpio gruodžio 1 dienos.
+2. Savivaldybės taryba, siekdama, kad naujas konkretus mokesčio tarifas galiotų šios savivaldybės teritorijoje nuo kito mokestinio laikotarpio pradžios, naują konkretų mokesčio tarifą turi nustatyti iki einamojo mokestinio laikotarpio liepos 1 dienos, neviršydama šio straipsnio 1 dalyje nustatytų ribų, jeigu šiame straipsnyje nenustatyta kitaip. Jeigu, vadovaujantis šio įstatymo 10 straipsnio 4 dalimi, nuo kito mokestinio laikotarpio žemės mokestinė vertė nustatoma atsižvelgiant į naujai atlikto masinio žemės vertinimo rezultatus, kitą mokestinį laikotarpį galiosiantį naują konkretų mokesčio tarifą savivaldybės taryba gali nustatyti iki einamojo mokestinio laikotarpio gruodžio 1 dienos. Jeigu savivaldybės taryba per šioje dalyje nurodytus terminus nenustato naujų konkrečių mokesčio tarifų, kitą mokestinį laikotarpį galioja paskutiniai nustatyti konkretūs mokesčio tarifai. 
+TAR pastaba. 6 straipsnio 2 ir 4 dalių nuostatos taikomos nustatant 2021 metų ir vėlesnių mokestinių laikotarpių žemės mokesčio tarifus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2245, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10376
+ 
 
 
 
@@ -178,7 +190,10 @@ Nr. XII-846, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-05002
 
 
 
-4. Jeigu savivaldybės taryba iki šio straipsnio 2 dalyje nurodytų terminų nenustato konkrečių mokesčio tarifų arba po šio straipsnio 2 dalyje nurodytų terminų keičia nustatytus mokesčio tarifus, atitinkamą mokestinį laikotarpį toje savivaldybės teritorijoje taikomas 0,01 procento mokesčio tarifas.
+4. Jeigu savivaldybės taryba kito mokestinio laikotarpio konkrečius mokesčio tarifus nustato arba pakeičia po šio straipsnio 2 dalyje nurodytų terminų, nustatyti (pakeisti) konkretūs mokesčio tarifai savivaldybės teritorijoje taikomi dar kitą mokestinį laikotarpį po ateinančio mokestinio laikotarpio. 
+TAR pastaba. 6 straipsnio 2 ir 4 dalių nuostatos taikomos nustatant 2021 metų ir vėlesnių mokestinių laikotarpių žemės mokesčio tarifus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2245, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10376
  
 
 
@@ -249,12 +264,18 @@ Nr. XII-1578, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05692
 
 
 
-4) nacionalinių parkų, regioninių parkų, kraštovaizdžio, kultūrinių, geologinių, geomorfologinių, botaninių, zoologinių, botaninių-zoologinių, hidrografinių ir pedologinių draustinių teritorijų ir jų apsaugos zonų žemė, išskyrus minėtose teritorijose esančias žemės ūkio naudmenas, taip pat užstatytų teritorijų, kelių ir vandenų užimtą žemę;
+4) valstybinių parkų, kraštovaizdžio, kultūrinių, geologinių, geomorfologinių, botaninių, zoologinių, botaninių-zoologinių, hidrografinių ir pedologinių draustinių teritorijų ir jų apsaugos zonų žemė, išskyrus minėtose teritorijose esančias žemės ūkio naudmenas, taip pat užstatytų teritorijų, kelių ir vandenų užimtą žemę;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2197, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09856
+ 
 
 
 
 
-5) vandens telkinių pakrančių apsaugos juostų žemė;
+5) paviršinių vandens telkinių pakrančių apsaugos juostų žemė;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2197, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09856
+ 
 
 
 
@@ -279,9 +300,18 @@ Nr. XII-1578, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05692
 
 
 
-10) žemė, nuosavybės teise priklausanti tradicinėms ir kitoms valstybės pripažintoms religinėms bendruomenėms, bendrijoms ir centrams.
+10) žemė, nuosavybės teise priklausanti tradicinėms ir kitoms valstybės pripažintoms religinėms bendruomenėms, bendrijoms ir centrams;
 Papildyta straipsnio punktu:
 Nr. XII-2159, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19857
+ 
+
+
+
+
+11) žemė, patenkanti į Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme nurodytas teritorijas, nustatytas tenkinant viešąjį interesą Specialiųjų žemės naudojimo sąlygų įstatyme nurodytais atvejais, kai dėl specialiųjų žemės naudojimo sąlygų taikymo šiose teritorijose žemės savininkas netenka galimybės naudoti žemės sklypą pagal nustatytą pagrindinę žemės naudojimo paskirtį ir (ar) žemės sklypo naudojimo būdą (būdus). Ši nuostata netaikoma, jeigu, pakeitus nustatytą pagrindinę žemės naudojimo paskirtį ir (ar) žemės sklypo naudojimo būdą, žemės savininkas galėtų naudoti žemės sklypą pagal iš naujo nustatytą pagrindinę žemės naudojimo paskirtį ir (ar) žemės sklypo naudojimo būdą.
+TAR pastaba. 8 straipsnio 2 dalies 11 punkto nuostatos taikomos apskaičiuojant 2020 metų ir vėlesnių mokestinių laikotarpių žemės mokestį.
+Papildyta straipsnio punktu:
+Nr. XIII-2197, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09856
  
 
 
@@ -508,7 +538,7 @@ MOKESČIO ĮSKAITYMAS
  
  
 LIETUVOS RESPUBLIKOS
-AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                        VYTAUTAS LANDSBERGIS
+AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                           VYTAUTAS LANDSBERGIS
  
 Vilnius, 1992 m. birželio 25 d. 
 Nr. I-2675
@@ -580,3 +610,13 @@ Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 8 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2159, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19857
 Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 8 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2197, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09856
+Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 8 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2245, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10376
+Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 2 ir 6 straipsnių pakeitimo įstatymas
