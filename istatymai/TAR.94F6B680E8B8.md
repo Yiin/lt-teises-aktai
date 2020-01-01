@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2019-12-22 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-04-10
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -128,9 +128,10 @@ Nr. XII-1140, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13461
 
 
 
-11. Tarpvalstybinė sveikatos priežiūra – kitoje Europos ekonominės erdvės valstybėje sveikatos priežiūros specialistų apdraustiesiems teikiamos asmens sveikatos priežiūros paslaugos, siekiant įvertinti, palaikyti ar pagerinti jų sveikatos būklę, taip pat vaistų, medicinos pagalbos priemonių ir medicinos priemonių (prietaisų) išrašymas ir išdavimas. Tarpvalstybinė sveikatos priežiūra neapima socialinių paslaugų ir patarnavimų, nepriskirtų asmens sveikatos priežiūrai, transplantacijai skirtų audinių, ląstelių ir (arba) organų paskirstymo bei gavimo ir skiepijimo paslaugų pagal gyventojų skiepijimo nuo užkrečiamųjų ligų programas. 
+11. Tarpvalstybinė sveikatos priežiūra – kitoje Europos ekonominės erdvės valstybėje sveikatos priežiūros specialistų apdraustiesiems teikiamos asmens sveikatos priežiūros paslaugos, siekiant įvertinti, palaikyti ar pagerinti jų sveikatos būklę, taip pat vaistų, medicinos pagalbos priemonių ir medicinos priemonių (prietaisų) išrašymas ir išdavimas. Tarpvalstybinė sveikatos priežiūra neapima socialinių paslaugų ir patarnavimų, nepriskirtų asmens sveikatos priežiūrai, transplantacijai skirtų audinių, ląstelių ir (arba) organų paskirstymo bei gavimo ir skiepijimo paslaugų pagal gyventojų skiepijimo nuo užkrečiamųjų ligų programas ir nėra taikoma suimtųjų ir nuteistųjų, atliekančių arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes, asmens sveikatos priežiūrai.
 Straipsnio dalies pakeitimai:
 Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
+Nr. XIII-2698, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21416
  
 
 
@@ -254,6 +255,14 @@ Nr. XIII-953, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21664
 TAR pastaba. 1 dalies papildymas 21 punktu įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
 Papildyta straipsnio punktu:
 Nr. XIII-2051, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06686
+ 
+
+
+
+
+22) leidimą laikinai gyventi Lietuvos Respublikoje turintys užsieniečiai, nurodyti 6 straipsnio 4 dalies 21 punkte; 
+Papildyta straipsnio punktu:
+Nr. XIII-2625, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20566
  
 
 
@@ -425,6 +434,22 @@ Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
  
 
 
+
+
+21) Lietuvos Respublikoje nuolat ar laikinai gyvenantys asmenys, kurie gauna bet kurios rūšies pensiją pagal Lietuvos Respublikos tarptautines sutartis ir kuriems Lietuvos Respublikos teisės aktų, reglamentuojančių sveikatos draudimą, taikymas numatytas šiose tarptautinėse sutartyse.
+Papildyta straipsnio punktu:
+Nr. XIII-2625, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20566
+ 
+
+
+
+
+22) suimtieji ir nuteistieji, atliekantys arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes. 
+Papildyta straipsnio punktu:
+Nr. XIII-2698, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21416
+ 
+
+
 Straipsnio dalies pakeitimai:
 Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
  
@@ -432,19 +457,21 @@ Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 
 
 
-5. Lietuvos Respublikos privalomosios pradinės karo tarnybos karių, taip pat privalomosios karo tarnybos karių, paskelbus mobilizaciją pašauktų į karinius mokymus įgyti pagrindinio karinio parengtumo, užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, taip pat užsieniečių, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje, teismo ar teisėsaugos institucijų sulaikytų asmenų, esančių kardomojo kalinimo vietose, nuteistųjų laisvės atėmimu asmenų, laikomų laisvės atėmimo vietų įstaigose, ir asmenų, padariusių visuomenei pavojingą veiką, kuriems teismo nutartimi paskirtos priverčiamosios medicininio pobūdžio priemonės, sveikatos priežiūra apmokama iš valstybės biudžeto lėšų Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. 
+5. Lietuvos Respublikos privalomosios pradinės karo tarnybos karių, taip pat privalomosios karo tarnybos karių, paskelbus mobilizaciją pašauktų į karinius mokymus įgyti pagrindinio karinio parengtumo, užsieniečių, pateikusių prašymą suteikti jiems prieglobstį Lietuvos Respublikoje, taip pat užsieniečių, kuriems suteikta laikinoji apsauga Lietuvos Respublikoje, ir visuomenei pavojingą veiką padariusių asmenų, kuriems teismo nutartimi paskirtos priverčiamosios medicininio pobūdžio priemonės, sveikatos priežiūra apmokama iš valstybės biudžeto lėšų Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1643, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06584
 Nr. XIII-1950, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00893
+Nr. XIII-2698, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21416
  
 
 
 
 
-6. Privalomojo sveikatos draudimo fondas disponuoja valstybės biudžeto lėšomis, skirtomis šio straipsnio 4 dalyje nurodytų asmenų privalomajam sveikatos draudimui, ir asmenų, nurodytų šio straipsnio 5 dalyje, sveikatos priežiūros paslaugoms apmokėti, išskyrus atvejus, kai šios paslaugos teikiamos teisingumo, krašto apsaugos ar vidaus reikalų ministrų valdymo srities sveikatos priežiūros įstaigose, taip pat lėšomis, skirtomis asmenų, laikomų laisvės atėmimo vietų įstaigose, gydymui nuo pavojingų užkrečiamųjų ligų reikalingiems vaistams įsigyti. 
+6. Privalomojo sveikatos draudimo fondas disponuoja valstybės biudžeto lėšomis, skirtomis šio straipsnio 4 dalyje nurodytų asmenų privalomajam sveikatos draudimui ir asmenų, nurodytų šio straipsnio 5 dalyje, sveikatos priežiūros paslaugoms apmokėti, išskyrus atvejus, kai šios paslaugos teikiamos krašto apsaugos ministro ar vidaus reikalų ministro valdymo srities sveikatos priežiūros įstaigose.
 Straipsnio dalies pakeitimai:
 Nr. XII-1643, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06584
 Nr. XIII-1950, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00893
+Nr. XIII-2698, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21416
  
 
 
@@ -3179,3 +3206,13 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 9 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2646, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20987
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 14 straipsnio pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2625, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20566
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2698, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21416
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2 ir 6 straipsnių pakeitimo įstatymas
