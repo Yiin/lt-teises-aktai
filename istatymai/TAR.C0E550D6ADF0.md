@@ -13,23 +13,17 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0"
 
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas
 
-Suvestinė redakcija nuo 2019-12-19 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-07-10
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1659, i. k. 0971010ISTAVIII-371
  
-Nauja įstatymo redakcija nuo 2000-02-29:
-Nr. VIII-1562, 2000 02 17, Žin., 2000, Nr. 18-431 (2000 02 29)
+Nauja redakcija nuo 2020-01-01:
+Nr. XIII-2274, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11194
  
- 
- 
-LIETUVOS RESPUBLIKOS
- 
-VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO VALSTYBINĖJE TARNYBOJE
-ĮSTATYMAS
+LIETUVOS RESPUBLIKOS VIEŠŲJŲ IR PRIVAČIŲ INTERESŲ DERINIMO ĮSTATYMAS
  
 1997 m. liepos 2 d. Nr. VIII-371
 Vilnius
- 
  
  
 
@@ -39,10 +33,10 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis ir uždaviniai 
+1 straipsnis. Įstatymo paskirtis ir uždaviniai
 
 
-Šiuo įstatymu siekiama suderinti valstybinėje tarnyboje dirbančių asmenų privačius ir visuomenės viešuosius interesus, užtikrinti, kad priimant sprendimus pirmenybė būtų teikiama viešiesiems interesams, įtvirtinti priimamų sprendimų nešališkumą ir užkirsti kelią atsirasti bei plisti korupcijai valstybinėje tarnyboje. 
+Šio įstatymo paskirtis – sudaryti sąlygas atskleisti valstybinėje tarnyboje dirbančių asmenų ir šio įstatymo 4 straipsnio 3 dalyje nurodytų asmenų (visi kartu toliau – deklaruojantys asmenys) privačius interesus, užtikrinti, kad priimant sprendimus pirmenybė būtų teikiama viešiesiems interesams, ir užkirsti kelią kilti interesų konfliktams bei plisti korupcijai.
  
 
 
@@ -50,85 +44,114 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Pagrindinės šio įstatymo sąvokos 
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Asmenys, dirbantys valstybinėje tarnyboje, – valstybės politikai, valstybės pareigūnai, valstybės tarnautojai, teisėjai, žvalgybos pareigūnai, profesinės karo tarnybos karininkai, asmenys, dirbantys valstybės ir savivaldybių įmonėse, biudžetinėse įstaigose ir turintys administravimo įgaliojimus, asmenys, dirbantys viešosiose įstaigose ir asociacijose, kurios gauna lėšų iš Lietuvos valstybės ar savivaldybių biudžetų ir fondų, ir turintys administravimo įgaliojimus, Lietuvos banko darbuotojai, turintys viešojo administravimo įgaliojimus (atliekantys finansų rinkos priežiūros, vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme funkcijas ir kitas viešojo administravimo funkcijas), akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, vadovai ir vadovų pavaduotojai, taip pat kiti asmenys, turintys viešojo administravimo įgaliojimus.
-
-
-
-
-2. Privatūs interesai – asmens, dirbančio valstybinėje tarnyboje, (ar jam artimo asmens) asmeninis turtinis ar neturtinis suinteresuotumas, galintis turėti įtakos sprendimams atliekant tarnybines pareigas.
+1. Artimi asmenys – deklaruojančio asmens sutuoktinis, sugyventinis, partneris, kai partnerystė įregistruota įstatymų nustatyta tvarka (toliau – partneris), taip pat jų ir deklaruojančio asmens tėvai (įtėviai), vaikai (įvaikiai), broliai (įbroliai), seserys (įseserės), seneliai, vaikaičiai ir jų sutuoktiniai, sugyventiniai ar partneriai. 
 
 
 
 
-3. Viešieji interesai – visuomenės suinteresuotumas, kad asmenys, dirbantys valstybinėje tarnyboje, visus sprendimus priimtų nešališkai ir teisingai. 
+2. Interesų konfliktas – situacija, kai deklaruojantis asmuo, atlikdamas tarnybines pareigas ar vykdydamas tarnybinį pavedimą, turi priimti ar dalyvauti priimant sprendimą arba įvykdyti pavedimą, kurie susiję ir su jo privačiais interesais.
 
 
 
 
-4. Interesų konfliktas – situacija, kai valstybinėje tarnyboje dirbantis asmuo, atlikdamas pareigas ar vykdydamas pavedimą, privalo priimti sprendimą ar dalyvauti jį priimant, ar įvykdyti pavedimą, kurie susiję ir su jo privačiais interesais. 
+3. Privatūs interesai – deklaruojančio asmens (ar jam artimo asmens) suinteresuotumas asmenine turtine ar neturtine nauda, deklaruojančio asmens (ar jam artimo asmens) moralinė skola, moralinis įsipareigojimas ar kitas panašaus pobūdžio interesas deklaruojančiam asmeniui atliekant tarnybines pareigas.
 
 
 
 
-5. Artimi asmenys – valstybinėje tarnyboje dirbančio asmens sutuoktinis, sugyventinis, partneris, kai partnerystė įregistruota įstatymų nustatyta tvarka (toliau – partneris), taip pat jų tėvai (įtėviai), vaikai (įvaikiai), broliai (įbroliai), seserys (įseserės), seneliai, vaikaičiai ir jų sutuoktiniai, sugyventiniai ar partneriai.
+4. Viešieji interesai – visuomenės suinteresuotumas, kad deklaruojantys asmenys visus sprendimus priimtų nešališkai ir teisingai.
 
 
 
 
-6. Asmeninis suinteresuotumas – valstybinėje tarnyboje dirbančio asmens (ar jam artimo asmens) moralinė skola, moralinis įsipareigojimas, turtinė ar neturtinė nauda arba kitas panašaus pobūdžio interesas.
+5. Valstybinėje tarnyboje dirbantys asmenys:
+
+
+1) valstybės politikai;
 
 
 
 
-7. Įmonė – visų rūšių ūkinės, komercinės, kredito ir finansinės įmonės, bendrovės, įstaigos, bendrijos, asociacijos, susivienijimai ir organizacijos.
+2) valstybės pareigūnai;
 
 
 
 
-8. Kontroliuojama įmonė – kaip ši sąvoka apibrėžta Lietuvos Respublikos vertybinių popierių įstatyme.
+3) valstybės tarnautojai;
 
 
-Straipsnio pakeitimai:
-Nr. IX-244, 2001 04 10, Žin., 2001, Nr. 35-1165 (2001 04 25)
-Nr. IX-488, 2001-08-02, Žin., 2001, Nr. 71-2517 (2001-08-17)
-Nr. IX-1438, 2003-04-03, Žin., 2003, Nr. 38-1683 (2003-04-24)
-Nr. IX-1809, 2003-11-06, Žin., 2003, Nr. 111-4929 (2003-11-26)
-Nr. X-724, 2006-06-22, Žin., 2006, Nr. 77-2968 (2006-07-14)
-Nr. X-1667, 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
-Nr. XI-287, 2009-06-11, Žin., 2009, Nr. 75-3066 (2009-06-25)
-Nr. XI-1279, 2011-03-15, Žin., 2011, Nr. 37-1758 (2011-03-29)
-Nr. XI-2063, 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
-Nr. XII-870, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
+
+
+4) teisėjai;
+
+
+
+
+5) žvalgybos pareigūnai;
+
+
+
+
+6) profesinės karo tarnybos kariai;
+
+
+
+
+7) valstybės ir savivaldybių įmonių, biudžetinių įstaigų ir šių juridinių asmenų struktūrinių padalinių vadovai ir jų pavaduotojai; 
+
+
+
+
+8) viešųjų įstaigų, kurių bent vienas iš steigėjų, dalininkų yra valstybė ar savivaldybė (savivaldybės), ir jų struktūrinių padalinių vadovai ir jų pavaduotojai; 
+
+
+
+
+9) Lietuvos banko darbuotojai, turintys viešojo administravimo įgaliojimus (atliekantys finansų rinkos priežiūros, vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme funkcijas ir kitas viešojo administravimo funkcijas);
+
+
+
+
+10) akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei (savivaldybėms), vadovai ir vadovų pavaduotojai, taip pat šių bendrovių patronuojamųjų (dukterinių) akcinių bendrovių ar uždarųjų akcinių bendrovių vadovai ir vadovų pavaduotojai, taip pat šių bendrovių patronuojamųjų (dukterinių) akcinių bendrovių ar uždarųjų akcinių bendrovių vadovai ir vadovų pavaduotojai;
+
+
+
+
+11) kiti asmenys, turintys viešojo administravimo įgaliojimus. 
  
 
 
 
 
-3 straipsnis. Asmenų, pretenduojančių dirbti, dirbančių ir dirbusių valstybinėje tarnyboje, prievolės 
-
-
-1. Viešųjų interesų viršenybei užtikrinti asmenys, dirbantys valstybinėje tarnyboje, privalo: 
-
-
-1) nešališkai, sąžiningai ir tinkamai atlikti tarnybines pareigas; 
 
 
 
 
-2) teisės aktų nustatyta tvarka ir priemonėmis vengti interesų konflikto ir elgtis taip, kad nekiltų abejonių, jog toks konfliktas yra;
+3 straipsnis. Deklaruojančių asmenų pareigos
+
+
+1. Viešųjų interesų viršenybei užtikrinti deklaruojantys asmenys privalo:
+
+
+1) nešališkai, sąžiningai ir tinkamai atlikti tarnybines pareigas;
 
 
 
 
-3) nesinaudoti pareigomis asmeninei naudai gauti; 
+2) teisės aktų nustatyta tvarka ir priemonėmis vengti interesų konflikto ir elgtis taip, kad nekiltų abejonių, kad toks konfliktas yra;
 
 
 
 
-4) priimdami sprendimus, vadovautis įstatymais ir visų asmenų lygybės principu; 
+3) nesinaudoti tarnybinėmis pareigomis ar tarnybiniu statusu asmeninei naudai gauti;
+
+
+
+
+4) priimdami sprendimus, vadovautis įstatymais ir visų asmenų lygybės principu;
 
 
 
@@ -138,25 +161,27 @@ Nr. XII-870, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
 
 
 
-6) nesinaudoti ir neleisti naudotis jokiu valstybės ar savivaldybių valdomu turtu ne tarnybinei veiklai. Atskirais atvejais taikomas išimtis gali nustatyti įstatymai. 
+6) nesinaudoti ir neleisti kitiems naudotis valstybės ar savivaldybių valdomu turtu ne tarnybinei veiklai, išskyrus įstatymuose ar Lietuvos Respublikos Vyriausybės nutarimuose nustatytas išimtis.
 
 
 
 
 
 
-2. Asmenys, pretenduojantys dirbti ir dirbantys valstybinėje tarnyboje, taip pat kiti asmenys, nurodyti šio įstatymo 4 straipsnio 1 dalyje, privalo deklaruoti privačius interesus.
+2. Deklaruojantys asmenys privalo šio įstatymo nustatyta tvarka deklaruoti privačius interesus. 
 
 
 
 
-3. Asmenims, nustojusiems eiti pareigas valstybinėje tarnyboje, taikomi šio įstatymo penktajame skirsnyje nustatyti apribojimai.
+3. Asmenys, pretenduojantys dirbti valstybinėje tarnyboje, privačius interesus deklaruoja šio įstatymo nustatytais atvejais ir tvarka.
 
 
-Straipsnio pakeitimai:
-Nr. X-1667, 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
-Nr. XI-2063, 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
+
+
+4. Asmenys, nustoję dirbti valstybinėje tarnyboje, turi šio įstatymo ketvirtajame skirsnyje nustatytas pareigas ir jiems taikomi šio įstatymo ketvirtajame skirsnyje nustatyti apribojimai.
  
+
+
 
 
 
@@ -171,73 +196,116 @@ PRIVAČIŲ INTERESŲ DEKLARAVIMAS
 4 straipsnis. Privačių interesų deklaracija
 
 
-1. Valstybinėje tarnyboje dirbantis asmuo, taip pat asmuo, pretenduojantis į pareigas valstybinėje tarnyboje, privalo deklaruoti privačius interesus šio įstatymo ir kitų teisės aktų nustatyta tvarka pateikdamas privačių interesų deklaraciją (toliau – deklaracija). Šio įstatymo nuostatos dėl privačių interesų deklaravimo taip pat taikomos politinių partijų pirmininkams ir jų pavaduotojams, valstybės politikų visuomeniniams konsultantams, padėjėjams, patarėjams, Lietuvos Respublikos Seimo komitetų patvirtintiems ekspertams, ministerijų kolegijų nariams, akcinių bendrovių bei uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, stebėtojų tarybų ir valdybų nariams, valstybės ar savivaldybių įmonių valdybų nariams, Privalomojo sveikatos draudimo tarybos nariams, Privalomojo sveikatos draudimo tarybos visuomeniniams patarėjams, Nacionalinės sveikatos tarybos nariams, gydytojams, odontologams ir farmacijos specialistams, dirbantiems biudžetinėse ir viešosiose įstaigose, kurių savininkė yra valstybė ar savivaldybė, valstybės ir savivaldybių įmonėse bei įmonėse, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, turinčiose asmens sveikatos priežiūros ar vaistinės veiklos licenciją, taip pat viešojo pirkimo komisijos nariams, asmenims, perkančiosios organizacijos vadovo paskirtiems atlikti supaprastintus pirkimus, ir viešųjų pirkimų procedūrose dalyvaujantiems ekspertams. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
-Nr. XIII-366, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08725
+1. Privatūs interesai deklaruojami Vyriausiajai tarnybinės etikos komisijai (toliau – VTEK) arba kitiems šio įstatymo 5 straipsnyje nurodytiems subjektams pateikiant privačių interesų deklaraciją (toliau – deklaracija). Už deklaracijoje pateiktų duomenų tikrumą atsako deklaruojantis asmuo.
+
+
+
+
+2. Valstybės ir savivaldybių institucijų ir įstaigų, kitų viešojo sektoriaus subjektų ir šio įstatymo 2 straipsnio 5 dalyje nurodytų juridinių asmenų, kuriuose dirba deklaruojantys asmenys, (toliau visi kartu – institucijos ir įstaigos) vadovai ar jų įgalioti asmenys informuoja į pareigas renkamus, priimamus ir skiriamus asmenis ir asmenis, kuriems privaloma deklaruoti privačius interesus kitais pagrindais (deklaruojančio asmens statusą turintis asmuo), apie pareigą pateikti deklaraciją. Deklaruojantis asmuo apie šią pareigą informuojamas priėmimo, skyrimo į pareigas ar deklaruojančio asmens statuso įgijimo metu.  
+
+
+
+
+3. Šio įstatymo nuostatos dėl privačių interesų deklaravimo ir šio įstatymo 11 ir 13 straipsniai taip pat taikomi:
+
+
+1) politinių partijų pirmininkams ir pirmininkų pavaduotojams;
+
+
+
+
+2) valstybės politikų visuomeniniams konsultantams, padėjėjams, patarėjams;
+
+
+
+
+3) Lietuvos Respublikos Seimo komitetų patvirtintiems ekspertams; 
+
+
+
+
+4) ministerijų kolegijų nariams;
+
+
+
+
+5) akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei (savivaldybėms), šių bendrovių patronuojamųjų (dukterinių) akcinių bendrovių ar uždarųjų akcinių bendrovių stebėtojų tarybų, valdybų nariams, struktūrinių padalinių vadovams ir jų pavaduotojams;
+
+
+
+
+6) valstybės ar savivaldybių įmonių valdybų nariams;
+
+
+
+
+7) Privalomojo sveikatos draudimo tarybos nariams, Privalomojo sveikatos draudimo tarybos visuomeniniams patarėjams, Nacionalinės sveikatos tarybos nariams, gydytojams, odontologams ir farmacijos specialistams, dirbantiems asmens sveikatos priežiūros ar vaistinės veiklos licenciją turinčiose biudžetinėse ir viešosiose įstaigose, kurių savininkė yra valstybė ar savivaldybė, valstybės ir savivaldybių įmonėse ir įmonėse, kurių valstybei ar savivaldybei nuosavybės teise priklausančių akcijų suteikiami balsai visuotiniame akcininkų susirinkime ar turimos juridinio asmens dalyvio teisės kitų teisinių formų juridiniuose asmenyse leidžia daryti lemiamą įtaką šių juridinių asmenų veiklai;
+
+
+
+
+8) perkančiosios organizacijos ar perkančiojo subjekto (toliau kartu – perkantysis subjektas) vadovams, perkančiojo subjekto pirkimų komisijų nariams, perkančiojo subjekto vadovo paskirtiems atlikti supaprastintus pirkimus asmenims, perkančiojo subjekto atliekamų pirkimų procedūrose dalyvaujantiems ekspertams, viešojo pirkimo, pirkimo, atliekamo vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiojo subjekto, koncesijos iniciatoriams (toliau – pirkimo iniciatorius);
+
+
+
+
+9) institucijos ar įstaigos sprendimu sudarytų ar valstybės pareigūnų paskirtų nuolatinių komisijų ir tarybų, turinčių viešojo administravimo įgaliojimus ir priimančių privalomo pobūdžio sprendimus nepavaldiems asmenims, nariams; 
+
+
+
+
+10) aukštųjų mokyklų, kurių bent vienas iš steigėjų yra valstybė ar savivaldybė, valdymo organų nariams;
+
+
+
+
+11) kitiems viešojo sektoriaus subjektų darbuotojams, kurių pareigų sąrašą tvirtina  institucijos ar įstaigos vadovas, suderinęs su VTEK. Į šį sąrašą gali būti įtraukiamos pareigos, kurioms priskirtos funkcijos yra susijusios su valstybės ar savivaldybių biudžetų ir valstybės pinigų fondų lėšų valdymu, valstybės ir savivaldybių turto valdymu, naudojimu ir disponavimu juo, administracinių sprendimų rengimu bei priėmimu ar viešųjų paslaugų teikimu.  
  
 
 
 
 
-2. Kandidatai į Seimo narius, Respublikos Prezidentus, Europos Parlamento narius, savivaldybių tarybų narius deklaracijas pateikia atitinkamų rinkimų įstatymų nustatyta tvarka.
 
 
-Straipsnio pakeitimai:
-Nr. IX-244, 2001 04 10, Žin., 2001, Nr. 35-1165 (2001 04 25)
-Nr. IX-1809, 2003-11-06, Žin., 2003, Nr. 111-4929 (2003-11-26)
-Nr. X-316, 2005-07-05, Žin., 2005, Nr. 88-3286 (2005-07-21)
-Nr. X-1667, 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
-Nr. XI-1279, 2011-03-15, Žin., 2011, Nr. 37-1758 (2011-03-29)
-Nr. XI-2063, 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
-Nr. XII-870, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
+
+
+5 straipsnis. Deklaracijos pateikimas
+
+
+1. Deklaruojantys asmenys privalo pateikti deklaraciją VTEK nustatyta tvarka elektroninėmis priemonėmis, išskyrus šiame straipsnyje numatytas išimtis.
+
+
+
+
+2. Deklaracijos pateikiamos nedelsiant, bet ne vėliau kaip per 30 kalendorinių dienų, po deklaruojančio asmens išrinkimo, priėmimo ar paskyrimo į pareigas dienos arba po deklaruojančio asmens statuso įgijimo dienos. 
+
+
+
+
+3. Asmenys, pretenduojantys dirbti valstybinėje tarnyboje (išskyrus šio straipsnio 4 ir 5 dalyse nurodytus asmenis), kartu su pretendento dokumentais pateikia deklaraciją institucijos ar įstaigos, kurioje pretenduoja dirbti, reikalavimu. Pateikti deklaraciją gali būti reikalaujama, jei pareigoms, į kurias asmuo pretenduoja, priskirtos funkcijos yra susijusios su valstybės ar savivaldybių biudžetų ir valstybės pinigų fondų lėšų valdymu, valstybės ir savivaldybių turto valdymu, naudojimu ir disponavimu juo, administracinių sprendimų rengimu bei priėmimu ar viešųjų paslaugų teikimu.  
+
+
+
+
+4. Kandidatai į Seimo narius, Respublikos Prezidentus, Europos Parlamento narius, savivaldybių tarybų narius deklaraciją pateikia atitinkamai Lietuvos Respublikos Seimo rinkimų įstatymo, Lietuvos Respublikos Prezidento rinkimų įstatymo, Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo, Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo nustatytais atvejais per Privačių interesų registrą. 
+
+
+
+
+5. Asmenys, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti ir (arba) kurie vykdo žvalgybą, kontržvalgybą arba kriminalinę žvalgybą, arba asmenys, pretenduojantys į šias pareigas, deklaraciją pateikia institucijos ar įstaigos, kurioje eina pareigas ar į kurią pretenduoja, vadovui ar jo įgaliotam asmeniui šios institucijos ar įstaigos nustatyta tvarka ir terminais.
+
+
+
+
+6. Perkančiųjų subjektų pirkimų komisijų nariai, asmenys, perkančiųjų subjektų vadovų paskirti atlikti supaprastintus pirkimus, ir perkančiųjų subjektų atliekamų pirkimų procedūrose dalyvaujantys ekspertai, pirkimo iniciatoriai deklaraciją pateikia (jeigu ji dar nebuvo pateikta) iki dalyvavimo pirkimų procedūrose pradžios. Perkančiųjų subjektų pirkimų komisijų nariai, asmenys, perkančiųjų subjektų vadovų paskirti atlikti supaprastintus pirkimus, perkančiųjų subjektų atliekamų pirkimų procedūrose dalyvaujantys ekspertai, pirkimo iniciatoriai, nepateikę deklaracijos, neturi teisės dalyvauti pirkimų procedūrose ir turi būti atšaukti iš atitinkamų pareigų.
+
+
+
+
+7. Su deklaruojančio asmens pateiktomis VTEK saugomomis deklaracijomis ir Privačių interesų registre tvarkomais duomenimis turi teisę susipažinti Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos, teisėsaugos, audito, kontrolės institucijos ir kiti asmenys, kurie pagal įstatymus turi teisę susipažinti su tokia informacija. 
  
 
 
-
-
-5 straipsnis. Deklaracijos pateikimas 
-
-
-1. Privačius interesus deklaruojantys asmenys privalo pateikti deklaraciją elektroninėmis priemonėmis Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka per 30 kalendorinių dienų nuo jų išrinkimo, priėmimo ar paskyrimo į pareigas dienos (išskyrus šio įstatymo 4 straipsnio 2 dalyje, šio straipsnio 2, 3 ir 4 dalyse nurodytus atvejus). 
-
-
-
-
-2. Asmenys, pretenduojantys dirbti valstybinėje tarnyboje (išskyrus asmenis, nurodytus šio įstatymo 4 straipsnio 2 dalyje, ir asmenis, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti ir (arba) kurie vykdo žvalgybą, kontržvalgybą arba kriminalinę žvalgybą), pateikia deklaraciją iki jų išrinkimo, priėmimo ar paskyrimo į pareigas dienos, jeigu kiti teisės aktai nenustato kitaip.
-
-
-
-
-3. Asmenys, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti ir (arba) kurie vykdo žvalgybą, kontržvalgybą arba kriminalinę žvalgybą, per 30 kalendorinių dienų nuo jų išrinkimo, priėmimo ar paskyrimo į pareigas dienos pateikia deklaraciją institucijos (juridinio asmens), kurioje dirba, vadovui ar jo įgaliotam atstovui tos institucijos (juridinio asmens) nustatyta tvarka.
-
-
-
-
-4. Viešojo pirkimo komisijos nariai, asmenys, perkančiosios organizacijos vadovo paskirti atlikti supaprastintus pirkimus, ir viešųjų pirkimų procedūrose dalyvaujantys ekspertai privačių interesų deklaraciją pateikia elektroninėmis priemonėmis (jeigu jos dar nebuvo pateiktos) iki dalyvavimo viešojo pirkimo procedūrose pradžios. Viešojo pirkimo komisijos narys, asmuo, perkančiosios organizacijos vadovo paskirtas atlikti supaprastintus pirkimus, ar viešųjų pirkimų procedūrose dalyvaujantis ekspertas, nepateikę privačių interesų deklaracijos, neturi teisės dalyvauti viešajame pirkime ir turi būti atšaukti iš atitinkamų pareigų. 
-
-
-
-
-5. Deklaracija gali būti teikiama ne tik institucijos (juridinio asmens), kurioje asmuo dirba, vadovui ar jo įgaliotam atstovui, bet ir pavaldaus ar atskaitingo juridinio asmens arba kito juridinio asmens vadovui ar jo įgaliotam atstovui, jeigu tai numato tos institucijos (juridinio asmens) veiklos tvarką nustatantis teisės aktas.
-
-
-
-
-6. Teisės aktų nustatytais atvejais ir tvarka deklaracijų turinčios teisę reikalauti institucijos jas išsireikalauja iš deklaruojančiojo asmens darbovietės arba iš Vyriausiosios tarnybinės etikos komisijos.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 5 straipsnis (2015 m. gruodžio 15 d. redakcija; TAR, 2015-12-29, Nr. 20871) (su 2017 m. balandžio 27 d. pakeitimais; TAR, 2017-05-08, Nr. 7785, identifikacinis kodas 2017-07785) tiek, kiek jame nenustatyta asmenų, dirbančių viešosiose įstaigose ar asociacijose, kurios gauna lėšų iš Lietuvos valstybės ar savivaldybių biudžetų ir fondų, ir turinčių administravimo įgaliojimus, privačių interesų deklaracijos pateikimo tvarka, prieštarauja konstituciniam teisinės valstybės principui.
-
-
-Straipsnio pakeitimai:
-Nr. IX-244, 2001 04 10, Žin., 2001, Nr. 35-1165 (2001 04 25)
-Nr. IX-1809, 2003-11-06, Žin., 2003, Nr. 111-4929 (2003-11-26)
-Nr. X-316, 2005-07-05, Žin., 2005, Nr. 88-3286 (2005-07-21)
-Nr. XI-2063, 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
-Nr. XII-870, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
-Straipsnio pakeitimai:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
-Nr. KT88-N16/2019, 2019-12-19, paskelbta TAR 2019-12-19, i. k. 2019-20629
- 
 
 
 
@@ -245,70 +313,60 @@ Nr. KT88-N16/2019, 2019-12-19, paskelbta TAR 2019-12-19, i. k. 2019-20629
 6 straipsnis. Deklaracijos turinys
 
 
-1. Deklaruojantis asmuo deklaracijoje privalo nurodyti šiuos savo ir sutuoktinio, sugyventinio, partnerio duomenis: 
+1. Deklaruojantis asmuo deklaracijoje privalo nurodyti šiuos duomenis:
 
 
-1) vardą, pavardę, asmens kodą, valstybinio socialinio draudimo pažymėjimo numerį, darbovietę (darbovietes) ir pareigas;
-
-
-
-
-2) juridinį asmenį, kurio dalyvis jis ar jo sutuoktinis, sugyventinis, partneris yra;
+1) savo vardą, pavardę, asmens kodą, darbovietę (darbovietes) ir pareigas (statusą), dėl kurių privalo deklaruoti privačius interesus, taip pat kitas darbovietes ir (ar) einamas pareigas;
 
 
 
 
-3) individualią veiklą, kaip ji apibrėžta Gyventojų pajamų mokesčio įstatyme;
+2) sutuoktinio, sugyventinio, partnerio vardą, pavardę, asmens kodą bei darbovietes ir (ar) einamas pareigas;
 
 
 
 
-4) narystę ir pareigas įmonėse, įstaigose, asociacijose ar fonduose, išskyrus narystę politinėse partijose ir profesinėse sąjungose; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
+3) duomenis apie juridinius asmenis, kuriuose jo, jo sutuoktinio, sugyventinio ar partnerio turimų akcijų suteikiami balsai visuotiniame akcininkų susirinkime ar turimos juridinio asmens dalyvio teisės kitų teisinių formų juridiniuose asmenyse leidžia daryti lemiamą įtaką šių juridinių asmenų veiklai.
+
+
+
+
+
+
+2. Deklaruojantis asmuo deklaracijoje privalo nurodyti privačius interesus, egzistuojančius ar galinčius atsirasti:
+
+
+1) dėl to, kad jis ar jam artimas asmuo yra juridinio asmens dalyvis. Šiuo atveju deklaracijoje pateikiama informacija apie šio juridinio asmens dalyvavimą viešuosiuose pirkimuose arba Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, įgyvendinamuose institucijos ar įstaigos, kurioje deklaruojantis asmuo dirba, arba jai pavaldžios institucijos ar įstaigos;
+
+
+
+
+2) dėl jo, sutuoktinio, sugyventinio, partnerio ryšių su juridiniais ir fiziniais asmenimis sudarius sandorį, kurio vertė didesnė negu 3 000 eurų, įskaitant individualios veiklos sandorius. Deklaracijoje pateikiama informacija apie sandorius, sudarytus per 12 mėnesių iki deklaracijos pateikimo dienos;
+
+
+
+
+3) dėl jo ar jam artimų asmenų narystės ar (ir) einamų pareigų juridiniuose asmenyse, išskyrus narystę politinėse partijose ir profesinėse sąjungose;
+
+
+
+
+4) dėl jam artimo asmens ar kito asmens arba dėl su šiais asmenimis arba juo pačiu susijusių duomenų.
+
+
+
+
+
+
+3. Deklaruojantis asmuo gali nenurodyti artimo asmens ir jo privačių interesų, jeigu šie duomenys yra įslaptinti ir (ar) artimas asmuo vykdo žvalgybą, kontržvalgybą arba kriminalinę žvalgybą.
+
+
+
+
+4. Deklaruojančio asmens privačiais interesais nelaikomi šio straipsnio 2 dalyje nurodyti su artimais asmenimis susiję duomenys, kurie deklaruojančiam asmeniui objektyviai negali būti žinomi. 
  
 
 
-
-
-5) per paskutinius 12 kalendorinių mėnesių gautas dovanas (išskyrus artimų asmenų dovanas), jeigu dovanų vertė didesnė negu 150 eurų; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1274, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15007
- 
-
-
-
-
-6) informaciją apie per paskutinius 12 kalendorinių mėnesių sudarytus ir kitus galiojančius sandorius, jeigu sandorio vertė didesnė negu 3 000 eurų;
-Straipsnio punkto pakeitimai:
-Nr. XII-1274, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15007
- 
-
-
-
-
-7) artimus asmenis ar kitus jam žinomus asmenis arba duomenis, dėl kurių gali kilti interesų konfliktas. 
-Straipsnio punkto pakeitimai:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
- 
-
-
-
-
-
-
-2. Deklaruojantis asmuo gali nenurodyti duomenų apie sutuoktinį, sugyventinį, partnerį, jeigu sutuoktiniai, sugyventiniai, partneriai gyvena skyrium, neturi bendro namų ūkio ir dėl to šie duomenys jam nėra žinomi.
-
-
-Straipsnio pakeitimai:
-Nr. IX-244, 2001 04 10, Žin., 2001, Nr. 35-1165 (2001 04 25)
-Nr. IX-1912, 2003-12-18, Žin., 2003, Nr. 123-5584 (2003-12-30)
-Nr. IX-2274, 2004-06-15, Žin., 2004, Nr. 98-3630 (2004-06-24)
-Nr. X-316, 2005-07-05, Žin., 2005, Nr. 88-3286 (2005-07-21)
-Nr. X-1667, 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
-Nr. XI-2063, 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
-Nr. XII-870, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
- 
 
 
 
@@ -316,125 +374,58 @@ Nr. XII-870, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
 7 straipsnis. Deklaracijos tikslinimas ir papildymas
 
 
-1. Jeigu atsirado naujų šio įstatymo 6 straipsnio 1 dalyje išvardytų duomenų ar pasikeitė pateiktoje deklaracijoje nurodyti duomenys, deklaruojantis asmuo privalo deklaraciją patikslinti per 30 kalendorinių dienų nuo duomenų pasikeitimo ar naujų duomenų atsiradimo dienos.
-
-
-
-
-2. Jeigu paaiškėja naujos aplinkybės, dėl kurių gali kilti interesų konfliktas, deklaruojantis asmuo privalo deklaraciją papildyti nedelsdamas, bet ne vėliau kaip per 7 kalendorines dienas nuo šių aplinkybių paaiškėjimo.
-
-
-
-
-3. Pasikeitus deklaracijos formai ir (ar) deklaracijos pildymo, tikslinimo, papildymo ir pateikimo taisyklėms, deklaruojantis asmuo per Vyriausiosios tarnybinės etikos komisijos nustatytą terminą privalo pateikti naują ar patikslintą, papildytą deklaraciją.
-
-
-Straipsnio pakeitimai:
-Nr. X-316, 2005-07-05, Žin., 2005, Nr. 88-3286 (2005-07-21)
-Nr. X-1667, 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
-Nr. XI-2063, 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
-Straipsnio pakeitimai:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
+Jeigu atsirado naujų šio įstatymo 6 straipsnio 1 ir 2 dalyse nurodytų duomenų ar privačių interesų, pasikeitė pateiktoje deklaracijoje nurodyti duomenys ar privatūs interesai, deklaruojantis asmuo privalo nedelsdamas, bet ne vėliau kaip per 30 kalendorinių dienų, patikslinti arba papildyti deklaraciją.
  
 
 
 
 
-8 straipsnis. Deklaracijos forma ir saugojimas 
 
 
-1. Deklaracijos formą, deklaracijos pildymo, tikslinimo, papildymo ir pateikimo taisykles, taip pat deklaracijų saugojimo tvarką nustato Vyriausioji tarnybinės etikos komisija.
+8 straipsnis. Deklaracijos forma 
+
+
+1. Deklaracijos formą, deklaracijos pildymo, tikslinimo, papildymo ir pateikimo taisykles nustato VTEK.
 
 
 
 
-2. Pasikeitus deklaracijos formai ir (ar) deklaracijos pildymo, tikslinimo, papildymo ir pateikimo taisyklėms, Vyriausioji tarnybinės etikos komisija nustato naujos ar patikslintos, papildytos deklaracijos pateikimo terminą, ne trumpesnį kaip 30 kalendorinių dienų nuo nurodytų dokumentų pakeitimo įsigaliojimo dienos.
-
-
-Straipsnio pakeitimai:
-Nr. X-316, 2005-07-05, Žin., 2005, Nr. 88-3286 (2005-07-21)
-Nr. X-1667, 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
-Straipsnio pakeitimai:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
+2. VTEK, pakeitusi deklaracijos formą ir (ar) deklaracijos pildymo, tikslinimo, papildymo ir pateikimo taisykles, prireikus gali nustatyti ne trumpesnį kaip 30 kalendorinių dienų terminą, per kurį deklaruojantys asmenys turi pateikti naują deklaraciją ar patikslinti, papildyti pateiktąją.
  
 
 
 
 
-9 straipsnis. Deklaracijos duomenų tikrinimas 
 
 
-Deklaracijoje pateiktus duomenis gali tikrinti:
+9 straipsnis. Deklaracijos tikrinimas
 
 
-1) institucijos, kurioje asmuo dirba, vadovas ar jo įgalioti asmenys;
-
-
-
-
-2) Vyriausioji tarnybinės etikos komisija;
-
-
-
-
-3) valstybinė mokesčių inspekcija;
-
-
-
-
-4) teisėsaugos institucijos teisės aktų nustatyta tvarka;
-
-
-
-
-5) audito ir kontrolės funkcijas atliekančios institucijos teisės aktų nustatyta tvarka.
-Papildyta straipsnio punktu:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
+Deklaracijoje pateiktus duomenis ir privačius interesus gali tikrinti institucijos ar įstaigos, kurioje deklaruojantis asmuo dirba, vadovas ar jo įgaliotas asmuo, perkančiojo subjekto vadovas ar jo įgaliotas asmuo arba VTEK.
  
 
 
 
 
-Straipsnio pakeitimai:
-Nr. X-316, 2005-07-05, Žin., 2005, Nr. 88-3286 (2005-07-21)
+
+
+10 straipsnis. Deklaracijų duomenų viešumas
+
+
+1. Aktualių deklaracijų duomenys (išskyrus asmenų, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti ir (arba) kurie vykdo žvalgybą, kontržvalgybą arba kriminalinę žvalgybą, deklaracijas) yra vieši.
+
+
+
+
+2. VTEK, turėdama pagrįstų duomenų apie deklaruojančio asmens statuso praradimą arba gavusi deklaruojančio asmens statusą praradusio asmens prašymą ir patikrinusi jo pagrįstumą, nutraukia deklaracijos viešą skelbimą. 
+
+
+
+
+3. Negali būti viešai skelbiami deklaracijoje nurodyti asmens kodas, specialiųjų kategorijų asmens duomenys, kitos sandorio šalies, kuri yra fizinis asmuo, asmens duomenys, pagal šio įstatymo 6 straipsnio 2 dalies 2 ir 4 punktus deklaruojamų kitų fizinių asmenų asmens duomenys, daugiabučių gyvenamųjų namų savininkų ar sodininkų bendrijų duomenys, taip pat kiti duomenys, kuriuos skelbti draudžiama pagal įstatymus.
  
 
 
-
-
-10 straipsnis. Privačių interesų duomenų viešumas
-
-
-1. Valstybės politikų, valstybės pareigūnų, teisėjų, valstybės ir savivaldybių institucijų vadovų ir jų pavaduotojų, politinio (asmeninio) pasitikėjimo valstybės tarnautojų, valstybės tarnautojų, einančių institucijų ar įstaigų struktūrinių padalinių vadovų ir jų pavaduotojų pareigas, valstybės ir savivaldybių įmonių, biudžetinių įstaigų vadovų ir jų pavaduotojų, viešųjų įstaigų ir asociacijų, kurios gauna lėšų iš Lietuvos valstybės ar savivaldybių biudžetų ir fondų, vadovų ir jų pavaduotojų, Lietuvos banko darbuotojų, turinčių viešojo administravimo įgaliojimus (atliekančių finansų rinkos priežiūros, vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme funkcijas ir kitas viešojo administravimo funkcijas), akcinių bendrovių ir uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, stebėtojų tarybų, valdybų narių, vadovų ir jų pavaduotojų, valstybės ir savivaldybių įmonių valdybų narių, politinių partijų pirmininkų ir jų pavaduotojų, valstybės politikų visuomeninių konsultantų, padėjėjų, patarėjų, Lietuvos Respublikos Seimo komitetų patvirtintų ekspertų, ministerijų kolegijų narių, Privalomojo sveikatos draudimo tarybos narių, Privalomojo sveikatos draudimo tarybos visuomeninių patarėjų, Nacionalinės sveikatos tarybos narių, gydytojų, odontologų ir farmacijos specialistų, dirbančių biudžetinėse ir viešosiose įstaigose, kurių savininkė yra valstybė ar savivaldybė, valstybės ir savivaldybių įmonėse bei įmonėse, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, turinčiose asmens sveikatos priežiūros ar vaistinės veiklos licenciją, taip pat viešojo pirkimo komisijos narių, asmenų, perkančiosios organizacijos vadovo paskirtų atlikti supaprastintus pirkimus, ir viešųjų pirkimų procedūrose dalyvaujančių ekspertų (išskyrus deklaracijų duomenis asmenų, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti ir (arba) kurie vykdo žvalgybą, kontržvalgybą arba kriminalinę žvalgybą) deklaracijų duomenys yra vieši ir Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka skelbiami Vyriausiosios tarnybinės etikos komisijos interneto svetainėje. Asmens, kurio deklaracijos duomenys yra vieši, praradusio deklaruojančio asmens statusą, prašymu Vyriausioji tarnybinės etikos komisija organizuoja deklaracijos viešo skelbimo Vyriausiosios tarnybinės etikos komisijos interneto svetainėje nutraukimą. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
-Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
-Nr. XIII-366, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08725
- 
-
-
-
-
-2. Negali būti viešai skelbiami deklaracijoje nurodyti asmens kodas, valstybinio socialinio draudimo pažymėjimo numeris, ypatingi asmens duomenys, taip pat kiti duomenys, kuriuos skelbti draudžiama pagal įstatymus. Be to, neskelbiami kitos sandorio šalies fizinio asmens duomenys. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
- 
-
-
-
-
-3. Valstybinėje tarnyboje dirbančių asmenų privačių interesų duomenų viešumui užtikrinti Valstybės registrų įstatymo nustatyta tvarka steigiamas Privačių interesų registras.
-
-
-Straipsnio pakeitimai:
-Nr. VIII-1936, 2000 09 19, Žin., 2000, Nr. 85-2574 (2000 10 11)
-Nr. IX-244, 2001 04 10, Žin., 2001, Nr. 35-1165 (2001 04 25)
-Nr. IX-1505, 2003-04-17, Žin., 2003, Nr. 42-1911 (2003-05-01)
-Nr. IX-1809, 2003-11-06, Žin., 2003, Nr. 111-4929 (2003-11-26)
-Nr. X-316, 2005-07-05, Žin., 2005, Nr. 88-3286 (2005-07-21)
-Nr. X-1667, 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
-Nr. XII-870, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
- 
 
 
 
@@ -442,85 +433,57 @@ Nr. XII-870, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
 
 
 TREČIASIS SKIRSNIS
-REIKALAVIMAI ASMENIMS, DIRBANTIEMS VALSTYBINĖJE
-TARNYBOJE
+DEKLARUOJANČIŲ ASMENŲ PAREIGOS IR JIEMS TAIKOMI APRIBOJIMAI 
  
 
 
-11 straipsnis. Pareiga nusišalinti 
+11 straipsnis. Deklaruojančio asmens pareiga nusišalinti 
 
 
-1. Asmeniui, dirbančiam valstybinėje tarnyboje, draudžiama dalyvauti rengiant, svarstant ar priimant sprendimus arba kitaip paveikti sprendimus, kurie sukelia interesų konfliktą. 
-
-
-
-
-2. Prieš pradedant tokio sprendimo rengimo, svarstymo ar priėmimo procedūrą arba pačios procedūros metu asmuo, dirbantis valstybinėje tarnyboje, privalo informuoti savo institucijos vadovą ar institucijos vadovo įgaliotą atstovą arba kolegialią valstybės ar savivaldybės instituciją, kurios nariu jis yra, ir asmenis, kurie kartu dalyvauja rengiant, svarstant ar priimant sprendimą, apie esamą interesų konfliktą, pareikšti apie nusišalinimą ir jokia forma nedalyvauti toliau rengiant, svarstant ar priimant sprendimą. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
- 
+1. Deklaruojančiam asmeniui draudžiama dalyvauti rengiant, svarstant ar priimant sprendimus arba kitaip juos paveikti ar bandyti paveikti, arba atlikti kitas tarnybines pareigas (toliau – atlikti tarnybines pareigas), jeigu atliekamos tarnybinės pareigos yra susijusios su jo privačiais interesais. 
 
 
 
 
-3. Institucijos vadovas ar jo įgaliotas atstovas arba kolegiali valstybės ar savivaldybės institucija, vadovaudamiesi Vyriausiosios tarnybinės etikos komisijos patvirtintais kriterijais, motyvuotu rašytiniu sprendimu gali nepriimti pareikšto nusišalinimo ir įpareigoti asmenį dalyvauti toliau rengiant, svarstant ar priimant sprendimą. Duomenys apie sprendimą nepriimti pareikšto nusišalinimo elektroninėmis priemonėmis per penkias darbo dienas nuo sprendimo priėmimo dienos pateikiami Vyriausiajai tarnybinės etikos komisijai jos nustatyta tvarka. 
-Papildyta straipsnio dalimi:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
- 
+2. Apie šio straipsnio 1 dalyje nurodytus atvejus, prieš atlikdamas tarnybines pareigas arba pradėjęs jas atlikti, deklaruojantis asmuo privalo informuoti institucijos ar įstaigos vadovą ar jo įgaliotą asmenį, o kai deklaruojantis asmuo yra institucijos ar įstaigos vadovas, – šį vadovą į pareigas priimantį ar skiriantį subjektą arba kolegialią valstybės ar savivaldybių instituciją ir asmenis, kurie kartu atlieka tarnybines pareigas, ir pareikšti apie nusišalinimą, ir jokia forma nedalyvauti toliau atliekant tarnybines pareigas. Ši straipsnio dalis gali būti netaikoma institucijos ar įstaigos vadovui sprendžiant su juo pačiu susijusius einamuosius vidaus administravimo klausimus, jeigu konkrečios išimtys yra numatytos jį į pareigas priimančio ar skiriančio subjekto arba kolegialios valstybės ar savivaldybių institucijos sprendime, kuris yra paskelbtas viešai. 
 
 
 
 
-4. Asmuo, dirbantis valstybinėje tarnyboje, privalo vykdyti institucijos vadovo ar jo įgalioto atstovo rašytines išankstines rekomendacijas, nuo kokių sprendimų rengimo, svarstymo ar priėmimo jis privalo nusišalinti. Šios rekomendacijos, remiantis deklaracijomis arba asmens prašymu, yra sudaromos konkrečiai situacijai. Išankstines rekomendacijas asmuo, dirbantis valstybinėje tarnyboje, gali skelbti viešai savo nuožiūra.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
- 
+3. Institucijos ar įstaigos vadovas ar jo įgaliotas atstovas, o kai deklaruojantis asmuo yra institucijos ar įstaigos vadovas, šį vadovą į pareigas priimantis ar skiriantis subjektas arba kolegiali valstybės ar savivaldybių institucija, vadovaudamiesi VTEK nustatytais kriterijais, motyvuotu rašytiniu sprendimu gali nepriimti deklaruojančio asmens pareikšto nusišalinimo ir įpareigoti jį toliau atlikti tarnybines pareigas.
 
 
 
 
-5. Neteko galios nuo 2016-01-01
-Straipsnio dalies naikinimas:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
- 
+4. Kai nuo tarnybinių pareigų atlikimo nusišalina arba yra nušalinamas institucijos ar įstaigos vadovas, institucijoje ar įstaigoje šias tarnybines pareigas atliekant kitiems asmenims priimami sprendimai turi būti suderinti su institucijos ar įstaigos vadovą į pareigas priimančiu ar skiriančiu subjektu arba kolegialia valstybės ar savivaldybių institucija, arba jų įgaliotu asmeniu.
 
 
 
 
-6. Institucijos vadovas arba jo įgaliotas atstovas motyvuotu rašytiniu sprendimu nušalina valstybinėje tarnyboje dirbantį asmenį nuo konkretaus sprendimo rengimo, svarstymo ar priėmimo procedūros, kitų tarnybinių pareigų atlikimo, jeigu yra pakankamas pagrindas manyti, kad šio asmens dalyvavimas sukels interesų konfliktą.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
- 
+5. Deklaruojantis asmuo privalo vykdyti VTEK, institucijos ar įstaigos vadovo ar jo įgalioto asmens, o kai deklaruojantis asmuo yra institucijos ar įstaigos vadovas, šį vadovą į pareigas priimančio ar skiriančio subjekto arba kolegialios valstybės ar savivaldybių institucijos rašytines išankstines rekomendacijas, nuo kokių tarnybinių pareigų atlikimo jis privalo nusišalinti. Šios rekomendacijos, remiantis deklaracijomis arba asmens prašymu, yra sudaromos dėl konkrečios situacijos. Išankstines rekomendacijas deklaruojantis asmuo gali skelbti viešai savo nuožiūra.
+
+
+
+
+6. Institucijos ar įstaigos vadovas ar jo įgaliotas asmuo, o kai deklaruojantis asmuo yra institucijos ar įstaigos vadovas, šį vadovą į pareigas priimantis ar skiriantis subjektas arba kolegiali valstybės ar savivaldybių institucija motyvuotu rašytiniu sprendimu nušalina deklaruojantį asmenį nuo tarnybinių pareigų atlikimo, jeigu yra pakankamas pagrindas manyti, kad šio asmens dalyvavimas yra susijęs su jo privačiais interesais ir sukels interesų konfliktą.
 
 
 
 
 7. Respublikos Prezidentui, Seimo ir Vyriausybės nariams, savivaldybių tarybų nariams, teisėjams, prokurorams, ikiteisminio tyrimo pareigūnams ir kitiems pareigūnams, kuriems viešųjų interesų viršenybės užtikrinimo būdai nustatomi jų veiklą reglamentuojančiuose įstatymuose, šio straipsnio nuostatos taikomos tiek, kiek jų veiklą reglamentuojančiuose įstatymuose nenustatyti viešųjų interesų viršenybės užtikrinimo būdai.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
+
+
+
+
+8. Perkančiųjų subjektų vadovų, perkančiojo subjekto pirkimo komisijos narių, perkančiojo subjekto vadovo paskirtų atlikti supaprastintus pirkimus asmenų, perkančiojo subjekto atliekamų pirkimų procedūrose dalyvaujančių ekspertų, pirkimo iniciatorių nusišalinimo tvarkos aprašą tvirtina VTEK kartu su Viešųjų pirkimų tarnyba.
+
+
+
+
+9. Duomenys apie sprendimą nepriimti pareikšto nusišalinimo elektroninėmis priemonėmis per penkias darbo dienas nuo sprendimo priėmimo dienos pateikiami VTEK jos nustatyta tvarka.
  
 
 
-
-
-8. Šio straipsnio nuostatos taikomos akcinių bendrovių bei uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, stebėtojų tarybų ir valdybų nariams, valstybės ir savivaldybių įmonių valdybų nariams, taip pat viešojo pirkimo komisijos nariams, asmenims, perkančiosios organizacijos vadovo paskirtiems atlikti supaprastintus pirkimus, ir viešųjų pirkimų procedūrose dalyvaujantiems ekspertams. 
-Papildyta straipsnio dalimi:
-Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
- 
-
-
-
-
-9. Viešojo pirkimo komisijos narių, asmenų, perkančiosios organizacijos vadovo paskirtų atlikti supaprastintus pirkimus, ir viešųjų pirkimų procedūrose dalyvaujančių ekspertų nusišalinimo tvarkos aprašą tvirtina Vyriausioji tarnybinės etikos komisija kartu su Viešųjų pirkimų tarnyba. 
-Papildyta straipsnio dalimi:
-Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
- 
-
-
-Straipsnio pakeitimai:
-Nr. IX-1438, 2003-04-03, Žin., 2003, Nr. 38-1683 (2003-04-24)
-Nr. XI-2063, 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
- 
 
 
 
@@ -528,147 +491,77 @@ Nr. XI-2063, 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
 12 straipsnis. Teisės atstovauti apribojimai 
 
 
-1. Asmuo, dirbantis valstybinėje tarnyboje, negali atstovauti valstybei ar savivaldybei arba valstybės, savivaldybės institucijoms: 
+1. Valstybinėje tarnyboje dirbantis asmuo neturi teisės atstovauti valstybei ar savivaldybei arba institucijai  ar įstaigai: 
 
 
-1) tvarkydamas reikalus su fiziniais ar juridiniais asmenimis, iš kurių jis ar jam artimi asmenys gauna bet kurios rūšies pajamų; 
-
-
-
-
-2) tvarkydamas reikalus su visų rūšių įmonėmis, kuriose jis ar jam artimi asmenys turi daugiau kaip 10 procentų įstatinio kapitalo arba akcijų.
+1) tvarkydamas reikalus su fiziniais ar juridiniais asmenimis, iš kurių jis ar jam artimi asmenys gauna bet kokių pajamų; 
 
 
 
 
+2) tvarkydamas reikalus su juridiniais asmenimis, kuriuose jis ar jam artimi asmenys turi daugiau kaip 10 procentų akcijų ar kitų juridinio asmens dalyvio teisių kitų teisinių formų juridiniuose asmenyse.
 
 
-2. Asmuo, dirbantis valstybinėje tarnyboje, negali atstovauti privačioms grupėms ar asmenims ir ginti jų interesų valstybės ar savivaldybių institucijose, išskyrus atvejus, kai jis veikia kaip atstovas pagal įstatymą. Skundų ir pareiškimų nagrinėjimas, tyrimas ir svarstymas nelaikomas atstovavimu privačioms grupėms ar asmenims.
-Straipsnio dalies pakeitimai:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
+
+
+
+
+2. Valstybinėje tarnyboje dirbantis asmuo neturi teisės atstovauti fiziniams ar juridiniams asmenims ir ginti jų interesų institucijoje ar įstaigoje, kurioje jis dirba, o jei įstaiga, kurioje jis dirba, priklauso įstaigų sistemai, – bet kurioje tos įstaigų sistemos įstaigoje. 
+
+
+
+
+3. Šio straipsnio 2 dalyje nurodytas apribojimas netaikomas, kai:
+
+
+1) valstybinėje tarnyboje dirbantis asmuo veikia kaip fizinio asmens atstovas pagal įstatymą (vaiko tėvas (įtėvis), motina (įmotė), vaiko globėjas (rūpintojas) arba įstatymų nustatyta tvarka teismo paskirtas pilnamečio asmens globėjas (rūpintojas);
+
+
+
+
+2) valstybinėje tarnyboje dirbantis asmuo atstovauja kitai savo darbovietei, kuri yra viešojo sektoriaus subjektas.
+
+
+
+
+
+
+4. Šio straipsnio 1 ir 2 dalyse nurodytų apribojimų išimtis, konkrečiais atvejais įvertinę interesų konflikto riziką, taip pat gali nustatyti institucijos ar įstaigos vadovas ar jo įgaliotas atstovas, savininko teises ir pareigas įgyvendinantis subjektas, visuotinis akcininkų susirinkimas, stebėtojų taryba arba valdyba. Sprendimas taikyti šioje dalyje numatytą išimtį turi būti paskelbtas viešai.
  
 
 
 
 
-3. Šio straipsnio 1 ir 2 dalyse išvardytų apribojimų išimtis konkrečiu atveju gali nustatyti atitinkamos institucijos vadovas ar jo įgaliotas atstovas. Sprendimas apie išimties taikymą turi būti viešai paskelbtas. 
 
 
-Straipsnio pakeitimai:
-Nr. X-1667, 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
+13 straipsnis. Dovanų ar paslaugų priėmimo apribojimai 
+
+
+1. Deklaruojantis asmuo ar jam artimas asmuo negali priimti dovanų ar paslaugų, jeigu tai susiję su deklaruojančio asmens tarnybine padėtimi ar tarnybinėmis pareigomis.
+
+
+
+
+2. Šio straipsnio 1 dalyje nustatytas apribojimas netaikomas dėl ne didesnės negu 150 eurų vertės dovanų, gautų pagal tarptautinį protokolą ar tradicijas, kurios įprastai yra susijusios su valstybinėje tarnyboje dirbančio asmens pareigomis, taip pat dėl reprezentacijai skirtų dovanų su valstybės, įstaigos ir kitokia simbolika arba kai paslaugomis yra naudojamasi tarnybiniais tikslais.
+
+
+
+
+3. Kai šio straipsnio 2 dalyje nurodytos dovanos vertė viršija 150 eurų, ši dovana yra laikoma valstybės ar savivaldybės nuosavybe. Tokia dovana įvertinama ir saugoma institucijos ar įstaigos vadovo nustatyta tvarka. 
  
 
 
 
 
-13 straipsnis. Tarnybinių teisių apribojimas 
 
 
-1. Asmuo, dirbantis valstybinėje tarnyboje, negali naudoti savo pareigų, galių ir vardo, siekdamas paveikti kitų asmenų sprendimą, kuris sukeltų interesų konfliktą. 
+14 straipsnis. Pareiga raštu informuoti apie susitarimą 
 
 
-
-
-2. Asmuo, dirbantis valstybinėje tarnyboje, negali savo ar jam artimų asmenų privačių interesų naudai naudotis ir leisti naudotis informacija, kurią jis įgijo eidamas pareigas, kitokia tvarka ir mastu, negu nustato įstatymai ar kiti teisės aktai.
-
-
-
-
-3. Šio straipsnio nuostatos taip pat taikomos akcinių bendrovių bei uždarųjų akcinių bendrovių, kurių akcijos, suteikiančios daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ar savivaldybei, stebėtojų tarybų ir valdybų nariams, valstybės ir savivaldybių įmonių valdybų nariams, ministerijų kolegijų nariams, Lietuvos Respublikos Seimo komitetų patvirtintiems ekspertams, Privalomojo sveikatos draudimo tarybos nariams, Privalomojo sveikatos draudimo tarybos visuomeniniams patarėjams, Nacionalinės sveikatos tarybos nariams, gydytojams, odontologams ir farmacijos specialistams, nurodytiems šio įstatymo 4 straipsnio 1 dalyje, taip pat viešojo pirkimo komisijos nariams, asmenims, perkančiosios organizacijos vadovo paskirtiems atlikti supaprastintus pirkimus, ir viešųjų pirkimų procedūrose dalyvaujantiems ekspertams. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
-Nr. XIII-366, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08725
+Valstybinėje tarnyboje dirbantis asmuo privalo nedelsdamas raštu informuoti savo institucijos ar įstaigos vadovą ar jo įgaliotą asmenį apie tai, kad jis priėmė siūlymą pereiti į kitą darbą. Institucijos ar įstaigos vadovas ar jo įgaliotas asmuo, nustatęs, kad šis asmuo yra artimai tarnybos santykiais susijęs su būsimuoju darbdaviu, turi nedelsdamas imtis priemonių, kad būtų pašalinta interesų konflikto grėsmė. 
  
 
 
-Straipsnio pakeitimai:
-Nr. X-1667, 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
-Nr. XII-870, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05351
- 
-
-
-
-
-14 straipsnis. Dovanų ar paslaugų priėmimo ir teikimo apribojimai 
-
-
-1. Asmuo, dirbantis valstybinėje tarnyboje, negali priimti dovanų ar paslaugų arba jas teikti, jeigu tai gali sukelti šio įstatymo 2 straipsnyje numatytą viešųjų ir privačių interesų konfliktą.
-
-
-
-
-2. Šio straipsnio 1 dalyje nustatytas apribojimas netaikomas asmenims, gavusiems dovanų ar paslaugų pagal tarptautinį protokolą ar tradicijas, kurios įprastai yra susijusios su asmens, dirbančio valstybinėje tarnyboje, pareigomis, taip pat reprezentacijai skirtoms dovanoms (valstybės, įstaigos ir kitokia simbolika, kalendoriai, knygos ir kitokie informacinio pobūdžio spaudiniai), kurių vertė neviršija 30 eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1274, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15007
- 
-
-
-
-
-3. Jeigu šio straipsnio 2 dalyje nurodytos dovanos vertė viršija 30 eurų, ši dovana yra laikoma valstybės ar savivaldybės nuosavybe. Tokia dovana įvertinama ir saugoma Vyriausybės nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XII-1274, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15007
- 
-
-
-
-
-4. Valstybinėje tarnyboje dirbantis asmuo, kuris asmeniškai ar per tarpininkus priėmė leidžiamo dydžio dovaną iš fizinio ar juridinio asmens ir dėl to gali kilti viešųjų ir privačių interesų konfliktas, vienerius metus negali dalyvauti rengiant, svarstant ar priimant sprendimus ar atlikti kitų tarnybinių pareigų dėl šio asmens. 
-
-
-Straipsnio pakeitimai:
-Nr. X-1667, 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
-Nr. XI-2063, 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
- 
-
-
-
-
-15 straipsnis. Kiti apribojimai ir draudimai 
-
-
-1. Valstybinėje tarnyboje dirbantys asmenys, teisės aktų nustatyta tvarka pripažinti pažeidusiais šio įstatymo antrojo skirsnio reikalavimus, vienerius metus nuo pažeidimo paaiškėjimo dienos negali būti skatinami. Valstybinėje tarnyboje dirbantys asmenys, teisės aktų nustatyta tvarka pripažinti pažeidusiais kitus šio įstatymo reikalavimus, vienerius metus, o asmenys, pripažinti šiurkščiai pažeidę šio įstatymo reikalavimus, trejus metus nuo pažeidimo paaiškėjimo dienos negali būti skatinami, priimami, skiriami ar renkami į aukštesnes pareigas. Asmenys, atleisti už šio įstatymo pažeidimą iš pareigų, trejus metus nuo atleidimo iš pareigų dienos negali būti priimami, skiriami ar renkami į pareigas valstybinėje tarnyboje. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
- 
-
-
-
-
-2. Asmenims, dirbantiems valstybinėje tarnyboje, kituose įstatymuose gali būti nustatyta ir kitų apribojimų ir draudimų, susijusių su šio įstatymo, Korupcijos prevencijos įstatymo, Valstybės tarnybos įstatymo, Politikų elgesio kodekso ar kito teisės akto, reglamentuojančio tarnybinės etikos ir elgesio normas, reikalavimų pažeidimais.
-
-
-
-
-3. Asmuo laikomas šiurkščiai pažeidusiu šio įstatymo nuostatas, jeigu: 
-
-
-1) šio įstatymo nuostatos pažeistos, nors asmeniui jau buvo pateiktos išankstinės rašytinės rekomendacijos, nuo kokių sprendimų rengimo, svarstymo ar priėmimo jis privalo nusišalinti; 
-
-
-
-
-2) šio įstatymo nuostatos pažeistos pakartotinai per vienerius metus nuo tos dienos, kurią asmuo buvo pripažintas pažeidęs šį įstatymą. 
-
-
-Papildyta straipsnio dalimi:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
- 
-
-
-
-
-4. Jeigu asmuo per vienerius metus, o šiurkštaus šio įstatymo pažeidimo arba atleidimo už šio įstatymo pažeidimą atveju – per trejus metus nuo tos dienos, kurią buvo pripažintas pažeidęs šio įstatymo reikalavimus, nebuvo dar kartą pripažintas padaręs šio įstatymo pažeidimą, laikoma, kad jis šio įstatymo nėra pažeidęs. 
-Papildyta straipsnio dalimi:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
- 
-
-
-Straipsnio pakeitimai:
-Nr. IX-1809, 2003-11-06, Žin., 2003, Nr. 111-4929 (2003-11-26)
-Nr. X-1667, 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
-Nr. XI-2063, 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
- 
 
 
 
@@ -676,22 +569,57 @@ Nr. XI-2063, 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
 
 
 KETVIRTASIS SKIRSNIS
-PRIEVOLĖS IEŠKANT KITO DARBO
+APRIBOJIMAI PASIBAIGUS TARNYBAI
  
 
 
-16 straipsnis. Neteko galios nuo 2016-01-01
-Straipsnio naikinimas:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
+15 straipsnis. Apribojimai dirbti
+
+
+Asmuo, nustojęs dirbti valstybinėje tarnyboje, vienus metus negali dirbti juridiniame asmenyje, su kurio veiklos priežiūra ir kontrole per paskutinius vienus darbo metus buvo tiesiogiai susijusios jo tarnybinės pareigos arba dėl kurio rengiant, svarstant ar priimant sprendimus jis dalyvavo, įskaitant sprendimus konkurso ar kitokiu būdu teikti valstybės užsakymus ar finansinę paramą.
  
 
 
 
 
-17 straipsnis. Prievolė raštu informuoti apie susitarimą 
 
 
-Asmuo, dirbantis valstybinėje tarnyboje, privalo nedelsdamas raštu informuoti savo institucijos vadovą ar jo įgaliotą atstovą apie tai, kad jis priėmė siūlymą pereiti į kitą darbą. Institucijos vadovas ar jo įgaliotas atstovas, nustatęs, kad šis asmuo yra artimai tarnybos santykiais susijęs su būsimuoju darbdaviu, turi nedelsdamas imtis priemonių, kad būtų pašalinta interesų konflikto grėsmė. 
+16 straipsnis. Apribojimai sudaryti sandorius ar naudotis individualiomis lengvatomis 
+
+
+1. Asmuo, nustojęs dirbti valstybinėje tarnyboje, ar juridinis asmuo, kuriame jis ar jam artimi asmenys turi daugiau kaip 10 procentų akcijų ar kitų juridinio asmens dalyvio teisių kitų teisinių formų juridiniuose asmenyse, vienus metus neturi teisės sudaryti sandorių su institucija ar įstaiga, kurioje paskutinius metus šis asmuo dirbo, ir naudotis šios institucijos ar įstaigos teikiamomis individualiomis lengvatomis.
+
+
+
+
+2. Šio straipsnio 1 dalyje nustatyti apribojimai netaikomi dėl sandorių, kurie buvo sudaryti anksčiau, negu asmuo pradėjo dirbti valstybinėje tarnyboje, arba yra pratęsiami, taip pat dėl sandorių, kurie sudaromi viešo konkurso būdu, ir sandorių, kurių suma per metus neviršija 5 000 eurų.
+ 
+
+
+
+
+
+
+17 straipsnis. Atstovavimo apribojimai 
+
+
+1. Asmuo, nustojęs dirbti valstybinėje tarnyboje, vienus metus negali atstovauti fiziniams asmenims (išskyrus atstovavimą šio įstatymo 12 straipsnio 3 dalies 1 punkte nustatytu pagrindu) ar juridiniams asmenims toje institucijoje ar įstaigoje, kurioje jis paskutinius vienus metus dirbo, o jei įstaiga, kurioje jis paskutinius metus dirbo, priklauso įstaigų sistemai, – bet kurioje šios įstaigų sistemos įstaigoje.
+
+
+
+
+2. Asmuo, nustojęs dirbti valstybinėje tarnyboje, vienus metus negali atstovauti fiziniams ar juridiniams asmenims institucijose ir įstaigose klausimais, kurie buvo priskirti jo tarnybinėms pareigoms. 
+ 
+
+
+
+
+
+
+18 straipsnis. Apribojimų netaikymas 
+
+
+VTEK konkrečiais atvejais gali priimti sprendimą dėl šio įstatymo 15, 16 ir 17 straipsniuose nustatytų apribojimų taikymo išimčių, kai apribojimų taikymas gali pakenkti visuomenės ar valstybės interesams. 
  
 
 
@@ -702,75 +630,101 @@ Asmuo, dirbantis valstybinėje tarnyboje, privalo nedelsdamas raštu informuoti 
 
 
 PENKTASIS SKIRSNIS
-APRIBOJIMAI PASIBAIGUS TARNYBAI
+PRIVAČIŲ INTERESŲ REGISTRAS
  
 
 
-18 straipsnis. Apribojimai sudaryti darbo sutartį
+19 straipsnis. Privačių interesų registras
 
 
-Asmuo, nustojęs eiti pareigas valstybinėje tarnyboje, vienerius metus neturi teisės dirbti įmonės ar jos kontroliuojamos įmonės vadovu, vadovo pavaduotoju, būti šios įmonės tarybos ar valdybos nariu, taip pat eiti kitas pareigas, tiesiogiai susijusias su sprendimų priėmimu įmonės valdymo, turto tvarkymo, finansų apskaitos ir kontrolės srityse, jeigu per paskutinius darbo metus jo tarnyba buvo tiesiogiai susijusi su įmonės ar jos kontroliuojamos įmonės veiklos priežiūra ar kontrole arba jeigu asmuo tiesiogiai dalyvavo rengiant, svarstant ar priimant palankius įmonei ar jos kontroliuojamai įmonei sprendimus konkurso ar kitokiu būdu teikti valstybės užsakymus ar finansinę paramą.
-
-
-Straipsnio pakeitimai:
-Nr. IX-244, 2001 04 10, Žin., 2001, Nr. 35-1165 (2001 04 25)
-Nr. XI-2063, 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
- 
+1. Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo nustatyta tvarka steigiamas Privačių interesų registras (toliau – Registras). Registro valdytoja ir tvarkytoja yra VTEK. VTEK yra ir Registre esančių asmens duomenų valdytoja.
 
 
 
 
-19 straipsnis. Apribojimai sudaryti sandorius ar naudotis individualiomis lengvatomis 
-
-
-1. Asmuo, nustojęs eiti pareigas valstybinėje tarnyboje, ar įmonė, kurioje jis ar jam artimi asmenys turi daugiau kaip 10 procentų įstatinio kapitalo ar turtinio įnašo arba dirba vadovavimo ar revizijos institucijose, vienerius metus neturi teisės sudaryti sandorių su institucija ar naudotis institucijos, kurioje paskutinius metus asmuo dirbo, teikiamomis individualiomis lengvatomis.
-Straipsnio dalies pakeitimai:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
- 
+2. Registras skirtas Registro objektams registruoti, Registro duomenims rinkti, kaupti, apdoroti, sisteminti, saugoti ir teikti Registro duomenų gavėjams, kitiems Registro duomenų tvarkymo veiksmams atlikti. 
 
 
 
 
-2. Apribojimai, nustatyti šio straipsnio 1 dalyje, netaikomi sandoriui, kuris buvo sudarytas prieš tai, kai asmuo pradėjo eiti pareigas valstybinėje tarnyboje, arba yra pratęsiamas, taip pat sandoriui, kuris sudaromas viešo konkurso būdu, ir sandoriams, kurių suma per metus neviršija 3 000 eurų.
-Straipsnio dalies pakeitimai:
-Nr. XII-1274, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15007
- 
+3. Registro asmens duomenų tvarkymo tikslas – identifikuoti ir į apskaitą įtraukti Registro objektus, sudaryti sąlygas deklaruojantiems asmenims tinkamai įgyvendinti šiame įstatyme numatytas pareigas, sudaryti sąlygas VTEK bei kitoms institucijoms ir įstaigoms vertinti ir valdyti interesų konfliktų riziką, užkirsti kelią galimiems pažeidimams.
 
 
 
 
+4. Registro objektai yra:
 
 
-20 straipsnis. Atstovavimo apribojimai 
-
-
-1. Asmuo, nustojęs eiti pareigas valstybinėje tarnyboje, vienerius metus negali atstovauti fiziniams ar juridiniams asmenims toje institucijoje, kurioje jis paskutinius metus dirbo.
-
-
-
-
-2. Asmuo, nustojęs eiti pareigas valstybinėje tarnyboje, vienerius metus negali atstovauti fiziniams ar juridiniams asmenims kitose valstybės ar savivaldybių institucijose tais klausimais, kurie buvo priskirti jo tarnybinėms funkcijoms.
+1) deklaruojantys asmenys;
 
 
 
 
-3. Asmeniui, dirbančiam valstybinėje tarnyboje, neleidžiama turėti tarnybinių santykių su anksčiau valstybinėje tarnyboje dirbusiu asmeniu, kuriam taikomi šio straipsnio 1 dalies apribojimai. Asmuo, dirbantis valstybinėje tarnyboje, apie tokius tarnybinius santykius privalo ne vėliau kaip per septynias kalendorines dienas nuo šių tarnybinių santykių atsiradimo dienos raštu informuoti savo institucijos vadovą ar jo įgaliotą atstovą. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
- 
+2) deklaracijos;
 
 
-Straipsnio pakeitimai:
-Nr. IX-597, 2001-11-13, Žin., 2001, Nr. 99-3529 (2001-11-28)
+
+
+3) privatūs interesai.
  
 
 
 
 
-21 straipsnis. Apribojimų netaikymas 
 
 
-Šio įstatymo 18-20 straipsniuose išvardytų apribojimų taikymo išimtis konkrečiais atvejais, kai apribojimų taikymas gali pakenkti visuomenės ar valstybės interesams, nustato Vyriausioji tarnybinės etikos komisija. 
+
+
+20 straipsnis. Registro duomenų tvarkymas
+
+
+1. Registro duomenys tvarkomi vadovaujantis šiuo įstatymu, Registro nuostatais ir kitais teisės aktais.
+
+
+
+
+2. Registre tvarkomi aktualių deklaracijų duomenys, išskyrus šiame įstatyme numatytas išimtis, yra vieši ir skelbiami VTEK interneto svetainėje. Viešo asmens duomenų skelbimo tikslas – užkirsti kelią galimiems pažeidimams ir sudaryti sąlygas visuomenei įsitikinti priimamų sprendimų skaidrumu.
+
+
+
+
+3. Registro duomenys skelbiami tol, kol asmuo praranda deklaruojančio asmens statusą. Registro duomenų skelbimas nutraukiamas Registro nuostatų nustatyta tvarka.
+
+
+
+
+4. Registro objektų duomenys Registre saugomi 3 metus nuo deklaruojančio asmens statuso praradimo dienos. Pasibaigus Registro duomenų saugojimo terminui, Registro duomenys sunaikinami, išskyrus tuos, kurie teisės aktų nustatyta tvarka perduodami valstybės archyvui.
+
+
+
+
+5. Institucijos ir įstaigos, Lietuvos bankas ir kiti juridiniai asmenys Registro nuostatų nustatyta tvarka privalo teikti Registrui duomenis (įskaitant asmens duomenis ir specialių kategorijų asmens duomenis), būtinus šiame įstatyme nustatytiems tikslams pasiekti.
+ 
+
+
+
+
+
+
+21 straipsnis. Interesų konfliktų rizikos valdymo informacinė sistema
+
+
+1. Interesų konfliktų rizikos valdymo informacinė sistema yra valstybės informacinė sistema, skirta interesų konfliktų rizikos pasireiškimo tikimybei nustatyti būtinai informacijai ir asmens duomenims rinkti, kaupti, sisteminti, analizuoti, vertinti ir kitaip tvarkyti, interesų konfliktų rizikos stebėsenai vykdyti, duomenimis pagrįstiems sprendimams dėl rizikos valdymo priemonių parinkimo ir taikymo priimti. 
+
+
+
+
+2. Asmens duomenų tvarkymo Interesų konfliktų rizikos valdymo informacinėje sistemoje tikslas – interesų konfliktų rizikos stebėsena ir valdymas, interesų konfliktų prevencija.
+
+
+
+
+3. Interesų konfliktų rizikos valdymo informacinės sistemos valdytoja yra VTEK. VTEK yra ir Interesų konfliktų rizikos valdymo informacinėje sistemoje tvarkomų asmens duomenų valdytoja ir tvarkytoja.
+
+
+
+
+4. Institucijos ir įstaigos, Lietuvos bankas ir kiti juridiniai asmenys Interesų konfliktų rizikos valdymo informacinės sistemos nuostatų nustatyta tvarka privalo teikti Interesų konfliktų rizikos valdymo informacinei sistemai duomenis (įskaitant asmens duomenis ir specialių kategorijų asmens duomenis), būtinus šiame įstatyme nustatytiems tikslams pasiekti.
  
 
 
@@ -781,89 +735,120 @@ Nr. IX-597, 2001-11-13, Žin., 2001, Nr. 99-3529 (2001-11-28)
 
 
 ŠEŠTASIS SKIRSNIS
-ĮSTATYMO VYKDYMO KONTROLĖ
+ĮSTATYMO LAIKYMOSI KONTROLĖ IR ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
  
 
 
-22 straipsnis. Kontrolės institucijos ir pareigūnai 
+22 straipsnis. Kontrolės subjektai ir veiksmai 
 
 
-1. Kaip asmenys, kuriems taikomos šio įstatymo nuostatos, jį vykdo, kontroliuoja:
+1. Kaip deklaruojantys asmenys laikosi šio įstatymo, kontroliuoja ir prižiūri:
 
 
-1) Vyriausioji tarnybinės etikos komisija;
-
-
-
-
-2) atitinkamų valstybės ar savivaldybių institucijų, įstaigų vadovai ar jų įgalioti atstovai; 
+1) VTEK;
 
 
 
 
-3) perkančiosios organizacijos vadovas arba jo įgalioti asmenys (dėl viešojo pirkimo komisijos narių, asmenų, perkančiosios organizacijos vadovo paskirtų atlikti supaprastintus pirkimus, ir viešųjų pirkimų procedūrose dalyvaujančių ekspertų);
+2) institucijų ir įstaigų vadovai arba jų įgalioti asmenys;
 
 
 
 
-4) kitos valstybės institucijos teisės aktų nustatyta tvarka. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-323, 2017-04-27, paskelbta TAR 2017-05-08, i. k. 2017-07785
- 
+3) perkančiųjų subjektų vadovai arba jų įgalioti asmenys (dėl pirkimo komisijos narių, asmenų, perkančiojo subjekto vadovo paskirtų atlikti supaprastintus pirkimus, ir pirkimų procedūrose dalyvaujančių ekspertų, pirkimo iniciatorių);
 
 
 
 
-2. Valstybės ar savivaldybių institucijų, įstaigų vadovai ar jų įgalioti atstovai jiems pavaldiems asmenims, dirbantiems valstybinėje tarnyboje, teikia rekomendacijas dėl šio įstatymo nuostatų vykdymo. 
+4) kitos institucijos ir įstaigos ar pagal specialius įstatymus ir kitus teisės aktus sudarytos komisijos teisės aktų nustatyta tvarka. 
 
 
 
 
-3. Jeigu yra gauta pagrįstos informacijos apie tai, kad asmuo nevykdo šio įstatymo reikalavimų, valstybės ar savivaldybių institucijų, įstaigų vadovai ar jų įgalioti atstovai arba kolegiali valstybės ar savivaldybės institucija savo iniciatyva arba Vyriausiosios tarnybinės etikos komisijos pavedimu atlieka pavaldaus asmens, dirbančio valstybinėje tarnyboje, tarnybinės veiklos tyrimą. Apie tyrimo rezultatus informuojama Vyriausioji tarnybinės etikos komisija, kuri turi teisę vertinti, ar atlikto tyrimo išvadoje asmens veiksmų įvertinimas atitinka šio įstatymo nuostatas. Jeigu Vyriausioji tarnybinės etikos komisija pripažįsta, kad valstybės ar savivaldybės institucijoje ar įstaigoje arba kolegialioje valstybės ar savivaldybės institucijoje atlikto tyrimo išvadoje asmens veiksmų įvertinimas neatitinka šio įstatymo nuostatų, ji turi teisę pavesti tyrimą atlikusios valstybės ar savivaldybės institucijos ar įstaigos vadovui arba kolegialiai valstybės ar savivaldybės institucijai atlikti tyrimą pakartotinai, patikslinti tyrimo išvadą arba pati atlikti tyrimą ir priimti sprendimą. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
- 
+
+
+2. Institucijose ir įstaigose turi būti patvirtintas pareigų, kurias einantys asmenys privalo deklaruoti privačius interesus, sąrašas.  
 
 
 
 
-4. Asmens, dirbančio valstybinėje tarnyboje, veiklos tyrimo pradėjimui šio straipsnio 1 dalyje nurodytose institucijose dėl šio įstatymo pažeidimo nustatomas trejų metų terminas, skaičiuojamas nuo šio įstatymo nuostatas pažeidžiančios veikos galimo padarymo. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2180, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20871
- 
+3. Institucijų ir įstaigų vadovai ar jų įgalioti asmenys deklaruojantiems asmenims šių prašymu arba savo iniciatyva teikia rekomendacijas dėl šio įstatymo nuostatų laikymosi.
 
 
-Straipsnio pakeitimai:
-Nr. X-1667, 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
-Nr. XI-2063, 2012-06-12, Žin., 2012, Nr. 72-3708 (2012-06-27)
+
+
+4. Institucijoje arba įstaigoje tyrimas dėl galimo deklaruojančio asmens padaryto šio įstatymo nuostatų pažeidimo atliekamas Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo nustatyta tvarka.
+
+
+
+
+5. Įsteigus Registrą, VTEK savo iniciatyva, institucijų ir įstaigų vadovų arba deklaruojančio asmens motyvuotu rašytiniu prašymu teikia VTEK turimą informaciją apie galimas interesų konflikto grėsmes.  
  
 
 
 
 
-23 straipsnis. Vyriausioji tarnybinės etikos komisija
 
 
-Vyriausioji tarnybinės etikos komisija prižiūri, kaip asmenys vykdo šio įstatymo nuostatas Vyriausiosios tarnybinės etikos komisijos įstatymo, šio įstatymo ir kitų teisės aktų nustatyta tvarka.
+23 straipsnis. Atsakomybė už šio įstatymo nuostatų pažeidimus 
 
 
-Straipsnio pakeitimai:
-Nr. IX-244, 2001 04 10, Žin., 2001, Nr. 35-1165 (2001 04 25)
-Nr. IX-1809, 2003-11-06, Žin., 2003, Nr. 111-4929 (2003-11-26)
-Nr. X-316, 2005-07-05, Žin., 2005, Nr. 88-3286 (2005-07-21)
-Nr. X-1667, 2008-07-01, Žin., 2008, Nr. 81-3177 (2008-07-17)
- 
+1. Deklaruojantys asmenys už šio įstatymo pažeidimus atsako įstatymų nustatyta tvarka.
 
 
 
 
-24 straipsnis. Atsakomybė
+2. Deklaruojantys asmenys, teisės aktų nustatyta tvarka pripažinti pažeidusiais šio įstatymo antrojo skirsnio reikalavimus, vienus metus nuo tokio sprendimo priėmimo dienos negali būti skatinami. 
 
 
-Asmenys, dirbantys valstybinėje tarnyboje, už šio įstatymo pažeidimus atsako įstatymų nustatyta tvarka.
- 
+
+
+3. Deklaruojantys asmenys, teisės aktų nustatyta tvarka pripažinti pažeidusiais kitus, negu nurodyta šio straipsnio 2 dalyje, šio įstatymo reikalavimus, vienus metus nuo tokio sprendimo priėmimo dienos negali būti skatinami, priimami, perkeliami, skiriami ar renkami į lygiavertes ar aukštesnes pareigas institucijoje ir įstaigoje arba įstaigų sistemoje, kurioje jie dirba. 
+
+
+
+
+4. Deklaruojantys asmenys, teisės aktų nustatyta tvarka pripažinti šiurkščiai pažeidusiais šio įstatymo reikalavimus, trejus metus nuo tokio sprendimo priėmimo dienos negali būti skatinami, priimami, perkeliami, skiriami ar renkami į lygiavertes ar aukštesnes pareigas institucijoje ir įstaigoje arba įstaigų sistemoje, kurioje jie dirba.
+
+
+
+
+5. Asmenys, už šio įstatymo pažeidimą atleisti iš pareigų, trejus metus nuo atleidimo iš pareigų dienos negali būti priimami, skiriami ar renkami į pareigas valstybinėje tarnyboje. 
+
+
+
+
+6. Kituose įstatymuose gali būti nustatyta ir kitų deklaruojantiems asmenims taikomų apribojimų ir draudimų, susijusių su šio įstatymo, Lietuvos Respublikos korupcijos prevencijos įstatymo, Lietuvos Respublikos valstybės tarnybos įstatymo, Lietuvos Respublikos valstybės politikų elgesio kodekso ar kito teisės akto, reglamentuojančio tarnybinės etikos ir elgesio normas, reikalavimų pažeidimais.
+
+
+
+
+7. Pripažįstama, kad deklaruojantis asmuo šiurkščiai pažeidė šio įstatymo nuostatas, jeigu:
+
+
+1) šio įstatymo nuostatos pažeistos, nors deklaruojančiam asmeniui jau buvo pateiktos išankstinės rašytinės rekomendacijos, nuo kokių sprendimų rengimo, svarstymo ar priėmimo jis privalo nusišalinti; 
+
+
+
+
+2) šio įstatymo nuostatos pažeistos pakartotinai per vienus metus nuo tos dienos, kurią asmuo buvo pripažintas pažeidusiu šį įstatymą;
+
+
+
+
+3) šio įstatymo nuostatos pažeistos dėl interesų konflikto, kurio aplinkybėmis valstybinėje tarnyboje dirbantis asmuo (ar jam artimas asmuo) realizavo savo privatų interesą.
+
+
+
+
+
+
+8. Jeigu asmuo per vienus metus, o šio įstatymo šiurkštaus pažeidimo arba atleidimo už šio įstatymo pažeidimą atvejais – per trejus metus nuo tos dienos, kurią buvo pripažintas pažeidusiu šio įstatymo reikalavimus, nebuvo dar kartą pripažintas padariusiu šio įstatymo pažeidimą, laikoma, kad jis šio įstatymo nėra pažeidęs.
+
+
+
+
+9. Šiame straipsnyje nustatyti apribojimai netaikomi asmeniui įgyvendinant teisę būti renkamam Respublikos Prezidentu arba Seimo nariu.
  
 
 
@@ -876,12 +861,12 @@ Asmenys, dirbantys valstybinėje tarnyboje, už šio įstatymo pažeidimus atsak
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                      ALGIRDAS BRAZAUSKAS
- 
+RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
  
  
 
 
+ 
 
 
 
@@ -1023,3 +1008,8 @@ Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje t
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT88-N16/2019, 2019-12-19, paskelbta TAR 2019-12-19, i. k. 2019-20629
 Dėl Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo 5 straipsnio atitikties Lietuvos Respublikos Konstitucijai
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2274, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11194
+Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo Nr. VIII-371 pakeitimo įstatymas
