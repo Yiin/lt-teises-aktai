@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.369CF9E97755"
 
 # Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2023-12-29
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 62-2224, i. k. 1011010ISTA00IX-413
  
@@ -24,9 +24,6 @@ LIETUVOS RESPUBLIKOS SLAUGOS PRAKTIKOS IR AKUŠERIJOS PRAKTIKOS ĮSTATYMAS
 2001 m. birželio 28 d. Nr. IX-413
 Vilnius
  
-TAR pastaba. Iki įstatymo Nr. XI-343 įsigaliojimo (2010-01-01) asmenims išduotos bendrosios praktikos slaugytojo licencijos atitinka bendrosios slaugos praktikos licencijas.
-Iki įstatymo Nr. XI-343 įsigaliojimo (2010-01-01) asmenims išduotos specialiosios praktikos slaugytojo licencijos, suteikiančios teisę verstis akušerijos praktika, atitinka akušerijos praktikos licencijas.
-Iki įstatymo Nr. XI-343 įsigaliojimo (2010-01-01) asmenims, turintiems specialiosios praktikos slaugytojo licencijas (išskyrus suteikiančias teisę verstis akušerijos praktika), iki 2018-01-01 leidžiama verstis specialiąja slaugos praktika be bendrosios slaugos praktikos ar akušerijos praktikos licencijos. Nuo 2018-01-01 šie asmenys gali verstis specialiąja slaugos praktika tik įgiję bendrosios slaugos praktikos ar akušerijos praktikos licencijas.
  
 
 
@@ -61,7 +58,10 @@ Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
 
 
 
-3. Akušerijos praktikos licencija – dokumentas, patvirtinantis akušeriui suteiktą teisę verstis akušerijos praktika.
+3. Neteko galios nuo 2020-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
+ 
 
 
 
@@ -76,7 +76,10 @@ Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
 
 
 
-6. Bendrosios slaugos praktikos licencija – dokumentas, patvirtinantis bendrosios praktikos slaugytojui suteiktą teisę verstis slaugos praktika. 
+6. Neteko galios nuo 2020-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
+ 
 
 
 
@@ -229,7 +232,10 @@ Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 5 straipsnis. Bendrosios slaugos praktikos ir akušerijos praktikos licencijavimo tvarka 
 
 
-1. Bendrosios slaugos praktikos ir akušerijos praktikos licencijas (toliau – licencija) išduoda, atsisako jas išduoti, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, galiojimą panaikina, licencijos duomenis tikslina, popierinės formos licencijos dublikatą išduoda ir prižiūri, kaip laikomasi licencijuojamos veiklos sąlygų, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – Licencijavimo institucija), vadovaudamasi šiuo įstatymu ir sveikatos apsaugos ministro patvirtintomis Slaugos praktikos licencijavimo taisyklėmis ir Akušerijos praktikos licencijavimo taisyklėmis (toliau – Taisyklės).
+1. Bendrosios slaugos praktikos ir akušerijos praktikos licencijas (toliau – licencija) išduoda, atsisako jas išduoti, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, galiojimą panaikina, licencijos duomenis tikslina ir prižiūri, kaip laikomasi licencijuojamos veiklos sąlygų, Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – Licencijavimo institucija), vadovaudamasi šiuo įstatymu ir sveikatos apsaugos ministro patvirtintomis Slaugos praktikos licencijavimo taisyklėmis ir Akušerijos praktikos licencijavimo taisyklėmis (toliau – Taisyklės). Licencijavimo institucija, siekdama patikrinti, ar yra įvykdytos licencijos išdavimo sąlygos, ar licencijos turėtojas laikosi šio įstatymo 13 arba 14 straipsnyje nurodytų pareigų, ar yra pagrindas sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą, patikslinti licencijos duomenis, turi teisę iš valstybės ir savivaldybių institucijų ir įstaigų, kitų juridinių asmenų, tvarkančių duomenis, susijusius su šiuo įstatymu reglamentuojama slaugos praktika ar akušerijos praktika, gauti duomenis apie bendrosios praktikos slaugytojo ar akušerio atitiktį šio įstatymo 5 straipsnio 4 dalyje nurodytoms licencijos išdavimo sąlygoms, šio įstatymo 13 ir 14 straipsniuose nurodytų pareigų vykdymą, juridinių faktų, nurodytų šio įstatymo 6 straipsnyje, 7 straipsnio 1 dalies 2–7 punktuose ir 8 straipsnio 1 dalies 2–8 punktuose, buvimą. Valstybės ir savivaldybių institucijos ir įstaigos, kiti juridiniai asmenys, tvarkantys duomenis, susijusius su šiuo įstatymu reglamentuojama slaugos praktika ar akušerijos praktika, privalo pateikti šioje dalyje nurodytus duomenis Licencijavimo institucijai per jos nurodytą terminą, kuris negali būti trumpesnis kaip 15 dienų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
+ 
 
 
 
@@ -282,14 +288,21 @@ Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 
 
 
-6) bendrosios praktikos slaugytojas ar akušeris įvykdė šio straipsnio 6 dalyje nustatytus reikalavimus, jeigu licencijos galiojimas jam buvo panaikintas.
+6) bendrosios praktikos slaugytojas ar akušeris įvykdė šio straipsnio 6 ir 61 dalyse nustatytus reikalavimus, jeigu licencijos galiojimas jam buvo panaikintas.
+TAR pastaba. Slaugos praktikos ir akušerijos praktikos licencijų, kurių galiojimas sustabdytas iki įstatymo Nr. XIII-2380 įsigaliojimo (2020-01-01), galiojimo sustabdymas panaikinamas arba galiojimas panaikinamas iki įstatymo Nr. XIII-2380 įsigaliojimo (2020-01-01) galiojusių teisės aktų nustatyta tvarka.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2380, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12803
+ 
 
 
 
 
 
 
-5. Už licencijos išdavimą, licencijos duomenų tikslinimą ar popierinės formos licencijos dublikato išdavimą imama nustatyto dydžio valstybės rinkliava.
+5. Už licencijos išdavimą imama nustatyto dydžio valstybės rinkliava. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
+ 
 
 
 
@@ -314,17 +327,32 @@ Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
 
 
 
+61. Jeigu licencijos galiojimas buvo panaikintas šio įstatymo 8 straipsnio 1 dalies 3 punkte nustatytu pagrindu, slaugytojas ar akušeris sveikatos apsaugos ministro nustatyta tvarka privalo tobulinti savo profesinę kvalifikaciją.
+TAR pastaba. Slaugos praktikos ir akušerijos praktikos licencijų, kurių galiojimas sustabdytas iki įstatymo Nr. XIII-2380 įsigaliojimo (2020-01-01), galiojimo sustabdymas panaikinamas arba galiojimas panaikinamas iki įstatymo Nr. XIII-2380 įsigaliojimo (2020-01-01) galiojusių teisės aktų nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIII-2380, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12803
+ 
+
+
+
+
 7. Bendrosios praktikos slaugytojas ar akušeris, kurių licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo 8 straipsnio 1 dalies 6 ar 7 punktu, gali kreiptis dėl naujos licencijos išdavimo, kai išnyksta licencijos galiojimo panaikinimo pagrindas ir įvykdytos šio straipsnio 4 dalyje numatytos licencijos išdavimo sąlygos, Taisyklėse nustatyta tvarka pateikdamas paraišką ir licencijai gauti reikalingus dokumentus.
 
 
 
 
-8. Licencijavimo institucija duomenis apie licencijos išdavimą, atsisakymą ją išduoti, licencijos galiojimo sustabdymą, licencijos galiojimo sustabdymo panaikinimą, licencijos galiojimo panaikinimą, licencijos duomenų tikslinimą, popierinės formos licencijos dublikato išdavimą ir kitus su licencijuojama veikla susijusius duomenis įrašo į Sveikatos priežiūros ir farmacijos specialistų praktikos licencijų registro (toliau – Registras) duomenų bazę Registro nuostatuose nustatyta tvarka.
+8. Licencijos išduodamos ir registruojamos Sveikatos priežiūros ir farmacijos specialistų praktikos licencijų registre. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
+ 
 
 
 
 
-9. Licencijavimo institucija informaciją apie sprendimus išduoti licenciją, sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą arba panaikinti licencijos galiojimą skelbia savo interneto svetainėje.
+9. Licencijavimo institucija, siekdama užtikrinti pacientų teisę į tinkamas ir kokybiškas slaugos ir akušerijos paslaugas ir informuoti visuomenę bei bendrosios praktikos slaugytojus ir akušerius apie išduotas, patikslintas, sustabdytas ir panaikintas licencijas, Taisyklėse nustatyta tvarka skelbia savo interneto svetainėje šiuos aktualius duomenis: licencijos numerį, licencijos turėtojo vardą, pavardę, spaudo numerį, licencijos turėtojo praktikos rūšį, licencijos išdavimo datą, licencijos duomenų patikslinimo datą, patvirtinimo, kad laikytasi licencijuojamos veiklos sąlygų, datą, licencijos galiojimo sustabdymo, licencijos galiojimo sustabdymo panaikinimo  ir licencijos galiojimo panaikinimo datą. Šioje dalyje nurodyti duomenys, išskyrus duomenis apie licencijos galiojimo panaikinimą, skelbiami iki licencijos galiojimo panaikinimo dienos. Duomenys apie licencijos galiojimo panaikinimą skelbiami vienus metus nuo jos galiojimo panaikinimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
+ 
 
 
 Straipsnio pakeitimai:
@@ -362,7 +390,10 @@ Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
 
 
 
-7 straipsnis. Licencijos galiojimo sustabdymas
+7 straipsnis. Licencijos galiojimo sustabdymas ir licencijos galiojimo sustabdymo panaikinimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
+ 
 
 
 1. Licencijos galiojimas sustabdomas: 
@@ -391,7 +422,10 @@ Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
 
 
 
-5) kai yra šio įstatymo 6 straipsnio 1 dalies 4 punkte nurodytos priežastys; 
+5) neteko galios nuo 2020-01-01; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2380, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12803
+ 
 
 
 
@@ -404,9 +438,26 @@ Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
 
 
 
-7) kai deklaraciją pateikęs bendrosios praktikos slaugytojas ar akušeris pateikė klaidingus duomenis, netinkamai įformintus ar ne visus dokumentus ir per Taisyklėse nustatytą terminą nepašalino šio Licencijavimo institucijos nurodyto trūkumo.
+7) kai deklaraciją pateikęs bendrosios praktikos slaugytojas ar akušeris pateikė klaidingus duomenis, netinkamai įformintus ar ne visus dokumentus ir per Taisyklėse nustatytą terminą nepašalino šio Licencijavimo institucijos nurodyto trūkumo;
 Papildyta straipsnio punktu:
 Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
+ 
+
+
+
+
+8) kai Profesinės kompetencijos vertinimo komisija nustato, kad licencijos turėtojas padarė šiurkščią slaugos praktikos ar akušerijos praktikos klaidą arba per vienus metus nuo paskutinės slaugos ar akušerijos praktikos klaidos padarymo padarė slaugos ar akušerijos praktikos klaidą, ir nusprendžia, kad licencijos turėtojo profesinė kompetencija nepakankama;
+TAR pastaba. Slaugos praktikos ir akušerijos praktikos licencijų, kurių galiojimas sustabdytas iki įstatymo Nr. XIII-2380 įsigaliojimo (2020-01-01), galiojimo sustabdymas panaikinamas arba galiojimas panaikinamas iki įstatymo Nr. XIII-2380 įsigaliojimo (2020-01-01) galiojusių teisės aktų nustatyta tvarka.
+Papildyta straipsnio punktu:
+Nr. XIII-2380, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12803
+ 
+
+
+
+
+9) bendrosios praktikos slaugytojas ar akušeris suserga viena iš trukdančių verstis bendrąja slaugos praktika ar akušerijos praktika ligų, kurių sąrašą tvirtina sveikatos apsaugos ministras. 
+Papildyta straipsnio punktu:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
  
 
 
@@ -424,12 +475,18 @@ Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
 
 
 
-4. Vykdydamas Licencijavimo institucijos sprendimą sustabdyti licencijos galiojimą, darbdavys privalo licencijos galiojimo sustabdymo laikotarpiu nušalinti licencijos turėtoją nuo pareigų Lietuvos Respublikos darbo kodekso nustatyta tvarka. 
+4. Neteko galios nuo 2020-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
+ 
 
 
 
 
-5. Licencijavimo institucija apie priimtą sprendimą sustabdyti licencijos galiojimą nedelsdama raštu praneša licencijos turėtojui ir slaugos ar akušerijos paslaugas teikiančio juridinio asmens, su kuriuo licencijos turėtojas yra susijęs darbo santykiais, vadovui arba jo įgaliotam atstovui, nurodydama priežastis.
+5. Licencijavimo institucija sprendimą sustabdyti licencijos galiojimą ne vėliau kaip  kitą darbo dieną nuo šio sprendimo priėmimo dienos išsiunčia bendrosios praktikos slaugytojui ar akušeriui ir asmens sveikatos priežiūros įstaigos, kurioje bendrosios praktikos slaugytojas ar akušeris verčiasi slaugos praktika ar akušerijos praktika, vadovui arba jo įgaliotam atstovui (toliau – darbdavys). Vykdydamas Licencijavimo institucijos sprendimą sustabdyti licencijos galiojimą, darbdavys privalo licencijos galiojimo sustabdymo laikotarpiu nušalinti licencijos turėtoją nuo pareigų Lietuvos Respublikos darbo kodekso nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
+ 
 
 
 
@@ -442,7 +499,59 @@ Nr. XI-2373, 2012-11-06, Žin., 2012, Nr. 135-6864 (2012-11-22), i. k. 1121010IS
 
 
 
-7. Licencijos galiojimo sustabdymas panaikinamas Taisyklių nustatyta tvarka.
+7. Licencijos galiojimo sustabdymas panaikinamas Licencijavimo institucijos sprendimu:
+
+
+1) gavus dokumentus ir (ar) duomenis, patvirtinančius, kad išnykęs (išnykę) licencijos galiojimo sustabdymo pagrindas (pagrindai), jeigu licencijos galiojimas buvo sustabdytas šio straipsnio 1 dalies 2, 4, 6, 7 ir 9 punktuose nurodytais pagrindais;
+
+
+
+
+2) gavus dokumentus ir (ar) duomenis, patvirtinančius, kad įvykdyta šio straipsnio 8 dalyje nurodyta sąlyga, jeigu licencijos galiojimas buvo sustabdytas šio straipsnio 1 dalies 3 ar 8 punkte nurodytais pagrindais;
+
+
+
+
+3) gavus licencijos turėtojo prašymą panaikinti licencijos galiojimo sustabdymą, jeigu licencijos galiojimas buvo sustabdytas šio straipsnio 1 dalies 1 punkte nurodytu pagrindu. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
+ 
+
+
+
+
+8. Jeigu licencijos galiojimas buvo sustabdytas šio straipsnio 1 dalies 3 ar 8 punkte nustatytu pagrindu, bendrosios praktikos slaugytojas ar akušeris sveikatos apsaugos ministro nustatyta tvarka privalo tobulinti savo profesinę kvalifikaciją.
+TAR pastaba. Slaugos praktikos ir akušerijos praktikos licencijų, kurių galiojimas sustabdytas iki įstatymo Nr. XIII-2380 įsigaliojimo (2020-01-01), galiojimo sustabdymas panaikinamas arba galiojimas panaikinamas iki įstatymo Nr. XIII-2380 įsigaliojimo (2020-01-01) galiojusių teisės aktų nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIII-2380, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12803
+ 
+
+
+
+
+9. Sprendimas panaikinti licencijos galiojimo sustabdymą priimamas Taisyklėse nustatyta tvarka ne vėliau kaip per:
+
+
+1) 20 dienų nuo prašymo panaikinti licencijos galiojimo sustabdymą ir šio straipsnio 7 dalies 1 ar 2 punkte nurodytų dokumentų ir (ar) duomenų gavimo Licencijavimo institucijoje dienos;
+
+
+
+
+2) 2 darbo dienas nuo licencijos turėtojo prašymo panaikinti licencijos galiojimo sustabdymą, jeigu licencijos galiojimas buvo sustabdytas šio straipsnio 1 dalies 1 punkte nurodytu pagrindu. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
+ 
+
+
+
+
+10. Licencijavimo institucija sprendimą panaikinti licencijos galiojimo sustabdymą ne vėliau kaip kitą dieną nuo šio sprendimo priėmimo dienos išsiunčia bendrosios praktikos slaugytojui ar akušeriui ir bendrosios praktikos slaugytojo ar akušerio darbdaviui. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
  
 
 
@@ -466,15 +575,20 @@ Nr. XI-2373, 2012-11-06, Žin., 2012, Nr. 135-6864 (2012-11-22), i. k. 1121010IS
 
 
 
-3) kai licencijos turėtojas padaro šiurkščią slaugos ar akušerijos praktikos klaidą, kurią nustato Profesinės kompetencijos vertinimo komisija;
+3) kai licencijos turėtojas per vienus metus nuo paskutinės šiurkščios slaugos ar akušerijos praktikos klaidos padarymo padaro šiurkščią slaugos ar akušerijos praktikos klaidą, kurią nustato Profesinės kompetencijos vertinimo komisija;
+TAR pastaba. Slaugos praktikos ir akušerijos praktikos licencijų, kurių galiojimas sustabdytas iki įstatymo Nr. XIII-2380 įsigaliojimo (2020-01-01), galiojimo sustabdymas panaikinamas arba galiojimas panaikinamas iki įstatymo Nr. XIII-2380 įsigaliojimo (2020-01-01) galiojusių teisės aktų nustatyta tvarka.
 Straipsnio punkto pakeitimai:
 Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
+Nr. XIII-2380, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12803
  
 
 
 
 
-4) kai Profesinės kompetencijos vertinimo komisija nustato, kad licencijos turėtojas per kalendorinius metus padarė dvi ar daugiau slaugos ar akušerijos praktikos klaidų ir jos sukėlė arba galėjo sukelti paciento sveikatos pablogėjimą ar grėsmę jo gyvybei; 
+4) neteko galios nuo 2020-01-01; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2380, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12803
+ 
 
 
 
@@ -512,7 +626,10 @@ Nr. XI-2373, 2012-11-06, Žin., 2012, Nr. 135-6864 (2012-11-22), i. k. 1121010IS
 
 
 
-3. Licencijavimo institucija apie priimtą sprendimą panaikinti licencijos galiojimą nedelsdama raštu praneša licencijos turėtojui ir slaugos ar akušerijos paslaugas teikiančio juridinio asmens, su kuriuo licencijos turėtojas yra susijęs darbo santykiais, vadovui arba jo įgaliotam atstovui, nurodydama priežastis, išskyrus šio straipsnio 1 dalies 8 punkte nurodytą atvejį.
+3. Licencijavimo institucija sprendimą panaikinti licencijos galiojimą, išskyrus šio straipsnio 1 dalies 8 punkte nurodytą atvejį, ne vėliau kaip kitą darbo dieną nuo šio sprendimo priėmimo dienos išsiunčia bendrosios praktikos slaugytojui ar akušeriui ir bendrosios praktikos slaugytojo ar akušerio darbdaviui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
+ 
 
 
 
@@ -530,7 +647,10 @@ Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
 9 straipsnis. Kitų valstybių narių bendrosios praktikos slaugytojų ir akušerių teisės teikti laikinas ar vienkartines slaugos ar akušerijos paslaugas Lietuvos Respublikoje įgijimo sąlygos 
 
 
-1. Bendrosios praktikos slaugytojas ar akušeris, kuris yra kitos valstybės narės pilietis, vadovaudamasis Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu ir kitų teisės aktų nustatyta tvarka, turi teisę teikti laikinas ar vienkartines slaugos ar akušerijos paslaugas Lietuvos Respublikoje ir neturėdamas licencijos.
+1. Bendrosios praktikos slaugytojas ar akušeris, kuris yra kitos valstybės narės pilietis, vadovaudamasis Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu, turi teisę teikti laikinas ar vienkartines slaugos ar akušerijos paslaugas Lietuvos Respublikoje ir neturėdamas licencijos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
+ 
 
 
 
@@ -778,7 +898,9 @@ Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
 
 
 
-5) laikytis Taisyklėse nustatytų licencijuojamos veiklos sąlygų;
+5) Licencijavimo institucijai teikti šio įstatymo 5 straipsnio 1 dalyje nurodytus duomenis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
  
@@ -879,7 +1001,9 @@ Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
 
 
 
-5) laikytis Taisyklėse nustatytų licencijuojamos veiklos sąlygų; 
+5) Licencijavimo institucijai teikti šio įstatymo 5 straipsnio 1 dalyje nurodytus duomenis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
  
@@ -986,7 +1110,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS
  
 
 
@@ -1024,3 +1148,13 @@ Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
 Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 1, 2, 3, 11, 11-1, 12, 15 straipsnių pakeitimo ir Įstatymo papildymo 16 straipsniu įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2380, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12803
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 5, 7 ir 8 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 2, 5, 7, 8, 9, 13 ir 14 straipsnių pakeitimo įstatymas
