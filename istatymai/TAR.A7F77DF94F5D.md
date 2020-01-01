@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-04-19 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-11-13
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
  
@@ -119,7 +119,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-11. Pensijų socialinio draudimo įmoka – apdrausto asmens ir (arba) jo draudėjo mokama tam tikrų metų Lietuvos Respublikos socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatyta pensijų draudimo įmoka.
+11. Pensijų socialinio draudimo įmoka – apdrausto asmens ir (arba) jo draudėjo mokama tam tikrų metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu nustatyta pensijų draudimo įmoka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2650, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20991
+ 
 
 
 
@@ -366,9 +369,18 @@ Nr. XIII-1728, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20993
 
 
 
-6. IK apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija. IK ir pagal jį indeksuotus bazinės pensijos ir apskaitos vieneto vertės dydžius euro cento tikslumu tvirtina ir skelbia Valstybinio socialinio draudimo fondo taryba (toliau – Taryba). 
+6. IK apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija. IK ir pagal jį indeksuoti bazinės pensijos, apskaitos vieneto vertės dydžiai ir našlių pensijos bazinis dydis euro cento tikslumu tvirtinami atitinkamų metų Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
+Nr. XIII-2650, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20991
+ 
+
+
+
+
+7. Nuo 2020 m. sausio 1 d. bazinės pensijos dydis gali būti didinamas daugiau negu pagal bazinės pensijos dydžiui taikomą šio straipsnio 2 dalyje nustatyta tvarka apskaičiuotą IK, atsižvelgiant į valstybės biudžeto finansines galimybes. Nuo 2021 m. sausio 1 d., atsižvelgiant į valstybės biudžeto ir Valstybinio socialinio draudimo fondo biudžeto finansines galimybes, gali būti nustatomas didesnis negu pagal šio straipsnio 2 dalį apskaičiuotas IK.
+Papildyta straipsnio dalimi:
+Nr. XIII-2651, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20992
  
 
 
@@ -1321,7 +1333,10 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 
 
-2. Valstybinio socialinio draudimo fondo administravimo įstaigos pensijas pristato Valstybinio socialinio draudimo fondo valdybos nustatyta tvarka, suderinta su Taryba.
+2. Valstybinio socialinio draudimo fondo administravimo įstaigos pensijas pristato Valstybinio socialinio draudimo fondo valdybos nustatyta tvarka, suderinta su Valstybinio socialinio draudimo fondo taryba. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2650, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20991
+ 
 
 
 
@@ -3741,3 +3756,13 @@ Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 6, 8, 19, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2048, 2019-04-11, paskelbta TAR 2019-04-18, i. k. 2019-06366
 Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 10 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2650, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20991
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 2, 8 ir 40 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2651, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20992
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 8 straipsnio pakeitimo įstatymas
