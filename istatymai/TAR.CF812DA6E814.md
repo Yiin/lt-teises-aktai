@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF812DA6E814"
 
 # Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymas
 
-Suvestinė redakcija nuo 2019-02-28 iki 2019-12-31
+Įstatymas netenka galios 2022-09-01:
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-1381, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15851
+Lietuvos Respublikos rinkimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo konstitucinis įstatymas
+ 
+Suvestinė redakcija nuo 2020-01-01 iki 2022-08-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 135-4894, i. k. 1041010ISTA0IX-2428
  
@@ -255,12 +260,16 @@ Atstovaujamųjų politinių kampanijų dalyvių politinės kampanijos finansuoja
 
 1. Priimti šiame įstatyme nurodytas aukas turi teisę šio įstatymo nustatyta tvarka įregistruoti savarankiški politinės kampanijos dalyviai.
 
-2. Vienas fizinis asmuo, nurodytas šio įstatymo 13 straipsnyje, per politinę kampaniją kiekvienam savarankiškam politinės kampanijos dalyviui gali suteikti auką, neviršijančią 10 paskelbto praėjusių kalendorinių metų ketvirto ketvirčio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) dydžių. Bendra vieno fizinio asmens aukų savarankiškiems politinės kampanijos dalyviams suma per kalendorinius metus negali viršyti 10 procentų fizinio asmens už paskutinius praėjusius kalendorinius metus deklaruotų metinių pajamų (kai auka teikiama po gegužės 1 dienos) arba už užpraeitus kalendorinius metus deklaruotų metinių pajamų (kai auka teikiama iki gegužės 1 dienos). Į šiuos dydžius neįskaičiuojamos šio įstatymo 11 straipsnyje nurodytos aukos. 
+2. Vienas fizinis asmuo, nurodytas šio įstatymo 13 straipsnyje, per politinę kampaniją kiekvienam savarankiškam politinės kampanijos dalyviui gali suteikti auką, neviršijančią 10 paskelbto praėjusių kalendorinių metų ketvirto ketvirčio šalies ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) dydžių. Bendra vieno fizinio asmens aukų savarankiškiems politinės kampanijos dalyviams suma per kalendorinius metus negali viršyti 10 procentų fizinio asmens už paskutinius praėjusius kalendorinius metus deklaruotų metinių pajamų (kai auka teikiama po gegužės 1 dienos) arba už užpraeitus kalendorinius metus deklaruotų metinių pajamų (kai auka teikiama iki gegužės 1 dienos). Į šiuos dydžius neįskaičiuojamos šio įstatymo 11 straipsnyje nurodytos aukos. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1211, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14276
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
  
 
-3. Kandidatas vienmandatėje rinkimų apygardoje, į politinių partijų ir visuomeninių rinkimų komitetų keliamų kandidatų sąrašus įrašyti kandidatai ir referendumo iniciatoriai savo politinei kampanijai finansuoti gali suteikti auką, neviršijančią 20 VMDU dydžių.
+3. Kandidatas vienmandatėje rinkimų apygardoje ir referendumo iniciatoriai savo politinei kampanijai finansuoti gali suteikti auką, neviršijančią 20 VMDU dydžių. Bendra kandidato vienmandatėje rinkimų apygardoje ir referendumo iniciatorių auka savo politinei kampanijai finansuoti per kalendorinius metus negali viršyti 20 procentų tokių asmenų paskutinių praėjusių kalendorinių metų deklaruotų metinių pajamų (kai auka teikiama po gegužės 1 dienos) arba užpraeitų kalendorinių metų deklaruotų metinių pajamų (kai auka teikiama iki gegužės 1 dienos) ir deklaruotų turimų lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
 
 4. Fizinis asmuo iki aukos savarankiškam politinės kampanijos dalyviui suteikimo įstatymų nustatyta tvarka privalo deklaruoti turtą ir pajamas.
 Straipsnio dalies pakeitimai:
@@ -333,19 +342,24 @@ Nr. XII-1251, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14867
 12. Politinės kampanijos dalyvis, šiame straipsnyje nustatyta tvarka gavęs aukų, viršijančių šio straipsnio 10 dalyje nustatytą limitą, privalo jas pervesti į valstybės biudžetą iki politinės kampanijos finansavimo ataskaitos pateikimo Vyriausiajai rinkimų komisijai dienos.
  
 
-12 straipsnis. Nepriimtinos aukos
+12 straipsnis. Nepriimtinos aukos
 
-1. Draudžiama naudoti politinėms kampanijoms gautas aukas, kurios neatitinka šio įstatymo reikalavimų. Jeigu tokios aukos buvo gautos ir aukotojas yra žinomas, politinės kampanijos iždininkas per 5 darbo dienas nuo tokios aukos gavimo dienos turi auką grąžinti aukotojui, nurodydamas atsisakymo priimti auką priežastis. Jeigu aukotojas per 10 darbo dienų nenustatomas, politinės kampanijos iždininkas auką perveda į valstybės biudžetą.
+1. Draudžiama naudoti politinėms kampanijoms gautas aukas, kurios neatitinka šio įstatymo reikalavimų. Jeigu tokios aukos buvo gautos ir aukotojas yra žinomas, politinės kampanijos iždininkas per 5 darbo dienas nuo tokios aukos gavimo dienos turi auką grąžinti aukotojui, nurodydamas atsisakymo priimti auką priežastis. Jeigu aukotojas per 10 darbo dienų nenustatomas, politinės kampanijos iždininkas auką perveda į valstybės biudžetą. Šioje dalyje nustatyta tvarka aukų grąžinimas aukotojui ar pervedimas į valstybės biudžetą sustabdomas Vyriausiosios rinkimų komisijos sprendimu, jeigu dėl neteisėto politinių kampanijų finansavimo yra pradėtas (vyksta) baudžiamasis procesas arba pagal šio įstatymo 29 straipsnį atliekamas politinės partijos veiklos tyrimas. Aukų grąžinimas aukotojui ar pervedimas į valstybės biudžetą tęsiamas Vyriausiosios rinkimų komisijos sprendimu, kai nutraukiamas ikiteisminis tyrimas, byla ar procesas, ar politinės partijos veiklos tyrimas, taip pat kai įsiteisėja išteisinamasis nuosprendis arba įsiteisėja apkaltinamasis nuosprendis, tačiau šios lėšos nėra konfiskuojamos. 
 
-2. Politinių kampanijų dalyvius finansuoti per trečiuosius asmenis draudžiama.
+2. Jeigu nustatoma, kad politinės kampanijos dalyvis priėmė ir panaudojo lėšas ar nepiniginę auką iš kitų, šiame įstatyme nenurodytų, finansavimo šaltinių ar šio įstatymo reikalavimų neatitinkančias aukas, kurių suma viršija mažos aukos sumą, Vyriausioji rinkimų komisija priima sprendimą įpareigoti politinės kampanijos dalyvį panaudotų lėšų ar nepiniginės aukos dydžio sumą per 20 darbo dienų pervesti į valstybės biudžetą, išskyrus atvejus, kai dėl šiurkščių šio įstatymo pažeidimų politinei partijai nebuvo skirti valstybės biudžeto asignavimai.
 
-3. Nepriimtinomis aukomis nelaikomos ir gali būti naudojamos politinei kampanijai finansuoti:
+3. Politinių kampanijų dalyvius finansuoti per trečiuosius asmenis draudžiama.
 
-1) mažos aukos, suteiktos telefonu ir gautos iš telekomunikacijų bendrovės, su kuria savarankiškas politinės kampanijos dalyvis yra sudaręs šio įstatymo 11 straipsnio 4 dalyje numatytą sutartį;
+4. Asmenims, pagal šį įstatymą neturintiems teisės finansuoti politinės kampanijos dalyvių, draudžiama bet kokia forma juos remti.
 
-2) aukos, viršijančios 10 procentų aukotojo įstatymų nustatyta tvarka deklaruotų metinių pajamų, jeigu, pagal politinės kampanijos iždininko užklausos metu Vyriausiosios rinkimų komisijos informacinėje sistemoje turimus duomenis, bendra to aukotojo aukų suma (įskaitant savarankiškam politinės kampanijos dalyviui siūlomą suteikti auką) savarankiškiems politinės kampanijos dalyviams nurodyto dydžio neviršija.
-Straipsnio punkto pakeitimai:
-Nr. XII-1211, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14276
+5. Nepriimtinomis aukomis nelaikomos ir gali būti naudojamos politinei kampanijai finansuoti:
+
+1) mažos aukos, suteiktos telefonu ir gautos iš telekomunikacijų bendrovės, su kuria savarankiškas politinės kampanijos dalyvis yra sudaręs šio įstatymo 11 straipsnio 4 dalyje nurodytą sutartį;
+
+2) aukos, viršijančios šio įstatymo 10 straipsnio 2 ir 3 dalyse nurodytą įstatymų nustatyta tvarka deklaruotų metinių pajamų ir turimų lėšų dalį, jeigu pagal politinės kampanijos iždininko užklausos metu Vyriausiosios rinkimų komisijos informacinėje sistemoje turimus duomenis bendra to aukotojo, kandidato ar referendumo iniciatoriaus aukų suma (įskaitant savarankiškam politinės kampanijos dalyviui siūlomą suteikti auką) savarankiškiems politinės kampanijos dalyviams nurodyto dydžio neviršija. 
+
+Straipsnio pakeitimai:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
  
 
 13 straipsnis. Aukotojai
@@ -409,11 +423,30 @@ Nr. XII-1211, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14276
 
 2) išlaidos, skirtos politinės partijos patalpų nuomai, išlaikymui, personalo veiklai apmokėti, kai šios išlaidos yra įprastos šiai politinei partijai ne politinės kampanijos laikotarpiu.
 
-8. Jeigu politinės kampanijos laikotarpiu politinės kampanijos dalyvis (išskyrus politines partijas, jų keliamus kandidatus ar kandidatų sąrašus) surinko lėšų daugiau, negu jų buvo panaudota politinės kampanijos išlaidoms apmokėti, nepanaudotos lėšos iki politinės kampanijos finansavimo ataskaitos pateikimo Vyriausiajai rinkimų komisijai dienos turi būti pervestos į valstybės biudžetą. Politinių partijų, jų keliamų kandidatų ar kandidatų sąrašų politinei kampanijai nepanaudotos lėšos gali būti skirtos tik politinių partijų veiklai finansuoti. Politinės kampanijos sąskaita (išskyrus politinės partijos arba kandidato vardu atidarytą sąskaitą) uždaroma iki politinės kampanijos finansavimo ataskaitos pateikimo Vyriausiajai rinkimų komisijai dienos.
+8. Jeigu politinės kampanijos dalyvis nedeklaruoja politinės kampanijos išlaidų dydžio, dėl kurio būtų viršytas jo išlaidų limitas, Vyriausioji rinkimų komisija priima sprendimą, kuriuo įpareigoja politinės kampanijos dalyvį sumą, lygią nedeklaruotų politinės kampanijos išlaidų dydžio sumai, per 20 darbo dienų pervesti į valstybės biudžetą, išskyrus atvejus, kai dėl šiurkščių šio įstatymo pažeidimų politinei partijai nebuvo skirti valstybės biudžeto asignavimai. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
 
-9. Politinėms partijoms, pretendentams, kandidatams, referendumo iniciatoriams, referendumo oponentams, visuomeniniams rinkimų komitetams šio straipsnio 4 dalies 7 ir 8 punktuose nurodytas paslaugas gali teikti tik Lietuvos Respublikos, kitų Europos Sąjungos ar Šiaurės Atlanto sutarties organizacijos valstybių narių, Europos ekonominės erdvės valstybių (toliau – nustatytos valstybės) piliečiai, taip pat nustatytose valstybėse įsteigti juridiniai asmenys, organizacijos, padaliniai, išskyrus atvejus, kai 1/4 ar daugiau balsavimo teisių tokio juridinio asmens ar kitos organizacijos dalyvių susirinkime priklauso ne nustatytai valstybei, ne nustatytose valstybėse įsteigtiems juridiniams asmenims ir (ar) jų piliečiams. Paslaugų teikėjai, su politinėmis partijomis, pretendentais, kandidatais, referendumo iniciatoriais, referendumo oponentais, visuomeniniais rinkimų komitetais sudarę sutartis šio straipsnio 4 dalies 7 ir 8 punktuose nurodytoms paslaugoms teikti, gali pasitelkti tik tokius pačius kaip ir jiems patiems keliamus reikalavimus atitinkančius subjektus. Šis reikalavimas taip pat taikomas šio straipsnio 4 dalies 7 ir 8 punktuose nurodytų paslaugų, kurios buvo suteiktos iki politinės kampanijos laikotarpio pradžios, tačiau skirtos politinei kampanijai, teikėjams.
+9. Jeigu politinės kampanijos laikotarpiu politinės kampanijos dalyvis (išskyrus politines partijas, jų keliamus kandidatus ar kandidatų sąrašus) surinko lėšų daugiau, negu jų buvo panaudota politinės kampanijos išlaidoms apmokėti, nepanaudotos lėšos iki politinės kampanijos finansavimo ataskaitos pateikimo Vyriausiajai rinkimų komisijai dienos turi būti pervestos į valstybės biudžetą. Politinių partijų, jų keliamų kandidatų ar kandidatų sąrašų politinei kampanijai nepanaudotos lėšos gali būti skirtos tik politinių partijų veiklai finansuoti. Politinės kampanijos sąskaita (išskyrus politinės partijos arba kandidato vardu atidarytą sąskaitą) uždaroma iki politinės kampanijos finansavimo ataskaitos pateikimo Vyriausiajai rinkimų komisijai dienos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
 
-10. Vyriausioji rinkimų komisija, vertindama, ar šio straipsnio 4 dalies 7 ir 8 punktuose nurodytoms paslaugoms teikti sutartys sudarytos tik su šio straipsnio 9 dalyje nustatytais subjektais, reikalingus duomenis gauna iš valstybės ir žinybinių registrų, informacinių sistemų ir duomenų bazių. Kitoje Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje ar Šiaurės Atlanto sutarties organizacijos valstybėje narėje įsteigti juridiniai asmenys, organizacijos, padaliniai, valstybių narių piliečiai Vyriausiajai rinkimų komisijai turi pateikti valstybės, kurioje jie įsteigti arba turi buveinę, atitinkamo registro išrašą arba kompetentingos institucijos pažymą. 
+10. Politinėms partijoms, pretendentams, kandidatams, referendumo iniciatoriams, referendumo oponentams, visuomeniniams rinkimų komitetams šio straipsnio 4 dalies 7 ir 8 punktuose nurodytas paslaugas gali teikti tik Lietuvos Respublikos, kitų Europos Sąjungos ar Šiaurės Atlanto sutarties organizacijos valstybių narių, Europos ekonominės erdvės valstybių (toliau – nustatytos valstybės) piliečiai, taip pat nustatytose valstybėse įsteigti juridiniai asmenys, organizacijos, padaliniai, išskyrus atvejus, kai 1/4 ar daugiau balsavimo teisių tokio juridinio asmens ar kitos organizacijos dalyvių susirinkime priklauso ne nustatytai valstybei, ne nustatytose valstybėse įsteigtiems juridiniams asmenims ir (ar) jų piliečiams. Paslaugų teikėjai, su politinėmis partijomis, pretendentais, kandidatais, referendumo iniciatoriais, referendumo oponentais, visuomeniniais rinkimų komitetais sudarę sutartis šio straipsnio 4 dalies 7 ir 8 punktuose nurodytoms paslaugoms teikti, gali pasitelkti tik tokius pačius kaip ir jiems patiems keliamus reikalavimus atitinkančius subjektus. Šis reikalavimas taip pat taikomas šio straipsnio 4 dalies 7 ir 8 punktuose nurodytų paslaugų, kurios buvo suteiktos iki politinės kampanijos laikotarpio pradžios, tačiau skirtos politinei kampanijai, teikėjams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
+
+11. Vyriausioji rinkimų komisija, vertindama, ar šio straipsnio 4 dalies 7 ir 8 punktuose nurodytoms paslaugoms teikti sutartys sudarytos tik su šio straipsnio 9 dalyje nustatytais subjektais, reikalingus duomenis gauna iš valstybės ir žinybinių registrų, informacinių sistemų ir duomenų bazių. Kitoje Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje ar Šiaurės Atlanto sutarties organizacijos valstybėje narėje įsteigti juridiniai asmenys, organizacijos, padaliniai, valstybių narių piliečiai Vyriausiajai rinkimų komisijai turi pateikti valstybės, kurioje jie įsteigti arba turi buveinę, atitinkamo registro išrašą arba kompetentingos institucijos pažymą. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
+
+12. Asmenys, nevykdantys Vyriausiosios rinkimų komisijos sprendimų, atsako įstatymų nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
 
 Straipsnio pakeitimai:
 Nr. XIII-1528, 2018-10-11, paskelbta TAR 2018-10-16, i. k. 2018-16275
@@ -423,13 +456,16 @@ TREČIASIS SKIRSNIS
 POLITINĖ REKLAMA
  
 
-15 straipsnis. Politinės reklamos žymėjimas
+15 straipsnis. Politinės reklamos žymėjimas
 
-1. Politinės kampanijos laikotarpiu politinė reklama turi būti teisės aktų nustatyta tvarka pažymėta nurodant lėšų šaltinį ir aiškiai atskirta nuo kitos skleidžiamos informacijos.
+1. Politinė reklama turi būti pažymėta nurodant lėšų šaltinį ir aiškiai atskirta nuo kitos skleidžiamos informacijos.
 
-2. Politinė reklama, politinės kampanijos laikotarpiu nepažymėta pagal teisės aktų reikalavimus arba pažymėta nesilaikant teisės aktų reikalavimų, laikoma paslėpta politine reklama ir yra draudžiama. Už jos skleidimą taikoma įstatymų nustatyta atsakomybė.
+2. Politinė reklama, nepažymėta pagal teisės aktų reikalavimus arba pažymėta nesilaikant teisės aktų reikalavimų, laikoma paslėpta politine reklama ir yra draudžiama. Už jos skleidimą taikoma įstatymų nustatyta atsakomybė.
 
-3. Politinei reklamai, be specialių šiame įstatyme nustatytų reikalavimų, taikomi ir Lietuvos Respublikos visuomenės informavimo įstatyme reklamai nustatyti principai ir reikalavimai.
+3. Politinei reklamai, be specialių šiame įstatyme nustatytų reikalavimų, taikomi ir Lietuvos Respublikos visuomenės informavimo įstatyme reklamai nustatyti principai ir reikalavimai. 
+
+Straipsnio pakeitimai:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
  
 
 16 straipsnis. Politinės reklamos skleidimas visuomenės informavimo priemonėse
@@ -448,10 +484,10 @@ POLITINĖ REKLAMA
 
 3. Politinės kampanijos dalyvio išlaidos šio straipsnio 2 dalies 2 punkte nurodytiems agitaciniams siužetams negali viršyti 50 procentų politinės kampanijos dalyviui nustatyto didžiausio leistino politinės kampanijos išlaidų dydžio.
 
-4. Politinės kampanijos laikotarpiu viešosios informacijos rengėjai ar skleidėjai politinę reklamą gali skleisti tik pagal visiems politinės kampanijos dalyviams vienodus įkainius ir sąlygas, pateiktus Vyriausiajai rinkimų komisijai ne vėliau kaip likus 30 dienų iki rinkimų ar referendumo. Viešosios informacijos rengėjų ar skleidėjų pateiktus politinės reklamos įkainius ir sąlygas Vyriausioji rinkimų komisija nedelsdama paskelbia savo interneto svetainėje. Paskelbti politinės kampanijos laikotarpiu taikytini politinės reklamos įkainiai ir sąlygos negali būti teikiami, keičiami prasidėjus politinei kampanijai. Ne vėliau kaip iki politinės kampanijos laikotarpio pradžios politinei reklamai taikytini įkainiai ir sąlygos gali būti pakeisti su Vyriausiosios rinkimų komisijos sutikimu. Vyriausioji rinkimų komisija įkainius ir sąlygas nedelsdama paskelbia savo interneto svetainėje.
-TAR pastaba. Jeigu įstatymas Nr. XIII-1964 įsigalioja (2019-02-28) vykstant politinei kampanijai, tos politinės kampanijos laikotarpiu jis taikomas tik po šio įstatymo įsigaliojimo veiklą pradėjusiems viešosios informacijos rengėjams ir skleidėjams.
+4. Politinės kampanijos laikotarpiu iki rinkimų ar referendumo galutinių rezultatų paskelbimo viešosios informacijos rengėjai ar skleidėjai politinę reklamą gali skleisti tik pagal visiems politinės kampanijos dalyviams vienodus įkainius ir sąlygas, pateiktus Vyriausiajai rinkimų komisijai ne vėliau kaip likus 30 dienų iki rinkimų ar referendumo dienos. Viešosios informacijos rengėjų ar skleidėjų pateiktus politinės reklamos įkainius ir sąlygas Vyriausioji rinkimų komisija nedelsdama paskelbia savo interneto svetainėje. Paskelbti politinės kampanijos laikotarpiu taikytini politinės reklamos įkainiai ir sąlygos negali būti keičiami prasidėjus politinei kampanijai. Ne vėliau kaip iki politinės kampanijos laikotarpio pradžios politinei reklamai taikytini įkainiai ir sąlygos gali būti keičiami Vyriausiosios rinkimų komisijos nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1964, 2019-02-14, paskelbta TAR 2019-02-27, i. k. 2019-03285
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
  
 
 5. Viešosios informacijos rengėjai ar skleidėjai gali atsisakyti skleisti politinę reklamą, kurioje yra kitas politines partijas ar politinės kampanijos dalyvius kompromituojančios medžiagos, jeigu atsisakoma prisiimti galimas atsakomosios nuomonės paskleidimo išlaidas.
@@ -467,9 +503,10 @@ Papildyta straipsnio punktu:
 Nr. XIII-1579, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18182
  
 
-7. Politinės kampanijos laikotarpiu viešosios informacijos rengėjai ar skleidėjai elektroninių ryšių priemonėmis Vyriausiajai rinkimų komisijai privalo pateikti viešosios informacijos rengėjo ar skleidėjo deklaraciją du (tris) kartus: likus 10 dienų iki rinkimų ar referendumo dienos (likus 5 dienoms – jeigu vyksta pakartotinis balsavimas) ir ne vėliau kaip per 10 dienų nuo rinkimų (pakartotinių rinkimų) ar referendumo galutinių rezultatų paskelbimo dienos. 
+7. Politinės kampanijos laikotarpiu viešosios informacijos rengėjai ar skleidėjai elektroninių ryšių priemonėmis nuolat privalo pildyti viešosios informacijos rengėjo ar skleidėjo deklaraciją, kurioje nurodomi duomenys apie paskleistą politinę reklamą ne vėliau kaip per 10 darbo dienų nuo jos paskleidimo. Politinės kampanijos laikotarpiu viešosios informacijos rengėjo ar skleidėjo deklaracija Vyriausiajai rinkimų komisijai teikiama ne vėliau kaip per 10 darbo dienų nuo rinkimų (pakartotinių rinkimų) ar referendumo galutinių rezultatų paskelbimo dienos. Ne politinės kampanijos laikotarpiu viešosios informacijos rengėjo ar skleidėjo deklaracija Vyriausiajai rinkimų komisijai teikiama ne vėliau kaip per vieną mėnesį pasibaigus kalendoriniams metams. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1585, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18199
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
  
 
 8. Politinės kampanijos dalyviai Vyriausiajai rinkimų komisijai pateikia rinkimų (referendumo) agitacijos kampanijos etapu paskleistos politinės reklamos ir jos finansavimo šaltinių ataskaitą kartu su politinės kampanijos finansavimo ataskaita.
@@ -482,14 +519,25 @@ Nr. XIII-1585, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18199
  
 
 KETVIRTASIS SKIRSNIS
-POLITINIŲ KAMPANIJŲ FINANSŲ APSKAITOS TVARKYMAS IR ĮSISKOLINIMAI
+POLITINIŲ KAMPANIJŲ BUHALTERINĖS APSKAITOS TVARKYMAS IR ĮSISKOLINIMAI 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
  
 
-17 straipsnis. Politinių kampanijų finansų apskaita
+17 straipsnis. Politinių kampanijų buhalterinė apskaita ir atskaitomybė 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
 
-1. Savarankiški politinės kampanijos dalyviai politinės kampanijos finansų apskaitą tvarko šio įstatymo ir kitų teisės aktų nustatyta tvarka.
+1. Savarankiški politinės kampanijos dalyviai politinės kampanijos buhalterinę apskaitą tvarko šio įstatymo, Lietuvos Respublikos buhalterinės apskaitos įstatymo ir kitų buhalterinę apskaitą ir finansinę atskaitomybę reglamentuojančių teisės aktų nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
 
-2. Politinės kampanijos finansų apskaitą tvarko politinės kampanijos iždininkas, su kuriuo asmuo, norintis registruotis savarankišku politinės kampanijos dalyviu, turi sudaryti turto patikėjimo sutartį pagal Lietuvos Respublikos civilinio kodekso šeštosios knygos L skyriaus reikalavimus.
+2. Politinės kampanijos buhalterinę apskaitą tvarko politinės kampanijos iždininkas, su kuriuo asmuo, norintis registruotis savarankišku politinės kampanijos dalyviu, turi sudaryti turto patikėjimo sutartį pagal Lietuvos Respublikos civilinio kodekso šeštosios knygos L skyriaus reikalavimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
 
 3. Politinės kampanijos iždininku gali būti tik Lietuvos Respublikos pilietis ar nuolatinis Lietuvos Respublikos gyventojas, išskyrus:
 
@@ -509,9 +557,15 @@ POLITINIŲ KAMPANIJŲ FINANSŲ APSKAITOS TVARKYMAS IR ĮSISKOLINIMAI
 
 1) pildo ir pasirašo aukų lapus, politinės kampanijos finansavimo apskaitos žiniaraštį, politinės kampanijos finansavimo ataskaitą;
 
-2) šio įstatymo ir Lietuvos Respublikos buhalterinės apskaitos įstatymo nustatyta tvarka tvarko ir saugo politinės kampanijos finansų apskaitos dokumentus;
+2) šio įstatymo ir Buhalterinės apskaitos įstatymo nustatyta tvarka tvarko ir saugo politinės kampanijos buhalterinės apskaitos dokumentus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
 
-3) per 10 darbo dienų Vyriausiosios rinkimų komisijos interneto svetainėje paskelbia duomenis apie politinės kampanijos laikotarpiu gautas aukas ir sudarytas politinės kampanijos finansavimo sutartis;
+3) per 10 darbo dienų nuo informacijos gavimo dienos Vyriausiosios rinkimų komisijos interneto svetainėje paskelbia duomenis apie politinės kampanijos laikotarpiu gautas aukas, politinės kampanijos išlaidas, prisiimtus finansinius įsipareigojimus ir sudarytas politinės kampanijos sutartis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
 
 4) kontroliuoja politinės kampanijos išlaidas ir prižiūri, kad jos neviršytų šio įstatymo 14 straipsnio 2 ir 3 dalyse nustatytų išlaidų dydžių;
 
@@ -519,7 +573,10 @@ POLITINIŲ KAMPANIJŲ FINANSŲ APSKAITOS TVARKYMAS IR ĮSISKOLINIMAI
 
 6) jeigu savarankiškam politinės kampanijos dalyviui atsiranda šio įstatymo 20 straipsnio 1 dalyje nustatyta prievolė, ne vėliau kaip per 85 kalendorines dienas nuo rinkimų (pakartotinių rinkimų) ar referendumo galutinių rezultatų paskelbimo dienos pateikia Vyriausiajai rinkimų komisijai politinės kampanijos finansavimo ataskaitą ir auditoriaus ataskaitą dėl pastebėtų faktų;
 
-7) kartu su politinės kampanijos finansavimo ataskaita Vyriausiajai rinkimų komisijai pateikia politinės kampanijos pajamas ir išlaidas pagrindžiančius dokumentus;
+7) kartu su politinės kampanijos finansavimo ataskaita Vyriausiajai rinkimų komisijai pateikia politinės kampanijos sąskaitos išrašą ir pajamas bei išlaidas pagrindžiančius dokumentus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
 
 8) vykdo kitas šiame įstatyme nustatytas pareigas.
 
@@ -538,9 +595,16 @@ POLITINIŲ KAMPANIJŲ FINANSŲ APSKAITOS TVARKYMAS IR ĮSISKOLINIMAI
 8. Kai politinės kampanijos iždininkas nutraukia sutartį, nebegali toliau eiti pareigų dėl šio straipsnio 3 dalyje nurodytų pagrindų ar miršta, savarankiškas politinės kampanijos dalyvis turi sudaryti šio straipsnio 2 dalyje nurodytą sutartį su kitu asmeniu ir apie tai informuoti Vyriausiąją rinkimų komisiją.
  
 
-18 straipsnis. Politinių kampanijų dalyvių įsiskolinimai ir jų padengimas
+18 straipsnis. Politinių kampanijų dalyvių įsiskolinimai ir jų padengimas
 
-Kiekvienais metais iki vasario 1 dienos, iki įsiskolinimas bus padengtas, buvęs savarankiškas politinės kampanijos dalyvis privalo pranešti Vyriausiajai rinkimų komisijai apie įsiskolinimų padengimą ir tam panaudotų lėšų šaltinius. Politinė partija turi teisę padengti įsiskolinimus tik iš partijai nuosavybės teise priklausančio turto, gaunamų aukų ir politinei partijai skirtų valstybės biudžeto asignavimų, o kiti politinės kampanijos dalyviai – tik iš nuosavų (asmeninių) lėšų.
+1. Politinė partija turi teisę padengti įsiskolinimus tik iš Lietuvos Respublikos politinių partijų įstatyme nurodytų finansavimo šaltinių, o kiti politinės kampanijos dalyviai – tik iš nuosavų (asmeninių) lėšų.
+
+2. Politinių kampanijų dalyvių politinės kampanijos laikotarpiu atsiradę įsiskolinimai turi būti įvykdyti iki kitos atitinkamų rinkimų politinės kampanijos pradžios. Tais atvejais, kai buvęs savarankiškas politinės kampanijos dalyvis nepadengia įsiskolinimų iki nustatyto termino, užregistravus jį kitos politinės kampanijos savarankišku dalyviu, jo didžiausias leistinas politinės kampanijos išlaidų dydis Vyriausiosios rinkimų komisijos sprendimu mažinamas 25 procentais.
+
+3. Buvęs savarankiškas politinės kampanijos dalyvis, padengęs įsiskolinimą, per 5 darbo dienas privalo pranešti Vyriausiajai rinkimų komisijai apie įsiskolinimų padengimą ir tam panaudotų lėšų šaltinius. 
+
+Straipsnio pakeitimai:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
  
 
 PENKTASIS SKIRSNIS
@@ -567,7 +631,10 @@ POLITINIŲ KAMPANIJŲ FINANSAVIMO STEBĖSENA, KONTROLĖ IR VIEŠUMAS.  POLITINI
 
 7) savo nustatyta tvarka kontroliuoja, kaip politinės kampanijos dalyviai laikosi šio įstatymo reikalavimų, ir siūlo traukti atsakomybėn už šio įstatymo pažeidimus arba kreipiasi į kitas institucijas, kurioms įstatymų suteikta kompetencija leidžia patikrinti, kaip laikomasi įstatymų nustatytų reikalavimų;
 
-8) sudaro sąlygas ir atsako, kad jos interneto svetainėje viešosios informacijos rengėjo ar skleidėjo deklaracija, politinių kampanijų finansavimo ataskaitos būtų skelbiamos nedelsiant gavus jų duomenis ir atnaujinamos, kad šie duomenys atitiktų gautą informaciją;
+8) sudaro sąlygas ir atsako, kad jos interneto svetainėje viešosios informacijos rengėjo ar skleidėjo deklaracija, politinių kampanijų finansavimo ataskaitos ir politinės kampanijos finansavimo apskaitos žiniaraščiai būtų skelbiami nedelsiant gavus jų duomenis ir atnaujinami, kad šie duomenys atitiktų gautą informaciją; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
 
 9) nustato didžiausius politinės kampanijos išlaidų konkrečiose rinkimų apygardose dydžius ir ne vėliau kaip iki kiekvienų metų sausio 1 dienos juos paskelbia;
 
@@ -587,6 +654,10 @@ Nr. XIII-1579, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18182
 4. Vyriausioji rinkimų komisija atsakinga už nuolatinį informacijos apie politinių kampanijų finansavimo pažeidimus teikimą laiku Lietuvos Respublikos specialiųjų tyrimų tarnybai ir Lietuvos Respublikos generalinei prokuratūrai.
 
 5. Valstybinė mokesčių inspekcija tikrina, ar aukotojai turėjo pakankamai pajamų aukai suteikti ir ar jos apmokestintos įstatymų nustatyta tvarka. Apie atliktą patikrinimą ir jo metu nustatytus teisės aktų pažeidimus Valstybinė mokesčių inspekcija praneša Vyriausiajai rinkimų komisijai.
+
+6. Institucija, pradėjusi ar nutraukusi ikiteisminį tyrimą, bylą ar procesą, taip pat politinės partijos veiklos tyrimą, apie tai informuoja Vyriausiąją rinkimų komisiją. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
  
 
 20 straipsnis. Savarankiškų politinės kampanijos dalyvių nepriklausomas patikrinimas
@@ -604,11 +675,14 @@ Nr. XIII-1579, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18182
 4. Savarankiškas politinės kampanijos dalyvis privalo bendradarbiauti su savarankiško politinės kampanijos dalyvio nepriklausomą patikrinimą atliekančiu auditoriumi ir pateikti patikrinimui atlikti reikalingus dokumentus, duomenis, informaciją.
  
 
-21 straipsnis. Finansavimo viešumas
+21 straipsnis. Finansavimo viešumas
 
-1. Vyriausioji rinkimų komisija politinių kampanijų finansavimo ataskaitas kartu su auditorių ataskaitomis dėl pastebėtų faktų, jeigu jos privalomos, paskelbia savo interneto svetainėje ne vėliau kaip per 100 dienų nuo rinkimų (pakartotinių rinkimų) ar referendumo galutinių rezultatų paskelbimo dienos.
+1. Vyriausioji rinkimų komisija politinės kampanijos finansavimo apskaitos žiniaraščius, politinės kampanijos finansavimo sutartis, politinių kampanijų finansavimo ataskaitas kartu su auditorių ataskaitomis dėl pastebėtų faktų, jeigu jos privalomos, paskelbia savo interneto svetainėje ne vėliau kaip per 10 darbo dienų nuo jų gavimo.
 
-2. Viešosios informacijos rengėjų ar skleidėjų deklaracijos, politinių kampanijų finansavimo ataskaitos ir auditorių ataskaitos dėl pastebėtų faktų, rinkimų (referendumo) agitacijos kampanijos etapu paskleistos politinės reklamos paskleidimo ir jos finansavimo šaltinių ataskaitos, politinės kampanijos dalyvių sutartys su paslaugų teikėjais, reklamos gamintojais, viešosios informacijos rengėjais ar skleidėjais, užtikrinant asmens duomenų apsaugą, yra viešos ir teikiamos Vyriausiosios rinkimų komisijos nustatyta tvarka.
+2. Viešosios informacijos rengėjų ar skleidėjų deklaracijos, politinių kampanijų finansavimo ataskaitos ir auditorių ataskaitos dėl pastebėtų faktų, rinkimų (referendumo) agitacijos kampanijos etapu paskleistos politinės reklamos paskleidimo ir jos finansavimo šaltinių ataskaitos, politinės kompanijos finansavimo apskaitos žiniaraščiai, politinės kampanijos dalyvių sutartys su paslaugų teikėjais, reklamos gamintojais, viešosios informacijos rengėjais ar skleidėjais, užtikrinant asmens duomenų apsaugą, yra viešos ir teikiamos Vyriausiosios rinkimų komisijos nustatyta tvarka. 
+
+Straipsnio pakeitimai:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
  
 
 22 straipsnis. Politinių kampanijų finansavimo ir politinės reklamos stebėsena
@@ -621,7 +695,24 @@ Nr. XIII-1579, 2018-10-25, paskelbta TAR 2018-11-09, i. k. 2018-18182
 
 4. Vykdydama politinių kampanijų finansavimo ir politinės reklamos stebėseną, Vyriausioji rinkimų komisija turi teisę teisės aktų nustatyta tvarka pirkti stebėsenos paslaugas.
 
-5. Apibendrintus politinių kampanijų finansavimo ir politinės reklamos stebėsenos duomenis Vyriausioji rinkimų komisija nuolat skelbia savo interneto svetainėje. Kontrolę vykdančioms institucijoms pagal kompetenciją turi būti teikiami detalūs stebėsenos duomenys, politinės kampanijos dalyviui – tik jo politinės kampanijos stebėsenos duomenys.
+5. Vyriausioji rinkimų komisija turi teisę kreiptis į Lietuvos radijo ir televizijos komisiją, Visuomenės informavimo etikos komisiją, žurnalistų etikos inspektorių dėl paskleistos informacijos turinio vertinimo politinės reklamos aspektu. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
+
+6. Apibendrintus politinių kampanijų finansavimo ir politinės reklamos stebėsenos duomenis Vyriausioji rinkimų komisija nuolat skelbia savo interneto svetainėje. Kontrolę vykdančioms institucijoms pagal kompetenciją turi būti teikiami detalūs stebėsenos duomenys, politinės kampanijos dalyviui – tik jo politinės kampanijos stebėsenos duomenys.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
+
+7. Vyriausioji rinkimų komisija, nustačiusi, kad politinės kampanijos dalyvis viršijo jam nustatytą politinės kampanijos išlaidų dydį, sprendimu įpareigoja politinės kampanijos dalyvį neprisiimti naujų turtinių prievolių dėl išlaidų politinei kampanijai, išskyrus sutartį su audito įmone arba auditoriumi, jeigu savarankiškam politinės kampanijos dalyviui atsiranda šio įstatymo 20 straipsnio 1 dalyje nustatyta prievolė. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+ 
+
+8. Šio straipsnio 7 dalyje nurodytą sprendimą politinės kampanijos dalyvis per 7 dienas nuo sprendimo priėmimo dienos turi teisę apskųsti Lietuvos vyriausiajam administraciniam teismui. Skundas turi būti išnagrinėtas ne vėliau kaip per 48 valandas nuo jo gavimo. Lietuvos vyriausiojo administracinio teismo sprendimas įsiteisėja nuo jo paskelbimo. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
  
 
 ŠEŠTASIS SKIRSNIS
@@ -675,7 +766,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
  
 
  
@@ -757,4 +848,9 @@ Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1964, 2019-02-14, paskelbta TAR 2019-02-27, i. k. 2019-03285
 Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo Nr. IX-2428 16 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2566, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19878
+Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatymo Nr. IX-2428 10, 12, 14, 15, 16, 17, 18, 19, 21, 22 straipsnių ir ketvirtojo skirsnio pavadinimo pakeitimo įstatymas
 
