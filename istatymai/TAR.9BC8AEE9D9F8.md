@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-08-01 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-03-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 3-37, i. k. 0941010ISTA000I-733
  
@@ -95,7 +95,10 @@ Nr. X-1531, 2008-05-08, Žin., 2008, Nr. 59-2203 (2008-05-24)
 
 
 
-2. Apsaugos zonos – greta saugomo kultūros paveldo objekto ar vietovės esančios teritorijos, kurioms nustatomos žemės sklypų ir kitų nekilnojamųjų daiktų tvarkymo ir naudojimo specialiosios sąlygos, kad kultūros paveldo objekto ar vietovės vertingosios savybės būtų apsaugotos nuo galimo neigiamo veiklos tose gretimose teritorijose poveikio.
+2. Neteko galios nuo 2020-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2182, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09964
+ 
 
 
 
@@ -219,7 +222,10 @@ Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 
 
 
-24. Paveldosaugos reikalavimai – saugomo objekto ar vietovės valdymo, naudojimo, disponavimo jais sąlygos, teritorijos ir apsaugos zonos žemės ir kitos specialiosios naudojimo sąlygos, įstatymų ir kitų teisės aktų nustatytos vertingosioms savybėms apsaugoti.
+24. Paveldosaugos reikalavimai – kultūros paveldo objekto, vietovės, jų teritorijų ir apsaugos zonų valdymo, naudojimo, disponavimo jais sąlygos, nustatytos šiame įstatyme, jame nurodytuose dokumentuose ir kituose teisės aktuose kultūros paveldo objekto, vietovės, jų teritorijų ir apsaugos zonų vertingosioms savybėms apsaugoti.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2182, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09964
+ 
 
 
 
@@ -308,6 +314,14 @@ Nr. XIII-2318, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12113
 
 
 41. Vertingųjų savybių keitimas – tvarkybos darbai, veikiantys vertingąsias savybes (avarijos grėsmės pašalinimas, konservavimas, pritaikymas, restauravimas, atkūrimas), taip parenkami ir atliekami pagal šio įstatymo nustatytus reikalavimus, kad būtų maksimaliai išsaugotas autentiškumas ir kultūros paveldo objektas ar vietovė būtų tinkami naudoti.
+
+
+
+
+42. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos želdynų įstatyme, Lietuvos Respublikos žemės įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIII-2182, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09964
+ 
 
 
 Straipsnio pakeitimai:
@@ -502,7 +516,15 @@ Nr. X-1244, 2007-06-28, Žin., 2007, Nr. 80-3218 (2007-07-19)
 
 
 
-4) valdytojų įsipareigojimai, nustatyti apsaugos sutartyse.
+4) valdytojų įsipareigojimai, nustatyti apsaugos sutartyse;
+
+
+
+
+5) Specialiųjų žemės naudojimo sąlygų įstatyme nustatytos specialiosios žemės naudojimo sąlygos kultūros paveldo objektų teritorijose, kultūros paveldo vietovėse ir jų apsaugos zonose.
+Papildyta straipsnio punktu:
+Nr. XIII-2182, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09964
+ 
 
 
 
@@ -1357,27 +1379,10 @@ Nr. XI-2389, 2012-11-08, Žin., 2012, Nr. 136-6960 (2012-11-24)
 17 straipsnis. Moksliniam pažinimui saugomo nekilnojamojo kultūros paveldo apsauga
 
 
-1. Moksliniam pažinimui saugomame objekte, jo teritorijoje, vietovėje draudžiama:
-
-
-1) be institucijos, atsakingos už apsaugą, sutikimo atidengti autentiškas vertybės pase pažymėtas netirtas saugomas dalis ar elementus, atkasti netirtus pastatų rūsius, atidaryti laidojimo kriptas ar rūsius, atidengti ir judinti archeologinius sluoksnius, naudoti metalo, elektroninius ar kitokius ieškiklius; 
-
-
-
-
-2) saugomo objekto teritorijoje, vietovėje ir jų apsaugos nuo fizinio poveikio pozonyje atlikti bet kokius vandens lygį keičiančius darbus arba veiksmus, galinčius sukelti grunto deformaciją ir vibraciją sausumoje ar po vandeniu, vandens bangavimą;
-
-
-
-
-3) saugomo archeologinio objekto teritorijoje plėtoti žemdirbystę ar miškų ūkį, išskyrus savaime užaugančių medžių ir krūmų šalinimą;
-
-
-
-
-4) be institucijos, atsakingos už apsaugą, sutikimo judinti, tirti, iškelti povandeninius objektus, atskiras jų dalis ar archeologinius radinius vidaus vandenyse, teritorinėje jūroje ir gretutinėje zonoje, kaip apibrėžta Lietuvos Respublikos tarptautinėse sutartyse.
-
-
+1. Moksliniam pažinimui saugomame objekte, jo teritorijoje, vietovėje draudžiama be institucijos, atsakingos už kultūros paveldo apsaugą, sutikimo naudoti metalo, elektroninius ar kitokius ieškiklius archeologinių ir kitų radinių ar objektų paieškai, judinti, tirti, iškelti povandeninius objektus, atskiras jų dalis ar archeologinius radinius vidaus vandenyse, jūros rajono vidaus vandenyse, teritorinėje jūroje, gretutinėje zonoje ir išskirtinėje ekonominėje zonoje, kaip tai apibrėžta Lietuvos Respublikos tarptautinėse sutartyse.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2182, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09964
+ 
 
 
 
@@ -1673,22 +1678,20 @@ Nr. XIII-2318, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12113
 
 
 
-2. Viešajam pažinimui ir naudojimui saugomame objekte, jo teritorijoje, vietovėje draudžiama:
+2. Viešajam pažinimui ir naudojimui saugomame objekte draudžiama: 
 
 
-1) naikinti ar kitaip žaloti nekilnojamosios kultūros vertybės pase nurodytas vertingąsias savybes;
-
-
-
-
-2) teritorijoje ir apsaugos zonoje statyti statinius, kurie aukščiu, apimtimi ar išraiška nustelbtų kultūros paveldo objektą ar objektus arba trukdytų juos apžvelgti;
+1) naikinti ar kitaip žaloti saugomo objekto vertingąsias savybes;
 
 
 
 
-3) naikinti ar žaloti paminklines lentas, nekilnojamosios kultūros vertybės informacinius stendus arba kultūros paveldo objekto ar vietovės teritorijos riboženklius.
+2) naikinti ar žaloti saugomo objekto ženklinimui skirtas lentas, informacinius stendus.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2182, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09964
+ 
 
 
 
@@ -1708,32 +1711,28 @@ Nr. XIII-2318, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12113
 
 
 
-6. Siekiant, kad saugomo objekto ar vietovės vertingosioms savybėms nebūtų padaryta neigiamo poveikio, turi būti gautas už kultūros paveldo apsaugą atsakingos institucijos sutikimas, jeigu norima:
+6. Siekiant, kad saugomo objekto vertingosioms savybėms nebūtų padaryta neigiamo poveikio, turi būti gautas už kultūros paveldo apsaugą atsakingos institucijos sutikimas, jeigu norima:
 
 
-1) dalyti į atskiras dalis nekilnojamosios kultūros vertybės teritorijoje esančius sklypus ir keisti jų ribas, išskyrus Saugomų teritorijų įstatymo nustatytus atvejus;
-
-
-
-
-2) kultūros paveldo objekto teritorijoje keisti žemės naudojimo būdą, užstatymo tankį, intensyvumą, tipą, pastatų ar statinių paskirtį;
+1) keisti saugomų statinių paskirtį;
 
 
 
 
-3) nekilnojamosios kultūros vertybės teritorijoje ir apsaugos zonoje statyti statinius ir įrenginius, keisti upių vagas, keisti esamus ir įrengti naujus vandens telkinius, keisti reljefą, steigti naujus ar plėsti esamus karjerus, sodinti vertingąsias savybes užstosiančius želdinius;
+2) įrengti komercines reklamas, lauko antenas ir kitus techninius įrenginius saugomų statinių išorėje.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2182, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09964
+ 
 
 
 
 
-4) įrengti komercines reklamas, lauko antenas ir kitus techninius įrenginius saugomų statinių išorėje.
-
-
-
-
-
-
-7. Sutikimas pagal šio straipsnio 6 dalį nebūtinas, jeigu tokie veiksmai leidžiami pagal nekilnojamojo kultūros paveldo apsaugos specialiojo teritorijų planavimo dokumentus, kuriuose nustatomas galimas kiekvieno sklypo naudojimo būdas, užstatymo tankis, intensyvumas ir statinių aukštis.
+7. Neteko galios nuo 2020-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2182, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09964
+ 
 
 
 
@@ -1762,7 +1761,9 @@ Nr. XII-549, 2013-10-10, Žin., 2013, Nr. 111-5489 (2013-10-24)
 
 
 
-2. Viešosios pagarbos nekilnojamojo kultūros paveldo vieta gali būti saugoma, nors ir nėra jokių žmogų, įvykį ar kitokias jos vertingąsias savybes liudijančių autentiškų dalių ar elementų. Ši vieta žymima paminklinėmis lentomis, skulptūros kūriniais, memorialiniais statiniais, buvusią įvykio ar gyvenamąją aplinką parodančiais daiktais. Draudžiama griauti ar žaloti statinius, skirtus tokios vietos vertingosioms savybėms pažymėti. Šie statiniai gali būti keičiami ar statomi nauji tik gavus už tos vietos apsaugą atsakingos institucijos sutikimą.
+2. Viešosios pagarbos nekilnojamojo kultūros paveldo vieta gali būti saugoma, nors ir nėra jokių žmogų, įvykį ar kitokias jos vertingąsias savybes liudijančių autentiškų dalių ar elementų. Ši vieta žymima saugomo objekto ženklinimui skirtomis lentomis, skulptūros kūriniais, memorialiniais statiniais, buvusią įvykio ar gyvenamąją aplinką parodančiais daiktais.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2182, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09964
  
 
 
@@ -3000,3 +3001,8 @@ Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-73
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2318, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12113
 Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 2, 14 straipsnių pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2182, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09964
+Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 2, 4, 17, 19 ir 20 straipsnių pakeitimo įstatymas
