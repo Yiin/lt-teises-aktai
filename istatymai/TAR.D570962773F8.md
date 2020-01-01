@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D570962773F8"
 
 # Lietuvos Respublikos atmintinų dienų įstatymas
 
-Suvestinė redakcija nuo 2019-07-27 iki 2019-12-31
+Suvestinė redakcija nuo 2020-01-01 iki 2020-07-15
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1672, i. k. 0971010ISTAVIII-397
  
@@ -688,7 +688,9 @@ Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
 
 
 
-63) lapkričio 2-oji – Mirusiųjų atminimo (Vėlinių) diena;
+63) netenka galios 2020-01-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2417, 2019-08-22, paskelbta TAR 2019-08-30, i. k. 2019-13759
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -996,4 +998,9 @@ Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakei
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2326, 2019-07-11, paskelbta TAR 2019-07-26, i. k. 2019-12396
+Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2417, 2019-08-22, paskelbta TAR 2019-08-30, i. k. 2019-13759
 Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
