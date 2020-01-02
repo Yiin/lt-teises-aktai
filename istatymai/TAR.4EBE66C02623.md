@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-01-01
+Suvestinė redakcija nuo 2020-01-02 iki 2020-02-07
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -956,10 +956,11 @@ Nr. XIII-2027, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05404
 28 straipsnis. Asmeniui suteiktos specialiosios teisės atėmimas
 
 
-1. Asmeniui suteiktos specialiosios teisės (teisės vairuoti transporto priemones, teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą, teisės medžioti, teisės vairuoti vidaus vandenų transporto priemones, teisės naudoti elektroninių ryšių išteklius, teisės užsiimti radijo mėgėjų ir kitų radijo stočių naudotojų veikla) atėmimas yra administracinio poveikio priemonė, kurią kartu su administracine nuobauda skiria teismas ar ne teismo tvarka administracinio nusižengimo bylą nagrinėjanti institucija (pareigūnas), jeigu naudodamasis šia teise asmuo padarė administracinį nusižengimą. Specialiosios teisės atėmimo terminas skaičiuojamas metais ir mėnesiais. Surašant administracinį nurodymą, siūlomas specialiosios teisės atėmimo terminas gali būti skaičiuojamas dienomis. 
+1. Asmeniui suteiktos specialiosios teisės (teisės vairuoti transporto priemones, teisės medžioti, teisės vairuoti vidaus vandenų transporto priemones, teisės naudoti elektroninių ryšių išteklius, teisės užsiimti radijo mėgėjų ir kitų radijo stočių naudotojų veikla) atėmimas yra administracinio poveikio priemonė, kurią kartu su administracine nuobauda skiria teismas ar ne teismo tvarka administracinio nusižengimo bylą nagrinėjanti institucija (pareigūnas), jeigu naudodamasis šia teise asmuo padarė administracinį nusižengimą. Specialiosios teisės atėmimo terminas skaičiuojamas metais ir mėnesiais. Surašant administracinį nurodymą, siūlomas specialiosios teisės atėmimo terminas gali būti skaičiuojamas dienomis. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
  
 
 
@@ -13039,8 +13040,11 @@ užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio penk
 393 straipsnis. Orlaivių naudojimo taisyklių pažeidimas
 
 
-1. Įrašų, žinant, kad jie melagingi, įrašymas orlaivio techninės priežiūros ir skrydžio dokumentuose arba reikiamų įrašų neįrašymas, Lietuvos Respublikos aviacijos įstatyme nurodytų privalomų dokumentų nebuvimas orlaivyje skrydžio metu
-užtraukia baudą nuo keturiasdešimt iki devyniasdešimt eurų.
+1. Įrašų, žinant, kad jie melagingi, įrašymas orlaivio techninės priežiūros ir skrydžio dokumentuose arba reikiamų įrašų neįrašymas, Reglamente (ES) Nr. 965/2012 nurodytų privalomų dokumentų nebuvimas orlaivyje skrydžio metu 
+užtraukia baudą nuo keturiasdešimt iki devyniasdešimt eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
+ 
 
 
 
@@ -13063,8 +13067,11 @@ užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 
 
-5. Teisės aktuose oro vežėjams ir orlaivių naudotojams nustatytų reikalavimų apdrausti civilinę atsakomybę už keleiviams, bagažui, kroviniams ir tretiesiems asmenims padarytą žalą nesilaikymas
-užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+5. Teisės aktuose oro vežėjams ir orlaivių naudotojams nustatytų reikalavimų apdrausti civilinę atsakomybę už keleiviams, bagažui, kroviniams ir tretiesiems asmenims padarytą žalą, antžeminių paslaugų teikėjams ir antžeminių paslaugų savateikiams nustatytų reikalavimų apdrausti savo civilinę atsakomybę už žalą, padarytą vykdant visų rūšių veiklą tarptautiniame oro uoste, nesilaikymas 
+užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
+ 
 
 
 
@@ -13075,8 +13082,11 @@ užtraukia baudą nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų.
 
 
 
-7. Bendrosios aviacijos eksperimentinės kategorijos lėktuvų ir sraigtasparnių naudojimo skrydžiams reikalavimų pažeidimas
-užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų.
+7. Eksperimentinės kategorijos lėktuvų ir sraigtasparnių naudojimo skrydžiams reikalavimų pažeidimas
+užtraukia baudą nuo trijų šimtų iki penkių šimtų eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
+ 
 
 
 
@@ -13093,19 +13103,28 @@ užtraukia baudą nuo keturių šimtų iki šešių šimtų eurų.
 
 
 
-10. Lietuvos Respublikos aviacijos įstatyme nurodytų civilinės aviacijos specialistų tiesioginių pareigų atlikimas, kai tai daro neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų civilinės aviacijos specialistas, avarinę situaciją sukėlęs skrydžių saugos taisyklių pažeidimas
-užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų.
+10. Reglamente (ES) Nr. 1178/2011, Reglamente (ES) Nr. 1321/2014, Reglamente (ES) 2015/340 ir Reglamente (ES) 2018/1139 nurodytų civilinės aviacijos specialistų tiesioginių pareigų atlikimas, kai tai daro neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų civilinės aviacijos specialistas, arba pavojingą incidentą sukėlęs skrydžių saugos taisyklių pažeidimas
+užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
+ 
 
 
 
 
-11. Pakartotinis Lietuvos Respublikos aviacijos įstatyme nurodytų civilinės aviacijos specialistų tiesioginių pareigų atlikimas, kai tai daro neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų civilinės aviacijos specialistas,
-užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+11. Pakartotinis Reglamente (ES) Nr. 1178/2011, Reglamente (ES) Nr. 1321/2014, Reglamente (ES) 2015/340 ir Reglamente (ES) 2018/1139 nurodytų civilinės aviacijos specialistų tiesioginių pareigų atlikimas, kai tai daro neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų civilinės aviacijos specialistas,
+užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
+ 
 
 
 
 
-12. Už šio straipsnio 10, 11 dalyse numatytus administracinius nusižengimus privaloma skirti teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą atėmimą nuo šešių mėnesių iki penkerių metų.
+12. Neteko galios 2020-01-02.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
+ 
 
 
 
@@ -19673,9 +19692,10 @@ Administracinius nusižengimus tiriantys pareigūnai, siekdami užkirsti kelią 
 
 
 
-8) teisę vairuoti vidaus vandenų transporto priemonę patvirtinančio dokumento paėmimą, teisę skraidyti orlaivio įgulos nariu, teisę atlikti orlaivių techninę priežiūrą suteikiančios licencijos galiojimo sustabdymą; 
+8) teisę vairuoti vidaus vandenų transporto priemonę patvirtinančio dokumento paėmimą; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
  
 
 
@@ -19953,10 +19973,11 @@ Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 
 
 
-602 straipsnis. Teisę vairuoti vidaus vandenų transporto priemonę patvirtinančio dokumento paėmimas, teisę skraidyti orlaivio įgulos nariu, teisę atlikti orlaivių techninę priežiūrą suteikiančios licencijos galiojimo sustabdymas, taip pat specialiąją teisę patvirtinančio dokumento paėmimas, teisės vairuoti transporto priemones sustabdymas, kai administracinį nusižengimą padarė neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų ar vengiantis pasitikrinti dėl neblaivumo ar apsvaigimo asmuo 
+602 straipsnis. Teisę vairuoti vidaus vandenų transporto priemonę patvirtinančio dokumento paėmimas, taip pat specialiąją teisę patvirtinančio dokumento paėmimas, teisės vairuoti transporto priemones sustabdymas, kai administracinį nusižengimą padarė neblaivus ar apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų ar vengiantis pasitikrinti dėl neblaivumo ar apsvaigimo asmuo 
 Pakeistas straipsnio pavadinimas:
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
  
 
 
@@ -19965,9 +19986,10 @@ Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 
 
 
-2. Įtariant, kad padarytas administracinis nusižengimas, už kurį pagal šį kodeksą gali būti atimta teisė skraidyti orlaivio įgulos nariu, teisė atlikti orlaivių techninę priežiūrą, orlaivio įgulos nariui, teisę atlikti orlaivių techninę priežiūrą turinčiam asmeniui iki nutarimo administracinio nusižengimo byloje priėmimo sustabdomas atitinkamos licencijos galiojimas ir apie tai įrašoma administracinio nusižengimo protokole. 
+2. Neteko galios 2020-01-02. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
  
 
 
@@ -22407,12 +22429,13 @@ Vengiančiam atlikti viešuosius darbus asmeniui teismas ar kita nutarimą dėl 
 681 straipsnis. Administracinio poveikio priemonės – asmeniui suteiktos specialiosios teisės atėmimo vykdymas
 
 
-Asmeniui suteiktos specialiosios teisės (teisės vairuoti transporto priemones, teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą, teisės medžioti, teisės vairuoti vidaus vandenų transporto priemones, teisės naudoti elektroninių ryšių išteklius, teisės užsiimti radijo mėgėjų ir kitų radijo stočių naudotojų veikla) atėmimą vykdo specialiąją teisę suteikianti institucija. 
+Asmeniui suteiktos specialiosios teisės (teisės vairuoti transporto priemones, teisės medžioti, teisės vairuoti vidaus vandenų transporto priemones, teisės naudoti elektroninių ryšių išteklius, teisės užsiimti radijo mėgėjų ir kitų radijo stočių naudotojų veikla) atėmimą vykdo specialiąją teisę suteikianti institucija. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
  
 
 
@@ -22431,24 +22454,20 @@ Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 
 
 
-683 straipsnis. Teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą, teisės vairuoti vidaus vandenų transporto priemones atėmimo vykdymo tvarka
+683 straipsnis. Teisės vairuoti vidaus vandenų transporto priemones atėmimo vykdymo tvarka
 
 
-1. Teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą atėmimas vykdomas paimant licenciją.
-
-
-
-
-2. Teisės vairuoti vidaus vandenų transporto priemones atėmimas vykdomas paimant vidaus vandenų transporto specialisto laipsnio diplomą arba kvalifikacijos liudijimą, arba laivavedžio pažymėjimą.
+1. Teisės vairuoti vidaus vandenų transporto priemones atėmimas vykdomas paimant vidaus vandenų transporto specialisto laipsnio diplomą arba kvalifikacijos liudijimą, arba laivavedžio pažymėjimą.
 
 
 
 
-3. Teisę skraidyti orlaivio įgulos nariu, teisę atlikti orlaivių techninę priežiūrą suteikiančių licencijų galiojimo sustabdymo, vidaus vandenų transporto specialisto laipsnio diplomų, kvalifikacijos liudijimų, laivavedžio pažymėjimų paėmimo ir grąžinimo tvarką nustato Lietuvos Respublikos susisiekimo ministras. 
+2. Vidaus vandenų transporto specialisto laipsnio diplomų, kvalifikacijos liudijimų, laivavedžio pažymėjimų paėmimo ir grąžinimo tvarką nustato Lietuvos Respublikos susisiekimo ministras. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
  
 
 
@@ -23247,6 +23266,14 @@ Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 
 
 
+681. 2011 m. lapkričio 3 d. Komisijos reglamentas (ES) Nr. 1178/2011, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su civilinės aviacijos orlaivių įgula susiję techniniai reikalavimai ir administracinės procedūros (OL 2011 L 311, p. 1), su paskutiniais pakeitimais, padarytais 2018 m. liepos 27 d. Komisijos reglamentu (ES) 2018/1065 (OL 2018 L 192, p. 31). 
+Papildyta punktu:
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
+ 
+
+
+
+
 69. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR (OL 2011 L 335, p. 1).
 Punkto numeracijos pakeitimas:
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
@@ -23314,6 +23341,14 @@ Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Punkto numeracijos pakeitimas:
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
+ 
+
+
+
+
+761. 2012 m. spalio 5 d. Komisijos reglamentas (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros (OL 2012 L 296, p. 1), su paskutiniais pakeitimais, padarytais 2018 m. liepos 23 d. Komisijos reglamentu (ES) 2018/1042 (OL 2018 L 188, p. 3). 
+Papildyta punktu:
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
  
 
 
@@ -23490,6 +23525,22 @@ Nr. XIII-1137, 2018-05-08, paskelbta TAR 2018-05-14, i. k. 2018-07752
 
 
 
+931. 2014 m. lapkričio 26 d. Komisijos reglamentas (ES) Nr. 1321/2014 dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo (OL 2014 L 362, p. 1) su paskutiniais pakeitimais, padarytais 2018 m. rugpjūčio 14 d. Komisijos reglamentu (ES) 2018/1142 (OL 2018 L 207, p. 2). 
+Papildyta punktu:
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
+ 
+
+
+
+
+932. 2015 m. vasario 20 d. Komisijos reglamentas (ES) 2015/340, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su skrydžių vadovų licencijomis ir pažymėjimais susiję techniniai reikalavimai ir administracinės procedūros, iš dalies keičiamas Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012 ir panaikinamas Komisijos reglamentas (ES) Nr. 805/2011 (OL 2015 L 63, p. 1). 
+Papildyta punktu:
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
+ 
+
+
+
+
 94. 2015 m. balandžio 20 d. Tarybos direktyva (ES) 2015/652, kuria nustatomi skaičiavimo metodai ir atskaitomybės reikalavimai pagal Europos Parlamento ir Tarybos direktyvą 98/70/EB dėl benzino ir dyzelinių degalų (dyzelino) kokybės (OL 2015 L 107, p. 26). 
 Papildyta punktu:
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
@@ -23593,6 +23644,14 @@ Nr. XIII-2251, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11170
 1021. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/858 dėl motorinių transporto priemonių ir jų priekabų bei tokioms transporto priemonėms skirtų sistemų, komponentų ir atskirų techninių mazgų patvirtinimo ir rinkos priežiūros, kuriuo iš dalies keičiami reglamentai (EB) Nr. 715/2007 ir (EB) Nr. 595/2009 bei panaikinama Direktyva 2007/46/EB (OL 2018 L 151, p. 1).
 Papildyta punktu:
 Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
+ 
+
+
+
+
+103. 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1139 dėl bendrųjų civilinės aviacijos taisyklių ir kuriuo įsteigiama Europos Sąjungos aviacijos saugos agentūra, iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 2111/2005, (EB) Nr. 1008/2008, (ES) Nr. 996/2010, (ES) Nr. 376/2014 ir direktyvos 2014/30/ES ir 2014/53/ES bei panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 552/2004 ir (EB) Nr. 216/2008 bei Tarybos reglamentas (EEB) Nr. 3922/91 (OL 2018 L 212, p. 1). 
+Papildyta punktu:
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
  
 
 
@@ -24067,3 +24126,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 533 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 40, 72, 226, 417, 431, 573, 575, 589, 592, 603, 608, 613, 620, 621, 629, 640, 642, 644, 651 ir 653 straipsnių pakeitimo įstatymas
+ 
+94.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
+Lietuvos Respublikos administracinių nusižengimų kodekso 28, 393, 595, 602, 681, 683 straipsnių ir priedo pakeitimo įstatymas
