@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.38E82AA2664C"
 
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-01-03
+Suvestinė redakcija nuo 2020-01-04 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2261, i. k. 0961010ISTA00I-1539
  
@@ -77,9 +77,10 @@ Visi nekilnojamojo turto registre esantys duomenys nuo jų įrašymo laikomi tei
 5 straipsnis. Nekilnojamojo turto registro tvarkymas
 
 
-1. Nekilnojamojo turto registrą tvarko vadovaujančioji registro tvarkymo įstaiga – Teisingumo ministerija ir registro tvarkymo įstaiga – valstybės įmonė Registrų centras (toliau – Nekilnojamojo turto registro tvarkytojas). Nekilnojamojo turto registro tvarkytojas turi teisę savo antspaude ir dokumentų, patvirtinančių nekilnojamųjų daiktų, daiktinių teisių į juos, šių teisių suvaržymų, juridinių faktų įregistravimą, blankuose naudoti valstybės herbą.
+1. Nekilnojamojo turto registro valdytoja – Lietuvos Respublikos teisingumo ministerija, šio registro tvarkytoją skiria Lietuvos Respublikos Vyriausybė. Nekilnojamojo turto registro tvarkytojas turi teisę savo antspaude ir dokumentų, patvirtinančių nekilnojamųjų daiktų, daiktinių teisių į juos, šių teisių suvaržymų, juridinių faktų įregistravimą, blankuose naudoti valstybės herbą. 
 Straipsnio dalies pakeitimai:
 Nr. X-1239, 2007-06-28, Žin., 2007, Nr. 81-3314 (2007-07-21), i. k. 1071010ISTA00X-1239
+Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
  
 
 
@@ -259,7 +260,7 @@ Centrinio registratoriaus funkcijos yra administruoti nekilnojamojo turto regist
 
 
 
-7) ilgalaikė nuoma (emphyteusis). 
+7) ilgalaikė nuoma (emphyteusis); 
 
 
 
@@ -1402,3 +1403,8 @@ Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 17, 23, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
 Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 1, 2, 3, 8, 15, 16, 21, 22, 23, 24, 26, 27, 29, 33, 35, 36, 37, 41, 43, 44, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 5, 11, 15, 17 ir 38 straipsnių pakeitimo įstatymas
