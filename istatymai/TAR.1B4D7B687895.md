@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2019-07-21 iki 2020-01-09
+Suvestinė redakcija nuo 2020-01-10 iki 2020-01-16
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1783,7 +1783,10 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 
 
 
-5) užsienio valstybių kredito įstaigų ir kitų finansinių paslaugų teikimo veiklos, draudimo veiklos ir finansų rinkų priežiūros institucijoms, jeigu ji reikalinga priežiūros funkcijai atlikti;
+5) užsienio valstybių kredito įstaigų ir kitų finansinių paslaugų teikimo veiklos, draudimo veiklos ir finansų rinkų priežiūros institucijoms, jeigu ji reikalinga priežiūros funkcijai atlikti, taip pat Europos centriniam bankui, kai pagal Reglamento (ES) Nr. 1024/2013 nuostatas finansų rinkos priežiūros funkciją atlieka Europos centrinis bankas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2585, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20553
+ 
 
 
 
@@ -3293,6 +3296,14 @@ Nr. XIII-2364, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11986
  
 
 
+
+
+151. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843, kuria iš dalies keičiama Direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos ir iš dalies keičiamos direktyvos 2009/138/EB ir 2013/36/ES (OL 2018 L 156, p. 43). 
+Papildyta punktu:
+Nr. XIII-2585, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20553
+ 
+
+
 Priedo pakeitimai:
 Nr. XII-2058, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19169
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
@@ -3554,3 +3565,13 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio, 1 ir 3 pr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2364, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11986
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 43-7 straipsnio ir 3 priedo pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2517, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18821
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 straipsnio ir 3 priedo pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2585, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20553
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 43 straipsnio ir 3 priedo pakeitimo įstatymas
