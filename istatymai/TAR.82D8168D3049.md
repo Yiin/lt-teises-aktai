@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-01-16
+Suvestinė redakcija nuo 2020-01-17 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
  
@@ -1394,7 +1394,10 @@ Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
 
 
 
-4) įgyvendina Reglamento (EB) Nr. 2006/2004 nuostatas, kiek tai susiję su šio Įstatymo 69 straipsnio reguliavimo dalyku;
+4) įgyvendina Reglamento (ES) 2017/2394 nuostatas, kiek tai susiję su šio Įstatymo 69 straipsnio reguliavimo dalyku; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2516, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18824
+ 
 
 
 
@@ -4785,6 +4788,14 @@ Straipsnio pakeitimai:
 Nr. XI-1552, 2011-06-28, Žin., 2011, Nr. 91-4327 (2011-07-19)
 
 
+
+
+7. Už šio Įstatymo 69 straipsnio pažeidimus, kuriems taikomas Reglamentas (ES) 2017/2394, Valstybinė duomenų apsaugos inspekcija turi teisę asmeniui skirti iki 60 000 eurų baudą. Baudas Valstybinė duomenų apsaugos inspekcija skiria Asmens duomenų teisinės apsaugos įstatyme nustatyta administracinių baudų skyrimo tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2516, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18824
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XII-1260, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14859
  
@@ -5436,7 +5447,10 @@ Nr. XII-2670, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25266
 
 
 
-13. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 L 364, p. 1).
+13. Neteko galios nuo 2020-01-17
+Punkto naikinimas:
+Nr. XIII-2516, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18824
+ 
 
 
 
@@ -5495,6 +5509,14 @@ Papildyta punktu:
 Nr. XIII-105, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29417
 Punkto numeracijos pakeitimas:
 Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
+ 
+
+
+
+
+21. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004 (OL 2017 L 345, p. 1), su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 (OL 2019 L 136, p. 28). 
+Papildyta punktu:
+Nr. XIII-2516, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18824
  
 
 
@@ -5637,3 +5659,8 @@ Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3, 7, 9, 37 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2172, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09944
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 41 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2516, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18824
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 12, 74 straipsnių ir 2 priedo pakeitimo įstatymas
