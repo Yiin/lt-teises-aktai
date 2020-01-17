@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2020-01-10 iki 2020-01-16
+Suvestinė redakcija nuo 2020-01-17 iki 2020-04-03
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1354,7 +1354,10 @@ Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
 
 
 
-6) atlieka Lietuvos Respublikos finansų įstaigų įstatymo, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo, Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo, Lietuvos Respublikos mokėjimų įstatymo, kitų įstatymų Lietuvos bankui priskirtas funkcijas;
+6) atlieka Lietuvos Respublikos finansų įstaigų įstatymo, Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo, Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo, Lietuvos Respublikos mokėjimų įstatymo, Lietuvos Respublikos vartotojų teisių apsaugos įstatymo ir kitų įstatymų Lietuvos bankui priskirtas funkcijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2517, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18821
+ 
 
 
 
@@ -1374,9 +1377,10 @@ Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
 
 
 
-10) atlieka Reglamento (EB) Nr. 1060/2009, Reglamento (ES) Nr. 1286/2014, Reglamento (ES) 2017/1131 kompetentingai institucijai priskirtas funkcijas; 
+10) atlieka Reglamento (EB) Nr. 1060/2009, Reglamento (ES) Nr. 1286/2014, Reglamento (ES) 2017/1131, Reglamento (ES) 2017/2394 kompetentingai institucijai priskirtas funkcijas, kiek tai susiję su Lietuvos banko kompetencija; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1876, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00226
+Nr. XIII-2517, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18821
  
 
 
@@ -3301,6 +3305,14 @@ Nr. XIII-2364, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11986
 151. 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843, kuria iš dalies keičiama Direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos ir iš dalies keičiamos direktyvos 2009/138/EB ir 2013/36/ES (OL 2018 L 156, p. 43). 
 Papildyta punktu:
 Nr. XIII-2585, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20553
+ 
+
+
+
+
+16. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004 (OL 2017 L 345, p. 1), su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 (OL 2019 L 136, p. 28). 
+Papildyta punktu:
+Nr. XIII-2517, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18821
  
 
 
