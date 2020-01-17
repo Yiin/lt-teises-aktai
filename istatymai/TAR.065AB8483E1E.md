@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2019-11-14 iki 2020-01-16
+Suvestinė redakcija nuo 2020-01-17 iki 2021-01-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -3843,7 +3843,18 @@ Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
 
 
 
-23) atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
+23) pagal kompetenciją įgyvendina Reglamentą (ES) 2017/2394; 
+Papildyta straipsnio punktu:
+Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
+ 
+
+
+
+
+24) atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
+ 
 
 
 
@@ -4123,7 +4134,10 @@ Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
 
 
 
-7) pagal savo kompetenciją kaip kompetentinga institucija, vadovaudamasi 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo, dalyvauti kuriant ir vykdant šiuo reglamentu nustatytą bendradarbiavimo sistemą;
+7) pagal savo kompetenciją kaip kompetentinga institucija, vadovaudamasi Reglamentu (ES) 2017/2394, dalyvauti kuriant ir vykdant šiuo reglamentu nustatytą bendradarbiavimo sistemą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
+ 
 
 
 
@@ -4138,7 +4152,10 @@ Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
 
 
 
-10) turėti kitas šio įstatymo, tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių transliavimo ir retransliavimo veiklą, 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo ir kitų teisės aktų nustatytas teises.
+10) turėti kitas šio įstatymo, tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių transliavimo ir retransliavimo veiklą, Reglamento (ES) 2017/2394 ir kitų teisės aktų nustatytas teises. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
+ 
 
 
 Straipsnio pakeitimai:
@@ -4757,7 +4774,10 @@ priedas
 
 
 
-3. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 L 364, p. 1).
+3. Neteko galios nuo 2020-01-17
+Punkto naikinimas:
+Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
+ 
 
 
 
@@ -4783,9 +4803,19 @@ Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
 
 
 
-7. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1808, kuria, atsižvelgiant į kintančias rinkos realijas, iš dalies keičiama Direktyva 2010/13/ES dėl valstybių narių įstatymuose ir kituose teisės aktuose išdėstytų tam tikrų nuostatų, susijusių su audiovizualinės žiniasklaidos paslaugų teikimu, derinimo (Audiovizualinės žiniasklaidos paslaugų direktyva) (OL 2018 L 303, p. 69).
+7. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004 (OL 2017 L 345, p. 1), su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 (OL 2019 L 136, p. 28). 
+Papildyta punktu:
+Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
+ 
+
+
+
+
+8. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1808, kuria, atsižvelgiant į kintančias rinkos realijas, iš dalies keičiama Direktyva 2010/13/ES dėl valstybių narių įstatymuose ir kituose teisės aktuose išdėstytų tam tikrų nuostatų, susijusių su audiovizualinės žiniasklaidos paslaugų teikimu, derinimo (Audiovizualinės žiniasklaidos paslaugų direktyva) (OL 2018 L 303, p. 69).
 Papildyta punktu:
 Nr. XIII-2088, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07397
+Punkto numeracijos pakeitimas:
+Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
  
 
 
@@ -5108,3 +5138,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 34-1 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2501, 2019-11-07, paskelbta TAR 2019-11-13, i. k. 2019-18190
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 50 straipsnio pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 48 straipsnio ir priedo pakeitimo įstatymas
