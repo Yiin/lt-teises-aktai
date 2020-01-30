@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-01-29
+Suvestinė redakcija nuo 2020-01-30 iki 2020-06-19
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
- 
-TAR pastaba. Iki įstatymo Nr. XIII-2270 įsigaliojimo (2020-01-01) pradėti vykdyti teismo sprendimai dėl turto konfiskavimo vykdomi pagal procesines teisės normas, galiojusias iki šio įstatymo įsigaliojimo.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2270, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11192
-Lietuvos Respublikos civilinio proceso kodekso 603, 626, 692 ir 755 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS
 CIVILINIO PROCESO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR ĮGYVENDINIMO 
@@ -1898,7 +1893,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 2. Juridinių asmenų atstovais pagal pavedimą teisme gali būti:
 
 
-1) šio straipsnio 1 dalies 1, 2, 3 punktuose nurodyti asmenys;
+1) šio straipsnio 1 dalies 1, 2, 3, 6 punktuose nurodyti asmenys; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
+ 
 
 
 
@@ -3356,10 +3354,10 @@ Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
 
 
 
-6. Bylinėjimosi išlaidos, susidariusios dėl teismo kreipimosi į Konstitucinį Teismą ar kompetentingą Europos Sąjungos teisminę instituciją, taip pat dėl kreipimosi į administracinį teismą dėl norminio teisės akto teisėtumo, proceso dalyviams nepaskirstomos.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos civilinio proceso kodekso 93 straipsnio 6 dalis (2011 m. birželio 21 d. redakcija; Žin., 2011, Nr. 85-4126) prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, 109 straipsnio 1 daliai, konstituciniams teisinės valstybės, teisingumo principams.
+6. Bylinėjimosi išlaidos, susidariusios dėl teismo kreipimosi į Konstitucinį Teismą ar kompetentingą Europos Sąjungos teisminę instituciją, taip pat dėl kreipimosi į administracinį teismą dėl norminio teisės akto teisėtumo, proceso dalyviams paskirstomos pagal šiame straipsnyje išdėstytas taisykles. 
 Straipsnio dalies pakeitimai:
 Nr. KT22-N12/2018, 2018-12-14, paskelbta TAR 2018-12-14, i. k. 2018-20548
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
  
 
 
@@ -8331,9 +8329,10 @@ Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 
 
 
-6. Sprendimas paskelbiamas perskaitant jo įžanginę ir rezoliucinę dalis. Teismas kiekvienoje byloje savo nuožiūra nusprendžia, kurios sprendimo dalys, be įžanginės ir rezoliucinės, turi būti paskelbiamos perskaitant. Teismas paprastai neskelbia fizinio asmens kodo, gyvenamosios ar buvimo vietos adreso, duomenų apie asmens tapatybę patvirtinantį dokumentą, telefono numerio, elektroninio pašto adreso ir kitų kontaktinių duomenų, gimimo datos ir vietos, šeiminės padėties, darbovietės ir einamų pareigų, transporto priemonės valstybinio numerio, kredito įstaigos sąskaitos numerio, unikalaus nekilnojamojo ar kito registruotino turto numerio, šio turto buvimo vietos tikslaus adreso, duomenų, sudarančių bylos medžiagą, teismo pripažintą nevieša, taip pat ypatingų asmens duomenų.
+6. Sprendimas paskelbiamas perskaitant jo įžanginę ir rezoliucinę dalis. Teismas kiekvienoje byloje savo nuožiūra nusprendžia, kurios sprendimo dalys, be įžanginės ir rezoliucinės, turi būti paskelbiamos perskaitant. Teismas neskelbia fizinio asmens kodo, paprastai neskelbia gyvenamosios ar buvimo vietos adreso, duomenų apie asmens tapatybę patvirtinantį dokumentą, telefono numerio, elektroninio pašto adreso ir kitų kontaktinių duomenų, gimimo datos ir vietos, šeiminės padėties, darbovietės ir einamų pareigų, transporto priemonės valstybinio numerio, kredito įstaigos sąskaitos numerio, unikalaus nekilnojamojo ar kito registruotino turto numerio, šio turto buvimo vietos tikslaus adreso, duomenų, sudarančių bylos medžiagą, teismo pripažintą nevieša, taip pat specialių kategorijų asmens duomenų. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-607, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12427
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
  
 
 
@@ -9668,12 +9667,12 @@ Apeliacinį skundą turi teisę paduoti dalyvaujantys byloje asmenys.
 
 
 
-3. Apeliacinį skundą surašo advokatas. Juridinio asmens apeliacinį skundą taip pat gali surašyti juridinio asmens darbuotojai ar valstybės tarnautojai, turintys aukštąjį universitetinį teisinį išsilavinimą. Jeigu apeliantas yra fizinis asmuo, turintis aukštąjį universitetinį teisinį išsilavinimą, surašyti apeliacinį skundą turi teisę jis pats. Be to, apeliacinį skundą gali surašyti šio Kodekso 56 straipsnio 1 dalies 4, 5, 6 ir 7 punktuose nurodyti asmenys. Apeliacinį skundą pasirašo jį paduodantis asmuo ir skundą surašęs asmuo. 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos civilinio proceso kodekso 306 straipsnio 3 dalis (2016 m. lapkričio 8 d. redakcija; TAR, 2016-11-17, Nr. 26956) prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+3. Neteko galios nuo 2020-01-30..
 Papildyta straipsnio dalimi:
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 Straipsnio dalies pakeitimai:
 Nr. KT9-N3/2019, 2019-03-01, paskelbta TAR 2019-03-01, i. k. 2019-03464
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
  
 
 
@@ -13784,7 +13783,20 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 
 
 
-3. Rengiant grupės ieškinį, būtinas advokato dalyvavimas. Advokato atstovavimas grupei būtinas teismui nagrinėjant grupės ieškinio bylą. 
+3. Rengiant grupės ieškinį, būtinas advokato dalyvavimas. Advokato atstovavimas grupei būtinas teismui nagrinėjant grupės ieškinio bylą. Šie reikalavimai netaikomi, kai:
+
+
+1) grupės atstovas yra grupės narys, turintis aukštąjį universitetinį teisinį išsilavinimą;
+
+
+
+
+2) grupei atstovauja asociacija arba kitas viešasis juridinis asmuo, profesinė sąjunga ir bylą teisme veda šios asociacijos arba kito viešojo juridinio asmens, profesinės sąjungos darbuotojas, turintis aukštąjį universitetinį teisinį išsilavinimą. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
+ 
 
 
 
@@ -13818,7 +13830,7 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 
 
 
-4413 straipsnis. Grupės ieškinio pareiškimo prielaidos ir sąlygos 
+4413 straipsnis. Grupės ieškinio pareiškimo prielaidos ir sąlygos
 
 
 1. Grupės ieškinys gali būti nagrinėjamas šiame skyriuje nustatyta tvarka, jeigu teismas nustato, kad: 
@@ -13829,17 +13841,12 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 
 
 
-2) grupės ieškinys yra tikslingesnis, efektyvesnis ir tinkamesnis būdas išspręsti konkretų ginčą negu individualūs ieškiniai;
+2) buvo laikytasi šio Kodekso 4412 straipsnyje numatytos išankstinio ginčų sprendimo ne teisme tvarkos;
 
 
 
 
-3) buvo laikytasi šio Kodekso 4412 straipsnyje numatytos išankstinio ginčų sprendimo ne teisme tvarkos;
-
-
-
-
-4) grupė turi tinkamą grupės atstovą. 
+3) grupė turi grupės atstovą, kuris atitinka šio Kodekso 4414 straipsnio 1 ar 2 dalyje nustatytus reikalavimus.
 
 
 
@@ -13854,7 +13861,7 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 
 
 
-2) grupė turi grupės advokatą.
+2) grupė turi grupės advokatą (išskyrus šiame Kodekse numatytus atvejus, kai grupei turėti advokatą neprivaloma).
 
 
 
@@ -13869,37 +13876,32 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 
 
 
-2) pagrįsta, kodėl reikalavimus tikslingiausia, efektyviausia ir tinkamiausia nagrinėti pagal grupės ieškinio proceso taisykles;
+2) apibūdinta grupė, su kuria susijęs grupės ieškinys;
 
 
 
 
-3) apibūdinta grupė, su kuria susijęs grupės ieškinys;
+3) nurodytos aplinkybės, kurios yra tapačios ar panašios visiems grupės nariams;
 
 
 
 
-4) nurodytos aplinkybės, kurios yra tapačios ar panašios visiems grupės nariams;
+4) pareikšti individualaus pobūdžio turtiniai grupės narių reikalavimai (jeigu jie reiškiami) ir nurodytos aplinkybės, kurios gali būti svarbios vertinant šiuos reikalavimus;
 
 
 
 
-5) pareikšti individualaus pobūdžio turtiniai grupės narių reikalavimai (jeigu jie reiškiami) ir nurodytos aplinkybės, kurios gali būti svarbios vertinant šiuos reikalavimus;
+5) nurodyti duomenys, pagrindžiantys, kad grupės atstovas atitinka šio Kodekso 4414 straipsnio 1 ar 2 dalyje nustatytus reikalavimus;
 
 
 
 
-6) nurodyti duomenys, pagrindžiantys grupės atstovo tinkamumą;
+6) nurodyta, ar buvo tinkamai laikytasi šio Kodekso 4412 straipsnyje numatytos išankstinio ginčų sprendimo ne teisme tvarkos;
 
 
 
 
-7) nurodyta, ar buvo tinkamai laikytasi šio Kodekso 4412 straipsnyje numatytos išankstinio ginčų sprendimo ne teisme tvarkos;
-
-
-
-
-8) grupės atstovo ir grupės  advokato parašai.
+7) grupės atstovo ir grupės advokato (išskyrus šiame Kodekse numatytus atvejus, kai grupei turėti advokatą neprivaloma) parašai.
 
 
 
@@ -13914,7 +13916,7 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 
 
 
-2) teisinių paslaugų teikimo sutartis (jos išrašas), sudaryta grupės atstovo ir grupės advokato; 
+2) teisinių paslaugų teikimo sutartis (jos išrašas), sudaryta grupės atstovo ir grupės advokato (išskyrus šiame Kodekse numatytus atvejus, kai grupei turėti advokatą neprivaloma); 
 
 
 
@@ -13929,12 +13931,14 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 
 
 
-5) įrodymai, kad buvo tinkamai laikytasi šio Kodekso 4412 straipsnyje numatytos išankstinio ginčų sprendimo ne teisme tvarkos.
+5) įrodymai, kad buvo tinkamai laikytasi šio Kodekso 4412 straipsnyje numatytos išankstinio ginčų sprendimo ne teisme tvarkos. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
  
-
-
-
-
 
 
 
@@ -13942,7 +13946,10 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 4414 straipsnis. Grupės atstovo procesinė padėtis, teisės ir pareigos
 
 
-1. Grupės atstovas yra reikalavimą byloje pareiškiantis ir bylos baigtimi suinteresuotas grupės narys (išskyrus šio straipsnio 2 dalyje numatytą atvejį), kuris grupės narių vardu pasirašo ieškinį ir kartu su grupės advokatu veda grupės ieškinio bylą atstovaudamas visų grupės narių interesams. 
+1. Grupės atstovas yra reikalavimą byloje pareiškiantis ir bylos baigtimi suinteresuotas grupės narys (išskyrus šio straipsnio 2 dalyje numatytą atvejį), kuris grupės narių vardu pasirašo ieškinį ir kartu su grupės advokatu (išskyrus šiame Kodekse numatytus atvejus, kai grupei turėti advokatą neprivaloma) veda grupės ieškinio bylą atstovaudamas visų grupės narių interesams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
+ 
 
 
 
@@ -14010,7 +14017,10 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 
 
 
-2) daugiau kaip pusė visų grupės narių pateikia teismui kreipimąsi dėl grupės atstovo pakeitimo. Šiame kreipimesi turi būti nurodytas asmuo, kurį grupės nariai siūlo pripažinti grupės atstovu. Kreipimąsi turi pasirašyti jį teikiantys grupės nariai, kartu su kreipimusi turi būti pateiktas rašytinis asmens, kurį siūloma pripažinti grupės atstovu, sutikimas būti grupės atstovu;
+2) daugiau kaip pusė visų grupės narių savo iniciatyva arba teismui pasiūlius pasinaudoti teise pakeisti grupės atstovą pateikia teismui kreipimąsi dėl grupės atstovo pakeitimo. Šiame kreipimesi turi būti nurodytas asmuo, kurį grupės nariai siūlo pripažinti grupės atstovu. Kreipimąsi turi pasirašyti jį teikiantys grupės nariai, kartu su kreipimusi turi būti pateiktas rašytinis asmens, kurį siūloma pripažinti grupės atstovu, sutikimas būti grupės atstovu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
+ 
 
 
 
@@ -14084,7 +14094,10 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 
 
 
-2. Grupė gali pasinaudoti teise atsiimti grupės ieškinį tol, kol teismas pagal šio Kodekso 4418 straipsnio 4 dalį neišsiuntė ieškinio kopijos atsakovui. Vėliau atsiimti grupės ieškinį galima tik turint atsakovo sutikimą ir ne vėliau kaip iki pirmosios instancijos teismo sprendimo priėmimo. Jeigu grupė atsiima grupės ieškinį po to, kai teismas išsiuntė ieškinio kopiją atsakovui, grupės atstovas turi teismui pateikti daugiau kaip pusės visų grupės narių rašytinius sutikimus dėl grupės ieškinio atsiėmimo. Šiuos procesinius veiksmus atlieka grupės atstovas.
+2. Grupė gali pasinaudoti teise atsiimti grupės ieškinį tol, kol teismas pagal šio Kodekso 4418 straipsnio 7 dalį neišsiuntė pranešimo atsakovui. Vėliau atsiimti grupės ieškinį galima tik turint atsakovo sutikimą ir ne vėliau kaip iki pirmosios instancijos teismo sprendimo priėmimo. Jeigu grupė atsiima grupės ieškinį po to, kai teismas išsiuntė pranešimą atsakovui, grupės atstovas turi teismui pateikti daugiau kaip pusės visų grupės narių rašytinius sutikimus dėl grupės ieškinio atsiėmimo. Šiuos procesinius veiksmus atlieka grupės atstovas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
+ 
 
 
 
@@ -14110,12 +14123,18 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 4417 straipsnis. Grupės ieškinio priėmimas 
 
 
-1. Grupės atstovui pareiškus grupės ieškinį, teismas nutartimi dėl grupės ieškinio priėmimo išsprendžia klausimą, ar ieškinys gali būti nagrinėjamas pagal grupės ieškinio proceso taisykles, įvertina, ar visi ieškinį reiškiantys asmenys gali būti laikomi grupės nariais, ar pareikšti individualaus pobūdžio turtiniai reikalavimai yra susiję su grupės ieškinio dalyku ir pagrindu. Teismas, spręsdamas, ar grupės ieškinys yra tikslingesnis, efektyvesnis ir tinkamesnis būdas išspręsti konkretų ginčą negu individualūs ieškiniai, pagal grupės atstovo pateiktą informaciją ir kitus teismui žinomus duomenis įvertina apibūdintą grupę, grupės ieškiniu ginamų pažeistų teisių ir įstatymų saugomų interesų pobūdį, bendro grupės reikalavimo ir individualaus pobūdžio turtinių grupės narių reikalavimų (jeigu jie reiškiami) santykį, individualaus pobūdžio turtinių grupės narių reikalavimų (jeigu jie reiškiami) dydį ir kitas aplinkybes. Teismas, spręsdamas grupės atstovo tinkamumo klausimą, įvertina atstovo sąžiningumą, reputaciją, kompetenciją atstovauti grupei, atstovo patirtį kitose bylose dėl grupės ieškinio, jeigu grupės atstovas ją turi, jo procesinį elgesį nagrinėjant tokias bylas, ar nėra grupės atstovo ir grupės narių interesų konflikto. Ta pačia nutartimi teismas nustato grupės papildymo terminą ir patvirtina grupės atstovo pateiktą pranešimą dėl grupės pildymo. Ši nutartis gali būti skundžiama atskiruoju skundu. Jeigu toks skundas paduodamas, teismas sustabdo bylą, kol atskirasis skundas bus išnagrinėtas. Išnagrinėjus paduotą atskirąjį skundą priimta nutartis yra galutinė ir kasacine tvarka neskundžiama.
+1. Grupės atstovui pareiškus grupės ieškinį, teismas nutartimi dėl grupės ieškinio priėmimo išsprendžia klausimą, ar ieškinys gali būti nagrinėjamas pagal grupės ieškinio proceso taisykles. Ta pačia nutartimi teismas nustato grupės papildymo terminą ir patvirtina grupės atstovo pateiktą pranešimą dėl grupės pildymo. Nutartis, kuria atsisakyta priimti grupės ieškinį, gali būti skundžiama atskiruoju skundu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
+ 
 
 
 
 
-2. Prieš priimdamas nutartį dėl grupės ieškinio priėmimo, teismas šio Kodekso 142 straipsnio 1 dalyje nustatyta tvarka išsiunčia atsakovui grupės ieškinio kopiją ir jam praneša, kad atsakovas gali pareikšti nuomonę per septynias dienas nuo šioje dalyje nurodytų dokumentų įteikimo dienos. Be to, teismas praneša atsakovui apie žinomus ieškovus prie grupės ieškinio kopijos pridėdamas grupės narių sąrašo kopiją ir pažymi, kad šiuo metu grupė nėra patvirtinta, todėl žinomi ne visi ieškovai.
+2. Neteko galios 2020-01-30.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
+ 
 
 
 
@@ -14156,12 +14175,18 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 
 
 
-4. Pasibaigus šio straipsnio 1 dalyje nustatytam terminui, grupės atstovas ne vėliau kaip per keturiolika kalendorinių dienų turi pateikti teismui tvirtinti patikslintą grupės narių sąrašą ir, jeigu reikia, patikslintą grupės ieškinį. Keturiolikos kalendorinių dienų terminą teismas gali atnaujinti, pripažinęs, kad šis terminas praleistas dėl svarbių priežasčių. Patikslintas grupės narių sąrašo kopiją ir grupės ieškinio kopiją teismas nedelsdamas išsiunčia atsakovui šio Kodekso 117 straipsnio 1 dalyje nustatyta tvarka, nurodydamas, kad atsakovas per septynias dienas nuo šioje dalyje nurodytų dokumentų įteikimo dienos gali pareikšti nuomonę dėl patikslinto grupės narių sąrašo ir dėl patikslinto grupės ieškinio. 
+4. Pasibaigus šio straipsnio 1 dalyje nustatytam terminui, grupės atstovas ne vėliau kaip per keturiolika kalendorinių dienų turi pateikti teismui tvirtinti patikslintą grupės narių sąrašą ir, jeigu reikia, patikslintą grupės ieškinį. Keturiolikos kalendorinių dienų terminą teismas gali atnaujinti, pripažinęs, kad šis terminas praleistas dėl svarbių priežasčių. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
+ 
 
 
 
 
-5. Teismas, įvertinęs atsakovo nuomonę, nutartimi išsprendžia klausimą, ar patikslintas grupės ieškinys, kurį pareiškė grupės atstovas, atitinka šio Kodekso 4413 straipsnyje nustatytas sąlygas, ir, įvertinęs, ar visi ieškinį pareiškę asmenys gali būti laikomi grupės nariais, patvirtina galutinį grupės narių sąrašą. 
+5. Teismas nutartimi išsprendžia klausimą, ar patikslintas grupės ieškinys, kurį pareiškė grupės atstovas, atitinka šio Kodekso 4413 straipsnyje nustatytas sąlygas, ir, įvertinęs, ar visi ieškinį pareiškę asmenys gali būti laikomi grupės nariais, patvirtina galutinį grupės narių sąrašą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
+ 
 
 
 
@@ -14192,7 +14217,10 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 
 
 
-2. Tarpinis sprendimas – teismo, žodinio proceso tvarka išnagrinėjusio grupės ieškiniu reiškiamus bendrus grupės reikalavimus dėl grupės narius vienijančių faktinių aplinkybių, priimtas sprendimas, kuris yra bendras visiems grupės nariams ir priimamas tais atvejais, kai grupės ieškinyje reiškiami individualaus pobūdžio turtiniai grupės narių reikalavimai.
+2. Tarpinis sprendimas – teismo, žodinio proceso tvarka išnagrinėjusio grupės ieškiniu reiškiamus bendrus grupės reikalavimus, priimtas sprendimas, kuris yra bendras visiems grupės nariams ir priimamas tais atvejais, kai grupės ieškinyje reiškiami individualaus pobūdžio turtiniai grupės narių reikalavimai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
+ 
 
 
 
@@ -14234,7 +14262,9 @@ Kai iki  galutinio grupės sąrašo patvirtinimo pagal šio Kodekso 4418 straip
 
 
 
-4. Teismas, įvertinęs grupės narių skaičiaus sumažėjimą, turi teisę nuspręsti dėl tolesnio bylos nagrinėjimo pagal grupės ieškinio proceso taisykles tikslingumo, efektyvumo ir tinkamumo.
+4. Teismas, įvertinęs grupės narių skaičiaus sumažėjimą, turi teisę nuspręsti dėl tolesnio bylos nagrinėjimo pagal grupės ieškinio proceso taisykles. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
  
 
 
@@ -14256,7 +14286,10 @@ Teismo procesinių dokumentų įteikimas grupės atstovui ir grupės advokatui v
 44113 straipsnis. Apeliacinio proceso ypatumai
 
 
-1. Grupės apeliacinį skundą dėl pirmosios instancijos teismo grupės ieškinio byloje priimto neįsiteisėjusio bendro sprendimo arba dėl neįsiteisėjusio tarpinio sprendimo turi teisę paduoti grupės atstovas. Grupės apeliacinį skundą surašo grupės advokatas. Grupės apeliacinį skundą pasirašo grupės advokatas ir grupės atstovas.
+1. Grupės apeliacinį skundą dėl pirmosios instancijos teismo grupės ieškinio byloje priimto neįsiteisėjusio bendro sprendimo arba dėl neįsiteisėjusio tarpinio sprendimo turi teisę paduoti grupės atstovas. Grupės apeliacinį skundą surašo grupės advokatas. Grupės apeliacinį skundą pasirašo grupės advokatas ir grupės atstovas. Kai šiame Kodekse numatytais atvejais grupei turėti advokatą neprivaloma, grupės apeliacinį skundą surašo ir pasirašo grupės atstovas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
+ 
 
 
 
@@ -14271,7 +14304,10 @@ Teismo procesinių dokumentų įteikimas grupės atstovui ir grupės advokatui v
 
 
 
-4. Teismas, gavęs šio straipsnio 3 dalyje nurodytą grupės nario kreipimąsi dėl jo pripažinimo grupės atstovu apeliaciniame procese, atsižvelgdamas į šio Kodekso 4417 straipsnio 1 dalį, ne vėliau kaip per tris darbo dienas nuo kreipimosi gavimo dienos priima nutartį dėl grupės atstovo pakeitimo. Prie kreipimosi grupės narys prideda daugiau kaip pusės visų grupės narių rašytinius sutikimus dėl jo pripažinimo grupės atstovu. Teismo nutartis, kuria pakeičiamas grupės atstovas, skelbiama viešai specialiame interneto tinklalapyje. Ši nutartis neskundžiama.
+4. Teismas, gavęs šio straipsnio 3 dalyje nurodytą grupės nario kreipimąsi dėl jo pripažinimo grupės atstovu apeliaciniame procese, ne vėliau kaip per tris darbo dienas nuo kreipimosi gavimo dienos priima nutartį dėl grupės atstovo pakeitimo. Prie kreipimosi grupės narys prideda daugiau kaip pusės visų grupės narių rašytinius sutikimus dėl jo pripažinimo grupės atstovu. Teismo nutartis, kuria pakeičiamas grupės atstovas, skelbiama viešai specialiame interneto tinklalapyje. Ši nutartis neskundžiama. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
+ 
 
 
 
@@ -14297,7 +14333,9 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 
 
-8. Atskiruosius skundus dėl pirmosios instancijos teismo grupės ieškinio byloje priimtų nutarčių turi teisę paduoti grupės atstovas. Atskirąjį skundą surašo grupės advokatas. Atskirąjį skundą pasirašo grupės advokatas ir grupės atstovas. Atskirųjų skundų padavimui taikomos šio Kodekso XVI skyriaus antrajame skirsnyje nustatytos taisyklės.
+8. Atskiruosius skundus dėl pirmosios instancijos teismo grupės ieškinio byloje priimtų nutarčių turi teisę paduoti grupės atstovas. Atskirąjį skundą surašo grupės advokatas. Atskirąjį skundą pasirašo grupės advokatas ir grupės atstovas. Kai šiame Kodekse numatytais atvejais grupei turėti advokatą neprivaloma, atskirąjį skundą surašo ir pasirašo grupės atstovas. Atskirųjų skundų padavimui taikomos šio Kodekso XVI skyriaus antrajame skirsnyje nustatytos taisyklės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
  
 
 
@@ -14337,9 +14375,10 @@ Bylinėjimosi išlaidos paskirstomos vadovaujantis šiame Kodekse nustatytomis b
 44116 straipsnis. Žyminis mokestis grupės ieškinio byloje
 
 
-1. Už grupės ieškinį dėl grupės nariams bendro neturtinio reikalavimo mokamas penkių šimtų eurų žyminis mokestis. Šis žyminis mokestis grupės nariams tenka lygiomis dalimis. 
+1. Už grupės ieškinį dėl grupės nariams bendro neturtinio reikalavimo mokamas penkių šimtų eurų žyminis mokestis. Šis žyminis mokestis grupės nariams tenka lygiomis dalimis. Nuo šio žyminio mokesčio mokėjimo atleidžiami vartotojai, kai grupės ieškiniu reiškiami reikalavimai kyla iš vartojimo teisinių santykių. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
  
 
 
@@ -25344,3 +25383,8 @@ Lietuvos Respublikos civilinio proceso kodekso 34, 80, 83, 87, 137, 163, 166, 17
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2270, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11192
 Lietuvos Respublikos civilinio proceso kodekso 603, 626, 692 ir 755 straipsnių pakeitimo įstatymas
+ 
+46.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
+Lietuvos Respublikos civilinio proceso kodekso 56, 93, 268, 306, 441-1, 441-3, 441-4, 441-6, 441-7, 441-8, 441-9, 441-11, 441-13 ir 441-16 straipsnių pakeitimo įstatymas
