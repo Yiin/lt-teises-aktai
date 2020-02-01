@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-01-31
+Suvestinė redakcija nuo 2020-02-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
  
@@ -1568,9 +1568,18 @@ Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 
 
 
-57) atlyginimas už kompetentingai institucijai Lietuvos Respublikos pranešėjų apsaugos įstatymo nustatyta tvarka pateiktą vertingą informaciją apie pažeidimą.
+57) atlyginimas už kompetentingai institucijai Lietuvos Respublikos pranešėjų apsaugos įstatymo nustatyta tvarka pateiktą vertingą informaciją apie pažeidimą;
 Papildyta straipsnio punktu:
 Nr. XIII-1849, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21881
+ 
+
+
+
+
+58) darbuotojo pagal pasirinkimo sandorius iš darbdavio ar su juo susijusio asmens nauda, gauta įsigijus akcijų neatlygintinai ar už lengvatinę kainą, jeigu akcijos įsigyjamos ne anksčiau kaip po 3 metų nuo teisės į pasirinkimo sandorį suteikimo. 
+TAR pastaba. 58 punkto nuostatos taikomos pajamoms pagal pasirinkimo sandorius, kurie sudaryti nuo 2020 m. vasario 1 d.
+Papildyta straipsnio punktu:
+Nr. XIII-2311, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12110
  
 
 
@@ -3442,3 +3451,8 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 6, 16
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2692, 2019-12-17, paskelbta TAR 2019-12-27, i. k. 2019-21324
 Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 34 ir 35 straipsnių pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2311, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12110
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 straipsnio pakeitimo įstatymas
