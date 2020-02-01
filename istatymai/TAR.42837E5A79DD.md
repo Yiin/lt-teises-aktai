@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-01-31
+Suvestinė redakcija nuo 2020-02-01 iki 2020-11-20
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -2510,10 +2510,10 @@ Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
 
 
 
-16) jis yra Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos pilietis, kuris ketina dirbti ar užsiimti kita teisėta veikla Lietuvos Respublikoje. 
-16 punkto redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
-16) jis yra Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos pilietis, kuris ketina dirbti ar užsiimti kita teisėta veikla Lietuvos Respublikoje.
+16) jis yra Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos pilietis, kuris ketina dirbti ar užsiimti kita teisėta veikla Lietuvos Respublikoje. 
 Papildyta straipsnio punktu:
+Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+Straipsnio punkto pakeitimai:
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
  
 
@@ -3673,31 +3673,31 @@ Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
 
 
 
-495 straipsnis. Leidimo laikinai gyventi išdavimas Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiui, kuris ketina dirbti ar užsiimti kita teisėta veikla Lietuvos Respublikoje 
-
-
-1. Leidimas laikinai gyventi gali būti išduodamas ir keičiamas Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiui, kuris Lietuvos Respublikoje:
-
-
-1) dirba pagal darbo sutartį arba pateikiamas darbdavio įsipareigojimas jį įdarbinti pagal darbo sutartį;
-
-
-
-
-2) yra įmonės, kuri vykdo steigimo dokumentuose nurodytą veiklą Lietuvos Respublikoje, dalyvis ar vadovas ir jo atvykimo tikslas yra darbas toje įmonėje;
-
-
-
-
-3) užsiima kita teisėta veikla ar pateikia dokumentus, patvirtinančius, kad ketina užsiimti kita teisėta veikla, įskaitant individualią veiklą, kaip ji apibrėžiama Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme.
-1 dalies redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
-1. Leidimas laikinai gyventi gali būti išduodamas ir keičiamas Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiui, kuris Lietuvos Respublikoje:
-1) dirba pagal darbo sutartį arba pateikiamas darbdavio įsipareigojimas jį įdarbinti pagal darbo sutartį;
-2) yra įmonės, kuri vykdo steigimo dokumentuose nurodytą veiklą Lietuvos Respublikoje, dalyvis ar vadovas ir jo atvykimo tikslas yra darbas toje įmonėje;
-3) užsiima kita teisėta veikla ar pateikia dokumentus, patvirtinančius, kad ketina užsiimti kita teisėta veikla, įskaitant individualią veiklą, kaip ji apibrėžiama Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme.
+495 straipsnis. Leidimo laikinai gyventi išdavimas Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiui, kuris ketina dirbti ar užsiimti kita teisėta veikla Lietuvos Respublikoje 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
  
 
 
+1. Leidimas laikinai gyventi gali būti išduodamas ir keičiamas Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiui, kuris Lietuvos Respublikoje:
+
+
+1) dirba pagal darbo sutartį arba pateikiamas darbdavio įsipareigojimas jį įdarbinti pagal darbo sutartį;
+
+
+
+
+2) yra įmonės, kuri vykdo steigimo dokumentuose nurodytą veiklą Lietuvos Respublikoje, dalyvis ar vadovas ir jo atvykimo tikslas yra darbas toje įmonėje;
+
+
+
+
+3) užsiima kita teisėta veikla ar pateikia dokumentus, patvirtinančius, kad ketina užsiimti kita teisėta veikla, įskaitant individualią veiklą, kaip ji apibrėžiama Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+ 
 
 
 
@@ -4603,7 +4603,7 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 
 
 
-12) neteko galios 2019-03-01;.
+12) neteko galios 2019-03-01;
 Papildyta straipsnio punktu:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 Straipsnio punkto pakeitimai:
@@ -4613,10 +4613,10 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 
 
-13) jis yra Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos pilietis, kuris atvyksta į Lietuvos Respubliką dirbti (įskaitant nurodytoje valstybėje įsteigtos įmonės atsiunčiamą laikinai dirbti į įmonę Lietuvos Respublikoje pagal tarp šių įmonių sudarytą sutartį dėl paslaugų teikimo ar darbų atlikimo) ar užsiimti kita teisėta veikla. 
-13 punkto redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
-13) jis yra Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos pilietis, kuris atvyksta į Lietuvos Respubliką dirbti (įskaitant nurodytoje valstybėje įsteigtos įmonės atsiunčiamą laikinai dirbti į įmonę Lietuvos Respublikoje pagal tarp šių įmonių sudarytą sutartį dėl paslaugų teikimo ar darbų atlikimo) ar užsiimti kita teisėta veikla;
+13) jis yra Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos pilietis, kuris atvyksta į Lietuvos Respubliką dirbti (įskaitant nurodytoje valstybėje įsteigtos įmonės atsiunčiamą laikinai dirbti į įmonę Lietuvos Respublikoje pagal tarp šių įmonių sudarytą sutartį dėl paslaugų teikimo ar darbų atlikimo) ar užsiimti kita teisėta veikla; 
 Papildyta straipsnio punktu:
+Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
+Straipsnio punkto pakeitimai:
 Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
  
 
