@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/61b5aa40794511e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2020-01-31
+Suvestinė redakcija nuo 2020-02-01 iki 2020-06-22
  
 Įstatymas paskelbtas: TAR 2018-06-26, i. k. 2018-10518
  
@@ -206,7 +206,10 @@ TEISĖS Į FINANSINĘ PASKATĄ PIRMĄJĮ BŪSTĄ ĮSIGYJANČIOMS JAUNOMS ŠEIMOM
 
 
 
-2) iki kreipimosi į šio įstatymo 6 straipsnio 1 dalyje nurodytą instituciją dėl finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms dienos neturėjo ir kreipimosi bei pažymos išdavimo metu nė vienas jaunos šeimos narys neturi Lietuvos Respublikoje ir užsienio valstybėje nuosavybės teise priklausančio būsto;
+2) nė vienas jaunos šeimos narys, būdamas visiškai veiksnus (išskyrus jaunos šeimos vaikus), ir jaunos šeimos vaikai (kaip jie apibrėžti Paramos būstui įsigyti ar išsinuomoti įstatymo 2 straipsnio 11 dalyje) iki kreipimosi į šio įstatymo 6 straipsnio 1 dalyje nurodytą instituciją dėl finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms dienos neturėjo ir kreipimosi bei pažymos išdavimo metu nė vienas jaunos šeimos narys neturi Lietuvos Respublikoje ir užsienio valstybėje nuosavybės teise priklausančio būsto. Jeigu asmens nuosavybės teise turėtas ar asmeniui nuosavybės teise priklausantis būstas atitinka Paramos būstui įsigyti ar išsinuomoti įstatymo 8 straipsnio 2 punkto b papunktyje nustatytus būsto požymius, laikoma, kad jauna šeima atitinka šiame punkte nustatytą reikalavimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2753, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21603
+ 
 
 
 
@@ -249,7 +252,10 @@ TEISĖS Į FINANSINĘ PASKATĄ PIRMĄJĮ BŪSTĄ ĮSIGYJANČIOMS JAUNOMS ŠEIMOM
 
 
 
-3. Savivaldybės administracija ne vėliau kaip per 10 darbo dienų nuo šio straipsnio 1 dalyje nurodytų dokumentų gavimo dienos jaunai šeimai išduoda pažymą, galiojančią 15 kalendorinių dienų nuo jos išdavimo dienos, bet ne ilgiau kaip iki tų metų gruodžio 31 dienos, arba pateikia motyvuotą rašytinį atsisakymą išduoti pažymą, jeigu jauna šeima neatitinka šio įstatymo 5 straipsnio 1 dalyje nustatytų reikalavimų arba jeigu yra panaudoti visi tų metų Lietuvos Respublikos valstybės biudžeto asignavimai finansinei paskatai pirmąjį būstą įsigyjančioms jaunoms šeimoms teikti. Tais atvejais, kai savivaldybės administracija atsisako išduoti pažymą jaunai šeimai, nes yra panaudoti visi tų metų Lietuvos Respublikos valstybės biudžeto asignavimai finansinei paskatai pirmąjį būstą įsigyjančioms jaunoms šeimoms teikti, jauna šeima pagal prašymo užregistravimo savivaldybės administracijoje datą ir laiką įrašoma į jaunų šeimų, laukiančių finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms, sąrašą. Finansinė paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms teikiama laikantis eiliškumo.
+3. Savivaldybės administracija ne vėliau kaip per 10 darbo dienų nuo šio straipsnio 1 dalyje nurodytų dokumentų gavimo dienos jaunai šeimai išduoda pažymą, galiojančią 15 kalendorinių dienų nuo jos išdavimo dienos, bet ne ilgiau kaip iki tų metų gruodžio 31 dienos, arba pateikia motyvuotą rašytinį atsisakymą išduoti pažymą, jeigu jauna šeima neatitinka šio įstatymo 5 straipsnio 1 dalyje nustatytų reikalavimų arba jeigu yra panaudoti visi tų metų Lietuvos Respublikos valstybės biudžeto asignavimai finansinei paskatai pirmąjį būstą įsigyjančioms jaunoms šeimoms teikti. Tais atvejais, kai savivaldybės administracija atsisako išduoti pažymą jaunai šeimai, nes yra panaudoti visi tų metų Lietuvos Respublikos valstybės biudžeto asignavimai finansinei paskatai pirmąjį būstą įsigyjančioms jaunoms šeimoms teikti, jauna šeima pagal prašymo užregistravimo savivaldybės administracijoje datą ir laiką įrašoma į jaunų šeimų, laukiančių finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms, sąrašą. Finansinė paskata pirmąjį būstą įsigyjančioms jaunoms šeimoms teikiama laikantis eiliškumo, išskyrus atvejus, kai kreipiamasi dėl papildomos subsidijos gavimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2753, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21603
+ 
 
 
 
@@ -267,7 +273,10 @@ TEISĖS Į FINANSINĘ PASKATĄ PIRMĄJĮ BŪSTĄ ĮSIGYJANČIOMS JAUNOMS ŠEIMOM
 
 
 
-7 straipsnis. Jaunų šeimų pareigos 
+7 straipsnis. Jaunų šeimų teisės ir pareigos 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2753, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21603
+ 
 
 
 1. Jaunų šeimų pareigos:
@@ -309,9 +318,16 @@ TEISĖS Į FINANSINĘ PASKATĄ PIRMĄJĮ BŪSTĄ ĮSIGYJANČIOMS JAUNOMS ŠEIMOM
 
 
 4) šeimoms, kurios nuo nuosavybės teisės į įsigytą būstą įgijimo dienos praėjus 5 metams yra susilaukusios trijų ar daugiau vaikų ir nori po ne mažiau kaip 5 metų perleisti būstą kito asmens nuosavybėn todėl, kad jį pakeistų į didesnį būstą toje pačioje savivaldybėje.
+
+
+
+
+
+
+4. Jauna šeima turi teisę keisti kredito davėją, kuris teikia kreditus šio įstatymo 9 straipsnyje nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2753, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21603
  
-
-
 
 
 
@@ -453,3 +469,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2146, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09048
 Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymo Nr. XIII-1281 4 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2753, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21603
+Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymo Nr. XIII-1281 5, 6 ir 7 straipsnių pakeitimo įstatymas
