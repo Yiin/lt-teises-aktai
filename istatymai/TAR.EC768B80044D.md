@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC768B80044D"
 
 # Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatymas
 
-Suvestinė redakcija nuo 2016-10-01 iki 2020-01-31
+Įstatymas netenka galios 2024-09-01:
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-2829, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12627
+Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos konstitucinis įstatymas
+ 
+Suvestinė redakcija nuo 2020-02-01 iki 2024-08-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 1-5, i. k. 0981010ISTAIII-1003
  
@@ -74,6 +79,12 @@ Straipsnio dalies pakeitimai:
 Nr. XII-2404, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16852
  
 
+3. Vyriausioji rinkimų komisija savo interneto svetainėje skelbia iniciatyvinių grupių narių vardus ir pavardes. Šie iniciatyvinių grupių narių duomenys skelbiami 10 metų nuo iniciatyvinės grupės įregistravimo Vyriausiojoje rinkimų komisijoje dienos. 
+TAR pastaba. 6 straipsnio papildymas 3 dalimi įsigalioja 2022-01-01.
+Papildyta straipsnio dalimi:
+Nr. XIII-2788, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02280
+ 
+
 7 straipsnis. Piliečių parašų rinkimo lapai
 
 1. Piliečių parašai dėl įstatymų leidybos iniciatyvos renkami piliečių parašų rinkimo lape, kuriame yra toks tekstas: 
@@ -82,9 +93,11 @@ Nr. XII-2404, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16852
 
 2. Piliečių parašų rinkimo lape taip pat pateikiamas visas įstatymo ar jo pakeitimo, papildymo projekto arba sumanymo keisti ar papildyti Lietuvos Respublikos Konstituciją tekstas ir piliečių parašai, prie parašo nurodoma vardas, pavardė, asmens kodas ir nuolatinė gyvenamoji vieta. 
 
-3. Šio straipsnio 1 ir 2 dalyse nustatytus reikalavimus atitinkančiame elektroninės formos piliečių parašų rinkimo lape per šio įstatymo 9 straipsnyje nurodytus terminus piliečiai turi teisę pasirašyti elektroninio ryšio priemonėmis Vyriausiosios rinkimų komisijos nustatyta tvarka. Vyriausioji rinkimų komisija turi užtikrinti piliečių, pasirašančių elektroninės formos piliečių parašų rinkimo lape, duomenų apsaugą. Šie duomenys yra tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, Lietuvos Respublikos elektroninių ryšių įstatymu ir kitais teisės aktais.
+3. Šio straipsnio 1 ir 2 dalyse nustatytus reikalavimus atitinkančiame elektroninės formos piliečių parašų rinkimo lape per šio įstatymo 9 straipsnyje nurodytus terminus piliečiai turi teisę pasirašyti elektroninio ryšio priemonėmis Vyriausiosios rinkimų komisijos nustatyta tvarka. Vyriausioji rinkimų komisija turi užtikrinti piliečių, pasirašančių elektroninės formos piliečių parašų rinkimo lape, duomenų apsaugą. Piliečių duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo, kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu ir kitais teisės aktais. 
 Papildyta straipsnio dalimi:
 Nr. XII-2404, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16852
+Straipsnio dalies pakeitimai:
+Nr. XIII-2788, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02280
  
 
 8 straipsnis. Piliečių parašų rinkimo lapų išdavimo terminai 
@@ -110,7 +123,10 @@ Nr. XII-2404, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16852
 
 1. Lietuvos Respublikos piliečiams ir nustatyta tvarka įregistruotoms politinėms partijoms, kitoms politinėms ir visuomeninėms organizacijoms suteikiama teisė nekliudomai agituoti už iniciatyvinės grupės pateiktą iniciatyvos projektą arba sumanymą keisti ar papildyti Lietuvos Respublikos Konstituciją.
 
-2. Piliečių parašai gali būti renkami viešose vietose, piliečių sutikimu – jų gyvenamosiose patalpose. Draudžiama klastoti piliečių parašus.
+2. Piliečių parašai, užtikrinant piliečių, pasirašančių piliečių parašų rinkimo lape, duomenų apsaugą, gali būti renkami viešose vietose, piliečių sutikimu – jų gyvenamosiose patalpose. Draudžiama klastoti piliečių parašus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2788, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02280
+ 
 
 3. Nuo piliečių iniciatyvinės grupės prašymo pateikimo Vyriausiajai rinkimų komisijai dienos iki tos dienos, kai iniciatyvinė grupė ar jos įgaliotas atstovas grąžina Vyriausiajai rinkimų komisijai piliečių parašų rinkimo lapus, draudžiama tiesiogiai ar netiesiogiai dovanomis ar kitokiu būdu atlyginti ar žadėti atlyginti piliečiams už pasirašymą piliečių parašų rinkimo lapuose. Atlyginimu nelaikomas spausdintos medžiagos (teikiamo įstatymo projekto teksto, informacijos ar nuomonių, pritariančių arba prieštaraujančių teikiamam tekstui) neatlygintinas platinimas.
 
@@ -202,7 +218,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
 
  
@@ -218,4 +234,9 @@ Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatymo 13 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2404, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16852
 Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatymo Nr. VIII-1003 3, 6, 7, 8, 9, 10, 11, 12 ir 13 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2788, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02280
+Lietuvos Respublikos piliečių įstatymų leidybos iniciatyvos įstatymo Nr. VIII-1003 6, 7 ir 10 straipsnių pakeitimo įstatymas
 
