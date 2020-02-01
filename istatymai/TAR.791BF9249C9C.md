@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2019-12-28 iki 2020-01-31
+Suvestinė redakcija nuo 2020-02-01 iki 2020-06-29
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
  
@@ -678,107 +678,99 @@ SPORTO FINANSAVIMAS
 1. Šio įstatymo 16 straipsnio 2 dalyje nurodytos valstybės biudžeto lėšos skirstomos per Sporto rėmimo fondą ir skiriamos įgyvendinti sporto projektams, susijusiems su:
 
 
-1) sporto inventoriaus ir įrangos įsigijimu;
+1) sporto inventoriaus ir įrangos įsigijimu;
 
 
 
 
-2) sporto renginių organizavimu;
+2) sporto renginių organizavimu;
 
 
 
 
-3) kvalifikacijos tobulinimu;
+3) asmenų, dirbančių ar teikiančių paslaugas sporto srityje, kvalifikacijos tobulinimu ir sporto informacijos sklaida;
 
 
 
 
-4) fizinio aktyvumo veiklomis, skatinančiomis fizinio aktyvumo plėtrą;
+4) fizinio aktyvumo veiklomis, skatinančiomis fizinio aktyvumo plėtrą;
 
 
 
 
-5) esamų sporto bazių plėtra, priežiūra ir remontu.
+5) esamų sporto paskirties pastatų arba sporto paskirties inžinerinių statinių plėtra, priežiūra ir remontu.
 
 
 
 
 
 
-2. Sporto rėmimo fondo lėšomis finansuojamų sporto projektų finansavimo tvarką, Sporto rėmimo fondo lėšų paskirstymo proporcijas ir Sporto rėmimo fondo administravimui skirtų lėšų dalį nustato Vyriausybė. Sporto rėmimo fondo administravimui skirtos lėšos negali viršyti 4 procentų metinio Sporto rėmimo fondo biudžeto. Sporto rėmimo fondo lėšos negali būti perduodamos į valstybės biudžetą arba naudojamos kitoms valstybės reikmėms finansuoti, per metus nepanaudotos lėšos naudojamos kitais metais numatytiems sporto projektams finansuoti. Vyriausybė Sporto rėmimo fondo lėšomis finansuojamiems sporto projektams gali nustatyti bendrojo finansavimo dydį iš kitų šaltinių.
+2. Sporto rėmimo fondo lėšomis finansuojamų sporto projektų finansavimo tvarkos aprašą, Sporto rėmimo fondo lėšų paskirstymo proporcijas ir Sporto rėmimo fondo administravimui skirtų lėšų dalį nustato Vyriausybė. Sporto rėmimo fondo administravimui skirtos lėšos negali viršyti 4 procentų metinio Sporto rėmimo fondo biudžeto. Sporto rėmimo fondo lėšos negali būti perduodamos į valstybės biudžetą arba naudojamos kitoms valstybės reikmėms finansuoti, per metus nepanaudotos lėšos naudojamos kitais metais numatytiems sporto projektams finansuoti. Vyriausybė Sporto rėmimo fondo lėšomis finansuojamiems sporto projektams gali nustatyti bendrojo finansavimo dydį iš kitų šaltinių.
 
 
 
 
-3. Planuojant kiekvienų metų valstybės biudžeto asignavimus sporto projektams įgyvendinti, Švietimo, mokslo ir sporto ministerijai ar švietimo, mokslo ir sporto ministro įgaliotai institucijai ir viešajai įstaigai Centrinei projektų valdymo agentūrai skiriamos šio įstatymo 16 straipsnio 2 dalyje nurodyto dydžio lėšos. Ne mažiau kaip 10 procentų šio įstatymo 16 straipsnio 2 dalyje nurodytų lėšų skiriama neįgaliųjų sporto plėtrą skatinantiems projektams įgyvendinti.
+3. Planuojant kiekvienų metų valstybės biudžeto asignavimus sporto projektams įgyvendinti, Švietimo, mokslo ir sporto ministerijai skiriamos šio įstatymo 16 straipsnio 2 dalyje nurodyto dydžio lėšos. Švietimo mainų paramos fondui ir viešajai įstaigai Centrinei projektų valdymo agentūrai lėšos skiriamos iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų. Ne mažiau kaip 10 procentų šio įstatymo 16 straipsnio 2 dalyje nurodytų lėšų skiriama neįgaliųjų sporto plėtros skatinimo projektams įgyvendinti.
 
 
 
 
-4. Švietimo, mokslo ir sporto ministerija ar švietimo, mokslo ir sporto ministro įgaliota institucija, viešoji įstaiga Centrinė projektų valdymo agentūra ir savivaldybės savo interneto svetainėse skelbia su sporto projektais susijusią informaciją: projektus pateikusių subjektų sąrašus, projektų pavadinimus, nustatytus reikalavimus atitinkančių projektų turinio santraukas, prašomų skirti lėšų sumas, projektų turinio vertinimus, sprendimus dėl lėšų skyrimo (neskyrimo) ir šių sprendimų motyvus, informaciją apie projektų įgyvendinimo rezultatus, valstybės ar savivaldybių biudžetų lėšų mokėjimo sustabdymą ar nutraukimą.
+4. Švietimo, mokslo ir sporto ministerija ar Švietimo mainų paramos fondas ir viešoji įstaiga Centrinė projektų valdymo agentūra bei savivaldybės savo interneto svetainėse skelbia su sporto projektais susijusią informaciją: projektus pateikusių subjektų sąrašus, projektų pavadinimus, nustatytus reikalavimus atitinkančių projektų turinio santraukas, prašomų skirti lėšų sumas, projektų turinio vertinimo rezultatus, sprendimus dėl lėšų skyrimo (neskyrimo) ir šių sprendimų motyvus, projektams skirtų lėšų dydžius, projektų trukmę, informaciją apie projektų įgyvendinimo rezultatus, valstybės ar savivaldybių biudžetų lėšų mokėjimo sustabdymą ar nutraukimą.
 
 
 
 
-5. Švietimo, mokslo ir sporto ministerija ar švietimo, mokslo ir sporto ministro įgaliota institucija, vadovaudamosi Sporto rėmimo fondo lėšomis finansuojamų sporto projektų finansavimo tvarkos aprašu, atlieka šio straipsnio 1 dalies 1–4 punktuose nurodytų sporto projektų, finansuojamų Sporto rėmimo fondo lėšomis, atranką ir teikia išvadas sporto projektų komisijai dėl jų tinkamumo finansuoti vertinimo, įgyvendina kitas šiame įstatyme ir Sporto rėmimo fondo lėšomis finansuojamų sporto projektų finansavimo tvarkos apraše nustatytas funkcijas.
+5. Švietimo mainų paramos fondas atlieka šio straipsnio 1 dalies 1–4 punktuose, viešoji įstaiga Centrinė projektų valdymo agentūra – šio straipsnio 1 dalies 5 punkte nurodytų sporto projektų, finansuojamų Sporto rėmimo fondo lėšomis, atranką, vadovaudamiesi Sporto rėmimo fondo lėšomis finansuojamų sporto projektų finansavimo tvarkos aprašu, ir teikia išvadas sporto projektų komisijai dėl jų tinkamumo finansuoti vertinimo, vykdo atrinktų sporto projektų įgyvendinimo priežiūrą, įgyvendina kitas šiame įstatyme ir Sporto rėmimo fondo lėšomis finansuojamų sporto projektų finansavimo tvarkos apraše nustatytas funkcijas.
 
 
 
 
-6. Viešoji įstaiga Centrinė projektų valdymo agentūra, vadovaudamasi Sporto rėmimo fondo lėšomis finansuojamų sporto projektų finansavimo tvarkos aprašu, atlieka šio straipsnio 1 dalies 5 punkte nurodytų sporto projektų, finansuojamų Sporto rėmimo fondo lėšomis, atranką ir teikia išvadas sporto projektų komisijai dėl jų tinkamumo finansuoti vertinimo, vykdo atrinktų sporto projektų įgyvendinimo priežiūrą, įgyvendina kitas šiame įstatyme ir Sporto rėmimo fondo lėšomis finansuojamų sporto projektų finansavimo tvarkos apraše nustatytas funkcijas.
+6. Sporto projektų komisija įvertina jai Švietimo mainų paramos fondo ir viešosios įstaigos Centrinės projektų valdymo agentūros pateiktus tinkamus finansuoti Sporto rėmimo fondo lėšomis sporto projektus ir teikia siūlymus Švietimo, mokslo ir sporto ministerijai ar švietimo, mokslo ir sporto ministro įgaliotai institucijai dėl konkrečių sporto projektų finansavimo.
 
 
 
 
-7. Sporto projektų komisija įvertina jai Švietimo, mokslo ir sporto ministerijos ar švietimo, mokslo ir sporto ministro įgaliotos institucijos ir viešosios įstaigos Centrinės projektų valdymo agentūros pateiktus tinkamus finansuoti Sporto rėmimo fondo lėšomis sporto projektus ir teikia siūlymus Švietimo, mokslo ir sporto ministerijai ar švietimo, mokslo ir sporto ministro įgaliotai institucijai dėl konkrečių sporto projektų finansavimo. 
+7. Sporto projektų komisijos institucinę sudėtį nustato ir jos nuostatus tvirtina Vyriausybė. Į sporto projektų komisiją įtraukiami valstybės institucijų ir įstaigų, Lietuvos savivaldybių asociacijos ir sporto organizacijų atstovai. Vieną atstovą į sporto projektų komisijos narius turi teisę deleguoti olimpiniam sąjūdžiui Lietuvoje vadovaujanti nevyriausybinė organizacija. Po vieną bendrą atstovą į sporto projektų komisijos narius turi teisę deleguoti:
 
 
+1) neįgaliųjų sporto judėjimams Lietuvoje vadovaujančios nevyriausybinės organizacijos;
 
 
-8. Sporto projektų komisijos institucinę sudėtį nustato ir jos nuostatus tvirtina Vyriausybė. Į sporto projektų komisiją įtraukiami valstybės institucijų ir įstaigų, Lietuvos savivaldybių asociacijos ir sporto organizacijų atstovai. Po vieną atstovą į sporto projektų komisijos narius turi teisę deleguoti:
 
 
-1) olimpiniam sąjūdžiui Lietuvoje vadovaujanti nevyriausybinė organizacija;
+2) fizinį aktyvumą plėtojančios skėtinės organizacijos, vienijančios ne mažiau kaip 20 nevyriausybinių organizacijų;
 
 
 
 
-2) neįgaliųjų sporto judėjimams Lietuvoje vadovaujančios nevyriausybinės organizacijos;
+3) sporto visiems judėjimui Lietuvoje vadovaujančios nevyriausybinės organizacijos;
 
 
 
 
-3) fizinį aktyvumą plėtojančios skėtinės organizacijos, vienijančios ne mažiau kaip 20 nevyriausybinių organizacijų;
+4) šio įstatymo 19 straipsnyje nurodytus kriterijus atitinkančios sporto šakų federacijos. 
 
 
 
 
-4) sporto visiems judėjimui Lietuvoje vadovaujančios nevyriausybinės organizacijos;
 
 
+8. Sporto projektų komisijos nariai turi būti nepriekaištingos reputacijos. Sporto projektų komisijos nariams taikomi tokie patys kaip ir valstybės tarnautojams Valstybės tarnybos įstatyme nustatyti kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos.
 
 
-5) šio įstatymo 19 straipsnyje nurodytus kriterijus atitinkančios sporto šakų federacijos.
 
 
+9. Sprendimą dėl sporto projektų finansavimo Sporto rėmimo fondo lėšomis priima švietimo, mokslo ir sporto ministras ar švietimo, mokslo ir sporto ministro įgaliotos institucijos vadovas.
 
 
 
 
-9. Sporto projektų komisijos nariai turi būti nepriekaištingos reputacijos. Sporto projektų komisijos nariams taikomi tokie patys kaip ir valstybės tarnautojams Valstybės tarnybos įstatyme nustatyti kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos.
+10. Savivaldybės vykdomoji institucija ar jos įgaliotos įstaigos, vadovaudamosi savivaldybių tarybų nustatytos savivaldybių biudžetų lėšomis finansuojamų sporto projektų finansavimo tvarkos aprašu, vykdo savivaldybei pateiktų sporto projektų atranką ir priima sprendimus dėl jų bendrojo finansavimo. 
 
 
-
-
-10. Sprendimą dėl sporto projektų finansavimo Sporto rėmimo fondo lėšomis priima švietimo, mokslo ir sporto ministras ar švietimo, mokslo ir sporto ministro įgaliotos institucijos vadovas.
-
-
-
-
-11. Savivaldybės vykdomoji institucija ar jos įgaliotos įstaigos, vadovaudamosi savivaldybių tarybų nustatytos savivaldybių biudžetų lėšomis finansuojamų sporto projektų finansavimo tvarkos aprašu, vykdo savivaldybei pateiktų sporto projektų atranką ir priima sprendimus dėl jų bendrojo finansavimo.
+Straipsnio pakeitimai:
+Nr. XIII-2668, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21308
  
-
-
 
 
 
