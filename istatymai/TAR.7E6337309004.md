@@ -13,24 +13,27 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E6337309004"
 
 # Lietuvos Respublikos Seimo nuolatinio atstovo  įstatymas
 
-Suvestinė redakcija nuo 2006-01-05 iki 2020-02-07
+Suvestinė redakcija nuo 2020-02-08 iki 2021-11-12
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4971, i. k. 1021010ISTA0IX-1165
  
-Nauja redakcija nuo 2006-01-05:
-Nr. X-454, 2005-12-20, Žin. 2006, Nr. 2-15 (2006-01-05), i. k. 1051010ISTA000X-454
+Nauja redakcija nuo 2020-02-08:
+Nr. XIII-2807, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02858
  
-LIETUVOS RESPUBLIKOS  SEIMO NUOLATINIO ATSTOVO EUROPOS SĄJUNGOJE ĮSTATYMAS
+LIETUVOS RESPUBLIKOS 
+SEIMO NUOLATINIO ATSTOVO EUROPOS SĄJUNGOJE
+ĮSTATYMAS
  
 2002 m. spalio 31 d. Nr. IX-1165
 Vilnius
+ 
  
 
 
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas nustato Lietuvos Respublikos Seimo nuolatinio atstovo Europos Sąjungoje (toliau – atstovo) skyrimo, veiklos ir jo veiklos pasibaigimo teisinius pagrindus bei teisinę padėtį. 
+Šis įstatymas nustato Lietuvos Respublikos Seimo nuolatinio atstovo Europos Sąjungoje (toliau – atstovas) statusą, teisinius veiklos pagrindus, socialines ir kitas garantijas, taip pat perkėlimo į šias pareigas ir atšaukimo iš jų tvarką. 
  
 
 
@@ -41,27 +44,27 @@ Vilnius
 2 straipsnis. Atstovas
 
 
-1. Atstovas padeda stiprinti ir plėtoti Lietuvos Respublikos Seimo ir Europos Sąjungos institucijų bendradarbiavimą, teikia informaciją Europos Sąjungos institucijoms apie Lietuvos Respublikos Seimo veiklą, reguliariai informuoja Lietuvos Respublikos Seimą apie Europos Sąjungos institucijų veiklą.
+1. Atstovas padeda stiprinti ir plėtoti Lietuvos Respublikos Seimo, Lietuvos Respublikos Seimo kanceliarijos ir Europos Sąjungos institucijų bendradarbiavimą, teikia informaciją Europos Sąjungos institucijoms apie Seimo veiklą, reguliariai informuoja Seimą ir Seimo kanceliariją apie Europos Sąjungos institucijų veiklą.
 
 
 
 
-2. Atstovu skiriamas karjeros valstybės tarnautojas, einantis ne žemesnes kaip Lietuvos Respublikos Seimo kanceliarijos patarėjo pareigas, turintis darbo patirties tarptautinių santykių srityje.
+2. Į atstovo pareigas perkeliamas Seimo kanceliarijos karjeros valstybės tarnautojas, einantis ne žemesnes kaip vyriausiojo specialisto (Seimo kanceliarijoje) pareigas, turintis darbo patirties Europos Sąjungos reikalų, eurointegracijos ar tarptautinių santykių srityje.
 
 
 
 
-3. Atstovui gali būti paskirtas pavaduotojas. Atstovo pavaduotojas turi atitikti šio straipsnio 2 dalyje nustatytus reikalavimus.
+3. Atstovas privalo turėti teisės aktų nustatyta tvarka išduotą leidimą dirbti ar susipažinti su įslaptinta informacija.
 
 
 
 
-4. Atstovas gali turėti padėjėją (padėjėjų).
+4. Atstovas bendradarbiauja ir savo veiklą koordinuoja su Lietuvos nuolatine atstovybe Europos Sąjungoje (toliau – Atstovybė). Atstovo statusas yra prilyginamas Atstovybėje dirbančio specialiojo atašė statusui.
 
 
 
 
-5. Savo funkcijoms atlikti atstovas, atstovo pavaduotojas ir atstovo padėjėjas (padėjėjai) turi statusą, atitinkamai prilygintą specialiajam atašė, specialiojo atašė pavaduotojui ir specialiojo atašė padėjėjui (padėjėjams), dirbantiems Lietuvos nuolatinėje atstovybėje Europos Sąjungoje.
+5. Prireikus gali būti paskirtas atstovo pavaduotojas, kurio statusas prilyginamas Atstovybėje dirbančio specialiojo atašė pavaduotojo statusui. Į atstovo pavaduotojo pareigas gali būti perkeltas Seimo kanceliarijos karjeros valstybės tarnautojas, einantis ne žemesnes kaip vyresniojo specialisto (Seimo kanceliarijoje) ar padėjėjo (Seimo kanceliarijoje) pareigas, turintis darbo patirties Europos Sąjungos reikalų, eurointegracijos ar tarptautinių santykių srityje. Perkeliant į atstovo pavaduotojo pareigas ir atšaukiant iš jų, nustatant atstovo pavaduotojo funkcijas, pavaldumą, darbo užmokestį, socialines ir kitas garantijas, taikomos šio straipsnio 3 dalies ir šio įstatymo 3, 4, 5, 6 ir 7 straipsnių nuostatos.
  
 
 
@@ -69,25 +72,20 @@ Vilnius
 
 
 
-3 straipsnis. Atstovo, atstovo pavaduotojo ir padėjėjo (padėjėjų) skyrimas
+3 straipsnis. Atranka ir perkėlimas į atstovo pareigas
 
 
-1. Atstovas skiriamas Lietuvos Respublikos Seimo kanclerio sprendimu, Seimo valdybos teikimu, užsienio reikalų ministro rašytiniu pritarimu, vadovaujantis Valstybės tarnybos įstatymo 19 straipsniu. Atstovo kandidatūrą, suderinęs su Seimo Užsienio reikalų komitetu ir atsižvelgdamas į svarstymo Seimo Europos reikalų komitete rezultatus, Seimo valdybai pristato Europos reikalų komiteto pirmininkas. 
-
-
-
-
-2. Atstovas skiriamas trejų metų kadencijai. Atstovo kadencija gali būti pratęsta iki vienų metų vadovaujantis šio straipsnio 1 dalyje nustatyta tvarka. 
+1. Pretendentas į atstovo pareigas atrenkamas iš Seimo kanceliarijos karjeros valstybės tarnautojų ir teikiamas kandidatu Lietuvos Respublikos Seimo kanclerio nustatyta tvarka. Atrinkto pretendento kandidatūrai pritarus bendrame Seimo Europos reikalų komiteto ir Užsienio reikalų komiteto posėdyje, paprastai rengiamame ne vėliau kaip prieš 4 mėnesius iki atstovo kadencijos pabaigos, Seimo Europos reikalų komiteto pirmininkas kandidatūrą pristato Seimo valdybai. Kandidatūrai raštu pritarus Lietuvos Respublikos užsienio reikalų ministrui, Seimo valdyba teikia ją Seimo kancleriui. Valstybės tarnautojas į atstovo pareigas jo rašytiniu sutikimu perkeliamas Seimo kanclerio įsakymu, vadovaujantis Lietuvos Respublikos valstybės tarnybos įstatymo nuostatomis. 
 
 
 
 
-3. Atstovo pavaduotojas skiriamas Lietuvos Respublikos Seimo kanclerio sprendimu, Seimo valdybos teikimu, užsienio reikalų ministro rašytiniu pritarimu, vadovaujantis Valstybės tarnybos įstatymo 19 straipsniu ne ilgesnei kaip trejų metų kadencijai. Atstovo pavaduotojo kandidatūrą Seimo valdybai pristato Europos reikalų komiteto pirmininkas. 
+2. Valstybės tarnautojas į atstovo pareigas perkeliamas trejų metų kadencijai. Esant tarnybinei būtinybei, atstovo kadencija gali būti pratęsta vieną kartą iki vienų metų šio straipsnio 1 dalyje nustatyta tvarka, netaikant atrankos procedūros. 
 
 
 
 
-4. Atstovo padėjėjas (padėjėjai) skiriamas (skiriami) atstovo prašymu Lietuvos Respublikos Seimo kanclerio sprendimu, suderinus su Seimo valdyba. Atstovo padėjėjo (padėjėjų) kandidatūrą (kandidatūras) Seimo valdybai pristato Europos reikalų komiteto pirmininkas.
+3. Apie numatomą valstybės tarnautojo perkėlimą į atstovo pareigas, taip pat apie perkėlimo termino pratęsimą Užsienio reikalų ministerija informuojama ne vėliau kaip prieš mėnesį iki perkėlimo ar perkėlimo termino pratęsimo, nurodant perkėlimo ar pratęsimo terminą ir pateikiant pareigybės aprašymą.
  
 
 
@@ -101,64 +99,59 @@ Vilnius
 1. Atstovas:
 
 
-1) reguliariai informuoja Lietuvos Respublikos Seimą, Seimo komitetus, Seimo valdybą apie Europos Parlamento, Tarybos, Komisijos, Teisingumo Teismo ir Audito Rūmų veiklą;
+1) reguliariai informuoja Seimą, Seimo valdybą, Seimo komitetus, Seimo kanclerį, Seimo kanceliarijos padalinius pagal kompetenciją apie Europos Sąjungos institucijų veiklą Lietuvai aktualiais klausimais, ypač dėl labai aktualių arba aktualių pasiūlymų priimti Europos Sąjungos teisės aktus, išskirtus kaip Seimo prioritetus pagal Europos Komisijos metinę darbo programą, taip pat apie kitų Europos Sąjungos dokumentų svarstymą;
 
 
 
 
-2) informuoja Lietuvos Respublikos Seimą, Seimo komitetus, Seimo valdybą apie kitų Europos Sąjungos institucijų veiklą Lietuvai aktualiais klausimais;
+2) teikia informaciją Europos Sąjungos institucijoms apie Seimo veiklą;
 
 
 
 
-3) teikia informaciją Europos Sąjungos institucijoms apie Lietuvos Respublikos Seimo veiklą;
+3) dalyvauja Europos Parlamento sesijose, komitetų rengiamuose posėdžiuose ir klausymuose, politinių grupių posėdžiuose, kituose renginiuose ir, bendradarbiaudamas su atitinkamais Seimo padaliniais, pagal kompetenciją organizuoja bendradarbiavimą tarp atitinkamų Seimo ir Europos Parlamento padalinių;
 
 
 
 
-4) dalyvauja Europos Parlamento sesijose, komitetų rengiamuose posėdžiuose, klausymuose, politinių grupių posėdžiuose, kituose renginiuose ir, bendradarbiaudamas su atitinkamais Lietuvos Respublikos Seimo komitetais, komisijomis ir padaliniais, pagal savo kompetenciją organizuoja Lietuvos Respublikos Seimo bei Europos Parlamento bendradarbiavimą;
+4) dalyvauja kitų Europos Sąjungos institucijų rengiamuose klausymuose, svarstymuose, darbo grupių posėdžiuose svarbiais Europos Sąjungos politikos klausimais;
 
 
 
 
-5) dalyvauja kitų Europos Sąjungos institucijų rengiamuose klausymuose, svarstymuose, darbo grupių posėdžiuose svarbiais politikos klausimais;
+5) dalyvauja Europos Sąjungos valstybių parlamentų pirmininkų, generalinių sekretorių susitikimuose, Sąjungos reikalų parlamentinių komitetų konferencijoje (COSAC) ir kituose svarbiuose bendruose institucijų renginiuose, prireikus – Seimo organizuojamuose renginiuose ir darbo grupėse;
 
 
 
 
-6) bendradarbiauja ir savo veiklą koordinuoja su Lietuvos nuolatine atstovybe Europos Sąjungoje;
+6) bendradarbiaudamas su atitinkamais Seimo padaliniais, Atstovybe ir Europos Sąjungos institucijomis pagal kompetenciją organizuoja Seimo narių vizitus ir Seimo komitetų išvažiuojamuosius posėdžius Europos Sąjungos institucijose;
 
 
 
 
-7) dalyvauja Europos Sąjungos valstybių parlamentų pirmininkų susitikimuose, parlamentų generalinių sekretorių susitikimuose, Europos reikalų komitetų konferencijoje (COSAC) ir kituose svarbiuose bendruose institucijų renginiuose ir prireikus Lietuvos Respublikos Seimo organizuojamuose renginiuose bei darbo grupėse;
+7) bendradarbiaudamas su atitinkamais Seimo kanceliarijos padaliniais, Atstovybe ir Europos Sąjungos institucijomis pagal kompetenciją organizuoja Seimo kanceliarijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, stažuotes ir vizitus Europos Sąjungos institucijose;
 
 
 
 
-8) bendradarbiaudamas su atitinkamais Lietuvos Respublikos Seimo padaliniais, pagal savo kompetenciją organizuoja Lietuvos Respublikos Seimo narių vizitus Europos Sąjungos institucijose;
+8) pasibaigus eilinei Seimo sesijai parengia savo veiklos ataskaitą ir pateikia ją Seimo Europos reikalų komitetui, Seimo Užsienio reikalų komitetui, Seimo kancleriui, Atstovybei; 
 
 
 
 
-9) pasibaigus eilinei Seimo sesijai, parengia savo veiklos ataskaitą ir pateikia ją Seimo Europos reikalų komitetui, Seimo Užsienio reikalų komitetui, Seimo kancleriui, Lietuvos nuolatinei atstovybei Europos Sąjungoje; 
-
-
-
-
-10) Užsienio reikalų ministerijos ir kitų Lietuvos Respublikos institucijų prašymu teikia joms informaciją apie savo veiklą;
-
-
-
-
-11) atsako už racionalų lėšų, skirtų jo veiklai Europos Sąjungos institucijose, panaudojimą.
+9) Užsienio reikalų ministerijos ir kitų Lietuvos Respublikos institucijų prašymu teikia joms informaciją apie savo veiklą.
 
 
 
 
 
 
-2. Atstovo pavaduotojas atstovo pavedimu atlieka šio straipsnio 1 dalyje numatytas funkcijas.
+2. Atstovo pareigybės aprašymą tvirtina Seimo kancleris. 
+
+
+
+
+3. Seimo kancleris atstovui gali pavesti atlikti ir kitas su jo veikla susijusias funkcijas ir nenuolatinio pobūdžio pavedimus, reikalingus Seimo kanceliarijos strateginiams tikslams pasiekti.
  
 
 
@@ -166,10 +159,11 @@ Vilnius
 
 
 
-5 straipsnis. Atstovo atskaitomybė 
+5 straipsnis. Atstovo pavaldumas ir atskaitomybė 
 
 
-Atstovas yra tiesiogiai atskaitingas Lietuvos Respublikos Seimo kancleriui ir Lietuvos nuolatinės atstovybės Europos Sąjungoje vadovui.
+Atstovas yra tiesiogiai pavaldus ir atskaitingas Seimo kancleriui, taip pat atskaitingas Atstovybės vadovui.
+ 
  
 
 
@@ -177,20 +171,15 @@ Atstovas yra tiesiogiai atskaitingas Lietuvos Respublikos Seimo kancleriui ir Li
 
 
 
-6 straipsnis. Atstovo, atstovo pavaduotojo ir padėjėjo (padėjėjų) materialinis aprūpinimas
+6 straipsnis. Atstovo darbo užmokestis, socialinės ir kitos garantijos
 
 
-1. Atstovui, atstovo pavaduotojui ir padėjėjui (padėjėjams) už darbą užsienyje mokamas Lietuvos Respublikos teisės aktų nustatyto dydžio darbo užmokestis. Atstovui, atstovo pavaduotojui ir padėjėjui (padėjėjams) mokama su darbu užsienyje susijusių išlaidų kompensacija. Jeigu su atstovu, atstovo pavaduotoju ir padėjėju (padėjėjais) buvimo valstybėje kartu gyvena sutuoktinis ir (ar) ne vyresni kaip 18 metų jų vaikai (įvaikiai), atstovui, atstovo pavaduotojui ir padėjėjui (padėjėjams) kartu su darbo užmokesčiu mokamos kompensacijos sutuoktiniui ir vaikams (įvaikiams) išlaikyti. Kompensacijų dydį nustato Lietuvos Respublikos Vyriausybė. Neviršijant Lietuvos Respublikos Vyriausybės nustatytų normų, atstovui, atstovo pavaduotojui ir padėjėjui (padėjėjams) kompensuojamos kartu su jais buvimo valstybėje gyvenančių vaikų (įvaikių) ikimokyklinio auklėjimo ir mokymosi, kol baigs vidurinį mokslą (bet ne ilgiau, iki vaikams (įvaikiams) sukaks 20 metų), išlaidos.
-
-
-
-
-2. Lietuvos Respublikos Vyriausybės nustatyta tvarka atstovas, atstovo pavaduotojas ir padėjėjas (padėjėjai) buvimo valstybėje aprūpinami jų šeimos narių skaičių atitinkančiais butais, apmokamos atstovo, atstovo pavaduotojo ir padėjėjo (padėjėjų) bei jų šeimos narių persikėlimo iš Lietuvos Respublikos į užsienio valstybę ir iš užsienio valstybės į Lietuvos Respubliką išlaidos.
+1. Atstovui nuo perkėlimo į šias pareigas dienos mokamas Lietuvos Respublikos teisės aktų nustatyto dydžio darbo užmokestis. Atstovui taikomos specialiajam atašė numatytos socialinės ir kitos garantijos Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
 
 
 
-3. Išlaidos atstovui, atstovo pavaduotojui ir padėjėjui (padėjėjams) išlaikyti mokamos iš Lietuvos Respublikos Seimo kanceliarijai skirtų asignavimų. 
+2. Darbo užmokestis, išmokos (kompensacijos) ir kitos išlaidos atstovui išlaikyti apmokamos iš Seimo kanceliarijai skirtų asignavimų. 
  
 
 
@@ -198,43 +187,28 @@ Atstovas yra tiesiogiai atskaitingas Lietuvos Respublikos Seimo kancleriui ir Li
 
 
 
-7 straipsnis. Atstovo, atstovo pavaduotojo ar padėjėjo (padėjėjų) veiklos pasibaigimas
+7 straipsnis. Atstovo atšaukimas
 
 
-1. Atstovas ar jo pavaduotojas Lietuvos Respublikos Seimo kanclerio sprendimu ir Lietuvos Respublikos Seimo valdybos teikimu, informavus užsienio reikalų ministrą, gali būti atšauktas anksčiau, negu baigsis jo kadencija:
-
-
-1) Valstybės tarnybos įstatymo nustatytais pagrindais;
+1. Atstovas Seimo kanclerio įsakymu, informavus užsienio reikalų ministrą, atšaukiamas pasibaigus jo perkėlimo laikui.
 
 
 
 
-2) tarptautinės teisės nustatytais pagrindais;
+2. Atstovas Seimo kanclerio įsakymu, informavus užsienio reikalų ministrą, gali būti atšauktas anksčiau, negu baigiasi jo perkėlimo laikas:
+
+
+1) jo paties prašymu;
 
 
 
 
-3) jei Seimo valdyba išreiškia nepasitikėjimą atstovo ar atstovo pavaduotojo veikla.
+2) Valstybės tarnybos įstatymo nustatytais pagrindais;
 
 
 
 
-
-
-2. Atstovo padėjėjas (padėjėjai) Lietuvos Respublikos Seimo kanclerio sprendimu, suderinus su Seimo valdyba, gali būti atšauktas:
-
-
-1) Valstybės tarnybos įstatymo nustatytais pagrindais;
-
-
-
-
-2) tarptautinės teisės nustatytais pagrindais;
-
-
-
-
-3) Seimo valdybos sprendimu.
+3) tarptautinės teisės nustatytais pagrindais.
  
 
 
@@ -260,3 +234,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-454, 2005-12-20, Žin., 2006, Nr. 2-15 (2006-01-05), i. k. 1051010ISTA000X-454
 Lietuvos Respublikos Seimo atstovo Europos Parlamente įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2807, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02858
+Lietuvos Respublikos Seimo nuolatinio atstovo Europos Sąjungoje įstatymo Nr. IX-1165 pakeitimo įstatymas
