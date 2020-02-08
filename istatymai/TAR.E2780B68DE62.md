@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-07-01 iki 2020-02-07
+Suvestinė redakcija nuo 2020-02-08 iki 2020-04-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
  
@@ -114,7 +114,10 @@ Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 
 
 
-14) teršimas – medžiagų, preparatų, organizmų ir mikroorganizmų ar jų junginių (toliau – teršalų) išmetimas (išleidimas, paskleidimas) į aplinką kaip žmonių veiklos rezultatas;
+14) teršimas – medžiagų, mišinių, organizmų ir mikroorganizmų ar jų junginių (toliau – teršalų) išmetimas (išleidimas, paskleidimas) į aplinką kaip žmonių veiklos rezultatas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
+ 
 
 
 
@@ -449,7 +452,10 @@ Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
 
 
 
-9) nustato pavojingų cheminių medžiagų ir pavojingų atliekų, genetiškai modifikuotų organizmų bei potencialių biologinės taršos šaltinių gamybos ir įvežimo, tranzito, išvežimo, naudojimo, saugojimo, laidojimo, nukenksminimo, utilizavimo ir apskaitos tvarką;
+9) nustato cheminių medžiagų ir cheminių mišinių, atliekų tvarkymo ir genetiškai modifikuotų organizmų naudojimo reikalavimus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
+ 
 
 
 
@@ -1477,25 +1483,17 @@ Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
 
 
 
-20 straipsnis. Pavojingų cheminių medžiagų gamyba ir naudojimas
+20 straipsnis. Cheminių medžiagų ir cheminių mišinių tvarkymas
 
 
-Juridiniai ir fiziniai asmenys, naudodami pavojingas chemines medžiagas, privalo laikytis nustatytos šių medžiagų naudojimo, saugojimo, apskaitos, laidojimo, nukenksminimo, transportavimo, tranzito, įvežimo ir išvežimo tvarkos. Tokios medžiagos saugomos, laidojamos ir nukenksminamos jų gamintojo ar naudotojo lėšomis.
-
-
-
-
-Pavojingų cheminių medžiagų naudojimo, saugojimo, apskaitos ir leidimų išdavimo, laidojimo, nukenksminimo, tranzito, įvežimo, išvežimo tvarką nustato Aplinkos ministerija.
-
-
-
-
-Lietuvos Respublikoje draudžiama cheminio ginklo gamyba, dislokavimas, tranzitas ir įvežimas.
+Juridiniai ir fiziniai asmenys (įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat juridinių asmenų ar kitų organizacijų padalinius) privalo laikytis Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatyme ir kituose teisės aktuose nustatytų cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų. 
 
 
 Straipsnio pakeitimai:
-Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19) 
+Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 Nr. IX-2113, 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
+Straipsnio pakeitimai:
+Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
  
 
 
@@ -2389,9 +2387,17 @@ Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
 
 
 
-8) Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos pareigūnai – dėl šio įstatymo 1091 straipsnio 4 dalyje (dėl augalų apsaugos produktų importo į Lietuvos Respublikos teritoriją) ir 7 dalyje (dėl augalų apsaugos produktų tiekimo rinkai) numatytų pažeidimų. 
+8) Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos pareigūnai – dėl šio įstatymo 1091 straipsnio 4 dalyje (dėl augalų apsaugos produktų importo į Lietuvos Respublikos teritoriją) ir 7 dalyje (dėl augalų apsaugos produktų tiekimo rinkai) numatytų pažeidimų; 
 Papildyta straipsnio punktu:
 Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
+ 
+
+
+
+
+9) valstybės įmonės Lietuvos prabavimo rūmų įgalioti pareigūnai – dėl šio įstatymo 109 straipsnio 23 dalyje numatytų pažeidimų. 
+Papildyta straipsnio punktu:
+Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
  
 
 
@@ -4598,6 +4604,54 @@ Informacijos apie atliekų įvežimą, importą ir (ar) dokumentų, patvirtinan�
 
 
 
+871 straipsnis. Juridinių asmenų atsakomybė už Reglamento (ES) Nr. 1257/2013 reikalavimų, susijusių su laivo perdirbimu, pažeidimą 
+
+
+Laivo perdirbimo plano ir (ar) kitų su laivo perdirbimu susijusių dokumentų nepateikimas aplinkos apsaugos valstybinės kontrolės pareigūnams užtraukia baudą nuo dviejų šimtų iki keturių šimtų eurų. 
+
+
+
+
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo keturių šimtų iki aštuonių šimtų eurų.
+
+
+
+
+Laivo perdirbimas nepranešus administracijai apie pasirengimą pradėti laivo perdirbimą ir (ar) po perdirbimo nepateikimas šiai institucijai perdirbimo užbaigimo pažymos, ir (ar) neteisingų duomenų šioje pažymoje pateikimas užtraukia baudą nuo dviejų šimtų penkiasdešimt iki penkių šimtų eurų. 
+
+
+
+
+Šio straipsnio 3 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo penkių šimtų iki aštuonių šimtų eurų.
+
+
+
+
+Laivo perdirbimas neparengus laivo perdirbimo plano pagal Reglamente (ES) Nr.1257/2013 nustatytus reikalavimus ir (ar) neturint Reglamente (ES) Nr. 1257/2013 nurodytos kompetentingos institucijos patvirtinimo dėl laivo perdirbimo plano ir (ar) pagal žinomai klaidingą informaciją parengto laivo perdirbimo plano pateikimas šiai institucijai, ir (ar) laivo perdirbimas nesilaikant patvirtinto laivo perdirbimo plano užtraukia baudą nuo dviejų tūkstančių iki keturių tūkstančių eurų. 
+
+
+
+
+Šio straipsnio 5 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo keturių tūkstančių iki aštuonių tūkstančių eurų. 
+
+
+
+
+Laivo perdirbimas negavus iš laivo savininko paruošimo perdirbti sertifikato kopijos užtraukia baudą nuo dviejų tūkstančių penkių šimtų iki penkių tūkstančių eurų. 
+
+
+
+
+Šio straipsnio 7 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo penkių tūkstančių iki dešimt tūkstančių eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2799, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02851
+ 
+
+
+
+
 88 straipsnis. Juridinių asmenų atsakomybė už nepavojingųjų atliekų perdavimą asmeniui, kuris neturi teisės tvarkyti šias atliekas, arba perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu nėra sudaryta rašytinės formos sutartis dėl šių atliekų naudojimo ir (ar) šalinimo, arba perdavimas asmeniui, kuris turi teisę tvarkyti šias atliekas, tačiau su šiuo asmeniu sudarytoje rašytinės formos sutartyje dėl šių atliekų naudojimo ir (ar) šalinimo numatytas mažesnis atliekų kiekis negu perduotų atliekų kiekis
 
 
@@ -5204,25 +5258,43 @@ Pakuočių apskaitos nevykdymas užtraukia baudą nuo septynių šimtų iki vien
 
 
 
-109 straipsnis. Juridinių asmenų atsakomybė už cheminių medžiagų ir mišinių (preparatų) tvarkymo reikalavimų pažeidimą
+1081 straipsnis. Juridinių asmenų atsakomybė už lengvųjų plastikinių pirkinių maišelių, išskyrus labai lengvus plastikinius pirkinių maišelius, neatlygintiną dalijimą prekių ar produktų pardavimo vietose
 
 
-Pavojingų cheminių medžiagų ir mišinių (preparatų) sandėliavimas pažeidžiant nustatytus reikalavimus užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų.
-
-
-
-
-Pavojingų cheminių medžiagų ir mišinių (preparatų) sandėliavimas pažeidžiant nustatytus reikalavimus, sukėlęs žalą aplinkai, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+Lengvųjų plastikinių pirkinių maišelių, išskyrus labai lengvus plastikinius pirkinių maišelius, neatlygintinas dalijimas prekių ar produktų pardavimo vietose užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
 
 
 
 
-Reikalavimo pranešti Europos cheminių medžiagų agentūrai apie chemines medžiagas, atskiras ir esančias mišinių (preparatų) ar gaminių sudėtyje, Reglamento (EB) Nr. 1272/2008 nustatyta tvarka, kad jos būtų įtrauktos į klasifikavimo ir ženklinimo inventorių po rašytinio įspėjimo, nevykdymas užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki penkių tūkstančių eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2799, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02851
+ 
 
 
 
 
-Gaminamų, tiekiamų rinkai, importuojamų, eksportuojamų, platinamų, naudojamų cheminių medžiagų ir mišinių (preparatų) apskaitos reikalavimų pažeidimas po rašytinio įspėjimo užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+109 straipsnis. Juridinių asmenų atsakomybė už cheminių medžiagų ir cheminių mišinių tvarkymo reikalavimų pažeidimą
+
+
+Cheminių medžiagų ir (ar) cheminių mišinių sandėliavimas pažeidžiant nustatytus reikalavimus užtraukia baudą nuo šešių šimtų iki aštuonių šimtų penkiasdešimt eurų.
+
+
+
+
+Cheminių medžiagų ir (ar) cheminių mišinių sandėliavimas pažeidžiant nustatytus reikalavimus, sukėlęs žalą aplinkai, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+
+
+
+
+Reikalavimo pranešti Europos cheminių medžiagų agentūrai apie chemines medžiagas, atskiras ir esančias cheminių mišinių ar gaminių sudėtyje, Reglamento (EB) Nr. 1272/2008 nustatyta tvarka, kad jos būtų įtrauktos į klasifikavimo ir ženklinimo inventorių po rašytinio įspėjimo, nevykdymas užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+
+
+
+
+Gaminamų, tiekiamų rinkai, importuojamų, eksportuojamų, platinamų, naudojamų cheminių medžiagų ir cheminių mišinių apskaitos reikalavimų pažeidimas po rašytinio įspėjimo užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
 
 
@@ -5232,7 +5304,7 @@ Gaminamų, tiekiamų rinkai, importuojamų, eksportuojamų, platinamų, naudojam
 
 
 
-Informacijos apie gaminamas, tiekiamas rinkai, importuojamas, eksportuojamas, platinamas, naudojamas chemines medžiagas ir mišinius (preparatus), jų savybes ir poveikį nepateikimas įstatymų ir kitų teisės aktų nustatyta tvarka, šios informacijos nuslėpimas ir (arba) iškraipymas, Reglamento (EB) Nr. 1272/2008 nurodytų reikalavimų nustatyta tvarka teikti su prevencinių ir gydymo priemonių nustatymu susijusią informaciją apie tiekiamų rinkai ir dėl poveikio sveikatai arba dėl fizinio poveikio klasifikuojamų kaip pavojingų mišinių (preparatų) cheminę sudėtį po rašytinio įspėjimo nevykdymas užtraukia baudą nuo šešių šimtų iki vieno tūkstančio septynių šimtų eurų.
+Informacijos apie gaminamas, tiekiamas rinkai, importuojamas, eksportuojamas, platinamas, naudojamas chemines medžiagas ir cheminius mišinius, jų savybes ir poveikį nepateikimas įstatymų ir kitų teisės aktų nustatyta tvarka, šios informacijos nuslėpimas ir (arba) iškraipymas, Reglamento (EB) Nr. 1272/2008 nurodytų reikalavimų nustatyta tvarka teikti su prevencinių ir gydymo priemonių nustatymu susijusią informaciją apie tiekiamų rinkai ir dėl poveikio sveikatai arba dėl fizinio poveikio klasifikuojamų kaip pavojingų cheminių mišinių cheminę sudėtį po rašytinio įspėjimo nevykdymas užtraukia baudą nuo šešių šimtų iki vieno tūkstančio septynių šimtų eurų.
 
 
 
@@ -5242,12 +5314,12 @@ Informacijos apie gaminamas, tiekiamas rinkai, importuojamas, eksportuojamas, pl
 
 
 
-Pavojingų cheminių medžiagų ir mišinių (preparatų), taip pat jų turinčių gaminių importas ir (arba) eksportas pažeidžiant Reglamento (EB) Nr. 649/2012 nustatytus reikalavimus užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+Pavojingųjų cheminių medžiagų ir cheminių mišinių, taip pat jų turinčių gaminių importas ir (arba) eksportas pažeidžiant Reglamento (EB) Nr. 649/2012 nustatytus reikalavimus užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
 
 
 
-Reikalavimų teikti papildomą informaciją Europos cheminių medžiagų agentūrai ir (arba) Lietuvos Respublikos kompetentingai institucijai pagal šių institucijų prašymą ir reikalavimų teikti Europos cheminių medžiagų agentūrai informaciją apie pavojingas chemines medžiagas gaminiuose Reglamento (EB) Nr. 1907/2006 nustatyta tvarka ir informaciją apie atskiras ir esančias mišinių (preparatų) sudėtyje ar gaminiuose chemines medžiagas, kurioms Reglamento (EB) Nr. 1907/2006 nustatytais atvejais taikomos registracijos išimtys, nesilaikymas ir (arba) registracijos išimčių atvejais nustatytų sąlygų nesilaikymas po rašytinio įspėjimo užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+Reikalavimų teikti papildomą informaciją Europos cheminių medžiagų agentūrai ir (arba) Lietuvos Respublikos kompetentingai institucijai pagal šių institucijų prašymą ir reikalavimų teikti Europos cheminių medžiagų agentūrai informaciją apie pavojingąsias chemines medžiagas gaminiuose Reglamento (EB) Nr. 1907/2006 nustatyta tvarka ir informaciją apie atskiras ir esančias cheminių mišinių sudėtyje ar gaminiuose chemines medžiagas, kurioms Reglamento (EB) Nr. 1907/2006 nustatytais atvejais taikomos registracijos išimtys, nesilaikymas ir (arba) registracijos išimčių atvejais nustatytų sąlygų nesilaikymas po rašytinio įspėjimo užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
 
 
 
@@ -5257,7 +5329,7 @@ Duomenų, gautų atliekant bandymus cheminės medžiagos registracijos tikslais,
 
 
 
-Reikalavimų Reglamento (EB) Nr. 1907/2006 nustatyta tvarka perduoti tiekimo grandinės dalyviams, platintojams ar vartotojams informaciją apie chemines medžiagas, atskiras ir esančias mišinių (preparatų) sudėtyje ar gaminiuose, ir apie mišinius (preparatus) nesilaikymas po rašytinio įspėjimo užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų.
+Reikalavimų Reglamento (EB) Nr. 1907/2006 nustatyta tvarka perduoti tiekimo grandinės dalyviams, platintojams ar vartotojams informaciją apie chemines medžiagas, atskiras ir esančias cheminių mišinių sudėtyje ar gaminiuose, ir apie cheminius mišinius nesilaikymas po rašytinio įspėjimo užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų.
 
 
 
@@ -5272,27 +5344,27 @@ Saugos duomenų lapuose ir jų prieduose nurodytų sąlygų ir reikalavimų paž
 
 
 
-Pavojingų cheminių medžiagų ir mišinių (preparatų), jų turinčių gaminių naudojimo reklamos reikalavimų pažeidimas užtraukia baudą nuo šešių šimtų iki vieno tūkstančio septynių šimtų eurų.
+Pavojingųjų cheminių medžiagų ir cheminių mišinių, jų turinčių gaminių naudojimo reklamos reikalavimų pažeidimas užtraukia baudą nuo šešių šimtų iki vieno tūkstančio septynių šimtų eurų.
 
 
 
 
-Cheminių medžiagų, atskirų ir esančių mišinių (preparatų) sudėtyje ar gaminiuose, registravimas pažeidžiant Reglamento (EB) Nr. 1907/2006 nustatytus reikalavimus ir (arba) reikalavimo šioje dalyje nurodytame reglamente nustatyta tvarka atnaujinti cheminių medžiagų, atskirų ir esančių mišinių (preparatų) sudėtyje ar gaminiuose, registraciją nevykdymas po rašytinio įspėjimo užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki dviejų tūkstančių eurų.
+Cheminių medžiagų, atskirų ir esančių cheminių mišinių sudėtyje ar gaminiuose, registravimas pažeidžiant Reglamento (EB) Nr. 1907/2006 nustatytus reikalavimus ir (arba) reikalavimo šioje dalyje nurodytame reglamente nustatyta tvarka atnaujinti cheminių medžiagų, atskirų ir esančių cheminių mišinių sudėtyje ar gaminiuose, registraciją nevykdymas po rašytinio įspėjimo užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki dviejų tūkstančių eurų.
 
 
 
 
-Pavojingų cheminių medžiagų ir mišinių (preparatų), jų turinčių gaminių, kurių gamyba, tiekimas rinkai ir naudojimas draudžiamas arba ribojamas, išėmimo iš apyvartos nustatytų reikalavimų pažeidimas užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
+Reglamento (EB) Nr. 1907/2006 nustatyta tvarka neregistruotų ar neautorizuotų cheminių medžiagų ir pavojingųjų cheminių medžiagų, atskirų ir esančių cheminių mišinių ar gaminių sudėtyje, kurių gamyba, tiekimas rinkai ir naudojimas draudžiamas arba ribojamas, pašalinimo ir (ar) susigrąžinimo iš rinkos reikalavimų pažeidimas užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
 
 
 
 
-Cheminių medžiagų, atskirų ir esančių mišinių (preparatų) sudėtyje ar gaminiuose, taip pat mišinių (preparatų), sprogiųjų medžiagų ar mišinių (preparatų) turinčių gaminių klasifikavimo, pavojingų cheminių medžiagų ir mišinių (preparatų), sprogmenų klasei priskiriamų gaminių pakavimo ir (arba) ženklinimo reikalavimų (įskaitant klasifikacijos peržiūros, etiketėse pateikiamos informacijos atnaujinimo reikalavimus) pagal Reglamentą (EB) Nr. 1272/2008 pažeidimas užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+Cheminių medžiagų, atskirų ir esančių cheminių mišinių sudėtyje ar gaminiuose, taip pat cheminių mišinių, sprogiųjų cheminių medžiagų ar cheminių mišinių turinčių gaminių klasifikavimo, pavojingųjų cheminių medžiagų ir cheminių mišinių, sprogmenų klasei priskiriamų gaminių pakavimo ir (arba) ženklinimo reikalavimų (įskaitant klasifikacijos peržiūros, etiketėse pateikiamos informacijos atnaujinimo reikalavimus) pagal Reglamentą (EB) Nr. 1272/2008 pažeidimas užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
 
 
 
-Draudimo tiekti rinkai pavojingą cheminę medžiagą ir (ar) mišinį (preparatą) ar sprogmenų klasei priskiriamą gaminį, jeigu jie nustatyta tvarka nėra suklasifikuoti, paženklinti ir (arba) supakuoti, pažeidimas užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+Draudimo tiekti rinkai pavojingąją cheminę medžiagą ir (ar) cheminį mišinį ar sprogmenų klasei priskiriamą gaminį, jeigu jie nustatyta tvarka nėra suklasifikuoti, paženklinti ir (arba) supakuoti, pažeidimas užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
 
@@ -5302,36 +5374,37 @@ Tolesnio naudotojo pareigų Reglamento (EB) Nr. 1907/2006 nustatytais atvejais d
 
 
 
-Reikalavimų gamintojui, importuotojui, tolesniam naudotojui arba platintojui kaupti ir nustatytą laiką saugoti informaciją apie pagamintas, importuotas, patiektas rinkai ar naudotas chemines medžiagas, kuri reikalinga jų pareigoms pagal Reglamentą (EB) Nr. 1907/2006 vykdyti, taip pat cheminės medžiagos ar mišinio (preparato) tiekėjo rinkai pareigos kaupti ir saugoti informaciją, kurią jis naudojo klasifikuodamas ir ženklindamas cheminę medžiagą ar mišinį (preparatą) pagal Reglamentą (EB) Nr. 1272/2008, ir (arba) reikalavimų leisti su šia informacija susipažinti Europos cheminių medžiagų agentūrai, Lietuvos Respublikos kompetentingai institucijai ir (arba) cheminių medžiagų ir mišinių (preparatų) tvarkymo valstybinę kontrolę atliekančioms institucijoms nesilaikymas po rašytinio įspėjimo užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų eurų.
+Reikalavimų gamintojui, importuotojui, tolesniam naudotojui arba platintojui kaupti ir nustatytą laiką saugoti informaciją apie pagamintas, importuotas, patiektas rinkai ar naudotas chemines medžiagas, kuri reikalinga jų pareigoms pagal Reglamentą (EB) Nr. 1907/2006 vykdyti, taip pat cheminės medžiagos ar cheminio mišinio tiekėjo rinkai pareigos kaupti ir saugoti informaciją, kurią jis naudojo klasifikuodamas ir ženklindamas cheminę medžiagą ar cheminį mišinį pagal Reglamentą (EB) Nr. 1272/2008, ir (arba) reikalavimų leisti su šia informacija susipažinti Europos cheminių medžiagų agentūrai, Lietuvos Respublikos kompetentingai institucijai ir (arba) cheminių medžiagų ir cheminių mišinių tvarkymo priežiūrą vykdančioms institucijoms ir (ar) valstybės įmonėms nesilaikymas po rašytinio įspėjimo užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio keturių šimtų eurų.
 
 
 
 
-Draudimo gaminti ir (arba) tiekti rinkai chemines medžiagas, atskiras ir esančias mišinių (preparatų) sudėtyje ar gaminiuose, kai jos nustatyta tvarka neįregistruotos, pažeidimas užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+Draudimo gaminti ir (arba) tiekti rinkai chemines medžiagas, atskiras ir esančias cheminių mišinių sudėtyje ar gaminiuose, kai jos nustatyta tvarka neįregistruotos, pažeidimas užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
 
 
 
-Pavojingų cheminių medžiagų, atskirų ir esančių mišinių (preparatų) sudėtyje ar gaminiuose, naudojimas nesilaikant autorizacijos sąlygų užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+Pavojingųjų cheminių medžiagų, atskirų ir esančių cheminių mišinių sudėtyje ar gaminiuose, naudojimas nesilaikant autorizacijos sąlygų užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
 
 
-Pavojingų cheminių medžiagų ir mišinių (preparatų), jų turinčių gaminių gamybos, tiekimo rinkai ir (arba) naudojimo apribojimų pažeidimas užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+Pavojingųjų cheminių medžiagų ir cheminių mišinių, jų turinčių gaminių gamybos, tiekimo rinkai ir (arba) naudojimo apribojimų pažeidimas užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
 
 
-Draudimo tiekti rinkai ir (arba) naudoti pavojingas chemines medžiagas, atskiras ir esančias mišinių (preparatų) sudėtyje ar gaminiuose, jeigu šių cheminių medžiagų naudojimo būdas ar jų įtraukimas į gaminio sudėtį nustatyta tvarka neautorizuotas, pažeidimas užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
+Draudimo tiekti rinkai ir (arba) naudoti pavojingąsias chemines medžiagas, atskiras ir esančias cheminių mišinių sudėtyje ar gaminiuose, jeigu šių cheminių medžiagų naudojimo būdas ar jų įtraukimas į gaminio sudėtį nustatyta tvarka neautorizuotas, pažeidimas užtraukia baudą nuo šešių tūkstančių iki dešimt tūkstančių eurų.
 
 
 
 
-Uždraustų naudoti pavojingų cheminių medžiagų, atskirų ir esančių mišinių (preparatų) sudėtyje ar gaminiuose, ir mišinių (preparatų) gamyba, tiekimas rinkai ir (arba) naudojimas užtraukia baudą nuo aštuonių tūkstančių iki septyniolikos tūkstančių eurų. 
+Uždraustų naudoti pavojingųjų cheminių medžiagų, atskirų ir esančių cheminių mišinių sudėtyje ar gaminiuose, cheminių mišinių ir jų turinčių gaminių gamyba, tiekimas rinkai ir (arba) naudojimas užtraukia baudą nuo aštuonių tūkstančių iki septyniolikos tūkstančių eurų. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
+Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
  
 
 
@@ -6157,7 +6230,7 @@ Lietuvos Respublikos tarptautinėse sutartyse aplinkos apsaugos klausimais įtvi
  
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS 
-PIRMININKO PAVADUOTOJAS                                           BRONISLOVAS KUZMICKAS
+PIRMININKO PAVADUOTOJAS                                                       BRONISLOVAS KUZMICKAS
  
 Vilnius, 1992 m. sausio 21 d.
 Nr. I-2223
@@ -6169,8 +6242,9 @@ Nr. I-2223
 
 
 
-Lietuvos Respublikos
-aplinkos apsaugos įstatymo 
+ 
+Lietuvos Respublikos 
+aplinkos apsaugos įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
@@ -6182,84 +6256,59 @@ priedas
 
 
 
-2. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/35/EB dėl atsakomybės už aplinkos apsaugą siekiant išvengti žalos aplinkai ir ją ištaisyti (atlyginti) (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 357) su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB (OL 2009 L 140, p. 114).
+2. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/35/EB dėl atsakomybės už aplinkos apsaugą siekiant išvengti žalos aplinkai ir ją ištaisyti (atlyginti) (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 357) su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB (OL 2009 L 140, p. 114).
 
 
 
 
-3. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 850/2004 dėl patvariųjų organinių teršalų, iš dalies keičiantis Direktyvą 79/117/EEB (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 465), su paskutiniais pakeitimais, padarytais 2016 m. kovo 30 d. Komisijos reglamentu (ES) Nr. 2016/460 (OL 2016 L 80, p. 17). 
-Papildyta punktu:
-Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
- 
+3. 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiantis Europos cheminių medžiagų agentūrą, iš dalies keičiantis Direktyvą 1999/45/EB bei panaikinantis Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1), su paskutiniais pakeitimais, padarytais 2017 m. birželio 14 d. Komisijos reglamentu (ES) 2017/1000 (OL 2017 L 150, p. 14). 
 
 
 
 
-4. 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiantis Europos cheminių medžiagų agentūrą, iš dalies keičiantis Direktyvą 1999/45/EB bei panaikinantis Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1), su paskutiniais pakeitimais, padarytais 2017 m. birželio 14 d. Komisijos reglamentu (ES) 2017/1000 (OL 2017 L 150, p. 14). 
-Papildyta punktu:
-Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
- 
+4. 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1272/2008 dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiantis ir panaikinantis direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiantis Reglamentą (EB) Nr. 1907/2006 (OL 2008 L 353, p. 1), su paskutiniais pakeitimais, padarytais 2017 m. gegužės 4 d. Komisijos reglamentu (ES) 2017/776 (OL 2017 L 116, p. 1). 
 
 
 
 
-5. 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1272/2008 dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiantis ir panaikinantis direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiantis Reglamentą (EB) Nr. 1907/2006 (OL 2008 L 353, p. 1), su paskutiniais pakeitimais, padarytais 2017 m. gegužės 4 d. Komisijos reglamentu (ES) 2017/776 (OL 2017 L 116, p. 1). 
-Papildyta punktu:
-Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
- 
+5. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/75/ES dėl pramoninių išmetamų teršalų (taršos integruotos prevencijos ir kontrolės) (OL 2010 L 334, p. 17).
 
 
 
 
-6. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/75/ES dėl pramoninių išmetamų teršalų (taršos integruotos prevencijos ir kontrolės) (OL 2010 L 334, p. 17).
-Punkto numeracijos pakeitimas:
-Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
- 
+6. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (OL 2012 L 26, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/52/ES, kuria iš dalies keičiama Direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (OL 2014 L 124, p. 1). 
 
 
 
 
-7. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (OL 2012 L 26, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/52/ES, kuria iš dalies keičiama Direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (OL 2014 L 124, p. 1). 
-Papildyta punktu:
-Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
-Punkto numeracijos pakeitimas:
-Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
- 
+7. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 649/2012 dėl pavojingų cheminių medžiagų eksporto ir importo (OL 2012 L 201, p. 60) su paskutiniais pakeitimais, padarytais 2015 m. rugsėjo 29 d. Komisijos deleguotuoju reglamentu (ES) 2015/2229 (OL 2015 L 317, p. 13). 
 
 
 
 
-8. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2193 dėl tam tikrų teršalų, išmetamų į orą iš vidutinio dydžio kurą deginančių įrenginių, kiekio apribojimo (OL 2015 L 313, p. 1). 
-Papildyta punktu:
-Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
-Punkto numeracijos pakeitimas:
-Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
- 
+8. 2013 m. lapkričio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1257/2013 dėl laivų perdirbimo, kuriuo iš dalies keičiami Reglamentas (EB) Nr. 1013/2006 ir Direktyva 2009/16/EB (OL 2013 L 330, p. 1).
 
 
 
 
-9. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 649/2012 dėl pavojingų cheminių medžiagų eksporto ir importo (OL 2012 L 201, p. 60) su paskutiniais pakeitimais, padarytais 2015 m. rugsėjo 29 d. Komisijos deleguotuoju reglamentu (ES) 2015/2229 (OL 2015 L 317, p. 13). 
-Papildyta punktu:
-Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
- 
+9. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2193 dėl tam tikrų teršalų, išmetamų į orą iš vidutinio dydžio kurą deginančių įrenginių, kiekio apribojimo (OL 2015 L 313, p. 1).
 
 
 
 
 10. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/802 dėl sieros kiekio sumažinimo tam tikrose skystojo kuro rūšyse (OL 2016 L 132, p. 58). 
-Papildyta punktu:
-Nr. XIII-1211, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09501
- 
 
 
 
 
 11. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1). 
+
+
+
+
+12. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1021 dėl patvariųjų organinių teršalų (OL 2019 L 169, p. 45). 
 Papildyta punktu:
-Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
-Punkto numeracijos pakeitimas:
-Nr. XIII-1211, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09501
+Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
  
 
 
@@ -6269,7 +6318,8 @@ Priedo pakeitimai:
 Nr. X-147, 2005-03-24, Žin., 2005, Nr. 47-1558 (2005-04-12)
 Nr. XI-858, 2010-05-28, Žin., 2010, Nr. 70-3472 (2010-06-17)
 Nr. XII-287, 2013-05-09, Žin., 2013, Nr. 55-2727 (2013-05-28)
- 
+Priedo pakeitimai:
+Nr. XIII-2799, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02851
  
 
 
@@ -6403,3 +6453,13 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 37, 109 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1211, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09501
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 priedo pakeitimo ir Įstatymo papildymo 70-1 straipsniu įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2799, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02851
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 papildymo 87-1 ir 108-1 straipsniais ir priedo pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 20, 37, 109 straipsnių ir priedo pakeitimo įstatymas
