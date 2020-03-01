@@ -13,6 +13,18 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/d1e6be90747611e3b675ad30753d4b1b"
 
 # Lietuvos Respublikos nevyriausybinių organizacijų plėtros ĮSTATYMAS
 
+Suvestinė redakcija nuo 2020-03-01 iki 2020-07-31
+ 
+Įstatymas paskelbtas: TAR 2014-01-03, i. k. 2014-00018
+ 
+TAR pastaba. Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo 2 straipsnio 3 dalies nuostatos asociacijoms, iki įstatymo Nr. XIII-2626  įsigaliojimo (2020-03-01)  gavusioms finansavimą pagal Lietuvos kaimo plėtros 2014–2020 m. programą ir pagal šią programą įgyvendinančioms vietos plėtros strategijas, taikomos nuo 2024 m. sausio 1 d. Iki 2023 m. gruodžio 31 d. asociacijoms, iki šio įstatymo įsigaliojimo gavusioms finansavimą pagal Lietuvos kaimo plėtros 2014–2020 m. programą ir pagal šią programą įgyvendinančioms vietos plėtros strategijas, taikomos iki šio įstatymo įsigaliojimo galiojusios nevyriausybinės organizacijos sąvoką apibrėžiančios nuostatos.  Nevyriausybinių organizacijų plėtros įstatymo 2 straipsnio 3 dalies nuostatos viešajai įstaigai Rytų Europos studijų centrui taikomos nuo 2023 m. sausio 1 d. Iki 2022 m. gruodžio 31 d. viešajai įstaigai Rytų Europos studijų centrui taikomos iki įstatymo Nr. XIII-2626 įsigaliojimo (2020-03-01) galiojusios nevyriausybinės organizacijos sąvoką apibrėžiančios nuostatos.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2626, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20654
+Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo Nr. XII-717 pakeitimo įstatymas
+ 
+Nauja redakcija nuo 2020-03-01:
+Nr. XIII-2626, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20654
+ 
 LIETUVOS RESPUBLIKOS
 NEVYRIAUSYBINIŲ ORGANIZACIJŲ PLĖTROS
 ĮSTATYMAS
@@ -23,25 +35,27 @@ Vilnius
  
 
 
-PIRMASIS SKIRSNIS
-BENDROSIOS NUOSTATOS 
+I SKYRIUS
+BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo tikslas ir paskirtis 
+1 straipsnis. Įstatymo tikslas ir paskirtis
 
 
-1. Šio įstatymo tikslas – kurti palankią aplinką nevyriausybinėms organizacijoms, užtikrinti tinkamas jų, kaip svarbaus pilietinės visuomenės elemento, veiklos ir plėtros sąlygas.
-
-
-
-
-2. Šis įstatymas nustato nevyriausybinių organizacijų plėtros politikos formavimo ir įgyvendinimo principus, valstybės ir savivaldybių institucijų ir įstaigų bendradarbiavimo su nevyriausybinėmis organizacijomis ir kitas nevyriausybinių organizacijų veiklos sąlygas, skatinančias jų plėtrą.
+1. Šio įstatymo tikslas – kurti palankią aplinką nevyriausybinėms organizacijoms, užtikrinti tinkamas jų veiklos ir plėtros sąlygas.
 
 
 
 
-3. Šis įstatymas nereglamentuoja nevyriausybinių organizacijų steigimo, valdymo, reorganizavimo, pertvarkymo ir likvidavimo. 
+2. Šis įstatymas nustato nevyriausybinių organizacijų plėtros valstybės politikos formavimo ir įgyvendinimo principus, nevyriausybinių organizacijų plėtros valstybės politiką formuojančius ir įgyvendinančius subjektus, Nevyriausybinių organizacijų tarybos ir savivaldybių nevyriausybinių organizacijų tarybų sudarymo tvarką ir funkcijas, nevyriausybinių organizacijų finansavimo valstybės ir savivaldybių biudžetų lėšomis (toliau – finansavimas) tikslus ir tvarką, nevyriausybinių organizacijų duomenų tvarkymą.
+
+
+
+
+3. Šis įstatymas nereglamentuoja nevyriausybinių organizacijų steigimo, valdymo, reorganizavimo, pertvarkymo ir likvidavimo.
+ 
+ 
  
 
 
@@ -52,355 +66,77 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Nevyriausybinė organizacija – nuo valstybės ar savivaldybių institucijų ir įstaigų nepriklausomas savanoriškumo pagrindais visuomenės ar jos grupės naudai veikiantis viešasis juridinis asmuo, kurio tikslas nėra politinės valdžios siekimas arba vien tik religijos tikslų įgyvendinimas. Valstybė ar savivaldybė, juridinis asmuo, kurio visuotiniame dalyvių susirinkime valstybė ar savivaldybė turi daugiau kaip 1/3 balsų, negali turėti daugiau kaip 1/3 balsų nevyriausybinės organizacijos visuotiniame dalyvių susirinkime. Prie nevyriausybinių organizacijų nepriskiriamos: 
+1. Grupinės naudos nevyriausybinė organizacija – nevyriausybinė organizacija, kurios veikla teikia naudą tik jos dalyviams.
 
 
-1) politinės partijos;
 
 
+2. Nacionalinė nevyriausybinė organizacija – nevyriausybinė organizacija, veikianti vienoje ar keliose viešosios politikos srityse ir veiklą vykdanti Lietuvos Respublikos mastu.
 
 
-2) profesinės sąjungos bei darbdavių organizacijos ir jų susivienijimai;
 
 
+3. Nevyriausybinė organizacija – nuo valstybės ar savivaldybių institucijų ir įstaigų valdymo nepriklausomas savanoriškumo pagrindais įsteigtas visuomenės ar jos grupės naudai veikiantis viešasis juridinis asmuo, kurio tikslas nėra siekti politinės valdžios arba įgyvendinti vien tik religinius tikslus. Nevyriausybinėmis organizacijomis nelaikomi:
 
 
-3) įstatymų nustatyta tvarka steigiamos organizacijos, kuriose narystė yra privaloma tam tikros profesijos atstovams; 
+1) juridiniai asmenys, kurių daugiau negu 1/3 dalyvių yra juridiniai asmenys, nesantys nevyriausybinėmis organizacijomis arba religinėmis bendruomenėmis ar bendrijomis;
 
 
 
 
-4) susivienijimai, kurių daugiau kaip 1/3 dalyvių yra privatūs juridiniai asmenys; 
+2) juridiniai asmenys, kurių dalyviai – juridiniai asmenys, nesantys nevyriausybinėmis organizacijomis arba religinėmis bendruomenėmis ar bendrijomis, turi daugiau negu 1/3 balsų visuotiniame dalyvių susirinkime;
 
 
 
 
-5) sodininkų bendrijos, daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijos ir kitokios bendro nekilnojamojo turto valdymo tikslu įsteigtos bendrijos; 
+3) politinės partijos;
 
 
 
 
-6) šeimynos.
+4) profesinės sąjungos, darbdavių organizacijos ir jų susivienijimai;
 
 
 
 
+5) organizacijos, kuriose narystė privaloma tam tikros profesijos atstovams;
 
 
-2. Grupinės naudos nevyriausybinė organizacija – nevyriausybinė organizacija, kurios veikla teikia naudą tik jos dalyviams.
 
 
+6) sodininkų bendrijos, daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijos, kiti nekilnojamojo turto bendro valdymo tikslais įsteigti juridiniai asmenys;
 
 
-3. Viešosios naudos nevyriausybinė organizacija – nevyriausybinė organizacija, kurios veikla teikia naudą ne tik jos dalyviams, bet ir visuomenei.
 
 
+7) šeimynos;
 
 
-4. Nevyriausybinių organizacijų taryba – visuomeniniais pagrindais veikianti kolegiali patariamoji institucija, kuri sudaroma lygiateisės partnerystės pagrindu iš valstybės institucijų, įstaigų ir nevyriausybinių organizacijų deleguotų atstovų.
 
 
+8) nuolatinės arbitražo institucijos.
 
 
-5. Savivaldybės nevyriausybinių organizacijų taryba – visuomeniniais pagrindais veikianti kolegiali patariamoji institucija, kuri sudaroma iš savivaldybės institucijų ir įstaigų bei nevyriausybinių organizacijų deleguotų atstovų laikantis pariteto principo. 
 
 
 
 
-6. Nevyriausybinių organizacijų plėtros politika – kryptinga veikla, kuri apibrėžia nevyriausybinių organizacijų veikimo sąlygas, skatina šių organizacijų plėtrą šalyje bei užtikrina valstybės ir savivaldybių institucijų ir įstaigų bendradarbiavimą su nevyriausybinėmis organizacijomis stiprinant pilietinę visuomenę.
+4. Nevyriausybinių organizacijų plėtros valstybės politika – priemonių, kuriomis gerinamos nevyriausybinių organizacijų veikimo sąlygos, skatinama nevyriausybinių organizacijų plėtra šalyje bei užtikrinamas valstybės ir savivaldybių institucijų ir įstaigų bendradarbiavimas su nevyriausybinėmis organizacijomis stiprinant pilietinę visuomenę, visuma.
 
 
 
 
-7. Nacionalinė skėtinė nevyriausybinė organizacija – nevyriausybinė organizacija, įsteigta pagal Lietuvos Respublikos asociacijų įstatymą, vienijanti vienoje ar keliose atskirose viešosios politikos srityse veikiančias nevyriausybines organizacijas, siekiančias bendrų tikslų. 
- 
+5. Skėtinė nacionalinė nevyriausybinė organizacija – nacionalinė nevyriausybinė organizacija, įsteigta vadovaujantis Lietuvos Respublikos asociacijų įstatymu ir vienijanti nacionalines ir kitas bendrų tikslų siekiančias nevyriausybines organizacijas.
 
 
 
 
+6. Viešosios naudos nevyriausybinė organizacija – nevyriausybinė organizacija, kurios veikla teikia naudą ne tik jos dalyviams, bet ir visuomenei.
 
 
-3 straipsnis. Nevyriausybinių organizacijų plėtros politikos nustatymo, formavimo, įgyvendinimo ir valstybės bei savivaldybių institucijų ir įstaigų bendradarbiavimo su nevyriausybinėmis organizacijomis principai 
 
 
-Pagrindiniai nevyriausybinių organizacijų plėtros politikos nustatymo, formavimo, įgyvendinimo ir valstybės bei savivaldybių institucijų ir įstaigų bendradarbiavimo su nevyriausybinėmis organizacijomis principai yra šie:
-
-
-1) pariteto – valstybės ir savivaldybių institucijos ir įstaigos bei nevyriausybinės organizacijos yra atstovaujamos po lygiai;
-
-
-
-
-2) subsidiarumo – sprendimai, susiję su nevyriausybinėmis organizacijomis ir jų veikla, turi būti priimami tuo lygmeniu, kuriuo yra veiksmingiausi; 
-
-
-
-
-3) tarpžinybinio koordinavimo – spręsdamos su nevyriausybinių organizacijų plėtros politika susijusius klausimus, valstybės ir savivaldybių institucijos ir įstaigos bendrauja ir bendradarbiauja tarpusavyje;
-
-
-
-
-4) dalyvavimo – klausimai, susiję su nevyriausybinėmis organizacijomis ar jų veikla, sprendžiami iš anksto derinant su nevyriausybinėmis organizacijomis ir dalyvaujant jų atstovams;
-
-
-
-
-5) informavimo – valstybės ir savivaldybių institucijos ir įstaigos bei nevyriausybinės organizacijos informacija aktualiais klausimais, susijusia su nevyriausybinėmis organizacijomis ar jų veikla, keičiasi tarpusavyje ir teikia ją visuomenei priimtina ir prieinama forma;
-
-
-
-
-6) savanoriškumo – asmuo nevyriausybinių organizacijų veikloje dalyvauja savo noru, niekieno neverčiamas;
-
-
-
-
-7) lygybės – nevyriausybinės organizacijos pagal savo kompetenciją turi lygias galimybes dalyvauti priimant sprendimus ir įgyvendinant valstybės programas ar priemones.
- 
-
-
-
-
-
-
-
-
-
-
-Antrasis SKIRSNIS
-NEVYRIAUSYBINIŲ ORGANIZACIJŲ PLĖTROS POLITIKA
- 
-
-
-4 straipsnis. Nevyriausybinių organizacijų plėtros politiką formuojančios ir įgyvendinančios institucijos ir įstaigos 
-
-
-1. Lietuvos Respublikos Vyriausybė nevyriausybinių organizacijų plėtros politikos prioritetus, tikslus, uždavinius ir numatomus pasiekti rezultatus nustato Nacionalinėje pažangos strategijoje. 
-
-
-
-
-2. Nevyriausybinių organizacijų plėtros politikos formavimą organizuoja, koordinuoja ir ją įgyvendina Lietuvos Respublikos socialinės apsaugos ir darbo ministerija. 
-
-
-
-
-3. Kitos valstybės institucijos ir įstaigos nevyriausybinių organizacijų plėtros politiką įgyvendina pagal savo kompetenciją.
-
-
-
-
-4. Savivaldybių institucijos ir įstaigos formuoja ir įgyvendina savivaldybių nevyriausybinių organizacijų plėtros politiką. 
-
-
-
-
-5. Lietuvos Respublikos socialinės apsaugos ir darbo ministerija, įgyvendindama nevyriausybinių organizacijų plėtros politiką:
-
-
-1) teisės aktų nustatyta tvarka atlieka rengiamų ir priimtų teisės aktų, reglamentuojančių nevyriausybinių organizacijų klausimus, analizę ir teikia su tuo susijusius pasiūlymus; 
-
-
-
-
-2) savo iniciatyva arba bendradarbiaudama su kitomis valstybės institucijomis rengia Lietuvos Respublikos įstatymų ir kitų teisės aktų, reglamentuojančių nevyriausybinių organizacijų plėtros politiką, projektus ir teisės aktų nustatyta tvarka teikia juos priimti įgaliotiems subjektams;
-
-
-
-
-3) rengia ir įgyvendina nevyriausybinių organizacijų plėtros politikos įgyvendinimo programas ir priemones;
-
-
-
-
-4) koordinuoja valstybės ir savivaldybių institucijų veiklą nevyriausybinių organizacijų klausimais;
-
-
-
-
-5) renka ir teikia nevyriausybinėms organizacijoms informaciją apie valstybės institucijų teikiamą finansavimą ar paramą nevyriausybinėms organizacijoms, apie nevyriausybinėms organizacijoms skirtus finansavimo konkursus ir jų rezultatus; 
-
-
-
-
-6) teikia siūlymus valstybės ir savivaldybių institucijoms ir įstaigoms dėl finansinės paramos nevyriausybinėms organizacijoms;
-
-
-
-
-7) analizuoja nevyriausybinių organizacijų būklę Lietuvos Respublikoje, inicijuoja su nevyriausybinėmis organizacijomis ir jų veikla susijusius tyrimus;
-
-
-
-
-8) atlieka kitas įstatymuose ir kituose teisės aktuose nustatytas funkcijas.
-
-
-
-
-
-
-6. Lietuvos Respublikos socialinės apsaugos ir darbo ministerija ir kitos nevyriausybinių organizacijų plėtros politiką įgyvendinančios valstybės institucijos su Nevyriausybinių organizacijų taryba turi konsultuotis dėl:
-
-
-1) rengiamų teisės aktų projektų, susijusių su nevyriausybinių organizacijų klausimais;
-
-
-
-
-2) planuojamų finansavimo programų, pagal kurias finansuojami nevyriausybinių organizacijų projektai.
- 
-
-
-
-
-
-
-
-
-5 straipsnis. Valstybės ir savivaldybių institucijų ir įstaigų bendradarbiavimas su nevyriausybinėmis organizacijomis 
-
-
-1. Valstybės ir savivaldybių institucijų ir įstaigų bendradarbiavimas su nevyriausybinėmis organizacijomis įgyvendinamas:
-
-
-1) teikiant informaciją apie valstybės ir savivaldybių institucijų ir įstaigų planuojamas veiklos ir bendradarbiavimo kryptis, siekiant jas derinti su konkrečioje srityje dirbančiomis nevyriausybinėmis organizacijomis;
-
-
-
-
-2) konsultuojantis su nevyriausybinėmis organizacijomis ir prireikus kuriant bendras darbo grupes konkretiems klausimams spręsti;
-
-
-
-
-3) finansuojant nevyriausybinių organizacijų programas, projektus ir iniciatyvas.
-
-
-
-
-
-
-2. Valstybės ir savivaldybių institucijos ir įstaigos, gavusios nevyriausybinės organizacijos prašymą raštu derinti rengiamus teisės aktų projektus, privalo konsultuotis su prašymą pateikusia organizacija Lietuvos Respublikos teisės aktų nustatyta tvarka. 
- 
-
-
-
-
-
-
-6 straipsnis. Nevyriausybinių organizacijų ir savivaldybės nevyriausybinių organizacijų tarybos 
-
-
-1. Nevyriausybinių organizacijų taryba yra patariamoji institucija, užtikrinanti nevyriausybinių organizacijų dalyvavimą nustatant, formuojant ir įgyvendinant nevyriausybinių organizacijų plėtros politiką.
-
-
-
-
-2. Nevyriausybinių organizacijų taryba:
-
-
-1) teikia pasiūlymus Lietuvos Respublikos Vyriausybei, kitoms valstybės ir savivaldybių institucijoms ir įstaigoms, formuojančioms ir įgyvendinančioms nevyriausybinių organizacijų plėtros politiką, dėl nevyriausybinių organizacijų plėtros politikos ir jos įgyvendinimo prioritetų; 
-
-
-
-
-2) teikia pasiūlymus Lietuvos Respublikos Vyriausybei, kitoms valstybės ir savivaldybių institucijoms ir įstaigoms dėl nevyriausybinių organizacijų programų ir priemonių finansavimo prioritetų; 
-
-
-
-
-3) kas dveji metai viešai skelbia nevyriausybinių organizacijų būklės Lietuvos Respublikoje ataskaitą;
-
-
-
-
-4) atlieka kitas Nevyriausybinių organizacijų tarybos nuostatuose numatytas funkcijas. 
-
-
-
-
-
-
-3. Nevyriausybinių organizacijų tarybos darbas organizuojamas vadovaujantis šios tarybos nuostatais. Nevyriausybinių organizacijų tarybos nuostatus tvirtina Lietuvos Respublikos Vyriausybė.
-
-
-
-
-4. Savivaldybės tarybos sprendimu sudaroma savivaldybės nevyriausybinių organizacijų taryba, skirta teikti pasiūlymus savivaldybės institucijoms dėl savivaldybės teritorijoje veikiančių nevyriausybinių organizacijų veiklos skatinimo ir atlikti kitas savivaldybės nevyriausybinių organizacijų tarybos nuostatuose numatytas funkcijas.
-
-
-
-
-5. Savivaldybės nevyriausybinių organizacijų taryba sudaroma laikantis šio principo: ne daugiau kaip 1/2 šios tarybos narių – savivaldybės institucijų ir įstaigų atstovai ir ne mažiau kaip 1/2 tarybos narių – nevyriausybinių organizacijų, veikiančių savivaldybės teritorijoje, atstovai. Savivaldybės nevyriausybinių organizacijų tarybos narių kadencijos trukmė yra dveji metai. Savivaldybės nevyriausybinių organizacijų tarybos sudėtį ir nuostatus tvirtina savivaldybės taryba.
-
-
-
-
-6. Savivaldybės nevyriausybinių organizacijų tarybos darbą techniškai aptarnauja savivaldybės administracija.
- 
- 
-
-
-
-
-
-
-7 straipsnis. Nevyriausybinių organizacijų tarybos sudarymas ir veikla
-
-
-1. Iš valstybės institucijų ir įstaigų, nacionalinių skėtinių nevyriausybinių organizacijų ir Lietuvos savivaldybių asociacijos pasiūlytų atstovų sudaroma visuomeniniais pagrindais veikianti Nevyriausybinių organizacijų taryba. 
-
-
-
-
-2. Nevyriausybinių organizacijų tarybą sudaro dvidešimt narių: devyni valstybės institucijų ir įstaigų atstovai, vienas Lietuvos savivaldybių asociacijos atstovas ir dešimt nevyriausybinių organizacijų atstovų. Nevyriausybinių organizacijų atstovus pasiūlo nacionalinių skėtinių nevyriausybinių organizacijų asociacijos bendru sutarimu. Nacionalinių skėtinių nevyriausybinių organizacijų asociacijos bendru sutarimu į Nevyriausybinių organizacijų tarybą deleguoja ne daugiau kaip aštuonis nevyriausybines organizacijas vienijančių asociacijų atstovus ir ne mažiau kaip du kitų nevyriausybinių organizacijų atstovus.
-
-
-
-
-3. Nevyriausybinių organizacijų taryba, atlikdama jai pavestas funkcijas, turi teisę:
-
-
-1) dalyvauti rengiant teisės aktų, susijusių su nevyriausybinių organizacijų plėtros politika, projektus;
-
-
-
-
-2) Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka gauti iš ministerijų, Vyriausybės įstaigų, kitų valstybės ir savivaldybių institucijų ir įstaigų, kitų organizacijų informaciją ir dokumentus, kurių reikia Nevyriausybinių organizacijų tarybos uždaviniams ir funkcijoms atlikti;
-
-
-
-
-3) kviesti į savo posėdžius ministerijų, Vyriausybės įstaigų, valstybės ir savivaldybių institucijų ir įstaigų, kitų organizacijų atstovus ir kitus asmenis spręsti klausimų, susijusių su Nevyriausybinių organizacijų tarybos uždavinių ir funkcijų atlikimu;
-
-
-
-
-4) sudaryti darbo ar ekspertų grupes nevyriausybinių organizacijų plėtros politikos klausimams svarstyti; 
-
-
-
-
-5) naudotis kituose teisės aktuose nustatytomis teisėmis.
-
-
-
-
-
-
-4. Nevyriausybinių organizacijų tarybos sudėtį tvirtina Lietuvos Respublikos Vyriausybė socialinės apsaugos ir darbo ministro teikimu. Tarybos nario kadencijos trukmė – dveji metai. Nevyriausybinės organizacijos atšauktas jos atstovas Nevyriausybinių organizacijų taryboje netenka šios tarybos nario statuso ir teisių.
-
-
-
-
-5. Nevyriausybinių organizacijų tarybos pirmininką ir pirmininko pavaduotoją iš Tarybos narių renka Taryba. Tarybos pirmininku išrinkus valstybės institucijos ar įstaigos atstovą, pirmininko pavaduotoju turi būti renkamas nevyriausybinių organizacijų atstovas. Tarybos pirmininku išrinkus nevyriausybinių organizacijų atstovą, pirmininko pavaduotoju renkamas valstybės institucijos ar įstaigos atstovas.
-
-
-
-
-6. Nevyriausybinių organizacijų tarybos darbą techniškai aptarnauja Lietuvos Respublikos socialinės apsaugos ir darbo ministerija.
+7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos vietos savivaldos įstatyme, Lietuvos Respublikos bendruomeninių organizacijų plėtros įstatyme.
  
  
 
@@ -411,66 +147,43 @@ NEVYRIAUSYBINIŲ ORGANIZACIJŲ PLĖTROS POLITIKA
 
 
 
-TrečiasIS SKIRSNIS
-GRUPINĖS IR VIEŠOSIOS NAUDOS NEVYRIAUSYBINĖS ORGANIZACIJOS
+Ii SKYRIUS
+NEVYRIAUSYBINIŲ ORGANIZACIJŲ PLĖTROS VALSTYBĖS POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
  
 
 
-8 straipsnis. Nevyriausybinių organizacijų skirstymas į grupinės ir viešosios naudos nevyriausybines organizacijas 
+3 straipsnis. Nevyriausybinių organizacijų plėtros valstybės politikos principai
 
 
-1. Nevyriausybinės organizacijos gali būti skirstomos į grupinės ir viešosios naudos siekiant atsižvelgti į organizacijos teikiamą naudą visuomenei skirstant valstybės ir savivaldybių lėšas, skirtas nevyriausybinių organizacijų veiklai finansuoti.
+Nevyriausybinių organizacijų plėtros valstybės politika formuojama ir įgyvendinama vadovaujantis šiais principais:
 
 
-
-
-2. Skirstydamas nevyriausybines organizacijas į grupinės ir viešosios naudos nevyriausybines organizacijas, asignavimų valdytojas atsižvelgia į:
-
-
-1) organizacijos veiklos pobūdį;
+1) pariteto – valstybės ir savivaldybių institucijos, įstaigos ir nevyriausybinės organizacijos yra atstovaujamos po lygiai;
 
 
 
 
-2) dalyvius, kuriems skirta organizacijos veikla;
+2) dalyvavimo ir įtraukimo – klausimai, susiję su nevyriausybinėmis organizacijomis ar jų veikla, sprendžiami iš anksto derinant su nevyriausybinėmis organizacijomis ir dalyvaujant jų atstovams;
 
 
 
 
-3) konkrečią siūlomą finansuoti organizacijos iniciatyvą ar projektą;
+3) tarpinstitucinio bendradarbiavimo – spręsdamos su nevyriausybinių organizacijų plėtros valstybės politika susijusius klausimus, valstybės ir savivaldybių institucijos, įstaigos bendrauja ir bendradarbiauja;
 
 
 
 
-4) kitus asignavimų valdytojo nustatytus kriterijus.
- 
- 
- 
- 
+4) informavimo – valstybės ir savivaldybių institucijos, įstaigos ir nevyriausybinės organizacijos keičiasi informacija, susijusia su nevyriausybinėmis organizacijomis ar jų veikla, ir teikia ją visuomenei;
 
 
 
 
+5) savanoriškumo – asmuo nevyriausybinių organizacijų veikloje dalyvauja savo noru, niekieno neverčiamas;
 
 
 
 
-
-
-KETVIRTASIS SKIRSNIS
-NEVYRIAUSYBINIŲ ORGANIZACIJŲ DUOMENŲ IR DOKUMENTŲ TVARKYMAS
- 
-
-
-9 straipsnis. Nevyriausybinių organizacijų duomenų ir dokumentų tvarkymas
-
-
-1. Nevyriausybinių organizacijų duomenys ir dokumentai teisės aktų nustatyta tvarka tvarkomi Juridinių asmenų registre.
-
-
-
-
-2. Įstatymų ir kitų teisės aktų nustatytais atvejais nevyriausybinių organizacijų duomenys ir dokumentai gali būti tvarkomi kitose valstybės informacinėse sistemose.
+6) lygybės – nevyriausybinės organizacijos pagal kompetenciją turi lygias galimybes dalyvauti priimant sprendimus ir įgyvendinant valstybės programas ar priemones.
  
 
 
@@ -480,20 +193,422 @@ NEVYRIAUSYBINIŲ ORGANIZACIJŲ DUOMENŲ IR DOKUMENTŲ TVARKYMAS
 
 
 
-PENKTASIS SKIRSNIS
-BAIGIAMOSIOS NUOSTATOS
+4 straipsnis. Nevyriausybinių organizacijų plėtros valstybės politikos formavimas ir įgyvendinimas
+
+
+1. Lietuvos Respublikos Vyriausybė planavimo dokumentuose nustato nevyriausybinių organizacijų plėtros valstybės politikos prioritetus, tikslus, uždavinius ir numatomus pasiekti rezultatus.
+
+
+
+
+2. Lietuvos Respublikos socialinės apsaugos ir darbo ministerija:
+
+
+1) formuoja nevyriausybinių organizacijų plėtros valstybės politiką, organizuoja, koordinuoja ir prižiūri jos įgyvendinimą;
+
+
+
+
+2) rengia ir teikia pasiūlymus Vyriausybei nevyriausybinių organizacijų plėtros srityje;
+
+
+
+
+3) renka ir analizuoja duomenis apie nevyriausybinėms organizacijoms valstybės ir savivaldybių institucijų ir įstaigų teikiamą finansavimą;
+
+
+
+
+4) analizuoja nevyriausybinių organizacijų būklę Lietuvos Respublikoje, inicijuoja su nevyriausybinėmis organizacijomis ir jų veikla susijusius tyrimus;
+
+
+
+
+5) užtikrina nevyriausybinių organizacijų konsultavimą šio įstatymo įgyvendinimo klausimais;
+
+
+
+
+6) atlieka kitas šiame įstatyme ir kituose nevyriausybinių organizacijų veiklą reglamentuojančiuose teisės aktuose nustatytas funkcijas.
+
+
+
+
+
+
+3. Įgyvendindamos nevyriausybinių organizacijų plėtros valstybės politiką, Socialinės apsaugos ir darbo ministerija, valstybės institucijos ir įstaigos su toje viešosios politikos srityje veikiančiomis skėtinėmis nacionalinėmis nevyriausybinėmis organizacijomis ir (arba) Nevyriausybinių organizacijų taryba, o savivaldybės institucijos ir įstaigos – su savivaldybės nevyriausybinių organizacijų taryba konsultuojasi dėl:
+
+
+1) rengiamų teisės aktų projektų, susijusių su nevyriausybinių organizacijų veikla;
+
+
+
+
+2) planuojamų programų, pagal kurias konkurso būdu finansuojami nevyriausybinių organizacijų projektai.
+
+
+
+
+
+
+4. Savivaldybės taryba pagal kompetenciją:
+
+
+1) atsižvelgdama į nevyriausybinių organizacijų plėtros valstybės politiką ir nustatytus nacionalinius prioritetus bei įvertinusi vietos bendruomenės poreikius, planavimo dokumentuose nustato ilgalaikius nevyriausybinių organizacijų plėtros tikslus, savivaldybės biudžeto lėšomis finansuotinas nevyriausybinių organizacijų veiklos sritis;
+
+
+
+
+2) nustato viešosios naudos ir grupinės naudos nevyriausybinių organizacijų finansavimo iš savivaldybės biudžeto kriterijus ir tvarką;
+
+
+
+
+3) tvirtina savivaldybės nevyriausybinių organizacijų tarybos sudėtį.
+
+
+
+
+
+
+5. Savivaldybės administracija įgyvendina nevyriausybinių organizacijų plėtros savivaldybėje priemones.
  
 
 
-10 straipsnis. Baigiamosios nuostatos
-
-
-1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. balandžio 1 d.
 
 
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus.
+5 straipsnis. Nevyriausybinių organizacijų taryba
+
+
+1. Nevyriausybinių organizacijų taryba yra visuomeninė patariamoji institucija, veikianti prie Vyriausybės. Nevyriausybinių organizacijų taryba sudaroma iš valstybės institucijų ir įstaigų, skėtinių nacionalinių nevyriausybinių organizacijų ir Lietuvos savivaldybių asociacijos pasiūlytų atstovų. Nevyriausybinių organizacijų tarybą techniškai aptarnauja Socialinės apsaugos ir darbo ministerija.
+
+
+
+
+2. Nevyriausybinių organizacijų tarybą sudaro dvidešimt narių: devyni valstybės institucijų ir įstaigų atstovai, vienas Lietuvos savivaldybių asociacijos atstovas ir dešimt nevyriausybinių organizacijų atstovų. Nevyriausybinių organizacijų tarybos institucinę sudėtį tvirtina Vyriausybė. Atstovai į Nevyriausybinių organizacijų tarybą deleguojami Nevyriausybinių organizacijų tarybos nuostatuose (toliau – Tarybos nuostatai) nustatyta tvarka. Tarybos nuostatus tvirtina Vyriausybė.
+
+
+
+
+3. Personalinę Nevyriausybinių organizacijų tarybos sudėtį tvirtina socialinės apsaugos ir darbo ministras. Nevyriausybinių organizacijų tarybos nario kadencijos trukmė – dveji metai.
+
+
+
+
+4. Nevyriausybinių organizacijų tarybos pirmininką ir pirmininko pavaduotoją vienų metų kadencijai iš Nevyriausybinių organizacijų tarybos narių visų jos narių balsų dauguma slaptu balsavimu renka Nevyriausybinių organizacijų taryba Tarybos nuostatuose nustatyta tvarka. Nevyriausybinių organizacijų tarybos pirmininku išrinkus valstybės institucijos ar įstaigos atstovą arba Lietuvos savivaldybių asociacijos atstovą, pirmininko pavaduotoju turi būti renkamas nevyriausybinių organizacijų atstovas. Nevyriausybinių organizacijų tarybos pirmininku išrinkus nevyriausybinių organizacijų atstovą, pirmininko pavaduotoju renkamas valstybės institucijos ar įstaigos atstovas ar Lietuvos savivaldybių asociacijos atstovas.
+
+
+
+
+5. Nevyriausybinių organizacijų taryba nagrinėja nevyriausybinių organizacijų plėtros klausimus ir teikia Lietuvos Respublikos Seimui, Vyriausybei, ministerijoms, valstybės ir savivaldybių institucijoms ir įstaigoms pasiūlymus dėl nevyriausybinių organizacijų plėtros valstybės politikos, jos įgyvendinimo, nevyriausybinių organizacijų programų ir projektų finansavimo prioritetų. Nevyriausybinių organizacijų taryba kas dveji metai atlieka nevyriausybinių organizacijų veiklos Lietuvos Respublikoje vertinimą ir paskelbia vertinimo rezultatus, atlieka kitas Tarybos nuostatuose nustatytas funkcijas.
+ 
+
+
+
+
+
+
+6 straipsnis. Savivaldybės nevyriausybinių organizacijų taryba
+
+
+1. Savivaldybės tarybos sprendimu sudaroma savivaldybės nevyriausybinių organizacijų taryba.
+
+
+
+
+2. Savivaldybės nevyriausybinių organizacijų taryba veikia vadovaudamasi savivaldybės tarybos patvirtintais savivaldybės nevyriausybinių organizacijų tarybos nuostatais. Savivaldybės nevyriausybinių organizacijų tarybą techniškai aptarnauja savivaldybės administracija.
+
+
+
+
+3. Savivaldybės nevyriausybinių organizacijų taryba sudaroma taip, kad ne daugiau kaip 1/2 tarybos narių būtų savivaldybės institucijų ir įstaigų atstovai ir ne mažiau kaip 1/2 tarybos narių būtų nevyriausybinių organizacijų, veikiančių savivaldybės teritorijoje, atstovai. Savivaldybės nevyriausybinių organizacijų tarybos nario kadencijos trukmė – dveji metai. Nevyriausybinių organizacijų atstovus į savivaldybės nevyriausybinių organizacijų tarybą pasiūlo savivaldybės teritorijoje veikiančios nevyriausybinių organizacijų asociacijos. Jeigu savivaldybės teritorijoje nėra veikiančių nevyriausybinių organizacijų asociacijų, nevyriausybinių organizacijų atstovus savivaldybės nevyriausybinių organizacijų tarybos nuostatuose nustatyta tvarka pasiūlo savivaldybės teritorijoje veikiančios nevyriausybinės organizacijos.
+
+
+
+
+4. Savivaldybės nevyriausybinių organizacijų tarybos pirmininką ir pirmininko pavaduotoją vienų metų kadencijai iš savivaldybės nevyriausybinių organizacijų tarybos narių visų jos narių balsų dauguma slaptu balsavimu renka savivaldybės nevyriausybinių organizacijų taryba savivaldybės nevyriausybinių organizacijų tarybos nuostatuose nustatyta tvarka. Savivaldybės nevyriausybinių organizacijų tarybos pirmininku išrinkus savivaldybės institucijos ar įstaigos atstovą, pirmininko pavaduotoju turi būti renkamas nevyriausybinių organizacijų atstovas. Savivaldybės nevyriausybinių organizacijų tarybos pirmininku išrinkus nevyriausybinių organizacijų atstovą, pirmininko pavaduotoju renkamas savivaldybės institucijos ar įstaigos atstovas.
+
+
+
+
+5. Savivaldybės nevyriausybinių organizacijų taryba:
+
+
+1) teikia savivaldybės institucijoms ir įstaigoms pasiūlymus dėl savivaldybės teritorijoje veikiančių nevyriausybinių organizacijų stiprinimo;
+
+
+
+
+2) dalyvauja rengiant savivaldybės institucijų ir įstaigų teisės aktų, susijusių su nevyriausybinių organizacijų plėtra, projektus;
+
+
+
+
+3) dalyvauja savivaldybės institucijoms ir įstaigoms atliekant analizę dėl savivaldybės administruojamų viešųjų paslaugų teikimo ir teikia pasiūlymus dėl viešųjų paslaugų teikimo;
+
+
+
+
+4) dalyvauja darbo ar ekspertų grupėse nevyriausybinių organizacijų plėtros valstybės politikos klausimams svarstyti;
+
+
+
+
+5) atlieka kitas savivaldybės nevyriausybinių organizacijų tarybos nuostatuose nustatytas funkcijas.
+
+
+
+
+
+
+6. Savivaldybės, kurios teritorijoje yra iki 100 000 gyventojų, tarybos sprendimu, suderintu su savivaldybės teritorijoje veikiančiomis  bendruomeninėmis organizacijomis, savivaldybės nevyriausybinių organizacijų tarybai gali būti pavesta atlikti ir savivaldybės bendruomeninių organizacijų tarybos funkcijas.
+ 
+
+
+
+
+
+
+
+
+III SKYRIUS
+NEVYRIAUSYBINIŲ ORGANIZACIJŲ FINANSAVIMAS
+ 
+
+
+7 straipsnis. Nevyriausybinių organizacijų finansavimas
+
+
+1. Nevyriausybinėms organizacijoms finansavimas konkurso būdu gali būti skiriamas iš Lietuvos Respublikos valstybės ar savivaldybių biudžetų šiems tikslams:
+
+
+1) jų veiklai stiprinti;
+
+
+
+
+2) tiksliniams jų veiklos projektams įgyvendinti;
+
+
+
+
+3) teikiant viešąsias paslaugas reikalingų gebėjimų stiprinimo projektams įgyvendinti;
+
+
+
+
+4) Bendruomeninių organizacijų plėtros įstatymui įgyvendinti;
+
+
+
+
+5) Vyriausybės nustatyta tvarka sudaromoms strateginės valstybės ir nevyriausybinių organizacijų partnerystės sutartims įgyvendinti.
+
+
+
+
+
+
+2. Nevyriausybinėms organizacijoms finansavimą pagal įgyvendinamas programas ir priemones skiria asignavimų valdytojai. 
+
+
+
+
+3. Vyriausybė ar jos įgaliota institucija nustato nevyriausybinių organizacijų finansavimo iš valstybės biudžeto ir šių lėšų administravimo tvarką, projektų vertinimo procedūras, lėšų pervedimo ir atsiskaitymo už gautą finansavimą tvarką. Asignavimų valdytojai, įgyvendindami nevyriausybinių organizacijų finansavimo programas ir priemones, tvirtina finansavimo konkursų nuostatus, kuriuose nustato finansavimo kryptis, siekiamus tikslus ir projektų įgyvendinimo rezultatų vertinimo tvarką.
+
+
+
+
+4. Nevyriausybinių organizacijų finansavimo iš savivaldybės biudžeto tvarką, šių lėšų administravimo tvarką ir finansuotinas nevyriausybinių organizacijų veiklos sritis, atsižvelgusi į nevyriausybinių organizacijų plėtros valstybės politiką ir įvertinusi vietos bendruomenės poreikius, nustato savivaldybės taryba.
+
+
+
+
+5. Finansavimas gali būti skiriamas juridiniams asmenims, kurie atitinka šio įstatymo 2 straipsnio 3 dalyje nustatytą nevyriausybinės organizacijos sąvoką.
+ 
+
+
+
+
+
+
+8 straipsnis. Viešosios naudos nevyriausybinių organizacijų finansavimas
+
+
+Asignavimų valdytojai, skirstydami nevyriausybinių organizacijų veiklos finansavimo lėšas, gali numatyti, kad viešosios naudos nevyriausybinėms organizacijoms teikiamas prioritetas. Nevyriausybinės organizacijos pripažįstamos viešosios naudos nevyriausybinėmis organizacijomis Vyriausybės įgaliotos institucijos nustatyta tvarka.
+ 
+
+
+
+
+
+
+9 straipsnis. Nevyriausybinių organizacijų fondas
+
+
+1. Nevyriausybinių organizacijų fondas (toliau – fondas) sudaromas siekiant kaupti lėšas ir jas paskirstyti nevyriausybinėms organizacijoms, įskaitant bendruomenines organizacijas, taip pat nevyriausybinių organizacijų plėtros valstybės politikai formuoti ir įgyvendinti. Nevyriausybinių organizacijų plėtros valstybės politikai formuoti ir įgyvendinti gali būti skiriama ne daugiau negu 20 procentų Fondo lėšų. Fondo lėšos konkurso būdu gali būti skiriamos:
+
+
+1) nevyriausybinių organizacijų, įskaitant bendruomenines organizacijas, instituciniams gebėjimams stiprinti;
+
+
+
+
+2) Fondo nuostatuose numatytoms nevyriausybinių organizacijų, įskaitant bendruomenines organizacijas, veikloms finansuoti Fondo nuostatuose nustatyta tvarka.
+
+
+
+
+
+
+2. Fondo lėšos sudaromos iš nuolatinių Lietuvos Respublikos gyventojų pajamų mokesčio valstybės biudžete liekančios dalies, Socialinės apsaugos ir darbo ministerijai skiriamų asignavimų ir iš kitų teisėtai gautų lėšų. Planuojant kiekvienų metų valstybės biudžeto asignavimus, Fondui numatoma Vyriausybės nustatyta gyventojų pajamų mokesčio atitinkama dalis, kuri negali būti mažesnė negu 20 procentų, skaičiuojant nuo užpraėjusių metų gyventojų paskirtos gyventojų pajamų mokesčio ne pelno subjektams dalies.
+
+
+
+
+3. Fondas administruojamas pagal šį įstatymą ir kitus teisės aktus, nustatančius valstybės biudžeto lėšų naudojimo principus ir tvarką, ir Vyriausybės patvirtintus Fondo nuostatus. Fondą administruoja Socialinės apsaugos ir darbo ministerija. Fondo lėšos laikomos atskiroje Socialinės apsaugos ir darbo ministerijos sąskaitoje ir įtraukiamos į apskaitą pagal atskirą priemonę. Fondo lėšos negali būti perduodamos į valstybės biudžetą arba naudojamos kitoms valstybės reikmėms finansuoti. Per biudžetinius metus nepanaudotos Fondo lėšos lieka Fondo sąskaitoje ir naudojamos kitais biudžetiniais metais.
+
+
+
+
+4. Sprendimus dėl Fondo strateginių programų krypčių ir lėšų tam tikroms Fondo veiklos kryptims skyrimo Fondo nuostatuose nustatyta tvarka priima Fondo taryba. Fondo tarybą sudaro septyni nariai: trys nevyriausybinių organizacijų atstovai, trys valstybės institucijų ir įstaigų atstovai ir vienas nevyriausybinių organizacijų srities mokslininkas. Fondo tarybos nariu gali būti skiriamas Lietuvos Respublikos valstybės tarnybos įstatyme nustatytus nepriekaištingos reputacijos reikalavimus atitinkantis asmuo. Fondo tarybos institucinę sudėtį socialinės apsaugos ir darbo ministro teikimu trejiems metams tvirtina Vyriausybė. Personalinę Fondo tarybos sudėtį tvirtina socialinės apsaugos ir darbo ministras. Fondo tarybos sudarymo tvarka, Fondo tarybos narių kompetencijos reikalavimai nustatomi Fondo nuostatuose.
+ 
+
+
+
+
+
+
+10 straipsnis. Finansavimo neskyrimo pagrindai
+
+
+1. Valstybės ir savivaldybių biudžetų lėšos nevyriausybinėms organizacijoms negali būti skiriamos, jeigu nustatoma bent viena iš šių aplinkybių:
+
+
+1) juridinio asmens veikla sustabdyta ar apribota įstatymų nustatytais pagrindais;
+
+
+
+
+2) juridiniam asmeniui taikomas turto areštas ir išieškojimas galėtų būti nukreiptas į projektui įgyvendinti skirtas valstybės, savivaldybių biudžetų lėšas, juridinis asmuo yra likviduojamas arba pradėtos juridinio ar kito asmens bankroto procedūros ir išieškojimas galėtų būti nukreiptas į projektui įgyvendinti skirtas valstybės, savivaldybių biudžetų lėšas;
+
+
+
+
+3) juridinis asmuo, prašydamas valstybės ar savivaldybių biudžetų lėšų, pateikė tikrovės neatitinkančius duomenis arba suklastotus dokumentus;
+
+
+
+
+4) juridinis asmuo, naudodamas valstybės ar savivaldybių biudžetų lėšas, buvo neįvykdęs valstybės ar savivaldybių biudžetų lėšų naudojimo sutarties, sudarytos su valstybės ar savivaldybės institucija, ar netinkamai ją įvykdęs ir tai buvo esminis (kaip nurodyta sutartyje) valstybės ar savivaldybių biudžetų lėšų naudojimo sutarties pažeidimas;
+
+
+
+
+5) juridinis asmuo neatitinka asignavimų valdytojo patvirtintuose projektų finansavimo konkursų nuostatuose nustatytų reikalavimų;
+
+
+
+
+6) juridinis asmuo teisės aktų nustatyta tvarka nėra pateikęs finansinių ataskaitų rinkinio, veiklos ataskaitos ir savo interneto svetainėje (jeigu ją turi) viešai neskelbia informacijos apie įgyvendinamus ar įgyvendintus projektus.
+
+
+
+
+
+
+2. Jeigu šio straipsnio 1 dalyje nurodytos aplinkybės atsiranda arba paaiškėja po sprendimo skirti valstybės ar savivaldybių biudžetų lėšų projektui įgyvendinti priėmimo, valstybės ar savivaldybių biudžetų lėšų mokėjimas sustabdomas, o šiomis aplinkybėmis išmokėtos valstybės ar savivaldybių biudžetų lėšos asignavimų valdytojo nustatyta tvarka per nustatytus terminus turi būti grąžintos atitinkamai į valstybės biudžeto lėšų naudojimo sutartyje nurodytą valstybės iždo sąskaitą arba į savivaldybės biudžeto lėšų naudojimo sutartyje nurodytą savivaldybės sąskaitą. Jeigu šio straipsnio 1 dalyje nurodytos aplinkybės išnyksta nepasibaigus projektų įgyvendinimo terminui, valstybės ar savivaldybių biudžetų lėšų mokėjimas atnaujinamas projektams, kurių vykdymo terminai nėra pasibaigę, įgyvendinti.
+ 
+
+
+
+
+
+
+11 straipsnis. Informacijos apie finansavimo nevyriausybinėms organizacijoms skyrimą skelbimas
+
+
+1. Asignavimų valdytojai savo interneto svetainėse skelbia:
+
+
+1) numatomas finansuoti veiklų sritis, kuriose veikiančioms nevyriausybinėms organizacijoms bus skiriamas finansavimas;
+
+
+
+
+2) informaciją apie finansavimo teikimo sąlygas ir tvarką;
+
+
+
+
+3) informaciją apie nevyriausybines organizacijas, kurios pateikė paraiškas dėl finansavimo (nevyriausybinės organizacijos pavadinimas, projekto pavadinimas ir prašoma skirti lėšų suma);
+
+
+
+
+4) informaciją apie nevyriausybines organizacijas, kurios gavo finansavimą (nevyriausybinės organizacijos pavadinimas, projekto pavadinimas ir skirto finansavimo suma);
+
+
+
+
+5) informaciją apie nevyriausybinių organizacijų įgyvendinamus ir įgyvendintus projektus.
+
+
+
+
+
+
+2. Nevyriausybinės organizacijos savo interneto svetainėse skelbia informaciją apie įgyvendinamus ir įgyvendintus projektus, nurodo jų finansavimo šaltinius.
+ 
+
+
+
+
+
+
+
+
+IV SKYRIUS
+INFORMACIJOS APIE NEVYRIAUSYBINES ORGANIZACIJAS KAUPIMAS
+ 
+
+
+12 straipsnis. Informacijos apie nevyriausybines organizacijas kaupimas
+
+
+1. Informacija apie juridinius asmenis, kurie yra nevyriausybinės organizacijos, kaupiama Juridinių asmenų registre ir skelbiama viešai.
+
+
+
+
+2. Juridinio asmens vadovas įvertina, ar jo vadovaujamas juridinis asmuo atitinka šio įstatymo 2 straipsnio 3 dalyje nustatytą nevyriausybinės organizacijos sąvoką, ir Juridinių asmenų registro nuostatuose nustatyta tvarka Juridinių asmenų registre pažymi, kad juridinis asmuo yra nevyriausybinė organizacija.
+
+
+
+
+3. Asignavimų valdytojas, kilus pagrįstų abejonių, ar juridinis asmuo atitinka šio įstatymo 2 straipsnio 3 dalyje nustatytą nevyriausybinės organizacijos sąvoką, turi teisę tikrinti juridinio asmens atitiktį nevyriausybinės organizacijos požymiams patvirtinančią informaciją Juridinių asmenų registre ir Juridinių asmenų dalyvių informacinėje sistemoje. Jeigu nevyriausybinės organizacijos požymius patvirtinančios informacijos Juridinių asmenų registre ar Juridinių asmenų dalyvių informacinėje sistemoje nėra, asignavimų valdytojas turi teisę prašyti, kad juridinis asmuo jam šią informaciją pateiktų.
+
+
+
+
+4. Asignavimų valdytojas, turėdamas duomenų, kad juridinis asmuo neatitinka šio įstatymo 2 straipsnio 3 dalyje nustatytos nevyriausybinės organizacijos sąvokos, kreipiasi į Juridinių asmenų registro tvarkytoją dėl žymos, kad juridinis asmuo yra  nevyriausybinė organizacija, panaikinimo.
+
+
+
+
+5. Juridinių asmenų registro tvarkytojas savo iniciatyva panaikina žymą, kad juridinis asmuo yra nevyriausybinė organizacija, kai įregistruojamas Juridinių asmenų registro tvarkytojo inicijuotas šio juridinio asmens likvidavimas arba įregistruojamas jo, kaip likviduojamo, bankrutuojančio ar bankrutavusio juridinio asmens, statusas, taip pat kai pasibaigia juridinio asmens pertvarkymo procedūros.
+
+
+
+
+6. Juridinių asmenų registre žyma, kad juridinis asmuo yra nevyriausybinė organizacija, gali būti panaikinta ir šio juridinio asmens iniciatyva.
+
+
+
+
+7. Juridinis asmuo, kurio kaip nevyriausybinės organizacijos žyma buvo panaikinta asignavimų valdytojo iniciatyva šio straipsnio 4 dalyje numatytu atveju, šio straipsnio 2 dalyje numatytą informaciją pakartotinai gali nurodyti praėjus ne mažiau negu vieniems metams nuo šios žymos panaikinimo dienos.
  
 
 
@@ -507,5 +622,16 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
- 
 RESPUBLIKOS PREZIDENTĖ                                              DALIA GRYBAUSKAITĖ
+ 
+
+
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2626, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20654
+Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo Nr. XII-717 pakeitimo įstatymas
