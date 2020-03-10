@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a8ccee20779211e3996afa27049d9d4e"
 
 # Lietuvos Respublikos teismų įstatymo 47 straipsnio pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2019-12-30 iki 2020-03-09
+Suvestinė redakcija nuo 2020-03-10
  
 Įstatymas paskelbtas: TAR 2014-01-07, i. k. 2014-00063
  
@@ -50,8 +50,10 @@ Pakeisti 47 straipsnį ir jį išdėstyti taip:
 
 2. Draudžiama įeiti į teisėjo gyvenamąsias ar tarnybines patalpas, daryti ten arba teisėjo asmeniniame ar tarnybiniame automobilyje, arba kitoje asmeninėje susisiekimo priemonėje apžiūrą, kratą ar poėmį, taip pat atlikti teisėjo asmens apžiūrą ar kratą, jam priklausančių daiktų ir dokumentų apžiūrą ar poėmį, išskyrus įstatymų nustatytus atvejus. 
 TAR pastaba. Nuo 2019-12-30 iki bus paskelbtas Konstitucinio Teismo nutarimas šioje byloje sustabdomas Lietuvos Respublikos teismų įstatymo 47 straipsnio 2 dalies (2013 m. gruodžio 23 d. redakcija; TAR, 2014-01-07, Nr. 63, identifikacinis kodas 2014-00063) galiojimas.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos teismų įstatymo 47 straipsnio (2013 m. gruodžio 23 d. redakcija; TAR, 2014-01-07, Nr. 63) 2 dalis prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 2 daliai, 114 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
 Straipsnio dalies pakeitimai:
 Nr. 2B-56P, 2019-12-30, paskelbta TAR 2019-12-30, i. k. 2019-21605
+Nr. KT41-N4/2020, 2020-03-09, paskelbta TAR 2020-03-09, i. k. 2020-05178
  
 
 
@@ -112,3 +114,8 @@ Pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Pranešimas
 Nr. 2B-56P, 2019-12-30, paskelbta TAR 2019-12-30, i. k. 2019-21605
 Dėl Lietuvos Respublikos teismų įstatymo 47 straipsnio 2 dalies (2013 m. gruodžio 23 d. redakcija) galiojimo sustabdymo
+ 
+2.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT41-N4/2020, 2020-03-09, paskelbta TAR 2020-03-09, i. k. 2020-05178
+Dėl Lietuvos Respublikos teismų įstatymo 47 straipsnio (2013 m. gruodžio 23 d. redakcija) 2 dalies, Lietuvos Respublikos Konstitucinio Teismo įstatymo 8 straipsnio (2008 m. lapkričio 11 d. redakcija) 4 dalies atitikties Lietuvos Respublikos Konstitucijai
