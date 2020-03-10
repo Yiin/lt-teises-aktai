@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.05.13)
 
 
 
-Suvestinė redakcija nuo 2019-09-01 iki 2020-03-09
+Suvestinė redakcija nuo 2020-03-10 iki 2020-06-29
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 24-0; Žin. 1993, Nr.6-120, i. k. 0931010ISTA0000I-67
  
@@ -263,6 +263,10 @@ Konstitucinio Teismo teisėjas, sulaikytas ar pristatytas į teisėsaugos įstai
 
 
 Įeiti į gyvenamąsias ar tarnybines Konstitucinio Teismo teisėjo patalpas, daryti ten arba jo asmeniniame ar tarnybiniame automobilyje, arba kitoje asmeninėje susisiekimo priemonėje apžiūrą, kratą arba poėmį, taip pat atlikti teisėjo asmens apžiūrą ar kratą, jam priklausančių daiktų bei dokumentų apžiūrą ar poėmį leidžiama tik tada, kai nustatyta tvarka Konstitucinio Teismo teisėjui yra iškelta baudžiamoji byla. 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Konstitucinio Teismo įstatymo 8 straipsnio (2008 m. lapkričio 11 d. redakcija; Žin., 2008, Nr. 134-5179) 4 dalis prieštarauja Lietuvos Respublikos Konstitucijos 104 straipsnio 1, 4 dalims, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT41-N4/2020, 2020-03-09, paskelbta TAR 2020-03-09, i. k. 2020-05178
+ 
 
 
 
@@ -3442,3 +3446,8 @@ Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 6, 9, 14, 19, 26, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2328, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12391
 Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 3, 13, 24, 28, 31, 32, 39, 40, 46, 48, 49, 53-1, 61, 65, 66, 67, 68, 69, 70, 76, 84, 86, 88 straipsnių pakeitimo ir Įstatymo papildymo 67-1 ir 67-2 straipsniais įstatymas
+ 
+4.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT41-N4/2020, 2020-03-09, paskelbta TAR 2020-03-09, i. k. 2020-05178
+Dėl Lietuvos Respublikos teismų įstatymo 47 straipsnio (2013 m. gruodžio 23 d. redakcija) 2 dalies, Lietuvos Respublikos Konstitucinio Teismo įstatymo 8 straipsnio (2008 m. lapkričio 11 d. redakcija) 4 dalies atitikties Lietuvos Respublikos Konstitucijai
