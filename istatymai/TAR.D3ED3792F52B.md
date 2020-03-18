@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-03-17
+Suvestinė redakcija nuo 2020-03-18 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -2932,7 +2932,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFIC
 
 
  8. 
- vyriausiasis specialistas, specialiojo atašė pavaduotojas, vyresnysis valstybinis auditorius, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo kanceliarijoje), vyresnysis specialistas (Seimo kanceliarijoje) 
+ vyriausiasis specialistas, specialiojo atašė pavaduotojas, Seimo nuolatinio atstovo Europos Sąjungoje pavaduotojas, vyresnysis valstybinis  auditorius, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo  kanceliarijoje), vyresnysis specialistas (Seimo kanceliarijoje) 
  savivaldybės tarybos sekretorius, mero patarėjas,  Respublikos Prezidento referentas, Seimo Pirmininko padėjėjas, Ministro Pirmininko padėjėjas, Seimo frakcijos referentas 
  7,7–13,5 
  7,1–13 
@@ -2961,6 +2961,7 @@ Priedo pakeitimai:
 Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 Nr. XIII-1805, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21813
 Nr. XIII-2609, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20565
+Nr. XIII-2809, 2020-03-12, paskelbta TAR 2020-03-17, i. k. 2020-05602
  
 
 
@@ -3948,4 +3949,9 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5 straipsnio pa
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2609, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20565
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1 priedo pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2809, 2020-03-12, paskelbta TAR 2020-03-17, i. k. 2020-05602
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1 priedo pakeitimo įstatymas
