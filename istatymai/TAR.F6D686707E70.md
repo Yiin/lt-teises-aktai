@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-03-18
+Suvestinė redakcija nuo 2020-03-19 iki 2020-04-07
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -1594,35 +1594,72 @@ DARBO SUTARTIES VYKDYMAS
 47 straipsnis. Prastova
 
 
-1. Jeigu darbdavys negali suteikti darbuotojui darbo sutartyje sulygto darbo dėl objektyvių priežasčių ne dėl darbuotojo kaltės ir darbuotojas nesutinka dirbti kito jam pasiūlyto darbo, darbdavys darbuotojui skelbia prastovą. Prastova gali būti skelbiama ir darbuotojų grupei.
+1. Darbdavys darbuotojui ar darbuotojų grupei gali skelbti prastovą, kai:
+
+
+1) darbdavys negali suteikti darbuotojui darbo sutartyje sulygto darbo dėl objektyvių priežasčių ne dėl darbuotojo kaltės ir darbuotojas nesutinka dirbti kito jam pasiūlyto darbo;
 
 
 
 
-2. Paskelbus prastovą, trunkančią iki vienos darbo dienos, darbuotojui mokamas vidutinis jo darbo užmokestis ir darbdavys turi teisę reikalauti darbuotojo būti darbovietėje.
+2) Lietuvos Respublikos Vyriausybė paskelbia ekstremaliąją situaciją ar karantiną ir darbdavys dėl to negali suteikti darbuotojui darbo sutartyje sulygto darbo.
 
 
 
 
-3. Jeigu prastova skelbiama ilgesniam laikotarpiui negu viena darbo diena, bet ne ilgiau kaip trims darbo dienoms, negali būti reikalaujama, kad darbuotojas atvyktų į darbovietę kasdien ilgesniam negu viena valanda laikui. Buvimo darbovietėje per prastovą laiku jam mokamas vidutinis jo darbo užmokestis, o kitu prastovos laikotarpiu, kai darbuotojas neprivalo būti darbe, jam mokama du trečdaliai vidutinio jo darbo užmokesčio.
+
+
+2. Šio straipsnio 1 dalies 1 punkte nustatytu atveju:
+
+
+1) kai darbdavys paskelbia prastovą, trunkančią iki vienos darbo dienos, darbuotojui mokamas vidutinis jo darbo užmokestis ir darbdavys turi teisę reikalauti darbuotojo būti darbovietėje;
 
 
 
 
-4. Jeigu prastova paskelbta neterminuotai arba ilgesniam negu trijų darbo dienų laikotarpiui, darbuotojas neprivalo atvykti į darbovietę, tačiau turi būti pasirengęs atvykti į darbovietę kitą darbo dieną po darbdavio pranešimo. Už prastovos laiką iki trijų darbo dienų mokama šio straipsnio 2 ir 3 dalyse nustatyta tvarka, o už kitą prastovos laikotarpį jam paliekama keturiasdešimt procentų vidutinio jo darbo užmokesčio. 
+2) kai darbdavys paskelbia prastovą ilgesniam laikotarpiui negu viena darbo diena, bet ne ilgiau kaip trims darbo dienoms, negali būti reikalaujama, kad darbuotojas atvyktų į darbovietę kasdien ilgesniam negu viena valanda laikui. Buvimo darbovietėje per prastovą laiku jam mokamas vidutinis jo darbo užmokestis, o kitu prastovos laikotarpiu, kai darbuotojas neprivalo būti darbe, jam mokama du trečdaliai vidutinio jo darbo užmokesčio;
 
 
 
 
-5. Kalendorinį mėnesį, kurį darbuotojui buvo paskelbta prastova, darbuotojo gaunamas darbo užmokestis už tą mėnesį negali būti mažesnis negu Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga, kai jo darbo sutartyje sulygta visa darbo laiko norma.
+3) kai darbdavys paskelbia prastovą neterminuotai arba ilgesniam negu trijų darbo dienų laikotarpiui, darbuotojas neprivalo atvykti į darbovietę, tačiau turi būti pasirengęs atvykti į darbovietę kitą darbo dieną po darbdavio pranešimo. Už prastovos laiką iki trijų darbo dienų mokama šios dalies 1 ir 2 punktuose nustatyta tvarka, o už kitą prastovos laikotarpį jam paliekama keturiasdešimt procentų vidutinio jo darbo užmokesčio;
 
 
 
 
-6. Darbdavys gali paskelbti darbuotojui dalinę prastovą, kai tam tikram laikotarpiui sumažinamas darbo dienų per savaitę skaičius (ne mažiau kaip dviem darbo dienomis) ar darbo valandų per dieną skaičius (ne mažiau kaip trimis darbo valandomis). Dalinės prastovos laikotarpiais, kai darbuotojas neprivalo būti darbe, jam mokamas darbo užmokestis šio straipsnio 3 ir 4 dalyse nustatyta tvarka.
+4) kalendorinį mėnesį, kurį darbuotojui buvo paskelbta prastova, darbuotojo gaunamas darbo užmokestis už tą mėnesį negali būti mažesnis negu Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga, kai jo darbo sutartyje sulygta visa darbo laiko norma;
+
+
+
+
+5) darbdavys gali paskelbti darbuotojui dalinę prastovą, kai tam tikram laikotarpiui sumažinamas darbo dienų per savaitę skaičius (ne mažiau kaip dviem darbo dienomis) ar darbo valandų per dieną skaičius (ne mažiau kaip trimis darbo valandomis). Dalinės prastovos laikotarpiais, kai darbuotojas neprivalo būti darbe, jam mokamas darbo užmokestis šios dalies 2 ir 3 punktuose nustatyta tvarka.
+
+
+
+
+
+
+3. Paskelbus prastovą šio straipsnio 1 dalies 2 punkte nustatytu atveju:
+
+
+1) iš darbuotojo negali būti reikalaujama, kad jis atvyktų į darbovietę;
+
+
+
+
+2) prastovos laikotarpiu darbdavys darbuotojui moka ne mažesnį kaip Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos darbo užmokestį, kai jo darbo sutartyje sulygta visa darbo laiko norma. Darbdaviui, išskyrus valstybės ir savivaldybės institucijas ar įstaigas, profesines sąjungas, religines bendruomenes (bendrijas) ar asociacijas, patirtų darbo užmokesčio už prastovą išlaidų dalis kompensuojama Lietuvos Respublikos užimtumo įstatyme nustatytu dydžiu ir nustatyta tvarka; 
+
+
+
+
+3) darbdavys gali paskelbti darbuotojui dalinę prastovą, kai tam tikram laikotarpiui sumažinamas darbo dienų per savaitę skaičius (ne mažiau kaip dviem darbo dienomis) ar darbo valandų per dieną skaičius (ne mažiau kaip trimis darbo valandomis). Tokiu atveju už darbo laiką mokamas darbo užmokestis, o už prastovos laiką mokama šios dalies 2 punkte nustatyta tvarka proporcingai.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2821, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05702
  
-
-
 
 
 
@@ -1670,6 +1707,14 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 
 
 3. Darbdavys, tirdamas darbuotojo galimo padaryto darbo pareigų pažeidimo aplinkybes, gali nušalinti darbuotoją nuo darbo iki trisdešimt kalendorinių dienų mokėdamas jam vidutinį jo darbo užmokestį. 
+
+
+
+
+31. Lietuvos Respublikos Vyriausybei paskelbus ekstremaliąją situaciją ar karantiną, siekiant užtikrinti darbuotojų ir trečiųjų asmenų sveikatos apsaugą, darbdavys privalo darbuotojui, kurio sveikatos būklė kelia grėsmę kitų darbuotojų sveikatos saugumui, motyvuotu raštu pasiūlyti dirbti nuotoliniu būdu. Darbdavio pasiūlyme darbuotojui dirbti nuotoliniu būdu turi būti nurodyta siūlymo dirbti nuotoliniu būdu priežastis, terminas ir teisinis pagrindas. Darbuotojas per vieną darbo dieną privalo raštu informuoti darbdavį apie sutikimą dirbti nuotoliniu būdu. Darbuotojui nesutikus dirbti nuotoliniu būdu ar nepateikus darbdaviui atsakymo į darbdavio pasiūlymą dirbti nuotoliniu būdu, darbdavys ne vėliau kaip per vieną darbo dieną nuo termino darbuotojo atsakymui į darbdavio pasiūlymą pateikti dienos raštu nušalina darbuotoją nuo darbo, neleisdamas jam dirbti ir nemokėdamas darbo užmokesčio. Darbdavio sprendime nušalinti darbuotoją nuo darbo turi būti nurodyta, kuriam laikui darbuotojas nušalinamas, nušalinimo priežastis ir teisinis pagrindas.
+Papildyta straipsnio dalimi:
+Nr. XIII-2821, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05702
+ 
 
 
 
@@ -9528,3 +9573,8 @@ Lietuvos Respublikos darbo kodekso 123 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2595, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20027
 Lietuvos Respublikos darbo kodekso 133 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2821, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05702
+Lietuvos Respublikos darbo kodekso 47 ir 49 straipsnių pakeitimo įstatymas
