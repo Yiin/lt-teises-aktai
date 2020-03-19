@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VARTOJIMO KREDITO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2018-12-01 iki 2020-03-18
+Suvestinė redakcija nuo 2020-03-19 iki 2020-12-22
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 1-1; Žin. 2011, Nr.45-0, i. k. 1101010ISTA0XI-1253
  
@@ -1499,6 +1499,60 @@ Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
  
 
 
+
+
+
+
+181 straipsnis. Įsipareigojimų pagal vartojimo kredito sutartį vykdymo atidėjimas
+
+
+1. Vartojimo kredito davėjas arba paskolos davėjas (tarpusavio skolinimo atveju) privalo vartojimo kredito gavėjo prašymu, pateiktu raštu popieriuje ar kitoje patvariojoje laikmenoje, vartojimo kredito sutarties galiojimo laikotarpiu vartojimo kredito gavėjui atidėti įmokų, išskyrus palūkanas, mokėjimą vartojimo kredito gavėjo prašyme nurodytam, bet ne ilgesniam kaip 3 mėnesių, laikotarpiui, kai vartojimo kredito gavėjas nebetenkina pagal šio įstatymo 8 straipsnio 5 dalį priimtame priežiūros institucijos teisės akte nustatytų kreditingumo vertinimo ir atsakingojo skolinimo reikalavimų, susijusių su vartojimo kredito gavėjo įsipareigojimų pagal vartojimo kredito ir kitas sutartis su finansų įstaigomis vidutinės įmokos dydžio ir pajamų santykiu, ir yra bent viena iš šių aplinkybių:
+
+
+1) nutrūksta vartojimo kredito gavėjo santuoka;
+
+
+
+
+2) miršta vartojimo kredito gavėjo sutuoktinis;
+
+
+
+
+3) vartojimo kredito gavėjas ar jo sutuoktinis tampa bedarbiu arba netenka ne mažiau kaip trečdalio pajamų;
+
+
+
+
+4) vartojimo kredito gavėjas pripažįstamas nedarbingu arba iš dalies darbingu Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme nustatyta tvarka;
+
+
+
+
+5) vartojimo kredito gavėjas atlieka nuolatinę privalomąją pradinę karo tarnybą.
+
+
+
+
+
+
+2. Atidėjus įmokų mokėjimą, bendru vartojimo kredito sutarties šalių sutarimu perskaičiuojamos atidėtos įmokos ir sudaromas atnaujintas įmokų mokėjimo grafikas.
+
+
+
+
+3. Šio straipsnio 1 dalyje nurodytu laikotarpiu apskaičiuotos palūkanos mokamos vartojimo kredito sutarties šalių susitarimu.
+
+
+
+
+4. Vartojimo kredito sutarties šalių susitarimu gali būti nustatytas ilgesnis, negu šio straipsnio 1 dalyje nurodytas, įmokų mokėjimo atidėjimo laikotarpis.
+TAR pastaba. 181 straipsnio nuostatos taikomos ir iki įstatymo Nr. XIII-2816 įsigaliojimo dienos (2020-03-19) sudarytoms vartojimo kredito sutartims.
+
+
+Papildyta straipsniu:
+Nr. XIII-2816, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05696
+ 
 
 
 
@@ -3250,3 +3304,8 @@ Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 22, 22-1, 25-1, 25-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1609, 2018-11-08, paskelbta TAR 2018-11-15, i. k. 2018-18505
 Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 20 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2816, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05696
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 papildymo 18-1 straipsniu įstatymas
