@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/613244607e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-03-18
+Suvestinė redakcija nuo 2020-03-19 iki 2021-01-19
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23708
- 
-TAR pastaba. Įstatymas Nr. XIII-2227 taikomas, kai darbdavio bankroto byla iškelta arba bankroto procesas pradėtas ne teismo tvarka ar teismo nutartis atsisakyti iškelti nemokiam juridiniam asmeniui bankroto bylą ir siūlyti inicijuoti jo likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva priimta po 2020 m. sausio 1 d.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
-Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 2, 3, 5, 6, 7, 8, 10 ir 19 straipsnių pakeitimo įstatymas
  
 
  
@@ -42,7 +37,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šio įstatymo paskirtis – šio įstatymo nustatyta tvarka užtikrinti minimalų darbuotojų apsaugos lygį jų darbdaviui tapus nemokiam, taip pat nustatyti ilgą nepertraukiamo darbo stažą turinčių darbuotojų papildomas finansines garantijas juos atleidus.
+1. Šio įstatymo paskirtis – šio įstatymo nustatyta tvarka užtikrinti minimalų darbuotojų apsaugos lygį jų darbdaviui tapus nemokiam, nustatyti ilgą nepertraukiamo darbo stažą turinčių darbuotojų papildomas finansines garantijas juos atleidus, taip pat nustatyti išmokų Lietuvos Respublikos Vyriausybei paskelbus ekstremaliąją situaciją ar karantiną kompensavimo galimybes.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
+ 
 
 
 
@@ -102,7 +100,9 @@ Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
 
 
 II SKYRIUS
-GARANTIJOS DARBUOTOJAMS JŲ DARBDAVIUI TAPUS NEMOKIAM
+GARANTIJOS DARBUOTOJAMS JŲ DARBDAVIUI TAPUS NEMOKIAM AR VYRIAUSYBĖS PASKELBTOS EKSTREMALIOSIOS SITUACIJOS AR KARANTINO ATVEJU 
+Pakeistas skyriaus pavadinimas:
+Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
  
 
 
@@ -154,6 +154,34 @@ GARANTIJOS DARBUOTOJAMS JŲ DARBDAVIUI TAPUS NEMOKIAM
 
 Straipsnio pakeitimai:
 Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
+ 
+
+
+
+
+31 straipsnis. Išmokų kompensavimas Vyriausybei paskelbus ekstremaliąją situaciją ar karantiną
+
+
+1. Iš Garantinio fondo lėšų kompensuojamos šios Lietuvos Respublikos užimtumo įstatyme numatytos išmokos:
+
+
+1) išmokos savarankiškai dirbantiems asmenims;
+
+
+
+
+2) subsidija darbo užmokesčiui, Lietuvos Respublikos Vyriausybei paskelbus ekstremaliąją situaciją ar karantiną.
+
+
+
+
+
+
+2. Administratorius pagal Užimtumo tarnybos pateiktas paraiškas iš Garantinio fondo lėšų perveda Užimtumo tarnybai šio straipsnio 1 dalyje numatytoms išmokoms pervesti reikalingų išlaidų sumą.
+
+
+Papildyta straipsniu:
+Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
  
 
 
@@ -211,12 +239,26 @@ Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
 
 
 
-5) pajamos už investuotas laikinai laisvas Garantinio fondo lėšas;
+5) iš valstybės biudžeto ar Europos Sąjungos struktūrinių ir kitų fondų pervedamos lėšos, skirtos darbo užmokesčiui už prastovą ir išmokoms savarankiškai dirbantiems asmenims mokėti; 
+Papildyta straipsnio punktu:
+Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
+ 
 
 
 
 
-6) kitos teisėtai gautos lėšos.
+6) pajamos už investuotas laikinai laisvas Garantinio fondo lėšas;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
+ 
+
+
+
+
+7) kitos teisėtai gautos lėšos.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
+ 
 
 
 
@@ -292,7 +334,15 @@ Garantinio fondo lėšos naudojamos:
 
 
 
-4) Garantinio fondo administravimo išlaidoms apmokėti Garantinio fondo nuostatuose nustatyta tvarka ir laikinai laisvų Garantinio fondo lėšų investavimo išlaidoms apmokėti finansų ministro nustatyta tvarka. 
+4) Garantinio fondo administravimo išlaidoms apmokėti Garantinio fondo nuostatuose nustatyta tvarka ir laikinai laisvų Garantinio fondo lėšų investavimo išlaidoms apmokėti finansų ministro nustatyta tvarka;
+
+
+
+
+5) šio įstatymo 31 straipsnyje numatytoms išmokoms kompensuoti.
+Papildyta straipsnio punktu:
+Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
+ 
 
 
 
@@ -1022,3 +1072,8 @@ Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir il
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
 Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 2, 3, 5, 6, 7, 8, 10 ir 19 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 1, 5, 6 straipsnių, II skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
