@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-03-18
+Suvestinė redakcija nuo 2020-03-19 iki 2020-04-09
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -255,6 +255,19 @@ Savarankiškai dirbantis asmuo yra fizinis asmuo, kuris užsiima šia pagal savo
 
 
 
+
+
+
+
+51 straipsnis. Išmokos iš Garantinio fondo skyrimo ir mokėjimo savarankiškai dirbantiems asmenims ypatumai Lietuvos Respublikos Vyriausybei paskelbus ekstremaliąją situaciją ar karantiną
+
+
+Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ar karantino metu savarankiškai dirbantis asmuo gali kreiptis į Užimtumo tarnybą dėl išmokos iš Garantinio fondo skyrimo ir mokėjimo. Ši išmoka asmeniui kiekvieną mėnesį mokama vieno einamųjų metų minimalių vartojimo poreikių dydžio, apskaičiuoto Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka, jeigu savarankiškai dirbantis asmuo iki kreipimosi gauti išmoką dienos faktiškai vykdė veiklą ir yra sumokėjęs visas privalomas mokėti socialinio draudimo įmokas už ne trumpesnį kaip 3 mėnesių laikotarpį per 12 mėnesių iki Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ar karantino paskelbimo dienos ir nedirba pagal darbo sutartį arba darbo santykiams prilygintų teisinių santykių pagrindu.
+
+
+Papildyta straipsniu:
+Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
+ 
 
 
 
@@ -1291,7 +1304,15 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-3) užsiėmimas šio įstatymo 9 straipsnio 1, 5, 6 ir 7 punktuose nurodyta neatlygintinio užimtumo veikla.
+3) užsiėmimas šio įstatymo 9 straipsnio 1, 5, 6 ir 7 punktuose nurodyta neatlygintinio užimtumo veikla;
+
+
+
+
+4) Lietuvos Respublikos Vyriausybės paskelbta ekstremalioji situacija ar karantinas.
+Papildyta straipsnio punktu:
+Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
+ 
 
 
 
@@ -1427,7 +1448,15 @@ Darbo rinkoje papildomai remiamais laikomi šie asmenys:
 
 
 
-13) priklausomi nuo narkotinių, psichotropinių ir kitų psichiką veikiančių medžiagų, baigę psichologinės socialinės ir (ar) profesinės reabilitacijos programas, jeigu jie kreipiasi į Užimtumo tarnybą ne vėliau kaip per 6 mėnesius nuo psichologinės socialinės ir (ar) profesinės reabilitacijos programos baigimo. 
+13) priklausomi nuo narkotinių, psichotropinių ir kitų psichiką veikiančių medžiagų, baigę psichologinės socialinės ir (ar) profesinės reabilitacijos programas, jeigu jie kreipiasi į Užimtumo tarnybą ne vėliau kaip per 6 mėnesius nuo psichologinės socialinės ir (ar) profesinės reabilitacijos programos baigimo;
+
+
+
+
+14) užimti asmenys, kuriems Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju paskelbta prastova.
+Papildyta straipsnio punktu:
+Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
+ 
 
 
 
@@ -1977,6 +2006,14 @@ Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
 
 
 
+5. Šio straipsnio 4 dalies 2 ir 3 punktuose nustatyti reikalavimai nėra taikomi darbdaviams, teikiantiems pasiūlymus šio įstatymo 41 straipsnio 21 dalyje nustatytai subsidijai darbo užmokesčiui gauti.
+Papildyta straipsnio dalimi:
+Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
+ 
+
+
+
+
 
 
 36 straipsnis. Parama mokymuisi
@@ -2045,9 +2082,10 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-3. Bedarbių ar užimtų asmenų profesinis mokymas vykdomas profesinio mokymo teikėjo, kurį pasirenka pats bedarbis ar užimtas asmuo, o kai sudaryta trišalė sutartis, – suderinus su darbdaviu. Užimtumo tarnyba, remdamasi šio straipsnio 1 ir 2 dalyse nurodytomis sutartimis, išduoda bedarbiui ar užimtam asmeniui dokumentą, kuriuo įsipareigoja sumokėti Lietuvos Respublikos profesinio mokymo įstatymo nustatyta tvarka bedarbio ar užimto asmens pasirinktam profesinio mokymo teikėjui nurodytą pinigų sumą už suteiktą profesinį mokymą. Tarp pasirinkto profesinio mokymo teikėjo ir bedarbio ar užimto asmens sudaroma profesinio mokymo sutartis, pagal kurią profesinio mokymo teikėjas kas mėnesį Užimtumo tarnybai teikia informaciją apie bedarbio ar užimto asmens mokymo programos lankomumą. Užimtam asmeniui profesinis mokymas šiame straipsnyje numatytomis sąlygomis organizuojamas tik tokiu atveju, kai jis planuoja įsidarbinti ne pas tą patį darbdavį, su kuriuo jį sieja darbo teisiniai santykiai, ar planuoja pradėti vykdyti savarankišką veiklą. Šio straipsnio 1 ir 2 dalyse nurodytose sutartyse su užimtu asmeniu numatoma sąlyga, kad užimtas asmuo turi įsidarbinti pas kitą darbdavį ar pradėti vykdyti savarankišką veiklą per 6 mėnesius nuo profesinio mokymo pabaigos. 
+3. Bedarbių ar užimtų asmenų profesinis mokymas vykdomas profesinio mokymo teikėjo, kurį pasirenka pats bedarbis ar užimtas asmuo, o kai sudaryta trišalė sutartis, – suderinus su darbdaviu. Užimtumo tarnyba, remdamasi šio straipsnio 1 ir 2 dalyse nurodytomis sutartimis, išduoda bedarbiui ar užimtam asmeniui dokumentą, kuriuo įsipareigoja sumokėti Lietuvos Respublikos profesinio mokymo įstatymo nustatyta tvarka bedarbio ar užimto asmens pasirinktam profesinio mokymo teikėjui nurodytą pinigų sumą už suteiktą profesinį mokymą. Tarp pasirinkto profesinio mokymo teikėjo ir bedarbio ar užimto asmens sudaroma profesinio mokymo sutartis, pagal kurią profesinio mokymo teikėjas kas mėnesį Užimtumo tarnybai teikia informaciją apie bedarbio ar užimto asmens mokymo programos lankomumą. Užimtam asmeniui profesinis mokymas šiame straipsnyje numatytomis sąlygomis organizuojamas, kai jis planuoja įsidarbinti ne pas tą patį darbdavį, su kuriuo jį sieja darbo teisiniai santykiai, ar planuoja pradėti vykdyti savarankišką veiklą arba yra įspėtas apie atleidimą, kai jo atliekama darbo funkcija darbdaviui tampa perteklinė dėl Lietuvos Respublikos Vyriausybės paskelbtos valstybės lygio ekstremaliosios situacijos. Šio straipsnio 1 ir 2 dalyse nurodytose sutartyse su užimtu asmeniu numatoma sąlyga, kad užimtas asmuo turi įsidarbinti pas kitą darbdavį ar pradėti vykdyti savarankišką veiklą per 6 mėnesius nuo profesinio mokymo pabaigos, išskyrus šioje dalyje nurodytą atvejį, kai užimtas asmuo, baigęs dalyvauti profesiniame mokyme, kuomet jo atliekama darbo funkcija darbdaviui tapo perteklinė dėl Lietuvos Respublikos Vyriausybės paskelbtos valstybės lygio ekstremaliosios situacijos, įsidarbina pas tą patį darbdavį trišalėje sutartyje numatytomis sąlygomis ir terminais.
 Straipsnio dalies pakeitimai:
 Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
+Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
  
 
 
@@ -2094,9 +2132,10 @@ Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
 
 
 
-7. Bedarbiams per visą profesinio mokymosi laikotarpį kartą per mėnesį mokama mokymo stipendija atsižvelgiant į lankytas valandas. Mokymo stipendijos dydis bedarbio pasirinkimu yra 0,47 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Lietuvos Respublikos nedarbo socialinio draudimo įstatymu. Mokymo stipendijos dydis mažinamas proporcingai numatytų, bet nelankytų valandų skaičiui. Pasibaigus nedarbo socialinio draudimo išmokos mokėjimo terminui, jeigu jis negali būti pratęstas Lietuvos Respublikos nedarbo socialinio draudimo įstatymo nustatyta tvarka, likusį profesinio mokymosi laikotarpį bedarbiui mokama 0,39 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio mokymo stipendija.
+7. Bedarbiams per visą profesinio mokymosi laikotarpį kartą per mėnesį mokama mokymo stipendija atsižvelgiant į lankytas valandas. Mokymo stipendijos dydis bedarbio pasirinkimu yra 0,47 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Lietuvos Respublikos nedarbo socialinio draudimo įstatymu. Mokymo stipendijos dydis mažinamas proporcingai numatytų, bet nelankytų valandų skaičiui, išskyrus atvejus, kai dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ar karantino sustabdoma bedarbio profesinio mokymo teikėjo veikla. Pasibaigus nedarbo socialinio draudimo išmokos mokėjimo terminui, jeigu jis negali būti pratęstas Lietuvos Respublikos nedarbo socialinio draudimo įstatymo nustatyta tvarka, Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ar karantino metu, bedarbiui mokama 0,39 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio mokymo stipendija. Lietuvos Respublikos Vyriausybei atšaukus ekstremaliąją situaciją ar karantiną, mokymo stipendijos dydis, atsižvelgiant į bedarbio lankytų profesinio mokymosi valandų skaičių, bedarbio pasirinkimu yra lygus 0,47 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis Lietuvos Respublikos nedarbo socialinio draudimo įstatymu.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
+Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
  
 
 
@@ -2202,7 +2241,10 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 16. Svarbiomis priežastimis, kurioms esant bedarbis neprivalo atlyginti Užimtumo tarnybai visų jos patirtų šio straipsnio 14 dalyje nurodytų išlaidų ir kai netaikomos šio įstatymo 22 straipsnio 6 dalies nuostatos, ir svarbiomis priežastimis, kurioms esant užimtas asmuo neprivalo atlyginti Užimtumo tarnybai visų jos patirtų šio straipsnio 14 dalies 1 punkte nurodytų išlaidų, o tuo atveju, kai užimtas asmuo profesinio mokymo metu buvo atleistas iš darbo, – taip pat jos patirtų šio straipsnio 14 dalies 2, 3 ir 4 punktuose nurodytų išlaidų, laikoma:
 
 
-1) bedarbio ar užimto asmens liga, sužalojimas, nėštumas likus 70 kalendorinių dienų iki gimdymo, gimdymas ir 56 kalendorinės dienos po gimdymo (komplikuoto gimdymo atveju arba gimus dviem ir daugiau vaikų – 70 kalendorinių dienų po gimdymo), mirtis, Lietuvos Respublikos karo prievolės įstatyme nustatytų pareigų atlikimas;
+1) bedarbio ar užimto asmens liga, sužalojimas, nėštumas likus 70 kalendorinių dienų iki gimdymo, gimdymas ir 56 kalendorinės dienos po gimdymo (komplikuoto gimdymo atveju arba gimus dviem ir daugiau vaikų – 70 kalendorinių dienų po gimdymo), mirtis, Lietuvos Respublikos karo prievolės įstatyme nustatytų pareigų atlikimas, dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ar karantino sustabdyta bedarbio profesinio mokymo teikėjo veikla;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
+ 
 
 
 
@@ -2430,7 +2472,7 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-2. Įgyvendinant remiamojo įdarbinimo priemones, darbdaviams, įdarbinusiems Užimtumo tarnybos siųstus asmenis, mokama subsidija darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, ir nuo šio darbo užmokesčio apskaičiuotoms draudėjo privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti. Subsidijos darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, dydis negali viršyti 1,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų sumos (toliau – subsidija darbo užmokesčiui). Jeigu įdarbinto asmens darbo sutartyje nustatytas ne visas darbo laikas arba jis dirbo ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą arba darbo sutartyje nustatytą valandinį atlygį. Subsidijos darbo užmokesčiui dydis, kai įdarbinami šio įstatymo 25 straipsnyje nurodyti asmenys, apskaičiuojamas procentais nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų lėšų:
+2. Įgyvendinant remiamojo įdarbinimo priemones, darbdaviams, įdarbinusiems Užimtumo tarnybos siųstus asmenis, nurodytus šio įstatymo 25 straipsnio 1–13 punktuose, mokama subsidija darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, ir nuo šio darbo užmokesčio apskaičiuotoms draudėjo privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti. Subsidijos darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, dydis negali viršyti 1,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų sumos. Jeigu įdarbinto asmens darbo sutartyje nustatytas ne visas darbo laikas arba jis dirbo ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą arba darbo sutartyje nustatytą valandinį atlygį. Subsidijos darbo užmokesčiui dydis, kai įdarbinami šio įstatymo 25 straipsnio 1–13 punktuose nurodyti asmenys, apskaičiuojamas procentais nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotų draudėjo privalomojo valstybinio socialinio draudimo įmokų lėšų:
 
 
 1) 75 procentai apskaičiuotų lėšų, kai įdarbinami asmenys, nurodyti šio įstatymo 25 straipsnio 1 ir 10 punktuose; 
@@ -2443,13 +2485,22 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-3) 50 procentų apskaičiuotų lėšų, kai įdarbinami asmenys, nurodyti šio įstatymo 25 straipsnio 3–9, 11, 12 ir 13 punktuose. 
+3) 50 procentų apskaičiuotų lėšų, kai įdarbinami asmenys, nurodyti šio įstatymo 25 straipsnio 3–9, 11, 12 ir 13 punktuose.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
 Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
+Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
+ 
+
+
+
+
+21. Darbdaviams, dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ar karantino paskelbtos prastovos metu išlaikantiems darbo vietas šio įstatymo 25 straipsnio 14 punkte nurodytiems užimtiems asmenims, mokama subsidija darbo užmokesčiui nuo jiems priskaičiuoto darbo užmokesčio. Subsidijos darbo užmokesčiui dydis apskaičiuojamas procentais nuo užimtam asmeniui priskaičiuoto darbo užmokesčio ir sudaro 60 procentų apskaičiuotų lėšų arba 90 procentų apskaičiuotų lėšų Lietuvos Respublikos Vyriausybei nutarimu nustačius apribojimus ūkinės veiklos sektoriuose, bet ne daugiau kaip Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga. Jeigu užimtam asmeniui prastova paskelbta ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis apskaičiuojamas proporcingai darbdavio paskelbtam užimto asmens prastovos laikui. Darbdaviai, kuriems buvo mokama subsidija darbo užmokesčiui, darbo vietas šio įstatymo 25 straipsnio 14 punkte nurodytiems užimtiems asmenims, kurių darbo vietoms išlaikyti buvo mokėta subsidija darbo užmokesčiui, turi išlaikyti ne trumpiau kaip 3 mėnesius nuo subsidijos darbo užmokesčiui mokėjimo pabaigos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
  
 
 
@@ -2501,7 +2552,15 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-7) įregistravus likviduojamos įmonės statusą Juridinių asmenų registre.
+7) įregistravus likviduojamos įmonės statusą Juridinių asmenų registre;
+
+
+
+
+8) Lietuvos Respublikos Vyriausybei atšaukus ekstremaliąją situaciją ar karantiną, kai subsidija darbo užmokesčiui buvo mokama šio straipsnio 21 dalyje nustatytu atveju.
+Papildyta straipsnio punktu:
+Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
+ 
 
 
 
@@ -2519,7 +2578,7 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 42 straipsnis. Įdarbinimas subsidijuojant
 
 
-1. Įdarbinimas subsidijuojant, kurio tikslas yra įdarbinti Užimtumo tarnybos siųstą asmenį negrąžintinai kompensuojant darbdaviui dalį šio asmens darbo užmokesčio išlaidų, organizuojamas siekiant:
+1. Įdarbinimas subsidijuojant, kurio tikslas yra įdarbinti Užimtumo tarnybos siųstą asmenį negrąžintinai kompensuojant darbdaviui dalį šio asmens darbo užmokesčio išlaidų, taip pat išlaikyti užimtų asmenų, kuriems Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju paskelbta prastova, darbo vietas, organizuojamas siekiant: 
 
 
 1) šio įstatymo 25 straipsnio 3–13 punktuose nurodytiems bedarbiams padėti įsitvirtinti darbo rinkoje arba įsidarbinti;
@@ -2527,14 +2586,14 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-2) šio įstatymo 25 straipsnio 1 ir 2 punktuose nurodytiems bedarbiams sudaryti specialias sąlygas išlikti darbo rinkoje.
+2) šio įstatymo 25 straipsnio 1, 2 punktuose nurodytiems bedarbiams ir šio įstatymo 25 straipsnio 14 punkte nurodytiems užimtiems asmenims sudaryti specialias sąlygas išlikti darbo rinkoje.
 
 
 
 
 
 
-2. Subsidijos darbo užmokesčiui, mokamos darbdaviams įdarbinant šio straipsnio 1 dalyje nurodytus asmenis, dydis apskaičiuojamas vadovaujantis šio įstatymo 41 straipsnio 2 dalies nuostatomis.
+2. Subsidijos darbo užmokesčiui, mokamos darbdaviams įdarbinant šio straipsnio 1 dalyje nurodytus asmenis, dydis apskaičiuojamas vadovaujantis šio įstatymo 41 straipsnio 2 ir 21  dalių nuostatomis.
 
 
 
@@ -2552,13 +2611,19 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-3) neterminuotai per visą darbo laikotarpį, kai įdarbinami asmenys, nurodyti šio įstatymo 25 straipsnio 1 punkte. 
+3) neterminuotai per visą darbo laikotarpį, kai įdarbinami asmenys, nurodyti šio įstatymo 25 straipsnio 1 punkte;
+
+
+
+
+4) iki 3 mėnesių – Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ar karantino metu šio įstatymo 41 straipsnio 21 dalyje nustatytu atveju.
 
 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
+Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
  
 
 
@@ -2664,7 +2729,10 @@ Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
 
 
 
-2) įdarbinto asmens darbo vietoje prastova ne dėl darbuotojo kaltės tęsiasi ilgiau kaip 30 kalendorinių dienų iš eilės arba įdarbintas asmuo neatvyksta į darbą ilgiau kaip 120 dienų iš eilės administracijos leidimu, taip pat jeigu jam darbo sutartyje nustatytomis sąlygomis ir terminais daugiau kaip du mėnesius iš eilės nemokamas visas jam priklausantis darbo užmokestis;
+2) įdarbinto asmens darbo vietoje prastova ne dėl darbuotojo kaltės tęsiasi ilgiau kaip 30 kalendorinių dienų iš eilės, išskyrus atvejus, kai prastova tęsiasi dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ar karantino, arba įdarbintas asmuo neatvyksta į darbą ilgiau kaip 120 dienų iš eilės administracijos leidimu, taip pat jeigu jam darbo sutartyje nustatytomis sąlygomis ir terminais daugiau kaip du mėnesius iš eilės nemokamas visas jam priklausantis darbo užmokestis;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
+ 
 
 
 
@@ -3657,3 +3725,8 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 22 ir 24 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 12, 20, 22, 24, 25, 35, 41, 42, 45, 47, 48 straipsnių pakeitimo ir Įstatymo papildymo 30-2 straipsniu įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 papildymo 5-1 straipsniu ir 24, 25, 35, 37, 41, 42, 44 straipsnių pakeitimo įstatymas
