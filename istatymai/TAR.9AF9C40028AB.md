@@ -13,6 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9af9c40028ab11eabe008ea93139d588"
 
 # Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
 
+Suvestinė redakcija nuo 2020-03-19 iki 2020-06-19
+ 
+Įstatymas paskelbtas: TAR 2019-12-27, i. k. 2019-21410
+ 
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 2020 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO
 ĮSTATYMAS
@@ -257,7 +265,10 @@ i) visoms kitoms savivaldybėms – 100 procentų;
 2020 metais valstybės garantijos gali būti teikiamos:
 
 
-1) už valstybės garantuojamų garantijų institucijų prisiimtus įsipareigojimus pagal garantijas. Bendra tokių įsipareigojimų, prisiimtų 2020 ir ankstesniais metais, suma vienu metu negali viršyti 267 770 tūkst. eurų. Į garantijų institucijų prisiimtų įsipareigojimų pagal garantijas limitą neįtraukiama garantijų institucijų įsipareigojimų pagal garantijas dalis, kuri yra pergarantuota finansų institucijų, turinčių aukščiausią kredito reitingą (AAA), suteiktą bent dviejų iš tarptautinių reitingų agentūrų Moody’s, Standard & Poor’s ir Fitch Ratings;
+1) už valstybės garantuojamų garantijų institucijų prisiimtus įsipareigojimus pagal garantijas. Bendra tokių įsipareigojimų, prisiimtų 2020 ir ankstesniais metais, suma vienu metu negali viršyti 768 000 tūkst. eurų. Į garantijų institucijų prisiimtų įsipareigojimų pagal garantijas limitą neįtraukiama garantijų institucijų įsipareigojimų pagal garantijas dalis, kuri yra pergarantuota finansų institucijų, turinčių aukščiausią kredito reitingą (AAA), suteiktą bent dviejų iš tarptautinių reitingų agentūrų Moody’s, Standard & Poor’s ir Fitch Ratings;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2819, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05700
+ 
 
 
 
@@ -267,7 +278,14 @@ i) visoms kitoms savivaldybėms – 100 procentų;
 
 
 
-3) dėl Mokslo ir studijų įstatyme nurodytų valstybės remiamų paskolų. Bendra tokių įsipareigojimų, prisiimtų 2020 ir ankstesniais metais, suma vienu metu negali viršyti 95 000 tūkst. eurų, iš jų per 2020 metus prisiimtų naujų įsipareigojimų suma negali viršyti 16 000 tūkst. eurų.
+3) dėl Mokslo ir studijų įstatyme nurodytų valstybės remiamų paskolų. Bendra tokių įsipareigojimų, prisiimtų 2020 ir ankstesniais metais, suma vienu metu negali viršyti 95 000 tūkst. eurų, iš jų per 2020 metus prisiimtų naujų įsipareigojimų suma negali viršyti 16 000 tūkst. Eurų;
+
+
+
+
+4) dėl paskolų, naudojamų ekstremaliųjų situacijų paveiktos ekonomikos skatinimo tikslams įgyvendinti ir likvidumui didinti. Bendra tokių įsipareigojimų, prisiimtų 2020 metais, suma vienu metu negali viršyti 500 000  tūkst. eurų.
+Papildyta straipsnio punktu:
+Nr. XIII-2819, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05700
  
 
 
@@ -280,10 +298,12 @@ i) visoms kitoms savivaldybėms – 100 procentų;
 10 straipsnis. Vyriausybės grynojo skolinių įsipareigojimų pokyčio limitas
 
 
-2020 metų Vyriausybės grynojo skolinių įsipareigojimų pokyčio limitas yra (teigiamas) 904 602 tūkst. eurų, iš jų 1 099 368 tūkst. eurų skirta sukaupti lėšoms euroobligacijų emisijai 2021 metais išpirkti.
+2020 metų Vyriausybės grynojo skolinių įsipareigojimų pokyčio limitas yra (teigiamas) 5 401 437 tūkst. eurų, iš jų 1 099 368 tūkst. eurų skirta sukaupti lėšoms euroobligacijų emisijai 2021 metais išpirkti.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2819, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05700
  
-
-
 
 
 
@@ -4241,4 +4261,17 @@ rodiklių patvirtinimo įstatymo
 
  6. 
  NUMATOMAS LĖŠŲ LIKUTIS 2021 M. SAUSIO 1 D.  
- 95 511
+ 95 511 
+
+
+
+ 
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2819, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05700
+Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo Nr. XIII-2695 9 ir 10 straipsnių pakeitimo įstatymas
