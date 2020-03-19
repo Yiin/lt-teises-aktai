@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-03-18
+Suvestinė redakcija nuo 2020-03-19 iki 2020-04-02
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -1371,6 +1371,14 @@ Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
 
 
 
+111. Jei dėl nepaprastosios padėties, ekstremaliosios situacijos ar karantino savivaldybės tarybos posėdžiai negali vykti  šiame straipsnyje nustatyta tvarka, savivaldybės tarybos posėdžiai gali vykti nuotoliniu būdu (kai yra techninės galimybės, – realiuoju laiku) elektroninių ryšių priemonėmis (toliau – nuotolinis būdas). Nuotoliniu būdu vykstančiuose savivaldybės tarybos posėdžiuose priimami tik neatidėliotinai būtini sprendimai, susiję su nepaprastąja padėtimi, ekstremaliąja situacija ar karantinu. Nuotoliniu būdu vykstančiam posėdžiui turi būti parinktos tokios elektroninių ryšių priemonės, kurios užtikrintų, kad savivaldybės tarybos narys laiku gautų informaciją ir galėtų išreikšti savo poziciją. Nuotoliniu būdu vykstančiame posėdyje pagal galimybes sudaromos sąlygos savivaldybės tarybos nariams pasakyti savo poziciją ar replikas. Nuotoliniu būdu priimant savivaldybės tarybos sprendimus, turi būti užtikrintas savivaldybės tarybos nario tapatybės ir jo balsavimo rezultatų nustatymas. Jeigu yra techninės galimybės, nuotoliniu būdu vykstantis savivaldybės tarybos posėdis yra tiesiogiai transliuojamas internetu arba viešai paskelbiamas šio posėdžio vaizdo įrašas. Jeigu tokių galimybių nėra, savivaldybės meras nedelsdamas informuoja visuomenę apie nuotoliniu būdu vykusiame savivaldybės tarybos posėdyje priimtus sprendimus.
+Papildyta straipsnio dalimi:
+Nr. XIII-2818, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05699
+ 
+
+
+
+
 12. Kai posėdyje svarstomas su valstybės, tarnybos ar komercine paslaptimi susijęs klausimas, savivaldybės taryba gali nuspręsti jį nagrinėti uždarame posėdyje. 
 
 
@@ -1552,6 +1560,14 @@ Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
  
 
 
+
+
+10. Jei dėl nepaprastosios padėties, ekstremaliosios situacijos ar karantino komiteto posėdis negali vykti savivaldybės tarybos reglamente nustatyta tvarka, komiteto posėdis gali vykti nuotoliniu būdu. Nuotoliniu būdu vykstančiuose posėdžiuose priimami tik neatidėliotinai būtini sprendimai, susiję su nepaprastąja padėtimi, ekstremaliąja situacija ar karantinu. Nuotoliniu būdu vykstančiam posėdžiui turi būti parinktos tokios elektroninių ryšių priemonės, kurios užtikrintų, kad komiteto narys laiku gautų informaciją ir galėtų išreikšti savo poziciją. Nuotoliniu būdu vykstančiame posėdyje pagal galimybes sudaromos sąlygos komiteto nariams pasakyti savo poziciją arba replikas. Nuotoliniu būdu priimant komiteto sprendimus, turi būti užtikrintas komiteto nario tapatybės ir jo balsavimo rezultatų nustatymas.
+Papildyta straipsnio dalimi:
+Nr. XIII-2818, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05699
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-1327, 2011-04-19, Žin., 2011, Nr. 52-2504 (2011-05-03)
 Nr. XI-1567, 2011-06-30, Žin., 2011, Nr. 91-4334 (2011-07-19)
@@ -1682,6 +1698,14 @@ Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
 7. Etikos komisija, veikdama pagal šio straipsnio 3 dalies 2 ir 6 punktus, rengia posėdžius ne rečiau kaip kartą per mėnesį.
 Papildyta straipsnio dalimi:
 Nr. XII-2182, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20884
+ 
+
+
+
+
+8. Jei dėl nepaprastosios padėties, ekstremaliosios situacijos ar karantino komisijos posėdis negali vykti įprasta tvarka, posėdis gali vykti nuotoliniu būdu. Nuotoliniu būdu vykstančiuose posėdžiuose priimami tik neatidėliotinai būtini sprendimai, susiję su nepaprastąja padėtimi, ekstremaliąja situacija ar karantinu. Nuotoliniu būdu vykstančiam posėdžiui turi būti parinktos tokios elektroninių ryšių priemonės, kurios užtikrintų, kad komisijos narys laiku gautų informaciją ir galėtų išreikšti savo poziciją. Nuotoliniu būdu vykstančiame posėdyje pagal galimybes sudaromos sąlygos komisijos nariams pasakyti savo poziciją arba replikas. Nuotoliniu būdu priimant komisijos sprendimus, turi būti užtikrintas komisijos nario tapatybės ir jo balsavimo rezultatų nustatymas.
+Papildyta straipsnio dalimi:
+Nr. XIII-2818, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05699
  
 
 
@@ -5461,3 +5485,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 39, 40 ir 41 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2659, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20994
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 31 straipsnio pakeitimo įstatymas
+ 
+44.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2818, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05699
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 14 ir 15 straipsnių pakeitimo įstatymas
