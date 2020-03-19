@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-03-18
+Suvestinė redakcija nuo 2020-03-19 iki 2020-06-29
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -3166,7 +3166,10 @@ Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 
 
-8. Šio straipsnio nuostatos netaikomos gyventojų pajamų mokestį išskaičiuojančiam asmeniui, išskyrus atvejus, kai prašoma atidėti mokesčio apskaičiavimo ir sumokėjimo patikrinimo metu papildomai apskaičiuoto gyventojų pajamų mokesčio bei su juo susijusių sumų sumokėjimo terminą.
+8. Neteko galios nuo 2020-03-19.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2812, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05693
+ 
 
 
 
@@ -6661,3 +6664,8 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 33 ir 36 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2353, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12443
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 38, 68, 87, 100, 132, 139, 140 straipsnių pakeitimo ir Įstatymo papildymo 40-1 straipsniu įstatymo Nr. XIII-1329 4 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2812, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05693
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 88 straipsnio pakeitimo įstatymas
