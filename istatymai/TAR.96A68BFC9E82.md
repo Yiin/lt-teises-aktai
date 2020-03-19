@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-08-01 iki 2020-03-18
+Suvestinė redakcija nuo 2020-03-19 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
  
@@ -1726,6 +1726,14 @@ Vyriausybės darbo tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
 5. Vyriausybė Lietuvos Respublikos pozicijas dėl pasiūlymų priimti Europos Sąjungos teisės aktus ir dėl kitų Europos Sąjungos dokumentų prireikus svarsto Vyriausybės pasitarimuose.
 
 
+
+
+6. Karo, nepaprastosios padėties, mobilizacijos, karantino, ekstremaliosios situacijos ar ekstremaliojo įvykio metu ar kai būtina neatidėliotinai spręsti klausimus, būtinus valstybės karinės gynybos ir kitoms gyvybiškai svarbioms valstybės funkcijoms užtikrinti, ir jeigu šiais atvejais teisės akto projekto nepriėmimas nedelsiant lemtų neigiamų pasekmių valstybės ir visuomenės saugumui ir stabilumui atsiradimą, taip pat kai reikia skelbti gedulą, Vyriausybės posėdžiai ir pasitarimai gali vykti nuotoliniu būdu realiuoju laiku elektroninių ryšių priemonėmis (toliau – nuotolinis būdas). Šiuo būdu priimant Vyriausybės nutarimus, sprendimus ir rezoliucijas, turi būti užtikrintas Vyriausybės nario tapatybės ir jo balsavimo rezultatų nustatymas.
+Papildyta straipsnio dalimi:
+Nr. XIII-2817, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05698
+ 
+
+
 Straipsnio pakeitimai:
 Nr. VIII-1980, 2000 10 10, Žin., 2000, Nr. 92-2843 (2000 10 31)
 Nr. IX-842, 2002-04-16, Žin., 2002, Nr. 41-1527 (2002-04-19)
@@ -1745,9 +1753,10 @@ Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
 
 
 
-2. Vyriausybei teikiamas teisės akto projektas, susijęs ne tik su jį parengusios (teikiančios) institucijos kompetencija, bet ir su kitų institucijų kompetencija, turi būti su jomis derintas Vyriausybės darbo reglamento nustatyta tvarka, išskyrus atvejus, kai teisės akto projektas teikiamas Vyriausybei karo, nepaprastosios padėties, mobilizacijos, ekstremaliosios situacijos ar ekstremaliojo įvykio metu ar kai teisės akto projektu būtina neatidėliotinai spręsti klausimus, būtinus valstybės karinės gynybos ir kitoms gyvybiškai svarbioms valstybės funkcijoms užtikrinti, ir jeigu minėtais atvejais teisės akto projekto nepriėmimas nedelsiant lemtų neigiamų pasekmių valstybės ir visuomenės saugumui ir stabilumui atsiradimą, taip pat kai teisės akto projektu siūloma skelbti gedulą. Vyriausybei teikiamų nutarimų projektų pagal Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymą derinimo su kitomis institucijomis tvarką nustato Vyriausybė.
+2. Vyriausybei teikiamas teisės akto projektas, susijęs ne tik su jį parengusios (teikiančios) institucijos kompetencija, bet ir su kitų institucijų kompetencija, turi būti su jomis derintas Vyriausybės darbo reglamento nustatyta tvarka, išskyrus atvejus, kai teisės akto projektas teikiamas Vyriausybei karo, nepaprastosios padėties, mobilizacijos, karantino, ekstremaliosios situacijos ar ekstremaliojo įvykio metu ar kai teisės akto projektu būtina neatidėliotinai spręsti klausimus, būtinus valstybės karinės gynybos ir kitoms gyvybiškai svarbioms valstybės funkcijoms užtikrinti, ir jeigu šiais atvejais teisės akto projekto nepriėmimas nedelsiant lemtų neigiamų pasekmių valstybės ir visuomenės saugumui ir stabilumui atsiradimą, taip pat kai teisės akto projektu siūloma skelbti gedulą. Vyriausybei teikiamų nutarimų projektų pagal Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymą derinimo su kitomis institucijomis tvarką nustato Vyriausybė.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
+Nr. XIII-2817, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05698
  
 
 
@@ -1900,6 +1909,14 @@ Nr. X-500, 2006-01-19, Žin., 2006, Nr. 17-596 (2006-02-11)
 2. Vyriausybės posėdžiai ir pasitarimai yra protokoluojami ir daromas jų garso įrašas. Svarstant valstybės, tarnybos, komercinę paslaptį sudarančią, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusią informaciją ir (ar) teisės aktų, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusios informacijos, projektus, garso įrašai nedaromi. Vyriausybės posėdžio ir pasitarimo protokolus pasirašo Ministras Pirmininkas. Kokie duomenys įrašomi į protokolą, nustato Vyriausybės darbo reglamentas. Vyriausybės posėdžių ir pasitarimų garso įrašai ir protokolai yra vieši ir saugomi Reglamento (ES) 2016/679 ir Dokumentų ir archyvų įstatymo nustatyta tvarka. 
 Straipsnio pakeitimai:
 Nr. X-1182, 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
+
+
+
+
+3. Kai šio įstatymo 37 straipsnio 6 dalyje nustatytais atvejais Vyriausybės posėdžiai ir pasitarimai vyksta nuotoliniu būdu, šio straipsnio 1 dalies nuostatos gali būti netaikomos, jeigu tam nėra techninių galimybių. Jeigu Vyriausybės posėdis dėl techninių galimybių nebuvo transliuojamas internetu ir svarstytiems klausimams netaikomi šio straipsnio 1 dalyje nustatyti apribojimai dėl viešinimo, kai yra techninės galimybės, viešinamas šio posėdžio vaizdo įrašas. Vyriausybės pasitarimo, vykusio nuotoliniu būdu, vaizdo įrašas gali būti viešinamas atsižvelgiant į technines galimybes ir svarstomų klausimų pobūdį. Jeigu nuotoliniu būdu vykęs Vyriausybės posėdis arba pasitarimas nebuvo transliuojamas internetu ir neviešinamas jo vaizdo įrašas, Vyriausybė turi nedelsdama informuoti visuomenę apie šio posėdžio metu priimtus sprendimus.
+Papildyta straipsnio dalimi:
+Nr. XIII-2817, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05698
+ 
 
 
 Straipsnio pakeitimai:
@@ -2511,3 +2528,8 @@ Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 22 ir 35 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2366, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12445
 Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 papildymo 30-2 straipsniu įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2817, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05698
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 37, 38 ir 42 straipsnių pakeitimo įstatymas
