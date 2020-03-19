@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2019-12-31 iki 2020-03-18
+Suvestinė redakcija nuo 2020-03-19 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
  
@@ -2991,9 +2991,11 @@ Nr. XIII-1330, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10973
 
 
 
-5. Perkančioji organizacija šio straipsnio 1, 3 ir 4 dalyse nustatytais pagrindais gali nepašalinti tiekėjo iš pirkimo procedūros tik išimtiniais atvejais, kai būtina užtikrinti viešojo intereso apsaugą, įskaitant visuomenės sveikatos ir aplinkos apsaugą. 
+5. Perkančioji organizacija gali netaikyti šio straipsnio 1, 3 ir 4 dalyse nustatytų tiekėjo pašalinimo iš pirkimo procedūros pagrindų tik išimtiniais atvejais, kai būtina užtikrinti viešojo intereso apsaugą, įskaitant visuomenės sveikatos ir aplinkos apsaugą.
+TAR pastaba. Iki įstatymo Nr. XIII-2814 įsigaliojimo (2020-03-19) pradėtoms pirkimų procedūroms taikomos įstatymo Nr. XIII-2814 nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+Nr. XIII-2814, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05694
  
 
 
@@ -4720,9 +4722,11 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 
-3. Supaprastinto pirkimo ir šio įstatymo 2 priede nurodytų socialinių ir kitų specialiųjų paslaugų tarptautinio pirkimo atvejais perkančioji organizacija, vykdydama neskelbiamas derybas šio įstatymo 71 straipsnio 1 dalies 2 ir 3 punktuose, 3 dalies 2, 3 ir 4 punktuose, 5 ir 6 dalyse nustatytomis sąlygomis, gali pirkimo sutartį sudaryti nesilaikydama šio straipsnio 2 dalyje nurodytiems etapams taikomų ir kitų pirkimo procedūroms bei pirkimo sutarties turiniui nustatytų reikalavimų. 
+3. Supaprastinto pirkimo ir šio įstatymo 2 priede nurodytų socialinių ir kitų specialiųjų paslaugų tarptautinio pirkimo atvejais perkančioji organizacija, vykdydama neskelbiamas derybas šio įstatymo 71 straipsnio 1 dalies 2 ir 3 punktuose, 3 dalies 2, 3 ir 4 punktuose, 5 ir 6 dalyse nustatytomis sąlygomis, gali pirkimo sutartį sudaryti nesilaikydama šio straipsnio 2 dalyje nurodytiems etapams taikomų ir kitų pirkimo procedūroms bei pirkimo sutarties turiniui nustatytų reikalavimų. Šių reikalavimų perkančioji organizacija taip pat gali nesilaikyti tarptautinio pirkimo atveju, vykdydama neskelbiamas derybas šio įstatymo 71 straipsnio 1 dalies 3 punkte nustatytomis sąlygomis.
+TAR pastaba. Iki įstatymo Nr. XIII-2814 įsigaliojimo (2020-03-19) pradėtoms pirkimų procedūroms taikomos įstatymo Nr. XIII-2814 nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
+Nr. XIII-2814, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05694
  
 
 
@@ -8229,3 +8233,8 @@ Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2765, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21571
 Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 10 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2814, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05694
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 46 ir 72 straipsnių pakeitimo įstatymas
