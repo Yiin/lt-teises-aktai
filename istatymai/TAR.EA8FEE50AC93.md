@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/ea8fee50ac9311e6b844f0f29024f5ac"
 
 # Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2020-03-18
+Suvestinė redakcija nuo 2020-03-19 iki 2022-07-21
  
 Įstatymas paskelbtas: TAR 2016-11-17, i. k. 2016-26968
  
@@ -28,6 +28,9 @@ SU NEKILNOJAMUOJU TURTU SUSIJUSIO KREDITO
 Vilnius
  
  
+
+ 
+
  
  
 
@@ -1350,7 +1353,11 @@ Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
 
 
 
-3) kredito gavėjas ar jo sutuoktinis tampa bedarbiu;
+3) kredito gavėjas ar jo sutuoktinis tampa bedarbiu arba netenka ne mažiau kaip trečdalio pajamų;
+TAR pastaba. 22 straipsnio 1 dalies 3 punkto nuostatos taikomos ir iki įstatymo Nr. XIII-2815 įsigaliojimo dienos (2020-03-19) sudarytoms kredito sutartims.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2815, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05695
+ 
 
 
 
@@ -3094,19 +3101,19 @@ Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
 
 
 
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
- 
- 
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
  
 
+ 
 
-
-
+ 
+ 
+part_15c823146e0c4217a0ce061b6353a718_end
+part_1144b53ea353421dbd31ed031df1c895_end
 
 
 Lietuvos Respublikos 
@@ -3150,3 +3157,8 @@ Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1855, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00217
 Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 12, 16 ir 58 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2815, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05695
+Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymo Nr. XII-2769 22 straipsnio pakeitimo įstatymas
