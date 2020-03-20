@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-03-19
+Suvestinė redakcija nuo 2020-03-20 iki 2020-04-07
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
  
@@ -1565,24 +1565,29 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. 1071010ISTA
 
 
 AŠTUNTASIS SKIRSNIS
-YPAČ PAVOJINGŲ UŽKREČIAMŲJŲ LIGŲ ŽIDINIUOSE DIRBANČIŲ SVEIKATOS PRIEŽIŪROS DARBUOTOJŲ SOCIALINĖS GARANTIJOS
+YPAČ PAVOJINGŲ UŽKREČIAMŲJŲ LIGŲ ŽIDINIUOSE DIRBANČIŲ DARBUOTOJŲ SOCIALINĖS GARANTIJOS
  
 
 
-32 straipsnis. Sveikatos priežiūros įstaigų darbuotojų, teikiančių sveikatos priežiūros paslaugas pacientams, sergantiems ypač pavojingomis užkrečiamosiomis ligomis, ar vykdančių epidemijų profilaktikos priemones ypač pavojingų ligų židiniuose, draudimas
+32 straipsnis. Darbuotojų, teikiančių sveikatos priežiūros paslaugas pacientams, sergantiems ypač pavojingomis užkrečiamosiomis ligomis, ar vykdančių arba dalyvaujančių vykdant epidemijų profilaktikos priemones ypač pavojingų užkrečiamųjų ligų židiniuose, draudimas
 
 
-1. Sveikatos priežiūros įstaigų darbuotojai tam laikui, kai teikia sveikatos priežiūros paslaugas ypač pavojingomis užkrečiamosiomis ligomis sergantiems pacientams ar vykdo epidemijų profilaktikos priemones ypač pavojingų užkrečiamųjų ligų židiniuose, yra draudžiami darbingumo netekimo atvejams valstybės biudžeto lėšomis suma, lygia jų paskutinių 3 mėnesių darbo užmokesčio vidurkiui, padaugintam iš 12, bet ne didesne kaip 48 Vyriausybės nustatytos minimalios mėnesinės algos.
-
-
-
-
-2. Pripažinimo draudiminiais įvykiais atvejus, draudimo išmokų dydžius, atsižvelgiant į sveikatos ir darbingumo netekimo laipsnį, ir išmokėjimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+1. Darbuotojai tam laikui, kai teikia sveikatos priežiūros paslaugas ypač pavojingomis užkrečiamosiomis ligomis sergantiems pacientams ar vykdo arba dalyvauja vykdant epidemijų profilaktikos priemones ypač pavojingų užkrečiamųjų ligų židiniuose, yra draudžiami darbingumo netekimo atvejams valstybės biudžeto lėšomis suma, lygia jų paskutinių 3 mėnesių darbo užmokesčio vidurkiui, padaugintam iš 12, bet ne didesne kaip 48 Vyriausybės nustatytos minimalios mėnesinės algos.
 
 
 
 
-3. Šis draudimas mokamas tik tais atvejais, kai sveikatos priežiūros įstaigų darbuotojų sveikatos ar jos dalies praradimas yra tiesiogiai susijęs su apsikrėtimu ypač pavojinga užkrečiamąja liga nuo paciento arba aplinkos ypač pavojingos užkrečiamosios ligos židinyje.
+2. Pripažinimo draudžiamaisiais įvykiais atvejus, draudimo išmokų dydžius, atsižvelgiant į sveikatos ir darbingumo netekimo laipsnį, ir išmokėjimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+
+
+
+
+3. Šis draudimas mokamas tik tais atvejais, kai darbuotojų sveikatos ar jos dalies praradimas yra tiesiogiai susijęs su apsikrėtimu ypač pavojinga užkrečiamąja liga nuo paciento arba aplinkos ypač pavojingos užkrečiamosios ligos židinyje.
+
+
+
+
+4. Šio straipsnio nuostatos netaikomos darbuotojams, kurių draudimą darbingumo netekimo atvejais reglamentuoja specialieji tokių darbuotojų statusą nustatantys įstatymai.
  
 
 
@@ -1590,15 +1595,15 @@ YPAČ PAVOJINGŲ UŽKREČIAMŲJŲ LIGŲ ŽIDINIUOSE DIRBANČIŲ SVEIKATOS PRIEŽ
 
 
 
-33 straipsnis. Kompensacijos sveikatos priežiūros įstaigų darbuotojams mirus ar netekus sveikatos teikiant medicinos pagalbą ligoniams, sergantiems ypač pavojingomis užkrečiamosiomis ligomis, ar dirbant ypač pavojingų užkrečiamųjų ligų židiniuose
+33 straipsnis. Kompensacijos darbuotojams mirus ar netekus sveikatos teikiant medicinos pagalbą ligoniams, sergantiems ypač pavojingomis užkrečiamosiomis ligomis, ar dirbant ypač pavojingų užkrečiamųjų ligų židiniuose
 
 
-1. Sveikatos priežiūros įstaigos darbuotojui mirus nuo ypač pavojingos užkrečiamosios ligos, kai apsikrėtimas susijęs su sveikatos priežiūros paslaugų teikimu ypač pavojinga užkrečiamąją liga sergančiam pacientui ar darbu ypač pavojingos užkrečiamosios ligos židinyje, mirusiojo sutuoktiniui, nepilnamečiams vaikams ir įvaikiams, kol jiems sukaks 16 metų, taip pat vaikams (įvaikiams), besimokantiems nustatyta tvarka įregistruotų mokymo įstaigų dieniniuose skyriuose, kol jiems sukaks 24 metai, mirusiojo vaikams, gimusiems po jo mirties, tėvui (motinai) bei nedarbingiems asmenims, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, mokama Vyriausybės ar jos įgaliotos institucijos nustatyto dydžio kompensacija. Mirusysis laidojamas valstybės lėšomis.
+1. Darbuotojui mirus nuo ypač pavojingos užkrečiamosios ligos, kai apsikrėtimas susijęs su sveikatos priežiūros paslaugų teikimu ypač pavojinga užkrečiamąją liga sergančiam pacientui ar darbu ypač pavojingos užkrečiamosios ligos židinyje, mirusiojo sutuoktiniui, nepilnamečiams vaikams ir įvaikiams, kol jiems sukaks 16 metų, taip pat vaikams (įvaikiams), besimokantiems nustatyta tvarka įregistruotų mokymo įstaigų dieniniuose skyriuose, kol jiems sukaks 24 metai, mirusiojo vaikams, gimusiems po jo mirties, tėvui (motinai) bei nedarbingiems asmenims, kurie buvo mirusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, mokama Vyriausybės ar jos įgaliotos institucijos nustatyto dydžio kompensacija. Mirusysis laidojamas valstybės lėšomis.
 
 
 
 
-2. Sveikatos priežiūros įstaigos darbuotojui dėl apsikrėtimo ypač pavojinga užkrečiamąja liga nuo paciento ar dirbant židinyje netekus dalies sveikatos ir darbingumo, neatsižvelgiant į draudimo išmokas, išmokama nuo 1 iki 5 metų (nuo 12 iki 60 mėnesių) darbo užmokesčio dydžio kompensacija. Kompensacijos dydžius, atsižvelgiant į sveikatos ir darbingumo netekimo laipsnį, ir kompensacijų mokėjimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+2. Darbuotojui dėl apsikrėtimo ypač pavojinga užkrečiamąja liga nuo paciento ar dirbant ypač pavojingos užkrečiamosios ligos židinyje netekus dalies sveikatos ir darbingumo, neatsižvelgiant į draudimo išmokas, išmokama nuo 1 iki 5 metų (nuo 12 iki 60 mėnesių) darbo užmokesčio dydžio kompensacija. Kompensacijos dydžius, atsižvelgiant į sveikatos ir darbingumo netekimo laipsnį, ir kompensacijų mokėjimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 
 
@@ -1608,12 +1613,19 @@ YPAČ PAVOJINGŲ UŽKREČIAMŲJŲ LIGŲ ŽIDINIUOSE DIRBANČIŲ SVEIKATOS PRIEŽ
 
 
 
-4. Ar sveikatos priežiūros įstaigos tarnautojo (pareigūno) mirtis arba sveikatos ir darbingumo netekimas susiję su jo darbu teikiant sveikatos priežiūros paslaugas ypač pavojinga užkrečiamąja liga sergančiam pacientui ar darbu ypač pavojingos užkrečiamosios ligos židinyje, nustatoma sveikatos apsaugos ministro patvirtinta tvarka.
+4. Ar darbuotojo mirtis arba sveikatos ir darbingumo netekimas susiję su jo darbu teikiant sveikatos priežiūros paslaugas ypač pavojinga užkrečiamąja liga sergančiam pacientui ar darbu ypač pavojingos užkrečiamosios ligos židinyje, nustatoma sveikatos apsaugos ministro nustatyta tvarka.
+
+
+
+
+5. Šio straipsnio nuostatos netaikomos darbuotojams, kurių kompensacijas darbuotojams mirus ar netekus sveikatos reglamentuoja specialieji tokių darbuotojų statusą nustatantys įstatymai.
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIII-2811, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05692
  
-
-
-
-
 
 
 
@@ -1934,3 +1946,8 @@ Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2195, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09854
 Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 2 ir 14 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2811, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05692
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 aštuntojo skirsnio pakeitimo įstatymas
