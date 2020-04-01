@@ -20,9 +20,14 @@ LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-07-01 iki 2020-03-31
+Suvestinė redakcija nuo 2020-04-01 iki 2020-06-29
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
+ 
+TAR pastaba. Teisinio reguliavimo stebėsena, pradėta iki įstatymo Nr, XIII-2134 įsigaliojimo (2020-04-01), baigiama pagal iki šio įstatymo įsigaliojimo galiojusias teisinio reguliavimo stebėsenos atlikimo taisykles.  Po šio įstatymo įsigaliojimo kituose teisės aktuose esančios nuorodos į teisinio reguliavimo stebėseną laikomos nuorodomis į galiojančio teisinio reguliavimo poveikio ex post vertinimą.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 2, 3, 5, 6, 7, 8, 10 straipsnių ir ketvirtojo skirsnio pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS 
 TEISĖKŪROS PAGRINDŲ  Į S T A T Y M A S
@@ -71,47 +76,83 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Įstaiga – iš valstybės ar savivaldybės biudžeto arba valstybės pinigų fondo išlaikoma įstaiga, turinti teisės aktuose nustatytus įgaliojimus rengti teisės aktų projektus, taip pat Lietuvos bankas.
+1. Galiojančio teisinio reguliavimo poveikio ex post vertinimas – teisinio reguliavimo taikymo ir veikimo vertinimas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+ 
 
 
 
 
-2. Konsultavimasis su visuomene – teisėkūros iniciatyvas pareiškiančių, teisės aktų projektus rengiančių, teisės aktus priimančių ir (ar) teisinio reguliavimo stebėseną atliekančių subjektų veiksmai, apimantys teisėkūros iniciatyvų, teisės aktų projektų pateikimą visuomenei susipažinti, informavimą apie atliekamą teisinio reguliavimo stebėseną, taip pat gautų asmenų pasiūlymų įvertinimą ir šio įvertinimo rezultatų paskelbimą. Apie konsultavimosi pradžią visuomenei yra paskelbiama.
+2. Įstaiga – iš valstybės ar savivaldybės biudžeto arba valstybės pinigų fondo išlaikoma įstaiga, turinti teisės aktuose nustatytus įgaliojimus rengti teisės aktų projektus, taip pat Lietuvos bankas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+ 
 
 
 
 
-3. Numatomo teisinio reguliavimo poveikio vertinimas – numatomo teisinio reguliavimo teigiamų ir neigiamų pasekmių nustatymas.
+3. Konsultavimasis su visuomene – teisėkūros iniciatyvas pareiškiančių, teisės aktų projektus rengiančių, teisės aktus priimančių ir (ar) galiojančio teisinio reguliavimo poveikio ex post vertinimą atliekančių subjektų veiksmai, apimantys teisėkūros iniciatyvų, teisės aktų projektų pateikimą visuomenei susipažinti, informavimą apie galiojančio teisinio reguliavimo poveikio ex post vertinimą, taip pat gautų asmenų pasiūlymų vertinimą ir šio vertinimo rezultatų paskelbimą. Apie konsultavimosi pradžią visuomenei yra paskelbiama. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+ 
 
 
 
 
-4. Suvestinė teisės akto redakcija – tam tikru metu galiojusio, galiojančio ar priimto, atitinkamo subjekto pasirašyto ir paskelbto, bet dar neįsigaliojusio teisės akto tekstas, parengtas remiantis oficialiu pirminio teisės akto tekstu ir tą teisės aktą keičiančių ar papildančių teisės aktų oficialiais tekstais ir apimantis visus tame teisės akte įtvirtinto teisinio reguliavimo pakeitimus.
+4. Numatomo teisinio reguliavimo poveikio vertinimas – numatomo teisinio reguliavimo teigiamų ir neigiamų pasekmių nustatymas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+ 
 
 
 
 
-5. Teisėkūra – procesas, apimantis teisėkūros iniciatyvų pareiškimą, teisės aktų projektų rengimą, teisės aktų priėmimą, pasirašymą ir skelbimą.
+5. Suvestinė teisės akto redakcija – tam tikru metu galiojusio, galiojančio ar priimto, atitinkamo subjekto pasirašyto ir paskelbto, bet dar neįsigaliojusio teisės akto tekstas, parengtas remiantis oficialiu pirminio teisės akto tekstu ir tą teisės aktą keičiančių ar papildančių teisės aktų oficialiais tekstais ir apimantis visus tame teisės akte įtvirtinto teisinio reguliavimo pakeitimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+ 
 
 
 
 
-6. Teisėkūros iniciatyva – pasiūlymas nustatyti naują ar keisti esamą teisinį reguliavimą nurodant šio teisinio reguliavimo nustatymo ar keitimo tikslus ir pagrindines teisinio reguliavimo nuostatas.
+6. Teisėkūra – procesas, apimantis teisėkūros iniciatyvų pareiškimą, teisės aktų projektų rengimą, teisės aktų priėmimą, pasirašymą ir skelbimą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+ 
 
 
 
 
-7. Teisės akto projekto lydimieji dokumentai – šiame įstatyme ar kituose teisės aktuose numatyti privalomi parengti ir kartu su teisės akto projektu teisės aktą priimančiam subjektui privalomi pateikti dokumentai, taip pat kiti su teisės akto projektu susiję dokumentai.
+7. Teisėkūros iniciatyva – pasiūlymas nustatyti naują ar keisti esamą teisinį reguliavimą nurodant šio teisinio reguliavimo nustatymo ar keitimo tikslus ir pagrindines teisinio reguliavimo nuostatas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+ 
 
 
 
 
-8. Teisės aktų registras – pagrindinis valstybės registras, kuriame registruojami šiame įstatyme nurodyti registro objektai, teisės aktų nustatyta tvarka renkami, kaupiami, apdorojami, sisteminami, saugomi ir teikiami registro duomenys, atliekami kiti teisės aktuose nustatyti registro duomenų tvarkymo veiksmai.
+8. Teisės akto projekto lydimieji dokumentai – šiame įstatyme ar kituose teisės aktuose numatyti privalomi parengti ir kartu su teisės akto projektu teisės aktą priimančiam subjektui privalomi pateikti dokumentai, taip pat kiti su teisės akto projektu susiję dokumentai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+ 
 
 
 
 
-9. Teisinio reguliavimo stebėsena – priemonių sistema, apimanti teisinio reguliavimo reikalingumo, pakankamumo ir efektyvumo, faktinių teisinio reguliavimo pasekmių ir jų atitikties nustatant teisinį reguliavimą planuotiems tikslams ir pasekmėms, teisinio reguliavimo poveikio visuomeniniams santykiams ir jo efektyvumo, taip pat reikalingumo keisti teisinį reguliavimą vertinimą.
+9. Teisės aktų registras – pagrindinis valstybės registras, kuriame registruojami šiame įstatyme nurodyti registro objektai, teisės aktų nustatyta tvarka renkami, kaupiami, apdorojami, sisteminami, saugomi ir teikiami registro duomenys, atliekami kiti teisės aktuose nustatyti registro duomenų tvarkymo veiksmai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+ 
+
+
+
+
+10. Neteko galios 2020-04-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
  
 
 
@@ -145,7 +186,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4) atvirumo ir skaidrumo, reiškiančiu, kad teisėkūra turi būti vieša, su bendraisiais interesais susiję teisėkūros sprendimai negali būti priimami visuomenei nežinant ir neturint galimybių dalyvauti, valstybės politikos tikslai, teisinio reguliavimo poreikis ir teisėkūroje dalyvaujantys subjektai turi būti žinomi, visuomenei ir interesų grupėms sudarytos sąlygos teikti pasiūlymus dėl teisinio reguliavimo visose teisėkūros stadijose, taip pat turi būti žinomi teisės aktų projektų rengimą inicijavę, teisės aktų projektus parengę, numatomo teisinio reguliavimo poveikio vertinimą atlikę subjektai ir teisinio reguliavimo stebėseną atliekantys subjektai;
+4) atvirumo ir skaidrumo, reiškiančiu, kad teisėkūra turi būti vieša, su bendraisiais interesais susiję teisėkūros sprendimai negali būti priimami visuomenei nežinant ir neturint galimybių dalyvauti, valstybės politikos tikslai, teisinio reguliavimo poreikis ir teisėkūroje dalyvaujantys subjektai turi būti žinomi, visuomenei ir interesų grupėms sudarytos sąlygos teikti pasiūlymus dėl teisinio reguliavimo visose teisėkūros stadijose, taip pat turi būti žinomi teisės aktų projektų rengimą inicijavę, teisės aktų projektus parengę, numatomo teisinio reguliavimo poveikio vertinimą atlikę subjektai ir galiojančio teisinio reguliavimo poveikio ex post vertinimą atliekantys subjektai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+ 
 
 
 
@@ -237,7 +281,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-5) informacija, susijusi su teisinio reguliavimo stebėsena;
+5) informacija, susijusi su galiojančio teisinio reguliavimo poveikio ex post vertinimu, ir šio vertinimo ataskaita; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+ 
 
 
 
@@ -259,7 +306,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4. Teisės aktų informacinėje sistemoje sudaroma galimybė visiems asmenims paskelbti pasiūlymus dėl šioje sistemoje paskelbtų teisėkūros iniciatyvų ir teisės aktų projektų, taip pat dėl teisinio reguliavimo, kurio stebėsena atliekama.
+4. Teisės aktų informacinėje sistemoje sudaroma galimybė visiems asmenims paskelbti pasiūlymus dėl šioje sistemoje paskelbtų teisėkūros iniciatyvų ir teisės aktų projektų, taip pat dėl galiojančio teisinio reguliavimo, kurio poveikio ex post vertinimas atliekamas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+ 
 
 
 
@@ -441,6 +491,14 @@ Nr. XII-1411, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20435
 
 
 
+9) informacija apie teisės akte nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimą. 
+Papildyta straipsnio punktu:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+ 
+
+
+
+
 
 
 4. Teisės aktų registro duomenys prieinami neatlygintinai. Tais atvejais, kai Teisės aktų registro duomenys teikiami Lietuvos Respublikos įstatymuose, kituose teisės aktuose nustatyta tvarka asmenims, turintiems teisę juos gauti ir turintiems tikslą teikti paslaugas tretiesiems asmenims, arba kai asmenys pageidauja gauti duomenis, kuriems parengti ir pateikti reikalingos papildomos sąnaudos, Teisės aktų registro tvarkytojas nustato atlyginimo už šias paslaugas dydį, atsižvelgdamas į teikiamų duomenų kiekį ir naudojamus informacinių technologijų sprendimus. Atlyginimo už teikiamas paslaugas dydis viešai skelbiamas Teisės aktų registro tvarkytojo interneto svetainėje.
@@ -471,10 +529,10 @@ Nr. XII-1411, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20435
 
 
 
-7 straipsnis. Konsultavimasis su visuomene
+7 straipsnis. Konsultavimasis su visuomene
 
 
-1. Konsultavimosi su visuomene tikslas – užtikrinti teisėkūros atvirumą, skaidrumą, sužinoti visuomenės nuomonę apie teisinio reguliavimo problemas ir jų sprendimo būdus, sudaryti visuomenei galimybę daryti įtaką teisės akto projekto turiniui, geriau įvertinti numatomo teisinio reguliavimo teigiamas ir neigiamas pasekmes, jo įgyvendinimo sąnaudas, teikti pasiūlymus dėl Teisės aktų informacinėje sistemoje paskelbtų teisėkūros iniciatyvų ir teisės aktų projektų, taip pat dėl teisinio reguliavimo, kurio stebėsena atliekama.
+1. Konsultavimosi su visuomene tikslas – užtikrinti teisėkūros atvirumą, skaidrumą, sužinoti visuomenės nuomonę apie teisinio reguliavimo problemas ir jų sprendimo būdus, sudaryti visuomenei galimybę daryti įtaką teisės akto projekto turiniui, geriau įvertinti numatomo ir galiojančio teisinio reguliavimo teigiamas ir neigiamas pasekmes, jo įgyvendinimo sąnaudas, teikti pasiūlymus dėl Teisės aktų informacinėje sistemoje paskelbtų teisėkūros iniciatyvų ir teisės aktų projektų, taip pat dėl galiojančio teisinio reguliavimo, kurio poveikio ex post vertinimas atliekamas.
 
 
 
@@ -484,10 +542,12 @@ Nr. XII-1411, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20435
 
 
 
-3. Konsultavimosi su visuomene būdus ir rezultatų įforminimo būdus pasirenka konsultavimąsi su visuomene inicijuojantys subjektai. Informacija apie konsultavimosi su visuomene rezultatus turi būti teikiama teisės aktą priimančiam subjektui.
+3. Konsultavimosi su visuomene būdus ir rezultatų įforminimo būdus pasirenka konsultavimąsi su visuomene inicijuojantys subjektai. Informacija apie konsultavimosi su visuomene rezultatus turi būti teikiama teisės aktą priimančiam subjektui ir skelbiama viešai Teisės aktų informacinėje sistemoje. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
  
-
-
 
 
 
@@ -1062,44 +1122,34 @@ Nr. XII-415, 2013-06-27, Žin., 2013, Nr. 76-3832 (2013-07-16), i. k. 1131010IST
 
 
 KETVIRTASIS SKIRSNIS
-TEISINIO REGULIAVIMO STEBĖSENA
+GALIOJANČIO TEISINIO REGULIAVIMO POVEIKIO EX POST VERTINIMAS
  
 
 
-23 straipsnis. Teisinio reguliavimo stebėsenos objektas
+23 straipsnis. Galiojančio teisinio reguliavimo poveikio ex post vertinimo objektas
 
 
-1. Atliekant teisinio reguliavimo stebėseną, vertinama:
+1. Atliekant galiojančio teisinio reguliavimo poveikio ex post vertinimą, vertinama:
 
 
-1) teisės aktuose nustatytų teisinio reguliavimo priemonių efektyvumas siekiant teisinio reguliavimo tikslų;
-
-
-
-
-2) teisinio reguliavimo teigiamas poveikis ir neigiamos pasekmės reguliuojamai sričiai ir kitoms sritims (ekonomikai, valstybės finansams, socialinei aplinkai, viešajam administravimui, teisinei sistemai, kriminogeninei padėčiai, korupcijos mastui, aplinkai, administracinei naštai, regionų plėtrai ir kt.), asmenims ar jų grupėms;
+1) teisinio reguliavimo taikymas – ar teisinis reguliavimas buvo taikomas, kaip jis buvo taikomas ir kokios to priežastys;
 
 
 
 
-3) tiesioginė ir netiesioginė teisinio reguliavimo nauda, šios naudos gavėjai;
-
-
-
-
-4) teisinio reguliavimo pasekmių atitiktis nustatant teisinį reguliavimą planuotiems tikslams ir pasekmėms;
-
-
-
-
-5) reikalingumas keisti teisinį reguliavimą ar jo atsisakyti.
+2) teisinio reguliavimo veikimas – kokią įtaką (teigiamą poveikį ar neigiamas pasekmes) teisinis reguliavimas darė tam tikrai vertinamo teisinio reguliavimo sričiai, tam tikriems asmenims ar jų grupėms, kaip ta įtaka daryta ir kokios to priežastys; kokios papildomos aplinkybės ir kokią įtaką jos darė vertinamo teisinio reguliavimo sričiai, tam tikriems asmenims ar jų grupėms, kaip ši įtaka daryta ir kokios to priežastys.
 
 
 
 
 
 
-2. Gali būti atliekama viename teisės akte, teisės akto dalyje, keliuose teisės aktuose nustatyto teisinio reguliavimo stebėsena.
+2. Atliekant galiojančio teisinio reguliavimo poveikio ex post vertinimą, vertinamas įstatymuose, prireikus – ir jų įgyvendinamuosiuose teisės aktuose nustatytas teisinis reguliavimas. Gali būti atliekamas viename teisės akte, teisės akto dalyje, keliuose teisės aktuose nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimas.
+
+
+
+
+3. Atliekamas tik tokio galiojančio teisinio reguliavimo, kuris be esminių pakeitimų galioja bent dvejus metus nuo įsigaliojimo, poveikio ex post vertinimas.
  
 
 
@@ -1107,60 +1157,125 @@ TEISINIO REGULIAVIMO STEBĖSENA
 
 
 
-24 straipsnis. Teisinio reguliavimo stebėsenos subjektai, atlikimo tvarka ir viešumas
+24 straipsnis. Atvejai, kuriais atliekamas galiojančio teisinio reguliavimo poveikio ex post vertinimas
 
 
-1. Teisinio reguliavimo stebėseną atlieka valstybės ir savivaldybių institucijos ir įstaigos pagal teisės aktuose nustatytą kompetenciją; be to, gali būti sudarytos teisinio reguliavimo stebėsenos darbo grupės.
+1. Nuostata dėl poreikio atlikti galiojančio teisinio reguliavimo poveikio ex post vertinimą įtraukiama į įstatymą:
 
 
-
-
-2. Teisės aktuose nustatyto teisinio reguliavimo stebėsena atliekama, kai tai reikalinga įvertinus teisinio reguliavimo aktualumą ir problemiškumą. Teisės akte gali būti numatyta pareiga atlikti šiame teisės akte nustatyto teisinio reguliavimo stebėseną.
-
-
-
-
-3. Teisinio reguliavimo stebėseną atliekanti valstybės ar savivaldybės institucija ar įstaiga arba jos įgaliotas asmuo Teisės aktų informacinėje sistemoje paskelbia:
-
-
-1) informaciją apie teisinio reguliavimo, kurio stebėsena yra atliekama, sritį;
+1) kai reglamentuojami iki tol nereglamentuoti visuomeniniai santykiai arba iš esmės keičiamas teisinis reguliavimas;
 
 
 
 
-2) teisės aktus, nustatančius teisinį reguliavimą, kurio stebėsena yra atliekama;
+2) kai nustatoma didelė teisinio reguliavimo įtaka tam tikrai teisinio reguliavimo sričiai, asmenims ar jų grupėms;
 
 
 
 
-3) teisinio reguliavimo stebėsenos atlikimo pradžios ir pabaigos terminus;
-
-
-
-
-4) teisinio reguliavimo stebėseną atliekantį subjektą (subjektus) ir už teisinio reguliavimo stebėseną atsakingą asmenį (asmenis).
+3) kitais atvejais, kai nustatomas toks poreikis.
 
 
 
 
 
 
-4. Teisinio reguliavimo stebėseną atlikęs subjektas parengia ir Teisės aktų informacinėje sistemoje paskelbia teisinio reguliavimo stebėsenos pažymą, kurioje išdėsto teisinio reguliavimo stebėsenos rezultatus, kartu įvertindamas asmenų pateiktus pasiūlymus dėl teisinio reguliavimo, kurio stebėsena atliekama, ir reikalingumą keisti teisinį reguliavimą.
-
-
-
-
-5. Vyriausybė paskiria teisinio reguliavimo stebėseną koordinuojančią instituciją, kuri kasmet pateikia Vyriausybei teisinio reguliavimo stebėsenos ataskaitą.
-
-
-
-
-6. Teisinio reguliavimo stebėsenos atlikimo tvarką ir teisinio reguliavimo stebėsenos pažymos formą nustato Vyriausybė ar jos įgaliota institucija.
+2. Teisinio reguliavimo galiojimo metu ministras pagal jam pavestą valdymo sritį gali priimti sprendimą dėl poreikio atlikti šio teisinio reguliavimo poveikio ex post vertinimą.
  
 
 
 
 
+
+
+241 straipsnis. Galiojančio teisinio reguliavimo poveikio ex post vertinimo subjektai
+
+
+1. Galiojančio teisinio reguliavimo poveikio ex post vertinimą atlieka ministerijos pagal atitinkamam ministrui pavestas valdymo sritis.
+
+
+
+
+2. Valstybės ir savivaldybių institucijos ir įstaigos pagal teisės aktuose nustatytą kompetenciją teikia šio straipsnio 1 dalyje nurodytoms institucijoms informaciją, reikalingą galiojančio teisinio reguliavimo poveikio ex post vertinimui atlikti.
+
+
+
+
+3. Vyriausybė paskiria galiojančio teisinio reguliavimo poveikio ex post vertinimą koordinuojančią instituciją. Ši institucija:
+
+
+1) sudaro, reguliariai atnaujina ir skelbia aktualų teisės aktų, kuriuose nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimas atliekamas ar planuojamas atlikti, sąrašą;
+
+
+
+
+2) teikia metodines konsultacijas dėl galiojančio teisinio reguliavimo poveikio ex post vertinimo atlikimo tvarkos;
+
+
+
+
+3) teikia nuomones dėl galiojančio teisinio reguliavimo poveikio ex post vertinimo ataskaitų projektų;
+
+
+
+
+4) renka, kaupia informaciją ir analizuoja galiojančio teisinio reguliavimo poveikio ex post vertinimo praktiką, teigiamas ir neigiamas tendencijas ir kasmet iki vasario 1 dienos pateikia Vyriausybei informaciją apie galiojančio teisinio reguliavimo poveikio ex post vertinimo tendencijas, jų priežastis, pasiūlymus dėl galiojančio teisinio reguliavimo poveikio ex post vertinimo tobulinimo;
+
+
+
+
+5) gali siūlyti šio straipsnio 1 dalyje nurodytoms institucijoms atlikti galiojančio teisinio reguliavimo poveikio ex post vertinimą arba į rengiamus įstatymų projektus įtraukti nuostatas dėl poreikio atlikti galiojančio teisinio reguliavimo poveikio ex post vertinimą.
+ 
+
+
+
+
+
+
+
+
+242 straipsnis. Galiojančio teisinio reguliavimo poveikio ex post vertinimo tvarka
+
+
+1. Galiojančio teisinio reguliavimo poveikio ex post vertinimas atliekamas vadovaujantis galiojančio teisinio reguliavimo poveikio ex post vertinimo metodika. Šią metodiką tvirtina Vyriausybė ar jos įgaliota institucija.
+
+
+
+
+2. Ministerija, atlikusi galiojančio teisinio reguliavimo poveikio ex post vertinimą, parengia galiojančio teisinio reguliavimo poveikio ex post vertinimo ataskaitos projektą ir dėl jo gauna šio įstatymo 241 straipsnio 3 dalyje nurodytos institucijos nuomonę.
+
+
+
+
+3. Įvertinusi šio įstatymo 241 straipsnio 3 dalyje nurodytos institucijos nuomonę, ministerija, atlikusi galiojančio teisinio reguliavimo poveikio ex post vertinimą, parengia galutinę galiojančio teisinio reguliavimo poveikio ex post vertinimo ataskaitą. Šios ataskaitos formą nustato Vyriausybė ar jos įgaliota institucija.
+ 
+
+
+
+
+
+
+243 straipsnis. Galiojančio teisinio reguliavimo poveikio ex post vertinimo viešinimas
+
+
+1. Informacija apie teisės akte nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimą skelbiama Teisės aktų registre.
+
+
+
+
+2. Teisės aktų, kuriuose nustatyto galiojančio teisinio reguliavimo poveikio ex post vertinimas atliekamas ar planuojamas atlikti, sąrašas skelbiamas Teisės aktų informacinėje sistemoje ir šio įstatymo 241 straipsnio 3 dalyje nurodytos institucijos interneto svetainėje.
+
+
+
+
+3. Galiojančio teisinio reguliavimo poveikio ex post vertinimą atliekanti ministerija informaciją, susijusią su galiojančio teisinio reguliavimo poveikio ex post vertinimu, skelbia Teisės aktų informacinėje sistemoje. Šioje informacinėje sistemoje ir galiojančio teisinio reguliavimo poveikio ex post vertinimą atlikusios ministerijos interneto svetainėje per penkias darbo dienas nuo parengimo paskelbiama galiojančio teisinio reguliavimo poveikio ex post vertinimo ataskaita. 
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+ 
 
 
 
