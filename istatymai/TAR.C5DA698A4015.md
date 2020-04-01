@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-07-01 iki 2020-03-31
+Suvestinė redakcija nuo 2020-04-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 14-352, i. k. 0961010ISTA00I-1179
  
@@ -343,7 +343,10 @@ ADMINISTRAVIMAS
 
 
 
-7) finansuoja kultūrinę vertę turinčių kilnojamųjų daiktų įrašymą į Kultūros vertybių registrą, į Kultūros vertybių registrą įrašytų kilnojamųjų kultūros vertybių, taip pat vertybės, kuri yra viena iš nekilnojamojo kultūros paveldo statinio vertingųjų savybių, tyrimus, konservavimą, restauravimą, apsaugos priemonių įrengimą ir pažinimo sklaidą iš Kultūros paveldo departamentui skiriamų valstybės biudžeto asignavimų. Šių darbų ar jų dalių įgyvendinimą Kultūros paveldo departamentas gali pavesti pavaldžioms įstaigoms, įmonėms ir organizacijoms; 
+7) finansuoja kultūrinę vertę turinčių kilnojamųjų daiktų įrašymą į Kultūros vertybių registrą, į Kultūros vertybių registrą įrašytų kilnojamųjų kultūros vertybių, taip pat vertybės, kuri yra viena iš nekilnojamojo kultūros paveldo statinio vertingųjų savybių, tyrimus, konservavimą, restauravimą, apsaugos priemonių įrengimą ir pažinimo sklaidą iš Kultūros paveldo departamentui skiriamų valstybės biudžeto asignavimų. Šių darbų ar jų dalių įgyvendinimą Kultūros paveldo departamentas gali pavesti biudžetinėms įstaigoms, kurių savininko teises ir pareigas jis įgyvendina;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2142, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09047
+ 
 
 
 
@@ -1272,4 +1275,9 @@ Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1755, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20736
+Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 4 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2142, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09047
 Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 4 straipsnio pakeitimo įstatymas
