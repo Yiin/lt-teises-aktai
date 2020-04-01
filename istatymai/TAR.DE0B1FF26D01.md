@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-03-31
+Suvestinė redakcija nuo 2020-04-01 iki 2020-06-14
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
  
@@ -151,6 +151,14 @@ BENDROSIOS NUOSTATOS
 
 
 1. Kredito unija privalo būti centrinės kredito unijos nare. Kredito unija gali būti tik vienos centrinės kredito unijos nare.
+
+
+
+
+11. Įmokos į stabilizacijos fondą, kaip tai apibrėžta Centrinių kredito unijų įstatymo 26 straipsnyje, yra kredito unijoms privalomos įmokos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
+ 
 
 
 
@@ -311,9 +319,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Be šio straipsnio 4 dalyje nurodytų asmenų, indėlius ir kitas grąžintinas lėšas kredito unija turi teisę priimti ir iš Lietuvos Respublikos biudžetinių įstaigų, jeigu tai numatyta kredito unijų steigimo dokumentuose, Lietuvos Respublikoje įsteigtų asociacijų, religinių bendruomenių ir bendrijų, profesinių sąjungų organizacijų, labdaros ir paramos fondų, tarptautinių ar užsienio valstybių labdaros ir paramos fondų, kredito unijos narių steigiamų juridinių asmenų, kurie gali būti kredito unijos asocijuotais nariais pagal šio įstatymo 10 straipsnio 4 dalyje nurodytus reikalavimus, taip pat Lietuvos Respublikos civilinio kodekso nustatyta tvarka iš kredito unijos narių nepilnamečių vaikų (įvaikių) ar globojamų vaikų, jeigu bent vienas iš tėvų (įtėvių) ar globėjų (rūpintojų) yra kredito unijos narys. 
+6. Be šio straipsnio 4 dalyje nurodytų asmenų, indėlius ir kitas grąžintinas lėšas kredito unija turi teisę priimti ir iš Lietuvos Respublikos biudžetinių įstaigų, jeigu tai numatyta kredito unijų steigimo dokumentuose, Lietuvos Respublikoje įsteigtų asociacijų, religinių bendruomenių ir bendrijų, profesinių sąjungų organizacijų, labdaros ir paramos fondų, tarptautinių ar užsienio valstybių labdaros ir paramos fondų, advokatų, advokatų profesinių bendrijų, notarų, antstolių, kredito unijos narių steigiamų juridinių asmenų, kurie gali būti kredito unijos asocijuotais nariais pagal šio įstatymo 10 straipsnio 4 dalyje nurodytus reikalavimus, taip pat Lietuvos Respublikos civilinio kodekso nustatyta tvarka iš kredito unijos narių nepilnamečių vaikų (įvaikių) ar globojamų vaikų, jeigu bent vienas iš tėvų (įtėvių) ar globėjų (rūpintojų) yra kredito unijos narys. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
+Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
  
 
 
@@ -903,7 +912,10 @@ Narystė kredito unijoje pasibaigia, kai:
 
 
 
-2. Kredito unija, grąžindama asmeniui jo pajinį įnašą už pagrindinį ir (ar) papildomus pajus, privalo jį proporcingai, atsižvelgdama į tų metų, kuriais narystė kredito unijoje pasibaigė ar kuriais kredito unijoje buvo gautas prašymas grąžinti pajinius įnašus už papildomus pajus, patvirtintoje metinėje balansinėje ataskaitoje įrašytas kredito unijos nuostolių sumas, sumažinti.
+2. Kredito unija, grąžindama asmeniui jo pajinį įnašą už pagrindinį ir (ar) papildomus pajus, privalo jį proporcingai sumažinti, atsižvelgdama į tų metų, kuriais narystė kredito unijoje pasibaigė ar kuriais kredito unijoje buvo gautas prašymas grąžinti pajinius įnašus už papildomus pajus, patvirtintoje metinėje balansinėje ataskaitoje įrašytą kredito unijos nuostolių ir privalomojo rezervo arba rezervinio kapitalo bendrą sumą, jei bendra suma yra nuostoliai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
+ 
 
 
 
@@ -926,7 +938,8 @@ Narystė kredito unijoje pasibaigia, kai:
 6. Pripažintam neveiksniu nariui priklausančios lėšos išmokamos per jo teisėtą atstovą, kai šis pateikia reikiamus dokumentus.
 
 
-TAR pastaba. 14 straipsnio nuostatos taikomos tik tiems kredito unijų papildomiems pajams, kurie įsigyti nuo įstatymo Nr. XII-2567 įsigaliojimo dienos (2017-01-01). Iki šio įstatymo įsigaliojimo įsigytiems papildomiems pajams taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos kredito unijų įstatymo nuostatos
+TAR pastaba. 14 straipsnio nuostatos taikomos tik tiems kredito unijų papildomiems pajams, kurie įsigyti nuo įstatymo Nr. XII-2567 įsigaliojimo dienos (2017-01-01). Iki šio įstatymo įsigaliojimo įsigytiems papildomiems pajams taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos kredito unijų įstatymo nuostatos.
+ 
 
 
 
@@ -1158,9 +1171,10 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 21 straipsnis. Kredito unijos visuotinių narių susirinkimų šaukimo terminai ir tvarka
 
 
-1. Eilinį visuotinį narių susirinkimą šaukia kredito unijos valdyba kasmet ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos. Apie šaukiamą eilinį visuotinį narių susirinkimą kredito unijos valdyba privalo ne vėliau kaip prieš 20 dienų iki susirinkimo dienos, be įstatuose nurodytų informavimo būdų, paskelbti kredito unijos interneto svetainėje (jeigu ją kredito unija turi), paskelbti centrinės kredito unijos, kurios nare yra kredito unija, interneto svetainėje ir pranešti kredito unijos nariams raštu vienu iš šių būdų: asmeniškai, paštu ar elektroninių ryšių priemonėmis (elektroniniu paštu, trumpąja (SMS) žinute ar per elektroninės bankininkystės sistemas). 
+1. Eilinį visuotinį narių susirinkimą šaukia kredito unijos valdyba kasmet ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos. Apie šaukiamą eilinį visuotinį narių susirinkimą kredito unijos valdyba privalo ne vėliau kaip prieš 20 dienų iki susirinkimo dienos, be įstatuose nurodytų informavimo būdų, paskelbti kredito unijos interneto svetainėje (jeigu ją kredito unija turi), centrinės kredito unijos, kurios nare yra kredito unija, interneto svetainėje, regioninėje spaudoje ir pranešti kredito unijos nariams elektroninių ryšių priemonėmis: elektroniniu paštu, trumpąja (SMS) žinute arba per elektroninės bankininkystės sistemas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
+Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
  
 
 
@@ -1459,7 +1473,10 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 3. Kredito unijos valdyba:
 
 
-1) priima naujus narius į kredito uniją, sprendžia narystės kredito unijoje pasibaigimo klausimus, išskyrus klausimus dėl nario pašalinimo;
+1) priima naujus narius į kredito uniją, sprendžia narystės kredito unijoje pasibaigimo klausimus, išskyrus klausimus dėl nario pašalinimo. Valdyba gali pavesti kredito unijos administracijos vadovui priimti į kredito uniją naujus narius fizinius asmenis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
+ 
 
 
 
@@ -1877,7 +1894,10 @@ Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
 
 
 
-3. Kai kredito unijos turtas pasiekia 15 000 000 eurų arba daugiau, kredito unija privalo turėti bent vieną rizikos vertinimo specialistą, kurio kompetencija ir funkcijos nustatytos kredito unijos įstatuose ir (arba) kituose kredito unijos visuotinio narių susirinkimo patvirtintuose dokumentuose.
+3. Kai kredito unijos turtas pasiekia 15 000 000 eurų arba daugiau, kredito unija privalo turėti bent vieną rizikos vertinimo specialistą, kurio kompetencija ir funkcijos nustatytos kredito unijos įstatuose ir (arba) kituose kredito unijos vidaus dokumentuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
+ 
 
 
 
@@ -4066,3 +4086,8 @@ Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 5, 10, 21, 29, 40, 45, 5
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 73, 75, 76 ir 77 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 4, 5, 14, 21, 25 ir 29 straipsnių pakeitimo įstatymas
