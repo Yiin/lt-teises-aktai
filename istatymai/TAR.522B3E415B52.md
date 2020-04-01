@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2020-03-10 iki 2020-03-31
+Suvestinė redakcija nuo 2020-04-01 iki 2020-06-29
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -2401,13 +2401,15 @@ Nr. XII-543, 2013-10-08, Žin., 2013, Nr. 109-5363 (2013-10-17)
 68 straipsnis. Reikalavimai asmeniui, siekiančiam tapti Aukščiausiojo Teismo teisėju
 
 
-Aukščiausiojo Teismo teisėju gali būti skiriamas teisėjas arba teisės krypties socialinių mokslų daktaras, turintis ne mažesnį kaip dešimties metų teisėjo arba (ir) teisinio pedagoginio darbo stažą, pateikęs sveikatos pažymėjimą. Jeigu asmuo vienu metu dirbo teisėju ir teisinį pedagoginį darbą, skaičiuojant šiame straipsnyje nurodytą darbo stažą tokiu laikotarpiu įgytas teisėjo darbo stažas ir teisinio pedagoginio darbo stažas nėra sumuojami.
+Aukščiausiojo Teismo teisėju gali būti skiriamas teisėjų karjeros siekiančių asmenų registre įrašytas teisėjas arba teisės krypties socialinių mokslų daktaras, turintis ne mažesnį kaip dešimties metų teisėjo arba (ir) teisinio pedagoginio darbo stažą, pateikęs sveikatos pažymėjimą. Jeigu asmuo vienu metu dirbo teisėju ir teisinį pedagoginį darbą, skaičiuojant šiame straipsnyje nurodytą darbo stažą tokiu laikotarpiu įgytas teisėjo darbo stažas ir teisinio pedagoginio darbo stažas nėra sumuojami. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-2240, 2004-05-18, Žin., 2004, Nr. 84-3042 (2004-05-25)
 Nr. X-635, 2006-06-01, Žin., 2006, Nr. 68-2493 (2006-06-17)
 Nr. XII-543, 2013-10-08, Žin., 2013, Nr. 109-5363 (2013-10-17)
+Straipsnio pakeitimai:
+Nr. XIII-2775, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02010
  
 
 
@@ -2434,7 +2436,10 @@ Nr. XI-1479, 2011-06-21, Žin., 2011, Nr. 78-3804 (2011-06-30)
 
 
 
-2. Kai teisės krypties socialinių mokslų daktarai ir habilituoti daktarai, prokurorai, advokatai siekia tapti apygardos administracinio teismo, apygardos teismo, Vyriausiojo administracinio teismo ir Apeliacinio teismo teisėjais, įvertinamos tik jų asmeninės savybės ir bendrieji gebėjimai.
+2. Kai teisės krypties socialinių mokslų daktarai ir habilituoti daktarai, prokurorai, advokatai siekia tapti apygardos administracinio teismo, apygardos teismo, Vyriausiojo administracinio teismo, Apeliacinio teismo ir Aukščiausiojo Teismo teisėjais, įvertinamos tik jų asmeninės savybės ir bendrieji gebėjimai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2775, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02010
+ 
 
 
 
@@ -2534,17 +2539,21 @@ Nr. X-611, 2006-05-23, Žin., 2006, Nr. 60-2121 (2006-05-27)
 73 straipsnis. Aukščiausiojo Teismo teisėjo skyrimas
 
 
-1. Aukščiausiojo Teismo teisėją skiria Seimas Respublikos Prezidento teikimu. 
+1. Aukščiausiojo Teismo teisėją iš įrašytų teisėjų karjeros siekiančių asmenų registre asmenų skiria Seimas Respublikos Prezidento teikimu.
 
 
 
 
-2. Kandidatūras į Aukščiausiojo Teismo teisėjus Respublikos Prezidentui parenka ir pasiūlo Aukščiausiojo Teismo pirmininkas. Šis siūlymas Respublikos Prezidento nesaisto. 
+2. Dėl Aukščiausiojo Teismo teisėjo skyrimo Respublikos Prezidentui pataria Teisėjų taryba. 
+
+
+
+
+3. Kandidatūros į Aukščiausiojo Teismo teisėjus svarstomos Teisėjų taryboje šio Įstatymo 56 straipsnio 3, 4, 5 ir 6 dalyse nustatyta tvarka. 
 
 
 Straipsnio pakeitimai:
-Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2006-05-09, Žin., 2006, Nr. 51-1894 (2006-05-11)
+Nr. XIII-2775, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02010
  
 
 
@@ -2698,12 +2707,26 @@ Nr. XI-523, 2009-12-03, Žin., 2009, Nr. 147-6559 (2009-12-12)
 
 
 
-3. Aukščiausiojo Teismo pirmininkas, skyriaus pirmininkas skiriamas penkeriems metams.
+3. Dėl Aukščiausiojo Teismo pirmininko, skyriaus pirmininko skyrimo Respublikos Prezidentui pataria Teisėjų taryba. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2775, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02010
+ 
 
 
 
 
-4. Kandidatūros į Aukščiausiojo Teismo pirmininko ir skyriaus pirmininko pareigas svarstomos Teisėjų taryboje šio Įstatymo 56 straipsnio 3, 4, 5 ir 6 dalyse nustatyta tvarka.
+4. Aukščiausiojo Teismo pirmininkas, skyriaus pirmininkas skiriamas penkeriems metams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2775, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02010
+ 
+
+
+
+
+5. Neteko galios 2020-04-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2775, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02010
+ 
 
 
 Straipsnio pakeitimai:
@@ -2711,6 +2734,26 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2006-05-09, Žin., 2006, Nr. 51-1894 (2006-05-11)
 Nr. X-1099, 2007-04-19, Žin., 2007, Nr. 46-1724 (2007-04-26)
 Nr. X-611, 2006-05-23, Žin., 2006, Nr. 60-2121 (2006-05-27)
+ 
+
+
+
+
+791 straipsnis. Aukščiausiojo Teismo pirmininko, skyriaus pirmininko skyrimo tvarka
+
+
+1. Kandidatūras į laisvas arba atsilaisvinsiančias Aukščiausiojo Teismo pirmininko, skyriaus pirmininko vietas atrenka šio Įstatymo 551 straipsnio 1 dalyje nurodyta Atrankos komisija pagal Teisėjų tarybos patvirtintus Teisėjų karjeros siekiančių asmenų atrankos nuostatus ir Teisėjų karjeros siekiančių asmenų vertinimo kriterijus.
+1 dalies redakcija nuo 2021-01-01:
+1. Kandidatūras į laisvas arba atsilaisvinsiančias Aukščiausiojo Teismo pirmininko, skyriaus pirmininko vietas atrenka Atrankos komisija pagal Teisėjų karjeros siekiančių asmenų vertinimo kriterijus šio Įstatymo 551 straipsnyje nustatyta tvarka. Kandidatų asmeninės būdo ir pažintinės savybės vertinamos šio Įstatymo 551 straipsnio 8 dalyje nustatyta tvarka.
+
+
+
+
+2. Kandidatūros į Aukščiausiojo Teismo pirmininko ir skyriaus pirmininko pareigas svarstomos Teisėjų taryboje šio Įstatymo 56 straipsnio 3, 4, 5 ir 6 dalyse nustatyta tvarka. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2775, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02010
  
 
 
