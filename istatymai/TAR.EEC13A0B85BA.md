@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EEC13A0B85BA"
 
 # Lietuvos Respublikos socialinių įmonių įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-04-07
+Suvestinė redakcija nuo 2020-04-08 iki 2020-06-29
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3519, i. k. 1041010ISTA0IX-2251
  
@@ -99,7 +99,11 @@ Socialinė įmonė turi teisę:
 
 2) gauti valstybės pagalbą pagal šį įstatymą ir pagal Reglamentą (ES) Nr. 651/2014;
 
-3) gauti paramą pagal Lietuvos Respublikos labdaros ir paramos įstatymą.
+3) gauti paramą pagal Lietuvos Respublikos labdaros ir paramos įstatymą;
+
+4) įgyvendinti įdarbinimo subsidijuojant priemonę Užimtumo įstatymo nustatyta tvarka, paskelbus darbuotojui prastovą Darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju. 
+Papildyta straipsnio punktu:
+Nr. XIII-2833, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07196
  
 
 7 straipsnis. Socialinės įmonės, jos vadovo ar jo įgalioto asmens pareigos
@@ -311,7 +315,12 @@ VALSTYBĖS PAGALBA SocialinĖMS įmonĖMS
 
 9) visos socialinei įmonei skirtos valstybės pagalbos dydis neviršija šio įstatymo 25 straipsnyje nurodyto didžiausio leistino valstybės pagalbos dydžio;
 
-10) neišduotas vykdomasis raštas iš socialinės įmonės išieškoti valstybės pagalbos lėšas remiantis Europos Komisijos sprendimu, pagal kurį valstybės pagalba skelbiama neteisėta ir nesuderinama su bendrąja rinka.
+10) neišduotas vykdomasis raštas iš socialinės įmonės išieškoti valstybės pagalbos lėšas remiantis Europos Komisijos sprendimu, pagal kurį valstybės pagalba skelbiama neteisėta ir nesuderinama su bendrąja rinka;
+
+11) teikdama mokėjimo prašymą gauti šio įstatymo 13 straipsnio 1 dalies 1 punkte nurodytą valstybės pagalbą, socialinė įmonė tuo laikotarpiu, už kurį yra teikiamas mokėjimo prašymas, nėra paskelbusi prastovos tikslinei grupei priklausančiam darbuotojui Darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju. 
+Papildyta straipsnio punktu:
+Nr. XIII-2833, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07196
+ 
 
 2. Valstybės pagalba socialinei įmonei neskiriama, kai netenkinami:
 
@@ -562,7 +571,10 @@ TAR pastaba. 23 straipsnio 4 dalyje nustatyti valstybės pagalbos skyrimo ir mok
 
 1) darbo sutartis su įdarbintu tikslinei grupei priklausančiu asmeniu nutraukiama ir per 30 darbo dienų nuo darbo sutarties nutraukimo dienos į šią atsilaisvinusią darbo vietą nepriimamas nustatytus kvalifikacinius reikalavimus atitinkantis šiai tikslinei grupei priklausantis asmuo;
 
-2) įdarbinto tikslinei grupei priklausančio asmens darbo vietoje prastova ne dėl darbuotojo kaltės ar pravaikšta trunka ilgiau kaip 30 kalendorinių dienų iš eilės arba jam darbo sutartyje nustatytomis sąlygomis ir terminais daugiau kaip 2 mėnesius iš eilės nemokamas visas jam priklausantis darbo užmokestis;
+2) įdarbinto tikslinei grupei priklausančio asmens darbo vietoje prastova ne dėl darbuotojo kaltės, išskyrus atvejus, kai tikslinei grupei priklausančiam asmeniui prastova paskelbta Darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju, ar pravaikšta trunka ilgiau kaip 30 kalendorinių dienų iš eilės arba jam darbo sutartyje nustatytomis sąlygomis ir terminais daugiau kaip 2 mėnesius iš eilės nemokamas visas jam priklausantis darbo užmokestis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2833, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07196
+ 
 
 3) įdarbinto tikslinei grupei priklausančio asmens darbo sutartyje be Vyriausybės įgaliotos institucijos sutikimo keičiama darbovietė ar funkcijos (šiuo atveju darbo vieta laikoma panaikinta nuo darbovietės ar funkcijų pakeitimo dienos);
 
@@ -592,6 +604,11 @@ TAR pastaba. 23 straipsnio 4 dalyje nustatyti valstybės pagalbos skyrimo ir mok
 
 3) kai netenkinama bent viena iš sąlygų, nurodytų šio įstatymo 14 straipsnio 1 dalies 2–8 punktuose.
 
+11. Valstybės pagalbos, nurodytos šio įstatymo 13 straipsnio 1 dalies 1 punkte, mokėjimas socialinei įmonei yra sustabdomas, Užimtumo tarnybai priėmus sprendimą skirti socialinei įmonei subsidiją tikslinei grupei priklausančio darbuotojo darbo užmokesčiui Užimtumo įstatymo 41 straipsnio 21 dalyje nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2833, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07196
+ 
+
 2. Šio straipsnio 1 dalies 1 ir 3 punktuose nurodytais atvejais sustabdomas tos dalies valstybės pagalbos mokėjimas, kurią prašoma išmokėti pagal pateiktas paraiškas gauti valstybės pagalbą, mokėjimų prašymus, kuriuose pateikta galimai neteisinga informacija, arba kuria prašoma kompensuoti darbo užmokesčio ir valstybinio socialinio draudimo įmokų, išmokėtų nesilaikant šio įstatymo 7 straipsnio 1 dalies 3 punkte nurodytos pareigos, išlaidas.
 
 3. Subsidijos darbo užmokesčiui ir valstybinio socialinio draudimo įmokoms mokėjimas sustabdomas ir tuo atveju, kai atitinkamo mėnesio socialinės įmonės darbuotojų, priklausančių tikslinėms grupėms, dalis yra mažesnė, negu nustatyta šio įstatymo 14 straipsnio 1 dalies 2 punkte, padalijus metinį vidutinį sąrašuose esančių darbuotojų skaičių iš 12.
@@ -606,9 +623,17 @@ TAR pastaba. 23 straipsnio 4 dalyje nustatyti valstybės pagalbos skyrimo ir mok
 
 3) socialinė įmonė per socialinės įmonės patikrinimų metu Vyriausybės įgaliotos institucijos nustatytą terminą panaikina atliekant veiklos priežiūrą nustatytus šio įstatymo ar jo įgyvendinamųjų teisės aktų, Darbo kodekso, darbuotojų saugą ir sveikatą bei darbo santykius reglamentuojančių įstatymų ar jų įgyvendinamųjų teisės aktų pažeidimus;
 
-4) tenkinamos visos šio įstatymo 14 straipsnio 1 dalies 2–8 punktuose nurodytos sąlygos.
+4) tenkinamos visos šio įstatymo 14 straipsnio 1 dalies 2–8 punktuose nurodytos sąlygos;
 
-6. Atnaujinus valstybės pagalbos mokėjimą šio straipsnio 5 dalies 1, 2 ir 3 punktuose nurodytais pagrindais, socialinei įmonei išmokamos jai priklausančios valstybės pagalbos sumos už laikotarpį nuo sprendimo sustabdyti valstybės pagalbos mokėjimą iki sprendimo atnaujinti valstybės pagalbos mokėjimą priėmimo. Atnaujinus valstybės pagalbos mokėjimą šio straipsnio 5 dalies 4 punkte nurodytu pagrindu, valstybės pagalba yra mokama nuo sprendimo atnaujinti valstybės pagalbos mokėjimą priėmimo dienos.
+5) gautas socialinės įmonės prašymas atnaujinti valstybės pagalbos mokėjimą, kuris buvo sustabdytas šio straipsnio 11 dalyje nurodytais pagrindais. 
+Papildyta straipsnio punktu:
+Nr. XIII-2833, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07196
+ 
+
+6. Atnaujinus valstybės pagalbos mokėjimą šio straipsnio 5 dalies 1, 2 ir 3 punktuose nurodytais pagrindais, socialinei įmonei išmokamos jai priklausančios valstybės pagalbos sumos už laikotarpį nuo sprendimo sustabdyti valstybės pagalbos mokėjimą iki sprendimo atnaujinti valstybės pagalbos mokėjimą priėmimo. Atnaujinus valstybės pagalbos mokėjimą šio straipsnio 5 dalies 4 ir 5 punktuose nurodytais pagrindais, valstybės pagalba yra mokama nuo sprendimo atnaujinti valstybės pagalbos mokėjimą priėmimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2833, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07196
+ 
 
 7. Jeigu paskutinę kalendorinių metų dieną socialinės įmonės darbuotojų, priklausančių tikslinėms grupėms, skaičius atitinka šio įstatymo 14 straipsnio 1 dalies 2 punkte nurodytą sąlygą, sustabdyto mėnesio subsidija darbo užmokesčiui ir valstybinio socialinio draudimo įmokoms socialinei įmonei išmokama kartu su gruodžio mėnesio ar paskutinio metų ketvirčio subsidija darbo užmokesčiui.
 
@@ -815,4 +840,9 @@ Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 14, 15, 17 ir 19
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2427, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16065
 Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2833, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07196
+Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 6, 14, 24 ir 26 straipsnių pakeitimo įstatymas
 
