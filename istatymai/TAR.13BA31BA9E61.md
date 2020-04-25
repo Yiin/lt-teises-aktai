@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.13BA31BA9E61"
 
 # Lietuvos Respublikos dizaino įstatymas
 
-Suvestinė redakcija nuo 2018-05-01 iki 2020-04-24
+Suvestinė redakcija nuo 2020-04-25 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4980, i. k. 1021010ISTA0IX-1181
  
@@ -1412,6 +1412,15 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010IS
 5. Atsisakymas pratęsti ar atnaujinti terminą gali būti skundžiamas teismui įstatymų nustatyta tvarka.
 
 
+
+
+6. Paskelbus nepaprastąją padėtį ar valstybės lygio ekstremaliąją situaciją, ar karantiną visoje Lietuvos Respublikos teritorijoje ir dėl to nustačius ribojimus, susijusius su asmenų laisvu judėjimu ar ūkinės veiklos laisve, šio įstatymo nustatytų veiksmų atlikimo terminų, išskyrus Valstybinio patentų biuro veiksmų atlikimo terminus, eiga sustabdoma. Kai ribojimai atšaukiami, šių terminų eiga atnaujinama. Informacija apie terminų sustabdymą ir atnaujinimą skelbiama Valstybinio patentų biuro interneto svetainėje. 
+TAR pastaba. 6 dalyje nustatytas terminų eigos sustabdymas taikomas terminams, kurie nebuvo suėję iki Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo (2020-03-15), ir terminams, kurie prasidėjo įsigaliojus šiam nutarimui.
+Papildyta straipsnio dalimi:
+Nr. XIII-2858, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08722
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. 1121010ISTA0XI-2397
  
@@ -2494,3 +2503,8 @@ Lietuvos Respublikos dizaino įstatymo Nr. IX-1181 26 straipsnio pakeitimo ir 27
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-547, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11944
 Lietuvos Respublikos dizaino įstatymo Nr. IX-1181 2, 16, 51-1 straipsnių ir priedo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2858, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08722
+Lietuvos Respublikos dizaino įstatymo Nr. IX-1181 32 straipsnio pakeitimo įstatymas
