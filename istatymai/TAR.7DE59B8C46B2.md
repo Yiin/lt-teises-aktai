@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7DE59B8C46B2"
 
 # Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-04-24
+Suvestinė redakcija nuo 2020-04-25
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 52-1811, i. k. 1011010ISTA00IX-352
  
@@ -188,6 +188,15 @@ Nr. XIII-550, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11947
 5. Mokesčiai sumokami į biudžeto pajamų surenkamąją sąskaitą per kredito ar kitą mokėjimus priimančią įstaigą grynaisiais pinigais arba lėšas pervedant. Duomenys apie mokesčių sumokėjimą pateikiami Valstybiniam patentų biurui teisės aktų nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XI-2399, 2012-11-08, Žin., 2012, Nr. 135-6873 (2012-11-22), i. k. 1121010ISTA0XI-2399
+ 
+
+
+
+
+6. Paskelbus nepaprastąją padėtį ar valstybės lygio ekstremaliąją situaciją, ar karantiną visoje Lietuvos Respublikos teritorijoje ir dėl to nustačius ribojimus, susijusius su asmenų laisvu judėjimu ar ūkinės veiklos laisve, šio įstatymo nustatytų mokesčių sumokėjimo terminų eiga sustabdoma. Kai ribojimai atšaukiami, mokesčių sumokėjimo terminų eiga atnaujinama. Informacija apie terminų sustabdymą ir atnaujinimą skelbiama Valstybinio patentų biuro interneto svetainėje. 
+TAR pastaba. 6 dalyje nustatytas mokesčių sumokėjimo terminų sustabdymas taikomas terminams, kurie nebuvo suėję iki Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo, ir terminams, kurie prasidėjo įsigaliojus šiam nutarimui.
+Papildyta straipsnio dalimi:
+Nr. XIII-2857, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08721
  
 
 
@@ -808,3 +817,8 @@ Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1680, 2018-12-04, paskelbta TAR 2018-12-18, i. k. 2018-20699
 Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo Nr. IX-352 6, 7 straipsnių ir 4 priedėlio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2857, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08721
+Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo Nr. IX-352 6 straipsnio pakeitimo įstatymas
