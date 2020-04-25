@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B494EC0B78B0"
 
 # Lietuvos Respublikos prekių ženklų įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-04-24
+Suvestinė redakcija nuo 2020-04-25 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2844, i. k. 1001010ISTAIII-1981
  
@@ -2119,6 +2119,14 @@ KITOS PROCEDŪRINĖS NUOSTATOS
 
 
 6. Valstybinis patentų biuras, nustatęs, kad pateikti dokumentai neatitinka šio įstatymo ar Prekių ženklų registravimo taisyklių reikalavimų, išsiunčia dokumentą pateikusiam asmeniui pranešimą, kuriame nurodo nustatytus trūkumus ir pasiūlymus, kaip juos ištaisyti. Jeigu per vieną mėnesį nuo pranešimo išsiuntimo dienos, kai šiame įstatyme nenustatytas kitas terminas, trūkumai neištaisomi, prašymas atmetamas, dokumentas laikomas nepaduotu ar veiksmas neatliktu.
+
+
+
+
+7. Paskelbus nepaprastąją padėtį ar valstybės lygio ekstremaliąją situaciją, ar karantiną visoje Lietuvos Respublikos teritorijoje ir dėl to nustačius ribojimus, susijusius su asmenų laisvu judėjimu ar ūkinės veiklos laisve, šio įstatymo nustatytų veiksmų atlikimo terminų, išskyrus Valstybinio patentų biuro veiksmų atlikimo terminus, eiga sustabdoma. Kai ribojimai atšaukiami, šių terminų eiga atnaujinama. Informacija apie terminų sustabdymą ir atnaujinimą skelbiama Valstybinio patentų biuro interneto svetainėje. 
+TAR pastaba. 7 dalyje nustatytas terminų eigos sustabdymas taikomas terminams, kurie nebuvo suėję iki Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo, ir terminams, kurie prasidėjo įsigaliojus šiam nutarimui.
+Papildyta straipsnio dalimi:
+Nr. XIII-2860, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08724
  
 
 
@@ -3053,3 +3061,8 @@ Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 2, 11 ir 55-1 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1679, 2018-12-04, paskelbta TAR 2018-12-18, i. k. 2018-20698
 Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2860, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08724
+Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 54 straipsnio pakeitimo įstatymas
