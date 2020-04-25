@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07786E0929A8"
 
 # Lietuvos Respublikos patentų įstatymas
 
-Suvestinė redakcija nuo 2018-05-01 iki 2020-04-24
+Suvestinė redakcija nuo 2020-04-25 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 8-120, i. k. 0941010ISTA000I-372
  
@@ -1132,6 +1132,14 @@ Nr. XIII-263, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06263
 
 
 6. Dokumentas laikomas nepaduotu, jeigu pareiškėjas, patento savininkas ar jų atstovai per šiame įstatyme nustatytus terminus nepateikia reikiamų dokumentų ar jie neatitinka nustatytų reikalavimų. 
+
+
+
+
+7. Paskelbus nepaprastąją padėtį ar valstybės lygio ekstremaliąją situaciją, ar karantiną visoje Lietuvos Respublikos teritorijoje ir dėl to nustačius ribojimus, susijusius su asmenų laisvu judėjimu ar ūkinės veiklos laisve, šio įstatymo nustatytų veiksmų atlikimo terminų, išskyrus Valstybinio patentų biuro veiksmų atlikimo terminus, eiga sustabdoma. Kai ribojimai atšaukiami, šių terminų eiga atnaujinama. Informacija apie terminų sustabdymą ir atnaujinimą skelbiama Valstybinio patentų biuro interneto svetainėje.
+TAR pastaba. 7 dalyje nustatytas terminų eigos sustabdymas taikomas terminams, kurie nebuvo suėję iki Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo, ir terminams, kurie prasidėjo įsigaliojus šiam nutarimui.
+Papildyta straipsnio dalimi:
+Nr. XIII-2859, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08723
  
 
 
@@ -2777,3 +2785,8 @@ Lietuvos Respublikos patentų įstatymo Nr. I-372 2, 51, 79 straipsnių ir pried
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-548, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11945
 Lietuvos Respublikos patentų įstatymo Nr. I-372 2 ir 14 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2859, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08723
+Lietuvos Respublikos patentų įstatymo Nr. I-372 31 straipsnio pakeitimo įstatymas
