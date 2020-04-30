@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DDA1BD559D9B"
 
 # Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2019-12-21 iki 2020-04-29
+Suvestinė redakcija nuo 2020-04-30 iki 2021-12-28
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 55-1765, i. k. 0991010ISTAIII-1212
  
@@ -242,9 +242,11 @@ Nr. XIII-1875, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00225
 
 
 
-27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Kolektyvinio investavimo subjektų įstatyme ir Lietuvos Respublikos pensijų sistemos reformos įstatyme. 
+27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme ir Lietuvos Respublikos pensijų kaupimo įstatyme.
 Papildyta straipsnio dalimi:
 Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
+Straipsnio dalies pakeitimai:
+Nr. XIII-2855, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08969
  
 
 
@@ -267,7 +269,10 @@ VALDYMO ĮMONĖS LICENCIJAVIMAS IR VEIKLA
 
 
 
-2. Šio įstatymo nustatyta tvarka teisę verstis pensijų kaupimo veikla taip pat turi valdymo įmonės, turinčios licenciją valdyti investicinius fondus ir investicines kintamojo kapitalo bendroves, išduotą pagal Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymą (toliau – Kolektyvinio investavimo subjektų įstatymas), ir atitinkančios visus šio įstatymo nustatytus reikalavimus. 
+2. Šio įstatymo nustatyta tvarka teisę verstis pensijų kaupimo veikla taip pat turi valdymo įmonės, turinčios licenciją valdyti investicinius fondus ir investicines kintamojo kapitalo bendroves, išduotą pagal Kolektyvinio investavimo subjektų įstatymą, ir atitinkančios visus šio įstatymo nustatytus reikalavimus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2855, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08969
+ 
 
 
 
@@ -3089,7 +3094,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
  
  
 
@@ -3217,3 +3222,8 @@ Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2657, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20831
 Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 1, 2, 6, 8, 45, 47, 56, 57, 58, 59 straipsnių pakeitimo, Įstatymo papildymo 6-1, 39-1, 57-1, 58-1, 58-2, 58-3 straipsniais ir priedu ir 15, 16, 17, 60 straipsnių pripažinimo netekusiais galios įstatymo Nr. XIII-1237 19 ir 20 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2855, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08969
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 2 ir 3 straipsnių pakeitimo įstatymas
