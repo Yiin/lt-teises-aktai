@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DD80CF948782"
 
 # Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2225, i. k. 1021010ISTA00IX-886
  
@@ -571,7 +571,10 @@ Nacionalinis visuomenės sveikatos centras:
 
 
 
-8) vykdo kvapų kontrolę gyvenamuosiuose ir visuomeninės paskirties pastatuose;
+8) vykdo kvapų valstybinę visuomenės sveikatos saugos kontrolę gyvenamuosiuose ir visuomeninės paskirties pastatuose, įskaitant tai, kaip laikomasi taršos integruotos prevencijos ir kontrolės leidimuose ir taršos leidimuose Nacionalinio visuomenės sveikatos centro nustatytų sąlygų dėl kvapų valdymo;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2798, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02849
+ 
 
 
 
@@ -948,12 +951,18 @@ Nr. X-1150, 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
 
 
 
-5. Reikalavimus, keliamus patalpoms ir jų įrengimui, asmenims, vykdantiems ūkinę komercinę veiklą, naudojamoms priemonėms ir įrangai, vykdant atitinkamą ūkinę komercinę veiklą, kuriai būtinas leidimas-higienos pasas, nustato visuomenės sveikatos saugos reglamentai (higienos normos) ir kiti visuomenės sveikatos saugos teisės aktai.
+5. Reikalavimus, keliamus patalpoms ir (ar) žemės sklypui ir jų įrengimui, asmenims, vykdantiems ūkinę komercinę veiklą, naudojamoms priemonėms ir įrangai, vykdant atitinkamą ūkinę komercinę veiklą, kuriai būtinas leidimas-higienos pasas, nustato visuomenės sveikatos saugos reglamentai (higienos normos) ir kiti visuomenės sveikatos saugos teisės aktai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2592, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20025
+ 
 
 
 
 
-6. Prieš išduodant leidimą-higienos pasą įvertinama, ar pateikti tinkamai įforminti dokumentai, įrodantys teisėtą naudojimąsi patalpomis ir (ar) įranga, atliekamas ūkinės komercinės veiklos vykdymo sąlygų vertinimas veiklos vykdymo vietoje, kurio metu patikrinama ir įvertinama, ar numatomos vykdyti ūkinės komercinės veiklos sąlygos atitinka visuomenės sveikatos saugos reglamentų (higienos normų) ir kitų šio straipsnio 4 dalyje nurodytų veiklos rūšių visuomenės sveikatos saugą reglamentuojančių teisės aktų reikalavimus. Ūkinės komercinės veiklos vykdymo sąlygų vertinimas atliekamas ir sprendimas išduoti leidimą-higienos pasą priimamas Taisyklių nustatyta tvarka.
+6. Prieš išduodant leidimą-higienos pasą įvertinama, ar pateikti tinkamai įforminti dokumentai, įrodantys teisėtą naudojimąsi patalpomis ir (ar) žemės sklypu, ir (ar) įranga, atliekamas ūkinės komercinės veiklos vykdymo sąlygų vertinimas veiklos vykdymo vietoje, kurio metu patikrinama ir įvertinama, ar numatomos vykdyti ūkinės komercinės veiklos sąlygos atitinka visuomenės sveikatos saugos reglamentų (higienos normų) ir kitų šio straipsnio 4 dalyje nurodytų veiklos rūšių visuomenės sveikatos saugą reglamentuojančių teisės aktų reikalavimus. Ūkinės komercinės veiklos vykdymo sąlygų vertinimas atliekamas ir sprendimas išduoti leidimą-higienos pasą priimamas Taisyklių nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2592, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20025
+ 
 
 
 
@@ -1031,7 +1040,10 @@ Nr. X-1150, 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
 
 
 
-4) fizinis, juridinis asmuo ar filialas netenka teisės naudotis patalpomis ir (ar) įranga, kuriose ar su kuria vykdyti ūkinę komercinę veiklą buvo išduotas leidimas-higienos pasas.
+4) fizinis, juridinis asmuo ar filialas netenka teisės naudotis patalpomis ir (ar)  žemės sklypu, ir (ar) įranga, kuriuose ar su kuria vykdyti ūkinę komercinę veiklą buvo išduotas leidimas-higienos pasas.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2592, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20025
+ 
 
 
 
@@ -2167,3 +2179,13 @@ Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 7 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2192, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09848
 Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 2 ir 24 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2592, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20025
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 21 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2798, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02849
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 15 straipsnio pakeitimo įstatymas
