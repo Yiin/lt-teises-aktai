@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2019-04-25 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -31,7 +31,10 @@ Vilnius
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato labdaros ir paramos teikimą ir gavimą, jų teikimo ir gavimo tikslus, teikėjus ir gavėjus, labdaros ir paramos teikimo ir gavimo kontrolę bei apskaitą, kai labdaros ir (arba) paramos tiekėjai ir (arba) gavėjai naudojasi įstatymų nustatytomis mokesčių ir muitų lengvatomis.
+1. Šis įstatymas nustato labdaros ir paramos teikimą ir gavimą, jų teikimo ir gavimo tikslus, teikėjus ir gavėjus, labdaros ir paramos teikimo ir gavimo kontrolę bei apskaitą, kai labdaros ir (arba) paramos teikėjai ir (arba) gavėjai naudojasi įstatymų nustatytomis mokesčių ir muitų lengvatomis. Šio įstatymo nuostatos dėl paramos teikimo ir gavimo kontrolės bei apskaitos taikomos ir tais atvejais, kai parama teikiama ir (arba) gaunama Lietuvos Respublikos loterijų įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2600, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20561
+ 
 
 
 
@@ -117,8 +120,6 @@ Vilnius
 
 
 
-2) piniginės lėšos, sudarančios pajamų mokesčio dalį iki 2 procentų (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 1 procento) gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 1 procento) mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos; 
-Redakcija nuo 2020-01-01:
 2) piniginės lėšos, sudarančios pajamų mokesčio dalį iki 1,2 procento (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 0,6 procento) gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 1,2 procento (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 0,6 procento) mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1326, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10971
@@ -164,7 +165,10 @@ Nr. XIII-1706, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20946
 2. Parama pagal šį įstatymą pripažįstama, jeigu ją teikia:
 
 
-1) Lietuvos Respublikos fiziniai ir juridiniai asmenys, išskyrus politines partijas, politines organizacijas, valstybės ir savivaldybių įmones, biudžetines įstaigas, valstybės ir savivaldybių institucijas bei Lietuvos banką. Įmonių, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau kaip 50 procentų balsų, ir jų patronuojamųjų akcinių bendrovių ir uždarųjų akcinių bendrovių (toliau – valstybės ir (ar) savivaldybės bendrovės) parama pagal šį įstatymą yra pripažįstama, jeigu jos neturi mokestinių nepriemokų Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, taip pat įsiskolinimų su praleistais mokėjimo terminais Valstybinio socialinio draudimo fondo biudžetui bei laiku neįvykdytų skolinių įsipareigojimų pagal paskolos sutartis ir kitus įsipareigojamuosius skolos dokumentus, pasirašytus su Lietuvos Respublikos finansų ministerija (toliau – Finansų ministerija), arba pagal sutartis su valstybės garantija;
+1) Lietuvos Respublikos fiziniai ir juridiniai asmenys, išskyrus politines partijas, politines organizacijas, valstybės ir savivaldybių įmones, biudžetines įstaigas, valstybės ir savivaldybių institucijas bei Lietuvos banką. Įmonių, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau kaip 50 procentų balsų, jų patronuojamųjų akcinių bendrovių ir uždarųjų akcinių bendrovių, kaip jos suprantamos Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnio 1 dalyje, bei visų kitų su valstybės ir (ar) savivaldybės valdomomis bendrovėmis per patronuojamąsias bendroves susijusių paskesnių eilių patronuojamųjų bendrovių, kaip jos suprantamos Akcinių bendrovių įstatymo 5 straipsnio 3 dalyje, (toliau – valstybės ir (ar) savivaldybės bendrovės) parama pagal šį įstatymą yra pripažįstama, jeigu jos neturi mokestinių nepriemokų Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, taip pat įsiskolinimų su praleistais mokėjimo terminais Valstybinio socialinio draudimo fondo biudžetui bei laiku neįvykdytų skolinių įsipareigojimų pagal paskolos sutartis ir kitus įsipareigojamuosius skolos dokumentus, pasirašytus su Lietuvos Respublikos finansų ministerija, arba pagal sutartis su valstybės garantija; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
 
 
 
@@ -393,8 +397,6 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
 
 
-2) skiriant iki 2 procentų (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 1 procento) gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 1 procento) mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos. 
-Redakcija nuo 2020-01-01:
 2) skiriant iki 1,2 procento (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 0,6 procento) gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 1,2 procento (profesinėms sąjungoms arba profesinių sąjungų susivienijimams – iki 0,6 procento) mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1326, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10971
@@ -482,12 +484,26 @@ Nr. XIII-1706, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20946
 
 
 
-2. Teikiant paramą, valstybės ir (ar) savivaldybės bendrovės privalo vadovautis šio įstatymo nuostatas atitinkančiomis valstybės ir (ar) savivaldybės bendrovės paramos valdymo taisyklėmis, išskyrus atvejus, kai parama teikiama per specialiai tam tikslui valstybės ir (ar) savivaldybės bendrovės įsteigtus paramos fondus ir šiuo atveju vadovaujamasi Lietuvos Respublikos labdaros ir paramos fondų įstatymo nuostatas atitinkančiomis valstybės ir (ar) savivaldybės bendrovės tam tikslui įsteigto konkretaus paramos fondo paramos valdymo taisyklėmis.
+2. Teikiant paramą, valstybės ir (ar) savivaldybės bendrovės privalo vadovautis šio įstatymo nuostatas atitinkančiomis valstybės ir (ar) savivaldybės bendrovės paramos valdymo taisyklėmis. Kai parama teikiama per specialiai tam tikslui valstybės ir (ar) savivaldybės bendrovės įsteigtus paramos fondus (toliau – paramos fondas), vadovaujamasi Lietuvos Respublikos labdaros ir paramos fondų įstatymo nuostatas atitinkančiomis konkretaus paramos fondo paramos valdymo taisyklėmis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
 
 
 
 
-3. Paramai skiriama valstybės ir (ar) savivaldybės bendrovės ataskaitinių finansinių metų grynojo pelno dalis negali būti didesnė kaip:
+3. Valstybės ir (ar) savivaldybės bendrovės, prieš teikdamos paramą, turi įsivertinti teikiamos paramos atitiktį Sutarties dėl Europos Sąjungos veikimo 107 straipsnio 1 dalyje nurodytiems valstybės pagalbos kriterijams (toliau – valstybės pagalbos kriterijai). Tais atvejais, kai valstybės ir (ar) savivaldybės bendrovių teikiama parama atitinka valstybės pagalbos kriterijus, ji gali būti teikiama tik laikantis Europos Sąjungos valstybės pagalbos taisyklių. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
+
+
+
+
+4. Paramai skiriama valstybės ir (ar) savivaldybės bendrovės ataskaitinių finansinių metų grynojo pelno dalis negali būti didesnė kaip:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
 
 
 1) 10 procentų valstybės ir (ar) savivaldybės bendrovės ataskaitinių finansinių metų grynojo pelno, jeigu jis neviršijo 500 000 eurų;
@@ -507,27 +523,42 @@ Nr. XIII-1706, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20946
 
 
 
-4. Vienos valstybės ir (ar) savivaldybės bendrovės teikiamos paramos vienam paramos gavėjui suma negali būti didesnė kaip 200 000 eurų per metus.
+5. Vienos valstybės ir (ar) savivaldybės bendrovės teikiamos paramos vienam paramos gavėjui suma negali būti didesnė kaip 200 000 eurų per metus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
 
 
 
 
-5. Valstybės ir (ar) savivaldybės bendrovės negali sudaryti tokių paramos teikimo sutarčių, kuriose numatomas bendrovės įsipareigojimas skirti paramą iš ateinančių finansinių metų bendrovės pajamų (lėšų). Sprendimas skirti paramą gali būti priimamas ne vėliau kaip iki einamųjų metų, kuriais buvo patvirtintas praėjusių finansinių metų finansinių ataskaitų rinkinys, pabaigos.
+6. Valstybės ir (ar) savivaldybės bendrovės negali sudaryti tokių paramos teikimo sutarčių, kuriose numatomas bendrovės įsipareigojimas skirti paramą iš ateinančių finansinių metų bendrovės pajamų (lėšų). Sprendimas skirti paramą gali būti priimamas ne vėliau kaip iki einamųjų metų, kuriais buvo patvirtintas praėjusių finansinių metų finansinių ataskaitų rinkinys, pabaigos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
 
 
 
 
-6. Valstybės ir (ar) savivaldybės bendrovės negali teikti paramos politinio (asmeninio) pasitikėjimo valstybės tarnautojų, Lietuvos Respublikos Seimo, Vyriausybės, savivaldybių tarybų narių ir politinių partijų vienasmenių ir kolegialių valdymo organų narių, jų artimųjų giminaičių, sutuoktinių, sugyventinių, partnerių, kai partnerystė įregistruota įstatymų nustatyta tvarka, įsteigtiems fondams ir įstaigoms. Šiame punkte nurodyti asmenys negali dalyvauti vertinant paraiškas gauti paramą ir priimant sprendimus dėl paramos teikimo.
+7. Valstybės ir (ar) savivaldybės bendrovės negali teikti paramos politinio (asmeninio) pasitikėjimo valstybės tarnautojų, Lietuvos Respublikos Seimo, Vyriausybės, savivaldybių tarybų narių ir politinių partijų vienasmenių ir kolegialių valdymo organų narių, jų artimųjų giminaičių, sutuoktinių, sugyventinių, partnerių, kai partnerystė įregistruota įstatymų nustatyta tvarka, įsteigtiems fondams ir įstaigoms. Šiame punkte nurodyti asmenys negali dalyvauti vertinant paraiškas gauti paramą ir priimant sprendimus dėl paramos teikimo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
 
 
 
 
-7. Paramos sutartyse negali būti nustatomi konfidencialumo susitarimai, ribojantys informacijos apie valstybės ir (ar) savivaldybės bendrovių suteiktą paramą ir jos panaudojimą pateikimą visuomenei.
+8. Paramos sutartyse negali būti nustatomi konfidencialumo susitarimai, ribojantys informacijos apie valstybės ir (ar) savivaldybės bendrovių suteiktą paramą ir jos panaudojimą pateikimą visuomenei.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
 
 
 
 
-8. Valstybės ir (ar) savivaldybės bendrovių parama negali būti teikiama, jeigu:
+9. Valstybės ir (ar) savivaldybės bendrovių parama negali būti teikiama, jeigu:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
 
 
 1) valstybės ir (ar) savivaldybės bendrovės ataskaitinių finansinių metų grynojo pelno suma yra neigiama (patirta nuostolių);
@@ -574,32 +605,58 @@ Nr. XIII-1955, 2019-01-15, paskelbta TAR 2019-01-29, i. k. 2019-01320
 
 
 
-5) sprendimų teikti paramą priėmimo tvarka;
+5) paramos atitikties valstybės pagalbos kriterijams vertinimo tvarka; 
+Papildyta straipsnio punktu:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
 
 
 
 
-6) paramos teikimo sutarčių sudarymo tvarka;
+6) sprendimų teikti paramą priėmimo tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
 
 
 
 
-7) suteiktos paramos panaudojimo pagal paskirtį pagrindimo tvarka;
+7) paramos teikimo sutarčių sudarymo tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
 
 
 
 
-8) su paramos teikimu susijusios informacijos viešinimo tvarka;
+8) suteiktos paramos panaudojimo pagal paskirtį pagrindimo tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
 
 
 
 
-9) atsakomybės už valstybės ir (ar) savivaldybės bendrovės paramos valdymo taisyklių ar sudarytos paramos sutarties pažeidimus taikymo tvarka;
+9) su paramos teikimu susijusios informacijos viešinimo tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
 
 
 
 
-10) kitos bendrovei svarbios ir su paramos teikimu susijusios nuostatos.
+10) atsakomybės už valstybės ir (ar) savivaldybės bendrovės paramos valdymo taisyklių ar sudarytos paramos sutarties pažeidimus taikymo tvarka;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
+
+
+
+
+11) kitos bendrovei svarbios ir su paramos teikimu susijusios nuostatos.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
 
 
 
@@ -728,11 +785,30 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
 
 
-6. Paramą pagal šį įstatymą teikiančios valstybės ir (ar) savivaldybės bendrovės apie suteiktą paramą (paramos gavėją (gavėjus), paramos tikslą, paramos sumą, paramos teikimo laikotarpį) ne vėliau kaip per vieną mėnesį nuo paramos suteikimo privalo paskelbti savo interneto svetainėje. 
+6. Paramą pagal šį įstatymą teikiančios valstybės ir (ar) savivaldybės bendrovės privalo savo interneto svetainėse paskelbti:
+
+
+1) valstybės ir (ar) savivaldybės bendrovės paramos valdymo taisykles arba paramos fondo paramos valdymo taisykles;
+
+
+
+
+2) ne vėliau kaip per vieną mėnesį nuo paramos suteikimo informaciją apie suteiktą paramą: paramos gavėją (gavėjus), paramos tikslą, paramos sumą ir paramos teikimo laikotarpį. Interneto svetainėje turi būti paskelbta informacija apie einamaisiais metais ir ne mažiau kaip per 3 praėjusius finansinius metus suteiktą paramą. 
+
+
 Papildyta straipsnio dalimi:
 Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 Straipsnio dalies pakeitimai:
 Nr. XIII-1955, 2019-01-15, paskelbta TAR 2019-01-29, i. k. 2019-01320
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+ 
+
+
+
+
+61. Įmonių, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau kaip 50 procentų balsų, interneto svetainėse skelbiama ir šio straipsnio 6 dalyje nurodyta informacija apie jų patronuojamųjų bendrovių ir per patronuojamąsias bendroves susijusių paskesnių eilių patronuojamųjų bendrovių suteiktą paramą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
  
 
 
@@ -1057,3 +1133,13 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 5, 11 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2055, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06691
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 papildymo 15 straipsniu įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2600, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20561
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 1 straipsnio pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 5, 9-1, 9-2 ir 11 straipsnių pakeitimo įstatymas
