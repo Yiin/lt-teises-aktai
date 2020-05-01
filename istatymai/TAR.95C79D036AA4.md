@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.95C79D036AA4"
 
 # Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas
 
-Suvestinė redakcija nuo 2019-12-11 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 70-3170, i. k. 1031010ISTA0IX-1672
  
@@ -288,7 +288,10 @@ Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 
 
 
-28. Potencialiai pavojingas įrenginys – didesnio pavojingumo darbo priemonė, kurią naudojant darbe pavojus darbuotojų saugai ir sveikatai dėl joje sukauptos energijos, vykstančių procesų yra didesnis negu kitų darbo priemonių ir kuriai nustatoma privalomoji priežiūra. 
+28. Potencialiai pavojingas įrenginys – Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatyme apibrėžtas potencialiai pavojingas įrenginys, naudojamas kaip darbo priemonė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2475, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16485
+ 
 
 
 
@@ -1344,7 +1347,10 @@ DARBDAVIŲ PAREIGOS IR TEISĖS
 
 
 
-2) organizuoja arba paveda darbdavio įgaliotam asmeniui organizuoti profesinės rizikos vertinimą ir tuo pagrindu įvertina (nustato) faktinę darbuotojų saugos ir sveikatos būklę įmonėje, padaliniuose ir atskirose darbo vietose. Nustačius, kad darbuotojų saugos ir sveikatos būklė neatitinka darbuotojų saugos ir sveikatos norminių teisės aktų reikalavimų, darbdaviui atstovaujantis asmuo organizuoja reikiamų priemonių parengimą ir įgyvendinimą;
+2) organizuoja arba paveda darbdavio įgaliotam asmeniui organizuoti profesinės rizikos vertinimą ir nustato faktinę darbuotojų saugos ir sveikatos būklę įmonėje, padaliniuose ir atskirose darbo vietose. Nustačius, kad darbo priemonės ir (ar) darbo sąlygos įmonėje, padaliniuose ir (ar) darbo vietose neatitinka darbuotojų saugos ir sveikatos norminių teisės aktų reikalavimų, kad darbo aplinkoje yra kenksmingų ir (ar) pavojingų veiksnių, darbdaviui atstovaujantis asmuo organizuoja reikiamų prevencijos priemonių parengimą ir įgyvendinimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
+ 
 
 
 
@@ -1364,7 +1370,10 @@ DARBDAVIŲ PAREIGOS IR TEISĖS
 
 
 
-6) organizuoja arba paveda darbdavio įgaliotam asmeniui organizuoti darbuotojų instruktavimą užtikrinant, kad darbuotojai būtų instruktuojami juos priimant į darbą, perkeliant į kitą darbą, pakeitus darbo organizavimą, pradėjus naudoti naujas ar modernizuotas darbo priemones, pradėjus naudoti naujas technologijas, pakeitus ar priėmus naujus darbuotojų saugos ir sveikatos norminius teisės aktus. Nustato darbuotojų mokymo ir žinių darbuotojų saugos ir sveikatos klausimais tikrinimo tvarką; 
+6) organizuoja arba paveda darbdavio įgaliotam asmeniui organizuoti darbuotojų instruktavimą ir mokymą. Nustato darbuotojų instruktavimo, mokymo ir žinių darbuotojų saugos ir sveikatos klausimais tikrinimo tvarką; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
+ 
 
 
 
@@ -1374,7 +1383,10 @@ DARBDAVIŲ PAREIGOS IR TEISĖS
 
 
 
-8) užtikrina Darbo kodekso ir kitų norminių teisės aktų nustatytą darbuotojų darbo ir poilsio laiką, organizuoja darbuotojų dirbto darbo laiko apskaitos žiniaraščių pildymą;
+8) užtikrina Darbo kodekso ir kitų norminių teisės aktų, reglamentuojančių darbo ir poilsio laiką, nustatytą darbuotojų darbo ir poilsio laiką; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
+ 
 
 
 
@@ -1470,11 +1482,12 @@ Nr. XII-1437, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20565
 27 straipsnis. Darbuotojų instruktavimas ir mokymas 
 
 
-1. Darbdavys negali reikalauti, kad darbuotojas pradėtų darbą įmonėje, jeigu jis neinstruktuotas saugiai dirbti jam pavestą darbą. Darbuotojai instruktuojami šio Įstatymo 25 straipsnio 6 punkte nustatytais ir kitais atvejais, kai darbdaviui atstovaujantis asmuo, darbdavio įgaliotas asmuo nusprendžia, kad to reikia siekiant apsaugoti darbuotojus nuo traumų ar profesinių ligų. Kai darbuotojui nepakanka profesinių įgūdžių arba instruktuojant suteiktų žinių, kad jis galėtų saugiai dirbti ir nebūtų pakenkta jo sveikatai, darbdaviui atstovaujantis asmuo, darbdavio įgaliotas asmuo organizuoja darbuotojo mokymą darbo vietoje, įmonėje ar mokyklose, mokymo įstaigose, kurios vykdo mokymą vadovaudamosi Mokymo ir žinių darbuotojų saugos ir sveikatos klausimais tikrinimo bendraisiais nuostatais. Darbuotojų instruktavimo ir mokymo tvarką įmonėje nustato darbdaviui atstovaujantis asmuo. 
+1. Darbdavys negali reikalauti, kad darbuotojas pradėtų dirbti jam pavestą darbą įmonėje, jeigu jis neinstruktuotas ir (ar) neišmokytas saugiai jį atlikti. Darbuotojas instruktuojamas atsižvelgiant į jo darbo vietą ar atliekamą darbą, jį priimant į darbą, perkeliant į kitą darbą ar darbo vietą, pradėjus naudoti naujas ar modernizuotas darbo priemones, naujas technologijas. Kai darbuotojui nepakanka profesinių įgūdžių ir instruktuojant suteiktų žinių, kad jis galėtų saugiai dirbti ir nebūtų pakenkta jo sveikatai, darbdaviui atstovaujantis asmuo arba darbdavio įgaliotas asmuo, atsižvelgdamas į darbuotoją veikiančius kenksmingus ir (ar) pavojingus veiksnius, organizuoja darbuotojo mokymą darbo vietoje, įmonėje ar mokyklose, mokymo įstaigose, kurios vykdo mokymą vadovaudamosi Mokymo ir žinių darbuotojų saugos ir sveikatos klausimais tikrinimo bendraisiais nuostatais. Instruktavimas ir mokymas vykdomas darbuotojo darbo laiku, atnaujinamas pasikeitus ar atsiradus naujai profesinei rizikai ir prireikus kartojamas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1581, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05694
 Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 Nr. XIII-1158, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08529
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
  
 
 
@@ -1490,16 +1503,20 @@ Nr. XIII-1158, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08529
 
 
 
-4. Darbuotojai, paskirti atlikti potencialiai pavojingų įrenginių priežiūrą ar juos pertvarkyti, darbų su potencialiai pavojingais įrenginiais vadovai turi turėti tinkamą kvalifikaciją arba turi būti įgiję specialių žinių ir įgūdžių pagal valstybės institucijų, atsakingų už atskirų kategorijų įrenginių priežiūros organizavimą, nustatytus reikalavimus. Darbuotojų, naudojančių potencialiai pavojingus įrenginius, mokymo ir žinių patikrinimo tvarką nustato darbdavys. 
+4. Darbuotojai, paskirti atlikti nuolatinę potencialiai pavojingų įrenginių priežiūrą ar juos pertvarkyti, darbų su potencialiai pavojingais įrenginiais vadovai privalo turėti tinkamą kvalifikaciją arba turi būti įgiję specialiųjų žinių ir įgūdžių pagal valstybės institucijų, atsakingų už atskirų kategorijų ar kategorijų parametrų potencialiai pavojingų įrenginių priežiūros administracinį reglamentavimą, nustatytus reikalavimus. Darbuotojai, paskirti naudoti potencialiai pavojingus įrenginius, turi būti apmokyti, jų mokymo ir žinių patikrinimo tvarką nustato darbdavys. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 Nr. XIII-1158, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08529
+Nr. XIII-2475, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16485
  
 
 
 
 
-5. Darbuotojų, dirbančių pavojingus darbus, kurių sąrašą tvirtina Vyriausybė, mokymo ir žinių iš darbuotojų saugos ir sveikatos srities patikrinimo bei šių darbų saugaus atlikimo tvarką nustato darbdavys, išskyrus atvejus, kai įstatymai ar kiti norminiai teisės aktai nustato kitokią šių darbuotojų mokymo, žinių tikrinimo bei saugaus darbų atlikimo tvarką.
+5. Neteko galios 2020-05-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
+ 
 
 
 
@@ -2133,12 +2150,18 @@ DARBUOTOJŲ SAUGOS IR SVEIKATOS BŪKLĖS VERTINIMAS
 39 straipsnis. Darbuotojų saugos ir sveikatos būklės vertinimas
 
 
-1. Darbuotojų saugos ir sveikatos būklė nustatoma pagal tai, kaip darbo priemonės ir darbo sąlygos įmonėje atitinka darbuotojų saugos ir sveikatos norminiuose teisės aktuose nustatytus reikalavimus, įvertinus profesinę riziką darbo vietose ar kitose įmonės vietose, kur darbuotojas gali būti darbo laiku.
+1. Darbuotojų saugos ir sveikatos būklė nustatoma įvertinus profesinę riziką pagal tai, kaip darbo priemonės ir darbo sąlygos įmonėje atitinka darbuotojų saugos ir sveikatos norminiuose teisės aktuose nustatytus reikalavimus, kokie kenksmingi ir (ar) pavojingi veiksniai nustatyti darbo vietose ar kitose įmonės vietose, kur darbuotojai gali būti darbo laiku, kokie profesinės rizikos įvertinimo rezultatai, kokių prevencijos priemonių imtasi profesinei rizikai šalinti ar mažinti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
+ 
 
 
 
 
-2. Darbo priemonių, darbo sąlygų, iš jų – darbo aplinkos atitiktis darbuotojų saugos ir sveikatos norminių teisės aktų reikalavimams nustatoma atlikus profesinės rizikos tyrimus ir įvertinus šio tyrimo rezultatus.
+2. Neteko galios 2020-05-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
+ 
 
 
 
