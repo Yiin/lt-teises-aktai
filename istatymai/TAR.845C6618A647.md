@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
  
@@ -792,7 +792,14 @@ Nr. XI-1418, 2011-05-26, Žin., 2011, Nr. 72-3469 (2011-06-14), i. k. 1111010IST
 
 
 
-16) asmenų sulaikymas įstatymų nustatyta tvarka, siekiant užkirsti žmonių užkrečiamųjų ligų plitimą, šių asmenų hospitalizavimas ir izoliavimas bei gydymas. Ligonių ir asmenų, įtariamų, kad serga, turėjusių sąlytį su sergančiu asmeniu, ligos sukėlėjo nešiotoju ar sukėlėjus perduodančiais veiksniais, bei sukėlėjų nešiotojų priverstinio hospitalizavimo, izoliavimo ir gydymo ypatumus nustato įstatymai.
+16) asmenų sulaikymas įstatymų nustatyta tvarka, siekiant užkirsti žmonių užkrečiamųjų ligų plitimą, šių asmenų hospitalizavimas ir izoliavimas bei gydymas. Ligonių ir asmenų, įtariamų, kad serga, turėjusių sąlytį su sergančiu asmeniu, ligos sukėlėjo nešiotoju ar sukėlėjus perduodančiais veiksniais, bei sukėlėjų nešiotojų priverstinio hospitalizavimo, izoliavimo ir gydymo ypatumus nustato įstatymai;
+
+
+
+
+17) gyventojams, valstybės ir savivaldybių institucijoms ir įstaigoms, kitoms įstaigoms ir ūkio subjektams būtinų prekių ir (ar) paslaugų maksimalių didmeninių ir (ar) mažmeninių kainų bei šių prekių kitų pardavimo ar teikimo būtinų apribojimų nustatymas įstatymų nustatyta tvarka.
+Papildyta straipsnio punktu:
+Nr. XIII-2865, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09206
  
 
 
@@ -984,3 +991,8 @@ Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 28 straipsnio
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
 Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 3, 13, 14, 15, 16, 20, 21, 24 ir 31 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2865, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09206
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 28 straipsnio pakeitimo įstatymas
