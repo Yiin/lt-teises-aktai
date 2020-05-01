@@ -20,9 +20,14 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-02-08 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2020-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
+ 
+TAR pastaba. Iki įstatymo Nr. XIII-2795 įsigaliojimo (2020-05-01) nustatytiems ir nepašalintiems Aplinkos apsaugos įstatymo 19-1 ir 19-2 straipsniuose nurodytų leidimų sąlygų pažeidimams, susijusiems su leidime nustatytos leistinos taršos (kiekio ir (ar) koncentracijos), atliekų susidarymo, laikymo normatyvų viršijimu, Aplinkos apsaugos įstatymo 19-1 straipsnio 14 dalies 9 punkte ir 19-2 straipsnio 11 dalies 9 punkte nurodytas 6 mėnesių terminas skaičiuojamas nuo 2020 m. gegužės 1 d.   Iki šio įstatymo įsigaliojimo neįvykdžius nutarimo stabdyti aplinkai kenksmingą veiklą, priimto iki 2020 m. gegužės 1 d. galiojusia Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka, Aplinkos apsaugos įstatymo 19-1 ir 19-2 straipsniuose nurodytų leidimų galiojimas panaikinamas vadovaujantis iki šio įstatymo įsigaliojimo galiojusia Aplinkos apsaugos įstatymo 19-1 straipsnio 14 dalies 5 punkte arba iki šio įstatymo įsigaliojimo galiojusia Aplinkos apsaugos įstatymo 19-2 straipsnio 11 dalies 5 punkto nuostata.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 47, 55, 126, 127 straipsnių pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymas
  
  
 LIETUVOS RESPUBLIKOS APLINKOS APSAUGOS ĮSTATYMAS
@@ -949,38 +954,52 @@ IV SKYRIUS. ŪKINĖS VEIKLOS REGULIAVIMAS
 15 straipsnis. Ūkinės veiklos, galinčios turėti poveikį aplinkai, planavimas ir leidimų išdavimas
 
 
-Fizinio asmens, juridinio asmens ar jo padalinio (įskaitant užsienio valstybės juridinį asmenį ar kitą organizaciją, taip pat jų padalinį) (toliau šiame straipsnyje – fizinis ar juridinis asmuo) ūkinės veiklos, galinčios turėti poveikį aplinkai, planavimas vykdomas pagal teritorijų planavimo dokumentus.
+Planuojamos ūkinės veiklos organizatorius (užsakovas), planuojantis vykdyti ūkinę veiklą, kuriai reikia atlikti Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatytas procedūras, šias procedūras atlieka iki leidimo, nurodyto šio straipsnio trečiojoje dalyje, išdavimo.
 
 
 
 
-Planuojamos ūkinės veiklos organizatorius (užsakovas), planuojantis vykdyti ūkinę veiklą, kuriai reikia atlikti Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme nustatytas procedūras, šias procedūras atlieka iki leidimo, nurodyto šio straipsnio ketvirtojoje dalyje, išdavimo. 
+Valstybės institucijos ir savivaldybės vykdomoji institucija, įstatymuose nustatyta tvarka dalyvaujančios planuojamos ūkinės veiklos poveikio aplinkai vertinimo (toliau šiame straipsnyje – poveikio aplinkai vertinimas) ar atrankos dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo (toliau šiame straipsnyje – atranka) procese, įstatymų nustatyta tvarka įvertina pateiktus poveikio aplinkai vertinimo dokumentus ir pagal kompetenciją teikia išvadas arba motyvuotą sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai ar pateikia pasiūlymus dėl atrankos informacijos ir (ar) planuojamos ūkinės veiklos poveikio aplinkai vertinimo. 
 
 
 
 
-Valstybės institucijos ir savivaldybės vykdomoji institucija, įstatymuose nustatyta tvarka dalyvaujančios planuojamos ūkinės veiklos poveikio aplinkai vertinimo procese, įstatymų nustatyta tvarka įvertina pateiktus poveikio aplinkai vertinimo dokumentus ir pagal kompetenciją pateikia išvadas arba motyvuotą sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai. 
+Įstatymuose įtvirtinti leidimai (statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes, taršos integruotos prevencijos ir kontrolės leidimas, taršos leidimas ir kituose įstatymuose nurodyti leidimai), kuriuos išduodant nustatyta pareiga kartu su prašymu leidimus išduodančiai institucijai pateikti atsakingosios institucijos sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus (toliau šiame straipsnyje – sprendimas), ar atrankos dėl poveikio aplinkai vertinimo išvadą, kad poveikio aplinkai vertinimas neprivalomas (toliau šiame straipsnyje – atrankos išvada), išskyrus atvejus, kai taršos integruotos prevencijos ir kontrolės leidimas ar taršos leidimas yra keičiamas dėl priežasčių, nesusijusių su eksploatuojamo įrenginio ar įrenginyje vykdomos ūkinės veiklos pakeitimu ar išplėtimu, gali būti išduodami tik kai yra galiojantis atsakingosios institucijos sprendimas ar atrankos išvada. Jeigu planuojamai ūkinei veiklai vykdyti nereikia jokių įstatymuose nustatytų leidimų, ūkinė veikla gali būti pradėta tik gavus sprendimą ar atrankos išvadą.
 
 
 
 
-Įstatymuose įtvirtinti leidimai (statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes, taršos integruotos prevencijos ir kontrolės leidimas, taršos leidimas ir kituose įstatymuose nurodyti leidimai), kuriuos išduodant nustatyta pareiga kartu su prašymu leidimus išduodančiai institucijai pateikti atsakingosios institucijos sprendimą dėl planuojamos ūkinės veiklos poveikio aplinkai, pagal kurį planuojama ūkinė veikla atitinka teisės aktų reikalavimus (toliau šiame straipsnyje – sprendimas) ar atrankos dėl poveikio aplinkai vertinimo išvadą, kad poveikio aplinkai vertinimas neprivalomas (toliau šiame straipsnyje – atrankos išvada), gali būti išduodami esant galiojančiam atsakingosios institucijos sprendimui ar atrankos išvadai.
-TAR pastaba. Šio įstatymo 15 straipsnio 4 dalyje nustatytas reikalavimas netaikomas, jeigu taršos integruotos prevencijos ir kontrolės leidimas ar taršos leidimas, kuris buvo išduotas, pakeistas ar koreguotas iki 2017 m. lapkričio 1 d., yra keičiamas dėl priežasčių, nesusijusių su eksploatuojamo įrenginio ar įrenginyje vykdomos veiklos pakeitimu ar išplėtimu.
+Jeigu fizinis asmuo, juridinis asmuo ar jo padalinys (įskaitant užsienio valstybės juridinį asmenį ar kitą organizaciją, taip pat jų padalinį) (toliau šiame straipsnyje, šio įstatymo 19, 191, 192 ir 193 straipsniuose – fizinis ar juridinis asmuo) turi galiojantį statybą leidžiantį dokumentą ar leidimą naudoti žemės gelmių išteklius arba ertmes, išduotą sprendimo arba atrankos išvados galiojimo metu, išduodant taršos integruotos prevencijos ir kontrolės leidimą, taršos leidimą ar kitą leidimą, pagal kurį bus vykdoma sprendime ar atrankos išvadoje nurodyta ūkinė veikla, šio straipsnio trečiosios dalies nuostatos netaikomos. Šio straipsnio trečiojoje dalyje nurodyti leidimai turi atitikti sprendime nustatytas sąlygas ir sprendime ir (ar) atrankos išvadoje nurodytą ūkinės veiklos mastą bei charakteristikas, numatytas priemones reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos konkrečiu etapu. 
 
 
 
 
-Jeigu fizinis ar juridinis asmuo turi galiojantį statybą leidžiantį dokumentą ar leidimą naudoti žemės gelmių išteklius arba ertmes, išduotą galiojančios atrankos išvados arba sprendimo galiojimo metu, išduodant taršos integruotos prevencijos ir kontrolės leidimą, taršos leidimą ar kitą leidimą, pagal kurį bus vykdoma atrankos išvadoje ar sprendime nurodyta ūkinė veikla, šio straipsnio ketvirtosios dalies nuostatos netaikomos, išskyrus atvejus, kai planuojamas ūkinės veiklos pakeitimas, galintis sukelti neigiamą poveikį aplinkai.
+Fizinis ar juridinis asmuo, planuojantis, vykdantis ar užbaigiantis ūkinę veiklą, privalo užtikrinti, kad būtų įgyvendintos sprendime nustatytos sąlygos, sprendime ir (ar) atrankos išvadoje nustatytos priemonės reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti pasirengimo vykdyti ūkinę veiklą ir (ar) ūkinės veiklos vykdymo ir (ar) ūkinės veiklos užbaigimo etapais.
 
 
 
 
-Juridiniai ir fiziniai asmenys, rengiantys statinių, kuriuose planuojama vykdyti ūkinę veiklą, galinčią turėti poveikį aplinkai, naujos statybos, rekonstravimo ar kitus Lietuvos Respublikos statybos įstatyme nurodytus projektus, statinio projekte privalo numatyti priemones gamtos ištekliams racionaliai naudoti, suprojektuoti priemones neigiamam poveikiui aplinkai išvengti, užkirsti jam kelią, jį sumažinti bei, jeigu galima, jį kompensuoti ir vadovautis šio straipsnio ketvirtojoje dalyje nurodytu sprendimu ar atrankos išvada, kai sprendimas ar atrankos išvada privalomi pagal teisės aktų reikalavimus. 
+Fizinis ar juridinis asmuo, rengiantis statinių, kuriuose planuojama vykdyti ūkinę veiklą, galinčią daryti poveikį aplinkai, Lietuvos Respublikos statybos įstatyme nurodytus projektus, statinio projekte privalo numatyti priemones gamtos ištekliams racionaliai naudoti, suprojektuoti priemones reikšmingam neigiamam poveikiui aplinkai išvengti, užkirsti jam kelią, jį sumažinti bei, jeigu galima, jį kompensuoti ir vadovautis šio straipsnio trečiojoje dalyje nurodytu sprendimu ar atrankos išvada.
 
 
 
 
-Statinių, kuriuose bus vykdoma ūkinė veikla, galinti turėti poveikį aplinkai, statybos ar rekonstravimo projektų atitiktį aplinkos apsaugos reikalavimams prieš išduodant statybą leidžiantį dokumentą tikrina už aplinkos apsaugą atsakinga institucija, nurodyta Lietuvos Respublikos statybos įstatyme. Šio straipsnio ketvirtojoje dalyje nurodytas leidimas turi atitikti sprendime ar atrankos išvadoje nurodytus sprendinius. 
+Valstybės institucijos ir savivaldybės vykdomoji institucija, nagrinėjusios poveikio aplinkai vertinimo dokumentus ar informaciją atrankai ir nurodytos Statybos įstatyme, tikrindamos statinių, kuriuose bus vykdoma ūkinė veikla, kuriai atliktas poveikio aplinkai vertinimas arba atranka, statybos ar rekonstravimo projektų atitiktį, pagal kompetenciją tikrina, ar bus įgyvendintos sprendime nustatytos sąlygos ir suprojektuotos sprendime ir (ar) išvadoje numatytos priemonės reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos konkrečiu statybos etapu. Papildomai aplinkos ministro įgaliota institucija tikrina, ar statinių, kuriuose bus vykdoma ūkinė veikla, kuriai atliktas poveikio aplinkai vertinimas arba atranka, statybos ar rekonstravimo projektai:
+
+
+1) atitinka sprendime ar atrankos išvadoje nurodytą ūkinės veiklos mastą ir charakteristikas;
+
+
+
+
+2) ar nepasibaigęs sprendimo arba atrankos išvados galiojimo terminas;
+
+
+
+
+3) ar statinio projektas atitinka aplinkos apsaugą reglamentuojančių teisės aktų reikalavimus. 
+
+
 Straipsnio pakeitimai:
 Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 Nr. VIII-1637, 00.04.18, Žin., 2000, Nr.39-1093 (00.05.12)
@@ -989,6 +1008,7 @@ Nr. XII-287, 2013-05-09, Žin., 2013, Nr. 55-2727 (2013-05-28)
 
 Straipsnio pakeitimai:
 Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
  
 
 
@@ -1058,22 +1078,22 @@ Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
 191 straipsnis. Taršos integruotos prevencijos ir kontrolės leidimas
 
 
-Taršos integruotos prevencijos ir kontrolės leidimų (toliau šiame straipsnyje – TIPK leidimas) išdavimo, pakeitimo ir galiojimo panaikinimo taisykles (toliau – TIPK taisyklės) tvirtina aplinkos ministras. Šios taisyklės nustato paraiškos TIPK leidimui gauti ar pakeisti (toliau – TIPK paraiška) rengimo, pateikimo ir aplinkos ministro įgaliotos institucijos atliekamo gautos TIPK paraiškos viešinimo, nagrinėjimo, derinimo, priėmimo, TIPK leidimo projekto rengimo, TIPK leidimo išdavimo, TIPK leidimo sąlygų peržiūrėjimo, TIPK leidimo pakeitimo ir galiojimo panaikinimo tvarką, taip pat informacijos teikimo kitai Europos Sąjungos valstybei narei, konsultavimosi su kita Europos Sąjungos valstybe nare, informavimo apie priimtą sprendimą išduoti TIPK leidimą tvarką, kitos Europos Sąjungos valstybės narės visuomenės informavimo tvarką. 
+Taršos integruotos prevencijos ir kontrolės leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisykles (toliau – TIPK taisyklės) tvirtina aplinkos ministras, suderinęs su sveikatos apsaugos ministru. TIPK taisyklėse nustatyta paraiškos taršos integruotos prevencijos ir kontrolės leidimui gauti ar pakeisti (toliau – TIPK paraiška) rengimo, pateikimo ir aplinkos ministro įgaliotos institucijos atliekamo gautos TIPK paraiškos viešinimo, nagrinėjimo, derinimo, priėmimo, taršos integruotos prevencijos ir kontrolės leidimo (toliau šiame straipsnyje – TIPK leidimas) projekto rengimo, TIPK leidimo išdavimo, TIPK leidimo sąlygų peržiūrėjimo, TIPK leidimo pakeitimo ir galiojimo panaikinimo tvarka, taip pat informacijos teikimo kitai Europos Sąjungos valstybei narei, konsultavimosi su kita Europos Sąjungos valstybe nare, informavimo apie priimtą sprendimą išduoti TIPK leidimą tvarka, kitos Europos Sąjungos valstybės narės visuomenės informavimo tvarka.
 
 
 
 
-Fizinis ar juridinis asmuo turi teisę eksploatuoti TIPK taisyklėse nurodytą įrenginį (jo dalį, kelis įrenginius ar jų dalis), šio asmens eksploatuojamą ar valdomą nuosavybės teisės, nuomos, panaudos, patikėjimo teisės ar kitu teisiniu pagrindu, tik turėdamas galiojantį TIPK leidimą ir jame nustatytomis sąlygomis. Fizinis ar juridinis asmuo privalo eksploatuoti įrenginį (jo dalį, kelis įrenginius ar jų dalis), nurodytą TIPK taisyklėse, laikydamasis šių principų: imasi visų reikiamų taršos prevencijos priemonių; taiko geriausius prieinamus gamybos būdus, kurių apibrėžtį nustato aplinkos ministras, suderinęs su žemės ūkio ir ūkio ministrais; nesukelia didelės taršos; užtikrina atliekų prevenciją, o jeigu atliekos susidaro, laikydamasis Lietuvos Respublikos atliekų tvarkymo įstatyme nustatytų atliekų tvarkymo prioritetų eiliškumo, užtikrina, kad jos būtų paruoštos naudoti pakartotinai, perdirbtos, kitaip panaudotos, o kai tai techniškai ir ekonomiškai neįmanoma, – pašalintos, stengiantis išvengti bet kokio poveikio aplinkai arba jį sumažinti; energiją naudoja efektyviai; imasi priemonių, būtinų avarijoms išvengti ir (ar) jų padariniams apriboti; galutinai nutraukdamas veiklą, imasi priemonių, būtinų taršos grėsmei išvengti ir eksploatavimo vietos būklei tinkamai atkurti.
+Fizinis ar juridinis asmuo turi teisę eksploatuoti TIPK taisyklėse nurodytą įrenginį (jo dalį, kelis įrenginius ar jų dalis), šio asmens eksploatuojamą ar valdomą nuosavybės teisės, nuomos, panaudos, patikėjimo teisės ar kitu teisiniu pagrindu, tik turėdamas galiojantį TIPK leidimą ir jame nustatytomis sąlygomis. Fizinis ar juridinis asmuo privalo eksploatuoti įrenginį (jo dalį, kelis įrenginius ar jų dalis), nurodytą TIPK taisyklėse, laikydamasis šių principų: imasi visų reikiamų taršos ir kvapų prevencijos priemonių; taiko geriausius prieinamus gamybos būdus, kurių apibrėžtį nustato aplinkos ministras, suderinęs su žemės ūkio ministru ir ekonomikos ir inovacijų ministru; nesukelia didelės taršos; užtikrina atliekų prevenciją, o jeigu atliekos susidaro, laikydamasis Atliekų tvarkymo įstatyme nustatytų atliekų tvarkymo prioritetų eiliškumo, užtikrina, kad jos būtų paruoštos naudoti pakartotinai, perdirbtos, kitaip panaudotos, o kai tai techniškai ir ekonomiškai neįmanoma, – pašalintos, stengiantis išvengti bet kokio poveikio aplinkai arba jį sumažinti; energiją naudoja efektyviai; imasi priemonių, būtinų avarijoms išvengti ir (ar) jų padariniams apriboti; galutinai nutraukdamas ūkinę veiklą, imasi priemonių, būtinų taršos grėsmei išvengti ir eksploatavimo vietos būklei tinkamai atkurti.
 
 
 
 
-TIPK leidimus išduoda, keičia ir jų galiojimą panaikina aplinkos ministro įgaliota institucija. 
+TIPK leidimus išduoda, keičia ir jų galiojimą panaikina aplinkos ministro įgaliota institucija.
 
 
 
 
-TIPK paraiškas derina ir pagal kompetenciją dalyvauja nustatant TIPK leidimo sąlygas Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos, vykdydamas Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo ir Lietuvos Respublikos triukšmo valdymo įstatymo jam priskirtas funkcijas triukšmo valdymo ir kvapų kontrolės srityje TIPK taisyklėse nustatyta tvarka ir terminais.
+TIPK paraiškas derina ir pagal kompetenciją nustato ir peržiūri TIPK leidimo sąlygas Nacionalinis visuomenės sveikatos centras prie Sveikatos apsaugos ministerijos (toliau – NVS centras), vykdydamas Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo ir Lietuvos Respublikos triukšmo valdymo įstatymo jam priskirtas funkcijas triukšmo ir kvapų valdymo srityje TIPK taisyklėse nustatyta tvarka ir terminais.
 
 
 
@@ -1083,7 +1103,7 @@ Aplinkos ministro įgaliota institucija apie gautą TIPK paraišką ir apie gali
 
 
 
-Sprendimą priimti TIPK paraišką priima aplinkos ministro įgaliota institucija, atlikusi gautos TIPK paraiškos viešinimo ir derinimo procedūras, kai yra gautas šio straipsnio ketvirtojoje dalyje nurodytos įstaigos sprendimas derinti TIPK paraišką arba kai per TIPK taisyklėse nustatytą terminą šios įstaigos sprendimas derinti TIPK paraišką ar jos nederinti nepateiktas, ir nustačiusi, kad paraiškoje pateikti visi tinkamai įforminti duomenys ir (ar) dokumentai, reikalingi TIPK leidimo sąlygoms nustatyti. 
+Sprendimą priimti TIPK paraišką priima aplinkos ministro įgaliota institucija, atlikusi gautos TIPK paraiškos viešinimo ir derinimo procedūras, kai yra gautas NVS centro sprendimas su jame nustatytomis TIPK leidimo triukšmo ir kvapų valdymo sąlygomis, jeigu tokios sąlygos turi būti nustatytos, arba kai per TIPK taisyklėse nustatytą terminą šis sprendimas arba sprendimas nederinti TIPK paraiškos nepateiktas, ir nustačiusi, kad paraiškoje pateikti visi tinkamai įforminti duomenys ir (ar) dokumentai, reikalingi TIPK leidimo sąlygoms nustatyti.
 
 
 
@@ -1101,17 +1121,37 @@ Sprendimas nepriimti TIPK paraiškos priimamas, kai yra bent viena iš šių są
 
 
 
-2) anksčiau išduoto TIPK leidimo galiojimas buvo panaikintas šio straipsnio keturioliktosios dalies 2 ar 5 punktuose nurodytais atvejais ir nepašalintos priežastys, lėmusios TIPK leidimo galiojimo panaikinimą;
+2) anksčiau išduoto TIPK leidimo galiojimas buvo panaikintas šio straipsnio keturioliktosios dalies 5 ar 8 punkte nurodytais atvejais ir nepašalintos priežastys, lėmusios TIPK leidimo galiojimo panaikinimą;
 
 
 
 
-3) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jei ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas TIPK leidimas;
+3) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jeigu ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas TIPK leidimas;
 
 
 
 
-4) nėra atrankos išvados dėl poveikio aplinkai vertinimo arba sprendimo dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, arba ši išvada ar sprendimas nebegalioja, jei ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas TIPK leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai.
+4) nėra atrankos išvados dėl poveikio aplinkai vertinimo arba sprendimo dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, arba ši išvada ar šis sprendimas nebegalioja, jeigu ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas TIPK leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai;
+
+
+
+
+5) TIPK paraiška pateikta dėl ūkinės veiklos, kuri uždrausta įstatymais;
+
+
+
+
+6) TIPK paraiška pateikta dėl įrenginio (jo dalies, kelių įrenginių ar jų dalių) arba dėl įrenginio esminio pakeitimo, nurodyto šio straipsnio vienuoliktojoje dalyje, jeigu Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme nurodyta tvarka nustatyta, kad įrenginys (jo dalis, keli įrenginiai ar jų dalys) jau eksploatuojamas ar įrenginio esminis pakeitimas jau atliktas neteisėtai ir pažeidimas nepašalintas arba įrenginyje (jo dalyje, keliuose įrenginiuose ar jų dalyse), dėl kurių pateikta TIPK paraiška, Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka nustatyti pažeidimai nenutraukti ir (ar) nepašalinti pažeidimų padariniai;
+
+
+
+
+7) paraiškoje nenumatytos priemonės sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos iki ūkinės veiklos pradžios, ar atrankos dėl poveikio aplinkai vertinimo išvadoje, kad poveikio aplinkai vertinimas neprivalomas, nustatytų priemonių reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos iki ūkinės veiklos pradžios, įgyvendinimui;
+
+
+
+
+8) fizinis asmuo TIPK paraiškos pateikimo metu eksploatuoja arba eksploatavo ūkinės veiklos objektą ar įrenginį, kuriam buvo panaikintas TIPK leidimas šio straipsnio keturioliktosios dalies 9 punkte nurodytu pagrindu ir nepraėjo penkeri metai nuo anksčiau turėto taršos leidimo galiojimo panaikinimo dienos arba juridinio asmens vadovas TIPK paraiškos pateikimo metu yra ar buvo vadovas juridinio asmens, eksploatuojančio ar eksploatavusio ūkinės veiklos objektą ar įrenginį, kuriam jo vadovavimo metu buvo panaikintas TIPK leidimo galiojimas šio straipsnio keturioliktosios dalies 9 punkte nurodytu pagrindu, ir nepraėjo penkeri metai nuo anksčiau turėto TIPK leidimo galiojimo panaikinimo dienos.
 
 
 
@@ -1126,59 +1166,84 @@ Sprendimą išduoti ar pakeisti TIPK leidimą arba sprendimą neišduoti ar neke
 Sprendimas neišduoti ar nekeisti TIPK leidimo priimamas, kai yra bent viena iš šių sąlygų:
 
 
-1) po sprendimo priimti TIPK paraišką priėmimo įrodoma teisėtomis priemonėmis, kad TIPK paraiškoje ir (ar) kituose dokumentuose, kuriuos reikalaujama pateikti pagal TIPK taisykles norint gauti ar pakeisti TIPK leidimą, buvo pateikta melaginga informacija;
+1) po sprendimo priimti TIPK paraišką priėmimo nustatoma, kad TIPK paraiškoje ir (ar) kituose dokumentuose, kuriuos reikalaujama pateikti pagal TIPK taisykles norint gauti ar pakeisti TIPK leidimą, buvo pateikta neteisinga informacija, kuria remiantis turėtų būti nustatomos TIPK leidimo sąlygos;
 
 
 
 
-2) po TIPK paraiškos priėmimo yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jei ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas TIPK leidimas;
+2) po sprendimo priimti TIPK paraišką priėmimo įsiteisėja teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jeigu ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas TIPK leidimas;
 
 
 
 
-3) nebegalioja atrankos išvada dėl poveikio aplinkai vertinimo arba sprendimas dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jei ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas TIPK leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai.
+3) nebegalioja atrankos išvada dėl poveikio aplinkai vertinimo arba sprendimas dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jeigu ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas TIPK leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai;
 
 
 
 
-
-
-TIPK leidimas turi būti pakeistas, kai yra bent viena iš šių sąlygų:
-
-
-1) planuojamas esminis pakeitimas (t. y. planuojama pakeisti įrenginio (jo dalies, kelių įrenginių ar jų dalių), kuriam išduotas TIPK leidimas, pobūdį ar veikimą arba planuojama jį išplėsti, kai toks pakeitimas ar išplėtimas gali turėti reikšmingą neigiamą poveikį žmonių sveikatai arba aplinkai, kaip nustatyta Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, arba kai toks pakeitimas ar išplėtimas atitinka arba viršija TIPK taisyklėse nustatytas įrenginio pajėgumo ribas);
+4) po sprendimo priimti TIPK paraišką priėmimo paaiškėja, kad TIPK paraiška pateikta dėl ūkinės veiklos, kuri uždrausta įstatymais;
 
 
 
 
-2) išduotame TIPK leidime nustatytos sąlygos ir terminai, dėl kurių TIPK leidimas turi būti pakeistas;
-
-
-
-
-3) aplinkos ministro įgaliota institucija TIPK taisyklėse nustatyta tvarka nustato, kad, įsigaliojus naujiems arba pasikeitus Europos Sąjungos aplinkos apsaugos teisės aktų, aplinkos apsaugą reglamentuojančių įstatymų ir jų įgyvendinamųjų teisės aktų, aplinkos apsaugos normatyvų, aplinkos apsaugos standartų, aplinkos kokybės normų reikalavimams, turi būti nustatytos griežtesnės ar papildomos TIPK leidimo sąlygos arba kad yra galimybė TIPK taisyklėse nustatyta tvarka taikyti kitas išmetamų teršalų sumažinimo priemones.
+5) po sprendimo priimti TIPK paraišką priėmimo, kai TIPK paraiška pateikta dėl naujo įrenginio arba įrenginio esminio pakeitimo, nurodyto šio straipsnio vienuoliktojoje dalyje, paaiškėja, kad Aplinkos apsaugos valstybinės kontrolės įstatyme nurodyta tvarka nustatyta, kad ūkinė veikla jau vykdoma ar ūkinės veiklos pakeitimas jau atliktas neteisėtai ir pažeidimas nepašalintas. 
 
 
 
 
 
 
-Šio straipsnio vienuoliktojoje dalyje nurodytais atvejais fizinis ar juridinis asmuo privalo TIPK taisyklėse nustatyta tvarka pateikti aplinkos ministro įgaliotai institucijai TIPK paraišką dėl TIPK leidimo pakeitimo:
-
-
-1) šio straipsnio vienuoliktosios dalies 1 arba 2 punkte nurodytais atvejais – savo iniciatyva arba 
+Fizinis ar juridinis asmuo, norėdamas daryti įrenginio, kuriam išduotas TIPK leidimas, esminį pakeitimą (t. y. pakeisti įrenginio (jo dalies, kelių įrenginių ar jų dalių) pobūdį ar veikimą arba jį išplėsti, kai toks pakeitimas ar išplėtimas gali turėti reikšmingą neigiamą poveikį žmonių sveikatai arba aplinkai, kaip nustatyta Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, arba kai toks pakeitimas ar išplėtimas atitinka arba viršija TIPK taisyklėse nustatytas įrenginio pajėgumo ribas), turi TIPK taisyklėse nustatyta tvarka kreiptis dėl TIPK leidimo pakeitimo. Tam, kad TIPK leidime būtų nustatytos su planuojamu įrenginio esminiu pakeitimu susijusios sąlygos, fizinis ar juridinis asmuo privalo TIPK taisyklėse nustatyta tvarka pateikti aplinkos ministro įgaliotai institucijai TIPK paraišką dėl TIPK leidimo pakeitimo. Jeigu planuojamas pakeitimas nėra esminis, TIPK taisyklėse nustatyta tvarka fizinis ar juridinis asmuo privalo raštu pranešti aplinkos ministro įgaliotai institucijai apie planuojamus įrenginio pobūdžio arba veikimo pakeitimus ar išplėtimą, kurie gali daryti poveikį aplinkai, o aplinkos ministro įgaliota institucija įvertina, ar pakeitimai galimi, ir priima sprendimą dėl poreikio keisti leidimo sąlygas ar patį leidimą. 
 
 
 
 
-2) kai aplinkos ministro įgaliota institucija, siekdama užtikrinti šio straipsnio antrojoje dalyje nurodytų principų laikymąsi ir kad TIPK leidimo sąlygos atitiktų teisės aktų reikalavimus, TIPK taisyklėse nustatyta tvarka peržiūri TIPK leidimo sąlygas, nustato, kad atsirado bent viena šio straipsnio vienuoliktojoje dalyje nurodytų TIPK leidimo keitimo sąlygų, ir priima sprendimą dėl prievolės pakeisti TIPK leidimą, – gavęs šį sprendimą. Apie šį sprendimą fizinis ar juridinis asmuo informuojamas raštu per 3 darbo dienas nuo sprendimo priėmimo dienos. Gavęs šiame punkte nurodytą sprendimą, fizinis ar juridinis asmuo privalo šiame sprendime nustatytais terminais pateikti aplinkos ministro įgaliotai institucijai TIPK paraišką dėl TIPK leidimo pakeitimo. Paraiškos pateikimo terminas turi būti ne trumpesnis kaip 20 darbo dienų.
+Aplinkos ministro įgaliota institucija, siekdama užtikrinti šio straipsnio antrojoje dalyje nurodytų principų laikymąsi ir TIPK leidimo sąlygų atitiktį teisės aktų reikalavimams, TIPK taisyklėse nustatyta tvarka peržiūri TIPK leidimo sąlygas ir, nustačiusi, kad atsirado bent viena šioje dalyje nurodytų TIPK leidimo keitimo sąlygų, arba gavusi NVS centro pranešimą, kad TIPK leidimo sąlygos dėl šios dalies 3 ir 4 punktuose nurodytų priežasčių turi būti keičiamos, priima sprendimą dėl prievolės pakeisti TIPK leidimą. Apie šį sprendimą fizinis ar juridinis asmuo informuojamas raštu per 3 darbo dienas nuo sprendimo priėmimo dienos. Gavęs šiame punkte nurodytą sprendimą, fizinis ar juridinis asmuo privalo šiame sprendime nustatytais terminais pateikti aplinkos ministro įgaliotai institucijai TIPK paraišką dėl TIPK leidimo pakeitimo. Paraiškos pateikimo terminas turi būti ne trumpesnis kaip 20 darbo dienų, o šios dalies 4 ir 5 punktuose nurodytais atvejais – ne trumpesnis kaip 20 darbo dienų ir ne ilgesnis kaip 30 darbo dienų. TIPK leidimas turi būti pakeistas, kai yra bent viena iš šių sąlygų:
+
+
+1) išduotame TIPK leidime nustatytos sąlygos ir terminai, dėl kurių TIPK leidimas turi būti pakeistas;
+
+
+
+
+2) aplinkos ministro įgaliota institucija TIPK taisyklėse nustatyta tvarka nustato, kad, įsigaliojus naujiems arba pasikeitus Europos Sąjungos aplinkos apsaugos teisės aktų, aplinkos apsaugą reglamentuojančių įstatymų ir jų įgyvendinamųjų teisės aktų, aplinkos apsaugos normatyvų, aplinkos apsaugos standartų, aplinkos kokybės normų reikalavimams, turi būti nustatytos griežtesnės ar papildomos TIPK leidimo sąlygos;
+
+
+
+
+3) NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo ir Triukšmo valdymo įstatymo jam priskirtas funkcijas triukšmo ir kvapų valdymo srityje, nustato, kad, pasikeitus arba įsigaliojus naujiems visuomenės sveikatos priežiūrą reguliuojantiems teisės aktams, TIPK leidime turi būti nustatytos griežtesnės ar papildomos triukšmo ar kvapų valdymo sąlygos arba kad turi būti taikomos kitos triukšmo ar kvapų sumažinimo priemonės;
+
+
+
+
+4) NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo ir Triukšmo valdymo įstatymo jam priskirtas funkcijas triukšmo ir kvapų valdymo srityje, 2 kartus per metus nustato, kad fizinis ar juridinis asmuo pažeidė TIPK leidime nurodytas triukšmo ar kvapų valdymo sąlygas, ir pateikia sprendimą, kad tokių pažeidimų prevencijai reikia sugriežtinti arba įrašyti papildomas TIPK leidimo sąlygas;
+
+
+
+
+5) fiziniam ar juridiniam asmeniui 2 kartus per metus pažeidus TIPK leidimo sąlygas, susijusias su neleistinu teršalų patekimu į aplinką, atliekų susidarymu, laikymu ar apdorojimu arba neteisėtu gamtos išteklių naudojimu, jeigu tokių pažeidimų prevencijai reikia sugriežtinti arba įrašyti papildomas TIPK leidimo sąlygas;
+
+
+
+
+6) aplinkos monitoringo ar aplinkos apsaugos valstybinės kontrolės rezultatai rodo, kad įrenginio leistina tarša daro reikšmingą neigiamą poveikį aplinkai, todėl būtina TIPK leidime įrašytas išmetamų teršalų ribines vertes pakeisti ar į TIPK leidimą įrašyti naujas ribines vertes; 
+
+
+
+
+7) esamas gamybos būdas neleidžia užtikrinti saugaus įrenginio eksploatavimo ir dėl to įrenginiui saugiai eksploatuoti turi būti naudojami kiti gamybos būdai;
+
+
+
+
+8) kai leidimo sąlygos neatitinka įrenginiui taikytinų pakeistų arba naujų geriausių prieinamų gamybos būdų arba jų nepakanka.
 
 
 
 
 
 
-Jei aplinkos ministro įgaliota institucija, atlikusi TIPK leidimo sąlygų peržiūrą, nenustato bent vienos šio straipsnio vienuoliktojoje dalyje nustatytos TIPK leidimo keitimo sąlygos, ji priima sprendimą nekeisti TIPK leidimo. Šis sprendimas laikomas neatsiejama TIPK leidimo dalimi.
+Jeigu aplinkos ministro įgaliota institucija, atlikusi TIPK leidimo sąlygų peržiūrą, nenustato bent vienos šio straipsnio dvyliktojoje dalyje nustatytos TIPK leidimo keitimo sąlygos, TIPK taisyklėse nustatyta tvarka ji priima sprendimą nekeisti TIPK leidimo. Šis sprendimas laikomas neatsiejama TIPK leidimo dalimi. 
 
 
 
@@ -1186,45 +1251,66 @@ Jei aplinkos ministro įgaliota institucija, atlikusi TIPK leidimo sąlygų per�
 Sprendimas panaikinti TIPK leidimo galiojimą priimamas, kai yra bent viena iš šių sąlygų:
 
 
-1) aplinkos ministro įgaliotai institucijai priėmus sprendimą dėl prievolės pakeisti TIPK leidimą, TIPK leidimo turėtojas per sprendime nustatytą terminą TIPK taisyklėse nustatyta tvarka nepateikia TIPK paraiškos dėl leidimo pakeitimo;
+1) TIPK leidimo turėtojo prašymu;
 
 
 
 
-2) teisėtomis priemonėmis įrodyta, kad TIPK leidimui gauti ir (ar) pakeisti buvo pateikta melaginga informacija, kuria remiantis buvo nustatytos TIPK leidimo sąlygos;
+2) aplinkos ministro įgaliotai institucijai šio straipsnio dvyliktojoje dalyje nustatyta tvarka priėmus sprendimą dėl prievolės pakeisti TIPK leidimą, TIPK leidimo turėtojas per sprendime nustatytą terminą TIPK taisyklėse nustatyta tvarka nepateikia šiame sprendime nurodytus reikalavimus atitinkančios TIPK paraiškos dėl TIPK leidimo pakeitimo;
 
 
 
 
-3) TIPK leidimo turėtojo prašymu;
+3) jeigu šio straipsnio aštuntosios dalies 1 punkte nustatytu atveju aplinkos ministro įgaliotai institucijai priėmus sprendimą nepriimti TIPK paraiškos TIPK leidimo turėtojas per aplinkos ministro įgaliotos institucijos nustatytą terminą nepateikia pataisytos TIPK paraiškos, kai to reikia dėl šio straipsnio dvyliktosios dalies 2, 3, 6, 7 ir 8 punktuose nurodytų sąlygų;
 
 
 
 
-4) TIPK leidimą turintis juridinis asmuo likviduotas, TIPK leidimą turintis fizinis asmuo mirė, teismas jį pripažino neveiksniu ar ribotai veiksniu srityje, susijusioje su šio straipsnio antrojoje dalyje nurodyto įrenginio (jo dalies, kelių įrenginių ar jų dalių) eksploatavimu, arba nežinia kur esančiu, jeigu asmens teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo TIPK taisyklėse nustatyta tvarka nesikreipia dėl TIPK leidime nurodytų formalių duomenų patikslinimo;
+4) jeigu šio straipsnio aštuntosios dalies 1 punkte nustatytu atveju aplinkos ministro įgaliotai institucijai priėmus sprendimą nepriimti TIPK paraiškos TIPK leidimo turėtojas per 20 darbo dienų nepateikia pataisytos TIPK paraiškos, kai to reikia dėl šio straipsnio dvyliktosios dalies 4 ir 5 punktuose nurodytų sąlygų;
 
 
 
 
-5) neįvykdytas Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo nustatyta tvarka priimtas nutarimas sustabdyti aplinkai kenksmingą veiklą;
+5) teisėtomis priemonėmis įrodyta, kad TIPK leidimui gauti ir (ar) pakeisti buvo pateikta melaginga informacija, kuria remiantis buvo nustatytos TIPK leidimo sąlygos;
 
 
 
 
-6) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jei ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas TIPK leidimas.
+6) TIPK leidimą turintis juridinis asmuo likviduotas, TIPK leidimą turintis fizinis asmuo mirė, teismas jį pripažino neveiksniu ar ribotai veiksniu srityje, susijusioje su šio straipsnio antrojoje dalyje nurodyto įrenginio (jo dalies, kelių įrenginių ar jų dalių) eksploatavimu, arba nežinia kur esančiu, jeigu asmens teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo TIPK taisyklėse nustatyta tvarka nesikreipia dėl TIPK leidime nurodytų formalių duomenų patikslinimo;
+
+
+
+
+7) jeigu įvykus juridinio asmens pertvarkymui arba reorganizavimui juridinio asmens teisių perėmėjas per 6 mėnesius nuo šių aplinkybių atsiradimo TIPK taisyklėse nustatyta tvarka nesikreipia dėl TIPK leidime nurodytų formalių duomenų patikslinimo;
+
+
+
+
+8) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jeigu ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas TIPK leidimas;
+
+
+
+
+9) Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka 3 kartus per metus nustatoma, kad TIPK leidime nustatyti leistinos taršos (kiekio ir (ar) koncentracijos), atliekų susidarymo, laikymo normatyvai viršijami, išskyrus atvejus, kurie laikytini mažareikšmiais teisės aktų reikalavimų pažeidimais pagal Lietuvos Respublikos viešojo administravimo įstatymą, arba jeigu toks TIPK leidimo sąlygų pažeidimas nenutraukiamas ilgiau kaip 6 mėnesius nuo pažeidimo užfiksavimo dienos, išskyrus atvejus, kai privalomuoju nurodymu pažeidimui pašalinti nustatytas ilgesnis negu šiame punkte nurodytas terminas arba NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo ir Triukšmo valdymo įstatymo jam priskirtas funkcijas triukšmo ir kvapų valdymo srityje, 3 kartus per metus nustato TIPK leidimo sąlygų pažeidimus, susijusius su triukšmo arba kvapų normų viršijimu, išskyrus atvejus, kai toks TIPK leidimo galiojimo panaikinimas galėtų sukelti visuomenės interesams didesnę žalą (sutrikdyti viešąjį vandens tiekimą, nuotekų tvarkymą, centralizuotą šilumos ar elektros energijos tiekimą, mišrių komunalinių atliekų tvarkymą) negu tęsiamos ūkinės veiklos daromas poveikis;
+
+
+
+
+10) neįvykdytas Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka duotas privalomasis nurodymas sustabdyti įrenginio ar jo dalies eksploatavimą arba sustabdyti veiklą.
 
 
 
 
 
 
-Nustačius šio straipsnio keturioliktosios dalies 1, 4 ir 5 punktuose nurodytas aplinkybes, fizinis ar juridinis asmuo prieš sprendimo panaikinti TIPK leidimo galiojimą priėmimą per 3 darbo dienas nuo atitinkamos aplinkybės nustatymo dienos įspėjamas apie galimą TIPK leidimo galiojimo panaikinimą ir nustatomas 20 darbo dienų terminas, per kurį asmuo turi pašalinti trūkumus. Jei fizinis ar juridinis asmuo per šį laiką trūkumus pašalina, TIPK leidimo galiojimas nepanaikinamas. Nustačius šio straipsnio keturioliktosios dalies 2, 3 ir 6 punktuose nurodytas aplinkybes, TIPK leidimo galiojimas panaikinamas neteikiant šioje dalyje numatyto įspėjimo. Fizinis ar juridinis asmuo apie priimtą sprendimą panaikinti TIPK leidimo galiojimą per 3 darbo dienas nuo sprendimo priėmimo dienos informuojamas raštu, išskyrus atvejus, kai TIPK leidimo galiojimas panaikintas nustačius šio straipsnio keturioliktosios dalies 4 punkte nurodytas aplinkybes, ir nurodomos TIPK leidimo galiojimo panaikinimo priežastys. 
+Nustačius šio straipsnio keturioliktosios dalies 2, 3, 4, 6, 7, 8 ir 10 punktuose nurodytas aplinkybes, fizinis ar juridinis asmuo prieš sprendimo panaikinti TIPK leidimo galiojimą priėmimą per 3 darbo dienas nuo atitinkamos aplinkybės nustatymo dienos įspėjamas apie galimą TIPK leidimo galiojimo panaikinimą. Šio straipsnio keturioliktosios dalies 2, 3, 4, 7 ir 10 punktuose nurodytais atvejais nustatomas 20 darbo dienų terminas, o šio straipsnio keturioliktosios dalies 8 punkte nurodytu atveju – 6 mėnesių terminas, per kurį asmuo turi pašalinti trūkumus. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumus pašalina, TIPK leidimo galiojimas nepanaikinamas. Nustačius šio straipsnio keturioliktosios dalies 1, 5 ir 9 punktuose nurodytas aplinkybes, TIPK leidimo galiojimas panaikinamas neteikiant šioje dalyje numatyto įspėjimo. Fizinis ar juridinis asmuo apie priimtą sprendimą panaikinti TIPK leidimo galiojimą per 3 darbo dienas nuo sprendimo priėmimo dienos informuojamas raštu, išskyrus atvejus, kai TIPK leidimo galiojimas panaikintas nustačius šio straipsnio keturioliktosios dalies 6 punkte nurodytas aplinkybes ir nurodomos TIPK leidimo galiojimo panaikinimo priežastys. Panaikinus TIPK leidimą, fizinis ar juridinis asmuo (ūkinės veiklos vykdytojas) privalo saugiai nutraukti įrenginio veiklą ir įgyvendinti būtinas priemones, reikalingas siekiant užtikrinti, kad nebus padarytas neigiamas poveikis aplinkai ir nekils žalos aplinkai grėsmė. 
+
+
 Įstatymas papildytas straipsniu:
 Nr. XII-287, 2013-05-09, Žin., 2013, Nr. 55-2727 (2013-05-28)
-
-
 Straipsnio pakeitimai:
 Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
  
 
 
@@ -1233,17 +1319,18 @@ Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
 192 straipsnis. Taršos leidimas
 
 
-Taršos leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisykles (toliau – Taršos leidimų taisyklės) tvirtina aplinkos ministras. Šios taisyklės nustato paraiškos taršos leidimui gauti ar pakeisti rengimo, pateikimo, aplinkos ministro įgaliotos institucijos atliekamo gautos paraiškos viešinimo, nagrinėjimo, priėmimo, taršos leidimo projekto rengimo, taršos leidimo išdavimo, taršos leidimo sąlygų peržiūrėjimo, taršos leidimo pakeitimo ir galiojimo panaikinimo tvarką.
+Taršos leidimų išdavimo, pakeitimo ir galiojimo panaikinimo taisykles (toliau – Taršos leidimų taisyklės) tvirtina aplinkos ministras, suderinęs su sveikatos apsaugos ministru. Šiose taisyklėse nustatyta paraiškos taršos leidimui gauti ar pakeisti rengimo, pateikimo, aplinkos ministro įgaliotos institucijos atliekamo gautos paraiškos viešinimo, nagrinėjimo, priėmimo, taršos leidimo projekto rengimo, taršos leidimo išdavimo, taršos leidimo sąlygų peržiūrėjimo, taršos leidimo pakeitimo ir galiojimo panaikinimo tvarka.
 
 
 
 
-Fizinis ar juridinis asmuo turi teisę eksploatuoti Taršos leidimų taisyklėse nurodytą įrenginį (jo dalį, kelis įrenginius ar jų dalis), šio asmens eksploatuojamą ar valdomą nuosavybės teisės, nuomos, panaudos, patikėjimo teisės ar kitu teisiniu pagrindu, tik turėdamas galiojantį taršos leidimą ir jame nustatytomis sąlygomis. Fizinis ar juridinis asmuo privalo eksploatuoti įrenginį (jo dalį, kelis įrenginius ar jų dalis) laikydamasis šių principų: imasi visų reikiamų taršos prevencijos priemonių; nesukelia didelės taršos; užtikrina atliekų prevenciją, o jeigu atliekos susidaro, laikydamasis Lietuvos Respublikos atliekų tvarkymo įstatyme nustatytų atliekų tvarkymo prioritetų eiliškumo, užtikrina, kad jos būtų paruoštos naudoti pakartotinai, perdirbtos, kitaip panaudotos, o kai tai techniškai ir ekonomiškai neįmanoma, – pašalintos, stengiantis išvengti bet kokio poveikio aplinkai arba jį sumažinti; energiją naudoja efektyviai; imasi priemonių, būtinų avarijoms išvengti ir (ar) jų padariniams apriboti.
+Fizinis ar juridinis asmuo turi teisę eksploatuoti Taršos leidimų taisyklėse nurodytą įrenginį (jo dalį, kelis įrenginius ar jų dalis), šio asmens eksploatuojamą ar valdomą nuosavybės teisės, nuomos, panaudos, patikėjimo teisės ar kitu teisiniu pagrindu, tik turėdamas galiojantį taršos leidimą ir jame nustatytomis sąlygomis. Fizinis ar juridinis asmuo privalo eksploatuoti įrenginį (jo dalį, kelis įrenginius ar jų dalis) laikydamasis šių principų: imasi visų reikiamų taršos ir kvapų prevencijos priemonių; nesukelia didelės taršos; užtikrina atliekų prevenciją, o jeigu atliekos susidaro, laikydamasis Atliekų tvarkymo įstatyme nustatytų atliekų tvarkymo prioritetų eiliškumo, užtikrina, kad jos būtų paruoštos naudoti pakartotinai, perdirbtos, kitaip panaudotos, o kai tai techniškai ir ekonomiškai neįmanoma, – pašalintos, stengiantis išvengti bet kokio poveikio aplinkai arba jį sumažinti; energiją naudoja efektyviai; imasi priemonių, būtinų avarijoms išvengti ir (ar) jų padariniams apriboti.
 
 
 
 
-Išduodamas taršos leidimas gali turėti vieną ar kelias specialiąsias dalis, kuriose nustatomos įrenginio eksploatavimo aplinkos apsaugos sąlygos pagal konkretų Taršos leidimų taisyklėse nustatytą kriterijų, kurį atitinkančio įrenginio eksploatavimui privaloma turėti taršos leidimą. Taršos leidimus išduoda, keičia ir jų galiojimą panaikina aplinkos ministro įgaliota institucija. Sprendimas priimti paraišką taršos leidimui gauti ar pakeisti priimamas aplinkos ministro įgaliotai institucijai įvertinus gautą paraišką ir nustačius, kad ji atitinka Taršos leidimų taisyklėse nustatytus reikalavimus, paraiškoje pateikti visi tinkamai įforminti duomenys ir (ar) dokumentai, reikalingi taršos leidimo sąlygoms nustatyti. 
+Taršos leidimas gali turėti vieną ar kelias specialiąsias dalis, kuriose nustatomos įrenginio eksploatavimo aplinkos apsaugos sąlygos pagal konkretų Taršos leidimų taisyklėse nustatytą kriterijų, kurį atitinkančio įrenginio eksploatavimui privaloma turėti taršos leidimą. Taršos leidimus išduoda, keičia ir jų galiojimą panaikina aplinkos ministro įgaliota institucija. Sprendimas priimti paraišką taršos leidimui gauti ar pakeisti priimamas aplinkos ministro įgaliotai institucijai įvertinus gautą paraišką ir nustačius, kad ji atitinka Taršos leidimų taisyklėse nustatytus reikalavimus, paraiškoje pateikti visi tinkamai įforminti duomenys ir (ar) dokumentai, reikalingi taršos leidimo sąlygoms nustatyti. Taršos leidimų taisyklėse nustatytais atvejais, tvarka ir terminais NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo jam priskirtas funkcijas kvapų valdymo srityje, derina paraiškas, pagal kompetenciją nustato ir peržiūri taršos leidime nurodytas kvapų valdymo sąlygas.
+TAR pastaba. 192 straipsnio 9 dalies 3 ir 4 punktai, 3 dalies nuostata dėl Nacionalinio visuomenės sveikatos centro prievolės derinti paraiškas ir pagal kompetenciją nustatyti ir peržiūrėti taršos leidime nurodytas kvapų valdymo sąlygas ir 11 dalies 9 punkto nuostata dėl taršos leidimo sąlygų pažeidimų, susijusių su kvapų valdymu, įrenginiams, kuriuos eksploatuoti buvo išduotas taršos leidimas ar priimta paraiška taršos leidimui gauti iki šio įstatymo įsigaliojimo, taikomi nuo 2021 m. sausio 1 d.
 
 
 
@@ -1261,17 +1348,37 @@ Sprendimas nepriimti paraiškos taršos leidimui gauti ar pakeisti priimamas, ka
 
 
 
-2) anksčiau išduoto taršos leidimo galiojimas buvo panaikintas šio straipsnio vienuoliktosios dalies 2 ar 5 punktuose nurodytais atvejais ir nepašalintos priežastys, lėmusios taršos leidimo galiojimo panaikinimą;
+2) anksčiau išduoto taršos leidimo galiojimas buvo panaikintas šio straipsnio vienuoliktosios dalies 5 ar 8 punktuose nurodytais atvejais ir nepašalintos priežastys, lėmusios taršos leidimo galiojimo panaikinimą;
 
 
 
 
-3) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jei ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas taršos leidimas;
+3) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jeigu ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas taršos leidimas;
 
 
 
 
-4) nėra atrankos išvados dėl poveikio aplinkai vertinimo arba sprendimo dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, arba ši išvada ar sprendimas nebegalioja, jei ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas taršos leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai.
+4) nėra atrankos išvados dėl poveikio aplinkai vertinimo arba sprendimo dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, arba ši išvada ar sprendimas nebegalioja, jeigu ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas taršos leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai;
+
+
+
+
+5) paraiška pateikta dėl ūkinės veiklos, kuri uždrausta įstatymais;
+
+
+
+
+6) paraiška pateikta dėl įrenginio (jo dalies, kelių įrenginių ar jų dalių) eksploatavimo arba įrenginio pakeitimo, nurodyto šio straipsnio aštuntojoje dalyje, jeigu Aplinkos apsaugos valstybinės kontrolės įstatyme nurodyta tvarka nustatyta, kad įrenginys (jo dalis, keli įrenginiai ar jų dalys) jau eksploatuojamas ar įrenginio pakeitimas jau atliktas neteisėtai ir pažeidimas nepašalintas arba įrenginyje (jo dalyje, keliuose įrenginiuose ar jų dalyse), dėl kurio pateikta paraiška, Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka nustatyti pažeidimai nenutraukti ir (ar) nepašalinti pažeidimų padariniai;
+
+
+
+
+7) paraiškoje nenumatytos priemonės sprendime dėl planuojamos ūkinės veiklos poveikio aplinkai nustatytų sąlygų ir priemonių reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos iki ūkinės veiklos pradžios, ar atrankos dėl poveikio aplinkai vertinimo išvadoje, kad poveikio aplinkai vertinimas neprivalomas, nustatytų priemonių reikšmingam neigiamam poveikiui aplinkai sumažinti ir (ar) jį kompensuoti, kurios turi būti įgyvendintos iki ūkinės veiklos pradžios, įgyvendinimui;
+
+
+
+
+8) fizinis asmuo paraiškos pateikimo metu eksploatuoja arba eksploatavo ūkinės veiklos objektą ar įrenginį, kuriam buvo panaikintas taršos leidimas šio straipsnio vienuoliktosios dalies 9 punkte nurodytu pagrindu ir nepraėjo penkeri metai nuo anksčiau turėto taršos leidimo galiojimo panaikinimo dienos arba juridinio asmens vadovas paraiškos pateikimo metu yra ar buvo vadovas juridinio asmens, eksploatuojančio ar eksploatavusio ūkinės veiklos objektą ar įrenginį, kuriam jo vadovavimo metu buvo panaikintas taršos leidimo galiojimas šio straipsnio vienuoliktosios dalies 9 punkte nurodytu pagrindu, ir nepraėjo penkeri metai nuo anksčiau turėto taršos leidimo galiojimo panaikinimo dienos.
 
 
 
@@ -1286,59 +1393,75 @@ Sprendimą išduoti ar pakeisti taršos leidimą arba sprendimą neišduoti ar n
 Sprendimas neišduoti ar nekeisti taršos leidimo priimamas, kai yra bent viena iš šių sąlygų:
 
 
-1) po sprendimo priimti paraišką taršos leidimui gauti ar pakeisti priėmimo įrodoma teisėtomis priemonėmis, kad paraiškoje taršos leidimui gauti ar pakeisti ir (ar) kituose dokumentuose, kuriuos reikalaujama pateikti pagal Taršos leidimų taisykles norint gauti ar pakeisti taršos leidimą, buvo pateikta melaginga informacija;
+1) po sprendimo priimti paraišką taršos leidimui gauti ar pakeisti priėmimo nustatoma, kad paraiškoje taršos leidimui gauti ar pakeisti ir (ar) kituose dokumentuose, kuriuos reikalaujama pateikti pagal Taršos leidimų taisykles norint gauti ar pakeisti taršos leidimą, buvo pateikta neteisinga informacija, kuria remiantis turėtų būti nustatomos taršos leidimo sąlygos;
 
 
 
 
-2) po paraiškos taršos leidimui gauti ar pakeisti priėmimo yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jei ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas taršos leidimas;
+2) po sprendimo priimti paraišką taršos leidimui gauti ar pakeisti priėmimo yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jeigu ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas taršos leidimas;
 
 
 
 
-3) nebegalioja atrankos išvada dėl poveikio aplinkai vertinimo arba sprendimas dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jei ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas taršos leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai.
+3) nebegalioja atrankos išvada dėl poveikio aplinkai vertinimo arba sprendimas dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jeigu ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas ar pakeistas taršos leidimas, išskyrus atvejus, kai buvo išduotas statybą leidžiantis dokumentas, leidimas naudoti žemės gelmių išteklius arba ertmes ar kituose įstatymuose nurodytas leidimas galiojant šiam sprendimui ar šiai atrankos išvadai;
 
 
 
 
-
-
-Taršos leidimas turi būti pakeistas, kai yra bent viena iš šių sąlygų:
-
-
-1) planuojama pakeisti Taršos leidimų taisyklėse nurodyto įrenginio (jo dalies, kelių įrenginių ar jų dalių) pobūdį ar veikimą arba planuojama jį išplėsti, kai toks pakeitimas ar išplėtimas gali turėti reikšmingą neigiamą poveikį žmonių sveikatai arba aplinkai, kaip nustatyta Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, arba dėl tokio pakeitimo ar išplėtimo atsiranda prievolė turėti kitą taršos leidimo specialiąją dalį (dalis);
+4) po sprendimo priimti paraišką taršos leidimui gauti priėmimo paaiškėja, kad paraiška taršos leidimui gauti pateikta ūkinei veiklai, kuri uždrausta įstatymais, vykdyti;
 
 
 
 
-2) aplinkos ministro įgaliota institucija Taršos leidimų taisyklėse nustatyta tvarka nustato, kad, įsigaliojus naujiems arba pasikeitus Europos Sąjungos aplinkos apsaugos teisės aktų, aplinkos apsaugą reglamentuojančių įstatymų ir jų įgyvendinamųjų teisės aktų, aplinkos apsaugos normatyvų, aplinkos apsaugos standartų, aplinkos kokybės normų reikalavimams, turi būti nustatytos griežtesnės ar papildomos taršos leidimo sąlygos arba kad yra galimybė Taršos leidimų taisyklėse nustatyta tvarka taikyti kitas išmetamų teršalų sumažinimo priemones;
-
-
-
-
-3) fizinio ar juridinio asmens prašymu, jei dėl veiklos pakeitimo nelieka prievolės turėti atitinkamą taršos leidimo specialiąją dalį (dalis).
+5) po sprendimo priimti paraišką taršos leidimui gauti priėmimo, kai paraiška taršos leidimui gauti pateikta dėl naujo įrenginio eksploatavimo arba įrenginio pakeitimo, nurodyto šio straipsnio aštuntojoje dalyje, paaiškėja, kad Aplinkos apsaugos valstybinės kontrolės įstatyme nurodyta tvarka nustatyta, kad ūkinė veikla jau vykdoma ar ūkinės veiklos pakeitimas atliktas neteisėtai ir pažeidimas nepašalintas.
 
 
 
 
 
 
-Šio straipsnio aštuntojoje dalyje nurodytais atvejais fizinis ar juridinis asmuo privalo Taršos leidimų taisyklėse nustatyta tvarka pateikti aplinkos ministro įgaliotai institucijai paraišką dėl taršos leidimo pakeitimo:
-
-
-1) šio straipsnio aštuntosios dalies 1 arba 2 punkte nurodytais atvejais – savo iniciatyva arba
+Fizinis ar juridinis asmuo, norėdamas pakeisti įrenginio (jo dalies, kelių įrenginių ar jų dalių), kuriam išduotas taršos leidimas, pobūdį ar veikimą arba jį išplėsti, kai toks pakeitimas ar išplėtimas gali turėti reikšmingą neigiamą poveikį žmonių sveikatai arba aplinkai, kaip nustatyta Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, arba kai dėl pakeitimo ar išplėtimo atsiranda prievolė turėti kitą taršos leidimo specialiąją dalį (dalis), turi Taršos leidimų taisyklėse nustatyta tvarka kreiptis dėl taršos leidimo pakeitimo. Tam, kad taršos leidime būtų nustatytos su šioje dalyje nurodytu įrenginio pakeitimu susijusios sąlygos, fizinis ar juridinis asmuo privalo Taršos leidimų taisyklėse nustatyta tvarka pateikti aplinkos ministro įgaliotai institucijai paraišką dėl taršos leidimo pakeitimo. Jeigu planuojamas kitoks įrenginio pakeitimas, negu nurodyta šioje dalyje, Taršos taisyklėse nustatyta tvarka fizinis ar juridinis asmuo privalo raštu pranešti aplinkos ministro įgaliotai institucijai apie planuojamus įrenginio pobūdžio arba veikimo pakeitimus ar jo išplėtimą, kurie gali daryti poveikį aplinkai, o aplinkos ministro įgaliota institucija įvertina, ar pakeitimai galimi, ir priima sprendimą dėl poreikio keisti leidimo sąlygas ar patį leidimą.
 
 
 
 
-2) kai aplinkos ministro įgaliota institucija, siekdama užtikrinti šio straipsnio antrojoje dalyje nurodytų principų laikymąsi ir kad taršos leidimo sąlygos atitiktų teisės aktų reikalavimus, Taršos leidimų taisyklėse nustatyta tvarka peržiūri taršos leidimo sąlygas, nustato, kad atsirado bent viena šio straipsnio aštuntojoje dalyje nurodytų taršos leidimo keitimo sąlygų, ir priima sprendimą dėl prievolės pakeisti taršos leidimą, – gavęs šį sprendimą. Apie šį sprendimą fizinis ar juridinis asmuo informuojamas raštu per 3 darbo dienas nuo sprendimo priėmimo dienos. Gavęs šiame punkte nurodytą sprendimą, fizinis ar juridinis asmuo privalo šiame sprendime nustatytais terminais pateikti aplinkos ministro įgaliotai institucijai paraišką dėl taršos leidimo pakeitimo. Paraiškos pateikimo terminas turi būti ne trumpesnis kaip 20 darbo dienų.
+Aplinkos ministro įgaliota institucija, siekdama užtikrinti šio straipsnio antrojoje dalyje nurodytų principų laikymąsi ir taršos leidimo sąlygų atitiktį teisės aktų reikalavimams, Taršos leidimų taisyklėse nustatyta tvarka peržiūri taršos leidimo sąlygas ir, nustačiusi, kad atsirado bent viena šioje dalyje nurodytų taršos leidimo keitimo sąlygų, arba gavusi NVS centro pranešimą, kad taršos leidimo sąlygos dėl šios dalies 3 ir 4 punktuose nurodytų priežasčių turi būti keičiamos, priima sprendimą dėl prievolės pakeisti taršos leidimą. Apie šį sprendimą fizinis ar juridinis asmuo informuojamas raštu per 3 darbo dienas nuo sprendimo priėmimo dienos. Gavęs šiame punkte nurodytą sprendimą, fizinis ar juridinis asmuo privalo šiame sprendime nustatytais terminais pateikti aplinkos ministro įgaliotai institucijai paraišką dėl taršos leidimo pakeitimo. Paraiškos pateikimo terminas turi būti ne trumpesnis kaip 20 darbo dienų, o šios dalies 4 ir 5 punktuose nurodytais atvejais – ne trumpesnis kaip 20 darbo dienų ir ne ilgesnis kaip 30 darbo dienų. Taršos leidimas turi būti pakeistas, kai yra bent viena iš šių sąlygų:
+
+
+1) fizinio ar juridinio asmens prašymu, jeigu dėl ūkinės veiklos pakeitimo nelieka prievolės turėti atitinkamą taršos leidimo specialiąją dalį (dalis);
+
+
+
+
+2) aplinkos ministro įgaliota institucija Taršos leidimų taisyklėse nustatyta tvarka nustato, kad, įsigaliojus naujiems arba pasikeitus Europos Sąjungos aplinkos apsaugos teisės aktų, aplinkos apsaugą reglamentuojančių įstatymų ir jų įgyvendinamųjų teisės aktų, aplinkos apsaugos normatyvų, aplinkos apsaugos standartų, aplinkos kokybės normų reikalavimams, turi būti nustatytos griežtesnės ar papildomos taršos leidimo sąlygos;
+
+
+
+
+3) NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo jam priskirtas funkcijas kvapų valdymo srityje, nustato, kad, pasikeitus arba įsigaliojus naujiems visuomenės sveikatos priežiūrą reguliuojantiems teisės aktams, taršos leidime turi būti nustatytos griežtesnės ar papildomos kvapų valdymo sąlygos arba kad turi būti taikomos kitos kvapų sumažinimo priemonės;
+
+
+
+
+4) NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo jam priskirtas funkcijas kvapų valdymo srityje, 2 kartus per metus nustato, kad fizinis ar juridinis asmuo pažeidė taršos leidimo sąlygas, susijusias su kvapų valdymu, ir pateikia sprendimą, kad tokių pažeidimų prevencijai reikia sugriežtinti arba įrašyti papildomas taršos leidimo sąlygas;
+TAR pastaba. 192 straipsnio 9 dalies 3 ir 4 punktai, 3 dalies nuostata dėl Nacionalinio visuomenės sveikatos centro prievolės derinti paraiškas ir pagal kompetenciją nustatyti ir peržiūrėti taršos leidime nurodytas kvapų valdymo sąlygas ir 11 dalies 9 punkto nuostata dėl taršos leidimo sąlygų pažeidimų, susijusių su kvapų valdymu, įrenginiams, kuriuos eksploatuoti buvo išduotas taršos leidimas ar priimta paraiška taršos leidimui gauti iki šio įstatymo įsigaliojimo, taikomi nuo 2021 m. sausio 1 d.
+
+
+
+
+5) fiziniam ar juridiniam asmeniui 2 kartus per metus pažeidus taršos leidimo sąlygas, susijusias su neleistinu teršalų išmetimu, atliekų susidarymu, laikymu ar apdorojimu arba neteisėtu gamtos išteklių naudojimu, jeigu tokių pažeidimų prevencijai reikia sugriežtinti arba įrašyti papildomas taršos leidimo sąlygas;
+
+
+
+
+6) aplinkos monitoringo ar aplinkos apsaugos valstybinės kontrolės rezultatai rodo, kad įrenginio leistina tarša daro reikšmingą neigiamą poveikį aplinkai, todėl būtina taršos leidime įrašytas išmetamų teršalų ribines vertes pakeisti ar į taršos leidimą įrašyti naujas ribines vertes.
 
 
 
 
 
 
-Jei aplinkos ministro įgaliota institucija, atlikusi taršos leidimo sąlygų peržiūrą, nenustato bent vienos šio straipsnio aštuntojoje dalyje nustatytos taršos leidimo keitimo sąlygos, ji priima sprendimą nekeisti taršos leidimo. Šis sprendimas laikomas neatsiejama taršos leidimo dalimi.
+Jeigu aplinkos ministro įgaliota institucija, atlikusi taršos leidimo sąlygų peržiūrą, nenustato bent vienos šio straipsnio devintojoje dalyje nustatytos taršos leidimo keitimo sąlygos, Taršos leidimų taisyklėse nustatyta tvarka ji priima sprendimą nekeisti taršos leidimo. Šis sprendimas laikomas neatsiejama taršos leidimo dalimi.
 
 
 
@@ -1346,45 +1469,67 @@ Jei aplinkos ministro įgaliota institucija, atlikusi taršos leidimo sąlygų p
 Sprendimas panaikinti taršos leidimo galiojimą priimamas, kai yra bent viena iš šių sąlygų:
 
 
-1) aplinkos ministro įgaliotai institucijai priėmus sprendimą dėl prievolės pakeisti taršos leidimą, taršos leidimo turėtojas per šiame sprendime nustatytą terminą ir Taršos leidimų taisyklėse nustatyta tvarka nepateikia paraiškos dėl taršos leidimo pakeitimo;
+1) taršos leidimo turėtojo prašymu;
 
 
 
 
-2) teisėtomis priemonėmis įrodyta, kad taršos leidimui gauti ir (ar) pakeisti buvo pateikta melaginga informacija, kuria remiantis buvo nustatytos taršos leidimo sąlygos;
+2) aplinkos ministro įgaliotai institucijai šio straipsnio devintojoje dalyje nustatyta tvarka priėmus sprendimą dėl prievolės pakeisti taršos leidimą, taršos leidimo turėtojas per šiame sprendime nustatytą terminą Taršos leidimų taisyklėse nustatyta tvarka nepateikia šiame sprendime nurodytus reikalavimus atitinkančios paraiškos dėl taršos leidimo pakeitimo; 
 
 
 
 
-3) taršos leidimo turėtojo prašymu;
+3) jeigu šio straipsnio penktosios dalies 1 punkte nustatytu atveju aplinkos ministro įgaliotai institucijai priėmus sprendimą nepriimti paraiškos taršos leidimo turėtojas per aplinkos ministro įgaliotos institucijos nustatytą terminą nepateikia pataisytos paraiškos, kai to reikia dėl šio straipsnio devintosios dalies 2, 3 ir 6 punktuose nurodytų sąlygų;
 
 
 
 
-4) taršos leidimą turintis juridinis asmuo likviduotas, taršos leidimą turintis fizinis asmuo mirė, teismas jį pripažino neveiksniu ar ribotai veiksniu srityje, susijusioje su šio straipsnio antrojoje dalyje nurodyto įrenginio (jo dalies, kelių įrenginių ar jų dalių) eksploatavimu, ar nežinia kur esančiu, jeigu asmens teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo Taršos leidimų taisyklėse nustatyta tvarka nesikreipia dėl taršos leidime nurodytų formalių duomenų patikslinimo;
+4) jeigu šio straipsnio penktosios dalies 1 punkte nustatytu atveju aplinkos ministro įgaliotai institucijai priėmus sprendimą nepriimti paraiškos taršos leidimo turėtojas per 20 darbo dienų nepateikia pataisytos paraiškos, kai to reikia dėl šio straipsnio devintosios dalies 4 ir 5 punktuose nurodytų sąlygų;
 
 
 
 
-5) neįvykdytas Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo nustatyta tvarka priimtas nutarimas sustabdyti aplinkai kenksmingą veiklą;
+5) teisėtomis priemonėmis įrodyta, kad taršos leidimui gauti ir (ar) pakeisti buvo pateikta melaginga informacija, kuria remiantis buvo nustatytos taršos leidimo sąlygos;
 
 
 
 
-6) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jei ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas taršos leidimas.
+6) taršos leidimą turintis juridinis asmuo likviduotas, taršos leidimą turintis fizinis asmuo mirė, teismas jį pripažino neveiksniu ar ribotai veiksniu srityje, susijusioje su šio straipsnio antrojoje dalyje nurodyto įrenginio (jo dalies, kelių įrenginių ar jų dalių) eksploatavimu, ar nežinia kur esančiu, jeigu asmens teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo Taršos leidimų taisyklėse nustatyta tvarka nesikreipia dėl taršos leidime nurodytų formalių duomenų patikslinimo;
+
+
+
+
+7) jeigu įvykus juridinio asmens pertvarkymui arba reorganizavimui juridinio asmens teisių perėmėjas per 6 mėnesius nuo šiame punkte nurodytų aplinkybių atsiradimo Taršos leidimų taisyklėse nustatyta tvarka nesikreipia dėl taršos leidime nurodytų formalių duomenų patikslinimo;
+
+
+
+
+8) yra įsiteisėjęs teismo sprendimas, panaikinantis atrankos išvadą dėl poveikio aplinkai vertinimo arba sprendimą dėl planuojamos ūkinės veiklos, pagal kurį planuojama ūkinė veikla galima pasirinktoje vietoje, jeigu ši išvada ar šis sprendimas yra privalomi tam, kad būtų išduotas taršos leidimas;
+
+
+
+
+9) Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka 3 kartus per metus nustatoma, kad taršos leidime nustatyti leistinos taršos (kiekio ir (ar) koncentracijos), atliekų susidarymo, laikymo normatyvai viršijami, išskyrus atvejus, kurie laikytini mažareikšmiais teisės aktų reikalavimų pažeidimais pagal Viešojo administravimo įstatymą, arba jeigu toks taršos leidimo sąlygų pažeidimas nenutraukiamas ilgiau kaip 6 mėnesius nuo pažeidimo užfiksavimo dienos, išskyrus atvejus, kai privalomuoju nurodymu pažeidimui pašalinti nustatytas ilgesnis negu šiame punkte nurodytas terminas arba NVS centras, vykdydamas Visuomenės sveikatos priežiūros įstatymo jam priskirtas funkcijas kvapų valdymo srityje, 3 kartus per metus nustato taršos leidimo sąlygų pažeidimus, susijusius su kvapų normų viršijimu, išskyrus atvejus, kai toks taršos leidimo galiojimo panaikinimas galėtų sukelti visuomenės interesams didesnę žalą (sutrikdyti viešąjį vandens tiekimą, nuotekų tvarkymą, centralizuotą šilumos ar elektros energijos tiekimą, mišrių komunalinių atliekų tvarkymą) negu tęsiamos ūkinės veiklos daromas poveikis;
+TAR pastaba. 192 straipsnio 9 dalies 3 ir 4 punktai, 3 dalies nuostata dėl Nacionalinio visuomenės sveikatos centro prievolės derinti paraiškas ir pagal kompetenciją nustatyti ir peržiūrėti taršos leidime nurodytas kvapų valdymo sąlygas ir 11 dalies 9 punkto nuostata dėl taršos leidimo sąlygų pažeidimų, susijusių su kvapų valdymu, įrenginiams, kuriuos eksploatuoti buvo išduotas taršos leidimas ar priimta paraiška taršos leidimui gauti iki šio įstatymo įsigaliojimo, taikomi nuo 2021 m. sausio 1 d.
+
+
+
+
+10) neįvykdytas Aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka duotas privalomasis nurodymas sustabdyti įrenginio ar jo dalies eksploatavimą arba sustabdyti veiklą.
 
 
 
 
 
 
-Nustačius šio straipsnio vienuoliktosios dalies 1, 4 ir 5 punktuose nurodytas aplinkybes, fizinis ar juridinis asmuo prieš sprendimo panaikinti taršos leidimo galiojimą priėmimą per 3 darbo dienas nuo atitinkamos aplinkybės nustatymo dienos įspėjamas apie galimą taršos leidimo galiojimo panaikinimą ir nustatomas 20 darbo dienų terminas, per kurį asmuo turi pašalinti trūkumus. Jei fizinis ar juridinis asmuo per šį laiką trūkumus pašalina, taršos leidimo galiojimas nepanaikinamas. Nustačius šio straipsnio vienuoliktosios dalies 2, 3 ir 6 punktuose nurodytas aplinkybes, taršos leidimo galiojimas panaikinamas neteikiant šioje dalyje numatyto įspėjimo. Fizinis ar juridinis asmuo apie priimtą sprendimą panaikinti taršos leidimo galiojimą per 3 darbo dienas nuo sprendimo priėmimo dienos informuojamas raštu, išskyrus atvejus, kai taršos leidimo galiojimas panaikintas nustačius šio straipsnio vienuoliktosios dalies 4 punkte nurodytas aplinkybes, ir nurodomos taršos leidimo galiojimo panaikinimo priežastys. 
+Nustačius šio straipsnio vienuoliktosios dalies 2, 3, 4, 6, 7, 8 ir 10 punktuose nurodytas aplinkybes, fizinis ar juridinis asmuo prieš sprendimo panaikinti taršos leidimo galiojimą priėmimą per 3 darbo dienas nuo atitinkamos aplinkybės nustatymo dienos įspėjamas apie galimą taršos leidimo galiojimo panaikinimą. Šio straipsnio vienuoliktosios dalies 2, 3, 4, 7 ir 10 punktuose nurodytais atvejais nustatomas 20 darbo dienų terminas, o šio straipsnio vienuoliktosios dalies 8 punkte nurodytu atveju – 6 mėnesių terminas, per kurį asmuo turi pašalinti trūkumus. Jeigu fizinis ar juridinis asmuo per šį laiką trūkumus pašalina, taršos leidimo galiojimas nepanaikinamas. Nustačius šio straipsnio vienuoliktosios dalies 1, 5 ir 9 punktuose nurodytas aplinkybes, taršos leidimo galiojimas panaikinamas neteikiant šioje dalyje numatyto įspėjimo. Fizinis ar juridinis asmuo apie priimtą sprendimą panaikinti taršos leidimo galiojimą per 3 darbo dienas nuo sprendimo priėmimo dienos informuojamas raštu, išskyrus atvejus, kai taršos leidimo galiojimas panaikintas nustačius šio straipsnio vienuoliktosios dalies 6 punkte nurodytas aplinkybes, ir nurodomos taršos leidimo galiojimo panaikinimo priežastys. Panaikinus taršos leidimą, fizinis ar juridinis asmuo (ūkinės veiklos vykdytojas) privalo saugiai nutraukti įrenginio veiklą ir įgyvendinti būtinas priemones, reikalingas siekiant užtikrinti, kad nebus padarytas neigiamas poveikis aplinkai ir nekils žalos aplinkai grėsmė. 
+
+
 Įstatymas papildytas straipsniu:
 Nr. XII-287, 2013-05-09, Žin., 2013, Nr. 55-2727 (2013-05-28)
-
-
 Straipsnio pakeitimai:
 Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
  
 
 
@@ -2609,7 +2754,10 @@ Nagrinėjant bylas dėl ekonominių sankcijų skyrimo dalyvauja:
 47 straipsnis. Rašytinis įspėjimas 
 
 
-Nustačius šio įstatymo 55, 57, 76, 93, 94, 107, 109, 112 straipsniuose numatytus pažeidimus, juridinis asmuo įspėjamas raštu ir jam nustatomas protingas terminas nustatytiems pažeidimams pašalinti, kuris negali būti trumpesnis kaip 7 kalendorinės dienos ir ilgesnis kaip 30 kalendorinių dienų. Išimtiniais atvejais pagal motyvuotą juridinio asmens prašymą, atsižvelgiant į objektyvias aplinkybes, terminas nustatytam pažeidimui pašalinti gali būti vieną kartą pratęstas, tačiau ne daugiau kaip 15 kalendorinių dienų.
+Nustačius šio įstatymo 55 straipsnio 5 dalyje, 57 straipsnio 1, 3, 5 dalyse, 76 straipsnio 1 dalyje, 93 straipsnio 1, 4 dalyse, 94 straipsnio 1, 4 dalyse, 107 straipsnio 1 ir 4 dalyse, 109 straipsnio 3, 4, 6, 9, 10, 11, 12, 13, 15, 19, 20 dalyse, 112 straipsnio 1 dalyje numatytus pažeidimus, juridinis asmuo įspėjamas raštu ir jam nustatomas protingas terminas nustatytiems pažeidimams pašalinti, kuris negali būti trumpesnis kaip 7 kalendorinės dienos ir ilgesnis kaip 30 kalendorinių dienų. Išimtiniais atvejais pagal motyvuotą juridinio asmens prašymą, atsižvelgiant į objektyvias aplinkybes, terminas nustatytam pažeidimui pašalinti gali būti vieną kartą pratęstas, tačiau ne daugiau kaip 15 kalendorinių dienų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
+ 
 
 
 
@@ -2904,47 +3052,40 @@ Juridiniai asmenys baudas moka į valstybės biudžetą. Šios lėšos sudaro Ap
 
 
 
-55 straipsnis. Juridinių asmenų atsakomybė už ūkinės ar kitokios veiklos vykdymą, objektų naudojimą neturint taršos integruotos prevencijos ir kontrolės leidimo ar taršos leidimo arba neįregistravus įrenginio 
-Pakeistas straipsnio pavadinimas:
-Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
+55 straipsnis. Juridinių asmenų atsakomybė už ūkinės ar kitokios veiklos vykdymą, objektų naudojimą neturint taršos integruotos prevencijos ir kontrolės leidimo ar taršos leidimo arba neįregistravus įrenginio
+
+
+Ūkinės ar kitokios veiklos vykdymas, objektų naudojimas neturint taršos integruotos prevencijos ir kontrolės leidimo, kai pagal teisės aktus toks leidimas yra reikalingas, užtraukia baudą nuo dešimt tūkstančių iki trisdešimt tūkstančių eurų.
+
+
+
+
+Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo trisdešimt tūkstančių iki penkiasdešimt tūkstančių eurų.
+
+
+
+
+Ūkinės ar kitokios veiklos vykdymas, objektų naudojimas neturint taršos leidimo arba neįregistravus įrenginio, kai pagal teisės aktus toks leidimas yra reikalingas arba pagal teisės aktus toks įrenginys turi būti įregistruotas, užtraukia baudą nuo penkių tūkstančių iki dešimt tūkstančių eurų.
+
+
+
+
+Šio straipsnio 3 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo dešimt tūkstančių iki penkiolikos tūkstančių eurų.
+
+
+
+
+Ūkinės ar kitokios veiklos vykdymas, objektų naudojimas nesilaikant šio straipsnio 1 ar 3 dalyje nurodytame leidime nustatytų sąlygų (išskyrus reikalavimus dėl ūkio subjekto aplinkos monitoringo programos pateikimo kompetentingoms institucijoms teisės aktų nustatyta tvarka, reikalavimus dėl teršalų išmetimo į aplinką viršijant taršos integruotos prevencijos ir kontrolės leidime ar taršos leidime nustatytus išmetamų teršalų normatyvus ir reikalavimus dėl vandens išgavimo viršijant taršos integruotos prevencijos ir kontrolės leidime ar taršos leidime nustatytą išgaunamo vandens kiekį) arba nesilaikant įregistruotam įrenginiui nustatytų reikalavimų po rašytinio įspėjimo apie pažeidimą užtraukia baudą nuo vieno tūkstančio iki dviejų tūkstančių eurų.
+
+
+
+
+Šio straipsnio 5 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
  
-
-
-Ūkinės ar kitokios veiklos vykdymas, objektų naudojimas neturint taršos integruotos prevencijos ir kontrolės leidimo, kai pagal teisės aktus toks leidimas yra reikalingas, užtraukia baudą nuo trijų tūkstančių iki aštuonių tūkstančių eurų.
-
-
-
-
-Šio straipsnio 1 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo keturiolikos tūkstančių iki trisdešimt tūkstančių eurų.
-
-
-
-
-Ūkinės ar kitokios veiklos vykdymas, objektų naudojimas neturint taršos leidimo arba neįregistravus įrenginio, kai pagal teisės aktus toks leidimas yra reikalingas arba pagal teisės aktus toks įrenginys turi būti įregistruotas, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
- 
-
-
-
-
-Šio straipsnio 3 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų eurų.
-
-
-
-
-Ūkinės ar kitokios veiklos vykdymas, objektų naudojimas nesilaikant šio straipsnio 1 ar 3 dalyje nurodytame leidime nustatytų sąlygų (išskyrus reikalavimus dėl ūkio subjekto aplinkos monitoringo programos pateikimo kompetentingoms institucijoms teisės aktų nustatyta tvarka, reikalavimus dėl teršalų išmetimo į aplinką viršijant taršos integruotos prevencijos ir kontrolės leidime ar taršos leidime nustatytus išmetamų teršalų normatyvus ir reikalavimus dėl vandens išgavimo viršijant taršos integruotos prevencijos ir kontrolės leidime ar taršos leidime nustatytą išgaunamo vandens kiekį) arba nesilaikant įregistruotam įrenginiui nustatytų reikalavimų po rašytinio įspėjimo apie pažeidimą užtraukia baudą nuo vieno šimto penkiasdešimt iki šešių šimtų eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
- 
-
-
-
-
-Šio straipsnio 5 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų.
- 
-
-
 
 
 
@@ -6042,51 +6183,60 @@ Tvenkinio ar patvenkto ežero naudojimas neturint teisės aktų nustatyta tvarka
 126 straipsnis. Juridinių asmenų atsakomybė už privalomojo nurodymo neįvykdymą
 
 
-Neįvykdymas laiku ar aiškiai aplaidus įvykdymas reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas iškilus grėsmei, kad bus padarytas aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimų pažeidimas, arba neįvykdymas laiku ar aiškiai aplaidus įvykdymas reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas, kai dėl padaryto teisės aktų pažeidimo gali kilti žala aplinkai ir siekiama tokio pažeidimo ir (arba) žalos aplinkai išvengti ar ją sumažinti, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų.
+Neįvykdymas laiku reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas iškilus grėsmei, kad bus padarytas aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimų pažeidimas, arba neįvykdymas laiku reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas, kai dėl padaryto teisės aktų pažeidimo gali kilti žala aplinkai ir siekiama tokio pažeidimo ir (arba) žalos aplinkai išvengti ar ją sumažinti, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio keturių šimtų eurų.
 
 
 
 
-Neįvykdymas laiku ar aiškiai aplaidus įvykdymas reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas iškilus grėsmei, kad bus padarytas aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimų pažeidimas, padarytas pakartotinai, arba neįvykdymas laiku ar aiškiai aplaidus įvykdymas reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas, kai dėl padaryto teisės aktų pažeidimo gali kilti žala aplinkai ir siekiama tokio pažeidimo ir (arba) žalos aplinkai išvengti ar ją sumažinti, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+Neįvykdymas laiku reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas iškilus grėsmei, kad bus padarytas aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų reikalavimų pažeidimas, padarytas pakartotinai, arba neįvykdymas laiku reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas, kai dėl padaryto teisės aktų pažeidimo gali kilti žala aplinkai ir siekiama tokio pažeidimo ir (arba) žalos aplinkai išvengti ar ją sumažinti, padarytas pakartotinai, užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
 
 
 
-Neįvykdymas laiku ar aiškiai aplaidus įvykdymas reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas trunkamojo aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimo atveju ir kuriame nustatomas terminas jį nutraukti, arba neįvykdymas laiku ar aiškiai aplaidus įvykdymas reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas nustatant terminą pašalinti pažeidimo priežastis, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki trijų tūkstančių eurų.
+Neįvykdymas laiku reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas trunkamojo aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimo atveju ir kuriame nustatomas terminas jį nutraukti, arba neįvykdymas laiku reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas nustatant terminą pažeidimo priežastims pašalinti, užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki trijų tūkstančių eurų.
 
 
 
 
-Neįvykdymas laiku ar aiškiai aplaidus įvykdymas reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas trunkamojo aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimo atveju ir kuriame nustatomas terminas jį nutraukti, padarytas pakartotinai, arba neįvykdymas laiku ar aiškiai aplaidus įvykdymas reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas nustatant terminą pašalinti pažeidimo priežastis, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+Neįvykdymas laiku reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas trunkamojo aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimo atveju ir kuriame nustatomas terminas jį nutraukti, padarytas pakartotinai, arba neįvykdymas laiku reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas nustatant terminą pažeidimo priežastims pašalinti, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
 
 
 
 
-Neįvykdymas laiku ar aiškiai aplaidus įvykdymas reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuriame buvo nustatytas terminas likviduoti aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų sukeltas pasekmes, arba neįvykdymas laiku ar aiškiai aplaidus įvykdymas reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas padarius žalą aplinkai ir kuriame nustatytos aplinkos atkūrimo priemonės ir jų įgyvendinimo terminai, užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų.
+Neįvykdymas laiku reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuriame buvo nustatytas dėl aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų sukeltų pasekmių likvidavimo terminas, arba neįvykdymas laiku reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas padarius žalą aplinkai ir nevykdant ar netinkamai vykdant aplinkos atkūrimo priemones ir kuriame nustatytos aplinkos atkūrimo priemonės ir jų įgyvendinimo terminai, užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų.
 
 
 
 
-Neįvykdymas laiku ar aiškiai aplaidus įvykdymas reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuriame buvo nustatytas terminas likviduoti aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimu sukeltas pasekmes, padarytas pakartotinai, arba neįvykdymas laiku ar aiškiai aplaidus įvykdymas reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas padarius žalą aplinkai ir kuriame nustatytos aplinkos atkūrimo priemonės ir jų įgyvendinimo terminai, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki aštuonių tūkstančių eurų.
+Neįvykdymas laiku reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuriame buvo nustatytas dėl aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų sukeltų pasekmių likvidavimo terminas, padarytas pakartotinai, arba neįvykdymas laiku reikalavimų, nustatytų aplinkos apsaugos valstybinės kontrolės pareigūno duotame privalomajame nurodyme, kuris buvo duotas padarius žalą aplinkai ir nevykdant ar netinkamai vykdant aplinkos atkūrimo priemones ir kuriame nustatytos aplinkos atkūrimo priemonės ir jų įgyvendinimo terminai, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki aštuonių tūkstančių eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
  
 
 
 
 
+127 straipsnis. Juridinių asmenų atsakomybė už neteisėtai atnaujintą įrenginio ar jo dalies eksploatavimą ar kitą veiklą, sustabdytą pagal aplinkos apsaugos valstybinės kontrolės pareigūno duotą privalomąjį nurodymą
 
 
-127 straipsnis. Juridinių asmenų atsakomybė už nutarimo sustabdyti aplinkai kenksmingą veiklą nevykdymą
-
-
-Aplinkos apsaugos valstybinės kontrolės pareigūno nutarimo sustabdyti aplinkai kenksmingą veiklą (išskyrus atvejus, kai aplinkai kenksminga veikla stabdoma dėl juridinio asmens vykdomo vandens, aplinkos oro, žemės ar kitų aplinkos komponentų teršimo masiškai žūsta gyvūnai ar augalai ir (ar) juridinis asmuo teršia aplinkos orą, žemę, vandenį ir tai kelia tiesioginį pavojų žmonių sveikatai ar gyvybei) nevykdymas užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų eurų.
+Įrenginio ar jo dalies eksploatavimo ar kitos veiklos (išskyrus atvejus, nurodytus šio straipsnio trečiojoje dalyje), sustabdytų pagal aplinkos apsaugos valstybinės kontrolės pareigūno duotą privalomąjį nurodymą, neteisėtas atnaujinimas užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų eurų.
 
 
 
 
-Aplinkos apsaugos valstybinės kontrolės pareigūno nutarimo sustabdyti aplinkai kenksmingą veiklą, kai aplinkai kenksminga veikla stabdoma dėl juridinio asmens vykdomo vandens, aplinkos oro, žemės ar kitų aplinkos komponentų teršimo masiškai žūsta gyvūnai ar augalai ir (ar) juridinis asmuo teršia aplinkos orą, žemę, vandenį ir tai kelia tiesioginį pavojų žmonių sveikatai ar gyvybei, nevykdymas užtraukia baudą nuo trijų tūkstančių iki dešimt tūkstančių eurų.
+Įrenginio ar jo dalies eksploatavimo ar kitos veiklos (išskyrus atvejus, nurodytus šio straipsnio trečiojoje dalyje), sustabdytų pagal aplinkos apsaugos valstybinės kontrolės pareigūno duotą privalomąjį nurodymą, neteisėtas atnaujinimas, padarytas pakartotinai, užtraukia baudą nuo trijų tūkstančių iki dešimt tūkstančių eurų.
+
+
+
+
+Įrenginio ar jo dalies eksploatavimo ar kitos veiklos, sustabdytų vykdant aplinkos apsaugos valstybinės kontrolės pareigūno privalomąjį nurodymą, kuris buvo duotas dėl juridinio asmens vykdomo vandens, aplinkos oro, žemės ar kitų aplinkos komponentų teršimo, dėl kurio masiškai žūsta gyvūnai ar augalai ir (ar) juridinis asmuo teršia aplinkos orą, žemę, vandenį ir tai kelia tiesioginį pavojų žmonių sveikatai ar gyvybei, atnaujinimas negavus aplinkos apsaugos valstybinės kontrolės pareigūno patvirtinimo apie tinkamą privalomajame nurodyme nurodytų sąlygų arba priemonių įvykdymą, užtraukia baudą nuo trijų tūkstančių iki dešimt tūkstančių eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
  
-
-
 
 
 
@@ -6463,3 +6613,8 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 papildymo 87-1 ir 10
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 20, 37, 109 straipsnių ir priedo pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 47, 55, 126, 127 straipsnių pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymas
