@@ -13,14 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C40F7F89A7C3"
 
 # Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas
 
-Suvestinė redakcija nuo 2018-12-01 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 46-1116, i. k. 0961010ISTA00I-1324
  
-Nauja redakcija nuo 2001-01-01:
-Nr. VIII-1972, 2000-10-03, Žin. 2000, Nr. 89-2742 (2000-10-25), i. k. 1001010ISTAIII-1972
+TAR pastaba. Iki 2020 m. balandžio 30 d. suteikti įgaliojimai tikrinti potencialiai pavojingų įrenginių techninę būklę ir išduotos licencijos atlikti nuolatinę potencialiai pavojingų įrenginių priežiūrą, įsigaliojus (2020-05-01) įstatymui Nr. XIII-2474 , netenka galios.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2474, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16484
+Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo Nr. I-1324 pakeitimo įstatymas
  
-Lietuvos respublikos  POTENCIALIAI PAVOJINGŲ ĮRENGINIŲ priežiūros  į s t a t y m a s
+Nauja redakcija nuo 2020-05-01:
+Nr. XIII-2474, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16484
+ 
+LIETUVOS RESPUBLIKOS POTENCIALIAI PAVOJINGŲ ĮRENGINIŲ PRIEŽIŪROS ĮSTATYMAS
  
 1996 m. gegužės 2 d. Nr. I-1324
 Vilnius
@@ -28,79 +33,25 @@ Vilnius
  
 
 
+I SKYRIUS
+BENDROSIOS NUOSTATOS
+ 
+
+
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šis įstatymas nustato naudojamų potencialiai pavojingų įrenginių, kurių grupės nurodytos šio įstatymo 3 straipsnyje, priežiūros ir jos atlikimo kontrolės bendruosius principus, siekiant užtikrinti saugų įrenginių darbą ir žmonių gyvybės, sveikatos ir aplinkos apsaugą nuo galimo žalingo šių įrenginių poveikio. Šis įstatymas taip pat taikomas įrenginių, sumontuotų ir naudojamų geležinkelių ar automobilių transporto priemonėse, priežiūrai. Pavojingų medžiagų talpykloms, gabenamoms geležinkeliu, šis įstatymas taikomas tik atliekant jų techninės būklės tikrinimą. 
+1. Šis įstatymas nustato potencialiai pavojingų įrenginių priežiūros valstybinį valdymą, potencialiai pavojingų įrenginių priežiūros reikalavimus, potencialiai pavojingų įrenginių priežiūrą atliekančių asmenų ir šių įrenginių savininkų teises, pareigas ir atsakomybę, siekiant užtikrinti potencialiai pavojingų įrenginių saugą, kad nebūtų žalingo šių įrenginių poveikio žmonių gyvybei, sveikatai ir aplinkai.
 
 
 
 
-2. Šis įstatymas netaikomas įrenginiams, kurių priežiūra yra vykdoma vadovaujantis Lietuvos Respublikos branduolinės saugos įstatymu, Lietuvos Respublikos branduolinės energijos įstatymu, Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymu ir Lietuvos Respublikos radiacinės saugos įstatymu, išskyrus branduolinės energetikos objektuose esančius šio įstatymo 3 straipsnio 1 dalies 8 punkte nurodytos grupės įrenginius, taip pat įrenginiams, naudojamiems išimtinai gynybos tikslams. 
-
-
-Straipsnio pakeitimai:
-Nr. XI-1543, 2011-06-28, Žin., 2011, Nr. 91-4320 (2011-07-19), i. k. 1111010ISTA0XI-1543
-Nr. XIII-1642, 2018-11-15, paskelbta TAR 2018-11-20, i. k. 2018-18681
- 
+2. Šis įstatymas taikomas potencialiai pavojingiems įrenginiams, kurių kategorijos nurodytos šio įstatymo 3 straipsnyje ir kurių kategorijų parametrus tvirtina Lietuvos Respublikos Vyriausybė. Šio įstatymo 3 straipsnio 4 punkte nurodytiems potencialiai pavojingiems įrenginiams, gabenamiems geležinkeliu, šis įstatymas taikomas tik atliekant jų techninės būklės tikrinimą. 
 
 
 
 
-2 straipsnis. Pagrindinės sąvokos
-
-
-1. Potencialiai pavojingi įrenginiai (toliau – įrenginiai) – darbo priemonės (darbui naudojamos mašinos, įrengimai, įrenginiai, aparatai, prietaisai ar įrankiai) ir kiti įrenginiai, kuriuos naudojant kyla pavojus darbuotojų ir kitų žmonių gyvybei, sveikatai, aplinkai ar turtui dėl juose sukauptos energijos bei vykstančių procesų ir kuriems reikalinga šio įstatymo nustatyta priežiūra. Įrenginiams priskiriami jų valdymo, signaliniai, blokavimo ir saugos įtaisai, kontroliniai matavimo prietaisai.
-
-
-
-
-2. Įrenginių naudojimas – veikla, susijusi su įrenginių paleidimu ar stabdymu, darbu, gabenimu, remontu, modifikavimu, priežiūra ir aptarnavimu, įskaitant ir valymą.
-
-
-
-
-3. Įrenginių priežiūra – atitinkamuose įrenginių naudojimo ir priežiūros teisės norminiuose aktuose bei gamintojo pateiktuose įrenginių techniniuose dokumentuose nustatyta techninių paslaugų, teisinių ir organizacinių priemonių, skirtų užtikrinti, kad naudojami įrenginiai būtų saugūs ir nekeltų pavojaus žmonėms, turtui bei aplinkai, visuma; įrenginių priežiūra yra privaloma ir skirstoma į įrenginių techninės būklės tikrinimą ir nuolatinę įrenginių priežiūrą. 
-
-
-
-
-4. Įrenginių techninės būklės tikrinimas – įrenginių naudojimo ir priežiūros teisės norminiuose aktuose, gamintojo pateiktuose įrenginių techniniuose dokumentuose nustatyta tvarka ir terminais įgaliotos įrenginių techninės būklės tikrinimo įstaigos atliekami naudojamo įrenginio privalomoji apžiūra, privalomasis įrenginio parametrų, rodančių, kad jis atitinka saugos reikalavimus, patikrinimas, įrenginio bandymai ir kiti įrenginio saugos atitikties įvertinimo veiksmai.
-
-
-
-
-5. Nuolatinė įrenginių priežiūra – įrenginių naudojimo ir priežiūros teisės norminiuose aktuose, gamintojo pateiktuose įrenginių techniniuose dokumentuose nurodyti įrenginių savininkams privalomi nuolatiniai naudojamų įrenginių techninės būklės tikrinimai, apžiūros, remontas bei kiti veiksmai.
-
-
-
-
-6. Įgaliota įrenginių techninės būklės tikrinimo įstaiga (toliau – įgaliota įstaiga) – Lietuvos Respublikoje įsteigtas juridinis asmuo, bet kurioje Europos Sąjungos valstybėje narėje ar valstybėje, pasirašiusioje Europos ekonominės erdvės susitarimą, (toliau – valstybėje narėje) įsteigtas juridinis asmuo ar kita organizacija, ar jų filialai, įsteigti Lietuvos Respublikoje ar valstybėje narėje, akredituoti kaip kontrolės įstaigos, kurioms valstybės institucija suteikė įgaliojimus tikrinti įrenginių techninę būklę. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
-Nr. XI-591, 2009-12-21, Žin., 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010ISTA00XI-591
- 
-
-
-
-
-7. Įrenginio savininkas – juridinis ar fizinis asmuo, kuriam įrenginys priklauso nuosavybės teise, arba įrenginio valdytojas, kuris valdo, naudoja įrenginį bei juo disponuoja turto patikėjimo teise. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
- 
-
-
-
-
-8. Įrenginių naudojimo ir priežiūros teisės norminiai aktai (toliau – įrenginių priežiūros norminiai aktai) – nustatyta tvarka priimti, patvirtinti ir paskelbti teisės aktai (įstatymai, Seimo, Vyriausybės nutarimai, ministro (ministrų) įsakymais patvirtintos įrenginių priežiūros taisyklės ir kiti teisės aktai, nustatantys įrenginių naudojimo reikalavimus, jų priežiūros atlikimo terminus, tvarką ir vykdymo kontrolę. 
-Straipsnio dalies pakeitimai:
-Nr. XI-591, 2009-12-21, Žin., 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010ISTA00XI-591
- 
-
-
-
-
-9. Įrenginio techniniai dokumentai (toliau – techniniai dokumentai) – įrenginio atitikties deklaracija, įrenginio sertifikatas, įrenginio pasas, brėžiniai, įrenginio priežiūros dokumentai (įrenginio montavimo ir bandymo prieš pradedant jį naudoti, aptarnavimo, remonto, demontavimo taisyklės, instrukcijos) ir kiti kartu su įrenginiu gamintojo pateikiami dokumentai, kuriuose nurodoma įrenginio paskirtis, konstrukcija, parametrai, privalomieji saugos reikalavimai bei naudojimo tvarka.
+3. Šis įstatymas netaikomas potencialiai pavojingiems įrenginiams, kurių priežiūra atliekama vadovaujantis Lietuvos Respublikos branduolinės saugos įstatymu, Lietuvos Respublikos branduolinės energijos įstatymu, Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymu ir Lietuvos Respublikos radiacinės saugos įstatymu, išskyrus branduolinės energetikos objektuose esančius šio įstatymo 3 straipsnio 9 punkte nurodytos kategorijos potencialiai pavojingus įrenginius. Šis įstatymas netaikomas potencialiai pavojingiems įrenginiams, priskirtiems karinei įrangai, įrašytai į Vyriausybės ar jos įgaliotos institucijos tvirtinamą Bendrąjį karinės įrangos sąrašą.
  
 
 
@@ -108,74 +59,40 @@ Nr. XI-591, 2009-12-21, Žin., 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010IST
 
 
 
-3 straipsnis. Įrenginių priežiūra ir įrenginių priežiūros norminių aktų taikymas
+2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Turi būti tikrinama šių grupių įrenginių techninė būklė:
-
-
-1) garo ir vandens šildymo katilų ir jų įrangos;
+1. Akredituotoji potencialiai pavojingų įrenginių techninės būklės tikrinimo įstaiga (toliau – akredituotoji įstaiga) – Lietuvos Respublikoje įsteigtas juridinis asmuo, kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje (toliau – valstybė narė) įsteigtas juridinis asmuo ar kita organizacija arba Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas jų filialas (toliau – juridinis asmuo), akreditavimo įstaigos pripažinti kompetentingi tikrinti potencialiai pavojingų įrenginių techninę būklę.
 
 
 
 
-2) slėginių indų ir jų įrangos;
+2. Nuolatinė potencialiai pavojingų įrenginių priežiūra – potencialiai pavojingų įrenginių priežiūros norminiuose teisės aktuose ir gamintojo pateiktuose šių įrenginių techniniuose dokumentuose nurodytas potencialiai pavojingų įrenginių savininkams privalomas nuolat atlikti šių įrenginių techninių parametrų tikrinimas, apžiūra, remontas ir kiti nurodyti veiksmai.
 
 
 
 
-3) pavojingų medžiagų slėginių vamzdynų, slėginių garotiekių ir karšto vandens vamzdynų bei jų įrangos;
+3. Potencialiai pavojingi įrenginiai – įrenginiai, kurie atitinka šiame įstatyme nurodytas kategorijas ir Vyriausybės patvirtintus šių įrenginių kategorijų parametrus ir kuriuos naudojant dėl juose susikaupusios energijos ir vykstančių procesų kyla pavojus (galima grėsmė) žmonių gyvybei, sveikatai ar aplinkai. 
 
 
 
 
-4) pavojingų medžiagų talpyklų ir jų įrangos;
+4. Potencialiai pavojingo įrenginio savininkas – juridinis ar fizinis asmuo, kuriam potencialiai pavojingas įrenginys priklauso nuosavybės teise, arba potencialiai pavojingo įrenginio valdytojas, kuris valdo, naudoja potencialiai pavojingą įrenginį ir juo disponuoja turto patikėjimo teise. 
 
 
 
 
-5) liftų ir jų įrangos;
+5. Potencialiai pavojingų įrenginių priežiūra – potencialiai pavojingų įrenginių priežiūros norminiuose teisės aktuose ir gamintojo pateiktuose šių įrenginių techniniuose dokumentuose nustatyta privaloma visuma techninių paslaugų, teisinių ir organizacinių priemonių, kuriomis užtikrinama potencialiai pavojingų įrenginių sauga, siekiant išvengti žalingo šių įrenginių poveikio žmonių gyvybei, sveikatai ir aplinkai. Potencialiai pavojingų įrenginių priežiūra apima nuolatinę potencialiai pavojingų įrenginių priežiūrą ir potencialiai pavojingų įrenginių techninės būklės tikrinimą.
 
 
 
 
-6) lynų kelių, funikulierių ir jų įrangos;
+6. Potencialiai pavojingų įrenginių priežiūros norminiai teisės aktai – teisės aktai, kuriais nustatomi potencialiai pavojingų įrenginių priežiūros reikalavimai, jos atlikimo terminai, tvarka ir atlikimo kontrolė. 
 
 
 
 
-7) eskalatorių ir jų įrangos;
-
-
-
-
-8) kėlimo įrenginių ir jų įrangos; 
-Straipsnio punkto pakeitimai:
-Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
- 
-
-
-
-
-9) Neteko galios nuo 2008-09-01
-Straipsnio punkto naikinimas:
-Nr. X-1699, 2008-07-14, Žin. 2008, Nr. 87-3459 (2008-07-31), i. k. 1081010ISTA00X-1699
- 
-
-
-
-
-10) pramoginių įrenginių ir jų įrangos;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
- 
-
-
-
-
-11) degiąsias dujas naudojančių pramoninių įrenginių ir jų įrangos. 
-Papildyta straipsnio punktu:
-Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+7. Potencialiai pavojingų įrenginių techninės būklės tikrinimas – potencialiai pavojingų įrenginių priežiūros norminiuose teisės aktuose ir gamintojo pateiktuose šių įrenginių techniniuose dokumentuose nustatyta tvarka ir terminais akredituotosios įstaigos atliekama privaloma potencialiai pavojingų įrenginių apžiūra, privalomas šių įrenginių atitikties saugos reikalavimams tikrinimas, bandymai ir kiti jų saugos įvertinimo veiksmai.
  
 
 
@@ -183,311 +100,63 @@ Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010IS
 
 
 
-2. Įrenginių gamintojai, jų įgalioti atstovai ir kiti juridiniai bei fiziniai asmenys, tiekiantys įrenginius į rinką, privalo vadovautis įrenginių priežiūros norminiais aktais ir užtikrinti, kad į rinką pateikti įrenginiai turėtų jų saugos atitiktį patvirtinančius dokumentus ir kad naudojamas įrenginys atitiktų konkretaus priežiūros norminio akto reikalavimus. Įrenginių gamintojai bei montuotojai privalo užtikrinti, kad įrenginiai būtų pagaminti, sumontuoti ir išbandyti pagal įrenginių priežiūros norminių aktų reikalavimus. Įrenginių projektavimo ir gamybos stadijose privalomąją priežiūrą priežiūros norminių aktų, kitų teisės aktų nustatyta tvarka atlieka paskelbtos (notifikuotos) įstaigos. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
- 
+3 straipsnis. Potencialiai pavojingų įrenginių kategorijos 
 
 
+Potencialiai pavojingi įrenginiai skirstomi į šias kategorijas:
 
 
-3. Visų montuojamų, naudojamų įrenginių, taip pat jiems remontuoti ir rekonstruoti naudojamų mazgų, detalių ir medžiagų priežiūra, nustatyta šių įrenginių priežiūros norminiuose aktuose bei įrenginių techniniuose dokumentuose, yra privaloma. 
+1) garo ir vandens šildymo katilai;
 
 
 
 
-4. Įrenginių savininkai, įgaliotos įstaigos, Valstybinė darbo inspekcija atlikdami savo funkcijas vadovaujasi įrenginių priežiūros norminiais aktais bei įrenginių techniniais dokumentais.
- 
+2) slėginiai indai;
 
 
 
 
+3) pavojingų medžiagų slėginiai vamzdynai, slėginiai garotiekiai ir karšto vandens vamzdynai;
 
 
-4 straipsnis. Įrenginių priežiūros valstybinis reguliavimas
 
 
-1. Vyriausybė: 
+4) beslėgės pavojingų medžiagų talpyklos;
 
 
-1) tvirtina įrenginių, nurodytų šio įstatymo 3 straipsnio 1 dalyje, kategorijų sąrašą;
 
 
+5) liftai;
 
 
-2) steigia potencialiai pavojingų įrenginių valstybės registrą ir tvirtina jo nuostatus;
 
 
+6) variklinės pavaros keltuvai žmonėms ir kroviniams kelti;
 
 
-3) paskiria valstybės institucijas, atsakingas už atskirų kategorijų įrenginių priežiūros organizavimą; 
 
 
+7) lynų keliai;
 
 
-4) nustato įgaliojimų tikrinti įrenginių techninę būklę suteikimo akredituotoms kontrolės įstaigoms tvarką; 
-Straipsnio punkto pakeitimai:
-Nr. XI-591, 2009-12-21, Žin., 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010ISTA00XI-591
- 
 
 
+8) eskalatoriai ir judamieji takai;
 
 
-5) Neteko galios nuo 2010-01-01
-Straipsnio punkto naikinimas:
-Nr. XI-591, 2009-12-21, Žin. 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010ISTA00XI-591
- 
 
 
+9) kėlimo įrenginiai;
 
 
-6) Neteko galios nuo 2008-09-01
-Straipsnio punkto naikinimas:
-Nr. X-1699, 2008-07-14, Žin. 2008, Nr. 87-3459 (2008-07-31), i. k. 1081010ISTA00X-1699
-Straipsnio punkto pakeitimai:
-Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
- 
 
 
+10) variklinės pavaros pramoginiai įrenginiai;
 
 
-7) tvirtina Nuolatinės potencialiai pavojingų įrenginių priežiūros licencijavimo taisykles.
-Papildyta straipsnio punktu:
-Nr. X-1170, 2007-06-07, Žin., 2007, Nr. 69-2721 (2007-06-23), i. k. 1071010ISTA00X-1170
- 
 
 
-
-
-
-
-2. Socialinės apsaugos ir darbo ministerija koordinuoja valstybės institucijų, atsakingų už atskirų kategorijų įrenginių priežiūros organizavimą, veiklą. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
- 
-
-
-
-
-
-
-5 straipsnis. Įrenginių priežiūros organizavimas
-
-
-Valstybės institucijos, atsakingos už atskirų kategorijų įrenginių priežiūros organizavimą:
-
-
-1) Vyriausybės nustatyta tvarka suteikia akredituotoms kontrolės įstaigoms įgaliojimus tikrinti atskirų kategorijų įrenginių techninę būklę arba juos panaikina; 
-Straipsnio punkto pakeitimai:
-Nr. XI-591, 2009-12-21, Žin., 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010ISTA00XI-591
- 
-
-
-
-
-2) tvirtina įrenginių, kurių priežiūrą joms pavesta organizuoti, priežiūros norminius aktus;
-
-
-
-
-3) pagal Vyriausybės patvirtintą įrenginių kategorijų sąrašą sudaro ir tvirtina įgaliotų įstaigų prižiūrimų ir valstybės registre registruojamų įrenginių sąrašą (nurodydamos jų parametrus);
-
-
-
-
-4) Neteko galios nuo 2008-09-01
-Straipsnio punkto naikinimas:
-Nr. X-1699, 2008-07-14, Žin. 2008, Nr. 87-3459 (2008-07-31), i. k. 1081010ISTA00X-1699
- 
-
-
-
-
-5) nustato naujų importuojamų įrenginių, išskyrus tuos, kurie atitinka techninių reglamentų reikalavimus, ir importuojamų naudotų įrenginių techninių dokumentų patikrinimo bei šių įrenginių tinkamumo naudoti Lietuvos Respublikoje pripažinimo tvarką. 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
- 
-
-
-
-
-51 straipsnis. Įgaliojimų suteikimas akredituotoms kontrolės įstaigoms
-
-
-1. Akredituota kontrolės įstaiga, siekianti tapti įgaliota įstaiga, privalo būti akredituota kaip A tipo kontrolės įstaiga pagal Lietuvos standartą LST EN ISO/IEC 17020. Akreditavimo sritis turi atitikti įrenginių kategoriją (kategorijas).
-
-
-
-
-2. Akredituota kontrolės įstaiga, siekianti tapti įgaliota įstaiga, valstybės institucijai, atsakingai už atskirų kategorijų įrenginių priežiūros organizavimą, pateikia Įgaliojimų tikrinti įrenginių techninę būklę suteikimo akredituotoms kontrolės įstaigoms tvarkos apraše nustatytus reikalavimus atitinkantį prašymą. Kartu su prašymu akredituota kontrolės įstaiga turi pateikti:
-
-
-1) akreditavimo pažymėjimo kopiją;
-
-
-
-
-2) civilinės atsakomybės draudimo sutarties kopiją.
-
-
-
-
-
-
-3. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, priima sprendimą suteikti įgaliojimą tikrinti įrenginių techninę būklę (toliau – įgaliojimas), gavusi šio straipsnio 2 dalyje nurodytus dokumentus ir patikrinusi, ar akredituota kontrolės įstaiga atitinka šio straipsnio 1 dalyje nustatytą reikalavimą. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, nustačiusi, kad akredituota įstaiga pateikė ne visus reikiamus dokumentus ar juose yra netikslių ar klaidingų duomenų, apie tai praneša akredituotai įstaigai ir nustato terminą trūkumams pašalinti.
-
-
-
-
-4. Įgaliojimas suteikiamas ar motyvuotas atsisakymas jį suteikti pateikiamas akredituotai kontrolės įstaigai ne vėliau kaip per 30 dienų nuo prašymo gavimo. Laikotarpis, per kurį akredituota kontrolės įstaiga pateikia trūkstamus duomenis, neįskaitomas į sprendimo priėmimo laikotarpį, tačiau ir tokiu atveju sprendimas turi būti priimtas ne vėliau kaip per 30 dienų nuo visų dokumentų pateikimo. Įgaliojimo nesuteikimas ar motyvuoto atsisakymo suteikti įgaliojimą nepateikimas per šioje dalyje nustatytus terminus nelaikomas įgaliojimo suteikimu.
-
-
-
-
-5. Įgaliota įstaiga privalo:
-
-
-1) laikytis Lietuvos standarto LST EN ISO/IEC 17020 reikalavimų;
-
-
-
-
-2) laikytis šio įstatymo, įrenginių priežiūros norminių aktų ir įrenginių techniniuose dokumentuose nurodytų reikalavimų, užtikrinti laiku ir kokybiškai atliekamą įrenginių techninės būklės tikrinimą, vartotojų apsaugą ir aplinkos apsaugos reikalavimų laikymąsi, nepažeisti sąžiningos konkurencijos, veiklos viešumo ir informavimo principų, atsakingai priimti su įrenginių technine būkle susijusius sprendimus;
-
-
-
-
-3) teikti įgaliojimą suteikusiai valstybės institucijai informaciją apie savo veiklą – kiekvienais metais iki kovo 15 dienos pateikti metinę įstaigos veiklos ataskaitą pagal Įgaliojimų tikrinti įrenginių techninę būklę suteikimo akredituotoms kontrolės įstaigoms tvarkos apraše nustatytus reikalavimus;
-
-
-
-
-4) pranešti įgaliojimą suteikusiai valstybės institucijai apie teisinio statuso, įgaliojime nurodytų duomenų pasikeitimus ar pasikeitimus, dėl kurių nebeužtikrinamos įgaliojimo suteikimo sąlygos. 
-
-
-
-
-
-
-6. Įgaliotų įstaigų priežiūrą dėl akreditavimo sąlygų laikymosi atlieka Nacionalinis akreditacijos biuras prie Ūkio ministerijos ir apie jos rezultatus praneša įgaliojimą suteikusiai valstybės institucijai.
-
-
-
-
-7. Įgaliojimą suteikusi valstybės institucija, nustačiusi, kad įgaliota įstaiga nesilaiko šio straipsnio 5 dalyje nustatytų reikalavimų, raštu praneša įgaliotai įstaigai apie nustatytus pažeidimus, nurodydama terminą jiems pašalinti. Taip pat įgaliojimą suteikusi valstybės institucija raštu praneša įgaliotai įstaigai apie įgaliojimo galiojimo sustabdymą, šio sustabdymo panaikinimą ir įgaliojimo galiojimo panaikinimą.
-
-
-
-
-8. Įgaliojimas nesuteikiamas, jeigu:
-
-
-1) akredituota kontrolės įstaiga, siekianti tapti įgaliota įstaiga, neatitinka šio straipsnio 1 dalyje nustatyto reikalavimo;
-
-
-
-
-2) pateikti ne visi šio straipsnio 2 dalyje nurodyti dokumentai arba per nustatytą terminą nepašalinti šio straipsnio 3 dalyje nurodyti trūkumai.
-
-
-
-
-
-
-9. Įgaliojimas pakeičiamas, kai panaikinama teisė teikti bent vieną iš įgaliojime nurodytų paslaugų.
-
-
-
-
-10. Įgaliojimo galiojimas sustabdomas šiais atvejais:
-
-
-1) įgaliotos įstaigos prašymu;
-
-
-
-
-2) jeigu paaiškėja, kad įgaliota įstaiga įgaliojimą suteikusiai valstybės institucijai pateikė neteisingus duomenis;
-
-
-
-
-3) jeigu nustatoma, kad įgaliota įstaiga nesilaiko akreditavimo sąlygų;
-
-
-
-
-4) jeigu nustatoma, kad įgaliota įstaiga nesilaiko įrenginių priežiūros norminių teisės aktų reikalavimų.
-
-
-
-
-
-
-11. Įgaliojimo galiojimo sustabdymas panaikinamas:
-
-
-1) įgaliotos įstaigos prašymu, jeigu įgaliojimo galiojimas buvo sustabdytas jos prašymu;
-
-
-
-
-2) kai įgaliojimą suteikusi valstybės institucija, gavusi įgaliotos įstaigos rašytinį pranešimą apie pašalintus pažeidimus, nustato, kad įgaliota įstaiga juos pašalino.
-
-
-
-
-
-
-12. Įgaliojimo galiojimas panaikinamas šiais atvejais:
-
-
-1) įgaliotos įstaigos prašymu;
-
-
-
-
-2) jeigu įgaliota įstaiga, kurios įgaliojimo galiojimas buvo sustabdytas, per įgaliojimą suteikusios valstybės institucijos nustatytą terminą nepašalina pažeidimų, dėl kurių įgaliojimo galiojimas buvo sustabdytas;
-
-
-
-
-3) kai įgaliota įstaiga reorganizuota arba įgyja likviduojamo juridinio asmens teisinį statusą. 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. XIII-1159, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08531
- 
-
-
-
-
-6 straipsnis. Valstybinės darbo inspekcijos funkcijos įrenginių priežiūros srityje
-
-
-Valstybinė darbo inspekcija:
-
-
-1) vadovaudamasi Valstybinės darbo inspekcijos įstatymu, kontroliuoja, ar laikomasi įrenginių techninės būklės tikrinimo tvarkos ir terminų, taip pat ar įrenginių priežiūros teisės aktų nustatyta tvarka įrenginių savininkai atlieka jų nuolatinę priežiūrą; 
-Straipsnio punkto pakeitimai:
-Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
- 
-
-
-
-
-2) atlieka potencialiai pavojingų įrenginių valstybės registro tvarkymo įstaigos funkcijas pagal Vyriausybės patvirtintus nuostatus;
-
-
-
-
-3) organizuoja įrenginių priežiūros norminių aktų projektų rengimą.
+11) degiąsias dujas naudojantys pramoniniai įrenginiai.
  
 
 
@@ -497,18 +166,35 @@ Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010IS
 
 
 
-7 straipsnis. Įgaliotų įstaigų uždaviniai
 
 
-Įgaliotų įstaigų uždaviniai:
+II SKYRIUS 
+POTENCIALIAI PAVOJINGŲ ĮRENGINIŲ PRIEŽIŪROS VALSTYBINIS VALDYMAS
+ 
 
 
-1) įrenginių priežiūros norminių aktų ir įrenginių techninių dokumentų nustatyta tvarka teikti išvadas įrenginių savininkams dėl įrenginių tinkamumo pradėti juos naudoti; 
+4 straipsnis. Vyriausybės kompetencija potencialiai pavojingų įrenginių priežiūros srityje
+
+
+Vyriausybė: 
+
+
+1) steigia Potencialiai pavojingų įrenginių valstybės registrą (toliau – Registras), tvirtina jo nuostatus ir skiria Registro tvarkytoją; 
 
 
 
 
-2) įrenginių priežiūros norminiuose aktuose ir įrenginių techniniuose dokumentuose nustatyta tvarka tikrinti įrenginių techninę būklę jų naudojimo metu.
+2) tvirtina potencialiai pavojingų įrenginių, kurių kategorijos nurodytos šio įstatymo 3 straipsnyje, parametrus; 
+
+
+
+
+3) skiria valstybės institucijas, atsakingas už atskirų potencialiai pavojingų įrenginių kategorijų ar tų įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros administracinį reglamentavimą;
+
+
+
+
+4) skiria valstybės institucijas, atsakingas už atskirų potencialiai pavojingų įrenginių kategorijų ar tų įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros reikalavimų įgyvendinimo kontrolę.
  
 
 
@@ -518,45 +204,28 @@ Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010IS
 
 
 
-8 straipsnis. Įgaliotų įstaigų funkcijos ir teisės
+5 straipsnis. Valstybės institucijų, atsakingų už atskirų potencialiai pavojingų įrenginių kategorijų ar tų įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros administracinį reglamentavimą, kompetencija
 
 
-1. Įgaliotų įstaigų funkcijos: 
+Valstybės institucijos, atsakingos už atskirų potencialiai pavojingų įrenginių kategorijų ar tų įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros administracinį reglamentavimą:
 
 
-1) įrenginių priežiūros norminių aktų nustatyta tvarka ir vadovaujantis įrenginių techniniais dokumentais įvertinti įrenginių techninę būklę ir teikti išvadas įrenginių savininkams dėl įrenginių tinkamumo pradėti juos naudoti;
-
-
-
-
-2) sudaryti sutartis su įrenginių savininkais dėl įrenginių techninės būklės tikrinimo;
+1) priima potencialiai pavojingų įrenginių priežiūros norminius teisės aktus; 
 
 
 
 
-3) įrenginių priežiūros norminių aktų ir įrenginių techninių dokumentų nustatyta tvarka ir terminais patikrinti įrenginių techninę būklę: po instaliavimo, prieš juos paleidžiant pirmą kartą į darbą, taip pat sumontavus naujoje vietoje ar vietovėje; periodiškai ir specialiai, susidarius išskirtinėms aplinkybėms (po avarijos, gamtos reiškinių poveikio, neįprastų ar ilgalaikių prastovų, modifikavimo); 
+2) nustato asmenų, atliekančių nuolatinę potencialiai pavojingų įrenginių priežiūrą, kvalifikacijos arba specialiųjų žinių ir įgūdžių reikalavimus;
 
 
 
 
-4) prieš pradedant įrenginį naudoti ir patikrinus įrenginio techninę būklę, Vyriausybės tvirtinamų Potencialiai pavojingų įrenginių valstybės registro nuostatų nustatyta tvarka teikti duomenis apie prižiūrimus įrenginius šio registro tvarkymo įstaigai;
+3) tvirtina būtiniausios įrangos, prietaisų ir priemonių, reikalingų nuolatinei potencialiai pavojingų įrenginių priežiūrai atlikti, sąrašus;
 
 
 
 
-5) Neteko galios nuo 2008-09-01
-Straipsnio punkto naikinimas:
-Nr. X-1699, 2008-07-14, Žin. 2008, Nr. 87-3459 (2008-07-31), i. k. 1081010ISTA00X-1699
-Straipsnio punkto pakeitimai:
-Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
- 
-
-
-
-
-6) nustačius, kad gali įvykti įrenginio avarija ar atsirasti sutrikimų, keliančių pavojų darbuotojų ir kitų žmonių sveikatai, gyvybei, turtui ar aplinkai, apie tai nedelsiant raštu informuoti įrenginio savininką ir Valstybinę darbo inspekciją, o jeigu tai susiję su potencialiai pavojingais įrenginiais, esančiais branduolinės energetikos objekte, – taip pat Valstybinę atominės energetikos saugos inspekciją. 
-Straipsnio punkto pakeitimai:
-Nr. XI-1543, 2011-06-28, Žin., 2011, Nr. 91-4320 (2011-07-19), i. k. 1111010ISTA0XI-1543
+4) priima potencialiai pavojingų įrenginių avarijų tyrimo nuostatus.
  
 
 
@@ -564,27 +233,30 @@ Nr. XI-1543, 2011-06-28, Žin., 2011, Nr. 91-4320 (2011-07-19), i. k. 1111010IST
 
 
 
-2. Įgaliotos įstaigos turi teisę:
 
 
-1) dalyvauti tiriant naudojamų įrenginių avarijas bei darbo sutrikimus, analizuoti jų priežastis, teikti pasiūlymus dėl šių įrenginių tobulinimo institucijoms, atsakingoms už įrenginių priežiūros organizavimą, siekiant išvengti avarijų bei sutrikimų; 
+6 straipsnis. Valstybės institucijų, atsakingų už atskirų potencialiai pavojingų įrenginių kategorijų ar tų įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros reikalavimų įgyvendinimo kontrolę, kompetencija
 
 
+Valstybės institucijos, atsakingos už atskirų potencialiai pavojingų įrenginių kategorijų ar tų įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros reikalavimų įgyvendinimo kontrolę:
 
 
-2) atlikdamos įrenginių priežiūros funkcijas bendradarbiauti tarpusavyje bei su atitinkamomis kitų valstybių ir tarptautinėmis įstaigomis;
-
-
-
-
-3) teikti konsultacijas bei ekspertų paslaugas ir nustatyti šių paslaugų rinkos kainas.
+1) kontroliuoja, ar laikomasi potencialiai pavojingų įrenginių techninės būklės tikrinimo tvarkos ir terminų, ar potencialiai pavojingų įrenginių priežiūros norminių teisės aktų nustatyta tvarka atliekama nuolatinė potencialiai pavojingų įrenginių priežiūra, ar įgyvendinti asmenų, atliekančių nuolatinę potencialiai pavojingų įrenginių priežiūrą, kvalifikacijos arba specialiųjų žinių ir įgūdžių reikalavimai, ar turima įranga, prietaisai ir priemonės atitinka į šio įstatymo 5 straipsnio 3 punkte nurodytus sąrašus įrašytą būtiniausią įrangą, prietaisus ir priemones; 
 
 
 
 
+2) nustačiusios, kad dėl potencialiai pavojingų įrenginių priežiūros reikalavimų pažeidimų yra grėsmė žmonių gyvybei, sveikatai ar aplinkai, informuoja potencialiai pavojingo įrenginio savininką apie nustatytus pažeidimus ir uždraudžia naudoti potencialiai pavojingą įrenginį, iki bus pašalinti nustatyti pažeidimai;
 
 
-3. Įgaliotų įstaigų darbuotojai gali dalyvauti rengiant darbų su įrenginiais vadovus ir darbuotojus – juos mokyti ir atestuoti.
+
+
+3) nustačiusiosios šio straipsnio 1 ar 2 punkto ar šio įstatymo 12 straipsnio 2 dalies 2–7 punktų pažeidimus, taiko Lietuvos Respublikos administracinių nusižengimų kodekse numatytą atsakomybę;
+
+
+
+
+4) kiekvienais metais iki balandžio 1 dienos pateikia valstybės institucijoms, atsakingoms už atskirų potencialiai pavojingų įrenginių kategorijų ar tų įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros administracinį reglamentavimą, metinę šio straipsnio 1, 2 ir 3 punktuose nurodytos potencialiai pavojingų įrenginių priežiūros reikalavimų įgyvendinimo kontrolės rezultatų ataskaitą. 
  
 
 
@@ -592,33 +264,20 @@ Nr. XI-1543, 2011-06-28, Žin., 2011, Nr. 91-4320 (2011-07-19), i. k. 1111010IST
 
 
 
-9 straipsnis. Įgaliotų įstaigų ir jų darbuotojų atsakomybė
 
 
-1. Įgaliotos įstaigos: 
+7 straipsnis. Nacionalinio akreditacijos biuro kompetencija
 
 
-1) įstatymų nustatyta tvarka atsako už joms pavestų įrenginių priežiūros funkcijų ir suteiktų įgaliojimų vykdymą;
+Nacionalinis akreditacijos biuras:
 
 
-
-
-2) atsako už savo veiksmus ir sprendimus; dėl jų kaltės padaryta žala juridiniams ir fiziniams asmenims atlyginama įstatymų nustatyta tvarka; 
-Straipsnio punkto pakeitimai:
-Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
- 
+1) Lietuvos Respublikos atitikties įvertinimo įstatymo nustatyta tvarka įvertina ir akredituoja juridinius asmenis, siekiančius tapti akredituotosiomis įstaigomis, išduoda akreditavimo pažymėjimus, sustabdo akreditavimo pažymėjimų galiojimą, panaikina akreditavimo pažymėjimų galiojimo sustabdymą ir panaikina akreditavimo pažymėjimų galiojimą, teikia viešai informaciją apie akredituotąsias įstaigas ir atlieka akredituotųjų įstaigų, kurioms yra išdavusi akreditacijos pažymėjimus, veiklos atitikties priežiūrą;
 
 
 
 
-3) privalo turėti civilinės atsakomybės draudimo sutartį.
-
-
-
-
-
-
-2. Įgaliotų įstaigų darbuotojai privalo saugoti valstybės, tarnybos bei įmonių paslaptis ir nepriklausyti nuo įrenginių gamintojų, suteikusių įgaliojimus valstybės institucijų bei įrenginių savininkų.
+2) praneša valstybės institucijoms, atsakingoms už atskirų potencialiai pavojingų įrenginių kategorijų ar tų įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros reikalavimų įgyvendinimo kontrolę, apie akredituotųjų įstaigų akreditavimo pažymėjimų išdavimą, akreditavimo pažymėjimų galiojimo sustabdymą, sustabdymo panaikinimą ar jų panaikinimą per 5 darbo dienas nuo sprendimo priėmimo.
  
 
 
@@ -626,70 +285,12 @@ Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010IS
 
 
 
-10 straipsnis. Įrenginių savininkų pareigos ir teisės
 
 
-1. Įrenginių savininkai privalo užtikrinti saugų įrenginių naudojimą, reikiamą techninę būklę ir nuolatinę priežiūrą pagal priežiūros norminių aktų ir įrenginių techninių dokumentų reikalavimus visą įrenginio naudojimo laiką. Savininko įsigyti, sumontuoti, rekonstruoti įrenginiai ir jų kokybę bei atitiktį patvirtinantys, taip pat priežiūros techniniai dokumentai priežiūros norminių aktų nustatyta tvarka privalo būti pateikti įgaliotoms įstaigoms patikrinti, kad būtų gauta išvada, ar įrenginiai tinkami ir parengti saugiai naudoti.
+8 straipsnis. Registro valdytojas
 
 
-
-
-2. Įrenginių savininkai įrenginių priežiūros teisės aktų nustatyta tvarka privalo:
-
-
-1) įrenginius pradėti naudoti tik gavę įgaliotos įstaigos išvadą, kad jie yra tinkami saugiai naudoti;
-
-
-
-
-2) gavę įgaliotos įstaigos išvadą, kad įrenginys yra tinkamas saugiai naudoti, užregistruoti jį Valstybinėje darbo inspekcijoje Potencialiai pavojingų įrenginių valstybės registro nuostatuose nustatyta tvarka;
-
-
-
-
-3) vadovaudamiesi įrenginių priežiūros norminiais aktais ir įrenginių techniniais dokumentais, atlikti nuolatinę naudojamų įrenginių priežiūrą;
-
-
-
-
-4) sudaryti sutartį dėl įrenginio techninės būklės tikrinimo su pačių pasirinkta įgaliota įstaiga;
-
-
-
-
-5) paruošti įrenginius įgaliotų įstaigų atliekamiems priežiūros veiksmams ir apie tai šioms įstaigoms pranešti, sudaryti jų darbuotojams reikiamas darbo sąlygas ir pateikti įrenginių techninius dokumentus;
-
-
-
-
-6) įrenginių nuolatinės priežiūros metu ar kai įgaliota įstaiga įrenginių techninės būklės tikrinimo metu nustato, kad gali įvykti įrenginio avarija, atsirasti sutrikimų, kad įrenginiai kelia pavojų darbuotojų ir kitų žmonių sveikatai, gyvybei, turtui ar aplinkai, sustabdyti (išjungti) įrenginį ar įrenginius;
-
-
-
-
-7) už žalą, padarytą nesaugiai naudojant įrenginį, atlyginti įstatymų nustatyta tvarka;
-
-
-
-
-8) pranešti Valstybinei darbo inspekcijai, įgaliotoms įstaigoms apie įrenginių avarijas, jų naudojimo sutrikimus ir su tuo susijusius sunkius ir mirtinus nelaimingus atsitikimus bei žalą aplinkai ar turtui, organizuoti avarijų padarinių lokalizavimą ir likvidavimą bei tyrimą;
-
-
-
-
-9) įrenginiams naudoti ir prižiūrėti skirti teisės aktų nustatyta tvarka apmokytus ir atestuotus asmenis, aprūpinti juos įrenginių techniniais dokumentais; 
-
-
-
-
-10) apmokėti už įgaliotų įstaigų atliktus įrenginio techninės būklės tikrinimus pagal įgaliotų įstaigų nustatytas kainas ir (ar) tarifus;
-
-
-
-
-11) pasibaigus įrenginių gamintojo nurodytam arba norminiuose teisės aktuose nustatytam įrenginių naudojimo laikui, juos toliau naudoti tik atlikus nuodugnų techninės būklės tyrimą ir gavus įgaliotos įstaigos išvadą, kad įrenginiai tinkami naudoti. 
-Papildyta straipsnio punktu:
-Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
+Lietuvos Respublikos valstybinė darbo inspekcija prie Socialinės apsaugos ir darbo ministerijos yra Registro valdytoja.
  
 
 
@@ -697,16 +298,91 @@ Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010IS
 
 
 
-3. Įrenginio savininkas pareigas, nurodytas šio straipsnio 2 dalies 3, 5 ir 9 punktuose, arba jas ir nurodytas šio straipsnio 2 dalies 2 ir 8 punktuose, susijusias su įrenginio priežiūros vykdymu, sutartyje numatytomis sąlygomis gali perduoti juridiniam asmeniui, turinčiam nuolatinės įrenginių priežiūros licenciją arba turinčiam atestatą vykdyti energetikos įrenginių eksploatavimą ir apsidraudusiam civilinės atsakomybės draudimu. Įrenginius, kuriuos jų savininkai gali pagal sutartis perduoti administruoti juridiniams asmenims, nustato valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą. 
-Straipsnio dalies pakeitimai:
-Nr. IX-1867, 2003-12-02, Žin., 2003, Nr. 119-5404 (2003-12-18), i. k. 1031010ISTA0IX-1867
-Nr. X-1170, 2007-06-07, Žin., 2007, Nr. 69-2721 (2007-06-23), i. k. 1071010ISTA00X-1170
+
+
+III SKYRIUS 
+POTENCIALIAI PAVOJINGŲ ĮRENGINIŲ PRIEŽIŪROS REIKALAVIMAI. POTENCIALIAI PAVOJINGŲ ĮRENGINIŲ PRIEŽIŪRĄ ATLIEKANČIŲ ASMENŲ IR ŠIŲ ĮRENGINIŲ SAVININKŲ TEISĖS, PAREIGOS BEI ATSAKOMYBĖ
+ 
+
+
+9 straipsnis. Reikalavimai akredituotosioms įstaigoms 
+
+
+1. Potencialiai pavojingų įrenginių techninės būklės tikrinimą atlieka akredituotoji įstaiga, akredituota kaip A tipo kontrolės įstaiga pagal standartą LST EN ISO/IEC 17020 atlikti šio įstatymo 5 straipsnio 1 punkte nurodytuose norminiuose teisės aktuose nustatytas procedūras. Akreditavimo sritis turi atitikti tikrinamų potencialiai pavojingų įrenginių kategoriją (kategorijas) ir jų parametrus. 
+
+
+
+
+2. Akredituotoji įstaiga turi būti apsidraudusi civilinės atsakomybės draudimu. Minimali metinė draudimo suma negali būti mažesnė kaip šimtas tūkstančių eurų.
  
 
 
 
 
-4. Įrenginio savininkas turi teisę pareikalauti, kad įgaliota įstaiga vykdytų įrenginio techninės būklės tikrinimo sutarties sąlygas. Jeigu įgaliota įstaiga atsisako vykdyti sutarties sąlygas, ginčas sprendžiamas įstatymų nustatyta tvarka.
+
+
+10 straipsnis. Akredituotųjų įstaigų teisės, pareigos ir atsakomybė
+
+
+1. Akredituotosios įstaigos turi teisę:
+
+
+1) dalyvauti tiriant potencialiai pavojingų įrenginių veiklos sutrikimus ir avarijas, analizuoti jų priežastis, teikti pasiūlymus dėl šių įrenginių priežiūros tobulinimo valstybės institucijoms, atsakingoms už atskirų potencialiai pavojingų įrenginių kategorijų ar šių įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros administracinį reglamentavimą;
+
+
+
+
+2) atlikdamos potencialiai pavojingų įrenginių priežiūrą, bendradarbiauti tarpusavyje ir su atitinkamomis valstybių narių įstaigomis, organizacijomis; 
+
+
+
+
+3) teikti informaciją potencialiai pavojingų įrenginių savininkams apie potencialiai pavojingų įrenginių priežiūrą ir jų atitiktį saugos reikalavimams.
+
+
+
+
+
+
+2. Akredituotųjų įstaigų pareigos: 
+
+
+1) laikytis standarto LST EN ISO/IEC 17020 reikalavimų;
+
+
+
+
+2) potencialiai pavojingų įrenginių priežiūros norminiuose teisės aktuose ir gamintojo pateiktuose potencialiai pavojingų įrenginių techniniuose dokumentuose nustatyta tvarka ir terminais tikrinti potencialiai pavojingų įrenginių techninę būklę juos sumontavus, prieš juos pradedant naudoti pirmą kartą, taip pat sumontavus naujoje vietoje; tikrinti potencialiai pavojingų įrenginių techninę būklę potencialiai pavojingų įrenginių priežiūros norminiuose teisės aktuose nustatytu periodiškumu, taip pat susidarius išskirtinėms aplinkybėms (po avarijos, gamtos reiškinių poveikio, neįprastų ar ilgalaikių prastovų, įrenginių modifikavimo), teikti išvadas potencialiai pavojingų įrenginių savininkams dėl potencialiai pavojingų įrenginių tinkamumo juos naudoti ir saugos žmonių gyvybei, sveikatai ar aplinkai;
+
+
+
+
+3) nustačius neatitiktį potencialiai pavojingų įrenginių priežiūros norminių teisės aktų ir gamintojo pateiktų šių įrenginių techninių dokumentų reikalavimams, dėl kurios kyla grėsmė žmonių gyvybei, sveikatai ar aplinkai ir (ar) dėl kurios gali įvykti potencialiai pavojingo įrenginio avarija, apie tai nedelsiant pranešti potencialiai pavojingo įrenginio savininkui ir ne vėliau kaip per vieną kalendorinę dieną nuo neatitikties nustatymo dienos potencialiai pavojingo įrenginio savininką ir valstybės instituciją, atsakingą už atskirų potencialiai pavojingų įrenginių kategorijų ar tų įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros reikalavimų įgyvendinimo kontrolę, informuoti raštu, o jeigu neatitiktis susijusi su potencialiai pavojingais įrenginiais, esančiais branduolinės energetikos objekte, – ir valstybės instituciją, atsakingą už branduolinės saugos priežiūrą;
+
+
+
+
+4) teikti Registro nuostatuose nurodytus potencialiai pavojingų įrenginių techninės būklės patikrinimo duomenis ir duomenis apie sutartis su potencialiai pavojingų įrenginių savininkais dėl potencialiai pavojingo įrenginio techninės būklės tikrinimo Registro nuostatuose nustatyta tvarka ir terminais; 
+
+
+
+
+5) užtikrinti informacijos, kuri sudaro valstybės ar potencialiai pavojingo įrenginio savininko komercinę (gamybinę) paslaptį, konfidencialumą.
+
+
+
+
+
+
+3. Akredituotosios įstaigos atsako už: 
+
+
+1) šio straipsnio 2 dalyje nurodytų pareigų vykdymą potencialiai pavojingų įrenginių priežiūros norminių teisės aktų ir gamintojo pateiktų potencialiai pavojingų įrenginių techninių dokumentų nustatytais terminais;
+
+
+
+
+2) savo veiksmus, neveikimą ir priimtus sprendimus, atliekant potencialiai pavojingų įrenginių techninės būklės tikrinimą. 
  
 
 
@@ -714,210 +390,96 @@ Nr. X-1170, 2007-06-07, Žin., 2007, Nr. 69-2721 (2007-06-23), i. k. 1071010ISTA
 
 
 
-101 straipsnis. Nuolatinės įrenginių priežiūros licencijavimas
 
 
-1. Nuolatinę įrenginių priežiūrą gali vykdyti Lietuvos Respublikoje įsteigtas juridinis asmuo, valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija, ar jų filialai (toliau – juridinis asmuo), jeigu jie atitinka valstybės narės, kurioje yra įsteigti, teisės aktų reikalavimus, turintys nuolatinės įrenginių priežiūros licenciją (toliau – licencija) arba atestatą vykdyti energetikos įrenginių eksploatavimą ir apsidraudę civilinės atsakomybės draudimu.
+11 straipsnis. Reikalavimai asmenims, atliekantiems nuolatinę potencialiai pavojingų įrenginių priežiūrą
 
 
+1. Nuolatinę potencialiai pavojingo įrenginio priežiūrą atlieka potencialiai pavojingo įrenginio savininkas arba fizinis asmuo ar juridinis asmuo, su kuriuo potencialiai pavojingo įrenginio savininkas yra sudaręs sutartį nuolatinei potencialiai pavojingo įrenginio priežiūrai atlikti. 
 
 
-2. Juridiniams asmenims, Energetikos įstatymo nustatyta tvarka turintiems atestatą vykdyti energetikos įrenginių eksploatavimą, šių įrenginių nuolatinės priežiūros licencijavimas netaikomas. 
 
 
+2. Potencialiai pavojingo įrenginio savininkas – fizinis asmuo, atliekantis nuolatinę potencialiai pavojingo įrenginio priežiūrą, potencialiai pavojingo įrenginio savininko – juridinio asmens – darbuotojas (darbuotojai), paskirtas (paskirti) atlikti nuolatinę potencialiai pavojingo įrenginio priežiūrą, fizinis asmuo, su kuriuo sudaryta sutartis nuolatinei potencialiai pavojingo įrenginio priežiūrai atlikti, arba juridinio asmens, su kuriuo sudaryta sutartis nuolatinei potencialiai pavojingo įrenginio priežiūrai atlikti, darbuotojas (darbuotojai), paskirtas (paskirti) atlikti nuolatinę potencialiai pavojingo įrenginio priežiūrą, privalo turėti valstybės institucijos, atsakingos už atskirų potencialiai pavojingų įrenginių kategorijų ar tų įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros administracinį reglamentavimą, nustatytą kvalifikaciją arba specialiųjų žinių ir įgūdžių, išskyrus potencialiai pavojingo įrenginio, kuris yra energetikos įrenginys, kaip nustatyta Lietuvos Respublikos energetikos įstatyme, nuolatinę priežiūrą atliekantį asmenį, kuris Energetikos įstatymo nustatyta tvarka privalo turėti energetikos įrenginių eksploatavimo veiklos atestatą.
 
 
-3. Vadovaudamasi Vyriausybės patvirtintomis Nuolatinės potencialiai pavojingų įrenginių priežiūros licencijavimo taisyklėmis, valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, ar kita išduoti nuolatinės įrenginių priežiūros licencijas Vyriausybės įgaliota institucija (toliau – Vyriausybės įgaliota institucija) išduoda licencijas, atsisako išduoti licencijas, pakeičia ar patikslina licencijas, sustabdo licencijų galiojimą, panaikina licencijų galiojimo sustabdymą ir panaikina licencijų galiojimą, prižiūri ir kontroliuoja, kaip laikomasi licencijuojamos veiklos sąlygų.
 
 
-
-
-4. Juridinis asmuo, siekiantis vykdyti nuolatinę įrenginių priežiūrą, privalo atitikti šiuos reikalavimus:
-
-
-1) darbuotojai, paskirti atlikti nuolatinę potencialiai pavojingų įrenginių priežiūrą, turi atitikti valstybės institucijų, atsakingų už atskirų kategorijų įrenginių priežiūros organizavimą, nustatytus kvalifikacijos arba specialiųjų žinių ir įgūdžių reikalavimus. Jeigu šie darbuotojai kvalifikaciją ar specialiųjų žinių ir įgūdžių yra įgiję kitoje valstybėje narėje, jie turi pateikti tai įrodančius dokumentus;
-
-
-
-
-2) turėti nuolatinei įrenginių priežiūrai atlikti reikalingą įrangą, prietaisus ir kitas darbui reikalingas priemones.
-
-
-
-
-
-
-5. Juridinis asmuo, norintis gauti licenciją, valstybės institucijai, atsakingai už atskirų kategorijų įrenginių priežiūros organizavimą, ar Vyriausybės įgaliotai institucijai pateikia Nuolatinės potencialiai pavojingų įrenginių priežiūros licencijavimo taisyklėse nustatytus reikalavimus atitinkantį prašymą. Kartu su prašymu juridinis asmuo turi pateikti šiuos dokumentus:
-
-
-1) juridinio asmens darbuotojų, kurie organizuos ir vykdys nuolatinę įrenginių priežiūrą, sąrašą, kuriame nurodyti darbuotojų vardai, pavardės, kvalifikacija ir (ar) kompetencija, pareigos ir su nuolatine įrenginių priežiūra susijusios funkcijos, ir darbuotojų kvalifikaciją arba specialiųjų žinių bei įgūdžių įgijimą įrodančių dokumentų kopijas;
-
-
-
-
-2) turimos įrangos, prietaisų ir kitų priemonių, reikalingų nuolatinei įrenginių priežiūrai vykdyti, sąrašą, kuriame turi būti nurodyti įrangos, prietaisų ir kitų priemonių pavadinimai, modeliai (jeigu yra) ir kiekis.
-
-
-
-
-
-
-6. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, ar Vyriausybės įgaliota institucija priima sprendimą išduoti licenciją tik patikrinusi, ar juridinio asmens pateikti dokumentai ir duomenys atitinka šio straipsnio 4 ir 5 dalyse nustatytus reikalavimus, o prireikus – juos patikrinusi ir juridinio asmens buveinėje. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, ar Vyriausybės įgaliota institucija, nustačiusi, kad juridinis asmuo pateikė ne visus reikiamus dokumentus ar juose yra netikslių ar klaidingų duomenų, apie tai praneša juridiniam asmeniui ir nustato terminą trūkumams pašalinti.
-
-
-
-
-7. Licencija arba motyvuotas atsisakymas ją išduoti pateikiamas juridiniam asmeniui ne vėliau kaip per 30 dienų nuo prašymo gavimo. Laikotarpis, per kurį pareiškėjas pateikia trūkstamus duomenis, neįskaitomas į sprendimo priėmimo laikotarpį, tačiau ir tokiu atveju sprendimas turi būti priimtas ne vėliau kaip per 30 dienų nuo visų dokumentų pateikimo. Licencijos neišdavimas ar motyvuoto atsisakymo išduoti licenciją nepateikimas per šioje dalyje nustatytus terminus nelaikomas licencijos išdavimu.
-
-
-
-
-8. Valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, ar Vyriausybės įgaliota institucija privalo atskirti licencijų išdavimo ir licencijos sąlygų laikymosi priežiūros funkcijas. Jeigu licencijas išduoda ir licencijuojamos veiklos priežiūrą atlieka tas pats struktūrinis padalinys, šios funkcijos perduodamos atskiriems valstybės tarnautojams.
-
-
-
-
-9. Licencija išduodama neterminuotam laikui. Už licencijos išdavimą, pakeitimą ar patikslinimą mokama Vyriausybės nustatyto dydžio valstybės rinkliava.
-
-
-
-
-10. Licencijos turėtojas privalo laikytis šių licencijuojamos veiklos sąlygų:
-
-
-1) vykdyti šio straipsnio 4 dalyje nustatytas licencijavimo sąlygas ir reikalavimus, laikytis įrenginių priežiūros norminių aktų ir įrenginių techniniuose dokumentuose pateiktų reikalavimų, užtikrinti laiku ir kokybiškai atliekamą prižiūrimų įrenginių remontą, vartotojų apsaugą ir aplinkos apsaugos reikalavimus, nepažeisti sąžiningos konkurencijos, veiklos viešumo ir informavimo principų, atsakingai priimti su licencijuojama veikla susijusius sprendimus;
-
-
-
-
-2) neperleisti kitiems asmenims licencijos turėtojui suteiktos teisės vykdyti licencijuojamą veiklą; 
-
-
-
-
-3) pranešti licenciją išdavusiai valstybės institucijai apie teisinio statuso, licencijoje nurodytų duomenų ar kitus pasikeitimus, dėl kurių nebeužtikrinamos licencijuojamos veiklos sąlygos.
-
-
-
-
-
-
-11. Licenciją išdavusi valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, ar Vyriausybės įgaliota institucija, nustačiusi, kad licencijos turėtojas nesilaiko šio straipsnio 10 dalyje nustatytų reikalavimų, raštu praneša licencijos turėtojui apie nustatytus pažeidimus, nurodydama terminą jiems pašalinti. Taip pat licenciją išdavusi valstybės institucija raštu praneša licencijos turėtojui apie licencijos galiojimo sustabdymą, šio sustabdymo panaikinimą ir licencijos galiojimo panaikinimą.
-
-
-
-
-12. Licencija neišduodama, jeigu:
-
-
-1) juridinis asmuo neatitinka bent vieno iš šio straipsnio 4 dalyje nustatytų reikalavimų;
-
-
-
-
-2) pateikti ne visi šio straipsnio 5 dalyje nurodyti dokumentai, pateikti suklastoti dokumentai arba per nustatytą terminą nepašalinti trūkumai, susiję su pateikto prašymo ir (ar) dokumentų neatitiktimi šio straipsnio 5 dalyje nustatytiems reikalavimams;
-
-
-
-
-3) juridinio asmens licencijos galiojimas buvo panaikintas ir nuo licencijos galiojimo panaikinimo nepraėjo 6 mėnesiai.
-
-
-
-
-
-
-13. Licencija pakeičiama, kai panaikinama teisė teikti bent vieną iš licencijuojamų paslaugų.
-
-
-
-
-14. Licencijos galiojimas sustabdomas šiais atvejais:
-
-
-1) licencijos turėtojo prašymu;
-
-
-
-
-2) jeigu paaiškėja, kad licencijos turėtojas licenciją išdavusiai valstybės institucijai, atsakingai už atskirų kategorijų įrenginių priežiūros organizavimą, ar Vyriausybės įgaliotai institucijai pateikė neteisingus duomenis;
-
-
-
-
-3) jeigu nustatoma, kad licencijos turėtojas nesilaiko licencijuojamos veiklos sąlygų.
-
-
-
-
-
-
-15. Licencijos galiojimo sustabdymas panaikinamas:
-
-
-1) licencijos turėtojo prašymu, jeigu licencijos galiojimas buvo sustabdytas jo prašymu;
-
-
-
-
-2) kai licenciją išdavusi valstybės institucija, atsakinga už atskirų kategorijų įrenginių priežiūros organizavimą, ar Vyriausybės įgaliota institucija, gavusi juridinio asmens rašytinį pranešimą apie pašalintus licencijuojamos veiklos sąlygų pažeidimus, nustato, kad juridinis asmuo juos pašalino.
-
-
-
-
-
-
-16. Licencijos galiojimas panaikinamas šiais atvejais:
-
-
-1) licencijos turėtojo prašymu;
-
-
-
-
-2) jeigu licencijos turėtojas, kurio licencijos galiojimas buvo sustabdytas, per licenciją išdavusios valstybės institucijos, atsakingos už atskirų kategorijų įrenginių priežiūros organizavimą, ar Vyriausybės įgaliotos institucijos nustatytą terminą nepašalina pažeidimų, dėl kurių licencijos galiojimas buvo sustabdytas;
-
-
-
-
-3) kai nustatyta, kad licencija buvo išduota pagal pateiktus suklastotus dokumentus;
-
-
-
-
-4) kai licencijos turėtojas reorganizuotas arba įgyja likviduojamo juridinio asmens teisinį statusą. 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. XI-591, 2009-12-21, Žin., 2009, Nr. 159-7201 (2009-12-31), i. k. 1091010ISTA00XI-591
-Nr. XIII-1159, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08531
+3. Potencialiai pavojingo įrenginio savininkas, pats atliekantis nuolatinę potencialiai pavojingo įrenginio priežiūrą, arba juridinis asmuo ar fizinis asmuo, su kuriuo sudaryta sutartis nuolatinei potencialiai pavojingo įrenginio priežiūrai atlikti, privalo turėti nuolatinei potencialiai pavojingų įrenginių priežiūrai atlikti reikalingą įrangą, prietaisus ir kitas darbui reikalingas priemones pagal šio įstatymo 5 straipsnio 3 punkte nurodytą sąrašą ir būti apsidraudęs civilinės atsakomybės draudimu. Minimali metinė draudimo suma negali būti mažesnė kaip šimtas tūkstančių eurų. 
  
 
 
 
 
-11 straipsnis. Įrenginių savininkų ir fizinių asmenų atsakomybė
 
 
-1. Įrenginių savininkai atsako:
+12 straipsnis. Potencialiai pavojingų įrenginių savininkų pareigos ir atsakomybė
 
 
-1) už saugų įrenginių naudojimą ir atlygina žalą, padarytą dėl nesaugaus įrenginių naudojimo;
-
-
-
-
-2) už išnuomoto (suteikto naudotis) įrenginio techninę būklę ir saugų jo naudojimą, jei kitaip nenumatyta nuomos (panaudos) sutartyje.
+1. Potencialiai pavojingų įrenginių savininkai užtikrina potencialiai pavojingų įrenginių naudojimą, laikymą (saugojimą), priežiūrą pagal potencialiai pavojingų įrenginių priežiūros norminių teisės aktų ir gamintojo pateiktų potencialiai pavojingų įrenginių techninių dokumentų reikalavimus.
 
 
 
 
+2. Potencialiai pavojingo įrenginio savininko pareigos: 
 
 
-2. Fiziniai asmenys, kurie naudodami įrenginius pažeidžia įrenginių priežiūros teisės aktų reikalavimus bei trukdo įgaliotų įstaigų darbuotojams atlikti jiems pavestas funkcijas, atsako įstatymų nustatyta tvarka.
+1) sudaryti sutartį su akredituotąja įstaiga dėl potencialiai pavojingo įrenginio techninės būklės tikrinimo; 
+
+
+
+
+2) potencialiai pavojingų įrenginių priežiūros norminių teisės aktų nustatyta tvarka ir terminais pateikti akredituotosioms įstaigoms patikrinti potencialiai pavojingą įrenginį, jo techninius dokumentus ir potencialiai pavojingo įrenginio atitiktį saugos reikalavimams patvirtinančius dokumentus, kad būtų gauta akredituotosios įstaigos išvada, ar potencialiai pavojingas įrenginys yra tinkamas naudoti ir saugus žmonių gyvybei, sveikatai ar aplinkai; 
+
+
+
+
+3) potencialiai pavojingą įrenginį pradėti naudoti tik gavus akredituotosios įstaigos išvadą, kad potencialiai pavojingas įrenginys yra tinkamas naudoti ir saugus žmonių gyvybei, sveikatai ar aplinkai, ir Registro nuostatuose nustatyta tvarka užregistravus jį Registre; 
+
+
+
+
+4) Registro nuostatuose nustatyta tvarka teikti Registro tvarkytojui Registro duomenis; 
+
+
+
+
+5) pačiam atlikti nuolatinę potencialiai pavojingo įrenginio priežiūrą, jeigu vykdomi šio įstatymo 11 straipsnio 2 ir 3 dalių reikalavimai, arba sudaryti sutartį su juridiniu ar fiziniu asmeniu, atitinkančiu šio įstatymo 11 straipsnio 2 ir 3 dalių reikalavimus, dėl nuolatinės potencialiai pavojingo įrenginio priežiūros atlikimo; 
+
+
+
+
+6) nustačius potencialiai pavojingo įrenginio veiklos sutrikimus, dėl kurių gali įvykti potencialiai pavojingo įrenginio avarija ir (ar) dėl kurių potencialiai pavojingas įrenginys kelia grėsmę žmonių gyvybei, sveikatai ar aplinkai, nedelsiant sustabdyti (išjungti) įrenginį ir imtis priemonių nustatytiems veiklos sutrikimams pašalinti. Pranešti valstybės institucijai, atsakingai už atskirų potencialiai pavojingų įrenginių kategorijų ar tų įrenginių kategorijų parametrų potencialiai pavojingų įrenginių priežiūros reikalavimų įgyvendinimo kontrolę, akredituotajai įstaigai, su kuria sudaryta sutartis dėl potencialiai pavojingo įrenginio techninės būklės tikrinimo, apie potencialiai pavojingų įrenginių veiklos sutrikimus, avarijas ir su tuo susijusius nelaimingus atsitikimus bei žalą aplinkai ar turtui, organizuoti avarijų padarinių lokalizavimą ir likvidavimą bei tyrimą. Potencialiai pavojingą įrenginį galima pradėti naudoti tik pašalinus sutrikimus ir potencialiai pavojingų įrenginių priežiūros norminiuose teisės aktuose nustatyta tvarka nustačius, kad potencialiai pavojingas įrenginys yra tinkamas naudoti ir saugus žmonių gyvybei, sveikatai ar aplinkai; 
+
+
+
+
+7) gavus akredituotosios įstaigos išvadą, kad potencialiai pavojingas įrenginys yra netinkamas naudoti ir nesaugus žmonių gyvybei, sveikatai ar aplinkai, potencialiai pavojingų įrenginių priežiūros norminiuose teisės aktuose nustatytais terminais pašalinti akredituotosios įstaigos išvadoje nurodytas neatitiktis ir gauti akredituotosios įstaigos išvadą, kad potencialiai pavojingas įrenginys tinkamas naudoti ir saugus žmonių gyvybei, sveikatai ar aplinkai, arba užtikrinti, kad potencialiai pavojingas įrenginys būtų sutvarkytas Lietuvos Respublikos atliekų tvarkymo įstatymo nustatyta tvarka.
+
+
+
+
+
+
+3. Potencialiai pavojingų įrenginių savininkai atsako už: 
+
+
+1) potencialiai pavojingų įrenginių naudojimą, laikymą (saugojimą), techninę būklę ir nuolatinę priežiūrą pagal potencialiai pavojingų įrenginių priežiūros norminių teisės aktų ir gamintojo pateiktų potencialiai pavojingų įrenginių techninių dokumentų reikalavimus;
+
+
+
+
+2) išnuomoto (suteikto naudotis pagal panaudos sutartį) potencialiai pavojingo įrenginio techninę būklę ir jo naudojimą pagal potencialiai pavojingų įrenginių priežiūros norminių teisės aktų ir gamintojo pateiktų potencialiai pavojingų įrenginių techninių dokumentų reikalavimus, jeigu kitaip nenumatyta nuomos (panaudos) sutartyje;
+
+
+
+
+3) žalą, padarytą naudojant ar laikant (saugant) potencialiai pavojingą įrenginį, išskyrus šios dalies 2 punkte numatytą atvejį. 
  
+
+
+
+
 
 
 
@@ -975,3 +537,8 @@ Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1642, 2018-11-15, paskelbta TAR 2018-11-20, i. k. 2018-18681
 Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo Nr. I-1324 1 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2474, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16484
+Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo Nr. I-1324 pakeitimo įstatymas
