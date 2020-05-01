@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2020-08-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -55,7 +55,10 @@ I skyrius
 
 
 
-2. Šis įstatymas taikomas tiek, kiek šiame įstatyme reglamentuojamų visuomeninių santykių nereglamentuoja Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas ir Lietuvos Respublikos odontologų rūmų įstatymas.
+2. Šis įstatymas taikomas tiek, kiek šiame įstatyme reglamentuojamų visuomeninių santykių nereglamentuoja Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2643, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20986
+ 
 
 
 Straipsnio pakeitimai:
@@ -68,9 +71,10 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 2 straipsnis. Įstatyme vartojamos pagrindinės sąvokos ir santrumpos
 
 
-1. Sveikatos priežiūros įstaiga (toliau – įstaiga) – juridinis asmuo, organizacija ar jų filialas šio įstatymo, Visuomenės sveikatos priežiūros įstatymo ir Odontologų rūmų įstatymo nustatyta tvarka turintis teisę teikti sveikatos priežiūros paslaugas. 
+1. Sveikatos priežiūros įstaiga (toliau – įstaiga) – juridinis asmuo, organizacija ar jų filialas šio įstatymo ir Visuomenės sveikatos priežiūros įstatymo nustatyta tvarka turintis teisę teikti sveikatos priežiūros paslaugas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
+Nr. XIII-2643, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20986
  
 
 
@@ -3624,3 +3628,8 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5, 9,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2702, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21420
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 45 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2643, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20986
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 1 ir 2 straipsnių pakeitimo įstatymas
