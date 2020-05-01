@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CF3E2829B861"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2021-10-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 8-161, i. k. 0981010ISTAVIII-602
  
@@ -966,10 +966,11 @@ Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
 
 
 
-10. Į II ir III sąrašus įtrauktas medžiagas draudžiama parduoti asmenims, neturintiems licencijos, išskyrus juridinius asmenis, turinčius Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo nustatyta tvarka išduotą licenciją asmens sveikatos priežiūros veiklai ir (ar) Lietuvos Respublikos odontologų rūmų įstatymo nustatyta tvarka išduotą odontologinės priežiūros (pagalbos) įstaigos licenciją. Juridiniams asmenims, turintiems tik odontologinės priežiūros (pagalbos) įstaigos licenciją, gali būti parduodamos tik į III sąrašą įtrauktos medžiagos. 
+10. Į II ir III sąrašus įtrauktas medžiagas draudžiama parduoti asmenims, neturintiems licencijos, išskyrus juridinius asmenis, turinčius Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo nustatyta tvarka išduotą licenciją asmens sveikatos priežiūros veiklai. Juridiniams asmenims, turintiems licenciją asmens sveikatos priežiūros veiklai, suteikiančią teisę teikti tik odontologinės priežiūros (pagalbos) paslaugas, gali būti parduodamos tik į III sąrašą įtrauktos medžiagos.
 Straipsnio dalies pakeitimai:
 Nr. XII-1344, 2014-11-20, paskelbta TAR 2014-12-01, i. k. 2014-18285
 Nr. XIII-1560, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17475
+Nr. XIII-2644, 2019-12-10, paskelbta TAR 2019-12-20, i. k. 2019-20822
  
 
 
@@ -1789,3 +1790,8 @@ Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1659, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19127
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 2, 3 straipsnių ir priedo pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2644, 2019-12-10, paskelbta TAR 2019-12-20, i. k. 2019-20822
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 12 straipsnio pakeitimo įstatymas
