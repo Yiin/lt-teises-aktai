@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.10E8E285740C"
 
 # Lietuvos Respublikos medicinos praktikos įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2020-08-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2313, i. k. 0961010ISTA00I-1555
  
@@ -293,10 +293,13 @@ Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010IST
 
 
 
-4. Rezidentūros bazė su gydytoju rezidentu sudaro terminuotą darbo sutartį ir gydytojas rezidentas įdarbinamas gydytoju rezidentu rezidentūros bazėje. Gydytojui rezidentui mokama pareiginė alga, kuri apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš pareiginės algos bazinio dydžio, nustatyto Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo įstatyme nustatyta tvarka. Jaunesniajam gydytojui rezidentui taikomas pareiginės algos koeficientas – 7,6, vyresniajam gydytojui rezidentui – 8,1. Gydytojo rezidento pareiginė alga mokama iš Sveikatos apsaugos ministerijai patvirtintų valstybės biudžeto asignavimų. Medicinos rezidentūros vietų, į kurias priimtiems asmenims pareiginė alga mokama iš Sveikatos apsaugos ministerijai patvirtintų valstybės biudžeto asignavimų, skaičius neturi viršyti tais metais vientisąsias medicinos studijas turinčių baigti asmenų skaičiaus. Medicinos rezidentūros studijų programų vykdymo reikalavimus ir jų priežiūros tvarką nustato Vyriausybė. 
+4. Rezidentūros bazė su gydytoju rezidentu sudaro terminuotą darbo sutartį ir gydytojas rezidentas įdarbinamas gydytoju rezidentu rezidentūros bazėje. Gydytojui rezidentui mokama pareiginė alga, kuri apskaičiuojama atitinkamą pareiginės algos koeficientą dauginant iš pareiginės algos bazinio dydžio, nustatyto Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatyme nustatyta tvarka. Jaunesniajam gydytojui rezidentui taikomas pareiginės algos koeficientas – 8,74, vyresniajam gydytojui rezidentui – 9,32. Gydytojo rezidento pareiginė alga mokama iš Sveikatos apsaugos ministerijai patvirtintų valstybės biudžeto asignavimų. Medicinos rezidentūros vietų, į kurias priimtiems asmenims pareiginė alga mokama iš Sveikatos apsaugos ministerijai patvirtintų valstybės biudžeto asignavimų, skaičius neturi viršyti tais metais vientisąsias medicinos studijas turinčių baigti asmenų skaičiaus. Medicinos rezidentūros studijų programų vykdymo reikalavimus ir jų priežiūros tvarką nustato Vyriausybė.
+TAR pastaba. Gydytojo rezidento pareiginės algos dydis perskaičiuojamas, atsižvelgiant į 3 straipsnio 4 dalyje nustatytus naujus pareiginės algos koeficientus, nuo 2020 m. balandžio 1 d.
+Tais atvejais, kai gydytojas rezidentas iki įstatymo Nr. XIII-2872 įsigaliojimo (2020-05-01) gavo didesnę pareiginę algą negu pareiginė alga, perskaičiuota atsižvelgiant į šio įstatymo 1 straipsnyje išdėstytoje Medicinos praktikos įstatymo 3 straipsnio 4 dalyje nustatytus naujus pareiginės algos koeficientus, jam toliau mokama iki šio įstatymo įsigaliojimo mokėta pareiginė alga.
 Straipsnio dalies pakeitimai:
 Nr. X-1376, 2007-12-13, Žin., 2007, Nr. 138-5642 (2007-12-29), i. k. 1071010ISTA00X-1376
 Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
+Nr. XIII-2872, 2020-04-30, paskelbta TAR 2020-04-30, i. k. 2020-09246
  
 
 
@@ -932,7 +935,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
  
- 
 
 
  
@@ -1023,3 +1025,8 @@ Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 6, 7 ir 8 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2559, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19867
 Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 2, 4, 5, 6, 8 ir 10 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2872, 2020-04-30, paskelbta TAR 2020-04-30, i. k. 2020-09246
+Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 3 straipsnio pakeitimo įstatymas
