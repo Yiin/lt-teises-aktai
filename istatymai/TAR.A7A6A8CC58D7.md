@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7A6A8CC58D7"
 
 # Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-04-30
+Suvestinė redakcija nuo 2020-05-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1496, i. k. 1011010ISTA00IX-326
  
@@ -204,14 +204,12 @@ LOTERIJŲ IR LOŠIMŲ MOKESČIO ĮSKAITYMAS
 8 straipsnis. Loterijų ir lošimų mokesčio įskaitymas
 
 
-1. Juridinių asmenų, organizuojančių didžiąsias loterijas pagal Loterijų įstatymą ir lošimus pagal Lošimų įstatymą, sumokėtas loterijų ir lošimų mokestis įskaitomas į valstybės biudžetą.
+Juridinių asmenų, organizuojančių didžiąsias ir mažąsias loterijas pagal Loterijų įstatymą ir lošimus pagal Lošimų įstatymą, sumokėtas loterijų ir lošimų mokestis įskaitomas į valstybės biudžetą.
 
 
-
-
-2. Juridinių asmenų, organizuojančių mažąsias loterijas pagal Loterijų įstatymą, loterijų ir lošimų mokestis įskaitomas į tos savivaldybės, kuri išdavė licenciją rengti loteriją, biudžetą.
-
-
+Straipsnio pakeitimai:
+Nr. XIII-2599, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20559
+ 
 
 
 
@@ -275,3 +273,8 @@ Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 6 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2634, 2019-12-10, paskelbta TAR 2019-12-20, i. k. 2019-20807
 Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 5 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2599, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20559
+Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 8 straipsnio pakeitimo įstatymas
