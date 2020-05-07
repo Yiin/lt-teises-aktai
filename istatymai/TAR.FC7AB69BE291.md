@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-05-06
+Suvestinė redakcija nuo 2020-05-07 iki 2020-05-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
  
@@ -165,9 +165,10 @@ Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 
 
 
-14. Elektrinė – elektros energijos gamintojo nuosavybės ar kita teise valdomi vienas ar daugiau tarpusavyje technologiškai susijusių įrenginių ir jų technologinių priklausinių elektros energijai gaminti ar elektros ir šilumos energijai gaminti bendrosios gamybos būdu.
+14. Elektrinė – elektros energijos gamintojo nuosavybės ar kita teise valdoma visuma tarpusavyje technologiškai susijusių įrenginių ir jų technologinių priklausinių elektros energijai gaminti ar elektros ir šilumos energijai gaminti bendrosios gamybos būdu. Saulės šviesos energijos elektrinėje esantys moduliai ir jų generuojamai galiai priskiriami technologiniai įrenginiai yra kilnojamieji daiktai. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
 
 
@@ -1893,7 +1894,10 @@ Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 
 
 
-4) gaminančio vartotojo per kaupimo laikotarpį suvartotos elektros energijos kiekį viršijantis į elektros tinklus patiektas elektros energijos kiekis į kitą kaupimo laikotarpį nėra perkeliamas ir už šį kiekį gaminančiam vartotojui nėra mokama;
+4) gaminančio vartotojo per kaupimo laikotarpį suvartotos elektros energijos kiekį viršijantis į elektros tinklus patiektas elektros energijos kiekis į kitą kaupimo laikotarpį nėra perkeliamas, už šį kiekį energijos tiekėjas gaminančiam vartotojui kompensuoja iš anksto tarpusavio sutartyse nustatyta tvarka ir sąlygomis. Garantinio tiekimo atveju, kai gaminančio vartotojo per kaupimo laikotarpį į elektros tinklus patiektos elektros energijos kiekis viršija suvartotos elektros energijos kiekį, skirstymo tinklų operatorius gaminančiam vartotojui kompensuoja už faktinį, bet ne didesnį kaip 5 procentų, gaminančio vartotojo per kaupimo laikotarpį arba nuo garantinio tiekimo pradžios, jeigu garantinis tiekimas vykdomas trumpiau, negu nustatytas kaupimo laikotarpis, patiektą elektros energijos kiekį Valstybinės energetikos reguliavimo tarybos nustatyta tvarka apskaičiuota elektros energijos kaina; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
@@ -4300,3 +4304,8 @@ Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2169, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09941
 Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 49 ir 51 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 3, 4, 5, 6, 11, 13, 14, 16, 17, 20, 20-1, 22, 25, 28, 29, 35, 37, 38, 39, 46, 48, 49, 55, 58, 59, 60, 61, 62, 63, 63-1, 64 straipsnių ir priedo pakeitimo, 11-1 straipsnio pripažinimo netekusiu galios ir Įstatymo papildymo 20-2 straipsniu įstatymas
