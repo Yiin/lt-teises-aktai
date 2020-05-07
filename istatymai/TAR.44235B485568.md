@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-05-06
+Suvestinė redakcija nuo 2020-05-07 iki 2020-05-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -3075,32 +3075,40 @@ Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
 
 
 
-6. Nuo 2013 m. sausio 9 d. viešosios paskirties pastatuose ir nuo 2013 m. liepos 9 d. visuose kituose pastatuose atitiktis nustatytiems energijos vartojimo efektyvumo reikalavimams tikrinama:
+6. Pastatuose atitiktis nustatytiems energijos vartojimo efektyvumo reikalavimams tikrinama:
 
 
-1) pastatuose įrengtų šildymo sistemų su katilais, kurių vardinė atiduodamoji galia didesnė kaip 20 kW, – kartą per penkerius metus;
-
-
-
-
-2) pastatuose įrengtų šildymo sistemų su katilais, kurių vardinė atiduodamoji galia didesnė kaip 100 kW, – kartą per dvejus metus. Dujomis kūrenami katilai tikrinami ne rečiau kaip kartą per ketverius metus;
+1) pastatuose įrengtų šildymo sistemų ir kombinuotųjų šildymo ir vėdinimo sistemų, kurių vardinė atiduodamoji galia didesnė kaip 70 kW, – kartą per penkerius metus;
 
 
 
 
-3) pastatuose įrengtų didesnės kaip 12 kW vardinės atiduodamosios galios oro kondicionavimo sistemų – kartą per trejus metus.
+2) pastatuose įrengtų dujomis kūrenamų katilų – ne rečiau kaip kartą per ketverius metus;
 
 
 
 
+3) pastatuose įrengtų oro kondicionavimo sistemų ir kombinuotųjų oro kondicionavimo ir vėdinimo sistemų, kurių vardinė atiduodamoji galia didesnė kaip 70 kW, – kartą per trejus metus. 
 
 
-7. Šio straipsnio 5 dalies 1, 2 ir 3 punktuose ir 6 dalies 1 ir 2 punktuose nustatytų tikrinimų metu vertinamas šildymo katilo naudingumo koeficientas ir katilo dydis, palyginti su pastato šildymo poreikiais. Katilo dydžio atitikties pastato šildymo poreikiams vertinimas neturi būti atliekamas pakartotinai, jeigu toje šildymo sistemoje nebuvo atlikta pakeitimų arba per tą laiką nepakito pastato šildymo poreikiai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
+ 
 
 
 
 
-8. Šio straipsnio 5 dalies 4 punkte ir 6 dalies 3 punkte nustatytų tikrinimų metu vertinamas oro kondicionavimo įrangos naudingumo koeficientas ir šios įrangos dydžio atitiktis pastato vėsinimo poreikiams. Oro kondicionavimo įrangos dydžio atitikties pastato vėsinimo poreikiams vertinimas neturi būti atliekamas pakartotinai, jeigu toje oro kondicionavimo sistemoje nebuvo atlikta pakeitimų arba per tą laiką nepakito pastato vėsinimo poreikiai.
+7. Šio straipsnio 6 dalies 1 ir 2 punktuose nustatytų tikrinimų metu vertinamas šilumos generatoriaus naudingumo koeficientas ir dydis, palyginti su pastato šildymo poreikiais. Šilumos generatoriaus dydžio atitikties pastato šildymo poreikiams vertinimas neturi būti atliekamas pakartotinai, jeigu toje šildymo sistemoje arba kombinuotojoje šildymo ir vėdinimo sistemoje nebuvo atlikta pakeitimų arba per tą laiką nepakito pastato šildymo poreikiai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
+ 
+
+
+
+
+8. Šio straipsnio 6 dalies 3 punkte nustatytų tikrinimų metu vertinamas oro kondicionavimo sistemos naudingumo koeficientas ir dydis, palyginti su pastato vėsinimo poreikiais. Oro kondicionavimo sistemos dydžio atitikties pastato vėsinimo poreikiams vertinimas neturi būti atliekamas pakartotinai, jeigu toje oro kondicionavimo sistemoje arba kombinuotojoje oro kondicionavimo ir vėdinimo sistemoje nebuvo atlikta pakeitimų arba per tą laiką nepakito pastato vėsinimo poreikiai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
  
 
 
@@ -3964,3 +3972,8 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2 ir 18 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2707, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21554
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 21 straipsnio pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 3, 8, 13-1, 19, 27 straipsnių pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas
