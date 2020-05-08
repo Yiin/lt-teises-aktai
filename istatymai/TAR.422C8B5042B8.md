@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2020-04-10 iki 2020-05-07
+Suvestinė redakcija nuo 2020-05-08 iki 2020-05-14
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -51,7 +51,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2) Lietuvos Respublikos piliečiams, Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybių narių piliečiams ir jų šeimos nariams, gyvenantiems kitoje Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybėje narėje, jeigu jų paskutinio darbdavio nuolatinė buveinė arba paskutinė savarankiškos veiklos vykdymo vieta buvo Lietuvos Respublikoje;
+2) Lietuvos Respublikos piliečiams, Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybių narių piliečiams ir jų šeimos nariams, gyvenantiems kitoje Europos Sąjungos ar Europos laisvosios prekybos asociacijos valstybėje narėje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
+ 
 
 
 
@@ -270,7 +273,10 @@ Savarankiškai dirbantis asmuo yra fizinis asmuo, kuris užsiima šia pagal savo
 
 
 
-2) Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu nedirba pagal darbo sutartį ar neturi darbo santykiams prilygintų teisinių santykių ir negauna su darbo santykiais susijusių pajamų;
+2) Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu jam priskaičiuotas darbo užmokestis pagal darbo sutartį ar darbo santykiams prilygintus teisinius santykius yra ne didesnis už Lietuvos Respublikos Vyriausybės patvirtintą minimaliąją mėnesinę algą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2877, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09849
+ 
 
 
 
@@ -307,7 +313,11 @@ Savarankiškai dirbantis asmuo yra fizinis asmuo, kuris užsiima šia pagal savo
 
 
 
-5. Išmokas savarankiškai dirbantiems asmenims skiria Užimtumo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba). Išmoka savarankiškai dirbančiam asmeniui paskiriama per 3 darbo dienas nuo asmens kreipimosi į Užimtumo tarnybą dienos. Sprendimą nutraukti išmokų mokėjimą Užimtumo tarnyba priima ne vėliau kaip per vieną darbo dieną nuo dienos, kurią Lietuvos Respublikos Vyriausybė atšaukė ekstremaliąją situaciją ar karantiną arba suėjo bent vieno iš jų paskelbimo terminas, arba nuo duomenų ar dokumentų, patvirtinančių asmens neatitikimą šio straipsnio 1 dalyje nurodytai (nurodytoms) sąlygai (sąlygoms), gavimo dienos.
+5. Išmokas savarankiškai dirbantiems asmenims skiria Užimtumo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba). Asmeniui, kuris kreipėsi į Užimtumo tarnybą dėl išmokos savarankiškai dirbančiam asmeniui paskyrimo, išmoka savarankiškai dirbančiam asmeniui paskiriama per 3 darbo dienas nuo duomenų ar dokumentų, patvirtinančių asmens atitiktį šio straipsnio 1 dalyje nurodytai (nurodytoms) sąlygai (sąlygoms), gavimo Užimtumo tarnyboje dienos. Sprendimą nutraukti išmokų savarankiškai dirbantiems asmenims mokėjimą Užimtumo tarnyba priima ne vėliau kaip per vieną darbo dieną nuo dienos, kurią Lietuvos Respublikos Vyriausybė atšaukė ekstremaliąją situaciją ar karantiną arba suėjo bent vieno iš jų paskelbimo terminas, arba nuo duomenų ar dokumentų, patvirtinančių asmens neatitiktį šio straipsnio 1 dalyje nurodytai (nurodytoms) sąlygai (sąlygoms), gavimo dienos.
+TAR pastaba. 5 dalies nuostatos dėl išmokų savarankiškai dirbantiems asmenims mokėjimo taikomos nuo Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino pradžios.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2877, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09849
+ 
 
 
 
@@ -439,13 +449,15 @@ Asmuo pagal šį įstatymą yra laikomas užimtu, jeigu jis yra įsteigęs šios
 
 
 
-8 straipsnis. Individuali žemės ūkio veikla 
+8 straipsnis. Individuali žemės ūkio veikla
 
 
-Individuali žemės ūkio veikla – tai veikla, kurią vykdo fizinis asmuo, teisės aktų nustatyta tvarka įregistravęs žemės ūkio valdą, ūkininko ūkį ar ūkinius gyvūnus arba tapęs ūkininko partneriu ar žemės ūkio valdos partneriu.
+Individuali žemės ūkio veikla – tai veikla, kurią vykdo fizinis asmuo, įregistravęs žemės ūkio valdą, ūkininko ūkį ar ūkinius gyvūnus arba tapęs ūkininko partneriu ar žemės ūkio valdos partneriu. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
  
-
-
 
 
 
@@ -519,12 +531,18 @@ Užimtu yra laikomas asmuo, kuris vykdo šią neatlygintiną veiklą:
 
 
 
-3. Įmonė, likus ne mažiau kaip vienai darbo dienai iki numatytos asmens savanoriškos praktikos atlikimo pradžios ir per 3 darbo dienas po savanoriškos praktikos atlikimo pabaigos, teisės aktų nustatyta tvarka informuoja Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) teritorinį skyrių, vykdantį šiame straipsnyje nustatytų savanoriškos praktikos sutartims keliamų reikalavimų laikymosi kontrolę, apie asmens savanoriškos praktikos pradžią ir pabaigą.
+3. Įmonė, likus ne mažiau kaip vienai darbo dienai iki numatytos asmens savanoriškos praktikos atlikimo pradžios ir per 3 darbo dienas po savanoriškos praktikos atlikimo pabaigos, informuoja Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) teritorinį skyrių, vykdantį šiame straipsnyje nustatytų savanoriškos praktikos sutartims keliamų reikalavimų laikymosi kontrolę, apie asmens savanoriškos praktikos pradžią ir pabaigą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
+ 
 
 
 
 
-4. Šiame straipsnyje nustatyta tvarka savanorišką praktiką atliekantys asmenys yra draudžiami sveikatos bei nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu valstybės lėšomis Lietuvos Respublikos įstatymų nustatyta tvarka. 
+4. Šiame straipsnyje nustatyta tvarka savanorišką praktiką atliekantys asmenys yra valstybės lėšomis draudžiami sveikatos draudimu Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka bei nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
+ 
 
 
 
@@ -1123,10 +1141,10 @@ Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
 
 
 
-5) nestudijuoja aukštojoje mokykloje pagal nuolatinės formos studijų programas, nesimoko pagal bendrojo ugdymo arba pagal formaliojo profesinio mokymo programas, išskyrus asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas, ar asmenis, kurie mokosi pagal formaliojo profesinio mokymo programas savo lėšomis; 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos užimtumo įstatymo 22 straipsnio 1 dalies 5 punktas (2017 m. birželio 6 d. redakcija, TAR, 2017-06-14, Nr. 10024; 2017 m. gruodžio 21 d. redakcija, TAR, 2017-12-29, Nr. 21627) tiek, kiek jame nustatyta, kad bedarbiu laikomas asmuo, kuris nestudijuoja aukštojoje mokykloje pagal nuolatinės formos studijų programas, prieštaravo (prieštarauja) Lietuvos Respublikos Konstitucijos 48 straipsnio 1 dalies nuostatai „Kiekvienas žmogus <...> turi teisę <...> gauti <...> socialinę apsaugą nedarbo atveju“, 52 straipsnio nuostatai „Valstybė laiduoja piliečių teisę gauti <...> socialinę paramą nedarbo <...> atvejais“, konstituciniam teisinės valstybės principui.
+5) nesimoko pagal bendrojo ugdymo programas, išskyrus asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas; 
 Straipsnio punkto pakeitimai:
 Nr. KT41-N12/2019, 2019-10-31, paskelbta TAR 2019-10-31, i. k. 2019-17396
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
  
 
 
@@ -1283,11 +1301,11 @@ Nr. XIII-2428, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16066
 
 
 
-4) bedarbis pradeda studijuoti aukštojoje mokykloje pagal nuolatinės formos studijų programas arba mokytis pagal bendrojo ugdymo arba formaliojo profesinio mokymo programas, išskyrus bedarbius, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas, bedarbius, kurie mokosi pagal formaliojo profesinio mokymo programas savo lėšomis, ar bedarbius, kurie dalyvauja paramos mokymuisi priemonėse; 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos užimtumo įstatymo 24 straipsnio 4 dalies 4 punktas (2017 m. birželio 6 d. redakcija, TAR, 2017-06-14, Nr. 10024) tiek, kiek jame nustatyta, kad bedarbio statusas panaikinamas, kai bedarbis pradeda studijuoti aukštojoje mokykloje pagal nuolatinės formos studijų programas, prieštarauja Lietuvos Respublikos Konstitucijos 48 straipsnio 1 dalies nuostatai „Kiekvienas žmogus <...> turi teisę <...> gauti <...> socialinę apsaugą nedarbo atveju“, 52 straipsnio nuostatai „Valstybė laiduoja piliečių teisę gauti <...> socialinę paramą nedarbo <...> atvejais“, konstituciniam teisinės valstybės principui.
+4) bedarbis pradeda mokytis pagal bendrojo ugdymo programas, išskyrus bedarbius, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 Nr. KT41-N12/2019, 2019-10-31, paskelbta TAR 2019-10-31, i. k. 2019-17396
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
  
 
 
@@ -1337,7 +1355,10 @@ Nr. XIII-941, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21627
 
 
 
-12) bedarbis teisės aktų nustatyta tvarka deklaruoja išvykimą iš Lietuvos Respublikos, išskyrus Europos Sąjungos reglamentuose dėl socialinės apsaugos sistemų koordinavimo numatytą laikotarpį, kuriuo mokama asmens nedarbo socialinio draudimo išmoka;
+12) bedarbis deklaruoja išvykimą iš Lietuvos Respublikos, išskyrus Europos Sąjungos reglamentuose dėl socialinės apsaugos sistemų koordinavimo numatytą laikotarpį, kuriuo mokama asmens nedarbo socialinio draudimo išmoka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
+ 
 
 
 
@@ -2226,7 +2247,10 @@ Nr. XIII-2846, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07511
 
 
 
-10. Kai bedarbis užsiima šio įstatymo 3 straipsnio 1 dalies 1 ir 2 punktuose nurodytų užimtumo formų veikla ir suderina su profesinio mokymo teikėju darbo ir mokymosi laiką bei tęsia mokymąsi, toliau finansuojamos tik mokymo paslaugos.
+10. Kai bedarbis, dalyvaujantis profesiniame mokyme (išskyrus įdarbinimą pagal pameistrystės darbo sutartį), pradeda šio įstatymo 3 straipsnio 1 dalies 1 ir 2 punktuose nurodytų užimtumo formų veiklą, su profesinio mokymo teikėju suderina darbo ir mokymosi laiką ir tęsia mokymąsi, toliau finansuojamos tik jo mokymo paslaugos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
+ 
 
 
 
@@ -2863,15 +2887,19 @@ Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
 5. Šio straipsnio 4 dalyje nurodytu darbo vietos panaikinimu laikomi atvejai, kai, nepraėjus 36 mėnesių laikotarpiui nuo darbo vietos įsteigimo dienos, atsiranda bent viena iš šių sąlygų:
 
 
-1) darbo sutartis su įdarbintu asmeniu nutraukiama ir per 30 darbo dienų nuo darbo sutarties nutraukimo dienos į šią atsilaisvinusią darbo vietą nepriimamas nustatytus ar patikslintus kvalifikacinius reikalavimus atitinkantis Užimtumo tarnybos siunčiamas asmuo;
+1) darbo sutartis su įdarbintu asmeniu nutraukiama ir per 30 darbo dienų nuo darbo sutarties nutraukimo dienos į šią atsilaisvinusią darbo vietą nepriimamas nustatytus ar patikslintus kvalifikacinius reikalavimus atitinkantis Užimtumo tarnybos siunčiamas asmuo, išskyrus savarankiško užimtumo rėmimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
+ 
 
 
 
 
-2) įdarbinto asmens darbo vietoje prastova ne dėl darbuotojo kaltės tęsiasi ilgiau kaip 30 kalendorinių dienų iš eilės, išskyrus atvejus, kai prastova tęsiasi dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino, arba įdarbintas asmuo neatvyksta į darbą ilgiau kaip 120 dienų iš eilės administracijos leidimu, taip pat jeigu jam darbo sutartyje nustatytomis sąlygomis ir terminais daugiau kaip 2 mėnesius iš eilės nemokamas visas jam priklausantis darbo užmokestis; 
+2) įdarbinto asmens darbo vietoje prastova ne dėl darbuotojo kaltės tęsiasi ilgiau kaip 30 kalendorinių dienų iš eilės, išskyrus atvejus, kai prastova tęsiasi dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino, arba įdarbintas asmuo neatvyksta į darbą ilgiau kaip 120 dienų iš eilės dėl jam suteiktų nemokamų atostogų, taip pat jeigu jam darbo sutartyje nustatytomis sąlygomis ir terminais daugiau kaip 2 mėnesius iš eilės nemokamas visas jam priklausantis darbo užmokestis; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
 Nr. XIII-2846, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07511
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
  
 
 
@@ -3243,7 +3271,10 @@ UŽIMTUMO RĖMIMO PRIEMONIŲ ĮGYVENDINIMO IR DARBO RINKOS PASLAUGŲ TEIKIMO ORG
 49 straipsnis. Užimtumo rėmimo priemonių įgyvendinimo ir darbo rinkos paslaugų teikimo organizavimas ir kontrolė
 
 
-1. Darbo rinkos paslaugos teikiamos ir užimtumo rėmimo priemonės įgyvendinamos šio įstatymo ir kitų teisės aktų nustatyta tvarka.
+1. Darbo rinkos paslaugos teikiamos ir užimtumo rėmimo priemonės įgyvendinamos šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
+ 
 
 
 
@@ -3880,3 +3911,13 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 papildymo 5-1 straipsniu i
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2846, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07511
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 5-1, 13, 24, 35, 37, 38, 39, 41, 42, 44, 49 ir 50 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2877, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09849
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 5-1 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 1, 8, 10, 22, 24, 25, 37, 44, 47 ir 49 straipsnių pakeitimo įstatymas
