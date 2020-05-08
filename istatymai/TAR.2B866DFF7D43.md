@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2020-05-07
+Suvestinė redakcija nuo 2020-05-08 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -9995,14 +9995,20 @@ Nr. XII-1674, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07560
 277 straipsnis. Kovos su epidemijomis ar užkrečiamosiomis ligomis taisyklių pažeidimas
 
 
-1. Tas, kas pažeidė teisės aktų dėl sveikatos apsaugos reikalavimus ar užkrečiamųjų ligų profilaktikos kontrolės taisykles, jeigu dėl to išplito susirgimas ar kilo epidemija,
-baudžiamas bauda arba areštu arba laisvės atėmimu iki trejų metų.
+1. Tas, kas būdamas medicinos įstaigos informuotas apie savo ligą ir įspėtas dėl apsaugos priemonių, kurių jis privalo laikytis bendraudamas su žmonėmis, sukėlė pavojų kitam asmeniui užsikrėsti pavojinga ar ypač pavojinga užkrečiamąja liga,
+baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki vienerių metų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2866, 2020-04-28, paskelbta TAR 2020-05-07, i. k. 2020-09790
+ 
 
 
 
 
-2. Tas, kas būdamas medicinos įstaigos informuotas apie savo ligą ir įspėtas dėl apsaugos priemonių, kurių jis privalo laikytis bendraudamas su žmonėmis, sukėlė pavojų kitam asmeniui užsikrėsti pavojinga infekcine liga, padarė baudžiamąjį nusižengimą ir
-baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
+2. Tas, kas pažeidė teisės aktų dėl sveikatos apsaugos reikalavimus ar užkrečiamųjų ligų profilaktikos kontrolės taisykles, jeigu dėl to išplito susirgimas ar kilo epidemija,
+baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2866, 2020-04-28, paskelbta TAR 2020-05-07, i. k. 2020-09790
+ 
 
 
 
@@ -12101,3 +12107,8 @@ Lietuvos Respublikos baudžiamojo kodekso 305 straipsnio pripažinimo netekusiu 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2558, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19866
 Lietuvos Respublikos baudžiamojo kodekso 270 straipsnio pakeitimo įstatymas
+ 
+39.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2866, 2020-04-28, paskelbta TAR 2020-05-07, i. k. 2020-09790
+Lietuvos Respublikos baudžiamojo kodekso 277 straipsnio pakeitimo įstatymas
