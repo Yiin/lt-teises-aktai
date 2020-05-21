@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-05-20
+Suvestinė redakcija nuo 2020-05-21 iki 2020-05-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
  
@@ -72,8 +72,6 @@ Nr. XIII-2345, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12436
 
 
 
-5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Šių valstybių piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas. 
-5 punkto redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
 5) Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Šių valstybių piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas.
 Papildyta straipsnio punktu:
 Nr. XIII-2345, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12436
@@ -374,22 +372,19 @@ Piniginės socialinės paramos rūšys yra šios:
 Bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į socialinę pašalpą, jeigu kreipimosi dėl socialinės pašalpos metu atitinka visus šiame straipsnyje nurodytus reikalavimus:
 
 
-1) bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybės teise turimo turto, nurodyto šio įstatymo 14 straipsnyje, vertė neviršija turto vertės normatyvo; 
+1) vidutinės pajamos, nurodytos ir apskaičiuotos pagal šio įstatymo 17 ir 18 straipsnius, tenkančios vienam iš bendrai gyvenančių asmenų arba vienam gyvenančiam asmeniui per mėnesį, yra mažesnės kaip valstybės remiamos pajamos;
 
 
 
 
-2) pajamos, nurodytos ir apskaičiuotos pagal šio įstatymo 17 ir 18 straipsnius, yra mažesnės už valstybės remiamas pajamas bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui;
+2) kiekvienas vyresnis kaip 18 metų bendrai gyvenantis asmuo, vienas gyvenantis asmuo arba vaikas (įvaikis) nuo 16 iki 18 metų atitinka bent vieną iš šio įstatymo 8 straipsnyje nurodytų sąlygų, kurioms esant bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į piniginę socialinę paramą. 
 
 
 
 
-3) kiekvienas vyresnis kaip 18 metų bendrai gyvenantis asmuo, vienas gyvenantis asmuo arba vaikas (įvaikis) nuo 16 iki 18 metų atitinka bent vieną iš šio įstatymo 8 straipsnyje nurodytų sąlygų, kurioms esant bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į piniginę socialinę paramą.
+Straipsnio pakeitimai:
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
  
-
-
-
-
 
 
 
@@ -400,19 +395,22 @@ Bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į socialin�
 1. Gyvenamąją vietą būste deklaravę arba būstą nuomojantys bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į kompensacijas, jeigu kreipimosi dėl kompensacijų metu atitinka visus šiuos reikalavimus:
 
 
-1) bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybės teise turimo turto, nurodyto šio įstatymo 14 straipsnyje, vertė neviršija turto vertės normatyvo; 
+1) kiekvienas vyresnis kaip 18 metų bendrai gyvenantis asmuo, vienas gyvenantis asmuo arba vaikas (įvaikis) nuo 16 iki 18 metų atitinka bent vieną iš šio įstatymo 8 straipsnyje nurodytų sąlygų, kurioms esant bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į piniginę socialinę paramą;
 
 
 
 
+2) įsiskolinusieji už būsto šildymą ir (ar) karštą vandenį, ir (ar) geriamąjį vandenį su energijos, kuro, vandens tiekėjais yra sudarę sutartį (sutartis) dėl dalies skolos apmokėjimo, kas mėnesį grąžinant ne daugiau kaip 20 procentų bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų, arba teismas yra priteisęs apmokėti skolą. 
+1 dalies redakcija, įsigaliojanti kitą dieną po to, kai sueina 6 mėnesiai, kai buvo atšaukta Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta ekstremalioji situacija ir Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbtas karantinas, arba kai sueina jų paskelbimo terminai:
+1. Gyvenamąją vietą būste deklaravę arba būstą nuomojantys bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į kompensacijas, jeigu kreipimosi dėl kompensacijų metu atitinka visus šiuos reikalavimus:
+1) bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybės teise turimo turto, nurodyto šio įstatymo 14 straipsnyje, vertė neviršija turto vertės normatyvo. Jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybės teise turimo turto, nurodyto šio įstatymo 14 straipsnyje, vertė viršija turto vertės normatyvą, nustatant teisę į kompensacijas, kai kreiptasi pirmą kartą arba praėjus ne mažiau kaip 24 mėnesiams nuo paskutinio mėnesio, už kurį kompensacijos buvo paskirtos,  šis reikalavimas 3 mėnesius netaikomas;
 2) kiekvienas vyresnis kaip 18 metų bendrai gyvenantis asmuo, vienas gyvenantis asmuo arba vaikas (įvaikis) nuo 16 iki 18 metų atitinka bent vieną iš šio įstatymo 8 straipsnyje nurodytų sąlygų, kurioms esant bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į piniginę socialinę paramą;
+3) įsiskolinusieji už būsto šildymą ir (ar) karštą vandenį, ir (ar) geriamąjį vandenį su energijos, kuro, vandens tiekėjais yra sudarę sutartį (sutartis) dėl dalies skolos apmokėjimo, kas mėnesį grąžinant ne daugiau kaip 20 procentų bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų, arba teismas yra priteisęs apmokėti skolą.
 
 
-
-
-3) įsiskolinusieji už būsto šildymą ir (ar) karštą vandenį, ir (ar) geriamąjį vandenį su energijos, kuro, vandens tiekėjais yra sudarę sutartį (sutartis) dėl dalies skolos apmokėjimo, kas mėnesį grąžinant ne daugiau kaip 20 procentų bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų, arba teismas yra priteisęs apmokėti skolą. 
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
+ 
 
 
 
@@ -1603,6 +1601,14 @@ Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 
 
 
+101. Lietuvos Respublikos Vyriausybei paskelbus ekstremaliąją situaciją ir (ar) karantiną, bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui piniginės socialinės paramos mokėjimas pratęsiamas be atskiro prašymo skirti piniginę socialinę paramą, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į šią paramą, tačiau ne ilgiau negu iki mėnesio, kurį šalyje atšaukiama ekstremalioji situacija ir (ar) karantinas arba sueina jų paskelbimo terminai, pabaigos. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
+ 
+
+
+
+
 11. Jeigu vienas gyvenantis asmuo arba vienas iš bendrai gyvenančių asmenų laikotarpiu, už kurį skiriama ir (ar) mokama piniginė socialinė parama, nutraukė registraciją Užimtumo tarnyboje ar kitos valstybės valstybinėje įdarbinimo tarnyboje, išskyrus įsidarbinimo atvejį, arba registracija Užimtumo tarnyboje ar kitos valstybės valstybinėje įdarbinimo tarnyboje jam buvo nutraukta, piniginė socialinė parama bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui neskiriama arba paskirtosios mokėjimas nutraukiamas nuo kito mėnesio po šių aplinkybių atsiradimo. Šiems asmenims, kai jie yra šio įstatymo 8 straipsnio 1 dalies 4 punkte nurodyti asmenys, piniginė socialinė parama skiriama, jeigu jie ne trumpiau kaip 3 mėnesius registruoti Užimtumo tarnyboje ar kitos valstybės valstybinėje įdarbinimo tarnyboje. Ši nuostata netaikoma, jeigu per šioje dalyje nurodytą laikotarpį vienas gyvenantis asmuo arba vienas iš bendrai gyvenančių asmenų įsidarbina ar pradeda dirbti savarankiškai ir dirba ne trumpiau kaip 1 mėnesį arba dėl piniginės socialinės paramos kreipiasi praėjus ne mažiau kaip 6 mėnesiams po paskutinio piniginės socialinės paramos gavimo laikotarpio. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1366, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19552
@@ -1906,12 +1912,20 @@ Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 3. Patikrinus bendrai gyvenančių asmenų arba vieno gyvenančio asmens gyvenimo sąlygas ir surašius buities ir gyvenimo sąlygų patikrinimo aktą, savivaldybės administracijai suteikiama teisė savivaldybės tarybos nustatyta tvarka:
 
 
-1) skirti socialinę pašalpą, jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamos yra mažesnės už valstybės remiamas pajamas bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 6 straipsnio 1 ar 3 punkte nustatytų reikalavimų;
+1) skirti socialinę pašalpą, jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra mažesnės kaip valstybės remiamos pajamos bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 6 straipsnio 2 punkte nustatytų reikalavimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
+ 
 
 
 
 
+2) skirti kompensacijas, jeigu išlaidos už būsto šildymą, už faktinį geriamojo vandens ir (ar) karšto vandens kiekį atitinka šio įstatymo 11 straipsnyje nustatytus kompensuojamus dydžius, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 7 straipsnio 1 dalies 1 punkte nustatyto reikalavimo; 
+3 dalies 2 punkto redakcija, įsigaliojanti kitą dieną po to, kai sueina 6 mėnesiai, kai buvo atšaukta Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta ekstremalioji situacija ir Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbtas karantinas, arba kai sueina jų paskelbimo terminai:
 2) skirti kompensacijas, jeigu išlaidos už būsto šildymą, už faktinį geriamojo vandens ir (ar) karšto vandens kiekį atitinka šio įstatymo 11 straipsnyje nustatytus kompensuojamus dydžius, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 7 straipsnio 1 dalies 1 ar 2 punkte nustatytų reikalavimų;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
+ 
 
 
 
@@ -2510,3 +2524,8 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2345, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12436
 Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 3, 6, 7, 9, 10, 11, 15, 17, 21 ir 23 straipsnių pakeitimo įstatymas
