@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-05-21
+Suvestinė redakcija nuo 2020-05-22 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
  
@@ -104,8 +104,6 @@ Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
 
 
 
-10) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Šių valstybių piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas. 
-10 punkto redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
 10) Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Šių valstybių piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas.
 Papildyta straipsnio punktu:
 Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
@@ -939,9 +937,10 @@ Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
 
 
 
-7. Papildomai išmokai vaikui, nustatytai šio įstatymo 6 straipsnio 2 dalies 1 punkte, gauti vidutinės bendrai gyvenančių asmenų arba globėjo (rūpintojo) ir su juo bendrai gyvenančių asmenų mėnesio pajamos apskaičiuojamos pagal praėjusių kalendorinių metų iki teisės gauti išmoką atsiradimo dienos pajamas arba, jeigu pagal praėjusių kalendorinių metų vidutines mėnesio pajamas bendrai gyvenantys asmenys arba globėjas (rūpintojas) ir su juo bendrai gyvenantys asmenys neturėjo teisės gauti šios išmokos, pajamoms sumažėjus, vidutinės mėnesio pajamos išmokai gauti apskaičiuojamos pagal praėjusių 12 kalendorinių mėnesių iki kreipimosi ar teisės gauti išmoką atsiradimo dienos pajamas. Jeigu bendrai gyvenantys asmenys arba globėjas (rūpintojas) ir su juo bendrai gyvenantys asmenys gauna socialinę pašalpą pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą ir (ar) socialinę paramą mokiniams pagal Lietuvos Respublikos socialinės paramos mokiniams įstatymą, papildomai išmoka vaikui skiriama pagal pajamas, kurios paskutinį kartą buvo nurodytos skiriant socialinę paramą. 
+7. Papildomai išmokai vaikui, nustatytai šio įstatymo 6 straipsnio 2 dalies 1 punkte, gauti vidutinės bendrai gyvenančių asmenų arba globėjo (rūpintojo) ir su juo bendrai gyvenančių asmenų mėnesio pajamos apskaičiuojamos pagal praėjusių kalendorinių metų iki teisės gauti išmoką atsiradimo dienos pajamas arba, jeigu pagal praėjusių kalendorinių metų vidutines mėnesio pajamas bendrai gyvenantys asmenys arba globėjas (rūpintojas) ir su juo bendrai gyvenantys asmenys neturėjo teisės gauti šios išmokos, pajamoms sumažėjus, vidutinės mėnesio pajamos išmokai gauti apskaičiuojamos nuo 2020 m. balandžio 1 d. pagal praėjusių kalendorinių mėnesių iki kreipimosi ar teisės gauti išmoką atsiradimo dienos pajamas. Jeigu bendrai gyvenantys asmenys arba globėjas (rūpintojas) ir su juo bendrai gyvenantys asmenys gauna socialinę pašalpą pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą ir (ar) socialinę paramą mokiniams pagal Lietuvos Respublikos socialinės paramos mokiniams įstatymą, papildomai išmoka vaikui skiriama pagal pajamas, kurios paskutinį kartą buvo nurodytos skiriant socialinę paramą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
+Nr. XIII-2884, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10785
  
 
 
@@ -999,9 +998,10 @@ Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 
 
 
-4. Papildomai išmoka vaikui, nustatyta šio įstatymo 6 straipsnio 2 dalies 1 punkte, bendrai gyvenančių asmenų arba globėjo (rūpintojo) auginamam ir (ar) globojamam vaikui skiriama ir mokama 12 mėnesių arba trumpesnį laikotarpį, jeigu vaikas sukanka šio įstatymo 6 straipsnio 2 dalies 1 punkte nustatytą amžių, iki kurio gali būti mokama išmoka vaikui, arba ši išmoka pradedama mokėti ir kitam tų pačių bendrai gyvenančių asmenų arba globėjo (rūpintojo) auginamam ir (ar) globojamam vaikui, suvienodinant jau mokamos ir kitam vaikui skiriamos išmokos vaikui mokėjimo laikotarpį. Pasibaigus papildomai paskirtos išmokos vaikui mokėjimo laikotarpiui, asmuo turi teisę kreiptis dėl tolesnio šios išmokos vaikui skyrimo ir pateikti būtinus dokumentus išmokai gauti, taip pat nurodyti duomenis apie bendrai gyvenančių asmenų arba globėjo (rūpintojo) ir su juo bendrai gyvenančių asmenų pajamas. 
+4. Jeigu vidutinės bendrai gyvenančių asmenų arba globėjo (rūpintojo) ir su juo bendrai gyvenančių asmenų mėnesio pajamos apskaičiuojamos pagal praėjusių kalendorinių metų iki teisės gauti išmoką atsiradimo dienos pajamas, papildomai išmoka vaikui, nustatyta šio įstatymo 6 straipsnio 2 dalies 1 punkte, bendrai gyvenančių asmenų arba globėjo (rūpintojo) auginamam ir (ar) globojamam vaikui skiriama ir mokama 12 mėnesių arba trumpesnį laikotarpį, jeigu vaikas sukanka šio įstatymo 6 straipsnio 2 dalies 1 punkte nustatytą amžių, iki kurio gali būti mokama išmoka vaikui, arba ši išmoka pradedama mokėti ir kitam tų pačių bendrai gyvenančių asmenų arba globėjo (rūpintojo) auginamam ir (ar) globojamam vaikui, suvienodinant jau mokamos ir kitam vaikui skiriamos išmokos vaikui mokėjimo laikotarpį. Jeigu vidutinės bendrai gyvenančių asmenų arba globėjo (rūpintojo) ir su juo bendrai gyvenančių asmenų mėnesio pajamos apskaičiuojamos nuo 2020 m. balandžio 1 d. pagal praėjusių kalendorinių mėnesių iki kreipimosi ar teisės gauti išmoką atsiradimo dienos pajamas, papildomai išmoka vaikui, nustatyta šio įstatymo 6 straipsnio 2 dalies 1 punkte, bendrai gyvenančių asmenų arba globėjo (rūpintojo) auginamam ir (ar) globojamam vaikui skiriama ir mokama 3 mėnesius arba trumpesnį laikotarpį, jeigu vaikas sukanka šio įstatymo 6 straipsnio 2 dalies 1 punkte nustatytą amžių, iki kurio gali būti mokama išmoka vaikui, arba ši išmoka pradedama mokėti ir kitam tų pačių bendrai gyvenančių asmenų arba globėjo (rūpintojo) auginamam ir (ar) globojamam vaikui, suvienodinant jau mokamos ir kitam vaikui skiriamos išmokos vaikui mokėjimo laikotarpį. Pasibaigus papildomai paskirtos išmokos vaikui mokėjimo laikotarpiui, asmuo turi teisę kreiptis dėl tolesnio šios išmokos vaikui skyrimo ir pateikti būtinus dokumentus išmokai gauti, taip pat nurodyti duomenis apie bendrai gyvenančių asmenų arba globėjo (rūpintojo) ir su juo bendrai gyvenančių asmenų pajamas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
+Nr. XIII-2884, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10785
  
 
 
@@ -1646,3 +1646,8 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 9 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2693, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21548
 Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 2, 6, 10, 15, 17, 18, 20 ir 21 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2884, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10785
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 17 ir 18 straipsnių pakeitimo įstatymas
