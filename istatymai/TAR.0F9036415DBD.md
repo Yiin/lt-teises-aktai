@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-05-21
+Suvestinė redakcija nuo 2020-05-22 iki 2020-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -219,7 +219,6 @@ Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
 
 
 11. Asmenys, kurie iki Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos buvo komandiruoti iš šios valstybės į Lietuvos Respubliką ir kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, buvo nustatyta Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės taikytina teisė, šio straipsnio 1 dalies taikymo tikslais išlaiko savo statusą iki nustatyto komandiravimo termino pabaigos.
-TAR pastaba. Papildymas 11 dalimi įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
 Papildyta straipsnio dalimi:
 Nr. XIII-2050, 2019-04-11, paskelbta TAR 2019-04-18, i. k. 2019-06367
  
@@ -228,10 +227,13 @@ Nr. XIII-2050, 2019-04-11, paskelbta TAR 2019-04-18, i. k. 2019-06367
 
 
 2. Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos teisėjų atlyginimų įstatyme, Lietuvos Respublikos prokuratūros įstatyme, Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatyme, Lietuvos Respublikos diplomatinės tarnybos įstatyme ir Lietuvos Respublikos valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai, Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), gaunantys darbo užmokestį Lietuvos Respublikos Seimo (toliau – Seimas), Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
+2 dalies redakcija nuo 2020-11-01:
+2. Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos teisėjų atlyginimų įstatyme, Lietuvos Respublikos prokuratūros įstatyme, Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme, Lietuvos Respublikos diplomatinės tarnybos įstatyme ir Lietuvos Respublikos valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai, Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), Europos deleguotieji prokurorai, kurių socialinio draudimo įmokas moka Lietuvos Respublikos generalinė prokuratūra, darbo užmokestį gaunantys Lietuvos Respublikos Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-902, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21498
 Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
 Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
+Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
  
 
 
@@ -1158,6 +1160,55 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
+191 straipsnis. Fondo administravimo įstaigų santykiai su draudėjais Lietuvos Respublikos Vyriausybei paskelbus karantiną
+
+
+Fondo administravimo įstaigos Lietuvos Respublikos Vyriausybei paskelbus karantiną Lietuvos Respublikos teritorijoje taiko šią supaprastintą socialinio draudimo įmokų, baudų, palūkanų ir delspinigių įsiskolinimo mokėjimo, palūkanų ir delspinigių skaičiavimo tvarką:
+
+
+1) nepriklausomai nuo draudėjo prašomos atidėti socialinio draudimo įmokų, baudų, palūkanų ir (ar) delspinigių įsiskolinimo (toliau – įsiskolinimas) sumos, sprendimus dėl įsiskolinimo mokėjimo atidėjimo priima Fondo valdybos teritoriniai skyriai;
+
+
+
+
+2) Fondo valdybos teritoriniai skyriai priima sprendimus dėl įsiskolinimo, viršijančio 30 000 Eur sumą, mokėjimo atidėjimo. Dėl šiame punkte nurodyto įsiskolinimo mokėjimo atidėjimo dokumentai Fondo tarybai neteikiami ir neprašoma jos nuomonės;
+
+
+
+
+3) įsiskolinimo mokėjimas atidedamas Fondo valdybos teritoriniams skyriams priimant sprendimus dėl įsiskolinimo mokėjimo atidėjimo, įsiskolinimo mokėjimo atidėjimo sutartys su draudėjais nesudaromos;
+
+
+
+
+4) Fondo valdybos teritoriniai skyriai sprendimus atidėti įsiskolinimo mokėjimą priima neatsižvelgdami į tai, kad nėra praėję vieni metai nuo su draudėju anksčiau sudarytos ir dėl pažeidimų nutrauktos įsiskolinimo mokėjimo atidėjimo sutarties ir (ar) sprendimo atidėti socialinio draudimo įmokų mokėjimą draudėjui pažeidus nurodytą sprendimą panaikinimo;
+
+
+
+
+5) kai draudėjas kreipiasi į Fondo valdybos teritorinį skyrių, pateikdamas prašymą atidėti įsiskolinimo mokėjimą, Fondo valdybos teritorinis skyrius nereikalauja papildomų dokumentų;
+
+
+
+
+6) draudėjai turi teisę prašyti atidėti įsiskolinimo mokėjimą ir Fondo valdybos teritoriniai skyriai priimti sprendimą dėl įsiskolinimo mokėjimo atidėjimo už laikotarpį nuo Lietuvos Respublikos Vyriausybės paskelbto karantino pradžios, iki praeis du kalendoriniai mėnesiai nuo karantino visoje Lietuvos Respublikos teritorijoje pasibaigimo;
+
+
+
+
+7) palūkanos už laiku nesumokėtą atidėto įsiskolinimo sumą, taip pat delspinigiai už laiku nesumokėtas socialinio draudimo įmokas neskaičiuojami už laikotarpį nuo Lietuvos Respublikos Vyriausybės paskelbto karantino pradžios, iki praeis du kalendoriniai mėnesiai nuo karantino visoje Lietuvos Respublikos teritorijoje pasibaigimo. 
+TAR pastaba. 191 straipsnio nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo  Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo dienos.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
+ 
+
+
+
+
 20 straipsnis. Socialinio draudimo įmokų, delspinigių, palūkanų ir baudų priverstinio išieškojimo būdai
 
 
@@ -1298,7 +1349,7 @@ SOCIALINIO DRAUDIMO FINANSAI IR TURTAS
 23 straipsnis. Fondo biudžeto ir valstybės biudžeto santykiai
 
 
-1. Socialinio draudimo pensijų bendroji dalis finansuojama valstybės biudžeto lėšomis.
+1. Socialinio draudimo pensijų bendroji dalis finansuojama valstybės biudžeto lėšomis. Jeigu faktinės išlaidos socialinio draudimo pensijų bendrajai daliai yra didesnės negu šiam tikslui einamaisiais metais numatyti valstybės biudžeto asignavimai, dalis, kuri skiriasi, Fondo biudžetui iš valstybės biudžeto sumokama t + 2 metais; čia t – einamieji metai, už kuriuos apskaičiuotos faktinės išlaidos. Jeigu faktinės išlaidos socialinio draudimo pensijų bendrajai daliai yra mažesnės negu šiam tikslui einamaisiais metais numatyti valstybės biudžeto asignavimai, dalis, kuri skiriasi, valstybės biudžetui iš Fondo biudžeto sumokama t + 2 metais; čia t – einamieji metai, už kuriuos apskaičiuotos faktinės išlaidos.
 
 
 
@@ -1308,12 +1359,13 @@ SOCIALINIO DRAUDIMO FINANSAI IR TURTAS
 
 
 
-3. Asignavimai iš valstybės biudžeto gali būti skiriami, kai dėl Seimo ar Vyriausybės priimtų teisės aktų padidėja kurios nors socialinio draudimo rūšies išlaidos arba sumažėja pajamos, o socialinio draudimo įmokų tarifai šiai socialinio draudimo rūšiai nekeičiami arba keičiami nepakankamu dydžiu. 
+3. Asignavimai iš valstybės biudžeto skiriami, kai dėl Seimo ar Vyriausybės priimtų teisės aktų padidėja kurios nors socialinio draudimo rūšies išlaidos arba sumažėja pajamos, o socialinio draudimo įmokų tarifai šiai socialinio draudimo rūšiai nekeičiami arba keičiami nepakankamu dydžiu. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
+Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
  
 
 
@@ -1873,7 +1925,10 @@ Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
 
 
 
-13) Fondo valdybos direktoriaus nustatyta tvarka, suderinta su Lietuvos Respublikos finansų ministerija, skolintis iš kredito įstaigų;
+13) neteko galios 2020-05-22;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
+ 
 
 
 
@@ -3073,3 +3128,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1961, 2019-02-12, paskelbta TAR 2019-02-20, i. k. 2019-02744
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 straipsnio pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 23, 32, 34-1  straipsnių pakeitimo ir Įstatymo papildymo 19-1 straipsniu įstatymas
