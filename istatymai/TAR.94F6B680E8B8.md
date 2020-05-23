@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2020-04-11 iki 2020-05-22
+Suvestinė redakcija nuo 2020-05-23 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -677,7 +677,10 @@ Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
 4. Iš Privalomojo sveikatos draudimo fondo biudžeto apmokama medicininė reabilitacija, slauga, socialinės paslaugos bei patarnavimai, priskirti asmens sveikatos priežiūrai, apima: 
 
 
-1) slaugos ir socialines paslaugas bei patarnavimus, palaikomojo gydymo paslaugas slaugos ir palaikomojo gydymo ligoninėse Sveikatos apsaugos ministerijos nustatyta tvarka ir terminais, bet ne ilgiau kaip 120 dienų per kalendorinius metus; 
+1) slaugos ir socialines paslaugas bei patarnavimus, palaikomojo gydymo paslaugas slaugos ir palaikomojo gydymo ligoninėse sveikatos apsaugos ministro nustatyta tvarka ir terminais, bet ne ilgiau kaip 120 dienų per kalendorinius metus. Į 120 dienų per kalendorinius metus terminą neįskaičiuojamas Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpis;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2940, 2020-05-19, paskelbta TAR 2020-05-22, i. k. 2020-10980
+ 
 
 
 
@@ -3238,3 +3241,8 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2 ir 6 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2844, 2020-04-07, paskelbta TAR 2020-04-10, i. k. 2020-07702
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6, 8 ir 18 straipsnių pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2940, 2020-05-19, paskelbta TAR 2020-05-22, i. k. 2020-10980
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 9 straipsnio pakeitimo įstatymas
