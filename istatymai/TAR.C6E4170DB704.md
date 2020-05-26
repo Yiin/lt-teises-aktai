@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-05-25
+Suvestinė redakcija nuo 2020-05-26 iki 2021-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
  
@@ -81,6 +81,11 @@ Nr. XIII-2377, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12799
 
 
 3. Chirurginė operacija – medicininė procedūra, kai gydytojas, siekdamas diagnozuoti, gydyti ar koreguoti ligos ar traumos pažeistų organų ir jų sistemų funkciją, medicinos prietaisais veikia paciento audinius ir (ar) organus, pažeisdamas audinių ir (ar) organų vientisumą. 
+3 dalies redakcija nuo 2021-05-26:
+3. Chirurginė operacija – medicininė procedūra, kai gydytojas, siekdamas diagnozuoti, gydyti ar koreguoti ligos ar traumos pažeistų organų ir jų sistemų funkciją, medicinos priemonėmis veikia paciento audinius ir (ar) organus, pažeisdamas audinių ir (ar) organų vientisumą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2761, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00045
+ 
 
 
 
@@ -101,6 +106,11 @@ Nr. XIII-2377, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12799
 
 
 7. Invazinė ir (ar) intervencinė procedūra – medicininė procedūra, kai sveikatos priežiūros specialistas, siekdamas diagnozuoti, gydyti ar koreguoti organų ir jų sistemų funkciją, medicinos prietaisais veikia paciento audinius ir (ar) organus, pažeisdamas audinių ir (ar) organų vientisumą arba jo nepažeisdamas.
+7 dalies redakcija nuo 2021-05-26:
+7. Invazinė ir (ar) intervencinė procedūra – medicininė procedūra, kai sveikatos priežiūros specialistas, siekdamas diagnozuoti, gydyti ar koreguoti organų ir jų sistemų funkciją, medicinos priemonėmis veikia paciento audinius ir (ar) organus, pažeisdamas audinių ir (ar) organų vientisumą arba jo nepažeisdamas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2761, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00045
+ 
 
 
 
@@ -877,6 +887,11 @@ Nr. XIII-2703, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21552
 
 
 a) pagal tiesioginius nuostolius (patirtas išlaidas asmens sveikatos priežiūros paslaugoms, vaistiniams preparatams ir medicinos priemonėms (prietaisams), išskyrus apmokėtus Privalomojo sveikatos draudimo fondo, valstybės ar savivaldybės biudžeto lėšomis, kitas pagrįstas išlaidas;
+1 punkto a) papunkčio redakcija nuo 2021-05-26:
+a) pagal tiesioginius nuostolius (patirtas išlaidas asmens sveikatos priežiūros paslaugoms, vaistiniams preparatams ir medicinos priemonėms, išskyrus apmokėtus Privalomojo sveikatos draudimo fondo, valstybės ar savivaldybės biudžeto lėšomis, kitas pagrįstas išlaidas;
+Papunkčio pakeitimai:
+Nr. XIII-2761, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00045
+ 
 
 
 
@@ -1215,3 +1230,13 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2703, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21552
 Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 2, 7, 8, 13, 20 straipsnių ir V skyriaus pakeitimo įstatymo Nr. XIII-2377 1, 4 ir 6 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2761, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00045
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 2 ir 24 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2951, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11075
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 2 ir 24 straipsnių pakeitimo įstatymo Nr. XIII-2761 3 straipsnio pakeitimo įstatymas
