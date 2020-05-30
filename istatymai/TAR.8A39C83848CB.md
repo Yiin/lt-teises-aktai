@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2020-04-24 iki 2020-05-29
+Suvestinė redakcija nuo 2020-05-30 iki 2020-06-14
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -43069,6 +43069,15 @@ Nr. XIII-2863, 2020-04-21, paskelbta TAR 2020-04-23, i. k. 2020-08530
 
 
 
+5. Jeigu turistas ir kelionių organizatorius nesusitaria dėl sumokėtų pinigų už neįvykusią organizuotą turistinę kelionę kompensavimo, kaip tai nustatyta šio straipsnio 4 dalyje, kelionių organizatorius ne vėliau kaip per 90 dienų nuo dienos, kai nelieka Turizmo įstatyme nurodytų apribojimų, kurių pagrindu kelionių organizatoriaus įsipareigojimų pagal organizuotos turistinės kelionės sutartį vykdymas tapo neįmanomas, grąžina visus turisto arba jo vardu sumokėtus pinigus už organizuotą turistinę kelionę.
+TAR pastaba. 5 dalis taikoma ir iki įstatymo Nr. XIII-2956 įsigaliojimo dienos (2020-05-30) sudarytoms organizuotų turistinių kelionių sutartims, pagal kurias neįvyko organizuotos turistinės kelionės dėl Turizmo įstatymo 171 straipsnio 1 dalyje nurodytų apribojimų, taikytų iki šio įstatymo įsigaliojimo.
+Papildyta straipsnio dalimi:
+Nr. XIII-2956, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11673
+ 
+
+
+
+
 
 
 6.752 straipsnis. Organizuotos turistinės kelionės sutarties sąlygų pakeitimas iki organizuotos turistinės kelionės pradžios
@@ -49975,4 +49984,9 @@ Lietuvos Respublikos civilinio kodekso 2.70, 2.106, 6.410, 6.572 ir 6.765 straip
 45.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2863, 2020-04-21, paskelbta TAR 2020-04-23, i. k. 2020-08530
+Lietuvos Respublikos civilinio kodekso 6.751 straipsnio pakeitimo įstatymas
+ 
+46.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2956, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11673
 Lietuvos Respublikos civilinio kodekso 6.751 straipsnio pakeitimo įstatymas
