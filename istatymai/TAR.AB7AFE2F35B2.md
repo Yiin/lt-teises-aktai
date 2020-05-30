@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2019-07-21 iki 2020-05-29
+Suvestinė redakcija nuo 2020-05-30 iki 2020-06-14
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
  
@@ -123,7 +123,10 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 
 
-3) asmenims, kurie pavieniais atvejais, kaip nustatyta 2016 m. balandžio 25 d. Komisijos deleguotojo reglamento (ES) 2017/565, kuriuo Europos Parlamento ir Tarybos direktyva 2014/65/ES papildoma nuostatomis dėl investicinių įmonių organizacinių reikalavimų bei veiklos sąlygų ir toje direktyvoje apibrėžtų terminų (OL 2017 L 87, p. 1), 4 straipsnyje, teikia investicines paslaugas užsiimdami profesine veikla, reglamentuojama teisės aktais ar etikos kodeksais, nedraudžiančiais teikti investicinių paslaugų;
+3) asmenims, kurie pavieniais atvejais, kaip nustatyta 2016 m. balandžio 25 d. Komisijos deleguotojo reglamento (ES) 2017/565, kuriuo Europos Parlamento ir Tarybos direktyva 2014/65/ES papildoma nuostatomis dėl investicinių įmonių organizacinių reikalavimų bei veiklos sąlygų ir toje direktyvoje apibrėžtų terminų, 4 straipsnyje, teikia investicines paslaugas užsiimdami profesine veikla, reglamentuojama teisės aktais ar etikos kodeksais, nedraudžiančiais teikti investicinių paslaugų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
+ 
 
 
 
@@ -193,7 +196,10 @@ c) šie asmenys ne rečiau kaip kartą per metus praneša priežiūros instituci
 
 
 
-14) perdavimo sistemos operatoriams, kaip jie apibrėžti Lietuvos Respublikos elektros energetikos įstatyme, ir gamtinių dujų perdavimo sistemos operatoriams, kaip jie apibrėžti Lietuvos Respublikos gamtinių dujų įstatyme (toliau – perdavimo sistemos operatorius), vykdantiems šiuose įstatymuose, 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančiame Reglamentą (EB) Nr. 1228/2003 (OL 2009 L 211, p. 15), 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinančiame Reglamentą (EB) Nr. 1775/2005 (OL 2009 L 211, p. 36), arba tinklo kodeksuose ar gairėse, priimtose įgyvendinant šiame punkte nurodytų reglamentų nuostatas, nurodytą perdavimo sistemos operatorių veiklą, taip pat balansavimo energijos tiekėjams, skirstomųjų tinklų operatoriams ir skirstymo sistemos operatoriams, suskystintų gamtinių dujų sistemos operatoriams ir viešuosius interesus atitinkančių paslaugų lėšų administratoriams. Šiame punkte nustatyta išimtis taikoma tik pavestas funkcijas siekiantiems atlikti šiame punkte nurodytiems asmenims, vykdantiems investicinę veiklą ar teikiantiems investicines paslaugas, susijusias su biržos prekių išvestinėmis finansinėmis priemonėmis. Išimtis netaikoma antrinės apyvartos rinkos operatoriams, įskaitant operatorius, vykdančius antrinės prekybos platformų, kuriose prekiaujama finansinėmis perdavimo teisėmis, veiklą;
+14) perdavimo sistemos operatoriams, kaip jie apibrėžti Lietuvos Respublikos elektros energetikos įstatyme, ir gamtinių dujų perdavimo sistemos operatoriams, kaip jie apibrėžti Lietuvos Respublikos gamtinių dujų įstatyme, (toliau – perdavimo sistemos operatorius) vykdantiems šiuose įstatymuose, 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančiame Reglamentą (EB) Nr. 1228/2003, 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinančiame Reglamentą (EB) Nr. 1775/2005, arba tinklo kodeksuose ar gairėse, priimtose įgyvendinant šiame punkte nurodytų reglamentų nuostatas, nurodytą perdavimo sistemos operatorių veiklą, taip pat balansavimo energijos tiekėjams, skirstomųjų tinklų operatoriams ir skirstymo sistemos operatoriams, suskystintų gamtinių dujų sistemos operatoriams ir viešuosius interesus atitinkančių paslaugų lėšų administratoriams. Šiame punkte nustatyta išimtis taikoma tik pavestas funkcijas siekiantiems atlikti šiame punkte nurodytiems asmenims, vykdantiems investicinę veiklą ar teikiantiems investicines paslaugas, susijusias su biržos prekių išvestinėmis finansinėmis priemonėmis. Išimtis netaikoma antrinės apyvartos rinkos operatoriams, įskaitant operatorius, vykdančius antrinės prekybos platformų, kuriose prekiaujama finansinėmis perdavimo teisėmis, veiklą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
+ 
 
 
 
@@ -321,27 +327,42 @@ c) šie asmenys ne rečiau kaip kartą per metus praneša priežiūros instituci
 
 
 
-10. Didmeninis energetikos produktas – kaip tai apibrėžta 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo (OL 2011 L 326, p. 1) (toliau – Reglamentas (ES) Nr. 1227/2011) 2 straipsnio 4 punkte.
+10. Didmeninis energetikos produktas – kaip tai apibrėžta 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo (toliau – Reglamentas (ES) Nr. 1227/2011) 2 straipsnio 4 punkte. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
+ 
 
 
 
 
-11. Energetikos reguliavimo institucijų bendradarbiavimo agentūra – 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 713/2009, įsteigiančiu Energetikos reguliavimo institucijų bendradarbiavimo agentūrą (OL 2009 L 211, p. 1), įsteigta institucija.
+11. Energetikos reguliavimo institucijų bendradarbiavimo agentūra – 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 713/2009, įsteigiančiu Energetikos reguliavimo institucijų bendradarbiavimo agentūrą, įsteigta institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
+ 
 
 
 
 
-12. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12), įsteigta institucija.
+12. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB, įsteigta institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
+ 
 
 
 
 
-13. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) įsteigta institucija.
+13. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo įsteigta institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
+ 
 
 
 
 
-14. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84) (toliau – Reglamentas (ES) Nr. 1095/2010), įsteigta institucija.
+14. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (toliau – Reglamentas (ES) Nr. 1095/2010), įsteigta institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
+ 
 
 
 
@@ -1002,7 +1023,10 @@ Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 
 
-85. Žemės ūkio biržos prekių išvestinės finansinės priemonės – išvestinių finansinių priemonių sandoriai, susiję su 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1308/2013, kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007 (OL 2013 L 347, p. 671) (toliau – Reglamentas (ES) Nr. 1308/2013), 1 straipsnyje ir I priedo I–XX dalyse bei XXIV/1 dalyje išvardytais produktais.
+85. Žemės ūkio biržos prekių išvestinės finansinės priemonės – išvestinių finansinių priemonių sandoriai, susiję su 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1308/2013, kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007 (toliau – Reglamentas (ES) Nr. 1308/2013), 1 straipsnyje ir I priedo I–XX dalyse bei XXIV/1 dalyje išvardytais produktais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
+ 
 
 
 
@@ -2807,7 +2831,10 @@ Nr. XIII-1877, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00227
 
 
 
-4) suderintųjų kolektyvinio investavimo subjektų vienetų ar akcijų, išskyrus struktūrizuotų suderintųjų kolektyvinio investavimo subjektų, apibrėžtų 2010 m. liepos 1 d. Komisijos reglamento (ES) Nr. 583/2010, kuriuo įgyvendinamos Europos Parlamento ir Tarybos direktyvos 2009/65/EB nuostatos dėl pagrindinės informacijos investuotojams ir dėl sąlygų, kurių reikia laikytis teikiant pagrindinę informaciją investuotojams ar prospektą patvariojoje laikmenoje, išskyrus popierių, arba svetainėje (OL 2010 L 176, p. 1), 36 straipsnio 1 dalies antrojoje pastraipoje, išleistus vienetus ar akcijas;
+4) suderintųjų kolektyvinio investavimo subjektų vienetų ar akcijų, išskyrus struktūrizuotų suderintųjų kolektyvinio investavimo subjektų, apibrėžtų 2010 m. liepos 1 d. Komisijos reglamento (ES) Nr. 583/2010, kuriuo įgyvendinamos Europos Parlamento ir Tarybos direktyvos 2009/65/EB nuostatos dėl pagrindinės informacijos investuotojams ir dėl sąlygų, kurių reikia laikytis teikiant pagrindinę informaciją investuotojams ar prospektą patvariojoje laikmenoje, išskyrus popierių, arba svetainėje, 36 straipsnio 1 dalies antrojoje pastraipoje, išleistus vienetus ar akcijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
+ 
 
 
 
@@ -4552,7 +4579,10 @@ Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 
 
-2) vieną ketvirtadalį reguliuojamos rinkos operatoriaus praėjusių metų pridėtinių išlaidų sumos. Pridėtinės išlaidos apskaičiuojamos Reglamento (ES) 575/2013 97 straipsnyje ir 2014 m. rugsėjo 4 d. Komisijos deleguotojo reglamento (ES) 2015/488, kuriuo iš dalies keičiamos Deleguotojo reglamento (ES) Nr. 241/2014 nuostatos dėl įmonių nuosavų lėšų, nustatomų pagal pastoviąsias pridėtines išlaidas, reikalavimų (OL 2015 L 78, p. 1), nustatyta tvarka. 
+2) vieną ketvirtadalį reguliuojamos rinkos operatoriaus praėjusių metų pridėtinių išlaidų sumos. Pridėtinės išlaidos apskaičiuojamos Reglamento (ES) 575/2013 97 straipsnyje ir 2014 m. rugsėjo 4 d. Komisijos deleguotojo reglamento (ES) 2015/488, kuriuo iš dalies keičiamos Deleguotojo reglamento (ES) Nr. 241/2014 nuostatos dėl įmonių nuosavų lėšų, nustatomų pagal pastoviąsias pridėtines išlaidas, reikalavimų, nustatyta tvarka. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
+ 
 
 
 
@@ -4843,12 +4873,17 @@ PREKYBA REGULIUOJAMOJE RINKOJE. SKAIDRUMO REIKALAVIMAI
 
 
 
-3. Reguliuojamose rinkose turi būti nustatyta akcijų, depozitoriumo pakvitavimų, biržoje prekiaujamų fondų, sertifikatų ir kitų panašių finansinių priemonių, taip pat kitų finansinių priemonių, kurių kainos kitimą reguliuoja Europos Sąjungos teisės aktai, kainos kitimo žingsnio nustatymo tvarka.
+3. Reguliuojamose rinkose turi būti nustatyta akcijų, depozitoriumo pakvitavimų, biržoje prekiaujamų fondų, sertifikatų ir kitų panašių finansinių priemonių, taip pat kitų finansinių priemonių, kurių kainos kitimo žingsnių dydį reguliuoja Europos Sąjungos teisės aktai, kainos kitimo žingsnio taikymo tvarka. Dėl kainos kitimo žingsnio taikymo reguliuojamose rinkose nedraudžiama didelės apimties pavedimus, kaip jie suprantami pagal 2016 m. liepos 14 d. Komisijos deleguotąjį reglamentą (ES) 2017/587, kuriuo Europos Parlamento ir Tarybos reglamentas (ES) Nr. 600/2014 dėl finansinių priemonių rinkų papildomas techniniais reguliavimo standartais, susijusiais su prekybos vietoms ir investicinėms įmonėms taikomais skaidrumo reikalavimais dėl akcijų, depozitoriumo pakvitavimų, biržinių fondų, sertifikatų ir kitų panašių finansinių priemonių ir su pareiga tam tikrų akcijų sandorius vykdyti prekybos vietoje arba per sistemingai sandorius savo viduje sudarantį tarpininką, nustatyti pagal siūlomų pirkimo ir pardavimo kainų vidurkį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
+ 
 
 
 
 
-4. Nustatant kainos kitimo žingsnio nustatymo tvarką turi būti įvertinamas finansinės priemonės likvidumo pobūdis įvairiose rinkose ir vidutinis siūlomų ir prašomų kainų skirtumas, atsižvelgiant į poreikį užtikrinti pakankamai stabilias kainas ir pernelyg neribojant tolesnio kainų skirtumo mažinimo. Ši tvarka nustatoma taip, kad kainos kitimo žingsnis būtų tinkamai pritaikomas kiekvienai finansinei priemonei.
+4. Nustatant kainos kitimo žingsnio taikymo tvarką, turi būti įvertinamas finansinės priemonės likvidumo pobūdis įvairiose rinkose ir vidutinis siūlomų ir prašomų kainų skirtumas, atsižvelgiant į poreikį užtikrinti pakankamai stabilias kainas ir pernelyg neribojant tolesnio kainų skirtumo mažinimo. Ši tvarka nustatoma taip, kad kainos kitimo žingsnis būtų tinkamai pritaikomas kiekvienai finansinei priemonei. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
  
 
 
@@ -7516,6 +7551,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+ 
 
 
  
@@ -7524,6 +7560,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos 
 finansinių priemonių rinkų
 įstatymo
@@ -7533,95 +7570,87 @@ priedas
  
 
 
-1. 2001 m. gegužės 28 d. Europos Parlamento ir Tarybos direktyva 2001/34/EB dėl vertybinių popierių įtraukimo į biržos oficialųjį prekybos sąrašą ir dėl informacijos, kuri turi būti skelbiama apie tuos vertybinius popierius (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 24).
+1. 2001 m. gegužės 28 d. Europos Parlamento ir Tarybos direktyva 2001/34/EB dėl vertybinių popierių įtraukimo į biržos oficialųjį prekybos sąrašą ir dėl informacijos, kuri turi būti skelbiama apie tuos vertybinius popierius.
 
 
 
 
-2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013 (OL 2013 L 146, p. 1).
+2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 462/2013.
 
 
 
 
-3. 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 236/2012 dėl skolintų vertybinių popierių pardavimo ir tam tikrų kredito įsipareigojimų neįvykdymo apsikeitimo sandorių aspektų (OL 2012 L 86, p. 1).
+3. 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 236/2012 dėl skolintų vertybinių popierių pardavimo ir tam tikrų kredito įsipareigojimų neįvykdymo apsikeitimo sandorių aspektų.
 
 
 
 
-4. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (OL 2012 L 201, p. 1).
+4. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų.
 
 
 
 
-5. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338).
+5. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB.
 
 
 
 
-6. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1).
+6. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012.
 
 
 
 
-7. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB (OL 2014 L 173, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2016/1033 (OL 2016 L 175, p. 1).
+7. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2016/1033.
 
 
 
 
-8. 2014 m. gegužės 14 d. Europos Parlamento ir Tarybos direktyva 2014/65/ES dėl finansinių priemonių rinkų, kuria iš dalies keičiamos Direktyva 2002/92/EB ir Direktyva 2011/61/ES (OL 2014 L 173, p. 349), su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos direktyva (ES) Nr. 2016/1034 (OL 2016 L 175, p. 8).
+8. 2014 m. gegužės 14 d. Europos Parlamento ir Tarybos direktyva 2014/65/ES dėl finansinių priemonių rinkų, kuria iš dalies keičiamos Direktyva 2002/92/EB ir Direktyva 2011/61/ES, su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2034.
 
 
 
 
-9. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 600/2014 dėl finansinių priemonių rinkų, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2014 L 173, p. 84), su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2016/1033 (OL 2016 L 175, p. 1).
+9. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 600/2014 dėl finansinių priemonių rinkų, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2016/1033.
 
 
 
 
-10. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012 (OL 2014 L 173, p. 190), su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/2399 (OL 2017 L 345, p. 96). 
-Punkto pakeitimai:
-Nr. XIII-2024, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05398
- 
+10. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/2399.  
 
 
 
 
-11. 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 909/2014 dėl atsiskaitymo už vertybinius popierius gerinimo Europos Sąjungoje ir centrinių vertybinių popierių depozitoriumų, kuriuo iš dalies keičiamos direktyvos 98/26/EB ir 2014/65/ES bei Reglamentas (ES) Nr. 236/2012 (OL 2014 L 257, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2016/1033 (OL 2016 L 175, p. 1).
+11. 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 909/2014 dėl atsiskaitymo už vertybinius popierius gerinimo Europos Sąjungoje ir centrinių vertybinių popierių depozitoriumų, kuriuo iš dalies keičiamos direktyvos 98/26/EB ir 2014/65/ES bei Reglamentas (ES) Nr. 236/2012, su paskutiniais pakeitimais, padarytais 2016 m. birželio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2016/1033.
 
 
 
 
-12. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1).
+12. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų.
 
 
 
 
-13. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/2365 dėl vertybinių popierių įsigijimo finansavimo sandorių ir pakartotinio naudojimo skaidrumo ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2015 L 337, p. 1). 
+13. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/2365 dėl vertybinių popierių įsigijimo finansavimo sandorių ir pakartotinio naudojimo skaidrumo ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012. 
 
 
 
 
-14. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2016/1011 dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014 (OL 2016 L 171, p. 1).
+14. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2016/1011 dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014.
 
 
 
 
-15. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu (OL 2017 L 132, p. 1). 
-Papildyta punktu:
-Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
- 
+15. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu.  
 
 
 
 
-16. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB (OL 2017 L 168, p. 12). 
-Papildyta punktu:
-Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
- 
+16. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB.
 
 
 Priedo pakeitimai:
 Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
+Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
  
 
 
@@ -7732,3 +7761,8 @@ Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 88
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 3, 25, 35, 53, 56, 58, 59, 62, 82, 111 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 62-1 straipsniu įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 30, 62-1, 67 straipsnių ir priedo pakeitimo įstatymas
