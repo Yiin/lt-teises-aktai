@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-05-30
+Suvestinė redakcija nuo 2020-05-31 iki 2020-05-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -51,7 +51,18 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Balansavimo energija – elektros energija, kuri yra suvartojama (nesuvartojama) ar pagaminama (nepagaminama) nesilaikant balansavimo energijos tiekėjų grafikuose, sudarytuose Lietuvos Respublikos energetikos ministerijos patvirtintose Prekybos elektros energija taisyklėse nustatyta tvarka ir sąlygomis, nurodytų elektros energijos kiekių.
+1. Atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutartis – sutartis, pagal kurią fizinis arba juridinis asmuo sutinka iš elektros energijos iš atsinaujinančių išteklių gamintojo tiesiogiai pirkti elektros energiją, o gamintojas – ją parduoti. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
+
+
+
+
+11. Balansavimo energija – elektros energija, kuri yra suvartojama (nesuvartojama) ar pagaminama (nepagaminama) nesilaikant balansavimo energijos tiekėjų grafikuose, sudarytuose Lietuvos Respublikos energetikos ministerijos patvirtintose Prekybos elektros energija taisyklėse nustatyta tvarka ir sąlygomis, nurodytų elektros energijos kiekių.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 
@@ -1039,7 +1050,10 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-7) atlieka viešuosius interesus atitinkančių paslaugų lėšų administravimo priežiūrą;
+7) atlieka viešuosius interesus atitinkančias paslaugas teikiančių ir lėšas už viešuosius interesus atitinkančių paslaugų teikimą gaunančių asmenų priežiūrą ir kontrolę; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 
@@ -1109,7 +1123,10 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-21) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+21) atlieka kitas Lietuvos Respublikos įstatymų, tiesiogiai taikomu Europos Sąjungos teisės aktu ir ratifikuota Lietuvos Respublikos tarptautine sutartimi pavestas funkcijas. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 
@@ -1567,21 +1584,20 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-6. Išduotų leidimų plėtoti elektros energijos gamybos pajėgumus ir tiesti tiesioginę liniją galiojimo terminas pratęsiamas ne daugiau kaip du kartus: 
+6. Išduotų leidimų plėtoti elektros energijos gamybos pajėgumus ir tiesti tiesioginę liniją galiojimo terminas pratęsiamas tokia tvarka: 
 
 
-1) vieną kartą ne ilgesniam kaip 12 mėnesių, o plėtojant elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių – 6 mėnesių laikotarpiui, jeigu asmuo, kreipdamasis dėl leidimo galiojimo termino pratęsimo, pateikia įrodymus, pagrindžiančius, kad atlikti suplanuotus darbus vėluojama dėl valstybės, trečiųjų asmenų veiksmų ar nenugalimos jėgos aplinkybių;
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos elektros energetikos įstatymo 16 straipsnio (2015 m. gegužės 7 d. redakcija; TAR, 2015-05-20, Nr. 07656) 6 dalies 1 punkte nustatytas teisinis reguliavimas tiek, kiek pagal jį leidimo plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių galiojimo terminas pratęsiamas vieną kartą 6 mėnesių laikotarpiui, jeigu asmuo, kreipdamasis dėl leidimo galiojimo termino pratęsimo, pateikia įrodymus, pagrindžiančius, kad atlikti suplanuotus darbus vėluojama dėl valstybės, trečiųjų asmenų veiksmų ar nenugalimos jėgos aplinkybių, neatsižvelgiant į tai, kiek trunka šios aplinkybės, prieštarauja Lietuvos Respublikos Konstitucijos 46 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
-Straipsnio punkto pakeitimai:
-Nr. KT24-N14/2018, 2018-12-21, paskelbta TAR 2018-12-21, i. k. 2018-21226
+1) neribotą kartų skaičių valstybės, trečiųjų asmenų veiksmų ar nenugalimos jėgos aplinkybių buvimo laikotarpiui, jeigu asmuo, kreipdamasis dėl leidimo galiojimo termino pratęsimo, pateikia įrodymus, kad atlikti suplanuotus darbus vėluojama dėl valstybės, trečiųjų asmenų veiksmų ar nenugalimos jėgos aplinkybių;
+
+
+
+
+2) vieną kartą 6 mėnesių laikotarpiui, jeigu asmuo, kreipdamasis dėl leidimo galiojimo termino pratęsimo, pateikia statybą leidžiantį dokumentą, išskyrus teisės aktų nustatytus atvejus, kai statybą leidžiantis dokumentas neprivalomas, ir dokumentus, įrodančius, kad atlikta ne mažiau kaip 50 procentų projekto įgyvendinimo darbų. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
  
-
-
-
-
-2) vieną kartą ne ilgesniam kaip 6 mėnesių laikotarpiui, jeigu asmuo, kreipdamasis dėl leidimo galiojimo termino pratęsimo, pateikia statybą leidžiantį dokumentą, išskyrus teisės aktų nustatytus atvejus, kai statybą leidžiantis dokumentas neprivalomas, ir dokumentus, įrodančius, kad atlikta ne mažiau kaip 50 procentų projekto įgyvendinimo darbų.
-
-
 
 
 
@@ -1628,11 +1644,19 @@ Nr. XIII-2201, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09724
 
 
 
-5) pateikusiems rašytinį įsipareigojimą nugriauti ar išmontuoti elektrinę Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, kai įsigalioja Tarybos sprendimas panaikinti leidimo gaminti elektros energiją galiojimą. Įsipareigojime taip pat turi būti nustatyta leidimo turėtojo prievolė nugriauti ar išmontuoti elektrinės prijungimui reikalingus elektros tinklus ir nugriovimą ar išmontavimą vykdyti pagal tinklų operatoriaus išduotas prijungimo sąlygas griovimo ar išmontavimo projektui rengti. Elektrinė gali būti nenugriauta ar neišmontuota, jeigu ją numatoma naudoti kitiems tikslams, atitinkantiems teisės aktų reikalavimus. Šio punkto nuostata taikoma elektros energijos iš atsinaujinančių energijos išteklių gamintojams. 
+5) pateikusiems rašytinį įsipareigojimą nugriauti ar išmontuoti elektrinę Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, kai įsigalioja Tarybos sprendimas panaikinti leidimo gaminti elektros energiją galiojimą. Įsipareigojime taip pat turi būti nustatyta leidimo turėtojo prievolė nugriauti ar išmontuoti elektrinės prijungimui reikalingus elektros tinklus ir nugriovimą ar išmontavimą vykdyti pagal tinklų operatoriaus išduotas prijungimo sąlygas griovimo ar išmontavimo projektui rengti. Elektrinė gali būti nenugriauta ar neišmontuota, jeigu ją numatoma naudoti kitiems tikslams, atitinkantiems teisės aktų reikalavimus. Šio punkto nuostata taikoma elektros energijos iš atsinaujinančių energijos išteklių gamintojams; 
 Papildyta straipsnio punktu:
 Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 Straipsnio punkto pakeitimai:
 Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
+
+
+
+
+6) atsinaujinančių išteklių energijos bendrijai. 
+Papildyta straipsnio punktu:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
  
 
 
@@ -1671,9 +1695,17 @@ Nr. XIII-2201, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09724
 
 
 
-3) neteko galios 2019-05-01.
+3) neteko galios 2019-05-01;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+ 
+
+
+
+
+4) atsinaujinančių išteklių energijos bendrijai. 
+Papildyta straipsnio punktu:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
  
 
 
@@ -1744,7 +1776,15 @@ Nr. XIII-614, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12337
 
 
 
-8) planuojamas statyti energetikos objektas, kuriame kaip kuras energijai gaminti planuojamos naudoti po rūšiavimo likusios ir perdirbti netinkamos energinę vertę turinčios komunalinės atliekos, Vyriausybės pripažintas valstybinės reikšmės objektu. 
+8) planuojamas statyti energetikos objektas, kuriame kaip kuras energijai gaminti planuojamos naudoti po rūšiavimo likusios ir perdirbti netinkamos energinę vertę turinčios komunalinės atliekos, Vyriausybės pripažintas valstybinės reikšmės objektu; 
+
+
+
+
+9) gautas Lietuvos kariuomenės patvirtinimas, kad teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo reikalavimus, netaikomi apribojimai projektuoti ir statyti vėjo elektrines arba yra apribojimai projektuoti ir statyti vėjo elektrines, tačiau planuojamų statyti vėjo elektrinių keliamų trukdžių nacionaliniam saugumui užtikrinti galima išvengti panaudojant papildomas priemones, kaip tai numatyta Atsinaujinančių išteklių energetikos įstatyme. 
+Papildyta straipsnio punktu:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -1812,7 +1852,10 @@ Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 24. Atsisakymai išduoti leidimus, nurodytus šio straipsnio 1 dalyje, ir pratęsti šio straipsnio 1 dalies 2 ir 3 punktuose nurodytų leidimų galiojimo terminą:
 
 
-1) negali būti grindžiami kitaip, negu neatitikimu šio įstatymo reikalavimams;
+1) negali būti grindžiami kitaip, negu neatitiktimi šio įstatymo reikalavimams ir Atsinaujinančių išteklių energetikos įstatymo 202 straipsnio 2 ir 3 dalių reikalavimams, kai dėl leidimų, nurodytų šio straipsnio 1 dalies 1 ir 2 punktuose, išdavimo kreipiasi atsinaujinančių išteklių energijos bendrija. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 
@@ -1925,7 +1968,10 @@ Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 
 
 
-4. Už licencijuojamos veiklos, leidimus turinčių asmenų veiklos sąlygų ir reikalavimų pažeidimus asmenys, turintys licencijas ir (ar) leidimus atitinkamai energetikos veiklai, įspėjami apie galimą licencijų ar leidimų galiojimo sustabdymą ar panaikinimą Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka. Licencijos ar leidimo galiojimas sustabdomas, galiojimo sustabdymas panaikinamas, licencijos ar leidimo galiojimas panaikinamas, taip pat licencija ar leidimas yra keičiami Energetikos įstatyme nustatyta tvarka.
+4. Už licencijuojamos veiklos, leidimus turinčių asmenų veiklos sąlygų ir reikalavimų pažeidimus asmenys, turintys licencijas ir (ar) leidimus atitinkamai energetikos veiklai, įspėjami apie galimą licencijų ar leidimų galiojimo sustabdymą ar panaikinimą Licencijavimo taisyklėse ir Veiklos elektros energetikos sektoriuje leidimų išdavimo taisyklėse nustatyta tvarka. Licencijos ar leidimo galiojimas sustabdomas, galiojimo sustabdymas panaikinamas, licencijos ar leidimo galiojimas panaikinamas, taip pat licencija ar leidimas yra keičiami Energetikos įstatyme nustatyta tvarka, išskyrus atvejus, kai keičiama teritorija, nurodyta leidime plėtoti elektros energijos gamybos pajėgumus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 
@@ -1933,6 +1979,42 @@ Nr. XIII-710, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18145
 5. Licencijuojamą elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo veiklą nutraukti ketinantis asmuo privalo ne vėliau kaip prieš 6 mėnesius informuoti apie tai licenciją išdavusią instituciją. Tuo atveju, kai pranešime nurodomas asmuo, kuris ketina pasibaigus pranešime nurodytam terminui verstis licencijuojama elektros energijos perdavimo, skirstymo ar visuomeninio tiekimo veikla ir atitinka šiai veiklai nustatytus reikalavimus, nustatytus šiame įstatyme ir kituose teisės aktuose, ir Tarybai pateikia įvertinti tokį atitikimą pagrindžiančius dokumentus, pranešimo apie veiklos nutraukimą terminas derinamas Tarybos, pranešimą teikiančio asmens ir ketinančio verstis licencijuojama veikla asmens sutarimu. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+ 
+
+
+
+
+51. Teritorija, nurodyta išduotame leidime plėtoti elektros energijos gamybos pajėgumus, gali būti keičiama nekeičiant numatomo elektros įrenginių prijungimo prie elektros tinklų taško. Asmens, kuris numato pakeisti teritoriją, nurodytą išduotame leidime plėtoti elektros energijos gamybos pajėgumus, veikla iki pakeitimų atlikimo turi atitikti visas šias sąlygas:
+
+
+1) neturi neigiamo poveikio žmonių sveikatai, jų turtui ir gyvenamajai aplinkai ar nesudarys prielaidų tokiam neigiamam poveikiui atsirasti;
+
+
+
+
+2) atitinka aplinkos apsaugos reikalavimus;
+
+
+
+
+3) atitinka žemės naudojimo ir statybos vietos parinkimo reikalavimus;
+
+
+
+
+4) gautas Lietuvos kariuomenės patvirtinimas, kad teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo reikalavimus, netaikomi apribojimai projektuoti ir statyti vėjo elektrines arba yra apribojimai projektuoti ir statyti vėjo elektrines, tačiau planuojamų statyti vėjo elektrinių keliamų trukdžių nacionaliniam saugumui užtikrinti galima išvengti panaudojant papildomas priemones, kaip tai numatyta Atsinaujinančių išteklių energetikos įstatyme. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
+
+
+
+
+52. Kai numatoma pakeisti teritoriją, nurodytą išduotame leidime plėtoti elektros energijos gamybos pajėgumus, leidimo turėtojas privalo pateikti Tarybai prašymą išduoti pakeistą leidimą ir dokumentus, patvirtinančius atitiktį šio straipsnio 51 dalyje nustatytiems reikalavimams. Taryba įvertina pateiktus dokumentus ir per šio straipsnio 2 dalyje nurodytą terminą išduoda pakeistą leidimą arba pateikia motyvuotą atsisakymą leidimą pakeisti. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
  
 
 
@@ -2045,9 +2127,10 @@ Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
 
 
 
-2. Gamintojai, norintys parduoti elektros energiją tiesiogiai vartotojams, privalo gauti leidimą verstis nepriklausomo elektros energijos tiekimo veikla, kaip nurodyta šio įstatymo 16 straipsnio 21 dalyje.
+2. Gamintojai, išskyrus gamintojus, elektros energiją gaminančius iš atsinaujinančių išteklių, norintys parduoti elektros energiją tiesiogiai vartotojams, privalo gauti leidimą verstis nepriklausomo elektros energijos tiekimo veikla, kaip nurodyta šio įstatymo 16 straipsnio 21 dalyje. Gamintojams, elektros energiją gaminantiems iš atsinaujinančių išteklių, elektros energiją parduodantiems tiesiogiai vartotojui, taikomos nepriklausomam elektros energijos tiekėjui nustatytos sąlygos ir reikalavimai, išskyrus reikalavimus, nustatytus šio įstatymo 46 straipsnyje. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
  
 
 
@@ -2064,6 +2147,14 @@ Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
 4. Perdavimo sistemos operatorius, gavęs gamintojo prašymą laikinai sustabdyti arba visiškai nutraukti elektros energijos gamybos įrenginio eksploatavimą anksčiau šio straipsnio 3 dalyje nustatytų pranešimo terminų, per vieną mėnesį nuo prašymo gavimo dienos įvertina tokio įrenginio laikino eksploatavimo sustabdymo ar visiško eksploatavimo nutraukimo įtaką elektros energetikos sistemos darbo stabilumui, saugumui, patikimumui ir adekvatumui. Perdavimo sistemos operatorius, nustatęs, kad šis elektros energijos gamybos įrenginys bus reikalingas elektros energetikos sistemos darbo stabilumui, saugumui, patikimumui ir adekvatumui užtikrinti po gamintojo prašyme nurodytos datos, apie tai informuoja prašymą pateikusį gamintoją ir Tarybą. Gamintojas su šiuo elektros energijos gamybos įrenginiu turi teikti perdavimo sistemos operatoriaus nustatytas izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugas nuo prašyme nurodytos elektros energijos gamybos įrenginio laikino eksploatavimo sustabdymo arba visiško eksploatavimo nutraukimo datos, bet ne anksčiau negu po 4 mėnesių nuo prašymo pateikimo dienos, iki perdavimo sistemos operatoriaus nustatyto termino, kuris negali būti vėlesnis negu šio straipsnio 3 dalyje nustatyti terminai. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
+ 
+
+
+
+
+41. Gamintojas, elektros energiją gaminantis iš atsinaujinančių išteklių ir norintis parduoti elektros energiją tiesiogiai vartotojui, vadovaudamasis šio įstatymo 461 straipsniu, su vartotoju privalo sudaryti atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutartį ir per 5 darbo dienas nuo šios sutarties sudarymo informuoti Tarybą apie elektros energijos tiekimo veiklos vykdymą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
  
 
 
@@ -2095,7 +2186,10 @@ Nr. XII-1665, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07656
 
 
 
-2. Jeigu gamintojas užbaigia ketinimų protokole numatytos įrengtosios galios elektrinės statybą Statybos įstatyme nustatyta tvarka ir gamintojui šiame įstatyme nustatyta tvarka išduotas leidimas gaminti elektros energiją arba gamintojas, dalyvaujantis Atsinaujinančių išteklių energetikos įstatymo 20 straipsnio 3 dalyje nurodytame skatinimo kvotų paskirstymo aukcione, nelaimi šio skatinimo kvotų paskirstymo aukciono arba atsisako jame dalyvauti, tinklų operatorius, gavęs gamintojo prašymą, atsisako savo teisių pagal gamintojo prievolių įvykdymo užtikrinimą ir grąžina jį šiam gamintojui ar jo prievolių įvykdymo užtikrinimą išdavusiam asmeniui, o šalių teisės ir pareigos pagal ketinimų protokolą pasibaigia. 
+2. Jeigu gamintojas užbaigia ketinimų protokole numatytos įrengtosios galios elektrinės statybą Statybos įstatyme nustatyta tvarka ir gamintojui šiame įstatyme nustatyta tvarka išduotas leidimas gaminti elektros energiją arba gamintojas, dalyvaujantis Atsinaujinančių išteklių energetikos įstatymo 20 straipsnio 4 dalyje nurodytame skatinimo kvotų paskirstymo aukcione, nelaimi šio skatinimo kvotų paskirstymo aukciono arba atsisako jame dalyvauti, tinklų operatorius, gavęs gamintojo prašymą, atsisako savo teisių pagal gamintojo prievolių įvykdymo užtikrinimą ir grąžina jį šiam gamintojui ar jo prievolių įvykdymo užtikrinimą išdavusiam asmeniui, o šalių teisės ir pareigos pagal ketinimų protokolą pasibaigia. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 
@@ -2179,9 +2273,11 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-8. Gamintojas, gavęs išankstines prijungimo sąlygas, parengia ir pateikia elektros tinklų operatoriui prašymą pasirašyti ketinimų protokolą. Ši nuostata netaikoma gaminantiems vartotojams, gamintojams, planuojantiems gaminti elektros energiją savo reikmėms ir ūkio poreikiams ir planuojantiems į elektros tinklus patiekti elektros energiją, likusią nuo savo reikmėms ir ūkio poreikiams nesuvartotos elektros energijos, kai elektrinės įrengtoji galia yra ne didesnė kaip 500 kW ir ne didesnė negu gamintojo objektui suteikta leistinoji naudoti galia, ir gamintojams, planuojantiems gaminti elektros energiją tik savo reikmėms ir ūkio poreikiams, nepatiekiant elektros energijos į elektros tinklus. 
+8. Gamintojas, gavęs išankstines prijungimo sąlygas, parengia ir pateikia elektros tinklų operatoriui prašymą pasirašyti ketinimų protokolą. Ši nuostata netaikoma gaminantiems vartotojams, gamintojams, planuojantiems gaminti elektros energiją savo reikmėms ir ūkio poreikiams ir planuojantiems į elektros tinklus patiekti elektros energiją, likusią nuo savo reikmėms ir ūkio poreikiams nesuvartotos elektros energijos, kai elektrinės įrengtoji galia yra ne didesnė kaip 500 kW ir ne didesnė negu gamintojo objektui suteikta leistinoji naudoti galia ir kai šie gamintojai neketina dalyvauti skatinimo kvotų paskirstymo aukcione, gamintojams, planuojantiems gaminti elektros energiją tik savo reikmėms ir ūkio poreikiams, nepatiekiant elektros energijos į elektros tinklus ir atsinaujinančių išteklių energijos bendrijoms, neketinančioms dalyvauti skatinimo kvotų paskirstymo aukcione. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+Straipsnio dalies pakeitimai:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
  
 
 
@@ -2195,7 +2291,10 @@ Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 
 
 
-2) terminas, per kurį gamintojas įsipareigoja pastatyti elektrinę, baigti savo elektros tinklų dalyje susijusius darbus ir pateikti reikalingus dokumentus Valstybinei energetikos inspekcijai leidimui gaminti elektros energiją gauti;
+2) terminas, per kurį gamintojas įsipareigoja pastatyti elektrinę, baigti savo elektros tinklų dalyje susijusius darbus ir pateikti reikalingus dokumentus Tarybai leidimui gaminti elektros energiją gauti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 
@@ -2208,7 +2307,10 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-4) tinklų operatoriaus įsipareigojimas per ne ilgesnį kaip vieno mėnesio laikotarpį nuo su tinklų operatoriumi suderinto techninio projekto pateikimo dienos arba per ne ilgesnį kaip vieno mėnesio laikotarpį nuo ketinimų protokolo pasirašymo dienos, jeigu toks techninis projektas planuojamai statyti elektrinei yra neprivalomas, parengti elektrinės prijungimo prie elektros tinklų paslaugos sutarties projektą;
+4) tinklų operatoriaus įsipareigojimas per ne ilgesnį kaip vieno mėnesio laikotarpį nuo tinklų operatoriaus patvirtinimo apie su tinklų operatoriumi suderintą techninį projektą pateikimo dienos arba per ne ilgesnį kaip vieno mėnesio laikotarpį nuo ketinimų protokolo pasirašymo dienos, jeigu toks techninis projektas planuojamai statyti elektrinei yra neprivalomas, parengti elektrinės prijungimo prie elektros tinklų paslaugos sutarties projektą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 
@@ -2238,7 +2340,10 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-10) Lietuvos kariuomenės patvirtinimas, kai planuojama statyti vėjo elektrines, kad teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo reikalavimus, netaikomi apribojimai projektuoti ir statyti vėjo elektrines. 
+10) Lietuvos kariuomenės patvirtinimas, kad teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo reikalavimus, netaikomi apribojimai projektuoti ir statyti vėjo elektrines arba yra apribojimai projektuoti ir statyti vėjo elektrines, tačiau planuojamų statyti vėjo elektrinių keliamų trukdžių nacionaliniam saugumui užtikrinti galima išvengti panaudojant papildomas priemones, kaip tai numatyta Atsinaujinančių išteklių energetikos įstatyme. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 Papildyta straipsnio dalimi:
@@ -2791,27 +2896,40 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-2. Perdavimo sistemos operatorius, atlikdamas elektros energijos srautų perdavimo tinkluose dispečerinį valdymą ir atsižvelgdamas į perdavimo sistemos darbo saugumo reikalavimus, pirmumo teise toliau nustatyta prioriteto tvarka užtikrina elektros energijos priėmimą ir persiuntimą perdavimo tinklais, pagamintos:
+2. Perdavimo sistemos operatorius, atlikdamas elektros energijos srautų perdavimo tinkluose dispečerinį valdymą ir atsižvelgdamas į perdavimo sistemos darbo saugumo reikalavimus, pirmumo teise toliau nustatyta prioriteto tvarka užtikrina elektros energijos priėmimą ir persiuntimą perdavimo tinklais iš:
 
 
-1) iš atsinaujinančių energijos išteklių didelio naudingumo kogeneracijos būdu;
-
-
-
-
-2) iš atsinaujinančių energijos išteklių ne kogeneracijos ar ne didelio naudingumo kogeneracijos būdu;
+1) gamintojų, elektros energiją gaminančių iš atsinaujinančių energijos išteklių didelio naudingumo kogeneracijos būdu, kuriems taikoma Atsinaujinančių išteklių energetikos įstatymo 3 straipsnio 2 dalies 1 punkte nurodyta skatinimo priemonė;
 
 
 
 
-3) ne iš atsinaujinančių energijos išteklių didelio naudingumo kogeneracijos būdu;
+2) gamintojų, elektros energiją gaminančių iš atsinaujinančių energijos išteklių didelio naudingumo kogeneracijos būdu;
 
 
 
 
-4) ne iš atsinaujinančių energijos išteklių ne kogeneracijos ar ne didelio naudingumo kogeneracijos būdu.
+3) gamintojų, elektros energiją gaminančių iš atsinaujinančių energijos išteklių ne kogeneracijos ar ne didelio naudingumo kogeneracijos būdu, įgijusių teisę į Atsinaujinančių išteklių energetikos įstatymo 3 straipsnio 2 dalies 1 punkte nurodytą skatinimo priemonę, ir atsinaujinančių išteklių energijos bendrijų;
 
 
+
+
+4) gamintojų, elektros energiją gaminančių iš atsinaujinančių energijos išteklių ne kogeneracijos ar ne didelio naudingumo kogeneracijos būdu;
+
+
+
+
+5) gamintojų, elektros energiją gaminančių ne iš atsinaujinančių energijos išteklių didelio naudingumo kogeneracijos būdu;
+
+
+
+
+6) gamintojų, elektros energiją gaminančių ne iš atsinaujinančių energijos išteklių ne kogeneracijos ar ne didelio naudingumo kogeneracijos būdu. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 Straipsnio pakeitimai:
@@ -3151,27 +3269,40 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-2. Skirstomųjų tinklų operatorius, atlikdamas elektros energijos srautų paskirstymo tinkluose dispečerinį valdymą ir atsižvelgdamas į skirstymo sistemos darbo saugumo reikalavimus, pirmumo teise toliau nustatyta prioriteto tvarka užtikrina elektros energijos priėmimą ir persiuntimą skirstomaisiais tinklais, pagamintos:
+2. Skirstomųjų tinklų operatorius, atlikdamas elektros energijos srautų paskirstymo tinkluose dispečerinį valdymą ir atsižvelgdamas į skirstymo sistemos darbo saugumo reikalavimus, pirmumo teise toliau nustatyta prioriteto tvarka užtikrina elektros energijos priėmimą ir persiuntimą skirstomaisiais tinklais iš:
 
 
-1) iš atsinaujinančių energijos išteklių didelio naudingumo kogeneracijos būdu;
-
-
-
-
-2) iš atsinaujinančių energijos išteklių ne kogeneracijos ar ne didelio naudingumo kogeneracijos būdu;
+1) gamintojų, elektros energiją gaminančių iš atsinaujinančių energijos išteklių didelio naudingumo kogeneracijos būdu, įgijusių teisę į Atsinaujinančių išteklių energetikos įstatymo 3 straipsnio 2 dalies 1 punkte nurodytą skatinimo priemonę;
 
 
 
 
-3) ne iš atsinaujinančių energijos išteklių didelio naudingumo kogeneracijos būdu;
+2) gamintojų, elektros energiją gaminančių iš atsinaujinančių energijos išteklių didelio naudingumo kogeneracijos būdu;
 
 
 
 
-4) ne iš atsinaujinančių energijos išteklių ne kogeneracijos ar ne didelio naudingumo kogeneracijos būdu.
+3) gamintojų, elektros energiją gaminančių iš atsinaujinančių energijos išteklių ne kogeneracijos ar ne didelio naudingumo kogeneracijos būdu, įgijusių teisę į Atsinaujinančių išteklių energetikos įstatymo 3 straipsnio 2 dalies 1 punkte nurodytą skatinimo priemonę, ir atsinaujinančių išteklių energijos bendrijų;
 
 
+
+
+4) gamintojų, elektros energiją gaminančių iš atsinaujinančių energijos išteklių ne kogeneracijos ar ne didelio naudingumo kogeneracijos būdu;
+
+
+
+
+5) gamintojų, elektros energiją gaminančių ne iš atsinaujinančių energijos išteklių didelio naudingumo kogeneracijos būdu;
+
+
+
+
+6) gamintojų, elektros energiją gaminančių ne iš atsinaujinančių energijos išteklių ne kogeneracijos ar ne didelio naudingumo kogeneracijos būdu. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 Straipsnio pakeitimai:
@@ -3277,9 +3408,10 @@ ELEKTROS ENERGIJOS TIEKIMAS
 41 straipsnis. Tiekimo veiklos principai
 
 
-1. Vartotojai perka elektros energiją iš tiekėjų ir asmenų, nurodytų šio įstatymo 44 straipsnyje, šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka ir sąlygomis. Vartotojams elektros energija tiekiama visuomenine elektros energijos kaina šio įstatymo 43 straipsnyje nustatyta tvarka ir sąlygomis ir užtikrinamas garantinis elektros energijos tiekimas šio įstatymo 44 straipsnyje nustatytais atvejais ir tvarka. 
+1. Vartotojai perka elektros energiją iš tiekėjų, gamintojų, elektros energiją gaminančių iš atsinaujinančių išteklių, ir asmenų, nurodytų šio įstatymo 44 straipsnyje, šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka ir sąlygomis. Vartotojams, išskyrus vartotojus, sudariusius atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutartį, elektros energija tiekiama visuomenine elektros energijos kaina šio įstatymo 43 straipsnyje nustatyta tvarka ir sąlygomis. Vartotojams, sudariusiems atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutartį, elektros energija tiekiama šioje sutartyje nustatyta elektros energijos kaina. Vartotojams užtikrinamas garantinis elektros energijos tiekimas šio įstatymo 44 straipsnyje nustatytais atvejais ir tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
  
 
 
@@ -3514,6 +3646,44 @@ Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 
 
 
+461 straipsnis. Elektros energijos tiekimas pagal atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutartį
+
+
+1. Gamintojas, elektros energiją gaminantis iš atsinaujinančių išteklių, vartotojams elektros energiją tiekia pagal atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutartis. Vartotojo prašymu gamintojas, elektros energiją gaminantis iš atsinaujinančių išteklių, ne vėliau kaip per 10 dienų nuo vartotojo prašymo pateikimo dienos parengia ir pateikia atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutarties projektą arba informuoja vartotoją, kad tokios sutarties sudaryti negali.
+
+
+
+
+2. Atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutarties sąlygas tarpusavio sutarimu suderina gamintojas, elektros energiją gaminantis iš atsinaujinančių išteklių, ir vartotojas. Su buitiniais vartotojais sudaromos sutartys privalo atitikti Energetikos ministerijos patvirtintas elektros energijos pirkimo–pardavimo sutarčių standartines sąlygas. Gamintojas, elektros energiją gaminantis iš atsinaujinančių išteklių, neprivalo sudaryti su vartotoju sutarties ar tiekti elektros energiją vartotojui ar jo objektams, jeigu vartotojas nesutinka su gamintojo, elektros energiją gaminančio iš atsinaujinančių išteklių, nurodytomis elektros energijos tiekimo sąlygomis. 
+
+
+
+
+3. Gamintojas, elektros energiją gaminantis iš atsinaujinančių išteklių, prieš sudarydamas arba nutraukdamas atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutartį su vartotoju, privalo prieš 3 savaites apie tai raštu pranešti tinklų operatoriui, prie kurio valdomų tinklų yra prijungti vartotojo įrenginiai.
+
+
+
+
+4. Vartotojas, prieš sudarydamas arba nutraukdamas atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutartį su gamintoju, elektros energiją gaminančiu iš atsinaujinančių išteklių, privalo prieš 3 savaites apie tai raštu pranešti tinklų operatoriui, prie kurio valdomų tinklų yra prijungti vartotojo įrenginiai, taip pat visuomeniniam tiekėjui, kurio licencijoje nurodytoje teritorijoje yra buitinio vartotojo įrenginiai.
+
+
+
+
+5. Vartotojai, kurių įrenginiai prijungti prie skirstomųjų tinklų, pirkdami elektros energiją iš gamintojo, elektros energiją gaminančio iš atsinaujinančių išteklių, privalo skirstomųjų tinklų operatoriui apmokėti už elektros energijos persiuntimą perdavimo ir skirstomaisiais tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, išskyrus už elektros energijos kiekį, persiųstą energijos kaupimo įrenginiams, kurių įrengtoji elektrinė galia yra ne mažesnė negu 1 MW, įkrauti energija, kada energijos kaupimo įrenginiams įkrauti patiektas elektros energijos kiekis, išskyrus technologinius nuostolius, vėliau yra grąžinamas į operatorių elektros tinklus. Vartotojas, gavęs skirstomųjų tinklų operatoriaus ir gamintojo, elektros energiją gaminančio iš atsinaujinančių išteklių, sutikimą ir būdamas atsakingas skirstomųjų tinklų operatoriui, šioje dalyje nurodytas vartotojo pinigines prievoles gali pavesti vykdyti gamintojui, elektros energiją gaminančiam iš atsinaujinančių išteklių.
+
+
+
+
+6. Vartotojai, kurių įrenginiai prijungti prie perdavimo tinklų, pirkdami elektros energiją iš gamintojo, elektros energiją gaminančio iš atsinaujinančių išteklių, privalo perdavimo sistemos operatoriui apmokėti už elektros energijos persiuntimą perdavimo tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, išskyrus už elektros energijos kiekį, persiųstą energijos kaupimo įrenginiams įkrauti energija, kada energijos kaupimo įrenginiams įkrauti patiektas elektros energijos kiekis, išskyrus technologinius nuostolius, vėliau yra grąžinamas į operatorių elektros tinklus. Vartotojas, gavęs perdavimo sistemos operatoriaus ir gamintojo, elektros energiją gaminančio iš atsinaujinančių išteklių, sutikimą ir būdamas atsakingas perdavimo sistemos operatoriui, šioje dalyje nurodytas vartotojo pinigines prievoles gali pavesti vykdyti gamintojui, elektros energiją gaminančiam iš atsinaujinančių išteklių. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
+
+
+
+
 47 straipsnis. Atsiskaitymo garantijos nepriklausomam tiekėjui
 
 
@@ -3543,7 +3713,9 @@ Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 
 
 
-2. Tinklų operatorių pagal apskaitos prietaisų rodmenis nustatytas vartotojų, prijungtų prie perdavimo ar skirstomųjų tinklų ir perkančių elektros energiją iš visuomeninių ar nepriklausomų tiekėjų, suvartotos elektros energijos kiekis perdavimo sistemos operatoriaus pripažįstamas faktiniu suvartotos elektros energijos kiekiu, kurį privalo nusipirkti visuomeninis ar nepriklausomas tiekėjas.
+2. Tinklų operatorių pagal apskaitos prietaisų rodmenis nustatytas vartotojų, prijungtų prie perdavimo ar skirstomųjų tinklų ir perkančių elektros energiją iš visuomeninių ar nepriklausomų tiekėjų, suvartotos elektros energijos kiekis perdavimo sistemos operatoriaus pripažįstamas faktiniu suvartotos elektros energijos kiekiu, kurį privalo nusipirkti visuomeninis, nepriklausomas tiekėjas. Ši nuostata netaikoma gamintojams, elektros energiją gaminantiems iš atsinaujinančių išteklių, ar kitiems nepriklausomiems tiekėjams, kurie taip pat turi ir leidimą gaminti elektros energiją. Gamintojas, elektros energiją gaminantis iš atsinaujinančių išteklių, ar nepriklausomas tiekėjas, kuris taip pat turi ir leidimą gaminti elektros energiją, privalo nusipirkti tokį elektros energijos kiekį, kuris nepadengia perdavimo sistemos operatoriaus pripažinto vartotojo faktinio suvartoto elektros energijos kiekio. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
  
 
 
@@ -3600,9 +3772,17 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-6) neteko galios nuo 2017-11-01.
+6) neteko galios nuo 2017-11-01;
 Straipsnio punkto pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+ 
+
+
+
+
+7) vartotojai turi teisę būti atsinaujinančių išteklių energijos bendrijos dalininkais ir elektros energiją gaminančiais vartotojais. 
+Papildyta straipsnio punktu:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
  
 
 
@@ -3762,7 +3942,6 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 5. Elektros tinklų operatoriai elektros energijos valandinius suvartojimo duomenis už praėjusį ataskaitinį laikotarpį kartu su sąskaita už šiuo laikotarpiu suteiktas paslaugas elektroniniu būdu pateikia vartotojams, kurių objektuose vartojamos elektros energijos apskaitos prietaisai yra prijungti prie automatinės duomenų nuskaitymo ar išmaniosios energijos apskaitos sistemų. Vartotojams ir (ar), vartotojams raštiškai sutikus, nepriklausomiems tiekėjams elektros tinklų operatoriai už iš anksto operatorių nustatytą paslaugos kainą, pagrįstą patiriamomis sąnaudomis, gali sudaryti galimybę naudotis automatinėse duomenų nuskaitymo ar išmaniosios energijos apskaitos sistemose esančiais elektros vartojimo duomenimis. 
-TAR pastaba. 51 straipsnio 5 dalies papildymas įsigalioja 2018-01-01.
 Papildyta straipsnio dalimi:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
  
@@ -3780,14 +3959,10 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-7. Tiekėjai savo, tiekėjų asociacijos, kuriai priklauso atitinkamas tiekėjas, ir (arba) elektros energijos biržos interneto svetainėje skelbia ir vartotojo prašymu pateikia:
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
-Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
- 
+7. Tiekėjai sąskaitose privalo skelbti ir vartotojams pateikti:
 
 
-1) suprantamą informaciją apie tai, kokią tiekėjo patiektos elektros energijos gamybai sunaudoto kuro išteklių, tarp jų ir atsinaujinančių energijos išteklių, dalį praėjusiais metais sudarė kiekvienas energijos šaltinis, jeigu tokia informacija yra prieinama;
+1) suprantamą informaciją apie tai, kokią tiekėjo patiektos elektros energijos gamybai sunaudoto kuro išteklių, tarp jų ir atsinaujinančių energijos išteklių, dalį praėjusiais metais sudarė kiekvienas energijos šaltinis;
 
 
 
@@ -3797,9 +3972,12 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-3) vartotojų organizacijų, asociacijų, agentūrų ar panašių įstaigų kontaktinę informaciją, įskaitant interneto svetainių adresus, kuriais galima rasti informacijos apie galimas energijos vartojimo efektyvumo didinimo priemones, lyginamuosius galutinių vartotojų apibūdinimus ir (ar) objektyvias energiją naudojančios įrangos technines specifikacijas.
+3) vartotojų organizacijų, asociacijų, agentūrų ar panašių įstaigų kontaktinę informaciją, įskaitant interneto svetainių adresus, kuriais galima rasti informacijos apie galimas energijos vartojimo efektyvumo didinimo priemones, lyginamuosius galutinių vartotojų apibūdinimus ir (ar) objektyvias energiją naudojančios įrangos technines specifikacijas. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 
@@ -4935,10 +5113,11 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-4. Nustatydama viršutines perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Taryba užtikrina, kad perdavimo sistemos ir skirstomųjų tinklų operatoriams būtų suteiktos tinkamos paskatos trumpalaikiu ir ilgalaikiu laikotarpiu didinti, sudarant sąlygas diegti išmaniuosius elektros tinklus ir užtikrinti sistemos saugumą, elektros energijos vartojimo efektyvumą, teikiant tinklo naudotojams sistemines paslaugas, plėtoti elektros energijos paklausos valdymo ir reagavimo į paklausą paslaugas, taip pat skatinti elektros energijos rinkos integraciją ir tiekimo saugumą bei remti susijusius mokslinius tyrimus. Siekiant elektros energijos vartojimo efektyvumo didinimo, nustatydama viršutines perdavimo ir skirstymo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Taryba įvertina perdavimo sistemos ir skirstomųjų tinklų operatorių veiklos sąnaudų sumažėjimą dėl paklausos, reagavimo į paklausą priemonių diegimo, gamybos pajėgumų plėtros, įskaitant sutaupymą dėl elektros energijos perdavimo ar skirstymo paslaugų teikimo ar investicijų į tinklus sąnaudų sumažėjimo bei optimalaus tinklo eksploatavimo. 
+4. Nustatydama viršutines perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Taryba užtikrina, kad perdavimo sistemos ir skirstomųjų tinklų operatoriams būtų suteiktos tinkamos paskatos diegti energetikos inovacijas, trumpalaikiu ir ilgalaikiu laikotarpiu didinti, sudarant sąlygas diegti išmaniuosius elektros tinklus ir užtikrinti sistemos saugumą, elektros energijos vartojimo efektyvumą, teikiant tinklo naudotojams sistemines paslaugas, plėtoti elektros energijos paklausos valdymo ir reagavimo į paklausą paslaugas, taip pat skatinti elektros energijos rinkos integraciją ir tiekimo saugumą bei remti susijusius mokslinius tyrimus. Siekiant elektros energijos vartojimo efektyvumo didinimo, nustatydama viršutines perdavimo ir skirstymo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Taryba įvertina perdavimo sistemos ir skirstomųjų tinklų operatorių veiklos sąnaudų sumažėjimą dėl paklausos, reagavimo į paklausą priemonių diegimo, gamybos pajėgumų plėtros, įskaitant sutaupymą dėl elektros energijos perdavimo ar skirstymo paslaugų teikimo ar investicijų į tinklus sąnaudų sumažėjimo ir optimalaus tinklo eksploatavimo. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
  
 
 
@@ -5382,7 +5561,7 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-4) elektros energijos kiekį, kuris elektros energiją gaminančio vartotojo buvo patiektas į elektros tinklus ir po to suvartotas savo reikmėms ir ūkio poreikiams.
+4) elektros energijos kiekį, kuris elektros energiją gaminančio vartotojo buvo patiektas į elektros tinklus ir po to suvartotas savo reikmėms ir ūkio poreikiams;
 
 
 
@@ -6295,3 +6474,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 75 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2706, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21553
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 15 ir 16 straipsnių pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 16, 17, 20, 21-1, 22, 31, 39, 41, 48, 49, 51, 69, 71, 74 straipsnių pakeitimo ir Įstatymo papildymo 46-1 ir 71-1 straipsniais įstatymas
