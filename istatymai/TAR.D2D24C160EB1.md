@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-05-31
+Suvestinė redakcija nuo 2020-06-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 32-787, i. k. 0961010ISTA00I-1232
  
@@ -260,6 +260,59 @@ FONDO STEIGIMAS IR REGISTRAVIMAS
  
 
 
+
+
+
+
+61 straipsnis. Juridinių asmenų dalyvių informacinės sistemos duomenys
+
+
+1. Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiami šie duomenys apie fondo, kuris yra nevyriausybinė organizacija, dalininkus: 
+
+
+1) kiekvieno dalininko duomenys (fizinio asmens vardas, pavardė, asmens kodas, gyvenamosios vietos adresas arba adresas korespondencijai; juridinio asmens pavadinimas, teisinė forma, kodas, buveinės adresas). Teikiant duomenis apie dalininką – užsienio valstybės fizinį asmenį, papildomai nurodoma to asmens gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir valstybės, kuri išdavė asmens dokumentus, pavadinimas, o teikiant duomenis apie dalininką – užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje tas juridinis asmuo įregistruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data;
+
+
+
+
+2) dalininko teisių įgijimo data;
+
+
+
+
+3) dalininko teisių perleidimo data;
+
+
+
+
+4) dalininko įnašo vertė. 
+
+
+
+
+
+
+2. Jeigu dalininkas – fizinis asmuo fondui yra nurodęs savo gyvenamosios vietos adresą  ir adresą korespondencijai, Juridinių asmenų dalyvių informacinės sistemos tvarkytojui teikiamas tik adresas korespondencijai. 
+
+
+
+
+3. Duomenys apie fondo dalininkus Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami šios informacinės sistemos nuostatuose nustatyta tvarka. 
+
+
+
+
+4. Įregistravus fondą Juridinių asmenų registre, duomenys apie fondo dalininkus Juridinių asmenų dalyvių informacinės sistemos tvarkytojui pateikiami ne vėliau kaip per 5 darbo dienas nuo fondo įregistravimo Juridinių asmenų registre dienos, o pasikeitus šiems duomenims, – ne vėliau kaip per 5 darbo dienas nuo duomenų pasikeitimo dienos. 
+
+
+
+
+5. Už duomenų apie fondo dalininkus pateikimą Juridinių asmenų dalyvių informacinės sistemos tvarkytojui atsakingas fondo valdymo organas.
+
+
+Papildyta straipsniu:
+Nr. XIII-2628, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20656
+ 
 
 
 
@@ -1543,3 +1596,8 @@ Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 12 ir 18 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1178, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09069
 Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 1, 8, 9, 11, 12, 15, 18 ir 25 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2628, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20656
+Lietuvos Respublikos labdaros ir paramos fondų įstatymo Nr. I-1232 papildymo 6-1 straipsniu įstatymas
