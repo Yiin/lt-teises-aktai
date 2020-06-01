@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-05-31 iki 2020-05-31
+Suvestinė redakcija nuo 2020-06-01 iki 2020-06-17
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -224,6 +224,14 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 181. Energijos kaupimo įrenginys elektros sistemoje – įrenginys, kuriame gali būti kaupiama ir į elektros tinklus atiduodama elektros energija arba įrenginys, kuriame elektros energija gali būti konvertuojama į kitos rūšies energiją ir vėl kaip elektros energija grąžinama į elektros tinklus (įskaitant elektros baterijas, hidroakumuliacines elektrines, kondensatorius, suspausto oro ar vandenilio saugyklas). 
 Papildyta straipsnio dalimi:
 Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+ 
+
+
+
+
+182. Garantinis elektros energijos tiekėjas – elektros energijos skirstomųjų tinklų operatorius, atliekantis garantinį elektros energijos tiekimą vartotojams, kurių įrenginiai prijungti prie jo paties valdomų elektros tinklų, ir daugiau kaip 100 000 vartotojų aptarnaujantis elektros energijos skirstomųjų tinklų operatorius, atliekantis garantinį elektros energijos tiekimą vartotojams, kurių įrenginiai yra prijungti prie perdavimo sistemos operatoriaus valdomų elektros tinklų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
  
 
 
@@ -932,11 +940,18 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 6) suderinusi su Tarnyba, tvirtina Buitinių vartotojų su tinklų operatoriais sudaromų elektros energijos persiuntimo paslaugos teikimo sutarčių standartinių sąlygų aprašą;
+TAR pastaba. 6 punktas netenka galios 2021-01-01.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
+ 
 
 
 
 
-7) suderinusi su Tarnyba, nustato buitinių vartotojų su tiekėjais sudaromų elektros energijos pirkimo–pardavimo sutarčių standartines sąlygas;
+7) suderinusi su Tarnyba, tvirtina Buitinių vartotojų su tiekėjais sudaromų elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarčių standartinių sąlygų aprašą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
+ 
 
 
 
@@ -1035,7 +1050,10 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-4) tvirtina elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų viršutinių ribų skaičiavimo metodikas, nustato valstybės reguliuojamų paslaugų ir elektros energijos kainų viršutines ribas;
+4) tvirtina elektros energijos perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainų viršutinių ribų ir garantinio tiekimo pažeidžiamiems vartotojams paslaugos kainos skaičiavimo metodikas, nustato valstybės reguliuojamų paslaugų ir elektros energijos kainų viršutines ribas ir garantinio tiekimo pažeidžiamiems vartotojams paslaugos kainą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
+ 
 
 
 
@@ -1123,9 +1141,19 @@ Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
 
 
 
-21) atlieka kitas Lietuvos Respublikos įstatymų, tiesiogiai taikomu Europos Sąjungos teisės aktu ir ratifikuota Lietuvos Respublikos tarptautine sutartimi pavestas funkcijas. 
+21) derina perdavimo sistemos operatoriaus parengtas elektros energijos perdavimo paslaugos teikimo sutarčių standartines sąlygas ir skirstomųjų tinklų operatoriaus parengtas elektros energijos persiuntimo paslaugos teikimo sutarčių standartines sąlygas; 
+Papildyta straipsnio punktu:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
+ 
+
+
+
+
+22) atlieka kitas Lietuvos Respublikos įstatymų, tiesiogiai taikomu Europos Sąjungos teisės aktu ir ratifikuota Lietuvos Respublikos tarptautine sutartimi pavestas funkcijas. 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
  
 
 
@@ -3169,9 +3197,10 @@ Asmuo gali verstis skirstymo veikla tik gavęs elektros energijos skirstymo veik
 Skirstomųjų tinklų operatorius turi teisę:
 
 
-1) iš gamintojų, vartotojų, gaminančių vartotojų, kurių įrenginiai prijungti prie skirstomųjų tinklų, visuomeninio tiekėjo ir perdavimo sistemos operatoriaus gauti elektros energijos apskaitos rodmenis ar kitą informaciją, reikalingą jų pareigoms ir funkcijoms, nustatytoms šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose, atlikti; 
+1) iš gamintojų, vartotojų, gaminančių vartotojų, kurių įrenginiai prijungti prie skirstomųjų tinklų, tiekėjo ir perdavimo sistemos operatoriaus gauti elektros energijos apskaitos rodmenis ar kitą informaciją, reikalingą jų pareigoms ir funkcijoms, nustatytoms šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose, atlikti; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
  
 
 
@@ -3259,9 +3288,17 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-12) užtikrinti garantinį tiekimą šio įstatymo 44 straipsnyje nustatyta tvarka ir sąlygomis. 
+12) užtikrinti garantinį tiekimą šio įstatymo 44 straipsnyje nustatyta tvarka ir sąlygomis; 
 Papildyta straipsnio punktu:
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
+
+
+
+
+13) parengti ir pateikti Tarybai derinti elektros energijos persiuntimo paslaugos teikimo sutarčių standartines sąlygas. Suderintas elektros energijos persiuntimo paslaugos teikimo sutarčių standartines sąlygas skelbti savo interneto svetainėje. 
+Papildyta straipsnio punktu:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
  
 
 
@@ -3376,23 +3413,21 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-40 straipsnis. Atsiskaitymo už elektros energijos persiuntimą skirstomaisiais tinklais garantijos
+40 straipsnis. Atsiskaitymo už elektros energijos persiuntimą skirstomaisiais tinklais garantijos
 
 
-1. Vartotojai, kurių įrenginiai yra prijungti prie skirstomųjų tinklų ir kurie yra sudarę su nepriklausomu tiekėju elektros energijos tiekimo sutartį, privalo sudaryti sutartį su skirstomųjų tinklų operatoriumi ir laiku atsiskaityti už elektros energijos persiuntimą perdavimo ir skirstomaisiais tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, išskyrus už elektros energijos kiekį, persiųstą energijos kaupimo įrenginiams, kurių įrengtoji elektrinė galia yra ne mažesnė negu 1 MW, įkrauti energija, kada energijos kaupimo įrenginiams įkrauti patiektas elektros energijos kiekis, išskyrus technologinius nuostolius, vėliau yra grąžinamas į operatorių elektros tinklus. Nepriklausomas tiekėjas, kuris yra sudaręs sutartį su skirstomųjų tinklų operatoriumi dėl atsiskaitymo už vartotojui suteiktas persiuntimo paslaugas bei už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, ir vartotojas, pažeidęs su skirstomųjų tinklų operatoriumi sudarytą sutartį, privalo skirstomųjų tinklų operatoriaus reikalavimu pateikti visų savo prievolių tinkamo įvykdymo užtikrinimą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
- 
+1. Vartotojai, išskyrus buitinius vartotojus, kurių įrenginiai yra prijungti prie skirstomųjų tinklų ir kurie yra sudarę su nepriklausomu tiekėju elektros energijos pirkimo–pardavimo sutartį, privalo sudaryti elektros energijos persiuntimo paslaugos teikimo sutartį su skirstomųjų tinklų operatoriumi ir laiku atsiskaityti už elektros energijos persiuntimą perdavimo ir skirstomaisiais tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, išskyrus už elektros energijos kiekį, persiųstą energijos kaupimo įrenginiams, kurių įrengtoji elektrinė galia yra ne mažesnė negu 1 MW, įkrauti energija, kada energijos kaupimo įrenginiams įkrauti patiektas elektros energijos kiekis, išskyrus technologinius nuostolius, vėliau yra grąžinamas į operatorių elektros tinklus. 
 
 
 
 
-2. Visuomeninis tiekėjas privalo sudaryti sutartį su skirstomųjų tinklų operatoriumi ir laiku atsiskaityti už elektros energijos persiuntimą perdavimo ir skirstomaisiais tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, kuriomis pasinaudojo buitiniai vartotojai, kurių įrenginiai prijungti prie skirstomųjų tinklų ir kurie su visuomeniniu tiekėju yra sudarę elektros energijos pirkimo–pardavimo sutartį. 
+2. Tiekėjas privalo sudaryti elektros energijos persiuntimo paslaugos teikimo sutartį su skirstomųjų tinklų operatoriumi ir laiku atsiskaityti už elektros energijos persiuntimą perdavimo ir skirstomaisiais tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, kuriomis pasinaudojo vartotojai, kurių įrenginiai prijungti prie skirstomųjų tinklų ir kurie su tiekėju yra sudarę elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį. Tiekėjo ir skirstomųjų tinklų operatoriaus sudaromoje elektros energijos persiuntimo paslaugos teikimo sutartyje taip pat nustatoma keitimosi informacija tarp šalių tvarka. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
  
 
 
@@ -3408,10 +3443,11 @@ ELEKTROS ENERGIJOS TIEKIMAS
 41 straipsnis. Tiekimo veiklos principai
 
 
-1. Vartotojai perka elektros energiją iš tiekėjų, gamintojų, elektros energiją gaminančių iš atsinaujinančių išteklių, ir asmenų, nurodytų šio įstatymo 44 straipsnyje, šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka ir sąlygomis. Vartotojams, išskyrus vartotojus, sudariusius atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutartį, elektros energija tiekiama visuomenine elektros energijos kaina šio įstatymo 43 straipsnyje nustatyta tvarka ir sąlygomis. Vartotojams, sudariusiems atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutartį, elektros energija tiekiama šioje sutartyje nustatyta elektros energijos kaina. Vartotojams užtikrinamas garantinis elektros energijos tiekimas šio įstatymo 44 straipsnyje nustatytais atvejais ir tvarka. 
+1. Vartotojai perka elektros energiją iš tiekėjų, gamintojų, elektros energiją gaminančių iš atsinaujinančių išteklių, ir asmenų, nurodytų šio įstatymo 44 straipsnyje, šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka ir sąlygomis. Vartotojams, išskyrus vartotojus, sudariusius atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutartį, elektros energija tiekiama su nepriklausomu tiekėju sutarta kaina arba visuomenine elektros energijos kaina šio įstatymo 43 straipsnyje nustatyta tvarka ir sąlygomis arba užtikrinamas garantinis elektros energijos tiekimas šio įstatymo 44 straipsnyje nustatytais atvejais ir tvarka. Vartotojams, sudariusiems atsinaujinančių išteklių elektros energijos pirkimo–pardavimo sutartį, elektros energija tiekiama šioje sutartyje nustatyta elektros energijos kaina. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
  
 
 
@@ -3447,7 +3483,7 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 42 straipsnis. Visuomeninis tiekėjas
 
 
-1. Skirstomųjų tinklų operatorius, kai jo turimoje elektros energijos skirstymo veiklos licencijoje nurodytoje teritorijoje kitam asmeniui neišduota visuomeninio tiekimo veiklos licencija, privalo vykdyti ir elektros energijos visuomeninio tiekimo veiklą, užtikrindamas saugų ir patikimą galutinių vartotojų aprūpinimą elektros energija šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka ir sąlygomis, siekiant apsaugoti tokių vartotojų teises ir teisėtus interesus, susijusius su elektros energijos vartojimu kasdieniams poreikiams patenkinti.
+1. Iki 2023 m. sausio 1 d. skirstomųjų tinklų operatorius, kai jo turimoje elektros energijos skirstymo veiklos licencijoje nurodytoje teritorijoje kitam asmeniui neišduota visuomeninio tiekimo veiklos licencija, privalo vykdyti ir elektros energijos visuomeninio tiekimo veiklą, užtikrindamas saugų ir patikimą galutinių vartotojų aprūpinimą elektros energija šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka ir sąlygomis, siekiant apsaugoti tokių vartotojų teises ir teisėtus interesus, susijusius su elektros energijos vartojimu kasdieniams poreikiams patenkinti.
 
 
 
@@ -3458,9 +3494,16 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 3. Skirstomųjų tinklų operatorius, vykdantis visuomeninio tiekimo veiklą, užtikrina elektros energijos skirstymo veiklos atskyrimą šio įstatymo 54 straipsnyje nustatyta tvarka ir sąlygomis.
+
+
+
+
+4. Tuo atveju, jeigu visuomeninis tiekėjas, kuris kartu yra ir skirstomųjų tinklų operatorius, aptarnaujantis mažiau kaip 100 000 vartotojų toje pačioje teritorijoje, pateikia prašymą panaikinti visuomeninio elektros energijos tiekimo veiklos licencijos galiojimą, visuomeninio elektros energijos tiekimo teritoriją privalo perimti ir iki 2023 m. sausio 1 d. aprūpinimą elektros energija privalo užtikrinti visuomeninis tiekėjas, aptarnaujantis daugiau kaip 100 000 vartotojų, jeigu visuomeninio elektros energijos tiekimo veiklos licencijos pakeitimo metu jo technologinis, finansinis ir vadybinis pajėgumas yra pakankamas vykdyti licencijuojamą veiklą šioje naujoje teritorijoje. Jeigu visuomeninio tiekėjo, aptarnaujančio daugiau kaip 100 000 vartotojų, technologinis, finansinis ir vadybinis pajėgumas nėra pakankamas vykdyti visuomeninio tiekimo licencijuojamą veiklą naujoje teritorijoje, dėl kurios visuomeninis tiekėjas, kuris kartu yra ir skirstomųjų tinklų operatorius, aptarnaujantis mažiau kaip 100 000 vartotojų toje pačioje teritorijoje, yra pateikęs prašymą panaikinti visuomeninio elektros energijos tiekimo veiklos licenciją, tokio visuomeninio elektros energijos tiekėjo prašymas dėl visuomeninio elektros energijos tiekimo veiklos licencijos panaikinimo nėra tenkinamas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
  
-
-
 
 
 
@@ -3468,45 +3511,62 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 43 straipsnis. Visuomeninis elektros energijos tiekimas
 
 
-1. Iki 2012 m. gruodžio 31 d. visuomeninis tiekėjas privalo sudaryti sutartis ir tiekti elektros energiją visuomenine elektros energijos kaina visiems jam išduotoje licencijoje nustatytoje teritorijoje esantiems buitiniams vartotojams, taip pat to pareikalavusių vartotojų objektams, atitinkantiems bet kurį iš šių kriterijų:
+1. Visuomeninis tiekėjas privalo sudaryti sutartis ir šioje dalyje nurodytais terminais tiekti elektros energiją visuomenine elektros energijos kaina visiems jam išduotoje licencijoje nustatytoje teritorijoje esantiems buitiniams vartotojams, taip pat pažeidžiamiems vartotojams, kurie nepasirinko nepriklausomo tiekėjo. Visuomeninis tiekėjas nutraukia elektros energijos tiekimą šiems vartotojams toliau nurodytais terminais: 
 
 
-1) vartotojo objekto leistinoji naudoti galia 2011 m. liepos 31 d. yra mažesnė kaip 30 kW;
-
-
-
-
-2) vartotojo objekto, naujai prijungto prie perdavimo arba skirstomojo tinklo po 2011 m. liepos 31 d., leistinoji naudoti galia yra mažesnė kaip 30 kW.
+1) 2021 m. sausio 1 d. – visiems buitiniams vartotojams, kurių faktinis elektros energijos suvartojimas objekte laikotarpiu nuo 2019 m. birželio 1 d. iki 2020 m. gegužės 31 d. yra ne mažesnis kaip 5 000 kWh, taip pat buitiniams vartotojams, kurių objektai prijungti prie vidutinės įtampos elektros tinklų, išskyrus vartotojus, nurodytus šio įstatymo 69 straipsnio 14 ir 15 dalyse, ir pažeidžiamus vartotojus, kurie laikotarpiu nuo 2019 m. birželio 1 d. iki 2020 m. gruodžio 31 d. bent kartą buvo įgiję pažeidžiamo vartotojo statusą; 
 
 
 
 
+2) 2022 m. sausio 1 d. – visiems buitiniams vartotojams, kurių faktinis elektros energijos suvartojimas objekte laikotarpiu nuo 2020 m. birželio 1 d. iki 2021 m. gegužės 31 d. yra ne mažesnis kaip 1 000 kWh, išskyrus vartotojus, nurodytus šio įstatymo 69 straipsnio 14 ir 15 dalyse, ir pažeidžiamus vartotojus, kurie laikotarpiu nuo 2020 m. birželio 1 d. iki 2021 m. gruodžio 31 d. bent kartą buvo įgiję pažeidžiamo vartotojo statusą; 
 
 
-2. Visuomeninis tiekėjas privalo sudaryti sutartis ir tiekti elektros energiją visuomenine elektros energijos kaina visiems jam išduotoje licencijoje nustatytoje teritorijoje esantiems buitiniams vartotojams, kurie nepasirinko nepriklausomo tiekėjo, taip pat pažeidžiamiems vartotojams.
-Straipsnio dalies pakeitimai:
-Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+
+
+3) 2023 m. sausio 1 d. – visiems likusiems vartotojams, kuriems elektros energija tiekiama visuomenine elektros energijos kaina, įskaitant vartotojus, nurodytus šio įstatymo 69 straipsnio 14 ir 15 dalyse, ir pažeidžiamus vartotojus. 
+
+
+
+
+
+
+2. Visuomeninis tiekėjas likus ne mažiau kaip 5 kalendoriniams mėnesiams iki elektros energijos tiekimo visuomenine elektros energijos kaina nutraukimo datos, nurodytos šio straipsnio 1 dalies 1, 2 ir 3 punktuose: 
+
+
+1) raštu ir (ar) elektroninių ryšių priemonėmis informuoja šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytus vartotojus apie sutarties su visuomeniniu tiekėju nutraukimą, jų pareigą pasirinkti nepriklausomą tiekėją, numatomą elektros energijos tiekimo visuomenine elektros energijos kaina nutraukimą vartotojams per nustatytą terminą nepasirinkus nepriklausomo tiekėjo, įskaitant informaciją apie garantinį elektros energijos tiekėją, garantinio tiekimo pradžią ir garantinio tiekimo sąlygas, numatytas šio straipsnio 5 dalyje ir šio įstatymo 44 straipsnyje, naujų sutarčių sudarymą ir ankstesnių sutarčių pasibaigimą, įskaitant garantinio tiekimo užtikrinimo atveju, taip pat apie tai, kad skirstomųjų tinklų operatorius perduos jų asmens duomenis nepriklausomiems tiekėjams elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarties su vartotoju sudarymo tikslu, nurodant, kokiais terminais ir kokie asmens duomenys bus perduoti to pageidaujantiems nepriklausomiems tiekėjams, ir apie tai, kad šie vartotojai turi teisę pranešti skirstomųjų tinklų operatoriui apie savo nesutikimą dėl jų asmens duomenų perdavimo nepriklausomiems tiekėjams; 
+
+
+
+
+2) elektroninių ryšių priemonėmis pateikdamas vartotojų objektų numerius informuoja skirstomųjų tinklų operatorių apie šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytus vartotojus, kuriems numatomas elektros energijos tiekimo visuomenine elektros energijos kaina nutraukimas (išskyrus atvejus, kai skirstomųjų tinklų operatorius toje pačioje licencijuojamos veiklos teritorijoje kartu vykdo ir elektros energijos visuomeninio tiekimo veiklą).
+
+
+
+
+
+
+3. Skirstomųjų tinklų operatorius, iš visuomeninio tiekėjo gavęs informaciją apie numatomą elektros energijos tiekimo visuomenine elektros energijos kaina nutraukimą konkretiems šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytiems vartotojams, duomenų teikimo sutartyje nustatyta tvarka perduoda visiems to pageidaujantiems nepriklausomiems tiekėjams šių vartotojų duomenis: objekto numerį, objekto adresą, kontaktinę informaciją: telefono ryšio numerį ir elektroninio pašto adresą, jeigu tokius duomenis skirstomųjų tinklų operatorius turi, per kalendorinį mėnesį objekte suvartotos elektros energijos kiekį per 12 kalendorinių mėnesių laikotarpį, nurodytą šio straipsnio 1 dalyje. Skirstomųjų tinklų operatorius neteikia duomenų nepriklausomam tiekėjui, jeigu vartotojas nesutinka su jo duomenų perdavimu ir praneša apie tai skirstomųjų tinklų operatoriui ne vėliau kaip likus 4 kalendoriniams mėnesiams iki elektros energijos tiekimo visuomenine elektros energijos kaina nutraukimo datos, nurodytos šio straipsnio 1 dalies 1, 2 ir 3 punktuose. Nurodytus duomenis skirstomųjų tinklų operatorius perduoda nepriklausomiems tiekėjams ne anksčiau kaip likus 4 kalendoriniams mėnesiams iki elektros energijos tiekimo visuomenine elektros energijos kaina nutraukimo datos, nurodytos šio straipsnio 1 dalies 1, 2 ir 3 punktuose. Po to, kai duomenys jau perduoti nepriklausomam tiekėjui, apie savo nesutikimą tvarkyti šioje dalyje nurodytus duomenis vartotojas informuoja konkretų nepriklausomą tiekėją. Nepriklausomi tiekėjai šioje dalyje numatyta tvarka gautus duomenis turi teisę tvarkyti (įskaitant teisę juos saugoti) tiek, kiek to reikia sutarčiai su vartotoju sudaryti, tačiau ne ilgiau kaip 6 mėnesius, einančius po šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytos visuomeninio tiekimo nutraukimo dienos.
+
+
+
+
+4. Buitiniams vartotojams, nepasirinkusiems nepriklausomo elektros energijos tiekėjo ar kai jų pasirinktas nepriklausomas tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su buitiniais vartotojais sąlygomis, nutraukia veiklą arba elektros energijos pirkimo–pardavimo sutartį, elektros energijos tiekimą šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka ir sąlygomis užtikrina garantinis elektros energijos tiekėjas, išskyrus šio straipsnio 1 dalyje nurodytus atvejus, kai atitinkamam vartotojui elektros energija tiekiama visuomenine elektros energijos kaina. Buitiniams vartotojams garantinis elektros energijos tiekimas užtikrinamas pagal garantinio elektros energijos tiekėjo viešai skelbiamas garantinio elektros energijos tiekimo užtikrinimo ir persiuntimo paslaugos teikimo sąlygas, kurios rengiamos Elektros energijos tiekimo ir naudojimo taisyklėse nustatyta tvarka. 
+
+
+
+
+5. Tinklų operatorius ne vėliau kaip prijungimo prie elektros tinklų dieną informuoja buitinį vartotoją, nepasirinkusį nepriklausomo tiekėjo, apie visuomeninį tiekėją, užtikrinsiantį elektros energijos tiekimą, ir nurodo jo kontaktinius duomenis, o visuomeninį tiekėją – apie elektros energijos tiekimo užtikrinimo buitiniam vartotojui pradžią ir pagrindą ir nurodo buitinio vartotojo duomenis, reikalingus elektros energijos tiekimui užtikrinti. Kai elektros energijos tiekimas buitiniam vartotojui turi būti užtikrinamas dėl to, kad jo pasirinktas nepriklausomas tiekėjas nevykdo prisiimtų įsipareigojimų, nutraukia veiklą arba elektros energijos pirkimo–pardavimo sutartį, visuomeninis tiekėjas (jeigu jis privalo užtikrinti elektros energijos tiekimą šio straipsnio 1 dalyje numatyta tvarka) ar garantinis elektros energijos tiekėjas šio įstatymo 44 straipsnyje numatyta tvarka elektros energijos tiekimą pradeda vykdyti šio įstatymo 44 straipsnio 2 dalies 1 punkte ar 3 dalyje nustatytais terminais. Jeigu buitinis vartotojas nesudaro elektros energijos pirkimo–pardavimo sutarties su visuomeniniu tiekėju, buitinio vartotojo ir visuomeninio tiekėjo tarpusavio santykiams taikomos energetikos ministro patvirtintame Buitinių vartotojų su tiekėjais sudaromų elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarčių standartinių sąlygų apraše nustatytos standartinės sutarties sąlygos. 
+
+
+
+
+6. Visuomeninis tiekėjas neprivalo vykdyti šiame straipsnyje nurodytų reikalavimų, jeigu tai padaryti trukdo nuo visuomeninio tiekėjo nepriklausančios aplinkybės, tarp jų valstybės veiksmai, trečiųjų asmenų veiksmai ar nenugalimos jėgos aplinkybės, taip pat kitos aplinkybės, kurių visuomeninis tiekėjas negalėjo kontroliuoti ar kitaip valdyti. Esant tokioms aplinkybėms, visuomeninis tiekėjas, vartotojai ir (ar) tinklų operatoriai visapusiškai bendradarbiauja, siekdami pašalinti visuomeniniam elektros energijos tiekimui užtikrinti trukdančias aplinkybes. Vartotojams teikiamų visuomeninio elektros energijos tiekimo paslaugų patikimumo ir jų sąlygų priežiūrą bei kontrolę vykdo Taryba. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
  
-
-
-
-
-3. Buitiniams vartotojams, nepasirinkusiems nepriklausomo elektros energijos tiekėjo ar kai jų pasirinktas nepriklausomas tiekėjas nevykdo prisiimtų įsipareigojimų tiekti elektros energiją sutartomis su buitiniais vartotojais sąlygomis, nutraukia veiklą arba elektros energijos pirkimo–pardavimo sutartį, elektros energijos tiekimą šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka ir sąlygomis užtikrina visuomeninis tiekėjas visuomenine elektros energijos kaina. Tinklų operatorius ne vėliau kaip prijungimo prie elektros tinklų dieną informuoja buitinį vartotoją, nepasirinkusį nepriklausomo tiekėjo, apie visuomeninį tiekėją, užtikrinsiantį elektros energijos tiekimą, ir nurodo jo kontaktinius duomenis, o visuomeninį tiekėją – apie elektros energijos tiekimo užtikrinimo buitiniam vartotojui pradžią ir pagrindą ir nurodo buitinio vartotojo duomenis, reikalingus elektros energijos tiekimui užtikrinti. Kai elektros energijos tiekimas buitiniam vartotojui turi būti užtikrinamas dėl to, kad jo pasirinktas nepriklausomas tiekėjas nevykdo prisiimtų įsipareigojimų, nutraukia veiklą arba elektros energijos pirkimo–pardavimo sutartį, visuomeninis tiekėjas elektros energijos tiekimą pradeda vykdyti šio įstatymo 44 straipsnio 2 dalies 1 punkte ar 3 dalyje nustatytais terminais. Jeigu buitinis vartotojas nesudaro elektros energijos pirkimo–pardavimo sutarties su visuomeniniu tiekėju, buitinio vartotojo ir visuomeninio tiekėjo tarpusavio santykiams taikomos energetikos ministro patvirtintame Standartinių elektros energijos pirkimo–pardavimo sutarčių su buitiniais vartotojais sąlygų apraše nustatytos standartinės sutarties sąlygos. 
-Papildyta straipsnio dalimi:
-Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
- 
-
-
-
-
-4. Visuomeninis tiekėjas neprivalo vykdyti šio straipsnio reikalavimų, jeigu tai padaryti trukdo nuo visuomeninio tiekėjo nepriklausančios aplinkybės, tarp jų valstybės veiksmai, trečiųjų asmenų veiksmai ar nenugalimos jėgos aplinkybės, taip pat kitos aplinkybės, kurių visuomeninis tiekėjas negalėjo kontroliuoti ar kitaip valdyti. Esant tokioms aplinkybėms, visuomeninis tiekėjas, vartotojai ir (ar) tinklų operatoriai visapusiškai bendradarbiauja, siekdami pašalinti visuomeniniam elektros energijos tiekimui užtikrinti trukdančias aplinkybes. Vartotojams teikiamų visuomeninio elektros energijos tiekimo paslaugų patikimumo ir jų sąlygų priežiūrą bei kontrolę vykdo Taryba. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
- 
-
-
 
 
 
@@ -3519,41 +3579,35 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 
 
 
-2. Skirstomųjų tinklų operatorius vartotojams, kurių įrenginiai prijungti prie skirstomųjų tinklų operatoriaus valdomų elektros tinklų, ir skirstomųjų tinklų operatorius, aptarnaujantis daugiau kaip 100 000 vartotojų, vartotojams, kurių įrenginiai yra prijungti prie perdavimo sistemos operatoriaus valdomų elektros tinklų, garantinio tiekimo funkciją (toliau – asmuo, atliekantis garantinio tiekimo funkciją) atlieka laikydamasis šių sąlygų:
+2. Garantinis elektros energijos tiekėjas garantinį tiekimą atlieka laikydamasis šių sąlygų:
 
 
-1) garantinis tiekimas vartotojui užtikrinamas, kai vartotojas, gavęs nepriklausomo tiekėjo rašytinį įspėjimą ne vėliau kaip prieš 2 savaites iki nutraukiamos veiklos arba elektros energijos pirkimo–pardavimo sutarties nutraukimo, per 2 savaites nuo nepriklausomo tiekėjo pranešimo apie nutraukiamą veiklą ar nutraukiamą elektros energijos pirkimo–pardavimo sutartį gavimo dienos nepasirenka kito nepriklausomo tiekėjo ar paaiškėja šio straipsnio 3 dalyje nurodytos aplinkybės – tokiais atvejais vartotojų su nepriklausomu tiekėju sudaryta elektros energijos pirkimo–pardavimo sutartis laikoma nutraukta. Tuo atveju, kai vartotojas yra sudaręs elektros energijos persiuntimo paslaugos sutartį su skirstomųjų tinklų operatoriumi, atskira sutartis dėl garantinio tiekimo su šiuo operatoriumi nesudaroma. Vartotojas, kuriam užtikrinamas garantinis tiekimas, sudaręs elektros energijos pirkimo–pardavimo sutartį su nepriklausomu tiekėju, privalo nedelsdamas, ne vėliau kaip per 3 darbo dienas nuo elektros energijos pirkimo–pardavimo sutarties sudarymo, raštu pranešti apie tai asmeniui, atliekančiam garantinio tiekimo funkciją, o šis ne vėliau kaip per 3 savaites nuo tokio pranešimo gavimo dienos nutraukia garantinį tiekimą. Garantinio tiekimo trukmė – ne ilgiau kaip 6 mėnesiai. Jeigu per 6 mėnesius vartotojas nepasirenka naujo nepriklausomo tiekėjo, asmuo, atliekantis garantinio tiekimo funkciją, įgyja teisę nutraukti elektros energijos tiekimą vartotojui. Apie garantinio tiekimo nutraukimą asmuo, atliekantis garantinio tiekimo funkciją, įspėja vartotoją ne vėliau kaip prieš 3 savaites iki elektros energijos tiekimo nutraukimo dienos;
-
-
-
-
-2) jeigu vartotojas, kuriam buvo suteikta garantinio tiekimo paslauga, garantinio tiekimo laikotarpiu pasirenka nepriklausomą tiekėją, vartotojas privalo sumokėti asmeniui, atliekančiam garantinio tiekimo funkciją, už suvartotą elektros energiją pagal asmens, atliekančio garantinio tiekimo funkciją, pateiktą mokėjimo dokumentą;
+1) garantinis tiekimas vartotojui užtikrinamas, kai vartotojas, ne vėliau kaip prieš 3 savaites iki nepriklausomo tiekėjo nutraukiamos veiklos arba su vartotoju sudarytos elektros energijos pirkimo–pardavimo sutarties, arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarties nutraukimo gavęs nepriklausomo tiekėjo rašytinį ar elektroninių ryšių priemonėmis pateiktą įspėjimą, per 2 savaites nuo šio pranešimo gavimo dienos nepasirenka kito nepriklausomo tiekėjo ar paaiškėja šio straipsnio 3 dalyje nurodytos aplinkybės – tokiais atvejais vartotojo su nepriklausomu tiekėju sudaryta elektros energijos pirkimo–pardavimo arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartis laikoma nutraukta. Garantinis tiekimas vartotojams užtikrinamas persiuntimo paslaugos teikimo sutarties su skirstomųjų tinklų operatoriumi pagrindu. Vartotojams, kurie tokios sutarties nėra sudarę, garantinis elektros energijos tiekimas užtikrinamas pagal garantinio elektros energijos tiekėjo viešai skelbiamas garantinio elektros energijos tiekimo užtikrinimo ir persiuntimo paslaugos teikimo sąlygas, kurios rengiamos Elektros energijos tiekimo ir naudojimo taisyklėse nustatyta tvarka. Vartotojui, kuriam užtikrinamas garantinis tiekimas, nusprendusiam sudaryti elektros energijos pirkimo–pardavimo arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį su nepriklausomu tiekėju, garantinis tiekimas nutraukiamas ne vėliau kaip per 3 savaites nuo nepriklausomo tiekėjo pranešimo garantiniam elektros energijos tiekėjui pateikimo dienos. Garantinio tiekimo trukmė – ne ilgiau kaip 6 mėnesiai. Jeigu per 6 mėnesius vartotojas nepasirenka naujo nepriklausomo tiekėjo, garantinis elektros energijos tiekėjas įgyja teisę nutraukti elektros energijos tiekimą vartotojui. Apie garantinio tiekimo nutraukimą garantinis elektros energijos tiekėjas įspėja vartotoją ne vėliau kaip prieš 3 savaites iki elektros energijos tiekimo nutraukimo dienos;
 
 
 
 
-3) vartotojams, kuriems užtikrinamas garantinis tiekimas, taikoma garantinio tiekimo kaina, kuri apskaičiuojama vidutinei praėjusio ataskaitinio mėnesio elektros energijos biržos kainai, susiformavusiai Lietuvos kainų zonoje, pritaikius koeficientą 1,25. Skirtumas tarp faktinių ataskaitinio laikotarpio pajamų ir asmens, atliekančio garantinio tiekimo funkciją, patirtų garantinio elektros energijos tiekimo veiklos sąnaudų, įskaitant elektros energijos įsigijimo sąnaudas, priskiriamas asmens, atliekančio garantinio tiekimo funkciją, sąnaudoms ar pajamoms pagal šio įstatymo 9 straipsnio 3 dalies 4 punkte nurodytą metodiką. Garantinio tiekimo kainą apskaičiuoja ir nustato asmuo, atliekantis garantinio tiekimo funkciją. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
- 
+2) jeigu vartotojas, kuriam buvo suteiktas garantinis tiekimas, garantinio tiekimo laikotarpiu pasirenka nepriklausomą tiekėją, vartotojas privalo sumokėti garantiniam elektros energijos tiekėjui už suvartotą elektros energiją pagal garantinio elektros energijos tiekėjo pateiktą mokėjimo dokumentą;
+
+
+
+
+3) vartotojams, kuriems užtikrinamas garantinis tiekimas, taikoma garantinio tiekimo kaina, kuri apskaičiuojama vidutinei praėjusio ataskaitinio mėnesio elektros energijos biržos kainai, susiformavusiai Lietuvos kainų zonoje, pritaikius koeficientą 1,25. Skirtumas tarp faktinių ataskaitinio laikotarpio pajamų ir garantinio elektros energijos tiekėjo patirtų garantinio elektros energijos tiekimo veiklos sąnaudų, įskaitant elektros energijos įsigijimo sąnaudas, priskiriamas garantinio elektros energijos tiekėjo sąnaudoms ar pajamoms pagal šio įstatymo 9 straipsnio 3 dalies 4 punkte nurodytą metodiką. Garantinio tiekimo kainą apskaičiuoja ir nustato garantinis elektros energijos tiekėjas.
 
 
 
 
 
 
-3. Šio straipsnio 2 dalies 1 punkte nurodytas 2 savaičių nepriklausomo tiekėjo pranešimo terminas netaikomas ir garantinis tiekimas užtikrinamas nedelsiant, ne vėliau kaip per 3 darbo dienas nuo bet kurios iš šių aplinkybių atsiradimo:
+3. Šio straipsnio 2 dalies 1 punkte nurodytas 3 savaičių nepriklausomo tiekėjo pranešimo terminas netaikomas ir garantinis tiekimas užtikrinamas nedelsiant, ne vėliau kaip per 3 darbo dienas nuo bet kurios iš šių aplinkybių atsiradimo:
 
 
-1) vartotojo pasirinktam nepriklausomam tiekėjui pažeidus reguliuojamos veiklos sąlygas, Taryba sustabdo ar panaikina elektros energijos tiekimo veiklos leidimo galiojimą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
- 
+1) vartotojo pasirinktas nepriklausomas tiekėjas pažeidžia reguliuojamos veiklos sąlygas ir Taryba sustabdo ar panaikina elektros energijos tiekimo veiklos leidimo galiojimą;
 
 
 
 
-2) balansavimo energijos tiekėjui ar perdavimo sistemos operatoriui nutraukus balansavimo energijos pirkimo–pardavimo sutartį su nepriklausomu tiekėju ir nesant balansavimo energijos pirkimo–pardavimo sutarties su kitu balansavimo tiekėju;
+2) balansavimo energijos tiekėjas ar perdavimo sistemos operatorius nutraukia balansavimo energijos pirkimo–pardavimo sutartį su nepriklausomu tiekėju ir nėra sudaryta balansavimo energijos pirkimo–pardavimo sutartis su kitu balansavimo tiekėju;
 
 
 
@@ -3570,17 +3624,18 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-4. Nepriklausomas tiekėjas privalo nedelsdamas, bet ne vėliau kaip per vieną darbo dieną nuo šio straipsnio 3 dalyje nustatytų aplinkybių atsiradimo, savo vartotojams ir atitinkamam tinklų operatoriui pranešti apie garantinio tiekimo pradžią ir pagrindą, o vartotojams – ir apie asmenį, vykdysiantį garantinio tiekimo funkciją, ir jo kontaktinius duomenis. Vartotojai, kurių suvartotos elektros energijos apskaitos prietaisų rodmenys nėra nuskaitomi nuotoliniu būdu, nedelsdami, bet ne vėliau kaip per 3 darbo dienas nuo garantinio tiekimo pradžios, jeigu apie tai jie buvo tinkamai informuoti, privalo užfiksuoti faktinius elektros energijos apskaitos prietaiso rodmenis ir juos pranešti tinklų operatoriui. Nepriklausomiems tiekėjams ar vartotojams neįvykdžius ar tinkamai neįvykdžius šioje dalyje nustatytų pareigų, garantinio tiekimo metu tiekiamos elektros energijos kiekis nustatomas Elektros energijos tiekimo ir naudojimo taisyklėse nustatyta tvarka.
+4. Nepriklausomas tiekėjas privalo nedelsdamas, ne vėliau kaip per vieną darbo dieną nuo šio straipsnio 3 dalyje nustatytų aplinkybių atsiradimo, savo vartotojams ir atitinkamam tinklų operatoriui pranešti apie garantinio tiekimo pradžią ir pagrindą, o vartotojams – ir apie asmenį, vykdysiantį garantinio tiekimo funkciją, ir jo kontaktinius duomenis. Vartotojai, kurių suvartotos elektros energijos apskaitos prietaisų rodmenys nėra nuskaitomi nuotoliniu būdu, nedelsdami, ne vėliau kaip per 3 darbo dienas nuo garantinio tiekimo pradžios, jeigu apie tai jie buvo tinkamai informuoti, privalo užfiksuoti faktinius elektros energijos apskaitos prietaiso rodmenis ir juos pranešti tinklų operatoriui. Jeigu nepriklausomi tiekėjai ar vartotojai neįvykdo ar tinkamai neįvykdo šioje dalyje nustatytų pareigų, garantinio tiekimo metu tiekiamos elektros energijos kiekis nustatomas Elektros energijos tiekimo ir naudojimo taisyklėse nustatyta tvarka.
 
 
 
 
-5. Vartotojai, kuriems šiame straipsnyje nustatyta tvarka ir sąlygomis užtikrinamas garantinis tiekimas, atsiskaito su asmeniu, atliekančiu garantinio tiekimo funkciją, už garantinį tiekimą, taip pat su tinklų operatoriais, kaip nurodyta šio įstatymo 46 straipsnio 5 ir 6 dalyse, už elektros energijos persiuntimą perdavimo ir (ar) skirstomaisiais tinklais, sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas. 
+5. Vartotojai, kuriems šiame straipsnyje nustatyta tvarka ir sąlygomis užtikrinamas garantinis tiekimas, atsiskaito su asmeniu, atliekančiu garantinio tiekimo funkciją, už garantinį tiekimą, taip pat su tinklų operatoriais, kaip nurodyta šio įstatymo 40 straipsnio 1 dalyje ir 46 straipsnio 5 dalyje, už elektros energijos persiuntimą perdavimo ir (ar) skirstomaisiais tinklais, sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
  
 
 
@@ -3605,43 +3660,32 @@ Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 46 straipsnis. Nepriklausomas elektros energijos tiekimas
 
 
-1. Nepriklausomas tiekėjas jį pasirinkusiems vartotojams elektros energiją tiekia pagal sutartis. Vartotojo prašymu nepriklausomas tiekėjas ne vėliau kaip per 10 dienų nuo vartotojo prašymo pateikimo dienos privalo parengti ir pateikti elektros energijos pirkimo–pardavimo sutarties projektą.
+1. Jeigu yra rašytinis ar elektroninių ryšių priemonėmis pateiktas vartotojo sutikimas, nepriklausomas tiekėjas turi teisę iš skirstomųjų tinklų operatoriaus gauti vartotojo elektros energijos suvartojimo duomenis, kurie naudojami pasiūlymui dėl elektros energijos tiekimo parengti ir pateikti vartotojui. Vartotojo elektros energijos suvartojimo duomenų pateikimo nepriklausomam tiekėjui tvarka nustatoma Elektros energijos tiekimo ir naudojimo taisyklėse. Nepriklausomas tiekėjas jį pasirinkusiems vartotojams elektros energiją tiekia pagal sutartis. Vartotojo prašymu nepriklausomas tiekėjas ne vėliau kaip per 10 dienų nuo vartotojo prašymo pateikimo dienos privalo parengti ir pateikti elektros energijos pirkimo–pardavimo sutarties arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarties projektą.
 
 
 
 
-2. Elektros energijos pirkimo–pardavimo sutarties sąlygas tarpusavio sutarimu suderina nepriklausomas tiekėjas ir vartotojas. Su buitiniais vartotojais sudaromos sutartys privalo atitikti Energetikos ministerijos patvirtintas elektros energijos pirkimo–pardavimo sutarčių standartines sąlygas. Nepriklausomas tiekėjas neprivalo sudaryti su vartotoju sutarties ar tiekti elektros energiją vartotojui ar jo objektams, jeigu vartotojas nesutinka su tiekėjo nurodytomis nepriklausomo elektros energijos tiekimo sąlygomis. Nepriklausomo tiekėjo atsisakymas sudaryti sutartį gali būti skundžiamas šio įstatymo 78 straipsnyje nustatyta tvarka.
+2. Nepriklausomų tiekėjų ir vartotojų tarpusavio santykiai grindžiami šio įstatymo 61 straipsnio 1 dalyje nurodytomis sutartimis. Su buitiniais vartotojais sudaromos elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartys privalo atitikti energetikos ministro patvirtintame Buitinių vartotojų su tiekėjais sudaromų elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarčių standartinių sąlygų apraše nustatytas sąlygas. Nepriklausomas tiekėjas neprivalo sudaryti su vartotoju sutarties ar tiekti elektros energiją vartotojui ar jo objektams, jeigu vartotojas nesutinka su tiekėjo nurodytomis nepriklausomo elektros energijos tiekimo sąlygomis. Nepriklausomo tiekėjo atsisakymas sudaryti sutartį gali būti skundžiamas šio įstatymo 78 straipsnyje nustatyta tvarka.
 
 
 
 
-3. Nepriklausomas tiekėjas, prieš sudarydamas arba nutraukdamas elektros energijos pirkimo–pardavimo sutartį su vartotoju, privalo prieš 3 savaites apie tai raštu pranešti tinklų operatoriui, prie kurio valdomų tinklų yra prijungti vartotojo įrenginiai.
+3. Nepriklausomas tiekėjas, prieš sudarydamas arba nutraukdamas elektros energijos pirkimo–pardavimo arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį su vartotoju, privalo prieš 3 savaites apie tai raštu arba elektroninių ryšių priemonėmis pranešti tinklų operatoriui, prie kurio valdomų tinklų yra prijungti vartotojo įrenginiai. Šioje dalyje nustatytais terminais ir būdais nepriklausomas tiekėjas taip pat privalo informuoti vartotoją apie planuojamą sutarties su juo nutraukimą.
 
 
 
 
-4. Vartotojas, prieš sudarydamas arba nutraukdamas elektros energijos pirkimo–pardavimo sutartį su nepriklausomu tiekėju, privalo prieš 3 savaites apie tai raštu pranešti tinklų operatoriui, prie kurio valdomų tinklų yra prijungti vartotojo įrenginiai, taip pat visuomeniniam tiekėjui, kurio licencijoje nurodytoje teritorijoje yra buitinio vartotojo įrenginiai. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+4. Tinklų operatorius, gavęs nepriklausomo tiekėjo pranešimą apie elektros energijos pirkimo–pardavimo arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutarties su vartotoju sudarymą, ne vėliau kaip prieš 2 savaites iki naujos sutarties įsigaliojimo datos informuoja apie tai ankstesnį tiekėją, vartotoją ir naują tiekėją.
+
+
+
+
+5. Vartotojai, kurių įrenginiai prijungti prie perdavimo tinklų, pirkdami elektros energiją iš nepriklausomo tiekėjo, privalo perdavimo sistemos operatoriui apmokėti už elektros energijos persiuntimą perdavimo tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, išskyrus už elektros energijos kiekį, persiųstą energijos kaupimo įrenginiams įkrauti energija, kada energijos kaupimo įrenginiams įkrauti patiektas elektros energijos kiekis, išskyrus technologinius nuostolius, vėliau yra grąžinamas į operatorių elektros tinklus. Vartotojas, gavęs perdavimo sistemos operatoriaus ir nepriklausomo tiekėjo sutikimą bei būdamas atsakingas perdavimo sistemos operatoriui, šioje dalyje nurodytas vartotojo pinigines prievoles gali pavesti vykdyti nepriklausomam tiekėjui. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
  
-
-
-
-
-5. Vartotojai, kurių įrenginiai prijungti prie skirstomųjų tinklų, pirkdami elektros energiją iš nepriklausomo tiekėjo, privalo skirstomųjų tinklų operatoriui apmokėti už elektros energijos persiuntimą perdavimo ir skirstomaisiais tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, išskyrus už elektros energijos kiekį, persiųstą energijos kaupimo įrenginiams, kurių įrengtoji elektrinė galia yra ne mažesnė negu 1 MW, įkrauti energija, kada energijos kaupimo įrenginiams įkrauti patiektas elektros energijos kiekis, išskyrus technologinius nuostolius, vėliau yra grąžinamas į operatorių elektros tinklus. Vartotojas, gavęs skirstomųjų tinklų operatoriaus ir nepriklausomo tiekėjo sutikimą bei būdamas atsakingas skirstomųjų tinklų operatoriui, šioje dalyje nurodytas vartotojo pinigines prievoles gali pavesti vykdyti nepriklausomam tiekėjui. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
- 
-
-
-
-
-6. Vartotojai, kurių įrenginiai prijungti prie perdavimo tinklų, pirkdami elektros energiją iš nepriklausomo tiekėjo, privalo perdavimo sistemos operatoriui apmokėti už elektros energijos persiuntimą perdavimo tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, išskyrus už elektros energijos kiekį, persiųstą energijos kaupimo įrenginiams įkrauti energija, kada energijos kaupimo įrenginiams įkrauti patiektas elektros energijos kiekis, išskyrus technologinius nuostolius, vėliau yra grąžinamas į operatorių elektros tinklus. Vartotojas, gavęs perdavimo sistemos operatoriaus ir nepriklausomo tiekėjo sutikimą bei būdamas atsakingas perdavimo sistemos operatoriui, šioje dalyje nurodytas vartotojo pinigines prievoles gali pavesti vykdyti nepriklausomam tiekėjui. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
- 
-
-
 
 
 
@@ -3687,7 +3731,10 @@ Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
 47 straipsnis. Atsiskaitymo garantijos nepriklausomam tiekėjui
 
 
-1. Vartotojas, perkantis elektros energiją iš nepriklausomo tiekėjo, privalo laiku atsiskaityti su nepriklausomu tiekėju už suvartotą elektros energiją. Vartotojas, pažeidęs su nepriklausomu tiekėju sudarytą sutartį, privalo nepriklausomo tiekėjo reikalavimu pateikti visų savo prievolių tinkamo įvykdymo užtikrinimą.
+1. Vartotojas, perkantis elektros energiją iš nepriklausomo tiekėjo, privalo laiku atsiskaityti su nepriklausomu tiekėju už suvartotą elektros energiją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
+ 
 
 
 
@@ -3746,7 +3793,10 @@ VARTOTOJŲ TEISIŲ APSAUGA
 
 
 
-2) vartotojai turi teisę pakeisti tiekėją, atsižvelgdami į šiame įstatyme ir (ar) sutartyje su tiekėju nustatytus įspėjimo terminus ir kitas sąlygas. Kai vartotojas pageidauja pakeisti tiekėją laikantis šiame įstatyme ir (ar) sutartyje nurodytų įspėjimo terminų ir kitų sąlygų, atitinkamas operatorius imasi priemonių, kad būtų sudarytos sąlygos pakeitimui atlikti per ne ilgesnį kaip 3 savaičių laikotarpį;
+2) vartotojai turi teisę pakeisti tiekėją, atsižvelgdami į šiame įstatyme ir (ar) sutartyje su tiekėju nustatytus įspėjimo terminus ir kitas sąlygas. Kai vartotojas pageidauja pakeisti tiekėją laikydamasis šiame įstatyme ir (ar) sutartyje nurodytų įspėjimo terminų ir kitų sąlygų, naujas tiekėjas apie tai praneša tinklų operatoriui, prie kurio valdomų tinklų yra prijungti vartotojo įrenginiai. Atitinkamas tinklų operatorius imasi priemonių, kad būtų sudarytos sąlygos pakeitimui atlikti per ne ilgesnį kaip 3 savaičių laikotarpį; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
+ 
 
 
 
@@ -3848,9 +3898,10 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-2) susipažinti su elektros energijos suvartojimo duomenimis, įskaitant suvartotos elektros energijos kiekį, taip pat, sudarę aiškų susitarimą, nemokamai leisti bet kuriam tiekėjui naudotis savo skaitiklių duomenimis, kuriuos nemokamai turi teisę gauti pats vartotojas;
+2) susipažinti su elektros energijos suvartojimo duomenimis, įskaitant suvartotos elektros energijos kiekį, taip pat, raštu arba elektroninių ryšių priemonėmis davęs sutikimą, nemokamai leisti bet kuriam tiekėjui naudotis savo elektros energijos suvartojimo duomenimis, kuriuos nemokamai turi teisę gauti pats vartotojas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
  
 
 
@@ -3918,24 +3969,25 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-4. Tiekėjai ir elektros tinklų operatoriai sudaro tinkamas ir pakankamas sąlygas vartotojų prieigai prie informacijos ir duomenų apie mokėjimus už jiems patiektą elektros energiją ir (ar) su elektros energijos tiekimu ir persiuntimu susijusias paslaugas. Tinkamomis ir pakankamomis prieigos priemonėmis laikoma sąskaitos pateikimas vartotojui arba elektroninė prieiga prie vartotojo mokėjimo duomenų ar kitos pagrįstos priemonės. Jeigu vartotojas pageidauja gauti popierines sąskaitas, tiekėjai ir tinklų operatoriai neturi teisės vartotojui taikyti tokios sąskaitos pateikimo mokesčio. Vartotojo prašymu, suteikdami elektroninę prieigą ar raštu, tiekėjai ir (ar) tinklų operatoriai pateikia:
+4. Tiekėjai ir elektros tinklų operatoriai sudaro tinkamas ir pakankamas sąlygas vartotojų prieigai prie informacijos ir duomenų apie mokėjimus už jiems patiektą elektros energiją ir (ar) su elektros energijos tiekimu ir persiuntimu susijusias paslaugas. Tinkamomis ir pakankamomis prieigos priemonėmis laikoma elektroninės ar popierinės sąskaitos pateikimas vartotojui arba elektroninė prieiga prie vartotojo mokėjimo duomenų ar kitos pagrįstos priemonės. Jeigu vartotojas pageidauja gauti popierines sąskaitas, tiekėjai ir tinklų operatoriai neturi teisės vartotojui taikyti tokios sąskaitos pateikimo mokesčio. Tiekėjai ir (ar) elektros tinklų operatoriai be papildomo mokesčio vartotojams pateikdami elektroninę ar popierinę sąskaitą ar suteikdami elektroninę prieigą prie informacijos ir duomenų apie mokėjimus už jiems patiektą elektros energiją:
 
 
-1) esamas faktines elektros energijos ir (ar) su elektros energijos tiekimu ir persiuntimu susijusių paslaugų kainas ir faktinį energijos suvartojimą bent kartą per kalendorinius metus;
-
-
-
-
-2) vartotojo einamuoju metu suvartojamo elektros energijos kiekio ir elektros energijos, suvartotos per tą patį praėjusių metų laikotarpį, palyginimą;
+1) nurodo esamas faktines elektros energijos ir (ar) su elektros energijos tiekimu ir persiuntimu susijusių paslaugų kainas, tarifus ir faktinį energijos suvartojimą už sąskaitoje ar per elektroninę prieigą pasiekiamuose vartotojo mokėjimo duomenyse nurodytą ataskaitinį laikotarpį;
 
 
 
 
-3) kai tai įmanoma, palyginimą su vidutinio tos pačios grupės vartotojo elektros energijos suvartojimu.
+2) pateikia vartotojo einamuoju metu suvartojamo elektros energijos kiekio ir elektros energijos, suvartotos per tą patį praėjusių metų laikotarpį, palyginimą;
+
+
+
+
+3) pateikia, kai tai įmanoma, vartotojo elektros energijos suvartojimo palyginimą su vidutinio tos pačios grupės vartotojo elektros energijos suvartojimu. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
  
 
 
@@ -3949,9 +4001,11 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-6. Informacija apie suvartotus elektros energijos kiekius ir jų palyginimą, kainas, tarifus be papildomo mokesčio turi būti teikiama sąskaitose ne rečiau kaip du kartus per kalendorinius metus, o vartotojų prašymu – kas ketvirtį. 
+6. Neteko galios nuo 2020-06-01. 
 Papildyta straipsnio dalimi:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+Straipsnio dalies pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
  
@@ -4040,14 +4094,17 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 1. Be šiame skirsnyje nurodytų vartotojų teisių apsaugos priemonių, buitinis vartotojas taip pat turi teisę:
 
 
-1) vienašališkai neatlygintinai nutraukti elektros energijos persiuntimo paslaugos sutartį ir (ar) elektros energijos pirkimo–pardavimo sutartį, raštu informavęs tinklų operatorių ir (ar) tiekėją ne vėliau kaip prieš 3 savaites iki numatomos sutarties nutraukimo dienos;
+1) vienašališkai neatlygintinai nutraukti elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, raštu ar elektroninių ryšių priemonėmis informavęs tiekėją ne vėliau kaip prieš 3 savaites iki numatomos sutarties nutraukimo dienos;
 
 
 
 
-2) sudaryti neterminuotas elektros energijos pirkimo–pardavimo sutartis su visuomeniniu tiekėju tais atvejais, kai buitinis vartotojas nepasirenka nepriklausomo elektros energijos tiekėjo ar jo pasirinktas nepriklausomas tiekėjas nevykdo prisiimtų įsipareigojimų ir buitinis vartotojas ketina pirkti elektros energiją iš visuomeninio teikėjo, ir neterminuotą elektros energijos pirkimo–pardavimo sutartį su nepriklausomu tiekėju bei elektros energijos persiuntimo paslaugos sutartį su skirstomųjų tinklų operatoriumi.
+2) sudaryti neterminuotas elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartis su visuomeniniu tiekėju tais atvejais, kai buitinis vartotojas nepasirenka nepriklausomo elektros energijos tiekėjo ar jo pasirinktas nepriklausomas tiekėjas nevykdo prisiimtų įsipareigojimų ir buitinis vartotojas ketina pirkti elektros energiją iš visuomeninio tiekėjo, ir neterminuotą elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį su nepriklausomu tiekėju. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
+ 
 
 
 
@@ -4512,7 +4569,10 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-4. Elektros energijos pirkimo–pardavimo sutarčių su buitiniais vartotojais standartinių sąlygų aprašą ir Elektros energijos persiuntimo paslaugos teikimo sutarčių su buitiniais vartotojais standartinių sąlygų aprašą tvirtina Energetikos ministerija, suderinusi su Tarnyba.
+4. Neteko galios nuo 2020-06-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
+ 
 
 
 
@@ -4545,37 +4605,55 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-2. Vartotojų perėjimas nuo reguliuojamo elektros energijos tiekimo prie sutartiniais santykiais su nepriklausomais tiekėjais pagrįsto aprūpinimo elektros energija įgyvendinamas ir elektros energijos tiekimas visuomenine elektros energijos kaina užtikrinamas šio įstatymo 43 straipsnyje nustatyta tvarka ir sąlygomis.
+2. Vartotojų perėjimas nuo reguliuojamo elektros energijos tiekimo prie sutartiniais santykiais su nepriklausomais tiekėjais pagrįsto aprūpinimo elektros energija įgyvendinamas šio įstatymo 43 straipsnyje nustatyta tvarka ir sąlygomis. Už centralizuotą vartotojų informavimą visuomenės ir kitomis informavimo priemonėmis apie elektros energijos rinkos liberalizavimą ir jo procesą yra atsakingas skirstomųjų tinklų operatorius, aptarnaujantis daugiau kaip 100 000 vartotojų. 
+
+
+
+
+3. Visuomeninio tiekėjo pagrįstos sąnaudos, patirtos dėl šio įstatymo 43 straipsnio 2 dalyje nustatytos pareigos įgyvendinimo, įvertinamos nustatant visuomeninio tiekimo paslaugos kainos viršutinę ribą.
+
+
+
+
+4. Skirstomųjų tinklų operatoriaus pagrįstos sąnaudos, patirtos dėl šio įstatymo 43 straipsnio 3 dalyje ir šio straipsnio 2 dalyje nustatytų pareigų įgyvendinimo, įvertinamos nustatant skirstymo paslaugos kainos viršutinę ribą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
  
 
 
 
 
+61 straipsnis. Vartotojų, tiekėjų ir gamintojų teisė sudaryti sutartis 
 
 
-61 straipsnis. Vartotojų, tiekėjų ir gamintojų teisė sudaryti tiekimo sutartis
-
-
-1. Vartotojai turi teisę sudaryti elektros energijos pirkimo–pardavimo sutartis su tiekėjais ir gamintojais, šiame įstatyme nustatyta tvarka turinčiais teisę vykdyti elektros energijos tiekimo veiklą ir veikiančiais Lietuvos Respublikos teritorijoje arba kitose valstybėse narėse.
-
-
-
-
-2. Tiekėjui sutikus, vartotojai turi teisę sudaryti su juo elektros energijos pirkimo–pardavimo sutartį nepriklausomai nuo to, kurioje valstybėje narėje tiekėjas įregistruotas, jeigu tiekėjas laikosi Lietuvos Respublikos teisės aktuose nustatytų prekybos elektros energija reikalavimų. Kreipiantis dėl leidimo verstis nepriklausomo elektros energijos tiekimo veikla, dėl registracijos rinkos dalyviu, sudarant sutartis su vartotojais ir kitais atvejais nepriklausomas tiekėjas negali būti diskriminuojamas dėl jo įsisteigimo kitoje valstybėje narėje negu Lietuvos Respublika.
+1. Vartotojai, išskyrus buitinius vartotojus, turi teisę sudaryti elektros energijos pirkimo–pardavimo sutartis arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartis su tiekėjais ir gamintojais, šiame įstatyme nustatyta tvarka turinčiais teisę vykdyti elektros energijos tiekimo veiklą ir veikiančiais Lietuvos Respublikos teritorijoje arba kitose valstybėse narėse. Buitinių vartotojų ir tiekėjų tarpusavio santykiai grindžiami elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartimis.
 
 
 
 
-3. Vartotojai, su nepriklausomais tiekėjais sudarydami pirkimo–pardavimo sutartis, sudaro sutartis dėl elektros energijos persiuntimo paslaugos su perdavimo sistemos arba skirstomųjų tinklų operatoriais, atsižvelgiant į tai, prie kurio operatoriaus tinklų yra prijungti vartotojo įrenginiai. Vartotojo ir tiekėjo sudaromoje pirkimo–pardavimo sutartyje, gavus tinklų operatoriaus sutikimą, gali būti numatyta nepriklausomo tiekėjo teisė vykdyti vartotojo pinigines prievoles, susijusias su apmokėjimu už elektros energijos persiuntimo perdavimo ir skirstomaisiais tinklais paslaugą.
+2. Tiekėjui sutikus, vartotojai turi teisę sudaryti su juo elektros energijos pirkimo–pardavimo sutartį arba elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį nepriklausomai nuo to, kurioje valstybėje narėje tiekėjas įregistruotas, jeigu tiekėjas laikosi Lietuvos Respublikos teisės aktuose nustatytų prekybos elektros energija reikalavimų. Kreipiantis dėl leidimo verstis nepriklausomo elektros energijos tiekimo veikla, dėl registracijos rinkos dalyviu, sudarant sutartis su vartotojais ir kitais atvejais nepriklausomas tiekėjas negali būti diskriminuojamas dėl jo įsisteigimo kitoje valstybėje narėje negu Lietuvos Respublika.
 
 
 
 
-4. Visuomeninis tiekėjas, buitiniam vartotojui pageidaujant, privalo sudaryti su buitiniu vartotoju tiesioginę elektros energijos pirkimo–pardavimo sutartį, jeigu šiame įstatyme nustatyta tvarka ir sąlygomis visuomeninis tiekėjas yra įpareigotas tiekti elektros energiją buitiniams vartotojams. Vartotojui sudarius elektros energijos pirkimo–pardavimo sutartį su visuomeniniu tiekėju, atskira elektros energijos persiuntimo paslaugos sutartis su skirstomųjų tinklų operatoriumi nesudaroma. 
+3. Vartotojai, išskyrus buitinius vartotojus, su nepriklausomais tiekėjais sudarydami elektros energijos pirkimo–pardavimo sutartis, sudaro sutartis dėl elektros energijos persiuntimo paslaugos teikimo su perdavimo sistemos arba skirstomųjų tinklų operatoriais, atsižvelgiant į tai, prie kurio operatoriaus tinklų yra prijungti šio vartotojo įrenginiai.
+
+
+
+
+4. Vartotojui su nepriklausomu tiekėju sudarius elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, atskira elektros energijos persiuntimo paslaugos teikimo sutartis su skirstomųjų tinklų operatoriumi nesudaroma.
+
+
+
+
+5. Visuomeninis tiekėjas, buitiniam vartotojui pageidaujant, privalo sudaryti su buitiniu vartotoju tiesioginę elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį, jeigu šiame įstatyme nustatyta tvarka ir sąlygomis visuomeninis tiekėjas yra įpareigotas tiekti elektros energiją buitiniams vartotojams. Buitiniam vartotojui sudarius elektros energijos pirkimo–pardavimo ir persiuntimo paslaugos teikimo sutartį su visuomeniniu tiekėju, atskira elektros energijos persiuntimo paslaugos teikimo sutartis su skirstomųjų tinklų operatoriumi nesudaroma. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
  
 
 
@@ -4845,7 +4923,12 @@ Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
 
 
 
-4. Garantinio elektros energijos tiekimo kaina apskaičiuojama šio įstatymo 44 straipsnio  2 dalies 3 punkte nustatyta tvarka ir sąlygomis.
+4. Garantinio elektros energijos tiekimo kaina apskaičiuojama  šio įstatymo  44  straipsnio   2 dalies 3 punkte nustatyta tvarka ir sąlygomis.
+4 dalies redakcija nuo 2022-01-01:
+4. Garantinio elektros energijos tiekimo kaina apskaičiuojama šio įstatymo 44 straipsnio 2 dalies 3 punkte nustatyta tvarka ir sąlygomis. Garantinio tiekimo pažeidžiamiems vartotojams paslaugos kainą vienų metų laikotarpiui nustato ir ne vėliau kaip iki einamųjų metų gruodžio 1 dienos skelbia Taryba. Tarybos nustatyta garantinio tiekimo pažeidžiamiems vartotojams paslaugos kaina įsigalioja praėjus ne mažiau kaip vienam mėnesiui nuo jos paskelbimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
+ 
 
 
 
@@ -4999,7 +5082,10 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 1. Taryba asmeniui, turinčiam didelę įtaką elektros energijos rinkoje, ir gamintojams, kurie teikia izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugas ir kurių kainos yra reguliuojamos, taip pat elektros energijos perdavimo, skirstymo paslaugų teikėjams ir (ar) visuomeniniam tiekėjui:
 
 
-1) nustato įpareigojimus teikti paslaugas sąnaudomis pagrįstomis kainomis, atsižvelgiant į protingumo kriterijų atitinkančią investicijų grąžą;
+1) nustato įpareigojimus teikti paslaugas sąnaudomis pagrįstomis kainomis, atsižvelgiant į protingumo kriterijų atitinkančią investicijų grąžą ar pelno maržą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
+ 
 
 
 
@@ -5019,12 +5105,18 @@ Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
 
 
 
-2. Taryba, nustatydama įpareigojimus, tinkamai atsižvelgia į asmens, turinčio didelę įtaką elektros energijos rinkoje, taip pat perdavimo, skirstymo paslaugų teikėjo ir (ar) visuomeninio tiekėjo teisę gauti protingumo kriterijų atitinkančią investicijų grąžą. Tarybos nustatomi įpareigojimai turi būti aiškiai apibrėžti, skaidrūs, nediskriminaciniai, patikrinami ir turi užtikrinti vienodas galimybes teikti paslaugas vartotojams.
+2. Taryba, nustatydama įpareigojimus, tinkamai atsižvelgia į asmens, turinčio didelę įtaką elektros energijos rinkoje, taip pat perdavimo, skirstymo paslaugų teikėjo ir (ar) visuomeninio tiekėjo teisę gauti protingumo kriterijų atitinkančią investicijų grąžą ar pelno maržą. Tarybos nustatomi įpareigojimai turi būti aiškiai apibrėžti, skaidrūs, nediskriminaciniai, patikrinami ir turi užtikrinti vienodas galimybes teikti paslaugas vartotojams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
+ 
 
 
 
 
-3. Taryba, apskaičiuodama šio straipsnio 2 dalyje nurodytą protingumo kriterijų atitinkančią investicijų grąžą, atsižvelgia į Lietuvos banko nefinansinėms korporacijoms suteiktų paskolų metinę palūkanų normą, Vyriausybės vertybinių popierių aukcionų metinę palūkanų normą, valstybės kreditingumo riziką, asmens, kurio atžvilgiu apskaičiuojama protingumo kriterijų atitinkanti investicijų grąža, kapitalo struktūrą ir kitus ekonominius veiksnius, darančius tiesioginę įtaką protingumo kriterijų atitinkančios investicijų grąžos apskaičiavimui.
+3. Taryba, apskaičiuodama šio straipsnio 2 dalyje nurodytą protingumo kriterijų atitinkančią investicijų grąžą ar pelno maržą, atsižvelgia į Lietuvos banko nefinansinėms korporacijoms suteiktų paskolų metinę palūkanų normą, Vyriausybės vertybinių popierių aukcionų metinę palūkanų normą, valstybės kreditingumo riziką, asmens, kurio atžvilgiu apskaičiuojama protingumo kriterijų atitinkanti investicijų grąža ar pelno marža, kapitalo struktūrą ir kitus ekonominius veiksnius, darančius tiesioginę įtaką protingumo kriterijų atitinkančios investicijų grąžos ar pelno maržos apskaičiavimui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
+ 
 
 
 
@@ -6479,3 +6571,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 15 ir 16 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 16, 17, 20, 21-1, 22, 31, 39, 41, 48, 49, 51, 69, 71, 74 straipsnių pakeitimo ir Įstatymo papildymo 46-1 ir 71-1 straipsniais įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 38, 39, 40, 41, 42, 43, 44, 46, 47, 49, 51, 52, 59, 60, 61, 67 ir 68 straipsnių pakeitimo įstatymas
