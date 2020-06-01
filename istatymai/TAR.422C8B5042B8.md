@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2020-05-15 iki 2020-05-31
+Suvestinė redakcija nuo 2020-06-01 iki 2020-06-11
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -1520,7 +1520,10 @@ Darbo rinkoje papildomai remiamais laikomi šie asmenys:
 
 
 
-6) vyresni kaip 50 metų bedarbiai;
+6) vyresni kaip 45 metų bedarbiai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
+ 
 
 
 
@@ -3118,7 +3121,10 @@ Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
 
 
 
-4) neįgalusis ar bedarbis iki 29 metų, pradėjęs savo verslą sau įsteigtoje darbo vietoje, ilgiau kaip 120 dienų iš eilės arba daugiau kaip 140 dienų per pastaruosius 12 mėnesių nevykdo veiklos;
+4) šio įstatymo 25 straipsnio 1, 2, 6 ar 8 punkte nurodytas bedarbis, pradėjęs savo verslą sau įsteigtoje darbo vietoje, ilgiau kaip 120 dienų iš eilės arba daugiau kaip 140 dienų per pastaruosius 12 mėnesių nevykdo veiklos, išskyrus atvejus, kai bedarbis, pradėjęs savo verslą sau įsteigtoje darbo vietoje, informuoja Užimtumo tarnybą, kad ilgiau kaip 120 dienų iš eilės arba daugiau kaip 140 dienų per pastaruosius 12 mėnesių nevykdys veiklos dėl nėštumo ir gimdymo atostogų, tėvystės atostogų ir (arba) atostogų vaikui prižiūrėti arba privalomosios pradinės karo tarnybos ar alternatyviosios krašto apsaugos tarnybos atlikimo, nurodydamas veiklos nevykdymo laikotarpį. Įsteigtos darbo vietos išlaikymo ne mažiau kaip 36 mėnesius laikotarpis šiame punkte nurodytais atvejais pratęsiamas tiek, kiek trunka veiklos nevykdymo laikotarpis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
+ 
 
 
 
@@ -3203,8 +3209,10 @@ Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
 
 
 
-5) savo lėšomis apdrausti ilgalaikį materialųjį turtą, kuriam įsigyti steigiant darbo vietą ar ją pritaikant buvo naudota subsidija, maksimaliu turto atkuriamosios vertės draudimu nuo visų galimų rizikos atvejų, nuo kurių draudžia subsidijos gavėjo pasirinkta draudimo bendrovė, ne mažiau kaip 36 mėnesius nuo darbo vietos įsteigimo dienos, naudos gavėju nurodydamas Užimtumo tarnybą, ir pateikti jai draudimą įrodančius dokumentus. 
-TAR pastaba. 7 dalies nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo.
+5) savo lėšomis apdrausti ilgalaikį materialųjį turtą, kuriam įsigyti steigiant darbo vietą ar ją pritaikant buvo naudota subsidija, maksimaliu turto atkuriamosios vertės draudimu nuo visų galimų rizikos atvejų, nuo kurių draudžia subsidijos gavėjo pasirinkta draudimo bendrovė, ne mažiau kaip 36 mėnesius nuo darbo vietos įsteigimo dienos, o šio straipsnio 5 dalies 4 punkte nurodytais atvejais – ne trumpiau kaip iki pratęsto įsteigtos darbo vietos išlaikymo laikotarpio pabaigos, naudos gavėju nurodydamas Užimtumo tarnybą, ir pateikti jai draudimą įrodančius dokumentus. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -3214,7 +3222,7 @@ Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 
 
 
-8. Subsidijos gavėjas, išskyrus šio įstatymo 47 straipsnio 3 dalies 3 punkte nurodytus subsidijos gavėjus, per 36 mėnesių laikotarpį nuo darbo vietos įsteigimo (pritaikymo) dienos be Užimtumo tarnybos sutikimo neturi teisės:
+8. Subsidijos gavėjas per 36 mėnesių laikotarpį nuo darbo vietos įsteigimo (pritaikymo) dienos ir šio straipsnio 5 dalies 4 punkte nurodytais atvejais pratęstą įsteigtos darbo vietos išlaikymo laikotarpį be Užimtumo tarnybos sutikimo neturi teisės:
 
 
 1) parduoti, įkeisti, išnuomoti, dovanoti ar kitaip perleisti arba kitaip suvaržyti teises į už subsidiją darbo vietai steigti įgytą turtą;
@@ -3232,6 +3240,7 @@ Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
  
 
 
@@ -3338,8 +3347,6 @@ Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 3. Subsidija darbo vietai steigti mokama, kai:
 
 
-1) darbo vietą sau pirmą kartą steigia šio įstatymo 25 straipsnio 1, 2, 3 ir 8 punktuose nurodyti bedarbiai;
-1 punkto redakcija nuo 2020-06-01:
 1) darbo vietą sau pirmą kartą steigia šio įstatymo 25 straipsnio 1, 2, 3, 6 ir 8 punktuose nurodyti bedarbiai;
 
 
