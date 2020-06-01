@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2020-05-21 iki 2020-05-31
+Suvestinė redakcija nuo 2020-06-01 iki 2020-11-13
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
  
@@ -204,7 +204,7 @@ Piniginė socialinė parama teikiama vadovaujantis šiais principais:
 
 
 
-2) prieinamumo. Piniginė socialinė parama teikiama taip, kad būtų užtikrintas piniginės socialinės paramos prieinamumas nepasiturintiems gyventojams kuo arčiau jų gyvenamosios vietos;
+2) prieinamumo. Piniginė socialinė parama nepasiturintiems gyventojams teikiama kuo arčiau jų gyvenamosios vietos užtikrinant informacijos apie piniginę socialinę paramą prieinamumą ir paramos gavimą laiku; 
 
 
 
@@ -214,18 +214,25 @@ Piniginė socialinė parama teikiama vadovaujantis šiais principais:
 
 
 
-4) visapusiškumo. Piniginė socialinė parama teikiama derinant ją su socialinėmis paslaugomis, vaiko teisių apsauga, užimtumu, sveikatos priežiūra, švietimu ir ugdymu;
+4) visapusiškumo ir adekvatumo. Piniginė socialinė parama teikiama derinant ją su socialinėmis paslaugomis, vaiko teisių apsauga, užimtumu, sveikatos priežiūra, švietimu ir ugdymu, siekiant užtikrinti, kad kompleksiškai teikiama parama atitiktų minimalius nepasiturinčių gyventojų vartojimo poreikius ir apsaugotų juos nuo skurdo;
 
 
 
 
-5) lygių galimybių. Piniginė socialinė parama teikiama užtikrinant nepasiturinčių gyventojų lygybę, nepaisant jų lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos.
+5) įgalinimo. Teikiant piniginę socialinę paramą, siekiama sudaryti palankias nepasiturinčių gyventojų užimtumo galimybių didinimo sąlygas, taip pat sąlygas, skatinančias juos įsitraukti į visuomenės gyvenimą ir mažinančias ilgalaikę priklausomybę nuo socialinės paramos sistemos; 
 
 
+
+
+6) lygių galimybių. Piniginė socialinė parama teikiama užtikrinant nepasiturinčių gyventojų lygybę, nepaisant jų lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-329, 2013-05-16, Žin., 2013, Nr. 57-2861 (2013-06-01)
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
  
 
 
@@ -372,12 +379,18 @@ Piniginės socialinės paramos rūšys yra šios:
 Bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į socialinę pašalpą, jeigu kreipimosi dėl socialinės pašalpos metu atitinka visus šiame straipsnyje nurodytus reikalavimus:
 
 
-1) vidutinės pajamos, nurodytos ir apskaičiuotos pagal šio įstatymo 17 ir 18 straipsnius, tenkančios vienam iš bendrai gyvenančių asmenų arba vienam gyvenančiam asmeniui per mėnesį, yra mažesnės kaip valstybės remiamos pajamos;
+1) vidutinės pajamos, nurodytos ir apskaičiuotos pagal šio įstatymo 17 ir 18 straipsnius, tenkančios vienam iš bendrai gyvenančių asmenų arba vienam gyvenančiam asmeniui per mėnesį, yra mažesnės kaip 1,1 valstybės remiamų pajamų dydžio;
 
 
 
 
 2) kiekvienas vyresnis kaip 18 metų bendrai gyvenantis asmuo, vienas gyvenantis asmuo arba vaikas (įvaikis) nuo 16 iki 18 metų atitinka bent vieną iš šio įstatymo 8 straipsnyje nurodytų sąlygų, kurioms esant bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į piniginę socialinę paramą. 
+6 straipsnio redakcija, įsigaliojanti kitą dieną po to, kai sueina 6 mėnesiai, kai buvo atšaukta Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta ekstremalioji situacija ir Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbtas karantinas, arba kai sueina jų paskelbimo terminai:
+6 straipsnis. Teisė į socialinę pašalpą
+Bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į socialinę pašalpą, jeigu kreipimosi dėl socialinės pašalpos metu atitinka visus šiame straipsnyje nurodytus reikalavimus:
+1) bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybės teise turimo turto, nurodyto šio įstatymo 14 straipsnyje, vertė neviršija turto vertės normatyvo. Jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybės teise turimo turto, nurodyto šio įstatymo 14 straipsnyje, vertė viršija turto vertės normatyvą, nustatant teisę į socialinę pašalpą, kai kreiptasi pirmą kartą arba praėjus ne mažiau kaip 24 mėnesiams nuo paskutinio mėnesio, už kurį socialinė pašalpa buvo paskirta, šis reikalavimas 3 mėnesius netaikomas;
+2) vidutinės pajamos, nurodytos ir apskaičiuotos pagal šio įstatymo 17 ir 18 straipsnius, tenkančios vienam iš bendrai gyvenančių asmenų arba vienam gyvenančiam asmeniui per mėnesį, yra mažesnės kaip 1,1 valstybės remiamų pajamų dydžio;
+3) kiekvienas vyresnis kaip 18 metų bendrai gyvenantis asmuo, vienas gyvenantis asmuo arba vaikas (įvaikis) nuo 16 iki 18 metų atitinka bent vieną iš šio įstatymo 8 straipsnyje nurodytų sąlygų, kurioms esant bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į piniginę socialinę paramą.
 
 
 
@@ -418,9 +431,10 @@ Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
 2. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui, pagal šio straipsnio 1 dalį turintiems teisę į kompensacijas, kompensacijos skiriamos, jeigu laikotarpiu, už kurį kompensacijos apskaičiuojamos:
 
 
-1) būsto šildymo išlaidos, kai naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus, viršija 10 procentų skirtumo tarp bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų ir valstybės remiamų pajamų bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui dydžio arba (ir)
+1) būsto šildymo išlaidos, kai naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus, viršija 10 procentų skirtumo tarp bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinių pajamų per mėnesį ir valstybės remiamų pajamų bendrai gyvenantiems asmenims dydžio arba 1,5 valstybės remiamų pajamų dydžio vienam gyvenančiam asmeniui arba (ir) 
 Straipsnio punkto pakeitimai:
 Nr. XIII-373, 2017-05-23, paskelbta TAR 2017-05-31, i. k. 2017-09277
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
  
 
 
@@ -644,31 +658,53 @@ PINIGINĖS SOCIALINĖS PARAMOS DYDŽIAI
 9 straipsnis. Socialinės pašalpos dydis
 
 
-1. Socialinės pašalpos dydis vienam gyvenančiam asmeniui, turinčiam teisę ją gauti, sudaro 100 procentų skirtumo tarp valstybės remiamų pajamų vienam gyvenančiam asmeniui ir vidutinių vieno gyvenančio asmens pajamų per mėnesį.
+1. Socialinės pašalpos dydis vienam gyvenančiam asmeniui, turinčiam teisę ją gauti, sudaro:
+
+
+1) skirtumą tarp 1,4 valstybės remiamų pajamų dydžio vienam gyvenančiam asmeniui ir vidutinių vieno gyvenančio asmens pajamų per mėnesį – kai socialinė pašalpa mokama ne ilgiau kaip 6 mėnesius;
 
 
 
 
-2. Socialinės pašalpos dydis bendrai gyvenantiems asmenims, turintiems teisę ją gauti, taip pat ir tais atvejais, kai socialinė pašalpa skiriama tik vaikui (įvaikiui) ar vaikams (įvaikiams), įskaitant pilnamečius vaikus (įvaikius), kai jie mokosi pagal bendrojo ugdymo programą ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, sudaro:
-
-
-1) pirmam bendrai gyvenančiam asmeniui – 100 procentų skirtumo tarp valstybės remiamų pajamų dydžio vienam iš bendrai gyvenančių asmenų ir vidutinių bendrai gyvenančių asmenų pajamų vienam iš bendrai gyvenančių asmenų per mėnesį;
+2) skirtumą tarp 1,2 valstybės remiamų pajamų dydžio vienam gyvenančiam asmeniui ir vidutinių vieno gyvenančio asmens pajamų per mėnesį – kai socialinė pašalpa mokama nuo 6 iki 12 mėnesių;
 
 
 
 
-2) antram bendrai gyvenančiam asmeniui – 80 procentų skirtumo tarp valstybės remiamų pajamų dydžio vienam iš bendrai gyvenančių asmenų ir vidutinių bendrai gyvenančių asmenų pajamų vienam iš bendrai gyvenančių asmenų per mėnesį;
+3) skirtumą tarp 1,1 valstybės remiamų pajamų dydžio vienam gyvenančiam asmeniui ir vidutinių vieno gyvenančio asmens pajamų per mėnesį – kai socialinė pašalpa mokama ilgiau kaip 12 mėnesių.
 
 
 
 
-3) trečiam ir paskesniems bendrai gyvenantiems asmenims – 70 procentų skirtumo tarp valstybės remiamų pajamų dydžio vienam iš bendrai gyvenančių asmenų ir vidutinių bendrai gyvenančių asmenų pajamų vienam iš bendrai gyvenančių asmenų per mėnesį.
+
+
+2. Šio straipsnio 1 dalyje nustatyti socialinės pašalpos mokėjimo laikotarpiai skaičiuojami sudedant visus laikotarpius, kuriais buvo mokama socialinė pašalpa. Jeigu dėl socialinės pašalpos asmuo kreipiasi praėjus ne mažiau kaip 6 mėnesiams nuo paskutinio jos gavimo laikotarpio, šio straipsnio 1 dalyje numatyti socialinės pašalpos mokėjimo laikotarpiai pradedami skaičiuoti iš naujo nuo mėnesio, už kurį mokama socialinė pašalpa, pirmos dienos.
 
 
 
 
-Straipsnio pakeitimai:
+3. Socialinės pašalpos dydis bendrai gyvenantiems asmenims, turintiems teisę ją gauti, taip pat ir tais atvejais, kai socialinė pašalpa skiriama tik vaikui (įvaikiui) ar vaikams (įvaikiams), įskaitant pilnamečius vaikus (įvaikius), kai jie mokosi pagal bendrojo ugdymo programą ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, sudaro:
+
+
+1) pirmam bendrai gyvenančiam asmeniui – skirtumą tarp 1,1 valstybės remiamų pajamų dydžio vienam iš bendrai gyvenančių asmenų ir vidutinių bendrai gyvenančių asmenų pajamų vienam iš bendrai gyvenančių asmenų per mėnesį;
+
+
+
+
+2) antram bendrai gyvenančiam asmeniui – 90 procentų skirtumo tarp 1,1 valstybės remiamų pajamų dydžio vienam iš bendrai gyvenančių asmenų ir vidutinių bendrai gyvenančių asmenų pajamų vienam iš bendrai gyvenančių asmenų per mėnesį;
+
+
+
+
+3) trečiam ir paskesniems bendrai gyvenantiems asmenims – 70 procentų skirtumo tarp 1,1 valstybės remiamų pajamų dydžio vienam iš bendrai gyvenančių asmenų ir vidutinių bendrai gyvenančių asmenų pajamų vienam iš bendrai gyvenančių asmenų per mėnesį. 
+
+
+
+
+ Straipsnio pakeitimai:
 Nr. XII-329, 2013-05-16, Žin., 2013, Nr. 57-2861 (2013-06-01)
+Straipsnio pakeitimai:
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
  
 
 
@@ -677,15 +713,15 @@ Nr. XII-329, 2013-05-16, Žin., 2013, Nr. 57-2861 (2013-06-01)
 10 straipsnis. Socialinės pašalpos papildomo skyrimo ir socialinės pašalpos mažinimo pagrindai
 
 
-1. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui papildomai skiriama socialinė pašalpa, kurios dydis lygus 50 procentų socialinės pašalpos, mokėtos per praėjusius 6 mėnesius iki įsidarbinimo, vidutinio dydžio, už kiekvieną pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu dirbtą mėnesį, bet ne ilgiau kaip 12 mėnesių, jeigu vienas gyvenantis asmuo arba bendrai gyvenantys asmenys atitinka visas šias sąlygas:
+1. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui papildomai skiriama šio straipsnio 11 dalyje nustatyto dydžio socialinė pašalpa, jeigu vienas gyvenantis asmuo arba bendrai gyvenantys asmenys atitinka visas šias sąlygas:
 
 
-1) vienas gyvenantis asmuo arba bent vienas iš bendrai gyvenančių asmenų įsidarbina ir dirba (dirbo) šio įstatymo 8 straipsnio 1 dalies 1 punkte nustatytą darbo laiko trukmę ir jam darbo užmokesčio apskaičiuojama ne mažiau už minimaliąją mėnesinę algą arba minimalųjį valandinį atlygį proporcingai dirbtam laikui arba atliktam darbui, bet ne daugiau už dvi minimaliąsias mėnesines algas ar du minimaliuosius valandinius atlygius proporcingai dirbtam laikui arba atliktam darbui; 
+1) vienas gyvenantis asmuo arba bent vienas iš bendrai gyvenančių asmenų įsidarbina ir dirba (dirbo) šio įstatymo 8 straipsnio 1 dalies 1 punkte nustatytą darbo laiką ir jam darbo užmokesčio apskaičiuojama ne mažiau už minimaliąją mėnesinę algą arba minimalųjį valandinį atlygį proporcingai dirbtam laikui arba atliktam darbui;
 
 
 
 
-2) prieš įsidarbinimą šio straipsnio 1 dalies 1 punkte nurodyti asmenys buvo įsiregistravę Užimtumo tarnyboje ar kitos valstybės valstybinėje įdarbinimo tarnyboje ne trumpiau kaip 6 mėnesius iš eilės ir per šį laikotarpį nedirbo arba dirbo mažiau, negu nustatyta šio įstatymo 8 straipsnio 1 dalies 1 punkte, arba dirbo užimtumo didinimo programoje numatytus darbus;
+2) iki įsidarbinimo šio straipsnio 1 dalies 1 punkte nurodyti asmenys buvo įsiregistravę Užimtumo tarnyboje ar kitos valstybės valstybinėje įdarbinimo tarnyboje ne trumpiau kaip 6 mėnesius iš eilės ir per šį laikotarpį nedirbo arba dirbo mažiau, negu nustatyta šio įstatymo 8 straipsnio 1 dalies 1 punkte, arba dirbo užimtumo didinimo programoje numatytus darbus;
 
 
 
@@ -695,14 +731,35 @@ Nr. XII-329, 2013-05-16, Žin., 2013, Nr. 57-2861 (2013-06-01)
 
 
 
-4) vienas gyvenantis asmuo ar kiekvienas vyresnis kaip 18 metų bendrai gyvenantis asmuo arba vaikas (įvaikis) nuo 16 iki 18 metų atitinka bent vieną iš šio įstatymo 8 straipsnyje nurodytų sąlygų, kurioms esant bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į piniginę socialinę paramą;
+4) prašymas-paraiška skirti papildomą socialinės pašalpos dalį įsidarbinus pateiktas ne vėliau kaip per 12 mėnesių nuo įsidarbinimo. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
+ 
 
 
 
 
-5) prašymas-paraiška skirti papildomą socialinės pašalpos dalį įsidarbinus pateiktas ne vėliau kaip per 12 mėnesių nuo įsidarbinimo. 
+11. Papildomai socialinė pašalpa skiriama ir mokama už kiekvieną pagal darbo sutartį ar darbo santykiams prilygintų teisinių santykių pagrindu dirbtą mėnesį, bet ne ilgiau kaip už 12 dirbtų mėnesių, ir jos dydis bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui sudaro:
 
 
+1) pirmą–trečią papildomai mokamos socialinės pašalpos mokėjimo mėnesį – 100 procentų socialinės pašalpos, mokėtos per praėjusius 6 mėnesius iki įsidarbinimo, vidutinio dydžio; 
+
+
+
+
+2) ketvirtą–šeštą papildomai mokamos socialinės pašalpos mokėjimo mėnesį – 80 procentų socialinės pašalpos, mokėtos per praėjusius 6 mėnesius iki įsidarbinimo, vidutinio dydžio;
+
+
+
+
+3) šeštą–dvyliktą papildomai mokamos socialinės pašalpos mokėjimo mėnesį – 50 procentų socialinės pašalpos, mokėtos per praėjusius 6 mėnesius iki įsidarbinimo, vidutinio dydžio. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
+ 
 
 
 
@@ -776,9 +833,10 @@ Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 1. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui kompensuojama:
 
 
-1) šildymo sezono metu – būsto šildymo išlaidų, kai naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus, dalis, viršijanti 10 procentų skirtumo tarp bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamų ir valstybės remiamų pajamų bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui dydžio;
+1) šildymo sezono metu – būsto šildymo išlaidų, kai naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus, dalis, viršijanti 10 procentų skirtumo tarp bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinių pajamų per mėnesį ir valstybės remiamų pajamų bendrai gyvenantiems asmenims dydžio arba 1,5 valstybės remiamų pajamų dydžio vienam gyvenančiam asmeniui; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-373, 2017-05-23, paskelbta TAR 2017-05-31, i. k. 2017-09277
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
  
 
 
@@ -796,7 +854,10 @@ Nr. XIII-373, 2017-05-23, paskelbta TAR 2017-05-31, i. k. 2017-09277
 
 
 
-2. Jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamos neviršija valstybės remiamų pajamų bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui dydžio, skiriama būsto šildymo išlaidų kompensacija yra lygi faktinėms būsto šildymo išlaidoms, jeigu naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti yra ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus. 
+2. Jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį neviršija valstybės remiamų pajamų bendrai gyvenantiems asmenims dydžio arba 1,5 valstybės remiamų pajamų dydžio vienam gyvenančiam asmeniui, skiriama būsto šildymo išlaidų kompensacija yra lygi faktinėms būsto šildymo išlaidoms, jeigu naudingasis būsto plotas ir atskirų energijos ar kuro rūšių sąnaudos būstui šildyti yra ne didesni už šio įstatymo 12 straipsnyje nustatytus normatyvus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
+ 
 
 
 
@@ -990,7 +1051,10 @@ Nr. XII-1145, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13604
 
 
 
-3) žemės ūkio paskirties, įskaitant miško medynus (išskyrus naudojimo būdo – mėgėjų sodo žemės sklypus ir sodininkų bendrijų bendrojo naudojimo žemės sklypus), konservacinės, įskaitant miško medynus, vandens ūkio ir miškų ūkio paskirties, įskaitant miško medynus, žemės: miestuose – 6 arai, miesteliuose – 25 arai, kaimuose – 3 hektarai. 
+3) žemės ūkio paskirties, įskaitant miško medynus (išskyrus naudojimo būdo – mėgėjų sodo žemės sklypus ir sodininkų bendrijų bendrojo naudojimo žemės sklypus), konservacinės, įskaitant miško medynus, vandens ūkio ir miškų ūkio paskirties, įskaitant miško medynus, žemės: miestuose – 6 arai, miesteliuose – 25 arai, kaimuose – 6 hektarai. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
+ 
 
 
 
@@ -1211,7 +1275,7 @@ Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 
 
 
-22) gautos dovanų, paveldėtos arba kitos faktiškai gaunamos piniginės lėšos (išskyrus piniginių lėšų dalį, gautą per laikotarpį, už kurį pajamos apskaičiuojamos, neviršijančią 1 valstybės remiamų pajamų dydžio, ir pinigines lėšas, kuriomis kompensuojamos patirtos ir dokumentais pagrįstos su visuomenei naudinga veikla (savanoriška veikla ir pan.) susijusios išlaidos, ir labdarą piniginėmis lėšomis). 
+22) gautos dovanų, paveldėtos arba kitos faktiškai gaunamos piniginės lėšos (išskyrus piniginių lėšų dalį, gautą per laikotarpį, už kurį pajamos apskaičiuojamos, neviršijančią 1 valstybės remiamų pajamų dydžio, ir pinigines lėšas, kuriomis kompensuojamos patirtos ir dokumentais pagrįstos su visuomenei naudinga veikla (savanoriška veikla ir pan.) susijusios išlaidos, ir labdarą piniginėmis lėšomis); 
 Straipsnio punkto pakeitimai:
 Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
  
@@ -1219,48 +1283,60 @@ Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 
 
 
-
-
-2. Apskaičiuojant šio straipsnio 1 dalyje nurodytas vidutines mėnesio pajamas, į bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamas neįskaitoma šio straipsnio 1 dalies 1, 7 ir 71 punktuose nurodytų pajamų dalis:
-
-
-1) 15 procentų – bendrai gyvenantiems asmenims, neauginantiems vaikų (įvaikių), arba vienam gyvenančiam asmeniui;
-
-
-
-
-2) 20 procentų – bendrai gyvenantiems asmenims, auginantiems vieną ar du vaikus (įvaikius);
-
-
-
-
-3) 25 procentai – bendrai gyvenantiems asmenims, auginantiems tris ar daugiau vaikų (įvaikių);
-
-
-
-
-4) 30 procentų – asmenims, vieniems auginantiems vieną ar du vaikus (įvaikius);
-
-
-
-
-5) 35 procentai – asmenims, vieniems auginantiems tris ar daugiau vaikų (įvaikių). 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-1733, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20995
-Nr. XIII-2262, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10931
+23) nedarbo socialinio draudimo išmoka, mokama pagal Lietuvos Respublikos nedarbo socialinio draudimo įstatymą, darbo paieškos išmoka, mokama pagal Užimtumo įstatymą. 
+23 punkto redakcija nuo 2021-01-01:
+23) nedarbo socialinio draudimo išmoka, mokama pagal Lietuvos Respublikos nedarbo socialinio draudimo įstatymą;.
+Papildyta straipsnio punktu:
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
  
 
 
 
 
-3. Nustatant šio straipsnio 1 dalies 1, 7 ir 71 punktuose nurodytų neįskaitomų pajamų dalį, vyresni kaip 18 metų vaikai (įvaikiai) įskaitomi į bendrai gyvenančių asmenų sudėtį pagal šio įstatymo 2 straipsnio 2 dalį. 
+
+
+2. Apskaičiuojant šio straipsnio 1 dalyje nurodytas vidutines mėnesio pajamas, į bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamas neįskaitoma šio straipsnio 1 dalies 1, 7, 71 ir 23 punktuose nurodytų pajamų dalis:
+
+
+1) 20 procentų – bendrai gyvenantiems asmenims, neauginantiems vaikų (įvaikių), arba vienam gyvenančiam asmeniui;
+
+
+
+
+2) 25 procentai – bendrai gyvenantiems asmenims, auginantiems vieną ar du vaikus (įvaikius);
+
+
+
+
+3) 30 procentų – bendrai gyvenantiems asmenims, auginantiems tris ar daugiau vaikų (įvaikių);
+
+
+
+
+4) 35 procentai – asmenims, vieniems auginantiems vieną ar du vaikus (įvaikius);
+
+
+
+
+5) 40 procentų – asmenims, vieniems auginantiems tris ar daugiau vaikų (įvaikių). 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-1733, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20995
+Nr. XIII-2262, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10931
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
+ 
+
+
+
+
+3. Nustatant šio straipsnio 1 dalies 1, 7, 71 ir 23 punktuose nurodytų neįskaitomų pajamų dalį, vyresni kaip 18 metų vaikai (įvaikiai) įskaitomi į bendrai gyvenančių asmenų sudėtį pagal šio įstatymo 2 straipsnio 2 dalį. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 Straipsnio dalies pakeitimai:
 Nr. XIII-1733, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20995
 Nr. XIII-2262, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10931
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
  
 
 
@@ -1912,7 +1988,9 @@ Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 3. Patikrinus bendrai gyvenančių asmenų arba vieno gyvenančio asmens gyvenimo sąlygas ir surašius buities ir gyvenimo sąlygų patikrinimo aktą, savivaldybės administracijai suteikiama teisė savivaldybės tarybos nustatyta tvarka:
 
 
-1) skirti socialinę pašalpą, jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra mažesnės kaip valstybės remiamos pajamos bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 6 straipsnio 2 punkte nustatytų reikalavimų; 
+1) skirti socialinę pašalpą, jeigu vieno iš bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra mažesnės kaip 1,1 valstybės remiamų pajamų dydžio, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 6 straipsnio 2 punkte nustatyto reikalavimo; 
+3 dalies 1 punkto redakcija, įsigaliojanti kitą dieną po to, kai sueina 6 mėnesiai, kai buvo atšaukta Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta ekstremalioji situacija ir Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbtas karantinas, arba kai sueina jų paskelbimo terminai:
+1) skirti socialinę pašalpą, jeigu vieno iš bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra mažesnės kaip 1,1 valstybės remiamų pajamų dydžio, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 6 straipsnio 1 ar 3 punkte nustatytų reikalavimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
  
@@ -1948,7 +2026,12 @@ Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 
 
 
-6) skirti socialinę pašalpą, jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį ne daugiau kaip 50 procentų viršija valstybės remiamų pajamų dydį ir bendrai gyvenantys asmenys arba vienas gyvenantis asmuo atitinka šio įstatymo 6 straipsnio 1 ir 3 punktuose nustatytus reikalavimus: vienam gyvenančiam asmeniui ir dviem bendrai gyvenantiems asmenims – 25 procentų valstybės remiamų pajamų dydžio; trims ir keturiems bendrai gyvenantiems asmenims – 50 procentų valstybės remiamų pajamų dydžio; penkiems ir daugiau bendrai gyvenantiems asmenims – 70 procentų valstybės remiamų pajamų dydžio;
+6) skirti socialinę pašalpą, jeigu vieno iš bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra lygios 1,1 valstybės remiamų pajamų dydžio arba bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį ne daugiau kaip 50 procentų viršija 1,1 valstybės remiamų pajamų dydžio, arba apskaičiuota socialinė pašalpa yra mažesnė už šio įstatymo 22 straipsnio 9 dalyje nustatytą dydį ir bendrai gyvenantys asmenys arba vienas gyvenantis asmuo atitinka šio įstatymo 6 straipsnio 2 punkte nustatytą reikalavimą: vienam gyvenančiam asmeniui ir dviem bendrai gyvenantiems asmenims – 25 procentų valstybės remiamų pajamų dydžio; trims ir keturiems bendrai gyvenantiems asmenims – 50 procentų valstybės remiamų pajamų dydžio; penkiems ir daugiau bendrai gyvenančių asmenų – 70 procentų valstybės remiamų pajamų dydžio; 
+3 dalies 6 punkto redakcija, įsigaliojanti kitą dieną po to, kai sueina 6 mėnesiai, kai buvo atšaukta Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimu Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ paskelbta ekstremalioji situacija ir Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimu Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ paskelbtas karantinas, arba kai sueina jų paskelbimo terminai:
+6) skirti socialinę pašalpą, jeigu vieno iš bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra lygios 1,1 valstybės remiamų pajamų dydžio arba bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį ne daugiau kaip 50 procentų viršija 1,1 valstybės remiamų pajamų dydžio, arba apskaičiuota socialinė pašalpa yra mažesnė už šio įstatymo 22 straipsnio 9 dalyje nustatytą dydį ir bendrai gyvenantys asmenys arba vienas gyvenantis asmuo atitinka šio įstatymo 6 straipsnio 1 ir 3 punktuose nustatytus reikalavimus: vienam gyvenančiam asmeniui ir dviem bendrai gyvenantiems asmenims – 25 procentų valstybės remiamų pajamų dydžio; trims ir keturiems bendrai gyvenantiems asmenims – 50 procentų valstybės remiamų pajamų dydžio; penkiems ir daugiau bendrai gyvenančių asmenų – 70 procentų valstybės remiamų pajamų dydžio;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
+ 
 
 
 
