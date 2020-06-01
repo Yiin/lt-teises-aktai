@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-05-07 iki 2020-05-31
+Suvestinė redakcija nuo 2020-06-01 iki 2020-06-25
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -69,6 +69,14 @@ Nr. XI-2093, 2012-06-21, Žin., 2012, Nr. 76-3936 (2012-06-30)
 
 
 
+11. Bandomoji energetikos inovacijų aplinka – visuma priemonių, kurios asmenims leidžia realioje aplinkoje laikinai diegti ir išbandyti naudą visuomenei teikiančias energetikos inovacijas, ribojant tokios asmenų veiklos mastą ir taikant kitas vartotojų ir visuomenės interesų apsaugos priemones. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
+ 
+
+
+
+
 2. Buitinis energijos vartotojas (toliau – buitinis vartotojas) – fizinis asmuo, perkantis energiją asmeniniams, šeimos ar namų ūkio poreikiams, nesusijusiems su ūkine komercine ar profesine veikla.
 
 
@@ -90,6 +98,14 @@ Nr. XI-2093, 2012-06-21, Žin., 2012, Nr. 76-3936 (2012-06-30)
 
 
 6. Energetika – valstybės ūkio šaka, apimanti energetikos veiklą.
+
+
+
+
+61. Energetikos inovacijos – nauji ar iš esmės patobulinti produktai, technologijos, verslo sprendimai, paslaugos, tokių produktų ir paslaugų teikimo būdai, veiklos modeliai, kurie dėl naujų ar naujai pritaikytų technologijų arba dėl kitų priežasčių gali teigiamai veikti energetikos veiklą ir teikti naudą visuomenei. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
+ 
 
 
 
@@ -435,7 +451,10 @@ ENERGETIKOS VEIKLOS VALDYMAS
 
 
 
-4) darni ir tvari energetikos sektoriaus plėtra;
+4) darni ir tvari energetikos sektoriaus plėtra, diegiant energetikos inovacijas, paremtas išmaniosiomis technologijomis, energetikos skaitmeninimu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
+ 
 
 
 
@@ -1181,7 +1200,26 @@ Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-32) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas.
+32) nustato asmenų prašymų leisti veikti bandomojoje energetikos inovacijų aplinkoje pateikimo ir nagrinėjimo bei veiklos bandomojoje energetikos inovacijų aplinkoje vykdymo tvarką; 
+Papildyta straipsnio punktu:
+Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
+ 
+
+
+
+
+33) skatina energetikos inovacijas, savo leidžiamuose teisės aktuose nustatydama energetikos inovacijų kriterijus ir šioms inovacijoms plėtoti palankias taisykles, skatinimo mechanizmus energetikos įmonėms ir kitiems asmenims; 
+Papildyta straipsnio punktu:
+Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
+ 
+
+
+
+
+34) atlieka kitas šio ir kitų įstatymų nustatytas funkcijas. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
+ 
 
 
 
@@ -1455,7 +1493,10 @@ Nr. XIII-2085, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07395
 
 
 
-12) atlieka, peržiūri ir (ar) atnaujina Lietuvos Respublikos teritorinės jūros, Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje tyrimus ir kitus veiksmus, kurie reikalingi Vyriausybės nutarimui dėl Lietuvos Respublikos teritorinės jūros ir (ar) Lietuvos Respublikos išskirtinės ekonominės zonos Baltijos jūroje dalių, kuriose tikslinga organizuoti konkursą (konkursus) atsinaujinančius energijos išteklius naudojančių elektrinių plėtrai ir eksploatacijai, ir dėl atsinaujinančius energijos išteklius naudojančių elektrinių įrengtųjų galių nustatymo priimti; 
+12) neteko galios 2020-06-01; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
+ 
 
 
 
@@ -1799,6 +1840,84 @@ Nr. XIII-2174, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09947
 
 
 
+181 straipsnis. Veikla bandomojoje energetikos inovacijų aplinkoje
+
+
+1. Bandomoji energetikos inovacijų aplinka yra skirta energetikos inovacijų diegimui Lietuvos energetikos sektoriuje palengvinti. Asmenys Tarybos nustatyta tvarka laikinai turi teisę veikti bandomojoje energetikos inovacijų aplinkoje. 
+
+
+
+
+2. Taryba, atlikdama asmenų, veikiančių bandomojoje energetikos inovacijų aplinkoje, priežiūrą ir juos konsultuodama, siekia iš anksto įvertinti galimą energetikos inovacijų įtaką vartotojams ir energetikos sektoriui, nustatyti su energetikos inovacijų diegimu susijusius galimus energetikos veiklos reguliavimo trūkumus ir pagal savo kompetenciją tokius reguliavimo trūkumus ir galimą neigiamą energetikos inovacijų diegimo įtaką panaikina arba sumažina, jeigu energetikos inovacijų diegimas bandomojoje energetikos inovacijų aplinkoje pasiteisina. Taryba vertina, ar inovacijų diegimas bandomojoje energetikos inovacijų aplinkoje pasiteisina, vadovaudamasi Asmenų prašymų leisti veikti bandomojoje energetikos inovacijų aplinkoje pateikimo ir nagrinėjimo bei veiklos bandomojoje energetikos inovacijų aplinkoje vykdymo tvarkos aprašu. 
+
+
+
+
+3. Tarybos sprendimu teisę veikti bandomojoje energetikos inovacijų aplinkoje turi asmenys, kai jų siekiama bandyti energetikos inovacija atitinka šiuos kriterijus: 
+
+
+1) energetikos inovacija, jeigu būtų įgyvendinta, leistų vartotojams ir (ar) energetikos įmonėms teikti naudingesnes ir (ar) patogesnes paslaugas;
+
+
+
+
+2) energetikos inovacijos bandymas realioje aplinkoje objektyviai yra reikalingas ir gali prisidėti prie to, kad energetikos inovacija būtų įgyvendinta;
+
+
+
+
+3) energetikos inovacija turėtų pritaikymo ir diegimo galimybes Lietuvos Respublikoje;
+
+
+
+
+4) Tarybos nustatytus kitus kriterijus.
+
+
+
+
+
+
+4. Veiklos bandomojoje energetikos inovacijų aplinkoje metu asmeniui Taryba taiko šias priemones:
+
+
+1) aktyvaus asmenų konsultavimo. Taryba siekia bendradarbiauti su asmeniu, savo iniciatyva ar asmens prašymu teikia konsultacijas Tarybos kompetencijai priskirtais klausimais;
+
+
+
+
+2) energetikos veiklą reglamentuojančiuose teisės aktuose nustatytų išimčių taikymo;
+
+
+
+
+3) sankcijų ir papildomų priežiūros priemonių netaikymo. Taryba turi teisę asmeniui netaikyti teisės aktuose nustatytų sankcijų ir papildomų priežiūros priemonių dėl tų asmens veiksmų ir dėl tų veiksmų kilusių padarinių, kurie išimtinai susiję su to asmens veikla ir (ar) neveikimu bandomojoje energetikos inovacijų aplinkoje. Sankcijos taikomos tik tada, kai priežiūros tikslų negalima pasiekti kitu būdu; 
+
+
+
+
+4) energetikos inovacijų skatinimo, taikant skatinimo mechanizmus asmenims, vykdantiems reguliuojamąją veiklą.
+
+
+
+
+
+
+5. Taryba ir kitos valstybės institucijos bendradarbiauja ir keičiasi informacija, kuri reikalinga Tarybai ir kitoms valstybės institucijoms konsultuojant bandomojoje energetikos inovacijų aplinkoje veikiančius asmenis ir vykdant kitas su jais susijusias teisės aktuose nustatytas funkcijas.
+
+
+
+
+6. Asmenys, vadovaudamiesi energetikos veiklą reglamentuojančiuose teisės aktuose nustatytais reikalavimais, turi teisę pradėti veiklą, susijusią su energetikos inovacijų diegimu, arba jau vykdydami tokią veiklą pradėti diegti energetikos inovacijas, nesinaudodami bandomąja energetikos inovacijų aplinka. Tokiu atveju nėra taikomos šio straipsnio 4 dalyje numatytos priemonės. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
+ 
+
+
+
+
 
 
 KETVIRTASIS SKIRSNIS
@@ -1814,15 +1933,24 @@ ENERGETIKOS SEKTORIAUS REGULIAVIMAS
 
 
 
-2. Nustatant valstybės reguliuojamas kainas, turi būti numatytos būtinos energijos išteklių gavybos, energijos gamybos, pirkimo, perdavimo, skirstymo, tiekimo ir šio įstatymo 8 straipsnio 18 dalyje numatytos išlaidos, įvertinta protingumo kriterijus atitinkanti investicijų grąža ir (ar) nuosavybės grąža, taip pat gali būti atsižvelgiama į energetikos sektoriaus plėtrą ir energijos efektyvumą, viešuosius interesus atitinkančių paslaugų teikimą. 
+2. Nustatant valstybės reguliuojamas kainas, turi būti numatytos būtinos energijos išteklių gavybos, energijos gamybos, pirkimo, perdavimo, skirstymo, tiekimo ir šio įstatymo 8 straipsnio 18 dalyje numatytos išlaidos, įvertinta protingumo kriterijus atitinkanti investicijų grąža ir (ar) nuosavybės grąža, taip pat gali būti atsižvelgiama į energetikos sektoriaus plėtrą ir energijos efektyvumą, viešuosius interesus atitinkančių paslaugų teikimą. Energetikos įmonėms, diegiant energetikos inovacijas, su šia veikla susijusios išlaidos pripažįstamos pagrįstomis, vadovaujantis Tarybos nustatyta tvarka, atsižvelgiant į vartotojų interesus, kad inovacijomis būtų siekiama energetikos sektoriaus efektyvumo, lankstumo ir tvarumo. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1968, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03166
+Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
  
 
 
 
 
 3. Valstybės reguliuojamos kainos turi būti skelbiamos viešai ne vėliau kaip prieš mėnesį iki jų taikymo pradžios, jeigu kituose įstatymuose nenustatyta kitaip, ir taikomos nuo mėnesio pirmos dienos.
+
+
+
+
+31. Energetikos įmonės prie su energetikos inovacijų plėtojimu susijusių išlaidų ne mažesne dalimi, negu skyrė Taryba šio straipsnio 2 dalyje nustatyta tvarka, turi prisidėti ir iš nuosavų lėšų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
+ 
 
 
 Straipsnio pakeitimai:
