@@ -22,6 +22,10 @@ EUROPOS SĄjUNgOS VALSTYBIŲ NARIŲ IR ISLANDIjOS BEI
 
 
 
+Suvestinė redakcija nuo 2020-06-02 iki 2022-12-31
+ 
+Įstatymas paskelbtas: Žin. 2008, Nr. 59-2199, i. k. 1081010ISTA00X-1526
+ 
 LIETUVOS RESPUBLIKOS  ĮSTATYMAS 
  
 DĖL EUROPOS SĄJUNGOS IR ISLANDIJOS RESPUBLIKOS BEI NORVEGIJOS KARALYSTĖS SUSITARIMO DĖL PERDAVIMO TVARKOS TARP EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ IR ISLANDIJOS BEI NORVEGIJOS RATIFIKAVIMO
@@ -55,7 +59,10 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 
 
 
-3. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 9 straipsnio 3 dalimi, pareiškia, kad išduodančiomis teisminėmis institucijomis pagal Susitarimo 9 straipsnio 1 dalį paskiriamos Lietuvos Respublikos teisingumo ministerija ir Lietuvos Respublikos generalinė prokuratūra, vykdančiąja teismine institucija pagal Susitarimo 9 straipsnio 2 dalį paskiriamas Vilniaus apygardos teismas.
+3. Lietuvos Respublikos Seimas, vadovaudamasis Susitarimo 9 straipsnio 3 dalimi, pareiškia, kad išduodančiomis teisminėmis institucijomis pagal Susitarimo 9 straipsnio 1 dalį paskiriami apygardos teismas pagal apkaltinamąjį nuosprendį, kuriuo paskiriama laisvės atėmimo bausmė, ar nutartį panaikinti bausmės vykdymo atidėjimą arba nutartį dėl lygtinai iš pataisos įstaigos paleisto asmens pasiuntimo į pataisos įstaigą atlikti likusios laisvės atėmimo bausmės priėmusio teismo veiklos teritoriją ir Lietuvos Respublikos generalinė prokuratūra, o vykdančiąja teismine institucija pagal Susitarimo 9 straipsnio 2 dalį paskiriamas Vilniaus apygardos teismas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2979, 2020-05-21, paskelbta TAR 2020-06-01, i. k. 2020-11740
+ 
 
 
 
@@ -77,4 +84,16 @@ Skelbiu šį Lietuvos Respublikos seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS
+ 
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2979, 2020-05-21, paskelbta TAR 2020-06-01, i. k. 2020-11740
+Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos ir Islandijos Respublikos bei Norvegijos Karalystės susitarimo dėl perdavimo tvarkos tarp Europos Sąjungos valstybių narių ir Islandijos bei Norvegijos ratifikavimo“ Nr. X-1526 2 straipsnio pakeitimo įstatymas
