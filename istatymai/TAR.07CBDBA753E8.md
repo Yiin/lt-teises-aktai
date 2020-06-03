@@ -13,6 +13,10 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.07CBDBA753E8"
 
 # Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 4, 5, 6 straipsnių papildymo ir pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2020-06-03
+ 
+Įstatymas paskelbtas: Žin. 1998, Nr. 98-2711, i. k. 0981010ISTAVIII-909
+ 
 LIETUVOS RESPUBLIKOS
 MOKSLININKŲ VALSTYBINIŲ PENSIJŲ LAIKINOJO ĮSTATYMO 4, 5, 6 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO
 ĮSTATYMAS
@@ -97,15 +101,18 @@ Lietuvos Respublikos pilietybę turinčių politinių kalinių ir tremtinių, ku
 
 
 Mokslininkų valstybinių pensijų skyrimo, mokėjimo ir pristatymo išlaidos valstybinio socialinio draudimo fondui apmokamos iš valstybės biudžeto.“
+TAR pastaba. Pripažinti kad Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 6 straipsnis (1998 m. spalio 22 d. redakcija; Žin., 1998, Nr. 98-2711) (su 2004 m. lapkričio 4 d. pakeitimu; Žin., 2004, Nr. 171-6299) tiek, kiek jame nenustatyta mokslininkų valstybinės pensijos skyrimo iš naujo tvarka tuo atveju, kai asmuo po šios pensijos paskyrimo pradeda dirbti Lietuvos Respublikos valstybinėse mokslo ir studijų institucijose ir įgyja papildomą daktaro arba habilituoto daktaro stažą, prieštarauja konstituciniam teisinės valstybės principui.
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. KT100-N6/2020, 2020-06-03, paskelbta TAR 2020-06-03, i. k. 2020-12128
  
-
-
-
-
-
-
-
-
 
 
 
@@ -127,3 +134,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT100-N6/2020, 2020-06-03, paskelbta TAR 2020-06-03, i. k. 2020-12128
+Dėl Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai
