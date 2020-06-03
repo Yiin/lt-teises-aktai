@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A14C258694ED"
 
 # Lietuvos Respublikos mokslininkų valstybinių pensijų laikinasis įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2020-06-02
+Suvestinė redakcija nuo 2020-06-03 iki 2021-03-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 1-4, i. k. 0941010ISTA000I-732
  
@@ -84,11 +84,13 @@ Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA0
 
 
 Šio straipsnio 1 dalyje nurodytiems asmenims mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama tol, kol jie turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba jeigu jie gauna ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, tėvystės, vaiko priežiūros, profesinės reabilitacijos ar nedarbo socialinio draudimo išmokas. Apie draudžiamųjų pajamų turėjimą mokslininkų valstybinių pensijų gavėjai privalo pranešti pensiją jiems mokančiai institucijai per 10 dienų nuo šių pajamų atsiradimo dienos. Jeigu apie šias pajamas laiku nepranešama ir dėl to permokama pensija, permokėtos pensijos dydis išieškomas iš pensijos gavėjo, neapribojant kokiu nors terminu, Valstybinių socialinio draudimo pensijų įstatymo ir kitų įstatymų nustatyta tvarka. 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 3 straipsnio 2 dalies (2016 m. birželio 29 d. redakcija; TAR, 2016-07-15, Nr. 20652) nuostata „šio straipsnio 1 dalyje nurodytiems asmenims mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama tol, kol jie turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba jeigu jie gauna ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, tėvystės, vaiko priežiūros, profesinės reabilitacijos ar nedarbo socialinio draudimo išmokas“, išskyrus tiek, kiek pagal ją mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama, jeigu asmuo gauna draudžiamųjų pajamų dirbdamas mokslinį darbą Lietuvos Respublikos valstybinėse mokslo ir studijų institucijose, prieštarauja Lietuvos Respublikos Konstitucijos 52 straipsniui, konstituciniam teisinės valstybės principui, o nuostata „šio straipsnio 1 dalyje nurodytiems asmenims mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama tol, kol jie turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos“, išskyrus tiek, kiek pagal ją mokslininkų valstybinė pensija neskiriama, o paskirtoji nemokama, jeigu asmuo gauna draudžiamųjų pajamų dirbdamas mokslinį darbą Lietuvos Respublikos valstybinėse mokslo ir studijų institucijose, prieštarauja ir Lietuvos Respublikos Konstitucijos 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus gali laisvai pasirinkti darbą bei verslą“.
 Straipsnio dalies pakeitimai:
 Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. 1041010ISTA0IX-2539
 Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. 1051010ISTA000X-208
 Nr. X-669, 2006-06-08, Žin., 2006, Nr. 72-2685 (2006-06-28), i. k. 1061010ISTA000X-669
 Nr. XII-2517, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20652
+Nr. KT100-N6/2020, 2020-06-03, paskelbta TAR 2020-06-03, i. k. 2020-12128
  
 
 
@@ -108,6 +110,11 @@ Nr. IX-920, 2002-05-30, Žin., 2002, Nr. 60-2414 (2002-06-19), i. k. 1021010ISTA
 
 
 Daktaro stažą sudaro asmens mokslinio darbo Lietuvos Respublikos valstybinėse mokslo ir studijų institucijose laikas nuo daktaro laipsnio suteikimo dienos, o habilituoto daktaro stažą – mokslinio darbo minėtose institucijose laikas nuo habilituoto daktaro laipsnio suteikimo dienos, bet abiem atvejais ne ilgiau negu tam asmeniui sukaks 65 metai. Laikas, kuriuo asmuo gauna mokslininkų valstybinę pensiją, į daktaro ir habilituoto daktaro stažą neįskaitomas.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo (1994 m. gruodžio 22 d. redakcija; Žin., 1995, Nr. 1-4) 4 straipsnio 1 dalies nuostata „daktaro stažą sudaro asmens mokslinio darbo Lietuvos Respublikos valstybinėse mokslo ir studijų institucijose laikas nuo daktaro laipsnio suteikimo dienos, o habilituoto daktaro stažą – mokslinio darbo minėtose institucijose laikas nuo habilituoto daktaro laipsnio suteikimo dienos, bet abiem atvejais ne ilgiau negu tam asmeniui sukaks 65 metai“ tiek, kiek joje nustatyta, kad daktaro arba habilituoto daktaro stažą sudaro asmens mokslinio darbo Lietuvos Respublikos valstybinėse mokslo ir studijų institucijose laikas iki tam asmeniui sukaks 65 metai, prieštarauja Lietuvos Respublikos Konstitucijos 29, 52 straipsniams.
+Pripažinti, kad Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo (1994 m. gruodžio 22 d. redakcija; Žin., 1995, Nr. 1-4) 4 straipsnio 1 dalies nuostata „laikas, kuriuo asmuo gauna mokslininkų valstybinę pensiją, į daktaro ir habilituoto daktaro stažą neįskaitomas“ prieštarauja konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT100-N6/2020, 2020-06-03, paskelbta TAR 2020-06-03, i. k. 2020-12128
+ 
 
 
 
@@ -164,13 +171,12 @@ Lietuvos Respublikos pilietybę turinčių politinių kalinių ir tremtinių, ku
 
 
 Mokslininkų valstybinių pensijų skyrimo, mokėjimo ir pristatymo išlaidos valstybiniam socialinio draudimo fondui apmokamos iš valstybės biudžeto.
-Straipsnio dalies pakeitimai:
-Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. 1041010ISTA0IX-2539
- 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 6 straipsnis (1998 m. spalio 22 d. redakcija; Žin., 1998, Nr. 98-2711) (su 2004 m. lapkričio 4 d. pakeitimu; Žin., 2004, Nr. 171-6299) tiek, kiek jame nenustatyta mokslininkų valstybinės pensijos skyrimo iš naujo tvarka tuo atveju, kai asmuo po šios pensijos paskyrimo pradeda dirbti Lietuvos Respublikos valstybinėse mokslo ir studijų institucijose ir įgyja papildomą daktaro arba habilituoto daktaro stažą, prieštarauja konstituciniam teisinės valstybės principui.
 
 
 Straipsnio pakeitimai:
 Nr. VIII-909, 1998-10-22, Žin., 1998, Nr. 98-2711 (1998-11-11), i. k. 0981010ISTAVIII-909
+Nr. KT100-N6/2020, 2020-06-03, paskelbta TAR 2020-06-03, i. k. 2020-12128
  
 
 
@@ -201,7 +207,7 @@ Jei asmeniui iki šio įstatymo įsigaliojimo paskirta mokslininkų renta yra di
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
  
  
 
@@ -249,3 +255,8 @@ Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo 3 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2517, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20652
 Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo Nr. I-732 3 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT100-N6/2020, 2020-06-03, paskelbta TAR 2020-06-03, i. k. 2020-12128
+Dėl Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai
