@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-09
+Suvestinė redakcija nuo 2020-06-10 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
  
@@ -1786,7 +1786,9 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 
 
 TREČIASIS SKIRSNIS
-LEIDIMŲ ATIDARYTI AUTOMATŲ, BINGO SALONUS, LOŠIMO NAMUS (KAZINO) IŠDAVIMAS, JŲ PAPILDYMAS ARBA PAKEITIMAS IR GALIOJIMO PANAIKINIMAS
+LEIDIMŲ ATIDARYTI AUTOMATŲ, BINGO SALONUS, LOŠIMO NAMUS (KAZINO) IŠDAVIMAS, JŲ PAPILDYMAS AR PAKEITIMAS, GALIOJIMO SUSTABDYMAS AR PANAIKINIMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-3009, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12615
  
 
 
@@ -1907,6 +1909,24 @@ Nr. IX-1193, 2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
 Nr. XI-1578, 2011-09-15, Žin., 2011, Nr. 119-5611 (2011-10-01)
 Straipsnio pakeitimai:
 Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
+ 
+
+
+
+
+211 straipsnis. Leidimų atidaryti automatų ar bingo salonus arba lošimo namus (kazino) galiojimo sustabdymas
+
+
+1. Jeigu paskelbus nepaprastąją padėtį ar valstybės lygio ekstremaliąją situaciją, ar karantiną visoje Lietuvos Respublikos teritorijoje nustatytų ribojimų laikotarpiu draudžiama leidimus atidaryti automatų ar bingo salonus arba lošimo namus (kazino) turinčių bendrovių leidimuose nurodyta lošimų veikla, leidimų atidaryti automatų ar bingo salonus arba lošimo namus (kazino) galiojimas sustabdomas automatiškai nuo nustatytų ribojimų įsigaliojimo dienos iki jų panaikinimo dienos.
+
+
+
+
+2. Apie automatišką leidimų atidaryti automatų ar bingo salonus arba lošimo namus (kazino) galiojimo sustabdymą ir galiojimo sustabdymo panaikinimą Priežiūros tarnyba ne vėliau kaip per 3 darbo dienas nuo automatiško leidimų galiojimo sustabdymo ir galiojimo sustabdymo panaikinimo dienos informuoja teritorines valstybines mokesčių inspekcijas, kurių aptarnaujamose teritorijose yra registruotos leidimus turinčios bendrovės. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3009, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12615
  
 
 
@@ -2811,3 +2831,8 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 15 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2745, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21565
 Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 10 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3009, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12615
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas
