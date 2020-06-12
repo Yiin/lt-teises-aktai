@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.074B2F6259F9"
 
 # Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2020-06-11
+Suvestinė redakcija nuo 2020-06-12 iki 2020-07-29
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 47-1747, i. k. 1081010ISTA00X-1478
  
@@ -879,14 +879,18 @@ b) leisti teikti paslaugas.
 
 
 
-11. Jeigu kompetentinga institucija nustato esminį skirtumą tarp paslaugos teikėjo profesinės kvalifikacijos ir Lietuvos Respublikoje nustatytų rengimo reikalavimų ir to skirtumo negali kompensuoti kompetentingos institucijos tuo tikslu oficialiai patvirtinta paslaugos teikėjo profesinė patirtis arba visą gyvenimą trunkančio mokymosi metu įgytos žinios, įgūdžiai ir kompetencijos, o dėl šio skirtumo gali būti padaryta žalos visuomenės sveikatai ar saugai, paslaugos teikėjui suteikiama galimybė įrodyti profesinio tinkamumo testu, kaip nurodyta šio straipsnio 9 dalies 2 punkto a papunktyje, kad jis įgijo trūkstamų žinių, įgūdžių ar kompetencijų. Tuo remdamasi Lietuvos Respublikos kompetentinga institucija priima sprendimą leisti arba neleisti teikti paslaugas. 
+11. Paslaugą galima pradėti teikti nuo šio straipsnio 9 dalies 1 punkte ir 2 punkto b papunktyje nurodytų sprendimų priėmimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
+ 
 
 
 
 
-12. Paslaugą galima pradėti teikti per vieną mėnesį nuo šio straipsnio 9 dalyje nurodytų sprendimų priėmimo dienos. 
+12. Jeigu kompetentinga institucija nustato esminį skirtumą tarp paslaugos teikėjo profesinės kvalifikacijos ir Lietuvos Respublikoje nustatytų rengimo reikalavimų ir to skirtumo negali kompensuoti kompetentingos institucijos tuo tikslu oficialiai patvirtinta paslaugos teikėjo profesinė patirtis arba visą gyvenimą trunkančio mokymosi metu įgytos žinios, įgūdžiai ir kompetencijos, o dėl šio skirtumo gali būti padaryta žalos visuomenės sveikatai ar saugai, paslaugos teikėjui suteikiama galimybė įrodyti profesinio tinkamumo testu, kaip nurodyta šio straipsnio 9 dalies 2 punkto a papunktyje, kad jis įgijo trūkstamų žinių, įgūdžių ar kompetencijų. Paslaugos teikėjui profesinio tinkamumo testo laikymas ir perlaikymas turi būti surengti taip, kad jis turėtų galimybę teikti paslaugas kuo anksčiau, bet ne vėliau kaip per vieną mėnesį nuo šio straipsnio 9 dalies 2 punkto a papunktyje nurodyto sprendimo priėmimo dienos. Tuo remdamasi Lietuvos Respublikos kompetentinga institucija priima sprendimą leisti arba neleisti teikti paslaugas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2240, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10363
+Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
  
 
 
@@ -12542,3 +12546,8 @@ Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 1, 2, 3, 5, 9, 12, 15, 21, 50, 51, 58, 59, 63, 64 straipsnių, 6 priedo pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
+Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 9, 58, 59 straipsnių, 6 priedo pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
