@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E39827DBDE34"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-02-01 iki 2020-06-11
+Suvestinė redakcija nuo 2020-06-12 iki 2020-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 253-0; Žin. 1993, Nr.2-29, i. k. 0921010ISTA0000I-28
  
@@ -46,39 +46,20 @@ Respublikos Prezidentą renka Lietuvos Respublikos piliečiai penkeriems metams,
 
 3 straipsnis. Duomenys apie ryšius su užsienio specialiosiomis tarnybomis (struktūromis)
 
-1. Pretendentas būti kandidatu į Respublikos Prezidentus, kai Lietuvos Respublikos vyriausioji rinkimų komisija priima sprendimą išduoti jam rinkėjų parašų rinkimo lapus, privalo iki įregistravimo kandidatu į Respublikos Prezidentus pateikti Vyriausiajai rinkimų komisijai duomenis apie savo darbą SSRS ar buvusių sovietinių respublikų NKVD, NKGB, MGB, KGB ir kitų užsienio valstybių atitinkamose tarnybose (struktūrose), apie mokymąsi šių tarnybų (struktūrų) mokyklose ar apie bendradarbiavimą su šiomis tarnybomis (struktūromis). Šiuos duomenis pretendentas būti kandidatu į Respublikos Prezidentus įrašo duomenų anketoje. Joje turi būti nurodyta: tarnybos (struktūros) pavadinimas ir pavaldumas, asmens pareigos, laipsnis, rangas ir funkcijos, darbo ar mokslo laikas ir vieta, apdovanojimai. Duomenų anketos formą nustato Vyriausioji rinkimų komisija. Jeigu pretendentas būti kandidatu į Respublikos Prezidentus duomenų anketoje pateikia šioje dalyje nurodytus duomenis, Vyriausioji rinkimų komisija savo interneto svetainėje privalo anketos duomenis (vardą, pavardę, kitus šioje dalyje nurodytus duomenis) paskelbti per 24 valandas nuo anketos pateikimo. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2784, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02276
- 
+1. Pretendentas būti kandidatu į Respublikos Prezidentus po to, kai Lietuvos Respublikos vyriausioji rinkimų komisija priima sprendimą išduoti jam rinkėjų parašų rinkimo lapus, privalo iki įregistravimo kandidatu į Respublikos Prezidentus pateikti Vyriausiajai rinkimų komisijai duomenis apie savo darbą SSRS ar buvusių sovietinių respublikų NKVD, NKGB, MGB, KGB ir kitų užsienio valstybių atitinkamose tarnybose (struktūrose), apie mokymąsi šių tarnybų (struktūrų) mokyklose ar apie bendradarbiavimą su šiomis tarnybomis (struktūromis). Šiuos duomenis pretendentas būti kandidatu į Respublikos Prezidentus įrašo duomenų anketoje. Joje turi būti nurodyta: tarnybos (struktūros) pavadinimas ir pavaldumas, asmens pareigos, laipsnis, rangas ir funkcijos, darbo ar mokslo laikas ir vieta, apdovanojimai. Duomenų anketos formą nustato Vyriausioji rinkimų komisija. Jeigu pretendentas būti kandidatu į Respublikos Prezidentus duomenų anketoje pateikia šioje dalyje nurodytus duomenis, Vyriausioji rinkimų komisija privalo anketos duomenis (vardą, pavardę, kitus šioje dalyje nurodytus duomenis) paskelbti savo interneto svetainėje per 24 valandas nuo anketos pateikimo.
 
-2. Jeigu pretendentas būti kandidatu į Respublikos Prezidentus iki įregistravimo kandidatu į Respublikos Prezidentus nepateikė Vyriausiajai rinkimų komisijai užpildytos duomenų anketos, Vyriausioji rinkimų komisija apie tai viešai paskelbia ne vėliau kaip per 24 valandas po to, kai asmuo įregistruotas kandidatu į Respublikos Prezidentus.
+2. Jeigu pretendentas būti kandidatu į Respublikos Prezidentus iki įregistravimo kandidatu į Respublikos Prezidentus nepateikė Vyriausiajai rinkimų komisijai užpildytos duomenų anketos, Vyriausioji rinkimų komisija apie tai savo interneto svetainėje paskelbia ne vėliau kaip per 24 valandas nuo asmens įregistravimo kandidatu į Respublikos Prezidentus.
 
-3. Apie savo darbą, mokymąsi ar bendradarbiavimą su šio straipsnio 1 dalyje nurodytomis tarnybomis (struktūromis) kandidatas į Respublikos Prezidentus privalo skelbti savo kiekvienoje vaizdo ar garso agitacinėje rinkimų medžiagoje.
+3. Apie savo darbą, mokymąsi šio straipsnio 1 dalyje nurodytose tarnybose (struktūrose) ar bendradarbiavimą su jomis kandidatas į Respublikos Prezidentus privalo skelbti kiekvienoje savo vaizdo ar garso agitacinėje rinkimų medžiagoje.
 
-4. Jeigu Vyriausioji rinkimų komisija gauna raštu informaciją, kad duomenų anketoje pateikti duomenys yra neteisingi, nuslėpti ar kad nepateikta užpildyta anketa, taip pat kad pretendentas būti kandidatu į Respublikos Prezidentus ar kandidatas į Respublikos Prezidentus dirbo, mokėsi šio straipsnio 1 dalyje nurodytose tarnybose (struktūrose) ar bendradarbiavo su jomis, ir nustato, kad apie tai nėra įrašyta duomenų anketoje, per 48 valandas privalo pretendentą būti kandidatu į Respublikos Prezidentus ar kandidatą į Respublikos Prezidentus supažindinti su gauta informacija ir pasiūlyti jam pateikti paaiškinimus. 
+4. Vyriausioji rinkimų komisija kreipiasi į Lietuvos Respublikos instituciją, saugančią duomenis apie asmenų darbą, mokymąsi ar bendradarbiavimą su SSRS ar buvusių sovietinių respublikų NKVD, NKGB, MGB, KGB tarnybomis (struktūromis), ir iki pretendento būti kandidatu į Respublikos Prezidentus įregistravimo kandidatu į Respublikos Prezidentus šiuo aspektu patikrina duomenis apie pretendentą būti kandidatu į Respublikos Prezidentus. 
 
-5. Jeigu pretendentas būti kandidatu į Respublikos Prezidentus ar kandidatas į Respublikos Prezidentus sutinka su Vyriausiosios rinkimų komisijos gauta informacija, jis turi nedelsdamas papildomai įrašyti šią informaciją į savo duomenų anketą, o jeigu duomenų anketa nebuvo užpildyta, – ją užpildyti ir įrašyti nurodytą informaciją. Vyriausioji rinkimų komisija savo interneto svetainėje ne vėliau kaip per 24 valandas privalo paskelbti pretendento būti kandidatu į Respublikos Prezidentus ar kandidato į Respublikos Prezidentus vardą, pavardę ir šio straipsnio 1 dalyje nurodytos anketos duomenis apie jo ryšius su buvusios SSRS specialiosiomis tarnybomis (struktūromis). 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2784, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02276
- 
+5. Paaiškėjus, kad pretendentas būti kandidatu į Respublikos Prezidentus arba kandidatas į Respublikos Prezidentus dirbo, mokėsi šio straipsnio 1 dalyje nurodytose tarnybose (struktūrose) ar bendradarbiavo su jomis ir to nenurodė duomenų anketoje, Vyriausioji rinkimų komisija jo neregistruoja kandidatu į Respublikos Prezidentus, o jeigu buvo įregistravusi, nedelsdama panaikina jo registravimą kandidatu į Respublikos Prezidentus ir šį sprendimą paskelbia savo interneto svetainėje. 
 
-6. Jeigu pretendentas būti kandidatu į Respublikos Prezidentus ar kandidatas į Respublikos Prezidentus nesutinka su Vyriausiojoje rinkimų komisijoje gauta informacija, kviečiamas neatvyksta į Vyriausiąją rinkimų komisiją ar atsisako pateikti paaiškinimus dėl gautos informacijos, Vyriausioji rinkimų komisija prireikus gali kreiptis į informaciją suteikusius asmenis, taip pat į kitas įstaigas ar organizacijas, prašydama pateikti papildomus duomenis ar dokumentus.
+6. Jeigu po Respublikos Prezidento rinkimų įstatymų nustatyta tvarka įrodoma, kad asmuo, išrinktas Respublikos Prezidentu, dirbo, mokėsi šio straipsnio 1 dalyje nurodytose tarnybose (struktūrose) ar bendradarbiavo su jomis, jis atsako įstatymų nustatyta tvarka kaip už priesaikos sulaužymą.
 
-7. Išnagrinėjusi gautą informaciją, Vyriausioji rinkimų komisija privalo priimti vieną iš šių sprendimų:
-
-1) gautą informaciją pripažinti nepagrįsta; 
-
-2) kreiptis į Lietuvos vyriausiąjį administracinį teismą su prašymu nustatyti faktą, kad pretendentas būti kandidatu į Respublikos Prezidentus ar kandidatas į Respublikos Prezidentus duomenų anketoje nurodė neteisingus duomenis apie savo darbą, mokymąsi šio straipsnio 1 dalyje nurodytose tarnybose (struktūrose) ar bendradarbiavimą su jomis arba tokius duomenis nuslėpė.
-
-8. Visais atvejais Vyriausioji rinkimų komisija ne vėliau kaip per 5 darbo dienas nuo informacijos gavimo turi priimti sprendimą ir per 24 valandas nuo sprendimo priėmimo jį paskelbti. 
-
-9. Lietuvos vyriausiasis administracinis teismas Vyriausiosios rinkimų komisijos prašymą išnagrinėja per 72 valandas ir priima sprendimą. Šis sprendimas įsiteisėja nuo paskelbimo.
-
-10. Įsiteisėjusį Lietuvos vyriausiojo administracinio teismo sprendimą Vyriausioji rinkimų komisija per 24 valandas paskelbia viešai.
-
-11. Jeigu Vyriausioji rinkimų komisija gauna šio straipsnio 1 dalyje nurodytą informaciją iki rinkimų likus mažiau kaip 12 dienų, kandidatas į Respublikos Prezidentus su šia informacija nesupažindinamas ir Vyriausioji rinkimų komisija jos nenagrinėja. 
-
-12. Vyriausioji rinkimų komisija Lietuvos vyriausiojo administracinio teismo nustatytą faktą gali viešai paskelbti ne vėliau kaip likus 72 valandoms iki balsavimo pradžios. 
+Straipsnio pakeitimai:
+Nr. XIII-2999, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12825
  
 
 4 straipsnis. Visuotinė rinkimų teisė
@@ -1703,4 +1684,9 @@ Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 16, 23, 27, 28, 29, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2784, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02276
 Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 3, 10, 12, 13, 14, 15, 16, 21, 23, 29, 32, 33, 35, 38, 39, 40, 53, 54, 57, 60, 63, 67, 68,70 straipsnių pakeitimo ir Įstatymo papildymo 38-1 straipsniu įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2999, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12825
+Lietuvos Respublikos Prezidento rinkimų įstatymo Nr. I-28 3 straipsnio pakeitimo įstatymas
 
