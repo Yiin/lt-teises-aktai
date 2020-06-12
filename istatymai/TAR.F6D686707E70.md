@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2020-04-08 iki 2020-06-11
+Suvestinė redakcija nuo 2020-06-12 iki 2020-06-30
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -1602,7 +1602,10 @@ DARBO SUTARTIES VYKDYMAS
 
 
 
-2) Lietuvos Respublikos Vyriausybė paskelbia ekstremaliąją situaciją ir karantiną ir darbdavys dėl to negali suteikti darbuotojui darbo sutartyje sulygto darbo, nes dėl darbo organizavimo ypatumų nėra galimybės sulygto darbo dirbti nuotoliniu būdu arba darbuotojas nesutinka dirbti kito jam pasiūlyto darbo.
+2) Lietuvos Respublikos Vyriausybė paskelbia ekstremaliąją situaciją ir (ar) karantiną ir darbdavys dėl to negali suteikti darbuotojui darbo sutartyje sulygto darbo, nes dėl darbo organizavimo ypatumų nėra galimybės sulygto darbo dirbti nuotoliniu būdu, arba darbuotojas nesutinka dirbti kito jam pasiūlyto darbo. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3008, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12831
+ 
 
 
 
@@ -1718,9 +1721,11 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 
 
 
-31. Lietuvos Respublikos Vyriausybei paskelbus ekstremaliąją situaciją ar karantiną, siekiant užtikrinti darbuotojų ir trečiųjų asmenų sveikatos apsaugą, darbdavys privalo darbuotojui, kurio sveikatos būklė kelia grėsmę kitų darbuotojų sveikatos saugumui, motyvuotu raštu pasiūlyti dirbti nuotoliniu būdu. Darbdavio pasiūlyme darbuotojui dirbti nuotoliniu būdu turi būti nurodyta siūlymo dirbti nuotoliniu būdu priežastis, terminas ir teisinis pagrindas. Darbuotojas per vieną darbo dieną privalo raštu informuoti darbdavį apie sutikimą dirbti nuotoliniu būdu. Darbuotojui nesutikus dirbti nuotoliniu būdu ar nepateikus darbdaviui atsakymo į darbdavio pasiūlymą dirbti nuotoliniu būdu, darbdavys ne vėliau kaip per vieną darbo dieną nuo termino darbuotojo atsakymui į darbdavio pasiūlymą pateikti dienos raštu nušalina darbuotoją nuo darbo, neleisdamas jam dirbti ir nemokėdamas darbo užmokesčio. Darbdavio sprendime nušalinti darbuotoją nuo darbo turi būti nurodyta, kuriam laikui darbuotojas nušalinamas, nušalinimo priežastis ir teisinis pagrindas.
+31. Lietuvos Respublikos Vyriausybei paskelbus ekstremaliąją situaciją ir (ar) karantiną, siekiant užtikrinti darbuotojų ir trečiųjų asmenų sveikatos apsaugą, darbdavys privalo darbuotojui, kurio sveikatos būklė kelia grėsmę kitų darbuotojų sveikatos saugumui, motyvuotu raštu pasiūlyti dirbti nuotoliniu būdu. Darbdavio pasiūlyme darbuotojui dirbti nuotoliniu būdu turi būti nurodyta siūlymo dirbti nuotoliniu būdu priežastis, terminas ir teisinis pagrindas. Darbuotojas per vieną darbo dieną privalo raštu informuoti darbdavį apie sutikimą dirbti nuotoliniu būdu. Darbuotojui nesutikus dirbti nuotoliniu būdu ar nepateikus darbdaviui atsakymo į darbdavio pasiūlymą dirbti nuotoliniu būdu, darbdavys ne vėliau kaip per vieną darbo dieną nuo termino darbuotojo atsakymui į darbdavio pasiūlymą pateikti dienos raštu nušalina darbuotoją nuo darbo, neleisdamas jam dirbti ir nemokėdamas darbo užmokesčio. Darbdavio sprendime nušalinti darbuotoją nuo darbo turi būti nurodyta, kuriam laikui darbuotojas nušalinamas, nušalinimo priežastis ir teisinis pagrindas. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2821, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05702
+Straipsnio dalies pakeitimai:
+Nr. XIII-3008, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12831
  
 
 
@@ -9590,3 +9595,8 @@ Lietuvos Respublikos darbo kodekso 47 ir 49 straipsnių pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2832, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07195
 Lietuvos Respublikos darbo kodekso 47 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3008, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12831
+Lietuvos Respublikos darbo kodekso 47 ir 49 straipsnių pakeitimo įstatymas
