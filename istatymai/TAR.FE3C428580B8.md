@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FE3C428580B8"
 
 # Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymas
 
-Suvestinė redakcija nuo 2020-02-01 iki 2020-06-11
+Suvestinė redakcija nuo 2020-06-12 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 115-5192, i. k. 1031010ISTA0IX-1837
  
@@ -1728,7 +1728,10 @@ Europos Parlamento nario įgaliojimus nutrūkusiais pripažįsta Vyriausioji rin
 
 4) Europos Parlamentui panaikinus Europos Parlamento nario mandatą Europos Parlamento reglamento nustatyta tvarka – pagal įsigaliojusį Europos Parlamento sprendimą;
 
-5) Europos Parlamento nario mandato netekus dėl rinkėjams nepaskelbto kandidato bendradarbiavimo su kitų valstybių specialiosiomis tarnybomis ar turėtos teismo nuosprendžiu paskirtos bausmės pagal šio įstatymo 96 straipsnį arba Europos Parlamento mandato ir pareigų nesuderinamumo pagal šio įstatymo 97 straipsnį;
+5) Europos Parlamento nario mandato netekus dėl rinkėjams nepaskelbto kandidato bendradarbiavimo su buvusios SSRS specialiosiomis tarnybomis ar turėtos teismo nuosprendžiu paskirtos bausmės pagal šio įstatymo 96 straipsnį arba Europos Parlamento nario mandato ir pareigų nesuderinamumo pagal šio įstatymo 97 straipsnį;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3000, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12826
+ 
 
 6) Europos Parlamento nario mandato netekus pagal šio įstatymo 971 straipsnį;
 Papildyta straipsnio punktu:
@@ -1745,11 +1748,20 @@ Nr. XII-2583, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20665
 Jeigu Europos Parlamento nario įgaliojimai pripažinti nutrūkusiais, Europos Parlamente atsiranda laisva Europos Parlamento nario vieta. Ją užima kandidatų sąrašo, pagal kurį buvo išrinktas buvęs Europos Parlamento narys, pirmasis Europos Parlamento nario mandato negavęs kandidatas. Jeigu šiame kandidatų sąraše Europos Parlamento nario mandatų negavusių kandidatų nėra, Europos Parlamento nario mandatas perduodamas kitam sąrašui pagal kandidatų sąrašų eilę, sudarytą po rinkimų mandatams paskirstyti liekanų metodu, tai yra tam sąrašui, kuris yra pirmasis po sąrašo, kuris paskutinis gavo mandatą pagal šią eilę. Europos Parlamento nariu tampa naujai mandatą gavusio sąrašo pirmasis Europos Parlamento nario mandato negavęs kandidatas. Vyriausioji rinkimų komisija sprendimą dėl Europos Parlamento nario mandato pripažinimo naujam Europos Parlamento nariui turi priimti ne vėliau kaip per 7 dienas po to, kai atsirado laisva Europos Parlamento nario vieta.
  
 
-96 straipsnis. Reikalavimas paskelbti rinkėjams apie kandidato bendradarbiavimą su kitų valstybių specialiosiomis tarnybomis ar turėtą teismo nuosprendžiu paskirtą bausmę
+96 straipsnis. Reikalavimas paskelbti rinkėjams apie kandidato bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis ar turėtą teismo nuosprendžiu paskirtą bausmę 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-3000, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12826
+ 
 
-1. Kiekvienas kandidatas turi viešai paskelbti, jeigu ne pagal savo kilmės valstybės narės užduotis yra sąmoningai bendradarbiavęs su kitos valstybės specialiosiomis tarnybomis, išskyrus kandidatus, kurie yra nuolat Lietuvos Respublikoje gyvenantys kitų Europos Sąjungos valstybių narių piliečiai, bendradarbiavę su savo kilmės valstybės narės specialiosiomis tarnybomis (tarnyba). Tai kandidatas nurodo kandidato į Europos Parlamento narius anketoje. Vyriausiosios rinkimų komisijos leidžiamame plakate su kandidatų sąrašu prie kandidato pavardės turi būti pažymėta: „Ne pagal savo kilmės valstybės narės užduotis yra sąmoningai bendradarbiavęs su kitos valstybės specialiosiomis tarnybomis“.
+1. Kiekvienas kandidatas turi viešai paskelbti, jeigu ne pagal savo kilmės valstybės narės užduotis yra sąmoningai bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis. Tai kandidatas nurodo kandidato į Europos Parlamento narius anketoje. Vyriausiosios rinkimų komisijos leidžiamame plakate su kandidatų sąrašu prie kandidato pavardės turi būti pažymėta: „Ne pagal savo kilmės valstybės narės užduotis yra sąmoningai bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis.“ Vyriausioji rinkimų komisija kreipiasi į Lietuvos Respublikos instituciją, saugančią duomenis apie asmenų bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis, ir iki rinkimų dienos šiuo aspektu patikrina kandidatų į Europos Parlamento narius duomenis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3000, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12826
+ 
 
-2. Jeigu kandidatas apie savo bendradarbiavimą su kitos valstybės specialiosiomis tarnybomis nenurodė ir galioja teismo sprendimas, kuriuo nustatytas juridinę reikšmę turintis faktas (arba šį faktą įstatymų nustatyta tvarka yra patvirtinęs pats kandidatas), kad šis asmuo ne pagal savo kilmės valstybės narės užduotis sąmoningai bendradarbiavo su kitos valstybės specialiosiomis tarnybomis (tarnyba), Vyriausioji rinkimų komisija jo neregistruoja kandidatu, o jeigu buvo jį įregistravusi, nedelsdama panaikina jo registraciją kandidatu. Jeigu kandidatas to nenurodė ir po rinkimų Lietuvos vyriausiasis administracinis teismas įstatymų nustatyta tvarka pripažįsta, kad asmuo ne pagal savo kilmės valstybės narės užduotis sąmoningai bendradarbiavo su kitos valstybės specialiosiomis tarnybomis (tarnyba), per 5 darbo dienas po teismo sprendimo įsiteisėjimo Vyriausioji rinkimų komisija privalo pripažinti šį asmenį netekusiu Europos Parlamento nario mandato, apie tai paskelbti savo interneto svetainėje ir pranešti Europos Parlamentui. Laisva Europos Parlamento nario vieta užimama šio įstatymo 95 straipsnyje nustatyta tvarka.
+2. Jeigu kandidatas apie savo bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis nenurodė ir galioja teismo sprendimas, kuriuo nustatytas juridinę reikšmę turintis faktas (arba šį faktą įstatymų nustatyta tvarka yra patvirtinęs pats kandidatas), kad šis asmuo ne pagal savo kilmės valstybės narės užduotis sąmoningai bendradarbiavo su buvusios SSRS specialiosiomis tarnybomis, arba Vyriausioji rinkimų komisija iš kompetentingos institucijos gavo duomenų apie asmens bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis, Vyriausioji rinkimų komisija jo neregistruoja kandidatu, o jeigu buvo jį įregistravusi, nedelsdama panaikina jo registraciją kandidatu ir šį sprendimą paskelbia savo interneto svetainėje. Jeigu kandidatas to nenurodė ir po rinkimų įstatymų nustatyta tvarka pripažįstama, kad asmuo ne pagal savo kilmės valstybės narės užduotis sąmoningai bendradarbiavo su buvusios SSRS specialiosiomis tarnybomis, per 5 darbo dienas po teismo sprendimo įsiteisėjimo Vyriausioji rinkimų komisija privalo pripažinti šį asmenį netekusiu Europos Parlamento nario mandato, apie tai paskelbti savo interneto svetainėje ir pranešti Europos Parlamentui. Laisva Europos Parlamento nario vieta užimama šio įstatymo 95 straipsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3000, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12826
+ 
 
 3. Kiekvienas kandidatas turi viešai paskelbti, jeigu jis per 10 paskutinių metų iki nustatytosios dienos įsiteisėjusiu Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės teismo nuosprendžiu yra pripažintas kaltu dėl nusikalstamos veikos arba įsiteisėjusiu teismo nuosprendžiu bet kada buvo pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo. Šį faktą, nepaisant to, ar teistumas išnykęs, ar panaikintas, kandidatas nurodo kandidato į Europos Parlamento narius anketoje. Pateikdamas šiuos duomenis, kandidato į Europos Parlamento narius anketoje asmuo privalo nurodyti apkaltinamojo nuosprendžio (sprendimo) priėmimo valstybę (vietą), šį nuosprendį (sprendimą) priėmusios institucijos pavadinimą, apkaltinamojo nuosprendžio (sprendimo) priėmimo datą ir nusikalstamą veiką, už kurią buvo nuteistas. Šios informacijos nurodyti neprivaloma, jeigu asmuo okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei. Pateikiant šioje dalyje nurodytą informaciją, kandidato į Europos Parlamento narius anketoje taip pat pažymima, kad teismo nuosprendžiu asmuo buvo pripažintas kaltu dėl nusikalstamos veikos, kuri vėliau dekriminalizuota, arba kad asmuo užsienio valstybės teismo buvo pripažintas kaltu dėl veikos, kuri pagal Lietuvos Respublikos teisę nelaikoma nusikalstama ar už kurią patraukimas baudžiamojon atsakomybėn laikomas politiniu persekiojimu. Vyriausiosios rinkimų komisijos leidžiamame plakate su kandidatų sąrašu prie kandidato pavardės turi būti pažymėta: „Teismo nuosprendžiu yra pripažintas kaltu dėl nusikaltimo padarymo“ ir neturi būti pažymėta, jeigu kandidatas į Europos Parlamentą anketoje pateikė duomenis, kad jis okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei, arba pagrįstai nurodė, kad teismo sprendimu jis buvo pripažintas kaltu dėl nusikalstamos veikos, kuri vėliau dekriminalizuota, arba kai asmuo užsienio valstybės teismo buvo pripažintas kaltu dėl veikos, kuri pagal Lietuvos Respublikos teisę nelaikoma nusikalstama ar už kurią patraukimas baudžiamojon atsakomybėn laikomas politiniu persekiojimu.
 
@@ -1950,4 +1962,9 @@ Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo Nr. IX-1837 18, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2785, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02277
 Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo Nr. IX-1837 9, 10, 13, 15, 16, 17, 18, 23, 25, 31, 34, 35, 38, 39, 40, 41, 46, 60, 61, 64, 67, 71, 74, 79 straipsnių pakeitimo ir Įstatymo papildymo 40-1 straipsniu įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3000, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12826
+Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo Nr. IX-1837 94 ir 96 straipsnių pakeitimo įstatymas
 
