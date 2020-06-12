@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2020-02-01 iki 2020-06-11
+Suvestinė redakcija nuo 2020-06-12 iki 2020-06-29
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
  
@@ -2188,11 +2188,20 @@ Straipsnio pakeitimai:
 Nr. XI-1957, 2012-03-29, Žin., 2012, Nr. 44-2148 (2012-04-14)
  
 
-98 straipsnis. Seimo nario mandato netekimas dėl rinkėjams nepaskelbto bendradarbiavimo su kitų valstybių specialiosiomis tarnybomis ir turėtos teismo nuosprendžiu paskirtos bausmės
+98 straipsnis. Kandidato į Seimo narius pareiga viešai paskelbti apie bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis ir pripažinimą kaltu dėl nusikalstamos veikos 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-3002, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12828
+ 
 
-1. Kiekvienas kandidatas į Seimo narius turi viešai paskelbti, jeigu ne pagal Lietuvos Respublikos užduotis yra sąmoningai bendradarbiavęs su kitų valstybių specialiosiomis tarnybomis. Tai jis nurodo kandidato į Seimo narius anketoje. Vyriausiosios rinkimų komisijos leidžiamame kandidato į Seimo narius rinkimų plakate, taip pat plakate su kandidatų sąrašu prie kandidato pavardės turi būti pažymėta: „Ne pagal Lietuvos Respublikos užduotis yra sąmoningai bendradarbiavęs su kitos valstybės specialiosiomis tarnybomis“.
+1. Kiekvienas kandidatas į Seimo narius turi viešai paskelbti, jeigu ne pagal Lietuvos Respublikos užduotis yra sąmoningai bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis. Tai jis nurodo kandidato į Seimo narius anketoje. Vyriausiosios rinkimų komisijos leidžiamame kandidato į Seimo narius rinkimų plakate, taip pat plakate su kandidatų sąrašu prie kandidato pavardės turi būti pažymėta: „Ne pagal Lietuvos Respublikos užduotis yra sąmoningai bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis.“ Vyriausioji rinkimų komisija kreipiasi į Lietuvos Respublikos instituciją, saugančią duomenis apie asmenų bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis, ir iki rinkimų dienos šiuo aspektu patikrina kandidatų į Seimo narius duomenis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3002, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12828
+ 
 
-2. Jeigu kandidatas to nenurodė ir galioja teismo sprendimas, kuriuo nustatytas juridinę reikšmę turintis faktas (arba šį faktą įstatymų nustatyta tvarka yra patvirtinęs pats kandidatas), kad šis asmuo ne pagal Lietuvos Respublikos užduotis sąmoningai bendradarbiavo su kitų valstybių specialiosiomis tarnybomis, Vyriausioji rinkimų komisija jo neregistruoja, o jeigu buvo jį įregistravusi, nedelsdama panaikina jo registravimą kandidatu į Seimo narius. Jeigu kandidatas to nenurodė ir po Seimo rinkimų įstatymų nustatyta tvarka įrodoma, kad jis ne pagal Lietuvos Respublikos užduotis sąmoningai bendradarbiavo su kitų valstybių specialiosiomis tarnybomis, nuo įrodymo dienos šio Seimo nario įgaliojimai nutraukiami.
+2. Jeigu kandidatas to nenurodė ir galioja teismo sprendimas, kuriuo nustatytas juridinę reikšmę turintis faktas (arba šį faktą įstatymų nustatyta tvarka yra patvirtinęs pats kandidatas), kad šis asmuo ne pagal Lietuvos Respublikos užduotis sąmoningai bendradarbiavo su buvusios SSRS specialiosiomis tarnybomis, arba Vyriausioji rinkimų komisija iš kompetentingos institucijos gavo duomenų apie asmens bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis, Vyriausioji rinkimų komisija jo neregistruoja kandidatu į Seimo narius, o jeigu buvo jį įregistravusi, nedelsdama panaikina jo registravimą kandidatu į Seimo narius ir šį sprendimą paskelbia savo interneto svetainėje. Jeigu kandidatas to nenurodė ir po Seimo rinkimų įstatymų nustatyta tvarka įrodoma, kad jis ne pagal Lietuvos Respublikos užduotis sąmoningai bendradarbiavo su buvusios SSRS specialiosiomis tarnybomis, tai laikoma šiurkščiu šio įstatymo pažeidimu.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3002, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12828
+ 
 
 3. Kiekvienas kandidatas į Seimo narius turi viešai paskelbti, jeigu jis po 1990 m. kovo 11 d. Lietuvos Respublikos teismo įsiteisėjusiu nuosprendžiu yra pripažintas kaltu dėl nusikalstamos veikos arba įsiteisėjusiu teismo nuosprendžiu bet kada buvo pripažintas kaltu padaręs sunkų ar labai sunkų nusikaltimą. Tai jis nurodo kandidato į Seimo narius anketoje, nepaisant to, ar teistumas išnykęs, ar panaikintas. Pateikdamas šiuos duomenis, kandidato į Seimo narius anketoje asmuo privalo nurodyti apkaltinamojo nuosprendžio (sprendimo) priėmimo valstybę (vietą), šį nuosprendį (sprendimą) priėmusios institucijos pavadinimą, apkaltinamojo nuosprendžio (sprendimo) priėmimo datą ir nusikalstamą veiką, už kurią jis buvo nuteistas. Šios informacijos nurodyti neprivaloma, jeigu asmuo okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei. Pateikiant šioje dalyje nurodytą informaciją, kandidato į Seimo narius anketoje taip pat pažymima, kad teismo nuosprendžiu asmuo buvo pripažintas kaltu dėl nusikalstamos veikos, kuri vėliau dekriminalizuota, arba kad asmuo užsienio valstybės teismo buvo pripažintas kaltu dėl veikos, kuri pagal Lietuvos Respublikos teisę nelaikoma nusikalstama ar už kurią patraukimas baudžiamojon atsakomybėn laikomas politiniu persekiojimu. Vyriausiosios rinkimų komisijos leidžiamame kandidato į Seimo narius rinkimų plakate, taip pat plakate su kandidatų sąrašu prie kandidato pavardės turi būti pažymėta: „Teismo nuosprendžiu yra pripažintas kaltu dėl nusikalstamos veikos“ ir neturi būti pažymėta, jei kandidatas į Seimo narius anketoje pateikė duomenis, kad jis okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei, arba pagrįstai nurodė, kad teismo sprendimu jis buvo pripažintas kaltu dėl nusikalstamos veikos, kuri vėliau dekriminalizuota, arba kai asmuo užsienio valstybės teismo buvo pripažintas kaltu dėl veikos, kuri pagal Lietuvos Respublikos teisę nelaikoma nusikalstama ar už kurią patraukimas baudžiamojon atsakomybėn laikomas politiniu persekiojimu.
 
@@ -2486,4 +2495,14 @@ Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 29, 33, 59, 61, 68, 69 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2783, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02275
 Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 6, 7, 8, 11, 15, 16, 17, 18, 23, 25, 28, 31, 33, 34, 35, 38, 39, 40, 43, 44, 45, 51, 57, 59, 60, 61, 64, 67, 67-1, 68, 69, 71, 72, 73, 74, 77, 78, 79, 80, 82 straipsnių pakeitimo ir Įstatymo papildymo 11-1 ir 39-1 straipsniais įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2936, 2020-05-14, paskelbta TAR 2020-05-22, i. k. 2020-10979
+Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 15 ir 17 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3002, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12828
+Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 98 straipsnio pakeitimo įstatymas
 
