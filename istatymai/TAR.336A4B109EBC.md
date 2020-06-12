@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2020-02-01 iki 2020-06-11
+Suvestinė redakcija nuo 2020-06-12 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -877,9 +877,16 @@ Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
  
 
-14. Pareiškiniai dokumentai teikiami ir elektroniniu būdu Vyriausiosios rinkimų komisijos nustatyta tvarka. Rinkėjai taip pat gali Vyriausiosios rinkimų komisijos nustatyta tvarka elektroniniu būdu savo parašu paremti kandidatų sąrašo iškėlimą arba asmens iškėlimą ar išsikėlimą kandidatu į savivaldybės tarybos narius – merus. 
+14. Kandidatas į savivaldybės tarybos narius, savivaldybės tarybos narius – merus turi viešai paskelbti, jeigu ne pagal Lietuvos Respublikos užduotis yra sąmoningai bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis. Tai jis nurodo kandidato į savivaldybės tarybos narius, kandidato į savivaldybės tarybos narius – merus anketoje. Savivaldybės rinkimų komisijos leidžiamame kandidato plakate, taip pat plakate su kandidatų sąrašu prie kandidato pavardės turi būti pažymėta: „Ne pagal Lietuvos Respublikos užduotis yra sąmoningai bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3001, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12827
+ 
+
+15. Pareiškiniai dokumentai teikiami ir elektroniniu būdu Vyriausiosios rinkimų komisijos nustatyta tvarka. Rinkėjai taip pat gali Vyriausiosios rinkimų komisijos nustatyta tvarka elektroniniu būdu savo parašu paremti kandidatų sąrašo iškėlimą arba asmens iškėlimą ar išsikėlimą kandidatu į savivaldybės tarybos narius – merus. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3001, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12827
  
 
 37 straipsnis. Kandidatų registravimas
@@ -893,6 +900,11 @@ Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
 4. Jeigu asmuo, keliamas ar išsikėlęs kandidatu, neįvykdė šio įstatymo 36 straipsnio 13 dalyje nustatytų reikalavimų (nepateikė šiame įstatyme nurodytos informacijos arba pateikė tikrovės neatitinkančius duomenis), Vyriausioji rinkimų komisija jo kandidatu neregistruoja, o jeigu buvo įregistravusi, nedelsdama panaikina šio asmens įregistravimą kandidatu.
 
 5. Jeigu kandidatas anketoje pagrįstai nurodė šio įstatymo 36 straipsnio 13 dalyje nustatytą informaciją, rinkimų komisijos leidžiamame kandidato plakate ar plakate su kandidatų sąrašu prie kandidato pavardės turi būti pažymėta: „Teismo nuosprendžiu buvo pripažintas kaltu dėl nusikalstamos veikos“, ir neturi būti pažymėta, jeigu kandidatas anketoje pateikė duomenis, kad jis okupacinio režimo teismo buvo pripažintas kaltu dėl nusikaltimo valstybei, arba pagrįstai nurodė, kad teismo sprendimu jis buvo pripažintas kaltu dėl nusikalstamos veikos, kuri vėliau dekriminalizuota, arba kai asmuo užsienio valstybės teismo buvo pripažintas kaltu dėl veikos, kuri pagal Lietuvos Respublikos teisę nelaikoma nusikalstama ar už kurią patraukimas baudžiamojon atsakomybėn laikomas politiniu persekiojimu. 
+
+6. Jeigu asmuo, keliamas ar išsikėlęs kandidatu į savivaldybės tarybos narius ar į savivaldybės tarybos narius – merus, kandidato į savivaldybės tarybos narius ar kandidato į savivaldybės tarybos narius – merus anketoje nenurodo, kad yra sąmoningai bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis ne pagal Lietuvos Respublikos užduotis, Vyriausioji rinkimų komisija kreipiasi į instituciją, kuri saugo duomenis apie asmenų bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis, ir iki rinkimų dienos šiuo aspektu patikrina kandidatų į savivaldybės tarybos narius, savivaldybės tarybos narius – merus duomenis. Paaiškėjus, kad kandidatas į savivaldybės tarybos narius, savivaldybės tarybos narius – merus yra sąmoningai bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis, Vyriausioji rinkimų komisija jo neregistruoja kandidatu, o jeigu buvo įregistravusi, nedelsdama panaikina jo registraciją kandidatu ir šį sprendimą paskelbia savo interneto svetainėje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3001, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12827
+ 
 
 Straipsnio pakeitimai:
 Nr. XII-1070, 2014-07-17, paskelbta TAR 2014-07-24, i. k. 2014-10474
@@ -1936,11 +1948,22 @@ Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
 
 12) savivaldybės tarybos sprendimu Lietuvos Respublikos vietos savivaldos įstatymo nustatyta tvarka;
 
-13) jis išrenkamas Lietuvos Respublikos Seimo nariu.
+13) jis išrenkamas Lietuvos Respublikos Seimo nariu;
 
-2. Savivaldybės tarybos narys, prieš pradėdamas eiti pareigas, pagal Konstituciją, šį ar kitus įstatymus nesuderinamas su savivaldybės tarybos nario pareigomis (išskyrus atvejus, kai jis išrenkamas Seimo nariu), asmeniškai ne vėliau kaip prieš 10 dienų paduoda savivaldybės merui ir Vyriausiajai rinkimų komisijai rašytinį pareiškimą (pareiškimus) dėl savivaldybės tarybos nario mandato atsisakymo arba šį pareiškimą pasirašęs kvalifikuotu elektroniniu parašu ar patvirtinęs notarine tvarka išsiunčia. Asmuo, netekęs savivaldybės tarybos nario mandato šio straipsnio 1 dalies 1, 3, 4, 5, 7, 8, 9, 10 punktuose ir Vietos savivaldos įstatymo 251 straipsnyje nustatytais pagrindais, netenka teisės užimti laisvą savivaldybės tarybos nario vietą šio įstatymo 89 straipsnyje nustatyta tvarka.
+14) jis neįvykdė šio įstatymo 36 straipsnio 14 dalyje nustatyto reikalavimo nurodyti, kad yra sąmoningai bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis ne pagal Lietuvos Respublikos užduotis, ir po savivaldybių tarybų rinkimų įstatymų nustatyta tvarka įrodoma, kad jis ne pagal Lietuvos Respublikos užduotis sąmoningai bendradarbiavo su buvusios SSRS specialiosiomis tarnybomis. 
+Papildyta straipsnio punktu:
+Nr. XIII-3001, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12827
+ 
 
-3. Vyriausioji rinkimų komisija per 15 dienų nuo šio straipsnio 1 dalyje nustatytų pagrindų atsiradimo savivaldybės tarybos nario įgaliojimus pripažįsta nutrūkusiais nesuėjus terminui. 
+2. Savivaldybės tarybos narys, prieš pradėdamas eiti pareigas, pagal Konstituciją, šį ar kitus įstatymus nesuderinamas su savivaldybės tarybos nario pareigomis (išskyrus atvejus, kai jis išrenkamas Lietuvos Respublikos Seimo nariu), asmeniškai ne vėliau kaip prieš 10 dienų paduoda savivaldybės merui ir Vyriausiajai rinkimų komisijai rašytinį pareiškimą (pareiškimus) dėl savivaldybės tarybos nario mandato atsisakymo arba šį pareiškimą pasirašęs kvalifikuotu elektroniniu parašu ar patvirtinęs notarine tvarka išsiunčia. Asmuo, netekęs savivaldybės tarybos nario mandato šio straipsnio 1 dalies 1, 3, 4, 5, 7, 8, 9, 10, 14 punktuose ir Vietos savivaldos įstatymo 251 straipsnyje nustatytais pagrindais, netenka teisės užimti laisvą savivaldybės tarybos nario vietą šio įstatymo 89 straipsnyje nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3001, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12827
+ 
+
+3. Vyriausioji rinkimų komisija per 15 dienų nuo šio straipsnio 1 dalyje nustatytų pagrindų atsiradimo savivaldybės tarybos nario įgaliojimus pripažįsta nutrūkusiais nesuėjus terminui ir šį sprendimą paskelbia savo interneto svetainėje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3001, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12827
+ 
 
 Straipsnio pakeitimai:
 Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
@@ -2365,4 +2388,9 @@ Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 papildym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
 Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 2, 8, 9, 12, 13, 14, 15, 16, 21, 22, 23, 29, 31, 32, 34, 35, 36, 37, 38, 39, 41, 43, 48, 57, 58, 61, 64, 68, 73, 77, 86, 88, 89, 90, 91 straipsnių pakeitimo ir Įstatymo papildymo 37-1 straipsniu įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3001, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12827
+Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 36, 37 ir 88 straipsnių pakeitimo įstatymas
 
