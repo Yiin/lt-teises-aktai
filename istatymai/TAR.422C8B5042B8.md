@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2020-06-01 iki 2020-06-11
+Suvestinė redakcija nuo 2020-06-12 iki 2020-06-30
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -1571,17 +1571,21 @@ Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
 
 
 
-15) užimti asmenys, kurių darbdaviams už juos, iki Lietuvos Respublikos Vyriausybė paskelbė ekstremaliąją situaciją ir karantiną, buvo mokama šio įstatymo 41 straipsnio 2 dalyje nurodyta subsidija darbo užmokesčiui ir kuriems Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju buvo paskelbta prastova, jų darbdaviams jų darbo vietoms išlaikyti buvo mokama šio įstatymo 41 straipsnio 21 dalyje nurodyta subsidija darbo užmokesčiui ir jiems nutraukta prastova dėl to, kad Lietuvos Respublikos Vyriausybė atšaukė ekstremaliąją situaciją ar karantiną arba suėjo bent vieno iš jų paskelbimo terminas; 
+15) užimti asmenys, kurių darbdaviams už juos, iki Lietuvos Respublikos Vyriausybė paskelbė ekstremaliąją situaciją ir karantiną, buvo mokama šio įstatymo 41 straipsnio 2 dalyje nurodyta subsidija darbo užmokesčiui ir kuriems Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju buvo paskelbta prastova, jų darbdaviams jų darbo vietoms išlaikyti buvo mokama šio įstatymo 41 straipsnio 21 dalyje nurodyta subsidija darbo užmokesčiui ir prastova jiems nutraukta dėl aplinkybių, nurodytų šio įstatymo 41 straipsnio 51 dalies 1 punkte; 
 Papildyta straipsnio punktu:
 Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
+Straipsnio punkto pakeitimai:
+Nr. XIII-3005, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12829
  
 
 
 
 
-16) užimti asmenys, kuriems Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju buvo paskelbta prastova, jų darbdaviams jų darbo vietoms išlaikyti buvo mokama šio įstatymo 41 straipsnio 21 dalyje nurodyta subsidija darbo užmokesčiui ir kurių jų darbdavys neatleido per šio įstatymo 41 straipsnio 21 dalyje nustatytą darbo vietos išlaikymo terminą arba kurių darbdaviai yra įtraukti į Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos (toliau – Valstybinė mokesčių inspekcija) paskelbtą mokesčių mokėtojų, nukentėjusių dėl COVID-19 (koronaviruso infekcijos), sąrašą. 
+16) užimti asmenys, kuriems Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju buvo paskelbta prastova, jų darbdaviams jų darbo vietoms išlaikyti buvo mokama šio įstatymo 41 straipsnio 21 dalyje nurodyta subsidija darbo užmokesčiui ir kurių darbdavys neatleido, ir užimti asmenys, kurių darbdaviai yra įtraukti į Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos (toliau – Valstybinė mokesčių inspekcija) paskelbtą mokesčių mokėtojų, nukentėjusių dėl COVID-19 (koronaviruso infekcijos), sąrašą. 
 Papildyta straipsnio punktu:
 Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
+Straipsnio punkto pakeitimai:
+Nr. XIII-3005, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12829
  
 
 
@@ -2659,21 +2663,23 @@ Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 
 
 
-21. Darbdaviams, dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino paskelbtos prastovos metu išlaikantiems darbo vietas šio įstatymo 25 straipsnio 14 punkte nurodytiems užimtiems asmenims, mokama subsidija darbo užmokesčiui nuo kiekvienam prastovoje esančiam užimtam asmeniui priskaičiuoto darbo užmokesčio. Subsidijos darbo užmokesčiui dydis apskaičiuojamas procentais nuo užimtam asmeniui priskaičiuoto darbo užmokesčio, kuris negali būti didesnis, negu užimto asmens darbo sutartyje iki Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino dienos nustatytas darbo užmokestis, ir darbdavio pasirinkimu sudaro 70 procentų apskaičiuotų lėšų, bet ne daugiau kaip 1,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio arba 90 procentų apskaičiuotų lėšų, bet ne daugiau kaip Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga. Jeigu užimtam asmeniui prastova Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju paskelbta ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis apskaičiuojamas proporcingai darbdavio paskelbtam užimto asmens prastovos laikui. Darbdaviai, kuriems buvo mokama subsidija darbo užmokesčiui šio įstatymo 25 straipsnio 14 punkte nurodytiems užimtiems asmenims, turi išlaikyti ne mažiau kaip 50 procentų darbo vietų ne trumpiau kaip 3 mėnesius nuo subsidijos darbo užmokesčiui mokėjimo pabaigos. 
+21. Darbdaviams, dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino paskelbtos prastovos metu išlaikantiems darbo vietas, šio įstatymo 25 straipsnio 14 punkte nurodytiems užimtiems asmenims mokama subsidija darbo užmokesčiui nuo kiekvienam prastovoje esančiam užimtam asmeniui priskaičiuoto darbo užmokesčio. Subsidijos darbo užmokesčiui dydis apskaičiuojamas procentais nuo užimtam asmeniui priskaičiuoto darbo užmokesčio, kuris negali būti didesnis, negu užimto asmens darbo sutartyje iki Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino dienos nustatytas darbo užmokestis, ir darbdavio pasirinkimu, kai užimtas asmuo nėra sukakęs 60 metų, sudaro 70 procentų apskaičiuotų lėšų, bet ne daugiau kaip 1,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, arba 90 procentų apskaičiuotų lėšų, bet ne daugiau kaip Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga, o kai užimtas asmuo yra sukakęs 60 ir daugiau metų, darbdavio pasirinkimu sudaro 70 procentų apskaičiuotų lėšų, bet ne daugiau kaip 1,5 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, arba 100 procentų apskaičiuotų lėšų, bet ne daugiau kaip Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga. Jeigu užimtam asmeniui prastova Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju paskelbta ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis apskaičiuojamas proporcingai darbdavio paskelbtam užimto asmens prastovos laikui. Darbdaviai, kuriems buvo mokama subsidija darbo užmokesčiui šio įstatymo 25 straipsnio 14 punkte nurodytiems užimtiems asmenims, turi išlaikyti ne mažiau kaip 50 procentų darbo vietų ne trumpiau kaip 3 mėnesius nuo subsidijos darbo užmokesčiui mokėjimo pabaigos. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2822, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05703
 Straipsnio dalies pakeitimai:
 Nr. XIII-2846, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07511
+Nr. XIII-3005, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12829
  
 
 
 
 
-22. Darbdaviams, kuriems iki Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino paskelbimo dienos buvo mokama subsidija darbo užmokesčiui šio straipsnio 2 dalyje nurodyta tvarka, Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu, kai darbdavys užimtiems asmenims, įdarbintiems įgyvendinant šio straipsnio 2 dalyje nurodyta tvarka remiamojo įdarbinimo priemonę, paskelbia prastovą Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju, subsidijos darbo užmokesčiui šio straipsnio 2 dalyje nurodyta tvarka mokėjimas sustabdomas ir nuo Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino paskelbimo dienos pradedama mokėti subsidija darbo užmokesčiui šio straipsnio 21 dalyje nurodyta tvarka. Darbdaviams, kuriems baigėsi subsidijos darbo užmokesčiui mokėjimas šio straipsnio 23 dalyje nurodyta tvarka, subsidija darbo užmokesčiui mokama šio straipsnio 2 dalyje nurodyta tvarka. 
+22. Darbdaviams, kuriems iki Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino paskelbimo dienos buvo mokama subsidija darbo užmokesčiui šio straipsnio 2 dalyje nurodyta tvarka, Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu, kai darbdavys užimtiems asmenims, įdarbintiems įgyvendinant šio straipsnio 2 dalyje nurodyta tvarka remiamojo įdarbinimo priemonę, paskelbia prastovą Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju, subsidijos darbo užmokesčiui šio straipsnio 2 dalyje nurodyta tvarka mokėjimas sustabdomas ir nuo Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino paskelbimo dienos pradedama mokėti subsidija darbo užmokesčiui šio straipsnio 21 dalyje nurodyta tvarka. Darbdaviams, kuriems šio straipsnio 21 dalyje nurodytos subsidijos darbo užmokesčiui mokėjimas nutrauktas šio straipsnio 51 dalies 1 punkte nustatytu atveju, darbdavio pasirinkimu nuo subsidijos darbo užmokesčiui mokėjimo nutraukimo dienos mokama subsidija darbo užmokesčiui šio straipsnio 2 dalyje arba 24 dalyje nurodyta tvarka. Darbdaviams, kuriems šio straipsnio 23 dalyje nurodytos subsidijos darbo užmokesčiui mokėjimas nutrauktas šio straipsnio 52 dalies 1 punkte nurodytu atveju, subsidija darbo užmokesčiui nuo subsidijos darbo užmokesčiui mokėjimo nutraukimo dienos mokama šio straipsnio 2 dalyje nurodyta tvarka. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2846, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07511
 Straipsnio dalies pakeitimai:
 Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
+Nr. XIII-3005, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12829
  
 
 
@@ -2717,7 +2723,7 @@ Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 
 
 
-24. Darbdaviams, kuriems šio straipsnio 21 dalyje nurodytos subsidijos mokėjimas buvo nutrauktas šio straipsnio 51 dalies 1 punkte nustatytu atveju, nes Lietuvos Respublikos Vyriausybė atšaukė ekstremaliąją situaciją ar karantiną arba suėjo bent vieno iš jų paskelbimo terminas, išlaikantiems darbo vietas šio įstatymo 25 straipsnio 15 punkte nurodytiems užimtiems asmenims, taip pat darbdaviams, išlaikantiems darbo vietas šio įstatymo 25 straipsnio 16 punkte nurodytiems užimtiems asmenims, šioje dalyje nustatyta tvarka skiriama ir mokama subsidija darbo užmokesčiui. Subsidijos darbo užmokesčiui, mokamos kas mėnesį už praėjusį kalendorinį mėnesį, dydis apskaičiuojamas procentais nuo užimtam asmeniui darbdavio priskaičiuotų draudžiamųjų pajamų, nuo kurių Valstybinio socialinio draudimo įstatymo nustatyta tvarka priskaičiuotos ir privalo būti įmokėtos valstybinio socialinio draudimo įmokos, įrašytų Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registre, ir sudaro:
+24. Darbdaviams, kuriems šio straipsnio 21 dalyje nurodytos subsidijos mokėjimas buvo nutrauktas šio straipsnio 51 dalies 1 punkte nustatytu atveju, išlaikantiems darbo vietas šio įstatymo 25 straipsnio 15 punkte nurodytiems užimtiems asmenims, taip pat darbdaviams, išlaikantiems darbo vietas šio įstatymo 25 straipsnio 16 punkte nurodytiems užimtiems asmenims, šioje dalyje nustatyta tvarka skiriama ir mokama subsidija darbo užmokesčiui. Subsidijos darbo užmokesčiui, mokamos kas mėnesį už praėjusį kalendorinį mėnesį, dydis apskaičiuojamas procentais nuo užimtam asmeniui darbdavio priskaičiuotų draudžiamųjų pajamų, nuo kurių Valstybinio socialinio draudimo įstatymo nustatyta tvarka priskaičiuotos ir privalo būti įmokėtos valstybinio socialinio draudimo įmokos, įrašytų Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registre, ir sudaro:
 
 
 1) pirmąjį ir antrąjį subsidijos darbo užmokesčiui mokėjimo mėnesius:
@@ -2748,8 +2754,8 @@ c) 100 procentų apskaičiuotų lėšų, bet ne daugiau kaip 0,5 Lietuvos Respub
 3) penktąjį ir šeštąjį subsidijos darbo užmokesčiui mokėjimo mėnesius – 30 procentų apskaičiuotų lėšų, bet ne daugiau kaip Lietuvos Respublikos Vyriausybės patvirtinta minimalioji mėnesinė alga, arba ne daugiau kaip dvi Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos, jeigu darbdavys įtrauktas į bendru socialinės apsaugos ir darbo ministro ir ekonomikos ir inovacijų ministro įsakymu patvirtintą veiklų, orientuotų į pažangių technologijų gamybą, žinioms imlias paslaugas, Europos Sąjungos žaliojo kurso tikslų siekimą ir socialinį dialogą, sąrašą. 
 
 
-Papildyta straipsnio dalimi:
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
+Straipsnio dalies pakeitimai:
+Nr. XIII-3005, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12829
  
 
 
@@ -2839,9 +2845,10 @@ Nr. XIII-2846, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07511
 51. Šio straipsnio 21 dalyje nurodytos subsidijos darbo užmokesčiui mokėjimas, kai darbo vietos yra išlaikomos šio įstatymo 25 straipsnio 14 punkte nurodytiems užimtiems asmenims, nutraukiamas šiais atvejais:
 
 
-1) kai darbdavys atšaukia Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju užimtam asmeniui paskelbtą prastovą, sueina jos paskelbimo terminas arba Lietuvos Respublikos Vyriausybė atšaukia ekstremaliąją situaciją ar karantiną, arba sueina bent vieno iš jų paskelbimo terminas; 
+1) kai darbdavys atšaukia Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju užimtam asmeniui paskelbtą prastovą, sueina jos paskelbimo terminas arba Lietuvos Respublikos Vyriausybė atšaukia ekstremaliąją situaciją ar karantiną, arba sueina jos (jo) paskelbimo terminas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
+Nr. XIII-3005, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12829
  
 
 
@@ -2901,16 +2908,16 @@ Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 7. Darbdaviui, įtrauktam į Valstybinės mokesčių inspekcijos paskelbtą mokesčių mokėtojų, nukentėjusių dėl COVID-19 (koronaviruso infekcijos), sąrašą, šio straipsnio 24 dalyje nurodyta subsidija darbo užmokesčiui skiriama ir mokama už ne daugiau kaip:
 
 
-1) 10 darbuotojų, kai jis yra įdarbinęs iki 20 darbuotojų;
+1) 10 darbuotojų, neįskaičiuojant darbuotojų, už kuriuos buvo mokama šio straipsnio 21 dalyje nurodyta subsidija darbo užmokesčiui, kai jis yra įdarbinęs iki 20 darbuotojų;
 
 
 
 
-2) 50 procentų darbuotojų, kai jis yra įdarbinęs 21 ir daugiau darbuotojų. 
+2) 50 procentų darbuotojų, neįskaičiuojant darbuotojų, už kuriuos buvo mokama šio straipsnio 21 dalyje nurodyta subsidija darbo užmokesčiui, kai jis yra įdarbinęs 21 ir daugiau darbuotojų. 
 
 
-Papildyta straipsnio dalimi:
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
+Straipsnio dalies pakeitimai:
+Nr. XIII-3005, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12829
  
 
 
@@ -2977,7 +2984,10 @@ Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 
 
 
-6) kol tęsiasi Lietuvos Respublikos Vyriausybės paskelbta ekstremalioji situacija ir karantinas ir užimtam asmeniui Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju paskelbta prastova, šio įstatymo 41 straipsnio 21 dalyje nustatytu atveju. 
+6) kol tęsiasi Lietuvos Respublikos Vyriausybės paskelbta ekstremalioji situacija ir (ar) karantinas ir užimtam asmeniui Lietuvos Respublikos darbo kodekso 47 straipsnio 1 dalies 2 punkte nustatytu atveju paskelbta prastova, šio įstatymo 41 straipsnio 21 dalyje nustatytu atveju. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3005, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12829
+ 
 
 
 
@@ -3222,7 +3232,7 @@ Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 
 
 
-8. Subsidijos gavėjas per 36 mėnesių laikotarpį nuo darbo vietos įsteigimo (pritaikymo) dienos ir šio straipsnio 5 dalies 4 punkte nurodytais atvejais pratęstą įsteigtos darbo vietos išlaikymo laikotarpį be Užimtumo tarnybos sutikimo neturi teisės:
+8. Subsidijos gavėjas, išskyrus šio įstatymo 47 straipsnio 3 dalies 3 punkte nurodytus subsidijos gavėjus, per 36 mėnesių laikotarpį nuo darbo vietos įsteigimo (pritaikymo) dienos ir šio straipsnio 5 dalies 4 punkte nurodytais atvejais pratęstą įsteigtos darbo vietos išlaikymo laikotarpį be Užimtumo tarnybos sutikimo neturi teisės:
 
 
 1) parduoti, įkeisti, išnuomoti, dovanoti ar kitaip perleisti arba kitaip suvaržyti teises į už subsidiją darbo vietai steigti įgytą turtą;
@@ -3241,6 +3251,7 @@ Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 Straipsnio dalies pakeitimai:
 Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
+Nr. XIII-3005, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12829
  
 
 
@@ -3528,19 +3539,14 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-2) 7 procentų Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos, galiojusios tą mėnesį, už kurį darbo paieškos išmoka mokama, dydžio darbo paieškos išmoka skiriama ir mokama asmenims, turintiems teisę gauti nedarbo socialinio draudimo išmoką;
-
-
-
-
-3) šios dalies 1 punkte nurodyto dydžio darbo paieškos išmokos dalis, viršijanti šio straipsnio 1 dalyje nustatytas sąlygas atitinkančio asmens gaunamų socialinio draudimo pensijų, šalpos išmokų, valstybinės pensijos, rentos buvusiems sportininkams, kompensacinės išmokos profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, netekto darbingumo periodinės kompensacijos, ligos išmokos dėl nelaimingų atsitikimų darbe ir profesinių ligų, ligos, motinystės, tėvystės ar vaiko priežiūros socialinio draudimo išmokų, profesinės reabilitacijos išmokų sumą, skiriama ir mokama šiame punkte nurodytų išmokų gavėjams, išskyrus šios dalies 2 punkte nurodyto dydžio darbo paieškos išmoką gaunančius asmenis.
+2) 7 procentų Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos, galiojusios tą mėnesį, už kurį darbo paieškos išmoka mokama, dydžio darbo paieškos išmoka skiriama ir mokama asmenims, turintiems teisę gauti nedarbo socialinio draudimo išmoką.
 
 
 
 
 
 
-3. Darbo paieškos išmoka mokama iki 6 mėnesių, bet ne ilgiau kaip iki 2020 m. gruodžio 31 d. Darbo paieškos išmokos mokėjimo terminas trumpinamas tokiam laikotarpiui, kokiam darbo paieškos išmokos mokėjimas buvo sustabdytas šio straipsnio 5 dalyje nustatytais atvejais.
+3. Darbo paieškos išmoka mokama iki 6 mėnesių, bet ne ilgiau kaip iki 2020 m. gruodžio 31 d. Darbo paieškos išmokos mokėjimo terminas trumpinamas tokiam laikotarpiui, kokiam darbo paieškos išmokos mokėjimas buvo sustabdytas šio straipsnio 5 dalyje nustatytu atveju.
 
 
 
@@ -3550,22 +3556,7 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-5. Šio straipsnio 1 dalyje nustatytas sąlygas atitinkančiam asmeniui paskirtos darbo paieškos išmokos mokėjimas sustabdomas:
-
-
-1) asmenims, atleistiems iš darbo (tarnybos), kuriems suteiktas bedarbio statusas ir priskaičiuota išeitinė išmoka arba šalių susitarimu kompensacija, paskirtos darbo paieškos išmokos mokėjimas sustabdomas, iki praeina tiek kalendorinių mėnesių po darbo sutarties nutraukimo (atleidimo iš tarnybos), už kiek kalendorinių mėnesių vidutinio darbo užmokesčio dydžio išeitinė išmoka arba kompensacija jiems buvo priskaičiuota, išskyrus atvejus, kai jam skiriant paskutinę nedarbo socialinio draudimo išmoką, vadovaujantis Lietuvos Respublikos nedarbo socialinio draudimo įstatymo 6 straipsnio 3 dalimi, buvo nustatytas vėlesnis nedarbo socialinio draudimo išmokos mokėjimo terminas;
-
-
-
-
-2) kai jis gauna ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros socialinio draudimo išmokas, paskirtas iki jo įsiregistravimo Užimtumo tarnyboje dienos, paskirtos darbo paieškos išmokos mokėjimas sustabdomas, iki baigiasi šių išmokų mokėjimo terminas; 
-
-
-
-
-3) laikotarpiu, kai jam šio įstatymo 24 straipsnio 1 dalyje nustatytais atvejais sustabdytas bedarbio statusas. 
-
-
+5. Šiame straipsnyje nustatytos darbo paieškos išmokos mokėjimas sustabdomas laikotarpiu, kai asmeniui šio įstatymo 24 straipsnio 1 dalyje nustatytais atvejais sustabdytas bedarbio statusas. 
 
 
 
@@ -3578,58 +3569,43 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-2) asmuo neatitinka bent vienos iš šio straipsnio 1 dalyje nustatytų sąlygų darbo paieškos išmokai skirti ir mokėti.
+2) asmuo nebeatitinka šio straipsnio 1 dalies 1 punkte nustatytos sąlygos darbo paieškos išmokai skirti ir mokėti.
 
 
 
 
 
 
-7. Darbo paieškos išmokas skiria, jų mokėjimą sustabdo, atnaujina ir nutraukia Užimtumo tarnyba. Užimtumo tarnyba sprendimą dėl:
+7. Darbo paieškos išmokas skiria, moka, jų mokėjimą sustabdo, atnaujina, nutraukia Užimtumo tarnyba. Užimtumo tarnyba priima sprendimą dėl:
 
 
-1) darbo paieškos išmokos skyrimo priima ne vėliau kaip per 10 darbo dienų nuo asmens kreipimosi į Užimtumo tarnybą dienos, darbo paieškos išmoką paskiriant nuo asmens kreipimosi į Užimtumo tarnybą dienos, bet ne anksčiau kaip nuo Lietuvos Respublikos Vyriausybės paskelbto karantino atšaukimo ar jo paskelbimo termino suėjimo dienos;
-
-
-
-
-2) darbo paieškos išmokos mokėjimo sustabdymo priima ne vėliau kaip per 5 darbo dienas nuo bent vienos iš aplinkybių, nurodytų šio straipsnio 5 dalyje, atsiradimo dienos, darbo paieškos išmokos mokėjimą sustabdant nuo bent vienos iš šio straipsnio 5 dalyje nurodytų aplinkybių atsiradimo dienos. Kai bent viena iš aplinkybių, nurodytų šio straipsnio 5 dalyje, egzistuoja asmeniui kreipiantis į Užimtumo tarnybą, sprendimą dėl darbo paieškos išmokos mokėjimo sustabdymo Užimtumo tarnyba, priėmusi sprendimą skirti asmeniui darbo paieškos išmoką, priima ne vėliau kaip per 10 darbo dienų nuo asmens kreipimosi į Užimtumo tarnybą dienos, nurodytos išmokos mokėjimą asmeniui sustabdant nuo jo kreipimosi į Užimtumo tarnybą dienos;
+1) darbo paieškos išmokos skyrimo – ne vėliau kaip per 10 darbo dienų nuo asmens kreipimosi į Užimtumo tarnybą dienos, darbo paieškos išmoką paskiriant nuo asmens kreipimosi į Užimtumo tarnybą dienos;
 
 
 
 
-3) darbo paieškos išmokos mokėjimo atnaujinimo priima per 5 darbo dienas nuo bent vienos iš aplinkybių, nurodytų šio straipsnio 5 dalyje, išnykimo dienos, darbo paieškos išmokos mokėjimą atnaujinant nuo bent vienos iš šio straipsnio 5 dalyje nurodytų aplinkybių išnykimo dienos;
+2) darbo paieškos išmokos mokėjimo sustabdymo – ne vėliau kaip per 5 darbo dienas nuo aplinkybės, nurodytos šio straipsnio 5 dalyje, atsiradimo dienos, darbo paieškos išmokos mokėjimą sustabdant nuo šio straipsnio 5 dalyje nurodytos aplinkybės atsiradimo dienos;
 
 
 
 
-4) darbo paieškos išmokos mokėjimo nutraukimo priima ne vėliau kaip per 5 darbo dienas nuo bent vienos iš aplinkybių, nurodytų šio straipsnio 6 dalyje, atsiradimo dienos.
+3) darbo paieškos išmokos mokėjimo atnaujinimo – per 5 darbo dienas nuo aplinkybės, nurodytos šio straipsnio 5 dalyje, išnykimo dienos, darbo paieškos išmokos mokėjimą atnaujinant nuo šio straipsnio 5 dalyje nurodytos aplinkybės išnykimo dienos;
+
+
+
+
+4) darbo paieškos išmokos mokėjimo nutraukimo – ne vėliau kaip per 5 darbo dienas nuo bent vienos iš aplinkybių, nurodytų šio straipsnio 6 dalyje, atsiradimo dienos.
 
 
 
 
 
 
-8. Darbo paieškos išmokas, atsižvelgiant į šio straipsnio 7 dalyje nurodytus Užimtumo tarnybos priimtus sprendimus, moka ir išieško išmokų mokėtojas.
+8. Kreipimosi dėl darbo paieškos išmokos, šios išmokos skyrimo ir mokėjimo tvarka nustatoma Užimtumo tarnybos direktoriaus patvirtintuose Darbo paieškos išmokų skyrimo ir mokėjimo nuostatuose. 
 
 
-
-
-9. Darbo paieškos išmokų išieškojimui mutatis mutandis taikomos Lietuvos Respublikos vaikų išlaikymo išmokų įstatymo V skyriaus nuostatos.
-
-
-
-
-10. Kreipimosi dėl darbo paieškos išmokos, šios išmokos skyrimo ir mokėjimo tvarka nustatoma Užimtumo tarnybos direktoriaus patvirtintuose Darbo paieškos išmokų skyrimo ir mokėjimo nuostatuose, suderintuose su išmokų mokėtoju.
-
-
-
-
-11. Išmokų mokėtojo patiriamos darbo paieškos išmokos mokėjimo ir išieškojimo sąnaudos kompensuojamos pagal Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatyme nustatytą procentinį dydį šioms sąnaudoms kompensuoti iš Lietuvos Respublikos socialinės apsaugos ir darbo ministerijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų. 
-
-
-Papildyta straipsniu:
-Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
+Straipsnio pakeitimai:
+Nr. XIII-3005, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12829
  
 
 
@@ -4302,3 +4278,8 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 1, 8, 10, 22, 24, 25, 37, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 5-1, 20, 25, 35, 37, 38, 41, 42, 43, 44, 47, 55 straipsnių pakeitimo ir Įstatymo papildymo 48-1 straipsniu įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3005, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12829
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 25, 41, 42, 44 ir 48-1 straipsnių pakeitimo įstatymas
