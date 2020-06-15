@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2021-10-08
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
  
@@ -1578,7 +1578,10 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-4. Priežiūros institucija privalo Juridinių asmenų registro nuostatuose nustatyta tvarka pranešti Juridinių asmenų registrui apie veiklos licencijos išdavimą, galiojimo sustabdymą ar panaikinimą. 
+4. Neteko galios nuo 2020-06-15
+Straipsnio dalies naikinimas:
+Nr. XIII-2961, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11334
+ 
 
 
 
@@ -11204,3 +11207,8 @@ Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 1, 2, 31, 45, 50, 95, 158-1,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2232, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10349
 Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 143, 147, 148, 154 ir 157 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2961, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11334
+Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 13 straipsnio pakeitimo įstatymas
