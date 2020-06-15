@@ -13,6 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/420f4dd0927c11e9ae2e9d61b1f977b3"
 
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas
 
+Suvestinė redakcija nuo 2020-06-15 iki 2020-06-30
+ 
+Įstatymas paskelbtas: TAR 2019-06-19, i. k. 2019-09862
+ 
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 SPECIALIŲJŲ ŽEMĖS NAUDOJIMO SĄLYGŲ
 ĮSTATYMAS
@@ -3421,7 +3429,10 @@ VALSTYBINIŲ GAMTINIŲ REZERVATŲ BUFERINĖSE APSAUGOS ZONOSE TAIKOMOS SPECIALIO
 
 
 
-2) naudoti trąšas ir augalų apsaugos produktus ne žemės ūkio naudmenose;
+2) naudoti trąšas ir augalų apsaugos produktus ne žemės ūkio naudmenose, išskyrus augalų apsaugos produktų naudojimą, kai nustatomas užkrėtimas kenksmingaisiais organizmais arba aplinkos ministro nustatyta tvarka masinis miško kenkėjų išplitimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2990, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12612
+ 
 
 
 
@@ -3985,11 +3996,6 @@ GEOLOGINIUOSE DRAUSTINIUOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS
 
 2. Už geologinio draustinio apsaugą atsakinga institucija nepritaria numatomai veiklai ar projektui, jeigu šio straipsnio 1 dalies 1 punkte nurodyti darbai sunaikins ir (ar) sužalos geologiniame draustinyje saugomas gamtos vertybes arba neleis jų atkurti, eksponuoti ar tvarkyti.
  
- 
- 
- 
- 
- 
 
 
 
@@ -4080,7 +4086,10 @@ Pedologiniuose draustiniuose draudžiama:
 
 
 
-2) naudoti trąšas ir augalų apsaugos produktus, išskyrus augalų apsaugos produktų naudojimo invaziniams augalams naikinti atvejus, numatytus aplinkos ministro nustatyta tvarka patvirtintuose invazinių rūšių populiacijų gausos reguliavimo veiksmų planuose ar saugomų teritorijų planavimo dokumentuose, taip pat atvejus, kai nustatomas masinis kenkėjų išplitimas arba užkrėtimas kenksmingaisiais organizmais;
+2) naudoti trąšas ir augalų apsaugos produktus, išskyrus augalų apsaugos produktų naudojimo invaziniams augalams naikinti atvejus, numatytus aplinkos ministro nustatyta tvarka patvirtintuose invazinių rūšių populiacijų gausos reguliavimo veiksmų planuose ar saugomų teritorijų planavimo dokumentuose, taip pat išskyrus augalų apsaugos produktų naudojimą, kai nustatomas užkrėtimas kenksmingaisiais organizmais arba aplinkos ministro nustatyta tvarka masinis miško kenkėjų išplitimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2990, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12612
+ 
 
 
 
@@ -4113,7 +4122,10 @@ Botaniniuose draustiniuose draudžiama:
 
 
 
-2) naudoti trąšas ir augalų apsaugos produktus, išskyrus jų naudojimą dirbamojoje žemėje, urbanizuotose teritorijose, taip pat augalų apsaugos produktų naudojimo invaziniams augalams naikinti atvejus, numatytus aplinkos ministro nustatyta tvarka patvirtintuose invazinių rūšių populiacijų gausos reguliavimo veiksmų planuose ar saugomų teritorijų planavimo dokumentuose, ir atvejus, kai nustatomas masinis kenkėjų išplitimas arba užkrėtimas kenksmingaisiais organizmais;
+2) naudoti trąšas ir augalų apsaugos produktus, išskyrus jų naudojimą dirbamojoje žemėje, urbanizuotose teritorijose, taip pat augalų apsaugos produktų naudojimo invaziniams augalams naikinti atvejus, numatytus aplinkos ministro nustatyta tvarka patvirtintuose invazinių rūšių populiacijų gausos reguliavimo veiksmų planuose ar saugomų teritorijų planavimo dokumentuose, taip pat išskyrus augalų apsaugos produktų naudojimą, kai nustatomas užkrėtimas kenksmingaisiais organizmais arba aplinkos ministro nustatyta tvarka masinis miško kenkėjų išplitimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2990, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12612
+ 
 
 
 
@@ -4139,8 +4151,6 @@ Botaniniuose draustiniuose draudžiama:
 
 
 7) įrengti šėryklas ir viliojimo vietas kanopiniams žvėrims.
- 
- 
  
 
 
@@ -4168,7 +4178,10 @@ ZOOLOGINIUOSE DRAUSTINIUOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS
 
 
 
-2) naudoti trąšas ir augalų apsaugos produktus, išskyrus atvejus, kai aplinkos ministro nustatyta tvarka patvirtintuose invazinių rūšių populiacijų gausos reguliavimo veiksmų planuose ar saugomų teritorijų planavimo dokumentuose numatytas augalų apsaugos produktų panaudojimas invaziniams augalams naikinti, ir atvejus, kai nustatomas masinis kenkėjų išplitimas arba užkrėtimas kenksmingaisiais organizmais.
+2) naudoti trąšas ir augalų apsaugos produktus, išskyrus atvejus, kai aplinkos ministro nustatyta tvarka patvirtintuose invazinių rūšių populiacijų gausos reguliavimo veiksmų planuose ar saugomų teritorijų planavimo dokumentuose numatytas augalų apsaugos produktų panaudojimas invaziniams augalams naikinti, taip pat išskyrus augalų apsaugos produktų naudojimą, kai nustatomas užkrėtimas kenksmingaisiais organizmais arba aplinkos ministro nustatyta tvarka masinis miško kenkėjų išplitimas. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2990, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12612
+ 
 
 
 
@@ -4239,7 +4252,25 @@ ORNITOLOGINIUOSE DRAUSTINIUOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS
 
 
 
-3) skraidyti orlaiviais su varikliu (varikliais) žemesniame kaip vieno kilometro aukštyje, išskyrus ekstremaliųjų įvykių ir (ar) avarijų padarinių likvidavimo, žmonių paieškos ir gelbėjimo, nusikalstamų veikų užkardymo ir jas padariusių asmenų nustatymo bei sulaikymo ir karinės jėgos naudojimo taikos metu atvejus;
+3) skraidyti orlaiviais su varikliu (varikliais) žemesniame kaip vieno kilometro aukštyje, išskyrus:
+
+
+a) ekstremaliųjų įvykių ir (ar) avarijų padarinių likvidavimo, žmonių paieškos ir gelbėjimo, nusikalstamų veikų užkardymo ir jas padariusių asmenų nustatymo bei sulaikymo ir karinės jėgos naudojimo taikos metu atvejais;
+
+
+
+
+b) nustatyto užkrėtimo kenksmingaisiais organizmais atvejais;
+
+
+
+
+c) aplinkos ministro nustatyta tvarka nustatytų masinio miško kenkėjų išplitimo židinių naikinimo atvejais; 
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIII-2990, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12612
+ 
 
 
 
@@ -4289,7 +4320,25 @@ f) nustatytas draudimo lankytis laikotarpis aplinkos ministro įsakymu dėl drau
 
 
 
-7) sakinti mišką, neįšalus gruntui vykdyti miškų ūkio darbus, kurių metu pažeidžiama paklotė ir (ar) paviršinis dirvožemio sluoksnis, išskyrus miško atkūrimo ir (ar) įveisimo darbus, nuo kovo 1 d. iki rugpjūčio 1 d., išskyrus atvejus, kai atliekami ekstremaliųjų įvykių ir (ar) avarijų padarinių likvidavimo darbai.
+7) sakinti mišką, neįšalus gruntui vykdyti miškų ūkio darbus, kurių metu pažeidžiama paklotė ir (ar) paviršinis dirvožemio sluoksnis, nuo kovo 1 d. iki rugpjūčio 1 d., išskyrus:
+
+
+a) miško atkūrimo ir (ar) įveisimo darbus;
+
+
+
+
+b) sanitarinius miško kirtimus atvejais, kai nustatomas užkrėtimas kenksmingaisiais organizmais arba aplinkos ministro nustatyta tvarka masinis miško kenkėjų išplitimas; 
+
+
+
+
+c) kai atliekami ekstremaliųjų įvykių ir (ar) avarijų padarinių likvidavimo darbai. 
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIII-2990, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12612
+ 
 
 
 
@@ -4297,7 +4346,6 @@ f) nustatytas draudimo lankytis laikotarpis aplinkos ministro įsakymu dėl drau
 
 
 2. Šio straipsnio 1 dalies 6 punkto b ir c papunkčiuose nurodytą veiklą vykdyti draudžiama, aplinkos ministro nustatyta tvarka negavus už ornitologinio draustinio apsaugą atsakingos institucijos pritarimo šiai veiklai. Už ornitologinio draustinio apsaugą atsakinga institucija nepritaria numatomai veiklai, jeigu nurodyti darbai sunaikins ir (ar) sužalos ornitologiniame draustinyje saugomas gamtos vertybes arba neleis jų atkurti, eksponuoti ar tvarkyti.
- 
  
 
 
@@ -4363,7 +4411,10 @@ f) nustatytas draudimo lankytis laikotarpis aplinkos ministro įsakymu paankstin
 
 
 
-4) vykdyti entomologiniuose draustiniuose kai kurių rūšių medžių sanitarinius kirtimus aplinkos ministro patvirtintose Miško kirtimo taisyklėse nustatytais atvejais;
+4) vykdyti entomologiniuose draustiniuose sanitarinius miško kirtimus, išskyrus atvejus, kai jie privalomi pagal aplinkos ministro patvirtintas Miško sanitarinės apsaugos taisykles; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2990, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12612
+ 
 
 
 
@@ -4406,7 +4457,10 @@ BOTANINIUOSE-ZOOLOGINIUOSE DRAUSTINIUOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIM
 
 
 
-2) naudoti trąšas ir augalų apsaugos produktus, išskyrus jų naudojimą dirbamojoje žemėje, urbanizuotose teritorijose, taip pat augalų apsaugos produktų naudojimo invaziniams augalams naikinti atvejus, numatytus aplinkos ministro nustatyta tvarka patvirtintuose invazinių rūšių populiacijų gausos reguliavimo veiksmų planuose ar saugomų teritorijų planavimo dokumentuose, ir atvejus, kai nustatomas masinis kenkėjų išplitimas arba užkrėtimas kenksmingaisiais organizmais;
+2) naudoti trąšas ir augalų apsaugos produktus, išskyrus jų naudojimą dirbamojoje žemėje, urbanizuotose teritorijose, taip pat augalų apsaugos produktų naudojimo invaziniams augalams naikinti atvejus, numatytus aplinkos ministro nustatyta tvarka patvirtintuose invazinių rūšių populiacijų gausos reguliavimo veiksmų planuose ar saugomų teritorijų planavimo dokumentuose, taip pat išskyrus augalų apsaugos produktų naudojimą, kai nustatomas užkrėtimas kenksmingaisiais organizmais arba aplinkos ministro nustatyta tvarka masinis miško kenkėjų išplitimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2990, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12612
+ 
 
 
 
@@ -4517,7 +4571,25 @@ TELMOLOGINIUOSE DRAUSTINIUOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS
 
 
 
-3) neįšalus gruntui vykdyti miškų ūkio darbus, kurių metu pažeidžiama paklotė ir (ar) paviršinis dirvožemio sluoksnis (išskyrus miško atkūrimo ir (ar) įveisimo darbus), išskyrus atvejus, kai atliekami ekstremaliųjų įvykių ir (ar) avarijų padarinių likvidavimo darbai;
+3) neįšalus gruntui vykdyti miškų ūkio darbus, kurių metu pažeidžiama paklotė ir (ar) paviršinis dirvožemio sluoksnis, išskyrus: 
+
+
+a) miško atkūrimo ir (ar) įveisimo darbus;
+
+
+
+
+b) sanitarinius miško kirtimus atvejais, kai nustatomas užkrėtimas kenksmingaisiais organizmais arba aplinkos ministro nustatyta tvarka nustatomas masinis miško kenkėjų išplitimas;
+
+
+
+
+c) atvejus, kai atliekami ekstremaliųjų įvykių ir (ar) avarijų padarinių likvidavimo darbai; 
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIII-2990, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12612
+ 
 
 
 
@@ -5765,7 +5837,10 @@ Pajūrio juostoje draudžiama:
 4) važiuoti motorinėmis transporto priemonėmis, traktoriais ir savaeigėmis mašinomis pajūrio juostos paplūdimiu, kopagūbriu (kopomis) ir povandeniniu krantu, išskyrus atvejus, kai:
 
 
-a) vykdomi žmonių paieškos ir gelbėjimo darbai, valstybės sienos ir (ar) krašto apsauga, įgyvendinamos ekstremaliųjų įvykių ir (ar) avarijų prevencinės priemonės, vykdomi ekstremaliųjų įvykių ir avarijų padarinių likvidavimo darbai;
+a) vykdomi žmonių paieškos ir gelbėjimo darbai, valstybės sienos ir (ar) krašto apsauga, įgyvendinamos ekstremaliųjų įvykių ir (ar) avarijų prevencinės priemonės, naikinami nustatyti užkrėtimo kenksmingaisiais organizmais arba aplinkos ministro nustatyta tvarka nustatyti masinio kenkėjų išplitimo židiniai, vykdomi ekstremaliųjų įvykių ir avarijų padarinių likvidavimo darbai; 
+Papunkčio pakeitimai:
+Nr. XIII-2990, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12612
+ 
 
 
 
@@ -9572,3 +9647,13 @@ Pastatams, kuriuose laikomi ūkiniai gyvūnai (iki 300 sutartinių gyvulių), su
 
  
 ____________________________
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2990, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12612
+Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 66, 73, 74, 75, 77, 78, 79, 81 ir 97 straipsnių pakeitimo įstatymas
