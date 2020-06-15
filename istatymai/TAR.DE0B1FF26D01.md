@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2020-04-01 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 26-578, i. k. 0951010ISTA000I-796
  
@@ -512,7 +512,10 @@ KREDITO UNIJOS STEIGIMAS IR LICENCIJAVIMAS
 
 
 
-9. Apie priimtą sprendimą dėl licencijos išdavimo pranešama Juridinių asmenų registro tvarkytojui Juridinių asmenų registro nuostatuose nustatyta tvarka ir paskelbiama priežiūros institucijos interneto svetainėje.
+9. Apie priimtą sprendimą dėl licencijos išdavimo paskelbiama priežiūros institucijos interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2967, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11347
+ 
 
 
 
@@ -568,7 +571,10 @@ KREDITO UNIJOS STEIGIMAS IR LICENCIJAVIMAS
 
 
 
-2. Apie licencijos atšaukimą ar jos galiojimo sustabdymą pranešama kredito unijai ir Juridinių asmenų registro tvarkytojui Juridinių asmenų registro nuostatuose nustatyta tvarka ir paskelbiama priežiūros institucijos interneto svetainėje.
+2. Apie licencijos atšaukimą ar jos galiojimo sustabdymą pranešama kredito unijai ir paskelbiama priežiūros institucijos interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2967, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11347
+ 
 
 
 
@@ -4091,3 +4097,8 @@ Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 73, 75, 76 ir 77 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
 Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 4, 5, 14, 21, 25 ir 29 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2967, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11347
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 7 ir 8 straipsnių pakeitimo įstatymas
