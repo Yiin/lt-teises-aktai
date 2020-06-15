@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2020-05-30 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2020-11-18
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -6811,7 +6811,10 @@ Draudžiama teisės aktuose diskriminacijos tikslais nustatyti skirtingas teises
 
 
 
-4. Informacija apie licencijos išdavimą, jos galiojimo sustabdymą ir panaikinimą kaupiama juridinių asmenų registre. Licencijas išduodanti institucija privalo apie licencijų išdavimą, galiojimo sustabdymą ar panaikinimą pranešti juridinių asmenų registrui juridinių asmenų registro nuostatų nustatyta tvarka.
+4. Neteko galios nuo 2020-06-15
+Straipsnio dalies naikinimas:
+Nr. XIII-2957, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11327
+ 
 
 
 
@@ -49990,3 +49993,8 @@ Lietuvos Respublikos civilinio kodekso 6.751 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2956, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11673
 Lietuvos Respublikos civilinio kodekso 6.751 straipsnio pakeitimo įstatymas
+ 
+47.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2957, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11327
+Lietuvos Respublikos civilinio kodekso 2.79 straipsnio pakeitimo įstatymas
