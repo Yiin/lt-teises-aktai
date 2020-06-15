@@ -18,9 +18,10 @@ LIETUVOS RESPUBLIKOS
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2018-08-01 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2022-11-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7759, i. k. 1111010ISTA0XI-1868
  
@@ -858,7 +859,9 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 
-9. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą priežiūros institucija skelbia savo interneto svetainėje ir pateikia šią informaciją Juridinių asmenų registro tvarkytojui. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą, įskaitant licencijos galiojimo panaikinimo ar sustabdymo priežastis, priežiūros institucija taip pat praneša Europos bankininkystės institucijai Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta Direktyvos (ES) 2015/2366 15 straipsnio 4 ir 5 dalyse, nustatyta tvarka.
+9. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą priežiūros institucija skelbia savo interneto svetainėje. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą, įskaitant licencijos galiojimo panaikinimo ar sustabdymo priežastis, priežiūros institucija praneša Europos bankininkystės institucijai Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta Direktyvos (ES) 2015/2366 15 straipsnio 4 ir 5 dalyse, nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2962, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11335
  
 
 
@@ -2336,13 +2339,15 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
 
 
  
 
 
 
+
+ 
 
  
 Lietuvos Respublikos 
@@ -2390,3 +2395,11 @@ Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo įstatymo Nr. XIII-1094 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2962, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11335
+Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 15 straipsnio pakeitimo įstatymas
+ 
+ 
+part_03b1bcb0ce6f4337a1f8a2a91fa09b5d_end
