@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e68da860903411e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymas
 
-Suvestinė redakcija nuo 2019-12-21 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2021-12-28
  
 Įstatymas paskelbtas: TAR 2014-12-30, i. k. 2014-21092
  
@@ -722,7 +722,9 @@ VALDYMO ĮMONĖS LICENCIJOS IŠDAVIMAS IR VALDYMO ĮMONĖS REGISTRAVIMASIS PRIE�
 
 
 
-7. Apie valdymo įmonės licencijos išdavimą, jos galiojimo sustabdymą ar panaikinimą priežiūros institucija praneša Juridinių asmenų registro tvarkytojui, kituose teisės aktuose nurodytoms institucijoms ir paskelbia savo interneto svetainėje. Apie valdymo įmonės licencijos išdavimą, jos galiojimo sustabdymą ar panaikinimą priežiūros institucija praneša Europos vertybinių popierių ir rinkų institucijai.
+7. Apie valdymo įmonės licencijos išdavimą, jos galiojimo sustabdymą ar panaikinimą priežiūros institucija praneša Europos vertybinių popierių ir rinkų institucijai ir paskelbia savo interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2958, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11329
  
 
 
@@ -4335,7 +4337,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
  
 
 
@@ -4438,3 +4440,8 @@ Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdyto
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2658, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20834
 Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo Nr. XII-1467 4, 55, 56, 60, 61 straipsnių ir priedo pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2958, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11329
+Lietuvos Respublikos alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymo Nr. XII-1467 6 straipsnio pakeitimo įstatymas
