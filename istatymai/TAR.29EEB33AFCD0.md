@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2020-01-30 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
  
@@ -517,7 +517,10 @@ CENTRINĖS KREDITO UNIJOS STEIGIMAS IR LICENCIJAVIMAS
 
 
 
-12. Apie priimtą sprendimą išduoti licenciją ar jos neišduoti pranešama Juridinių asmenų registrui Juridinių asmenų registro nuostatuose nustatyta tvarka ir paskelbiama priežiūros institucijos interneto svetainėje.
+12. Apie priimtą sprendimą išduoti licenciją ar jos neišduoti paskelbiama priežiūros institucijos interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2960, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11333
+ 
 
 
 
@@ -558,7 +561,10 @@ CENTRINĖS KREDITO UNIJOS STEIGIMAS IR LICENCIJAVIMAS
 
 
 
-2. Apie licencijos atšaukimą ar jos galiojimo sustabdymą pranešama centrinei kredito unijai, Juridinių asmenų registrui Juridinių asmenų registro nuostatuose nustatyta tvarka ir paskelbiama priežiūros institucijos interneto svetainėje.
+2. Apie licencijos atšaukimą ar jos galiojimo sustabdymą pranešama centrinei kredito unijai ir paskelbiama priežiūros institucijos interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2960, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11333
+ 
 
 
 
@@ -3752,3 +3758,8 @@ Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 66, 68, 6
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2777, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02012
 Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 4 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2960, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11333
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 8 ir 9 straipsnių pakeitimo įstatymas
