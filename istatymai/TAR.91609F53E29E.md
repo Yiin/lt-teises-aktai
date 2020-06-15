@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -1244,7 +1244,10 @@ Licencijas išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina ir
 
 
 
-7. Socialinių paslaugų priežiūros departamentas privalo teisės aktų nustatyta tvarka pranešti Juridinių asmenų registrui apie licencijos išdavimą, jos galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir galiojimo panaikinimą. 
+7. Neteko galios nuo 2020-06-15
+Straipsnio dalies naikinimas:
+Nr. XIII-2970, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11353
+ 
 
 
 
@@ -2298,3 +2301,8 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19 ir 31 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2292, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12180
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 13 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2970, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11353
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 23 straipsnio pakeitimo įstatymas
