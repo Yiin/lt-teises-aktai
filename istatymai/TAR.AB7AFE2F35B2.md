@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2020-05-30 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2020-09-02
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
  
@@ -1195,7 +1195,9 @@ FINANSŲ MAKLERIO ĮMONĖS LICENCIJA
 
 
 
-5. Apie licencijos išdavimą ar galiojimo panaikinimą priežiūros institucija praneša Juridinių asmenų registro tvarkytojui ir Europos vertybinių popierių ir rinkų institucijai ir apie tai paskelbia priežiūros institucijos interneto svetainėje.
+5. Apie licencijos išdavimą ar galiojimo panaikinimą priežiūros institucija praneša Europos vertybinių popierių ir rinkų institucijai ir apie tai paskelbia savo interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2964, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11343
  
 
 
@@ -5416,7 +5418,9 @@ INFORMACIJOS APIE SANDORIUS PASLAUGŲ TEIKĖJŲ LICENCIJAVIMAS
 
 
 
-4. Apie licencijos išdavimą, jos galiojimo sustabdymą arba panaikinimą priežiūros institucija praneša Juridinių asmenų registro tvarkytojui ir Europos vertybinių popierių ir rinkų institucijai ir paskelbia priežiūros institucijos interneto svetainėje.
+4. Apie licencijos išdavimą, jos galiojimo sustabdymą arba panaikinimą priežiūros institucija praneša Europos vertybinių popierių ir rinkų institucijai ir paskelbia priežiūros savo interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2964, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11343
  
 
 
@@ -5785,13 +5789,11 @@ INFORMACIJOS APIE SANDORIUS PASLAUGŲ TEIKĖJŲ VEIKLOS REIKALAVIMAI
 
 
 4. Konsoliduotos informacijos apie sandorius skelbimo subjektas privalo nustatyti tinkamą veiklos organizavimo politiką ir procedūras, skirtas informacijai, paskelbtai viešai pagal Reglamento (ES) Nr. 600/2014 10 ir 21 straipsniuose nustatytus reikalavimus, rinkti, konsoliduoti šią informaciją į nepertraukiamą nuolat atnaujinamą elektroninių duomenų srautą, taip pat sudaryti sąlygas kitiems asmenims viešai naudotis informacija įprastomis komercinėmis sąlygomis ir kuo mažiau nukrypstant nuo realiojo laiko.
-TAR pastaba. 85 straipsnio 4, 5 ir 6 dalys įsigalioja 2019 m. rugsėjo 3 d.
 
 
 
 
 5. Konsoliduotos informacijos apie sandorius skelbimo subjektas privalo sudaryti nediskriminacines galimybes kitiems asmenims greitai ir nemokamai naudotis šio straipsnio 4 dalyje nurodyta informacija praėjus ne mažiau kaip 15 minučių nuo jos paskelbimo momento. Ši informacija turi būti viešai skelbiama rinkoje įprastu būdu, kad būtų lengvai prieinama ir patogi naudoti kitiems rinkos dalyviams.
-TAR pastaba. 85 straipsnio 4, 5 ir 6 dalys įsigalioja 2019 m. rugsėjo 3 d.
 
 
 
@@ -5835,7 +5837,6 @@ TAR pastaba. 85 straipsnio 4, 5 ir 6 dalys įsigalioja 2019 m. rugsėjo 3 d.
 
 
 8) specialios sąlygos, jeigu jos buvo taikytos sandoriui.
-TAR pastaba. 85 straipsnio 4, 5 ir 6 dalys įsigalioja 2019 m. rugsėjo 3 d.
 
 
 
@@ -7766,3 +7767,8 @@ Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 3, 25, 3
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 30, 62-1, 67 straipsnių ir priedo pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2964, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11343
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 6 ir 79 straipsnių pakeitimo įstatymas
