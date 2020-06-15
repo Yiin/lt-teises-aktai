@@ -21,7 +21,7 @@ INVESTAVIMO SUBJEKTŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2021-12-28
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 68-3410, i. k. 1131010ISTA0XII-376
  
@@ -721,7 +721,10 @@ Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 
 
 
-11. Apie valdymo įmonės ar investicinės bendrovės-valdytojos veiklos leidimo išdavimą ar jo galiojimo panaikinimą priežiūros institucija praneša Juridinių asmenų registro tvarkytojui, kitoms teisės aktuose nurodytoms institucijoms ir paskelbia viešai savo interneto svetainėje.
+11. Apie valdymo įmonės ar investicinės bendrovės-valdytojos veiklos leidimo išdavimą ar jo galiojimo panaikinimą priežiūros institucija paskelbia viešai savo interneto svetainėje.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2965, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11345
+ 
 
 
 
@@ -3436,7 +3439,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
  
 
 
@@ -3514,3 +3517,8 @@ Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio invest
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2656, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20828
 Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 pakeitimo įstatymo Nr. XIII-1873 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2965, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11345
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 9 straipsnio pakeitimo įstatymas
