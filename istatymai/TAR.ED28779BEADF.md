@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2019-12-21 iki 2020-06-14
+Suvestinė redakcija nuo 2020-06-15 iki 2021-12-28
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
  
@@ -775,7 +775,10 @@ Nr. XIII-2654, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20824
 
 
 
-7. Apie valdymo įmonės ar investicinės bendrovės-valdytojos licencijos išdavimą, jos galiojimo sustabdymą ar panaikinimą priežiūros institucija praneša Juridinių asmenų registro tvarkytojui, valstybės įmonei „Indėlių ir investicijų draudimas“ ir paskelbia priežiūros institucijos interneto svetainėje. Apie valdymo įmonės licencijos išdavimą, jos galiojimo sustabdymą ar panaikinimą priežiūros institucija praneša Europos vertybinių popierių ir rinkų institucijai.
+7. Apie valdymo įmonės ar investicinės bendrovės-valdytojos licencijos išdavimą, jos galiojimo sustabdymą ar panaikinimą priežiūros institucija praneša valstybės įmonei „Indėlių ir investicijų draudimas“ ir paskelbia savo interneto svetainėje. Apie valdymo įmonės licencijos išdavimą, jos galiojimo sustabdymą ar panaikinimą priežiūros institucija praneša Europos vertybinių popierių ir rinkų institucijai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2966, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11346
+ 
 
 
 
@@ -8440,3 +8443,8 @@ Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 4,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
 Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 pakeitimo įstatymo Nr. XIII-1872 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2966, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11346
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 6 straipsnio pakeitimo įstatymas
