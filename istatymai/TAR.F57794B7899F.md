@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-06-01 iki 2020-06-17
+Suvestinė redakcija nuo 2020-06-18 iki 2020-06-21
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -1572,7 +1572,7 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-6) vykdyti nepriklausomo elektros energijos tiekimo veiklą.
+6) vykdyti nepriklausomo elektros energijos tiekimo veiklą;
 
 
 
@@ -3008,8 +3008,10 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 33 straipsnis. Perdavimo tinklų plėtra ir įgaliojimai priimti sprendimus dėl investavimo
 
 
-1. Perdavimo sistemos operatorius ne vėliau kaip iki kiekvienų metų liepos 1 dienos Tarybai pateikia 10 metų perdavimo tinklų plėtros planą, grindžiamą esama ir numatoma elektros energijos pasiūla ir paklausa elektros energetikos sistemoje. Prieš teikiant tinklų plėtros planą Tarybai, perdavimo sistemos operatoriaus sprendimu vykdomos konsultacijos su kompetentingomis valstybės institucijomis ir suinteresuotais tinklų naudotojais. Tinklų plėtros plane nurodomos veiksmingos priemonės, skirtos sistemos pajėgumų pakankamumui ir tiekimo saugumui užtikrinti. 
-TAR pastaba. Pirmą kartą po įstatymo Nr. XIII-1970 įsigaliojimo (2019-07-01) teikiant 33 straipsnio 1 dalyje nurodytą perdavimo tinklų plėtros planą, perdavimo tinklų plėtros planas pateikiamas Valstybinei energetikos reguliavimo tarybai, jeigu perdavimo sistemos operatorius šio plano nebuvo pateikęs Valstybinei kainų ir energetikos kontrolės komisijai iki šio įstatymo įsigaliojimo.
+1. Perdavimo sistemos operatorius, vadovaudamasis šio įstatymo 18 straipsnyje nustatytais reikalavimais, parengia ir ne vėliau kaip iki kiekvienų metų liepos 1 dienos Tarybai pateikia 10 metų perdavimo tinklų plėtros planą, kuriame pateikiamas esamos ir numatomos elektros energijos pasiūlos ir paklausos vertinimas, atlikto tikimybinio elektros energetikos sistemos adekvatumo vertinimo išvados. Prieš teikiant tinklų plėtros planą Tarybai, perdavimo sistemos operatoriaus sprendimu su kompetentingomis valstybės institucijomis ir suinteresuotais tinklų naudotojais vykdomos viešos konsultacijos, kurių metu pristatomos ir tikimybinio elektros energetikos sistemos adekvatumo vertinimo išvados. Tinklų plėtros plane nurodomos veiksmingos priemonės, skirtos sistemos pajėgumų pakankamumui ir tiekimo saugumui užtikrinti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
 
 
 
@@ -3027,7 +3029,7 @@ TAR pastaba. Pirmą kartą po įstatymo Nr. XIII-1970 įsigaliojimo (2019-07-01)
 
 
 
-3) visų investicinių projektų planuojami įgyvendinimo terminai.
+3) visų investicinių projektų planuojami įgyvendinimo terminai;
 
 
 
@@ -3380,7 +3382,7 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-5) skirstomųjų tinklų operatoriaus pagrįstos prognozės, kuriomis remiantis buvo sudarytas planas, ir jų prielaidos.
+5) skirstomųjų tinklų operatoriaus pagrįstos prognozės, kuriomis remiantis buvo sudarytas planas, ir jų prielaidos;
 
 
 
@@ -6576,3 +6578,13 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 16, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 38, 39, 40, 41, 42, 43, 44, 46, 47, 49, 51, 52, 59, 60, 61, 67 ir 68 straipsnių pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 9, 12, 16, 17, 30, 31, 33, 35, 39-1, 41, 59, 69 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 61-1 straipsniu įstatymas
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 6, 7, 9, 18, 31, 33, 78 straipsnių, priedo pakeitimo ir Įstatymo papildymo dešimtuoju-1 skirsniu įstatymas
