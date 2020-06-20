@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/7582669084d911e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos civilinio proceso kodekso 570, 629, 631, 663, 668, 688, 689, 736, 739, 746 ir 749 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2020-06-20
+ 
+Įstatymas paskelbtas: TAR 2018-07-11, i. k. 2018-11774
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 CIVILINIO PROCESO KODEKSO 570, 629, 631, 663, 668, 688, 689, 736, 739, 746 IR 749 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -356,7 +363,10 @@ Pakeisti 749 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
 
-3. Šio įstatymo 5 ir 7 straipsniai įsigalioja 2020 m. liepos 1 d.
+3. Šio įstatymo 5 ir 7 straipsniai įsigalioja 2022 m. liepos 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3035, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13473
+ 
 
 
 
@@ -384,3 +394,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3035, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13473
+Lietuvos Respublikos civilinio proceso kodekso 570, 629, 631, 663, 668, 688, 689, 736, 739, 746 ir 749 straipsnių pakeitimo įstatymo Nr. XIII-1460 12 straipsnio pakeitimo įstatymas
