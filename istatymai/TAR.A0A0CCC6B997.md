@@ -21,7 +21,7 @@ PATVIRTINTAS
  
 
 
-Suvestinė redakcija nuo 2020-05-01 iki 2020-06-19
+Suvestinė redakcija nuo 2020-06-20 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3084, i. k. 1021010ISTA00IX-994
  
@@ -1117,7 +1117,10 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 
 
 
-2. Iš kardomojo kalinimo vietos į pataisos įstaigą nuteistuosius Lietuvos Respublikos Vyriausybės nustatyta tvarka pristato Viešojo saugumo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba).
+2. Iš tardymo izoliatoriaus į pataisos įstaigą nuteistuosius pristato Viešojo saugumo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba) arba kitos teisę konvojuoti nuteistuosius turinčios institucijos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
+ 
 
 
 
@@ -1424,7 +1427,10 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 
 
 
-7. Į pataisos įstaigas nuteistuosius, kuriems paskirtas terminuotas laisvės atėmimas arba laisvės atėmimas iki gyvos galvos, Lietuvos Respublikos Vyriausybės nustatyta tvarka pristato Viešojo saugumo tarnyba.
+7. Į pataisos įstaigas nuteistuosius, kuriems paskirtas terminuotas laisvės atėmimas arba laisvės atėmimas iki gyvos galvos, pristato Viešojo saugumo tarnyba arba kitos teisę konvojuoti nuteistuosius turinčios institucijos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
+ 
 
 
 Straipsnio pakeitimai:
@@ -1448,98 +1454,266 @@ Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 
 
 
-68 straipsnis. Nuteistųjų palikimas kardomojo kalinimo vietose, laisvės atėmimo vietos ligoninėje arba kalėjime atlikti ūkio darbus
+68 straipsnis. Nuteistųjų perkėlimas iš vienos grupės į kitą
 
 
-1. Nuteistieji, kuriems laisvės atėmimo bausmę atlikti nustatyta pataisos namuose, gali būti palikti kardomojo kalinimo vietose, laisvės atėmimo vietos ligoninėje arba kalėjime atlikti ūkio darbus.
+1. Nuteistasis iš paprastosios grupės į lengvąją grupę perkeliamas, kai atitinka visas šias sąlygas:
 
 
-
-
-2. Atlikti šiuos darbus nuteistasis paliekamas kardomojo kalinimo vietos, laisvės atėmimo vietos ligoninės arba kalėjimo direktoriaus įsakymu, jei yra rašytinis nuteistojo sutikimas.
+1) yra atlikęs ne mažiau kaip šešis mėnesius, o nepilnametis – atlikęs ne mažiau kaip tris mėnesius paskirtos bausmės paprastosios grupės sąlygomis, o kai paskirta bausmė yra trumpesnė kaip vieneri metai, – atlikęs ne mažiau kaip vieną ketvirtadalį paskirtos bausmės;
 
 
 
 
-3. Atlikti ūkio darbus palikti nuteistieji laikomi pataisos namų paprastosios arba lengvosios grupių laikymo sąlygomis.
+2) per paskutinius šešis bausmės atlikimo mėnesius, o kai paskirta bausmė yra trumpesnė kaip vieneri metai, – per paskutinius tris bausmės atlikimo mėnesius nebuvo atsisakęs pataisos įstaigos administracijos jam pasiūlyto darbo;
+
+
+
+
+3) vykdo individualiame socialinės reabilitacijos plane nurodytas priemones;
+
+
+
+
+4) per paskutinius šešis bausmės atlikimo mėnesius nebuvo baustas už bausmės atlikimo režimo reikalavimų pažeidimą ir (arba) nebuvo baustas administracine tvarka, o kai paskirta bausmė yra trumpesnė kaip vieneri metai, – nebuvo baustas per visą atliktos bausmės laiką;
+
+
+
+
+5) jo nusikalstamo elgesio rizika yra žema arba vidutinė ir nustatyta pažanga mažinant nusikalstamo elgesio riziką.
+
+
+
+
+
+
+2. Nuteistasis iš lengvosios grupės grąžinamas į paprastąją grupę, kai atitinka bent vieną iš šių sąlygų:
+
+
+1) atsisakė pataisos įstaigos administracijos jam pasiūlyto darbo;
+
+
+
+
+2) už administracinį nusižengimą, padarytą bausmę atliekant lengvojoje grupėje, jam paskiriama administracinė nuobauda;
+
+
+
+
+3) už bausmės atlikimo režimo reikalavimų pažeidimą, padarytą bausmę atliekant lengvojoje grupėje, jis atliko šio Kodekso 142 straipsnio 2 dalyje nustatytą nuobaudą; 
+
+
+
+
+4) už bausmės atlikimo režimo reikalavimų pažeidimus, padarytus bausmę atliekant lengvojoje grupėje, jam buvo du kartus per vienerius metus skirtos nuobaudos, nenurodytos šios dalies 3 punkte;
+
+
+
+
+5) nevykdo individualiame socialinės reabilitacijos plane nurodytų priemonių;
+
+
+
+
+6) nustatoma, kad jam bausmę atliekant lengvojoje grupėje nusikalstamo elgesio rizika akivaizdžiai padidėjo. 
+
+
+
+
+
+
+3. Nuteistasis iš paprastosios grupės į drausmės grupę perkeliamas, kai atitinka bent vieną iš šių sąlygų:
+
+
+1) už administracinį nusižengimą, padarytą bausmę atliekant paprastojoje grupėje, jam paskiriama administracinė nuobauda;
+
+
+
+
+2) už bausmės atlikimo režimo reikalavimų pažeidimą, padarytą bausmę atliekant paprastojoje grupėje, jis atliko šio Kodekso 142 straipsnio 2 dalyje nustatytą nuobaudą; 
+
+
+
+
+3) už bausmės atlikimo režimo reikalavimų pažeidimus, padarytus bausmę atliekant paprastojoje grupėje, jam buvo tris kartus per vienerius metus skirtos nuobaudos, nenurodytos šios dalies 2 punkte;
+
+
+
+
+4) nevykdo individualiame socialinės reabilitacijos plane nurodytų priemonių;
+
+
+
+
+5) nustatoma, kad jam bausmę atliekant paprastojoje grupėje nusikalstamo elgesio rizika akivaizdžiai padidėjo.
+
+
+
+
+
+
+4. Nuteistasis, kuris bausmės atlikimo metu šio straipsnio 2 dalyje nustatytais atvejais iš lengvosios grupės buvo grąžintas į paprastąją grupę, į lengvąją grupę pakartotinai perkeliamas, kai atitinka visas šias sąlygas:
+
+
+1) paprastojoje grupėje po grąžinimo į ją yra atlikęs ne mažiau kaip šešis mėnesius paskirtos bausmės;
+
+
+
+
+2) per paskutinius šešis bausmės atlikimo mėnesius nebuvo atsisakęs pataisos įstaigos administracijos jam pasiūlyto darbo;
+
+
+
+
+3) atitinka šio straipsnio 1 dalies 3, 4 ir 5 punktuose nustatytas sąlygas.
+
+
+
+
+
+
+5. Nuteistasis, kuris bausmės atlikimo metu šio straipsnio 3 dalyje nustatytais atvejais iš paprastosios grupės buvo perkeltas į drausmės grupę, į paprastąją grupę grąžinamas, kai atitinka visas šias sąlygas:
+
+
+1) drausmės grupėje po perkėlimo į ją yra atlikęs ne mažiau kaip šešis paskutinius bausmės atlikimo mėnesius;
+
+
+
+
+2) per paskutinius šešis bausmės atlikimo mėnesius nebuvo atsisakęs pataisos įstaigos administracijos jam pasiūlyto darbo; 
+
+
+
+
+3) vykdo individualiame socialinės reabilitacijos plane nurodytas priemones;
+
+
+
+
+4) neturi galiojančių nuobaudų už padarytus bausmės atlikimo režimo reikalavimų pažeidimus.
+
+
+
+
+
+
+6. Pirmą kartą po nuosprendžio įsiteisėjimo į pataisos įstaigą atvykęs nuteistasis priskiriamas paprastajai grupei. 
+
+
+
+
+7. Šio straipsnio 1 dalies 2 punkto, 2 dalies 1 punkto, 4 dalies ir 5 dalies 2 punkto nuostatos dėl nuteistojo darbo netaikomos nuteistiesiems, nurodytiems šio Kodekso 125 straipsnio 2 dalyje arba Lietuvos Respublikos įstatymų nustatytais atvejais nuo darbo atleistiems nuteistiesiems.
+
+
+
+
+8. Nuteistųjų nusikalstamo elgesio rizikos pokyčių vertinimo metodiką tvirtina Kalėjimų departamento direktorius. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-2338, 2004-07-08, Žin., 2004, Nr. 115-4278 (2004-07-24)
+Straipsnio pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
 
 
-69 straipsnis. Nuteistųjų perkėlimas į kitas pataisos įstaigas
+69 straipsnis. Nuteistųjų perkėlimas į kitas pataisos įstaigas 
 
 
-1. Nuteistasis, kuriam paskirtas laisvės atėmimas, gali būti perkeltas iš vienos pataisos įstaigos į kitą toliau atlikti bausmės, jeigu to reikia siekiant apriboti jo daromą neigiamą įtaką kitiems nuteistiesiems, palengvinti socialinę reabilitaciją, užtikrinti veiksmingesnę nuteistojo priežiūrą ir saugumą arba kitais šiame Kodekse nustatytais atvejais.
+1. Nuteistasis, kuriam paskirtas laisvės atėmimas, gali būti perkeltas iš vienos pataisos įstaigos į kitą toliau atlikti bausmės, jeigu tai reikalinga: 
 
 
-
-
-2. Laisvės atėmimo bausmę pataisos namuose paprastosios ar lengvosios grupės sąlygomis atliekantys nuteistieji, kuriems gali būti taikomas lygtinis paleidimas iš pataisos įstaigos, gali būti perkelti į tos pačios arba kitos pataisos įstaigos ar kardomojo kalinimo vietos specialų padalinį – pusiaukelės namus, kur nuteistieji intensyviai rengiami būti lygtinai paleisti iš pataisos įstaigos, jeigu jie atitinka visas šias sąlygas:
-
-
-1) yra atlikę ne mažiau kaip vieną trečdalį bausmės, o kai lygtinis paleidimas gali būti taikomas atlikus vieną trečdalį bausmės, – atlikę ne mažiau kaip vieną ketvirtadalį bausmės; 
+1) siekiant apriboti jo daromą neigiamą įtaką kitiems nuteistiesiems arba 
 
 
 
 
-2) vykdo individualiame socialinės reabilitacijos plane nustatytas priemones;
+2) palengvinti nuteistojo socialinę reabilitaciją, arba 
 
 
 
 
-3) jų nusikalstamo elgesio rizika yra žema arba bausmės atlikimo metu ši rizika buvo akivaizdžiai sumažinta; 
+3) užtikrinti veiksmingesnę nuteistojo priežiūrą ir saugumą, arba 
 
 
 
 
-4) neturi galiojančių nuobaudų už bausmės atlikimo metu padarytus teisės pažeidimus;
-
-
-
-
-5) nebuvo perkelti iš atviros kolonijos ar pusiaukelės namų į pataisos namus dėl pažeidimų.
+4) vykdant nuteistojo perdavimo į užsienio valstybę, kurios pilietybę jis turi, toliau atlikti terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmės procedūras arba kitais šiame Kodekse nustatytais atvejais.
 
 
 
 
 
 
-3. Į pusiaukelės namus perkelti nuteistieji turi šio Kodekso 91 straipsnio 1 dalies 1, 3, 4, 6, 7, 8 ir 10 punktuose nustatytas teises. Pusiaukelės namuose laikomi nuteistieji, kurie be pateisinamų priežasčių nedirba ar nesimoko arba kelia pavojų pusiaukelės namų administracijai ar kitiems asmenims, arba sistemingai daro teisės pažeidimus, pataisos įstaigos direktoriaus įsakymu grąžinami iš pusiaukelės namų į pataisos namus.
+2. Laisvės atėmimo bausmę lengvosios grupės sąlygomis atliekantys nuteistieji, kuriems gali būti taikomas lygtinis paleidimas iš pataisos įstaigos, gali būti perkelti į tos pačios arba kitos pataisos įstaigos ar tardymo izoliatoriaus specialų padalinį – pusiaukelės namus, kur nuteistieji intensyviai rengiami būti paleisti iš pataisos įstaigos, jeigu jie atitinka visas šias sąlygas:
+
+
+1) yra atlikę ne mažiau kaip vieną ketvirtadalį bausmės, o nuteistieji, kuriems iš dalies atidėtas bausmės vykdymas buvo panaikintas, taip pat kuriems lygtinis paleidimas iš pataisos įstaigos buvo panaikintas ir jie teismo nutartimi buvo nukreipti atlikti likusios nuosprendžiu paskirtos laisvės atėmimo bausmės dalies, – yra atlikę ne mažiau kaip šešis mėnesius laisvės atėmimo bausmės nuo teismo nutarties dėl bausmės vykdymo atidėjimo ar lygtinio paleidimo panaikinimo ir nukreipimo į pataisos įstaigą vykdymo pradžios; 
 
 
 
 
-4. Laisvės atėmimo bausmę pataisos namuose lengvosios grupės sąlygomis atliekantys nuteistieji gali būti perkelti į atvirą koloniją, jeigu jie atitinka visas šias sąlygas:
-
-
-1) vykdo individualiame socialinės reabilitacijos plane nustatytas priemones;
+2) iki galimo lygtinio paleidimo iš pataisos įstaigos taikymo jam liko ne daugiau kaip vieneri metai;
 
 
 
 
-2) jų nusikalstamo elgesio rizika yra žema arba bausmės atlikimo metu ši rizika buvo akivaizdžiai sumažinta;
+3) vykdo individualiame socialinės reabilitacijos plane nustatytas priemones;
 
 
 
 
-3) nebuvo perkelti iš atviros kolonijos ar pusiaukelės namų į pataisos namus dėl teisės pažeidimų.
+4) jų nusikalstamo elgesio rizika yra žema arba bausmės atlikimo metu ši rizika buvo akivaizdžiai sumažinta; 
+
+
+
+
+5) neturi galiojančių nuobaudų už bausmės atlikimo metu padarytus teisės aktų pažeidimus;
+
+
+
+
+6) laisvės atėmimo bausmės atlikimo metu nebuvo perkelti iš atviros kolonijos ar pusiaukelės namų į pataisos namus dėl teisės aktų pažeidimų.
 
 
 
 
 
 
-5. Teisę perkelti nuteistąjį iš vienos pataisos įstaigos į kitą turi Kalėjimų departamento direktorius, o toje pačioje įstaigoje pagal šio straipsnio 2 ir 4 dalis – pataisos įstaigos, kurioje atlieka bausmę nuteistasis, direktorius. Nuteistųjų perkėlimo iš vienos pataisos įstaigos į kitą, taip pat perkėlimo į atvirą koloniją ir pusiaukelės namus ir grąžinimo iš jų tvarką nustato Kalėjimų departamento direktorius. 
+3. Laisvės atėmimo bausmę lengvosios grupės sąlygomis atliekantys ir šio straipsnio 2 dalies 3, 4, 5 ir 6 punktuose nustatytas sąlygas atitinkantys nuteistieji, kuriems negali būti taikomas lygtinis paleidimas iš pataisos įstaigos, atlikę tris ketvirtadalius laisvės atėmimo bausmės ir likus ne daugiau kaip vieneriems metams iki bausmės pabaigos, perkeliami į atvirą koloniją, o kai jiems būtinas intensyvus rengimas prieš paleidžiant iš pataisos įstaigos, – į pusiaukelės namus. 
+
+
+
+
+4. Į pusiaukelės namus perkelti nuteistieji turi šio Kodekso 91 straipsnio 1 dalies 1, 3, 4, 6, 7, 8 ir 10 punktuose nustatytas teises. Pusiaukelės namuose laikomi nuteistieji, kurie be pateisinamų priežasčių nedirba ar nesimoko arba kelia pavojų pusiaukelės namų administracijai ar kitiems asmenims, arba sistemingai daro teisės aktų pažeidimus, pataisos įstaigos direktoriaus nutarimu grąžinami iš pusiaukelės namų į pataisos namus.
+
+
+
+
+5. Pataisos įstaigos direktoriaus nutarimu nuteistųjų, perkeltų į pusiaukelės namus, elgesio kontrolė Kalėjimų departamento direktoriaus nustatyta tvarka gali būti atliekama elektroninio stebėjimo priemonėmis.  
+
+
+
+
+6. Teisę perkelti nuteistąjį iš vienos pataisos įstaigos į kitą turi Kalėjimų departamento direktorius, o toje pačioje įstaigoje pagal šio straipsnio 2, 3 ir 5 dalyse nurodytus reikalavimus – pataisos įstaigos, kurioje atlieka bausmę nuteistasis, direktorius arba jį pavaduojantis pareigūnas. Nuteistųjų perkėlimo iš vienos pataisos įstaigos į kitą, taip pat perkėlimo į pusiaukelės namus ir grąžinimo iš jų tvarką nustato Kalėjimų departamento direktorius.
+
+
+
+
+7. Nuteistasis gali būti ne ilgiau kaip septynioms paroms laikinai perkeltas iš vienos pataisos įstaigos į kitą, jei jo dalyvavimas būtinas atliekant ikiteisminio tyrimo veiksmus arba nagrinėjant bylą teisme. Perkėlimas galimas tik tada, jei minėtų veiksmų neįmanoma atlikti pataisos įstaigoje, kurioje nuteistasis atlieka bausmę, arba jei jo dalyvavimo negalima užtikrinti garso ir vaizdo nuotolinio perdavimo ar kitomis priemonėmis ir būdais. Nuteistasis į kitą pataisos įstaigą dėl dalyvavimo atliekant ikiteisminio tyrimo veiksmus laikinai perkeliamas motyvuota ikiteisminio tyrimo teisėjo nutartimi ar motyvuotu prokuroro nutarimu, o dėl bylos nagrinėjimo teisme – motyvuota teisėjo ar teismo nutartimi. Kai nuteistojo perkėlimas nebereikalingas, jis kaip įmanoma greičiau grąžinamas į įstaigą, kurioje atlieka bausmę. 
+
+
+
+
+8. Motyvuotu ikiteisminio tyrimo pareigūno ar prokuroro motyvuotu sprendimu nuteistasis gali būti ne ilgiau kaip vienai dienai iš pataisos įstaigos pristatomas į procesinių veiksmų atlikimo vietą, jei šių veiksmų neįmanoma atlikti garso ir vaizdo nuotolinio perdavimo ar kitomis priemonėmis ir būdais. Atlikus procesinius veiksmus, nuteistasis tą pačią dieną grąžinamas į pataisos įstaigą. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
@@ -1573,9 +1747,10 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 
 
 
-2. Atskirose pataisos įstaigose arba vieni nuo kitų izoliuoti toje pačioje pataisos įstaigoje turi būti laikomi vyrai ir moterys, suaugusieji ir nepilnamečiai. Kartu su nepilnamečiais gali būti laikomi dvidešimt ketverių metų amžiaus nesukakę nuteistieji, kurie laisvės atėmimo bausmę pradėjo atlikti būdami nepilnamečiai ir kurių nusikalstamo elgesio rizika žema arba buvo sumažinta bausmės atlikimo metu. Atvirose kolonijose ir pusiaukelės namuose vyrai ir moterys gali būti laikomi kartu. 
+2. Atskirose pataisos įstaigose arba vieni nuo kitų izoliuoti toje pačioje pataisos įstaigoje turi būti laikomi vyrai ir moterys, suaugusieji ir nepilnamečiai, taip pat skirtingoms nuteistųjų grupėms priskirti nuteistieji ir teisę be sargybos arba palydos išvykti už pataisos įstaigos teritorijos ribų turintys nuteistieji. Kartu su nepilnamečiais gali būti laikomi dvidešimt ketverių metų amžiaus nesukakę nuteistieji, kurie laisvės atėmimo bausmę pradėjo atlikti būdami nepilnamečiai ir kurių nusikalstamo elgesio rizika žema arba bausmės atlikimo metu buvo akivaizdžiai sumažinta. Atvirose kolonijose ir pusiaukelės namuose vyrai ir moterys gali būti laikomi kartu. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
@@ -1599,7 +1774,10 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 
 
 
-6. Jeigu pataisos įstaigoje bausmę atliekantis nuteistasis raštu prašo pataisos įstaigos administraciją dėl svarbių priežasčių laikyti jį izoliuotą nuo kitų nuteistųjų, pataisos įstaigos direktorius turi teisę nutarimu perkelti šį nuteistąjį į kamerų tipo patalpas ir laikyti jį kameroje vieną arba kartu su kitais tuo pačiu pagrindu kamerų tipo patalpose laikomais nuteistaisiais. Laiką, kuriam nuteistasis perkeliamas į kamerų tipo patalpas, nustato pataisos įstaigos direktorius. Toks nuteistojo perkėlimas į kamerų tipo patalpas nėra nuobauda. 
+6. Pataisos įstaigoje bausmę atliekantis nuteistasis, kai gali kilti grėsmė jo sveikatai ar gyvybei, taip pat kai kitomis priemonėmis negalima užkirsti kelio šiurkščiam teisės aktų pažeidimui ir būtina pažeidimą darantį ar padariusį nuteistąjį izoliuoti, pataisos įstaigos direktoriaus ar jo įgalioto pareigūno sprendimu gali būti ne ilgiau kaip keturiasdešimt aštuonias valandas izoliuotas nuo kitų nuteistųjų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
+ 
 
 
 
@@ -1656,7 +1834,7 @@ Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 Paprastajai grupei priskirti nuteistieji turi teisę:
 
 
-1) apsipirkti pataisos įstaigos parduotuvėje;
+1) įsigyti šio Kodekso 92 straipsnio 1 dalies 2 punkte nurodytų asmeninių daiktų;
 
 
 
@@ -1666,7 +1844,7 @@ Paprastajai grupei priskirti nuteistieji turi teisę:
 
 
 
-3) gauti ir siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų;
+3) gauti ir siųsti neribotą kiekį laiškų, taip pat šio Kodekso 95 straipsnyje nustatytu periodiškumu gauti perduodamų daiktų;
 
 
 
@@ -1676,7 +1854,7 @@ Paprastajai grupei priskirti nuteistieji turi teisę:
 
 
 
-5) kasdien pasivaikščioti tris valandas.
+5) kasdien pasivaikščioti tris valandas. 
 
 
 
@@ -1685,6 +1863,7 @@ Straipsnio pakeitimai:
 Nr. X-164, 2005-04-21, Žin., 2005, Nr. 58-2002 (2005-05-07)
 Straipsnio pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
@@ -1696,7 +1875,7 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 Lengvajai grupei priskirti nuteistieji turi teisę:
 
 
-1) apsipirkti pataisos įstaigos parduotuvėje;
+1) įsigyti šio Kodekso 92 straipsnio 1 dalies 1 punkte nurodytų asmeninių daiktų;
 
 
 
@@ -1706,17 +1885,22 @@ Lengvajai grupei priskirti nuteistieji turi teisę:
 
 
 
-3) gauti ir siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų;
+3) gauti ir siųsti neribotą kiekį laiškų, taip pat šio Kodekso 95 straipsnyje nustatytu periodiškumu gauti perduodamų daiktų;
 
 
 
 
-4) vieną kartą per dieną paskambinti telefonu;
+4) tris kartus per dieną paskambinti telefonu; 
 
 
 
 
-5) kasdien pasivaikščioti keturias valandas.
+5) kasdien pasivaikščioti keturias valandas;
+
+
+
+
+6) naudotis maisto ruošimo patalpomis. 
 
 
 
@@ -1725,6 +1909,7 @@ Straipsnio pakeitimai:
 Nr. X-164, 2005-04-21, Žin., 2005, Nr. 58-2002 (2005-05-07)
 Straipsnio pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
@@ -1736,7 +1921,7 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 1. Drausmės grupei priskirti nuteistieji turi teisę:
 
 
-1) įsigyti maisto produktų, higienos reikmenų ir kanceliarinių prekių; jų sąrašą nustato Pataisos įstaigų vidaus tvarkos taisyklės;
+1) įsigyti šio Kodekso 92 straipsnio 1 dalies 3 punkte nurodytų asmeninių daiktų;
 
 
 
@@ -1746,7 +1931,7 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 
 
-3) gauti ir siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų;
+3) gauti ir siųsti neribotą kiekį laiškų;
 
 
 
@@ -1756,9 +1941,12 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 
 
-5) kasdien pasivaikščioti dvi valandas.
+5) kasdien pasivaikščioti dvi valandas. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
+ 
 
 
 
@@ -1827,7 +2015,7 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 Paprastajai grupei priskirti nepilnamečiai nuteistieji turi teisę:
 
 
-1) apsipirkti pataisos įstaigos parduotuvėje;
+1) įsigyti šio Kodekso 92 straipsnio 1 dalies 2 punkte nurodytų asmeninių daiktų;
 
 
 
@@ -1837,7 +2025,7 @@ Paprastajai grupei priskirti nepilnamečiai nuteistieji turi teisę:
 
 
 
-3) gauti ir siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų;
+3) gauti ir siųsti neribotą kiekį laiškų, taip pat šio Kodekso 95 straipsnyje nustatytu periodiškumu gauti perduodamų daiktų;
 
 
 
@@ -1848,15 +2036,16 @@ Paprastajai grupei priskirti nepilnamečiai nuteistieji turi teisę:
 
 
 5) kasdien pasivaikščioti tris valandas. 
+
+
+
+
 Straipsnio pakeitimai:
 Nr. X-164, 2005-04-21, Žin., 2005, Nr. 58-2002 (2005-05-07)
-
-
-
-
 Straipsnio pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
@@ -1868,7 +2057,7 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 Lengvajai grupei priskirti nepilnamečiai nuteistieji turi teisę:
 
 
-1) apsipirkti pataisos įstaigos parduotuvėje;
+1) įsigyti šio Kodekso 92 straipsnio 1 dalies 1 punkte nurodytų asmeninių daiktų;
 
 
 
@@ -1878,26 +2067,32 @@ Lengvajai grupei priskirti nepilnamečiai nuteistieji turi teisę:
 
 
 
-3) gauti ir siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų;
+3) gauti ir siųsti neribotą kiekį laiškų, taip pat šio Kodekso 95 straipsnyje nustatytu periodiškumu gauti perduodamų daiktų;
 
 
 
 
-4) vieną kartą per dieną paskambinti telefonu;
+4) tris kartus per dieną paskambinti telefonu;
 
 
 
 
-5) kasdien pasivaikščioti keturias valandas. 
+5) kasdien pasivaikščioti keturias valandas;
+
+
+
+
+6) naudotis maisto ruošimo patalpomis. 
+
+
+
+
 Straipsnio pakeitimai:
 Nr. X-164, 2005-04-21, Žin., 2005, Nr. 58-2002 (2005-05-07)
-
-
-
-
 Straipsnio pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
@@ -1965,7 +2160,7 @@ Nuteistieji kalėjimuose suskirstomi į paprastąją ir drausmės grupes.
 1. Paprastajai grupei priskirti nuteistieji turi teisę:
 
 
-1) apsipirkti pataisos įstaigos parduotuvėje;
+1) įsigyti šio Kodekso 92 straipsnio 1 dalies 2 punkte nurodytų asmeninių daiktų;
 
 
 
@@ -1975,7 +2170,7 @@ Nuteistieji kalėjimuose suskirstomi į paprastąją ir drausmės grupes.
 
 
 
-3) gauti ir siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų;
+3) gauti ir siųsti neribotą kiekį laiškų, taip pat šio Kodekso 95 straipsnyje nustatytu periodiškumu gauti perduodamų daiktų;
 
 
 
@@ -1985,11 +2180,12 @@ Nuteistieji kalėjimuose suskirstomi į paprastąją ir drausmės grupes.
 
 
 
-5) du kartus per savaitę paskambinti telefonu.
+5) du kartus per savaitę paskambinti telefonu. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
@@ -2014,10 +2210,10 @@ Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 86 straipsnis. Drausmės grupei priskirtų nuteistųjų laikymo sąlygos
 
 
-1. Drausmės grupei priskirti nuteistieji turi teisę: 
+Drausmės grupei priskirti nuteistieji turi teisę:
 
 
-1) įsigyti maisto produktų, higienos reikmenų ir kanceliarinių prekių; jų sąrašą nustato Pataisos įstaigų vidaus tvarkos taisyklės; 
+1) įsigyti šio Kodekso 92 straipsnio 1 dalies 3 punkte nurodytų asmeninių daiktų;
 
 
 
@@ -2027,7 +2223,7 @@ Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 
 
 
-3) gauti ir siųsti neribotą kiekį laiškų, taip pat gauti smulkiųjų paketų;
+3) gauti ir siųsti neribotą kiekį laiškų;
 
 
 
@@ -2040,61 +2236,29 @@ Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 5) du kartus per mėnesį paskambinti telefonu. 
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
- 
-
-
-
-
-2. Drausmės grupei priskirti nuteistieji laikomi rakinamose kamerose.
 
 
 Straipsnio pakeitimai:
 Nr. X-164, 2005-04-21, Žin., 2005, Nr. 58-2002 (2005-05-07)
 Straipsnio pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
 
 
-87 straipsnis. Nuteistųjų laikymo drausmės grupės sąlygomis terminai ir jų nustatymo tvarka
-
-
-1. Nuteistųjų laikymo kalėjimo drausmės grupės sąlygomis terminas – nuo dviejų iki šešių mėnesių.
-
-
-
-
-2. Konkretus nuteistojo laikymo kalėjimo drausmės grupės sąlygomis terminas nustatomas ir pakeičiamas kalėjimo direktoriaus nutarimu.
-
-
-
-
-3. Šio straipsnio 2 dalyje nurodytas nutarimas nuteistajam paskelbiamas pasirašytinai.
-
-
-
-
-4. Neteko galios nuo 2015-09-01
-Straipsnio dalies naikinimas:
-Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+87 straipsnis. Neteko galios nuo 2020-06-20
+Straipsnio naikinimas:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
 
 
-
-
-88 straipsnis. Paliktų kalėjime atlikti ūkio darbų nuteistųjų laikymo sąlygos
-
-
-Palikti kalėjime atlikti ūkio darbų nuteistieji gyvena atskirai nuo kitų nuteistųjų ir gali būti laikomi nerakinamose kamerose. Šie nuteistieji naudoja asmeninėse sąskaitose esančius pinigus, gauna smulkiuosius paketus, pasimatymus, gauna ir siunčia laiškus, skambina telefonu pagal šio Kodekso 73 ir 74 straipsniuose nustatytas taisykles.
-
-
-Straipsnio pakeitimai:
-Nr. X-164, 2005-04-21, Žin., 2005, Nr. 58-2002 (2005-05-07)
+88 straipsnis. Neteko galios nuo 2020-06-20
+Straipsnio naikinimas:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
 Straipsnio pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
  
@@ -2156,7 +2320,10 @@ Nr. XI-1863, 2011-12-22, Žin., 2012, Nr. 4-110 (2012-01-06)
 
 
 
-4) gali be apribojimų gauti pasimatymus, pašto ir perduodamus siuntinius, smulkiuosius paketus, gauti ir siųsti laiškus, turėti telefoną ir juo skambinti;
+4) gali be apribojimų gauti pasimatymus, perduodamus daiktus, gauti ir siųsti laiškus, turėti ir naudotis telefonu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
+ 
 
 
 
@@ -2166,7 +2333,10 @@ Nr. XI-1863, 2011-12-22, Žin., 2012, Nr. 4-110 (2012-01-06)
 
 
 
-6) atviros kolonijos administracijos leidimu gali iki 14 valandų išvykti už atviros kolonijos teritorijos ribų, bet tik Lietuvos Respublikos teritorijoje, jeigu to reikia dėl jų dirbamo darbo pobūdžio arba gydymosi ar mokymosi;
+6) atviros kolonijos administracijos leidimu gali iki keturiolikos valandų išvykti už atviros kolonijos teritorijos ribų, bet tik Lietuvos Respublikos teritorijoje, jeigu to reikia dėl jų dirbamo darbo pobūdžio ar darbo paieškos, gydymosi, mokymosi arba jeigu rengiantis nuteistąjį paleisti iš atviros kolonijos jam reikia spręsti socialinės paramos gavimo, būsto paieškos, gydymo nuo priklausomybės ligų tęstinumo užtikrinimo ar pasinaudojimo kitomis valstybės ar savivaldybių įstaigų ar nevyriausybinių organizacijų teikiamomis paslaugomis klausimus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
+ 
 
 
 
@@ -2176,7 +2346,10 @@ Nr. XI-1863, 2011-12-22, Žin., 2012, Nr. 4-110 (2012-01-06)
 
 
 
-8) jeigu neturi galiojančių nuobaudų už bausmės atlikimo metu padarytus teisės  pažeidimus, kasmetinių atostogų metu gali parvykti į Lietuvos Respublikos teritorijoje esančius namus ar aplankyti Lietuvos Respublikos teritorijoje gyvenančius artimuosius giminaičius. Šios išvykos leidžiamos atviros kolonijos direktoriaus įsakymu. Kelionės išlaidas apmoka patys nuteistieji arba kiti jų nurodyti asmenys; 
+8) jeigu neturi galiojančių nuobaudų už bausmės atlikimo metu padarytus teisės aktų  pažeidimus, kasmetinių atostogų metu gali parvykti į Lietuvos Respublikos teritorijoje esančius namus ar aplankyti Lietuvos Respublikos teritorijoje gyvenančius artimuosius giminaičius. Ši išvyka suteikiama atviros kolonijos direktoriaus nutarimu. Kelionės išlaidas apmoka patys nuteistieji arba kiti jų nurodyti asmenys; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
+ 
 
 
 
@@ -2218,59 +2391,55 @@ SPECIALIOSIOS NUTEISTŲJŲ, KURIEMS PASKIRTOS LAISVĖS ATĖMIMO BAUSMĖS, TEISĖ
  
 
 
-92 straipsnis. Nuteistųjų teisė apsipirkti pataisos įstaigos parduotuvėje 
+92 straipsnis. Nuteistųjų teisė pataisos įstaigoje turėti asmeninių daiktų
 
 
-1. Nuteistieji turi teisę už asmeninėse sąskaitose turimus pinigus apsipirkti pataisos įstaigos parduotuvėje – įsigyti maisto produktų, būtiniausių reikmenų ir kitų daiktų. Drausmės grupės sąlygomis ir kamerų tipo patalpose laikomi nuteistieji turi teisę įsigyti tik maisto produktų, higienos reikmenų ir kanceliarinių prekių; jų sąrašą nustato Pataisos įstaigų vidaus tvarkos taisyklės. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
- 
+1. Nuteistieji turi teisę turėti šiuos asmeninius daiktus:
 
 
-
-
-2. Didžiausia pinigų suma, už kurią nuteistieji gali per mėnesį apsipirkti pataisos įstaigos parduotuvėje, yra:
-
-
-1) trijų bazinių socialinių išmokų dydžio – paprastajai grupei priskirtiems nuteistiesiems;
+1) lengvajai grupei priskirti nuteistieji, taip pat atviroje kolonijoje ir pusiaukelės namuose bausmę atliekantys nuteistieji – maisto produktus, laikraščius, žurnalus, knygas, drabužius, avalynę, patalynę (išskyrus antklodę, čiužinį ir pagalvę), laikrodžius, pagamintus ne iš brangiųjų metalų, higienos ir kanceliarijos reikmenis, elektros prietaisus ir kitus daiktus; 
 
 
 
 
-2) keturių bazinių socialinių išmokų dydžio – lengvajai grupei priskirtiems nuteistiesiems ir dirbantiems nuteistiesiems;
+2) paprastajai grupei priskirti nuteistieji – maisto produktus (išskyrus maisto produktus, kuriuos prieš vartojimą būtina termiškai apdoroti), laikraščius, žurnalus, knygas, drabužius, avalynę, patalynę (išskyrus antklodę, čiužinį ir pagalvę), laikrodžius, pagamintus ne iš brangiųjų metalų, barzdaskutę, higienos ir kanceliarijos reikmenis ir kitus daiktus;
 
 
 
 
-3) dviejų bazinių socialinių išmokų dydžio – drausmės grupei priskirtiems nuteistiesiems. 
+3) drausmės grupei priskirti nuteistieji – šviežius vaisius ir daržoves, drabužius, avalynę, higienos ir kanceliarijos reikmenis.
 
 
 
 
 
 
-3. Į šio straipsnio 2 dalyje nurodytą apsipirkimo pataisos įstaigos parduotuvėje sumą neįskaitomos pinigų, už kuriuos įsigyjami laikraščiai, žurnalai, knygos ar Pataisos įstaigų vidaus tvarkos taisyklėse nurodyti elektros prietaisai, sumos. Apsipirkimo pataisos įstaigos parduotuvėje suma neribojama nėščioms moterims, krūtimi maitinančioms motinoms, nuteistoms motinoms, apgyvendintoms kartu su vaikais pataisos namų vaikų (kūdikių) namuose arba ne pataisos namų teritorijoje esančiose patalpose, teisę išvykti be sargybos arba be palydos turintiems nuteistiesiems, apgyvendintiems pataisos įstaigos ar kardomojo kalinimo vietos gyvenamosiose patalpose, esančiose už šių įstaigų teritorijos ribų, atvirose kolonijose ir pusiaukelės namuose bausmę atliekantiems nuteistiesiems. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
- 
+2. Šio straipsnio 1 dalyje nurodytoms grupėms priskirtiems nuteistiesiems leidžiamų turėti asmeninių daiktų sąrašai nustatomi Pataisos įstaigų vidaus tvarkos taisyklėse. Atviroje kolonijoje ir pusiaukelės namuose bausmę atliekantiems nuteistiesiems pataisos įstaigos direktorius arba jį pavaduojantis pareigūnas gali leisti turėti ir kitų asmeninių daiktų, jei tai sudarytų sąlygas vykdyti veiksmingą nuteistųjų resocializaciją, gerintų jų sveikatą ir gerovę.
 
 
 
 
-4. Maisto produktų, būtiniausių reikmenų ir kitų daiktų, kuriuos nuteistieji gali įsigyti pataisos įstaigos parduotuvėje ir turėti pataisos įstaigoje, sąrašą nustato Pataisos įstaigų vidaus tvarkos taisyklės. 
+3. Asmeninius daiktus nuteistieji įsigyja įgyvendindami šio Kodekso 93, 95 ir 97 straipsniuose nustatytas teises. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
 
 
-93 straipsnis. Nuteistųjų teisė įsigyti literatūros ir rašomųjų reikmenų
+93 straipsnis. Nuteistųjų teisė prenumeruoti laikraščius ir žurnalus 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
+ 
 
 
-1. Nuteistiesiems leidžiama už asmeninėse sąskaitose turimus pinigus įsigyti neribotą kiekį literatūros ir rašomųjų reikmenų, taip pat prenumeruoti laikraščius bei žurnalus.
+1. Nuteistiesiems, išskyrus laisvės atėmimo bausmę drausmės grupės laikymo sąlygomis atliekančius nuteistuosius, leidžiama už asmeninėse sąskaitose turimas lėšas prenumeruoti laikraščius ir žurnalus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
+ 
 
 
 
@@ -2342,50 +2511,51 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 
 
-95 straipsnis. Nuteistųjų teisė gauti pašto bei perduodamus siuntinius ir smulkiuosius paketus 
+95 straipsnis. Nuteistųjų teisė gauti perduodamų daiktų
 
 
-1. Nuteistiesiems leidžiama per šešis mėnesius gauti vieną pašto arba perduodamą drabužių, patalynės (išskyrus antklodę, čiužinį ir pagalvę), avalynės siuntinį.
-
-
-
-
-2. Vienas pašto siuntinys neturi sverti daugiau kaip dešimt kilogramų, o perduodamas siuntinys – daugiau kaip penkiolika kilogramų. 
+1. Nuteistieji turi teisę vieną kartą per šešis mėnesius gauti perduodamų daiktų.
 
 
 
 
-3. Pataisos įstaigų administracija gali priimti drabužių labdaros siuntas. 
+2. Nuteistajam gali būti atsiunčiami arba perduodami drabužiai, patalynė (išskyrus antklodę, čiužinį ir pagalvę), avalynė, laikrodžiai, pagaminti ne iš brangiųjų metalų, elektros prietaisai. 
 
 
 
 
-4. Pašto ir perduodamų drabužių, patalynės (išskyrus antklodę, čiužinį ir pagalvę), avalynės siuntinių, smulkiųjų paketų su spauda, vokais, pašto ženklais ir rašymo popieriumi priėmimo ir įteikimo nuteistiesiems, labdaros siuntų priėmimo ir paskirstymo nuteistiesiems tvarką nustato Pataisos įstaigų vidaus tvarkos taisyklės.
+3. Viena pašto siunta (vienu kartu perduodami daiktai) neturi sverti daugiau kaip 15 kilogramų. 
+
+
+
+
+4. Perduodamų daiktų priėmimo ir įteikimo nuteistiesiems tvarka nustatyta Pataisos įstaigų vidaus tvarkos taisyklėse. 
 
 
 Straipsnio pakeitimai:
 Nr. X-164, 2005-04-21, Žin., 2005, Nr. 58-2002 (2005-05-07)
 Straipsnio pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
 
 
-96 straipsnis. Nuteistųjų teisė naudotis elektros prietaisais ir kitais daiktais
+96 straipsnis. Nuteistųjų teisė naudotis elektros prietaisais
 
 
-1. Nuteistiesiems, išskyrus laisvės atėmimo bausmę atliekančius pataisos įstaigose drausmės grupės laikymo sąlygomis ar perkeltus į kamerų tipo patalpas nuteistuosius, leidžiama naudotis už asmeninėse sąskaitose turimus pinigus įsigytais ar perduotais Pataisos įstaigų vidaus tvarkos taisyklėse nurodytais elektros prietaisais ir kitais daiktais. 
-
-
-
-
-2. Nuteistiesiems leidžiamų naudotis elektros prietaisų techninius parametrus, įsigijimo, perdavimo ir naudojimosi jais tvarką, taip pat šių prietaisų elektros energijos sąnaudų ir išlaidų už sunaudotą elektros energiją apskaičiavimo ir apmokėjimo taisykles nustato Kalėjimų departamento direktorius.
+1. Nuteistieji, turintys teisę naudotis elektros prietaisais, apmoka už šių prietaisų sunaudotą elektros energiją.
 
 
 
 
-3. Elektros prietaisai ir kiti daiktai motyvuotu pataisos įstaigos direktoriaus nutarimu paimami iš nuteistųjų:
+2. Nuteistiesiems leidžiamų naudotis elektros prietaisų techninius parametrus ir naudojimosi jais tvarką, taip pat šių prietaisų elektros energijos sąnaudų ir išlaidų už sunaudotą elektros energiją apskaičiavimo ir apmokėjimo taisykles nustato Kalėjimų departamento direktorius.
+
+
+
+
+3. Elektros prietaisai motyvuotu pataisos įstaigos direktoriaus nutarimu paimami iš nuteistųjų:
 
 
 1) pažeidusių šio straipsnio 2 dalyje nurodytą naudojimosi elektros prietaisais tvarką, – iki šešių mėnesių;
@@ -2393,19 +2563,19 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 
 
-2) turinčių skolą už nurodytų elektros prietaisų sunaudotą elektros energiją, – iki bus sumokėta skola;
+2) turinčių skolą už elektros prietaisų sunaudotą elektros energiją, – iki bus sumokėta skola;
 
 
 
 
-3) perkeltų į drausmės grupę ar kamerų tipo patalpas.
+3) praradusių teisę turėti elektros prietaisus.
 
 
 
 
 
 
-4. Šio straipsnio 3 dalyje nurodytais atvejais paimti elektros prietaisai ir kiti daiktai saugomi pataisos įstaigoje arba gali būti grąžinami juos perdavusiems asmenims pagal jų arba nuteistojo rašytinį prašymą.
+4. Šio straipsnio 3 dalyje nurodytais atvejais paimti elektros prietaisai saugomi pataisos įstaigoje arba gali būti grąžinami juos perdavusiems asmenims pagal jų arba nuteistojo rašytinį prašymą. 
 
 
 Straipsnio pakeitimai:
@@ -2413,18 +2583,56 @@ Nr. X-164, 2005-04-21, Žin., 2005, Nr. 58-2002 (2005-05-07)
 Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 Straipsnio pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
 
 
-97 straipsnis. Nuteistųjų teisė turėti laikrodžius, dėvėti savo drabužius bei avėti savo avalynę 
+97 straipsnis. Nuteistųjų teisė nusipirkti asmeninių daiktų
 
 
-Nuteistiesiems leidžiama turėti laikrodžius, pagamintus ne iš brangiųjų metalų, dėvėti savo drabužius ir avėti savo avalynę. Šiuos daiktus nuteistieji gauna pašto arba perduodamame siuntinyje, pasimatymų metu arba perka pataisos įstaigos parduotuvėje.
+1. Šio Kodekso 92 straipsnyje nurodytus asmeninius daiktus nuteistieji turi teisę nusipirkti.
+
+
+
+
+2. Atviroje kolonijoje ir pusiaukelės namuose bausmę atliekantys nuteistieji asmeninius daiktus perkasi savarankiškai. Kitų nuteistųjų apsipirkimą organizuoja pataisos įstaiga.
+
+
+
+
+3. Didžiausia pinigų suma, už kurią nuteistieji gali per mėnesį nusipirkti asmeninių daiktų, yra:
+
+
+1) trijų bazinių socialinių išmokų dydžio – paprastajai grupei priskirtiems nuteistiesiems;
+
+
+
+
+2) keturių bazinių socialinių išmokų dydžio – lengvajai grupei priskirtiems nuteistiesiems ir dirbantiems nuteistiesiems;
+
+
+
+
+3) dviejų bazinių socialinių išmokų dydžio – drausmės grupei priskirtiems nuteistiesiems.
+
+
+
+
+
+
+4. Į šio straipsnio 3 dalyje nurodytą didžiausią pinigų sumą neįskaitomos pinigų, už kuriuos įsigyjami laikraščiai, žurnalai, knygos ir elektros prietaisai, sumos. 
+
+
+
+
+5. Šio straipsnio 3 dalies nuostatos netaikomos nėščioms moterims, krūtimi maitinančioms motinoms, nuteistoms motinoms, apgyvendintoms kartu su vaikais pataisos namų vaikų (kūdikių) namuose arba ne pataisos namų teritorijoje esančiose patalpose, teisę išvykti be sargybos arba be palydos turintiems nuteistiesiems, apgyvendintiems pataisos įstaigos ar tardymo izoliatoriaus gyvenamosiose patalpose, esančiose už šių įstaigų teritorijos ribų, atvirose kolonijose ir pusiaukelės namuose bausmę atliekantiems nuteistiesiems. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
-
-
 
 
 
@@ -2790,7 +2998,10 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 
 
 
-5) pasibaigus pasivaikščiojimui ir ilgalaikiam pasimatymui, sutvarkyti tam skirtą vietą ar patalpą.
+5) pasibaigus pasivaikščiojimui ir pasimatymui, sutvarkyti tam skirtą vietą ar patalpą. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
+ 
 
 
 
@@ -2868,18 +3079,26 @@ Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 
 
 XI skyrius 
-NUTEISTŲJŲ, KURIEMS PASKIRTAS LAISVĖS ATĖMIMAS, PATAISOS PRIEMONĖS
+PATAISOS ĮSTAIGŲ REŽIMAS IR LAISVĖS ATĖMIMO BAUSMĘ ATLIEKANČIŲ NUTEISTŲJŲ PATAISOS PRIEMONĖS
+Pakeistas skyriaus pavadinimas:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
-111 straipsnis. Nuteistųjų, kuriems paskirtas laisvės atėmimas, pataisos priemonės
+111 straipsnis. Pataisos įstaigų režimo paskirtis ir nuteistųjų pataisos priemonės
 
 
-Nuteistųjų, kuriems paskirtas laisvės atėmimas, pataisos priemonės yra šios: laisvės atėmimo režimas, nuteistųjų darbas, socialinė reabilitacija, bendrasis ugdymas ir profesinis mokymas.
+1. Pagrindinė pataisos įstaigų režimo paskirtis – padėti įgyvendinti nuteistųjų pataisos priemones ir užtikrinti pataisos įstaigų saugumą.
+
+
+
+
+2. Laisvės atėmimo bausmę atliekančių nuteistųjų pataisos priemonės yra socialinė reabilitacija ir užimtumas. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
@@ -2910,25 +3129,28 @@ PATAISOS ĮSTAIGŲ REŽIMAS
 
 
 
-4. Nuteistiesiems, išskyrus šio Kodekso 91 ir 152 straipsniuose numatytus atvejus, leidžiama su savimi turėti maisto produktų, būtiniausių reikmenų ir kitų daiktų, kurių sąrašą nustato Pataisos įstaigų vidaus tvarkos taisyklės. Rasti nuteistųjų pataisos įstaigoje turimi pinigai ir vertingi daiktai motyvuotu pataisos įstaigos direktoriaus nutarimu paimami ir perduodami į pataisos įstaigos socialinės paramos nuteistiesiems fondą. Maisto produktai, būtiniausi reikmenys ir kiti daiktai, kurie nenumatyti leidžiamų įsigyti ir turėti maisto produktų, būtiniausių reikmenų ir kitų daiktų sąraše, taip pat maisto produktai, kurių tinkamumo vartoti terminas yra pasibaigęs, Pataisos įstaigų vidaus tvarkos taisyklėse nustatyta tvarka sunaikinami. 
+4. Rasti nuteistųjų pataisos įstaigoje turimi pinigai ir vertingi daiktai motyvuotu pataisos įstaigos direktoriaus nutarimu paimami ir perduodami į socialinės paramos nuteistiesiems fondą. Daiktai, kurie nenumatyti nuteistiesiems leidžiamų turėti asmeninių daiktų sąraše, taip pat maisto produktai, kurių tinkamumo vartoti terminas yra pasibaigęs, Pataisos įstaigų vidaus tvarkos taisyklėse nustatyta tvarka sunaikinami. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
 
 
-5. Šio Kodekso nustatyta tvarka nuteistiesiems leidžiama ne už grynuosius pinigus, išskyrus šio Kodekso 91 ir 152 straipsniuose numatytus atvejus, apsipirkti pataisos įstaigų parduotuvėse, gauti pasimatymus, pašto ir perduodamus siuntinius, smulkiuosius paketus, gauti ir siųsti pinigines perlaidas, susirašinėti, skambinti telefonu, pasivaikščioti. 
+5. Šio Kodekso nustatyta tvarka nuteistiesiems leidžiama ne už grynuosius pinigus, išskyrus šio Kodekso 91 ir 152 straipsniuose numatytus atvejus, įsigyti Pataisos įstaigų vidaus tvarkos taisyklėse nurodytų asmeninių daiktų, gauti pasimatymus, perduodamus daiktus, gauti ir siųsti pinigines perlaidas, susirašinėti, skambinti telefonu, pasivaikščioti. Nuteistajam gali būti perduoti tik tie asmeniniai daiktai, kuriuos jam leidžiama turėti. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
 
 
-6. Nuteistiesiems leidžiamų turėti maisto produktų, būtiniausių reikmenų ir kitų daiktų bendrą masę nustato Pataisos įstaigų vidaus tvarkos taisyklės.
+6. Nuteistiesiems leidžiamų turėti asmeninių daiktų bendra masė nustatyta Pataisos įstaigų vidaus tvarkos taisyklėse. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
@@ -2960,9 +3182,10 @@ Nr. XIII-493, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10914
 
 
 
-2. Jeigu pataisos įstaigoje susidaro ypatinga situacija (nuteistųjų riaušių, grupinio pasipriešinimo pataisos įstaigos administracijai ar neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių pataisos įstaigos vidaus tvarką, įkaitų grobimo atvejais), tvarkai įstaigoje atkurti ir visuomenės saugumui užtikrinti gali būti pasitelkti Kalėjimų departamento ir jam pavaldžių įstaigų pareigūnai, taip pat Viešojo saugumo tarnybos ir policijos pareigūnai teisingumo ir vidaus reikalų ministrų nustatyta tvarka. 
+2. Jeigu turima duomenų, kad pataisos įstaigoje gali kilti ypatinga situacija, ar pataisos įstaigoje susidaro ypatinga situacija (nuteistųjų riaušių, grupinio pasipriešinimo pataisos įstaigos administracijai ar neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių pataisos įstaigos vidaus tvarką, įkaitų grobimo atvejais), tvarkai įstaigoje atkurti ir visuomenės saugumui užtikrinti gali būti pasitelkti Kalėjimų departamento ir jam pavaldžių įstaigų pareigūnai, taip pat Viešojo saugumo tarnybos ir policijos pareigūnai teisingumo ir vidaus reikalų ministrų nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-493, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10914
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
@@ -2991,7 +3214,10 @@ Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 
 
 
-3. Asmenų lankymosi pataisos įstaigose tvarką nustato Pataisos įstaigų vidaus tvarkos taisyklės.
+3. Neteko galios nuo 2020-06-20
+Straipsnio dalies naikinimas:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
+ 
 
 
 Straipsnio pakeitimai:
@@ -3057,13 +3283,13 @@ Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 
 
 
-119 straipsnis. Pataisos įstaigos direktoriaus teisės nuteistųjų neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių pataisos įstaigos vidaus tvarką, atveju
+119 straipsnis. Kalėjimų departamento direktoriaus ir pataisos įstaigos direktoriaus teisės nuteistųjų neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių pataisos įstaigos vidaus tvarką, taip pat valstybės lygio ekstremaliosios situacijos ir (arba) karantino paskelbimo arba nepaprastosios padėties įvedimo atvejais
 
 
-1. Jeigu nuteistieji imasi neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių pataisos įstaigos vidaus tvarką, pataisos įstaigos direktorius arba jį pavaduojantis pareigūnas turi teisę, pranešęs Kalėjimų departamento direktoriui arba jį pavaduojančiam pareigūnui, įsakymu laikinai sustabdyti:
+1. Jeigu nuteistieji imasi neteisėtų grupinių veiksmų, šiurkščiai pažeidžiančių pataisos įstaigos vidaus tvarką, arba turima duomenų, kad nuteistieji planuoja imtis neteisėtų grupinių veiksmų, šiurkščiai pažeisiančių pataisos įstaigos vidaus tvarką, pataisos įstaigos direktorius arba jį pavaduojantis pareigūnas turi teisę, pranešęs Kalėjimų departamento direktoriui arba jį pavaduojančiam pareigūnui, nutarimu iki vieno mėnesio sustabdyti:
 
 
-1) nuteistųjų laiškų išsiuntimą, taip pat gautų laiškų, pašto bei perduodamų siuntinių ir smulkiųjų paketų įteikimą nuteistiesiems;
+1) nuteistųjų laiškų išsiuntimą, taip pat gautų laiškų, perduodamų daiktų įteikimą nuteistiesiems;
 
 
 
@@ -3073,7 +3299,7 @@ Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 
 
 
-3) maisto produktų ir būtiniausių reikmenų pirkimą;
+3) nuteistųjų asmeninių daiktų įsigijimą;
 
 
 
@@ -3088,20 +3314,49 @@ Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
 
 
 
-6) kultūros, sporto ir kitų masinių renginių organizavimą. 
+6) kultūros, sporto ir kitų masinių renginių organizavimą.
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-901, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21497
+
+
+
+
+2. Lietuvos Respublikoje arba atskirose jos dalyse paskelbus valstybės lygio ekstremaliąją situaciją, karantiną arba įvedus nepaprastąją padėtį, Kalėjimų departamento direktorius arba jį pavaduojantis pareigūnas, turi teisę, pranešęs Lietuvos Respublikos teisingumo ministrui, įsakymu laikinai, bet ne ilgiau kaip iki valstybės lygio ekstremaliosios situacijos, karantino arba nepaprastosios padėties atšaukimo, visose arba dalyje pataisos įstaigų sustabdyti arba apriboti:
+
+
+1) nuteistųjų išvykimą už pataisos įstaigos teritorijos ribų;
+
+
+
+
+2) nuteistųjų laiškų išsiuntimą, taip pat gautų laiškų, perduodamų daiktų įteikimą nuteistiesiems;
+
+
+
+
+3) kitų asmenų patekimą į pataisos įstaigas;
+
+
+
+
+4) nuteistųjų asmeninių daiktų įsigijimą;
+
+
+
+
+5) kultūros, sporto ir kitų masinių renginių pataisos įstaigose organizavimą;
+
+
+
+
+6) kitų teisių, kurios pagal Lietuvos Respublikos įstatymus gali būti laikinai ribojamos valstybės lygio ekstremaliosios situacijos, karantino arba nepaprastosios padėties metu, įgyvendinimą. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
-
-
-
-
-2. Šio straipsnio 1 dalyje nurodytos priemonės nutraukiamos pataisos įstaigos direktoriaus arba jį pavaduojančio pareigūno įsakymu, kai išnyksta jų panaudojimo pagrindai.
- 
-
-
 
 
 
@@ -3758,80 +4013,43 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 141 straipsnis. Paskatinimo priemonių skyrimo nuteistiesiems tvarka
 
 
-1. Šio Kodekso 140 straipsnio 1 dalyje numatytos paskatinimo priemonės skiriamos tam įgalioto pareigūno nutarimu arba įsakymu. Turinčių teisę skirti paskatinimo priemones laisvės atėmimo bausmę atliekantiems nuteistiesiems pareigūnų sąrašą ir jų įgaliojimus skiriant paskatinimo priemones nustato Pataisos įstaigų vidaus tvarkos taisyklės.
+1. Šio Kodekso 140 straipsnio 1 dalyje numatytos paskatinimo priemonės skiriamos pataisos įstaigos direktoriaus nutarimu. 
 
 
 
 
-2. Neteko galios nuo 2019-07-06
-Straipsnio dalies naikinimas:
-Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
- 
+2. Paskatinimas, kuriuo leidžiama papildomai paskambinti telefonu, gauti pasimatymą, įsigyti asmeninių daiktų už didesnę pinigų sumą ar suteikiama papildoma trumpalaikė išvyka į Lietuvos Respublikos teritorijoje esančius namus, gali būti skiriamas tik nuteistiesiems, kurie pagal šį Kodeksą turi teisę paskambinti telefonu, gauti pasimatymų, įsigyti asmeninių daiktų ar gauti trumpalaikę išvyką iš pataisos įstaigos.
 
 
 
 
-3. Paskatinimas, kuriuo leidžiama papildomai paskambinti telefonu, gauti pasimatymą, apsipirkti pataisos įstaigos parduotuvėje už didesnę pinigų sumą ar suteikiama papildoma trumpalaikė išvyka į Lietuvos Respublikos teritorijoje esančius namus, gali būti skiriamas tik nuteistiesiems, kurie pagal šį Kodeksą turi teisę paskambinti telefonu, gauti pasimatymų, apsipirkti pataisos įstaigos parduotuvėje ar gauti trumpalaikę išvyką iš pataisos įstaigos. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
-Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
- 
+3. Paskatinimas – padidinti didžiausią pinigų sumą, už kurią nuteistasis gali įsigyti asmeninių daiktų, nuteistajam gali būti taikomas ne ilgiau kaip vieną mėnesį.
 
 
 
 
-4. Paskatinimas – padidinti didžiausią apsipirkimo pataisos įstaigos parduotuvėje sumą nuteistajam gali būti taikomas ne ilgiau kaip vieną mėnesį. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
- 
+4. Kalėjime laikomiems nuteistiesiems pasivaikščiojimo laikas paskatinimo tvarka pailginamas ne ilgiau kaip vieną mėnesį.
 
 
 
 
-5. Kalėjime laikomiems nuteistiesiems pasivaikščiojimo laikas paskatinimo tvarka pailginamas ne ilgiau kaip vieną mėnesį.
+5. Paskatinimo tvarka nuteistajam gali būti prieš terminą panaikinama vienu metu viena pirmiau paskirta nuobauda.
 
 
 
 
-6. Paskatinimo tvarka nuteistajam gali būti prieš terminą panaikinama vienu metu viena pirmiau paskirta nuobauda.
+6. Konkreti paskatinimo priemonė nuteistajam parenkama atsižvelgiant į tai, kokią teigiamą įtaką nuteistojo elgesiui galėtų padaryti šios paskatinimo priemonės skyrimas.
 
 
 
 
-7. Konkreti paskatinimo priemonė nuteistajam parenkama atsižvelgiant į tai, kokią teigiamą įtaką nuteistojo elgesiui galėtų padaryti šios paskatinimo priemonės skyrimas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
- 
-
-
-
-
-8. Padėka kaip paskatinimas gali būti paskelbta ir žodžiu. Iš paskatinimų, kuriais suteikiami trys papildomi trumpalaikiai arba ilgalaikiai pasimatymai per vienerius metus, leidžiama nepilnamečiam nuteistajam pasimatymo su tėvais, globėjais (rūpintojais), artimaisiais giminaičiais ar kitais pasitikėjimo vertais asmenimis metu išeiti už pataisos namų teritorijos ribų. Vienu nutarimu arba įsakymu galima suteikti tik vieną papildomą trumpalaikį arba ilgalaikį pasimatymą, leisti vieną kartą nepilnamečiui išeiti už pataisos namų teritorijos ribų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
- 
-
-
-
-
-9. Paskatinimas, kuriuo leidžiama trumpalaikė išvyka į namus arba leidžiama atostogų metu parvykti į namus, skiriamas pataisos įstaigos direktoriaus įsakymu, o paskatinimas, kuriuo nuteistasis perkeliamas į lengvąją arba paprastąją grupę, – pataisos įstaigos direktoriaus nutarimu.
-
-
-
-
-10. Leidimą nepilnamečiams nuteistiesiems, kurie gerai elgiasi, kartu su pataisos įstaigos darbuotojais nueiti į kiną, teatrą, koncertą, sporto varžybas ar kitus ne pataisos įstaigoje organizuojamus renginius duoda pataisos įstaigos direktorius įsakymu. Vienu įsakymu galima leisti tik vieną kartą nueiti į kiną, teatrą, koncertą, sporto varžybas ar kitą ne pataisos įstaigoje organizuojamą renginį. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
- 
-
-
-
-
-11. Apie paskatinimo priemonės paskyrimą paskelbiama nuteistajam.
+7. Apie paskatinimo priemonės paskyrimą paskelbiama nuteistajam. 
 
 
 Straipsnio pakeitimai:
 Nr. X-164, 2005-04-21, Žin., 2005, Nr. 58-2002 (2005-05-07)
+Straipsnio pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
@@ -3848,47 +4066,38 @@ Nr. X-164, 2005-04-21, Žin., 2005, Nr. 58-2002 (2005-05-07)
 
 
 
-2) pataisos įstaigos patalpų ir teritorijos tvarkymas be eilės;
+2) didžiausios pinigų sumos, už kurią nuteistieji gali per mėnesį įsigyti asmeninių daiktų, sumažinimas vienos bazinės socialinės išmokos dydžio suma iki trijų mėnesių;
 
 
 
 
-3) draudimas iki vieno mėnesio apsipirkti pataisos įstaigos parduotuvėje (išskyrus higienos reikmenų ir kanceliarinių prekių įsigijimą).
+3) draudimas vieną mėnesį įsigyti asmeninių daiktų (išskyrus higienos reikmenų ir kanceliarinių prekių įsigijimą);
 
 
 
 
-
-
-2. Nuteistiesiems, sistemingai pažeidinėjantiems arba itin piktybiškai pažeidusiems režimą, gali būti skiriamos šios nuobaudos: 
-
-
-1) panaikinta paskirta paskatinimo priemonė – perkėlimas iš paprastosios grupės į lengvąją grupę;
-
-
-
-
-2) pataisos namuose ir kalėjimuose paprastosios grupės sąlygomis laikomų nuteistųjų (išskyrus nepilnamečius nuteistuosius) perkėlimas į drausmės grupę nuo trijų mėnesių iki vienerių metų;
-
-
-
-
-3) pataisos namuose ir kalėjimuose paprastosios arba drausmės grupės sąlygomis laikomų nuteistųjų perkėlimas į kamerų tipo patalpas iki trisdešimt parų, o nepilnamečių nuteistųjų – iki penkių parų. 
+4) vienos bazinės socialinės išmokos dydžio įmoka į socialinės paramos nuteistiesiems fondą.
 
 
 
 
 
 
-3. Nėščioms moterims ir turinčioms vaikų iki trejų metų motinoms, taip pat asmenims, kurie dėl medicininių priežasčių negali būti perkelti į kamerų tipo patalpas, šio straipsnio 2 dalies 3 punkte nustatyta nuobauda neskiriama, o jeigu buvo paskirta, – nevykdoma. 
+2. Nuteistiesiems, sistemingai pažeidinėjantiems arba itin piktybiškai pažeidusiems režimą, gali būti skiriama nuobauda – perkėlimas į kamerų tipo patalpas iki trisdešimt parų, o nepilnamečių nuteistųjų – iki penkių parų.
+
+
+
+
+3. Nėščioms moterims ir turinčioms vaikų iki trejų metų motinoms, taip pat asmenims, kurie dėl medicininių priežasčių negali būti perkelti į kamerų tipo patalpas, šio straipsnio 2 dalyje nustatyta nuobauda neskiriama, o jeigu buvo paskirta, – nevykdoma. 
+
+
 Straipsnio pakeitimai:
 Nr. X-164, 2005-04-21, Žin., 2005, Nr. 58-2002 (2005-05-07)
 Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
-
-
 Straipsnio pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
@@ -3897,12 +4106,12 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 143 straipsnis. Nuobaudų skyrimo atliekantiems laisvės atėmimo bausmę nuteistiesiems tvarka
 
 
-1. Šio Kodekso 142 straipsnio 1 ir 2 dalyse numatytos nuobaudos skiriamos tam įgalioto pareigūno nutarimu arba įsakymu. Turinčių teisę skirti nuobaudas pareigūnų sąrašą ir jų įgaliojimus nustato Pataisos įstaigų vidaus tvarkos taisyklės.
+1. Šio Kodekso 142 straipsnio 1 ir 2 dalyse numatytos nuobaudos skiriamos pataisos įstaigos direktoriaus nutarimu.
 
 
 
 
-2. Skiriant nuobaudas, atsižvelgiama į pažeidimo padarymo aplinkybes, į paskirtų nuobaudų kiekį ir pobūdį, taip pat į nuteistojo rašytinį pasiaiškinimą dėl pažeidimo. Skiriamos nuobaudos turi atitikti padaryto pažeidimo sunkumą ir pobūdį.
+2. Skiriant nuobaudas, atsižvelgiama į pažeidimo padarymo aplinkybes, į galiojančių nuobaudų kiekį ir paskirtų nuobaudų pobūdį, taip pat į nuteistojo rašytinį pasiaiškinimą dėl pažeidimo. Skiriamos nuobaudos turi atitikti padaryto pažeidimo sunkumą ir pobūdį.
 
 
 
@@ -3917,54 +4126,42 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 
 
 
-5. Paskirta nuobauda vykdoma tuoj pat ir ne vėliau kaip per vieną mėnesį nuo jos paskyrimo. Nuobauda, kuri nebuvo pradėta vykdyti per vieną mėnesį nuo jos paskyrimo dienos, nebevykdoma.
+5. Paskirta nuobauda vykdoma tuoj pat ir ne vėliau kaip per vieną mėnesį nuo jos paskyrimo. Nuobauda, kuri nebuvo pradėta vykdyti per vieną mėnesį nuo jos paskyrimo dienos, išskyrus šio Kodekso 142 straipsnio 1 dalies 4 punkte nurodytą nuobaudą, nebevykdoma.
 
 
 
 
-6. Pakartotinai perkelti nuteistąjį iš paprastosios grupės į lengvąją grupę galima ne anksčiau kaip po vienerių metų, o nepilnametį nuteistąjį – ne anksčiau kaip po šešių mėnesių nuo nuobaudos paskyrimo dienos.
+6. Jeigu nuteistasis, kuriam paskirta šio Kodekso 142 straipsnio 1 dalies 4 punkte nurodyta nuobauda, asmeninėje sąskaitoje neturi lėšų arba jų turi nepakankamai, kad būtų iš karto sumokėta paskirta įmoka į socialinės paramos nuteistiesiems fondą, šio Kodekso 142 straipsnio 1 dalies 4 punkte nurodyta nuobauda laikoma įvykdyta, kai iš nuteistojo asmeninės sąskaitos pataisos įstaigos administracija atskaito šiai įmokai ar likusiai jos daliai sumokėti reikalingas lėšas.
 
 
 
 
-7. Nuobaudos – papeikimas, paskyrimas be eilės budėti pataisos įstaigos patalpose ir tvarkyti teritoriją – skiriamos žodžiu arba raštu tam įgalioto pareigūno įsakymu arba nutarimu. Kitos šio Kodekso 142 straipsnio 1 ir 2 dalyse numatytos nuobaudos skiriamos pataisos įstaigos direktoriaus nutarimu. Šio Kodekso 142 straipsnio 2 dalyje nustatytos nuobaudos skiriamos tik tais atvejais, kai yra pataisos įstaigos Drausmės komisijos teikimas. Drausmės komisijos sudarymo tvarką ir kompetenciją nustato Pataisos įstaigų vidaus tvarkos taisyklės. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
- 
+7. Nuteistasis turi teisę šio Kodekso 183 straipsnyje nustatyta tvarka apskųsti jam paskirtą nuobaudą. Skundo padavimas nuobaudos vykdymo nesustabdo.
 
 
 
 
-8. Nuteistasis turi teisę šio Kodekso 183 straipsnyje nustatyta tvarka apskųsti jam paskirtą nuobaudą aukštesniam pagal pareigas pareigūnui. Skundo padavimas nuobaudos vykdymo nesustabdo. Aukštesnis pagal pareigas pareigūnas nuobaudą sušvelnina arba ją panaikina, jeigu ją paskyręs pareigūnas viršijo savo įgaliojimus, netinkamai įvertino pažeidimo padarymo aplinkybes arba jeigu nuobauda paskirta nepadariusiam pažeidimo nuteistajam.
-Straipsnio dalies pakeitimai:
-Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
- 
+8. Jeigu nuteistajam per šešis mėnesius, o nepilnamečiam nuteistajam per tris mėnesius nuo nuobaudos atlikimo dienos nepaskiriama nauja nuobauda, jis laikomas neturinčiu nuobaudų.
 
 
 
 
-9. Jeigu nuteistajam per vienerius metus, o nepilnamečiui nuteistajam per šešis mėnesius nuo nuobaudos atlikimo dienos nepaskiriama nauja nuobauda, jis laikomas neturinčiu nuobaudų.
-
-
-
-
-10. Apie nuobaudos, išskyrus žodžiu skiriamą nuobaudą, paskyrimą nuteistajam paskelbiama pasirašytinai.
+9. Apie nuobaudos paskyrimą nuteistajam paskelbiama pasirašytinai. Nutarimo, kuriuo nuteistajam paskirta nuobauda, kopija įteikiama nuteistajam. 
 
 
 Straipsnio pakeitimai:
 Nr. X-164, 2005-04-21, Žin., 2005, Nr. 58-2002 (2005-05-07)
 Nr. XI-643, 2010-01-14, Žin., 2010, Nr. 12-558 (2010-01-30)
+Straipsnio pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
 
 
-144 straipsnis. Laikinas nuteistojo izoliavimas
-
-
-Kai kitomis priemonėmis negalima užkirsti kelio šiurkščiam teisės pažeidimui ir būtina pažeidimą padariusį nuteistąjį, išskyrus šio Kodekso 142 straipsnio 3 dalyje nurodytus asmenis, laikinai, kol nėra pataisos įstaigos direktoriaus arba jį pavaduojančio pareigūno, izoliuoti, jis gali būti laikinai perkeltas į kamerų tipo patalpas. Toks nuteistojo laikinas izoliavimas galimas tik iki pataisos įstaigos direktoriaus arba jį pavaduojančio pareigūno atvykimo į pataisos įstaigą, bet ne ilgiau kaip dvidešimt keturioms valandoms, ir nelaikomas nuobauda. Jeigu už padarytą režimo pažeidimą paskiriama nuobauda – perkėlimas į kamerų tipo patalpas, laikino izoliavimo laikas įskaitomas į bendrą nutarimu paskirtos nuobaudos laiką. 
-
-
+144 straipsnis. Neteko galios nuo 2020-06-20
+Straipsnio naikinimas:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
 Straipsnio pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
 Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
@@ -3976,33 +4173,17 @@ Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
 145 straipsnis. Nuteistųjų laikymo sąlygos kamerų tipo patalpose
 
 
-1. Nuteistieji, atliekantys šio Kodekso 142 straipsnio 2 dalies 3 punkte nurodytą nuobaudą, į darbą nevedami. Perkelti į kamerų tipo patalpas nuteistieji neturi teisės gauti pasimatymų, smulkiųjų paketų, siųsti laiškų (išskyrus atvejus, kai jie įgyvendina šio Kodekso 100, 109 ir 183 straipsniuose nurodytas teises), taip pat paskambinti telefonu. Jiems neleidžiama apsipirkti pataisos įstaigos parduotuvėje, išskyrus higienos reikmenų įsigijimą, turėti maisto produktų ir kitų Pataisos įstaigų vidaus tvarkos taisyklėse nurodytų daiktų. Šioje dalyje nurodytiems nuteistiesiems leidžiama skaityti knygas, žurnalus, laikraščius ir kitą literatūrą, kasdien vieną valandą, o nepilnamečiams, neįgaliesiems, kuriems nustatytas 0–40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, ir ligoniams (pagal gydytojo išvadą) – dvi valandas pasivaikščioti. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-67, 2016-12-08, paskelbta TAR 2016-12-20, i. k. 2016-29147
-Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
- 
+1. Nuteistieji, atliekantys šio Kodekso 142 straipsnio 2 dalyje nurodytą nuobaudą, į darbą nevedami. Perkelti į kamerų tipo patalpas nuteistieji neturi teisės gauti pasimatymų (išskyrus teisę susitikti su advokatu), perduodamų daiktų, taip pat paskambinti telefonu (išskyrus atvejus, kai jie įgyvendina šio Kodekso 101 straipsnyje nurodytą teisę). Jiems neleidžiama įsigyti ir (ar) turėti asmeninių daiktų, išskyrus drabužius, avalynę, higienos reikmenis ir kanceliarines prekes. Šioje dalyje nurodytiems nuteistiesiems leidžiama skaityti knygas, žurnalus, laikraščius ir kitą literatūrą, kasdien vieną valandą, o nepilnamečiams, neįgaliesiems, kuriems nustatytas 0–40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, ir ligoniams (pagal gydytojo išvadą) – dvi valandas pasivaikščioti.
 
 
 
 
-2. Neteko galios nuo 2019-07-06
-Straipsnio dalies naikinimas:
-Nr. XIII-2264, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11180
- 
-
-
-
-
-3. Sergantiems tuberkulioze nuteistiesiems, kurie atlieka šio Kodekso 142 straipsnio 2 dalies 3 punkte nurodytą nuobaudą, gyvenamojo ploto norma vienam asmeniui negali būti mažesnė kaip penki kvadratiniai metrai. Šiems nuteistiesiems, taip pat neįgaliesiems, kuriems nustatytas 0–40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, ir ligoniams (pagal gydytojo išvadą) kasdien turi būti leidžiama ne mažiau kaip dvi valandas pasivaikščioti.
-
-
-
-
-4. Kamerų tipo patalpose nuteistieji laikomi rakinamose kamerose.
+2. Nuteistieji, atliekantys šio Kodekso 142 straipsnio 2 dalyje nurodytą nuobaudą, laikomi rakinamose kamerose. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-1818, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11069
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
@@ -4141,7 +4322,10 @@ NĖŠČIŲ MOTERŲ IR VAIKŲ IKI TREJŲ METŲ TURINČIŲ MOTINŲ LAISVĖS ATĖMI
 
 
 
-2. Atsižvelgiant į vaiko interesus, šio straipsnio 1 dalyje nurodytas leidimas pataisos įstaigos direktoriaus nutarimu gali būti pratęstas, bet ne ilgiau, kol vaikui sueis ketveri metai.
+2. Atsižvelgiant į vaiko interesus, Kalėjimų departamento direktoriaus nustatytomis sąlygomis šio straipsnio 1 dalyje nurodytas leidimas pataisos įstaigos direktoriaus nutarimu kasmet gali būti pratęsiamas, bet ne ilgiau, kol vaikas bus pradėtas ugdyti pagal pradinio ugdymo programą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
+ 
 
 
 
@@ -4154,7 +4338,10 @@ NĖŠČIŲ MOTERŲ IR VAIKŲ IKI TREJŲ METŲ TURINČIŲ MOTINŲ LAISVĖS ATĖMI
 
 
 
-2) paskambinti telefonu, gauti ir siųsti neribotą kiekį laiškų, smulkiųjų paketų, pašto arba perduodamus siuntinius ir pasimatymus;
+2) paskambinti telefonu, gauti ir siųsti neribotą kiekį laiškų, gauti perduodamus daiktus ir pasimatymus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
+ 
 
 
 
@@ -4709,7 +4896,9 @@ Nr. XIII-2007, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05335
 
 
 XIII skyrius
-TERMINUOTO laisvės atėmimo, LAISVĖS ATĖMIMO IKI GYVOS GALVOS IR arešto bausmes atliekančių NUTEISTŲJŲ materialinė Atsakomybė
+AREŠTO, TERMINUOTO LAISVĖS ATĖMIMO IR LAISVĖS ATĖMIMO IKI GYVOS GALVOS BAUSMĖS ATLIKIMO METU VALSTYBEI PADARYTOS TURTINĖS ŽALOS ATLYGINIMAS 
+Pakeistas skyriaus pavadinimas:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
  
 
 
@@ -4885,7 +5074,10 @@ Nr. XIII-2699, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21417
 175 straipsnis. Atliekančių laisvės atėmimo bausmę nuteistųjų, kurie serga priklausomybės ligomis, gydymas
 
 
-1. Laisvės atėmimo bausmę atliekantys nuteistieji, sergantys priklausomybės nuo alkoholio, narkotinių arba psichotropinių medžiagų ligomis, jų rašytiniu pageidavimu gali būti gydomi nuo šių ligų laisvės atėmimo bausmės atlikimo metu.
+1. Pataisos įstaigos administracija privalo vykdyti švietėjišką, aiškinamąją ir kitokią prevencinę veiklą, skatindama nuteistuosius atsisakyti vartoti tabako gaminius, alkoholį ir narkotines ar kitas psichiką veikiančias medžiagas, ir užtikrinti reikiamas sąlygas priklausomybės ligomis sergantiems nuteistiesiems gydytis nuo šių ligų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
+ 
 
 
 
@@ -5161,7 +5353,7 @@ Nr. XI-1474, 2011-06-21, Žin., 2011, Nr. 81-3961 (2011-07-05)
 
 
 
-part_01387da79c704052888f1375b09d31d6_end
+part_2674b2ee75e24f2ab80cf07950eae677_end
 
 
  
@@ -5370,3 +5562,8 @@ Lietuvos Respublikos bausmių vykdymo kodekso 41 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2699, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21417
 Lietuvos Respublikos bausmių vykdymo kodekso 174 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3023, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13459
+Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymas
