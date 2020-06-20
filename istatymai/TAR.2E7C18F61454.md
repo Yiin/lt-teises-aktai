@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2020-01-30 iki 2020-06-19
+Suvestinė redakcija nuo 2020-06-20 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -323,8 +323,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
  
- 
- 
  
  
 
@@ -333,7 +331,7 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
-                                                                                                PATVIRTINTAS
+PATVIRTINTAS
 2002 m. vasario 28 d.
 įstatymu Nr. IX-743
  
@@ -4991,9 +4989,10 @@ Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 
 
 
-6. Areštavus lėšas, esančias kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose, leidžiama su jomis atlikti tik tas operacijas, kurios nurodytos teismo nutartyje. Teismas, leisdamas atlikti tam tikras operacijas, nurodo antstoliui nustatyti konkrečią lėšų sumą, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti.
+6. Taikant laikinąsias apsaugos priemones, draudžiama areštuoti lėšas, nurodytas šio Kodekso 668 ir 739 straipsniuose. Areštavus lėšas, esančias kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose, leidžiama su jomis atlikti tik tas operacijas, kurios nurodytos teismo nutartyje. Teismas, leisdamas atlikti tam tikras operacijas, nurodo antstoliui nustatyti konkrečią lėšų sumą, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
+Nr. XIII-3034, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13472
  
 
 
@@ -21007,6 +21006,14 @@ Nr. XIII-2285, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12174
 3. Išieškojimas remiamo projekto vykdymo laikotarpiu ir projekto veiklos privalomojo tęstinumo laikotarpiu, nustatytu Europos Sąjungos teisės aktuose ar Lietuvos Respublikos tarptautinėse sutartyse, negali būti nukreipiamas į lėšas, gautas kaip Europos Sąjungos ar kitos tarptautinės finansinės paramos ar bendrojo finansavimo lėšos remiamam projektui vykdyti. Šis draudimas išieškoti netaikomas, kai remiamo projekto vykdymą kontroliuojančių institucijų iniciatyva lėšos išieškomos, nes buvo panaudotos pažeidžiant Europos Sąjungos, Lietuvos Respublikos teisės aktus ar tarptautines sutartis arba sutartis dėl šių lėšų suteikimo.
 
 
+
+
+4. Išieškojimas negali būti nukreipiamas į pinigines lėšas, kurios priklauso skolininkui kaip valstybės ar savivaldybių parama ir kitos išmokos ar kompensacijos, skiriamos dėl ekstremaliosios situacijos ar karantino. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3034, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13472
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
  
@@ -22842,7 +22849,7 @@ Nr. XII-1571, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05018
 
 
 
-7) pensijų, išskyrus mokamas pagal Lietuvos Respublikos šalpos pensijų įstatymą (toliau – Šalpos pensijų įstatymas).
+7) pensijų, išskyrus mokamas pagal Lietuvos Respublikos šalpos pensijų įstatymą (toliau – Šalpos pensijų įstatymas);
 Straipsnio punkto pakeitimai:
 Nr. XII-2518, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20310
  
@@ -23826,7 +23833,6 @@ Nr. XII-2580, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20333
 
 
 Tais atvejais, kai darbdavys neįvykdo teismo sprendimo grąžinti į darbą neteisėtai atleistą ar neteisėtai perkeltą į kitą darbą darbuotoją arba pakeisti atleidimo iš darbo formuluotę, jeigu ta formuluotė sukliudė darbuotojui stoti į kitą darbą, teismas išieškotojo prašymu priima nutartį išieškoti darbuotojui atlyginimą už priverstinės pravaikštos laiką arba išmokėti neteisėtai perkeltam į kitą darbą darbuotojui darbo užmokesčio skirtumą už visą laiką nuo sprendimo priėmimo dienos iki jo įvykdymo dienos. 
- 
  
 
 
@@ -25388,3 +25394,28 @@ Lietuvos Respublikos civilinio proceso kodekso 603, 626, 692 ir 755 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
 Lietuvos Respublikos civilinio proceso kodekso 56, 93, 268, 306, 441-1, 441-3, 441-4, 441-6, 441-7, 441-8, 441-9, 441-11, 441-13 ir 441-16 straipsnių pakeitimo įstatymas
+ 
+47.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
+Lietuvos Respublikos civilinio proceso kodekso 604, 605, 609, 610, 611, 620, 650, 654, 679, 682, 727, 728, 733, 737, 744, 750, 753, 754, 766, 767, 769 ir 778 straipsnių pakeitimo įstatymas
+ 
+48.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2826, 2020-03-31, paskelbta TAR 2020-04-03, i. k. 2020-06993
+Lietuvos Respublikos civilinio proceso kodekso 1 straipsnio pakeitimo įstatymas
+ 
+49.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2724, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00083
+Lietuvos Respublikos civilinio proceso kodekso 746 straipsnio pakeitimo įstatymas
+ 
+50.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3034, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13472
+Lietuvos Respublikos civilinio proceso kodekso 145 ir 668 straipsnių pakeitimo įstatymas
+ 
+51.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3035, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13473
+Lietuvos Respublikos civilinio proceso kodekso 570, 629, 631, 663, 668, 688, 689, 736, 739, 746 ir 749 straipsnių pakeitimo įstatymo Nr. XIII-1460 12 straipsnio pakeitimo įstatymas
