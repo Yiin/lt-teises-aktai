@@ -13,10 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9af9c40028ab11eabe008ea93139d588"
 
 # Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2020-03-19 iki 2020-06-19
+Suvestinė redakcija nuo 2020-06-20
  
 Įstatymas paskelbtas: TAR 2019-12-27, i. k. 2019-21410
- 
  
  
 
@@ -27,7 +26,6 @@ LIETUVOS RESPUBLIKOS
  
 2019 m. gruodžio 17 d. Nr. XIII-2695
 Vilnius
- 
  
  
 PREAMBULĖ
@@ -283,9 +281,11 @@ Nr. XIII-2819, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05700
 
 
 
-4) dėl paskolų, naudojamų ekstremaliųjų situacijų paveiktos ekonomikos skatinimo tikslams įgyvendinti ir likvidumui didinti. Bendra tokių įsipareigojimų, prisiimtų 2020 metais, suma vienu metu negali viršyti 500 000  tūkst. eurų.
+4) dėl paskolų ir ne nuosavybės vertybinių popierių, naudojamų ekstremaliųjų situacijų paveiktos ekonomikos skatinimo tikslams įgyvendinti ir verslo finansiniam likvidumui didinti. Bendra tokių įsipareigojimų, prisiimtų 2020 metais, suma vienu metu negali viršyti 500 000 tūkst. eurų. 
 Papildyta straipsnio punktu:
 Nr. XIII-2819, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05700
+Straipsnio punkto pakeitimai:
+Nr. XIII-3032, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13470
  
 
 
@@ -416,7 +416,10 @@ Nr. XIII-2819, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05700
 3. Finansų ministerijai suteikiama teisė:
 
 
-1) skolintis valstybės vardu, kai yra poreikis ir kai dėl to nėra pažeidžiamos šio įstatymo 10 ir 19 straipsnių nuostatos: su valstybės skola susijusioms išlaidoms apmokėti; priemonėms, finansuojamoms iš Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšų, bendrai finansuoti ir su šių priemonių įgyvendinimu susijusioms išlaidoms apmokėti; Europos Sąjungos teisės aktais numatytai nacionalinei paramai žemės ūkio subjektams teikti; nenumatytoms įmokoms į Europos Sąjungos biudžetą mokėti; nenumatytoms išlaidoms dėl einamaisiais biudžetiniais metais vykdomo referendumo ir (arba) rinkimų apmokėti; Lietuvos Respublikos įsipareigojimams, susijusiems su naryste NATO, vykdyti (užtikrinti ne mažiau kaip 2,02 procento BVP, bet ne daugiau kaip 2,05 procento BVP skyrimą), kai atsiranda papildomų lėšų poreikis Ekonominio bendradarbiavimo ir plėtros organizacijai (EBPO) paskelbus BVP prognozę Lietuvos Respublikai; Lietuvos Respublikos įsipareigojimams, susijusiems su Europos Sąjungos politikos įgyvendinimu, vykdyti, įskaitant rezervinių lėšų sukaupimą ir (arba) paskolinimą, kaip tai numatyta Europos Sąjungos teisės aktuose, Europos Sąjungos institucijų ar organizacijų sprendimuose ir (arba) su tuo susijusiose sutartyse ar susitarimuose; išlaidoms, susijusioms su ekstremaliųjų situacijų likvidavimu, jų padarinių šalinimu ir padarytų nuostolių padengimu iš dalies, kai nepakanka valstybės rezervo ir Vyriausybės rezervo lėšų, apmokėti; išlaidoms, susijusioms su atstovavimu Lietuvos Respublikai (Vyriausybei) užsienio ginčų sprendimo institucijose, įskaitant teisinių išvadų dėl jų sprendimų apskundimo parengimą, teisinių išvadų dėl sprendimų apskundimo gavimą ir atstovavimą Lietuvos Respublikai (Vyriausybei) atliekant kitus veiksmus, susijusius su Lietuvos Respublikos (Vyriausybės) interesų gynimu (bet tuo neapsiribojant), apmokėti; arbitražų ar teismų sprendimams, kuriais priteistos sumos iš Lietuvos valstybės, vykdyti; nepalankių klimato reiškinių nulemtiems nuostoliams žemės ūkio sektoriuje kompensuoti;
+1) skolintis valstybės vardu, kai yra poreikis ir kai dėl to nėra pažeidžiamos šio įstatymo 10 ir 19 straipsnių nuostatos: su valstybės skola susijusioms išlaidoms apmokėti; priemonėms, finansuojamoms iš Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšų, bendrai finansuoti ir su šių priemonių įgyvendinimu susijusioms išlaidoms apmokėti; Europos Sąjungos teisės aktais numatytai nacionalinei paramai žemės ūkio subjektams teikti; nenumatytoms įmokoms į Europos Sąjungos biudžetą mokėti; nenumatytoms išlaidoms dėl einamaisiais biudžetiniais metais vykdomo referendumo ir (arba) rinkimų apmokėti; Lietuvos Respublikos įsipareigojimams, susijusiems su naryste NATO, vykdyti (užtikrinti ne mažiau kaip 2,02 procento BVP, bet ne daugiau kaip 2,05 procento BVP skyrimą), kai atsiranda papildomų lėšų poreikis Ekonominio bendradarbiavimo ir plėtros organizacijai (EBPO) paskelbus BVP prognozę Lietuvos Respublikai; Lietuvos Respublikos įsipareigojimams, susijusiems su Europos Sąjungos politikos įgyvendinimu, vykdyti, įskaitant rezervinių lėšų sukaupimą ir (arba) paskolinimą, kaip tai numatyta Europos Sąjungos teisės aktuose, Europos Sąjungos institucijų ar organizacijų sprendimuose ir (arba) su tuo susijusiose sutartyse ar susitarimuose; išlaidoms, susijusioms su ekstremaliųjų situacijų likvidavimu, jų padarinių šalinimu ir padarytų nuostolių padengimu iš dalies, kai nepakanka valstybės rezervo ir Vyriausybės rezervo lėšų, apmokėti; išlaidoms, susijusioms su atstovavimu Lietuvos Respublikai (Vyriausybei) užsienio ginčų sprendimo institucijose, įskaitant teisinių išvadų dėl jų sprendimų apskundimo parengimą, teisinių išvadų dėl sprendimų apskundimo gavimą ir atstovavimą Lietuvos Respublikai (Vyriausybei) atliekant kitus veiksmus, susijusius su Lietuvos Respublikos (Vyriausybės) interesų gynimu (bet tuo neapsiribojant), apmokėti; arbitražų ar teismų sprendimams, kurių pagrindu Lietuvos valstybei kyla pareiga mokėti sumas, vykdyti; nepalankių klimato reiškinių nulemtiems nuostoliams žemės ūkio sektoriuje kompensuoti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3032, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13470
+ 
 
 
 
@@ -4275,3 +4278,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2819, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05700
 Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo Nr. XIII-2695 9 ir 10 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3032, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13470
+Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo Nr. XIII-2695 9 ir 13 straipsnių pakeitimo įstatymas
