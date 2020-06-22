@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-06-18 iki 2020-06-21
+Suvestinė redakcija nuo 2020-06-22 iki 2020-06-25
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -3034,6 +3034,14 @@ Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
 
 
 
+4) investiciniuose projektuose pateikiamos galimos paklausos mažinimo, diegiant ar skatinant diegti energijos vartojimo efektyvumo didinimo priemones perdavimo tinkluose, alternatyvos, siekiant įgyvendinti Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatyme nurodytą energijos vartojimo efektyvumo didinimo pirmumo principą.
+Papildyta straipsnio punktu:
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+ 
+
+
+
+
 
 
 3. Rengdamas tinklų plėtros planą, perdavimo sistemos operatorius daro pagrįstas prielaidas apie elektros energijos gamybos, tiekimo, vartojimo ir tarpsisteminių elektros energijos srautų tendencijas, atsižvelgdamas į regioniniams ir visos Europos Sąjungos tinklams skirtų investicijų planus.
@@ -3383,6 +3391,14 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 5) skirstomųjų tinklų operatoriaus pagrįstos prognozės, kuriomis remiantis buvo sudarytas planas, ir jų prielaidos;
+
+
+
+
+6) investiciniuose projektuose pateikiamos galimos paklausos mažinimo, diegiant ar skatinant diegti energijos vartojimo efektyvumo didinimo priemones skirstomuosiuose tinkluose, alternatyvos, siekiant įgyvendinti Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatyme nurodytą energijos vartojimo efektyvumo didinimo pirmumo principą. 
+Papildyta straipsnio punktu:
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+ 
 
 
 
