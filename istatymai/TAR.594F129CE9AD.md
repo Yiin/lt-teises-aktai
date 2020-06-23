@@ -13,19 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2020-06-22
+Suvestinė redakcija nuo 2020-06-23 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
  
-TAR pastaba. Nuo 2018-01-01 Vyriausiosios administracinių ginčų komisijos pavadinimas keičiamas į pavadinimą – Lietuvos administracinių ginčų komisija. Vyriausiosios administracinių ginčų komisijos nariai, paskirti iki 2018-01-01 laikomi Lietuvos administracinių ginčų komisijos nariais ir eina pareigas iki Lietuvos administracinių ginčų komisijos kadencijos pabaigos. Nuo 2018-01-01 nauji Lietuvos administracinių ginčų komisijos nariai paskiriami likusiam komisijos kadencijos laikotarpiui.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2400, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16850
-Lietuvos Respublikos administracinių ginčų komisijų įstatymo Nr. VIII-1031 pakeitimo įstatymas
+Nauja redakcija nuo 2020-06-23:
+Nr. XIII-3050, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13618
  
-Nauja redakcija nuo 2016-07-01:
-Nr. XII-2400, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16850
- 
-LIETUVOS RESPUBLIKOS ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymAS 
+LIETUVOS RESPUBLIKOS
+IKITEISMINIO ADMINISTRACINIŲ GINČŲ NAGRINĖJIMO TVARKOS 
+ĮSTATYMAS
  
 1999 m. sausio 14 d. Nr. VIII-1031
 Vilnius
@@ -41,7 +38,7 @@ Vilnius
 
 
 
-2. Mokestinių ginčų būtiną ikiteisminio nagrinėjimo tvarką nustato mokesčių įstatymai.
+2. Būtino mokestinių ginčų ikiteisminio nagrinėjimo tvarką nustato mokesčių įstatymai.
 
 
 
@@ -62,12 +59,12 @@ Vilnius
 
 
 
-2. Lietuvos administracinių ginčų komisiją sudaro: komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojai teritoriniuose padaliniuose ir kitų komisijos bei jos teritorinių padalinių nariai.
+2. Lietuvos administracinių ginčų komisiją sudaro: komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojai teritoriniuose padaliniuose ir kiti komisijos ir jos teritorinių padalinių nariai. 
 
 
 
 
-3. Lietuvos administracinių ginčų komisijos veiklos teritorija nagrinėjant skundus (prašymus) dėl teritorinių valstybinio administravimo subjektų ir savivaldybių administravimo subjektų priimtų individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat nagrinėjant skundus dėl šių subjektų vilkinimo atlikti jų kompetencijai priskirtus veiksmus, sutampa su Vilniaus apygardos teismo veiklos teritorija, nustatyta Lietuvos Respublikos įstatyme „Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo“. Lietuvos administracinių ginčų komisijos teritorinio padalinio veiklos teritorija sutampa su atitinkamo bendrosios kompetencijos apygardos teismo veiklos teritorija, nustatyta šioje dalyje nurodytame įstatyme.
+3. Lietuvos administracinių ginčų komisijos veiklos teritorija nagrinėjant skundus (prašymus) dėl teritorinių valstybinio administravimo subjektų ir savivaldybių administravimo subjektų priimtų individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat nagrinėjant skundus dėl šių subjektų vilkinimo atlikti jų kompetencijai priskirtus veiksmus sutampa su Vilniaus apygardos teismo veiklos teritorija, nustatyta Lietuvos Respublikos įstatyme „Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo“. Lietuvos administracinių ginčų komisijos teritorinio padalinio veiklos teritorija sutampa su atitinkamo bendrosios kompetencijos apygardos teismo veiklos teritorija, nustatyta šioje dalyje nurodytame įstatyme. Jeigu viešojo administravimo subjekto teritorinio padalinio, teritorinio viešojo administravimo subjekto arba pareigūno, veikiančio Lietuvos Respublikos teritorijos dalyje, individualaus administracinio akto ar veiksmo (neveikimo) teisėtumas buvo patikrintas (nagrinėjamas) aukštesniojo pagal pavaldumą viešojo administravimo subjekto, skundas (prašymas) paduodamas pagal viešojo administravimo subjekto teritorinio padalinio, teritorinio viešojo administravimo subjekto arba pareigūno, kurio individualaus administracinio akto ar veiksmo (neveikimo) teisėtumas buvo tikrinamas (nagrinėjamas), buveinės vietą. 
  
 
 
@@ -78,17 +75,17 @@ Vilnius
 3 straipsnis. Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių sudarymas
 
 
-1. Lietuvos administracinių ginčų komisija ir jos teritoriniai padaliniai sudaromi 4 metams. Lietuvos administracinių ginčų komisija sudaroma iš 7 narių, kiekvienas jos teritorinis padalinys – iš 5 narių. Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių narius skiria Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė). Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių nariais gali būti tik Lietuvos Respublikos piliečiai, turintys aukštąjį teisinį išsilavinimą. Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių nariu negali būti asmuo, kuris įstatymų nustatyta tvarka pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo, nusikaltimo valstybės tarnybai ir viešiesiems interesams, korupcinio pobūdžio nusikaltimo ar nusikaltimo, kuriuo padaryta turtinė žala valstybei, padarymo ir turi neišnykusį ar nepanaikintą teistumą. Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių narių kandidatūras, iš jų ir komisijos pirmininko, komisijos pirmininko pavaduotojo bei komisijos pirmininko pavaduotojų teritoriniuose padaliniuose kandidatūras, Vyriausybei teikia Lietuvos Respublikos teisingumo ministras (toliau – teisingumo ministras).
+1. Lietuvos administracinių ginčų komisija ir jos teritoriniai padaliniai sudaromi 4 metams. Lietuvos administracinių ginčų komisija sudaroma iš 7 narių, kiekvienas jos teritorinis padalinys – iš 5 narių. Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių narius skiria Lietuvos Respublikos Vyriausybė. Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių nariais gali būti tik Lietuvos Respublikos piliečiai, turintys aukštąjį teisinį išsilavinimą. Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių nariu negali būti asmuo, kuris įstatymų nustatyta tvarka pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo, nusikaltimo valstybės tarnybai ir viešiesiems interesams, korupcinio pobūdžio nusikaltimo ar nusikaltimo, kuriuo padaryta turtinė žala valstybei, padarymo ir turi neišnykusį ar nepanaikintą teistumą. Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių narių kandidatūras, iš jų ir komisijos pirmininko, komisijos pirmininko pavaduotojo bei komisijos pirmininko pavaduotojų teritoriniuose padaliniuose kandidatūras, Vyriausybei teikia Lietuvos Respublikos teisingumo ministras. Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių narių kandidatūras, iš jų komisijos pirmininko pavaduotojo ir komisijos pirmininko pavaduotojų teritoriniuose padaliniuose kandidatūras, teisingumo ministrui gali siūlyti Lietuvos administracinių ginčų komisijos pirmininkas.
 
 
 
 
-2. Pasibaigus įgaliojimų laikui, Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių nariai pareigas eina, iki jie paskiriami kitai komisijos ar jos teritorinio padalinio kadencijai arba iki paskiriami nauji nariai. 
+2. Pasibaigus įgaliojimų laikui, Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių nariai pareigas eina tol, kol jie paskiriami kitai komisijos ar jos teritorinio padalinio kadencijai arba paskiriami nauji Lietuvos administracinių ginčų komisijos ar jos teritorinio padalinio nariai. 
 
 
 
 
-3. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojai teritoriniuose padaliniuose ir kiti komisijos bei jos teritorinių padalinių nariai turi teisę atsistatydinti. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba jos teritorinio padalinio narys Vyriausybės nutarimu atleidžiamas nepasibaigus įgaliojimų laikui, kai:
+3. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojai teritoriniuose padaliniuose ir kiti komisijos ir jos teritorinių padalinių nariai turi teisę atsistatydinti. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba jos teritorinio padalinio narys Vyriausybės nutarimu atleidžiamas nepasibaigus įgaliojimų laikui, kai:
 
 
 1) jis atsistatydina savo noru;
@@ -101,7 +98,7 @@ Vilnius
 
 
 
-3) jis nedirba dėl laikinojo nedarbingumo ilgiau kaip 120 dienų iš eilės ar ilgiau kaip 140 dienų per paskutinius 12 mėnesių;
+3) pagal sveikatos priežiūros įstaigos išvadą nebegali eiti šių pareigų;
 
 
 
@@ -118,7 +115,7 @@ Vilnius
 
 
 
-4. Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojo teritoriniame padalinyje ar kito komisijos arba jos teritorinio padalinio nario įgaliojimai nutrūksta, kai:
+4. Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojo teritoriniame padalinyje ar kito komisijos arba komisijos teritorinio padalinio nario įgaliojimai nutrūksta, kai:
 
 
 1) jis išrenkamas arba paskiriamas į kitas pareigas;
@@ -133,7 +130,7 @@ Vilnius
 
 
 
-5. Kai Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba jos teritorinio padalinio narys atleidžiamas nepasibaigus įgaliojimų laikui ar jo įgaliojimai nutrūksta, teisingumo ministras vietoj jo Vyriausybei teikia naują kandidatūrą likusiam komisijos ar jos teritorinio padalinio kadencijos laikotarpiui.
+5. Kai Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba komisijos teritorinio padalinio narys atleidžiamas nepasibaigus įgaliojimų laikui ar jo įgaliojimai nutrūksta, teisingumo ministras vietoj jo Vyriausybei teikia naują kandidatūrą likusiam komisijos ar jos teritorinio padalinio kadencijos laikotarpiui.
  
 
 
@@ -144,12 +141,12 @@ Vilnius
 4 straipsnis. Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių statusas
 
 
-1. Lietuvos administracinių ginčų komisija yra nepriklausoma ikiteisminė institucija, juridinis asmuo, biudžetinė įstaiga. Lietuvos administracinių ginčų komisijos nuostatus tvirtina Vyriausybė.
+1. Lietuvos administracinių ginčų komisija yra nepriklausoma ikiteisminė institucija, juridinis asmuo, biudžetinė įstaiga. Lietuvos administracinių ginčų komisijos nuostatus tvirtina Vyriausybė. 
 
 
 
 
-2. Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojų teritoriniuose padaliniuose ir kitų komisijos ir jos teritorinių padalinių narių darbas Lietuvos administracinių ginčų komisijoje laikytinas darbu pagrindinėje darbovietėje ir apmokamas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. Lietuvos administracinių ginčų komisijos valstybės tarnautojų priėmimo į pareigas ir darbuotojų, dirbančių pagal darbo sutartis, priėmimo į darbą tvarką, darbo užmokesčio jiems mokėjimo tvarką ir sąlygas nustato Lietuvos Respublikos valstybės tarnybos įstatymas, kiti įstatymai ir teisės aktai.
+2. Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojų teritoriniuose padaliniuose ir kitų komisijos ir komisijos teritorinių padalinių narių darbas Lietuvos administracinių ginčų komisijoje laikytinas darbu pagrindinėje darbovietėje ir už jį mokama Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba komisijos teritorinio padalinio narys pareigas gali eiti tik Lietuvos administracinių ginčų komisijoje, taip pat dirbti mokslinį, pedagoginį ar kūrybinį darbą. Lietuvos administracinių ginčų komisijos pirmininkui, komisijos pirmininko pavaduotojui, komisijos pirmininko pavaduotojui teritoriniame padalinyje ir kitiems komisijos arba komisijos teritorinio padalinio nariams taikomas Lietuvos Respublikos valstybės tarnybos įstatymo 42 straipsnis, jiems, vadovaujantis Darbo kodekso nuostatomis, gali būti suteikiamos šios tikslinės atostogos: nėštumo ir gimdymo, tėvystės, mokymosi, nemokamos, ir taikomos Darbo kodekse nustatytos lengvatos asmenims, auginantiems vaikus. Lietuvos administracinių ginčų komisijos valstybės tarnautojų priėmimo į pareigas ir darbuotojų, dirbančių pagal darbo sutartis, priėmimo į darbą tvarką, jų darbo užmokesčio mokėjimo tvarką ir sąlygas nustato Valstybės tarnybos įstatymas, kiti įstatymai ir teisės aktai.
 
 
 
@@ -175,12 +172,12 @@ Vilnius
 5 straipsnis. Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių kompetencija
 
 
-1. Lietuvos administracinių ginčų komisija nagrinėja skundus (prašymus) dėl centrinių valstybinio administravimo subjektų priimtų individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat dėl šių subjektų vilkinimo atlikti jų kompetencijai priskirtus veiksmus. Lietuvos administracinių ginčų komisija taip pat nagrinėja skundus (prašymus) dėl teritorinių valstybinio administravimo subjektų ir savivaldybių administravimo subjektų, esančių jos veiklos teritorijoje, priimtų individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat šių subjektų vilkinimo atlikti jų kompetencijai priskirtus veiksmus.
+1. Lietuvos administracinių ginčų komisija nagrinėja skundus (prašymus) dėl centrinių valstybinio administravimo subjektų priimtų individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat dėl šių subjektų vilkinimo atlikti jų kompetencijai priskirtus veiksmus. Lietuvos administracinių ginčų komisija taip pat nagrinėja skundus (prašymus) dėl teritorinių valstybinio administravimo subjektų ir savivaldybių administravimo subjektų, esančių jos veiklos teritorijoje, priimtų individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat dėl šių subjektų vilkinimo atlikti jų kompetencijai priskirtus veiksmus. 
 
 
 
 
-2. Lietuvos administracinių ginčų komisijos teritoriniai padaliniai nagrinėja skundus (prašymus) dėl teritorinių valstybinio administravimo subjektų ir savivaldybių administravimo subjektų, esančių jų veiklos teritorijoje, priimtų individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat šių subjektų vilkinimo atlikti jų kompetencijai priskirtus veiksmus.
+2. Lietuvos administracinių ginčų komisijos teritoriniai padaliniai nagrinėja skundus (prašymus) dėl teritorinių valstybinio administravimo subjektų ir savivaldybių administravimo subjektų, esančių jų veiklos teritorijoje, priimtų individualių administracinių aktų ir veiksmų (neveikimo) teisėtumo, taip pat dėl šių subjektų vilkinimo atlikti jų kompetencijai priskirtus veiksmus. 
 
 
 
@@ -188,12 +185,12 @@ Vilnius
 3. Lietuvos administracinių ginčų komisija ir jos teritoriniai padaliniai nesprendžia:
 
 
-1) Administracinių bylų teisenos įstatymo 18 straipsnyje, 20 straipsnio 2, 3, 4 dalyse ir 21 straipsnio 1 ir 3 dalyse nurodytų ginčų (bylų), taip pat mokestinių ginčų; 
+1) Lietuvos Respublikos administracinių bylų teisenos įstatymo 18 straipsnyje, 20 straipsnio 2, 3, 4 dalyse ir 21 straipsnio 1 ir 3 dalyse nurodytų administracinių ginčų (bylų);
 
 
 
 
-2) administracinių ginčų, kuriems nagrinėti įstatymai nustato kitokią tvarką.
+2) administracinių ginčų (toliau – ginčai), kuriems nagrinėti įstatymai nustato kitokią ikiteisminio ginčų nagrinėjimo tvarką.
 
 
 
@@ -201,6 +198,11 @@ Vilnius
 
 
 4. Lietuvos administracinių ginčų komisijos ar jos teritorinio padalinio narys, nepažeisdamas šiame ir kituose įstatymuose nustatytų reikalavimų, turi įgaliojimus nagrinėti visas bylas, priskirtas Lietuvos administracinių ginčų komisijos ir jos teritorinių padalinių kompetencijai.
+
+
+
+
+5. Lietuvos administracinių ginčų komisija ir jos teritoriniai padaliniai, nagrinėdami skundus (prašymus), nei žalos, nei bylos šalių turėtų išlaidų atlyginimo klausimų nesprendžia.
  
 
 
@@ -235,12 +237,12 @@ Vilnius
 3. Prie skundo (prašymo) pridedami šie priedai: 
 
 
-1) skundžiamas aktas; 
+1) skundžiamas individualus administracinis aktas; 
 
 
 
 
-2) jeigu būtina, – dokumentas, patvirtinantis reikalavimų ar prieštaravimų skundžiamai institucijai, įstaigai įteikimo datą; 
+2) jeigu būtina, – dokumentas, patvirtinantis reikalavimų ar prieštaravimų įteikimo skundžiamai institucijai, įstaigai datą; 
 
 
 
@@ -257,7 +259,7 @@ Vilnius
 
 
 
-5. Kai skundas (prašymas) paduodamas elektroninių ryšių priemonėmis, prie jo turi būti pridedamos ir priedų skaitmeninės kopijos.
+5. Skundo (prašymo) su priedais egzempliorių (kopijų) turi būti tiek, kad juos būtų galima įteikti kiekvienai bylos šaliai ir vienas egzempliorius liktų administracinių ginčų komisijoje, išskyrus atvejus, kai skundas (prašymas) paduodamas elektroninių ryšių priemonėmis. Kai skundas (prašymas) paduodamas elektroninių ryšių priemonėmis, prie jo turi būti pridedamos ir priedų skaitmeninės kopijos.
  
 
 
@@ -273,7 +275,7 @@ Vilnius
 
 
 
-2. Jeigu viešojo administravimo subjektas nevykdo savo pareigų arba vilkina klausimo nagrinėjimą ir nustatytu laiku jo neišsprendžia, toks neveikimas (vilkinimas) gali būti apskųstas per 2 mėnesius nuo dienos, kurią baigiasi įstatymo ar kito teisės akto nustatytas klausimo išsprendimo laikas.
+2. Kai viešojo administravimo subjektas neatlieka savo pareigų arba vilkina klausimo nagrinėjimą ir nustatytu laiku jo neišsprendžia, šis neveikimas (vilkinimas) gali būti apskųstas per 2 mėnesius nuo dienos, kurią baigiasi įstatymo ar kito teisės akto nustatytas klausimo išsprendimo terminas.
  
 
 
@@ -289,12 +291,12 @@ Vilnius
 
 
 
-2. Prašyme atnaujinti terminą nurodomos termino praleidimo priežastys ir pateikiami praleidimo priežastis patvirtinantys įrodymai. Kartu su prašymu atnaujinti terminą administracinių ginčų komisijai turi būti paduotas skundas (prašymas). Kai prašymas atnaujinti terminą paduodamas elektroninių ryšių priemonėmis, skundas (prašymas) taip pat paduodamas elektroninių ryšių priemonėmis.
+2. Prašyme atnaujinti skundo (prašymo) padavimo terminą nurodomos termino praleidimo priežastys ir pateikiami praleidimo priežastis patvirtinantys įrodymai. Kartu su prašymu atnaujinti skundo (prašymo) padavimo terminą administracinių ginčų komisijai turi būti paduotas skundas (prašymas). Kai prašymas atnaujinti terminą paduodamas elektroninių ryšių priemonėmis, skundas (prašymas) taip pat paduodamas elektroninių ryšių priemonėmis.
 
 
 
 
-3. Prašymą atnaujinti terminą skundui (prašymui) paduoti išnagrinėja Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys rašytinio proceso tvarka per 3 darbo dienas nuo prašymo su termino praleidimo priežastis patvirtinančiais įrodymais pateikimo dienos. Termino skundui (prašymui) paduoti atnaujinimas įforminamas rezoliucija. Jeigu atsisakoma atnaujinti terminą skundui (prašymui) paduoti, Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys surašo motyvuotą sprendimą. Lietuvos administracinių ginčų komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirto kito administracinių ginčų komisijos nario sprendimas atsisakyti atnaujinti terminą skundui (prašymui) paduoti gali būti skundžiamas per vieną mėnesį nuo jo gavimo dienos apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka. 
+3. Prašymą atnaujinti skundo (prašymo) padavimo terminą išnagrinėja Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys rašytinio proceso tvarka per 3 darbo dienas nuo prašymo su termino praleidimo priežastis patvirtinančiais įrodymais pateikimo dienos. Skundo (prašymo) padavimo termino atnaujinimas įforminamas rezoliucija. Jeigu atsisakoma atnaujinti skundo (prašymo) padavimo terminą, Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys surašo motyvuotą sprendimą. 
 
 
 
@@ -310,7 +312,7 @@ Vilnius
 10 straipsnis. Skundo (prašymo), paduodamo administracinių ginčų komisijai, priėmimas, bylų sujungimas ir išskyrimas
 
 
-1. Teisės aktų nustatyta tvarka užregistruotas skundas (prašymas) perduodamas Lietuvos administracinių ginčų komisijos pirmininkui (komisijos pirmininko pavaduotojui teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtam kitam administracinių ginčų komisijos nariui, kuris ne vėliau kaip kitą darbo dieną po jo gavimo dienos išsprendžia skundo (prašymo) priėmimo klausimą.
+1. Užregistruotas skundas (prašymas) perduodamas Lietuvos administracinių ginčų komisijos pirmininkui (komisijos pirmininko pavaduotojui teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtam kitam administracinių ginčų komisijos nariui, kuris ne vėliau kaip per 3 darbo dienas po jo gavimo dienos išsprendžia skundo (prašymo) priėmimo klausimą.
 
 
 
@@ -323,12 +325,12 @@ Vilnius
 
 
 
-2) praleistas skundo (prašymo) padavimo administracinių ginčų komisijai terminas ir pareiškėjas neprašo jo atnaujinti ar toks prašymas atmetamas;
+2) praleistas skundo (prašymo) padavimo administracinių ginčų komisijai terminas ir pareiškėjas neprašo jo atnaujinti arba prašymas atnaujinti skundo (prašymo) padavimo terminą atmetamas;
 
 
 
 
-3) yra nagrinėjamas ar išnagrinėtas administracinis ginčas tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu administracinių ginčų komisijoje, kitoje ikiteisminėje ginčus nagrinėjančioje institucijoje ar teisme arba byla nutraukta. 
+3) ginčas tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu yra nagrinėjamas ar išnagrinėtas administracinių ginčų komisijoje, kitoje ikiteisminio ginčų nagrinėjimo institucijoje ar teisme arba byla dėl šio ginčo yra nutraukta. 
 
 
 
@@ -338,7 +340,7 @@ Vilnius
 3. Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys priima sprendimą nustatyti pareiškėjui 14 dienų terminą skundo (prašymo) trūkumams pašalinti, jeigu:
 
 
-1) skundas (prašymas) neatitinka Administracinių bylų teisenos įstatymo 24 straipsnyje (išskyrus 24 straipsnio 2 dalies 9 punktą) nustatytų reikalavimų ir (ar) šio įstatymo 7 straipsnio 2 dalyje nustatytų reikalavimų; 
+1) skundas (prašymas) neatitinka Administracinių bylų teisenos įstatymo 24 straipsnyje (išskyrus 24 straipsnio 2 dalies 9 punktą) nustatytų reikalavimų ir (ar) šio įstatymo 7 straipsnio 2 dalyje nustatytų reikalavimų; 
 
 
 
@@ -350,7 +352,7 @@ Vilnius
 
 
 
-4. Atsisakęs priimti skundą (prašymą) nagrinėti ar nustatęs pareiškėjui 14 dienų terminą skundo (prašymo) trūkumams pašalinti, Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys surašo motyvuotą sprendimą. Jeigu pareiškėjas per nustatytą terminą pašalina skundo (prašymo) trūkumus, skundas (prašymas) laikomas paduotas pradinio jo pateikimo administracinių ginčų komisijai dieną. Nepašalinus per nustatytą terminą skundo (prašymo) trūkumų, Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys atsisako jį priimti ir grąžina skundą (prašymą) jį padavusiam asmeniui.
+4. Atsisakęs priimti skundą (prašymą) nagrinėti ar nustatęs pareiškėjui 14 dienų terminą skundo (prašymo) trūkumams pašalinti, Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys surašo motyvuotą sprendimą. Jeigu pareiškėjas per šioje dalyje nurodytą terminą pašalina skundo (prašymo) trūkumus, laikoma, kad skundas (prašymas) paduotas pirminio jo pateikimo administracinių ginčų komisijai dieną. Nepašalinus per šioje dalyje nurodytą terminą skundo (prašymo) trūkumų, skundas (prašymas) laikomas nepaduotu ir Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys sprendimu grąžina skundą (prašymą) jį padavusiam asmeniui.
 
 
 
@@ -360,12 +362,12 @@ Vilnius
 
 
 
-6. Kai byloje yra daugiau kaip vienas reikalavimas, prireikus Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys kai kuriuos iš jų gali išskirti į atskirą bylą (bylas).
+6. Kai byloje yra daugiau kaip vienas reikalavimas, prireikus Lietuvos administracinių ginčų komisijos pirmininkas (komisijos pirmininko pavaduotojas teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirtas kitas administracinių ginčų komisijos narys kai kuriuos iš jų gali išskirti į atskirą (atskiras) bylą (bylas).
 
 
 
 
-7. Skundo (prašymo) priimtinumo (bylos pradėjimo), bylų sujungimo ar bylos išskyrimo į atskirą bylą (bylas) klausimas išsprendžiamas Lietuvos administracinių ginčų komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirto kito administracinių ginčų komisijos nario rezoliucija.
+7. Skundo (prašymo) priimtinumo (bylos pradėjimo), bylų sujungimo ar bylos išskyrimo į atskirą (atskiras) bylą (bylas) klausimai išsprendžiami Lietuvos administracinių ginčų komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirto kito administracinių ginčų komisijos nario rezoliucija.
 
 
 
@@ -394,7 +396,7 @@ Vilnius
 
 
 
-3) suderina su Lietuvos administracinių ginčų komisijos pirmininku (komisijos pirmininko pavaduotoju teritoriniame padalinyje) bylos nagrinėjimo administracinių ginčų komisijos posėdyje datą ir laiką; išsiunčia bylos šalims ir jų atstovams pranešimus apie posėdžio vietą, datą ir laiką, kartu pasiūlo bylos šalims išspręsti ginčą taikiai;
+3) suderina su Lietuvos administracinių ginčų komisijos pirmininku (komisijos pirmininko pavaduotoju teritoriniame padalinyje) bylos nagrinėjimo administracinių ginčų komisijos posėdyje datą ir laiką; išsiunčia bylos šalims ir jų atstovams pranešimus apie posėdžio vietą, datą ir laiką, kartu pasiūlo ginčo šalims išspręsti ginčą taikiai;
 
 
 
@@ -431,7 +433,7 @@ Vilnius
 
 
 
-4. Prireikus administracinių ginčų komisija su byla susijusias aplinkybes, faktus ir (ar) dokumentus gali tirti vietoje.
+4. Prireikus administracinių ginčų komisija su byla susijusias aplinkybes, faktus ir (ar) dokumentus gali tirti vietoje. 
  
 
 
@@ -447,7 +449,7 @@ Vilnius
 
 
 
-2. Prireikus motyvuotu administracinių ginčų komisijos sprendimu bendras skundo (prašymo) nagrinėjimo terminas gali būti pratęstas dar 10 darbo dienų.
+2. Prireikus motyvuotu administracinių ginčų komisijos nario, paskirto pranešėju byloje, sprendimu arba motyvuotu administracinių ginčų komisijos sprendimu bendras skundo (prašymo) nagrinėjimo terminas gali būti pratęstas dar 10 darbo dienų.
  
 
 
@@ -455,20 +457,30 @@ Vilnius
 
 
 
-13 straipsnis. Bylos šalys ir jų atstovai
+13 straipsnis. Bylos, ginčo šalys ir jų atstovai
 
 
-1. Bylos šalimis laikomi: pareiškėjas (skundą (prašymą) padavęs subjektas); atsakovas (viešojo administravimo subjektas, kurio individualūs administraciniai aktai arba veiksmai (neveikimas) ar vilkinimas atlikti veiksmus skundžiami); tretieji suinteresuoti asmenys (tie, kurių teisėms ar pareigoms bylos sprendimas gali turėti įtakos).
-
-
-
-
-2. Atstovais pagal įstatymą administracinių ginčų komisijoje yra asmenys, nurodyti Administracinių bylų teisenos įstatymo 47 straipsnio 3 ir 7 dalyse. Valstybei ir Vyriausybei administracinių ginčų komisijoje atstovauja valstybės institucijos ir įstaigos (valstybės atstovai) pagal įstatymuose ir kituose teisės aktuose joms suteiktus įgaliojimus.
+1. Bylos šalimis laikomi: pareiškėjas (skundą (prašymą) padavęs subjektas); atsakovas (viešojo administravimo subjektas, kurio individualūs administraciniai aktai arba veiksmai (neveikimas) ar vilkinimas atlikti veiksmus skundžiami); tretieji suinteresuoti asmenys (tie, kurių teisėms ar pareigoms bylos sprendimas gali turėti įtakos). Ginčo šalimis laikomi pareiškėjas ir atsakovas.
 
 
 
 
-3. Įgaliotu atstovu (pagal pavedimą) administracinių ginčų komisijoje gali būti bet kuris asmuo, kurio įgaliojimai įforminti Lietuvos Respublikos civilinio proceso kodekso (toliau – Civilinio proceso kodeksas) nustatyta tvarka.
+2. Atstovais pagal įstatymą administracinių ginčų komisijoje yra asmenys, nurodyti Administracinių bylų teisenos įstatymo 47 straipsnio 3 ir 7 dalyse. Valstybei ir Vyriausybei administracinių ginčų komisijoje atstovauja valstybės institucijos ir įstaigos (toliau šiame straipsnyje – valstybės atstovai) pagal įstatymuose ir kituose teisės aktuose joms suteiktus įgaliojimus. Jeigu administracinių ginčų komisijos narys, paskirtas pranešėju byloje, arba administracinių ginčų komisija nustato, kad skunde (prašyme) nurodytas ne tas valstybės atstovas, jį pakeičia tinkamu.
+
+
+
+
+3. Įgaliotu atstovu (pagal pavedimą) administracinių ginčų komisijoje gali būti bet kuris asmuo, kurio įgaliojimai įforminti Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+
+
+
+
+4. Tretieji suinteresuoti asmenys gali būti įtraukiami dalyvauti byloje motyvuotu bylos šalies prašymu arba administracinių ginčų komisijos nario, paskirto pranešėju byloje, iniciatyva pastarojo rezoliucija. Bylos šalių prašymu arba savo iniciatyva nustatęs, kad bylos išsprendimas neturės įtakos įtraukto dalyvauti byloje trečiojo suinteresuoto asmens teisėms ir pareigoms, administracinių ginčų komisijos narys, paskirtas pranešėju byloje, motyvuotu sprendimu pašalina trečiąjį suinteresuotą asmenį iš bylos. 
+
+
+
+
+5. Pranešėju byloje paskirtas administracinių ginčų komisijos narys, nustatęs, kad skunde (prašyme) nurodytas netinkamas atsakovas, rezoliucija į bylos nagrinėjimą įtraukia ir tinkamą atsakovą. Nagrinėjant skundą (prašymą) administracinių ginčų komisijoje, netinkamas atsakovas pakeičiamas tinkamu atsakovu pareiškėjo sutikimu. Jeigu pareiškėjas nesutinka, administracinių ginčų komisijoje byla nagrinėjama iš esmės. 
  
 
 
@@ -476,10 +488,10 @@ Vilnius
 
 
 
-14 straipsnis. Skundo (prašymo) nagrinėjimas administracinių ginčų komisijos posėdyje, administracinių ginčų komisijos pirmininko ar kito nario nušalinimas
+14 straipsnis. Skundo (prašymo) nagrinėjimas administracinių ginčų komisijos posėdyje, Lietuvos administracinių ginčų komisijos pirmininko ar kito nario nušalinimas
 
 
-1. Lietuvos administracinių ginčų komisijos posėdį organizuoja ir jam pirmininkauja Lietuvos administracinių ginčų komisijos pirmininkas arba pirmininko pavaduotojas. Lietuvos administracinių ginčų komisijos teritorinio padalinio posėdį organizuoja ir jam pirmininkauja komisijos pirmininko pavaduotojas teritoriniame padalinyje ar jo paskirtas kitas komisijos teritorinio padalinio narys.
+1. Lietuvos administracinių ginčų komisijos posėdį organizuoja ir jam pirmininkauja Lietuvos administracinių ginčų komisijos pirmininkas arba pirmininko pavaduotojas, arba komisijos pirmininko paskirtas kitas komisijos narys. Lietuvos administracinių ginčų komisijos teritorinio padalinio posėdį organizuoja ir jam pirmininkauja Lietuvos administracinių ginčų komisijos pirmininko pavaduotojas teritoriniame padalinyje ar jo paskirtas kitas komisijos teritorinio padalinio narys.
 
 
 
@@ -489,12 +501,12 @@ Vilnius
 
 
 
-3. Prireikus gali būti organizuojami išvažiuojamieji posėdžiai.
+3. Prireikus gali būti organizuojami išvažiuojamieji administracinių ginčų komisijos posėdžiai.
 
 
 
 
-4. Administracinių ginčų komisijos posėdis laikomas teisėtu, jeigu jame dalyvauja ne mažiau kaip 3 komisijos nariai.
+4. Administracinių ginčų komisijos posėdis laikomas teisėtu, kai jame dalyvauja ne mažiau kaip 3 komisijos nariai.
 
 
 
@@ -519,12 +531,12 @@ Vilnius
 
 
 
-9. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba jos teritorinio padalinio narys negali dalyvauti nagrinėjant bylą, jeigu jis yra bylos šalies giminaitis; jeigu jis arba jo giminaičiai yra tiesiogiai ar netiesiogiai suinteresuoti bylos baigtimi arba yra kitokių aplinkybių, kurios kelia abejonių dėl jo nešališkumo. Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojo teritoriniame padalinyje ar kito (kitų) komisijos arba jos teritorinio padalinio nario (narių) nušalinimo klausimas išsprendžiamas administracinių ginčų komisijos posėdyje, bylos šalims nedalyvaujant.
+9. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba jos teritorinio padalinio narys negali dalyvauti nagrinėjant bylą, jeigu jis yra bylos šalies giminaitis, jeigu jis arba jo giminaičiai yra tiesiogiai ar netiesiogiai suinteresuoti bylos baigtimi arba yra kitokių aplinkybių, kurios kelia abejonių dėl jo nešališkumo. Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojo teritoriniame padalinyje ar kito (kitų) komisijos arba jos teritorinio padalinio nario (narių) nušalinimo klausimas išsprendžiamas administracinių ginčų komisijos posėdyje, bylos šalims nedalyvaujant.
 
 
 
 
-10. Bylos nagrinėjimas posėdyje pradedamas administracinių ginčų komisijos nario, paskirto pranešėju byloje, pranešimu apie pareiškėjo skundą (prašymą) ir pareiškėjo reikalavimo administracinių ginčų komisijai paskelbimu. Po to išklausomas pareiškėjas (pareiškėjai), jo (jų) įgaliotas atstovas (atstovai), atsakovo atstovas (atstovai), trečiasis suinteresuotas asmuo (asmenys). Administracinių ginčų komisijos posėdžio pirmininkas gali nutraukti kalbą, jeigu ja nukrypstama nuo ginčo esmės. Bylos šalims ir jų atstovams po jų kalbų administracinių ginčų komisijos nariai gali užduoti klausimų. Po to bylos šalys dėl nagrinėjamo ginčo gali trumpai atsakyti į viena kitos argumentus, užduoti viena kitai klausimų. Bylą nagrinėjant posėdyje, taip pat ištiriami kiti įrodymai: išklausomi liudytojų parodymai, specialistų paaiškinimai, apžiūrimi daiktiniai įrodymai ir kita. Bet kuriai iš bylos šalių pageidaujant, paskelbiami byloje esantys rašytiniai įrodymai.
+10. Bylos nagrinėjimas posėdyje pradedamas administracinių ginčų komisijos nario, paskirto pranešėju byloje, pranešimu apie pareiškėjo skundą (prašymą) ir pareiškėjo reikalavimo administracinių ginčų komisijai paskelbimu. Po to išklausomas pareiškėjas (pareiškėjai), jo (jų) įgaliotas atstovas (atstovai), atsakovo atstovas (atstovai), trečiasis suinteresuotas asmuo (tretieji suinteresuoti asmenys). Administracinių ginčų komisijos posėdžio pirmininkas gali nutraukti administracinių ginčų komisijos posėdyje dalyvaujančių asmenų kalbas, jeigu nukrypstama nuo ginčo esmės. Bylos šalims ir jų atstovams po jų kalbų administracinių ginčų komisijos nariai gali užduoti klausimų. Po to bylos šalys dėl nagrinėjamo ginčo gali trumpai atsakyti į viena kitos argumentus, užduoti viena kitai klausimų. Bylą nagrinėjant posėdyje, taip pat ištiriami kiti įrodymai: išklausomi liudytojų parodymai, specialistų paaiškinimai, apžiūrimi daiktiniai įrodymai ir kita. Bet kurios iš bylos šalių pageidavimu paskelbiami byloje esantys rašytiniai įrodymai.
 
 
 
@@ -537,35 +549,31 @@ Vilnius
 
 
 
-15 straipsnis. Taikos sutarties sudarymas
+15 straipsnis. Ginčo perdavimas spręsti neteisminės mediacijos būdu
 
 
-1. Bylos šalys gali baigti bylą taikos sutartimi, jeigu ją sudaryti galima atsižvelgiant į ginčo pobūdį.
-
-
-
-
-2. Administracinių ginčų komisija posėdžio metu pasiūlo bylos šalims sudaryti taikos sutartį.
+1. Ginčo perdavimą spręsti neteisminės mediacijos būdu gali inicijuoti administracinių ginčų komisijos narys, paskirtas pranešėju byloje, administracinių ginčų komisija arba bet kuri ginčo šalis. Perduodant ginčą spręsti neteisminės mediacijos būdu, ginčo šalims išaiškinama neteisminės mediacijos esmė. Ginčas perduodamas spręsti neteisminės mediacijos būdu, kai yra gautas ginčo šalių sutikimas arba prašymas perduoti ginčą spręsti neteisminės mediacijos būdu. Ginčo šalys gali pateikti prašymą perduoti ginčą spręsti neteisminės mediacijos būdu administracinių ginčų komisijai iki komisijos posėdžio ar posėdžio metu, taip pat po sprendimo, priimto išnagrinėjus skundą (prašymą) administracinių ginčų komisijoje, priėmimo, bet nepasibaigus šio įstatymo 22 straipsnyje nustatytam sprendimo apskundimo terminui. 
 
 
 
 
-3. Bylos šalys gali sudaryti taikos sutartį ir ją pateikti administracinių ginčų komisijai iki jos posėdžio ar posėdžio metu, taip pat po sprendimo, priimto išnagrinėjus skundą (prašymą) administracinių ginčų komisijoje, priėmimo, bet nepasibaigus šio įstatymo 19 straipsnyje nurodytam sprendimo apskundimo terminui. 
+2. Lietuvos administracinių ginčų komisijos pirmininkas administracinių ginčų komisijos nario, paskirto pranešėju byloje, prašymu arba administracinių ginčų komisija gali paskirti vykdyti neteisminę mediaciją administracinių ginčų komisijos nariui, kuris yra mediatorius, pagal galimybes atsižvelgę į abiejų šalių suderintą nuomonę dėl mediatoriaus kandidatūros, arba pranešti Valstybės garantuojamos teisinės pagalbos tarnybai apie tai, kad reikia parinkti mediatorių iš Lietuvos Respublikos mediatorių sąrašo. Mediatorius skiriamas tik gavus jo rašytinį sutikimą. 
 
 
 
 
-4. Taikos sutartis turi neprieštarauti imperatyvioms įstatymų ir kitų teisės aktų nuostatoms, viešajam interesui, nepažeisti trečiųjų suinteresuotų asmenų teisių ar teisėtų interesų. Taikos sutarties dalykas turi būti to paties pobūdžio, kaip ir skunde (prašyme) nurodyti reikalavimai. Taikos sutartimi gali būti išspręstas visas ginčas ar jo dalis (atskiri reikalavimai).
+3. Lietuvos administracinių ginčų komisijos pirmininkas administracinių ginčų komisijos nario, paskirto pranešėju byloje, prašymu arba administracinių ginčų komisija, perduodami ginčą spręsti neteisminės mediacijos būdu, nustato terminą, iki kurio neteisminė mediacija turi būti baigta vykdyti. Mediatoriaus teikimu šis terminas administracinių ginčų komisijos pirmininko rezoliucija gali būti pratęstas.
 
 
 
 
-5. Jeigu taikos sutartis atitinka šio straipsnio 4 dalyje nustatytas sąlygas, administracinių ginčų komisija sprendimu ją patvirtina ir bylą nutraukia. Šiame sprendime turi būti nurodytos tvirtinamos taikos sutarties sąlygos. Prieš tvirtindama taikos sutartį, administracinių ginčų komisija išaiškina bylos šalims šių procesinių veiksmų pasekmes. Taikos sutartis pridedama prie bylos. Jeigu taikos sutartis neatitinka šio straipsnio 4 dalyje nustatytų sąlygų, administracinių ginčų komisija jos netvirtina ir ginčą išsprendžia iš esmės. 
+4. Kai Lietuvos administracinių ginčų komisijos pirmininkas administracinių ginčų komisijos nario, paskirto pranešėju byloje, prašymu arba administracinių ginčų komisija perduoda ginčą spręsti neteisminės mediacijos būdu ir neteisminę mediaciją vykdys ne administracinių ginčų komisijos narys, administracinių ginčų komisija nedelsdama praneša Valstybės garantuojamos teisinės pagalbos tarnybai apie tai, kad iš Lietuvos Respublikos mediatorių sąrašo reikia parinkti mediatorių, kuris vykdys neteisminę mediaciją konkrečioje byloje. Šiame administracinių ginčų komisijos pranešime nurodoma ginčo esmė ir bylos šalys. Apie iš Lietuvos Respublikos mediatorių sąrašo parinktą ir paskirtą mediatorių Valstybės garantuojamos teisinės pagalbos tarnyba praneša administracinių ginčų komisijai ne vėliau kaip per 3 darbo dienas nuo mediatoriaus paskyrimo dienos.
 
 
 
 
-6. Jeigu bylos šalys taikos sutartį sudaro ir pateikia ją administracinių ginčų komisijai po sprendimo, priimto išnagrinėjus skundą (prašymą), priėmimo, administracinių ginčų komisija, patvirtinusi taikos sutartį, nauju sprendimu panaikina priimtą sprendimą ir bylą nutraukia. Kol sprendžiamas taikos sutarties tvirtinimo klausimas, šio įstatymo 19 straipsnyje nurodyto termino eiga sustabdoma.
+5. Kol vyksta neteisminė mediacija, sustabdomi šiame ir kituose įstatymuose nustatyti skundų (prašymų) padavimo ir (ar) bylų nagrinėjimo terminai.
+TAR pastaba. 15straipsnis įsigalioja 2021 m. sausio 1 d.
  
 
 
@@ -573,10 +581,99 @@ Vilnius
 
 
 
-16 straipsnis. Administracinių ginčų komisijos posėdžio eigos fiksavimas
+16 straipsnis. Mediatoriaus skyrimas, nusišalinimas, susipažinimas su bylos medžiaga
 
 
-1. Administracinių ginčų komisijos posėdžio eigai fiksuoti daromas garso įrašas ar rašomas posėdžio protokolas. Sprendimą dėl posėdžių eigos fiksavimo būdo priima administracinių ginčų komisija. Bylos šalys ir jų atstovai turi teisę susipažinti su administracinių ginčų komisijos posėdžio garso įrašu ar posėdžio protokolu, taip pat gauti posėdžio garso įrašo skaitmeninę kopiją ar posėdžio protokolo kopiją.
+1. Mediatorius skiriamas vykdyti neteisminę mediaciją Lietuvos Respublikos mediacijos įstatymo nustatyta tvarka. Kai neteisminę mediaciją vykdys administracinių ginčų komisijos narys, jo sutikimas vykdyti neteisminę mediaciją įforminamas raštu. Prieš duodamas sutikimą vykdyti neteisminę mediaciją, mediatorius turi teisę gauti šio įstatymo 15 straipsnio 4 dalyje nurodytą informaciją apie ginčo esmę ir bylos šalis. 
+
+
+
+
+2. Mediatorius turi nusišalinti nuo ginčo sprendimo neteisminės mediacijos būdu, jeigu:
+
+
+1) jis yra bylos šalies giminaitis; 
+
+
+
+
+2) jis arba jo giminaičiai yra tiesiogiai ar netiesiogiai suinteresuoti bylos baigtimi;
+
+
+
+
+3) jis pats arba institucija ar įstaiga, su kuria jis susijęs tarnybos (darbo) santykiais, dalyvavo priimant šioje byloje skundžiamą individualų administracinį aktą arba šioje byloje skundžiami jo, institucijos ar įstaigos, su kuria jis susijęs tarnybos (darbo) santykiais, veiksmai (neveikimas) ar vilkinimas atlikti veiksmus; 
+
+
+
+
+4) jis pats arba institucija ar įstaiga (išskyrus administracinių ginčų komisiją), su kuria jis susijęs tarnybos (darbo) santykiais, nagrinėjo šią bylą ne teismo tvarka arba vykdė administracinę procedūrą dėl šioje byloje skundžiamo individualaus administracinio akto, veiksmų (neveikimo) ar vilkinimo atlikti veiksmus;
+
+
+
+
+5) yra kitokių aplinkybių, kurios kelia abejonių dėl jo nešališkumo.
+
+
+
+
+
+
+3. Paskirtam mediatoriui neteisminės mediacijos laikotarpiu sudaromos sąlygos susipažinti su byla arba mediatoriaus prašymu byla jam perduodama pasirašytinai. Mediatorius iki neteisminės mediacijos vykdymo termino pabaigos privalo grąžinti bylą administracinių ginčų komisijai.
+TAR pastaba. 16 straipsnis įsigalioja 2021 m. sausio 1 d.
+ 
+
+
+
+
+
+
+17 straipsnis. Taikos sutarties sudarymas
+
+
+1. Ginčo šalys gali baigti bylą taikos sutartimi, jeigu ją sudaryti galima atsižvelgiant į ginčo pobūdį.
+
+
+
+
+2. Administracinių ginčų komisija posėdžio metu pasiūlo ginčo šalims sudaryti taikos sutartį.
+
+
+
+
+3. Ginčo šalys gali sudaryti taikos sutartį ir ją pateikti administracinių ginčų komisijai iki jos posėdžio ar posėdžio metu, taip pat po sprendimo, priimto išnagrinėjus skundą (prašymą) administracinių ginčų komisijoje, priėmimo, bet nepasibaigus šio įstatymo 22 straipsnyje  nustatytam sprendimo apskundimo terminui. 
+
+
+
+
+4. Taikos sutartis turi neprieštarauti imperatyvioms įstatymų ir kitų teisės aktų nuostatoms, viešajam interesui, nepažeisti trečiųjų suinteresuotų asmenų teisių ir (ar) teisėtų interesų. Taikos sutarties dalykas turi būti to paties pobūdžio, kaip ir skunde (prašyme) nurodyti reikalavimai. Taikos sutartimi gali būti išspręstas visas ginčas ar jo dalis (atskiri reikalavimai).
+
+
+
+
+5. Jeigu taikos sutartis atitinka šio straipsnio 4 dalyje nustatytas sąlygas, administracinių ginčų komisija sprendimu taikos sutartį patvirtina ir bylą nutraukia. Šiame sprendime turi būti nurodytos tvirtinamos taikos sutarties sąlygos. Prieš tvirtindama taikos sutartį, administracinių ginčų komisija išaiškina ginčo šalims šių procesinių veiksmų pasekmes. Taikos sutartis pridedama prie bylos. Jeigu taikos sutartis neatitinka šio straipsnio 4 dalyje nustatytų sąlygų, administracinių ginčų komisija taikos sutarties netvirtina ir ginčą išsprendžia iš esmės. 
+
+
+
+
+6. Neteisminės mediacijos metu ginčo šalims pasiekus taikų susitarimą ir sudarius taikos sutartį, šią sutartį šio straipsnio 5 dalyje nustatyta tvarka tvirtina administracinių ginčų komisija.
+TAR pastaba. 17straipsnio 6 dalis įsigalioja 2021 m. sausio 1 d.
+
+
+
+
+7. Jeigu ginčo šalys taikos sutartį sudaro ir pateikia ją administracinių ginčų komisijai po sprendimo, priimto išnagrinėjus skundą (prašymą), priėmimo, administracinių ginčų komisija, patvirtinusi taikos sutartį, nauju sprendimu panaikina priimtą sprendimą ir bylą nutraukia. Kol sprendžiamas taikos sutarties tvirtinimo klausimas, šio įstatymo 22 straipsnyje nurodyto termino eiga sustabdoma.
+ 
+
+
+
+
+
+
+18 straipsnis. Administracinių ginčų komisijos posėdžio eigos fiksavimas
+
+
+1. Administracinių ginčų komisijos posėdžio eigai fiksuoti daromas garso įrašas arba rašomas posėdžio protokolas. Sprendimą dėl posėdžių eigos fiksavimo būdo priima administracinių ginčų komisija. Bylos šalys ir jų atstovai turi teisę susipažinti su administracinių ginčų komisijos posėdžio garso įrašu ar posėdžio protokolu, taip pat gauti posėdžio garso įrašo skaitmeninę kopiją ar posėdžio protokolo kopiją.
 
 
 
@@ -599,7 +696,7 @@ Vilnius
 
 
 
-17 straipsnis. Administracinių ginčų komisijos sprendimo priėmimas
+19 straipsnis. Administracinių ginčų komisijos sprendimo priėmimas
 
 
 1. Administracinių ginčų komisijos sprendimas priimamas ne vėliau kaip per 3 darbo dienas nuo skundo (prašymo) išnagrinėjimo, bylos šalims nedalyvaujant.
@@ -607,7 +704,7 @@ Vilnius
 
 
 
-2. Administracinių ginčų komisija priima sprendimą bendru sutarimu. Kai bendro sutarimo nėra, sprendimas laikomas priimtu, jeigu už jį balsavo dauguma dalyvavusių posėdyje administracinių ginčų komisijos narių. Jeigu administracinių ginčų komisijos posėdyje dalyvauja lyginis komisijos narių skaičius ir balsai dėl sprendimo priėmimo pasiskirsto po lygiai, lemia administracinių ginčų komisijos posėdžio pirmininko balsas. Dalyvavęs posėdyje administracinių ginčų komisijos narys, nesutinkantis su priimtu sprendimu, gali išdėstyti raštu savo atskirąją nuomonę. Atskiroji nuomonė bylos šalims nesiunčiama, bet pridedama prie bylos.
+2. Administracinių ginčų komisija priima sprendimą bendru sutarimu. Kai bendro sutarimo nėra, sprendimas laikomas priimtu, jeigu už jį balsavo dauguma posėdyje dalyvavusių administracinių ginčų komisijos narių. Jeigu administracinių ginčų komisijos posėdyje dalyvauja lyginis komisijos narių skaičius ir balsai dėl sprendimo priėmimo pasiskirsto po lygiai, lemia administracinių ginčų komisijos posėdžio pirmininko balsas. Dalyvavęs posėdyje administracinių ginčų komisijos narys, nesutinkantis su priimtu sprendimu, gali išdėstyti raštu savo atskirąją nuomonę. Atskiroji nuomonė bylos šalims nesiunčiama, bet pridedama prie bylos.
  
 
 
@@ -615,7 +712,7 @@ Vilnius
 
 
 
-18 straipsnis. Administracinių ginčų komisijos sprendimų rūšys ir sprendimo turinys, bylos nutraukimas, skundo (prašymo) palikimas nenagrinėto
+20 straipsnis. Administracinių ginčų komisijos sprendimų rūšys. Sprendimo turinys, bylos nutraukimas, skundo (prašymo) palikimas nenagrinėto
 
 
 1. Administracinių ginčų komisija, išnagrinėjusi skundą (prašymą), priima vieną iš šių sprendimų:
@@ -646,7 +743,7 @@ Vilnius
 
 
 
-2) yra įsiteisėjęs teismo ar administracinių ginčų komisijos sprendimas, priimtas dėl ginčo tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu, arba teismo nutartis ar administracinių ginčų komisijos sprendimas bylą nutraukti;
+2) yra įsiteisėjęs teismo ar administracinių ginčų komisijos, ar kitos ikiteisminio ginčų nagrinėjimo institucijos sprendimas, priimtas dėl ginčo tarp tų pačių šalių, dėl to paties dalyko ir tuo pačiu pagrindu, arba teismo nutartis ar administracinių ginčų komisijos, ar kitos ikiteisminio ginčų nagrinėjimo institucijos sprendimas bylą nutraukti;
 
 
 
@@ -666,14 +763,14 @@ Vilnius
 
 
 
-6) paaiškėja, kad skundas (prašymas) buvo priimtas praleidus nustatytus jo padavimo terminus, o pareiškėjas neprašė termino atnaujinti arba toks prašymas buvo atmestas.
+6) paaiškėja, kad skundas (prašymas) buvo priimtas praleidus nustatytus jo padavimo terminus ir pareiškėjas neprašė termino atnaujinti.
 
 
 
 
 
 
-3. Administracinių ginčų komisija gali nepriimti pareiškėjo skundo (prašymo) atsisakymo, jeigu tai prieštarauja įstatymui ar viešajam interesui arba pažeidžia kieno nors teises ar įstatymų saugomus interesus.
+3. Administracinių ginčų komisija gali nepriimti pareiškėjo skundo (prašymo) atsisakymo, kai tai prieštarauja įstatymams ar viešajam interesui arba pažeidžia kieno nors teises ar įstatymų saugomus interesus.
 
 
 
@@ -718,12 +815,17 @@ Vilnius
 
 
 
-8. Administracinių ginčų komisijos sprendimą pasirašo administracinių ginčų komisijos posėdžio pirmininkas ir kiti administracinių ginčų komisijos nariai, dalyvavę bylos nagrinėjime.
+8. Administracinių ginčų komisijos sprendimą pasirašo administracinių ginčų komisijos posėdžio pirmininkas ir kiti administracinių ginčų komisijos nariai, dalyvavę nagrinėjant bylą.
 
 
 
 
-9. Administracinių ginčų komisijos sprendimas išsiunčiamas bylos šalims ne vėliau kaip kitą darbo dieną nuo jo priėmimo.
+9. Administracinių ginčų komisijos sprendimo patvirtinta kopija išsiunčiama bylos šalims ne vėliau kaip kitą darbo dieną po sprendimo priėmimo.
+
+
+
+
+10. Kol sprendimas neįvykdytas, administracinių ginčų komisija gali savo iniciatyva ar bylos šalių prašymu ištaisyti sprendime aptiktus rašymo apsirikimus ar aiškias aritmetines klaidas. Sprendimo ištaisymo klausimas išsprendžiamas sprendimu, priimamu nepranešus bylos šalims. 
  
 
 
@@ -731,10 +833,15 @@ Vilnius
 
 
 
-19 straipsnis. Administracinių ginčų komisijos sprendimo apskundimas
+21 straipsnis. Bylos nagrinėjimo sustabdymas 
 
 
-Pareiškėjas ar atsakovas, nesutinkantys su administracinių ginčų komisijos sprendimu, nurodytu šio įstatymo 10 straipsnio 2 dalyje, 18 straipsnio 1 ar 2 dalyje, turi teisę tą sprendimą per vieną mėnesį nuo jo gavimo apskųsti apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
+1. Administracinių ginčų komisija sustabdo bylos nagrinėjimą, iki paaiškės mirusio asmens ar pasibaigusio juridinio asmens teisių perėmėjas, kai miršta bylos šalimi buvęs asmuo arba pasibaigia juridinis asmuo, jeigu ginčo teisinis santykis leidžia teisių perėmimą.
+
+
+
+
+2. Bylos nagrinėjimas atnaujinamas pašalinus ar išnykus aplinkybėms, dėl kurių jis buvo sustabdytas, bylos šalies pareiškimu ar administracinių ginčų komisijos iniciatyva. Dėl bylos nagrinėjimo atnaujinimo administracinių ginčų komisija rašytinio proceso tvarka priima sprendimą. Atnaujinus bylos nagrinėjimą, byla nagrinėjama pagal šiame įstatyme nustatytas bendrąsias taisykles. 
  
 
 
@@ -742,15 +849,20 @@ Pareiškėjas ar atsakovas, nesutinkantys su administracinių ginčų komisijos 
 
 
 
-20 straipsnis. Administracinių ginčų komisijos sprendimo vykdymas
+22 straipsnis. Sprendimų apskundimas ir įsiteisėjimas
 
 
-1. Administracinių ginčų komisijos sprendimas, kuriuo išspręstas ginčas, taip pat administracinių ginčų komisijos sprendimas patvirtinti šalių taikos sutartį turi būti vykdomi nuo jo gavimo dienos. 
+1. Bylos šalys, nesutinkančios su Lietuvos administracinių ginčų komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) ar komisijos pirmininko (komisijos pirmininko pavaduotojo teritoriniame padalinyje) paskirto kito administracinių ginčų komisijos nario arba su administracinių ginčų komisijos sprendimu, nurodytu šio įstatymo 9 straipsnio 3 dalyje, 10 straipsnio 2 ar 4 dalyje (sprendimu laikyti skundą (prašymą) nepaduotu ir grąžinti jį padavusiam asmeniui), 20 straipsnio 1, 2 ar 10 dalyje, turi teisę tą sprendimą per vieną mėnesį nuo jo priėmimo apskųsti apygardos administraciniam teismui Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 
 
-2. Neįvykdytas administracinių ginčų komisijos sprendimas, kuriuo išspręstas ginčas, taip pat neįvykdytas administracinių ginčų komisijos sprendimas patvirtinti šalių taikos sutartį, kurie nebuvo apskųsti per šio įstatymo 19 straipsnyje nustatytą terminą, vykdomi Civilinio proceso kodekso nustatyta tvarka. Apskundus šioje dalyje nurodytą administracinių ginčų komisijos sprendimą, jis vykdomas po to, kai skundas (prašymas) lieka nepatenkintas.
+2. Neapskųsti sprendimai įsiteisėja pasibaigus apskundimo terminui.
+
+
+
+
+3. Apskųstas sprendimas, kurio pirmosios instancijos teismas nepanaikino, įsiteisėja pasibaigus pirmosios instancijos teismo sprendimo apskundimo apeliacine tvarka terminui, jeigu pirmosios instancijos teismo sprendimas neapskųstas. Apskundus pirmosios instancijos teismo sprendimą apeliacine tvarka, apskųstas sprendimas įsiteisėja, jeigu jis nėra panaikintas apeliacine tvarka išnagrinėjus bylą.
  
 
 
@@ -758,10 +870,20 @@ Pareiškėjas ar atsakovas, nesutinkantys su administracinių ginčų komisijos 
 
 
 
-21 straipsnis. Žalos atlyginimo klausimų sprendimas
+23 straipsnis. Administracinių ginčų komisijos sprendimų vykdymas
 
 
-Administracinių ginčų komisija, nagrinėdama skundus (prašymus), nei žalos, nei bylos šalių turėtų išlaidų atlyginimo klausimų nesprendžia.
+1. Įsiteisėjęs administracinių ginčų komisijos sprendimas, kuriuo išspręstas ginčas, taip pat administracinių ginčų komisijos sprendimas patvirtinti šalių taikos sutartį turi būti įvykdytas per 20 darbo dienų nuo įsiteisėjusio sprendimo gavimo dienos arba per kitą administracinių ginčų komisijos nurodytą terminą.
+
+
+
+
+2. Įsiteisėjusio administracinių ginčų komisijos sprendimo patvirtinta kopija su žyma „Įsiteisėjęs, vykdyti“ per 3 darbo dienas nuo administracinių ginčų komisijos sprendimo įsiteisėjimo dienos išsiunčiamas bylos šalims.
+
+
+
+
+3. Atsakovui neįvykdžius įsiteisėjusio administracinių ginčų komisijos sprendimo per šio straipsnio 1 dalyje nurodytą terminą, sprendimas vykdomas Civilinio proceso kodekso nustatyta tvarka.
 
 
 
@@ -775,8 +897,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
- 
- 
 
 
  
@@ -833,3 +953,8 @@ Lietuvos Respublikos administracinių ginčų komisijų įstatymo 2 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2400, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16850
 Lietuvos Respublikos administracinių ginčų komisijų įstatymo Nr. VIII-1031 pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3050, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13618
+Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo Nr. VIII-1031 pakeitimo įstatymas
