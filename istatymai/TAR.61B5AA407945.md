@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/61b5aa40794511e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymas
 
-Suvestinė redakcija nuo 2020-02-01 iki 2020-06-22
+Suvestinė redakcija nuo 2020-06-23 iki 2024-06-29
  
 Įstatymas paskelbtas: TAR 2018-06-26, i. k. 2018-10518
  
@@ -214,7 +214,10 @@ Nr. XIII-2753, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21603
 
 
 
-3) įsigyja pirmąjį būstą Lietuvos Respublikos regione, kurio teritorijoje nekilnojamojo turto ploto vieneto normatyvinė vertė yra ne mažiau kaip 65 procentais mažesnė negu didžiausia būsto daugiabučiuose pastatuose vieno kvadratinio metro normatyvinė vertė, kurią nustato ir savo interneto svetainėje skelbia Nekilnojamojo turto registro tvarkytojas pagal kiekvienų metų sausio 1 dienos vidutines nekilnojamojo turto rinkos vertes Lietuvos miestuose, savivaldybių centruose ir kitose savivaldybių teritorijose;
+3) įsigyja pirmąjį būstą Lietuvos Respublikos regione, kurio teritorijoje nekilnojamojo turto ploto vieneto normatyvinė vertė yra ne mažiau kaip 65 procentais mažesnė negu didžiausia būsto daugiabučiuose pastatuose vieno kvadratinio metro normatyvinė vertė, kurią nustato ir savo interneto svetainėje skelbia Nekilnojamojo turto registro tvarkytojas pagal kiekvienų metų sausio 1 dienos vidutines nekilnojamojo turto rinkos vertes Lietuvos miestuose, savivaldybių centruose ir kitose savivaldybių teritorijose. Lietuvos Respublikos regionai, kurių teritorijose pirmąjį būstą įsigyjančios jaunos šeimos turi teisę į finansinę paskatą, peržiūrimi tik kai pagal šiame punkte nustatytą tvarką apskaičiuota nekilnojamojo turto ploto vieneto normatyvinė vertė to regiono teritorijoje padidėjo daugiau kaip 20 procentų;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3060, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13627
+ 
 
 
 
@@ -347,7 +350,10 @@ Nr. XIII-2753, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21603
 
 
 
-3. Socialinės apsaugos ir darbo ministerijos interneto svetainėje kasmet ne vėliau kaip vasario 1 d. paskelbiama informacija apie Lietuvos Respublikos regionus, kurių teritorijose nekilnojamojo turto ploto vieneto normatyvinė vertė yra ne mažiau kaip 65 procentais mažesnė negu didžiausia būsto daugiabučiuose pastatuose vieno kvadratinio metro normatyvinė vertė, kurią nustato ir savo interneto svetainėje skelbia Nekilnojamojo turto registro tvarkytojas pagal kiekvienų metų sausio 1 dienos vidutines nekilnojamojo turto rinkos vertes Lietuvos miestuose, savivaldybių centruose ir kitose savivaldybių teritorijose. 
+3. Socialinės apsaugos ir darbo ministerijos interneto svetainėje kiekvienais metais ne vėliau kaip vasario 1 dieną paskelbiama informacija apie Lietuvos Respublikos regionus, kurių teritorijose nekilnojamojo turto ploto vieneto normatyvinė vertė yra ne mažiau kaip 65 procentais mažesnė negu didžiausia būsto daugiabučiuose pastatuose vieno kvadratinio metro normatyvinė vertė, kurią nustato ir savo interneto svetainėje skelbia Nekilnojamojo turto registro tvarkytojas pagal kiekvienų metų sausio 1 dienos vidutines nekilnojamojo turto rinkos vertes Lietuvos miestuose, savivaldybių centruose ir kitose savivaldybių teritorijose, ir apie Lietuvos Respublikos regionų teritorijas, kuriose nekilnojamojo turto ploto vieneto normatyvinės vertės pokytis neviršija 20 procentų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3060, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13627
+ 
 
 
 
@@ -458,7 +464,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
 
 
  
@@ -474,3 +480,8 @@ Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaun
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2753, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21603
 Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymo Nr. XIII-1281 5, 6 ir 7 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3060, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13627
+Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymo Nr. XIII-1281 5 straipsnio pakeitimo įstatymas
