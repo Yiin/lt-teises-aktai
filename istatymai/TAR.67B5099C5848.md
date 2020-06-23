@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-22
+Suvestinė redakcija nuo 2020-06-23 iki 2020-07-10
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -634,7 +634,10 @@ Nr. XIII-876, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20430
 
 
 
-8) pagal prašymus, kai kyla ginčai tarp nepavaldžių vienas kitam viešojo administravimo subjektų dėl kompetencijos ar įstatymų pažeidimo (šio įstatymo 17 straipsnio 1 dalies 8 punktas);
+8) Neteko galios nuo 2020-06-23
+Straipsnio punkto naikinimas:
+Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
+ 
 
 
 
@@ -983,7 +986,10 @@ PAGRINDINĖS SKUNDŲ (PRAŠYMŲ, PAREIŠKIMŲ) PADAVIMO ADMINISTRACINIAM TEISMUI
 28 straipsnis. Skundo (prašymo, pareiškimo) padavimas administraciniam teismui dėl administracinių ginčų komisijos ar kitos išankstinio ginčų nagrinėjimo ne teismo tvarka institucijos sprendimo 
 
 
-1. Administracinių ginčų komisijos ar kitos išankstinio ginčų nagrinėjimo ne teismo tvarka institucijos sprendimą, priimtą išnagrinėjus administracinį ginčą ne teismo tvarka, administraciniam teismui gali skųsti ginčo šalis, nesutinkanti su administracinių ginčų komisijos ar kitos išankstinio ginčų nagrinėjimo ne teismo tvarka institucijos sprendimu. Tokiu atveju į administracinį teismą galima kreiptis per vieną mėnesį nuo sprendimo gavimo dienos, jeigu įstatymai nenustato kitaip.
+1. Administracinių ginčų komisijos ar kitos išankstinio ginčų nagrinėjimo ne teismo tvarka institucijos sprendimą, priimtą ne teismo tvarka išnagrinėjus administracinį ginčą, galima skųsti administraciniam teismui per vieną mėnesį nuo sprendimo priėmimo dienos, jeigu įstatymai nenustato kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
+ 
 
 
 
@@ -5854,7 +5860,10 @@ Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 
 
 
-2. Apeliacinės instancijos teismas išsiunčia proceso dalyviams apeliacinio skundo ir jo priedų nuorašus, reikalaudamas per keturiolika kalendorinių dienų nuo apeliacinio skundo ir jo priedų nuorašų gavimo pateikti apeliacinės instancijos teismui išsamius atsiliepimus į apeliacinį skundą. Šio įstatymo 74 straipsnio 7 dalyje nurodytais atvejais teismas apeliacinio skundo ir jo priedų skaitmenines kopijas siunčia elektroninių ryšių priemonėmis.
+2. Apeliacinį skundą priėmęs teismas išsiunčia proceso dalyviams apeliacinio skundo ir jo priedų nuorašus, reikalaudamas per keturiolika kalendorinių dienų nuo apeliacinio skundo ir jo priedų nuorašų gavimo pateikti apeliacinės instancijos teismui išsamius atsiliepimus į apeliacinį skundą. Šio įstatymo 74 straipsnio 7 dalyje nurodytais atvejais teismas apeliacinio skundo ir jo priedų skaitmenines kopijas siunčia elektroninių ryšių priemonėmis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
+ 
 
 
 
