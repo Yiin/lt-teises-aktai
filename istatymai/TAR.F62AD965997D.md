@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2020-06-25
+Suvestinė redakcija nuo 2020-06-26 iki 2020-10-24
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
  
@@ -777,7 +777,10 @@ Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
 
 
 
-3. Pagrindinis šilumos ūkio specialiojo plano tikslas yra tenkinti vartotojų šilumos poreikius vartotojams mažiausiomis sąnaudomis ir neviršijant leidžiamo neigiamo poveikio aplinkai. Rengiant šilumos ūkio specialiuosius planus, vadovaujamasi Aplinkos oro apsaugos įstatymo, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatomis dėl oro užterštumo ir urbanistiniais kriterijais (užstatymo tankis, pastatų aukštingumas, užstatymo specifika), taip pat kitais kriterijais, kurie nepažeidžia technologinio neutralumo principo. Šilumos ūkio specialiajame plane nustatomos esamos ir planuojamos naujos šilumos vartotojų teritorijos ir pateikiami principiniai techniniai sprendimai dėl kiekvienai teritorijai nustatytų alternatyvių energijos ar kuro rūšių naudojimo, kad būtų patenkinami šios teritorijos vartotojų šilumos poreikiai.
+3. Pagrindinis šilumos ūkio specialiojo plano tikslas yra tenkinti vartotojų šilumos poreikius vartotojams mažiausiomis sąnaudomis ir neviršijant leidžiamo neigiamo poveikio aplinkai. Rengiant šilumos ūkio specialiuosius planus, vadovaujamasi Aplinkos oro apsaugos įstatymo, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatomis dėl oro užterštumo ir urbanistiniais kriterijais (užstatymo tankis, pastatų aukštingumas, užstatymo specifika), taip pat kitais kriterijais, kurie nepažeidžia technologinio neutralumo principo, ir Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatyme nurodytu energijos vartojimo efektyvumo didinimo pirmumo principu. Šilumos ūkio specialiajame plane nustatomos esamos ir planuojamos naujos šilumos vartotojų teritorijos ir pateikiami principiniai techniniai sprendimai dėl kiekvienai teritorijai nustatytų alternatyvių energijos ar kuro rūšių naudojimo, kad būtų patenkinami šios teritorijos vartotojų šilumos poreikiai. Priimant galutinius sprendimus, būtina įvertinti techninių sprendimų ekonominį efektyvumą ir palyginti juos su energijos efektyvumo didinimo priemonėmis, mažinančiomis vartotojų šilumos poreikius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3018, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13235
+ 
 
 
 
@@ -1008,7 +1011,6 @@ Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
 
 
 3) šilumos skaitiklius arba daliklius, jeigu yra techninės galimybės ir vartotojai pageidauja. 
-TAR pastaba. 11 straipsnio 4 dalis įsigalioja 2017-03-01.
 
 
 Papildyta straipsnio dalimi:
@@ -2328,3 +2330,8 @@ Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 32 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
 Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 3, 10, 10-1, 11, 12, 15, 18, 20, 21, 22, 26, 29, 30, 31, 32, 33, 34, 35 ir 37 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3018, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13235
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 8, 11 ir 15 straipsnių pakeitimo įstatymas
