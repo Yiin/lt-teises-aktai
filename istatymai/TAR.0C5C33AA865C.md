@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-25
+Suvestinė redakcija nuo 2020-06-26 iki 2020-07-03
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -2284,7 +2284,15 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 
 
 
-3) nustatomas visų investicinių projektų terminas.
+3) nustatomas visų investicinių projektų terminas;
+
+
+
+
+4) nurodomos investiciniuose projektuose pateikiamos galimos paklausos mažinimo, diegiant ar skatinant diegti energijos vartojimo efektyvumo didinimo priemones gamtinių dujų perdavimo sistemoje, alternatyvos siekiant įgyvendinti Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatyme nurodytą energijos vartojimo efektyvumo didinimo pirmumo principą.
+Papildyta straipsnio punktu:
+Nr. XIII-3019, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13236
+ 
 
 
 
@@ -2578,9 +2586,17 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 
 
 
-3) numatomi lėšų investicijoms per planuojamą dešimties metų laikotarpį finansuoti šaltiniai.
+3) numatomi lėšų investicijoms per planuojamą dešimties metų laikotarpį finansuoti šaltiniai;
 
 
+
+
+
+
+4) investiciniuose projektuose pateikiamos galimos paklausos mažinimo, diegiant ar skatinant diegti energijos vartojimo efektyvumo didinimo priemones gamtinių dujų skirstymo sistemoje, alternatyvos siekiant įgyvendinti Energijos vartojimo efektyvumo didinimo įstatyme nurodytą energijos vartojimo efektyvumo didinimo pirmumo principą.
+Papildyta straipsnio punktu:
+Nr. XIII-3019, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13236
+ 
 
 
 
@@ -4256,3 +4272,8 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2175, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09949
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 13 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3019, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13236
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 31 ir 37-1 straipsnių pakeitimo įstatymas
