@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2020-02-01 iki 2020-06-29
+Suvestinė redakcija nuo 2020-06-30 iki 2020-11-03
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
  
@@ -1183,7 +1183,18 @@ Nr. XIII-2668, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21308
 
 
 
-7. Sportininkui šio straipsnio 1 dalyje nurodyta valstybės stipendija neskiriama, o paskirtoji nemokama, kai atsiranda bent viena iš šių aplinkybių:
+7. Jeigu paskutiniaisiais valstybės stipendijos, paskirtos vadovaujantis šio straipsnio 5 ar 6 dalimi, mokėjimo metais turėjęs vykti šio straipsnio 1 dalyje nurodytas sporto renginys, kuriame turėtų galimybę dalyvauti stipendiją gaunantis sportininkas, nukeliamas dėl priežasčių, nepriklausančių nuo šį sporto renginį organizuojančių subjektų valios, valstybės stipendijos mokėjimas pratęsiamas iki kito tos pačios kategorijos sporto renginio, kuriame pasiekto laimėjimo pagrindu sportininkui mokama valstybės stipendija, paskutinės dienos, bet ne ilgiau kaip 2 metams (skaičiuojant nuo paskutinės valstybės stipendijos, paskirtos pagal šio straipsnio 5 ar 6 dalį, mokėjimo dienos). Jeigu sportininkas pratęstos stipendijos gavimo laikotarpiu nedalyvauja bent viename iš šio straipsnio 1 dalyje nurodytų sporto renginių, kuriame jis turėjo galimybę dalyvauti, sportininkas išmokėtą pratęstą valstybės stipendiją grąžina Vyriausybės įgaliotai institucijai, o jos negrąžinus, valstybės stipendijos suma išieškoma iš valstybės stipendijos gavėjo įstatymų nustatyta tvarka. Išmokėta pratęsta valstybės stipendija nėra grąžinama, jeigu šio straipsnio 1 dalyje nurodytame sporto renginyje nedalyvaujama dėl aplinkybių, kurių sąrašą tvirtina švietimo, mokslo ir sporto ministras. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3083, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14358
+ 
+
+
+
+
+8. Sportininkui šio straipsnio 1 dalyje nurodyta valstybės stipendija neskiriama, o paskirtoji nemokama, kai atsiranda bent viena iš šių aplinkybių:
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3083, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14358
+ 
 
 
 1) jis neteko Lietuvos Respublikos pilietybės;
@@ -1233,30 +1244,43 @@ Nr. XIII-2668, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21308
 
 
 
-8. Vyriausybės nustatyta tvarka šio straipsnio 1 dalyje nurodytas valstybės stipendijas iš valstybės biudžeto lėšų skiria ir moka Vyriausybės įgaliota institucija.
-
-
-
-
-9. Sportininkas privalo pranešti šio straipsnio 1 dalyje nurodytą valstybės stipendiją mokančiai Vyriausybės įgaliotai institucijai apie šio straipsnio 7 dalyje nurodytas aplinkybes per 5 darbo dienas nuo jų atsiradimo. Jeigu apie šias aplinkybes laiku nepranešama ir dėl to valstybės stipendija permokama, permokėtos valstybės stipendijos sumą sportininkas privalo grąžinti Vyriausybės įgaliotai institucijai, o jos negrąžinus, permokėtos valstybės stipendijos suma išieškoma iš valstybės stipendijos gavėjo įstatymų nustatyta tvarka.
-
-
-
-
-10. Šio straipsnio 7 dalies 5 punkte nurodytu atveju sportininkas privalo grąžinti visą anuliuotų laimėjimų pagrindu jam išmokėtos valstybės stipendijos sumą, o jos negrąžinus, išmokėtos valstybės stipendijos suma išieškoma iš valstybės stipendijos gavėjo įstatymų nustatyta tvarka.
-
-
-
-
-11. Sportininkas apie baigiamą karjerą informuoja Vyriausybės įgaliotą instituciją švietimo, mokslo ir sporto ministro nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2668, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21308
+9. Vyriausybės nustatyta tvarka šio straipsnio 1 dalyje nurodytas valstybės stipendijas iš valstybės biudžeto lėšų skiria ir moka Vyriausybės įgaliota institucija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3083, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14358
  
 
 
 
 
-12. Informacija apie sportininkams skirtas valstybės stipendijas skelbiama Vyriausybės įgaliotos institucijos interneto svetainėje.
+10. Sportininkas privalo pranešti šio straipsnio 1 dalyje nurodytą valstybės stipendiją mokančiai Vyriausybės įgaliotai institucijai apie šio straipsnio 8 dalyje nurodytas aplinkybes per 5 darbo dienas nuo jų atsiradimo. Jeigu apie šias aplinkybes laiku nepranešama ir dėl to valstybės stipendija permokama, permokėtos valstybės stipendijos sumą sportininkas privalo grąžinti Vyriausybės įgaliotai institucijai, o jos negrąžinus, permokėtos valstybės stipendijos suma išieškoma iš valstybės stipendijos gavėjo įstatymų nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3083, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14358
+ 
+
+
+
+
+11. Šio straipsnio 8 dalies 5 punkte nurodytu atveju sportininkas privalo grąžinti visą anuliuotų laimėjimų pagrindu jam išmokėtos valstybės stipendijos sumą, o jos negrąžinus, išmokėtos valstybės stipendijos suma išieškoma iš valstybės stipendijos gavėjo įstatymų nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3083, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14358
+ 
+
+
+
+
+12. Sportininkas apie baigiamą karjerą informuoja Vyriausybės įgaliotą instituciją švietimo, mokslo ir sporto ministro nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2668, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21308
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3083, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14358
+ 
+
+
+
+
+13. Informacija apie sportininkams skirtas valstybės stipendijas skelbiama Vyriausybės įgaliotos institucijos interneto svetainėje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3083, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14358
  
 
 
@@ -1458,3 +1482,13 @@ Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2668, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21308
 Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2602, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20032
+Lietuvos Respublikos sporto įstatymo Nr. I-1151 15 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3083, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14358
+Lietuvos Respublikos sporto įstatymo Nr. I-1151 24 straipsnio pakeitimo įstatymas
