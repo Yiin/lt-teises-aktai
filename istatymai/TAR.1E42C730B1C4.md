@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/1e42c730b1c411e98451fa7b5933515d"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 188-1 straipsniu ir 190, 589 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2020-06-30
+ 
+Įstatymas paskelbtas: TAR 2019-07-29, i. k. 2019-12444
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ADMINISTRACINIŲ NUSIŽENGIMŲ KODEKSO PAPILDYMO 1881 STRAIPSNIU IR 190, 589 STRAIPSNIŲ PAKEITIMO 
 ĮSTATYMAS
@@ -91,14 +98,16 @@ Pakeisti 589 straipsnio 66 punktą ir jį išdėstyti taip:
 
 
 
-„66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 178, 179, 180, 187, 188, 1881, 189, 190, 191, 192, 194, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 449, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;“.
+„66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 178, 179, 180, 187, 188, 1881, 189, 190, 191, 192, 194, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 449, 4491, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;“.
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3095, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14364
  
-
-
-
-
-
-
 
 
 
@@ -119,3 +128,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3095, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14364
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 188-1 straipsniu ir 190, 589 straipsnių pakeitimo įstatymo Nr. XIII-2354 3 straipsnio pakeitimo įstatymas
