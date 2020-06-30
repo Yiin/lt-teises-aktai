@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.05.13)
 
 
 
-Suvestinė redakcija nuo 2020-03-10 iki 2020-06-29
+Suvestinė redakcija nuo 2020-06-30 iki 2021-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1993, Nr. 24-0; Žin. 1993, Nr.6-120, i. k. 0931010ISTA0000I-67
  
@@ -262,15 +262,6 @@ Konstitucinio Teismo teisėjas, sulaikytas ar pristatytas į teisėsaugos įstai
 
 
 
-Įeiti į gyvenamąsias ar tarnybines Konstitucinio Teismo teisėjo patalpas, daryti ten arba jo asmeniniame ar tarnybiniame automobilyje, arba kitoje asmeninėje susisiekimo priemonėje apžiūrą, kratą arba poėmį, taip pat atlikti teisėjo asmens apžiūrą ar kratą, jam priklausančių daiktų bei dokumentų apžiūrą ar poėmį leidžiama tik tada, kai nustatyta tvarka Konstitucinio Teismo teisėjui yra iškelta baudžiamoji byla. 
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos Konstitucinio Teismo įstatymo 8 straipsnio (2008 m. lapkričio 11 d. redakcija; Žin., 2008, Nr. 134-5179) 4 dalis prieštarauja Lietuvos Respublikos Konstitucijos 104 straipsnio 1, 4 dalims, konstituciniam teisinės valstybės principui.
-Straipsnio dalies pakeitimai:
-Nr. KT41-N4/2020, 2020-03-09, paskelbta TAR 2020-03-09, i. k. 2020-05178
- 
-
-
-
-
 Konstitucinio Teismo teisėjas už kalbas ar balsavimus Konstituciniame Teisme negali būti persekiojamas. 
 
 
@@ -284,6 +275,8 @@ Nr. I-1475, 96.07.11, Žin., 1996, Nr.73-1749 (96.07.31)
 Nr. IX-1797, 2003-10-28, Žin., 2003, Nr. 108-4815 (2003-11-19)
 Nr. X-1686, 2008-07-03, Žin., 2008, Nr. 81-3187 (2008-07-17)
 Nr. X-1806, 2008-11-11, Žin., 2008, Nr. 134-5179 (2008-11-22)
+Straipsnio pakeitimai:
+Nr. XIII-3094, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14363
  
 
 
@@ -3451,3 +3444,8 @@ Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 3, 13, 24, 28, 31, 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT41-N4/2020, 2020-03-09, paskelbta TAR 2020-03-09, i. k. 2020-05178
 Dėl Lietuvos Respublikos teismų įstatymo 47 straipsnio (2013 m. gruodžio 23 d. redakcija) 2 dalies, Lietuvos Respublikos Konstitucinio Teismo įstatymo 8 straipsnio (2008 m. lapkričio 11 d. redakcija) 4 dalies atitikties Lietuvos Respublikos Konstitucijai
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3094, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14363
+Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 8 straipsnio pakeitimo įstatymas
