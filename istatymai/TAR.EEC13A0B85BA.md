@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EEC13A0B85BA"
 
 # Lietuvos Respublikos socialinių įmonių įstatymas
 
-Suvestinė redakcija nuo 2020-04-08 iki 2020-06-29
+Suvestinė redakcija nuo 2020-06-30 iki 2020-06-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3519, i. k. 1041010ISTA0IX-2251
  
@@ -74,7 +74,9 @@ Socialinių įmonių veiklos tikslas – įdarbinant šiame įstatyme nurodytoms
 
 3. Šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodyti asmenys tikslinėms grupėms priskiriami neterminuotai.
 
-4. Šio straipsnio 1 dalies 4 ir 5 punktuose nurodyti asmenys tikslinėms grupėms priskiriami 6 mėnesius po to, kai pirmą kartą įsidarbino socialinėje įmonėje.
+4. Šio straipsnio 1 dalies 4 ir 5 punktuose nurodyti asmenys tikslinėms grupėms priskiriami 6 mėnesius po to, kai pirmą kartą įsidarbino socialinėje įmonėje. Į šį terminą neįskaičiuojamas Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3145, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14366
  
 
 5 straipsnis. Darbo santykių ypatumai
@@ -545,8 +547,10 @@ TAR pastaba. Socialinėse įmonėse iki 2019 m. gruodžio 31 d. įsteigtoms ar p
 
 3. Valstybės pagalba, nurodyta šio įstatymo 13 straipsnio 1 dalies 2 ir 3 punktuose ir 2 dalies 1 punkte, skiriama pagal Vyriausybės įgaliotos institucijos nustatytus prioritetus kalendoriniams metams, neviršijant valstybės biudžeto asignavimų kalendoriniams metams.
 
-4. Įdarbinus šio įstatymo 4 straipsnio 1 dalies 1 ir 2 punktuose nurodytoms tikslinėms grupėms priklausančius asmenis ir šio įstatymo 4 straipsnio 1 dalies 3 punkte nurodytai tikslinei grupei priklausančius asmenis, kuriems pagal Tarptautinės statistinės ligų ir sveikatos sutrikimų klasifikacijos dešimtąjį pataisytą ir papildytą leidimą „Sisteminis ligų sąrašas“ (Australijos modifikacija, TLK-10-AM) (toliau – TLK-10-AM) nustatyta diagnozė žymima kodu F00–99, valstybės pagalba yra skiriama ir mokama visą jų darbo socialinėje įmonėje laikotarpį. Įdarbinus šio įstatymo 4 straipsnio 1 dalies 3 punkte nurodytai tikslinei grupei priklausančius asmenis, išskyrus asmenis, kuriems pagal TLK-10-AM nustatyta diagnozė žymima kodu F00–99, ir šio įstatymo 4 straipsnio 1 dalies 4 ir 5 punktuose nurodytoms tikslinėms grupėms priklausančius asmenis, valstybės pagalba yra skiriama ir mokama ne ilgiau kaip 6 mėnesius po to, kai pirmą kartą įsidarbino pirmoje socialinėje įmonėje.
-TAR pastaba. 23 straipsnio 4 dalyje nustatyti valstybės pagalbos skyrimo ir mokėjimo laikotarpiai iki 2019 m. gruodžio 31 d. socialinėse įmonėse įdarbintiems tikslinėms grupėms priklausantiems asmenims yra skaičiuojami nuo 2020 m. sausio 1 d.
+4. Įdarbinus šio įstatymo 4 straipsnio 1 dalies 1 ir 2 punktuose nurodytoms tikslinėms grupėms priklausančius asmenis ir šio įstatymo 4 straipsnio 1 dalies 3 punkte nurodytai tikslinei grupei priklausančius asmenis, kuriems pagal Tarptautinės statistinės ligų ir sveikatos sutrikimų klasifikacijos dešimtąjį pataisytą ir papildytą leidimą „Sisteminis ligų sąrašas“ (Australijos modifikacija, TLK-10-AM) (toliau – TLK-10-AM) nustatyta diagnozė žymima kodais F00‑F99, H90 ar H91, valstybės pagalba yra skiriama ir mokama visą jų darbo socialinėje įmonėje laikotarpį. Įdarbinus šio įstatymo 4 straipsnio 1 dalies 3 punkte nurodytai tikslinei grupei priklausančius asmenis, išskyrus asmenis, kuriems pagal TLK-10-AM nustatyta diagnozė žymima kodais F00‑F99, H90 ar H91, ir šio įstatymo 4 straipsnio 1 dalies 4 ir 5 punktuose nurodytoms tikslinėms grupėms priklausančius asmenis, valstybės pagalba yra skiriama ir mokama ne ilgiau kaip 6 mėnesius po to, kai pirmą kartą įsidarbino pirmoje socialinėje įmonėje. Į šį terminą neįskaičiuojamas Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3145, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14366
+ 
 
 5. Socialinei įmonei patikslinus Vyriausybės įgaliotos institucijos nustatytos formos pažymoje apie planuojamą valstybės pagalbos lėšų poreikį ir numatomas vykdyti veiklas pateiktus duomenis apie planuojamą valstybės pagalbos lėšų poreikį, valstybės pagalba pagal patikslintą valstybės pagalbos poreikį yra skiriama ir mokama nuo kitų kalendorinių metų, jeigu patikslintas valstybės pagalbos lėšų poreikis yra didesnis, negu buvo pateiktas pažymoje apie planuojamą valstybės pagalbos lėšų poreikį ir numatomas vykdyti veiklas.
 
@@ -845,4 +849,9 @@ Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2833, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07196
 Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 6, 14, 24 ir 26 straipsnių pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3145, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14366
+Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 4 ir 23 straipsnių pakeitimo įstatymas
 
