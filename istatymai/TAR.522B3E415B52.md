@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2020-04-01 iki 2020-06-29
+Suvestinė redakcija nuo 2020-06-30 iki 2020-12-28
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -1513,9 +1513,9 @@ Nr. XI-1423, 2011-05-26, Žin., 2011, Nr. 67-3157 (2011-06-02)
 
 
 
-2. Draudžiama įeiti į teisėjo gyvenamąsias ar tarnybines patalpas, daryti ten arba teisėjo asmeniniame ar tarnybiniame automobilyje, arba kitoje asmeninėje susisiekimo priemonėje apžiūrą, kratą ar poėmį, taip pat atlikti teisėjo asmens apžiūrą ar kratą, jam priklausančių daiktų ir dokumentų apžiūrą ar poėmį, išskyrus įstatymų nustatytus atvejus. 
-TAR pastaba. Nuo 2019-12-30 iki bus paskelbtas Konstitucinio Teismo nutarimas šioje byloje sustabdomas Lietuvos Respublikos teismų įstatymo 47 straipsnio 2 dalies (2013 m. gruodžio 23 d. redakcija; TAR, 2014-01-07, Nr. 63, identifikacinis kodas 2014-00063) galiojimas.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos teismų įstatymo 47 straipsnio (2013 m. gruodžio 23 d. redakcija; TAR, 2014-01-07, Nr. 63) 2 dalis prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 2 daliai, 114 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+2. Neteko galios nuo 2020-06-30
+Straipsnio dalies naikinimas:
+Nr. XIII-3093, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14362
 Straipsnio dalies pakeitimai:
 Nr. 2B-56P, 2019-12-30, paskelbta TAR 2019-12-30, i. k. 2019-21605
 Nr. KT41-N4/2020, 2020-03-09, paskelbta TAR 2020-03-09, i. k. 2020-05178
@@ -5659,3 +5659,8 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 68, 69-1, 73, 79, 79-1 straipsn
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT41-N4/2020, 2020-03-09, paskelbta TAR 2020-03-09, i. k. 2020-05178
 Dėl Lietuvos Respublikos teismų įstatymo 47 straipsnio (2013 m. gruodžio 23 d. redakcija) 2 dalies, Lietuvos Respublikos Konstitucinio Teismo įstatymo 8 straipsnio (2008 m. lapkričio 11 d. redakcija) 4 dalies atitikties Lietuvos Respublikos Konstitucijai
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3093, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14362
+Lietuvos Respublikos teismų įstatymo Nr. I-480 47 straipsnio pakeitimo įstatymas
