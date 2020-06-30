@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/881df420ea9211e99681cd81dcdca52c"
 
 # Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2020-04-08 iki 2020-06-29
+Įstatymas netenka galios 2023-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1391, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16118
+Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 pripažinimo netekusiu galios įstatymas
+ 
+Suvestinė redakcija nuo 2020-06-30 iki 2022-12-31
  
 Įstatymas paskelbtas: TAR 2019-10-09, i. k. 2019-16065
  
@@ -28,6 +33,9 @@ SOCIALINIŲ ĮMONIŲ ĮSTATYMO NR. IX-2251 PAKEITIMO
 Vilnius
  
  
+
+ 
+
  
  
 
@@ -1245,7 +1253,10 @@ Nr. XIII-2834, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07198
 
 3. Valstybės pagalba, nurodyta šio įstatymo 13 straipsnio 2, 3 ir 5 punktuose, skiriama pagal Vyriausybės įgaliotos institucijos nustatytus prioritetus kalendoriniams metams, neviršijant valstybės biudžeto asignavimų kalendoriniams metams.
 
-4. Įdarbinus šio įstatymo 4 straipsnio 1 dalies 1 ir 2 punktuose nurodytoms tikslinėms grupėms priklausančius asmenis ir šio įstatymo 4 straipsnio 1 dalies 3 punkte nurodytai tikslinei grupei priklausančius asmenis, kuriems pagal Tarptautinės statistinės ligų ir sveikatos sutrikimų klasifikacijos dešimtąjį pataisytą ir papildytą leidimą „Sisteminis ligų sąrašas“ (Australijos modifikacija, TLK-10-AM) (toliau – TLK-10-AM) nustatyta diagnozė žymima kodu F00–99, valstybės pagalba yra skiriama ir mokama visą jų darbo socialinėje įmonėje laikotarpį. Įdarbinus šio įstatymo 4 straipsnio 1 dalies 3 punkte nurodytai tikslinei grupei priklausančius asmenis, išskyrus asmenis, kuriems pagal TLK-10-AM nustatyta diagnozė žymima kodu F00–99, valstybės pagalba yra skiriama ir mokama ne ilgiau kaip 6 mėnesius po to, kai pirmą kartą įsidarbino pirmoje socialinėje įmonėje.
+4. Įdarbinus šio įstatymo 4 straipsnio 1 dalies 1 ir 2 punktuose nurodytoms tikslinėms grupėms priklausančius asmenis ir šio įstatymo 4 straipsnio 1 dalies 3 punkte nurodytai tikslinei grupei priklausančius asmenis, kuriems pagal Tarptautinės statistinės ligų ir sveikatos sutrikimų klasifikacijos dešimtąjį pataisytą ir papildytą leidimą „Sisteminis ligų sąrašas“ (Australijos modifikacija, TLK-10-AM) (toliau – TLK-10-AM) nustatyta diagnozė žymima kodais F00‑F99, H90 ar H91, valstybės pagalba yra skiriama ir mokama visą jų darbo socialinėje įmonėje laikotarpį. Įdarbinus šio įstatymo 4 straipsnio 1 dalies 3 punkte nurodytai tikslinei grupei priklausančius asmenis, išskyrus asmenis, kuriems pagal TLK-10-AM nustatyta diagnozė žymima kodais F00‑F99, H90 ar H91, valstybės pagalba yra skiriama ir mokama ne ilgiau kaip 6 mėnesius po to, kai pirmą kartą įsidarbino pirmoje socialinėje įmonėje. Į šį terminą neįskaičiuojamas Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpis.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3146, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14367
+ 
 
 5. Socialinei įmonei patikslinus Vyriausybės įgaliotos institucijos nustatytos formos pažymoje apie planuojamą valstybės pagalbos lėšų poreikį ir numatomas vykdyti veiklas pateiktus duomenis apie planuojamą valstybės pagalbos lėšų poreikį, valstybės pagalba pagal patikslintą valstybės pagalbos poreikį yra skiriama ir mokama nuo kitų kalendorinių metų, jeigu patikslintas valstybės pagalbos lėšų poreikis yra didesnis, negu buvo pateiktas pažymoje apie planuojamą valstybės pagalbos lėšų poreikį ir numatomas vykdyti veiklas.
 
@@ -1507,4 +1518,12 @@ Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2834, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07198
 Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 pakeitimo įstatymo Nr. XIII-2427 1 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3146, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14367
+Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 pakeitimo įstatymo Nr. XIII-2427 1 straipsnio pakeitimo įstatymas
+ 
+ 
+part_8872fd9ea37341a9bb33a039d151bed1_end
 
