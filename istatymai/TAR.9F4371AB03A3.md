@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 
 # Lietuvos Respublikos advokatūros įstatymas
 
-Suvestinė redakcija nuo 2018-05-25 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2021-07-07
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 50-1632, i. k. 1041010ISTA0IX-2066
  
@@ -2076,34 +2076,36 @@ Nr. XII-931, 2014-06-10, paskelbta TAR 2014-06-13, i. k. 2014-07627
 
 
 
-7) neteko galios nuo 2008-04-30.;
-
-
-
-
-8) sprendžia kitus Lietuvos advokatūros įstatuose numatytus klausimus.
+7) sprendžia kitus Lietuvos advokatūros įstatuose numatytus klausimus.
 
 
 
 
 
 
-3. Visuotinis advokatų susirinkimas yra teisėtas, jeigu jame dalyvauja daugiau kaip pusė visų advokatų, įrašytų į Lietuvos praktikuojančių advokatų sąrašą.
+3. Visuotinis advokatų susirinkimas yra teisėtas, jeigu jame dalyvauja daugiau kaip pusė visų advokatų, įrašytų į Lietuvos praktikuojančių advokatų sąrašą. Kai yra techninės galimybės, advokatai gali į visuotinį advokatų susirinkimą registruotis, jame dalyvauti ir balsuoti nuotoliniu būdu iš anksto arba realiuoju laiku elektroninių ryšių priemonėmis (toliau – nuotolinis būdas) Advokatų tarybos nustatyta tvarka. 
 
 
 
 
-4. Lietuvos advokatūros įstatuose gali būti nustatyta, kad vietoj visuotinio advokatų susirinkimo šaukiamas advokatų įgaliotinių susirinkimas (konferencija), kuris atlieka šio straipsnio 2 dalies 3, 5, 6, 7, 8 punktuose visuotiniam advokatų susirinkimui numatytas funkcijas. 
+4. Visuotiniame advokatų susirinkime sprendimai priimami atviru balsavimu, išskyrus šio Įstatymo ir Lietuvos advokatūros įstatų nustatytus atvejus. Advokatui balsuojant atviru balsavimu nuotoliniu būdu, turi būti užtikrintas jo tapatybės ir jo balsavimo rezultatų nustatymas. Karo, nepaprastosios padėties, mobilizacijos, karantino, ekstremaliosios situacijos ar ekstremaliojo įvykio atveju visi sprendimai priimami atviru balsavimu, išskyrus atvejus, kai visuotinis advokatų susirinkimas nusprendžia kitaip.
 
 
 
 
-5. Advokatų įgaliotinių susirinkimo (konferencijos) dalyvių skaičių, atstovavimo principus nustato Lietuvos advokatūros įstatai. 
+5. Lietuvos advokatūros įstatuose gali būti nustatyta, kad vietoj visuotinio advokatų susirinkimo šaukiamas advokatų įgaliotinių susirinkimas (konferencija), kuris atlieka šio straipsnio 2 dalies 3, 5, 6, 7 punktuose visuotiniam advokatų susirinkimui numatytas funkcijas. 
+
+
+
+
+6. Advokatų įgaliotinių susirinkimo (konferencijos) dalyvių skaičių, atstovavimo principus nustato Lietuvos advokatūros įstatai. Advokatų dalyvavimo ir balsavimo advokatų įgaliotinių susirinkime (konferencijoje) nuotoliniu būdu tvarką nustato Advokatų taryba. 
 
 
 Straipsnio pakeitimai:
 Nr. X-1494, 2008-04-15, Žin., 2008, Nr. 50-1843 (2008-04-30)
 Nr. XI-2316, 2012-11-06, Žin., 2012, Nr. 132-6644 (2012-11-15)
+Straipsnio pakeitimai:
+Nr. XIII-3082, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14357
  
 
 
@@ -2112,9 +2114,10 @@ Nr. XI-2316, 2012-11-06, Žin., 2012, Nr. 132-6644 (2012-11-15)
 60 straipsnis. Advokatų taryba
 
 
-1. Advokatų taryba yra Lietuvos advokatūros valdymo organas. Advokatų taryba renkama iš advokatų ketveriems metams. Advokatų tarybos nariais gali būti advokatai, turintys ne mažesnį kaip dešimties metų advokato veiklos stažą. Advokatų tarybai vadovauja advokatų tarybos pirmininkas. Advokatų taryba turi teisę įgalioti advokatų tarybos pirmininką atlikti dalį teisės aktuose numatytų advokatų tarybos funkcijų, išskyrus šio straipsnio 2 dalies 1, 3, 5, 6, 7, 9, 10, 12, 13, 15, 17, 18, 19, 20, 21, 22 punktuose nustatytas funkcijas, o 8 punkte nustatytąją – tik tiek, kiek tai susiję su advokatų padėjėjų įrašymu į Lietuvos advokatų padėjėjų sąrašą. Advokatų tarybos pirmininką renka visuotinis advokatų susirinkimas Lietuvos advokatūros įstatuose nustatyta tvarka ketveriems metams. 
+1. Advokatų taryba yra Lietuvos advokatūros valdymo organas. Advokatų taryba renkama iš advokatų ketveriems metams. Advokatų tarybos nariais gali būti advokatai, turintys ne mažesnį kaip dešimties metų advokato veiklos stažą. Advokatų tarybai vadovauja advokatų tarybos pirmininkas. Advokatų taryba turi teisę įgalioti advokatų tarybos pirmininką atlikti dalį teisės aktuose nustatytų advokatų tarybos funkcijų, išskyrus šio straipsnio 2 dalies 1, 3, 5, 6, 7, 9, 10, 12, 13, 15, 17, 18, 19, 20, 21, 22 ir 23 punktuose nustatytas funkcijas, o 8 punkte nustatytąją – tik tiek, kiek tai susiję su advokatų padėjėjų įrašymu į Lietuvos advokatų padėjėjų sąrašą. Advokatų tarybos pirmininką renka visuotinis advokatų susirinkimas Lietuvos advokatūros įstatuose nustatyta tvarka ketveriems metams. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+Nr. XIII-3082, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14357
  
 
 
@@ -2276,11 +2279,20 @@ Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 
 
-23) atlieka kitas Lietuvos advokatūros įstatuose numatytas funkcijas. 
+23) nustato advokatų registravimosi, dalyvavimo ir balsavimo visuotiniame advokatų susirinkime ir advokatų dalyvavimo ir balsavimo advokatų įgaliotinių susirinkime (konferencijoje)  nuotoliniu būdu tvarką; 
+Papildyta straipsnio punktu:
+Nr. XIII-3082, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14357
+ 
+
+
+
+
+24) atlieka kitas Lietuvos advokatūros įstatuose numatytas funkcijas. 
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 Nr. XII-2234, 2015-12-22, paskelbta TAR 2016-01-04, i. k. 2016-00047
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
+Nr. XIII-3082, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14357
  
 
 
@@ -2885,3 +2897,8 @@ Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 13, 23 ir 36 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 14, 17, 23, 24, 34, 35, 36, 37, 38, 39, 44, 56, 57, 58, 60, 61 ir 64 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3082, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14357
+Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 59 ir 60 straipsnių pakeitimo įstatymas
