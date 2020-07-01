@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C15592B096FA"
 
 # Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 115-3230, i. k. 0981010ISTAVIII-971
  
@@ -1046,12 +1046,15 @@ Nr. XII-732, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00065
 
 
 
-6) ministerijos ir kitos valstybės institucijos ir įstaigos, nurodytos šio straipsnio  2 dalyje, organizuoja operacijų centro patalpų ir darbo vietų įrengimą;
+6) ministerijos ir kitos valstybės institucijos ir įstaigos, nurodytos šio straipsnio 2 dalyje, organizuoja operacijų centro patalpų ir darbo vietų įrengimą;
 
 
 
 
-7) ministerijos ir kitos valstybės institucijos ir įstaigos, nurodytos šio straipsnio  2 dalyje, taip pat Lietuvos Respublikos Seimo kanceliarija, Generalinė prokuratūra, Lietuvos bankas, Ryšių reguliavimo tarnyba, Specialiųjų tyrimų tarnyba, Valstybės saugumo departamentas ir Nacionalinė teismų administracija, atlikę galimų pavojų ir ekstremaliųjų situacijų rizikos analizę, rengia ir tvirtina ekstremaliųjų situacijų valdymo planą ir jį įgyvendina; 
+7) ministerijos ir kitos valstybės institucijos ir įstaigos, nurodytos šio straipsnio 2 dalyje, taip pat Lietuvos Respublikos Seimo kanceliarija, Generalinė prokuratūra, Lietuvos bankas, Ryšių reguliavimo tarnyba, Specialiųjų tyrimų tarnyba, Valstybės saugumo departamentas, Lietuvos Respublikos vadovybės apsaugos tarnyba ir Nacionalinė teismų administracija, atlikę galimų pavojų ir ekstremaliųjų situacijų rizikos analizę, rengia ir tvirtina ekstremaliųjų situacijų valdymo planą ir jį įgyvendina;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2905, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10902
+ 
 
 
 
@@ -2320,3 +2323,8 @@ Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 12 ir 14 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
 Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 2, 8, 9, 11, 12, 14, 22, 27, 28 straipsnių pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2905, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10902
+Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 13 straipsnio pakeitimo įstatymas
