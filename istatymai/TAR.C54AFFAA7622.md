@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2020-03-19 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-15
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
  
@@ -1589,7 +1589,10 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 
-2) neįgaliųjų socialinei įmonei;
+2) neteko galios nuo 2020-07-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2429, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16067
+ 
 
 
 
@@ -8238,3 +8241,8 @@ Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 10 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2814, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05694
 Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 46 ir 72 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2429, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16067
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 23 straipsnio pakeitimo įstatymas
