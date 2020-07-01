@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2020-05-08 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-11-18
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -1876,32 +1876,42 @@ Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
 
 
 
-3. Asmenys, nuteisti laisvės apribojimo bausme, privalo:
-
-
-1) be bausmę vykdančios institucijos žinios nekeisti gyvenamosios vietos;
+3. Skirdamas laisvės apribojimo bausmę, teismas paprastai paskiria kaltinamajam intensyvią priežiūrą – nuteistojo buvimo vietos pagal nustatytą laiką kontrolę elektroninio stebėjimo priemonėmis. Nuteistojo buvimo vietą ir laiką nustato teismas.
 
 
 
 
-2) vykdyti teismo nustatytus įpareigojimus ir laikytis teismo nustatytų draudimų;
+4. Kartu su intensyvia priežiūra arba vietoj jos teismas gali asmenį, kuriam paskirta laisvės apribojimo bausmė, įpareigoti:
+
+
+1) dalyvauti elgesio pataisos programoje;
 
 
 
 
-3) nustatyta tvarka atsiskaityti, kaip vykdo draudimus ir įpareigojimus.
+2) neatlygintinai išdirbti iki 200 valandų per teismo nustatytą, bet ne ilgesnį kaip laisvės apribojimo laiką sveikatos priežiūros, socialinių paslaugų įstaigose ar nevalstybinėse organizacijose, kurios rūpinasi senyvo amžiaus asmenimis, neįgaliaisiais ar kitais pagalbos reikalingais žmonėmis;
+
+
+
+
+3) atlyginti nusikalstama veika padarytą turtinę žalą ar jos dalį arba tokią žalą pašalinti savo darbu;
+
+
+
+
+4) pradėti dirbti arba užsiregistruoti Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos, mokytis;
+
+
+
+
+5) gydytis nuo alkoholizmo, narkomanijos, toksikomanijos ar venerinės ligos, kai nuteistasis sutinka.
 
 
 
 
 
 
-4. Asmeniui, kuriam paskirta laisvės apribojimo bausmė, teismas gali nustatyti vieną ar kelis draudimus bei įpareigojimus.
-
-
-
-
-5. Teismas gali uždrausti:
+5. Kartu su intensyvia priežiūra, įpareigojimais arba vietoj jų teismas gali asmeniui, kuriam paskirta laisvės apribojimo bausmė, uždrausti:
 
 
 1) lankytis tam tikrose vietose;
@@ -1914,68 +1924,37 @@ Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
 
 
 
-3) turėti, naudoti, įgyti, saugoti pačiam ar perduoti saugoti kitiems asmenims tam tikrus daiktus.
+3) turėti, naudoti, įgyti, saugoti pačiam ar perduoti saugoti kitiems asmenims tam tikrus daiktus;
+
+
+
+
+4) vartoti psichiką veikiančias medžiagas.
 
 
 
 
 
 
-6. Teismas gali įpareigoti:
-
-
-1) tam tikru laiku būti namuose;
+6. Teismas asmeniui, kuriam paskirta laisvės apribojimo bausmė, kitų baudžiamojo proceso dalyvių prašymu, taip pat savo nuožiūra gali paskirti šio kodekso IX skyriuje numatytą vieną ar kelias baudžiamojo poveikio priemones arba XI skyriuje numatytą vieną ar kelias auklėjamojo poveikio priemones, kai laisvės apribojimo bausmė skiriama nepilnamečiui, ir (ar) kitus baudžiamajame įstatyme nenumatytus draudimus ar įpareigojimus, jeigu, teismo nuomone, tai darytų teigiamą įtaką jo elgesiui.
 
 
 
 
-2) atlyginti nusikalstama veika padarytą turtinę žalą ar jos dalį arba tokią žalą pašalinti savo darbu;
+7. Laisvės apribojimo bausmės vykdymo metu teismas bausmę vykdančios institucijos teikimu gali pakeisti intensyvią priežiūrą, paskirtas baudžiamojo poveikio priemones, auklėjamojo poveikio priemones, įpareigojimus ir (ar) draudimus kitomis šio kodekso IX skyriuje numatytomis baudžiamojo poveikio priemonėmis arba XI skyriuje numatytomis auklėjamojo poveikio priemonėmis, kai laisvės apribojimo bausmė paskirta nepilnamečiui, įpareigojimais, draudimais, paskirti papildomų šio kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių arba XI skyriuje numatytų auklėjamojo poveikio priemonių, kai laisvės apribojimo bausmė paskirta nepilnamečiui, ir (ar) šio straipsnio 4, 5 ir 6 dalyse nurodytų įpareigojimų ir (ar) draudimų, taip pat intensyvią priežiūrą, jeigu tai darytų teigiamą įtaką nuteistojo elgesiui.
 
 
 
 
-3) pradėti dirbti arba užsiregistruoti Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos, mokytis; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-960, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21692
- 
-
-
-
-
-4) gydytis nuo alkoholizmo, narkomanijos, toksikomanijos ar venerinės ligos, kai nuteistasis sutinka;
-
-
-
-
-5) neatlygintinai išdirbti iki 200 valandų per teismo nustatytą, bet ne ilgesnį kaip laisvės apribojimo laiką sveikatos priežiūros, globos ir rūpybos įstaigose ar nevalstybinėse organizacijose, kurios rūpinasi neįgaliaisiais, nusenusiais ar kitais pagalbos reikalingais žmonėmis.
-
-
-
-
-
-
-7. Teismas vietoj šio straipsnio 5 ir 6 dalyse nurodytų draudimų ar įpareigojimų asmeniui jo ar kitų baudžiamojo proceso dalyvių prašymu gali paskirti kitus baudžiamajame įstatyme nenumatytus draudimus ar įpareigojimus, jeigu, teismo nuomone, tai darytų teigiamą įtaką jo elgesiui.
-
-
-
-
-8. Teismo nustatytų nuteistajam draudimų ir apribojimų skaičius nenustatomas, tačiau jie turi būti suderinami.
-
-
-
-
-9. Jeigu nuteistasis dėl objektyvių priežasčių negali įvykdyti nustatytų įpareigojimų, teismas bausmę vykdančios institucijos teikimu gali atleisti jį nuo bausmės vietoj jos paskirdamas šio kodekso IX skyriuje numatytą baudžiamojo poveikio priemonę.
-
-
-
-
-10. Jeigu asmuo vengia atlikti laisvės apribojimo bausmę, ši bausmė jam keičiama areštu pagal šio kodekso 49 ir 65 straipsniuose nustatytas taisykles.
+8. Jeigu nuteistasis vengia atlikti laisvės apribojimo bausmę, teismas bausmę vykdančios institucijos teikimu gali papildomai paskirti šio kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių arba XI skyriuje numatytų auklėjamojo poveikio priemonių, kai laisvės apribojimo bausmė paskirta nepilnamečiui, ir (ar) šio straipsnio 4, 5 ir 6 dalyse nurodytų įpareigojimų ir (ar) draudimų, taip pat intensyvią priežiūrą arba laisvės apribojimo bausmę pakeisti areštu. Laisvės apribojimo bausmė keičiama areštu pagal šio kodekso 49 ir 65 straipsniuose nustatytas taisykles. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
 Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)
+Straipsnio pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
  
 
 
@@ -2036,7 +2015,9 @@ Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
 
 
 
-3. Laisvės atėmimo bausmę nuteistieji atlieka atvirose kolonijose, pataisos namuose ir kalėjimuose. Bausmės atlikimo vietą parenka teismas, atsižvelgdamas į kaltininko asmenybę, padaryto nusikaltimo pobūdį ir pavojingumą. Laisvės atėmimo bausmės atlikimo tvarką ir sąlygas nustato Bausmių vykdymo kodeksas.
+3. Neteko galios 2020-07-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
  
 
 
@@ -2060,7 +2041,10 @@ Nr. XIII-2005, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05331
 
 
 
-3. Laisvės atėmimo iki gyvos galvos bausmę nuteistieji atlieka kalėjime. Pirmuosius dešimt metų laisvės atėmimo iki gyvos galvos bausmės atlikę nuteistieji įstatymų nustatytais atvejais ir tvarka gali būti perkelti į pataisos namus. Laisvės atėmimo iki gyvos galvos bausmės atlikimo tvarką ir sąlygas nustato Bausmių vykdymo kodeksas.
+3. Laisvės atėmimo iki gyvos galvos bausmę nuteistieji atlieka pataisos įstaigose. Laisvės atėmimo iki gyvos galvos bausmės atlikimo tvarką ir sąlygas nustato Bausmių vykdymo kodeksas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
+ 
 
 
 
@@ -3242,16 +3226,27 @@ BAUSMĖS vykdymo atidėjimas ir ATLEIDIMAS NUO BAUSMĖS
 75 straipsnis. Bausmės vykdymo atidėjimas
 
 
-1. Asmeniui, nuteistam laisvės atėmimu ne daugiau kaip šešeriems metams už dėl neatsargumo padarytus nusikaltimus arba ne daugiau kaip ketveriems metams už vieną ar kelis nesunkius ar apysunkius tyčinius nusikaltimus, teismas gali atidėti paskirtos bausmės vykdymą nuo vienerių iki trejų metų. Bausmės vykdymas gali būti atidėtas, jeigu teismas nusprendžia, kad yra pakankamas pagrindas manyti, kad bausmės tikslai bus pasiekti be realaus bausmės atlikimo. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087
-Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
- 
+1. Asmeniui, pirmą kartą nuteistam arešto bausme, teismas gali atidėti paskirtos bausmės vykdymą nuo trijų mėnesių iki vienerių metų ir paskirti jam intensyvią priežiūrą – nuteistojo buvimo vietos pagal nustatytą laiką kontrolę elektroninio stebėjimo priemonėmis. Nuteistojo buvimo vietą ir laiką nustato teismas. Kartu su intensyvia priežiūra teismas gali paskirti nuteistajam vieną ar kelias tarpusavyje suderintas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) šio straipsnio 5 ir 6 dalyse nustatytas pareigas.
 
 
 
 
-2. Atidėdamas bausmės vykdymą, teismas paskiria nuteistajam vieną ar kelias tarpusavyje suderintas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) pareigas:
+2. Asmeniui, nuteistam laisvės atėmimu ne daugiau kaip šešeriems metams už dėl neatsargumo padarytus nusikaltimus arba ne daugiau kaip ketveriems metams už vieną ar kelis nesunkius ar apysunkius tyčinius nusikaltimus, teismas gali atidėti paskirtos bausmės vykdymą nuo vienerių iki trejų metų. 
+
+
+
+
+3. Asmeniui, nuteistam laisvės atėmimu daugiau kaip šešeriems metams už dėl neatsargumo padarytus nusikaltimus arba daugiau kaip ketveriems metams už vieną ar kelis nesunkius ar apysunkius tyčinius nusikaltimus, arba ne daugiau kaip penkeriems metams už sunkų nusikaltimą, išskyrus sunkius nusikaltimus, numatytus šio kodekso XV, XVI, XVIII, XX, XXI, XXIII, XXXIII, XXXV, XXXVII, XLIV skyriuose, teismas gali iš dalies atidėti paskirtos bausmės vykdymą. Iš dalies atidėdamas bausmės vykdymą, teismas nustato po teismo nuosprendžio įsiteisėjimo nedelsiant atliktinos laisvės atėmimo bausmės dalį, kuri negali būti trumpesnė kaip šeši mėnesiai ir ilgesnė kaip dveji metai, taip pat nuo vienerių iki trejų metų likusios neatliktos bausmės vykdymo atidėjimo terminą.
+
+
+
+
+4. Bausmės vykdymas pagal šio straipsnio 1, 2, 3 dalis gali būti atidėtas, jeigu teismas nusprendžia, kad yra pakankamas pagrindas manyti, kad bausmės tikslai bus pasiekti be realaus bausmės atlikimo arba asmeniui atlikus tik jos dalį.
+
+
+
+
+5. Atidėdamas bausmės vykdymą pagal šio straipsnio 2 ir 3 dalis, teismas paskiria nuteistajam vieną ar kelias tarpusavyje suderintas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones, šio straipsnio 1 dalyje nustatytą intensyvią priežiūrą ir (ar) šias pareigas:
 
 
 1) atsiprašyti nukentėjusio asmens;
@@ -3311,17 +3306,22 @@ Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
 
 
 
-3. Teismas asmeniui jo ar kitų baudžiamojo proceso dalyvių prašymu, taip pat savo nuožiūra gali paskirti kitas baudžiamajame įstatyme nenumatytas pareigas, kurios, teismo nuomone, turėtų teigiamos įtakos nuteistojo elgesiui. 
+6. Teismas asmeniui jo ar kitų baudžiamojo proceso dalyvių prašymu, taip pat savo nuožiūra gali paskirti kitas baudžiamajame įstatyme nenumatytas pareigas, kurios, teismo nuomone, turėtų teigiamos įtakos nuteistojo elgesiui.
 
 
 
 
-4. Skirdamas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) šio straipsnio 2 ir 3 dalyse numatytas pareigas, teismas nustato laiką, per kurį nuteistasis privalo jas įvykdyti. 
+7. Skirdamas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) šio straipsnio 5 ir 6 dalyse numatytas pareigas, teismas nustato laiką, per kurį nuteistasis privalo jas įvykdyti.
 
 
 
 
-5. Bausmės vykdymo atidėjimo vykdymo tvarką ir sąlygas nustato Lietuvos Respublikos probacijos įstatymas.
+8. Skirdamas arešto arba laisvės atėmimo bausmę ir šiame straipsnyje nustatyta tvarka neatidėdamas bausmės vykdymo, teismas privalo motyvuoti savo sprendimą.
+
+
+
+
+9. Bausmės vykdymo atidėjimo vykdymo tvarką ir sąlygas nustato Lietuvos Respublikos probacijos įstatymas. 
 
 
 Straipsnio pakeitimai:
@@ -3329,6 +3329,8 @@ Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
 Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)
+Straipsnio pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
  
 
 
@@ -3833,23 +3835,45 @@ Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
 92 straipsnis. Bausmės vykdymo atidėjimas nepilnamečiui
 
 
-1. Nepilnamečiui, nuteistam laisvės atėmimu už vieną ar kelis neatsargius nusikaltimus arba laisvės atėmimu ne daugiau kaip penkeriems metams už vieną ar kelis tyčinius nusikaltimus, teismas gali atidėti paskirtos bausmės vykdymą nuo vienerių iki trejų metų. Bausmės vykdymas gali būti atidėtas, jeigu teismas nusprendžia, kad yra pakankamas pagrindas manyti, kad bausmės tikslai bus pasiekti be realaus bausmės atlikimo.
+1. Nepilnamečiui, nuteistam arešto bausme, teismas gali atidėti paskirtos bausmės vykdymą nuo vieno mėnesio iki devynių mėnesių ir paskirti jam intensyvią priežiūrą – nepilnamečio buvimo vietos pagal nustatytą laiką kontrolę elektroninio stebėjimo priemonėmis. Nepilnamečio buvimo vietą ir laiką nustato teismas. Kartu su intensyvia priežiūra teismas gali paskirti nepilnamečiui vieną ar kelias tarpusavyje suderintas šio kodekso 82 straipsnyje numatytas auklėjamojo poveikio priemones, išskyrus atidavimą į specialią auklėjimo įstaigą, ir nustatyti laiką, per kurį nepilnametis turi jas įvykdyti.
 
 
 
 
-2. Atidėdamas bausmės vykdymą, teismas nepilnamečiui paskiria vieną ar kelias tarpusavyje suderintas šio kodekso 82 straipsnyje numatytas auklėjamojo poveikio priemones, išskyrus atidavimą į specialią auklėjimo įstaigą. Kartu teismas nustato laiką, per kurį nepilnametis turi įvykdyti auklėjamojo poveikio priemones. 
+2. Nepilnamečiui, nuteistam laisvės atėmimu už vieną ar kelis neatsargius nusikaltimus arba laisvės atėmimu ne daugiau kaip penkeriems metams už vieną ar kelis tyčinius nusikaltimus, teismas gali atidėti paskirtos bausmės vykdymą nuo vienerių iki trejų metų. Bausmės vykdymas gali būti atidėtas, jeigu teismas nusprendžia, kad yra pakankamas pagrindas manyti, kad bausmės tikslai bus pasiekti be realaus bausmės atlikimo.
 
 
 
 
-3. Bausmės vykdymo atidėjimo nepilnamečiams vykdymo tvarką ir sąlygas nustato Lietuvos Respublikos probacijos įstatymas.
+3. Nepilnamečiui, nuteistam daugiau kaip penkeriems metams už vieną ar kelis tyčinius nusikaltimus, išskyrus labai sunkius nusikaltimus ir sunkius nusikaltimus, numatytus šio kodekso XV, XVI, XVII, XVIII, XX, XXI, XXIII, XXXIII, XXXV, XXXVII, XLIV skyriuose, teismas gali iš dalies atidėti paskirtos bausmės vykdymą. Iš dalies atidėdamas bausmės vykdymą, teismas nustato po teismo nuosprendžio įsiteisėjimo nedelsiant atliktinos laisvės atėmimo bausmės dalį, kuri negali būti trumpesnė kaip šeši mėnesiai ir ilgesnė kaip vieneri metai, taip pat nuo vienerių iki trejų metų likusios neatliktos bausmės vykdymo atidėjimo terminą.
+
+
+
+
+4. Bausmės vykdymas pagal šio straipsnio 1, 2 ir 3 dalis gali būti atidėtas, jeigu teismas nusprendžia, kad yra pakankamas pagrindas manyti, kad bausmės tikslai bus pasiekti be realaus bausmės atlikimo arba asmeniui atlikus tik jos dalį.
+
+
+
+
+5. Atidėdamas bausmės vykdymą pagal šio straipsnio 2 ir 3 dalis, teismas nepilnamečiui paskiria vieną ar kelias tarpusavyje suderintas šio kodekso 82 straipsnyje numatytas auklėjamojo poveikio priemones, išskyrus atidavimą į specialią auklėjimo įstaigą. Kartu teismas nustato laiką, per kurį nepilnametis turi įvykdyti auklėjamojo poveikio priemones.
+
+
+
+
+6. Skirdamas arešto arba laisvės atėmimo bausmę ir šiame straipsnyje nustatyta tvarka neatidėdamas bausmės vykdymo, teismas privalo motyvuoti savo sprendimą.
+
+
+
+
+7. Bausmės vykdymo atidėjimo nepilnamečiams vykdymo tvarką ir sąlygas nustato Lietuvos Respublikos probacijos įstatymas. 
 
 
 Straipsnio pakeitimai:
 Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
 Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
 Nr. XI-1861, 2011-12-22, Žin., 2012, Nr. 5-138 (2012-01-07)
+Straipsnio pakeitimai:
+Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
  
 
 
