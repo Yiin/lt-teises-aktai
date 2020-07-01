@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2020-04-04 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-10
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -1317,9 +1317,10 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 42 straipsnis. Lietuvos banko tikslas, funkcijos, teisės ir pareigos atliekant finansų rinkos priežiūrą
 
 
-1. Prižiūrimi finansų rinkos dalyviai yra: bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, profesinių pensijų asociacijos (toliau – pensijų asociacijos), kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo platformų operatoriai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos ir valiutos keityklų operatoriai. 
+1. Prižiūrimi finansų rinkos dalyviai yra: bankai, užsienio valstybių bankų filialai, įsteigti Lietuvos Respublikoje, centrinės kredito unijos, kredito unijos, draudimo įmonės, perdraudimo įmonės, užsienio valstybių draudimo ir perdraudimo įmonių filialai, įsteigti Lietuvos Respublikoje, draudimo brokerių įmonės ir užsienio valstybių draudimo ir perdraudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje, elektroninių pinigų įstaigos, elektroninių pinigų įstaigų tarpininkai ir užsienio valstybių elektroninių pinigų įstaigų filialai, įsteigti Lietuvos Respublikoje, finansų maklerio įmonės, finansų maklerio įmonės priklausomi tarpininkai, finansų patarėjo įmonės, reguliuojamos rinkos operatoriai, informacijos apie sandorius paslaugų teikėjai, lyginamojo indekso administratoriai, prižiūrimi duomenų tiekėjai, valdymo įmonės, investicinės bendrovės, depozitoriumai, užsienio valstybių finansų maklerio įmonės ir valdymo įmonių filialai, įsteigti Lietuvos Respublikoje, pensijų asociacijos, pensijų anuitetų mokėtojas, kontroliuojančiosios investicinės bendrovės ir emitentai, mokėjimo įstaigos ir mokėjimo įstaigų tarpininkai, vartojimo kredito davėjai, vartojimo kredito tarpininkai, kredito davėjai, tarpusavio skolinimo platformos operatoriai ir kredito tarpininkai, sutelktinio finansavimo platformų operatoriai, mokėjimo ir vertybinių popierių atsiskaitymo sistemų operatoriai, nacionalinės plėtros įstaigos ir valiutos keityklų operatoriai. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1854, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00019
+Nr. XIII-2852, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08966
  
 
 
@@ -1399,7 +1400,15 @@ Nr. XIII-2517, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18821
 
 
 
-13) atlieka nacionalinių plėtros įstaigų priežiūrą ir kitas Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymo Lietuvos bankui priskirtas funkcijas.
+13) atlieka nacionalinių plėtros įstaigų priežiūrą ir kitas Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymo Lietuvos bankui priskirtas funkcijas;
+
+
+
+
+14) atlieka pensijų anuitetų mokėtojo vykdomos pensijų anuitetų mokėjimo veiklos priežiūrą ir kitas Lietuvos Respublikos pensijų kaupimo įstatyme Lietuvos bankui priskirtas funkcijas. 
+Papildyta straipsnio punktu:
+Nr. XIII-2852, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08966
+ 
 
 
 
@@ -2314,10 +2323,11 @@ Nr. XI-1666, 2011-11-17, Žin., 2011, Nr. 145-6812 (2011-12-01)
 47 straipsnis. Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimas ne teismo tvarka
 
 
-1. Lietuvos bankas nagrinėja šio straipsnio 2 dalyje nurodytų vartotojų (toliau – vartotojai) ginčus su šio įstatymo 42 straipsnyje nurodytais finansų rinkos dalyviais ir kitais juridiniais asmenimis, kylančius iš finansinių ir (arba) papildomų investicinių paslaugų teikimo, iš draudimo paslaugų sutarties ar susijusius su ja, jeigu tokiai sutarčiai yra taikytina Lietuvos Respublikos teisė, taip pat vartotojų ginčus su kitais ūkio subjektais, kylančius dėl Lietuvos Respublikos mokėjimų įstatyme nustatytų reikalavimų laikymosi, kai ginčo nagrinėjimas Lietuvos bankui priskirtas finansų rinką reglamentuojančiuose įstatymuose. Lietuvos bankas taip pat nagrinėja vartotojų – Lietuvoje įsteigtų kolektyvinio investavimo subjektų, pensijų fondų dalyvių ginčus su šių subjektų ar fondų valdytojais, kylančius iš dalyvavimo atitinkamame subjekte ar fonde santykių, taip pat investuotojų ir emitentų, savo jėgomis vykdančių pirminę vertybinių popierių emisiją, ginčus, kylančius iš vertybinių popierių platinimo santykių. Šioje dalyje nurodytoms paslaugoms apibūdinti toliau šiame straipsnyje vartojama sąvoka „finansinės paslaugos“, o šių paslaugų teikėjams – „finansų rinkos dalyviai“. 
+1. Lietuvos bankas nagrinėja šio straipsnio 2 dalyje nurodytų vartotojų (toliau – vartotojai) ginčus su šio įstatymo 42 straipsnyje nurodytais finansų rinkos dalyviais ir kitais juridiniais asmenimis, kylančius iš finansinių ir (arba) papildomų investicinių paslaugų teikimo, iš draudimo paslaugų sutarties ar susijusius su ja, jeigu tokiai sutarčiai yra taikytina Lietuvos Respublikos teisė, taip pat vartotojų ginčus su kitais ūkio subjektais, kylančius dėl Lietuvos Respublikos mokėjimų įstatyme nustatytų reikalavimų laikymosi, kai ginčo nagrinėjimas Lietuvos bankui priskirtas finansų rinką reglamentuojančiuose įstatymuose. Lietuvos bankas taip pat nagrinėja vartotojų – Lietuvoje įsteigtų kolektyvinio investavimo subjektų, pensijų fondų dalyvių ginčus su šių subjektų ar fondų valdytojais, kylančius iš dalyvavimo atitinkamame subjekte ar fonde santykių, pensijų anuitetų gavėjų ginčus su pensijų anuitetų mokėtoju, kylančius iš pensijų anuitetų mokėjimo santykių, taip pat investuotojų ir emitentų, savo jėgomis vykdančių pirminę vertybinių popierių emisiją, ginčus, kylančius iš vertybinių popierių platinimo santykių. Šioje dalyje nurodytoms paslaugoms apibūdinti toliau šiame straipsnyje vartojama sąvoka „finansinės paslaugos“, o šių paslaugų teikėjams – „finansų rinkos dalyviai“. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2562, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20316
 Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
+Nr. XIII-2852, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08966
  
 
 
@@ -3595,3 +3605,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 43 straipsnio ir 3 pried
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2836, 2020-03-31, paskelbta TAR 2020-04-03, i. k. 2020-06995
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8 straipsnio pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2852, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08966
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 ir 47 straipsnių pakeitimo įstatymas
