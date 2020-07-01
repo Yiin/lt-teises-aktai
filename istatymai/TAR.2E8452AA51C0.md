@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E8452AA51C0"
 
 # Lietuvos Respublikos viešojo saugumo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-10-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 102-3935, i. k. 1061010ISTA000X-813
  
@@ -211,7 +211,10 @@ Nr. XI-1504, 2011-06-22, Žin., 2011, Nr. 86-4146 (2011-07-13), i. k. 1111010IST
 
 
 
-6) sustiprinti Lietuvos policijos, Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos, Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos pajėgas ir padėti šioms institucijoms įgyvendinant pavestas funkcijas;
+6) sustiprinti Lietuvos policijos, Valstybės sienos apsaugos tarnybos prie Vidaus reikalų ministerijos, Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos, Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos, Lietuvos Respublikos vadovybės apsaugos tarnybos pajėgas ir padėti šioms institucijoms įgyvendinant pavestas funkcijas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2926, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10935
+ 
 
 
 
@@ -964,7 +967,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
 
 
@@ -996,3 +999,8 @@ Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 14 straipsnio
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2157, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09410
 Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 2 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2926, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10935
+Lietuvos Respublikos viešojo saugumo tarnybos įstatymo Nr. X-813 6 straipsnio pakeitimo įstatymas
