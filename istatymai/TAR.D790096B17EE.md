@@ -20,14 +20,9 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2020-01-17 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
- 
-TAR pastaba. Iki įstatymo Nr. XIII-2514 įsigaliojimo (2020-01-17) Valstybinei vartotojų teisių apsaugos tarnybai pateikti prašymai ir skundai dėl vartotojų teisių pažeidimo nagrinėjami ir nutarimai dėl vartotojų teisių pažeidimo priimami pagal reikalavimus, kurie buvo taikomi iki šio įstatymo įsigaliojimo.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2, 12, 29-4, 40 straipsnių, priedo pakeitimo ir Įstatymo papildymo 44-1 straipsniu ir dešimtuoju skirsniu įstatymas
  
 Nauja įstatymo redakcija nuo 2007-03-01:
 Nr. X-1014, 2007-01-12, Žin., 2007, Nr. 12-488 (2007-01-30)
@@ -800,6 +795,14 @@ Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
 
 
 
+3. Valstybinė vartotojų teisių apsaugos tarnyba, atlikdama šio straipsnio 1 dalies 5–8 punktuose nustatytas funkcijas, turi teisę gauti iš registrų, valstybės informacinių sistemų, fizinių ar juridinių asmenų, kitų organizacijų ar jų padalinių šioms funkcijoms atlikti reikalingą informaciją, dokumentus ir duomenis, įskaitant asmens duomenis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
+ 
+
+
+
+
 
 
 121 straipsnis. Vartotojų teisių informacinė sistema
@@ -876,7 +879,10 @@ Nr. XII-2212, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00082
 
 
 
-12) šio įstatymo septintojo skirsnio nustatyta tvarka ginti vartotojų viešąjį interesą;
+12) neteko galios 2020-07-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
+ 
 
 
 
@@ -889,6 +895,10 @@ Nr. XII-2212, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00082
 
 
 2. Šio įstatymo 31 straipsnio 1 dalyje nustatytas sąlygas atitinkančioms vartotojų asociacijoms, Vyriausybės nustatyta tvarka pateikusioms veiklos ataskaitą, teikiama valstybės finansinė parama pagal Vyriausybės patvirtintas taisykles.
+TAR pastaba. 2 dalis netenka galios 2021-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
+ 
 
 
 
@@ -897,6 +907,80 @@ Nr. XII-2212, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00082
  
 
 
+
+
+
+
+131 straipsnis. Įgaliotosios vartotojų asociacijos
+
+
+1. Įgaliotoji vartotojų asociacija turi teisę:
+
+
+1) ginti vartotojų viešąjį interesą šio įstatymo septintajame skirsnyje nustatyta tvarka;
+
+
+
+
+2) būti grupės atstove grupės ieškinio bylose, netaikant reikalavimo dėl grupės narių narystės vartotojų asociacijoje, kai grupės ieškiniu reiškiami reikalavimai kyla iš vartojimo teisinių santykių;
+
+
+
+
+3) vartojimo ginčus nagrinėjančios institucijos pavedimu atlikti vartojimo ginčų neteisminio sprendimo procedūros veiksmus, išskyrus sprendimų dėl ginčo esmės, sprendimų atsisakyti nagrinėti vartojimo ginčą, sustabdyti ar nutraukti vartojimo ginčo nagrinėjimą priėmimą.
+
+
+
+
+
+
+2. Įgaliotąja vartotojų asociacija laikoma vartotojų asociacija, įrašyta į įgaliotųjų vartotojų asociacijų sąrašą. Vartotojų asociacija įrašoma į įgaliotųjų vartotojų asociacijų sąrašą, jeigu ji atitinka visas šias sąlygas:
+
+
+1) yra įregistruota Juridinių asmenų registre ne mažiau negu 6 mėnesius iki prašymo įrašyti ją į įgaliotųjų vartotojų asociacijų sąrašą pateikimo;
+
+
+
+
+2) jos steigimo dokumente yra nurodytas veiklos tikslas – vartotojų teisių ir teisėtų interesų atstovavimas ir gynimas;
+
+
+
+
+3) ne mažiau negu 3 mėnesius iki prašymo įrašyti ją į įgaliotųjų vartotojų asociacijų sąrašą pateikimo faktiškai vykdo veiklą vartotojų apsaugos srityje ir pateikia tai įrodančius duomenis; 
+
+
+
+
+4) yra nepriklausoma nuo verslo ir kitų su vartotojų teisių gynimu nesusijusių interesų ir pateikia tai patvirtinantį pareiškimą (deklaraciją);
+
+
+
+
+5) turi reikalingų žinių ir gebėjimų vartotojų apsaugos srityje ir pateikia tai įrodančius duomenis;
+
+
+
+
+6) yra pateikusi Juridinių asmenų registro tvarkytojui veiklos ataskaitą ir metinių finansinių ataskaitų rinkinį, jeigu šis reikalavimas taikomas pagal Lietuvos Respublikos asociacijų įstatymą.
+
+
+
+
+
+
+3. Vartotojų asociacija išbraukiama iš įgaliotųjų vartotojų asociacijų sąrašo, jeigu nustatoma, kad ji neatitinka šio straipsnio 2 dalyje nustatytų sąlygų. Įgaliotųjų vartotojų asociacijų sąrašą sudaro ir tvarko Valstybinė vartotojų teisių apsaugos tarnyba teisingumo ministro nustatyta tvarka. Įgaliotųjų vartotojų asociacijų sąrašas skelbiamas viešai Valstybinės vartotojų teisių apsaugos tarnybos interneto svetainėje.
+
+
+
+
+4. Įgaliotųjų vartotojų asociacijų išlaidos, susijusios su šio straipsnio 1 dalyje nurodytų teisių įgyvendinimu, apmokamos ir įgaliotųjų vartotojų asociacijų įgyvendinami vartotojų apsaugos projektai atrenkami ir finansuojami teisingumo ministro nustatyta tvarka. 
+TAR pastaba. 4 dalis įsigalioja 2021-01-01.
+
+
+Papildyta straipsniu:
+Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
+ 
 
 
 
@@ -1174,7 +1258,10 @@ Nr. XIII-1975, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03174
 
 
 
-5) kitas vartojimo ginčų neteisminio sprendimo procedūros taisyklėse nustatytas teises.
+5) pavesti įgaliotajai vartotojų asociacijai atlikti vartojimo ginčų neteisminio sprendimo procedūros veiksmus, išskyrus sprendimų dėl ginčo esmės, sprendimų atsisakyti nagrinėti vartojimo ginčą, sustabdyti ar nutraukti vartojimo ginčo nagrinėjimą priėmimą. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
+ 
 
 
 
@@ -1204,7 +1291,10 @@ Nr. XIII-1975, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03174
 
 
 
-5) užtikrinti, kad asmens duomenys būtų tvarkomi laikantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo.
+5) užtikrinti, kad asmens duomenys būtų tvarkomi laikantis asmens duomenų apsaugą reglamentuojančių teisės aktų reikalavimų. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
+ 
 
 
 
@@ -1227,7 +1317,10 @@ Nr. XIII-1975, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03174
 221 straipsnis. Vartojimo ginčų komisijos
 
 
-1. Valstybinėje vartotojų teisių apsaugos tarnyboje šio įstatymo jai priskirtiems ginčams nagrinėti sudaromos nuolatinės vartojimo ginčų komisijos. Vartojimo ginčų komisijos nagrinėja vartojimo ginčus atskirose vartojimo prekių ir paslaugų srityse arba Lietuvos Respublikos teritorijos administraciniuose vienetuose, kai ginčo suma yra ne mažesnė negu du šimtai eurų ir ginčas nagrinėjamas žodinės procedūros tvarka. Vartojimo ginčų komisijų sudarymo ir darbo tvarką, jų nagrinėjamus vartojimo ginčus nustato Vyriausybė ar jos įgaliota institucija vartojimo ginčų komisijų nuostatuose. 
+1. Šio įstatymo Valstybinei vartotojų teisių apsaugos tarnybai priskirtiems ginčams nagrinėti sudaromos nuolatinės vartojimo ginčų komisijos. Vartojimo ginčų komisijos nagrinėja vartojimo ginčus atskirose vartojimo prekių ir paslaugų srityse arba Lietuvos Respublikos teritorijos administraciniuose vienetuose. Vartojimo ginčų komisijų sudarymo ir darbo tvarka, jų nagrinėjami vartojimo ginčai nustatomi vartojimo ginčų komisijų nuostatuose. Šiuos nuostatus tvirtina teisingumo ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
+ 
 
 
 
@@ -1235,34 +1328,22 @@ Nr. XIII-1975, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03174
 2. Vartojimo ginčų komisiją sudaro trys nariai: 
 
 
-1) komisijos pirmininkas. Juo skiriamas Valstybinės vartotojų teisių apsaugos tarnybos valstybės tarnautojas, turintis aukštąjį teisinį išsilavinimą;
+1) komisijos pirmininkas. Juo skiriamas asmuo, turintis aukštąjį teisinį išsilavinimą ir ginčų sprendimo patirties;
 
 
 
 
-2) vartotojų asociacijos, atitinkančios šio įstatymo 31 straipsnio 1 dalyje nustatytas sąlygas, paskirtas atstovas;
+2) įgaliotosios vartotojų asociacijos paskirtas atstovas;
 
 
 
 
-3) verslininkus vienijančios asociacijos paskirtas atstovas. Ši asociacija turi atitikti šiuos reikalavimus: 
+3) verslininkus vienijančios asociacijos paskirtas atstovas. 
 
 
-
-
-a) asociacija yra įregistruota Juridinių asmenų registre;
-
-
-
-
-b) asociacijos steigimo dokumente yra nurodytas asociacijos veiklos tikslas – verslininkų (verslo) teisių gynimas ir atstovavimas jų interesams;
-
-
-
-
-c) asociacijoje yra ne mažiau kaip 20 narių.
-
-
+Straipsnio dalies pakeitimai:
+Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
+ 
 
 
 
@@ -1309,7 +1390,10 @@ Nr. XIII-1744, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20717
 
 
 
-2) viešasis juridinis asmuo, įsteigtas šio įstatymo 31 straipsnio 1 dalyje nustatytas sąlygas atitinkančios vartotojų asociacijos ir šio įstatymo 221 straipsnio 2 dalies 3 punkte nustatytus reikalavimus atitinkančios verslininkus vienijančios asociacijos ir įrašytas į vartojimo ginčų neteisminio sprendimo subjektų sąrašą pagal šio įstatymo 292 straipsnį. 
+2) viešasis juridinis asmuo, įsteigtas įgaliotosios vartotojų asociacijos ir šio įstatymo 221 straipsnio 2 dalies 3 punkte nustatytus reikalavimus atitinkančios verslininkus vienijančios asociacijos ir įrašytas į vartojimo ginčų neteisminio sprendimo subjektų sąrašą pagal šio įstatymo 292 straipsnį. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
+ 
 
 
 
@@ -2241,7 +2325,10 @@ VARTOTOJŲ VIEŠOJO INTERESO GYNIMAS
 30 straipsnis. Vartotojų viešojo intereso gynimas
 
 
-1. Vartotojų viešąjį interesą gina Valstybinė vartotojų teisių apsaugos tarnyba ir šio įstatymo 31 straipsnyje nustatytas sąlygas atitinkančios vartotojų asociacijos, o įstatymų nustatytais atvejais – kitos valstybės ir savivaldybių institucijos ir juridiniai asmenys.
+1. Vartotojų viešąjį interesą gina Valstybinė vartotojų teisių apsaugos tarnyba ir įgaliotosios vartotojų asociacijos, o įstatymų nustatytais atvejais – kitos valstybės ir savivaldybių institucijos ir juridiniai asmenys. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
+ 
 
 
 
@@ -2259,38 +2346,10 @@ VARTOTOJŲ VIEŠOJO INTERESO GYNIMAS
 
 
 
-31 straipsnis. Vartotojų asociacijų teisė ginti vartotojų viešąjį interesą
-
-
-1. Vartotojų asociacijos turi teisę ginti vartotojų viešąjį interesą, jei jos atitinka visas šias sąlygas:
-
-
-1) yra įregistruotos Juridinių asmenų registre;
-
-
-
-
-2) steigimo dokumente yra nurodytas veiklos tikslas – vartotojų teisių ir teisėtų interesų atstovavimas ir gynimas;
-
-
-
-
-3) asociacijoje yra ne mažiau kaip 20 narių. Tuo atveju, kai asociacijos nariai yra kitos vartotojų asociacijos, bendras šių asociacijų narių skaičius turi būti ne mažesnis kaip 20;
-
-
-
-
-4) yra nepriklausomos nuo verslo ir kitų su vartotojų teisių gynimu nesusijusių interesų. 
-
-
-
-
-
-
-2. Vartotojų asociacija, pareikšdama ieškinį ar pareiškimą (skundą) vartotojų viešajam interesui ginti, privalo teismui pateikti įrodymus, kad ji atitinka šio straipsnio 1 dalyje nurodytas sąlygas. Kad vartotojų asociacija atitinka šio straipsnio 1 dalies 4 punkte nurodytą sąlygą, patvirtina šios vartotojų asociacijos pareiškimas dėl jos nepriklausomumo nuo verslo ir kitų su vartotojų teisių gynimu nesusijusių interesų, jeigu neįrodoma kitaip. 
+31 straipsnis. Neteko galios nuo 2020-07-01
+Straipsnio naikinimas:
+Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
  
-
-
 
 
 
@@ -2345,36 +2404,30 @@ VARTOTOJŲ VIEŠOJO INTERESO GYNIMAS
 34 straipsnis. Vartotojų viešojo intereso gynimas Europos Sąjungos valstybėse narėse
 
 
-1. Lietuvos Respublikos valstybinė vartotojų teisių apsaugos tarnyba turi teisę kreiptis į Europos Sąjungos valstybių narių teismus ar kitas kompetentingas įstaigas su prašymu priimti sprendimą, įpareigojantį prekių ar paslaugų pardavėją (teikėją), veikiantį toje Europos Sąjungos valstybėje narėje, nutraukti Lietuvos vartotojų viešojo intereso pažeidimą.
+1. Valstybinė vartotojų teisių apsaugos tarnyba turi teisę kreiptis į Europos Sąjungos valstybių narių teismus ar kitas kompetentingas įstaigas su prašymu priimti sprendimą, įpareigojantį pardavėją ar paslaugų teikėją, veikiantį toje Europos Sąjungos valstybėje narėje, nutraukti Lietuvos vartotojų viešojo intereso pažeidimą.
 
 
 
 
-2. Šio įstatymo 31 straipsnyje nustatytus reikalavimus atitinkančios vartotojų asociacijos, apie kurias pranešta Europos Komisijai pagal šio straipsnio 3 dalį, taip pat turi teisę kreiptis į kitų Europos Sąjungos valstybių narių teismus ar kitas kompetentingas įstaigas su prašymu priimti sprendimą, įpareigojantį prekių ar paslaugų pardavėją (teikėją), veikiantį toje Europos Sąjungos valstybėje narėje, nutraukti Lietuvos vartotojų viešojo intereso pažeidimą.
+2. Įgaliotosios vartotojų asociacijos, apie kurias pranešta Europos Komisijai pagal šio straipsnio 3 dalį, taip pat turi teisę kreiptis į kitų Europos Sąjungos valstybių narių teismus ar kitas kompetentingas įstaigas su prašymu priimti sprendimą, įpareigojantį pardavėją ar paslaugų teikėją, veikiantį toje Europos Sąjungos valstybėje narėje, nutraukti Lietuvos vartotojų viešojo intereso pažeidimą.
 
 
 
 
-3. Lietuvos Respublikos valstybinė vartotojų teisių apsaugos tarnyba 31 straipsnyje nustatytus reikalavimus atitinkančių vartotojų asociacijų prašymu praneša Europos Komisijai šių asociacijų pavadinimus ir tikslus. Jeigu kiti įstatymai numatys kreipimosi į kitų Europos Sąjungos valstybių narių teismus ar kitas kompetentingas įstaigas teisę kitoms valstybės institucijoms, Lietuvos Respublikos valstybinė vartotojų teisių apsaugos tarnyba praneša Europos Komisijai šių institucijų pavadinimus ir jų įgaliojimų apimtį.
+3. Valstybinė vartotojų teisių apsaugos tarnyba praneša Europos Komisijai įgaliotųjų asociacijų pavadinimus ir tikslus. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
  
 
 
 
 
-
-
-35 straipsnis. Viešas paskelbimas apie viešojo intereso gynimą
-
-
-1. Šio įstatymo 31 straipsnyje nustatytas sąlygas atitinkančios vartotojų asociacijos, o įstatymų nustatytais atvejais – kitos valstybės ir savivaldybių institucijos ir juridiniai asmenys, ginantys vartotojų viešąjį interesą, ne vėliau kaip per 5 darbo dienas nuo ieškinio ar pareiškimo (skundo) priėmimo nagrinėti teisme apie tai privalo pranešti Valstybinei vartotojų teisių apsaugos tarnybai. Valstybinė vartotojų teisių apsaugos tarnyba šią informaciją skelbia savo interneto tinklalapyje.
-
-
-
-
-2. Šio straipsnio 1 dalyje nurodyti subjektai, ne vėliau kaip per 5 darbo dienas nuo teismo sprendimo pagal šį skirsnį priėmimo, šį sprendimą išsiunčia Valstybinei vartotojų teisių apsaugos tarnybai. Valstybinė vartotojų teisių apsaugos tarnyba įsiteisėjusius teismo sprendimus, kuriuose nustatytas viešojo intereso pažeidimas, skelbia savo interneto tinklalapyje.
+35 straipsnis. Neteko galios nuo 2020-07-01.
+Straipsnio pakeitimai:
+Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
  
-
-
 
 
 
@@ -3514,3 +3567,8 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12 ir 40 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2, 12, 29-4, 40 straipsnių, priedo pakeitimo ir Įstatymo papildymo 44-1 straipsniu ir dešimtuoju skirsniu įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12, 13, 22, 22-1, 22-2, 30, 34 straipsnių pakeitimo, Įstatymo papildymo 13-1 straipsniu ir 31, 35 straipsnių pripažinimo netekusiais galios įstatymas
