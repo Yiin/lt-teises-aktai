@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C"
 
 # Lietuvos Respublikos kelių transporto kodeksas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2022-07-31
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 119-2772, i. k. 0961010KODE00I-1628
- 
-TAR pastaba. Įsigaliojus įstatymui Nr. XIII-2444, leidimai vežti keleivius lengvaisiais automobiliais taksi ir leidimai teikti keleivių vežimo už atlygį lengvaisiais automobiliais paslaugas, išduoti iki šio įstatymo įsigaliojimo, laikomi galiojančiais neterminuotai.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
-Lietuvos Respublikos kelių transporto kodekso pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS
 KELIŲ TRANSPORTO
@@ -201,9 +196,7 @@ Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA
 
 
 
-3. Savivaldybių institucijos arba jų įgaliotos įstaigos valdo ir organizuoja keleivių vežimą vietinio susisiekimo maršrutais ir lengvaisiais automobiliais taksi. Savivaldybių institucijos pagal savo kompetenciją leidžia vežėjams privalomus teisės aktus. 
-3 dalies redakcija nuo 2020-07-01:
-3. Savivaldybių institucijos arba jų įgaliotos įstaigos valdo ir organizuoja keleivių vežimą vietinio susisiekimo maršrutais. Savivaldybių institucijos pagal savo kompetenciją leidžia vežėjams privalomus teisės aktus.
+3. Savivaldybių institucijos arba jų įgaliotos įstaigos valdo ir organizuoja keleivių vežimą vietinio susisiekimo maršrutais. Savivaldybių institucijos pagal savo kompetenciją leidžia vežėjams privalomus teisės aktus. 
 Straipsnio dalies pakeitimai:
 Nr. IX-790, 2002-03-19, Žin., 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA00IX-790
 Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
@@ -598,9 +591,10 @@ Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
 
 
 
-4. Leidimus išduoda, leidimų galiojimą sustabdo, leidimų galiojimo sustabdymą ar leidimų galiojimą panaikina savivaldybės, kurioje yra įregistruotas vežėjas, kuris nėra fizinis asmuo, arba gyvenamąją vietą deklaravęs vežėjas, kuris yra fizinis asmuo, vykdomosios institucijos susisiekimo ministro nustatyta tvarka.
-4 dalies redakcija nuo 2020-07-01:
-4. Leidimus išduoda, leidimų galiojimą sustabdo, leidimų galiojimo sustabdymą ar leidimų galiojimą panaikina Transporto saugos administracija susisiekimo ministro nustatyta tvarka.
+4. Leidimus išduoda, leidimų galiojimą sustabdo, leidimų galiojimo sustabdymą ar leidimų galiojimą panaikina Transporto saugos administracija susisiekimo ministro nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
+ 
 
 
 
@@ -610,9 +604,10 @@ Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
 
 
 
-6. Laikoma, kad leidimai yra išduoti kitą dieną nuo vežėjo pranešimo apie ketinimą vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais veiklą (toliau – pranešimas) pateikimo savivaldybės vykdomajai institucijai dienos. Kai pranešime yra nurodyta diena, nuo kurios ketinama pradėti vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais veiklą, ir ši diena yra vėlesnė negu kita diena nuo pranešimo pateikimo dienos, laikoma, kad leidimas yra išduotas nuo pranešime nurodytos dienos.
-6 dalies redakcija nuo 2020-07-01:
-6. Laikoma, kad leidimai yra išduoti kitą dieną nuo vežėjo pranešimo apie ketinimą vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais veiklą (toliau – pranešimas) pateikimo Transporto saugos administracijai dienos. Kai pranešime yra nurodyta diena, nuo kurios ketinama pradėti vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais veiklą, ir ši diena yra vėlesnė negu kita diena nuo pranešimo pateikimo dienos, laikoma, kad leidimas yra išduotas nuo pranešime nurodytos dienos.
+6. Laikoma, kad leidimai yra išduoti kitą dieną nuo vežėjo pranešimo apie ketinimą vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais veiklą (toliau – pranešimas) pateikimo Transporto saugos administracijai dienos. Kai pranešime yra nurodyta diena, nuo kurios ketinama pradėti vykdyti keleivių vežimo už atlygį lengvaisiais automobiliais veiklą, ir ši diena yra vėlesnė negu kita diena nuo pranešimo pateikimo dienos, laikoma, kad leidimas yra išduotas nuo pranešime nurodytos dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
+ 
 
 
 
@@ -722,9 +717,10 @@ Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
 
 
 
-11. Leidimus išduodanti institucija sustabdo leidimo galiojimą, panaikina leidimo galiojimo sustabdymą ar leidimo galiojimą ir praneša apie leidimo galiojimo sustabdymą, leidimo galiojimo sustabdymą ar leidimo galiojimo panaikinimą vežėjui, turinčiam leidimą, ne vėliau kaip per 3 darbo dienas nuo šio straipsnio 8, 9 ar 10 dalyse nurodytų aplinkybių paaiškėjimo dienos. Jeigu nustatomas šio straipsnio 12 arba 16 dalyje nurodytų reikalavimų pažeidimas savivaldybės, kuri nėra leidimą išdavusi institucija, teritorijoje, informacija apie pažeidimą ne vėliau kaip per 2 darbo dienas perduodama leidimą išdavusiai institucijai.
-11 dalies redakcija nuo 2020-07-01:
-11. Transporto saugos administracija sustabdo leidimo galiojimą, panaikina leidimo galiojimo sustabdymą ar leidimo galiojimą ir praneša apie leidimo galiojimo sustabdymą, leidimo galiojimo sustabdymą ar leidimo galiojimo panaikinimą vežėjui, turinčiam leidimą, ne vėliau kaip per 3 darbo dienas nuo šio straipsnio 8, 9 ar 10 dalyse nurodytų aplinkybių paaiškėjimo dienos.
+11. Transporto saugos administracija sustabdo leidimo galiojimą, panaikina leidimo galiojimo sustabdymą ar leidimo galiojimą ir praneša apie leidimo galiojimo sustabdymą, leidimo galiojimo sustabdymą ar leidimo galiojimo panaikinimą vežėjui, turinčiam leidimą, ne vėliau kaip per 3 darbo dienas nuo šio straipsnio 8, 9 ar 10 dalyse nurodytų aplinkybių paaiškėjimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
+ 
 
 
 
@@ -2509,7 +2505,7 @@ Nr. IX-790, 2002-03-19, Žin. 2002, Nr. 37-1342 (2002-04-09), i. k. 1021010ISTA0
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
  
 
 
@@ -2517,7 +2513,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
+ 
+
 Lietuvos Respublikos kelių 
 transporto kodekso
 priedas
@@ -2659,3 +2656,6 @@ Lietuvos Respublikos kelių transporto kodekso 14 straipsnio pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2444, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16283
 Lietuvos Respublikos kelių transporto kodekso pakeitimo įstatymas
+ 
+ 
+part_3d2db38b388d4034a421247abbadd753_end
