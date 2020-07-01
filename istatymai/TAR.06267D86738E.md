@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2020-06-30 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2021-05-27
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
  
@@ -35,6 +35,14 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Seimo narių rinkimų pagrindai
 
 Lietuvos Respublikos Seimo (toliau - Seimo) nariai renkami ketveriems metams vienmandatėse ir daugiamandatėje rinkimų apygardose, remiantis visuotine ir lygia rinkimų teise, slaptu balsavimu tiesioginiuose mišrios sistemos rinkimuose.
+ 
+
+11 straipsnis. Įstatymo keitimas
+
+Šis įstatymas negali būti keičiamas nuo eilinių Seimo rinkimų datos paskelbimo dienos iki rinkimų galutinių rezultatų paskelbimo arba rinkimų rezultatų pripažinimo negaliojančiais dienos, išskyrus atvejus, kai reikia įgyvendinti Konstitucinio Teismo nutarimą. 
+
+Papildyta straipsniu:
+Nr. XIII-1588, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18202
  
 
 2 straipsnis. Visuotinė rinkimų teisė
@@ -291,11 +299,17 @@ Nr. IX-967, 2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
 
 3) savivaldybės administracijos direktoriaus pasiūlyto kiekvienos savivaldybės, kuri visa ar jos dalis priskirta šiai rinkimų apygardai, administracijoje dirbančio karjeros valstybės tarnautojo; 
 
-4) partijų, kurios gavo Seimo narių mandatų daugiamandatėje rinkimų apygardoje, pasiūlytų asmenų.
+4) politinių partijų, turinčių savo atstovų laisva valia sudarytą frakciją Lietuvos Respublikos Seime (toliau – parlamentinė partija), ir partijų, kurioms skiriami valstybės biudžeto asignavimai politinės partijos veiklai finansuoti (toliau – finansuojama partija), pasiūlytų asmenų. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2936, 2020-05-14, paskelbta TAR 2020-05-22, i. k. 2020-10979
+ 
 
 3. Teisingumo ministras, Lietuvos teisininkų draugija ir savivaldybės administracijos direktorius gali siūlyti ir daugiau kandidatūrų. Jeigu rinkimų apygardos teritorija sudaryta iš kelių savivaldybių teritorijų, komisijoje turi būti visų šių savivaldybių administracijose dirbančių karjeros valstybės tarnautojų, pasiūlytų į komisiją šių savivaldybių administracijų direktorių. 
 
-4. Partijos, kurios gavo Seimo narių mandatų daugiamandatėje rinkimų apygardoje pagal iškeltų kandidatų sąrašą (jungtinį sąrašą), nuo vieno šio daugiamandatėje rinkimų apygardoje iškeltų kandidatų sąrašo (jungtinio sąrašo) turi teisę pasiūlyti į apygardų rinkimų komisijas po vieną savo atstovą. Jeigu partijų pasiūlyti atstovai atitinka šio įstatymo reikalavimus, Vyriausioji rinkimų komisija jų kandidatūrų atmesti negali. Jeigu kandidatūrų nebuvo pasiūlyta, Vyriausioji rinkimų komisija vietoj jų gali papildomai skirti komisijos nariais asmenis, pasiūlytus teisingumo ministro, Lietuvos teisininkų draugijos arba savivaldybės administracijos direktoriaus. 
+4. Kiekviena parlamentinė partija ir finansuojama partija turi teisę pasiūlyti į apygardų rinkimų komisijas po vieną savo atstovą. Jeigu partija atitinka abu požymius, ji deleguoja vieną atstovą į apygardos rinkimų komisiją. Jeigu partijų pasiūlyti atstovai atitinka šio įstatymo reikalavimus, Vyriausioji rinkimų komisija jų kandidatūrų atmesti negali. Jeigu kandidatūrų nebuvo pasiūlyta, Vyriausioji rinkimų komisija vietoj jų gali papildomai skirti apygardos rinkimų komisijos nariais asmenis, pasiūlytus teisingumo ministro, Lietuvos teisininkų draugijos arba savivaldybės administracijos direktoriaus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2936, 2020-05-14, paskelbta TAR 2020-05-22, i. k. 2020-10979
+ 
 
 5. Visais atvejais ne mažiau kaip trys komisijos nariai turi būti asmenys, paskirti į apygardos rinkimų komisiją iš teisingumo ministro, Lietuvos teisininkų draugijos ir savivaldybės administracijos direktoriaus pasiūlytųjų. Jeigu šių asmenų yra mažiau, apygardos rinkimų komisija didinama įtraukiant narių iš teisingumo ministro, Lietuvos teisininkų draugijos arba savivaldybės administracijos direktoriaus pasiūlytų asmenų. Bet kuriuo atveju apygardos rinkimų komisija negali būti sudaryta tik iš vienai partijai priklausančių asmenų. Visi subjektai, turintys teisę siūlyti kandidatus į apygardos rinkimų komisijos narius, šių kandidatų sąrašus Vyriausiajai rinkimų komisijai pateikia ne vėliau kaip likus 102 dienoms iki rinkimų dienos.
 
@@ -303,7 +317,10 @@ Nr. IX-967, 2002-06-20, Žin., 2002, Nr. 68-2766 (2002-07-03)
 
 7. Jeigu šio straipsnio 2 dalyje nurodyti subjektai nepasiūlė kandidatūrų į apygardos rinkimų komisijos narius arba kandidatūros buvo pasiūlytos pasibaigus šio straipsnio 5 dalyje nustatytam terminui, arba apygardos rinkimų komisijoje liko laisva vieta, trūkstamus šios komisijos narius Vyriausioji rinkimų komisija skiria iš šio įstatymo 111 straipsnyje nurodyto rinkimų ir referendumo komisijų narių rezervo.
 
-8. Apygardos rinkimų komisijos pirmininką iš komisijos narių skiria Vyriausioji rinkimų komisija. Apygardos rinkimų komisijos pirmininku skiriamas asmuo, turintis darbo Vyriausiosios rinkimų komisijos arba apygardos ar savivaldybės rinkimų komisijos pirmininku ar nariu patirties arba darbo apylinkės rinkimų komisijos pirmininku patirties. 
+8. Apygardos rinkimų komisijos pirmininką iš komisijos narių skiria Vyriausioji rinkimų komisija. Apygardos rinkimų komisijos pirmininku skiriamas asmuo, turintis darbo Vyriausiosios rinkimų komisijos arba apygardos ar savivaldybės rinkimų komisijos pirmininku ar nariu patirties arba darbo apylinkės rinkimų komisijos pirmininku patirties. Vyriausioji rinkimų komisija apygardų rinkimų komisijų pirmininkus skiria kiekvienam kandidatų į apygardų rinkimų komisijas pasiūliusiam subjektui proporcingai visam jo pasiūlytų kandidatų skaičiui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2936, 2020-05-14, paskelbta TAR 2020-05-22, i. k. 2020-10979
+ 
 
 9. Apygardos rinkimų komisija pirmajame posėdyje išsirenka komisijos pirmininko pavaduotoją ir sekretorių.
 
@@ -363,7 +380,10 @@ Nr. XIII-2783, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02275
 
 2. Po vienodą skaičių kandidatūrų į apylinkės rinkimų komisiją turi teisę siūlyti:
 
-1) partija ar partijų koalicija, per paskutinius Seimo rinkimus gavusios Seimo narių mandatų daugiamandatėje rinkimų apygardoje. Jeigu partija Seimo narių mandatų gavo būdama koalicijoje, tai kandidatūras ji gali siūlyti kartu su koalicijoje dalyvavusiomis partijomis;
+1) parlamentinės partijos ir finansuojamos partijos. Jeigu partija atitinka abu požymius, ji deleguoja vieną atstovą į apylinkės rinkimų komisiją; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2936, 2020-05-14, paskelbta TAR 2020-05-22, i. k. 2020-10979
+ 
 
 2) partija ar partijų koalicija, per paskutinius savivaldybės, kurios teritorijoje yra rinkimų apylinkė, tarybos rinkimus gavusios šios tarybos narių mandatų pagal iškeltų kandidatų sąrašą (jungtinį sąrašą). Jeigu partija tarybos narių mandatų gavo būdama koalicijoje, kandidatūras ji gali siūlyti kartu su koalicijoje dalyvavusiomis partijomis. 
 
@@ -371,7 +391,10 @@ Straipsnio dalies pakeitimai:
 Nr. XII-2052, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18860
  
 
-3. Jeigu partija gali siūlyti kandidatūras ir pagal Seimo, ir pagal savivaldybių rinkimų rezultatus, tai ji kandidatūras siūlo tik pagal vienų iš šių rinkimų rezultatus pasirinktinai. Jeigu viena iš partijų, dalyvavusių rinkimų koalicijoje, kandidatūrų nepasiūlo arba atsisako jas siūlyti, arba pasirenka siūlyti pagal kitų, kai buvo sudaryta koalicija, rinkimų rezultatus, kitos šioje koalicijoje dalyvavusios partijos kandidatūras turi teisę siūlyti jai nedalyvaujant.
+3. Jeigu partija gali siūlyti kandidatūras ir pagal šio straipsnio 2 dalies 1 punktą, ir pagal šio straipsnio 2 dalies 2 punktą, ji kandidatūras siūlo tik pagal vieną iš šių galimybių pasirinktinai. Jeigu viena iš partijų, dalyvavusių rinkimų koalicijoje, kandidatūrų nepasiūlo arba atsisako jas siūlyti, arba pasirenka siūlyti pagal kitų, kai buvo sudaryta koalicija, rinkimų rezultatus, kitos šioje koalicijoje dalyvavusios partijos kandidatūras turi teisę siūlyti jai nedalyvaujant. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2936, 2020-05-14, paskelbta TAR 2020-05-22, i. k. 2020-10979
+ 
 
 4. Partija kandidatūrų į apylinkių rinkimų komisijų narius sąrašą apygardos rinkimų komisijai pateikia ne vėliau kaip likus 48 dienoms iki rinkimų.
 
