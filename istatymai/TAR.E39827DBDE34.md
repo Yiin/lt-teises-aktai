@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E39827DBDE34"
 
 Redagavo: Ramun? L??ait? (1997
 
-Suvestinė redakcija nuo 2020-06-12 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 253-0; Žin. 1993, Nr.2-29, i. k. 0921010ISTA0000I-28
  
@@ -33,6 +33,14 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Respublikos Prezidento rinkimų pagrindai
 
 Respublikos Prezidentą renka Lietuvos Respublikos piliečiai penkeriems metams, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu.
+ 
+
+11 straipsnis. Įstatymo keitimas
+
+Šis įstatymas negali būti keičiamas nuo Respublikos Prezidento rinkimų datos paskelbimo dienos iki rinkimų galutinių rezultatų paskelbimo arba rinkimų rezultatų pripažinimo negaliojančiais dienos, išskyrus atvejus, kai reikia įgyvendinti Konstitucinio Teismo nutarimą. 
+
+Papildyta straipsniu:
+Nr. XIII-1586, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18200
  
 
 2 straipsnis. Teisė būti kandidatu į Respublikos Prezidentus
