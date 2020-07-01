@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS KRIMINALINĖS ŽVALGYBOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-11-18
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 122-6093, i. k. 1121010ISTA0XI-2234
  
@@ -151,9 +151,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-11. Kriminalinės žvalgybos pagrindinės institucijos – Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Specialiųjų tyrimų tarnyba, Vadovybės apsaugos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos. Kriminalinės žvalgybos pagrindinių institucijų teises ir pareigas taip pat turi Antrasis operatyvinių tarnybų departamentas prie Lietuvos Respublikos krašto apsaugos ministerijos ir Valstybės saugumo departamentas, kai jų padaliniai atlieka kriminalinės žvalgybos tyrimą šio įstatymo nustatytais pagrindais ir tvarka.
+11. Kriminalinės žvalgybos pagrindinės institucijos – Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos, Lietuvos Respublikos vadovybės apsaugos tarnyba, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos, Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Specialiųjų tyrimų tarnyba, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos. Kriminalinės žvalgybos pagrindinių institucijų teises ir pareigas taip pat turi Antrasis operatyvinių tarnybų departamentas prie Lietuvos Respublikos krašto apsaugos ministerijos ir Valstybės saugumo departamentas, kai jų padaliniai atlieka kriminalinės žvalgybos tyrimą šio įstatymo nustatytais pagrindais ir tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XII-729, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00067
+Nr. XIII-2912, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10910
  
 
 
@@ -576,7 +577,15 @@ Nr. XIII-2564, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19873
 
 
 
-4) vykdoma asmenų apsauga nuo nusikalstamo poveikio.
+4) vykdoma asmenų apsauga nuo nusikalstamo poveikio;
+
+
+
+
+5) į organizuotų nusikalstamų grupių sąrašą įtrauktos organizuotos nusikalstamos grupės nariui ar su ja susijusiam asmeniui taikomos organizuoto nusikalstamumo prevencijos priemonės.
+Papildyta straipsnio punktu:
+Nr. XIII-3075, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14350
+ 
 
 
 
@@ -1253,7 +1262,10 @@ KRIMINALINĖS ŽVALGYBOS informacijos PANAUDOJIMAS
 
 
 
-3. Kriminalinės žvalgybos informacija apie korupcinio pobūdžio nusikalstamos veikos požymių turinčią veiką, prokurorui sutikus, kriminalinės žvalgybos pagrindinės institucijos vadovo sprendimu gali būti išslaptinama ir panaudojama tiriant drausminius ir (ar) tarnybinius nusižengimus.
+3. Kriminalinės žvalgybos informacija apie korupcinio pobūdžio nusikalstamos veikos požymių turinčią veiką, prokurorui sutikus, kriminalinės žvalgybos pagrindinės institucijos vadovo sprendimu gali būti išslaptinama ir panaudota tiriant drausminius ir (ar) tarnybinius nusižengimus. Kriminalinės žvalgybos informacija apie organizuoto nusikalstamumo, korupcinio, savanaudiško pobūdžio nusikalstamos veikos požymių turinčią veiką, prokurorui sutikus, kriminalinės žvalgybos pagrindinės institucijos vadovo sprendimu gali būti išslaptinama ir panaudota turto tyrimui pagal Lietuvos Respublikos civilinio turto konfiskavimo įstatymą atlikti.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2827, 2020-03-31, paskelbta TAR 2020-04-03, i. k. 2020-06994
+ 
 
 
 
@@ -1623,4 +1635,19 @@ Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2564, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19873
+Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2827, 2020-03-31, paskelbta TAR 2020-04-03, i. k. 2020-06994
+Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 19 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2912, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10910
+Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 2 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3075, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14350
 Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 8 straipsnio pakeitimo įstatymas
