@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/fca994709efc11e9878fc525390407ce"
 
 # Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2020-07-01
+ 
+Įstatymas paskelbtas: TAR 2019-07-05, i. k. 2019-11180
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 BAUSMIŲ VYKDYMO KODEKSO PAKEITIMO
 ĮSTATYMAS
@@ -1307,21 +1314,18 @@ Pakeisti 83 straipsnį ir jį išdėstyti taip:
 „83 straipsnis. Kalėjimuose laisvės atėmimo bausmę atliekantys nuteistieji
 
 
-1. Kalėjimuose paprastai laisvės atėmimo bausmę atlieka pilnamečiai asmenys (išskyrus ribotai pakaltinamus asmenis, nėščias moteris ir vaikų iki trejų metų turinčias motinas), kuriems paskirta bausmė viršija dešimt metų laisvės atėmimo, ir nuteistieji, kuriems paskirta laisvės atėmimo iki gyvos galvos bausmė.
+Kalėjimuose paprastai laisvės atėmimo bausmę atlieka pilnamečiai asmenys (išskyrus ribotai pakaltinamus asmenis, nėščias moteris ir vaikų iki trejų metų turinčias motinas), kuriems paskirta bausmė viršija dešimt metų laisvės atėmimo, ir nuteistieji, kuriems paskirta laisvės atėmimo iki gyvos galvos bausmė.“ 
 
 
 
 
-2. Kalėjimuose taip pat atlieka bausmę šio Kodekso 68 ir 69 straipsniuose nurodyti nuteistieji. Šiems nuteistiesiems taikomas pataisos namuose laisvės atėmimo bausmę atliekantiems nuteistiesiems nustatytas režimas.“
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3024, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13460
  
-
-
-
-
-
-
-
-
 
 
 
@@ -1570,29 +1574,10 @@ Pakeisti 91 straipsnį ir jį išdėstyti taip:
 
 
 
-42 straipsnis. 97 straipsnio pakeitimas
-
-
-Pakeisti 97 straipsnį ir jį išdėstyti taip:
+42 straipsnis. Neteko galios nuo 2020-07-01
+Straipsnio naikinimas:
+Nr. XIII-3024, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13460
  
- 
-
-
-
-
-„97 straipsnis. Nuteistųjų teisė turėti laikrodžius, dėvėti savo drabužius bei avėti savo avalynę
-
-
-Nuteistiesiems, išskyrus šio Kodekso 142 straipsnio 2 dalies 2 ir 3 punktuose nurodytas nuobaudas atliekančius nuteistuosius, leidžiama turėti laikrodžius, pagamintus ne iš brangiųjų metalų, dėvėti savo drabužius ir avėti savo avalynę. Šiuos daiktus nuteistieji gauna pašto arba perduodamame siuntinyje, pasimatymų metu arba perka pataisos įstaigos parduotuvėje.“
- 
-
-
-
-
-
-
-
-
 
 
 
@@ -1628,7 +1613,7 @@ Pakeisti 104 straipsnį ir jį išdėstyti taip:
 „104 straipsnis. Nuteistųjų trumpalaikė išvyka iš pataisos įstaigos
 
 
-1. Pataisos namuose lengvosios ir paprastosios grupių laikymo sąlygomis bausmę atliekantys nuteistieji, išskyrus šio straipsnio 6 dalyje nurodytus nuteistuosius, turi teisę trims paroms parvykti į Lietuvos Respublikos teritorijoje esančius namus ar aplankyti Lietuvos Respublikos teritorijoje gyvenančius artimuosius giminaičius, jeigu jie atitinka visas šias sąlygas:
+1. Pataisos namuose lengvosios grupės laikymo sąlygomis bausmę atliekantys nuteistieji, išskyrus šio straipsnio 6 dalyje nurodytus nuteistuosius, turi teisę trims paroms parvykti į Lietuvos Respublikos teritorijoje esančius namus ar aplankyti Lietuvos Respublikos teritorijoje gyvenančius artimuosius giminaičius, jeigu jie atitinka visas šias sąlygas:
 
 
 1) jų nusikalstamo elgesio rizika yra žema arba vidutinė ir nustatyta pažanga mažinant nusikalstamo elgesio riziką;
@@ -1641,12 +1626,12 @@ Pakeisti 104 straipsnį ir jį išdėstyti taip:
 
 
 
-3) neturi galiojančių nuobaudų už bausmės atlikimo metu padarytus teisės pažeidimus;
+3) neturi galiojančių nuobaudų už bausmės atlikimo metu padarytus teisės aktų pažeidimus;
 
 
 
 
-4) dirba arba mokosi, arba užsiima individualia darbine, kūrybine ar kitokia veikla.
+4) užsiima darbine veikla ar dirba arba mokosi, arba užsiima individualia veikla.
 
 
 
@@ -1681,7 +1666,7 @@ Pakeisti 104 straipsnį ir jį išdėstyti taip:
 
 
 
-2) vieną kartą per tris mėnesius – nuteistiesiems, kuriems paskirta bausmė viršija trejus metus, bet neviršija dešimt metų laisvės atėmimo, atlikusiems pusę bausmės, – vieną kartą per du mėnesius, o likus šešiems mėnesiams iki lygtinio paleidimo iš pataisos įstaigos pagal šio Kodekso 157 straipsnio 3 dalį arba iki bausmės pabaigos likus ne daugiau kaip vieneriems metams, kai lygtinis paleidimas iš pataisos įstaigos netaikomas – du kartus per mėnesį;
+2) vieną kartą per tris mėnesius – nuteistiesiems, kuriems paskirta bausmė viršija trejus metus, bet neviršija dešimt metų laisvės atėmimo, atlikusiems pusę bausmės, – vieną kartą per du mėnesius, o likus šešiems mėnesiams iki lygtinio paleidimo iš pataisos įstaigos pagal šio Kodekso 157 straipsnio 3 dalį arba iki bausmės pabaigos likus ne daugiau kaip vieneriems metams, kai lygtinis paleidimas iš pataisos įstaigos netaikomas, – du kartus per mėnesį;
 
 
 
@@ -1693,7 +1678,7 @@ Pakeisti 104 straipsnį ir jį išdėstyti taip:
 
 
 
-4. Dirbančių nuteistųjų prašymu jų nemokamų atostogų metu pataisos įstaigos direktorius vieną kartą per metus šiems nuteistiesiems priklausančios trumpalaikės išvykos trukmę gali pratęsti iki dešimt parų.
+4. Dirbančių nuteistųjų prašymu jų kasmetinių atostogų metu pataisos įstaigos direktorius vieną kartą per metus šiems nuteistiesiems priklausančios trumpalaikės išvykos trukmę gali pratęsti iki dešimt parų.
 
 
 
@@ -1726,7 +1711,7 @@ Pakeisti 104 straipsnį ir jį išdėstyti taip:
 
 
 
-5) kurie trumpalaikės išvykos iš pataisos įstaigos metu padarė teisės pažeidimų ir nėra praėję vieneri metai nuo nuobaudos už šiuos pažeidimus įvykdymo dienos.
+5) kurie trumpalaikės išvykos iš pataisos įstaigos metu padarė teisės aktų pažeidimų ir nėra praėję vieneri metai nuo nuobaudos už šiuos pažeidimus įvykdymo dienos.
 
 
 
@@ -1738,21 +1723,23 @@ Pakeisti 104 straipsnį ir jį išdėstyti taip:
 
 
 
-8. Trumpalaikės išvykos iš pataisos įstaigos nuteistiesiems suteikiamos tik laisvu nuo darbo metu. Konkrečią nuteistojo trumpalaikės išvykos iš pataisos įstaigos datą, atsižvelgdamas į nuteistojo prašymą, nustato ir klausimą dėl elektroninio stebėjimo priemonių taikymo sprendžia pataisos įstaigos direktorius. Šios trumpalaikės išvykos laikas įskaitomas į bausmės atlikimo laiką. Kelionės išlaidas apmoka pats nuteistasis arba kiti jo nurodyti asmenys.
+8. Trumpalaikės išvykos iš pataisos įstaigos nuteistiesiems suteikiamos tik laisvu nuo darbinės veiklos ar darbo metu. Konkrečią nuteistojo trumpalaikės išvykos iš pataisos įstaigos datą, atsižvelgdamas į nuteistojo prašymą, nustato ir klausimą dėl elektroninio stebėjimo priemonių taikymo sprendžia pataisos įstaigos direktorius. Šios trumpalaikės išvykos laikas įskaitomas į bausmės atlikimo laiką. Kelionės išlaidas apmoka pats nuteistasis arba kiti jo nurodyti asmenys.
 
 
 
 
-9. Apie nuteistojo išvyką iš pataisos įstaigos pranešama vietovės, į kurią vykstama, teritorinei policijos įstaigai.“
+9. Apie nuteistojo išvyką iš pataisos įstaigos pranešama vietovės, į kurią vykstama, teritorinei policijos įstaigai.“ 
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3024, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13460
  
-
-
-
-
-
-
-
-
 
 
 
@@ -2722,9 +2709,10 @@ Pakeisti 170 straipsnį ir jį išdėstyti taip:
 Pakeisti 173 straipsnį ir jį išdėstyti taip:
 
 
+ 
 
 
-„173 straipsnis. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų materialinis buitinis aprūpinimas
+„173 straipsnis. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų materialinis buitinis aprūpinimas 
 
 
 1. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekantiems nuteistiesiems užtikrinamos reikiamos gyvenamųjų patalpų ir buities sąlygos, atitinkančios Lietuvos Respublikos higienos normas. 
@@ -2732,17 +2720,17 @@ Pakeisti 173 straipsnį ir jį išdėstyti taip:
 
 
 
-2. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekantiems nuteistiesiems nemokamai suteikiama atskira miegamoji vieta ir patalynė. Nuteistieji, išskyrus atliekančius areštą, taip pat šio Kodekso 142 straipsnio 2 dalies 2 ir 3 punktuose nurodytas nuobaudas atliekančius nuteistuosius, gali naudotis nuosava patalyne (išskyrus antklodę, čiužinį ir pagalvę). 
+2. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekantiems nuteistiesiems nemokamai suteikiama atskira miegamoji vieta ir patalynė. Nuteistieji, išskyrus atliekančius areštą, taip pat šio Kodekso 142 straipsnio 2 dalyje nurodytą nuobaudą atliekančius nuteistuosius, gali naudotis nuosava patalyne (išskyrus antklodę, čiužinį ir pagalvę). 
 
 
 
 
-3. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekantys nuteistieji, kurie neturi savo drabužių ir avalynės, nemokamai aprūpinami drabužiais ir avalyne pagal sezoną. Šio Kodekso 142 straipsnio 2 dalies 2 ir 3 punktuose nurodytas nuobaudas atliekantys nuteistieji dėvi pataisos įstaigos administracijos išduotą aprangą.
+3. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekantys nuteistieji, kurie neturi savo drabužių ir avalynės, nemokamai aprūpinami drabužiais ir avalyne pagal sezoną. 
 
 
 
 
-4. Areštą atliekantys nuteistieji, šio Kodekso 142 straipsnio 2 dalies 2 ir 3 punktuose nurodytas nuobaudas atliekantys nuteistieji, taip pat kiti nuteistieji, kurie neturi lėšų asmens higienos reikmenims įsigyti arba jų turi nepakankamai, šiais reikmenimis aprūpinami nemokamai.
+4. Areštą atliekantys nuteistieji, šio Kodekso 142 straipsnio 2 dalyje nurodytą nuobaudą atliekantys nuteistieji, taip pat kiti nuteistieji, kurie neturi lėšų asmens higienos reikmenims įsigyti arba jų turi nepakankamai, šiais reikmenimis aprūpinami nemokamai.
 
 
 
@@ -2752,31 +2740,88 @@ Pakeisti 173 straipsnį ir jį išdėstyti taip:
 
 
 
-6. Nėščioms moterims, krūtimi maitinančioms motinoms, nepilnamečiams, neįgaliesiems, taip pat laisvės atėmimo vietų ligoninėse gydomiems nuteistiesiems sudaromos geresnės gyvenamųjų patalpų ir buities sąlygos. Nėščioms moterims ir krūtimi maitinančioms motinoms pagal gydytojų komisijos išvadą leidžiama gauti pašto ar perduodamų maisto produktų siuntinių. Jų svorį ir periodiškumą nustato Kalėjimų departamento direktorius.
+6. Nėščioms moterims, krūtimi maitinančioms motinoms, nepilnamečiams, neįgaliesiems, taip pat laisvės atėmimo vietų ligoninėje gydomiems nuteistiesiems sudaromos geresnės gyvenamųjų patalpų ir buities sąlygos. Nėščioms moterims ir krūtimi maitinančioms motinoms pagal gydytojo išvadą leidžiama gauti pašto ar perduodamų maisto produktų siuntinių. Jų svorį ir periodiškumą nustato Kalėjimų departamento direktorius.
 
 
 
 
-7. Laisvės atėmimo bausmę atliekantys atvirose kolonijose arba perkelti į pusiaukelės namus nuteistieji maistu, drabužiais, avalyne ir higienos priemonėmis apsirūpina patys. Atviroje kolonijoje ir pusiaukelės namuose bausmę atliekančių nuteistųjų, kurie atlieka šio Kodekso 142 straipsnio 2 dalies 3 punkte nurodytą nuobaudą arba neturi lėšų maistui, drabužiams, avalynei ar higienos priemonėms įsigyti ar jų turi nepakankamai, aprūpinimas maistu, drabužiais, avalyne ir higienos priemonėmis organizuojamas šio straipsnio 3, 4 ir 5 dalyse nustatyta tvarka.
+7. Laisvės atėmimo bausmę atliekantys atvirose kolonijose arba perkelti į pusiaukelės namus nuteistieji maistu, drabužiais, avalyne ir higienos priemonėmis apsirūpina patys. Atviroje kolonijoje ir pusiaukelės namuose bausmę atliekančių nuteistųjų, kurie atlieka šio Kodekso 142 straipsnio 2 dalyje nurodytą nuobaudą arba neturi lėšų maistui, drabužiams, avalynei ar higienos priemonėms įsigyti ar jų turi nepakankamai, aprūpinimas maistu, drabužiais, avalyne ir higienos priemonėmis organizuojamas šio straipsnio 3, 4 ir 5 dalyse nustatyta tvarka.
 
 
 
 
-8. Terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekantiems nuteistiesiems kartą per mėnesį iš pataisos įstaigos lėšų gali būti išmokama iki 0,3 bazinės socialinės išmokos dydžio išmoka. Kriterijus, pagal kuriuos gali būti skiriamos išmokos, išmokų skyrimo ir mokėjimo taisykles nustato Kalėjimų departamento direktorius. 
+8. Terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekantiems nuteistiesiems kartą per mėnesį iš pataisos įstaigos lėšų gali būti išmokama iki 0,3 bazinės socialinės išmokos dydžio išmoka. Kriterijus, pagal kuriuos gali būti skiriamos išmokos, išmokų skyrimo ir mokėjimo taisykles nustato Kalėjimų departamento direktorius. 
 
 
 
 
-9. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų mitybos ir materialinio buitinio aprūpinimo normas nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.“
+9. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekančių nuteistųjų mitybos ir materialinio buitinio aprūpinimo normas nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.“ 
+
+
+
+
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3024, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13460
  
 
 
 
 
+701 straipsnis. 173 straipsnio pakeitimas
+
+
+1. Pakeisti 173 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 
 
+„2. Arešto, terminuoto laisvės atėmimo ir laisvės atėmimo iki gyvos galvos bausmes atliekantiems nuteistiesiems nemokamai suteikiama atskira miegamoji vieta ir patalynė. Nuteistieji, išskyrus atliekančius areštą, atsisakiusius užsiimti pataisos įstaigos administracijos pasiūlyta darbine veikla ir drausmės grupėje laikomus nuteistuosius, taip pat šio Kodekso 142 straipsnio 2 dalyje nurodytą nuobaudą atliekančius nuteistuosius, gali naudotis nuosava patalyne (išskyrus antklodę, čiužinį ir pagalvę).“
+
+
+
+
+
+
+
+
+2. Pakeisti 173 straipsnio 8 dalį ir ją išdėstyti taip:
+
+
+
+
+„8. Kalėjimų departamento direktoriaus nustatyta tvarka nuo dalyvavimo darbinėje veikloje atleistiems ir jokių pajamų neturintiems nuteistiesiems, išskyrus kamerų tipo patalpose nuobaudas atliekančius nuteistuosius, gali būti leidžiama nemokamai paskambinti telefonu ar siųsti laiškus artimiesiems.“
+
+
+
+
+
+
+
+
+3. Papildyti 173 straipsnį nauja 9 dalimi:
+
+
+
+
+„9. Bendrojo ugdymo ar profesinio mokymo įstaigose besimokantys nepilnamečiai nuteistieji, atsižvelgiant į jų pasiektus gerus mokymosi rezultatus, teisingumo ministro nustatyta tvarka gali būti skatinami piniginėmis išmokomis. Šios išmokos skiriamos iš Socialinės paramos nuteistiesiems fondo lėšų.“
+
+
+
+
+
+
+
+
+4. Buvusią 173 straipsnio 9 dalį laikyti 10 dalimi. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3024, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13460
+ 
 
 
 
@@ -2905,7 +2950,18 @@ PAGALBA PALEIDŽIAMIEMS IŠ PATAISOS ĮSTAIGŲ ASMENIMS
 75 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas
 
 
-1. Šio įstatymo 11, 12, 13, 28, 36, 38, 39, 42, 44, 47, 63, 64, 65, 66, 67 ir 70 straipsniai įsigalioja 2020 m. liepos 1 d.
+1. Šio įstatymo 11, 12, 13, 28, 38, 39, 42, 47, 63, 64, 65, 66, 67 ir 70 straipsniai įsigalioja 2020 m. liepos 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3024, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13460
+ 
+
+
+
+
+11. Šio įstatymo 36, 44 ir 701 straipsniai įsigalioja 2022 m. sausio 1 d. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3024, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13460
+ 
 
 
 
@@ -2952,3 +3008,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3024, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13460
+Lietuvos Respublikos bausmių vykdymo kodekso pakeitimo įstatymo Nr. XIII-2264 36, 44, 70, 75 straipsnių pakeitimo, Įstatymo papildymo 70-1 straipsniu ir 42 straipsnio pripažinimo netekusiu galios įstatymas
