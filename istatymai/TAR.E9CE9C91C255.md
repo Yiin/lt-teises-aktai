@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-09-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
  
@@ -62,105 +62,185 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Aktyviojo rezervo karys – pagal kario savanorio ar aktyviojo rezervo kario sutartį savanoriškai įsipareigojęs karo prievolininkas, atliekantis nenuolatinę karo tarnybą kariniame vienete.
-
-
-
-
-2. Alternatyvioji krašto apsaugos tarnyba – dėl religinių ar pacifistinių įsitikinimų su ginklu negalinčių tarnauti karo prievolininkų tarnyba, kuria pakeičiama privalomoji karo tarnyba.
-
-
-
-
-3. Netenka galios 2016-09-01.
+1. Aktyviojo kariuomenės personalo rezervo karys (toliau – aktyviojo rezervo karys) – parengtojo kariuomenės personalo rezervo karo prievolininkas, atliekantis tarnybą aktyviajame kariuomenės personalo rezerve. 
 Straipsnio dalies pakeitimai:
-Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
 
 
 
 
-4. Jaunesniųjų karininkų vadų mokymai – privalomoji pradinė karo tarnyba, kurią atlikdamas karo prievolininkas įgyja pagrindinį karinį parengtumą, pasirengia veikti karinio vieneto sudėtyje ir jam vadovauti.
+2. Aktyvusis kariuomenės personalo rezervas (toliau – aktyvusis rezervas) – parengtojo kariuomenės personalo rezervo karo prievolininkų, kurių turimi kariniai įgūdžiai periodiškai atnaujinami mokymuose ir pratybose, dalis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-5. Karinė įskaita – elektroninė karo prievolininkų apskaita.
+3. Alternatyvioji krašto apsaugos tarnyba – dėl religinių ar pacifistinių įsitikinimų su ginklu negalinčių tarnauti karo prievolininkų tarnyba, kuria pakeičiama privalomoji karo tarnyba.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-6. Karys savanoris – aktyviojo rezervo karys, atliekantis krašto apsaugos savanorių karo tarnybą.
+4. Netenka galios 2016-09-01.
+Straipsnio dalies pakeitimai:
+Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-7. Kariuomenės personalo rezervas – karo prievolininkų visuma, išskyrus tikrąją karo tarnybą atliekančius karo prievolininkus. 
+5. Jaunesniųjų karininkų vadų mokymai – privalomoji pradinė karo tarnyba, kurią atlikdamas karo prievolininkas įgyja pagrindinį karinį parengtumą, pasirengia veikti karinio vieneto sudėtyje ir jam vadovauti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-8. Karo prievolė – konstitucinė Lietuvos Respublikos piliečio pareiga atlikti karo arba alternatyviąją krašto apsaugos tarnybą.
+6. Karinė įskaita – elektroninė karo prievolininkų apskaita.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-9. Karo prievolininkas – karo prievolę turintis Lietuvos Respublikos pilnametis pilietis.
+7. Netenka galios 2020-07-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-10. Karo prievolininko kodas – unikali skaitmenų seka, skirta karo prievolininko tapatybei nustatyti, duomenims apie jį kaupti. 
+8. Kariuomenės personalo rezervas – karo prievolininkų visuma, išskyrus tikrąją karo tarnybą atliekančius karo prievolininkus. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-11. Karo prievolininkų šaukimas (toliau – šaukimas) – procedūra, apimanti karo prievolininkų atranką ir skyrimą į privalomąją karo tarnybą, tarnybos atidėjimą ir atleidimą nuo jos. 
+9. Karo prievolė – konstitucinė Lietuvos Respublikos piliečio pareiga atlikti karo arba alternatyviąją krašto apsaugos tarnybą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-12. Krašto apsaugos savanorių karo tarnyba (toliau – savanorių karo tarnyba) – karo prievolininkų pagal kario savanorio sutartį savanoriškai įsipareigota nenuolatinė karo tarnyba krašto apsaugos savanorių pajėgose.
+10. Karo prievolininkas – karo prievolę turintis Lietuvos Respublikos pilnametis pilietis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-13. Neparengtasis kariuomenės personalo rezervas – karo prievolininkai, neįgiję pagrindinio karinio parengtumo. 
+11. Karo prievolininko kodas – unikali skaitmenų seka, skirta karo prievolininko tapatybei nustatyti, duomenims apie jį kaupti. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-14. Nuolatinė privalomoji pradinė karo tarnyba – nepertraukiama, privalomoji pradinė karo tarnyba, kurią atlikdamas karo prievolininkas įgyja pagrindinį karinį parengtumą, pasirengia veikti karinio vieneto sudėtyje.
+12. Karo prievolininkų šaukimas (toliau – šaukimas) – procedūra, apimanti karo prievolininkų atranką ir skyrimą į privalomąją karo tarnybą, tarnybos atidėjimą ir atleidimą nuo jos. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-15. Pagrindinis karinis parengtumas – Lietuvos kariuomenės vado nustatytų kariui būtinų žinių ir gebėjimų turėjimas. 
+13. Netenka galios 2020-07-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-16. Parengtasis kariuomenės personalo rezervas – karo prievolininkai, įgiję pagrindinį karinį parengtumą.
+14. Neparengtasis kariuomenės personalo rezervas – karo prievolininkai, neįgiję pagrindinio karinio parengtumo. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-17. Parengtojo rezervo karys – pagrindinį karinį parengtumą įgijęs karo prievolininkas, paskirtas atlikti nenuolatinę karo tarnybą į parengtojo rezervo karinį vienetą. 
+15. Nuolatinė privalomoji pradinė karo tarnyba – nepertraukiama, privalomoji pradinė karo tarnyba, kurią atlikdamas karo prievolininkas įgyja pagrindinį karinį parengtumą, pasirengia veikti karinio vieneto sudėtyje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-18. Privalomoji karo tarnyba – karo prievolininko atliekama privalomoji pradinė karo tarnyba, tarnyba rezerve ar tarnyba paskelbus mobilizaciją.
+16. Pagrindinis karinis parengtumas – Lietuvos kariuomenės vado nustatytų kariui būtinų žinių ir gebėjimų turėjimas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-19. Privalomoji pradinė karo tarnyba – karo prievolininkų parengimas ginklu ginti valstybę vienu iš šio įstatymo 4 straipsnio 1 dalyje nurodytų būdų.
+17. Parengtasis kariuomenės personalo rezervas – karo prievolininkai, įgiję pagrindinį karinį parengtumą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-20. Tarnyba rezerve – parengtajam kariuomenės personalo rezervui priskirtų karo prievolininkų privaloma nenuolatinė karo tarnyba parengtojo rezervo kariniuose vienetuose arba savanorių karo tarnyba ar kita karo prievolininkų savanoriškai įsipareigota nenuolatinė karo tarnyba kariniuose vienetuose.
+18. Netenka galios 2020-07-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
+
+
+
+
+19. Privalomoji karo tarnyba – karo prievolininko atliekama privalomoji pradinė karo tarnyba, tarnyba aktyviajame rezerve ar tarnyba paskelbus mobilizaciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
+
+
+
+
+20. Privalomoji pradinė karo tarnyba – karo prievolininkų parengimas ginklu ginti valstybę vienu iš šio įstatymo 4 straipsnio 1 dalyje nurodytų būdų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
+
+
+
+
+21. Tarnyba aktyviajame kariuomenės personalo rezerve (toliau – tarnyba aktyviajame rezerve) – į aktyvųjį rezervą paskirtų karo prievolininkų atliekama privalomoji karo tarnyba. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
+
+
+
+
+22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
 
 
@@ -271,7 +351,10 @@ Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
 
 
 
-3) kai ištarnaujama ne mažiau kaip 3 metus savanorių karo tarnyboje ar kitoje tarnyboje aktyviajame rezerve;
+3) ištarnavus ne mažiau kaip 3 metus savanorių karo tarnyboje ar kitoje savanoriškoje nenuolatinėje karo tarnyboje ir kariuomenės vadui ar jo įgaliotam asmeniui priėmus sprendimą, kad įgytas pagrindinis karinis parengtumas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
@@ -325,9 +408,10 @@ Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 6 straipsnis. Šaukimo į nuolatinę privalomąją pradinę karo tarnybą tvarka
 
 
-1. Šaukimas į nuolatinę privalomąją pradinę karo tarnybą vykdomas kiekvienais metais. Atsižvelgdamas į Lietuvos Respublikos Seimo (toliau – Seimas) nustatytus ribinius skaičius, nuolatinę privalomąją pradinę karo tarnybą atliksiančių karių skaičių atitinkamiems kalendoriniams metams nustato krašto apsaugos ministras.
+1. Šaukimas į nuolatinę privalomąją pradinę karo tarnybą vykdomas kiekvienais metais. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
 
 
@@ -354,11 +438,12 @@ Nr. XII-2724, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26837
 
 
 
-5. Kalendorinių metų karo prievolininkų sąrašas sudaromas į jį atsitiktine tvarka, naudojantis kompiuterių programa, surašant karo prievolininkus, kurie šio įstatymo nustatyta tvarka gali būti pašaukti atlikti nuolatinę privalomąją pradinę karo tarnybą. Sudarant kalendorinių metų karo prievolininkų sąrašą, užtikrinama, kad atlikti nuolatinę privalomąją pradinę karo tarnybą šaukiamų karo prievolininkų skaičius būtų proporcingas karo prievolę administruojančios krašto apsaugos sistemos institucijos padalinių administruojamose savivaldybėse paskutinę gyvenamąją vietą deklaravusių karo prievolininkų, kurie šio įstatymo nustatyta tvarka gali būti pašaukti atlikti nuolatinę privalomąją pradinę karo tarnybą, skaičiui. Jeigu atlikti nuolatinę privalomąją pradinę karo tarnybą šaukiamas karo prievolininkas gyvenamosios vietos nėra deklaravęs, kalendorinių metų karo prievolininkų sąrašas sudaromas, atsižvelgiant į jo esamą faktinę gyvenamąją vietą ar iki išvykimo iš Lietuvos Respublikos buvusią gyvenamąją vietą. Kalendorinių metų karo prievolininkų sąrašas sudaromas ir paskelbiamas Lietuvos Respublikos krašto apsaugos ministerijos interneto svetainėje (www.kam.lt) ne vėliau kaip per vieną mėnesį nuo šaukimo į nuolatinę privalomąją pradinę karo tarnybą pradžios. Kalendorinių metų karo prievolininkų sąrašo sudarymo eiga, kiti duomenys, susiję su šaukimo vykdymu, skelbiami Lietuvos Respublikos krašto apsaugos ministerijos interneto svetainėje, taip pat per kitas Lietuvos Respublikos krašto apsaugos ministerijos ir karo prievolę administruojančios krašto apsaugos sistemos institucijos informacines visuomenės informavimo priemones. Kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras stebi šio įstatymo 61 straipsnyje nurodyti asmenys. 
+5. Kalendorinių metų karo prievolininkų sąrašas sudaromas į jį atsitiktine tvarka, naudojantis kompiuterių programa, surašant karo prievolininkus, kurie šio įstatymo nustatyta tvarka gali būti pašaukti atlikti nuolatinę privalomąją pradinę karo tarnybą. Sudarant kalendorinių metų karo prievolininkų sąrašą, užtikrinama, kad atlikti nuolatinę privalomąją pradinę karo tarnybą šaukiamų karo prievolininkų skaičius būtų proporcingas karo prievolę administruojančios krašto apsaugos sistemos institucijos padalinių administruojamose savivaldybėse paskutinę gyvenamąją vietą deklaravusių karo prievolininkų, kurie šio įstatymo nustatyta tvarka gali būti pašaukti atlikti nuolatinę privalomąją pradinę karo tarnybą, skaičiui. Jeigu atlikti nuolatinę privalomąją pradinę karo tarnybą šaukiamas karo prievolininkas gyvenamosios vietos nėra deklaravęs, kalendorinių metų karo prievolininkų sąrašas sudaromas atsižvelgiant į karo prievolininko esamą faktinę gyvenamąją vietą ar iki išvykimo iš Lietuvos Respublikos buvusią gyvenamąją vietą. Kalendorinių metų karo prievolininkų sąrašas sudaromas ir paskelbiamas Lietuvos Respublikos krašto apsaugos ministerijos interneto svetainėje www.kam.lt ne vėliau kaip per vieną mėnesį nuo šaukimo į nuolatinę privalomąją pradinę karo tarnybą pradžios. Kalendorinių metų karo prievolininkų sąrašas, kuriame pateikiami šio straipsnio 51 dalyje nurodyti duomenys, viešai paskelbiamas informavimo dėl šaukimo į nuolatinę privalomąją pradinę karo tarnybą tikslu ir viešai skelbiamas iki atitinkamų kalendorinių metų šaukimo pabaigos. Kalendorinių metų karo prievolininkų sąrašo sudarymo eiga, kiti duomenys, susiję su šaukimo vykdymu, skelbiami Lietuvos Respublikos krašto apsaugos ministerijos interneto svetainėje, taip pat per kitas Lietuvos Respublikos krašto apsaugos ministerijos ir karo prievolę administruojančios krašto apsaugos sistemos institucijos informacines visuomenės informavimo priemones. Kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras stebi šio įstatymo 61 straipsnyje nurodyti asmenys. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 Nr. XII-2724, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26837
 Nr. XIII-586, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11956
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
 
 
@@ -481,17 +566,34 @@ Nr. XII-2724, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26837
 
 
 
-3. Kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras turi stebėti ne mažiau kaip 3 ir ne daugiau kaip 10 asmenų, kurių iš to paties viešojo juridinio asmens negali būti daugiau kaip 2/3 visų sudarant kalendorinių metų karo prievolininkų sąrašą dalyvaujančių asmenų.
+3. Karo prievolę administruojanti krašto apsaugos sistemos institucija, skirdama asmenis stebėti kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras, turi teisę gauti iš visų valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų bei jų padalinių, registrų, informacinių sistemų jų turimą informaciją, dokumentus, duomenis, įskaitant asmens duomenis, reikalingus patikrinti, ar asmuo atitinka šio straipsnio 2 dalyje nustatytus reikalavimus, o šioje dalyje nurodyti duomenų teikėjai privalo minėtos krašto apsaugos sistemos institucijos prašymu tokią informaciją, dokumentus, duomenis, įskaitant asmens duomenis, pateikti. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-4. Asmenys, stebintys kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras, jų prašymu gali susipažinti su informacija, susijusia su kalendorinių metų karo prievolininkų sąrašo sudarymu ir karo prievolininkų įtraukimu į jį, išskyrus atvejus, kai susipažinimą su šia informacija riboja teisės aktai, reglamentuojantys šios informacijos tvarkymo ir apsaugos reikalavimus.
+4. Kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras turi stebėti ne mažiau kaip 3 ir ne daugiau kaip 10 asmenų, kurių iš to paties viešojo juridinio asmens negali būti daugiau kaip 2/3 visų sudarant kalendorinių metų karo prievolininkų sąrašą dalyvaujančių asmenų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-5. Asmenų skyrimo stebėti kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras tvarką nustato Vyriausybė. 
+5. Asmenys, stebintys kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras, jų prašymu gali susipažinti su informacija, susijusia su kalendorinių metų karo prievolininkų sąrašo sudarymu ir karo prievolininkų įtraukimu į jį, išskyrus atvejus, kai susipažinimą su šia informacija riboja teisės aktai, reglamentuojantys šios informacijos tvarkymo ir apsaugos reikalavimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
+
+
+
+
+6. Asmenų skyrimo stebėti kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras tvarką, nurodant ir asmens duomenis, kurie gali būti renkami, nustato Vyriausybė. Asmens duomenys, gauti siekiant paskirti asmenis stebėti kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras, yra tvarkomi asmenų skyrimo stebėti kalendorinių metų karo prievolininkų sąrašo sudarymo procedūras tikslu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 Papildyta straipsniu:
@@ -605,7 +707,10 @@ Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
 12 straipsnis. Šaukimo į jaunesniųjų karininkų vadų mokymus tvarka
 
 
-1. Šaukimas į jaunesniųjų karininkų vadų mokymus vykdomas tik tuo atveju, kai atitinkamiems kalendoriniams metams yra nustatyti didesni negu nulis jaunesniųjų karininkų vadų mokymuose dalyvausiančių karių ribiniai skaičiai. Atsižvelgdamas į Seimo nustatytus ribinius skaičius, jaunesniųjų karininkų vadų mokymuose dalyvausiančių karių skaičių atitinkamiems kalendoriniams metams nustato krašto apsaugos ministras. 
+1. Šaukimas į jaunesniųjų karininkų vadų mokymus vykdomas tik tuo atveju, kai atitinkamiems kalendoriniams metams yra nustatyti didesni negu nulis jaunesniųjų karininkų vadų mokymuose dalyvausiančių karių ribiniai skaičiai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
@@ -739,12 +844,18 @@ PRIVALOMOSIOS PRADINĖS KARO TARNYBOS ATIDĖJIMAS
 
 
 
-6) vidaus tarnybos sistemos pareigūnams;
+6) vidaus tarnybos sistemos pareigūnams, išskyrus finansų ministro valdymo srities statutinių įstaigų pareigūnus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-7) Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos arba jam pavaldžios įstaigos pareigūnams;
+7) netenka galios 2020-07-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
@@ -755,6 +866,14 @@ PRIVALOMOSIOS PRADINĖS KARO TARNYBOS ATIDĖJIMAS
 
 
 9) Specialiųjų tyrimų tarnybos pareigūnams;
+
+
+
+
+91) Lietuvos Respublikos vadovybės apsaugos tarnybos pareigūnams; 
+Papildyta straipsnio punktu:
+Nr. XIII-2910, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10907
+ 
 
 
 
@@ -797,9 +916,10 @@ Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
 
 
 
-2. Šio straipsnio 1 dalies 2, 4, 5, 6, 7, 8, 9, 11, 13 ir 131 punktuose nurodytiems karo prievolininkams privalomoji pradinė karo tarnyba neatidedama, jeigu jie raštu pareiškė norą atlikti privalomąją pradinę karo tarnybą. 
+2. Šio straipsnio 1 dalies 2, 4, 5, 6, 7, 8, 9, 91, 11, 13 ir 131 punktuose nurodytiems karo prievolininkams privalomoji pradinė karo tarnyba neatidedama, jeigu jie raštu pareiškė norą atlikti privalomąją pradinę karo tarnybą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
+Nr. XIII-2910, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10907
  
 
 
@@ -1004,115 +1124,75 @@ Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
 
 
 IV SKYRIUS
-TARNYBA REZERVE
+TARNYBA AKTYVIAJAME REZERVE 
+Pakeistas skyriaus pavadinimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
 
 
-21 straipsnis. Tarnybos rezerve atlikimas
+21 straipsnis. Tarnybos aktyviajame rezerve atlikimas
 
 
-1. Tarnyba rezerve atliekama tarnaujant kariniuose vienetuose, krašto apsaugos savanorių pajėgose ar kituose aktyviojo rezervo kariniuose vienetuose, taip pat parengtojo rezervo kariniuose vienetuose.
-
-
-
-
-2. Karo prievolininkai atrenkami ir skiriami:
-
-
-1) tarnybą rezerve atlikti kariniuose vienetuose, krašto apsaugos savanorių pajėgose ar kituose aktyviojo rezervo kariniuose vienetuose nuo 18 iki 60 metų;
+1. Tarnyba aktyviajame rezerve atliekama tarnaujant kariniuose vienetuose.
 
 
 
 
-2) tarnybą rezerve atlikti parengtojo rezervo kariniuose vienetuose nuo 19 metų (o pareiškę norą raštu – nuo 18 metų) iki 60 metų, atsargos karo kapelionai – iki 65 metų.
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-380, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09161
- 
+2. Karo prievolininkai skiriami iš parengtojo kariuomenės personalo rezervo iki 60 metų, atsargos karo kapelionai – iki 65 metų.
 
 
 
 
-3. Pašaukti į pratybas, mokymus ar vykdyti tarnybos užduočių tarnybą rezerve atliekantys karo prievolininkai Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka aprūpinami apranga, maistu ir tarnybine gyvenamąja patalpa, jiems mokamas atlyginimas už tarnybos rezerve dienas, taikomos socialinės garantijos.
+3. Pašaukti į pratybas, mokymus ar vykdyti tarnybos užduočių tarnybą aktyviajame rezerve atliekantys karo prievolininkai Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatyta tvarka aprūpinami apranga, maistu ir tarnybine gyvenamąja patalpa, jiems mokamas atlyginimas už šias dienas, taikomos socialinės garantijos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
 
 
 
 
-
-
-22 straipsnis. Tarnybos rezerve atlikimo sąlygos tarnaujant kariniuose vienetuose, krašto apsaugos savanorių pajėgose ar kituose aktyviojo rezervo kariniuose vienetuose 
-
-
-1. Atsižvelgdamas į Seimo nustatytą Lietuvos kariuomenės principinę struktūrą, ribinius skaičius, pareigybių kariniuose vienetuose, krašto apsaugos savanorių pajėgose ir kituose aktyviojo rezervo kariniuose vienetuose, į kuriuos atrenkami ir skiriami tarnybą rezerve atliksiantys kariai savanoriai ir kiti aktyviojo rezervo kariai, skaičių atitinkamiems kalendoriniams metams nustato krašto apsaugos ministras.
-
-
-
-
-2. Pareiškę norą raštu ir sudarę kario savanorio ar aktyviojo rezervo kario sutartį, karo prievolininkai atrenkami ir skiriami atlikti tarnybą rezerve paskiriant juos į pareigas kariniame vienete, krašto apsaugos savanorių pajėgose ar kitame aktyviojo rezervo kariniame vienete. 
-
-
-
-
-3. Kario savanorio ar kito aktyviojo rezervo kario atliekamos tarnybos rezerve trukmė – nuo kario savanorio ar aktyviojo rezervo kario sutarties sudarymo iki sutarties pabaigos dienos.
-
-
-
-
-4. Į karinį vienetą, krašto apsaugos savanorių pajėgas ar kitą aktyviojo rezervo karinį vienetą paskirti karo prievolininkai Lietuvos kariuomenės vado ar jo įgalioto asmens įsakymu dalyvauja mokymuose, pratybose, vykdo Lietuvos kariuomenei įstatymuose nustatytus uždavinius. 
-
-
-
-
-5. Tarnyba rezerve atliekama, kario savanorio ir aktyviojo rezervo kario sutartis sudaroma ir nutraukiama Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatytomis sąlygomis ir tvarka. 
+22 straipsnis. Neteko galios nuo 2020-07-01
+Straipsnio naikinimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
 
 
 
 
+23 straipsnis. Tarnybos aktyviajame rezerve atlikimo ypatumai 
 
 
-23 straipsnis. Tarnybos rezerve atlikimo sąlygos tarnaujant parengtojo rezervo kariniuose vienetuose 
-
-
-1. Krašto apsaugos ministras Seimo Nacionalinio saugumo ir gynybos komiteto pritarimu nustato parengtojo rezervo karinių vienetų struktūrą. 
-
-
-
-
-2. Parengtojo rezervo kario atliekamos tarnybos rezerve trukmė – nuo paskyrimo į pareigas parengtojo rezervo kariniame vienete iki atleidimo iš pareigų dienos.
+1. Aktyviojo rezervo kario atliekamos tarnybos aktyviajame rezerve trukmė – 10 metų nuo skyrimo į aktyvųjį rezervą.
 
 
 
 
-3. Į parengtojo rezervo karinius vienetus paskirti karo prievolininkai dalyvauja to vieneto pratybose ar mokymuose nuo 20 iki 30 dienų per penkerius metus ir vykdo Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies 1 ir 2 punktuose nustatytas užduotis. Pratybų ar mokymų trukmę, periodiškumą ir programas nustato Lietuvos kariuomenės vadas. 
+2. Į aktyvųjį rezervą paskirti karo prievolininkai dalyvauja pratybose ar mokymuose nuo 20 iki 60 dienų per tarnybos aktyviajame rezerve laikotarpį, vykdo Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies 1 ir 2 punktuose nustatytas užduotis bei atlieka karo tarnybą mobilizacijos ir karo padėties metu. Pratybų ar mokymų trukmę, periodiškumą ir programas nustato Lietuvos kariuomenės vadas.
 
 
 
 
-4. Tarnyba rezerve tarnaujant parengtojo rezervo kariniuose vienetuose atliekama Krašto apsaugos sistemos ir karo tarnybos įstatymo nustatytomis sąlygomis ir tvarka.
+3. Tarnyba aktyviajame rezerve atliekama Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo nustatytomis sąlygomis ir tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
 
 
 
 
+24 straipsnis. Karo prievolininkų skyrimas į aktyvųjį rezervą, atleidimas iš jo, šaukimo į mokymus, pratybas ar vykdyti užduočių, atrankos ir skyrimo į pareigas kariniame vienete ir atleidimo iš jų tvarka
 
 
-24 straipsnis. Atrankos ir skyrimo į pareigas parengtojo rezervo kariniame vienete ir atleidimo iš jų tvarka
-
-
-1. Karo prievolininkai, atsižvelgiant į jų asmenines savybes, patirtį ir pasirengimą, atrenkami ir skiriami į pareigas parengtojo rezervo kariniame vienete, kurios paprastai atitinka jų turimą karinį laipsnį, karinę ir (ar) civilinę specialybę.
-
-
-
-
-2. Skiriant į pareigas parengtojo rezervo kariniame vienete, pirmenybė teikiama karo prievolininkams, raštu pareiškusiems norą tarnybą rezerve atlikti parengtojo rezervo kariniame vienete.
+1. Išleidžiami į atsargą tikrosios karo tarnybos kariai skiriami į aktyvųjį rezervą. Į aktyvųjį rezervą tikrosios karo tarnybos karius skiria vadas (viršininkas), išleidžiantis karius į atsargą. 
 
 
 
 
-3. Iš pareigų parengtojo rezervo kariniame vienete karo prievolininkai atleidžiami, kai:
+2. Aktyviojo rezervo kariai iš tarnybos aktyviajame rezerve karo prievolę administruojančios krašto apsaugos sistemos institucijos vadovo ar jo įgalioto asmens sprendimu atleidžiami, kai:
 
 
 1) priimami į profesinę karo tarnybą;
@@ -1120,12 +1200,12 @@ Nr. XIII-380, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09161
 
 
 
-2) paskiriami į nenuolatinę karo tarnybą kariniame vienete, krašto apsaugos savanorių pajėgose ar kitame aktyviojo rezervo kariniame vienete;
+2) paskiriami į savanorišką nenuolatinę karo tarnybą;
 
 
 
 
-3) sumažinamas parengtojo rezervo karių skaičius, pertvarkomas parengtojo rezervo karinis vienetas;
+3) netenka Lietuvos Respublikos pilietybės;
 
 
 
@@ -1135,48 +1215,82 @@ Nr. XIII-380, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09161
 
 
 
-5) įstatymų nustatyta tvarka pašalinami iš tarnybos parengtojo rezervo kariniame vienete;
+5) patikrinus sveikatos būklę paaiškėja, kad jie netinkami tarnybai aktyviajame rezerve;
 
 
 
 
-6) įsiteisėja teismo nuosprendis, kuriuo jie nuteisiami už nusikaltimą ir jiems skiriama bausmė, dėl kurios jie negali tęsti nenuolatinės karo tarnybos;
-
-
-
-
-7) teisės aktų nustatyta tvarka patikrinus sveikatos būklę paaiškėja, kad jie netinkami atlikti nenuolatinę karo tarnybą parengtojo rezervo kariniame vienete.
+6) pasibaigia tarnybos aktyviajame rezerve laikotarpis.
 
 
 
 
 
 
-4. Atrinkti karo prievolininkai skiriami į pareigas parengtojo rezervo kariniame vienete, jeigu teisės aktų nustatyta tvarka jų sveikatos būklė yra tinkama atlikti nenuolatinę karo tarnybą parengtojo rezervo kariniame vienete.
+3. Aktyviojo rezervo karių šaukimas į mokymus ir pratybas vykdomas kiekvienais metais. 
 
 
 
 
-5. Karo prievolininkų skyrimo į pareigas parengtojo rezervo kariniame vienete ir atleidimo iš jų tvarką nustato krašto apsaugos ministras.
+4. Kariuomenės vadas, atsižvelgdamas į krašto apsaugos ministro nustatytą į mokymus ir pratybas šaukiamų aktyviojo rezervo karių skaičių, tvirtina atitinkamų kalendorinių metų mokymų ir pratybų planą, kuriame nustatoma mokymų ir pratybų vieta, laikas, dalyvaujančių aktyviojo rezervo karių skaičius, taip pat šaukiamų aktyviojo rezervo karių pareigos, į kurias skiriama.
+
+
+
+
+5. Į mokymus ir pratybas ar vykdyti tarnybos užduočių šaukiami nustatytus reikalavimus pareigoms (karinis laipsnis, karinė specialybė), į kurias planuojama skirti, atitinkantys aktyviojo rezervo kariai.
+
+
+
+
+6. Aktyviojo rezervo kariai, pašaukti į mokymus ir pratybas ar vykdyti tarnybos užduočių, tarnybos laikotarpiu karinio vieneto vado (viršininko) skiriami į pareigas kariniame vienete ir pasibaigus tarnybos laikotarpiui atleidžiami iš jų.
+
+
+
+
+7. Aktyviojo rezervo kariai atleidžiami iš pareigų nepasibaigus tarnybos laikotarpiui, kai:
+
+
+1) atsiranda šio straipsnio 2 dalyje nustatytos aplinkybės;
+
+
+
+
+2) atsiranda šio įstatymo 15 straipsnio 1 dalies 3–14 punktuose nustatytos aplinkybės;
+
+
+
+
+3) sutrinka sveikata ir sveikatos sutrikimas gali nesibaigti iki mokymų, pratybų ar užduočių vykdymo laikotarpio pabaigos.
+
+
+
+
+
+
+8. Karo prievolininkų skyrimo į tarnybą aktyviajame rezerve, atleidimo iš jos, aktyviojo rezervo karių šaukimo į mokymus ir pratybas ar vykdyti tarnybos užduočių tvarką, taip pat pašauktų aktyviojo rezervo karių skyrimo į pareigas kariniame vienete ir atleidimo iš jų tvarką nustato krašto apsaugos ministras. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
 
 
 
 
+25 straipsnis. Aktyviojo rezervo karių šaukimo į mokymus ir pratybas ar vykdyti tarnybos užduočių atidėjimas
 
 
-25 straipsnis Tarnybos rezerve atidėjimas
-
-
-1. Atliekant atranką į pareigas parengtojo rezervo kariniuose vienetuose, tarnyba rezerve atidedama šio įstatymo 15 straipsnio 1 dalies 3–14 punktuose nurodytiems karo prievolininkams. 
+1. Šaukimas į mokymus ir pratybas ar vykdyti tarnybos užduočių atidedamas šio įstatymo 15 straipsnio 1 dalies 3–14 punktuose nurodytiems karo prievolininkams.
 
 
 
 
-2. Atliekant atranką į pareigas kariniuose vienetuose, parengtojo rezervo kariniuose vienetuose, krašto apsaugos savanorių pajėgose ar kituose aktyviojo rezervo kariniuose vienetuose, tarnyba rezerve atidedama karo prievolininkams, kurie dėl sveikatos būklės laikinai yra netinkami atlikti tarnybą rezerve, iki baigsis laikinas jų sveikatos sutrikimas.
+2. Vykdant šaukimą į mokymus ir pratybas ar vykdyti tarnybos užduočių, tarnyba atidedama aktyviojo rezervo kariams, kurių sveikatos būklę patikrinus nustatyta, kad jie dėl laikinų sveikatos sutrikimų negali dalyvauti mokymuose ir pratybose ar vykdyti tarnybos užduočių, iki baigsis laikinas jų sveikatos sutrikimas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
-
-
 
 
 
@@ -1210,6 +1324,13 @@ Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
 
 
 4. Šio straipsnio 3 dalyje nustatyti kariniai mokymai atliekami mokomuosiuose kariniuose vienetuose pagal Lietuvos kariuomenės vado patvirtintas programas. 
+
+
+
+
+5. Karo prievolininkams, pašauktiems į tarnybą Lietuvos kariuomenėje paskelbus mobilizaciją, atsižvelgiant į turimą, suteiktą kario laipsnį, mokamas atitinkamo laipsnio pirmų metų profesinės karo tarnybos kariui nustatyto dydžio tarnybinis atlyginimas. Karo prievolininkai, pašaukti į tarnybą paskelbus mobilizaciją, aprūpinami mutatis mutandis taikant šio įstatymo 5 straipsnio 4 dalies nuostatas, išskyrus išmokas buitinėms išlaidoms ir premijas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
 
 
@@ -1230,7 +1351,10 @@ Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
 
 
 
-3. Karo prievolininkai atlikti tarnybą paskelbus mobilizaciją skiriami tik teisės aktų nustatyta tvarka patikrinus jų sveikatą ir nustačius, kad jie tinkami atlikti tarnybą paskelbus mobilizaciją. Šis reikalavimas netaikomas karo prievolininkams, kurie iki mobilizacijos paskelbimo atliko tarnybą rezerve.
+3. Karo prievolininkai atlikti tarnybą paskelbus mobilizaciją skiriami tik patikrinus jų sveikatą ir nustačius, kad jie tinkami atlikti tarnybą paskelbus mobilizaciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
@@ -1300,12 +1424,18 @@ Tarnyba paskelbus mobilizaciją atidedama šiems karo prievolininkams:
 
 
 
-4) vidaus tarnybos sistemos pareigūnams, išskyrus pareigūnus, tarnaujančius tose vidaus tarnybos sistemos institucijose, kurios karo padėties ar ginkluotos gynybos nuo agresijos (karo) atveju įstatymais yra priskiriamos ginkluotosioms pajėgoms;
+4) vidaus tarnybos sistemos pareigūnams, išskyrus pareigūnus, tarnaujančius tose statutinėse įstaigose, kurios karo padėties ar ginkluotos gynybos nuo agresijos (karo) atveju įstatymais yra priskiriamos ginkluotosioms pajėgoms, taip pat finansų ministro valdymo srities statutinėse įstaigose; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-5) Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos pareigūnams, išskyrus pareigūnus, kuriuos numatoma mobilizuoti pagal mobilizacinius planus;
+5) netenka galios 2020-07-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
@@ -1365,32 +1495,57 @@ Karo prievolę administruojančios krašto apsaugos sistemos institucijos pagrin
 
 
 
-3) atlikti šaukimą į privalomąją karo tarnybą;
+3) informuoti karo prievolininkus apie jų skyrimą į aktyvųjį rezervą ir atleidimą iš jo krašto apsaugos ministro nustatyta tvarka; 
+Papildyta straipsnio punktu:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-4) organizuoti karo prievolininkų atranką į privalomąją karo tarnybą ir atrinktų karo prievolininkų sveikatos patikrinimą, nustatyti jų tinkamumą privalomajai karo tarnybai ar alternatyviajai krašto apsaugos tarnybai;
+4) atlikti šaukimą į privalomąją karo tarnybą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-5) tinkamus karo prievolininkus skirti į privalomąją karo tarnybą ar alternatyviąją krašto apsaugos tarnybą ir pasiųsti į tarnybos atlikimo vietą;
+5) organizuoti karo prievolininkų atranką į privalomąją karo tarnybą ir atrinktų karo prievolininkų sveikatos patikrinimą, nustatyti jų tinkamumą privalomajai karo tarnybai ar alternatyviajai krašto apsaugos tarnybai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-6) organizuoti aukštųjų mokyklų studentų ir absolventų atranką į jaunesniųjų karininkų vadų mokymus;
+6) tinkamus karo prievolininkus skirti į privalomąją karo tarnybą ar alternatyviąją krašto apsaugos tarnybą ir pasiųsti į tarnybos atlikimo vietą;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-7) nagrinėti rašytinius Lietuvos Respublikos piliečių prašymus karo prievolės klausimais;
+7) organizuoti aukštųjų mokyklų studentų ir absolventų atranką į jaunesniųjų karininkų vadų mokymus;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
 
-8) atlikti savo nuostatuose nustatytus kitus uždavinius ir funkcijas.
+8) nagrinėti rašytinius Lietuvos Respublikos piliečių prašymus karo prievolės klausimais;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
+
+
+
+
+9) atlikti savo nuostatuose nustatytus kitus uždavinius ir funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
 
 
@@ -1530,85 +1685,27 @@ Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
 35 straipsnis. Karinė įskaita
 
 
-1. Karinei įskaitai tvarkyti Vyriausybė steigia Karo prievolininkų registrą. Karo prievolininkų registro vadovaujančioji tvarkymo įstaiga – Lietuvos Respublikos krašto apsaugos ministerija, Karo prievolininkų registro tvarkymo įstaiga – karo prievolę administruojanti krašto apsaugos sistemos institucija.
+1. Karinei įskaitai tvarkyti Vyriausybė steigia Lietuvos Respublikos karo prievolininkų registrą, kuriame karo prievolės administravimo tikslais yra tvarkomi karo prievolininkų asmens duomenys. Šiame registre gali būti tvarkomi karo prievolininkų specialių kategorijų asmens duomenys, taip pat duomenys apie įtariamojo ar kaltinamojo statusą baudžiamajame procese, padarytą nusikalstamą veiką, paskirtą baudžiamojo poveikio priemonę ar bausmę už padarytą nusikalstamą veiką ir jos vykdymą. 
 
 
 
 
-2. Karo prievolininkų registre įrašomi ir tvarkomi šie karo prievolininkų asmens duomenys:
-
-
-1) vardas ir pavardė;
+2. Karo prievolę administruojanti krašto apsaugos sistemos institucija ar jos padalinys turi teisę gauti iš visų valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų bei jų padalinių, taip pat registrų, informacinių sistemų informaciją, dokumentus, duomenis, įskaitant asmens duomenis, specialių kategorijų asmens duomenis, reikalingus karinei įskaitai tvarkyti ir šaukimui vykdyti, o šioje dalyje nurodyti asmenys privalo minėtos krašto apsaugos sistemos institucijos ar jos padalinio prašymu tokią informaciją, dokumentus, duomenis, įskaitant asmens duomenis, specialių kategorijų asmens duomenis, pateikti.
 
 
 
 
-2) gimimo data;
+3. Lietuvos Respublikos karo prievolininkų registro valdytoja – Lietuvos Respublikos krašto apsaugos ministerija. Šio registro tvarkytojai paskiriami Vyriausybės nutarimu, kuriuo tvirtinami Lietuvos Respublikos karo prievolininkų registro nuostatai.
 
 
 
 
-3) asmens kodas;
+4. Asmenys į karinę įskaitą įrašomi, kai teisės aktų nustatyta tvarka priskiriami karo prievolininkams, ir išbraukiami iš karinės įskaitos, kai atleidžiami nuo karo prievolės, miršta, teismo paskelbiami mirusiais ar nežinia kur esančiais. 
 
 
-
-
-4) karo prievolininko kodas; 
-
-
-
-
-5) duomenys apie šeimos sudėtį (tėvai, įtėviai, sutuoktinis ar sugyventinis, vaikai, įvaikiai), taip pat šeimos nario vardas, pavardė, gimimo data, asmens kodas, deklaruota ir faktinė gyvenamoji vieta;
-
-
-
-
-6) duomenys apie deklaruotą ir faktinę gyvenamąją vietą;
-
-
-
-
-7) duomenys apie išsilavinimą, specialybę ir kvalifikaciją;
-
-
-
-
-8) duomenys apie sveikatos būklę;
-
-
-
-
-9) duomenys apie darbo vietą ar pagrindinį užsiėmimą, išskyrus įstatymų nustatytas išimtis;
-
-
-
-
-10) duomenys apie įtariamojo ar kaltinamojo statusą baudžiamajame procese, apie paskirtą baudžiamojo poveikio priemonę ar bausmę (viešuosius darbus, baudą, laisvės apribojimą, areštą, terminuotą laisvės atėmimą ar laisvės atėmimą iki gyvos galvos) už padarytą nusikalstamą veiką ir jos vykdymą, apie teistumą už tyčinius nusikaltimus;
-
-
-
-
-11) duomenys apie įgytą pagrindinį karinį parengtumą, atliktą karo tarnybą, alternatyviąją krašto apsaugos tarnybą, turimą karinį laipsnį ir karines specialybes;
-
-
-
-
-12) duomenys apie karo prievolininko priskyrimą kariniam vienetui, parengtojo rezervo kariniam vienetui, krašto apsaugos savanorių pajėgoms ar kitam aktyviojo rezervo kariniam vienetui;
-
-
-
-
-13) duomenys ryšiams palaikyti (elektroninio pašto adresas, telefono ryšio numeris).
-
-
-
-
-
-
-3. Asmenys į karinę įskaitą įrašomi, kai teisės aktų nustatyta tvarka priskiriami karo prievolininkams, ir išbraukiami iš karinės įskaitos, kai atleidžiami nuo karo prievolės, miršta, teismo paskelbiami mirusiais ar nežinia kur esančiais.
+Straipsnio pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
-
-
 
 
 
@@ -1616,10 +1713,12 @@ Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
 36 straipsnis. Karo prievolininkų sveikatos tikrinimas
 
 
-Vyriausybės nustatyta tvarka karo prievolininkų sveikatą tikrina krašto apsaugos sistemos sveikatos priežiūros įstaigos, kurios naudojasi ir kitų sveikatos priežiūros įstaigų teikiamomis paslaugomis.
+Vyriausybės nustatyta tvarka ir periodiškumu karo prievolininkų sveikatą tikrina krašto apsaugos sistemos sveikatos priežiūros įstaigos, kurios naudojasi ir kitų, krašto apsaugos sistemai nepriklausančių, sveikatos priežiūros įstaigų teikiamomis paslaugomis. Mobilizacijos metu Vyriausybės nustatyta tvarka karo prievolininkų sveikatą tikrina ir kitos sveikatos priežiūros įstaigos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
-
-
 
 
 
@@ -1833,55 +1932,23 @@ Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 41 straipsnis. Lengvatos Lietuvos Respublikos piliečiams, atlikusiems nuolatinę privalomąją pradinę karo tarnybą
 
 
-1. Nuolatinę privalomąją pradinę karo tarnybą atlikusiems asmenims taikomos šios lengvatos:
-
-
-1) darbo ir įdarbinimo subsidijavimas; 
+1. Karo prievolininkams, atlikusiems nuolatinę privalomąją pradinę karo tarnybą ir grįžusiems į darbą, taikoma šio straipsnio 2 dalyje nustatyta subsidija darbo užmokesčiui.
 
 
 
 
-2) asmenims, atlikusiems nuolatinę privalomąją pradinę karo tarnybą, aukštosios mokyklos gali nustatyti lengvatų, suteikiančių jiems pirmenybę stojant į valstybės finansuojamas studijų vietas;
+2. Darbdaviams, įdarbinusiems nuolatinę privalomąją pradinę karo tarnybą atlikusius karo prievolininkus, mokama subsidija darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, ir nuo šio darbo užmokesčio apskaičiuotoms draudėjo privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti (toliau – subsidija darbo užmokesčiui). Jeigu įdarbinto asmens darbo sutartis sudaryta ne visam darbo laikui arba jis dirbo ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą ar darbo sutartyje nustatytą dienos (valandinį) atlygį. Subsidijos darbo užmokesčiui dydis yra iki 100 procentų apskaičiuotų lėšų nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotos draudėjo privalomojo valstybinio socialinio draudimo įmokos suma. Subsidijos darbo užmokesčiui dydį, neviršijant 1,17 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, ir subsidijos darbo užmokesčiui mokėjimo tvarką nustato Vyriausybė. Darbdaviams, įdarbinusiems nuolatinę privalomąją pradinę karo tarnybą atlikusius karo prievolininkus, subsidija darbo užmokesčiui mokama 6 mėnesius. Ši subsidija taikoma, jeigu karo prievolininkas buvo įdarbintas per 3 mėnesius nuo nuolatinės privalomosios pradinės karo tarnybos atlikimo datos. 
 
 
 
 
-3) keliems pretendentams, dalyvaujantiems konkurse į valstybės tarnautojo pareigas, pagal nustatytus atrankos kriterijus surinkus vienodus rezultatus, teikiama pirmenybė atlikusiems nuolatinę privalomąją pradinę karo tarnybą;
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio (2016 m. birželio 16 d. redakcija; TAR, 2016-06-23, Nr. 17527) 1 dalies 3 punktas prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsniui, 33 straipsnio 1 dalies nuostatai „Piliečiai turi teisę <...> lygiomis sąlygomis stoti į Lietuvos Respublikos valstybinę tarnybą“.
-Straipsnio punkto pakeitimai:
-Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
- 
-
-
-
-
-4) asmenims, atitinkantiems teisės aktuose nustatytus reikalavimus, teikiama pirmenybė priimant į statutinių valstybės tarnautojų profesines mokymo įstaigas ar kitas mokymo įstaigas, kurias baigus suteikiama teisė užimti statutinio valstybės tarnautojo pareigas, taip pat priimant į statutines valstybės tarnautojo pareigas, kai priimama be konkurso.
-
-
-
-
-
-
-2. Įgyvendinant šio straipsnio 1 dalies 1 punkte nurodytą nuostatą, darbdaviams, įdarbinusiems nuolatinę privalomąją pradinę karo tarnybą atlikusius karo prievolininkus, mokama subsidija darbo užmokesčiui, nurodytam įdarbinto asmens darbo sutartyje, ir nuo šio darbo užmokesčio apskaičiuotoms draudėjo privalomojo valstybinio socialinio draudimo įmokoms iš dalies kompensuoti (toliau – subsidija darbo užmokesčiui). Jeigu įdarbinto asmens darbo sutartis sudaryta ne visam darbo laikui arba jis dirbo ne visą mėnesio darbo laiką, subsidijos darbo užmokesčiui dydis skaičiuojamas už faktiškai dirbtą laiką pagal apskaičiuotą ar darbo sutartyje nustatytą dienos (valandinį) atlygį. Subsidijos darbo užmokesčiui dydis, kai įdarbinami asmenys, nurodyti šio straipsnio 1 dalyje, yra iki 100 procentų apskaičiuotų lėšų nuo įdarbinto asmens darbo užmokesčio ir nuo šio darbo užmokesčio apskaičiuotos draudėjo privalomojo valstybinio socialinio draudimo įmokos suma. Subsidijos darbo užmokesčiui dydį, neviršijant 1,17 Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio, ir subsidijos darbo užmokesčiui mokėjimo tvarką nustato Vyriausybė. Darbdaviams, įdarbinusiems nuolatinę privalomąją pradinę karo tarnybą atlikusius karo prievolininkus, subsidija darbo užmokesčiui mokama 6 mėnesius. Ši subsidija taikoma, jeigu karo prievolininkas buvo įdarbintas per 3 mėnesius nuo nuolatinės privalomosios pradinės karo tarnybos atlikimo datos. 
-TAR pastaba. 41 straipsnio 2 dalies nuostatos taikomos mokant subsidijas darbo užmokesčiui už laikotarpius po įstatymo Nr. XIII-1807 įsigaliojimo (2019-01-01). Mokant subsidijas darbo užmokesčiui už laikotarpius iki šio įstatymo įsigaliojimo, taikomi teisės į subsidiją atsiradimo momentu Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio 2 dalyje nustatyti dydžiai.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1807, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21820
- 
-
-
-
-
-3. Karo prievolininkams, atlikusiems nuolatinę privalomąją pradinę karo tarnybą ir grįžusiems į darbą, taikoma šio straipsnio 2 dalyje nustatyta subsidija darbo užmokesčiui.
-
-
-
-
-4. Šio straipsnio 1 dalies 1 punkte nurodyta lengvata finansuojama iš valstybės biudžeto, Europos Sąjungos struktūrinių ir kitų fondų bei šaltinių.
+3. Šiame straipsnyje nurodyta lengvata finansuojama iš valstybės biudžeto, Europos Sąjungos struktūrinių ir kitų fondų bei šaltinių. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-1607, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06032
 Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
 
 
@@ -1890,7 +1957,7 @@ Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
 411 straipsnis. Nuolatinę privalomąją pradinę karo tarnybą atliekančių Lietuvos Respublikos piliečių skatinimas
 
 
-1. Nuolatinę privalomąją pradinę karo tarnybą atliekantys asmenys yra skatinami piniginėmis išmokomis, kurias sudaro kas mėnesį skaičiuojamos šio dydžio sumos, priklausančios nuo atliktos tarnybos vertinimo rezultatų:
+1. Nuolatinę privalomąją pradinę karo tarnybą atliekantys asmenys, išskyrus atvejus, kai jų tarnyba įvertinta nepatenkinamai arba jie nevykdė tarnybos, yra skatinami piniginėmis išmokomis, kurias sudaro kas mėnesį skaičiuojamos šio dydžio sumos, priklausančios nuo atliktos tarnybos vertinimo rezultatų:
 
 
 1) 4 bazinės socialinės išmokos – asmenims, kurių tarnyba įvertinta labai gerai;
@@ -1903,9 +1970,12 @@ Nr. XII-2430, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17527
 
 
 
-3) 2 bazinės socialinės išmokos – asmenims, kurių tarnyba įvertinta patenkinamai.
+3) 2 bazinės socialinės išmokos – asmenims, kurių tarnyba įvertinta patenkinamai. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
 
 
 
@@ -2122,3 +2192,8 @@ Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 41 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 2, 4, 5, 6, 6-1, 12, 15, 21, 23, 24, 25, 26, 27, 29, 31, 35, 36, 41, 41-1 straipsnių, IV skyriaus pavadinimo pakeitimo ir 22 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2910, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10907
+Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 15 straipsnio pakeitimo įstatymas
