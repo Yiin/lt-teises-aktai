@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2020-06-16 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-10-09
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
  
@@ -1323,35 +1323,32 @@ Valstybinio socialinio draudimo įmokų tarifai ligos socialiniam draudimui ir m
 33 straipsnis. Išmokų skyrimas ir mokėjimas, permokėtų išmokų sumų išieškojimas
 
 
-1. Šiame įstatyme numatytas išmokas, išskyrus darbdavio mokamas ligos išmokas už dvi pirmąsias kalendorines nedarbingumo dienas, skiria ir moka Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai (toliau – Fondo valdybos teritoriniai skyriai) arba Valstybinio socialinio draudimo fondo valdybos Karinių ir joms prilygintų struktūrų skyrius (toliau – Karinių ir joms prilygintų struktūrų skyrius), vadovaudamiesi šiuo įstatymu ir Ligos ir motinystės socialinio draudimo išmokų nuostatais. 
+1. Šiame įstatyme numatytas išmokas, išskyrus darbdavio mokamas ligos išmokas už dvi pirmąsias kalendorines nedarbingumo dienas, skiria ir moka Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai (toliau – Fondo valdybos teritoriniai skyriai), vadovaudamiesi šiuo įstatymu ir Ligos ir motinystės socialinio draudimo išmokų nuostatais. 
 
 
 
 
-2. Fondo valdybos teritorinis skyrius arba Karinių ir joms prilygintų struktūrų skyrius sprendimą dėl išmokų skyrimo priima ne vėliau kaip per 10 darbo dienų nuo prašymo ir visų reikalingų dokumentų ir (ar) duomenų gavimo Fondo valdybos teritoriniame skyriuje arba Karinių ir joms prilygintų struktūrų skyriuje dienos. 
+2. Fondo valdybos teritorinis skyrius sprendimą dėl išmokų skyrimo priima ne vėliau kaip per 10 darbo dienų nuo prašymo, visų reikalingų dokumentų ir (ar) duomenų gavimo Fondo valdybos teritoriniame skyriuje dienos. 
 
 
 
 
-3. Fondo valdybos teritorinis skyrius arba Karinių ir joms prilygintų struktūrų skyrius, priėmęs sprendimą neskirti išmokos, ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos išsiunčia (įteikia) pareiškėjui sprendimą ar jo nuorašą. Sprendime nurodoma išmokos neskyrimo priežastis ir šio sprendimo apskundimo tvarka ir terminai. Sprendimas skirti išmoką ar jo nuorašas siunčiamas (įteikiamas) tik asmens prašymu. Kai prašymas skirti išmoką pateikiamas per Elektroninę gyventojų aptarnavimo sistemą, sprendimas skirti išmoką ar jos neskirti pateikiamas per šią sistemą.
-Straipsnio dalies pakeitimai:
-Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
- 
+3. Fondo valdybos teritorinis skyrius, priėmęs sprendimą dėl išmokos, per vieną darbo dieną nuo sprendimo priėmimo dienos informuoja pareiškėją, sprendimo nuorašą (kopiją, išrašą) pateikdamas Elektroninėje gyventojų aptarnavimo sistemoje, išskyrus tą pareiškėją, kuriam išmoka paskirta naudojantis karinių ir joms prilygintų struktūrų apdraustųjų informacine duomenų baze. Sprendime nurodomos teisės aktų normos, kuriomis pagrįstas priimtas sprendimas, sprendimo apskundimo tvarka ir terminai, o jeigu priimamas sprendimas neskirti išmokos, – ir išmokos neskyrimo priežastis. Sprendimo nuorašas (kopija, išrašas), pareiškėjui pateikus prašymą gauti jį paštu, išsiunčiamas registruotu laišku per 3 darbo dienas nuo prašymo pateikimo dienos. Sprendimo neskirti išmokos nuorašą (kopiją, išrašą) pareiškėjui, kuriam sprendimas neskirti išmokos priimtas naudojantis karinių ir joms prilygintų struktūrų apdraustųjų informacine  duomenų baze, Fondo valdybos Vilniaus skyrius registruotu laišku išsiunčia per 3 darbo dienas nuo sprendimo priėmimo dienos. Pareiškėjas sprendimo nuorašą (kopiją, išrašą) gali atsiimti bet kuriame Fondo valdybos teritoriniame skyriuje, išskyrus pareiškėją, kuriam išmoka paskirta naudojantis karinių ir joms prilygintų struktūrų apdraustųjų informacine duomenų baze – jis sprendimo nuorašą (kopiją, išrašą) gali atsiimti tik Fondo valdybos Vilniaus skyriuje.
 
 
 
 
-4. Ligos, profesinės reabilitacijos, motinystės ir tėvystės socialinio draudimo išmokos skiriamos ir mokamos nuo teisės gauti išmoką atsiradimo dienos, jeigu dėl jų kreipiamasi ne vėliau kaip per 12 mėnesių nuo ligos, profesinės reabilitacijos, nėštumo ir gimdymo ar tėvystės atostogų pabaigos. Tais atvejais, kai elektroninis nedarbingumo pažymėjimas išduodamas ligai pasibaigus, ligos išmoka skiriama ir mokama nuo teisės gauti išmoką atsiradimo dienos, jeigu dėl jos kreipiamasi ne vėliau kaip per 12 mėnesių nuo elektroninio nedarbingumo pažymėjimo išdavimo dienos. Vaiko priežiūros išmoka skiriama ir mokama nuo teisės gauti šią išmoką atsiradimo dienos, jeigu dėl jos kreipiamasi ne vėliau kaip per 12 mėnesių, skaičiuojant nuo laikotarpio, už kurį asmuo turi teisę gauti išmoką, pabaigos. 
+4. Ligos, profesinės reabilitacijos, motinystės ir tėvystės socialinio draudimo išmokos skiriamos ir mokamos nuo teisės gauti išmoką atsiradimo dienos, jeigu dėl jų kreipiamasi ne vėliau kaip per 12 mėnesių nuo ligos, profesinės reabilitacijos, nėštumo ir gimdymo ar tėvystės atostogų pabaigos. Tais atvejais, kai elektroninis nedarbingumo pažymėjimas išduodamas ligai pasibaigus, ligos išmoka skiriama ir mokama nuo teisės gauti išmoką atsiradimo dienos, jeigu dėl jos kreipiamasi ne vėliau kaip per 12 mėnesių nuo elektroninio nedarbingumo pažymėjimo išdavimo dienos. Vaiko priežiūros išmoka skiriama ir mokama nuo teisės gauti šią išmoką atsiradimo dienos, jeigu dėl jos kreipiamasi ne vėliau kaip per 12 mėnesių nuo laikotarpio, už kurį asmuo turi teisę gauti išmoką, pabaigos. 
 
 
 
 
 5. Permokėtos išmokų sumos, įskaitant atvejus, kai apdraustajam asmeniui ligos išmoka permokama dėl to, kad jam darbingumo lygis, pagal kurį paskiriama ir (ar) mokama socialinio draudimo netekto darbingumo pensija, nustatomas atgaline data, išieškomos Valstybinio socialinio draudimo įstatymo nustatyta tvarka.
-Straipsnio dalies pakeitimai:
-Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2891, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10792
  
-
-
 
 
 
@@ -1713,3 +1710,8 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3006, 2020-06-04, paskelbta TAR 2020-06-15, i. k. 2020-13045
 Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 11-1 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2891, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10792
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 33 straipsnio pakeitimo įstatymas
