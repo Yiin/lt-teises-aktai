@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/bb38ee90263911e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2023-12-31
  
 Įstatymas paskelbtas: TAR 2015-07-09, i. k. 2015-11209
+ 
+TAR pastaba. Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymas (2015 m. birželio 25 d. redakcija; TAR, 2015-07-09, Nr. 11209) pagal priėmimo tvarką prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 2, 3 dalims, konstituciniams teisinės valstybės, atsakingo valdymo principams.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT22-N1/2020, 2020-02-06, paskelbta TAR 2020-07-01, i. k. 2020-14609
+Dėl Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo atitikties Lietuvos Respublikos Konstitucijai
  
  
 
@@ -591,7 +596,7 @@ Nr. XIII-1214, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09729
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
 
 
  
@@ -607,3 +612,8 @@ Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pien�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1214, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09729
 Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo Nr. XII-1907 2, 3, 5, 6 ir 14 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT22-N1/2020, 2020-02-06, paskelbta TAR 2020-07-01, i. k. 2020-14609
+Dėl Lietuvos Respublikos ūkio subjektų, perkančių–parduodančių žalią pieną ir prekiaujančių pieno gaminiais, nesąžiningų veiksmų draudimo įstatymo atitikties Lietuvos Respublikos Konstitucijai
