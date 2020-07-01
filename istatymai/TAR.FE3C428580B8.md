@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FE3C428580B8"
 
 # Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymas
 
-Suvestinė redakcija nuo 2020-06-12 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2021-05-27
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 115-5192, i. k. 1031010ISTA0IX-1837
  
@@ -1792,7 +1792,11 @@ Nr. XII-1415, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20559
 
 98 straipsnis. Baigiamosios nuostatos
 
-Šiame įstatyme nustatyta rinkimų į Europos Parlamentą rengimo ir vykdymo tvarka negali būti keičiama likus mažiau kaip 6 mėnesiams iki rinkimų į Europos Parlamentą dienos, išskyrus atvejus, kai būtina pašalinti šio įstatymo ar jo dalies prieštaravimą Lietuvos Respublikos Konstitucijai arba kai šis įstatymas yra keičiamas Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo 3 straipsnio 10 dalyje nustatyta tvarka. 
+Šis įstatymas negali būti keičiamas nuo rinkimų į Europos Parlamentą datos paskelbimo dienos iki rinkimų galutinių rezultatų paskelbimo arba rinkimų rezultatų pripažinimo negaliojančiais dienos, išskyrus atvejus, kai reikia įgyvendinti Konstitucinio Teismo nutarimą arba Europos Sąjungos teisės aktą.
+
+Straipsnio pakeitimai:
+Nr. XIII-1589, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18203
+ 
 
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
