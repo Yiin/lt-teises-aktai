@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2020-04-03 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-10
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -423,7 +423,10 @@ Nr. XIII-602, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12175
 
 
 
-12) socialinių paslaugų planavimas ir teikimas, socialinių paslaugų įstaigų steigimas, išlaikymas ir bendradarbiavimas su nevyriausybinėmis organizacijomis;
+12) socialinių paslaugų teikimo užtikrinimas planuojant ir organizuojant socialines paslaugas, kontroliuojant bendrųjų socialinių paslaugų ir socialinės priežiūros kokybę, taip pat socialinių paslaugų įstaigų steigimas ir išlaikymas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2946, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11672
+ 
 
 
 
@@ -5517,3 +5520,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 14 ir 15 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2829, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06898
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 14 ir 15 straipsnių pakeitimo įstatymas
+ 
+46.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2946, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11672
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 straipsnio pakeitimo įstatymas
