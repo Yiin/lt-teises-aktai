@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-23
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -599,7 +599,9 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-65. Specialioji transporto priemonė – policijos, greitosios medicinos pagalbos, priešgaisrinės apsaugos ir gelbėjimo tarnybos, dujų įmonės avarinės tarnybos, aplinkos apsaugos valstybinės kontrolės institucijos motorinė transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais, Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos pavaldžios laisvės atėmimo vietos transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais, pritaikyta suimtiesiems ir nuteistiesiems konvojuoti į gydymo įstaigas, vidaus reikalų statutinės įstaigos, prokuratūros, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos, Lietuvos kariuomenės Specialiųjų operacijų pajėgų, Karo policijos, muitinės, Lietuvos transporto saugos administracijos specialiomis spalvomis nudažyta ar nenudažyta motorinė transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais. 
+65. Specialioji transporto priemonė – policijos, greitosios medicinos pagalbos, priešgaisrinės apsaugos ir gelbėjimo tarnybos, dujų įmonės avarinės tarnybos, aplinkos apsaugos valstybinės kontrolės institucijos motorinė transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais, Kalėjimų departamentui prie Lietuvos Respublikos teisingumo ministerijos pavaldžios įstaigos transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais, pritaikyta suimtiesiems ir nuteistiesiems konvojuoti į gydymo įstaigas, vidaus reikalų ministro valdymo srities statutinės įstaigos, prokuratūros, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos, Lietuvos Respublikos vadovybės apsaugos tarnybos, Lietuvos kariuomenės Specialiųjų operacijų pajėgų, Karo policijos, muitinės, Lietuvos transporto saugos administracijos specialiomis spalvomis nudažyta ar nenudažyta motorinė transporto priemonė su specialiaisiais šviesos ir garso signalais arba tik su specialiaisiais šviesos signalais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2920, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10921
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -2154,7 +2156,10 @@ Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
 19 straipsnis. Specialiųjų transporto priemonių vairuotojų teisės ir pareigos 
 
 
-1. Specialiųjų transporto priemonių vairuotojai, turintys leidimus naudoti mėlynus ir raudonus švyturėlius bei specialiuosius garso signalus, gali naudotis įjungtais mėlynais ir raudonais arba tik mėlynais švyturėliais ir specialiaisiais garso signalais tik tuo atveju, kai tai būtina gelbėjant žmogaus gyvybę, sveikatą ar turtą, užtikrinant viešąją tvarką ir eismo saugumą, sulaikant įtariamus padarius teisės pažeidimą asmenis, eskortuojant ir lydint Lietuvos Respublikos vadovybės apsaugos įstatymo 2 straipsnio 2 dalyje nurodytus saugomus asmenis. 
+1. Specialiųjų transporto priemonių vairuotojai, turintys leidimus naudoti mėlynus ir raudonus švyturėlius bei specialiuosius garso signalus, gali naudotis įjungtais mėlynais ir raudonais arba tik mėlynais švyturėliais ir specialiaisiais garso signalais tik tuo atveju, kai tai būtina gelbėjant žmogaus gyvybę, sveikatą ar turtą, užtikrinant viešąją tvarką ir eismo saugumą, sulaikant teisės pažeidimų padarymu įtariamus asmenis, eskortuojant ir lydint Lietuvos Respublikos vadovybės apsaugos įstatyme nurodytus saugomus asmenis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2920, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10921
+ 
 
 
 
@@ -3701,3 +3706,8 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir 24 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2920, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10921
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir 19 straipsnių pakeitimo įstatymas
