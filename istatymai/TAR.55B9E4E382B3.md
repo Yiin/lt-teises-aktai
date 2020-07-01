@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.09)
 
 
 
-Suvestinė redakcija nuo 2019-10-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2023-09-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 18-0; Žin. 1990, Nr.17-439, i. k. 090XX01ISTA000I-130
  
@@ -224,7 +224,10 @@ Nr. XII-1517, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21280
 
 
 
-6) Lietuvos Respublikos generalinė prokuratūra, teritorinės prokuratūros, Lietuvos Respublikos valstybės saugumo departamentas, jo teritorinės įstaigos ir specialios paskirties įstaigos prie Lietuvos Respublikos valstybės saugumo departamento, Lietuvos Respublikos specialiųjų tyrimų tarnyba ir jos teritoriniai padaliniai, Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, teritorinės ir specializuotos policijos įstaigos;
+6) Lietuvos Respublikos generalinė prokuratūra, teritorinės prokuratūros, Lietuvos Respublikos valstybės saugumo departamentas, jo teritorinės įstaigos ir specialios paskirties įstaigos prie Lietuvos Respublikos valstybės saugumo departamento, Lietuvos Respublikos specialiųjų tyrimų tarnyba ir jos teritoriniai padaliniai, Lietuvos Respublikos vadovybės apsaugos tarnyba, Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos ir kitos policijos įstaigos;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2922, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10929
+ 
 
 
 
@@ -897,7 +900,7 @@ Nr. XII-158, 2013-01-17, Žin., 2013, Nr. 11-502 (2013-01-30)
  
  
 LIETUVOS RESPUBLIKOS
-AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                                           V.LANDSBERGIS 
+AUKŠČIAUSIOSIOS TARYBOS PIRMININKAS                                            V.LANDSBERGIS 
  
 Vilnius, 1990 m. balandžio 10 d.
 Nr. I-130 
@@ -1055,3 +1058,8 @@ Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2139, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09398
 Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo Nr. I-130 2, 8 ir 10 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2922, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10929
+Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo Nr. I-130 5 straipsnio pakeitimo įstatymas
