@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2020-06-12 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-31
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -1270,7 +1270,10 @@ Nr. XIII-416, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10024
 
 
 
-3) bedarbis atlieka privalomąją pradinę karo tarnybą ar alternatyviąją krašto apsaugos tarnybą arba bedarbis, kuris yra karys savanoris, kitas aktyviojo rezervo karys ar parengtojo rezervo karys, pašaukiamas į pratybas, mokymus ar vykdyti tarnybos užduočių, kai už tarnybos dienas jam mokamas atlyginimas;
+3) bedarbis atlieka privalomąją pradinę karo tarnybą, savanorišką nenuolatinę karo tarnybą ar alternatyviąją krašto apsaugos tarnybą arba bedarbis, kuris yra karys savanoris, kitas aktyviojo rezervo karys ar parengtojo rezervo karys, pašaukiamas į pratybas, mokymus ar vykdyti tarnybos užduočių, kai už tarnybos dienas jam mokamas atlyginimas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
+ 
 
 
 
@@ -3131,7 +3134,7 @@ Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
 
 
 
-4) šio įstatymo 25 straipsnio 1, 2, 6 ar 8 punkte nurodytas bedarbis, pradėjęs savo verslą sau įsteigtoje darbo vietoje, ilgiau kaip 120 dienų iš eilės arba daugiau kaip 140 dienų per pastaruosius 12 mėnesių nevykdo veiklos, išskyrus atvejus, kai bedarbis, pradėjęs savo verslą sau įsteigtoje darbo vietoje, informuoja Užimtumo tarnybą, kad ilgiau kaip 120 dienų iš eilės arba daugiau kaip 140 dienų per pastaruosius 12 mėnesių nevykdys veiklos dėl nėštumo ir gimdymo atostogų, tėvystės atostogų ir (arba) atostogų vaikui prižiūrėti arba privalomosios pradinės karo tarnybos ar alternatyviosios krašto apsaugos tarnybos atlikimo, nurodydamas veiklos nevykdymo laikotarpį. Įsteigtos darbo vietos išlaikymo ne mažiau kaip 36 mėnesius laikotarpis šiame punkte nurodytais atvejais pratęsiamas tiek, kiek trunka veiklos nevykdymo laikotarpis; 
+4) šio įstatymo 25 straipsnio 1, 2, 6 ar 8 punkte nurodytas bedarbis, pradėjęs savo verslą sau įsteigtoje darbo vietoje, ilgiau kaip 120 dienų iš eilės arba daugiau kaip 140 dienų per pastaruosius 12 mėnesių nevykdo veiklos, išskyrus atvejus, kai bedarbis, pradėjęs savo verslą sau įsteigtoje darbo vietoje, informuoja Užimtumo tarnybą, kad ilgiau kaip 120 dienų iš eilės arba daugiau kaip 140 dienų per pastaruosius 12 mėnesių nevykdys veiklos dėl nėštumo ir gimdymo atostogų, tėvystės atostogų ir (arba) atostogų vaikui prižiūrėti arba privalomosios pradinės karo tarnybos, savanoriškos nenuolatinės karo tarnybos ar alternatyviosios krašto apsaugos tarnybos atlikimo, nurodydamas veiklos nevykdymo laikotarpį. Įsteigtos darbo vietos išlaikymo ne mažiau kaip 36 mėnesius laikotarpis šiame punkte nurodytais atvejais pratęsiamas tiek, kiek trunka veiklos nevykdymo laikotarpis; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2878, 2020-04-30, paskelbta TAR 2020-05-07, i. k. 2020-09848
  
