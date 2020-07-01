@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-05-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 215-0; Žin. 1991, Nr.30-804, i. k. 0911010ISTA00I-1863
  
@@ -725,7 +725,10 @@ TAR pastaba. Bylos dėl Lietuvos Respublikos transporto veiklos pagrindų 191 st
 
 
 
-2. Įgaliotas padalinys yra Lietuvos policijos generalinio komisaro įsakymu įgaliota policijos įstaiga ar jos struktūrinis padalinys. Įgaliotam padaliniui priklauso Valstybės sienos apsaugos tarnybos ir Lietuvos Respublikos valstybės saugumo departamento (toliau – Valstybės saugumo departamentas) deleguoti pareigūnai, įgalioti atlikti funkcijas, susijusias su šio Įstatymo 1 priede nurodytų duomenų tvarkymu.
+2. Įgaliotas padalinys yra Lietuvos policijos generalinio komisaro įsakymu įgaliota policijos įstaiga ar jos struktūrinis padalinys. Įgaliotam padaliniui priklauso Valstybės sienos apsaugos tarnybos, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos ir Lietuvos Respublikos valstybės saugumo departamento deleguoti pareigūnai, įgalioti atlikti funkcijas, susijusias su šio Įstatymo 1 priede nurodytų duomenų tvarkymu.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2662, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20997
+ 
 
 
 
@@ -1375,3 +1378,8 @@ Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 1, 19, 19
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1856, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00092
 Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 3, 5, 11 ir 12 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2662, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20997
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 19-1 straipsnio pakeitimo įstatymas
