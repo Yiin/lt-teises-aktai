@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7"
 
 # Lietuvos Respublikos pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2020-04-30 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-11-18
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 75-3472, i. k. 1031010ISTA0IX-1691
  
@@ -62,7 +62,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Pensijų anuitetas – pensijų fondo dalyviui iki gyvos galvos mokama periodinė pensijos išmoka, kurios visa išmokėjimo rizika tenka pensijų anuiteto mokėtojui.
+2. Pensijų anuitetas – pensijų fondo dalyviui iki gyvos galvos mokama periodinė pensijos išmoka, kurios visa išmokėjimo rizika tenka pensijų anuitetų mokėtojui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
+ 
 
 
 
@@ -102,7 +105,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-10. Priežiūros institucija – Lietuvos bankas, šio įstatymo, Lietuvos Respublikos Lietuvos banko įstatymo ir kitų finansų rinkų priežiūrą reguliuojančių Lietuvos Respublikos įstatymų nustatyta tvarka atliekantis pensijų fondų valdymo įmonių, pensijų anuiteto mokėtojo ir draudimo įmonių veiklos priežiūros funkcijas.
+10. Priežiūros institucija – Lietuvos bankas, šio įstatymo, Lietuvos Respublikos Lietuvos banko įstatymo ir kitų finansų rinkų priežiūrą reguliuojančių Lietuvos Respublikos įstatymų nustatyta tvarka atliekantis pensijų fondų valdymo įmonių, pensijų anuitetų mokėtojo ir draudimo įmonių veiklos priežiūros funkcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
+ 
 
 
 
@@ -150,7 +156,10 @@ DALYVAVIMAS PENSIJŲ KAUPIME
 
 
 
-3. Pensijų kaupimo bendrovė įtraukiamam į pensijų kaupimą arba sutartį sudarančiam asmeniui privalo pasiūlyti kaupti pensijų įmokas dalyvio amžių atitinkančiame tikslinės grupės pensijų fonde.
+3. Pensijų kaupimo bendrovė sutartį sudarančiam asmeniui privalo pasiūlyti kaupti pensijų įmokas dalyvio amžių atitinkančiame tikslinės grupės pensijų fonde. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
+ 
 
 
 
@@ -374,7 +383,10 @@ DALYVAVIMAS PENSIJŲ KAUPIME
 
 
 
-2. Asmenims, tapusiems dalyviais nuo 2019 m. sausio 1 d. iki 2022 m. gruodžio 31 d., pensijų įmoka atitinkamais metais yra šio įstatymo priede nustatyto dydžio. 2019 m. dalyvio lėšomis mokama pensijų įmoka yra 1,8 procento jo pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, iš valstybės biudžeto už dalyvį mokamos pensijų įmokos dydis – 0,3 procento Lietuvos statistikos departamento paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkio. Dalyvio pageidavimu į jo pensijos sąskaitą gali būti mokama šio straipsnio 1 dalyje nurodyto dydžio pensijų įmoka, netaikant šios dalies nuostatų. Apie savo pasirinkimą dėl šio straipsnio 1 ar 2 dalyje nustatyto pensijų įmokos dydžio įtraukiamas asmuo informuoja pensijų kaupimo bendrovę ne vėliau kaip per 30 kalendorinių dienų nuo šio įstatymo 6 straipsnio 1 dalyje nurodytos pensijų įmokų skaičiavimo pradžios datos, o pensijų kaupimo sutartį sudarantis asmuo – sudarydamas pensijų kaupimo sutartį.
+2. Asmenims, tapusiems dalyviais nuo 2019 m. sausio 1 d. iki 2022 m. gruodžio 31 d., pensijų įmoka atitinkamais metais yra šio įstatymo priede nustatyto dydžio. 2019 m. dalyvio lėšomis mokama pensijų įmoka yra 1,8 procento jo pajamų, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, iš valstybės biudžeto už dalyvį mokamos pensijų įmokos dydis – 0,3 procento Lietuvos statistikos departamento paskelbto užpraeitų metų keturių ketvirčių šalies ūkio darbuotojų vidutinio mėnesinio bruto darbo užmokesčio vidurkio. Dalyvio pageidavimu į jo pensijos sąskaitą gali būti mokama šio straipsnio 1 dalyje nurodyto dydžio pensijų įmoka, netaikant šios dalies nuostatų dėl laipsniško pensijų įmokų didinimo. Apie savo pasirinkimą mokėti šio straipsnio 1 dalyje nurodyto dydžio pensijų įmoką įtraukiamas asmuo informuoja pensijų kaupimo bendrovę ne vėliau kaip iki įtraukimo į pensijų kaupimą metų liepos 31 dienos, o pensijų kaupimo sutartį sudarantis asmuo – sudarydamas pensijų kaupimo sutartį. Jeigu dalyvis pateikia prašymą mokėti didesnę pensijų įmoką vėliau negu įtraukimo į pensijų kaupimą metų liepos 31 dieną arba pensijų kaupimo sutarties pasirašymo dieną, didesnė pensijų įmoka skaičiuojama nuo kito mėnesio, einančio po prašymo mokėti didesnę pensijų įmoką įregistravimo Dalyvių ir sutarčių registre, pirmosios dienos, bet ne anksčiau, negu įsigalioja pensijų kaupimo sutartis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
+ 
 
 
 
@@ -441,7 +453,10 @@ DALYVAVIMAS PENSIJŲ KAUPIME
 
 
 
-5. Asmuo tampa tos pensijų kaupimo bendrovės, į kurios valdomą pensijų fondą pereina, valdomo pensijų fondo dalyviu nuo prašymo pereiti į kitos pensijų kaupimo bendrovės valdomą pensijų fondą įregistravimo Dalyvių ir sutarčių registre dienos. Padariusi atitinkamus įrašus Dalyvių ir sutarčių registre, VSDF valdyba, suderinusi informacijos pateikimo tvarką su pensijų kaupimo bendrovėmis, elektroniniu būdu apie tai per 3 darbo dienas informuoja abi pensijų kaupimo bendroves, nurodydama, į kokį (iš kokio) pensijų fondą (fondo) pereina dalyvis. Jeigu asmeniui identifikuoti ir dalyvio prašymui įregistruoti pateikti duomenys yra netikslūs ar jų nepakanka, VSDF valdyba turi teisę atsisakyti registruoti dalyvio prašymą pereiti į kitos pensijų kaupimo bendrovės valdomą pensijų fondą. Atsisakiusi registruoti prašymą pereiti į kitos pensijų kaupimo bendrovės valdomą pensijų fondą, VSDF valdyba apie tai per 3 darbo dienas informuoja pensijų kaupimo bendrovę, kuriai asmuo pateikė prašymą, nurodydama atsisakymo priežastį.
+5. Asmuo tampa tos pensijų kaupimo bendrovės, į kurios valdomą pensijų fondą pereina, valdomo pensijų fondo dalyviu nuo prašymo pereiti į kitos pensijų kaupimo bendrovės valdomą pensijų fondą įregistravimo Dalyvių ir sutarčių registre dienos. Padariusi atitinkamus įrašus Dalyvių ir sutarčių registre, VSDF valdyba, suderinusi informacijos pateikimo tvarką su pensijų kaupimo bendrovėmis, elektroniniu būdu apie tai per 3 darbo dienas informuoja abi pensijų kaupimo bendroves, nurodydama, į kokį (iš kokio) pensijų fondą (fondo) pereina dalyvis, o jeigu dalyvis gauna periodines pensijų išmokas, – ir informaciją apie tai, kad dalyvis yra periodinių pensijų išmokų gavėjas. Jeigu asmeniui identifikuoti ir dalyvio prašymui įregistruoti pateikti duomenys yra netikslūs ar jų nepakanka, VSDF valdyba turi teisę atsisakyti registruoti dalyvio prašymą pereiti į kitos pensijų kaupimo bendrovės valdomą pensijų fondą. Atsisakiusi registruoti prašymą pereiti į kitos pensijų kaupimo bendrovės valdomą pensijų fondą, VSDF valdyba apie tai per 3 darbo dienas informuoja pensijų kaupimo bendrovę, kuriai asmuo pateikė prašymą, nurodydama atsisakymo priežastį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
+ 
 
 
 
@@ -466,7 +481,9 @@ DALYVAVIMAS PENSIJŲ KAUPIME
 
 
 
-10. Pensijų kaupimo bendrovė, iš kurios pereina valdomo pensijų fondo dalyvis, gavusi VSDF valdybos pranešimą apie asmens perėjimą į kitos pensijų kaupimo bendrovės valdomą pensijų fondą, konvertuoja pensijų fondo vienetus į pinigines lėšas dalyvio prašymo pereiti į kitos pensijų kaupimo bendrovės valdomą pensijų fondą įregistravimo Dalyvių ir sutarčių registre dienos pensijų fondo vienetų verte ir per 3 darbo dienas perveda dalyviui priklausančias pinigines lėšas į priimančiosios pensijų kaupimo bendrovės valdomo pensijų fondo piniginių lėšų sąskaitą. Pensijų kaupimo bendrovė, į kurios valdomą pensijų fondą dalyvis pereina, kai į šio pensijų fondo sąskaitą patenka perėjusio dalyvio piniginės lėšos, informuoja dalyvį apie jo pensijų sąskaitoje įrašyto pensijų turto dydį.
+10. Pensijų kaupimo bendrovė, iš kurios pereina jos valdomo pensijų fondo dalyvis, gavusi VSDF valdybos pranešimą apie dalyvio perėjimą į kitos pensijų kaupimo bendrovės valdomą pensijų fondą, konvertuoja pensijų fondo vienetus į pinigines lėšas dienos, kurią VSDF valdyba pensijų kaupimo bendrovei pateikia informaciją apie dalyvio perėjimą į kitos pensijų kaupimo bendrovės valdomą pensijų fondą, pensijų fondo vienetų verte ir per 3 darbo dienas perveda dalyviui priklausančias pinigines lėšas į priimančiosios pensijų kaupimo bendrovės valdomo pensijų fondo piniginių lėšų sąskaitą. Pensijų kaupimo bendrovė, į kurios valdomą pensijų fondą dalyvis pereina, kai į šio pensijų fondo piniginių lėšų sąskaitą patenka perėjusio dalyvio pensijų fonde sukauptos piniginės lėšos, ne vėliau kaip per 31 kalendorinę dieną nuo dienos, kurią VSDF valdyba pensijų kaupimo bendrovei pateikia informaciją apie dalyvio perėjimą į jos valdomą pensijų fondą, raštu informuoja dalyvį apie jo pensijų sąskaitoje įrašyto pensijų turto dydį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
  
 
 
@@ -538,7 +555,10 @@ DALYVAVIMAS PENSIJŲ KAUPIME
 
 
 
-7. VSDF valdybos veiklos sąnaudas, susijusias su pensijų įmokų surinkimu ir pervedimu, atlygina pensijų kaupimo bendrovės pagal patvirtintą kompensuojamąjį dydį Vyriausybės nustatyta tvarka. Dydis, skirtas VSDF valdybos sąnaudoms kompensuoti, tvirtinamas atitinkamų metų Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.
+7. VSDF valdybos veiklos sąnaudas, susijusias su pensijų įmokų surinkimu ir pervedimu, atlygina pensijų kaupimo bendrovės pagal patvirtintą kompensuojamąjį dydį Vyriausybės nustatyta tvarka. Dydis, skirtas VSDF valdybos sąnaudoms kompensuoti, tvirtinamas Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu. Už dalyvio lėšomis ir valstybės biudžeto lėšomis mokamų pensijų įmokų surinkimą ir pervedimą gali būti nustatyti skirtingi veiklos sąnaudų kompensacijų dydžiai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
+ 
 
 
 
@@ -671,7 +691,10 @@ PENSIJŲ FONDŲ STEIGIMAS IR VALDYMAS
 
 
 
-2. Šio straipsnio 1 dalyje nurodyto likviduojamo tikslinės grupės pensijų fondo dalyviai kartu su jiems priklausančiomis lėšomis šio įstatymo 14 straipsnio 5 dalyje nustatyta tvarka perkeliami į tos pačios pensijų kaupimo bendrovės valdomą turto išsaugojimo pensijų fondą nedarant jokių atskaitymų iš pensijų turto. Į turto išsaugojimo pensijų fondą perkelti dalyviai turi teisę pereiti į tos pačios arba kitos pensijų kaupimo bendrovės valdomą kitą pensijų fondą – tokiais atvejais šio įstatymo 9 ir 10 straipsnių nuostatos taikomos mutatis mutandis.
+2. Šio straipsnio 1 dalyje nurodyto likviduojamo tikslinės grupės pensijų fondo dalyviai kartu su jiems priklausančiomis lėšomis šio įstatymo 17 straipsnio 2 dalyje nustatyta tvarka perkeliami į tos pačios pensijų kaupimo bendrovės valdomą turto išsaugojimo pensijų fondą nedarant jokių atskaitymų iš pensijų turto. Į turto išsaugojimo pensijų fondą perkelti dalyviai turi teisę pereiti į tos pačios arba kitos pensijų kaupimo bendrovės valdomą kitą pensijų fondą – tokiais atvejais šio įstatymo 9 ir 10 straipsnių nuostatos taikomos mutatis mutandis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
+ 
 
 
 
@@ -681,7 +704,17 @@ PENSIJŲ FONDŲ STEIGIMAS IR VALDYMAS
 
 
 
-4. Priežiūros institucija nustato tikslinės grupės pensijų fondų likvidavimo tvarką. 
+4. Jeigu iki planuojamo tikslinės grupės pensijų fondo likvidavimo yra likę mažiau kaip vieni metai arba jeigu pensijų fondo turtas yra mažesnis negu 4 000 000 eurų, šios tikslinės grupės pensijų fondui šio įstatymo ir priežiūros institucijos nustatyti turto diversifikavimo reikalavimai netaikomi. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
+ 
+
+
+
+
+5. Priežiūros institucija nustato tikslinės grupės pensijų fondų likvidavimo tvarką. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
  
 
 
@@ -823,34 +856,40 @@ PENSIJŲ FONDŲ STEIGIMAS IR VALDYMAS
 3. Šio straipsnio 2 dalyje nurodyti atskaitymai iš pensijų turto pagal kiekvieną pensijų kaupimo sutartį su pensijų kaupimo bendrove per metus gali sudaryti ne daugiau kaip: 
 
 
-1) nuo 2019 m. sausio 1 d. – 0,8 procento pensijų fonde dalyvio pensijų sąskaitoje apskaičiuotų lėšų vidutinės metinės vertės;
+1) nuo 2019 m. sausio 1 d. – 0,8 procento pensijų fondo grynųjų aktyvų vidutinės metinės vertės;
 
 
 
 
-2) nuo 2020 m. sausio 1 d. – 0,65 procento pensijų fonde dalyvio pensijų sąskaitoje apskaičiuotų lėšų vidutinės metinės vertės;
+2) nuo 2020 m. sausio 1 d. – 0,65 procento pensijų fondo grynųjų aktyvų vidutinės metinės vertės;
 
 
 
 
-3) nuo 2021 m. sausio 1 d. – 0,5 procento pensijų fonde dalyvio pensijų sąskaitoje apskaičiuotų lėšų vidutinės metinės vertės;
+3) nuo 2021 m. sausio 1 d. – 0,5 procento pensijų fondo grynųjų aktyvų vidutinės metinės vertės;
 
 
 
 
-4) 0,4 procento pensijų fonde dalyvio pensijų sąskaitoje apskaičiuotų lėšų vidutinės metinės vertės, kai pensijų kaupimo bendrovės valdomo bendro pensijų fondų turto vidutinė metinė vertė sudaro 2,5 mlrd. eurų arba daugiau;
+4) 0,4 procento pensijų fondo grynųjų aktyvų vidutinės metinės vertės, kai pensijų kaupimo bendrovės valdomo bendro pensijų fondų turto vidutinė metinė vertė yra 2 500 000 000 eurų arba daugiau;
 
 
 
 
-5) turto išsaugojimo pensijų fonde – 0,2 procento pensijų fonde dalyvio pensijų sąskaitoje apskaičiuotų lėšų vidutinės metinės vertės.
+5) turto išsaugojimo pensijų fonde – 0,2 procento pensijų fondo grynųjų aktyvų vidutinės metinės vertės. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
+ 
 
 
 
 
-
-
-4. Priežiūros institucija nustato metinių atskaitymų iš turto skaičiavimo tvarką, kad šio straipsnio 2 dalyje nustatyti atskaitymai būtų mažinami tolygiai, atsižvelgiant į pensijų kaupimo bendrovės valdomo bendro pensijų fondų turto vidutinę metinę vertę, laikantis šio straipsnio 3 dalyje nustatytų maksimalių atskaitymų iš pensijų turto dydžių.
+4. Neteko galios 2020-07-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
+ 
 
 
 
@@ -926,7 +965,10 @@ PENSIJŲ FONDŲ STEIGIMAS IR VALDYMAS
 
 
 
-5. Pensijų kaupimo veiklos reklamoje gali būti tik pensijų fondo taisyklėse ir periodinėse ataskaitose esanti informacija. Reklamos tikslais pensijų kaupimo bendrovė gali parengti ir platinti sutrumpintas pensijų fondo taisykles, kuriose gali būti tik priežiūros institucijos patvirtintose standartinėse pensijų fondų taisyklėse numatyta informacija.
+5. Pensijų kaupimo veiklos reklamoje gali būti naudojama tik teisinga, neklaidinanti, aiški ir tik su pensijų kaupimo veikla susijusi informacija. Reklamos tikslais pensijų kaupimo bendrovė gali parengti ir platinti sutrumpintas pensijų fondo taisykles, kuriose gali būti tik priežiūros institucijos patvirtintose standartinėse pensijų fondų taisyklėse numatyta informacija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
+ 
 
 
 
@@ -1031,7 +1073,10 @@ PENSIJŲ KAUPIMO BENDROVIŲ VEIKLOS YPATUMAI
 
 
 
-2. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms mutatis mutandis taikomi Papildomo savanoriško pensijų kaupimo įstatymo 6 straipsnis (išskyrus 1 dalies 11 punktą), 9 straipsnis, 12 straipsnis (išskyrus 1 dalies 2 ir 3 punktus), 13, 28 straipsniai, 29 straipsnis (išskyrus 1–5 dalis), 33 ir 34 straipsniai, ketvirtasis, penktasis ir šeštasis skirsniai (išskyrus 50, 51 straipsnį, 55 straipsnio 1, 5, 6 ir 7 dalis). Šios nuostatos pensijų kaupimo veiklą vykdančioms draudimo įmonėms taikomos tiek, kiek šis įstatymas nenustato kitaip.
+2. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms mutatis mutandis taikomi Papildomo savanoriško pensijų kaupimo įstatymo 6 straipsnis (išskyrus 1 dalies 11 punktą), 9 straipsnis, 12 straipsnis (išskyrus 1 dalies 2 ir 3 punktus), 13, 28 straipsniai, 29 straipsnis (išskyrus 1–5 dalis), 33 ir 34 straipsniai, ketvirtasis, penktasis ir šeštasis skirsniai (išskyrus 50 straipsnio 2 dalį, 55 straipsnio 1, 5, 6 ir 7 dalis). Šios nuostatos pensijų kaupimo veiklą vykdančioms draudimo įmonėms taikomos tiek, kiek šis įstatymas nenustato kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
+ 
 
 
 
@@ -1140,7 +1185,7 @@ PENSIJŲ IŠMOKOS
 
 
 
-4. Pensijų kaupimo bendrovė privalo Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka informuoti dalyvį, kuriam iki senatvės pensijos amžiaus yra likę ne mažiau negu 3 mėnesiai, apie:
+4. Pensijų kaupimo bendrovė privalo priežiūros institucijos nustatyta tvarka informuoti dalyvį, kuriam iki senatvės pensijos amžiaus yra likę ne mažiau negu 3 mėnesiai, apie:
 
 
 1) dalyvio perkėlimą į turto išsaugojimo pensijų fondą, jam sukakus senatvės pensijos amžių;
@@ -1148,10 +1193,12 @@ PENSIJŲ IŠMOKOS
 
 
 
-2) pensijų išmokų rūšis ir jų gavimo sąlygas bei tvarką.
+2) pensijų išmokų rūšis ir jų gavimo sąlygas bei tvarką. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
  
-
-
 
 
 
@@ -2228,7 +2275,10 @@ Išieškojimas iš periodinių pensijų išmokų ir pensijų anuiteto vykdomas L
 
 
 
-3. Priežiūros institucija turi teisę taikyti valdymo įmonėms Papildomo savanoriško pensijų kaupimo įstatyme numatytas poveikio priemones ir privalomus nurodymus. Draudimo įmonėms, vykdančioms pensijų kaupimo veiklą, priežiūros institucija turi teisę taikyti Draudimo įstatyme nustatytas poveikio priemones ir privalomus nurodymus. Poveikio priemonių ir privalomų nurodymų taikymo tvarką nustato Lietuvos banko įstatymas. Taikydama poveikio priemones ir privalomus nurodymus, priežiūros institucija taip pat vadovaujasi Papildomo savanoriško pensijų kaupimo įstatymu ir Draudimo įstatymu tiek, kiek šis įstatymas nenustato kitaip. 
+3. Poveikio priemonių ir privalomų nurodymų pensijų kaupimo bendrovėms, pensijų anuitetų mokėtojui ir depozitoriumui taikymo tvarką nustato Lietuvos banko įstatymas.  
+Straipsnio dalies pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
+ 
 
 
 
@@ -2243,7 +2293,9 @@ Išieškojimas iš periodinių pensijų išmokų ir pensijų anuiteto vykdomas L
 
 
 
-6. Priežiūros institucija, vykdydama šiame įstatyme nustatytą pensijų anuiteto mokėtojo priežiūrą, mutatis mutandis turi teises ir pareigas, nustatytas Lietuvos banko įstatymo septintajame skirsnyje, Draudimo įstatymo II skyriaus trečiajame skirsnyje ir VIII skyriuje, kiek jos susijusios su reikalavimų, reglamentuojančių aktuarinę funkciją, techninius atidėjinius, jų skaičiavimą, turto, dengiančio techninius atidėjinius, investavimą, priežiūra.
+6. Neteko galios 2020-07-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
  
 
 
@@ -2366,12 +2418,15 @@ Nr. XIII-2850, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08964
 
 
 
-40 straipsnis. Asmens duomenų apsauga
+40 straipsnis. Keitimasis informacija ir asmens duomenų apsauga
 
 
-VSDF valdyba asmens duomenis pensijų kaupimo bendrovėms teikia tik šio įstatymo įgyvendinimo tikslais. Asmens duomenys tvarkomi vadovaujantis teisės aktais, reglamentuojančiais asmens duomenų teisinę apsaugą.
+VSDF valdyba ir pensijų kaupimo bendrovės asmens duomenis vienos kitoms teikia tik šio įstatymo įgyvendinimo tikslais. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu. 
 
 
+Straipsnio pakeitimai:
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
+ 
 
 
 
@@ -2555,3 +2610,8 @@ Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 pakeitimo įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2850, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08964
 Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 pakeitimo įstatymo Nr. XIII-1360 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 3, 4, 8, 10, 12, 18, 22, 23, 26, 28, 38 ir 40 straipsnių pakeitimo įstatymas
