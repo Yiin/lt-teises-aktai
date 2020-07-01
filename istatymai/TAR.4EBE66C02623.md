@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2020-05-26 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-09
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -5697,12 +5697,8 @@ užtraukia baudą nuo vieno tūkstančio aštuonių šimtų dvidešimt iki penki
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
 užtraukia baudą nuo trijų tūkstančių septynių šimtų septyniasdešimt iki šešių tūkstančių eurų.
-TAR pastaba. Kodekso papildymas 1881  straipsniu įsigalioja 2020-07-01.
 
 
-Papildyta straipsniu:
-Nr. XIII-2354, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12444
- 
 
 
 
@@ -16730,7 +16726,10 @@ Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 
 
 
-506 straipsnis. Statutinių valstybės tarnautojų, karo policijos ar žvalgybos pareigūnų teisėtų nurodymų ar reikalavimų nevykdymas
+506 straipsnis. Statutinių valstybės tarnautojų, karo policijos, Lietuvos Respublikos vadovybės apsaugos tarnybos ar žvalgybos pareigūnų teisėtų nurodymų ar reikalavimų nevykdymas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900
+ 
 
 
 1. Policijos pareigūno teisėto reikalavimo atvykti į policiją nevykdymas 
@@ -16751,8 +16750,11 @@ užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt 
 
 
 
-4. Statutinio valstybės tarnautojo, karo policijos ar žvalgybos pareigūno teisėto nurodymo ar reikalavimo nevykdymas, išskyrus šio kodekso 556 straipsnyje nurodytus atvejus,
-užtraukia baudą nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
+4. Statutinio valstybės tarnautojo, karo policijos, Lietuvos Respublikos vadovybės apsaugos tarnybos (toliau – Vadovybės apsaugos tarnyba) ar žvalgybos pareigūno teisėto nurodymo ar reikalavimo nevykdymas, išskyrus šio kodekso 556 straipsnyje nurodytus atvejus,
+užtraukia baudą nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900
+ 
 
 
 
@@ -16888,10 +16890,10 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 
 
 
-512 straipsnis. Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatyme numatytų prevencinių poveikio priemonių pažeidimas
+512 straipsnis. Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatyme numatytos organizuoto nusikalstamumo prevencijos priemonės – oficialaus perspėjimo – pažeidimas
 
 
-1. Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikytos prevencinio poveikio priemonės nevykdymas
+1. Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatyta tvarka taikytos organizuoto nusikalstamumo prevencijos priemonės – oficialaus perspėjimo – nevykdymas
 užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
 
 
@@ -16899,9 +16901,11 @@ užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio septynių šimtų penkiasdešimt eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3080, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14355
  
-
-
 
 
 
@@ -16922,18 +16926,16 @@ užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 
 
-514 straipsnis. Leidimų sistemos pažeidimas Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos saugomuose objektuose 
+514 straipsnis. Leidimų sistemos pažeidimas Lietuvos Respublikos vadovybės apsaugos tarnybos saugomuose objektuose 
 
 
-Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos saugomų objektų leidimų sistemos pažeidimas, t. y. neteisėtas patekimas į saugomus Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės pastatus ir teritoriją, Respublikos Prezidento rezidencijos pastatus ir teritoriją, Turniškėse esančių rezidencijų teritoriją, kitoks šių objektų leidimų sistemos pažeidimas
+Vadovybės apsaugos tarnybos saugomų objektų leidimų sistemos pažeidimas, t. y. neteisėtas patekimas į saugomus Lietuvos Respublikos Seimo, Lietuvos Respublikos Vyriausybės pastatus ir teritoriją, Respublikos Prezidento rezidencijos pastatus ir teritoriją, Turniškėse esančių rezidencijų teritoriją, kitoks šių objektų leidimų sistemos pažeidimas
+užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų. 
 
 
-
-
-užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+Straipsnio pakeitimai:
+Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900
  
-
-
 
 
 
@@ -17834,18 +17836,20 @@ Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964
 
 
 
-558 straipsnis. Neatvykimas į privalomąją karo tarnybą arba alternatyviąją krašto apsaugos tarnybą
+558 straipsnis. Neatvykimas į privalomąją karo tarnybą, savanorišką nenuolatinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą
 
 
-Neatvykimas į privalomąją karo tarnybą arba alternatyviąją krašto apsaugos tarnybą be pateisinamos priežasties iki dviejų parų
+Neatvykimas į privalomąją karo tarnybą, savanorišką nenuolatinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą be pateisinamos priežasties iki dviejų parų
 
 
 
 
 užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2681, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21322
  
-
-
 
 
 
@@ -18956,9 +18960,10 @@ Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
 
 
 
-39) Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos – dėl šio kodekso 505, 507 straipsniuose numatytų administracinių nusižengimų;
+39) netenka galios 2020-07-01;
 Straipsnio punkto pakeitimai:
 Nr. XII-2530, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20288
+Nr. XIII-2624, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20653
  
 
 
@@ -19087,9 +19092,10 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 
 
 
-53) Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos – dėl šio kodekso 505 straipsnyje, 506 straipsnio 4, 41 dalyse, 508, 514 straipsniuose numatytų administracinių nusižengimų; 
+53) Vadovybės apsaugos tarnybos – dėl šio kodekso 505 straipsnyje, 506 straipsnio 4, 41 dalyse, 507, 514 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
+Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900
  
 
 
@@ -19200,12 +19206,11 @@ Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
 
 
 
-66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 178, 179, 180, 187, 188, 189, 190, 191, 192, 194, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 449, 4491, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų; 
-66 punkto redakcija nuo 2020-07-01:
-66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 178, 179, 180, 187, 188, 1881, 189, 190, 191, 192, 194, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 449, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 178, 179, 180, 187, 188, 1881, 189, 190, 191, 192, 194, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 449, 4491, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
+Nr. XIII-3095, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14364
  
 
 
@@ -20026,7 +20031,10 @@ Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 
 
 
-6) Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos pareigūnai.
+6) Vadovybės apsaugos tarnybos pareigūnai.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900
+ 
 
 
 
@@ -24377,3 +24385,28 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 59 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2954, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11078
 Lietuvos Respublikos administracinių nusižengimų kodekso 59 straipsnio pakeitimo įstatymo Nr. XIII-2805 2 straipsnio pakeitimo įstatymas
+ 
+104.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2624, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20653
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+ 
+105.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2681, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21322
+Lietuvos Respublikos administracinių nusižengimų kodekso 558 straipsnio pakeitimo įstatymas
+ 
+106.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2903, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10900
+Lietuvos Respublikos administracinių nusižengimų kodekso 506, 514, 589 ir 597 straipsnių pakeitimo įstatymas
+ 
+107.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3080, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14355
+Lietuvos Respublikos administracinių nusižengimų kodekso 512 straipsnio pakeitimo įstatymas
+ 
+108.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3095, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14364
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 188-1 straipsniu ir 190, 589 straipsnių pakeitimo įstatymo Nr. XIII-2354 3 straipsnio pakeitimo įstatymas
