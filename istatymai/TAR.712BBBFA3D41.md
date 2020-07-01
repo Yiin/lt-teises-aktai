@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-09-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-09
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -265,9 +265,10 @@ Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
 
 
 
-3) Lietuvos Respublikos Konstitucinis Teismas, teismai, Nacionalinė teismų administracija, Lietuvos Respublikos generalinė prokuratūra, Lietuvos administracinių ginčų komisija, Mokestinių ginčų komisija prie Lietuvos Respublikos Vyriausybės; 
+3) Lietuvos Respublikos Konstitucinis Teismas, teismai, Nacionalinė teismų administracija, Lietuvos Respublikos generalinė prokuratūra, Lietuvos Respublikos vadovybės apsaugos tarnyba, Lietuvos administracinių ginčų komisija, Mokestinių ginčų komisija prie Lietuvos Respublikos Vyriausybės;
 Straipsnio punkto pakeitimai:
 Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
+Nr. XIII-2904, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10901
  
 
 
@@ -2180,3 +2181,8 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 15 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2259, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10929
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2 ir 15 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2904, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10901
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 4 straipsnio pakeitimo įstatymas
