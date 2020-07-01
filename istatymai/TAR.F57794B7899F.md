@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-06-26 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-14
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
+ 
+TAR pastaba. Įstatymo Nr. XIII-3020 nuostatos ir įgyvendinamieji teisės aktai taikomi gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas, tačiau ne anksčiau kaip 2020 m. liepos 1 d.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 6, 7, 9, 18, 31, 33, 78 straipsnių, priedo pakeitimo ir Įstatymo papildymo dešimtuoju-1 skirsniu įstatymas
  
 Nauja redakcija nuo 2012-02-07:
 Nr. XI-1919, 2012-01-17, Žin. 2012, Nr. 17-752 (2012-02-07), i. k. 1121010ISTA0XI-1919
@@ -111,6 +116,14 @@ Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 71. Elektros energetikos sistemos adekvatumas – elektros energetikos sistemos gebėjimas užtikrinti elektros energijos gamybos ir vartojimo balansą ir elektros energijos tiekimo saugumą bet kuriuo momentu, esant normaliai ir avarinei sistemos būklei. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
+ 
+
+
+
+
+72. Elektros energetikos sistemos pajėgumai (toliau – pajėgumai) – atskirų asmens nuosavybės teise ar kitais teisėtais pagrindais valdomų elektros energijos gamybos, energijos kaupimo įrenginių elektros sistemoje, nepriklausomų elektros energijos paklausos telkėjų sutelktų įrenginių galima tam tikra galia esant įprastoms sąlygoms, neatsižvelgiant į laiko ribojimus ar trumpalaikius nuokrypius. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
  
 
 
@@ -245,9 +258,19 @@ Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 
 
 
-182. Garantinis elektros energijos tiekėjas – elektros energijos skirstomųjų tinklų operatorius, atliekantis garantinį elektros energijos tiekimą vartotojams, kurių įrenginiai prijungti prie jo paties valdomų elektros tinklų, ir daugiau kaip 100 000 vartotojų aptarnaujantis elektros energijos skirstomųjų tinklų operatorius, atliekantis garantinį elektros energijos tiekimą vartotojams, kurių įrenginiai yra prijungti prie perdavimo sistemos operatoriaus valdomų elektros tinklų. 
+182. Esami pajėgumus užtikrinantys įrenginiai – asmens nuosavybės teise ar kitais teisėtais pagrindais valdomi elektros energijos gamybos, energijos kaupimo įrenginiai elektros sistemoje ir (ar) nepriklausomo elektros energijos paklausos telkėjo sutelkti įrenginiai, kurie yra pastatyti ar įrengti, rekonstruojami ar įrengiami iki kvalifikacinės atrankos pradžios ir kurie atitinka šiame įstatyme ir kituose teisės aktuose, reglamentuojančiuose elektros įrenginių įrengimą ir eksploatavimą, nustatytus reikalavimus ir naudojami veiklai, turint reikiamą leidimą ir (ar) atestatą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+183. Garantinis elektros energijos tiekėjas – elektros energijos skirstomųjų tinklų operatorius, atliekantis garantinį elektros energijos tiekimą vartotojams, kurių įrenginiai prijungti prie jo paties valdomų elektros tinklų, ir daugiau kaip 100 000 vartotojų aptarnaujantis elektros energijos skirstomųjų tinklų operatorius, atliekantis garantinį elektros energijos tiekimą vartotojams, kurių įrenginiai yra prijungti prie perdavimo sistemos operatoriaus valdomų elektros tinklų. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
  
 
 
@@ -274,6 +297,14 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 21. Integruota įmonė – vertikalios ar horizontalios integracijos įmonė.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
+ 
+
+
+
+
+211. Išankstinis pajėgumų aukcionas – perdavimo sistemos operatoriaus dėl kiekvienos valstybės narės jungiamosios linijos (ar linijų), kuria (kuriomis) Lietuvos Respublikos elektros energetikos sistema yra sujungta su tos atitinkamos valstybės narės elektros energetikos sistema, organizuojamas pajėgumų aukcionas, kuris vyksta prieš pagrindinį ar papildomą pajėgumų aukcioną. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
  
 
 
@@ -347,6 +378,22 @@ Nr. XIII-262, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05920
 
 
 
+245. Kritinis elektros energetikos sistemos laikotarpis (toliau – kritinis sistemos laikotarpis) – valanda ar kelios iš eilės einančios valandos, kai perdavimo sistemos operatoriaus nustatyta prieinama galia Lietuvos Respublikos elektros energetikos sistemoje yra mažesnė, negu būtina užtikrinti elektros energijos gamybos ir vartojimo balansą, ir (ar) Lietuvos Respublikos elektros energetikos sistema dirba izoliuoto elektros energetikos sistemos darbo režimu. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+246. Kvalifikacinė atranka – procedūra, kuria perdavimo sistemos operatorius vertina asmenų, taip pat jų nuosavybės teise ar kitais teisėtais pagrindais valdomų ir (ar) sutelktų esamų ir (ar) planuojamų pajėgumus užtikrinančių įrenginių atitiktį nustatytiems reikalavimams. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
 25. Leistinoji naudoti galia – didžiausia galia, kuri nurodyta perdavimo sistemos operatoriaus ar skirstomųjų tinklų operatoriaus ir vartotojo sudarytoje elektros įrenginių prijungimo sutartyje ir kurią vartotojas gali vartoti iš elektros tinklų bet kuriuo metu.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
@@ -403,6 +450,86 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 
 
+301. Pagrindinis pajėgumų aukcionas – pajėgumų aukcionas, perdavimo sistemos operatoriaus baigiamas ne vėliau kaip likus 48 mėnesiams iki šių pajėgumų pateikimo laikotarpio pradžios. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+302. Pajėgumų aukcionas – išankstinis, pagrindinis ar papildomas pajėgumų aukcionas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+303. Pajėgumų aukciono dalyvis – asmuo, kuris nuosavybės teise ar kitais teisėtais pagrindais valdo ir (ar) sutelkia esamus ir (ar) planuoja naujus pajėgumus užtikrinančius įrenginius ir kuris įvykdęs keliamus reikalavimus dalyvauja pagrindiniame ar papildomame pajėgumų aukcione. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+304. Pajėgumų pateikimo laikotarpis – laikotarpis, per kurį vykdoma pajėgumų užtikrinimo prievolė. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+305. Pajėgumų užtikrinimo mechanizmas – laikina priemonė, kuria užtikrinama, kad atlyginant už pajėgumus užtikrinančių įrenginių parengtį bus pasiekiamas reikiamas elektros energijos tiekimo saugumo lygis, išskyrus su papildomomis paslaugomis ar perkrovos valdymu susijusias priemones, apibrėžiamas Reglamente (ES) Nr. 2019/943. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+306. Pajėgumų užtikrinimo mechanizmo registras – perdavimo sistemos operatoriaus valdoma duomenų bazė, kurioje kaupiama ir tvarkoma informacija apie kvalifikacinių atrankų ir pajėgumų aukcionų rezultatus, pajėgumų aukcionų dalyvius ir jų nuosavybės teise ar kitais teisėtais pagrindais valdomus ir (ar) sutelktus esamus ir (ar) planuojamus pajėgumus užtikrinančius įrenginius, taip pat pajėgumų užtikrinimo prievolės vykdytojų sudarytus susitarimus dėl pajėgumų užtikrinimo prievolės perleidimo. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+307. Pajėgumų užtikrinimo prievolė – įsipareigojimas palaikyti pajėgumus užtikrinančių įrenginių parengtį ir Lietuvos Respublikos elektros energetikos sistemai pateikti pajėgumų aukcione laimėtus pajėgumus atitinkantį elektros energijos kiekį per kritinį sistemos laikotarpį. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+308. Pajėgumų užtikrinimo prievolės vykdytojas (toliau – pajėgumų vykdytojas) – Lietuvos Respublikos ar kitos valstybės narės, kurios elektros energetikos sistema jungiamąja linija (ar linijomis) yra sujungta su Lietuvos Respublikos elektros energetikos sistema, asmuo, kuris laimi pagrindinį ar papildomą pajėgumų aukcioną ir sudaro pajėgumų užtikrinimo prievolės vykdymo sutartį su perdavimo sistemos operatoriumi. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+309. Pajėgumų užtikrinimo prievolės vykdymo sutartis – pajėgumų aukciono laimėtojo ir perdavimo sistemos operatoriaus sudaroma sutartis dėl pajėgumų užtikrinimo prievolės vykdymo. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+3010. Papildomas pajėgumų aukcionas – pajėgumų aukcionas, perdavimo sistemos operatoriaus baigiamas ne anksčiau kaip 13 mėnesių ir ne vėliau kaip 3 mėnesiai iki šių pajėgumų pateikimo laikotarpio pradžios. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
 31. Paskirstytoji gamyba – elektros energijos gamyba prie skirstomųjų tinklų prijungtuose elektros energijos gamybos įrenginiuose.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
@@ -446,19 +573,30 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-351. Pradinė elektros energijos paklausa – pagal patvirtintą metodiką įvertinamas įprastu elektros energijos vartojimo režimu vartotojo suvartojamas elektros energijos kiekis, kuris naudojamas skaičiuojant vartotojo elektros energijos paklausos pokytį. 
+351. Planuojami pajėgumus užtikrinantys įrenginiai – asmens nuosavybės teise ar kitais teisėtais pagrindais valdomi elektros energijos gamybos, energijos kaupimo įrenginiai elektros sistemoje ir (ar) nepriklausomo elektros energijos paklausos telkėjo sutelkti įrenginiai, kuriuos iki pajėgumų pateikimo laikotarpio pradžios ketina rekonstruoti ar naujai įrengti, ar pastatyti pajėgumų aukciono dalyvis, iki kvalifikacinės atrankos pradžios dar neturintis veiklai reikiamų leidimų ir (ar) atestatų. 
 Papildyta straipsnio dalimi:
-Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
  
 
 
 
 
-352. Prievolių įvykdymo užtikrinimas – finansinė garantija ar finansinis laidavimas, kaip tai nustatyta Lietuvos Respublikos finansų įstaigų įstatyme. 
+352. Pradinė elektros energijos paklausa – pagal patvirtintą metodiką įvertinamas įprastu elektros energijos vartojimo režimu vartotojo suvartojamas elektros energijos kiekis, kuris naudojamas skaičiuojant vartotojo elektros energijos paklausos pokytį. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+353. Prievolių įvykdymo užtikrinimas – finansinė garantija ar finansinis laidavimas, kaip tai nustatyta Lietuvos Respublikos finansų įstaigų įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
  
 
 
@@ -524,6 +662,14 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+ 
+
+
+
+
+421. Skirstomi pajėgumai – pajėgumų aukcione planuojami paskirstyti pajėgumai.
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
  
 
 
@@ -910,9 +1056,18 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-10) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+10) tvirtina Pajėgumų užtikrinimo mechanizmo įgyvendinimo tvarkos aprašą; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+11) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
  
 
 
@@ -1005,7 +1160,10 @@ Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
 
 
 
-9) nustato vartotojų įrenginių prijungimo prie elektros tinklų ir aprūpinimo elektros energija atkūrimo trukmę;
+9) nustato tinklų naudotojų įrenginių prijungimo prie elektros tinklų ir aprūpinimo elektros energija atkūrimo trukmę; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 
@@ -1043,9 +1201,26 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-16) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+16) derina perdavimo sistemos operatoriaus parengtas skirstomų pajėgumų nustatymo prielaidas; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+17) rengia ir teikia Vyriausybei tvirtinti Pajėgumų užtikrinimo mechanizmo įgyvendinimo tvarkos aprašą; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+18) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
  
 
 
@@ -1201,12 +1376,93 @@ Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
 
 
 
-23) atlieka kitas Lietuvos Respublikos įstatymų, tiesiogiai taikomu Europos Sąjungos teisės aktu ir ratifikuota Lietuvos Respublikos tarptautine sutartimi pavestas funkcijas. 
+23) rengia ir tvirtina Pajėgumų aukciono dalyvių pasiūlymų ir aukciono didžiausių kainų nustatymo metodiką, nustato didžiausias kainų ribas esamus ir planuojamus pajėgumus užtikrinančius įrenginius valdančių asmenų pasiūlymams bei atitinkamiems aukcionams; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+24) tvirtina Pajėgumus užtikrinančių įrenginių ribinių pajėgumų skaičiavimo metodiką; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+25) tvirtina Jungiamosiomis linijomis patenkančių pajėgumų skaičiavimo metodiką; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+26) tvirtina Pajėgumų perkrovos pajamų paskirstymo metodiką; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+27) tvirtina Skirstomų pajėgumų skaičiavimo metodiką ir skelbia išvadą dėl skirstomų pajėgumų įtakos atskirai elektros energijos pajėgumų užtikrinimo mechanizmo dedamajai prie perdavimo paslaugos kainos; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+28) skelbia išvadą apie įvykusio pajėgumų aukciono procedūrų atitiktį teisės aktų reikalavimams ir aukciono metu paskirstytų pajėgumų įtaką atskirai elektros energijos pajėgumų užtikrinimo mechanizmo dedamajai prie perdavimo paslaugos kainos, įvertintai pagal pajėgumų aukciono rezultatus; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+29) tvirtina Pajėgumų užtikrinimo prievolės vykdymo sutarties standartines sąlygas; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+30) vykdo pajėgumų aukcionų stebėseną ir atlieka jų vertinimą; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+31) tvirtina Pajėgumų aukcionų nuostatus; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+32) derina perdavimo sistemos operatoriaus parengtą pajėgumų aukcionų organizavimo tvarkaraštį; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+33) atlieka kitas Lietuvos Respublikos įstatymų, tiesiogiai taikomu Europos Sąjungos teisės aktu ir ratifikuota Lietuvos Respublikos tarptautine sutartimi pavestas funkcijas. 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
 Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
  
 
 
@@ -2136,10 +2392,19 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 18 straipsnis. Ilgalaikis planavimas ir sistemos plėtra
 
 
-1. Tinklų operatorius, įvertindamas elektros energijos tiekimo saugumo ir patikimumo, kokybės, efektyvumo, vartojimo, vadybos ir aplinkos apsaugos reikalavimus, nurodytus Nacionalinėje energetinės nepriklausomybės strategijoje, gerindamas naudojimosi sistema sąlygas, planuoja ilgalaikę elektros energetikos sistemos plėtrą, derindamas ją su Energetikos ministerija, Taryba ir kitais tinklų operatoriais. Ilgalaikės elektros energetikos sistemos plėtros planavimas turi būti pagrįstas moksliniu, technologiniu ir ekonominiu įvertinimu. Tinklų operatoriai privalo bendradarbiauti, siekdami užtikrinti perdavimo ir skirstomųjų tinklų optimalią plėtrą. 
+1. Tinklų operatorius, įvertindamas elektros energetikos sistemos adekvatumą, elektros energijos tiekimo saugumo ir patikimumo, kokybės, efektyvumo, vartojimo, vadybos ir aplinkos apsaugos reikalavimus, nurodytus Nacionalinėje energetinės nepriklausomybės strategijoje, gerindamas naudojimosi sistema sąlygas, planuoja ilgalaikę elektros energetikos sistemos plėtrą, derindamas ją su Energetikos ministerija, Taryba ir kitais tinklų operatoriais. Ilgalaikės elektros energetikos sistemos plėtros planavimas turi būti pagrįstas moksliniu, technologiniu ir ekonominiu įvertinimu. Tinklų operatoriai privalo bendradarbiauti, siekdami užtikrinti perdavimo ir skirstomųjų tinklų optimalią plėtrą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+11. Planuojant ilgalaikę elektros energetikos sistemos plėtrą, perdavimo sistemos operatorius įvertina pajėgumų poreikį, leidžiantį užtikrinti tikėtiną ne didesnę kaip 8 valandų apkrovos praradimo trukmę per kiekvienus kalendorinius metus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
  
 
 
@@ -2976,17 +3241,114 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
-21) pateikti kitos sistemos, su kuria sujungta Lietuvos Respublikos elektros energetikos sistema, perdavimo sistemos operatoriui pakankamai informacijos, kad būtų užtikrinamas saugus ir efektyvus jungtinės sistemos eksploatavimas, koordinuojama jos plėtra ir sąveika;
+21) rengti ir teikti Energetikos ministerijai derinti skirstomų pajėgumų nustatymo prielaidas; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
 
 
 
 
-22) savo interneto svetainėje skelbti atitinkamą informaciją, susijusią su jungiamosiomis linijomis, sistemos naudojimu ir pajėgumų paskirstymu suinteresuotosioms šalims, atsižvelgdamas į tai, kad neapibendrinta informacija turi būti tvarkoma kaip konfidenciali komercinė informacija;
+22) rengti ir teikti Tarybai tvirtinti Skirstomų pajėgumų skaičiavimo metodiką; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
 
 
 
 
-23) teisės aktų nustatyta tvarka skelbti ir teikti nurodytą informaciją.
+23) pagal Skirstomų pajėgumų skaičiavimo metodiką ir skirstomų pajėgumų nustatymo prielaidas apskaičiuoti skirstomus pajėgumus; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+24) rengti ir teikti Tarybai tvirtinti Pajėgumus užtikrinančių įrenginių ribinių pajėgumų skaičiavimo metodiką; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+25) rengti ir teikti Tarybai tvirtinti Jungiamosiomis linijomis patenkančių pajėgumų skaičiavimo metodiką; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+26) rengti ir teikti Tarybai tvirtinti Pajėgumų perkrovos pajamų paskirstymo metodiką; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+27) rengti ir teikti Tarybai tvirtinti Pajėgumų aukcionų nuostatus; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+28) vadovaujantis Pajėgumų aukcionų nuostatais, atlikti kvalifikacinę atranką ir organizuoti pajėgumų aukcionus; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+29) Tarybai paskelbus savo išvadą apie įvykusio pajėgumų aukciono procedūrų atitiktį teisės aktų reikalavimams ir aukciono metu paskirstytų pajėgumų įtaką atskirai elektros energijos pajėgumų užtikrinimo mechanizmo dedamajai prie perdavimo paslaugos kainos, įvertintai pagal aukciono rezultatus, paskelbti įvykusio pajėgumų aukciono rezultatus; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+30) rengti ir teikti Tarybai tvirtinti Pajėgumų užtikrinimo prievolės vykdymo sutarties standartines sąlygas; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+31) rengti ir teikti Tarybai derinti pajėgumų aukcionų organizavimo tvarkaraštį; 
+Papildyta straipsnio punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+32) pateikti kitos sistemos, su kuria sujungta Lietuvos Respublikos elektros energetikos sistema, perdavimo sistemos operatoriui pakankamai informacijos, kad būtų užtikrinamas saugus ir efektyvus jungtinės sistemos eksploatavimas, koordinuojama jos plėtra ir sąveika;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+33) savo interneto svetainėje skelbti atitinkamą informaciją, susijusią su jungiamosiomis linijomis, sistemos naudojimu ir pajėgumų paskirstymu suinteresuotosioms šalims, atsižvelgdamas į tai, kad neapibendrinta informacija turi būti tvarkoma kaip konfidenciali komercinė informacija;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+34) teisės aktų nustatyta tvarka skelbti ir teikti nurodytą informaciją.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
 
 
 
@@ -5570,12 +5932,537 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 
+DEŠIMTASIS1 SKIRSNIS
+PAJĖGUMŲ UŽTIKRINIMO MECHANIZMAS IR JO ĮGYVENDINIMAS 
+ 
+
+
+701 straipsnis. Pajėgumų užtikrinimo mechanizmo įgyvendinimo pagrindai ir sąlygos
+
+
+1. Pajėgumų užtikrinimo mechanizmu siekiama užtikrinti elektros energetikos sistemos adekvatumą. Pajėgumų užtikrinimo mechanizmas yra įgyvendinamas šio įstatymo ir jo įgyvendinamųjų teisės aktų nustatyta tvarka organizuojant pajėgumų aukcionus.
+
+
+
+
+2. Pajėgumų aukcionai vykdomi technologinio neutralumo principu ir sudaro sąlygas konkurencija tarp rinkos dalyvių elektros energetikos sektoriuje grindžiamos elektros energetikos sistemos plėtrai.
+
+
+
+
+3. Pajėgumų užtikrinimo mechanizmo įgyvendinimo sąlygos ir pajėgumų užtikrinimo prievolės vykdymo trukmė, atsižvelgiant į investicijų į pajėgumus užtikrinančius įrenginius dydį, nustatomos Pajėgumų užtikrinimo mechanizmo įgyvendinimo tvarkos apraše, kurį Energetikos ministerijos teikimu tvirtina Vyriausybė. Pajėgumų užtikrinimo mechanizmo aukcionų organizavimo tvarka, techniniai reikalavimai esamiems ir planuojamiems pajėgumus užtikrinantiems įrenginiams, taip pat pajėgumų aukciono rezultatų tvirtinimo ir skelbimo tvarka nustatomi Pajėgumų aukcionų nuostatuose, kuriuos tvirtina Taryba.
+
+
+
+
+4. Perdavimo sistemos operatorius rengia ir teikia derinti Tarybai pajėgumų aukcionų organizavimo tvarkaraštį (toliau – tvarkaraštis), kuriame nurodomos kvalifikacinės atrankos, pajėgumų aukcionų vykdymo ir pajėgumų pateikimo laikotarpio pradžios datos. Tvarkaraštį Taryba suderina arba motyvuotai atsisako derinti ne vėliau kaip per 10 darbo dienų nuo tvarkaraščio gavimo. Pasibaigus šiam terminui ir Tarybai nepriėmus sprendimo dėl tvarkaraščio suderinimo arba motyvuoto atsisakymo jį derinti, laikoma, kad tvarkaraštis yra suderintas.
+
+
+
+
+5. Perdavimo sistemos operatoriaus organizuojamų pajėgumų aukcionų stebėseną vykdo Taryba, kuri turi teisę gauti visą reikalingą informaciją iš perdavimo sistemos operatoriaus, pajėgumų aukcionų dalyvių ir kitų asmenų, kai tokia informacija, Tarybos vertinimu, gali būti reikšminga stebėsenai vykdyti ir (ar) ginčams nagrinėti šio įstatymo 78 straipsnyje nustatyta tvarka.
+
+
+
+
+6. Perdavimo sistemos operatoriaus pagrįstos sąnaudos, patiriamos rengiantis pajėgumų užtikrinimo mechanizmo įgyvendinimui ir įgyvendinant pajėgumų užtikrinimo mechanizmą, iki pirmojo pajėgumų pateikimo laikotarpio pradžios įtraukiamos į elektros energijos perdavimo paslaugų kainą. Perdavimo sistemos operatoriaus pagrįstos sąnaudos, patiriamos nuo pajėgumų pateikimo laikotarpio pradžios, įgyvendinant pajėgumų užtikrinimo mechanizmą, ir lėšos, skirtos mokėjimams už pajėgumų užtikrinimo prievolės vykdymą atlikti, surenkamos iš tinklų naudotojų taikant atskirą elektros energijos pajėgumų užtikrinimo mechanizmo dedamąją prie perdavimo paslaugos kainos, kurią nustato Taryba. Tinklų naudotojams elektros energijos pajėgumų užtikrinimo mechanizmo dedamąją prie perdavimo paslaugos kainos diferencijuoja perdavimo sistemos operatorius, atsižvelgdamas į tinklų naudotojų elektros energijos vartojimą piko metu. 
+
+
+
+
+7. Asmenys gali dalyvauti valstybių narių, kurių elektros energetikos sistemos jungiamąja linija (ar linijomis) yra sujungtos su Lietuvos Respublikos elektros energetikos sistema, pajėgumų užtikrinimo mechanizmuose ir vykdyti didmeninę prekybą elektros energija ir (ar) teikti sistemines paslaugas. Asmenys, dalyvaujantys valstybių narių, kurių elektros energetikos sistemos jungiamąja linija (ar linijomis) yra sujungtos su Lietuvos Respublikos elektros energetikos sistema ir su kurios perdavimo sistemos operatoriumi yra sudarytas šio įstatymo 708 straipsnyje nurodytas susitarimas, pajėgumų užtikrinimo mechanizmuose, apie tai informuoja Lietuvos Respublikos perdavimo sistemos operatorių ir privalo su Lietuvos Respublikos perdavimo sistemos operatoriumi sudaryti susitarimą dėl dalyvavimo kitų valstybių narių, kurių elektros energetikos sistemos jungiamąja linija (ar linijomis) yra sujungtos su Lietuvos Respublikos elektros energetikos sistema, pajėgumų užtikrinimo mechanizmuose.
+
+
+
+
+8. Pajėgumų vykdytojų dalyvavimas kitų valstybių narių pajėgumų užtikrinimo mechanizmuose neatleidžia pajėgumų vykdytojų nuo Lietuvos Respublikos elektros energetikos sistemos pajėgumų užtikrinimo prievolių vykdymo.
+ 
+
+
+
+
+
+
+702 straipsnis. Išankstinio pajėgumų aukciono organizavimas
+
+
+1. Išankstinį pajėgumų aukcioną perdavimo sistemos operatorius organizuoja prieš pagrindinį ar papildomą pajėgumų aukcioną tvarkaraštyje nurodytomis datomis.
+
+
+
+
+2. Išankstiniame pajėgumų aukcione turi teisę dalyvauti tos valstybės narės, kurios elektros energetikos sistema jungiamąja linija (ar linijomis) yra sujungta su Lietuvos Respublikos elektros energetikos sistema ir su kurios perdavimo sistemos operatoriumi yra sudarytas šio įstatymo 708 straipsnyje nurodytas susitarimas, asmenys, nuosavybės teise ar kitais teisėtais pagrindais valdantys esamus pajėgumus užtikrinančius įrenginius toje valstybėje narėje ir pateikę prievolių įvykdymo užtikrinimą šio įstatymo 707 straipsnyje nustatyta tvarka.
+
+
+
+
+3. Perdavimo sistemos operatorius Jungiamosiomis linijomis patenkančių pajėgumų skaičiavimo metodikoje nustatyta tvarka apskaičiuoja pajėgumus, kurie turi būti skirstomi išankstiniame pajėgumų aukcione.
+
+
+
+
+4. Perdavimo sistemos operatorius taip pat įvertina ir kitos valstybės narės, kurios elektros energetikos sistema jungiamąja linija (ar linijomis) yra sujungta su Lietuvos Respublikos elektros energetikos sistema ir su kurios perdavimo sistemos operatoriumi yra sudarytas šio įstatymo 708 straipsnyje nurodytas susitarimas, perdavimo sistemos operatoriaus pateiktą informaciją apie tos valstybės narės asmenų, ketinančių dalyvauti išankstiniame pajėgumų aukcione, pajėgumus užtikrinančius įrenginius ir jų galimybę teikti pajėgumus.
+
+
+
+
+5. Išankstiniame pajėgumų aukcione dalyvaujančių asmenų teikiami pajėgumų ir kainos pasiūlymai turi būti ne mažesni kaip 1 MW ribinio pajėgumo.
+
+
+
+
+6. Išankstiniame pajėgumų aukcione dalyvaujantys asmenys tarpusavyje varžosi teikdami ribinių pajėgumų ir kainos pasiūlymus. Išankstiniame pajėgumų aukcione dalyvaujančių asmenų pateikti ribinių pajėgumų ir kainos pasiūlymai išdėstomi kainos didėjimo tvarka. Išankstiniame pajėgumų aukcione dalyvaujantys asmenys, kurių ribinių pajėgumų ir kainos pasiūlyme nurodyti ribiniai pajėgumai bendrai neviršija atitinkama jungiamąja linija (ar linijomis) patenkančių pajėgumų, perdavimo sistemos operatoriaus apskaičiuotų pagal Jungiamosiomis linijomis patenkančių pajėgumų skaičiavimo metodiką, yra laikomi išankstinio pajėgumų aukciono laimėtojais ir įgyja teisę dalyvauti pagrindinio ar papildomo pajėgumų aukciono kvalifikacinėje atrankoje.
+
+
+
+
+7. Pajėgumų aukciono dalyviams pateikus ribinių pajėgumų ir kainos pasiūlymus, kurių nurodyta pajėgumų kaina yra vienoda, pirmenybė teikiama ribinių pajėgumų ir kainos pasiūlymams, kurie:
+
+
+1) pateikti asmenų, valdančių lankstesnius pajėgumus užtikrinančius įrenginius. Lankstesniais laikomi pajėgumų įrenginiai, kurie, įvertinus jų paleidimo ir galios keitimo greičio charakteristikas per 8 valandas (laikas nuo paskelbimo iki kritinio sistemos laikotarpio pradžios), gali į tinklą patiekti didesnę elektros energijos galią absoliučiu dydžiu;
+
+
+
+
+2) pateikti asmenų, valdančių mažesnės santykinės taršos (anglies dioksido emisijos) pajėgumus užtikrinančius įrenginius;
+
+
+
+
+3) pateikti asmenų, valdančių pajėgumus užtikrinančius įrenginius, kuriuose įgyvendinamos energetikos inovacijos.
+
+
+
+
+
+
+8. Išankstinio pajėgumų aukciono laimėtojai, perėję kvalifikacinę atranką, įgyja teisę Pajėgumų užtikrinimo mechanizmo įgyvendinimo tvarkos apraše ir Pajėgumų aukcionų nuostatuose nustatyta tvarka dalyvauti pagrindiniame ar papildomame pajėgumų aukcione, o jų pajėgumų ir kainos pasiūlymai kainos didėjimo tvarka yra perkeliami į pagrindinį ar papildomą pajėgumų aukcioną.
+ 
+
+
+
+
+
+
+703 straipsnis. Kvalifikacinė atranka
+
+
+1. Kvalifikacinę atranką vykdo perdavimo sistemos operatorius. Kvalifikacinėje atrankoje yra vertinama asmenų, kurie nuosavybės teise ar kitais teisėtais pagrindais valdo ir (ar) sutelkia esamus ar planuojamus pajėgumus užtikrinančius įrenginius, atitiktis šio straipsnio 6 dalyje nustatytiems reikalavimams ir šių asmenų nuosavybės teise ar kitais teisėtais pagrindais valdomų ir (ar) sutelktų esamų ar planuojamų pajėgumus užtikrinančių įrenginių atitiktis Pajėgumų aukcionų nuostatuose nurodytiems techniniams reikalavimams bei nustatomi pajėgumus užtikrinančių įrenginių ribiniai pajėgumai.
+
+
+
+
+2. Pareigą kvalifikacinės atrankos metu teikti informaciją ir (ar) dokumentus apie esamų pajėgumus užtikrinančių įrenginių atitiktį Pajėgumų aukcionų nuostatuose nurodytiems techniniams reikalavimams turi asmenys, valdantys esamus elektros energijos gamybos pajėgumus užtikrinančius įrenginius Lietuvos Respublikoje, kurių įrengtoji galia yra ne mažesnė kaip 1 MW. Teikdami nurodytą informaciją ir (ar) dokumentus, asmenys, pageidaujantys dalyvauti pajėgumų aukcione, perdavimo sistemos operatoriui išreiškia savo ketinimą dalyvauti atitinkamame pajėgumų aukcione.
+
+
+
+
+3. Teisę dalyvauti kvalifikacinėje atrankoje ir jos metu teikti informaciją ir (ar) dokumentus apie esamų ar planuojamų pajėgumus užtikrinančių įrenginių, elektros energijos gamybos, energijos kaupimo įrenginių elektros sistemoje ar nepriklausomo elektros energijos paklausos telkėjo sutelktų įrenginių atitiktį Pajėgumų aukcionų nuostatuose nurodytiems techniniams reikalavimams turi asmenys:
+
+
+1) valdantys esamus pajėgumus užtikrinančius įrenginius Lietuvos Respublikoje, kurių galia yra mažesnė kaip 1 MW;
+
+
+
+
+2) planuojantys įrengti naujus pajėgumus užtikrinančius įrenginius;
+
+
+
+
+3) laimėję išankstinį pajėgumų aukcioną.
+
+
+
+
+
+
+4. Asmenys, kurie pagal šio straipsnio 2 dalį turi pareigą teikti informaciją ir (ar) dokumentus apie esamų pajėgumus užtikrinančių įrenginių atitiktį Pajėgumų aukcionų nuostatuose nurodytiems techniniams reikalavimams ir kurių elektros įrenginiai yra prijungti prie perdavimo tinklų, perdavimo sistemos operatoriaus prašymu privalo pateikti informaciją apie per pajėgumų pateikimo laikotarpį planuojamų įrengti pajėgumus užtikrinančių įrenginių galią.
+
+
+
+
+5. Perdavimo sistemos operatoriaus susitarimu su skirstomųjų tinklų operatoriumi, Pajėgumų aukcionų nuostatuose nustatyta tvarka ir terminais skirstomųjų tinklų operatorius įvertina asmenų, kurių elektros įrenginiai prijungti prie skirstomųjų tinklų, pateiktos informacijos ir (ar) dokumentų apie esamus ar planuojamus pajėgumus užtikrinančius įrenginius tikslumą ir pateikia vertinimą dėl jų atitikties Pajėgumų aukcionų nuostatuose nurodytiems techniniams reikalavimams.
+
+
+
+
+6. Asmenys, pateikę informaciją ir (ar) dokumentus apie esamų ar planuojamų pajėgumus užtikrinančių įrenginių atitiktį Pajėgumų aukcionų nuostatuose nurodytiems techniniams reikalavimams ir ketinantys dalyvauti pagrindiniame ar papildomame pajėgumų aukcione, taip pat turi pateikti informaciją ir dokumentus, patvirtinančius, kad:
+
+
+1) asmeniui nėra iškelta bankroto byla arba kreditoriai nevykdo bankroto procedūrų ne teismo tvarka;
+
+
+
+
+2) asmeniui nėra pradėta reorganizavimo ir (ar) likvidavimo procedūra;
+
+
+
+
+3) dėl asmens nėra priimtas teismo, kreditorių ar juridinio asmens dalyvių sprendimas likviduoti juridinį asmenį;
+
+
+
+
+4) asmuo vykdo įsipareigojimus, susijusius su mokesčių mokėjimu;
+
+
+
+
+5) asmuo vykdo įsipareigojimus, susijusius su socialinio draudimo įmokų mokėjimu;
+
+
+
+
+6) dėl asmenų vadovo ar valdymo organų nario (narių) ar ūkinės bendrijos tikrojo nario (narių) per pastaruosius 5 metus nėra įsiteisėjęs apkaltinamasis teismo nuosprendis už nusikalstamas veikas nuosavybei, turtinėms teisėms ir turtiniams interesams, nusikaltimus intelektinei ir pramoninei nuosavybei, ekonomikai ir verslo tvarkai, finansų sistemai, nusikaltimus ir baudžiamuosius nusižengimus valstybės tarnybai ir viešiesiems interesams;
+
+
+
+
+7) juridinio asmens vadovas ar valdymo organo narys (nariai), ar ūkinės bendrijos tikrasis narys (nariai) neturi neišnykusio ar nepanaikinto teistumo arba dėl juridinio asmens vadovo ar valdymo organo nario (narių), ar ūkinės bendrijos tikrojo nario (narių) per pastaruosius 5 metus nebuvo priimtas ir neįsiteisėjo apkaltinamasis teismo nuosprendis už dalyvavimą nusikalstamame susivienijime, jo organizavimą ar vadovavimą jam, kyšininkavimą, prekybą poveikiu, papirkimą, sukčiavimą, kredito, paskolos, tikslinės paramos, subsidijos ar dotacijos panaudojimą ne pagal paskirtį ar nustatytą tvarką, kreditinį sukčiavimą, mokesčių nesumokėjimą, neteisingų duomenų apie pajamas, pelną ar turtą pateikimą, deklaracijos, ataskaitos ar kito dokumento nepateikimą, nusikalstamu būdu gauto turto legalizavimą;
+
+
+
+
+8) asmenys nėra gavę paramos, kurią Europos Komisija yra pripažinusi kaip neteisėtą ir nesuderinamą su vidaus rinka, išskyrus atvejus, kai neteisėtą ir nesuderinamą su vidaus rinka paramą asmenys yra grąžinę bei atlyginę nuostolius ir (ar) sumokėję palūkanas teisės aktuose nustatyta tvarka arba yra suderintas ir vykdomas paramos grąžinimo, nuostolių atlyginimo ir (ar) palūkanų mokėjimo grafikas;
+
+
+
+
+9) asmuo neturi nesumokėtų ar pradelstų sumokėti baudų už praeityje sudarytos pajėgumų užtikrinimo prievolės vykdymo sutarties įsipareigojimų nevykdymą;
+
+
+
+
+10) asmenims pajėgumų pateikimo laikotarpiu bus pasibaigęs fiksuoto tarifo ir (ar) kainos priedo už jų valdomuose įrenginiuose iš atsinaujinančių energijos išteklių pagamintą elektros energiją gavimo laikotarpis ir (ar) asmenys pajėgumų pateikimo laikotarpiu negaus valstybės paramos pajėgumus užtikrinantiems įrenginiams;
+
+
+
+
+11) pajėgumų pateikimo laikotarpio pradžioje bus praėję 12 metų nuo valstybės paramos investicijoms į pajėgumų užtikrinimo įrenginius suteikimo.
+
+
+
+
+
+
+7. Jeigu asmuo, kuris dalyvauja kvalifikacinėje atrankoje ir ketina dalyvauti pagrindiniame ar papildomame pajėgumų aukcione, pateikia ne visus šio straipsnio 6 dalyje nustatytas kvalifikacinės atrankos sąlygas patvirtinančius dokumentus ir ne visą informaciją ir (ar) dokumentus apie esamų ar planuojamų pajėgumus užtikrinančių įrenginių atitiktį Pajėgumų aukcionų nuostatuose nurodytiems techniniams reikalavimams, perdavimo sistemos operatoriaus prašymu jis privalo pateikti trūkstamus dokumentus ir (ar) informaciją Pajėgumų aukcionų nuostatuose nustatyta tvarka ir terminais.
+
+
+
+
+8. Asmenys, neatitinkantys bent vienos iš šio straipsnio 6 dalyje nurodytų sąlygų, ir (ar) jeigu šių asmenų esami ar planuojami pajėgumus užtikrinantys įrenginiai neatitinka Pajėgumų aukcionų nuostatuose nurodytų techninių reikalavimų, netenka teisės dalyvauti pagrindiniame ar papildomame pajėgumų aukcione. Perdavimo sistemos operatorius Pajėgumų aukcionų nuostatuose nustatyta tvarka ir terminais šiuos asmenis informuoja apie jų neatitiktį kvalifikacinės atrankos reikalavimams ir pajėgumų pateikimo laikotarpiui įrašo juos į Pajėgumų užtikrinimo mechanizmo registrą kaip asmenis, neatitinkančius reikalavimų. Tokie asmenys gali dalyvauti kitoje atitinkamo pajėgumų aukciono kvalifikacinėje atrankoje, jeigu iki kvalifikacinės atrankos pradžios yra pašalintos neatitikties kvalifikacinės atrankos reikalavimams priežastys.
+
+
+
+
+9. Užbaigęs kvalifikacinę atranką, perdavimo sistemos operatorius Pajėgumų aukcionų nuostatuose nustatyta tvarka ir terminais informuoja kvalifikacinės atrankos reikalavimus atitinkančius asmenis apie jų atitiktį kvalifikacinės atrankos reikalavimams ir įrašo juos į Pajėgumų užtikrinimo mechanizmo registrą kaip asmenis, atitinkančius kvalifikacinės atrankos reikalavimus.
+
+
+
+
+10. Šio straipsnio 2 ir 4 dalyse nustatytų pareigų vykdymas laikomas elektros energetikos įmonių reguliuojamosios veiklos sąlyga. Už šios reguliuojamosios veiklos sąlygos nesilaikymą Energetikos įstatymo nustatyta tvarka gali būti panaikinamas energetikos veiklos licencijos, leidimo ir atestato galiojimas, jeigu tam asmeniui yra išduotas leidimas ar atestatas veiklai, kuriai leidimai ar atestatai yra išduodami.
+
+
+
+
+11. Perdavimo sistemos operatorius yra Pajėgumų užtikrinimo mechanizmo registro valdytojas. Pajėgumų užtikrinimo mechanizmo registre informacija kaupiama ir tvarkoma siekiant užtikrinti skaidrų ir patikimą pajėgumų užtikrinimo mechanizmo įgyvendinimą. Pajėgumų užtikrinimo mechanizmo registrą ir jam įgyvendinti skirtas priemones bei Pajėgumų užtikrinimo registro informaciją Pajėgumų aukcionų nuostatuose bei Europos Parlamento ir Tarybos reglamente (ES) 2019/943 dėl elektros energijos vidaus rinkos nustatyta tvarka ir terminais tvarko ir organizuoja perdavimo sistemos operatorius. Perdavimo sistemos operatorius asmens duomenis tvarko vadovaudamasis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu.
+ 
+
+
+
+
+
+
+704 straipsnis. Pajėgumų aukciono organizavimas
+
+
+1. Pagrindinį ir (ar) papildomą pajėgumų aukcionus perdavimo sistemos operatorius organizuoja vadovaudamasis tvarkaraštyje nurodytomis datomis. 
+
+
+
+
+2. Pagrindiniame ir (ar) papildomame pajėgumų aukcionuose turi teisę dalyvauti asmenys, kurie atitinka šias sąlygas:
+
+
+1) atitinka šio įstatymo 703 straipsnyje nurodytus kvalifikacinės atrankos reikalavimus;
+
+
+
+
+2) yra pateikę šio įstatymo 707 straipsnyje nurodytą prievolių įvykdymo užtikrinimą.
+
+
+
+
+
+
+3. Perdavimo sistemos operatorius pagal Skirstomų pajėgumų skaičiavimo metodiką ir skirstomų pajėgumų nustatymo prielaidas apskaičiuoja kiekviename pajėgumų aukcione skirstomus pajėgumus ir nustato skirstomus pajėgumus, kuriuos paskirsčius pajėgumų aukcionas laikomas įvykęs.
+
+
+
+
+4. Taryba ne vėliau kaip prieš vieną mėnesį iki pajėgumų aukciono paskelbimo dienos, vadovaudamasi Pajėgumų aukciono dalyvių pasiūlymų ir aukciono didžiausių kainų nustatymo metodika, nustato ir savo interneto svetainėje skelbia atitinkamame pajėgumų aukcione taikomas didžiausias kainų ribas esamus ir planuojamus pajėgumus užtikrinančius įrenginius valdantiems asmenims. Tarybos atitinkamam pajėgumų aukcionui nustatoma pajėgumų aukciono didžiausia kainų riba negali būti didesnė, negu taikoma naujai įrengiamus (statomus) planuojamus pajėgumus užtikrinančius įrenginius valdantiems asmenims. Pajėgumų aukciono dalyvio pateiktame ribinių pajėgumų ir kainos pasiūlyme nurodytos kainos dydis negali viršyti Tarybos nustatytos didžiausios kainų ribos esamus ir planuojamus pajėgumus užtikrinančius įrenginius valdantiems asmenims, atsižvelgiant į numatomas investicijas į įrenginius po kvalifikacinės atrankos pradžios.
+
+
+
+
+5. Pajėgumų aukciono dalyviai tarpusavyje varžosi teikdami ribinių pajėgumų ir kainos pasiūlymus. Pajėgumų aukciono dalyvio pateiktame pasiūlyme nurodytas ribinis pajėgumas negali viršyti ribinių pajėgumų, apskaičiuotų pagal Pajėgumus užtikrinančių įrenginių ribinių pajėgumų apskaičiavimo metodiką.
+
+
+
+
+6. Dalyvių pateikti ribinių pajėgumų ir kainos pasiūlymai išdėstomi kainos didėjimo tvarka. Pagrindinio ir papildomo pajėgumų aukcionų ribinę kainą nustato priimtas ribinių pajėgumų ir kainos pasiūlymas, kuriame nurodyta didžiausia ribinių pajėgumų kaina ir kuriame visas nurodytas ribinių pajėgumų kiekis kartu su bendru visuose mažesnės kainos pasiūlymuose nurodytu ribinių pajėgumų kiekiu sudaro pajėgumų aukcione įsigyjamų ribinių pajėgumų kiekį. Išankstinio pajėgumų aukciono ribinę kainą nustato priimtas ribinių pajėgumų ir kainos pasiūlymas, kuriame nurodyta didžiausia ribinių pajėgumų kaina ir kurio visas ribinių pajėgumų kiekis kartu su bendru prieš tai einančių mažesnės kainos pasiūlymų ribinių pajėgumų kiekiu sudaro jungiamąja linija (jungiamosiomis linijomis) patenkančių ribinių pajėgumų dydį.
+
+
+
+
+7. Pajėgumų aukciono dalyviai, pateikę pagrindiniame ar papildomame pajėgumų aukcione pasiūlymą, kuriame nurodyta pajėgumų kaina yra ne didesnė negu atitinkamo pajėgumų aukciono ribinė kaina, yra laikomi atitinkamo pajėgumų aukciono laimėtojais; jiems nustatoma mokama kaina ir mokėjimai vykdomi vadovaujantis Pajėgumų užtikrinimo mechanizmo įgyvendinimo tvarkos aprašo nuostatomis.
+
+
+
+
+8. Pajėgumų aukciono dalyviams pateikus ribinių pajėgumų ir kainos pasiūlymus, kurių nurodyta pajėgumų kaina yra vienoda, pirmenybė suteikiama ribinių pajėgumų ir kainos pasiūlymams, kurie:
+
+
+1) pateikti asmenų, valdančių lankstesnius pajėgumus užtikrinančius įrenginius. Lankstesniais laikomi pajėgumų įrenginiai, kurie, įvertinus jų paleidimo ir galios keitimo greičio charakteristikas per 8 valandas (laikas nuo paskelbimo iki kritinio sistemos laikotarpio pradžios), gali į tinklą patiekti didesnę elektros energijos galią absoliučiu dydžiu;
+
+
+
+
+2) pateikti asmenų, valdančių mažesnės santykinės taršos (anglies dioksido emisijos) pajėgumus užtikrinančius įrenginius;
+
+
+
+
+3) pateikti asmenų, valdančių pajėgumus užtikrinančius įrenginius, kuriuose įgyvendinamos energetikos inovacijos.
+
+
+
+
+
+
+9. Papildomas pajėgumų aukcionas yra organizuojamas tuo atveju, jeigu pagrindinio pajėgumų aukciono metu skirstomi pajėgumai nebuvo paskirstyti ir, perdavimo sistemos operatoriaus vertinimu, reikia paskirstyti papildomus (trūkstamus) pajėgumus siekiant užtikrinti elektros energetikos sistemos adekvatumą.
+
+
+
+
+10. Perdavimo sistemos operatorius, vadovaudamasis Pajėgumų aukcionų nuostatuose nustatytais terminais ir tvarka, Tarybai pateikia informaciją apie įvykusį pagrindinį ar papildomą pajėgumų aukcioną ir, atsižvelgdamas į Tarybos sprendimu paskelbtą išvadą apie įvykusio atitinkamo pajėgumų aukciono procedūrų atitiktį teisės aktų reikalavimams ir aukciono metu paskirstytų pajėgumų įtaką atskirai elektros energijos pajėgumų užtikrinimo mechanizmo dedamajai prie perdavimo paslaugos kainos, patvirtina įvykusio pajėgumų aukciono rezultatus bei, siekdamas užtikrinti pajėgumų aukcionų skaidrumą, paskelbia informaciją apie pagrindinio ir (ar) papildomo pajėgumų aukcionų laimėtoją (laimėtojus) (juridinio asmens pavadinimas, juridinio asmens kodas, fizinio asmens vardas ir pavardė, pajėgumus užtikrinančio įrenginio buvimo vieta ir techniniai duomenys, pajėgumų pateikimo laikotarpis) savo interneto svetainėje. Ši informacija turi būti viešai skelbiama iki pajėgumų užtikrinimo prievolės vykdymo sutarties galiojimo pabaigos. Skelbiant informaciją apie pajėgumų aukciono laimėtoją, turi būti užtikrinti asmens duomenų apsaugos ir komercinės (gamybinės) paslapties apsaugos reikalavimai. Taryba išvadą apie įvykusio pagrindinio ar papildomo pajėgumų aukciono procedūrų atitiktį teisės aktų reikalavimams ir aukciono metu paskirstytų pajėgumų įtaką atskirai elektros energijos pajėgumų užtikrinimo mechanizmo dedamajai prie perdavimo paslaugos kainos savo interneto svetainėje paskelbia per 10 darbo dienų nuo perdavimo sistemos operatoriaus informacijos pateikimo dienos.
+
+
+
+
+11. Taryba turi teisę pasitelkti specialistus ir ekspertus pajėgumų aukciono procedūrų stebėsenai vykdyti. Tarybai nustačius, kad pajėgumų aukcionas buvo vykdomas pažeidžiant šio įstatymo nuostatas bei Pajėgumų aukcionų nuostatus ir (ar) pajėgumų aukciono dalyvio veiksmai, neatitinkantys teisės aktų reikalavimų, padarė įtaką pajėgumų aukciono rezultatams, vykdomas pajėgumų aukcionas nutraukiamas arba jau įvykusio pajėgumų aukciono rezultatai panaikinami motyvuotu Tarybos sprendimu. Tarybai savo interneto svetainėje paskelbus šį sprendimą, perdavimo sistemos operatorius per 10 darbo dienų nuo Tarybos sprendimo paskelbimo dienos skelbia naują pajėgumų aukciono vykdymo datą.
+
+
+
+
+12. Perdavimo sistemos operatorius, remdamasis atlikto tikimybinio elektros energetikos sistemos adekvatumo vertinimo išvadomis, kiekvienais metais iki liepos 1 dienos pateikia Energetikos ministerijai pasiūlymus dėl skirstomų pajėgumų nustatymo prielaidų derinimo ir (ar) tolesnių pajėgumų aukcionų organizavimo ar neorganizavimo tikslingumo. Energetikos ministerija, įvertinusi perdavimo sistemos operatoriaus pateiktus pasiūlymus, priima sprendimą dėl skirstomų pajėgumų nustatymo prielaidų keitimo ir (ar) dėl kitų pajėgumų aukcionų organizavimo ar neorganizavimo tikslingumo.
+ 
+
+
+
+
+
+
+705 straipsnis. Pajėgumų užtikrinimo prievolės vykdymo sutartis ir jos sudarymas
+
+
+1. Įvykus pagrindiniam ar papildomam pajėgumų aukcionui, aukciono laimėtojas su perdavimo sistemos operatoriumi pasirašo pajėgumų užtikrinimo prievolės vykdymo sutartį. 
+
+
+
+
+2. Pagrindinio ar papildomo pajėgumų aukciono laimėtojai, kurie su perdavimo sistemos operatoriumi pasirašė pajėgumų užtikrinimo prievolės vykdymo sutartį, privalo palaikyti pajėgumus užtikrinančių įrenginių parengtį ir kritiniu sistemos laikotarpiu perdavimo sistemos operatoriaus nurodymu pateikti Lietuvos Respublikos elektros energetikos sistemos elektros energijos gamybos ir vartojimo balansui užtikrinti reikiamą pajėgumų aukcione laimėtą pajėgumų kiekį Pajėgumų užtikrinimo mechanizmo įgyvendinimo tvarkos apraše nustatyta tvarka.
+
+
+
+
+3. Perdavimo sistemos operatorius parengia pajėgumų užtikrinimo prievolės vykdymo sutarties standartines sąlygas ir, Tarybai jas patvirtinus, skelbia jas savo interneto svetainėje iki pirmojo išankstinio pajėgumų aukciono pradžios. Esminės pajėgumų užtikrinimo prievolės vykdymo sutarties sąlygos yra šios:
+
+
+1) pajėgumų vykdytojo įsipareigojimas pajėgumų pateikimo laikotarpiu užtikrinti pajėgumų užtikrinimo prievolės vykdymą;
+
+
+
+
+2) perdavimo sistemos operatoriaus įsipareigojimas pajėgumų vykdytojui už pajėgumų užtikrinimo prievolės vykdymą atlikti mokėjimą, kuris apskaičiuojamas pagal pagrindinio ar papildomo pajėgumų aukciono metu nustatytą atitinkamo pajėgumų aukciono laimėtojui taikomą kainą;
+
+
+
+
+3) pajėgumų vykdytojo įsipareigojimas įrengti (pastatyti), rekonstruoti ir pradėti eksploatuoti planuojamus pajėgumus užtikrinančius įrenginius iki pajėgumų pateikimo laikotarpio pradžios, jeigu pajėgumų vykdytojas pajėgumų užtikrinimo prievolės vykdymo sutarties sudarymo metu nuosavybės teise ar kitais teisėtais pagrindais nevaldo esamų pajėgumus užtikrinančių įrenginių. Šiuo atveju pajėgumų vykdytojas taip pat įsipareigoja ne vėliau kaip likus 3 mėnesiams iki pajėgumų pateikimo laikotarpio pradžios pateikti perdavimo sistemos operatoriui dokumentus ir informaciją, kurie patvirtintų šių įrenginių įrengimo (statybos) ar rekonstravimo pabaigą ir, kai to reikalauja teisės aktai, išduotą leidimą ar atestatą. Pajėgumų vykdytojas įsipareigoja ne rečiau kaip kas 6 mėnesius perdavimo sistemos operatoriui teikti tarpinius dokumentus ir informaciją, kurie patvirtintų planuojamų pajėgumus užtikrinančių įrenginių įrengimo (statybos) ar rekonstravimo eigą ir prognozuojamą pabaigą;
+
+
+
+
+4) pajėgumų užtikrinimo prievolės vykdymo sutarties nutraukimo pagrindai;
+
+
+
+
+5) šalių atsakomybės sąlygos, įskaitant baudų dydžius ir taikymo tvarką.
+
+
+
+
+
+
+4. Pajėgumų užtikrinimo prievolės vykdymo sutartyje nustatoma, kad pajėgumų užtikrinimo prievolės vykdymo sutarties pagrindu pajėgumų vykdytojas pajėgumų pateikimo laikotarpiu atsisako teisės į fiksuotą tarifą ir (ar) kainos priedą už jų valdomuose įrenginiuose iš atsinaujinančių energijos išteklių pagamintą elektros energiją. Pajėgumų užtikrinimo prievolės vykdymo sutartyje taip pat nustatoma, kad asmenys, kurie po pajėgumų užtikrinimo prievolės vykdymo sutarties pasirašymo gauna kitą valstybės paramą, apie tai informuoja perdavimo sistemos operatorių. Informaciją apie asmenų faktiškai gautas paramos lėšas teikia Europos Sąjungos finansinę paramą administruojanti institucija (toliau šiame straipsnyje – įgyvendinančioji institucija). Perdavimo sistemos operatoriaus prašymu, kurį perdavimo sistemos operatorius teikia ne rečiau kaip kartą per metus, tokia informacija turi būti suteikta ne vėliau kaip per 5 darbo dienas. Perdavimo sistemos operatorius pajėgumų užtikrinimo prievolės vykdymo sutarties tikslais vadovaujasi įgyvendinančiosios institucijos suteikta informacija. Už pateiktos informacijos teisingumą atsako įgyvendinančioji institucija.
+
+
+
+
+5. Jeigu pajėgumų vykdytojas, sudaręs pajėgumų užtikrinimo prievolės vykdymo sutartį, nevykdo įpareigojimo pateikti pajėgumų užtikrinimo prievolės vykdymo sutartyje nustatytus pajėgumus, perdavimo sistemos operatorius nutraukia mokėjimus ar mokėjimų dalį, proporcingą nepateiktiems pajėgumams. Pajėgumų vykdytojas, nevykdantis įpareigojimo pateikti pajėgumų užtikrinimo prievolės vykdymo sutartyje nustatytus pajėgumus, perdavimo sistemos operatoriui turi sumokėti nepateiktiems pajėgumams proporcingą baudą. Neįvykdytos prievolės proporcingumas nustatomas Pajėgumų užtikrinimo mechanizmo įgyvendinimo tvarkos apraše nustatyta tvarka.
+
+
+
+
+6. Metinė baudų už pajėgumų užtikrinimo prievolės nevykdymą vertė, įvertinus nutraukiamų mokėjimų dydį, pajėgumų vykdytojui negali daugiau negu 120 procentų viršyti pajėgumų vykdytojo metinės pajėgumų užtikrinimo prievolės vertės, numatytos pajėgumų užtikrinimo prievolės vykdymo sutartyje.
+
+
+
+
+7. Baudų už pajėgumų užtikrinimo prievolės nevykdymą vertė pajėgumų vykdytojui per mėnesį negali viršyti penktadalio didžiausios per 12 pajėgumų pateikimo mėnesių leistinos baudų vertės, apskaičiuotos atsižvelgiant į šio straipsnio 6 dalį.
+
+
+
+
+8. Perdavimo sistemos operatoriaus prašymu skirstomųjų tinklų operatorius surenka ir pateikia informaciją:
+
+
+1) apie asmenų esamus pajėgumus užtikrinančius įrenginius, prijungtus prie skirstomųjų tinklų, kurių įrengtoji galia yra ne mažesnė kaip 1 MW, ir šių asmenų per pajėgumų pateikimo laikotarpį planuojamus naujus pajėgumus užtikrinančius įrenginius;
+
+
+
+
+2) dėl pajėgumų vykdytojų, kurių įrenginiai prijungti prie skirstomųjų tinklų, pajėgumų užtikrinimo prievolės vykdymo.
+ 
+
+
+
+
+
+
+
+
+706 straipsnis. Pajėgumų užtikrinimo prievolės perleidimas
+
+
+1. Lietuvos Respublikos pajėgumų vykdytojai, nuosavybės teise ar kitais teisėtais pagrindais valdantys ir (ar) sutelkę esamus pajėgumus užtikrinančius įrenginius, turi teisę, pritarus perdavimo sistemos operatoriui, Pajėgumų aukcionų nuostatuose nustatyta tvarka, dvišalių susitarimų pagrindu perleisti pajėgumų užtikrinimo prievolę tik kitam nuosavybės teise ar kitais teisėtais pagrindais valdančiam ir (ar) sutelkusiam esamus pajėgumus užtikrinančius įrenginius Lietuvos Respublikos asmeniui, kuris perėjo atitinkamo pagrindinio ar papildomo pajėgumų aukciono kvalifikacinę atranką atitinkamam pajėgumų pateikimo laikotarpiui.
+
+
+
+
+2. Lietuvos Respublikos pajėgumų vykdytojai, nuosavybės teise ar kitais teisėtais pagrindais valdantys ir (ar) sutelkę planuojamus pajėgumus užtikrinančius įrenginius, turi teisę, pritarus perdavimo sistemos operatoriui, Pajėgumų aukcionų nuostatuose nustatyta tvarka, dvišalių susitarimų pagrindu perleisti pajėgumų užtikrinimo prievolę tik kitam nuosavybės teise ar kitais teisėtais pagrindais valdančiam ir (ar) sutelkusiam planuojamus pajėgumus užtikrinančius įrenginius Lietuvos Respublikos asmeniui, kuris perėjo atitinkamo pagrindinio ar papildomo pajėgumų aukciono kvalifikacinę atranką atitinkamam pajėgumų pateikimo laikotarpiui.
+
+
+
+
+3. Kitos valstybės narės pajėgumų vykdytojai, nuosavybės teise ar kitais teisėtais pagrindais valdantys ir (ar) sutelkę esamus pajėgumus užtikrinančius įrenginius, turi teisę, pritarus perdavimo sistemos operatoriui, Pajėgumų aukcionų nuostatuose nustatyta tvarka, dvišalių susitarimų pagrindu perleisti pajėgumų užtikrinimo prievolę nuosavybės teise ar kitais teisėtais pagrindais valdančiam ir (ar) sutelkusiam esamus pajėgumus užtikrinančius įrenginius Lietuvos Respublikos asmeniui, kuris perėjo atitinkamo pagrindinio ar papildomo pajėgumų aukciono kvalifikacinę atranką atitinkamam pajėgumų pateikimo laikotarpiui, ar kitam nuosavybės teise ar kitais teisėtais pagrindais valdančiam ir (ar) sutelkusiam esamus pajėgumus užtikrinančius įrenginius tos valstybės narės asmeniui, kuris perėjo atitinkamo pagrindinio ar papildomo pajėgumų aukciono kvalifikacinę atranką atitinkamam pajėgumų pateikimo laikotarpiui.
+
+
+
+
+4. Perdavimo sistemos operatorius gali nepritarti pajėgumų užtikrinimo prievolės perleidimui, jeigu:
+
+
+1) pajėgumų vykdytojas, valdantis planuojamus pajėgumus užtikrinančius įrenginius bei ketinantis perleisti pajėgumų užtikrinimo prievolę, kartu su asmeniu, ketinančiu perimti pajėgumų užtikrinimo prievolę, neįrodo, kad yra pajėgūs įvykdyti perleidžiamą pajėgumų užtikrinimo prievolę iki pajėgumų pateikimo laikotarpio pradžios;
+
+
+
+
+2) pajėgumų vykdytojas yra nesumokėjęs baudos už pajėgumų užtikrinimo prievolės nevykdymą.
+
+
+
+
+
+
+5. Pajėgumų vykdytojai pajėgumų užtikrinimo prievolę perleisti gali iki pajėgumų pateikimo laikotarpio pradžios arba pajėgumų pateikimo laikotarpio metu, jeigu yra užtikrinamas nenutrūkstamas pajėgumų užtikrinimo prievolės vykdymas ir nedaroma neigiama įtaka Lietuvos Respublikos elektros energetikos sistemai.
+
+
+
+
+6. Pajėgumų vykdytojai Pajėgumų aukcionų nuostatuose nustatyta tvarka teikia perdavimo sistemos operatoriui informaciją apie pajėgumų vykdytojų sudaromus dvišalius susitarimus dėl pajėgumų užtikrinimo prievolės perleidimo.
+ 
+
+
+
+
+
+
+707 straipsnis. Pajėgumų aukcionų dalyvių prievolių įvykdymo užtikrinimas
+
+
+1. Asmenys, ketinantys dalyvauti išankstiniame pajėgumų aukcione, privalo perdavimo sistemos operatoriui pateikti prievolių įvykdymo užtikrinimą ne vėliau kaip likus 10 darbo dienų iki išankstinio pajėgumų aukciono dienos. Asmenys, ketinantys dalyvauti pagrindiniame ar papildomame pajėgumų aukcione, privalo perdavimo sistemos operatoriui pateikti prievolių įvykdymo užtikrinimą ne vėliau kaip likus 10 darbo dienų iki pagrindinio ar papildomo pajėgumų aukciono dienos, išskyrus asmenis, kurie prievolių įvykdymo užtikrinimą pateikė iki išankstinio pajėgumų aukciono pradžios. Prievolių įvykdymo užtikrinimas garantuoja perdavimo sistemos operatoriui asmens, ketinančio dalyvauti pajėgumų aukcione, įsipareigojimą laimėjus pagrindinį ar papildomą pajėgumų aukcioną sudaryti pajėgumų užtikrinimo prievolės vykdymo sutartį ir iki pajėgumų pateikimo laikotarpio pradžios pasirengti įgyvendinti pajėgumų užtikrinimo prievolę.
+
+
+
+
+2. Prievolių įvykdymo užtikrinimo dydis apskaičiuojamas dauginant numatomų teikti ribinių pajėgumų dydį (MW) iš 1 MW prievolių įvykdymo užtikrinimo garantijos dydžio, nustatyto Pajėgumų užtikrinimo mechanizmo įgyvendinimo tvarkos apraše.
+
+
+
+
+3. Perdavimo sistemos operatorius įgyja teisę pasinaudoti prievolių įvykdymo užtikrinimu, kai pajėgumų aukciono dalyvis laimi pagrindinį ar papildomą pajėgumų aukcioną, bet nesudaro pajėgumų užtikrinimo prievolės vykdymo sutarties, išskyrus atvejus, kai pajėgumų aukciono dalyvis nesudaro pajėgumų užtikrinimo prievolės vykdymo sutarties dėl aplinkybių, kurioms negalėjo užkirsti kelio, taip pat dėl kitų Civiliniame kodekse nustatytų aplinkybių, kai nėra šio pajėgumų aukciono dalyvio kaltės.
+
+
+
+
+4. Perdavimo sistemos operatorius įgyja teisę pasinaudoti prievolių įvykdymo užtikrinimu ar jo dalimi Pajėgumų užtikrinimo mechanizmo įgyvendinimo tvarkos apraše nustatyta tvarka ir sąlygomis, jeigu pajėgumų vykdytojas sudaro pajėgumų užtikrinimo prievolės vykdymo sutartį, bet iki pajėgumų pateikimo laikotarpio pradžios nevykdo ar neįvykdo pajėgumų užtikrinimo prievolės vykdymo sutartyje nustatytų įpareigojimų, išskyrus atvejus, kai pajėgumų vykdytojas įrodo, kad šių įpareigojimų negalėjo įvykdyti dėl nenugalimos jėgos (force majeure) ar kitų Civiliniame kodekse nustatytų aplinkybių, už kurias šis pajėgumų vykdytojas neatsako. Jeigu nenugalimos jėgos (force majeure) ar kitos Civiliniame kodekse nustatytos aplinkybės, už kurias pajėgumų vykdytojas neatsako, tęsėsi ne visą laiką nuo pajėgumų užtikrinimo prievolės vykdymo sutarties sudarymo momento iki pajėgumų pateikimo laikotarpio pradžios, perdavimo sistemos operatorius įgyja teisę pasinaudoti prievolių įvykdymo užtikrinimo dalimi Pajėgumų užtikrinimo mechanizmo įgyvendinimo tvarkos apraše nustatyta tvarka ir sąlygomis. Prievolių įvykdymo užtikrinimo grąžinimo tvarka ir sąlygos nustatomos Pajėgumų užtikrinimo mechanizmo įgyvendinimo tvarkos apraše.
+
+
+
+
+5. Perdavimo sistemos operatorius atsisako savo teisių ir grąžina visą prievolių įvykdymo užtikrinimą asmeniui, dalyvavusiam pagrindiniame ar papildomame pajėgumų aukcione, ir (ar) asmeniui, dalyvavusiam išankstiniame pajėgumų aukcione, jeigu asmuo nelaimi atitinkamo pajėgumų aukciono. Prievolių įvykdymo užtikrinimas grąžinamas ne vėliau kaip po 10 dienų po pajėgumų aukciono rezultatų paskelbimo. 
+
+
+
+
+6. Perdavimo sistemos operatorius atsisako savo teisių ir grąžina dalį ar visą prievolių įvykdymo užtikrinimą pajėgumų vykdytojui ne vėliau kaip per 10 dienų nuo pajėgumų pateikimo laikotarpio pradžios.
+
+
+
+
+7. Pagal šiame straipsnyje numatytą prievolių įvykdymo užtikrinimą perdavimo sistemos operatoriaus gautos lėšos gali būti naudojamos tik šio įstatymo 701 straipsnio 6 dalyje nurodytoms perdavimo sistemos operatoriaus sąnaudoms padengti.
+ 
+
+
+
+
+
+
+708 straipsnis. Kitų valstybių narių asmenų dalyvavimas pajėgumų aukcione 
+
+
+1. Kitos valstybės narės (kitų valstybių narių), kurios (kurių) elektros energetikos sistema jungiamąja linija (ar linijomis) yra sujungta su Lietuvos Respublikos elektros energetikos sistema, asmenims dalyvauti išankstiniame pajėgumų aukcione leidžiama tik tuo atveju, jeigu Lietuvos Respublikos elektros perdavimo sistemos operatorius yra sudaręs susitarimą su kitos valstybės narės elektros perdavimo sistemos operatoriumi.
+
+
+
+
+2. Kitos valstybės narės asmuo pajėgumų aukcione dalyvauja vadovaudamasis šiame įstatyme, Pajėgumų užtikrinimo mechanizmo įgyvendinimo tvarkos apraše, Pajėgumų aukcionų nuostatuose nustatytais reikalavimais ir perdavimo sistemos operatoriaus sudarytu susitarimu su kitos valstybės narės perdavimo sistemos operatoriumi. 
+
+
+
+
+Papildyta skirsniu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
 VIENUOLIKTASIS SKIRSNIS
 APRŪPINIMO ELEKTROS ENERGIJA NUTRAUKIMAS IR RIBOJIMAS. TECHNINIAI IR SAUGUMO REIKALAVIMAI
  
 
 
-71 straipsnis. Laikino elektros energijos persiuntimo tinklų naudotojams nutraukimo ir ribojimo sąlygos nesant tinklų naudotojų kaltės
+71 straipsnis. Laikino elektros energijos persiuntimo iš elektros energijos tinklų nutraukimo ir ribojimo sąlygos tinklų naudotojams nesant tinklų naudotojų kaltės 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 1. Elektros energijos persiuntimas tinklų naudotojams gali būti laikinai nutrauktas nesant tinklų naudotojų kaltės tik siekiant apsaugoti visuomenės interesus, tarp jų Energetikos įstatyme nustatyta tvarka paskelbus ekstremaliąją energetikos padėtį, arba įgyvendinant ypatingos valstybinės svarbos projektus, arba atliekant naujų vartotojų ar gamintojų prijungimo ar elektros tinklų priežiūros darbus. Laikino elektros energijos persiuntimo nutraukimo siekiant užtikrinti visuomenės interesus ir su tuo tiesiogiai susijusių pagrįstų nuostolių apskaičiavimo ir atlyginimo tvarką nustato energetikos ministras.
@@ -5619,6 +6506,94 @@ APRŪPINIMO ELEKTROS ENERGIJA NUTRAUKIMAS IR RIBOJIMAS. TECHNINIAI IR SAUGUMO RE
 Straipsnio pakeitimai:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
+ 
+
+
+
+
+711 straipsnis. Laikino pagamintos elektros energijos persiuntimo į elektros energijos tinklus nutraukimo ir ribojimo sąlygos nesant gamintojo kaltės 
+
+
+1. Pagamintos elektros energijos persiuntimas gali būti laikinai nutrauktas ar apribotas, jeigu nėra gamintojo kaltės, tik dėl šio įstatymo 71 straipsnio 1 dalyje nurodytų aplinkybių. 
+
+
+
+
+2. Tinklų operatorius gali iš dalies arba visiškai atjungti gamintojo įrenginius šio straipsnio 3 dalyje nustatytam laikotarpiui atlikdamas naujų vartotojų ar gamintojų elektros įrenginių prijungimo, elektros tinklų priežiūros darbus ar įgyvendindamas ypatingos valstybinės svarbos projektus ne vėliau kaip prieš 5 kalendorines dienas apie tai pranešęs gamintojui. Iš dalies arba visiškai atjungti gamintojo įrenginius be išankstinio įspėjimo galima tik tais atvejais, kai tuo siekiama išvengti avarijos ar gedimų elektros energetikos sistemoje ar tinklų operatoriaus elektros tinkle arba likviduoti patirtą avariją, gedimus ar sutrikimus. Šiais atvejais Vyriausybės įgaliotos institucijos nustatyta tvarka ir sąlygomis gamintojui turi būti nedelsiant pranešama apie pagamintos elektros energijos persiuntimo nutraukimą ar apribojimą.
+
+
+
+
+3. Atliekant naujų vartotojų ar gamintojų elektros įrenginių prijungimo, elektros tinklų priežiūros darbus ar įgyvendinant ypatingos valstybinės svarbos projektus, pagamintos elektros energijos persiuntimas gali būti laikinai nutrauktas ar apribotas ne ilgesniam kaip 336 valandų per 2 kalendorinius metus laikotarpiui.
+
+
+
+
+4. Tinklų operatorius ir gamintojas gali susitarti dėl objektyviai pagrįsto ir reikalingo ilgesnio negu šio straipsnio 3 dalyje nurodyto laikino pagamintos elektros energijos persiuntimo nutraukimo ar apribojimo laikotarpio.
+
+
+
+
+5. Už nepersiųstą (nepatiektą) pagamintą elektros energijos kiekį, esant ilgesniam negu šio straipsnio 3 dalyje nurodytam laikotarpiui arba ilgesniam negu pagal šio straipsnio 4 dalį sutartą laikotarpį, su tuo tiesiogiai susiję pagrįsti nuostoliai apskaičiuojami ir atlyginami gamintojui energetikos ministro nustatyta tvarka įvertinant:
+
+
+1) gamintojo prarastas pajamas ir sutaupytas išlaidas;
+
+
+
+
+2) elektros energijos persiuntimo nutraukimo ar apribojimo laiką;
+
+
+
+
+3) nepersiųstos (nepatiektos) elektros energijos kiekį ir priežastis (nustatoma pagal operatoriaus bei gamintojo operatyvinius dokumentus ir registravimo prietaisų rodmenis).
+
+
+
+
+
+
+6. Tinklų operatorius gamintojui neatlygina jo patirtų nuostolių, kai pagamintos elektros energijos persiuntimas nutraukiamas ar apribojamas:
+
+
+1) operatoriui nustačius tokius gamintojo elektros įrenginių ir (ar) jų eksploatacijos trūkumus, dėl kurių gresia avarija, gedimai, sutrikimai ar kyla pavojus žmonių gyvybei ir saugumui;
+
+
+
+
+2) kai neužtikrinami elektros kokybės standarto bei operatorių išduotų techninių sąlygų ir kitų atitinkamų techninių norminių dokumentų reikalavimai;
+
+
+
+
+3) kai tai būtina siekiant išvengti ekstremaliosios padėties ar susiklosčius energetikos sistemoje ar tinklų operatoriaus elektros tinkle ne dėl tinklų operatoriaus kaltės ekstremaliajai padėčiai, kuri kelia grėsmę sistemos ar elektros tinklo funkcionavimui ir stabilumui;
+
+
+
+
+4) susidarius generavimo galios ar elektros energijos deficitui ir tada, kai dėl izoliuoto elektros energetikos sistemos darbo bandymo nuostoliai atsiranda dėl aplinkybių, kurių prieš pradedant izoliuoto elektros energetikos sistemos darbo bandymą nebuvo ir kurios negalėjo būti numatytos, taip pat jų nebuvo galima išvengti, kontroliuoti ir pašalinti.
+
+
+
+
+
+
+7. Gamintojas, nustatęs, kad pagamintos elektros energijos persiuntimas buvo nutrauktas ar apribotas ilgiau negu šio straipsnio 3 dalyje nurodytą laikotarpį arba ilgiau negu pagal šio straipsnio 4 dalį sutartą laikotarpį, per 5 darbo dienas nuo šių aplinkybių nustatymo kreipiasi į tinklų operatorių, o tinklų operatorius gamintojo pateiktą prašymą išnagrinėja šio įstatymo 71 straipsnio 4 dalies 3 punkte nustatyta tvarka.
+
+
+
+
+8. Tinklų operatorius, nustatęs, kad gamintojo prašymas dėl nuostolių atlyginimo yra pagrįstas, gamintojui nuostolius, patirtus dėl elektros energijos persiuntimo nutraukimo ar apribojimo, atlygina per 30 kalendorinių dienų nuo gamintojo prašymo išnagrinėjimo dienos, jeigu gamintojas ir operatorius nesusitaria kitaip. Tinklų operatoriai gamintojų prašymus nagrinėja vadovaudamiesi energetikos ministro nustatyta tvarka.
+
+
+
+
+9. Taryba, nustatydama viršutines perdavimo ir skirstymo paslaugų kainų ribas, įvertina tinklų operatoriaus sąnaudas, patirtas gamintojui atlyginant pagrįstus nuostolius, atsiradusius dėl naujų vartotojų ar gamintojų elektros įrenginių prijungimo, elektros energijos persiuntimo nutraukimo ar apribojimo atliekant elektros tinklų priežiūros darbus ar įgyvendinant ypatingos valstybinės svarbos projektus, jeigu šie nuostoliai atsirado ne dėl operatoriaus kaltės. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
  
 
 
@@ -5795,6 +6770,14 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
 
 
 4) elektros energijos kiekį, kuris elektros energiją gaminančio vartotojo buvo patiektas į elektros tinklus ir po to suvartotas savo reikmėms ir ūkio poreikiams;
+
+
+
+
+5) elektros energijos kiekį, kuris buvo pagamintas atsinaujinančių išteklių bendrijai priklausančiuose gamybos įrenginiuose, patiektas į elektros tinklus ir suvartotas atsinaujinančių išteklių energijos bendrijos ir (ar) jos dalyvių reikmėms ir ūkio poreikiams. 
+Papildyta straipsnio punktu:
+Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
+ 
 
 
 
@@ -6343,19 +7326,40 @@ SKUNDŲ NAGRINĖJIMAS IR ATSAKOMYBĖ
  
 
 
-78 straipsnis. Vartotojų ir elektros energetikos įmonių ginčų sprendimas ne teismo tvarka. Skundų nagrinėjimas
+78 straipsnis. Ginčų sprendimas ne teismo tvarka. Skundų nagrinėjimas
 
 
-1. Vartotojų ir elektros energetikos įmonių ginčai nagrinėjami Lietuvos Respublikos energetikos įstatyme nustatyta tvarka.
+1. Vartotojų ir elektros energetikos įmonių ginčai nagrinėjami Energetikos įstatyme nustatyta tvarka.
 
 
 
 
-2. Asmenų skundai nagrinėjami Lietuvos Respublikos energetikos įstatyme nustatyta tvarka.
+2. Taryba išankstine privaloma ne teismo tvarka nagrinėja ginčus tarp asmenų ir perdavimo sistemos operatoriaus, kurie kyla dėl:
+
+
+1) asmenų nuosavybės teise ar kitais teisėtais pagrindais valdomų ir (ar) sutelktų pajėgumus užtikrinančių įrenginių atitikties Pajėgumų aukcionų nuostatuose nurodytiems techniniams reikalavimams;
+
+
+
+
+2) pajėgumų užtikrinimo prievolės vykdymo sutarties sudarymo ar atsisakymo ją sudaryti, jos vykdymo ir (ar) nutraukimo.
+
+
+
+
+
+
+3. Tarybos sprendimai, priimti išnagrinėjus asmenų ir perdavimo sistemos operatorių ginčus, įsigalioja ir yra privalomi vykdyti, jeigu nė viena ginčo šalis per 30 dienų nuo Tarybos sprendimo dėl ginčo priėmimo nepareiškia ieškinio bendrosios kompetencijos teisme Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka, prašydama nagrinėti ginčą iš esmės. Kreipimasis į bendrosios kompetencijos teismą po Tarybos sprendimo dėl ginčo priėmimo nelaikomas šio sprendimo apskundimu.
+
+
+
+
+4. Asmenų skundai nagrinėjami Energetikos įstatyme nustatyta tvarka. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-2090, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19368
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
  
 
 
@@ -6523,7 +7527,18 @@ priedas
 
 
 
-12. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/944 dėl elektros energijos vidaus rinkos bendrųjų taisyklių, kuria iš dalies keičiama Direktyva 2012/27/ES.
+12. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/943 dėl elektros energijos vidaus rinkos. 
+Papildyta punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
+
+
+
+
+13. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/944 dėl elektros energijos vidaus rinkos bendrųjų taisyklių, kuria iš dalies keičiama Direktyva 2012/27/ES.
+Punkto numeracijos pakeitimas:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+ 
 
 
 Priedo pakeitimai:
