@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A0BAB27D768C"
 
 # Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 2-16, i. k. 0961010ISTA0VIII-49
  
@@ -158,7 +158,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
  
  
  
@@ -436,7 +436,7 @@ Lietuvos gynybinė galia grindžiama:
 – valstybės atsargomis ir kitais mobilizacinio rezervo ištekliais.
 – šalies mokslo ir studijų institucijų bei įmonių potencialo panaudojimu.
 Lietuvos kariuomenė ir kitos krašto apsaugos institucijos kuriamos ir rengiamos Lietuvos valstybės gynybai ir sąveikai su NATO pajėgomis. 
-Valstybės ginkluotąsias pajėgas taikos metu sudaro visos kariuomenės rūšys ir jos aktyvusis rezervas. Įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) metu ginkluotosioms pajėgoms taip pat priskiriama: Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Vadovybės apsaugos departamentas prie Vidaus reikalų ministerijos (toliau – Vadovybės apsaugos departamentas), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba), koviniai Lietuvos šaulių sąjungos būriai ir kiti koviniai piliečių bei jų organizacijų ginkluoto pasipriešinimo (partizanų) būriai, pavaldūs ginkluotųjų pajėgų vadovybei.
+Valstybės ginkluotąsias pajėgas taikos metu sudaro kariuomenė ir jos aktyvusis kariuomenės personalo rezervas. Įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) metu ginkluotosioms pajėgoms taip pat priskiriama: Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Lietuvos Respublikos vadovybės apsaugos tarnyba (toliau – Vadovybės apsaugos tarnyba), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba), koviniai Lietuvos šaulių sąjungos būriai ir kiti koviniai piliečių bei jų organizacijų ginkluoto pasipriešinimo (partizanų) būriai, pavaldūs ginkluotųjų pajėgų vadovybei.
 Lietuvos gynybos sistemos pagrindas – visuotinės ir besąlyginės gynybos principas, įgyvendinamas atsižvelgiant į NATO kolektyvinės gynybos principą. Šis principas įtvirtinamas įstatymuose, kituose gynybą reglamentuojančiuose teisės aktuose, kariuomenės bei jos aktyviojo rezervo parengimo gynybai planuose ir kituose dokumentuose. Šiuo principu taip pat grindžiamas piliečių mokymas ir rengimasis gynybai bei pasipriešinimui.
 Visuotiniu piliečių pasirengimu pasipriešinimui ir ginkluotųjų pajėgų pasirengimu besąlygiškai gynybai nuo agresijos, įgyvendinamai individualiai ir kartu su NATO sąjungininkų pajėgomis, Lietuva siekia atgrasinti kiekvieną potencialų užpuoliką.
 Lietuva priešinsis agresoriui visomis jai prieinamomis priemonėmis: karine gynyba ir partizaniniais veiksmais, civilių piliečių nepaklusnumu, nekolaboravimu bei kitais būdais. 
@@ -457,6 +457,8 @@ Nr. X-852, 2006-10-12, Žin., 2006, Nr. 116-4398 (2006-10-31)
 Nr. XI-409, 2009-07-23, Žin., 2009, Nr. 95-4034 (2009-08-08)
 Skirsnio pakeitimai:
 Nr. XII-1284, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15004
+Nr. XIII-2672, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21315
+Nr. XIII-2914, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10914
  
 
 
@@ -653,14 +655,17 @@ VYKDOMOSIOS IR KITOS INSTITUCIJOS:
 – Užsienio reikalų ministerija;
 – Krašto apsaugos ministerija ir kitos krašto apsaugos ministrui pavaldžios krašto apsaugos sistemos institucijos;
 – kariuomenė; 
-– Vidaus reikalų ministerija, policija, Valstybinė sienos apsaugos tarnyba ir kitos ministerijos valdymo sričiai priklausančios viešąjį saugumą užtikrinančios įstaigos;
+– Vidaus reikalų ministerija, policija, Valstybės sienos apsaugos tarnyba ir kitos ministerijos valdymo sričiai priklausančios viešąjį saugumą užtikrinančios įstaigos;
 – Valstybės saugumo departamentas;
 – Specialiųjų tyrimų tarnyba;
-– kitos ministerijos ir valstybės bei savivaldybių institucijos pagal savo kompetenciją.
+– Vadovybės apsaugos tarnyba;
+– kitos ministerijos ir valstybės bei savivaldybių institucijos pagal savo kompetenciją. 
 Skyriaus pakeitimai:
 Nr. VIII-1997, 2000 10 10, Žin., 2000, Nr. 92-2849 (2000 10 31)
 Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
+Skyriaus pakeitimai:
+Nr. XIII-2914, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10914
  
 
 
@@ -801,8 +806,8 @@ Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 18 skyrius
 KRAŠTO APSAUGOS SISTEMA
  
-Krašto apsaugos sistemą sudaro Krašto apsaugos ministerija, kariuomenė (ginkluotosios pajėgos), Generolo Jono Žemaičio Lietuvos karo akademija, puskarininkių mokykla ir kitos karo mokymo įstaigos, žvalgybos ir kontržvalgybos tarnyba (Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos), karo prievolės ir mobilizacijos, gynybai reikalingos ginkluotės ir kitų prekių, paslaugų ir darbų įsigijimo ir valdymo bei kitos krašto apsaugos ministrui pavaldžios institucijos, krašto apsaugos reikmėms skirtos karinės teritorijos, kiti infrastruktūros objektai, įmonės bei įstaigos. Krašto apsaugos ministerija yra vadovaujanti krašto apsaugos sistemos institucija. Krašto apsaugos ministerijos ir visos krašto apsaugos sistemos struktūrą bei veiklą išsamiau reglamentuoja kiti įstatymai ir teisės aktai.
-Krašto apsaugos ministerijos ir visos krašto apsaugos sistemos veiklai vadovauja krašto apsaugos ministras. Jis atsako už gynybos politikos įgyvendinimą, krašto apsaugos sistemos plėtrą ir jos parengimą ginti valstybę. Ministro teises, pareigas, funkcijas ir atsakomybę nustato įstatymai ir kiti teisės aktai. 
+Krašto apsaugos sistemą sudaro Krašto apsaugos ministerija, kariuomenė (ginkluotosios pajėgos), Generolo Jono Žemaičio Lietuvos karo akademija, žvalgybos ir kontržvalgybos tarnyba (Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos), karo prievolės ir mobilizacijos, gynybai reikalingos ginkluotės ir kitų prekių, paslaugų ir darbų įsigijimo ir valdymo bei kitos krašto apsaugos ministrui pavaldžios institucijos, krašto apsaugos reikmėms skirtos karinės teritorijos, kiti infrastruktūros objektai, įmonės bei įstaigos. Krašto apsaugos ministerija yra vadovaujanti krašto apsaugos sistemos institucija. Krašto apsaugos ministerijos ir visos krašto apsaugos sistemos struktūrą bei veiklą išsamiau reglamentuoja kiti įstatymai ir teisės aktai.
+Krašto apsaugos ministerijos ir visos krašto apsaugos sistemos veiklai vadovauja krašto apsaugos ministras. Jis atsako už gynybos politikos įgyvendinimą, krašto apsaugos sistemos plėtrą ir jos parengimą ginti valstybę. Ministro teises, pareigas, funkcijas ir atsakomybę nustato įstatymai ir kiti teisės aktai.
 Lietuvos kariuomenė yra valstybės ginkluotos gynybos institucija, pagrindinė krašto apsaugos sistemos dalis. Kariuomenė yra ištikima Lietuvos Respublikai, jos Konstitucijai, tarnauja valstybei ir visuomenei, paklūsta Lietuvos piliečių demokratiškai išrinktai valstybės valdžiai.
 Aukščiausiasis valstybės karinis pareigūnas, kariniais klausimais atstovaujantis Lietuvos kariuomenei, yra kariuomenės vadas. Svarbiausias jo uždavinys taikos metu – tinkamai rengti kariuomenę ginkluotai valstybės gynybai, užtikrinant jos sąveiką su kitų NATO valstybių ginkluotosiomis pajėgomis ir dalyvavimą tarptautinėse operacijose. Kariuomenės vadas taikos metu yra tiesiogiai pavaldus krašto apsaugos ministrui ir vykdo nustatytą kariuomenės plėtros politiką. Kariuomenės vado skyrimo ir atleidimo tvarką, teises, pareigas, funkcijas ir atsakomybę nustato Lietuvos Respublikos Konstitucija, įstatymai bei kiti teisės aktai.
 Taikos metu kariuomenė savarankiškai ir bendradarbiaudama su NATO institucijomis bei kitų NATO valstybių ginkluotosiomis pajėgomis:
@@ -812,8 +817,8 @@ Taikos metu kariuomenė savarankiškai ir bendradarbiaudama su NATO institucijom
 – įstatymų nustatytais atvejais ir tvarka gali būti pasiųsta padėti kitoms valstybės ir savivaldybių institucijoms, taip pat įstatymų nustatyta tvarka organizuoja, koordinuoja, vadovauja ir vykdo žmonių paieškos ir gelbėjimo bei teršimo incidentų likvidavimo darbus.
 Kariuomenė turi būti rengiama ugdant kario asmenybę, pilietiškumą ir patriotizmą, profesionalius įgūdžius ir kario etiką. Vadai turi puoselėti karių ir civilių gyventojų tarpusavio supratimą ir pasitikėjimą.
 Karo tarnybos rūšis ir atlikimo tvarką bei karių teisinį statusą reglamentuoja Lietuvos Respublikos Konstitucija, įstatymai ir kiti teisės aktai.
-Kariuomenės vienetai komplektuojami profesinės ir nuolatinės privalomosios pradinės karo tarnybos kariais. Parengtojo kariuomenės personalo rezervo skaičius ir kartotinis jų rengimas turi atitikti valstybės gynybinius poreikius.
-Kariuomenę sudaro šios pajėgų rūšys: sausumos pajėgos, karinės oro pajėgos, karinės jūrų pajėgos, specialiųjų operacijų pajėgos. Į sausumos pajėgas įeina krašto apsaugos savanorių pajėgos, sudarančios kariuomenės aktyvųjį rezervą. Kariuomenės pajėgų rūšių sudėtį, uždavinius ir funkcijas nustato įstatymai ir kiti teisės aktai.
+Kariuomenės vienetai komplektuojami iš profesinės, savanoriškos nenuolatinės karo tarnybos, nuolatinės privalomosios pradinės karo tarnybos ir aktyviojo kariuomenės personalo rezervo karių. Aktyviojo kariuomenės personalo rezervo karių karinių įgūdžių atnaujinimas turi atitikti valstybės gynybinius poreikius.
+Kariuomenę sudaro šios pajėgų rūšys: sausumos pajėgos, karinės oro pajėgos, karinės jūrų pajėgos, specialiųjų operacijų pajėgos. Kariuomenės pajėgų rūšių sudėtį, uždavinius ir funkcijas nustato įstatymai ir kiti teisės aktai.
 Principinę kariuomenės struktūrą krašto apsaugos ministro teikimu, jam gavus Valstybės gynimo tarybos pritarimą ir Vyriausybės įgaliojimą, tvirtina Seimas.
 Teisėsaugą kariuomenėje ir visoje krašto apsaugos sistemoje įstatymų ir kitų teisės aktų nustatyta tvarka vykdo Lietuvos teisėsaugos institucijų specializuoti padaliniai ir karo policija. Karinės teisėsaugos specializuoti padaliniai ir pareigybės steigiami prokuratūros ir ikiteisminio tyrimo institucijose. Karių ir karininkų bylas dėl tarnybos arba su tarnyba susijusių teisės pažeidimų nagrinėja specializuotas teismas. Karo policijos statusą, jurisdikciją, uždavinius ir funkcijas nustato įstatymai.
 Skyriaus pakeitimai:
@@ -830,6 +835,7 @@ Skyriaus pakeitimai:
 Nr. XII-2428, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17525
 Nr. XII-2723, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26834
 Nr. XIII-545, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11942
+Nr. XIII-2672, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21315
  
 
 
@@ -840,22 +846,22 @@ VIDAUS REIKALŲ MINISTERIJA, POLICIJA IR KITOS MINISTERIJOS VALDYMO SRIČIAI PRI
  
 Vidaus reikalų ministerija pagal savo kompetenciją vadovauja viešojo saugumo užtikrinimo valstybės politikos įgyvendinimui ir jį kontroliuoja.
 Pagrindinė policijos, kaip nacionalinio saugumo sistemos sudedamosios dalies, paskirtis – užtikrinti asmens ir visuomenės saugumą, žmogaus teises ir laisves, palaikyti viešąją tvarką, kovoti su nusikalstamomis veikomis. Policijos funkcijas nustato įstatymas. 
-Vidaus reikalų ministerijos vidaus tarnybos daliniai reorganizuojami į Vidaus reikalų ministerijai pavaldžią Viešojo saugumo tarnybą. Viešojo saugumo tarnybos veiklos pagrindus nustato įstatymas.
-Valstybės finansų sistemos apsaugą nuo nusikalstamo poveikio užtikrina Finansinių nusikaltimų tyrimo tarnyba. Šios tarnybos teisinį statusą ir veiklos pagrindus reglamentuoja įstatymas.
-Lietuvos Respublikos vadovybės ir oficialių svečių apsaugą nuo teroro aktų, smurto ir kitokio kėsinimosi bei su šio uždavinio įgyvendinimu susijusių saugomų objektų apsaugą užtikrina Vadovybės apsaugos departamentas. Jo veiklos pagrindus bei saugomų asmenų statusą nustato įstatymas.
+Viešojo saugumo tarnybos paskirtis – atkurti ir (ar) užtikrinti viešąją tvarką ypatingųjų ir ekstremaliųjų situacijų atvejais. Viešojo saugumo tarnybos veiklos pagrindus nustato įstatymas.
+Valstybės finansų sistemos apsaugą nuo nusikalstamo poveikio užtikrina Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos. Šios tarnybos teisinį statusą ir veiklos pagrindus nustato įstatymas.
 Valstybės sienos apsaugos tarnybos paskirtis – įgyvendinti valstybės sienos sausumoje, jūroje, Kuršių mariose ir pasienio vidaus vandenyse apsaugą ir valstybės sienos kirtimo kontrolę, užkardyti ir reguliuoti pasienio incidentus. Pagal kariuomenės vado nustatytus reikalavimus šios tarnybos daliniai rengiami ginkluotos gynybos veiksmams valstybės gynybos (karo) atveju.
-Valstybės sienos apsaugos tarnyba, Vadovybės apsaugos departamentas, Viešojo saugumo tarnyba karo padėties ir valstybės gynybos (karo) metu priskiriamos ginkluotosioms pajėgoms.
-Speciali valstybės įstaiga, priklausanti Vidaus reikalų ministerijos valdymo sričiai, organizuoja ir koordinuoja civilinę saugą, priešgaisrinę apsaugą ir gelbėjimo darbus.
-Policija, Valstybės sienos apsaugos tarnyba ir kitos Vidaus reikalų ministerijos valdymo sričiai priklausančios viešąjį saugumą užtikrinančios įstaigos formuojamos statutinės valstybės tarnybos pagrindais.
+Valstybės sienos apsaugos tarnyba, Viešojo saugumo tarnyba karo padėties ir valstybės gynybos (karo) metu priskiriamos ginkluotosioms pajėgoms.
+Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos organizuoja ir koordinuoja civilinę saugą, priešgaisrinę saugą ir gelbėjimo darbus.
+Policija, Valstybės sienos apsaugos tarnyba ir kitos Vidaus reikalų ministerijos valdymo sričiai priklausančios viešąjį saugumą užtikrinančios įstaigos formuojamos statutinės valstybės tarnybos pagrindais. 
 Skyriaus pakeitimai:
 Nr. VIII-1997, 2000 10 10, Žin., 2000, Nr. 92-2849 (2000 10 31)
 Nr. IX-1457, 2003-04-03, Žin., 2003, Nr. 38-1702 (2003-04-24)
-Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01), atitaisymas skelbtas: Žin., 2003, Nr. 49
+Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 Nr. IX-2030, 2004-02-19, Žin., 2004, Nr. 39-1270 (2004-03-13)
 Nr. X-814, 2006-09-19, Žin., 2006, Nr. 102-3936 (2006-09-26)
 Nr. XI-1304, 2011-03-31, Žin., 2011, Nr. 46-2156 (2011-04-16)
 Skyriaus pakeitimai:
 Nr. XII-1284, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15004
+Nr. XIII-2914, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10914
  
 
 
@@ -902,6 +908,18 @@ Specialiųjų tyrimų tarnybos veiklą reglamentuoja įstatymai ir kiti teisės 
 Seimas, laikydamasis valstybės paslapčių apsaugos reikalavimų ir jo nustatytų specialių procedūrų, atlieka parlamentinę Specialiųjų tyrimų tarnybos veiklos kontrolę.
 Skyriaus pakeitimai:
 Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
+ 
+
+
+
+
+221 SKYRIUS
+Vadovybės apsaugos tarnyba
+ 
+Vadovybės apsaugos tarnyba užtikrina saugomų asmenų ir saugomų objektų saugumą, vykdo teroro aktų ir smurtinių išpuolių prieš saugomus asmenis ir saugomus objektus prevenciją. Vadovybės apsaugos tarnybos veiklos pagrindus ir saugomų asmenų statusą nustato įstatymas.
+Vadovybės apsaugos tarnyba karo padėties ir valstybės gynybos (karo) metu priskiriama ginkluotosioms pajėgoms. 
+Papildyta skyriumi:
+Nr. XIII-2914, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10914
  
 
 
@@ -1116,3 +1134,13 @@ Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 pried�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2350, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12440
 Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2672, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21315
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2914, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10914
+Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio 7, 12, 19 skyrių pakeitimo ir Įstatymo priedėlio papildymo 22-1 skyriumi įstatymas
