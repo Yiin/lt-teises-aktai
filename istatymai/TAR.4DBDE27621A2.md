@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4DBDE27621A2"
 
 # Lietuvos Respublikos korupcijos prevencijos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 57-2297, i. k. 1021010ISTA00IX-904
  
@@ -571,7 +571,10 @@ Nr. X-1571, 2008-06-05, Žin., 2008, Nr. 71-2700 (2008-06-21), i. k. 1081010ISTA
 
 
 
-4) asmens atžvilgiu taikomas ar taikytas organizuoto nusikalstamumo prevencines poveikio priemones pagal Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymą;
+4) asmens atžvilgiu taikomas ar taikytas organizuoto nusikalstamumo prevencijos priemones pagal Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymą;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3076, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14351
+ 
 
 
 
@@ -1134,3 +1137,8 @@ Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 6 ir 9 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1298, 2018-06-27, paskelbta TAR 2018-07-03, i. k. 2018-11179
 Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 5, 8 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3076, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14351
+Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 9 straipsnio pakeitimo įstatymas
