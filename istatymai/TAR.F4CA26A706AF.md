@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F4CA26A706AF"
 
 # Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-09-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 105-3019, i. k. 0991010ISTAIII-1443
  
@@ -371,7 +371,10 @@ ANTRASIS SKIRSNIS
 1. Valstybės paslaptį gali sudaryti:
 
 
-1) detalūs duomenys apie valstybės gynybos rezervą ir suvestiniai detalūs duomenys apie mobilizacinį materialinių išteklių rezervą;
+1) detalūs duomenys apie valstybės gynybos rezervą ir detalūs duomenys apie mobilizacinį materialinių išteklių rezervą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2622, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20651
+ 
 
 
 
@@ -441,7 +444,10 @@ ANTRASIS SKIRSNIS
 
 
 
-15) suvestiniai detalūs Lietuvos Respublikos ginklų fondo prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Ginklų fondas) tvarkomo registro duomenys, kai ginklo savininkas, valdytojas ar naudotojas yra krašto apsaugos sistemos institucija, vidaus reikalų sistemos institucija ar kriminalinės žvalgybos subjektas arba žvalgybos institucija;
+15) detalūs Ginklų registro duomenys, kai ginklo savininkas, valdytojas ar naudotojas yra krašto apsaugos sistemos institucija, vidaus reikalų sistemos institucija ar kriminalinės žvalgybos subjektas arba žvalgybos institucija; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2622, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20651
+ 
 
 
 
@@ -511,7 +517,15 @@ ANTRASIS SKIRSNIS
 
 
 
-29) valstybės paslaptį sudarančios informacijos apsaugai naudojami kodinių užraktų ir elektroninių įeigos kontrolės sistemų kodai.
+29) valstybės paslaptį sudarančios informacijos apsaugai naudojami kodinių užraktų ir elektroninių įeigos kontrolės sistemų kodai;
+
+
+
+
+30) informacija, galinti atskleisti reikšmingai slaptai su teisėsaugos institucijomis bendradarbiavusio organizuotos nusikalstamos grupės nario ar asmens, turinčio ryšių su organizuotomis nusikalstamomis grupėmis ar jų nariais, tapatybę. 
+Papildyta straipsnio punktu:
+Nr. XIII-3073, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14348
+ 
 
 
 
@@ -551,12 +565,18 @@ ANTRASIS SKIRSNIS
 
 
 
-7) suvestiniai detalūs duomenys apie Lietuvos kariuomenės materialinį ir techninį aprūpinimą, kiekybinę ir personalinę sudėtį, taip pat Lietuvos kariuomenės specialiosios paskirties padalinių struktūrą ir veiklos metodus;
+7) detalūs duomenys apie Lietuvos kariuomenės materialinį ir techninį aprūpinimą, kiekybinę ir personalinę sudėtį, taip pat Lietuvos kariuomenės specialiosios paskirties padalinių struktūrą ir veiklos metodus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2622, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20651
+ 
 
 
 
 
-8) suvestiniai detalūs duomenys apie valstybės materialinių išteklių rezervą;
+8) detalūs duomenys apie valstybės materialinių išteklių rezervą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2622, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20651
+ 
 
 
 
@@ -586,12 +606,18 @@ ANTRASIS SKIRSNIS
 
 
 
-14) suvestiniai detalūs duomenys apie valstybės sienos apsaugos organizavimą ir vykdymą bei su tuo susiję planai;
+14) detalūs duomenys apie valstybės sienos apsaugos organizavimą ir vykdymą bei su tuo susiję planai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2622, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20651
+ 
 
 
 
 
-15) detalūs duomenys apie Lietuvos kariuomenės, kitų krašto apsaugos sistemos institucijų ir ginkluotųjų pajėgų, vidaus reikalų sistemos institucijų, kriminalinės žvalgybos subjektų, žvalgybos institucijų, prokuratūros, Lietuvos banko, Ginklų fondo aprūpinimą ginklais, šaudmenimis, sprogmenimis, kovine technika, specialiosiomis priemonėmis, kriminalinės žvalgybos subjektų, žvalgybos institucijų aprūpinimą techninėmis priemonėmis, taip pat asmens saugos ir aktyviosios ginties, radiacinės ir cheminės saugos, specialiųjų degazavimo priemonių ir inžinerinės technikos saugojimo ir apskaitos normas, paskirstymą ir apsaugos organizavimą;
+15) detalūs duomenys apie Lietuvos kariuomenės, kitų krašto apsaugos sistemos institucijų ir ginkluotųjų pajėgų, vidaus reikalų sistemos institucijų, kriminalinės žvalgybos subjektų, žvalgybos institucijų, prokuratūros, Lietuvos banko aprūpinimą ginklais, šaudmenimis, sprogmenimis, kovine technika, specialiosiomis priemonėmis, kriminalinės žvalgybos subjektų, žvalgybos institucijų aprūpinimą techninėmis priemonėmis, taip pat asmens saugos ir aktyviosios ginties, radiacinės ir cheminės saugos, specialiųjų degazavimo priemonių ir inžinerinės technikos saugojimo ir apskaitos normas, paskirstymą ir apsaugos organizavimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2622, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20651
+ 
 
 
 
@@ -659,9 +685,11 @@ Nr. XIII-1013, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01026
 
 
 
-28) suvestiniai detalūs duomenys apie ypatingos svarbos informacinę infrastruktūrą ir jos valdytojus. 
+28) detalūs duomenys apie ypatingos svarbos informacinę infrastruktūrą ir jos valdytojus.
 Papildyta straipsnio punktu:
 Nr. XIII-1104, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06742
+Straipsnio punkto pakeitimai:
+Nr. XIII-2622, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20651
  
 
 
@@ -1275,7 +1303,10 @@ Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 
 
-8) asmuo palaiko ar per pastaruosius 5 metus palaikė ryšius su asmeniu, turinčiu neišnykusį ar nepanaikintą teistumą už nusikalstamą veiką, padarytą organizuotos grupės ar nusikalstamo susivienijimo, arba asmeniu, kuriam taikomos prevencinio poveikio priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymą, jeigu tokių ryšių palaikymas kelia grėsmę patikėtos įslaptintos informacijos saugumui;
+8) asmuo palaiko ar per pastaruosius 5 metus palaikė ryšius su asmeniu, turinčiu neišnykusį ar nepanaikintą teistumą už nusikalstamą veiką, padarytą organizuotos grupės ar nusikalstamo susivienijimo, arba asmeniu, kuriam taikomos organizuoto nusikalstamumo prevencijos priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymą, jeigu tokių ryšių palaikymas kelia grėsmę patikėtos įslaptintos informacijos saugumui; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3073, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14348
+ 
 
 
 
@@ -1305,7 +1336,10 @@ Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 
 
 
-14) asmuo yra tas asmuo, kuriam taikomos ar per pastaruosius 5 metus buvo taikytos prevencinio poveikio priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymą;
+14) asmuo yra tas asmuo, kuriam taikomos ar per pastaruosius 5 metus buvo taikytos organizuoto nusikalstamumo prevencijos priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3073, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14348
+ 
 
 
 
@@ -2492,7 +2526,10 @@ SEPTINTASIS SKIRSNIS
 
 
 
-3) tiekėjo verslo ryšiai, tiekėjo – juridinio asmens patronuojamosios įmonės, tiekėjo – juridinio asmens dalyvių, turinčių ne mažiau kaip 1/3 balsų dalyvių susirinkime, tiekėjo vadovo, tiekėjo valdymo organo narių, vyriausiojo buhalterio arba buhalterinę apskaitą tvarkančio padalinio vadovo ar buhalterinę apskaitą tvarkančio subjekto (asmens) (toliau – tiekėjas ar su juo susiję asmenys) ryšiai su asmenimis, turinčiais teistumą už nusikalstamas veikas, padarytas organizuotos grupės ar nusikalstamo susivienijimo, arba asmenimis, kuriems taikomos prevencinio poveikio priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymą, ryšiai su užsienio valstybių saugumo ir (ar) žvalgybos tarnybomis, kurių veikla yra priešiška Lietuvos valstybės interesams;
+3) tiekėjo verslo ryšiai, tiekėjo – juridinio asmens patronuojamosios įmonės, tiekėjo – juridinio asmens dalyvių, turinčių ne mažiau kaip 1/3 balsų dalyvių susirinkime, tiekėjo vadovo, tiekėjo valdymo organo narių, vyriausiojo buhalterio arba buhalterinę apskaitą tvarkančio padalinio vadovo ar buhalterinę apskaitą tvarkančio subjekto (asmens) (toliau – tiekėjas ar su juo susiję asmenys) ryšiai su asmenimis, turinčiais teistumą už nusikalstamas veikas, padarytas organizuotos grupės ar nusikalstamo susivienijimo, arba asmenimis, kuriems taikomos organizuoto nusikalstamumo prevencijos priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymą, ryšiai su užsienio valstybių saugumo ir (ar) žvalgybos tarnybomis, kurių veikla yra priešiška Lietuvos valstybės interesams; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3073, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14348
+ 
 
 
 
@@ -3323,3 +3360,13 @@ Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1922, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00855
 Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 16 ir 17 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2622, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20651
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 7 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3073, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14348
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 7, 17 ir 36 straipsnių pakeitimo įstatymas
