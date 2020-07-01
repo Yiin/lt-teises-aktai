@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29CFE27F6B13"
 
 # Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-09-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 51-1635, i. k. 0991010ISTAIII-1191
  
@@ -42,6 +42,7 @@ Patvirtinti Lietuvos kariuomenės drausmės statutą (pridedama).
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
  
  
 
@@ -135,6 +136,19 @@ Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
  
 
 
+
+
+
+
+21 straipsnis. Asmens duomenų tvarkymas
+
+
+Renkamų asmens duomenų, nurodytų šiame statute, tvarkymo tikslai – drausmės pažeidimų ir skundų nagrinėjimas, drausminės nuobaudos skyrimas. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
+ 
 
 
 
@@ -236,20 +250,22 @@ Drausmės pažeidimas laikomas padarytu dėl neatsargumo, jeigu jį padaręs kar
 8 straipsnis. Drausminės atsakomybės subjektai
 
 
-1. Drausminėn atsakomybėn traukiami profesinės karo tarnybos kariai, kariai savanoriai ir kiti aktyviojo rezervo kariai, privalomosios karo tarnybos kariai (privalomosios pradinės karo tarnybos ir parengtojo rezervo kariai), taip pat kariūnai.
+1. Drausminėn atsakomybėn traukiami profesinės karo tarnybos kariai, kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, privalomosios karo tarnybos kariai (privalomosios pradinės karo tarnybos ir aktyviojo kariuomenės personalo rezervo kariai, pašaukti į pratybas, mokymus ar vykdyti tarnybos užduočių), taip pat kariūnai.
 
 
 
 
-2. Kariai savanoriai ir kiti aktyviojo rezervo kariai pagal vado (viršininko) įsakymą atvykę į tarnybos vietą, tiesiogiai vykdydami jiems pavestą užduotį, dalyvaudami karinėse operacijose, pratybose ir mokymuose, drausminėn atsakomybėn traukiami ta pačia tvarka kaip ir profesinės karo tarnybos kariai, atsižvelgiant į turimą kario laipsnį. Kitais atvejais kariai savanoriai ir kiti aktyviojo rezervo kariai drausminėn atsakomybėn traukiami ta pačia tvarka kaip ir atsargos kariai.
+2. Kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, pagal vado (viršininko) įsakymą atvykę į tarnybos vietą, tiesiogiai vykdydami jiems pavestą užduotį, dalyvaudami karinėse operacijose, pratybose ir mokymuose, drausminėn atsakomybėn traukiami tokia pačia tvarka kaip ir profesinės karo tarnybos kariai, atsižvelgiant į turimą kario laipsnį. Kitais atvejais kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai drausminėn atsakomybėn traukiami tokia pačia tvarka kaip ir atsargos kariai.
 
 
 
 
-3. Atsargos arba dimisijos kariai drausminėn atsakomybėn traukiami tik tais atvejais, kai drausmės pažeidimus padaro dėvėdami kario uniformą arba kai pažeidžia Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme (toliau – Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas) jiems nustatytus apribojimus.
+3. Atsargos arba dimisijos kariai drausminėn atsakomybėn traukiami tik tais atvejais, kai drausmės pažeidimus padaro dėvėdami kario uniformą arba kai pažeidžia Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme jiems nustatytus apribojimus. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
  
-
-
 
 
 
@@ -714,7 +730,10 @@ Tarnybinis patikrinimas neatliekamas:
 
 
 
-3) gauti duomenis ir dokumentus (jų nuorašus, išrašus), rašytinius paaiškinimus ir pasitelkti specialistus, reikalingus tarnybiniam patikrinimui atlikti;
+3) gauti duomenis ir dokumentus (jų nuorašus, išrašus), įskaitant asmens duomenis, rašytinius paaiškinimus ir pasitelkti specialistus, reikalingus tarnybiniam patikrinimui atlikti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
+ 
 
 
 
@@ -753,7 +772,10 @@ Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
 
 
 
-5) saugoti valstybės ir tarnybos paslaptis, taip pat konfidencialias apie asmenis žinias, kurias sužinojo tarnybinio patikrinimo metu.
+5) saugoti valstybės ir tarnybos paslaptis, taip pat konfidencialias žinias apie asmenis, kurias sužinojo tarnybinio patikrinimo metu, įskaitant asmens duomenis. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
+ 
 
 
 
@@ -860,7 +882,10 @@ Tarnybinio patikrinimo metu nustatomos šios aplinkybės:
 
 
 
-5) duomenys, apibūdinantys pažeidėją;
+5) duomenys, apibūdinantys pažeidėją, reikalingi atliekant tarnybinį patikrinimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
+ 
 
 
 
@@ -1402,7 +1427,9 @@ Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
 
 
 
-2. Atleidžiant iš tarnybos, nutraukiama profesinės karo tarnybos, kario savanorio ar kito aktyviojo rezervo kario sutartis.
+2. Atleidžiant iš tarnybos, nutraukiama profesinės karo tarnybos, kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario sutartis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
  
 
 
@@ -2029,7 +2056,10 @@ Ginčai dėl nušalinimo nuo pareigų, perkėlimo į kitas pareigas, dėl karių
 
 
 
-4) duomenys apie asmenį, kurio veika skundžiama;
+4) duomenys apie asmenį (vardas, pavardė, karinis laipsnis, žinomi ryšių duomenys – telefono ryšio numeris ir (ar) adresas), kurio veika skundžiama; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
+ 
 
 
 
@@ -2039,7 +2069,10 @@ Ginčai dėl nušalinimo nuo pareigų, perkėlimo į kitas pareigas, dėl karių
 
 
 
-6) aplinkybės, kuriomis grindžiamas skundas, ir tai patvirtinantys turimi įrodymai, liudytojų duomenys, kitų įrodymų buvimo vieta;
+6) aplinkybės, kuriomis grindžiamas skundas, ir tai patvirtinantys turimi įrodymai, liudytojų duomenys (vardas, pavardė, žinomi ryšių duomenys – telefono ryšio numeris ir (ar) adresas), kitų įrodymų buvimo vieta; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
+ 
 
 
 
@@ -2880,3 +2913,8 @@ Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimo įstatymo Nr. V
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-543, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11940
 Lietuvos Respublikos kariuomenės drausmės statuto 54 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
+Lietuvos Respublikos kariuomenės drausmės statuto 8, 21, 23, 38, 58 straipsnių pakeitimo ir Statuto papildymo 2-1 straipsniu įstatymas
