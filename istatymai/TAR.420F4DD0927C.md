@@ -13,10 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/420f4dd0927c11e9ae2e9d61b1f977b3"
 
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas
 
-Suvestinė redakcija nuo 2020-06-15 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-10-31
  
 Įstatymas paskelbtas: TAR 2019-06-19, i. k. 2019-09862
- 
  
  
 
@@ -316,8 +315,6 @@ BENDROSIOS NUOSTATOS
 
 54. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos oro apsaugos įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos aviacijos įstatyme, Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos civilinės saugos įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos geležinkelių transporto eismo saugos įstatyme, Lietuvos Respublikos geležinkelių transporto kodekse, Lietuvos Respublikos geodezijos ir kartografijos įstatyme, Lietuvos Respublikos geriamojo vandens įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos melioracijos įstatyme, Lietuvos Respublikos miškų įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos nekilnojamojo turto kadastro įstatyme, Lietuvos Respublikos nekilnojamojo turto registro įstatyme, Lietuvos Respublikos pajūrio juostos įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos priešgaisrinės saugos įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme, Lietuvos Respublikos saugios laivybos įstatyme, Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos triukšmo valdymo įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme, Lietuvos Respublikos vandens įstatyme, Lietuvos Respublikos visuomenės sveikatos priežiūros įstatyme, Lietuvos Respublikos žemės gelmių įstatyme, Lietuvos Respublikos žemės įstatyme, Lietuvos Respublikos žmonių palaikų laidojimo įstatyme, Lietuvos Respublikos žuvininkystės įstatyme.
  
- 
- 
 
 
 
@@ -373,11 +370,6 @@ BENDROSIOS NUOSTATOS
 
 2. Nustatytos šiame įstatyme nurodytos teritorijos registruojamos vadovaujantis šiuo ir Nekilnojamojo turto registro įstatymu.
  
- 
- 
- 
- 
- 
 
 
 
@@ -431,9 +423,6 @@ ANTRASIS SKIRSNIS
 
 2. Šiame įstatyme nurodytos teritorijos nustatomos šio straipsnio 1 dalies 4 ir 5 punktuose nurodytuose dokumentuose, kai įstatymų nustatytais atvejais ūkinei ir (ar) kitokiai veiklai vykdyti šio straipsnio 1 dalies 1, 2 ir 6 punktuose nurodyti dokumentai nerengiami ir poveikio visuomenės sveikatai vertinimo procedūros atliekamos poveikio aplinkai vertinimo metu.
  
- 
- 
- 
 
 
 
@@ -466,7 +455,10 @@ ANTRASIS SKIRSNIS
 
 
 
-3) Lietuvos Respublikos valstybės saugumo departamento ir Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos (toliau – Vadovybės apsaugos departamentas) saugomiems objektams; 
+3) Lietuvos Respublikos valstybės saugumo departamento ir Lietuvos Respublikos vadovybės apsaugos tarnybos saugomiems objektams; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2921, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10923
+ 
 
 
 
@@ -589,9 +581,6 @@ ANTRASIS SKIRSNIS
 
 
 8. Jeigu ūkinei ir (ar) kitokiai veiklai vykdyti rengiami keli šio straipsnio 7 dalies 1–4 punktuose nurodyti dokumentai, žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas turi būti gautas iki pirmojo dokumento, kuriame nustatomos šiame įstatyme nurodytos teritorijos, patvirtinimo (išdavimo) ar šio straipsnio 7 dalies 3 punkte nurodyto sprendimo priėmimo.
- 
- 
- 
  
 
 
@@ -806,11 +795,6 @@ ANTRASIS SKIRSNIS
 
 
 2) šio įstatymo 9 straipsnio 3 dalyje, kitais įstatymų nustatytais atvejais.
- 
- 
- 
- 
- 
  
 
 
@@ -2184,7 +2168,6 @@ Suskystintų naftos dujų įrenginių apsaugos zonose draudžiama:
 
 3) naudoti ugnį ir atlikti ugnies darbus.
  
- 
 
 
 
@@ -2899,8 +2882,6 @@ Nuolatinio juodligės židinio apsauginę zoną sudaro 3 metrų pločio žemės 
 
 Nuolatinio juodligės židinio apsauginėje zonoje draudžiama bet kokia ūkinė ir (ar) kitokia veikla.
  
- 
- 
 
 
 
@@ -3076,11 +3057,6 @@ b) įrengti komercines reklamas, lauko antenas ir kitus techninius įrenginius k
 
 
 6. Už kultūros paveldo apsaugą atsakinga institucija nepritaria atitinkamam žemės valdos arba kitam projektui ar numatomai veiklai, jeigu šio straipsnio 2 dalies 6 punkte, 3 dalies 2 punkto b papunktyje, 4 dalyje ir 5 dalies 2 punkte nurodyti darbai vykdomi ne pagal paveldosaugos reikalavimus, jie sunaikins ir (ar) sužalos nekilnojamąsias kultūros vertybes ir (ar) jų vertingąsias savybes bei nekilnojamųjų kultūros vertybių ir jų aplinkos autentiškumą.
- 
- 
- 
- 
- 
  
 
 
@@ -5744,9 +5720,6 @@ Melioracijos statinių apsaugos zonose draudžiama:
 
 3) įrengti dirbtinius vandens telkinius.
  
- 
- 
- 
 
 
 
@@ -7221,8 +7194,6 @@ Nustatomos šios meteorologinių radiolokatorių apsaugos zonos:
 
 2) bendroji meteorologinio radiolokatoriaus apsaugos zona – 10 kilometrų pločio žemės juosta aplink meteorologinį radiolokatorių, išskyrus specialiąją meteorologinio radiolokatoriaus apsaugos zoną.
  
- 
- 
 
 
 
@@ -7435,10 +7406,6 @@ Gruntinio geodezinio ženklo apsaugos zoną sudaro vieno metro pločio žemės j
 
 Gruntinio geodezinio ženklo apsaugos zonoje draudžiama bet kokia ūkinė ir (ar) kitokia veikla.
  
- 
- 
- 
- 
 
 
 
@@ -7503,19 +7470,21 @@ KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO REZERVINĖSE TERITORIJOSE TAIKOMOS SPECIALIO
 
 
 IX SKYRIUS
-VADOVYBĖS APSAUGOS DEPARTAMENTO IR VALSTYBĖS SAUGUMO DEPARTAMENTO SAUGOMŲ OBJEKTŲ APSAUGA
+VADOVYBĖS APSAUGOS TARNYBOS IR VALSTYBĖS SAUGUMO DEPARTAMENTO SAUGOMŲ OBJEKTŲ APSAUGA 
+Pakeistas skyriaus pavadinimas:
+Nr. XIII-2921, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10923
  
 
 
 PIRMASIS SKIRSNIS
-VADOVYBĖS APSAUGOS DEPARTAMENTO APSAUGOS ZONOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS
+VADOVYBĖS APSAUGOS TARNYBOS APSAUGOS ZONOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS
  
 
 
-127 straipsnis. Vadovybės apsaugos departamento saugomi objektai
+127 straipsnis. Vadovybės apsaugos tarnybos saugomi objektai
 
 
-Prie Vadovybės apsaugos departamento saugomų objektų priskiriami: Lietuvos Respublikos Prezidentūros, Lietuvos Respublikos Seimo, Vyriausybės pastatai, Lietuvos Respublikos Prezidento, Lietuvos Respublikos Ministro Pirmininko rezidencijų pastatai su jiems priskirtais žemės sklypais ir priklausiniais.
+Prie Vadovybės apsaugos tarnybos saugomų objektų priskiriami: Lietuvos Respublikos Prezidentūros, Lietuvos Respublikos Seimo, Vyriausybės pastatai, Respublikos Prezidento, Lietuvos Respublikos Ministro Pirmininko rezidencijų pastatai su jiems priskirtais žemės sklypais ir priklausiniais.
  
 
 
@@ -7523,10 +7492,10 @@ Prie Vadovybės apsaugos departamento saugomų objektų priskiriami: Lietuvos Re
 
 
 
-128 straipsnis. Specialiosios žemės naudojimo sąlygos Vadovybės apsaugos departamento saugomų objektų apsaugos zonose
+128 straipsnis. Specialiosios žemės naudojimo sąlygos Vadovybės apsaugos tarnybos saugomų objektų apsaugos zonose
 
 
-1. Vadovybės apsaugos departamento saugomų objektų apsaugos zonose draudžiama:
+1. Vadovybės apsaugos tarnybos saugomų objektų apsaugos zonose draudžiama:
 
 
 1) statyti visuomeninės paskirties pastatus, dėl kurių gali padidėti transporto priemonių ir (ar) žmonių srautai;
@@ -7551,7 +7520,7 @@ Prie Vadovybės apsaugos departamento saugomų objektų priskiriami: Lietuvos Re
 
 
 
-2. Vadovybės apsaugos departamento saugomų objektų apsaugos zonose, Statybos įstatyme, Vyriausybės ar Vyriausybės įgaliotos institucijos nustatyta tvarka negavus Vadovybės apsaugos departamento pritarimo projektui ar numatomai veiklai, draudžiama:
+2. Vadovybės apsaugos tarnybos saugomų objektų apsaugos zonose, Statybos įstatyme, Vyriausybės ar Vyriausybės įgaliotos institucijos nustatyta tvarka negavus Vadovybės apsaugos tarnybos pritarimo projektui ar numatomai veiklai, draudžiama:
 
 
 1) statyti ar rekonstruoti statinius, išskyrus statinius, kurių statyba (įrengimas) draudžiama (draudžiamas) pagal šio straipsnio 1 dalį;
@@ -7571,12 +7540,14 @@ Prie Vadovybės apsaugos departamento saugomų objektų priskiriami: Lietuvos Re
 
 
 
-3. Vadovybės apsaugos departamentas nepritaria projektui, numatomai veiklai ar sandoriui, jeigu šio straipsnio 2 dalyje nurodyti darbai (sandoriai) trukdys atlikti Vadovybės apsaugos departamento funkcijas ir kels grėsmę saugomų asmenų ar objektų saugumui ir (ar) sudarys prielaidas šiai grėsmei kilti.
+3. Vadovybės apsaugos tarnyba nepritaria projektui, numatomai veiklai ar sandoriui, jeigu šio straipsnio 2 dalyje nurodyti darbai (sandoriai) trukdys atlikti Vadovybės apsaugos tarnybos funkcijas ir kels grėsmę saugomų asmenų ar objektų saugumui ir (ar) sudarys prielaidas šiai grėsmei kilti. 
+
+
+
+
+Skirsnio pakeitimai:
+Nr. XIII-2921, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10923
  
-
-
-
-
 
 
 
@@ -7590,8 +7561,6 @@ VALSTYBĖS SAUGUMO DEPARTAMENTO SAUGOMŲ OBJEKTŲ APSAUGOS ZONOS IR JOSE TAIKOMO
 
 
 Valstybės saugumo departamento saugomi objektai – Valstybės saugumo departamento valdomi pastatai su jiems priskirtais žemės sklypais ir priklausiniais.
- 
- 
  
 
 
@@ -8229,7 +8198,10 @@ Pakeisti šio įstatymo II skyriaus antrąjį skirsnį ir jį išdėstyti taip:
 
 
 
-3) Lietuvos Respublikos valstybės saugumo departamento ir Vadovybės apsaugos departamento prie Vidaus reikalų ministerijos (toliau – Vadovybės apsaugos departamentas) saugomiems objektams;
+3) Lietuvos Respublikos valstybės saugumo departamento ir Lietuvos Respublikos vadovybės apsaugos tarnybos saugomiems objektams; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2921, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10923
+ 
 
 
 
@@ -8352,7 +8324,6 @@ Pakeisti šio įstatymo II skyriaus antrąjį skirsnį ir jį išdėstyti taip:
 
 
 8. Jeigu ūkinei ir (ar) kitokiai veiklai vykdyti rengiami keli šio straipsnio 7 dalies 1–4 punktuose nurodyti dokumentai, žemės savininko, valstybinės ar savivaldybės žemės patikėtinio sutikimas turi būti gautas iki pirmojo dokumento, kuriame nustatomos šiame įstatyme nurodytos teritorijos, patvirtinimo (išdavimo) ar šio straipsnio 7 dalies 3 punkte nurodyto sprendimo priėmimo.
- 
  
 
 
@@ -8529,7 +8500,6 @@ Specialiosios žemės naudojimo sąlygos taikomos nuo nustatytų šiame įstatym
 
 4. Kai nustatyta šiame įstatyme nurodyta teritorija panaikinama teismo sprendimu, šio sprendimo pagrindu Nekilnojamojo turto registro tvarkytojas per 5 darbo dienas nuo įsiteisėjusio teismo sprendimo gavimo dienos išregistruoja panaikintą šiame įstatyme nurodytą teritoriją.
  
- 
 
 
 
@@ -8568,7 +8538,6 @@ Specialiosios žemės naudojimo sąlygos taikomos nuo nustatytų šiame įstatym
 
 
 2) kitais įstatymų nustatytais atvejais.“
- 
  
 
 
@@ -9657,3 +9626,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2990, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12612
 Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 66, 73, 74, 75, 77, 78, 79, 81 ir 97 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2921, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10923
+Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 7 straipsnio, IX skyriaus pavadinimo, IX skyriaus pirmojo skirsnio ir 142 straipsnio pakeitimo įstatymas
