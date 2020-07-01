@@ -20,15 +20,23 @@ LIETUVOS RESPUBLIKOS PROBACIJOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 4-108, i. k. 1111010ISTA0XI-1860
  
-LIETUVOS RESPUBLIKOS 
-PROBACIJOS  Į S T A T Y  M A S
+TAR pastaba. Iki 2020 m. birželio 30 d. lygtinai paleistiems iš pataisos įstaigų nuteistiesiems probacija vykdoma pagal teismo nutartyje, kuria taikytas lygtinis paleidimas iš pataisos įstaigos, nustatytas probacijos sąlygas, o Lietuvos Respublikos probacijos įstatymo 15 straipsnio nuostatos netaikomos. Iki 2020 m. birželio 30 d. pradėta vykdyti intensyvi probuojamojo priežiūra – probuojamojo buvimo vietos pagal nustatytą probuojamojo dienotvarkę kontrolė elektroninėmis stebėjimo priemonėmis – po įstatymo Nr. XIII-2266 1 straipsnio įsigaliojimo (2020-07-01) tęsiama tol, kol bus pakeista kitomis probacijos sąlygomis ar jos vykdymas pasibaigs Probacijos įstatymo 28, 29 ar 30 straipsnyje nustatyta tvarka.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2266, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11184
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 pakeitimo įstatymas
+ 
+Nauja redakcija nuo 2020-07-01:
+Nr. XIII-2266, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11184
+ 
+LIETUVOS RESPUBLIKOS  PROBACIJOS ĮSTATYMAS
  
 2011 m. gruodžio 22 d. Nr. XI-1860
 Vilnius
+ 
  
 
 
@@ -76,7 +84,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-5. Probacija – sąlyginė alternatyva paskirtai laisvės atėmimo bausmei (bausmės vykdymo atidėjimas ir lygtinis paleidimas iš pataisos įstaigų), kurios metu vykdoma probuojamojo priežiūra.
+5. Probacija – sąlyginė alternatyva paskirtai arešto ar laisvės atėmimo bausmei (bausmės ar jos dalies vykdymo atidėjimas ir lygtinis paleidimas iš pataisos įstaigų), kurios metu vykdoma probuojamojo priežiūra.
 
 
 
@@ -107,8 +115,6 @@ BENDROSIOS NUOSTATOS
 
 
 11. Probuotojas – pataisos pareigūnas, vykdantis probaciją.
-Straipsnio dalies pakeitimai:
-Nr. XIII-1388, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12056
  
 
 
@@ -135,6 +141,7 @@ Nr. XIII-1388, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12056
 
 
 4. Jeigu Lietuvos Respublikos tarptautinė sutartis nustato kitokias taisykles, negu išdėstytosios šiame įstatyme, taikomos tarptautinės sutarties taisyklės.
+ 
 
 
 
@@ -187,10 +194,10 @@ Nr. XIII-1388, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12056
 
 
 
-5 straipsnis. Probaciją vykdančios institucijos
+5 straipsnis. Probaciją vykdanti institucija
 
 
-Teismo sprendimus, kuriais paskirta probacija, ir probuojamųjų priežiūrą vykdo probacijos tarnybos. Šios tarnybos turi ir kitų įstatymų nustatytų įgaliojimų.
+Probaciją vykdo probacijos tarnyba. Ši tarnyba turi ir kitų įstatymų nustatytų įgaliojimų.
  
 
 
@@ -201,55 +208,49 @@ Teismo sprendimus, kuriais paskirta probacija, ir probuojamųjų priežiūrą vy
 
 
 II SKYRIUS
-BENDRADARBIAVIMAS SU VALSTYBĖS IR SAVIVALDYBIŲ InstitucijoMIS, įstaigoMIS, organizacijoMIS, ASOCIACIJOMIS ir savanoriais
+BENDRADARBIAVIMAS SU VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJOMIS, ĮSTAIGOMIS, ORGANIZACIJOMIS, KITAIS JURIDINIAIS ASMENIMIS, ASOCIACIJOMIS IR SAVANORIAIS
  
 
 
 6 straipsnis. Institucinis bendradarbiavimas vykdant probaciją
 
 
-1. Probacijos tarnybos bendradarbiauja su valstybės ir savivaldybių institucijomis ir įstaigomis.
+1. Probacijos tarnyba bendradarbiauja su valstybės ir savivaldybių institucijomis ir įstaigomis.
 
 
 
 
-2. Policijos įstaigos vykdo probuojamųjų, kurių buvimo vieta nežinoma, paiešką, praneša probacijos tarnyboms apie probuojamųjų padarytus administracinius nusižengimus ir probuojamiesiems pradėtus ikiteisminius tyrimus.
-Straipsnio dalies pakeitimai:
-Nr. XII-2712, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26511
- 
+2. Policijos įstaigos vykdo probuojamųjų, kurių buvimo vieta nežinoma, paiešką.
 
 
 
 
-3. Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas), laisvės atėmimo vietų įstaigos ir probacijos tarnybos kartu planuoja ir organizuoja nusikalstamo elgesio rizikos (toliau – rizika) vertinimų ir resocializacijos priemonių nuteistiesiems, atliekantiems laisvės atėmimo bausmę, diegimą laisvės atėmimo vietų įstaigose ir vertina jų veiksmingumą.
+3. Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos (toliau – Kalėjimų departamentas), laisvės atėmimo vietų įstaigos ir probacijos tarnyba kartu vertina resocializacijos priemonių nuteistiesiems, atliekantiems arešto ir laisvės atėmimo bausmes, veiksmingumą.
 
 
 
 
-4. Laisvės atėmimo vietų įstaigos, rengdamos nuteistuosius lygtinai paleisti iš pataisos įstaigų, savarankiškai ar kartu su probacijos tarnybomis vykdo resocializacijos priemones, padedančias užtikrinti sėkmingą nuteistųjų resocializaciją, teikia probuotojams informaciją apie rengiamus lygtinai paleisti iš pataisos įstaigų nuteistuosius, jiems taikytas resocializacijos priemones, atliktą rizikos vertinimą ir kitą informaciją, Kalėjimų departamento nustatyta tvarka kartu su probacijos tarnybomis rengia socialinio tyrimo išvadas dėl nuteistųjų, kuriuos rengiamasi lygtinai paleisti iš pataisos įstaigų.
+4. Laisvės atėmimo vietų įstaigos, rengdamos nuteistuosius lygtinai paleisti iš pataisos įstaigų, savarankiškai ar kartu su probacijos tarnyba vykdo resocializacijos priemones, padedančias užtikrinti sėkmingą nuteistųjų resocializaciją, teikia probuotojams informaciją apie rengiamus lygtinai paleisti iš pataisos įstaigų nuteistuosius, jiems taikytas resocializacijos priemones, atliktą rizikos vertinimą ir kitą informaciją, Kalėjimų departamento nustatyta tvarka kartu su probacijos tarnyba rengia socialinio tyrimo išvadas dėl nuteistųjų, kuriuos rengiamasi lygtinai paleisti iš pataisos įstaigų.
 
 
 
 
-5. Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) probuojamiesiems sudaro individualius užimtumo veiklos planus, numato užimtumo rėmimo priemones, sudarančias palankias probuojamųjų integracijos į darbo rinką sąlygas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
- 
+5. Užimtumo tarnyba prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (toliau – Užimtumo tarnyba) probuojamiesiems sudaro individualius užimtumo veiklos planus, numato užimtumo rėmimo priemones, sudarančias palankias probuojamųjų integracijos į darbo rinką sąlygas.
 
 
 
 
-6. Sveikatos priežiūros įstaigos, kuriose probuojamieji vykdo nustatytą pareigą, kai jie sutinka gydytis priklausomybės ligas, probacijos tarnybų prašymu teikia informaciją apie jos vykdymo eigą ir rezultatus.
+6. Sveikatos priežiūros įstaigos, kuriose probuojamieji vykdo pareigą gydytis priklausomybes ligas, probacijos tarnybos prašymu teikia informaciją apie jos vykdymo eigą ir rezultatus.
 
 
 
 
-7. Vaiko teisių apsaugos tarnybos probacijos tarnybų prašymu teikia informaciją apie nepilnamečius probuojamuosius ir jų socialinę aplinką, apie nuteistųjų, turinčių nepilnamečių vaikų ir pretenduojančių būti lygtinai paleistiems iš pataisos įstaigų, taip pat jau paleistų, tėvų pareigų atlikimą.
+7. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba prie Socialinės apsaugos ir darbo ministerijos ar jos įgaliotas teritorinis skyrius probacijos tarnybos prašymu teikia informaciją apie nepilnamečius probuojamuosius ir jų socialinę aplinką, apie probuojamųjų, turinčių nepilnamečių vaikų, tėvų pareigų atlikimą.
 
 
 
 
-8. Savivaldybių institucijos sudaro sąlygas probuojamiesiems atlikti nemokamus darbus ir teikia informaciją probacijos tarnyboms apie šių darbų eigą ir rezultatus.
+8. Savivaldybių institucijos sudaro sąlygas probuojamiesiems atlikti nemokamus darbus ir teikia informaciją probacijos tarnybai apie šių darbų eigą ir rezultatus.
  
 
 
@@ -260,22 +261,22 @@ Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
 7 straipsnis. Bendradarbiavimas su asociacijomis, religinėmis bendruomenėmis ir bendrijomis, savanoriais
 
 
-1. Probacijos tarnybos, siekdamos probacijos tikslo, sutarčių (susitarimų) pagrindu bendradarbiauja su asociacijomis, religinėmis bendruomenėmis ir bendrijomis, kitais juridiniais asmenimis ar jų padaliniais ir savanoriais, koordinuoja jų darbą su probuojamaisiais.
+1. Probacijos tarnyba, siekdama probacijos tikslo, sutarčių (susitarimų) pagrindu bendradarbiauja su asociacijomis, religinėmis bendruomenėmis ir bendrijomis, kitais juridiniais asmenimis ar jų padaliniais ir savanoriais, koordinuoja jų darbą su probuojamaisiais.
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodyti asmenys pagal kompetenciją turi teisę vykdyti šio įstatymo 18, 19 ir 20 straipsniuose nustatytas ir kitas probuojamojo resocializacijos priemones.
+2. Šio straipsnio 1 dalyje nurodyti asmenys pagal kompetenciją turi teisę vykdyti šio įstatymo 19, 20 ir 21 straipsniuose nustatytas ir kitas probuojamojo resocializacijos priemones.
 
 
 
 
-3. Sutartyse (susitarimuose) nustatomos šios straipsnio 1 dalyje nurodytų asmenų teisės ir pareigos, vykdant probuojamųjų resocializaciją patirtų nuostolių kompensavimas, probacijos tarnybų įsipareigojimai ir kitos bendradarbiavimo sąlygos.
+3. Sutartyse (susitarimuose) nustatomos šios straipsnio 1 dalyje nurodytų asmenų teisės ir pareigos, vykdant probuojamųjų resocializaciją patirtų nuostolių kompensavimas, probacijos tarnybos įsipareigojimai ir kitos bendradarbiavimo sąlygos.
 
 
 
 
-4. Sudarant sutartį (susitarimą) su savanoriu, turi būti atsižvelgiama į jo asmenines savybes, veiklos pobūdį ir galimybę daryti teigiamą įtaką probuojamajam. Savanoriais gali būti 18 metų sulaukę ir probacijos tarnybų pasitikėjimo verti asmenys.
+4. Sudarant sutartį (susitarimą) su savanoriu, turi būti atsižvelgiama į jo asmenines savybes, veiklos pobūdį ir galimybę daryti teigiamą įtaką probuojamajam. Savanoriais gali būti 18 metų sulaukę ir probacijos tarnybos pasitikėjimo verti asmenys.
 
 
 
@@ -285,7 +286,8 @@ Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
 
 
 
-6. Šio straipsnio 1 dalyje nurodytiems asmenims gali būti kompensuojamos išlaidos, patirtos vykdant probaciją. Išlaidų kompensavimo tvarkos aprašą ir maksimalų kompensuojamų išlaidų dydį nustato Vyriausybė arba jos įgaliota institucija.
+6. Šio straipsnio 1 dalyje nurodytiems asmenims gali būti kompensuojamos išlaidos, patirtos vykdant probaciją. Išlaidų kompensavimo tvarkos aprašą tvirtina ir maksimalų kompensuojamų išlaidų dydį nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija.
+ 
  
 
 
@@ -303,12 +305,12 @@ SOCIALINIO TYRIMO IŠVADŲ RENGIMAS. RIZIKOS VERTINIMAS
 8 straipsnis. Socialinio tyrimo išvadų rengimo pagrindai
 
 
-1. Probacijos tarnybos rengia socialinio tyrimo išvadas Lietuvos Respublikos baudžiamojo proceso kodekso nustatytais pagrindais.
+1. Probacijos tarnyba rengia socialinio tyrimo išvadas Lietuvos Respublikos baudžiamojo proceso kodekso nustatytais pagrindais.
 
 
 
 
-2. Socialinio tyrimo išvados formą nustato teisingumo ministras.
+2. Socialinio tyrimo išvados formą tvirtina Lietuvos Respublikos teisingumo ministras.
  
 
 
@@ -332,7 +334,7 @@ SOCIALINIO TYRIMO IŠVADŲ RENGIMAS. RIZIKOS VERTINIMAS
 
 
 
-3) nuteistojo elgesys laisvės atėmimo bausmės atlikimo metu, dalyvavimas elgesio pataisos programose ir jo rezultatai, tėvų asmeninių pareigų, numatytų Lietuvos Respublikos civiliniame kodekse, atlikimas, kai socialinio tyrimo išvada rengiama dėl asmens, teikiamo lygtinai paleisti iš pataisos įstaigos;
+3) nuteistajam taikytos socialinės reabilitacijos priemonės ir jų įgyvendinimo rezultatai, kai socialinio tyrimo išvada rengiama dėl asmens, teikiamo lygtinai paleisti iš pataisos įstaigos;
 
 
 
@@ -342,7 +344,7 @@ SOCIALINIO TYRIMO IŠVADŲ RENGIMAS. RIZIKOS VERTINIMAS
 
 
 
-5) motyvuota nuomonė dėl probacijos sąlygų individualizavimo.
+5) motyvuota nuomonė dėl probacijos sąlygų kaltinamajam individualizavimo.
 
 
 
@@ -381,7 +383,7 @@ SOCIALINIO TYRIMO IŠVADŲ RENGIMAS. RIZIKOS VERTINIMAS
 
 
 IV SKYRIUS
-PROBACIJOS VYKDYMO PAGRINDAI. PROBUOJAMŲJŲ TEISINĖ PADĖTIS.  PROBUOTOJŲ TEISĖS IR PAREIGOS
+PROBACIJOS VYKDYMO PAGRINDAI. PROBUOJAMŲJŲ TEISINĖ PADĖTIS. PROBUOTOJŲ TEISĖS IR PAREIGOS
  
 
 
@@ -391,21 +393,19 @@ PROBACIJOS VYKDYMO PAGRINDAI. PROBUOJAMŲJŲ TEISINĖ PADĖTIS.  PROBUOTOJŲ TEI
 1. Probacijos vykdymo pagrindai yra:
 
 
-1) įsiteisėjęs apkaltinamasis teismo nuosprendis, kuriuo nuteistajam paskirta laisvės atėmimo bausmė ir jos vykdymas atidėtas, ir teisėjo patvarkymas vykdyti nuosprendį;
+1) įsiteisėjęs apkaltinamasis teismo nuosprendis, kuriuo nuteistajam paskirta arešto ar laisvės atėmimo bausmė ir jos vykdymas atidėtas, ir teisėjo patvarkymas vykdyti nuosprendį;
 
 
 
 
-2) įsiteisėjusi teismo nutartis lygtinai paleisti iš pataisos įstaigos ir teisėjo potvarkis vykdyti nutartį.
+2) nuteistojo lygtinis paleidimas iš pataisos įstaigos.
 
 
 
 
 
 
-2. Probacija pradedama vykdyti įsiteisėjusio teismo nuosprendžio (nutarties) ir patvarkymo (potvarkio) vykdyti nuosprendį ar nutartį gavimo probacijos tarnyboje dieną. Probacijos tarnybos, gavusios šiuos dokumentus, pradeda priežiūros vykdymo bylą ir vykdo priežiūrą.
-Straipsnio dalies pakeitimai:
-Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
+2. Probacija pradedama vykdyti įsiteisėjusio teismo nuosprendžio ir patvarkymo vykdyti nuosprendį gavimo probacijos tarnyboje dieną, o kai nuteistasis lygtinai paleidžiamas iš pataisos įstaigos, – jo lygtinio paleidimo iš pataisos įstaigos dieną. 
  
 
 
@@ -435,12 +435,12 @@ Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
 Probuojamieji turi teisę:
 
 
-1) gauti žodinę ir rašytinę informaciją apie teismo nuosprendžiu ar nutartimi paskirtos probacijos vykdymo tvarką ir sąlygas, savo teises ir pareigas. Šią informaciją probacijos tarnybos pateikia lietuvių kalba arba probuojamojo gimtąja kalba, arba ta kalba, kurią jis supranta;
+1) gauti žodinę ir rašytinę informaciją apie probacijos vykdymo tvarką ir sąlygas, savo teises ir pareigas. Šią informaciją probacijos tarnyba pateikia lietuvių kalba arba probuojamojo gimtąja kalba, arba ta kalba, kurią jis supranta;
 
 
 
 
-2) kreiptis su pasiūlymais, prašymais (pareiškimais), peticijomis ir skundais į probacijos vykdymo ar kitas valstybės ir savivaldybių institucijas, įstaigas ar pareigūnus, visuomenines ar tarptautines organizacijas, taip pat kitas institucijas, įstaigas ir organizacijas;
+2) kreiptis su pasiūlymais, prašymais (pareiškimais), peticijomis ir skundais į probacijos tarnybą ar kitas valstybės ir savivaldybių institucijas, įstaigas ar pareigūnus, visuomenines ar tarptautines organizacijas, taip pat kitas institucijas, įstaigas ir organizacijas;
 
 
 
@@ -466,25 +466,17 @@ Probuojamieji turi teisę:
 Probuojamieji privalo:
 
 
-1) atvykti į probacijos tarnybas per tris darbo dienas nuo teismo nuosprendžio (nutarties), kuriuo paskirta probacija, įsiteisėjimo ar probuotojo šaukimo gavimo;
+1) atvykti į probacijos tarnybą per tris darbo dienas nuo teismo nuosprendžio, kuriuo paskirta probacija, įsiteisėjimo arba probuotojo šaukimo gavimo dienos;
 
 
 
 
-2) vykdyti probacijos sąlygas ir individualiame probuojamojo priežiūros plane nustatytas probuojamojo priežiūros priemones, informuoti probuotoją apie jų vykdymą ir (ar) pateikti tai patvirtinančius dokumentus;
+2) vykdyti probacijos sąlygas ir individualiame probuojamojo priežiūros plane nustatytas priemones, padedančias įvykdyti probacijos sąlygas, informuoti probuotoją apie jų vykdymą ir (ar) pateikti tai patvirtinančius dokumentus;
 
 
 
 
-3) darbingo amžiaus probuojamieji, lygtinai paleisti iš pataisos įstaigų, privalo per penkiolika dienų nuo paleidimo įsidarbinti arba užsiregistruoti Užimtumo tarnyboje ir pranešti apie tai probuotojui; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
- 
-
-
-
-
-4) pranešti probuotojui apie savo gyvenamąją, darbo ar mokymosi vietą, išvykimą už gyvenamosios vietos miesto (rajono) ribų.
+3) pranešti probuotojui apie savo gyvenamąją, darbo ar mokymosi vietą, išvykimą už gyvenamosios vietos miesto (rajono) ribų.
  
 
 
@@ -494,23 +486,79 @@ Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
 
 
 
-15 straipsnis. Nepilnamečio probuojamojo atstovų pagal įstatymą teisės ir pareigos
+15 straipsnis. Lygtinai paleistų iš pataisos įstaigų nuteistųjų specialiosios pareigos
 
 
-1. Be kitų įstatymų ir kitų teisės aktų numatytų teisių, nepilnamečio probuojamojo atstovai pagal įstatymą turi teisę:
+1. Lygtinai paleisti iš pataisos įstaigų nuteistieji privalo:
 
 
-1) gauti žodinę ar rašytinę informaciją apie nepilnamečiui probuojamajam teismo nuosprendžiu ar nutartimi paskirtos probacijos vykdymo tvarką ir sąlygas, jo ir savo teises ir pareigas. Šią informaciją probacijos tarnyba pateikia lietuvių kalba arba nepilnamečio probuojamojo atstovo pagal įstatymą gimtąja kalba, arba ta kalba, kurią jis supranta;
-
-
-
-
-2) gauti informaciją apie nepilnamečiui probuojamajam paskirtos probacijos vykdymo eigą;
+1) intensyvios priežiūros metu nustatytu laiku būti nustatytose vietose, taip pat laikytis intensyvios priežiūros vykdymo sąlygų, nustatytų šio įstatymo VI skyriuje, jeigu lygtinis paleidimas iš pataisos įstaigos buvo taikytas pagal Bausmių vykdymo kodekso 157 straipsnio 3 arba 4 dalį;
 
 
 
 
-3) kreiptis su pasiūlymais, prašymais (pareiškimais), peticijomis ir skundais į probacijos tarnybas ar kitas valstybės ir savivaldybių institucijas, įstaigas ar pareigūnus, visuomenines ar tarptautines organizacijas, taip pat kitas institucijas, įstaigas ir organizacijas;
+2) dalyvauti elgesio pataisos programose;
+
+
+
+
+3) gydytis priklausomybės nuo psichiką veikiančių medžiagų ligas, jeigu toks gydymas buvo pradėtas ir nebaigtas pataisos įstaigoje;
+
+
+
+
+4) nesilankyti tam tikrose vietose;
+
+
+
+
+5) nevartoti psichiką veikiančių medžiagų, jeigu nusikalstamą veiką, už kurią nuteistasis atlieka bausmę, padarė būdamas apsvaigęs nuo šių medžiagų;
+
+
+
+
+6) nebendrauti su tam tikrais asmenimis ar asmenų grupėmis;
+
+
+
+
+7) darbingo amžiaus probuojamieji – per penkiolika dienų nuo paleidimo įsidarbinti arba užsiregistruoti Užimtumo tarnyboje.
+
+
+
+
+
+
+2. Lygtinai paleisto iš pataisos įstaigos nuteistojo buvimo vietą ir laiką intensyvios priežiūros metu, elgesio pataisos programas, kuriose tikslinga dalyvauti šiam nuteistajam, vietas, kuriose negalima lankytis, ir asmenis, su kuriais negalima bendrauti, nustato probacijos tarnyba, atsižvelgdama į lygtinai paleisto iš pataisos įstaigos nuteistojo rizikos lygį, kriminogeninius veiksnius, nusikaltimo, už kurį vykdoma probacija, padarymo aplinkybes, elgesį, taikytas socialinės reabilitacijos priemones ir jų įgyvendinimo rezultatus atliekant laisvės atėmimo bausmę pataisos įstaigoje. 
+
+
+
+
+3. Šio įstatymo 29 ir 30 straipsniuose nustatyta tvarka lygtinai paleistam iš pataisos įstaigos nuteistajam gali būti paskirtos ir kitos, šio straipsnio 1 dalyje nenurodytos, pareigos, auklėjamojo poveikio priemonės arba baudžiamojo poveikio priemonės, intensyvi priežiūra arba šio straipsnio 1 dalyje nurodytos pareigos gali būti pakeistos kitomis pareigomis, auklėjamojo poveikio priemonėmis arba baudžiamojo poveikio priemonėmis, intensyvia priežiūra.
+ 
+
+
+
+
+
+
+16 straipsnis. Nepilnamečio probuojamojo atstovų pagal įstatymą teisės ir pareigos
+
+
+1. Be kituose teisės aktuose numatytų teisių, nepilnamečio probuojamojo atstovai pagal įstatymą turi teisę:
+
+
+1) gauti žodinę ar rašytinę informaciją apie probacijos vykdymo nepilnamečiam probuojamajam tvarką ir sąlygas, jo ir savo teises ir pareigas. Šią informaciją probacijos tarnyba pateikia lietuvių kalba arba nepilnamečio probuojamojo atstovo pagal įstatymą gimtąja kalba, arba ta kalba, kurią jis supranta;
+
+
+
+
+2) gauti informaciją apie nepilnamečiam probuojamajam vykdomos probacijos eigą;
+
+
+
+
+3) kreiptis su pasiūlymais, prašymais (pareiškimais), peticijomis ir skundais į probacijos tarnybą ar kitas valstybės ir savivaldybių institucijas, įstaigas ar pareigūnus, visuomenines ar tarptautines organizacijas, taip pat kitas institucijas, įstaigas ir organizacijas;
 
 
 
@@ -530,17 +578,17 @@ Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
 
 
 
-2) atvykti į probacijos tarnybą kartu su nepilnamečiu probuojamuoju per tris darbo dienas nuo teismo nuosprendžio (nutarties), kuriuo nepilnamečiui probuojamajam paskirta probacija, įsiteisėjimo ar probuotojo šaukimo gavimo;
+2) atvykti į probacijos tarnybą kartu su nepilnamečiu probuojamuoju per tris darbo dienas nuo teismo nuosprendžio, kuriuo nepilnamečiam probuojamajam paskirta probacija, įsiteisėjimo ar probuotojo šaukimo gavimo;
 
 
 
 
-3) rūpintis, kad nepilnametis probuojamasis vykdytų jam nustatytas probacijos sąlygas ir dalyvautų probuojamojo resocializacijoje;
+3) rūpintis, kad nepilnametis probuojamasis vykdytų probacijos sąlygas ir dalyvautų probuojamojo resocializacijoje;
 
 
 
 
-4) teikti informaciją probuotojui apie nepilnamečiui probuojamajam paskirtų probacijos sąlygų vykdymą;
+4) teikti informaciją probuotojui apie nepilnamečiam probuojamajam taikomų probacijos sąlygų vykdymą;
 
 
 
@@ -555,7 +603,7 @@ Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
 
 
 
-16 straipsnis. Probuotojų teisės ir pareigos vykdant probaciją
+17 straipsnis. Probuotojų teisės ir pareigos vykdant probaciją
 
 
 1. Probuotojai turi teisę:
@@ -571,7 +619,7 @@ Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
 
 
 
-3) neatlygintinai gauti iš valstybės, savivaldybių ir kitų institucijų, įstaigų, organizacijų informaciją, reikalingą socialinio tyrimo išvadai parengti ir (ar) nuosprendžiui (nutarčiai) įvykdyti, arba susipažinti su šia informacija;
+3) neatlygintinai gauti iš valstybės, savivaldybių ir kitų institucijų, įstaigų, organizacijų valstybės informacinių išteklių, žinybinių registrų duomenis ir dokumentus bei kitą informaciją, reikalingą socialinio tyrimo išvadai parengti ir (ar) teismo nuosprendžiui (nutarčiai) įvykdyti, arba susipažinti su šia informacija;
 
 
 
@@ -581,7 +629,17 @@ Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
 
 
 
-5) lankytis asmenų, dėl kurių rengiama socialinio tyrimo išvada, ir probuojamųjų gyvenamojoje vietoje.
+5) lankytis asmenų, dėl kurių rengiama socialinio tyrimo išvada, ir probuojamųjų gyvenamojoje vietoje;
+
+
+
+
+6) sudaryti ir nutraukti sutartis su darbdaviais, pas kuriuos probuojamasis atlieka nemokamus darbus ar nemokamus auklėjamojo pobūdžio darbus, taip pat lankytis šių darbų atlikimo vietose;
+
+
+
+
+7) Kalėjimų departamento direktoriaus nustatyta tvarka probuojamųjų elgesio kontrolei naudoti elektroninio stebėjimo ir specialiąsias technines priemones. 
 
 
 
@@ -596,7 +654,7 @@ Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
 
 
 
-2) teikti informaciją probuojamiesiems apie probacijos vykdymo tvarką ir sąlygas, jų teises ir pareigas;
+2) teikti probuojamiesiems informaciją apie probacijos vykdymo tvarką ir sąlygas, jų teises ir pareigas;
 
 
 
@@ -613,12 +671,12 @@ Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
 
 
 
-3. Nepilnamečio probuojamojo atstovai pagal įstatymą šaukiami atvykti į probacijos tarnybą kartu su nepilnamečiu probuojamuoju pradedant vykdyti nepilnamečio probuojamojo priežiūrą, sudarant jam individualų probuojamojo priežiūros planą, probuojamojo dienotvarkę, kai nepilnamečiui probuojamajam paskirta intensyvi priežiūra, nepilnamečiui probuojamajam nevykdant probacijos sąlygų ir individualiame probuojamojo priežiūros plane nustatytų nepilnamečio probuojamojo priežiūros priemonių.
+3. Nepilnamečio probuojamojo atstovai pagal įstatymą šaukiami atvykti į probacijos tarnybą kartu su nepilnamečiu probuojamuoju pradedant vykdyti nepilnamečio probuojamojo priežiūrą, sudarant jam individualų probuojamojo priežiūros planą, probuojamojo dienotvarkę, kai nepilnamečiam probuojamajam paskirta intensyvi priežiūra, nepilnamečiam probuojamajam nevykdant probacijos sąlygų ir individualiame probuojamojo priežiūros plane nustatytų nepilnamečio probuojamojo priežiūros priemonių.
 
 
 
 
-4. Pradedant vykdyti priežiūrą, probuojamasis informuojamas apie jo teisinę padėtį ir probacijos sąlygų keitimo pagrindus, taip pat teisines pasekmes už vengimą atlikti nustatytas pareigas.
+4. Pradedant vykdyti priežiūrą, probuojamasis informuojamas apie jo teisinę padėtį ir probacijos sąlygų keitimo pagrindus, taip pat teisines pasekmes už vengimą vykdyti probacijos sąlygas.
  
 
 
@@ -633,15 +691,15 @@ PROBUOJAMOJO PRIEŽIŪROS PLANAVIMAS IR VYKDYMAS
  
 
 
-17 straipsnis. Probuojamojo priežiūros planavimas
+18 straipsnis. Probuojamojo priežiūros planavimas
 
 
-1. Probuotojas sudaro individualų probuojamojo priežiūros planą. Sudarant šį planą, turi dalyvauti probuojamasis, o kai planas sudaromas nepilnamečiui probuojamajam, – turi dalyvauti ir jo atstovas pagal įstatymą. Į plano sudarymą gali būti įtraukiamos suinteresuotos institucijos.
+1. Probuotojas sudaro individualų probuojamojo priežiūros planą. Sudarant šį planą, turi dalyvauti probuojamasis, o kai planas sudaromas nepilnamečiam probuojamajam, – ir nepilnamečio probuojamojo atstovas pagal įstatymą. Į plano sudarymą gali būti įtraukiamos suinteresuotos institucijos.
 
 
 
 
-2. Individualus probuojamojo priežiūros planas sudaromas atsižvelgiant į paskirtas probacijos sąlygas, probuojamojo rizikos lygį, kriminogeninius veiksnius. Nepilnamečiams probuojamiesiems individualus priežiūros planas sudaromas atsižvelgiant ir į jų socialinę brandą, asmenybės ugdymo poreikius.
+2. Individualus probuojamojo priežiūros planas sudaromas atsižvelgiant į šio įstatymo nustatytas ir teismo paskirtas probacijos sąlygas, probuojamojo rizikos lygį, kriminogeninius veiksnius. Nepilnamečiams probuojamiesiems individualus priežiūros planas sudaromas atsižvelgiant ir į jų socialinę brandą, asmenybės ugdymo poreikius. Lygtinai paleistiems iš pataisos įstaigų nuteistiesiems sudarant individualų priežiūros planą, taip pat atsižvelgiama į jų elgesį atliekant laisvės atėmimo bausmę ir šios bausmės atlikimo metu jiems taikytas socialinės reabilitacijos priemones ir jų įgyvendinimo rezultatus.
 
 
 
@@ -649,18 +707,12 @@ PROBUOJAMOJO PRIEŽIŪROS PLANAVIMAS IR VYKDYMAS
 3. Individualiame probuojamojo priežiūros plane turi būti nustatyta:
 
 
-1) probuojamojo resocializacijos ilgalaikiai tikslai, priemonės ir jų įgyvendinimo terminai; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
- 
+1) probuojamojo resocializacijos ilgalaikiai tikslai, priemonės ir jų įgyvendinimo terminai;
 
 
 
 
-2) priemonės, padėsiančios probuojamajam įvykdyti probacijos sąlygas, ir jų įgyvendinimo terminai; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
- 
+2) priemonės, padėsiančios probuojamajam įvykdyti probacijos sąlygas, ir jų įgyvendinimo terminai;
 
 
 
@@ -692,28 +744,25 @@ Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
 
 
 
-4. Individualus probuojamojo priežiūros planas turi būti sudarytas ne vėliau kaip per dešimt darbo dienų nuo priežiūros vykdymo bylos pradžios dienos. Individualus probuojamojo priežiūros planas gali būti nesudaromas, kai probacijos terminas yra ne ilgesnis kaip du mėnesiai, o nepilnamečiams probuojamiesiems – ne ilgesnis kaip vienas mėnuo. Kai planas nesudaromas, probuojamasis supažindinamas su probacijos vykdymo tvarka ir sąlygomis, jo teisėmis ir pareigomis ir vykdomos šio įstatymo 18 straipsnyje nustatytos trumpalaikės probuojamojo resocializacijos priemonės. Individualus probuojamojo priežiūros planas gali būti tikslinamas atsižvelgiant į šio straipsnio 2 dalyje nustatytas aplinkybes.
-Straipsnio dalies pakeitimai:
-Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
+4. Individualus probuojamojo priežiūros planas lygtinai paleistiems iš pataisos įstaigų nuteistiesiems turi būti sudarytas iki jų lygtinio paleidimo iš pataisos įstaigų, o kitiems probuojamiesiems – ne vėliau kaip per dešimt darbo dienų nuo priežiūros vykdymo bylos pradžios dienos. Individualus probuojamojo priežiūros planas gali būti nesudaromas, kai probacijos terminas yra ne ilgesnis kaip du mėnesiai, o nepilnamečiams probuojamiesiems ir lygtinai paleistiems iš pataisos įstaigų nuteistiesiems – ne ilgesnis kaip vienas mėnuo. Kai planas nesudaromas, probuojamasis supažindinamas su probacijos vykdymo tvarka ir sąlygomis, jo teisėmis ir pareigomis ir vykdomos šio įstatymo 19 straipsnyje nustatytos trumpalaikės probuojamojo resocializacijos priemonės. Individualus probuojamojo priežiūros planas gali būti tikslinamas atsižvelgiant į šio straipsnio 2 dalyje nustatytas aplinkybes.
+
+
+
+
+5. Probuojamasis su individualiu probuojamojo priežiūros planu, išskyrus šiame plane nustatytą elgesio kontrolės priemonių vykdymo intensyvumą, supažindinamas pasirašytinai. Su individualiu nepilnamečio probuojamojo priežiūros planu, išskyrus šiame plane nustatytą elgesio kontrolės priemonių vykdymo intensyvumą, pasirašytinai supažindinami ir nepilnamečio probuojamojo atstovai pagal įstatymą.
+
+
+
+
+6. Individualaus probuojamojo priežiūros plano forma ir rengimo metodika nustatyta teisingumo ministro tvirtinamame Probacijos vykdymo tvarkos apraše. 
  
 
 
 
 
-5. Probuojamasis su individualiu probuojamojo priežiūros planu supažindinamas pasirašytinai. Su individualiu nepilnamečio probuojamojo priežiūros planu pasirašytinai supažindinami ir nepilnamečio probuojamojo atstovai pagal įstatymą.
 
 
-
-
-6. Individualaus probuojamojo priežiūros plano formą ir rengimo metodiką nustato Probacijos vykdymo tvarkos aprašas. Šį aprašą tvirtina teisingumo ministras.
- 
-
-
-
-
-
-
-18 straipsnis. Probuojamojo resocializacijos priemonės
+19 straipsnis. Probuojamojo resocializacijos priemonės
 
 
 Probuojamojo resocializacijos priemonės yra šios:
@@ -759,19 +808,17 @@ Probuojamojo resocializacijos priemonės yra šios:
 
 
 
-9) kitos priemonės, kurių įgyvendinimas padėtų probuojamajam socialiai integruotis. 
-
-
-
-
-Straipsnio pakeitimai:
-Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
+9) kitos priemonės, kurių įgyvendinimas padėtų probuojamajam socialiai integruotis.
  
 
 
 
 
-19 straipsnis. Probuotojų socialinė pagalba probuojamiesiems
+
+
+
+
+20 straipsnis. Probuotojų socialinė pagalba probuojamiesiems
 
 
 Probuotojai padeda probuojamiesiems spręsti asmenines ir socialines problemas:
@@ -787,20 +834,17 @@ Probuotojai padeda probuojamiesiems spręsti asmenines ir socialines problemas:
 
 
 
-3) padeda įsidarbinti probuojamiesiems, inicijuoja susitikimus su galimais darbdaviais, informuoja apie Užimtumo tarnybos teikiamas paslaugas; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
- 
+3) padeda įsidarbinti, inicijuoja susitikimus su galimais darbdaviais, informuoja apie Užimtumo tarnybos teikiamas paslaugas;
 
 
 
 
-4) motyvuoja ir skatina probuojamuosius įgyti išsilavinimą;
+4) motyvuoja ir skatina įgyti išsilavinimą;
 
 
 
 
-5) motyvuoja ir skatina probuojamuosius dalyvauti elgesio pataisos programose;
+5) motyvuoja ir skatina dalyvauti elgesio pataisos programose;
 
 
 
@@ -815,7 +859,7 @@ Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
 
 
 
-20 straipsnis. Elgesio pataisos programų įgyvendinimas
+21 straipsnis. Elgesio pataisos programų įgyvendinimas
 
 
 1. Probuotojas, atsižvelgdamas į probuojamojo kriminogeninius veiksnius ir riziką, nustato individualias socialinės pagalbos kryptis ir įgyvendina Kalėjimų departamento direktoriaus aprobuotas elgesio pataisos programas.
@@ -831,7 +875,7 @@ Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
 
 
 
-21 straipsnis. Probuojamųjų elgesio kontrolė
+22 straipsnis. Probuojamųjų elgesio kontrolė
 
 
 1. Probuojamųjų elgesio kontrolę sudaro:
@@ -852,12 +896,12 @@ Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
 
 
 
-4) probuojamiesiems teismo paskirtų Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 dalies 7, 8, 9 punktuose nustatytų pareigų, 721 straipsnyje nustatytos baudžiamojo poveikio priemonės ir 87 straipsnio 2 dalies 1 punkte ir 3 dalies 4 ir 5 punktuose nustatytų pareigų ir draudimų vykdymo stebėjimas elektroninio stebėjimo priemonėmis;
+4) probuojamiesiems teismo paskirtos Lietuvos Respublikos baudžiamojo kodekso 721 straipsnyje nustatytos baudžiamojo poveikio priemonės, 75 straipsnio 5 dalies 7, 8, 9 punktuose nustatytų pareigų, 87 straipsnio 2 dalies 1 punkte ir 3 dalies 4 ir 5 punktuose nustatytų pareigų ir draudimų, šio įstatymo 15 straipsnio 1 dalies 4 ir 6 punktuose nustatytų pareigų ir intensyvios priežiūros vykdymo stebėjimas elektroninio stebėjimo priemonėmis;
 
 
 
 
-5) probuojamiesiems teismo paskirtos Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 dalies 10 punkte nustatytos pareigos vykdymo tikrinimas specialiosiomis techninėmis priemonėmis;
+5) probuojamiesiems teismo paskirtos Baudžiamojo kodekso 75 straipsnio 5 dalies 10 punkte nustatytos pareigos, taip pat šio įstatymo 15 straipsnio 1 dalies 5 punkte ir 27 straipsnio 2 punkte nustatytos pareigos ir draudimo vykdymo tikrinimas specialiosiomis techninėmis priemonėmis;
 
 
 
@@ -869,41 +913,40 @@ Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
 
 
 
-2. Elektroninio stebėjimo ir specialiosiomis techninėmis priemonėmis galima stebėti ir tikrinti ir kitų, negu nurodyta šio straipsnio 1 dalies 4 ir 5 punktuose, probacijos sąlygų vykdymą, jeigu taip būtų užtikrinta efektyvesnė probuojamųjų elgesio kontrolė. Elektroninio stebėjimo ir specialiųjų techninių priemonių naudojimo tvarka ir sąlygos nustatomos Probacijos vykdymo tvarkos apraše.
+2. Elektroninio stebėjimo ir specialiosiomis techninėmis priemonėmis galima stebėti ir tikrinti ir kitų, negu nurodyta šio straipsnio 1 dalies 4 ir 5 punktuose, probacijos sąlygų vykdymą, jeigu taip būtų užtikrinta efektyvesnė probuojamųjų elgesio kontrolė. Elektroninio stebėjimo ir specialiųjų techninių priemonių naudojimo tvarką ir sąlygas nustato Kalėjimų departamento direktorius.
 
 
 
 
-3. Probuojamieji, kurių probacijos sąlygų vykdymas stebimas elektroninio stebėjimo priemonėmis, turi laikytis šio įstatymo 26 straipsnio 1, 5, 6 ir 7 punktuose nustatytų pareigų ir šio įstatymo 27 straipsnio 1 punkte nustatyto draudimo.
+3. Probuojamieji, kurių probacijos sąlygų vykdymas stebimas elektroninio stebėjimo priemonėmis, turi laikytis šio įstatymo 26 straipsnio 1, 4, 5 ir 6 punktuose nustatytų pareigų ir šio įstatymo 27 straipsnio 1 punkte nustatyto draudimo.
 
 
-Straipsnio pakeitimai:
-Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
+
+
+4. Probuojamojo atsisakymas arba nesutikimas, kad jam nustatytų pareigų ir draudimų vykdymas būtų kontroliuojamas elektroninio stebėjimo priemonėmis ir specialiosiomis techninėmis priemonėmis, taip pat tokių priemonių tyčinis sugadinimas prilyginamas vengimui vykdyti probacijos sąlygas.
  
 
 
 
 
-22 straipsnis. Probuojamojo priežiūros vykdymo sustabdymas 
 
 
-Probacijos tarnybos direktoriaus ar jo įgalioto probuotojo sprendimu probuojamojo priežiūros vykdymas gali būti laikinai sustabdytas, kol probacijos vykdymo metu probuojamajam taikoma kardomoji priemonė – suėmimas. Šis laikas įskaitomas į probacijos laikotarpį, jeigu probuojamasis vėliau buvo išteisintas arba baudžiamoji byla ar ikiteisminis tyrimas jam buvo nutrauktas, arba kardomoji priemonė buvo pripažinta nepagrįsta (neteisėta).
+23 straipsnis. Probuojamojo priežiūros vykdymo sustabdymas
 
 
-Straipsnio pakeitimai:
-Nr. XII-2712, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26511
+Probacijos tarnybos direktoriaus ar jo įgalioto probuotojo sprendimu probuojamojo priežiūros vykdymas laikinai sustabdomas, kol probacijos vykdymo metu probuojamajam taikoma kardomoji priemonė – suėmimas. Šis laikas įskaitomas į probacijos laikotarpį, jeigu probuojamasis vėliau buvo išteisintas arba baudžiamoji byla ar ikiteisminis tyrimas jam buvo nutrauktas, arba kardomoji priemonė buvo pripažinta nepagrįsta (neteisėta).
+ 
  
 
 
 
 
-23 straipsnis. Probuojamojo priežiūros vykdymo nutraukimas prieš terminą
 
 
-1. Probacijos tarnybos teikimu apylinkės teismas gali prieš terminą nutraukti vykdomą probuojamojo priežiūrą, jam faktiškai atlikus ne mažiau kaip tris ketvirtadalius, o nepilnamečiui probuojamajam – du trečdalius probacijos termino, kai jo rizika ir elgesys probacijos vykdymo metu rodo, kad probacijos tikslai gali būti pasiekti be tolesnės probuojamojo priežiūros, jeigu probuojamasis nepažeidė probacijos sąlygų, nepadarė administracinių nusižengimų, nepadarė arba nėra įtariamas ar kaltinamas naujos nusikalstamos veikos padarymu.
-Straipsnio dalies pakeitimai:
-Nr. XII-2712, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26511
- 
+24 straipsnis. Probuojamojo priežiūros vykdymo nutraukimas prieš terminą
+
+
+1. Probacijos tarnybos teikimu apylinkės teismas gali prieš terminą nutraukti vykdomą probuojamojo priežiūrą, jam faktiškai atlikus ne mažiau kaip tris ketvirtadalius, o nepilnamečiam probuojamajam – du trečdalius probacijos termino, kai jo rizika ir elgesys probacijos vykdymo metu rodo, kad probacijos tikslai gali būti pasiekti be tolesnės probuojamojo priežiūros, jeigu probuojamasis nepažeidė probacijos sąlygų, nepadarė administracinių nusižengimų, nepadarė arba nėra įtariamas ar kaltinamas naujos nusikalstamos veikos padarymu.
 
 
 
@@ -919,14 +962,44 @@ Nr. XII-2712, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26511
 
 
 VI SKYRIUS
-INTENSYVI PROBUOJAMOJO PRIEŽIŪRA
+INTENSYVI PRIEŽIŪRA
  
 
 
-24 straipsnis. Intensyvi probuojamojo priežiūra
+25 straipsnis. Intensyvi priežiūra
 
 
-Intensyvi probuojamojo priežiūra – probuojamojo buvimo vietos pagal nustatytą probuojamojo dienotvarkę kontrolė elektroninėmis stebėjimo priemonėmis.
+1. Ne vėliau kaip per penkias darbo dienas nuo nuosprendžio, pagal kurį turi būti vykdoma probuojamojo intensyvi priežiūra, gavimo, o kai nuteistasis lygtinai paleidžiamas iš pataisos įstaigos taikant jam intensyvią priežiūrą, – lygtinio paleidimo iš pataisos įstaigos dieną probuojamajam uždedamas elektroninio stebėjimo įtaisas ir prireikus teismo ar probacijos tarnybos nustatytoje nuteistojo buvimo vietoje sumontuojama elektroninio stebėjimo įranga, o nuteistasis pasirašytinai supažindinamas su elektroninio stebėjimo įtaiso naudojimo instrukcija. Jeigu nuteistasis yra nepilnametis, su šia instrukcija pasirašytinai supažindinamas ir jo atstovas pagal įstatymą. 
+
+
+
+
+2. Intensyvios priežiūros metu elektroninio stebėjimo įtaisas nuo nuteistojo gali būti nuimamas šiais atvejais:
+
+
+1) elektroninio stebėjimo įtaisas trukdo nuteistajam teikti asmens sveikatos priežiūros paslaugas;
+
+
+
+
+2) dėl elektroninio stebėjimo įtaiso gedimo būtina jį pakeisti nauju;
+
+
+
+
+3) nuteistajam taikoma kardomoji priemonė – suėmimas.
+
+
+
+
+
+
+3. Elektroninio stebėjimo įtaisas nuo nuteistojo nuimamas paskutinę intensyvios priežiūros vykdymo dieną.
+
+
+
+
+4. Intensyvios priežiūros sąlygų laikymosi kontrolės taisykles tvirtina Kalėjimų departamento direktorius.
  
 
 
@@ -934,34 +1007,10 @@ Intensyvi probuojamojo priežiūra – probuojamojo buvimo vietos pagal nustatyt
 
 
 
-25 straipsnis. Probuojamojo dienotvarkė
+26 straipsnis. Probuojamojo, kuriam vykdoma intensyvi priežiūra, specialiosios pareigos
 
 
-1. Probuojamojo dienotvarkėje nustatomos galimos probuojamojo buvimo vietos, vykimo iki jų ir buvimo jose laikas. Laikas nustatomas ne didesniu kaip 30 minučių tikslumu. Sudarant probuojamojo dienotvarkę, turi dalyvauti probuojamasis, o kai dienotvarkė sudaroma nepilnamečiui probuojamajam, – ir jo atstovas pagal įstatymą.
-
-
-
-
-2. Atsižvelgdamas į probuojamajam paskirtas probacijos sąlygas, probuojamojo pateiktą informaciją apie galimas jo buvimo vietas ir buvimo jose laiką, probuojamojo dienotvarkę sudaro probuotojas, ją tvirtina tiesioginis probuotojo vadovas. Su dienotvarke probuojamasis supažindinamas pasirašytinai. Su sudaryta nepilnamečio probuojamojo dienotvarke pasirašytinai supažindinami ir nepilnamečio probuojamojo atstovai pagal įstatymą.
-Straipsnio dalies pakeitimai:
-Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
- 
-
-
-
-
-3. Probuojamojo dienotvarkė gali būti keičiama, jeigu probuojamasis pakeitė gyvenamąją, mokslo ar darbo vietą arba dėl kitų svarbių priežasčių, dėl kurių tolesnis probuojamojo stebėjimas pagal patvirtintą dienotvarkę būtų neįmanomas.
- 
-
-
-
-
-
-
-26 straipsnis. Probuojamojo, kuriam paskirta intensyvi priežiūra, specialiosios pareigos
-
-
-Probuojamasis, kuriam paskirta intensyvi priežiūra, privalo:
+Probuojamasis, kuriam vykdoma intensyvi priežiūra, privalo:
 
 
 1) dėvėti elektroninio stebėjimo įtaisą;
@@ -969,32 +1018,27 @@ Probuojamasis, kuriam paskirta intensyvi priežiūra, privalo:
 
 
 
-2) laikytis nustatytos dienotvarkės;
+2) būti teismo nuosprendyje (nutartyje) ar probacijos tarnybos nustatytoje vietoje nustatytu laiku;
 
 
 
 
-3) dalyvauti probuotojo parinktose elgesio pataisos programose;
+3) pranešti probuotojui apie bet kokį nustatytos intensyvios priežiūros tvarkos nesilaikymo atvejį;
 
 
 
 
-4) pranešti probuotojui apie bet kokį dienotvarkės nesilaikymo atvejį;
+4) pranešti probuotojui apie pastebėtą elektroninio stebėjimo įtaiso gedimą ar praradimą;
 
 
 
 
-5) pranešti probuotojui apie pastebėtą elektroninio stebėjimo įtaiso gedimą ar praradimą;
+5) leisti probuotojui ar kitam asmeniui, vykdančiam elektroninio stebėjimo įtaiso techninę priežiūrą, patikrinti probuojamojo dėvimą, taip pat jo buvimo vietoje sumontuotą elektroninio stebėjimo įtaisą;
 
 
 
 
-6) leisti probuotojui ar kitam asmeniui, vykdančiam elektroninio stebėjimo įtaiso techninę priežiūrą, patikrinti probuojamojo dėvimą elektroninio stebėjimo įtaisą;
-
-
-
-
-7) grąžinti probuotojui ar kitam asmeniui, atliekančiam elektroninio stebėjimo įtaiso techninę priežiūrą, elektroninio stebėjimo įtaisą pasibaigus intensyviai priežiūrai.
+6) grąžinti probuotojui ar kitam asmeniui, atliekančiam elektroninio stebėjimo įtaiso techninę priežiūrą, elektroninio stebėjimo įtaisą pasibaigus intensyviai priežiūrai.
  
 
 
@@ -1028,7 +1072,12 @@ Probuojamajam, kuriam paskirta intensyvi priežiūra, draudžiama:
 28 straipsnis. Intensyvios priežiūros vykdymo terminas
 
 
-Intensyvi probuojamojo priežiūra vykdoma tris mėnesius. Atsižvelgusi į probuojamojo rizikos lygį, probacijos tarnyba gali pratęsti intensyvios probuojamojo priežiūros vykdymą trims mėnesiams, tačiau bendras vykdomos probuojamojo intensyvios priežiūros terminas negali trukti ilgiau kaip vienus metus, o nepilnamečio probuojamojo – ilgiau kaip devynis mėnesius.
+1. Intensyvi probuojamojo priežiūra vykdoma tris mėnesius, išskyrus probuojamuosius, kuriems arešto bausmės vykdymas atidėtas. Atsižvelgusi į probuojamojo rizikos lygį ir elgesį probacijos vykdymo metu, probacijos tarnyba gali pratęsti probuojamojo intensyvios priežiūros vykdymą trims mėnesiams, tačiau bendras vykdomos probuojamojo intensyvios priežiūros terminas negali būti ilgesnis už bausmės vykdymo atidėjimo ar likusios neatliktos bausmės laiką.
+
+
+
+
+2. Probuojamųjų, kuriems arešto bausmės vykdymas atidėtas, intensyvi priežiūra vykdoma visą bausmės vykdymo atidėjimo laiką. 
  
 
 
@@ -1046,12 +1095,12 @@ PROBACIJOS SĄLYGŲ KEITIMAS. PROBACIJOS VYKDYMO IR VENGIMO VYKDYTI TEISINĖS PA
 29 straipsnis. Probacijos sąlygų keitimas
 
 
-1. Probacijos tarnybos gali kreiptis į teismą dėl probacijos sąlygų pakeitimo, jeigu kitos sąlygos darytų teigiamą įtaką probuojamojo elgesiui ir (ar) padėtų užtikrinti nukentėjusio asmens interesus arba jeigu probuojamasis dėl objektyvių priežasčių negali įvykdyti nustatytų probacijos sąlygų.
+1. Probacijos tarnyba gali kreiptis į teismą dėl probacijos sąlygų pakeitimo, jeigu kitos sąlygos darytų teigiamą įtaką probuojamojo elgesiui ir (ar) padėtų užtikrinti nukentėjusio asmens interesus arba jeigu probuojamasis dėl objektyvių priežasčių negali įvykdyti nustatytų probacijos sąlygų.
 
 
 
 
-2. Probacijos tarnybų teikimu teismas gali pakeisti probuojamajam paskirtas auklėjamojo poveikio priemones, baudžiamojo poveikio priemones ir (ar) pareigas kitomis Lietuvos Respublikos baudžiamojo kodekso IX skyriuje numatytomis baudžiamojo poveikio priemonėmis ir (ar) šio kodekso 75 straipsnio 2 ar 3 dalyje numatytomis pareigomis arba šio kodekso 82 straipsnyje numatytomis auklėjamojo poveikio priemonėmis.
+2. Probacijos tarnybos teikimu teismas gali pakeisti probuojamajam paskirtas auklėjamojo poveikio priemones, baudžiamojo poveikio priemones ir (ar) pareigas, taip pat šio įstatymo 15 straipsnyje nustatytas pareigas kitomis Baudžiamojo kodekso IX skyriuje numatytomis baudžiamojo poveikio priemonėmis ir (ar) šio kodekso 75 straipsnio 5 ar 6 dalyje numatytomis pareigomis arba šio kodekso 82 straipsnyje numatytomis auklėjamojo poveikio priemonėmis.
  
 
 
@@ -1062,7 +1111,7 @@ PROBACIJOS SĄLYGŲ KEITIMAS. PROBACIJOS VYKDYMO IR VENGIMO VYKDYTI TEISINĖS PA
 30 straipsnis. Probacijos vykdymo ir vengimo vykdyti teisinės pasekmės
 
 
-1. Probuojamasis, kuris probacijos laikotarpiu įvykdė auklėjamojo ar baudžiamojo poveikio priemones ir (ar) pareigas, nepadarė šio straipsnio 2 dalies 2 ir 3 punktuose numatytų pažeidimų, dėl kurių buvo priimtas sprendimas panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį, kai sueina bausmės vykdymo atidėjimo arba lygtinio paleidimo iš pataisos įstaigos terminas, laikomas atlikusiu bausmę.
+1. Probuojamasis, kuris probacijos laikotarpiu įvykdė auklėjamojo ar baudžiamojo poveikio priemones ir (ar) pareigas, laikėsi intensyvios priežiūros sąlygų, nepadarė šio straipsnio 2 dalies 2 ir 3 punktuose numatytų pažeidimų, dėl kurių buvo priimtas sprendimas panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį, kai sueina bausmės vykdymo atidėjimo arba lygtinio paleidimo iš pataisos įstaigos terminas, laikomas atlikusiu bausmę.
 
 
 
@@ -1075,27 +1124,22 @@ PROBACIJOS SĄLYGŲ KEITIMAS. PROBACIJOS VYKDYMO IR VENGIMO VYKDYTI TEISINĖS PA
 
 
 
-2) vykdo probacijos sąlygas, tačiau padaro administracinių nusižengimų, už kuriuos jam taikytos administracinės nuobaudos ir (ar) administracinio poveikio priemonės, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu gali jam papildomai paskirti Lietuvos Respublikos baudžiamojo kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių ir (ar) šio kodekso 75 straipsnio 2 ar 3 dalyje numatytų pareigų arba šio kodekso 82 straipsnyje numatytų auklėjamojo poveikio priemonių arba priimti sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį, kai pagrįstai manoma, kad probacijos tikslo nebus įmanoma pasiekti skirtinomis baudžiamojo poveikio priemonėmis ir (ar) pareigomis arba auklėjamojo poveikio priemonėmis;
+2) vykdo probacijos sąlygas, tačiau padaro administracinių nusižengimų, už kuriuos jam taikytos administracinės nuobaudos ir (ar) administracinio poveikio priemonės, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu gali jam papildomai paskirti Baudžiamojo kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių ir (ar) šio kodekso 75 straipsnio 5 ar 6 dalyje numatytų pareigų arba šio kodekso 82 straipsnyje numatytų auklėjamojo poveikio priemonių, ir (ar) šio kodekso 87 straipsnio 2, 3 ir 4 dalyse numatytų įpareigojimų ar draudimų arba priimti sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę, arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį, kai pagrįstai manoma, kad probacijos tikslo nebus įmanoma pasiekti skirtinomis baudžiamojo poveikio priemonėmis ir (ar) pareigomis arba auklėjamojo poveikio priemonėmis;
 
 
 
 
-3) be pateisinamų priežasčių nevykdo probacijos sąlygų arba ir po papildomų probacijos sąlygų paskyrimo jų nevykdo ar padaro administracinį nusižengimą, už kurį jam taikyta administracinė nuobauda ir (ar) administracinio poveikio priemonė, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu priima sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį.
+3) be pateisinamų priežasčių nevykdo probacijos sąlygų arba ir po papildomų probacijos sąlygų paskyrimo jų nevykdo ar padaro administracinį nusižengimą, už kurį jam taikyta administracinė nuobauda ir (ar) administracinio poveikio priemonė, arba nevykdo kitų įstatymų nustatytų pareigų, teismas probacijos tarnybos teikimu priima sprendimą panaikinti bausmės vykdymo atidėjimą ir vykdyti pagal nuosprendį paskirtą bausmę arba panaikinti lygtinį paleidimą iš pataisos įstaigos ir vykdyti likusią bausmės dalį. 
 
 
-Straipsnio dalies pakeitimai:
-Nr. XII-2712, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26511
+
+
+
+
+3. Probacijos tarnyba, nustačiusi šio straipsnio 2 dalies 2 ar 3 punkte nurodytus probuojamojo padarytus teisės pažeidimus ir (ar) probacijos sąlygų nevykdymo atvejus, teikimą teismui pateikia nedelsdama, ne vėliau kaip per vieną darbo dieną.
  
 
 
-
-
-3. Probacijos tarnyba, nustačiusi šio straipsnio 2 dalies 2 ar 3 punkte nurodytus probuojamojo padarytus teisės pažeidimus ir (ar) probacijos sąlygų nevykdymo atvejus, teikimą teismui pateikia nedelsdama, bet ne vėliau kaip per vieną darbo dieną.
-
-
-Straipsnio pakeitimai:
-Nr. XII-2408, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15663
- 
 
 
 
@@ -1147,16 +1191,9 @@ Nr. XII-2408, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15663
 
 
 8) kiti įstatymų nustatyti pagrindai.
-
-
-
-
-
-
-3. Neteko galios nuo 2015-09-01
-Straipsnio dalies naikinimas:
-Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
  
+
+
 
 
 
@@ -1173,7 +1210,8 @@ PROBACIJOS VYKDYMO TEISĖTUMO PRIEŽIŪRA
 32 straipsnis. Probacijos vykdymo teisėtumo priežiūra
 
 
-Probacijos tarnybų ir probuotojų veiklos vykdant probaciją priežiūrą atlieka Lietuvos Respublikos teismai, prokurorai, Lietuvos Respublikos Seimo kontrolieriai, Lygių galimybių kontrolierius, Lietuvos Respublikos vaiko teisių apsaugos kontrolierius, Lietuvos Respublikos teisingumo ministerija, Kalėjimų departamentas ir kitos valstybės institucijos pagal Lietuvos Respublikos įstatymus.
+Probacijos tarnybos ir probuotojų veiklos vykdant probaciją priežiūrą atlieka Lietuvos Respublikos teismai, prokurorai, Lietuvos Respublikos Seimo kontrolieriai, lygių galimybių kontrolierius, Lietuvos Respublikos vaiko teisių apsaugos kontrolierius, Lietuvos Respublikos teisingumo ministerija, Kalėjimų departamentas ir kitos valstybės institucijos pagal Lietuvos Respublikos įstatymus.
+ 
  
 
 
@@ -1181,7 +1219,7 @@ Probacijos tarnybų ir probuotojų veiklos vykdant probaciją priežiūrą atlie
 
 
 
-33 straipsnis. Probacijos tarnybų ir probuotojų veiksmų ir sprendimų apskundimas
+33 straipsnis. Probacijos tarnybos ir probuotojų veiksmų ir sprendimų apskundimas
 
 
 1. Probuotojų veiksmai ir sprendimai skundžiami probacijos tarnybos direktoriui. Šis skundą turi išnagrinėti ne vėliau kaip per dvidešimt darbo dienų nuo skundo gavimo probacijos tarnyboje dienos, o kai dėl skundo atliekamas tarnybinis tyrimas, – per dešimt darbo dienų nuo tarnybinio tyrimo baigimo dienos.
@@ -1189,7 +1227,7 @@ Probacijos tarnybų ir probuotojų veiklos vykdant probaciją priežiūrą atlie
 
 
 
-2. Probacijos tarnybos direktoriaus veiksmai ir sprendimai gali būti skundžiami Kalėjimų departamento direktoriui, o veiksmai ir sprendimai, susiję su nuosprendžio ar nutarties vykdymo teisiniais santykiais, – apylinkės teismui Lietuvos Respublikos baudžiamojo proceso kodekso nustatyta tvarka. Kalėjimų departamento direktorius skundą turi išnagrinėti ne vėliau kaip per dvidešimt darbo dienų nuo skundo gavimo dienos, o kai dėl skundo atliekamas tarnybinis tyrimas, – per dešimt darbo dienų nuo tyrimo baigimo dienos.
+2. Probacijos tarnybos direktoriaus veiksmai ir sprendimai gali būti skundžiami Kalėjimų departamento direktoriui, o veiksmai ir sprendimai, susiję su nuosprendžio ar nutarties vykdymo teisiniais santykiais, – apylinkės teismui Baudžiamojo proceso kodekso nustatyta tvarka. Kalėjimų departamento direktorius skundą turi išnagrinėti ne vėliau kaip per dvidešimt darbo dienų nuo skundo gavimo dienos, o kai dėl skundo atliekamas tarnybinis tyrimas, – per dešimt darbo dienų nuo tyrimo baigimo dienos.
 
 
 
@@ -1199,41 +1237,7 @@ Probacijos tarnybų ir probuotojų veiklos vykdant probaciją priežiūrą atlie
 
 
 
-4. Lietuvos Respublikos įstatymų nustatytais atvejais ir tvarka probacijos tarnybų ir probuotojų veiksmai ir sprendimai gali būti skundžiami Lietuvos Respublikos Seimo kontrolieriams, Lygių galimybių kontrolieriui, Lietuvos Respublikos vaiko teisių apsaugos kontrolieriui ir (ar) kitoms įgaliotoms valstybės institucijoms.
- 
-
-
-
-
-
-
-
-
-IX SKYRIUS
-ĮSTATYMO ĮGYVENDINIMAS IR ĮSIGALIOJIMAS
- 
-
-
-34 straipsnis. Įstatymo įgyvendinimas
-
-
-1. Lietuvos Respublikos Vyriausybė ir teisingumo ministras iki šio įstatymo įsigaliojimo patvirtina šio įstatymo įgyvendinamuosius teisės aktus.
-
-
-
-
-2. Teisingumo ministerija organizuoja sistemingą probacijos vykdymo ir efektyvumo mokslinę stebėseną. Stebėsenos rezultatai skelbiami viešai.
- 
-
-
-
-
-
-
-35 straipsnis. Įstatymo įsigaliojimas
-
-
-Šis įstatymas, išskyrus 34 straipsnio 1 dalį, įsigalioja 2012 m. liepos 1 d.
+4. Lietuvos Respublikos įstatymų nustatytais atvejais ir tvarka probacijos tarnybos ir probuotojų veiksmai ir sprendimai gali būti skundžiami Seimo kontrolieriams, lygių galimybių kontrolieriui, vaiko teisių apsaugos kontrolieriui ir (ar) kitoms įgaliotoms valstybės institucijoms.
  
 
 
@@ -1246,9 +1250,11 @@ IX SKYRIUS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+ 
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
 
 
+ 
  
  
 Pakeitimai:
@@ -1277,3 +1283,8 @@ Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 6, 14 ir 19 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1388, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12056
 Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 2 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2266, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11184
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 pakeitimo įstatymas
