@@ -20,14 +20,9 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-05-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-09
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
- 
-TAR pastaba. Iki įstatymo Nr. XIII-2795 įsigaliojimo (2020-05-01) nustatytiems ir nepašalintiems Aplinkos apsaugos įstatymo 19-1 ir 19-2 straipsniuose nurodytų leidimų sąlygų pažeidimams, susijusiems su leidime nustatytos leistinos taršos (kiekio ir (ar) koncentracijos), atliekų susidarymo, laikymo normatyvų viršijimu, Aplinkos apsaugos įstatymo 19-1 straipsnio 14 dalies 9 punkte ir 19-2 straipsnio 11 dalies 9 punkte nurodytas 6 mėnesių terminas skaičiuojamas nuo 2020 m. gegužės 1 d.   Iki šio įstatymo įsigaliojimo neįvykdžius nutarimo stabdyti aplinkai kenksmingą veiklą, priimto iki 2020 m. gegužės 1 d. galiojusia Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme nustatyta tvarka, Aplinkos apsaugos įstatymo 19-1 ir 19-2 straipsniuose nurodytų leidimų galiojimas panaikinamas vadovaujantis iki šio įstatymo įsigaliojimo galiojusia Aplinkos apsaugos įstatymo 19-1 straipsnio 14 dalies 5 punkte arba iki šio įstatymo įsigaliojimo galiojusia Aplinkos apsaugos įstatymo 19-2 straipsnio 11 dalies 5 punkto nuostata.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
-Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 47, 55, 126, 127 straipsnių pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymas
  
  
 LIETUVOS RESPUBLIKOS APLINKOS APSAUGOS ĮSTATYMAS
@@ -1748,14 +1743,9 @@ Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
 
 
-234 straipsnis. Grunto naudojimas
-
-
-Gruntą leidžiama naudoti aplinkos ministro nustatyta tvarka, turint aplinkos ministro nustatyta tvarka parengtą ir suderintą grunto išteklių naudojimo projektą.
-
-
-Papildyta straipsniu:
-Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
+234 straipsnis. Neteko galios nuo 2020-07-01
+Straipsnio naikinimas:
+Nr. XIII-2483, 2019-10-15, paskelbta TAR 2019-10-31, i. k. 2019-17359
  
 
 
@@ -6618,3 +6608,8 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 20, 37, 109 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 47, 55, 126, 127 straipsnių pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2483, 2019-10-15, paskelbta TAR 2019-10-31, i. k. 2019-17359
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 23-4 straipsnio pripažinimo netekusiu galios įstatymas
