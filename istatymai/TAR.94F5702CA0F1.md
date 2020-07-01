@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2018-11-21 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
  
@@ -297,7 +297,10 @@ Nr. X-415, 2005-11-22, Žin., 2005, Nr. 143-5177 (2005-12-08), i. k. 1051010ISTA
 10 straipsnis. Antstolio veiklos apribojimas
 
 
-1. Antstolis, vykdydamas šiame Įstatyme numatytą veiklą, negali eiti kitų mokamų pareigų įmonėse, įstaigose ir organizacijose ar dirbti kito darbo, išskyrus darbą antstolių savivaldos institucijose ir mokslinę, kūrybinę ar pedagoginę veiklą, darbą visų lygių rinkimų ir referendumo komisijose, taip pat negali būti renkamas (skiriamas) įmonės, kurios veikla yra susijusi su skolų išieškojimu, turto saugojimu, turto vertinimu, teisinėmis konsultacijomis, tarpininkavimo paslaugų teikimu, valdymo organų nariu.
+1. Antstolis, vykdydamas šiame Įstatyme numatytą veiklą, negali eiti kitų mokamų pareigų įmonėse, įstaigose ir organizacijose ar dirbti kito darbo, išskyrus darbą antstolių savivaldos institucijose ir mokslinę, kūrybinę ar pedagoginę veiklą, darbą visų lygių rinkimų ir referendumo komisijose. Be to, antstolis negali būti renkamas (skiriamas) įmonės, kurios veikla yra susijusi su skolų išieškojimu, turto saugojimu, turto vertinimu, teisinėmis konsultacijomis, tarpininkavimo paslaugų teikimu, valdymo organų nariu. Atlikdamas šiame Įstatyme nustatytas funkcijas, antstolis negali naudotis juridinio asmens, kurio dalyvis yra jis pats, jo sutuoktinis (sugyventinis) ar artimasis giminaitis, paslaugomis, taip pat negali naudotis sutuoktinio (sugyventinio) ar artimųjų giminaičių paslaugomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
+ 
 
 
 
@@ -410,7 +413,10 @@ Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. 1081010IST
 
 
 
-4) įsiteisėjus teismo nuosprendžiui, kuriuo antstolis nuteistas už nusikalstamą veiką; 
+4) įsiteisėjus teismo nuosprendžiui, kuriuo antstolis nuteistas už nusikalstamą veiką arba pripažintas kaltu dėl nusikalstamos veikos padarymo, bet atleistas nuo baudžiamosios atsakomybės; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
+ 
 
 
 
@@ -715,7 +721,11 @@ ANTSTOLIO (ANTSTOLIŲ) KONTORA
 18 straipsnis. Antstolio (antstolių) kontora
 
 
-1. Veiklai vykdyti vienas ar keli antstoliai įkuria antstolio (antstolių) kontorą. Antstolio (antstolių) kontora yra antstolio (antstolių) darbo vieta. Antstolio kontora įkuriama antstolio veiklos teritorijoje. Jei kontorą kuria keletas antstolių, ji turi būti įkuriama vieno iš antstolių veiklos teritorijoje; kitų antstolių veiklos teritorijos turi būti šalia veiklos teritorijos, kurioje antstolių kontora yra kuriama. 
+1. Veiklai vykdyti vienas ar keli toje pačioje veiklos teritorijoje veikiantys antstoliai įkuria antstolio (antstolių) kontorą. Antstolio (antstolių) kontora yra antstolio (antstolių) darbo vieta. Antstolio (antstolių) kontora įkuriama antstolio (antstolių) veiklos teritorijoje. 
+TAR pastaba. 18 straipsnio 1 dalies nuostatos taikomos antstoliams, antstolio (antstolių) kontorą įkuriantiems po įstatymo Nr. XIII-2722 įsigaliojimo (2020-07-01). Antstoliai, iki įstatymo Nr. XIII-2722 įsigaliojimo (2020-07-01) įkūrę antstolių kontorą ne savo veiklos teritorijoje, iki 2023 m. liepos 1 d. turi įkurti šio įstatymo 4 straipsnyje išdėstytoje Antstolių įstatymo 18 straipsnio 1 dalyje nustatytus reikalavimus atitinkančią antstolio (antstolių) kontorą arba savo veiklos teritorijoje įkurti antstolių kontoros.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
+ 
 
 
 
@@ -801,7 +811,10 @@ ANTSTOLIO VEIKLA
 
 
 
-4) aukciono tvarka realizuoti įkeistą kilnojamąjį turtą;
+4) aukciono tvarka realizuoti nekilnojamąjį ir kilnojamąjį turtą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
+ 
 
 
 
@@ -834,22 +847,17 @@ Nr. XIII-536, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12055
 
 
 
-4. Vykdymo išlaidas sudaro:
-
-
-1) vykdomosios bylos administravimo išlaidos. Jas sudaro kiekvienoje vykdomojoje byloje privalomiems veiksmams atlikti būtinos išlaidos ir papildomos išlaidos, kurios patiriamos atliekant atskirus veiksmus konkrečioje vykdomojoje byloje;
-
-
-
-
-2) atlygis antstoliui už įstatymų nustatytų vykdomųjų dokumentų vykdymą, faktinių aplinkybių konstatavimą teismo pavedimu, dokumentų perdavimą ir įteikimą teismo pavedimu.
+4. Neteko galios nuo 2020-07-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
+ 
 
 
 
 
-
-
-5. Vykdymo išlaidos grindžiamos ekonominiais skaičiavimais, kuriais užtikrinamas antstolio ekonominis nepriklausomumas, skatinamas efektyvus išieškojimas ir atsižvelgiama į veiklos, reikalingos antstolio funkcijoms atlikti, pobūdį ir vertę, vykdymo išlaidų perskirstymą (kryžminį subsidijavimą) tarp skirtingų vykdomo proceso dalyvių, antstolio profesinės veiklos ir civilinės atsakomybės riziką, sąnaudas. Vykdomosios bylos administravimo išlaidos turi atitikti antstolio ir jo darbuotojų patiriamas sąnaudas (materialines ir laiko) vykdymo veiksmams atlikti. Atlygis antstoliui turi užtikrinti pagrįstą investicijų grąžą, galimybę sukurti tinkamas klientų aptarnavimo sąlygas ir įdarbinti reikalingos kvalifikacijos darbuotojus. 
+5. Neteko galios nuo 2020-07-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
 Straipsnio dalies pakeitimai:
 Nr. XI-1978, 2012-04-19, Žin., 2012, Nr. 50-2443 (2012-04-28), i. k. 1121010ISTA0XI-1978
  
@@ -857,7 +865,9 @@ Nr. XI-1978, 2012-04-19, Žin., 2012, Nr. 50-2443 (2012-04-28), i. k. 1121010IST
 
 
 
-6. Vykdymo išlaidų dydį, apskaičiavimo ir apmokėjimo tvarką nustato Teisingumo ministerija, suderinusi su Finansų ministerija.
+6. Neteko galios nuo 2020-07-01
+Straipsnio dalies naikinimas:
+Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
 Straipsnio dalies pakeitimai:
 Nr. XI-1978, 2012-04-19, Žin., 2012, Nr. 50-2443 (2012-04-28), i. k. 1121010ISTA0XI-1978
 Nr. XIII-1606, 2018-11-08, paskelbta TAR 2018-11-20, i. k. 2018-18679
@@ -1100,14 +1110,25 @@ ANTSTOLIO PADĖJĖJAS
 
 
 
-2) pasibaigus darbo sutarčiai dėl darbo antstolio padėjėju.
+2) pasibaigus darbo sutarčiai dėl darbo antstolio padėjėju;
+
+
+
+
+3) kai antstolio padėjėjas neatestuojamas. 
+Papildyta straipsnio punktu:
+Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
+ 
 
 
 
 
 
 
-2. Teisės vykdyti antstolio padėjėjo veiklą atėmimas šio Įstatymo 15 straipsnio 2 dalies 3 punkte nurodytu atveju yra pagrindas nutraukti su juo darbo sutartį dėl darbo antstolio padėjėju. 
+2. Teisės vykdyti antstolio padėjėjo veiklą atėmimas šio straipsnio 1 dalies 1 ir 3 punktuose nurodytais atvejais yra pagrindas nutraukti su juo darbo sutartį dėl darbo antstolio padėjėju. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
+ 
 
 
 Straipsnio pakeitimai:
@@ -1178,18 +1199,45 @@ Nr. XI-2094, 2012-06-21, Žin., 2012, Nr. 76-3937 (2012-06-30), i. k. 1121010IST
 
 
 
-33 straipsnis. Antstolių padėjėjų mokymas ir kvalifikacijos kėlimas
+33 straipsnis. Antstolių padėjėjų mokymas, kvalifikacijos kėlimas ir atestavimas 
 
 
-1. Antstolių padėjėjų mokymą ir kvalifikacijos kėlimą organizuoja Lietuvos antstolių rūmai. 
+1. Antstolių padėjėjai privalo nuolat kelti kvalifikaciją ir dalyvauti mokymuose. Antstolių padėjėjų mokymą ir kvalifikacijos kėlimą organizuoja Lietuvos antstolių rūmai.
 
 
 
 
-2. Antstolių padėjėjų mokymo ir kvalifikacijos kėlimo programą tvirtina Lietuvos antstolių rūmų prezidiumas.
+2. Antstolių padėjėjų mokymo programas ir kvalifikacijos kėlimo nuostatus tvirtina Lietuvos antstolių rūmų prezidiumas.
+
+
+
+
+3. Siekiant patikrinti antstolio padėjėjo kvalifikaciją ir profesines žinias, kas penkerius metus antstolių padėjėjai atestuojami. Antstolių padėjėjus atestuoja Antstolių padėjėjų atestavimo komisija. Šią komisiją sudaro, komisijos nuostatus ir antstolių padėjėjų atestavimo tvarkos aprašą tvirtina Lietuvos antstolių rūmų prezidiumas.
+
+
+
+
+4. Antstolių padėjėjų atestavimo komisija priima vieną iš šių sprendimų:
+
+
+1) antstolio padėjėją atestuoti;
+
+
+
+
+2) antstolio padėjėją atestuoti su sąlyga, kad jis per nustatytą terminą pašalins komisijos nurodytus veiklos trūkumus;
+
+
+
+
+3) antstolio padėjėjo neatestuoti.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
  
-
-
 
 
 
@@ -1909,3 +1957,8 @@ Lietuvos Respublikos antstolių įstatymo Nr. IX-876 20 ir 26 straipsnių pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1606, 2018-11-08, paskelbta TAR 2018-11-20, i. k. 2018-18679
 Lietuvos Respublikos antstolių įstatymo Nr. IX-876 21 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 10, 12, 15, 18, 21, 29 ir 33 straipsnių pakeitimo įstatymas
