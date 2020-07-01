@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
  
@@ -855,7 +855,10 @@ TAR pastaba. 13 straipsnio 8 dalies nuostatos taikomos nuo šio įstatymo įsiga
 
 
 
-6) asmeniui taikomos prevencinės poveikio priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymą;
+6) asmeniui taikomos organizuoto nusikalstamumo prevencijos priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymą;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3069, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14344
+ 
 
 
 
@@ -1526,3 +1529,8 @@ Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaug
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
 Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 10, 11, 12 straipsnių pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3069, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14344
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 17 straipsnio pakeitimo įstatymas
