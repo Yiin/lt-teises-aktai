@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS PLUOŠTINIŲ KANAPIŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2018-10-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2021-10-31
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 61-3025, i. k. 1131010ISTA0XII-336
  
@@ -361,7 +361,10 @@ IMPORTAS
 
 
 
-3) jam Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka skirtas vienas ar keli teismo įpareigojimai, – kol galioja įpareigojimai;
+3) jam Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatyta tvarka skirtas vienas ar keli teismo įpareigojimai, – kol galioja teismo įpareigojimai;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3072, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14347
+ 
 
 
 
@@ -875,3 +878,8 @@ Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 3, 4, 6, 9 i
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1220, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09736
 Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3072, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14347
+Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 6 straipsnio pakeitimo įstatymas
