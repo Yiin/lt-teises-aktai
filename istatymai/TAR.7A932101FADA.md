@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7A932101FADA"
 
 # Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2023-01-02
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 15-600, i. k. 1031010ISTA0IX-1314
  
@@ -95,12 +95,18 @@ Vilnius
 
 
 
-2. Asmuo ar susiję asmenys gali įsigyti tiek žemės Lietuvos teritorijoje, kad bendras jiems priklausantis iš valstybės ir kitų asmenų įsigytos žemės ūkio paskirties žemės plotas nebūtų didesnis kaip 500 ha. Šis ribojimas netaikomas, jeigu žemės ūkio paskirties žemės įsigyjama gyvulininkystei plėtoti ir įsigytos žemės ūkio paskirties žemės kiekis neviršija hektarų, tenkančių vienam asmens laikomam sutartiniam gyvuliui, skaičiaus (1 sutartinis gyvulys / 1 ha). Jeigu asmens sutartinių gyvulių skaičius per paskutinius 3 metus sumažėja (išskyrus sumažėjimą dėl ne nuo asmens priklausančių aplinkybių) arba jeigu asmuo ketina perleisti šią žemę tretiesiems asmenims, valstybė turi išpirkti viršijantį 500 ha ploto ribą gyvulininkystei plėtoti pagal šį įstatymą įsigytą žemės plotą už vidutinę rinkos vertę, kurios dydis nustatomas pagal žemės verčių zonų žemėlapius.
+2. Asmuo ar susiję asmenys gali įsigyti tiek žemės Lietuvos Respublikos teritorijoje, kad bendras jiems priklausantis iš valstybės ir kitų asmenų įsigytos žemės ūkio paskirties žemės plotas nebūtų didesnis kaip 500 ha. Šis ribojimas netaikomas, jeigu žemės ūkio paskirties žemės įsigyjama gyvulininkystei plėtoti ir įsigytos žemės ūkio paskirties žemės kiekis neviršija hektarų, tenkančių vienam asmens laikomam sutartiniam gyvuliui, skaičiaus (1 sutartinis gyvulys / 1 ha). Jeigu asmens sutartinių gyvulių skaičius per paskutinius 3 metus sumažėja (išskyrus sumažėjimą dėl ne nuo asmens priklausančių aplinkybių) arba jeigu asmuo ketina perleisti šią žemę tretiesiems asmenims, valstybė turi išpirkti 500 ha ploto ribą viršijantį gyvulininkystei plėtoti pagal šį įstatymą įsigytą žemės plotą už žemės ūkio paskirties žemės įsigijimo kainą, o kai žemės įsigijimo kaina yra didesnė už vidutinę rinkos vertę, valstybė išperka pagal vidutinę rinkos vertę, kurios dydis nustatomas pagal žemės verčių zonų žemėlapius. Nuosavybės teise įsigyjamos žemės ūkio paskirties žemės ploto ribojimo išimtimi pasinaudojęs asmuo per 3 mėnesius nuo šioje dalyje aprašytų aplinkybių dėl sutartinių gyvulių sumažėjimo (išskyrus sumažėjimą dėl ne nuo asmens priklausančių aplinkybių) atsiradimo privalo informuoti Nacionalinę žemės tarnybą prie Žemės ūkio ministerijos (toliau – Nacionalinė žemės tarnyba) apie šį faktą arba apie ketinimą tretiesiems asmenims perleisti žemės ūkio paskirties žemę, kuri buvo įsigyta gyvulininkystei plėtoti. Nacionalinė žemės tarnyba, gavusi asmens pranešimą arba pati nustačiusi minėtas aplinkybes, per 20 darbo dienų nuo pranešimo gavimo arba aplinkybių nustatymo pateikia asmeniui pasiūlymą per 3 mėnesius nuo pasiūlymo gavimo parduoti valstybei 500 ha ploto ribą viršijantį gyvulininkystei plėtoti įsigytą jo pasirinktą žemės ūkio paskirties žemės plotą. Jeigu viršijantis žemės ūkio paskirties žemės plotas sudaro tik žemės sklypo dalį ir pagal teisės aktų nuostatas, reglamentuojančias žemės sklypų formavimą, padalijus žemės sklypą, negalima suformuoti racionalių ribų ir dydžio žemės ūkio paskirties žemės sklypų, pasiūlymas parduoti teikiamas dėl viso žemės ūkio paskirties žemės sklypo, o asmeniui nesutikus, teikiamas pasiūlymas dėl žemės sklypo dalies, viršijančios gyvulininkystei plėtoti pagal šį įstatymą įsigyto 500 ha žemės ploto ribą, perleidimo. Perleidus žemės sklypo dalį, žemės sklypas valdomas bendrosios nuosavybės teise. Šioje dalyje ir šio straipsnio 9 dalyje nustatytu atveju Civilinio kodekso 4.79 straipsnio ir šio įstatymo 5 straipsnio 1 dalies nuostatos dėl pirmumo teisės asmenų nėra taikomos. Jeigu asmuo nesutinka su pasiūlymu parduoti žemės ūkio paskirties žemę valstybei, Nacionalinė žemės tarnyba, gindama viešąjį interesą, pareiškia ieškinį teismui dėl žemės ūkio paskirties žemės 500 ha žemės ploto ribą viršijančios žemės ploto dalies perdavimo valstybės nuosavybėn. Kai asmuo nesutinka rengti žemės valdos projekto, kuriuo atidalijama žemės sklypo dalis, žemės valdos projektą rengia Nacionalinė žemės tarnyba ir šių darbų verte Vyriausybės nustatyta tvarka mažinama parduodamo žemė sklypo kaina. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2935, 2020-05-14, paskelbta TAR 2020-05-22, i. k. 2020-10938
+ 
 
 
 
 
-3. Asmenys gali įsigyti žemės ūkio paskirties žemės tik gavę Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos (toliau – Nacionalinė žemės tarnyba) padalinio pagal žemės buvimo vietą išduotą sutikimą. Sutikimas įsigyti žemės ūkio paskirties žemės išduodamas Nacionalinei žemės tarnybai valstybės įmonių registruose patikrinus duomenis apie asmenų turimus žemės ūkio paskirties žemės plotus ir (ar) akcijas juridiniuose asmenyse, kurie valdo žemės ūkio paskirties žemę, ir nustačius, kad bendras įsigytos (priklausančios) žemės ūkio paskirties žemės plotas neviršija šio straipsnio 1 ir 2 dalyse nustatytų didžiausių įsigyjamos žemės ūkio paskirties žemės ploto dydžių. 
+3. Asmenys gali įsigyti žemės ūkio paskirties žemės tik gavę Nacionalinės žemės tarnybos padalinio pagal žemės buvimo vietą išduotą sutikimą. Sutikimas įsigyti žemės ūkio paskirties žemės išduodamas Nacionalinei žemės tarnybai valstybės registruose ir informacinėse sistemose patikrinus duomenis apie asmenų turimus žemės ūkio paskirties žemės plotus ir (ar) akcijas (teises, pajus) juridiniuose asmenyse, kurie valdo žemės ūkio paskirties žemę, ir nustačius, kad bendras įsigytos (priklausančios) žemės ūkio paskirties žemės plotas neviršija šio straipsnio 1 ir 2 dalyse nustatytų didžiausių įsigyjamos žemės ūkio paskirties žemės ploto dydžių. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2935, 2020-05-14, paskelbta TAR 2020-05-22, i. k. 2020-10938
+ 
 
 
 
@@ -133,7 +139,10 @@ Nr. XIII-1132, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07484
 
 
 
-9. Asmuo, pageidaujantis įsigyti žemės ūkio paskirties žemės, iki žemės ūkio paskirties žemės sklypo perleidimo sandorio sudarymo privalo užpildyti žemės ūkio paskirties žemės pirkėjo deklaraciją, patvirtinančią, kad sudarius žemės ūkio paskirties žemės sklypo perleidimo sandorį asmens ir su juo susijusių asmenų turimos žemės ūkio paskirties žemės plotas neviršys didžiausio žemės ūkio paskirties žemės ploto dydžio, kurį asmuo ir su juo susiję asmenys kartu gali įsigyti pagal šio straipsnio 1 ir 2 dalis. Jeigu sudaromas žemės ūkio paskirties žemės sklypo perleidimo sandoris atitinka Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 20 straipsnyje apibrėžtus požymius, pirkėjas žemės ūkio paskirties žemės pirkėjo deklaracijoje nurodo lėšų, už kurias įsigyjamas žemės sklypas, įsigijimo šaltinius. Žemės ūkio paskirties žemės pirkėjo deklaracijos formą, jos pildymo ir pateikimo taisykles tvirtina žemės ūkio ministras. Asmuo, įsigyjantis žemės ūkio paskirties žemę, atsako už žemės ūkio paskirties žemės pirkėjo deklaracijoje pateiktų duomenų teisingumą. Pagal prokuroro, ginančio viešąjį interesą, pareikštą ieškinį teismo sprendimu iš žemės ūkio paskirties žemės įgijėjo paimamas ir perduodamas valstybės nuosavybėn žemės plotas, kuris įsigytas pažeidžiant šio straipsnio 1 ir 2 dalyse nurodytus reikalavimus. Valstybė Lietuvos Respublikos Vyriausybės nustatyta tvarka asmeniui atlygina paimto žemės ūkio paskirties žemės ploto žemės įsigijimo kainą arba vidutinę rinkos vertę, kurios dydis nustatomas pagal žemės verčių zonų žemėlapius, jeigu vidutinė rinkos vertė yra mažesnė. 
+9. Asmuo, pageidaujantis įsigyti žemės ūkio paskirties žemės, iki žemės ūkio paskirties žemės sklypo perleidimo sandorio sudarymo privalo užpildyti žemės ūkio paskirties žemės pirkėjo deklaraciją, patvirtinančią, kad sudarius žemės ūkio paskirties žemės sklypo perleidimo sandorį asmens ir su juo susijusių asmenų turimos žemės ūkio paskirties žemės plotas neviršys didžiausio žemės ūkio paskirties žemės ploto dydžio, kurį asmuo ir su juo susiję asmenys kartu gali įsigyti pagal šio straipsnio 1 ir 2 dalis. Žemės ūkio paskirties žemės pirkėjo deklaracijos formą, jos pildymo ir pateikimo taisykles tvirtina žemės ūkio ministras. Asmuo, įsigyjantis žemės ūkio paskirties žemės, atsako už žemės ūkio paskirties žemės pirkėjo deklaracijoje pateiktų duomenų teisingumą. Kilus įtarimui (esant informacijos ir (ar) duomenų, ir (ar) faktų), kad asmuo pažeidė šio straipsnio 1 ir 2 dalyse nustatytus reikalavimus, Nacionalinė žemės tarnyba patikrina, ar žemės ūkio paskirties žemės sklypo ar kito turto pagal šio įstatymo 1 straipsnio 3 dalį perleidimo sandoris buvo sudarytas nepažeidžiant šio įstatymo. Atlikdama patikrinimą Nacionalinė žemės tarnyba turi teisę reikalauti iš valstybės ar savivaldybių institucijų, įstaigų ar įmonių, kitų juridinių ir fizinių asmenų bei užsienio subjektų pateikti dokumentus ir informaciją, susijusią su žemės ūkio paskirties žemės įsigijimu. Atlikusi patikrinimą ir nustačiusi pažeidimą, per 20 darbo dienų nuo pažeidimo nustatymo dienos Nacionalinė žemės tarnyba asmeniui pasiūlo per 3 mėnesius nuo pasiūlymo gavimo parduoti valstybei už žemės ūkio paskirties žemės įsigijimo kainą arba vidutinę rinkos vertę, kurios dydis nustatomas pagal žemės verčių zonų žemėlapius, jeigu vidutinė rinkos vertė yra mažesnė už žemės ūkio paskirties žemės įsigijimo kainą, įgijėjo pasirinkimu jo nuosavybės teise valdomą žemės ūkio paskirties žemės plotą (ploto dalį, proporcingą įsigytų akcijų (teisių, pajų) daliai juridiniame asmenyje, kai įsigytas turtas pagal šio įstatymo 1 straipsnio 3 dalį), viršijantį nustatytąjį šio straipsnio 1 ir 2 dalyse. Jeigu nustatytas viršijantis žemės ūkio paskirties žemės plotas sudaro tik žemės sklypo dalį ir pagal teisės aktų nuostatas, reglamentuojančias žemės sklypų formavimą, padalijus žemės sklypą, negalima suformuoti racionalių ribų ir dydžio žemės ūkio paskirties žemės sklypų, pasiūlymas parduoti teikiamas dėl viso žemės ūkio paskirties žemės sklypo, o asmeniui nesutikus, teikiamas pasiūlymas dėl žemės sklypo dalies, viršijančios gyvulininkystei plėtoti pagal šį įstatymą įsigyto 500 ha žemės ploto ribą, perleidimo. Perleidus žemės sklypo dalį, žemės sklypas valdomas bendrosios nuosavybės teise. Jeigu asmuo nesutinka su pasiūlymu, Nacionalinė žemės tarnyba, gindama viešąjį interesą, pareiškia ieškinį teismui dėl žemės ūkio paskirties žemės, įsigytos pažeidžiant šio straipsnio 1 ir 2 dalių nuostatas, perdavimo valstybės nuosavybėn. Kai asmuo nesutinka rengti žemės valdos projekto, kuriuo atidalijama žemės sklypo dalis, žemės  valdos projektą rengia Nacionalinė žemės tarnyba ir šių darbų verte Vyriausybės nustatyta tvarka mažinama parduodamo žemė sklypo kaina.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2935, 2020-05-14, paskelbta TAR 2020-05-22, i. k. 2020-10938
+ 
 
 
 
@@ -402,7 +411,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS
  
  
 
@@ -470,3 +479,8 @@ Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. I
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2465, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17211
 Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 4 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2935, 2020-05-14, paskelbta TAR 2020-05-22, i. k. 2020-10938
+Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 3 straipsnio pakeitimo įstatymas
