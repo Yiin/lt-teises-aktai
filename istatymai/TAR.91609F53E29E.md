@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2020-06-15 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-11-13
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -70,7 +70,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Globos centras – socialinių paslaugų įstaiga, kuri, įgyvendindama vaiko globėjo (rūpintojo) teises ir pareigas, pagal tarpusavio bendradarbiavimo ir paslaugų teikimo sutartį perduoda likusį be tėvų globos vaiką, socialinę riziką patiriantį vaiką prižiūrėti budinčiam globotojui, teikia ir organizuoja socialines paslaugas bei kitą pagalbą pagal poreikį vaikui ir budinčiam globotojui, taip pat kitokią pagalbą vaiko tėvams, siekiant grąžinti vaiką į šeimą. 
+3. Globos centras – socialinių paslaugų įstaiga, kuri, įgyvendindama vaiko globėjo (rūpintojo) teises ir pareigas, pagal tarpusavio bendradarbiavimo ir paslaugų teikimo sutartį perduoda likusį be tėvų globos vaiką, socialinę riziką patiriantį vaiką prižiūrėti budinčiam globotojui, teikia ir organizuoja socialines paslaugas bei kitą pagalbą pagal poreikį vaikui, budinčiam globotojui, globėjui (rūpintojui), įtėviams, šeimynų dalyviams, socialinių paslaugų įstaigų, dirbančių su vaikais, darbuotojams, taip pat kitokią pagalbą vaiko tėvams vaiką grąžinant į šeimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
 
 
 
@@ -305,7 +308,10 @@ SOCIALINIŲ PASLAUGŲ RŪŠYS
 
 
 
-4. Socialinei priežiūrai priskiriamos pagalbos į namus, socialinių įgūdžių ugdymo ir palaikymo, laikino apnakvindinimo bei kitos paslaugos. 
+4. Socialinei priežiūrai priskiriamos pagalbos į namus, socialinių įgūdžių ugdymo ir palaikymo, vaikų dienos socialinės priežiūros, laikino apnakvindinimo bei kitos paslaugos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
 
 
 
@@ -503,9 +509,17 @@ Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
 
 
 
-8) rengia ir įgyvendina savivaldybės socialinių paslaugų priemones, numatytas savivaldybės strateginiame plėtros plane ir (arba) strateginiame veiklos plane. 
+8) rengia ir įgyvendina savivaldybės socialinių paslaugų priemones, numatytas savivaldybės strateginiame plėtros plane ir (arba) strateginiame veiklos plane; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+ 
+
+
+
+
+9) finansuoja socialinę priežiūrą ir socialinę globą, sudarydama sutartį su akredituotą socialinę priežiūrą teikiančia socialinių paslaugų įstaiga ar socialinės globos įstaiga dėl asmeniui (šeimai) teikiamų socialinių paslaugų išlaidų finansavimo, jeigu šias įstaigas pasirenka pats socialinių paslaugų gavėjas (globėjas, rūpintojas), kiti teisėti asmens atstovai ir jeigu šioms paslaugoms nustatytas asmens (šeimos) socialinių paslaugų poreikis. 
+Papildyta straipsnio punktu:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
  
 
 
@@ -521,15 +535,19 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-6. Savivaldybė kontroliuoja jos teritorijoje teikiamų bendrųjų socialinių paslaugų ir socialinės priežiūros kokybę. 
+6. Savivaldybė kontroliuoja jos teritorijoje teikiamų bendrųjų socialinių paslaugų ir socialinės priežiūros kokybę, akredituoja socialinių paslaugų įstaigų teikiamą socialinę priežiūrą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
 
 
 
 
-7. Savivaldybė informuoja Socialinės apsaugos ir darbo ministeriją ir gyventojus apie jos teritorijoje teikiamas socialines paslaugas. Duomenis apie gyventojams skirtas, teikiamas ar neskirtas (nurodydamos jų neskyrimo priežastis) socialines paslaugas savivaldybės teikia Socialinės paramos šeimai informacinėje sistemoje (SPIS). 
+7. Savivaldybė informuoja Socialinės apsaugos ir darbo ministeriją ir gyventojus apie jos teritorijoje teikiamas socialines paslaugas. Duomenis apie gyventojams skirtas, teikiamas ar neskirtas (nurodydamos jų neskyrimo priežastis) socialines paslaugas, akredituotą socialinę priežiūrą teikiančias socialinių paslaugų įstaigas savivaldybės teikia Socialinės paramos šeimai informacinėje sistemoje (SPIS). 
 Straipsnio dalies pakeitimai:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
  
 
 
@@ -623,7 +641,10 @@ SOCIALINIŲ PASLAUGŲ SKYRIMAS
 15 straipsnis. Kreipimasis dėl socialinių paslaugų skyrimo asmeniui (šeimai)
 
 
-1. Dėl socialinių paslaugų, kurių teikimą finansuoja savivaldybė iš savo biudžeto lėšų ar iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, skyrimo asmuo (vienas iš suaugusių šeimos narių) ar jo globėjas, rūpintojas raštišku prašymu kreipiasi į asmens (šeimos) gyvenamosios vietos savivaldybę. 
+1. Dėl socialinių paslaugų, kurių teikimą finansuoja savivaldybė iš savo biudžeto lėšų ar iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, išskyrus globos centrų teikiamas socialines paslaugas, skyrimo asmuo (vienas iš suaugusių šeimos narių) ar jo globėjas, rūpintojas rašytiniu prašymu kreipiasi į asmens (šeimos) gyvenamosios vietos savivaldybę. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
 
 
 
@@ -649,7 +670,10 @@ SOCIALINIŲ PASLAUGŲ SKYRIMAS
 16 straipsnis. Asmens (šeimos) socialinių paslaugų poreikio nustatymas
 
 
-1. Asmens socialinių paslaugų poreikis nustatomas individualiai pagal asmens nesavarankiškumą bei galimybes savarankiškumą ugdyti ar kompensuoti asmens interesus ir poreikius atitinkančiomis socialinėmis paslaugomis. 
+1. Asmens socialinių paslaugų poreikis, išskyrus globos centrų teikiamas socialines paslaugas, nustatomas individualiai pagal asmens nesavarankiškumą bei galimybes savarankiškumą ugdyti ar kompensuoti asmens interesus ir poreikius atitinkančiomis socialinėmis paslaugomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
 
 
 
@@ -684,12 +708,18 @@ SOCIALINIŲ PASLAUGŲ SKYRIMAS
 
 
 
-6. Asmens (šeimos), pageidaujančio gauti socialines paslaugas, kurias finansuoja savivaldybė iš savo biudžeto lėšų ar iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, socialinių paslaugų poreikį nustato socialiniai darbuotojai, paskirti savivaldybės institucijos nustatyta tvarka. 
+6. Asmens (šeimos), pageidaujančio (pageidaujančios) gauti socialines paslaugas, kurias finansuoja savivaldybė iš savo biudžeto lėšų ar iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, socialinių paslaugų, išskyrus globos centrų teikiamas socialines paslaugas, poreikį nustato socialiniai darbuotojai, paskirti savivaldybės institucijos nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
 
 
 
 
-7. Asmens (šeimos) socialinių paslaugų poreikį socialinių paslaugų teikimo laikotarpiu periodiškai peržiūri socialinių paslaugų įstaigų socialiniai darbuotojai. 
+7. Asmens (šeimos) socialinių paslaugų, išskyrus globos centrų teikiamas socialines paslaugas, poreikį socialinių paslaugų teikimo laikotarpiu periodiškai peržiūri socialinių paslaugų įstaigų socialiniai darbuotojai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
 
 
 
@@ -699,9 +729,10 @@ SOCIALINIŲ PASLAUGŲ SKYRIMAS
 
 
 
-9. Asmens (šeimos) socialinių paslaugų poreikio nustatymą, socialinių paslaugų skyrimą, sustabdymą ir nutraukimą reglamentuoja Vyriausybės ar jos įgaliotos institucijos patvirtinti asmens (šeimos) socialinių paslaugų poreikio nustatymo ir skyrimo tvarkos aprašas bei socialinės globos poreikio vaikui, suaugusiam asmeniui su negalia, senyvo amžiaus asmeniui, socialinę riziką patiriančiam suaugusiam asmeniui nustatymo metodikos. 
+9. Asmens (šeimos) socialinių paslaugų, išskyrus globos centrų teikiamas socialines paslaugas, poreikio nustatymą, socialinių paslaugų skyrimą, sustabdymą ir nutraukimą reglamentuoja Vyriausybės ar jos įgaliotos institucijos patvirtinti asmens (šeimos) socialinių paslaugų poreikio nustatymo ir skyrimo tvarkos aprašas bei socialinės globos poreikio vaikui, suaugusiam asmeniui su negalia, senyvo amžiaus asmeniui, socialinę riziką patiriančiam suaugusiam asmeniui nustatymo metodikos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
  
 
 
@@ -709,13 +740,15 @@ Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
 
 
 
-17 straipsnis. Sprendimas dėl socialinių paslaugų skyrimo asmeniui (šeimai) 
+17 straipsnis. Sprendimas dėl socialinių paslaugų skyrimo asmeniui (šeimai)
 
 
-Sprendimas dėl socialinių paslaugų, kurių teikimą finansuoja savivaldybė iš savo biudžeto lėšų ar iš valstybės biudžeto specialių tikslinių dotacijų savivaldybių biudžetams, asmeniui (šeimai) skyrimo, sustabdymo ir nutraukimo priimamas socialinio darbuotojo, nustačiusio asmens (šeimos) socialinių paslaugų poreikį, teikimu savivaldybės institucijos nustatyta tvarka. 
+Sprendimas dėl socialinių paslaugų, kurių teikimą finansuoja savivaldybė iš savo biudžeto lėšų ar iš valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams, išskyrus globos centrų teikiamas socialines paslaugas, asmeniui (šeimai) skyrimo, sustabdymo ir nutraukimo priimamas socialinio darbuotojo, nustačiusio asmens (šeimos) socialinių paslaugų poreikį, teikimu savivaldybės administracijos nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
  
-
-
 
 
 
@@ -891,10 +924,16 @@ Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
 
 
 
-191 straipsnis. Budinčio globotojo vykdoma likusių be tėvų globos vaikų, socialinės rizikos vaikų priežiūra
+191 straipsnis. Budinčio globotojo vykdoma likusių be tėvų globos vaikų, socialinę riziką patiriančių vaikų priežiūra 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
 
 
-1. Budintis globotojas prižiūri likusį be tėvų globos vaiką, socialinės rizikos vaiką (toliau šiame straipsnyje – prižiūrimas vaikas, vaikas) pagal tarpusavio bendradarbiavimo ir paslaugų teikimo sutartį (toliau šiame straipsnyje – sutartis). Šioje sutartyje turi būti sulygta bent dėl šių sąlygų: sutarties šalys; sutarties objektas ir tikslas; vaiko globos (rūpybos) vieta (ji negali sutapti su globos centro registruotos buveinės ar socialinės globos įstaigos licencijoje nurodyta vieta); prižiūrimų vaikų skaičius; lėšų vaikui išlaikyti (vaiko globos (rūpybos) išmokos pagal Išmokų vaikams įstatymą) bei atlygio už vaikų priežiūrą, dydis ir mokėjimų tvarka; prižiūrimo vaiko trumpalaikės socialinės globos (laikino atokvėpio) budinčiam globotojui suteikimo tvarka; sutarties šalių atsakomybė dėl netinkamo sutarties sąlygų vykdymo; kitos budinčio globotojo ir globos centro teisės ir tarpusavio įsipareigojimai; pagalbos teikimo budinčiam globotojui ir vaikui tvarka; sutarties nutraukimo sąlygos ir tvarka.
+1. Budintis globotojas prižiūri likusį be tėvų globos vaiką, socialinę riziką patiriantį vaiką (toliau šiame straipsnyje – prižiūrimas vaikas, vaikas) pagal tarpusavio bendradarbiavimo ir paslaugų teikimo sutartį (toliau šiame straipsnyje – sutartis). Šioje sutartyje turi būti sulygta bent dėl šių sąlygų: sutarties šalys; sutarties objektas ir tikslas; vaiko globos (rūpybos) vieta (ji negali sutapti su globos centro registruotos buveinės ar socialinės globos įstaigos licencijoje nurodyta vieta); prižiūrimų vaikų skaičius; lėšų vaikui išlaikyti (vaiko globos (rūpybos) išmokos pagal Išmokų vaikams įstatymą) bei atlygio už vaiko priežiūrą dydis ir mokėjimo tvarka; prižiūrimo vaiko trumpalaikės socialinės globos (laikino atokvėpio) suteikimo budinčiam globotojui tvarka; sutarties šalių atsakomybė dėl netinkamo sutarties sąlygų vykdymo; kitos budinčio globotojo ir globos centro teisės ir tarpusavio įsipareigojimai; pagalbos teikimo budinčiam globotojui ir vaikui tvarka; sutarties nutraukimo sąlygos ir tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
 
 
 
@@ -1064,6 +1103,54 @@ Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
 
 
 
+192 straipsnis. Globos centro funkcijos, susijusios su vaikų globa (rūpyba)
+
+
+Globos centras atlieka šias funkcijas, susijusias su vaikų globa (rūpyba):
+
+
+1) vykdo globėjų (rūpintojų) ir įtėvių paiešką;
+
+
+
+
+2) vykdo globėjų (rūpintojų), įtėvių, šeimynų dalyvių pasirengimo globoti (rūpinti), įvaikinti vaikus vertinimą bei socialinių paslaugų įstaigų, teikiančių paslaugas vaikams, darbuotojų parengimą dirbti šiose įstaigose; 
+
+
+
+
+3) socialinės apsaugos ir darbo ministro nustatyta tvarka parenka vaikui globėją (rūpintoją) ir teikia jo kandidatūrą savivaldybės administracijai, jeigu vaikui nustatyta laikinoji globa. Teikia galimo nuolatinio globėjo (rūpintojo) kandidatūrą Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos teritoriniam skyriui;
+
+
+
+
+4) teikia Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai prie Socialinės apsaugos ir darbo ministerijos aktualią informaciją apie asmenis, pasirengusius globoti (rūpinti) vaikus; 
+
+
+
+
+5) organizuoja ir pagal globos centro nustatytą poreikį teikia pagalbą globojamiems (rūpinamiems) vaikams;
+
+
+
+
+6) organizuoja ir teikia pagalbą globėjams (rūpintojams), įtėviams, šeimynų dalyviams ir kartu gyvenantiems jų šeimos nariams, socialinių paslaugų įstaigų, teikiančių paslaugas vaikams, darbuotojams; 
+
+
+
+
+7) teikia kitas teisės aktuose numatytas paslaugas, susijusias su vaikų globa (rūpyba). 
+
+
+
+
+Papildyta straipsniu:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
+
+
+
+
 20 straipsnis. Socialinis darbas
 
 
@@ -1080,7 +1167,10 @@ Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
 3. Dirbti socialiniu darbuotoju turi teisę:
 
 
-1) asmuo, įgijęs socialinio darbo kvalifikacinį (profesinio bakalauro, bakalauro, magistro) laipsnį, arba
+1) asmuo, įgijęs socialinio darbo kvalifikacinį (profesinio bakalauro, bakalauro, magistro) laipsnį arba baigęs socialinio darbo studijų krypties programą ir įgijęs socialinių mokslų kvalifikacinį (profesinio bakalauro, bakalauro, magistro) laipsnį, arba 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
 
 
 
@@ -1140,7 +1230,9 @@ Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 
 
 ŠEŠTASIS SKIRSNIS
-SOCIALINĖS GLOBOS ĮSTAIGŲ LICENCIJAVIMAS
+SOCIALINĖS GLOBOS ĮSTAIGŲ LICENCIJAVIMAS IR SOCIALINĖS PRIEŽIŪROS AKREDITAVIMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
  
 
 
@@ -1429,6 +1521,102 @@ Socialinės globos įstaigų licencijavimo taisykles tvirtina Vyriausybė ar jos
 
 
 
+251 straipsnis. Socialinės priežiūros akreditavimas
+
+
+1. Socialinę priežiūrą akredituoja savivaldybės socialinės apsaugos ir darbo ministro nustatyta tvarka.
+
+
+
+
+2. Valstybės ir savivaldybių biudžetų lėšomis gali būti finansuojama tik akredituota socialinė priežiūra.
+
+
+
+
+3. Savivaldybės informaciją apie jų teritorijoje veikiančias socialinių paslaugų įstaigas, teikiančias akredituotą socialinę priežiūrą, skelbia savo interneto svetainėse. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
+
+
+
+
+252 straipsnis. Teisės teikti akredituotą socialinę priežiūrą suteikimas, pratęsimas, sustabdymas ar panaikinimas 
+
+
+1. Teisė teikti akredituotą socialinę priežiūrą gali būti suteikiama Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje arba kitoje Europos ekonominės erdvės valstybėje įsisteigusiam juridiniam asmeniui ar kitai organizacijai, jų padaliniui, pageidaujančiam teikti akredituotą socialinę priežiūrą (toliau – įstaiga, pageidaujanti teikti akredituotą socialinę priežiūrą).
+
+
+
+
+2. Įstaiga, pageidaujanti teikti akredituotą socialinę priežiūrą, nustatytos formos prašymą teikti akredituotą socialinę priežiūrą pateikia savivaldybei, kurios teritorijoje ją teiks. Kartu su prašymu pateikiami socialinės apsaugos ir darbo ministro nustatytų akredituotai socialinei priežiūrai teikti keliamų reikalavimų patalpoms (jeigu paslaugai teikti būtinos patalpos) ir personalo išsilavinimui atitiktį pagrindžiantys dokumentai.
+
+
+
+
+3. Savivaldybė ne ilgiau kaip per 30 kalendorinių dienų nuo prašymo gavimo dienos įvertina, ar socialinė priežiūra atitinka nustatytus reikalavimus, ir priima sprendimą dėl teisės teikti akredituotą socialinę priežiūrą suteikimo. 
+
+
+
+
+4. Sprendimas dėl įstaigos, pageidaujančios teikti akredituotą socialinę priežiūrą, teisės teikti akredituotą socialinę priežiūrą galioja 3 metus nuo sprendimo priėmimo dienos, jeigu per tą laiką socialinių paslaugų įstaigos teisė teikti akredituotą socialinę priežiūrą nebuvo sustabdyta ar panaikinta.
+
+
+
+
+5. Socialinių paslaugų įstaigos teisė teikti akredituotą socialinę priežiūrą gali būti sustabdoma ne ilgiau kaip 6 mėnesiams šiais atvejais:
+
+
+1) gavus socialinių paslaugų įstaigos prašymą;
+
+
+
+
+2) savivaldybei nustačius akredituotos socialinės priežiūros teikimo pažeidimų ar neatitikimų nustatytiems reikalavimams.
+
+
+
+
+
+
+6. Socialinių paslaugų įstaigos teisė teikti akredituotą socialinę priežiūrą panaikinama šiais atvejais:
+
+
+1) gavus socialinių paslaugų įstaigos prašymą;
+
+
+
+
+2) pasibaigus socialinių paslaugų įstaigos, kaip juridinio asmens, veiklai;
+
+
+
+
+3) pasibaigus teisės teikti akredituotą socialinę priežiūrą galiojimo terminui;
+
+
+
+
+4) socialinių paslaugų įstaigai per savivaldybės nustatytą terminą nepašalinus akredituotos socialinės priežiūros teikimo pažeidimų ar neatitikimų.
+
+
+
+
+
+
+7. Sprendimą dėl teisės teikti akredituotą socialinę priežiūrą suteikimo, pratęsimo, sustabdymo ar panaikinimo priima savivaldybės administracijos direktorius ar jo įgaliotas asmuo. Apie priimtą sprendimą įstaiga, pageidaujanti teikti akredituotą socialinę priežiūrą, ar socialinių paslaugų įstaiga informuojama raštu. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
+
+
+
+
 
 
 SEPTINTASIS SKIRSNIS 
@@ -1620,7 +1808,10 @@ Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
 1. Nustatant asmens finansines galimybes mokėti už socialines paslaugas, įskaitomos šios asmens gaunamos pajamos:
 
 
-1) su darbo ar tarnybos santykiais susijusios pajamos, įskaitant išeitines išmokas ir kompensacijas;
+1) su darbo ar tarnybos santykiais susijusios pajamos, įskaitant išeitines išmokas ir kompensacijas, išskyrus asmenų su negalia gaunamas su darbo santykiais susijusias pajamas, kai jos neviršija Vyriausybės nustatytos minimaliosios mėnesinės algos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
 
 
 
@@ -1726,9 +1917,10 @@ Nr. XIII-652, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16002
 
 
 
-19) išmoka vaikui, išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai, išmoka gimus vienu metu daugiau kaip vienam vaikui, išmoka privalomosios pradinės karo tarnybos kario vaikui, mokamos pagal Išmokų vaikams įstatymą;
+19) išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai, išmoka gimus vienu metu daugiau kaip vienam vaikui, išmoka privalomosios pradinės karo tarnybos kario vaikui, išmoka įvaikinus vaiką, mokamos pagal Išmokų vaikams įstatymą; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2520, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20654
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
  
 
 
@@ -1922,7 +2114,10 @@ SOCIALINIŲ PASLAUGŲ FINANSAVIMAS
 34 straipsnis. Socialinių paslaugų, kurias planuoja ir savivaldybės teritorijos gyventojams organizuoja savivaldybė, finansavimo šaltiniai
 
 
-1. Bendrosios socialinės paslaugos ir socialinė priežiūra senyvo amžiaus asmenims, suaugusiems asmenims su negalia, vaikams su negalia, socialinę riziką patiriantiems vaikams, socialinę riziką patiriantiems suaugusiems asmenims ir jų šeimoms finansuojamos iš savivaldybės biudžeto lėšų.
+1. Bendrosios socialinės paslaugos ir socialinė priežiūra senyvo amžiaus asmenims, suaugusiems asmenims su negalia, vaikams, socialinę riziką patiriantiems suaugusiems asmenims ir jų šeimoms finansuojamos iš savivaldybės biudžeto lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
 
 
 
@@ -2039,7 +2234,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-2) asmens (šeimos) socialinių paslaugų poreikio nustatymo ir skyrimo tvarkos aprašą bei socialinės globos poreikio likusiam be tėvų globos vaikui, vaikui su negalia, socialinės rizikos vaikui, suaugusiam asmeniui su negalia, senyvo amžiaus asmeniui, socialinės rizikos suaugusiam asmeniui nustatymo metodikas; 
+2) asmens (šeimos) socialinių paslaugų poreikio nustatymo ir skyrimo tvarkos aprašą bei socialinės globos poreikio vaikui su negalia, suaugusiam asmeniui su negalia, senyvo amžiaus asmeniui nustatymo metodikas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+ 
 
 
 
@@ -2306,3 +2504,8 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 13 straipsnio pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2970, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11353
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 23 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 8, 13, 15, 16, 17, 19-1, 20, 30, 34, 36 straipsnių, šeštojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 19-2, 25-1, 25-2 straipsniais įstatymas
