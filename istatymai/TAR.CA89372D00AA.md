@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CA89372D00AA"
 
 # Lietuvos Respublikos policijos įstatymas
 
-Suvestinė redakcija nuo 2019-11-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 90-2777; Žin. 2000, Nr.101-0, i. k. 1001010ISTAIII-2048
  
@@ -370,7 +370,10 @@ Nr. XIII-1866, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21877
 
 
 
-20) saugo Lietuvos Respublikos diplomatines atstovybes ir konsulines įstaigas ir Lietuvos Respublikoje esančias užsienio šalių diplomatines atstovybes ir konsulines įstaigas;
+20) saugo Lietuvos Respublikoje esančias užsienio šalių diplomatines atstovybes ir konsulines įstaigas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2923, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10931
+ 
 
 
 
@@ -1535,7 +1538,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                         VALDAS ADAMKUS 
+RESPUBLIKOS PREZIDENTAS                                                          VALDAS ADAMKUS 
  
  
 
@@ -1659,3 +1662,8 @@ Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 6, 23 ir 27 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1917, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00850
 Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 2 ir 23 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2923, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10931
+Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 6 straipsnio pakeitimo įstatymas
