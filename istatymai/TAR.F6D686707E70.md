@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2020-06-12 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-29
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -2296,7 +2296,10 @@ Nr. XIII-1847, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21878
 
 
 
-4. Draudžiama atleisti iš darbo darbdavio iniciatyva nesant darbuotojo kaltės ar darbdavio valia darbuotoją, pašauktą atlikti privalomąją karo tarnybą arba alternatyviąją krašto apsaugos tarnybą.
+4. Draudžiama atleisti iš darbo darbdavio iniciatyva nesant darbuotojo kaltės ar darbdavio valia darbuotoją, pašauktą atlikti privalomąją karo tarnybą, savanorišką nenuolatinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2680, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21321
+ 
 
 
 
@@ -9600,3 +9603,8 @@ Lietuvos Respublikos darbo kodekso 47 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3008, 2020-06-04, paskelbta TAR 2020-06-11, i. k. 2020-12831
 Lietuvos Respublikos darbo kodekso 47 ir 49 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2680, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21321
+Lietuvos Respublikos darbo kodekso 61 straipsnio pakeitimo įstatymas
