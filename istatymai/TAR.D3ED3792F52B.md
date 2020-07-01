@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-03-18 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-07
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -339,7 +339,15 @@ Nr. XIII-2660, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20995
 
 
 
-10) statutiniams valstybės tarnautojams.
+10) statutiniams valstybės tarnautojams;
+
+
+
+
+11) Lietuvos Respublikos vadovybės apsaugos tarnybos pareigūnams.
+Papildyta straipsnio punktu:
+Nr. XIII-2927, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10936
+ 
 
 
 
@@ -2400,7 +2408,10 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 
 
-4) kai valstybės tarnautojas atlieka privalomąją karo tarnybą arba alternatyviąją krašto apsaugos tarnybą, jam garantuojamos tik einamos pareigos;
+4) kai valstybės tarnautojas atlieka privalomąją karo tarnybą, savanorišką nenuolatinę karo tarnybą arba alternatyviąją krašto apsaugos tarnybą, jam garantuojamos tik einamos pareigos;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2679, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21320
+ 
 
 
 
@@ -2442,9 +2453,10 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 
 
-5. Eitos pareigos garantuojamos valstybės tarnautojui, kai jis dėl privalomosios karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, dėl dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje (taip pat dėl atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose) negali eiti pareigų, taip pat karjeros valstybės tarnautojui, kai jis dėl atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, dėl laikino perkėlimo į kitas pareigas pagal šio įstatymo 21 straipsnį negali eiti pareigų. Ši garantija kadencijai priimtam karjeros valstybės tarnautojui taikoma ne ilgiau negu iki kadencijos pabaigos.
+5. Eitos pareigos garantuojamos valstybės tarnautojui, kai jis dėl privalomosios karo tarnybos, savanoriškos nenuolatinės karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, dėl dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje (taip pat dėl atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose) negali eiti pareigų, taip pat karjeros valstybės tarnautojui, kai jis dėl atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, dėl laikino perkėlimo į kitas pareigas pagal šio įstatymo 21 straipsnį negali eiti pareigų. Ši garantija kadencijai priimtam karjeros valstybės tarnautojui taikoma ne ilgiau negu iki kadencijos pabaigos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1817, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21837
+Nr. XIII-2679, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21320
  
 
 
@@ -3955,3 +3967,13 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1 priedo pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2809, 2020-03-12, paskelbta TAR 2020-03-17, i. k. 2020-05602
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1 priedo pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2679, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21320
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 49 straipsnio pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2927, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10936
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5 straipsnio pakeitimo įstatymas
