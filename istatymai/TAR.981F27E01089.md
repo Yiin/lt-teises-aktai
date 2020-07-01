@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.981F27E01089"
 
 # Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-10-29
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 81-3322, i. k. 1071010ISTA00X-1262
  
@@ -866,7 +866,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
  
 
 
@@ -875,6 +875,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos 
 asmenų delegavimo į tarptautines 
 ir Europos Sąjungos institucijas ar 
@@ -1066,6 +1067,41 @@ SU DARBU UŽSIENYJE SUSIJUSIŲ IŠLAIDŲ KOMPENSACIJA
  4,27 
 
 
+ 2.5. Lietuvos Respublikos vadovybės apsaugos tarnybos pareigūnai: 
+
+
+ 2.5.1. kurių pareiginės algos koeficientas 17,61 ir didesnis 
+ 10,87 
+
+
+ 2.5.2. kurių pareiginės algos koeficientas 15,30–16,72 
+ 9,70 
+
+
+ 2.5.3. kurių pareiginės algos koeficientas 14,13–15,20 
+ 8,93 
+
+
+ 2.5.4. kurių pareiginės algos koeficientas 13,04–14,01 
+ 8,15 
+
+
+ 2.5.5. kurių pareiginės algos koeficientas 11,76–12,47 
+ 6,99 
+
+
+ 2.5.6. kurių pareiginės algos koeficientas 10,10–11,21 
+ 5,82 
+
+
+ 2.5.7. kurių pareiginės algos koeficientas 8,56–9,80 
+ 5,05 
+
+
+ 2.5.8. kurių pareiginės algos koeficientas 6,70–8,50 
+ 4,27 
+
+
  3. Kiti asmenys  
  3,88 
 
@@ -1075,6 +1111,9 @@ SU DARBU UŽSIENYJE SUSIJUSIŲ IŠLAIDŲ KOMPENSACIJA
 
 
 
+ 
+Priedo pakeitimai:
+Nr. XIII-2906, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10903
  
  
  
@@ -1114,3 +1153,8 @@ Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos ins
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1802, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00215
 Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2906, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10903
+Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 priedo pakeitimo įstatymas
