@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.438A78A26F38"
 
 # Lietuvos Respublikos Prezidento įstatymas
 
-Suvestinė redakcija nuo 2019-09-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2023-06-09
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 5-89, i. k. 0931010ISTA0000I-56
  
@@ -687,7 +687,10 @@ RESPUBLIKOS PREZIDENTO MATERIALINĖS IR SOCIALINĖS GARANTIJOS NUTRŪKUS RESPUBL
 
 
 
-3) užtikrinama apsauga. Ją teisės aktų nustatyta tvarka vykdo Vadovybės apsaugos departamentas prie Vidaus reikalų ministerijos.
+3) užtikrinama apsauga. Ją teisės aktų nustatyta tvarka vykdo Lietuvos Respublikos vadovybės apsaugos tarnyba.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2917, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10918
+ 
 
 
 
@@ -751,7 +754,7 @@ Lėšos, skirtos Respublikos Prezidentui, Respublikos Prezidento rezidencijai ir
  
  
 LAIKINAI EINANTIS 
-RESPUBLIKOS PREZIDENTO PAREIGAS                                    ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTO PAREIGAS                                       ALGIRDAS BRAZAUSKAS
  
 Vilnius, 1993 m. sausio 26 d. 
 Nr. I-56
@@ -823,3 +826,8 @@ Lietuvos Respublikos Prezidento įstatymo Nr. I-56 13 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2301, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12108
 Lietuvos Respublikos Prezidento įstatymo Nr. I-56 14, 17, 19 ir 23 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2917, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10918
+Lietuvos Respublikos Prezidento įstatymo Nr. I-56 23 straipsnio pakeitimo įstatymas
