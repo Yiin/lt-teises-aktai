@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.793560F67ADF"
 
 # Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2023-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 67-0; Žin. 1991, Nr.11-274, i. k. 0911010ISTA00I-1163
  
@@ -89,9 +89,10 @@ Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA
 
 
 
-2) vanduo ir statybinis gruntas, nurodyti šio įstatymo 2 priede; 
+2) vanduo ir gruntas, nurodyti šio įstatymo 2 priede;
 Straipsnio punkto pakeitimai:
 Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA00XI-400
+Nr. XIII-2484, 2019-10-15, paskelbta TAR 2019-10-31, i. k. 2019-17360
  
 
 
@@ -298,7 +299,7 @@ Nr. X-1658, 2008-07-01, Žin., 2008, Nr. 81-3170 (2008-07-17), i. k. 1081010ISTA
  
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS 
-PIRMININKAS                                                                                               V. LANDSBERGIS
+PIRMININKAS                                                                                                 V. LANDSBERGIS
  
 Vilnius, 1991 m. kovo 21 d. 
 Nr. I-1163 
@@ -309,6 +310,8 @@ Nr. I-1163
 
 
 
+
+ 
 
  
 Lietuvos Respublikos 
@@ -416,9 +419,10 @@ Nr. XII-1196, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14127
 Nr. XII-2148, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19625
 Nr. XIII-1711, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20969
  
+part_8e0b589b173b42d191e94dfd1906f8c3_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -426,7 +430,7 @@ mokesčio už valstybinius
 gamtos išteklius įstatymo
 2 priedas 
  
-MOKESČIO UŽ VANDENĮ IR STATYBINĮ GRUNTĄ TARIFAI
+MOKESČIO UŽ VANDENĮ IR GRUNTĄ TARIFAI
  
 
 
@@ -438,9 +442,9 @@ MOKESČIO UŽ VANDENĮ IR STATYBINĮ GRUNTĄ TARIFAI
 
 
  1. 
- Požeminis vanduo, išskyrus mineralinį vandenį: a)   vandens tiekėjo tiekiamas namų ūkio reikmėms ir patalpų šildymui b)   juridinių asmenų naudojamas komerciniams tikslams, supilstytas į tarą c)   kitas (a ir b punktuose nenurodytas) požeminis vanduo 
+ Požeminis vanduo, išskyrus mineralinį vandenį: a) vandens tiekėjo tiekiamas namų ūkio reikmėms ir patalpų šildymui b) juridinių asmenų naudojamas komerciniams tikslams, supilstytas į tarą c) kitas (a ir b punktuose nenurodytas) požeminis vanduo d) fizinių ir juridinių asmenų naudojamas žemės ūkio veiklai, išskyrus požeminį vandenį, naudojamą žemės ūkio produktams perdirbti ir iš jų pagamintiems maisto ar ne maisto produktams realizuoti 
  m3 
-   0,03   4,29   0,10 
+   0,03   4,29   0,10   0,03 
 
 
  2. 
@@ -492,7 +496,7 @@ MOKESČIO UŽ VANDENĮ IR STATYBINĮ GRUNTĄ TARIFAI
 
 
  10. 
- Statybinis gruntas 
+ Gruntas 
  m3 
  0,26 
 
@@ -504,10 +508,12 @@ Nr. XI-400, 2009-07-23, Žin., 2009, Nr. 93-3989 (2009-08-04), i. k. 1091010ISTA
 Nr. XI-1818, 2011-12-20, Žin., 2011, Nr. 161-7617 (2011-12-29), i. k. 1111010ISTA0XI-1818
 Nr. XII-1196, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14127
 Nr. XII-2148, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19625
+Nr. XIII-2484, 2019-10-15, paskelbta TAR 2019-10-31, i. k. 2019-17360
  
+part_8f0348bbbd0544899a7a19fe3e39062a_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -571,11 +577,12 @@ Priedo pakeitimai:
 Nr. XII-1196, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14127
 Nr. XIII-1711, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20969
  
-
-
-
+part_5811aa8607304808978a8791d18cab03_end
 
  
+
+ 
+
  
 Lietuvos Respublikos mokesčio už 
 valstybinius gamtos išteklius įstatymo 
@@ -657,3 +664,11 @@ Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1711, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20969
 Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. I-1163 11 straipsnio ir 1, 3 priedų pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2484, 2019-10-15, paskelbta TAR 2019-10-31, i. k. 2019-17360
+Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymo Nr. I-1163 4 straipsnio ir 2 priedo pakeitimo įstatymas
+ 
+ 
+part_bb8e8624b232454c8f86fecbf1773829_end
