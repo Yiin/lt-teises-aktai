@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2020-06-12 iki 2020-06-30
+Suvestinė redakcija nuo 2020-07-01 iki 2020-07-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -46,6 +46,14 @@ BENDROSIOS NUOSTATOS
 4. Pagal absoliučios daugumos rinkimų sistemą vienmandatėje rinkimų apygardoje, kurią sudaro visa savivaldybė, renkamas šios savivaldybės tarybos narys – meras.
 
 5. Šis įstatymas suderintas su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
+ 
+
+11 straipsnis. Įstatymo keitimas
+
+Šis įstatymas negali būti keičiamas nuo eilinių savivaldybių tarybų rinkimų datos paskelbimo dienos iki rinkimų galutinių rezultatų paskelbimo arba rinkimų rezultatų pripažinimo negaliojančiais dienos, išskyrus atvejus, kai reikia įgyvendinti Konstitucinio Teismo nutarimą arba Europos Sąjungos teisės aktą.
+
+Papildyta straipsniu:
+Nr. XIII-1587, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18201
  
 
 2 straipsnis. Visuotinė rinkimų teisė
@@ -667,7 +675,7 @@ KANDIDATŲ KĖLIMAS
 
 34 straipsnis. Kandidatų į savivaldybės tarybos narius ir kandidatų į savivaldybės tarybos narius – merus kėlimas
 
-1. Kandidatus į savivaldybės tarybos narius gali kelti partijos, įregistruotos pagal  Lietuvos Respublikos politinių partijų įstatymą (toliau – Politinių partijų įstatymas) ne vėliau kaip likus 185 dienoms iki rinkimų, atitinkančios Politinių partijų įstatymo nustatytus reikalavimus dėl partijos narių skaičiaus ir neturinčios partijos, kuriai inicijuojamas likvidavimas, ar likviduojamos partijos teisinio statuso, ir rinkimų komitetai.
+1. Kandidatus į savivaldybės tarybos narius gali kelti partijos, įregistruotos pagal  Lietuvos Respublikos politinių partijų įstatymą (toliau – Politinių partijų įstatymas) ne vėliau kaip likus 185 dienoms iki rinkimų, atitinkančios Politinių partijų įstatymo nustatytus reikalavimus dėl partijos narių skaičiaus ir neturinčios partijos, kuriai inicijuojamas likvidavimas, ar likviduojamos partijos teisinio statuso, ir rinkimų komitetai.
 
 2. Asmuo į savivaldybės tarybos narius – merus gali išsikelti pats arba gali būti iškeltas partijos ar rinkimų komiteto. Kandidatu į savivaldybės tarybos narius – merus išsikėlusiam asmeniui yra taikomi tokie patys šiame įstatyme nustatyti reikalavimai, kurie yra taikomi ir kandidatui, į savivaldybės tarybos narius – merus keliamam partijos ar rinkimų komiteto. 
 
