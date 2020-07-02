@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e944ee00600111e4bad5c03f56793630"
 
 # Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-01
+Suvestinė redakcija nuo 2020-07-02 iki 2021-06-30
  
 Įstatymas paskelbtas: TAR 2014-10-30, i. k. 2014-15180
+ 
+TAR pastaba. Asmenims ir šeimoms, dėl kurių savivaldybės taryba iki įstatymo Nr. XIII-3147 įsigaliojimo (2020-07-02) priėmė sprendimą parduoti savivaldybei nuosavybės teise priklausantį būstą Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo 25 straipsnio 1 dalyje nustatyta tvarka, taikomos šio įstatymo 1 straipsnyje išdėstytos Paramos būstui įsigyti ar išsinuomoti įstatymo 25 straipsnio 1 dalies nuostatos
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3147, 2020-06-25, paskelbta TAR 2020-07-01, i. k. 2020-14789
+Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 25 straipsnio pakeitimo įstatymas
  
 Nauja redakcija nuo 2019-09-01:
 Nr. XIII-1959, 2019-02-12, paskelbta TAR 2019-02-20, i. k. 2019-02742
@@ -1239,10 +1244,10 @@ SAVIVALDYBĖS BŪSTO IR PAGALBINIO ŪKIO PASKIRTIES PASTATŲ PARDAVIMAS
 25 straipsnis. Savivaldybės būsto ir pagalbinio ūkio paskirties pastatų pardavimo atvejai 
 
 
-1. Savivaldybei nuosavybės teise priklausantis būstas savivaldybės tarybos sprendimu parduodamas už rinkos vertę, apskaičiuotą pagal Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymą, ją mažinant vadovaujantis pardavimo metu Lietuvos statistikos departamento apskaičiuotu gyvenamųjų pastatų statybos sąnaudų elementų kainų pokyčiu, lyginant su 1998 m. liepos 1 d. gyvenamųjų pastatų statybos sąnaudų elementų kainomis, šiais atvejais:
+1. Savivaldybei nuosavybės teise priklausantis būstas parduodamas laikantis nuostatos, kad jo pardavimo kaina nebus didesnė negu kaina, kuri Lietuvos Respublikos butų privatizavimo įstatyme nustatyta tvarka galėjo būti apskaičiuota iki 1998 m. liepos 1 d. ir patikslinta atsižvelgiant į infliaciją, šiais atvejais:
 
 
-1) kai būstą perka nuomininkai, kuriems Lietuvos Respublikos butų privatizavimo įstatyme nustatyta tvarka Lietuvos Respublikos Seimo sudaryta Butų privatizavimo komisija iki 1998 m. liepos 1 d. buvo išdavusi leidimus privatizuoti nuomojamus būstus pagal Butų privatizavimo įstatymą; 
+1) kai būstą perka nuomininkai, kuriems Butų privatizavimo įstatyme nustatyta tvarka Lietuvos Respublikos Seimo sudaryta Butų privatizavimo komisija iki 1998 m. liepos 1 d. buvo išdavusi leidimus privatizuoti nuomojamus būstus pagal Butų privatizavimo įstatymą; 
 
 
 
@@ -1275,6 +1280,9 @@ SAVIVALDYBĖS BŪSTO IR PAGALBINIO ŪKIO PASKIRTIES PASTATŲ PARDAVIMAS
 7) atvejais, kurie yra nustatyti Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme ir (arba) kituose teisės aktuose, susijusiuose su jo įgyvendinimu.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3147, 2020-06-25, paskelbta TAR 2020-07-01, i. k. 2020-14789
+ 
 
 
 
@@ -1499,3 +1507,8 @@ Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 2, 5, 10, 12, 14, 16, 17, 18 ir 29 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3147, 2020-06-25, paskelbta TAR 2020-07-01, i. k. 2020-14789
+Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 25 straipsnio pakeitimo įstatymas
