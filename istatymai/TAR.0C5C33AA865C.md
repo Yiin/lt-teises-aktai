@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2020-06-26 iki 2020-07-03
+Suvestinė redakcija nuo 2020-07-04 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -74,7 +74,10 @@ Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
 
 
 
-3. Energetikos reguliavimo institucijų bendradarbiavimo agentūra – agentūra, įkurta 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 713/2009, įsteigiančiu Energetikos reguliavimo institucijų bendradarbiavimo agentūrą (OL 2009 L 211, p. 1).
+3. Europos Sąjungos energetikos reguliavimo institucijų bendradarbiavimo agentūra – agentūra, kurios veiklą reglamentuoja 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/942, kuriuo įsteigiama Europos Sąjungos energetikos reguliavimo institucijų bendradarbiavimo agentūra (toliau – Agentūra). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+ 
 
 
 
@@ -336,12 +339,18 @@ Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
 
 
 
-44. Jungiamasis gamtinių dujų vamzdynas (toliau – jungiamasis vamzdynas) – valstybių narių sienas kertantis ar tarp valstybių narių nutiestas gamtinių dujų perdavimo vamzdynas, kurio paskirtis – sujungti tų valstybių narių nacionalines gamtinių dujų perdavimo sistemas.
+44. Jungiamasis gamtinių dujų vamzdynas (toliau – jungiamasis vamzdynas) – valstybių narių sienas kertantis ar tarp valstybių narių nutiestas gamtinių dujų perdavimo vamzdynas, kurio paskirtis – sujungti tų valstybių narių nacionalines gamtinių dujų perdavimo sistemas, arba gamtinių dujų perdavimo vamzdynas tarp valstybės narės ir trečiosios šalies iki šios valstybės narės teritorijos arba jos teritorinės jūros. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+ 
 
 
 
 
-45. Jungtinė gamtinių dujų sistema (toliau – jungtinė sistema) – keletas viena su kita sujungtų gamtinių dujų sistemų, neįskaitant vartotojų sistemų.
+45. Jungtinė gamtinių dujų sistema (toliau – jungtinė sistema) – keletas viena su kita sujungtų gamtinių dujų sistemų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+ 
 
 
 
@@ -799,7 +808,10 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 2. Taryba, įgyvendindama jai pavestas funkcijas, turi pareigą:
 
 
-1) vadovaudamasi skaidrumo kriterijais, poreikiu didinti energijos vartojimo efektyvumą, tiekimo saugumą, integruoti rinką, nustatyti ar patvirtinti perdavimo, skirstymo, laikymo ir SGD pakartotinio dujinimo paslaugų kainų ir (ar) pajamų viršutines ribas, jų skaičiavimo metodikas ir nustatyti ar patvirtinti konkrečias sistemos balansavimo, buitinių vartotojų prijungimo prie tinklo ir SGD perkrovos paslaugų kainas;
+1) vadovaudamasi skaidrumo kriterijais, poreikiu didinti energijos vartojimo efektyvumą, tiekimo saugumą, integruoti rinką, nustatyti ar patvirtinti perdavimo, skirstymo, laikymo ir SGD pakartotinio dujinimo paslaugų kainų ir (ar) pajamų viršutines ribas, jų skaičiavimo metodikas ir nustatyti ar patvirtinti konkrečias buitinių vartotojų prijungimo prie tinklo ir SGD perkrovos paslaugų kainas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+ 
 
 
 
@@ -809,7 +821,10 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
 
 
-3) tarpvalstybiniais klausimais bendradarbiauti su atitinkamų valstybių narių reguliavimo institucijomis ir Energetikos reguliavimo institucijų bendradarbiavimo agentūra (toliau – Agentūra);
+3) tarpvalstybiniais klausimais bendradarbiauti su atitinkamų valstybių narių reguliavimo institucijomis ir Agentūra; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+ 
 
 
 
@@ -951,7 +966,10 @@ GAMTINIŲ DUJŲ SEKTORIAUS TAISYKLĖS
 
 
 
-2. Gamtinių dujų sektoriuje nustatydama konkrečias paslaugų kainas, Taryba reguliuoja gamtinių dujų sistemos balansavimo, buitinių vartotojų prijungimo prie gamtinių dujų sistemos, SGD perkrovos paslaugų kainas ir tiekimo saugumo papildomos dedamosios prie gamtinių dujų perdavimo kainos dydį (toliau – papildoma dedamoji).
+2. Gamtinių dujų sektoriuje nustatydama konkrečias paslaugų kainas, Taryba reguliuoja buitinių vartotojų prijungimo prie gamtinių dujų sistemos, SGD perkrovos paslaugų kainas ir tiekimo saugumo papildomos dedamosios prie gamtinių dujų perdavimo kainos dydį (toliau – papildoma dedamoji). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+ 
 
 
 
@@ -974,7 +992,16 @@ GAMTINIŲ DUJŲ SEKTORIAUS TAISYKLĖS
 
 
 
-3) nustato sąnaudų padengimo mechanizmą, kuris turi skatinti efektyvumą ir, kiek įmanoma, padidinti ilgalaikę naudą vartotojams. Tuo tikslu Taryba turi atsižvelgti į kainų rodiklius, taikomus palyginamose rinkose.
+3) nustato sąnaudų padengimo mechanizmą, kuris turi skatinti efektyvumą ir, kiek įmanoma, padidinti ilgalaikę naudą vartotojams. Tuo tikslu Taryba turi atsižvelgti į kainų rodiklius, taikomus palyginamose rinkose;
+
+
+
+
+4) užtikrina, kad perdavimo ir skirstymo sistemos operatoriams būtų suteiktos tinkamos paskatos trumpalaikiu ir ilgalaikiu laikotarpiu didinti energijos vartojimo efektyvumą, skatinti rinkos integraciją ir tiekimo saugumą bei remti susijusius mokslinius tyrimus. Siekdama didinti gamtinių dujų vartojimo efektyvumą, nustatydama viršutines perdavimo ir skirstymo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Taryba įvertina perdavimo sistemos ir skirstomųjų tinklų operatorių veiklos sąnaudų sumažėjimą dėl efektyvumo priemonių diegimo, įskaitant sutaupymą dėl gamtinių dujų perdavimo ar skirstymo paslaugų teikimo ar investicijų į tinklus sąnaudų sumažėjimo bei optimalaus tinklo eksploatavimo. 
+TAR pastaba. 4 dalies papildymas 4 punktu įsigalioja 2020-10-01.
+Papildyta straipsnio punktu:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+ 
 
 
 
@@ -3105,9 +3132,10 @@ GAMTINIŲ DUJŲ SEKTORIAUS PATIKIMUMAS
 45 straipsnis. Atsakomybė už gamtinių dujų tiekimo saugumo užtikrinimą
 
 
-1. Už gamtinių dujų tiekimo saugumo užtikrinimą pagal savo kompetenciją bendrai atsako gamtinių dujų įmonės, nebuitiniai vartotojai, Vyriausybė, Energetikos ministerija, Taryba, atlikdami užduotis, susijusias su gamtinių dujų tiekimo saugumą užtikrinančių priemonių įgyvendinimu. 
+1. Už gamtinių dujų tiekimo saugumo užtikrinimą pagal savo kompetenciją kartu atsako Vyriausybė, Energetikos ministerija, Taryba, viešoji įstaiga Lietuvos energetikos agentūra (toliau – Lietuvos energetikos agentūra), gamtinių dujų įmonės ir nebuitiniai vartotojai. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
  
 
 
@@ -3135,12 +3163,17 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
 
 
-2) nacionalinio lygmens prevencinio ir ekstremaliųjų situacijų valdymo planų rengimą;
+2) prevencinio ir ekstremaliųjų situacijų valdymo planų rengimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+ 
 
 
 
 
-3) regioninio lygmens gamtinių dujų tiekimo sutrikimų rizikos vertinimo atlikimą; 
+3) Neteko galios nuo 2020-07-04
+Straipsnio punkto naikinimas:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
 Straipsnio punkto pakeitimai:
 Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
  
@@ -3148,7 +3181,9 @@ Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
 
 
 
-4) regioninio lygmens prevencinio ir ekstremaliųjų situacijų valdymo planų rengimą; 
+4) Neteko galios nuo 2020-07-04
+Straipsnio punkto naikinimas:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
 Straipsnio punkto pakeitimai:
 Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
  
@@ -3206,7 +3241,9 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
 
 
-6. Siekdami gamtinių dujų tiekimo saugumo užtikrinimo, šio straipsnio 1 dalyje nurodyti dalyviai tarpusavyje bendradarbiauja rengiant gamtinių dujų tiekimo sutrikimų rizikos vertinimą, rengiant nacionalinio ir regioninio lygmens prevencinių ir ekstremaliųjų situacijų valdymo planus, įgyvendinant infrastruktūros ir tiekimo standartus ir fizinį pajėgumą transportuoti gamtines dujas tarpvalstybinėmis jungtimis abiem (priešpriešinėmis) kryptimis.
+6. Siekdami gamtinių dujų tiekimo saugumo užtikrinimo, šio straipsnio 1 dalyje nurodyti dalyviai tarpusavyje bendradarbiauja rengiant gamtinių dujų tiekimo sutrikimų rizikos vertinimą, rengiant prevencinį ir ekstremaliųjų situacijų valdymo planus, įgyvendinant infrastruktūros ir tiekimo standartus ir fizinį pajėgumą transportuoti gamtines dujas tarpvalstybinėmis jungtimis abiem (priešpriešinėmis) kryptimis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
  
 
 
@@ -3248,14 +3285,18 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-6. Energetikos ministerija teikia informaciją apie gamtinių dujų saugumo užtikrinimo priemones Europos Komisijai ir kitoms Europos Sąjungos valstybėms narėms bei kiekvienais metais ne vėliau kaip iki liepos 31 dienos parengia ir paskelbia apibendrintą gamtinių dujų tiekimo saugumo stebėsenos ataskaitą ir pateikia ją Europos Komisijai.
+6. Lietuvos energetikos agentūra, vadovaudamasi Reglamento (ES) 2017/1938 nuostatomis, atlieka gamtinių dujų tiekimo sutrikimų rizikos vertinimą, rengia ir teikia tvirtinti Energetikos ministerijai prevencinį ir ekstremaliųjų situacijų valdymo planus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+ 
 
 
 
 
-7. Energetikos ministerija rengia ir viešai ministerijos interneto svetainėje paskelbia prevencinius ir ekstremaliųjų situacijų valdymo planus ir užtikrina nuolatinę jų įgyvendinimo stebėseną. Apie parengtus prevencinius ir ekstremaliųjų situacijų valdymo planus ir jų atnaujinimus Energetikos ministerija nedelsdama praneša Europos Komisijai. Vyriausybei paskelbus ekstremaliąją situaciją gamtinių dujų sektoriuje, gamtinių dujų įmonės, Vyriausybė, Energetikos ministerija, Taryba imasi iš anksto nustatytų veiksmų, apibūdintų ekstremaliųjų situacijų valdymo plane, ir nedelsdamos apie tai pranešama Europos Komisijai ir kitoms valstybėms narėms. Paskelbus ekstremaliąją situaciją gamtinių dujų sektoriuje, Vyriausybė su prašymu kreipiasi į Europos Komisiją ir Europos Komisijai atlikus patikrinimus gali būti paskelbta regioninio lygmens arba Europos Sąjungos lygmens ekstremalioji situacija gamtinių dujų sektoriuje. 
+7. Energetikos ministro patvirtintus prevencinį ir ekstremaliųjų situacijų valdymo planus Energetikos ministerija viešai paskelbia ministerijos interneto svetainėje ir užtikrina nuolatinę jų įgyvendinimo stebėseną. Apie patvirtintus prevencinį ir ekstremaliųjų situacijų valdymo planus ir jų atnaujinimus Energetikos ministerija nedelsdama praneša Europos Komisijai. Vyriausybei paskelbus ekstremaliąją situaciją gamtinių dujų sektoriuje, Vyriausybė, Energetikos ministerija, Taryba ir gamtinių dujų įmonės imasi iš anksto nustatytų veiksmų, apibūdintų ekstremaliųjų situacijų valdymo plane, ir nedelsdamos apie tai praneša Europos Komisijai ir kitoms valstybėms narėms. Paskelbus ekstremaliąją situaciją gamtinių dujų sektoriuje, Energetikos ministerija gali kreiptis į Europos Komisiją su prašymu paskelbti regioninio arba Europos Sąjungos lygmens ekstremaliąją situaciją, kuri gali būti paskelbta Europos Komisijai atlikus patikrinimą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
  
 
 
@@ -3409,7 +3450,10 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
 
 
-4. Kilus tarptautiniam ginčui, jo sprendimui taikoma valstybės narės, kurios jurisdikcijai priklauso gavybos tinklas, kuriuo atsisakoma leisti naudotis, arba tarptautiniuose susitarimuose numatyta teisė. Jei, kilus tarptautiniam ginčui, ginčijamas gavybos tinklas yra ne tik Lietuvos Respublikos, bet ir kitos valstybės narės teritorijoje, turi būti konsultuojamasi su atitinkama valstybe nare siekiant užtikrinti, kad Europos Sąjungos teisės aktų reikalavimai būtų taikomi nuosekliai. 
+4. Kilus tarptautiniam ginčui, jo sprendimui taikoma valstybės narės, kurios jurisdikcijai priklauso gavybos tinklas, kuriuo atsisakoma leisti naudotis, arba tarptautiniuose susitarimuose numatyta teisė. Jei, kilus tarptautiniam ginčui, ginčijamas gavybos tinklas yra ne tik Lietuvos Respublikos, bet ir kitos valstybės narės ir (ar) trečiosios šalies teritorijoje, turi būti konsultuojamasi su atitinkama valstybe nare ir (ar) trečiąja šalimi siekiant užtikrinti, kad Europos Sąjungos teisės aktų reikalavimai būtų taikomi nuosekliai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+ 
 
 
 Straipsnio pakeitimai:
@@ -3488,7 +3532,10 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
 
 
-5) išimtis neturi kenkti konkurencijai ar veiksmingam gamtinių dujų vidaus rinkos funkcionavimui arba veiksmingam sistemos, su kuria ta infrastruktūra yra sujungta, funkcionavimui. 
+5) išimtis neturi kenkti konkurencijai ar veiksmingam gamtinių dujų vidaus rinkos funkcionavimui arba veiksmingam sistemos, su kuria ta infrastruktūra yra sujungta, funkcionavimui, taip pat valstybių narių gamtinių dujų tiekimo saugumui. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -3498,7 +3545,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-2. Vyriausybė teikia Seimui priimti sprendimą dėl šio straipsnio 1 dalyje nurodytų išimčių taikymo. 
+2. Seimui priimti sprendimą dėl šio straipsnio 1 dalyje nurodytų išimčių taikymo teikia Vyriausybė, įvertinusi Tarybos pateiktą išvadą. Taryba, prieš pateikdama išvadą dėl išimčių taikymo Vyriausybei, konsultuojasi su valstybių narių, kurių rinkoms galėtų turėti įtakos nauja infrastruktūra, nacionalinėmis reguliavimo institucijomis ir trečiųjų šalių, kurių teritorijoje prasideda arba baigiasi nauja infrastruktūra, atsakingomis institucijomis, šioms konsultacijoms skiriant pagrįstą ne ilgesnį kaip trijų mėnesių terminą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+ 
 
 
 
@@ -3508,7 +3558,10 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-4. Priimant sprendimą suteikti išimtį, kiekvienu atskiru atveju atsižvelgiama į poreikį nustatyti sąlygas, susijusias su išimties galiojimo laikotarpiu ir nediskriminacine teise naudotis infrastruktūra. Nustatant šias sąlygas, visų pirma atsižvelgiama į planuojamus sukurti papildomus pajėgumus, esamų pajėgumų pakeitimus, projekto įgyvendinimo laikotarpį ir kitas reikšmingas aplinkybes.
+4. Priimant sprendimą suteikti išimtį, įvertinama, ar šio straipsnio 2 dalyje nurodytų konsultacijų metu nebuvo gauta pagrįstų prieštaravimų iš suinteresuotų valstybių narių ir (ar) trečiųjų šalių, taip pat kiekvienu atskiru atveju atsižvelgiama į poreikį nustatyti sąlygas, susijusias su išimties galiojimo laikotarpiu ir nediskriminacine teise naudotis infrastruktūra. Nustatant šias sąlygas, visų pirma atsižvelgiama į planuojamus sukurti papildomus pajėgumus, esamų pajėgumų pakeitimus, projekto įgyvendinimo laikotarpį ir kitas reikšmingas aplinkybes. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+ 
 
 
 
@@ -4108,26 +4161,32 @@ priedas
  
 
 
-1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB (OL 2009 L 211, p. 94).
+1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB.
 
 
 
 
-2. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/94/ES dėl alternatyviųjų degalų infrastruktūros diegimo (OL 2014 L 307, p. 1).
+2. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2014/94/ES dėl alternatyviųjų degalų infrastruktūros diegimo.
 
 
 
 
-3. 2017 m. kovo 16 d. Komisijos reglamentas (ES) 2017/460, kuriuo nustatomas suderintos gamtinių dujų perdavimo tarifų struktūros tinklo kodeksas (OL 2017 L 72, p. 29).
+3. 2017 m. kovo 16 d. Komisijos reglamentas (ES) 2017/460, kuriuo nustatomas suderintos gamtinių dujų perdavimo tarifų struktūros tinklo kodeksas.
 
 
 
 
-4. 2017 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1938 dėl dujų tiekimo saugumo užtikrinimo priemonių, kuriuo panaikinamas Reglamentas (ES) Nr. 994/2010 (OL 2017 L 280, p. 1). 
+4. 2017 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1938 dėl dujų tiekimo saugumo užtikrinimo priemonių, kuriuo panaikinamas Reglamentas (ES) Nr. 994/2010.
+
+
+
+
+5. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/692, kuria iš dalies keičiama Direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių. 
 
 
 Priedo pakeitimai:
 Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
  
 
 
@@ -4277,3 +4336,8 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 13 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3019, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13236
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 31 ir 37-1 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 7, 9, 45, 46, 51, 53 straipsnių ir priedo pakeitimo įstatymas
