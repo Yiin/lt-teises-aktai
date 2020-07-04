@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-07-03
+Suvestinė redakcija nuo 2020-07-04 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
- 
-TAR pastaba. Prekėms, dėl kurių prievolė apskaičiuoti pridėtinės vertės mokestį arba importo pridėtinės vertės mokestį atsirado iki įstatymoNr. XIII-2487 įsigaliojimo (2020-01-01), taikomos iki šio įstatymo įsigaliojimo galiojusios taisyklės.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
-Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 4, 4-1, 5-1, 12, 12-2, 33-1, 35, 49, 56, 78, 88-1 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 4-2, 9-2 straipsniais įstatymas
  
  
 LIETUVOS RESPUBLIKOS PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMAS
@@ -57,7 +52,10 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-1. Akcizais apmokestinamos prekės – etilo alkoholis ir alkoholiniai gėrimai, apdorotas tabakas ir energiniai produktai, nurodyti Lietuvos Respublikos akcizų įstatyme, išskyrus Europos Sąjungos teritorijoje esančiomis gamtinių dujų sistemomis ar prie jų prijungtais tinklais tiekiamas dujas.
+1. Akcizais apmokestinamos prekės – etilo alkoholis ir alkoholiniai gėrimai, apdorotas tabakas, kaitinamojo tabako produktai ir energiniai produktai, nurodyti Lietuvos Respublikos akcizų įstatyme, išskyrus Europos Sąjungos teritorijoje esančiomis gamtinių dujų sistemomis ar prie jų prijungtais tinklais tiekiamas dujas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3169, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15004
+ 
 
 
 
@@ -4338,7 +4336,10 @@ Nr. XI-518, 2009-12-03, Žin., 2009, Nr. 151-6772 (2009-12-22)
 75 straipsnis. PVM mokėtojo išregistravimas
 
 
-1. Asmuo turi teisę pateikti prašymą išregistruoti jį iš PVM mokėtojų arba gali būti iš jų išregistruotas vietos mokesčio administratoriaus iniciatyva, jeigu, jam nesant PVM mokėtoju, jam nebūtų atsiradusi prievolė juo įsiregistruoti pagal šio Įstatymo 71 ar 711 straipsnį.
+1. Asmuo turi teisę pateikti prašymą išregistruoti jį iš PVM mokėtojų arba gali būti iš jų išregistruotas mokesčio administratoriaus iniciatyva, jeigu, jam nesant PVM mokėtoju, jam nebūtų atsiradusi prievolė juo įsiregistruoti pagal šio Įstatymo 71 ar 711 straipsnį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3169, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15004
+ 
 
 
 
@@ -4353,7 +4354,10 @@ Nr. XI-518, 2009-12-03, Žin., 2009, Nr. 151-6772 (2009-12-22)
 
 
 
-4. Vietos mokesčio administratoriaus iniciatyva iš PVM mokėtojų gali būti išregistruojami PVM mokėtojai, kurie, mokesčio administratoriaus duomenimis, nevykdo ekonominės veiklos, neįsigyja prekių iš kitų valstybių narių, neįsigyja paslaugų iš užsienio apmokestinamųjų asmenų ar kitoje valstybėje narėje neteikia paslaugų.
+4. Mokesčio administratoriaus iniciatyva iš PVM mokėtojų gali būti išregistruojami PVM mokėtojai, kurie, mokesčio administratoriaus duomenimis, nevykdo ekonominės veiklos ar neįsigyja prekių iš kitų valstybių narių. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3169, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15004
+ 
 
 
 Straipsnio pakeitimai:
@@ -5921,7 +5925,10 @@ NAUDOTŲ PREKIŲ, MENO KŪRINIŲ, KOLEKCINIŲ IR ANTIKVARINIŲ DAIKTŲ APMOKESTI
 
 
 
-5. Šiame skirsnyje naudotomis prekėmis laikomi bet kokie naudoti kilnojamieji daiktai (išskyrus nurodytus šio straipsnio 6–8 dalyse, taip pat tauriuosius metalus, brangakmenius ir dirbinius iš tauriųjų metalų ir (arba) brangakmenių), kurie gali būti toliau naudojami, neatsižvelgiant į tai, ar prieš naudojant tuos daiktus reikia papildomai remontuoti ir (arba) atlikti kitus jų aptarnavimo darbus, ar ne. 
+5. Šiame skirsnyje naudotomis prekėmis laikomi bet kokie naudoti kilnojamieji daiktai (išskyrus nurodytus šio straipsnio 6–8 dalyse, taip pat tauriuosius metalus ir brangakmenius), įskaitant dirbinius iš tauriųjų metalų ir (arba) brangakmenių, kai tokie daiktai gali būti toliau naudojami pagal paskirtį, neatsižvelgiant į tai, ar prieš naudojant tuos daiktus reikia papildomai remontuoti ir (arba) atlikti kitus jų aptarnavimo darbus, ar ne. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3169, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15004
+ 
 
 
 
@@ -7610,3 +7617,8 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 84 ir 8
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 4, 4-1, 5-1, 12, 12-2, 33-1, 35, 49, 56, 78, 88-1 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 4-2, 9-2 straipsniais įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3169, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15004
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 75, 91, 92 ir 106 straipsnių pakeitimo įstatymas
