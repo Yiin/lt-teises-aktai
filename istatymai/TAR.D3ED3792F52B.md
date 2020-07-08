@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-07
+Suvestinė redakcija nuo 2020-07-08 iki 2020-07-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -1762,18 +1762,30 @@ VALSTYBĖS TARNAUTOJŲ SKATINIMAS IR ATSAKOMYBĖ
 
 
 
-32 straipsnis. Valstybės tarnautojų atsakomybė 
+32 straipsnis. Valstybės tarnautojų atsakomybė
 
 
-1. Valstybės tarnautojai už tarnybinius nusižengimus traukiami tarnybinėn atsakomybėn. Už valstybės ir savivaldybės institucijai ir įstaigai padarytą materialinę žalą valstybės tarnautojai traukiami materialinėn atsakomybėn. 
+1. Valstybės tarnautojai už tarnybinius nusižengimus, išskyrus mažareikšmius tarnybinius nusižengimus, traukiami tarnybinėn atsakomybėn. Tarnybiniu nusižengimu laikomas valstybės tarnautojo pareigų neatlikimas ar netinkamas atlikimas dėl valstybės tarnautojo kaltės.
 
 
 
 
-2. Ginčai dėl valstybės tarnautojų tarnybinės ir materialinės atsakomybės nagrinėjami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+2. Mažareikšmiu tarnybiniu nusižengimu laikomas tarnybinis nusižengimas, kurio tyrimą atlikus nustatyta, kad jis yra formalaus pobūdžio, nesukėlęs neigiamų pasekmių, o tarnybinės nuobaudos paskyrimas būtų neproporcingas tarnybinio nusižengimo sunkumui.
+
+
+
+
+3. Už valstybės ir savivaldybių institucijoms ir įstaigoms padarytą materialinę žalą valstybės tarnautojai traukiami materialinėn atsakomybėn.
+
+
+
+
+4. Ginčai dėl valstybės tarnautojų tarnybinės ir materialinės atsakomybės nagrinėjami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
  
-
-
 
 
 
@@ -1786,7 +1798,10 @@ VALSTYBĖS TARNAUTOJŲ SKATINIMAS IR ATSAKOMYBĖ
 
 
 
-2. Tarnybinė nuobauda skiriama atsižvelgiant į kaltę, tarnybinio nusižengimo padarymo priežastis, aplinkybes ir padarinius, į valstybės tarnautojo veiklą iki tarnybinio nusižengimo padarymo, tarnybinę atsakomybę lengvinančias ir sunkinančias aplinkybes, į Korupcijos prevencijos įstatymo ar į Kriminalinės žvalgybos įstatymo nustatytais atvejais ir tvarka pateiktą informaciją. Pagal Korupcijos prevencijos įstatymą gauta informacija gali būti panaudota skiriant valstybės tarnautojui tarnybinę nuobaudą tik tuo atveju, kai ši informacija yra išslaptinama teisės aktų nustatyta tvarka.
+2. Tarnybinė nuobauda skiriama atsižvelgiant į kaltę, tarnybinio nusižengimo padarymo priežastis, aplinkybes ir pasekmes, į valstybės tarnautojo veiklą iki tarnybinio nusižengimo padarymo, tarnybinę atsakomybę lengvinančias ir sunkinančias aplinkybes. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
+ 
 
 
 
@@ -1875,6 +1890,54 @@ VALSTYBĖS TARNAUTOJŲ SKATINIMAS IR ATSAKOMYBĖ
 
 
 
+
+
+
+
+331 straipsnis. Asmenų, dėl kurių pradėtas tarnybinio nusižengimo tyrimas, teisės
+
+
+Valstybės tarnautojas ar valstybės tarnautojo pareigas ėjęs asmuo, dėl kurio pradėtas tarnybinio nusižengimo tyrimas, turi teisę:
+
+
+1) būti raštu informuotas apie pradėtą tarnybinio nusižengimo tyrimą ir jo prašymu susipažinti su valstybės ar savivaldybės institucijos ar įstaigos turimais neįslaptintais duomenimis apie jo galimai padarytą tarnybinį nusižengimą arba gauti šiuos duomenis;
+
+
+
+
+2) teikti paaiškinimus, įrodymus, prašymus ar kitą informaciją dėl jo galimai padaryto tarnybinio nusižengimo;
+
+
+
+
+3) dalyvauti tikrinant vietoje su jo galimai padarytu tarnybiniu nusižengimu susijusius faktinius duomenis;
+
+
+
+
+4) pareikšti motyvuotą nušalinimą tarnybinį nusižengimą tirti įgaliotiems asmenims dėl jų galimo šališkumo, apskųsti šių asmenų veikimą ar neveikimą;
+
+
+
+
+5) baigus tarnybinio nusižengimo tyrimą, gauti priimtą sprendimą, jo prašymu susipažinti su neįslaptinta tarnybinio nusižengimo tyrimo medžiaga arba gauti jos kopiją;
+
+
+
+
+6) turėti atstovą. Atstovas turi tokias pačias teises kaip ir asmuo, kuriam jis atstovauja;
+
+
+
+
+7) skųsti sprendimus dėl tarnybinės nuobaudos skyrimo ar valstybės tarnautojo pareigas ėjusio asmens pripažinimo padariusiu tarnybinį nusižengimą ir tarnybinės nuobaudos, kuri turėtų būti jam skirta, nustatymo. 
+
+
+
+
+Papildyta straipsniu:
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
+ 
 
 
 
@@ -2356,7 +2419,10 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 
 
-5. Šio įstatymo 51 straipsnio 1 dalyje nurodytais pagrindais atleidžiamam, perkeliamam laimėjus konkursą į kitas valstybės tarnautojo pareigas į kitą valstybės ar savivaldybės instituciją ar įstaigą valstybės tarnautojui jo atleidimo (perkėlimo) iš pareigų dieną išmokamos visos jam priklausančios pinigų sumos, išskyrus šio straipsnio 1 dalyje nurodytą išeitinę išmoką, mokamą politinio (asmeninio) pasitikėjimo valstybės tarnautojams, ir šio straipsnio 2 dalyje nurodytą išeitinę išmoką.
+5. Šio įstatymo 51 straipsnio 1 dalyje nurodytais pagrindais atleidžiamam, pagal šio įstatymo 21 straipsnio 2 dalį, 22 straipsnio 3 dalį, 26 straipsnio 1 dalį perkeliamam į kitą valstybės ar savivaldybės instituciją ar įstaigą valstybės tarnautojui jo atleidimo (perkėlimo) iš pareigų dieną išmokamos visos jam priklausančios pinigų sumos, išskyrus šio straipsnio 1 dalyje nurodytą išeitinę išmoką, mokamą politinio (asmeninio) pasitikėjimo valstybės tarnautojams, ir šio straipsnio 2 dalyje nurodytą išeitinę išmoką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
+ 
 
 
 
@@ -2746,7 +2812,18 @@ VALSTYBĖS TARNYBOS VALDYMAS
 
 
 
-6) Vyriausybės narius ir valstybės pareigūnus tiek, kiek reikalinga jų tarnybiniams pažymėjimams ar kitokioms elektroniniu parašu pasirašyti skirtoms priemonėms pagaminti.
+6) valstybės politikus, valstybės pareigūnus ir profesinės karo tarnybos karius tiek, kiek reikalinga jų tarnybiniams pažymėjimams ar kitokioms elektroniniu parašu pasirašyti skirtoms priemonėms pagaminti arba jiems pavaldžių valstybės tarnautojų tarnybinės veiklos vertinimui atlikti ir pareigybėms aprašyti ir vertinti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
+ 
+
+
+
+
+7) biudžetinių įstaigų struktūrą, laisvas ir užimtas pareigybes ir darbuotojus tiek, kiek reikia biudžetinių įstaigų personalo administravimo ir buhalterinės apskaitos tvarkymo funkcijoms centralizuotai atlikti Vyriausybės nustatyta tvarka. 
+Papildyta straipsnio punktu:
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
+ 
 
 
 
@@ -2771,13 +2848,15 @@ VALSTYBĖS TARNYBOS VALDYMAS
 
 
 
-54 straipsnis. Valstybės tarnybos valdymo informacinė sistema 
+54 straipsnis. Valstybės tarnybos valdymo informacinė sistema
 
 
-Valstybės tarnybos valdymo informacinė sistema skirta valstybės tarnybos, valstybės ir savivaldybių institucijų ir įstaigų personalo valdymo sprendimams priimti, kitoms šiame įstatyme ir su juo susijusiuose teisės aktuose nurodytoms funkcijoms įgyvendinti.
+Valstybės tarnybos valdymo informacinė sistema skirta valstybės tarnybos, valstybės ir savivaldybių institucijų ir įstaigų, biudžetinių įstaigų, kurių personalo administravimo ir buhalterinės apskaitos tvarkymo funkcijos centralizuotai atliekamos Vyriausybės nustatyta tvarka, personalo valdymo ir (ar) administravimo sprendimams priimti, kitoms šiame įstatyme ir su juo susijusiuose teisės aktuose nurodytoms funkcijoms įgyvendinti. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
  
-
-
 
 
 
@@ -3009,7 +3088,7 @@ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ SKIRSTYMO Į GRUPES KRITER
  padėjimas vykdyti Seimo funkcijas   arba   padėjimas vykdyti Respublikos Prezidento funkcijas   arba   padėjimas vykdyti Vyriausybės ir Ministro Pirmininko funkcijas   arba   teismų savivaldos institucijų aptarnavimas 
  valstybinio audito funkcijų vykdymas   arba   dalyvavimas formuojant valstybės politiką nacionalinio saugumo srityje ir jos įgyvendinimas 
  – 
- valstybės politikos formavimas ir įgyvendinimas keliose valdymo srityse   arba   dalyvavimas formuojant valstybės politiką valstybinio socialinio draudimo srityje ir jos įgyvendinimas 
+ valstybės politikos formavimas ir įgyvendinimas keliose valdymo srityse 
  – 
  100 
 
@@ -3018,7 +3097,7 @@ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ SKIRSTYMO Į GRUPES KRITER
  – 
  skundų nagrinėjimas dėl pareigūnų ir kitų asmenų veiksmų ar neveikimo, dėl kurių gali būti pažeistos asmens teisės, laisvės ar teisėti interesai   arba   dalyvavimas formuojant daugiau kaip vienos valdymo srities valstybės politiką ir jos įgyvendinimas 
  – 
- dalyvavimas formuojant daugiau kaip vienos valdymo srities valstybės politiką ir jos įgyvendinimas    arba      valstybės politikos formavimas ir įgyvendinimas vienoje valdymo srityje    arba   valstybės politikos valstybinio socialinio draudimo srityje įgyvendinimas   arba    Europos Sąjungos struktūrinių ir investicinių fondų administravimo ir kontrolės funkcijų vykdymas 
+ dalyvavimas formuojant daugiau kaip vienos valdymo srities valstybės politiką ir jos įgyvendinimas    arba      valstybės politikos formavimas ir įgyvendinimas vienoje valdymo srityje    arba    Europos Sąjungos struktūrinių ir investicinių fondų administravimo ir kontrolės funkcijų vykdymas 
  – 
  80 
 
@@ -3101,7 +3180,7 @@ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ SKIRSTYMO Į GRUPES KRITER
 
 
  3. 
- Valstybės ar savivaldybių institucijos ar įstaigos dydis, santykis su pavaldžiais ir nepavaldžiais subjektais: 
+ Valstybės ar savivaldybių institucijos ar įstaigos santykis su pavaldžiais ir nepavaldžiais subjektais: 
 
 
 
@@ -3118,7 +3197,7 @@ VALSTYBĖS IR SAVIVALDYBIŲ INSTITUCIJŲ IR ĮSTAIGŲ SKIRSTYMO Į GRUPES KRITER
  – 
  – 
  – 
- vertikalusis vadovavimas, kai valstybės institucija ar įstaiga vadovauja 2 pakopų pavaldžių subjektų sistemai   arba   įstaiga, kurioje dirba daugiau kaip 1 000 valstybės tarnautojų 
+ vertikalusis vadovavimas, kai valstybės institucija ar įstaiga vadovauja 2 pakopų pavaldžių subjektų sistemai 
  – 
  80 
 
@@ -3236,6 +3315,7 @@ Pastaba. Gyventojų skaičius savivaldybės teritorijoje nustatomas pagal kalend
 
 Priedo pakeitimai:
 Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
  
 
 
@@ -3977,3 +4057,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 49 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2927, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10936
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5 straipsnio pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 3, 9, 16, 18, 19, 32, 33, 34, 48, 53, 54 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 33-1 straipsniu įstatymas
