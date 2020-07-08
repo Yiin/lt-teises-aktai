@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-07-07
+Suvestinė redakcija nuo 2020-07-08 iki 2020-09-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -1847,7 +1847,10 @@ YPATYBĖS
 
 
 
-3. Valstybinį visuomenės sveikatos stiprinimo fondą administruoja Sveikatos apsaugos ministerija, vadovaudamasi Valstybinio visuomenės sveikatos stiprinimo fondo nuostatais. Valstybinio visuomenės sveikatos stiprinimo fondo lėšos laikomos atskiroje Sveikatos apsaugos ministerijos sąskaitoje ir įtraukiamos į apskaitą pagal atskirą programą. Valstybinio visuomenės sveikatos stiprinimo fondo administravimo išlaidos negali viršyti 1 procento metinio Valstybinio visuomenės sveikatos stiprinimo fondo biudžeto.
+3. Valstybinį visuomenės sveikatos stiprinimo fondą administruoja Sveikatos apsaugos ministerija, vadovaudamasi Valstybinio visuomenės sveikatos stiprinimo fondo nuostatais. Valstybinio visuomenės sveikatos stiprinimo fondo lėšos laikomos atskiroje Sveikatos apsaugos ministerijos sąskaitoje ir įtraukiamos į apskaitą pagal atskirą programą. Valstybinio visuomenės sveikatos stiprinimo fondo administravimo išlaidos negali viršyti 2 procentų metinio Valstybinio visuomenės sveikatos stiprinimo fondo biudžeto.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3148, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15131
+ 
 
 
 
@@ -5161,3 +5164,8 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 3, 29, 47, 74 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2701, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21419
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 77 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3148, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15131
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 38-1 straipsnio pakeitimo įstatymas
