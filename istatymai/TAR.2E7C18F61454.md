@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2E7C18F61454"
 
 # Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-08
+Suvestinė redakcija nuo 2020-07-09 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 36-1340; Žin. 2002, Nr.42-0, i. k. 1021010KODE00IX-743
  
@@ -420,7 +420,10 @@ Civilinio proceso tikslai – ginti asmenų, kurių materialinės subjektinės t
 
 
 
-5. Teismas, nagrinėdamas bylas, taiko Europos Sąjungos teisės normas ir vadovaujasi Europos Sąjungos teisminių institucijų sprendimais, preliminariais nutarimais Europos Sąjungos teisės aktų aiškinimo ir galiojimo klausimais. Teismas, kuriam taikant Europos Sąjungos teisės normas iškilo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimas, kurį išnagrinėti būtina, kad sprendimas byloje būtų priimtas, turi teisę sustabdyti bylos nagrinėjimą ir kreiptis į kompetentingą Europos Sąjungos teisminę instituciją su prašymu pateikti dėl to preliminarų nutarimą. Teismas, kuris yra galutinė instancija nagrinėjamoje byloje ir kuriam taikant Europos Sąjungos teisės normas iškilo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimas, privalo prašyti kompetentingos Europos Sąjungos teisminės institucijos preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu.
+5. Teismas, nagrinėdamas bylas, taiko Europos Sąjungos teisės normas ir vadovaujasi Europos Sąjungos teisminių institucijų sprendimais, prejudiciniais sprendimais Europos Sąjungos teisės aktų aiškinimo ir galiojimo klausimais. Teismas, kuriam taikant Europos Sąjungos teisės normas iškilo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimas, kurį išnagrinėti būtina, kad sprendimas byloje būtų priimtas, turi teisę sustabdyti bylos nagrinėjimą ir kreiptis į kompetentingą Europos Sąjungos teisminę instituciją su prašymu pateikti dėl to prejudicinį sprendimą. Teismas, kuris yra galutinė instancija nagrinėjamoje byloje ir kuriam taikant Europos Sąjungos teisės normas iškilo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimas, privalo prašyti kompetentingos Europos Sąjungos teisminės institucijos prejudicinio sprendimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3175, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15238
+ 
 
 
 
@@ -24522,6 +24525,19 @@ Atsakovo teisė, kad jo turėtos bylinėjimosi išlaidos būtų atlygintos iš s
 
 
 
+7991 straipsnis. Normų taikymas Europos Sąjungos valstybių narių teismų sprendimams
+
+
+Šio skyriaus ketvirtojo, penktojo ir šeštojo skirsnių nuostatos taikomos Europos Sąjungos valstybių narių teismų sprendimams, teisme patvirtintoms taikos sutartims ir teismo nutartims, kai nėra Europos Sąjungos reglamentų, nustatančių šių teismų sprendimų, teisme patvirtintų taikos sutarčių ir teismo nutarčių pripažinimą ir leidimą juos vykdyti. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3175, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15238
+ 
+
+
+
+
 
 
 Antrasis skirsnis
@@ -24550,15 +24566,35 @@ nuo bylinėjimosi išlaidų APmokėjimo, teisinė pagalba,
 801 straipsnis. Teismų susižinojimas
 
 
-1. Nagrinėdami bylas Lietuvos Respublikos teismai su užsienio valstybių teismais dėl teisinės pagalbos susižino per Lietuvos Respublikos teisingumo ministeriją, išskyrus tarptautinių sutarčių ir Europos Sąjungos teisės aktų nustatytus atvejus, kai susižinoma tiesiogiai.
+1. Nagrinėdami bylas Lietuvos Respublikos teismai su užsienio valstybių teismais dėl teisinės pagalbos susižino tarptautinių sutarčių ir Europos Sąjungos teisės aktų nustatyta tvarka ir sąlygomis. 
 
 
 
 
-2. Lietuvos Respublikos teismai atsisako teikti teisinę pagalbą, jeigu:
+2. Lietuvos Respublikos teismai su Europos Sąjungos valstybių narių teismais dėl teisinės pagalbos susižino tiesiogiai Europos Sąjungos teisės aktų nustatyta tvarka ir sąlygomis.
 
 
-1) veiksmas, kurį reikalaujama atlikti, prieštarautų Lietuvos Respublikos viešajai tvarkai arba jos nepriklausomybei;
+
+
+3. Tais atvejais, kai galioja Lietuvos Respublikos ir valstybės, kuri nėra Europos Sąjungos valstybė narė, sudaryta tarptautinė sutartis, nustatanti tiesioginį bendradarbiavimą (susižinojimą), Lietuvos Respublikos teismai susižino šios tarptautinės sutarties nustatyta tvarka ir sąlygomis.
+
+
+
+
+4. Jeigu nėra galiojančios Lietuvos Respublikos ir valstybės, kuri nėra Europos Sąjungos valstybė narė, sudarytos šio straipsnio 3 dalyje nurodytos tarptautinės sutarties, tačiau galioja sudaryta tarptautinė sutartis, kuri nenustato tiesioginio bendradarbiavimo (susižinojimo), Lietuvos Respublikos teismai susižino šios sutarties nustatyta tvarka ir sąlygomis per Lietuvos Respublikos teisingumo ministeriją.
+
+
+
+
+5. Tais atvejais, kai nėra galiojančios Lietuvos Respublikos ir valstybės, kuri nėra Europos Sąjungos valstybė narė, sudarytos tarptautinės sutarties, kurios pagrindu Lietuvos Respublikos teismai galėtų susižinoti, susižinojimas vyksta diplomatine tvarka per Lietuvos Respublikos užsienio reikalų ministeriją.
+
+
+
+
+6. Lietuvos Respublikos teismai atsisako teikti teisinę pagalbą, jeigu:
+
+
+1) veiksmas, kurį reikalaujama atlikti, prieštarautų Lietuvos Respublikos viešajai tvarkai arba keltų grėsmę jos nepriklausomybei;
 
 
 
@@ -24568,13 +24604,15 @@ nuo bylinėjimosi išlaidų APmokėjimo, teisinė pagalba,
 
 
 
-3) valstybė, iš kurios teismų gautas teisinės pagalbos prašymas, atsisako suteikti teisinę pagalbą Lietuvos Respublikos teismams.
+3) valstybė, iš kurios teismų gautas teisinės pagalbos prašymas, atsisako suteikti teisinę pagalbą Lietuvos Respublikos teismams. 
 
 
 
 
 Straipsnio pakeitimai:
- Nr. IX-2171, 2004-04-27, Žin., 2004, Nr. 72-2494 (2004-04-30)
+Nr. IX-2171, 2004-04-27, Žin., 2004, Nr. 72-2494 (2004-04-30)
+Straipsnio pakeitimai:
+Nr. XIII-3175, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15238
  
 
 
@@ -24717,9 +24755,11 @@ Užsienio teisės taikymas
 
 
 KETVIRTASIS SKIRSNIS
-UŽSIENIO TEISMŲ (ARBITRAŽŲ), IŠSKYRUS EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMUS, SPRENDIMŲ PRIPAŽINIMO TVARKA
+UŽSIENIO TEISMŲ (ARBITRAŽŲ) SPRENDIMŲ PRIPAŽINIMO TVARKA 
 Skirsnio pavadinimas keistas:
 Nr. IX-2171, 2004-04-27, Žin., 2004, Nr. 72-2494 (2004-04-30)
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-3175, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15238
  
 
 
@@ -24851,8 +24891,7 @@ Nr. XI-2090, 2012-06-21, Žin., 2012, Nr. 76-3933 (2012-06-30)
 
 
 
-8111 straipsnis. Bylos dėl užsienio arbitražo sprendimo pripažinimo
-ir vykdymo nagrinėjimas
+8111 straipsnis. Bylos dėl užsienio arbitražo sprendimo pripažinimo ir vykdymo nagrinėjimas
 
 
 1. Prašymus dėl užsienio arbitražo sprendimų pripažinimo ir vykdymo nagrinėja Lietuvos apeliacinio teismo trijų teisėjų kolegija rašytinio proceso tvarka. Apie rašytinį procesą arbitražo proceso šalims pranešama pranešimais. 
@@ -24937,9 +24976,11 @@ Nr. XII-72, 2012-12-20, Žin., 2012, Nr. 153-7824 (2012-12-29)
 
 
 PENKTASIS SKIRSNIS
-LEIDIMO VYKDYTI UŽSIENIO TEISMŲ (ARBITRAŽŲ), IŠSKYRUS EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMUS, SPRENDIMUS TVARKA
+LEIDIMO VYKDYTI UŽSIENIO TEISMŲ (ARBITRAŽŲ) SPRENDIMUS TVARKA.
 Skirsnio pavadinimas keistas:
 Nr. IX-2171, 2004-04-27, Žin., 2004, Nr. 72-2494 (2004-04-30)
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-3175, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15238
  
 
 
@@ -25016,9 +25057,11 @@ Nr. XI-2090, 2012-06-21, Žin., 2012, Nr. 76-3933 (2012-06-30)
 
 
 ŠEŠTASIS SKIRSNIS
-UŽSIENIO VALSTYBĖS TEISME, IŠSKYRUS EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMUS, PATVIRTINTŲ TAIKOS SUTARČIŲ IR TEISMO NUTARČIŲ, PRIPAŽINIMO IR LEIDIMO VYKDYTI TVARKA
+UŽSIENIO VALSTYBĖS TEISME PATVIRTINTŲ TAIKOS SUTARČIŲ IR TEISMO NUTARČIŲ PRIPAŽINIMO IR LEIDIMO VYKDYTI TVARKA 
 Skirsnio pavadinimas keistas:
 Nr. IX-2171, 2004-04-27, Žin., 2004, Nr. 72-2494 (2004-04-30)
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-3175, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15238
  
 
 
@@ -25504,3 +25547,8 @@ Lietuvos Respublikos civilinio proceso kodekso 145 ir 668 straipsnių pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3035, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13473
 Lietuvos Respublikos civilinio proceso kodekso 570, 629, 631, 663, 668, 688, 689, 736, 739, 746 ir 749 straipsnių pakeitimo įstatymo Nr. XIII-1460 12 straipsnio pakeitimo įstatymas
+ 
+52.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3175, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15238
+Lietuvos Respublikos civilinio proceso kodekso 3, 801 straipsnių, LX skyriaus ketvirtojo, penktojo ir šeštojo skirsnių pavadinimų pakeitimo ir Kodekso papildymo 799-1 straipsniu įstatymas
