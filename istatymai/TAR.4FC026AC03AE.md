@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-08
+Suvestinė redakcija nuo 2020-07-09 iki 2020-09-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
  
@@ -864,7 +864,9 @@ PRIĖMIMAS Į VIDAUS TARNYBĄ
 
 
 
-3. Į vidaus tarnybą Kalėjimų departamente ir jam pavaldžiose statutinėse įstaigose taip pat draudžiama priimti asmenį, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar su kuriuo svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje ar pataisos įstaigoje arba jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti viešųjų ir privačių interesų konfliktą.
+3. Į vidaus tarnybą Kalėjimų departamente ir jam pavaldžiose statutinėse įstaigose taip pat draudžiama priimti asmenį, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar su kuriuo svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje ar pataisos įstaigoje arba jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatyme nustatytą interesų konfliktą (toliau – interesų konfliktas). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
  
 
 
@@ -1129,7 +1131,10 @@ Nr. XIII-1790, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21121
 23 straipsnis. Pareigūnų teisė dirbti kitą darbą
 
 
-1. Pareigūnams leidžiama dirbti įmonėse, įstaigose, organizacijose, nepaisant jų nuosavybės formos, teisinės formos, rūšies ir veiklos pobūdžio, ir už šį darbą gauti darbo užmokestį ar atlyginimą (toliau – dirbti kitą darbą), jeigu tai nesukelia viešųjų ir privačių interesų konflikto valstybės tarnyboje, nesudaro prielaidų tarnybą panaudoti asmeniniais interesais, nediskredituoja vidaus tarnybos autoriteto, nekliudo asmeniui, einančiam pareigūno pareigas, tinkamai atlikti jo pareigybės aprašyme nustatytas funkcijas, taip pat kai tai nėra darbas tose įmonėse, įstaigose, organizacijose, kurių atžvilgiu pareigūnas turi valdingus įgaliojimus ar kurių veiklą kontroliuoja, prižiūri arba dėl kurių priima kokius nors kitus sprendimus, ir kai nėra kitų aplinkybių, dėl kurių pareigūnai negali dirbti kito darbo ir gauti atlyginimo.
+1. Pareigūnams leidžiama dirbti įmonėse, įstaigose, organizacijose, nepaisant jų nuosavybės formos, teisinės formos, rūšies ir veiklos pobūdžio, ir už šį darbą gauti darbo užmokestį ar atlyginimą (toliau – dirbti kitą darbą), jeigu tai nesukelia interesų konflikto, nesudaro prielaidų tarnybą panaudoti privačiais interesais, nediskredituoja vidaus tarnybos autoriteto, nekliudo asmeniui, einančiam pareigūno pareigas, tinkamai atlikti jo pareigybės aprašyme nustatytas funkcijas, taip pat kai tai nėra darbas tose įmonėse, įstaigose, organizacijose, kurių atžvilgiu pareigūnas turi valdingus įgaliojimus ar kurių veiklą kontroliuoja, prižiūri arba dėl kurių priima kokius nors kitus sprendimus, ir kai nėra kitų aplinkybių, dėl kurių pareigūnai negali dirbti kito darbo ir gauti atlyginimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+ 
 
 
 
@@ -1178,7 +1183,10 @@ Pareigūnui draudžiama:
 
 
 
-4) dirbti įmonėse, įstaigose, organizacijose ir už šį darbą gauti darbo užmokestį ar atlyginimą, steigti individualias įmones ar verstis individualia veikla, jeigu tai sukelia viešųjų ir privačių interesų konfliktą valstybės tarnyboje, sudaro prielaidas tarnybą panaudoti asmeniniais interesais, diskredituoja vidaus tarnybos autoritetą, kliudo pareigūnui tinkamai atlikti jo pareigybės aprašyme nustatytas funkcijas, taip pat kai tai yra darbas tose įmonėse, įstaigose, organizacijose, kurių atžvilgiu pareigūnas turi valdingus įgaliojimus ar kurių veiklą kontroliuoja, prižiūri arba dėl kurių priima kokius nors kitus sprendimus, ir kai yra kitų aplinkybių, dėl kurių pareigūnai negali dirbti kito darbo ir gauti už jį darbo užmokesčio ar atlyginimo;
+4) dirbti įmonėse, įstaigose, organizacijose ir už šį darbą gauti darbo užmokestį ar atlyginimą, steigti individualias įmones ar verstis individualia veikla, jeigu tai sukelia interesų konfliktą, sudaro prielaidas tarnybą panaudoti privačiais interesais, diskredituoja vidaus tarnybos autoritetą, kliudo pareigūnui tinkamai atlikti jo pareigybės aprašyme nustatytas funkcijas, taip pat kai tai yra darbas tose įmonėse, įstaigose, organizacijose, kurių atžvilgiu pareigūnas turi valdingus įgaliojimus ar kurių veiklą kontroliuoja, prižiūri arba dėl kurių priima kokius nors kitus sprendimus, ir kai yra kitų aplinkybių, dėl kurių pareigūnai negali dirbti kito darbo ir gauti už jį darbo užmokesčio ar atlyginimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+ 
 
 
 
@@ -1487,7 +1495,9 @@ Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
 
 
 
-2. Perkeliamam į kitas pareigas pareigūnui suteikiamas pareigybę, į kurią jis perkeliamas, atitinkantis laipsnis. 
+2. Perkeliamam į kitas pareigas pareigūnui, išskyrus atvejus, kai perkeliama šio statuto 31 straipsnyje nustatyta tvarka, suteikiamas pareigybę, į kurią jis perkeliamas, atitinkantis laipsnis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
  
 
 
@@ -1526,7 +1536,10 @@ Pareigūnai į aukštesnes pareigas gali būti perkelti tarnybinės veiklos vert
 
 
 
-3. Atrankos į laisvas pareigūno pareigas tvarką nustato vidaus reikalų ministras, suderinęs su finansų ir teisingumo ministrais. Atrankai vykdyti statutinėje įstaigoje sudaroma atrankos į laisvas pareigūno pareigas komisija (toliau – atrankos komisija). Jeigu statutinėje įstaigoje yra įsteigta profesinė sąjunga ir atrankoje dalyvaujantis pareigūnas yra šios profesinės sąjungos narys, vienas atrankos komisijos narys turi būti šios profesinės sąjungos atstovas. Kitais atvejais atrankos komisijoje stebėtojų teisėmis dalyvauja darbo tarybos atstovas.
+3. Atrankos į laisvas pareigūno pareigas tvarką nustato vidaus reikalų ministras, suderinęs su finansų ir teisingumo ministrais. Atrankai vykdyti statutinėje įstaigoje sudaroma atrankos į laisvas pareigūno pareigas komisija (toliau – atrankos komisija). Jeigu statutinėje įstaigoje veikia profesinė sąjunga ir atrankoje dalyvaujantis pareigūnas yra šios profesinės sąjungos narys, vienas atrankos komisijos narys turi būti šios profesinės sąjungos atstovas. Kitais atvejais atrankos komisijoje stebėtojų teisėmis dalyvauja darbo tarybos atstovas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+ 
 
 
 
@@ -1536,7 +1549,10 @@ Pareigūnai į aukštesnes pareigas gali būti perkelti tarnybinės veiklos vert
 
 
 
-5. Į centrinėms statutinėms įstaigoms pavaldžių statutinių įstaigų ir statutinių profesinio mokymo įstaigų vadovų ir vadovų pavaduotojų, statutinių įstaigų struktūrinių padalinių vadovų pareigas pareigūnai skiriami tik atrankos būdu, išskyrus šio statuto 29 straipsnio 4 dalyje, 30 straipsnio 1 ir 2 dalyse, 31 straipsnio 1 ir 2 dalyse ir 32 straipsnio 3 dalies 3 punkte nustatytus atvejus. 
+5. Į centrinėms statutinėms įstaigoms pavaldžių statutinių įstaigų ir statutinių profesinio mokymo įstaigų vadovų ir vadovų pavaduotojų, statutinių įstaigų struktūrinių padalinių vadovų pareigas pareigūnai skiriami tik atrankos būdu, išskyrus šio statuto 29 straipsnio 4 ir 7 dalyse, 30 straipsnio 1, 2 ir 4 dalyse, 31 straipsnio 1, 2, 3 ir 5 dalyse, 32 straipsnio 3 dalies 3 ir 4 punktuose, 33 straipsnio 1 dalies 1, 2, 3, 4, 5, 6 ir 7 punktuose nustatytus atvejus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+ 
 
 
 
@@ -1561,7 +1577,9 @@ Pareigūnai į aukštesnes pareigas gali būti perkelti tarnybinės veiklos vert
 
 
 
-10. Į vidaus tarnybą Kalėjimų departamente ir jam pavaldžiose statutinėse įstaigose taip pat draudžiama perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti viešųjų ir privačių interesų konfliktą.
+10. Į vidaus tarnybą Kalėjimų departamente ir jam pavaldžiose statutinėse įstaigose taip pat draudžiama perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti interesų konfliktą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
  
 
 
@@ -1601,6 +1619,19 @@ Pareigūnai į aukštesnes pareigas gali būti perkelti tarnybinės veiklos vert
  
 
 
+
+
+
+
+291 straipsnis. Centrinėms statutinėms įstaigoms pavaldžių statutinių įstaigų vadovų skyrimas
+
+
+Centrinėms statutinėms įstaigoms pavaldžių statutinių įstaigų vadovus į pareigas skiria ir iš pareigų atleidžia centrinės statutinės įstaigos, kuriai yra pavaldi statutinė įstaiga, vadovas, jeigu kituose šių įstaigų veiklą reglamentuojančiuose įstatymuose nenustatyta kitaip. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+ 
 
 
 
@@ -1653,7 +1684,9 @@ Pareigūnai į aukštesnes pareigas gali būti perkelti tarnybinės veiklos vert
 
 
 
-8. Į vidaus tarnybą Kalėjimų departamente ir jam pavaldžiose statutinėse įstaigose taip pat draudžiama perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba kai jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti viešųjų ir privačių interesų konfliktą.
+8. Į vidaus tarnybą Kalėjimų departamente ir jam pavaldžiose statutinėse įstaigose taip pat draudžiama perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba kai jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti interesų konfliktą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
  
 
 
@@ -1709,7 +1742,9 @@ Pareigūnai į aukštesnes pareigas gali būti perkelti tarnybinės veiklos vert
 
 
 
-10. Į vidaus tarnybą Kalėjimų departamente ir jam pavaldžiose statutinėse įstaigose taip pat draudžiama perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba kai jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti viešųjų ir privačių interesų konfliktą.
+10. Į vidaus tarnybą Kalėjimų departamente ir jam pavaldžiose statutinėse įstaigose taip pat draudžiama perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba kai jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti interesų konfliktą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
  
 
 
@@ -1720,11 +1755,11 @@ Pareigūnai į aukštesnes pareigas gali būti perkelti tarnybinės veiklos vert
 311 straipsnis. Perkėlimas į karjeros valstybės tarnautojo pareigas
 
 
-Tarnybinio būtinumo atveju, kai valstybės institucijų ar įstaigų vadovai šį klausimą suderina, centrinės statutinės įstaigos vadovo įsakymu pareigūnas jo rašytiniu sutikimu gali būti laikinai, iki 3 metų laikotarpiui, perkeltas į karjeros valstybės tarnautojo pareigas kitoje valstybės institucijoje ar įstaigoje, jeigu pareigūnas atitinka Valstybės tarnybos įstatyme nustatytus priėmimo į valstybės tarnautojo pareigas bendruosius reikalavimus ir pareigybės, į kurią jis perkeliamas, aprašyme nustatytus specialiuosius reikalavimus. Tarnybinio būtinumo atveju pareigūno perkėlimo į karjeros valstybės tarnautojo pareigas terminas, valstybės institucijų ar įstaigų vadovams suderinus, gali būti pratęstas, tačiau ne ilgiau kaip 2 metams. Pareigūno perkėlimo į karjeros valstybės tarnautojo pareigas laikotarpis įskaitomas į pareigūno vidaus tarnybos stažą. Perkėlimo į karjeros valstybės tarnautojo pareigas laikotarpiu pareigūnui taikomos šio statuto nuostatos, išskyrus darbo užmokestį reglamentuojančias nuostatas. Perkeltam į karjeros valstybės tarnautojo pareigas pareigūnui darbo užmokestis nustatomas pagal jo einamas ne statutinio valstybės tarnautojo pareigas, tačiau ne mažesnis kaip nustatytasis iki perkėlimo. Pasibaigus pareigūno perkėlimo į karjeros valstybės tarnautojo pareigas laikotarpiui, pareigūnas grąžinamas į iki perkėlimo eitas pareigas, o kai šių pareigų nėra, jo rašytiniu sutikimu gali būti skiriamas į kitas lygiavertes pareigas, o kai ir šių pareigų nėra, – laikinai, iki atsiras laisvos lygiavertės pareigos, jo rašytiniu sutikimu gali būti skiriamas į žemesnes pareigas. Visais atvejais šiam pareigūnui mokamas ne mažesnis negu iki perkėlimo į karjeros valstybės tarnautojo pareigas nustatytas darbo užmokestis.
+Tarnybinio būtinumo atveju, kai valstybės institucijų ar įstaigų vadovai šį klausimą suderina, centrinės statutinės įstaigos vadovo įsakymu pareigūnas jo rašytiniu sutikimu gali būti laikinai, iki 3 metų laikotarpiui, perkeltas į karjeros valstybės tarnautojo pareigas kitoje valstybės institucijoje ar įstaigoje, jeigu pareigūnas atitinka Valstybės tarnybos įstatyme nustatytus priėmimo į valstybės tarnautojo pareigas bendruosius reikalavimus ir pareigybės, į kurią jis perkeliamas, aprašyme nustatytus specialiuosius reikalavimus. Tarnybinio būtinumo atveju pareigūno perkėlimo į karjeros valstybės tarnautojo pareigas terminas, valstybės institucijų ar įstaigų vadovams suderinus, gali būti pratęstas, tačiau ne ilgiau kaip 2 metams. Pareigūno perkėlimo į karjeros valstybės tarnautojo pareigas laikotarpis įskaitomas į pareigūno vidaus tarnybos stažą. Perkėlimo į karjeros valstybės tarnautojo pareigas laikotarpiu pareigūnui taikomos šio statuto nuostatos, išskyrus darbo užmokestį reglamentuojančias nuostatas, taip pat mutatis mutandis taikomos Valstybės tarnybos įstatymo nuostatos dėl tarnybinės veiklos vertinimo. Perkeltam į karjeros valstybės tarnautojo pareigas pareigūnui darbo užmokestis nustatomas pagal jo einamas ne statutinio valstybės tarnautojo pareigas, tačiau ne mažesnis kaip nustatytasis iki perkėlimo. Pasibaigus pareigūno perkėlimo į karjeros valstybės tarnautojo pareigas laikotarpiui, pareigūnas grąžinamas į iki perkėlimo eitas pareigas, o kai šių pareigų nėra, jo rašytiniu sutikimu gali būti skiriamas į kitas lygiavertes pareigas, o kai ir šių pareigų nėra, – laikinai, iki atsiras laisvos lygiavertės pareigos, jo rašytiniu sutikimu gali būti skiriamas į žemesnes pareigas. Visais atvejais šiam pareigūnui mokamas ne mažesnis negu iki perkėlimo į karjeros valstybės tarnautojo pareigas nustatytas darbo užmokestis. 
 
 
-Papildyta straipsniu:
-Nr. XIII-1822, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21844
+Straipsnio pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
  
 
 
@@ -1773,7 +1808,10 @@ Nr. XIII-1822, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21844
 
 
 
-5. Į vidaus tarnybą Kalėjimų departamente ir jam pavaldžiose statutinėse įstaigose taip pat draudžiama rotacijos tvarka perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba kai jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti viešųjų ir privačių interesų konfliktą.
+5. Į vidaus tarnybą Kalėjimų departamente ir jam pavaldžiose statutinėse įstaigose taip pat draudžiama rotacijos tvarka perkelti pareigūną, kurio sutuoktinis, sugyventinis (partneris), artimasis giminaitis ar svainystės ryšiais susijęs asmuo yra laikomas tardymo izoliatoriuje arba pataisos įstaigoje arba kai jo priežiūrą vykdo probacijos tarnyba ir tai gali sukelti interesų konfliktą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+ 
 
 
 
@@ -1827,7 +1865,15 @@ Nr. XIII-1822, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21844
 
 
 
-7) paties prašymu.
+7) paties prašymu;
+
+
+
+
+8) laimėjus atranką. 
+Papildyta straipsnio punktu:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+ 
 
 
 
@@ -1848,6 +1894,24 @@ Nr. XIII-1822, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21844
  
 
 
+
+
+
+
+331 straipsnis. Atsiskaitymas su perkeliamais į kitas pareigūno pareigas pareigūnais
+
+
+1. Su perkeliamu į kitas pareigūno pareigas kitoje statutinėje įstaigoje, priklausančioje kitai statutinių įstaigų sistemai, pareigūnu turi būti visiškai atsiskaityta jo perkėlimo dieną, išskyrus atvejus, kai pareigūnas nevykdo šio straipsnio 2 dalyje nustatytų reikalavimų.
+
+
+
+
+2. Pareigūnas, perkeliamas į kitas pareigūno pareigas kitoje statutinėje įstaigoje arba šio statuto 311 straipsnyje nustatyta tvarka perkeliamas į karjeros valstybės tarnautojo pareigas, privalo ne vėliau kaip jo perkėlimo dieną grąžinti pareigūno tarnybinį pažymėjimą, specialų ženklą, tarnybinį šaunamąjį ginklą, specialiąsias priemones ir sprogmenis jį į pareigas skiriančiam asmeniui arba jo įgaliotam asmeniui, taip pat atiduoti jam patikėtus tarnybinius dokumentus, inventorių, kitas darbo priemones. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+ 
 
 
 
@@ -2076,7 +2140,9 @@ Nr. XIII-1822, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21844
 
 
 
-2. Vertinimo komisija sudaroma 2 metams iš ne mažiau kaip 5 narių. Vertinimo komisiją sudariusio asmens motyvuotu sprendimu arba komisijos nario motyvuotu prašymu vertinimo komisijos sudėtis gali būti keičiama nepraėjus 2 metams nuo sudarymo dienos. Jeigu statutinėje įstaigoje yra įsteigta profesinė sąjunga ir vertinamas pareigūnas yra šios profesinės sąjungos narys, vienas vertinimo komisijos narys turi būti šios profesinės sąjungos atstovas. Kitais atvejais vertinimo komisijoje stebėtojų teisėmis dalyvauja darbo tarybos atstovas. 
+2. Vertinimo komisija sudaroma 2 metams iš ne mažiau kaip 5 narių. Vertinimo komisiją sudariusio asmens motyvuotu sprendimu arba komisijos nario motyvuotu prašymu vertinimo komisijos sudėtis gali būti keičiama nepraėjus 2 metams nuo sudarymo dienos. Jeigu statutinėje įstaigoje veikia profesinė sąjunga ir vertinamas pareigūnas yra šios profesinės sąjungos narys, vienas vertinimo komisijos narys turi būti šios profesinės sąjungos atstovas. Kitais atvejais vertinimo komisijoje stebėtojų teisėmis dalyvauja darbo tarybos atstovas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
  
 
 
@@ -2193,25 +2259,32 @@ PAREIGŪNŲ SKATINIMAS IR ATSAKOMYBĖ
 38 straipsnis. Pareigūnų atsakomybė
 
 
-1. Pareigūnai, kurie atlikdami pareigas pažeidė įstatymų reikalavimus, įstatymų ir kitų teisės aktų nustatyta tvarka, atsižvelgiant į pažeidimo pobūdį, traukiami tarnybinėn, administracinėn, materialinėn ar baudžiamojon atsakomybėn. Pareigūnai už tarnybinius nusižengimus ar pareigūno vardą žeminančią veiką tarnybinėn atsakomybėn traukiami neatsižvelgiant į baudžiamosios ar administracinės atsakomybės taikymą.
+1. Pareigūnai, kurie atlikdami pareigas pažeidė įstatymų reikalavimus, įstatymų ir kitų teisės aktų nustatyta tvarka, atsižvelgiant į pažeidimo pobūdį, traukiami tarnybinėn, administracinėn, materialinėn ar baudžiamojon atsakomybėn. Pareigūnai už mažareikšmius tarnybinius nusižengimus tarnybinėn atsakomybėn netraukiami. Pareigūnai už tarnybinius nusižengimus ar pareigūno vardą žeminančią veiką tarnybinėn atsakomybėn traukiami neatsižvelgiant į baudžiamosios ar administracinės atsakomybės taikymą.
 
 
 
 
-2. Už statutinei įstaigai, kitai valstybės ar savivaldybių institucijai padarytą žalą pareigūnai įstatymų nustatyta tvarka traukiami materialinėn atsakomybėn. 
+2. Mažareikšmiu tarnybiniu nusižengimu laikomas tarnybinis nusižengimas, kuris yra formalus, nesukėlė neigiamų padarinių, o tarnybinės nuobaudos paskyrimas būtų neproporcingas tarnybinio nusižengimo sunkumui. 
 
 
 
 
-3. Įsakymų ar nurodymų vykdymas, žinant, kad jie yra neteisėti, pareigūnų nuo atsakomybės neatleidžia.
+3. Už statutinei įstaigai, kitai valstybės ar savivaldybių institucijai padarytą žalą pareigūnai įstatymų nustatyta tvarka traukiami materialinėn atsakomybėn. 
 
 
 
 
-4. Pareigūnai, veikiantys pagal įstatymuose ir kituose teisės aktuose nustatytus įgaliojimus, neatsako už žalą, padarytą veikiant pagal įstatymuose ir kituose teisės aktuose nustatytus įgaliojimus.
+4. Įsakymų ar nurodymų vykdymas, žinant, kad jie yra neteisėti, pareigūnų nuo atsakomybės neatleidžia.
+
+
+
+
+5. Pareigūnai, veikiantys pagal įstatymuose ir kituose teisės aktuose nustatytus įgaliojimus, neatsako už žalą, padarytą veikiant pagal įstatymuose ir kituose teisės aktuose nustatytus įgaliojimus. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
  
-
-
 
 
 
@@ -2275,7 +2348,10 @@ Nr. XIII-2575, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19882
 
 
 
-4) Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimų pažeidimą siekiant gauti neteisėtų pajamų ar privilegijų sau ar kitiems asmenims;
+4) Viešųjų ir privačių interesų derinimo įstatymo nuostatų pažeidimą siekiant gauti neteisėtų pajamų ar privilegijų sau ar kitiems asmenims; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+ 
 
 
 
@@ -2312,7 +2388,10 @@ Nr. XIII-2575, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19882
 
 
 
-4. Tarnybinė nuobauda turi būti paskirta ne vėliau kaip per 30 dienų nuo tarnybinio nusižengimo paaiškėjimo dienos, šio straipsnio 9 dalyje nustatytais atvejais – ne vėliau kaip per 2 mėnesius nuo baudžiamojo proceso ar bylos dėl administracinio nusižengimo teisenos pabaigos, o kai kompetentinga institucija atlieka tyrimą, – ne vėliau kaip per 2 mėnesius nuo kompetentingos institucijos atlikto tyrimo, patikrinimo pabaigos dienos. Negalima skirti tarnybinės nuobaudos, jei nuo tarnybinio nusižengimo padarymo dienos praėjo vieni metai, išskyrus atvejus, kai tarnybinis patikrinimas sustabdomas šio straipsnio 9 dalyje nustatytais atvejais arba kai tarnybinis nusižengimas nustatomas atliekant auditą, piniginių ar kitokių vertybių inventorizaciją ar kompetentingos institucijos atliekamo tyrimo, patikrinimo metu, arba kai yra pažeidžiamos Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo nuostatos. Šiais atvejais tarnybinė nuobauda turi būti paskirta ne vėliau kaip per 3 metus nuo tarnybinio nusižengimo padarymo dienos. Tarnybinei atsakomybei už pareigūno vardo pažeminimą taip pat taikomas 3 metų tarnybinės atsakomybės senaties terminas, skaičiuojamas nuo veikos padarymo dienos.
+4. Tarnybinė nuobauda turi būti paskirta ne vėliau kaip per 30 dienų nuo tarnybinio nusižengimo paaiškėjimo dienos, šio straipsnio 9 dalyje nustatytais atvejais – ne vėliau kaip per 2 mėnesius nuo baudžiamojo proceso ar bylos dėl administracinio nusižengimo teisenos pabaigos, o kai kompetentinga institucija atlieka tyrimą, – ne vėliau kaip per 2 mėnesius nuo kompetentingos institucijos atlikto tyrimo, patikrinimo pabaigos dienos. Negalima skirti tarnybinės nuobaudos, jei nuo tarnybinio nusižengimo padarymo dienos praėjo vieni metai, išskyrus atvejus, kai tarnybinis patikrinimas sustabdomas šio straipsnio 9 dalyje nustatytais atvejais arba kai tarnybinis nusižengimas nustatomas atliekant auditą, piniginių ar kitokių vertybių inventorizaciją ar kompetentingos institucijos atliekamo tyrimo, patikrinimo metu, arba kai yra pažeidžiamos Viešųjų ir privačių interesų derinimo įstatymo nuostatos. Šiais atvejais tarnybinė nuobauda turi būti paskirta ne vėliau kaip per 3 metus nuo tarnybinio nusižengimo padarymo dienos. Tarnybinei atsakomybei už pareigūno vardo pažeminimą taip pat taikomas 3 metų tarnybinės atsakomybės senaties terminas, skaičiuojamas nuo veikos padarymo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+ 
 
 
 
@@ -2988,7 +3067,10 @@ Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
 
 
 
-4. Pareigūnui, paskirtam į aukštesnes pareigas tarnybinės veiklos vertinimo ar atrankos būdu, taip pat šio statuto 29 straipsnio 1 ir 3 dalyse nustatyta tvarka, pareiginė alga nustatoma pagal šio statuto priede šiai pareigybei nustatytą pareiginės algos koeficientų intervalą, taikant ne mažiau kaip 0,5 ir ne daugiau kaip 1,5 didesnį pareiginės algos koeficientą, negu jam iki paskyrimo buvo nustatyta, tačiau neviršijantį tai pareigybei nustatyto didžiausio pareiginės algos koeficiento.
+4. Pareigūnui, paskirtam į aukštesnes pareigas tarnybinės veiklos vertinimo ar atrankos būdu, taip pat šio statuto 29 straipsnio 1 ir 3 dalyse nustatyta tvarka, pareiginė alga nustatoma pagal šio statuto priede šiai pareigybei nustatytą pareiginės algos koeficientų intervalą, taikant ne mažiau kaip 0,5 ir ne daugiau kaip 1,5 didesnį pareiginės algos koeficientą, negu jam iki paskyrimo buvo nustatyta, tačiau neviršijantį tai pareigybei nustatyto didžiausio pareiginės algos koeficiento ir ne mažesnį negu mažiausias tai pareigybei nustatytas pareiginės algos koeficientas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+ 
 
 
 
@@ -3246,9 +3328,10 @@ PAREIGŪNŲ SVEIKATOS PRIEŽIŪRA IR SU TUO SUSIJUSIOS SOCIALINĖS GARANTIJOS
 59 straipsnis. Kompensacijos pareigūno ar kursanto mirties arba sveikatos sutrikdymo atvejais
 
 
-1. Pareigūno, kuris žuvo atlikdamas tarnybines pareigas arba kurio mirties priežastis yra susijusi su jo tarnybinių pareigų atlikimu, arba kuris nužudytas dėl tarnybinių pareigų atlikimo ar pareigūno statuso, šeimai per vienus metus nuo pareigūno mirties išmokama 93,1 mėnesio jo vidutinio darbo užmokesčio dydžio vienkartinė kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu. Ši kompensacija išmokama lygiomis dalimis kiekvienam žuvusio pareigūno šeimos nariui ir nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą. Žuvusio pareigūno šeimos nariai, turintys teisę gauti šioje dalyje numatytą kompensaciją, yra jo vaikai (įvaikiai) (įskaitant vaikus, gimusius po pareigūno mirties), kol jiems sukaks 18 metų, taip pat vyresni vaikai (įvaikiai), kurie mokosi įregistruotose bendrojo ugdymo mokyklose ir statutinėse profesinio mokymo įstaigose pagal bendrojo ugdymo ir profesinio mokymo programas grupinio mokymosi forma kasdieniu, neakivaizdiniu ir nuotoliniu mokymo proceso organizavimo būdais ar pavienio mokymosi forma savarankišku ir nuotoliniu mokymo proceso organizavimo būdais arba studijuoja aukštojoje mokykloje pagal nuolatinės formos studijų programas, kol jiems sukaks 24 metai, sutuoktinis, sugyventinis (partneris), tėvas (įtėvis) ir motina (įmotė). 
+1. Pareigūno, kuris žuvo atlikdamas tarnybines pareigas arba kurio mirties priežastis yra susijusi su jo tarnybinių pareigų atlikimu, arba kuris nužudytas dėl tarnybinių pareigų atlikimo ar pareigūno statuso, šeimai per vienus metus nuo pareigūno mirties išmokama 93,1 mėnesio jo vidutinio darbo užmokesčio dydžio vienkartinė kompensacija, sumažinta priklausančios išmokėti Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu. Ši kompensacija išmokama lygiomis dalimis kiekvienam žuvusio pareigūno šeimos nariui ir išlaikytiniams, kurių globėju ar rūpintoju yra paskirtas pareigūnas ar jo sutuoktinis, sugyventinis (partneris). Žuvusio pareigūno šeimos nariai, turintys teisę gauti šioje dalyje numatytą kompensaciją, yra jo vaikai (įvaikiai) (įskaitant vaikus, gimusius po pareigūno mirties), kol jiems sukaks 18 metų, taip pat vyresni vaikai (įvaikiai), kurie mokosi įregistruotose bendrojo ugdymo mokyklose ir statutinėse profesinio mokymo įstaigose pagal bendrojo ugdymo ir profesinio mokymo programas grupinio mokymosi forma kasdieniu, neakivaizdiniu ir nuotoliniu mokymo proceso organizavimo būdais ar pavienio mokymosi forma savarankišku ir nuotoliniu mokymo proceso organizavimo būdais arba studijuoja aukštojoje mokykloje pagal nuolatinės formos studijų programas, kol jiems sukaks 24 metai, sutuoktinis, sugyventinis (partneris), tėvas (įtėvis) ir motina (įmotė). 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1790, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21121
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
  
 
 
@@ -3612,12 +3695,18 @@ Pareigūnų, jų šeimos narių ir jų nuosavybės apsauga, kai dėl pareigūno 
 69 straipsnis. Kompensacijos, pašalpos ir kitos išmokos
 
 
-1. Pareigūnui ir jo šeimos nariams padaryta materialinė žala, kurią jie patyrė dėl su pareigūno tarnyba susijusių priežasčių ir kuri yra nustatyta remiantis tarnybinio patikrinimo išvada, atlyginama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+1. Pareigūnui ir jo šeimos nariams padaryta materialinė žala, kurią jie patyrė dėl su pareigūno tarnyba susijusių priežasčių ir kuri yra nustatyta remiantis tarnybinio patikrinimo išvada, atlyginama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Šioje dalyje nurodytais šeimos nariais laikomi šio straipsnio 2 dalyje nurodyti asmenys. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+ 
 
 
 
 
-2. Pareigūnui, kurio materialinė padėtis sunki dėl jo paties ar jo šeimos nario ligos, šeimos nario mirties, stichinės nelaimės ar turto netekimo, jeigu yra pareigūno rašytinis prašymas ir pateikti šias aplinkybes patvirtinantys dokumentai, gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio pašalpa. Pareigūno, kuris mirė dėl priežasčių, nesusijusių su tarnyba, šeimos nariams išmokama 2 minimaliųjų mėnesinių algų dydžio pašalpa. Šias pašalpas skiria statutinės įstaigos vadovas iš statutinei įstaigai skirtų lėšų. Statutinės įstaigos vadovui pašalpa skiriama iš jo vadovaujamai statutinei įstaigai skirtų lėšų. Pašalpą centrinės statutinės įstaigos vadovui skiria ministras.
+2. Pareigūnui, kurio materialinė padėtis sunki dėl jo paties ar jo artimųjų giminaičių, sutuoktinio, sugyventinio (partnerio), sutuoktinio, sugyventinio (partnerio) tėvo (įtėvio), motinos (įmotės), vaikų (įvaikių), brolių (įbrolių) ir seserų (įseserių), taip pat išlaikytinių, kurių globėju ar rūpintoju yra paskirtas pareigūnas ar jo sutuoktinis, sugyventinis (partneris), ligos ar mirties, stichinės nelaimės ar turto netekimo, jeigu yra pareigūno rašytinis prašymas ir pateikti šias aplinkybes patvirtinantys dokumentai, gali būti skiriama iki 5 minimaliųjų mėnesinių algų dydžio pašalpa. Pareigūno, kuris mirė dėl priežasčių, nesusijusių su tarnyba, sutuoktiniui, sugyventiniui (partneriui), vaikams (įvaikiams), tėvams (įtėviams) lygiomis dalimis išmokama 2 minimaliųjų mėnesinių algų dydžio pašalpa. Šias pašalpas skiria statutinės įstaigos vadovas iš statutinei įstaigai skirtų lėšų. Statutinės įstaigos vadovui pašalpa skiriama iš jo vadovaujamai statutinei įstaigai skirtų lėšų. Pašalpą centrinės statutinės įstaigos vadovui skiria ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+ 
 
 
 
@@ -3830,7 +3919,10 @@ ATLEIDIMAS IŠ VIDAUS TARNYBOS
 
 
 
-2) kai jam sukanka šio statuto 73 straipsnyje nustatytas amžius;
+2) kai jam sukanka šio statuto 73 straipsnyje nustatytas amžius arba baigiasi pratęstos jo tarnybos laikas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3176, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15239
+ 
 
 
 
@@ -3933,7 +4025,7 @@ ATLEIDIMAS IŠ VIDAUS TARNYBOS
 73 straipsnis. Pareigūnų vidaus tarnybos trukmė
 
 
-Pareigūnai gali tarnauti:
+1. Pareigūnai gali tarnauti:
 
 
 1) pirminės grandies pareigūnai – kol jiems sukaks 55 metai;
@@ -3947,11 +4039,19 @@ Pareigūnai gali tarnauti:
 
 
 3) aukštesniosios ir aukščiausiosios grandies pareigūnai – kol jiems sukaks 65 metai.
+
+
+
+
+
+
+2. Pirminės grandies pareigūnų vidaus tarnybos trukmė gali būti pratęsta vieniems metams, tačiau ne ilgiau, negu jiems sukaks 60 metų. Rašytinį prašymą pratęsti tarnybą pirminės grandies pareigūnai turi teisę pateikti ne vėliau kaip prieš 4 mėnesius iki šio straipsnio 1 dalies 1 punkte nustatytos jų tarnybos trukmės pabaigos. Tarnyba pirminės grandies pareigūnui pratęsiama jį į pareigas paskyrusio asmens sprendimu, jeigu šio pareigūno paskutinių 2 metų tarnybinė veikla buvo įvertinta gerai arba labai gerai, jo sveikatos būklė atitinka nustatytus reikalavimus (pagal tai patvirtinančią Centrinės medicinos ekspertizės komisijos išvadą), jis atitinka nustatytus fizinio pasirengimo reikalavimus ir nėra galimybių kitais būdais užtikrinti įstaigai nustatytų funkcijų atlikimą.
+TAR pastaba. Pirminės grandies pareigūnai, kuriems po įstatymo Nr. XIII-3176 įsigaliojimo (2020-07-09) iki jų tarnybos trukmės, nustatytos Lietuvos Respublikos vidaus tarnybos statuto 73 straipsnio 1 dalyje, pabaigos liko mažiau kaip 4 mėnesiai, rašytinį prašymą pratęsti tarnybą pagal Lietuvos Respublikos vidaus tarnybos statuto 73 straipsnio 2 dalį turi teisę pateikti per vieną mėnesį nuo šio įstatymo įsigaliojimo, bet ne vėliau kaip iki tarnybos trukmės pabaigos.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3176, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15239
  
-
-
-
-
 
 
 
@@ -3980,10 +4080,12 @@ Pareigūnai gali tarnauti:
 75 straipsnis. Atleidimas iš vidaus tarnybos šalių susitarimu
 
 
-Pareigūnas gali pateikti jį į pareigas skiriančiam asmeniui, o pareigūną į pareigas skiriantis asmuo – pareigūnui rašytinį pasiūlymą dėl atleidimo iš vidaus tarnybos šalių susitarimu. Jeigu šį pasiūlymą gavusi šalis su juo sutinka, ji turi per 7 dienas apie tai pranešti pasiūlymą pateikusiai šaliai. Jeigu pasiūlymą gavusi šalis per 7 dienas nepraneša, kad sutinka su gautu pasiūlymu, laikoma, kad pasiūlymas dėl atleidimo iš vidaus tarnybos šalių susitarimu atmestas. Šalims susitarus dėl pareigūno atleidimo iš vidaus tarnybos šalių susitarimu, sudaromas rašytinis susitarimas, kuriame nurodomas pareigūno atleidimo iš vidaus tarnybos šalių susitarimu laikas, nuo kurio pareigūnas atleidžiamas iš vidaus tarnybos, susitariama dėl išeitinės kompensacijos dydžio, nepanaudotų atostogų suteikimo ir gali būti susitariama dėl kitų sąlygų. 
+Pareigūnas gali pateikti jį į pareigas skiriančiam asmeniui, o pareigūną į pareigas skiriantis asmuo – pareigūnui rašytinį pasiūlymą dėl atleidimo iš vidaus tarnybos šalių susitarimu. Jeigu šį pasiūlymą gavusi šalis su juo sutinka, ji turi per 7 dienas apie tai pranešti pasiūlymą pateikusiai šaliai. Jeigu pasiūlymą gavusi šalis per 7 dienas nepraneša, kad sutinka su gautu pasiūlymu, laikoma, kad pasiūlymas dėl atleidimo iš vidaus tarnybos šalių susitarimu atmestas. Šalims susitarus dėl pareigūno atleidimo iš vidaus tarnybos šalių susitarimu, sudaromas rašytinis susitarimas, kuriame nurodomas pareigūno atleidimo iš vidaus tarnybos šalių susitarimu laikas, nuo kurio pareigūnas atleidžiamas iš vidaus tarnybos, susitariama dėl išeitinės kompensacijos dydžio, nepanaudotų atostogų suteikimo ir gali būti susitariama dėl kitų sąlygų. Rašytinio pasiūlymo ir rašytinio susitarimo dėl centrinės statutinės įstaigos vadovo atleidimo iš vidaus tarnybos šalių susitarimu šalimis laikomos centrinės statutinės įstaigos vadovas ir ministras. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
  
-
-
 
 
 
@@ -4501,3 +4603,13 @@ Lietuvos Respublikos vidaus tarnybos statuto 70 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
 Lietuvos Respublikos vidaus tarnybos statuto 4, 25, 36, 53, 69 straipsnių ir priedo pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3176, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15239
+Lietuvos Respublikos vidaus tarnybos statuto 72 ir 73 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
+Lietuvos Respublikos vidaus tarnybos statuto 16, 19, 20, 23, 24, 26, 28, 29, 30, 31, 31-1, 32, 33, 34, 35, 37, 38, 39, 51, 53, 56, 58, 59, 64, 68, 69, 75, 80 straipsnių pakeitimo ir Įstatymo papildymo 29-1, 33-1 straipsniais įstatymas
