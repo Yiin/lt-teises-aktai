@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-09
+Suvestinė redakcija nuo 2020-07-10 iki 2020-07-10
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -11319,7 +11319,9 @@ užtraukia baudą asmenims nuo trisdešimt iki penkių šimtų penkiasdešimt eu
 
 
 
-7. Už šio straipsnio 1, 2, 5, 6 dalyse numatytus administracinius nusižengimus gali būti skiriamas gyvūnų, gyvūninių produktų arba veterinarinių vaistų konfiskavimas. Už šio straipsnio 3, 4 dalyse numatytus administracinius nusižengimus privaloma skirti gyvūnų konfiskavimą.
+7. Už šio straipsnio 1, 2, 5, 6 dalyse numatytus administracinius nusižengimus gali būti skiriamas gyvūnų, gyvūninių produktų, šalutinių gyvūninių produktų ir jų gaminių, genetinės medžiagos produktų, veterinarinių priemonių arba veterinarinių vaistų konfiskavimas. Už šio straipsnio 3, 4 dalyse numatytus administracinius nusižengimus privaloma skirti gyvūnų konfiskavimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3208, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15401
  
 
 
@@ -11342,8 +11344,9 @@ užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto keturiasdešimt 
 
 
 
-3. Šio straipsnio 1 dalyje nurodytos veikos, sukėlusios pavojų žmonių ir (arba) gyvūnų sveikatai arba lėmusios nesaugių pašarų gamybą ir (arba) išplatinimą,
-užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų iki vieno tūkstančio penkių šimtų eurų.
+3. Neteko galios nuo 2020-07-10
+Straipsnio dalies naikinimas:
+Nr. XIII-3208, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15401
  
 
 
@@ -23016,7 +23019,9 @@ Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 
 
 
-20. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 882/2004 dėl oficialios kontrolės, kuri atliekama siekiant užtikrinti, kad būtų įvertinama, ar laikomasi pašarus ir maistą reglamentuojančių teisės aktų, gyvūnų sveikatos ir gerovės taisyklių (OL 2004 m. specialusis leidimas, 3 skyrius, 45 tomas, p. 200), su paskutiniais pakeitimais, padarytais 2011 m. kovo 2 d. Komisijos reglamentu (ES) Nr. 208/2011 (OL 2011 L 58, p. 29).
+20. Neteko galios nuo 2020-07-10
+Punkto naikinimas:
+Nr. XIII-3208, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15401
 Punkto numeracijos pakeitimas:
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
@@ -23820,6 +23825,14 @@ Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
 
 
 
+1002. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/625 dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas) (OL 2017 L 95, p. 1), su paskutiniais pakeitimais, padarytais 2019 m. kovo 12 d. Komisijos deleguotuoju reglamentu (ES) 2019/1012 (OL 2019 L 165, p. 4). 
+Papildyta punktu:
+Nr. XIII-3208, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15401
+ 
+
+
+
+
 101. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1). 
 Papildyta punktu:
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
@@ -24410,3 +24423,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 512 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3095, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14364
 Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 188-1 straipsniu ir 190, 589 straipsnių pakeitimo įstatymo Nr. XIII-2354 3 straipsnio pakeitimo įstatymas
+ 
+109.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3208, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15401
+Lietuvos Respublikos administracinių nusižengimų kodekso 343, 344 straipsnių ir priedo pakeitimo įstatymas
