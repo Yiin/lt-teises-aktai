@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F"
 
 # Lietuvos Respublikos vidaus vandenų transporto kodeksas
 
-Suvestinė redakcija nuo 2019-11-01 iki 2020-07-09
+Suvestinė redakcija nuo 2020-07-10 iki 2021-05-31
  
 Kodeksas paskelbtas: Žin. 1996, Nr. 105-2393, i. k. 0961010KODE00I-1534
  
@@ -1482,7 +1482,30 @@ VIDAUS VANDENŲ TRANSPORTO PERSONALAS
 
 
 
-2. Motorinių pramoginių laivų laivavedžiai – motorinių pramoginių laivų ir kitų motorinių plaukiojimo priemonių vairuotojai, turintys motorinio pramoginio laivo laivavedžio kvalifikacijos liudijimą ar motorinio pramoginio laivo laivavedžio tarptautinį kvalifikacijos liudijimą.
+2. Motorinių pramoginių laivų laivavedžiai – motorinių pramoginių laivų ir kitų motorinių plaukiojimo priemonių vairuotojai, turintys motorinio pramoginio laivo laivavedžio kvalifikacijos liudijimą ar motorinio pramoginio laivo laivavedžio tarptautinį kvalifikacijos liudijimą. Motorinių pramoginių laivų laivavedžiais, kuriems netaikomas reikalavimas turėti motorinio pramoginio laivo laivavedžio kvalifikacijos liudijimą ar motorinio pramoginio laivo laivavedžio tarptautinį kvalifikacijos liudijimą, taip pat yra laikomi šie asmenys:
+
+
+1) vyresni negu 18 metų motorinių pramoginių laivų, kurių variklio galia yra ne didesnė kaip 19 kW (25 AG) ir kurie plaukioja vidaus vandenų plaukiojimo rajone, išskyrus Klaipėdos valstybinio jūrų uosto akvatoriją, bei plukdo iki 12 asmenų, laivavedžiai;
+
+
+
+
+2) vadovaujantys vidaus vandenų transporto specialistai, turintys teisę valdyti vidaus vandenų laivus ir turintys galiojančius dokumentus, kuriais patvirtinama įgyta vidaus vandenų transporto specialisto kvalifikacija ir teisė eiti atitinkamas pareigas laive, valdantys motorinius pramoginius laivus ir kitas motorines plaukiojimo priemones vidaus vandenų plaukiojimo rajone ir pakrančių plaukiojimo rajone;
+
+
+
+
+3) asmenys, turintys budinčiojo kapitono padėjėjo, vyresniojo kapitono padėjėjo ir kapitono jūrinio laipsnio diplomus, valdantys motorinius pramoginius laivus ir kitas motorines plaukiojimo priemones vidaus vandenų plaukiojimo rajone ir pakrančių plaukiojimo rajone;
+
+
+
+
+4) Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos arba paplūdimio administratoriaus nurodymu skęstančiųjų gelbėjimo darbus vykdantys juridinių asmenų darbuotojai (toliau šiame straipsnyje – darbuotojai), valdantys motorinius pramoginius laivus ir kitas motorines plaukiojimo priemones vidaus vandenų plaukiojimo rajone ir pakrančių plaukiojimo rajone jų darbo laiku skęstančiųjų gelbėjimo funkcijai, numatytai jų pareigybės aprašyme (nuostatuose) ir (ar) darbo sutartyje, atlikti darbdavio suteiktomis darbo priemonėmis. Darbdavys privalo užtikrinti, kad darbuotojai yra išmokyti saugiai valdyti motorinius pramoginius laivus ar kitas motorines plaukiojimo priemones.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-3182, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15383
+ 
 
 
 
@@ -2902,3 +2925,8 @@ Lietuvos Respublikos vidaus vandenų transporto kodekso 4, 4-1, 4-2, 6, 13, 16, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2295, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12123
 Lietuvos Respublikos vidaus vandenų transporto kodekso 4, 14, 16, 19, 26, 41 straipsnių ir priedo pakeitimo ir Kodekso papildymo 16-1, 16-2, 24-1 straipsniais įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3182, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15383
+Lietuvos Respublikos vidaus vandenų transporto kodekso 18 straipsnio pakeitimo įstatymas
