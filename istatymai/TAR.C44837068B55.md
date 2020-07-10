@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2020-01-10 iki 2020-07-09
+Suvestinė redakcija nuo 2020-07-10 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -1023,8 +1023,9 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 41. Lietuvos Respublikoje mokėjimai, atliekami naudojantis trečiosiose valstybėse išduotomis anoniminėmis elektroninių pinigų mokėjimo priemonėmis, vykdomi tik tais atvejais, kai tokios priemonės atitinka šio straipsnio 4 dalyje nustatytus reikalavimus. 
-TAR pastaba. 9 straipsnis papildomas 41 dalimi nuo 2020-07-10.
 Papildyta straipsnio dalimi:
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
  
 
@@ -1110,8 +1111,6 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-7) šio straipsnio 9 dalyje nurodytais atvejais vienu metu įmoka sumas ar atsiima kelis laimėjimus, kurių suma viršija 1 000 eurų arba ją atitinkančią sumą užsienio valiuta;
-7 punkto redakcija nuo 2020-07-10:
 7) šio straipsnio 9 dalyje nurodytais atvejais per parą įmoka sumas ar atsiima kelis laimėjimus, kurių suma viršija 1 000 eurų arba ją atitinkančią sumą užsienio valiuta;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
