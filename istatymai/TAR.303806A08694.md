@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/303806a0869411e8af589337bf1eb893"
 
 # Lietuvos Respublikos technologijų ir inovacijų įstatymas
 
-Suvestinė redakcija nuo 2019-08-01 iki 2020-07-10
+Suvestinė redakcija nuo 2020-07-11 iki 2020-12-31
  
 Įstatymas paskelbtas: TAR 2018-07-13, i. k. 2018-11954
  
@@ -964,11 +964,12 @@ Vyriausybė iki 2020 m. kovo 1 d. Lietuvos Respublikos Seimui pateikia Lietuvos 
 26 straipsnis. Įstatymo įgyvendinimas
 
 
-Šio įstatymo 14 straipsnyje nurodyta biudžetinė įstaiga gali būti pertvarkoma į viešąją įstaigą Inovacijų agentūrą. Pertvarkius šio įstatymo 14 straipsnyje nurodytą biudžetinę įstaigą į viešąją įstaigą Inovacijų agentūrą, visas šio įstatymo 14 straipsnyje nurodytas Vyriausybės įgaliotos institucijos funkcijas atlieka viešoji įstaiga Inovacijų agentūra ir šių funkcijų atlikimas finansuojamas iš valstybės biudžeto asignavimų ir (arba) kitų lėšų.
+Šio įstatymo 14 straipsnyje nurodyta biudžetinė įstaiga gali būti pertvarkoma į viešąją įstaigą. Pertvarkius šio įstatymo 14 straipsnyje nurodytą biudžetinę įstaigą į viešąją įstaigą, visas šio įstatymo 14 straipsnyje nurodytas Vyriausybės įgaliotos institucijos funkcijas atlieka ši viešoji įstaiga ir šių funkcijų atlikimas finansuojamas iš valstybės biudžeto asignavimų ir (arba) kitų lėšų.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
+Nr. XIII-3168, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15501
  
 
 
@@ -1011,3 +1012,13 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
 Lietuvos Respublikos technologijų ir inovacijų įstatymo Nr. XIII-1414 9, 10, 11, 12, 15, 19, 21 ir 26 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3102, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15308
+Lietuvos Respublikos technologijų ir inovacijų įstatymo Nr. XIII-1414 7, 11 ir 17 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3168, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15501
+Lietuvos Respublikos technologijų ir inovacijų įstatymo Nr. XIII-1414 14, 21 ir 26 straipsnių pakeitimo įstatymas
