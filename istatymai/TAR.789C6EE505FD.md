@@ -20,14 +20,9 @@ LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-07-10
+Suvestinė redakcija nuo 2020-07-11 iki 2020-07-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 81-3176, i. k. 1081010ISTA00X-1666
- 
-TAR pastaba. Iki įstatymo Nr. XIII-2275 įsigaliojimo (2020-01-01) Vyriausiosios tarnybinės etikos komisijos pradėti tyrimai baigiami pagal iki šio įstatymo įsigaliojimo galiojusį teisinį reguliavimą. Iki šio įstatymo įsigaliojimo paskirti Vyriausiosios tarnybinės etikos komisijos nariai pareigas eina tol, kol jų įgaliojimai pasibaigia šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo 14 straipsnyje nustatytais pagrindais. Pasibaigus Vyriausiosios tarnybinės etikos komisijos nario, kurio kandidatūrą teikė Lietuvos savivaldybių asociacijos prezidentas, įgaliojimams, naujas Vyriausiosios tarnybinės etikos komisijos narys skiriamas Nacionalinės nevyriausybinių organizacijų tarybos teikimu. Šio įstatymo 1 straipsnyje išdėstyto Vyriausiosios tarnybinės etikos komisijos įstatymo 6 straipsnyje nustatyti reikalavimai taikomi po šio įstatymo įsigaliojimo skiriamam Vyriausiosios tarnybinės etikos komisijos nariui.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2275, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11196
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 pakeitimo įstatymas
  
 Nauja redakcija nuo 2020-01-01:
 Nr. XIII-2275, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11196
@@ -128,10 +123,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-4 straipsnis. VTEK veiklos viešumas 
+4 straipsnis. VTEK veiklos viešumas
 
 
-1. VTEK posėdžiai yra vieši, išskyrus šio įstatymo 16 straipsnio 4 dalyje numatytus atvejus, kai VTEK posėdis gali būti uždaras. Apibendrintos VTEK posėdžių darbotvarkės skelbiamos viešai Komisijos interneto svetainėje Reglamento nustatyta tvarka. Asmenys šio įstatymo nustatyta tvarka turi teisę dalyvauti VTEK posėdžiuose ir pareikšti savo nuomonę.
+1. VTEK posėdžiai yra vieši, išskyrus šio įstatymo 16 straipsnio 4 dalyje numatytus atvejus, kai VTEK posėdis gali būti uždaras. Asmenys šio įstatymo nustatyta tvarka turi teisę dalyvauti VTEK posėdžiuose ir pareikšti savo nuomonę.
 
 
 
@@ -141,25 +136,17 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Visuomenės informavimo tikslais VTEK interneto svetainėje Reglamento nustatyta tvarka viešai skelbiami:
-
-
-1) VTEK posėdžio darbotvarkės klausimai, susiję su Komisijos priimtais sprendimais atlikus tyrimus;
+3. Visuomenės informavimo tikslais VTEK interneto svetainėje Reglamento nustatyta tvarka viešai skelbiamos apibendrintos VTEK posėdžių darbotvarkės, taip pat informacija apie VTEK atliekamus tyrimus ir atlikus tyrimus priimtus sprendimus.
 
 
 
 
-2) informacija apie atliekamus tyrimus ir atlikus tyrimus priimtus sprendimus.
+4. Šio straipsnio 3 dalyje numatytais atvejais skelbiami asmens, dėl kurio VTEK atlieka ar atliko veiksmus, vardas, pavardė, darbovietė, pareigos, VTEK veiksmų pagrindas, dalykas ir priimtas sprendimas. 
 
 
-
-
-
-
-4. Šio straipsnio 3 dalyje numatytais atvejais skelbiami asmens, dėl kurio VTEK atlieka ar atliko veiksmus, vardas, pavardė, VTEK veiksmų pagrindas, dalykas ir priimtas sprendimas.
+Straipsnio pakeitimai:
+Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
  
-
-
 
 
 
@@ -216,7 +203,10 @@ VTEK nariu gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublik
 
 
 
-2. Po vieną kandidatą į VTEK narius Seimui teikia Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas, Lietuvos teisininkų draugija ir Nacionalinė nevyriausybinių organizacijų taryba. VTEK nario kandidatūrą teikiantis subjektas privalo ne vėliau kaip prieš 3 mėnesius iki atitinkamo Komisijos nario kadencijos pabaigos pateikti Seimui VTEK nario kandidatūrą. Komisijos nario įgaliojimams nutrūkus šio įstatymo 14 straipsnio 1 dalies 2–9 punktuose nurodytais pagrindais, VTEK nario kandidatūrą teikiantis subjektas naują VTEK nario kandidatūrą privalo pateikti Seimui ne vėliau kaip per vieną mėnesį nuo to Komisijos nario įgaliojimų pabaigos dienos. Jeigu per šioje dalyje nurodytą laiką VTEK nario kandidatūra nepateikta, Seimo Pirmininkas kreipiasi į visus subjektus, turinčius teisę teikti VTEK narių kandidatūras, ir pasiūlo pateikti po kandidatą į VTEK narius. Seimas už pateiktus kandidatus į VTEK narius balsuoja alternatyviai, o nauju VTEK nariu skiriamas daugiausia balsų surinkęs kandidatas.
+2. Po vieną kandidatą į VTEK narius Seimui teikia Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas, Lietuvos teisininkų draugija ir Nevyriausybinių organizacijų taryba. VTEK nario kandidatūrą teikiantis subjektas privalo ne vėliau kaip prieš 3 mėnesius iki atitinkamo Komisijos nario kadencijos pabaigos pateikti Seimui VTEK nario kandidatūrą. Komisijos nario įgaliojimams nutrūkus šio įstatymo 14 straipsnio 1 dalies 2–9 punktuose nurodytais pagrindais, VTEK nario kandidatūrą teikiantis subjektas naują VTEK nario kandidatūrą privalo pateikti Seimui ne vėliau kaip per vieną mėnesį nuo to Komisijos nario įgaliojimų pabaigos dienos. Jeigu per šioje dalyje nurodytą laiką VTEK nario kandidatūra nepateikta, Seimo Pirmininkas kreipiasi į visus subjektus, turinčius teisę teikti VTEK narių kandidatūras, ir pasiūlo pateikti po kandidatą į VTEK narius. Seimas už pateiktus kandidatus į VTEK narius balsuoja alternatyviai, o nauju VTEK nariu skiriamas daugiausia balsų surinkęs kandidatas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
+ 
 
 
 
@@ -614,7 +604,10 @@ VTEK ĮGALIOJIMAI IR VTEK POSĖDŽIAI
 
 
 
-5) šio įstatymo numatytais atvejais veikia kaip privaloma išankstinė ginčų nagrinėjimo institucija;
+5) šio įstatymo numatytais atvejais nagrinėdama skundus, veikia kaip privaloma išankstinė ginčų nagrinėjimo ne teisme institucija; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
+ 
 
 
 
@@ -679,7 +672,15 @@ VTEK ĮGALIOJIMAI IR VTEK POSĖDŽIAI
 
 
 
-18) renka, kaupia, sistemina ir analizuoja duomenis (įskaitant asmens duomenis ir specialių kategorijų asmens duomenis), reikalingus interesų konfliktų rizikos stebėsenai, rizikos valdymui ir prevencijai, apribojimų pasibaigus tarnybai laikymosi priežiūrai.
+18) renka, kaupia, sistemina ir analizuoja duomenis (įskaitant asmens duomenis ir specialių kategorijų asmens duomenis), reikalingus interesų konfliktų rizikos stebėsenai, rizikos valdymui ir prevencijai, apribojimų pasibaigus tarnybai laikymosi priežiūrai;
+
+
+
+
+19) priima sprendimus dėl nustatytų apribojimų taikymo išimčių pagal Viešųjų ir privačių interesų derinimo įstatymo 18 straipsnį. 
+Papildyta straipsnio punktu:
+Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
+ 
 
 
 
@@ -804,7 +805,9 @@ VTEK ĮGALIOJIMAI IR VTEK POSĖDŽIAI
 
 
 KETVIRTASIS SKIRSNIS
-PRANEŠIMŲ TYRIMAS IR VTEK SPRENDIMŲ PRIĖMIMAS
+PRANEŠIMŲ TYRIMAS, SKUNDŲ NAGRINĖJIMAS IR VTEK SPRENDIMŲ PRIĖMIMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
  
 
 
@@ -1302,7 +1305,7 @@ Pranešimams pateikti ar tyrimui savo iniciatyva pradėti nustatomas 3 metų ter
 
 
 
-2. Šio įstatymo 30 straipsnio 1 dalyje nurodyti VTEK sprendimai, VTEK narių vardinio balsavimo rezultatai ir atskirosios nuomonės pažeidimų prevencijos tikslais vienus metus po sprendimo priėmimo viešai skelbiami VTEK interneto svetainėje, nepateikiant šių sprendimuose nurodytų duomenų: 
+2. Šio įstatymo 30 straipsnio 1 dalies 1–5 ir 7 punktuose nurodyti VTEK sprendimai, VTEK narių vardinio balsavimo rezultatai ir atskirosios nuomonės pažeidimų prevencijos tikslais vienus metus, o šiurkštaus Viešųjų ir privačių interesų derinimo įstatymo nuostatų pažeidimo atveju – trejus metus po sprendimo priėmimo viešai skelbiami VTEK interneto svetainėje, nepateikiant šių duomenų:
 
 
 1) asmenų, dėl kurių priimtas sprendimas, ir kitų fizinių asmenų asmens kodų, gyvenamosios vietos adresų, gimimo, santuokos, ištuokos ir mirties datų bei vietos, duomenų apie asmens tapatybę patvirtinantį dokumentą, telefono numerių, elektroninio pašto adresų ir kitų kontaktinių duomenų, privačių transporto priemonių valstybinių numerių, banko ar kitų kredito įstaigų privačių sąskaitų numerių, unikalių nekilnojamojo ar kito registruotino turto numerių, tikslių šio turto buvimo vietos adresų. Be to, neskelbiami kitų fizinių asmenų vardai ir pavardės;
@@ -1310,19 +1313,28 @@ Pranešimams pateikti ar tyrimui savo iniciatyva pradėti nustatomas 3 metų ter
 
 
 
-2) asmens, kuris pateikė pranešimą, asmens duomenų.
+2) asmens, kuris pateikė pranešimą, asmens duomenų. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
+ 
 
 
 
 
+3. Pasibaigus šio straipsnio 2 dalyje nustatytam terminui, VTEK sprendimuose ir atskirosiose nuomonėse viešai nebeskelbiami ir asmenų, dėl kurių elgesio priimtas sprendimas, vardai ir pavardės. Tokie VTEK sprendimai ir atskirosios nuomonės viešai skelbiami neterminuotai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
+ 
 
 
-3. Pasibaigus šio straipsnio 2 dalyje nustatytam terminui, VTEK sprendimuose viešai nebeskelbiami ir asmenų, dėl kurių elgesio priimtas sprendimas, vardai ir pavardės. Tokie VTEK sprendimai viešai skelbiami neterminuotai.
 
 
-
-
-4. VTEK sprendimai skelbiami laikantis valstybės, tarnybos, profesinės, komercinės, banko ir kitų įstatymų saugomų paslapčių ar konfidencialios informacijos apsaugą reglamentuojančių teisės aktų reikalavimų.
+4. VTEK sprendimai ir atskirosios nuomonės skelbiami laikantis valstybės, tarnybos, profesinės, komercinės, banko ir kitų įstatymų saugomų paslapčių ar konfidencialios informacijos apsaugą reglamentuojančių teisės aktų reikalavimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
+ 
 
 
 
@@ -1418,3 +1430,8 @@ Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2275, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11196
 Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 4, 7, 17, 24, 31 straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
