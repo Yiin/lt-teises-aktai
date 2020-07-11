@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-10
+Suvestinė redakcija nuo 2020-07-11 iki 2020-12-29
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -640,13 +640,30 @@ Nr. X-569, 2006-04-25, Žin., 2006, Nr. 48-1699 (2006-04-29)
 
 
 
-15 straipsnis. Lietuvos banko valdybos narių balsavimo teisės apribojimas
+15 straipsnis. Lietuvos banko valdybos narių pareigos nusišalinti įgyvendinimas
 
 
-Jei Lietuvos banko valdybos posėdyje sprendžiamas klausimas susijęs su valdybos nario privačiais interesais, keliančiais viešųjų ir privačių interesų konfliktą, valdybos narys apie tai raštu praneša prieš svarstymą ir neturi teisės dalyvauti svarstant ir priimant sprendimą. 
+1. Kai Lietuvos banko valdybos pirmininko, valdybos pirmininko pavaduotojo ar valdybos narių atliekamos tarnybinės pareigos susijusios su privačiais interesais, prieš atlikdami tarnybines pareigas arba pradėję jas atlikti, Lietuvos banko valdybos pirmininkas apie tai raštu informuoja Lietuvos banko valdybą, o valdybos pirmininko pavaduotojai ir valdybos nariai – valdybos pirmininką, pareiškia nusišalinimą ir jokia forma nedalyvauja toliau atlikdami tarnybines pareigas.
+
+
+
+
+2. Lietuvos banko valdyba ir valdybos pirmininkas gali nepriimti pareikšto nusišalinimo ir įpareigoti toliau atlikti tarnybines pareigas.
+
+
+
+
+3. Kai pareikštas nusišalinimas yra priimtas, Lietuvos banko valdybos pirmininko, valdybos pirmininko pavaduotojo ir valdybos narių pareigas eina valdybos pirmininko pavaduotojas arba valdybos narys pagal valdybos pirmininko patvirtintą valdybos pirmininko, valdybos pirmininko pavaduotojų ir valdybos narių pasiskirstymą pareigomis.
+
+
+
+
+4. Duomenys apie Lietuvos banko valdybos pirmininko nusišalinimą ar nušalinimą, užtikrinant neviešos informacijos apsaugą, pateikiami Vyriausiajai tarnybinės etikos komisijai ir Lietuvos banko valdybos pirmininką į pareigas skiriančiam subjektui.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3189, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15512
  
-
-
 
 
 
@@ -3610,3 +3627,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8 straipsnio pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2852, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08966
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 ir 47 straipsnių pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3189, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15512
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 15 straipsnio pakeitimo įstatymas
