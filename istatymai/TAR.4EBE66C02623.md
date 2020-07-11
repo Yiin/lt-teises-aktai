@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2020-07-10 iki 2020-07-10
+Suvestinė redakcija nuo 2020-07-11 iki 2020-08-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -3678,20 +3678,10 @@ užtraukia baudą nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dvie
 
 
 
-111 straipsnis. Žemės gelmių valstybinės nuosavybės teisės pažeidimas
-
-
-1. Savavališkas žemės gelmių naudojimas neturint teisės aktuose nustatyto leidimo, žemės gelmių naudojimas pažeidžiant nustatytus reikalavimus dėl kasybos sklypo ribų, dėl žemės gelmių išteklių išgavimo kiekio, taip pat pažeidžiant žemės gelmių išteklių apskaitos, pažeistos žemės rekultivavimo ir (arba) žemės gelmių stebėsenos reikalavimus, sandorių, tiesiogiai ar netiesiogiai pažeidžiančių žemės gelmių valstybinės nuosavybės teisę, sudarymas
-užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto dešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų.
-
-
-
-
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą asmenims nuo vieno šimto iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų šimtų iki keturių šimtų keturiasdešimt eurų.
+111 straipsnis. Neteko galios nuo 2020-07-11
+Straipsnio naikinimas:
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
  
-
-
 
 
 
@@ -3999,7 +3989,6 @@ Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo šešių šimtų iki dviejų tūkstančių eurų.
- 
  
 
 
@@ -7071,17 +7060,19 @@ užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų e
 241 straipsnis. Mokesčio už aplinkos teršimą ir mokesčio už valstybinius gamtos išteklius deklaravimo tvarkos pažeidimas
 
 
-1. Mokesčio už aplinkos teršimą iš mobiliųjų taršos šaltinių deklaracijos ar mokesčio už aplinkos teršimą iš stacionariųjų taršos šaltinių deklaracijos, ar mokesčio už aplinkos teršimą apmokestinamųjų gaminių atliekomis deklaracijos, ar mokesčio už aplinkos teršimą pakuočių atliekomis deklaracijos, ar mokesčio už naudingąsias iškasenas, vandenį ir statybinį gruntą deklaracijos, ar mokesčio už medžiojamųjų gyvūnų išteklių naudojimą deklaracijos nepateikimas iki nustatytų terminų
+1. Mokesčio už aplinkos teršimą iš mobiliųjų taršos šaltinių deklaracijos ar mokesčio už aplinkos teršimą iš stacionariųjų taršos šaltinių deklaracijos, ar mokesčio už aplinkos teršimą apmokestinamųjų gaminių atliekomis deklaracijos, ar mokesčio už aplinkos teršimą pakuočių atliekomis deklaracijos, ar mokesčio už aplinkos teršimą sąvartynuose šalinamomis atliekomis deklaracijos, ar mokesčio už naudingąsias iškasenas, vandenį ir gruntą deklaracijos, ar mokesčio už medžiojamųjų gyvūnų išteklių naudojimą deklaracijos, ar angliavandenilių išteklių mokesčio deklaracijos nepateikimas iki nustatytų terminų
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų šimtų penkiasdešimt iki keturių šimtų eurų.
 
 
 
 
-2. Klaidingų duomenų pateikimas mokesčio už aplinkos teršimą iš mobiliųjų taršos šaltinių deklaracijoje ar mokesčio už aplinkos teršimą iš stacionariųjų taršos šaltinių deklaracijoje, ar mokesčio už aplinkos teršimą apmokestinamųjų gaminių atliekomis deklaracijoje, ar mokesčio už aplinkos teršimą pakuočių atliekomis deklaracijoje, ar mokesčio už naudingąsias iškasenas, vandenį ir statybinį gruntą deklaracijoje, ar mokesčio už medžiojamųjų gyvūnų išteklių naudojimą deklaracijoje
-užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+2. Klaidingų duomenų pateikimas mokesčio už aplinkos teršimą iš mobiliųjų taršos šaltinių deklaracijoje ar mokesčio už aplinkos teršimą iš stacionariųjų taršos šaltinių deklaracijoje, ar mokesčio už aplinkos teršimą apmokestinamųjų gaminių atliekomis deklaracijoje, ar mokesčio už aplinkos teršimą pakuočių atliekomis deklaracijoje, ar mokesčio už aplinkos teršimą sąvartynuose šalinamomis atliekomis deklaracijoje, ar mokesčio už naudingąsias iškasenas, vandenį ir gruntą deklaracijoje, ar mokesčio už medžiojamųjų gyvūnų išteklių naudojimą deklaracijoje, ar angliavandenilių išteklių mokesčio deklaracijoje, jei dėl to buvo sumokėtas mažesnis, negu nustatyta, mokestis
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
  
-
-
 
 
 
@@ -8281,17 +8272,13 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki trijų šimtų eurų.
 258 straipsnis. Privalomų dirvožemio apsaugos priemonių nevykdymas
 
 
-1. Privalomų dirvožemio apsaugos nuo vėjo ar vandens sukeliamos erozijos ir kitų dirvožemio būklę bloginančių procesų priemonių nevykdymas
+Privalomų dirvožemio apsaugos nuo vėjo ar vandens sukeliamos erozijos ir kitų dirvožemio būklę bloginančių procesų priemonių nevykdymas
 užtraukia baudą asmenims nuo keturiolikos iki trisdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trisdešimt iki šešiasdešimt eurų. 
 
 
-
-
-2. Rekultivacijos projektų nevykdymas
-užtraukia baudą asmenims nuo vieno šimto keturiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+Straipsnio pakeitimai:
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
  
-
-
 
 
 
@@ -8374,38 +8361,216 @@ užtraukia baudą nuo trijų šimtų iki penkių šimtų aštuoniasdešimt eurų
 
 
 
-262 straipsnis. Žemės gelmių, jų išteklių apsaugos ir naudojimo reikalavimų pažeidimas
+262 straipsnis. Žemės gelmių išteklių, ertmių ir (arba) grunto naudojimo reikalavimų pažeidimas
 
 
-1. Žemės gelmių apsaugos nuo užteršimo ir išsekinimo, racionalaus žemės gelmių išteklių ir ertmių naudojimo ir apskaitos reikalavimų pažeidimas, savavališkas žemės gelmių (geologinis) tyrimas, naudingųjų iškasenų telkinių plotų užstatymas, požeminio vandens stebėsenos gręžinių naikinimas arba gadinimas 
-užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+1. Žemės gelmių išteklių, ertmių ir (arba) grunto naudojimą reglamentuojančių teisės aktų reikalavimų pažeidimas
+užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto dešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki dviejų šimtų septyniasdešimt eurų. 
 
 
 
 
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą asmenims nuo trijų šimtų iki penkių šimtų aštuoniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+2. Žemės gelmių išteklių apskaitos reikalavimų pažeidimas 
+užtraukia baudą asmenims nuo septyniasdešimt iki vieno šimto penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto iki dviejų šimtų eurų.
+
+
+
+
+3. Geoterminių gręžinių projektavimo, įrengimo, konservavimo, likvidavimo reikalavimų pažeidimas
+užtraukia baudą asmenims nuo vieno šimto iki dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+
+
+
+
+4. Pažeistos žemės rekultivavimo reikalavimų pažeidimas, kai nerekultivuota iki 1 ha pažeistos žemės,
+užtraukia baudą nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+
+
+
+
+5. Šio straipsnio 4 dalyje numatyta veika, kai nerekultivuota nuo 1 ha iki 25 ha pažeistos žemės,
+užtraukia baudą nuo aštuonių šimtų penkiasdešimt iki dviejų tūkstančių eurų.
+
+
+
+
+6. Šio straipsnio 4 dalyje numatyta veika, kai nerekultivuota 25 ha ir daugiau pažeistos žemės,
+užtraukia baudą nuo dviejų tūkstančių iki penkių tūkstančių eurų.
+
+
+
+
+7. Nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas pažeidžiant leidime naudoti žemės gelmių išteklius nustatytas sąlygas ir (ar) nesilaikant žemės gelmių naudojimo plano ar žemės gelmių naudojimo projekto arba grunto išteklių naudojimo projekto sprendinių
+užtraukia baudą asmenims nuo vieno šimto iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų šimtų iki šešių šimtų eurų.
+
+
+
+
+8. Neteisėtas nemetalinių naudingųjų iškasenų ir (arba) grunto naudojimas, kai neteisėtai naudota iki 20 kubinių metrų nemetalinių naudingųjų iškasenų ir (arba) grunto, 
+užtraukia baudą nuo dviejų šimtų penkiasdešimt iki keturių šimtų eurų.
+
+
+
+
+9. Šio straipsnio 8 dalyje numatyta veika, kai neteisėtai naudota 20 kubinių metrų ir daugiau, bet mažiau kaip 100 kubinių metrų nemetalinių naudingųjų iškasenų ir (arba) grunto, 
+užtraukia baudą nuo keturių šimtų iki šešių šimtų eurų. 
+
+
+
+
+10. Šio straipsnio 8 dalyje numatyta veika, kai neteisėtai naudota 100 kubinių metrų ir daugiau, bet mažiau kaip 1 000 kubinių metrų nemetalinių naudingųjų iškasenų ir (arba) grunto, 
+užtraukia baudą nuo aštuonių šimtų iki vieno tūkstančio dviejų šimtų eurų. 
+
+
+
+
+11. Šio straipsnio 8 dalyje numatyta veika, kai neteisėtai naudota 1 000 kubinių metrų ir daugiau nemetalinių naudingųjų iškasenų ir (arba) grunto, 
+užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų. 
+
+
+
+
+12. Šio straipsnio 8 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+
+
+
+13. Šio straipsnio 9 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo aštuonių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+
+
+
+14. Šio straipsnio 10 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo vieno tūkstančio trijų šimtų iki trijų tūkstančių eurų.
+
+
+
+
+15. Šio straipsnio 11 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo trijų tūkstančių dviejų šimtų iki penkių tūkstančių eurų.
+
+
+
+
+16. Požeminio vandens gręžinių projektavimo, įrengimo, konservavimo, likvidavimo reikalavimų pažeidimas
+užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo devyniasdešimt iki dviejų šimtų eurų.
+
+
+
+
+17. Požeminio vandens naudojimas pažeidžiant leidime naudoti požeminio vandens išteklius nustatytas sąlygas
+užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų keturiasdešimt iki šešių šimtų penkiasdešimt eurų.
+
+
+
+
+18. Šio straipsnio 17 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo trijų šimtų dešimt iki penkių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo keturių šimtų devyniasdešimt iki devynių šimtų eurų.
+
+
+
+
+19. Požeminio vandens gavybos gręžinio naudojimas nenustačius požeminio vandens vandenvietės apsaugos zonos
+užtraukia baudą asmenims nuo dviejų šimtų penkiasdešimt iki keturių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+
+
+
+
+20. Požeminio vandens naudojimas neturint Lietuvos Respublikos žemės gelmių įstatymo nustatyta tvarka išduoto leidimo
+užtraukia baudą asmenims nuo dviejų šimtų iki septynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų iki vieno tūkstančio penkių šimtų eurų.
+
+
+
+
+21. Šio straipsnio 20 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo aštuonių šimtų iki vieno tūkstančio dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio šešių šimtų iki dviejų tūkstančių penkių šimtų eurų.
+
+
+
+
+22. Žemės gelmių ertmių, metalų rūdų ir vertingųjų mineralų naudojimas pažeidžiant leidime naudoti žemės gelmių išteklius ar ertmes nustatytas sąlygas ir (ar) nesilaikant žemės gelmių naudojimo plano sprendinių
+užtraukia baudą asmenims nuo dviejų šimtų iki septynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo keturių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+
+
+
+23. Angliavandenilių gręžinių projektavimo, įrengimo, konservavimo, likvidavimo reikalavimų pažeidimas
+užtraukia baudą asmenims nuo penkių šimtų iki aštuonių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų iki vieno tūkstančio eurų.
+
+
+
+
+24. Angliavandenilių naudojimas pažeidžiant leidime naudoti angliavandenilių išteklius nustatytas sąlygas arba nesilaikant angliavandenilių išteklių naudojimo projekto sprendinių
+užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki trijų tūkstančių eurų. 
+
+
+
+
+25. Angliavandenilių tyrimo ir (arba) naudojimo gręžinių, įrenginių ir prijungtosios infrastruktūros įrengimas, gręžinių konservavimas ir likvidavimas ir (arba) angliavandenilių naudojimas pažeidžiant avarijų jūroje prevencijos ir likvidavimo tvarką
+užtraukia baudą nuo trijų tūkstančių iki šešių tūkstančių eurų.
+
+
+
+
+26. Angliavandenilių naudojimas neturint Lietuvos Respublikos žemės gelmių įstatymo nustatyta tvarka išduoto leidimo ir (ar) angliavandenilių išteklių naudojimo projekto
+užtraukia baudą nuo keturių tūkstančių penkių šimtų iki šešių tūkstančių eurų.
+
+
+
+
+27. Žemės gelmių ertmių, metalų rūdų ir vertingųjų mineralų naudojimas neturint Lietuvos Respublikos žemės gelmių įstatymo nustatyta tvarka išduoto leidimo ir (ar) žemės gelmių naudojimo plano
+užtraukia baudą nuo keturių tūkstančių iki penkių tūkstančių penkių šimtų eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
  
 
 
 
 
+263 straipsnis. Žemės gelmių geologinio tyrimo reikalavimų pažeidimas
 
 
-263 straipsnis. Žemės gelmių (geologinio) tyrimo darbų atlikimo taisyklių ar reikalavimų pažeidimas
-
-
-1. Žemės gelmių (geologinio) tyrimo darbų atlikimo taisyklių pažeidimas, taip pat žemės gelmių (geologinio) tyrimo rezultatų nepateikimas nustatyta tvarka
-užtraukia baudą asmenims nuo septyniasdešimt iki vieno šimto keturiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+1. Žemės gelmių geologinių tyrimų registravimo reikalavimų pažeidimas ir (ar) žemės gelmių geologinio tyrimo rezultatų nepateikimas nustatyta tvarka
+užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto dvidešimt iki dviejų šimtų šešiasdešimt eurų.
 
 
 
 
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą asmenims nuo trijų šimtų iki keturių šimtų penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki penkių šimtų aštuoniasdešimt eurų.
+2. Šio straipsnio 1 dalyje numatyti administraciniai nusižengimai, padaryti pakartotinai,
+užtraukia baudą asmenims nuo vieno šimto dešimt iki dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų šimtų iki trijų šimtų šešiasdešimt eurų.
+
+
+
+
+3. Žemės gelmių geologinio tyrimo darbams taikomų reikalavimų pažeidimas
+užtraukia baudą asmenims nuo vieno šimto iki vieno šimto devyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto aštuoniasdešimt iki trijų šimtų šešiasdešimt eurų.
+
+
+
+
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo dviejų šimtų iki trijų šimtų devyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų dvidešimt iki šešių šimtų šešiasdešimt eurų.
+
+
+
+
+5. Žemės gelmių geologinio tyrimo atlikimas neturint tam teisės
+užtraukia baudą asmenims nuo dviejų šimtų keturiasdešimt iki keturių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų penkiasdešimt iki šešių šimtų šešiasdešimt eurų.
+
+
+
+
+6. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo keturių šimtų keturiasdešimt iki šešių šimtų šešiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo šešių šimtų penkiasdešimt iki devynių šimtų šešiasdešimt eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
  
-
-
 
 
 
@@ -8425,8 +8590,9 @@ užtraukia baudą asmenims nuo penkiasdešimt iki trijų šimtų eurų ir juridi
 
 
 
-3. Požeminio vandens vandenviečių apsaugos zonų apsaugos reikalavimų pažeidimas
-užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
+3. Neteko galios nuo 2020-07-11
+Straipsnio dalies naikinimas:
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
 Straipsnio dalies pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
  
@@ -8434,8 +8600,9 @@ Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 
 
 
-4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą asmenims nuo dviejų šimtų aštuoniasdešimt iki šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+4. Neteko galios nuo 2020-07-11
+Straipsnio dalies naikinimas:
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
  
 
 
@@ -8458,8 +8625,11 @@ užtraukia baudą nuo vieno šimto penkiasdešimt iki vieno tūkstančio vieno �
 
 
 
-3. Lietuvos Respublikos vidaus ir teritorinių vandenų teršimas iš laivų, Lietuvos Respublikos jūros rajono teršimas iš šiame rajone esančių stacionariųjų ar plūduriuojančių įrenginių, konstrukcijų ar platformų
-užtraukia baudą nuo trijų šimtų iki šešių tūkstančių eurų.
+3. Lietuvos Respublikos jūros rajono teršimas iš laivų, iš šiame rajone esančių jūros įrenginių ir (arba) iš sausumoje esančių stacionariųjų ar mobiliųjų įrenginių
+užtraukia baudą nuo vieno tūkstančio iki šešių tūkstančių eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
+ 
 
 
 
@@ -8473,8 +8643,11 @@ Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964
 
 
 
-5. Lietuvos Respublikos jūros rajono vandens, dugno ir gelmių gamtos išteklių žvalgyba ir gavyba, stacionariųjų ar plūduriuojančių įrenginių ar konstrukcijų, terminalų, žuvų fermų statyba, povandeninių elektros kabelių tiesimas, hidrotechninių ir kitų įrenginių, uostų statyba, rekonstravimas ar plėtimas, kasimo, gręžimo, sprogdinimo darbai, seisminiai, moksliniai tyrimai, karinės pratybos ir kita galinti turėti neigiamos įtakos jūros aplinkai veikla be aplinkos apsaugos institucijos leidimo, taip pat kenksmingų medžiagų gabenimas pažeidžiant jūros aplinkos apsaugos reikalavimus
-užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki dviejų tūkstančių devynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki šešių tūkstančių eurų.
+5. Lietuvos Respublikos jūros rajono žvalgyba ir naudojimas, jūros įrenginių, terminalų, žuvų fermų statyba, povandeninių elektros kabelių tiesimas, hidrotechninių ir kitų įrenginių, uostų statyba, rekonstravimas ar plėtimas, kasimo, gręžimo, sprogdinimo darbai, seisminiai, moksliniai tyrimai, karinės pratybos ir kita galinti turėti neigiamos įtakos jūros aplinkai veikla be nustatyta tvarka išduoto leidimo, taip pat kenksmingų medžiagų gabenimas pažeidžiant jūros aplinkos apsaugos reikalavimus
+užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki dviejų tūkstančių devynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki šešių tūkstančių eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
+ 
 
 
 
@@ -8545,6 +8718,26 @@ Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964
 
 
 
+16. Laivų balastinių vandenų ir nuosėdų išleidimas Lietuvos Respublikos jūros rajone, kai į aplinką patenka neleistinas kiekis pavojingų ir ligas sukeliančių vandens organizmų, pažeidžiant 2004 m. Tarptautinėje konvencijoje dėl laivų balastinių vandenų ir nuosėdų kontrolės ir valdymo ir Lietuvos Respublikos teisės aktuose nustatytus reikalavimus 
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio dviejų šimtų iki šešių tūkstančių eurų. 
+TAR pastaba. Papildymas 16 dalimi įsigalioja 2022-01-01.
+Papildyta straipsnio dalimi:
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
+ 
+
+
+
+
+17. Pareigos užregistruoti laivo dokumentuose su balastiniais vandenimis susijusias operacijas ir (ar) pareigos pasirašyti šiuos dokumentus nevykdymas, klaidingų duomenų apie operacijas su balastiniais vandenimis įrašymas į laivo dokumentus arba atsisakymas pateikti laivo dokumentus 
+užtraukia įspėjimą arba baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno šimto penkiasdešimt iki keturių šimtų penkiasdešimt eurų. 
+TAR pastaba. Papildymas 17 dalimi įsigalioja 2022-01-01.
+Papildyta straipsnio dalimi:
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
+ 
+
+
+
+
 
 
 266 straipsnis. Mažųjų laivų naudojimo vidaus vandenyse tvarkos pažeidimas
@@ -8579,72 +8772,79 @@ užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
 
 
 1. Aplinkosaugos sąlygų plaukioti vandens telkiniuose plaukiojimo priemonėmis pažeidimas
-užtraukia baudą nuo trisdešimt iki šešiasdešimt eurų.
-
-
-
-
-2. Plaukiojimas savaeigėmis plaukiojimo priemonėmis vandens telkiniuose, kai tai daryti draudžiama,
-užtraukia baudą nuo keturiasdešimt iki devyniasdešimt eurų.
-
-
-
-
-3. Aplinkosaugos sąlygų plaukioti saugomose teritorijose esančiuose vandens telkiniuose plaukiojimo priemonėmis pažeidimas
-užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
-
-
-
-
-4. Plaukiojimas vandens motociklais vandens telkiniuose, kai tai daryti draudžiama,
-užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
-
-
-
-
-5. Plaukiojimas savaeigėmis plaukiojimo priemonėmis saugomose teritorijose esančiuose vandens telkiniuose, kai tai daryti draudžiama,
-užtraukia baudą nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų.
-
-
-
-
-6. Plaukiojimas vandens motociklais saugomose teritorijose esančiuose vandens telkiniuose, kai tai daryti draudžiama,
-užtraukia baudą nuo vieno šimto dvidešimt iki dviejų šimtų trisdešimt eurų.
-
-
-
-
-7. Plaukiojimas savaeigėmis plaukiojimo priemonėmis, kurių variklio galingumas viršija 150 kW, vandens telkiniuose, kai tai daryti draudžiama,
 užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 
 
 
+2. Plaukiojimas savaeigėmis plaukiojimo priemonėmis vandens telkiniuose, kai tai daryti draudžiama,
+užtraukia baudą nuo dviejų šimtų iki keturių šimtų penkiasdešimt eurų.
+
+
+
+
+3. Aplinkosaugos sąlygų plaukioti saugomose teritorijose esančiuose vandens telkiniuose plaukiojimo priemonėmis pažeidimas
+užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+
+
+
+
+4. Plaukiojimas vandens telkiniuose savaeigėmis plaukiojimo priemonėmis, kurių vidaus degimo varikliai turi vandens srauto pompą, kai tai daryti draudžiama,
+užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+
+
+
+
+5. Plaukiojimas savaeigėmis plaukiojimo priemonėmis saugomose teritorijose esančiuose vandens telkiniuose, kai tai daryti draudžiama,
+užtraukia baudą nuo keturių šimtų penkiasdešimt iki aštuonių šimtų penkiasdešimt eurų.
+
+
+
+
+6. Plaukiojimas saugomose teritorijose esančiuose vandens telkiniuose savaeigėmis plaukiojimo priemonėmis, kurių vidaus degimo varikliai turi vandens srauto pompą, kai tai daryti draudžiama,
+užtraukia baudą nuo šešių šimtų iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
+
+
+
+
+7. Plaukiojimas savaeigėmis plaukiojimo priemonėmis, kurių variklio galingumas viršija 150 kW, vandens telkiniuose, kai tai daryti draudžiama,
+užtraukia baudą nuo septynių šimtų penkiasdešimt iki vieno tūkstančio penkių šimtų eurų.
+
+
+
+
 8. Šio straipsnio 1, 2, 3, 4 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
-užtraukia baudą nuo vieno šimto dvidešimt iki dviejų šimtų trisdešimt eurų.
+užtraukia baudą nuo šešių šimtų iki vieno tūkstančio vieno šimto penkiasdešimt eurų.
 
 
 
 
 9. Šio straipsnio 5, 6, 7 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
-užtraukia baudą nuo dviejų šimtų iki šešių šimtų eurų.
+užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
+
+
+
+
+10. Už šio straipsnio 8, 9 dalyse numatytus administracinius nusižengimus gali būti skiriamas savaeigės plaukiojimo priemonės konfiskavimas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
  
 
 
 
 
+268 straipsnis. Paviršinių vandens telkinių naudojimo vandeniui išgauti ar nuotekų tvarkymo reikalavimų pažeidimas
 
 
-268 straipsnis. Vandens telkinių naudojimo vandeniui išgauti ar nuotekų tvarkymo reikalavimų pažeidimas
-
-
-1. Vandens telkinių naudojimas vandeniui išgauti pažeidžiant leidime nustatytus vandens išgavimo reikalavimus arba paviršinių vandens telkinių naudojimo vandeniui išgauti reikalavimus
+1. Paviršinių vandens telkinių naudojimas vandeniui išgauti pažeidžiant leidime nustatytus vandens išgavimo reikalavimus arba paviršinių vandens telkinių naudojimo vandeniui išgauti reikalavimus
 užtraukia baudą asmenims nuo šešiasdešimt iki dviejų šimtų trisdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki keturių šimtų eurų.
 
 
 
 
-2. Vandens telkinių naudojimas vandeniui išgauti be nustatyta tvarka išduoto leidimo, kai pagal teisės aktus šis leidimas yra reikalingas, arba be nustatyta tvarka išduotų paviršinių vandens telkinių naudojimo vandeniui išgauti sąlygų, kai pagal teisės aktus šios sąlygos yra reikalingos,
+2. Paviršinių vandens telkinių naudojimas vandeniui išgauti be nustatyta tvarka išduoto leidimo, kai pagal teisės aktus šis leidimas yra reikalingas, arba be nustatyta tvarka išduotų paviršinių vandens telkinių naudojimo vandeniui išgauti sąlygų, kai pagal teisės aktus šios sąlygos yra reikalingos,
 užtraukia baudą asmenims nuo devyniasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki penkių šimtų septyniasdešimt eurų.
 
 
@@ -8656,38 +8856,25 @@ užtraukia baudą asmenims nuo dviejų šimtų iki penkių šimtų penkiasdešim
 
 
 
-4. Gręžinių geriamajam gėlam ir gamybiniam požeminiam vandeniui tiekti ir vandens šiluminei energijai vartoti įrengimo, konservavimo ir likvidavimo reikalavimų pažeidimas
-užtraukia baudą asmenims nuo šešiasdešimt iki penkių šimtų aštuoniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+4. Išgaunamo paviršinio vandens, išleidžiamų nuotekų arba su nuotekomis išleidžiamų teršalų apskaitos ir ataskaitų teikimo reikalavimų pažeidimas
+užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto dešimt iki trijų šimtų eurų.
 
 
 
 
-5. Šio straipsnio 4 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą asmenims nuo dviejų šimtų iki vieno tūkstančio vieno šimto eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų iki trijų tūkstančių eurų.
-
-
-
-
-6. Išgaunamo vandens, išleidžiamų nuotekų arba su nuotekomis išleidžiamų teršalų apskaitos ir ataskaitų teikimo reikalavimų pažeidimas
-užtraukia baudą asmenims nuo šešiasdešimt iki vieno šimto dvidešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto dešimt iki trijų šimtų eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
- 
-
-
-
-
-7. Vandens išgavimo ar nuotekų tvarkymo įrenginių eksploatavimo reikalavimų pažeidimas
+5. Paviršinio vandens išgavimo ar nuotekų tvarkymo įrenginių eksploatavimo reikalavimų pažeidimas
 užtraukia baudą asmenims nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 
 
 
-8. Šio straipsnio 6, 7 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
-užtraukia baudą asmenims nuo vieno šimto šešiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų šimtų septyniasdešimt iki šešių šimtų eurų.
+6. Šio straipsnio 4, 5 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
+užtraukia baudą asmenims nuo vieno šimto šešiasdešimt iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų šimtų septyniasdešimt iki šešių šimtų eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
  
-
-
 
 
 
@@ -8696,23 +8883,24 @@ užtraukia baudą asmenims nuo vieno šimto šešiasdešimt iki trijų šimtų e
 
 
 1. Tvenkinio ar patvenkto ežero naudojimo ir priežiūros taisyklių pažeidimas
-užtraukia baudą nuo trisdešimt iki šešiasdešimt eurų.
+užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 
 
 
 2. Tvenkinio ar patvenkto ežero naudojimo ir priežiūros taisyklėse nustatytų tvenkinio darbo režimo ar aplinkosaugos reikalavimų pažeidimas
-užtraukia baudą nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
+užtraukia baudą nuo keturių šimtų iki septynių šimtų eurų.
 
 
 
 
 3. Šio straipsnio 1, 2 dalyse numatyti administraciniai nusižengimai, padaryti pakartotinai,
-užtraukia baudą nuo vieno šimto iki trijų šimtų eurų.
+užtraukia baudą nuo aštuonių šimtų iki vieno tūkstančio penkių šimtų eurų. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
  
 
 
@@ -15328,7 +15516,6 @@ užtraukia baudą vairuotojams nuo penkiasdešimt iki devyniasdešimt eurų.
 4. Keleivius ar krovinius vidaus ir (ar) tarptautiniais maršrutais vežančių kelių transporto priemonių ekipažams (vairuotojams) nustatyto vairavimo laiko per vieną savaitę arba paeiliui einančias dvi savaites viršijimas daugiau kaip aštuoniomis valandomis
 užtraukia baudą vairuotojams nuo devyniasdešimt iki vieno šimto keturiasdešimt eurų.
  
- 
 
 
 
@@ -18881,7 +19068,7 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 
 
 
-31) aplinkos apsaugos valstybinės kontrolės institucijų aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijų bei saugomų teritorijų valstybinio valdymo ir kontrolės įstaigų, kitų institucijų, kurių pareigūnams įstatymuose ir kituose teisės aktuose nustatyta tvarka suteikti įgaliojimai atlikti aplinkos apsaugos valstybinę kontrolę, – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 110, 111, 114, 235, 236, 2361, 237, 238, 239, 241, 242, 243, 2431, 244, 246, 247, 248, 249, 250, 251, 2511, 252, 253, 255, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275 straipsniuose, 276 straipsnio 1, 2, 5, 6, 7, 8 dalyse, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304, 3041, 3042, 305, 306, 307, 308, 3081, 309, 310, 311, 312, 313, 315, 316, 317, 318, 346 straipsniuose, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų, o aplinkos apsaugos valstybinės kontrolės institucijų aplinkos apsaugos valstybinės kontrolės pareigūnai – ir dėl šio kodekso 491 straipsnyje numatytų administracinių nusižengimų; 
+31) aplinkos apsaugos valstybinės kontrolės institucijų aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijų bei saugomų teritorijų valstybinio valdymo ir kontrolės įstaigų, kitų institucijų, kurių pareigūnams įstatymuose ir kituose teisės aktuose nustatyta tvarka suteikti įgaliojimai atlikti aplinkos apsaugos valstybinę kontrolę, – dėl šio kodekso 48 straipsnio 1, 2 dalyse, 110, 114, 235, 236, 2361, 237, 238, 239, 241, 242, 243, 2431, 244, 246, 247, 248, 249, 250, 251, 2511, 252, 253, 255, 256, 257, 258, 259, 260, 262, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275 straipsniuose, 276 straipsnio 1, 2, 5, 6, 7, 8 dalyse, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293 straipsniuose, 294 straipsnio 2 dalyje, 295 straipsnio 1, 2 dalyse, 296 straipsnio 2 dalyje, 299 straipsnio 3 dalyje, 303, 304, 3041, 3042, 305, 306, 307, 308, 3081, 309, 310, 311, 312, 313, 315, 316, 317, 318, 346 straipsniuose, 369 straipsnio 13, 14, 17, 18, 19, 20, 21, 22 dalyse, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų, o aplinkos apsaugos valstybinės kontrolės institucijų aplinkos apsaugos valstybinės kontrolės pareigūnai – ir dėl šio kodekso 491 straipsnyje numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
@@ -18891,6 +19078,7 @@ Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
 Nr. XIII-1949, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00866
 Nr. XIII-2468, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17213
 Nr. XIII-2800, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02852
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
  
 
 
@@ -18950,9 +19138,10 @@ Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997
 
 
 
-37) Lietuvos geologijos tarnybos prie Aplinkos ministerijos – dėl šio kodekso 111, 239, 253, 256, 262, 263 straipsniuose, 265 straipsnio 5 dalyje, 311, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+37) Lietuvos geologijos tarnybos prie Aplinkos ministerijos – dėl šio kodekso 239, 253, 256, 262, 263 straipsniuose, 265 straipsnio 5 dalyje, 311, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
  
 
 
@@ -24428,3 +24617,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 188-1 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3208, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15401
 Lietuvos Respublikos administracinių nusižengimų kodekso 343, 344 straipsnių ir priedo pakeitimo įstatymas
+ 
+110.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
+Lietuvos Respublikos administracinių nusižengimų kodekso 111 straipsnio pripažinimo netekusiu galios ir 241, 258, 262, 263, 264, 265, 267, 268, 269, 589 straipsnių pakeitimo įstatymas
