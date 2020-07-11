@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2020-06-23 iki 2020-07-10
+Suvestinė redakcija nuo 2020-07-11 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -6347,7 +6347,10 @@ PRAŠYMŲ DĖL PROCESO ATNAUJINIMO PADAVIMAS
 2. Procesas gali būti atnaujinamas esant šiems pagrindams:
 
 
-1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismo sprendimas byloje prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir jos papildomiems protokolams;
+1) kai Europos Žmogaus Teisių Teismas pripažįsta, kad Lietuvos Respublikos teismo sprendimas byloje prieštarauja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijai ir jos papildomiems protokolams, arba kai Jungtinių Tautų Žmogaus teisių komitetas pripažįsta, kad Lietuvos Respublikos teismo sprendimu pažeista Tarptautiniame pilietinių ir politinių teisių pakte nustatyta asmens teisė;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3221, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15516
+ 
 
 
 
@@ -7021,3 +7024,8 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 103
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
 Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 2, 20, 28, 36, 44, 56, 79, 79-1, 139 straipsnių pakeitimo ir Įstatymo papildymo 79-2 straipsniu įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3221, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15516
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 156 straipsnio pakeitimo įstatymas
