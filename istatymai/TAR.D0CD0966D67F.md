@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-10
+Suvestinė redakcija nuo 2020-07-11 iki 2020-08-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -1861,11 +1861,12 @@ Nr. XIII-1444, 2018-06-30, paskelbta TAR 2018-07-16, i. k. 2018-12066
 
 
 
-19) mero, savivaldybės administracijos direktoriaus, savivaldybės kontrolės ir audito tarnybos, biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė), savivaldybės valdomų įmonių ir organizacijų metinių veiklos ataskaitų ir atsakymų į savivaldybės tarybos narių paklausimus išklausymas reglamento nustatyta tvarka, sprendimų dėl šių ataskaitų ir atsakymų priėmimas šio įstatymo 13 straipsnio 5, 6, 8 ir 9 dalyse nustatyta tvarka rengiant, pateikiant sprendimų projektus ir dėl jų balsuojant; 
+19) mero, savivaldybės administracijos direktoriaus, savivaldybės kontrolės ir audito tarnybos, biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė), savivaldybės valdomų įmonių ir organizacijų metinių veiklos ataskaitų (švietimo įstaigų metinės veiklos ataskaitos yra švietimo įstaigos vadovų metų veiklos ataskaitų dalis ir yra rengiamos Lietuvos Respublikos švietimo įstatyme nustatyta tvarka) ir atsakymų į savivaldybės tarybos narių paklausimus išklausymas reglamento nustatyta tvarka, sprendimų dėl šių ataskaitų ir atsakymų priėmimas šio įstatymo 13 straipsnio 5, 6, 8 ir 9 dalyse nustatyta tvarka rengiant, pateikiant sprendimų projektus ir dėl jų balsuojant; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
 Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
 Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
+Nr. XIII-3267, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15541
  
 
 
@@ -1876,9 +1877,10 @@ Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
 
 
 
-21) biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė), savivaldybės įmonių, akcinių bendrovių, uždarųjų akcinių bendrovių (toliau – savivaldybės juridiniai asmenys) steigimas, reorganizavimas, likvidavimas ir jų priežiūra, savivaldybės mokymo ir auklėjimo (toliau – švietimo) įstaigų vadovų skyrimas į pareigas ir atleidimas iš jų teisės aktų nustatyta tvarka, dalyvavimas steigiant, reorganizuojant ir likviduojant viešuosius ir privačius juridinius asmenis; seniūnijų – biudžetinių įstaigų – nuostatų tvirtinimas; 
+21) biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė), savivaldybės įmonių, akcinių bendrovių, uždarųjų akcinių bendrovių (toliau – savivaldybės juridiniai asmenys) steigimas, reorganizavimas, likvidavimas ir jų priežiūra, dalyvavimas steigiant, reorganizuojant ir likviduojant viešuosius ir privačius juridinius asmenis; seniūnijų – biudžetinių įstaigų – nuostatų tvirtinimas; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
+Nr. XIII-3267, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15541
  
 
 
@@ -2480,19 +2482,21 @@ Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
 
 
 
-16) priima į pareigas ir atleidžia iš jų biudžetinių įstaigų, išskyrus švietimo įstaigas ir seniūnijas – biudžetines įstaigas, vadovus; įgyvendina kitas funkcijas, susijusias su visų biudžetinių įstaigų vadovų darbo santykiais, Darbo kodekso ir kitų teisės aktų nustatyta tvarka; šio įstatymo nustatytais atvejais, kai meras negali eiti pareigų, šias funkcijas įgyvendina mero pavaduotojas ar mero pareigas laikinai einantis savivaldybės tarybos narys; 
+16) priima į pareigas ir atleidžia iš jų biudžetinių įstaigų, išskyrus seniūnijas – biudžetines įstaigas, vadovus; įgyvendina kitas funkcijas, susijusias su visų biudžetinių įstaigų vadovų darbo santykiais, Darbo kodekso ir kitų teisės aktų nustatyta tvarka; šio įstatymo nustatytais atvejais, kai meras negali eiti pareigų, šias funkcijas įgyvendina mero pavaduotojas ar mero pareigas laikinai einantis savivaldybės tarybos narys; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 Nr. XIII-1445, 2018-06-30, paskelbta TAR 2018-07-16, i. k. 2018-12067
+Nr. XIII-3267, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15541
  
 
 
 
 
-17) priima į pareigas ir atleidžia iš jų viešųjų įstaigų (kurių savininkė yra savivaldybė), išskyrus švietimo įstaigas, vadovus; įgyvendina kitas funkcijas, susijusias su visų viešųjų įstaigų (kurių savininkė yra savivaldybė) vadovų darbo santykiais, Darbo kodekso ir kitų teisės aktų nustatyta tvarka; šio įstatymo nustatytais atvejais, kai meras negali eiti pareigų, šias funkcijas įgyvendina mero pavaduotojas ar mero pareigas laikinai einantis savivaldybės tarybos narys; 
+17) priima į pareigas ir atleidžia iš jų viešųjų įstaigų (kurių savininkė yra savivaldybė) vadovus; įgyvendina kitas funkcijas, susijusias su visų viešųjų įstaigų (kurių savininkė yra savivaldybė) vadovų darbo santykiais, Darbo kodekso ir kitų teisės aktų nustatyta tvarka; šio įstatymo nustatytais atvejais, kai meras negali eiti pareigų, šias funkcijas įgyvendina mero pavaduotojas ar mero pareigas laikinai einantis savivaldybės tarybos narys; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 Nr. XIII-1445, 2018-06-30, paskelbta TAR 2018-07-16, i. k. 2018-12067
+Nr. XIII-3267, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15541
  
 
 
@@ -5525,3 +5529,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 14 ir 15 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2946, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11672
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 straipsnio pakeitimo įstatymas
+ 
+47.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3267, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15541
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 ir 20 straipsnių pakeitimo įstatymas
