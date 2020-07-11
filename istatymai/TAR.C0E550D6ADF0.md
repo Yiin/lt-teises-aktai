@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0E550D6ADF0"
 
 # Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-07-10
+Suvestinė redakcija nuo 2020-07-11 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1659, i. k. 0971010ISTAVIII-371
  
@@ -297,7 +297,10 @@ PRIVAČIŲ INTERESŲ DEKLARAVIMAS
 
 
 
-6. Perkančiųjų subjektų pirkimų komisijų nariai, asmenys, perkančiųjų subjektų vadovų paskirti atlikti supaprastintus pirkimus, ir perkančiųjų subjektų atliekamų pirkimų procedūrose dalyvaujantys ekspertai, pirkimo iniciatoriai deklaraciją pateikia (jeigu ji dar nebuvo pateikta) iki dalyvavimo pirkimų procedūrose pradžios. Perkančiųjų subjektų pirkimų komisijų nariai, asmenys, perkančiųjų subjektų vadovų paskirti atlikti supaprastintus pirkimus, perkančiųjų subjektų atliekamų pirkimų procedūrose dalyvaujantys ekspertai, pirkimo iniciatoriai, nepateikę deklaracijos, neturi teisės dalyvauti pirkimų procedūrose ir turi būti atšaukti iš atitinkamų pareigų.
+6. Perkančiųjų subjektų pirkimų komisijų nariai, asmenys, perkančiųjų subjektų vadovų paskirti atlikti supaprastintus pirkimus, ir perkančiųjų subjektų atliekamų pirkimų procedūrose dalyvaujantys ekspertai, pirkimo iniciatoriai deklaraciją pateikia arba patikslina iki dalyvavimo pirkimų procedūrose pradžios, joje nurodydami savo pareigas, atliekamas pirkimų procedūrose, ir pagal šio įstatymo 6 straipsnio 1 ir 2 dalis deklaruotinus duomenis. Perkančiųjų subjektų pirkimų komisijų nariai, asmenys, perkančiųjų subjektų vadovų paskirti atlikti supaprastintus pirkimus, perkančiųjų subjektų atliekamų pirkimų procedūrose dalyvaujantys ekspertai, pirkimo iniciatoriai, nepateikę deklaracijos, neturi teisės dalyvauti pirkimų procedūrose ir turi būti atšaukti iš atitinkamų pareigų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3187, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15510
+ 
 
 
 
@@ -412,7 +415,25 @@ Deklaracijoje pateiktus duomenis ir privačius interesus gali tikrinti instituci
 10 straipsnis. Deklaracijų duomenų viešumas
 
 
-1. Aktualių deklaracijų duomenys (išskyrus asmenų, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti ir (arba) kurie vykdo žvalgybą, kontržvalgybą arba kriminalinę žvalgybą, deklaracijas) yra vieši.
+1. Aktualių deklaracijų duomenys yra vieši, išskyrus:
+
+
+1) asmenų, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti, deklaracijų duomenis;
+
+
+
+
+2) asmenų, kurie vykdo žvalgybą, kontržvalgybą arba kriminalinę žvalgybą, deklaracijų duomenis; 
+
+
+
+
+3) profesinės karo tarnybos karių deklaracijų duomenis. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-3187, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15510
+ 
 
 
 
@@ -445,32 +466,32 @@ DEKLARUOJANČIŲ ASMENŲ PAREIGOS IR JIEMS TAIKOMI APRIBOJIMAI
 
 
 
-2. Apie šio straipsnio 1 dalyje nurodytus atvejus, prieš atlikdamas tarnybines pareigas arba pradėjęs jas atlikti, deklaruojantis asmuo privalo informuoti institucijos ar įstaigos vadovą ar jo įgaliotą asmenį, o kai deklaruojantis asmuo yra institucijos ar įstaigos vadovas, – šį vadovą į pareigas priimantį ar skiriantį subjektą arba kolegialią valstybės ar savivaldybių instituciją ir asmenis, kurie kartu atlieka tarnybines pareigas, ir pareikšti apie nusišalinimą, ir jokia forma nedalyvauti toliau atliekant tarnybines pareigas. Ši straipsnio dalis gali būti netaikoma institucijos ar įstaigos vadovui sprendžiant su juo pačiu susijusius einamuosius vidaus administravimo klausimus, jeigu konkrečios išimtys yra numatytos jį į pareigas priimančio ar skiriančio subjekto arba kolegialios valstybės ar savivaldybių institucijos sprendime, kuris yra paskelbtas viešai. 
+2. Apie šio straipsnio 1 dalyje nurodytus atvejus, prieš atlikdamas tarnybines pareigas arba pradėjęs jas atlikti, deklaruojantis asmuo privalo informuoti institucijos ar įstaigos vadovą ar jo įgaliotą asmenį arba kitą į pareigas priimantį ar skiriantį subjektą, arba kolegialią valstybės ar savivaldybių instituciją (kai deklaruojantis asmuo yra kolegialios valstybės ar savivaldybių institucijos narys) ir asmenis, kurie kartu atlieka tarnybines pareigas, ir pareikšti apie nusišalinimą, ir jokia forma nedalyvauti toliau atliekant tarnybines pareigas. 
 
 
 
 
-3. Institucijos ar įstaigos vadovas ar jo įgaliotas atstovas, o kai deklaruojantis asmuo yra institucijos ar įstaigos vadovas, šį vadovą į pareigas priimantis ar skiriantis subjektas arba kolegiali valstybės ar savivaldybių institucija, vadovaudamiesi VTEK nustatytais kriterijais, motyvuotu rašytiniu sprendimu gali nepriimti deklaruojančio asmens pareikšto nusišalinimo ir įpareigoti jį toliau atlikti tarnybines pareigas.
+3. Institucijos ar įstaigos vadovas ar jo įgaliotas asmuo arba kitas į pareigas priimantis ar skiriantis subjektas, arba kolegiali valstybės ar savivaldybių institucija (kai deklaruojantis asmuo yra kolegialios valstybės ar savivaldybių institucijos narys), vadovaudamiesi VTEK nustatytais kriterijais, motyvuotu rašytiniu sprendimu gali nepriimti deklaruojančio asmens pareikšto nusišalinimo ir įpareigoti jį toliau atlikti tarnybines pareigas.
 
 
 
 
-4. Kai nuo tarnybinių pareigų atlikimo nusišalina arba yra nušalinamas institucijos ar įstaigos vadovas, institucijoje ar įstaigoje šias tarnybines pareigas atliekant kitiems asmenims priimami sprendimai turi būti suderinti su institucijos ar įstaigos vadovą į pareigas priimančiu ar skiriančiu subjektu arba kolegialia valstybės ar savivaldybių institucija, arba jų įgaliotu asmeniu.
+4. Deklaruojantis asmuo, kuris yra institucijos ar įstaigos vadovas, šio straipsnio 2 dalyje numatytą pareiškimą apie nusišalinimą pateikia jį į pareigas priimančiam ar skiriančiam subjektui. Duomenys apie institucijos ar įstaigos vadovo nusišalinimą ar nušalinimą skelbiami viešai šios institucijos ar įstaigos interneto svetainėje ir pateikiami VTEK. Pareigos nusišalinti neturi institucijos ar įstaigos vadovas, spręsdamas su juo pačiu susijusius einamuosius vidaus administravimo klausimus (išskyrus klausimus dėl visų rūšių priemokų, išmokų skyrimo, kitų pagal esmę panašių mokėjimų atlikimo), jeigu teisės aktuose nenustatyta kitaip. Šiuo atveju institucijos ar įstaigos vadovas, atlikdamas tarnybines pareigas, privalo laikytis šio įstatymo 3 straipsnio 1 dalyje, išskyrus 2 punktą, nustatytų reikalavimų. Specialiuose įstatymuose institucijų ar įstaigų vadovams gali būti nustatyti kiti viešųjų interesų viršenybės užtikrinimo būdai.
 
 
 
 
-5. Deklaruojantis asmuo privalo vykdyti VTEK, institucijos ar įstaigos vadovo ar jo įgalioto asmens, o kai deklaruojantis asmuo yra institucijos ar įstaigos vadovas, šį vadovą į pareigas priimančio ar skiriančio subjekto arba kolegialios valstybės ar savivaldybių institucijos rašytines išankstines rekomendacijas, nuo kokių tarnybinių pareigų atlikimo jis privalo nusišalinti. Šios rekomendacijos, remiantis deklaracijomis arba asmens prašymu, yra sudaromos dėl konkrečios situacijos. Išankstines rekomendacijas deklaruojantis asmuo gali skelbti viešai savo nuožiūra.
+5. Deklaruojantis asmuo privalo vykdyti VTEK, institucijos ar įstaigos vadovo ar jo įgalioto asmens rašytines išankstines rekomendacijas, nuo kokių tarnybinių pareigų atlikimo jis privalo nusišalinti. Šios rekomendacijos, remiantis deklaracijomis, Interesų konfliktų rizikos valdymo informacinės sistemos duomenimis arba asmens prašymu, yra sudaromos dėl konkrečios situacijos. Išankstines rekomendacijas deklaruojantis asmuo gali skelbti viešai savo nuožiūra.
 
 
 
 
-6. Institucijos ar įstaigos vadovas ar jo įgaliotas asmuo, o kai deklaruojantis asmuo yra institucijos ar įstaigos vadovas, šį vadovą į pareigas priimantis ar skiriantis subjektas arba kolegiali valstybės ar savivaldybių institucija motyvuotu rašytiniu sprendimu nušalina deklaruojantį asmenį nuo tarnybinių pareigų atlikimo, jeigu yra pakankamas pagrindas manyti, kad šio asmens dalyvavimas yra susijęs su jo privačiais interesais ir sukels interesų konfliktą.
+6. Institucijos ar įstaigos vadovas ar jo įgaliotas asmuo, o kai deklaruojantis asmuo yra institucijos ar įstaigos vadovas, – šį vadovą į pareigas priimantis ar skiriantis subjektas arba kolegiali valstybės ar savivaldybių institucija (kai deklaruojantis asmuo yra kolegialios valstybės ar savivaldybių institucijos narys) motyvuotu rašytiniu sprendimu nušalina deklaruojantį asmenį nuo tarnybinių pareigų atlikimo, jeigu yra pakankamas pagrindas manyti, kad šio asmens dalyvavimas yra susijęs su jo privačiais interesais ir gali sukelti interesų konfliktą.
 
 
 
 
-7. Respublikos Prezidentui, Seimo ir Vyriausybės nariams, savivaldybių tarybų nariams, teisėjams, prokurorams, ikiteisminio tyrimo pareigūnams ir kitiems pareigūnams, kuriems viešųjų interesų viršenybės užtikrinimo būdai nustatomi jų veiklą reglamentuojančiuose įstatymuose, šio straipsnio nuostatos taikomos tiek, kiek jų veiklą reglamentuojančiuose įstatymuose nenustatyti viešųjų interesų viršenybės užtikrinimo būdai.
+7. Respublikos Prezidentui, Seimo ir Vyriausybės nariams, savivaldybių tarybų nariams, teisėjams, Lietuvos banko valdybos pirmininkui, jo pavaduotojams ir valdybos nariams, prokurorams, ikiteisminio tyrimo pareigūnams ir kitiems valstybės pareigūnams, kuriems viešųjų interesų viršenybės užtikrinimo būdai nustatomi jų veiklą reglamentuojančiuose įstatymuose, šio straipsnio nuostatos taikomos tiek, kiek jų veiklą reglamentuojančiuose įstatymuose nenustatyti viešųjų interesų viršenybės užtikrinimo būdai.
 
 
 
@@ -480,10 +501,12 @@ DEKLARUOJANČIŲ ASMENŲ PAREIGOS IR JIEMS TAIKOMI APRIBOJIMAI
 
 
 
-9. Duomenys apie sprendimą nepriimti pareikšto nusišalinimo elektroninėmis priemonėmis per penkias darbo dienas nuo sprendimo priėmimo dienos pateikiami VTEK jos nustatyta tvarka.
+9. Duomenys apie sprendimą nepriimti pareikšto nusišalinimo elektroninėmis priemonėmis per penkias darbo dienas nuo sprendimo priėmimo dienos pateikiami VTEK jos nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3187, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15510
  
-
-
 
 
 
@@ -542,7 +565,10 @@ DEKLARUOJANČIŲ ASMENŲ PAREIGOS IR JIEMS TAIKOMI APRIBOJIMAI
 
 
 
-2. Šio straipsnio 1 dalyje nustatytas apribojimas netaikomas dėl ne didesnės negu 150 eurų vertės dovanų, gautų pagal tarptautinį protokolą ar tradicijas, kurios įprastai yra susijusios su valstybinėje tarnyboje dirbančio asmens pareigomis, taip pat dėl reprezentacijai skirtų dovanų su valstybės, įstaigos ir kitokia simbolika arba kai paslaugomis yra naudojamasi tarnybiniais tikslais.
+2. Šio straipsnio 1 dalyje nustatytas apribojimas netaikomas dėl ne didesnės negu 150 eurų vertės dovanų, gautų pagal tarptautinį protokolą ar tradicijas, kurios įprastai yra susijusios su deklaruojančio asmens tarnybinėmis pareigomis, taip pat dėl reprezentacijai skirtų dovanų su valstybės, įstaigos ir kitokia simbolika arba kai paslaugomis yra naudojamasi tarnybiniais tikslais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3187, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15510
+ 
 
 
 
@@ -573,13 +599,15 @@ APRIBOJIMAI PASIBAIGUS TARNYBAI
  
 
 
-15 straipsnis. Apribojimai dirbti
+15 straipsnis. Apribojimai dirbti
 
 
-Asmuo, nustojęs dirbti valstybinėje tarnyboje, vienus metus negali dirbti juridiniame asmenyje, su kurio veiklos priežiūra ir kontrole per paskutinius vienus darbo metus buvo tiesiogiai susijusios jo tarnybinės pareigos arba dėl kurio rengiant, svarstant ar priimant sprendimus jis dalyvavo, įskaitant sprendimus konkurso ar kitokiu būdu teikti valstybės užsakymus ar finansinę paramą.
+Asmuo, kuris eidamas šio įstatymo 2 straipsnio 5 dalyje nurodytas pareigas per paskutinius vienus darbo einant šias pareigas metus tiesiogiai rengė, svarstė ar priėmė sprendimus, susijusius su juridinio asmens (nepaisant jo teisinės formos ir nuosavybės) veiklos priežiūra ar kontrole, arba sprendimus, kuriais šiam juridiniam asmeniui buvo skirta lėšų iš Lietuvos Respublikos valstybės ar savivaldybių biudžetų ir pinigų fondų, ar kitus su turtu susijusius sprendimus, baigęs eiti šio įstatymo 2 straipsnio 5 dalyje  nurodytas pareigas vienus metus negali eiti pareigų šiame straipsnyje nurodytame juridiniame asmenyje, jeigu kituose įstatymuose nenustatyta kitaip. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3187, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15510
  
-
-
 
 
 
@@ -616,13 +644,20 @@ Asmuo, nustojęs dirbti valstybinėje tarnyboje, vienus metus negali dirbti juri
 
 
 
-18 straipsnis. Apribojimų netaikymas 
+18 straipsnis. Apribojimų netaikymas
 
 
-VTEK konkrečiais atvejais gali priimti sprendimą dėl šio įstatymo 15, 16 ir 17 straipsniuose nustatytų apribojimų taikymo išimčių, kai apribojimų taikymas gali pakenkti visuomenės ar valstybės interesams. 
+1. VTEK konkrečiais atvejais, gavusi asmens prašymą, atsižvelgdama į šio įstatymo 3 straipsnio 1 dalyje nustatytas deklaruojančių asmenų pareigas, įvertinusi prašymą pateikusio asmens nurodytas aplinkybes, savo pačios surinktus dokumentus ar informaciją, taip pat juridinių asmenų teisinę formą, sprendimų turinį, asmens pareigų pobūdį, tarnybines (darbo) funkcijas ir atsakomybės mastą, gali priimti sprendimą dėl šio įstatymo 15 straipsnyje nustatyto apribojimo taikymo išimčių, jeigu tai neprieštarauja šio įstatymo paskirčiai ir kitiems tarnybinės etikos ir elgesio normas reglamentuojantiems teisės aktams.
+
+
+
+
+2. VTEK konkrečiais atvejais, gavusi asmens prašymą, įvertinusi prašymą pateikusio asmens nurodytas aplinkybes, savo pačios surinktus dokumentus ar informaciją, gali priimti sprendimą dėl šio įstatymo 16 ir 17 straipsniuose nustatytų apribojimų taikymo išimčių, kai apribojimų taikymas gali pakenkti visuomenės ar valstybės interesams. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3187, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15510
  
-
-
 
 
 
@@ -836,7 +871,10 @@ PRIVAČIŲ INTERESŲ REGISTRAS
 
 
 
-3) šio įstatymo nuostatos pažeistos dėl interesų konflikto, kurio aplinkybėmis valstybinėje tarnyboje dirbantis asmuo (ar jam artimas asmuo) realizavo savo privatų interesą.
+3) šio įstatymo nuostatos pažeistos dėl interesų konflikto, kurio aplinkybėmis deklaruojantis asmuo (ar jam artimas asmuo) realizavo savo privatų interesą. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3187, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15510
+ 
 
 
 
@@ -861,7 +899,8 @@ PRIVAČIŲ INTERESŲ REGISTRAS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+ 
+RESPUBLIKOS PREZIDENTAS                                          ALGIRDAS BRAZAUSKAS
  
  
 
@@ -1013,3 +1052,8 @@ Dėl Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybin�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2274, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11194
 Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo Nr. VIII-371 pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3187, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15510
+Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo Nr. VIII-371 5, 10, 11, 13, 15, 18 ir 23 straipsnių pakeitimo įstatymas
