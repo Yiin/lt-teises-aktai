@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-14
+Suvestinė redakcija nuo 2020-07-15 iki 2020-08-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -1504,7 +1504,19 @@ Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 
 
-4. Tais atvejais, kai įtariamojo, kaltinamojo ar nuteistojo pasirinktas gynėjas daugiau kaip tris dienas iš eilės negali dalyvauti procese, ikiteisminio tyrimo pareigūnas, prokuroras ir teisėjas turi teisę pasiūlyti įtariamajam, kaltinamajam ar nuteistajam pasikviesti kitą gynėją, o jei šie to nepadaro, privalo paskirti gynėją. Jeigu įtariamojo, kaltinamojo ar nuteistojo pasirinktas gynėjas negali per šešias valandas atvykti dalyvauti pirmojoje apklausoje arba apklausoje dėl suėmimo pagrįstumo, ikiteisminio tyrimo pareigūnas, prokuroras ar teismas turi teisę pasiūlyti įtariamajam, kaltinamajam ar nuteistajam į šią apklausą pasikviesti kitą gynėją, o jei šie to nepadaro, privalo paskirti gynėją. Pagal šią dalį gynėjas yra paskiriamas neatsižvelgiant į ginamojo norus turėti konkretų advokatą. Gynėjas parenkamas ir paskiriamas šio Kodekso 51 straipsnio 3 dalyje nustatyta tvarka. Naujo gynėjo paskyrimas netrukdo bylos procese dalyvauti asmens anksčiau pasirinktam gynėjui.
+4. Tais atvejais, kai asmuo yra laikinai sulaikytas šio Kodekso 140 straipsnyje nustatyta tvarka ir jis nepasinaudojo šio straipsnio 2 dalyje nurodyta teise pasirinkti ir pasikviesti gynėją, ikiteisminio tyrimo pareigūnas arba prokuroras privalo paskirti gynėją, jeigu sulaikytasis prašo užtikrinti gynėjo dalyvavimą. Pagal šią dalį gynėjas yra paskiriamas neatsižvelgiant į ginamojo norus turėti konkretų advokatą. Gynėjas parenkamas ir paskiriamas šio Kodekso 51 straipsnio 3 dalyje nustatyta tvarka. 
+TAR pastaba. 4 dalies nuostatos taikomos, kai būtino gynėjo dalyvavimo klausimas sprendžiamas po įstatymo Nr. XIII-3180 įsigaliojimo (2020-07-15).
+Papildyta straipsnio dalimi:
+Nr. XIII-3180, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15006
+ 
+
+
+
+
+5. Tais atvejais, kai įtariamojo, kaltinamojo ar nuteistojo pasirinktas gynėjas daugiau kaip tris dienas iš eilės negali dalyvauti procese, ikiteisminio tyrimo pareigūnas, prokuroras ir teisėjas turi teisę pasiūlyti įtariamajam, kaltinamajam ar nuteistajam pasikviesti kitą gynėją, o jei šie to nepadaro, privalo paskirti gynėją. Jeigu įtariamojo, kaltinamojo ar nuteistojo pasirinktas gynėjas negali per šešias valandas atvykti dalyvauti pirmojoje apklausoje arba apklausoje dėl suėmimo pagrįstumo, ikiteisminio tyrimo pareigūnas, prokuroras ar teismas turi teisę pasiūlyti įtariamajam, kaltinamajam ar nuteistajam į šią apklausą pasikviesti kitą gynėją, o jei šie to nepadaro, privalo paskirti gynėją. Pagal šią dalį gynėjas yra paskiriamas neatsižvelgiant į ginamojo norus turėti konkretų advokatą. Gynėjas parenkamas ir paskiriamas šio Kodekso 51 straipsnio 3 dalyje nustatyta tvarka. Naujo gynėjo paskyrimas netrukdo bylos procese dalyvauti asmens anksčiau pasirinktam gynėjui.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3180, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15006
+ 
 
 
 Straipsnio pakeitimai:
@@ -1553,10 +1565,7 @@ Nr. XII-275, 2013-05-09, Žin., 2013, Nr. 54-2680 (2013-05-25)
 
 
 
-7) sprendžiant suėmimo skyrimo įtariamajam ar kaltinamajam klausimą, taip pat tiriant ir nagrinėjant bylas, kai įtariamasis ar kaltinamasis yra suimtas; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1438, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11749
- 
+7) sprendžiant suėmimo skyrimo įtariamajam ar kaltinamajam klausimą, taip pat tiriant ir nagrinėjant bylas, kai įtariamasis ar kaltinamasis yra suimtas;
 
 
 
@@ -1571,18 +1580,7 @@ Nr. XIII-1438, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11749
 
 
 
-10) kai asmuo yra laikinai sulaikytas šio Kodekso 140 straipsnyje nustatyta tvarka; 
-Papildyta straipsnio punktu:
-Nr. XIII-1438, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11749
- 
-
-
-
-
-11) kitais šio Kodekso numatytais atvejais.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-1438, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11749
- 
+10) kitais šio Kodekso numatytais atvejais.
 
 
 
@@ -1594,16 +1592,12 @@ Nr. XIII-1438, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11749
 
 
 
-3. Šiame straipsnyje nurodytais atvejais, taip pat šio Kodekso 50 straipsnio 4 dalyje nurodytais atvejais, jeigu gynėjo nėra pasikvietęs pats įtariamasis, kaltinamasis ar nuteistasis arba jų pavedimu ar sutikimu nėra pakvietę kiti asmenys, ikiteisminio tyrimo pareigūnas, prokuroras ar teismas privalo pranešti valstybės garantuojamos teisinės pagalbos teikimą organizuojančiai institucijai ar jos nurodytam koordinatoriui apie tai, kad įtariamajam, kaltinamajam ar nuteistajam būtinas gynėjas, ir paskirti šios institucijos parinktą gynėją. Gynėją poilsio ir švenčių dienomis bei valstybės garantuojamos teisinės pagalbos teikimą organizuojančios institucijos ne darbo valandomis ikiteisminio tyrimo pareigūnas, prokuroras ar teismas paskiria remdamasis šios institucijos sudarytais advokatų, teikiančių valstybės garantuojamą teisinę pagalbą baudžiamosiose bylose, budėjimo sąrašais. Įtariamajam, kaltinamajam ar nuteistajam apie paskirtą gynėją pranešama nedelsiant įteikiant ar išsiunčiant nutarties ar nutarimo paskirti gynėją nuorašą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-165, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29859
-Nr. XIII-1438, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11749
- 
+3. Šiame straipsnyje nurodytais atvejais, taip pat šio Kodekso 50 straipsnio 4 ir 5 dalyse nurodytais atvejais, jeigu gynėjo nėra pasikvietęs pats įtariamasis, kaltinamasis ar nuteistasis arba jų pavedimu ar sutikimu nėra pakvietę kiti asmenys, ikiteisminio tyrimo pareigūnas, prokuroras ar teismas privalo išaiškinti įtariamajam, kaltinamajam ar nuteistajam, kad paskirtos valstybės garantuojamos teisinės pagalbos išlaidos dėl būtino gynėjo dalyvavimo, atsižvelgiant į įtariamojo, kaltinamojo ar nuteistojo turtinę padėtį, išskyrus šio straipsnio 1 dalies 1 ir 2 punktuose nurodytus atvejus, gali būti išieškotos į valstybės biudžetą šio Kodekso nustatyta tvarka, ir pranešti valstybės garantuojamos teisinės pagalbos teikimą organizuojančiai institucijai ar jos nurodytam koordinatoriui apie tai, kad įtariamajam, kaltinamajam ar nuteistajam būtinas gynėjas, bei paskirti šios institucijos parinktą gynėją. Gynėją poilsio ir švenčių dienomis bei valstybės garantuojamos teisinės pagalbos teikimą organizuojančios institucijos ne darbo valandomis ikiteisminio tyrimo pareigūnas, prokuroras ar teismas paskiria remdamasis šios institucijos sudarytais advokatų, teikiančių valstybės garantuojamą teisinę pagalbą baudžiamosiose bylose, budėjimo sąrašais. Įtariamajam, kaltinamajam ar nuteistajam apie paskirtą gynėją pranešama nedelsiant įteikiant ar išsiunčiant nutarties ar nutarimo paskirti gynėją nuorašą.
 
 
 
 
-4. Išnykus šio Kodekso 50 straipsnio 4 dalyje ir šio  straipsnio 1 arba 2 dalyje nurodytoms aplinkybėms, dėl kurių įtariamajam, kaltinamajam ar nuteistajam buvo paskirta valstybės garantuojama teisinė pagalba, ikiteisminio tyrimo pareigūnas, prokuroras nutarimu ar teismas nutartimi nutraukia valstybės garantuojamos teisinės pagalbos teikimą.
+4. Išnykus šio Kodekso 50 straipsnio 4 ir 5 dalyse ir šio straipsnio 1 arba 2 dalyje nurodytoms aplinkybėms, dėl kurių įtariamajam, kaltinamajam ar nuteistajam buvo paskirta valstybės garantuojama teisinė pagalba, ikiteisminio tyrimo pareigūnas, prokuroras nutarimu ar teismas nutartimi nutraukia valstybės garantuojamos teisinės pagalbos teikimą. 
 
 
 Straipsnio pakeitimai:
@@ -1611,6 +1605,8 @@ Nr. IX-2170, 2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
 Nr. X-81, 2005-01-20, Žin., 2005, Nr. 18-575 (2005-02-08)
 Nr. X-1493, 2008-04-15, Žin., 2008, Nr. 50-1842 (2008-04-30)
 Nr. XII-275, 2013-05-09, Žin., 2013, Nr. 54-2680 (2013-05-25)
+Straipsnio pakeitimai:
+Nr. XIII-3180, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15006
  
 
 
@@ -3724,7 +3720,10 @@ Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
 
 
 
-2. Pripažinęs kaltinamąjį kaltu, teismas, priimdamas nuosprendį, turi teisę nuspręsti iš kaltinamojo išieškoti nukentėjusiojo ir civilinio ieškovo turėtas išlaidas advokato, kuris dalyvavo byloje kaip nukentėjusiojo ar civilinio ieškovo atstovas, paslaugoms apmokėti. Teismas, atsižvelgdamas į nuteistojo turtinę padėtį, gali šių išlaidų kaltinamajam nepriteisti ar jų dydį sumažinti. 
+2. Pripažinęs kaltinamąjį kaltu, teismas, priimdamas nuosprendį, priima sprendimą iš kaltinamojo išieškoti valstybės garantuojamos teisinės pagalbos išlaidas, susidariusias dėl būtino gynėjo dalyvavimo, atsižvelgdamas į kaltinamojo turtinę padėtį, išskyrus šio Kodekso 51 straipsnio 1 dalies 1 ir 2 punktuose nurodytus atvejus. Be to, teismas turi teisę nuspręsti iš kaltinamojo išieškoti nukentėjusiojo ir civilinio ieškovo patirtas išlaidas advokato, kuris dalyvavo byloje kaip nukentėjusiojo ar civilinio ieškovo atstovas, paslaugoms apmokėti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3180, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15006
+ 
 
 
 Straipsnio pakeitimai:
@@ -16293,3 +16292,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 89 ir 326 straipsnių pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3081, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14356
 Lietuvos Respublikos baudžiamojo proceso kodekso 3 straipsnio pakeitimo įstatymas
+ 
+49.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3180, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15006
+Lietuvos Respublikos baudžiamojo proceso kodekso 50, 51 ir 106 straipsnių pakeitimo įstatymas
