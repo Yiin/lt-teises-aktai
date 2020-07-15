@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-14
+Suvestinė redakcija nuo 2020-07-15 iki 2020-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
- 
-TAR pastaba. Įstatymo Nr. XIII-3020 nuostatos ir įgyvendinamieji teisės aktai taikomi gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas, tačiau ne anksčiau kaip 2020 m. liepos 1 d.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
-Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 6, 7, 9, 18, 31, 33, 78 straipsnių, priedo pakeitimo ir Įstatymo papildymo dešimtuoju-1 skirsniu įstatymas
  
 Nauja redakcija nuo 2012-02-07:
 Nr. XI-1919, 2012-01-17, Žin. 2012, Nr. 17-752 (2012-02-07), i. k. 1121010ISTA0XI-1919
@@ -877,7 +872,14 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
-10) nustatyti teisinius pagrindus nacionalinės energetikos sektoriaus reguliavimo institucijos ir perdavimo sistemos operatoriaus bendradarbiavimui regioniniu ir Europos Sąjungos lygmeniu.
+10) nustatyti teisinius pagrindus nacionalinės energetikos sektoriaus reguliavimo institucijos ir perdavimo sistemos operatoriaus bendradarbiavimui regioniniu ir Europos Sąjungos lygmeniu;
+
+
+
+
+11) nustatyti pagrindinius elektros energetikos sektoriaus krizių prevencijos, pasiruošimo šioms krizėms ir jų valdymo teisinius pagrindus. 
+Papildyta straipsnio punktu:
+Nr. XIII-3139, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15000
  
 
 
@@ -1064,10 +1066,19 @@ Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
 
 
 
-11) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+11) tvirtina Elektros energijos tiekimo saugumo užtikrinimo priemonių aprašą; 
+Papildyta straipsnio punktu:
+Nr. XIII-3139, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15000
+ 
+
+
+
+
+12) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+Nr. XIII-3139, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15000
  
 
 
@@ -1217,10 +1228,19 @@ Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
 
 
 
-18) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
+18) tvirtina Pasirengimo valdyti riziką elektros energetikos sektoriuje planą; 
+Papildyta straipsnio punktu:
+Nr. XIII-3139, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15000
+ 
+
+
+
+
+19) atlieka kitas Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytas funkcijas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+Nr. XIII-3139, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15000
  
 
 
@@ -6455,7 +6475,9 @@ Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
 
 
 VIENUOLIKTASIS SKIRSNIS
-APRŪPINIMO ELEKTROS ENERGIJA NUTRAUKIMAS IR RIBOJIMAS. TECHNINIAI IR SAUGUMO REIKALAVIMAI
+APRŪPINIMO ELEKTROS ENERGIJA NUTRAUKIMAS IR RIBOJIMAS. TECHNINIAI REIKALAVIMAI IR ELEKTROS ENERGIJOS TIEKIMO SAUGUMO UŽTIKRINIMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-3139, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15000
  
 
 
@@ -6649,6 +6671,49 @@ Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
  
 
 
+
+
+
+
+731 straipsnis. Elektros energijos tiekimo saugumo užtikrinimas
+
+
+1. Už elektros energijos tiekimo saugumo užtikrinimą pagal savo kompetenciją atsako Vyriausybė, Energetikos ministerija, Taryba, viešoji įstaiga Lietuvos energetikos agentūra (toliau – Agentūra), elektros energetikos įmonės ir vartotojai, kurių įrenginiai yra prijungti prie perdavimo tinklų. 
+
+
+
+
+2. Vyriausybė tvirtina Elektros energijos tiekimo saugumo užtikrinimo priemonių aprašą, kuriame nustato elektros energijos tiekimo saugumą užtikrinančių priemonių, kurios yra būtinos krizių elektros energetikos sektoriuje prevencijai, pasiruošimui šioms krizėms bei jų valdymui ir kurių įgyvendinimas šio straipsnio 1 dalyje nurodytoms institucijoms ir asmenims yra privalomas, taikymo ir įgyvendinimo tvarką. Šios priemonės apima nacionalinių elektros energetikos krizės scenarijų identifikavimo ir Pasirengimo valdyti riziką elektros energetikos sektoriuje plano rengimo procesus, išankstinio perspėjimo apie gresiančias elektros energetikos sektoriaus krizes ir krizės elektros energetikos sektoriuje paskelbimo sistemą bei kitas elektros energijos tiekimo saugumą užtikrinančias priemones.
+
+
+
+
+3. Kompetentinga institucija, atsakinga už Reglamente (ES) 2019/941 numatytų užduočių, susijusių su elektros energetikos sektoriaus krizių prevencija, pasirengimu šioms krizėms ir jų valdymu, vykdymą, yra Energetikos ministerija.  
+
+
+
+
+4. Nacionalinius elektros energetikos sektoriaus krizės scenarijus identifikuoja ir Pasirengimo valdyti riziką elektros energetikos sektoriuje planą rengia ir kompetentingai institucijai tvirtinti teikia Agentūra. 
+
+
+
+
+5. Šio straipsnio 1 dalyje nurodytos institucijos ir asmenys, siekdami užtikrinti energijos tiekimo saugumą, tarpusavyje bendradarbiauja identifikuojant nacionalinius elektros energetikos sektoriaus krizės scenarijus, rengiant Pasirengimo valdyti riziką elektros energetikos sektoriuje planą ir įgyvendinant kitas elektros energijos tiekimo saugumą užtikrinančias priemones, vadovaudamiesi Vyriausybės tvirtinamo Elektros energijos tiekimo saugumo užtikrinimo priemonių aprašo nuostatomis.
+
+
+
+
+6. Energetikos ministerija, vykdydama užduotis, susijusias su elektros energijos tiekimo saugumo įgyvendinimu, tvirtina ir savo interneto svetainėje skelbia Pasirengimo valdyti riziką elektros energetikos sektoriuje planą, teikia informaciją apie elektros energijos tiekimo saugumo užtikrinimo priemones Europos Komisijai ir valstybėms narėms, skelbia apie gresiančią, prasidėjusią elektros energetikos sektoriaus krizę, informuoja apie tai regioninių (tiesiogiai sujungtų) valstybių narių kompetentingas institucijas ir Europos Komisiją.  
+
+
+
+
+7. Nacionaliniai elektros energetikos sektoriaus krizės scenarijai ir Pasirengimo valdyti riziką elektros energetikos sektoriuje planas atnaujinami kas ketverius metus, nebent dėl svarbių priežasčių, inicijavus Energetikos ministerijai, Tarybai ar perdavimo sistemos operatoriui, juos reikėtų atnaujinti dažniau. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3139, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15000
+ 
 
 
 
@@ -7527,17 +7592,28 @@ priedas
 
 
 
-12. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/943 dėl elektros energijos vidaus rinkos. 
+12. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/941 dėl pasirengimo valdyti riziką elektros energijos sektoriuje, panaikinantis Direktyvą 2005/89/EB. 
 Papildyta punktu:
-Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+Nr. XIII-3139, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15000
  
 
 
 
 
-13. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/944 dėl elektros energijos vidaus rinkos bendrųjų taisyklių, kuria iš dalies keičiama Direktyva 2012/27/ES.
+13. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/943 dėl elektros energijos vidaus rinkos. 
+Papildyta punktu:
+Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+Punkto numeracijos pakeitimas:
+Nr. XIII-3139, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15000
+ 
+
+
+
+
+14. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/944 dėl elektros energijos vidaus rinkos bendrųjų taisyklių, kuria iš dalies keičiama Direktyva 2012/27/ES.
 Punkto numeracijos pakeitimas:
 Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+Nr. XIII-3139, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15000
  
 
 
@@ -7732,3 +7808,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 9, 12, 16, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 6, 7, 9, 18, 31, 33, 78 straipsnių, priedo pakeitimo ir Įstatymo papildymo dešimtuoju-1 skirsniu įstatymas
+ 
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3139, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15000
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 3, 6, 7 straipsnių, vienuoliktojo skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 73-1 straipsniu įstatymas
