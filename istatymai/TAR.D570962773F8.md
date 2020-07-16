@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D570962773F8"
 
 # Lietuvos Respublikos atmintinų dienų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-07-15
+Suvestinė redakcija nuo 2020-07-16 iki 2021-07-07
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 67-1672, i. k. 0971010ISTAVIII-397
  
@@ -53,7 +53,10 @@ ATMINTINŲ DIENŲ
 
 
 
-4) sausio 25-oji – Vilniaus pagarsinimo diena;
+4) sausio 25-oji – Vilniaus pagarsinimo diena, Lietuvos samariečių bendrijos diena;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3271, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15778
+ 
 
 
 
@@ -481,7 +484,15 @@ Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
 
 
 
-48) rugsėjo 8-oji – Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena;
+48) rugsėjo pirmasis sekmadienis – Senelių diena; 
+Papildyta straipsnio punktu:
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
+ 
+
+
+
+
+49) rugsėjo 8-oji – Šilinė (Švč. Mergelės Marijos gimimo diena), Vytauto Didžiojo karūnavimo ir Padėkos už Lietuvos nepriklausomybės ir laisvės apgynimą diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -490,12 +501,13 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-49) rugsėjo antrasis šeštadienis – Statybininkų diena;
+50) rugsėjo antrasis šeštadienis – Statybininkų diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -504,12 +516,13 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-50) rugsėjo 22-oji – Baltų vienybės diena;
+51) rugsėjo 22-oji – Baltų vienybės diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -518,12 +531,13 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-51) rugsėjo 23-ioji – Lietuvos žydų genocido atminimo diena;
+52) rugsėjo 23-ioji – Lietuvos žydų genocido atminimo diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -532,12 +546,13 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-52) rugsėjo 27-oji – Lietuvos socialinių darbuotojų diena;
+53) rugsėjo 27-oji – Lietuvos socialinių darbuotojų diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -546,12 +561,13 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-53) rugsėjo 28-oji – Tuskulėnų aukų atminimo diena;
+54) rugsėjo 28-oji – Tuskulėnų aukų atminimo diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -560,12 +576,13 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-54) spalio 1-oji – Tarptautinė pagyvenusių žmonių diena;
+55) spalio 1-oji – Tarptautinė pagyvenusių žmonių diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -574,12 +591,13 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-55) spalio pirmasis šeštadienis – Kūno kultūros ir sporto diena;
+56) spalio pirmasis šeštadienis – Kūno kultūros ir sporto diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -588,12 +606,13 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-56) spalio 5-oji – Tarptautinė mokytojų diena;
+57) spalio 5-oji – Tarptautinė mokytojų diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -602,12 +621,13 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-57) spalio 10-oji – Vietos savivaldos diena;
+58) spalio 10-oji – Vietos savivaldos diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -616,12 +636,13 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-58) spalio antrasis šeštadienis – Derliaus diena;
+59) spalio antrasis šeštadienis – Derliaus diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -630,12 +651,13 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-59) spalio 16-oji – Mažosios Lietuvos gyventojų genocido diena;
+60) spalio 16-oji – Mažosios Lietuvos gyventojų genocido diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -644,12 +666,13 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-60) spalio 20-oji – 1791 m. Abiejų Tautų (Lietuvos ir Lenkijos) tarpusavio įžado paskelbimo diena;
+61) spalio 20-oji – 1791 m. Abiejų Tautų (Lietuvos ir Lenkijos) tarpusavio įžado paskelbimo diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -658,12 +681,13 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-61) spalio 25-oji – Konstitucijos diena;
+62) spalio 25-oji – Konstitucijos diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -672,23 +696,25 @@ Nr. XIII-860, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20059
 Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-62) spalio 31-oji – Reformacijos diena; 
+63) spalio 31-oji – Reformacijos diena; 
 Papildyta straipsnio punktu:
 Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-63) netenka galios 2020-01-01;
+64) netenka galios 2020-01-01;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2417, 2019-08-22, paskelbta TAR 2019-08-30, i. k. 2019-13759
 Straipsnio punkto numeracijos pakeitimas:
@@ -700,12 +726,13 @@ Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-64) lapkričio 16-oji – Tarptautinė tolerancijos diena; 
+65) lapkričio 16-oji – Tarptautinė tolerancijos diena; 
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -715,12 +742,13 @@ Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-65) lapkričio 23-ioji – Lietuvos kariuomenės diena;
+66) lapkričio 23-ioji – Lietuvos kariuomenės diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -730,12 +758,13 @@ Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-66) lapkričio 30-oji – Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena;
+67) lapkričio 30-oji – Mažosios Lietuvos prisijungimo prie Didžiosios Lietuvos akto diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -745,12 +774,13 @@ Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-67) gruodžio 3-ioji – Lietuvos advokatūros diena;
+68) gruodžio 3-ioji – Lietuvos advokatūros diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -760,12 +790,23 @@ Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-68) gruodžio 10-oji – Tarptautinė žmogaus teisių diena;
+69) gruodžio 5-oji – Padėkos savanoriams diena; 
+Papildyta straipsnio punktu:
+Nr. XIII-3270, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15777
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
+ 
+
+
+
+
+70) gruodžio 10-oji – Tarptautinė žmogaus teisių diena;
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1497, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20792
 Nr. XII-2592, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20669
@@ -775,12 +816,14 @@ Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3270, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15777
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
 
 
-69) gruodžio 15-oji – Lietuvos teismų diena. 
+71) gruodžio 15-oji – Lietuvos teismų diena. 
 Papildyta straipsnio punktu:
 Nr. XIII-81, 2016-12-08, paskelbta TAR 2016-12-09, i. k. 2016-28618
 Straipsnio punkto numeracijos pakeitimas:
@@ -790,6 +833,8 @@ Nr. XIII-861, 2017-12-07, paskelbta TAR 2017-12-13, i. k. 2017-20061
 Nr. XIII-1446, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11757
 Nr. XIII-1951, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00894
 Nr. XIII-2271, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11193
+Nr. XIII-3270, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15777
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
  
 
 
@@ -1003,4 +1048,19 @@ Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakei
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2417, 2019-08-22, paskelbta TAR 2019-08-30, i. k. 2019-13759
+Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3270, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15777
+Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3271, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15778
+Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3272, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15779
 Lietuvos Respublikos atmintinų dienų įstatymo Nr. VIII-397 1 straipsnio pakeitimo įstatymas
