@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4C6BD6562C91"
 
 # Lietuvos Respublikos valstybės gynimo tarybos įstatymas
 
-Suvestinė redakcija nuo 2013-01-01 iki 2020-07-15
+Suvestinė redakcija nuo 2020-07-16
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 41-992, i. k. 0971010ISTAVIII-209
  
@@ -227,7 +227,10 @@ Nr. VIII-1779, 2000-06-29, Žin., 2000, Nr. 58-1711 (2000-07-19), i. k. 1001010I
 4. Į Valstybės gynimo tarybos posėdžius paprastai kviečiami šie pareigūnai:
 
 
-1) Seimo Nacionalinio saugumo komiteto pirmininkas;
+1) Seimo Nacionalinio saugumo ir gynybos komiteto pirmininkas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3256, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15771
+ 
 
 
 
@@ -449,3 +452,8 @@ Lietuvos Respublikos valstybės gynimo tarybos įstatymo 4 straipsnio papildymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2290, 2012-10-17, Žin., 2012, Nr. 129-6464 (2012-11-08), i. k. 1121010ISTA0XI-2290
 Lietuvos Respublikos valstybės gynimo tarybos įstatymo 4 straipsnio papildymo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3256, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15771
+Lietuvos Respublikos valstybės gynimo tarybos įstatymo Nr. VIII-209 5 straipsnio pakeitimo įstatymas
