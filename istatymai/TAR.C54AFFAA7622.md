@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C54AFFAA7622"
 
 # Lietuvos Respublikos viešųjų pirkimų įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-15
+Suvestinė redakcija nuo 2020-07-16 iki 2020-07-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 84-2000, i. k. 0961010ISTA00I-1491
  
@@ -4725,11 +4725,44 @@ Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 
 
 
-3. Supaprastinto pirkimo ir šio įstatymo 2 priede nurodytų socialinių ir kitų specialiųjų paslaugų tarptautinio pirkimo atvejais perkančioji organizacija, vykdydama neskelbiamas derybas šio įstatymo 71 straipsnio 1 dalies 2 ir 3 punktuose, 3 dalies 2, 3 ir 4 punktuose, 5 ir 6 dalyse nustatytomis sąlygomis, gali pirkimo sutartį sudaryti nesilaikydama šio straipsnio 2 dalyje nurodytiems etapams taikomų ir kitų pirkimo procedūroms bei pirkimo sutarties turiniui nustatytų reikalavimų. Šių reikalavimų perkančioji organizacija taip pat gali nesilaikyti tarptautinio pirkimo atveju, vykdydama neskelbiamas derybas šio įstatymo 71 straipsnio 1 dalies 3 punkte nustatytomis sąlygomis.
-TAR pastaba. Iki įstatymo Nr. XIII-2814 įsigaliojimo (2020-03-19) pradėtoms pirkimų procedūroms taikomos įstatymo Nr. XIII-2814 nuostatos.
+3. Supaprastinto pirkimo ir šio įstatymo 2 priede nurodytų socialinių ir kitų specialiųjų paslaugų tarptautinio pirkimo atvejais perkančioji organizacija, vykdydama neskelbiamas derybas šio įstatymo 71 straipsnio 1 dalies 2 ir 3 punktuose, 3 dalies 2, 3 ir 4 punktuose, 5 ir 6 dalyse nustatytomis sąlygomis, gali pirkimo sutartį sudaryti nesilaikydama šio straipsnio 2 dalyje nurodytiems etapams taikomų ir kitų pirkimo procedūroms bei pirkimo sutarties turiniui nustatytų reikalavimų. Šių reikalavimų perkančioji organizacija taip pat gali nesilaikyti tarptautinio pirkimo atveju, vykdydama neskelbiamas derybas šio įstatymo 71 straipsnio 1 dalies 3 punkte nustatytomis sąlygomis. Jeigu perkančioji organizacija nesilaiko šių reikalavimų vykdydama neskelbiamas derybas šio įstatymo 71 straipsnio 1 dalies 3 punkte nustatytomis sąlygomis, ji, pradėjusi pirkimą, kaip tai nustatyta šio įstatymo 29 straipsnio 1 dalies 3 punkte, turi kreiptis į Valstybinę mokesčių inspekciją prie Lietuvos Respublikos finansų ministerijos, Finansinių nusikaltimų tyrimo tarnybą prie Lietuvos Respublikos vidaus reikalų ministerijos, Specialiųjų tyrimų tarnybą su prašymu pateikti šio straipsnio 4 dalyje nurodytą informaciją apie tiekėjus, su kuriais ketinama derėtis dėl pirkimo sutarties sudarymo. Reikalavimas kreiptis į šias institucijas gali būti netaikomas išimtiniais atvejais, kai dėl neatidėliotinos būtinybės sudaryti pirkimo sutartį būtina greičiau negu per 3 darbo dienas arba yra vienintelis tiekėjas, galintis pasiūlyti reikiamas prekes, paslaugas ar darbus, ir pirkimo sutartį su juo būtina sudaryti siekiant užtikrinti viešojo intereso apsaugą, įskaitant visuomenės sveikatos ir aplinkos apsaugą. Perkančioji organizacija nepradeda derybų su tiekėju, jeigu pateikta informacija sudaro pagrindą spręsti, kad tiekėjas per pastaruosius 3 metus yra padaręs rimtą profesinį pažeidimą ir dėl to yra pagrindas abejoti šio tiekėjo sąžiningumu, išskyrus atvejus, kai būtina užtikrinti viešojo intereso apsaugą, įskaitant visuomenės sveikatos ir aplinkos apsaugą, ir nėra kitų tiekėjų. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2158, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09411
 Nr. XIII-2814, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05694
+Nr. XIII-3260, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15775
+ 
+
+
+
+
+4. Šio straipsnio 3 dalyje nurodytos institucijos ne vėliau kaip per 3 darbo dienas nuo prašymo gavimo dienos pagal kompetenciją perkančiajai organizacijai pateikia turimą informaciją apie tiekėją:
+
+
+1) ar yra šio įstatymo 46 straipsnio 1 ir 3 dalyse nustatyti tiekėjo pašalinimo pagrindai;
+
+
+
+
+2) ar dėl tiekėjo ir jo vadovo yra kitų, nei nurodyta šios dalies 1 punkte, priimtų ir įsiteisėjusių apkaltinamųjų teismo nuosprendžių, administracinių sprendimų;
+
+
+
+
+3) ar tiekėjui arba jo vadovui yra pareikštų įtarimų padarius korupcinio pobūdžio nusikalstamą veiką ar nusikalstamą veiką finansų sistemai. Taip pat pateikiama informacija apie priimtus procesinius sprendimus šiose bylose;
+
+
+
+
+4) ar tiekėjas (tiekėjo, kuris yra juridinis asmuo, vadovas) buvo pripažintas pažeidusiu Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo ir Lietuvos Respublikos lobistinės veiklos įstatymo nuostatas;
+
+
+
+
+5) įslaptinta informacija dėl asmens rengiamos, daromos ar padarytos nusikalstamos veikos, jeigu šios informacijos pateikimas neprieštarauja Lietuvos Respublikos kriminalinės žvalgybos įstatymui. Įslaptinta informacija pateikiama tik perkančiosioms organizacijoms, kurios laikomos paslapčių subjektais vadovaujantis Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymu. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-3260, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15775
  
 
 
@@ -8246,3 +8279,8 @@ Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 46 ir 72 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2429, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16067
 Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 23 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3260, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15775
+Lietuvos Respublikos viešųjų pirkimų įstatymo Nr. I-1491 72 straipsnio pakeitimo įstatymas
