@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-16
+Suvestinė redakcija nuo 2020-07-17 iki 2020-09-09
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -284,9 +284,10 @@ MOKESČIŲ TEISINIS REGLAMENTAVIMAS. MOKESČIŲ ĮSTATYMŲ ĮGYVENDINIMAS
 
 
 
-4. Šio straipsnio 3 dalis netaikoma su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu susijusiems Lietuvos Respublikos mokesčių įstatymų pakeitimams, teisės aktams, kurie derinami su Europos Sąjungos teisės aktų nuostatomis, taip pat Lietuvos Respublikos mokesčių įstatymams, reikalingiems susidarius išskirtinėms aplinkybėms, kaip jos apibrėžtos Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstituciniame įstatyme.
+4. Šio straipsnio 3 dalis netaikoma su atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu susijusiems Lietuvos Respublikos mokesčių įstatymų pakeitimams, teisės aktams, kurie derinami su Europos Sąjungos teisės aktų nuostatomis, Lietuvos Respublikos mokesčių įstatymams, reikalingiems susidarius išskirtinėms aplinkybėms, kaip jos apibrėžtos Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme, taip pat kai šie įstatymai reikalingi nepaprastosios padėties įvedimo tikslams pasiekti ar valstybės gynybai, kitoms gyvybiškai svarbioms valstybės funkcijoms mobilizacijos ar karo padėties metu atlikti.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3086, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14361
+Nr. XIII-3238, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15875
  
 
 
@@ -6800,3 +6801,8 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 3 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2691, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21547
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 13 ir 14 straipsnių pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3238, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15875
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 3 straipsnio pakeitimo įstatymas
