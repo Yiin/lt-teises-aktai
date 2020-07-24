@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-23
+Suvestinė redakcija nuo 2020-07-24 iki 2020-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -2666,11 +2666,19 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 7. Asmeniui, iš kurio pagal įstatymus teisė vairuoti transporto priemones buvo atimta du kartus už tai, kad jis padarė teisės pažeidimą būdamas neblaivus arba apsvaigęs nuo narkotikų, vaistų ar kitų svaigiųjų medžiagų, teisė vairuoti transporto priemones grąžinama ne anksčiau kaip po 10 metų.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 24 straipsnio 7 dalis (2013 m. birželio 13 d. redakcija; Žin., 2013, Nr. 68-3401) prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 5 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT133-N10/2020, 2020-07-24, paskelbta TAR 2020-07-24, i. k. 2020-16411
+ 
 
 
 
 
 8. Asmeniui, iš kurio pagal įstatymus teisė vairuoti transporto priemones buvo atimta tris kartus, teisė vairuoti transporto priemones grąžinama ne anksčiau kaip po 10 metų.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 24 straipsnio 8 dalis (2013 m. birželio 13 d. redakcija; Žin., 2013, Nr. 68-3401) prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 5 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio dalies pakeitimai:
+Nr. KT133-N10/2020, 2020-07-24, paskelbta TAR 2020-07-24, i. k. 2020-16411
+ 
 
 
 
@@ -3711,3 +3719,8 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2920, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10921
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir 19 straipsnių pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT133-N10/2020, 2020-07-24, paskelbta TAR 2020-07-24, i. k. 2020-16411
+Dėl Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 24 straipsnio 7, 8 dalių atitikties Lietuvos Respublikos Konstitucijai
