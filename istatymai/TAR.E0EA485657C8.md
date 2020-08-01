@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E0EA485657C8"
 
 # Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-31
+Suvestinė redakcija nuo 2020-08-01 iki 2020-08-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 69-1736, i. k. 0971010ISTAVIII-375
  
@@ -92,6 +92,13 @@ BENDROSIOS NUOSTATOS
 
 
 6. Šaulių rinktinė (toliau – rinktinė) – Lietuvos šaulių sąjungos padalinys, jungiantis aukštesniųjų administracinių vienetų centruose ir (ar) kitose aukštesniųjų administracinių vienetų teritorijose veikiančius Lietuvos šaulių sąjungos padalinius.
+
+
+
+
+7. Karinė įranga suprantama taip, kaip ji apibrėžta Lietuvos Respublikos strateginių prekių kontrolės įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
  
 
 
@@ -550,7 +557,10 @@ Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
 
 
 
-5. LŠS ar Krašto apsaugos ministerijos išlaidos, susijusios su LŠS vykdoma pilietinio ir tautinio ugdymo veikla įgyvendinant pilietinio ir tautinio ugdymo neformaliojo švietimo programas, pilietinio ugdymo veikla krašto gynybos srityje, šaulių parengimo ginkluotai valstybės gynybai išlaidos, LŠS veiklai naudojamų pastatų išlaikymo išlaidos (mokesčiai už suvartotą šaltą ir karštą vandenį, elektros energiją, gamtines dujas, šilumos energiją ir komunalines paslaugas), transporto ir kitos su pagalba LŠS veiklai administruoti susijusios išlaidos apmokamos iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų. Krašto apsaugos ministerija gali perduoti LŠS valdyti ir naudoti patikėjimo teise pagal turto patikėjimo sutartį LŠS vykdomai pilietinio ir tautinio ugdymo veiklai įgyvendinant pilietinio ir tautinio ugdymo neformaliojo švietimo programas, taip pat pilietinio ugdymo veiklai krašto gynybos srityje reikalingą Krašto apsaugos ministerijos patikėjimo teise valdomą trumpalaikį materialųjį turtą. 
+5. LŠS ar Krašto apsaugos ministerijos išlaidos, susijusios su LŠS vykdoma pilietinio ir tautinio ugdymo veikla įgyvendinant pilietinio ir tautinio ugdymo neformaliojo švietimo programas, pilietinio ugdymo veikla krašto gynybos srityje, šaulių parengimo ginkluotai valstybės gynybai išlaidos, LŠS veiklai naudojamų pastatų išlaikymo išlaidos (mokesčiai už suvartotą šaltą ir karštą vandenį, elektros energiją, gamtines dujas, šilumos energiją ir komunalines paslaugas), transporto ir kitos su pagalba LŠS veiklai administruoti susijusios išlaidos apmokamos iš Krašto apsaugos ministerijai skiriamų valstybės biudžeto asignavimų. Krašto apsaugos ministerija gali perduoti LŠS valdyti, naudoti ir disponuoti juo patikėjimo teise  LŠS vykdomai pilietinio ir tautinio ugdymo veiklai įgyvendinant pilietinio ir tautinio ugdymo neformaliojo švietimo programas, taip pat pilietinio ugdymo veiklai krašto gynybos srityje reikalingą Krašto apsaugos ministerijos patikėjimo teise valdomą trumpalaikį materialųjį turtą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
+ 
 
 
 
@@ -607,14 +617,19 @@ Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
 
 
 
-6) aprūpinti LŠS kovinių būrių šaulius lauko uniforma ir ekipuote.
+6) Neteko galios nuo 2020-08-01
+Straipsnio punkto naikinimas:
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
+ 
 
 
 
 
-2. Kariuomenės vado sprendimu kariuomenė gali padėti aprūpinti šaulius šaulio uniformomis. 
+2. Kariuomenės vadui priėmus sprendimą,  kariuomenėje gali būti neatlygintinai saugoma LŠS Lietuvos Respublikos Vyriausybės sprendimu perduota karinė įranga. Sprendime nurodoma karinės įrangos saugojimo vieta, terminas, asmuo, įgaliotas pasirašyti pasaugos sutartį ir karinės įrangos priėmimo ir perdavimo aktą.
 Papildyta straipsnio dalimi:
 Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
+Straipsnio dalies pakeitimai:
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
  
 
 
@@ -1827,30 +1842,51 @@ Nr. XIII-1809, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21822
 
 
 
-4. Šaulio uniformų išdavimo šauliams tvarką nustato LŠS vadas. Asmuo privalo grąžinti šaulio uniformą LŠS arba atlyginti LŠS jos vertę, jeigu išstoja iš LŠS per penkerius metus nuo jo priėmimo į LŠS, yra pašalinamas iš LŠS arba jo narystė LŠS nutrūksta šio įstatymo 31 straipsnio 5 dalyje nustatytu atveju. Atlygintina uniformos vertė lygi naujos šaulio uniformos vertei asmens narystės LŠS pasibaigimo dieną.
-Straipsnio dalies pakeitimai:
-Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
+4. Šauliai, kurie dalyvauja bendrose karinių vienetų ir LŠS padalinių pratybose, karinių vienetų kovinio parengimo pratybose, aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas karių fiziologines mitybos normas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
  
 
 
 
 
-5. Šaulys, kuris žuvo atlikdamas šaulio tarnybą, laidojamas iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Valstybės finansuojamų laidojimo išlaidų aprašą tvirtina Vyriausybė arba jos įgaliota institucija.
+5. Šaulio uniformų išdavimo šauliams tvarką nustato LŠS vadas. Asmuo privalo grąžinti šaulio uniformą LŠS arba atlyginti LŠS jos vertę, jeigu išstoja iš LŠS per penkerius metus nuo jo priėmimo į LŠS, yra pašalinamas iš LŠS arba jo narystė LŠS nutrūksta šio įstatymo 31 straipsnio 5 dalyje nustatytu atveju. Atlygintina uniformos vertė lygi naujos šaulio uniformos vertei asmens narystės LŠS pasibaigimo dieną.
+Straipsnio dalies pakeitimai:
+Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
+ 
 
 
 
 
-6. Šauliui, kuris žuvo atlikdamas šaulio tarnybą, iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų pastatomas krašto apsaugos ministro patvirtinto pavyzdžio antkapinis paminklas, o jeigu žuvusiojo artimieji nusprendžia statyti kitokį paminklą, apmokama krašto apsaugos ministro nustatyto dydžio paminklo statymo išlaidų dalis.
+6. Šaulys, kuris žuvo atlikdamas šaulio tarnybą, laidojamas iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Valstybės finansuojamų laidojimo išlaidų aprašą tvirtina Vyriausybė arba jos įgaliota institucija.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
+ 
 
 
 
 
-7. Jeigu šaulio mirtis nėra susijusi su jo tarnyba, jam gali būti pastatytas krašto apsaugos ministro patvirtinto pavyzdžio antkapinis paminklas, bet jo statymo išlaidos gali būti apmokamos iš LŠS lėšų tik LŠS vado įsakymu su LŠS Centro valdybos pritarimu. Šiam tikslui negali būti naudojamos valstybės biudžeto lėšos.
+7. Šauliui, kuris žuvo atlikdamas šaulio tarnybą, iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų pastatomas krašto apsaugos ministro patvirtinto pavyzdžio antkapinis paminklas, o jeigu žuvusiojo artimieji nusprendžia statyti kitokį paminklą, apmokama krašto apsaugos ministro nustatyto dydžio paminklo statymo išlaidų dalis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
+ 
 
 
 
 
-8. Šio straipsnio 1, 2 ir 3 dalyse nustatytos garantijos netaikomos LŠS vadui ir šauliams, einantiems šio įstatymo 36 straipsnyje nurodytas pareigas.
+8. Jeigu šaulio mirtis nėra susijusi su jo tarnyba, jam gali būti pastatytas krašto apsaugos ministro patvirtinto pavyzdžio antkapinis paminklas, bet jo statymo išlaidos gali būti apmokamos iš LŠS lėšų tik LŠS vado įsakymu su LŠS Centro valdybos pritarimu. Šiam tikslui negali būti naudojamos valstybės biudžeto lėšos.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
+ 
+
+
+
+
+9. Šio straipsnio 1, 2 ir 3 dalyse nustatytos garantijos netaikomos LŠS vadui ir šauliams, einantiems šio įstatymo 36 straipsnyje nurodytas pareigas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
  
 
 
@@ -2111,22 +2147,45 @@ Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010IST
 
 
 
-41 straipsnis. LŠS turto patikėjimo teise ar panaudos pagrindais valdomas ir naudojamas valstybės ir savivaldybių turtas
+41 straipsnis. Valstybės turto perdavimas LŠS 
 
 
-1. Įstatymų nustatyta tvarka valstybės ir savivaldybių turtas gali būti perduodamas LŠS valdyti ir naudotis turto patikėjimo teise ar panaudos pagrindais.
+1. Perduodant valstybės ar savivaldybių turtą LŠS valdyti, naudoti ar disponuoti juo patikėjimo teise ar panaudos pagrindais, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas taikomas tiek, kiek šio turto perdavimo LŠS nereglamentuoja šis įstatymas.
 
 
 
 
-2. Šio įstatymo 12 straipsnio 5 dalyje nurodytu atveju sprendimą perduoti turtą LŠS valdyti ir naudoti patikėjimo teise pagal turto patikėjimo sutartį priima krašto apsaugos ministras, o 13 straipsnio 1 dalies 6 punkte ir 2 dalyje nustatytais atvejais – kariuomenės vadas, suderinęs su krašto apsaugos ministru. Pasibaigus turto patikėjimo sutarčiai, LŠS privalo grąžinti turtą patikėtojui, jeigu sutartyje nenustatyta ko kita.
-Straipsnio dalies pakeitimai:
-Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
- 
+2. Šio įstatymo 12 straipsnio 5 dalyje nurodytu atveju sprendimą perduoti LŠS valdyti, naudoti ir disponuoti juo patikėjimo teise Krašto apsaugos ministerijos patikėjimo teise valdomą trumpalaikį materialųjį turtą priima krašto apsaugos ministras.
+
+
+
+
+3. Vyriausybės sprendimu gali būti perduotas LŠS valdyti, naudoti ir disponuoti juo patikėjimo teise kariuomenės patikėjimo teise valdomas trumpalaikis ir ilgalaikis materialusis turtas, reikalingas LŠS šio įstatymo 8 straipsnyje numatytiems LŠS uždaviniams įgyvendinti.
+
+
+
+
+4. Vyriausybei ar krašto apsaugos ministrui priėmus sprendimą perduoti turtą, turtas perduodamas pagal turto perdavimo–priėmimo aktą.
+
+
+
+
+5. LŠS gautą valstybės turtą privalo naudoti pagal paskirtį ir tik šio įstatymo 8 straipsnyje numatytiems uždaviniams įgyvendinti, taip pat laikytis šiam turtui nustatytų priešgaisrinės saugos, sandėliavimo, sanitarinių ir kitų turto valdymo srities taisyklių.
+
+
+
+
+6. LŠS šio straipsnio 2 ir 3 dalyse nurodytais atvejais valstybės turto negali perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą, jo išnuomoti, suteikti panaudos pagrindais ar perduoti jį kitiems asmenims naudotis kitu būdu.  
+
+
+
+
+7. LŠS patikėjimo teise valdomas valstybės turtas pripažįstamas nereikalingu arba netinkamu (negalimu) naudoti mutatis mutandis Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1974, 2012-04-17, Žin., 2012, Nr. 51-2528 (2012-05-03), i. k. 1121010ISTA0XI-1974
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
  
 
 
@@ -2239,3 +2298,8 @@ Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 34 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2676, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21317
 Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 8 ir 30 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 2, 3, 8, 9, 12, 13, 21, 34, 35, 41 straipsnių pakeitimo ir Įstatymo papildymo 20-1, 33-1 straipsniais įstatymas
