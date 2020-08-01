@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/d1e6be90747611e3b675ad30753d4b1b"
 
 # Lietuvos Respublikos nevyriausybinių organizacijų plėtros ĮSTATYMAS
 
-Suvestinė redakcija nuo 2020-03-01 iki 2020-07-31
+Suvestinė redakcija nuo 2020-08-01 iki 2022-01-31
  
 Įstatymas paskelbtas: TAR 2014-01-03, i. k. 2014-00018
- 
-TAR pastaba. Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo 2 straipsnio 3 dalies nuostatos asociacijoms, iki įstatymo Nr. XIII-2626  įsigaliojimo (2020-03-01)  gavusioms finansavimą pagal Lietuvos kaimo plėtros 2014–2020 m. programą ir pagal šią programą įgyvendinančioms vietos plėtros strategijas, taikomos nuo 2024 m. sausio 1 d. Iki 2023 m. gruodžio 31 d. asociacijoms, iki šio įstatymo įsigaliojimo gavusioms finansavimą pagal Lietuvos kaimo plėtros 2014–2020 m. programą ir pagal šią programą įgyvendinančioms vietos plėtros strategijas, taikomos iki šio įstatymo įsigaliojimo galiojusios nevyriausybinės organizacijos sąvoką apibrėžiančios nuostatos.  Nevyriausybinių organizacijų plėtros įstatymo 2 straipsnio 3 dalies nuostatos viešajai įstaigai Rytų Europos studijų centrui taikomos nuo 2023 m. sausio 1 d. Iki 2022 m. gruodžio 31 d. viešajai įstaigai Rytų Europos studijų centrui taikomos iki įstatymo Nr. XIII-2626 įsigaliojimo (2020-03-01) galiojusios nevyriausybinės organizacijos sąvoką apibrėžiančios nuostatos.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2626, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20654
-Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo Nr. XII-717 pakeitimo įstatymas
  
 Nauja redakcija nuo 2020-03-01:
 Nr. XIII-2626, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20654
@@ -473,7 +468,9 @@ Asignavimų valdytojai, skirstydami nevyriausybinių organizacijų veiklos finan
 
 
 
-4. Sprendimus dėl Fondo strateginių programų krypčių ir lėšų tam tikroms Fondo veiklos kryptims skyrimo Fondo nuostatuose nustatyta tvarka priima Fondo taryba. Fondo tarybą sudaro septyni nariai: trys nevyriausybinių organizacijų atstovai, trys valstybės institucijų ir įstaigų atstovai ir vienas nevyriausybinių organizacijų srities mokslininkas. Fondo tarybos nariu gali būti skiriamas Lietuvos Respublikos valstybės tarnybos įstatyme nustatytus nepriekaištingos reputacijos reikalavimus atitinkantis asmuo. Fondo tarybos institucinę sudėtį socialinės apsaugos ir darbo ministro teikimu trejiems metams tvirtina Vyriausybė. Personalinę Fondo tarybos sudėtį tvirtina socialinės apsaugos ir darbo ministras. Fondo tarybos sudarymo tvarka, Fondo tarybos narių kompetencijos reikalavimai nustatomi Fondo nuostatuose.
+4. Sprendimus dėl Fondo strateginių programų krypčių ir lėšų tam tikroms Fondo veiklos kryptims skyrimo Fondo nuostatuose nustatyta tvarka priima Fondo taryba. Fondo tarybą sudaro septyni nariai: trys nevyriausybinių organizacijų atstovai, trys valstybės institucijų ir įstaigų atstovai ir vienas nevyriausybinių organizacijų srities mokslininkas. Fondo tarybos nariu gali būti skiriamas Lietuvos Respublikos valstybės tarnybos įstatyme nustatytus nepriekaištingos reputacijos reikalavimus atitinkantis asmuo. Fondo tarybos institucinę sudėtį socialinės apsaugos ir darbo ministro teikimu trejiems metams tvirtina Vyriausybė. Personalinę Fondo tarybos sudėtį tvirtina socialinės apsaugos ir darbo ministras. Fondo tarybos sudarymo tvarka, Fondo tarybos narių kompetencijos reikalavimai nustatomi Fondo nuostatuose. Fondo tarybos narių, kurie nėra valstybės institucijų ir įstaigų atstovai, darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3191, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15513
  
 
 
@@ -622,7 +619,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTĖ                                              DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                DALIA GRYBAUSKAITĖ
  
 
 
@@ -635,3 +632,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2626, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20654
 Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo Nr. XII-717 pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3191, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15513
+Lietuvos Respublikos nevyriausybinių organizacijų plėtros įstatymo Nr. XII-717 9 straipsnio pakeitimo įstatymas
