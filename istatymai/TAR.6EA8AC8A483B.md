@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-07-31
+Suvestinė redakcija nuo 2020-08-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -2646,7 +2646,10 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-4. Akcinės bendrovės „Lietuvos geležinkeliai“ įsteigtų bendrovių kolegialių valdymo organų nariais gali būti renkami tik vertikaliosios integracijos įmonių grupės darbuotojai. 
+4. Neteko galios nuo 2020-08-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3193, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15514
+ 
 
 
 Papildyta straipsniu:
@@ -5066,3 +5069,8 @@ Lietuvos Respublikos geležinkelių transporto kodekso papildymo 33-2 straipsniu
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2176, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09950
 Lietuvos Respublikos geležinkelių transporto kodekso 19 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3193, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15514
+Lietuvos Respublikos geležinkelių transporto kodekso 24-3 straipsnio pakeitimo įstatymas
