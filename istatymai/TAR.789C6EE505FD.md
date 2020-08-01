@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2020-07-11 iki 2020-07-31
+Suvestinė redakcija nuo 2020-08-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 81-3176, i. k. 1081010ISTA00X-1666
  
@@ -955,33 +955,163 @@ Pranešimams pateikti ar tyrimui savo iniciatyva pradėti nustatomas 3 metų ter
 
 
 
-24 straipsnis. Tyrimo atlikimas institucijose ir įstaigose ir priimtų sprendimų apskundimas 
+24 straipsnis. Tyrimo atlikimas institucijose ir įstaigose 
 
 
-1. Tyrimą pagal šio skirsnio nuostatas savo iniciatyva, pagal VTEK perduotą ar kitų pareiškėjų pateiktą pranešimą atlieka ir institucija ar įstaiga, kurioje skundžiamas asmuo dirba, o kai pranešimas gautas dėl įstaigos vadovo, – šį vadovą į pareigas priimantis ar skiriantis subjektas arba kolegiali valstybės ar savivaldybių institucija. Šio skyriaus nuostatos (įskaitant teisę savivaldybių tarybų etikos komisijų priimtą sprendimą skųsti VTEK vadovaujantis šio straipsnio 4 dalimi) mutatis mutandis taikomos ir politikų elgesio tyrimams, atliekamiems pagal Valstybės politikų elgesio kodeksą. 
-
-
-
-
-2. Šio straipsnio 1 dalyje nurodyti subjektai, atlikę tyrimą, per 5 darbo dienas nuo sprendimo priėmimo pateikia VTEK priimtą sprendimą ir visus jį pagrindžiančius dokumentus (toliau šiame straipsnyje – tyrimo medžiaga). 
+1. Tyrimą pagal šio skirsnio nuostatas savo iniciatyva, pagal VTEK perduotą ar kitų pareiškėjų pateiktą pranešimą atlieka ir institucija ar įstaiga, kurioje skundžiamas asmuo dirba, o kai pranešimas gautas dėl įstaigos vadovo, – šį vadovą į pareigas priimantis ar skiriantis subjektas arba kolegiali valstybės ar savivaldybių institucija. Šio skirsnio nuostatos (įskaitant teisę savivaldybių tarybų etikos komisijų priimtą sprendimą skųsti VTEK vadovaujantis šio įstatymo 241 straipsniu) mutatis mutandis taikomos ir politikų elgesio tyrimams, atliekamiems pagal Valstybės politikų elgesio kodeksą. 
 
 
 
 
-3. VTEK, įvertinusi šio straipsnio 1 dalyje nurodytų subjektų atlikto tyrimo medžiagą ir abejodama dėl galimo netinkamo Viešųjų ir privačių interesų derinimo įstatymo nuostatų taikymo, per vieną mėnesį nuo tyrimo medžiagos gavimo dienos gali nuspręsti pati atlikti tyrimą. 
+2. Galimas valstybės tarnautojų ar pagal darbo sutartis dirbančių darbuotojų Viešųjų ir privačių interesų derinimo įstatymo pažeidimas institucijoje ar įstaigoje tiriamas teisės aktų nustatyta tvarka kaip tarnybinis nusižengimas ar darbo pareigų pažeidimas. Šiuo atveju dėl Viešųjų ir privačių interesų derinimo įstatymo taikymo gali būti konsultuojamasi su VTEK. VTEK institucijai ar įstaigai konsultaciją suteikia per 10 darbo dienų.
 
 
 
 
-4. Pareiškėjas arba asmuo, dėl kurio veikos institucijoje ar įstaigoje yra atliktas tyrimas ir priimtas sprendimas, šio straipsnio 1 dalyje nurodytų subjektų priimtus sprendimus gali skųsti VTEK per vieną mėnesį nuo sprendimo paskelbimo arba jo įteikimo suinteresuotam asmeniui dienos (išskyrus Seimo Etikos ir procedūrų komisijos priimtus sprendimus).
+3. Šio straipsnio 1 dalyje nurodyti subjektai, pagal šio skirsnio nuostatas atlikę tyrimą, per 5 darbo dienas nuo sprendimo priėmimo pateikia VTEK priimtą sprendimą ir visus jį pagrindžiančius dokumentus (toliau šiame straipsnyje – tyrimo medžiaga). Jeigu institucijoje ar įstaigoje atlikus tarnybinio nusižengimo ar darbo pareigų pažeidimo tyrimą nustatytas Viešųjų ir privačių interesų derinimo įstatymo pažeidimas, šis sprendimas korupcijos prevencijos tikslais pateikiamas VTEK.
 
 
 
 
-5. VTEK, nagrinėdama pareiškėjo ar asmens, dėl kurio veikos institucijoje ar įstaigoje yra atliktas tyrimas ir priimtas sprendimas, skundą, veikia kaip privaloma išankstinė ginčų nagrinėjimo institucija. VTEK, išnagrinėjusi skundą, gali jį patenkinti visą ar iš dalies arba atmesti. Skundas VTEK turi būti išnagrinėtas ir sprendimas dėl jo priimtas per vieną mėnesį nuo skundo gavimo Komisijoje dienos. Motyvuotu VTEK sprendimu skundo nagrinėjimo terminas gali būti pratęstas 14 dienų.
+4. VTEK, įvertinusi šio straipsnio 1 dalyje nurodytų subjektų pagal šio skirsnio nuostatas atlikto tyrimo medžiagą ir abejodama dėl galimo netinkamo Viešųjų ir privačių interesų derinimo įstatymo nuostatų taikymo, per tris mėnesius nuo tyrimo medžiagos gavimo dienos gali nuspręsti pati atlikti tyrimą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
  
 
 
+
+
+241 straipsnis. Institucijų ir įstaigų priimtų sprendimų apskundimas VTEK 
+
+
+1. Pareiškėjas arba asmuo, dėl kurio veikos institucijoje ar įstaigoje yra atliktas tyrimas ir priimtas sprendimas, šio įstatymo 24 straipsnio 1 dalyje nurodytų subjektų priimtus sprendimus, išskyrus atvejus, kai galimas valstybės tarnautojų ar pagal darbo sutartis dirbančių darbuotojų Viešųjų ir privačių interesų derinimo įstatymo pažeidimas tiriamas kaip tarnybinis nusižengimas ar darbo pareigų pažeidimas, gali skųsti VTEK per vieną mėnesį nuo skundžiamo sprendimo paskelbimo arba įteikimo dienos (išskyrus Seimo Etikos ir procedūrų komisijos priimtus sprendimus).
+
+
+
+
+2. VTEK, nagrinėdama pareiškėjo arba asmens, dėl kurio veikos institucijoje ar įstaigoje priimtas sprendimas, skundą, veikia kaip privaloma išankstinė ginčų nagrinėjimo ne teisme institucija. Pareiškėjas, asmuo, dėl kurio veikos institucijoje ar įstaigoje buvo priimtas sprendimas, ir skundžiamą sprendimą priėmusi institucija ar įstaiga VTEK nagrinėjant skundą laikomi ginčo šalimis.
+
+
+
+
+3. VTEK teikiamas skundas turi atitikti Lietuvos Respublikos administracinių bylų teisenos įstatymo 24 straipsnyje (išskyrus 24 straipsnio 2 dalies 9 punktą) nustatytus formos ir turinio reikalavimus. Jeigu pateiktas skundas neatitinka nustatytų reikalavimų, VTEK pirmininkas nustato ne trumpesnį kaip 5 darbo dienų terminą trūkumams pašalinti. 
+
+
+
+
+4. Skundas VTEK gali būti paduodamas raštu tiesiogiai, siunčiamas paštu arba elektroninių ryšių priemonėmis. Paduodant skundą elektroninių ryšių priemonėmis, asmens tapatybė patvirtinama elektroniniu parašu. 
+
+
+
+
+5. Pareiškėjo arba asmens, dėl kurio veikos institucijoje ar įstaigoje priimtas sprendimas, prašymu VTEK pirmininkas skundo padavimo terminą gali atnaujinti, jeigu pripažįsta, kad jis praleistas dėl svarbios priežasties. Prašymas atnaujinti skundo padavimo terminą turi būti išnagrinėtas per 5 darbo dienas nuo prašymo ir termino praleidimo priežastis patvirtinančių įrodymų gavimo dienos.
+
+
+
+
+6. Skundo priėmimo klausimą išsprendžia VTEK pirmininkas per 3 darbo dienas nuo skundo (arba patikslinto skundo) užregistravimo Komisijos sekretoriate dienos. 
+
+
+
+
+7. VTEK pirmininkas motyvuotu sprendimu gali atsisakyti priimti skundą, jeigu:
+
+
+1) skundo nagrinėjimas nepriklauso VTEK kompetencijai; 
+
+
+
+
+2) skundas paduotas praleidus skundo padavimo terminą;
+
+
+
+
+3) VTEK jau yra išnagrinėjusi šio įstatymo 24 straipsnio 1 dalyje nurodytų subjektų pateiktą sprendimą, vadovaudamasi šio įstatymo 24 straipsnio 4 dalimi;
+
+
+
+
+4) Komisijoje dėl skunde nurodytų aplinkybių jau yra atliekamas tyrimas;
+
+
+
+
+5) pareiškėjas arba asmuo, dėl kurio veikos institucijoje ir įstaigoje priimtas sprendimas, per nustatytą terminą nepašalina skundo trūkumų. 
+
+
+
+
+
+
+8.  Rengiant skundą nagrinėti VTEK posėdyje, Komisijos pirmininko paskirtas pranešėju Komisijos narys: 
+
+
+1) prireikus įpareigoja pareiškėją ar asmenį, dėl kurio veikos institucijoje ar įstaigoje priimtas skundžiamas sprendimas, per VTEK nurodytą terminą pateikti su skundu susijusius įrodymus ir (ar) papildomus rašytinius paaiškinimus; 
+
+
+
+
+2) skundo nuorašą išsiunčia sprendimą priėmusiai institucijai ar įstaigai, o kai skundą paduoda pareiškėjas, – ir asmeniui, dėl kurio veikos institucijoje ar įstaigoje priimtas skundžiamas sprendimas, ir paprašo per 5 darbo dienas nuo skundo gavimo dienos arba ne vėliau kaip iki VTEK nurodyto termino pabaigos pateikti atsiliepimą į skundą ir su skundu susijusią medžiagą (įrodymus, paaiškinimus);
+
+
+
+
+3) suderinęs su Komisijos pirmininku, ginčo šalims ir jų atstovams išsiunčia pranešimus apie VTEK posėdžio vietą, datą ir laiką.
+
+
+
+
+
+
+9. Ginčo šalių ir (ar) jų atstovų neatvykimas į VTEK posėdį nėra kliūtis nagrinėti skundą ir priimti sprendimą.
+
+
+
+
+10. Asmuo, dėl kurio veikos institucijoje ar įstaigoje priimtas skundžiamas sprendimas, taip pat šį sprendimą priėmusi institucija ar įstaiga turi tokias pačias teises ir pareigas kaip ir šio įstatymo 27 straipsnyje nurodytos asmens, dėl kurio veikos atliekamas tyrimas, teisės ir pareigos. 
+
+
+
+
+11. Pareiškėjas turi tokias pačias teises ir pareigas kaip ir šio įstatymo 27 straipsnyje nurodytos pareiškėjo teisės ir pareigos. 
+
+
+
+
+12. Komisijai paduotas skundas turi būti išnagrinėtas ir sprendimas dėl jo priimtas per vieną mėnesį nuo skundo gavimo Komisijoje dienos. Motyvuotu VTEK sprendimu skundo nagrinėjimo terminas gali būti pratęstas 14 dienų. 
+
+
+
+
+13. VTEK, išnagrinėjusi skundą, priima vieną iš šių sprendimų:
+
+
+1) patenkinti skundą ir panaikinti skundžiamą sprendimą ar jo dalį arba įpareigoti skundžiamą sprendimą priėmusią instituciją ar įstaigą įvykdyti VTEK nurodymą;
+
+
+
+
+2) atmesti skundą kaip nepagrįstą.
+
+
+
+
+
+
+14. VTEK sprendimas priimamas ne vėliau kaip per 5 darbo dienas nuo skundo išnagrinėjimo, ginčo šalims nedalyvaujant, šio įstatymo ir Reglamento nustatyta tvarka. VTEK sprendime turi būti nurodyta: sprendimo priėmimo vieta ir data, sprendimą priėmusios Komisijos sudėtis, ginčo šalių ir jų atstovų vardai, pavardės, skundo turinys, Komisijos nustatytos faktinės aplinkybės, priimtas sprendimas, sprendimo priėmimo motyvai ir pagrindai, sprendimo apskundimo tvarka. Sprendimą pasirašo visi Komisijos nariai, dalyvavę priimant sprendimą.
+
+
+
+
+15. VTEK sprendimas per 5 darbo dienas nuo priėmimo dienos išsiunčiamas pareiškėjui, asmeniui, dėl kurio veikos buvo priimtas sprendimas, ir skundžiamą sprendimą priėmusiai institucijai ar įstaigai. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
+ 
 
 
 
