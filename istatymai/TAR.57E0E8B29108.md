@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-07-31
+Suvestinė redakcija nuo 2020-08-01 iki 2020-08-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
+ 
+TAR pastaba. Įstatymo Nr. XIII-3257 nuostatos, kurios reguliuoja tiesioginių užsienio investicijų patikrą pagal Reglamentą (ES) 2019/452 ir (arba) yra susijusios su šio Reglamento taikymu, taip pat nustato ryšių palaikymo punkto funkcijas, taikomos nuo 2020 m. rugpjūčio 11 d.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 1, 2, 4, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20 straipsnių, 1, 2, 3, 4 priedų pakeitimo ir Įstatymo papildymo 13-1, 17-1, 19-1 straipsniais ir 5 priedu įstatymas
  
 Nauja redakcija nuo 2018-03-01:
 Nr. XIII-992, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01004
@@ -33,7 +38,10 @@ Vilnius
 1 straipsnis. Įstatymo tikslas ir taikymas
 
 
-1. Šio įstatymo tikslas – užtikrinti, kad valstybės nacionaliniam saugumui užtikrinti svarbūs objektai (įmonės, įrenginiai ir turtas bei ūkio sektoriai) ir nacionaliniam saugumui užtikrinti svarbių įmonių, įrenginių ir turto apsaugos zonose (toliau – apsaugos zonos) esantis turtas ir teritorija būtų apsaugoti nuo visų galinčių kelti grėsmę nacionalinio saugumo interesams rizikos veiksnių, ir šalinti tokių veiksnių atsiradimo priežastis ir sąlygas.
+1. Šio įstatymo tikslas – užtikrinti, kad valstybės nacionaliniam saugumui užtikrinti svarbūs objektai (įmonės, įrenginiai ir turtas bei ūkio sektoriai) ir nacionaliniam saugumui užtikrinti svarbių įmonių, įrenginių ir turto apsaugos zonose (toliau – apsaugos zonos) esantis turtas ir teritorija bei ypatingos svarbos informacinės infrastruktūros valdytojų sandoriai būtų apsaugoti nuo visų galinčių kelti grėsmę nacionalinio saugumo interesams rizikos veiksnių, ir šalinti tokių veiksnių atsiradimo priežastis ir sąlygas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -54,6 +62,13 @@ Vilnius
 
 
 5. Nacionaliniam saugumui užtikrinti svarbių įmonių atskiras juridinių asmenų teisines formas ir veiklą reglamentuojantys įstatymai, taip pat kiti įstatymai taikomi tiek, kiek jie neprieštarauja šiam įstatymui. 
+
+
+
+
+6. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo 5 priede.
+Papildyta straipsnio dalimi:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
  
 
 
@@ -107,6 +122,14 @@ Vilnius
 
 
 
+6) siekia vykdyti ar vykdo veiklą nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje. 
+Papildyta straipsnio punktu:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
+
+
+
+
 
 
 3. Lietuvos Respublikos ar užsienio investuotojas – Lietuvos Respublikos ar kitos Europos Sąjungos valstybės narės, Šiaurės Atlanto Sutarties Organizacijai, Europos laisvosios prekybos asociacijai ir (arba) Ekonominio bendradarbiavimo ir plėtros organizacijai priklausančios valstybės pilietis arba šiose valstybėse įsteigtas juridinis asmuo ar kita organizacija, išskyrus atvejus, kai 1/4 ar daugiau balsavimo teisių tokio juridinio asmens ar kitos organizacijos dalyvių susirinkime priklauso trečiajai valstybei, jos kontroliuojamiems juridiniams asmenims arba piliečiams.
@@ -149,27 +172,57 @@ Vilnius
 
 
 
-9. Trečioji valstybė – valstybė, nepriklausanti Europos Sąjungai, Šiaurės Atlanto Sutarties Organizacijai, Europos laisvosios prekybos asociacijai ir (arba) Ekonominio bendradarbiavimo ir plėtros organizacijai.
+9. Sprendimas, patvirtinantis, kad investuotojas ar sandoris neatitinka nacionalinio saugumo interesų, – Vyriausybės priimtas sprendimas, patvirtinantis, kad investuotojas ar sandoris kelia grėsmę nacionalinio saugumo interesams. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
 
-10. Trečios kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės – šio įstatymo 3 priede nurodytos pagal savo paskirtį ar veiklos pobūdį turinčios strateginę reikšmę nacionalinio saugumo interesams akcinės bendrovės arba uždarosios akcinės bendrovės, kurių visuotiniame akcininkų susirinkime valstybei, savivaldybei, valstybės valdomai bendrovei priklauso mažiau kaip 2/3 balsų visuotiniame akcininkų susirinkime suteikiančių akcijų arba kurių akcijos šioje dalyje nurodytiems juridiniams asmenims nepriklauso. 
+10. Trečiasis asmuo – fizinis ar juridinis asmuo, kuriam pagal sandorius, nurodytus šio įstatymo 13 straipsnio 4 dalies 1 punkto a papunktyje, suteikiama teisė gauti prieigą ar kitaip susipažinti su įmonės saugumo planuose ar kituose įmonės vidaus dokumentuose nustatytomis ryšių ir informacinėmis sistemomis (ar jų dalimis), kurios yra reikšmingos įmonės veiklai, šių ryšių ir informacinių sistemų (ar jų dalių) technologijomis, duomenų bazėmis ar jose esamais duomenimis arba šiems asmenims būtų suteikta teisė aptarnauti ar kitaip susipažinti su tokiomis ryšių ir informacinėmis sistemomis (jų dalimis). 
+Papildyta straipsnio dalimi:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
 
-11. Trečiosios valstybės investuotojas – trečiosios valstybės pilietis arba trečiojoje valstybėje įsteigtas juridinis asmuo ar kita organizacija, taip pat Europos Sąjungos valstybėje narėje, Šiaurės Atlanto Sutarties Organizacijai, Europos laisvosios prekybos asociacijai ir (arba) Ekonominio bendradarbiavimo ir plėtros organizacijai priklausančioje valstybėje įsteigtas juridinis asmuo ar kita organizacija, kurių dalyvių susirinkime 1/4 ar daugiau balsavimo teisių priklauso trečiajai valstybei, jos kontroliuojamiems juridiniams asmenims arba piliečiams.
+11. Trečioji valstybė – valstybė, nepriklausanti Europos Sąjungai, Šiaurės Atlanto Sutarties Organizacijai, Europos laisvosios prekybos asociacijai ir (arba) Ekonominio bendradarbiavimo ir plėtros organizacijai.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
 
-12. Valstybės valdoma bendrovė – akcinė bendrovė arba uždaroji akcinė bendrovė, kurioje daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime suteikiančių akcijų priklauso valstybei.
+12. Trečios kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės – šio įstatymo 3 priede nurodytos pagal savo paskirtį ar veiklos pobūdį turinčios strateginę reikšmę nacionalinio saugumo interesams akcinės bendrovės arba uždarosios akcinės bendrovės, kurių visuotiniame akcininkų susirinkime valstybei, savivaldybei, valstybės valdomai bendrovei priklauso mažiau kaip 2/3 balsų visuotiniame akcininkų susirinkime suteikiančių akcijų arba kurių akcijos šioje dalyje nurodytiems juridiniams asmenims nepriklauso. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
 
-13. Šiame įstatyme vartojama sąvoka „sutartinai veikiantys asmenys“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos vertybinių popierių įstatyme, sąvoka „kontroliuojantis asmuo“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos konkurencijos įstatyme.
+13. Trečiosios valstybės investuotojas – trečiosios valstybės pilietis arba trečiojoje valstybėje įsteigtas juridinis asmuo ar kita organizacija, taip pat Europos Sąjungos valstybėje narėje, Šiaurės Atlanto Sutarties Organizacijai, Europos laisvosios prekybos asociacijai ir (arba) Ekonominio bendradarbiavimo ir plėtros organizacijai priklausančioje valstybėje įsteigtas juridinis asmuo ar kita organizacija, kurių dalyvių susirinkime 1/4 ar daugiau balsavimo teisių priklauso trečiajai valstybei, jos kontroliuojamiems juridiniams asmenims arba piliečiams.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
+
+
+
+
+14. Valstybės valdoma bendrovė – akcinė bendrovė arba uždaroji akcinė bendrovė, kurioje daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime suteikiančių akcijų priklauso valstybei.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
+
+
+
+
+15. Šiame įstatyme vartojama sąvoka „sutartinai veikiantys asmenys“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos vertybinių popierių įstatyme, sąvoka „kontroliuojantis asmuo“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos konkurencijos įstatyme, sąvoka „ypatingos svarbos informacinės infrastruktūros valdytojas“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos kibernetinio saugumo įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
  
 
 
@@ -206,15 +259,12 @@ Vilnius
 4 straipsnis. Nacionaliniam saugumui užtikrinti svarbių įmonių, įrenginių ir turto apsaugos zonos
 
 
-1. Apsaugos zonas, įvertinusi nacionaliniam saugumui užtikrinti svarbių įmonių, įrenginių ir turto specifiką, taip pat rizikos veiksnių keliamą apsaugos poreikį, nustato Vyriausybė. Lietuvos Respublikos aplinkos ministerija ir savivaldybių administracijos, rengdamos ar tikslindamos teritorijų planavimo dokumentus, turi atsižvelgti į Vyriausybės nustatytas apsaugos zonas.
+Apsaugos zonas, įvertinusi nacionaliniam saugumui užtikrinti svarbių įmonių, įrenginių ir turto specifiką, taip pat rizikos veiksnių keliamą apsaugos poreikį, nustato Vyriausybė. Lietuvos Respublikos aplinkos ministerija ir savivaldybių administracijos, rengdamos ar tikslindamos teritorijų planavimo dokumentus, turi atsižvelgti į Vyriausybės nustatytas apsaugos zonas.
 
 
-
-
-2. Vyriausybė, priimdama šio įstatymo 12 straipsnio 14 dalyje nurodytą sprendimą, patvirtinantį, kad investuotojas neatitinka nacionalinio saugumo interesų, matydama, kad, siekiant apsaugoti nacionalinio saugumo interesus, reikalingos papildomos priemonės, papildomai įvertinusi investuotojo statusą, veiklą, elgesį ir ketinimus, veiklos keliamos grėsmės rimtumą ir akivaizdumą, tuo pačiu sprendimu turi teisę apsaugos zonoje sustabdyti tokio investuotojo ar juridinio asmens, kurio vertybinius popierius, nurodytus šio įstatymo 2 straipsnio 2 dalies 5 punkte, yra įsigijęs investuotojas, veiklą, keliančią grėsmę nacionalinio saugumo interesams, iki bus pašalinta grėsmė nacionalinio saugumo interesams. 
+Straipsnio pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
  
-
-
 
 
 
@@ -382,7 +432,10 @@ Vyriausybė ir valstybės institucijos, priimdamos sprendimus ir sudarydamos sus
 
 
 
-2. Investuotojo patikra dėl atitikties nacionalinio saugumo interesams atliekama ir sprendimas dėl jo priimamas vadovaujantis šio įstatymo 11 straipsnyje nustatytais kriterijais ir šio įstatymo 12 straipsnyje nustatyta tvarka. 
+2. Investuotojo patikra dėl atitikties nacionalinio saugumo interesams (toliau – patikra arba patikra dėl atitikties nacionalinio saugumo interesams) atliekama ir sprendimas dėl jo priimamas vadovaujantis šio įstatymo 11 straipsnyje nustatytais kriterijais ir šio įstatymo 12 straipsnyje nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -395,17 +448,26 @@ Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
 
 
 
-4. Nacionaliniam saugumui užtikrinti svarbios įmonės, valstybės įmonės, savivaldybės įmonės, taip pat valstybės valdomos bendrovės atitinka nacionalinio saugumo interesus ir jų patikra dėl atitikties nacionalinio saugumo interesams nėra atliekama.
+4. Nacionaliniam saugumui užtikrinti svarbios įmonės, valstybės įmonės, savivaldybės įmonės, taip pat valstybės valdomos bendrovės ir jų dukterinės bendrovės atitinka nacionalinio saugumo interesus ir jų patikra dėl atitikties nacionalinio saugumo interesams nėra atliekama. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
 
-5. Europos Sąjungos valstybės narės, Šiaurės Atlanto Sutarties Organizacijai, Ekonominio bendradarbiavimo ir plėtros organizacijai ar Europos laisvosios prekybos asociacijai priklausančios valstybės, taip pat akcinės bendrovės ar uždarosios akcinės bendrovės teisinę formą atitinkantys ribotos atsakomybės juridiniai asmenys, kuriuose šių valstybių centrinės, regioninės ir (ar) vietos valdžios institucijoms priklauso daugiau kaip 1/2 balsų, suteikiančių šių juridinių asmenų vertybinių popierių ar dalių, išreiškiančių kapitalą, tarptautinės finansų organizacijos, kurių narė yra Lietuvos Respublika, taip pat kitos tarptautinės finansinės institucijos ar organizacijos, kurių tikslai, investavimo politika ir veikla nekelia grėsmės nacionaliniam saugumui, atitinka nacionalinio saugumo interesus ir jų patikra dėl atitikties nacionalinio saugumo interesams nėra atliekama. 
+5. Europos Sąjungos valstybės narės, Šiaurės Atlanto sutarties organizacijai, Ekonominio bendradarbiavimo ir plėtros organizacijai ar Europos laisvosios prekybos asociacijai priklausančios valstybės, taip pat akcinės bendrovės ar uždarosios akcinės bendrovės teisinę formą atitinkantys ribotos atsakomybės juridiniai asmenys, kuriuose šių valstybių centrinės, regioninės ir (ar) vietos valdžios institucijoms priklauso daugiau kaip 1/2 balsų, suteikiančių šių juridinių asmenų vertybinių popierių ar dalių, išreiškiančių kapitalą, tarptautinės finansų organizacijos, kurių narė yra Lietuvos Respublika, taip pat kitos tarptautinės finansinės institucijos ar organizacijos, kurių tikslai, investavimo politika ir veikla nekelia grėsmės nacionaliniam saugumui, atitinka nacionalinio saugumo interesus ir jų patikra šio įstatymo 12 straipsnio 1 ir 3 dalyse nustatytais atvejais nėra atliekama. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
 
-6. Lietuvos Respublikos ar užsienio investuotojai, vykdantys ilgalaikę veiklą Europos Sąjungos valstybėje narėje, Šiaurės Atlanto Sutarties Organizacijai, Ekonominio bendradarbiavimo ir plėtros organizacijai ar Europos laisvosios prekybos asociacijai priklausančioje valstybėje ir turintys patirties atitinkamoje srityje bei realias galimybes įgyvendinti veiksmus, numatytus šio įstatymo 12 straipsnio 1 dalies 1–5 punktuose, išskyrus atvejus, kai Lietuvos Respublikos ar užsienio investuotojas, valstybė, kurioje jis įsteigtas ar kuri jį kontroliuoja, arba trečioji valstybė, su kuria toks investuotojas siejamas, veikia taip, kad kyla rizikos veiksnių, pavojų ar grėsmių nacionalinio saugumo interesams, atitinka nacionalinio saugumo interesus ir jų patikra dėl atitikties nacionalinio saugumo interesams nėra atliekama.
+6. Lietuvos Respublikos ar užsienio investuotojai, vykdantys ilgalaikę veiklą Europos Sąjungos valstybėje narėje, Šiaurės Atlanto sutarties organizacijai, Ekonominio bendradarbiavimo ir plėtros organizacijai ar Europos laisvosios prekybos asociacijai priklausančioje valstybėje ir turintys patirties atitinkamoje srityje, išskyrus atvejus, kai Lietuvos Respublikos ar užsienio investuotojas, valstybė, kurioje jis įsteigtas ar kuri jį kontroliuoja, arba trečioji valstybė, su kuria toks investuotojas siejamas, veikia taip, kad kyla rizikos veiksnių, pavojų ar grėsmių nacionalinio saugumo interesams, atitinka nacionalinio saugumo interesus ir jų patikra šio įstatymo 12 straipsnio 1 ir 3 dalyse nustatytais atvejais nėra atliekama, išskyrus atvejus, kai patikra atliekama šio įstatymo 12 straipsnio 4 dalyje nurodytų subjektų iniciatyva, jeigu paaiškėja šio įstatymo 11 straipsnyje nurodytos aplinkybės arba šie subjektai turi duomenų, kad tokio investuotojo planuojama vykdyti ar vykdoma veikla arba įsteigto juridinio asmens organų priimami sprendimai gali kelti grėsmę nacionalinio saugumo interesams, arba investuotojas kelia riziką arba neatitinka nacionalinio saugumo interesų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -420,12 +482,22 @@ Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
 
 
 
-9. Investuotojas, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, siekdamas įsigyti akcijų, kurios kartu su jo turimu akcijų paketu arba kartu su kitų sutartinai veikiančių asmenų turimu akcijų paketu suteikia 1/4 ar daugiau balsų nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje arba apsaugos zonos teritorijoje veikiančio ar steigiamo juridinio asmens visuotiniame akcininkų susirinkime, arba sudarant balsavimo teisės perleidimo sutartį įgyti teisę naudotis neturtinėmis akcininko teisėmis, kurios kartu su jo turimu akcijų paketu arba kartu su kitų sutartinai veikiančių asmenų turimu akcijų paketu suteikia 1/4 ar daugiau šioje dalyje nurodyto juridinio asmens akcijų, ir kai visais šioje dalyje išdėstytais atvejais tai gali daryti poveikį ypatingos svarbos infrastruktūros objektams, ypatingos svarbos technologijoms, ypatingos svarbos išteklių tiekimo saugumui, galimybei susipažinti su neskelbtina informacija arba gebėjimui kontroliuoti neskelbtiną informaciją, apie šioje dalyje nurodytus ketinamus sudaryti sandorius ar ketinamus atlikti veiksmus turi Komisijai pranešti Komisijos darbo tvarkos apraše nustatyta tvarka. Vyriausybė nustato ir konkrečiai nurodo, kas yra laikoma šioje dalyje nurodytais ypatingos svarbos infrastruktūros objektais, ypatingos svarbos technologijomis, ypatingos svarbos išteklių tiekimo saugumu, neskelbtina informacija, gebėjimu kontroliuoti neskelbtiną informaciją. 
+9. Investuotojas, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, siekdamas įsigyti akcijų, kurios kartu su jo turimu akcijų paketu arba kartu su kitų sutartinai veikiančių asmenų turimu akcijų paketu suteikia 1/4 ar daugiau balsų nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje arba apsaugos zonos teritorijoje veikiančio ar steigiamo juridinio asmens visuotiniame akcininkų susirinkime, arba sudarant balsavimo teisės perleidimo sutartį įgyti teisę naudotis neturtinėmis akcininko teisėmis, kurios kartu su jo turimu akcijų paketu arba kartu su kitų sutartinai veikiančių asmenų turimu akcijų paketu suteikia 1/4 ar daugiau šioje dalyje nurodyto juridinio asmens akcijų, apie šioje dalyje nurodytus ketinamus sudaryti sandorius ar ketinamus atlikti veiksmus turi Komisijai pranešti Komisijos darbo tvarkos apraše nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
 
 10. Nacionaliniam saugumui užtikrinti svarbių įmonių valdymo organų nariai ir investuotojai privalo laikytis šio įstatymo pagrindu nacionaliniam saugumui užtikrinti svarbioms įmonėms ar investavimui nustatytų privalomų reikalavimų ar sąlygų, fizinės ir veiklos apsaugos ir (arba) kibernetinio saugumo reikalavimų ar kitų šio įstatymo nacionaliniam saugumui užtikrinti svarbioms įmonėms ar investuotojams nustatytų reikalavimų ir užtikrinti tinkamą jų vykdymą.
+
+
+
+
+11. Investuotojo ir sutartinai veikiančių asmenų turimiems balsams skaičiuoti taikoma Vertybinių popierių įstatyme nustatyta asmens turimų balsų skaičiavimo tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
  
 
 
@@ -436,7 +508,7 @@ Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
 11 straipsnis. Investuotojo atitikties nacionalinio saugumo interesams vertinimo kriterijai
 
 
-Investuotojas neatitinka nacionalinio saugumo interesų, jeigu: 
+1. Investuotojas kelia riziką nacionalinio saugumo interesams arba neatitinka nacionalinio saugumo interesų, jeigu:
 
 
 1) jis kreipimosi į Komisiją metu yra dominuojantis (kaip tai apibrėžta Lietuvos Respublikos nacionalinio saugumo pagrindų įstatyme) kurios nors rūšies iškastinių energijos išteklių importuotojas į Lietuvos Respubliką, tokio importuotojo kontroliuojamas arba su juo kooperacijos ar partnerystės ryšiais susijęs asmuo ir jeigu Komisija priima išvadą bei Vyriausybė priima sprendimą, kad šiame punkte nurodyti dominavimas, kontrolė ir ryšiai laikomi keliančiais grėsmę nacionaliniam saugumui;
@@ -454,7 +526,7 @@ Investuotojas neatitinka nacionalinio saugumo interesų, jeigu:
 
 
 
-4) įsiteisėjusiu teismo nuosprendžiu jis yra pripažintas kaltu dėl labai sunkaus, sunkaus ar apysunkio nusikaltimo pagal Lietuvos Respublikos baudžiamąjį kodeksą ar dėl nusikaltimo pagal užsienio valstybių baudžiamuosius įstatymus, kuris atitinka Lietuvos Respublikos baudžiamojo kodekso specialiojoje dalyje nurodytus labai sunkaus, sunkaus ar apysunkio nusikaltimo požymius, ar dėl tokio nusikaltimo padarymo vykdomas šio asmens baudžiamasis persekiojimas ir už padarytą nusikaltimą nėra išnykęs ar panaikintas investuotojo teistumas;
+4) įsiteisėjusiu teismo nuosprendžiu jis yra pripažintas kaltu dėl labai sunkaus, sunkaus ar apysunkio nusikaltimo pagal Lietuvos Respublikos baudžiamąjį kodeksą ar dėl nusikaltimo pagal užsienio valstybių baudžiamuosius įstatymus, kuris atitinka Baudžiamojo kodekso specialiojoje dalyje nurodytus labai sunkaus, sunkaus ar apysunkio nusikaltimo požymius ir už padarytą nusikaltimą nėra išnykęs ar panaikintas investuotojo teistumas arba dėl tokio nusikaltimo padarymo vykdomas šio asmens baudžiamasis persekiojimas;
 
 
 
@@ -464,30 +536,39 @@ Investuotojas neatitinka nacionalinio saugumo interesų, jeigu:
 
 
 
-6) jis nepagrindžia realių galimybių įgyvendinti veiksmus, numatytus šio įstatymo 12 straipsnio 1 dalies 1–5 punktuose;
+6) Komisija investuotojui pagal šio įstatymo 12 straipsnio 10 dalies 2 punktą pateikia rekomendacijas, kurių laikantis jo ketinami sudaryti sandoriai ar ketinami vykdyti veiksmai nekeltų rizikos nacionaliniam saugumui ir nustatoma, kad šios rekomendacijos nėra vykdomos;
 
 
 
 
-7) Komisija jam praneša apie numatomą pradėti jo patikrą dėl atitikties nacionalinio saugumo interesams (kai patikra pradedama šio įstatymo 12 straipsnio 5 dalyje nurodytų subjektų iniciatyva) ir jis per šio įstatymo 12 straipsnio 6 dalyje nurodytą terminą Komisijai nepateikia Komisijos darbo tvarkos apraše nurodytų dokumentų ir informacijos, ir jam nepateikus dokumentų ar informacijos nėra priimtas Komisijos ar Vyriausybės sprendimas, kad investuotojas atitinka nacionalinio saugumo interesus;
+7) Komisija jam praneša apie numatomą pradėti jo patikrą (kai patikra pradedama šio įstatymo 12 straipsnio 4 dalyje nurodytų subjektų iniciatyva) ir jis per 10 darbo dienų ir per papildomą Komisijos nurodytą terminą, kuris negali būti ilgesnis kaip 10 darbo dienų, Komisijai nepateikia Komisijos darbo tvarkos apraše nurodytų dokumentų ir informacijos ir jam nepateikus dokumentų ar informacijos nėra priimti Komisijos išvada ar Vyriausybės sprendimas, kad investuotojas atitinka nacionalinio saugumo interesus;
 
 
 
 
-8) vadovaujantis kitais įstatymais, kaip numatyta šio įstatymo 10 straipsnio 3 dalyje, investuotoju negali būti konkrečios trečiosios valstybės investuotojas arba negali būti vykdoma konkreti veikla, kuri įstatymu yra pripažinta kelianti grėsmę Lietuvos Respublikos nacionaliniam saugumui; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
+8) vadovaujantis kitais įstatymais, kaip nustatyta šio įstatymo 10 straipsnio 3 dalyje, investuotoju negali būti konkrečios trečiosios valstybės investuotojas arba negali būti vykdoma konkreti veikla, kuri įstatymu yra pripažinta kelianti grėsmę Lietuvos Respublikos nacionaliniam saugumui;
+
+
+
+
+9) jeigu remdamasi kitų Europos Sąjungos valstybių narių pastabomis ar Europos Komisijos nuomone ar jų suteikta informacija Komisija priima išvadą ir Vyriausybė priima sprendimą, kad pagal Reglamento (ES) 2019/452 nuostatas investuotojo tiesioginė užsienio investicija gali daryti poveikį kitos Europos Sąjungos valstybės narės viešajai tvarkai ar saugumui arba Europos Sąjungos svarbos projektams ar programoms dėl saugumo arba viešosios tvarkos priežasčių;
+
+
+
+
+10) yra kitų pagrįstų duomenų dėl investuotojo rizikos ar neatitikties nacionalinio saugumo interesams.
+
+
+
+
+
+
+2. Kai pagal šio straipsnio 1 dalies 2, 3, 4 punktuose ir 10 punkte nurodytus kriterijus nustatoma, kad investuotojas kelia riziką nacionaliniam saugumui, yra pagrindas tokį investuotoją pripažinti keliančiu riziką nacionaliniam saugumui, o kai pagal šio straipsnio 1 dalyje nurodytus kriterijus nustatoma, kad investuotojas kelia grėsmę nacionaliniam saugumui, yra pagrindas tokį investuotoją pripažinti neatitinkančiu nacionalinio saugumo interesų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
  
-
-
-
-
-9) yra kitų pagrįstų duomenų dėl investuotojo neatitikties nacionalinio saugumo interesams.
- 
-
-
-
-
 
 
 
@@ -495,120 +576,212 @@ Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
 12 straipsnis. Investuotojų atitikties nacionalinio saugumo interesams patikra ir sprendimų dėl nacionaliniam saugumui užtikrinti svarbios įmonės reorganizavimo, pertvarkymo, likvidavimo ar turto, nurodyto nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane, priėmimas 
 
 
-1. Investuotojo patikra dėl atitikties nacionalinio saugumo interesams, išskyrus išimtis, numatytas šio įstatymo 10 straipsnyje, turi būti atlikta šiais atvejais:
+1. Investuotojo patikra, išskyrus šio įstatymo 10 straipsnyje nustatytas išimtis, turi būti atlikta šiais atvejais:
 
 
-1) investuotojui įstatymų nustatyta tvarka perduodant nacionaliniam saugumui užtikrinti svarbius įrenginius ar turtą ar šio investuotojo reikalavimams užtikrinti įkeičiant nacionaliniam saugumui užtikrinti svarbius įrenginius ar turtą, ar nustatant jam hipoteką, kaip numatyta šio įstatymo 3 straipsnio 1 ir 2 dalyse;
+1) investuotojui įstatymų nustatyta tvarka perduodant nacionaliniam saugumui užtikrinti svarbius įrenginius ar turtą arba šio investuotojo reikalavimams užtikrinti įkeičiant nacionaliniam saugumui užtikrinti svarbius įrenginius ar turtą, arba nustatant jam hipoteką, kaip nurodyta šio įstatymo 3 straipsnio 1 ir 2 dalyse;
 
 
 
 
-2) investuotojui įsigyjant atitinkamas nacionaliniam saugumui užtikrinti svarbių įmonių akcijų dalis ar šiam investuotojui sudarant balsavimo teisės perleidimo sutartis ir įgyjant teisę naudotis atitinkamos dalies akcijų suteikiamomis neturtinėmis akcininko teisėmis, kaip numatyta šio įstatymo 7 straipsnio 4 dalyje, 8 straipsnio 4 dalyje ir 9 straipsnio 1 dalyje;
+2) investuotojui įsigyjant atitinkamas nacionaliniam saugumui užtikrinti svarbių įmonių akcijų dalis ar šiam investuotojui sudarant balsavimo teisės perleidimo sutartis ir įgyjant teisę naudotis atitinkamos dalies akcijų suteikiamomis neturtinėmis akcininko teisėmis, kaip nurodyta šio įstatymo 7 straipsnio 4 dalyje, 8 straipsnio 4 dalyje ir 9 straipsnio 1 dalyje;
 
 
 
 
-3) investuotojui įsigyjant atitinkamas nacionaliniam saugumui užtikrinti svarbių įmonių konvertuojamųjų obligacijų dalis, kaip numatyta šio įstatymo 7 straipsnio 5 dalyje, 8 straipsnio 5 dalyje ir 9 straipsnio 2 dalyje;
+3) investuotojui įsigyjant atitinkamas nacionaliniam saugumui užtikrinti svarbių įmonių konvertuojamųjų obligacijų dalis, kaip nurodyta šio įstatymo 7 straipsnio 5 dalyje, 8 straipsnio 5 dalyje ir 9 straipsnio 2 dalyje;
 
 
 
 
-4) investuotojui įstatymų nustatyta tvarka perduodant turtą, nurodytą nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane, kaip numatyta šio įstatymo 15 straipsnio 4 dalyje;
+4) investuotojui įstatymų nustatyta tvarka perduodant turtą, nurodytą nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane, kaip nurodyta šio įstatymo 15 straipsnio 4 dalyje;
 
 
 
 
-5) investuotojo reikalavimams užtikrinti įkeičiant turtą, nurodytą nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane, ar šiems reikalavimams užtikrinti nustatant šiam turtui hipoteką, kaip numatyta šio įstatymo 15 straipsnio 5 dalyje.
+5) investuotojo reikalavimams užtikrinti įkeičiant turtą, nurodytą nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane, ar šiems reikalavimams užtikrinti nustatant šiam turtui hipoteką, kaip nurodyta šio įstatymo 15 straipsnio 5 dalyje.
 
 
 
 
 
 
-2. Prieš atliekant šio straipsnio 1 dalyje nurodytus veiksmus, investuotojas arba šio straipsnio 1 dalies 2 ir 3 punktuose nurodytų akcijų ir konvertuojamųjų obligacijų savininkai, arba šio straipsnio 1 dalies 1 ir 4 punktuose nurodyto turto savininkai (toliau kiekvienas iš jų atskirai vadinami pareiškėju) privalo kreiptis į Komisiją dėl patikros, pateikdami Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją, pateiktinus Komisijai kartu su kreipimusi, ir atitinkamai negali atlikti jokių šio straipsnio 1 dalyje nurodytų veiksmų, taip pat negali pasikeisti akcininką kontroliuojantis asmuo, kaip tai apibrėžta šio straipsnio 17 dalyje, kol dėl investuotojo nebus priimtas sprendimas, patvirtinantis jo atitiktį nacionalinio saugumo interesams. 
+2. Prieš sudarydami sandorius ar atlikdami veiksmus, nurodytus šio straipsnio 1 dalyje, investuotojas arba šio straipsnio 1 dalies 2 ir 3 punktuose nurodytų akcijų ir konvertuojamųjų obligacijų savininkai, arba šio straipsnio 1 dalies 1 ir 4 punktuose nurodyto turto savininkai (toliau kiekvienas iš jų atskirai vadinami pareiškėju) privalo kreiptis į Komisiją dėl patikros ir kartu su kreipimusi pateikti Komisijos darbo tvarkos apraše nurodytus dokumentus bei informaciją ir atitinkamai negali sudaryti sandorių ar atlikti veiksmų, nurodytų šio straipsnio 1 dalyje, taip pat negali pasikeisti akcininką kontroliuojantis asmuo, kaip tai apibrėžta šio straipsnio 21 dalyje, kol dėl investuotojo nebus priimtas sprendimas, patvirtinantis jo atitiktį nacionalinio saugumo interesams. 
 
 
 
 
-3. Investuotojo patikra dėl atitikties nacionalinio saugumo interesams, kai investuotojas siekia įsigyti arba po 2014 m. lapkričio 1 d. įsigijo nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje arba apsaugos zonos teritorijoje veikiančio ar steigiamo juridinio asmens vertybinius popierius, nurodytus šio įstatymo 2 straipsnio 2 dalies 4 ir 5 punktuose, arba siekia vykdyti veiklą arba ją vykdo nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje arba apsaugos zonos teritorijoje, arba siekia įsigyti turto apsaugos zonos teritorijoje, atliekama šio straipsnio 5 dalyje numatytų subjektų iniciatyva, jeigu paaiškėja šio įstatymo 11 straipsnyje nurodytos aplinkybės arba šie subjektai turi duomenų, kad tokio investuotojo planuojama vykdyti ar vykdoma veikla arba įsteigto juridinio asmens organų priimami sprendimai gali kelti grėsmę nacionalinio saugumo interesams, arba investuotojas neatitinka nacionalinio saugumo interesų. 
+3. Patikra, kai investuotojas siekia įsigyti arba po 2014 m. lapkričio 1 d. įsigijo nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje arba apsaugos zonos teritorijoje veikiančio ar steigiamo juridinio asmens vertybinius popierius, nurodytus šio įstatymo 2 straipsnio 2 dalies 4 ir 5 punktuose, arba siekia vykdyti veiklą arba ją vykdo nacionaliniam saugumui užtikrinti strategiškai svarbiame ūkio sektoriuje arba apsaugos zonos teritorijoje, arba yra įgijęs šio įstatymo 2 straipsnio 2 dalies 1, 2, 3 punktuose nurodytus vertybinius popierius (ir (arba) teises), arba siekia įsigyti turto apsaugos zonos teritorijoje, atliekama šio straipsnio 4 dalyje nurodytų subjektų iniciatyva, jeigu paaiškėja šio įstatymo 11 straipsnyje nurodytos aplinkybės arba šie subjektai turi duomenų, kad tokio investuotojo planuojama vykdyti ar vykdoma veikla arba įsteigto juridinio asmens organų priimami sprendimai gali kelti riziką ar grėsmę nacionalinio saugumo interesams. 
 
 
 
 
-4. Investuotojo ir sutartinai veikiančių asmenų turimiems balsams skaičiuoti taikoma Vertybinių popierių įstatyme nustatyta asmens turimų balsų skaičiavimo tvarka.
+4. Patikrą gali inicijuoti: 
 
 
+1) Vyriausybė;
 
 
-5. Investuotojo patikrą dėl atitikties nacionalinio saugumo interesams gali inicijuoti Vyriausybė, ministras, nacionalinį saugumą užtikrinančios institucijos, kaip jos apibrėžtos Nacionalinio saugumo pagrindų įstatyme, Lietuvos bankas, Lietuvos radijo ir televizijos komisija, Valstybinė energetikos reguliavimo taryba, taip pat valstybės arba savivaldybės vykdomoji institucija, kuri yra valstybei ar savivaldybei nuosavybės teise priklausančių akcinės bendrovės ar uždarosios akcinės bendrovės akcijų valdytoja (kuriai šios akcijos perduotos valdyti patikėjimo teise) arba kuri įgyvendina valstybės ar savivaldybės įmonės savininko teises ir pareigas, arba savivaldybė, kurios teritorijoje esančioje apsaugos zonoje investuotojas siekia vykdyti (vykdo) veiklą ar įsigyti turto. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
- 
 
 
+2) ministras;
 
 
-6. Komisija investuotojo patikrą dėl atitikties nacionalinio saugumo interesams, kreipdamasi į šio straipsnio 7 dalyje nurodytas institucijas, pradeda ne vėliau kaip kitą darbo dieną, kai iš investuotojo arba pareiškėjo gauna kreipimąsi ir visus Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją, pateiktinus Komisijai kartu su kreipimusi. Kai dėl investuotojo atitikties nacionalinio saugumo interesams patikros į Komisiją kreipiasi šio straipsnio 5 dalyje nurodyti subjektai, Komisija praneša investuotojui apie numatomą pradėti investuotojo patikrą dėl atitikties nacionalinio saugumo interesams, nurodydama, kad investuotojas per 10 dienų nuo tokio pranešimo gavimo dienos Komisijai turi pateikti Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją, ir pradeda investuotojo patikrą dėl atitikties nacionalinio saugumo interesams ne vėliau kaip kitą darbo dieną, kai iš investuotojo gauna visus Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją. Apie pradėtą patikrą dėl investuotojo atitikties nacionalinio saugumo interesams Komisija tą pačią dieną praneša investuotojui, pareiškėjui, taip pat Vyriausybei ir investuotojo patikrą dėl atitikties nacionalinio saugumo interesams inicijavusiam subjektui. Investuotojas, pareiškėjas ar šio straipsnio 5 dalyje nurodytas subjektas, teikdamas šiame straipsnyje nurodytą informaciją, raštu gali nurodyti, kad ši informacija sudaro komercinę (gamybinę) paslaptį ar yra konfidenciali, o Vyriausybė arba Komisija privalo užtikrinti šios informacijos konfidencialumą.
 
 
+3) Komisija;
 
 
-7. Atliekant investuotojo patikrą dėl atitikties nacionalinio saugumo interesams, taip pat įgyvendinant šio įstatymo 19 straipsnyje numatytas funkcijas, Komisijai išvadas dėl investuotojo atitikties nacionalinio saugumo interesams pagal savo kompetenciją teikia Lietuvos Respublikos valstybės saugumo departamentas, Lietuvos Respublikos užsienio reikalų ministerija, Lietuvos Respublikos vidaus reikalų ministerija, Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos Respublikos generalinė prokuratūra, Komisijos sprendimu – kitos institucijos. 
 
 
+4) nacionalinį saugumą užtikrinančios institucijos, kaip jos apibrėžtos Nacionalinio saugumo pagrindų įstatyme;
 
 
-8. Šio straipsnio 7 dalyje nurodytos institucijos išvadas dėl investuotojo atitikties nacionalinio saugumo interesams pateikia ne vėliau kaip per 15 dienų nuo prašymo pateikti Komisijai išvadas dėl investuotojo atitikties nacionalinio saugumo interesams gavimo. Jeigu per nurodytą terminą institucijos nepateikia išvadų, laikoma, kad institucijos neturi informacijos apie tai, kad investuotojas atitinka šio įstatymo 11 straipsnio 1–6 ir 9 punktuose nustatytus kriterijus.
 
 
+5) Lietuvos bankas;
 
 
-9. Šio straipsnio 7 dalyje nurodytų institucijų rašytiniu prašymu, kuris Komisijai turi būti pateiktas ne vėliau kaip prieš 5 dienas iki šio straipsnio 8 dalyje nustatyto termino pateikti institucijų išvadas, gali būti pratęstas iki 5 dienų, jeigu Komisijos pirmininkas, įvertinęs aplinkybę, kad institucijoms reikia papildomo laiko duomenims ar informacijai apie atitinkamą investuotoją surinkti, motyvuotu sprendimu sutinka šį terminą pratęsti. 
 
 
+6) Lietuvos radijo ir televizijos komisija dėl asmenų, ketinančių įgyti ar įgijusių transliavimo ir (arba) retransliuojamo turinio licenciją, įgyvendindama jai Lietuvos Respublikos visuomenės informavimo įstatyme nustatytas teises ir pareigas;
 
 
-10. Komisija, įvertinusi investuotojo atitiktį šio įstatymo 11 straipsnyje nustatytiems kriterijams ir šiuo klausimu kompetentingų valstybės institucijų pateiktas išvadas, išvadą dėl investuotojo atitikties nacionalinio saugumo interesams, kurios turinio reikalavimai nustatyti Komisijos darbo tvarkos apraše, priima ne vėliau kaip per 20 dienų nuo šio straipsnio 6 dalyje nurodytos patikros dėl investuotojo atitikties nacionalinio saugumo interesams pradėjimo dienos ir apie tai tą pačią dieną praneša pareiškėjui, investuotojui ir investuotojo patikrą inicijavusiam subjektui. Jeigu per šioje dalyje ir šio straipsnio 11 dalyje nurodytus terminus Komisija nepriima išvados dėl investuotojo atitikties nacionalinio saugumo interesams arba priėmus tokią išvadą pripažįstama, kad investuotojas atitinka nacionalinio saugumo interesus, ši išvada, išskyrus šio straipsnio 16 dalyje nurodytą atvejį, laikoma galutiniu sprendimu dėl investuotojo atitikties nacionalinio saugumo interesams, o sandoris ar kiti veiksmai, dėl kurių sudarymo ar vykdymo buvo kreiptasi prašant įvertinti investuotojo atitiktį nacionalinio saugumo interesams, gali būti sudaromi ir vykdomi. 
 
 
+7) Valstybinė energetikos reguliavimo taryba;
 
 
-11. Dėl didelės šio straipsnio 7 dalyje nurodytų institucijų pateiktų išvadų apimties arba šio straipsnio 9 dalyje nurodytais atvejais pratęsus institucijų išvadų pateikimo terminą, šio straipsnio 10 dalyje nurodytas Komisijos išvados priėmimo terminas Komisijos pirmininko motyvuotu sprendimu gali būti pratęstas vieną kartą ne ilgesniam kaip 5 dienų laikotarpiui, apie patikros dėl investuotojo atitikties nacionalinio saugumo interesams pratęsimą tą pačią dieną pranešant pareiškėjui, investuotojui ir investuotojo patikrą inicijavusiam subjektui. 
 
 
+8) valstybės arba savivaldybės vykdomoji institucija, kuri yra valstybei ar savivaldybei nuosavybės teise priklausančių akcinės bendrovės ar uždarosios akcinės bendrovės akcijų valdytoja (kuriai šios akcijos perduotos valdyti patikėjimo teise) arba kuri įgyvendina valstybės ar savivaldybės įmonės savininko teises ir pareigas;
 
 
-12. Išvadą, kad investuotojas neatitinka nacionalinio saugumo interesų, Komisija ne vėliau kaip kitą darbo dieną po jos priėmimo pateikia Vyriausybei, prireikus – ir rekomendacijas dėl investavimo visiško ar dalinio draudimo, nustatytinų privalomų reikalavimų ar sąlygų, kurių laikantis tokia investicija nekeltų grėsmės nacionalinio saugumo interesams. Teikiant šioje dalyje nurodytą išvadą, kartu pridedamos šio straipsnio 7 dalyje nurodytų institucijų išvados (jeigu institucijos jas pateikė), pareiškėjo, investuotojo ar investuotojo patikrą inicijavusio subjekto kreipimasis, kiti Komisijos darbo tvarkos apraše nurodyti dokumentai ir informacija. Apie išvados, kad investuotojas neatitinka nacionalinio saugumo interesų, pateikimą Vyriausybei pranešama pareiškėjui, investuotojui ir investuotojo patikrą inicijavusiam subjektui. 
 
 
+9) savivaldybės, kurios teritorijoje esančioje apsaugos zonoje investuotojas siekia vykdyti (vykdo) veiklą ar įsigyti turto, vykdomoji institucija;
 
 
-13. Remdamasi šio straipsnio 12 dalyje nurodyta Komisijos išvada ir rekomendacijomis, galutinį teisiškai ir faktiškai pagrįstą sprendimą dėl investuotojo atitikties nacionalinio saugumo interesams ir, jeigu būtina, dėl šio straipsnio 12 dalyje nurodyto investavimo visiško ar dalinio draudimo, nustatytinų privalomų reikalavimų ar sąlygų per 14 dienų nuo šio straipsnio 12 dalyje nurodytos Komisijos išvados ir rekomendacijų gavimo priima Vyriausybė. Komisija apie šioje dalyje nurodytą sprendimą ne vėliau kaip kitą darbo dieną nuo jo priėmimo praneša investuotojui ar pareiškėjui ir investuotojo patikrą inicijavusiam subjektui. Jeigu per šioje dalyje nurodytus terminus Vyriausybė nepriima sprendimo dėl investuotojo atitikties nacionalinio saugumo interesams, laikoma, kad investuotojas atitinka nacionalinio saugumo interesus, o sandoris ar kiti veiksmai, dėl kurių sudarymo ar vykdymo buvo kreiptasi prašant įvertinti investuotojo atitiktį nacionalinio saugumo interesams, gali būti sudaromi ir vykdomi. 
 
 
+10) Nacionaliniam saugumui užtikrinti svarbi įmonė dėl apsaugos zonos teritorijoje veikiančio investuotojo, kai įmonės veiklos teritorija yra toje pačioje apsaugos zonoje.
 
 
-14. Vyriausybės sprendimas, patvirtinantis, kad investuotojas neatitinka nacionalinio saugumo interesų, reiškia, kad šio straipsnio 1 ar 3 dalyje nurodyti investuotojo sandoriai ar veiksmai prieštarauja nacionalinio saugumo interesams ir kad investuotojas negali sudaryti sandorių ir (ar) atlikti veiksmų, nurodytų šio straipsnio 1 ar 3 dalyje, kol nebus pašalintos Vyriausybės sprendime nurodytos nacionalinio saugumo interesams grėsmę keliančios priežastys, jeigu tokios priežastys gali būti pašalintos, ir Vyriausybė, prieš tai gavusi naują šio straipsnio 12 dalyje nurodytą Komisijos išvadą ir rekomendacijas, nepriims naujo sprendimo, patvirtinančio investuotojo atitiktį nacionalinio saugumo interesams. 
 
 
 
 
-15. Šio įstatymo 11 straipsnio 2 ir 3 punktuose nurodytos grėsmę nacionalinio saugumo interesams keliančios priežastys laikomos nepašalinamomis. 
+5. Komisija patikrą, kreipdamasi į šio straipsnio 7 dalyje nurodytas institucijas, pradeda ne vėliau kaip kitą darbo dieną po to, kai iš investuotojo arba pareiškėjo gauna kreipimąsi ir kartu su kreipimusi pateiktus visus Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją. Kai dėl patikros į Komisiją kreipiasi šio straipsnio 4 dalyje nurodyti subjektai, Komisija praneša investuotojui apie numatomą pradėti patikrą ir nurodo, kad investuotojas per 10 darbo dienų nuo tokio pranešimo gavimo dienos Komisijai turi pateikti Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją, ir pradeda patikrą ne vėliau kaip kitą darbo dieną, iš investuotojo gavusi visus Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją. 
 
 
 
 
-16. Asmenų, ketinančių įgyti ar įgijusių transliavimo ir (arba) retransliuojamo turinio licenciją, patikrą dėl atitikties nacionalinio saugumo interesams gali inicijuoti Lietuvos radijo ir televizijos komisija, įgyvendindama jai Visuomenės informavimo įstatyme nustatytas teises ir pareigas. Šiai patikrai mutatis mutandis taikomos šio įstatymo nuostatos dėl investuotojo atitikties nacionalinio saugumo interesams patikros.
+6. Apie pradėtą patikrą Komisija ne vėliau kaip kitą darbo dieną praneša investuotojui, pareiškėjui, taip pat Vyriausybei, Vyriausybės paskirtai institucijai, atliekančiai Reglamente (ES) 2019/452 ir šiame įstatyme nurodytas ryšių palaikymo punkto funkcijas (toliau – Ryšių palaikymo punktas), ir patikrą inicijavusiam subjektui. Investuotojas, pareiškėjas ar šio straipsnio 4 dalyje nurodytas subjektas, teikdami Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją, raštu gali nurodyti, kad ši informacija sudaro komercinę (gamybinę) paslaptį ar yra konfidenciali, o Vyriausybė ir (arba) Komisija privalo užtikrinti šios informacijos konfidencialumą.
 
 
 
 
-17. Šio įstatymo nuostatos dėl investuotojo atitikties nacionalinio saugumo interesams patikros mutatis mutandis taikomos nacionaliniam saugumui užtikrinti svarbios įmonės akcininkui, jeigu jis yra juridinis asmuo, kuris nacionaliniam saugumui užtikrinti svarbioje įmonėje turi daugiau kaip 1/3 balsų suteikiančių akcijų, ir numatoma, kad pasikeis jį kontroliuojantis asmuo. Šioje dalyje nurodytas akcininkas laikomas investuotoju, kurio atitiktis nacionalinio saugumo interesams turi būti įvertinta pagal šį straipsnį, išskyrus atvejus, kai toks akcininkas atitinka šiame įstatyme nustatytas sąlygas, kurioms esant investuotojo patikra dėl atitikties nacionalinio saugumo interesams nėra atliekama. 
+7. Atliekant patikrą, taip pat įgyvendinant šio įstatymo 19 straipsnyje nustatytas funkcijas, Komisijai išvadas dėl investuotojo atitikties nacionalinio saugumo interesams pagal savo kompetenciją teikia Lietuvos Respublikos valstybės saugumo departamentas, Lietuvos Respublikos užsienio reikalų ministerija, Lietuvos Respublikos vidaus reikalų ministerija, Policijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos Respublikos generalinė prokuratūra, Komisijos sprendimu – kitos institucijos. Vadovaujantis Reglamentu (ES) 2019/452, Ryšių palaikymo punktas Komisijai teikia gautas iš Europos Komisijos ar Europos Sąjungos valstybės narės pastabas, nuomonę arba prašymą pateikti papildomą informaciją dėl atliekamos patikros.
 
 
 
 
-18. Prireikus sunaikinti turtą, nurodytą nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane, nacionaliniam saugumui užtikrinti svarbi įmonė, kuri valdo, naudoja šį turtą ar juo disponuoja, turi kreiptis į Komisiją ir pateikti Komisijai prašymą dėl pritarimo šio turto sunaikinimui ir informaciją apie sunaikintiną turtą bei jo sunaikinimo priežastis. Komisija per 20 dienų nuo šio kreipimosi gavimo parengia išvadą dėl šioje dalyje nurodyto turto sunaikinimo. Jeigu šioje dalyje nurodytoje išvadoje Komisija:
+8. Šio straipsnio 7 dalyje nurodytos institucijos išvadas dėl investuotojo atitikties nacionalinio saugumo interesams pateikia ne vėliau kaip per 15 darbo dienų nuo prašymo pateikti Komisijai išvadas dėl investuotojo atitikties nacionalinio saugumo interesams gavimo. Jeigu per šioje dalyje nurodytą terminą institucijos nepateikia išvadų, laikoma, kad institucijos neturi informacijos apie tai, kad investuotojas atitinka šio įstatymo 11 straipsnio 1 dalies 1–5, 9 ir 10 punktuose nustatytus kriterijus.
+
+
+
+
+9. Šio straipsnio 8 dalyje nurodytas 15 darbo dienų terminas šio straipsnio 7 dalyje nurodytų institucijų rašytiniu prašymu, pateikiamu Komisijai ne vėliau kaip prieš 3 darbo dienas iki šio straipsnio 8 dalyje nurodyto termino pabaigos, gali būti pratęstas iki 5 darbo dienų, jeigu Komisijos pirmininkas, įvertinęs aplinkybę, kad institucijoms reikia papildomo laiko duomenims ar informacijai apie atitinkamą investuotoją surinkti, motyvuotu sprendimu sutinka šį terminą pratęsti. 
+
+
+
+
+10. Komisija, įvertinusi investuotojo atitiktį šio įstatymo 11 straipsnio 1 dalies 1–5, 9 ir 10 punktuose nustatytiems kriterijams ir šio straipsnio 7 dalyje nurodytų institucijų pateiktas išvadas ir Ryšių palaikymo punkto pateiktą informaciją, ne vėliau kaip per 20 darbo dienų nuo patikros pradėjimo dienos priima išvadą dėl investuotojo atitikties nacionalinio saugumo interesams (toliau – Išvada), kurioje konstatuojama, kad investuotojas:
+
+
+1) atitinka nacionalinio saugumo interesus;
+
+
+
+
+2) kelia riziką nacionalinio saugumo interesams – tokiu atveju nustatomos rekomendacijos, kurių laikantis jo ketinami sudaryti sandoriai ar ketinami vykdyti veiksmai nekeltų rizikos nacionaliniam saugumui;
+
+
+
+
+3) investuotojas neatitinka nacionalinio saugumo interesų. 
+
+
+
+
+
+
+11. Dėl didelės šio straipsnio 7 dalyje nurodytų institucijų pateiktų išvadų apimties arba šio straipsnio 9 dalyje nurodytais atvejais pratęsus institucijų išvadų pateikimo terminą Išvados priėmimo terminas motyvuotu Komisijos pirmininko sprendimu gali būti pratęstas vieną kartą ne ilgesniam kaip 3 darbo dienų laikotarpiui. Apie Išvados priėmimą arba patikros pratęsimą ne vėliau kaip kitą darbo dieną pranešama pareiškėjui, investuotojui ir investuotojo patikrą inicijavusiam subjektui.
+
+
+
+
+12. Patikra Komisijos sprendimu sustabdoma, jeigu:
+
+
+1) paaiškėja, kad Išvadai priimti reikia gauti ar išnagrinėti papildomą informaciją iš investuotojo, pareiškėjo, valstybės ar savivaldybių institucijų ar kitų asmenų (toliau – papildoma informacija). Komisija ne vėliau kaip kitą darbo dieną kreipiasi į šiame punkte nurodytus asmenis dėl papildomos informacijos gavimo ir nurodo, kad asmuo per 10 darbo dienų nuo tokio pranešimo gavimo dienos turi pateikti Komisijos prašomą informaciją;
+
+
+
+
+2) vadovaudamasi 2019 m. kovo 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/452, kuriuo nustatoma tiesioginių užsienio investicijų į Sąjungą tikrinimo sistema, Europos Komisija ar Europos Sąjungos valstybė narė Reglamente (ES) 2019/452 nustatyta tvarka praneša apie ketinimą pateikti pastabų ar nuomonę dėl atliekamos patikros (toliau – pastabos ar nuomonė pagal Reglamentą (ES) 2019/452). Tokiu atveju patikra sustabdoma, iki kol bus pateiktos pastabos ar nuomonė pagal Reglamentą (ES) 2019/452 tokiais terminais, kurie yra nurodyti Reglamente (ES) 2019/452.
+
+
+
+
+
+
+13. Apie patikros sustabdymą ne vėliau kaip kitą darbo dieną po tokio sprendimo priėmimo Komisija turi pranešti pareiškėjui, investuotojui ir investuotojo patikrą inicijavusiam subjektui ir nurodyti patikros sustabdymo priežastį.
+
+
+
+
+14. Komisija ne vėliau kaip per 10 darbo dienų nuo termino pateikti papildomą informaciją arba pastabas ar nuomonę pagal Reglamentą (ES) 2019/452 pasibaigimo pagal turimą informaciją priima Išvadą.
+
+
+
+
+15. Jeigu per šiame straipsnyje nurodytus terminus Komisija nepriima Išvados arba priima Išvadą, kurioje konstatuojama, kad investuotojas atitinka nacionalinio saugumo interesus arba kelia riziką nacionalinio saugumo interesams, tokia Išvada (išskyrus šio straipsnio 20 dalyje nurodytą atvejį) laikoma galutiniu sprendimu dėl investuotojo atitikties nacionalinio saugumo interesams, o sandoris ar kiti veiksmai, dėl kurių sudarymo ar vykdymo buvo kreiptasi prašant įvertinti investuotojo atitiktį nacionalinio saugumo interesams, gali būti sudaromi ir vykdomi laikantis nustatytų rekomendacijų (jeigu tokios rekomendacijos yra nustatytos). Išvados turinio reikalavimai nustatomi Komisijos darbo tvarkos apraše.
+
+
+
+
+16. Išvadą, kad investuotojas neatitinka nacionalinio saugumo interesų, Komisija ne vėliau kaip per 2 darbo dienas po jos priėmimo pateikia Vyriausybei. Teikiant šioje dalyje nurodytą išvadą, kartu pridedamos šio straipsnio 7 dalyje nurodytų institucijų išvados (jeigu institucijos jas pateikė), pareiškėjo, investuotojo ar patikrą inicijavusio subjekto kreipimasis, kiti Komisijos darbo tvarkos apraše nurodyti dokumentai ir informacija. Apie išvados, kad investuotojas neatitinka nacionalinio saugumo interesų, pateikimą Vyriausybei pranešama pareiškėjui, investuotojui ir patikrą inicijavusiam subjektui. 
+
+
+
+
+17. Remdamasi išvada, kad investuotojas neatitinka nacionalinio saugumo interesų, galutinį teisiškai ir faktiškai pagrįstą sprendimą dėl investuotojo atitikties nacionalinio saugumo interesams per 15 darbo dienų nuo šios išvados gavimo dienos priima Vyriausybė. Šioje dalyje nurodytas sprendimas įforminamas Vyriausybės nutarimu, kuriame gali būti teikiamos ir rekomendacijos investuotojui dėl jo ketinamų sudaryti sandorių ar ketinamų vykdyti veiksmų. Komisija apie šioje dalyje nurodytą sprendimą ne vėliau kaip kitą darbo dieną nuo jo priėmimo praneša investuotojui ar pareiškėjui ir patikrą inicijavusiam subjektui ir kartu persiunčia Vyriausybės nutarimą ir Komisijos išvadą. Jeigu per šioje dalyje nurodytus terminus Vyriausybė nepriima sprendimo dėl investuotojo atitikties nacionalinio saugumo interesams, laikoma, kad investuotojas atitinka nacionalinio saugumo interesus, o sandoris ar kiti veiksmai, dėl kurių sudarymo ar vykdymo buvo kreiptasi prašant įvertinti investuotojo atitiktį nacionalinio saugumo interesams, gali būti sudaromi ir vykdomi. Vyriausybės nutarimai, kuriuose yra komercinę paslaptį sudarančios informacijos, Teisės aktų registre nėra skelbiami.
+
+
+
+
+18. Vyriausybės sprendimas, patvirtinantis, kad investuotojas neatitinka nacionalinio saugumo interesų, reiškia, kad šio straipsnio 1 ar 3 dalyje nurodyti investuotojo sandoriai ar veiksmai prieštarauja nacionalinio saugumo interesams, todėl investuotojas negali sudaryti tokių sandorių ir (ar) atlikti veiksmų, kol nebus pašalintos Vyriausybės sprendime nurodytos nacionalinio saugumo interesams grėsmę keliančios priežastys, jeigu tokios priežastys gali būti pašalintos, ir Vyriausybė, prieš tai gavusi naują Išvadą, nepriims sprendimo, patvirtinančio investuotojo atitiktį nacionalinio saugumo interesams. 
+
+
+
+
+19. Investuotojas iki galutinio sprendimo dėl atitikties nacionalinio saugumo interesams priėmimo gali pateikti Komisijai pranešimą dėl savo ketinamų sudaryti sandorių ar ketinamų vykdyti veiksmų atsisakymo. Komisija ne vėliau kaip per 5 darbo dienas nuo šio pranešimo gavimo priima sprendimą nutraukti patikrą ir apie tai praneša Vyriausybei, pareiškėjui ir patikrą inicijavusiam subjektui. 
+
+
+
+
+20. Šio įstatymo 11 straipsnio 1 dalies 2 ir 3 punktuose nurodytos riziką ir grėsmę nacionalinio saugumo interesams keliančios priežastys laikomos nepašalinamomis. 
+
+
+
+
+21. Šio įstatymo nuostatos dėl patikros mutatis mutandis taikomos nacionaliniam saugumui užtikrinti svarbios įmonės akcininkui, jeigu jis yra juridinis asmuo, kuris nacionaliniam saugumui užtikrinti svarbioje įmonėje turi daugiau kaip 1/3 balsų suteikiančių akcijų, ir numatoma, kad pasikeis jį kontroliuojantis asmuo. Šioje dalyje nurodytas akcininkas laikomas investuotoju, kurio atitiktis nacionalinio saugumo interesams turi būti įvertinta pagal šį straipsnį, išskyrus atvejus, kai toks akcininkas atitinka šiame įstatyme nustatytas sąlygas, kurioms esant investuotojo patikra nėra atliekama. 
+
+
+
+
+22. Prireikus sunaikinti turtą, nurodytą nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane, nacionaliniam saugumui užtikrinti svarbi įmonė, kuri valdo, naudoja šį turtą ar juo disponuoja, turi kreiptis į Komisiją ir pateikti Komisijai prašymą dėl pritarimo šio turto sunaikinimui ir informaciją apie sunaikintiną turtą bei jo sunaikinimo priežastis. Komisija per 20 darbo dienų nuo šio kreipimosi gavimo parengia išvadą dėl šioje dalyje nurodyto turto sunaikinimo. Jeigu šioje dalyje nurodytoje išvadoje Komisija:
 
 
 1) nepritaria atitinkamam nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane nurodyto turto sunaikinimui, ši išvada laikoma galutiniu sprendimu dėl atitinkamo nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane nurodyto turto sunaikinimo ir šis turtas negali būti sunaikintas;
@@ -616,27 +789,29 @@ Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
 
 
 
-2) pritaria atitinkamam nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane nurodyto turto sunaikinimui, ši išvada ne vėliau kaip kitą darbo dieną pateikiama Vyriausybei ir nacionaliniam saugumui užtikrinti svarbiai įmonei, kuriai priklauso šioje dalyje nurodytas sunaikintinas turtas. Komisija, teikdama Vyriausybei šiame punkte nurodytą išvadą, kartu pateikia ir visą susijusią informaciją (nacionaliniam saugumui užtikrinti svarbios įmonės prašymą dėl pritarimo šioje dalyje nurodyto turto sunaikinimui, informaciją apie sunaikintiną turtą ir jo sunaikinimo priežastis ar kita). Vyriausybė per 14 dienų nuo Komisijos išvados gavimo priima sprendimą pritarti ar nepritarti šioje dalyje nurodyto turto sunaikinimui ir apie šį Vyriausybės sprendimą ne vėliau kaip kitą darbo dieną nuo šio sprendimo priėmimo praneša nacionaliniam saugumui užtikrinti svarbiai įmonei, kuriai priklauso šioje dalyje nurodytas sunaikintinas turtas. Jeigu per šioje dalyje nustatytus terminus Vyriausybė nepriima sprendimo pritarti arba nepritarti šioje dalyje nurodyto turto sunaikinimui, laikoma, kad šioje dalyje nurodyto turto sunaikinimui Vyriausybė pritaria ir šis turtas gali būti sunaikintas.
+2) pritaria atitinkamam nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane nurodyto turto sunaikinimui, ši išvada ne vėliau kaip per 3 darbo dienas pateikiama Vyriausybei ir nacionaliniam saugumui užtikrinti svarbiai įmonei, kuriai priklauso šioje dalyje nurodytas sunaikintinas turtas. Komisija, teikdama Vyriausybei šiame punkte nurodytą išvadą, kartu pateikia ir visą susijusią informaciją (nacionaliniam saugumui užtikrinti svarbios įmonės prašymą dėl pritarimo šioje dalyje nurodyto turto sunaikinimui, informaciją apie sunaikintiną turtą ir jo sunaikinimo priežastis ar kita). Vyriausybė per 15 darbo dienų nuo Komisijos išvados gavimo dienos priima sprendimą pritarti arba nepritarti šioje dalyje nurodyto turto sunaikinimui ir apie šį Vyriausybės sprendimą ne vėliau kaip kitą darbo dieną nuo šio sprendimo priėmimo dienos praneša nacionaliniam saugumui užtikrinti svarbiai įmonei, kuriai priklauso šioje dalyje nurodytas sunaikintinas turtas. Jeigu per šioje dalyje nustatytus terminus Vyriausybė nepriima sprendimo pritarti arba nepritarti šioje dalyje nurodyto turto sunaikinimui, laikoma, kad šioje dalyje nurodyto turto sunaikinimui Vyriausybė pritaria ir šis turtas gali būti sunaikintas.
 
 
 
 
 
 
-19. Prireikus reorganizuoti, pertvarkyti ar restruktūrizuoti pirmos arba antros kategorijos nacionaliniam saugumui užtikrinti svarbią įmonę, įmonės savininko teises ir pareigas įgyvendinanti institucija ar akcijų valdytojas turi kreiptis į Komisiją ir pateikti jai prašymą dėl pritarimo šios įmonės reorganizavimui, pertvarkymui ar restruktūrizavimui, taip pat Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją apie numatomą reorganizavimą, pertvarkymą ar restruktūrizavimą ir šių veiksmų priežastis. 
+23. Prireikus reorganizuoti, pertvarkyti ar restruktūrizuoti pirmos arba antros kategorijos nacionaliniam saugumui užtikrinti svarbią įmonę, įmonės savininko teises ir pareigas įgyvendinanti institucija ar akcijų valdytojas turi kreiptis į Komisiją ir pateikti jai prašymą dėl pritarimo šios įmonės reorganizavimui, pertvarkymui ar restruktūrizavimui, taip pat Komisijos darbo tvarkos apraše nurodytus dokumentus ir informaciją apie numatomą reorganizavimą, pertvarkymą ar restruktūrizavimą ir šių veiksmų priežastis. 
 
 
 
 
-20. Komisija per 10 dienų nuo šio straipsnio 19 dalyje nurodyto prašymo gavimo dienos priima sprendimą pritarti ar nepritarti pirmos arba antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės reorganizavimui, pertvarkymui ar restruktūrizavimui ir ne vėliau kaip kitą darbo dieną apie šį sprendimą praneša tokiai įmonei ir įmonės savininko teises ir pareigas įgyvendinančiai institucijai ar akcijų valdytojui, kuris kreipėsi į Komisiją. Jeigu per šioje dalyje nustatytą terminą Komisija nepriima sprendimo pritarti ar nepritarti šioje dalyje nurodytam pirmos arba antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės reorganizavimui, pertvarkymui ar restruktūrizavimui, laikoma, kad Komisija šiems veiksmams pritaria ir pirmos arba antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės reorganizavimas, pertvarkymas ar restruktūrizavimas gali būti įgyvendintas, jeigu nėra reikalingas šio įstatymo 7 straipsnio 3 dalyje ar 8 straipsnio 2 dalyje nurodytas pritarimas.
+24. Komisija per 10 darbo dienų nuo šio straipsnio 23 dalyje nurodyto prašymo gavimo dienos priima sprendimą pritarti ar nepritarti pirmos arba antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės reorganizavimui, pertvarkymui ar restruktūrizavimui ir ne vėliau kaip kitą darbo dieną apie šį sprendimą praneša tokiai įmonei ir įmonės savininko teises ir pareigas įgyvendinančiai institucijai ar akcijų valdytojui, kuris kreipėsi į Komisiją. Jeigu per šioje dalyje nustatytą terminą Komisija nepriima sprendimo pritarti ar nepritarti šioje dalyje nurodytam pirmos arba antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės reorganizavimui, pertvarkymui ar restruktūrizavimui, laikoma, kad Komisija šiems veiksmams pritaria ir pirmos arba antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės reorganizavimas, pertvarkymas ar restruktūrizavimas gali būti įgyvendintas, jeigu nėra reikalingas šio įstatymo 7 straipsnio 3 dalyje ar 8 straipsnio 2 dalyje nurodytas pritarimas.
 
 
 
 
-21. Komisijai pareikalavus, pirmos arba antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės ne vėliau kaip per 3 darbo dienas nuo Komisijos pareikalavimo turi pateikti Komisijai visą šio straipsnio 20 dalyje nurodytam sprendimui priimti reikalingą informaciją, susijusią su šių įmonių reorganizavimu, pertvarkymu ar restruktūrizavimu. Dėl didelės šioje dalyje nurodytos informacijos apimties Komisijos pirmininko motyvuotu sprendimu šio straipsnio 20 dalyje nurodytas terminas gali būti pratęstas vieną kartą ne ilgesniam kaip 5 dienų laikotarpiui, apie termino pratęsimą tą pačią dieną pranešant šio straipsnio 20 dalyje nurodytą prašymą pateikusiam subjektui.
+25. Komisijos reikalavimu pirmos arba antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės ne vėliau kaip per 5 darbo dienas nuo Komisijos pareikalavimo turi pateikti Komisijai visą šio straipsnio 24 dalyje nurodytam sprendimui priimti reikalingą informaciją, susijusią su šių įmonių reorganizavimu, pertvarkymu ar restruktūrizavimu. Šiuo atveju terminas šio straipsnio 24 dalyje nurodytam sprendimui priimti pradedamas skaičiuoti nuo visos reikalingos informacijos, susijusios su įmonių reorganizavimu, pertvarkymu ar restruktūrizavimu, pateikimo. Dėl didelės šioje dalyje nurodytos informacijos apimties Komisijos pirmininko motyvuotu sprendimu šio straipsnio 24 dalyje nurodytas terminas gali būti pratęstas vieną kartą ne ilgesniam kaip 5 darbo dienų laikotarpiui. Apie termino pratęsimą ne vėliau kaip kitą darbo dieną pranešama šio straipsnio 24 dalyje nurodytą prašymą pateikusiam subjektui.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
  
-
-
 
 
 
@@ -657,56 +832,165 @@ Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
 13 straipsnis. Sandorių atitikties nacionalinio saugumo interesams patikra
 
 
-1. Nacionaliniam saugumui užtikrinti svarbios įmonės Komisijos darbo tvarkos apraše nustatyta tvarka privalo informuoti Komisiją apie ketinamus sudaryti sandorius ar esminius jau sudarytų sandorių pakeitimus, kai sandorio vertė viršija 10 procentų praėjusių finansinių metų metinių įmonės pajamų, ir turi teisę kreiptis į Komisiją dėl kitų savo sandorių atitikties nacionalinio saugumo interesams patikros. 
+1. Nacionaliniam saugumui užtikrinti svarbios įmonės Komisijos darbo tvarkos apraše nustatyta tvarka privalo pranešti Komisijai apie ketinamus sudaryti sandorius ar esminius jau sudarytų sandorių pakeitimus, kai sandorio vertė viršija 10 procentų praėjusių finansinių metų metinių įmonės pajamų, išskyrus šio straipsnio 8 dalyje nurodytus sandorius. Šioje dalyje nurodyta sandorio vertė skaičiuojama be pridėtinės vertės mokesčio. Apie sandorio sudarymą taip pat privalo pranešti ypatingos svarbos informacinės infrastruktūros valdytojai pagal Viešųjų pirkimų įstatymą ar Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymą, neatsižvelgdami į sandorio vertę, jeigu konkurso metu buvo keliami reikalavimai dėl tiekėjų, subtiekėjų, prekių, paslaugų ar darbų atitikties nacionalinio saugumo interesams.
 
 
 
 
-2. Pirmos ir antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės taip pat privalo informuoti Komisiją apie ketinamus sudaryti sandorius ar esminius jau sudarytų sandorių pakeitimus, kai:
-
-
-1) dėl sandorio nutraukimo nacionaliniam saugumui svarbi įmonė galėtų patirti papildomų išlaidų ar nuostolių, kurių vertė viršytų 2,5 procento praėjusių finansinių metų metinių įmonės pajamų;
+2. Pirmos ir antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės taip pat privalo informuoti Komisiją apie ketinamus sudaryti sandorius, kai sandorio šaliai sandorio pagrindu yra suteikiamos šio straipsnio 4 dalies 1 punkte, o trečiajam asmeniui – šio straipsnio 4 dalies 1 punkto a papunktyje nurodytos teisės, išskyrus šio straipsnio 8 dalyje nurodytus sandorius. Kreipdamosi į Komisiją dėl šioje dalyje nurodytų ketinamų sudaryti sandorių pirmos ir antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės Komisijai privalo pateikti vertinimą, pagrindžiantį, kad ketinamu sudaryti sandoriu sandorio šaliai yra suteikiamos šio straipsnio 4 dalies 1 punkte, o trečiajam asmeniui – šio straipsnio 4 dalies 1 punkto a papunktyje nurodytos teisės, ir kitą Komisijos darbo tvarkos apraše nustatytą informaciją.
 
 
 
 
-2) sandorio pagrindu kitai sandorio šaliai ar tretiesiems asmenims yra suteikiama teisė aptarnauti, gauti prieigą ar kitaip susipažinti su įmonės saugos planuose numatytomis esminėmis informacinėmis technologijomis, jų sistemomis ar infrastruktūra, duomenų bazėmis ar jose esamais duomenimis.
+3. Komisija, gavusi šio straipsnio 1, 2 ar 7 dalyje nurodytą pranešimą, ne vėliau kaip per 10 darbo dienų jį apsvarsto ir informuoja nacionaliniam saugumui užtikrinti svarbią įmonę, ypatingos svarbos informacinės infrastruktūros valdytoją arba atitinkamai šio įstatymo 12 straipsnio 4 dalyje nurodytą subjektą, ar ketina pradėti sandorio patikrą. Jeigu Komisija nustato, kad šioje dalyje nurodytam sprendimui priimti reikia gauti ar išnagrinėti papildomą informaciją iš nacionaliniam saugumui užtikrinti svarbios įmonės, valstybės ar savivaldybių institucijų ar kitų asmenų, ji ne vėliau kaip kitą darbo dieną kreipiasi į šiuos subjektus dėl papildomos informacijos gavimo ir nurodo, kad asmuo per 10 darbo dienų nuo tokio pranešimo gavimo dienos turi pateikti Komisijos prašomą informaciją. Komisija, gavusi šioje dalyje nurodytą informaciją, ne vėliau kaip per 8 darbo dienas turi nuspręsti, ar ketina pradėti sandorio patikrą. Jeigu Komisija patikros nepradeda, laikoma, kad sandoris, dėl kurio buvo kreiptasi, gali būti sudaromas.
+
+
+
+
+4. Komisijos atliekama sandorio patikra susideda iš:
+
+
+1) vertinimo pagal toliau nurodytus kriterijus, ar:
+
+
+a) sandorio šaliai sandorio pagrindu yra suteikiama teisė aptarnauti, gauti prieigą ar kitaip susipažinti su ypatingos svarbos informacinės infrastruktūros valdytojo ar įmonės saugumo planuose ar kituose ypatingos svarbos informacinės infrastruktūros valdytojo ar įmonės vidaus dokumentuose nustatytomis ryšių ir informacinėmis sistemomis (ar jų dalimis), kurios yra reikšmingos ypatingos svarbos informacinės infrastruktūros valdytojo ar įmonės veiklai, šių ryšių ir informacinių sistemų (ar jų dalių) technologijomis, duomenų bazėmis ar jose esamais duomenimis arba kai yra rizika, kad prie tokių ryšių ir informacinių sistemų (jų dalių) gali gauti prieigą tretieji asmenys arba jiems būtų suteikta teisė aptarnauti ar kitaip susipažinti su tokiomis ryšių ir informacinėmis sistemomis (jų dalimis); 
+
+
+
+
+b) sandorio šaliai sandorio pagrindu yra suteikiama teisė dalyvauti įgyvendinant ypatingos valstybinės svarbos projektą ar valstybei svarbų projektą;
+
+
+
+
+c) sandorio šaliai sandorio pagrindu yra suteikiama teisė eksploatuoti ar valdyti nacionaliniam saugumui užtikrinti svarbius įrenginius ir turtą arba atlikti kitus reikšmingus, galinčius kelti riziką ar grėsmę nacionaliniam saugumui veiksmus, galinčius turėti įtakos nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui;
 
 
 
 
 
 
-3. Komisija, gavusi šio straipsnio 1 ir 2 dalyse nurodytą informaciją apie sandorį, ne vėliau kaip per 10 dienų nacionaliniam saugumui užtikrinti svarbiai įmonei praneša, ar ketinama pradėti sandorio atitikties nacionalinio saugumo interesams patikrą. Jeigu Komisija nepradeda patikros per šioje dalyje nurodytą terminą, laikoma, kad sandoris atitinka nacionalinio saugumo interesus ir toks sandoris ar esminis jau sudaryto sandorio pakeitimas gali būti sudaromas ir vykdomas.
+2) sandorio šalies patikros ar trečiojo asmens patikros, kuri atliekama vertinant sandorio šalį ar trečiąjį asmenį pagal šio įstatymo 11 straipsnyje nustatytus kriterijus ir mutatis mutandis laikantis šio įstatymo 12 straipsnyje nustatytos investuotojų atitikties nacionalinio saugumo interesams patikros tvarkos bei sandorio šaliai ar trečiajam asmeniui mutatis mutandis taikant šio įstatymo 10 straipsnio 4, 5 ir 6 dalyse nustatytas išimtis, kai nėra atliekama investuotojo patikra.
 
 
 
 
-4. Jeigu nacionaliniam saugumui užtikrinti svarbios įmonės nevykdo šio straipsnio 1 ir 2 dalyse nurodytos prievolės, Respublikos Prezidentas, Vyriausybė ar Valstybės saugumo departamentas turi teisę kreiptis į Komisiją dėl tokio sandorio atitikties nacionalinio saugumo interesams patikros arba tokio sandorio patikrą gali inicijuoti Komisija savo iniciatyva. 
+
+
+5. Komisijai išvadą dėl šio straipsnio 4 dalies 1 punkte nurodyto vertinimo teikia:
+
+
+1) institucija, atsakinga už konkrečios nacionaliniam saugumui užtikrinti svarbios įmonės, kurios ketinamas sudaryti ar sudarytas sandoris yra vertinamas, fizinės ir veiklos apsaugos reikalavimų, nurodytų šio įstatymo 18 straipsnio 1 dalyje, parengimą;
 
 
 
 
-5. Respublikos Prezidentas, Vyriausybė ar Valstybės saugumo departamentas, gavę arba turėdami duomenų, kad pirmos ar antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės ketinamas sudaryti sandoris kelia grėsmę nacionalinio saugumo interesams, gali kreiptis į Komisiją dėl tokio sandorio atitikties nacionalinio saugumo interesams patikros. Pirmos ar antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės ketinamo sudaryti sandorio patikrą gali inicijuoti Komisija savo iniciatyva.
+2) Komisijos sprendimu – kitos institucijos.
 
 
 
 
-6. Respublikos Prezidentas, Vyriausybė ar Valstybės saugumo departamentas ir Komisija turi teisę inicijuoti pirmos ar antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės sudaryto sandorio atitikties nacionalinio saugumo interesams patikrą, gavę duomenų, kad sandoris sudarytas su asmeniu, atitinkančiu bent vieną iš šio įstatymo 11 straipsnyje įtvirtintų kriterijų, ir kad toks sandoris kelia grėsmę nacionalinio saugumo interesams.
+
+
+6. Jeigu nustatoma, kad sandorio pagrindu sandorio šaliai būtų ar yra suteiktos šio straipsnio 4 dalies 1 punkte, o trečiajam asmeniui – šio straipsnio 4 dalies 1 punkto a papunktyje nurodytos teisės ir tokia sandorio šalis arba trečiasis asmuo kelia riziką arba neatitinka nacionalinio saugumo interesų, toks sandoris laikomas atitinkamai keliančiu riziką arba neatitinkančiu nacionalinio saugumo interesų. Šioje dalyje nurodyti sprendimai priimami mutatis mutandis laikantis šio įstatymo 12 straipsnyje nustatytos tvarkos.
 
 
 
 
-7. Sandorių atitikties nacionalinio saugumo interesams patikros procedūrai mutatis mutandis taikoma šio įstatymo 12 straipsnio 6–13 dalyse nustatyta tvarka.
+7. Šio įstatymo 12 straipsnio 4 dalyje nurodyti subjektai turi teisę pranešti Komisijai apie:
+
+
+1) nacionaliniam saugumui užtikrinti svarbios įmonės ketinamus sudaryti ar jau sudarytus sandorius, gavę duomenų, kad apie tokius sandorius šios įmonės nepranešė, nors privalėjo pranešti atlikdamos šio straipsnio 1 ir 2 dalyse nustatytas pareigas; 
 
 
 
 
-8. Vyriausybės sprendimas, patvirtinantis, kad ketinamas sudaryti sandoris neatitinka nacionalinio saugumo interesų, reiškia, kad toks sandoris negali būti sudarytas tol, kol nebus pašalintos Vyriausybės sprendime nurodytos nacionalinio saugumo interesams grėsmę keliančios priežastys, jeigu tokios priežastys gali būti pašalintos, ir Vyriausybė, prieš tai gavusi naują Komisijos išvadą ir rekomendacijas, nepriims naujo sprendimo, patvirtinančio sandorio atitiktį nacionalinio saugumo interesams. Vyriausybės sprendimas, patvirtinantis, kad sudarytas sandoris neatitinka nacionalinio saugumo interesų, reiškia, kad toks sandoris prieštarauja nacionalinio saugumo interesams, yra neteisėtas ir negalioja nuo Vyriausybės sprendimo, patvirtinančio, kad sudarytas sandoris neatitinka nacionalinio saugumo interesų, įsigaliojimo momento, o jeigu sandoris buvo sudarytas nevykdant šio straipsnio 1 ir 2 dalyse nurodytos prievolės arba buvo sudarytas sandorio patikros metu, – nuo sandorio sudarymo momento.
-TAR pastaba. 13 straipsnio 8 dalies nuostatos taikomos nuo šio įstatymo įsigaliojimo dienos(2018-03-01) naujai sudarytiems sandoriams, taip pat iki šio įstatymo įsigaliojimo sudarytiems sandoriams, kurių nuostatos yra keičiamos ir (arba) pratęsiamas sudaryto sandorio galiojimas po šio įstatymo įsigaliojimo.
+2) pirmos ir antros kategorijos nacionaliniam saugumui užtikrinti svarbių įmonių ketinamus sudaryti ar jau sudarytus sandorius, gavę duomenų, kad:
+
+
+a) sandorį ketinama sudaryti su sandorio šalimi, atitinkančia bent vieną iš šio įstatymo 11 straipsnyje įtvirtintų kriterijų; 
+
+
+
+
+b) sudarius sandorį su sandorio šalimi, bent vieną iš šio įstatymo 11 straipsnyje įtvirtintų kriterijų atitiks trečiasis asmuo;
+
+
+
+
+c) sandorį sudariusi šalis ar trečiasis asmuo atitinka bent vieną iš šio įstatymo 11 straipsnyje įtvirtintų kriterijų;
+
+
+
+
+d) sandoris gali atitikti šio straipsnio 4 dalies 1 punkte nurodytus kriterijus.
+
+
+
+
+
+
+
+
+8. Jeigu šio įstatymo nustatyta tvarka priimamas sprendimas, kad sandoris atitinka nacionalinio saugumo interesus, laikoma, kad kiti sandoriai dėl lygiaverčio objekto su ta pačia sandorio šalimi atitinka nacionalinio saugumo interesus, išskyrus atvejus, kai yra naujų duomenų dėl sandorio ar sandorio šalies (trečiojo asmens) atitikties nacionalinio saugumo interesams.
+
+
+
+
+9. Vyriausybės sprendimas, patvirtinantis, kad ketinamas sudaryti sandoris neatitinka nacionalinio saugumo interesų, reiškia, kad toks sandoris negali būti sudarytas tol, kol nebus pašalintos Vyriausybės sprendime nurodytos nacionalinio saugumo interesams grėsmę keliančios priežastys, jeigu tokios priežastys gali būti pašalintos, ir Vyriausybė, prieš tai gavusi naują Komisijos išvadą, nepriims naujo sprendimo, patvirtinančio sandorio atitiktį nacionalinio saugumo interesams. Vyriausybės sprendimas, patvirtinantis, kad sudarytas sandoris neatitinka nacionalinio saugumo interesų, reiškia, kad toks sandoris prieštarauja nacionalinio saugumo interesams, yra neteisėtas ir negalioja nuo Vyriausybės sprendimo, patvirtinančio, kad sudarytas sandoris neatitinka nacionalinio saugumo interesų, įsigaliojimo momento, o jeigu sandoris buvo sudarytas nevykdant šio straipsnio 1 ir 2 dalyse nurodytos prievolės arba buvo sudarytas sandorio patikros metu, – nuo sandorio sudarymo momento.
+
+
+
+
+10. Su sandorio šalimi ar trečiuoju asmeniu, pripažintu neatitinkančiu nacionalinio saugumo interesų, nacionaliniam saugumui užtikrinti svarbios įmonės ir ypatingos svarbos informacinės infrastruktūros valdytojai negali sudaryti sandorių, suteikiančių sandorio šaliai šio straipsnio 4 dalies 1 punkte, o trečiajam asmeniui – šios straipsnio 4 dalies 1 punkto a papunktyje nurodytas teises, kol sandorio šalis ar trečiasis asmuo nepateiks informacijos, kad aplinkybės, dėl kurių jis buvo pripažintas neatitinkančiu nacionalinio saugumo interesų, išnyko ar buvo pašalintos.
+
+
+
+
+11. Nacionaliniam saugumui užtikrinti svarbios įmonės ir ypatingos svarbos informacinės infrastruktūros valdytojai, atlikdami pirkimus, kurių vertė ar objektas atitinka šio straipsnio 1 ar 2 dalį, pirkimo dokumentuose turi nurodyti, kad nacionaliniam saugumui užtikrinti svarbi įmonė ir ypatingos svarbos informacinės infrastruktūros valdytojas kreipsis į Komisiją dėl ketinamo sudaryti sandorio atitikties nacionalinio saugumo interesams patikros ir tuo atveju, jeigu Komisija pareikalaus pateikti papildomus dokumentus ir iš kitos ketinamo sudaryti sandorio šalies, ji privalės juos pateikti. 
+
+
+
+
+12. Šio straipsnio 1 dalis netaikoma valstybės įmonei Ignalinos atominei elektrinei.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
  
 
 
+
+
+131 straipsnis. Kitų investuotojų patikra pagal Reglamentą (ES) 2019/452
+
+
+1. Komisija taip pat gali atlikti bet kurio kito, negu apibrėžta šio įstatymo 2 straipsnio 2 dalyje, investuotojo patikrą, jeigu pagal Reglamentą (ES) 2019/452 Europos Sąjungos valstybė narė ar Europos Komisija pateikia informaciją apie jų planuojamos padaryti ar padarytos tiesioginės užsienio investicijos Lietuvoje poveikį viešajai tvarkai ar saugumui, kaip jos suprantamos pagal Reglamento (ES) 2019/452 nuostatas arba Europos Sąjungos svarbos projektams ar programoms dėl saugumo arba viešosios tvarkos priežasčių.
+
+
+
+
+2. Komisija šio straipsnio 1 dalyje nurodytais atvejais atlikdama investuotojo patikrą dėl atitikties nacionaliniam saugumui mutatis mutandis vadovaujasi šio įstatymo 11 straipsnyje nustatytais kriterijais ir šio įstatymo 12 straipsnyje nustatyta tvarka.
+
+
+
+
+3. Šio įstatymo 12 straipsnio 5 dalyje nurodytų subjektų iniciatyva Komisija turi teisę vertinti, ar kitoje Europos Sąjungos valstybėje narėje planuojama ar padaryta tiesioginė užsienio investicija, kaip ji suprantama pagal Reglamentą (ES) 2019/452, nepaisant to, ar ji yra tikrinama, ar netikrinama pagal tos valstybės įstatymus, gali daryti poveikį nacionaliniam saugumui ar viešajai tvarkai, taip pat Europos Sąjungos svarbos projektams ir programoms dėl saugumo arba viešosios tvarkos priežasčių. Atlikusi vertinimą Komisija gali nuspręsti pateikti pastabas ar bet kurią kitą informaciją Europos Sąjungos valstybei narei, kurioje planuojama ar padaryta tokia tiesioginė užsienio investicija, ir Europos Komisijai Reglamente (ES) 2019/452 nustatyta tvarka.
+
+
+
+
+4. Jeigu Reglamente (ES) 2019/452 nustatyta tvarka Komisija gauna informaciją iš kitos Europos Sąjungos valstybės narės ar Europos Komisijos apie tai, kad tiesioginė užsienio investicija, dėl kurios Komisijoje atliekama investuotojo atitikties nacionaliniam saugumui patikra, gali daryti poveikį kitos Europos Sąjungos valstybės narės saugumui ar viešajai tvarkai, taip pat Europos Sąjungos svarbos projektams ir programoms dėl saugumo arba viešosios tvarkos priežasčių, ji deramai atsižvelgia į kitų Europos Sąjungos valstybių narių pastabas ir Europos Komisijos nuomonę.
+
+
+
+
+5. Jeigu Komisija turi pagrindo manyti, kad tiesioginė užsienio investicija, dėl kurios Komisijoje atliekama investuotojo atitikties nacionaliniam saugumui patikra, gali daryti poveikį saugumui arba viešajai tvarkai, ji gali paprašyti Europos Komisijos pateikti nuomonę arba kitų Europos Sąjungos valstybių narių pateikti pastabų Reglamente (ES) 2019/452 nustatyta tvarka.
+
+
+Papildyta straipsniu:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -719,7 +1003,10 @@ TAR pastaba. 13 straipsnio 8 dalies nuostatos taikomos nuo šio įstatymo įsiga
 
 
 
-2. Šio straipsnio 1 dalyje nurodytos pasekmės taikomos ir tais atvejais, kai šio įstatymo 12 straipsnio 17 dalyje nurodytą akcininką kontroliuojantis asmuo pasikeitė pažeidžiant šio įstatymo reikalavimus arba kai pasikeitė šio įstatymo 12 straipsnio 17 dalyje nurodytą akcininką kontroliuojantis asmuo, neatsižvelgiant į tai, kad Vyriausybė yra priėmusi sprendimą, jog šio įstatymo 12 straipsnio 17 dalyje nurodytą akcininką kontroliuojančio asmens pasikeitimas reikštų, kad šio įstatymo 12 straipsnio 17 dalyje nurodytas akcininkas (investuotojas) neatitinka nacionalinio saugumo interesų. 
+2. Šio straipsnio 1 dalyje nurodytos pasekmės taikomos ir tais atvejais, kai šio įstatymo 12 straipsnio 21 dalyje nurodytą akcininką kontroliuojantis asmuo pasikeitė pažeidžiant šio įstatymo reikalavimus arba kai pasikeitė šio įstatymo 12 straipsnio 21 dalyje nurodytą akcininką kontroliuojantis asmuo, neatsižvelgiant į tai, kad Vyriausybė yra priėmusi sprendimą, jog šio įstatymo 12 straipsnio 21 dalyje nurodytą akcininką kontroliuojančio asmens pasikeitimas reikštų, kad šio įstatymo 12 straipsnio 21 dalyje nurodytas akcininkas (investuotojas) neatitinka nacionalinio saugumo interesų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -745,12 +1032,18 @@ TAR pastaba. 13 straipsnio 8 dalies nuostatos taikomos nuo šio įstatymo įsiga
 
 
 
-2. Vyriausybė patvirtina nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plano reikalavimus ir jo rengimo tvarkos aprašą. Nacionaliniam saugumui užtikrinti svarbi įmonė, parengusi nacionaliniam saugumui užtikrinti svarbios įmonės saugumo planą, suderina jį su kompetentingomis institucijomis, nurodytomis Vyriausybės patvirtintame nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plano rengimo tvarkos apraše, ir teikia jį tvirtinti Vyriausybei. Nacionaliniam saugumui užtikrinti svarbių įmonių saugumo planai viešai neskelbiami. 
+2. Vyriausybė patvirtina nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plano reikalavimus ir jo rengimo tvarkos aprašą. Nacionaliniam saugumui užtikrinti svarbi įmonė, parengusi nacionaliniam saugumui užtikrinti svarbios įmonės saugumo planą, suderina jį su kompetentingomis institucijomis, nurodytomis Vyriausybės patvirtintame nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plano rengimo tvarkos apraše, ir teikia jį tvirtinti Vyriausybės įgaliotai institucijai. Nacionaliniam saugumui užtikrinti svarbių įmonių saugumo planai viešai neskelbiami. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
 
-3. Vyriausybė ar jos įgaliotos institucijos arba Komisija turi teisę priimti sprendimą dėl tikrinimo, kaip nacionaliniam saugumui užtikrinti svarbios įmonės laikosi nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plano. Nustačius, kad nacionaliniam saugumui užtikrinti svarbi veikla organizuojama ir vykdoma taip, kad kyla grėsmė nacionalinio saugumo interesams, Vyriausybė įpareigoja nacionaliniam saugumui užtikrinti svarbios įmonės valdymo organus parengti naują nacionaliniam saugumui užtikrinti svarbios įmonės saugumo planą, pakoreguoti esamą nacionaliniam saugumui užtikrinti svarbios įmonės saugumo planą ir (arba) imtis atitinkamų priemonių, kad būtų užtikrintas tinkamas naujo, esamo ar pakoreguoto nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plano vykdymas. Naujas ar pakoreguotas nacionaliniam saugumui užtikrinti svarbios įmonės saugumo planas turi būti suderintas ir patvirtintas šio straipsnio 2 dalyje nustatyta tvarka.
+3. Vyriausybės įgaliota institucija arba Komisija turi teisę priimti sprendimą dėl tikrinimo, kaip nacionaliniam saugumui užtikrinti svarbios įmonės laikosi nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plano. Nustačius, kad nacionaliniam saugumui užtikrinti svarbi veikla organizuojama ir vykdoma taip, kad kyla grėsmė nacionalinio saugumo interesams, Vyriausybės įgaliota institucija įpareigoja nacionaliniam saugumui užtikrinti svarbios įmonės valdymo organus parengti naują nacionaliniam saugumui užtikrinti svarbios įmonės saugumo planą, pakoreguoti esamą nacionaliniam saugumui užtikrinti svarbios įmonės saugumo planą ir (arba) imtis atitinkamų priemonių, kad būtų užtikrintas tinkamas naujo, esamo ar pakoreguoto nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plano vykdymas. Naujas ar pakoreguotas nacionaliniam saugumui užtikrinti svarbios įmonės saugumo planas turi būti suderintas ir patvirtintas šio straipsnio 2 dalyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -791,17 +1084,26 @@ TAR pastaba. 13 straipsnio 8 dalies nuostatos taikomos nuo šio įstatymo įsiga
 
 
 
-4. Vyriausybė, gavusi pasiūlymą šio straipsnio 1 ir 2 dalyse nurodytais atvejais įsigyti nacionaliniam saugumui užtikrinti svarbią įmonę pagal įmonės pirkimo–pardavimo sutartį, šios įmonės 2/3 ar daugiau balsų visuotiniame akcininkų susirinkime suteikiančių akcijų, nekilnojamąjį turtą ir (arba) jai priklausančius nacionaliniam saugumui užtikrinti svarbius įrenginius ir turtą (toliau – pasiūlymas), per 5 dienas nuo pasiūlymo gavimo, pateikdama pasiūlymą ir šio straipsnio 7 dalyje nurodytame Vyriausybės patvirtintame tvarkos apraše nurodytus dokumentus (jeigu tokius dokumentus reikalinga pateikti kartu su pasiūlymu), kreipiasi į Komisiją dėl išvados, kuria Komisija įvertintų pasiūlymą. 
+4. Pasiūlymas valstybei, atstovaujamai Vyriausybės, šio straipsnio 1 ir 2 dalyse nurodytais atvejais įsigyti nacionaliniam saugumui užtikrinti svarbią įmonę pagal įmonės pirkimo–pardavimo sutartį, šios įmonės 2/3 ar daugiau balsų visuotiniame akcininkų susirinkime suteikiančių akcijų, nekilnojamąjį turtą ir (arba) jai priklausančius nacionaliniam saugumui užtikrinti svarbius įrenginius ir turtą (toliau – pasiūlymas), pateikiamas Vyriausybės kanceliarijai, kuri per 5 darbo dienas nuo pasiūlymo gavimo, pateikdama pasiūlymą ir šio straipsnio 7 dalyje nurodytame Vyriausybės patvirtintame tvarkos apraše nurodytus dokumentus (jeigu tokius dokumentus reikia pateikti kartu su pasiūlymu), kreipiasi į Komisiją dėl išvados, kuria Komisija įvertintų pasiūlymą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
 
-5. Vertindama pasiūlymą Komisija įvertina nacionaliniam saugumui užtikrinti svarbių įmonių, taip pat joms priklausančių ar jų valdomų nacionaliniam saugumui užtikrinti svarbių įrenginių veikimo užtikrinimo reikalingumą ar perleidimo kitai nacionaliniam saugumui užtikrinti svarbiai įmonei galimumą ir galimas grėsmes nacionalinio saugumo interesams, jeigu nebūtų atlikti šie veiksmai. Išvadą dėl pasiūlymo Komisija priima ir Vyriausybei pateikia ne vėliau kaip per 15 dienų nuo kreipimosi ir pasiūlymo gavimo iš Vyriausybės.
+5. Vertindama pasiūlymą Komisija įvertina nacionaliniam saugumui užtikrinti svarbių įmonių, taip pat joms priklausančių ar jų valdomų nacionaliniam saugumui užtikrinti svarbių įrenginių veikimo užtikrinimo reikalingumą ar perleidimo kitai nacionaliniam saugumui užtikrinti svarbiai įmonei galimumą ir galimas grėsmes nacionalinio saugumo interesams, jeigu nebūtų atlikti šie veiksmai. Išvadą dėl pasiūlymo Komisija priima ir Vyriausybei pateikia ne vėliau kaip per 15 darbo dienų nuo kreipimosi ir pasiūlymo gavimo iš Vyriausybės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
 
-6. Vyriausybė, papildomai įvertinusi pasiūlyme nurodytų nacionaliniam saugumui užtikrinti svarbių įmonių, taip pat joms priklausančių ar jų valdomų nacionaliniam saugumui užtikrinti svarbių įrenginių veikimo užtikrinimo reikalingumą ar perleidimo kitai nacionaliniam saugumui užtikrinti svarbiai įmonei galimumą ir galimas grėsmes nacionalinio saugumo interesams, jeigu nebūtų atlikti šie veiksmai, taip pat įvertinusi šio straipsnio 5 dalyje nurodytą Komisijos išvadą, sprendimą dėl nacionaliniam saugumui užtikrinti svarbios įmonės pagal įmonės pirkimo–pardavimo sutartį, šios įmonės 2/3 ar daugiau balsų visuotiniame akcininkų susirinkime suteikiančių akcijų, nekilnojamojo turto ir (arba) jai priklausančių nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto įsigijimo priima ne vėliau kaip per 10 dienų nuo šio straipsnio 4 dalyje nurodytos Komisijos išvados gavimo dienos. Siekiant nustatyti įsigyjamo turto vertę, šioje dalyje nurodytas terminas Vyriausybės sprendimu gali būti pratęstas 5 dienoms. 
+6. Vyriausybė, papildomai įvertinusi pasiūlyme nurodytų nacionaliniam saugumui užtikrinti svarbių įmonių, taip pat joms priklausančių ar jų valdomų nacionaliniam saugumui užtikrinti svarbių įrenginių veikimo užtikrinimo reikalingumą ar perleidimo kitai nacionaliniam saugumui užtikrinti svarbiai įmonei galimumą ir galimas grėsmes nacionalinio saugumo interesams, jeigu nebūtų atlikti šie veiksmai, taip pat įvertinusi šio straipsnio 5 dalyje nurodytą Komisijos išvadą, sprendimą dėl nacionaliniam saugumui užtikrinti svarbios įmonės pagal įmonės pirkimo–pardavimo sutartį, šios įmonės 2/3 ar daugiau balsų visuotiniame akcininkų susirinkime suteikiančių akcijų, nekilnojamojo turto ir (arba) jai priklausančių nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto įsigijimo priima ne vėliau kaip per 20 darbo dienų nuo šio straipsnio 4 dalyje nurodytos Komisijos išvados gavimo dienos. Siekiant nustatyti įsigyjamo turto vertę, šioje dalyje nurodytas terminas Vyriausybės sprendimu gali būti pratęstas 10 darbo dienų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -896,7 +1198,10 @@ TAR pastaba. 17 straipsnio 2 dalies 8 punktas taikomas ir tais atvejais, kai asm
 
 
 
-4. Kartu su rašytiniu prašymu pateikti informaciją apie asmenį, skiriamą į Pareigų sąraše nurodytas pareigas, prašymą teikiantis asmenį į pareigas skiriantis ar paskyręs subjektas privalo pateikti Vyriausybės įgaliotai institucijai asmens, skiriamo į Pareigų sąraše nurodytas pareigas, sutikimą būti tikrinamam.
+4. Neteko galios nuo 2020-08-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -916,12 +1221,18 @@ TAR pastaba. 17 straipsnio 2 dalies 8 punktas taikomas ir tais atvejais, kai asm
 
 
 
-8. Šio straipsnio nuostatos mutatis mutandis taikomos generalinių rangovų ar rangovų vadovams ir darbams vadovaujantiems asmenims, kuriems suteikiama teisė be palydos patekti prie šio įstatymo 4 priedo 1 punkto a ir b papunkčiuose bei 4 priedo 2 punkto c–l papunkčiuose nurodytų nacionaliniam saugumui užtikrinti strateginę ar svarbią reikšmę turinčią infrastruktūrą sudarančių nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto. 
+8. Pirmos ir antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės turi parengti ir patvirtinti rangovų ir (ar) subrangovų darbuotojų, kuriems dėl jiems priskirtų funkcijų ar pavesto darbo būtų suteikta teisė be palydos patekti prie šių įmonių valdomų nacionaliniam saugumui užtikrinti svarbių įrenginių ar turto, pareigų sąrašus ir tikrinti juose nurodytas pareigas siekiančius eiti ar einančius asmenis, mutatis mutandis vadovaudamosi šiame straipsnyje nurodytais kriterijais ir tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
 
-9. Šio straipsnio nuostatos netaikomos trečios kategorijos nacionaliniam saugumui užtikrinti svarbioms įmonėms ir joms nuosavybės teise priklausantiems ar jų valdomiems nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui.
+9. Neteko galios nuo 2020-08-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -930,6 +1241,29 @@ TAR pastaba. 17 straipsnio 2 dalies 8 punktas taikomas ir tais atvejais, kai asm
  
 
 
+
+
+
+
+171 straipsnis. Asmens duomenų, kai šie duomenys tvarkomi šiame įstatyme nustatytais tikslais, tvarkymo ypatumai
+
+
+1. Valstybės institucijos ir Komisija, vykdydamos investuotojų ir sandorių atitikties nacionalinio saugumo interesams patikrą, taip pat asmenų, pretenduojančių eiti pareigas nacionaliniam saugumui užtikrinti svarbiose įmonėse, tikrinimą, renkamus asmens duomenis tvarko nacionalinio saugumo ar gynybos tikslais Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatyme ir šiame įstatyme nustatyta tvarka.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytais tikslais valstybės institucijos ir Komisija turi teisę tvarkyti ir specialių kategorijų asmens duomenis.
+
+
+
+
+3. Asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, taip pat šio įstatymo 12 straipsnyje, 14 straipsnio 1, 2 ir 3 dalyse įtvirtintos duomenų subjektų teisės susipažinti su asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis arba apriboti jų tvarkymą gali būti apribotos visiškai ar iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, jeigu duomenų subjektui pateikus informaciją ar įgyvendinus jo teises gali būti sudarytos prielaidos pažeisti nacionaliniam saugumui užtikrinti svarbių objektų saugumą ar šis saugumas pažeistas.
+
+
+Papildyta straipsniu:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -963,7 +1297,10 @@ TAR pastaba. 17 straipsnio 2 dalies 8 punktas taikomas ir tais atvejais, kai asm
 19 straipsnis. Komisija
 
 
-1. Vyriausybė sudaro Komisiją ir tvirtina Komisijos darbo tvarkos aprašą. Vyriausybė gali pavesti Ministrui Pirmininkui patvirtinti Komisijos personalinę sudėtį. Komisijos nariu negali būti valstybės politikas, taip pat politinio (asmeninio) pasitikėjimo valstybės tarnautojas.
+1. Vyriausybė sudaro Komisiją ir tvirtina Komisijos darbo tvarkos aprašą. Vyriausybė gali pavesti Ministrui Pirmininkui patvirtinti Komisijos personalinę sudėtį. Komisijos nariai turi būti nepriekaištingos reputacijos. Komisijos nariams taikomi tokie patys kaip ir valstybės tarnautojams Lietuvos Respublikos valstybės tarnybos įstatyme nustatyti kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos. Paskirti Komisijos nariai pasirašo nešališkumo investuotojams deklaraciją ir konfidencialumo pasižadėjimą, kurių turinio reikalavimus nustato Komisijos darbo tvarkos aprašas. Komisijos nariu negali būti valstybės politikas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -971,7 +1308,10 @@ TAR pastaba. 17 straipsnio 2 dalies 8 punktas taikomas ir tais atvejais, kai asm
 2. Komisija suinteresuotų subjektų prašymu ar savo iniciatyva:
 
 
-1) atlieka investuotojo ir asmenų, siekiančių įgyti ar įgijusių transliavimo ir (arba) retransliuojamo turinio licenciją, patikrą dėl atitikties nacionalinio saugumo interesams ir priima sprendimą arba teikia išvadą ar rekomendacijas Vyriausybei;
+1) atlieka investuotojo, sandorio ar sandorio šalies (trečiojo asmens) ir asmenų, siekiančių įgyti ar įgijusių transliavimo ir (arba) retransliuojamo turinio licenciją, patikrą dėl atitikties nacionalinio saugumo interesams ir priima sprendimą arba teikia išvadą ar rekomendacijas Vyriausybei ir (ar) investuotojui ar sandorio šaliai (trečiajam asmeniui); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -1011,7 +1351,10 @@ TAR pastaba. 17 straipsnio 2 dalies 8 punktas taikomas ir tais atvejais, kai asm
 
 
 
-9) teikia rekomendacijas dėl į Pareigų sąrašą įtrauktinų pareigų, taip pat dėl nacionaliniam saugumui užtikrinti svarbių įmonių ar nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto fizinės ir veiklos apsaugos reikalavimų;
+9) teikia rekomendacijas dėl į Pareigų sąrašą įtrauktinų pareigų ir pirmos bei antros kategorijos nacionaliniam saugumui užtikrinti svarbių įmonių patvirtintų rangovų ir (ar) subrangovų darbuotojų pareigų sąrašų, taip pat dėl nacionaliniam saugumui užtikrinti svarbių įmonių ar nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto fizinės ir veiklos apsaugos reikalavimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -1021,7 +1364,9 @@ TAR pastaba. 17 straipsnio 2 dalies 8 punktas taikomas ir tais atvejais, kai asm
 
 
 
-11) teikia Vyriausybei rekomendacijas dėl nacionaliniam saugumui užtikrinti svarbios įmonės naujo plano parengimo, esamo plano koregavimo ar vykdymo.
+11) teikia Vyriausybės įgaliotai institucijai rekomendacijas dėl nacionaliniam saugumui užtikrinti svarbios įmonės naujo saugumo plano parengimo, esamo saugumo plano koregavimo ar vykdymo. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
  
 
 
@@ -1029,14 +1374,48 @@ TAR pastaba. 17 straipsnio 2 dalies 8 punktas taikomas ir tais atvejais, kai asm
 
 
 
+3. Pasibaigus metų ketvirčiui, per 20 darbo dienų Komisija privalo pateikti Seimo Nacionalinio saugumo ir gynybos komitetui informaciją apie praėjusio metų ketvirčio veiklos rezultatus, pasiektus atliekant šio straipsnio 2 dalyje nurodytas funkcijas.
+Papildyta straipsnio dalimi:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
+
+
+
+
+
+
+191 straipsnis. Ryšių palaikymo punktas
+
+
+1. Vyriausybė paskiria instituciją, atliekančią Reglamente (ES) 2019/452 ir šiame įstatyme nurodytas Ryšių palaikymo punkto funkcijas.
+
+
+
+
+2. Ryšių palaikymo punktas atsakingas už gautos informacijos apie Lietuvoje ir kitose Europos Sąjungos valstybėse narėse planuojamas ar padarytas tiesiogines užsienio investicijas perdavimą pagal Reglamentą (ES) 2019/452 ir šį įstatymą Komisijai ir suinteresuotoms Lietuvos institucijoms, kitoms Europos Sąjungos valstybėms narėms ir Europos Komisijai.
+
+
+
+
+3. Valstybės institucijos ir įstaigos, visų pirma nurodytos šio įstatymo 12 straipsnio 4 dalies 2–10 punktuose, teikia Ryšių palaikymo punktui Reglamento (ES) 2019/452 taikymo tikslais reikalingą informaciją apie Lietuvoje planuojamas ar padarytas tiesiogines užsienio investicijas ir sprendimus, susijusius su tiesioginių užsienio investicijų tikrinimu.
+
+
+Papildyta straipsniu:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
+
+
 
 
 20 straipsnis. Sprendimų, priimtų taikant šį įstatymą, teisminė kontrolė
 
 
-Šio įstatymo pagrindu viešojo administravimo subjektų priimti sprendimai gali būti skundžiami Vilniaus apygardos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Toks skundas turi būti išnagrinėtas ne vėliau kaip per 45 dienas nuo skundo priėmimo dienos, o apeliacinis skundas dėl pirmosios instancijos administracinio teismo sprendimo – ne vėliau kaip per 30 dienų nuo apeliacinio skundo priėmimo dienos.
+Šio įstatymo pagrindu Komisijos, viešojo administravimo subjektų priimti sprendimai gali būti skundžiami Vilniaus apygardos administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Toks skundas turi būti išnagrinėtas ne vėliau kaip per 45 dienas nuo skundo priėmimo dienos, o apeliacinis skundas dėl pirmosios instancijos administracinio teismo sprendimo – ne vėliau kaip per 30 dienų nuo apeliacinio skundo priėmimo dienos.
 
 
+Straipsnio pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -1066,7 +1445,10 @@ Pirmos kategorijos nacionaliniam saugumui užtikrinti svarbių įmonių SĄRAŠA
  
 
 
-1. Įmonė, išskyrus projekto įgyvendinimo bendrovę, numatytą Lietuvos Respublikos branduolinės (atominės) elektrinės įstatyme, vykdanti branduolinės energetikos objekto (objektų), išskyrus Maišiagalos radioaktyviųjų atliekų saugyklą, statybą, eksploatavimą, eksploatavimo nutraukimą ir uždaryto radioaktyviųjų atliekų atliekyno (atliekynų) priežiūrą.
+1. Įmonė, vykdanti branduolinės energetikos objekto (objektų), išskyrus Maišiagalos radioaktyviųjų atliekų saugyklą, statybą, eksploatavimą, eksploatavimo nutraukimą ir uždaryto radioaktyviųjų atliekų atliekyno (atliekynų) priežiūrą. 
+Punkto pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -1104,7 +1486,10 @@ Nr. XIII-1453, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11765
 
 
 
-8. Įmonė, atliekanti Saugaus valstybinio duomenų perdavimo tinklo operatoriaus funkcijas.
+2. Neteko galios nuo 2020-08-01.
+Punkto pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -1141,12 +1526,18 @@ antros kategorijos nacionaliniam saugumui užtikrinti svarbių įmonių SĄRAŠA
 
 
 
-2. „Lietuvos energija“, UAB.
+2. UAB „Ignitis grupė“. 
+Punkto pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
 
-3. „Lietuvos energijos gamyba“, AB.
+3. AB „Ignitis gamyba“. 
+Punkto pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -1176,7 +1567,10 @@ antros kategorijos nacionaliniam saugumui užtikrinti svarbių įmonių SĄRAŠA
 
 
 
-9. UAB „Lietuvos dujų tiekimas“.
+9. UAB „Ignitis“.
+Punkto pakeitimai:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
 
 
 
@@ -1361,6 +1755,22 @@ g) valstybės įmonės Registrų centro informacinių technologijų techninė ir
 
 
 
+h) Saugusis valstybinis duomenų perdavimo tinklas; 
+Papildyta papunkčiu:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
+
+
+
+
+i) Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklas.
+Papildyta papunkčiu:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
+
+
+
+
 
 
 2. Nacionaliniam saugumui užtikrinti svarbią reikšmę turinti infrastruktūra:
@@ -1436,6 +1846,26 @@ n) aerodromai pagal Vyriausybės nutarimu patvirtintą sąrašą.
 
 
 
+
+
+
+
+ 
+Lietuvos Respublikos 
+nacionaliniam saugumui užtikrinti
+svarbių objektų apsaugos įstatymo
+5 priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2019 m. kovo 19 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/452, kuriuo nustatoma tiesioginių užsienio investicijų į Sąjungą tikrinimo sistema.
+
+
+Papildyta priedu:
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
  
  
 Pakeitimai:
@@ -1534,3 +1964,13 @@ Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaug
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3069, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14344
 Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 17 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3090, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13967
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 1 priedo pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 1, 2, 4, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20 straipsnių, 1, 2, 3, 4 priedų pakeitimo ir Įstatymo papildymo 13-1, 17-1, 19-1 straipsniais ir 5 priedu įstatymas
