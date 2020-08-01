@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7E57DF3CEC5"
 
 # Lietuvos Respublikos investicijų įstatymas
 
-Suvestinė redakcija nuo 2018-03-01 iki 2020-07-31
+Suvestinė redakcija nuo 2020-08-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2127, i. k. 0991010ISTAIII-1312
  
@@ -40,7 +40,6 @@ BENDROSIOS NUOSTATOS
 
 
 2. Investavimo į komercinius bankus, kitas kredito įstaigas, draudimo įmones bei kitas finansine veikla besiverčiančias įmones ypatumus nustato šių įmonių ir įstaigų veiklą reglamentuojantys Lietuvos Respublikos įstatymai.
- 
 
 
 
@@ -119,6 +118,14 @@ Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010IST
 13. Investicijos į plyną lauką – investicijų rūšis, kai verslo tikslu investuojama į naujo statinio statybą ir įrengimą  plyname lauke
 Papildyta straipsnio dalimi:
 Nr. IX-1645, 2003-06-24, Žin., 2003, Nr. 69-3119 (2003-07-10), i. k. 1031010ISTA0IX-1645
+ 
+
+
+
+
+131. Investicinis žemės sklypas – žemės sklypas, į kurį investuojama arba kuris vystomas investicijoms pritraukti. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
  
 
 
@@ -467,7 +474,7 @@ Investavimo laisvosiose ekonominėse zonose ypatumus reglamentuoja Lietuvos Resp
 
 
 
-3. Tam, kad teritorija galėtų tapti pramonės parku, savivaldybės taryba turi užtikrinti, kad tokia teritorija atitiktų šias privalomas sąlygas tokiu eiliškumu: 
+3. Tam, kad teritorija galėtų tapti pramonės parku, savivaldybės taryba turi užtikrinti, kad tokia teritorija atitiktų šias pramonės parkui privalomas sąlygas:
 
 
 1) teritorija turi būti numatyta teritorijų planavimo dokumentuose;
@@ -475,12 +482,12 @@ Investavimo laisvosiose ekonominėse zonose ypatumus reglamentuoja Lietuvos Resp
 
 
 
-2) tokios teritorijos ribos turi būti nustatytos Lietuvos Respublikos Vyriausybės;
+2) teritorijos ribos turi būti nustatytos Lietuvos Respublikos Vyriausybės;
 
 
 
 
-3) tokios teritorijos vystymo projektui Lietuvos Respublikos Seimo ar Vyriausybės nutarimu turi būti suteiktas valstybei svarbaus ekonominio projekto statusas;
+3) teritorijos vystymo projektui Lietuvos Respublikos Seimo ar Lietuvos Respublikos Vyriausybės nutarimu turi būti suteiktas valstybei svarbaus projekto statusas;
 
 
 
@@ -488,11 +495,17 @@ Investavimo laisvosiose ekonominėse zonose ypatumus reglamentuoja Lietuvos Resp
 4) Lietuvos Respublikos Vyriausybės įgaliota institucija turi būti patvirtinusi su savivaldybės taryba suderintą pramonės parko plėtros planą. Tuo atveju, kai pramonės parkas steigiamas privačioje pramoninėje teritorijoje, jo plėtros planą tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
+ 
 
 
 
 
-4. Privatiems subjektams priklausantys žemės sklypai į teritoriją gali būti įtraukiami gavus rašytinį privačios žemės sklypų savininkų sutikimą, jeigu tie žemės sklypai atitinka Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus reikalavimus.
+4. Neteko galios nuo 2020-08-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
+ 
 
 
 
@@ -744,7 +757,7 @@ Nr. XII-1416, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20546
 
 
 
-7) investuojama į įsteigimą naujų ne trumpiau kaip trejus metus išlaikomų darbo vietų, kuriose įdarbintų ne mažiau kaip 20 asmenų atitinkamų metų vidutinis darbo užmokestis būtų ne mažesnis kaip Lietuvos statistikos departamento skelbiamas savivaldybės, kurioje investuojama, vidutinis mėnesinis darbo užmokestis. 
+7) investuojama į įsteigimą naujų ne trumpiau kaip trejus metus išlaikomų darbo vietų, kuriose įdarbintų ne mažiau kaip 20 asmenų atitinkamų metų vidutinis darbo užmokestis būtų ne mažesnis kaip Lietuvos statistikos departamento skelbiamas savivaldybės, kurioje investuojama, vidutinis mėnesinis darbo užmokestis; 
 Papildyta straipsnio punktu:
 Nr. XI-2224, 2012-09-20, Žin., 2012, Nr. 111-5634 (2012-09-26), i. k. 1121010ISTA0XI-2224
 Straipsnio punkto pakeitimai:
@@ -848,10 +861,11 @@ Nr. XII-1261, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14858
 
 
 
-9) infrastruktūra (iki investuotojui suteikto sklypo ribų) įrengiama ir (ar) sutvarkoma valstybės (savivaldybės) lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Investuotojo pageidavimu, gavus laisvosios ekonominės zonos valdymo bendrovės, pramonės parko operatoriaus sutikimą, kuris duodamas, jeigu investuotojo pageidavimas atitinka Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 81 straipsnyje įtvirtintus valstybės turto valdymo, naudojimo ir disponavimo juo principus, infrastruktūra laisvojoje ekonominėje zonoje, pramonės parke (iki investuotojui suteikto sklypo ribų) įrengiama ir (ar) sutvarkoma investuotojo lėšomis teisės aktų nustatyta tvarka;
+9) infrastruktūra iki investicinio žemės sklypo, atitinkančio Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytus kriterijus, ribos ir (ar) jo ribose įrengiama ir (ar) sutvarkoma ir (ar) investicinis žemės sklypas vystomas valstybės (savivaldybės) lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Investuotojo pageidavimu, gavus laisvosios ekonominės zonos valdymo bendrovės, pramonės parko operatoriaus sutikimą, kuris duodamas, jeigu investuotojo pageidavimas atitinka Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 81 straipsnyje įtvirtintus valstybės turto valdymo, naudojimo ir disponavimo juo principus, infrastruktūra laisvojoje ekonominėje zonoje, pramonės parke įrengiama ir (ar) sutvarkoma investuotojo lėšomis teisės aktų nustatyta tvarka. 
 Straipsnio punkto pakeitimai:
 Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
 Nr. XII-1416, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20546
+Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
  
 
 
@@ -865,7 +879,7 @@ Nr. XII-1082, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10852
 
 
 
-11) iš investuotojų, kurie vykdo duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusią veiklą strateginiuose technologinės plėtros objektuose ir su kuriais Lietuvos Respublikos Vyriausybė Lietuvos Respublikos civilinio kodekso nustatyta tvarka yra sudariusi investicijų sutartis, Lietuvos Respublikos Vyriausybės nustatyta tvarka nerenkamos viešuosius interesus atitinkančių paslaugų lėšos. 
+11) iš investuotojų, kurie vykdo duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusią veiklą strateginiuose technologinės plėtros objektuose ir su kuriais Lietuvos Respublikos Vyriausybė Lietuvos Respublikos civilinio kodekso nustatyta tvarka yra sudariusi investicijų sutartis, Lietuvos Respublikos Vyriausybės nustatyta tvarka nerenkamos viešuosius interesus atitinkančių paslaugų lėšos; 
 Straipsnio punkto pakeitimai:
 Nr. IX-2364, 2004-07-15, Žin., 2004, Nr. 124-4487 (2004-08-07), i. k. 1041010ISTA0IX-2364
 Nr. XII-283, 2013-05-09, Žin., 2013, Nr. 54-2688 (2013-05-25), i. k. 1131010ISTA0XII-283
@@ -1345,3 +1359,8 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-2 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1001, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01013
 Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 8 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 9-1, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo ketvirtuoju-2 skirsniu įstatymas
