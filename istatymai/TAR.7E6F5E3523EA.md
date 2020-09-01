@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7E6F5E3523EA"
 
 # Lietuvos Respublikos triukšmo valdymo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2023-01-01
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 164-5971, i. k. 1041010ISTA0IX-2499
  
@@ -620,7 +620,10 @@ Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
 
 
 
-3) nustato pavaldžių viešojo administravimo institucijų kompetenciją triukšmo valdymo srityje ir prižiūri, kaip ji įgyvendinama;
+3) nustato pavaldžių viešojo administravimo institucijų ir įmonių, kurių savininko teises ir pareigas įgyvendina, kompetenciją triukšmo valdymo srityje ir prižiūri, kaip ji įgyvendinama; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3091, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13969
+ 
 
 
 
@@ -1140,7 +1143,10 @@ Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
 
 
 
-2) Vyriausybės nustatyta tvarka Susisiekimo ministerijos ar jos įgaliotų pavaldžių įstaigų tvirtinamus ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų triukšmo prevencijos veiksmų planus. 
+2) Vyriausybės nustatyta tvarka Susisiekimo ministerijos ar jos įgaliotų pavaldžių įstaigų ir įmonių, kurių savininko teises ir pareigas įgyvendina, tvirtinamus ne aglomeracijose esančių pagrindinių kelių ruožų, pagrindinių geležinkelio kelių ruožų ir stambių oro uostų triukšmo prevencijos veiksmų planus. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3091, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13969
+ 
 
 
 
@@ -1705,7 +1711,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
  
 
 
@@ -1762,3 +1768,8 @@ Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 24 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2189, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09845
 Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 24 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3091, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13969
+Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 9 ir 18 straipsnių pakeitimo įstatymas
