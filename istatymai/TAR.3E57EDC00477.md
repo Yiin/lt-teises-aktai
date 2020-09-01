@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/3e57edc0047711e9a5eaf2cd290f1944"
 
 # Lietuvos Respublikos bendruomeninių organizacijų plėtros įstatymas
 
+Suvestinė redakcija nuo 2020-09-01
+ 
+Įstatymas paskelbtas: TAR 2018-12-21, i. k. 2018-21110
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 BENDRUOMENINIŲ ORGANIZACIJŲ PLĖTROS
 ĮSTATYMAS
@@ -420,10 +427,15 @@ Bendruomeninių organizacijų plėtros politika įgyvendinama Lietuvos Respublik
 
 
 
-2. Savivaldybės bendruomeninių organizacijų taryba: 
+2. Bendruomeninių organizacijų atstovus į savivaldybės bendruomeninių organizacijų tarybą deleguoja tos savivaldybės teritorijoje veikianti ir ne mažiau kaip 1/2 tos savivaldybės teritorijoje veikiančių bendruomeninių organizacijų vienijanti organizacija, kuri nustato deleguojamų atstovų skaičių. Jeigu savivaldybės teritorijoje tokios organizacijos nėra, savivaldybės administracijos direktorius savivaldybės tarybos nustatyta tvarka organizuoja bendruomeninių organizacijų atstovų rinkimus. Tuo atveju atstovų skaičių nustato savivaldybės taryba. Kandidatus turi teisę siūlyti tos savivaldybės teritorijoje veikiančios bendruomeninės organizacijos. Balsuojant kiekviena bendruomeninė organizacija turi po vieną balsą. Rinkimai laikomi įvykusiais, jeigu juose balsavo ne mažiau kaip 1/2 savivaldybės teritorijoje veikiančių bendruomeninių organizacijų. Išrinktais laikomi daugiausiai balsų surinkę kandidatai.
 
 
-1) teikia pasiūlymus savivaldybės institucijoms dėl savivaldybės teritorijoje veikiančių bendruomeninių organizacijų veiklos skatinimo;
+
+
+3. Savivaldybės bendruomeninių organizacijų taryba: 
+
+
+1) teikia siūlymus savivaldybės institucijoms dėl savivaldybės teritorijoje veikiančių bendruomeninių organizacijų veiklos skatinimo;
 
 
 
@@ -445,10 +457,22 @@ Bendruomeninių organizacijų plėtros politika įgyvendinama Lietuvos Respublik
 
 
 
-3. Savivaldybės bendruomeninių organizacijų tarybos darbą techniškai aptarnauja savivaldybės administracija.
+4. Savivaldybės bendruomeninių organizacijų tarybos darbą techniškai aptarnauja savivaldybės administracija.
+
+
+
+
+5. Savivaldybės administracija interneto svetainėje skelbia savivaldybės bendruomeninių organizacijų tarybos veiklą reglamentuojančius teisės aktus, jos veiklos planus, posėdžių darbotvarkes, posėdžių protokolus ir kitą informaciją apie savivaldybės bendruomeninių organizacijų tarybą ir jos veiklą.
+
+
+
+
+6. Savivaldybės, kurios teritorijoje yra iki 100 000 gyventojų, tarybos sprendimu, kuriam pritarė ne mažiau kaip 1/2 tos savivaldybės teritorijoje veikiančių bendruomeninių organizacijų, savivaldybės nevyriausybinių organizacijų tarybai gali būti pavesta atlikti ir savivaldybės bendruomeninių organizacijų tarybos funkcijas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3137, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15129
  
-
-
 
 
 
@@ -511,3 +535,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3137, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15129
+Lietuvos Respublikos bendruomeninių organizacijų plėtros įstatymo Nr. XIII-1774 8 straipsnio pakeitimo įstatymas
