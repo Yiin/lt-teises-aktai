@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.BF41D2C35D24"
 
 # Lietuvos Respublikos kelių įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1076, i. k. 0951010ISTA000I-891
  
@@ -293,7 +293,10 @@ Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
 
 
 
-2. Valstybinės reikšmės keliai išimtine nuosavybės teise priklauso valstybei. Juos turto patikėjimo teise valdo, naudoja ir jais disponuoja Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos.
+2. Valstybinės reikšmės keliai išimtine nuosavybės teise priklauso valstybei. Juos turto patikėjimo teise valdo, naudoja ir jais disponuoja valstybės įmonė Lietuvos automobilių kelių direkcija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
+ 
 
 
 
@@ -303,7 +306,10 @@ Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
 
 
 
-4. Valstybinės reikšmės kelias ar jo ruožas Susisiekimo ministerijos teikimu išbraukiamas iš valstybinės reikšmės kelių sąrašo, kai nutiesiamas naujas valstybinės reikšmės kelias arba miestų ar kitų gyvenamųjų vietovių aplinkkelis, pasikeičia kelio socialinė ekonominė reikšmė ir (ar) kelyje sumažėja transporto priemonių eismo intensyvumas, rekonstrukcijos metu kelių ruožai ištiesinami ir (ar) nutiesiamas to paties pavadinimo kelio ruožas naujoje vietoje. Gavus atitinkamos savivaldybės tarybos sutikimą, tokie keliai teisės aktų nustatyta tvarka perduodami savivaldybių nuosavybėn su visais jiems priklausančiais statiniais ir techninėmis eismo reguliavimo priemonėmis ir įrašomi į vietinės reikšmės kelių sąrašą. Savivaldybės tarybos sutikimu vietinės reikšmės kelias ar (ir) kelio ruožas išbraukiamas iš vietinės reikšmės kelių sąrašo, kai pasikeičia to kelio socialinė ekonominė reikšmė ir kelyje padidėja transporto priemonių eismo intensyvumas ir (ar) jis rekonstruojamas į valstybinės reikšmės kelią ir suderinus su Susisiekimo ministerija perduodamas su visais jam priklausančiais statiniais ir techninėmis eismo reguliavimo priemonėmis valstybės nuosavybėn bei turto patikėjimo teise valdyti, naudotis ir juo disponuoti Lietuvos automobilių kelių direkcijai prie Susisiekimo ministerijos ir įrašomas į valstybinės reikšmės kelių sąrašą.
+4. Valstybinės reikšmės kelias ar jo ruožas Susisiekimo ministerijos teikimu išbraukiamas iš valstybinės reikšmės kelių sąrašo, kai nutiesiamas naujas valstybinės reikšmės kelias arba miestų ar kitų gyvenamųjų vietovių aplinkkelis, pasikeičia kelio socialinė ekonominė reikšmė ir (ar) kelyje sumažėja transporto priemonių eismo intensyvumas, rekonstrukcijos metu kelių ruožai ištiesinami ir (ar) nutiesiamas to paties pavadinimo kelio ruožas naujoje vietoje. Gavus atitinkamos savivaldybės tarybos sutikimą, tokie keliai teisės aktų nustatyta tvarka perduodami savivaldybių nuosavybėn su visais jiems priklausančiais statiniais ir techninėmis eismo reguliavimo priemonėmis ir įrašomi į vietinės reikšmės kelių sąrašą. Savivaldybės tarybos sutikimu vietinės reikšmės kelias ar (ir) kelio ruožas išbraukiamas iš vietinės reikšmės kelių sąrašo, kai pasikeičia to kelio socialinė ekonominė reikšmė ir kelyje padidėja transporto priemonių eismo intensyvumas ir (ar) jis rekonstruojamas į valstybinės reikšmės kelią ir suderinus su Susisiekimo ministerija perduodamas su visais jam priklausančiais statiniais ir techninėmis eismo reguliavimo priemonėmis valstybės nuosavybėn bei turto patikėjimo teise valdyti, naudotis ir juo disponuoti valstybės įmonei Lietuvos automobilių kelių direkcijai ir įrašomas į valstybinės reikšmės kelių sąrašą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
+ 
 
 
 Straipsnio pakeitimai:
@@ -329,32 +335,40 @@ Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. 1111010IS
 
 
 
-3. Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos yra Lietuvos Respublikos Vyriausybės įsteigta biudžetinė įstaiga, kuri organizuoja ir koordinuoja valstybinės reikšmės kelių atkūrimą, priežiūrą ir plėtrą ir kuri: 
+3. Valstybės įmonė Lietuvos automobilių kelių direkcija organizuoja ir koordinuoja valstybinės reikšmės kelių atkūrimą, priežiūrą ir plėtrą, taip pat:
 
 
-1) neteko galios;
-Straipsnio punkto pakeitimai:
-Nr. XIII-474, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10838
- 
+1) atlieka valstybinės reikšmės kelių projektavimo, tiesimo, statybos, rekonstravimo, taisymo (remonto) ir priežiūros darbų užsakovo funkcijas;
 
 
 
 
-2) atlieka valstybinės reikšmės kelių projektavimo, tiesimo, statybos, rekonstravimo, taisymo (remonto) ir priežiūros darbų užsakovo funkcijas;
+2) atlieka valstybinės reikšmės kelių būklės ir eismo tyrimus;
 
 
 
 
-3) atlieka valstybinės reikšmės kelių projektavimo, tiesimo, statybos, rekonstravimo, taisymo (remonto) ir priežiūros darbų organizavimo funkcijas;
+3) tvarko ir analizuoja duomenis apie valstybinės reikšmės kelius;
 
 
 
 
-4) kontroliuoja, kad valstybinės reikšmės kelius projektuotų, tiestų, statytų, rekonstruotų, taisytų (remontuotų), prižiūrėtų tik asmenys, atitinkantys teisės aktų nustatytus reikalavimus. 
+4) teikia Susisiekimo ministerijai pasiūlymus dėl valstybinės reikšmės kelių tinklo plėtros, modernizavimo ir priežiūros užtikrinimo programų rengimo;
+
+
+
+
+5) atlieka planuojamų valstybinės reikšmės kelių tiesimo, statybos ir rekonstrukcijos projektų analizę;
+
+
+
+
+6) atlieka valstybinės reikšmės kelių projektavimo, tiesimo, statybos, rekonstravimo, taisymo (remonto) ir priežiūros darbų, kurie finansuojami valstybės biudžeto lėšomis ar iš kitų finansavimo šaltinių, kokybės vertinimą, kokybės kontrolinius patikrinimus ir techninę, ekonominę ir aplinkos apsaugos stebėseną. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
+Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
  
 
 
@@ -365,32 +379,9 @@ Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
 
 
 
-5. Susisiekimo ministerijos įgaliota viešoji įstaiga, kurios vienintelis dalininkas arba savininkas yra valstybė, atlieka kelių tiesimo, statybos, rekonstrukcijos, taisymo (remonto) ir priežiūros darbams planuoti, projektuoti ir atliktų darbų kokybei įvertinti reikalingas funkcijas:
-
-
-1) atlieka valstybinės reikšmės kelių būklės ir eismo tyrimus, renka, inventorizuoja ir analizuoja duomenis apie valstybinės reikšmės kelius ir teikia pasiūlymus dėl valstybinės reikšmės kelių plėtros, modernizavimo ir veiklos užtikrinimo programų rengimo; 
-
-
-
-
-2) atlieka planuojamų valstybinės reikšmės kelių tiesimo, statybos ir rekonstrukcijos projektų analizę techniniu, ekonominiu ir aplinkos apsaugos požiūriais;
-
-
-
-
-3) vykdo atliktų kelių tiesimo, statybos, rekonstrukcijos, taisymo (remonto) ir priežiūros darbų, kurie finansuojami valstybės biudžeto lėšomis, kokybės kontrolinius patikrinimus ir techninę, ekonominę ir aplinkos apsaugos stebėseną;
-
-
-
-
-4) atlieka valstybinės reikšmės kelių saugos patikrinimus, kelių saugos valdymą, eismo įvykių ir avaringų vietų analizę ir stebėseną, nustato kelių saugos lygius ir teikia pasiūlymus dėl valstybinės eismo saugumo programos rengimo.
-Straipsnio punkto pakeitimai:
-Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
- 
-
-
-Papildyta straipsnio dalimi:
-Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. 1111010ISTA0XI-1634
+5. Neteko galios nuo 2020-09-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
  
 
 
@@ -456,12 +447,18 @@ Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. 1111010IS
 7 straipsnis. Informacijos kaupimas ir sklaida
 
 
-1. Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos informuoja visuomenę apie eismo sąlygas valstybinės ir vietinės reikšmės keliuose per visuomenės informavimo priemones. 
+1. Valstybės įmonė Lietuvos automobilių kelių direkcija informuoja visuomenę apie eismo sąlygas valstybinės ir vietinės reikšmės keliuose per visuomenės informavimo priemones. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
+ 
 
 
 
 
-2. Kelių savininkai arba jų įgalioti valdytojai teikia kelių eismo ir kelių duomenis Lietuvos automobilių kelių direkcijai prie Susisiekimo ministerijos susisiekimo ministro nustatyta tvarka.
+2. Kelių savininkai arba jų įgalioti valdytojai teikia kelių eismo ir kelių duomenis valstybės įmonei Lietuvos automobilių kelių direkcijai susisiekimo ministro nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
+ 
 
 
 
@@ -528,10 +525,12 @@ KELIŲ TIESIMAS IR PRIEŽIŪRA
 9 straipsnis. Kelių kategorijos nustatymas
 
 
-Kelių kategorijos nustatomos atsižvelgiant į transporto priemonių eismo pralaidumą ir kelių padėtį gyvenamųjų vietovių atžvilgiu bei vadovaujantis Aplinkos ministerijos ir Susisiekimo ministerijos patvirtintais Lietuvos kelių projektavimo normatyviniais dokumentais. Valstybinės reikšmės kelių kategorijas nustato Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos. Vietinės reikšmės viešųjų kelių kategorijas nustato savivaldybės, o vidaus kelių – juridiniai ar fiziniai asmenys, kuriems nuosavybės teise priklauso šie keliai.
+Kelių kategorijos nustatomos atsižvelgiant į kelių funkcinę paskirtį, transporto priemonių eismo pralaidumą ir kelių padėtį gyvenamųjų vietovių atžvilgiu bei vadovaujantis aplinkos ministro ir susisiekimo ministro nustatyta tvarka ir kriterijais. Kelio kategoriją priskiria kelio savininkai ar valdytojai: valstybinės reikšmės kelių kategorijas priskiria valstybės įmonė Lietuvos automobilių kelių direkcija, vietinės reikšmės viešųjų kelių kategorijas – savivaldybės, o vidaus kelių – juridiniai ar fiziniai asmenys. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
  
-
-
 
 
 
@@ -544,9 +543,10 @@ Kelių kategorijos nustatomos atsižvelgiant į transporto priemonių eismo pral
 
 
 
-2. Įstatymų ar Vyriausybės nustatyta tvarka valstybinės reikšmės keliams priskirta žemė priklauso valstybei išimtine nuosavybės teise. Ją patikėjimo teise valdo, naudoja ir ja disponuoja Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos. 
+2. Įstatymų ar Vyriausybės nustatyta tvarka valstybinės reikšmės keliams priskirta žemė priklauso valstybei išimtine nuosavybės teise. Ją patikėjimo teise valdo, naudoja ir ja disponuoja valstybės įmonė Lietuvos automobilių kelių direkcija. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-474, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10838
+Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
  
 
 
@@ -768,9 +768,10 @@ Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
 
 
 
-3. Kelio savininkas arba valdytojas informaciją apie kelio uždarymą teikia Lietuvos automobilių kelių direkcijai prie Susisiekimo ministerijos ir besiribojančių kelių savininkams arba valdytojams.
+3. Kelio savininkas arba valdytojas informaciją apie kelio uždarymą teikia valstybės įmonei Lietuvos automobilių kelių direkcijai ir besiribojančių kelių savininkams arba valdytojams. 
 Straipsnio dalies pakeitimai:
 Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
+Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
  
 
 
@@ -815,7 +816,10 @@ Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010IST
 
 
 
-3. Leidimą naudotis valstybinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis išduoda Lietuvos automobilių kelių direkcija prie Susisiekimo ministerijos, važiavimo maršrutą suderinusi su Alytaus miesto, Druskininkų, Kauno miesto, Klaipėdos miesto, Marijampolės, Palangos miesto, Panevėžio miesto, Šiaulių miesto, Vilniaus miesto savivaldybių administracijomis, kai važiuojama jų teritorijose esančiomis gatvėmis, kurios yra valstybinės reikšmės kelių tąsa, o leidimą naudotis vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis – savivaldybių vykdomosios institucijos (toliau kartu – leidimus išduodanti institucija).
+3. Leidimą naudotis valstybinės reikšmės keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis išduoda valstybės įmonė Lietuvos automobilių kelių direkcija, važiavimo maršrutą suderinusi su Alytaus miesto, Druskininkų, Kauno miesto, Klaipėdos miesto, Marijampolės, Palangos miesto, Panevėžio miesto, Šiaulių miesto, Vilniaus miesto savivaldybių administracijomis, kai važiuojama jų teritorijose esančiomis gatvėmis, kurios yra valstybinės reikšmės kelių tąsa, o leidimą naudotis vietinės reikšmės viešaisiais keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis – savivaldybių vykdomosios institucijos (toliau kartu – leidimus išduodanti institucija). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
+ 
 
 
 
@@ -953,7 +957,10 @@ Nr. X-1769, 2008-11-06, Žin., 2008, Nr. 135-5229 (2008-11-25), i. k. 1081010IST
 
 
 
-3) nesumokėta nustatyto dydžio valstybės rinkliava už leidimo išdavimą ir (ar) Vyriausybės ar savivaldybių tarybų nustatyto dydžio mokestis, kuris negali būti didesnis už Kelių priežiūros ir plėtros programos finansavimo įstatyme nustatytus ribinius tarifus, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis, išskyrus Kelių priežiūros ir plėtros programos finansavimo įstatyme nurodytas didžiagabarites ir (ar) sunkiasvores transporto priemones, už kurias šis mokestis nemokamas, arba jeigu toks mokestis gali būti sumokėtas ne vėliau kaip po 2 darbo dienų po leidimo išdavimo dienos;
+3) nesumokėta nustatyto dydžio valstybės rinkliava už leidimo išdavimą, jeigu yra nustatyta, ir (ar) Vyriausybės ar savivaldybių tarybų nustatyto dydžio mokestis, kuris negali būti didesnis už Kelių priežiūros ir plėtros programos finansavimo įstatyme nustatytus ribinius tarifus, už naudojimąsi keliais važiuojant didžiagabaritėmis ir (ar) sunkiasvorėmis transporto priemonėmis, išskyrus Kelių priežiūros ir plėtros programos finansavimo įstatyme nurodytas didžiagabarites ir (ar) sunkiasvores transporto priemones, už kurias šis mokestis nemokamas, arba jeigu toks mokestis gali būti sumokėtas ne vėliau kaip po 2 darbo dienų po leidimo išdavimo dienos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
+ 
 
 
 
@@ -1153,21 +1160,21 @@ PASIŪLYMAS VYRIAUSYBEI
 
 
 Vyriausybė per 3 mėnesius nuo šio Įstatymo įsigaliojimo peržiūri galiojančius teisės aktus, susijusius su šio Įstatymo nuostatų įgyvendinimu, ir prireikus juos pakeičia arba parengia reikalingus projektus ir juos pateikia Seimui.
+
+
+
+
+
+
+
+
  
  
-
-
-
-
-
-
-
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
 
 
  
@@ -1176,6 +1183,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
+ 
  
 Lietuvos Respublikos 
 kelių įstatymo
@@ -1264,3 +1272,8 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 20 straipsnių pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2179, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09959
 Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 12 ir 13 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
+Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 18 ir 20 straipsnių pakeitimo įstatymas
