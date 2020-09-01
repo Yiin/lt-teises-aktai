@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-07-11 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -3862,7 +3862,9 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 
 
-6. Mokykloje gali veikti ir kitos mokyklos savivaldos institucijos (mokytojų, mokinių, tėvų (globėjų, rūpintojų).
+6. Mokykloje veikia ir kitos mokyklos savivaldos institucijos (mokytojų, mokinių, tėvų (globėjų, rūpintojų) mokyklos nuostatuose (įstatuose) nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3022, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13239
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
  
@@ -4639,3 +4641,8 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 papildymo 31-1 straipsniu į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3266, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15540
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5-1, 37, 53, 56-3, 59 ir 69 straipsnių pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3022, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13239
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 60 straipsnio pakeitimo įstatymas
