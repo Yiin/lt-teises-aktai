@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2020-07-11 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -338,12 +338,18 @@ SAVIVALDYBIŲ FUNKCIJOS
 
 
 
-3. Bendriems tikslams pasiekti savivaldybė gali sudaryti jungtinės veiklos sutartis arba bendrų viešųjų pirkimų sutartis su valstybės institucijomis ir (arba) kitomis savivaldybėmis.
+3. Bendriems tikslams pasiekti savivaldybė gali sudaryti jungtinės veiklos sutartis arba bendrų viešųjų pirkimų sutartis su valstybės institucijomis, regionų plėtros tarybomis ir (arba) kitomis savivaldybėmis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3043, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13956
+ 
 
 
 
 
-4. Savivaldybė gali perduoti įgyvendinti administracinių ir viešųjų paslaugų funkcijas kitai savivaldybei abipusiu savivaldybių tarybų sutarimu sutarčių pagrindu, tačiau už šių funkcijų įgyvendinimą atsakinga yra funkcijas perduodanti savivaldybė.
+4. Savivaldybė gali perduoti įgyvendinti administracinių ir viešųjų paslaugų funkcijas kitai savivaldybei abipusiu savivaldybių tarybų sutarimu sutarčių pagrindu. Savivaldybė taip pat gali savivaldybės tarybos sprendimu perduoti regiono plėtros tarybai konkrečius viešųjų paslaugų teikimo administravimo įgaliojimus, kurių įgyvendinimo tvarka detalizuojama savivaldybės ir regiono plėtros tarybos sutartyje. Už savivaldybės funkcijų, perduotų kitai savivaldybei ar regiono plėtros tarybai, įgyvendinimą yra atsakinga funkcijas perduodanti savivaldybė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3043, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13956
+ 
 
 
 Straipsnio pakeitimai:
@@ -374,9 +380,10 @@ Savarankiškosios (Konstitucijos ir įstatymų nustatytos (priskirtos) savivaldy
 
 
 
-4) biudžetinių įstaigų steigimas ir išlaikymas, viešųjų įstaigų, savivaldybės įmonių ir kitų savivaldybės juridinių asmenų steigimas; 
+4) biudžetinių įstaigų steigimas ir išlaikymas, viešųjų įstaigų, savivaldybės įmonių ir kitų savivaldybės juridinių asmenų, regionų plėtros tarybų steigimas; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
+Nr. XIII-3043, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13956
  
 
 
@@ -2015,7 +2022,10 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 
 
 
-43) savivaldybės tarybos narių delegavimas į įstatymų nustatytas regionines tarybas, komisijas ir įgaliojimų jiems suteikimas reglamento nustatyta tvarka;
+43) savivaldybės tarybos narių delegavimas į regiono plėtros tarybos kolegiją, įstatymų nustatytas komisijas ir įgaliojimų jiems suteikimas reglamento nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3043, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13956
+ 
 
 
 
@@ -2410,7 +2420,10 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 
 
 
-3) atstovauja savivaldybei regiono plėtros taryboje ir turi sprendžiamojo balso teisę sudarant ir įgyvendinant regiono plėtros programą;
+3) atstovauja savivaldybei regiono plėtros tarybos kolegijoje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3043, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13956
+ 
 
 
 
@@ -2540,7 +2553,10 @@ Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
 3. Meras rūpinasi, kad:
 
 
-1) savivaldybei būtų tinkamai atstovaujama Regionų plėtros taryboje ir šios tarybos priimti sprendimai būtų tinkamai įgyvendinami savivaldybėje;
+1) savivaldybei būtų tinkamai atstovaujama regiono plėtros tarybos kolegijoje ir šios kolegijos priimti sprendimai būtų tinkamai įgyvendinami savivaldybėje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3043, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13956
+ 
 
 
 
@@ -5534,3 +5550,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3267, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15541
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 ir 20 straipsnių pakeitimo įstatymas
+ 
+48.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3043, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13956
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 5, 6, 16 ir 20 straipsnių pakeitimo įstatymas
