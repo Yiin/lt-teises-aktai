@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-11-20
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -3726,10 +3726,16 @@ AKADEMINĖ BENDRUOMENĖ
 
 
 
-721 straipsnis. Valstybinių mokslinių tyrimų institutų, veikiančių kaip biudžetinės įstaigos, administracijos (instituto direktoriaus, direktoriaus pavaduotojo, mokslinio sekretoriaus), mokslo darbuotojų ir kitų tyrėjų darbo apmokėjimo sąlygos ir socialinės garantijos
+721 straipsnis. Valstybinių mokslinių tyrimų institutų, veikiančių kaip biudžetinės įstaigos ir viešosios įstaigos, administracijos (instituto direktoriaus, direktoriaus pavaduotojo, mokslinio sekretoriaus), mokslo darbuotojų ir kitų tyrėjų darbo apmokėjimo sąlygos ir socialinės garantijos 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-3269, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15545
+ 
 
 
-1. Valstybinių mokslinių tyrimų institutų, veikiančių kaip biudžetinės įstaigos (toliau šiame straipsnyje – institutai), administracijos (instituto direktoriaus, direktoriaus pavaduotojo, mokslinio sekretoriaus), mokslo darbuotojų ir kitų tyrėjų (toliau kartu – darbuotojai) darbo užmokestį sudaro pareiginė alga (mėnesinė alga), priedai ir priemokos, mokėjimas už darbą poilsio ir švenčių dienomis, nakties bei viršvalandinį darbą, budėjimą ir esant nukrypimams nuo normalių darbo sąlygų, premijos.
+1. Valstybinių mokslinių tyrimų institutų, veikiančių kaip biudžetinės įstaigos ir viešosios įstaigos (toliau šiame straipsnyje – institutai), administracijos (instituto direktoriaus, direktoriaus pavaduotojo, mokslinio sekretoriaus), mokslo darbuotojų ir kitų tyrėjų (toliau kartu – darbuotojai) darbo užmokestį sudaro pareiginė alga (mėnesinė alga), priedai ir priemokos, mokėjimas už darbą poilsio ir švenčių dienomis, nakties bei viršvalandinį darbą, budėjimą ir esant nukrypimams nuo normalių darbo sąlygų, premijos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3269, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15545
+ 
 
 
 
@@ -3752,37 +3758,38 @@ AKADEMINĖ BENDRUOMENĖ
 5. Pareiginės algos koeficientai yra šie:
 
 
-1) instituto direktoriaus – 10,0–17,83;
+1) instituto direktoriaus – 10,81–19,28;
 
 
 
 
-2) instituto mokslinio sekretoriaus – 7,51–14,35;
+2) instituto mokslinio sekretoriaus – 8,12–15,52;
 
 
 
 
-3) vyriausiojo mokslo darbuotojo – 8,61–15,5;
+3) vyriausiojo mokslo darbuotojo – 9,31–16,76;
 
 
 
 
-4) vyresniojo mokslo darbuotojo – 7,51–12,04;
+4) vyresniojo mokslo darbuotojo – 8,12–13,02;
 
 
 
 
-5) mokslo darbuotojo, tyrėjo, mokslininko stažuotojo – 7,51–9,16;
+5) mokslo darbuotojo, tyrėjo, mokslininko stažuotojo – 8,12–9,90;
 
 
 
 
-6) jaunesniojo mokslo darbuotojo – 5,0–6,32. 
+6) jaunesniojo mokslo darbuotojo – 5,41–6,83.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-969, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21727
 Nr. XIII-1367, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11695
+Nr. XIII-3269, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15545
  
 
 
@@ -5218,3 +5225,8 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 82 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3144, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14365
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 90 straipsnio pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3269, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15545
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pakeitimo įstatymas
