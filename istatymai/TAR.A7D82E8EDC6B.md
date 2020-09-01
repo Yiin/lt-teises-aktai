@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-11-03
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
  
@@ -395,7 +395,10 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
 
 
-13) valstybės įmonių, prižiūrinčių valstybinės reikšmės kelius, kelių technikai, technologijoms, transporto ir kitoms gamybos priemonėms įsigyti;
+13) Lietuvos Respublikos susisiekimo ministerijos įgaliotos viešosios įstaigos Transporto kompetencijų agentūros funkcijoms, nurodytoms Saugaus eismo automobilių keliais įstatymo 10 straipsnio 12 dalyje, atlikti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
+ 
 
 
 
@@ -420,12 +423,18 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
 
 
-18) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, išlaikymo išlaidoms apmokėti; 
+18) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, ir valstybės įmonės Lietuvos automobilių kelių direkcijos išlaikymo išlaidoms apmokėti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
+ 
 
 
 
 
-19) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, paskoloms, skirtoms tiesioginėms funkcijoms atlikti, grąžinti ir palūkanoms mokėti; 
+19) institucijų ir įstaigų, atsakingų už valstybinės reikšmės kelius, ir valstybės įmonės Lietuvos automobilių kelių direkcijos paskoloms, skirtoms tiesioginėms funkcijoms atlikti, grąžinti ir palūkanoms mokėti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
+ 
 
 
 
@@ -448,7 +457,18 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
 
 
-23) kitoms kelių srities reikmėms finansuoti. 
+23) viešosios įstaigos Centrinės projektų valdymo agentūros (toliau – CPVA) veiklai, susijusiai su Programos lėšų, skiriamų valstybinės reikšmės kelių tinklui plėsti ir užtikrinti, kad šis tinklas veiktų, priežiūra, užtikrinti; 
+Papildyta straipsnio punktu:
+Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
+ 
+
+
+
+
+24) kitoms kelių srities reikmėms finansuoti. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -544,7 +564,9 @@ Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
 
 
 
-4. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką ir paskiria institucijas šiam įstatymui įgyvendinti. Šio įstatymo įgyvendinimą prižiūri nuolatinė Programos komisija. Jos sudėtį ir nuostatus tvirtina Vyriausybė.
+4. Vyriausybė nustato Programos finansavimo lėšų naudojimo tvarką. Programos finansavimo lėšų naudojimo tvarką įgyvendina valstybės įmonė Lietuvos automobilių kelių direkcija. Programos finansavimo lėšų naudojimo šio straipsnio 1 dalyje nurodytoms kelių reikmėms atliekant viešuosius pirkimus priežiūrą vykdo CPVA. Šio įstatymo įgyvendinimą prižiūri Susisiekimo ministerija. Susisiekimo ministras kiekvienais metais atsiskaito Seimui už Programos finansavimo lėšų panaudojimą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-320, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07679
 Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
@@ -649,6 +671,34 @@ Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
  
 
 
+
+
+
+
+91 straipsnis. CPVA funkcijos 
+
+
+CPVA, vykdydama Programos finansavimo lėšų naudojimo šio įstatymo 9 straipsnio 1 dalyje nurodytoms kelių reikmėms atliekant viešuosius pirkimus priežiūrą, atlieka šias funkcijas:
+
+
+1) prižiūri Programos lėšų naudojimą, atlikdama prevencinę viešųjų pirkimų kontrolę ir stebėseną, taip pat vertindama išlaidų, patiriamų atliekant viešųjų pirkimų procedūras, pagrįstumą ir teisėtumą;
+
+
+
+
+2) tikrina ir tvirtina deklaruotų išlaidų tinkamumą finansuoti Programos finansavimo lėšomis;
+
+
+
+
+3) atlieka patikrinimus, įskaitant patikrinimus vietoje, siekdama nustatyti, ar Programos finansavimo lėšos panaudotos tinkamai.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
+ 
 
 
 
@@ -1635,3 +1685,8 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
 Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 4 ir 9 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 9 straipsnio pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
