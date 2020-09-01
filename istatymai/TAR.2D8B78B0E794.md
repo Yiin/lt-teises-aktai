@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-12-31
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
- 
-TAR pastaba. Iki įstatymo Nr. XIII-2606 įsigaliojimo (2020-01-01)  į pareigas priimti biudžetinių įstaigų darbuotojai, kurie neturi jų pareigoms eiti būtino išsilavinimo ar profesinės kvalifikacijos, toliau eina pareigas, bet ne ilgiau kaip iki 2023 m. sausio 1 d. Per šį laikotarpį reikalaujamo išsilavinimo ar profesinės kvalifikacijos neįgiję biudžetinių įstaigų darbuotojai atleidžiami iš einamų pareigų.  Biudžetinių įstaigų darbuotojams 2019 metais nustatyta pareiginės algos kintamoji dalis už praėjusių kalendorinių metų (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjams – einamųjų metų mėnesio (mėnesių) veiklą galioja iki 2020 m. biudžetinės įstaigos darbuotojų kasmetinio (nacionalinių ir valstybinių kultūros ir meno įstaigų atlikėjams – iki einamųjų metų mėnesio (mėnesių), atsižvelgiant į nacionalinių ir valstybinių kultūros ir meno įstaigų repertuaro programą) veiklos vertinimo. Biudžetinių įstaigų darbuotojams, kurių pareiginės algos pastovioji dalis, įsigaliojus šiam įstatymui, yra mažesnė, palyginti su iki šio įstatymo įsigaliojimo buvusia nustatyta pareiginės algos pastoviąja dalimi, iki šio įstatymo įsigaliojimo nustatyta pareiginės algos pastovioji dalis mokama tol, kol jie eina tas pačias pareigas. Biudžetinių įstaigų vadovams ir jų pavaduotojams, kurių pareiginės algos pastovioji dalis kartu su kintamąja dalimi šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo 7 straipsnio 2 ir 11 dalyse nurodytais atvejais, įsigaliojus šiam įstatymui, yra mažesnė, palyginti su iki šio įstatymo įsigaliojimo buvusia nustatyta pareiginės algos pastoviąja dalimi kartu su kintamąja dalimi, iki šio įstatymo įsigaliojimo nustatyta pareiginės algos pastovioji dalis kartu su kintamąja dalimi mokama tol, kol jie eina tas pačias pareigas. Biudžetinės įstaigos iki 2020 m. rugsėjo 1 d. ir vėliau kas dveji metai teikia Lietuvos Respublikos socialinės apsaugos ir darbo ministerijai informaciją apie darbo užmokesčio dydžius pagal pareigybių grupes ir kitą informaciją, susijusią su šio įstatymo įgyvendinimu.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
-Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo Nr. XIII-198 pakeitimo įstatymas
  
 Nauja redakcija nuo 2020-01-01:
 Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
@@ -1113,15 +1108,16 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
 
 
 
- Kvalifikacinė  kategorija  
- Pastoviosios dalies koeficientai  
+
+ Kvalifikacinė kategorija  
+ Pastoviosios dalies koeficientai 
 
 
  pedagoginio darbo stažas (metais) 
 
 
  iki 2 
- nuo daugiau kaip 2 iki 5  
+ nuo daugiau kaip 2 iki 5 
  nuo daugiau kaip 5 iki 10 
  nuo daugiau kaip 10 iki 15 
  nuo daugiau kaip 15 iki 20 
@@ -1129,63 +1125,69 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL BENDROJO UGDYMO, PROFESINIO MOKYMO IR NEFORMALIOJO 
  daugiau kaip 25 
 
 
+
+
  Nesuteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 6,42 
- 6,44 
- 6,5 
- 6,62 
- 6,82 
- 6,85 
- 6,89 
+ 6,91 
+ 6,94 
+ 7,0 
+ 7,13 
+ 7,35 
+ 7,38 
+ 7,42 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 6,9 
- 6,91 
- 6,92 
- 6,95 
- 6,97 
- 7,0 
- 7,05 
+ 7,43 
+ 7,44 
+ 7,45 
+ 7,49 
+ 7,51 
+ 7,54 
+ 7,59 
 
 
  Vyresnysis mokytojas 
 
- 7,06 
- 7,08 
- 7,12 
- 7,4 
- 7,44 
- 7,47 
+ 7,6 
+ 7,63 
+ 7,67 
+ 7,97 
+ 8,01 
+ 8,05 
 
 
  Mokytojas metodininkas 
 
 
- 7,54 
- 7,68 
- 7,92 
- 7,96 
- 8,0 
+ 8,12 
+ 8,27 
+ 8,53 
+ 8,57 
+ 8,62 
 
 
  Mokytojas ekspertas 
 
 
- 8,58 
- 8,72 
- 8,94 
- 8,98 
- 9,02 
+ 9,24 
+ 9,39 
+ 9,63 
+ 9,67 
+ 9,71 
 
 
 
+
+ 
+Punkto pakeitimai:
+Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
  
 
 
@@ -1342,76 +1344,84 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL IKIMOKYKLINIO UGDYMO PROGRAMĄ, IR MENINIO UGDYMO M
 
 
 
- Kvalifikacinė  kategorija 
- Pastoviosios dalies koeficientai  
+
+ Kvalifikacinė  kategorija  
+ Pastoviosios dalies koeficientai 
 
 
  pedagoginio darbo stažas (metais) 
 
 
- iki 3  
- nuo daugiau kaip 3 iki 10 
- nuo daugiau kaip 10 iki 15  
- daugiau kaip 15 
+ iki 2 
+ nuo daugiau kaip 2 iki 5 
+ nuo daugiau kaip 5 iki 10 
+ nuo daugiau kaip 10 iki 15 
+ nuo daugiau kaip 15 iki 20 
+ nuo daugiau kaip 20 iki 25 
+ daugiau kaip 25 
 
 
  Nesuteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 4,64 
- 4,93 
- 5,0 
- 5,13 
-
-
-
- Pedagoginio darbo stažas (metais) 
-
-
-
- iki 10 
- nuo daugiau kaip 10 iki15 
- daugiau kaip 15 
+ 6,91 
+ 6,94 
+ 7,0 
+ 7,13 
+ 7,35 
+ 7,38 
+ 7,42 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 4,96 
- 5,06 
- 5,15 
+ 7,43 
+ 7,44 
+ 7,45 
+ 7,49 
+ 7,51 
+ 7,54 
+ 7,59 
 
 
  Vyresnysis mokytojas 
- 5,43 
- 5,51 
- 5,72 
+
+ 7,6 
+ 7,63 
+ 7,67 
+ 7,97 
+ 8,01 
+ 8,05 
 
 
- Mokytojas metodininkas  
- 5,93 
- 6,09 
- 6,23 
+ Mokytojas metodininkas 
+
+
+ 8,12 
+ 8,27 
+ 8,53 
+ 8,57 
+ 8,62 
 
 
  Mokytojas ekspertas 
- 6,74 
- 6,81 
- 7,0 
+
+
+ 9,24 
+ 9,39 
+ 9,63 
+ 9,67 
+ 9,71 
 
 
 
 
-
-
-
-
-
-
-
-
+ 
+Punkto pakeitimai:
+Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
  
 
 
@@ -1530,17 +1540,21 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL PRIEŠMOKYKLINIO UGDYMO PROGRAMĄ, PAREIGINĖS ALGO
 
 
 
- Kvalifikacinė kategorija  
- Pastoviosios dalies koeficientai  
+
+ Kvalifikacinė  kategorija  
+ Pastoviosios dalies koeficientai 
 
 
  pedagoginio darbo stažas (metais) 
 
 
- iki 3  
- nuo daugiau kaip  3 iki 10 
- nuo daugiau  kaip 10 iki 15  
- daugiau  kaip 15 
+ iki 2 
+ nuo daugiau kaip 2 iki 5 
+ nuo daugiau kaip 5 iki 10 
+ nuo daugiau kaip 10 iki 15 
+ nuo daugiau kaip 15 iki 20 
+ nuo daugiau kaip 20 iki 25 
+ daugiau kaip 25 
 
 
 
@@ -1549,50 +1563,63 @@ MOKYTOJŲ, DIRBANČIŲ PAGAL PRIEŠMOKYKLINIO UGDYMO PROGRAMĄ, PAREIGINĖS ALGO
 
 
  Mokytojas 
- 5,57 
- 5,92 
- 6,0 
- 6,15 
-
-
-
- Pedagoginio darbo stažas (metais) 
-
-
-
- iki 10 
- nuo daugiau  kaip 10 iki 15 
- daugiau  kaip 15 
+ 6,91 
+ 6,94 
+ 7,0 
+ 7,13 
+ 7,35 
+ 7,38 
+ 7,42 
 
 
  Suteiktos kvalifikacinės kategorijos 
 
 
  Mokytojas 
- 5,95 
- 6,07 
- 6,18 
+ 7,43 
+ 7,44 
+ 7,45 
+ 7,49 
+ 7,51 
+ 7,54 
+ 7,59 
 
 
  Vyresnysis mokytojas 
- 6,52 
- 6,61 
- 6,86 
+
+ 7,6 
+ 7,63 
+ 7,67 
+ 7,97 
+ 8,01 
+ 8,05 
 
 
  Mokytojas metodininkas 
- 7,12 
- 7,32 
- 7,47 
+
+
+ 8,12 
+ 8,27 
+ 8,53 
+ 8,57 
+ 8,62 
 
 
  Mokytojas ekspertas 
- 8,1 
- 8,17 
- 8,39 
+
+
+ 9,24 
+ 9,39 
+ 9,63 
+ 9,67 
+ 9,71 
 
 
 
+
+ 
+Punkto pakeitimai:
+Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
  
 
 
