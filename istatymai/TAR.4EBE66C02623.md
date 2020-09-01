@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2020-07-11 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-09-09
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -12860,6 +12860,24 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo penkių tūkstančių iki šešių tūkstančių eurų.
 
 
+
+
+5. Reglamento (ES) 2018/858 84 straipsnio 2 ir 3 dalyse nurodytų pažeidimų padarymas
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo trijų tūkstančių iki keturių tūkstančių eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
+ 
+
+
+
+
+6. Šio straipsnio 5 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo penkių tūkstančių iki šešių tūkstančių eurų.
+Papildyta straipsnio dalimi:
+Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
+ 
+
+
 Papildyta straipsniu:
 Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
  
@@ -19130,7 +19148,9 @@ Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
 
 
 
-36) Lietuvos automobilių kelių direkcijos prie Susisiekimo ministerijos – dėl šio kodekso 459 straipsnio 2, 3, 4, 5 dalyse, 460, 461, 462, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+36) Neteko galios nuo 2020-09-01
+Straipsnio punkto naikinimas:
+Nr. XIII-3092, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13970
 Straipsnio punkto pakeitimai:
 Nr. XIII-694, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16997
  
@@ -19371,7 +19391,7 @@ Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
 
 
 
-63) Lietuvos transporto saugos administracijos – dėl šio kodekso 127 straipsnio 1, 2 dalyse, 150, 256, 306, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 3701, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 401 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 402, 403, 404, 405, 406, 407, 409, 410, 411, 413 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 4491, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 4, 5, 6, 7, 9, 10 dalyse, 463, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų; 
+63) Lietuvos transporto saugos administracijos – dėl šio kodekso 127 straipsnio 1, 2 dalyse, 150, 256, 306, 307 straipsniuose, 369 straipsnio 5, 6 dalyse, 370, 3701, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398 straipsniuose, 401 straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26 dalyse, 402, 403, 404, 405, 406, 407, 409, 410, 411, 413 straipsniuose, 415 straipsnio 2 dalyje, 425 straipsnyje, 426 straipsnio 4 dalyje, 429 straipsnyje, 431 straipsnio 1, 2 dalyse, 434 straipsnio 1, 2, 3 dalyse, 435, 436, 437, 438, 439, 440, 441, 442, 443, 444, 445, 446, 447, 448, 449, 4491, 450, 451, 452, 453, 454, 455, 456, 457, 458 straipsniuose, 459 straipsnio 1, 2, 3, 4, 5, 6, 7, 9, 10 dalyse, 460, 461, 462, 463, 505, 507, 515 straipsniuose numatytų administracinių nusižengimų;
 Straipsnio punkto pakeitimai:
 Nr. XIII-590, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11959
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
@@ -19383,6 +19403,7 @@ Nr. XIII-1563, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17480
 Nr. XIII-2390, 2019-07-23, paskelbta TAR 2019-08-02, i. k. 2019-12805
 Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
 Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
+Nr. XIII-3092, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13970
  
 
 
@@ -24622,3 +24643,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 343, 344 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3186, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15508
 Lietuvos Respublikos administracinių nusižengimų kodekso 111 straipsnio pripažinimo netekusiu galios ir 241, 258, 262, 263, 264, 265, 267, 268, 269, 589 straipsnių pakeitimo įstatymas
+ 
+111.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3092, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13970
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
