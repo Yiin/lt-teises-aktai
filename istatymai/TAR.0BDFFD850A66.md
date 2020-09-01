@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66"
 
 # Lietuvos Respublikos viešojo administravimo įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-10-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1945, i. k. 0991010ISTAIII-1234
  
@@ -66,7 +66,10 @@ Nr. XII-2779, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26980
 
 
 
-4. Viešojo administravimo subjektas – valstybės institucija ar įstaiga, savivaldybės institucija ar įstaiga, pareigūnas, valstybės tarnautojas, valstybės ar savivaldybės įmonė, viešoji įstaiga, kurios savininkė ar dalininkė yra valstybė ar savivaldybė, asociacija, šio įstatymo nustatyta tvarka įgalioti atlikti viešąjį administravimą.
+4. Viešojo administravimo subjektas – valstybės institucija ar įstaiga, savivaldybės institucija ar įstaiga, pareigūnas, valstybės tarnautojas, valstybės ar savivaldybės įmonė, viešoji įstaiga, kurios savininkė ar dalininkė yra valstybė ar savivaldybė, asociacija, regiono plėtros taryba, šio įstatymo nustatyta tvarka įgalioti atlikti viešąjį administravimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3042, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13954
+ 
 
 
 
@@ -326,7 +329,7 @@ VIEŠASIS ADMINISTRAVIMAS
 
 
 
-2. Viešojo administravimo subjektų sistemą sudaro valstybinio administravimo subjektai ir savivaldybių administravimo subjektai.
+2. Viešojo administravimo subjektų sistemą sudaro valstybinio administravimo subjektai, regioninio administravimo subjektai ir savivaldybių administravimo subjektai.
 
 
 
@@ -351,17 +354,16 @@ VIEŠASIS ADMINISTRAVIMAS
 
 
 
-5. Savivaldybių administravimo subjektai – savivaldybių institucijos ar įstaigos, jų valstybės tarnautojai ir pareigūnai, savivaldybės įmonės, viešosios įstaigos, kurių savininkė ar dalininkė yra savivaldybė, asociacijos, įgalioti atlikti viešąjį administravimą. Tokius viešojo administravimo įgaliojimus suteikia įstatymų įgaliotos savivaldybės institucijos savo priimtu teisės aktu.
+5. Regioninio administravimo subjektai – regionų plėtros tarybos. 
 
 
 
 
-6. Neteko galios nuo 2011-05-01.
+6. Savivaldybių administravimo subjektai – savivaldybių institucijos ar įstaigos, jų valstybės tarnautojai ir pareigūnai, savivaldybės įmonės, viešosios įstaigos, kurių savininkė ar dalininkė yra savivaldybė, asociacijos, įgalioti atlikti viešąjį administravimą. Tokius viešojo administravimo įgaliojimus suteikia įstatymų įgaliotos savivaldybės institucijos savo priimtu teisės aktu. 
 
 
 Straipsnio pakeitimai:
-Nr. XI-283, 2009-06-11, Žin., 2009, Nr. 75-3062 (2009-06-25)
-Nr. XI-1259, 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
+Nr. XIII-3042, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13954
  
 
 
@@ -398,6 +400,14 @@ Nr. XI-1259, 2010-12-23, Žin., 2011, Nr. 4-125 (2011-01-10)
 4. Valstybės ir savivaldybių įmonėms viešojo administravimo įgaliojimai atlikti jų pačių priimtų administracinių sprendimų įgyvendinimo kontrolę ir teikti administracines paslaugas gali būti suteikiami tik tuo atveju, jeigu nėra valstybės ar savivaldybių institucijų ar įstaigų, kurioms šie įgaliojimai galėtų būti suteikti, ir jeigu šie įgaliojimai yra tiesiogiai susiję su tos valstybės ar savivaldybės įmonės veiklos tikslais.
 Papildyta straipsnio dalimi:
 Nr. XII-1301, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17031
+ 
+
+
+
+
+5. Regionų plėtros taryboms viešojo administravimo įgaliojimai gali būti suteikti įstatymu arba įstatymų įgaliotų savivaldybių institucijų priimtais teisės aktais, šiuose teisės aktuose nurodant konkrečius regionų plėtros taryboms suteikiamus viešojo administravimo įgaliojimus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3042, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13954
  
 
 
@@ -2261,3 +2271,8 @@ Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 papildymo 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2239, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10362
 Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 3 ir 34 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3042, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13954
+Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 2, 4 ir 4-1 straipsnių pakeitimo įstatymas
