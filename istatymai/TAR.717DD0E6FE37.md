@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.717DD0E6FE37"
 
 # Lietuvos Respublikos baudžiamojo proceso ir  kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas
 
-Suvestinė redakcija nuo 2017-09-01 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 20-520, i. k. 0961010ISTA00I-1202
  
@@ -117,7 +117,9 @@ Nr. XI-2242, 2012-10-02, Žin., 2012, Nr. 122-6101 (2012-10-20), i. k. 1121010IS
 
 
 
-4) šio straipsnio 1–3 punktuose išvardytų asmenų tėvams (įtėviams), vaikams (įvaikiams), broliams, seserims, seneliams, vaikaičiams, sutuoktiniams ir sugyventiniams.
+4) šio straipsnio 1–3 punktuose išvardytų asmenų tėvams (įtėviams), vaikams (įvaikiams), broliams, seserims, seneliams, vaikaičiams, sutuoktiniams, sugyventiniams ir išlaikytiniams.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2977, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11676
  
 
 
@@ -586,7 +588,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
  
 
 
@@ -619,3 +621,8 @@ Lietuvos Respublikos baudžiamojo proceso ir operatyvinės veiklos dalyvių, tei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-492, 2017-06-22, paskelbta TAR 2017-06-28, i. k. 2017-10913
 Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo Nr. I-1202 2 straipsnio pakeitimo ir ketvirtojo skirsnio pripažinimo netekusiu galios įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2977, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11676
+Lietuvos Respublikos baudžiamojo proceso ir kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymo Nr. I-1202 4 straipsnio pakeitimo įstatymas
