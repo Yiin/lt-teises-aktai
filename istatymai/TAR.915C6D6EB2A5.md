@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.915C6D6EB2A5"
 
 # Lietuvos Respublikos socialinės paramos mokiniams įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 73-2755, i. k. 1061010ISTA000X-686
  
@@ -215,7 +215,10 @@ Socialinė parama mokiniams
 
 
 
-3. Mokiniai, kurie mokosi pagal priešmokyklinio ugdymo programą savivaldybių bendrojo ugdymo mokyklose, kuriose maitinimas organizuojamas taikant savitarnos principą Lietuvos Respublikos sveikatos apsaugos ministro nustatyta tvarka, turi teisę į nemokamus pietus, nevertinant gaunamų pajamų. Savivaldybių, kurių administracijų patvirtintuose sąrašuose esančiose bendrojo ugdymo mokyklose bus organizuojamas nemokamas maitinimas taikant savitarnos principą, sąrašą tvirtina socialinės apsaugos ir darbo ministras.
+3. Mokiniai, kurie mokosi mokyklose pagal priešmokyklinio ugdymo programą ar pagal pradinio ugdymo programą pirmoje klasėje, turi teisę į nemokamus pietus, nevertinant gaunamų pajamų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2603, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20562
+ 
 
 
 
