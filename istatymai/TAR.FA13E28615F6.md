@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2018-11-23 iki 2020-08-31
+Suvestinė redakcija nuo 2020-09-01 iki 2020-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
  
@@ -36,7 +36,7 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo tikslas ir paskirtis
 
 
-1. Šio įstatymo tikslas – nustatyti asmenų teisės gauti iš valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, jei šios asociacijos įsteigtos bendrojo intereso poreikiams, kurie nėra pramoninio ar komercinio pobūdžio, tenkinti (toliau – šių subjektų asociacijos), nurodytų šio įstatymo 2 straipsnio 1 dalyje, informaciją, nurodytą šio įstatymo 5 straipsnyje, ir dokumentus, kuriais jos disponuoja ar (ir) kuriuos tvarko vykdydamos įstatymų ar kitų norminių teisės aktų nustatytas funkcijas (toliau – viešoji funkcija), įgyvendinimo priemones ir tvarką. 
+1. Šio įstatymo tikslas – nustatyti asmenų teisės gauti iš valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, jeigu šios asociacijos įsteigtos bendrojo intereso poreikiams, kurie nėra pramoninio ar komercinio pobūdžio, tenkinti (toliau – šių subjektų asociacijos), regionų plėtros tarybų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, informaciją, nurodytą šio įstatymo 5 straipsnyje, ir dokumentus, kuriais jos disponuoja ar (ir) kuriuos tvarko vykdydamos įstatymų ar kitų norminių teisės aktų nustatytas funkcijas (toliau – viešoji funkcija), įgyvendinimo priemones ir tvarką. 
 
 
 
@@ -44,7 +44,7 @@ BENDROSIOS NUOSTATOS
 2. Šis įstatymas nustato:
 
 
-1) valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, pareigą teikti dokumentus, taip pat atvejus, kai draudžiama suteikti išimtines teises pakartotinai naudoti dokumentus; 
+1) valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, regionų plėtros tarybų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, pareigą teikti dokumentus, taip pat atvejus, kai draudžiama suteikti išimtines teises pakartotinai naudoti dokumentus; 
 
 
 
@@ -54,7 +54,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-3) prašymų gauti dokumentus pateikimo ir nagrinėjimo tvarką, kitus valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, veiksmus teikiant dokumentus pareiškėjams; 
+3) prašymų gauti dokumentus pateikimo ir nagrinėjimo tvarką, kitus valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, regionų plėtros tarybų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, veiksmus teikiant dokumentus pareiškėjams; 
 
 
 
@@ -64,7 +64,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-5) informacijos apie valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, veiklą skelbimo tvarką;
+5) informacijos apie valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, regionų plėtros tarybų, nurodytų šio įstatymo 2 straipsnio 1 dalyje, veiklą skelbimo tvarką;
 
 
 
@@ -81,6 +81,7 @@ BENDROSIOS NUOSTATOS
 
 Straipsnio pakeitimai:
 Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+Nr. XIII-3044, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13957
  
 
 
@@ -89,9 +90,10 @@ Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
 2 straipsnis. Įstatymo taikymas
 
 
-1. Šis įstatymas taikomas valstybės ir savivaldybių institucijoms ir įstaigoms, įmonėms ir viešosioms įstaigoms, finansuojamoms iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų ir Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka įgaliotoms atlikti viešąjį administravimą arba teikiančioms asmenims viešąsias ar administracines paslaugas ar vykdančioms kitas viešąsias funkcijas, įskaitant bibliotekas, muziejus ir valstybės archyvus, taip pat šių subjektų asociacijoms (toliau – institucijos). Šio įstatymo 5 straipsnio 2 dalies 6 punktas taip pat taikomas įmonėms ir viešosioms įstaigoms, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kuriose valstybei arba savivaldybei priklauso daugiau kaip 50 procentų balsų visuotiniame akcininkų susirinkime, joms skelbiant informaciją apie savo darbuotojų darbo užmokestį šio įstatymo nustatyta tvarka. 
+1. Šis įstatymas taikomas valstybės ir savivaldybių institucijoms ir įstaigoms, įmonėms ir viešosioms įstaigoms, finansuojamoms iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų ir Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka įgaliotoms atlikti viešąjį administravimą arba teikiančioms asmenims viešąsias ar administracines paslaugas ar atliekančioms kitas viešąsias funkcijas, įskaitant bibliotekas, muziejus ir valstybės archyvus, taip pat šių subjektų asociacijoms ir regionų plėtros taryboms (toliau – institucijos). Šio įstatymo 5 straipsnio 2 dalies 6 punktas taip pat taikomas įmonėms ir viešosioms įstaigoms, kurių savininkė arba bent viena iš dalininkių yra valstybė ar savivaldybė, akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, kuriose valstybei arba savivaldybei priklauso daugiau kaip 50 procentų balsų visuotiniame akcininkų susirinkime, joms skelbiant informaciją apie savo darbuotojų darbo užmokestį šio įstatymo nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
+Nr. XIII-3044, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13957
  
 
 
@@ -437,7 +439,10 @@ Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
 4. Vyriausybės įgaliota institucija yra atsakinga už:
 
 
-1) valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų interneto svetainių ir mobiliųjų programų pritaikymo Vyriausybės nustatytiems prieinamumo reikalavimams stebėseną; šią stebėseną Vyriausybės įgaliota institucija atlieka remdamasi Europos Komisijos nustatyta stebėsenos metodika;
+1) valstybės ir savivaldybių institucijų ir įstaigų, įmonių, viešųjų įstaigų ir šių subjektų asociacijų, regionų plėtros tarybų interneto svetainių ir mobiliųjų programų pritaikymo Vyriausybės nustatytiems prieinamumo reikalavimams stebėseną; šią stebėseną Vyriausybės įgaliota institucija atlieka remdamasi Europos Komisijos nustatyta stebėsenos metodika; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3044, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13957
+ 
 
 
 
@@ -1152,3 +1157,8 @@ Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
 Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 1, 2, 3, 5, 6, 7, 12, 22 straipsnių ir priedo pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3044, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13957
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 1, 2 ir 7 straipsnių pakeitimo įstatymas
