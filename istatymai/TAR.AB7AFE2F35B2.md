@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AB7AFE2F35B2"
 
 # Lietuvos Respublikos finansinių priemonių rinkų įstatymas
 
-Suvestinė redakcija nuo 2020-06-15 iki 2020-09-02
+Suvestinė redakcija nuo 2020-09-03 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 17-627, i. k. 1071010ISTA00X-1024
  
@@ -650,7 +650,7 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 
 
-3) vidutiniu siūlomos ir prašomos kainos skirtumų dydžiu, kai jis žinomas.  
+3) vidutiniu siūlomos ir prašomos kainos skirtumų dydžiu, kai jis žinomas. 
 
 
 
@@ -6122,25 +6122,155 @@ Nr. XIII-1877, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00227
 89 straipsnis. Finansinių priemonių įvykiai ir su finansinėmis priemonėmis susijusios informacijos pateikimas
 
 
-1. Emitentai ir kiti asmenys, kurių finansinių priemonių emisija registruota centriniame depozitoriume, privalo centrinio depozitoriumo nustatyta tvarka ir terminais informuoti jį apie finansinių priemonių įvykius ir pateikti jam su tuo susijusius dokumentus ir informaciją, būtiną šiems įvykiams įvykdyti. Finansinių priemonių įvykiu laikomas finansinių priemonių išleidimas, akcininkų susirinkimas, dividendų, palūkanų ar kitokie mokėjimai, turtinių ir neturtinių teisių suteikimas, taip pat kiti emitento ar kito asmens, kurio finansinių priemonių emisija registruota centriniame depozitoriume, iniciatyva vykstantys arba nuo jo valios priklausantys įvykiai, kurie gali keisti finansinių priemonių sąskaitų parametrus. Finansinių priemonių įvykis laikomas įvykusiu tada, kai centrinis depozitoriumas jam pateiktų dokumentų pagrindu padaro atitinkamus įrašus finansinių priemonių ir (arba) lėšų sąskaitose. 
+1. Finansinių priemonių įvykiu laikomas finansinių priemonių išleidimas, visuotinis akcininkų susirinkimas, dividendų, palūkanų ar kitokie mokėjimai, turtinių ir neturtinių teisių suteikimas ir įgyvendinimas, taip pat kiti emitento ar kito asmens, kurio finansinių priemonių emisija registruota centriniame depozitoriume, iniciatyva vykstantys arba nuo jo valios priklausantys įvykiai, kurie gali keisti finansinių priemonių sąskaitų parametrus.
 
 
 
 
-2. Detalų finansinių priemonių įvykių sąrašą ir su jais susijusių operacijų atlikimo tvarką aukščiausiuoju finansinių priemonių apskaitos lygiu nustato centrinis depozitoriumas, vadovaudamasis visuotinai pripažintais tarptautiniais finansinių priemonių įvykių standartais. 
+2. Detalų finansinių priemonių įvykių sąrašą, su jais susijusių operacijų atlikimo tvarką, finansinių priemonių ir (ar) lėšų apvalinimo, taikomo finansinių priemonių įvykiams, principus aukščiausiuoju finansinių priemonių apskaitos lygiu nustato centrinis depozitoriumas, vadovaudamasis visuotinai pripažintais tarptautiniais finansinių priemonių įvykių standartais.
 
 
 
 
-3. Emitentas arba kitas asmuo, išleidęs finansines priemones, turi teisę bet kada pareikalauti, kad sąskaitų tvarkytojai pateiktų jo išleistų vardinių finansinių priemonių savininkų ir asmenų, kurių vardu atidarytos finansinių priemonių sąskaitos, kuriose įrašai daromi šio įstatymo 87 straipsnio 3 dalies 5 punkte ar 7 dalies 1 punkte nustatyta tvarka, sąrašus. Ši teisė įgyvendinama pateikiant paklausimą centriniam depozitoriumui, o šis emitento arba kito asmens, išleidusio finansines priemones, pasirinkimu pateikia sąskaitų tvarkytojų sąrašą arba finansinių priemonių savininkų ir asmenų, kurių vardu atidarytos finansinių priemonių sąskaitos, kuriose įrašai daromi šio įstatymo 87 straipsnio 3 dalies 5 punkte ar 7 dalies 1 punkte nustatyta tvarka, sąrašą. Prieš kiekvieną eilinį visuotinį akcininkų susirinkimą sąskaitų tvarkytojų sąrašas emitento arba kito asmens, išleidusio finansines priemones, prašymu pateikiamas nemokamai. Centrinio depozitoriumo nustatyta tvarka sąskaitų tvarkytojai pateikia savo apskaitoje esančius finansinių priemonių savininkų ir asmenų, kurių vardu atidarytos finansinių priemonių sąskaitos, kuriose įrašai daromi šio įstatymo 87 straipsnio 3 dalies 5 punkte ar 7 dalies 1 punkte nustatyta tvarka, sąrašus.
+3. Emitentai ir kiti asmenys, kurių finansinių priemonių emisija registruota centriniame depozitoriume, priima sprendimus ir inicijuoja finansinių priemonių įvykius, tačiau privalo centrinio depozitoriumo nustatyta tvarka ir terminais informuoti jį apie finansinių priemonių įvykius ir pateikti jam su tuo susijusius dokumentus ir informaciją, būtiną šiems įvykiams vykdyti. Finansinių priemonių įvykiai yra vykdomi centrinio depozitoriumo ir laikomi įvykusiais tada, kai centrinis depozitoriumas jam pateiktų dokumentų pagrindu padaro atitinkamus įrašus finansinių priemonių ir (arba) lėšų sąskaitose. 
 
 
 
 
-4. Sąskaitų tvarkytojas privalo sutartyje su finansinių priemonių savininku nustatyta tvarka, būdu ir periodiškumu finansinių priemonių savininkui pranešti apie bet kokį pasikeitimą savo finansinių priemonių sąskaitoje, kurioje įrašai daromi šio įstatymo 87 straipsnio 3 dalies 5 punkte ar 7 dalies 1 punkte nustatyta tvarka. Pasibaigus kalendoriniams metams, sąskaitų tvarkytojai sutartyje nurodytu būdu ir tvarka privalo pateikti ataskaitą apie asmeninės finansinių priemonių sąskaitos būklę paskutinės praėjusių metų dienos pabaigoje.
+4. Centrinis depozitoriumas apie finansinių priemonių įvykius informuoja finansinių priemonių savininkų sąskaitų tvarkytojus, tvarkančius informaciją apie finansinių priemonių įvykį informavusius emitentus, kurių finansinės priemonės yra įtrauktos į prekybą reguliuojamoje rinkoje, centrinio depozitoriumo nustatyta tvarka ir terminais. 
+
+
+
+
+5. Sąskaitų tvarkytojas privalo sutartyje su finansinių priemonių savininku nustatyta tvarka, būdu ir periodiškumu finansinių priemonių savininkui pranešti apie bet kokį pasikeitimą savo finansinių priemonių sąskaitoje, kurioje įrašai daromi šio įstatymo 87 straipsnio 3 dalies 5 punkte ar 7 dalies 1 punkte nustatyta tvarka, taip pat pateikti ir perduoti kitą šiame straipsnyje nustatytą informaciją. Pasibaigus kalendoriniams metams, sąskaitų tvarkytojai sutartyje nurodytu būdu ir tvarka privalo pateikti asmeninės finansinių priemonių sąskaitos būklės paskutinės praėjusių metų dienos pabaigoje ataskaitą.
+
+
+
+
+6. Sąskaitų tvarkytojas, tvarkantis finansinių priemonių sąskaitas, kuriose įrašai daromi šio įstatymo 87 straipsnio 3 dalies 5 punkte ar 7 dalies 1 punkte nustatyta tvarka, privalo nedelsdamas perduoti emitento, kurio finansinės priemonės yra įtrauktos į prekybą reguliuojamoje rinkoje, finansinių priemonių savininkui, kurio finansinių priemonių sąskaitas jis tvarko, arba jo įgaliotam asmeniui:
+
+
+1) informaciją apie finansinių priemonių įvykius, susijusią su finansinių priemonių savininko turtinėmis ar neturtinėmis teisėmis, kurias jam suteikia nuosavybės teise priklausančios finansinės priemonės ir kuriomis gali naudotis visi tos pačios klasės akcijų savininkai, arba
+
+
+
+
+2) pranešimą su nuoroda į emitento, kurio finansinės priemonės yra įtrauktos į prekybą reguliuojamoje rinkoje, interneto svetainę, jeigu jame pateikiama šios dalies 1 punkte nurodyta informacija apie finansinių priemonių įvykius, ir
+
+
+
+
+3) informaciją, kaip finansinių priemonių savininkui naudotis finansinių priemonių savininko turtinėmis ir neturtinėmis teisėmis arba kaip pateikti balsavimo nurodymą sąskaitų tvarkytojui balsuoti finansinių priemonių savininko naudai.
+
+
+
+
+
+
+7. Šio straipsnio 6 dalyje nustatytas reikalavimas sąskaitų tvarkytojams nedelsiant perduoti informaciją netaikomas, jeigu emitentas, kurio finansinės priemonės yra įtrauktos į prekybą reguliuojamoje rinkoje, šią informaciją ar pranešimą pateikia tiesiogiai visiems finansinių priemonių savininkams arba jų įgaliotiems asmenims.
+
+
+
+
+8. Sąskaitų tvarkytojas, kuris tvarko finansinių priemonių sąskaitas, kuriose įrašai daromi šio įstatymo 87 straipsnio 3 dalies 5 punkte ar 7 dalies 1 punkte nustatyta tvarka, pagal finansinių priemonių savininko, kurio finansinių priemonių sąskaitas jis tvarko, nurodymus turi nedelsdamas perduoti emitentui, kurio finansinės priemonės yra įtrauktos į prekybą reguliuojamoje rinkoje, iš finansinių priemonių savininko gautą informaciją, susijusią su jam priklausančiomis turtinėmis ir neturtinėmis teisėmis, kurias jam suteikia nuosavybės teise priklausančios finansinės priemonės ir kuriomis gali naudotis visi tos pačios klasės akcijų savininkai. Sąskaitų tvarkytojas turi teisę šią pareigą įgyvendinti per centrinį depozitoriumą.
+
+
+
+
+9. Kai šio straipsnio 6 ir 8 dalyse nustatytais atvejais perduodant informaciją per sąskaitų tvarkytoją yra daugiau negu vienas sąskaitų tvarkytojas (sąskaitų tvarkytojų grandinė), bet kuris sąskaitų tvarkytojas nedelsdamas perduoda informaciją kitam sąskaitų tvarkytojui, nebent sąskaitų tvarkytojas gali informaciją tiesiogiai perduoti emitentui, finansinių priemonių savininkui arba jo įgaliotam asmeniui.
+
+
+
+
+10. Perduodant šiame straipsnyje nustatytą informaciją ar pranešimus vadovaujamasi 2018 m. rugsėjo 3 d. Komisijos įgyvendinimo reglamentu (ES) 2018/1212, kuriuo, įgyvendinant Europos Parlamento ir Tarybos direktyvos 2007/36/EB nuostatas, nustatomi būtinieji akcininkų identifikavimo, informacijos perdavimo ir akcininkų naudojimosi savo teisėmis palengvinimo reikalavimai (OL 2018 L 223, p. 1).
+
+
+
+
+11. Centrinis depozitoriumas ir sąskaitų tvarkytojai savo interneto svetainėje privalo viešai skelbti šiame straipsnyje nurodytų teikiamų paslaugų įkainius, kiekvienos paslaugos įkainius nurodydamas atskirai. Tokie įkainiai turi būti proporcingi, nediskriminaciniai ir nustatomi atsižvelgiant į patiriamas faktines paslaugų suteikimo sąnaudas. Paslaugų, suteiktų Lietuvos Respublikoje ir tarpvalstybiniu mastu, įkainiai gali skirtis, tačiau skirtingi įkainiai turi būti pagrįsti ir atitikti paslaugų suteikimo faktinių sąnaudų skirtumą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
  
 
 
+
+
+891 straipsnis. Informacija apie finansines priemones ir jų savininkus
+
+
+1. Šiame straipsnyje nustatyta emitento arba kito asmens, išleidusio finansines priemones, teisė gauti jo išleistų vardinių finansinių priemonių savininkų ir asmenų, kurių vardu atidarytos finansinių priemonių sąskaitos, kuriose įrašai daromi šio įstatymo 87 straipsnio 3 dalies 5 punkte ar 7 dalies 1 punkte nustatyta tvarka, sąrašus (toliau – informacija apie finansinių priemonių savininkus). 
+
+
+
+
+2. Emitentas arba kitas asmuo, išleidęs finansines priemones, turi teisę bet kada pareikalauti, kad sąskaitų tvarkytojai pateiktų informaciją apie finansinių priemonių savininkus. Ši teisė gali būti įgyvendinama pateikiant paklausimą centriniam depozitoriumui, o šis emitento arba kito asmens, išleidusio finansines priemones, pasirinkimu pateikia sąskaitų tvarkytojų sąrašą arba informaciją apie finansinių priemonių savininkus. Prieš kiekvieną eilinį visuotinį akcininkų susirinkimą sąskaitų tvarkytojų sąrašas emitento arba kito asmens, išleidusio finansines priemones, prašymu pateikiamas nemokamai. 
+
+
+
+
+3. Informacija apie finansinių priemonių savininkus apima šiuos duomenis:
+
+
+1) fizinio asmens vardą, pavardę, gyvenamąją vietą arba adresą korespondencijai; juridinio asmens pavadinimą, teisinę formą, kodą, buveinę ir juridinio asmens atstovo vardą, pavardę, gyvenamąją vietą arba adresą korespondencijai;
+
+
+
+
+2) finansinių priemonių savininkui nuosavybės teise priklausančių akcijų skaičių ir, jeigu emitentas prašo, informaciją apie akcijų klases ir (ar) įsigijimo datą;
+
+
+
+
+3) finansinių priemonių savininko fizinio asmens – elektroninio pašto adresą (jeigu finansinių priemonių savininkas jį turi);
+
+
+
+
+4) finansinių priemonių savininko juridinio asmens – unikalų atpažinties kodą (jeigu finansinių priemonių savininkas jį turi);
+
+
+
+
+5) finansinių priemonių savininko įgalioto asmens (jeigu toks yra) – pavadinimą (vardą ir pavardę) ar unikalų atpažinties kodą.
+
+
+
+
+
+
+4. Už informacijos apie finansinių priemonių savininkus pateikimą centriniam depozitoriumui yra atsakingas sąskaitų tvarkytojas. Sąskaitų tvarkytojai savo apskaitoje esančią informaciją apie finansinių priemonių savininkus pateikia centrinio depozitoriumo nustatyta tvarka.
+
+
+
+
+5. Tais atvejais, kai sąskaitų tvarkytojų grandinėje yra daugiau negu vienas sąskaitų tvarkytojas, sąskaitų tvarkytojai nedelsdami privalo perduoti vieni kitiems centrinio depozitoriumo arba emitento ar kito asmens, išleidusio finansines priemones, prašymą ir bet kuris sąskaitų tvarkytojas, turintis informacijos apie finansinių priemonių savininkus, turi nedelsdamas perduoti šią informaciją kitam grandinėje esančiam sąskaitų tvarkytojui, kad tokia informacija būtų kuo skubiau pateikiama centriniam depozitoriumui arba emitentui ar kitam asmeniui, išleidusiam finansines priemones. Centrinio depozitoriumo arba emitento ar kito asmens, išleidusio finansines priemones, prašymu sąskaitų tvarkytojai privalo nedelsdami pateikti informaciją apie tolesnį sąskaitų tvarkytoją sąskaitų tvarkytojų grandinėje.
+
+
+
+
+6. Emitentas ar kitas asmuo, išleidęs finansines priemones, ar sąskaitų tvarkytojas, pastebėjęs ar gavęs pranešimą apie neišsamius ir netikslius šio straipsnio 3 dalyje nurodytus duomenis ar informaciją, centrinio depozitoriumo nustatyta tvarka privalo ištaisyti šiuos duomenis ar informaciją.
+
+
+
+
+7. Emitentai, kitas asmuo, išleidęs finansines priemones, sąskaitų tvarkytojai ar centrinis depozitoriumas šio straipsnio 3 dalyje nustatytą informaciją apie finansinių priemonių savininkus saugo ne ilgiau kaip 12 mėnesių nuo tada, kai sužinojo, kad fizinis arba juridinis asmuo nebėra konkrečios bendrovės finansinių priemonių savininkas. Šioje dalyje nustatytas informacijos apie finansinių priemonių savininkus saugojimo terminas nekeičia ilgesnio informacijos apie finansinių priemonių savininkus saugojimo terminų, nustatytų kituose įstatymuose ar Europos Sąjungos teisės aktuose.
+
+
+
+
+8. Finansinių priemonių savininkų asmens duomenys pagal šį straipsnį tvarkomi siekiant palengvinti emitentui arba kitam asmeniui, išleidusiam finansines priemones, identifikuoti jo išleistų finansinių priemonių savininkus ir užtikrinti jų teisę naudotis savo turtinėmis ir neturtinėmis teisėmis. Sąskaitų tvarkytojas, šiame straipsnyje nustatyta tvarka atskleidęs finansinių priemonių savininkų duomenis, nelaikomas pažeidusiu sutartyje, įstatyme ar kitame teisės akte nustatytą informacijos apie finansinių priemonių savininkus atskleidimo apribojimą.
+
+
+
+
+9. Šiame straipsnyje nustatytos informacijos apie finansines priemones ir jų savininkus teikimui taikomos šio įstatymo 89 straipsnio 10 ir 11 dalių nuostatos. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+ 
 
 
 
@@ -6153,32 +6283,57 @@ Nr. XIII-1877, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00227
 
 
 
-2. Centrinis depozitoriumas, vadovaudamasis Reglamento (ES) Nr. 909/2014 nuostatomis, turi teisę tikrinti, kaip sąskaitų tvarkytojai, kurie yra centrinio depozitoriumo dalyviai, laikosi finansinių priemonių sąskaitų tvarkymo reikalavimų, gauti su tuo susijusią informaciją ir taikyti poveikio priemones už nustatytų reikalavimų nesilaikymą.
+2. Centrinis depozitoriumas stebi, kaip emitentai ar kiti asmenys, išleidę finansines priemones, ar sąskaitų tvarkytojai, kurie yra centrinio depozitoriumo dalyviai, laikosi šio įstatymo 89 ir 891 straipsniuose nustatytų reikalavimų, ir informuoja priežiūros instituciją apie nustatytus pažeidimus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+ 
 
 
 
 
-3. Jeigu aukščiausiojo ar žemesniojo finansinių priemonių apskaitos lygio apskaitoje padaromi klaidingi įrašai, jie privalo būti nedelsiant pataisyti.
+3. Centrinis depozitoriumas, vadovaudamasis Reglamento (ES) Nr. 909/2014 nuostatomis, turi teisę tikrinti, kaip sąskaitų tvarkytojai, kurie yra centrinio depozitoriumo dalyviai, laikosi finansinių priemonių sąskaitų tvarkymo reikalavimų, gauti su tuo susijusią informaciją ir taikyti poveikio priemones už nustatytų reikalavimų nesilaikymą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+ 
 
 
 
 
-4. Sąskaitų tvarkytojo padaryta žala klientams ar tretiesiems asmenims atlyginama Civilinio kodekso nustatyta tvarka.
+4. Jeigu aukščiausiojo ar žemesniojo finansinių priemonių apskaitos lygio apskaitoje padaromi klaidingi įrašai, jie privalo būti nedelsiant pataisyti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+ 
 
 
 
 
-5. Centrinis depozitoriumas perima iš sąskaitų tvarkytojų, kuriems yra iškelta bankroto byla, informaciją apie finansinių priemonių savininkus ir jiems priklausančių finansinių priemonių likučius finansinių priemonių sąskaitose, kuriose įrašai daromi šio įstatymo 87 straipsnio 3 dalies 5 punkte ar 7 dalies 1 punkte nustatyta tvarka. Tokia informacija ir finansinių priemonių likučiai saugomi centriniame depozitoriume jo nustatyta tvarka ir sąlygomis iki finansinių priemonių apskaitos perdavimo sąskaitų tvarkytojui, kai šių finansinių priemonių savininkas yra sudaręs sutartį su sąskaitų tvarkytoju dėl finansinių priemonių sąskaitos, kurioje įrašai daromi šio įstatymo 87 straipsnio 3 dalies 5 punkte ar 7 dalies 1 punkte nustatyta tvarka, tvarkymo.
+5. Sąskaitų tvarkytojo padaryta žala klientams ar tretiesiems asmenims atlyginama Civilinio kodekso nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+ 
 
 
 
 
-6. Centrinis depozitoriumas neatlygintinai teikia priežiūros institucijai jos funkcijoms atlikti reikalingą informaciją.
+6. Centrinis depozitoriumas perima iš sąskaitų tvarkytojų, kuriems yra iškelta bankroto byla, informaciją apie finansinių priemonių savininkus ir jiems priklausančių finansinių priemonių likučius finansinių priemonių sąskaitose, kuriose įrašai daromi šio įstatymo 87 straipsnio 3 dalies 5 punkte ar 7 dalies 1 punkte nustatyta tvarka. Tokia informacija ir finansinių priemonių likučiai saugomi centriniame depozitoriume jo nustatyta tvarka ir sąlygomis iki finansinių priemonių apskaitos perdavimo sąskaitų tvarkytojui, kai šių finansinių priemonių savininkas yra sudaręs sutartį su sąskaitų tvarkytoju dėl finansinių priemonių sąskaitos, kurioje įrašai daromi šio įstatymo 87 straipsnio 3 dalies 5 punkte ar 7 dalies 1 punkte nustatyta tvarka, tvarkymo.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+ 
 
 
 
 
-7. Centrinis depozitoriumas privalo būti Lietuvos banko asmeninių, įkeistų ir kitų finansinių priemonių sąskaitų tvarkytoju ir teikti Lietuvos bankui finansinių priemonių saugojimo, apskaitos, pervedimo ir su tuo susijusias paslaugas ir informaciją, kurių reikia Lietuvos bankui įgyvendinant Eurosistemos pinigų politiką ir vykdant kitas Europos centrinių bankų sistemos funkcijas.
+7. Centrinis depozitoriumas neatlygintinai teikia priežiūros institucijai jos funkcijoms atlikti reikalingą informaciją.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
+ 
+
+
+
+
+8. Centrinis depozitoriumas privalo būti Lietuvos banko asmeninių, įkeistų ir kitų finansinių priemonių sąskaitų tvarkytoju ir teikti Lietuvos bankui finansinių priemonių saugojimo, apskaitos, pervedimo ir su tuo susijusias paslaugas ir informaciją, kurių reikia Lietuvos bankui įgyvendinant Eurosistemos pinigų politiką ir vykdant kitas Europos centrinių bankų sistemos funkcijas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
  
 
 
@@ -7551,7 +7706,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
  
 
 
