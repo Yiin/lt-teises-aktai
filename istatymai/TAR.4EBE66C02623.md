@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-09-09
+Suvestinė redakcija nuo 2020-09-10 iki 2020-10-07
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -5872,6 +5872,25 @@ užtraukia baudą asmenims nuo vieno tūkstančio penkių šimtų iki penkių t�
  
 
 
+
+
+
+
+1981 straipsnis. Nepateikimas duomenų praneštino asmens tapatybei nustatyti ar neteisingų duomenų pateikimas
+
+
+1. Nepateikimas duomenų finansų įstaigoms, kitiems subjektams, atliekantiems praneštino asmens tapatybės nustatymą, ar neteisingų duomenų pateikimas
+užtraukia baudą asmenims nuo penkių šimtų iki dviejų tūkstančių keturių šimtų eurų.
+
+
+
+
+2. Šiame straipsnyje nurodytas praneštinas asmuo yra naudos gavėjas ar kitas asmuo, kurio tapatybės duomenis finansų įstaigos ar kiti subjektai pagal Lietuvos Respublikos mokesčių administravimo įstatymą privalo kaupti ir pranešti mokesčių administratoriui. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2587, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20556
+ 
 
 
 
@@ -19419,11 +19438,12 @@ Nr. XIII-3092, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13970
 
 
 
-66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 178, 179, 180, 187, 188, 1881, 189, 190, 191, 192, 194, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 449, 4491, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+66) Valstybinės mokesčių inspekcijos – dėl šio kodekso 93, 95, 99, 127, 132, 137, 143, 150, 151, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 170, 172, 173, 174, 176, 178, 179, 180, 187, 188, 1881, 189, 190, 191, 192, 194, 1981, 205, 207 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224, 449, 4491, 450, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
 Nr. XIII-3095, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14364
+Nr. XIII-2587, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20556
  
 
 
@@ -24648,3 +24668,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 111 straipsnio pripa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3092, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13970
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+ 
+112.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2587, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20556
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir Kodekso papildymo 198-1 straipsniu įstatymas
