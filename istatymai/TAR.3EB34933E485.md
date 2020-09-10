@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2020-07-17 iki 2020-09-09
+Suvestinė redakcija nuo 2020-09-10 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -201,6 +201,22 @@ Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 
 29. Mutatis mutandis (lot.) – teisinė sąvoka, reiškianti „su tam tikrais pakeitimais“.
+
+
+
+
+291. Naudos gavėjas – kaip ši sąvoka apibrėžta Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2586, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20554
+ 
+
+
+
+
+292. Seifo kamerų nuoma – kaip ši sąvoka apibrėžta Finansų įstaigų įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIII-2586, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20554
+ 
 
 
 
@@ -1371,9 +1387,10 @@ Mokesčių administratorius (jo pareigūnas), atlikdamas jam pavestas funkcijas,
 Mokesčių administratorius (jo pareigūnas), atlikdamas jam pavestas funkcijas, turi teisę:
 
 
-1) gauti iš asmenų, tarp jų iš kredito, mokėjimo ir elektroninių pinigų įstaigų, funkcijoms atlikti reikiamus duomenis ir dokumentų nuorašus, kompiuterinių laikmenų duomenis (kopijas) apie to arba kito asmens, įskaitant naudos gavėją, kaip ši sąvoka apibrėžta Lietuvos Respublikos pinigų plovimo ir terorizmo finansavimo prevencijos įstatyme, turtą, pajamas, išlaidas ir veiklą, naudotis savo ir kitų juridinių asmenų valdomų ar tvarkomų registrų, duomenų bazių informacija; 
+1) gauti iš asmenų, tarp jų iš kredito, mokėjimo ir elektroninių pinigų įstaigų, funkcijoms atlikti reikiamus duomenis ir dokumentų nuorašus, kompiuterinių laikmenų duomenis (kopijas) apie to arba kito asmens, įskaitant naudos gavėją, turtą, pajamas, išlaidas ir veiklą, naudotis savo ir kitų juridinių asmenų valdomų ar tvarkomų registrų, duomenų bazių informacija;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1441, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11753
+Nr. XIII-2586, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20554
  
 
 
@@ -2313,12 +2330,12 @@ Nr. XI-1875, 2011-12-22, Žin., 2011, Nr. 163-7766 (2011-12-31)
 55 straipsnis. Prižiūrimų finansų rinkos dalyvių teikiama informacija
 
 
-1. Prižiūrimi finansų rinkos dalyviai, kaip jie apibrėžti Lietuvos Respublikos Lietuvos banko įstatyme, privalo pateikti Valstybinei mokesčių inspekcijai informaciją apie asmenų atidarytas ir uždarytas visų rūšių sąskaitas, sąskaitų metinių apyvartų dydį, jeigu to paties asmens visų pas tą patį finansų rinkos dalyvį turimų sąskaitų bendros metinės apyvartos dydis yra ne mažesnis kaip 15 000 eurų, sąskaitų likutį metų pabaigoje, jeigu to paties asmens visų pas tą patį finansų rinkos dalyvį turimų sąskaitų likutis metų pabaigoje yra ne mažesnis kaip 5 000 eurų, palūkanas, skolinius įsipareigojimus, vertybinius popierius, draudimo įmokas, pensijų draudimo įmokas, taip pat kitą informaciją, reikalingą mokesčių administratoriaus funkcijoms atlikti.
+1. Prižiūrimi finansų rinkos dalyviai, kaip jie apibrėžti Lietuvos Respublikos Lietuvos banko įstatyme, privalo pateikti Valstybinei mokesčių inspekcijai informaciją apie asmenų atidarytas ir uždarytas visų rūšių sąskaitas, seifo kamerų nuomą, asmenų atstovus ir naudos gavėjus, jeigu informacija apie naudos gavėjus neturi būti teikiama Juridinių asmenų dalyvių informacinės sistemos (JADIS) tvarkytojui pagal Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 25 straipsnio 1 dalies nuostatas, sąskaitų metinių apyvartų dydį, jeigu to paties asmens visų pas tą patį finansų rinkos dalyvį turimų sąskaitų bendros metinės apyvartos dydis yra ne mažesnis kaip 15 000 eurų, sąskaitų likutį metų pabaigoje, jeigu to paties asmens visų pas tą patį finansų rinkos dalyvį turimų sąskaitų likutis metų pabaigoje yra ne mažesnis kaip 5 000 eurų, palūkanas, skolinius įsipareigojimus, vertybinius popierius, draudimo įmokas, pensijų draudimo įmokas, taip pat kitą informaciją, reikalingą mokesčių administratoriaus funkcijoms atlikti. 
 
 
 
 
-2. Informacija apie asmenų atidarytas ir uždarytas visų rūšių sąskaitas pateikiama raštu ne vėliau kaip per 3 darbo dienas nuo sąskaitos atidarymo ar uždarymo dienos arba kitais prižiūrimo finansų rinkos dalyvio ir centrinio mokesčių administratoriaus tarpusavio sutartyje nustatytais būdais ir terminais. Kita šio straipsnio 1 dalyje nurodyta informacija pateikiama kartą per metus Vyriausybės nustatytu mastu, tvarka ir terminais.
+2. Centrinis mokesčių administratorius, atsižvelgdamas į Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo nuostatas ir suderinęs su Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, nustato šio straipsnio 1 dalyje nurodytos informacijos – duomenų apie asmenų atidarytas ir uždarytas visų rūšių sąskaitas, seifo kamerų nuomą, asmenų atstovus ir  naudos gavėjus – sąrašą, informacijos pateikimo Valstybinei mokesčių inspekcijai tvarką ir terminus. Kita šio straipsnio 1 dalyje nurodyta informacija pateikiama kartą per metus Vyriausybės nustatytu mastu, tvarka ir terminais.
 
 
 Straipsnio pakeitimai:
@@ -2326,6 +2343,7 @@ Nr. XI-558, 2009-12-10, Žin., 2009, Nr. 153-6896 (2009-12-28)
 Nr. XI-1875, 2011-12-22, Žin., 2011, Nr. 163-7766 (2011-12-31)
 Straipsnio pakeitimai:
 Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
+Nr. XIII-2586, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20554
  
 
 
@@ -2360,6 +2378,14 @@ Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
 
 
 6. Lietuvos Respublikoje įregistruoti juridiniai asmenys privalo pateikti Valstybinei mokesčių inspekcijai informaciją apie kiekvieną nenuolatinį Lietuvos gyventoją, dirbantį šiame juridiniame asmenyje Lietuvoje pagal laikinojo įdarbinimo sutartį, sudarytą su užsienio valstybės juridiniu asmeniu. Ši informacija pateikiama centrinio mokesčių administratoriaus nustatyta tvarka ir terminais. 
+
+
+
+
+7. Asmenys, kurie veikia Lietuvoje užsienio asmens vardu ir (arba) interesais ir kuriems Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme nenustatyta pareiga nustatyti to užsienio asmens naudos gavėjo tapatybę, turi nustatyti užsienio asmens naudos gavėją ir saugoti naudos gavėjo tapatybės duomenis, apskaitos dokumentus, sutarčių dokumentaciją (dokumentų originalus) 5 metus nuo sandorių ar veiklos užsienio asmens vardu ir (arba) interesais pabaigos dienos ir mokesčių administratoriaus reikalavimu šią informaciją ir duomenis pateikti mokesčių administratoriui per šio Įstatymo 49 straipsnyje nurodytą terminą.
+Papildyta straipsnio dalimi:
+Nr. XIII-2586, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20554
+ 
 
 
 Papildyta straipsniu:
@@ -6542,7 +6568,10 @@ Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
 
 
 
-3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ir teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlameno ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB (OL 2015 L 141, p. 73).
+3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB (OL 2015 L 141, p. 73), su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843 (OL 2018 L 156, p. 43).
+Punkto pakeitimai:
+Nr. XIII-2586, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20554
+ 
 
 
 
@@ -6806,3 +6835,8 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 13 ir 14 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3238, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15875
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 3 straipsnio pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2586, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20554
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 33, 55, 55-1 straipsnių ir priedo pakeitimo įstatymas
