@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.846A96B5C76A"
 
 # Lietuvos Respublikos architektų rūmų įstatymas
 
-Suvestinė redakcija nuo 2017-01-01 iki 2020-09-10
+Suvestinė redakcija nuo 2020-09-11 iki 2021-10-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 134-5063, i. k. 1061010ISTA000X-914
  
@@ -250,8 +250,10 @@ Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
 
 
 1. Rūmų nariai yra visi Lietuvos Respublikoje atestuoti architektai. Rūmų nariais gali būti ir architektai, kurių teisė verstis atestuoto architekto veikla pripažinta Lietuvos Respublikoje.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos architektų rūmų įstatymo 4 straipsnio 1 dalis (2016 m. lapkričio 3 d. redakcija; TAR, 2016, Nr. 26508) tiek, kiek joje nustatyta atestuotų architektų, nesiverčiančių atestuoto architekto veikla, privaloma narystė Lietuvos Respublikos architektų rūmuose, prieštarauja Lietuvos Respublikos Konstitucijos 35 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
 Straipsnio dalies pakeitimai:
 Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
+Nr. KT166-A-N14/2020, 2020-09-11, paskelbta TAR 2020-09-11, i. k. 2020-19129
  
 
 
@@ -274,6 +276,10 @@ Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
 
 
 4. Narystės Rūmuose sąlygos ir tvarka (įstojimas, narystės sustabdymas, išstojimas, pašalinimas ir kita) numatomi Rūmų statute.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos architektų rūmų įstatymo (2006 m. lapkričio 21 d. redakcija; Žin., 2006, Nr. 134-5063) 4 straipsnio 4 dalis tiek, kiek joje nustatyta, kad narystės Lietuvos Respublikos architektų rūmuose sustabdymo ir pasibaigimo pagrindai yra numatomi šių rūmų statute, prieštarauja Lietuvos Respublikos Konstitucijos 35 straipsnio 3 daliai, 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus gali laisvai pasirinkti darbą bei verslą“.
+Straipsnio dalies pakeitimai:
+Nr. KT166-A-N14/2020, 2020-09-11, paskelbta TAR 2020-09-11, i. k. 2020-19129
+ 
 
 
 
@@ -976,7 +982,6 @@ Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
 
 Pasiūlyti Vyriausybei ar jos įgaliotai institucijai parengti ir patvirtinti šiam įstatymui įgyvendinti reikalingus teisės aktus.
  
- 
 
 
 
@@ -987,14 +992,18 @@ Pasiūlyti Vyriausybei ar jos įgaliotai institucijai parengti ir patvirtinti š
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
+ 
+ 
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
 
 
 
 
 
 
- 
+ 
 Lietuvos Respublikos architektų rūmų
 Įstatymo priedas
  
@@ -1015,3 +1024,8 @@ Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 3, 6, 8, 9 ir 11 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
 Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 1, 2, 3, 4, 11 straipsnių pakeitimo ir 18 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+3.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT166-A-N14/2020, 2020-09-11, paskelbta TAR 2020-09-11, i. k. 2020-19129
+Dėl Lietuvos Respublikos architektų rūmų įstatymo 4 straipsnio 1, 4 dalių atitikties Lietuvos Respublikos Konstitucijai
