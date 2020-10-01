@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.769B541DD7F7"
 
 # Lietuvos Respublikos ūkininko ūkio įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2020-09-30
+Suvestinė redakcija nuo 2020-10-01 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 43-1358, i. k. 0991010ISTAIII-1159
  
@@ -260,42 +260,42 @@ Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
 
 
 
-2) asmens tapatybę patvirtinantį dokumentą; 
+2) asmens tapatybę patvirtinantį dokumentą;
 
 
 
 
-3) ūkininku registruojamo asmens žemės nuosavybės ar kitais pagrindais naudojamos žemės valdymo ir naudojimo teisę suteikiančių dokumentų kopijas; 
+3) ūkininku registruojamo asmens žemės nuosavybės ar kitais pagrindais naudojamos žemės valdymo ir naudojimo teisę suteikiančius dokumentus;
 
 
 
 
-4) registruojamo asmens nuosavybės teise turimo ar kitais pagrindais naudojamo žemės sklypo plano arba schemos kopiją;
+4) registruojamo asmens nuosavybės teise turimo ar kitais pagrindais naudojamo žemės sklypo planą arba schemą;
 
 
 
 
-5) dokumento, patvirtinančio asmens profesinį pasirengimą ūkininkauti, kopiją.
+5) dokumentą, patvirtinantį asmens profesinį pasirengimą ūkininkauti.
 
 
 
 
 
 
-2. Jeigu ūkininkas žemės ūkio veikla verčiasi kartu su kitais asmenimis (partneriais), turi būti papildomai pateikiama: 
+2. Jeigu ūkininkas žemės ūkio veikla verčiasi kartu su kitais asmenimis (partneriais), turi būti papildomai pateikiama:
 
 
-1) partnerių asmens tapatybę patvirtinančių dokumentų kopijos;
-
-
-
-
-2) jungtinės veiklos (partnerystės) sutarties kopija;
+1) partnerių asmens tapatybę patvirtinantys dokumentai;
 
 
 
 
-3) partnerių bendrai veiklai skirtos nuosavybės teise priklausančios žemės nuosavybės teisę patvirtinančių ar kitais pagrindais naudojamos žemės valdymo ir naudojimo teisę suteikiančių dokumentų bei žemės sklypo plano arba schemos kopijos, jei partneriai bendrai veiklai skiria žemę;
+2) jungtinės veiklos (partnerystės) sutartis;
+
+
+
+
+3) partnerių bendrai veiklai skirtos nuosavybės teise priklausančios žemės nuosavybės teisę patvirtinantys ar kitais pagrindais naudojamos žemės valdymo ir naudojimo teisę suteikiantys dokumentai bei žemės sklypo planas arba schema, jei partneriai bendrai veiklai skiria žemę;
 
 
 
@@ -307,31 +307,25 @@ Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
 
 
 
-3. Su šio straipsnio 1 ir 2 dalyse nurodytų dokumentų kopijomis kartu turi būti pateikiami ir jų originalai arba notaro patvirtinti dokumentų nuorašai.
+3. Vietoj šio straipsnio 1 ir 2 dalyse nurodytų dokumentų gali būti pateikiami notaro patvirtinti dokumentų nuorašai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3205, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15398
  
 
 
 
 
+8 straipsnis. Ūkio įregistravimas
 
 
-8 straipsnis. Ūkio įregistravimas 
-
-
-1. Ūkis įregistruojamas, jei pageidaujančio įregistruoti ūkį asmens pateikti dokumentai atitinka šio Įstatymo 4 straipsnyje nurodytas sąlygas.
-
-
-
-
-2. Ūkis turi būti įregistruotas ir ūkio įregistravimo pažymėjimas išduotas ne vėliau kaip per 10 darbo dienų nuo dokumentų, nurodytų šio įstatymo 7 straipsnyje, pateikimo dienos. Jeigu ūkį įregistruoti atsisakoma, priežastys nurodomos raštu.
-Straipsnio dalies pakeitimai:
-Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
- 
+1. Ūkis įregistruojamas ir ūkio įregistravimo pažymėjimas išduodamas ne vėliau kaip per 10 darbo dienų nuo prašymo įregistruoti ūkį pateikimo Ūkininkų ūkių registro tvarkytojai – savivaldybės administracijai dienos, jeigu pageidaujančio įregistruoti ūkį asmens pateikti dokumentai patvirtina atitiktį šio Įstatymo 4 straipsnyje nurodytoms sąlygoms. Jeigu ūkį įregistruoti atsisakoma, priežastys nurodomos raštu.
 
 
 
 
-3. Ūkis neįregistruojamas, jeigu:
+2. Ūkis neįregistruojamas, jeigu:
 
 
 1) ūkininko veiklos pagrindai neatitinka šio Įstatymo 4 straipsnyje nurodytų sąlygų;
@@ -339,7 +333,7 @@ Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
 
 
 
-2) pateikti ne visi ūkininko ūkiui įregistruoti reikiami dokumentai;
+2) pateikti ne visi ūkininko ūkiui įregistruoti reikiami dokumentai, nurodyti šio Įstatymo 7 straipsnyje;
 
 
 
@@ -351,20 +345,12 @@ Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
 
 
 
-4. Neteko galios nuo 2018-01-01.
-Straipsnio dalies pakeitimai:
-Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
+3. Kiekvienais kalendoriniais metais iki gruodžio 31 dienos ūkininkas privalo Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka atnaujinti ūkio duomenis Ūkininkų ūkių registre. Jeigu ūkio duomenys nepasikeitė, ūkininkas privalo šį faktą patvirtinti. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3205, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15398
  
-
-
-
-
-5. Kiekvienais kalendoriniais metais iki gruodžio 31 dienos ūkininkas privalo Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka atnaujinti ūkio duomenis Ūkininkų ūkių registre. Jeigu ūkio duomenys nepasikeitė, ūkininkas privalo šį faktą patvirtinti.
-Papildyta straipsnio dalimi:
-Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
- 
-
-
 
 
 
@@ -372,11 +358,11 @@ Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
 81 straipsnis. Ūkininko ūkio duomenų pasikeitimo įregistravimas ūkininkui mirus
 
 
-Ūkininkui mirus, jeigu įpėdinis tęsia ūkio veiklą, registro tvarkymo įstaigai pateikiami ūkio įregistravimo pažymėjimas ir prašymas įregistruoti ūkį įpėdinio vardu kartu su tai patvirtinančiais ir kitais dokumentais, nurodytais šio Įstatymo 7 straipsnyje.
+Ūkininkui mirus, jeigu įpėdinis tęsia ūkio veiklą, Ūkininkų ūkių registro tvarkytojai – savivaldybės administracijai pateikiami ūkio įregistravimo pažymėjimas ir prašymas įregistruoti ūkį įpėdinio vardu kartu su paveldėjimo teisę patvirtinančiais dokumentais ir dokumentais, įrodančiais, kad įvykdytos šio Įstatymo 4 straipsnyje nurodytos sąlygos. 
 
 
-Papildyta straipsniu:
-Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA00X-1420
+Straipsnio pakeitimai:
+Nr. XIII-3205, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15398
  
 
 
@@ -507,7 +493,9 @@ Nr. X-1420, 2008-01-17, Žin., 2008, Nr. 10-336 (2008-01-24), i. k. 1081010ISTA0
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
 
 
@@ -560,3 +548,8 @@ Lietuvos Respublikos ūkininko ūkio įstatymo 5 straipsnio pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-585, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11955
 Lietuvos Respublikos ūkininko ūkio įstatymo Nr. VIII-1159 6, 8 ir 9 straipsnių pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3205, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15398
+Lietuvos Respublikos ūkininko ūkio įstatymo Nr. VIII-1159 7, 8 ir 8-1 straipsnių pakeitimo įstatymas
