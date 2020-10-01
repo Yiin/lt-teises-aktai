@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-09-30
+Suvestinė redakcija nuo 2020-10-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
  
@@ -1685,7 +1685,10 @@ Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
 35 straipsnis. Karinė įskaita
 
 
-1. Karinei įskaitai tvarkyti Vyriausybė steigia Lietuvos Respublikos karo prievolininkų registrą, kuriame karo prievolės administravimo tikslais yra tvarkomi karo prievolininkų asmens duomenys. Šiame registre gali būti tvarkomi karo prievolininkų specialių kategorijų asmens duomenys, taip pat duomenys apie įtariamojo ar kaltinamojo statusą baudžiamajame procese, padarytą nusikalstamą veiką, paskirtą baudžiamojo poveikio priemonę ar bausmę už padarytą nusikalstamą veiką ir jos vykdymą. 
+1. Karinei įskaitai tvarkyti Vyriausybė steigia Lietuvos Respublikos karo prievolininkų registrą, kuriame nacionalinio saugumo ir gynybos tikslais yra tvarkomi karo prievolininkų asmens duomenys. Šiame registre gali būti tvarkomi karo prievolininkų specialių kategorijų asmens duomenys, taip pat duomenys apie įtariamojo ar kaltinamojo statusą baudžiamajame procese, padarytą nusikalstamą veiką, paskirtą baudžiamojo poveikio priemonę ar bausmę už padarytą nusikalstamą veiką ir jos vykdymą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3252, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15767
+ 
 
 
 
@@ -1705,6 +1708,24 @@ Nr. XII-1896, 2015-06-25, paskelbta TAR 2015-07-01, i. k. 2015-10509
 
 Straipsnio pakeitimai:
 Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
+ 
+
+
+
+
+351 straipsnis. Asmens duomenų tvarkymas
+
+
+1. Administruojant karo prievolę, Karo prievolininkų registre karo prievolininkų asmens duomenys tvarkomi nacionalinio saugumo ir gynybos tikslais, vadovaujantis Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) ir šiuo įstatymu.
+
+
+
+
+2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams (karo prievolininkams) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 12 straipsnyje, 14 straipsnio 1, 2 ir 3 dalyse nustatytos duomenų subjektų (karo prievolininkų) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (arba) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma arba gali būti sukliudyta atlikti šaukimą į privalomąją karo tarnybą, organizuoti karo prievolininkų atranką į privalomąją karo tarnybą, nustatyti jų tinkamumą privalomajai karo tarnybai ar alternatyviajai krašto apsaugos tarnybai, skirti juos į privalomąją karo tarnybą ar alternatyviąją krašto apsaugos tarnybą ir (arba) užtikrinti privalomosios karo tarnybos atlikimą. Karo prievolę administruojanti krašto apsaugos sistemos institucija turi kiekvienu konkrečiu atveju krašto apsaugos ministro ar jo įgalioto asmens nustatyta tvarka įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu.
+
+
+Papildyta straipsniu:
+Nr. XIII-3252, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15767
  
 
 
@@ -2197,3 +2218,8 @@ Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 2, 4, 5, 6, 6-1, 12, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2910, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10907
 Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 15 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3252, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15767
+Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 35 straipsnio pakeitimo ir Įstatymo papildymo 35-1 straipsniu įstatymas
