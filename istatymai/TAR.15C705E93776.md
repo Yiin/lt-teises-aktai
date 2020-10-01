@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-09-30
+Suvestinė redakcija nuo 2020-10-01 iki 2020-11-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -617,6 +617,24 @@ Straipsnio pakeitimai:
 Nr. IX-1359, 2003-03-13, Žin., 2003, Nr. 32-1308 (2003-04-02)
 Nr. IX-2560, 2004-11-11, Žin., 2004, Nr. 169-6215 (2004-11-23)
 Nr. X-1558, 2008-05-22, Žin., 2008, Nr. 65-2457 (2008-06-07)
+ 
+
+
+
+
+51 straipsnis. Asmens duomenų tvarkymas 
+
+
+1. Krašto apsaugos sistemos institucijos, administruodamos tikrąją karo tarnybą, asmenų, stojančių į tikrąją karo tarnybą ir atliekančių tikrąją karo tarnybą, asmens duomenis, taip pat krašto apsaugos sistemos institucijos karinių operacijų planavimo, rengimosi joms ar jų vykdymo metu surinktus asmens duomenis tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) ir šiuo įstatymu. Šiais tikslais krašto apsaugos sistemos institucijos turi teisę tvarkyti ir specialių kategorijų asmens duomenis.
+
+
+
+
+2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams (asmenims, stojantiems į tikrąją karo tarnybą, atliekantiems tikrąją karo tarnybą, asmenims, kurių asmens duomenis krašto apsaugos sistemos institucijos surinko karinės operacijos planavimo, rengimosi jai ar jos vykdymo metu) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 12 straipsnyje, 14 straipsnio 1, 2 ir 3 dalyse nustatytos duomenų subjektų (asmenų, stojančių į tikrąją karo tarnybą, atliekančių tikrąją karo tarnybą, asmenų, kurių asmens duomenis krašto apsaugos sistemos institucijos surinko karinės operacijos planavimo, rengimosi jai ar jos vykdymo metu) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (arba) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma arba gali būti sukliudyta užtikrinti tikrosios karo tarnybos atlikimą, planuoti karines operacijas, joms rengtis ir (arba) jas vykdyti. Krašto apsaugos sistemos institucijos turi kiekvienu konkrečiu atveju krašto apsaugos ministro ar jo įgalioto asmens nustatyta tvarka įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu.
+
+
+Papildyta straipsniu:
+Nr. XIII-3248, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15763
  
 
 
@@ -4095,7 +4113,7 @@ vyresnysis eilinis                               �
 
 
 2) puskarininkių
-grandinis                                                                               grandinis
+grandinis                                                                               grandinis
 seržantas, seržantas specialistas                       seržantas, seržantas specialistas
 vyresnysis seržantas, vyresnysis seržantas       vyresnysis seržantas, vyresnysis
 specialistas                                                                            seržantas specialistas
@@ -5502,9 +5520,11 @@ Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
 
 
-6. Krašto apsaugos ministerija ar kita įgaliota krašto apsaugos sistemos institucija ar jos padalinys socialinės paramos ir sveikatos priežiūros paslaugų kariams teikimo tikslu turi teisę gauti iš Lietuvos Respublikos sveikatos priežiūros įstaigų informaciją, duomenis, įskaitant specialių kategorijų asmens duomenis, apie jose gydytų ar gydomų karių buvimą sveikatos priežiūros įstaigoje, sveikatos būklę ir jiems suteiktas ar teikiamas sveikatos priežiūros paslaugas, diagnozę, prognozes ir gydymą. 
+6. Krašto apsaugos ministerija ar kita įgaliota krašto apsaugos sistemos institucija ar jos padalinys nacionalinio saugumo ir gynybos tikslais turi teisę gauti iš Lietuvos Respublikos sveikatos priežiūros įstaigų informaciją, duomenis, įskaitant specialių kategorijų asmens duomenis, apie jose gydytų ar gydomų karių buvimą sveikatos priežiūros įstaigoje, sveikatos būklę ir jiems suteiktas ar teikiamas sveikatos priežiūros paslaugas, diagnozę, prognozes ir gydymą.
 Papildyta straipsnio dalimi:
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+Straipsnio dalies pakeitimai:
+Nr. XIII-3248, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15763
  
 
 
@@ -6524,3 +6544,8 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2911, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10908
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr.VIII-723 3, 14 ir 18 straipsnių pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3248, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15763
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 papildymo 5-1 straipsniu ir 65 straipsnio pakeitimo įstatymas
