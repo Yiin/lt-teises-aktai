@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-09-30
+Suvestinė redakcija nuo 2020-10-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -732,7 +732,10 @@ Sveikatos apsaugos ministerija:
 
 
 
-2) šio įstatymo nustatyta tvarka kartu su valstybinėmis aukštosiomis mokyklomis ar valstybinėmis mokslo įstaigomis steigia, reorganizuoja ir likviduoja įstaigas; 
+2) šio ir kitų įstatymų nustatyta tvarka įgyvendina valstybės, kaip LNSS biudžetinių įstaigų, išlaikomų iš valstybės biudžeto arba iš Privalomojo sveikatos draudimo fondo biudžeto ir kitų valstybės pinigų fondų, savininkės, taip pat valstybės, kaip LNSS viešųjų įstaigų savininkės ar dalininkės, teises ir pareigas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+ 
 
 
 
@@ -1549,12 +1552,18 @@ LNSS įstaigos
 
 
 
-2. LNSS biudžetinių įstaigų, išlaikomų iš valstybės biudžeto, steigėjai gali būti Vyriausybė, Sveikatos apsaugos ministerija, valstybinės tarnybos prie Sveikatos apsaugos ministerijos, Socialinės apsaugos ir darbo ministerija, Vidaus reikalų ministerija, Krašto apsaugos ministerija.
+2. LNSS biudžetinių įstaigų, išlaikomų iš valstybės biudžeto arba iš Privalomojo sveikatos draudimo fondo biudžeto ir kitų valstybės pinigų fondų, savininkė yra valstybė, o jų savininko teises ir pareigas įgyvendinančiomis institucijomis gali būti Vyriausybė ar Sveikatos apsaugos ministerija, specialiųjų įstatymų nustatytais atvejais įsteigtų LNSS biudžetinių įstaigų – Vyriausybė ar jos įgaliotos valstybės valdymo institucijos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+ 
 
 
 
 
-3. Biudžetinių įstaigų, išlaikomų iš savivaldybių biudžetų, steigėjos yra savivaldybių tarybos.
+3. Biudžetinių įstaigų, išlaikomų iš savivaldybių biudžetų, savininkės yra savivaldybės, o jų savininko teises ir pareigas įgyvendina savivaldybių tarybos, jeigu kiti įstatymai nenustato kitaip. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+ 
 
 
 Straipsnio pakeitimai:
@@ -1579,9 +1588,10 @@ Biudžetinių įstaigų steigimo, veiklos, valdymo, reorganizavimo ir likvidavim
 22 straipsnis. Biudžetinių įstaigų valdymo, veiklos ir lėšų naudojimo ypatumai
 
 
-1. Biudžetinių įstaigų valdymo organų sudarymo ir atšaukimo tvarką, kompetenciją, funkcijas ir atsakomybę nustato Biudžetinių įstaigų nuostatai. Biudžetinės įstaigos valdymo organas yra administracija, kuri valdo įstaigą jos nuostatuose nustatyta tvarka. Biudžetinėje įstaigoje gali būti sudaromi kolegialūs valdymo organai, kurių nuostatus tvirtina įstaigos administracijos vadovas. 
+1. Biudžetinių įstaigų valdymo organų sudarymo ir atšaukimo tvarką, kompetenciją, funkcijas ir atsakomybę nustato Biudžetinių įstaigų nuostatai. Biudžetinės įstaigos valdymo organas yra įstaigos vadovas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
  
 
 
@@ -1778,53 +1788,45 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 
 
 
-27 straipsnis. LNSS viešosios įstaigos steigėjai
+27 straipsnis. LNSS viešosios įstaigos steigėjai ir viešosios įstaigos savininko ar dalininko teises ir pareigas įgyvendinančios institucijos
 
 
-1. LNSS viešosios įstaigos steigėjais gali būti:
+LNSS viešųjų įstaigų steigėjais gali būti ir viešosios įstaigos savininko ar dalininko teises ir pareigas įgyvendinti gali:
 
 
-1) Sveikatos apsaugos ministerija;
-
-
-
-
-2) neteko galios nuo 2010-07-01;
+1) valstybė (Sveikatos apsaugos ministerija įgyvendina valstybės, kaip viešųjų įstaigų savininkės, teises ir pareigas);
 
 
 
 
-3) savivaldybių tarybos;
+2) savivaldybės (savivaldybių tarybos įgyvendina savivaldybių, kaip viešųjų įstaigų savininkių, teises ir pareigas, jeigu įstatymai nenustato kitaip);
 
 
 
 
-4) valstybės aukštosios mokyklos kartu su Sveikatos apsaugos ministerija, gavusios Vyriausybės leidimą;
+3) valstybinės aukštosios mokyklos (universitetai) kartu su valstybe (Sveikatos apsaugos ministerija įgyvendina valstybės, kaip viešųjų įstaigų dalininkės, teises ir pareigas), gavus Vyriausybės leidimą;
 
 
 
 
-5) valstybinės švietimo ir mokslo įstaigos kartu su Sveikatos apsaugos ministerija, gavusios Vyriausybės leidimą.
+4) valstybiniai mokslinių tyrimų institutai kartu su valstybe (Sveikatos apsaugos ministerija įgyvendina valstybės, kaip viešųjų įstaigų dalininkės, teises ir pareigas), gavę Vyriausybės leidimą. 
 
 
-
-
-
-
-2. LNSS įstaigų steigėjai jų kompetencijai priskirtas funkcijas gali įgalioti vykdyti ir kitas institucijas.
 
 
 Straipsnio pakeitimai:
 Nr. XI-767, 2010-04-20, Žin., 2010, Nr. 51-2477 (2010-05-04)
+Straipsnio pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
  
 
 
 
 
-28 straipsnis. LNSS viešosios įstaigos steigėjo (steigėjų) kompetencija 
+28 straipsnis. LNSS viešosios įstaigos savininko (dalininkų) kompetencija 
 
 
-LNSS viešosios įstaigos steigėjo (steigėjų) kompetencijai priklauso:
+LNSS viešosios įstaigos savininko (dalininkų) kompetencijai priklauso:
 
 
 1) priimti, keisti ir papildyti LNSS viešosios įstaigos įstatus;
@@ -1852,7 +1854,7 @@ LNSS viešosios įstaigos steigėjo (steigėjų) kompetencijai priklauso:
 
 
 
-6) organizuoti viešą konkursą LNSS viešosios įstaigos administracijos vadovo pareigoms eiti ir tvirtinti šio konkurso nuostatus. Sudaryti su konkursą laimėjusiu asmeniu darbo sutartį, taip pat šią sutartį nutraukti įstatymų nustatyta tvarka; 
+6) organizuoti viešą konkursą LNSS viešosios įstaigos vadovo pareigoms eiti ir tvirtinti šio konkurso nuostatus. Sudaryti su konkursą laimėjusiu asmeniu darbo sutartį, taip pat šią sutartį nutraukti įstatymų nustatyta tvarka; 
 
 
 
@@ -1862,7 +1864,7 @@ LNSS viešosios įstaigos steigėjo (steigėjų) kompetencijai priklauso:
 
 
 
-8) nustatyti valdymo organų narių ir revizoriaus atlyginimus;
+8) neteko galios 2020-10-01;
 
 
 
@@ -1873,11 +1875,13 @@ LNSS viešosios įstaigos steigėjo (steigėjų) kompetencijai priklauso:
 
 
 10) turėti kitokių teisių ir pareigų, jei jos neprieštarauja įstatymams.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
  
-
-
-
-
 
 
 
@@ -1908,7 +1912,10 @@ LNSS viešosios įstaigos steigėjo (steigėjų) kompetencijai priklauso:
 
 
 
-4) steigėjų teisės, pareigos;
+4)  įstaigos savininko (dalininkų) teisės ir pareigos; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+ 
 
 
 
@@ -1921,7 +1928,10 @@ Nr. XII-1335, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17988
 
 
 
-6) steigėjų susirinkimo kompetencija ir sušaukimo tvarka (jei yra keli steigėjai);
+6) visuotinio dalininkų susirinkimo kompetencija ir sušaukimo tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+ 
 
 
 
@@ -1931,15 +1941,19 @@ Nr. XII-1335, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17988
 
 
 
-8) viešo konkurso administracijos, padalinių, filialų vadovų priėmimo į darbą organizavimo ir sveikatos priežiūros specialistų priėmimo į darbą tvarka, administracijos vadovo atšaukimo iš pareigų pagrindai ir tvarka; 
+8) viešo konkurso įstaigos, padalinių, filialų vadovų priėmimo į darbą organizavimo ir sveikatos priežiūros specialistų priėmimo į darbą tvarka, įstaigos vadovo atšaukimo iš pareigų pagrindai ir tvarka; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
  
 
 
 
 
-9) valdymo organų sudarymo ir jų narių atšaukimo tvarka, šių organų kompetencija, funkcijos ir atsakomybė;
+9) kolegialių organų sudarymo ir jų narių atšaukimo tvarka, šių organų kompetencija, funkcijos ir atsakomybė; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+ 
 
 
 
@@ -1986,7 +2000,10 @@ Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
 
 
 
-3. Iniciatyvos teisę keisti ir papildyti įstatus turi įstaigos administracija, jos kolegialus valdymo organas ir steigėjas (steigėjai bendru sprendimu). Pakeistus ar papildytus įstatus tvirtina steigėjas (steigėjai).
+3. Neteko galios nuo 2020-10-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+ 
 
 
 
@@ -2001,51 +2018,41 @@ Nr. X-1044, 2007-01-18, Žin., 2007, Nr. 17-630 (2007-02-08)
 
 
 
-30 straipsnis. LNSS viešosios įstaigos valdymo organai
+30 straipsnis. LNSS viešosios įstaigos organai
 
 
-1. Viešojoje įstaigoje turi būti administracijos vadovas, kuris įstatymų nustatyta tvarka sudaro darbo sutartis su sveikatos priežiūros specialistais ir kitais įstaigų darbuotojais ir jas nutraukia. Administracijos vadovas, suderinęs su įstaigos stebėtojų taryba, tvirtina įstaigos darbuotojų darbo apmokėjimo tvarką. Administracijos vadovo kitas funkcijas ir kompetenciją nustato LNSS viešosios įstaigos įstatai.
-
-
-
-
-2. Būtinas LNSS viešosios įstaigos valdymo organas yra administracija. Ji organizuoja ir valdo įstaigos veiklą. Administracijos darbo reglamentą tvirtina administracijos vadovas.
+1. LNSS viešoji įstaiga turi turėti  organą – visuotinį dalininkų susirinkimą ir vienasmenį valdymo organą – įstaigos vadovą, kuris įstatymų nustatyta tvarka sudaro darbo sutartis su sveikatos priežiūros specialistais ir kitais įstaigų darbuotojais ir jas nutraukia. Įstaigos vadovas, suderinęs su įstaigos stebėtojų taryba, tvirtina įstaigos darbuotojų darbo apmokėjimo tvarką. Įstaigos vadovo kitas funkcijas ir kompetenciją nustato Viešųjų įstaigų įstatymas ir LNSS viešosios įstaigos įstatai.  
 
 
 
 
-3. Viešojoje įstaigoje turi būti vyriausiasis finansininkas (buhalteris) arba jo funkcijas gali atlikti pagal sutartį kitas juridinis asmuo ar juridinio asmens teisių neturinti įmonė.
+2. LNSS asmens sveikatos priežiūros viešosios įstaigos privalo turėti kolegialius organus: stebėtojų tarybą, gydymo tarybą, slaugos tarybą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
  
 
 
 
 
-
-
-31 straipsnis. LNSS viešųjų įstaigų patariamieji valdymo organai
-
-
-1. LNSS asmens sveikatos priežiūros viešosios įstaigos privalo turėti stebėtojų tarybą, gydymo tarybą, slaugos tarybą. LNSS visuomenės sveikatos priežiūros viešoji įstaiga, kuri verčiasi antrine ar tretine sveikatos priežiūra, privalo turėti stebėtojų tarybą.
-
-
-
-
-2. LNSS viešųjų įstaigų kolegialių valdymo organų narių skaičių, šių organų formavimo tvarką, jų narių teises ir pareigas, darbo apmokėjimo sąlygas bei atsakomybę nustato įstaigos įstatai.
+31 straipsnis. Neteko galios nuo 2020-10-01
+Straipsnio naikinimas:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
  
 
 
 
 
+32 straipsnis. Valstybinių aukštųjų mokyklų (universitetų), valstybinių mokslinių tyrimų institutų kartu su valstybe įsteigtų viešųjų įstaigų vadovai 
 
 
-32 straipsnis. Valstybės aukštųjų mokyklų, valstybinių mokslo įstaigų ir Sveikatos 
-apsaugos ministerijos įsteigtų įstaigų administracijos vadovai 
+Viešą konkursą valstybinių aukštųjų mokyklų (universitetų), valstybinių mokslinių tyrimų institutų kartu su valstybe įsteigtų viešųjų įstaigų vadovų pareigoms eiti organizuoja valstybinė aukštoji mokykla (universitetas) ar mokslinių tyrimų institutas kartu su Sveikatos apsaugos ministerija. Darbo sutartį su konkursą laimėjusiu įstaigos vadovu sudaro ir ją nutraukia sveikatos apsaugos ministras. 
 
 
-Viešą konkursą valstybės aukštųjų mokyklų, valstybinių mokslo įstaigų ir Sveikatos apsaugos ministerijos įsteigtų įstaigų administracijos vadovų pareigoms eiti organizuoja valstybės aukštoji mokykla ar mokslo įstaiga kartu su Sveikatos apsaugos ministerija. Darbo sutartį su konkursą laimėjusiu įstaigos vadovu sudaro ir ją nutraukia sveikatos apsaugos ministras.
+Straipsnio pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
  
-
-
 
 
 
@@ -2053,32 +2060,47 @@ Viešą konkursą valstybės aukštųjų mokyklų, valstybinių mokslo įstaigų
 33 straipsnis. LNSS viešosios įstaigos stebėtojų taryba
 
 
-1. LNSS viešosios įstaigos veiklos viešumui užtikrinti sudaroma stebėtojų taryba.
+1. LNSS viešosios įstaigos stebėtojų taryba (toliau – stebėtojų taryba) sudaroma penkeriems metams. 
 
 
 
 
-2. LNSS viešosios įstaigos stebėtojų taryba (toliau - stebėtojų taryba) yra patariamasis organas, sudaromas penkeriems metams.
+2. Stebėtojų tarybos tikslai yra:
+
+
+1) užtikrinti LNSS viešosios įstaigos veiklos viešumą;
 
 
 
 
-3. LNSS viešosios įstaigos, išskyrus valstybės aukštųjų mokyklų ar valstybinių mokslo įstaigų ir Sveikatos apsaugos ministerijos įsteigtas įstaigas, stebėtojų taryba sudaroma iš dviejų įstaigos steigėjo (steigėjų) bendru sprendimu paskirtų atstovų; vieno savivaldybės, kurios teritorijoje yra įstaiga, tarybos paskirto tarybos nario; vieno savivaldybės, kurios teritorijoje yra įstaiga, tarybos paskirto visuomenės atstovo ir įstaigos sveikatos priežiūros specialistų profesinių sąjungų paskirto vieno atstovo. 
+2) patarti LNSS viešosios įstaigos dalininkui ir (ar) dalininko (savininko) teises ir pareigas įgyvendinančiai institucijai LNSS viešosios įstaigos veiklos klausimais.
 
 
 
 
-4. Valstybės aukštųjų mokyklų ar valstybinių mokslo įstaigų ir Sveikatos apsaugos ministerijos įsteigtų įstaigų stebėtojų taryba sudaroma iš dviejų Sveikatos apsaugos ministerijos paskirtų atstovų, valstybės aukštųjų mokyklų ar valstybinių mokslo įstaigų vadovų paskirtų dviejų atstovų; vieno savivaldybės, kurios teritorijoje yra valstybės aukštoji mokykla, tarybos paskirto tarybos nario; vieno savivaldybės, kurios teritorijoje yra valstybinė mokslo įstaiga, tarybos paskirto visuomenės atstovo ir vieno šios įstaigos sveikatos priežiūros specialistų profesinių sąjungų paskirto atstovo. 
+
+
+3. LNSS viešosios įstaigos, išskyrus valstybinių aukštųjų mokyklų (universitetų) ar valstybinių mokslinių tyrimų institutų kartu su valstybe įsteigtų įstaigų stebėtojų tarybas, stebėtojų taryba sudaroma iš dviejų LNSS viešosios įstaigos savininko teises ir pareigas įgyvendinančios institucijos paskirtų asmenų; dviejų savivaldybės, kurios teritorijoje yra įstaigos buveinė, tarybos paskirtų asmenų ir vieno įstaigos pagal Darbo kodeksą veikiančio darbuotojų atstovo paskirto asmens. Stebėtojų tarybos narių kadencijų skaičius nėra ribojamas. 
 
 
 
 
-5. Į stebėtojų tarybą negali įeiti asmenys, kurie dirba įstaigos administracijoje, Valstybinėje ar teritorinėje ligonių kasoje, taip pat Pacientų sveikatai padarytos žalos nustatymo komisijoje, veikiančioje prie Sveikatos apsaugos ministerijos.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2378, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12801
+4. Valstybinių aukštųjų mokyklų (universitetų) ar valstybinių mokslinių tyrimų institutų kartu su valstybe įsteigtų įstaigų stebėtojų taryba sudaroma iš dviejų Sveikatos apsaugos ministerijos paskirtų asmenų, dviejų valstybinės aukštosios mokyklos (universiteto) ar valstybinio mokslinių tyrimų instituto vadovo paskirtų asmenų, vieno savivaldybės, kurios teritorijoje yra valstybinė aukštoji mokykla (universitetas), tarybos paskirto asmens arba vieno savivaldybės, kurios teritorijoje yra valstybinis mokslinių tyrimų institutas, tarybos paskirto asmens ir vieno įstaigos pagal Darbo kodeksą veikiančio darbuotojų atstovo paskirto asmens.
+
+
+
+
+5. Į stebėtojų tarybą negali būti paskirti asmenys, kurie dirba įstaigos vadovu, vadovo pavaduotoju, padalinių ir filialų vadovais, vyriausiaisiais finansininkais (buhalteriais), dirba institucijose, vykdančiose privalomąjį sveikatos draudimą, taip pat Pacientų sveikatai padarytos žalos nustatymo komisijoje, veikiančioje prie Sveikatos apsaugos ministerijos. 
+
+
+
+
+6. Stebėtojų tarybos funkcijos nustatomos LNSS viešosios įstaigos įstatuose. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
  
-
-
 
 
 
@@ -2086,30 +2108,32 @@ Nr. XIII-2378, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12801
 34 straipsnis. LNSS viešosios įstaigos gydymo taryba ir slaugos taryba
 
 
-1. LNSS viešosios įstaigos gydymo taryba (toliau - gydymo taryba) sudaroma iš įstaigos padalinių ir filialų gydytojų.
+1. LNSS viešosios įstaigos gydymo taryba (toliau – gydymo taryba) sudaroma iš įstaigos padalinių ir filialų gydytojų.
 
 
 
 
-2. Gydymo taryba svarsto asmens sveikatos priežiūros organizavimo ir tobulinimo klausimus, periodiškai rengia klinikines konferencijas, svarsto naujų asmens sveikatos priežiūros technologijų įsigijimo klausimus. Gydymo taryba svarstomais klausimais gali teikti rekomendacinio pobūdžio pasiūlymus įstaigos administracijai. Jei įstaigos administracija su pasiūlymu nesutinka, gydymo taryba savo pasiūlymą gali pateikti steigėjui (steigėjams).
+2. Gydymo taryba svarsto asmens sveikatos priežiūros organizavimo ir tobulinimo klausimus, periodiškai rengia klinikines konferencijas, svarsto naujų asmens sveikatos priežiūros technologijų įsigijimo klausimus. Gydymo taryba svarstomais klausimais gali teikti rekomendacinio pobūdžio pasiūlymus įstaigos vadovui. Jeigu įstaigos vadovas su pasiūlymu nesutinka, gydymo taryba savo pasiūlymą gali pateikti viešosios įstaigos dalininkui ir (ar) dalininko (savininko) teises ir pareigas įgyvendinančiai institucijai. 
 
 
 
 
-3. Asmens sveikatos priežiūros viešosios įstaigos slaugos taryba (toliau - slaugos taryba) sudaroma iš įstaigos padalinių ir filialų slaugos specialistų.
+3. Asmens sveikatos priežiūros viešosios įstaigos slaugos taryba (toliau – slaugos taryba) sudaroma iš įstaigos padalinių ir filialų slaugos specialistų.
 
 
 
 
-4. Slaugos taryba svarsto pacientų slaugos organizavimo ir tobulinimo klausimus.Ši taryba svarstomais klausimais gali teikti rekomendacinio pobūdžio pasiūlymus įstaigos administracijai. Jei įstaigos administracija su pasiūlymu nesutinka, slaugos taryba savo pasiūlymą gali pateikti steigėjui (steigėjams).
+4. Slaugos taryba svarsto pacientų slaugos organizavimo ir tobulinimo klausimus. Slaugos taryba svarstomais klausimais gali teikti rekomendacinio pobūdžio pasiūlymus įstaigos vadovui. Jeigu įstaigos vadovas su pasiūlymu nesutinka, slaugos taryba savo pasiūlymą gali pateikti viešosios įstaigos dalininkui ir (ar) dalininko (savininko) teises ir pareigas įgyvendinančiai institucijai. 
 
 
 
 
-5. Gydymo ar slaugos tarybai pirmininkauja įstaigos administracijos vadovas arba jo įgaliotas administracijos darbuotojas. Gydymo tarybos, slaugos tarybos sudarymą, šių tarybų teises ir pareigas, darbo tvarką, narių teises, pareigas, jų paskyrimo ir atšaukimo, darbo apmokėjimo sąlygas bei atsakomybę nustato viešųjų įstaigų įstatai.
+5. Gydymo tarybai ar slaugos tarybai pirmininkauti negali įstaigos vadovas, vadovo pavaduotojas, padalinio ir filialo vadovas. Gydymo tarybos, slaugos tarybos sudarymą, šių tarybų teises ir pareigas, darbo tvarką, narių teises, pareigas, jų paskyrimo ir atšaukimo, darbo apmokėjimo sąlygas bei atsakomybę nustato viešųjų įstaigų įstatai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
  
-
-
 
 
 
@@ -2117,7 +2141,10 @@ Nr. XIII-2378, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12801
 35 straipsnis. LNSS viešosios įstaigos medicinos etikos komisija
 
 
-1. LNSS viešojoje įstaigoje sudaroma medicinos etikos komisija, kuri kontroliuoja, kaip laikomasi medicinos etikos reikalavimų.
+1. LNSS viešojoje įstaigoje sudaroma medicinos etikos komisija, kuri LNSS viešojoje įstaigoje nagrinėja sveikatos priežiūros specialistų elgesio ir sveikatos priežiūros specialistų   tarpusavio etikos klausimus, kontroliuoja,  kaip  LNSS viešojoje įstaigoje laikomasi medicinos etikos reikalavimų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+ 
 
 
 
@@ -2218,7 +2245,10 @@ Nr. XIII-2443, 2019-09-26, paskelbta TAR 2019-10-09, i. k. 2019-16070
 
 
 
-2. Institucija, nutarusi likviduoti įstaigą, skiria likvidatorių, nustato likvidavimo terminus, inventorizacijos ir turto perėmimo tvarką. Nuo likvidatoriaus paskyrimo dienos administracija ir kiti valdymo organai netenka įgaliojimų, jų funkcijas atlieka likvidatorius.
+2. Institucija, nutarusi likviduoti įstaigą, skiria likvidatorių, nustato likvidavimo terminus, inventorizacijos ir turto perėmimo tvarką. Nuo likvidatoriaus paskyrimo dienos įstaigos vadovas ir kolegialūs organai netenka įgaliojimų, jų funkcijas atlieka likvidatorius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+ 
 
 
 
@@ -2249,7 +2279,10 @@ Nr. XIII-2443, 2019-09-26, paskelbta TAR 2019-10-09, i. k. 2019-16070
 38 straipsnis. Viešosios įstaigos likvidatoriaus įgaliojimai
 
 
-1. Viešosios įstaigos likvidatorius turi įstaigos administracijos vadovo teises ir pareigas. Jis atstovauja likviduojamai įstaigai valstybės ar savivaldybių institucijose, teisme, santykiuose su kitais juridiniais ir fiziniais asmenimis.
+1. Viešosios įstaigos likvidatorius turi įstaigos vadovo teises ir pareigas. Jis atstovauja likviduojamai įstaigai valstybės ar savivaldybių institucijose, teisme, santykiuose su kitais juridiniais ir fiziniais asmenimis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+ 
 
 
 
@@ -2687,7 +2720,10 @@ Nr. XIII-2702, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21420
 
 
 
-8) įstaigos administracijos, kitų pagalbinių tarnybų darbo laikas;
+8) įstaigos darbo laikas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+ 
 
 
 
@@ -3190,7 +3226,10 @@ skyrimo tvarka
 
 
 
-2) įstaigoje tais pačiais metais pasikartoja hospitalinės infekcijos protrūkis dėl įstaigos administracijos organizacinės veiklos trūkumų;
+2) įstaigoje tais pačiais metais pasikartoja hospitalinės infekcijos protrūkis dėl įstaigos         organizacinės veiklos trūkumų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+ 
 
 
 
@@ -3223,7 +3262,10 @@ skyrimo tvarka
 
 
 
-3. Laikinasis administratorius turi teisę nutraukti ar sudaryti darbo sutartis su įstaigos valdymo organų nariais ir kitais darbuotojais.
+3. Laikinasis administratorius turi teisę nutraukti ar sudaryti darbo sutartis su įstaigos darbuotojais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+ 
 
 
 
@@ -3650,3 +3692,8 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 1 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3149, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15132
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 36 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 10, 20, 22, 27, 28, 29, 30, 32, 33, 34, 35, 37, 38, 46, 55, 56 straipsnių pakeitimo ir 31 straipsnio pripažinimo netekusiu galios įstatymas
