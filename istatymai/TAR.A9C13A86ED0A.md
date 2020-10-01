@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-09-30
+Suvestinė redakcija nuo 2020-10-01 iki 2021-02-28
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 58-1133, i. k. 0941010ISTA000I-555
  
@@ -127,6 +127,14 @@ Nr. XIII-924, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21596
 9. Dalinys – batalionas arba jam prilygintas (susidedantis bent iš dviejų kuopų) patvirtintos nuolatinės struktūros karinis vienetas.
 
 
+
+
+10. Krašto apsaugos sistemos institucijos šiame įstatyme yra suprantamos taip pat kaip Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme.
+Papildyta straipsnio dalimi:
+Nr. XIII-3251, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15766
+ 
+
+
 Straipsnio pakeitimai:
 Nr. X-182, 2005-05-12, Žin., 2005, Nr. 66-2351 (2005-05-26)
  
@@ -142,6 +150,24 @@ Nr. X-182, 2005-05-12, Žin., 2005, Nr. 66-2351 (2005-05-26)
 
 Straipsnio pakeitimai:
 Nr. XIII-1599, 2018-11-06, paskelbta TAR 2018-11-12, i. k. 2018-18210
+ 
+
+
+
+
+31 straipsnis. Asmens duomenų tvarkymas 
+
+
+1. Įgyvendindamos šį įstatymą, krašto apsaugos sistemos institucijos Lietuvos Respublikos karių ir civilių krašto apsaugos sistemos tarnautojų, taip pat užsienio valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų asmens duomenis, susijusius su tarptautinių operacijų, pratybų ir kitų renginių planavimu, organizavimu ir dalyvavimu juose, tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) ir šiuo įstatymu. Šiais tikslais krašto apsaugos sistemos institucijos turi teisę tvarkyti ir specialių kategorijų asmens duomenis.
+
+
+
+
+2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams (Lietuvos Respublikos kariams ir civiliams krašto apsaugos sistemos tarnautojams, taip pat užsienio valstybių kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 12 straipsnyje, 14 straipsnio 1, 2 ir 3 dalyse nustatytos duomenų subjektų (Lietuvos Respublikos karių ir civilių krašto apsaugos sistemos tarnautojų, taip pat užsienio valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (arba) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma arba gali būti sukliudyta planuoti, organizuoti ir (arba) vykdyti tarptautines operacijas, pratybas ir kitus renginius. Krašto apsaugos sistemos institucijos turi kiekvienu konkrečiu atveju krašto apsaugos ministro ar jo įgalioto asmens nustatyta tvarka įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu.
+
+
+Papildyta straipsniu:
+Nr. XIII-3251, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15766
  
 
 
@@ -747,3 +773,8 @@ Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendrad
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2673, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21316
 Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 4 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3251, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15766
+Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 2 straipsnio pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
