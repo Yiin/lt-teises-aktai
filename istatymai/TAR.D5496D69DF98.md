@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D5496D69DF98"
 
 # Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-10-07
+Suvestinė redakcija nuo 2020-10-08 iki 2020-10-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 54-1492, i. k. 0981010ISTAVIII-729
  
@@ -725,7 +725,7 @@ Teisė naudoti Lietuvos valstybės vardą ir teisė naudotis Lietuvos Respubliko
 
 
 
-2) viešosioms įstaigoms, kurios pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą laikomos viešojo sektoriaus subjektais;
+2) viešosioms įstaigoms, kurios pagal Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymą laikomos viešojo sektoriaus subjektais, viešosioms įstaigoms – mokykloms;
 
 
 
@@ -740,21 +740,27 @@ Teisė naudoti Lietuvos valstybės vardą ir teisė naudotis Lietuvos Respubliko
 
 
 
-5) egzilio sąlygomis veikiančioms aukštosioms mokykloms;
+5) viešosios naudos nevyriausybinėms organizacijoms, teikiančioms nemokamą kompleksinę pagalbą krizinį nėštumą išgyvenančioms moterims ir jų artimiesiems, arba viešosios naudos nevyriausybinėms organizacijoms, teikiančioms nemokamą paliatyviąją pagalbą;
 
 
 
 
-6) regionų plėtros taryboms;
+6) egzilio sąlygomis veikiančioms aukštosioms mokykloms;
 
 
 
 
-7) kitiems subjektams, jeigu tokio perdavimo tvarka ir sąlygos nustatytos Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos šeimynų įstatyme, Lietuvos Respublikos Lietuvos šaulių sąjungos įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos koncesijų įstatyme, Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatyme, Lietuvos Respublikos tarptautinėse sutartyse ar tarptautiniuose susitarimuose. 
+7) regionų plėtros taryboms;
+
+
+
+
+8) kitiems subjektams, jeigu tokio perdavimo tvarka ir sąlygos nustatytos Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos šeimynų įstatyme, Lietuvos Respublikos Lietuvos šaulių sąjungos įstatyme, Lietuvos Respublikos investicijų įstatyme, Lietuvos Respublikos koncesijų įstatyme, Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatyme, Lietuvos Respublikos tarptautinėse sutartyse ar tarptautiniuose susitarimuose. 
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3047, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13963
+Nr. XIII-3295, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20890
  
 
 
@@ -810,7 +816,7 @@ Nr. XIII-3047, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13963
 
 
 
-3. Valstybės ir savivaldybių turtas šio straipsnio 1 dalies 2–6 punktuose nurodytiems subjektams gali būti perduodamas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis, jeigu:
+3. Valstybės ir savivaldybių turtas šio straipsnio 1 dalies 2–7 punktuose nurodytiems subjektams gali būti perduodamas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis, jeigu:
 
 
 1) panaudos subjektas pagrindžia, kad prašomas panaudos pagrindais suteikti turtas reikalingas jo vykdomai veiklai (jeigu subjektas yra asociacija ar labdaros ir paramos fondas, – šio straipsnio 2 dalyje nustatytiems veiklos tikslams), dėl kurios turtas galėtų būti perduotas, ir jo naudojimo paskirtis atitinka šio subjekto steigimo dokumentuose nustatytus veiklos sritis ir tikslus; 
@@ -823,14 +829,16 @@ Nr. XIII-3047, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13963
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3047, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13963
+Nr. XIII-3295, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20890
  
 
 
 
 
-4. Sprendimą dėl valstybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje nurodytiems subjektams priima Vyriausybė arba jos įgalioti turto valdytojai Vyriausybės nustatyta tvarka. Sprendimą dėl savivaldybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje nurodytiems subjektams priima savivaldybės taryba ar jos įgaliota institucija. Valstybės ir savivaldybių ilgalaikis materialusis turtas šio straipsnio 1 dalies 2–7 punktuose nurodytiems subjektams gali būti perduotas panaudos teise ne ilgesniam kaip 10 metų laikotarpiui, jeigu įstatymai nenustato kitaip. Sprendime turi būti nurodytas panaudos sutarties terminas ir turto panaudojimo paskirtis, taip pat gali būti nurodytos kitos panaudos sąlygos. Šios sąlygos privalo būti įrašytos į panaudos sutartį. Valstybės ar savivaldybės turto panaudos sutartį su panaudos subjektais sudaro valstybės ar savivaldybės turto valdytojas. 
+4. Sprendimą dėl valstybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje nurodytiems subjektams priima Vyriausybė arba jos įgalioti turto valdytojai Vyriausybės nustatyta tvarka. Sprendimą dėl savivaldybės turto perdavimo pagal panaudos sutartį šio straipsnio 1 dalyje nurodytiems subjektams priima savivaldybės taryba ar jos įgaliota institucija. Valstybės ir savivaldybių ilgalaikis materialusis turtas šio straipsnio 1 dalies 2–8 punktuose nurodytiems subjektams gali būti perduotas panaudos teise ne ilgesniam kaip 10 metų laikotarpiui, jeigu įstatymai nenustato kitaip. Sprendime turi būti nurodytas panaudos sutarties terminas ir turto panaudojimo paskirtis, taip pat gali būti nurodytos kitos panaudos sąlygos. Šios sąlygos privalo būti įrašytos į panaudos sutartį. Valstybės ar savivaldybės turto panaudos sutartį su panaudos subjektais sudaro valstybės ar savivaldybės turto valdytojas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3047, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13963
+Nr. XIII-3295, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20890
  
 
 
@@ -2287,3 +2295,8 @@ Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir dis
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3047, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13963
 Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 ir 15 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3295, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20890
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 straipsnio pakeitimo įstatymas
