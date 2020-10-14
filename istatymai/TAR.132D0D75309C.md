@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C"
 
 # Lietuvos Respublikos įmonių atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2019-07-06 iki 2020-10-13
+Suvestinė redakcija nuo 2020-10-14 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 99-3516, i. k. 1011010ISTA00IX-575
  
@@ -355,19 +355,19 @@ Kiekvienos finansinės ataskaitos pradžioje turi būti nurodyta:
 
 1. Sutrumpinto balanso, trumpo balanso, trumpos pelno (nuostolių) ataskaitos reikalavimus nustato verslo apskaitos standartai, jeigu finansinės ataskaitos sudaromos pagal verslo apskaitos standartus.
 
-2. Jeigu labai maža įmonė pasirenka taikyti šio įstatymo 20 straipsnio 2 dalyje ir 23 straipsnio 6 dalyje nustatytas išimtis, ji po balansu pateikia, jeigu turi:
+2. Jeigu labai maža įmonė pasirenka taikyti šio įstatymo 20 straipsnio 2 dalyje ir 23 straipsnio 7 dalyje nustatytas išimtis, ji po balansu pateikia, jeigu turi:
 
-1) informaciją apie balanse neparodytus finansinius pasižadėjimus, garantijas, neapibrėžtuosius įsipareigojimus, neapibrėžtąjį turtą bendromis sumomis, nurodant visų reikšmingų užstatų rūšį ir pobūdį;
+1) informaciją apie balanse neparodytus finansinius pasižadėjimus, garantijas, neapibrėžtuosius įsipareigojimus, neapibrėžtąjį turtą bendromis sumomis, nurodydama visų reikšmingų užstatų rūšį ir pobūdį;
 
 2) informaciją apie visus pasižadėjimus, susijusius su pensijomis pagal ilgalaikio atlygio planus ir įmonių grupės įmonėmis, pagal jungtinės veiklos sutartį kontroliuojamomis bendrosiomis įmonėmis arba asocijuotosiomis įmonėmis;
 
-3) informaciją apie įmonės vadovui, valdymo ir priežiūros organų nariams išmokėtų avansų ir suteiktų paskolų sumas, nurodant palūkanų normas, pagrindines paskolų sąlygas ir visas sugrąžintas, nurašytas arba atsisakytas sumas, taip pat už šiuos asmenis teikiant visų rūšių garantijas įmonės prisiimtų pasižadėjimų sumą, nurodant atskirai įmonės vadovui, valdymo ir priežiūros organų nariams tenkančią sumą;
+3) informaciją apie įmonės vadovui, valdymo ir priežiūros organų nariams išmokėtų avansų ir suteiktų paskolų sumas, nurodydama palūkanų normas, pagrindines paskolų sąlygas ir visas sugrąžintas, nurašytas arba atsisakytas sumas, taip pat už šiuos asmenis teikiant visų rūšių garantijas įmonės prisiimtų pasižadėjimų sumą, nurodydama atskirai įmonės vadovui, valdymo ir priežiūros organų nariams tenkančią sumą;
 
-4) šio įstatymo 23 straipsnio 6 dalyje nurodytą informaciją. 
-TAR pastaba. 2 dalis taikoma rengiant 2017 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių įmonės metinius pranešimus.
+4) šio įstatymo 23 straipsnio 7 dalyje nurodytą informaciją. 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
+Nr. XIII-3316, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21255
  
 
 3. Mažųjų bendrijų ir šio įstatymo 2 straipsnio 2 dalyje nurodytų neribotos civilinės atsakomybės juridinių asmenų finansinių ataskaitų rinkinio sudėties ir sudarymo reikalavimus nustato verslo apskaitos standartai, jeigu finansinės ataskaitos sudaromos pagal verslo apskaitos standartus.
@@ -558,7 +558,7 @@ Nr. XIII-94, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29406
 
 5. Įmonė gali neatskleisti informacijos apie būsimą plėtrą arba su vykstančiomis derybomis susijusių klausimų, jeigu, remiantis tinkamai pagrįsta įmonės vadovo, valdymo ir priežiūros organų narių, veikiančių pagal jiems įstatymais atitinkamai priskirtą kompetenciją, nuomone, už kurią įmonės vadovas, valdymo ir priežiūros organų nariai yra atsakingi, tokios informacijos atskleidimas pakenktų komercinei įmonės padėčiai, o jos neatskleidimas netrukdytų teisingai suprasti įmonės plėtros, veiklos rezultatų, būklės ir jos veiklos poveikio. 
 
-6. Įmonė, pateikdama šio straipsnio 2 dalyje nurodytą informaciją, gali vadovautis šios informacijos atskleidimo reikalavimus nustatančiomis Europos Sąjungos ar tarptautinėmis sistemomis ar metodikomis. Socialinės atsakomybės ataskaitoje nurodoma, kokiomis  sistemomis ar metodikomis vadovautasi.
+6. Įmonė, pateikdama šio straipsnio 2 dalyje nurodytą informaciją, gali vadovautis šios informacijos atskleidimo reikalavimus nustatančiomis Europos Sąjungos ar tarptautinėmis sistemomis ar metodikomis. Socialinės atsakomybės ataskaitoje nurodoma, kokiomis  sistemomis ar metodikomis vadovautasi.
 
 7. Įmonė, kuri yra patronuojamoji įmonė, atleidžiama nuo prievolės parengti socialinės atsakomybės ataskaitą, jeigu jos ir jos patronuojamųjų įmonių informacija yra įtraukta į vadovaujantis Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymu arba kitos valstybės narės teisės aktais rengiamą patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą ataskaitą, kurioje pateikiama konsoliduotojoje socialinės atsakomybės ataskaitoje reikalaujama pateikti informacija (toliau – atskira konsoliduotoji socialinės atsakomybės ataskaita). Metiniame pranešime turi būti nurodyta, kad patronuojamosios įmonės informacija įtraukta į patronuojančiosios įmonės konsoliduotąjį metinį pranešimą arba atskirą konsoliduotąją socialinės atsakomybės ataskaitą. Jeigu patronuojančioji įmonė yra kitoje valstybėje narėje ir rengia atskirą konsoliduotąją socialinės atsakomybės ataskaitą, ši ataskaita lietuvių kalba skelbiama viešai patronuojamosios įmonės interneto svetainėje. 
 
@@ -689,7 +689,7 @@ MOKĖJIMŲ VALDŽIOS INSTITUCIJOMS ATASKAITA
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
  
 
@@ -803,4 +803,9 @@ Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 4,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2250, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11169
 Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 4, 23, 23-1 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 23-3 straipsniu įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3316, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21255
+Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo Nr. IX-575 3, 16, 22 straipsnių, aštuntojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas
 
