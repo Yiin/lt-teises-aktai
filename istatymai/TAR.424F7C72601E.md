@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS BRANDUOLINĖS SAUGOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-10-26
+Suvestinė redakcija nuo 2020-10-27 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 91-4316; Žin. 2011, Nr.109-0; Žin. 2011, Nr.118-0, i. k. 1111010ISTA0XI-1539
  
@@ -2559,7 +2559,10 @@ Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
 36 straipsnis. Pranešimas apie branduolines ir radiologines avarijas, branduolinius incidentus ir kitus neįprastuosius įvykius
 
 
-1. Valstybinė atominės energetikos saugos inspekcija yra valstybės įgaliota institucija perduoti ir priimti informaciją pagal 1986 m. Konvenciją dėl ankstyvo pranešimo apie branduolinę avariją, pagal 1987 m. gruodžio 14 d. Tarybos sprendimą 87/600/Euratomas dėl Bendrijoje nustatomos skubaus pasikeitimo informacija radiologinės avarijos atveju tvarkos (OL 2004 m. specialusis leidimas, 15 skyrius, 1 tomas, p. 337) ir pagal tarpvalstybinius dvišalius susitarimus.
+1. Valstybinė atominės energetikos saugos inspekcija yra valstybės įgaliota institucija perduoti ir priimti informaciją pagal 1986 m. Konvenciją dėl ankstyvo pranešimo apie branduolinę avariją, pagal 1987 m. gruodžio 14 d. Tarybos sprendimą 87/600/Euratomas dėl Bendrijoje nustatomos skubaus pasikeitimo informacija radiologinės avarijos atveju tvarkos ir pagal tarpvalstybinius dvišalius susitarimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
+ 
 
 
 
@@ -3347,8 +3350,6 @@ _________________
 
 
 
- 
- 
 Lietuvos Respublikos 
 branduolinės saugos įstatymo
 2 priedas
@@ -3357,24 +3358,17 @@ branduolinės saugos įstatymo
  
 
 
-1. 2006 m. lapkričio 20 d. Tarybos direktyva 2006/117/Euratomas dėl radioaktyviųjų atliekų ir panaudoto branduolinio kuro vežimo priežiūros ir kontrolės (OL 2006 L  337, p. 21).
+1. 2006 m. lapkričio 20 d. Tarybos direktyva 2006/117/Euratomas dėl radioaktyviųjų atliekų ir panaudoto branduolinio kuro vežimo priežiūros ir kontrolės.
 
 
 
 
-2. 2009 m. birželio 25 d. Tarybos direktyva 2009/71/Euratomas, kuria nustatoma Bendrijos branduolinių įrenginių branduolinės saugos sistema (OL 2009 L 172, p. 18), su paskutiniais pakeitimais, padarytais 2014 m. liepos 8 d. Tarybos direktyva 2014/87/Euratomas, kuria iš dalies keičiama Direktyva 2009/71/Euratomas, kuria nustatoma Bendrijos branduolinių įrenginių branduolinės saugos sistema (OL 2014 L 219, p. 42). 
-Punkto pakeitimai:
-Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
+2. 2009 m. birželio 25 d. Tarybos direktyva 2009/71/Euratomas, kuria nustatoma Bendrijos branduolinių įrenginių branduolinės saugos sistema, su paskutiniais pakeitimais, padarytais 2014 m. liepos 8 d. Tarybos direktyva 2014/87/Euratomas, kuria iš dalies keičiama Direktyva 2009/71/Euratomas, kuria nustatoma Bendrijos branduolinių įrenginių branduolinės saugos sistema. 
+
+
+Priedo pakeitimai:
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
  
-
-
-
-
-_________________
- 
- 
-
-
  
  
 Pakeitimai:
@@ -3403,3 +3397,8 @@ Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 2, 3, 9, 11, 14,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1565, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17485
 Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 32 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
+Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 5, 22, 23, 24, 25, 26, 29, 32, 36, 39-1 straipsnių ir 2 priedo pakeitimo įstatymas
