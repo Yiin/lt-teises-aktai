@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.981F27E01089"
 
 # Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-10-29
+Suvestinė redakcija nuo 2020-10-30 iki 2020-10-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 81-3322, i. k. 1071010ISTA00X-1262
  
@@ -337,7 +337,10 @@ PRETENDENTŲ ATRANKA
 
 
 
-3) buvo pripažintas pažeidusiu Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimus ir jeigu nuo pažeidimo paaiškėjimo dienos nepraėjo vieni metai arba jeigu buvo pripažintas šiurkščiai pažeidęs Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo reikalavimus ir jeigu nuo pažeidimo paaiškėjimo dienos nepraėjo 3 metai;
+3) buvo pripažintas pažeidusiu Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymo reikalavimus ir jeigu nuo pažeidimo paaiškėjimo dienos nepraėjo vieni metai arba jeigu buvo pripažintas šiurkščiai pažeidęs Viešųjų ir privačių interesų derinimo įstatymo reikalavimus ir jeigu nuo pažeidimo paaiškėjimo dienos nepraėjo 3 metai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3326, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22471
+ 
 
 
 
@@ -1158,3 +1161,8 @@ Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos ins
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2906, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10903
 Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 priedo pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3326, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22471
+Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 10, 18 straipsnių ir priedo pakeitimo įstatymas
