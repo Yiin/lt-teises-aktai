@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2020-10-01 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2021-04-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
- 
-TAR pastaba. Įstatymo Nr. XIII-3257 nuostatos, kurios reguliuoja tiesioginių užsienio investicijų patikrą pagal Reglamentą (ES) 2019/452 ir (arba) yra susijusios su šio Reglamento taikymu, taip pat nustato ryšių palaikymo punkto funkcijas, taikomos nuo 2020 m. rugpjūčio 11 d.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
-Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 1, 2, 4, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20 straipsnių, 1, 2, 3, 4 priedų pakeitimo ir Įstatymo papildymo 13-1, 17-1, 19-1 straipsniais ir 5 priedu įstatymas
  
 Nauja redakcija nuo 2018-03-01:
 Nr. XIII-992, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01004
@@ -1059,6 +1054,14 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
 
 6. Nacionaliniam saugumui užtikrinti svarbių įmonių valdymo organų nariai neturi teisės priimti sprendimų dėl turto, nurodyto nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane, sunaikinimo ir sunaikinti šio turto nesikreipę į Vyriausybę ir negavę jos pritarimo. Turto, nurodyto nacionaliniam saugumui užtikrinti svarbios įmonės saugumo plane, rekonstravimas, remontas, tvarkomieji darbai, atnaujinimas (modernizavimas) nėra laikomi šio turto sunaikinimu. 
+
+
+
+
+7. Pirmos ir antros kategorijos nacionaliniam saugumui užtikrinti svarbios įmonės visuotinio akcininkų susirinkimo renkamame kolegialiame priežiūros ar valdymo organe turi būti bent vienas valstybės tarnautojas. 
+TAR pastaba. 15 straipsnio 7 dalyje nustatyti reikalavimai taikomi po įstatymo Nr. XIII-3284 įsigaliojimo (2020-11-01) sudaromiems pirmos ir antros kategorijos nacionaliniam saugumui užtikrinti svarbių įmonių visuotinio akcininkų susirinkimo renkamiems kolegialiems priežiūros ar valdymo organams. Iki šio įstatymo įsigaliojimo sudaryti tokie kolegialūs organai savo funkcijas atlieka iki kadencijos, kuriai jie buvo sudaryti, pabaigos arba iki bus sudaryti nauji atitinkami priežiūros ar valdymo organai.
+Papildyta straipsnio dalimi:
+Nr. XIII-3284, 2020-09-17, paskelbta TAR 2020-09-18, i. k. 2020-19502
  
 
 
@@ -1990,3 +1993,8 @@ Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaug
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 1, 2, 4, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20 straipsnių, 1, 2, 3, 4 priedų pakeitimo ir Įstatymo papildymo 13-1, 17-1, 19-1 straipsniais ir 5 priedu įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3284, 2020-09-17, paskelbta TAR 2020-09-18, i. k. 2020-19502
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 15 straipsnio pakeitimo įstatymas
