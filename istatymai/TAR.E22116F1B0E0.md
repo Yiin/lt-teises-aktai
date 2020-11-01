@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E22116F1B0E0"
 
 # Lietuvos Respublikos akcinių bendrovių įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1914; Žin. 2000, Nr.68-0, i. k. 1001010ISTAIII-1835
  
@@ -2530,9 +2530,44 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-8. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, ne mažiau kaip 1/3 stebėtojų tarybos narių turi būti nesusiję su bendrove, bendrovę kontroliuojančiu akcininku ir bendrovės organų nariais šeimos, giminystės, svainystės, partnerystės ryšiais, taip pat stebėtojų tarybos narys ne mažiau kaip metus iki jo paskyrimo negali turėti ar neturi būti turėjęs verslo ryšių su šia bendrove nei tiesiogiai, nei kaip turinčios tokių ryšių bendrovės akcininkas, kolegialaus valdymo organo narys ar vadovas. Turinčiu verslo ryšių su akcine bendrove, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, laikomas fizinis asmuo ar juridinis asmuo, kuris yra prekių tiekėjas arba paslaugų teikėjas (įskaitant finansines, teisines, patariamąsias ir konsultacines paslaugas), partneris ar asmuo, kuris gauna pajamų iš šios bendrovės, išskyrus atlygį už veiklą vykdant kolegialaus organo nario ar komiteto nario pareigas. Bendrovę kontroliuojančiam akcininkui nustatyti mutatis mutandis taikomos šio Įstatymo 5 straipsnio nuostatos. 
+8. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, ne mažiau kaip 1/3 stebėtojų tarybos narių turi:
+
+
+1) ne mažiau kaip metus neturėti darbo santykių su bendrove, patronuojančia bendrove ar dukterinėmis bendrovėmis;
+
+
+
+
+2) ne mažiau kaip metus nebūti bendrovės, patronuojančios bendrovės ar dukterinės bendrovės vadovu ar valdybos nariu, ar akcininku, kuriam priklausančios akcijos suteikia ne mažiau kaip 1/5 balsų visuotiniame akcininkų susirinkime;
+
+
+
+
+3) nebūti akcininko, kuriam priklauso daugiau kaip 1/5 balsų visuotiniame akcininkų susirinkime suteikiančių akcijų, bendrovės arba patronuojančios bendrovės ar dukterinės bendrovės vadovo ar kolegialių organų narių artimi asmenys – sutuoktinis, sugyventinis, partneris, kai partnerystė įregistruota įstatymų nustatyta tvarka, taip pat jų tėvai (įtėviai), vaikai (įvaikiai), broliai (įbroliai), seserys (įseserės), seneliai, vaikaičiai ir jų sutuoktiniai, sugyventiniai ar partneriai;
+
+
+
+
+4) neturėti verslo ryšių su patronuojančia bendrove ar dukterine bendrove ar su juridiniu asmeniu, kurio dalyvė, dalininkė ar steigėja yra bendrovė, patronuojanti bendrovė ar dukterinė bendrovė, nei tiesiogiai, nei kaip turinčios tokių ryšių bendrovės akcininkas, kolegialaus valdymo organo narys ar vadovas. Turinčiu verslo ryšių laikomas fizinis asmuo ar juridinis asmuo, kuris yra prekių tiekėjas arba paslaugų teikėjas (įskaitant finansines, teisines, patariamąsias ir konsultacines paslaugas), kuris gauna pajamų iš bendrovės ar šiame punkte nurodytų juridinių asmenų, išskyrus atlygį už veiklą vykdant kolegialaus organo nario ar komiteto nario pareigas; 
+
+
+
+
+5) paskutinius dvejus metus nebūti audito įmonės, kuri atlieka ar atliko bendrovės, patronuojančios bendrovės ar dukterinės bendrovės auditą, partneriu, dalyviu, vadovu, kolegialaus organo nariu arba darbuotoju;
+
+
+
+
+6) nebūti bendrovės kolegialaus organo nariu ilgiau kaip 10 metų. Šis laikotarpis apskaičiuojamas prie kolegialaus organo nario pareigų ėjimo laikotarpio pridedant praėjusius bendrovės kolegialaus organo nario pareigų ėjimo laikotarpius, tarp kurių yra ne didesnis kaip vienų metų laiko tarpas. 
+TAR pastaba. 31 straipsnio 8 dalies nuostatos taikomos akcinėse bendrovėse:
+1) renkant naują stebėtojų tarybą ar valdybą, atliekančią Akcinių bendrovių įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas;
+2) renkant pavienius 1 punkte nurodytų organų narius.
+
+
 Papildyta straipsnio dalimi:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+Straipsnio dalies pakeitimai:
+Nr. XIII-3183, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15506
  
 
 
@@ -2776,9 +2811,13 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-7. Kai bendrovės, kurioje stebėtojų taryba nesudaroma, įstatuose nustatyta, kad valdyba atlieka šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, daugiau kaip pusė valdybos narių turi būti nesusiję darbo santykiais su bendrove. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, ne mažiau kaip 1/3 valdybos, atliekančios šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, narių turi būti nesusiję su bendrove, bendrovę kontroliuojančiu akcininku ir bendrovės organų nariais šeimos, giminystės, svainystės, partnerystės ryšiais, taip pat valdybos narys ne mažiau kaip metus iki jo paskyrimo negali turėti ar neturi būti turėjęs verslo ryšių su šia bendrove nei tiesiogiai, nei kaip turinčios tokių ryšių bendrovės akcininkas ar vadovas. Turinčiu verslo ryšių su akcine bendrove, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, laikomas fizinis asmuo ar juridinis asmuo, kuris yra prekių tiekėjas arba paslaugų teikėjas (įskaitant finansines, teisines, patariamąsias ir konsultacines paslaugas), partneris ar asmuo, kuris gauna pajamų iš šios akcinės bendrovės, išskyrus atlygį už veiklą vykdant kolegialaus organo nario ar komiteto nario pareigas. Bendrovę kontroliuojančiam akcininkui nustatyti mutatis mutandis taikomos šio Įstatymo 5 straipsnio nuostatos. 
+7. Kai bendrovės, kurioje stebėtojų taryba nesudaroma, įstatuose nustatyta, kad valdyba atlieka šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, daugiau kaip pusė valdybos narių turi būti nesusiję darbo santykiais su bendrove. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, ne mažiau kaip 1/3 valdybos, atliekančios šio Įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas, nariai turi atitikti šio Įstatymo 31 straipsnio 8 dalies 1, 3, 4, 5 ir 6 punktuose nurodytus reikalavimus ir ne mažiau kaip metus nebūti bendrovės, patronuojančios bendrovės ar dukterinės bendrovės vadovu ar stebėtojų tarybos nariu, ar akcininku, kuriam priklausančios akcijos suteikia ne mažiau kaip 1/5 balsų visuotiniame akcininkų susirinkime. 
+TAR pastaba. 33 straipsnio 7 dalies nuostatos taikomos akcinėse bendrovėse:
+1) renkant naują stebėtojų tarybą ar valdybą, atliekančią Akcinių bendrovių įstatymo 34 straipsnio 11 dalyje nustatytas priežiūros funkcijas;
+2) renkant pavienius 1 punkte nurodytų organų narius.
 Straipsnio dalies pakeitimai:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
+Nr. XIII-3183, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15506
  
 
 
@@ -7664,3 +7703,8 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 20, 24, 34 ir 7
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2524, 2019-11-14, paskelbta TAR 2019-11-21, i. k. 2019-18576
 Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 20, 24, 34 ir 73 straipsnių pakeitimo įstatymo Nr. XIII-2231 1 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3183, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15506
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 31 ir 33 straipsnių pakeitimo įstatymas
