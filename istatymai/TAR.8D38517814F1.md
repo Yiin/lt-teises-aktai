@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2020-11-03
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -793,6 +793,14 @@ Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 4. Atliekas tvarkančios įmonės vadovaujasi šio Įstatymo ir aplinkos ministro nustatytais atliekų tvarkymo reikalavimais, taip pat darbuotojų saugos ir sveikatos teisės aktais. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
+ 
+
+
+
+
+41. Draudžiama įvežti (importuoti) į Lietuvą iš kitų valstybių komunalines ir pavojingąsias atliekas, skirtas šalinti ir (arba) naudoti energijai gauti, ir komunalinių atliekų deginimo proceso likučius (pelenus ir šlakus).
+Papildyta straipsnio dalimi:
+Nr. XIII-3157, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15135
  
 
 
@@ -4991,3 +4999,8 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 30-1 straipsnio pa
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT31-N3/2020, 2020-02-18, paskelbta TAR 2020-02-18, i. k. 2020-03538
 Dėl Lietuvos Respublikos atliekų tvarkymo įstatymo, Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2 ir 4 straipsnių pakeitimo įstatymo, Lietuvos Respublikos Vyriausybės 2000 m. vasario 2 d. nutarimu Nr. 113 patvirtinto Valstybinės reikšmės atliekų tvarkymo objektų steigimo ir pripažinimo tvarkos aprašo (2014 m. vasario 19 d. redakcija) nuostatų atitikties Lietuvos Respublikos Konstitucijai
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3157, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15135
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4 straipsnio pakeitimo įstatymas
