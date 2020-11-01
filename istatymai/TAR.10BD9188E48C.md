@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.10BD9188E48C"
 
 # Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymas
 
-Suvestinė redakcija nuo 2006-07-14 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2021-04-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 56-1976, i. k. 1011010ISTA00IX-375
  
@@ -147,6 +147,49 @@ Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA0
 
 Straipsnio pakeitimai:
 Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
+ 
+
+
+
+
+21 straipsnis. Genetiškai modifikuotų organizmų valstybinio valdymo principai
+
+
+Genetiškai modifikuotų organizmų valstybinis valdymas grindžiamas šiais principais:
+
+
+1) atsargumo – atitinkamas rizikos valdymo priemones, skirtas pavojui iki rizikos aplinkai vertinimo ir rizikos valdymo plėtros sumažinti, kai priimant sprendimą dėl genetiškai modifikuoto organizmo apgalvoto išleidimo į aplinką, įskaitant tiekimą rinkai, esant moksliniam neapibrėžtumui dėl genetiškai modifikuoto organizmo ar jo kaip produkto saugos sunku prognozuoti galimą neigiamą poveikį žmonių sveikatai ir aplinkai;
+
+
+
+
+2) rizikos aplinkai vertinimo – išankstinį rizikos aplinkai vertinimą kiekvienu atveju genetiškai modifikuotą organizmą ribotai naudojant, apgalvotai išleidžiant į aplinką ar tiekiant rinkai jį kaip produktą ar esantį kituose produktuose. Draudžiama genetiškai modifikuotą organizmą apgalvotai išleisti į aplinką ar jį kaip produktą tiekti rinkai, kai genetinės modifikacijos procese naudojami atsparumo antibiotikams žymimieji genai, lemiantys atsparumą antibiotikams, vartojamiems žmonių ar gyvūnų gydymui, jeigu vertinant riziką aplinkai nustatytas galimas genetiškai modifikuoto organizmo neigiamas poveikis žmonių sveikatai ir aplinkai;
+
+
+
+
+3) etapų (laipsniškumo) – genetiškai modifikuotas organizmas, skirtas naudoti aplinkoje, apgalvotai išleidžiamas į aplinką ir jo ribojimas mažinamas nuosekliai, etapais didinant išleidimo mastą, ir tik tada, kai, įvertinus ankstesnį išleidimo poveikį žmonių sveikatai ir aplinkai, nustatoma, kad galima daryti kitą žingsnį;
+
+
+
+
+4) visuomenės informavimo ir dalyvavimo – institucijos turi skatinti visuomenės švietimą ir informavimą, išklausyti, konsultuotis ir įvertinti visuomenės nuomonę kiekvienu atveju prieš priimant sprendimą dėl veiklos, susijusios su ribotu naudojimu ar apgalvotu išleidimu į aplinką, įskaitant tiekimą rinkai;
+
+
+
+
+5) stebėsenos ir kontrolės priemonių užtikrinimo – genetiškai modifikuotas organizmas leidžiamas apgalvotam išleidimui į aplinką ar tiekimui rinkai tik tuo atveju, jeigu fiziniai ir juridiniai asmenys, teikiantys pranešimą vykdyti veiklą, pateikia genetiškai modifikuoto organizmo nustatymo ir aptikimo metodų aprašymą;
+
+
+
+
+6) auginti skirto genetiškai modifikuoto organizmo (augalo) ribojimo – vadovaujantis subsidiarumo principu, galimybė riboti ar drausti genetiškai modifikuotą organizmą, teikiamą kaip sėklos ar kita augalų dauginamoji medžiaga, auginti Lietuvos Respublikos teritorijoje, nedarant poveikio genetiškai modifikuotiems organizmams, kurie įteisinti tiekti rinkai kaip atskiri produktai ar esantys kituose produktuose, laisvai apyvartai ir prieš įteisinimą nustatytam rizikos aplinkai vertinimui ir neatsižvelgiant į priemones, skirtas išvengti neįteisinto genetiškai modifikuoto organizmo išleidimo į aplinką. 
+
+
+
+
+Papildyta straipsniu:
+Nr. XIII-3261, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15885
  
 
 
@@ -490,6 +533,42 @@ Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA0
 5. Aplinkos ministerija, priimdama sprendimą, nurodytą šio straipsnio 4 dalyje, nedelsdama informuoja Europos Komisiją, valstybes nares bei visuomenę ir pagrindžia savo sprendimą rizikos aplinkai įvertinimu. 
 
 
+
+
+6. Aplinkos ministerija:
+
+
+1) pritarus Žemės ūkio ministerijai, kiekvienu atveju teikia Europos Komisijai prašymą, kaip nurodyta šio įstatymo 108 straipsnio 1 dalyje, skirtą fiziniams ir juridiniams asmenims, pateikusiems pranešimą tiekti rinkai auginti skirtą genetiškai modifikuotą organizmą (augalą) ar atnaujinti tokio produkto tiekimą rinkai auginti, dėl Lietuvos Respublikos reikalavimo išbraukti iš geografinės teritorijos taikymo Lietuvos Respublikos teritoriją numatomame išduoti:
+
+
+a) sutikime pagal Direktyvą 2001/18/EB;
+
+
+
+
+b) leidime pagal 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1829/2003 dėl genetiškai modifikuoto maisto ir pašarų;
+
+
+
+
+
+
+2) neteikia prašymo Europos Komisijai dėl Lietuvos Respublikos reikalavimo išbraukti iš geografinės teritorijos taikymo Lietuvos Respublikos teritoriją numatomame išduoti sutikime (leidime), kai Žemės ūkio ministerija nepritaria konkretaus genetiškai modifikuoto organizmo draudimui auginti prašymo, nurodyto šios dalies 1 punkte, pateikimui Europos Komisijai. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-3261, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15885
+ 
+
+
+
+
+7. Draudžiama auginti Lietuvos Respublikos teritorijoje Europos Sąjungoje auginti skirtus genetiškai modifikuotus organizmus (augalus), kurie įrašyti į aplinkos ministro patvirtintą genetiškai modifikuotų organizmų sąrašą, skirtą šio įstatymo 9 straipsnio 6 dalies 1 punkte nurodytam prašymui pateikti, arba dėl kurių geografinės teritorijos taikymo išimtis, kai valstybės narės ar Europos Komisija pateikia prieštaravimus dėl tokio produkto tiekimo rinkai, patvirtinta Europos Komisijos įgyvendinamuoju sprendimu. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3261, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15885
+ 
+
+
 Straipsnio pakeitimai:
 Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
  
@@ -535,6 +614,29 @@ Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA0
 
 Straipsnio pakeitimai:
 Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
+ 
+
+
+
+
+108 straipsnis. Sutikimo (leidimo) produkto tiekimo rinkai veiklai išdavimo ribojimas, kai genetiškai modifikuotas organizmas skirtas auginimui
+
+
+1. Aplinkos ministerija teikia Europos Komisijai rašytinį prašymą dėl Lietuvos Respublikos reikalavimo, nurodyto šio įstatymo 9 straipsnio 6 dalyje, ne vėliau kaip per 45 kalendorines dienas nuo Direktyvos 2001/18/EB 14 straipsnio 2 dalyje nurodytos vertinimo ataskaitos išplatinimo arba Reglamento (EB) Nr. 1829/2003 6 straipsnio 6 dalyje ir 18 straipsnio 6 dalyje nurodytos Europos maisto saugos tarnybos nuomonės gavimo dienos.
+
+
+
+
+2. Fiziniai ir juridiniai asmenys, pateikę pranešimą tiekti rinkai auginti skirtą genetiškai modifikuotą organizmą (augalą) ar atnaujinti tokio produkto tiekimą rinkai auginti, per 30 kalendorinių dienų nuo informacijos apie prašymą gavimo dienos patvirtina pradinį pranešimo produktą tiekti rinkai geografinės teritorijos taikymą arba atsižvelgia į prašymą patikslinti geografinės teritorijos taikymą ir patikslina pranešimą. Patikslintas geografinės teritorijos taikymas nurodomas rašytiniame sutikime arba leidime, kuris išduodamas pagal Direktyvą 2001/18/EB, ir prireikus priimamame sprendime, nustatytame šios direktyvos 19 straipsnyje, taip pat sprendime dėl leidimo išdavimo Reglamento (EB) Nr. 1829/2003 7 ir 19 straipsniuose nustatyta tvarka.
+
+
+
+
+3. Aplinkos ministerija, pritarus Žemės ūkio ministerijai, pagal Direktyvą 2001/18/EB teikia prašymą valstybės narės kompetentingai institucijai, kuri išdavė rašytinį sutikimą produkto tiekimo rinkai veiklai, arba Europos Komisijai, jeigu leidimas produkto tiekimo rinkai veiklai išduotas pagal Reglamentą Nr. 1829/2003, kad Lietuvos Respublikos teritorija ar jos dalis būtų įtraukta į sutikimo ar leidimo geografinės teritorijos taikymą, iš kurios buvo išbraukta šiame straipsnyje nustatyta tvarka. Tokiu atveju Žemės ūkio ministerija priima priemones, laikydamasi Direktyvos 2001/18/EB 26a straipsnio 1a dalyje nustatytos tvarkos, apie kurias praneša Europos Komisijai. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3261, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15885
  
 
 
@@ -660,6 +762,14 @@ priedas
 2. 2001 m. kovo 12 d. Europos Parlamento ir Tarybos direktyva 2001/18/EB dėl genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką ir panaikinanti Tarybos direktyvą 90/220/EEB (OL 2004 m. specialusis leidimas, 15 skyrius, 6 tomas, p. 77 (su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos Reglamentu (EB) Nr. 1830/2003, OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 455).
 
 
+
+
+3. 2015 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/412, kuria iš dalies keičiamos Direktyvos 2001/18/EB nuostatos dėl valstybių narių galimybės savo teritorijoje riboti ar drausti genetiškai modifikuotų organizmų (GMO) auginimą. 
+Papildyta punktu:
+Nr. XIII-3261, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15885
+ 
+
+
 Papildyta priedu:
 Nr. IX-1384, 2003-03-20, Žin., 2003, Nr. 34-1419 (2003-04-09), i. k. 1031010ISTA0IX-1384
 Priedo pakeitimai:
@@ -678,3 +788,8 @@ Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymo 2, 4, 8 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. 1061010ISTA000X-720
 Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymo 1, 2, 4, 5, 7, 8, 9, 10 straipsnių pakeitimo ir papildymo, trečiojo skirsnio pavadinimo pakeitimo, įstatymo papildymo 7(1), 7(2 )straipsniais ir priedo pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3261, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15885
+Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymo Nr. IX-375 1, 2, 4, 7-2, 9, 10, 12 straipsnių, antrojo skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 2-1 straipsniu, trečiuoju-1 ir trečiuoju-2 skirsniais įstatymas
