@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1A98CE535B1C"
 
 # Lietuvos Respublikos aplinkos monitoringo įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 112-2824, i. k. 0971010ISTAVIII-529
  
@@ -364,7 +364,12 @@ Nr. XII-2299, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10403
 
 
 
-2. Laboratorijos, atliekančios taršos šaltinių išmetamų į aplinką teršalų ir teršalų aplinkos elementuose (ore, vandenyje, dirvožemyje) matavimus ir tyrimus, turi turėti leidimus šiems matavimams ir tyrimams atlikti arba būti akredituotos teisės aktų nustatyta tvarka. Leidimų atlikti taršos šaltinių išmetamų į aplinką teršalų ir teršalų aplinkos elementuose matavimus ir tyrimus išdavimo tvarką nustato Aplinkos ministerija.
+2. Laboratorijos, atliekančios taršos šaltinių išmetamų į aplinką teršalų ir teršalų aplinkos elementuose (ore, vandenyje, dirvožemyje) matavimus ir tyrimus ir (ar) imančios ėminius laboratoriniams tyrimams atlikti, turi turėti leidimus vykdyti šią veiklą arba būti akredituotos kaip atitinkančios standartą LST EN ISO/IEC 17025 konkretiems teršalams tirti, matuoti, imti ėminius laboratoriniams tyrimams atlikti. 
+2 dalies redakcija nuo 2025-01-01:
+2. Labaratorijos, atliekančios taršos šaltinių išmetamų į aplinką teršalų ir teršalų aplinkos elementuose (ore, vandenyje, dirvožemyje) matavimus ir tyrimus ir (ar) imančios ėminius tyrimams atlikti, išskyrus laboratorijas, atliekančias ūkio subjektų aplinkos monitoringo programoje nurodytus matavimus ir tyrimus ir (ar) imančias ėminius šiems tyrimams atlikti, turi turėti leidimus vykdyti šią veiklą arba būti akredituotos kaip atitinkančios standartą LST EN ISO/IEC 17025 konkretiems teršalams tirti, matuoti, imti ėminius laboratoriniams tyrimams atlikti. Ūkio subjektų aplinkos monitoringo programoje numatytų į aplinką išmetamų ir (arba) išleidžiamų teršalų ir teršalų aplinkos elementuose (ore, vandenyje, dirvožemyje) laboratorinius tyrimus ir (ar) matavimus atliekančios ir (ar) ėminius laboratoriniams tyrimams atlikti imančios laboratorijos turi būti akredituotos kaip atitinkančios standartą LST EN ISO/IEC 17025 konkretiems teršalams tirti, matuoti, imti ėminius laboratoriniams tyrimams atlikti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2797, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02848
+ 
 
 
 
