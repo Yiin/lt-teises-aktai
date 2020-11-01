@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/420f4dd0927c11e9ae2e9d61b1f977b3"
 
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2020-12-31
  
 Įstatymas paskelbtas: TAR 2019-06-19, i. k. 2019-09862
  
@@ -8595,7 +8595,6 @@ Respublikos Prezidentė                            �
  
  
  
- 
 
 
 
@@ -8856,17 +8855,15 @@ Pastabos:
 
 
 3. 2, 3 ir 4 lentelėse nurodytos suskystintų naftos dujų, neatsižvelgiant į jų rezervuarų talpą, įrenginių vertikalus apsaugos zonos dydis yra vienas metras virš suskystintų naftos dujų įrenginio, jo saugos įtaisų arba statinio, kuriame yra šis įrenginys, išorinių atitvarų, sienelių ar ribų, uždaromosios, reguliavimo ar kitos armatūros.
+
+
+
+
+
+
+
+
  
- 
- 
-
-
-
-
-
-
-
-
 Lietuvos Respublikos specialiųjų žemės
 naudojimo sąlygų įstatymo
 2 priedas
@@ -8914,16 +8911,10 @@ Gamybinių objektų sanitarinės apsaugos zonų dydIS
    
 
 
- 4.1. 
- objektai, kurių gamybos pajėgumas – 5 ir daugiau tonų žuvies per parą; 
+ 4.1.   4.2.     4.3. 
+ objektai, kurių gamybos pajėgumas – 5 ir daugiau tonų žuvies per parą; objektai, kurių gamybos pajėgumas – iki 5 tonų žuvies per parą, išskyrus šios lentelės 4.3 papunktyje nurodytus atvejus; objektai, kurių pajėgumas – 50 ir mažiau kilogramų žuvies per parą, kai gamyba vykdoma savivaldybės tarybos nustatyta tvarka 
    
- 100   
-
-
- 4.2. 
- objektai, kurių gamybos pajėgumas – iki 5 tonų žuvies per parą 
-   
- 50   
+ 100   50     0 
 
 
  5. 
@@ -9402,12 +9393,14 @@ Gamybinių objektų sanitarinės apsaugos zonų dydIS
 
 
  
+Priedo pakeitimai:
+Nr. XIII-3264, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15776
  
+
+
+
+
  
-
-
-
-
 Lietuvos Respublikos specialiųjų
 žemės naudojimo sąlygų įstatymo
 3 priedas
@@ -9631,3 +9624,8 @@ Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2921, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10923
 Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 7 straipsnio, IX skyriaus pavadinimo, IX skyriaus pirmojo skirsnio ir 142 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3264, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15776
+Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2 priedo pakeitimo įstatymas
