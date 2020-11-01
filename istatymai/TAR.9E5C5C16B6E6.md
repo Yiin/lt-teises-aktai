@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-08-01 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 44-1073, i. k. 0951010ISTA000I-857
  
@@ -1192,12 +1192,7 @@ Nr. XIII-3227, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15140
 4. Lietuvos Respublikoje draudžiama parduoti:
 
 
-1) pilstomus alkoholinius gėrimus. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems stacionariosiose viešojo maitinimo vietose, stacionariuose pastatuose vykstančiose parodose ir mugėse, tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, alkoholiniams gėrimams (kurių tūrinė etilo alkoholio koncentracija neviršija 15 procentų), parduodamiems nestacionariosiose viešojo maitinimo vietose savivaldybės tarybos nustatyto kurortinio, poilsio ir turizmo sezono laikotarpiu, taip pat pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais ir natūralios fermentacijos sidrui, parduodamiems firminėse alkoholinių gėrimų gamybos įmonių parduotuvėse, pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais, natūralios fermentacijos midui ir natūralios fermentacijos sidrui (kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento), parduodamiems parodose, mugėse ir kituose masiniuose renginiuose; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1745, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08525
-Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
-Nr. XIII-3227, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15140
- 
+1) pilstomus alkoholinius gėrimus. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems stacionariosiose viešojo maitinimo vietose, stacionariuose pastatuose vykstančiose parodose ir mugėse, tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, orlaiviuose, vežančiuose keleivius tarptautiniais maršrutais, alkoholiniams gėrimams (kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų), parduodamiems nestacionariosiose viešojo maitinimo vietose savivaldybės tarybos nustatyto kurortinio, poilsio ir turizmo sezono laikotarpiu, taip pat pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais ir natūralios fermentacijos sidrui, parduodamiems firminėse alkoholinių gėrimų gamybos įmonių parduotuvėse, pilstomiems alui, alaus mišiniams su nealkoholiniais gėrimais, natūralios fermentacijos midui ir natūralios fermentacijos sidrui (kurių tūrinė etilo alkoholio koncentracija neviršija 7,5 procento), parduodamiems parodose, mugėse ir kituose masiniuose renginiuose;
 
 
 
@@ -1207,28 +1202,27 @@ Nr. XIII-3227, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15140
 
 
 
-3) alkoholinius gėrimus asmenims, jaunesniems kaip 20 metų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-394, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09774
+3) alkoholinius gėrimus asmenims, jaunesniems kaip 20 metų;
+
+
+
+
+4) alaus, fermentuotų gėrimų, alkoholinių kokteilių grupėms priklausančius alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija yra didesnė kaip 6 procentai, išpilstytus į didesnę negu 0,2 litro tarą, išskyrus atvejus, kai šie gėrimai išpilstyti į stiklinę, keraminę, medinę ar metalinę tarą; 
+
+
+
+
+5) alaus, fermentuotų gėrimų, alkoholinių kokteilių grupėms priklausančius alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija yra ne didesnė kaip 6 procentai, išpilstytus į didesnę negu vieno litro tarą, išskyrus atvejus, kai šie gėrimai išpilstyti į stiklinę, keraminę, medinę ar metalinę tarą;
+
+
+
+
+6) alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija yra didesnė kaip 22 procentai, gamyklų supilstytus į stiklines, taures ir kitą gėrimams tiesiogiai vartoti skirtą tarą. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2446, 2019-09-26, paskelbta TAR 2019-10-09, i. k. 2019-16071
  
-
-
-
-
-4) alaus, fermentuotų gėrimų, alkoholinių kokteilių grupėms priklausančius alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija yra didesnė kaip 7,5 procento, išpilstytus į didesnę negu 0,5 litro tarą, išskyrus atvejus, kai šie gėrimai išpilstyti į stiklinę, keraminę, medinę ar metalinę tarą; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1752, 2015-06-04, paskelbta TAR 2015-06-15, i. k. 2015-09296
- 
-
-
-
-
-5) alaus, fermentuotų gėrimų, alkoholinių kokteilių grupėms priklausančius alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija yra ne didesnė kaip 7,5 procento, išpilstytus į didesnę negu vieno litro tarą, išskyrus atvejus, kai šie gėrimai išpilstyti į stiklinę, keraminę, medinę ar metalinę tarą.
-Straipsnio punkto pakeitimai:
-Nr. XII-1752, 2015-06-04, paskelbta TAR 2015-06-15, i. k. 2015-09296
- 
-
-
 
 
 
@@ -3085,3 +3079,8 @@ Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 1, 12, 16, 18-1, 3
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3227, 2020-06-30, paskelbta TAR 2020-07-07, i. k. 2020-15140
 Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 16 ir 18 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2446, 2019-09-26, paskelbta TAR 2019-10-09, i. k. 2019-16071
+Lietuvos Respublikos alkoholio kontrolės įstatymo Nr. I-857 18 straipsnio pakeitimo įstatymas
