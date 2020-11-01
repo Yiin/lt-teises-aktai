@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
  
@@ -77,6 +77,14 @@ BENDROSIOS NUOSTATOS
 
 
 3. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede. 
+
+
+
+
+4. Prašymų pateikimą ir nagrinėjimą reglamentuoja Lietuvos Respublikos viešojo administravimo įstatymas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2988, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12820
+ 
 
 
 Straipsnio pakeitimai:
@@ -629,141 +637,18 @@ DOKUMENTŲ TEIKIMO SĄLYGOS
 
 2. Visa informacija apie nustatyto ar apskaičiuoto atlyginimo už dokumentų teikimą dydžio apskundimo tvarka skelbiama institucijos interneto svetainėje.
  
+
+
+
+
+
+
+
+
+3 skyrius. Neteko galios nuo 2020-11-01
+Skyriaus naikinimas:
+Nr. XIII-2988, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12820
  
- 
-
-
-
-
-
-
-
-
-III SKYRIUS
-PRAŠYMŲ PATEIKIMAS IR NAGRINĖJIMAS
- 
-
-
-12 straipsnis. Prašymo pateikimas
-
-
-1. Pareiškėjas, norėdamas gauti dokumentus, kreipiasi į instituciją ir pateikia prašymą. Prašyme nurodo, kokius dokumentus ir kokiu būdu pageidauja gauti, savo vardą, pavardę, adresą (jeigu pareiškėjas yra fizinis asmuo) arba pavadinimą, juridinio asmens kodą, buveinės adresą, atstovo vardą ir pavardę (jeigu pareiškėjas yra juridinis asmuo) ir kontaktinius duomenis. Jeigu dėl dokumentų kreipiasi pareiškėjo atstovas, prašyme nurodoma, kokius dokumentus ir kokiu būdu pageidaujama gauti, atstovo vardas, pavardė, adresas (jeigu atstovas yra fizinis asmuo), pavadinimas, juridinio asmens kodas, buveinės adresas (jeigu atstovas yra juridinis asmuo), atstovavimą liudijantis dokumentas, pareiškėjas, kurio vardu jis kreipiasi, ir kontaktiniai duomenys. Prašymo formą institucija skelbia savo interneto svetainėje.
-
-
-
-
-2. Prašymai gali būti teikiami tiesiogiai, pareiškėjui atvykus į instituciją, siunčiami paštu arba teikiami elektroninėmis priemonėmis, jeigu yra galimybė nustatyti pareiškėjo tapatumą. Prašymai, išskyrus žodinius prašymus, registruojami, tvarkomi Lietuvos Respublikos dokumentų ir archyvų įstatymo nustatyta tvarka.
-
-
-
-
-3. Žodiniai prašymai telefonu arba pareiškėjui atvykus į instituciją gali būti pateikiami tais atvejais, kai pareiškėjas pageidauja gauti informaciją žodžiu arba susipažinti su dokumentu, neprašydamas kopijos, kai dokumentą galima pateikti tuoj pat, nepažeidžiant šio įstatymo ir Reglamento (ES) 2016/679 nustatytos tvarkos. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
- 
-
-
-
-
-4. Institucija, nustačiusi, kad pareiškėjo prašyme nurodyti duomenys yra neišsamūs ar netikslūs, per 3 darbo dienas nuo prašymo gavimo dienos kreipiasi į pareiškėją, kad šis patikslintų prašymą, ir nurodo, kokių duomenų prašyme nepakanka ir kur juos gauti, o kai prašyme pateikti duomenys netikslūs, išaiškina pateiktų duomenų netikslumus ir kaip juos pašalinti. 
-
-
-
-
-5. Visi raštu, įskaitant elektroninę formą, institucijai pateikti prašymai turi būti pasirašyti pareiškėjo arba jo atstovo. Elektroninės formos prašymas turi būti pasirašytas elektroniniu parašu, kuriam Lietuvos Respublikos įstatymais ar Europos Sąjungos teisės aktais yra suteikta lygiavertė rašytiniam parašui teisinė galia, arba suformuotas elektroninėmis priemonėmis, kurios leidžia užtikrinti teksto vientisumą ir nepakeičiamumą.
- 
-
-
-
-
-
-
-13 straipsnis. Prašymo persiuntimas
-
-
-1. Jeigu prašomu dokumentu disponuoja kita institucija, pareiškėjo prašymas persiunčiamas šiai institucijai ne vėliau kaip per 3 darbo dienas nuo prašymo gavimo institucijoje dienos ir apie tai per 3 darbo dienas nuo prašymo persiuntimo informuojamas pareiškėjas. Persiųstą prašymą gavusi institucija dokumentus pareiškėjui pateikia šio įstatymo 14 straipsnyje nustatytais terminais. Jeigu pareiškėjas kreipėsi žodžiu, institucija nedelsdama turi informuoti pareiškėją ir nurodyti institucijos, į kurią pareiškėjas turėtų kreiptis dėl dokumentų, kontaktinius duomenis.
-
-
-
-
-2. Jeigu dalis prašomų dokumentų yra toje institucijoje, į kurią kreipėsi pareiškėjas, ir juos galima pateikti atskirai nuo visų prašomų dokumentų, institucija dokumentus pateikia šio įstatymo nustatyta tvarka ir terminais; dėl kitos dokumentų dalies šio straipsnio 1 dalyje nustatyta tvarka persiunčia pareiškėjo prašymą institucijai, kuri jais disponuoja. 
- 
-
-
-
-
-
-
-14 straipsnis. Prašymo nagrinėjimo terminai
-
-
-1. Jeigu kiti įstatymai nenustato kitaip, institucija nagrinėja pareiškėjo prašymą ir pareiškėjui pateikia dokumentus ne vėliau kaip per 20 darbo dienų nuo prašymo gavimo institucijoje dienos. Jeigu pareiškėjo buvo paprašyta patikslinti ar papildyti prašymą, prašymo nagrinėjimo ir dokumentų pateikimo terminas skaičiuojamas nuo patikslinto ar papildyto prašymo gavimo institucijoje dienos.
-
-
-
-
-2. Jeigu pareiškėjas prašo pateikti didelės apimties ar specialiai adaptuotų, apdorotų ar kitaip perdirbtų dokumentų, institucijos vadovo ar jo įgalioto darbuotojo sprendimu šio straipsnio 1 dalyje nurodytas terminas gali būti pratęstas dar iki 20 darbo dienų ir ne vėliau kaip kitą darbo dieną po prašymo nagrinėjimo termino pabaigos raštu apie tai privaloma pranešti pareiškėjui ir nurodyti prašymo nagrinėjimo termino pratęsimo priežastis.
-
-
-
-
-3. Nepaisant to, ar dokumentai teikiami be institucijos leidimo, ar prieš pateikiant dokumentus pareiškėjui yra būtina gauti jo sutikimą su specialiomis pakartotinio naudojimo sąlygomis šio įstatymo 8 straipsnio 8 dalyje numatyta tvarka, institucija dokumentus pareiškėjui privalo pateikti, o jeigu reikalinga, ir pareiškėjo sutikimą gauti, laikydamasi šio straipsnio 1 ir 2 dalyse nurodytų dokumentų pateikimo terminų. 
- 
-
-
-
-
-
-
-15 straipsnis. Atsisakymas pateikti dokumentus
-
-
-1. Institucija atsisako pateikti pareiškėjui dokumentus, jeigu:
-
-
-1) tas pats pareiškėjas pakartotinai prašo tų pačių dokumentų, kurie jam jau buvo pateikti;
-
-
-
-
-2) prašomi dokumentai yra paskelbti institucijos interneto svetainėje, visuomenės informavimo priemonėse, taip pat naudojant elektronines priemones; tokiu atveju per 3 darbo dienas nuo prašymo gavimo institucijoje dienos pareiškėjui nurodomas jų paskelbimo šaltinis;
-
-
-
-
-3) pagal pareiškėjo prašymą reikėtų specialiai adaptuoti, apdoroti ar kitaip perdirbti dokumentus ir tai būtų susiję su neproporcingai didelėmis darbo ir laiko sąnaudomis;
-
-
-
-
-4) šio įstatymo 12 straipsnio 4 dalyje nustatyta tvarka paprašius patikslinti ir (ar) papildyti prašymą, pareiškėjas jo nepatikslina arba patikslinto prašymo turinys yra nekonkretus;
-
-
-
-
-5) institucija prašomų dokumentų tvarkymą nutraukė pasikeitus institucijos funkcijoms;
-
-
-
-
-6) nėra galimybės nustatyti pareiškėjo tapatumo; 
-
-
-
-
-7) pareiškėjas kreipiasi dėl dokumentų, kurių teikimui šio įstatymo nuostatos netaikomos šio įstatymo 2 straipsnio 2 dalyje nurodytais atvejais.
-
-
-
-
-
-
-2. Jeigu institucija nustato šio straipsnio 1 dalyje nurodytus atsisakymo pateikti dokumentus pareiškėjui pagrindus, ji per 3 darbo dienas nuo prašymo gavimo institucijoje dienos priima sprendimą dėl atsisakymo pateikti dokumentus pareiškėjui. Nustačiusi, kad yra pagrindas atsisakyti pateikti jam dokumentus, institucija kitą darbo dieną nuo sprendimo priėmimo apie tai privalo pranešti pareiškėjui, nurodyti teisinį pagrindą ir informuoti apie šio sprendimo apskundimo tvarką. Jeigu atsisakoma pateikti dokumentus šio įstatymo 2 straipsnio 2 dalies 2 punkte nurodytu pagrindu, pranešime nurodomas asmuo, kuriam priklauso intelektinės nuosavybės teisės, jeigu tas asmuo žinomas, arba nurodomas teisių turėtojas, iš kurio institucija yra gavusi pareiškėjo prašomus dokumentus. Bibliotekoms, įskaitant aukštųjų mokyklų bibliotekas, muziejams ir valstybės archyvams pareiga nurodyti tokį asmenį nėra privaloma. 
- 
-
-
-
-
 
 
 
@@ -886,7 +771,10 @@ Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
 
 
 
-5. Jeigu dokumentų tvarkymas institucijoje nutrauktas dėl to, kad pasikeitė viešoji funkcija (funkcijos), pareiškėjui dokumentai yra teikiami tik jų saugojimo institucijoje laiką, o jeigu dokumentai yra perduoti kitai institucijai, pareiškėjo prašymas persiunčiamas šio įstatymo 13 straipsnyje nustatyta tvarka.
+5. Jeigu dokumentų tvarkymas institucijoje nutrauktas dėl to, kad pasikeitė viešoji funkcija (funkcijos), pareiškėjui dokumentai yra teikiami tik jų saugojimo institucijoje laiką, o jeigu dokumentai yra perduoti kitai institucijai, pareiškėjo prašymas persiunčiamas Vyriausybės nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2988, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12820
+ 
 
 
 
@@ -1162,3 +1050,8 @@ Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3044, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13957
 Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 1, 2 ir 7 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2988, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12820
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 1, 18 straipsnių pakeitimo ir III skyriaus pripažinimo netekusiu galios įstatymas
