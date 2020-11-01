@@ -13,12 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2F1D65EFB0C9"
 
 # Lietuvos Respublikos standartizacijos įstatymas
 
-Suvestinė redakcija nuo 2014-01-01 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 35-972; Žin. 2007, Nr.39-1435, i. k. 1001010ISTAIII-1618
  
-Nauja redakcija nuo 2007-04-05:
-Nr. X-1056, 2007-03-22, Žin. 2007, Nr. 39-1435 (2007-04-05) ; Žin. 2007, Nr. 42-0 (2007-04-14), i. k. 1071010ISTA00X-1056
+Nauja redakcija nuo 2020-11-01:
+Nr. XIII-3057, 2020-06-11, paskelbta TAR 2020-06-19, i. k. 2020-13474
  
 LIETUVOS RESPUBLIKOS
 STANDARTIZACIJOS
@@ -29,7 +29,7 @@ Vilnius
  
 
 
-PIRMASIS SKIRSNIS 
+I SKYRIUS
 BENDROSIOS NUOSTATOS
  
 
@@ -37,17 +37,17 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis ir tikslas
 
 
-1. Šis įstatymas nustato pagrindinius nacionalinės standartizacijos tikslus ir principus, Lietuvos standartų rengimo ir taikymo tvarką, standartų ir techninių reglamentų ryšį, nacionalinės standartizacijos institucijos veiklos pagrindines nuostatas, nacionalinės standartizacijos finansavimo šaltinius.
+1. Šis įstatymas nustato nacionalinės standartizacijos tikslus ir principus, pagrindines nacionalinių standartų rengimo ir taikymo, tarptautinių standartų ir Europos standartų perėmimo ir taikymo nuostatas, standartizacijoje dalyvaujančias institucijas ir nacionalinės standartizacijos institucijos finansavimo nuostatas.
 
 
 
 
-2. Įstatymo tikslas – įtvirtinti teisinius pagrindus svarbiausiems nacionalinės standartizacijos tikslams ir pagrindiniams standartizacijos principams įgyvendinti.
+2. Šio įstatymo tikslas – nustatyti nacionalinės standartizacijos tikslų ir  principų įgyvendinimo teisinius pagrindus.
 
 
 
 
-3. Šis įstatymas, išskyrus 2 straipsnio 3 dalį ir 6 straipsnio 11 bei 12 dalis, netaikomas standartizacijai įmonėse ir NATO standartizacijai.
+3. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, nuostatomis.
  
 
 
@@ -55,115 +55,45 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
+2 straipsnis. Pagrindinės šio įstatymo sąvokos 
 
 
-1. Darnusis Lietuvos standartas – Europos Komisijos pavedimu Europos standartizacijos organizacijų parengtas darnusis Europos standartas, paskelbtas Europos Bendrijų oficialiajame leidinyje ir perimtas kaip Lietuvos standartas.
+1. Europos standartizacijos leidinys – Europos standartizacijos organizacijos priimta savanoriškai taikoma techninė specifikacija, išskyrus Europos standartus. 
 
 
 
 
-2. Gaminys – daiktas, gaunamas gamybos būdu ir skirtas gamybai ar vartotojams.
+2. Nacionalinis standartizacijos leidinys – nacionalinės standartizacijos institucijos priimta savanoriškai taikoma techninė specifikacija, išskyrus nacionalinius standartus.
 
 
 
 
-3. Įmonės standartas – juridinio asmens parengtas ir patvirtintas dokumentas, kuriame nurodyti techniniai reikalavimai, kuriuos turi atitikti juridinio asmens gaminiai, procesai ar paslaugos.
+3. Perimtasis standartas − tarptautinės standartizacijos institucijos arba Europos standartizacijos organizacijos priimtas standartas, kurį nacionalinė standartizacijos institucija perėmė kaip nacionalinį standartą.
 
 
 
 
-4. Išskirtinė nuoroda į standartą – nuoroda į standartą, kurioje pažymima, kad vienintelis būdas atitikti tam tikrus techninio reglamento reikalavimus yra laikytis nurodyto(-ų) standarto(-ų) reikalavimų.
+4. Perimtasis standartizacijos leidinys – tarptautinės standartizacijos institucijos arba Europos standartizacijos organizacijos priimtas standartizacijos leidinys, kurį nacionalinė standartizacijos institucija perėmė kaip nacionalinį standartizacijos leidinį.
 
 
 
 
-5. Kiti leidiniai – nacionalinės standartizacijos institucijos leidiniai, išskyrus Lietuvos standartus bei tarptautinių ir Europos standartizacijos organizacijų leidiniai, išskyrus tarptautinius ir Europos standartus. Nacionalinė standartizacijos institucija nustato savo kitų leidinių nomenklatūrą atsižvelgdama į suinteresuotų šalių poreikius bei tarptautinių ir Europos standartizacijos organizacijų nomenklatūrą.
+5. Standartizacija – veikla, kurios tikslas – nustatyti savanoriškai taikomas technines ir kokybės specifikacijas, kurias dabartiniai ar būsimi produktai, gamybos procesai ar paslaugos galėtų atitikti.
 
 
 
 
-6. Nacionalinė standartizacijos institucija – vienintelė Lietuvoje nacionaliniu lygmeniu pripažinta standartizacijos institucija, turinti teisę būti tarptautinės ar Europos standartizacijos organizacijos nare.
+6. Suinteresuotasis subjektas – asmuo, kuriam standartizacija turi arba gali turėti poveikį tam tikroje srityje arba kuris dalyvauja rengiant nacionalinius standartus ar nacionalinius standartizacijos leidinius.
 
 
 
 
-7. Nuoroda į standartą (teisės aktuose) – nuoroda į vieną ar keletą standartų, pateikiama vietoj išsamių jo (jų) nuostatų perteikimo teisės akte.
+7. Tarptautinis standartizacijos leidinys – tarptautinės standartizacijos institucijos priimta savanoriškai taikoma techninė specifikacija, išskyrus tarptautinius standartus.
 
 
 
 
-8. Originalusis Lietuvos standartas – nacionalinės standartizacijos institucijos parengtas ir priimtas Lietuvos standartas, kai standartizacijos objektui nėra reikiamo tarptautinio ar Europos standarto, kurį būtų galima perimti pritaikant Lietuvos reikmėms.
-
-
-
-
-9. Paslauga – veikla, skirta kliento poreikiams tenkinti, ir jos rezultatas.
-
-
-
-
-10. Praktikos nuostatai – dokumentas, kuriame pateikiamos rekomenduojamos įrenginių, konstrukcijų ar gaminių projektavimo, gamybos, montavimo, techninės priežiūros ar utilizavimo taisyklės ir procedūros.
-
-
-
-
-11. Standartas – pripažintos standartizacijos institucijos priimtas dokumentas, kuris nustato bendram ir daugkartiniam naudojimui tinkančias taisykles, bendruosius principus ar charakteristikas tam tikroje srityje:
-
-
-1) tarptautinis standartas – tarptautinės standartizacijos organizacijos priimtas, paskelbtas ir visuomenei skirtas standartas;
-
-
-
-
-2) regioninis standartas – regioninės standartizacijos organizacijos priimtas, paskelbtas ir visuomenei skirtas standartas;
-
-
-
-
-3) Europos standartas – Europos standartizacijos organizacijos priimtas, paskelbtas ir visuomenei skirtas standartas;
-
-
-
-
-4) Lietuvos standartas – nacionalinės standartizacijos institucijos priimtas, paskelbtas ir visuomenei skirtas standartas;
-
-
-
-
-5) užsienio valstybės standartas – bet kurios užsienio valstybės standartizacijos institucijos parengtas ir paskelbtas standartas.
-
-
-
-
-
-
-12. Standartizacija – veikla, skirta tam tikroje srityje (pramonės, transporto, žemės ūkio ir kt.) nustatyti bendrąsias nuostatas, kurios gali būti visuotinai ir daug kartų panaudotos esamiems ir galimiems uždaviniams spręsti.
-
-
-
-
-13. Standartizacijos institucija – nacionaliniu, Europos arba tarptautiniu lygmeniu pripažinta institucija, kurios pagrindinė funkcija – rengti ir priimti visuomenei skirtus standartus.
-
-
-
-
-14. Standartų programa – standartizacijos institucijos sudarytas ir patvirtintas darbo planas, kuriame išvardijami tam tikro laikotarpio standartizacijos darbai.
-
-
-
-
-15. Techninė specifikacija – dokumentas, kuriame nurodyti techniniai reikalavimai, kuriuos turi atitikti gaminys, procesas ar paslauga.
-
-
-
-
-16. Techninis reglamentas – teisės aktas, kuriame techniniai reikalavimai, kurių būtina laikytis parduodant, naudojant, įvežant ar gaminant gaminį, steigiant paslaugų teikėjo verslą, pateikiami tiesiogiai arba nuorodomis į standartą(-us), techninę specifikaciją ar praktikos nuostatus arba kuriame pateikiamas minėtų dokumentų tekstas.
-
-
-
-
-17. Teikiamoji nuoroda į standartą – nuoroda į standartą, kurioje pažymima, kad vienas iš galimų būdų atitikti tam tikrus techninio reglamento reikalavimus yra laikytis nurodyto(-ų) standarto(-ų) reikalavimų.
+8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme ir Reglamente (ES) Nr. 1025/2012.
  
 
 
@@ -173,7 +103,7 @@ BENDROSIOS NUOSTATOS
 
 
 
-ANTRASIS SKIRSNIS 
+II SKYRIUS
 NACIONALINĖS STANDARTIZACIJOS TIKSLAI IR PRINCIPAI
  
 
@@ -184,27 +114,22 @@ NACIONALINĖS STANDARTIZACIJOS TIKSLAI IR PRINCIPAI
 Nacionalinės standartizacijos tikslai yra:
 
 
-1) apsaugoti žmonių bei gyvūnų sveikatą, gyvybę, aplinką, materialines gėrybes, vartotojų interesus ir užtikrinti jų saugą;
+1) gerinti produktų ir paslaugų kokybę, užtikrinti jų saugą ir tvarumą, apsaugoti žmonių sveikatą ir aplinką; 
 
 
 
 
-2) sudaryti sąlygas laisvam prekių ir paslaugų judėjimui;
+2) sudaryti laisvo produktų ir paslaugų judėjimo sąlygas;
 
 
 
 
-3) gerinti gaminių ir paslaugų kokybę, siekiant jų konkurencingumo vidaus ir užsienio rinkose;
+3) sudaryti naujų technologijų taikymo ir inovacijų plėtros sąlygas, siekiant užtikrinti produktų ir paslaugų konkurencingumą;
 
 
 
 
-4) atstovauti nacionalinės ekonomikos interesams tarptautinėje ir Europos standartizacijoje;
-
-
-
-
-5) sudaryti sąlygas efektyviam valstybės išteklių naudojimui ir taupymui.
+4) sudaryti efektyvaus žmogiškųjų, materialinių ir energijos išteklių naudojimo ir taupymo sąlygas.
  
 
 
@@ -214,48 +139,43 @@ Nacionalinės standartizacijos tikslai yra:
 
 
 
-4 straipsnis. Pagrindiniai nacionalinės standartizacijos principai
+4 straipsnis. Nacionalinės standartizacijos principai
 
 
-Pagrindiniai nacionalinės standartizacijos principai yra:
+Nacionalinės standartizacijos principai yra:
 
 
-1) savanoriškas ir lygiomis teisėmis visų suinteresuotų subjektų – gamintojų ir paslaugų teikėjų, valstybės ir savivaldybių, vartotojų bei mokslo ir studijų institucijų, asociacijų, profesinių ir kitų nevyriausybinių organizacijų (toliau – suinteresuotos šalys) – dalyvavimas standartizacijoje;
-
-
-
-
-2) standartų rengimas ir priėmimas sutarimu;
+1) standartizacijos skaidrumas ir pirmenybės jokiam konkrečiam suinteresuotajam subjektui neteikimas; 
 
 
 
 
-3) savanoriškas standartų taikymas;
+2) savanoriškas nacionalinių standartų taikymas, išskyrus šio įstatymo 7 straipsnio 1 dalyje nurodytą atvejį;
 
 
 
 
-4) standartizacijos skaidrumas ir viešumas;
+3) pirmenybės tarptautinei ir Europos standartizacijai teikimas rengiant ir taikant standartus; 
 
 
 
 
-5) pirmenybės teikimas tarptautinei ir Europos standartizacijai;
+4) savanoriškas suinteresuotųjų subjektų dalyvavimas rengiant nacionalinius standartus ir nacionalinius standartizacijos leidinius;  
 
 
 
 
-6) šalies ekonomikos ir visuomenės poreikių tenkinimas;
+5) nacionalinių standartų rengimas atsižvelgiant į naujausius mokslo laimėjimus ir technologijų pažangą;
 
 
 
 
-7) naujausių mokslo laimėjimų ir technologijų taikymas;
+6) sutarimas dėl nacionalinių standartų turinio įvertinus visų suinteresuotųjų subjektų nuomones ir derinant prieštaravimus;
 
 
 
 
-8) nuoseklus nacionalinių standartų fondo sudarymas.
+7) nacionalinių standartų darna, t. y. standartų, kurie dubliuojasi, nebuvimas.
  
 
 
@@ -267,45 +187,35 @@ Pagrindiniai nacionalinės standartizacijos principai yra:
 
 
 
-TREČIASIS SKIRSNIS
-STANDARTAI IR KITI LEIDINIAI, JŲ RENGIMAS, TAIKYMAS, KAUPIMAS IR PLATINIMAS
+III SKYRIUS
+STANDARTAI IR STANDARTIZACIJOS LEIDINIAI, JŲ RENGIMAS, TAIKYMAS, KAUPIMAS IR PLATINIMAS 
  
 
 
-5 straipsnis. Lietuvos standartai ir kiti leidiniai
+5 straipsnis. Standartai ir standartizacijos leidiniai
 
 
-1. Lietuvos standartai ir kiti leidiniai negali prieštarauti Lietuvos Respublikos teisės aktams.
-
-
-
-
-2. Lietuvos standartas identifikuojamas iš santrumpos „LST“ ir numerio. Perimtas tarptautinis ar Europos standartas ar kitas tarptautinių ar Europos standartizacijos organizacijų leidinys gali būti identifikuojamas iš santrumpos, kurią sudaro „LST“ bei perimamo tarptautinio ar Europos standarto ar kito leidinio santrumpa ir atitinkamas numeris.
+1. Nacionaliniai standartai ir perimtieji standartai negali prieštarauti Europos Sąjungos ir Lietuvos Respublikos teisės aktams. 
 
 
 
 
-3. Santrumpa „LST“ ir numeris negali būti vartojami jokiam kitam ne nacionalinės standartizacijos institucijos leidiniui žymėti.
+2. Nacionaliniai standartai ir nacionaliniai standartizacijos leidiniai, perimtieji standartai ir perimtieji standartizacijos leidiniai (toliau kartu – Lietuvos standartai ir standartizacijos leidiniai) identifikuojami iš santrumpos „LST“. Ši santrumpa negali būti vartojama jokiam kitam ne nacionalinės standartizacijos institucijos leidiniui žymėti.
 
 
 
 
-4. Išleisti standartai, kiti leidiniai ir jų rinkiniai įstatymų nustatyta tvarka gali būti žymimi autoriaus teisių apsaugos ženklu. Visų šių taip pažymėtų leidinių arba jų dalių negalima dauginti, atgaminti, perspausdinti ir platinti jokiomis formomis ir priemonėmis (elektroninėmis, mechaninėmis, įskaitant fotokopijavimą, mikrofilmavimą ir visas magnetines, kompiuterizuotas ir skaitmenines pagalbines sistemas, atminties plokštes, kompaktinius diskus, mikrofilmus, fotokopijas, skaidres, nuotolinį platinimą, kabelinį ir palydovinį ryšį, diskelius ir tiesioginės prieigos serverius bei tinklus, internetą ir kt.) be raštiško nacionalinės standartizacijos institucijos leidimo.
+3. Lietuvos standartai ir standartizacijos leidiniai, jų projektai Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo nustatyta tvarka žymimi autoriaus teisių apsaugos ženklu. 
 
 
 
 
-5. Lietuvos standartų ir kitų leidinių kalba – valstybinė kalba. Perimti tarptautiniai ar Europos standartai ir kiti leidiniai gali būti viena iš tarptautinių ar Europos standartizacijos organizacijų oficialiųjų kalbų, kol nėra oficialaus jų vertimo į lietuvių kalbą.
+4. Tarptautiniai standartai ar Europos standartai ir tarptautiniai standartizacijos leidiniai ar Europos standartizacijos leidiniai gali būti perimti viena iš tarptautinių standartizacijos institucijų ar Europos standartizacijos organizacijų oficialiųjų kalbų, kol nėra redakcijos lietuvių kalba.
 
 
 
 
-6. Tarptautiniai ir Europos standartai kaip Lietuvos standartai perimami nacionalinės standartizacijos institucijos nustatyta tvarka.
-
-
-
-
-7. Kiti tarptautinių ir Europos standartizacijos organizacijų leidiniai perimami nacionalinės standartizacijos institucijos nustatyta tvarka. Perimant kitus tarptautinių ir Europos standartizacijos organizacijų leidinius, nacionalinės standartizacijos institucijos leidinyje vietoj „Lietuvos standartas“ turi būti rašomi perimamų leidinių pavadinimai.
+5. Tarptautiniai standartai ar Europos standartai ir tarptautiniai standartizacijos leidiniai ar Europos standartizacijos leidiniai perimami nacionalinės standartizacijos institucijos nustatyta tvarka.
  
 
 
@@ -313,74 +223,30 @@ STANDARTAI IR KITI LEIDINIAI, JŲ RENGIMAS, TAIKYMAS, KAUPIMAS IR PLATINIMAS
 
 
 
-6 straipsnis. Standartų ir kitų leidinių rengimas ir informacijos apie juos skelbimas
+6 straipsnis. Nacionalinių standartų ir nacionalinių standartizacijos leidinių rengimas ir informacijos apie juos skelbimas 
 
 
-1. Lietuvos standartai ir kiti leidiniai rengiami pagal standartų programą, kurią sudaro ir tvirtina nacionalinė standartizacijos institucija. Informacija apie standartų programą skelbiama nacionalinės standartizacijos institucijos periodiniame leidinyje ir interneto svetainėje. 
-Straipsnio dalies pakeitimai:
-Nr. XI-2342, 2012-11-06, Žin., 2012, Nr. 132-6670 (2012-11-15), i. k. 1121010ISTA0XI-2342
- 
+1. Nacionaliniai standartai ir nacionaliniai standartizacijos leidiniai rengiami nacionalinės standartizacijos institucijos nustatyta tvarka. 
 
 
 
 
-2. Siūlymus dėl standartų programos gali pateikti suinteresuotos šalys nacionalinės standartizacijos institucijos nustatyta tvarka. Sudarant standartų programą pirmenybė teikiama darniųjų ir kitų Europos bei tarptautinių standartų perėmimui.
+2. Nacionaliniai standartai ir nacionaliniai standartizacijos leidiniai rengiami pagal darbo programą, kuri rengiama, skelbiama ir apie kurią pranešama Reglamente (ES) Nr. 1025/2012 nustatyta tvarka. Darbo programoje taip pat pateikiama informacija apie rengiamas perimtųjų standartų ir perimtųjų standartizacijos leidinių redakcijas lietuvių kalba.   
 
 
 
 
-3. Originalieji Lietuvos standartai rengiami vadovaujantis Vyriausybės nustatyta tvarka.
+3. Suinteresuotųjų subjektų atstovai, dalyvaujantys rengiant nacionalinius standartus ir nacionalinius standartizacijos leidinius, autorių turtines teises neatlygintinai perduoda nacionalinei standartizacijos institucijai.
 
 
 
 
-4. Nacionalinė standartizacijos institucija pirmumo teise rengia Lietuvos standartų projektus pagal valstybės institucijų pateiktus prašymus.
+4. Nacionalinė standartizacijos institucija nacionalinių standartų, tarptautinių standartų ir Europos standartų projektus pateikia viešajai apklausai, suteikdama nemokamą prieigą prie jų tekstų. Standartų santraukos nemokamai skelbiamos nacionalinės standartizacijos institucijos interneto svetainėje.
 
 
 
 
-5. Lietuvos standartų ir kitų leidinių rengimo ir priėmimo tvarką nustato nacionalinė standartizacijos institucija. Lietuvos standartų ir kitų leidinių projektus sutarimu rengia nacionalinės standartizacijos institucijos Technikos komitetai (toliau – Technikos komitetai). Nacionalinė standartizacijos institucija, jeigu nėra kurios nors srities Technikos komiteto, Lietuvos standarto ar kito leidinio projektui parengti suteikia įgaliojimus laikinajai darbo grupei, sudarytai nacionalinės standartizacijos institucijos nustatyta tvarka. Laikinoji darbo grupė vadovaujasi ta pačia Lietuvos standartų ir kitų leidinių rengimo ir priėmimo tvarka kaip ir Technikos komitetai.
-
-
-
-
-6. Lietuvos Respublikoje vykdoma viešoji apklausa dėl Lietuvos standartų projektų. Viešosios apklausos organizavimo tvarką nustato nacionalinė standartizacijos institucija. Informacija apie viešajai apklausai teikiamų Lietuvos standartų projektus skelbiama nacionalinės standartizacijos institucijos interneto svetainėje. Viešosios apklausos metu suinteresuotos šalys gali pateikti savo pastabas ir pasiūlymus nacionalinės standartizacijos institucijos nustatyta tvarka. Nacionalinės standartizacijos institucijos sprendimu viešajai apklausai gali būti teikiami ir kitų leidinių projektai. 
-Straipsnio dalies pakeitimai:
-Nr. XI-2342, 2012-11-06, Žin., 2012, Nr. 132-6670 (2012-11-15), i. k. 1121010ISTA0XI-2342
- 
-
-
-
-
-7. Lietuvos standartų ir kitų leidinių projektų rengimas yra prilyginamas kūrybinei veiklai. Lietuvos standartų ir kitų leidinių projektai rengiami pagal autorines sutartis.
-
-
-
-
-8. Lietuvos standarto ar kito leidinio projekto autoriai turtines autoriaus teises į standartų ar kitų leidinių projektus perduoda nacionalinei standartizacijos institucijai įstatymų, kitų teisės aktų ir sutarčių su autoriais nustatyta tvarka.
-
-
-
-
-9. Lietuvos standartų ir kitų leidinių projektus priima nacionalinė standartizacijos institucija. Lietuvos standartai ir kiti leidiniai leidžiami ir peržiūrimi nacionalinės standartizacijos institucijos nustatyta tvarka. Peržiūrint nustatoma, ar būtina Lietuvos standartą ar kitą leidinį keisti, ar paskelbti netekusiu galios, ar palikti galioti.
-
-
-
-
-10. Informaciją apie viešajai apklausai pateiktus, išleistus, numatomus skelbti netekusiais galios bei netekusius galios Lietuvos standartus ir kitus leidinius nacionalinė standartizacijos institucija skelbia naujausiame savo periodiniame leidinyje per 5 darbo dienas nuo atitinkamo fakto patvirtinimo interneto svetainėje. Informacija apie darniuosius Lietuvos standartus skelbiama Teisės aktų registre. 
-Straipsnio dalies pakeitimai:
-Nr. XI-2342, 2012-11-06, Žin., 2012, Nr. 132-6670 (2012-11-15), i. k. 1121010ISTA0XI-2342
- 
-
-
-
-
-11. Įmonės standarte negalima nustatyti žemesnių reikalavimų žmogaus ir gyvūnų sveikatai, gyvybei, aplinkai, materialinėms gėrybėms, vartotojų interesams apsaugoti ar kokybės rodikliams, negu yra nustatyta Lietuvos Respublikos teisės aktuose ar Lietuvos standartuose.
-
-
-
-
-12. Įmonės standartas turi būti pateikiamas valstybės institucijų reikalavimu pagal jų kompetenciją.
+5. Informacija apie standartizaciją ir jos rezultatus skelbiama nacionalinės standartizacijos institucijos periodiniame leidinyje. 
  
 
 
@@ -388,25 +254,25 @@ Nr. XI-2342, 2012-11-06, Žin., 2012, Nr. 132-6670 (2012-11-15), i. k. 1121010IS
 
 
 
-7 straipsnis. Standartų ir kitų leidinių taikymas
+7 straipsnis. Standartų taikymas
 
 
-1. Lietuvos standartai ir kiti leidiniai taikomi savanoriškai, išskyrus atvejus, kai teisės aktuose pateikta išskirtinė nuoroda į standartus ir kitus leidinius.
-
-
-
-
-2. Subjektams, savanoriškai pasirinkusiems ir teisės aktų nustatyta tvarka deklaravusiems, kad gaminiai ar paslaugos atitinka Lietuvos standartus ar kitus leidinius, deklaruotų standartų ar kitų leidinių techniniai reikalavimai tampa privalomi.
+1. Standartai taikomi savanoriškai, išskyrus atvejus, kai teisės aktuose yra nustatyta, kad jie privalomi. 
 
 
 
 
-3. Nacionalinė standartizacijos institucija nustato tarptautinių, Europos ir kitų regioninių ar užsienio valstybių standartų bei kitų leidinių taikymo Lietuvos Respublikoje tvarką. Lietuvoje taikomi standartai ir kiti leidiniai negali prieštarauti Lietuvos Respublikos teisės aktams.
+2. Prieš nustatant privalomą perimtųjų standartų taikymą, turi būti parengtos jų redakcijos lietuvių kalba.  
 
 
 
 
-4. Nacionalinė standartizacijos institucija skelbia netekusiais galios Lietuvos Respublikoje galiojančius standartus ir kitus leidinius.
+3. Informaciją apie privalomai taikomus perimtuosius standartus nacionalinė standartizacijos institucija teikia Europos standartizacijos organizacijoms. 
+
+
+
+
+4. Gamintojams ar paslaugų teikėjams, savanoriškai pasirinkusiems ir deklaravusiems, kad jų produktai, gamybos procesai ar paslaugos atitinka standartus, deklaruotų standartų techniniai reikalavimai tampa privalomi.
  
 
 
@@ -414,54 +280,15 @@ Nr. XI-2342, 2012-11-06, Žin., 2012, Nr. 132-6670 (2012-11-15), i. k. 1121010IS
 
 
 
-8 straipsnis. Leidinių fondo kaupimas ir jų platinimas
+8 straipsnis. Standartų ir standartizacijos leidinių kaupimas ir jų platinimas
 
 
-1. Nacionalinė standartizacijos institucija plėtoja ir tobulina standartizacijos informacijos sistemą, kaupia viešą standartų, jų rinkinių, katalogų ir kitų leidinių fondą.
-
-
-
-
-2. Nacionalinė standartizacijos institucija turi išimtinę teisę leisti ir platinti Lietuvos standartus ir kitus leidinius, platinti standartus ir kitus leidinius tų organizacijų, kurių narė yra arba su kuriomis sudarytos sutartys.
+1. Nacionalinė standartizacijos institucija valdo standartizacijos informacinę sistemą, kurioje kaupia Lietuvos standartus ir standartizacijos leidinius, tarptautinių standartizacijos institucijų ir Europos standartizacijos organizacijų, kurių narė ji yra, standartus ir standartizacijos leidinius. 
 
 
 
 
-3. Nacionalinė standartizacijos institucija gali leisti ir platinti periodinius leidinius.
- 
-
-
-
-
-
-
-9 straipsnis. Valstybės ir savivaldybių institucijų dalyvavimas rengiant ir taikant standartus
-
-
-Valstybės ir savivaldybių institucijos, pripažindamos savanoriškai taikomų Lietuvos standartų svarbą, reikalingumą ir naudą valstybės valdymui bei visuomenės poreikių tenkinimui:
-
-
-1) gali skirti valstybės biudžeto lėšų savo programų, reikalingų Lietuvos standartų ir kitų leidinių projektams rengti, vykdymui užtikrinti bei taikomosioms mokslo tiriamųjų darbų programoms standartizacijos srityje vykdyti įstatymų ir kitų teisės aktų nustatyta tvarka;
-
-
-
-
-2) gali skirti savo atstovus į jų veiklos sritį atitinkančius Technikos komitetus, taip pat dalyvauti standartizacijos tarybos, sektorinių komitetų ir komisijų darbe šio įstatymo 13–16 straipsniuose nustatyta tvarka;
-
-
-
-
-3) teikia siūlymus nacionalinei standartizacijos institucijai dėl rengiamų Lietuvos standartų programų ir institucijos nuomonę dėl rengiamų Lietuvos, tarptautinių ir Europos standartų bei kitų leidinių projektų;
-
-
-
-
-4) informuoja nacionalinę standartizacijos instituciją apie rengiamas tarptautines sutartis, susijusias su standartizacija, ir apie visus rengiamus techninių reglamentų projektus;
-
-
-
-
-5) spręsdamos jų veiklos sričiai svarbius su standartizacija susijusius klausimus, palaiko ryšius su nacionaline standartizacijos institucija, prireikus teikia siūlymus nacionalinei standartizacijos institucijai dėl šio įstatymo įgyvendinimo bei standartizaciją reglamentuojančių teisės aktų tobulinimo.
+2. Nacionalinė standartizacijos institucija turi išimtinę teisę leisti ir platinti Lietuvos standartus ir standartizacijos leidinius, taip pat platinti tarptautinių standartizacijos institucijų ir Europos standartizacijos organizacijų, kurių narė ji yra, standartus ir standartizacijos leidinius. 
  
 
 
@@ -471,62 +298,33 @@ Valstybės ir savivaldybių institucijos, pripažindamos savanoriškai taikomų 
 
 
 
-
-
-KETVIRTASIS SKIRSNIS 
-TECHNINIAI REGLAMENTAI
+IV SKYRIUS
+STANDARTIZACIJOJE DALYVAUJANČIOS INSTITUCIJOS IR NACIONALINĖS STANDARTIZACIJOS INSTITUCIJOS FINANSAVIMAS
  
 
 
-10 straipsnis. Techniniai reglamentai
+9 straipsnis. Nacionalinė standartizacijos institucija
 
 
-1. Techninius reglamentus rengia valstybės institucijos pagal savo kompetenciją įstatymų ir kitų teisės aktų nustatyta tvarka.
-
-
-
-
-2. Jeigu gaminio ar paslaugos techniniai reikalavimai pateikti Lietuvos standarte ar kitame leidinyje (standartuose ar kituose leidiniuose), techniniame reglamente gali būti pateikiama tik nuoroda į Lietuvos standartą ar kitą leidinį (standartus ar kitus leidinius).
+1. Nacionalinę standartizacijos instituciją skiria Lietuvos Respublikos Vyriausybė. 
 
 
 
 
-3. Techniniame reglamente teikiamosios ar išskirtinės nuorodos gali būti pateikiamos į Lietuvos standartus ir kitus leidinius arba į perimtus tarptautinius ar Europos standartus ir kitus leidinius.
+2. Nacionalinės standartizacijos institucijos tikslai yra šie:
+
+
+1) dalyvauti formuojant valstybės politiką standartizacijos srityje ir ją įgyvendinti;
 
 
 
 
-4. Techniniais reglamentais ir atitinkamais Lietuvos standartais siekiama sudaryti sąlygas, kad tiekiami į rinką gaminiai, jei jie naudojami ir prižiūrimi pagal gamintojo nurodytus reikalavimus, taip pat teikiamos paslaugos būtų saugūs, nekenksmingi žmonių bei gyvūnų sveikatai ir gyvybei, vartotojams, aplinkai ir materialinėms gėrybėms. Laikoma, kad šios sąlygos sudarytos, kai:
-
-
-1) teisės aktų nustatyta tvarka deklaruojama, kad gaminys ar paslauga atitinka techninio reglamento reikalavimus, ir gaminys yra paženklinamas teisės aktų nustatyta tvarka, o jei techniniame reglamente numatytos privalomos gaminio atitikties įvertinimo procedūros, – kai yra pateikti atitikties įvertinimą patvirtinantys dokumentai;
+2) atstovauti nacionaliniams interesams tarptautinių standartizacijos institucijų ir Europos standartizacijos organizacijų veikloje;
 
 
 
 
-2) teisės aktų nustatyta tvarka deklaruojama, kad gaminys ar paslauga atitinka Lietuvos standartą ar kitą leidinį, susijusį su techniniu reglamentu. Lietuvos standartas ar kitas leidinys laikomas susijusiu su techniniu reglamentu, jeigu jis yra darnusis Lietuvos standartas arba Lietuvos standartas ar kitas leidinys, į kurį techniniame reglamente pateikta nuoroda;
-
-
-
-
-3) nesant techninio reglamento, teisės aktų nustatyta tvarka deklaruojama, kad gaminys ar paslauga atitinka Lietuvos standartą ar kitą leidinį;
-
-
-
-
-4) gamintojui savo noru pasirinkus kitą, nei šio straipsnio 4 dalies 2 ar 3 punktuose nurodyti, atvejį, atitinkantį naujausią mokslo ir technikos lygį, teisės aktų nustatyta tvarka įrodoma, kad pagal šį sprendimą pagamintas gaminys ar teikiama paslauga atitinka techninį reglamentą, arba, jeigu nėra techninio reglamento, kad yra saugūs, nekenksmingi žmonių bei gyvūnų sveikatai ir gyvybei, aplinkai, materialinėms gėrybėms ir vartotojams.
-
-
-
-
-
-
-5. Tais atvejais, kai teisės aktų nustatyta tvarka deklaruojama, kad gaminys ar paslauga atitinka darnųjį Lietuvos standartą (standartus), sudaroma prielaida, kad gaminys ar paslauga atitinka techninio reglamento, su kuriuo susijęs darnusis Lietuvos standartas (standartai), esminius reikalavimus.
-
-
-
-
-6. Jeigu Lietuvos standarte ar kitame leidinyje yra nustatyti kitokie reikalavimai negu tie, kurie nustatyti techniniame reglamente, taikomas techninis reglamentas.
+3) rengti nacionalinius standartus ir nacionalinius standartizacijos leidinius, skelbti informaciją apie juos, kaupti ir platinti nacionalinius standartus ir nacionalinius standartizacijos leidinius.
  
 
 
@@ -536,25 +334,20 @@ TECHNINIAI REGLAMENTAI
 
 
 
-PENKTASIS SKIRSNIS 
-NACIONALINĖ STANDARTIZACIJOS INSTITUCIJA
- 
+10 straipsnis. Standartizacijos taryba
 
 
-11 straipsnis. Nacionalinė standartizacijos institucija
-
-
-1. Nacionalinė standartizacijos institucija yra Lietuvos standartizacijos departamentas.
+1. Strateginiams standartizacijos klausimams svarstyti sudaroma Standartizacijos taryba. Jos sprendimai yra rekomendacinio pobūdžio. 
 
 
 
 
-2. Nacionalinė standartizacijos institucija, vykdydama viešąjį administravimą, įgyvendina šio įstatymo nustatytus uždavinius ir funkcijas, tobulina ir plėtoja standartizaciją Lietuvos Respublikoje.
+2. Standartizacijos tarybą sudaro ne mažiau kaip 9 nariai, kurių vienas trečdalis – valstybės ir savivaldybių institucijų ir įstaigų atstovai, vienas trečdalis – gamintojų ir paslaugų teikėjų institucijų ir asociacijų atstovai, vienas trečdalis – vartotojų bei mokslo ir studijų institucijų, profesinių ir kitų nevyriausybinių organizacijų atstovai.
 
 
 
 
-3. Nacionalinė standartizacijos institucija veikia vadovaudamasi Lietuvos Respublikos įstatymais, Vyriausybės nutarimais ir kitais teisės aktais.
+3. Standartizacijos tarybos personalinę sudėtį tvirtina ir jos darbo organizavimo tvarką nustato Vyriausybės įgaliota institucija.
  
 
 
@@ -562,63 +355,65 @@ NACIONALINĖ STANDARTIZACIJOS INSTITUCIJA
 
 
 
-12 straipsnis. Pagrindiniai nacionalinės standartizacijos institucijos uždaviniai ir funkcijos
+11 straipsnis. Technikos komitetai
 
 
-1. Pagrindiniai nacionalinės standartizacijos institucijos uždaviniai yra šie:
-
-
-1) dalyvauti formuojant ir įgyvendinant kartu su suinteresuotomis šalimis valstybės politiką standartizacijos srityje;
+1. Nacionalinė standartizacijos institucija iš suinteresuotųjų subjektų (viešojo sektoriaus subjektų, ūkio subjektų, vartotojų ir kitų nevyriausybinių organizacijų) atstovų sudaro nacionalinės standartizacijos institucijos technikos komitetus (toliau – technikos komitetai). Technikos komitetai nėra juridiniai asmenys. Technikos komitetai sudaromi, jeigu tam tikroje standartizacijos srityje ne mažiau kaip keturi suinteresuotieji subjektai raštu nacionalinei standartizacijos institucijai pareiškia norą sudaryti technikos komitetą.
 
 
 
 
-2) vykdyti ir plėtoti standartizaciją Lietuvos Respublikoje;
+2. Technikos komitetų funkcijos – rengti nacionalinius standartus ir nacionalinius standartizacijos leidinius, konsultuoti dėl jų taikymo, dalyvauti tarptautinių standartizacijos institucijų ir Europos standartizacijos organizacijų veikloje rengiant tarptautinius standartus ar Europos standartus ir tarptautinius standartizacijos leidinius ar Europos standartizacijos leidinius.
 
 
 
 
-3) atstovauti Lietuvos interesams Europos ir tarptautinių standartizacijos organizacijų veikloje.
+3. Technikos komitetai yra atsakingi už savo veiklos srities rengiamų ir nacionalinės standartizacijos institucijos išleistų nacionalinių standartų ir nacionalinių standartizacijos leidinių turinį.
+
+
+
+
+4. Technikos komitetų atstovų dalyvavimo tarptautinių standartizacijos institucijų ir Europos standartizacijos organizacijų technikos komitetų veikloje išlaidos finansuojamos iš nacionalinei standartizacijos institucijai skirtų Lietuvos Respublikos valstybės biudžeto lėšų ir kitų pajamų, gautų atliekant šios institucijos funkcijas.
+
+
+
+
+5. Nacionalinė standartizacijos institucija nustato technikos komitetų sudarymo ir jų darbo organizavimo, suinteresuotųjų subjektų dalyvavimo technikos komitetuose ir technikos komitetų atstovų atrankos ir dalyvavimo tarptautinių standartizacijos institucijų ir Europos standartizacijos organizacijų technikos komitetų veikloje tvarką.
+ 
 
 
 
 
 
 
-2. Nacionalinė standartizacijos institucija atlieka šias pagrindines funkcijas:
+12 straipsnis. Nacionalinės standartizacijos institucijos finansavimas
 
 
-1) rengia Lietuvos standartus ir kitus leidinius;
-
-
-
-
-2) atstovaudama nacionalinės ekonomikos interesams dalyvauja tarptautinių ir Europos standartizacijos organizacijų veikloje;
+1. Nacionalinės standartizacijos institucijos veikla yra finansuojama iš valstybės biudžeto lėšų ir kitų pajamų, gautų atliekant šios institucijos funkcijas.
 
 
 
 
-3) tobulina standartizacijos vadybos ir informacijos sistemą, teikia informaciją apie Lietuvos Respublikos techninius reglamentus, standartus ir atitikties įvertinimo procedūras Vyriausybės nustatyta tvarka, taip pat informaciją standartizacijos klausimais visuomenei ir valstybės bei savivaldybių institucijoms;
+2. Valstybės biudžeto lėšos ir kitos pajamos, gautos atliekant nacionalinės standartizacijos institucijos funkcijas, skiriamos šio įstatymo 9  straipsnio 2 dalyje nurodytų nacionalinės standartizacijos institucijos tikslų  įgyvendinimui finansuoti.  
+ 
 
 
 
 
-4) planuoja ir koordinuoja visų veiklos sričių standartizacijos darbus, metodiškai jiems vadovauja, tobulina ir plėtoja standartizaciją Lietuvos Respublikoje bei organizuoja šios srities teisės aktų rengimą;
+
+
+13 straipsnis. Valstybės ir savivaldybių institucijų ir įstaigų dalyvavimas standartizacijoje
+
+
+Valstybės ir savivaldybių institucijos ir įstaigos, pripažindamos savanoriškai taikomų standartų svarbą, reikalingumą ir naudą įgyvendinant viešosios politikos tikslus ir tenkinant visuomenės poreikius:
+
+
+1) teikia pasiūlymus nacionalinei standartizacijos institucijai dėl nacionalinių standartų ir perimtųjų standartų, kuriuos numato skelbti privalomais, redakcijų lietuvių kalba parengimo; 
 
 
 
 
-5) sudaro Technikos komitetus ir sąlygas visoms suinteresuotoms šalims dalyvauti jų veikloje;
-
-
-
-
-6) kuria Lietuvos standartuose vartotinus terminus, atlieka jų ekspertizę ir juos tvarko duomenų bazėje, užtikrindama prieinamumą visuomenei, laikantis autorių ir gretutines teises bei prieinamumą prie duomenų bazių reglamentuojančių teisės aktų ir narystės tarptautinėse ir Europos standartizacijos organizacijose reikalavimų;
-
-
-
-
-7) organizuoja ir vykdo standartizacijos specialistų kvalifikacijos kėlimą bei vykdo neformalųjį suaugusiųjų švietimą ir jų kvalifikacijos tobulinimą standartizacijos srityje, vykdo taikomuosius mokslo tiriamuosius darbus standartizacijos srityje ir informacinę bei agitacinę veiklą, įtraukdama į aktyvų dalyvavimą standartizacijoje suinteresuotas šalis, teikia nacionalinės standartizacijos institucijos nuostatuose nustatytas paslaugas, steigia visuomenės informavimo priemones, įmones ir organizacijas, kurios veikia pagal atitinkamos rūšies įmonių ir organizacijų įstatymus, atlieka kitas teisės aktuose nustatytas funkcijas.
+2) dalyvauja nacionalinėje standartizacijoje, deleguoja savo atstovus į jų veiklos sritį atitinkančius technikos komitetus. 
  
 
 
@@ -628,202 +423,10 @@ NACIONALINĖ STANDARTIZACIJOS INSTITUCIJA
 
 
 
-13 straipsnis. Standartizacijos taryba
+14 straipsnis. Atstovavimas Vyriausybei
 
 
-1. Strateginiams standartizacijos klausimams svarstyti sudaroma standartizacijos taryba. Standartizacijos tarybos personalinę sudėtį ir darbo reglamentą tvirtina Vyriausybės įgaliota institucija.
-
-
-
-
-2. Standartizacijos tarybą sudaro ne mažiau kaip 15 narių, atstovaujančių suinteresuotoms šalims. Vieną trečdalį narių sudaro valstybės ir savivaldybių institucijų atstovai, vieną trečdalį narių sudaro gamintojų ir paslaugų teikėjų institucijų ir asociacijų atstovai, likusios vietos skiriamos vartotojų bei mokslo ir studijų institucijoms, profesinėms ir kitoms nevyriausybinėms organizacijoms.
-
-
-
-
-3. Vyriausybės įgaliota institucija, Lietuvos pramonininkų konfederacija ir nacionalinė standartizacijos institucija turi teisę turėti po vieną savo atstovą standartizacijos taryboje papildomai.
-
-
-
-
-4. Standartizacijos tarybos narių darbas gali būti apmokamas įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-14 straipsnis. Nacionalinės standartizacijos institucijos Technikos komitetai
-
-
-1. Nacionalinė standartizacijos institucija sudaro Technikos komitetus, kuriuose savanoriškai ir lygiomis teisėmis nacionalinės standartizacijos institucijos nustatyta tvarka dalyvauja visos suinteresuotos šalys. Technikos komitetų sekretoriai yra nacionalinės standartizacijos institucijos darbuotojai. Technikos komitetas nėra juridinis asmuo ir savo veikloje naudojasi nacionalinės standartizacijos institucijos, kaip juridinio asmens, vardu.
-
-
-
-
-2. Pagrindinė Technikos komitetų funkcija – rengti Lietuvos standartų ir kitų leidinių projektus ir priimti juos sutarimu, dalyvauti techniniame tarptautinių ir Europos standartizacijos organizacijų darbe: rengiant standartų ir kitų leidinių projektus ir teikiant pastabas dėl parengtų projektų viešosios apklausos ir balsavimo procedūrų metu, vadovaujantis šių organizacijų ir nacionalinės standartizacijos institucijos nustatyta tvarka.
-
-
-
-
-3. Nacionalinė standartizacijos institucija įgalioja Technikos komitetų atstovus dalyvauti tarptautinių ir Europos standartizacijos organizacijų techniniame darbe ir atstovauti nacionalinės ekonomikos interesams.
-
-
-
-
-4. Technikos komitetų sudarymo tvarką nustato, jų nuostatus ir veiklos planus tvirtina nacionalinė standartizacijos institucija.
-
-
-
-
-5. Tiesiogiai Technikos komitetų darbe dalyvauja suinteresuotų šalių įgaliotieji atstovai. Technikos komitetų narių ir jų įgaliotųjų atstovų funkcijas, teises ir pareigas nustato kiekvieno Technikos komiteto nuostatai. Suinteresuota šalis apmoka išlaidas (komandiruočių, ūkio ir kitas), susijusias su įgaliotojo atstovo dalyvavimu Technikos komiteto darbe. Dalyvaudamos standartizacijoje ir įsigydamos standartus, suinteresuotos šalys tenkina savo interesus ir netiesiogiai remia nacionalinę standartizaciją.
-
-
-
-
-6. Suinteresuotos šalys, finansavusios standarto projekto rengimą, turi teisę neatlygintinai gauti priimtą ir išleistą standartą, jeigu tai numatyta sutartyje.
- 
-
-
-
-
-
-
-15 straipsnis. Nacionalinės standartizacijos institucijos sektorių komitetai
-
-
-1. Esant suinteresuotų šalių poreikiui, atskiriems sektoriams (statybos, žemės ūkio, elektrotechnikos ir kitose srityse) gali būti sudaromi nacionalinės standartizacijos institucijos sektorių komitetai, skirti atitinkamo sektoriaus Technikos komitetų darbui koordinuoti ir sektoriaus strategijai formuoti.
-
-
-
-
-2. Sektorių komitetų sudarymo tvarką, darbo reglamentą ir įgaliojimus nustato nacionalinė standartizacijos institucija.
- 
-
-
-
-
-
-
-16 straipsnis. Nacionalinės standartizacijos institucijos komisijos
-
-
-1. Nacionalinės standartizacijos institucijos komisijos, atstovaujančios suinteresuotoms šalims, gali būti sudaromos nacionalinės standartizacijos institucijos veiklai koordinuoti ir vystyti.
-
-
-
-
-2. Nacionalinė standartizacijos institucija sudaro nuolatines Vartotojų ir Technikos komisijas. Nacionalinė standartizacijos institucija gali sudaryti ir kitas nuolatines ar laikinąsias komisijas.
-
-
-
-
-3. Vartotojų komisijos sudarymo tvarką, nuostatus ir vartotojų dalyvavimo standartizacijoje finansavimo tvarką tvirtina Vyriausybės įgaliota institucija. Kitų komisijų sudarymo tvarką, darbo reglamentą ir įgaliojimus nustato nacionalinė standartizacijos institucija.
-
-
-
-
-4. Vyriausybės įgaliotoji institucija, nurodyta šio įstatymo 19 straipsnyje, turi teisę turėti savo atstovą nacionalinės standartizacijos institucijos komisijoje.
- 
-
-
-
-
-
-
-17 straipsnis. Nacionalinės standartizacijos institucijos finansavimas
-
-
-1. Lietuvos valstybės biudžeto lėšos skiriamos finansuoti nacionalinės standartizacijos institucijos vykdomoms programoms, susijusioms su:
-
-
-1) Lietuvos standartų ir kitų leidinių rengimu, jeigu tai susiję su teisės aktų įgyvendinimu arba perimami tarptautiniai ir Europos standartai;
-
-
-
-
-2) narystės tarptautinėse ir Europos standartizacijos organizacijose mokesčių mokėjimu ir dalyvavimu šių organizacijų veikloje;
-
-
-
-
-3) informacijos apie Lietuvos techninius reglamentus, standartus ir atitikties įvertinimo procedūras teikimu;
-
-
-
-
-4) visų veiklos sričių standartizacijos darbų koordinavimu, standartizacijos tobulinimu ir plėtojimu;
-
-
-
-
-5) Lietuvos standartuose vartojamų terminų kūrimu, ekspertizės atlikimu ir terminų straipsnių tvarkymu;
-
-
-
-
-6) vartotojų dalyvavimo standartizacijoje rėmimu;
-
-
-
-
-7) taikomųjų mokslo tiriamųjų darbų standartizacijos srityje vykdymu;
-
-
-
-
-8) standartizacijos specialistų kvalifikacijos kėlimu ir neformaliuoju suaugusiųjų švietimu bei jų kvalifikacijos tobulinimu standartizacijos srityje;
-
-
-
-
-9) kitų su standartizacija susijusių darbų vykdymu.
-
-
-
-
-
-
-2. Biudžetinių lėšų panaudojimas kontroliuojamas įstatymų nustatyta tvarka.
-
-
-
-
-3. Nacionalinės standartizacijos institucijos pajamos yra pajamos, gautos atliekant funkcijas, numatytas jos veiklą reglamentuojančiuose dokumentuose ir, vadovaujantis įstatymais ir Vyriausybės nutarimais, naudojamos jos išlaidoms dengti bei kitiems institucijos poreikiams.
- 
-
-
-
-
-
-
-18 straipsnis. Nacionalinės standartizacijos institucijos finansinės veiklos kontrolė ir auditas
-
-
-Nacionalinės standartizacijos institucijos finansinės veiklos kontrolė ir auditas vykdomi įstatymų nustatyta tvarka.
- 
-
-
-
-
-
-
-19 straipsnis. Nacionalinės standartizacijos institucijos veiklos priežiūra
-
-
-Nacionalinės standartizacijos institucijos veiklos priežiūrą atlieka Vyriausybės įgaliota institucija.
- 
-
-
-
-
-
-
-20 straipsnis. Atstovavimas Lietuvos Respublikos Vyriausybei
-
-
-Vyriausybės įgaliota institucija atstovauja Lietuvos Respublikos Vyriausybei Europos ir tarptautinėse institucijose, nagrinėjančiose standartizacijos politikos klausimus vyriausybių lygiu.
+Vyriausybės įgaliota institucija atstovauja Vyriausybei tarptautinėse ir Europos Sąjungos institucijose, nagrinėjančiose standartizacijos politikos klausimus vyriausybių lygiu.
 
 
 
@@ -842,6 +445,21 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
+
+
+
+
+ 
+Lietuvos Respublikos 
+standartizacijos įstatymo 
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+2012 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1025/2012 dėl Europos standartizacijos, kuriuo iš dalies keičiamos Tarybos direktyvos 89/686/EEB ir 93/15/EEB ir Europos Parlamento ir Tarybos direktyvos 94/9/EB, 94/25/EB, 95/16/EB, 97/23/EB, 98/34/EB, 2004/22/EB, 2007/23/EB, 2009/23/EB ir 2009/105/EB ir panaikinamas Tarybos sprendimas 87/95/EEB ir Europos Parlamento ir Tarybos sprendimas Nr. 1673/2006/EB.
+Papildyta priedu:
+Nr. XIII-3057, 2020-06-11, paskelbta TAR 2020-06-19, i. k. 2020-13474
+ 
  
  
 Pakeitimai:
@@ -855,3 +473,8 @@ Lietuvos Respublikos standartizacijos įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2342, 2012-11-06, Žin., 2012, Nr. 132-6670 (2012-11-15), i. k. 1121010ISTA0XI-2342
 Lietuvos Respublikos standartizacijos įstatymo 6 straipsnio pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3057, 2020-06-11, paskelbta TAR 2020-06-19, i. k. 2020-13474
+Lietuvos Respublikos standartizacijos įstatymo Nr. VIII-1618 pakeitimo įstatymas
