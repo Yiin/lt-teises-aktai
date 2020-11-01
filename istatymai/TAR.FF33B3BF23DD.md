@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2020-06-15 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2020-12-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -6723,9 +6723,10 @@ Nr. XI-664, 2010-01-20, Žin., 2010, Nr. 13-624 (2010-02-02)
 
 
 
-3. Kompensuojamieji vaistiniai preparatai ir kompensuojamosios medicinos pagalbos priemonės vaistinei ir asmens sveikatos priežiūros įstaigai parduodami ne brangiau kaip už didmeninę kainą, kuri apskaičiuojama prie vaistinio preparato ar medicinos pagalbos priemonės tiekėjo Lietuvai taikomos vaistinio preparato ar medicinos pagalbos priemonės kainos pridedant ne didesnį negu sveikatos apsaugos ministro nustatytą didmeninės prekybos antkainį. 
+3. Kompensuojamieji vaistiniai preparatai ir kompensuojamosios medicinos pagalbos priemonės vaistinei, asmens sveikatos priežiūros įstaigai ir ūkio subjektams, nurodytiems Lietuvos Respublikos sveikatos draudimo įstatymo 262 straipsnyje, parduodami ne brangiau kaip už didmeninę kainą, kuri apskaičiuojama prie vaistinio preparato ar medicinos pagalbos priemonės tiekėjo Lietuvai taikomos vaistinio preparato ar medicinos pagalbos priemonės kainos pridedant ne didesnį negu sveikatos apsaugos ministro nustatytą didmeninės prekybos antkainį. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
+Nr. XIII-2589, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20022
  
 
 
@@ -8533,7 +8534,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
  
  
-part_8e4f518f7d3f47e3ba671d2af3af6c4b_end
+part_64586339d0164c7fb9b9dd5987b0bbca_end
 
 
 Pakeitimai:
@@ -8778,3 +8779,8 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 8 straipsnio pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2963, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11338
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 20 straipsnio pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2589, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20022
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 57 straipsnio pakeitimo įstatymas
