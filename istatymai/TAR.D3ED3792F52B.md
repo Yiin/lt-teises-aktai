@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-08-01 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2020-11-20
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -97,7 +97,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-11. Valstybės tarnyba – valstybės ir savivaldybių institucijose ir įstaigose pareigas einančių asmenų profesinė veikla, kuria atliekamos viešojo administravimo funkcijos ir (arba) padedama valstybės ar vietos valdžią įgyvendinantiems asmenims atlikti jiems nustatytas funkcijas, išskyrus ūkinio ir (ar) techninio pobūdžio funkcijas.
+11. Valstybės tarnyba – valstybės ir savivaldybių institucijose ir įstaigose pareigas einančių asmenų profesinė veikla, kuria atliekamos viešojo administravimo funkcijos arba užtikrinamas diplomatinės tarnybos institucijų funkcionavimas, arba padedama valstybės ar vietos valdžią įgyvendinantiems asmenims atlikti jiems nustatytas funkcijas, išskyrus ūkinio ir (ar) techninio pobūdžio funkcijas.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2989, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12821
  
 
 
@@ -4086,3 +4088,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 3, 9, 16, 18, 19, 32, 33, 34, 48, 53, 54 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 33-1 straipsniu įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2989, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12821
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 2 straipsnio pakeitimo įstatymas
