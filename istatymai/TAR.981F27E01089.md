@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.981F27E01089"
 
 # Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymas
 
-Suvestinė redakcija nuo 2020-10-30 iki 2020-10-31
+Suvestinė redakcija nuo 2020-11-01 iki 2022-08-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 81-3322, i. k. 1071010ISTA00X-1262
  
@@ -540,7 +540,10 @@ DELEGUOTO ASMENS PAREIGOS
 18 straipsnis. Delegavimas
 
 
-1. Priimančiajai institucijai informavus, kad pretendentas priimamas į laisvas pareigas, arba esant kitoms tarptautinių sutarčių ar Europos Sąjungos teisės aktų nustatytoms sąlygoms, jo delegavimą tvirtina šio įstatymo 3 straipsnyje nurodytos deleguojančiosios institucijos vadovas. Apie tai, kad pretendentas priimamas dirbti į priimančiąją instituciją, Užsienio reikalų ministerija praneša Vyriausybės įgaliotai įstaigai ir deleguojančiajai institucijai. Pretendentas, kuris yra karjeros valstybės tarnautojas, statutinis valstybės tarnautojas ar valstybės pareigūnas, deleguojamas su jo rašytiniu sutikimu arba prašymu perkeliant į pareigas priimančiojoje institucijoje. Informaciją apie jo delegavimą Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka deleguojančioji institucija pateikia Užsienio reikalų ministerijai ir Vyriausybės įgaliotai įstaigai. 
+1. Priimančiajai institucijai informavus, kad pretendentas priimamas į laisvas pareigas, arba esant kitoms tarptautinių sutarčių ar Europos Sąjungos teisės aktų nustatytoms sąlygoms, jo delegavimą tvirtina šio įstatymo 3 straipsnyje nurodytos deleguojančiosios institucijos vadovas. Apie tai, kad pretendentas priimamas dirbti į priimančiąją instituciją, Užsienio reikalų ministerija praneša deleguojančiajai institucijai. Pretendentas, kuris yra karjeros valstybės tarnautojas, statutinis valstybės tarnautojas ar valstybės pareigūnas, deleguojamas su jo rašytiniu sutikimu arba prašymu perkeliant į pareigas priimančiojoje institucijoje. Informaciją apie pretendento delegavimo patvirtinimą deleguojančioji institucija pateikia Užsienio reikalų ministerijai ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3326, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22471
+ 
 
 
 
@@ -869,7 +872,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
  
 
 
@@ -877,6 +880,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+
+ 
 
  
 Lietuvos Respublikos 
@@ -972,31 +977,35 @@ SU DARBU UŽSIENYJE SUSIJUSIŲ IŠLAIDŲ KOMPENSACIJA
  2.2. Prokurorai: 
 
 
- 2.2.1. kurių pareiginės algos koeficientas 20,2–21,2 
- 9,70 
+ 2.2.1. kurių pareiginės algos koeficientas 20,2–22,9 
+ 10,87 
 
 
  2.2.2. kurių pareiginės algos koeficientas 19,0–19,2 
- 8,93 
+ 9,70 
 
 
  2.2.3. kurių pareiginės algos koeficientas 18,5–18,6 
- 8,15 
+ 8,93 
 
 
  2.2.4. kurių pareiginės algos koeficientas 17,3–17,7 
- 6,99 
+ 8,15 
 
 
  2.2.5. kurių pareiginės algos koeficientas 16,5–17,0 
- 5,82 
+ 6,99 
 
 
  2.2.6. kurių pareiginės algos koeficientas 15,7–16,0 
+ 5,82 
+
+
+ 2.2.7. kurių pareiginės algos koeficientas 15,2 
  5,05 
 
 
- 2.2.7. kurių pareiginės algos koeficientas 13,9–15,2 
+ 2.2.8. kurių pareiginės algos koeficientas 13,9 
  4,27 
 
 
@@ -1117,6 +1126,7 @@ SU DARBU UŽSIENYJE SUSIJUSIŲ IŠLAIDŲ KOMPENSACIJA
  
 Priedo pakeitimai:
 Nr. XIII-2906, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10903
+Nr. XIII-3326, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22471
  
  
  
@@ -1166,3 +1176,6 @@ Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos ins
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3326, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22471
 Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo Nr. X-1262 10, 18 straipsnių ir priedo pakeitimo įstatymas
+ 
+ 
+part_84fd3c065c4e47268879d5fb26f9dbad_end
