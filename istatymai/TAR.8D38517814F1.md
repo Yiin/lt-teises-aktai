@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2020-11-03
+Suvestinė redakcija nuo 2020-11-04 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -2324,6 +2324,10 @@ Nr. IX-1615, 2003-06-10, Žin., 2003, Nr. 61-2768 (2003-06-27)
 
 
 4. Programos lėšos naudojamos einamaisiais biudžetiniais metais šio straipsnio 3 dalyje numatytoms priemonėms finansuoti, o jeigu nėra galimybės, – perkeliamos į kitus biudžetinius metus.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos atliekų tvarkymo įstatymo 34 straipsnio (2015 m. birželio 23 d. redakcija; TAR, 2015-06-29, Nr. 10371) 4 dalis prieštarauja Lietuvos Respublikos Konstitucijos 129 straipsniui, 131 straipsnio 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
+Straipsnio dalies pakeitimai:
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
+ 
 
 
 
@@ -5004,3 +5008,8 @@ Dėl Lietuvos Respublikos atliekų tvarkymo įstatymo, Lietuvos Respublikos atli
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3157, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15135
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
+Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
