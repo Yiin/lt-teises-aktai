@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A7D82E8EDC6B"
 
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-11-03
+Suvestinė redakcija nuo 2020-11-04 iki 2020-11-18
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2873, i. k. 1001010ISTAIII-2032
  
@@ -141,9 +141,11 @@ Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
 
 
 1. Programai finansuoti skiriama 50 procentų, o nuo 2021 m. sausio 1 d. – 52 procentai akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus, suskystintas dujas, skirtas automobiliams, ir energetinius produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai.
+TAR pastaba. Pripažinti, kad kad Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 4 straipsnio 1 dalis (2019 m. gegužės 16 d. redakcija, įsigaliojusi 2020 m. sausio 1 d.; TAR, 2019-05-24, Nr. 8304) prieštarauja Lietuvos Respublikos Konstitucijos 67 straipsnio 14 punkto nuostatai, kad Seimas tvirtina valstybės biudžetą, 94 straipsnio 4 punkto nuostatai, kad Vyriausybė rengia valstybės biudžeto projektą, 129 straipsniui, 130 straipsnio nuostatai, kad valstybės biudžeto projektą sudaro Vyriausybė, 131 straipsnio 1 dalies nuostatai, kad valstybės biudžeto projektą svarsto Seimas ir tvirtina įstatymu, 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
 Straipsnio dalies pakeitimai:
 Nr. XIII-812, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20006
 Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
  
 
 
@@ -557,8 +559,11 @@ Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
 
 
 3. Specialiajai vietinės reikšmės žvyrkelių asfaltavimo programai finansuoti skiriama 2 procentai, o nuo 2021 m. sausio 1 d. – 4 procentai akcizo pajamų, gautų už realizuotą benziną, dyzelinius degalus, suskystintas dujas, skirtas automobiliams, ir energetinius produktus, kurie pagaminti iš biologinės kilmės medžiagų ar su jų priedais ir skirti naudoti kaip variklių degalai. 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 9 straipsnio 3 dalis (2019 m. gegužės 16 d. redakcija, įsigaliojusi 2020 m. sausio 1 d.; TAR, 2019-05-24, Nr. 8304) prieštarauja Lietuvos Respublikos Konstitucijos 67 straipsnio 14 punkto nuostatai, kad Seimas tvirtina valstybės biudžetą, 94 straipsnio 4 punkto nuostatai, kad Vyriausybė rengia valstybės biudžeto projektą, 129 straipsniui, 130 straipsnio nuostatai, kad valstybės biudžeto projektą sudaro Vyriausybė, 131 straipsnio 1 dalies nuostatai, kad valstybės biudžeto projektą svarsto Seimas ir tvirtina įstatymu, 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti.
 Papildyta straipsnio dalimi:
 Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
+Straipsnio dalies pakeitimai:
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
  
 
 
@@ -733,8 +738,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
- 
  
 Lietuvos Respublikos 
 kelių priežiūros ir 
@@ -1690,3 +1693,8 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3088, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13965
 Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 9 straipsnio pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
+ 
+12.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
+Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
