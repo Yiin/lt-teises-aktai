@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-11-03
+Suvestinė redakcija nuo 2020-11-04 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -932,9 +932,11 @@ Nr. XIII-2635, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20657
 
 
 2. Bendrosioms miškų ūkio reikmėms tenkinti ir gamtotvarkos priemonėms miškuose įgyvendinti Vyriausybės nustatyta tvarka miško valdytojams nustatomi privalomieji 5 procentų atskaitymai į valstybės biudžetą iš pajamų už parduotą žaliavinę medieną ir nenukirstą mišką. Šie atskaitymai įtraukiami į valstybės biudžeto pajamas ir naudojami bendrosioms miškų ūkio reikmėms ir gamtotvarkos priemonėms miškuose finansuoti (miškų inventorizavimui, apskaitai, valstybinių miškų miškotvarkos projektams rengti, bendrai, nepriklausomai nuo nuosavybės formos, valstybinei miško priešgaisrinės apsaugos sistemai organizuoti ir išlaikyti, stichinių nelaimių padariniams ir masinių ligų bei kenkėjų židiniams likviduoti, miško mokslo ir projektavimo darbams, privačių miškų savininkams konsultuoti bei mokyti, privačių miškų savininkų organizacinėms struktūroms kurtis, miško kelių ir susijusių miško žemės sausinimo sistemų įrenginių priežiūrai ir taisymui (remontui), informacijai apie miškus viešinti, Aplinkos ministerijai pavaldžių institucijų vykdomoms programoms miškų ūkio ir gamtotvarkos priemonių miškuose srityse bei kitoms bendrosioms miškų ūkio reikmėms ir gamtotvarkos priemonėms miškuose finansuoti). Lėšas administruoja ir jų naudojimo tvarką nustato Aplinkos ministerija. 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos miškų įstatymo 7 straipsnio 2 dalies (2019 m. gruodžio 10 d. redakcija; TAR, 2019-12-19, Nr. 20657) nuostata „Šie atskaitymai įtraukiami į valstybės biudžeto pajamas ir naudojami bendrosioms miškų ūkio reikmėms ir gamtotvarkos priemonėms miškuose finansuoti“ tiek, kiek pagal ją valstybės biudžeto pajamos iš privalomųjų atskaitymų nuo miškų valdytojų pajamų už jų parduotą žaliavinę medieną ir nenukirstą mišką gali būti naudojamos tik bendrosioms miškų ūkio reikmėms ir gamtotvarkos priemonėms miškuose, prieštarauja Lietuvos Respublikos Konstitucijos 67 straipsnio 14 punkto nuostatai, kad Seimas tvirtina valstybės biudžetą, 94 straipsnio 4 punkto nuostatai, kad Vyriausybė rengia valstybės biudžeto projektą, 129 straipsniui, 130 straipsnio nuostatai, kad valstybės biudžeto projektą sudaro Vyriausybė, 131 straipsnio 1 dalies nuostatai, kad valstybės biudžeto projektą svarsto Seimas ir tvirtina įstatymu, 2 dalies nuostatai, kad negalima mažinti įstatymų numatytų išlaidų, kol tie įstatymai nepakeisti. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
 Nr. XIII-2635, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20657
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
  
 
 
@@ -2005,3 +2007,8 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 4 ir 4-1 straipsnių pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2527, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19115
 Lietuvos Respublikos miškų įstatymo Nr. I-671 4 ir 4-1 straipsnių pakeitimo įstatymo Nr. XIII-2418 1 straipsnio ir Miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
+Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
