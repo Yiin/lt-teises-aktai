@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2019-07-24 iki 2020-11-13
+Suvestinė redakcija nuo 2020-11-14 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
  
@@ -537,7 +537,21 @@ Teisę gauti valstybinę našlaičių pensiją turi mirusiojo (arba nustatyta tv
 
 
 
-Mirusiojo vaikams (įvaikiams), turintiems teisę gauti valstybinę našlaičių pensiją, ši teisė išlieka ir tada, kai juos kas nors įvaikina.
+Teisė gauti valstybinę našlaičių pensiją išlieka:
+
+
+1) mirusiojo vaikams (įvaikiams), turintiems teisę gauti valstybinę našlaičių pensiją, kai juos įvaikina;
+
+
+
+
+2) šio straipsnio 6 dalies reikalavimus atitinkantiems našlaičiams, kurie tais pačiais kalendoriniais metais baigė bendrojo ugdymo programą ir įstojo į švietimo įstaigą mokytis pagal formaliojo profesinio ugdymo programą ar studijuoti pagal nuolatinių studijų programą – laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigoje prasideda mokslo ar studijų metai pagal formaliojo profesinio ugdymo programą ar nuolatinių studijų programą, pagal kurią mokytis ar studijuoti įstojo našlaitis.
+TAR pastaba. 7 dalies 2 punkto nuostatos taikomos ir valstybinės našlaičių pensijos jas turintiems teisę gauti našlaičiams, 2020 metais įstojusiems į švietimo įstaigas, kuriose mokslo ar studijų metai prasidėjo vėliau negu 2020 m. rugsėjo 1 d., mokytis pagal formaliojo profesinio ugdymo programas ar studijuoti pagal nuolatinių studijų programas, skiriamos ir (ar) mokamos nuo 2020 m. rugsėjo 1 d.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-3371, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23938
+ 
 
 
 
@@ -1626,3 +1640,8 @@ Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 4 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2300, 2019-07-09, paskelbta TAR 2019-07-23, i. k. 2019-12124
 Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 15-1 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3371, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23938
+Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 9 straipsnio pakeitimo įstatymas
