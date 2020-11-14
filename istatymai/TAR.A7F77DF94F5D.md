@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-11-13
+Suvestinė redakcija nuo 2020-11-14 iki 2020-11-20
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
  
@@ -1247,7 +1247,20 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 
 
-3. Teisė gauti našlaičių pensiją išlieka, kai nedarbingu ar iš dalies darbingu (iki 2005 m. liepos 1 d. – invalidu) pripažintas našlaitis senatvės pensijos amžių sukanka našlaičių pensijos gavimo laikotarpiu. 
+3. Teisė gauti našlaičių pensiją išlieka:
+
+
+1) kai nedarbingu ar iš dalies darbingu (iki 2005 m. liepos 1 d. – invalidu) pripažintas našlaitis senatvės pensijos amžių sukanka našlaičių pensijos gavimo laikotarpiu;
+
+
+
+
+2) šio straipsnio 2 dalyje nustatytus reikalavimus atitinkantiems našlaičiams, kurie tais pačiais kalendoriniais metais baigė bendrojo ugdymo programą ir įstojo į švietimo įstaigą mokytis pagal formaliojo profesinio ugdymo programą ar studijuoti pagal nuolatinių studijų programą, – laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigoje prasideda mokslo ar studijų metai pagal formaliojo profesinio ugdymo programą ar nuolatinių studijų programą, pagal kurią mokytis ar studijuoti įstojo našlaitis.
+TAR pastaba. 3 dalies 2 punkto nuostatos taikomos ir socialinio draudimo našlaičių pensijos jas turintiems teisę gauti našlaičiams, 2020 metais įstojusiems į švietimo įstaigas, kuriose mokslo ar studijų metai prasidėjo vėliau negu 2020 m. rugsėjo 1 d., mokytis pagal formaliojo profesinio ugdymo programas ar studijuoti pagal nuolatinių studijų programas, skiriamos ir (ar) mokamos nuo 2020 m. rugsėjo 1 d.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-3370, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23937
  
 
 
@@ -3766,3 +3779,8 @@ Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 2, 8 ir 40
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2651, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20992
 Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 8 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3370, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23937
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 38 straipsnio pakeitimo įstatymas
