@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2020-06-01 iki 2020-11-13
+Suvestinė redakcija nuo 2020-11-14 iki 2021-01-19
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
  
@@ -101,7 +101,11 @@ Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 
 
 
-2. Bendrai gyvenantys asmenys – sutuoktiniai ir jų vaikai (įvaikiai) iki 18 metų; susituokęs asmuo, su kuriuo teismo sprendimu dėl sutuoktinių gyvenimo skyrium yra likę gyventi jų nepilnamečiai vaikai (įvaikiai), arba vienas iš tėvų ir jo vaikai (įvaikiai) iki 18 metų; neįregistravę santuokos ir bendrą ūkį tvarkantys pilnamečiai ar veiksniais pripažinti nepilnamečiai vyras ir moteris ir jų vaikai (įvaikiai) iki 18 metų. Į bendrai gyvenančių asmenų sudėtį taip pat įskaitomi dirbantys (taip pat savarankiškai dirbantys), jeigu per mėnesį jų gaunamos pajamos yra mažesnės kaip 1 valstybės remiamų pajamų dydis, arba nedirbantys (taip pat savarankiškai nedirbantys) nesusituokę ir savo vaikų (įvaikių) neauginantys pilnamečiai vaikai (įvaikiai) iki 24 metų, kurie mokosi pagal bendrojo ugdymo programą ar pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje (studentai), įskaitant akademinių atostogų dėl ligos ar nėštumo laikotarpį, taip pat pilnamečiai vaikai (įvaikiai) nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos.
+2. Bendrai gyvenantys asmenys – sutuoktiniai ir jų vaikai (įvaikiai) iki 18 metų; susituokęs asmuo, su kuriuo teismo sprendimu dėl sutuoktinių gyvenimo skyrium yra likę gyventi jų nepilnamečiai vaikai (įvaikiai), arba vienas iš tėvų ir jo vaikai (įvaikiai) iki 18 metų; neįregistravę santuokos ir bendrą ūkį tvarkantys pilnamečiai ar veiksniais pripažinti nepilnamečiai vyras ir moteris ir jų vaikai (įvaikiai) iki 18 metų. Į bendrai gyvenančių asmenų sudėtį taip pat įskaitomi dirbantys (taip pat savarankiškai dirbantys), jeigu per mėnesį jų gaunamos pajamos yra mažesnės kaip 1 valstybės remiamų pajamų dydis, arba nedirbantys (taip pat savarankiškai nedirbantys) nesusituokę ir savo vaikų (įvaikių) neauginantys pilnamečiai vaikai (įvaikiai) iki 24 metų, kurie mokosi pagal bendrojo ugdymo programą ar pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje (studentai), įskaitant akademinių atostogų dėl ligos ar nėštumo laikotarpį, taip pat pilnamečiai vaikai (įvaikiai) nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, o kai švietimo įstaigose nustatoma vėlesnė mokslo ar studijų metų pradžia negu rugsėjo 1 diena, pilnamečiai vaikai (įvaikiai), tais pačiais kalendoriniais metais baigę bendrojo ugdymo programą ir įstoję mokytis pagal formaliojo profesinio mokymo programą ar studijuoti į aukštąją mokyklą, į bendrai gyvenančių asmenų sudėtį įskaitomi ir laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigose prasideda mokslo ar studijų metai.
+TAR pastaba. 2 dalies nuostatos taikomos skiriant piniginę socialinę paramą nuo 2020 m. rugsėjo 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3375, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23942
+ 
 
 
 
@@ -488,7 +492,11 @@ Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 
 
 
-2) asmenys mokosi pagal bendrojo ugdymo programą ar pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje (studentai), įskaitant akademinių atostogų dėl ligos ar nėštumo laikotarpį, kol jiems sukaks 24 metai ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, bet ne ilgiau, negu jiems sukaks 24 metai;
+2) asmenys mokosi pagal bendrojo ugdymo programą ar pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje (studentai), įskaitant akademinių atostogų dėl ligos ar nėštumo laikotarpį, kol jiems sukaks 24 metai ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, bet ne ilgiau, negu jiems sukaks 24 metai. Kai švietimo įstaigose nustatoma vėlesnė mokslo ar studijų metų pradžia negu rugsėjo 1 diena, asmenims, tais pačiais kalendoriniais metais baigusiems bendrojo ugdymo programą ir įstojusiems mokytis pagal formaliojo profesinio mokymo programą ar studijuoti į aukštąją mokyklą, teisė gauti piniginę socialinę paramą išlieka ir laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigose prasideda mokslo ar studijų metai;
+TAR pastaba. 2 punkto nuostatos taikomos skiriant piniginę socialinę paramą nuo 2020 m. rugsėjo 1 d.
+Straipsnio punkto pakeitimai:
+Nr. XIII-3375, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23942
+ 
 
 
 
@@ -2612,3 +2620,8 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
 Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 3, 6, 7, 9, 10, 11, 15, 17, 21 ir 23 straipsnių pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3375, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23942
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 2 ir 8 straipsnių pakeitimo įstatymas
