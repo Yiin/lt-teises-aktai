@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-11-13
+Suvestinė redakcija nuo 2020-11-14 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -74,9 +74,6 @@ Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
 
 
 
-5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“. 
-TAR pastaba. 3 dalis papildoma 5 punktu nuo 2019-09-01.
-5 punkto redakcija, įsigaliojanti Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną:
 5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, suteikiantys teisę gyventi Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“.
 Papildyta straipsnio punktu:
 Nr. XIII-2346, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12437
@@ -500,7 +497,28 @@ Nr. XIII-2491, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17223
 
 
 
-2. Našlaičiams, netekusiems abiejų tėvų (įtėvių), šalpos našlaičių pensijos skiriamos už kiekvieną iš mirusių tėvų (įtėvių). Mirusiojo vaikams (įvaikiams), turintiems teisę gauti šalpos našlaičių pensiją, ši teisė išlieka ir juos įvaikinus.
+2. Našlaičiams, netekusiems abiejų tėvų (įtėvių), šalpos našlaičių pensijos skiriamos už kiekvieną iš mirusių tėvų (įtėvių). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3372, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23939
+ 
+
+
+
+
+3. Teisė gauti šalpos našlaičių pensiją išlieka:
+
+
+1) įvaikinus mirusiojo vaikus (įvaikius), turinčius teisę gauti šalpos našlaičių pensiją;
+
+
+
+
+2) šio straipsnio 1 dalies 2 punkto reikalavimus atitinkantiems našlaičiams, kurie tais pačiais kalendoriniais metais baigė bendrojo ugdymo programą ir įstojo į švietimo įstaigą mokytis pagal formaliojo profesinio ugdymo programą ar studijuoti pagal nuolatinių studijų programą – laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigoje prasideda mokslo ar studijų metai pagal formaliojo profesinio ugdymo programą ar nuolatinių studijų programą, pagal kurią mokytis ar studijuoti įstojo našlaitis.
+TAR pastaba. 3 dalies 2 punkto nuostatos taikomos ir šalpos našlaičių pensijos jas turintiems teisę gauti našlaičiams, 2020 metais įstojusiems į švietimo įstaigas, kuriose mokslo ar studijų metai prasidėjo vėliau negu 2020 m. rugsėjo 1 d., mokytis pagal formaliojo profesinio ugdymo programas ar studijuoti pagal nuolatinių studijų programas, skiriamos ir (ar) mokamos nuo 2020 m. rugsėjo 1 d.
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-3372, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23939
  
 
 
@@ -1299,3 +1317,8 @@ Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 2, 5, 8, 9, 13, 15, 16
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
 Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 8, 20, 22-1, 22-2 ir 24 straipsnių pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3372, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23939
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 9 straipsnio pakeitimo įstatymas
