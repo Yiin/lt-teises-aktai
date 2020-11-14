@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-11-13
+Suvestinė redakcija nuo 2020-11-14 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -2337,9 +2337,18 @@ Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 
 
 
-4. Ilgalaikė socialinė globa senyvo amžiaus asmenims, suaugusiems asmenims su negalia, vaikams su negalia, likusiems be tėvų globos vaikams, iki 2007 m. sausio 1 d. pradėjusiems ją gauti apskričių viršininkų socialinių paslaugų įstaigose, finansuojama iš valstybės biudžeto lėšų, netaikant šio įstatymo aštuntojo skirsnio nuostatų. 
+4. Ilgalaikė socialinė globa likusiems be tėvų globos vaikams, iki 2007 m. sausio 1 d. pradėjusiems ją gauti apskričių viršininkų socialinių paslaugų įstaigose, finansuojama iš valstybės biudžeto lėšų, netaikant šio įstatymo aštuntojo skirsnio nuostatų. 
 Straipsnio dalies pakeitimai:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
+ 
+
+
+
+
+41. Socialinės paslaugos senyvo amžiaus asmenims, suaugusiems asmenims su negalia, vaikams su negalia, iki 2007 m. sausio 1 d. pradėjusiems gauti ilgalaikę socialinę globą apskričių viršininkų socialinių paslaugų įstaigose ir nepertraukiamai ją gavusiems iki 2020 m. spalio 31 d. imtinai, nuo 2020 m. lapkričio 1 d. finansuojamos iš valstybės biudžeto lėšų, netaikant šio įstatymo aštuntojo skirsnio nuostatų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
  
 
 
@@ -2509,3 +2518,13 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 23 straipsnio pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 8, 13, 15, 16, 17, 19-1, 20, 30, 34, 36 straipsnių, šeštojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 19-2, 25-1, 25-2 straipsniais įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3342, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24231
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 23 ir 24 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19, 23, 24, 24-1 ir 38 straipsnių pakeitimo įstatymas
