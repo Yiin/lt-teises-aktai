@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2020-10-08 iki 2020-11-13
+Suvestinė redakcija nuo 2020-11-14 iki 2020-12-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -3611,16 +3611,18 @@ Nr. XIII-527, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11235
 
 
 1. Socialinės globos teikimas neturint licencijos ar nesilaikant licencijuojamos veiklos sąlygų 
-užtraukia baudą juridinių asmenų, kurie teikia socialinę globą, vadovams ar kitiems atsakingiems asmenims nuo trijų šimtų dvidešimt iki vieno tūkstančio keturių šimtų eurų.
+užtraukia baudą juridinių asmenų, kurie teikia socialinę globą, vadovams ar kitiems atsakingiems asmenims nuo šešių šimtų keturiasdešimt iki dviejų tūkstančių aštuonių šimtų eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
+užtraukia baudą nuo dviejų tūkstančių aštuonių šimtų iki šešių tūkstančių eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3345, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23930
  
-
-
 
 
 
@@ -19315,9 +19317,10 @@ Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
 
 
 
-52) Socialinių paslaugų priežiūros departamento prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 72 straipsnio 3 dalyje, 107, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+52) Socialinių paslaugų priežiūros departamento prie Socialinės apsaugos ir darbo ministerijos – dėl šio kodekso 72 straipsnio 3 dalyje, 107, 224, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
+Nr. XIII-3345, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23930
  
 
 
@@ -24680,3 +24683,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3307, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20892
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+ 
+114.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3345, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23930
+Lietuvos Respublikos administracinių nusižengimų kodekso 107 ir 589 straipsnių pakeitimo įstatymas
