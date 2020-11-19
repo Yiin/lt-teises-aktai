@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-11-18
+Suvestinė redakcija nuo 2020-11-19 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
  
@@ -30,6 +30,7 @@ MAŽŲJŲ BENDRIJŲ
  
 2012 m. birželio 29 d. Nr. XI-2159
 Vilnius
+ 
  
 
 
@@ -495,9 +496,10 @@ MAŽOSIOS BENDRIJOS NARIAI
 
 
 
-4. Mažosios bendrijos narys negali turėti darbo santykių su mažąja bendrija, taip pat sudaryti su ja civilinių sutarčių dėl paslaugų mažajai bendrijai teikimo ar darbų atlikimo, išskyrus vadovaujantis šio įstatymo 22 straipsnio 2 dalimi su mažosios bendrijos vadovu sudaromą civilinę (paslaugų) sutartį.
+4. Mažosios bendrijos narys gali sudaryti civilines sutartis su mažąja bendrija dėl paslaugų teikimo ir (ar) darbų mažajai bendrijai atlikimo, išskyrus darbo santykių požymius turinčias sutartis. Bendra pagal mažosios bendrijos nario su mažąja bendrija sudarytas civilines sutartis suteiktų paslaugų ir darbų suma negali viršyti šimto tūkstančių eurų per kalendorinius metus. Viršijanti nustatytą dydį suma yra laikoma mažosios bendrijos pelno paskirstymu arba lėšomis, skirtomis mažosios bendrijos narių asmeniniams poreikiams.
 Straipsnio dalies pakeitimai:
 Nr. XII-1700, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08122
+Nr. XIII-3359, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24247
  
 
 
@@ -1817,7 +1819,6 @@ Vyriausybė iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamu
 
 
 
- 
 33 straipsnis. Įstatymo įsigaliojimas 
 
 
@@ -1832,6 +1833,7 @@ Vyriausybė iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamu
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
+ 
  
  
 RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ 
@@ -1866,3 +1868,8 @@ Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1 ir 7 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-851, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20334
 Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3359, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24247
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 7 straipsnio pakeitimo įstatymas
