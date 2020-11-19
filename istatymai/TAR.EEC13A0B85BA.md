@@ -13,9 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EEC13A0B85BA"
 
 # Lietuvos Respublikos socialinių įmonių įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-11-18
+Įstatymas netenka galios 2023-01-01:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1391, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16118
+Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 pripažinimo netekusiu galios įstatymas
+ 
+Suvestinė redakcija nuo 2020-11-19 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 96-3519, i. k. 1041010ISTA0IX-2251
+ 
+TAR pastaba. Neįgalieji, kuriems nustatytas specialiųjų poreikių lygis ir kurie įstatymo Nr. XIII-3393 įsigaliojimo dieną (2020-11-19) dirba socialinėse įmonėse, yra priskiriami socialinėse įmonėse įdarbinamų asmenų tikslinėms grupėms.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3393, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24260
+Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 2, 4, 14 ir 30 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2020-01-01:
 Nr. XIII-2427, 2019-09-19, paskelbta TAR 2019-10-09, i. k. 2019-16065
@@ -42,7 +52,10 @@ BendrOSIOS NUOSTATOS
 
 2 straipsnis. Socialinių įmonių veiklos tikslas
 
-Socialinių įmonių veiklos tikslas – įdarbinant šiame įstatyme nurodytoms tikslinėms grupėms priklausančius darbingo amžiaus asmenis, kurių darbingumas sumažėjo dėl negalios, negalinčius lygiomis sąlygomis konkuruoti darbo rinkoje, skatinti šių asmenų grįžimą į darbo rinką, jų socialinę integraciją ir mažinti jų socialinę atskirtį.
+Socialinių įmonių veiklos tikslas – įdarbinant šiame įstatyme nurodytoms tikslinėms grupėms priklausančius asmenis, kurių darbingumas sumažėjo dėl negalios, negalinčius lygiomis sąlygomis konkuruoti darbo rinkoje, skatinti šių asmenų įsitvirtinimą darbo rinkoje ar įdarbinimą, jų socialinę integraciją ir mažinti jų socialinę atskirtį.
+
+Straipsnio pakeitimai:
+Nr. XIII-3393, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24260
  
 
 3 straipsnis. Socialinė įmonė
@@ -60,11 +73,24 @@ Socialinė įmonė – šio įstatymo nustatyta tvarka socialinės įmonės stat
 
 3) neįgalieji, turintys lengvą neįgalumo lygį, arba neįgalieji, kuriems nustatytas 45–55 procentų darbingumo lygis, registruoti Užimtumo tarnyboje bedarbiais.
 
-2. Lietuvos Respublikos Vyriausybės įgaliota institucija tikslinių grupių asmenų įdarbinimo tikslu teikia informaciją apie Užimtumo tarnyboje įregistruotus šio straipsnio 1 dalyje nurodytoms tikslinėms grupėms priklausančius asmenis, jų sutikimu, jos pageidaujančiam juridiniam asmeniui ar jo padaliniui, siekiančiam įdarbinti tikslinių grupių asmenis. Asmens duomenys, patvirtinantys darbuotojų priklausymą tikslinėms grupėms, yra teikiami 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) nustatyta tvarka.
+2. Šio įstatymo tiksline grupe taip pat laikomi neįgalieji, kuriems nustatytas didelių, vidutinių ar nedidelių specialiųjų poreikių lygis, registruoti Užimtumo tarnyboje pensinio amžiaus asmenimis. Juos įdarbinus socialinėse įmonėse, šio įstatymo 13 straipsnyje nustatyta valstybės pagalba neskiriama ir nemokama. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3393, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24260
+ 
 
-3. Šio straipsnio 1 dalyje nurodyti asmenys tikslinėms grupėms priskiriami neterminuotai.
+3. Lietuvos Respublikos Vyriausybės įgaliota institucija tikslinių grupių asmenų įdarbinimo tikslu teikia informaciją apie Užimtumo tarnyboje įregistruotus šio straipsnio 1 dalyje nurodytoms tikslinėms grupėms priklausančius asmenis, jų sutikimu, jos pageidaujančiam juridiniam asmeniui ar jo padaliniui, siekiančiam įdarbinti tikslinių grupių asmenis. Asmens duomenys, patvirtinantys darbuotojų priklausymą tikslinėms grupėms, yra teikiami 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3393, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24260
+ 
 
-4. Šio straipsnio 1 dalyje nurodyti asmenys tikslinėms grupėms priskiriami, jeigu jie nedirba pagal darbo sutartį arba nėra darbo santykiams prilygintų teisinių santykių subjektas, arba nėra savarankiškai dirbantys asmenys.
+4. Šio straipsnio 1 ir 2 dalyse nurodyti asmenys tikslinėms grupėms priskiriami neterminuotai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3393, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24260
+ 
+
+5. Šio straipsnio 1 dalyje nurodyti asmenys tikslinėms grupėms priskiriami, jeigu jie nedirba pagal darbo sutartį arba nėra darbo santykiams prilygintų teisinių santykių subjektas, arba nėra savarankiškai dirbantys asmenys.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3393, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24260
  
 
 5 straipsnis. Darbo santykių ypatumai
@@ -284,7 +310,10 @@ Socialinei įmonei gali būti skiriama šių rūšių valstybės pagalba:
 
 1) juridinis asmuo ar jo padalinys paraiškos gauti valstybės pagalbą pateikimo, sprendimo priėmimo laikotarpiu ir laikotarpiu, už kurį prašoma valstybės pagalbos, turi socialinės įmonės statusą;
 
-2) paraiškos gauti valstybės pagalbą pateikimo, sprendimo priėmimo laikotarpiu ir laikotarpiu, už kurį prašoma valstybės pagalbos, darbuotojai, priklausantys šio įstatymo 4 straipsnio 1 dalyje nurodytoms tikslinėms grupėms, sudaro ne mažiau kaip 50 procentų metinio vidutinio sąrašuose esančių socialinės įmonės darbuotojų skaičiaus. Darbuotojų, priklausančių šio įstatymo 4 straipsnio 1 dalyje nurodytoms tikslinėms grupėms, per mėnesį dirbtas darbo laikas sudaro ne mažiau kaip 50 procentų įmonės darbuotojų, nepriklausančių šio įstatymo 4 straipsnio 1 dalyje nurodytoms tikslinėms grupėms, darbo laiko per mėnesį. Šio įstatymo 4 straipsnio 1 dalyje nurodytoms tikslinėms grupėms priklausančių darbuotojų skaičius yra ne mažesnis kaip 6. Neįgalieji, kuriems nustatytas sunkus ar vidutinis neįgalumo lygis arba neviršijantis 40 procentų darbingumo lygis, sudaro ne mažiau kaip 40 procentų metinio vidutinio sąrašuose esančių darbuotojų skaičiaus, iš kurių neįgalieji, kuriems nustatytas sunkus neįgalumo lygis arba neviršijantis 25 procentų darbingumo lygis, sudaro ne mažiau kaip 10 procentų metinio vidutinio sąrašuose esančių darbuotojų skaičiaus, jeigu šiai tikslinei grupei priklausančių asmenų yra registruotų Užimtumo tarnyboje. Jeigu šio įstatymo 4 straipsnio 1 dalies 1 ir 2 punktuose nurodytoms tikslinėms grupėms priklausančių darbuotojų, registruotų Užimtumo tarnyboje, nėra, šio įstatymo 4 straipsnio 1 dalyje nurodytoms tikslinėms grupėms priklausantys darbuotojai turi sudaryti ne mažiau kaip 50 procentų metinio vidutinio sąrašuose esančių darbuotojų skaičiaus;
+2) paraiškos gauti valstybės pagalbą pateikimo, sprendimo priėmimo laikotarpiu ir laikotarpiu, už kurį prašoma valstybės pagalbos, darbuotojai, priklausantys šio įstatymo 4 straipsnio 1 ir 2 dalyse nurodytoms tikslinėms grupėms, sudaro ne mažiau kaip 50 procentų metinio vidutinio sąrašuose esančių socialinės įmonės darbuotojų skaičiaus. Darbuotojų, priklausančių šio įstatymo 4 straipsnio 1 ir 2 dalyse nurodytoms tikslinėms grupėms, per mėnesį dirbtas darbo laikas sudaro ne mažiau kaip 50 procentų įmonės darbuotojų, nepriklausančių šio įstatymo 4 straipsnio 1 ir 2 dalyse nurodytoms tikslinėms grupėms, darbo laiko per mėnesį. Šio įstatymo 4 straipsnio 1 ir 2 dalyse nurodytoms tikslinėms grupėms priklausančių darbuotojų  skaičius yra ne mažesnis kaip 6. Neįgalieji, kuriems nustatytas sunkus ar vidutinis neįgalumo lygis ar neviršijantis 40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, sudaro ne mažiau kaip 40 procentų metinio vidutinio sąrašuose esančių darbuotojų skaičiaus, iš kurių neįgalieji, kuriems nustatytas sunkus neįgalumo lygis ar neviršijantis 25 procentų darbingumo lygis arba didelių specialiųjų poreikių lygis, sudaro ne mažiau kaip 10 procentų metinio vidutinio sąrašuose esančių darbuotojų skaičiaus, jeigu šioms tikslinėms grupėms priklausančių asmenų yra registruotų Užimtumo tarnyboje. Jeigu šio įstatymo 4 straipsnio 1 dalies 1 ir 2 punktuose nurodytoms tikslinėms grupėms priklausančių darbuotojų ar neįgalių darbuotojų, kuriems nustatytas didelių ar vidutinių specialiųjų poreikių lygis, registruotų Užimtumo tarnyboje, nėra, šio įstatymo 4 straipsnio 1 ir 2 dalyse nurodytoms tikslinėms grupėms priklausantys darbuotojai turi sudaryti ne mažiau kaip 50 procentų metinio vidutinio sąrašuose esančių darbuotojų skaičiaus;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3393, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24260
+ 
 
 3) paraiškos gauti valstybės pagalbą pateikimo, sprendimo priėmimo laikotarpiu ir laikotarpiu, už kurį prašoma valstybės pagalbos, socialinė įmonė atitinka konkrečios subsidijos teikimą reglamentuojančio šio įstatymo straipsnio nuostatas;
 
@@ -730,7 +759,10 @@ VYRIAUSYBĖS ĮGALIOTŲ INSTITUCIJŲ FUNKCIJOS
 
 1. Šiame įstatyme nustatyto teisinio reguliavimo poveikio ex post vertinimas atliekamas iki 2022 m. lapkričio 1 d. už laikotarpį nuo 2020 m. liepos 1 d. iki 2022 m. birželio 30 d. Šio vertinimo ataskaitoje nurodomos teigiamos ir neigiamos šiame įstatyme nustatyto teisinio reguliavimo pasekmės ir pasiūlymai dėl jo tobulinimo.
 
-2. Vyriausybės įgaliota institucija iki 2021 m. ir kiekvienų vėlesnių metų liepos 1 dienos pateikia Lietuvos Respublikos Vyriausybei ir Lietuvos Respublikos Seimui ataskaitą apie praėjusiais kalendoriniais metais (o teikiant pirmą kartą – už laikotarpį nuo 2020 m. liepos 1 d. iki 2020 m. gruodžio 31 d.) socialinėse įmonėse dirbančių neįgaliųjų skaičių, iš viso ir pagal neįgalumo ar darbingumo lygį, ir jų dalį iš visų socialinių įmonių darbuotojų, taip pat pokytį per šioje dalyje nurodytą laikotarpį; socialinėse įmonėse dirbančių ir dirbusių neįgaliųjų užimtumą pasibaigus valstybės pagalbos jų užimtumui skatinti mokėjimo laikotarpiui ir pokytį per šioje dalyje nurodytą laikotarpį; suteiktą valstybės pagalbą socialinėms įmonėms, iš viso ir pagal rūšis, taip pat pokytį per šioje dalyje nurodytą laikotarpį; pelno panaudojimą socialinių įmonių veiklos tikslams, susijusiems su socialinėse įmonėse įdarbinamų asmenų tikslinių grupių grįžimo į darbo rinką ir jų socialinės integracijos skatinimu bei socialinės atskirties mažinimu.
+2. Vyriausybės įgaliota institucija iki 2021 m. ir kiekvienų vėlesnių metų liepos 1 dienos pateikia Lietuvos Respublikos Vyriausybei ir Lietuvos Respublikos Seimui ataskaitą apie praėjusiais kalendoriniais metais (o teikiant pirmą kartą – už laikotarpį nuo 2020 m. liepos 1 d. iki 2020 m. gruodžio 31 d.) socialinėse įmonėse dirbančių neįgaliųjų skaičių, iš viso ir pagal neįgalumo, darbingumo ar specialiųjų poreikių lygį, ir jų dalį iš visų socialinių įmonių darbuotojų, taip pat pokytį per šioje dalyje nurodytą laikotarpį; socialinėse įmonėse dirbančių ir dirbusių neįgaliųjų užimtumą pasibaigus valstybės pagalbos jų užimtumui skatinti mokėjimo laikotarpiui ir pokytį per šioje dalyje nurodytą laikotarpį; suteiktą valstybės pagalbą socialinėms įmonėms, iš viso ir pagal rūšis, taip pat pokytį per šioje dalyje nurodytą laikotarpį; pelno panaudojimą socialinių įmonių veiklos tikslams, susijusiems su socialinėse įmonėse įdarbinamų asmenų tikslinių grupių grįžimo į darbo rinką ir jų socialinės integracijos skatinimu bei socialinės atskirties mažinimu.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3393, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24260
+ 
 
 Papildyta straipsniu:
 Nr. XIII-2613, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20643
@@ -741,10 +773,12 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 LAIKINAI EINANTIS
-RESPUBLIKOS PREZIDENTO PAREIGAS                                  ARTŪRAS PAULAUSKAS
+RESPUBLIKOS PREZIDENTO PAREIGAS                                    ARTŪRAS PAULAUSKAS
  
 
  
+
+ 
 
  
 Lietuvos Respublikos 
@@ -859,4 +893,12 @@ Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 pakeitimo įstat
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3146, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14367
 Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 pakeitimo įstatymo Nr. XIII-2427 1 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3393, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24260
+Lietuvos Respublikos socialinių įmonių įstatymo Nr. IX-2251 2, 4, 14 ir 30 straipsnių pakeitimo įstatymas
+ 
+ 
+part_4ae8f448088442679a3e518f87742875_end
 
