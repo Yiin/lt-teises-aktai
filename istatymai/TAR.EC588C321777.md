@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-11-18
+Suvestinė redakcija nuo 2020-11-19 iki 2020-11-19
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -7590,9 +7590,10 @@ Nr. XIII-1845, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21875
 
 
 
-8) kai yra Lietuvos Respublikos baudžiamojo kodekso 93 straipsnyje, 114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje, 291 straipsnio 2 ir 3 dalyse numatyti atleidimo nuo baudžiamosios atsakomybės sąlygos ir pagrindai; 
+8) kai yra Lietuvos Respublikos baudžiamojo kodekso 93 straipsnyje, 114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1471 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje, 291 straipsnio 2 ir 3 dalyse numatyti atleidimo nuo baudžiamosios atsakomybės sąlygos ir pagrindai; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1845, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21875
+Nr. XIII-3351, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24236
  
 
 
@@ -8823,9 +8824,10 @@ Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
 
 
 
-5. Nagrinėjimo teisme metu, kai nustatomi Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti asmenį nuo baudžiamosios atsakomybės, byla nutraukiama nuosprendžiu. 
+5. Nagrinėjimo teisme metu, kai nustatomi Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1471 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti asmenį nuo baudžiamosios atsakomybės, byla nutraukiama nuosprendžiu. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
+Nr. XIII-3351, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24236
  
 
 
@@ -11235,7 +11237,7 @@ Apeliacinės instancijos teismas panaikina pirmosios instancijos teismo nuospren
 
 
 
-2) yra Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti kaltinamąjį nuo baudžiamosios atsakomybės arba suėjo apkaltinamojo nuosprendžio priėmimo senaties terminas. 
+2) yra Lietuvos Respublikos baudžiamojo kodekso 36–40, 93 straipsniuose, 114 straipsnio 3 dalyje, 147 straipsnio 3 dalyje, 1471 straipsnio 3 dalyje, 1472 straipsnio 2 dalyje, 157 straipsnio 3 dalyje, 1891 straipsnio 2 dalyje, 226 straipsnio 6 dalyje, 227 straipsnio 6 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti kaltinamąjį nuo baudžiamosios atsakomybės arba suėjo apkaltinamojo nuosprendžio priėmimo senaties terminas. 
 Straipsnio pakeitimai:
 Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
@@ -11247,6 +11249,7 @@ Nr. XI-2199, 2012-06-30, Žin., 2012, Nr. 82-4277 (2012-07-13)
 
 Straipsnio pakeitimai:
 Nr. XIII-805, 2017-11-28, paskelbta TAR 2017-12-04, i. k. 2017-19449
+Nr. XIII-3351, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24236
  
 
 
@@ -16313,3 +16316,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 50, 51 ir 106 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2976, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11675
 Lietuvos Respublikos baudžiamojo proceso kodekso 8, 28, 38 ir 82 straipsnių pakeitimo įstatymas
+ 
+51.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3351, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24236
+Lietuvos Respublikos baudžiamojo proceso kodekso 212, 254 ir 327 straipsnių pakeitimo įstatymas
