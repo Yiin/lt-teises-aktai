@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7"
 
 # Lietuvos Respublikos pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-11-18
+Suvestinė redakcija nuo 2020-11-19 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 75-3472, i. k. 1031010ISTA0IX-1691
  
@@ -2153,21 +2153,22 @@ TAR pastaba. 359 straipsnis įsigalioja 2020 m. liepos 1 d.
 
 
 
-2. Pensijų anuitetų mokėtojas privalo tvarkyti Pensijų anuitetų fondo buhalterinę apskaitą ir sudaryti Pensijų anuitetų fondo bendrąjį ataskaitų rinkinį pasibaigus kiekvienam finansinių metų ketvirčiui ir finansiniams metams, vadovaudamasis Viešojo sektoriaus atskaitomybės įstatymu, Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartais, priežiūros institucijos nustatyta techninių atidėjinių apskaičiavimo tvarka. 
+2. Pensijų anuitetų mokėtojas privalo tvarkyti Pensijų anuitetų fondo buhalterinę apskaitą ir sudaryti Pensijų anuitetų fondo tarpinių ataskaitų rinkinį pasibaigus kiekvienam finansinių metų ketvirčiui ir metinių ataskaitų rinkinį pasibaigus finansiniams metams, vadovaudamasis Viešojo sektoriaus atskaitomybės įstatymu, Viešojo sektoriaus apskaitos ir finansinės atskaitomybės standartais.
 
 
 
 
-3. Pensijų anuitetų mokėtojas Pensijų anuitetų fondo bendrąjį metinių ataskaitų rinkinį kartu su Pensijų anuitetų tarybos išvada Viešojo sektoriaus atskaitomybės įstatyme nustatytais terminais teikia Socialinės apsaugos ir darbo ministerijai.
+3. Pensijų anuitetų mokėtojas Pensijų anuitetų fondo metinių ataskaitų rinkinį kartu su Pensijų anuitetų tarybos išvada Viešojo sektoriaus atskaitomybės įstatyme nustatytais terminais teikia Socialinės apsaugos ir darbo ministerijai.
 
 
 
 
-4. Pensijų anuitetų fondo bendrąjį metinių ataskaitų rinkinį kiekvienais metais audituoja ir Pensijų anuitetų fondo bendrojo metinių ataskaitų rinkinio audito išvadą parengia Lietuvos Respublikos valstybės kontrolė.
-TAR pastaba. 3510 straipsnis įsigalioja 2020 m. liepos 1 d.
+4. Pensijų anuitetų fondo metinių ataskaitų rinkinį kiekvienais metais audituoja ir Pensijų anuitetų fondo metinių ataskaitų rinkinio audito išvadą parengia Lietuvos Respublikos valstybės kontrolė.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3392, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24259
  
-
-
 
 
 
@@ -2175,7 +2176,10 @@ TAR pastaba. 3510 straipsnis įsigalioja 2020 m. liepos 1 d.
 3511 straipsnis. Informacijos apie pensijų anuitetų mokėjimo veiklą atskleidimas visuomenei ir priežiūros institucijai
 
 
-1. Pensijų anuitetų fondo ataskaitų rinkinys kartu su Lietuvos Respublikos valstybės kontrolės atlikto ataskaitų rinkinio audito išvada paskelbiami pensijų anuitetų mokėtojo interneto svetainėje ne vėliau kaip iki kitų ataskaitinių metų birželio 1 dienos ir viešinami ne trumpiau negu penkerius metus nuo jų paskelbimo pensijų anuitetų mokėtojo interneto svetainėje. Pensijų anuitetų fondo ataskaitų rinkinyje pateikiama informacija apie pagrindinius pensijų anuitetų mokėjimo veiklos uždavinius ir jų vykdymą, Pensijų anuitetų fondo veiklos rezultatus ir finansinę būklę, techninių atidėjinių pakankamumą ir jų padengimą turtu.  
+1. Pensijų anuitetų fondo metinių ataskaitų rinkinys kartu su Lietuvos Respublikos valstybės kontrolės atlikto šio ataskaitų rinkinio audito išvada paskelbiami pensijų anuitetų mokėtojo interneto svetainėje ne vėliau kaip iki kitų ataskaitinių metų birželio 1 dienos ir viešinami ne trumpiau negu penkerius metus nuo jų paskelbimo pensijų anuitetų mokėtojo interneto svetainėje. Pensijų anuitetų fondo metinių ataskaitų rinkinyje pateikiama informacija apie pagrindinius pensijų anuitetų mokėjimo veiklos uždavinius ir jų vykdymą, Pensijų anuitetų fondo veiklos rezultatus ir finansinę būklę, techninių atidėjinių pakankamumą ir jų padengimą turtu.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3392, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24259
+ 
 
 
 
@@ -2615,3 +2619,8 @@ Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 pakeitimo įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
 Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 3, 4, 8, 10, 12, 18, 22, 23, 26, 28, 38 ir 40 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3392, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24259
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 35-10 ir 35-11 straipsnių pakeitimo įstatymas
