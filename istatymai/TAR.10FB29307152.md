@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/10fb2930715211e484b9c12b550436a3"
 
 # Lietuvos Respublikos įstatymas dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo
 
-Suvestinė redakcija nuo 2019-07-01 iki 2020-11-19
+Suvestinė redakcija nuo 2020-11-20 iki 2020-12-18
  
 Įstatymas paskelbtas: TAR 2014-11-21, i. k. 2014-17299
  
@@ -22,6 +22,7 @@ Suvestinė redakcija nuo 2019-07-01 iki 2020-11-19
  
 LIETUVOS RESPUBLIKOS
 ĮSTATYMAS
+ 
 DĖL europos sąjungos valstybių narių SPRENDIMŲ BAUDŽIAMOSIOSE BYLOSE TARPUSAVIO PRIPAŽINIMO IR VYKDYMO
  
 2014 m. lapkričio 13 d. Nr. XII-1322 Vilnius
@@ -115,9 +116,17 @@ Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 
 
 
-12) Lietuvos Respublikoje išduotų turto (arba įrodymų) arešto aktų liudijimų perdavimo vykdyti kitoms Europos Sąjungos valstybėms narėms tvarka ir sąlygos. 
+12) Lietuvos Respublikoje išduotų turto (arba įrodymų) arešto aktų liudijimų perdavimo vykdyti kitoms Europos Sąjungos valstybėms narėms tvarka ir sąlygos; 
 Papildyta straipsnio punktu:
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
+ 
+
+
+
+
+13) bendradarbiavimas su Europos Sąjungos valstybėmis narėmis atliekant ikiteisminį tyrimą, kai kompetentinga institucija paskirta Europos prokuratūra. 
+Papildyta straipsnio punktu:
+Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
  
 
 
@@ -2603,14 +2612,25 @@ EUROPOS TYRIMO ORDERIŲ PRIPAŽINIMO IR VYKDYMO LIETUVOS RESPUBLIKOJE TVARKA IR 
 
 
 
-3) Lietuvos Respublikos generalinės prokuratūros prokuroras, užrašydamas rezoliuciją, – kai reikia suimtą arba su laisvės atėmimu susijusią bausmę atliekantį asmenį laikinai perduoti iš Lietuvos Respublikos arba į Lietuvos Respubliką. 
+3) Lietuvos Respublikos generalinės prokuratūros prokuroras, užrašydamas rezoliuciją, – kai reikia suimtą arba su laisvės atėmimu susijusią bausmę atliekantį asmenį laikinai perduoti iš Lietuvos Respublikos arba į Lietuvos Respubliką; 
+
+
+
+
+4) Europos deleguotasis prokuroras – kai atliekamas ikiteisminis tyrimas, susijęs su Europos prokuratūros kompetencija. 
+Papildyta straipsnio punktu:
+Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
+ 
 
 
 
 
 
 
-2. Teismas ir prokuroras Europos tyrimo orderį iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos gauna tiesiogiai arba per Lietuvos Respublikos teisingumo ministeriją ar Lietuvos Respublikos generalinę prokuratūrą. Visas tolesnis teismo ar prokuroro ir kitos Europos Sąjungos valstybės narės kompetentingos institucijos susirašinėjimas vyksta tiesiogiai. 
+2. Teismas ir prokuroras Europos tyrimo orderį iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos gauna tiesiogiai arba per Lietuvos Respublikos teisingumo ministeriją ar Lietuvos Respublikos generalinę prokuratūrą, o Europos deleguotasis prokuroras, kai atliekamas ikiteisminis tyrimas, susijęs su Europos prokuratūros kompetencija, – tiesiogiai. Visas tolesnis teismo ar prokuroro ir kitos Europos Sąjungos valstybės narės kompetentingos institucijos susirašinėjimas vyksta tiesiogiai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
+ 
 
 
 
@@ -3045,7 +3065,15 @@ LIETUVOS RESPUBLIKOJE IŠDUOTŲ EUROPOS TYRIMO ORDERIŲ PERDAVIMO VYKDYTI KITOMS
 
 
 
-3) Lietuvos Respublikos generalinė prokuratūra, kai Europos tyrimo orderis išduodamas Lietuvos Respublikos generalinei prokuratūrai atliekant ikiteisminį tyrimą arba gavus ikiteisminio tyrimo įstaigos, kurios atliekamam ikiteisminiam tyrimui vadovauja Lietuvos Respublikos generalinė prokuratūra, prašymą, arba gavus ikiteisminiam tyrimui vadovaujančio prokuroro arba teismo prašymą tuo atveju, kai reikia laikinai perduoti suimtą arba su laisvės atėmimu susijusią bausmę atliekantį asmenį iš Lietuvos Respublikos arba į Lietuvos Respubliką. 
+3) Lietuvos Respublikos generalinė prokuratūra, kai Europos tyrimo orderis išduodamas Lietuvos Respublikos generalinei prokuratūrai atliekant ikiteisminį tyrimą arba gavus ikiteisminio tyrimo įstaigos, kurios atliekamam ikiteisminiam tyrimui vadovauja Lietuvos Respublikos generalinė prokuratūra, prašymą, arba gavus ikiteisminiam tyrimui vadovaujančio prokuroro arba teismo prašymą tuo atveju, kai reikia laikinai perduoti suimtą arba su laisvės atėmimu susijusią bausmę atliekantį asmenį iš Lietuvos Respublikos arba į Lietuvos Respubliką; 
+
+
+
+
+4) Europos deleguotasis prokuroras – atliekant ikiteisminį tyrimą, kai kompetentinga institucija paskirta Europos prokuratūra. 
+Papildyta straipsnio punktu:
+Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
+ 
 
 
 
@@ -3292,20 +3320,22 @@ TURTO (ARBA ĮRODYMŲ) AREŠTO AKTŲ PRIPAŽINIMO IR VYKDYMO LIETUVOS RESPUBLIKO
 65 straipsnis. Institucijos, pripažįstančios kitoje Europos Sąjungos valstybėje narėje priimtą ir Lietuvos Respublikai perduotą vykdyti turto (arba įrodymų) arešto aktą
 
 
-1. Kitos Europos Sąjungos valstybės narės kompetentingos institucijos priimtą ir Lietuvos Respublikai perduotą vykdyti turto (arba įrodymų) arešto aktą Lietuvos Respublikoje pripažįsta turto buvimo vietos apygardos prokuratūros arba Lietuvos Respublikos generalinės prokuratūros prokuroras, užrašydamas rezoliuciją. Prokuroras turto (arba įrodymų) arešto aktą atsisako pripažinti nutarimu.
+1. Kitos Europos Sąjungos valstybės narės kompetentingos institucijos priimtą ir Lietuvos Respublikai perduotą vykdyti turto (arba įrodymų) arešto aktą Lietuvos Respublikoje, užrašydamas rezoliuciją, pripažįsta turto buvimo vietos apygardos prokuratūros arba Lietuvos Respublikos generalinės prokuratūros prokuroras, o kai atliekamas ikiteisminis tyrimas, susijęs su Europos prokuratūros kompetencija, – Europos deleguotasis prokuroras. Prokuroras turto (arba įrodymų) arešto aktą atsisako pripažinti nutarimu.
 
 
 
 
-2. Prokuroras turto (arba įrodymų) arešto aktą iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos gauna tiesiogiai arba per Lietuvos Respublikos generalinę prokuratūrą. Visas tolesnis prokuroro ir kitos Europos Sąjungos valstybės narės kompetentingos institucijos susirašinėjimas vyksta tiesiogiai. Prokuroras turto (arba įrodymų) arešto aktą iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos taip pat gali gauti iš Lietuvos Respublikos generalinės prokuratūros prokuroro – Lietuvos nacionalinio nario Eurojuste (Lietuvos nacionalinio nario Eurojuste pavaduotojo).
+2. Prokuroras turto (arba įrodymų) arešto aktą iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos gauna tiesiogiai arba per Lietuvos Respublikos generalinę prokuratūrą, o Europos deleguotasis prokuroras, kai atliekamas ikiteisminis tyrimas, susijęs su Europos prokuratūros kompetencija, – tiesiogiai. Visas tolesnis prokuroro ir kitos Europos Sąjungos valstybės narės kompetentingos institucijos susirašinėjimas vyksta tiesiogiai. Prokuroras turto (arba įrodymų) arešto aktą iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos taip pat gali gauti iš Lietuvos Respublikos generalinės prokuratūros prokuroro – Lietuvos nacionalinio nario Eurojuste (Lietuvos nacionalinio nario Eurojuste pavaduotojo).
 
 
 
 
 3. Jeigu turto (arba įrodymų) arešto aktą gavo institucija, neturinti kompetencijos spręsti dėl jo pripažinimo, turto (arba įrodymų) arešto aktą ji persiunčia šio straipsnio 1 dalyje nurodytai kompetentingai institucijai kuo greičiau, o kai tai praktiškai įmanoma, – per 24 valandas nuo gavimo, ir apie tai informuoja kitos Europos Sąjungos valstybės narės kompetentingą instituciją. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
  
-
-
 
 
 
@@ -3359,7 +3389,6 @@ TURTO (ARBA ĮRODYMŲ) AREŠTO AKTŲ PRIPAŽINIMO IR VYKDYMO LIETUVOS RESPUBLIKO
 
 
 5. Šiame straipsnyje ir šio įstatymo 65 straipsnyje nustatyta tvarka surašytos prokuroro rezoliucijos ir priimti nutarimai neskundžiami. 
- 
 
 
 
@@ -3515,7 +3544,10 @@ LIETUVOS RESPUBLIKOJE IŠDUOTŲ TURTO (ARBA ĮRODYMŲ) AREŠTO AKTŲ LIUDIJIMŲ 
 
 
 
-2. Turto (arba įrodymų) arešto akto liudijimą išduoda Lietuvos Respublikos generalinė prokuratūra arba apygardos prokuratūra, kai turto (arba įrodymų) arešto akto liudijimas išduodamas Lietuvos Respublikos generalinei prokuratūrai ar apygardos prokuratūrai atliekant ikiteisminį tyrimą arba gavus bylą nagrinėjančio teismo ar ikiteisminio tyrimo įstaigos, kurios atliekamam ikiteisminiam tyrimui vadovauja Lietuvos Respublikos generalinė prokuratūra ar apygardos prokuratūra, prašymą. 
+2. Turto (arba įrodymų) arešto akto liudijimą išduoda Lietuvos Respublikos generalinė prokuratūra arba apygardos prokuratūra, kai turto (arba įrodymų) arešto akto liudijimas išduodamas Lietuvos Respublikos generalinei prokuratūrai ar apygardos prokuratūrai atliekant ikiteisminį tyrimą arba gavus bylą nagrinėjančio teismo ar ikiteisminio tyrimo įstaigos, kurios atliekamam ikiteisminiam tyrimui vadovauja Lietuvos Respublikos generalinė prokuratūra ar apygardos prokuratūra, prašymą, taip pat Europos deleguotasis prokuroras, kai atliekant tyrimą kompetentinga institucija paskirta Europos prokuratūra. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
+ 
 
 
 
@@ -3630,17 +3662,50 @@ Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 
 
 XIV SKYRIUS
+BENDRADARBIAVIMAS SU EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS ATLIEKANT EUROPOS PROKURATŪROS TYRIMUS 
+ 
+
+
+72 straipsnis. Bendradarbiavimas su Europos Sąjungos valstybėmis narėmis, dalyvaujančiomis įgyvendinant tvirtesnį bendradarbiavimą dėl Europos prokuratūros įsteigimo
+
+
+Atliekant ikiteisminį tyrimą, kai kompetentinga institucija paskirta Europos prokuratūra, ir siekiant bendradarbiavimo su Europos Sąjungos valstybėmis narėmis, dalyvaujančiomis tvirtesniame bendradarbiavime dėl Europos prokuratūros įsteigimo, šio įstatymo nuostatos netaikomos, o bendradarbiavimas vyksta Europos deleguotiesiems prokurorams susižinant tiesiogiai.
+ 
+
+
+
+
+
+
+73 straipsnis. Bendradarbiavimas su Europos Sąjungos valstybėmis narėmis, nedalyvaujančiomis tvirtesniame bendradarbiavime dėl Europos prokuratūros įsteigimo
+
+
+Atliekant ikiteisminį tyrimą, kai kompetentinga institucija paskirta Europos prokuratūra, ir siekiant bendradarbiavimo su Europos Sąjungos valstybėmis narėmis, nedalyvaujančiomis tvirtesniame bendradarbiavime dėl Europos prokuratūros įsteigimo, Europos deleguotasis prokuroras, vadovaudamasis Reglamentu (ES) 2017/1939 ir šiuo įstatymu, taiko šiame įstatyme nustatytas tarpusavio pripažinimo priemones. 
+
+
+
+
+Papildyta skyriumi:
+Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
+ 
+
+
+
+
+XV SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
 Skyriaus numeracijos pakeitimas:
 Nr. XII-1675, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07408
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
+Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
  
 
 
-72 straipsnis. Įstatymo įsigaliojimas ir taikymas
+74 straipsnis. Įstatymo įsigaliojimas ir taikymas
 Straipsnio numeracijos pakeitimas:
 Nr. XII-1675, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07408
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
+Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
  
 
 
@@ -3680,10 +3745,11 @@ Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 
 
 
-73 straipsnis. Pasiūlymas Lietuvos Respublikos teisingumo ministrui 
+75 straipsnis. Pasiūlymas Lietuvos Respublikos teisingumo ministrui 
 Straipsnio numeracijos pakeitimas:
 Nr. XII-1675, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07408
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
+Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
  
 
 
@@ -3702,14 +3768,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 Respublikos Prezidentė                                                                             Dalia Grybauskaitė
  
+
+
+
+
+
+
  
- 
-
-
-
-
-
-
 Lietuvos Respublikos įstatymo
 „Dėl Europos Sąjungos valstybių
 narių sprendimų
@@ -3769,6 +3834,14 @@ Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
  
 
 
+
+
+7. 2017 m. spalio 12 d. Europos Tarybos reglamentas (ES) 2017/1939, kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje. 
+Papildyta punktu:
+Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
+ 
+
+
  
  
 Pakeitimai:
@@ -3787,3 +3860,8 @@ Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių spren
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1903, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00887
 Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Nr. XII-1322 18 straipsnio pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
+Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Nr. XII-1322 1, 51, 59, 65, 69 straipsnių ir priedo pakeitimo ir Įstatymo papildymo nauju XIV skyriumi įstatymas
