@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2020-11-19 iki 2020-11-19
+Suvestinė redakcija nuo 2020-11-20 iki 2020-12-18
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -700,6 +700,34 @@ Nr. XI-2200, 2012-06-30, Žin., 2012, Nr. 82-4278 (2012-07-13)
 
 
 
+174 straipsnis. Europos prokuratūra
+
+
+1. Europos prokuratūra yra Europos Sąjungos baudžiamojo persekiojimo įstaiga, atliekanti, organizuojanti ir kontroliuojanti nusikalstamų veikų tyrimą ir vykdanti asmenų baudžiamąjį persekiojimą pagal Reglamente (ES) 2017/1939 nustatytą kompetenciją. 
+
+
+
+
+2. Europos prokuratūra pagal savo kompetenciją nusikalstamų veikų tyrimo ir baudžiamojo persekiojimo srityje dalyvauja baudžiamajame procese per Europos prokuratūros vardu Lietuvos Respublikos teritorijoje veikiančius Europos deleguotąjį prokurorą ir Europos prokurorą.
+
+
+
+
+3. Europos prokuratūros nuolatinė kolegija, vadovaudamasi Reglamente (ES) 2017/1939 nustatytomis taisyklėmis, priima šiame reglamente nurodytus sprendimus dėl Europos deleguotojo prokuroro atliekamų tyrimų ir baudžiamojo persekiojimo, duoda privalomus nurodymus Europos deleguotajam prokurorui arba perduoda savo sprendimo priėmimo įgaliojimus ikiteisminį tyrimą ir baudžiamąjį persekiojimą prižiūrinčiam Europos prokurorui.
+
+
+
+
+4. Europos deleguotasis prokuroras ir Europos prokuroras ikiteisminio tyrimo ir baudžiamojo persekiojimo teismuose metu prokuroro funkcijas atlieka ir sprendimus priima vadovaudamiesi Reglamente (ES) 2017/1939 ir šiame Kodekse nustatytomis baudžiamojo proceso taisyklėmis. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
+ 
+
+
+
+
 18 straipsnis. Ikiteisminio tyrimo pareigūnas
 
 
@@ -1022,10 +1050,12 @@ Nr. XIII-626, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12575
 35 straipsnis. Prokuroras
 
 
-Prokuroras yra Lietuvos Respublikos generalinis prokuroras ir jam pavaldūs prokurorai, dalyvaujantys baudžiamajame procese pagal savo kompetenciją.
+Prokuroras yra Lietuvos Respublikos generalinis prokuroras ir jam pavaldūs prokurorai, taip pat Europos prokuratūros vardu Lietuvos Respublikoje veikiantys Europos deleguotasis prokuroras ir Europos prokuroras, dalyvaujantys baudžiamajame procese pagal savo kompetenciją. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
  
-
-
 
 
 
@@ -2210,6 +2240,19 @@ Nr. XIII-398, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09781
 
 Straipsnio pakeitimai:
 Nr. XII-346, 2013-05-30, Žin., 2013, Nr. 62-3058 (2013-06-12)
+ 
+
+
+
+
+671 straipsnis. Susižinojimo su užsienio valstybių įstaigomis ir tarptautinėmis organizacijomis tvarka tiriant bylas, kai kompetentinga institucija paskirta Europos prokuratūra
+
+
+Tiriant bylas, kai kompetentinga institucija paskirta Europos prokuratūra, susižinojimas su užsienio valstybių įstaigomis ir tarptautinėmis organizacijomis vyksta Reglamento (ES) 2017/1939, šio Kodekso ir įstatymų nustatyta tvarka. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
  
 
 
@@ -6015,11 +6058,18 @@ Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
 
 
 6. Atsisakius pradėti ikiteisminį tyrimą šio straipsnio 1 dalyje nustatytais atvejais ir esant duomenų apie administracinį nusižengimą ar kituose teisės aktuose numatytą nusižengimą, prokuroras, ikiteisminio tyrimo pareigūnas nutarimu atsisakyti pradėti ikiteisminį tyrimą perduoda šį skundą, pareiškimą ar pranešimą ir patikslinimą išspręsti Lietuvos Respublikos administracinių nusižengimų kodekse ar kituose teisės aktuose nustatyta tvarka.
-TAR pastaba. 168 straipsnio 5 dalies nuostatos taikomos ir tais atvejais, kai yra duomenų apie administracinį teisės pažeidimą, numatytą Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449.
 Straipsnio dalies pakeitimai:
 Nr. XII-2710, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26495
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-357, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08713
+ 
+
+
+
+
+7. Europos prokuratūros nuolatinė kolegija, vadovaudamasi Reglamente (ES) 2017/1939 nustatytomis taisyklėmis, gali nurodyti Europos deleguotajam prokurorui pradėti ikiteisminį tyrimą, jei Europos deleguotasis prokuroras yra priėmęs sprendimą atsisakyti pradėti ikiteisminį tyrimą arba patvirtinęs ikiteisminio tyrimo pareigūno priimtą nutarimą atsisakyti pradėti ikiteisminį tyrimą ar atmetęs asmens, pateikusio pareiškimą ar pranešimą dėl ikiteisminio tyrimo pradėjimo, skundą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
  
 
 
@@ -6098,12 +6148,26 @@ Nr. XI-2109, 2012-06-21, Žin., 2012, Nr. 78-4030 (2012-07-04)
 
 
 
-5. Aukštesnysis prokuroras nustato prokurorų padarytus proceso įstatymų pažeidimus, panaikina neteisėtus ar nepagrįstus jų nutarimus ir duoda prokurorams privalomus nurodymus, išskyrus nurodymą, kokį proceso sprendimą priimti.
+5. Europos deleguotasis prokuroras ar Europos prokuroras, priimdamas šio straipsnio 4 dalies 1, 3, 4 ir 5 punktuose nurodytus sprendimus, vadovaujasi Reglamente (ES) 2017/1939 ir šiame Kodekse nustatytomis taisyklėmis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
+ 
 
 
 
 
-6. Tik prokuroras gali kreiptis į ikiteisminio tyrimo teisėją dėl šio teisėjo kompetencijai priskirtų veiksmų atlikimo. Šio Kodekso 214 ir 217 straipsniuose numatytais atvejais prokuroro nutarimus dėl ikiteisminio tyrimo nutraukimo ir dėl nutraukto ikiteisminio tyrimo atnaujinimo turi patvirtinti ikiteisminio tyrimo teisėjas.
+6. Aukštesnysis prokuroras nustato prokurorų padarytus proceso įstatymų pažeidimus, panaikina neteisėtus ar nepagrįstus jų nutarimus ir duoda prokurorams privalomus nurodymus, išskyrus nurodymą, kokį proceso sprendimą priimti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
+ 
+
+
+
+
+7. Tik prokuroras gali kreiptis į ikiteisminio tyrimo teisėją dėl šio teisėjo kompetencijai priskirtų veiksmų atlikimo. Šio Kodekso 214 ir 217 straipsniuose numatytais atvejais prokuroro nutarimus dėl ikiteisminio tyrimo nutraukimo ir dėl nutraukto ikiteisminio tyrimo atnaujinimo turi patvirtinti ikiteisminio tyrimo teisėjas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
+ 
 
 
 Straipsnio pakeitimai:
@@ -7675,6 +7739,14 @@ Nr. XII-2710, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26495
 7. Asmeniui, pagal kurio skundą, pareiškimą ar pranešimą pradėtas ikiteisminis tyrimas, pranešama apie sprendimą nutraukti bylą.
 
 
+
+
+8. Europos deleguotasis prokuroras ar Europos prokuroras, nutraukdamas ikiteisminį tyrimą, vadovaujasi Reglamente (ES) 2017/1939 nustatytomis taisyklėmis ir šio Kodekso 212, 213, 214 straipsniuose nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
+ 
+
+
 Straipsnio pakeitimai:
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 Nr. XI-1478, 2011-06-21, Žin., 2011, Nr. 81-3965 (2011-07-05)
@@ -7795,6 +7867,14 @@ Nr. XIII-1845, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21875
  
 
 
+
+
+9. Europos deleguotasis prokuroras ar Europos prokuroras, atnaujindamas ikiteisminį tyrimą, vadovaujasi Reglamente (ES) 2017/1939 nustatytomis taisyklėmis ir šio straipsnio nuostatomis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-1496, 2003-04-10, Žin., 2003, Nr. 38-1734 (2003-04-24)
 Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
@@ -7849,9 +7929,19 @@ Ikiteisminio tyrimo pabaiga kaltinamojo akto surašymu
 
 
 
-8. Jeigu įtariamasis yra ne Lietuvos Respublikos teritorijoje, prokuroras siunčia pranešimą apie ikiteisminio tyrimo dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, arba dėl nusikaltimo, kuriuo padaryta didelės žalos, pabaigą Lietuvos Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo įstaigoms užsienio valstybėje. 
+8. Europos deleguotasis prokuroras ar Europos prokuroras, surašydamas kaltinamąjį aktą, vadovaujasi Reglamente (ES) 2017/1939 nustatytomis taisyklėmis ir šio Kodekso 219 straipsnio nuostatomis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
+ 
+
+
+
+
+9. Jeigu įtariamasis yra ne Lietuvos Respublikos teritorijoje, prokuroras siunčia pranešimą apie ikiteisminio tyrimo dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso 7 straipsnio pagrindais, arba dėl nusikaltimo, kuriuo padaryta didelės žalos, pabaigą Lietuvos Respublikos tarptautinėse sutartyse numatytoms centrinėms susižinojimo įstaigoms užsienio valstybėje. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
  
 
 
@@ -8326,7 +8416,10 @@ Nr. XII-775, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03406
 
 
 
-4) įstatymų numatytais atvejais kreipiamasi į kompetentingą Europos Sąjungos teisminę instituciją dėl Europos Sąjungos teisės aktų aiškinimo ar galiojimo, – kol bus gautas šios institucijos preliminarus nutarimas.
+4) įstatymų numatytais atvejais kreipiamasi į kompetentingą Europos Sąjungos teisminę instituciją dėl Europos Sąjungos teisės aktų aiškinimo ar galiojimo, – kol bus gautas šios institucijos prejudicinis sprendimas. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
+ 
 
 
 
@@ -13427,10 +13520,11 @@ Nr. X-1236, 2007-06-28, Žin., 2007, Nr. 81-3312 (2007-07-21)
 
 
 
-3. Kasacinės bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją preliminaraus nutarimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu, arba jei prireikia prašyti Europos žmogaus teisių teismo konsultacinės išvados dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu.
+3. Kasacinės bylos nagrinėjimas taip pat atidedamas, jei prireikia kreiptis į Lietuvos Respublikos Konstitucinį Teismą, kad šis nuspręstų, ar įstatymas arba kitas teisės aktas neprieštarauja Lietuvos Respublikos Konstitucijai, arba jei prireikia kreiptis į kompetentingą Europos Sąjungos teisminę instituciją prejudicinio sprendimo Europos Sąjungos teisės aktų aiškinimo ar galiojimo klausimu, arba jei prireikia prašyti Europos žmogaus teisių teismo konsultacinės išvados dėl principinių klausimų, susijusių su Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijoje ar jos protokoluose apibrėžtų teisių ir laisvių aiškinimu ar taikymu. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1773, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09616
 Nr. XIII-1436, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11746
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
  
 
 
@@ -14306,6 +14400,14 @@ TEISMO Baudžiamojo įsakymo PRIĖMIMO procesas
 4. Prokuroras, priėmęs sprendimą užbaigti procesą teismo baudžiamuoju įsakymu, privalo apie tai pranešti nukentėjusiajam. Nukentėjusysis per septynias dienas nuo tokio pranešimo gavimo gali prokuroro sprendimą apskųsti ikiteisminio tyrimo teisėjui. Skundas nagrinėjamas šio Kodekso 64 straipsnyje nustatyta tvarka.
 
 
+
+
+5. Europos deleguotasis prokuroras ar Europos prokuroras, surašydamas pareiškimą dėl proceso užbaigimo teismo baudžiamuoju įsakymu, vadovaujasi Reglamente (ES) 2017/1939 nustatytomis taisyklėmis, šio straipsnio ir šio Kodekso 419 straipsnio nuostatomis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
+ 
+
+
 Straipsnio pakeitimai:
 Nr. IX-2336, 2004-07-08, Žin., 2004, Nr. 115-4276 (2004-07-24)
 Nr. XI-1014, 2010-09-21, Žin., 2010, Nr. 113-5742 (2010-09-25)
@@ -14526,6 +14628,14 @@ Pagreitintas procesas
 
 
 2. Prokuroras šio straipsnio 1 dalyje nurodytu atveju kaltinamojo akto nesurašo, tačiau su pareiškimu teismui pateikia ikiteisminio tyrimo metu surinktą medžiagą, jeigu buvo atliekami proceso veiksmai. Prokuroras kartu su ikiteisminio tyrimo įstaiga privalo pranešti kaltinamajam, jo gynėjui, nukentėjusiajam, civiliniam ieškovui, civiliniam atsakovui ir jų atstovams bei liudytojams apie teismo posėdžio, kuriame byla bus nagrinėjama pagreitinto proceso tvarka, laiką ir vietą. Ikiteisminio tyrimo metu apklaustiems nukentėjusiesiems, civiliniams ieškovams ir civiliniams atsakovams taip pat pranešama, kad jų neatvykimas be svarbių priežasčių laikomas sutikimu nagrinėti bylą jiems nedalyvaujant ir nekliudo nagrinėti bylą, išskyrus atvejus, kai teismas pripažįsta, kad jų dalyvavimas būtinas.
+
+
+
+
+3. Europos deleguotasis prokuroras ar Europos prokuroras, surašydamas pareiškimą dėl bylos nagrinėjimo pagreitinto proceso tvarka, vadovaujasi Reglamente (ES) 2017/1939 nustatytomis taisyklėmis, šio straipsnio ir šio Kodekso 427 straipsnyje nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
+ 
 
 
 Straipsnio pakeitimai:
@@ -15770,6 +15880,14 @@ Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
  
 
 
+
+
+23. 2017 m. spalio 12 d. Europos Tarybos reglamentas (ES) 2017/1939, kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje. 
+Papildyta punktu:
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
+ 
+
+
 Kodeksas papildytas priedu:
 Nr. IX-2170, 2004-04-27, Žin., 2004, Nr. 72-2493 (2004-04-30)
 Priedo pakeitimai:
@@ -16321,3 +16439,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 8, 28, 38 ir 82 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3351, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24236
 Lietuvos Respublikos baudžiamojo proceso kodekso 212, 254 ir 327 straipsnių pakeitimo įstatymas
+ 
+52.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3051, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13619
+Lietuvos Respublikos baudžiamojo proceso kodekso 35, 168, 170, 214, 217, 218, 234, 381, 418, 426 straipsnių ir priedo pakeitimo ir Kodekso papildymo 17-4, 67-1 straipsniais įstatymas
