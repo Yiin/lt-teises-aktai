@@ -20,10 +20,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E"
 
 
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-11-19
+Suvestinė redakcija nuo 2020-11-20 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1958, i. k. 0941010ISTA000I-693
- 
  
 Nauja įstatymo redakcija nuo 2005-07-01:
 Nr. X-212, 2005-05-19, Žin., 2005, Nr. 71-2558 (2005-06-07)
@@ -354,7 +353,18 @@ Pagal šį įstatymą skiriamos šios pareigūnų ir karių valstybinės pensijo
 
 
 
-6) darbo tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių institucijose laikas, jeigu pareigūnas į jas buvo laikinai perkeltas Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka. 
+6) darbo tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių institucijose laikas, jeigu pareigūnas į jas buvo laikinai perkeltas Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo nustatyta tvarka, Reglamento (ES) 2017/1939 nustatyta tvarka buvo paskirtas eiti Europos deleguotojo prokuroro pareigas Europos prokuratūroje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
+ 
+
+
+
+
+7) darbo laikas, kai asmuo Reglamento (ES) 2017/1939 nustatyta tvarka buvo paskirtas eiti Europos prokuroro pareigas Europos prokuratūroje. 
+Papildyta straipsnio punktu:
+Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -372,6 +382,14 @@ Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
 3. Vidaus tarnybos sistemos pareigūnams, tarnaujantiems muitinės sistemoje, į tarnybos laiką pensijai skirti neįskaitomas tarnybos muitinės sistemoje laikas, kada jiems buvo mokama pareigūnų ir karių valstybinė pensija. 
 
 
+
+
+4. Pareigūnų, Reglamento (ES) 2017/1939 nustatyta tvarka paskirtų eiti Europos prokuroro pareigas Europos prokuratūroje, tarnybos Europos prokuratūroje laikas į tarnybos laiką pareigūnų ir karių valstybinei pensijai skirti įskaitomas tik nustatant šių asmenų teisę gauti pareigūnų ir karių valstybinę pensiją, jeigu šio straipsnio 1 dalies 1–6 punktuose nurodyto tarnybos laiko nepakanka pareigūnų ir karių valstybinei pensijai paskirti. Šioje dalyje nurodytas pareigūno tarnybos Europos prokuratūroje laikas, kuriuo jis ėjo Europos prokuroro pareigas, neįskaitomas į šio įstatymo 7 straipsnio 2 dalyje nurodytus laikotarpius, jis neįskaitomas ir apskaičiuojant pareigūnų ir karių valstybinės netekto darbingumo pensijos dydį šio įstatymo 9 straipsnio 1 dalyje nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
+ 
+
+
 Straipsnio pakeitimai:
 Nr. X-506, 2006-01-20, Žin., 2006, Nr. 17-601 (2006-02-11)
 Nr. X-1027, 2007-01-18, Žin., 2007, Nr. 8-314 (2007-01-19)
@@ -387,11 +405,12 @@ Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
 7 straipsnis. Pareigūnų ir karių valstybinės pensijos už tarnybą dydis
 
 
-1. Pareigūnų ir karių valstybinė pensija už tarnybą skiriama pagal pareigūno ar kario nurodytų paeiliui ištarnautų 5 tarnybos metų palankiausių nuosekliai einančių 12 mėnesių jam nustatyto darbo užmokesčio vidurkį. Pareigūnams ir kariams, nurodytiems šio įstatymo 3 straipsnio 1 dalies 3 punkte ir ištarnavusiems vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje, Vadovybės apsaugos tarnyboje mažiau negu 12 mėnesių, pareigūnų ir karių valstybinės netekto darbingumo pensijos skiriamos pagal pareigūno ar kario ištarnautų mėnesių jam nustatyto darbo užmokesčio vidurkį. Jeigu į pareigūno ar kario nurodytą laikotarpį darbo užmokesčio vidurkiui apskaičiuoti patenka ir laikotarpis nuo 2019 m. sausio 1 d., šio laikotarpio darbo užmokestis mažinamas dalijant jį iš 1,289. Į darbo užmokestį įskaitoma pareiginė alga (tarnybinis atlyginimas), taip pat priedai už tarnybos Lietuvos valstybei stažą, laipsnį (tarnybinį rangą), kvalifikacinę kategoriją (kvalifikacinį rangą), kai šie priedai mokami įstatymų nustatyta tvarka. 
+1. Pareigūnų ir karių valstybinė pensija už tarnybą skiriama pagal pareigūno ar kario nurodytų paeiliui ištarnautų 5 tarnybos metų palankiausių nuosekliai einančių 12 mėnesių, į šį laikotarpį neįskaitant pareigūno tarnybos laiko, kai Reglamento (ES) 2017/1939 nustatyta tvarka jis buvo paskirtas eiti Europos prokuroro pareigas Europos prokuratūroje, jam nustatyto darbo užmokesčio vidurkį. Pareigūnams ir kariams, nurodytiems šio įstatymo 3 straipsnio 1 dalies 3 punkte ir ištarnavusiems vidaus reikalų, vidaus tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje mažiau negu 12 mėnesių, pareigūnų ir karių valstybinės netekto darbingumo pensijos skiriamos pagal pareigūno ar kario ištarnautų mėnesių jam nustatyto darbo užmokesčio vidurkį. Jeigu į pareigūno ar kario nurodytą laikotarpį darbo užmokesčio vidurkiui apskaičiuoti patenka ir laikotarpis nuo 2019 m. sausio 1 d., šio laikotarpio darbo užmokestis mažinamas dalijant jį iš 1,289. Į darbo užmokestį įskaitoma pareiginė alga (tarnybinis atlyginimas), taip pat priedai už tarnybos Lietuvos valstybei stažą, laipsnį (tarnybinį rangą), kvalifikacinę kategoriją (kvalifikacinį rangą), kai šie priedai mokami įstatymų nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1354, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11456
 Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
 Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
+Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
  
 
 
@@ -957,6 +976,20 @@ Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2013-02-22, Žin., 2013, Nr. 22-1068 (2013-02-28)
 Nr. XII-636, 2013-12-03, Žin., 2013, Nr. 128-6522 (2013-12-14)
 Nr. XII-996, 2014-07-10, paskelbta TAR 2014-07-15, i. k. 2014-10249 (2014-07-15)
+ 
+
+
+
+
+17 straipsnis. Įgyvendinami Europos Sąjungos teisės aktai
+
+
+Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
+ 
 
 
 
@@ -972,6 +1005,26 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+
+
+
+
+ 
+Lietuvos Respublikos
+pareigūnų ir karių valstybinių 
+pensijų įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2017 m. spalio 12 d. Europos Tarybos reglamentas (ES) 2017/1939, kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje. 
+
+
+Papildyta priedu:
+Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
+ 
 
 
 
@@ -1254,3 +1307,8 @@ Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3185, 2020-06-26, paskelbta TAR 2020-06-29, i. k. 2020-14371
 Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 1, 9, 10, 12 ir 16 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3348, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23805
+Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymo Nr. I-693 6 ir 7 straipsnių pakeitimo, Įstatymo papildymo 17 straipsniu ir priedu įstatymas
