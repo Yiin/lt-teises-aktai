@@ -13,14 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2eab8d30b1c111e98451fa7b5933515d"
 
 # Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1 straipsnio pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2020-11-21
+ 
+Įstatymas paskelbtas: TAR 2019-07-29, i. k. 2019-12437
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ŠALPOS PENSIJŲ ĮSTATYMO NR. I-675 1 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
 2019 m. liepos 16 d. Nr. XIII-2346
 Vilnius
- 
- 
  
  
 
@@ -48,6 +53,7 @@ Vilnius
 
 
 „5) Australijos, Japonijos, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje, ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams ir jų šeimos nariams, kuriems išduoti dokumentai, suteikiantys teisę gyventi Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“.“
+ 
 
 
 
@@ -71,12 +77,17 @@ Vilnius
 
 
 
-3. Jungtinės Karalystės piliečiams ir jų šeimos nariams, kurie iki Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos yra įgiję teisę gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai, iki jiems bus išduotas leidimas gyventi Lietuvos Respublikoje, bet ne ilgiau kaip 9 mėnesius nuo Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos, taikomos iki šio įstatymo 1 straipsnio 2 dalies įsigaliojimo jiems galiojusios Lietuvos Respublikos šalpos pensijų įstatymo nuostatos.
+3. Jungtinės Karalystės piliečiams ir jų šeimos nariams, kurie gyvena ir (ar) dirba Europos Sąjungos valstybėje narėje, taip pat asmenims, kurie gyvena ir (ar) dirba Jungtinėje Karalystėje ir kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, turi būti taikomas Lietuvos Respublikos šalpos pensijų įstatymas, iki pereinamojo laikotarpio, nustatyto 2020 m. sausio 24 d. Briuselyje ir Londone pasirašyto Susitarimo dėl Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos ir Europos atominės energijos bendrijos (toliau – Išstojimo susitarimas) 126 straipsnyje (toliau – pereinamasis laikotarpis), pabaigos, taip pat Išstojimo susitarime nustatytais atvejais pasibaigus pereinamajam laikotarpiui taikomos Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų ir Šalpos pensijų įstatymo nuostatos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3388, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24534
+ 
 
 
 
 
-4. Jungtinės Karalystės piliečiams ir jų šeimos nariams iki Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos paskirtos šalpos išmokos mokamos Šalpos pensijų įstatyme nustatytomis sąlygomis iki teisės į šalpos išmoką pabaigos.
+4. Jungtinės Karalystės piliečiams ir jų šeimos nariams iki pereinamojo laikotarpio pabaigos paskirtos šalpos išmokos mokamos Šalpos pensijų įstatyme nustatytomis sąlygomis iki teisės į šalpos išmoką pabaigos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3388, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24534
  
 
 
@@ -100,3 +111,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3388, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24534
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 1 straipsnio pakeitimo įstatymo Nr. XIII-2346 2 straipsnio pakeitimo įstatymas
