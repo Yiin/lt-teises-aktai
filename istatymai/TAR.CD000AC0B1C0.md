@@ -13,14 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/cd000ac0b1c011e98451fa7b5933515d"
 
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 1 ir 2 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2020-11-21
+ 
+Įstatymas paskelbtas: TAR 2019-07-29, i. k. 2019-12436
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PINIGINĖS SOCIALINĖS PARAMOS NEPASITURINTIEMS GYVENTOJAMS ĮSTATYMO NR. IX-1675 1 IR 2 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
  
 2019 m. liepos 16 d. Nr. XIII-2345
 Vilnius
- 
- 
  
  
 
@@ -62,6 +67,7 @@ Vilnius
 
 
 „5) Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems išduoti leidimai laikinai gyventi Lietuvos Respublikoje ir kurie ne mažiau kaip 3 mėnesius gyvena Lietuvos Respublikoje. Šių valstybių piliečiams darbuotojams (taip pat savarankiškai dirbantiems asmenims) ir jų šeimos nariams reikalavimas ne mažiau kaip 3 mėnesius gyventi Lietuvos Respublikoje netaikomas.“ 
+ 
 
 
 
@@ -81,6 +87,7 @@ Papildyti 2 straipsnį 16 dalimi:
 
 
 „16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“.“
+ 
 
 
 
@@ -104,7 +111,9 @@ Papildyti 2 straipsnį 16 dalimi:
 
 
 
-3. Jungtinės Karalystės piliečiams ir jų šeimos nariams, kurie iki Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos yra įgiję teisę gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai, iki jiems bus išduotas leidimas gyventi Lietuvos Respublikoje, bet ne ilgiau kaip 9 mėnesius nuo Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos, taikomos iki šio įstatymo 1 straipsnio 3 dalies įsigaliojimo jiems galiojusios Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo nuostatos.
+3. Jungtinės Karalystės piliečiams ir jų šeimos nariams, kurie yra įgiję teisę gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai, iki pereinamojo laikotarpio, nustatyto 2020 m. sausio 24 d. Briuselyje ir Londone pasirašyto Susitarimo dėl Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos ir Europos atominės energijos bendrijos 126 straipsnyje, pabaigos taikomos Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo nuostatos, reglamentuojančios piniginės socialinės paramos skyrimą ir mokėjimą Europos Sąjungos valstybės narės ar Europos ekonominei erdvei priklausančios Europos laisvosios prekybos asociacijos valstybės narės piliečiams ir jų šeimos nariams.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3386, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24532
  
 
 
@@ -127,4 +136,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentas                                                                                            Gitanas Nausėda
+Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3386, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24532
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 1 ir 2 straipsnių pakeitimo įstatymo Nr. XIII-2345 3 straipsnio pakeitimo įstatymas
