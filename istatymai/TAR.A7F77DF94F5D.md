@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-11-14 iki 2020-11-20
+Suvestinė redakcija nuo 2020-11-21 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
  
@@ -477,10 +477,11 @@ Nr. XIII-2651, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20992
 
 
 
-11. Stažas, įgytas Jungtinėje Didžiosios Britanijos ir Šiaurės Airijos Karalystėje iki Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos, apskaičiuojamas Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentuose nustatyta tvarka.
-TAR pastaba. 10 straipsnio papildymas 11 dalimi įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
+11. Stažas, įgytas Jungtinėje Didžiosios Britanijos ir Šiaurės Airijos Karalystėje iki pereinamojo laikotarpio, nustatyto 2020 m. sausio 24 d. Briuselyje ir Londone pasirašyto Susitarimo dėl Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos ir Europos atominės energijos bendrijos (toliau – Išstojimo susitarimas) 126 straipsnyje (toliau – pereinamasis laikotarpis), pabaigos ir Išstojimo susitarime nustatytais atvejais pasibaigus pereinamajam laikotarpiui, įskaitomas Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentuose nustatyta tvarka.
 Papildyta straipsnio dalimi:
 Nr. XIII-2048, 2019-04-11, paskelbta TAR 2019-04-18, i. k. 2019-06366
+Straipsnio dalies pakeitimai:
+Nr. XIII-3384, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24530
  
 
 
@@ -3784,3 +3785,8 @@ Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 8 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3370, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23937
 Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 38 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3384, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24530
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 10 straipsnio pakeitimo įstatymas
