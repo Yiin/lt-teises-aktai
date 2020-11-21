@@ -13,14 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/43781090b1c011e98451fa7b5933515d"
 
 # Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 5 straipsnio pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2020-11-21
+ 
+Įstatymas paskelbtas: TAR 2019-07-29, i. k. 2019-12435
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 PARAMOS MIRTIES ATVEJU ĮSTATYMO NR. I-348 5 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
  
 2019 m. liepos 16 d. Nr. XIII-2344
 Vilnius
- 
- 
  
  
 
@@ -62,6 +67,7 @@ Vilnius
 
 
 „10) Lietuvos Respublikoje gyvenusiems Australijos, Japonijos, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Jungtinių Amerikos Valstijų, Kanados, Naujosios Zelandijos, Pietų Korėjos piliečiams ir jų šeimos nariams, kuriems buvo išduoti leidimai laikinai gyventi Lietuvos Respublikoje.“
+ 
 
 
 
@@ -85,7 +91,9 @@ Vilnius
 
 
 
-3. Jungtinės Karalystės piliečiams ir jų šeimos nariams, kurie iki Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos yra įgiję teisę gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai, iki jiems bus išduotas leidimas gyventi Lietuvos Respublikoje, bet ne ilgiau kaip 9 mėnesius nuo Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos, taikomos iki šio įstatymo 1 straipsnio 3 dalies įsigaliojimo jiems galiojusios Lietuvos Respublikos paramos mirties atveju įstatymo nuostatos.
+3. Jungtinės Karalystės piliečiams ir jų šeimos nariams, kurie gyvena ir (ar) dirba Europos Sąjungos valstybėje narėje, taip pat asmenims, kurie gyvena ir (ar) dirba Jungtinėje Karalystėje, ir kuriems laidojimo pašalpa mokama pagal Lietuvos Respublikos paramos mirties atveju įstatymo 5 straipsnio 1 dalies 5 punktą, iki pereinamojo laikotarpio, nustatyto 2020 m. sausio 24 d. Briuselyje ir Londone pasirašyto Susitarimo dėl Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos ir Europos atominės energijos bendrijos (toliau – Išstojimo susitarimas) 126 straipsnyje (toliau – pereinamasis laikotarpis), pabaigos, taip pat Išstojimo susitarime nustatytais atvejais pasibaigus pereinamajam laikotarpiui taikomos Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų ir Paramos mirties atveju įstatymo nuostatos.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3385, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24531
  
 
 
@@ -109,3 +117,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3385, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24531
+Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 5 straipsnio pakeitimo įstatymo Nr. XIII-2344 2 straipsnio pakeitimo įstatymas
