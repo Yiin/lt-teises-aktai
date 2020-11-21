@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/373bdda0af9c11e98451fa7b5933515d"
 
 # Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2020-11-21
+ 
+Įstatymas paskelbtas: TAR 2019-07-26, i. k. 2019-12401
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ĮSTATYMO „DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES“ NR. IX-2206 PAKEITIMO 
 ĮSTATYMAS
@@ -1260,7 +1267,10 @@ Pakeisti 139 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-3. Šio įstatymo 8 straipsnio 2 dalis, 16 straipsnis, 20 straipsnio 4 dalis įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (toliau – Jungtinė Karalystė) išstojimo iš Europos Sąjungos dieną.
+3. Šio įstatymo 8 straipsnio 2 dalis, 16 straipsnis, 20 straipsnio 4 dalis įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (toliau – Jungtinė Karalystė) išstojimo iš Europos Sąjungos dieną, o taikomos nuo pereinamojo laikotarpio, nustatyto 2020 m. sausio 24 d. Briuselyje ir Londone pasirašyto Susitarimo dėl Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos ir Europos atominės energijos bendrijos 126 straipsnyje (toliau – pereinamasis laikotarpis), pabaigos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3390, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24539
+ 
 
 
 
@@ -1290,32 +1300,50 @@ Pakeisti 139 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 
-9. Šio įstatymo nuostatos taikomos Jungtinės Karalystės piliečiams ir jų šeimos nariams nuo Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos.
+9. Jungtinės Karalystės piliečiams ir jų šeimos nariams, kurie iki pereinamojo laikotarpio pabaigos yra įgiję teisę gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai ir kurie gyvena Lietuvos Respublikoje, taikomos Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nuostatos, kurios taikomos Europos Sąjungos valstybių narių piliečiams ir jų šeimos nariams. Dokumentai, išduoti Jungtinės Karalystės piliečiams ir jų šeimos nariams iki pereinamojo laikotarpio pabaigos, galioja iki juose nurodytos galiojimo datos, išskyrus atvejus, kai Jungtinės Karalystės piliečiams ir jų šeimos nariams išduodamas šio straipsnio 12 ar 13 dalyje nurodytas leidimas gyventi Lietuvos Respublikoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3390, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24539
+ 
 
 
 
 
-10. Jungtinės Karalystės piliečiai ir jų šeimos nariai, kurie iki Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos yra įgiję teisę gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai ir po Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos ketina gyventi Lietuvos Respublikoje, per 9 mėnesius nuo Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos privalo kreiptis į Migracijos departamentą prie Lietuvos Respublikos vidaus reikalų ministerijos dėl leidimo gyventi Lietuvos Respublikoje išdavimo.
+10. Jungtinės Karalystės piliečiai ir jų šeimos nariai, kurie iki pereinamojo laikotarpio pabaigos yra įgiję teisę gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai ir kurie pasibaigus pereinamajam laikotarpiui ketina gyventi Lietuvos Respublikoje ir pageidauja gauti leidimą gyventi Lietuvos Respublikoje, turi kreiptis į Migracijos departamentą prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas) dėl leidimo gyventi Lietuvos Respublikoje išdavimo. Migracijos departamentas sprendimą dėl leidimo gyventi Lietuvos Respublikoje išdavimo priima ne vėliau kaip per vieną mėnesį nuo prašymo išduoti leidimą gyventi Lietuvos Respublikoje gavimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3390, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24539
+ 
 
 
 
 
-11. Jungtinės Karalystės piliečiai ir jų šeimos nariai, kurie iki Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos yra įgiję teisę gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai, šio straipsnio 10 dalyje nurodytu laikotarpiu nepraranda teisės gyventi Lietuvos Respublikoje. Šių užsieniečių teisė gyventi Lietuvos Respublikoje panaikinama, jeigu, vadovaujantis Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 99 straipsnio 3 dalyje ir 104 straipsnio 6 dalyje nurodyta vidaus reikalų ministro nustatyta tvarka, nustatomi Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 106 straipsnyje numatyti teisės gyventi Lietuvos Respublikoje panaikinimo pagrindai.
+11. Neteko galios nuo 2020-11-21
+Straipsnio dalies naikinimas:
+Nr. XIII-3390, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24539
+ 
 
 
 
 
-12. Jungtinės Karalystės piliečiams ir jų šeimos nariams, kurie iki Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos yra įgiję teisę nuolat gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai, išduodami leidimai nuolat gyventi Lietuvos Respublikoje netaikant Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 53 straipsnio 6 dalyje nustatytų reikalavimų.
+12. Jungtinės Karalystės piliečiams ir jų šeimos nariams, kurie iki pereinamojo laikotarpio pabaigos yra įgiję teisę nuolat gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai ir kurie kreipėsi į Migracijos departamentą dėl leidimo gyventi Lietuvos Respublikoje išdavimo, išduodami leidimai nuolat gyventi Lietuvos Respublikoje netaikant Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“ nustatytų leidimų nuolat gyventi Lietuvos Respublikoje išdavimo sąlygų ir reikalavimų. Šiems asmenims leidimai nuolat gyventi Lietuvos Respublikoje išduodami 10 metų laikotarpiui. Jungtinės Karalystės piliečiai ir jų šeimos nariai teisę nuolat gyventi Lietuvos Respublikoje praranda, jeigu išvyksta iš Lietuvos Respublikos ilgesniam kaip 5 metų iš eilės laikotarpiui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3390, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24539
+ 
 
 
 
 
-13. Jungtinės Karalystės piliečiams ir jų šeimos nariams, kurie iki Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos yra įgiję teisę laikinai gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai, išduodami leidimai laikinai gyventi Lietuvos Respublikoje, jeigu jie atitinka Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 26 straipsnio 1 dalyje nustatytas sąlygas ir vieną iš 40 straipsnio 1 dalyje numatytų leidimo laikinai gyventi Lietuvos Respublikoje išdavimo pagrindų.
+13. Jungtinės Karalystės piliečiams ir jų šeimos nariams, kurie iki pereinamojo laikotarpio pabaigos yra įgiję teisę laikinai gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai ir kurie kreipėsi į Migracijos departamentą dėl leidimo gyventi Lietuvos Respublikoje išdavimo, išduodami leidimai laikinai gyventi Lietuvos Respublikoje netaikant Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“ nustatytų leidimų laikinai gyventi Lietuvos Respublikoje išdavimo sąlygų ir reikalavimų. Šiems asmenims leidimai laikinai gyventi Lietuvos Respublikoje išduodami 5 metų laikotarpiui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3390, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24539
+ 
 
 
 
 
-14. Valstybės rinkliava už prašymo išduoti Jungtinės Karalystės piliečiui ir jo šeimos nariui, kurie iki Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos yra įgiję teisę gyventi Lietuvos Respublikoje kaip Europos Sąjungos valstybės narės piliečiai ir jų šeimos nariai, leidimą laikinai arba nuolat gyventi Lietuvos Respublikoje nagrinėjimą ir leidimo laikinai arba nuolat gyventi Lietuvos Respublikoje įforminimą vadovaujantis Lietuvos Respublikos rinkliavų įstatymu neimama.
+14. Neteko galios nuo 2020-11-21
+Straipsnio dalies naikinimas:
+Nr. XIII-3390, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24539
+ 
 
 
 
@@ -1349,3 +1377,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3390, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24539
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 pakeitimo įstatymo Nr. XIII-2338 28 straipsnio pakeitimo įstatymas
