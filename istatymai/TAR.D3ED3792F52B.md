@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2020-11-20
+Suvestinė redakcija nuo 2020-11-21 iki 2020-12-29
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -1133,10 +1133,11 @@ Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
 
 
 2) eiti daugiau negu vienas valstybės tarnautojo pareigas, dirbti pagal darbo sutartį valstybės ir savivaldybės institucijoje ar įstaigoje, kurioje jis eina valstybės tarnautojo pareigas, taip pat gauti iš valstybės ir savivaldybės institucijos ar įstaigos, kurioje jis eina valstybės tarnautojo pareigas, kitų pajamų negu darbo užmokestis ir šiame įstatyme nustatytos išmokos, kompensacijos ir pašalpos. Seimo nario patarėjas ir Seimo nario padėjėjas (toliau – Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojas) gali eiti ne vienas Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas pas tą patį Seimo narį ar skirtingus tai pačiai frakcijai priklausančius Seimo narius arba eiti Seimo frakcijos, kuriai priklauso Seimo narys, referento pareigas, bet jo darbo laikas einant visas šias pareigas negali būti ilgesnis kaip 60 valandų per savaitę. 
-2 punkto redakcija nuo 2021-01-01:
+2 punkto redakcija nuo 2023-01-01:
 2) eiti daugiau negu vienas valstybės tarnautojo pareigas, dirbti pagal darbo sutartį valstybės ir savivaldybės institucijoje ar įstaigoje, kurioje jis eina valstybės tarnautojo pareigas, taip pat gauti iš valstybės ir savivaldybės institucijos ar įstaigos, kurioje jis eina valstybės tarnautojo pareigas, kitų pajamų negu darbo užmokestis ir šiame įstatyme nustatytos išmokos, kompensacijos ir pašalpos. Seimo nario patarėjas ir Seimo nario padėjėjas (toliau – Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojas) gali eiti ne vienas Seimo nario politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas pas skirtingus tai pačiai frakcijai priklausančius Seimo narius arba eiti Seimo frakcijos, kuriai priklauso Seimo narys, referento pareigas, bet jo darbo laikas einant visas šias pareigas negali būti ilgesnis kaip 40 valandų per savaitę.
 Straipsnio punkto pakeitimai:
 Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
+Nr. XIII-3408, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24571
  
 
 
@@ -4093,3 +4094,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 3, 9, 16, 18, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2989, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12821
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 2 straipsnio pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3408, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24571
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymo Nr. XIII-1370 2 straipsnio pakeitimo įstatymas
