@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-11-20
+Suvestinė redakcija nuo 2020-11-21 iki 2020-12-15
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -221,16 +221,16 @@ Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
 
 
 
-11. Asmenys, kurie iki Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos buvo komandiruoti iš šios valstybės į Lietuvos Respubliką ir kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, buvo nustatyta Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės taikytina teisė, šio straipsnio 1 dalies taikymo tikslais išlaiko savo statusą iki nustatyto komandiravimo termino pabaigos.
+11. Asmenys, kurie iki pereinamojo laikotarpio, nustatyto 2020 m. sausio 24 d. Briuselyje ir Londone pasirašyto Susitarimo dėl Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos ir Europos atominės energijos bendrijos 126 straipsnyje, pabaigos buvo komandiruoti iš Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės į Lietuvos Respubliką ir kuriems, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, buvo nustatyta Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės taikytina teisė, šio straipsnio 1 dalies taikymo tikslais išlaiko savo statusą iki nustatyto komandiravimo termino pabaigos.
 Papildyta straipsnio dalimi:
 Nr. XIII-2050, 2019-04-11, paskelbta TAR 2019-04-18, i. k. 2019-06367
+Straipsnio dalies pakeitimai:
+Nr. XIII-3387, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24533
  
 
 
 
 
-2. Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos teisėjų atlyginimų įstatyme, Lietuvos Respublikos prokuratūros įstatyme, Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme, Lietuvos Respublikos diplomatinės tarnybos įstatyme ir Lietuvos Respublikos valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai, Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), gaunantys darbo užmokestį Lietuvos Respublikos Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
-2 dalies redakcija nuo 2020-11-01:
 2. Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos Prezidento įstatyme, Lietuvos Respublikos teisėjų atlyginimų įstatyme, Lietuvos Respublikos prokuratūros įstatyme, Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme, Lietuvos Respublikos diplomatinės tarnybos įstatyme ir Lietuvos Respublikos valstybės tarnybos įstatyme nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai, Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), Europos deleguotieji prokurorai, kurių socialinio draudimo įmokas moka Lietuvos Respublikos generalinė prokuratūra, darbo užmokestį gaunantys Lietuvos Respublikos Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys draudžiami pensijų, ligos, motinystės, nedarbo, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu.
 Straipsnio dalies pakeitimai:
 Nr. XIII-902, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21498
@@ -3132,4 +3132,9 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2 stra
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2925, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10934
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4 straipsnio pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3387, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24533
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4 straipsnio pakeitimo įstatymas
