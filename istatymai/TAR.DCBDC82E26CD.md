@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DCBDC82E26CD"
 
 # Lietuvos Respublikos gyventojų registro įstatymas
 
-Suvestinė redakcija nuo 2018-08-01 iki 2020-11-20
+Suvestinė redakcija nuo 2020-11-21 iki 2021-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 21-0; Žin. 1992, Nr.5-78, i. k. 0921010ISTA00I-2237
  
@@ -363,7 +363,10 @@ Nr. XIII-1405, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11466
 
 
 
-6. Informacija apie giminystės ir svainystės ryšius gali būti teikiama teisėtvarkos, žvalgybos subjektams, mokesčių administravimo institucijoms teisės aktuose nustatytoms funkcijoms atlikti; Lietuvos Respublikos Seimo komisijoms – įstatymų, Lietuvos Respublikos Seimo nutarimų nustatyta tvarka pavestiems uždaviniams įgyvendinti. Informacija apie giminystės ryšius gali būti teikiama Vyriausiajai tarnybinės etikos komisijai teisės aktuose jai nustatytoms funkcijoms atlikti; notarams – paveldėjimo byloms tvarkyti ir nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti sandorius su artimaisiais giminaičiais; asmenims, kuriems įstatymų nustatyta teisė spręsti Lietuvos Respublikos pilietybės klausimus, – sprendimams šiais klausimais priimti; konsuliniams pareigūnams – kai to reikia konsulinei veiklai atlikti, taip pat nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti santuoką ir sandorius su artimaisiais giminaičiais; Nekilnojamojo turto registro tvarkytojui – kai įregistruojami nekilnojamieji daiktai, įgyti nuosavybėn įgyjamąja senatimi; Įmonių bankroto valdymo departamentui prie Ūkio ministerijos – bankroto administratoriaus giminystės ir svainystės apribojimams nustatyti. 
+6. Informacija apie giminystės ir svainystės ryšius gali būti teikiama teisėtvarkos, žvalgybos subjektams, mokesčių administravimo institucijoms, Vyriausiajai tarnybinės etikos komisijai teisės aktuose nustatytoms funkcijoms atlikti; Lietuvos Respublikos Seimo komisijoms – įstatymų, Lietuvos Respublikos Seimo nutarimų nustatyta tvarka pavestiems uždaviniams įgyvendinti. Informacija apie giminystės ryšius gali būti teikiama notarams paveldėjimo byloms tvarkyti ir nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti sandorius su artimaisiais giminaičiais; asmenims, kuriems įstatymų nustatyta teisė spręsti Lietuvos Respublikos pilietybės klausimus, – sprendimams šiais klausimais priimti; konsuliniams pareigūnams – kai to reikia konsulinei veiklai atlikti, taip pat nustatyti, ar nėra įstatymų nustatytų apribojimų sudaryti santuoką ir sandorius su artimaisiais giminaičiais; Nekilnojamojo turto registro tvarkytojui – kai įregistruojami nekilnojamieji daiktai, įgyti nuosavybėn įgyjamąja senatimi; Įmonių bankroto valdymo departamentui prie Ūkio ministerijos – bankroto administratoriaus giminystės ir svainystės apribojimams nustatyti.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3411, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24581
+ 
 
 
 
@@ -561,4 +564,9 @@ Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 2 ir 5 straipsnių
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1405, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11466
+Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 11 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3411, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24581
 Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 11 straipsnio pakeitimo įstatymas
