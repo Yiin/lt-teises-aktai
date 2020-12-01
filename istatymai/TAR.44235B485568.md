@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.44235B485568"
 
 # Lietuvos Respublikos energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2020-11-30
+Suvestinė redakcija nuo 2020-12-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 56-2224, i. k. 1021010ISTA00IX-884
  
@@ -1525,7 +1525,10 @@ Nr. XIII-2867, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09586
 
 
 
-14) administruoja Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą;
+14) Neteko galios nuo 2020-12-01
+Straipsnio punkto naikinimas:
+Nr. XIII-3431, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24606
+ 
 
 
 
@@ -4118,3 +4121,8 @@ Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 8, 13-1, 21, 22, 23,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3337, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22205
 Lietuvos Respublikos energetikos įstatymo Nr. IX-884 15 straipsnio pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3431, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24606
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 13-1 straipsnio pakeitimo įstatymas
