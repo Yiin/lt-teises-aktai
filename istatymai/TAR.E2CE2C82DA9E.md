@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E2CE2C82DA9E"
 
 # Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-11-30
+Suvestinė redakcija nuo 2020-12-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 77-3046, i. k. 1071010ISTA00X-1212
  
@@ -90,9 +90,10 @@ Nr. XIII-1176, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09067
 
 
 
-5. Biudžeto pajamos – teisės aktuose nustatytos piniginės įplaukos į atitinkamą biudžetą: valstybės, savivaldybių, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo, Rezervinio (stabilizavimo) fondo, valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondo, Garantinio fondo ar kito išteklių fondo. 
+5. Biudžeto pajamos – teisės aktuose nustatytos piniginės įplaukos į atitinkamą biudžetą: valstybės, savivaldybių, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo, Rezervinio (stabilizavimo) fondo, Garantinio fondo ar kito išteklių fondo. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2028, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18620
+Nr. XIII-3434, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24610
  
 
 
@@ -219,7 +220,7 @@ Nr. XIII-1176, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09067
 
 
 
-19. Išteklių fondas – valstybės, savivaldybės iždas, Valstybinio socialinio draudimo fondas, Privalomojo sveikatos draudimo fondas, Rezervinis (stabilizavimo) fondas, valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondas, Garantinis fondas, taip pat pagal atskirą įstatymą arba savivaldybės tarybos sprendimu įsteigtas fondas valstybės arba savivaldybių ištekliams kaupti ir naudoti, kuris laikomas atskiru viešojo sektoriaus subjektu, jei atitinka visus šiuos kriterijus:
+19. Išteklių fondas – valstybės, savivaldybės iždas, Valstybinio socialinio draudimo fondas, Privalomojo sveikatos draudimo fondas, Rezervinis (stabilizavimo) fondas, Garantinis fondas, taip pat pagal atskirą įstatymą arba savivaldybės tarybos sprendimu įsteigtas fondas valstybės arba savivaldybių ištekliams kaupti ir naudoti, kuris laikomas atskiru viešojo sektoriaus subjektu, jeigu atitinka visus šiuos kriterijus:
 
 
 1) įsteigtas tam tikroms valstybės arba savivaldybės funkcijoms atlikti;
@@ -237,6 +238,7 @@ Nr. XIII-1176, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09067
 
 Straipsnio dalies pakeitimai:
 Nr. XII-2028, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18620
+Nr. XIII-3434, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24610
  
 
 
@@ -1745,7 +1747,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
  
  
 
@@ -1817,3 +1819,8 @@ Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 30 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3046, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13962
 Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 19 ir 22-1  straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3434, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24610
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 2 straipsnio pakeitimo įstatymas
