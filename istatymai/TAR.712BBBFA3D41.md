@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-07-10 iki 2020-11-30
+Suvestinė redakcija nuo 2020-12-01 iki 2020-12-17
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -213,10 +213,11 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
-2. Valstybės biudžeto ir savivaldybių biudžetų asignavimai naudojami valstybės ir savivaldybių funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos įmokos ir rinkliavos gali būti perskirstomi tik per valstybės biudžetą ir savivaldybių biudžetus, Valstybinio socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, Rezervinį (stabilizavimo) fondą, Valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondą, Garantinį fondą, Ilgalaikio darbo išmokų fondą.
+2. Valstybės biudžeto ir savivaldybių biudžetų asignavimai naudojami valstybės ir savivaldybių funkcijoms atlikti. Lietuvos Respublikoje surenkami mokesčiai, privalomos įmokos ir rinkliavos gali būti perskirstomi tik per valstybės biudžetą ir savivaldybių biudžetus, Valstybinio socialinio draudimo fondą, Privalomojo sveikatos draudimo fondą, Rezervinį (stabilizavimo) fondą, Garantinį fondą, Ilgalaikio darbo išmokų fondą.
 Straipsnio dalies pakeitimai:
 Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
 Nr. XIII-85, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29273
+Nr. XIII-3429, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24626
  
 
 
@@ -2192,3 +2193,8 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 4 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 5, 8, 17, 18, 32 straipsnių pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3429, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24626
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3 straipsnio pakeitimo įstatymas
