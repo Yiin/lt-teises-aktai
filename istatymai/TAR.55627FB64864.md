@@ -13,14 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.55627FB64864"
 
 # Lietuvos Respublikos valstybės iždo įstatymas
 
-Suvestinė redakcija nuo 2016-01-01 iki 2020-11-30
+Suvestinė redakcija nuo 2020-12-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 100-2001, i. k. 0941010ISTA000I-712
  
 Nauja redakcija nuo 2005-07-21:
 Nr. X-321, 2005-07-05, Žin. 2005, Nr. 88-3289 (2005-07-21), i. k. 1051010ISTA000X-321
  
-LIETUVOS RESPUBLIKOS VALSTYBĖS IŽDO Į S T A T Y M A S
+LIETUVOS RESPUBLIKOS VALSTYBĖS IŽDO ĮSTATYMAS
  
 1994 m. gruodžio 20 d. Nr. I-712
 Vilnius
@@ -318,7 +318,10 @@ REZERVINIS (STABILIZAVIMO) FONDAS
 101 straipsnis. Rezervinio (stabilizavimo) fondo paskirtis 
 
 
-1. Rezervinis (stabilizavimo) fondas (toliau šiame skirsnyje – Fondas) yra valstybės pinigų fondas, kurio tikslas – kaupti valstybės piniginius išteklius, reikalingus valstybės biudžeto išlaidoms finansuoti Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstitucinio įstatymo nustatyta tvarka nustačius išskirtines aplinkybes ir jas paskelbus įstatymų nustatyta tvarka ir valstybės turtiniams įsipareigojimams, susijusiems su valstybės skola, Europos Sąjungos politikos įgyvendinimu ir (arba) su tuo susijusiomis sutartimis ar susitarimais, vykdyti (grąžintinai).
+1. Rezervinis (stabilizavimo) fondas (toliau šiame skirsnyje – Fondas) yra valstybės pinigų fondas, kurio tikslas – kaupti valstybės piniginius išteklius, reikalingus valstybės biudžeto išlaidoms finansuoti Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstitucinio įstatymo nustatyta tvarka nustačius išskirtines aplinkybes, giluminiam radioaktyviųjų atliekų atliekynui įrengti, radioaktyviosioms atliekoms tvarkyti ir valstybės turtiniams įsipareigojimams, susijusiems su valstybės skola, Europos Sąjungos politikos įgyvendinimu ir (arba) su tuo susijusiomis sutartimis ar susitarimais, vykdyti (grąžintinai).
+Straipsnio dalies pakeitimai:
+Nr. XIII-3427, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24604
+ 
 
 
 
@@ -414,7 +417,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                    ALGIRDAS BRAZAUSKAS
  
  
 
@@ -453,3 +456,8 @@ Lietuvos Respublikos valstybės iždo įstatymo 3 straipsnio papildymo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2019, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18610
 Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 1, 9, 11 straipsnių pakeitimo ir Įstatymo papildymo ketvirtuoju-1 skirsniu įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3427, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24604
+Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 10-1 straipsnio pakeitimo įstatymas
