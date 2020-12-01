@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-10-01 iki 2020-11-30
+Suvestinė redakcija nuo 2020-12-01 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -478,6 +478,14 @@ Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 
 
+51) užtikrinant užsienio valstybių, Europos Sąjungos, NATO ar kitų tarptautinių organizacijų informacijos, kurios teikimas ar platinimas yra ribojamas, apsaugą, taikomi Lietuvos Respublikos tarptautinių sutarčių, šiomis sutartimis grindžiamų ir jas įgyvendinančių NATO ar kitų tarptautinių organizacijų sprendimų, Europos Sąjungos teisės aktų nustatyti informacijos apsaugos standartai ir taisyklės; 
+Papildyta straipsnio punktu:
+Nr. XIII-3436, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24612
+ 
+
+
+
+
 6) vykdoma karybos srities standartizacija;
 
 
@@ -789,7 +797,10 @@ Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 
 
-6) administruoti viešosios informacijos apie krašto apsaugos sistemą teikimą, kariuomenės bendradarbiavimą su civilinėmis institucijomis, Lietuvos šaulių sąjunga ir kitomis asociacijomis bei viešosiomis įstaigomis, tiesiogiai prisidedančiomis prie krašto apsaugos sistemos stiprinimo ir visuomenės parengimo gynybai;
+6) administruoti viešosios informacijos apie krašto apsaugos sistemą teikimą, kariuomenės, kitų krašto apsaugos sistemos institucijų bendradarbiavimą su civilinėmis institucijomis, Lietuvos šaulių sąjunga, kitomis asociacijomis ir viešosiomis įstaigomis, kitais juridiniais asmenimis ir organizacijomis, tiesiogiai prisidedančiais prie krašto apsaugos sistemos, NATO, Europos Sąjungos, Lietuvos kariuomenės gynybinių pajėgumų stiprinimo ir visuomenės parengimo gynybai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3436, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24612
+ 
 
 
 
@@ -852,9 +863,17 @@ Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 
 
-9) įsigyti ir įvežti per valstybės sieną krašto apsaugos sistemai reikalingus ginklus, šaudmenis, sprogmenis, specialiąsias priemones, karinę techniką ir kitas su ginkluote susijusias prekes arba įgalioti šiuos veiksmus atlikti kitą krašto apsaugos sistemos instituciją. 
+9) įsigyti ir įvežti per valstybės sieną krašto apsaugos sistemai reikalingus ginklus, šaudmenis, sprogmenis, specialiąsias priemones, karinę techniką ir kitas su ginkluote susijusias prekes arba įgalioti šiuos veiksmus atlikti kitą krašto apsaugos sistemos instituciją; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
+ 
+
+
+
+
+10) finansuoti eksperimentinę plėtrą ir inovacinę veiklą gynybos ir saugumo srityje Lietuvos Respublikos technologijų ir inovacijų įstatymo ir Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymo nustatyta tvarka. 
+Papildyta straipsnio punktu:
+Nr. XIII-3436, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24612
  
 
 
@@ -1226,6 +1245,34 @@ Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 Straipsnio pakeitimai:
 Nr. XII-2429, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17526
+ 
+
+
+
+
+102 straipsnis. Krašto apsaugos sistemos tarnybinio naudojimo informacija
+
+
+1. Valstybės ir tarnybos paslapties nesudaranti informacija apie karinių vienetų pajėgumus ir jų vystymą, tarptautinį gynybos ir karinį bendradarbiavimą, karinių teritorijų saugumo organizavimą laikoma krašto apsaugos sistemos tarnybinio naudojimo informacija tol, kol jos atskleidimas gali pakenkti valstybės saugumo ir gynybos interesams.
+
+
+
+
+2. Krašto apsaugos sistemos tarnybinio naudojimo informacija teikiama ir prieinama tik asmenims, kuriems atliekant tarnybines funkcijas būtina su ja dirbti ar susipažinti.
+
+
+
+
+3. Krašto apsaugos sistemos tarnybinio naudojimo informacija kitiems asmenims teikiama, jeigu pareiga teikti šią informaciją yra numatyta įstatymuose ar jų pagrindu priimtuose kituose norminiuose teisės aktuose.
+
+
+
+
+4. Krašto apsaugos sistemos tarnybinio naudojimo informacijos administravimo sąlygas ir tvarką nustato krašto apsaugos ministras. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3436, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24612
  
 
 
@@ -4113,7 +4160,7 @@ vyresnysis eilinis                               �
 
 
 2) puskarininkių
-grandinis                                                                               grandinis
+grandinis                                                                               grandinis
 seržantas, seržantas specialistas                       seržantas, seržantas specialistas
 vyresnysis seržantas, vyresnysis seržantas       vyresnysis seržantas, vyresnysis
 specialistas                                                                            seržantas specialistas
@@ -4644,10 +4691,12 @@ Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
 
 
-11. Kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams tarnybos tarptautinėje operacijoje metu suteikiamos 15 kalendorinių dienų atostogos, o dėl grįžimo iš tarnybos tarptautinėje operacijoje ar ilgalaikio plaukiojimo kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams krašto apsaugos ministro nustatyta tvarka suteikiamos iki 5 kalendorinių dienų persikėlimo atostogos, kurių pradžia – kita darbo diena po kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario grįžimo iš tarptautinės operacijos ar ilgalaikio plaukiojimo, ir 15 kalendorinių dienų reabilitacijos ir (ar) reintegracijos atostogos. Reabilitacijos ir reintegracijos atostogos suteikiamos sveikatai stiprinti ir reintegracijai vykdyti, kai karys turi sveikatos sutrikimų. Reintegracijos atostogos suteikiamos reintegracijai vykdyti, kai karys neturi sveikatos sutrikimų. Atostogų metu kariui savanoriui ir kitam savanoriškos nenuolatinės karo tarnybos kariui mokama atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto tarnybinio atlyginimo dalis, apskaičiuota proporcingai suteiktų atostogų dienų ir atitinkamo mėnesio darbo dienų skaičiui. 
+11. Kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, nepertraukiamai dalyvaujantiems tarptautinėje operacijoje 6 mėnesius, suteikiamos 15 kalendorinių dienų atostogos, o už kiekvienus 2 paskesnius nepertraukiamo dalyvavimo tarptautinėje operacijoje mėnesius papildomai suteikiamos 5 kalendorinės dienos atostogų, tačiau bendra šių atostogų trukmė negali būti ilgesnė kaip 30 kalendorinių dienų per metus. Jeigu tarptautinių operacijų kariniame vienete tarnaujančiam kariui savanoriui ir kitam savanoriškos nenuolatinės karo tarnybos kariui, atsižvelgiant į karinio vieneto buvimo vietą ir jo parengties reikalavimus, šių atostogų suteikti negalima, už nesuteiktų atostogų dienas jam išmokama atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto tarnybinio atlyginimo dalis, apskaičiuota proporcingai nesuteiktų atostogų dienų ir atitinkamo mėnesio darbo dienų skaičiui. Kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams tarnybos tarptautinėje operacijoje metu krašto apsaugos ministro nustatyta tvarka suteikiamos iki 15 kalendorinių dienų atostogos dėl šeiminių aplinkybių, o dėl grįžimo iš tarnybos tarptautinėje operacijoje ar ilgalaikio plaukiojimo kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams krašto apsaugos ministro nustatyta tvarka suteikiamos iki 5 kalendorinių dienų persikėlimo atostogos, kurių pradžia – kita darbo diena po kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario grįžimo iš tarptautinės operacijos ar ilgalaikio plaukiojimo, ir 15 kalendorinių dienų reabilitacijos ir (ar) reintegracijos atostogos. Reabilitacijos ir reintegracijos atostogos suteikiamos sveikatai stiprinti ir reintegracijai vykdyti, kai karys turi sveikatos sutrikimų. Reintegracijos atostogos suteikiamos reintegracijai vykdyti, kai karys neturi sveikatos sutrikimų. Atostogų metu kariui savanoriui ir kitam savanoriškos nenuolatinės karo tarnybos kariui mokama atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto tarnybinio atlyginimo dalis, apskaičiuota proporcingai suteiktų atostogų dienų ir atitinkamo mėnesio darbo dienų skaičiui. 
+TAR pastaba. Kariams savanoriams ir kitiems aktyviojo rezervo kariams, pradėjusiems tarnybą tarptautinėje operacijoje iki įstatymo Nr. XIII-3436 įsigaliojimo datos (2020-12-01), suteikiamos Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 59 straipsnio 11 dalyje numatytos atostogos vadovaujantis iki šio įstatymo įsigaliojimo galiojusia Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo redakcija
 Straipsnio dalies pakeitimai:
 Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+Nr. XIII-3436, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24612
  
 
 
@@ -4759,10 +4808,11 @@ Nr. XIII-1810, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21824
 
 
 
-3. Profesinės karo tarnybos karių pareiginę algą sudaro tarnybinis atlyginimas ir šio straipsnio 4 dalyje nustatyti priedai. Tarnybinis atlyginimas apskaičiuojamas šio įstatymo 1 priede nustatytą tarnybinio atlyginimo koeficientą, kuris priklauso nuo kario laipsnio ir pagal šį laipsnį ištarnautų metų, padauginus iš Lietuvos Respublikos Seimo patvirtinto atitinkamų metų pareiginės algos bazinio dydžio, kuris taikomas apskaičiuojant valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų ir valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareigines algas (atlyginimus) (toliau – bazinis dydis). Kai tarnybinio atlyginimo koeficientas nebekinta, jis padidinamas 0,1 bazinio dydžio ir taikomas trejus metus. Pasibaigus pirmam trejų metų laikotarpiui, kas trejus po to einančius tarnybos metus paskutinis taikytas tarnybinio atlyginimo koeficientas papildomai didinamas 0,2 bazinio dydžio. 
+3. Profesinės karo tarnybos karių pareiginę algą sudaro tarnybinis atlyginimas ir šio straipsnio 4 dalyje nustatyti priedai. Tarnybinis atlyginimas apskaičiuojamas šio įstatymo 1 priede nustatytą tarnybinio atlyginimo koeficientą, kuris priklauso nuo kario laipsnio ir pagal šį laipsnį ištarnautų metų, padauginus iš Lietuvos Respublikos Seimo patvirtinto atitinkamų metų pareiginės algos bazinio dydžio, kuris taikomas apskaičiuojant valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų ir valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareigines algas (atlyginimus) (toliau – bazinis dydis). Kai tarnybinio atlyginimo koeficientas nebekinta, jis padidinamas 0,1 bazinio dydžio ir taikomas trejus metus. Pasibaigus pirmam trejų metų laikotarpiui, kas trejus po to einančius tarnybos metus paskutinis taikytas tarnybinio atlyginimo koeficientas papildomai didinamas 0,2 bazinio dydžio. Jeigu profesinės karo tarnybos kariui suteikus aukštesnį kario laipsnį apskaičiuotas tarnybinis atlyginimas yra mažesnis už kariui taikytą tarnybinį atlyginimą, profesinės karo tarnybos kariui paliekamas iki aukštesnio kario laipsnio suteikimo nustatytas tarnybinis atlyginimas tol, kol jis susilygina su už aukštesnį kario laipsnį apskaičiuotu tarnybiniu atlyginimu. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+Nr. XIII-3436, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24612
  
 
 
@@ -5785,7 +5835,7 @@ Nr. XII-2510, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20647
 69 straipsnis. Karių skatinimas
 
 
-Išleidžiamas į atsargą karys savanoris ar kitas savanoriškos nenuolatinės karo tarnybos karys, kuris pavyzdingai tarnavo ne mažiau kaip 5 metus ir sukako nustatytą ribinį savanoriškos nenuolatinės karo tarnybos amžių, premijuojamas už pavyzdingą tarnybą. Premijos dydį nustato vadas, atsižvelgdamas į kario tarnybą ir neviršydamas šių maksimalių dydžių:
+1. Išleidžiamas į atsargą karys savanoris ar kitas savanoriškos nenuolatinės karo tarnybos karys, kuris pavyzdingai tarnavo ne mažiau kaip 5 metus ir sukako nustatytą ribinį savanoriškos nenuolatinės karo tarnybos amžių, premijuojamas už pavyzdingą tarnybą. Premijos dydį nustato vadas, atsižvelgdamas į kario tarnybą ir neviršydamas šių maksimalių dydžių:
 
 
 1) kariui savanoriui ar kitam savanoriškos nenuolatinės karo tarnybos kariui, ištarnavusiam nuo 5 iki 10 metų, – iki 2 savanorišką nenuolatinę karo tarnybą atliekančio kario tarnybinių atlyginimų dydžio;
@@ -5793,17 +5843,23 @@ Išleidžiamas į atsargą karys savanoris ar kitas savanoriškos nenuolatinės 
 
 
 
-2) kariui savanoriui ar kitam savanoriškos nenuolatinės karo tarnybos kariui, ištarnavusiam daugiau kaip 10 metų, – iki 3 savanorišką nenuolatinę karo tarnybą atliekančio kario tarnybinių atlyginimų dydžio. 
+2) kariui savanoriui ar kitam savanoriškos nenuolatinės karo tarnybos kariui, ištarnavusiam daugiau kaip 10 metų, – iki 3 savanorišką nenuolatinę karo tarnybą atliekančio kario tarnybinių atlyginimų dydžio.
+
+
+
+
+
+
+2. Pratęsus kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario sutartį papildomam 4 metų terminui, kariui savanoriui ar kitam savanoriškos nenuolatinės karo tarnybos kariui Vyriausybės ar jos įgaliotos institucijos nustatytomis sąlygomis ir tvarka gali būti teikiama parama studijų kainos daliai padengti. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-822, 2010-05-18, Žin., 2010, Nr. 63-3099 (2010-05-31)
 Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 Nr. XII-578, 2013-11-07, Žin., 2013, Nr. 120-6050 (2013-11-23)
-
-
 Straipsnio pakeitimai:
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+Nr. XIII-3436, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24612
  
 
 
@@ -6549,3 +6605,8 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3248, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15763
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 papildymo 5-1 straipsniu ir 65 straipsnio pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3436, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24612
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 3, 9, 59, 60 ir 69 straipsnių pakeitimo ir Įstatymo papildymo 10-2 straipsniu įstatymas
