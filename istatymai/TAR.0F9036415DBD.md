@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-11-21 iki 2020-12-15
+Suvestinė redakcija nuo 2020-12-16 iki 2020-12-29
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -1164,10 +1164,10 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-191 straipsnis. Fondo administravimo įstaigų santykiai su draudėjais Lietuvos Respublikos Vyriausybei paskelbus karantiną
+191 straipsnis. Fondo administravimo įstaigų santykiai su draudėjais Vyriausybei paskelbus karantiną, kurio metu nustatyti ūkinės veiklos apribojimai
 
 
-Fondo administravimo įstaigos Lietuvos Respublikos Vyriausybei paskelbus karantiną Lietuvos Respublikos teritorijoje taiko šią supaprastintą socialinio draudimo įmokų, baudų, palūkanų ir delspinigių įsiskolinimo mokėjimo, palūkanų ir delspinigių skaičiavimo tvarką:
+Fondo administravimo įstaigos Vyriausybei paskelbus karantiną, kurio metu nustatyti ūkinės veiklos apribojimai (toliau – karantinas), draudėjams, įtrauktiems į Valstybinės mokesčių inspekcijos paskelbtą mokesčių mokėtojų, nukentėjusių dėl karantino, sąrašą, taiko šią supaprastintą socialinio draudimo įmokų, baudų, palūkanų ir delspinigių įsiskolinimo mokėjimo, palūkanų ir delspinigių skaičiavimo tvarką:
 
 
 1) nepriklausomai nuo draudėjo prašomos atidėti socialinio draudimo įmokų, baudų, palūkanų ir (ar) delspinigių įsiskolinimo (toliau – įsiskolinimas) sumos, sprendimus dėl įsiskolinimo mokėjimo atidėjimo priima Fondo valdybos teritoriniai skyriai;
@@ -1175,7 +1175,7 @@ Fondo administravimo įstaigos Lietuvos Respublikos Vyriausybei paskelbus karant
 
 
 
-2) Fondo valdybos teritoriniai skyriai priima sprendimus dėl įsiskolinimo, viršijančio 30 000 Eur sumą, mokėjimo atidėjimo. Dėl šiame punkte nurodyto įsiskolinimo mokėjimo atidėjimo dokumentai Fondo tarybai neteikiami ir neprašoma jos nuomonės;
+2) Fondo valdybos teritoriniai skyriai priima sprendimus dėl įsiskolinimo, viršijančio 30 000 eurų sumą, mokėjimo atidėjimo. Dėl šiame punkte nurodyto įsiskolinimo mokėjimo atidėjimo dokumentai Fondo tarybai neteikiami ir neprašoma jos nuomonės;
 
 
 
@@ -1195,19 +1195,18 @@ Fondo administravimo įstaigos Lietuvos Respublikos Vyriausybei paskelbus karant
 
 
 
-6) draudėjai turi teisę prašyti atidėti įsiskolinimo mokėjimą ir Fondo valdybos teritoriniai skyriai priimti sprendimą dėl įsiskolinimo mokėjimo atidėjimo už laikotarpį nuo Lietuvos Respublikos Vyriausybės paskelbto karantino pradžios, iki praeis du kalendoriniai mėnesiai nuo karantino visoje Lietuvos Respublikos teritorijoje pasibaigimo;
+6) draudėjai turi teisę prašyti atidėti įsiskolinimo mokėjimą ir Fondo valdybos teritoriniai skyriai turi teisę priimti sprendimą dėl įsiskolinimo mokėjimo atidėjimo už karantino laikotarpį;
 
 
 
 
-7) palūkanos už laiku nesumokėtą atidėto įsiskolinimo sumą, taip pat delspinigiai už laiku nesumokėtas socialinio draudimo įmokas neskaičiuojami už laikotarpį nuo Lietuvos Respublikos Vyriausybės paskelbto karantino pradžios, iki praeis du kalendoriniai mėnesiai nuo karantino visoje Lietuvos Respublikos teritorijoje pasibaigimo. 
-TAR pastaba. 191 straipsnio nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo  Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo dienos.
+7) palūkanos už laiku nesumokėtą atidėto įsiskolinimo sumą, taip pat delspinigiai už laiku nesumokėtas socialinio draudimo įmokas neskaičiuojami už karantino laikotarpį. 
 
 
 
 
-Papildyta straipsniu:
-Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
+Straipsnio pakeitimai:
+Nr. XIV-36, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27344
  
 
 
@@ -3138,3 +3137,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3387, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24533
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4 straipsnio pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-36, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27344
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 19-1 straipsnio pakeitimo įstatymas
