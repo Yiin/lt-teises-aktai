@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-12-17
+Suvestinė redakcija nuo 2020-12-18 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
  
@@ -2100,7 +2100,11 @@ Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
 
 
 
-3) už profesinį mokymą ir (ar) studijas, kuriuos baigus įgyjamas pirmas aukštasis išsilavinimas ir (ar) suteikiama pirma atitinkama kvalifikacija, taip pat už pirmas doktorantūros bei meno aspirantūros studijas nuolatinių Lietuvos gyventojų, kurie mokosi ar studijuoja, sumokėtos sumos. Jei už profesinį mokymą ar studijas sumokėta skolintomis lėšomis (tam tikslui paimta iš kredito įstaigos paskola), tai iš pajamų gali būti atimta per mokestinį laikotarpį grąžinta šios paskolos dalis;
+3) už profesinį mokymą pagal formaliojo profesinio mokymo programą, kurią baigus įgyjama atitinkama kvalifikacija, formaliojo profesinio mokymo programos modulį, kurį baigus įgyjama atitinkama kompetencija (kompetencijos), ir (ar) už studijas, kurias baigus įgyjama aukštojo mokslo kvalifikacija, nuolatinių Lietuvos gyventojų, kurie mokosi ar studijuoja, sumokėtos sumos. Jei už profesinį mokymą pagal formaliojo profesinio mokymo programą, formaliojo profesinio mokymo programos modulį ir (ar) už studijas sumokėta skolintomis lėšomis (tam tikslui paimta iš kredito įstaigos paskola), tai iš pajamų gali būti atimta per mokestinį laikotarpį grąžinta šios paskolos dalis;
+TAR pastaba. 3 punkto nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Straipsnio punkto pakeitimai:
+Nr. XIV-62, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27623
+ 
 
 
 
@@ -3469,3 +3473,8 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2941, 2020-05-19, paskelbta TAR 2020-05-25, i. k. 2020-11079
 Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 straipsnio pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-62, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27623
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 21 straipsnio pakeitimo įstatymas
