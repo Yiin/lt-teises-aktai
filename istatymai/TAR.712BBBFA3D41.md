@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-12-01 iki 2020-12-17
+Suvestinė redakcija nuo 2020-12-18 iki 2020-12-29
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
  
@@ -906,7 +906,10 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
-5) biudžetiniais metais pasirašomų valstybės garantijų limitas;
+5) valstybės garantijų ir valstybės garantuojamų garantijų institucijų prisiimtų įsipareigojimų pagal garantijas limitai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-61, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27621
+ 
 
 
 
@@ -2198,3 +2201,8 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 5, 8, 17, 18, 32 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3429, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24626
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-61, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27621
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 18 straipsnio pakeitimo įstatymas
