@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/10fb2930715211e484b9c12b550436a3"
 
 # Lietuvos Respublikos įstatymas dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo
 
-Suvestinė redakcija nuo 2020-11-20 iki 2020-12-18
+Suvestinė redakcija nuo 2020-12-19 iki 2021-06-30
  
 Įstatymas paskelbtas: TAR 2014-11-21, i. k. 2014-17299
  
@@ -108,25 +108,61 @@ Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 
 
 
-11) turto (arba įrodymų) arešto aktų pripažinimo ir vykdymo Lietuvos Respublikoje tvarka ir sąlygos; 
+11) turto (arba įrodymų) arešto aktų pripažinimo ir vykdymo Lietuvos Respublikoje tvarka ir sąlygos pagal Pamatinį sprendimą 2003/577/TVR; 
 Papildyta straipsnio punktu:
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
+Straipsnio punkto pakeitimai:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
  
 
 
 
 
-12) Lietuvos Respublikoje išduotų turto (arba įrodymų) arešto aktų liudijimų perdavimo vykdyti kitoms Europos Sąjungos valstybėms narėms tvarka ir sąlygos; 
+12) Lietuvos Respublikoje išduotų turto (arba įrodymų) arešto aktų liudijimų perdavimo vykdyti kitoms Europos Sąjungos valstybėms narėms tvarka ir sąlygos pagal Pamatinį sprendimą 2003/577/TVR; 
 Papildyta straipsnio punktu:
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
+Straipsnio punkto pakeitimai:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
  
 
 
 
 
-13) bendradarbiavimas su Europos Sąjungos valstybėmis narėmis atliekant ikiteisminį tyrimą, kai kompetentinga institucija paskirta Europos prokuratūra. 
+13) bendradarbiavimas su Europos Sąjungos valstybėmis narėmis atliekant ikiteisminį tyrimą, kai kompetentinga institucija paskirta Europos prokuratūra; 
 Papildyta straipsnio punktu:
 Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
+ 
+
+
+
+
+14) Europos Sąjungos valstybių narių teismų sprendimų konfiskuoti turtą pripažinimo ir vykdymo Lietuvos Respublikoje tvarka ir sąlygos pagal Pamatinį sprendimą 2006/783/TVR; 
+Papildyta straipsnio punktu:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
+ 
+
+
+
+
+15) Lietuvos Respublikoje priimtų sprendimų konfiskuoti turtą perdavimo vykdyti kitoms Europos Sąjungos valstybėms narėms tvarka ir sąlygos pagal Pamatinį sprendimą 2006/783/TVR; 
+Papildyta straipsnio punktu:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
+ 
+
+
+
+
+16) Europos Sąjungos valstybių narių turto arešto aktų pripažinimas ir vykdymas Lietuvos Respublikoje, taip pat turto arešto aktų liudijimų išdavimas pagal Reglamentą (ES) 2018/1805; 
+Papildyta straipsnio punktu:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
+ 
+
+
+
+
+17) Europos Sąjungos valstybių narių teismų sprendimų konfiskuoti turtą pripažinimas ir vykdymas Lietuvos Respublikoje, taip pat Lietuvos Respublikoje priimtų sprendimų konfiskuoti turtą  perdavimas vykdyti kitoms Europos Sąjungos valstybėms narėms pagal Reglamentą (ES) 2018/1805. 
+Papildyta straipsnio punktu:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
  
 
 
@@ -321,9 +357,27 @@ Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 
 
 
-16. Turto (arba įrodymų) arešto aktas – procesinis dokumentas, išduodamas siekiant laikinai apsaugoti daiktus, dokumentus ar kitą turtą, kurie galėtų būti konfiskuoti, nuo sunaikinimo, pakeitimo, išvežimo iš vykdančiosios valstybės, pardavimo ar kitokio perleidimo. Airijos ir Danijos Karalystės atžvilgiu turto (arba įrodymų) arešto aktu taip pat laikomas ir procesinis dokumentas, išduodamas siekiant laikinai apsaugoti daiktus, dokumentus ar kitą turtą, kurie galėtų būti pripažinti turinčiais įrodomąją reikšmę baudžiamajame procese, nuo sunaikinimo, pakeitimo, išvežimo iš vykdančiosios valstybės, pardavimo ar kitokio perleidimo. 
+16. Sprendimas konfiskuoti turtą – kaip tai apibrėžta Reglamento (ES) 2018/1805 2 straipsnio 2 dalyje. 
+Papildyta straipsnio dalimi:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
+ 
+
+
+
+
+17. Turto (arba įrodymų) arešto aktas – procesinis dokumentas, išduodamas pagal Pamatinį sprendimą 2003/577/TVR siekiant laikinai apsaugoti daiktus, dokumentus ar kitą turtą, kurie galėtų būti konfiskuoti arba pripažinti turinčiais įrodomąją reikšmę baudžiamajame procese, nuo sunaikinimo, pakeitimo, išvežimo iš vykdančiosios valstybės, pardavimo ar kitokio perleidimo. 
 Papildyta straipsnio dalimi:
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
+Straipsnio dalies pakeitimai:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
+ 
+
+
+
+
+18. Turto arešto aktas – kaip tai apibrėžta Reglamento (ES) 2018/1805 2 straipsnio 1 dalyje. 
+Papildyta straipsnio dalimi:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
  
 
 
@@ -3662,11 +3716,495 @@ Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 
 
 XIV SKYRIUS
-BENDRADARBIAVIMAS SU EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS ATLIEKANT EUROPOS PROKURATŪROS TYRIMUS 
+EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMŲ SPRENDIMŲ KONFISKUOTI TURTĄ PRIPAŽINIMO IR VYKDYMO LIETUVOS RESPUBLIKOJE TVARKA IR SĄLYGOS PAGAL PAMATINĮ SPRENDIMĄ 2006/783/TVR 
  
 
 
-72 straipsnis. Bendradarbiavimas su Europos Sąjungos valstybėmis narėmis, dalyvaujančiomis įgyvendinant tvirtesnį bendradarbiavimą dėl Europos prokuratūros įsteigimo
+72 straipsnis. Institucijos, pripažįstančios kitoje Europos Sąjungos valstybėje narėje priimtą ir Lietuvos Respublikai perduotą vykdyti teismo sprendimą konfiskuoti turtą
+
+
+Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą pripažįsta fizinio asmens, dėl kurio turto konfiskavimo priimtas sprendimas, gyvenamosios vietos arba juridinio asmens, dėl kurio turto konfiskavimo priimtas sprendimas, buveinės vietos apylinkės teismas. Tais atvejais, kai fizinis asmuo, dėl kurio turto konfiskavimo priimtas sprendimas, neturi gyvenamosios vietos Lietuvos Respublikoje arba juridinis asmuo, dėl kurio turto konfiskavimo priimtas sprendimas, neturi buveinės Lietuvos Respublikoje, Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą pripažįsta konfiskuotino turto ar pagrindinės jo dalies buvimo vietos apylinkės teismas.
+ 
+
+
+
+
+
+
+73 straipsnis. Sprendimo konfiskuoti turtą pripažinimas Lietuvos Respublikoje
+
+
+1. Gavęs Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą, apylinkės teismas per septynias dienas nuo sprendimo gavimo dienos rengia teismo posėdį. Į šį posėdį teismas šaukia asmenį, dėl kurio turto konfiskavimo priimtas šioje dalyje nurodytas sprendimas, jo gynėją, juridinio asmens atstovą, prokurorą ir kitus suinteresuotus asmenis. Šių asmenų neatvykimas klausimo nagrinėjimo nesustabdo. Klausimo nagrinėjimas pradedamas posėdžio pirmininko pranešimu. Po to teismas išklauso į posėdį atvykusius asmenis ir priima nutartį pripažinti Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą arba nutartį atsisakyti pripažinti Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą. Šias nutartis teismas priima pasitarimų kambaryje.
+
+
+
+
+2. Teismas atsisako pripažinti ir vykdyti Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą, jeigu:
+
+
+1) sprendimo konfiskuoti turtą vykdymas pažeistų pagrindines žmogaus teises ir (ar) laisves;
+
+
+
+
+2) sprendimo konfiskuoti turtą vykdymas pažeistų draudimą antrą kartą bausti asmenį už tą pačią nusikalstamą veiką;
+
+
+
+
+3) sprendimas konfiskuoti turtą priimtas dėl veikos, kuri pagal Lietuvos Respublikos baudžiamąjį kodeksą nelaikoma nusikaltimu ar baudžiamuoju nusižengimu, išskyrus atvejus, kai sprendimas konfiskuoti turtą priimtas dėl Pamatinio sprendimo 2006/783/TVR 6 straipsnio 1 dalyje nurodytų nusikalstamų veikų;
+
+
+
+
+4) asmuo, dėl kurio turto konfiskavimo priimtas sprendimas, ar konfiskuotinas turtas pagal tarptautinės teisės normas ar Lietuvos Respublikos įstatymus turi imunitetą nuo baudžiamosios jurisdikcijos;
+
+
+
+
+5) sprendimo konfiskuoti turtą vykdymas pažeistų teisėtus trečiųjų šalių interesus;
+
+
+
+
+6) asmuo, dėl kurio turto konfiskavimo priimtas sprendimas, asmeniškai nedalyvavo šį klausimą nagrinėjant teisme, kuris priėmė sprendimą, išskyrus atvejus, kai šios dalies 8 punkte nurodytame liudijime pažymima, kad:
+
+
+a) jam asmeniškai ir laiku buvo įteiktas teismo šaukimas arba jis kitomis priemonėmis faktiškai gavo oficialią informaciją apie numatytą nagrinėjimo teisme laiką ir vietą tokiu būdu, kad yra akivaizdu, jog jis žinojo apie numatytą nagrinėjimą teisme, taip pat kad asmuo buvo informuotas, kad sprendimas gali būti priimtas, jei jis neatvyks į nagrinėjimą teisme, arba
+
+
+
+
+b) jis, žinodamas apie numatomą nagrinėjimą teisme, įgaliojo savo pasirinktą ar valstybės paskirtą gynėją jį ginti nagrinėjimo teisme metu ir gynėjas iš tiesų asmenį gynė nagrinėjimo teisme metu, arba
+
+
+
+
+c) jam įteikus sprendimą ir aiškiai informavus apie teisę į bylos persvarstymą arba teisę pateikti apeliacinį skundą, kuriuos nagrinėjant šis asmuo turi teisę dalyvauti ir kurie suteikia galimybę bylą, įskaitant naujus įrodymus, pakartotinai nagrinėti iš esmės, o po šio proceso pirminis sprendimas gali būti panaikintas, asmuo aiškiai nurodė, kad jis neginčija sprendimo, arba per nustatytą laikotarpį nepareikalavo persvarstyti bylą, arba nepateikė apeliacinio skundo;
+
+
+
+
+
+
+7) sprendimas konfiskuoti turtą priimtas dėl veikos, dėl kurios gali būti taikomi Lietuvos Respublikos baudžiamieji įstatymai, ir yra suėję Lietuvos Respublikos baudžiamojo kodekso 96 straipsnyje nustatyti apkaltinamojo nuosprendžio vykdymo senaties terminai;
+
+
+
+
+8) nėra gautas Pamatinio sprendimo 2006/783/TVR 4 straipsnyje nurodytas liudijimas arba jis yra neišsamus, arba aiškiai neatitinka sprendimo konfiskuoti turtą, arba gauti dokumentai nėra išversti į lietuvių kalbą.
+
+
+
+
+
+
+3. Jeigu Europos Sąjungos valstybės narės teismo sprendimas konfiskuoti turtą yra grindžiamas sprendimą priėmusios valstybės narės nacionalinėje teisėje numatyta bendrąja (išplėstine) asmens turto konfiskacija, teismas sprendimą konfiskuoti turtą pripažįsta tik tiek, kiek tai yra suderinama su Lietuvos Respublikos baudžiamojo kodekso 72 ir 723 straipsnių nuostatomis.
+
+
+
+
+4. Šio straipsnio 2 dalies 1, 2, 5, 6, 8 punktuose ir 3 dalyje nurodytais atvejais teismas kreipiasi į Europos Sąjungos valstybės narės kompetentingą instituciją su prašymu per teismo nustatytą terminą pateikti papildomus paaiškinimus ar kitą reikalingą informaciją. Tokiu atveju teismas daro posėdžio pertrauką. Jeigu per nustatytą terminą informacija nėra gaunama, teismas priima nutartį atsisakyti pripažinti Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą.
+
+
+
+
+5. Teismas privalo priimti ir išnagrinėti kiekvieno suinteresuoto asmens skundą, susijusį su Europos Sąjungos valstybės narės teismo sprendimo konfiskuoti turtą pripažinimu. Prireikus teismas daro posėdžio pertrauką. Europos Sąjungos valstybės narės teismo sprendimo konfiskuoti turtą pagrįstumas gali būti ginčijamas tik sprendimą konfiskuoti turtą priėmusioje valstybėje narėje pagal jos nacionalinę teisę.
+
+
+
+
+6. Tais atvejais, kai Europos Sąjungos valstybės narės teismo sprendimas konfiskuoti turtą susijęs su pinigų suma ir kai fizinis ar juridinis asmuo, dėl kurio turto konfiskavimo priimtas tas sprendimas, pateikia duomenų apie dalinį ar visišką turto konfiskavimą kitoje valstybėje narėje, teismas raštu kreipiasi į Europos Sąjungos valstybės narės kompetentingą instituciją su prašymu nedelsiant pateikti visą būtiną informaciją apie kitoje valstybėje narėje konfiskuotą turtą. Gavęs šią informaciją, teismas sumažina konfiskuotino turto sumą kitoje valstybėje narėje konfiskuoto turto sumos dydžiu. Prireikus konfiskuotino turto suma teismo nutartimi konvertuojama pagal Europos Centrinio Banko paskelbtą orientacinį euro ir užsienio valiutų santykį, o tais atvejais, kai orientacinio euro ir užsienio valiutos santykio Europos Centrinis Bankas neskelbia, – pagal Lietuvos banko nustatomą ir skelbiamą orientacinį euro ir užsienio valiutos santykį, galiojusius priimant sprendimą konfiskuoti turtą.
+
+
+
+
+7. Teismo nutartį pripažinti Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą ar atsisakyti pripažinti Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą asmuo, dėl kurio turto konfiskavimo priimtas tas sprendimas, jo gynėjas, juridinio asmens atstovas, prokuroras ir kiti suinteresuoti asmenys gali skųsti Lietuvos Respublikos baudžiamojo proceso kodekso 364 straipsnyje nustatyta tvarka. Apie gautą skundą teismas nedelsdamas raštu praneša Europos Sąjungos valstybės narės kompetentingai institucijai.
+ 
+
+
+
+
+
+
+74 straipsnis. Europos Sąjungos valstybės narės teismo sprendimo konfiskuoti turtą vykdymas Lietuvos Respublikoje
+
+
+1. Europos Sąjungos valstybės narės teismo priimtas ir šio įstatymo 73 straipsnyje nustatyta tvarka pripažintas sprendimas konfiskuoti turtą vykdomas pagal Lietuvos Respublikos įstatymus,  atsižvelgiant į šiame straipsnyje nustatytus ypatumus.
+
+
+
+
+2. Nutartį pripažinti Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą priėmęs teismas savo iniciatyva arba prokuroro, nuteistojo, asmens, dėl kurio turto konfiskavimo priimtas sprendimas, jų gynėjo, juridinio asmens atstovo prašymu nutartimi gali atidėti Europos Sąjungos valstybės narės teismo sprendimo konfiskuoti turtą pateikimą vykdyti arba pradėtą vykdymą, jeigu:
+
+
+1) sprendimas konfiskuoti turtą vienu metu vykdomas daugiau negu vienoje Europos Sąjungos valstybėje narėje ir vykdant sprendimą konfiskuoti turtą gauta suma gali viršyti jame nurodytą sumą; 
+
+
+
+
+2) sprendimo konfiskuoti turtą vykdymas galėtų pakenkti vykstančiam baudžiamajam procesui;
+
+
+
+
+3) turtas konfiskuojamas kitoje baudžiamojoje byloje ar kito administracinio proceso tvarka.
+
+
+
+
+
+
+3. Šio straipsnio 2 dalyje nurodytais atvejais teismas sprendimo konfiskuoti turtą vykdymo atidėjimo laikotarpiu imasi būtinų priemonių vėlesniam turto konfiskavimui užtikrinti. Apie sprendimo konfiskuoti turtą vykdymo atidėjimą, taip pat apie sprendimo konfiskuoti turtą vykdymo atnaujinimą nedelsiant raštu pranešama Europos Sąjungos valstybės narės kompetentingai institucijai ir sprendimo konfiskuoti turtą vykdymo vietos antstoliui.
+
+
+
+
+4. Gavęs Europos Sąjungos valstybės narės kompetentingos institucijos pranešimą, kuriuo atšaukiamas reikalavimas vykdyti priimtą sprendimą konfiskuoti turtą, teismas nedelsdamas priima nutartį nutraukti Europos Sąjungos valstybės narės teismo sprendimo konfiskuoti turtą vykdymą ir apie tai praneša sprendimo konfiskuoti turtą vykdymo vietos antstoliui. 
+
+
+
+
+5. Apie Europos Sąjungos valstybės narės teismo sprendimo konfiskuoti turtą įvykdymą, apie visišką ar dalinį Europos Sąjungos valstybės narės teismo sprendimo konfiskuoti turtą neįvykdymą nedelsiant raštu pranešama Europos Sąjungos valstybės narės kompetentingai institucijai ir sprendimo konfiskuoti turtą vykdymo vietos antstoliui. 
+ 
+
+
+
+
+
+
+75 straipsnis. Piniginių lėšų pervedimas įvykdžius kitos Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą
+
+
+Lietuvos Respublikoje įvykdžius kitos Europos Sąjungos valstybės narės teismo priimtą ir Lietuvos Respublikos baudžiamojo proceso kodekso 3655 straipsnyje nustatyta tvarka pripažintą sprendimą konfiskuoti turtą gautos piniginės lėšos (išskyrus vykdymo ir kitas susijusias išlaidas):
+
+
+1) neviršijančios 10 000 eurų sumos, pervedamos į Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos (toliau – Valstybinė mokesčių inspekcija) biudžeto pajamų surenkamąją sąskaitą;
+
+
+
+
+2) viršijančios 10 000 eurų sumą, paskirstomos taip: pusę šių lėšų per 10 darbo dienų nuo visų piniginių lėšų, gautų realizavus valstybei perduotą konfiskuotą turtą, gavimo Valstybinė mokesčių inspekcija perveda į Europos Sąjungos valstybės narės, kurios teismas priėmė sprendimą konfiskuoti turtą, kompetentingos institucijos nurodytą sąskaitą, o kita pusė šių lėšų pervedama į Valstybinės mokesčių inspekcijos biudžeto pajamų surenkamąją sąskaitą. 
+
+
+
+
+
+
+Papildyta skyriumi:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
+ 
+
+
+
+
+XV SKYRIUS
+LIETUVOS RESPUBLIKOJE PRIIMTŲ SPRENDIMŲ KONFISKUOTI TURTĄ PERDAVIMO VYKDYTI KITOMS EUROPOS SĄJUNGOS VALSTYBĖMS NARĖMS TVARKA IR SĄLYGOS PAGAL PAMATINĮ SPRENDIMĄ 2006/783/TVR 
+ 
+
+
+76 straipsnis. Sprendimo konfiskuoti turtą perdavimo vykdyti kitai Europos Sąjungos valstybei narei nagrinėjimas ir priėmimas
+
+
+1. Šiame skyriuje nustatyta tvarka kitai Europos Sąjungos valstybei narei gali būti perduodami vykdyti Lietuvos Respublikoje priimti sprendimai konfiskuoti šį turtą:
+
+
+1) pinigų sumą, jeigu teismas pagrįstai mano, kad toje valstybėje narėje fizinis ar juridinis asmuo, kita organizacija ar jos padalinys, dėl kurio priimtas tas sprendimas konfiskuoti turtą, turi turto ar pajamų;
+
+
+
+
+2) konkretų daiktą (turto vienetą), jeigu teismas pagrįstai mano, kad toje valstybėje narėje yra sprendime konfiskuoti turtą nurodytas daiktas.
+
+
+
+
+
+
+2. Kai nerandama pagrįstų priežasčių, leidžiančių teismui nustatyti kitą Europos Sąjungos valstybę narę, kuriai gali būti siunčiamas sprendimas konfiskuoti turtą, šis sprendimas teismo gali būti perduodamas tos valstybės narės, kurioje fizinis ar juridinis asmuo, dėl kurio priimtas sprendimas konfiskuoti turtą, paprastai gyvena arba turi registruotą buveinę, kompetentingai institucijai.
+
+
+
+
+3. Sprendimo konfiskuoti turtą perdavimo vykdyti kitos Europos Sąjungos valstybės narės kompetentingai institucijai klausimą nagrinėja ir nutartimi išsprendžia tą sprendimą priėmęs teismas arba ikiteisminio tyrimo teisėjas. Šį sprendimą teismas arba ikiteisminio tyrimo teisėjas priima savo iniciatyva pagal baudžiamosios bylos medžiagą arba baudžiamojo poveikio priemonę vykdančios institucijos ar nuosprendžio pateikimą vykdyti kontroliuojančio prokuroro teikimą. 
+
+
+
+
+4. Teismas arba ikiteisminio tyrimo teisėjas, rašytinio proceso tvarka įvertinęs baudžiamosios bylos medžiagą arba baudžiamojo poveikio priemonę vykdančios institucijos ar nuosprendžio pateikimą vykdyti kontroliuojančio prokuroro teikimą, priima vieną iš šių nutarčių:
+
+
+1) perduoti sprendimą konfiskuoti turtą vykdyti kitai Europos Sąjungos valstybei narei;
+
+
+
+
+2) atsisakyti perduoti sprendimą konfiskuoti turtą vykdyti kitai Europos Sąjungos valstybei narei.
+
+
+
+
+
+
+5. Skundai dėl šio straipsnio 4 dalyje nurodytų teismo nutarčių nagrinėjami Lietuvos Respublikos baudžiamojo proceso kodekso 364 straipsnyje nustatyta tvarka.
+
+
+
+
+6. Priėmus nutartį dėl sprendimo konfiskuoti turtą perdavimo vykdyti kitai Europos Sąjungos valstybei narei, per tris dienas nuo jos įsiteisėjimo arba bylos grąžinimo iš aukštesnės instancijos teismas arba ikiteisminio tyrimo teisėjas surašo liudijimą. Šio liudijimo pavyzdinę formą tvirtina Lietuvos Respublikos teisingumo ministras.
+ 
+
+
+
+
+
+
+77 straipsnis. Sprendimo konfiskuoti turtą ir liudijimo perdavimas vykdyti kitai Europos Sąjungos valstybei narei
+
+
+1. Jeigu teismas arba ikiteisminio tyrimo teisėjas žino vykdančiosios Europos Sąjungos valstybės narės instituciją, kompetentingą vykdyti perduodamą sprendimą konfiskuoti turtą, teismas arba ikiteisminio tyrimo teisėjas liudijimą ir sprendimą konfiskuoti turtą ar šio sprendimo patvirtintą kopiją, prireikus išverstus į Europos Sąjungos valstybės narės prašomą kalbą, šiai institucijai siunčia tiesiogiai.
+
+
+
+
+2. Jeigu teismas nežino vykdančiosios Europos Sąjungos valstybės narės institucijos, kompetentingos vykdyti perduodamą sprendimą konfiskuoti turtą, teismas arba ikiteisminio tyrimo teisėjas konsultuojasi su Lietuvos Respublikos teisingumo ministerija (ši išsiunčia visas būtinas užklausas), taip pat per Europos teisminio tinklo kontaktinius asmenis, kad gautų informaciją iš sprendimą vykdančiosios valstybės narės. Po to, kai nustatoma sprendimą konfiskuoti turtą vykdyti kompetentinga Europos Sąjungos valstybės narės institucija, teismas ar ikiteisminio tyrimo teisėjas liudijimą ir sprendimą konfiskuoti turtą ar šio sprendimo patvirtintą kopiją, prireikus išverstus į Europos Sąjungos valstybės narės prašomą kalbą, šiai institucijai siunčia tiesiogiai.
+
+
+
+
+3. Sprendimas konfiskuoti turtą vienu metu gali būti perduodamas tik vienai vykdančiajai valstybei narei, išskyrus šio straipsnio 4 ir 5 dalyse nurodytus atvejus.
+
+
+
+
+4. Sprendimas konfiskuoti turtą, kuriuo konfiskuojami konkretūs daiktai, gali būti perduodamas tuo pačiu metu daugiau negu vienai vykdančiajai valstybei narei, kai: 
+
+
+1) teismas arba ikiteisminio tyrimo teisėjas pagrįstai mano, kad skirtingi sprendime konfiskuoti turtą nurodyti daiktai yra skirtingose vykdančiosiose valstybėse narėse, arba
+
+
+
+
+2) sprendime konfiskuoti turtą nurodytų konkrečių daiktų konfiskavimas apima veiksmus daugiau negu vienoje vykdančiojoje valstybėje narėje, arba
+
+
+
+
+3) teismas arba ikiteisminio tyrimo teisėjas pagrįstai mano, kad sprendime konfiskuoti turtą nurodyti daiktai yra vienoje iš dviejų ar daugiau nurodytų vykdančiųjų valstybių narių.
+
+
+
+
+
+
+5. Sprendimas konfiskuoti turtą, kuriuo konfiskuojama pinigų suma, gali būti perduotas tuo pačiu metu daugiau negu vienai vykdančiajai valstybei narei, kai teismas mano, kad tam yra specialus poreikis.
+
+
+
+
+6. Kai šio straipsnio 4 ir 5 dalyse nustatytais atvejais sprendimas konfiskuoti turtą vienu metu perduodamas daugiau negu vienai vykdančiajai valstybei narei, pildoma tiek liudijimų, į kiek vykdančiųjų valstybių narių kreipiamasi.
+ 
+
+
+
+
+
+
+78 straipsnis. Kitai Europos Sąjungos valstybei narei perduoto vykdyti sprendimo konfiskuoti turtą vykdymas Lietuvos Respublikoje
+
+
+1. Kitai Europos Sąjungos valstybei narei perduotas vykdyti sprendimas konfiskuoti turtą gali būti toliau vykdomas Lietuvos Respublikoje.
+
+
+
+
+2. Teismas arba ikiteisminio tyrimo teisėjas savo iniciatyva ar baudžiamojo poveikio priemonę vykdančios institucijos prašymu nedelsdamas informuoja vykdančiosios valstybės narės kompetentingą instituciją, kai:
+
+
+1) teismas arba ikiteisminio tyrimo teisėjas pagrįstai mano, kad yra rizika, jog vykdant sprendimą konfiskuoti turtą gauta suma viršys konfiskuojamo turto maksimalią sumą, arba jeigu vykdančiosios valstybės narės kompetentinga institucija atidėjo sprendimo konfiskuoti turtą vykdymą dėl, jos manymu, esamos rizikos, kad visa iš sprendimo vykdymo gauta suma viršys sprendime konfiskuoti turtą nurodytą sumą dėl to, kad šis sprendimas vienu metu vykdomas daugiau negu vienoje valstybėje narėje; šiuo atveju teismas kuo greičiau informuoja vykdančiosios valstybės narės kompetentingą instituciją, ar minėta rizika išnyko;
+
+
+
+
+2) Lietuvos Respublikoje ar kitoje vykdančiojoje valstybėje narėje sprendimas konfiskuoti turtą įvykdytas ar iš dalies įvykdytas, nurodant sumą, dėl kurios sprendimas konfiskuoti turtą dar neįvykdytas;
+
+
+
+
+3) po sprendimo konfiskuoti turtą perdavimo vykdyti kitai Europos Sąjungos valstybei narei asmuo savanoriškai sumoka bet kokią pinigų sumą pagal sprendimą konfiskuoti turtą; šiuo atveju ši sumokėta pinigų suma atskaitoma iš sumos, kuri pagal sprendimą konfiskuoti turtą turi būti konfiskuota vykdančiojoje valstybėje narėje.
+
+
+
+
+
+
+3. Teismas arba ikiteisminio tyrimo teisėjas nedelsdamas informuoja vykdančiosios valstybės narės kompetentingą instituciją apie bet kokį sprendimą ar bet kokią priemonę, dėl kurių sprendimas konfiskuoti turtą tampa nevykdytinas ar atsiimamas iš vykdančiosios valstybės narės dėl kurios nors kitos priežasties.
+
+
+
+
+4. Vykdančiosios valstybės narės kompetentingai institucijai informavus apie sprendimo konfiskuoti turtą visišką ar dalinį įvykdymą arba neįvykdymą, teismas arba ikiteisminio tyrimo teisėjas apie tai nedelsdamas praneša baudžiamojo poveikio priemonę vykdančiai institucijai ir nuosprendžio pateikimą vykdyti kontroliuojančiam prokurorui. Jeigu vykdančiajai valstybei narei įvykdžius sprendimą konfiskuoti turtą gautas turtas ar piniginės lėšos pagal Pamatinio sprendimo 2006/783/TVR 16 straipsnį turi būti perduoti Lietuvos Respublikai kaip sprendimą konfiskuoti turtą priėmusiai valstybei, teismas apie tai raštu taip pat praneša Valstybinei mokesčių inspekcijai.
+ 
+
+
+
+
+
+
+79 straipsnis. Piniginių lėšų pervedimas
+
+
+Piniginės lėšos, gautos kitoje Europos Sąjungos valstybėje narėje įvykdžius Lietuvos Respublikos teismo priimtą ir tai valstybei narei perduotą vykdyti sprendimą konfiskuoti turtą, Lietuvos Respublikai kaip sprendimą konfiskuoti turtą priėmusiai valstybei perduodamos pagal Pamatinio sprendimo 2006/783/TVR 16 straipsnį. Šios piniginės lėšos pervedamos į Valstybinės mokesčių inspekcijos biudžeto pajamų surenkamąją sąskaitą ir apie tai informuojama Valstybinė mokesčių inspekcija.
+ 
+
+
+
+
+
+
+80 straipsnis. Vykdančiosios valstybės narės kompetentingų institucijų reikalavimai regreso (atgręžtinio reikalavimo) tvarka ir patirtų išlaidų atlyginimas
+
+
+1. Vykdančiosios valstybės narės kompetentingų institucijų reikalavimai regreso (atgręžtinio reikalavimo) tvarka išieškoti iš Lietuvos Respublikos pinigines lėšas, kurias šios institucijos pagal savo nacionalinę teisę išmokėjo suinteresuotoms šalims, įskaitant gera valia (bona fide) veikusius trečiuosius asmenis, atlygindamos žalą, padarytą vykdančiosios valstybės narės kompetentingai institucijai vykdant joms perduotus Lietuvos Respublikos teismų sprendimus konfiskuoti turtą, perduodami nagrinėti Lietuvos Respublikos teisingumo ministerijai Lietuvos Respublikos žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo ir atstovavimo valstybei ir Lietuvos Respublikos Vyriausybei įstatymo nustatyta tvarka. 
+
+
+
+
+2. Vykdančiosios valstybės narės kompetentingų institucijų prašymai pasidalyti dideles ar išimtines išlaidas, patirtas vykdančiojoje valstybėje narėje vykdant joms perduotus Lietuvos Respublikos teismų sprendimus konfiskuoti turtą, perduodami nagrinėti Lietuvos Respublikos teisingumo ministerijai. Šios išlaidos prireikus gali būti apmokamos iš Lietuvos Respublikos teisingumo ministerijai numatytų asignavimų, skirtų Lietuvos Respublikos teismų priimtų sprendimų vykdymo išlaidoms padengti. 
+
+
+
+
+Papildyta skyriumi:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
+ 
+
+
+
+
+XVI SKYRIUS
+EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TURTO AREŠTO AKTŲ PRIPAŽINIMAS IR VYKDYMAS LIETUVOS RESPUBLIKOJE IR TURTO AREŠTO AKTŲ LIUDIJIMŲ IŠDAVIMAS PAGAL REGLAMENTĄ (ES) 2018/1805
+ 
+
+
+81 straipsnis. Europos Sąjungos valstybės narės turto arešto akto pripažinimas ir vykdymas Lietuvos Respublikoje
+
+
+1. Kitos Europos Sąjungos valstybės narės kompetentingos institucijos priimtą ir Lietuvos Respublikai perduotą vykdyti turto arešto aktą ir į lietuvių kalbą išverstą turto arešto akto liudijimą Lietuvos Respublikoje, užrašydamas rezoliuciją, pripažįsta turto buvimo vietos apygardos prokuratūros arba Lietuvos Respublikos generalinės prokuratūros prokuroras, o atliekant ikiteisminį tyrimą, susijusį su Europos prokuratūros kompetencija, – Europos deleguotasis prokuroras. Prokuroras turto arešto aktą atsisako pripažinti nutarimu. 
+
+
+
+
+2. Turto buvimo vietos apygardos prokuratūros arba Lietuvos Respublikos generalinės prokuratūros prokuroras turto arešto aktą iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos gauna tiesiogiai arba per Lietuvos Respublikos generalinę prokuratūrą, o Europos deleguotasis prokuroras, atliekant ikiteisminį tyrimą, susijusį su Europos prokuratūros kompetencija, – tiesiogiai. Visas tolesnis prokuroro ir kitos Europos Sąjungos valstybės narės kompetentingos institucijos susirašinėjimas vyksta tiesiogiai. Prokuroras turto arešto aktą iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos taip pat gali gauti iš Lietuvos Respublikos generalinės prokuratūros prokuroro – Lietuvos nacionalinio nario Eurojuste (Lietuvos nacionalinio nario Eurojuste pavaduotojo).
+
+
+
+
+3. Jeigu turto arešto aktą gavo institucija, neturinti kompetencijos spręsti dėl jo pripažinimo, turto arešto aktą ji persiunčia šio straipsnio 1 dalyje nurodytai kompetentingai institucijai kuo greičiau, o kai tai praktiškai įmanoma, – per 24 valandas nuo turto arešto akto gavimo, ir apie tai informuoja kitos Europos Sąjungos valstybės narės kompetentingą instituciją.
+
+
+
+
+4. Kitos Europos Sąjungos valstybės narės kompetentingos institucijos priimtas ir Lietuvos Respublikai perduotas vykdyti, ir šiame straipsnyje nustatyta tvarka pripažintas turto arešto aktas vykdomas pagal Lietuvos Respublikos įstatymus ir Reglamentą (ES) 2018/1805.
+ 
+
+
+
+
+
+
+82 straipsnis. Turto arešto akto liudijimo išdavimas
+
+
+Turto arešto akto liudijimą išduoda Lietuvos Respublikos generalinė prokuratūra arba apygardos prokuratūra. Kai atliekant ikiteisminį tyrimą kompetentinga institucija paskirta Europos prokuratūra, turto arešto akto liudijimą išduoda Europos deleguotasis prokuroras. Turto arešto akto liudijimas turi būti išverstas į kitos Europos Sąjungos valstybės narės valstybinę kalbą arba į kitą kalbą, jeigu ši valstybė narė yra nurodžiusi, kad ji pripažins vertimą į vieną ar daugiau kitų Europos Sąjungos valstybių narių oficialiųjų kalbų. 
+
+
+
+
+Papildyta skyriumi:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
+ 
+
+
+
+
+XVII SKYRIUS
+EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISMŲ SPRENDIMŲ KONFISKUOTI TURTĄ PRIPAŽINIMAS IR VYKDYMAS LIETUVOS RESPUBLIKOJE IR LIETUVOS RESPUBLIKOJE PRIIMTŲ SPRENDIMŲ KONFISKUOTI TURTĄ PERDAVIMAS VYKDYTI KITOMS EUROPOS SĄJUNGOS VALSTYBĖMS NARĖMS PAGAL REGLAMENTĄ (ES) 2018/1805
+ 
+
+
+83 straipsnis. Europos Sąjungos valstybių narių teismų sprendimų konfiskuoti turtą pripažinimas ir vykdymas Lietuvos Respublikoje
+
+
+1. Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą ir į lietuvių kalbą išverstą liudijimą pripažįsta fizinio asmens, dėl kurio turto konfiskavimo priimtas šis sprendimas, gyvenamosios vietos arba juridinio asmens, dėl kurio turto konfiskavimo priimtas šis sprendimas, buveinės vietos apylinkės teismas. Tais atvejais, kai fizinis asmuo, dėl kurio turto konfiskavimo priimtas sprendimas, neturi gyvenamosios vietos Lietuvos Respublikoje arba juridinis asmuo, dėl kurio turto konfiskavimo priimtas sprendimas, neturi buveinės Lietuvos Respublikoje, Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą pripažįsta konfiskuotino turto ar pagrindinės jo dalies buvimo vietos apylinkės teismas.
+
+
+
+
+2. Gavęs Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą, apylinkės teismas per septynias dienas nuo sprendimo gavimo dienos surengia teismo posėdį. Į šį posėdį teismas šaukia asmenį, dėl kurio turto konfiskavimo priimtas Europos Sąjungos valstybės narės teismo sprendimas, jo gynėją, juridinio asmens atstovą, prokurorą ir kitus suinteresuotus asmenis, tačiau šių asmenų neatvykimas į posėdį klausimo nagrinėjimo nesustabdo. Klausimo nagrinėjimas pradedamas posėdžio pirmininko pranešimu. Po to teismas išklauso į posėdį atvykusius asmenis ir priima nutartį pripažinti Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą arba nutartį atsisakyti pripažinti Europos Sąjungos valstybės narės teismo sprendimą konfiskuoti turtą. Šias nutartis teismas priima pasitarimų kambaryje.  
+
+
+
+
+3. Kitos Europos Sąjungos valstybės narės teismo priimtas ir šiame straipsnyje nustatyta tvarka pripažintas sprendimas konfiskuoti turtą vykdomas pagal Lietuvos Respublikos įstatymus ir Reglamentą (ES) 2018/1805.
+ 
+
+
+
+
+
+
+84 straipsnis. Lietuvos Respublikoje priimtų sprendimų konfiskuoti turtą perdavimas vykdyti kitoms Europos Sąjungos valstybėms narėms
+
+
+1. Klausimą dėl Lietuvos Respublikoje priimto sprendimo konfiskuoti turtą perdavimo vykdyti kitos Europos Sąjungos valstybės narės kompetentingai institucijai nagrinėja ir nutartimi išsprendžia tą sprendimą priėmęs teismas arba ikiteisminio tyrimo teisėjas. Šį sprendimą teismas arba ikiteisminio tyrimo teisėjas priima savo iniciatyva pagal baudžiamosios bylos medžiagą arba baudžiamojo poveikio priemonę vykdančios institucijos ar nuosprendžio pateikimą vykdyti kontroliuojančio prokuroro teikimą. 
+
+
+
+
+2. Teismas arba ikiteisminio tyrimo teisėjas, rašytinio proceso tvarka įvertinęs baudžiamosios bylos medžiagą arba baudžiamojo poveikio priemonę vykdančios institucijos ar nuosprendžio pateikimą vykdyti kontroliuojančio prokuroro teikimą, priima vieną iš šių nutarčių:
+
+
+1) perduoti Lietuvos Respublikoje priimtą sprendimą konfiskuoti turtą vykdyti kitai Europos Sąjungos valstybei narei;
+
+
+
+
+2) atsisakyti perduoti Lietuvos Respublikoje priimtą sprendimą konfiskuoti turtą vykdyti kitai Europos Sąjungos valstybei narei.
+
+
+
+
+
+
+3. Skundai dėl šio straipsnio 2 dalyje nurodytų teismo nutarčių nagrinėjami Lietuvos Respublikos baudžiamojo proceso kodekso 364 straipsnyje nustatyta tvarka.
+
+
+
+
+4. Priėmus nutartį dėl Lietuvos Respublikoje priimto sprendimo konfiskuoti turtą perdavimo vykdyti kitai Europos Sąjungos valstybei narei, per tris dienas nuo nutarties įsiteisėjimo arba bylos grąžinimo iš aukštesnės instancijos teismas arba ikiteisminio tyrimo teisėjas surašo liudijimą. Šis liudijimas turi būti išverstas į kitos Europos Sąjungos valstybės narės valstybinę kalbą arba į kitą kalbą, jeigu ši valstybė narė yra nurodžiusi, kad ji pripažins vertimą į vieną ar daugiau kitų Europos Sąjungos valstybių narių oficialiųjų kalbų. 
+
+
+
+
+Papildyta skyriumi:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
+ 
+
+
+
+
+XVIII SKYRIUS
+BENDRADARBIAVIMAS SU EUROPOS SĄJUNGOS VALSTYBĖMIS NARĖMIS ATLIEKANT EUROPOS PROKURATŪROS TYRIMUS 
+Skyriaus numeracijos pakeitimas:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
+ 
+
+
+85 straipsnis. Bendradarbiavimas su Europos Sąjungos valstybėmis narėmis, dalyvaujančiomis įgyvendinant tvirtesnį bendradarbiavimą dėl Europos prokuratūros įsteigimo
+Straipsnio numeracijos pakeitimas:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
+ 
 
 
 Atliekant ikiteisminį tyrimą, kai kompetentinga institucija paskirta Europos prokuratūra, ir siekiant bendradarbiavimo su Europos Sąjungos valstybėmis narėmis, dalyvaujančiomis tvirtesniame bendradarbiavime dėl Europos prokuratūros įsteigimo, šio įstatymo nuostatos netaikomos, o bendradarbiavimas vyksta Europos deleguotiesiems prokurorams susižinant tiesiogiai.
@@ -3677,7 +4215,10 @@ Atliekant ikiteisminį tyrimą, kai kompetentinga institucija paskirta Europos p
 
 
 
-73 straipsnis. Bendradarbiavimas su Europos Sąjungos valstybėmis narėmis, nedalyvaujančiomis tvirtesniame bendradarbiavime dėl Europos prokuratūros įsteigimo
+86 straipsnis. Bendradarbiavimas su Europos Sąjungos valstybėmis narėmis, nedalyvaujančiomis tvirtesniame bendradarbiavime dėl Europos prokuratūros įsteigimo
+Straipsnio numeracijos pakeitimas:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
+ 
 
 
 Atliekant ikiteisminį tyrimą, kai kompetentinga institucija paskirta Europos prokuratūra, ir siekiant bendradarbiavimo su Europos Sąjungos valstybėmis narėmis, nedalyvaujančiomis tvirtesniame bendradarbiavime dėl Europos prokuratūros įsteigimo, Europos deleguotasis prokuroras, vadovaudamasis Reglamentu (ES) 2017/1939 ir šiuo įstatymu, taiko šiame įstatyme nustatytas tarpusavio pripažinimo priemones. 
@@ -3692,20 +4233,22 @@ Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
 
 
 
-XV SKYRIUS
+XIX SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
 Skyriaus numeracijos pakeitimas:
 Nr. XII-1675, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07408
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
  
 
 
-74 straipsnis. Įstatymo įsigaliojimas ir taikymas
+87 straipsnis. Įstatymo įsigaliojimas ir taikymas
 Straipsnio numeracijos pakeitimas:
 Nr. XII-1675, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07408
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
  
 
 
@@ -3745,18 +4288,10 @@ Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 
 
 
-75 straipsnis. Pasiūlymas Lietuvos Respublikos teisingumo ministrui 
-Straipsnio numeracijos pakeitimas:
-Nr. XII-1675, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07408
-Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
-Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
+88 straipsnis. Neteko galios nuo 2020-12-19
+Straipsnio naikinimas:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
  
-
-
-Lietuvos Respublikos teisingumo ministras iki šio įstatymo įsigaliojimo patvirtina šiam įstatymui įgyvendinti reikalingų dokumentų pavyzdines formas.
- 
-
-
 
 
 
@@ -3794,51 +4329,75 @@ Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
 
 
 
-2. 2008 m. lapkričio 27 d. Tarybos pamatinis sprendimas 2008/909/TVR dėl nuosprendžių baudžiamosiose bylose tarpusavio pripažinimo principo taikymo skiriant laisvės atėmimo bausmes ar su laisvės atėmimu susijusias priemones, siekiant jas vykdyti Europos Sąjungoje (OL 2008 L 327, p. 27), iš dalies pakeistas 2009 m. vasario 26 d. Tarybos pamatiniu sprendimu 2009/299/TVR (OL 2009 L 81, p. 24).
-Punkto numeracijos pakeitimas:
-Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
+2. 2006 m. spalio 6 d. Tarybos pamatinis sprendimas 2006/783/TVR dėl tarpusavio pripažinimo principo taikymo nutarimams konfiskuoti su pakeitimais, padarytais 2009 m. vasario 26 d. Tarybos pamatiniu sprendimu 2009/299/TVR. 
+Papildyta punktu:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
  
 
 
 
 
-3. 2008 m. lapkričio 27 d. Tarybos pamatinis sprendimas 2008/947/TVR dėl teismo sprendimų ir sprendimų dėl lygtinio nuteisimo tarpusavio pripažinimo principo taikymo siekiant užtikrinti lygtinio atleidimo priemonių ir alternatyvių sankcijų priežiūrą (OL 2008 L 337, p. 102), iš dalies pakeistas 2009 m. vasario 26 d. Tarybos pamatiniu sprendimu 2009/299/TVR (OL 2009 L 81, p. 24). 
+3. 2008 m. lapkričio 27 d. Tarybos pamatinis sprendimas 2008/909/TVR dėl nuosprendžių baudžiamosiose bylose tarpusavio pripažinimo principo taikymo skiriant laisvės atėmimo bausmes ar su laisvės atėmimu susijusias priemones, siekiant jas vykdyti Europos Sąjungoje (OL 2008 L 327, p. 27), iš dalies pakeistas 2009 m. vasario 26 d. Tarybos pamatiniu sprendimu 2009/299/TVR (OL 2009 L 81, p. 24).
 Punkto numeracijos pakeitimas:
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
  
 
 
 
 
-4. 2009 m. spalio 23 d. Tarybos pamatinis sprendimas 2009/829/TVR dėl tarpusavio pripažinimo principo taikymo sprendimams dėl kardomųjų priemonių Europos Sąjungos valstybėse narėse kaip alternatyvos kardomajam kalinimui (OL 2009 L 294, p. 20). 
+4. 2008 m. lapkričio 27 d. Tarybos pamatinis sprendimas 2008/947/TVR dėl teismo sprendimų ir sprendimų dėl lygtinio nuteisimo tarpusavio pripažinimo principo taikymo siekiant užtikrinti lygtinio atleidimo priemonių ir alternatyvių sankcijų priežiūrą (OL 2008 L 337, p. 102), iš dalies pakeistas 2009 m. vasario 26 d. Tarybos pamatiniu sprendimu 2009/299/TVR (OL 2009 L 81, p. 24). 
 Punkto numeracijos pakeitimas:
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
  
 
 
 
 
-5. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/99/ES dėl Europos apsaugos orderio (OL 2011 L 338, p. 2).
+5. 2009 m. spalio 23 d. Tarybos pamatinis sprendimas 2009/829/TVR dėl tarpusavio pripažinimo principo taikymo sprendimams dėl kardomųjų priemonių Europos Sąjungos valstybėse narėse kaip alternatyvos kardomajam kalinimui (OL 2009 L 294, p. 20). 
+Punkto numeracijos pakeitimas:
+Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
+ 
+
+
+
+
+6. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/99/ES dėl Europos apsaugos orderio (OL 2011 L 338, p. 2).
 Papildyta punktu:
 Nr. XII-1675, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07408
 Punkto numeracijos pakeitimas:
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
  
 
 
 
 
-6. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/41/ES dėl Europos tyrimo orderio baudžiamosiose bylose (OL 2014 L 130, p. 1). 
+7. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/41/ES dėl Europos tyrimo orderio baudžiamosiose bylose (OL 2014 L 130, p. 1). 
 Papildyta punktu:
 Nr. XIII-397, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09778
+Punkto numeracijos pakeitimas:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
  
 
 
 
 
-7. 2017 m. spalio 12 d. Europos Tarybos reglamentas (ES) 2017/1939, kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje. 
+8. 2017 m. spalio 12 d. Europos Tarybos reglamentas (ES) 2017/1939, kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje. 
 Papildyta punktu:
 Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
+Punkto numeracijos pakeitimas:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
+ 
+
+
+
+
+9. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1805 dėl nutarimų įšaldyti ir nutarimų konfiskuoti turtą tarpusavio pripažinimo. 
+Papildyta punktu:
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
  
 
 
@@ -3865,3 +4424,8 @@ Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių spren
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3053, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13623
 Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Nr. XII-1322 1, 51, 59, 65, 69 straipsnių ir priedo pakeitimo ir Įstatymo papildymo nauju XIV skyriumi įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-34, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27363
+Lietuvos Respublikos įstatymo „Dėl Europos Sąjungos valstybių narių sprendimų baudžiamosiose bylose tarpusavio pripažinimo ir vykdymo“ Nr. XII-1322 1, 2 straipsnių, XIV, XV skyrių ir priedo pakeitimo, Įstatymo papildymo naujais XIV, XV, XVI, XVII skyriais ir 88 straipsnio pripažinimo netekusiu galios įstatymas
