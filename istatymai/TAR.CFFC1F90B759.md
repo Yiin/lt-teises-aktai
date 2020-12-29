@@ -13,14 +13,20 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/cffc1f90b75911e98451fa7b5933515d"
 
 # Lietuvos Respublikos teismų įstatymo Nr. I-480 7, 36, 39, 45, 48, 53-1, 53-2, 54, 55-1, 57, 61, 63, 69-1, 76, 78, 84, 85, 88, 91-2, 91-3, 91-4, 91-5, 93, 94, 98, 101, 102, 106, 119, 121, 122, 124, 128, 130 straipsnių pakeitimo, Įstatymo papildymo 44-1 straipsniu ir nauja VII dalimi ir 95 straipsnio pripažinimo netekusiu galios įstatymas
 
+Suvestinė redakcija nuo 2020-12-29
+ 
+Įstatymas paskelbtas: TAR 2019-08-05, i. k. 2019-12836
+ 
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 TEISMŲ ĮSTATYMO NR. I-480 7, 36, 39, 45, 48, 531, 532, 54, 551, 57, 61, 63, 691, 76, 78, 84, 85, 88, 912, 913, 914, 915, 93, 94, 98, 101, 102, 106, 119, 121, 122, 124, 128, 130 STRAIPSNIŲ PAKEITIMO, ĮSTATYMO PAPILDYMO 441 STRAIPSNIU IR NAUJA VII DALIMI IR 95 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
 ĮSTATYMAS
  
 2019 m. liepos 16 d. Nr. XIII-2372
 Vilnius
- 
- 
  
  
 
@@ -1185,7 +1191,10 @@ TEISMŲ SISTEMOS APDOVANOJIMAI
 
 
 
-2. Šio įstatymo 10 straipsnio 2, 3, 4 dalys, 14, 15, 16 straipsniai įsigalioja 2021 m. sausio 1 d.
+2. Šio įstatymo 10 straipsnio 2, 3, 4 dalys, 14, 15, 16 straipsniai įsigalioja 2022 m. sausio 1 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-114, 2020-12-22, paskelbta TAR 2020-12-28, i. k. 2020-28792
+ 
 
 
 
@@ -1200,7 +1209,10 @@ TEISMŲ SISTEMOS APDOVANOJIMAI
 
 
 
-5. Šio įstatymo 10 straipsnio 2, 3, 4 dalys, 14, 15, 16 straipsniai taikomi asmenims, dalyvaujantiems pretendentų į laisvas arba atsilaisvinančias apylinkės teismo teisėjų vietas, teisėjų karjeros siekiančių asmenų, kandidatų į teismo pirmininko, teismo pirmininko pavaduotojo ar skyriaus pirmininko pareigas atrankose, paskelbtose po 2021 m. sausio 1 d.
+5. Šio įstatymo 10 straipsnio 2, 3, 4 dalys, 14, 15, 16 straipsniai taikomi asmenims, dalyvaujantiems pretendentų į laisvas arba atsilaisvinančias apylinkės teismo teisėjų vietas, teisėjų karjeros siekiančių asmenų, kandidatų į teismo pirmininko, teismo pirmininko pavaduotojo ar skyriaus pirmininko pareigas atrankose, paskelbtose po 2022 m. sausio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-114, 2020-12-22, paskelbta TAR 2020-12-28, i. k. 2020-28792
+ 
 
 
 
@@ -1248,3 +1260,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-114, 2020-12-22, paskelbta TAR 2020-12-28, i. k. 2020-28792
+Lietuvos Respublikos teismų įstatymo Nr. I-480 7, 36, 39, 45, 48, 53-1, 53-2, 54, 55-1, 57, 61, 63, 69-1, 76, 78, 84, 85, 88, 91-2, 91-3, 91-4, 91-5, 93, 94, 98, 101, 102, 106, 119, 121, 122, 124, 128, 130 straipsnių pakeitimo, Įstatymo papildymo 44-1 straipsniu ir nauja VII dalimi ir 95 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIII-2372 38 straipsnio pakeitimo įstatymas
