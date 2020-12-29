@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2020-06-30 iki 2020-12-28
+Suvestinė redakcija nuo 2020-12-29 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 46-851, i. k. 0941010ISTA000I-480
  
@@ -5664,3 +5664,13 @@ Dėl Lietuvos Respublikos teismų įstatymo 47 straipsnio (2013 m. gruodžio 23 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3093, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14362
 Lietuvos Respublikos teismų įstatymo Nr. I-480 47 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3133, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15378
+Lietuvos Respublikos teismų įstatymo Nr. I-480 120, 124 ir 128 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-114, 2020-12-22, paskelbta TAR 2020-12-28, i. k. 2020-28792
+Lietuvos Respublikos teismų įstatymo Nr. I-480 7, 36, 39, 45, 48, 53-1, 53-2, 54, 55-1, 57, 61, 63, 69-1, 76, 78, 84, 85, 88, 91-2, 91-3, 91-4, 91-5, 93, 94, 98, 101, 102, 106, 119, 121, 122, 124, 128, 130 straipsnių pakeitimo, Įstatymo papildymo 44-1 straipsniu ir nauja VII dalimi ir 95 straipsnio pripažinimo netekusiu galios įstatymo Nr. XIII-2372 38 straipsnio pakeitimo įstatymas
