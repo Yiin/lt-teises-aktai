@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-11-21 iki 2020-12-29
+Suvestinė redakcija nuo 2020-12-30 iki 2020-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -370,6 +370,14 @@ Nr. XIII-2927, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10936
 8. Valstybinės duomenų apsaugos inspekcijos vadovui netaikomi šio įstatymo 17 straipsnio 1 dalies 5 ir 7 punktai, 18 ir 27 straipsniai, 28 straipsnio 1 dalies 2 punktas, 30 straipsnio 1 dalis, 31 straipsnio 1 ir 2 dalys ir 51 straipsnis, išskyrus 51 straipsnio 4 ir 7 dalis. Valstybinės duomenų apsaugos inspekcijos vadovui tarnybinę atsakomybę reglamentuojantys šio įstatymo straipsniai taikomi tik tais atvejais, kai jis įtariamas šiurkštaus tarnybinio nusižengimo padarymu. Valstybinės duomenų apsaugos inspekcijos vadovas atleidžiamas iš pareigų specialiame įstatyme arba tiesiogiai taikomame Europos Sąjungos teisės akte nustatytais pagrindais. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
+ 
+
+
+
+
+9. Kai savivaldybės teritorijoje įvedamas tiesioginis valdymas, šio įstatymo nuostatos, reglamentuojančios savivaldybės administracijos direktoriaus, direktoriaus pavaduotojo statusą ir savivaldybės mero politinio (asmeninio) pasitikėjimo valstybės tarnautojų atleidimą iš pareigų, taikomos tiek, kiek šių santykių nereglamentuoja Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymas.
+Papildyta straipsnio dalimi:
+Nr. XIV-95, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28946
  
 
 
@@ -4099,3 +4107,13 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 2 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3408, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24571
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymo Nr. XIII-1370 2 straipsnio pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3399, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24541
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5 ir 48 straipsnių pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-95, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28946
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5 straipsnio pakeitimo įstatymas
