@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS FINANSINIO TVARUMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-04-04 iki 2020-12-29
+Suvestinė redakcija nuo 2020-12-30 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 93-3985, i. k. 1091010ISTA00XI-393
  
@@ -2933,7 +2933,17 @@ b) valdyti, naudoti pertvarkomo subjekto turtą ir nuosavybę ir jais disponuoti
 
 
 
-6. Jeigu Bendra pertvarkymo valdyba, vadovaudamasi Reglamentu (ES) Nr. 806/2014, paskiria baudą Lietuvos Respublikoje licencijuotam subjektui, pertvarkymo institucija patvirtina Bendros pertvarkymo valdybos priimto sprendimo skirti baudą autentiškumą. Jeigu bauda nesumokama per sprendime skirti baudą nustatytą terminą, o kai toks terminas nenustatytas, – ne vėliau kaip per vieną mėnesį nuo dienos, kurią susijęs subjektas gavo sprendimą skirti baudą, ji pertvarkymo institucijos sprendimu išieškoma ne ginčo tvarka (be asmens nurodymo nurašyti lėšas) iš asmens, kuriam paskirta bauda, piniginių lėšų, esančių jo sąskaitose Lietuvos banke, kredito ar mokėjimo įstaigose arba, kai išieškojimo ne ginčo tvarka negalima atlikti, sprendimas vykdomas Civilinio proceso kodekso nustatyta tvarka.
+6. Bendrai pertvarkymo valdybai vadovaujantis Reglamentu (ES) Nr. 806/2014 priėmus sprendimą skirti baudą Lietuvos Respublikoje licencijuotam finansų sektoriaus subjektui (toliau – Bendros pertvarkymo valdybos sprendimas skirti baudą), paskirta bauda turi būti sumokėta per Bendros pertvarkymo valdybos sprendime skirti baudą nustatytą terminą, o kai baudos sumokėjimo terminas nenustatytas, – ne vėliau kaip per 40 dienų nuo dienos, kurią asmuo gauna sprendimą skirti baudą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-112, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28970
+ 
+
+
+
+
+7. Lietuvos banko ir (arba) Bendros pertvarkymo valdybos pateiktus prašymus patikrinti Bendros pertvarkymo valdybos sprendimo skirti baudą autentiškumą nagrinėja Lietuvos apeliacinis teismas mutatis mutandis taikydamas Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo 4 straipsnio 4, 5 ir 6 dalių nuostatas tiek, kiek šioje dalyje nenustatyta kitaip. Lietuvos apeliacinis teismas patikrina Bendros pertvarkymo valdybos sprendimo skirti baudą autentiškumą ne vėliau kaip per 20 darbo dienų nuo prašymo gavimo teisme dienos. Lietuvos apeliacinio teismo nutartis, kuria išsprendžiamas Bendros pertvarkymo valdybos sprendimo skirti baudą autentiškumo klausimas, kasacine tvarka neskundžiama. Bendros pertvarkymo valdybos sprendimas skirti baudą ir įsiteisėjusi Lietuvos apeliacinio teismo nutartis, kuria išspręstas Bendros pertvarkymo valdybos sprendimo skirti baudą autentiškumo klausimas, yra vykdomieji dokumentai.
+Papildyta straipsnio dalimi:
+Nr. XIV-112, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28970
  
 
 
@@ -7028,7 +7038,7 @@ Taikant šio įstatymo III skyriaus nuostatas, netaikomos:
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
  
 
 
@@ -7089,3 +7099,8 @@ Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 1, 2, 3, 5, 7, 96, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2021, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05387
 Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 102 straipsnio ir priedo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-112, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28970
+Lietuvos Respublikos finansinio tvarumo įstatymo Nr. XI-393 46 straipsnio pakeitimo įstatymas
