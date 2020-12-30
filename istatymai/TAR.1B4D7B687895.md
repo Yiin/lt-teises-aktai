@@ -20,7 +20,7 @@ Neoficialus ?statymo tekstas
 
 
 
-Suvestinė redakcija nuo 2020-07-11 iki 2020-12-29
+Suvestinė redakcija nuo 2020-12-30 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1957, i. k. 0941010ISTA000I-678
  
@@ -234,7 +234,10 @@ Nr. XIII-1231, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09837
 2. Lietuvos bankas taip pat:
 
 
-1) pagal susitarimą su Lietuvos Respublikos finansų ministerija (toliau – Finansų ministerija) atlieka valstybės iždo agento funkcijas;
+1) pagal susitarimus su Sutarties dėl Europos Sąjungos veikimo Protokolo dėl Europos centrinių bankų sistemos ir Europos centrinio banko statuto 21.1 straipsnyje nustatytais viešaisiais subjektais (toliau – viešieji subjektai) atlieka fiskalinio agento funkcijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-111, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28967
+ 
 
 
 
@@ -1260,7 +1263,9 @@ Nr. X-569, 2006-04-25, Žin., 2006, Nr. 48-1699 (2006-04-29)
 
 
 ŠEŠTASIS SKIRSNIS
-VALSTYBĖS IŽDO AGENTO FUNKCIJOS
+FISKALINIO AGENTO FUNKCIJOS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIV-111, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28967
  
 
 
@@ -1273,14 +1278,16 @@ Nr. X-569, 2006-04-25, Žin., 2006, Nr. 48-1699 (2006-04-29)
 
 
 
-38 straipsnis. Valstybės iždo sąskaitų atidarymas
+38 straipsnis. Viešųjų subjektų sąskaitų tvarkymas ir finansinių operacijų viešiesiems subjektams atlikimas
 
 
-Lietuvos bankas turi teisę atidaryti ir tvarkyti Lietuvos Respublikos valstybės iždo sąskaitas.
+Lietuvos bankas turi teisę atidaryti ir tvarkyti viešųjų subjektų sąskaitas ir atlikti finansines operacijas viešiesiems subjektams Lietuvos banko nustatyta tvarka ir sąlygomis. 
+Straipsnio pakeitimai:
+Nr. X-569, 2006-04-25, Žin., 2006, Nr. 48-1699 (2006-04-29)
 
 
 Straipsnio pakeitimai:
-Nr. X-569, 2006-04-25, Žin., 2006, Nr. 48-1699 (2006-04-29)
+Nr. XIV-111, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28967
  
 
 
@@ -3632,3 +3639,8 @@ Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 42 ir 47 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3189, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15512
 Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 15 straipsnio pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-111, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28967
+Lietuvos Respublikos Lietuvos banko įstatymo Nr. I-678 8, 38 straipsnių ir šeštojo skirsnio pavadinimo pakeitimo įstatymas
