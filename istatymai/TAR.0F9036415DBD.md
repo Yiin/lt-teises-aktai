@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-12-16 iki 2020-12-29
+Suvestinė redakcija nuo 2020-12-30 iki 2020-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -303,9 +303,10 @@ Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
 6 straipsnis. Asmenys, draudžiami socialiniu draudimu dėl jų socialinio statuso ypatybių
 
 
-1. Nesukakę senatvės pensijos amžiaus ir neturintys draudžiamųjų pajamų, valstybės tarnautojų ir profesinės karo tarnybos karių bei deleguotų asmenų sutuoktiniai – tuo laikotarpiu, kai jie gyvena užsienyje kartu su valstybės tarnautoju ar deleguotu asmeniu, jeigu pastarasis asmuo deleguotas ar valstybės tarnautojas perkeltas į pareigas Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, tarptautinėje ar Europos Sąjungos institucijoje arba užsienio valstybės institucijoje, pasiųstas dirbti į specialiąją misiją, ar kai jie gyvena kartu su profesinės karo tarnybos kariu, jeigu profesinės karo tarnybos karys paskirtas atlikti karo tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje arba gynybos institucijoje, taip pat Respublikos Prezidento sutuoktinis draudžiami valstybės lėšomis pensijų, motinystės, nedarbo socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis atitinkamai nuo valstybės tarnautojo ar profesinės tarnybos kario 0,5 pareiginės algos arba pagal delegavimo sutartį deleguoto asmens 0,5 darbo užmokesčio, arba Respublikos Prezidento 0,5 darbo užmokesčio, o kai nurodytos 0,5 pareiginės algos ar 0,5 darbo užmokesčio suma nesiekia Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos, – nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos. Deleguotų asmenų sutuoktiniai draudžiami tik tuo atveju, jeigu deleguotam asmeniui darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija. Nesukakęs senatvės pensijos amžiaus ir neturintis draudžiamųjų pajamų Respublikos Prezidento sutuoktinis draudžiamas Respublikos Prezidento kadencijos laikotarpiu.
+1. Nesukakę Lietuvos Respublikos socialinio draudimo pensijų įstatyme nustatyto socialinio draudimo senatvės pensijos amžiaus (toliau – senatvės pensijos amžius) ir neturintys draudžiamųjų pajamų, valstybės tarnautojų ir profesinės karo tarnybos karių bei deleguotų asmenų sutuoktiniai – tuo laikotarpiu, kai jie gyvena užsienyje kartu su valstybės tarnautoju ar deleguotu asmeniu, jeigu pastarasis asmuo deleguotas ar valstybės tarnautojas perkeltas į pareigas Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, tarptautinėje ar Europos Sąjungos institucijoje arba užsienio valstybės institucijoje, pasiųstas dirbti į specialiąją misiją, ar kai jie gyvena kartu su profesinės karo tarnybos kariu, jeigu profesinės karo tarnybos karys paskirtas atlikti karo tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje arba gynybos institucijoje, taip pat Respublikos Prezidento sutuoktinis draudžiami valstybės lėšomis pensijų, motinystės, nedarbo socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis atitinkamai nuo valstybės tarnautojo ar profesinės tarnybos kario 0,5 pareiginės algos arba pagal delegavimo sutartį deleguoto asmens 0,5 darbo užmokesčio, arba Respublikos Prezidento 0,5 darbo užmokesčio, o kai nurodytos 0,5 pareiginės algos ar 0,5 darbo užmokesčio suma nesiekia Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos, – nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos. Deleguotų asmenų sutuoktiniai draudžiami tik tuo atveju, jeigu deleguotam asmeniui darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija. Nesukakęs senatvės pensijos amžiaus ir neturintis draudžiamųjų pajamų Respublikos Prezidento sutuoktinis draudžiamas Respublikos Prezidento kadencijos laikotarpiu. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
  
 
 
@@ -319,10 +320,11 @@ Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
 
 
 
-3. Nesukakęs senatvės pensijos amžiaus vienas iš neįgalaus asmens, kuriam nustatytas specialusis nuolatinės slaugos poreikis ar specialusis nuolatinės priežiūros (pagalbos) poreikis, tėvų (įtėvių) arba asmuo, paskirtas šio neįgalaus asmens globėju ar rūpintoju, slaugantys ar nuolat prižiūrintys namuose šį neįgalų asmenį (teikiantys pagalbą namuose šiam neįgaliam asmeniui), draudžiami valstybės lėšomis pensijų ir nedarbo socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis tik tuo atveju, jeigu jie tuo laikotarpiu neturi draudžiamųjų pajamų, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos, arba jų pajamos mažesnės negu atitinkamo laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų suma. Šioje dalyje nurodyti asmenys, kurių draudžiamųjų pajamų suma per atitinkamo laikotarpio kalendorinius mėnesius mažesnė už to paties laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumą, draudžiami sumokant valstybės lėšomis trūkstamą iki atitinkamo laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumos socialinio draudimo įmokų sumą. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą, pripažintą tokiu iki 2005 m. liepos 1 d. Šioje dalyje nurodyti asmenys draudžiami pensijų socialiniu draudimu valstybės lėšomis tik tuo atveju, jeigu negauna jiems patiems priklausančios valstybinės socialinio draudimo pensijos, išskyrus valstybinę socialinio draudimo našlių (maitintojo netekimo) pensiją, valstybinės pensijos, šalpos pensijos, socialinės pensijos arba šalpos pensijos už invalidų slaugą namuose.
+3. Nesukakęs senatvės pensijos amžiaus vienas iš neįgalaus asmens, kuriam nustatytas specialusis nuolatinės slaugos poreikis ar specialusis nuolatinės priežiūros (pagalbos) poreikis, tėvų (įtėvių) arba asmuo, paskirtas šio neįgalaus asmens globėju ar rūpintoju, slaugantys ar nuolat prižiūrintys namuose šį neįgalų asmenį (teikiantys pagalbą namuose šiam neįgaliam asmeniui), draudžiami valstybės lėšomis pensijų ir nedarbo socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis tik tuo atveju, jeigu jie tuo laikotarpiu neturi draudžiamųjų pajamų, socialinio draudimo įmokas skaičiuojant nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos, arba jų pajamos mažesnės negu atitinkamo laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų suma. Šioje dalyje nurodyti asmenys, kurių draudžiamųjų pajamų suma per atitinkamo laikotarpio kalendorinius mėnesius mažesnė už to paties laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumą, draudžiami sumokant valstybės lėšomis trūkstamą iki atitinkamo laikotarpio Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumos socialinio draudimo įmokų sumą. Ši nuostata taip pat taikoma vienam iš tėvų (įtėvių), globėjui ar rūpintojui, slaugančiam namuose visiškos negalios invalidą, pripažintą tokiu iki 2005 m. liepos 1 d. Šioje dalyje nurodyti asmenys draudžiami pensijų socialiniu draudimu valstybės lėšomis tik tuo atveju, jeigu negauna jiems patiems priklausančios socialinio draudimo pensijos, išskyrus socialinio draudimo našlių pensiją ir maitintojo netekimo pensiją, valstybinės pensijos, šalpos pensijos, socialinės pensijos arba šalpos pensijos už invalidų slaugą namuose. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-929, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21602
 Nr. XIII-1961, 2019-02-12, paskelbta TAR 2019-02-20, i. k. 2019-02744
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
  
 
 
@@ -342,7 +344,10 @@ Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
 
 
 
-6. Tradicinių ir kitų valstybės pripažintų religinių bendruomenių ir bendrijų dvasininkai ir vienuoliai valstybės lėšomis draudžiami pensijų socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis tik tuo atveju, kai jie neturi būtinojo senatvės pensijai valstybinio socialinio pensijų draudimo stažo, negauna valstybinės socialinio draudimo pensijos ir kai jų draudžiamųjų pajamų suma per kalendorinius metus yra mažesnė už atitinkamų metų 12 Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumą, sumokant valstybės lėšomis trūkstamą iki 12 Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumos socialinio draudimo įmokų sumą. 
+6. Tradicinių ir kitų valstybės pripažintų religinių bendruomenių ir bendrijų dvasininkai ir vienuoliai valstybės lėšomis draudžiami pensijų socialiniu draudimu. Šioje dalyje nurodyti asmenys draudžiami valstybės lėšomis tik tuo atveju, kai jie neturi būtinojo pensijų socialinio draudimo stažo socialinio draudimo senatvės pensijai skirti, negauna socialinio draudimo pensijos ir kai jų draudžiamųjų pajamų suma per kalendorinius metus yra mažesnė už atitinkamų metų 12 Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumą, sumokant valstybės lėšomis trūkstamą iki 12 Vyriausybės patvirtintų minimaliųjų mėnesinių algų sumos socialinio draudimo įmokų sumą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
@@ -582,7 +587,10 @@ Nr. XIII-1721, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20975
 
 
 
-2) gavo valstybinę socialinio draudimo senatvės ar netekto darbingumo (invalidumo) pensiją, šalpos neįgalumo ar šalpos senatvės pensiją, su socialinio draudimo santykiais susijusią (socialinio draudimo) senatvės ar netekto darbingumo (invalidumo) pensiją iš kitos Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos arba šalies, su kuria Lietuvos Respublika yra sudariusi tarptautinę sutartį dėl socialinės apsaugos taikymo;
+2) gavo socialinio draudimo senatvės ar netekto darbingumo (invalidumo) pensiją, šalpos neįgalumo ar šalpos senatvės pensiją, su socialinio draudimo santykiais susijusią (socialinio draudimo) senatvės ar netekto darbingumo (invalidumo) pensiją iš kitos Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos arba šalies, su kuria Lietuvos Respublika yra sudariusi tarptautinę sutartį dėl socialinės apsaugos taikymo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
@@ -779,9 +787,17 @@ Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
 
 
 
-26) ilgalaikio darbo išmokų iš biudžetinių įstaigų ir Lietuvos banko atleistiems darbuotojams darbdavio skiriamų ir mokamų mutatis mutandis Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo nustatyta tvarka. 
+26) ilgalaikio darbo išmokų iš biudžetinių įstaigų ir Lietuvos banko atleistiems darbuotojams darbdavio skiriamų ir mokamų mutatis mutandis Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo nustatyta tvarka; 
 Papildyta straipsnio punktu:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
+ 
+
+
+
+
+27) darbuotojo gautos gyventojų pajamų mokesčiu neapmokestinamos naudos, darbdaviui sumokėjus už geležinkelio ar kelių viešojo transporto bilietus, skirtus darbuotojui atvykti į darbą ar parvykti iš jo. 
+Papildyta straipsnio punktu:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
  
 
 
@@ -794,7 +810,10 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
-1) gauna (jiems yra paskirta) socialinio draudimo senatvės ar socialinio draudimo netekto darbingumo (invalidumo) pensiją, paskirtą pagal Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymą;
+1) gauna (jiems yra paskirta) socialinio draudimo senatvės ar socialinio draudimo netekto darbingumo (invalidumo) pensiją, paskirtą pagal Socialinio draudimo pensijų įstatymą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
@@ -823,7 +842,10 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-6) yra sukakę socialinio draudimo senatvės pensijos amžių pagal Valstybinių socialinio draudimo pensijų įstatymą.
+6) yra sukakę senatvės pensijos amžių. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
@@ -893,7 +915,6 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 9. Socialinio draudimo įmokų mokėjimo tvarka nustatoma Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse.
- 
 
 
 
@@ -947,10 +968,12 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 14 straipsnis. Socialinio draudimo išmokos
 
 
-Socialinio draudimo išmokos – tai Valstybinių socialinio draudimo pensijų įstatyme, Ligos ir motinystės socialinio draudimo įstatyme, Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme bei Nedarbo socialinio draudimo įstatyme numatytos išmokos. 
+Socialinio draudimo išmokos – Socialinio draudimo pensijų įstatyme, Ligos ir motinystės socialinio draudimo įstatyme, Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme bei Nedarbo socialinio draudimo įstatyme numatytos išmokos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
  
-
-
 
 
 
@@ -1027,11 +1050,12 @@ Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
 16 straipsnis. Duomenų apie draudėjus, apdraustuosius asmenis, socialinio draudimo išmokų ir kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, gavėjus tvarkymas
 
 
-Duomenys apie draudėją, apdraustąjį asmenį, socialinio draudimo išmokos arba kitos išmokos, kurios mokėjimas pavestas Fondo valdybos teritoriniams skyriams, gavėją, pateikti Fondo administravimo įstaigoms, turi būti tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1), Asmens duomenų teisinės apsaugos įstatymu, šiuo įstatymu ir kitų teisės aktų nustatyta tvarka. 
+Duomenys apie draudėją, apdraustąjį asmenį, socialinio draudimo išmokos arba kitos išmokos, kurios mokėjimas pavestas Fondo valdybos teritoriniams skyriams, gavėją, pateikti Fondo administravimo įstaigoms, turi būti tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, šiuo įstatymu ir kitų asmens duomenų tvarkymą reglamentuojančių teisės aktų nustatyta tvarka. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
  
 
 
@@ -1617,7 +1641,10 @@ Socialinės apsaugos ir darbo ministerija, vykdydama socialinio draudimo valdymo
 
 
 
-9. Fondo taryba gali turėti visuomeninių patarėjų. Jų skaičius nustatomas Fondo tarybos reglamente. Rengdama išvadas, Fondo taryba gali pasitelkti ekspertus – dalyko žinovus konsultuoti klausimu, kuriam reikia specialiųjų žinių ar kurį reikia įvertinti. Minimalius reikalavimus, keliamus ekspertų kvalifikacijai, ekspertinių paslaugų pirkimo specialiuosius reikalavimus, taip pat mokėjimo sąlygas, išlaidų pagrįstumo kriterijus, jų kontrolę ir kitus reikalavimus, suderinusi su Fondo taryba, nustato ir viešuosius pirkimus Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka organizuoja ir atlieka Fondo valdyba. 
+9. Fondo taryba gali turėti visuomeninių patarėjų. Jų skaičius nustatomas Fondo tarybos reglamente. Fondo tarybos veikloje stebėtojo teisėmis turi teisę dalyvauti Lietuvos pensininkų reikalų tarybos prie Socialinės apsaugos ir darbo ministerijos atstovas, kai svarstomi klausimai, susiję su pensijų socialiniu draudimu. Rengdama išvadas, Fondo taryba gali pasitelkti ekspertus – dalyko žinovus konsultuoti klausimu, kuriam spręsti reikia specialiųjų žinių ar kurį reikia įvertinti. Minimalius reikalavimus, keliamus ekspertų kvalifikacijai, ekspertų paslaugų pirkimo specialiuosius reikalavimus, taip pat mokėjimo sąlygas, išlaidų pagrįstumo kriterijus, jų kontrolę ir kitus reikalavimus, suderinusi su Fondo taryba, nustato ir viešuosius pirkimus Lietuvos Respublikos viešųjų pirkimų įstatymo nustatyta tvarka organizuoja ir atlieka Fondo valdyba. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
@@ -1651,12 +1678,18 @@ Fondo taryba:
 
 
 
-4) nagrinėja ir teikia pasiūlymus Fondo valdybai dėl draudėjų prašymų atidėti socialinio draudimo įmokų skolų, delspinigių ar baudų, viršijančių 30 tūkst. eurų, mokėjimą ar atleidimą nuo jų;
+4) Neteko galios nuo 2020-12-30
+Straipsnio punkto naikinimas:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
 
-5) svarsto ir pateikia išvadą Fondo valdybai, Socialinės apsaugos ir darbo ministerijai ir Seimui dėl Fondo biudžeto projekto;
+5) svarsto ir pateikia išvadas Fondo valdybai, Socialinės apsaugos ir darbo ministerijai ir Seimui dėl Fondo biudžeto projekto ir jį lemiančių rodiklių, nustatytų Socialinio draudimo pensijų įstatyme; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
@@ -1671,17 +1704,26 @@ Fondo taryba:
 
 
 
-8) ne rečiau kaip kas 4 metus teikia Seimui išvadą ir prognozes dėl ilgalaikės socialinio draudimo ir pensijų sistemos pertvarkos eigos ir laukiamų rezultatų;
+8) Neteko galios nuo 2020-12-30
+Straipsnio punkto naikinimas:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
 
-9) tvirtina ir skelbia rodiklius, nustatytus Valstybinių socialinio draudimo pensijų įstatyme;
+9) vadovaudamasi Nedarbo socialinio draudimo įstatymu, svarsto ir Fondo valdybos teritoriniam skyriui teikia išvadą dėl darbdavio prašymo skirti dalinio darbo išmoką; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
 
-10) vadovaudamasi Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu, tvirtina draudėjų priskyrimą konkrečiai įmokų tarifo grupei;
+10) Neteko galios nuo 2020-12-30
+Straipsnio punkto naikinimas:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
@@ -1833,7 +1875,18 @@ Fondo taryba:
 
 
 
-23) vykdo kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
+23) priskiria draudėjus nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įmokos tarifo grupei ir tvirtina šį priskyrimą; 
+Papildyta straipsnio punktu:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
+
+
+
+
+24) vykdo kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -1886,7 +1939,10 @@ Nr. XIII-2853, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08967
 
 
 
-9) pripažinti socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolas beviltiškomis, jeigu jų neįmanoma išieškoti dėl objektyvių priežasčių arba jas priverstinai išieškoti netikslinga socialiniu ir (ar) ekonominiu požiūriu, kai: nerasta socialinio draudimo įmokų mokėtojo turto arba rastas turtas yra nelikvidus (mažai likvidus); priverstinio išieškojimo išlaidos didesnės už socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolą; netikslinga priverstinai išieškoti nepriemoką, kadangi fizinio asmens ekonominė (socialinė) padėtis yra sunki: fiziniam asmeniui reikia valstybės paramos (asmuo yra pensinio amžiaus, neįgalusis (iki 2005 m. liepos 1 d. – invalidas), asmeniui reikalingas gydymas, medicininė profilaktika ir (ar) reabilitacija, asmuo yra bedarbis, gauna socialinę pašalpą) arba tokia parama jam jau teikiama;
+9) pripažinti socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolas beviltiškomis, jeigu jų neįmanoma išieškoti dėl objektyvių priežasčių arba jas priverstinai išieškoti netikslinga socialiniu ir (ar) ekonominiu požiūriu, kai: nerasta socialinio draudimo įmokų mokėtojo turto arba rastas turtas yra nelikvidus (mažai likvidus); priverstinio išieškojimo išlaidos didesnės už socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolą; netikslinga priverstinai išieškoti nepriemoką, nes fizinio asmens ekonominė (socialinė) padėtis yra sunki: fiziniam asmeniui teikiama piniginė socialinė parama nepasiturintiems gyventojams; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
@@ -2188,7 +2244,10 @@ Valstybinė mokesčių inspekcija šio įstatymo ir Mokesčių administravimo į
 
 
 
-5) atstovauja Fondo interesams įmonėse, viešosiose įstaigose, kurioms iškeltos bankroto ar restruktūrizavimo bylos pagal Lietuvos Respublikos įmonių bankroto įstatymo ir Lietuvos Respublikos įmonių restruktūrizavimo įstatymo suteiktas kreditoriaus teises Valstybinės mokesčių inspekcijos ir Fondo valdybos abipusio susitarimo pagrindu;
+5) atstovauja Fondo interesams įmonėse, viešosiose įstaigose, kurioms iškeltos bankroto ar restruktūrizavimo bylos pagal Lietuvos Respublikos juridinių asmenų nemokumo įstatymo suteiktas kreditoriaus teises Valstybinės mokesčių inspekcijos ir Fondo valdybos abipusio susitarimo pagrindu; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
@@ -2420,7 +2479,10 @@ Nr. XIII-883, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21484
 
 
 
-5. Fondo valdybos sprendimai ir veiksmai (neveikimas) (išskyrus numatytus šio straipsnio 4 dalyje) gali būti skundžiami Vyriausiajai administracinių ginčų komisijai arba teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+5. Fondo valdybos sprendimai ir veiksmai (neveikimas) (išskyrus numatytus šio straipsnio 4 dalyje) gali būti skundžiami Lietuvos administracinių ginčų komisijai Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo arba teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
@@ -3142,3 +3204,13 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-36, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27344
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 19-1 straipsnio pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3011, 2020-06-04, paskelbta TAR 2020-06-15, i. k. 2020-13046
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 12 ir 19 straipsnių pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6, 10, 11, 12, 14, 15, 16, 19, 19-1, 21, 29, 30, 32, 36, 40 ir 41 straipsnių pakeitimo įstatymas
