@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-12-30
+Suvestinė redakcija nuo 2020-12-31 iki 2021-05-04
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
  
@@ -1378,21 +1378,37 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 
 
 1) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs tyčinį smurtinį nusikaltimą, už kurį Lietuvos Respublikos baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo (2019 m. birželio 27 d. redakcija; TAR, 2019-06-28, Nr. 10570) 18 straipsnio 2 dalies 1–4 punktai tiek, kiek juose nurodyti asmenys neterminuotai nėra laikomi nepriekaištingos reputacijos asmenimis ir pagal šio įstatymo 17 straipsnio 1 dalies 2 punktą visam laikui netenka teisės įsigyti ir turėti šio įstatymo 3 straipsnio 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų, prieštarauja konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+Nr. KT103-N7/2020, 2020-06-05, paskelbta TAR 2020-12-31, i. k. 2020-29221
+ 
 
 
 
 
 2) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo ir kurį padarė būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo (2019 m. birželio 27 d. redakcija; TAR, 2019-06-28, Nr. 10570) 18 straipsnio 2 dalies 1–4 punktai tiek, kiek juose nurodyti asmenys neterminuotai nėra laikomi nepriekaištingos reputacijos asmenimis ir pagal šio įstatymo 17 straipsnio 1 dalies 2 punktą visam laikui netenka teisės įsigyti ir turėti šio įstatymo 3 straipsnio 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų, prieštarauja konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+Nr. KT103-N7/2020, 2020-06-05, paskelbta TAR 2020-12-31, i. k. 2020-29221
+ 
 
 
 
 
 3) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo ir kuris padarytas naudojant sprogmenis, sprogstamąsias medžiagas arba šaunamuosius ginklus;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo (2019 m. birželio 27 d. redakcija; TAR, 2019-06-28, Nr. 10570) 18 straipsnio 2 dalies 1–4 punktai tiek, kiek juose nurodyti asmenys neterminuotai nėra laikomi nepriekaištingos reputacijos asmenimis ir pagal šio įstatymo 17 straipsnio 1 dalies 2 punktą visam laikui netenka teisės įsigyti ir turėti šio įstatymo 3 straipsnio 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų, prieštarauja konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+Nr. KT103-N7/2020, 2020-06-05, paskelbta TAR 2020-12-31, i. k. 2020-29221
+ 
 
 
 
 
 4) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikaltimą, susijusį su disponavimu ginklais, šaudmenimis, sprogmenimis, sprogstamosiomis ar radioaktyviosiomis medžiagomis arba karine įranga, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo (2019 m. birželio 27 d. redakcija; TAR, 2019-06-28, Nr. 10570) 18 straipsnio 2 dalies 1–4 punktai tiek, kiek juose nurodyti asmenys neterminuotai nėra laikomi nepriekaištingos reputacijos asmenimis ir pagal šio įstatymo 17 straipsnio 1 dalies 2 punktą visam laikui netenka teisės įsigyti ir turėti šio įstatymo 3 straipsnio 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų, prieštarauja konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+Nr. KT103-N7/2020, 2020-06-05, paskelbta TAR 2020-12-31, i. k. 2020-29221
+ 
 
 
 
@@ -3883,3 +3899,8 @@ Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 2 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3078, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14353
 Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 18 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT103-N7/2020, 2020-06-05, paskelbta TAR 2020-12-31, i. k. 2020-29221
+Dėl Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 18 straipsnio 2 dalies 1–4 punktų atitikties Lietuvos Respublikos Konstitucijai
