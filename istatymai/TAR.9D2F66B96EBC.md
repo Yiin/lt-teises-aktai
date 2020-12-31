@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2020-01-02 iki 2020-12-30
+Suvestinė redakcija nuo 2020-12-31 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -332,7 +332,10 @@ c) sparno įkrova ne didesnė kaip 10 kg/m2 arba minimalus stabilaus skrydžio g
 
 
 
-5. Šio įstatymo III skyriaus pirmojo ir antrojo skirsnių nuostatos netaikomos eksperimentinės kategorijos orlaiviams ir bepiločiams orlaiviams. Eksperimentinės kategorijos orlaivių, išskyrus paprastuosius orlaivius, ir bepiločių orlaivių projektavimo, gamybos, registravimo, techninės priežiūros, tinkamumo skraidyti, naudojimo ir pilotavimo reikalavimus nustato  Lietuvos transporto saugos administracija (toliau – LTSA), atsižvelgdama į skrydžių saugos užtikrinimą. Paprastųjų orlaivių, išskyrus vaikų aviaciniam švietimui naudojamus orlaivius, apskaitos, ženklinimo ir tinkamumo skraidyti reikalavimus nustato LTSA arba jos nustatyta tvarka atrinkta ir įgaliota atitinkama įstaiga ar asociacija. Vaikų aviaciniam švietimui naudojamų orlaivių naudojimo tvarką nustato ir jos vykdymą kontroliuoja Lietuvos Respublikos švietimo, mokslo ir sporto ministerija.
+5. Šio įstatymo III skyriaus pirmojo ir antrojo skirsnių nuostatos netaikomos eksperimentinės kategorijos orlaiviams ir bepiločiams orlaiviams, kuriems netaikomi Reglamente (ES) 2019/947 nustatyti sertifikavimo ir naudotojų registravimo reikalavimai. Eksperimentinės kategorijos orlaivių, išskyrus paprastuosius orlaivius, ir bepiločių orlaivių, kuriems netaikomi Reglamente (ES) 2019/947 nustatyti sertifikavimo ir naudotojų registravimo reikalavimai, projektavimo, gamybos, registravimo, techninės priežiūros, tinkamumo skraidyti, naudojimo ir pilotavimo reikalavimus nustato Lietuvos transporto saugos administracija (toliau – LTSA), atsižvelgdama į skrydžių saugos užtikrinimą. Paprastųjų orlaivių, išskyrus vaikų aviaciniam švietimui naudojamus orlaivius, apskaitos, ženklinimo ir tinkamumo skraidyti reikalavimus nustato LTSA arba jos nustatyta tvarka atrinkta ir įgaliota atitinkama įstaiga ar asociacija. Vaikų aviaciniam švietimui naudojamų orlaivių naudojimo tvarką nustato ir jos vykdymą kontroliuoja Lietuvos Respublikos švietimo, mokslo ir sporto ministerija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
+ 
 
 
 
@@ -458,7 +461,10 @@ Aviacijos valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vy
 
 
 
-3) atlieka Reglamente (EB) Nr. 300/2008 nurodytos atitinkamos institucijos, Reglamente (ES) Nr. 1178/2011, Reglamente (ES) Nr. 748/2012, Reglamente (ES) Nr. 923/2012, Reglamente (ES) Nr. 965/2012, Reglamente (ES) Nr. 139/2014, Reglamente (ES) Nr. 376/2014, Reglamente (ES) Nr. 598/2014, Reglamente (ES) Nr. 1321/2014, Reglamente (ES) 2015/340 ir Reglamente (ES) 2018/395 nurodytos kompetentingos institucijos, Reglamente (ES) 2018/1139 nurodytos nacionalinės kompetentingos institucijos ir Reglamente (EB) Nr. 549/2004 bei Reglamente (ES) 2019/317 nurodytos nacionalinės priežiūros institucijos funkcijas;
+3) atlieka Reglamente (EB) Nr. 300/2008 nurodytos atitinkamos institucijos, Reglamente (ES) Nr. 1178/2011, Reglamente (ES) Nr. 748/2012, Reglamente (ES) Nr. 923/2012, Reglamente (ES) Nr. 965/2012, Reglamente (ES) Nr. 139/2014, Reglamente (ES) Nr. 376/2014, Reglamente (ES) Nr. 598/2014, Reglamente (ES) Nr. 1321/2014, Reglamente (ES) 2015/340, Reglamente (ES) 2018/395 nurodytos kompetentingos institucijos, taip pat Reglamente (ES) 2019/947 nurodytos kompetentingos institucijos, atsakingos už šio reglamento 18 straipsnio a–e ir g–m punktų nuostatų vykdymą, Reglamente (ES) 2018/1139 nurodytos nacionalinės kompetentingos institucijos ir Reglamente (EB) Nr. 549/2004 bei Reglamente (ES) 2019/317 nurodytos nacionalinės priežiūros institucijos funkcijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
+ 
 
 
 
@@ -468,7 +474,15 @@ Aviacijos valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vy
 
 
 
-5) teikia metodinę pagalbą ir konsultacijas civilinės aviacijos klausimais.
+5) teikia metodinę pagalbą ir konsultacijas civilinės aviacijos klausimais;
+
+
+
+
+6) vykdo bepiločių orlaivių ir bepiločių orlaivių naudotojų, nurodytų Reglamento (ES) 2019/947 14 straipsnio 1 dalyje, registravimą. 
+Papildyta straipsnio punktu:
+Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
+ 
 
 
 
@@ -918,6 +932,13 @@ Ryšių, navigacijos ir stebėjimo paslaugų teikimo tvarką nustato LTSA.
 
 
 2. Asmenys, turintys oro navigacijos informacijos, privalo ją nemokamai teikti LTSA arba jos įgaliotam juridiniam asmeniui.
+
+
+
+
+3. Reglamento (ES) 2019/947 18 straipsnio f punkte nurodytą informaciją teikia susisiekimo ministro paskirtas juridinis asmuo, turintis atitinkamą oro navigacijos paslaugų teikėjo pažymėjimą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
  
 
 
@@ -1043,6 +1064,14 @@ ORLAIVIŲ REGISTRAVIMAS IR ŽENKLINIMAS
 
 
 7. Jeigu Lietuvos Respublikos civilinių orlaivių registre įrašyta, kad orlaivis yra įkeistas arba areštuotas, jo registravimas negali būti panaikintas be įkaito davėjo sutikimo arba valstybės įmonės Registrų centro išrašo ar teismo rašytinio pranešimo, kad orlaivio įkeitimas arba areštas panaikintas.
+
+
+
+
+71. Šio straipsnio 3 dalies 1 punktas, 4, 5 dalys, 6 dalies 5 punktas netaikomi Lietuvos Respublikos civilinių orlaivių registre registruojant šio įstatymo 6 straipsnio 3 dalies 6 punkte nurodytus objektus. 
+Papildyta straipsnio dalimi:
+Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
+ 
 
 
 
@@ -2596,6 +2625,14 @@ aviacijos įstatymo
 27. 2019 m. vasario 11 d. Komisijos įgyvendinimo reglamentas (ES) 2019/317, kuriuo nustatoma Bendro Europos dangaus veiklos rezultatų ir mokesčių sistema ir panaikinami įgyvendinimo reglamentai (ES) Nr. 390/2013 ir (ES) Nr. 391/2013 (OL 2019 L 56, p. 1).
 
 
+
+
+28. 2019 m. gegužės 24 d. Komisijos įgyvendinimo reglamentas (ES) 2019/947 dėl bepiločių orlaivių naudojimo taisyklių ir tvarkos su paskutiniais pakeitimais, padarytais 2020 m. gegužės 12 d. Komisijos įgyvendinimo reglamentu (ES) 2020/639. 
+Papildyta punktu:
+Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
+ 
+
+
  
  
 Pakeitimai:
@@ -2714,3 +2751,8 @@ Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 10 straipsnio pakeitimo i
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2373, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12796
 Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
+Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 3, 6, 21, 24 straipsnių ir 3 priedo pakeitimo įstatymas
