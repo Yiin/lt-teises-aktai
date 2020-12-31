@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C0FF21832A85"
 
 # Lietuvos Respublikos labdaros ir paramos įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-12-30
+Suvestinė redakcija nuo 2020-12-31 iki 2022-03-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 21-506, i. k. 0931010ISTA000I-172
  
@@ -141,12 +141,27 @@ Nr. XIII-1706, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20946
 
 
 
-3. Paramos gavėjams – fiziniams asmenims, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas, teikiamos paramos dalykas yra piniginės lėšos, sudarančios pajamų mokesčio dalį iki 2 procentų gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos. 
+3. Paramos gavėjams – fiziniams asmenims:
+
+
+1) kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas, teikiamos paramos dalykas yra piniginės lėšos, sudarančios pajamų mokesčio dalį iki 1,2 procento gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 1,2 procento mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos;
 
 
 
 
-4. Labdaros ir paramos dalyku negali būti Lietuvos Respublikos valstybės ir savivaldybių, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų, Lietuvos banko ir kitos valstybės ir savivaldybių piniginės lėšos, taip pat tabakas ir tabako gaminiai, etilo alkoholis ir alkoholiniai gėrimai bei ribotai apyvartoje esantys daiktai, taip pat nuolatinio Lietuvos gyventojo pačiam sau skiriamos piniginės lėšos, sudarančios pajamų mokesčio dalį iki 2 procentų gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos.
+2) kurie Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais tiesiogiai dalyvauja likviduojant ekstremaliąją situaciją ir šalinant jos padarinius, teikiamos paramos dalykas yra piniginės lėšos, suteiktos paslaugos ir bet koks kitas turtas, įskaitant pagamintas ar įsigytas prekes. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
+ 
+
+
+
+
+4. Labdaros ir paramos dalyku negali būti Lietuvos Respublikos valstybės ir savivaldybių, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų, Lietuvos banko ir kitos valstybės ir savivaldybių piniginės lėšos, tabakas ir tabako gaminiai, etilo alkoholis ir alkoholiniai gėrimai bei ribotai apyvartoje esantys daiktai, taip pat nuolatinio Lietuvos gyventojo pačiam sau skiriamos piniginės lėšos, sudarančios pajamų mokesčio dalį iki 1,2 procento gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 1,2 procento mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
  
 
 
@@ -312,12 +327,26 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
 
 
-2. Paramos dalyko, nurodyto šio įstatymo 4 straipsnio 3 dalyje, gavėjais gali būti fiziniai asmenys, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas.
+2. Paramos dalyko, nurodyto šio įstatymo 4 straipsnio 3 dalies 1 punkte, gavėjais gali būti fiziniai asmenys, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
+ 
 
 
 
 
-3. Šio straipsnio 1 ir 2 dalyse nurodyti asmenys tampa paramos gavėjais ir įgyja teisę gauti paramą tik šio įstatymo nustatyta tvarka gavę paramos gavėjo statusą.
+21. Paramos dalyko, nurodyto šio įstatymo 4 straipsnio 3 dalies 2 punkte, gavėjais gali būti fiziniai asmenys, kurie Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais tiesiogiai dalyvauja likviduojant ekstremaliąją situaciją ir šalinant jos padarinius. Fiziniai asmenys, kurie Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais tiesiogiai dalyvauja likviduojant ekstremaliąją situaciją ir šalinant jos padarinius, turi paramos gavėjo statusą ir jiems netaikomos šio įstatymo 13 straipsnio nuostatos. 
+Papildyta straipsnio dalimi:
+Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
+ 
+
+
+
+
+3. Šio straipsnio 1 ir 2 dalyse nurodyti asmenys tampa paramos gavėjais ir įgyja teisę gauti paramą tik šio įstatymo nustatyta tvarka gavę paramos gavėjo statusą. Šio straipsnio 21 dalyje nurodyti asmenys tampa paramos gavėjais ir įgyja teisę gauti paramą, kai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais tiesiogiai dalyvauja likviduojant ekstremaliąją situaciją ir šalinant jos padarinius.
+Straipsnio dalies pakeitimai:
+Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
+ 
 
 
 
@@ -378,7 +407,9 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
 
 
-6. Šio straipsnio nuostatos netaikomos fiziniams asmenims, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas.
+6. Šio straipsnio nuostatos netaikomos fiziniams asmenims, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas, ir šio įstatymo 7 straipsnio 21 dalyje nurodytiems fiziniams asmenims.
+Straipsnio dalies pakeitimai:
+Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
  
 
 
@@ -423,7 +454,20 @@ Nr. XIII-1706, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20946
 
 
 
-2. Fiziniams asmenims, kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas, parama teikiama skiriant iki 2 procentų gyventojo metinės pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 2 procentų mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos nuolatinio Lietuvos gyventojo pajamų mokesčio sumos.
+2. Fiziniams asmenims:
+
+
+1) kuriems Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo nustatyta tvarka yra suteiktas meno kūrėjo statusas, parama teikiama skiriant iki 1,2 procento gyventojo metinės pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 1,2 procento mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos;
+
+
+
+
+2) kurie Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais tiesiogiai dalyvauja likviduojant ekstremaliąją situaciją ir šalinant jos padarinius, parama teikiama šio straipsnio 1 dalies 1, 3, 4 ir 5 punktuose nurodytais būdais.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
+ 
 
 
 
@@ -775,6 +819,14 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
 
 
+31. Fiziniai asmenys, kurie Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir atvejais tiesiogiai dalyvauja likviduojant ekstremaliąją situaciją ir šalinant jos padarinius, turi teisę netvarkyti pagal šį įstatymą gaunamos ir panaudojamos paramos apskaitos, neprivalo atsiskaityti už gaunamą paramą ir (ar) jos panaudojimą ir jiems netaikomos šio straipsnio nuostatos.
+Papildyta straipsnio dalimi:
+Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
+ 
+
+
+
+
 4. Valstybinė mokesčių inspekcija šio straipsnio 1, 2 ir 3 dalyse nurodytose ataskaitose pateiktą informaciją Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikia Lietuvos statistikos departamentui.
 
 
@@ -998,7 +1050,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
  
 
 
@@ -1146,3 +1198,8 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 5, 9-1, 9-2 ir 11 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2569, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19881
 Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 13 straipsnio pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4, 7, 8, 9 ir 11 straipsnių pakeitimo įstatymas
