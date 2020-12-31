@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2020-12-30
+Suvestinė redakcija nuo 2020-12-31 iki 2021-05-25
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -4798,9 +4798,10 @@ Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
 
 
 12. Vaistinės darbo laiku vaistinėje turi dirbti ne mažiau kaip vienas vaistininkas.
-TAR pastaba. 12 dalis įsigalioja 2021-01-01.
+TAR pastaba. 12 dalis įsigalioja 2023-07-01.
 Straipsnio dalies pakeitimai:
 Nr. XII-1906, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10696
+Nr. XIV-106, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29165
  
 
 
@@ -8534,7 +8535,7 @@ Nr. XII-388, 2013-06-18, Žin., 2013, Nr. 68-3417 (2013-06-28)
 Nr. XII-590, 2013-11-12, Žin., 2013, Nr. 120-6056 (2013-11-23)
  
  
-part_64586339d0164c7fb9b9dd5987b0bbca_end
+part_ad930495085b4c189e0608cf6cdfe1f3_end
 
 
 Pakeitimai:
@@ -8784,3 +8785,18 @@ Lietuvos Respublikos farmacijos įstatymo Nr. X-709 20 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2589, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20022
 Lietuvos Respublikos farmacijos įstatymo Nr. X-709 57 straipsnio pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2763, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00048
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2 ir 8 straipsnių pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2952, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11076
+Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2 ir 8 straipsnių pakeitimo įstatymo Nr. XIII-2763 3 straipsnio pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-106, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29165
+Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 8 straipsnio pakeitimo įstatymas
