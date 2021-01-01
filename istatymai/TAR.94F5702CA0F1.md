@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94F5702CA0F1"
 
 # Lietuvos Respublikos antstolių įstatymas
 
-Suvestinė redakcija nuo 2020-08-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 53-2042, i. k. 1021010ISTA00IX-876
  
@@ -623,7 +623,10 @@ Nr. XIII-3216, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15753
 
 
 
-4) teisės atlikti funkcijas, nurodytas šio Įstatymo 21 straipsnio 1 dalyje, atėmimas iki šešių mėnesių;
+4) teisės gauti vykdyti vykdomuosius dokumentus Civilinio proceso kodekso 650 straipsnio 3 dalyje nustatyta tvarka atėmimas iki šešių mėnesių; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
+ 
 
 
 
