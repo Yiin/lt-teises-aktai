@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS TEISĖKŪROS PAGRINDŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-01-04
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 110-5564, i. k. 1121010ISTA0XI-2220
  
@@ -323,6 +323,235 @@ Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
  
 
 
+
+
+
+
+51 straipsnis. Asmens įrašymas į asmenų, darančių įtaką teisėkūrai, sąrašą, asmens teisės ir pareigos, asmens išbraukimas iš asmenų, darančių įtaką teisėkūrai, sąrašo
+
+
+1. Asmuo, siekiantis daryti įtaką teisėkūrai, gali savanoriškai pateikti Vyriausiajai tarnybinės etikos komisijai prašymą jį įrašyti į asmenų, darančių įtaką teisėkūrai, sąrašą.
+
+
+
+
+2. Prašyme įrašyti į asmenų, darančių įtaką teisėkūrai, sąrašą nurodoma:
+
+
+1) vardas ir pavardė, asmens kodas, gyvenamoji vieta, darbo vieta ir pareigos per paskutinius vienus metus nuo prašymo pateikimo dienos, kai prašymą teikia fizinis asmuo;
+
+
+
+
+2) pavadinimas, juridinio asmens kodas, kai prašymą teikia juridinis asmuo;
+
+
+
+
+3) teisinio reguliavimo sritis (sritys), kurioje (kuriose) asmuo siekia daryti įtaką teisėkūrai.
+
+
+
+
+
+
+3. Vyriausioji tarnybinės etikos komisija per penkias darbo dienas nuo šio straipsnio 2 dalyje nurodyto prašymo pateikimo dienos priima sprendimą dėl asmens įrašymo į asmenų, darančių įtaką teisėkūrai, sąrašą. Jeigu reikia papildomos informacijos ar dokumentų, būtinų sprendimui priimti, šioje dalyje nurodytas terminas skaičiuojamas nuo visos reikiamos informacijos ar dokumentų gavimo dienos.
+
+
+
+
+4. Vyriausioji tarnybinės etikos komisija atsisako įrašyti asmenį į asmenų, darančių įtaką teisėkūrai, sąrašą tik tuo atveju, kai prašymą pateikęs asmuo pateikė neteisingus ar neišsamius šiame straipsnyje nurodytus duomenis ir (ar) papildomą informaciją. Tokiu atveju Vyriausioji tarnybinės etikos komisija pateikia asmeniui motyvuotą sprendimą atsisakyti įrašyti jį į asmenų, darančių įtaką teisėkūrai, sąrašą. Vyriausioji tarnybinės etikos komisija apie priimtą sprendimą įrašyti ar atsisakyti įrašyti asmenį į asmenų, darančių įtaką teisėkūrai, sąrašą prašymą pateikusiam asmeniui praneša raštu per tris darbo dienas nuo sprendimo priėmimo dienos.
+
+
+
+
+5. Asmuo, įrašytas į asmenų, darančių įtaką teisėkūrai, sąrašą, turi teisę:
+
+
+1) gauti iš įstaigų informaciją apie rengiamus teisės aktų projektus pagal asmens prašyme įrašyti į asmenų, darančių įtaką teisėkūrai, sąrašą nurodytas teisinio reguliavimo sritis;
+
+
+
+
+2) teisės aktų nustatyta tvarka dalyvauti rengiant ir rengti teisės aktų projektus, teikti pasiūlymus ir paaiškinimus dėl teisės aktų projektų turinio ir rengimo;
+
+
+
+
+3) savo iniciatyva atlikti teisės aktų, teisės aktų projektų vertinimą, teikti išvadas ir komentarus dėl teisės aktų projektų; 
+
+
+
+
+4) aiškinti visuomenei, įtikinėti įstaigas ar kitus teisėkūroje dalyvaujančius subjektus, kad yra tikslinga priimti tam tikrą teisės aktą arba jo nepriimti;
+
+
+
+
+5) teisės aktų nustatyta tvarka dalyvauti rengiamuose susitikimuose, posėdžiuose, pasitarimuose dėl teisės aktų projektų;
+
+
+
+
+6) siekdamas daryti įtaką teisėkūrai, gauti iš įstaigų leidimus (įskaitant nuolatinius leidimus) patekti į jų patalpas, jeigu tai neprieštarauja tam tikrų įstaigų veiklą reglamentuojančių specialiųjų įstatymų ir kitų teisės aktų nuostatoms;
+
+
+
+
+7) rinkti duomenis ir informaciją apie teisėkūros procedūras;
+
+
+
+
+8) siūlyti teisėkūroje dalyvaujantiems subjektams susitikti su visuomene;
+
+
+
+
+9) organizuoti visuomenės apklausą dėl teisės aktų projektų priėmimo ar įgyvendinimo;
+
+
+
+
+10) gauti iš įstaigų teisės aktų projektų kopijas ir kitą informaciją, jeigu tai neprieštarauja Lietuvos Respublikos įstatymams ir prašoma informacija nėra viešai paskelbta kibernetinėje erdvėje ar visuomenės informavimo priemonėse. Informacija, kurią rengiant nereikia pateikti didelės apimties ar specialiai adaptuotų, apdorotų ar kitaip perdirbtų dokumentų, asmenims pateikiama ne vėliau kaip per tris darbo dienas nuo asmens prašymo gavimo įstaigoje dienos, o informacija, kurią rengiant reikia pateikti didelės apimties ar specialiai adaptuotus, apdorotus ar kitaip perdirbtus dokumentus, – ne vėliau kaip per septynias darbo dienas nuo asmens prašymo gavimo įstaigoje dienos. Įstaigos, atsisakiusios teikti informaciją, ne vėliau kaip kitą darbo dieną nuo asmens prašymo gavimo įstaigoje dienos turi raštu pranešti apie atsisakymo suteikti informaciją priežastis.
+
+
+
+
+
+
+6. Asmuo, įrašytas į asmenų, darančių įtaką teisėkūrai, sąrašą, privalo:
+
+
+1) prisistatyti įstaigoms ar kitiems teisėkūroje dalyvaujantiems subjektams (nurodyti savo vardą, pavardę, o kai veikia juridinio asmens vardu, – ir juridinio asmens pavadinimą), kai siekia daryti įtaką teisėkūrai, nurodyti norimus priimti arba nepriimti teisės aktų projektus; 
+
+
+
+
+2) šio įstatymo nustatyta tvarka teikti metines skaidrių teisėkūros procesų deklaracijas;
+
+
+
+
+3) laikytis šio įstatymo, kitų Lietuvos Respublikos teisės aktų reikalavimų.
+
+
+
+
+
+
+7. Asmuo Vyriausiosios tarnybinės etikos komisijos sprendimu išbraukiamas iš asmenų, darančių įtaką teisėkūrai, sąrašo, jeigu jis:
+
+
+1) kreipėsi raštu į Vyriausiąją tarnybinės etikos komisiją dėl išbraukimo iš asmenų, darančių įtaką teisėkūrai, sąrašo;
+
+
+
+
+2) po įspėjimo per Vyriausiosios tarnybinės etikos komisijos nustatytą papildomą terminą nepateikia metinės skaidrių teisėkūros procesų deklaracijos.
+
+
+
+
+
+
+8. Asmuo, šio straipsnio 7 dalies 2 punkte nurodytu atveju išbrauktas iš asmenų, darančių įtaką teisėkūrai, sąrašo, vienus metus nuo sprendimo išbraukti jį iš asmenų, darančių įtaką teisėkūrai, sąrašo, įsigaliojimo dienos negali būti įrašytas į asmenų, darančių įtaką teisėkūrai, sąrašą. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3171, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15503
+ 
+
+
+
+
+52 straipsnis. Metinė skaidrių teisėkūros procesų deklaracija
+
+
+1. Asmuo, įrašytas į asmenų, darančių įtaką teisėkūrai, sąrašą, privalo kasmet pateikti metinę skaidrių teisėkūros procesų deklaraciją ir deklaruoti savo daromą įtaką teisėkūrai. Praėjusių metų skaidrių teisėkūros procesų deklaracijos turi būti pateiktos ne vėliau kaip iki einamųjų kalendorinių metų, einančių po nurodyto laikotarpio, vasario 1 dienos elektroninėmis priemonėmis Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka Vyriausiosios tarnybinės etikos komisijos skaidrių teisėkūros procesų informacinėje sistemoje (toliau – Skaidrių teisėkūros procesų informacinė sistema).
+
+
+
+
+2. Metinėje skaidrių teisėkūros procesų deklaracijoje asmuo, įrašytas į asmenų, darančių įtaką teisėkūrai, sąrašą, privalo nurodyti:
+
+
+1) savo vardą, pavardę ar juridinio asmens pavadinimą;
+
+
+
+
+2) teisės akto, teisės akto projekto, dėl kurio buvo daroma įtaka teisėkūrai, pavadinimą ir norimo pakeisti dalyko trumpą apibūdinimą;
+
+
+
+
+3) informaciją apie dalyvavimą darbo grupėse (komisijose) teisės aktų projektams rengti;
+
+
+
+
+4) įstaigas, kuriose buvo siekiama daryti įtaką teisėkūrai, ar kitus teisėkūroje dalyvaujančius subjektus, kuriems buvo siekiama daryti įtaką dėl teisėkūros.
+
+
+
+
+
+
+3. Asmenį, kuris šiame straipsnyje nustatyta tvarka nepateikė metinės skaidrių teisėkūros procesų deklaracijos, Vyriausioji tarnybinės etikos komisija įspėja raštu ir nustato ne trumpesnį kaip keturiolikos dienų ir ne ilgesnį kaip vieno mėnesio papildomą metinės skaidrių teisėkūros procesų deklaracijos pateikimo terminą.
+
+
+
+
+4. Metinės skaidrių teisėkūros procesų deklaracijos formą nustato Vyriausioji tarnybinės etikos komisija. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3171, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15503
+ 
+
+
+
+
+53 straipsnis. Informacija apie daromą įtaką teisėkūrai
+
+
+1. Siekiant užtikrinti daromos įtakos teisėkūrai viešumą ir skaidrumą, Skaidrių teisėkūros procesų informacinėje sistemoje tvarkoma ir Vyriausiosios tarnybinės etikos komisijos interneto svetainėje viešai skelbiama:
+
+
+1) informacija apie asmenis, įrašytus į asmenų, darančių įtaką teisėkūrai, sąrašą: asmens vardas, pavardė ar juridinio asmens pavadinimas, teisinio reguliavimo sritis (sritys), kurioje (kuriose) asmuo siekia daryti įtaką teisėkūrai, Vyriausiosios tarnybinės etikos komisijos sprendimo įrašyti asmenį į asmenų, darančių įtaką teisėkūrai, sąrašą data ir numeris, pateiktos metinės skaidrių teisėkūros procesų deklaracijos, informacija apie asmens išbraukimą iš asmenų, darančių įtaką teisėkūrai, sąrašo;
+
+
+
+
+2) šio įstatymo 52 straipsnio 2 dalyje nurodyti metinių skaidrių teisėkūros procesų deklaracijų duomenys;
+
+
+
+
+3) Respublikos Prezidento, Seimo, Lietuvos Respublikos Vyriausybės narių, viceministrų, Vyriausybės, ministerijų kanclerių, parlamentinių politinių partijų vadovų, merų, savivaldybių tarybų narių, savivaldybių administracijų direktorių ir jų pavaduotojų savanoriškai deklaruota informacija apie jiems darytą įtaką dėl teisėkūros. 
+
+
+
+
+
+
+2. Šio straipsnio 1 dalies 1 punkte nurodyti duomenys Vyriausiosios tarnybinės etikos komisijos interneto svetainėje viešai skelbiami nuo asmens įrašymo į asmenų, darančių įtaką teisėkūrai, sąrašą ir dar trejus metus po asmens išbraukimo iš asmenų, darančių įtaką teisėkūrai, sąrašo.
+
+
+
+
+3. Šio straipsnio 1 dalies 2 punkte nurodyti duomenys Vyriausiosios tarnybinės etikos komisijos interneto svetainėje viešai skelbiami trejus metus nuo metinių skaidrių teisėkūros procesų deklaracijų paskelbimo.
+
+
+
+
+4. Šio straipsnio 1 dalies 3 punkte nurodyti duomenys Vyriausiosios tarnybinės etikos komisijos interneto svetainėje viešai skelbiami trejus metus nuo informacijos paskelbimo. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3171, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15503
+ 
 
 
 
@@ -1067,7 +1296,10 @@ Nr. XIII-3085, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14360
 
 
 
-7. Seimo nutarimas, kuriuo skelbiama mobilizacija ar demobilizacija, įvedama karo ar nepaprastoji padėtis, įsigalioja nuo oficialaus paskelbimo Teisės aktų registre ir (ar) visuomenės informavimo priemonėse.
+7. Neteko galios nuo 2021-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3243, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15880
+ 
 
 
 
@@ -1087,7 +1319,10 @@ Nr. XIII-3085, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14360
 
 
 
-11. Respublikos Prezidento dekretas dėl mobilizacijos paskelbimo, karo ar nepaprastosios padėties įvedimo įsigalioja nuo oficialaus paskelbimo Teisės aktų registre ir (ar) visuomenės informavimo priemonėse.
+11. Neteko galios nuo 2021-01-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3243, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15880
+ 
 
 
 
@@ -1300,6 +1535,73 @@ GALIOJANČIO TEISINIO REGULIAVIMO POVEIKIO EX POST VERTINIMAS
 
 Skirsnio pakeitimai:
 Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
+ 
+
+
+
+
+ketvirtasis1 skirsnis
+Teisėkūros ypatumai MOBILIZACIJOS, nepaprastOSIOS ir karo padėtiES METU
+ 
+
+
+244 straipsnis. Teisės aktų projektų rengimas, teisės aktų skelbimas ir įsigaliojimas nepaprastosios ar karo padėties metu
+
+
+1. Nepaprastosios ar karo padėties metu, kai nėra galimybės teisėkūrai naudoti Teisės aktų informacinės sistemos, įstatymų ir kitų teisės aktų projektai rengiami, šio įstatymo 5 straipsnio 2 dalyje nurodyta informacija ir dokumentai tvarkomi ir skelbiami kitomis prieinamomis priemonėmis ir būdais.
+
+
+
+
+2. Nepaprastosios ar karo padėties metu, kai nėra galimybių teisės aktus skelbti Teisės aktų registre, teisės aktai, išskyrus šio įstatymo 245 ir 246 straipsniuose nurodytuosius, ne vėliau kaip per tris kalendorines dienas po pasirašymo oficialiai paskelbiami visuomenės informavimo priemonėse ir įsigalioja mutatis mutandis šio įstatymo 20 straipsnyje nustatyta tvarka.
+
+
+
+
+3. Lietuvos Respublikos mokesčių įstatymams, nustatantiems naujus mokesčius, naujus mokesčio tarifus, mokesčio lengvatas, sankcijas už mokesčių įstatymų pažeidimus arba iš esmės pakeičiantiems apmokestinimo tam tikru mokesčiu tvarką ar apmokestinimo teisinio reglamentavimo bei taikymo principus, ir teisės aktams, keičiantiems ar nustatantiems naują ūkio subjektų veiklos ar jos priežiūros teisinį reguliavimą, kai tas teisinis reguliavimas arba jo pakeitimai reikalingi nepaprastosios padėties įvedimo tikslams pasiekti ar valstybės gynybai, kitoms gyvybiškai svarbioms valstybės funkcijoms mobilizacijos ar karo padėties metu atlikti, šio įstatymo 20 straipsnio 3 ir 4 dalyse nustatyti reikalavimai dėl teisės aktų įsigaliojimo netaikomi.
+ 
+
+
+
+
+
+
+245 straipsnis. Seimo nutarimų dėl mobilizacijos ar demobilizacijos skelbimo, karo arba nepaprastosios padėties įvedimo ar atšaukimo, ginkluotųjų pajėgų panaudojimo, Respublikos Prezidento dekretų dėl mobilizacijos skelbimo, karo padėties įvedimo ar atšaukimo, nepaprastosios padėties įvedimo, gynybos nuo ginkluotos agresijos skelbimas ir įsigaliojimas
+
+
+1. Seimo nutarimas dėl mobilizacijos ar demobilizacijos skelbimo, karo arba nepaprastosios padėties įvedimo ar atšaukimo, ginkluotųjų pajėgų panaudojimo, Respublikos Prezidento dekretas dėl mobilizacijos skelbimo, karo padėties įvedimo ar atšaukimo, nepaprastosios padėties įvedimo, gynybos nuo ginkluotos agresijos nedelsiant registruojamas ir oficialiai skelbiamas Teisės aktų registre, išskyrus atvejus, kai juos skelbti Teisės aktų registre nėra galimybių, ir visuomenės informavimo priemonėse.
+
+
+
+
+2. Seimo nutarimas dėl mobilizacijos ar demobilizacijos skelbimo, karo arba nepaprastosios padėties įvedimo ar atšaukimo, ginkluotųjų pajėgų panaudojimo, Respublikos Prezidento dekretas dėl karo padėties atšaukimo, nepaprastosios padėties įvedimo įsigalioja nuo oficialaus paskelbimo Teisės aktų registre ir (ar) visuomenės informavimo priemonėse, priklausomai nuo to, kur paskelbta anksčiau.
+
+
+
+
+3. Respublikos Prezidento dekretas dėl mobilizacijos skelbimo, karo padėties įvedimo, gynybos nuo ginkluotos agresijos įsigalioja nuo dekreto pasirašymo.
+ 
+
+
+
+
+
+
+246 straipsnis. Konstitucinio Teismo aktų ir Konstitucinio Teismo pirmininko pranešimų paskelbimas ir įsigaliojimas, kitų teismų sprendimų skelbimas nepaprastosios ar karo padėties metu
+
+
+1. Nepaprastosios ar karo padėties metu, kai nėra galimybių Teisės aktų registre skelbti Konstitucinio Teismo nutarimų ir sprendimų dėl Konstitucinio Teismo nutarimo išaiškinimo, taip pat Konstitucinio Teismo pirmininko pranešimų dėl ginčijamo akto galiojimo sustabdymo ir dėl sustabdyto akto galiojimo atnaujinimo, šie Konstitucinio Teismo aktai ir Konstitucinio Teismo pirmininko pranešimai ne vėliau kaip per tris kalendorines dienas po pasirašymo oficialiai paskelbiami visuomenės informavimo priemonėse ir įsigalioja oficialaus paskelbimo dieną.
+
+
+
+
+2. Nepaprastosios ar karo padėties metu, kai nėra galimybių Teisės aktų registre skelbti Lietuvos Aukščiausiojo Teismo ir Lietuvos vyriausiojo administracinio teismo sprendimų, nutarčių, nutarimų, taip pat visų įsiteisėjusių administracinių teismų sprendimų dėl norminių administracinių aktų teisėtumo, šie sprendimai, nutartys ir nutarimai skelbiami visuomenės informavimo priemonėse.
+
+
+
+
+Papildyta skirsniu:
+Nr. XIII-3243, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15880
  
 
 
@@ -1532,7 +1834,7 @@ Nr. XI-2314, 2012-11-06, Žin., 2012, Nr. 132-6642 (2012-11-15), i. k. 1121010IS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
  
 
 
@@ -1589,3 +1891,13 @@ Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 15, 16 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3045, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13961
 Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 6 straipsnio pakeitimo ir Įstatymo papildymo 16-2 straipsniu įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3171, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15503
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 papildymo 5-1, 5-2 ir 5-3 straipsniais įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3243, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15880
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 20 straipsnio pakeitimo ir Įstatymo papildymo ketvirtuoju-1 skirsniu įstatymas
