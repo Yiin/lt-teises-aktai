@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-07-10 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-04-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
  
@@ -137,9 +137,10 @@ Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
 
 
 
-18) planai ir programos – nacionalinio, regioninio ar vietinio lygmens planavimo dokumentai (veiksmų planai ir programos, plėtros planai (programavimo dokumentai), ūkio šakų vystymo planai ir programos, strategijos, koncepcijos, teritorijų planavimo dokumentai ir kt., įskaitant planus bei programas, prie kurių finansavimo prisideda Europos Sąjunga), kurie rengiami, tvirtinami ir (arba) priimami pagal galiojančius teisės aktus ar pagal kompetenciją įgyvendinant viešąjį administravimą ir kurių įgyvendinimo pasekmės gali būti reikšmingos aplinkai, įskaitant tokių planų ir programų visiškus ar dalinius pakeitimus; 
+18) planai ir programos – planavimo dokumentai, apibrėžti Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos regioninės plėtros įstatyme, Lietuvos Respublikos vietos savivaldos įstatyme ir kituose ūkinės veiklos, gamtotvarkos, kitus aplinkos apsaugos planavimo dokumentus apibrėžiančiuose teisės aktuose, kurie rengiami, tvirtinami ir (arba) priimami pagal galiojančius teisės aktus ar pagal kompetenciją įgyvendinant viešąjį administravimą ir kurių įgyvendinimo pasekmės gali būti reikšmingos aplinkai, įskaitant tokių planų ir programų visiškus ar dalinius pakeitimus;
 Straipsnio punkto pakeitimai:
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
+Nr. XIII-3097, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15300
  
 
 
@@ -229,9 +230,17 @@ Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 
 
 
-32) neišvengiama (reali) žalos aplinkai grėsmė – pakankama (reali) tikimybė, kad artimoje ateityje bus padaryta žala aplinkai.
+32) neišvengiama (reali) žalos aplinkai grėsmė – pakankama (reali) tikimybė, kad artimoje ateityje bus padaryta žala aplinkai;
 Papildyta straipsnio punktu:
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
+ 
+
+
+
+
+33) radiologinis aplinkos monitoringas – suprantama, kaip apibrėžta Lietuvos Respublikos aplinkos monitoringo įstatyme. 
+Papildyta straipsnio punktu:
+Nr. XIII-3363, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24519
  
 
 
@@ -323,12 +332,18 @@ Nr. IX-677, 2001-12-20, Žin., 2002, Nr. 2-49 (2002-01-09)
 Lietuvos Respublikos Seimas, formuodamas aplinkos apsaugos valstybės politiką:
 
 
-1) nustato pagrindines aplinkos apsaugos ir gamtos išteklių naudojimo politikos kryptis;
+1) nustato pagrindines aplinkos apsaugos ir gamtos išteklių naudojimo politikos vystymosi kryptis, tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3097, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15300
+ 
 
 
 
 
-2) tvirtina aplinkos apsaugos strategiją;
+2) tvirtina aplinkos apsaugos nacionalines darbotvarkes;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3097, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15300
+ 
 
 
 
@@ -376,7 +391,10 @@ Kiekviena iš šių institucijų atsako už šio įstatymo joms priskirtų funkc
 Lietuvos Respublikos Vyriausybė, įgyvendindama aplinkos apsaugos valstybės politiką:
 
 
-1) Aplinkos ministerijos teikimu tvirtina aplinkos apsaugos strategijos veiksmų programą, valstybines gamtos išteklių naudojimo ir aplinkos apsaugos programas bei schemas;
+1) Nacionaliniame pažangos plane nustato aplinkos apsaugos ir gamtos išteklių naudojimo srities strateginius tikslus ir (arba) pažangos uždavinius, šiuos uždavinius įgyvendinančias nacionalines plėtros programas, nacionalinių darbotvarkių planus, valstybines gamtos išteklių naudojimo ir aplinkos apsaugos schemas;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3097, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15300
+ 
 
 
 
@@ -406,7 +424,10 @@ Lietuvos Respublikos Vyriausybė, įgyvendindama aplinkos apsaugos valstybės po
 Lietuvos Respublikos aplinkos ministerija, vykdydama aplinkos apsaugos valdymą ir valstybinį gamtos išteklių naudojimo reguliavimą:
 
 
-1) organizuoja ir koordinuoja valstybės strategijos įgyvendinimą aplinkos apsaugos ir gamtos išteklių naudojimo srityje, rengia valstybines ilgalaikes ir tikslines aplinkos apsaugos bei gamtos išteklių naudojimo programas, numato jų įgyvendinimo tvarką ir kontroliuoja, kaip jos vykdomos;
+1) rengia aplinkos apsaugos ir gamtos išteklių naudojimo srities pažangos uždavinius įgyvendinančias nacionalines plėtros programas ir nacionalinių darbotvarkių planus, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3097, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15300
+ 
 
 
 
@@ -470,7 +491,10 @@ Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
 
 
 
-12) organizuoja ir koordinuoja kompleksinį aplinkos monitoringą, kuria ir nuolat papildo aplinkos apsaugos ir gamtos išteklių naudojimo kompiuterizuotą informacijos sistemą, naudojasi šia informacija;
+12) organizuoja ir koordinuoja aplinkos monitoringą, išskyrus radiologinį aplinkos monitoringą, kuria ir nuolat papildo aplinkos apsaugos ir gamtos išteklių naudojimo kompiuterizuotą informacijos sistemą, naudojasi šia informacija;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3363, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24519
+ 
 
 
 
@@ -1771,7 +1795,10 @@ V SKYRIUS. APLINKOS BŪKLĖS STEBĖJIMO IR NEIGIAMOPOVEIKIO APLINKAI RIBOJIMO SI
 25 straipsnis. Aplinkos būklės stebėjimo sistema
 
 
-Aplinkai ir jos komponentų būklei stebėti Lietuvos Respublikoje sudaroma vieninga aplinkos monitoringo sistema, apimanti valstybinį ir ūkio subjektų aplinkos monitoringą. Aplinkos ministerija vykdo aplinkos monitoringą ir koordinuoja ūkio subjektų vykdomą aplinkos monitoringą.
+Aplinkai ir jos komponentų būklei stebėti Lietuvos Respublikoje sudaroma vieninga aplinkos monitoringo sistema, apimanti valstybinį ir ūkio subjektų aplinkos monitoringą. Aplinkos ministerija organizuoja aplinkos monitoringą ir koordinuoja ūkio subjektų vykdomą aplinkos monitoringą, išskyrus radiologinį aplinkos monitoringą.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3363, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24519
+ 
 
 
 
@@ -1800,7 +1827,10 @@ Neigiamas ūkinės veiklos poveikis aplinkai ribojamas aplinkos apsaugos normaty
 
 
 
-Lietuvos Respublikoje nustatomi cheminių, biologinių, fizikinių teršalų koncentracijų ribinių verčių aplinkoje bei atskiruose aplinkos komponentuose, išmetamų (išleidžiamų, paskleidžiamų) į aplinką teršalų, cheminių ir kitokių aplinkai pavojingų medžiagų naudojimo, gamtos išteklių naudojimo, triukšmo, vibracijos, elektromagnetinių laukų ir kitokio poveikio, radiacinio saugumo, bendrosios antropogeninės apkrovos ir kiti aplinkos apsaugos normatyvai.
+Lietuvos Respublikoje nustatomi cheminių, biologinių, fizikinių teršalų koncentracijų ribinių verčių aplinkoje ir atskiruose aplinkos komponentuose, išmetamų (išleidžiamų, paskleidžiamų) į aplinką teršalų, cheminių ir kitokių aplinkai pavojingų medžiagų naudojimo, gamtos išteklių naudojimo, triukšmo, vibracijos, elektromagnetinių laukų ir kitokio poveikio, bendrosios antropogeninės apkrovos ir kiti aplinkos apsaugos normatyvai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3363, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24519
+ 
 
 
 
@@ -3096,10 +3126,10 @@ Neteisingos informacijos, reikalingos poveikio aplinkai vertinimo programai patv
 
 
 
-57 straipsnis. Juridinių asmenų atsakomybė už ūkio subjekto aplinkos monitoringą reglamentuojančių teisės aktų reikalavimų pažeidimą
+57 straipsnis. Juridinių asmenų atsakomybė už ūkio subjekto aplinkos monitoringą, išskyrus radiologinį aplinkos monitoringą, reglamentuojančių teisės aktų reikalavimų pažeidimą
 
 
-Ūkio subjekto aplinkos monitoringo duomenų nepateikimas kompetentingoms institucijoms po rašytinio įspėjimo užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
+Ūkio subjekto aplinkos monitoringo duomenų, išskyrus radiologinio aplinkos monitoringo duomenis, nepateikimas kompetentingoms institucijoms po rašytinio įspėjimo užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 
 
 
@@ -3109,7 +3139,7 @@ Neteisingos informacijos, reikalingos poveikio aplinkai vertinimo programai patv
 
 
 
-Ūkio subjekto metinių aplinkos monitoringo ataskaitų nepateikimas kompetentingoms institucijoms po rašytinio įspėjimo užtraukia baudą nuo dviejų šimtų penkiasdešimt iki keturių šimtų penkiasdešimt eurų.
+Ūkio subjekto metinių aplinkos monitoringo ataskaitų, išskyrus metines radiologinio aplinkos monitoringo ataskaitas, nepateikimas kompetentingoms institucijoms po rašytinio įspėjimo užtraukia baudą nuo dviejų šimtų penkiasdešimt iki keturių šimtų penkiasdešimt eurų.
 
 
 
@@ -3119,7 +3149,7 @@ Neteisingos informacijos, reikalingos poveikio aplinkai vertinimo programai patv
 
 
 
-Ūkio subjekto aplinkos monitoringo programos nepateikimas kompetentingoms institucijoms po rašytinio įspėjimo užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+Ūkio subjekto aplinkos monitoringo programos, išskyrus radiologinio aplinkos monitoringo programą, nepateikimas kompetentingoms institucijoms po rašytinio įspėjimo užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
 
 
 
@@ -3129,15 +3159,17 @@ Neteisingos informacijos, reikalingos poveikio aplinkai vertinimo programai patv
 
 
 
-Akivaizdžiai neteisingų ar suklastotų ūkio subjekto aplinkos monitoringo duomenų ar aiškiai aplaidžiai parengtų metinių aplinkos monitoringo ataskaitų pateikimas kompetentingoms institucijoms užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
+Akivaizdžiai neteisingų ar suklastotų ūkio subjekto aplinkos monitoringo duomenų, išskyrus radiologinio aplinkos monitoringo duomenis, ar aiškiai aplaidžiai parengtų metinių aplinkos monitoringo ataskaitų, išskyrus metines radiologinio aplinkos monitoringo ataskaitas, pateikimas kompetentingoms institucijoms užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų.
 
 
 
 
 Šio straipsnio 7 dalyje numatytas pažeidimas, padarytas pakartotinai, užtraukia baudą nuo šešių šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3363, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24519
  
-
-
 
 
 
@@ -6740,3 +6772,13 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 23-4 straipsnio prip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3194, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15387
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 111, 113, 114, 124, 125 straipsnių pakeitimo ir Įstatymo papildymo 66-1, 70-2, 77-2, 123-1 straipsniais įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3097, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15300
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 5 ir 6 straipsnių pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3363, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24519
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 25, 26 ir 57 straipsnių pakeitimo įstatymas
