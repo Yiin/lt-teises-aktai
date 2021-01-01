@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2020-10-25 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-11-12
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
  
@@ -232,7 +232,9 @@ Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
 
 
 
-19. Nacionalinė šilumos ūkio plėtros programa – Vyriausybės tvirtinamas nacionalinio lygmens strateginio planavimo dokumentas, kuriuo, atsižvelgiant į Nacionalinę energetinės nepriklausomybės strategiją, yra nustatomos ilgalaikės ir kompleksinės šilumos gamybos, bendros šilumos ir elektros energijos gamybos (kogeneracijos) bei šilumos perdavimo plėtros ir modernizavimo kryptys bei įgyvendinimo priemonės valstybės teritorijoje.
+19. Šilumos ūkio priemonės – Nacionaliniame pažangos plane nustatytus valstybės energetikos politikos pažangos uždavinius įgyvendinančios nacionalinių plėtros programų priemonės, apimančios ilgalaikės ir kompleksinės šilumos gamybos, bendros šilumos ir elektros energijos gamybos (kogeneracijos) bei šilumos perdavimo plėtros ir modernizavimo krypčių įgyvendinimo priemones valstybės teritorijoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
@@ -514,7 +516,9 @@ Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
 
 
 
-50. Šilumos ūkio specialusis planas – savivaldybių specialiojo planavimo dokumentas, kuriame, vertinant Nacionalinėje šilumos ūkio plėtros programoje numatytais sprendiniais ir priemonėmis, nustatomos esamos ir planuojamos naujos šilumos vartotojų teritorijos, nurodomi galimi ir alternatyvūs šildymo būdai, tenkinant šilumos vartotojų poreikius mažiausiomis sąnaudomis ir neviršijant leidžiamo neigiamo poveikio aplinkai.
+50. Šilumos ūkio specialusis planas – savivaldybių specialiojo planavimo dokumentas, kuriame, įgyvendinant šilumos ūkio priemones, nustatomos esamos ir planuojamos naujos šilumos vartotojų teritorijos, nurodomi galimi ir alternatyvūs šildymo būdai, tenkinant šilumos vartotojų poreikius mažiausiomis sąnaudomis ir neviršijant leidžiamo neigiamo poveikio aplinkai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
 Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
@@ -597,7 +601,10 @@ ANTRASIS SKIRSNIS
 3 straipsnis. Konkurencija šilumos ūkyje 
 
 
-1. Konkurencija tarp alternatyvių energijos rūšių tiekėjų, tenkinant šilumos vartotojų poreikius, įgyvendinama atsižvelgiant į Nacionalinėje šilumos ūkio plėtros programoje ir šilumos ūkio specialiuosiuose planuose nustatytus tikslus ir priemones, nustatant vartotojų šilumos poreikių tenkinimą jiems mažiausiomis sąnaudomis, užtikrinant saugų tiekimą ir neviršijant leidžiamo neigiamo poveikio aplinkai bei įvertinant išorines sąnaudas, taip pat kitomis šio įstatymo nustatytomis priemonėmis. Šilumos vartotojai turi teisę pasirinkti alternatyvių energijos rūšių šilumos tiekėjus, įsirengti vietinę šildymo sistemą, jeigu tai neprieštarauja teritorijų planavimo dokumentams.
+1. Konkurencija tarp alternatyvių energijos rūšių tiekėjų, tenkinant šilumos vartotojų poreikius, įgyvendinama atsižvelgiant į šilumos ūkio priemones ir šilumos ūkio specialiuosiuose planuose nustatytus veiksmus, nustatant vartotojų šilumos poreikių tenkinimą jiems mažiausiomis sąnaudomis, užtikrinant saugų tiekimą ir neviršijant leidžiamo neigiamo poveikio aplinkai bei įvertinant išorines sąnaudas, taip pat kitomis šio įstatymo nustatytomis priemonėmis. Šilumos vartotojai turi teisę pasirinkti alternatyvių energijos rūšių šilumos tiekėjus, įsirengti vietinę šildymo sistemą, jeigu tai neprieštarauja teritorijų planavimo dokumentams. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
+ 
 
 
 
@@ -670,7 +677,10 @@ Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
 6 straipsnis. Šilumos taryba
 
 
-1. Šilumos taryba yra kolegiali, patariamojo balso teisę turinti ir visuomeniniais pagrindais veikianti su šilumos ūkiu tiesiogiai susijusių institucijų ir organizacijų (įskaitant vartotojų teises ginančias nevyriausybines organizacijas) atstovų grupė, teikianti energetikos ministrui pasiūlymus svarbiais valstybės šilumos ūkio strategijos klausimais.
+1. Šilumos taryba yra kolegiali, patariamojo balso teisę turinti ir visuomeniniais pagrindais veikianti su šilumos ūkiu tiesiogiai susijusių institucijų ir organizacijų (įskaitant vartotojų teises ginančias nevyriausybines organizacijas) atstovų grupė, teikianti energetikos ministrui pasiūlymus svarbiais valstybės šilumos ūkio klausimais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
+ 
 
 
 
@@ -692,13 +702,13 @@ TREČIASIS SKIRSNIS
  
 
 
-7 straipsnis. Nacionalinė šilumos ūkio plėtros programa
+7 straipsnis. Šilumos ūkio planavimas nacionalinėse plėtros programose
 
 
-1. Energetikos ministerija, atlikusi didelio naudingumo kogeneracijos ir efektyvaus centralizuoto šilumos tiekimo plėtros galimybių vertinimą ir atsižvelgdama į Nacionalinę energetinės nepriklausomybės strategiją, parengia ir teikia Vyriausybei tvirtinti Nacionalinę šilumos ūkio plėtros programą. Nacionalinėje šilumos ūkio plėtros programoje nustatoma:
+Energetikos ministerija, atlikusi didelio naudingumo kogeneracijos ir efektyvaus centralizuoto šilumos tiekimo plėtros galimybių vertinimą ir atsižvelgdama į Nacionaliniame pažangos plane nustatytus valstybės energetikos politikos strateginius tikslus ir (arba) pažangos uždavinius, rengia ir teikia Vyriausybei tvirtinti nacionalines plėtros programas, kuriose suplanuojamos šilumos ūkio priemonės, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą. Šiose nacionalinėse plėtros programose suplanuojama:
 
 
-1) šilumos ūkio plėtros ir modernizavimo priemonės bei techniniai sprendiniai, įskaitant reikalavimus dėl alternatyvių energijos ar kuro rūšių naudojimo bei jų proporcijų, šilumos įrenginių galių ir jų įrengimo terminų bei nuostolių lygio šilumos perdavimo tinkluose;
+1) šilumos ūkio plėtros ir modernizavimo priemonės, įskaitant reikalavimus dėl alternatyvių energijos ar kuro rūšių naudojimo bei jų proporcijų, šilumos įrenginių galių ir jų įrengimo terminų bei nuostolių lygio šilumos perdavimo tinkluose;
 
 
 
@@ -718,47 +728,26 @@ TREČIASIS SKIRSNIS
 
 
 
-5) šilumos ūkio plėtros ir modernizavimo priemonių ir sprendinių įgyvendinimo būdai, formos (savivaldybės ar jos valdomos įmonės vykdomi projektai, investicijos viešojo ir privataus sektoriaus partnerystės ir (ar) koncesijų pagrindais, konkursai, investicijos, atliekamos privačia iniciatyva, ar kiti būdai), planas, grafikas ir terminai; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1168, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08641
- 
+5) šilumos ūkio plėtros ir modernizavimo priemonių įgyvendinimo būdai, formos (savivaldybės ar jos valdomos įmonės vykdomi projektai, investicijos viešojo ir privataus sektoriaus partnerystės ir (ar) koncesijų pagrindais, konkursai, investicijos, atliekamos privačia iniciatyva, ar kiti būdai), planas, grafikas ir terminai; 
 
 
 
 
-6) savivaldybėms ar jų įmonėms nuosavybės arba patikėjimo teise priklausanti infrastruktūra ir turtas, kuris savivaldybės tarybos sprendimu, o tokio sprendimo nepriėmus per nustatytą terminą, – atskiru įstatymu turi būti perduotas valstybės nuosavybėn, siekiant užtikrinti numatytų šilumos ūkio plėtros ir modernizavimo priemonių bei sprendinių tinkamą įgyvendinimą;
+6) savivaldybėms ar jų įmonėms nuosavybės arba patikėjimo teise priklausanti infrastruktūra ir turtas, kuris savivaldybės tarybos sprendimu, o tokio sprendimo nepriėmus per nustatytą terminą, – atskiru įstatymu turi būti perduotas valstybės nuosavybėn, siekiant užtikrinti numatytų šilumos ūkio plėtros ir modernizavimo priemonių tinkamą įgyvendinimą;
 
 
 
 
-7) kitos sąlygos, būtinos nustatytų ilgalaikės ir kompleksinės šilumos gamybos, bendros šilumos ir elektros energijos gamybos (kogeneracijos) bei šilumos perdavimo plėtros ir modernizavimo krypčių bei įgyvendinimo priemonių atitinkamoje valstybės teritorijoje užtikrinimui ir įgyvendinimui.
+7) kitos sąlygos, būtinos nustatytų ilgalaikės ir kompleksinės šilumos gamybos, bendros šilumos ir elektros energijos gamybos (kogeneracijos) bei šilumos perdavimo plėtros ir modernizavimo krypčių bei šilumos ūkio priemonių atitinkamoje valstybės teritorijoje užtikrinimui ir įgyvendinimui. 
 
 
-
-
-
-
-2. Nacionalinė šilumos ūkio plėtros programa rengiama 7 metų laikotarpiui. Nacionalinė šilumos ūkio plėtros programa gali būti atnaujinama, atsižvelgiant į šilumos gamybos ir perdavimo technologijų raidą, konkurencinę aplinką, šilumos gamybos kainų tendencijas, aplinkos užterštumo pokyčius ir kitus reikšmingus veiksnius.
-
-
-
-
-3. Nacionalinę šilumos ūkio plėtros programą pagal kompetenciją įgyvendina valstybės, savivaldybių institucijos, įstaigos ir (ar) kiti nurodyti asmenys.
-
-
-
-
-4. Nacionalinės šilumos ūkio plėtros programos vykdymą koordinuoja ir jos įgyvendinimo priežiūrą bei stebėseną atlieka Vyriausybės įgaliota institucija. 
-
-
-
-
-5. Nacionalinės šilumos ūkio plėtros programos priemones ir sprendinius įgyvendinantys asmenys, taip pat valstybės, savivaldybių institucijos ir įstaigos pagal kompetenciją Energetikos ministerijos nustatyta tvarka teikia informaciją apie Nacionalinėje šilumos ūkio plėtros programoje numatytų priemonių ir sprendinių įgyvendinimą.
 
 
 Straipsnio pakeitimai:
 Nr. XI-133, 2009-01-12, Žin., 2009, Nr. 10-355 (2009-01-27)
 Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
+Straipsnio pakeitimai:
+Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
  
 
 
@@ -767,20 +756,17 @@ Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
 8 straipsnis. Savivaldybių šilumos ūkio specialieji planai
 
 
-1. Savivaldybės tvarko šilumos ūkį pagal savivaldybių tarybų patvirtintus šilumos ūkio specialiuosius planus. Specialiaisiais šilumos ūkio planais atitinkamoje savivaldybės teritorijoje yra įgyvendinama Nacionalinė energetinės nepriklausomybės strategija ir Nacionalinėje šilumos ūkio plėtros programoje nustatyti sprendiniai ir priemonės. 
+1. Savivaldybės tvarko šilumos ūkį pagal savivaldybių tarybų patvirtintus šilumos ūkio specialiuosius planus. Specialiaisiais šilumos ūkio planais atitinkamoje savivaldybės teritorijoje yra įgyvendinami Nacionaliniame pažangos plane nustatyti valstybės energetikos politikos strateginiai tikslai ir (arba) pažangos uždaviniai ir nacionalinėse plėtros programose suplanuotos šilumos ūkio priemonės.
 
 
 
 
-2. Šilumos ūkio specialieji planai rengiami pagal Teritorijų planavimo įstatymo, šio įstatymo ir aplinkos bei energetikos ministrų patvirtintas Šilumos ūkio specialiųjų planų rengimo taisykles. 
+2. Šilumos ūkio specialieji planai rengiami pagal Teritorijų planavimo įstatymo, šio įstatymo ir aplinkos bei energetikos ministrų patvirtintas Šilumos ūkio specialiųjų planų rengimo taisykles.
 
 
 
 
-3. Pagrindinis šilumos ūkio specialiojo plano tikslas yra tenkinti vartotojų šilumos poreikius vartotojams mažiausiomis sąnaudomis ir neviršijant leidžiamo neigiamo poveikio aplinkai. Rengiant šilumos ūkio specialiuosius planus, vadovaujamasi Aplinkos oro apsaugos įstatymo, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatomis dėl oro užterštumo ir urbanistiniais kriterijais (užstatymo tankis, pastatų aukštingumas, užstatymo specifika), taip pat kitais kriterijais, kurie nepažeidžia technologinio neutralumo principo, ir Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatyme nurodytu energijos vartojimo efektyvumo didinimo pirmumo principu. Šilumos ūkio specialiajame plane nustatomos esamos ir planuojamos naujos šilumos vartotojų teritorijos ir pateikiami principiniai techniniai sprendimai dėl kiekvienai teritorijai nustatytų alternatyvių energijos ar kuro rūšių naudojimo, kad būtų patenkinami šios teritorijos vartotojų šilumos poreikiai. Priimant galutinius sprendimus, būtina įvertinti techninių sprendimų ekonominį efektyvumą ir palyginti juos su energijos efektyvumo didinimo priemonėmis, mažinančiomis vartotojų šilumos poreikius. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3018, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13235
- 
+3. Pagrindinis šilumos ūkio specialiojo plano tikslas yra tenkinti vartotojų šilumos poreikius vartotojams mažiausiomis sąnaudomis ir neviršijant leidžiamo neigiamo poveikio aplinkai. Rengiant šilumos ūkio specialiuosius planus, vadovaujamasi Aplinkos oro apsaugos įstatymo, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo nuostatomis dėl oro užterštumo ir urbanistiniais kriterijais (užstatymo tankis, pastatų aukštingumas, užstatymo specifika), taip pat kitais kriterijais, kurie nepažeidžia technologinio neutralumo principo, ir Lietuvos Respublikos energijos vartojimo efektyvumo didinimo įstatyme nurodytu energijos vartojimo efektyvumo didinimo pirmumo principu. Šilumos ūkio specialiajame plane nustatomos esamos ir planuojamos naujos šilumos vartotojų teritorijos ir pateikiami principiniai techniniai sprendimai dėl kiekvienai teritorijai nustatytų alternatyvių energijos ar kuro rūšių naudojimo, kad būtų patenkinami šios teritorijos vartotojų šilumos poreikiai. Priimant galutinius sprendimus, būtina įvertinti techninių sprendinių ekonominį efektyvumą ir palyginti juos su energijos efektyvumo didinimo priemonėmis, mažinančiomis vartotojų šilumos poreikius.
 
 
 
@@ -790,23 +776,25 @@ Nr. XIII-3018, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13235
 
 
 
-5. Šilumos ūkio specialieji planai atnaujinami ne rečiau kaip kas 7 metai, atsižvelgiant į Nacionalinėje šilumos ūkio plėtros programoje numatytas priemones ir sprendinius, taip pat šilumos gamybos ir perdavimo technologijų raidą, konkurencinę aplinką, šilumos gamybos kainų tendencijas, aplinkos užterštumo pokyčius ir kitus reikšmingus veiksnius. Šilumos ūkio specialieji planai privalo būti atnaujinti ne vėliau kaip per 12 mėnesių nuo Nacionalinės šilumos ūkio plėtros programos ar jos pakeitimų įsigaliojimo. 
+5. Šilumos ūkio specialieji planai atnaujinami ne rečiau kaip kas 7 metai, atsižvelgiant į šilumos ūkio priemones, taip pat šilumos gamybos ir perdavimo technologijų raidą, konkurencinę aplinką, šilumos gamybos kainų tendencijas, aplinkos užterštumo pokyčius ir kitus reikšmingus veiksnius. Šilumos ūkio specialieji planai privalo būti atnaujinti ne vėliau kaip per 12 mėnesių nuo šilumos ūkio priemonių patvirtinimo ar jų pakeitimų įsigaliojimo.
 
 
 
 
-6. Tais atvejais, kai savivaldybė nesilaiko šiame įstatyme nustatytų įpareigojimų atnaujinti šilumos ūkio specialųjį planą arba kai tuo metu galiojantis šilumos ūkio specialusis planas ar teritorijų planavimo dokumentai neatitinka Nacionalinėje šilumos ūkio plėtros programoje numatytų sprendinių, specialieji planai ar teritorijų planavimo dokumentai taikomi tiek, kiek neprieštarauja šiems sprendiniams.
+6. Tais atvejais, kai savivaldybė nesilaiko šiame įstatyme nustatytų įpareigojimų atnaujinti šilumos ūkio specialųjį planą arba kai tuo metu galiojantis šilumos ūkio specialusis planas ar teritorijų planavimo dokumentai neatitinka šilumos ūkio priemonių, specialieji planai ar teritorijų planavimo dokumentai taikomi tiek, kiek neprieštarauja šioms priemonėms. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-133, 2009-01-12, Žin., 2009, Nr. 10-355 (2009-01-27)
 Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
+Straipsnio pakeitimai:
+Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
  
 
 
 
 
-81 straipsnis. Investicijos į Nacionalinės šilumos ūkio plėtros programos ir šilumos ūkio specialiųjų planų sprendinių įgyvendinimą
+81 straipsnis. Investicijos į šilumos ūkio priemonių ir šilumos ūkio specialiųjų planų įgyvendinimą 
 
 
 1. Energetikos ministerija teikia metodinę paramą šilumos ūkio specialiesiems planams parengti.
@@ -814,7 +802,7 @@ Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
 
 
 
-2. Nacionalinėje šilumos ūkio plėtros programoje įtvirtintų ir specialiuosiuose šilumos ūkio planuose detalizuotų šilumos ūkio plėtros ir modernizavimo sprendinių ir priemonių įgyvendinimui gali būti skiriamos:
+2. Šilumos ūkio priemonėms finansuoti ir specialiuosiuose šilumos ūkio planuose detalizuotiems šilumos ūkio plėtros ir modernizavimo veiksmams įgyvendinti gali būti skiriamos:
 
 
 1) Europos Sąjungos paramos lėšos;
@@ -839,11 +827,13 @@ Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
 
 
 
-3. Savivaldybės ir (ar) šilumos tiekėjai privalo užtikrinti trūkstamą finansavimą Nacionalinėje šilumos ūkio plėtros programoje numatytoms priemonėms įgyvendinti. Jeigu savivaldybės ir (ar) šilumos tiekėjai neužtikrina Nacionalinėje šilumos ūkio plėtros programoje numatytų priemonių įgyvendinimo nustatytais terminais, Vyriausybė Energetikos ministerijos siūlymu teikia pasiūlymus savivaldybėms dėl Nacionalinėje šilumos ūkio plėtros programoje numatytų priemonių įgyvendinimo, įskaitant pasiūlymus dėl papildomo finansavimo užsitikrinimo būdų, arba priima sprendimą dėl reikiamų finansinių investicijų, jų paskirstymo tvarkos ir būdo.
+3. Savivaldybės ir (ar) šilumos tiekėjai privalo užtikrinti trūkstamą finansavimą šilumos ūkio priemonėms įgyvendinti. Jeigu savivaldybės ir (ar) šilumos tiekėjai neužtikrina šių priemonių įgyvendinimo nustatytais terminais, Vyriausybė Energetikos ministerijos siūlymu teikia pasiūlymus savivaldybėms dėl šių priemonių įgyvendinimo, įskaitant pasiūlymus dėl papildomo finansavimo užsitikrinimo būdų, arba priima sprendimą dėl reikiamų finansinių investicijų, jų paskirstymo tvarkos ir būdo. 
 
 
-Įstatymas papildytas straipsniu:
+Straipsnio pakeitimai:
 Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
+Straipsnio pakeitimai:
+Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
  
 
 
@@ -883,7 +873,10 @@ Savivaldybė, remdamasi šilumos ūkio specialiuoju planu, organizuoja šilumos 
 3. Nepriklausomiems šilumos gamintojams yra privaloma šilumos gamybos kainodara šio įstatymo nustatyta tvarka kaip ir šilumos tiekėjams, jeigu yra bent viena iš šių sąlygų:
 
 
-1) nepriklausomo šilumos gamintojo nuosavybės ar kitu pagrindu valdomo šilumos gamybos arba bendros šilumos ir elektros energijos gamybos (kogeneracijos) įrenginio statybai ar modernizavimui finansuoti yra pasinaudota ar naudojamasi Europos Sąjungos finansine parama, Nacionalinės atsinaujinančių energijos išteklių plėtros programos finansavimo šaltiniais, valstybės ar savivaldybės dotacija ar subsidija;
+1) nepriklausomo šilumos gamintojo nuosavybės ar kitu pagrindu valdomo šilumos gamybos arba bendros šilumos ir elektros energijos gamybos (kogeneracijos) įrenginio statybai ar modernizavimui finansuoti yra pasinaudota ar naudojamasi Europos Sąjungos finansine parama, Nacionaliniame pažangos plane nustatytus atsinaujinančių energijos išteklių pažangos uždavinius įgyvendinančios nacionalinės plėtros programos finansavimo šaltiniais, valstybės ar savivaldybės dotacija ar subsidija; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
+ 
 
 
 
@@ -2029,15 +2022,16 @@ Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
 33 straipsnis. Maksimalios šilumos suvartojimo normos daugiabučiuose namuose
 
 
-Taryba, atsižvelgdama į Lietuvos Respublikos Seimo patvirtintoje Nacionalinės energetinės nepriklausomybės strategijoje nustatytas energijos vartojimo efektyvumo didinimo gaires, nustato maksimalias metines šilumos suvartojimo normas, išreikštas kWh/m2 per kalendorinius metus, daugiabučių namų butams ir kitoms patalpoms šildyti, kurios skelbiamos ne vėliau kaip prieš šešis mėnesius iki jų įsigaliojimo dienos. Šios normos taikomos daugiabučių namų energiniam efektyvumui vertinti, planuojant priemones ir lėšas jų energiniam efektyvumui didinti. 
+Taryba, atsižvelgdama į Lietuvos Respublikos Seimo patvirtintoje Valstybės pažangos strategijoje nustatytas energetikos politikos vystymosi kryptis, nustato maksimalias metines šilumos suvartojimo normas, išreikštas kWh/m2 per kalendorinius metus, daugiabučių namų butams ir kitoms patalpoms šildyti, kurios skelbiamos ne vėliau kaip prieš šešis mėnesius iki jų įsigaliojimo dienos. Šios normos taikomos daugiabučių namų energiniam efektyvumui vertinti, planuojant priemones ir lėšas jų energiniam efektyvumui didinti. 
+
+
 Straipsnio pakeitimai:
 Nr. XI-133, 2009-01-12, Žin., 2009, Nr. 10-355 (2009-01-27)
 Nr. XII-152, 2013-01-17, Žin., 2013, Nr. 11-496 (2013-01-30)
-
-
 Straipsnio pakeitimai:
 Nr. XII-1791, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09814
 Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
+Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
  
 
 
@@ -2348,3 +2342,8 @@ Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 3, 10, 10-1, 11, 12
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3018, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13235
 Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 8, 11 ir 15 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 3, 6, 7, 8, 8-1, 10 ir 33 straipsnių pakeitimo įstatymas
