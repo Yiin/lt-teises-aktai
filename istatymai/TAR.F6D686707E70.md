@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2020-08-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-07-14
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -309,6 +309,14 @@ Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 
 
 2. Jeigu yra šio kodekso ir kitų įstatymų prieštaravimų, taikomos šio kodekso normos, išskyrus atvejus, kai šis kodeksas pirmenybę suteikia kitų įstatymų normoms.
+
+
+
+
+21. Mobilizaciją ir karo padėtį reglamentuojančiuose įstatymuose gali būti nustatytos kitokios, negu nustato šis kodeksas, darbo santykius reglamentuojančios normos.
+Papildyta straipsnio dalimi:
+Nr. XIII-3232, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15866
+ 
 
 
 
@@ -6713,7 +6721,59 @@ Nr. XIII-2009, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05337
 
 
 
-4. Į nacionalinio lygmens profesinių sąjungų organizacijas gali jungtis šakos ir teritoriniu lygiu veikiančios profesinių sąjungų organizacijos.
+4. Į nacionalinio lygmens profesinių sąjungų organizacijas gali jungtis šakos ir teritoriniu lygiu veikiančios profesinių sąjungų organizacijos. Nacionalinio lygmens profesinių sąjungų organizacijos turi atitikti šiuos kriterijus:
+
+
+1) turi juridinio asmens statusą;
+
+
+
+
+2) veikia kaip profesinių sąjungų organizacija nepertraukiamai bent trejus metus;
+
+
+
+
+3) turi savarankišką organizacinę struktūrą;
+
+
+
+
+4) turi ne mažiau kaip penkis darbuotojus, dirbančius pagal darbo sutartį;
+
+
+
+
+5) organizacija jungia ne mažiau kaip 7 skirtingas šakos ir (ar) teritoriniu lygiu veikiančias profesinių sąjungų organizacijas, kurių padaliniai veikia ne mažiau kaip 2/3 Lietuvos Respublikos apskričių teritorijose;
+
+
+
+
+6) dėl jų nėra galiojančio apkaltinamojo teismo nuosprendžio;
+
+
+
+
+7) joms neiškelta bankroto byla arba bankroto procesas nevykdomas ne teismo tvarka, nesiekiama priverstinio likvidavimo procedūros ar susitarimo su kreditoriais;
+
+
+
+
+8) jos neturi mokestinės nepriemokos Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams, fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas arba dėl nesumokėtų mokesčių, delspinigių, baudų vyksta mokestinis ginčas), ir jos nėra skolingos Valstybinio socialinio draudimo fondo biudžetui;
+
+
+
+
+9) jungia ne mažiau kaip 15 procentų visų Lietuvos profesinių sąjungų narių;
+
+
+
+
+10) priklauso Europos Sąjungos (toliau – ES), Europos ekonominės erdvės organizacijoms arba kitoms tarptautinėms organizacijoms, kuriose daugiau kaip pusė narių yra ES valstybės narės arba daugiau kaip pusė ES valstybių narių priklauso tarptautinei organizacijai, kuriose mokamas nario mokestis.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-3334, 2020-10-15, paskelbta TAR 2020-10-27, i. k. 2020-22303
  
 
 
@@ -9907,3 +9967,13 @@ Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2944, 2020-05-21, paskelbta TAR 2020-06-03, i. k. 2020-12135
 Lietuvos Respublikos darbo kodekso 2, 21, 26, 41, 52, 55, 56, 57, 59, 60, 61, 72, 75, 83, 89, 93, 95, 104, 110, 112, 117, 127, 128, 135, 137, 140, 141, 144, 147, 172, 185, 188, 192, 193, 194, 198, 224, 225, 228 straipsnių pakeitimo ir Kodekso papildymo 72-1 straipsniu įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3232, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15866
+Lietuvos Respublikos darbo kodekso 3 straipsnio pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3334, 2020-10-15, paskelbta TAR 2020-10-27, i. k. 2020-22303
+Lietuvos Respublikos darbo kodekso 179 straipsnio pakeitimo įstatymas
