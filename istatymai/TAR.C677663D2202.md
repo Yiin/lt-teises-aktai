@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C677663D2202"
 
 # Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas
 
-Suvestinė redakcija nuo 2020-12-18 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 73-3085, i. k. 1021010ISTA0IX-1007
  
@@ -662,13 +662,13 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 11. Gyventojo pajamos iš darbo santykių arba jų esmę atitinkančių santykių (išskyrus ligos, motinystės, tėvystės, vaiko priežiūros ir ilgalaikio darbo išmokas), tantjemos ar atlygis už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamas vietoj tantjemų arba kartu su tantjemomis, iš asmens, susijusio su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, gautos pajamos pagal autorines sutartis, taip pat mažųjų bendrijų vadovų, kurie pagal Lietuvos Respublikos mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, pagal civilinę (paslaugų) sutartį už vadovavimo veiklą gautos pajamos apmokestinamos taip:
 
 
-1) metinė pajamų dalis, neviršijanti 84 vidutinių šalies darbo užmokesčių (toliau – VDU) dydžio sumos, taikomos apdraustųjų asmenų 2020 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 20 procentų pajamų mokesčio tarifą;
+1) metinė pajamų dalis, neviršijanti 60 vidutinių šalies darbo užmokesčių (toliau – VDU) dydžio sumos, taikomos apdraustųjų asmenų 2021 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 20 procentų pajamų mokesčio tarifą;
 
 
 
 
-2) metinė pajamų dalis, viršijanti 84 VDU dydžio sumą, taikomą apdraustųjų asmenų 2020 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 32 procentų pajamų mokesčio tarifą. 
-TAR pastaba. 11 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2020 metų mokestinio laikotarpio pajamas.
+2) metinė pajamų dalis, viršijanti 60 VDU dydžio sumą, taikomą apdraustųjų asmenų 2021 metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 32 procentų pajamų mokesčio tarifą. 
+TAR pastaba. 11 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2021 metų mokestinio laikotarpio pajamas.
 
 
 Straipsnio dalies pakeitimai:
@@ -1965,20 +1965,19 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 20 straipsnis. Neapmokestinamasis pajamų dydis 
 
 
-1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu 4 800 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos. Kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, MNPD, jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
+1. Neapmokestinamasis pajamų dydis (toliau – NPD) taikomas tik su darbo santykiais arba jų esmę atitinkančiais santykiais susijusioms pajamoms. Metinis NPD (toliau – MNPD), jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu 4 800 eurų, jeigu gyventojo metinės pajamos (toliau – GMP) neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumos. Kai GMP viršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dvylikos dydžių sumą, MNPD, jeigu šio straipsnio 6 dalyje nenustatyta kitaip, negali būti didesnis negu suma, apskaičiuota pagal šią formulę:
 
 
 
- Gyventojui taikytinas MNPD = 4 800 – 0,19 x (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių).“ 
+ Gyventojui taikytinas MNPD = 4 800 – 0,18 x (GMP – dvylika minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, dydžių). 
 
 
 
- 
-TAR pastaba. 1 dalis įsigalioja 2020 m. liepos 1 d. ir galioja iki 2020 m. gruodžio 31 d. 2 dalyje nustatytas neapmokestinamasis pajamų dydis taikomas nuo 2020 m. sausio 1 d. deklaruojant 2020 metų mokestinio laikotarpio pajamas ir apskaičiuojant gyventojų pajamų mokestį. Mokestį išskaičiuojančio asmens ir gyventojo, gavusio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusias pajamas, abipusiu susitarimu dėl iki įstatymo Nr. XIII-3084 įsigaliojimo (2020-07-01) taikyto ir po šio įstatymo įsigaliojimo pasikeitusio neapmokestinamojo pajamų dydžio gyventojų pajamų mokestis gali būti perskaičiuojamas iki 2020 m. gruodžio 31 d. Pasibaigus 2020 metų mokestiniam laikotarpiui, dėl pasikeitusio neapmokestinamojo pajamų dydžio mokėtinas gyventojų pajamų mokestis perskaičiuojamas, kai gyventojas Gyventojų pajamų mokesčio įstatymo 27 straipsnyje nustatyta tvarka pateikia metinę pajamų mokesčio deklaraciją, o susidariusi gyventojų pajamų mokesčio permoka įskaitoma arba grąžinama Lietuvos Respublikos mokesčių administravimo įstatyme nustatyta tvarka.
+TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2021 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
-Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
 Nr. XIII-3084, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14359
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
  
 
 
@@ -1987,7 +1986,7 @@ Nr. XIII-3084, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14359
 2. Jeigu šio straipsnio 6 dalyje nenustatyta kitaip, NPD mokestiniu laikotarpiu taikomas tokia tvarka:
 
 
-1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 400 eurų;
+1) gyventojui, kurio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos per mėnesį neviršija minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vieno dydžio, taikomas mėnesio NPD yra 400  eurų;
 
 
 
@@ -1996,18 +1995,17 @@ Nr. XIII-3084, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14359
 
 
 
- Gyventojui taikytinas mėnesio NPD = 400 – 0,19 x (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis).“ 
+ Gyventojui taikytinas mėnesio NPD = 400 – 0,18 x (gyventojo mėnesio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos – minimaliosios mėnesinės algos, galiojusios einamųjų kalendorinių metų sausio 1 dieną, vienas dydis). 
 
 
 
- 
-TAR pastaba. 2 dalis įsigalioja 2020 m. liepos 1 d. ir galioja iki 2020 m. gruodžio 31 d. 2 dalyje nustatytas neapmokestinamasis pajamų dydis taikomas nuo 2020 m. sausio 1 d. deklaruojant 2020 metų mokestinio laikotarpio pajamas ir apskaičiuojant gyventojų pajamų mokestį. Mokestį išskaičiuojančio asmens ir gyventojo, gavusio su darbo santykiais arba jų esmę atitinkančiais santykiais susijusias pajamas, abipusiu susitarimu dėl iki įstatymo Nr. XIII-3084 įsigaliojimo (2020-07-01) taikyto ir po šio įstatymo įsigaliojimo pasikeitusio neapmokestinamojo pajamų dydžio gyventojų pajamų mokestis gali būti perskaičiuojamas iki 2020 m. gruodžio 31 d. Pasibaigus 2020 metų mokestiniam laikotarpiui, dėl pasikeitusio neapmokestinamojo pajamų dydžio mokėtinas gyventojų pajamų mokestis perskaičiuojamas, kai gyventojas Gyventojų pajamų mokesčio įstatymo 27 straipsnyje nustatyta tvarka pateikia metinę pajamų mokesčio deklaraciją, o susidariusi gyventojų pajamų mokesčio permoka įskaitoma arba grąžinama Lietuvos Respublikos mokesčių administravimo įstatyme nustatyta tvarka.
+TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2021 metų ir vėlesnių mokestinių laikotarpių pajamas.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
-Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
 Nr. XIII-3084, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14359
+Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
  
 
 
@@ -2914,7 +2912,7 @@ Nr. XIII-2053, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06689
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
  
 
 
