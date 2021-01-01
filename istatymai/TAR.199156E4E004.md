@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2020-04-08 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
  
@@ -281,10 +281,12 @@ Nr. XIII-1344, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11442
 6 straipsnis. Informacijos teikimas
 
 
-Visos valstybės bei savivaldybių institucijos ir įstaigos teikia neįgaliesiems, jų šeimos nariams arba jų atstovams pagal įstatymą, specialistams, dirbantiems neįgaliųjų socialinės integracijos srityje, informaciją apie įgyvendinamas ir numatomas įgyvendinti neįgaliųjų socialinės integracijos programas, teikiamas paslaugas ir materialinę paramą. Visa informacija neįgaliesiems turi būti teikiama jiems prieinama forma.
+Visos valstybės ir savivaldybių institucijos ir įstaigos teikia neįgaliesiems, jų šeimos nariams arba jų atstovams pagal įstatymą, specialistams, dirbantiems neįgaliųjų socialinės integracijos srityje, informaciją apie įgyvendinamas ir numatomas įgyvendinti neįgaliųjų socialinės integracijos politikos priemones ir projektus, teikiamas paslaugas ir materialinę paramą. Visa informacija neįgaliesiems turi būti teikiama jiems prieinama forma. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3119, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15356
  
-
-
 
 
 
@@ -515,10 +517,10 @@ Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
  
 
 
-16 straipsnis. Neįgaliųjų socialinės integracijos valdymas
+16 straipsnis. Neįgaliųjų socialinės integracijos politikos valdymas
 
 
-1. Neįgaliųjų socialinės integracijos valdymas apima neįgaliųjų socialinės integracijos priemonių planavimą, administravimą, organizavimą, įgaliojimų ir atsakomybės paskirstymą bei priežiūrą.
+1. Neįgaliųjų socialinės integracijos politikos valdymas apima neįgaliųjų socialinės integracijos politikos strateginių tikslų ir pažangos uždavinių nustatymą, priemonių ir projektų planavimą, administravimą, organizavimą, įgaliojimų ir atsakomybės paskirstymą ir priežiūrą.
 
 
 
@@ -526,55 +528,44 @@ Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 2. Neįgaliųjų socialinės integracijos politiką formuoja ir įgyvendina:
 
 
-1) Lietuvos Respublikos Vyriausybė nustato neįgaliųjų socialinės integracijos politikos plėtros kryptis;
+1) Lietuvos Respublikos Vyriausybė nustato neįgaliųjų socialinės integracijos politikos strateginius tikslus ir (arba) pažangos uždavinius tvirtindama Nacionalinį pažangos planą ir pažangos uždavinius įgyvendinančias nacionalines plėtros programas, kuriose suplanuojamos priemonės šiems uždaviniams pasiekti;
 
 
 
 
-2) Socialinės apsaugos ir darbo ministerija formuoja neįgaliųjų socialinės integracijos politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
+2) Socialinės apsaugos ir darbo ministerija formuoja neįgaliųjų socialinės integracijos politiką, dalyvauja rengiant Nacionalinį pažangos planą dėl nacionalinės neįgaliųjų integracijos politikos strateginių tikslų ir (arba) pažangos uždavinių nustatymo, rengia nacionalines plėtros programas, kuriose suplanuoja pažangos uždavinių įgyvendinimo priemones, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą;
 
 
 
 
-3) ministerijos pagal kompetenciją formuoja neįgaliųjų socialinės integracijos politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
+3) ministerijos pagal kompetenciją dalyvauja formuojant neįgaliųjų socialinės integracijos politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
 
 
 
 
-4) Neįgaliųjų reikalų departamentas prie Socialinės apsaugos ir darbo ministerijos (toliau – Neįgaliųjų reikalų departamentas) pagal kompetenciją organizuoja neįgaliųjų socialinės integracijos politikos įgyvendinimą ir, įtraukdamas neįgaliųjų asociacijas, organizuoja neįgaliųjų socialinės integracijos veiklos rezultatų stebėseną, dalyvauja rengiant Jungtinių Tautų neįgaliųjų teisių konvencijos įgyvendinimo stebėsenos ataskaitas;
-Straipsnio punkto pakeitimai:
-Nr. XIII-1761, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20742
- 
+4) Neįgaliųjų reikalų departamentas prie Socialinės apsaugos ir darbo ministerijos (toliau – Neįgaliųjų reikalų departamentas), įtraukdamas neįgaliųjų asociacijas, pagal kompetenciją organizuoja neįgaliųjų socialinės integracijos politikos įgyvendinimą ir koordinuoja neįgaliųjų socialinės integracijos politikos įgyvendinimo priemonių ir projektų įgyvendinimą, organizuoja neįgaliųjų socialinės integracijos veiklos rezultatų stebėseną, dalyvauja rengiant Jungtinių Tautų neįgaliųjų teisių konvencijos įgyvendinimo stebėsenos ataskaitas; 
 
 
 
 
 5) Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos (toliau – Tarnyba) pagal kompetenciją dalyvauja formuojant ir įgyvendinant neįgaliųjų socialinės integracijos politiką dėl neįgalumo lygio, darbingumo lygio, profesinės reabilitacijos paslaugų poreikio, specialiųjų poreikių ir specialiųjų poreikių lygio nustatymo; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
- 
 
 
 
 
-6) savivaldybės vykdo neįgaliųjų socialinės integracijos, neįgaliųjų specialiųjų poreikių tenkinimo vertinant asmens savarankiškumą kasdienėje veikloje ir teikiant bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymo ir bendradarbiavimo su neįgaliųjų asociacijomis srityse veiklą ir planuoja ją savivaldybės strateginio planavimo dokumentuose; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
- 
+6) savivaldybės vykdo neįgaliųjų socialinės integracijos, neįgaliųjų specialiųjų poreikių tenkinimo vertinant asmens savarankiškumą kasdienėje veikloje ir teikiant bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymo ir bendradarbiavimo su neįgaliųjų asociacijomis priemones ir projektus ir planuoja juos savivaldybės planavimo dokumentuose; 
 
 
 
 
-7) neįgaliųjų asociacijos atstovauja neįgaliųjų interesams, padeda įgyvendinti neįgaliųjų socialinės integracijos priemones: organizuoja socialinės reabilitacijos paslaugų teikimą neįgaliesiems, neįgaliųjų poilsį, sportą, turizmą, kultūrinę veiklą, tarptautinį bendradarbiavimą. Organizuodamos savo veiklą, neįgaliųjų asociacijos bendradarbiauja su valstybės ir savivaldybių institucijomis ir įstaigomis, gali gauti šių institucijų ir įstaigų finansinę paramą.
+7) neįgaliųjų asociacijos atstovauja neįgaliųjų interesams, padeda įgyvendinti neįgaliųjų socialinės integracijos priemones ir projektus: organizuoja socialinės reabilitacijos paslaugų teikimą neįgaliesiems, neįgaliųjų poilsį, sportą, turizmą, kultūrinę veiklą, tarptautinį bendradarbiavimą. Organizuodamos savo veiklą, neįgaliųjų asociacijos bendradarbiauja su valstybės ir savivaldybių institucijomis ir įstaigomis, gali gauti šių institucijų ir įstaigų finansinę paramą. 
 
 
-Straipsnio dalies pakeitimai:
-Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
- 
 
 
 Straipsnio pakeitimai:
 Nr. X-373, 2005-10-18, Žin., 2005, Nr. 127-4534 (2005-10-27), i. k. 1051010ISTA000X-373
+Nr. XIII-3119, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15356
  
 
 
@@ -1611,3 +1602,8 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2835, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07202
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 22 straipsnio pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3119, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15356
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 6 ir 16 straipsnių pakeitimo įstatymas
