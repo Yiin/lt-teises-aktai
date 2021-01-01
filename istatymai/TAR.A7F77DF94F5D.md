@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-11-21 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 59-1153, i. k. 0941010ISTA000I-549
  
@@ -348,7 +348,10 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 
 
-3. Indeksavimas nevykdomas, jeigu šio straipsnio 2 dalyje nustatyta tvarka apskaičiuotas IK yra mažesnis negu 1,01 ir (arba) vėliausiame IK apskaičiavimo metais paskelbtame Ekonominės raidos scenarijuje IK apskaičiavimo metų ir (ar) po jų einančių kalendorinių metų bendrojo vidaus produkto palyginamosiomis kainomis ir (ar) darbo užmokesčio fondo pokyčiai procentais yra neigiami. Tais atvejais, kai indeksavimas nevykdomas, taikomi praėjusių metų gruodžio mėnesį galioję dydžiai. 
+3. Indeksavimas nevykdomas, jeigu šio straipsnio 2 dalyje nustatyta tvarka apskaičiuotas IK yra mažesnis negu 1,01 ir (arba) vėliausiame IK apskaičiavimo metais paskelbtame Ekonominės raidos scenarijuje IK apskaičiavimo metų ir (ar) po jų einančių kalendorinių metų bendrojo vidaus produkto palyginamosiomis kainomis ir darbo užmokesčio fondo pokyčiai procentais yra neigiami. Tais atvejais, kai indeksavimas nevykdomas, taikomi praėjusių metų gruodžio mėnesį galioję dydžiai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-51, 2020-12-08, paskelbta TAR 2020-12-16, i. k. 2020-27396
+ 
 
 
 
@@ -777,9 +780,10 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 
 
-3) apskaičiuotos bendroji ir individualioji dalys mažinamos dydžiu, kurį sudaro šių dalių 0,4 procento, padauginto iš visų mėnesių, likusių iki senatvės pensijos amžiaus sukakties, skaičiaus. 
+3) apskaičiuotos bendroji ir individualioji dalys mažinamos dydžiu, kurį sudaro šių dalių 0,32 procento, padauginto iš visų mėnesių, likusių iki senatvės pensijos amžiaus sukakties, skaičiaus.
 Straipsnio punkto pakeitimai:
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
+Nr. XIII-3394, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24262
  
 
 
@@ -797,16 +801,73 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 
 
-2. Skiriant senatvės pensiją asmeniui, gavusiam išankstinę senatvės pensiją, senatvės pensijos dydis apskaičiuojamas pagal šio įstatymo 17 ir 18 straipsnius ir mažinamas dydžiu, kuris lygus 0,4 procento šios pensijos, padauginto iš visų mėnesių, kuriais asmuo gavo išankstinę senatvės pensiją, skaičiaus. 
+2. Skiriant senatvės pensiją asmeniui, gavusiam išankstinę senatvės pensiją, senatvės pensijos dydis apskaičiuojamas pagal šio įstatymo 17 ir 18 straipsnius ir mažinamas dydžiu, kuris lygus 0,32 procento šios pensijos, padauginto iš visų mėnesių, kuriais asmuo gavo išankstinę senatvės pensiją, skaičiaus. Senatvės pensijos dydis nemažinamas, jeigu išankstinę senatvės pensiją asmuo gavo ne ilgiau kaip 3 metus ir jo stažas, skiriant išankstinę senatvės pensiją įskaitytas pagal šį įstatymą ir Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas, yra ne mažesnis kaip:
+
+
+1) 2021 m. ir anksčiau – 40 metų;
 
 
 
 
-3. Išankstinę senatvės pensiją gavusiam asmeniui, kuriam sukakus senatvės pensijos amžių mokama senatvės pensija neįgaliajam, šio įstatymo 34 straipsnyje nustatyta tvarka apskaičiuotos senatvės pensijos neįgaliajam bendroji ir individualioji dalys mažinamos dydžiu, kuris lygus 0,4 procento šios pensijos, padauginto iš visų mėnesių, kuriais asmuo gavo išankstinę senatvės pensiją, skaičiaus. 
+2) 2022 m. – 40 metų 3 mėnesiai;
+
+
+
+
+3) 2023 m. – 40 metų 6 mėnesiai;
+
+
+
+
+4) 2024 m. – 40 metų 9 mėnesiai;
+
+
+
+
+5) 2025 m. – 41 metai;
+
+
+
+
+6) 2026 m. – 41 metai 3 mėnesiai;
+
+
+
+
+7) 2027 m. – 41 metai 6 mėnesiai;
+
+
+
+
+8) 2028 m. – 41 metai 9 mėnesiai;
+
+
+
+
+9) 2029 m. – 42 metai;
+
+
+
+
+10) 2030 m. – 42 metai 3 mėnesiai;
+
+
+
+
+11) 2031 m. ir vėliau – 42 metai 6 mėnesiai.
+
+
+
+
+
+
+3. Išankstinę senatvės pensiją gavusiam asmeniui, kuriam sukakus senatvės pensijos amžių mokama senatvės pensija neįgaliajam, šio įstatymo 34 straipsnyje nustatyta tvarka apskaičiuotos senatvės pensijos neįgaliajam bendroji ir individualioji dalys mažinamos dydžiu, kuris lygus 0,32 procento šios pensijos, padauginto iš visų mėnesių, kuriais asmuo gavo išankstinę senatvės pensiją, skaičiaus. Senatvės pensijos neįgaliajam dydis nemažinamas, jeigu išankstinę senatvės pensiją asmuo gavo ne ilgiau kaip 3 metus ir jo stažas, skiriant išankstinę senatvės pensiją įskaitytas pagal šį įstatymą ir Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas, yra ne mažesnis, kaip nurodytas šio straipsnio 2 dalyje.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
+Nr. XIII-3203, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15396
+Nr. XIII-3395, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24263
  
 
 
@@ -1950,7 +2011,10 @@ Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
 
 
 
-2. Kai senatvės pensijos amžių sukanka asmuo, kuriam buvo mokama iki šio įstatymo įsigaliojimo paskirta išankstinė senatvės pensija, ir po jos skyrimo asmuo buvo draudžiamas pensijų socialiniu draudimu arba išankstinės senatvės pensijos mokėjimas buvo sustabdytas, senatvės pensija jam apskaičiuojama pagal šio įstatymo nuostatas, taikant išankstinės senatvės pensijos metu galiojusius būtinojo stažo reikalavimus senatvės pensijai skirti, ir mažinama po 0,4 procento už kiekvieną pilną faktinio išankstinės senatvės pensijos gavimo mėnesį. 
+2. Kai senatvės pensijos amžių sukanka asmuo, kuriam buvo mokama iki šio įstatymo įsigaliojimo paskirta išankstinė senatvės pensija, ir po jos skyrimo asmuo buvo draudžiamas pensijų socialiniu draudimu arba išankstinės senatvės pensijos mokėjimas buvo sustabdytas, senatvės pensija jam apskaičiuojama pagal šio įstatymo nuostatas, taikant išankstinės senatvės pensijos metu galiojusius būtinojo stažo reikalavimus senatvės pensijai skirti, ir mažinama šio įstatymo 23 straipsnio 2 dalyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3203, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15396
+Nr. XIII-3395, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24263
  
 
 
@@ -3790,3 +3854,23 @@ Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 38 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3384, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24530
 Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 10 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3203, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15396
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 23 ir 54 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3395, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24263
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 23 ir 54 straipsnių pakeitimo įstatymo Nr. XIII-3203 pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3394, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24262
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 22 straipsnio pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-51, 2020-12-08, paskelbta TAR 2020-12-16, i. k. 2020-27396
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 8 straipsnio pakeitimo įstatymas
