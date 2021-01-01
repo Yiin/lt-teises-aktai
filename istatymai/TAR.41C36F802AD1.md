@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/41c36f802ad111eabe008ea93139d588"
 
 # Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 2, 6, 10, 15, 17, 18, 20 ir 21 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2021-01-01
+ 
+Įstatymas paskelbtas: TAR 2019-12-30, i. k. 2019-21548
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 IŠMOKŲ VAIKAMS ĮSTATYMO NR. I-621 2, 6, 10, 15, 17, 18, 20 IR 21 STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
@@ -121,12 +128,14 @@ Vilnius
 
 
 
-„1. Kiekvienam vaikui nuo gimimo dienos iki 18 metų arba iki nepilnametis vaikas pripažįstamas emancipuotu ar sudaro santuoką ir emancipuotam ar susituokusiam nepilnamečiam vaikui arba vyresniam kaip 18 metų asmeniui, jeigu jie mokosi pagal bendrojo ugdymo programą (įskaitant ir profesinio mokymo įstaigose besimokančius pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa, iki baigs bendrojo ugdymo programą), bet ne ilgiau, iki jiems sukaks 21 metai, skiriama ir mokama 1,8 bazinės socialinės išmokos dydžio išmoka per mėnesį.“
+„1. Kiekvienam vaikui nuo gimimo dienos iki 18 metų arba iki nepilnametis vaikas pripažįstamas emancipuotu ar sudaro santuoką ir emancipuotam ar susituokusiam nepilnamečiam vaikui arba vyresniam kaip 18 metų asmeniui, jeigu jie mokosi pagal bendrojo ugdymo programą (įskaitant ir profesinio mokymo įstaigose besimokančius pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa, iki baigs bendrojo ugdymo programą), bet ne ilgiau, iki jiems sukaks 21 metai, skiriama ir mokama 1,75 bazinės socialinės išmokos dydžio išmoka per mėnesį.“
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-129, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28985
  
-
-
-
-
 
 
 
@@ -313,3 +322,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-129, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28985
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 2, 6, 10, 15, 17, 18, 20 ir 21 straipsnių pakeitimo įstatymo Nr. XIII-2693 2 straipsnio pakeitimo įstatymas
