@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.15C705E93776"
 
 # Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-12-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 49-1325, i. k. 0981010ISTAVIII-723
  
@@ -416,10 +416,11 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 
 
 
-2) kariuomenė, o įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) atveju, – ir kitos ginkluotosios pajėgos: Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba), Lietuvos Respublikos vadovybės apsaugos tarnyba (toliau – Vadovybės apsaugos tarnyba), koviniai Lietuvos šaulių sąjungos būriai ir kiti koviniai piliečių bei jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadovybei; 
+2) kariuomenė, o įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) atveju, – ir kitos institucijos: Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos (toliau – Viešojo saugumo tarnyba), Lietuvos Respublikos vadovybės apsaugos tarnyba (toliau – Vadovybės apsaugos tarnyba) ir Lietuvos šaulių sąjungos koviniai būriai, taip pat Lietuvos Respublikos karo padėties įstatymo nustatyta tvarka ginkluotosioms pajėgoms priskirti koviniai asmenų ir jų organizacijų ginkluoto pasipriešinimo vienetai ir partizanų vienetai, veikiantys okupuotoje Lietuvos valstybės teritorijoje; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1286, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15003
 Nr. XIII-2911, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10908
+Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
  
 
 
@@ -453,7 +454,10 @@ Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 2. Lietuvos krašto apsaugos sistema plėtojama kaip transatlantinės kolektyvinės gynybos sistemos dalis. Tuo tikslu:
 
 
-1) krašto apsaugos sistemos institucijos bendradarbiauja su atitinkamomis NATO bei Europos Sąjungos ir kitų NATO bei Europos Sąjungos valstybių institucijomis planuojant bendrą gynybą, tarptautines karines operacijas (toliau – tarptautinės operacijos) ir jas vykdant;
+1) krašto apsaugos sistemos institucijos bendradarbiauja su atitinkamomis NATO bei Europos Sąjungos ir kitų NATO bei Europos Sąjungos valstybių institucijomis planuojant bendrą gynybą, tarptautines operacijas ir jas vykdant; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3438, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24615
+ 
 
 
 
@@ -1393,14 +1397,25 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 
 
-3) įstatymų nustatytais atvejais ir sąlygomis organizuoti, koordinuoti žmonių paieškos ir gelbėjimo bei teršimo incidentų likvidavimo darbus, jiems vadovauti ir juos vykdyti, teikti pagalbą kitoms valstybės ir savivaldybių institucijoms.
+3) įstatymų nustatytais atvejais ir sąlygomis organizuoti, koordinuoti žmonių paieškos ir gelbėjimo bei teršimo incidentų likvidavimo darbus, jiems vadovauti ir juos vykdyti, teikti pagalbą kitoms valstybės ir savivaldybių institucijoms;
+
+
+
+
+4) organizuoti ir vykdyti saugomų asmenų, atvykstančių krašto apsaugos ministro ar kariuomenės vado oficialiu kvietimu, apsaugą. 
+Papildyta straipsnio punktu:
+Nr. XIII-3438, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24615
+ 
 
 
 
 
 
 
-2. Pagrindinis kariuomenės uždavinys ginkluotos gynybos nuo agresijos (karo) metu – savarankiškai ir kartu su sąjungininkių ginkluotosiomis pajėgomis ginklu ginti Lietuvos valstybę bei kitas valstybes sąjungininkes.
+2. Pagrindinis kariuomenės uždavinys karo padėties ar ginkluotos gynybos nuo agresijos (karo) metu – savarankiškai ir kartu su sąjungininkių ginkluotosiomis pajėgomis ginklu ginti Lietuvos valstybę ir kitas valstybes sąjungininkes. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
+ 
 
 
 
@@ -1551,7 +1566,9 @@ Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
 
 
-5) nustato visoms ginkluotosioms pajėgoms privalomus reikalavimus, būdus bei priemones sąveikai užtikrinti; 
+5) nustato visoms ginkluotąsias pajėgas sudarančioms institucijoms privalomus reikalavimus, įskaitant apsirūpinimo materialiniais ištekliais reikalavimus, būdus ir priemones sąveikai užtikrinti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
  
@@ -1559,9 +1576,10 @@ Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
 
 
-6) nustato kovinio parengimo reikalavimus institucijoms, kurios, įvedus karo padėtį, priskiriamos ginkluotosioms pajėgoms; 
+6) nustato karinio parengimo reikalavimus institucijoms, kurios, įvedus karo padėtį, tampa ginkluotųjų pajėgų dalimi; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
+Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
  
 
 
@@ -1742,7 +1760,10 @@ Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
 
 
-9. Paskelbus karo padėtį, Respublikos Prezidento dekretu kariuomenės vadas skiriamas visų valstybės ginkluotųjų pajėgų vadu, pavaldžiu gynybos veiksmų civilinei vadovybei.
+9. Karo padėties metu kariuomenės vadas vykdo Lietuvos Respublikos karo padėties įstatyme nustatytas ginkluotųjų pajėgų vado funkcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
+ 
 
 
 
@@ -1775,7 +1796,10 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 
 
 
-2. Strateginiu lygmeniu Respublikos Prezidentas, Valstybės gynimo taryba, krašto apsaugos ministras ir kariuomenės vadas priima strateginius sprendimus dėl valstybės karinės apsaugos, ginkluotos gynybos ir karinių operacijų bei duoda užduotis ginkluotosioms pajėgoms atlikti gynybos ir kitas karines operacijas.
+2. Strateginiu lygmeniu Respublikos Prezidentas, Valstybės gynimo taryba, krašto apsaugos ministras ir kariuomenės vadas priima strateginius sprendimus dėl valstybės karinės apsaugos, ginkluotos gynybos ir karinių operacijų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
+ 
 
 
 
@@ -1856,10 +1880,11 @@ Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 
 
-14. Krašto apsaugos generalinis inspektorius kontroliuoja kariuomenės vienetų bendrą ir kovinį pasirengimą, Valstybės sienos apsaugos tarnybos, Viešojo saugumo tarnybos, Vadovybės apsaugos tarnybos ir Lietuvos šaulių sąjungos pasirengimą bendriems su kariuomene gynybos veiksmams, taip pat atlieka kitas teisės aktų nustatytas funkcijas. 
+14. Krašto apsaugos generalinis inspektorius kontroliuoja kariuomenės vienetų bendrą ir karinį pasirengimą, Valstybės sienos apsaugos tarnybos, Viešojo saugumo tarnybos, Vadovybės apsaugos tarnybos, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos ir Lietuvos šaulių sąjungos kovinių būrių pasirengimą bendriems su kariuomene gynybos veiksmams, taip pat atlieka kitas teisės aktų nustatytas funkcijas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1286, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15003
 Nr. XIII-2911, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10908
+Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
  
 
 
@@ -1939,7 +1964,10 @@ Nr. XI-822, 2010-05-18, Žin., 2010, Nr. 63-3099 (2010-05-31)
 
 
 
-4. Taikos metu savanorių pajėgų funkcijos yra: karių savanorių rengimas, priimančiosios šalies paramos sąjungininkų ginkluotosioms pajėgoms teikimas, šio įstatymo 12 straipsnio 1 dalyje nustatytų kariuomenės uždavinių vykdymas. Ginkluotos gynybos nuo agresijos (karo) metu savanorių pajėgų kariniai vienetai vykdo jiems nustatytas gynybos, svarbių valstybės ar savivaldybių objektų apsaugos ir paramos sąjungininkų ginkluotosioms pajėgoms užduotis.
+4. Taikos metu savanorių pajėgų funkcijos yra: karių savanorių rengimas, priimančiosios šalies paramos sąjungininkių ginkluotosioms pajėgoms teikimas, šio įstatymo 12 straipsnio 1 dalyje nustatytų kariuomenės uždavinių vykdymas. Karo padėties ar ginkluotos gynybos nuo agresijos (karo) metu savanorių pajėgų kariniai vienetai vykdo jiems nustatytas gynybos, svarbių valstybės ar savivaldybių objektų apsaugos ir paramos sąjungininkių ginkluotosioms pajėgoms užduotis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
+ 
 
 
 
@@ -2333,9 +2361,17 @@ Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
 
 
-4) kariūnai – nuo priėmimo į karo mokymo įstaigą dienos.
+4) kariūnai – nuo priėmimo į karo mokymo įstaigą dienos;
 Straipsnio punkto pakeitimai:
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
+ 
+
+
+
+
+5) karo prievolininkai, pašaukti atlikti karo tarnybą paskelbus mobilizaciją, – nuo atvykimo į karinį vienetą arba nuo perėjimo į karinio viršininko pavaldumą momento. 
+Papildyta straipsnio punktu:
+Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
  
 
 
@@ -2490,9 +2526,17 @@ pasižadu būti doras ir garbingas Lietuvos karys.“
 
 
 
-3) kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, jeigu jie nėra davę Lietuvos kario priesaikos anksčiau, – ne vėliau kaip iki kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario bandomojo termino pabaigos. 
+3) kariai savanoriai ir kiti savanoriškos nenuolatinės karo tarnybos kariai, jeigu jie nėra davę Lietuvos kario priesaikos anksčiau, – ne vėliau kaip iki kario savanorio ar kito savanoriškos nenuolatinės karo tarnybos kario bandomojo termino pabaigos; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
+ 
+
+
+
+
+4) karo prievolininkai, neįgiję pagrindinio karinio parengtumo ir pašaukti atlikti karo tarnybą paskelbus mobilizaciją, – ne vėliau kaip per 20 dienų nuo kario statuso įgijimo. 
+Papildyta straipsnio punktu:
+Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
  
 
 
@@ -3530,50 +3574,27 @@ Nr. IX-2560, 2004-11-11, Žin., 2004, Nr. 169-6215 (2004-11-23)
 
 
 
-40 straipsnis. Išeitinė pašalpa atleidžiant karį iš tarnybos 
+40 straipsnis. Išeitinė išmoka atleidžiant karį iš tarnybos
 
 
-1. Kai profesinės karo tarnybos sutartis nutraukiama vadovybės iniciatyva arba valia ne dėl kario kaltės (šio įstatymo 38 straipsnio 2 dalies 1, 2, 5, 6, 12, 13 punktai), kai profesinės karo tarnybos kariui sukanka šio įstatymo nustatytas išleidimo į atsargą amžius (šio įstatymo 38 straipsnio 1 dalies 7 punktas), taip pat kai baigiasi terminuota profesinės karo tarnybos sutartis, o išleidžiamas į atsargą karys neturi teisės į kario valstybinę pensiją, jam išmokama išeitinė pašalpa. Išeitinės pašalpos dydis priklauso nuo kario tarnybos krašto apsaugos sistemoje stažo:
-
-
-1) turinčiam iki 5 metų stažą – 1 mėnesio tarnybinio atlyginimo dydžio;
+1. Kai profesinės karo tarnybos sutartis nutraukiama vadovybės iniciatyva arba valia ne dėl kario kaltės (šio įstatymo 38 straipsnio 2 dalies 1, 2, 5, 6, 12, 13 punktai), taip pat pasibaigus profesinės karo tarnybos sutarties terminui, išskyrus šio straipsnio 2 dalyje nurodytu atveju, jam išmokama 2 mėnesių Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jo atlyginimo dydžio išeitinė išmoka. Ši išmoka kariams, nepertraukiamai ištarnavusiems krašto apsaugos sistemoje daugiau kaip 5 metus, didinama pusantro karto, daugiau kaip 10 metų, – du kartus, daugiau kaip 20 metų, – tris kartus. 
 
 
 
 
-2) turinčiam didesnį kaip 5 metų stažą – 2 mėnesių tarnybinių atlyginimų dydžio;
+2. Kai profesinės karo tarnybos karys atleidžiamas iš tarnybos sukakus šio įstatymo nustatytam išleidimo į atsargą amžiui, jam išmokama 2 mėnesių Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jo atlyginimo dydžio išeitinė išmoka.
 
 
 
 
-3) turinčiam didesnį kaip 10 metų stažą – 3 mėnesių tarnybinių atlyginimų dydžio;
-
-
-
-
-4) turinčiam didesnį kaip 15 metų stažą – 4 mėnesių tarnybinių atlyginimų dydžio.
-
-
-
-
-
-
-2. Kai profesinės karo tarnybos sutartis nutraukiama vadovybės iniciatyva arba valia ne dėl kario kaltės (šio įstatymo 38 straipsnio 2 dalies 1, 2, 5, 6, 12, 13 punktai), tačiau išleidžiamas į atsargą karys turi teisę į kario valstybinę pensiją, jam išmokama 2 mėnesių tarnybinių atlyginimų dydžio išeitinė pašalpa neatsižvelgiant į tarnybos krašto apsaugos sistemoje stažą.
-
-
-
-
-3. Visiems kariams, su kuriais nutraukiama profesinės karo tarnybos sutartis ne dėl jų kaltės (šio įstatymo 38 straipsnio 2 dalies 1, 2, 5, 6, 12, 13 punktai) ir jei jie iš anksto neįspėjami, išmokama 1 mėnesio tarnybinio atlyginimo dydžio, o kariui, auginančiam vaiką ar vaikų iki 14 metų, išmokama 2 mėnesių tarnybinių atlyginimų dydžio papildoma kompensacija.
-
-
-
-
-4. Nustatant šio straipsnio 1-2 dalyse nurodytas išmokas, skaičiuojamas tik tiesioginės tarnybos krašto apsaugos sistemoje laikas (be užskaitų).
+3. Visiems kariams, su kuriais nutraukiama profesinės karo tarnybos sutartis ne dėl jų kaltės (šio įstatymo 38 straipsnio 2 dalies 1, 2, 5, 6, 12, 13 punktai) ir jei jie iš anksto neįspėjami, išmokama vieno mėnesio Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų atlyginimo dydžio, o kariui, auginančiam vaiką ar vaikų iki 14 metų, išmokama 2 mėnesių Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jo atlyginimo dydžio papildoma kompensacija. 
 
 
 Straipsnio pakeitimai:
 Nr. VIII-1289, 99.07.07, Žin., 1999, Nr.64-2069 (99.07.23)
 Nr. VIII-1668, 00.05.09, Žin., 2000, Nr.42-1194 (00.05.24)
+Straipsnio pakeitimai:
+Nr. XIII-3405, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24565
  
 
 
@@ -3990,7 +4011,10 @@ Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
 
 
-4. Jeigu asmuo buvo atleistas iš profesinės karo tarnybos esant šio įstatymo numatytam pagrindui, tačiau teismas nustato, kad buvo pažeista teisės aktų nustatyta atleidimo tvarka, teismas negali grąžinti jo į profesinę karo tarnybą ar pakeisti jo atleidimo iš tarnybos pagrindo, tačiau gali priteisti atleistam iš profesinės karo tarnybos asmeniui iki 3 mėnesių tarnybinių atlyginimų dydžio piniginę kompensaciją nepaisant to, ar šiam asmeniui priklausė ir buvo išmokėta išeitinė pašalpa.
+4. Jeigu asmuo buvo atleistas iš profesinės karo tarnybos šiame įstatyme numatytu pagrindu, tačiau teismas nustato, kad buvo pažeista teisės aktų nustatyta atleidimo tvarka, teismas negali grąžinti jo į profesinę karo tarnybą ar pakeisti jo atleidimo iš tarnybos pagrindo, tačiau gali priteisti atleistam iš profesinės karo tarnybos asmeniui iki 3 mėnesių Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jo atlyginimo dydžio piniginę kompensaciją nepaisant to, ar šiam asmeniui priklausė ir buvo išmokėta išeitinė išmoka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3405, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24565
+ 
 
 
 Straipsnio pakeitimai:
@@ -4160,7 +4184,7 @@ vyresnysis eilinis                               �
 
 
 2) puskarininkių
-grandinis                                                                               grandinis
+grandinis                                                                               grandinis
 seržantas, seržantas specialistas                       seržantas, seržantas specialistas
 vyresnysis seržantas, vyresnysis seržantas       vyresnysis seržantas, vyresnysis
 specialistas                                                                            seržantas specialistas
@@ -5733,12 +5757,10 @@ Nr. XII-2510, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20647
 
 
 
-19. Šiame straipsnyje nustatytos vienkartinių kompensacijų išmokėjimo sąlygos ginkluotos gynybos nuo agresijos (karo) metu negalioja.
-Straipsnio pakeitimai:
-Nr. IX-1436, 2003-04-03, Žin., 2003, Nr. 38-1681 (2003-04-24)
-Nr. IX-2560, 2004-11-11, Žin., 2004, Nr. 169-6215 (2004-11-23)
-Nr. X-662, 2006-06-08, Žin., 2006, Nr. 72-2679 (2006-06-28)
-Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
+19. Šiame straipsnyje nustatytos vienkartinių kompensacijų išmokėjimo sąlygos karo padėties ar ginkluotos gynybos nuo agresijos (karo) metu negalioja. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
+ 
 
 
 Straipsnio pakeitimai:
@@ -6610,3 +6632,18 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3436, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24612
 Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 3, 9, 59, 60 ir 69 straipsnių pakeitimo ir Įstatymo papildymo 10-2 straipsniu įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 3, 12, 13, 14, 17, 21, 23 ir 67 straipsnių pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3405, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24565
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 40 ir 48 straipsnių pakeitimo įstatymas
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3438, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24615
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 3 ir 12 straipsnių pakeitimo įstatymas
