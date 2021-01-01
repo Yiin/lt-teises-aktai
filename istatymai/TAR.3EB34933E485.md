@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EB34933E485"
 
 # Lietuvos Respublikos mokesčių administravimo įstatymas
 
-Suvestinė redakcija nuo 2020-09-10 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-05-27
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 63-2243, i. k. 1041010ISTA0IX-2112
  
@@ -659,9 +659,10 @@ Nr. X-1318, 2007-11-08, Žin., 2007, Nr. 120-4883 (2007-11-22)
 
 
 
-5. Šio Įstatymo 13 straipsnio 13 punkte nurodytos privalomojo sveikatos draudimo įmokos ir 19 punkte nurodytos valstybinio socialinio draudimo įmokos pagal šį Įstatymą administruojamos tiek, kiek tai nustatyta Lietuvos Respublikos sveikatos draudimo įstatyme ir Lietuvos Respublikos valstybinio socialinio draudimo įstatyme.
+5. Šio Įstatymo 13 straipsnio 13 punkte nurodytos privalomojo sveikatos draudimo įmokos ir 19 punkte nurodytos valstybinio socialinio draudimo įmokos pagal šį Įstatymą administruojamos tiek, kiek tai nustatyta Lietuvos Respublikos sveikatos draudimo įstatyme, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme ir šio Įstatymo 87 straipsnio 4 ir 41 dalyse. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1985, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16907
+Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
  
 
 
@@ -683,11 +684,10 @@ Nr. XIII-2691, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21547
 
 
 
-7. Už administracinius nusižengimus Administracinių nusižengimų kodekso nustatyta tvarka paskirtų baudų administravimui ir išieškojimui tiesiogiai taikomi šio Įstatymo 26 straipsnio 1 dalies 12 punktas, 105 straipsnio 3 dalis, 106 straipsnio 2 dalis, 107 straipsnio 6 dalis, 113 straipsnio 2 ir 5 dalys ir mutatis mutandis yra taikytini šio Įstatymo 26 straipsnis (išskyrus 1 dalies 9 punktą), 84, 85 straipsniai, 87 straipsnio 1 ir 5 dalys, 88 straipsnio 1, 2 ir 7 dalys, 108–112 straipsniai, 113 straipsnio 3 ir 4 dalys, IX, X skyriai, o asmenims, kuriems paskirtos baudos už administracinius nusižengimus, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. 
-TAR pastaba. 7 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
-Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo 5 straipsnio nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki įstatymo Nr. XII-2312 įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+7. Už administracinius nusižengimus Administracinių nusižengimų kodekso nustatyta tvarka paskirtų baudų administravimui ir išieškojimui tiesiogiai taikomi šio Įstatymo 26 straipsnio 1 dalies 12 punktas, 105 straipsnio 3 dalis, 106 straipsnio 2 dalis, 107 straipsnio 6 dalis, 113 straipsnio 2 ir 5 dalys ir mutatis mutandis yra taikytini šio Įstatymo 26 straipsnis (išskyrus 1 dalies 9 punktą), 84, 85 straipsniai, 87 straipsnio 1, 3, 4, 41 ir 5 dalys, 88 straipsnio 1, 2 ir 7 dalys, 108–112 straipsniai, 113 straipsnio 3 ir 4 dalys, IX, X skyriai, o asmenims, kuriems paskirtos baudos už administracinius nusižengimus, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
+Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
  
 
 
@@ -744,20 +744,26 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 16 straipsnis. Valstybės institucijos ir įstaigos, įgaliotos atlikti tam tikrus mokesčių administravimo veiksmus
 
 
-1. Šio Įstatymo 13 straipsnio 6, 7, 8 ir 24 punktuose išvardytus mokesčius administruoja Aplinkos ministerija ar jos įgaliota institucija, tačiau tik tiek, kiek pavesta pagal Mokesčio už valstybinius gamtos išteklius, Mokesčio už aplinkos teršimą, Angliavandenilių išteklių mokesčio ir Miškų įstatymus. Ar šio Įstatymo 13 straipsnio 6 ir 8 punktuose nurodyti mokesčiai teisingai apskaičiuoti, deklaruoti ir sumokėti, patikrina, taip pat konsultacijas šių mokesčių mokėjimo klausimais teikia tik Aplinkos ministerija ar jos įgaliota institucija.
+1. Šio Įstatymo 13 straipsnio 6, 7, 8 ir 24 punktuose išvardytus mokesčius administruoja Aplinkos ministerija ar jos įgaliota institucija, tačiau tik tiek, kiek pavesta pagal Mokesčio už valstybinius gamtos išteklius, Mokesčio už aplinkos teršimą, Angliavandenilių išteklių mokesčio ir Miškų įstatymus. Ar šio Įstatymo 13 straipsnio 6 ir 8 punktuose nurodyti mokesčiai teisingai apskaičiuoti ir deklaruoti, patikrina, taip pat konsultacijas šių mokesčių mokėjimo klausimais teikia tik Aplinkos ministerijos įgaliota institucija.
 
 
 
 
-2. Dėl šio straipsnio 1 dalyje nurodytų įstaigų ir institucijų atliekamų mokesčių apskaičiavimo, deklaravimo ir sumokėjimo teisingumo patikrinimų tvarkos, patikrinimų rezultatų įforminimo bei patvirtinimo, įstaigų ir institucijų bei jų pareigūnų veiksmų apskundimo šio Įstatymo nuostatos netaikomos. Minėtus teisinius santykius reguliuoja šių institucijų veiklą reglamentuojantys teisės aktai bei atitinkami administruojamų mokesčių įstatymai.
+2. Šio Įstatymo 13 straipsnio 8 punkte nurodytą mokestį administruoja taip pat ir Žemės ūkio ministerija ar jos įgaliota institucija, tačiau tik tiek, kiek pavesta pagal Mokesčio už aplinkos teršimą įstatymą. Žemės ūkio ministerija patikrina, ar mokestis už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiuotas ir sumokėtas teisingai. Konsultacijas mokesčio už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiavimo ir sumokėjimo klausimais teikia tik Žemės ūkio ministerijos įgaliota institucija.
+
+
+
+
+3. Dėl šio straipsnio 1 ir 2 dalyse nurodytų įstaigų ir institucijų atliekamų mokesčių apskaičiavimo ir deklaravimo teisingumo patikrinimų tvarkos, patikrinimų rezultatų įforminimo bei patvirtinimo, įstaigų ir institucijų bei jų pareigūnų veiksmų apskundimo šio Įstatymo nuostatos netaikomos. Šioje dalyje nurodytus teisinius santykius reguliuoja šių institucijų veiklą reglamentuojantys teisės aktai bei atitinkami administruojamų mokesčių įstatymai. 
+
+
 Straipsnio pakeitimai:
 Nr. X-863, 2006-10-19, Žin., 2006, Nr. 119-4542 (2006-11-07)
 Nr. X-1086, 2007-04-12, Žin., 2007, Nr. 46-1720 (2007-04-26)
 Nr. X-1318, 2007-11-08, Žin., 2007, Nr. 120-4883 (2007-11-22)
-
-
 Straipsnio pakeitimai:
 Nr. XIII-1216, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09732
+Nr. XIII-3159, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15137
  
 
 
@@ -3168,7 +3174,10 @@ Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka mokesčių mokėt
 87 straipsnis. Mokesčių permokos įskaitymas ir grąžinimas 
 
 
-1. Mokesčių mokėtojo permokėtos mokesčių sumos centrinio mokesčių administratoriaus nustatyta tvarka yra įskaitomos mokesčių mokėtojo mokestinei nepriemokai padengti. 
+1. Mokesčių mokėtojo permokėtos mokesčių, administruojamų Valstybinės mokesčių inspekcijos ir muitinės, sumos pirmiausia yra įskaitomos mokesčių mokėtojo mokėtinų kitų mokesčių, administruojamų atitinkamai Valstybinės mokesčių inspekcijos ir muitinės, mokestinei nepriemokai padengti atitinkamo centrinio mokesčių administratoriaus nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
+ 
 
 
 
@@ -3181,17 +3190,34 @@ Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
 
 
 
-3. Valstybinio socialinio draudimo įmokų permoka negali būti įskaitoma kitų mokesčių nepriemokai padengti, o kitų mokesčių permoka negali būti įskaitoma valstybinio socialinio draudimo įmokų nepriemokai padengti. 
+3. Mokesčių mokėtojo permokėtos mokesčių, administruojamų muitinės, sumos yra įskaitomos mokesčių mokėtojo mokėtinų kitų mokesčių, administruojamų Valstybinės mokesčių inspekcijos, mokestinei nepriemokai padengti, o mokesčių mokėtojo permokėtos mokesčių, administruojamų Valstybinės mokesčių inspekcijos, sumos – mokesčių mokėtojo mokėtinų kitų mokesčių, administruojamų muitinės, mokestinei nepriemokai padengti centrinių mokesčių administratorių kartu nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
+ 
 
 
 
 
-4. Muitinės administruojamų mokesčių permokos įskaitymo kitų mokesčių nepriemokai padengti, taip pat kitų mokesčių permokos įskaitymo muitinės administruojamų mokesčių nepriemokai padengti tvarką nustato finansų ministras.
+4. Mokesčių mokėtojo permokėtos valstybinio socialinio draudimo įmokų ir privalomojo sveikatos draudimo įmokų sumos yra įskaitomos mokesčių mokėtojo mokėtinų kitų mokesčių, administruojamų Valstybinės mokesčių inspekcijos, mokestinei nepriemokai padengti, o mokesčių mokėtojo permokėtos kitų mokesčių, administruojamų Valstybinės mokesčių inspekcijos, sumos – mokesčių mokėtojo mokėtinų valstybinio socialinio draudimo įmokų, delspinigių, baudų, palūkanų skolai padengti, Valstybinio socialinio draudimo fondo administravimo įstaigų administruojamai žalai, atsiradusiai dėl draudėjo kaltės, atlyginti ir privalomojo sveikatos draudimo įmokų mokestinei nepriemokai padengti Valstybinės mokesčių inspekcijos prie Finansų ministerijos nustatyta tvarka, suderinta su Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos. Šios dalies nuostatos dėl permokėtos privalomojo sveikatos draudimo įmokų sumos įskaitymo kitų mokesčių, administruojamų Valstybinės mokesčių inspekcijos, mokestinei nepriemokai padengti taikomos tik Sveikatos draudimo įstatymo 18 straipsnio 4 dalyje nurodytų asmenų permokėtoms privalomojo sveikatos draudimo įmokų sumoms. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
+ 
 
 
 
 
-5. Mokesčių mokėtojo permokėtos mokesčių sumos, kurios lieka permokos sumas įskaičius mokestinei nepriemokai padengti, grąžinamos mokesčių mokėtojo prašymu. Tuo atveju, kai mokesčių mokėtojas turi laiku negrąžintų skolų valstybei pagal paskolas iš valstybės vardu pasiskolintų lėšų ar pagal paskolas, dėl kurių kreditoriams suteikta valstybės garantija, permokėtos mokesčių sumos, kurios lieka iš šių sumų padengus mokestinę nepriemoką, naudojamos minėtoms skoloms dengti finansų ministro nustatyta tvarka. Padengus šias skolas likusios sumos grąžinamos mokesčių mokėtojo prašymu.
+41. Mokesčių mokėtojo permokėtos mokesčių, administruojamų Valstybinės mokesčių inspekcijos, sumos yra įskaitomos valstybinio socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolai padengti, Valstybinio socialinio draudimo fondo administravimo įstaigų administruojamai žalai, atsiradusiai dėl draudėjo kaltės, atlyginti ir privalomojo sveikatos draudimo įmokų mokestinei nepriemokai padengti po to, kai permokėtos mokesčių sumos yra įskaitytos šio straipsnio 1 ir 3 dalyse nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
+ 
+
+
+
+
+5. Mokesčių mokėtojo permokėtos mokesčių sumos, kurios lieka po permokėtų mokesčių sumų įskaitymo šio straipsnio 1, 3 ir 4 dalyse nustatyta tvarka, grąžinamos mokesčių mokėtojo prašymu. Tuo atveju, kai mokesčių mokėtojas turi laiku negrąžintų skolų valstybei pagal paskolas iš valstybės vardu pasiskolintų lėšų ar pagal paskolas, dėl kurių kreditoriams suteikta valstybės garantija, permokėtos mokesčių sumos, kurios lieka po permokėtų mokesčių sumų įskaitymo šio straipsnio 1, 3 ir 4 dalyse nustatyta tvarka, naudojamos šioje dalyje nurodytoms skoloms dengti centrinių mokesčių administratorių kartu nustatyta tvarka. Padengus šias skolas likusios sumos grąžinamos mokesčių mokėtojo prašymu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
+ 
 
 
 
@@ -3226,7 +3252,10 @@ Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
 
 
 
-10. Jei mokesčių mokėtojas pageidauja, kad mokesčio permoka būtų įskaityta mokesčiams, kurių mokėjimo terminas nepasibaigęs, taip pat finansų ministro nustatyta tvarka mokesčiams muitinėje įskaityti, jis dėl to pateikia atitinkamą prašymą.
+10. Jei mokesčių mokėtojas pageidauja, kad permokėtos mokesčių sumos būtų įskaitytos mokesčiams, kurių mokėjimo terminas nepasibaigęs, jis dėl to pateikia atitinkamą prašymą centrinių mokesčių administratorių kartu nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
+ 
 
 
 
@@ -6840,3 +6869,13 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 3 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2586, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20554
 Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 33, 55, 55-1 straipsnių ir priedo pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 14 ir 87 straipsnių pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3159, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15137
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 16 straipsnio pakeitimo įstatymas
