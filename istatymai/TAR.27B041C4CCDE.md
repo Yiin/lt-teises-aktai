@@ -13,14 +13,21 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.27B041C4CCDE"
 
 # Lietuvos Respublikos mediacijos įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-04-28
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 87-3462, i. k. 1081010ISTA00X-1702
  
-Nauja redakcija nuo 2019-01-01:
-Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
+TAR pastaba. Asmenys, išklausę mokymus mediacijos tema ir išlaikę mediatorių kvalifikacinį egzaminą (jei jiems šis reikalavimas nustatytas) pagal iki įstatymo Nr. XIII-3048  įsigaliojimo (2021-01-01) galiojusias Lietuvos Respublikos mediacijos įstatymo nuostatas, įrašomi į Lietuvos Respublikos mediatorių sąrašą nenurodant jų specializacijos administracinių ginčų mediacijos srityje. Šioje dalyje nurodyti asmenys, kurie siekia vykdyti administracinių ginčų mediaciją, turi išklausyti ne trumpesnius kaip 4 akademinių valandų mokymus administracinių ginčų mediacijos tema (išskyrus teisėjus ir Lietuvos administracinių ginčų komisijos, jos teritorinių padalinių narius) ir pateikti Valstybės garantuojamos teisinės pagalbos tarnybai tai patvirtinančius dokumentus.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3048, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13616
+Lietuvos Respublikos mediacijos įstatymo Nr. X-1702 pakeitimo įstatymas
  
-LIETUVOS RESPUBLIKOS MEDIACIJOS ĮSTATYMAS
+Nauja redakcija nuo 2021-01-01:
+Nr. XIII-3048, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13616
+ 
+LIETUVOS RESPUBLIKOS
+MEDIACIJOS
+ĮSTATYMAS
  
 2008 m. liepos 15 d. Nr. X-1702
 Vilnius
@@ -35,15 +42,12 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas nustato pagrindines civilinių ginčų mediacijos sąlygas, institucijų funkcijas mediacijos srityje, reikalavimus asmenims, siekiantiems teikti mediacijos paslaugas, mediacijos vykdymo tvarką, privalomosios mediacijos ir teisminės mediacijos ypatumus, mediatorių drausminę atsakomybę.
-Straipsnio dalies pakeitimai:
-Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
- 
+1. Šis įstatymas nustato pagrindines civilinių ir administracinių ginčų mediacijos sąlygas, institucijų funkcijas mediacijos srityje, reikalavimus asmenims, siekiantiems teikti mediacijos paslaugas, mediacijos vykdymo tvarką, privalomosios mediacijos ir teisminės mediacijos ypatumus, mediatorių drausminę atsakomybę.
 
 
 
 
-2. Šis įstatymas taikomas neteisminei ir teisminei civilinių ginčų mediacijai, išskyrus dėl tokių teisių ir pareigų iškilusius ginčus, dėl kurių sudarytos taikos sutartys pagal įstatymus laikomos negaliojančiomis. Šis įstatymas netaikomas bylą nagrinėjančio teisėjo vykdomam taikinimui teismo proceso metu.
+2. Šis įstatymas taikomas neteisminei ir teisminei civilinių ir administracinių ginčų mediacijai, išskyrus dėl tokių teisių ir pareigų iškilusius ginčus, dėl kurių sudarytos taikos sutartys pagal įstatymus laikomos negaliojančiomis. Šis įstatymas netaikomas bylą nagrinėjančio teisėjo vykdomam taikinimui teismo proceso metu.
 
 
 
@@ -53,7 +57,7 @@ Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
 
 
 
-4. Šis įstatymas taikomas nacionaliniams ir tarptautiniams civiliniams ginčams spręsti mediacijos būdu.
+4. Šis įstatymas taikomas nacionaliniams civiliniams ir administraciniams ginčams ir tarptautiniams civiliniams ginčams spręsti mediacijos būdu.
 
 
 
@@ -63,7 +67,7 @@ Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
 
 
 
-6. Kiti teisės aktai, reglamentuojantys civilinių ginčų sprendimą, gali nustatyti mediacijos ypatumus atskirų kategorijų ginčuose.
+6. Kiti teisės aktai, reglamentuojantys civilinių ir administracinių ginčų sprendimą, gali nustatyti mediacijos ypatumus atskirų kategorijų ginčuose.
  
 
 
@@ -74,45 +78,45 @@ Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Civilinio ginčo šalis (toliau – ginčo šalis) – civiliniame ginče dalyvaujantis asmuo, kurio teisėms ir pareigoms turi įtakos ginčo išsprendimas.
+1. Civilinio ginčo šalis – civiliniame ginče dalyvaujantis asmuo, kurio teisėms ir pareigoms turi įtakos ginčo išsprendimas.
 
 
 
 
-2. Civilinis ginčas (toliau – ginčas) – ginčas, kuris yra ar gali būti nagrinėjamas civilinio proceso tvarka bendrosios kompetencijos teisme.
+2. Civilinis ginčas – ginčas, kuris yra ar gali būti nagrinėjamas civilinio proceso tvarka bendrosios kompetencijos teisme.
 
 
 
 
-3. Mediacija – ginčų sprendimo procedūra, kurios metu vienas ar keli mediatoriai padeda ginčo šalims taikiai spręsti ginčą. Mediacija, išskyrus teisėjų vykdomą teisminę mediaciją, yra profesinė veikla.
+3. Civilinių ginčų mediacijos paslaugų administratorius (toliau – mediacijos paslaugų administratorius) – viešasis arba privatusis juridinis asmuo, kuris rekomenduoja ar skiria civilinių ginčų mediatorius, siūlo ar nustato civilinių ginčų mediacijos taisykles, administruoja šios mediacijos išlaidas, suteikia patalpas, kuriose atliekama ši procedūra, ir (arba) teikia kitas su civilinių ginčų mediacija susijusias paslaugas.
 
 
 
 
-4. Mediacijos paslaugų administratorius – viešasis arba privatusis juridinis asmuo, kuris rekomenduoja ar skiria mediatorius, siūlo ar nustato mediacijos taisykles, administruoja mediacijos išlaidas, suteikia patalpas, kuriose atliekama ši procedūra, ir (arba) teikia kitas su mediacija susijusias paslaugas.
+4. Mediacija – civilinių ar administracinių ginčų sprendimo procedūra, kurios metu vienas ar keli mediatoriai padeda ginčo šalims taikiai spręsti ginčą. Mediacija, išskyrus teisėjų vykdomą teisminę mediaciją ir Lietuvos administracinių ginčų komisijos, jos teritorinių padalinių narių vykdomą neteisminę mediaciją, yra profesinė veikla.
 
 
 
 
-5. Mediatorius – šio įstatymo nustatytus reikalavimus atitinkantis trečiasis nešališkas fizinis asmuo, kuris yra įrašytas į Lietuvos Respublikos mediatorių sąrašą ir padeda ginčo šalims taikiai spręsti ginčą.
+5. Mediatorius – šio įstatymo nustatytus reikalavimus atitinkantis trečiasis nešališkas fizinis asmuo, kuris yra įrašytas į Lietuvos Respublikos mediatorių sąrašą ir padeda civilinio ar administracinio ginčo šalims taikiai spręsti ginčą.
 
 
 
 
-6. Neteisminė mediacija – ginčų sprendimo procedūra, kurios metu vienas ar keli mediatoriai padeda teisme nesprendžiamo ginčo šalims taikiai spręsti šį ginčą.
+6. Neteisminė mediacija – civilinių ar administracinių ginčų sprendimo procedūra, kurios metu vienas ar keli mediatoriai padeda teisme nesprendžiamo ginčo šalims taikiai spręsti šį ginčą.
 
 
 
 
-7. Privalomoji mediacija – mediacija, kuria įstatymų nustatytais atvejais privaloma pasinaudoti prieš kreipiantis į teismą dėl ginčo sprendimo.
+7. Privalomoji mediacija – mediacija, kuria įstatymų nustatytais atvejais privaloma pasinaudoti prieš kreipiantis į teismą dėl civilinio ginčo sprendimo.
 
 
 
 
-8. Tarptautinis ginčas – ginčas, kurio bent vienos iš šalių nuolatinė gyvenamoji vieta arba įprastinė gyvenamoji vieta ar buveinė yra kitoje negu bet kurios kitos šio ginčo šalies valstybėje tą dieną, kurią:
+8. Tarptautinis civilinis ginčas – civilinis ginčas, kurio bent vienos iš šalių nuolatinė gyvenamoji vieta arba įprastinė gyvenamoji vieta ar buveinė yra kitoje negu bet kurios kitos šio ginčo šalies valstybėje tą dieną, kurią:
 
 
-1) ginčo šalys sudaro susitarimą dėl mediacijos taikymo kilus ginčui;
+1) civilinio ginčo šalys sudaro susitarimą dėl mediacijos taikymo;
 
 
 
@@ -127,19 +131,24 @@ Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
 
 
 
-4) teismas pasiūlo ginčo šalims bandyti ginčą spręsti mediacijos būdu.
+4) teismas pasiūlo civilinio ginčo šalims bandyti civilinį ginčą spręsti mediacijos būdu.
 
 
 
 
 
 
-9. Teisminė mediacija – ginčų sprendimo procedūra, kurios metu vienas ar keli mediatoriai padeda ginčo šalims taikiai spręsti šį ginčą teisme nagrinėjamoje byloje.
+9. Teisminė mediacija – civilinių ar administracinių ginčų sprendimo procedūra, kurios metu vienas ar keli mediatoriai padeda ginčo šalims taikiai spręsti šį ginčą teisme nagrinėjamoje byloje.
 
 
 
 
-10. Taikant šio įstatymo 17 ir 18 straipsnių nuostatas, tarptautiniu ginču taip pat laikomas ginčas, kuriam išspręsti po tarp ginčo šalių įvykusios mediacijos inicijuojamas teismo ar arbitražo procesas kitoje valstybėje negu ta, kurioje yra ginčo šalių nuolatinė gyvenamoji vieta arba įprastinė gyvenamoji vieta ar buveinė šio straipsnio 8 dalies 1, 2 ar 3 punktuose nurodytą dieną.
+10. Taikant šio įstatymo 17 ir 18 straipsnių nuostatas, tarptautiniu civiliniu ginču taip pat laikomas civilinis ginčas, kuriam išspręsti po tarp civilinio ginčo šalių įvykusios mediacijos inicijuojamas teismo ar arbitražo procesas kitoje valstybėje negu ta, kurioje yra civilinio ginčo šalių nuolatinė gyvenamoji vieta arba įprastinė gyvenamoji vieta ar buveinė šio straipsnio 8 dalies 1, 2 ar 3 punkte nurodytą dieną.
+
+
+
+
+11. Šiame įstatyme vartojama sąvoka „administracinis ginčas“ reiškia ginčą, nagrinėjamą administraciniame teisme Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka, arba ginčą, nagrinėjamą Lietuvos administracinių ginčų komisijoje Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo nustatyta tvarka, o šiame įstatyme vartojama sąvoka „administracinio ginčo šalys“ – pareiškėją (skundą (prašymą, pareiškimą) padavusį administraciniam teismui ar Lietuvos administracinių ginčų komisijai subjektą) ir atsakovą (viešojo administravimo subjektą, kurio individualūs administraciniai aktai arba veiksmai (neveikimas) ar vilkinimas atlikti veiksmus skundžiami administraciniam teismui ar Lietuvos administracinių ginčų komisijai).
  
 
 
@@ -147,13 +156,13 @@ Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
 
 
 
-3 straipsnis. Mediacijos valdymo institucijos ir jų funkcijos mediacijos srityje
+3 straipsnis. Mediacijos valdymo subjektai ir jų funkcijos mediacijos srityje
 
 
-1. Mediacijos valdymo institucijos yra:
+1. Mediacijos valdymo subjektai yra:
 
 
-1) Lietuvos Respublikos teisingumo ministerija (toliau – Teisingumo ministerija);
+1) Lietuvos Respublikos teisingumo ministerija;
 
 
 
@@ -163,7 +172,12 @@ Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
 
 
 
-3) Valstybės garantuojamos teisinės pagalbos tarnyba.
+3) Valstybės garantuojamos teisinės pagalbos tarnyba;
+
+
+
+
+4) Lietuvos administracinių ginčų komisijos pirmininkas.
 
 
 
@@ -173,7 +187,7 @@ Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
 2. Teisingumo ministerija:
 
 
-1) teikia Lietuvos Respublikos Vyriausybei (toliau – Vyriausybė) teisės aktų, reglamentuojančių mediaciją, projektus;
+1) teikia Lietuvos Respublikos Vyriausybei teisės aktų, reglamentuojančių mediaciją, projektus;
 
 
 
@@ -223,7 +237,7 @@ Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
 
 
 
-5) užtikrina teisėjų kvalifikacijos kėlimą mediacijos srityje;
+5) užtikrina teisėjų kvalifikacijos kėlimą mediacijos srityje; 
 
 
 
@@ -243,7 +257,7 @@ Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
 
 
 
-2) Lietuvos Respublikos teisingumo ministro (toliau – teisingumo ministras) nustatyta tvarka sudaro sutartis su mediatoriais dėl privalomosios mediacijos paslaugų teikimo, kontroliuoja, kaip vykdomos šios sutartys;
+2) Lietuvos Respublikos teisingumo ministro nustatyta tvarka sudaro sutartis su mediatoriais dėl privalomosios mediacijos paslaugų teikimo, kontroliuoja, kaip vykdomos šios sutartys;
 
 
 
@@ -270,17 +284,32 @@ Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
 
 
 
-5. Teisingumo ministerijai pavestų funkcijų mediacijos srityje įgyvendinimą padeda užtikrinti mediacijos koordinavimo taryba (toliau – koordinavimo taryba). Koordinavimo taryba yra kolegiali patariamoji visuomeniniais pagrindais veikianti institucija.
+5. Lietuvos administracinių ginčų komisijos pirmininkas:
+
+
+1) nustato neteisminės mediacijos organizavimo ir vykdymo Lietuvos administracinių ginčų komisijoje ir jos teritoriniuose padaliniuose (toliau – ginčų komisija) tvarką;
 
 
 
 
-6. Koordinavimo tarybą sudaro Teisingumo ministerijos, Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos, Lietuvos advokatūros, Lietuvos antstolių rūmų, Lietuvos notarų rūmų, Teisėjų tarybos, mokslo ir studijų institucijų, kitų institucijų ir asociacijų, vienijančių mediatorius, atstovai. Koordinavimo tarybos nuostatus ir sudėtį tvirtina teisingumo ministras.
+2) organizuoja neteisminės administracinių ginčų mediacijos stebėseną.
 
 
 
 
-7. Koordinavimo taryba:
+
+
+6. Teisingumo ministerijai pavestų funkcijų mediacijos srityje įgyvendinimą padeda užtikrinti mediacijos koordinavimo taryba (toliau – koordinavimo taryba). Koordinavimo taryba yra kolegiali patariamoji visuomeniniais pagrindais veikianti institucija.
+
+
+
+
+7. Koordinavimo tarybą sudaro Teisingumo ministerijos, Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos, Lietuvos advokatūros, Lietuvos antstolių rūmų, Lietuvos notarų rūmų, Lietuvos administracinių ginčų komisijos, Teisėjų tarybos, mokslo ir studijų institucijų, kitų institucijų ir asociacijų, vienijančių mediatorius, atstovai. Koordinavimo tarybos nuostatus ir sudėtį tvirtina teisingumo ministras.
+
+
+
+
+8. Koordinavimo taryba:
 
 
 1) teikia pasiūlymus dėl mediacijos teisinio reguliavimo ir praktinio taikymo tobulinimo;
@@ -323,7 +352,7 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 
-2. Mediatorius turi būti nešališkas ginčo šalims. Mediatorius gali priimti pasiūlymą pradėti mediaciją arba tęsti pradėtą mediaciją tik tuo atveju, jeigu jis informavo ginčo šalis apie jam žinomas aplinkybes, kurios gali kelti abejonių dėl jo nešališkumo, ir jeigu ginčo šalys sutiko, kad jis vykdytų mediaciją.
+2. Mediatorius turi būti nešališkas civilinio ar administracinio ginčo šalims. Mediatorius gali priimti pasiūlymą pradėti mediaciją arba tęsti pradėtą mediaciją tik tuo atveju, jeigu jis informavo ginčo šalis apie jam žinomas aplinkybes, kurios gali kelti abejonių dėl jo nešališkumo, ir jeigu ginčo šalys sutiko, kad jis vykdytų mediaciją.
 
 
 
@@ -333,12 +362,12 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 
-4. Mediatorius ginčo šalies prašymu privalo pateikti ginčo šalims informaciją apie savo išsilavinimą ir patirtį.
+4. Mediatorius civilinio ar administracinio ginčo šalies prašymu privalo pateikti ginčo šalims informaciją apie savo išsilavinimą ir patirtį.
 
 
 
 
-5. Mediatorius negali būti arbitru arba teisėju ginče, kuriame vykdė ar vykdo mediaciją, išskyrus atvejus, kai ginčo šalys raštu susitaria skirti mediatorių arbitru ir šis tam neprieštarauja, ir išskyrus Lietuvos Respublikos civilinio proceso kodekse nustatytus atvejus. Be to, mediatorius negali būti ginčo šalies atstovu ginče, kuriame vykdė ar vykdo mediaciją. 
+5. Mediatorius negali būti arbitru arba teisėju civiliniame ginče, kuriame vykdė ar vykdo mediaciją, išskyrus atvejus, kai civilinio ginčo šalys raštu susitaria skirti mediatorių arbitru ir šis tam neprieštarauja, ir išskyrus Lietuvos Respublikos civilinio proceso kodekse nustatytus atvejus. Mediatorius negali būti teisėju administraciniame ginče, kuriame vykdė ar vykdo mediaciją. Be to, mediatorius negali būti civilinio ar administracinio ginčo šalies atstovu ginče, kuriame vykdė ar vykdo mediaciją. 
 
 
 
@@ -369,12 +398,12 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 
-2. Teisėjų, kuriems suteiktas mediatoriaus statusas, sąrašą Teisėjų tarybos nustatyta tvarka tvarko Nacionalinė teismų administracija. Nacionalinė teismų administracija Teisėjų tarybos nustatyta tvarka teikia Valstybės garantuojamos teisinės pagalbos tarnybai šio straipsnio 4 dalyje nurodytus duomenis apie mediatorius, kurie yra teisėjai. Nacionalinė teismų administracija pateikia duomenis apie teisėjus, kuriems suteiktas ar panaikintas mediatoriaus statusas, Valstybės garantuojamos teisinės pagalbos tarnybai ne vėliau kaip per tris darbo dienas nuo atitinkamo sprendimo priėmimo dienos. Mediatoriai, kurie yra teisėjai, įrašomi į Lietuvos Respublikos mediatorių sąrašą.
+2. Teisėjų, kuriems suteiktas mediatoriaus statusas, sąrašą Teisėjų tarybos nustatyta tvarka tvarko Nacionalinė teismų administracija. Nacionalinė teismų administracija Teisėjų tarybos nustatyta tvarka teikia Valstybės garantuojamos teisinės pagalbos tarnybai šio straipsnio 4 dalyje nurodytus duomenis apie mediatorius, kurie yra teisėjai. Nacionalinė teismų administracija pateikia duomenis apie teisėjus, kuriems suteiktas ar panaikintas mediatoriaus statusas, Valstybės garantuojamos teisinės pagalbos tarnybai ne vėliau kaip per tris darbo dienas nuo atitinkamo sprendimo priėmimo dienos. Mediatoriai, kurie yra teisėjai, įrašomi į Lietuvos Respublikos mediatorių sąrašą. 
 
 
 
 
-3. Mediatorius turi pranešti Valstybės garantuojamos teisinės pagalbos tarnybai apie savo duomenų, nurodytų Lietuvos Respublikos mediatorių sąraše, pasikeitimą per penkias darbo dienas nuo duomenų pasikeitimo dienos. Mediatorius, kuris yra teisėjas, apie savo duomenų, nurodytų Lietuvos Respublikos mediatorių sąraše, pasikeitimą Teisėjų tarybos nustatyta tvarka praneša Nacionalinei teismų administracijai. Nacionalinė teismų administracija šio straipsnio 2 dalyje nustatyta tvarka informuoja Valstybės garantuojamos teisinės pagalbos tarnybą apie mediatorių, kurie yra teisėjai, duomenų pasikeitimą.
+3. Mediatorius turi pranešti Valstybės garantuojamos teisinės pagalbos tarnybai apie savo duomenų, nurodytų Lietuvos Respublikos mediatorių sąraše, pasikeitimą per penkias darbo dienas nuo duomenų pasikeitimo dienos. Mediatorius, kuris yra teisėjas, apie savo duomenų, nurodytų Lietuvos Respublikos mediatorių sąraše, pasikeitimą Teisėjų tarybos nustatyta tvarka praneša Nacionalinei teismų administracijai. Nacionalinė teismų administracija šio straipsnio 2 dalyje nustatyta tvarka informuoja Valstybės garantuojamos teisinės pagalbos tarnybą apie mediatorių, kurie yra teisėjai, duomenų pasikeitimą. 
 
 
 
@@ -384,12 +413,12 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 
-5. Lietuvos Respublikos mediatorių sąrašas, taip pat informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje, sudaromi ir tvarkomi teisingumo ministro nustatyta tvarka.
+5. Lietuvos Respublikos mediatorių sąrašas, taip pat informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje, sudaromi ir tvarkomi teisingumo ministro nustatyta tvarka. Siekdama sudaryti ir tvarkyti Lietuvos Respublikos mediatorių sąrašą, taip pat informaciją apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje, šio įstatymo nustatyta tvarka iš Lietuvos Respublikos mediatorių sąrašo parinkti ir skirti mediatorių, Valstybės garantuojamos teisinės pagalbos tarnyba turi teisę tvarkyti šio straipsnio 4 dalyje nurodytus mediatorių duomenis, šio straipsnio 6 dalyje nurodytus laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančių asmenų duomenis ir duomenis apie šio įstatymo 29 straipsnyje nustatyta tvarka mediatoriams ir laikinai mediacijos paslaugas Lietuvos Respublikoje teikiantiems asmenims, nurodytiems šio įstatymo 4 straipsnio 7 dalyje, pareikštus viešus įspėjimus.
 
 
 
 
-6. Lietuvos Respublikos mediatorių sąrašas skelbiamas Valstybės garantuojamos teisinės pagalbos tarnybos interneto svetainėje. Valstybės garantuojamos teisinės pagalbos tarnybos interneto svetainėje taip pat skelbiama informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje.
+6. Visuomenės informavimo tikslais Lietuvos Respublikos mediatorių sąrašas skelbiamas Valstybės garantuojamos teisinės pagalbos tarnybos interneto svetainėje ir Teisinės pagalbos paslaugų informacinėje sistemoje. Tais pačiais tikslais Valstybės garantuojamos teisinės pagalbos tarnybos interneto svetainėje ir Teisinės pagalbos paslaugų informacinėje sistemoje taip pat skelbiama ši informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje: asmens vardas, pavardė, profesinė kvalifikacija, adresas korespondencijai, telefono numeris, elektroninio pašto adresas ir (ar) kiti kontaktiniai duomenys, Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė, kurios kompetentinga institucija yra suteikusi asmeniui teisę teikti mediacijos paslaugas. Šio straipsnio 4 dalyje nurodyti mediatoriaus duomenys skelbiami tol, kol mediatorius šio įstatymo 9 straipsnyje nustatyta tvarka išbraukiamas iš Lietuvos Respublikos mediatorių sąrašo. Informacija apie laikinai mediacijos paslaugas Lietuvos Respublikoje teikiančius asmenis, nurodytus šio įstatymo 4 straipsnio 7 dalyje, skelbiama tol, kol šie asmenys šio įstatymo 4 straipsnio 8 dalyje nustatyta tvarka informuoja Valstybės garantuojamos teisinės pagalbos tarnybą, kad baigė laikinai teikti mediacijos paslaugas Lietuvos Respublikoje.
  
 
 
@@ -425,7 +454,7 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 
-2. Šio straipsnio 1 dalies 2 ir 3 punktuose nustatyti reikalavimai netaikomi teisėjams, turintiems trejų metų teisėjo darbo patirtį ir išklausiusiems ne trumpesnius kaip 16 akademinių valandų įvadinius mokymus mediacijos tema, ir socialinių mokslų daktaro laipsnį turintiems asmenims, kurie per paskutinius trejus metus iki kreipimosi dėl įrašymo į Lietuvos Respublikos mediatorių sąrašą vedė mokymus mediacijos tema, kurių bendra trukmė ne mažiau kaip 100 akademinių valandų. Šio straipsnio 1 dalies 2 ir 3 punktuose nustatyti reikalavimai taip pat netaikomi asmenims, kuriems pagal Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teisės aktus tos valstybės kompetentinga institucija yra suteikusi teisę teikti mediacijos paslaugas. Šio straipsnio 1 dalies 3 punkte nustatytas reikalavimas netaikomas advokatams, antstoliams ir notarams, turintiems trejų metų atitinkamai advokato, antstolio arba notaro darbo patirtį.
+2. Šio straipsnio 1 dalies 2 ir 3 punktuose nustatyti reikalavimai netaikomi teisėjams, turintiems trejų metų teisėjo darbo patirtį ir išklausiusiems ne trumpesnius kaip 16 akademinių valandų įvadinius mokymus mediacijos tema, ir socialinių mokslų daktaro laipsnį turintiems asmenims, kurie per paskutinius trejus metus iki kreipimosi dėl įrašymo į Lietuvos Respublikos mediatorių sąrašą vedė mokymus mediacijos tema, kurių bendra trukmė – ne mažiau kaip 100 akademinių valandų. Šio straipsnio 1 dalies 2 ir 3 punktuose nustatyti reikalavimai taip pat netaikomi asmenims, kuriems pagal Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teisės aktus tos valstybės kompetentinga institucija yra suteikusi teisę teikti mediacijos paslaugas. Šio straipsnio 1 dalies 3 punkte nustatytas reikalavimas netaikomas advokatams, antstoliams ir notarams, turintiems trejų metų atitinkamai advokato, antstolio arba notaro darbo patirtį.
 
 
 
@@ -455,17 +484,17 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 
-4. Į Lietuvos Respublikos mediatorių sąrašą asmenys įrašomi Valstybės garantuojamos teisinės pagalbos tarnybos sprendimu. Valstybės garantuojamos teisinės pagalbos tarnyba priima sprendimą įrašyti asmenį į Lietuvos Respublikos mediatorių sąrašą ir įrašo asmenį į Lietuvos Respublikos mediatorių sąrašą ne vėliau kaip per penkiolika darbo dienų nuo prašymo įrašyti į Lietuvos Respublikos mediatorių sąrašą ir kitų teisės aktų reikalavimus atitinkančių dokumentų, įrodančių, kad asmuo atitinka šiame straipsnyje nustatytus reikalavimus, gavimo dienos. Valstybės garantuojamos teisinės pagalbos tarnyba priima sprendimą neįrašyti asmens į Lietuvos Respublikos mediatorių sąrašą, kai asmuo neatitinka šio straipsnio 1 dalyje nurodytų reikalavimų ir nėra šio straipsnio 2 dalyje nurodytų aplinkybių. Apie sprendimą įrašyti asmenį į Lietuvos Respublikos mediatorių sąrašą ir asmens įrašymą į Lietuvos Respublikos mediatorių sąrašą arba apie sprendimą neįrašyti asmens į Lietuvos Respublikos mediatorių sąrašą Valstybės garantuojamos teisinės pagalbos tarnyba asmeniui praneša raštu ne vėliau kaip per tris darbo dienas nuo atitinkamo sprendimo priėmimo dienos. Valstybės garantuojamos teisinės pagalbos tarnyba apie šioje dalyje nurodytus sprendimus asmeniui praneša tokiu būdu, kokiu asmuo pateikė prašymą arba kokį asmuo nurodė prašyme. Asmeniui, kuris į Valstybės garantuojamos teisinės pagalbos tarnybą kreipėsi tiesiogiai, šioje dalyje numatytas Valstybės garantuojamos teisinės pagalbos tarnybos pranešimas siunčiamas paštu ar kitu jo prašyme nurodytu būdu arba pateikiamas tiesiogiai Valstybės garantuojamos teisinės pagalbos tarnyboje. 
+4. Į Lietuvos Respublikos mediatorių sąrašą asmenys įrašomi Valstybės garantuojamos teisinės pagalbos tarnybos sprendimu. Valstybės garantuojamos teisinės pagalbos tarnyba priima sprendimą įrašyti asmenį į Lietuvos Respublikos mediatorių sąrašą ir įrašo asmenį į Lietuvos Respublikos mediatorių sąrašą ne vėliau kaip per penkiolika darbo dienų nuo prašymo įrašyti į Lietuvos Respublikos mediatorių sąrašą ir kitų teisės aktų reikalavimus atitinkančių dokumentų, įrodančių, kad asmuo atitinka šiame straipsnyje nustatytus reikalavimus, gavimo dienos. Valstybės garantuojamos teisinės pagalbos tarnyba priima sprendimą neįrašyti asmens į Lietuvos Respublikos mediatorių sąrašą, kai asmuo neatitinka šio straipsnio 1 dalyje nurodytų reikalavimų ir nėra šio straipsnio 2 dalyje nurodytų aplinkybių. Apie sprendimą įrašyti asmenį į Lietuvos Respublikos mediatorių sąrašą ir asmens įrašymą į Lietuvos Respublikos mediatorių sąrašą arba apie sprendimą neįrašyti asmens į Lietuvos Respublikos mediatorių sąrašą Valstybės garantuojamos teisinės pagalbos tarnyba asmeniui praneša raštu ne vėliau kaip per tris darbo dienas nuo atitinkamo sprendimo priėmimo dienos. Valstybės garantuojamos teisinės pagalbos tarnyba apie šioje dalyje nurodytus sprendimus asmeniui praneša tokiu būdu, kokiu asmuo pateikė prašymą arba kokį asmuo nurodė prašyme. Asmeniui, kuris į Valstybės garantuojamos teisinės pagalbos tarnybą kreipėsi tiesiogiai, šioje dalyje nurodytas Valstybės garantuojamos teisinės pagalbos tarnybos pranešimas siunčiamas paštu ar kitu jo prašyme nurodytu būdu arba pateikiamas tiesiogiai Valstybės garantuojamos teisinės pagalbos tarnyboje. 
 
 
 
 
-5. Valstybės garantuojamos teisinės pagalbos tarnybos sprendimai dėl asmenų įrašymo į Lietuvos Respublikos mediatorių sąrašą gali būti skundžiami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+5. Valstybės garantuojamos teisinės pagalbos tarnybos sprendimai dėl asmenų įrašymo į Lietuvos Respublikos mediatorių sąrašą gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 
 
-6. Šio straipsnio 3 ir 4 dalių nuostatos netaikomos teisėjams, pageidaujantiems vykdyti mediatorių veiklą. Teisėjams, atitinkantiems mediatoriams taikomus reikalavimus ir pageidaujantiems vykdyti mediatorių veiklą, mediatoriaus statusą Teisėjų tarybos nustatyta tvarka suteikia ir panaikina Teisėjų tarybos sudaryta teisminės mediacijos komisija.
+6. Šio straipsnio 3 ir 4 dalių nuostatos netaikomos teisėjams, pageidaujantiems vykdyti mediatorių veiklą. Teisėjams, atitinkantiems mediatoriams taikomus reikalavimus ir pageidaujantiems vykdyti mediatorių veiklą, mediatoriaus statusą Teisėjų tarybos nustatyta tvarka suteikia ir panaikina Teisėjų tarybos sudaryta teisminės mediacijos komisija. 
 
 
 
@@ -475,7 +504,12 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 
-8. Prašymus įrašyti į Lietuvos Respublikos mediatorių sąrašą ir kitus šio straipsnio 3 dalyje nurodytus dokumentus Valstybės garantuojamos teisinės pagalbos tarnybai asmenys gali pateikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą, kaip šis apibrėžtas Lietuvos Respublikos paslaugų įstatyme, arba kreipdamiesi tiesiogiai į Valstybės garantuojamos teisinės pagalbos tarnybą. Apie gautus dokumentus Valstybės garantuojamos teisinės pagalbos tarnyba asmenims praneša raštu ne vėliau kaip per tris darbo dienas nuo dokumentų gavimo dienos.
+8. Prašymus įrašyti į Lietuvos Respublikos mediatorių sąrašą ir kitus šio straipsnio 3 dalyje nurodytus dokumentus Valstybės garantuojamos teisinės pagalbos tarnybai asmenys gali pateikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą, kaip šis apibrėžtas Lietuvos Respublikos paslaugų įstatyme, arba kreipdamiesi tiesiogiai į Valstybės garantuojamos teisinės pagalbos tarnybą. Apie gautus dokumentus Valstybės garantuojamos teisinės pagalbos tarnyba asmenims praneša raštu ne vėliau kaip per tris darbo dienas nuo dokumentų gavimo dienos.
+
+
+
+
+9. Siekdama priimti sprendimus dėl asmenų įrašymo į Lietuvos Respublikos mediatorių sąrašą, Valstybės garantuojamos teisinės pagalbos tarnyba turi teisę tvarkyti šio straipsnio 3 dalyje nurodytus asmenų, siekiančių būti įrašytų į Lietuvos Respublikos mediatorių sąrašą, duomenis.
  
 
 
@@ -537,7 +571,7 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 
-2. Mediatoriai privalo kas penkeri metai pateikti Valstybės garantuojamos teisinės pagalbos tarnybai kvalifikacijos tobulinimą įrodančius dokumentus.
+2. Mediatoriai privalo kas penkeri metai pateikti Valstybės garantuojamos teisinės pagalbos tarnybai kvalifikacijos tobulinimą įrodančius dokumentus. 
 
 
 
@@ -571,7 +605,7 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 
-4) kai paaiškėja, kad mediatorius neatitinka šio įstatymo 6 straipsnio 1 dalyje nustatytų reikalavimų ar šio įstatymo 6 straipsnio 2 dalyje nurodytų aplinkybių;
+4) kai paaiškėja, kad mediatorius neatitinka šio įstatymo 6 straipsnio 1 dalyje nustatytų reikalavimų ar šio įstatymo 6 straipsnio 2 dalyje nurodytų aplinkybių (išskyrus atvejus, kai mediatoriui, kuris yra advokatas, jo prašymu panaikinamas sprendimas pripažinti asmenį advokatu ir kai mediatoriaus, kuris yra notaras ar antstolis, įgaliojimai pasibaigia (jis atleidžiamas iš pareigų) jo pareiškimu ar sulaukus 70 metų);
 
 
 
@@ -588,12 +622,12 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 
-2. Apie šio straipsnio 1 dalyje nurodytą sprendimą išbraukti mediatorių iš Lietuvos Respublikos mediatorių sąrašo asmeniui pranešama raštu ne vėliau kaip per tris darbo dienas nuo sprendimo priėmimo dienos. Kai yra pagrindas išbraukti mediatorių iš Lietuvos Respublikos mediatorių sąrašo nors vienu iš šio straipsnio 1 dalies 3, 4 ir 6 punktuose nurodytų atvejų, mediatorius įspėjamas raštu ir nustatomas dešimties darbo dienų terminas mediatoriaus veiklos trūkumams pašalinti. Mediatorius, kuris per šį dešimties darbo dienų terminą nepašalina nurodytų veiklos trūkumų ar Valstybės garantuojamos teisinės pagalbos tarnybai nepateikia dokumentų, įrodančių, kad mediatoriaus veiklos trūkumai pašalinti, išbraukiamas iš Lietuvos Respublikos mediatorių sąrašo.
+2. Apie šio straipsnio 1 dalyje nurodytą sprendimą išbraukti mediatorių iš Lietuvos Respublikos mediatorių sąrašo asmeniui pranešama raštu ne vėliau kaip per tris darbo dienas nuo sprendimo priėmimo dienos. Kai yra pagrindas išbraukti mediatorių iš Lietuvos Respublikos mediatorių sąrašo nors vienu iš šio straipsnio 1 dalies 3, 4 ir 6 punktuose nurodytų atvejų, mediatorius įspėjamas raštu ir nustatomas dešimt darbo dienų terminas mediatoriaus veiklos trūkumams pašalinti. Mediatorius, kuris per šį dešimt darbo dienų terminą nepašalina nurodytų veiklos trūkumų ar Valstybės garantuojamos teisinės pagalbos tarnybai nepateikia dokumentų, įrodančių, kad mediatoriaus veiklos trūkumai pašalinti, išbraukiamas iš Lietuvos Respublikos mediatorių sąrašo.
 
 
 
 
-3. Sprendimas šio straipsnio 1 dalies 3, 4, 5, 6 punktuose nurodytais pagrindais išbraukti mediatorių iš Lietuvos Respublikos mediatorių sąrašo Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka gali būti skundžiamas teismui.
+3. Sprendimas šio straipsnio 1 dalies 3, 4, 5, 6 punktuose nurodytais pagrindais išbraukti mediatorių iš Lietuvos Respublikos mediatorių sąrašo gali būti skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 
@@ -611,7 +645,7 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 
-3) kai mediatorius, kuris yra teisėjas, atleidžiamas iš teisėjo pareigų;
+3) kai mediatorius, kuris yra teisėjas, atleidžiamas iš teisėjo pareigų (išskyrus atvejus, kai teisėjas atleidžiamas iš pareigų savo noru, pasibaigus įgaliojimų laikui ar sulaukus įstatymų nustatyto pensinio amžiaus);
 
 
 
@@ -662,14 +696,14 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 
-2) išnykus mediatoriaus veiklos sustabdymo pagrindą sudariusioms aplinkybėms – kai mediatoriaus veikla buvo laikinai sustabdyta šio straipsnio 1 dalies 2 punkte nurodytu atveju.
+2) išnykus mediatoriaus veiklos sustabdymo pagrindą sudariusioms aplinkybėms, – kai mediatoriaus veikla buvo laikinai sustabdyta šio straipsnio 1 dalies 2 punkte nurodytu atveju.
 
 
 
 
 
 
-3. Šio straipsnio 1 dalyje nurodytais atvejais Valstybės garantuojamos teisinės pagalbos tarnybos sprendimas laikinai sustabdyti mediatoriaus veiklą priimamas ir apie mediatoriaus veiklos laikiną sustabdymą pažymima Lietuvos Respublikos mediatorių sąraše ne vėliau kaip kitą darbo dieną nuo šio straipsnio 1 dalies 1 punkte nurodyto mediatoriaus prašymo gavimo dienos ar šio straipsnio 1 dalies 2 punkte nurodytos informacijos gavimo dienos. Šio straipsnio 2 dalyje nurodytais atvejais Valstybės garantuojamos teisinės pagalbos tarnybos sprendimas atnaujinti mediatoriaus veiklą priimamas ir žyma apie mediatoriaus veiklos laikiną sustabdymą Lietuvos Respublikos mediatorių sąraše panaikinama ne vėliau kaip kitą darbo dieną nuo šio straipsnio 2 dalies 1 punkte nurodyto mediatoriaus prašymo gavimo dienos ar šio straipsnio 2 dalies 2 punkte nurodytos informacijos gavimo dienos.
+3. Šio straipsnio 1 dalyje nurodytais atvejais Valstybės garantuojamos teisinės pagalbos tarnybos sprendimas laikinai sustabdyti mediatoriaus veiklą priimamas ir apie mediatoriaus veiklos laikiną sustabdymą pažymima Lietuvos Respublikos mediatorių sąraše ne vėliau kaip kitą darbo dieną nuo šio straipsnio 1 dalies 1 punkte nurodyto mediatoriaus prašymo gavimo dienos ar šio straipsnio 1 dalies 2 punkte nurodytos informacijos gavimo dienos. Šio straipsnio 2 dalyje nurodytais atvejais Valstybės garantuojamos teisinės pagalbos tarnybos sprendimas atnaujinti mediatoriaus veiklą priimamas ir žyma apie mediatoriaus veiklos laikiną sustabdymą Lietuvos Respublikos mediatorių sąraše panaikinama ne vėliau kaip kitą darbo dieną nuo šio straipsnio 2 dalies 1 punkte nurodyto mediatoriaus prašymo gavimo dienos ar šio straipsnio 2 dalies 2 punkte nurodytos informacijos gavimo dienos.
 
 
 
@@ -679,7 +713,7 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 
-5. Sprendimas šio straipsnio 1 dalies 2 punkte nurodytu pagrindu laikinai sustabdyti mediatoriaus veiklą Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka gali būti skundžiamas teismui.
+5. Sprendimas šio straipsnio 1 dalies 2 punkte nurodytu pagrindu laikinai sustabdyti mediatoriaus veiklą gali būti skundžiamas Administracinių bylų teisenos įstatymo nustatyta tvarka.
  
 
 
@@ -695,7 +729,7 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 
-2. Kai yra gauta ne mažiau kaip dešimt prašymų laikyti mediatorių kvalifikacinį egzaminą, Valstybės garantuojamos teisinės pagalbos tarnyba ne vėliau kaip per vieną mėnesį nuo paskutinio iš šių prašymų gavimo dienos organizuoja mediatorių kvalifikacinį egzaminą. Kai yra gauta mažiau kaip dešimt prašymų laikyti mediatorių kvalifikacinį egzaminą, mediatorių kvalifikacinis egzaminas rengiamas ne rečiau kaip kartą per vienus metus.
+2. Kai yra gauta ne mažiau kaip dešimt prašymų laikyti mediatorių kvalifikacinį egzaminą, Valstybės garantuojamos teisinės pagalbos tarnyba ne vėliau kaip per vieną mėnesį nuo paskutinio iš šių prašymų gavimo dienos organizuoja mediatorių kvalifikacinį egzaminą. Kai yra gauta mažiau kaip dešimt prašymų laikyti mediatorių kvalifikacinį egzaminą, mediatorių kvalifikacinis egzaminas rengiamas ne rečiau kaip kartą per pusę metų.
 
 
 
@@ -705,7 +739,7 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 
-4. Mediatorių kvalifikacinį egzaminą vykdo mediatorių kvalifikacinio egzamino komisija. Mediatorių kvalifikacinio egzamino komisijos nuostatus ir sudėtį tvirtina teisingumo ministras.
+4. Mediatorių kvalifikacinį egzaminą vykdo mediatorių kvalifikacinio egzamino komisija. Mediatorių kvalifikacinio egzamino komisijos nuostatus ir sudėtį tvirtina teisingumo ministras. Mediatorių kvalifikacinio egzamino komisijos narių darbas mediatorių kvalifikacinio egzamino komisijoje apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
 
 
 
@@ -721,24 +755,24 @@ MEDIACIJOS PASLAUGŲ TEIKIMO REIKALAVIMAI IR REIKALAVIMAI ASMENIMS, SIEKIANTIEMS
 
 
 III SKYRIUS
-SUSITARIMAS DĖL MEDIACIJOS IR MEDIATORIŲ SKYRIMAS
+SUSITARIMAS DĖL CIVILINIŲ GINČŲ MEDIACIJOS IR MEDIATORIŲ SKYRIMAS 
  
 
 
-12 straipsnis. Susitarimas dėl mediacijos
+12 straipsnis. Susitarimas dėl civilinių ginčų mediacijos
 
 
-1. Mediacija taikoma ginčo šalių rašytiniu susitarimu. Ginčo šalys dėl mediacijos gali susitarti tiek kilus ginčui, tiek iš anksto, kai ginčo dar nėra. Gali būti susitariama taikyti mediaciją tik dėl tokio ginčo, dėl kurio pagal įstatymus leidžiama ginčo šalims sudaryti taikos sutartį.
-
-
-
-
-2. Ginčo šalys, kurios yra susitarusios ginčą spręsti mediacijos būdu, turi prieš kreipdamosi į teismą arba arbitražą bandyti ginčą išspręsti šiuo būdu. Jeigu susitarime dėl mediacijos nustatytas mediacijos pabaigos terminas, ginčo šalis gali kreiptis į teismą arba arbitražą tik suėjus šiam terminui. Kai mediacijos pabaigos terminas susitarime dėl mediacijos nenustatytas, ginčo šalis gali kreiptis į teismą arba arbitražą praėjus penkiolikai darbo dienų po to, kai raštu pasiūlė kitai ginčo šaliai išspręsti ginčą mediacijos būdu. Ginčo šalis gali kreiptis į teismą, nesilaikydama šioje dalyje nustatytų terminų, jeigu mediacija pasibaigia pagal šio įstatymo 19 straipsnį.
+1. Civilinių ginčų mediacija taikoma civilinio ginčo šalių (toliau šiame, IV, V ir VI skyriuose – ginčo šalys) rašytiniu susitarimu. Ginčo šalys dėl mediacijos gali susitarti tiek kilus civiliniam ginčui, tiek iš anksto, kai civilinio ginčo dar nėra. Gali būti susitariama taikyti mediaciją tik dėl tokio civilinio ginčo, dėl kurio pagal įstatymus leidžiama ginčo šalims sudaryti taikos sutartį.
 
 
 
 
-3. Civilinę bylą nagrinėjantis teismas gali pasiūlyti ginčo šalims bandyti ginčą spręsti teisminės mediacijos būdu. Jei ginčo šalys su tokiu pasiūlymu sutinka, teismas atideda bylos nagrinėjimą.
+2. Ginčo šalys, kurios yra susitarusios civilinį ginčą spręsti mediacijos būdu, turi prieš kreipdamosi į teismą arba arbitražą bandyti civilinį ginčą išspręsti šiuo būdu. Jeigu susitarime dėl mediacijos nustatytas mediacijos pabaigos terminas, ginčo šalis gali kreiptis į teismą arba arbitražą tik suėjus šiam terminui. Kai mediacijos pabaigos terminas susitarime dėl mediacijos nenustatytas, ginčo šalis gali kreiptis į teismą arba arbitražą praėjus penkiolikai darbo dienų po to, kai raštu pasiūlė kitai ginčo šaliai išspręsti civilinį ginčą mediacijos būdu. Ginčo šalis gali kreiptis į teismą, nesilaikydama šioje dalyje nustatytų terminų, jeigu mediacija pasibaigia pagal šio įstatymo 19 straipsnį.
+
+
+
+
+3. Civilinę bylą nagrinėjantis teismas gali pasiūlyti ginčo šalims bandyti civilinį ginčą spręsti teisminės mediacijos būdu. Jei ginčo šalys su tokiu pasiūlymu sutinka, teismas atideda bylos nagrinėjimą.
  
 
 
@@ -754,7 +788,7 @@ SUSITARIMAS DĖL MEDIACIJOS IR MEDIATORIŲ SKYRIMAS
 
 
 
-2. Šiame įstatyme numatytais atvejais skiriant mediatorių, turi būti mediatoriaus rašytinis sutikimas. 
+2. Šiame įstatyme nurodytais atvejais skiriant mediatorių, turi būti mediatoriaus rašytinis sutikimas. 
 
 
 
@@ -785,7 +819,7 @@ SUSITARIMAS DĖL MEDIACIJOS IR MEDIATORIŲ SKYRIMAS
 
 
 
-3. Kai dėl mediatoriaus skyrimo šiame ar kituose įstatymuose numatytais atvejais kreipiasi ne ginčo šalys, Valstybės garantuojamos teisinės pagalbos tarnyba nedelsdama praneša ginčo šalims apie galimybę nurodyti pageidaujamą paskirti konkretų į Lietuvos Respublikos mediatorių sąrašą įrašytą mediatorių. Jei ginčo šalys pageidauja, kad būtų paskirtas konkretus mediatorius, jos turi per tris darbo dienas nuo šioje dalyje nurodyto Valstybės garantuojamos teisinės pagalbos tarnybos pranešimo gavimo dienos informuoti Valstybės garantuojamos teisinės pagalbos tarnybą apie šalių suderintą pageidaujamo mediatoriaus kandidatūrą. 
+3. Kai dėl mediatoriaus skyrimo šiame ar kituose įstatymuose nurodytais atvejais kreipiasi ne ginčo šalys, Valstybės garantuojamos teisinės pagalbos tarnyba nedelsdama praneša ginčo šalims apie galimybę nurodyti pageidaujamą paskirti konkretų į Lietuvos Respublikos mediatorių sąrašą įrašytą mediatorių. Jei ginčo šalys pageidauja, kad būtų paskirtas konkretus mediatorius, jos turi per tris darbo dienas nuo šioje dalyje nurodyto Valstybės garantuojamos teisinės pagalbos tarnybos pranešimo gavimo dienos informuoti Valstybės garantuojamos teisinės pagalbos tarnybą apie ginčo šalių suderintą pageidaujamo mediatoriaus kandidatūrą. 
 
 
 
@@ -811,19 +845,19 @@ SUSITARIMAS DĖL MEDIACIJOS IR MEDIATORIŲ SKYRIMAS
 
 
 IV SKYRIUS
-MEDIACIJOS VYKDYMAS
+CIVILINIŲ GINČŲ MEDIACIJOS VYKDYMAS 
  
 
 
 15 straipsnis. Mediacijos vykdymas
 
 
-1. Ginčo šalys ir mediatorius gali susitarti dėl mediacijos pobūdžio ir tvarkos, nurodydamos pasirinktą taisyklių rinkinį arba bendru sutarimu nustatydamos atskiras mediacijos taisykles. Mediacijos metu gali būti naudojamos informacinės ir elektroninių ryšių technologijos.
+1. Ginčo šalys ir mediatorius gali susitarti dėl civilinio ginčo mediacijos pobūdžio ir tvarkos, nurodydamos pasirinktą taisyklių rinkinį arba bendru sutarimu nustatydamos atskiras mediacijos taisykles. Civilinių ginčų mediacijos metu gali būti naudojamos informacinės ir elektroninių ryšių technologijos.
 
 
 
 
-2. Jeigu ginčo šalys ir mediatorius nesusitaria dėl mediacijos pobūdžio ir tvarkos ar ginčo šalių susitarime nenustatyti konkretūs mediatoriaus veiksmai, mediatorius konkrečius veiksmus turi atlikti tinkamai, atsižvelgdamas į ginčo aplinkybes, įskaitant galimą ginčo šalių jėgų disbalansą, ginčo šalių pageidavimus ir poreikį greitai išspręsti ginčą, ir vadovaudamasis šiuo įstatymu ir kitais teisės aktais, reglamentuojančiais mediaciją.
+2. Jeigu ginčo šalys ir mediatorius nesusitaria dėl civilinio ginčo mediacijos pobūdžio ir tvarkos ar ginčo šalių susitarime nenustatyti konkretūs mediatoriaus veiksmai, mediatorius konkrečius veiksmus turi atlikti tinkamai, atsižvelgdamas į civilinio ginčo aplinkybes, įskaitant galimą ginčo šalių jėgų disbalansą, ginčo šalių pageidavimus ir poreikį greitai išspręsti ginčą, ir vadovaudamasis šiuo įstatymu ir kitais teisės aktais, reglamentuojančiais mediaciją.
 
 
 
@@ -833,17 +867,17 @@ MEDIACIJOS VYKDYMAS
 
 
 
-4. Mediacijos metu gali dalyvauti tik ginčo šalys, jų atstovai ir mediatorius. Ginčo šalių prašymu arba sutikimu mediacijos metu gali dalyvauti ir kiti asmenys. Mediatorius, nustatęs, kad yra ir daugiau sprendžiamo ginčo šalių, pasiūlo šioje ginčų sprendimo procedūroje dalyvaujančioms ginčo šalims įtraukti kitas ginčo šalis į ginčo sprendimą mediacijos būdu. Kitas ginčo šalis į ginčo sprendimą mediacijos būdu bendru sutarimu įtraukia mediacijos procedūroje dalyvaujančios ginčo šalys arba mediacijos procedūroje dalyvaujančių ginčo šalių bendru sutikimu – mediatorius. Mediatorius, nustatęs, kad yra vaikų ar kitų asmenų, kurių interesai įstatymų nustatyta tvarka privalo būti apsaugoti sprendžiant ginčą, gali įtraukti vaikus ar kitus asmenis į ginčo sprendimą mediacijos būdu.
+4. Civilinio ginčo mediacijos metu gali dalyvauti tik ginčo šalys, jų atstovai ir mediatorius. Ginčo šalių prašymu arba sutikimu civilinio ginčo mediacijos metu gali dalyvauti ir kiti asmenys. Mediatorius, nustatęs, kad yra ir daugiau sprendžiamo ginčo šalių, pasiūlo šioje civilinių ginčų sprendimo procedūroje dalyvaujančioms ginčo šalims įtraukti kitas ginčo šalis į ginčo sprendimą mediacijos būdu. Kitas ginčo šalis į civilinio ginčo sprendimą mediacijos būdu bendru sutarimu įtraukia mediacijos procedūroje dalyvaujančios ginčo šalys arba mediacijos procedūroje dalyvaujančių ginčo šalių bendru sutikimu – mediatorius. Mediatorius, nustatęs, kad yra vaikų ar kitų asmenų, kurių interesai įstatymų nustatyta tvarka privalo būti apsaugoti sprendžiant civilinį ginčą, gali įtraukti vaikus ar kitus asmenis į civilinio ginčo sprendimą mediacijos būdu.
 
 
 
 
-5. Bet kuri ginčo šalis gali pasitraukti iš mediacijos, nenurodydama pasitraukimo priežasčių. Tai neužkerta kelio ginčo šalims pakartotinai susitarti dėl ginčo sprendimo mediacijos būdu.
+5. Bet kuri ginčo šalis gali pasitraukti iš mediacijos, nenurodydama pasitraukimo priežasčių. Tai neužkerta kelio ginčo šalims pakartotinai susitarti dėl civilinio ginčo sprendimo mediacijos būdu.
 
 
 
 
-6. Mediatorius turi pranešti ginčo šalims ir nutraukti mediaciją, jeigu taikus susitarimas, kuris gali būti ginčo šalių pasiektas, mediatoriaus manymu, atsižvelgiant į ginčo aplinkybes ir mediatoriaus kompetenciją, bus neįvykdomas ar neteisėtas arba jeigu mediatorius pripažįsta, kad mažai tikėtina, kad tęsiant mediaciją ginčas bus išspręstas taikiai.
+6. Mediatorius turi pranešti ginčo šalims ir nutraukti mediaciją, jeigu taikus susitarimas, kuris gali būti ginčo šalių pasiektas, mediatoriaus manymu, atsižvelgiant į civilinio ginčo aplinkybes ir mediatoriaus kompetenciją, bus neįvykdomas ar neteisėtas arba jeigu mediatorius pripažįsta, kad mažai tikėtina, kad tęsiant mediaciją civilinis ginčas bus išspręstas taikiai.
  
 
 
@@ -854,17 +888,17 @@ MEDIACIJOS VYKDYMAS
 16 straipsnis. Taikos sutartis
 
 
-1. Mediacijos metu sudaromoms taikos sutartims taikomi Lietuvos Respublikos civiliniame kodekse ir kituose įstatymuose nustatyti reikalavimai.
+1. Civilinių ginčų mediacijos metu sudaromoms taikos sutartims taikomi Lietuvos Respublikos civiliniame kodekse ir kituose įstatymuose nustatyti reikalavimai.
 
 
 
 
-2. Mediacijos metu ginčo šalių sudaryta taikos sutartis ginčo šalims turi įstatymo galią.
+2. Civilinio ginčo mediacijos metu ginčo šalių sudaryta taikos sutartis ginčo šalims turi įstatymo galią.
 
 
 
 
-3. Kai ginčas, kuris sprendžiamas mediacijos būdu, nėra tuo pačiu metu nagrinėjamas teisme, ginčo šalių bendru prašymu arba vienos iš ginčo šalių prašymu, kai yra gautas kitos ginčo šalies rašytinis sutikimas, taikos sutartis gali būti pateikta teismui tvirtinti Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta supaprastinto proceso tvarka. Prašymas dėl taikos sutarties patvirtinimo paduodamas ginčo šalių pasirinkimu vienos iš ginčo šalies gyvenamosios vietos arba buveinės apylinkės teismui. Įsiteisėjusia teismo nutartimi patvirtinta taikos sutartis ginčo šalims įgyja galutinio teismo sprendimo (res judicata) galią ir gali būti vykdoma priverstinai.
+3. Kai civilinis ginčas, kuris sprendžiamas mediacijos būdu, nėra tuo pačiu metu nagrinėjamas teisme, ginčo šalių bendru prašymu arba vienos iš ginčo šalių prašymu, kai yra gautas kitos ginčo šalies rašytinis sutikimas, taikos sutartis gali būti pateikta teismui tvirtinti Civilinio proceso kodekso XXXIX skyriuje nustatyta supaprastinto proceso tvarka. Prašymas dėl taikos sutarties patvirtinimo paduodamas ginčo šalių pasirinkimu vienos iš ginčo šalies gyvenamosios vietos arba buveinės apylinkės teismui. Įsiteisėjusia teismo nutartimi patvirtinta taikos sutartis ginčo šalims įgyja galutinio teismo sprendimo (res judicata) galią ir gali būti vykdoma priverstinai.
  
 
 
@@ -875,7 +909,7 @@ MEDIACIJOS VYKDYMAS
 17 straipsnis. Konfidencialumas
 
 
-1. Jeigu ginčo šalys nesusitarė kitaip, ginčo šalys, mediatoriai ir mediacijos paslaugų administratoriai turi laikyti paslaptyje visą mediacijos ir su ja susijusią informaciją, išskyrus informaciją, kurios reikia siekiant patvirtinti ar įvykdyti mediacijos metu sudarytą taikos sutartį, ir informaciją, kurios neatskleidimas prieštarautų viešajam interesui (ypač kai reikia užtikrinti vaiko interesus arba užkirsti kelią žalos fizinio asmens sveikatai ar gyvybei atsiradimui). Ši nuostata taip pat taikoma teismo, arbitražo ir kitoms ginčų sprendimo procedūroms, tiek susijusioms su ginču, kuris buvo sprendžiamas mediacijos būdu, tiek nesusijusioms.
+1. Jeigu ginčo šalys nesusitarė kitaip, ginčo šalys, mediatoriai ir mediacijos paslaugų administratoriai turi laikyti paslaptyje visą civilinio ginčo mediacijos ir su ja susijusią informaciją, išskyrus informaciją, kurios reikia siekiant patvirtinti ar įvykdyti mediacijos metu sudarytą taikos sutartį, ir informaciją, kurios neatskleidimas prieštarautų viešajam interesui (ypač kai reikia užtikrinti vaiko interesus arba užkirsti kelią žalos fizinio asmens sveikatai ar gyvybei atsiradimui). Ši nuostata taip pat taikoma teismo, arbitražo ir kitoms civilinių ginčų sprendimo procedūroms, tiek susijusioms su civiliniu ginču, kuris buvo sprendžiamas mediacijos būdu, tiek nesusijusioms.
 
 
 
@@ -885,7 +919,7 @@ MEDIACIJOS VYKDYMAS
 
 
 
-3. Už šio straipsnio 1 ir 2 dalyse nustatytų pareigų neatlikimą ar netinkamą atlikimą mediatoriai ir mediacijos paslaugų administratoriai atsako šio įstatymo ir Lietuvos Respublikos civilinio kodekso nustatyta tvarka.
+3. Už šio straipsnio 1 ir 2 dalyse nustatytų pareigų neatlikimą ar netinkamą atlikimą mediatoriai ir mediacijos paslaugų administratoriai atsako šio įstatymo ir Civilinio kodekso nustatyta tvarka.
  
 
 
@@ -896,34 +930,31 @@ MEDIACIJOS VYKDYMAS
 18 straipsnis. Ieškinio senaties terminų sustabdymas
 
 
-1. Pradėjus mediaciją, ieškinio senaties terminai sustabdomi.
+1. Pradėjus civilinio ginčo mediaciją, ieškinio senaties terminai sustabdomi.
 
 
 
 
-2. Mediacijos pradžios momentu ieškinio senaties terminų sustabdymo tikslais laikoma diena, kurią viena ginčo šalis tiesiogiai arba per kitą asmenį (atstovą, mediatorių, mediacijos paslaugų administratorių ar kitą įgaliotą asmenį) išsiunčia kitai ginčo šaliai rašytinį pasiūlymą dėl ginčo sprendimo mediacijos būdu, taip pat diena, kurią viena ginčo šalis ar abi ginčo šalys kreipiasi į Valstybės garantuojamos teisinės pagalbos tarnybą dėl privalomosios mediacijos.
-Straipsnio dalies pakeitimai:
-Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
+2. Civilinio ginčo mediacijos pradžios momentu ieškinio senaties terminų sustabdymo tikslais laikoma diena, kurią viena ginčo šalis tiesiogiai arba per kitą asmenį (atstovą, mediatorių, mediacijos paslaugų administratorių ar kitą įgaliotą asmenį) išsiunčia kitai ginčo šaliai rašytinį pasiūlymą dėl ginčo sprendimo mediacijos būdu, taip pat diena, kurią viena ginčo šalis ar abi ginčo šalys kreipiasi į Valstybės garantuojamos teisinės pagalbos tarnybą dėl privalomosios mediacijos.
+
+
+
+
+3. Civilinio ginčo mediacijai pasibaigus be taikos sutarties, ieškinio senaties terminas tęsiasi. Šiuo atveju likusi termino dalis pratęsiama Civilinio kodekso 1.129 straipsnio 3 dalyje nustatyta tvarka.
  
 
 
 
 
-3. Mediacijai pasibaigus be taikos sutarties, ieškinio senaties terminas tęsiasi. Šiuo atveju likusi termino dalis pratęsiama Lietuvos Respublikos civilinio kodekso 1.129 straipsnio 3 dalyje nustatyta tvarka.
- 
 
 
+19 straipsnis. Civilinio ginčo mediacijos pabaiga
 
 
+Civilinio ginčo mediacijos pabaigos diena laikoma:
 
 
-19 straipsnis. Mediacijos pabaiga
-
-
-Mediacijos pabaigos diena laikoma:
-
-
-1) ginčo šalies rašytinio pareiškimo dėl nesutikimo spręsti ginčą mediacijos būdu gavimo diena. Jeigu ginčo šalys nebuvo sudariusios susitarimo dėl mediacijos ir viena ginčo šalis pateikė kitai ginčo šaliai šio įstatymo 18 straipsnio 2 dalyje nurodytą pasiūlymą, laikoma, kad mediacija yra baigta anksčiausiu iš šių momentų: pasiūlymą gavusios ginčo šalies rašytinio pareiškimo dėl nesutikimo spręsti ginčą mediacijos būdu gavimo dieną arba praėjus penkiolikai darbo dienų nuo to pasiūlymo išsiuntimo dienos, jeigu kita ginčo šalis per šį terminą raštu nepareiškė sutikimo ginčą spręsti mediacijos būdu;
+1) ginčo šalies rašytinio pareiškimo dėl nesutikimo spręsti civilinį ginčą mediacijos būdu gavimo diena. Jeigu ginčo šalys nebuvo sudariusios susitarimo dėl mediacijos ir viena ginčo šalis pateikė kitai ginčo šaliai šio įstatymo 18 straipsnio 2 dalyje nurodytą pasiūlymą, laikoma, kad mediacija yra baigta anksčiausiu iš šių momentų: pasiūlymą gavusios ginčo šalies rašytinio pareiškimo dėl nesutikimo spręsti civilinį ginčą mediacijos būdu gavimo dieną arba praėjus penkiolikai darbo dienų nuo to pasiūlymo išsiuntimo dienos, jeigu kita ginčo šalis per šį terminą raštu nepareiškė sutikimo civilinį ginčą spręsti mediacijos būdu;
 
 
 
@@ -963,10 +994,10 @@ PRIVALOMOSIOS MEDIACIJOS YPATUMAI
 20 straipsnis. Privalomosios mediacijos atvejai
 
 
-Privalomoji mediacija taikoma sprendžiant šiuos ginčus: 
+Privalomoji mediacija taikoma sprendžiant šiuos civilinius ginčus: 
 
 
-1) šeimos ginčus, nagrinėjamus ginčo teisena Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka;
+1) šeimos ginčus, nagrinėjamus ginčo teisena Civilinio proceso kodekso nustatyta tvarka;
 
 
 
@@ -989,17 +1020,17 @@ Privalomoji mediacija taikoma sprendžiant šiuos ginčus:
 
 
 
-2. Kai privalomoji mediacija inicijuojama ginčo šalių bendru sutarimu, ginčo šalys turi Valstybės garantuojamos teisinės pagalbos tarnybai paduoti bendrą prašymą dėl mediatoriaus skyrimo šio įstatymo 14 straipsnyje nustatyta tvarka arba savo pasirinktam mediatoriui, įrašytam į Lietuvos Respublikos mediatorių sąrašą, paduoti bendrą prašymą vykdyti mediaciją šio įstatymo 13 straipsnyje nustatyta tvarka. 
+2. Kai privalomoji mediacija inicijuojama ginčo šalių bendru sutarimu, ginčo šalys turi Valstybės garantuojamos teisinės pagalbos tarnybai paduoti bendrą prašymą dėl mediatoriaus skyrimo šio įstatymo 14 straipsnyje nustatyta tvarka arba savo pasirinktam mediatoriui, įrašytam į Lietuvos Respublikos mediatorių sąrašą, paduoti bendrą prašymą vykdyti mediaciją šio įstatymo 13 straipsnyje nustatyta tvarka. 
 
 
 
 
-3. Kai privalomąją mediaciją inicijuoja viena iš ginčo šalių, ši ginčo šalis turi Valstybės garantuojamos teisinės pagalbos tarnybai paduoti prašymą dėl mediatoriaus skyrimo šio įstatymo 14 straipsnyje nustatyta tvarka arba savo pasirinktam mediatoriui, įrašytam į Lietuvos Respublikos mediatorių sąrašą, paduoti prašymą vykdyti mediaciją šio įstatymo 13 straipsnyje nustatyta tvarka. Ginčo šalies prašyme turi būti nurodyta kitos ginčo šalies vardas, pavardė, ginčo dalykas, gyvenamosios vietos ar kitos dokumentų įteikimo vietos adresas, o kai kita ginčo šalis yra juridinis asmuo, – juridinio asmens pavadinimas, buveinės ar kitos dokumentų įteikimo vietos adresas.
+3. Kai privalomąją mediaciją inicijuoja viena iš ginčo šalių, ši ginčo šalis turi Valstybės garantuojamos teisinės pagalbos tarnybai paduoti prašymą dėl mediatoriaus skyrimo šio įstatymo 14 straipsnyje nustatyta tvarka arba savo pasirinktam mediatoriui, įrašytam į Lietuvos Respublikos mediatorių sąrašą, paduoti prašymą vykdyti mediaciją šio įstatymo 13 straipsnyje nustatyta tvarka. Ginčo šalies prašyme turi būti nurodyta kitos ginčo šalies vardas, pavardė, ginčo dalykas, gyvenamosios vietos ar kitos dokumentų įteikimo vietos adresas, o kai kita ginčo šalis yra juridinis asmuo, – juridinio asmens pavadinimas, buveinės ar kitos dokumentų įteikimo vietos adresas.
 
 
 
 
-4. Valstybės garantuojamos teisinės pagalbos tarnyba arba mediatorius, gavę šio straipsnio 3 dalyje nurodytą ginčo šalies prašymą, ne vėliau kaip per tris darbo dienas nuo jo gavimo dienos išsiunčia kitai ginčo šaliai pranešimą apie gautą prašymą, kartu nurodydami, kad ne vėliau kaip per penkiolika darbo dienų nuo pranešimo išsiuntimo dienos turi būti gautas kitos ginčo šalies sutikimas dėl mediacijos vykdymo.
+4. Valstybės garantuojamos teisinės pagalbos tarnyba arba mediatorius, gavę šio straipsnio 3 dalyje nurodytą ginčo šalies prašymą, ne vėliau kaip per tris darbo dienas nuo jo gavimo dienos išsiunčia kitai ginčo šaliai pranešimą apie gautą prašymą, kartu nurodydami, kad ne vėliau kaip per penkiolika darbo dienų nuo pranešimo išsiuntimo dienos turi būti gautas kitos ginčo šalies sutikimas dėl mediacijos vykdymo.
 
 
 
@@ -1020,7 +1051,7 @@ Privalomoji mediacija taikoma sprendžiant šiuos ginčus:
 22 straipsnis. Privalomosios mediacijos paslaugų apmokėjimas
 
 
-1. Tais atvejais, kai mediatorių privalomajai mediacijai iš Lietuvos Respublikos mediatorių sąrašo parenka ir skiria Valstybės garantuojamos teisinės pagalbos tarnyba šio įstatymo 14 straipsnyje nustatyta tvarka, mediacijos paslaugas apmoka Valstybės garantuojamos teisinės pagalbos tarnyba iš valstybės biudžeto lėšų. Šiais atvejais iš valstybės biudžeto lėšų apmokama tik už vieno mediatoriaus teikiamas mediacijos paslaugas. Jeigu ginčo šalys pageidauja, kad privalomąją mediaciją vykdytų keli mediatoriai, už kitų mediatorių teikiamas mediacijos paslaugas apmokama ginčo šalių lėšomis, o mediacijos paslaugų kaina nustatoma ginčo šalių ir mediatoriaus susitarimu.
+1. Tais atvejais, kai mediatorių privalomajai mediacijai iš Lietuvos Respublikos mediatorių sąrašo parenka ir skiria Valstybės garantuojamos teisinės pagalbos tarnyba šio įstatymo 14 straipsnyje nustatyta tvarka, už mediacijos paslaugas apmoka Valstybės garantuojamos teisinės pagalbos tarnyba iš valstybės biudžeto lėšų. Šiais atvejais iš valstybės biudžeto lėšų apmokama tik už vieno mediatoriaus teikiamas mediacijos paslaugas. Jeigu ginčo šalys pageidauja, kad privalomąją mediaciją vykdytų keli mediatoriai, už kitų mediatorių teikiamas mediacijos paslaugas apmokama ginčo šalių lėšomis, o mediacijos paslaugų kaina nustatoma ginčo šalių ir mediatoriaus susitarimu.
 
 
 
@@ -1046,49 +1077,49 @@ Privalomoji mediacija taikoma sprendžiant šiuos ginčus:
 
 
 VI SKYRIUS
-TEISMINĖS MEDIACIJOS YPATUMAI
+TEISMINĖS CIVILINIŲ GINČŲ MEDIACIJOS YPATUMAI 
  
 
 
-23 straipsnis. Teisminės mediacijos vykdymas
+23 straipsnis. Teisminės civilinių ginčų mediacijos vykdymas
 
 
-1. Teisminė mediacija vykdoma vadovaujantis šiuo įstatymu, kitais įstatymais ir Teisėjų tarybos nustatyta tvarka. 
-
-
-
-
-2. Teisminę mediaciją vykdo mediatoriai, įrašyti į Lietuvos Respublikos mediatorių sąrašą. Mediatoriai, kurie yra teisėjai, gali vykdyti tik teisminę mediaciją.
+1. Teisminė civilinių ginčų mediacija vykdoma vadovaujantis šiuo įstatymu, kitais įstatymais ir Teisėjų tarybos nustatyta tvarka. 
 
 
 
 
-3. Spręsti teisminės mediacijos būdu gali būti perduodama ir dalis byloje pareikštų reikalavimų.
+2. Teisminę civilinių ginčų mediaciją vykdo mediatoriai, įrašyti į Lietuvos Respublikos mediatorių sąrašą. Mediatoriai, kurie yra teisėjai, gali vykdyti tik teisminę mediaciją.
 
 
 
 
-4. Teisminės mediacijos metu gali dalyvauti tik ginčo šalys, jų atstovai ir mediatorius. Ginčo šalių prašymu arba sutikimu teisminės mediacijos metu gali dalyvauti ir kiti asmenys.
+3. Spręsti teisminės civilinių ginčų mediacijos būdu gali būti perduodama ir dalis byloje pareikštų reikalavimų.
 
 
 
 
-5. Teisminė mediacija vyksta teismo patalpose arba kitoje mediatoriaus su ginčo šalimis suderintoje vietoje. Teisminės mediacijos metu gali būti naudojamos informacinės ir elektroninių ryšių technologijos.
+4. Teisminės civilinių ginčų mediacijos metu gali dalyvauti tik ginčo šalys, jų atstovai ir mediatorius. Ginčo šalių prašymu arba sutikimu teisminės mediacijos metu gali dalyvauti ir kiti asmenys.
 
 
 
 
-6. Bet kuri ginčo šalis gali pasitraukti iš teisminės mediacijos, nenurodydama pasitraukimo priežasčių. Tai neužkerta kelio ginčo šalims pakartotinai susitarti dėl ginčo sprendimo teisminės mediacijos būdu.
+5. Teisminė civilinių ginčų mediacija vyksta teismo patalpose arba kitoje mediatoriaus su ginčo šalimis suderintoje vietoje. Teisminės civilinių ginčų mediacijos metu gali būti naudojamos informacinės ir elektroninių ryšių technologijos.
 
 
 
 
-7. Kai teisminės mediacijos paslaugas teikia mediatoriai, kurie yra teisėjai, jiems atskiras atlyginimas už mediacijos paslaugas nemokamas ir ginčo šalims teisminės mediacijos paslaugos teikiamos nemokamai. Tais atvejais, kai mediatorių teisminei mediacijai vykdyti iš Lietuvos Respublikos mediatorių sąrašo parenka ir skiria Valstybės garantuojamos teisinės pagalbos tarnyba šio įstatymo 14 straipsnyje nustatyta tvarka, teisminės mediacijos paslaugas apmoka Valstybės garantuojamos teisinės pagalbos tarnyba iš valstybės biudžeto lėšų. Šiuo atveju teisminė mediacija gali būti vykdoma iki keturių valandų. Jeigu pasibaigus šiam laikui galutinis susitarimas dėl taikaus ginčo sprendimo dar nepasiektas, ginčo šalys gali toliau savanoriškai tęsti teisminę mediaciją ginčo šalių lėšomis. Iš valstybės biudžeto lėšų taip pat apmokama už mediatoriaus pasirengimą teisminei mediacijai, kuris gali trukti iki vienos valandos, ir mediacijos rezultatų įforminimą, kuris gali trukti iki vienos valandos. Už suteiktas teisminės mediacijos paslaugas mediatoriams iš valstybės biudžeto mokamo atlyginimo dydžius ir mokėjimo tvarką nustato Vyriausybė.
+6. Bet kuri ginčo šalis gali pasitraukti iš teisminės civilinių ginčų mediacijos, nenurodydama pasitraukimo priežasčių. Tai neužkerta kelio ginčo šalims pakartotinai susitarti dėl ginčo sprendimo teisminės civilinių ginčų mediacijos būdu.
 
 
 
 
-8. Teismai turi skirti patalpas teisminei mediacijai vykdyti. Ginčo šalių ir mediatoriaus susitarimu teisminė mediacija gali būti vykdoma ir kitose patalpose.
+7. Kai teisminės civilinių ginčų mediacijos paslaugas teikia mediatoriai, kurie yra teisėjai, jiems atskiras atlyginimas už mediacijos paslaugas nemokamas ir ginčo šalims teisminės civilinių ginčų mediacijos paslaugos teikiamos nemokamai. Tais atvejais, kai mediatorių teisminei civilinių ginčų mediacijai vykdyti iš Lietuvos Respublikos mediatorių sąrašo parenka ir skiria Valstybės garantuojamos teisinės pagalbos tarnyba šio įstatymo 14 straipsnyje nustatyta tvarka, už teisminės civilinių ginčų mediacijos paslaugas apmoka Valstybės garantuojamos teisinės pagalbos tarnyba iš valstybės biudžeto lėšų. Šiuo atveju teisminė civilinių ginčų mediacija gali būti vykdoma iki keturių valandų. Jeigu pasibaigus šiam laikui galutinis susitarimas dėl taikaus ginčo sprendimo dar nepasiektas, ginčo šalys gali toliau savanoriškai tęsti teisminę civilinių ginčų mediaciją ginčo šalių lėšomis. Iš valstybės biudžeto lėšų taip pat apmokama už mediatoriaus pasirengimą teisminei civilinių ginčų mediacijai, kuris gali trukti iki vienos valandos, ir mediacijos rezultatų įforminimą, kuris gali trukti iki vienos valandos. Už suteiktas teisminės civilinių ginčų mediacijos paslaugas mediatoriams iš valstybės biudžeto mokamo atlyginimo dydžius ir mokėjimo tvarką nustato Vyriausybė.
+
+
+
+
+8. Teismai turi skirti patalpas teisminei civilinių ginčų mediacijai vykdyti. Ginčo šalių ir mediatoriaus susitarimu teisminė civilinių ginčų mediacija gali būti vykdoma ir kitose patalpose.
  
 
 
@@ -1099,7 +1130,7 @@ TEISMINĖS MEDIACIJOS YPATUMAI
 24 straipsnis. Mediatorių parinkimas ir skyrimas
 
 
-Mediatoriai vykdyti teisminę mediaciją parenkami ir skiriami Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+Mediatoriai vykdyti teisminę civilinių ginčų mediaciją parenkami ir skiriami Civilinio proceso kodekso nustatyta tvarka.
  
 
 
@@ -1110,11 +1141,136 @@ Mediatoriai vykdyti teisminę mediaciją parenkami ir skiriami Lietuvos Respubli
 
 
 VII SKYRIUS
+ADMINISTRACINIŲ GINČŲ MEDIATORIŲ SKYRIMAS IR ADMINISTRACINIŲ GINČŲ MEDIACIJOS VYKDYMAS 
+ 
+
+
+25 straipsnis. Administracinių ginčų mediacijos inicijavimas ir mediatorių skyrimas 
+
+
+1. Ginčų komisijoje ar administraciniame teisme nagrinėjamo administracinio ginčo šalys gali prašyti perduoti administracinį ginčą spręsti atitinkamai neteisminės mediacijos arba teisminės mediacijos būdu.
+
+
+
+
+2. Ginčų komisijos narys, paskirtas pranešėju byloje, ar administracinį ginčą nagrinėjanti ginčų komisija gali pasiūlyti administracinio ginčo šalims bandyti ginčą spręsti neteisminės mediacijos būdu.
+
+
+
+
+3. Administracinę bylą nagrinėjantis teismas gali pasiūlyti administracinio ginčo šalims bandyti ginčą spręsti teisminės mediacijos būdu.
+
+
+
+
+4. Galima perduoti spręsti neteisminės mediacijos arba teisminės mediacijos būdu tik tokį administracinį ginčą, dėl kurio administracinio ginčo šalims pagal įstatymus leidžiama sudaryti taikos sutartį.
+
+
+
+
+5. Kai Lietuvos administracinių ginčų komisijos pirmininkas administracinių ginčų komisijos nario, paskirto pranešėju byloje, prašymu, ginčų komisija ar administracinis teismas atitinkamai Ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatyme ar Administracinių bylų teisenos įstatyme nustatyta tvarka perduoda administracinį ginčą spręsti mediacijos būdu ir praneša Valstybės garantuojamos teisinės pagalbos tarnybai apie tai, kad reikia parinkti mediatorių iš Lietuvos Respublikos mediatorių sąrašo, mediatorius skiriamas šio įstatymo 14 straipsnio 3, 4, 5 ir 6 dalyse nustatyta tvarka.
+ 
+
+
+
+
+
+
+26 straipsnis. Neteisminės administracinių ginčų mediacijos vykdymas
+
+
+1. Neteisminė administracinių ginčų mediacija vykdoma vadovaujantis šio straipsnio nuostatomis, kitais įstatymais ir Lietuvos administracinių ginčų komisijos pirmininko patvirtinta tvarka.
+
+
+
+
+2. Neteisminę administracinių ginčų mediaciją vykdo vienas iš ginčų komisijos narių, įrašytų į Lietuvos Respublikos mediatorių sąrašą, ar kitas į šį sąrašą įrašytas mediatorius. Ginčų komisijos narys gali vykdyti tik neteisminę administracinių ginčų mediaciją.
+
+
+
+
+3. Spręsti neteisminės administracinių ginčų mediacijos būdu gali būti perduodama ir dalis byloje pareikštų reikalavimų.
+
+
+
+
+4. Neteisminės administracinių ginčų mediacijos metu gali dalyvauti tik administracinio ginčo šalys, jų atstovai ir mediatorius. Administracinio ginčo šalių prašymu arba sutikimu neteisminės mediacijos metu gali dalyvauti ir kiti asmenys.
+
+
+
+
+5. Neteisminė administracinių ginčų mediacija vyksta ginčų komisijos patalpose arba kitoje mediatoriaus su administracinio ginčo šalimis suderintoje vietoje. Neteisminės administracinių ginčų mediacijos metu gali būti naudojamos informacinės ir elektroninių ryšių technologijos.
+
+
+
+
+6. Bet kuri administracinio ginčo šalis gali pasitraukti iš neteisminės administracinių ginčų mediacijos, nenurodydama pasitraukimo priežasčių. Tai neužkerta kelio administracinio ginčo šalims pakartotinai prašyti perduoti administracinį ginčą spręsti neteisminės administracinių ginčų mediacijos būdu.
+
+
+
+
+7. Mediatorius gali nutraukti neteisminę administracinio ginčo mediaciją mutatis mutandis vadovaudamasis šio įstatymo 15 straipsnio 6 dalies nuostatomis.
+
+
+
+
+8. Neteisminės administracinių ginčų mediacijos metu sudaromoms taikos sutartims taikomi Ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatyme ir kituose įstatymuose nustatyti reikalavimai.
+
+
+
+
+9. Neteisminės administracinių ginčų mediacijos ir su ja susijusiai informacijai taikomi šio įstatymo 17 straipsnyje nustatyti konfidencialumo reikalavimai.
+
+
+
+
+10. Kai neteisminės administracinių ginčų mediacijos paslaugas teikia mediatoriai, kurie yra ginčų komisijos nariai, jiems atskiras atlyginimas už mediacijos paslaugas nemokamas ir administracinio ginčo šalims neteisminės mediacijos paslaugos teikiamos nemokamai. Kai mediatorių neteisminei administracinio ginčo mediacijai vykdyti iš Lietuvos Respublikos mediatorių sąrašo parenka ir skiria Valstybės garantuojamos teisinės pagalbos tarnyba šio įstatymo 14 straipsnio 3, 4, 5 ir 6 dalyse nustatyta tvarka, už neteisminės administracinio ginčo mediacijos paslaugas apmoka Valstybės garantuojamos teisinės pagalbos tarnyba iš valstybės biudžeto lėšų. Šiuo atveju neteisminė administracinio ginčo mediacija gali būti vykdoma iki keturių valandų. Jeigu pasibaigus šiam laikui galutinis susitarimas dėl taikaus ginčo sprendimo dar nepasiektas, administracinio ginčo šalys gali toliau savanoriškai tęsti neteisminę administracinio ginčo mediaciją administracinio ginčo šalių lėšomis. Iš valstybės biudžeto lėšų taip pat apmokama už mediatoriaus pasirengimą neteisminei administracinio ginčo mediacijai, kuris gali trukti iki vienos valandos, ir mediacijos rezultatų įforminimą, kuris gali trukti iki vienos valandos. Už suteiktas neteisminės administracinių ginčų mediacijos paslaugas mediatoriams iš valstybės biudžeto mokamo atlyginimo dydžius ir mokėjimo tvarką nustato Vyriausybė.
+
+
+
+
+11. Ginčų komisija turi skirti patalpas neteisminei administracinių ginčų mediacijai vykdyti. Administracinio ginčo šalių ir mediatoriaus susitarimu neteisminė administracinio ginčo mediacija gali būti vykdoma ir kitose patalpose.
+ 
+
+
+
+
+
+
+27 straipsnis. Teisminės administracinių ginčų mediacijos vykdymas
+
+
+1. Teisminė administracinių ginčų mediacija vykdoma mutatis mutandis vadovaujantis šio įstatymo 15 straipsnio 6 dalimi, 23 straipsnio 1, 2, 3, 4, 5, 7, 8 dalimis ir Teisėjų tarybos patvirtinta tvarka.
+
+
+
+
+2. Bet kuri administracinio ginčo šalis gali pasitraukti iš teisminės mediacijos, nenurodydama pasitraukimo priežasčių. Tai neužkerta kelio administracinio ginčo šalims pakartotinai prašyti perduoti administracinį ginčą spręsti teisminės mediacijos būdu.
+
+
+
+
+3. Teisminės administracinių ginčų mediacijos metu sudaromoms taikos sutartims taikomi Administracinių bylų teisenos įstatyme ir kituose įstatymuose nustatyti reikalavimai.
+
+
+
+
+4. Teisminės administracinių ginčų mediacijos ir su ja susijusiai informacijai taikomi šio įstatymo 17 straipsnyje nustatyti konfidencialumo reikalavimai.
+ 
+
+
+
+
+
+
+
+
+VIII SKYRIUS
 MEDIATORIŲ DRAUSMINĖ ATSAKOMYBĖ
  
 
 
-25 straipsnis. Skundų (pranešimų) dėl mediatorių veiklos teikimas
+28 straipsnis. Skundų (pranešimų) dėl mediatorių veiklos teikimas
 
 
 1. Dėl mediatorių, kurie pažeidė šio įstatymo, Europos mediatorių elgesio kodekso ar kitų teisės aktų, reglamentuojančių mediacijos paslaugų teikimą, reikalavimus, veiklos asmenys gali teikti skundus (pranešimus) mediatorių veiklos vertinimo komisijai.
@@ -1130,7 +1286,7 @@ MEDIATORIŲ DRAUSMINĖ ATSAKOMYBĖ
 
 
 
-26 straipsnis. Mediatorių drausminė atsakomybė
+29 straipsnis. Mediatorių drausminė atsakomybė
 
 
 1. Mediatorių veiklos vertinimo komisija, nustačiusi, kad mediatorius pažeidė mediacijos paslaugų teikimą reglamentuojančių teisės aktų reikalavimus, turi teisę priimti šiuos sprendimus:
@@ -1141,7 +1297,7 @@ MEDIATORIŲ DRAUSMINĖ ATSAKOMYBĖ
 
 
 
-2) pareikšti viešą įspėjimą, apie kurį paskelbiama Lietuvos Respublikos mediatorių sąraše ne vėliau kaip per penkias darbo dienas nuo mediatorių veiklos vertinimo komisijos sprendimo priėmimo dienos. Šis viešas įspėjimas Lietuvos Respublikos mediatorių sąraše skelbiamas vienus metus nuo viešo įspėjimo paskelbimo dienos;
+2) pareikšti viešą įspėjimą, apie kurį paskelbiama Lietuvos Respublikos mediatorių sąraše ne vėliau kaip per penkias darbo dienas nuo mediatorių veiklos vertinimo komisijos sprendimo priėmimo dienos. Visuomenės informavimo tikslais šis viešas įspėjimas Lietuvos Respublikos mediatorių sąraše skelbiamas vienus metus nuo viešo įspėjimo paskelbimo dienos;
 
 
 
@@ -1153,7 +1309,7 @@ MEDIATORIŲ DRAUSMINĖ ATSAKOMYBĖ
 
 
 
-2. Šio straipsnio 1 ir 5 dalyse nurodyti mediatorių veiklos vertinimo komisijos sprendimai gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+2. Šio straipsnio 1 ir 5 dalyse nurodyti mediatorių veiklos vertinimo komisijos sprendimai gali būti skundžiami Administracinių bylų teisenos įstatymo nustatyta tvarka.
 
 
 
@@ -1176,7 +1332,7 @@ MEDIATORIŲ DRAUSMINĖ ATSAKOMYBĖ
 
 
 
-2) pareikšti viešą įspėjimą, apie kurį paskelbiama Valstybės garantuojamos teisinės pagalbos tarnybos ir Teisingumo ministerijos interneto svetainėse ne vėliau kaip per penkias darbo dienas nuo mediatorių veiklos vertinimo komisijos sprendimo priėmimo dienos. Šis viešas įspėjimas skelbiamas vienus metus nuo viešo įspėjimo paskelbimo dienos;
+2) pareikšti viešą įspėjimą, apie kurį paskelbiama Valstybės garantuojamos teisinės pagalbos tarnybos interneto svetainėje ir Teisinės pagalbos paslaugų informacinėje sistemoje ne vėliau kaip per penkias darbo dienas nuo mediatorių veiklos vertinimo komisijos sprendimo priėmimo dienos. Visuomenės informavimo tikslais šis viešas įspėjimas skelbiamas vienus metus nuo viešo įspėjimo paskelbimo dienos;
 
 
 
@@ -1196,10 +1352,10 @@ MEDIATORIŲ DRAUSMINĖ ATSAKOMYBĖ
 
 
 
-27 straipsnis. Mediatorių padarytos žalos atlyginimas
+30 straipsnis. Mediatorių padarytos žalos atlyginimas
 
 
-Už asmenims padarytą žalą teikiant mediacijos paslaugas mediatoriai atsako Lietuvos Respublikos civilinio kodekso nustatyta tvarka.
+Už asmenims padarytą žalą teikiant mediacijos paslaugas mediatoriai atsako Civilinio kodekso nustatyta tvarka.
  
 
 
@@ -1207,7 +1363,7 @@ Už asmenims padarytą žalą teikiant mediacijos paslaugas mediatoriai atsako L
 
 
 
-28 straipsnis. Mediatorių, kurie yra teisėjai, drausminė atsakomybė
+31 straipsnis. Mediatorių, kurie yra teisėjai, drausminė atsakomybė
 
 
 Mediatoriams, kurie yra teisėjai, šio skyriaus nuostatos dėl drausminės atsakomybės netaikomos. Mediatoriai, kurie yra teisėjai, atsako drausmine tvarka, kaip nustatyta Lietuvos Respublikos teismų įstatyme.
@@ -1220,12 +1376,12 @@ Mediatoriams, kurie yra teisėjai, šio skyriaus nuostatos dėl drausminės atsa
 
 
 
-VIII SKYRIUS
+IX SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-29 straipsnis. Įstatymo taikymas
+32 straipsnis. Įstatymo taikymas
 
 
 1. Šis įstatymas taikomas tik po jo įsigaliojimo sudarytiems susitarimams dėl mediacijos ir pradėtoms mediacijos procedūroms.
@@ -1256,13 +1412,18 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos 
 mediacijos įstatymo 
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
-2008 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2008/52/EB dėl tam tikrų mediacijos civilinėse ir komercinėse bylose aspektų (OL 2008 L 136, p. 3).
+
+
+2008 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2008/52/EB dėl tam tikrų mediacijos civilinėse ir komercinėse bylose aspektų.
+
+
 
 
 
@@ -1285,3 +1446,8 @@ Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo įstatymo Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-534, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12053
 Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo įstatymo Nr. X-1702 pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3048, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13616
+Lietuvos Respublikos mediacijos įstatymo Nr. X-1702 pakeitimo įstatymas
