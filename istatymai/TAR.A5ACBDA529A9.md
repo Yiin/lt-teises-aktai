@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A5ACBDA529A9"
 
 # Lietuvos Respublikos pelno mokesčio įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 110-3992, i. k. 1011010ISTA00IX-675
  
@@ -640,10 +640,11 @@ Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
 
 
 
-41. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos baudžiamajame kodekse, Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos draudimo įstatyme ir Lietuvos Respublikos kino įstatyme, kiek tai neprieštarauja šiam Įstatymui (išskyrus Civilinio kodekso įsakmiai nurodytus atvejus).
+41. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos mokesčių administravimo įstatyme, Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos baudžiamajame kodekse, Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos investicijų įstatyme ir Lietuvos Respublikos kino įstatyme, kiek tai neprieštarauja šiam Įstatymui (išskyrus Civilinio kodekso įsakmiai nurodytus atvejus). 
 Straipsnio dalies pakeitimai:
 Nr. XII-1466, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21227
 Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
+Nr. XIII-3213, 2020-06-30, paskelbta TAR 2020-07-03, i. k. 2020-15010
  
 
 
@@ -913,7 +914,7 @@ Nr. XIII-1333, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10976
 
 
 
-3. Šio straipsnio 2 dalies nuostatos netaikomos, kai šioje dalyje nurodytų susijusių vienetų bendras vidutinis sąrašuose esančių darbuotojų skaičius viršija 10 žmonių ir mokestinio laikotarpio bendros pajamos viršija 300 000 eurų: 
+3. Šio straipsnio 2 dalies nuostatos netaikomos, kai šioje dalyje nurodytų susijusių vienetų bendras vidutinis sąrašuose esančių darbuotojų skaičius viršija 10 žmonių ir (arba) mokestinio laikotarpio bendros pajamos viršija 300 000 eurų:
 
 
 1) vienetams (individualioms (personalinėms) įmonėms), kurių dalyvis ar jo šeimos nariai yra ir kitų vienetų (individualių (personalinių) įmonių) dalyviai;
@@ -932,11 +933,12 @@ Nr. XIII-1333, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10976
 
 
 4) vienetams, kuriuose tie patys dalyviai kartu paskutinę mokestinio laikotarpio dieną valdo daugiau kaip 50 procentų akcijų (dalių, pajų). 
-TAR pastaba. 3 dalies nuostatos taikomos apskaičiuojant 2019 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį
+TAR pastaba. 3 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2021 metų ir vėlesnių mokestinių laikotarpių pelno mokestį.
 
 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1187, 2018-05-24, paskelbta TAR 2018-05-29, i. k. 2018-08643
+Nr. XIV-39, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27347
  
 
 
@@ -2153,10 +2155,11 @@ Nr. XIII-1697, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20938
 
 
 
-2. Nuostoliai dėl vertybinių popierių arba išvestinių finansinių priemonių perleidimo perkeliami į kitus mokestinius metus, tačiau dengiami tik vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo veiklos pajamomis. Nuostoliai dėl vieneto, kuris įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, ir kuris yra pelno mokesčio arba jam tapataus mokesčio mokėtojas, akcijų perleidimo, jei akcijas perleidžiantis vienetas šiame vienete ne trumpiau kaip 2 metus be pertraukų turėjo daugiau kaip 10 procentų balsus suteikiančių akcijų, atskaitomi iš mokestinio laikotarpio apmokestinamųjų vertybinių popierių perleidimo pajamų, tačiau taip atskaitomų nuostolių suma negali būti didesnė už to mokestinio laikotarpio apmokestinamųjų vertybinių popierių turto vertės padidėjimo pajamų sumą, o neatskaityta tokio nuostolio suma į kitus mokestinius metus neperkeliama. 
-TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant 2018 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+2. Nuostoliai dėl vertybinių popierių arba išvestinių finansinių priemonių perleidimo perkeliami į kitus mokestinius metus, tačiau dengiami tik vertybinių popierių ir (arba) išvestinių finansinių priemonių perleidimo veiklos pajamomis. Nuostoliai dėl vieneto, kuris įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje arba valstybėje, su kuria sudaryta ir taikoma dvigubo apmokestinimo išvengimo sutartis, ir kuris yra pelno mokesčio arba jam tapataus mokesčio mokėtojas, akcijų perleidimo kitam vienetui arba fiziniam asmeniui, jei akcijas perleidžiantis vienetas ne trumpiau kaip 2 metus be pertraukų turėjo daugiau kaip 10 procentų balsus suteikiančių šio vieneto akcijų arba jei akcijos buvo perleistos šio Įstatymo 41 straipsnio 2 dalyje nurodytais reorganizavimo ar perleidimo atvejais, akcijų perleidimo kitam vienetui arba fiziniam asmeniui, jei akcijas perleidžiantis vienetas ne trumpiau kaip 3 metus be pertraukų turėjo daugiau kaip 10 procentų balsus suteikiančių šio vieneto akcijų, iš pajamų neatskaitomi ir į kitus mokestinius metus neperkeliami. Šioje dalyje nurodyta taisyklė dėl nuostolių neatskaitymo ir neperkėlimo netaikoma tuo atveju, kai akcijas perleidžiantis vienetas jas perleidžia šias akcijas išleidusiam vienetui, o į nustatytus terminus dėl akcijų turėjimo neatsižvelgiama tais atvejais, kai akcijos perleidžiamos dėl teisės aktų reikalavimų. Šioje dalyje vartojama sąvoka „akcija“ apima ir turimas teises į rizikos ir privataus kapitalo subjektų paskirstytinojo pelno dalį. 
+TAR pastaba. 2 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2021 metų ir vėlesnių mokestinių laikotarpių pelno mokestį
 Straipsnio dalies pakeitimai:
 Nr. XIII-842, 2017-12-07, paskelbta TAR 2017-12-22, i. k. 2017-20681
+Nr. XIV-39, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27347
  
 
 
@@ -4429,6 +4432,24 @@ Nr. XIII-517, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11226
 
 
 
+162. Juridinis asmuo, kuris įgyvendina stambų projektą pagal galiojančią stambaus projekto investicijų sutartį ir kurio vidutinis darbuotojų, reikalingų stambiam projektui Lietuvos Respublikoje įgyvendinti, skaičius mokestiniais metais ne mažesnis kaip 150, o kai investuojama Vilniuje, – ne mažesnis kaip 200 ir kai privačios kapitalo investicijos į stambų projektą Lietuvos Respublikoje pasiekė ne mažesnę kaip 20 milijonų eurų sumą, o kai investuojama Vilniuje, – ne mažesnę kaip 30 milijonų eurų sumą, ir kuris nesinaudoja šio straipsnio 16 dalies 1 ir 2 punktuose arba 163 dalyje nustatyta pelno mokesčio lengvata, nemoka pelno mokesčio, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma ir vidutinis darbuotojų skaičius buvo pasiekti. Šioje dalyje nustatyta lengvata taikoma tik tuo atveju, kai ne mažiau kaip 75 procentai atitinkamo mokestinio laikotarpio juridinio asmens pajamų sudaro pajamos iš duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusios veiklos arba pajamos iš apdirbamosios gamybos, ir tik toms juridinio asmens pajamoms, kurios gautos įgyvendinant stambų projektą. Šioje dalyje nustatyta lengvata taikoma tik tuo atveju, kai juridinis asmuo turi auditoriaus išvadą, patvirtinančią reikalaujamą juridinio asmens privačių kapitalo investicijų dydį. Jeigu juridinio asmens privačių kapitalo investicijų suma į stambų projektą sumažėja ir nebesiekia 20 milijonų eurų sumos, o kai investuojama Vilniuje, – nebesiekia 30 milijonų eurų sumos, išskyrus ilgalaikio turto nusidėvėjimo arba amortizacijos sąnaudas, ir (arba) vidutinis darbuotojų, reikalingų  stambiam projektui įgyvendinti, skaičius mokestiniais metais tampa mažesnis kaip 150, o kai investuojama Vilniuje, – mažesnis kaip 200, lengvata netaikoma tą mokestinį laikotarpį, kurį juridinio asmens privačių kapitalo investicijų suma ir (arba) vidutinis darbuotojų skaičius mokestiniais metais taip sumažėjo, ir lengvatos taikymas atnaujinamas tą mokestinį laikotarpį, kurį juridinio asmens privačios kapitalo investicijos į stambų projektą vėl pasiekia 20 milijonų eurų sumą, o kai investuojama Vilniuje, – 30 milijonų eurų sumą ir (arba) vidutinis darbuotojų, reikalingų stambiam projektui įgyvendinti, skaičius mokestiniais metais vėl tampa ne mažesnis kaip 150, o kai investuojama Vilniuje, – ne mažesnis kaip 200. Šioje dalyje nustatyta lengvata juridiniam asmeniui, įgyvendinančiam stambų projektą, taikoma ne ilgiau negu 20 metų nuo stambaus projekto investicijų sutarties įsigaliojimo dienos. Šioje dalyje nustatyta lengvata taikoma tiek, kiek ji suderinama su Europos Sąjungos teisės aktais, kuriais reguliuojamas valstybės pagalbos teikimas, ir Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta valstybės pagalbos teikimo ir priežiūros tvarka. 
+TAR pastaba. 162 dalis taikoma tiek, kiek ji suderinama su 2014 m. birželio 17 d. Komisijos reglamento (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius, nuostatomis. 162 dalies nuostatos taikomos juridiniams asmenims, iki 2025 m. gruodžio 31 d. sudariusiems stambių projektų investicijų sutartis.
+Papildyta straipsnio dalimi:
+Nr. XIII-3213, 2020-06-30, paskelbta TAR 2020-07-03, i. k. 2020-15010
+ 
+
+
+
+
+163. Juridinis asmuo, kuris įgyvendina stambų projektą pagal galiojančią stambaus projekto investicijų sutartį ir kurio vidutinis darbuotojų, reikalingų stambiam projektui įgyvendinti Lietuvos Respublikoje, skaičius mokestiniais metais ne mažesnis kaip 200, o privačios kapitalo investicijos į stambų projektą Lietuvos Respublikoje pasiekė ne mažesnę kaip 100 milijonų eurų sumą, ir kuris nesinaudoja šio straipsnio 16 dalies 1 ir 2 punktuose arba 162 dalyje nustatyta pelno mokesčio lengvata, nemoka pelno mokesčio pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma ir vidutinis darbuotojų skaičius buvo pasiekti. Šioje dalyje nustatyta lengvata taikoma tik tuo atveju, kai ne mažiau kaip 75 procentai atitinkamo mokestinio laikotarpio juridinio asmens pajamų sudaro pajamos iš duomenų apdorojimo, interneto serverių paslaugų (prieglobos) ir susijusios veiklos arba pajamos iš apdirbamosios gamybos, ir tik toms juridinio asmens pajamoms, kurios gautos įgyvendinant stambų projektą. Šioje dalyje nustatyta lengvata taikoma tik tuo atveju, kai juridinis asmuo turi auditoriaus išvadą, patvirtinančią reikalaujamą juridinio asmens privačių kapitalo investicijų į stambų projektą dydį. Jeigu juridinio asmens privačių kapitalo investicijų į stambų projektą suma sumažėja ir nebesiekia 100 milijonų eurų, išskyrus ilgalaikio turto nusidėvėjimo arba amortizacijos sąnaudas, ir (arba) vidutinis darbuotojų, reikalingų stambiam projektui įgyvendinti, skaičius mokestiniais metais tampa mažesnis kaip 200, lengvata netaikoma tą mokestinį laikotarpį, kurį juridinio asmens privačių kapitalo investicijų į stambų projektą suma ir (arba) vidutinis darbuotojų skaičius mokestiniais metais taip sumažėjo, ir lengvatos taikymas atnaujinamas tą mokestinį laikotarpį, kurį juridinio asmens privačios kapitalo investicijos į stambų projektą vėl pasiekia 100 milijonų eurų ir (arba) vidutinis darbuotojų, reikalingų stambiam projektui įgyvendinti, skaičius mokestiniais metais vėl tampa ne mažesnis kaip 200. Šioje dalyje nustatyta lengvata juridiniam asmeniui, įgyvendinančiam stambų projektą, taikoma ne ilgiau negu 20 metų nuo stambaus projekto investicijų sutarties įsigaliojimo dienos. Šioje dalyje nustatyta lengvata taikoma tiek, kiek ji suderinama su Europos Sąjungos teisės aktais, reglamentuojančiais valstybės pagalbos teikimą, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta valstybės pagalbos teikimo ir priežiūros tvarka ir Europos Komisijos išduoto leidimo teikti valstybės pagalbą sąlygomis. 
+TAR pastaba. 163 dalyje nustatyta lengvata juridiniam asmeniui, įgyvendinančiam stambų projektą pagal galiojančią stambaus projekto investicijų sutartį, taikoma gavus Europos Komisijos pritarimą dėl lengvatos skyrimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas, bet ne anksčiau kaip 2021 m. sausio 1 d. 163 dalies nuostatos taikomos juridiniams asmenims, iki 2025 m. gruodžio 31 d. sudariusiems stambių projektų investicijų sutartis.
+Papildyta straipsnio dalimi:
+Nr. XIII-3213, 2020-06-30, paskelbta TAR 2020-07-03, i. k. 2020-15010
+ 
+
+
+
+
 17. Vieneto turto arba turtinio komplekso perdavimas pagal nuomos sandorį šio Įstatymo 38 straipsnio numatytais atvejais apskaičiuojant pelno mokestį apmokestinamas kaip pardavimas, jei turtas arba turtinis kompleksas perduotas po 2002 m. sausio 1 d.
 
 
@@ -4524,7 +4545,6 @@ Nr. XI-2117, 2012-06-26, Žin., 2012, Nr. 76-3941 (2012-06-30)
 
 
 Dvejus metus nuo Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos šio Įstatymo I, V, VII–IX ir X1 skyrių nuostatos Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei taikomos tiek pat, kiek ir Europos Sąjungos valstybėms narėms. 
-TAR pastaba. Papildymas 591 straipsniu įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
 
 
 Papildyta straipsniu:
@@ -4567,7 +4587,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
  
  
 
@@ -5294,3 +5314,13 @@ Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 papildymo 59-1 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2694, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21550
 Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2, 4, 12, 14, 30, 31, 55, 56-1 straipsnių, 3 priedėlio pakeitimo ir Įstatymo papildymo 38-3, 40-2, 56-2 straipsniais įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3213, 2020-06-30, paskelbta TAR 2020-07-03, i. k. 2020-15010
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 2 ir 58 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-39, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27347
+Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 5 ir 30 straipsnių pakeitimo įstatymas
