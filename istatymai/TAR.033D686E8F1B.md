@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.033D686E8F1B"
 
 # Lietuvos Respublikos transporto lengvatų įstatymas
 
-Suvestinė redakcija nuo 2020-12-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-08-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 32-890, i. k. 1001010ISTAIII-1605
  
@@ -228,8 +228,6 @@ Nr. XIII-1262, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10488
 
 
 
-3) asmenys, kuriems gydyti nuolat reikalinga hemodializė, ir juos lydintys asmenys (vienam asmeniui – vienas lydintysis); 
-3 punkto redakcija nuo 2021-01-01:
 3) asmenys, kuriems gydyti nuolat reikalinga hemodializė, ir juos lydintys asmenys (vienam asmeniui – vienas lydintysis), taip pat onkologinėmis ligomis sergantys asmenys;
 Straipsnio punkto pakeitimai:
 Nr. XIII-3418, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24574
@@ -436,7 +434,10 @@ Nr. XII-512, 2013-07-02, Žin., 2013, Nr. 75-3782 (2013-07-13)
 7 straipsnis. Teisė į lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensaciją
 
 
-1. Asmenys, kuriems nustatytas specialusis lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikis, turi teisę vieną kartą per 6 metus gauti iki 32 bazinių socialinių išmokų (toliau – BSI) dydžio lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensaciją pagal faktines išlaidas pagrindžiančius dokumentus, jei šie asmenys turi vairuotojo pažymėjimu patvirtintą teisę vairuoti lengvąjį automobilį.
+1. Asmenys, kuriems nustatytas specialusis lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensacijos poreikis, turi teisę vieną kartą per 6 metus gauti iki 64 bazinių socialinių išmokų (toliau – BSI) dydžio lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensaciją pagal faktines išlaidas pagrindžiančius dokumentus, jei šie asmenys turi vairuotojo pažymėjimu patvirtintą teisę vairuoti lengvąjį automobilį. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2984, 2020-05-28, paskelbta TAR 2020-06-04, i. k. 2020-12208
+ 
 
 
 
@@ -446,7 +447,28 @@ Nr. XII-512, 2013-07-02, Žin., 2013, Nr. 75-3782 (2013-07-13)
 
 
 
-3. Šeimos (artimieji giminaičiai, įtėviai, vaiko, kuriam nustatyta nuolatinė globa (rūpyba), globėjai (rūpintojai), neįregistravę santuokos ir bendrą ūkį tvarkantys asmenys), auginančios neįgalų vaiką (įvaikį, globotinį, rūpintinį) iki 18 metų, kuriam nustatytas specialusis nuolatinės slaugos poreikis, arba neįgalų vaiką (įvaikį, globotinį, rūpintinį) iki 18 metų, kuriam iki 2005 m. birželio 30 d. buvo pripažinta visiška negalia, vieną kartą per 6 metus turi teisę gauti iki 32 BSI dydžio lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensaciją pagal faktines išlaidas pagrindžiančius dokumentus, jei bent vienas iš šeimos narių turi vairuotojo pažymėjimu patvirtintą teisę vairuoti lengvąjį automobilį. Teisę gauti šią kompensaciją šeimos (artimieji giminaičiai, įtėviai, vaiko, kuriam nustatyta nuolatinė globa (rūpyba), globėjai (rūpintojai), neįregistravę santuokos ir bendrą ūkį tvarkantys asmenys) turi ir tuo atveju, kai neįgaliam vaikui (įvaikiui, globotiniui, rūpintiniui), kuriam sukako 18 metų, nepertraukiamai yra nustatytas specialusis nuolatinės slaugos poreikis. 
+3. Šeima (artimieji giminaičiai, įtėviai, vaiko, kuriam nustatyta nuolatinė globa (rūpyba), globėjai (rūpintojai), neįregistravę santuokos ir bendrą ūkį tvarkantys asmenys) (toliau – šeima) turi teisę vieną kartą per 6 metus gauti iki 64 BSI dydžio lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensaciją pagal faktines išlaidas pagrindžiančius dokumentus, jei bent vienas iš šeimos narių turi vairuotojo pažymėjimu patvirtintą teisę vairuoti lengvąjį automobilį ir jei šeima atitinka vieną iš šių kriterijų:
+
+
+1) augina neįgalų vaiką (įvaikį, globotinį, rūpintinį) iki 18 metų, kuriam iki 2005 m. birželio 30 d. nustatyta visiška negalia;
+
+
+
+
+2) augina neįgalų vaiką (įvaikį, globotinį, rūpintinį) iki 18 metų, kuriam nustatytas specialusis nuolatinės slaugos poreikis. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2984, 2020-05-28, paskelbta TAR 2020-06-04, i. k. 2020-12208
+ 
+
+
+
+
+31. Teisę vieną kartą per 6 metus gauti iki 64 BSI dydžio lengvojo automobilio įsigijimo ir jo techninio pritaikymo išlaidų kompensaciją pagal faktines išlaidas pagrindžiančius dokumentus šeima, jei bent vienas iš šeimos narių turi vairuotojo pažymėjimu patvirtintą teisę vairuoti lengvąjį automobilį, turi ir tuo atveju, kai šio įstatymo 7 straipsnio 3 dalyje nurodytam neįgaliam vaikui (įvaikiui, globotiniui, rūpintiniui), kuriam sukako 18 metų, nepertraukiamai nustatyta visiška negalia ir (ar) specialusis nuolatinės slaugos poreikis. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2984, 2020-05-28, paskelbta TAR 2020-06-04, i. k. 2020-12208
+ 
 
 
 
@@ -739,3 +761,8 @@ Lietuvos Respublikos transporto lengvatų įstatymo Nr. VIII-1605 5 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3418, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24574
 Lietuvos Respublikos transporto lengvatų įstatymo Nr. VIII-1605 5 straipsnio pakeitimo ir Įstatymo papildymo 5-1 straipsniu įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2984, 2020-05-28, paskelbta TAR 2020-06-04, i. k. 2020-12208
+Lietuvos Respublikos transporto lengvatų įstatymo Nr. VIII-1605 5 ir 7 straipsnių pakeitimo įstatymas
