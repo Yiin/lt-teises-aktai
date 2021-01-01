@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/420f4dd0927c11e9ae2e9d61b1f977b3"
 
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-11-25
  
 Įstatymas paskelbtas: TAR 2019-06-19, i. k. 2019-09862
  
@@ -964,7 +964,7 @@ KELIŲ APSAUGOS ZONOS IR JOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS
 Nustatomos šios kelių apsaugos zonos:
 
 
-1) magistralinių kelių;  
+1) magistralinių kelių; 
 
 
 
@@ -1025,13 +1025,13 @@ Nustatomos šios kelių apsaugos zonos:
 
 
 
-19 straipsnis. Specialiosios žemės naudojimo sąlygos kelių apsaugos zonose       
+19 straipsnis. Specialiosios žemės naudojimo sąlygos kelių apsaugos zonose 
 
 
 1. Kelių apsaugos zonose draudžiama:
 
 
-1) statyti pastatus, kurie nesusiję su transporto priemonių ir eismo dalyvių aptarnavimu;
+1) statyti ir (ar) rekonstruoti pastatus (jeigu rekonstravimo metu didėja pastato išorės matmenys), kurie nesusiję su kelių transporto priemonių ir eismo dalyvių aptarnavimu, išskyrus pastatus miestuose, miesteliuose, kompaktiškai užstatytose kaimų teritorijose, kurie statomi ir (ar) rekonstruojami pagal šio straipsnio 2 dalies reikalavimus;
 
 
 
@@ -1048,10 +1048,10 @@ Nustatomos šios kelių apsaugos zonos:
 
 
 
-2. Kelių apsaugos zonose, Teritorijų planavimo įstatyme, Statybos įstatyme ar Lietuvos Respublikos susisiekimo ministro nustatyta tvarka negavus kelio savininko pritarimo (derinimo) projektui ar numatomai veiklai, draudžiama: 
+2. Kelių apsaugos zonose, Teritorijų planavimo įstatyme, Statybos įstatyme ar Lietuvos Respublikos susisiekimo ministro nustatyta tvarka gavus kelio savininko ar valdytojo pritarimą (derinimą) projektui ar numatomai veiklai, leidžiama: 
 
 
-1) statyti, rekonstruoti (jeigu rekonstravimo metu didėja statinio išorės matmenys) statinius ar įrengti įrenginius, išskyrus statinius ar įrenginius, kurių statyba ar įrengimas draudžiami pagal šio straipsnio 1 dalį, taip pat laikinus sniegą sulaikančius įrenginius rudens, žiemos ir pavasario laikotarpiais;
+1) statyti, rekonstruoti statinius ar įrengti įrenginius, išskyrus pastatus, kurių statyba nėra draudžiama pagal šio straipsnio 1 dalies 1 punktą, taip pat laikinus sniegą sulaikančius įrenginius rudens, žiemos ir pavasario laikotarpiais;
 
 
 
@@ -1071,17 +1071,24 @@ Nustatomos šios kelių apsaugos zonos:
 
 
 
-5) kelių apsaugos zonos dalyje, sutampančioje su kelio juostos dalimi – organizuoti renginius, susijusius su žmonių susibūrimu, vykdyti prekybinę veiklą ir (ar) kitus darbus, nenurodytus šios dalies 1–4 punktuose.
+5) miestuose, miesteliuose ir kaimų kompaktiškai užstatytose teritorijose statyti ir (ar) rekonstruoti pastatus (jeigu rekonstravimo metu didėja pastato išorės matmenys), kurie nesusiję su kelių transporto priemonių ir eismo dalyvių aptarnavimu;
+
+
+
+
+6) kelių apsaugos zonos dalyje, sutampančioje su kelio juostos dalimi, organizuoti renginius, susijusius su žmonių susibūrimu, vykdyti prekybinę veiklą ir (ar) kitus darbus, nenurodytus šios dalies 1–5 punktuose.
 
 
 
 
 
 
-3. Kelio savininkas nepritaria projektui ar numatomai veiklai, jeigu šio straipsnio 2 dalyje nurodyti darbai trukdys numatytam kelių plėtros vystymui ir priežiūrai, pablogins kelio techninę būklę, neužtikrins kelių transporto eismo saugumo reikalavimų ir (ar) kels pavojų aplinkai, žmonių turtui, gyvybei ar sveikatai.
+3. Kelio savininkas ar valdytojas nepritaria projektui ar numatomai veiklai, jeigu šio straipsnio 2 dalyje nurodyti darbai trukdys numatytam kelių plėtros vystymui ir priežiūrai, pablogins kelio techninę būklę, neužtikrins kelių transporto eismo saugumo reikalavimų laikymosi ir (ar) kels pavojų aplinkai, žmonių turtui, gyvybei ar sveikatai.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3331, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22473
  
-
-
 
 
 
@@ -1168,7 +1175,7 @@ c) siaurųjų geležinkelių (600 mm ir 750 mm pločio vėžės) ir jų įrengin
 22 straipsnis. Specialiosios žemės naudojimo sąlygos geležinkelio kelių ir jų įrenginių, geležinkelio želdinių apsaugos zonose
 
 
-1. Geležinkelio kelių ir jų įrenginių apsaugos zonose, geležinkelio želdinių apsaugos zonose draudžiama statyti ir rekonstruoti pastatus (jeigu rekonstravimo metu didėja pastato išorės matmenys), nesusijusius su geležinkelių transporto veikla.
+1. Geležinkelio kelių ir jų įrenginių apsaugos zonose, geležinkelio želdinių apsaugos zonose draudžiama statyti ir (ar) rekonstruoti pastatus (jeigu rekonstravimo metu didėja pastato išorės matmenys), nesusijusius su geležinkelių transporto veikla, išskyrus šio straipsnio 3 dalyje nurodytą atvejį.
 
 
 
@@ -1208,10 +1215,17 @@ c) siaurųjų geležinkelių (600 mm ir 750 mm pločio vėžės) ir jų įrengin
 
 
 
-3. Geležinkelių infrastruktūros savininkas ar valdytojas nepritaria projektui ar numatomai veiklai, jeigu šio straipsnio 2 dalyje nurodyti darbai trukdys numatytam geležinkelio kelių ir jų įrenginių plėtros vystymui ir priežiūrai, neužtikrins geležinkelių transporto eismo saugos reikalavimų ir kels pavojų aplinkai, žmonių turtui, gyvybei ar sveikatai. 
+3. Viešosios geležinkelių infrastruktūros kelių ir jų įrenginių apsaugos zonose, patenkančiose į miestuose esančių geležinkelio stočių užimamus žemės sklypus ar jų dalis (jeigu geležinkelio stotis užima ne visą žemės sklypą), ne arčiau kaip 10 metrų abipus kraštinių geležinkelio kelių ašių ir ne arčiau kaip 5 metrai iki geležinkelio statinio (geležinkelio kelio ir jo priklausinių), Statybos įstatyme, Teritorijų planavimo įstatyme ar susisiekimo ministro nustatyta tvarka negavus viešosios geležinkelių infrastruktūros valdytojo pritarimo (derinimo) projektui ar numatomai veiklai, draudžiama statyti ir (ar) rekonstruoti pastatus (jeigu rekonstravimo metu didėja pastato išorės matmenys), nesusijusius su geležinkelių transporto veikla.
+
+
+
+
+4. Geležinkelių infrastruktūros savininkas ar valdytojas nepritaria projektui ar numatomai veiklai, jeigu šio straipsnio 2 ir 3 dalyse nurodyti darbai trukdys numatytam geležinkelio kelių ir jų įrenginių plėtros vystymui ir priežiūrai, neužtikrins geležinkelių transporto eismo saugos reikalavimų laikymosi ir kels pavojų aplinkai, žmonių turtui, gyvybei ar sveikatai, apribos galimybę keleiviams prieiti, kelių transporto priemonėms privažiuoti prie pastatų ar įrenginių geležinkelio stotyje.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3331, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22473
  
-
-
 
 
 
@@ -8591,7 +8605,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
  
  
  
@@ -9629,3 +9643,8 @@ Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3264, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15776
 Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2 priedo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3331, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22473
+Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 19 ir 22 straipsnių pakeitimo įstatymas
