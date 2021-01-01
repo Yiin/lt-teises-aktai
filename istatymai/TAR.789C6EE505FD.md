@@ -18,9 +18,10 @@ LIETUVOS RESPUBLIKOS VYRIAUSIOSIOS TARNYBINĖS ETIKOS KOMISIJOS ĮSTATYMAS
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2020-08-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2023-09-21
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 81-3176, i. k. 1081010ISTA00X-1666
  
@@ -677,9 +678,17 @@ Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
 
 
 
-19) priima sprendimus dėl nustatytų apribojimų taikymo išimčių pagal Viešųjų ir privačių interesų derinimo įstatymo 18 straipsnį. 
+19) priima sprendimus dėl nustatytų apribojimų taikymo išimčių pagal Viešųjų ir privačių interesų derinimo įstatymo 18 straipsnį; 
 Papildyta straipsnio punktu:
 Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
+ 
+
+
+
+
+20) tvarko asmenų, darančių įtaką teisėkūrai, sąrašą pagal Lietuvos Respublikos teisėkūros pagrindų įstatymo nuostatas.
+Papildyta straipsnio punktu:
+Nr. XIII-3173, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15505
  
 
 
@@ -1503,7 +1512,7 @@ Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 
  
@@ -1565,3 +1574,8 @@ Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
 Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 4, 7, 17, 24, 31 straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3173, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15505
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 17 straipsnio pakeitimo įstatymas
