@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3BAADED2C30B"
 
 # Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas
 
-Suvestinė redakcija nuo 2019-02-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2635, i. k. 1021010ISTA00IX-975
  
@@ -164,7 +164,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-18. Indėlių draudžiamasis įvykis – bankroto bylos iškėlimas indėlių draudimo sistemos dalyviui arba priežiūros institucijos sprendimas pripažinti indėlių draudimo sistemos dalyvį nemokiu, kai indėlių draudimo sistemos dalyvis dėl su savo finansine padėtimi susijusių priežasčių negali įvykdyti pagrįsto reikalavimo grąžinti indėlio ir yra pagrindas manyti, kad to negalės padaryti artimiausiu metu.
+18. Indėlių draudžiamasis įvykis – indėlių draudimo sistemos dalyviui iškelta bankroto byla arba priežiūros institucijos raštu pareikšta nuomonė, kad indėlių draudimo sistemos dalyvis dėl su savo finansine padėtimi tiesiogiai susijusių priežasčių negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir to negalės padaryti artimiausiu metu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -179,7 +182,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-21. Investuotojas – fizinis ar juridinis asmuo arba kita organizacija, perdavę įsipareigojimų investuotojams draudimo sistemos dalyviui pinigų ir (arba) finansinių priemonių, norėdami pasinaudoti įsipareigojimų investuotojams draudimo sistemos dalyvio teikiamomis investicinėmis paslaugomis, arba, jeigu investicija bendra, kiekvienas įsipareigojimų investuotojams draudimo sistemos dalyviui perduotų pinigų arba finansinių priemonių bendraturtis (fizinis ar juridinis asmuo arba kita organizacija). 
+21. Investuotojas – fizinis ar juridinis asmuo arba kita organizacija, naudodamiesi įsipareigojimų investuotojams draudimo sistemos dalyvio teikiamomis investicinėmis paslaugomis perdavę (patikėję) įsipareigojimų investuotojams draudimo sistemos dalyviui pinigų ir (arba) finansinių priemonių, arba, jeigu investicija bendra, kiekvienas įsipareigojimų investuotojams draudimo sistemos dalyviui perduotų (patikėtų) pinigų arba finansinių priemonių bendraturtis (fizinis ar juridinis asmuo arba kita organizacija). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -295,7 +301,9 @@ Nr. XIII-1878, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00229
 
 
 
-43. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos bankų įstatyme, Lietuvos Respublikos Centrinės kredito unijos įstatyme, Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme, Lietuvos Respublikos finansinio tvarumo įstatyme, Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatyme, Lietuvos Respublikos kredito unijų įstatyme, Lietuvos Respublikos mokėjimų įstatyme. 
+43. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos bankų įstatyme, Lietuvos Respublikos centrinių kredito unijų įstatyme, Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme, Lietuvos Respublikos finansinio tvarumo įstatyme, Lietuvos Respublikos finansų įstaigų įstatyme, Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatyme, Lietuvos Respublikos kredito unijų įstatyme, Lietuvos Respublikos mokėjimų įstatyme, Lietuvos Respublikos draudimo įstatyme, Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
  
 
 
@@ -356,7 +364,10 @@ IndĖlių draudimas
 
 
 
-8) pagal Lietuvos Respublikos draudimo įstatymą veikiančių draudimo įmonių ir perdraudimo įmonių indėliai;
+8) draudimo įmonių ir perdraudimo įmonių, kitose valstybėse narėse ir trečiosiose valstybėse įsteigtų draudimo įmonių ir perdraudimo įmonių indėliai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -386,14 +397,27 @@ IndĖlių draudimas
 
 
 
-14) elektroniniai pinigai ir elektroninių pinigų įstaigos iš elektroninių pinigų turėtojų mainams į elektroninius pinigus gautos lėšos.
+14) elektroniniai pinigai ir iš elektroninių pinigų turėtojų mainams į elektroninius pinigus gautos lėšos. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
 
 
 
-3. Nustatydama, ar indėlininko indėliai yra tinkami drausti, kredito įstaiga turi teisę vadovautis kliento ar priežiūros institucijos pateikta informacija, išskyrus atvejus, kai kredito įstaigai yra žinoma arba turėtų būti žinoma, kad ta informacija yra neteisinga. 
+3. Šio straipsnio 2 dalyje nurodytų subjektų indėliai nėra indėlių draudimo objektas, neatsižvelgiant į tai, pagal kurios valstybės teisės aktus šie subjektai yra įsteigti. 
+Papildyta straipsnio dalimi:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
+
+
+
+
+4. Nustatydama, ar indėlininko indėliai yra tinkami drausti, kredito įstaiga turi teisę vadovautis kliento ar priežiūros institucijos pateikta informacija, išskyrus atvejus, kai kredito įstaigai yra žinoma arba turėtų būti žinoma, kad ta informacija yra neteisinga. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
  
 
 
@@ -447,38 +471,10 @@ IndĖlių draudimas
 
 
 
-5 straipsnis. Papildomas indėlių draudimas
-
-
-1. Papildomai draudžiami tik tie tinkami drausti indėliai, kurių draudimo (arba kitokio saugumo užtikrinimo) sąlygos pagal trečiosios valstybės teisės aktus yra blogesnės, negu nustatyta šiame įstatyme.
-
-
-
-
-2. Jeigu trečiosios valstybės bankas Lietuvos Respublikoje įsteigia filialą ir šiame filiale laikomi indėliai draudžiami (kompensuojami) arba kitaip užtikrinamas jų saugumas pagal trečiosios valstybės teisės aktus, tačiau valstybės įmonės „Indėlių ir investicijų draudimas“ (toliau – draudimo įmonė) taryba nustato, kad šios indėlių draudimo (kompensavimo) arba kitokio saugumo užtikrinimo sąlygos yra blogesnės, negu nustatyta šiame įstatyme, filialą įsteigęs trečiosios valstybės bankas privalo dalyvauti Lietuvos indėlių draudimo sistemoje ir papildomai apdrausti banko filiale laikomus tinkamus drausti indėlius.
-
-
-
-
-3. Papildomo indėlių draudimo suma yra lygi trečiosios valstybės banko filiale laikomų tinkamų drausti indėlių sumos ir sumos, kuri išmokama indėlininkui pagal trečiosios valstybės teisės aktus, reglamentuojančius tos šalies indėlių draudimo sistemą, skirtumui, tačiau papildomo indėlių draudimo suma kartu su pagal trečiosios valstybės teisės aktus išmokama suma negali viršyti šio įstatymo 4 straipsnyje nustatytos sumos.
-
-
-
-
-4. Papildomo indėlių draudimo tvarką nustato ir draudimo įmonės interneto svetainėje skelbia draudimo įmonės taryba.
-
-
-
-
-5. Jeigu trečiosios valstybės bankas Lietuvos Respublikoje įsteigia filialą ir šiame filiale tinkami drausti indėliai nedraudžiami (arba kitaip neužtikrinamas jų saugumas pagal trečiosios valstybės teisės aktus), filialą įsteigęs trečiosios valstybės bankas privalo dalyvauti Lietuvos indėlių draudimo sistemoje ir apdrausti banko filiale laikomus tinkamus drausti indėlius pagal šį įstatymą. 
-
-
-
-
-6. Trečiosios valstybės bankas, pateikdamas Lietuvos bankui prašymą įsteigti Lietuvos Respublikoje filialą, kuriame numatoma priimti indėlius, arba prašymą suteikti teisę priimti indėlius, turi pateikti draudimo įmonei teisės aktų, kuriuose nustatomos indėlių draudimo sąlygos toje trečiojoje valstybėje, kopijas ir patvirtintus jų vertimus į lietuvių kalbą. Apie indėlių draudimo sąlygų trečiojoje valstybėje pasikeitimus trečiosios valstybės bankas privalo nedelsdamas informuoti draudimo įmonę.
+5 straipsnis. Neteko galios nuo 2021-01-01
+Straipsnio naikinimas:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
  
-
-
 
 
 
@@ -496,7 +492,10 @@ IndĖlių draudimas
 
 
 
-3. Jeigu tinkamas drausti indėlis yra depozitinėje sąskaitoje, tinkamas drausti indėlis padalijamas kiekvienam fiziniam ar juridiniam asmeniui arba kitai organizacijai, kuriems priklauso depozitinėje sąskaitoje laikomos lėšos, pagal jiems priklausančią indėlio dalį. Kiekvienas asmuo, atidarydamas kredito įstaigoje sąskaitą, kurioje bus laikomos tik kitiems asmenims nuosavybės, patikėjimo teise ar kitais pagrindais priklausančios lėšos, privalo kredito įstaigai nurodyti, kad atidaroma sąskaita yra depozitinė sąskaita, nurodyti įstatymą, kuriuo vadovaujantis atidaryta tokia sąskaita, ir kredito įstaigos arba draudimo įmonės reikalavimu per 5 darbo dienas pateikti duomenis apie tokioje sąskaitoje laikomas kiekvienam asmeniui priklausančias lėšas. Duomenų pateikimo draudimo įmonei formą, turinį ir tvarką nustato ir savo interneto svetainėje skelbia draudimo įmonė. 
+3. Jeigu tinkamas drausti indėlis yra depozitinėje sąskaitoje, tinkamas drausti indėlis padalijamas kiekvienam fiziniam ar juridiniam asmeniui arba kitai organizacijai, kuriems priklauso depozitinėje sąskaitoje laikomos lėšos, pagal jiems priklausančią indėlio dalį. Kiekvienas asmuo, atidarydamas kredito įstaigoje sąskaitą, kurioje bus laikomos tik kitiems asmenims nuosavybės, patikėjimo teise ar kitais pagrindais priklausančios lėšos, privalo kredito įstaigai nurodyti, kad atidaroma sąskaita yra depozitinė sąskaita, nurodyti įstatymą, kuriuo vadovaujantis atidaryta ši sąskaita, ir kredito įstaigos arba valstybės įmonės „Indėlių ir investicijų draudimas“ (toliau – draudimo įmonė) reikalavimu per 5 darbo dienas pateikti duomenis apie šioje sąskaitoje laikomas kiekvienam asmeniui priklausančias lėšas. Duomenų pateikimo draudimo įmonei formą, turinį ir tvarką nustato ir savo interneto svetainėje skelbia draudimo įmonė. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -521,7 +520,10 @@ IndĖlių draudimas
 
 
 
-8. Indėlių draudimo sistemos dalyviai privalo įdiegti priemones, leidžiančias iš karto identifikuoti kiekvienam indėlininkui priklausančią tinkamų drausti indėlių sumą, pagrindinių apdraustųjų indėlių sumą ir kitus duomenis, reikalingus indėlių draudimo išmokoms apskaičiuoti, kuriuos draudimo įmonės prašymu indėlių draudimo sistemos dalyviai privalo pateikti draudimo įmonei nedelsdami, bet ne vėliau kaip per 2 darbo dienas nuo indėlių draudžiamojo įvykio dienos, išskyrus atvejus, numatytus šio straipsnio 3 ir 5 dalyse. 
+8. Indėlių draudimo sistemos dalyviai privalo įdiegti priemones, leidžiančias iš karto identifikuoti kiekvienam indėlininkui priklausančią tinkamų drausti indėlių sumą, pagrindinių apdraustųjų indėlių sumą ir kitus indėlių draudimo išmokoms apskaičiuoti reikalingus duomenis, kuriuos draudimo įmonės prašymu indėlių draudimo sistemos dalyviai privalo pateikti draudimo įmonei nedelsdami, bet ne vėliau kaip per 2 darbo dienas nuo draudimo įmonės prašymo pateikimo dienos, išskyrus atvejus, numatytus šio straipsnio 3 ir 5 dalyse. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -542,8 +544,6 @@ IndĖlių draudimas
 
 
 
-2. Indėlių draudimo išmokos išmokamos, išskyrus šio straipsnio 4 dalyje nustatytas išimtis, per 15 darbo dienų nuo indėlių draudžiamojo įvykio dienos.
-2 dalies redakcija nuo 2021 m. sausio 1 d. iki 2023 m. gruodžio 31 d.:
 2. Indėlių draudimo išmokos išmokamos, išskyrus šio straipsnio 4 dalyje nustatytas išimtis, per 10 darbo dienų nuo indėlių draudžiamojo įvykio dienos.
 2 dalies redakcija nuo 2024 m. sausio 1 d.:
 2. Indėlių draudimo išmokos išmokamos, išskyrus šio straipsnio 4 dalyje nustatytas išimtis, per 7 darbo dienas nuo indėlių draudžiamojo įvykio dienos.
@@ -580,7 +580,10 @@ TAR pastaba. 7 straipsnio 3 dalis įsigalioja 2016 m. gegužės 31 d. 7 straipsn
 
 
 
-5) reikalavimus atitinkantis indėlis laikomas bendroje ar depozitinėje sąskaitoje – iki bus išsiaiškintos konkrečiam asmeniui bendroje ar depozitinėje sąskaitoje priklausančios sumos, bet ne ilgiau kaip 3 mėnesiams nuo indėlių draudžiamojo įvykio dienos;
+5) tinkamas drausti indėlis laikomas bendroje ar depozitinėje sąskaitoje – iki bus išsiaiškintos konkrečiam asmeniui bendroje ar depozitinėje sąskaitoje priklausančios sumos, bet ne ilgiau kaip 3 mėnesiams nuo indėlių draudžiamojo įvykio dienos; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -595,7 +598,10 @@ TAR pastaba. 7 straipsnio 3 dalis įsigalioja 2016 m. gegužės 31 d. 7 straipsn
 
 
 
-8) papildomo draudimo pagal šio įstatymo 5 straipsnio 2 dalį indėlių draudimo išmokos mokamos trečiosios valstybės kredito įstaigos Lietuvos Respublikoje įsteigto filialo indėlininkams pagal šio straipsnio 9 dalį – iki trečiosios valstybės indėlių draudimo sistemos, kurios dalyvė yra kredito įstaiga, įsteigusi filialą Lietuvos Respublikoje, administratorius pateiks draudimo įmonei duomenis, reikalingus draudimo išmokoms išmokėti.
+8) indėlininkui ar kitam asmeniui, kurie turi reikalavimo teisę į indėlių draudimo išmoką, dėl jų laikomų kaip indėlių pinigų įsigijimo teisėtumo pareikštas kaltinimas dėl pinigų plovimo ir (ar) teroristų finansavimo, – iki galutinio teismo sprendimo įsiteisėjimo. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -622,7 +628,10 @@ TAR pastaba. 7 straipsnio 3 dalis įsigalioja 2016 m. gegužės 31 d. 7 straipsn
 
 
 
-9. Draudimo įmonė trečiosios valstybės kredito įstaigos Lietuvos Respublikoje įsteigto filialo indėlininkams papildomo draudimo pagal šio įstatymo 5 straipsnio 2 dalį išmoką išmoka tik iš trečiosios valstybės indėlių draudimo sistemos, kurios dalyvė yra kredito įstaiga, gavusi duomenis, reikalingus draudimo išmokoms išmokėti.
+9. Neteko galios nuo 2021-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -663,7 +672,7 @@ TAR pastaba. 7 straipsnio 3 dalis įsigalioja 2016 m. gegužės 31 d. 7 straipsn
 8 straipsnis. Indėlių draudimo išmokų mokėjimo apribojimai
 
 
-1. Indėlių draudimo išmokos nemokamos:
+Indėlių draudimo išmokos nemokamos:
 
 
 1) už šio įstatymo 3 straipsnio 2 dalyje nurodytus indėlius, lėšas, pinigus, vertybinius popierius ir įsipareigojimus;
@@ -671,17 +680,19 @@ TAR pastaba. 7 straipsnio 3 dalis įsigalioja 2016 m. gegužės 31 d. 7 straipsn
 
 
 
-2) indėlininkams už indėlius sąskaitoje, kurioje per pastaruosius 24 mėnesius iki indėlių draudžiamojo įvykio dienos nėra atlikta jokių su indėliu susijusių operacijų ir laikomo indėlio suma yra mažesnė kaip 10 eurų.
+2) indėlininkams už indėlius sąskaitoje, kurioje per pastaruosius 24 mėnesius iki indėlių draudžiamojo įvykio dienos nėra atlikta jokių su indėliu susijusių operacijų ir laikomo indėlio suma yra mažesnė kaip 10 eurų;
 
 
 
 
+3) indėlininkams ar kitiems asmenims, kurie turi reikalavimo teisę į indėlių draudimo išmoką ir kuriems dėl jų laikomų kaip indėlių pinigų įsigijimo teisėtumo priimtas apkaltinamasis nuosprendis baudžiamojoje byloje dėl pinigų plovimo ir (ar) teroristų finansavimo
 
 
-2. Indėlių draudimo išmokų išmokėjimas stabdomas, kai indėlininkui ar kitam asmeniui, turintiems reikalavimo teisę į indėlių draudimo išmoką, yra pareikštas kaltinimas dėl pinigų plovimo, iki galutinio teismo sprendimo įsiteisėjimo.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
  
-
-
 
 
 
@@ -746,7 +757,10 @@ TAR pastaba. Indėlių draudimo sistemos dalyviai esamus indėlininkus privalo p
 
 
 
-8. Indėlių draudimo sistemos dalyvis privalo informuoti savo indėlininkus apie numatomą reorganizavimą įstatymų nustatyta tvarka, bet ne vėliau kaip likus vienam mėnesiui iki reorganizavimo pabaigos. Jeigu būtina išsaugoti komercinę paslaptį arba siekiama finansų sistemos stabilumo, priežiūros institucija turi teisę sutrumpinti šioje dalyje nustatytą terminą. Nuo informavimo apie indėlių draudimo sistemos dalyvio reorganizavimą dienos indėlininkai, nepatirdami jokių finansinių nuostolių, turi teisę per 3 mėnesius savo tinkamus drausti indėlius, įskaitant visas sukauptas palūkanas ir bet kokią kitą finansinę naudą, neapsiribodami šio įstatymo 4 straipsnyje nustatyta indėlių draudimo suma, tačiau ne didesnius negu buvusius reorganizavimo pabaigos dieną, atsiimti arba perkelti į kitą kredito įstaigą.
+8. Indėlių draudimo sistemos dalyvis privalo informuoti savo indėlininkus apie numatomą reorganizavimą įstatymų nustatyta tvarka, bet ne vėliau kaip likus vienam mėnesiui iki reorganizavimo pabaigos. Jeigu būtina išsaugoti komercinę paslaptį arba siekiama finansų sistemos stabilumo, priežiūros institucija turi teisę sutrumpinti šioje dalyje nustatytą terminą. Nuo informavimo apie indėlių draudimo sistemos dalyvio reorganizavimą dienos indėlininkai, nepatirdami jokių finansinių nuostolių, turi teisę per 3 mėnesius savo tinkamus drausti indėlius, įskaitant visas sukauptas palūkanas ir bet kokią kitą finansinę naudą, viršijančius šio įstatymo 4 straipsnyje nustatytą indėlių draudimo sumą, tačiau ne didesnius negu buvusius reorganizavimo pabaigos dieną, atsiimti arba perkelti į kitą kredito įstaigą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -775,19 +789,22 @@ TAR pastaba. Indėlių draudimo sistemos dalyviai esamus indėlininkus privalo p
 
 
 
-2) trečiųjų valstybių bankai, Lietuvos Respublikoje įsteigę filialą, kuriuose laikomi indėliai nedraudžiami arba kitaip neužtikrinamas jų saugumas pagal trečiosios valstybės, kurios jurisdikcijai priklauso filialą įsteigęs bankas, teisės aktus;
+2) Lietuvos Respublikoje įsteigti trečiųjų valstybių bankų filialai, kai draudimo įmonės taryba nustato, kad filiale laikomų indėlių apsauga nėra lygiavertė šiame įstatyme nustatytai indėlių apsaugai. Draudimo įmonės taryba, vertindama Lietuvos Respublikoje įsteigtame trečiosios valstybės banko filiale laikomų indėlių apsaugos lygiavertiškumą, bent jau patikrina, ar filialo indėlininkams yra užtikrinta tokio pat dydžio indėlių draudimo suma ir indėlių draudimo objektas, kaip nustatyta šiame įstatyme;
 
 
 
 
-3) trečiųjų valstybių bankai, Lietuvos Respublikoje įsteigę filialą, kuriuose laikomi indėliai draudžiami (kompensuojami) arba kitaip užtikrinamas jų saugumas pagal trečiosios valstybės teisės aktus, tačiau draudimo įmonės taryba nustato, kad šios indėlių draudimo (kompensavimo) arba kitokio saugumo užtikrinimo sąlygos yra blogesnės, negu nustatyta šiame įstatyme; 
+3) Lietuvos Respublikoje įsteigtos centrinės kredito unijos;
 
 
 
 
-4) Lietuvos Respublikoje įsteigtos kredito unijos ir Centrinė kredito unija. 
+4) Lietuvos Respublikoje įsteigtos kredito unijos. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -843,7 +860,7 @@ TAR pastaba. Indėlių draudimo sistemos dalyviai esamus indėlininkus privalo p
 12 straipsnis. Periodinės (ex ante) indėlių draudimo įmokos
 
 
-1. Indėlių draudimo sistemos dalyviai į Indėlių draudimo fondą privalo mokėti periodines (ex ante) ir specialiąsias (ex post) indėlių draudimo įmokas. Periodinės (ex ante) ir specialiosios (ex post) indėlių draudimo įmokos į Indėlių draudimo fondą skaičiuojamos ir mokamos nuo pas indėlių draudimo sistemos dalyvį indėlininkų laikomų pagrindinių apdraustųjų indėlių sumos, išskyrus šio įstatymo 11 straipsnio 1 dalies 3 punkte nurodytus indėlių draudimo sistemos dalyvius, kurių periodinės (ex ante) ir specialiosios (ex post) įmokos yra skaičiuojamos nuo šio įstatymo 5 straipsnio 3 dalyje nurodytos papildomos indėlių draudimo sumos. Periodinių (ex ante) draudimo įmokų apskaičiavimo tikslais visos vienoje depozitinėje sąskaitoje esančios lėšos laikomos priklausančiomis vienam indėlininkui.
+1. Indėlių draudimo sistemos dalyviai į Indėlių draudimo fondą privalo mokėti periodines (ex ante) indėlių draudimo įmokas. Periodinės (ex ante) indėlių draudimo įmokos į Indėlių draudimo fondą skaičiuojamos ir mokamos nuo pas indėlių draudimo sistemos dalyvį indėlininkų laikomų pagrindinių apdraustųjų indėlių sumos. Periodinių (ex ante) draudimo įmokų apskaičiavimo tikslais visos vienoje depozitinėje sąskaitoje esančios lėšos laikomos priklausančiomis vienam indėlininkui.
 
 
 
@@ -856,38 +873,37 @@ TAR pastaba. Indėlių draudimo sistemos dalyviai esamus indėlininkus privalo p
 
 
 
-2) pas konkretų indėlių draudimo sistemos dalyvį indėlininkų laikomų apdraustųjų pagrindinių indėlių sumos ir pas visus indėlių draudimo sistemos dalyvius indėlininkų laikomų pagrindinių apdraustųjų indėlių sumos santykį;
+2) pas konkretų indėlių draudimo sistemos dalyvį indėlininkų laikomų pagrindinių apdraustųjų indėlių sumos ir pas visus indėlių draudimo sistemos dalyvius indėlininkų laikomų pagrindinių apdraustųjų indėlių sumos santykį;
 
 
 
 
-3) konkretaus indėlių draudimo sistemos dalyvio veiklos rizikingumą, kurį nustato priežiūros institucija;
-TAR pastaba. 12 straipsnio 2 dalies 3 punktas įsigalioja 2016 m. sausio 1 d.
+3) konkretaus indėlių draudimo sistemos dalyvio veiklos rizikos koeficientą, kurį nustato priežiūros institucija;
 
 
 
 
-4) visų indėlių draudimo sistemos dalyvių tam tikrais metais į Indėlių draudimo fondą mokėtiną metinę periodinių (ex ante) indėlių draudimo įmokų sumą (toliau – metinė periodinių (ex ante) indėlių draudimo įmokų suma).
+4) metinę periodinių (ex ante) indėlių draudimo įmokų normą, kuri yra lygi visų indėlių draudimo sistemos dalyvių tam tikrais metais į Indėlių draudimo fondą mokėtinos metinės periodinių (ex ante) indėlių draudimo įmokų sumos ir visų indėlių draudimo sistemos dalyvių pagrindinių apraustųjų indėlių sumos santykiui, išreikštam procentais (toliau – metinė periodinių (ex ante) indėlių draudimo įmokų norma).
 
 
 
 
 
 
-3. Periodinių (ex ante) indėlių draudimo įmokų ir specialiųjų (ex post) indėlių draudimo įmokų apskaičiavimo tikslais indėlių draudimo sistemos dalyvio veiklos rizikingumas nustatomas atsižvelgiant į konkretaus indėlių draudimo sistemos dalyvio vykdomo verslo modelį, jo turto kokybę, teisės aktuose įtvirtintus indėlių draudimo sistemos dalyvių veiklos riziką ribojančius normatyvus ir kitus indėlių draudimo sistemos dalyvio veiklos riziką apibūdinančius kriterijus. Indėlių draudimo sistemos dalyvio veiklos rizikos įvertinimo metodus ir tvarką, atsižvelgdama į Europos bankininkystės institucijos 2015 m. gegužės 28 d. gaires EBA/GL/2015/10 dėl įnašų į indėlių garantijų sistemas apskaičiavimo metodų (toliau – Europos bankininkystės institucijos gairės EBA/GL/2015/10), bendradarbiaudama su draudimo įmone, nustato ir tvirtina priežiūros institucija. Apie patvirtintus indėlių draudimo sistemos dalyvio veiklos rizikos įvertinimo metodus priežiūros institucija informuoja Europos bankininkystės instituciją.
+3. Periodinių (ex ante) indėlių draudimo įmokų ir specialiųjų (ex post) indėlių draudimo įmokų apskaičiavimo tikslais indėlių draudimo sistemos dalyvio veiklos rizikos koeficientas nustatomas kartą per metus, atsižvelgiant į konkretaus indėlių draudimo sistemos dalyvio verslo modelį, jo turto kokybę, teisės aktuose nustatytus indėlių draudimo sistemos dalyvių veiklos riziką ribojančius normatyvus ir kitus indėlių draudimo sistemos dalyvio veiklos riziką apibūdinančius kriterijus. Per einamuosius metus prie Lietuvos Respublikos indėlių draudimo sistemos prisijungusiems naujiems indėlių draudimo sistemos dalyviams, atsižvelgiant į tuos pačius kriterijus, nustatomas laikinas atskirasis rizikos koeficientas, taikytinas iki reguliaraus metinio visų indėlių draudimo sistemos dalyvių veiklos rizikos koeficientų nustatymo. Indėlių draudimo sistemos dalyvio veiklos rizikos koeficiento ir laikino atskirojo rizikos koeficiento nustatymo metodus ir tvarką, atsižvelgdama į Europos bankininkystės institucijos 2015 m. gegužės 28 d. gaires EBA/GL/2015/10 dėl įnašų į indėlių garantijų sistemas apskaičiavimo metodų (toliau – Europos bankininkystės institucijos gairės EBA/GL/2015/10), bendradarbiaudama su draudimo įmone, nustato ir tvirtina priežiūros institucija. Apie patvirtintus indėlių draudimo sistemos dalyvio veiklos rizikos koeficiento nustatymo metodus priežiūros institucija informuoja Europos bankininkystės instituciją.
 
 
 
 
-4. Metinę periodinių (ex ante) indėlių draudimo įmokų sumą nustato ir peržiūri draudimo įmonės savininko teises ir pareigas įgyvendinanti institucija, gavusi draudimo įmonės tarybos išvadą. Metinė periodinių (ex ante) indėlių draudimo įmokų suma negali būti didesnė kaip 0,5 procento visų indėlių draudimo sistemos dalyvių pagrindinių apdraustųjų indėlių sumos. Metinė periodinių (ex ante) indėlių draudimo įmokų suma nustatoma kuo tolygiau paskirstant finansinę naštą per laikotarpį, iki bus pasiekti mažiausiasis ir nacionalinis tiksliniai lygiai, atsižvelgiant į:
+4. Metinę periodinių (ex ante) indėlių draudimo įmokų normą nustato ir peržiūri draudimo įmonės savininko teises ir pareigas įgyvendinanti institucija, gavusi draudimo įmonės tarybos išvadą. Metinė periodinių (ex ante) indėlių draudimo įmokų norma negali būti didesnė kaip 0,5 procento. Metinė periodinių (ex ante) indėlių draudimo įmokų norma nustatoma kuo tolygiau paskirstant finansinę naštą per laikotarpį, iki bus pasiekti mažiausiasis ir nacionalinis tiksliniai lygiai, atsižvelgiant į:
 
 
-1) Indėlių draudimo fondo turimus finansinius išteklius, įvertinus jo turimus skolinius įsipareigojimus;
+1) Indėlių draudimo fondo turimus finansinius išteklius, įvertinus šio fondo turimus skolinius įsipareigojimus;
 
 
 
 
-2) tikslą iki 2024 m. liepos 3 d. pasiekti mažiausiąjį tikslinį lygį, išskyrus šio įstatymo 15 straipsnio 3 ir 4 dalyse nustatytas išimtis, ir iki 2028 m. liepos 3 d. – nacionalinį tikslinį lygį; 
+2) tikslą iki 2024 m. liepos 3 d. pasiekti mažiausiąjį tikslinį lygį ir iki 2038 m. liepos 3 d. pasiekti nacionalinį tikslinį lygį, išskyrus šio įstatymo 15 straipsnio 3 ir 4 dalyse nustatytas išimtis; 
 
 
 
@@ -904,12 +920,12 @@ TAR pastaba. 12 straipsnio 2 dalies 3 punktas įsigalioja 2016 m. sausio 1 d.
 
 
 
-5. Metinė periodinių (ex ante) indėlių draudimo įmokų suma nustatoma iki gegužės 31 d. vieniems metams nuo liepos 1 d. iki kitų metų birželio 30 d. Nustatant metinę periodinių (ex ante) indėlių draudimo įmokų sumą, vertinami praėjusių kalendorinių metų gruodžio 31 d. duomenys. Draudimo įmonės savininko teises ir pareigas įgyvendinanti institucija turi teisę kartą per metus peržiūrėti nustatytą metinę periodinių (ex ante) indėlių draudimo įmokų sumą ir ją pakeisti, jeigu Indėlių draudimo fondo finansiniai ištekliai padidėja arba sumažėja didesne kaip dviejų trečdalių mažiausiojo tikslinio lygio suma. Tokia peržiūra gali būti atliekama iki lapkričio 30 d. 6 mėnesių laikotarpiui nuo kitų metų sausio 1 d. iki birželio 30 d. Peržiūrint metinę periodinių (ex ante) indėlių draudimo įmokų sumą, vertinami praėjusio pusmečio (birželio 30 d.) duomenys. Metinė periodinių (ex ante) indėlių draudimo įmokų suma nustatoma tol, kol pasiekiamas ar atkuriamas nacionalinis tikslinis lygis. 
+5. Metinė periodinių (ex ante) indėlių draudimo įmokų norma nustatoma iki gegužės 31 d. vieniems metams nuo liepos 1 d. iki kitų metų birželio 30 d. Nustatant metinę periodinių (ex ante) indėlių draudimo įmokų normą, vertinami praėjusių kalendorinių metų gruodžio 31 d. duomenys. Draudimo įmonės savininko teises ir pareigas įgyvendinanti institucija turi teisę kartą per metus peržiūrėti nustatytą metinę periodinių (ex ante) indėlių draudimo įmokų normą ir ją pakeisti, jeigu Indėlių draudimo fondo finansiniai ištekliai padidėja arba sumažėja didesne kaip dviejų trečdalių mažiausiojo tikslinio lygio suma. Tokia peržiūra gali būti atliekama iki lapkričio 30 d. 6 mėnesių laikotarpiui nuo kitų metų sausio 1 d. iki birželio 30 d. Peržiūrint metinę periodinių (ex ante) indėlių draudimo įmokų normą, vertinami praėjusio pusmečio (birželio 30 d.) duomenys. Metinė periodinių (ex ante) indėlių draudimo įmokų norma nustatoma tol, kol pasiekiamas ar atkuriamas nacionalinis tikslinis lygis.
 
 
 
 
-6. Kai Indėlių draudimo fondo finansiniai ištekliai pasiekia šiame įstatyme nustatytą nacionalinį tikslinį lygį, metinė periodinių (ex ante) indėlių draudimo įmokų suma yra 0,05 procento visų indėlių draudimo sistemos dalyvių pagrindinių apdraustųjų indėlių.
+6. Kai Indėlių draudimo fondo finansiniai ištekliai pasiekia šiame įstatyme nustatytą nacionalinį tikslinį lygį, metinė periodinių (ex ante) indėlių draudimo įmokų norma yra 0,05.
 
 
 
@@ -917,12 +933,12 @@ TAR pastaba. 12 straipsnio 2 dalies 3 punktas įsigalioja 2016 m. sausio 1 d.
 7. Šio įstatymo 11 straipsnio 1 dalyje nurodyti subjektai, įgiję teisę priimti indėlius, į draudimo įmonės nurodytą Indėlių draudimo fondo sąskaitą per 10 dienų nuo draudimo įmonės nurodymo gavimo dienos sumoka pirmąją (avansinę) draudimo įmoką:
 
 
-1) šio įstatymo 11 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodyti subjektai – 2 000 eurų;
+1) šio įstatymo 11 straipsnio 1 dalies 1 ir 2 punktuose nurodyti subjektai – 2 000 eurų;
 
 
 
 
-2) šio įstatymo 11 straipsnio 1 dalies 4 punkte nurodyti subjektai – 200 eurų. 
+2) šio įstatymo 11 straipsnio 1 dalies 3 ir 4 punktuose nurodyti subjektai – 200 eurų.
 
 
 
@@ -934,25 +950,27 @@ TAR pastaba. 12 straipsnio 2 dalies 3 punktas įsigalioja 2016 m. sausio 1 d.
 
 
 
-9. Periodinių (ex ante) ir specialiųjų (ex post) indėlių draudimo įmokų ir pirmųjų (avansinių) draudimo įmokų apskaičiavimo ir mokėjimo tvarką bei terminus, vadovaudamasi šiuo įstatymu ir kitais teisės aktais, nustato ir draudimo įmonės interneto svetainėje skelbia draudimo įmonės taryba.
+9. Periodinių (ex ante) indėlių draudimo įmokų ir pirmųjų (avansinių) draudimo įmokų apskaičiavimo ir mokėjimo tvarką bei terminus, vadovaudamasi šiuo įstatymu ir kitais teisės aktais, nustato ir draudimo įmonės interneto svetainėje skelbia draudimo įmonės taryba.
 
 
 
 
-10. Kiekvieno indėlių draudimo sistemos dalyvio mokėtinos periodinės (ex ante) ir specialiosios (ex post) indėlių draudimo įmokos dydį, atsižvelgdama į Europos bankininkystės institucijos gaires EBA/GL/2015/10, apskaičiuoja draudimo įmonė. Draudimo įmonei informaciją, reikalingą indėlių draudimo įmokoms apskaičiuoti, pateikia:
+10. Kiekvieno indėlių draudimo sistemos dalyvio mokėtinos periodinės (ex ante) indėlių draudimo įmokos dydį, atsižvelgdama į Europos bankininkystės institucijos gaires EBA/GL/2015/10, kiekvieną kalendorinį ketvirtį pagal praėjusio kalendorinio ketvirčio paskutinio mėnesio paskutinės dienos duomenis apskaičiuoja draudimo įmonė. Draudimo įmonei informaciją, reikalingą indėlių draudimo įmokoms apskaičiuoti, pateikia:
 
 
-1) priežiūros institucija – apie indėlių draudimo sistemos dalyvių veiklos rizikingumo vertinimą;
+1) priežiūros institucija – apie nustatytus indėlių draudimo sistemos dalyvių veiklos rizikos koeficientus;
 
 
 
 
 2) indėlių draudimo sistemos dalyviai – apie pagrindinių apdraustųjų indėlių sumą. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
  
-
-
-
-
 
 
 
@@ -965,7 +983,10 @@ TAR pastaba. 12 straipsnio 2 dalies 3 punktas įsigalioja 2016 m. sausio 1 d.
 
 
 
-2. Periodines (ex ante) indėlių draudimo įmokas indėlių draudimo sistemos dalyvis moka vieną kartą per mėnesį. 
+2. Periodines (ex ante) indėlių draudimo įmokas indėlių draudimo sistemos dalyvis moka ne rečiau kaip vieną kartą per metus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1006,7 +1027,10 @@ TAR pastaba. 12 straipsnio 2 dalies 3 punktas įsigalioja 2016 m. sausio 1 d.
 14 straipsnis. Specialiosios (ex post) indėlių draudimo įmokos
 
 
-1. Jeigu įvykus indėlių draudžiamajam įvykiui Indėlių draudimo fondo finansinių išteklių nepakanka visoms indėlininkams priklausančioms indėlių draudimo išmokoms išmokėti, indėlių draudimo sistemos dalyviai Indėlių draudimo fondui privalo mokėti specialiąsias (ex post) indėlių draudimo įmokas. 
+1. Jeigu, įvykus indėlių draudžiamajam įvykiui, Indėlių draudimo fondo finansinių išteklių nepakanka visoms indėlininkams priklausančioms indėlių draudimo išmokoms išmokėti, indėlių draudimo sistemos dalyviai draudimo įmonės nurodymu Indėlių draudimo fondui privalo mokėti specialiąsias (ex post) indėlių draudimo įmokas. Apie Indėlių draudimo fondo finansinių išteklių nepakankamumą draudimo įmonė informuoja draudimo įmonės savininko teises ir pareigas įgyvendinančią instituciją ir priežiūros instituciją per vieną darbo dieną nuo indėlių draudžiamojo įvykio dienos. Priežiūros institucija išvadą draudimo įmonės savininko teises ir pareigas įgyvendinančiai institucijai turi pateikti per 2 darbo dienas nuo informacijos apie Indėlių draudimo fondo finansinių išteklių nepakankamumą gavimo iš draudimo įmonės dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1032,6 +1056,32 @@ TAR pastaba. 12 straipsnio 2 dalies 3 punktas įsigalioja 2016 m. sausio 1 d.
 
 
 
+6. Specialiųjų (ex post) indėlių draudimo įmokų apskaičiavimo ir mokėjimo tvarką bei terminus, vadovaudamasi šiuo įstatymu ir kitais teisės aktais, nustato ir draudimo įmonės interneto svetainėje skelbia draudimo įmonės taryba. 
+Papildyta straipsnio dalimi:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
+
+
+
+
+7. Kiekvieno indėlių draudimo sistemos dalyvio mokėtinos specialiosios (ex post) indėlių draudimo įmokos dydį, atsižvelgdama į Europos bankininkystės institucijos gaires EBA/GL/2015/10, pagal praėjusio kalendorinio ketvirčio paskutinio mėnesio paskutinės dienos duomenis apskaičiuoja draudimo įmonė. Draudimo įmonei informaciją, reikalingą indėlių draudimo įmokoms apskaičiuoti, pateikia:
+
+
+1) priežiūros institucija – apie nustatytus indėlių draudimo sistemos dalyvių veiklos rizikos koeficientus;
+
+
+
+
+2) indėlių draudimo sistemos dalyviai – apie pagrindinių apdraustųjų indėlių sumą. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
+
+
+
+
 
 
 15 straipsnis. Indėlių draudimo fondo tiksliniai lygiai 
@@ -1042,7 +1092,10 @@ TAR pastaba. 12 straipsnio 2 dalies 3 punktas įsigalioja 2016 m. sausio 1 d.
 
 
 
-2. Nacionalinis tikslinis lygis privalo būti pasiektas iki 2028 m. liepos 3 d.
+2. Nacionalinis tikslinis lygis privalo būti pasiektas iki 2038 m. liepos 3 d. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1052,12 +1105,17 @@ TAR pastaba. 12 straipsnio 2 dalies 3 punktas įsigalioja 2016 m. sausio 1 d.
 
 
 
-4. Jeigu pirmą kartą pasiekus mažiausiąjį tikslinį lygį, Indėlių draudimo fondo finansiniai ištekliai sumažėja ir sudaro mažiau negu du trečdalius mažiausiojo tikslinio lygio, mažiausiasis tikslinis lygis privalo būti atkurtas per 6 metus, o nacionalinis tikslinis lygis privalo būti pasiektas per 10 metų.
+4. Jeigu, pirmą kartą pasiekus mažiausiąjį tikslinį lygį, Indėlių draudimo fondo finansiniai ištekliai sumažėja ir sudaro mažiau negu du trečdalius mažiausiojo tikslinio lygio, mažiausiasis tikslinis lygis privalo būti atkurtas per 6 metus, o atkūrus mažiausiąjį tikslinį lygį, nacionalinis tikslinis lygis privalo būti pasiektas per 10 metų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
 
-5. Jeigu mažiausiasis tikslinis lygis pasiekiamas anksčiau negu šio straipsnio 1 dalyje nustatytas terminas, periodinės (ex ante) indėlių draudimo įmokos toliau mokamos, kad būtų pasiektas nacionalinis tikslinis lygis, kurio pasiekimo terminas sutrumpinamas atitinkamu laikotarpiu, kuriuo sutrumpėjo mažiausiojo tikslinio lygio pasiekimo terminas.
+5. Neteko galios nuo 2021-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
  
 
 
@@ -1101,7 +1159,26 @@ TAR pastaba. 12 straipsnio 2 dalies 3 punktas įsigalioja 2016 m. sausio 1 d.
 
 
 
-5) kitos lėšos.
+5) paskolos, gautos Indėlių draudimo fondo įsipareigojimams vykdyti; 
+Papildyta straipsnio punktu:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
+
+
+
+
+6) lėšos, gautos kitų valstybių narių indėlių draudimo sistemoms grąžinant Indėlių draudimo fondo suteiktą paskolą, įskaitant palūkanas ir delspinigius; 
+Papildyta straipsnio punktu:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
+
+
+
+
+7) kitos lėšos.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1111,7 +1188,7 @@ TAR pastaba. 12 straipsnio 2 dalies 3 punktas įsigalioja 2016 m. sausio 1 d.
 4. Indėlių draudimo fondo lėšos naudojamos:
 
 
-1) indėlių draudimo išmokoms; 
+1) indėlių draudimo išmokoms, įskaitant palūkanas ir delspinigius, mokėtinus pagal teismų sprendimus;
 
 
 
@@ -1121,14 +1198,22 @@ TAR pastaba. 12 straipsnio 2 dalies 3 punktas įsigalioja 2016 m. sausio 1 d.
 
 
 
-3) kredito unijos turto, teisių, sandorių ir įsipareigojimų perdavimui finansuoti pagal šio įstatymo 47 straipsnį;
+3) Indėlių draudimo fondo lėšų investavimo sąnaudoms padengti;
 
 
 
 
-4) fondo administravimo sąnaudoms padengti.
+4) Indėlių draudimo fondo administravimo sąnaudoms padengti;
 
 
+
+
+5) paskolų, gautų Indėlių draudimo fondo įsipareigojimams vykdyti, grąžinimo įmokoms, įskaitant palūkanas ir delspinigius. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1138,12 +1223,33 @@ TAR pastaba. 12 straipsnio 2 dalies 3 punktas įsigalioja 2016 m. sausio 1 d.
 
 
 
-6. Jeigu indėlių draudimo išmokoms mokėti Indėlių draudimo fonde trūksta finansinių išteklių ir nepakanka surinktų specialiųjų (ex post) indėlių draudimo įmokų, indėlių draudimo išmokos gali būti mokamos iš draudimo įmonės nuosavo kapitalo privalomojo rezervo. Tokiu atveju Indėlių draudimo fondo pajamos naudojamos draudimo įmonės nuosavo kapitalo privalomajam rezervui atkurti. Atkūrus draudimo įmonės nuosavo kapitalo privalomojo rezervo lygį, buvusį iki jo lėšų panaudojimo, Indėlių draudimo fondo pajamos perduodamos Indėlių draudimo fondui. 
+6. Jeigu indėlių draudimo išmokoms mokėti Indėlių draudimo fonde trūksta finansinių išteklių, indėlių draudimo išmokos gali būti mokamos iš šių lėšų šaltinių:
+
+
+1) indėlių draudimo sistemos dalyvių specialiųjų (ex post) indėlių draudimo įmokų, surinktų šio įstatymo 14 straipsnyje nustatyta tvarka;
 
 
 
 
-7. Draudimo įmonė, kai indėlių draudimo išmokoms mokėti Indėlių draudimo fonde trūksta finansinių išteklių, turi teisę skolintis. Lėšų indėlių draudimo išmokoms išmokėti skolinimo paslaugų įsigijimui taikomas specialus informacijos apsaugos reikalavimas – apie vykdomą pasirengimą įsigyti lėšų indėlių draudimo išmokoms išmokėti skolinimo paslaugas ir šių paslaugų įsigijimą viešai neskelbiama.
+2) draudimo įmonės nuosavo kapitalo privalomojo rezervo. Šiuo atveju Indėlių draudimo fondo pajamos naudojamos draudimo įmonės nuosavo kapitalo privalomajam rezervui atkurti. Atkūrus draudimo įmonės nuosavo kapitalo privalomojo rezervo lygį, buvusį iki jo lėšų panaudojimo, Indėlių draudimo fondo pajamos perduodamos Indėlių draudimo fondui;
+
+
+
+
+3) skolintų lėšų. Lėšų indėlių draudimo išmokoms išmokėti skolinimo paslaugų įsigijimui taikomas specialus informacijos apsaugos reikalavimas – apie pasirengimą įsigyti lėšų indėlių draudimo išmokoms išmokėti skolinimo paslaugas ir šių paslaugų įsigijimą viešai neskelbiama. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
+
+
+
+
+7. Kai indėlių draudimo išmokoms mokėti Indėlių draudimo fonde trūksta finansinių išteklių visoms indėlininkams priklausančioms indėlių draudimo išmokoms išmokėti, draudimo įmonė ne vėliau kaip per vieną darbo dieną nuo indėlių draudžiamojo įvykio dienos draudimo įmonės savininko teises ir pareigas įgyvendinančią instituciją informuoja apie trūkstamų lėšų dydį ir pateikia pagrįstus pasiūlymus ir argumentus dėl lėšų šaltinio (prioritetą teikti siekiui gauti trūkstamas lėšas palankiausiomis sąlygomis ir užtikrinti indėlių draudimo išmokų išmokėjimą per šiame įstatyme nurodytus terminus). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1253,7 +1359,10 @@ TAR pastaba. 12 straipsnio 2 dalies 3 punktas įsigalioja 2016 m. sausio 1 d.
 
 
 
-14. Indėlių draudimo fondo lėšos laikomos atskiroje (atskirose) banko sąskaitoje (sąskaitose). Draudimo įmonė, atidarydama tokią sąskaitą (tokias sąskaitas), privalo kredito įstaigai nurodyti, kad šioje sąskaitoje (šiose sąskaitose) laikomos Indėlių draudimo fondo lėšos ir kad į šias lėšas draudžiama nukreipti reikalavimus pagal draudimo įmonės prievoles.
+14. Indėlių draudimo fondo lėšos laikomos atskirose sąskaitose, atidarytose kredito įstaigoje ir (ar) Lietuvos banke. Draudimo įmonė, atidarydama tokias sąskaitas, privalo kredito įstaigai ir (ar) Lietuvos bankui nurodyti, kad šiose sąskaitose laikomos Indėlių draudimo fondo lėšos ir kad į šias lėšas draudžiama nukreipti reikalavimus pagal draudimo įmonės prievoles. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1280,7 +1389,10 @@ Indėlių draudimo fondo lėšos tinkamai diversifikuojant investuojamos į maž
 18 straipsnis. Indėlių draudimo nutraukimo tvarka
 
 
-1. Jeigu priežiūros institucija laikinai ar visam laikui atšaukia indėlių draudimo sistemos dalyvio teisę priimti indėlius, tokiam indėlių draudimo sistemos dalyviui atitinkamai laikinai ar visam laikui indėlių draudimas (papildomas indėlių draudimas) nutrūksta.
+1. Jeigu priežiūros institucija laikinai ar visam laikui atšaukia indėlių draudimo sistemos dalyvio teisę priimti indėlius, tokiam indėlių draudimo sistemos dalyviui atitinkamai laikinai ar visam laikui indėlių draudimas nutrūksta. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1295,12 +1407,18 @@ Indėlių draudimo fondo lėšos tinkamai diversifikuojant investuojamos į maž
 
 
 
-4. Jeigu priemonėmis, kurių buvo imtasi pagal šio straipsnio 3 dalį, nepavyksta užtikrinti, kad indėlių draudimo sistemos dalyvis laikytųsi šiame įstatyme nustatytos tvarkos, ir (arba) jo veikla kelia pavojų Indėlių draudimo fondo įsipareigojimų vykdymui, draudimo įmonės taryba, pranešusi apie tai priežiūros institucijai ir su ja suderinusi, ne vėliau kaip prieš vieną mėnesį gali įspėti indėlių draudimo sistemos dalyvį apie galimą indėlių draudimo (papildomo indėlių draudimo) nutraukimą. Įspėjus apie galimą indėlių draudimo (papildomo indėlių draudimo) nutraukimą, įnešti indėliai visiškai draudžiami. Jeigu per vieną mėnesį nuo įspėjimo dienos indėlių draudimo sistemos dalyvis nepašalina pažeidimų, draudimo įmonės tarybos sprendimu, suderintu su priežiūros institucija, indėlių draudimo sistemos dalyvio priimamų indėlių draudimas (papildomas indėlių draudimas) nutraukiamas.
+4. Jeigu priemonėmis, kurių buvo imtasi pagal šio straipsnio 3 dalį, nepavyksta užtikrinti, kad indėlių draudimo sistemos dalyvis laikytųsi šiame įstatyme nustatytos tvarkos, ir (arba) jo veikla kelia pavojų Indėlių draudimo fondo įsipareigojimų vykdymui, draudimo įmonės taryba, pranešusi apie tai priežiūros institucijai ir su ja suderinusi, ne vėliau kaip prieš vieną mėnesį gali įspėti indėlių draudimo sistemos dalyvį apie galimą indėlių draudimo nutraukimą. Įspėjus apie galimą indėlių draudimo nutraukimą, įnešti indėliai visiškai draudžiami. Jeigu per vieną mėnesį nuo įspėjimo dienos indėlių draudimo sistemos dalyvis nepašalina pažeidimų, draudimo įmonės tarybos sprendimu, suderintu su priežiūros institucija, indėlių draudimo sistemos dalyvio priimamų indėlių draudimas nutraukiamas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
 
-5. Apie indėlių draudimo (papildomo indėlių draudimo) nutrūkimą arba nutraukimą draudimo įmonė nedelsdama informuoja priežiūros instituciją ir paskelbia savo interneto svetainėje.
+5. Apie indėlių draudimo nutrūkimą arba nutraukimą draudimo įmonė nedelsdama informuoja priežiūros instituciją ir paskelbia savo interneto svetainėje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1316,20 +1434,22 @@ Indėlių draudimo fondo lėšos tinkamai diversifikuojant investuojamos į maž
 19 straipsnis. Indėlių draudimo nutraukimo padariniai
 
 
-1. Jeigu indėlių draudimo sistemos dalyviui, kuriam pagal šio įstatymo 18 straipsnio 1 dalį nutrūko indėlių draudimas, įvyksta indėlių draudžiamasis įvykis, indėlių draudimo išmokos išmokamos tik už tuos indėlius, kurie buvo priimti iki indėlių draudimo (papildomo indėlių draudimo) nutrūkimo dienos (imtinai) ir nebuvo grąžinti iki indėlių draudžiamojo įvykio dienos (imtinai).
+1. Jeigu indėlių draudimo sistemos dalyviui, kuriam pagal šio įstatymo 18 straipsnio 1 dalį nutrūko indėlių draudimas, įvyksta indėlių draudžiamasis įvykis, indėlių draudimo išmokos išmokamos tik už tuos indėlius, kurie buvo priimti iki indėlių draudimo nutrūkimo dienos (imtinai) ir nebuvo grąžinti iki indėlių draudžiamojo įvykio dienos (imtinai).
 
 
 
 
-2. Jeigu indėlių draudimo sistemos dalyviui, kuriam pagal šio įstatymo 18 straipsnio 4 dalį buvo nutrauktas indėlių draudimas (papildomas indėlių draudimas), įvyksta indėlių draudžiamasis įvykis, indėlių draudimo išmokos išmokamos tik už tuos indėlius, kurie buvo priimti iki sprendimo dėl indėlių draudimo (papildomo indėlių draudimo) nutraukimo įsigaliojimo dienos (imtinai) ir nebuvo grąžinti iki indėlių draudžiamojo įvykio dienos (imtinai).
+2. Jeigu indėlių draudimo sistemos dalyviui, kuriam pagal šio įstatymo 18 straipsnio 4 dalį buvo nutrauktas indėlių draudimas, įvyksta indėlių draudžiamasis įvykis, indėlių draudimo išmokos išmokamos tik už tuos indėlius, kurie buvo priimti iki sprendimo dėl indėlių draudimo nutraukimo įsigaliojimo dienos (imtinai) ir nebuvo grąžinti iki indėlių draudžiamojo įvykio dienos (imtinai).
 
 
 
 
-3. Indėlių draudimo sistemos dalyviui, kuriam indėlių draudimas (papildomas indėlių draudimas) nutrauktas pagal šio įstatymo 18 straipsnio 4 dalį, priežiūros institucija nedelsdama atšaukia teisę priimti indėlius.
+3. Indėlių draudimo sistemos dalyviui, kuriam indėlių draudimas nutrauktas pagal šio įstatymo 18 straipsnio 4 dalį, priežiūros institucija nedelsdama atšaukia teisę priimti indėlius. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
  
-
-
 
 
 
@@ -1372,7 +1492,10 @@ Trečiasis SKIRSNIS
 
 
 
-5) pagal Lietuvos Respublikos draudimo įstatymą veikiančioms draudimo įmonėms ir perdraudimo įmonėms;
+5) draudimo įmonėms ir perdraudimo įmonėms, kitose valstybėse narėse ir trečiosiose valstybėse įsteigtoms draudimo įmonėms ir perdraudimo įmonėms;
+Straipsnio punkto pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1455,14 +1578,17 @@ Trečiasis SKIRSNIS
 2. Investuotojas įgyja teisę į įsipareigojimų investuotojams draudimo išmoką tokiu atveju, kai įsipareigojimų investuotojams draudimo sistemos dalyvis negali įvykdyti pagal teisės aktus ar sutartis prisiimtų šių įsipareigojimų investuotojui:
 
 
-1) grąžinti investuotojui priklausančius ir jo vardu laikomus pinigus, perduotus įsipareigojimų investuotojams draudimo sistemos dalyviui norint pasinaudoti jo teikiamomis investicinėmis paslaugomis;
+1) grąžinti investuotojui pinigus, kuriuos įsipareigojimų investuotojams draudimo sistemos dalyvis yra skolingas investuotojui ir kurie laikomi investuotojo naudai jam naudojantis įsipareigojimų investuotojams draudimo sistemos dalyvio teikiamomis investicinėmis paslaugomis;
 
 
 
 
-2) grąžinti investuotojui priklausančias ir jo vardu laikomas, tvarkomas ar valdomas finansines priemones, perduotas įsipareigojimų investuotojams draudimo sistemos dalyviui naudojantis jo teikiamomis investicinėmis paslaugomis.
+2) grąžinti investuotojui priklausančias ir jo vardu laikomas, tvarkomas ar valdomas finansines priemones, perduotas (patikėtas) įsipareigojimų investuotojams draudimo sistemos dalyviui naudojantis jo teikiamomis investicinėmis paslaugomis. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1512,7 +1638,10 @@ Trečiasis SKIRSNIS
 
 
 
-12. Įsipareigojimų investuotojams draudimo išmokos išmokėjimas gali būti atidedamas investuotojams ar kitiems šio straipsnio 6 dalyje nurodytiems reikalavimo į įsipareigojimų investuotojams draudimo išmoką teisę turintiems asmenims, dėl kurių pinigų ir (arba) finansinių priemonių įsigijimo teisėtumo pareikštas kaltinimas dėl pinigų plovimo, – iki galutinio teismo sprendimo priėmimo.
+12. Įsipareigojimų investuotojams draudimo išmokos išmokėjimas gali būti atidedamas investuotojams ar kitiems šio straipsnio 6 dalyje nurodytiems reikalavimo į įsipareigojimų investuotojams draudimo išmoką teisę turintiems asmenims, kuriems dėl jiems priklausančių ir (ar) jų vardu laikomų pinigų ir (arba) finansinių priemonių įsigijimo teisėtumo pareikštas kaltinimas dėl pinigų plovimo ir (ar) teroristų finansavimo, – iki galutinio teismo sprendimo priėmimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1535,7 +1664,10 @@ Trečiasis SKIRSNIS
 
 
 
-2) investuotojams, dėl kurių finansinių priemonių ir (arba) pinigų priimtas apkaltinamasis nuosprendis baudžiamojoje byloje dėl pinigų plovimo;
+2) investuotojams, kuriems dėl jiems priklausančių ir (ar) jų vardu laikomų finansinių priemonių ir (arba) pinigų įsigijimo teisėtumo priimtas apkaltinamasis nuosprendis baudžiamojoje byloje dėl pinigų plovimo ir (ar) teroristų finansavimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1623,7 +1755,10 @@ Trečiasis SKIRSNIS
 
 
 
-2) Lietuvos Respublikoje įsteigta Centrinė kredito unija;
+2) Lietuvos Respublikoje įsteigtos centrinės kredito unijos; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1755,7 +1890,18 @@ Trečiasis SKIRSNIS
 
 
 
-4) kitos lėšos.
+4) paskolos, gautos Įsipareigojimų investuotojams draudimo fondo įsipareigojimams vykdyti; 
+Papildyta straipsnio punktu:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
+
+
+
+
+5) kitos lėšos.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1765,14 +1911,27 @@ Trečiasis SKIRSNIS
 4. Įsipareigojimų investuotojams draudimo fondo lėšos naudojamos:
 
 
-1) įsipareigojimų investuotojams draudimo išmokoms;
+1) įsipareigojimų investuotojams draudimo išmokoms, įskaitant palūkanas ir delspinigius, mokėtinus pagal teismų sprendimus;
 
 
 
 
-2) fondo administravimo sąnaudoms padengti.
+2) Įsipareigojimų investuotojams draudimo fondo lėšų investavimo sąnaudoms padengti;
 
 
+
+
+3) paskolų, gautų Įsipareigojimų investuotojams draudimo fondo įsipareigojimams vykdyti, grąžinimo įmokoms, įskaitant palūkanas ir delspinigius;
+
+
+
+
+4) Įsipareigojimų investuotojams draudimo fondo administravimo sąnaudoms padengti. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1797,7 +1956,10 @@ Trečiasis SKIRSNIS
 
 
 
-9. Įsipareigojimų investuotojams draudimo fondo lėšos laikomos atskiroje (atskirose) banko sąskaitoje (sąskaitose). Draudimo įmonė, atidarydama tokią sąskaitą (tokias sąskaitas), privalo kredito įstaigai nurodyti, kad šioje sąskaitoje (šiose sąskaitose) laikomos Įsipareigojimų investuotojams draudimo fondo lėšos ir kad į šias lėšas draudžiama nukreipti reikalavimus pagal draudimo įmonės prievoles.
+9. Įsipareigojimų investuotojams draudimo fondo lėšos laikomos atskirose sąskaitose, atidarytose kredito įstaigoje ir (ar) Lietuvos banke. Draudimo įmonė, atidarydama tokias sąskaitas, privalo kredito įstaigai ir (ar) Lietuvos bankui nurodyti, kad šiose sąskaitose laikomos Įsipareigojimų investuotojams draudimo fondo lėšos ir kad į šias lėšas draudžiama nukreipti reikalavimus pagal draudimo įmonės prievoles. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1958,7 +2120,10 @@ PERTVARKYMO FONDO FINANSAVIMAS IR ADMINISTRAVIMAS
 
 
 
-5. Pertvarkymo fondo lėšos laikomos atskiroje (atskirose) banko sąskaitoje (sąskaitose). Draudimo įmonė, atidarydama tokią sąskaitą (tokias sąskaitas), privalo kredito įstaigai nurodyti, kad šioje sąskaitoje (šiose sąskaitose) laikomos Pertvarkymo fondo lėšos ir kad į šias lėšas draudžiama nukreipti reikalavimus pagal draudimo įmonės prievoles.
+5. Pertvarkymo fondo lėšos laikomos sąskaitose, atidarytose kredito įstaigoje ir (ar) Lietuvos banke. Draudimo įmonė, atidarydama tokias sąskaitas, privalo kredito įstaigai ir (ar) Lietuvos bankui nurodyti, kad šiose sąskaitose laikomos Pertvarkymo fondo lėšos ir kad į šias lėšas draudžiama nukreipti reikalavimus pagal draudimo įmonės prievoles. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -1992,7 +2157,10 @@ Nr. XIII-1254, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09922
 
 
 
-2. Pertvarkymo fondas finansuojamas Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalies 3 punkte nurodytų subjektų, kurie nepatenka į 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010 (OL 2014 L 225, p. 1), 2 straipsnyje nurodytą to reglamento taikymo apimtį, ir trečiose valstybėse licencijuotų kredito įstaigų ir finansų maklerio įmonių filialų, įsteigtų Lietuvos Respublikoje, lėšomis (toliau – Pertvarkymo fondo dalyviai). Kiti Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje išvardyti subjektai moka įmokas į Bendrą pertvarkymo fondą Reglamento (ES) Nr. 806/2014 ir jo įgyvendinamųjų teisės aktų nustatyta tvarka. 
+2. Pertvarkymo fondas finansuojamas Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalies 3 punkte nurodytų subjektų, kurie nepatenka į 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010 (toliau – Reglamentas (ES) Nr. 806/2014), 2 straipsnyje nurodytą šio reglamento taikymo apimtį, ir trečiosiose valstybėse licencijuotų įstaigų filialų, įsteigtų Lietuvos Respublikoje, lėšomis (toliau – Pertvarkymo fondo dalyviai). Kiti Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje nurodyti subjektai moka įmokas į Bendrą pertvarkymo fondą Reglamento (ES) Nr. 806/2014 ir jo įgyvendinamųjų teisės aktų nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -2094,7 +2262,10 @@ Nr. XIII-1254, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09922
 35 straipsnis. Pertvarkymo fondo administravimo finansavimas
 
 
-1. Pertvarkymo fondo administravimas finansuojamas iš Pertvarkymo fondo dalyvių mokamų administravimo įmokų. Kiti Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje išvardyti subjektai moka įmokas Bendros pertvarkymo valdybos administracinėms išlaidoms finansuoti Reglamento (ES) Nr. 806/2014 ir jo įgyvendinamųjų teisės aktų nustatyta tvarka.
+1. Pertvarkymo fondo administravimas finansuojamas iš Pertvarkymo fondo dalyvių mokamų administravimo įmokų. Kiti Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje nurodyti subjektai moka įmokas Bendros pertvarkymo valdybos administracinėms išlaidoms finansuoti Reglamento (ES) Nr. 806/2014 ir Reglamento (ES) Nr. 2017/2361 nustatyta tvarka. Lietuvos banko ir (arba) Bendros pertvarkymo valdybos pateiktus prašymus patikrinti Bendros pertvarkymo valdybos sprendimų dėl Lietuvos Respublikoje licencijuoto finansų sektoriaus subjekto atskirų mokėtinų sumų (toliau – Bendros pertvarkymo valdybos sprendimas) autentiškumą nagrinėja Lietuvos apeliacinis teismas mutatis mutandis taikydamas Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo 4 straipsnio 4, 5 ir 6 dalių nuostatas tiek, kiek šioje dalyje nenustatyta kitaip. Lietuvos apeliacinis teismas patikrina Bendros pertvarkymo valdybos sprendimo autentiškumą ne vėliau kaip per 20 darbo dienų nuo prašymo gavimo teisme dienos. Lietuvos apeliacinio teismo nutartis, kuria išsprendžiamas Bendros pertvarkymo valdybos sprendimo autentiškumo klausimas, kasacine tvarka neskundžiama. Bendros pertvarkymo valdybos sprendimas ir įsiteisėjusi Lietuvos apeliacinio teismo nutartis, kuria išspręstas Bendros pertvarkymo valdybos sprendimo autentiškumo klausimas, yra vykdomieji dokumentai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -2164,7 +2335,6 @@ VALSTYBĖS ĮMONĖ „INDĖLIŲ IR INVESTICIJŲ DRAUDIMAS“
 
 
 Draudimo įmonės įstatuose turi būti nurodyti jos veiklos tikslai, draudimo įmonės savininko teises ir pareigas įgyvendinančios institucijos, tarybos ir vadovo kompetencija, taip pat kiti šio įstatymo ir Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo reikalavimai, kiek šis įstatymas nenustato kitaip.
- 
  
 
 
@@ -2306,12 +2476,18 @@ TAR pastaba. Pirmasis indėlių draudimo sistemos testavimas pagal 39 straipsn�
 
 
 
-9) turėti sąskaitų Lietuvos Respublikos kredito įstaigose ar kitos valstybės narės kredito įstaigose (įskaitant valstybės narės kredito įstaigos filialus, veikiančius Lietuvos Respublikoje);
+9) turėti sąskaitų Lietuvos Respublikos kredito įstaigose ar kitos valstybės narės kredito įstaigose (įskaitant valstybės narės kredito įstaigos filialus, veikiančius Lietuvos Respublikoje) ir Lietuvos banke. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
 
-10) šio įstatymo 47 straipsnyje nustatytais būdais ir sąlygomis dalyvauti finansuojant kredito unijos turto, teisių, sandorių ir įsipareigojimų perdavimą.
+10) Neteko galios nuo 2021-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -2352,7 +2528,10 @@ TAR pastaba. Pirmasis indėlių draudimo sistemos testavimas pagal 39 straipsn�
 
 
 
-4) gavusi draudimo įmonės tarybos išvadą, nustato metinę periodinių (ex ante) indėlių draudimo įmokų sumą ir, gavusi priežiūros institucijos išvadą, – specialiųjų (ex post) indėlių draudimo įmokų sumą;
+4) gavusi draudimo įmonės tarybos išvadą, nustato metinę periodinių (ex ante) indėlių draudimo įmokų normą ir, gavusi priežiūros institucijos išvadą, – specialiųjų (ex post) indėlių draudimo įmokų sumą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -2362,7 +2541,10 @@ TAR pastaba. Pirmasis indėlių draudimo sistemos testavimas pagal 39 straipsn�
 
 
 
-6) gavusi draudimo įmonės tarybos išvadą, priima sprendimą šio įstatymo 47 straipsnyje nustatytais būdais ir sąlygomis dalyvauti finansuojant kredito unijos turto, teisių, sandorių ir įsipareigojimų perdavimą;
+6) Neteko galios nuo 2021-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -2412,7 +2594,10 @@ TAR pastaba. Pirmasis indėlių draudimo sistemos testavimas pagal 39 straipsn�
 
 
 
-4) nustato informacijos teikimo indėlininkams tvarką;
+4) nustato informacijos teikimo indėlininkams ir investuotojams tvarką; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -2422,7 +2607,10 @@ TAR pastaba. Pirmasis indėlių draudimo sistemos testavimas pagal 39 straipsn�
 
 
 
-6) teikia draudimo įmonės savininko teises ir pareigas įgyvendinančiai institucijai metinę veiklos ataskaitą;
+6) Neteko galios nuo 2021-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+ 
 
 
 
@@ -2450,7 +2638,9 @@ TAR pastaba. Pirmasis indėlių draudimo sistemos testavimas pagal 39 straipsn�
 
 
 
-2. Draudimo įmonė indėlininkų ir investuotojų duomenis tvarko vadovaudamasi Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu. 
+2. Draudimo įmonė indėlininkų ir investuotojų duomenis Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo administravimo tikslais tvarko vadovaudamasi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
  
 
 
@@ -2609,14 +2799,16 @@ TAR pastaba. Pirmasis indėlių draudimo sistemos testavimas pagal 39 straipsn�
 
 
 ŠEŠTASIS SKIRSNIS
-BANKO AR CENTRINĖS KREDITO UNIJOS PERTVARKYMO IR KREDITO UNIJŲ TURTO, TEISIŲ, SANDORIŲ IR ĮSIPAREIGOJIMŲ PERDAVIMO FINANSAVIMAS
+BANKO AR CENTRINĖS KREDITO UNIJOS PERTVARKYMO FINANSAVIMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
  
 
 
-46 straipsnis. Draudimo įmonės dalyvavimas finansuojant banko ar Centrinės kredito unijos pertvarkymą
+46 straipsnis. Draudimo įmonės dalyvavimas finansuojant banko ar centrinės kredito unijos pertvarkymą
 
 
-1. Lietuvos Respublikos finansinio tvarumo įstatymo 105 straipsnyje nustatytu atveju draudimo įmonė dalyvauja finansuojant banko ar Centrinės kredito unijos pertvarkymą, iš Indėlių draudimo fondo pervesdama lėšų pertvarkymo institucijos nurodytam subjektui. Pervedamų lėšų sumą, pasikonsultavusi su draudimo įmonės savininko teises ir pareigas įgyvendinančia institucija, nustato pertvarkymo institucija.
+1. Lietuvos Respublikos finansinio tvarumo įstatymo 105 straipsnyje nustatytu atveju draudimo įmonė dalyvauja finansuojant banko ar centrinės kredito unijos pertvarkymą, iš Indėlių draudimo fondo pervesdama lėšų pertvarkymo institucijos nurodytam subjektui. Pervedamų lėšų sumą, suderinusi su draudimo įmonės savininko teises ir pareigas įgyvendinančia institucija, nustato pertvarkymo institucija.
 
 
 
@@ -2624,7 +2816,7 @@ BANKO AR CENTRINĖS KREDITO UNIJOS PERTVARKYMO IR KREDITO UNIJŲ TURTO, TEISIŲ,
 2. Šio straipsnio 1 dalyje nurodyta suma:
 
 
-1) kai taikoma gelbėjimo privačiomis lėšomis priemonė, turi būti lygi apdraustųjų indėlių sumai, kuri būtų buvusi nurašyta siekiant padengti banko ar Centrinės kredito unijos nuostolius pagal Lietuvos Respublikos finansinio tvarumo įstatymo 78 straipsnio 1 dalies 1 punktą. Tokiu atveju laikoma, kad apdraustieji indėliai yra įtraukti į gelbėjimo privačiomis lėšomis priemonės taikymo apimtį ir nurašomi kaip antrąja eile tenkinami kreditoriaus reikalavimai; 
+1) kai taikoma gelbėjimo privačiomis lėšomis priemonė, turi būti lygi apdraustųjų indėlių sumai, kuri būtų buvusi nurašyta siekiant padengti banko ar centrinės kredito unijos nuostolius pagal Lietuvos Respublikos finansinio tvarumo įstatymo 80 straipsnio 2 dalies 1 punktą. Tokiu atveju laikoma, kad apdraustieji indėliai yra įtraukti į gelbėjimo privačiomis lėšomis priemonės taikymo apimtį ir nurašomi kaip antrąja eile tenkinami kreditorių reikalavimai;
 
 
 
@@ -2634,7 +2826,7 @@ BANKO AR CENTRINĖS KREDITO UNIJOS PERTVARKYMO IR KREDITO UNIJŲ TURTO, TEISIŲ,
 
 
 
-3) negali būti didesnė už sumą, kurią Indėlių draudimo fondas būtų turėjęs išmokėti apdraustųjų indėlių savininkams, jeigu bankui ar Centrinei kredito unijai būtų buvusi iškelta bankroto byla. Jeigu pagal Lietuvos Respublikos finansinio tvarumo įstatymo 90 straipsnį atlikus vertinimą nustatoma, kad Indėlių draudimo fondo sumokėta suma buvo didesnė už sumą, kurią Indėlių draudimo fondas būtų išmokėjęs apdraustųjų indėlių savininkams, jeigu bankui ar Centrinei kredito unijai būtų buvusi iškelta bankroto byla, tas sumų skirtumas turi būti grąžintas į Indėlių draudimo fondą iš Pertvarkymo fondo lėšų;
+3) negali būti didesnė už sumą, kurią Indėlių draudimo fondas būtų turėjęs išmokėti apdraustųjų indėlių savininkams, jeigu bankui ar centrinei kredito unijai būtų buvusi iškelta bankroto byla. Jeigu pagal Lietuvos Respublikos finansinio tvarumo įstatymo 90 straipsnį atlikus vertinimą nustatoma, kad Indėlių draudimo fondo sumokėta suma buvo didesnė už sumą, kurią Indėlių draudimo fondas būtų išmokėjęs apdraustųjų indėlių savininkams, jeigu bankui ar centrinei kredito unijai būtų buvusi iškelta bankroto byla, tas sumų skirtumas turi būti grąžintas į Indėlių draudimo fondą iš Pertvarkymo fondo lėšų;
 
 
 
@@ -2646,61 +2838,30 @@ BANKO AR CENTRINĖS KREDITO UNIJOS PERTVARKYMO IR KREDITO UNIJŲ TURTO, TEISIŲ,
 
 
 
-3. Indėlių draudimo fondo lėšos negali būti naudojamos banko, Centrinės kredito unijos ar laikinosios įstaigos rekapitalizavimui, taikant gelbėjimo privačiomis lėšomis priemonę pagal Lietuvos Respublikos finansinio tvarumo įstatymo 78 straipsnio 1 dalies 2 punktą. 
+3. Indėlių draudimo fondo lėšos negali būti naudojamos banko, centrinės kredito unijos ar laikinosios įstaigos rekapitalizavimui, taikant gelbėjimo privačiomis lėšomis priemonę pagal Lietuvos Respublikos finansinio tvarumo įstatymo 80 straipsnio 2 dalies 2 punktą.
 
 
 
 
-4. Indėlininkas, kurio tinkamas drausti indėlis, laikytas pertvarkomame finansų sektoriaus subjekte (toliau – pertvarkomas subjektas), buvo perduotas kitam subjektui įgyvendinant verslo perleidimo priemonę arba laikinosios įstaigos priemonę, nuo indėlio perdavimo dienos netenka teisių reikalauti iš draudimo įmonės indėlių draudimo išmokos už neperduotą savo indėlio dalį, likusią pertvarkomame subjekte, jeigu perduota indėlio suma lygi arba didesnė už šio įstatymo 4 straipsnyje nustatytą indėlių draudimo sumą. 
+4. Indėlininkas, kurio tinkamas drausti indėlis, laikytas pertvarkomame finansų sektoriaus subjekte (toliau – pertvarkomas subjektas), buvo perduotas kitam subjektui įgyvendinant verslo perleidimo priemonę arba laikinosios įstaigos priemonę, nuo indėlio perdavimo dienos netenka teisių reikalauti iš draudimo įmonės indėlių draudimo išmokos už neperduotą savo indėlio dalį, likusią pertvarkomame subjekte, jeigu perduota indėlio suma lygi šio įstatymo 4 straipsnyje nustatytai indėlių draudimo sumai arba už ją didesnė.
 
 
 
 
-5. Draudimo įmonės dalyvavimas finansuojant banko ar Centrinės kredito unijos pertvarkymą prilyginamas indėlių draudimo išmokos išmokėjimui. Kreipimosi į teismą dėl bankroto bylos iškėlimo pertvarkomam subjektui atveju tas pertvarkomas subjektas privalo pertvarkymui finansuoti panaudota suma padidinti įsipareigojimus draudimo įmonei.
+5. Draudimo įmonės dalyvavimas finansuojant banko ar centrinės kredito unijos pertvarkymą prilyginamas indėlių draudimo išmokos išmokėjimui. Kreipimosi į teismą dėl bankroto bylos iškėlimo pertvarkomam subjektui atveju tas pertvarkomas subjektas privalo pertvarkymui finansuoti panaudota suma padidinti įsipareigojimus draudimo įmonei. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
  
 
 
 
 
-
-
-47 straipsnis. Draudimo įmonės dalyvavimas finansuojant kredito unijos turto, teisių, sandorių ir įsipareigojimų perdavimą
-
-
-1. Draudimo įmonės savininko teises ir pareigas įgyvendinanti institucija, iš priežiūros institucijos gavusi informaciją apie pagal Lietuvos Respublikos kredito unijų įstatymo nuostatas numatomą vykdyti kredito unijos turto, teisių, sandorių ir įsipareigojimų perdavimą kitam bankui ar kitai kredito įstaigai, sprendžia klausimą dėl draudimo įmonės dalyvavimo finansuojant kredito unijos turto, teisių, sandorių ir įsipareigojimų perdavimą. 
-
-
-
-
-2. Draudimo įmonė dalyvauja finansuojant kredito unijos turto, teisių, sandorių ir įsipareigojimų perdavimą pervesdama lėšas kitai kredito įstaigai, kuri pagal Lietuvos Respublikos kredito unijų įstatymo 651 straipsnio nuostatas perima kredito unijos turtą, teises, sandorius ir įsipareigojimus, kad būtų padengta perduodamų įsipareigojimų vertės ir kartu perduodamo turto, teisių ir sandorių vertės skirtumo suma.
-
-
-
-
-3. Jeigu draudimo įmonė dalyvauja finansuojant kredito unijos turto, teisių, sandorių ir įsipareigojimų perdavimą, bendra draudimo įmonės mokama suma neturi viršyti:
-
-
-1) sumos, kurią, įvykus indėlių draudžiamajam įvykiui, draudimo įmonė pagal šį įstatymą privalėtų išmokėti kredito unijos, kurios turtas, teisės, sandoriai ir įsipareigojimai perduodami, indėlininkams;
-
-
-
-
-2) 50 procentų nacionalinio tikslinio lygio. 
-
-
-
-
-
-
-4. Draudimo įmonės dalyvavimas finansuojant kredito unijos turto, teisių, sandorių ir įsipareigojimų perdavimą prilyginamas indėlių draudimo išmokų kredito unijos indėlininkams išmokėjimui. Kredito unija, kurios turtas, teisės, sandoriai ir įsipareigojimai perduodami, privalo perdavimui finansuoti panaudota suma padidinti įsipareigojimus draudimo įmonei.
-
-
-
-
-5. Indėlininkas, kurio tinkami drausti indėliai, laikyti kredito unijoje, buvo perduoti bankui ar kitai kredito įstaigai, nuo indėlių perdavimo dienos netenka teisių reikalauti iš draudimo įmonės indėlių draudimo išmokos už neperduotą savo indėlių dalį, likusią kredito unijoje, jeigu perduota indėlių suma lygi arba didesnė už šio įstatymo 4 straipsnyje nustatytą indėlių draudimo sumą.
+47 straipsnis. Neteko galios nuo 2021-01-01
+Straipsnio naikinimas:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
  
-
-
 
 
 
@@ -2710,7 +2871,8 @@ BANKO AR CENTRINĖS KREDITO UNIJOS PERTVARKYMO IR KREDITO UNIJŲ TURTO, TEISIŲ,
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
+ 
 
 
  
@@ -2718,6 +2880,9 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+
+ 
 Lietuvos Respublikos 
 indėlių ir įsipareigojimų 
 investuotojams draudimo įstatymo 
@@ -2793,10 +2958,12 @@ Tam tikriems indėliams taikomos išimtys nurodytos valstybės įmonės „Indė
  
 
 
+part_8172711e7be54fd19ac28f3dcade05df_end
 
 
+ 
 
-
+ 
 Lietuvos Respublikos
 indėlių ir įsipareigojimų
 investuotojams draudimo įstatymo 
@@ -2806,22 +2973,28 @@ investuotojams draudimo įstatymo
  
 
 
-1. 1997 m. kovo 3 d. Europos Parlamento ir Tarybos direktyva 97/9/EB dėl investuotojų kompensavimo sistemų (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 311).
+1. 1997 m. kovo 3 d. Europos Parlamento ir Tarybos direktyva 97/9/EB dėl investuotojų kompensavimo sistemų.
 
 
 
 
-2. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/49/ES dėl indėlių garantijų sistemų (OL 2014 L 173, p. 149).
+2. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/49/ES dėl indėlių garantijų sistemų.
 
 
 
 
-3. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012 (OL 2014 L 173, p. 190).
+3. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2162.
+
+
+
+
+4. 2017 m. rugsėjo 14 d. Komisijos deleguotasis reglamentas (ES) Nr. 2017/2361 dėl galutinės įnašų, skirtų Bendros pertvarkymo valdybos administracinėms išlaidoms padengti, sistemos.
+
+
+Priedo pakeitimai:
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
  
-
-
-
-
+part_e57dc5849dfd4ac5940f6b5c2e89d09a_end
 
 
 Pakeitimai:
@@ -2904,3 +3077,8 @@ Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1878, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00229
 Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
+Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2, 3, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 23, 26, 28, 32, 33, 35, 40, 41, 42, 46 straipsnių, šeštojo skirsnio pavadinimo ir 2 priedo pakeitimo ir 5, 47 straipsnių pripažinimo netekusiais galios įstatymas
