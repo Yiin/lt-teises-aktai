@@ -20,9 +20,14 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-12-30 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
+ 
+TAR pastaba. Įstatymo Nr. XIII-3109 nuostatos taikomos rengiant 2022 metų ir vėlesnių metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus, 2022–2024 metų ir vėlesnių metų strateginius veiklos planus.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 5, 8, 17, 18, 32 straipsnių pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
  
 Nauja įstatymo redakcija nuo 2004-01-07: 
 Nr. IX-1946, 2003-12-23, Žin., 2004, Nr. 4-47 (2004-01-07)
@@ -135,32 +140,43 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
+141. Ministro valdymo srities įstaiga – Vyriausybei pavaldi ir (arba) ministrui atskaitinga ir (arba) pavaldi įstaiga, veikianti ministro valdymo srityje, išskyrus įstaigas, kurių nepriklausomumas atliekant įstatymų nustatytas funkcijas ir priimant sprendimus turi būti užtikrintas vadovaujantis Europos Sąjungos ir nacionalinės teisės aktais. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
+ 
+
+
+
+
 15. Mokesčių didinimo rizikos rodiklis – Europos Komisijos kaip dalis bendrojo vidaus produkto (toliau – BVP) to meto kainomis skaičiuojamas rodiklis S1, pateikiamas pagal 2005 m. birželio 27 d. Europos Sąjungos Tarybos reglamento (EB) Nr. 1055/2005, iš dalies keičiančio Reglamentą (EB) Nr. 1466/97 dėl biudžeto būklės priežiūros stiprinimo ir ekonominės politikos priežiūros bei koordinavimo (toliau – Stabilumo ir augimo pakto reglamentas), 1 straipsnio 5 punkto a papunktį vertinant tam tikrų metų Lietuvos konvergencijos programą arba Stabilumo programą pagal Stabilumo ir augimo pakto reglamento 1 straipsnio 3 punkto 1 papunktį.
 
 
 
 
-16. Programa – strateginio ir (arba) metinio veiklos plano, parengto pagal Vyriausybės patvirtintą Strateginio planavimo metodiką, dalis, skirta asignavimų valdytojo strateginiam tikslui įgyvendinti, kurios asignavimai gali būti planuojami iš:
+16. Programa – strateginio ir (arba) metinio veiklos plano, parengto pagal Vyriausybės patvirtintą Strateginio valdymo metodiką, dalis, skirta Nacionaliniame pažangos plane nustatytiems pažangos uždaviniams ir (arba) asignavimų valdytojo tęstinės veiklos uždaviniams įgyvendinti. Viena valstybės biudžeto asignavimų valdytojo programa gali įgyvendinti vieną nacionalinę plėtros programą ar jos dalį ir yra priskiriama vienai valstybės veiklos sričiai. Vienai valstybės veiklos sričiai gali būti priskiriamos kelios vieno valstybės biudžeto asignavimų valdytojo programos. Programos finansiniai šaltiniai gali būti:
 
 
-1) konkrečios valstybės biudžeto arba savivaldybės biudžeto pajamų dalies, kurios panaudojimo apimtis ir paskirtis nurodyta įstatyme, Vyriausybės nutarime ar savivaldybės tarybos sprendime;
-
-
-
-
-2) biudžetinių įstaigų pajamų;
+1) konkreti valstybės biudžeto arba savivaldybės biudžeto pajamų dalis, kurios panaudojimo apimtis ir paskirtis nurodyta įstatyme, Vyriausybės nutarime ar savivaldybės tarybos sprendime;
 
 
 
 
-3) kitų valstybės biudžeto, įskaitant Europos Sąjungos finansinės paramos ir kitos gaunamos tarptautinės finansinės paramos lėšas, ir (arba) savivaldybių biudžetų lėšų;
+2) biudžetinių įstaigų pajamos;
 
 
 
 
-4) kitų teisėtai gautų lėšų.
+3) kitos valstybės biudžeto, įskaitant Europos Sąjungos finansinės paramos ir kitos gaunamos tarptautinės finansinės paramos lėšas, ir (arba) savivaldybių biudžetų lėšos;
 
 
+
+
+4) kitos teisėtai gautos lėšos. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
+ 
 
 
 
@@ -188,9 +204,11 @@ Nr. XIII-85, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29273
 
 
 
-21. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos fiskalinės drausmės įstatyme (toliau – Fiskalinės drausmės įstatymas), Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme (toliau – Viešojo sektoriaus atskaitomybės įstatymas), Lietuvos Respublikos valstybės skolos įstatyme (toliau – Valstybės skolos įstatymas), Lietuvos Respublikos civilinės saugos įstatyme ir Lietuvos Respublikos nepaprastosios padėties įstatyme. 
+21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos fiskalinės drausmės įstatyme, Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme, Lietuvos Respublikos valstybės skolos įstatyme, Lietuvos Respublikos civilinės saugos įstatyme ir Lietuvos Respublikos nepaprastosios padėties įstatyme.
+ 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2259, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10929
+Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
  
 
 
@@ -310,7 +328,10 @@ biudžetinių įstaigų, vadovų pareigos
 1. Biudžeto asignavimų valdytojai privalo:
 
 
-1) naudoti skirtus asignavimus savo vadovaujamos įstaigos programoms vykdyti, paskirstyti juos pavaldžioms biudžetinėms įstaigoms ir kitiems subjektams, kuriems galimybė biudžeto lėšas gauti numatyta jų veiklos sritį reglamentuojančiuose įstatymuose arba Vyriausybės nutarimuose, priimtuose vadovaujantis tiesiogiai taikomais Europos Sąjungos teisės aktais ir tarptautinėmis sutartimis, nustatančiais Europos Sąjungos ar atskirų valstybių finansinės paramos, teikiamos Lietuvai, administravimo tvarką, programoms vykdyti;
+1) naudoti skirtus asignavimus savo vadovaujamos įstaigos programoms vykdyti, paskirstyti juos pavaldžioms biudžetinėms įstaigoms ir kitiems subjektams, kuriems galimybė biudžeto lėšas gauti numatyta jų veiklos sritį reglamentuojančiuose įstatymuose, Strateginio valdymo įstatyme arba Vyriausybės nutarimuose, priimtuose vadovaujantis tiesiogiai taikomais Europos Sąjungos teisės aktais ir tarptautinėmis sutartimis, nustatančiais Europos Sąjungos ar atskirų valstybių finansinės paramos, teikiamos Lietuvai, administravimo tvarką, programoms vykdyti;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
+ 
 
 
 
@@ -490,7 +511,10 @@ Nr. XI-1209, 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 8 straipsnis. Biudžeto sudarymo ir vykdymo teisinis pagrindas
 
 
-1. Biudžeto sudarymo ir vykdymo teisinis pagrindas yra Lietuvos Respublikos Konstitucija, šis Įstatymas, Fiskalinės drausmės įstatymas, Seimo statutas, Savivaldybių biudžetų pajamų nustatymo metodikos įstatymas, atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas, Vyriausybės patvirtintos biudžetų sudarymo ir vykdymo taisyklės ir kiti biudžeto pajamų gavimą ir programų finansavimą reglamentuojantys teisės aktai.
+1. Biudžeto sudarymo ir vykdymo teisinis pagrindas yra Lietuvos Respublikos Konstitucija, Fiskalinės sutarties įgyvendinimo konstitucinis įstatymas, šis įstatymas, Fiskalinės drausmės įstatymas, Seimo statutas, Savivaldybių biudžetų pajamų nustatymo metodikos įstatymas, Strateginio valdymo įstatymas, atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas, Vyriausybės patvirtintos biudžetų sudarymo ir vykdymo taisyklės ir kiti biudžeto pajamų gavimą ir programų finansavimą reglamentuojantys teisės aktai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
+ 
 
 
 
@@ -752,6 +776,29 @@ Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
 
 
 
+141 straipsnis. Valstybės veiklos sritys
+
+
+1. Strateginio valdymo įstatyme nustatytų valstybės veiklos sričių ir joms priskirtų įstaigų, kurių vadovai yra valstybės biudžeto asignavimų valdytojai, asignavimai tvirtinami atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme. Kai asignavimų valdytojas yra ministras arba jo įgaliotas asmuo, jo vadovaujamai įstaigai tvirtinami asignavimai gali būti priskiriami kelioms valstybės veiklos sritims pagal ministrui pavestas valdymo sritis.
+
+
+
+
+2. Atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodomi valstybės veiklos srityse siekiami pagrindiniai Nacionaliniame pažangos plane nustatyti pažangos uždaviniai, jų vertinimo rodikliai, šių rodiklių artimiausio  paskesnio laikotarpio faktinės reikšmės ir tvirtinamos atitinkamais biudžetiniais metais siektinos rodiklių reikšmės, kurių atitinkamoje valstybės veiklos srityje siekia ministerijos ir ministrų valdymo sričių įstaigos, kurių vadovai yra valstybės biudžeto asignavimų valdytojai, jeigu tai neprieštarauja jų veiklą reglamentuojantiems įstatymams.
+
+
+
+
+3. Valstybės veiklos sritims priskirtas įstaigas, kurių vadovai yra valstybės biudžeto asignavimų valdytojai, nustato Vyriausybė.
+
+
+Papildyta straipsniu:
+Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
+ 
+
+
+
+
 15 straipsnis. Vyriausybės rezervo lėšos
 
 
@@ -843,9 +890,10 @@ Nr. XI-1209, 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 
 
 
-2. Trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų konsoliduotos visumos planuojamų rodiklių projektas rengiamas remiantis Vyriausybės programa, Lietuvos stabilumo programa, Valstybės pažangos strategija (iki šios strategijos įsigaliojimo dienos – Seimo patvirtinta Valstybės ilgalaikės raidos strategija), Nacionalinės pažangos programa, kitais Seimo ir Vyriausybės patvirtintais planavimo dokumentais, šiuo Įstatymu, Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniu įstatymu, Fiskalinės drausmės įstatymu, šalies vidutinio laikotarpio ekonominės raidos scenarijumi, Europos Sąjungos finansinės paramos strateginiais dokumentais, asignavimų valdytojų strateginiais veiklos planais ir Vyriausybės patvirtintais valstybės biudžeto ir savivaldybių biudžetų preliminariais pagrindiniais rodikliais, taip pat valstybės biudžeto asignavimų valdytojų pateiktomis programomis ir programų sąmatų projektais. 
+2. Trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų konsoliduotos visumos planuojamų rodiklių projektas rengiamas remiantis Vyriausybės programa, Lietuvos stabilumo programa, Valstybės pažangos strategija, Nacionaliniu pažangos planu, nacionalinėmis plėtros programomis, kitais Seimo ir Vyriausybės patvirtintais planavimo dokumentais, šiuo Įstatymu, Fiskalinės sutarties įgyvendinimo konstituciniu įstatymu, Fiskalinės drausmės įstatymu, šalies vidutinio laikotarpio ekonominės raidos scenarijumi, Europos Sąjungos finansinės paramos strateginiais dokumentais, asignavimų valdytojų strateginiais veiklos planais ir Vyriausybės patvirtintais valstybės biudžeto ir savivaldybių biudžetų preliminariais pagrindiniais rodikliais, taip pat valstybės biudžeto asignavimų valdytojų pateiktomis programomis ir programų sąmatų projektais.
 Straipsnio dalies pakeitimai:
 Nr. XII-2313, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10424
+Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
  
 
 
@@ -900,7 +948,10 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 
 
 
-3) bendra valstybės biudžeto asignavimų suma, jų paskirstymas pagal asignavimų valdytojus programoms įgyvendinti. Asignavimai skiriami išlaidoms, iš jų – darbo užmokesčiui, ir turtui įsigyti, išskyrus valstybines aukštąsias mokyklas, kurioms asignavimai išlaidoms skiriami neišskiriant iš jų darbo užmokesčio;
+3) bendra valstybės biudžeto asignavimų suma, jų paskirstymas pagal valstybės veiklos sritis ir asignavimų valdytojus programoms įgyvendinti. Asignavimai skiriami išlaidoms, iš jų darbo užmokesčiui, ir turtui įsigyti. Žvalgybos institucijoms ir valstybinėms aukštosioms mokykloms asignavimai išlaidoms skiriami neišskiriant iš jų darbo užmokesčio; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
+ 
 
 
 
@@ -947,7 +998,15 @@ Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
 
 
 
-10) valstybės piniginių išteklių suma, planuojama skirti apyvartinėms lėšoms padidinti, kai toks didinimas planuojamas biudžetinių metų pabaigoje, ir aplinkybės bei išlygos, leidžiančios nukrypti nuo plano.
+10) valstybės piniginių išteklių suma, planuojama skirti apyvartinėms lėšoms padidinti, kai toks didinimas planuojamas biudžetinių metų pabaigoje, ir aplinkybės bei išlygos, leidžiančios nukrypti nuo plano;
+
+
+
+
+11) pažangos lėšų, suplanuotų Regionų plėtros programoje ir plėtros programose, kurios nustatytos regionų plėtros priemonėms, bendra suma ir jų paskirstymas tarp apskričių.
+Papildyta straipsnio punktu:
+Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
+ 
 
 
 
