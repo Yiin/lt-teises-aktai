@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1F58348F79F7"
 
 # Lietuvos Respublikos pensijų kaupimo įstatymas
 
-Suvestinė redakcija nuo 2020-11-19 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-01-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 75-3472, i. k. 1031010ISTA0IX-1691
  
@@ -599,7 +599,7 @@ PENSIJŲ FONDŲ STEIGIMAS IR VALDYMAS
  
 
 
-14 straipsnis. Reikalavimai pensijų fondams 
+14 straipsnis. Reikalavimai pensijų fondams
 
 
 1. Pensijų fondo pavadinime turi būti nurodyta, kad tai pensijų kaupimo fondas (gali būti vartojama šių žodžių junginio santrumpa), pensijų fondo rūšis (tikslinės grupės ar turto išsaugojimo pensijų fondas). Tikslinės grupės pensijų fondo pavadinime turi būti nurodytos tikslinės pensijų fondų dalyvių grupės gimimo metų ribos.
@@ -607,15 +607,17 @@ PENSIJŲ FONDŲ STEIGIMAS IR VALDYMAS
 
 
 
-2. Kiekviena pensijų kaupimo bendrovė turi įsteigti ir valdyti visoms tikslinėms pensijų fondų dalyvių grupėms skirtus tikslinės grupės pensijų fondus ir vieną turto išsaugojimo pensijų fondą. Pensijų kaupimo bendrovė turi įsteigti ir valdyti tiek tikslinės grupės pensijų fondų, kad kiekvienas dalyvis nuo 18 metų iki senatvės pensijos amžiaus būtų priskiriamas atitinkamai tikslinei pensijų fondų dalyvių grupei skirtam tikslinės grupės pensijų fondui. Kiekvienai tikslinei pensijų fondų dalyvių grupei priskiriamų dalyvių gimimo metų ribos prasideda atitinkamų metų sausio 1 dieną ir baigiasi septintųjų metų gruodžio 31 dieną. Tikslinės pensijų fondų dalyvių grupės narių gimimo metų ribos yra vienodos ir privalomos visoms pensijų kaupimo bendrovėms. 
+2. Kiekviena pensijų kaupimo bendrovė turi įsteigti ir valdyti visoms tikslinėms pensijų fondų dalyvių grupėms skirtus tikslinės grupės pensijų fondus ir vieną turto išsaugojimo pensijų fondą. Pensijų kaupimo bendrovė turi įsteigti ir valdyti tiek tikslinės grupės pensijų fondų, kad kiekvienas dalyvis nuo 22 metų iki senatvės pensijos amžiaus būtų priskiriamas atitinkamai tikslinei pensijų fondų dalyvių grupei skirtam tikslinės grupės pensijų fondui. Kiekvienai tikslinei pensijų fondų dalyvių grupei priskiriamų dalyvių gimimo metų ribos prasideda atitinkamų metų sausio 1 dieną ir baigiasi septintųjų metų gruodžio 31 dieną. Tikslinės pensijų fondų dalyvių grupės narių gimimo metų ribos yra vienodos ir privalomos visoms pensijų kaupimo bendrovėms.
 
 
 
 
-3. Jeigu pensijų kaupime dalyvauja jaunesni negu 18 metų amžiaus asmenys, jų tikslinės grupės pensijų fondu laikomas jauniausiai tikslinei pensijų fondų dalyvių grupei skirtas tikslinės grupės pensijų fondas. Pensijų kaupimo bendrovei įsteigus tokių dalyvių amžių atitinkantį tikslinės grupės pensijų fondą, dalyviai kartu su jiems priklausančiomis lėšomis perkeliami į jų amžių atitinkantį tikslinės grupės pensijų fondą penktą darbo dieną nuo atitinkamo tikslinės grupės pensijų fondo įsteigimo dienos nedarant jokių atskaitymų iš pensijų turto. Pensijų kaupimo bendrovė ne vėliau kaip per 5 darbo dienas nuo dalyvio perkėlimo į jo amžių atitinkantį tikslinės grupės pensijų fondą privalo apie tai pranešti dalyviui priežiūros institucijos patvirtintose standartinėse pensijų fondų taisyklėse nustatytu būdu. 
+3. Pensijų kaupime dalyvaujančių jaunesnių negu 22 metų asmenų tikslinės grupės pensijų fondu laikomas jauniausiai tikslinei pensijų fondų dalyvių grupei skirtas tikslinės grupės pensijų fondas. Pensijų kaupimo bendrovei įsteigus tokių dalyvių amžių atitinkantį tikslinės grupės pensijų fondą, dalyviai kartu su jiems priklausančiomis lėšomis perkeliami į jų amžių atitinkantį tikslinės grupės pensijų fondą penktą darbo dieną nuo atitinkamo tikslinės grupės pensijų fondo įsteigimo dienos nedarant jokių atskaitymų iš pensijų turto. Pensijų kaupimo bendrovė ne vėliau kaip per 5 darbo dienas nuo dalyvio perkėlimo į jo amžių atitinkantį tikslinės grupės pensijų fondą privalo apie tai pranešti dalyviui priežiūros institucijos patvirtintose standartinėse pensijų fondų taisyklėse nustatytu būdu.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-105, 2020-12-22, paskelbta TAR 2020-12-28, i. k. 2020-28790
  
-
-
 
 
 
@@ -2442,7 +2444,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                           ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                            ROLANDAS PAKSAS
  
 
 
@@ -2450,6 +2452,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+
+ 
 
  
 Lietuvos Respublikos 
@@ -2493,8 +2497,7 @@ PENSIJŲ KAUPIMO ĮMOKOS DYDŽIAI
 
 
  
-
-
+part_5af656ccea9a4ca98fbb44f730be590e_end
 
 
  
@@ -2624,3 +2627,8 @@ Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 3, 4, 8, 10, 12, 18,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3392, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24259
 Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 35-10 ir 35-11 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-105, 2020-12-22, paskelbta TAR 2020-12-28, i. k. 2020-28790
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 14 straipsnio pakeitimo įstatymas
