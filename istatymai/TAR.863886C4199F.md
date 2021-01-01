@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.863886C4199F"
 
 # Lietuvos Respublikos muziejų įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 53-1292, i. k. 0951010ISTA000I-930
  
@@ -576,9 +576,10 @@ Nr. XI-733, 2010-04-08, Žin., 2010, Nr. 48-2283 (2010-04-27), i. k. 1101010ISTA
 
 
 
-6. Muziejų plėtojimo, muziejinių vertybių restauravimo ir mokslinių tyrimų programos finansuojamos iš valstybės biudžeto ir iš kitų įstatymų nustatyta tvarka gautų lėšų. 
+6. Nacionalinių ir respublikinių muziejų veiklos prioritetų įgyvendinimo veiksmų planai, muziejinių vertybių restauravimo ir mokslinių tyrimų programos finansuojami iš valstybės biudžeto ir iš kitų įstatymų nustatyta tvarka gautų lėšų. 
 Straipsnio dalies pakeitimai:
 Nr. XII-753, 2013-12-23, paskelbta TAR 2014-01-02, i. k. 2014-00007
+Nr. XIII-3117, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15350
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-733, 2010-04-08, Žin., 2010, Nr. 48-2283 (2010-04-27), i. k. 1101010ISTA00XI-733
  
@@ -601,12 +602,23 @@ MUZIEJŲ VEIKLOS VALSTYBINIS VALDYMAS
 Kultūros ministerija, vykdydama kultūros ministrui pavestose valdymo srityse valstybės politikos formavimo ir jos įgyvendinimo organizavimo, koordinavimo ir kontrolės funkcijas, atlieka šias muziejų veiklos valdymo funkcijas: 
 
 
-1) nustato nacionalinių ir respublikinių muziejų veiklos strategiją, rengia ją įgyvendinančias programas ir teikia jas tvirtinti Vyriausybei ar jos pavedimu kultūros ministrui;
+1) nustato nacionalinių ir respublikinių muziejų veiklos prioritetus, tvirtina jų įgyvendinimo veiksmų planus ir koordinuoja šių planų vykdymą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3117, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15350
+ 
 
 
 
 
 2) rengia muziejų veiklą reglamentuojančių teisės aktų projektus ir teikia juos Vyriausybei ar kultūros ministrui priimti;
+
+
+
+
+21) tvirtina muziejų, kurių vadovai yra valstybės biudžeto asignavimų valdytojai, kaip jie apibrėžti Lietuvos Respublikos biudžeto sandaros įstatyme, strateginius veiklos planus; 
+Papildyta straipsnio punktu:
+Nr. XIII-3117, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15350
+ 
 
 
 
@@ -677,7 +689,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
 
 
  
@@ -724,3 +736,8 @@ Lietuvos Respublikos muziejų įstatymo Nr. I-930 7 ir 9 straipsnių pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1750, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20724
 Lietuvos Respublikos muziejų įstatymo Nr. I-930 5 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3117, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15350
+Lietuvos Respublikos muziejų įstatymo Nr. I-930 12 ir 13 straipsnių pakeitimo įstatymas
