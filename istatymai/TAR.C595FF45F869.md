@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2020-11-21 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -422,9 +422,11 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
 
-31. Kitos šio įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos technologijų ir inovacijų įstatyme. 
+31. Kitos šio įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos technologijų ir inovacijų įstatyme ir Lietuvos Respublikos strateginio valdymo įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1415, 2018-06-30, paskelbta TAR 2018-07-13, i. k. 2018-11960
+Straipsnio dalies pakeitimai:
+Nr. XIII-3116, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15349
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
  
@@ -688,8 +690,7 @@ Mokslo ir studijų institucijos yra dviejų grupių: aukštosios mokyklos ir mok
 
 
 
-7. Sutarčių su aukštosiomis mokyklomis vykdymo stebėseną atlieka Vyriausybės strateginės analizės centras.
-TAR pastaba. 9 straipsnio 1, 3, 4, 5, 6 ir 7 dalys įsigalioja 2019 m. rugsėjo 1 d.
+7. Sutarčių su aukštosiomis mokyklomis vykdymo stebėseną atlieka Vyriausybės strateginės analizės centras. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2367, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12448
  
@@ -1274,7 +1275,10 @@ Nr. XIII-891, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21317
 
 
 
-2. Aukštojo mokslo taryba svarsto aukštojo mokslo būklės apžvalgas ir teikia siūlymus, išvadas bei rekomendacijas Vyriausybei, Švietimo ir mokslo ministerijai ir kitoms aukštojo mokslo politiką įgyvendinančioms institucijoms dėl aukštojo mokslo plėtros ir kokybės užtikrinimo priemonių, dėl teisės aktų, susijusių su aukštuoju mokslu, dėl strateginių aukštojo mokslo plėtros krypčių, inicijuoja tyrimus, analizes, konferencijas, pasitarimus, forumus, ekspertinius renginius aukštojo mokslo plėtros klausimais, atlieka kitas įstatymų ir kitų teisės aktų pavestas funkcijas.
+2. Aukštojo mokslo taryba svarsto aukštojo mokslo būklės apžvalgas ir teikia siūlymus, išvadas bei rekomendacijas Vyriausybei, Švietimo, mokslo ir sporto ministerijai ir kitoms aukštojo mokslo politiką įgyvendinančioms institucijoms dėl aukštojo mokslo strateginių tikslų ir pažangos uždavinių nustatymo Nacionaliniame pažangos plane, dėl šiuos tikslus ir uždavinius įgyvendinančiose nacionalinėse plėtros programose planuojamų aukštojo mokslo plėtros ir kokybės užtikrinimo priemonių, dėl teisės aktų, susijusių su aukštuoju mokslu, inicijuoja tyrimus, analizes, konferencijas, pasitarimus, forumus, ekspertinius renginius aukštojo mokslo plėtros klausimais, atlieka kitas įstatymų ir kitų teisės aktų pavestas funkcijas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3116, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15349
+ 
 
 
 
@@ -1394,7 +1398,9 @@ Nr. XIII-1415, 2018-06-30, paskelbta TAR 2018-07-13, i. k. 2018-11960
 
 
 
-2. Valstybinę studijų, mokslinių tyrimų ir eksperimentinės plėtros programą tvirtina Vyriausybė.
+2. Studijų, mokslinių tyrimų ir eksperimentinei plėtrai ir inovacijų plėtotei skirtas priemones nacionalinėse plėtros programose nustato Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3116, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15349
  
 
 
@@ -2954,7 +2960,7 @@ Valstybinėse aukštosiose mokyklose dėstomoji kalba yra lietuvių kalba. Kitom
 
 
 
-2. Iki 10 procentų geriausiai kolegijas baigusių studentų, siekiančių įgyti kompetencijų ir gebėjimų tęsti studijas pagal magistrantūros studijų programą, atsižvelgus į jų studijų kolegijoje rezultatus, gali studijuoti pagal universiteto vykdomas išlyginamąsias ir (ar) papildomas studijas, valstybės finansuojamoje vietoje švietimo ir mokslo ministro nustatyta tvarka. 
+2. Iki 10 procentų geriausiai kolegijas baigusių studentų, siekiančių įgyti kompetencijų ir gebėjimų tęsti studijas pagal magistrantūros studijų programą, atsižvelgus į jų studijų kolegijoje rezultatus, gali studijuoti pagal universiteto vykdomas išlyginamąsias ir (ar) papildomas studijas, valstybės finansuojamoje vietoje švietimo ir mokslo ministro nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
  
@@ -3787,7 +3793,10 @@ Nr. XIII-3269, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15545
 
 
 
-6) jaunesniojo mokslo darbuotojo – 5,41–6,83.
+6) jaunesniojo mokslo darbuotojo – 7,74–9,16.
+Straipsnio punkto pakeitimai:
+Nr. XIV-132, 2020-12-23, paskelbta TAR 2020-12-30, i. k. 2020-29109
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -4071,7 +4080,10 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 
 
 
-4) socialinėms stipendijoms, studijų stipendijoms ir kitai paramai.
+4) socialinėms stipendijoms, studijų stipendijoms, tikslinėms stipendijoms ir kitai paramai.
+Straipsnio punkto pakeitimai:
+Nr. XIII-3153, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14368
+ 
 
 
 
@@ -4327,9 +4339,6 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
 
-4) užsieniečiai, išskyrus šio įstatymo 82 straipsnio 7 ir 8 dalyse nurodytus asmenis, taip pat Europos Sąjungos valstybių narių, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Europos laisvosios prekybos asociacijos valstybių piliečius, dirbančius ir (arba) turinčius teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos narius, kitų užsienio valstybių piliečius ir asmenis be pilietybės, turinčius teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
-TAR pastaba. 80 straipsnio 2 dalies 4 punkto nuostatos taikomos Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams ir jų šeimos nariams, įstojusiems į aukštąsias mokyklas nuo Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos iki 2020 m. gruodžio 31 d.
-4 punkto redakcija nuo 2021-01-01:
 4) užsieniečiai, išskyrus šio įstatymo 82 straipsnio 7 ir 8 dalyse nurodytus asmenis, taip pat Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių piliečius, dirbančius ir (arba) turinčius teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos narius, kitų užsienio valstybių piliečius ir asmenis be pilietybės, turinčius teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
 Straipsnio punkto pakeitimai:
 Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
@@ -4398,7 +4407,10 @@ Nr. XIII-2057, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06693
 82 straipsnis. Stipendijos ir kita parama studentams
 
 
-1. Studentams gali būti mokamos socialinės, skatinamosios stipendijos ir studijų stipendijos.
+1. Studentams gali būti mokamos socialinės, skatinamosios, tikslinės ir studijų stipendijos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3153, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14368
+ 
 
 
 
@@ -4461,9 +4473,6 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 
 
 
-9. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti skiriama parama įstojusiems į aukštąsias mokyklas ne Lietuvos Respublikoje ir jose studijuojantiems Lietuvos Respublikos piliečiams, taip pat kitų Europos Sąjungos valstybių narių, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, Europos laisvosios prekybos asociacijos valstybių piliečiams, dirbantiems ir (arba) turintiems teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos nariams. Ši parama gali būti skiriama ir kitų užsienio valstybių piliečiams ir asmenims be pilietybės, turintiems teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
-TAR pastaba. 82 straipsnio 9 dalies nuostatos taikomos Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiams ir jų šeimos nariams, įstojusiems į aukštąsias mokyklas nuo Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dienos iki 2020 m. gruodžio 31 d.
-9 dalies redakcija nuo 2021-01-01:
 9. Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka gali būti skiriama parama įstojusiems į aukštąsias mokyklas ne Lietuvos Respublikoje ir jose studijuojantiems Lietuvos Respublikos piliečiams, taip pat kitų Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių piliečiams, dirbantiems ir (arba) turintiems teisę nuolat gyventi Lietuvos Respublikoje, ir jų šeimos nariams. Ši parama gali būti skiriama ir kitų užsienio valstybių piliečiams ir asmenims be pilietybės, turintiems teisę nuolat gyventi Lietuvos Respublikoje, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose teisės aktuose nenustatyta kitaip.
 Papildyta straipsnio dalimi:
 Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
@@ -4479,6 +4488,14 @@ Straipsnio dalies pakeitimai:
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
+ 
+
+
+
+
+101.  Vyriausybės nustatyta tvarka iš valstybės biudžeto lėšų tikslinės stipendijos gali būti mokamos studentams, įstojusiems į Vyriausybės nustatytų prioritetinių studijų krypčių, studijų programų grupių ar studijų programų valstybės finansuojamas studijų vietas ar nefinansuojamas studijų vietas su studijų stipendija, neatsižvelgiant į kitas gaunamas stipendijas ar paramą. Tikslinė stipendija mokama neturintiems akademinių skolų studentams ne rečiau kaip kartą per pusę metų visą studijų laikotarpį, bet ne ilgiau kaip studijų programoje nustatyta studijų trukmė. Atitinkamų metų trumposios pakopos, pirmosios pakopos, antrosios pakopos ir vientisųjų studijų prioritetines studijų kryptis, studijų programų grupes ar studijų programas nustato Vyriausybė iki kiekvienų metų balandžio 2 dienos, atsižvelgdama į ministerijų pasiūlymus, valstybės ūkinės, socialinės, kultūrinės ir regioninės plėtros poreikius, nacionalinės žmogiškųjų išteklių stebėsenos informaciją, Vyriausybės nustatytas prioritetines mokslo tiriamosios ir eksperimentinės plėtros ir inovacijų raidos kryptis ir jų prioritetus bei valstybės finansines galimybes. Tikslines stipendijas administruoja Valstybinis studijų fondas.
+Papildyta straipsnio dalimi:
+Nr. XIII-3153, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14368
  
 
 
@@ -5239,3 +5256,18 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3415, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24584
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 48, 52 ir 59 straipsnių pakeitimo įstatymas
+ 
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3116, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15349
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 20 ir 24 straipsnių pakeitimo įstatymas
+ 
+39.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3153, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14368
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 76 ir 82 straipsnių pakeitimo įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-132, 2020-12-23, paskelbta TAR 2020-12-30, i. k. 2020-29109
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pakeitimo įstatymas
