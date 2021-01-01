@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FEF229DA7C6"
 
 # Lietuvos Respublikos dokumentų ir archyvų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2389, i. k. 0951010ISTA00I-1115
  
@@ -387,7 +387,10 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. 1101010ISTA
 1. Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė):
 
 
-1) nustato dokumentų ir archyvų valdymo ir naudojimo srities plėtros kryptis bei prioritetus, tvirtindama strateginio planavimo dokumentus;
+1) tvirtina nacionalines plėtros programas, kuriose suplanuojamos dokumentų ir archyvų valdymo ir naudojimo srities politikos pažangos uždavinius įgyvendinančios priemonės; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3110, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15320
+ 
 
 
 
@@ -468,7 +471,10 @@ Nr. XIII-1373, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12041
 
 
 
-4) koordinuoja strateginio planavimo dokumentų rengimą ir įgyvendinimą dokumentų ir archyvų valdymo ir naudojimo srityje;
+4) rengia ir (arba) koordinuoja dokumentų ir archyvų valdymo ir naudojimo srities priemonių rengimą ir organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3110, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15320
+ 
 
 
 
@@ -1523,3 +1529,8 @@ Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 5 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2473, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16483
 Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 10, 11, 12 ir 14 straipsnių pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3110, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15320
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 5 straipsnio pakeitimo įstatymas
