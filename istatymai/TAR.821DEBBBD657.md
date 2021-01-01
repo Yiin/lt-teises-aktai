@@ -21,7 +21,7 @@ APSAUGOS IŠMOKŲ IR BAZINIO BAUSMIŲ IR NUOBAUDŲ DYDŽIO INDEKSAVIMO ĮSTATYMA
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01
  
 Įstatymas paskelbtas: Žin. 2008, Nr. 83-3294, i. k. 1081010ISTA00X-1710
  
@@ -101,7 +101,10 @@ Nr. XIII-2604, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20563
 
 
 
-4. Valstybinių pensijų bazės dydis negali būti didesnis už galiojančios socialinio draudimo bazinės pensijos dydį. 
+4. Neteko galios nuo 2021-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-82, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28363
+ 
 
 
 
@@ -111,7 +114,9 @@ Nr. XIII-2604, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20563
 
 
 
-6. Bazinės socialinės išmokos dydį, šalpos pensijų bazės dydį, tikslinių kompensacijų bazės dydį, valstybės remiamų pajamų dydį, valstybinių pensijų bazės dydį tvirtina Lietuvos Respublikos Vyriausybė.
+6. Bazinės socialinės išmokos dydį, šalpos pensijų bazės dydį, tikslinių kompensacijų bazės dydį, valstybės remiamų pajamų dydį tvirtina Lietuvos Respublikos Vyriausybė.
+Straipsnio dalies pakeitimai:
+Nr. XIV-82, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28363
  
 
 
@@ -206,13 +211,13 @@ Nr. XIII-2604, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20563
 
 
 2. Teisės aktuose, reglamentuojančiuose nusikalstamų veikų ir administracinių nusižengimų kvalifikavimą bei bausmių ir nuobaudų dydžių apibrėžimą ir apskaičiavimą, vartojamas rodiklis „minimalusis gyvenimo lygis“, arba „MGL“, yra tapatus ir lygus baziniam bausmių ir nuobaudų dydžiui.
+
+
+
+
+
+
  
-
-
-
-
-
-
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
@@ -246,4 +251,9 @@ Lietuvos Respublikos socialinės apsaugos išmokų atskaitos rodiklių ir bazini
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2604, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20563
+Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo Nr. X-1710 2 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-82, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28363
 Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo Nr. X-1710 2 straipsnio pakeitimo įstatymas
