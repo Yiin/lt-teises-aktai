@@ -18,9 +18,10 @@ LIETUVOS RESPUBLIKOS APSAUGOS NUO SMURTO ARTIMOJE APLINKOJE ĮSTATYMAS
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2018-07-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 72-3475, i. k. 1111010ISTA0XI-1425
  
@@ -46,7 +47,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Smurtas artimoje aplinkoje yra žmogaus teisių ir laisvių pažeidimas. Šis įstatymas apibrėžia smurto artimoje aplinkoje sampratą, nustato smurto artimoje aplinkoje subjektų teises ir atsakomybę, prevencijos priemonių įgyvendinimą, pagalbos smurto artimoje aplinkoje atveju teikimą ir apsaugos priemonių smurtą patyrusiam asmeniui taikymą. Vaiko apsauga nuo smurto reglamentuojama šiame įstatyme ir kituose Lietuvos Respublikos teisės aktuose.
+2. Smurtas artimoje aplinkoje yra žmogaus teisių ir laisvių pažeidimas. Šis įstatymas apibrėžia smurto artimoje aplinkoje sampratą, nustato smurto artimoje aplinkoje subjektų teises ir atsakomybę, prevencijos priemonių ir projektų įgyvendinimą, pagalbos smurto artimoje aplinkoje atveju teikimą ir apsaugos priemonių smurtą patyrusiam asmeniui taikymą. Vaiko apsauga nuo smurto reglamentuojama šiame įstatyme ir kituose Lietuvos Respublikos teisės aktuose.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3106, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15315
+ 
 
 
 
@@ -173,20 +177,17 @@ Apsauga nuo smurto artimoje aplinkoje įgyvendinama vadovaujantis šiais princip
 4 straipsnis. Smurto artimoje aplinkoje prevencija
 
 
-1. Valstybės ir savivaldybių institucijos, įstaigos ir nevyriausybinės organizacijos pagal kompetenciją rengia ir įgyvendina priemones, kuriomis siekiama užkirsti kelią smurtui artimoje aplinkoje, vykdo šio ir kitų teisės aktų reikalavimus.
+1. Valstybės ir savivaldybių institucijos, įstaigos ir nevyriausybinės organizacijos pagal kompetenciją rengia ir įgyvendina priemones ir projektus, kuriais siekiama užkirsti kelią smurtui artimoje aplinkoje, vykdo šio įstatymo ir kitų teisės aktų reikalavimus.
 
 
 
 
-2. Prevencijos priemonės įgyvendinamos pagal Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ir jos įgaliotų institucijų parengtas programas. Savivaldybės institucijos prevencijos priemones, skirtas nuo smurto artimoje aplinkoje nukentėjusiems asmenims, numato savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose. Prevencijos priemonės finansuojamos iš valstybės ir savivaldybių biudžetų ir tarptautinių programų. Vyriausybė finansuoja nevyriausybinių organizacijų atliekamą prevencinę veiklą.
-Straipsnio dalies pakeitimai:
-Nr. XII-474, 2013-07-02, Žin., 2013, Nr. 79-3995 (2013-07-23), i. k. 1131010ISTA0XII-474
- 
+2. Prevencijos priemonės ir projektai planuojami Lietuvos Respublikos Vyriausybės tvirtinamose nacionalinėse plėtros programose ir valstybės biudžeto asignavimų valdytojų strateginiuose veiklos planuose. Savivaldybės institucijos prevencijos priemones ir projektus, skirtus nuo smurto artimoje aplinkoje nukentėjusiems asmenims, numato savivaldybės strateginiame plėtros ir (ar) savivaldybės strateginiame veiklos planuose. Prevencijos priemonės ir projektai finansuojami iš valstybės ir savivaldybių biudžetų ir tarptautinių programų. Vyriausybė finansuoja nevyriausybinių organizacijų įgyvendinamas šio straipsnio 3 dalyje nurodytas prevencijos priemones ir projektus.
 
 
 
 
-3. Valstybės ir savivaldybių institucijos, įstaigos ir nevyriausybinės organizacijos, siekdamos užkirsti kelią smurtui artimoje aplinkoje, pagal kompetenciją imasi šių prevencijos priemonių:
+3. Valstybės ir savivaldybių institucijos, įstaigos ir nevyriausybinės organizacijos, siekdamos užkirsti kelią smurtui artimoje aplinkoje, pagal kompetenciją įgyvendina šias prevencijos priemones ir projektus:
 
 
 1) organizuoja visuomenės švietimo ir informavimo kampanijas, skatinančias netoleruoti smurto;
@@ -195,9 +196,6 @@ Nr. XII-474, 2013-07-02, Žin., 2013, Nr. 79-3995 (2013-07-23), i. k. 1131010IST
 
 
 2) organizuoja bendrus ir specializuotus teisėjų, prokurorų, policijos pareigūnų, specialistų ir kitų asmenų, dirbančių smurto artimoje aplinkoje prevencijos ir pagalbos srityje, mokymus ir kvalifikacijos tobulinimo kursus pagal Vyriausybės ir jos įgaliotų institucijų bei savivaldybių parengtas programas, finansuojamas iš valstybės ir savivaldybių biudžetų ir tarptautinių programų; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2680, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25274
- 
 
 
 
@@ -222,19 +220,19 @@ Nr. XII-2680, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25274
 
 
 
-7) imasi kitų prevencijos priemonių.
+7) imasi kitų prevencijos priemonių ir projektų.
 
 
 
 
 
 
-4. Prevencijos priemonių įgyvendinimą savivaldybėse koordinuoja savivaldybės administracijos direktorius arba jo pavaduotojas. Koordinuodamas prevencijos priemonių įgyvendinimą, savivaldybės administracijos direktorius arba jo pavaduotojas turi teisę gauti iš savivaldybių institucijų, įstaigų ir nevyriausybinių organizacijų, dirbančių apsaugos nuo smurto artimoje aplinkoje srityje, prevencijos priemonėms įgyvendinti būtinus duomenis. 
-Papildyta straipsnio dalimi:
-Nr. XII-2680, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25274
+4. Prevencijos priemonių ir projektų įgyvendinimą savivaldybėse koordinuoja savivaldybės administracijos direktorius arba jo pavaduotojas. Koordinuodamas prevencijos priemonių ir projektų įgyvendinimą, savivaldybės administracijos direktorius arba jo pavaduotojas turi teisę gauti iš savivaldybių institucijų, įstaigų ir nevyriausybinių organizacijų, dirbančių apsaugos nuo smurto artimoje aplinkoje srityje, prevencijos priemonėms ir projektams įgyvendinti būtinus duomenis.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3106, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15315
  
-
-
 
 
 
@@ -373,12 +371,18 @@ PAGALBOS VALDYMAS IR ORGANIZAVIMAS
 
 
 
-2. Vyriausybė tvirtina Vyriausybės įgaliotos institucijos parengtą ilgalaikę valstybinę pagalbos teikimo ir finansavimo programą, kuri finansuojama iš valstybės ir savivaldybių biudžetų lėšų ir tarptautinių programų.
+2. Vyriausybė tvirtina nacionalines plėtros programas, kuriose suplanuojamos apsaugos nuo smurto artimoje aplinkoje priemonės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3106, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15315
+ 
 
 
 
 
-3. Vyriausybės įgaliotos institucijos yra atsakingos už specializuotos pagalbos centrų programos parengimą. Specializuotos pagalbos centrai steigiami prioritetą teikiant nevyriausybinėms organizacijoms.
+3. Vyriausybės įgaliotos institucijos yra atsakingos už Specializuotos pagalbos centrų veiksmų plano parengimą. Specializuotos pagalbos centrai steigiami prioritetą teikiant nevyriausybinėms organizacijoms.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3106, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15315
+ 
 
 
 
@@ -578,7 +582,9 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-2. Šio įstatymo 8 straipsnio 4 dalies nuostata taikoma po to, kai Vyriausybė ar jos įgaliota institucija šio įstatymo 15 straipsnio 3 dalyje nustatytais terminais patvirtina specializuotos pagalbos centrų programą.
+2. Neteko galios nuo 2021-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3106, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15315
  
 
 
@@ -599,7 +605,9 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-3. Vyriausybė ar jos įgaliota institucija per 6 mėnesius nuo šio įstatymo paskelbimo leidinyje „Valstybės žinios“ patvirtina specializuotos pagalbos centrų programą.
+3. Neteko galios nuo 2021-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3106, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15315
  
 
 
@@ -613,7 +621,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
  
  
 
@@ -675,3 +683,8 @@ Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-142
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1295, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10618
 Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 7 ir 9 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3106, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15315
+Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatymo Nr. XI-1425 1, 4, 8, 14 ir 15 straipsnių pakeitimo įstatymas
