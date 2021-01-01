@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.11A8B08A7405"
 
 # Lietuvos Respublikos suėmimo vykdymo įstatymas
 
-Suvestinė redakcija nuo 2020-06-20 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 12-313, i. k. 0961010ISTA00I-1175
  
@@ -189,7 +189,10 @@ Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
 
 
 
-7) asmenys, nurodyti Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje. 
+7) Neteko galios nuo 2021-01-01
+Straipsnio punkto naikinimas:
+Nr. XIII-3242, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15879
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -353,7 +356,10 @@ Nr. XIII-3025, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13463
 
 
 
-7) asmenys, nurodyti Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje, – atskirai nuo kitų suimtųjų ir nuteistųjų.
+7) Neteko galios nuo 2021-01-01
+Straipsnio punkto naikinimas:
+Nr. XIII-3242, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15879
+ 
 
 
 
@@ -1858,3 +1864,8 @@ Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 45 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3025, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13463
 Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 7, 8, 9, 10, 11, 12, 17, 20, 22, 24, 26, 27, 28, 30, 32, 34, 36, 38, 39, 40 ir 42 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3242, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15879
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 7 ir 10 straipsnių pakeitimo įstatymas
