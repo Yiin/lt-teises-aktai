@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B6B636C7384A"
 
 # Lietuvos Respublikos bankų įstatymas
 
-Suvestinė redakcija nuo 2020-06-15 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-10-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 54-1832, i. k. 1041010ISTA0IX-2085
  
@@ -3177,7 +3177,9 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 67 straipsnis. Priežiūros institucijos pareigos ir teisės
 
 
-Priežiūros institucija turi teisę:
+1. Priežiūros institucija turi teisę: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-108, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28961
 
 
 1) jeigu banko organų priimti sprendimai kelia pavojų banko veiklos stabilumui ir patikimumui, kreiptis į teismą, kad jie, kai yra įstatymuose nustatyti pagrindai, būtų pripažinti negaliojančiais;
@@ -3382,29 +3384,52 @@ Priežiūros institucija turi teisę:
 
 
 
-9. Priežiūros institucijos nustatyta tvarka jos tarnautojai turi teisę dalyvauti banko organų ir banko komitetų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti banko organų, banko komitetų ir banko vadovų veiklą.
+9. Priežiūros institucija nuomonę dėl indėlių draudžiamojo įvykio, kaip jis apibrėžtas Indėlių ir įsipareigojimų investuotojams draudimo įstatyme, patvirtinimo raštu pateikia ne vėliau kaip per 5 darbo dienas po to, kai nustato, kad priežiūros institucijos išduotą licenciją turintis bankas ar užsienio banko filialas dėl su savo finansine padėtimi tiesiogiai susijusių priežasčių negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir to negalės padaryti artimiausiu metu. 
+Papildyta straipsnio dalimi:
+Nr. XIV-108, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28961
+ 
 
 
 
 
-10. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie bankų skolininkus. Bankai priežiūros institucijai privalo teikti duomenis apie banko skolininkus ir turi teisę naudotis šiais duomenimis priežiūros institucijos teisės aktų nustatyta tvarka.
+10. Priežiūros institucijos nustatyta tvarka jos tarnautojai turi teisę dalyvauti banko organų ir banko komitetų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti banko organų, banko komitetų ir banko vadovų veiklą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-108, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28961
+ 
 
 
 
 
-11. Jeigu pagal šį Įstatymą pritaikomos banko veiklą ribojančios priemonės arba iškeliama banko likvidavimo byla, kaip jos suprantamos pagal Finansinio tvarumo įstatymo 121 straipsnį, priežiūros institucija mutatis mutandis turi Finansinio tvarumo įstatymo VII skyriuje pertvarkymo institucijai nustatytas teises ir pareigas. 
+11. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie bankų skolininkus. Bankai priežiūros institucijai privalo teikti duomenis apie banko skolininkus ir turi teisę naudotis šiais duomenimis priežiūros institucijos teisės aktų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-108, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28961
+ 
 
 
 
 
-12. Šiame straipsnyje nustatytas teises priežiūros institucija turi ir dėl šio Įstatymo nustatyta tvarka išduotą licenciją turinčio užsienio banko filialo. 
+12. Jeigu pagal šį Įstatymą pritaikomos banko veiklą ribojančios priemonės arba iškeliama banko likvidavimo byla, kaip jos suprantamos pagal Finansinio tvarumo įstatymo 121 straipsnį, priežiūros institucija mutatis mutandis turi Finansinio tvarumo įstatymo VII skyriuje pertvarkymo institucijai nustatytas teises ir pareigas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-108, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28961
+ 
 
 
 
 
-13. Priežiūros institucija, spręsdama dėl privalomų nurodymų davimo pagal šio straipsnio 4 dalį, taip pat turi vadovautis taikytinais Europos Sąjungos teisės aktais. 
+13. Šiame straipsnyje nustatytas teises priežiūros institucija turi ir dėl šio Įstatymo nustatyta tvarka išduotą licenciją turinčio užsienio banko filialo. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-108, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28961
+ 
+
+
+
+
+14. Priežiūros institucija, spręsdama dėl privalomų nurodymų davimo pagal šio straipsnio 4 dalį, taip pat turi vadovautis taikytinais Europos Sąjungos teisės aktais. 
 Straipsnio pakeitimai:
 Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-108, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28961
+ 
 
 
 Straipsnio pakeitimai:
@@ -3910,9 +3935,10 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 
 
 
-4. Priežiūros institucija sprendimą dėl poveikio priemonės taikymo, kuris pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą laikomas draudžiamuoju įvykiu, priima ne vėliau kaip per 5 darbo dienas po to, kai nustato, kad priežiūros institucijos išduotą licenciją turintis bankas ar užsienio banko filialas negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir yra pagrindas manyti, kad to negalės padaryti artimiausiu metu. 
-Straipsnio pakeitimai:
-Nr. XI-377, 2009-07-21, Žin., 2009, Nr. 93-3970 (2009-08-04)
+4. Neteko galios nuo 2021-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-108, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28961
+ 
 
 
 Straipsnio pakeitimai:
@@ -5391,3 +5417,8 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 83, 85, 86, 87 straipsnių pak
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2959, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11331
 Lietuvos Respublikos bankų įstatymo Nr. IX-2085 9, 10, 19 ir 22 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-108, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28961
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 67 ir 73 straipsnių pakeitimo įstatymas
