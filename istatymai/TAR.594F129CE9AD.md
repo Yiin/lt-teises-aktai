@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.594F129CE9AD"
 
 # Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas
 
-Suvestinė redakcija nuo 2020-06-23 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-310, i. k. 0991010ISTAIII-1031
  
@@ -396,7 +396,10 @@ Vilnius
 
 
 
-3) suderina su Lietuvos administracinių ginčų komisijos pirmininku (komisijos pirmininko pavaduotoju teritoriniame padalinyje) bylos nagrinėjimo administracinių ginčų komisijos posėdyje datą ir laiką; išsiunčia bylos šalims ir jų atstovams pranešimus apie posėdžio vietą, datą ir laiką, kartu pasiūlo ginčo šalims išspręsti ginčą taikiai;
+3) suderina su Lietuvos administracinių ginčų komisijos pirmininku (komisijos pirmininko pavaduotoju teritoriniame padalinyje) bylos nagrinėjimo administracinių ginčų komisijos posėdyje datą ir laiką; išsiunčia bylos šalims ir jų atstovams pranešimus apie posėdžio vietą, datą ir laiką, kartu pasiūlo ginčo šalims išspręsti ginčą taikiai arba pasinaudoti galimybe spręsti ginčą neteisminės mediacijos būdu; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3050, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13618
+ 
 
 
 
@@ -531,7 +534,10 @@ Vilnius
 
 
 
-9. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba jos teritorinio padalinio narys negali dalyvauti nagrinėjant bylą, jeigu jis yra bylos šalies giminaitis, jeigu jis arba jo giminaičiai yra tiesiogiai ar netiesiogiai suinteresuoti bylos baigtimi arba yra kitokių aplinkybių, kurios kelia abejonių dėl jo nešališkumo. Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojo teritoriniame padalinyje ar kito (kitų) komisijos arba jos teritorinio padalinio nario (narių) nušalinimo klausimas išsprendžiamas administracinių ginčų komisijos posėdyje, bylos šalims nedalyvaujant.
+9. Lietuvos administracinių ginčų komisijos pirmininkas, komisijos pirmininko pavaduotojas, komisijos pirmininko pavaduotojas teritoriniame padalinyje ar kitas komisijos arba jos teritorinio padalinio narys negali dalyvauti nagrinėjant bylą, jeigu jis yra bylos šalies giminaitis; jeigu jis arba jo giminaičiai yra tiesiogiai ar netiesiogiai suinteresuoti bylos baigtimi; jeigu jis toje byloje vykdė neteisminę mediaciją; yra kitokių aplinkybių, kurios kelia abejonių dėl jo nešališkumo. Lietuvos administracinių ginčų komisijos pirmininko, komisijos pirmininko pavaduotojo, komisijos pirmininko pavaduotojo teritoriniame padalinyje ar kito (kitų) komisijos arba jos teritorinio padalinio nario (narių) nušalinimo klausimas išsprendžiamas administracinių ginčų komisijos posėdyje, bylos šalims nedalyvaujant. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3050, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13618
+ 
 
 
 
@@ -573,7 +579,6 @@ Vilnius
 
 
 5. Kol vyksta neteisminė mediacija, sustabdomi šiame ir kituose įstatymuose nustatyti skundų (prašymų) padavimo ir (ar) bylų nagrinėjimo terminai.
-TAR pastaba. 15straipsnis įsigalioja 2021 m. sausio 1 d.
  
 
 
@@ -620,7 +625,6 @@ TAR pastaba. 15straipsnis įsigalioja 2021 m. sausio 1 d.
 
 
 3. Paskirtam mediatoriui neteisminės mediacijos laikotarpiu sudaromos sąlygos susipažinti su byla arba mediatoriaus prašymu byla jam perduodama pasirašytinai. Mediatorius iki neteisminės mediacijos vykdymo termino pabaigos privalo grąžinti bylą administracinių ginčų komisijai.
-TAR pastaba. 16 straipsnis įsigalioja 2021 m. sausio 1 d.
  
 
 
@@ -657,7 +661,6 @@ TAR pastaba. 16 straipsnis įsigalioja 2021 m. sausio 1 d.
 
 
 6. Neteisminės mediacijos metu ginčo šalims pasiekus taikų susitarimą ir sudarius taikos sutartį, šią sutartį šio straipsnio 5 dalyje nustatyta tvarka tvirtina administracinių ginčų komisija.
-TAR pastaba. 17straipsnio 6 dalis įsigalioja 2021 m. sausio 1 d.
 
 
 
