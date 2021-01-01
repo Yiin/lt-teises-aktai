@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97094B63FD95"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 2019-02-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 112-4990, i. k. 1031010ISTA0IX-1804
  
@@ -120,7 +120,10 @@ Nr. XIII-1885, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00244
 
 
 
-5. Bendrijos veiklos sutartis suteikia teisę atidaryti steigiamos bendrijos kaupiamąją sąskaitą banke. Kaupiamojoje sąskaitoje esančios lėšos gali būti naudojamos tik po bendrijos įregistravimo Juridinių asmenų registre.
+5. Bendrijos veiklos sutartis suteikia teisę atidaryti steigiamos bendrijos kaupiamąją sąskaitą kredito ar elektroninių pinigų įstaigoje. Kaupiamojoje sąskaitoje esančios lėšos gali būti naudojamos tik po bendrijos įregistravimo Juridinių asmenų registre.
+Straipsnio dalies pakeitimai:
+Nr. XIV-79, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28126
+ 
 
 
 
@@ -1000,3 +1003,8 @@ Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 pakeitimo įstatym
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1885, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00244
 Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 1 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-79, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28126
+Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 3 straipsnio pakeitimo įstatymas
