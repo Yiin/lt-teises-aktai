@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
  
@@ -72,7 +72,10 @@ Nr. XIII-1177, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09068
 
 
 
-2. Viešoji įstaiga turi turėti bent vieną sąskaitą banke. 
+2. Viešoji įstaiga turi turėti bent vieną sąskaitą kredito ar elektroninių pinigų įstaigoje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-78, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28124
+ 
 
 
 
@@ -1614,3 +1617,8 @@ Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 1, 3, 9, 10, 11, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-852, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20335
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 8-1 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-78, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28124
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 2 straipsnio pakeitimo įstatymas
