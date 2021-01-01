@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9C9FA25983BC"
 
 # Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 41-1162, i. k. 1001010ISTAIII-1649
  
@@ -2151,7 +2151,10 @@ PAREIGŪNŲ DARBO UŽMOKESTIS
 
 
 
-3) priedas už ištarnautus Lietuvos valstybei metus;
+3) priedas už tarnybos Lietuvos valstybei stažą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3402, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24601
+ 
 
 
 
@@ -2184,7 +2187,10 @@ PAREIGŪNŲ DARBO UŽMOKESTIS
 
 
 
-2. Pareigūno darbo užmokesčiui apskaičiuoti taikomas darbo užmokesčio ir pareiginės algos bazinis dydis (toliau – bazinis dydis), kurį ateinantiems metams Vyriausybės teikimu, įvertinus praėjusių metų vidutinę metinę infliaciją (skaičiuojant nacionalinį vartotojų kainų indeksą) ir kitų vidutinio darbo užmokesčio viešajame sektoriuje dydžiui ir kitimui poveikį turinčių veiksnių įtaką, tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį, išskyrus atvejus, kai iš esmės pablogėja valstybės ekonominė ir finansinė būklė.
+2. Pareiginės algos koeficiento vienetas yra Lietuvos Respublikos Seimo patvirtintas atitinkamų metų valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų bei valstybės ir savivaldybių biudžetinių įstaigų darbuotojų pareiginės algos (atlyginimo) bazinis dydis (toliau – bazinis dydis). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3402, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24601
+ 
 
 
 
@@ -2238,18 +2244,20 @@ Pareigūnams priedai už tarnybinį rangą skaičiuojami nuo pareiginės algos:
 
 
 
-54 straipsnis. Priedas už ištarnautus Lietuvos valstybei metus
+54 straipsnis. Priedas už tarnybos Lietuvos valstybei stažą
 
 
-1. Pareigūnams mokamas priedas už ištarnautus Lietuvos valstybei metus nuo 1990 m. kovo 11 d. einant pareigas, nurodytas Valstybės tarnybos įstatymo 4 straipsnio 1–4 dalyse ir 5 dalies 1–4 punktuose (išskyrus savivaldybės tarybos narius, kurie nebuvo merais ir mero pavaduotojais). Į ištarnautus metus įskaitomi laikotarpiai, nurodyti Valstybės tarnybos įstatymo 42 straipsnio 1 dalyje, apskaičiuoti Vyriausybės nustatyta tvarka.
+1. Pareigūnams mokamas priedas už tarnybos Lietuvos valstybei stažą, nurodytą Valstybės tarnybos įstatymo 47 straipsnio 1 ir 2 dalyse.
 
 
 
 
-2. Priedą už ištarnautus valstybei metus sudaro 3 procentai pareigūno pareiginės algos už kiekvienus 3 metus, tačiau priedo dydis neturi viršyti 30 procentų pareiginės algos.
+2. Priedą už tarnybos Lietuvos valstybei stažą sudaro 1 procentas pareigūno pareiginės algos už kiekvienus tarnybos Lietuvos valstybei metus, tačiau šio priedo dydis negali viršyti 30 procentų pareigūno pareiginės algos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3402, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24601
  
-
-
 
 
 
@@ -2624,20 +2632,22 @@ Nr. XIII-1738, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20706
 60 straipsnis. Išeitinės išmokos pareigūnams, atleidžiamiems iš tarnybos Specialiųjų tyrimų tarnyboje
 
 
-1. Atleidžiant pareigūnus iš tarnybos Specialiųjų tyrimų tarnyboje šio įstatymo 13 straipsnio 1 dalies 4 ar 7 punkte, 40 straipsnio 1 dalies 6 punkte, 2 dalies 1, 2, 3 ar 5 punkte nustatytais pagrindais, išmokama 2 mėnesių vidutinio darbo užmokesčio dydžio išeitinė išmoka.
+1. Atleidžiant pareigūnus iš tarnybos Specialiųjų tyrimų tarnyboje šio įstatymo 13 straipsnio 1 dalies 4 ar 7 punkte, 40 straipsnio 1 dalies 6 ar 15 punkte, 2 dalies 1, 2, 3 ar 5 punkte nustatytais pagrindais, išmokama 2 mėnesių jų vidutinio darbo užmokesčio dydžio išeitinė išmoka. Šio įstatymo 13 straipsnio 1 dalies 1 punkte nustatytu pagrindu atleidžiamiems iš pareigų pareigūnams, kurie atsistatydina savo noru dėl socialinio draudimo senatvės pensijos amžiaus sukakties, išmokama 2 mėnesių jų vidutinio darbo užmokesčio dydžio išeitinė išmoka.
 
 
 
 
-2. Šio straipsnio 1 dalyje nustatyta išeitinė išmoka, išskyrus išmoką, mokėtiną atleidžiant pareigūną šio įstatymo 13 straipsnio 1 dalies 4 punkte, 40 straipsnio 1 dalies 6 punkte ir 2 dalies 1 punkte nustatytais pagrindais, pradedama mokėti praėjus vienam mėnesiui nuo pareigūno atleidimo dienos ir mokama kas mėnesį lygiomis dalimis, bet kiekviena šių dalių turi būti ne mažesnė negu vieno mėnesio jo gauto vidutinio darbo užmokesčio dydžio. Išeitinės išmokos mokėjimas nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ar priimamas į darbą įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke. Jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ne pirmą mėnesio dieną, šio straipsnio 1 dalyje nustatyta išeitinė išmoka mokama tik už to mėnesio dienas iki priėmimo į valstybės tarnautojo pareigas ar priėmimo į darbą įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke dienos.
+2. Šio straipsnio 1 dalyje nustatyta išeitinė išmoka, išskyrus išeitinę išmoką, mokėtiną atleidžiant pareigūną šio įstatymo 13 straipsnio 1 dalies 1 punkte (dėl socialinio draudimo senatvės pensijos amžiaus sukakties), 4 punkte, 40 straipsnio 1 dalies 6 ar 15 punkte ir 2 dalies 1 punkte nustatytais pagrindais, pradedama mokėti praėjus vienam mėnesiui nuo pareigūno atleidimo dienos ir mokama kas mėnesį lygiomis dalimis, bet kiekviena šių dalių turi būti ne mažesnė negu vieno mėnesio jo gauto vidutinio darbo užmokesčio dydžio. Išeitinės išmokos mokėjimas nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ar priimamas į darbą įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke. Jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ne pirmą mėnesio dieną, šio straipsnio 1 dalyje nustatyta išeitinė išmoka mokama tik už to mėnesio dienas iki priėmimo į valstybės tarnautojo pareigas ar priėmimo į darbą įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke dienos.
 
 
 
 
-3. Šio straipsnio 1 dalyje nustatyto dydžio išeitinė išmoka pareigūnams, turintiems didesnį kaip 5 metų tarnybos stažą, didinama pusantro karto, didesnį kaip 10 metų – du kartus, didesnį kaip 20 metų – tris kartus.
+3. Šio straipsnio 1 dalyje nustatyto dydžio išeitinė išmoka, išskyrus išeitinę išmoką, mokėtiną atleidžiant pareigūnus šio įstatymo 13 straipsnio 1 dalies 1 punkte (dėl socialinio draudimo senatvės pensijos amžiaus sukakties) ar 40 straipsnio 1 dalies 15 punkte nustatytais pagrindais, pareigūnams, turintiems didesnį kaip 5 metų tarnybos stažą, didinama pusantro karto, didesnį kaip 10 metų, – du kartus, didesnį kaip 20 metų, – tris kartus. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3402, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24601
  
-
-
 
 
 
@@ -3206,3 +3216,8 @@ Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 59 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2677, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21318
 Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 23 ir 64 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3402, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24601
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 51, 52, 54 ir 60 straipsnių pakeitimo įstatymas
