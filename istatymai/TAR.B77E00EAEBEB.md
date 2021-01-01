@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B77E00EAEBEB"
 
 # Lietuvos Respublikos klimato kaitos valdymo įstatymas
 
-Suvestinė redakcija nuo 2020-11-04 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 87-3662, i. k. 1091010ISTA00XI-329
  
@@ -150,14 +150,16 @@ Nr. XII-291, 2013-05-09, Žin., 2013, Nr. 54-2691 (2013-05-25), i. k. 1131010IST
 
 
 ANTRASIS SKIRSNIS 
-NACIONALINĖ KLIMATO KAITOS VALDYMO POLITIKOS STRATEGIJA 
+NACIONALINĖS KLIMATO KAITOS VALDYMO POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
  
 
 
-3 straipsnis. Nacionalinė klimato kaitos valdymo politikos strategija ir jos įgyvendinimo priemonių planas
+3 straipsnis. Nacionalinės klimato kaitos valdymo politikos formavimas ir įgyvendinimas
 
 
-1. Nacionalinė klimato kaitos valdymo politikos strategija apima šias valstybės valdymo sritis:
+1. Nacionalinės klimato kaitos valdymo politikos formavimas ir įgyvendinimas apima šias sritis:
 
 
 1) aplinkos apsaugos ir racionalaus gamtos išteklių naudojimo;
@@ -205,48 +207,57 @@ NACIONALINĖ KLIMATO KAITOS VALDYMO POLITIKOS STRATEGIJA
 
 
 
-10) vidaus reikalų;
+10) teritorijų planavimo ir regioninės plėtros;
 
 
 
 
-11) žemės ūkio.
+11) vidaus reikalų;
+
+
+
+
+12) žemės ūkio.
 
 
 
 
 
 
-2. Nacionalinė klimato kaitos valdymo politikos strategija, atsižvelgiant į valstybės strateginius tikslus ir (ar) tarptautinius įsipareigojimus, gali būti skirta ir kitoms valstybės valdymo sritims, susijusioms su prisitaikymu prie klimato kaitos pokyčių ir klimato kaitos padarinių švelninimu, įgyvendinti. 
+2. Nacionalinė klimato kaitos valdymo politika, atsižvelgiant į valstybės strateginius tikslus ir (ar) tarptautinius įsipareigojimus, gali būti skirta ir kitoms sritims, susijusioms su prisitaikymu prie klimato kaitos pokyčių ir klimato kaitos padarinių švelninimu.
 
 
 
 
-3. Nacionalinę klimato kaitos valdymo politikos strategiją ir jos įgyvendinimo priemonių planą rengia ministerijos ir Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) pavedimu – kitos valstybės valdymo institucijos. Nacionalinę klimato kaitos valdymo politikos strategiją tvirtina Lietuvos Respublikos Seimas (toliau – Seimas), o jos įgyvendinimo priemonių planą – Vyriausybė.
+3. Nacionalinės klimato kaitos valdymo politikos kryptis nustato Lietuvos Respublikos Seimas tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus. Ilgesnės negu 10 metų trukmės nacionalinės klimato kaitos valdymo politikos tikslus ir uždavinius nustato Seimas tvirtindamas Nacionalinę klimato kaitos valdymo darbotvarkę. Nacionalinės klimato kaitos valdymo politikos 10 metų strateginius tikslus ir (arba) pažangos uždavinius tvirtina Lietuvos Respublikos Vyriausybė Nacionaliniame pažangos plane. Nacionalinės klimato kaitos valdymo politikos priemones Nacionaliniame pažangos plane ir Nacionalinėje klimato kaitos valdymo darbotvarkėje numatytiems uždaviniams įgyvendinti Vyriausybė suplanuoja nacionalinėse plėtros programose ir Nacionalinės klimato kaitos valdymo darbotvarkės plane. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
  
 
 
 
 
+4 straipsnis. Nacionalinę klimato kaitos valdymo politiką formuojančios ir įgyvendinančios institucijos 
 
 
-4 straipsnis. Nacionalinę klimato kaitos valdymo politikos strategiją įgyvendinančios institucijos 
+Nacionalinę klimato kaitos valdymo politiką formuoja ir įgyvendina:
 
 
-Nacionalinę klimato kaitos valdymo politikos strategiją ir jos įgyvendinimo priemonių planą įgyvendina: 
-
-
-1) Vyriausybė, ministerijos ar kitos Vyriausybės įgaliotos institucijos pagal kompetenciją;
+1) Seimas, Vyriausybė, ministerijos ar kitos Vyriausybės įgaliotos institucijos pagal kompetenciją;
 
 
 
 
 2) savivaldybių institucijos. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
  
-
-
-
-
 
 
 
@@ -434,7 +445,10 @@ Nr. XII-1483, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21145
 
 
 
-5. Ūkio subjektams, kurių vykdoma veikla nepatenka į šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą ir kurie priskiriami Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje nedalyvaujantiems sektoriams, metiniai išmetamųjų šiltnamio efektą sukeliančių dujų kiekio mažinimo tikslai ir šių tikslų nustatymo principai nustatomi Nacionalinėje klimato kaitos valdymo politikos strategijoje. Vadovaudamasi Europos Sąjungos teisės aktais ir Nacionaline klimato kaitos valdymo politikos strategija, Vyriausybė arba jos įgaliota institucija nustato metiniams išmetamųjų šiltnamio efektą sukeliančių dujų kiekio mažinimo tikslams pasiekti taikomų lankstumo priemonių naudojimo tvarką. 
+5. Ūkio subjektams, kurių vykdoma veikla nepatenka į šio įstatymo 1 priede nurodytą veiklos rūšių sąrašą ir kurie priskiriami Europos Sąjungos šiltnamio efektą sukeliančių dujų apyvartinių taršos leidimų prekybos sistemoje nedalyvaujantiems sektoriams, metiniai išmetamųjų šiltnamio efektą sukeliančių dujų kiekio mažinimo įsipareigojimai ir prie šių įsipareigojimų pasiekimo prisidedančios priemonės suplanuojamos nacionalinės klimato kaitos valdymo politikos pažangos uždavinius įgyvendinančiose nacionalinėse plėtros programose ir Nacionalinės klimato kaitos valdymo darbotvarkės plane. Vadovaudamasi Europos Sąjungos teisės aktais, Nacionaline klimato kaitos valdymo darbotvarke, Nacionaliniu pažangos planu, nacionalinės klimato kaitos valdymo politikos pažangos uždavinius įgyvendinančiomis nacionalinėmis plėtros programomis ir Nacionalinės klimato kaitos valdymo darbotvarkės planu, Vyriausybė arba jos įgaliota institucija nustato metiniams išmetamųjų šiltnamio efektą sukeliančių dujų kiekio mažinimo įsipareigojimams pasiekti taikomų lankstumo priemonių naudojimo tvarką. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
+ 
 
 
 Straipsnio pakeitimai:
@@ -502,7 +516,10 @@ Nr. XIII-1466, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11504
 
 
 
-3) Nacionalinės klimato kaitos valdymo politikos strategijos tikslų ir uždavinių įgyvendinimo priemonėms vykdyti;
+3) Nacionaliniame pažangos plane ir Nacionalinės klimato kaitos valdymo darbotvarkėje numatytus nacionalinės klimato kaitos valdymo politikos uždavinius įgyvendinančių nacionalinių plėtros programų ir Nacionalinės klimato kaitos valdymo darbotvarkės plano priemonėms ir jas įgyvendinantiems projektams vykdyti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
+ 
 
 
 
@@ -1169,17 +1186,21 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
+23 straipsnis. Neteko galios nuo 2021-01-01
+Straipsnio naikinimas:
+Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
+ 
+
+
+
+
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
  
- 
-RESPUBLIKOS PREZIDENTĖ                                              DALIA GRYBAUSKAITĖ
- 
- 
- 
+RESPUBLIKOS PREZIDENTĖ                                                DALIA GRYBAUSKAITĖ
  
  
 
@@ -1188,6 +1209,7 @@ RESPUBLIKOS PREZIDENTĖ                            �
 
 
 
+ 
 Lietuvos Respublikos 
 klimato kaitos 
 valdymo finansinių 
@@ -1526,3 +1548,8 @@ Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo N
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
 Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3132, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15377
+Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo Nr. XI-329 antrojo skirsnio pavadinimo, 3, 4, 9, 10 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas
