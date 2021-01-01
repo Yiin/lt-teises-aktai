@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E9CE9C91C255"
 
 # Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas
 
-Suvestinė redakcija nuo 2020-10-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 106-2427, i. k. 0961010ISTA00I-1593
  
@@ -251,7 +251,7 @@ Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 3 straipsnis. Atleidimas nuo karo prievolės
 
 
-Nuo karo prievolės atleidžiami:
+1. Nuo karo prievolės atleidžiami:
 
 
 1) asmenys, kurie nustatyta tvarka pripažinti neveiksniais arba ribotai veiksniais;
@@ -264,7 +264,7 @@ Nuo karo prievolės atleidžiami:
 
 
 
-3) asmenys, kurie karinės medicinos ekspertizės komisijos, sudarytos ir veikiančios Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nustatyta tvarka, dėl sveikatos būklės pripažinti netinkami privalomajai karo tarnybai;
+3) asmenys, kurie karinės medicinos ekspertizės komisijos, sudarytos ir veikiančios Lietuvos Respublikos Vyriausybės nustatyta tvarka, dėl sveikatos būklės pripažinti netinkamais privalomajai karo tarnybai;
 
 
 
@@ -275,27 +275,23 @@ Nuo karo prievolės atleidžiami:
 
 
 5) pagrindinio karinio parengtumo neįgiję asmenys, kai jiems sukanka 60 metų;
-Straipsnio punkto pakeitimai:
-Nr. XIII-380, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09161
+
+
+
+
+6) moterys, išskyrus tas, kurios raštu pareiškė norą tapti karo prievolininkėmis ir (ar) yra baigusios aukštojoje mokykloje medicinos, slaugos ar akušerijos studijų programas.
+
+
+
+
+
+
+2. Šio straipsnio 1 dalies 4 ir 5 punktuose nurodytiems Lietuvos Respublikos piliečiams karo padėties metu ginkluotųjų pajėgų vado sprendimu gali būti leista atlikti karo prievolę, jeigu jie raštu pareiškė norą atlikti tarnybą paskelbus mobilizaciją.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3234, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15868
  
-
-
-
-
-6) moterys, išskyrus tas, kurios raštu pareiškė norą tapti karo prievolininkėmis ir (ar) yra baigusios aukštojoje mokykloje medicinos, slaugos ar akušerijos studijų programas;
-
-
-
-
-7) netenka galios 2018-01-01.
-Straipsnio punkto pakeitimai:
-Nr. KT9-N7/2017, 2017-07-04, paskelbta TAR 2017-07-04, i. k. 2017-11471
-Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
- 
-
-
-
-
 
 
 
@@ -860,7 +856,10 @@ Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 
 
 
-8) Valstybės saugumo departamento sistemos pareigūnams;
+8) Lietuvos Respublikos valstybės saugumo departamento žvalgybos pareigūnams; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3234, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15868
+ 
 
 
 
@@ -909,6 +908,22 @@ Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
 
 
 
+132) jų sutuoktinės ar sugyventinės nėštumo ir gimdymo atostogų metu; 
+Papildyta straipsnio punktu:
+Nr. XIII-3234, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15868
+ 
+
+
+
+
+133) auginantiems du ar daugiau vaikų, kurių amžius yra iki trejų metų; 
+Papildyta straipsnio punktu:
+Nr. XIII-3234, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15868
+ 
+
+
+
+
 14) krašto apsaugos ministro nustatyta tvarka – atliekantiems privalomąją pradinę karo tarnybą būtų padaryta neproporcingai didelė žala jo asmeniniams ar visuomeniniams interesams, kurios būtų galima išvengti, jeigu karo prievolininkas privalomąją pradinę karo tarnybą atliktų kitu metu. 
 
 
@@ -916,10 +931,11 @@ Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
 
 
 
-2. Šio straipsnio 1 dalies 2, 4, 5, 6, 7, 8, 9, 91, 11, 13 ir 131 punktuose nurodytiems karo prievolininkams privalomoji pradinė karo tarnyba neatidedama, jeigu jie raštu pareiškė norą atlikti privalomąją pradinę karo tarnybą. 
+2. Šio straipsnio 1 dalies 2, 4, 5, 6, 8, 9, 91, 11, 13, 131, 132 ir 133 punktuose nurodytiems karo prievolininkams privalomoji pradinė karo tarnyba neatidedama, jeigu jie raštu pareiškė norą atlikti privalomąją pradinę karo tarnybą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
 Nr. XIII-2910, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10907
+Nr. XIII-3234, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15868
  
 
 
@@ -1305,7 +1321,10 @@ TARNYBA PASKELBUS MOBILIZACIJĄ
 26 straipsnis. Tarnybos paskelbus mobilizaciją atlikimo sąlygos
 
 
-1. Paskelbus visuotinę mobilizaciją, visi Lietuvos kariuomenės personalo rezervo karo prievolininkai yra šaukiami atlikti karo tarnybą. Paskelbus dalinę mobilizaciją, karo prievolininkai yra šaukiami, jeigu Seimo nutarime ar Respublikos Prezidento dekrete dėl mobilizacijos skelbimo yra nurodyta pašaukti kariuomenės personalo rezervo karo prievolininkus atlikti karo tarnybą. 
+1. Paskelbus visuotinę mobilizaciją, Lietuvos kariuomenės personalo rezervo karo prievolininkai yra šaukiami atlikti karo tarnybą. Paskelbus dalinę mobilizaciją, karo prievolininkai yra šaukiami, jeigu Seimo nutarime ar Respublikos Prezidento dekrete dėl mobilizacijos skelbimo yra nurodyta pašaukti kariuomenės personalo rezervo karo prievolininkus atlikti karo tarnybą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3234, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15868
+ 
 
 
 
@@ -1313,6 +1332,14 @@ TARNYBA PASKELBUS MOBILIZACIJĄ
 2. Tarnyba paskelbus mobilizaciją atliekama kariniuose vienetuose. Atlikti karo tarnybą pašaukti juridinio asmens teises turinčių Lietuvos religinių bendruomenių ar bendrijų nariai, kurie šių religinių bendruomenių ar bendrijų kanonų, statutų ar kitų normų nustatyta tvarka yra išrinkti ar paskirti atlikti pastoracinį darbą tose religinėse bendruomenėse ar bendrijose, kariniuose vienetuose skiriami į karo kapeliono pareigas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-925, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21597
+ 
+
+
+
+
+21. Valstybės sienos apsaugos tarnyboje prie Lietuvos Respublikos vidaus reikalų ministerijos ir Viešojo saugumo tarnyboje prie Vidaus reikalų ministerijos tarnaujantys statutiniai valstybės tarnautojai, Vadovybės apsaugos tarnybos pareigūnai ir Antrajame operatyvinių tarnybų departamente prie Lietuvos Respublikos krašto apsaugos ministerijos pagal žvalgybos pareigūno tarnybos sutartį tarnaujantys žvalgybos pareigūnai tarnybą paskelbus mobilizaciją, jeigu karo padėtis neįvesta, atlieka tarnaudami nurodytose institucijose, o įvedus karo padėtį, – bet kurioje ginkluotųjų pajėgų institucijoje.
+Papildyta straipsnio dalimi:
+Nr. XIII-3234, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15868
  
 
 
@@ -1406,7 +1433,7 @@ Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 29 straipsnis. Tarnybos paskelbus mobilizaciją atidėjimas
 
 
-Tarnyba paskelbus mobilizaciją atidedama šiems karo prievolininkams:
+1. Tarnyba paskelbus mobilizaciją atidedama šiems karo prievolininkams:
 
 
 1) Respublikos Prezidentui, Seimo, Europos Parlamento ir Vyriausybės nariams;
@@ -1424,18 +1451,12 @@ Tarnyba paskelbus mobilizaciją atidedama šiems karo prievolininkams:
 
 
 
-4) vidaus tarnybos sistemos pareigūnams, išskyrus pareigūnus, tarnaujančius tose statutinėse įstaigose, kurios karo padėties ar ginkluotos gynybos nuo agresijos (karo) atveju įstatymais yra priskiriamos ginkluotosioms pajėgoms, taip pat finansų ministro valdymo srities statutinėse įstaigose; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
- 
+4) vidaus tarnybos sistemos pareigūnams, išskyrus pareigūnus, tarnaujančius tose statutinėse įstaigose, kurios įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) atveju tampa ginkluotųjų pajėgų dalimi, taip pat finansų ministro valdymo srities statutinėse įstaigose;
 
 
 
 
-5) netenka galios 2020-07-01;
-Straipsnio punkto pakeitimai:
-Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
- 
+5) Valstybės saugumo departamento žvalgybos pareigūnams;
 
 
 
@@ -1445,18 +1466,39 @@ Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 
 
 
-7) Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo nustatyta tvarka įrašytiems į civilinį mobilizacinį personalo rezervą ir atliekantiems jiems pavestas funkcijas paskelbus mobilizaciją;
+7) Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo nustatyta tvarka įrašytiems į civilinio mobilizacinio personalo rezervą, išskyrus šio straipsnio 2 dalyje nustatytus atvejus;
 
 
 
 
 8) kurie dėl sveikatos būklės negali atlikti tarnybos.
+
+
+
+
+
+
+2. Karo prievolę administruojančios krašto apsaugos sistemos institucijos siūlymu karo prievolininkui, kuris yra įrašytas į civilinio mobilizacinio personalo rezervą ir kuriam tarnyba paskelbus mobilizaciją nėra atidedama kitais šio straipsnio 1 dalies 1–6 ir 8 punktuose nurodytais pagrindais, tarnyba paskelbus mobilizaciją gali būti neatidedama, jeigu:
+
+
+1) karo prievolininko pareigų kariniame vienete pagal jo turimą karinę ir (ar) civilinę specialybę neatlikimas sutrikdytų karinio vieneto veikimą;
+
+
+
+
+2) valstybės ginkluotai gynybai užtikrinti trūksta tarnybą paskelbus mobilizaciją atliekančių karo prievolininkų.
+
+
+
+
+
+
+3. Sprendimą dėl tarnybos paskelbus mobilizaciją atidėjimo karo prievolininkams, kurie yra įrašyti į civilinio mobilizacinio personalo rezervą ir kuriems tarnyba paskelbus mobilizaciją nėra atidedama kitais šio straipsnio 1 dalies 1–6 ir 8 punktuose nurodytais pagrindais, įvertinęs šio straipsnio 2 dalyje nurodytas aplinkybes, nedelsdamas, ne vėliau kaip per vieną darbo dieną nuo karo prievolę administruojančios krašto apsaugos sistemos institucijos siūlymo neatidėti tarnybos paskelbus mobilizaciją gavimo dienos priima krašto apsaugos ministras ar jo įgaliotas asmuo.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3234, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15868
  
- 
-
-
-
-
 
 
 
@@ -1543,7 +1585,9 @@ Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
 
 
 
-9) atlikti savo nuostatuose nustatytus kitus uždavinius ir funkcijas.
+9) atlikti kituose teisės aktuose numatytus uždavinius ir funkcijas.
+Straipsnio punkto pakeitimai:
+Nr. XIII-3234, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15868
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-2670, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21312
  
@@ -2054,7 +2098,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTĖ                                               DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                DALIA GRYBAUSKAITĖ
  
  
 
@@ -2223,3 +2267,8 @@ Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 15 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3252, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15767
 Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 35 straipsnio pakeitimo ir Įstatymo papildymo 35-1 straipsniu įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3234, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15868
+Lietuvos Respublikos karo prievolės įstatymo Nr. I-1593 3, 15, 26, 29 ir 31 straipsnių pakeitimo įstatymas
