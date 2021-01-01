@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4DBDE27621A2"
 
 # Lietuvos Respublikos korupcijos prevencijos įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 57-2297, i. k. 1021010ISTA00IX-904
  
@@ -388,38 +388,65 @@ Nr. XII-2742, 2016-11-08, paskelbta TAR 2016-11-15, i. k. 2016-26840
 
 
 
-7 straipsnis. Kovos su korupcija programos 
+7 straipsnis. Korupcijos prevencijos planavimo dokumentai
 
 
-1. Kovos su korupcija programos gali būti Lietuvos Respublikos nacionalinė, šakinės, institucinės ir kitos.
+1. Korupcijos prevencijos planavimo dokumentai yra:
 
 
-
-
-2. Nacionalinę kovos su korupcija programą rengia, jos įgyvendinimą organizuoja ir kontroliuoja Vyriausybė dalyvaujant Specialiųjų tyrimų tarnybai. 
-
-
-
-
-3. Šakines (apimančias kelių valstybės ar savivaldybių įstaigų veiklos sritis), institucines ir kitas kovos su korupcija programas rengia valstybės ir savivaldybių bei nevalstybinės įstaigos, kurias Nacionalinė kovos su korupcija programa ir kiti norminiai aktai įpareigoja tokias programas parengti. Institucines kovos su korupcija programas taip pat rengia valstybės ar savivaldybių įstaigos, kuriose buvo atlikta korupcijos rizikos analizė ir pasiūlyta parengti tokią programą. 
+1) Nacionalinė korupcijos prevencijos darbotvarkė;
 
 
 
 
-4. Kovos su korupcija programos rengiamos vadovaujantis šiuo Įstatymu, Nacionaline kovos su korupcija programa bei kitais teisės aktais, atsižvelgiant į Specialiųjų tyrimų tarnybos pasiūlymus ir kitą informaciją.
+2) Nacionalinės korupcijos prevencijos darbotvarkės planas;
 
 
 
 
-5. Nacionalinę kovos su korupcija programą Vyriausybės teikimu tvirtina Seimas, o kitas programas – jas parengusios valstybės ar savivaldybės įstaigos ar nevalstybinės įstaigos vadovas. Jis asmeniškai atsako už patvirtintos programos įgyvendinimą.
+3) šakinės korupcijos prevencijos programos;
 
 
 
 
-6. Programų įgyvendinimą koordinuoja ir kontroliuoja įstaigų vadovai ar šių įstaigų struktūriniai padaliniai arba asmenys, įstaigos vadovo įgalioti vykdyti korupcijos prevenciją ir jos kontrolę įstaigoje. Specialiųjų tyrimų tarnyba stebi, kaip įgyvendinami jos pateikti pasiūlymai. 
+4) institucinės korupcijos prevencijos programos;
+
+
+
+
+5) kitos korupcijos prevencijos programos.
+
+
+
+
+
+
+2. Nacionalinė korupcijos prevencijos darbotvarkė ir Nacionalinės korupcijos prevencijos darbotvarkės planas rengiami Lietuvos Respublikos strateginio valdymo įstatymo nustatyta tvarka, jų įgyvendinimą organizuoja ir kontroliuoja Vyriausybė dalyvaujant Specialiųjų tyrimų tarnybai.
+
+
+
+
+3. Šakines (apimančias kelių valstybės ar savivaldybių įstaigų veiklos sritis), institucines ir kitas korupcijos prevencijos programas rengia valstybės ir savivaldybių bei nevalstybinės įstaigos, kurios Nacionalinės korupcijos prevencijos darbotvarkės ir kitų norminių teisės aktų yra įpareigotos tokias programas parengti. Institucines korupcijos prevencijos programas taip pat rengia valstybės ar savivaldybių įstaigos, kuriose buvo atlikta korupcijos rizikos analizė ir pasiūlyta parengti institucinę korupcijos prevencijos programą.
+
+
+
+
+4. Šio straipsnio 1 dalies 3, 4 ir 5 punktuose nurodytos korupcijos prevencijos programos rengiamos vadovaujantis šiuo Įstatymu, Nacionaline korupcijos prevencijos darbotvarke, Nacionalinės korupcijos prevencijos darbotvarkės planu ir kitais teisės aktais, atsižvelgiant į Specialiųjų tyrimų tarnybos pasiūlymus ir kitą informaciją.
+
+
+
+
+5. Šio straipsnio 1 dalies 3, 4 ir 5 punktuose nurodytas korupcijos prevencijos programas  tvirtina jas parengusios valstybės ar savivaldybės įstaigos ar nevalstybinės įstaigos vadovas. Jis asmeniškai atsako už patvirtintos programos įgyvendinimą.
+
+
+
+
+6. Šio straipsnio 1 dalies 3, 4 ir 5 punktuose nurodytų korupcijos prevencijos programų įgyvendinimą koordinuoja ir kontroliuoja įstaigų vadovai ar šių įstaigų struktūriniai padaliniai arba asmenys, įstaigos vadovo įgalioti vykdyti korupcijos prevenciją ir jos kontrolę įstaigoje. Specialiųjų tyrimų tarnyba stebi, kaip įgyvendinami jos pateikti pasiūlymai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3130, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15375
  
-
-
 
 
 
@@ -884,7 +911,10 @@ Vyriausybė, įgyvendindama šį Įstatymą:
 
 
 
-3) dalyvaujant Specialiųjų tyrimų tarnybai, rengia Nacionalinę kovos su korupcija programą ir teikia ją Seimui tvirtinti, taip pat teikia pasiūlymus dėl jos papildymo ar pakeitimo; 
+3) dalyvaujant Specialiųjų tyrimų tarnybai, rengia Nacionalinę korupcijos prevencijos darbotvarkę ir teikia ją Seimui tvirtinti, taip pat rengia ir tvirtina Nacionalinės korupcijos prevencijos darbotvarkės planą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3130, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15375
+ 
 
 
 
@@ -905,7 +935,10 @@ Vyriausybė, įgyvendindama šį Įstatymą:
 Vyriausioji tarnybinės etikos komisija, įgyvendindama šį Įstatymą: 
 
 
-1) analizuoja valstybės tarnautojų etikos problemas ir, siekdama panaikinti prielaidas viešųjų ir privačių interesų konfliktui valstybinėje tarnyboje, teikia pasiūlymus dėl kovos su korupcija programų, teisės aktų priėmimo bei tobulinimo;
+1) analizuoja valstybės tarnautojų etikos problemas ir, siekdama panaikinti viešųjų ir privačių interesų konflikto prielaidas, teikia pasiūlymus dėl korupcijos prevencijos planavimo dokumentų, teisės aktų priėmimo bei tobulinimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3130, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15375
+ 
 
 
 
@@ -936,7 +969,10 @@ Vyriausioji tarnybinės etikos komisija, įgyvendindama šį Įstatymą:
 Specialiųjų tyrimų tarnyba, įgyvendindama šį Įstatymą:
 
 
-1) dalyvauja Vyriausybei rengiant Nacionalinę kovos su korupcija programą, taip pat teikia pasiūlymus dėl jos papildymo ar pakeitimo;
+1) dalyvauja Vyriausybei rengiant Nacionalinę korupcijos prevencijos darbotvarkę ir Nacionalinės korupcijos prevencijos darbotvarkės planą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3130, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15375
+ 
 
 
 
@@ -956,7 +992,9 @@ Specialiųjų tyrimų tarnyba, įgyvendindama šį Įstatymą:
 
 
 
-5) kartu su kitomis valstybės ar savivaldybių įstaigomis įgyvendina Nacionalinę kovos su korupcija programą.
+5) kartu su kitomis valstybės ar savivaldybių įstaigomis įgyvendina Nacionalinę korupcijos prevencijos darbotvarkę ir Nacionalinės korupcijos prevencijos darbotvarkės planą. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3130, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15375
  
 
 
@@ -1142,3 +1180,8 @@ Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 5, 8 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3076, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14351
 Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 9 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3130, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15375
+Lietuvos Respublikos korupcijos prevencijos įstatymo Nr. IX-904 7, 13, 14 ir 15 straipsnių pakeitimo įstatymas
