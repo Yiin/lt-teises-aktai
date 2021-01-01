@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D0429A864011"
 
 # Lietuvos Respublikos melioracijos įstatymas
 
-Suvestinė redakcija nuo 2010-07-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2023-01-02
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 71-1326, i. k. 0931010ISTA000I-323
  
@@ -120,12 +120,18 @@ III SKYRIUS
 Žemės savininkai ar kiti naudotojai turi teisę:
 
 
-1) nemokamai gauti informaciją iš valstybės ir savivaldybių institucijų apie melioracijos programų, finansuojamų valstybės lėšomis, įgyvendinimą, taip pat informaciją ir techninius dokumentus apie jų žemėje esančius melioracijos statinius;
+1) nemokamai gauti informaciją iš valstybės ir savivaldybių institucijų apie melioracijos priemonių, finansuojamų valstybės lėšomis, įgyvendinimą, taip pat informaciją ir techninius dokumentus apie jų žemėje esančius melioracijos statinius; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3131, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15376
+ 
 
 
 
 
-2) dalyvauti valstybės ir savivaldybių institucijose svarstant melioracijos programas ir projektus, susijusius su jų interesais;
+2) dalyvauti valstybės ir savivaldybių institucijose svarstant melioracijos priemones ir projektus, susijusius su jų interesais;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3131, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15376
+ 
 
 
 
@@ -213,7 +219,10 @@ MELIORACIJOS PROJEKTAVIMAS, STATYBA, EKSPERTIZĖ, MELIORUOTOS ŽEMĖS IR MELIORA
 7 straipsnis. Melioracijos organizavimas ir valdymas
 
 
-1. Žemės ūkio ministerija rengia melioracijos programas, nustato melioracijos prioritetus, koordinuoja melioracijos darbų ir melioracijos statinių naudojimo valstybinę priežiūrą, melioruotos žemės ir melioracijos statinių apskaitos tvarkymą bei valstybei nuosavybės teise priklausančius melioracijos statinius patikėjimo teise valdančių institucijų veiklą šioje srityje, kartu su Aplinkos ministerija, kuriai pagal Statybos įstatymą pavesta rengti statybos techninius reglamentus, rengia melioracijos statinių projektavimo, statybos, statinio pripažinimo tinkamu naudoti normatyvinius dokumentus ir juos tvirtina, nustato melioracijos statinių techninių dokumentų pateikimo melioruotos žemės savininkams ar kitiems naudotojams tvarką.
+1. Žemės ūkio ministerija rengia Vyriausybės tvirtinamas nacionalines plėtros programas, kuriose planuojamos melioracijos priemonės, organizuoja, koordinuoja ir kontroliuoja  šių priemonių įgyvendinimą, nustato melioracijos prioritetus, koordinuoja melioracijos darbų ir melioracijos statinių naudojimo valstybinę priežiūrą, melioruotos žemės ir melioracijos statinių apskaitos tvarkymą bei valstybei nuosavybės teise priklausančius melioracijos statinius patikėjimo teise valdančių institucijų veiklą šioje srityje, kartu su Aplinkos ministerija, kuriai pagal Statybos įstatymą pavesta rengti statybos techninius reglamentus, rengia melioracijos statinių projektavimo, statybos, statinio pripažinimo tinkamu naudoti normatyvinius dokumentus ir juos tvirtina, nustato melioracijos statinių techninių dokumentų pateikimo melioruotos žemės savininkams ar kitiems naudotojams tvarką.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3131, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15376
+ 
 
 
 
@@ -247,7 +256,10 @@ Nr. XI-787, 2010-04-27, Žin., 2010, Nr. 54-2650 (2010-05-11), i. k. 1101010ISTA
 
 
 
-2. Melioracijos statinių projektų, įrašytų į valstybės investicijų programą arba finansuojamų iš Europos Sąjungos struktūrinių ar kitų fondų, ekspertizė privaloma.
+2. Melioracijos statinių projektų, kuriais įgyvendinamos nacionalinių plėtros programų priemonės, ekspertizė privaloma.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3131, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15376
+ 
 
 
 
@@ -307,7 +319,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
  
 
 
@@ -345,3 +357,8 @@ Lietuvos Respublikos melioracijos įstatymo pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-787, 2010-04-27, Žin., 2010, Nr. 54-2650 (2010-05-11), i. k. 1101010ISTA00XI-787
 Lietuvos Respublikos melioracijos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3131, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15376
+Lietuvos Respublikos melioracijos įstatymo Nr. I-323 4, 7 ir 8 straipsnių pakeitimo įstatymas
