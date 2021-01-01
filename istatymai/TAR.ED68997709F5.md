@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2020-07-04 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-05-25
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
  
@@ -1983,7 +1983,10 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 
 
-2. Importuojamoms prekėms, nenurodytoms šio straipsnio 3 ir 4 dalyse bei šio Įstatymo V skyriuje, taikomas standartinis PVM tarifas.
+2. Importuojamoms prekėms, nenurodytoms šio straipsnio 3 ir 4 dalyse, šio straipsnio 5 dalies 2 ir 3 punktuose ir šio Įstatymo V skyriuje, taikomas standartinis PVM tarifas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
+ 
 
 
 
@@ -2021,7 +2024,10 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 4. Lengvatinis 5 procentų PVM tarifas taikomas:
 
 
-1) vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka, taip pat nekompensuojamiesiems receptiniams vaistams; 
+1) vaistams ir medicinos pagalbos priemonėms, kai šių prekių įsigijimo išlaidos visiškai ar iš dalies kompensuojamos Lietuvos Respublikos sveikatos draudimo įstatymo nustatyta tvarka, taip pat nekompensuojamiesiems receptiniams vaistams, išskyrus šio straipsnio 5 dalyje nustatytus atvejus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
+ 
 
 
 
@@ -2031,31 +2037,35 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 
 
-3) laikraščiams, žurnalams ir kitiems periodiniams leidiniams, išskyrus erotinio ir (ar) smurtinio pobūdžio arba profesinės etikos nesilaikančius leidinius, kuriuos tokiais pripažino teisės aktų įgaliota institucija, bei spausdintą produkciją, kurioje mokama reklama sudaro daugiau kaip 4/5 viso leidinio ploto.
+3) spausdintiems ir (arba) elektroniniams laikraščiams, žurnalams ir kitiems periodiniams leidiniams (net jei jie skelbiami elektroniniais ryšiais), įskaitant viešosios informacijos skleidėjų redakcijų periodiškai atnaujinamus elektroninius informacinius dokumentus ir (arba) jų rinkinius, kurių turinys iš esmės būtų sudaromas analogiškai kaip spausdintų periodinių leidinių turinys (neatsižvelgiant į tai, ar yra leidžiamos šių elektroninių dokumentų ir (arba) jų rinkinių spausdintinės versijos, ar ne). Šio punkto nuostatos netaikomos techninėms, bibliografinėms ir panašaus pobūdžio duomenų bazėms, erotinio ir (ar) smurtinio pobūdžio arba profesinės etikos nesilaikantiems leidiniams, kuriuos tokiais pripažino teisės aktų įgaliota institucija, ir leidiniams, kuriuose mokama reklama sudaro daugiau kaip 4/5 viso leidinio arba kurių visą ar didžiąją dalį sudaro muzikos ar vaizdo turinys. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
+ 
 
 
 
 
 
 
-5. 0 procentų PVM tarifas taikomas šio Įstatymo VI skyriuje nurodytais prekių tiekimo ir paslaugų teikimo bei prekių įsigijimo iš kitos valstybės narės atvejais.
-Straipsnio pakeitimai:
-Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
-Nr. X-225, 2005-05-26, Žin., 2005, Nr. 72-2590 (2005-06-09)
-Nr. X-487, 2006-01-12, Žin., 2006, Nr. 6-193 (2006-01-17)
-Nr. X-801, 2006-07-19, Žin., 2006, Nr. 82-3264 (2006-07-27)
-Nr. X-1083, 2007-04-12, Žin., 2007, Nr. 46-1717 (2007-04-26)
-Nr. X-1443, 2008-02-01, Žin., 2008, Nr. 18-632 (2008-02-12)
-Nr. XI-77, 2008-12-18, Žin., 2008, Nr. 149-6004 (2008-12-30)
-Nr. XI-114, 2008-12-23, Žin., 2008, Nr. 149-6034 (2008-12-30)
-Nr. XI-317, 2009-06-23, Žin., 2009, Nr. 77-3173 (2009-06-30)
-Nr. XI-397, 2009-07-23, Žin., 2009, Nr. 93-3988 (2009-08-04)
-Nr. XI-1002, 2010-07-02, Žin., 2010, Nr. 86-4541 (2010-07-20)
-Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
-Nr. XI-1817, 2011-12-20, Žin., 2011, Nr. 161-7616 (2011-12-29)
-Nr. XI-2188, 2012-06-29, Žin., 2012, Nr. 79-4090 (2012-07-05)
-Nr. XII-78, 2012-12-20, Žin., 2012, Nr. 153-7828 (2012-12-29)
-Nr. XII-524, 2013-09-19, Žin., 2013, Nr. 101-4978 (2013-09-26)
+5. 0 procentų PVM tarifas taikomas:
+
+
+1) šio Įstatymo VI skyriuje nurodytais prekių tiekimo ir paslaugų teikimo bei prekių įsigijimo iš kitos valstybės narės atvejais;
+
+
+
+
+2) iki 2022 m. gruodžio 31 d. tiekiamoms vakcinoms nuo COVID-19 ligos (koronaviruso infekcijos);
+
+
+
+
+3) iki 2022 m. gruodžio 31 d. tiekiamoms in vitro diagnostikos medicinos priemonėms (prietaisams), skirtoms (skirtiems) COVID-19 ligos (koronaviruso infekcijos) diagnostikai. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
+ 
 
 
 Straipsnio pakeitimai:
@@ -2903,7 +2913,9 @@ Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
 
 
 
-4. Importo PVM neapmokestinamos prekės, atsiunčiamos nedidelės vertės nekomercinio pobūdžio siuntmenose (dokumentų siuntose, pašto siuntose ar pašto siuntiniuose). Siuntmena laikoma nedidelės vertės, jeigu bendra jos vertė neviršija 45 eurų. Siuntmena laikoma nekomercinio pobūdžio, jeigu tenkinamos visos šios sąlygos:
+4. Importo PVM neapmokestinamos prekės, fizinio asmens atsiunčiamos nedidelės vertės nekomercinio pobūdžio siuntmenose (dokumentų siuntose, pašto siuntose ar pašto siuntiniuose). Siuntmena laikoma nedidelės vertės, jeigu bendra jos vertė neviršija 45 eurų. Siuntmena laikoma nekomercinio pobūdžio, jeigu tenkinamos visos šios sąlygos: 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3346, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23933
 
 
 1) siuntmenos gavėjas – fizinis asmuo;
@@ -4474,7 +4486,10 @@ Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
 
 
 
-7. Apmokestinamieji asmenys privalo užtikrinti, kad jų (ar jų vardu pirkėjų arba trečiosios šalies) išrašytos PVM sąskaitos faktūros, taip pat jų gautos PVM sąskaitos faktūros būtų saugomos šiame straipsnyje nustatyta tvarka. PVM sąskaitos faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos faktūros privalo būti saugomos 10 metų nuo jų išrašymo. Apmokestinamieji asmenys privalo saugoti dokumentus tokios formos (rašytinės ar elektroninės), kokios jie buvo išsiųsti ar pateikti, ir užtikrinti, kad per visą dokumentų saugojimo laikotarpį būtų išlaikytas PVM sąskaitų faktūrų kilmės autentiškumas ir turinio vientisumas, taip pat kad dokumentai išliktų įskaitomi, tačiau tais atvejais, kai tiekiamos prekės ar teikiamos paslaugos, nurodytos šio Įstatymo 14 straipsnio 6 dalyje, apmokestinamųjų asmenų išsiųstos rašytinės formos PVM sąskaitos faktūros gali būti saugomos tik elektronine forma. Jeigu PVM sąskaitos faktūros yra elektroninės formos, kartu naudojant elektronines priemones turi būti saugomi ir duomenys, užtikrinantys šių PVM sąskaitų faktūrų kilmės autentiškumą ir turinio vientisumą. Lietuvos Respublikos apmokestinamieji asmenys privalo šiuos dokumentus saugoti šalies teritorijoje, jeigu dokumentai nėra saugomi naudojant elektronines priemones. Jeigu Lietuvos Respublikos apmokestinamieji asmenys saugo dokumentus naudodami elektronines priemones ir užtikrina visišką prieigą prie juose esančių duomenų (t. y. galimybę gauti šiuos dokumentus elektroninėmis priemonėmis, juos skaityti ir kitaip naudoti Mokesčių administravimo įstatymo nustatytais pagrindais), dokumentai gali būti saugomi ir ne šalies teritorijoje. Lietuvos Respublikos apmokestinamieji asmenys privalo informuoti vietos mokesčio administratorių apie dokumentų saugojimo vietą, jeigu dokumentai saugomi ne šalies teritorijoje. PVM sąskaitos faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos faktūros ir kiti su šiais dokumentais susiję duomenys bet kokiu atveju negali būti saugomi teritorijose, kuriose netaikoma Direktyva 2010/24/ES ir Reglamentas (ES) Nr. 904/2010 ar jiems iš esmės savo taikymo sritimi tolygūs savitarpio pagalbos taikymo dokumentai. Apmokestinamieji asmenys, kurie šalies teritorijoje saugo savo (ar jų vardu pirkėjų arba trečiosios šalies) išrašytas PVM sąskaitas faktūras, taip pat gautas PVM sąskaitas faktūras, naudodami elektronines priemones, kurios užtikrina visišką prieigą prie jose esančių duomenų, privalo sudaryti valstybių narių, kuriose šie apmokestinamieji asmenys yra įsikūrę arba kuriose tiekiamos prekės ar teikiamos paslaugos, kompetentingoms institucijoms galimybę gauti šiuos dokumentus elektroninėmis priemonėmis, juos skaityti ir kitaip naudoti priežiūros tikslais.
+7. Apmokestinamieji asmenys privalo užtikrinti, kad jų (ar jų vardu pirkėjų arba trečiosios šalies) išrašytos PVM sąskaitos faktūros, taip pat jų gautos PVM sąskaitos faktūros būtų saugomos šiame straipsnyje nustatyta tvarka. PVM sąskaitos faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos faktūros privalo būti saugomos 10 metų nuo jų išrašymo. Apmokestinamieji asmenys privalo užtikrinti, kad per visą dokumentų saugojimo laikotarpį būtų išlaikytas PVM sąskaitų faktūrų kilmės autentiškumas ir turinio vientisumas, taip pat kad dokumentai išliktų įskaitomi. Jeigu PVM sąskaitos faktūros yra elektroninės formos ir (arba) saugomos elektronine forma, kartu naudojant elektronines priemones turi būti saugomi ir duomenys, užtikrinantys šių PVM sąskaitų faktūrų kilmės autentiškumą ir turinio vientisumą. Lietuvos Respublikos apmokestinamieji asmenys privalo šiuos dokumentus saugoti šalies teritorijoje, jeigu dokumentai nėra saugomi naudojant elektronines priemones. Jeigu Lietuvos Respublikos apmokestinamieji asmenys saugo dokumentus naudodami elektronines priemones ir užtikrina visišką prieigą prie juose esančių duomenų (t. y. galimybę gauti šiuos dokumentus elektroninėmis priemonėmis, juos skaityti ir kitaip naudoti Mokesčių administravimo įstatymo nustatytais pagrindais), dokumentai gali būti saugomi ir ne šalies teritorijoje. Lietuvos Respublikos apmokestinamieji asmenys privalo informuoti vietos mokesčio administratorių apie dokumentų saugojimo vietą, jeigu dokumentai saugomi ne šalies teritorijoje. PVM sąskaitos faktūros, kuriomis įformintas prekių tiekimas ar paslaugų teikimas šalies teritorijoje, taip pat Lietuvos Respublikoje įsikūrusių apmokestinamųjų asmenų gautos PVM sąskaitos faktūros ir kiti su šiais dokumentais susiję duomenys bet kokiu atveju negali būti saugomi teritorijose, kuriose netaikoma Direktyva 2010/24/ES ir Reglamentas (ES) Nr. 904/2010 ar jiems iš esmės savo taikymo sritimi tolygūs savitarpio pagalbos taikymo dokumentai. Apmokestinamieji asmenys, kurie šalies teritorijoje saugo savo (ar jų vardu pirkėjų arba trečiosios šalies) išrašytas PVM sąskaitas faktūras, taip pat gautas PVM sąskaitas faktūras, naudodami elektronines priemones, kurios užtikrina visišką prieigą prie jose esančių duomenų, privalo sudaryti valstybių narių, kuriose šie apmokestinamieji asmenys yra įsikūrę arba kuriose tiekiamos prekės ar teikiamos paslaugos, kompetentingoms institucijoms galimybę gauti šiuos dokumentus elektroninėmis priemonėmis, juos skaityti ir kitaip naudoti priežiūros tikslais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3346, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23933
+ 
 
 
 
@@ -5198,7 +5213,6 @@ Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 
 
 7. Šio straipsnio nuostatos netaikomos, jeigu prekių tiekėjas (paslaugų teikėjas) ir prekių (paslaugų) pirkėjas yra susiję asmenys arba jais tapo kalendoriniais metais, einančiais po tų kalendorinių metų, kuriais skola (įskaitant pardavimo PVM) buvo pripažinta beviltiška ir jai priskiriama pardavimo PVM suma buvo sumažinta mokėtina į biudžetą PVM suma.
-Pastaba. 891 straipsnio nuostatos taikomos pardavimo PVM sumoms, apskaičiuotoms ir deklaruotoms Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo nustatyta tvarka nuo 2012 m. sausio 1 d.
 
 
 Įstatymas papildytas straipsniu 
@@ -5252,74 +5266,23 @@ Nr. X-1251, 2007-07-03, Žin., 2007, Nr. 80-3222 (2007-07-19)
 91 straipsnis. Grąžintinos iš biudžeto PVM sumos įskaitymas ir grąžinimas
 
 
-1. PVM permoka ir už atitinkamą mokestinį laikotarpį susidaręs PVM skirtumas įskaitomi (grąžinami) Mokesčių administravimo įstatymo nustatyta tvarka ir terminais, atsižvelgus į šiame straipsnyje nurodytas išimtis ir apribojimus. 
+1. PVM permoka ir už atitinkamą mokestinį laikotarpį susidaręs PVM skirtumas įskaitomi (grąžinami) Mokesčių administravimo įstatymo nustatyta tvarka ir terminais, atsižvelgus į šiame straipsnyje nurodytas išimtis ir apribojimus.
 
 
 
 
-2. Už atitinkamą mokestinį laikotarpį susidariusi ir grąžinama PVM skirtumo suma negali būti didesnė už:
-
-
-1) sąlyginę 21 procento PVM sumą, apskaičiuotą nuo to mokestinio laikotarpio PVM deklaracijoje deklaruotos apmokestinamosios vertės prekių ir paslaugų, kurioms pritaikytas 0 procentų PVM tarifas, ir
+2. Mokesčių administravimo įstatymo 401 straipsnyje nustatytų minimalių patikimo mokesčių mokėtojo kriterijų neatitinkantiems PVM mokėtojams pagal šio straipsnio 1 dalies nuostatas neįskaityto (negrąžinto) už mokestinį laikotarpį susidariusio PVM skirtumo suma gali būti grąžinta ne anksčiau negu praėjus 6 mėnesiams nuo permokos susidarymo.
 
 
 
 
-2) sąlyginę 21 procento PVM sumą, apskaičiuotą nuo to mokestinio laikotarpio PVM deklaracijoje deklaruotos apmokestinamosios vertės prekių ir paslaugų, nurodytų šio Įstatymo 58 straipsnio 1 dalies 2 punkte, ir
+3. Šio straipsnio 2 dalyje nustatyti apribojimai netaikomi grąžinant metinėje PVM deklaracijoje nurodytą grąžintiną PVM sumą, taip pat jeigu PVM mokėtojas likviduojamas arba apmokestinamasis asmuo išregistruojamas iš PVM mokėtojų.
 
 
 
 
-3) sąlyginę 21 procento PVM sumą, apskaičiuotą nuo to mokestinio laikotarpio PVM deklaracijoje deklaruotos apmokestinamosios vertės prekių ir paslaugų, nurodytų šio Įstatymo 96 straipsnio 1 dalies 3 ir 4 punktuose (išskyrus atvejus, kai prekių tiekėjui (paslaugų teikėjui) teisme pradėta bankroto procedūra), ir 
-Papildyta straipsnio punktu:
-Nr. XII-2105, 2015-12-01, paskelbta TAR 2015-12-09, i. k. 2015-19491
- 
-
-
-
-
-4) PVM sumą, per mokestinį laikotarpį atskaitytą už įsigytą ilgalaikį turtą (išskyrus į PVM atskaitą įtrauktą importo PVM sumą, įskaitytą vadovaujantis šio Įstatymo 94 straipsnio nuostatomis, taip pat pirkimo PVM sumą už pasigamintą ilgalaikį materialųjį turtą), ir
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2105, 2015-12-01, paskelbta TAR 2015-12-09, i. k. 2015-19491
- 
-
-
-
-
-5) PVM sumą, per mokestinį laikotarpį atskaitytą už įsigytas ir (arba) importuotas medžiagas, žaliavas ir (arba) paslaugas, skirtas ilgalaikiam turtui pasigaminti ir (arba) nebaigtai statybai (išskyrus į PVM atskaitą įtrauktą importo PVM sumą, įskaitytą vadovaujantis šio Įstatymo 94 straipsnio nuostatomis), ir
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2105, 2015-12-01, paskelbta TAR 2015-12-09, i. k. 2015-19491
- 
-
-
-
-
-6) PVM sumą, per mokestinį laikotarpį atskaitytą už įsigytus ir (arba) importuotus degalus, trąšas, sėklas, pašarus, priemones nuo kenkėjų ir piktžolių (išskyrus į PVM atskaitą įtrauktą importo PVM sumą, įskaitytą vadovaujantis šio Įstatymo 94 straipsnio nuostatomis). Šis punktas taikomas tik PVM mokėtojams, kurių pajamos iš žemės ūkio produkcijos tiekimo ir (arba) paslaugų teikimo praėjusiais kalendoriniais metais sudarė ne mažiau kaip 50 procentų visų pajamų.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2105, 2015-12-01, paskelbta TAR 2015-12-09, i. k. 2015-19491
- 
-
-
-
-
-
-
-3. Pagal šio straipsnio 1 ir 2 dalių nuostatas neįskaityta ir negrąžinta iki kalendorinio pusmečio pabaigos susidariusio PVM skirtumo suma PVM mokėtojui gali būti grąžinta tam kalendoriniam pusmečiui pasibaigus, tačiau tik tuo atveju, jeigu asmuo buvo įregistruotas PVM mokėtoju ne vėliau kaip prieš 3 mėnesius iki to kalendorinio pusmečio pabaigos. 
-
-
-
-
-4. Šio straipsnio 2 dalyje nustatyti apribojimai netaikomi PVM mokėtojams, atitinkantiems centrinio mokesčių administratoriaus nustatytus reikalavimus.
-
-
-
-
-5. Šio straipsnio 2 ir 3 dalyse nustatyti apribojimai netaikomi grąžinant metinėje PVM deklaracijoje nurodytą grąžintiną PVM sumą, taip pat jeigu PVM mokėtojas likviduojamas arba apmokestinamasis asmuo išregistruojamas iš PVM mokėtojų.
-
-
-
-
-6. PVM skirtumo grąžinimas ar įskaitymas sustabdomas, kai įgaliotos tirti nusikaltimus institucijos mokesčio administratoriui pateikia duomenis apie pradėtą PVM mokėtojo veiklos tyrimą dėl nusikalstamos veikos, jeigu tai yra susiję ar gali būti susiję su netinkamu PVM mokėtojo prievolių vykdymu (įskaitant neteisėtą PVM skirtumo grąžinimą ir įskaitymą). Jeigu atsisakyta pradėti ikiteisminį tyrimą, ikiteisminis tyrimas arba iškelta baudžiamoji byla nutraukti ar baudžiamojoje byloje įsiteisėja išteisinamasis nuosprendis, PVM skirtumas grąžinamas (įskaitomas) šio ir Mokesčių administravimo įstatymų nustatyta tvarka. Įgaliotos tirti nusikaltimus institucijos mokesčio administratoriui privalo pateikti duomenis apie pradėtą PVM mokėtojo veiklos tyrimą dėl nusikalstamos veikos, jeigu tai susiję ar gali būti susiję su netinkamu PVM mokėtojo prievolių vykdymu (įskaitant neteisėtą PVM skirtumo grąžinimą bei įskaitymą).
+4. PVM skirtumo grąžinimas ar įskaitymas sustabdomas, kai įgaliotos tirti nusikaltimus institucijos mokesčio administratoriui pateikia duomenis apie pradėtą PVM mokėtojo veiklos tyrimą dėl nusikalstamos veikos, jeigu tai yra susiję ar gali būti susiję su netinkamu PVM mokėtojo prievolių vykdymu (įskaitant neteisėtą PVM skirtumo grąžinimą ir įskaitymą). Jeigu atsisakyta pradėti ikiteisminį tyrimą, ikiteisminis tyrimas arba iškelta baudžiamoji byla nutraukti ar baudžiamojoje byloje įsiteisėja išteisinamasis nuosprendis, PVM skirtumas grąžinamas (įskaitomas) šio ir Mokesčių administravimo įstatymų nustatyta tvarka. Įgaliotos tirti nusikaltimus institucijos mokesčio administratoriui privalo pateikti duomenis apie pradėtą PVM mokėtojo veiklos tyrimą dėl nusikalstamos veikos, jeigu tai susiję ar gali būti susiję su netinkamu PVM mokėtojo prievolių vykdymu (įskaitant neteisėtą PVM skirtumo grąžinimą bei įskaitymą). 
+TAR pastaba.  91 straipsnio nuostatos taikomos grąžinant pridėtinės vertės mokesčio skirtumą, susidariusį nuo 2021 m. sausio 1 d.
 
 
 Straipsnio pakeitimai:
@@ -5330,6 +5293,8 @@ Nr. XI-114, 2008-12-23, Žin., 2008, Nr. 149-6034 (2008-12-30)
 Nr. XI-386, 2009-07-22, Žin., 2009, Nr. 93-3978 (2009-08-04)
 Nr. XI-518, 2009-12-03, Žin., 2009, Nr. 151-6772 (2009-12-22)
 Nr. XII-78, 2012-12-20, Žin., 2012, Nr. 153-7828 (2012-12-29)
+Straipsnio pakeitimai:
+Nr. XIII-3169, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15004
  
 
 
@@ -5386,7 +5351,10 @@ Nr. XII-1122, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13630
 
 
 
-8. Kai naują transporto priemonę iš kitos valstybės narės įsigyja fizinis asmuo, kuris nėra ir pagal šį Įstatymą neprivalo būti PVM mokėtoju, jis privalo ne vėliau kaip iki kito mėnesio, einančio po naujos transporto priemonės įsigijimo, 25 dienos pateikti centrinio mokesčio administratoriaus nustatytus dokumentus, susijusius su šiuo sandoriu. Šių dokumentų pateikimo tvarką nustato centrinis mokesčio administratorius. Mokestį už įsigytą iš kitos valstybės narės naują transporto priemonę apskaičiuoja mokesčio administratorius. Mokestis turi būti sumokėtas ne vėliau kaip per 5 darbo dienas nuo dienos, kurią fizinis asmuo buvo informuotas apie apskaičiuotą mokesčio sumą.
+8. Kai naują transporto priemonę iš kitos valstybės narės įsigyja fizinis asmuo, kuris nėra ir pagal šį Įstatymą neprivalo būti PVM mokėtoju, jis privalo ne vėliau kaip iki kito mėnesio, einančio po naujos transporto priemonės įsigijimo, 25 dienos pateikti centrinio mokesčio administratoriaus nustatytus dokumentus, susijusius su šiuo sandoriu, išskyrus dokumentus, kuriuose yra duomenų, kuriuos centrinis mokesčio administratorius gali gauti iš valstybės registrų ar kitų valstybės informacinių sistemų. Dokumentų pateikimo tvarką nustato centrinis mokesčio administratorius. Mokestį už įsigytą iš kitos valstybės narės naują transporto priemonę apskaičiuoja mokesčio administratorius. Mokestis turi būti sumokėtas ne vėliau kaip per 5 darbo dienas nuo dienos, kurią fizinis asmuo buvo informuotas apie apskaičiuotą mokesčio sumą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3169, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15004
+ 
 
 
 
@@ -7137,135 +7105,49 @@ Nr. XII-78, 2012-12-20, Žin., 2012, Nr. 153-7828 (2012-12-29)
 
 
 
- 
 Lietuvos Respublikos 
-pridėtinės vertės mokesčio
-įstatymo
+pridėtinės vertės mokesčio įstatymo 
 2 priedas
  
-Europos Sąjungos teisės aktai, su kuriais suderintos  Pridėtinės vertės mokesčio įstatymo nuostatos
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. Neteko galios nuo 2011-01-01.
+1. 1986 m. lapkričio 17 d. Tryliktoji Tarybos direktyva 86/560/EEB dėl valstybių narių apyvartos mokesčių įstatymų suderinimo – pridėtinės vertės mokesčio grąžinimo apmokestinamiesiems asmenims, kurie nėra įsisteigę Bendrijos teritorijoje, tvarka.
 
 
 
 
-2. Neteko galios nuo 2010-01-01.
+2. 2006 m. spalio 5 d. Tarybos direktyva 2006/79/EB dėl nekomercinio pobūdžio smulkių prekių siuntų importo iš trečiųjų šalių atleidimo nuo mokesčių (kodifikuota redakcija). 
 
 
 
 
-3. Neteko galios nuo 2011-01-01.
+3. 2006 m. lapkričio 28 d. Tarybos direktyva 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 7 d. Tarybos direktyva (ES) 2020/2020.
 
 
 
 
-4. 1986 m. lapkričio 17 d. Tryliktoji Tarybos direktyva 86/560/EEB dėl valstybių narių apyvartos mokesčių įstatymų suderinimo – pridėtinės vertės mokesčio grąžinimo apmokestinamiesiems asmenims, kurie nėra įsisteigę Bendrijos teritorijoje, tvarka (OL 2004 m. specialusis leidimas, 9 skyrius, 1 tomas, p. 129).
+4. 2007 m. gruodžio 20 d. Tarybos direktyva 2007/74/EB dėl keliaujančių iš trečiųjų šalių asmenų importuojamų prekių neapmokestinimo pridėtinės vertės mokesčiu ir akcizais.
 
 
 
 
-5. 2006 m. liepos 24 d. Tarybos direktyva 2006/69/EB iš dalies keičianti Direktyvos 77/388/EEB nuostatas, susijusias su tam tikromis priemonėmis, kuriomis siekiama supaprastinti apmokestinimo pridėtinės vertės mokesčiu tvarką ir padėti užkirsti kelią mokesčių slėpimui ar vengimui, bei panaikinanti tam tikrus sprendimus dėl leidžiančių nukrypti nuostatų (OL 2006 L 221, p. 9).
+5. 2008 m. vasario 12 d. Tarybos direktyva 2008/9/EB, nustatanti Direktyvoje 2006/112/EB numatyto pridėtinės vertės mokesčio grąžinimo apmokestinamiesiems asmenims, kurie nėra įsisteigę PVM grąžinančioje valstybėje narėje, o yra įsisteigę kitoje valstybėje narėje, išsamias taisykles. 
 
 
 
 
-6. 2006 m. spalio 5 d. Tarybos direktyva 2006/79/EB dėl nekomercinio pobūdžio smulkių prekių siuntų importo iš trečiųjų šalių atleidimo nuo mokesčių (kodifikuota redakcija) (OL 2006 L 286, p. 15).
+6. 2009 m. spalio 19 d. Tarybos direktyva 2009/132/EB dėl Direktyvos 2006/112/EB 143 straipsnio b ir c punktų taikymo, neapmokestinant galutinio tam tikrų prekių importo pridėtinės vertės mokesčiu.
 
 
 
 
-7. 2006 m. lapkričio 28 d. Tarybos direktyva 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos (OL 2006 L 347, p. 1). 
+7. 2011 m. gegužės 30 d. Tarybos įgyvendinimo sprendimas 2011/335/ES, kuriuo leidžiama Lietuvos Respublikai taikyti priemonę, kuria nukrypstama nuo Tarybos direktyvos 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos 287 straipsnio.
 
 
-
-
-8. 2006 m. gruodžio 19 d. Tarybos direktyva 2006/138/EB, iš dalies keičianti Tarybos direktyvos 2006/112/EB dėl bendros pridėtinės vertės mokesčio sistemos nuostatas dėl pridėtinės vertės mokesčio priemonių, taikomų radijo ir televizijos transliacijų paslaugoms ir tam tikroms elektroninėmis priemonėmis teikiamoms paslaugoms, taikymo laikotarpio (OL 2006 L 384, p. 92).
-
-
-
-
-9. 2007 m. gruodžio 20 d. Tarybos direktyva 2007/74/EB dėl keliaujančių iš trečiųjų šalių asmenų importuojamų prekių neapmokestinimo pridėtinės vertės mokesčiu ir akcizais (OL 2007 L 346, p. 6).
-
-
-
-
-10. 2008 m. vasario 12 d. Tarybos direktyva 2008/8/EB, iš dalies keičianti Direktyvos 2006/112/EB nuostatas, susijusias su paslaugų teikimo vieta (OL 2008 L 44, p. 11).
-
-
-
-
-11. 2008 m. vasario 12 d. Tarybos direktyva 2008/9/EB, nustatanti Direktyvoje 2006/112/EB numatyto pridėtinės vertės mokesčio grąžinimo apmokestinamiesiems asmenims, kurie nėra įsisteigę PVM grąžinančioje valstybėje narėje, o yra įsisteigę kitoje valstybėje narėje, išsamias taisykles (OL 2008 L 44, p. 23).
-
-
-
-
-12. 2008 m. gruodžio 16 d. Tarybos direktyva 2008/117/EB, iš dalies keičianti Direktyvą 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos, siekiant kovoti su mokestiniu sukčiavimu, susijusiu su sandoriais Bendrijos viduje (OL 2009 L 14, p. 7).
-
-
-
-
-13. 2009 m. gegužės 5 d. Tarybos direktyva 2009/47/EB, iš dalies keičianti Direktyvos 2006/112/EB nuostatas, susijusias su lengvatiniais pridėtinės vertės mokesčio tarifais (OL 2009 L 116, p. 18).
-
-
-
-
-14. 2009 m. birželio 25 d. Tarybos direktyva 2009/69/EB, iš dalies keičianti Direktyvos 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos nuostatas, susijusias su mokesčių slėpimu importo srityje (OL 2009 L 175, p. 12).
-
-
-
-
-15. 2009 m. spalio 19 d. Tarybos direktyva 2009/132/EB dėl Direktyvos 2006/112/EB 143 straipsnio b ir c punktų taikymo, neapmokestinant galutinio tam tikrų prekių importo pridėtinės vertės mokesčiu (OL 2009 L 292, p. 5).
-
-
-
-
-16. 2009 m. gruodžio 22 d. Tarybos direktyva 2009/162/ES, iš dalies keičianti Direktyvos 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos įvairias nuostatas (OL 2010 L 10, p. 14).
-
-
-
-
-17. 2011 m. gegužės 30 d. Tarybos įgyvendinimo sprendimas 2011/335/ES, kuriuo leidžiama Lietuvos Respublikai taikyti priemonę, kuria nukrypstama nuo Tarybos direktyvos 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos 287 straipsnio (OL 2011 L 150, p. 6).
-
-
-
-
-18. 2010 m. liepos 13 d. Tarybos direktyva 2010/45/ES, kuria iš dalies keičiamos Direktyvos 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos nuostatos dėl sąskaitų faktūrų išrašymo taisyklių (OL 2010 L 189, p. 1).
-
-
-
-
-19. 2016 m. birželio 27 d. Tarybos direktyva (ES) 2016/1065, kuria iš dalies keičiamos Direktyvos 2006/112/EB nuostatos dėl kuponų apmokestinimo tvarkos (OL 2016 L 177, p. 9). 
-Papildyta punktu:
-Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
- 
-
-
-
-
-20. 2017 m. gruodžio 5 d. Tarybos direktyva (ES) 2017/2455, kuria iš dalies keičiamos Direktyvos 2006/112/EB ir Direktyvos 2009/132/EB nuostatos, susijusios su tam tikromis pridėtinės vertės mokesčio prievolėmis, taikomomis paslaugų teikimui ir nuotolinei prekybai prekėmis (OL 2017 L 348, p. 7). 
-Papildyta punktu:
-Nr. XIII-1681, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20183
- 
-
-
-
-
-21. 2018 m. gruodžio 4 d. Tarybos direktyva (ES) 2018/1910, kuria dėl tam tikrų pridėtinės vertės mokesčio sistemos taisyklių suderinimo ir supaprastinimo, susijusio su valstybių narių tarpusavio prekybos apmokestinimu, iš dalies keičiama Direktyva 2006/112/EB (OL 2018 L 311, p. 3). 
-Papildyta punktu:
-Nr. XIII-2487, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17361
- 
-
-
-Įstatymas papildytas priedu:
-Nr. IX-1960, 2004-01-15, Žin., 2004, Nr. 17-505 (2004-01-31)
 Priedo pakeitimai:
-Nr. X-1322, 2007-11-13, Žin., 2007, Nr. 125-5091 (2007-12-01)
-Nr. XI-518, 2009-12-03, Žin., 2009, Nr. 151-6772 (2009-12-22)
-Nr. XI-1187, 2010-11-30, Žin., 2010, Nr. 148-7562 (2010-12-18)
- 
+Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
  
 
 
@@ -7622,3 +7504,13 @@ Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 4, 4
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3169, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15004
 Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 75, 91, 92 ir 106 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3346, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23933
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 2, 9-2, 12, 13, 40, 57, 64, 71, 71-1, 75, 78, 78-1, 79, 84, 85, 90, 116, 117, 120 straipsnių, XII skyriaus penktojo skirsnio, 2 priedo pakeitimo ir Įstatymo papildymo 4-3, 9-3, 13-2, 14-1, 34-1, 53-1 straipsniais ir XII skyriaus šeštuoju, septintuoju, aštuntuoju skirsniais įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
+Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo Nr. IX-751 19 straipsnio ir 2 priedo pakeitimo įstatymas
