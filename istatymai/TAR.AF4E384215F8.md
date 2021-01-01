@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF4E384215F8"
 
 # Lietuvos Respublikos vadovybės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2020-11-21 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-07-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 112-4982; Žin. 2002, Nr.113-0, i. k. 1021010ISTA0IX-1183
  
@@ -34,13 +34,20 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-Šis įstatymas nustato saugomų asmenų ir saugomų objektų saugumo užtikrinimo sąlygas ir pagrindus, saugomo asmens statuso įgijimą, saugomų asmenų teises ir pareigas, Lietuvos Respublikos vadovybės apsaugą užtikrinančios valstybės įstaigos – Lietuvos Respublikos vadovybės apsaugos tarnybos – veiklos organizavimo teisinius pagrindus, tikslus ir funkcijas, finansavimą, taip pat asmenų priėmimo į tarnybą Vadovybės apsaugos tarnyboje ir atleidimo iš tarnybos tvarką, Vadovybės apsaugos tarnybos pareigūnų statusą, darbo apmokėjimą, skatinimą, nuobaudas ir atsakomybę, socialines garantijas, kitus tarnybos Vadovybės apsaugos tarnyboje ypatumus ir prievartos naudojimo sąlygas.
+1. Šis įstatymas nustato saugomų asmenų ir saugomų objektų saugumo užtikrinimo sąlygas ir pagrindus, saugomo asmens statuso įgijimą, saugomų asmenų teises ir pareigas, Lietuvos Respublikos vadovybės apsaugą užtikrinančios valstybės įstaigos – Lietuvos Respublikos vadovybės apsaugos tarnybos – veiklos organizavimo teisinius pagrindus, tikslus ir funkcijas, finansavimą, taip pat asmenų priėmimo į tarnybą Vadovybės apsaugos tarnyboje ir atleidimo iš tarnybos tvarką, Vadovybės apsaugos tarnybos pareigūnų statusą, darbo apmokėjimą, skatinimą, nuobaudas ir atsakomybę, socialines garantijas, kitus tarnybos Vadovybės apsaugos tarnyboje ypatumus ir prievartos naudojimo sąlygas. 
+
+
+
+
+2. Lietuvos Respublikos karo policijos įstatyme nustatytais atvejais Karo policijai vykdant saugomų asmenų apsaugą, mutatis mutandis taikomi šio įstatymo 7, 8 straipsniai, 30 straipsnio 6 dalis ir 32 straipsnis. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3439, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24616
  
-
-
 
 
 
@@ -617,7 +624,6 @@ Vadovybės apsaugos tarnyba, įgyvendindama jai pavestus uždavinius, atlieka š
 
 
 11) saugo atstovybių patalpas arba pastatus ir pastatų teritoriją bei jose esantį turtą; 
-TAR pastaba. 13 straipsnio 11 punktas įsigalioja 2021 m. sausio 1 d.
 
 
 
@@ -2651,15 +2657,22 @@ Pareigūnui, kuris atlikdamas tarnybines pareigas viršijo tarnybinės rizikos r
 54 straipsnis. Išeitinė išmoka atleidžiamiems iš tarnybos pareigūnams
 
 
-1. Pareigūnui, atleidžiamam iš tarnybos šio įstatymo 60 straipsnio 13, 14, 15 ir 17 punktuose nustatytais pagrindais, išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Ši išmoka pradedama mokėti praėjus vienam mėnesiui nuo pareigūno atleidimo dienos ir mokama kas mėnesį lygiomis dalimis. Išeitinės išmokos mokėjimas nutraukiamas, jeigu buvęs pareigūnas grąžinamas į tarnybą Vadovybės apsaugos tarnyboje.
+1. Pareigūnui, atleidžiamam iš tarnybos šio įstatymo 60 straipsnio 13, 14, 15 ir 17 punktuose nustatytais pagrindais, išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Ši išmoka pradedama mokėti praėjus vienam mėnesiui nuo pareigūno atleidimo dienos ir mokama kas mėnesį lygiomis dalimis, išskyrus šio straipsnio 3 dalyje nustatytą atvejį. Išeitinės išmokos mokėjimas nutraukiamas, jeigu buvęs pareigūnas grąžinamas į tarnybą Vadovybės apsaugos tarnyboje.
 
 
 
 
 2. Šio straipsnio 1 dalyje nustatyto dydžio išmoka pareigūnams, turintiems daugiau kaip 5 metus nepertraukiamo pareigūno tarnybos stažo, didinama pusantro karto, turintiems daugiau kaip 10 metų nepertraukiamo pareigūno tarnybos stažo, – 2 kartus, turintiems daugiau kaip 20 metų nepertraukiamo pareigūno tarnybos stažo, – 3 kartus.
+
+
+
+
+3. Jeigu šio įstatymo 60 straipsnio 15 punkte nustatytu pagrindu dėl iš tarnybos atleidžiamo pareigūno yra pradėtas ir nebaigtas šio įstatymo 66 straipsnio 1 dalyje nurodytas tarnybinis patikrinimas, išeitinė išmoka šiam pareigūnui pradedama mokėti praėjus vienam mėnesiui nuo sprendimo, priimto atlikus tarnybinį patikrinimą, priėmimo dienos ir mokama kas mėnesį lygiomis dalimis. Jeigu atlikus šio įstatymo 66 straipsnio 1 dalyje nurodytą tarnybinį patikrinimą yra priimtas sprendimas dėl pareigūno, atleisto iš tarnybos šio įstatymo 60 straipsnio 15 punkte nustatytu pagrindu, pripažinimo padariusiu tarnybinį nusižengimą, už kurį jam turėtų būti skirta tarnybinė nuobauda – atleidimas iš tarnybos, arba priimtas sprendimas dėl pareigūno, atleisto iš tarnybos šio įstatymo 60 straipsnio 15 punkte nurodytu pagrindu, pripažinimo pažeminusiu pareigūno vardą, išeitinė išmoka šiam pareigūnui nemokama. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
  
-
-
 
 
 
@@ -2806,7 +2819,6 @@ TAR pastaba. 55 straipsnio 3 dalyje nustatytos kompensacijos mokamos pagal sveik
 
 
 3. Nusiųstiems saugoti atstovybių pareigūnams šiame įstatyme nustatytos jų teisės ir pareigos garantuojamos tiek, kiek to neriboja tarptautinė ar užsienio valstybės nacionalinė teisė.
-TAR pastaba. Įstatymo 57 straipsnis įsigalioja 2021 m. sausio 1 d.
  
 
 
@@ -3072,7 +3084,10 @@ Pareigūnas iš tarnybos atleidžiamas ir su juo sudaryta tarnybos sutartis nutr
 
 
 
-2. Su atleidžiamu iš tarnybos pareigūnu turi būti visiškai atsiskaityta jo atleidimo dieną, išskyrus atvejus, kai pareigūnas nevykdo šio straipsnio 3 dalyje nustatytų įsipareigojimų. Su delsiančiu grąžinti šio straipsnio 3 dalyje nurodytus daiktus pareigūnu turi būti atsiskaityta tik po to, kai jis visiškai įvykdo šio straipsnio 3 dalyje nustatytus įsipareigojimus.
+2. Su atleidžiamu iš tarnybos pareigūnu turi būti visiškai atsiskaityta jo atleidimo dieną, išskyrus atvejus, kai pareigūnas nevykdo šio straipsnio 3 dalyje nustatytų įsipareigojimų, kai mokama šio įstatymo 54 straipsnio 1 dalyje nurodyta išeitinė išmoka arba šio įstatymo 54 straipsnio 3 dalyje nurodyta išeitinė išmoka, kai atliekamas tarnybinis patikrinimas. Su delsiančiu grąžinti šio straipsnio 3 dalyje nurodytus daiktus pareigūnu turi būti atsiskaityta tik po to, kai jis visiškai įvykdo šio straipsnio 3 dalyje nustatytus įsipareigojimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
+ 
 
 
 
@@ -3854,7 +3869,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
 
 
@@ -3862,6 +3877,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+
+ 
 
  
 Lietuvos Respublikos
@@ -4041,3 +4058,11 @@ Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 pakeitimo įstaty
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 19, 23, 36, 54, 61, 62 ir 66 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3439, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24616
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 1 straipsnio pakeitimo įstatymas
+ 
+ 
+part_4699943a682e42dc90a92492ec8afeb1_end
