@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8EB86FBF111C"
 
 # Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1927; Žin. 2000, Nr.86-0; Žin. 2002, Nr.103-0, i. k. 1001010ISTAIII-1856
  
@@ -56,12 +56,13 @@ priima šį įstatymą.
 
 
 
-2. Ginkluotosios pajėgos – Lietuvos kariuomenė ir ginkluotos gynybos nuo agresijos metu priskirtos kitos ginkluotosios pajėgos: Valstybės sienos apsaugos tarnyba prie Vidaus reikalų ministerijos (toliau – Valstybės sienos apsaugos tarnyba), Lietuvos Respublikos vadovybės apsaugos tarnyba, Viešojo saugumo tarnyba prie Vidaus reikalų ministerijos, koviniai Lietuvos šaulių sąjungos būriai, taip pat kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) vienetai, pavaldūs ginkluotųjų pajėgų vadovybei.
+2. Ginkluotosios pajėgos – kaip tai apibrėžta Lietuvos Respublikos karo padėties įstatyme. 
 Straipsnio dalies pakeitimai:
 Nr. VIII-2001, 2000-10-10, Žin., 2000, Nr. 92-2853 (2000-10-31), i. k. 1001010ISTAIII-2001
 Nr. XI-823, 2010-05-18, Žin., 2010, Nr. 63-3100 (2010-05-31), i. k. 1101010ISTA00XI-823
 Nr. XII-1287, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15002
 Nr. XIII-2907, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10904
+Nr. XIII-3233, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15867
  
 
 
@@ -82,10 +83,11 @@ Nr. XIII-2907, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10904
 
 
 
-6. Valstybės gynybos civilinė ir karinė vadovybė – pagal Lietuvos Respublikos Konstituciją ir įstatymus išrinkti arba paskirti civiliai bei kariniai pareigūnai, turintys įgaliojimus vadovauti ginkluotųjų pajėgų karinėms operacijoms ir kitiems gynybos veiksmams: Respublikos Prezidentas, krašto apsaugos ministras, ginkluotųjų pajėgų (kariuomenės) vadas, Gynybos štabo viršininkas, kariuomenės pajėgų rūšių vadai ir krašto apsaugos savanorių pajėgų vadas. 
+6. Valstybės gynybos civilinė ir karinė vadovybė – pagal Lietuvos Respublikos Konstituciją ir įstatymus išrinkti arba paskirti civiliai ir kariniai pareigūnai, turintys įgaliojimus vadovauti ginkluotųjų pajėgų karinėms operacijoms ir kitiems gynybos veiksmams: Respublikos Prezidentas, krašto apsaugos ministras, ginkluotųjų pajėgų (kariuomenės) vadas.
 Straipsnio dalies pakeitimai:
 Nr. XI-823, 2010-05-18, Žin., 2010, Nr. 63-3100 (2010-05-31), i. k. 1101010ISTA00XI-823
 Nr. XIII-541, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11938
+Nr. XIII-3233, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15867
  
 
 
@@ -282,7 +284,10 @@ Pagal Jungtinių Tautų Organizacijos Įstatų 51 straipsnį Lietuvos Respublika
 
 
 
-4. Lietuvos Respublikos teritorijoje, įskaitant priešo okupuotą teritoriją, teisingumą vykdo tik Lietuvos Respublikos Konstitucijos ir įstatymų nustatyta tvarka sudaryti teismai. Jiems negalint veikti, teisingumą vykdo Tautos pasipriešinimo vadovybės sudaryti karo lauko teismai. Teismų veiklos ir proceso ypatybes ginkluotos gynybos ir pasipriešinimo agresijai metu nustato Karo padėties įstatymas.
+4. Lietuvos Respublikos teritorijoje, įskaitant priešo okupuotą teritoriją, teisingumą vykdo tik Lietuvos Respublikos Konstitucijos ir įstatymų nustatyta tvarka sudaryti teismai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3233, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15867
+ 
 
 
 
@@ -380,7 +385,7 @@ Vadovaudamasi valstybių atsakomybę reglamentuojančiomis visuotinai pripažint
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 
  
@@ -416,3 +421,8 @@ Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo N
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2907, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10904
 Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo Nr. VIII-1856 2 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3233, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15867
+Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo Nr. VIII-1856 2 ir 10 straipsnių pakeitimo įstatymas
