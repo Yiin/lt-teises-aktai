@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.46EF9E1D52E9"
 
 # Lietuvos Respublikos diplomatinės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2019-12-20 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-01-20
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 7-140, i. k. 0981010ISTAIII-1012
  
@@ -3228,7 +3228,10 @@ DIPLOMATO TARNYBOS SUTARTIES IR TERMINUOTOS DIPLOMATO TARNYBOS SUTARTIES NUTRAUK
 
 
 
-8) politinio (asmeninio) pasitikėjimo valstybės tarnautojas, su kuriuo sudaryta terminuota diplomato tarnybos sutartis, praranda į pareigas jį pasirinkusio valstybės politiko pasitikėjimą;
+8) politinio (asmeninio) pasitikėjimo valstybės tarnautojas, su kuriuo sudaryta terminuota diplomato tarnybos sutartis, atleidžiamas iš pareigų Valstybės tarnybos įstatymo nustatytais pagrindais ir tvarka;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3401, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24557
+ 
 
 
 
@@ -3388,7 +3391,11 @@ Ginčai dėl diplomato tarnybos sutarties ir terminuotos diplomato tarnybos suta
 95 straipsnis. Išeitinės išmokos ir kompensacijos 
 
 
-1. Diplomatui, su kuriuo sudaryta diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 2 dalies 6 punkte nurodytu pagrindu, išmokama vieno mėnesio jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. 
+1. Diplomatui, su kuriuo sudaryta diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 1 dalies 5 punkte nurodytu pagrindu (toliau – diplomatas, kuriam sukako 65 metai), ne vėliau kaip diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimo dieną išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Jeigu nutraukiant diplomato tarnybos sutartį ar terminuotą diplomato tarnybos sutartį dėl diplomato, kuriam sukako 65 metai, yra pradėtas ir nebaigtas šio įstatymo 72 straipsnio 2 dalyje nurodytas tarnybinio nusižengimo tyrimas, išeitinė išmoka diplomatui, kuriam sukako 65 metai, išmokama per 5 darbo dienas nuo užsienio reikalų ministro sprendimo atlikus tarnybinio nusižengimo tyrimą priėmimo dienos. Atlikus šio įstatymo 72 straipsnio 2 dalyje nurodytą tarnybinio nusižengimo tyrimą ir priėmus sprendimą dėl asmens, ėjusio diplomato pareigas, pripažinimo padarius tarnybinį nusižengimą, už kurį jam turėtų būti skirta tarnybinė nuobauda – diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas, išeitinė išmoka diplomatui, kuriam sukako 65 metai, nemokama. Diplomatui, su kuriuo sudaryta diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis nutraukiama šio įstatymo 92 straipsnio 2 dalies 6 punkte nurodytu pagrindu, išmokama vieno mėnesio jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. 
+TAR pastaba. 1 dalies nuostatos taikomos pareigas einantiems diplomatams, kuriems 65 metai sukanka po įstatymo Nr. XIII-3401 įsigaliojimo (2021-01-01).
+Straipsnio dalies pakeitimai:
+Nr. XIII-3401, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24557
+ 
 
 
 
@@ -3433,7 +3440,10 @@ Ginčai dėl diplomato tarnybos sutarties ir terminuotos diplomato tarnybos suta
 
 
 
-5. Užsienio reikalų ministerija su diplomatu, su kuriuo nutraukiama diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis, privalo visiškai atsiskaityti ne vėliau kaip jos nutraukimo dieną, išskyrus šio straipsnio 2 dalyje nurodytą išeitinę išmoką ir kompensaciją, nurodytą šio straipsnio 4 dalyje. Jeigu uždelsiama atsiskaityti dėl Užsienio reikalų ministerijos kaltės, diplomatui sumokamas vidutinis darbo užmokestis už uždelstą laikotarpį.
+5. Užsienio reikalų ministerija su diplomatu, su kuriuo nutraukiama diplomato tarnybos sutartis ar terminuota diplomato tarnybos sutartis, privalo visiškai atsiskaityti ne vėliau kaip jos nutraukimo dieną, išskyrus šio straipsnio 1 dalyje nurodytą išeitinę išmoką, kai atliekamas tarnybinio nusižengimo tyrimas, šio straipsnio 2 dalyje nurodytą išeitinę išmoką ir kompensaciją, nurodytą šio straipsnio 4 dalyje. Jeigu uždelsiama atsiskaityti dėl Užsienio reikalų ministerijos kaltės, diplomatui sumokamas vidutinis darbo užmokestis už uždelstą laikotarpį.
+TAR pastaba. 5 dalies nuostatos taikomos pareigas einantiems diplomatams, kuriems 65 metai sukanka po įstatymo Nr. XIII-3401 įsigaliojimo (2021-01-01).
+Straipsnio dalies pakeitimai:
+Nr. XIII-3401, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24557
  
 
 
@@ -4034,3 +4044,8 @@ Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 pakeitimo į
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2611, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20638
 Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 30 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3401, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24557
+Lietuvos Respublikos diplomatinės tarnybos įstatymo Nr. VIII-1012 92 ir 95 straipsnių pakeitimo įstatymas
