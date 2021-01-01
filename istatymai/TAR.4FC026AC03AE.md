@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2020-10-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-04-13
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
+ 
+TAR pastaba. Įstatymo Nr. XIII-3400 nuostatos taikomos pareigas einantiems vidaus tarnybos sistemos pareigūnams, kurie Lietuvos Respublikos vidaus tarnybos statuto 72 straipsnio 1 dalies 2 punkte nustatytu pagrindu iš vidaus tarnybos atleidžiami po šio įstatymo įsigaliojimo (2021-01-01) , Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymo Nr. XIII-1381 2 straipsnio 20 dalyje nurodytiems Lietuvos Respublikos finansų ministro valdymo srities statutinių įstaigų pareigūnams, kuriems 65 metai sukanka po šio įstatymo įsigaliojimo, taip pat Vidaus tarnybos statuto pakeitimo įstatymo Nr. XIII-1381 2 straipsnio 21 dalyje nurodytiems pareigūnams, kuriems sprendime dėl tarnybos pratęsimo nustatytas amžius sukanka po šio įstatymo įsigaliojimo.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3400, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24543
+Lietuvos Respublikos vidaus tarnybos statuto 77 ir 78 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS VIDAUS TARNYBOS STATUTO PATVIRTINIMO  ĮSTATYMAS
  
@@ -4182,7 +4187,10 @@ Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 77 straipsnis. Išeitinės išmokos atleidžiant pareigūnus iš vidaus tarnybos
 
 
-1. Šio statuto 72 straipsnio 1 dalies 4, 12, 15 ir 17 punktuose nurodytais pagrindais atleidžiamam iš vidaus tarnybos pareigūnui išmokama jo 2 mėnesių vidutinio darbo užmokesčio dydžio išeitinė išmoka. Ši išmoka pareigūnams, nepertraukiamai ištarnavusiems daugiau kaip 5 metus, didinama pusantro karto, nepertraukiamai ištarnavusiems daugiau kaip 10 metų, – du kartus, nepertraukiamai ištarnavusiems daugiau kaip 20 metų, – tris kartus.
+1. Šio statuto 72 straipsnio 1 dalies 4, 12, 15 ir 17 punktuose nurodytais pagrindais atleidžiamam iš vidaus tarnybos pareigūnui išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Ši išmoka pareigūnams, nepertraukiamai ištarnavusiems daugiau kaip 5 metus, didinama pusantro karto, nepertraukiamai ištarnavusiems daugiau kaip 10 metų, – du kartus, nepertraukiamai ištarnavusiems daugiau kaip 20 metų, – tris kartus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3400, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24543
+ 
 
 
 
@@ -4193,6 +4201,13 @@ Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 
 
 3. Šio statuto 72 straipsnio 1 dalies 18 punkte nurodytu pagrindu atleidžiamam iš vidaus tarnybos pareigūnui gali būti mokama ne didesnė negu šio straipsnio 1 dalyje nurodyta išeitinė išmoka. Ji šiam pareigūnui išmokama jo atleidimo iš vidaus tarnybos dieną. 
+
+
+
+
+4. Šio statuto 72 straipsnio 1 dalies 2 punkte nurodytu pagrindu atleidžiamam iš vidaus tarnybos pareigūnui jo atleidimo iš vidaus tarnybos dieną išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Jeigu šio statuto 72 straipsnio 1 dalies 2 punkte nurodytu pagrindu dėl iš vidaus tarnybos atleidžiamo pareigūno yra pradėtas ir nebaigtas šio statuto 39 straipsnio 8 dalies 2 punkte nurodytas tarnybinis patikrinimas, išeitinė išmoka šiam pareigūnui išmokama per 5 darbo dienas nuo pareigūną į pareigas skiriančio asmens sprendimo, priimto atlikus tarnybinį patikrinimą, priėmimo dienos. Jeigu atlikus šio statuto 39 straipsnio 8 dalies 2 punkte nurodytą tarnybinį patikrinimą yra priimtas sprendimas dėl pareigūno, atleisto iš vidaus tarnybos šio statuto 72 straipsnio 1 dalies 2 punkte nurodytu pagrindu, pripažinimo padariusiu tarnybinį nusižengimą, už kurį jam turėtų būti skirta tarnybinė nuobauda – atleidimas iš vidaus tarnybos, arba priimtas sprendimas dėl pareigūno, atleisto iš vidaus tarnybos šio statuto 72 straipsnio 1 dalies 2 punkte nurodytu pagrindu, pripažinimo pažeminusiu pareigūno vardą, išeitinė išmoka šiam pareigūnui nemokama. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3400, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24543
  
 
 
@@ -4203,7 +4218,10 @@ Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 78 straipsnis. Atsiskaitymas su atleidžiamais iš vidaus tarnybos pareigūnais
 
 
-1. Su atleidžiamu iš vidaus tarnybos pareigūnu turi būti visiškai atsiskaityta jo atleidimo dieną, išskyrus atvejus, kai pareigūnas nevykdo šio straipsnio 2 dalyje nustatytų reikalavimų.
+1. Su atleidžiamu iš vidaus tarnybos pareigūnu turi būti visiškai atsiskaityta jo atleidimo dieną, išskyrus atvejus, kai pareigūnas nevykdo šio straipsnio 2 dalyje nustatytų reikalavimų, kai mokama šio statuto 77 straipsnio 1 dalyje nurodyta išeitinė išmoka arba šio statuto 77 straipsnio 4 dalyje nurodyta išeitinė išmoka, kai atliekamas tarnybinis patikrinimas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3400, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24543
+ 
 
 
 
@@ -4673,3 +4691,8 @@ Lietuvos Respublikos vidaus tarnybos statuto 72 ir 73 straipsnių pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3177, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15240
 Lietuvos Respublikos vidaus tarnybos statuto 16, 19, 20, 23, 24, 26, 28, 29, 30, 31, 31-1, 32, 33, 34, 35, 37, 38, 39, 51, 53, 56, 58, 59, 64, 68, 69, 75, 80 straipsnių pakeitimo ir Įstatymo papildymo 29-1, 33-1 straipsniais įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3400, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24543
+Lietuvos Respublikos vidaus tarnybos statuto 77 ir 78 straipsnių pakeitimo įstatymas
