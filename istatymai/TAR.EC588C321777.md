@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2020-12-19 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-03-18
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -11782,36 +11782,56 @@ Nr. XIII-2269, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11190
 
 
 
-10) dėl kitų baudžiamojo poveikio priemonių – probacijos tarnybai; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+10) dėl baudžiamojo poveikio priemonės – įpareigojimo pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos – policijos įstaigai, kurios teritorijoje yra nuteistojo gyvenamoji vieta, pagal Lietuvos policijos generalinio komisaro nustatytą tvarką; 
+Papildyta straipsnio punktu:
+Nr. XIII-3354, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24241
  
 
 
 
 
-11) dėl auklėjamojo poveikio priemonės – atidavimo į specialią auklėjimo įstaigą taikymo nepilnamečiams – specialios auklėjimo įstaigos administracijai;
-
-
-
-
-12) dėl kitų auklėjamojo poveikio priemonių (išskyrus įspėjimą) taikymo nepilnamečiams – probacijos tarnybai; 
+11) dėl kitų baudžiamojo poveikio priemonių – probacijos tarnybai; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-3354, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24241
  
 
 
 
 
-13) nuosprendis, kuriuo atidedamas visos paskirtos bausmės vykdymas, – probacijos tarnybai; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+12) dėl auklėjamojo poveikio priemonės – atidavimo į specialią auklėjimo įstaigą taikymo nepilnamečiams – specialios auklėjimo įstaigos administracijai;
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-3354, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24241
  
 
 
 
 
-14) nuosprendis, kuriuo nuteistajam paskiriama bausmė už labai sunkų ar sunkų nusikaltimą, nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamą veiką, – bausmę vykdančiai institucijai ir nuteistojo darbovietės, kurioje jis dirbo arba ėjo pareigas nusikalstamos veikos padarymo metu, administracijai, jeigu nuteistasis toliau dirba arba eina pareigas toje darbovietėje.
+13) dėl kitų auklėjamojo poveikio priemonių (išskyrus įspėjimą) taikymo nepilnamečiams – probacijos tarnybai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-3354, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24241
+ 
+
+
+
+
+14) nuosprendis, kuriuo atidedamas visos paskirtos bausmės vykdymas, – probacijos tarnybai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-3354, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24241
+ 
+
+
+
+
+15) nuosprendis, kuriuo nuteistajam paskiriama bausmė už labai sunkų ar sunkų nusikaltimą, nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamą veiką, – bausmę vykdančiai institucijai ir nuteistojo darbovietės, kurioje jis dirbo arba ėjo pareigas nusikalstamos veikos padarymo metu, administracijai, jeigu nuteistasis toliau dirba arba eina pareigas toje darbovietėje.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-3354, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24241
+ 
 
 
 
@@ -12094,15 +12114,19 @@ Nuosprendį paskelbęs teismas tuoj pat išaiškina nuteistajam paskirtos laisv�
 
 
 
-3. Jeigu uždraudimas naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, arba viešųjų teisių atėmimas paskirtas kartu su laisvės atėmimo arba arešto bausme, šios baudžiamojo poveikio priemonės pradedamos vykdyti, kai nuteistasis atliko bausmę arba lygtinai paleidžiamas iš pataisos įstaigos. Pataisos įstaigos administracija ne vėliau kaip per tris darbo dienas išsiunčia pranešimą apie nuteistojo paleidimą iš pataisos įstaigos uždraudimą naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą, arba viešųjų teisių atėmimą vykdančiai institucijai. 
+3. Jeigu uždraudimas naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, arba viešųjų teisių atėmimas, arba įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos paskirtas kartu su laisvės atėmimo arba arešto bausme, šios baudžiamojo poveikio priemonės pradedamos vykdyti, kai nuteistasis atliko bausmę arba lygtinai paleidžiamas iš pataisos įstaigos. Pataisos įstaigos administracija ne vėliau kaip per tris darbo dienas išsiunčia pranešimą apie nuteistojo paleidimą iš pataisos įstaigos, uždraudimą naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą, arba viešųjų teisių atėmimą, arba įpareigojimą pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos vykdančiai institucijai. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2265, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11182
+Nr. XIII-3354, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24241
  
 
 
 
 
-4. Jeigu panaikinamas bausmės vykdymo atidėjimas arba lygtinis paleidimas iš pataisos įstaigos ir nuteistasis pasiunčiamas į pataisos įstaigą, baudžiamojo poveikio priemonių – uždraudimo naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimo, arba viešųjų teisių atėmimo – vykdymas sustabdomas iki šio straipsnio 3 dalyje nustatytų pagrindų vykdyti šias baudžiamojo poveikio priemones atsiradimo.
+4. Jeigu panaikinamas bausmės vykdymo atidėjimas arba lygtinis paleidimas iš pataisos įstaigos ir nuteistasis pasiunčiamas į pataisos įstaigą, baudžiamojo poveikio priemonių – uždraudimo naudotis specialia teise arba teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimo, arba viešųjų teisių atėmimo, arba įpareigojimo pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos – vykdymas sustabdomas iki šio straipsnio 3 dalyje nustatytų pagrindų vykdyti šias baudžiamojo poveikio priemones atsiradimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3354, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24241
+ 
 
 
 
@@ -16309,3 +16333,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 35, 168, 170, 214, 217, 218, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-33, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27338
 Lietuvos Respublikos baudžiamojo proceso kodekso 94, 342, 364, 365-5 straipsnių ir priedo pakeitimo ir 17-3, 365-3, 365-4 straipsnių pripažinimo netekusiais galios įstatymas
+ 
+54.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3354, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24241
+Lietuvos Respublikos baudžiamojo proceso kodekso 342 ir 357 straipsnių pakeitimo įstatymas
