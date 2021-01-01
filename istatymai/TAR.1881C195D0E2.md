@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1881C195D0E2"
 
 # Lietuvos Respublikos žvalgybos įstatymas
 
-Suvestinė redakcija nuo 2020-10-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 64-1931, i. k. 1001010ISTAIII-1861
  
@@ -1221,7 +1221,10 @@ Nr. XII-1683, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07664
 
 
 
-2. Antrasis operatyvinių tarnybų departamentas yra juridinis asmuo, finansuojamas iš valstybės biudžeto, turintis savo antspaudą su Lietuvos valstybės herbu ir užrašu „Lietuvos Respublika. Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos“, taip pat sąskaitų bankuose. 
+2. Antrasis operatyvinių tarnybų departamentas yra juridinis asmuo, finansuojamas iš valstybės biudžeto, turintis savo antspaudą su Lietuvos valstybės herbu ir užrašu „Lietuvos Respublika. Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos“, taip pat sąskaitų bankuose. Įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) metu Antrasis operatyvinių tarnybų departamentas tampa ginkluotųjų pajėgų dalimi ir gina valstybę.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3245, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15883
+ 
 
 
 
@@ -4028,7 +4031,7 @@ Nr. XII-2621, 2016-09-20, paskelbta TAR 2016-09-28, i. k. 2016-24162
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 
  
@@ -4117,7 +4120,7 @@ ___________________________________________________________________________
 
 
 A. V.
-Žvalgybos pareigūnas paskirtas į pareigas _____________ įsakymu Nr. _____________ .
+Žvalgybos pareigūnas paskirtas į pareigas _____________ įsakymu Nr. ____________ .
 (data)
 Sutartis nutraukta ________________________________________________________ 
 ___________________________________________________________________________ 
@@ -4213,3 +4216,8 @@ Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 50 straipsnio pakeitimo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3254, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15769
 Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 14, 16 straipsnių pakeitimo ir Įstatymo papildymo 16-1 straipsniu įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3245, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15883
+Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 27 straipsnio pakeitimo įstatymas
