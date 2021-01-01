@@ -18,9 +18,10 @@ Redagavo: Ramunė Lūžaitė (1997.03.17)
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-08-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 81-1514, i. k. 0941010ISTA000I-599
  
@@ -2858,19 +2859,19 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 47 straipsnis. Išeitinė išmoka
 
 
-1. Atleidžiant prokurorą iš tarnybos šio Įstatymo 44 straipsnio 1 dalies 7, 8, 13 punktuose ir 2 dalies 2 punkte nustatytais atvejais, o generalinį prokurorą (jo pavaduotoją) – šio Įstatymo 22 straipsnio 5 dalies 1 punkte, 7 dalies 1, 2 punktuose ir 8 dalies 2 punkte nustatytais atvejais, jam sumokama dviejų mėnesių vidutinio jo darbo užmokesčio dydžio išeitinė išmoka. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
- 
+1. Atleidžiant prokurorą iš tarnybos šio Įstatymo 44 straipsnio 1 dalies 7, 8, 12, 13 punktuose ir 2 dalies 2 punkte nustatytais atvejais, o generalinį prokurorą (jo pavaduotoją) – šio Įstatymo 22 straipsnio 5 dalies 1 punkte, 7 dalies 1, 2 punktuose ir 8 dalies 2 punkte nustatytais atvejais, jam sumokama dviejų mėnesių vidutinio jo darbo užmokesčio dydžio išeitinė išmoka. Jeigu šio Įstatymo 44 straipsnio 1 dalies 12 punkte nustatytu atveju dėl iš tarnybos atleidžiamo prokuroro yra nagrinėjamas šio Įstatymo 41 straipsnio 4 dalyje nurodytas kreipimasis arba 41 straipsnio 5 dalyje nurodytas teikimas, išeitinė išmoka prokurorui išmokama per 5 darbo dienas nuo sprendimo, išnagrinėjus šį kreipimąsi ar teikimą, priėmimo dienos. Priėmus sprendimą dėl prokuroro, atleisto iš tarnybos šio Įstatymo 44 straipsnio 1 dalies 12 punkte nustatytu atveju, pripažinimo padariusiu įstatymų pažeidimą, tarnybinį nusižengimą, prokuroro vardą žeminantį poelgį ar kitą Prokurorų etikos kodekso pažeidimą, už kurį jam turėtų būti skirta tarnybinė nuobauda – atleidimas iš tarnybos, išeitinė išmoka šiam prokurorui nemokama.
 
 
 
 
-2. Šio straipsnio 1 dalyje nustatyta išeitinė išmoka atleidžiamam prokurorui, turinčiam daugiau kaip penkerių metų tarnybos prokuroru stažą, didinama pusantro karto, turinčiam daugiau kaip dešimties metų tarnybos prokuroru stažą – du kartus, turinčiam daugiau kaip penkiolika metų tarnybos prokuroru stažą – pustrečio karto, turinčiam daugiau kaip dvidešimties metų tarnybos prokuroru stažą – tris kartus.
+2. Šio straipsnio 1 dalyje nustatyta išeitinė išmoka, išskyrus išeitinę išmoką, mokamą atleidžiant prokurorą iš tarnybos šio Įstatymo 44 straipsnio 1 dalies 12 punkte nustatytu atveju, atleidžiamam prokurorui, turinčiam daugiau kaip penkerių metų tarnybos prokuroru stažą, didinama pusantro karto, turinčiam daugiau kaip dešimties metų tarnybos prokuroru stažą, – du kartus, turinčiam daugiau kaip penkiolika metų tarnybos prokuroru stažą, – pustrečio karto, turinčiam daugiau kaip dvidešimties metų tarnybos prokuroru stažą, – tris kartus. 
+TAR pastaba. 47 straipsnio nuostatos taikomos pareigas einantiems prokurorams, kuriems 65 metai sukanka po įstatymo Nr. XIII-3403 įsigaliojimo (2021-01-01).
 
 
 Straipsnio pakeitimai:
 Nr. XI-1562, 2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
+Straipsnio pakeitimai:
+Nr. XIII-3403, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24561
  
 
 
@@ -2925,7 +2926,10 @@ PROKURORŲ SOCIALINĖS GARANTIJOS
 
 
 
-2) priedo už ištarnautus Lietuvos valstybei metus;
+2) priedo už tarnybos Lietuvos valstybei stažą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3403, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24561
+ 
 
 
 
@@ -2942,12 +2946,18 @@ PROKURORŲ SOCIALINĖS GARANTIJOS
 
 
 
-4. Prokurorams mokamas priedas už ištarnautus Lietuvos valstybei metus nuo 1990 m. kovo 11 d. einant pareigas, nurodytas Valstybės tarnybos įstatymo 4 straipsnio 1–4 dalyse ir 5 dalies 1–4 punktuose (išskyrus savivaldybės tarybos narius, kurie nebuvo merais ir mero pavaduotojais). Į ištarnautus Lietuvos valstybei metus įskaitomi laikotarpiai, nurodyti Valstybės tarnybos įstatymo 42 straipsnio 1 dalyje, apskaičiuoti Vyriausybės nustatyta tvarka.
+4. Prokurorams mokamas priedas už tarnybos Lietuvos valstybei stažą, nurodytą Valstybės tarnybos įstatymo 47 straipsnio 1 ir 2 dalyse. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3403, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24561
+ 
 
 
 
 
-5. Priedą už ištarnautus Lietuvos valstybei metus sudaro 3 procentai prokuroro pareiginės algos už kiekvienus trejus metus, tačiau priedo dydis neturi viršyti 30 procentų pareiginės algos.
+5. Priedą už tarnybos Lietuvos valstybei stažą sudaro 1 procentas prokuroro pareiginės algos už kiekvienus metus. Šio priedo dydis negali viršyti 30 procentų prokuroro pareiginės algos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3403, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24561
+ 
 
 
 
@@ -3440,6 +3450,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
+
  
 Lietuvos Respublikos 
 prokuratūros įstatymo
@@ -3578,9 +3590,10 @@ Pastaba. ONKT – organizuotų nusikaltimų ir korupcijos tyrimas.
 Papildyta priedu:
 Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
  
+part_89f3d501b2094c06be330d32b5bc4ae8_end
 
 
-
+ 
 
  
 Lietuvos Respublikos
@@ -3613,8 +3626,7 @@ Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
 Priedo pakeitimai:
 Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
  
-
-
+part_9ec46ff5fa0742b5875ae79a88e8d3fa_end
 
 
 Pakeitimai:
@@ -3805,3 +3817,8 @@ Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 1, 11, 28, 29, 34-1 strai
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3178, 2020-06-26, paskelbta TAR 2020-06-29, i. k. 2020-14370
 Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 16-1 straipsnio pakeitimo įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3403, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24561
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 47 ir 49 straipsnių pakeitimo įstatymas
