@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5A04D7CC7EF6"
 
 # Lietuvos Respublikos bibliotekų įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 51-1245, i. k. 0951010ISTA000I-920
  
@@ -142,7 +142,10 @@ Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2
 Kultūros ministerija atlieka bibliotekų valstybinio valdymo institucijos funkcijas:
 
 
-1) nustato valstybės ar savivaldybių įsteigtų bibliotekų plėtros strategiją, rengia ir finansuoja ją įgyvendinančias programas;
+1) nustato valstybės ar savivaldybių įsteigtų bibliotekų veiklos prioritetus, tvirtina ir koordinuoja juos įgyvendinančių veiksmų planų vykdymą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3108, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15318
+ 
 
 
 
@@ -168,6 +171,14 @@ Nr. XII-752, 2013-12-23, Žin. 2013, Nr. 141-7113 (2013-12-31) ; paskelbta TAR 2
 
 
 
+41) tvirtina bibliotekų, kurių vadovai yra valstybės biudžeto asignavimų valdytojai, kaip jie apibrėžti Lietuvos Respublikos biudžeto sandaros įstatyme, strateginius veiklos planus; 
+Papildyta straipsnio punktu:
+Nr. XIII-3108, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15318
+ 
+
+
+
+
 5) užsako ir finansuoja mokslinius tyrimus;
 
 
@@ -183,9 +194,10 @@ Nr. XII-752, 2013-12-23, Žin. 2013, Nr. 141-7113 (2013-12-31) ; paskelbta TAR 2
 
 
 
-8) gali finansuoti bibliotekas, įgyvendinančias valstybines bibliotekų plėtros programas, neatsižvelgdama į jų teisinę formą ir statusą; 
+8) gali finansuoti bibliotekas, vykdančias valstybės ar savivaldybių įsteigtų bibliotekų veiklos prioritetus įgyvendinančius veiksmų planus, neatsižvelgdama į jų teisinę formą ir statusą; 
 Straipsnio punkto pakeitimai:
 Nr. XI-775, 2010-04-22, Žin., 2010, Nr. 53-2597 (2010-05-08), i. k. 1101010ISTA00XI-775
+Nr. XIII-3108, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15318
  
 
 
@@ -278,7 +290,10 @@ Nr. XIII-1749, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20723
 
 
 
-7. Valstybinės bibliotekų plėtojimo ir mokslinių tyrimų programos finansuojamos iš valstybės biudžeto ir savivaldybių biudžetų bei paramos teikėjų lėšų.
+7. Valstybės ar savivaldybių įsteigtų bibliotekų veiklos prioritetus įgyvendinantys veiksmų planai ir mokslinių tyrimų programos finansuojami iš valstybės biudžeto ir savivaldybių biudžetų bei paramos teikėjų lėšų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3108, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15318
+ 
 
 
 
@@ -614,7 +629,10 @@ Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2
 
 
 
-2. Apskrities viešoji biblioteka yra nustatytoje teritorijoje veikiančių bibliotekų veiklos tyrimo, koordinavimo, metodinės pagalbos, bibliotekininkų kvalifikacijos kėlimo, tarpbibliotekinio skolinimo paslaugų, bibliografijos, kraštotyros ir informacijos centras, kuris užtikrina valstybinių bibliotekininkystės plėtros programų vykdymą, aptarnauja vartotojus, suteikia galimybių tenkinti kultūros, savišvietos ir švietimo  poreikius, ugdyti etnografinių regionų tradicijas, didinti kultūros ir meno paslaugų sklaidą.
+2. Apskrities viešoji biblioteka yra nustatytoje teritorijoje veikiančių bibliotekų veiklos tyrimo, koordinavimo, metodinės pagalbos, bibliotekininkų kvalifikacijos kėlimo, tarpbibliotekinio skolinimo paslaugų, bibliografijos, kraštotyros ir informacijos centras, kuris užtikrina valstybės ar savivaldybių įsteigtų bibliotekų veiklos prioritetus įgyvendinančių veiksmų planų vykdymą, aptarnauja vartotojus, suteikia galimybių tenkinti kultūros, savišvietos ir švietimo poreikius, ugdyti etnografinių regionų tradicijas, didinti kultūros ir meno paslaugų sklaidą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3108, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15318
+ 
 
 
 
@@ -972,7 +990,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
  
 
 
@@ -1020,3 +1038,8 @@ Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 5 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2320, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12115
 Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 4 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3108, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15318
+Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 4, 6 ir 9 straipsnių pakeitimo įstatymas
