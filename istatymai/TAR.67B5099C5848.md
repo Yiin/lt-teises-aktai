@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2020-07-11 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -84,7 +84,9 @@ PAGRINDINĖS NUOSTATOS
 
 
 
-4. Teisminė mediacija – administracinio ginčo sprendimo procedūra, kurios metu vienas ar keli mediatoriai padeda ginčo šalims taikiai spręsti šį ginčą teisme nagrinėjamoje byloje. 
+4. Neteko galios nuo 2021-01-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
 Papildyta straipsnio dalimi:
 Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
  
@@ -1621,9 +1623,11 @@ Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
 
 
 
-4) jeigu jis šioje byloje vykdė teisminę mediaciją ir ginčo šalims teisminės mediacijos metu nepavyko sudaryti taikos sutarties. 
+4) jeigu jis šioje byloje vykdė teisminę mediaciją arba vykdė mediaciją dėl ginčo tarp tų pačių ginčo šalių, dėl to paties dalyko ir tuo pačiu pagrindu. 
 Papildyta straipsnio punktu:
 Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
+Straipsnio punkto pakeitimai:
+Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
  
 
 
@@ -2016,9 +2020,10 @@ IX SKYRIUS
 56 straipsnis. Įrodymai
 
 
-1. Įrodymai administracinėje byloje yra visi faktiniai duomenys, kurie priimti bylą nagrinėjančio teismo ir kuriais remdamasis teismas įstatymų nustatyta tvarka konstatuoja, kad yra aplinkybių, pagrindžiančių proceso šalių reikalavimus bei atsikirtimus, ir kitokių aplinkybių, turinčių reikšmės bylai teisingai išspręsti, arba kad jų nėra. Duomenys, gauti mediacijos metu, negali būti įrodymais administracinėje byloje. Informacija, kuriai netaikomas konfidencialumo reikalavimas, nustatoma mutatis mutandis taikant Mediacijos įstatymo nuostatas. 
+1. Įrodymai administracinėje byloje yra visi faktiniai duomenys, kurie priimti bylą nagrinėjančio teismo ir kuriais remdamasis teismas įstatymų nustatyta tvarka konstatuoja, kad yra aplinkybių, pagrindžiančių proceso šalių reikalavimus bei atsikirtimus, ir kitokių aplinkybių, turinčių reikšmės bylai teisingai išspręsti, arba kad jų nėra. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
+Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
  
 
 
@@ -2042,17 +2047,25 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-4. Įrodymus pateikia proceso šalys ir kiti proceso dalyviai. Prireikus teismas gali pasiūlyti nurodytiems asmenims pateikti papildomų įrodymų arba šių asmenų prašymu ar savo iniciatyva išreikalauti reikiamus dokumentus, pareikalauti iš pareigūnų paaiškinimų.
+5. Įrodymus pateikia proceso šalys ir kiti proceso dalyviai. Prireikus teismas gali pasiūlyti nurodytiems asmenims pateikti papildomų įrodymų arba šių asmenų prašymu ar savo iniciatyva išreikalauti reikiamus dokumentus, pareikalauti iš pareigūnų paaiškinimų.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
+ 
 
 
 
 
-5. Įstatymų nustatyta tvarka surinktų ir užfiksuotų įrodymų įrodomoji galia išlieka visose proceso stadijose ir jie iš naujo paprastai neperžiūrimi.
+6. Įstatymų nustatyta tvarka surinktų ir užfiksuotų įrodymų įrodomoji galia išlieka visose proceso stadijose ir jie iš naujo paprastai neperžiūrimi.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
+ 
 
 
 
 
-6. Jokie įrodymai teismui neturi iš anksto nustatytos galios. Teismas įvertina įrodymus pagal vidinį savo įsitikinimą, pagrįstą visapusišku, išsamiu ir objektyviu bylos aplinkybių viseto išnagrinėjimu, vadovaudamasis įstatymu, taip pat teisingumo ir protingumo kriterijais. 
+7. Jokie įrodymai teismui neturi iš anksto nustatytos galios. Teismas įvertina įrodymus pagal vidinį savo įsitikinimą, pagrįstą visapusišku, išsamiu ir objektyviu bylos aplinkybių viseto išnagrinėjimu, vadovaudamasis įstatymu, taip pat teisingumo ir protingumo kriterijais. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
  
 
 
@@ -2919,7 +2932,10 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 79 straipsnis. Bylos nagrinėjimo atidėjimas
 
 
-1. Teismas nutartimi gali atidėti bylos nagrinėjimą, jeigu į posėdį neatvyko vertėjas ar proceso šalis, kai teismas nusprendžia, kad be jų negalima nagrinėti bylos, kai būtina išreikalauti naujus įrodymus arba kai ginčo šalims reikia laiko deryboms dėl taikos sutarties sudarymo ir kitais reikiamais atvejais. Dėl taikos sutarties sudarymo bylos nagrinėjimas negali būti atidėtas daugiau kaip vieną kartą.
+1. Teismas nutartimi gali atidėti bylos nagrinėjimą, kai į posėdį neatvyko vertėjas ar proceso šalis, kai teismas nusprendžia, kad be jų negalima nagrinėti bylos, kai būtina išreikalauti naujus įrodymus, kai ginčas perduodamas spręsti teisminės mediacijos būdu arba kai ginčo šalims reikia laiko deryboms dėl taikos sutarties sudarymo ir kitais reikiamais atvejais. Dėl taikos sutarties sudarymo bylos nagrinėjimas negali būti atidėtas daugiau kaip vieną kartą. Ginčo šalių prašymu terminas, kuriam atidėtas bylos nagrinėjimas dėl taikos sutarties sudarymo, ne daugiau kaip vieną kartą gali būti pratęstas teismo nutartimi. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
+ 
 
 
 
@@ -2937,17 +2953,25 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-3. Teismas, atidėdamas bylos nagrinėjimą, paskiria kito teismo posėdžio laiką ir apie tai pasirašytinai paskelbia atvykusiems asmenims.
+4. Teismas, atidėdamas bylos nagrinėjimą, paskiria kito teismo posėdžio laiką ir apie tai pasirašytinai paskelbia atvykusiems asmenims.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
+ 
 
 
 
 
-4. Kai bylos nagrinėjimas atidedamas dėl to, kad būtina išreikalauti naujų įrodymų, teismas nutartyje nustato jų pateikimo terminą.
+5. Kai bylos nagrinėjimas atidedamas dėl to, kad būtina išreikalauti naujų įrodymų, teismas nutartyje nustato jų pateikimo terminą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
+ 
 
 
 
 
-5. Atidėdamas bylos nagrinėjimą, teismas gali apklausti atvykusius liudytojus, jeigu visiems proceso dalyviams apie posėdį buvo pranešta.
+6. Atidėdamas bylos nagrinėjimą, teismas gali apklausti atvykusius liudytojus, jeigu visiems proceso dalyviams apie posėdį buvo pranešta.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
  
 
 
@@ -2958,66 +2982,31 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 791 straipsnis. Ginčo perdavimas spręsti teisminės mediacijos būdu
 
 
-1. Ginčo šalių prašymu arba sutikimu, laikantis šio įstatymo ir Teisėjų tarybos nustatytos tvarkos, gali būti vykdoma teisminė mediacija. Teisminė mediacija gali būti vykdoma tik dėl tokio administracinio ginčo, dėl kurio pagal įstatymus leidžiama ginčo šalims sudaryti taikos sutartį. 
+1. Ginčo perdavimą spręsti teisminės mediacijos būdu gali inicijuoti teismas arba bet kuri ginčo šalis. Ginčas perduodamas spręsti teisminės mediacijos būdu teismo nutartimi, kai teismas išaiškina ginčo šalims teisminės mediacijos esmę, yra gautas ginčo šalių sutikimas arba prašymas perduoti ginčą spręsti teisminės mediacijos būdu. 
 
 
 
 
-2. Ginčo šalims teisminės mediacijos paslaugos teikiamos nemokamai. 
+2. Teisėjas, nagrinėdamas bylą, ginčo šalių sutikimu gali nuspręsti pats vykdyti mediaciją, jeigu jis yra mediatorius, o bylą nagrinėjanti teisėjų kolegija gali paskirti vykdyti mediaciją vieną iš kolegijos narių, kuris yra mediatorius. Teisėjas ar teisėjų kolegija taip pat gali parinkti ir skirti kitą mediatorių, kuris yra teisėjas, pagal galimybes atsižvelgę į abiejų ginčo šalių suderintą nuomonę dėl šio mediatoriaus kandidatūros, arba pranešti Valstybės garantuojamos teisinės pagalbos tarnybai apie tai, kad reikia parinkti mediatorių iš Lietuvos Respublikos mediatorių sąrašo. Mediatorius skiriamas tik gavus jo rašytinį sutikimą. 
 
 
 
 
-3. Ginčo perdavimą spręsti teisminės mediacijos būdu gali inicijuoti administracinę bylą nagrinėjantis teismas arba bet kuri ginčo šalis. Ginčas perduodamas spręsti teisminės mediacijos būdu administracinę bylą nagrinėjančio teismo nutartimi, kai teismas išaiškina šalims teisminės mediacijos esmę, yra gautas ginčo šalių sutikimas arba prašymas perduoti ginčą spręsti teisminės mediacijos būdu.
+3. Kai yra priimta teismo nutartis perduoti ginčą spręsti teisminės mediacijos būdu ir teisminę mediaciją vykdys ne administracinę bylą nagrinėjantis teisėjas (ne administracinę bylą nagrinėjančios teisėjų kolegijos narys) ir ne kitas mediatorius, kuris yra teisėjas, teismas nedelsdamas praneša Valstybės garantuojamos teisinės pagalbos tarnybai apie tai, kad reikia iš Lietuvos Respublikos mediatorių sąrašo parinkti mediatorių, kuris vykdys teisminę mediaciją konkrečioje byloje. Šiame teismo pranešime nurodoma ginčo esmė, proceso šalys, bylos kategorija. Apie iš Lietuvos Respublikos mediatorių sąrašo parinktą ir paskirtą mediatorių Valstybės garantuojamos teisinės pagalbos tarnyba praneša teismui ne vėliau kaip per tris darbo dienas nuo mediatoriaus paskyrimo dienos.
 
 
 
 
-4. Teisminę mediaciją gali vykdyti mediatoriai, kurie yra teisėjai, įrašyti į Lietuvos Respublikos mediatorių sąrašą. Teisėjas, nagrinėdamas administracinę bylą, šalių sutikimu gali nuspręsti pats vykdyti mediaciją, o kai bylą nagrinėja teisėjų kolegija, teisėjų kolegija gali paskirti vieną iš kolegijos narių vykdyti mediaciją, jei jis yra mediatorius, arba parinkti ir skirti kitą mediatorių, kuris yra teisėjas, pagal galimybes atsižvelgęs (atsižvelgusi) į abiejų šalių suderintą nuomonę dėl mediatoriaus, kuris yra teisėjas, kandidatūros. Mediatorius skiriamas tik gavus jo rašytinį sutikimą. Ginčo šalių prašymu ar sutikimu gali būti skiriami keli mediatoriai.
+4. Mediatorius, paskirtas vykdyti teisminę mediaciją, per penkias darbo dienas nuo paskyrimo privalo susikurti mediatoriaus paskyrą Lietuvos teismų informacinės sistemos viešųjų elektroninių paslaugų posistemyje.
 
 
 
 
-5. Šio straipsnio 3 dalyje nurodyta nutartimi bylos nagrinėjimas atidedamas ir nustatomas tikslus kito teismo posėdžio laikas. Iki jo teisminė mediacija turi būti baigta vykdyti. Mediatoriaus teikimu terminas, kuriam buvo atidėtas bylos nagrinėjimas, gali būti pratęstas administracinę bylą nagrinėjančio teisėjo (teisėjų kolegijos) nutartimi. Šiuo atveju nustatomas naujas tikslus kito teismo posėdžio laikas.
+5. Kol vyksta teisminė mediacija, sustabdomi šiame ir kituose įstatymuose nustatyti skundų (prašymų, pareiškimų) padavimo ir (ar) bylų nagrinėjimo terminai. 
 
 
-
-
-6. Mediatorius, paskirtas vykdyti teisminę mediaciją, per penkias darbo dienas nuo paskyrimo privalo susikurti mediatoriaus paskyrą Lietuvos teismų informacinės sistemos Viešųjų elektroninių paslaugų posistemėje.
-
-
-
-
-7. Mediatorius skiriamas vykdyti teisminę mediaciją Teisminės mediacijos taisyklių, patvirtintų Teisėjų tarybos, nustatyta tvarka. Jeigu teisminę mediaciją vykdys administracinę bylą nagrinėjantis teisėjas (teisėjų kolegijos narys), jo sutikimas vykdyti teisminę mediaciją įforminamas nutartimi. Prieš duodamas sutikimą vykdyti teisminę mediaciją, mediatorius turi teisę gauti informaciją apie ginčo esmę, bylos šalis, bylos kategoriją.
-
-
-
-
-8. Mediatorius turi nusišalinti nuo ginčo sprendimo teisminės mediacijos būdu, jeigu egzistuoja šio įstatymo 44 straipsnio 2 dalies 1–4 punktuose nurodyti pagrindai.
-
-
-
-
-9. Paskirtam mediatoriui teisminės mediacijos laikotarpiu sudaromos sąlygos susipažinti su administracine byla arba mediatoriaus prašymu administracinė byla jam perduodama pasirašytinai. Mediatorius iki teismo nutartyje nustatyto administracinės bylos posėdžio laiko privalo grąžinti administracinę bylą teisėjui (teisėjų kolegijai).
-
-
-
-
-10. Teisminės mediacijos metu gali dalyvauti tik ginčo šalys, jų atstovai ir mediatorius. Ginčo šalių prašymu arba sutikimu teisminės mediacijos metu gali dalyvauti ir kiti asmenys.
-
-
-
-
-11. Teismai turi skirti patalpas teisminei mediacijai vykdyti. Ginčo šalių ir mediatoriaus susitarimu teisminė mediacija gali būti vykdoma ir kitose patalpose. Teisminės mediacijos metu gali būti naudojamos informacinės ir elektroninių ryšių technologijos.
-
-
-
-
-12. Bet kuri ginčo šalis gali pasitraukti iš teisminės mediacijos, nenurodydama pasitraukimo priežasčių. Tai neužkerta kelio ginčo šalims pakartotinai prašyti perduoti ginčą spręsti teisminės mediacijos būdu. 
-
-
-Papildyta straipsniu:
-Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
+Straipsnio pakeitimai:
+Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
  
 
 
