@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2020-11-04 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1872, i. k. 0941010ISTA000I-671
  
@@ -606,15 +606,23 @@ Nr. XII-855, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04859
 
 
 
-2. Valstybės miškų ūkio strategiją formuoja bei valstybines miškų ūkio programas rengia Aplinkos ministerija. Aplinkos ministerija, atlikdama miškų ūkio valstybinio valdymo funkcijas:
+2. Valstybės miškų ūkio politikos priemones tvirtina Vyriausybė nacionalinėse plėtros programose. Aplinkos ministerija, atlikdama miškų ūkio valstybinio valdymo funkcijas: 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3115, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15348
 
 
-1) organizuoja miškų ūkio strategijos bei valstybinių miškų ūkio plėtros programų rengimą;
+1) rengia nacionalines plėtros programas, kuriose suplanuojamos valstybės miškų ūkio politikos priemonės, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3115, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15348
+ 
 
 
 
 
-2) organizuoja miškingumo didinimo, miško genofondo, kraštovaizdžio ir biologinės įvairovės miškuose išsaugojimo, selekcijos ir sėklininkystės, miško išteklių naudojimo, kitų programų projektų rengimą ir koordinuoja šių programų įgyvendinimą;
+2) organizuoja miškingumo didinimo, miško genofondo, kraštovaizdžio ir biologinės įvairovės miškuose išsaugojimo, selekcijos ir sėklininkystės, miško išteklių naudojimo, kitų valstybės miškų ūkio politiką įgyvendinančių nacionalinių plėtros programų priemonių rengimą;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3115, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15348
+ 
 
 
 
@@ -2012,3 +2020,8 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 4 ir 4-1 straipsnių pakeitimo 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
 Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3115, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15348
+Lietuvos Respublikos miškų įstatymo Nr. I-671 5 straipsnio pakeitimo įstatymas
