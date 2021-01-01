@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-10-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-05-25
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -219,7 +219,10 @@ Nr. XII-2228, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00086
 
 
 
-29. Sveikatinimo veikla – asmens sveikatos priežiūra, visuomenės sveikatos priežiūra, medicinos priemonių (prietaisų) rinkos subjektų veikla, farmacinė ir kita veikla, kurios rūšis ir reikalavimus ją vykdantiems subjektams nustato sveikatos apsaugos ministras.
+29. Sveikatinimo veikla – asmens sveikatos priežiūra, visuomenės sveikatos priežiūra, papildomoji ir alternatyvioji sveikatos priežiūra, medicinos priemonių (prietaisų) rinkos subjektų veikla ir farmacinė veikla. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2772, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02007
+ 
 
 
 
@@ -370,6 +373,14 @@ Nr. XII-2228, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00086
 
 
 9) sveikatinimo veiklos sutarčių sudarymo tvarką ir sąlygas;
+
+
+
+
+91) papildomosios ir alternatyviosios sveikatos priežiūros veiklos vykdymo pagrindus; 
+Papildyta straipsnio punktu:
+Nr. XIII-2772, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02007
+ 
 
 
 
@@ -636,19 +647,26 @@ Lietuvos nacionalinės sveikatos sistemos sudarymo pagrindai yra:
 
 
 
-3) visų sveikatinimo veiklos išteklių integravimas į bendrą sistemą, jų planavimas ir naudojimas atsižvelgiant į nacionalinius sveikatinimo veiklos prioritetus;
+3) visų sveikatinimo veiklos išteklių integravimas į bendrą sistemą, jų planavimas ir naudojimas atsižvelgiant į nacionalinės sveikatinimo veiklos strateginius tikslus ir (arba) pažangos uždavinius; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
+ 
 
 
 
 
-4) asmens sveikatos priežiūros bei visuomenės sveikatos priežiūros integravimas į bendrą sistemą;
+4) asmens, visuomenės sveikatos priežiūros ir papildomosios ir alternatyviosios sveikatos priežiūros integravimas į bendrą sistemą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2772, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02007
+ 
 
 
 
 
-5) Lietuvos sveikatos strategijos, valstybės ir savivaldybių sveikatos programų įgyvendinimo užtikrinimas;
+5) Nacionaliniame pažangos plane nustatytų nacionalinės sveikatinimo veiklos strateginių tikslų ir (arba) pažangos uždavinių, valstybės ir savivaldybių sveikatos programų įgyvendinimo užtikrinimas; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1957, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16898
+Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
  
 
 
@@ -836,6 +854,14 @@ Nr. XI-766, 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
 
 
 
+21) papildomoji ir alternatyvioji sveikatos priežiūra; 
+Papildyta straipsnio punktu:
+Nr. XIII-2772, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02007
+ 
+
+
+
+
 3) farmacinė veikla;
 
 
@@ -859,7 +885,15 @@ Nr. XIII-3155, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15133
 
 
 
-2) mokamas asmens ir visuomenės sveikatos priežiūros paslaugas, už kurias jų gavėjai (juridiniai ir fiziniai asmenys) privalo sumokėti. Šių paslaugų sąrašą, kainas, kainų indeksavimo ir paslaugų teikimo tvarką tvirtina Sveikatos apsaugos ministerija.
+2) mokamas asmens ir visuomenės sveikatos priežiūros paslaugas, už kurias jų gavėjai (juridiniai ir fiziniai asmenys) privalo sumokėti. Šių paslaugų sąrašą, kainas, kainų indeksavimo ir paslaugų teikimo tvarką tvirtina Sveikatos apsaugos ministerija;
+
+
+
+
+3) papildomosios ir alternatyviosios sveikatos priežiūros paslaugas, už kurias jų gavėjai moka paslaugos teikėjo nustatytomis kainomis. 
+Papildyta straipsnio punktu:
+Nr. XIII-2772, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02007
+ 
 
 
 
@@ -1054,6 +1088,14 @@ Sveikatinimo veiklą sudaro:
 
 
 
+21) papildomoji ir alternatyvioji sveikatos priežiūra; 
+Papildyta straipsnio punktu:
+Nr. XIII-2772, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02007
+ 
+
+
+
+
 3) farmacinė veikla;
 
 
@@ -1090,7 +1132,10 @@ Nr. XII-2228, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00086
 
 
 
-2) asmens ir visuomenės sveikatos priežiūros prieinamumas, priimtinumas, teisumas ir tinkamumas;
+2) asmens, visuomenės, papildomosios ir alternatyviosios sveikatos priežiūros prieinamumas, priimtinumas, teisumas ir tinkamumas; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2772, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02007
+ 
 
 
 
@@ -1120,9 +1165,11 @@ Nr. X-1151, 2007-05-24, Žin., 2007, Nr. 64-2456 (2007-06-09)
 16 straipsnis. Teisė verstis sveikatinimo veikla 
 
 
-1. Teisę verstis tam tikros rūšies sveikatos priežiūros praktika turi fiziniai asmenys, įstatymų nustatyta tvarka gavę licenciją ir sertifikatą. Teisę verstis tam tikros rūšies farmacijos praktika turi fiziniai asmenys, įstatymų nustatyta tvarka gavę vaistininko praktikos licenciją ar įrašyti į Vaistininko padėjėjų (farmakotechnikų) sąrašą. 
+1. Teisę verstis asmens sveikatos priežiūros praktika, papildomąja ir alternatyviąja sveikatos priežiūra ir visuomenės sveikatos priežiūros atitinkamos rūšies veikla turi fiziniai asmenys, įstatymų nustatytais atvejais gavę atitinkamą licenciją (ar pažymėjimą). Teisę verstis farmacijos praktika Lietuvos Respublikos farmacijos įstatyme nustatytais atvejais turi fiziniai asmenys, įstatymų nustatyta tvarka gavę vaistininko praktikos licenciją ar įrašyti į Vaistininko padėjėjų (farmakotechnikų) sąrašą.
 Straipsnio dalies pakeitimai:
 Nr. XII-2228, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00086
+Nr. XIII-2772, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02007
+Nr. XIII-3224, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15762
  
 
 
@@ -2150,23 +2197,24 @@ prioritetai
 46 straipsnis. Sveikatinimo veiklos planavimas
 
 
-1. Seimas Vyriausybės teikimu tvirtina Lietuvos sveikatos strategiją, kurioje nurodomi sveikatinimo veiklos tikslai, valstybės siekiamo sveikatos lygio rodikliai ir sveikatinimo veiklos strategijos jiems pasiekti. 
+1. Nacionalinės sveikatinimo veiklos vystymosi kryptis nustato Seimas, tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus. Nacionalinės sveikatinimo veiklos strateginiai tikslai ir (arba) pažangos uždaviniai, valstybės siekiamo sveikatos lygio rodikliai nustatomi Vyriausybės tvirtinamame Nacionaliniame pažangos plane.
 
 
 
 
-2. Lietuvos sveikatos strategijoje nustatytiems uždaviniams įgyvendinti Vyriausybė, ministerijos, kitos Vyriausybės įstaigos, savivaldybės organizuoja valstybės ir savivaldybių sveikatos programų ir įstatymų nustatytų planavimo dokumentų rengimą bei jų įgyvendinimą arba numato šių uždavinių įgyvendinimo priemones kitose socialinio ir ekonominio plėtojimo programose.
+2. Nacionaliniame pažangos plane nustatytiems nacionalinės sveikatinimo veiklos pažangos uždaviniams įgyvendinti Vyriausybė tvirtina nacionalines plėtros programas, kuriose suplanuojamos priemonės šiems uždaviniams įgyvendinti.
 
 
 
 
-3. Lietuvos sveikatos strategijos įgyvendinimo priemonių rengimo, finansavimo, įgyvendinimo ir kontrolės tvarką nustato sveikatos apsaugos ministras.
+3. Kitos Vyriausybės įstaigos, savivaldybės, prisidedančios įgyvendinant nacionalinės sveikatinimo veiklos strateginius tikslus ir (arba) pažangos uždavinius, rengia arba dalyvauja rengiant pažangos uždaviniams įgyvendinti skirtų nacionalinių plėtros programų priemones. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-766, 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
 Straipsnio pakeitimai:
 Nr. XII-1957, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16898
+Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
  
 
 
@@ -2370,16 +2418,15 @@ SVEIKATINIMO VEIKLOS VALSTYBINIO VALDYMO KITI YPATUMAI
  
 
 
-50 straipsnis. Sveikatos priežiūros ir farmacijos specialistų profesinės pareigos, teisės 
-ir atsakomybė 
+50 straipsnis. Sveikatos priežiūros ir farmacijos specialistų profesinės pareigos, teisės ir atsakomybė
 
 
-1. Pagrindines profesines sveikatos priežiūros ir farmacijos specialistų pareigas, teises, jų praktikos ribojimo tvarką, atsakomybę už padarytą žalą sveikatai nustato Medicinos praktikos įstatymas, Odontologijos praktikos įstatymas, Slaugos praktikos įstatymas, Farmacijos įstatymas, Žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas, Pacientų teisių ir žalos sveikatai atlyginimo įstatymas, kiti įstatymai ir teisės aktai.
+1. Pagrindines profesines sveikatos priežiūros ir farmacijos specialistų pareigas, teises, jų praktikos ribojimo tvarką, atsakomybę už padarytą žalą sveikatai nustato Medicinos praktikos įstatymas, Odontologijos praktikos ir burnos priežiūros praktikos įstatymas, Slaugos praktikos ir akušerijos praktikos įstatymas, Asmens sveikatos priežiūros praktikos įstatymas, Farmacijos įstatymas, Žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas, Papildomosios ir alternatyviosios sveikatos priežiūros įstatymas, Pacientų teisių ir žalos sveikatai atlyginimo įstatymas, šis ir kiti įstatymai ir teisės aktai.
 
 
 
 
-2. Sveikatos priežiūros ir farmacijos specialistai gali praktikuoti tik pagal įgytą specialybę. Įstatymų nustatytais atvejais arba kai asmens sveikatos priežiūros specialybė įtraukta į Lietuvos Respublikos Vyriausybės reglamentuojamų profesijų sąrašą, specialistai gali praktikuoti tik gavę licenciją.
+2. Asmens, papildomosios ir alternatyviosios sveikatos priežiūros ir farmacijos specialistai gali verstis asmens sveikatos priežiūros praktika, papildomąja ir alternatyviąja sveikatos priežiūra ar farmacijos praktika tik pagal įgytą atitinkamą asmens, papildomosios ir alternatyviosios sveikatos priežiūros ar farmacijos specialisto profesinę kvalifikaciją. 
 
 
 
@@ -2390,6 +2437,8 @@ ir atsakomybė
 Straipsnio pakeitimai:
 Nr. IX-2150, 2004-04-20, Žin., 2004, Nr. 68-2367 (2004-04-29)
 Nr. X-1505, 2008-04-22, Žin., 2008, Nr. 50-1850 (2008-04-30)
+Straipsnio pakeitimai:
+Nr. XIII-3224, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15762
  
 
 
@@ -2435,7 +2484,10 @@ ir jo finansavimas
 
 
 
-3. Asmens ar visuomenės sveikatos priežiūros specialistams draudžiama, išskyrus įstatymuose numatytus atvejus, pažeisti asmens privataus gyvenimo ar asmens sveikatos informacijos, kuri sudaro asmens sveikatos paslaptį ir kurią jie sužinojo eidami profesines pareigas, konfidencialumą. 
+3. Asmens, visuomenės, papildomosios ir alternatyviosios sveikatos priežiūros specialistams draudžiama, išskyrus įstatymuose numatytus atvejus, pažeisti asmens privataus gyvenimo ar asmens sveikatos informacijos, kuri sudaro asmens sveikatos paslaptį ir kurią jie sužinojo eidami profesines pareigas, konfidencialumą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2772, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02007
+ 
 
 
 
@@ -3415,7 +3467,10 @@ SVEIKATINIMO VEIKLOS VALDYMO SUBJEKTAI IR JŲ KOMPETENCIJA
 Vyriausybė tvarko sveikatinimo reikalus ir reguliuoja sveikatinimo veiklą:
 
 
-1) tvirtina ir užtikrina valstybinių sveikatos programų įgyvendinimą;
+1) Nacionaliniame pažangos plane nustato nacionalinės sveikatinimo veiklos strateginius tikslus ir (arba) pažangos uždavinius ir nacionalines plėtros programas, kuriose suplanuojamos pažangos uždaviniams įgyvendinti skirtos priemonės; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
+ 
 
 
 
@@ -3472,15 +3527,19 @@ reikalams tvarkyti
 
 
 
-2) analizuoja gyventojų sveikatos būklę ir jos raidos prognozę, prisideda nustatant sveikatinimo veiklos tikslus, valstybės siekiamo sveikatos lygio rodiklius ir įgyvendinant Lietuvos sveikatos strategiją;
+2) analizuoja gyventojų sveikatos būklę ir jos raidos prognozę, dalyvauja rengiant Nacionalinį pažangos planą dėl nacionalinės sveikatinimo veiklos strateginių tikslų ir (arba) pažangos uždavinių, valstybės siekiamo sveikatos lygio rodiklių nustatymo; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1957, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16898
+Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
  
 
 
 
 
-3) rengia valstybines sveikatos programas;
+3) rengia nacionalinės sveikatinimo veiklos pažangos uždavinius įgyvendinančias nacionalines plėtros programas, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
+ 
 
 
 
@@ -3696,9 +3755,10 @@ Nr. XII-462, 2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
 Savivaldybės administracijos direktorius:
 
 
-1) organizuoja Lietuvos sveikatos strategijos, valstybinių sveikatos programų įgyvendinimą, savivaldybės sveikatos priežiūros plėtojimo programos, kitų savivaldybės kompleksinių ir tikslinių sveikatos programų projektų rengimą ir savivaldybės tarybos patvirtintų programų, sveikatinimo veiklos įstatymų, kitų teisės aktų įgyvendinimą savivaldybės teritorijoje;
+1) organizuoja nacionalinės sveikatinimo veiklos pažangos uždavinius įgyvendinančių nacionalinių plėtros programų priemonių įgyvendinimą, savivaldybės sveikatos priežiūros plėtojimo programos, kitų savivaldybės kompleksinių ir tikslinių sveikatos programų projektų rengimą ir savivaldybės tarybos patvirtintų programų, sveikatinimo veiklos įstatymų, kitų teisės aktų įgyvendinimą savivaldybės teritorijoje; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1957, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16898
+Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
  
 
 
@@ -3791,7 +3851,10 @@ klausimais nustatymas
 4. Savivaldybės gydytojas:
 
 
-1) savivaldybės teritorijoje organizuoja ir dalyvauja įgyvendinant Lietuvos sveikatos programą, kitas valstybines sveikatinimo programas;
+1) savivaldybės teritorijoje dalyvauja įgyvendinant nacionalinės sveikatinimo veiklos pažangos uždavinius įgyvendinančių nacionalinių plėtros programų priemones; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
+ 
 
 
 
@@ -3952,7 +4015,10 @@ Nr. XIII-718, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18150
 
 
 
-6) teikia išvadas dėl valstybės siekiamo sveikatos lygio rodiklių, sveikatinimo veiklos tikslų, Lietuvos sveikatos strategijos ir kitų valstybinių sveikatos programų, pagal kompetenciją analizuoja ir vertina Lietuvos sveikatos strategijos įgyvendinimą;
+6) teikia išvadas dėl Nacionaliniame pažangos plane nustatytų sveikatinimo veiklos strateginių tikslų ir (arba) pažangos uždavinių, valstybės siekiamo sveikatos lygio rodiklių, pažangos uždavinius įgyvendinančių nacionalinių plėtros programų ir jose suplanuotų priemonių, pagal kompetenciją analizuoja ir vertina nacionalinės sveikatinimo veiklos strateginių tikslų ir (arba) pažangos uždavinių įgyvendinimo pažangą;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
+ 
 
 
 
@@ -4056,7 +4122,10 @@ Vyriausybės
 4. Valstybinė sveikatos reikalų komisija prie Lietuvos Respublikos Vyriausybės turi teisę:
 
 
-1) gauti iš Vyriausybės, ministerijų, kitų Vyriausybės įstaigų, savivaldybių valdymo organų, įmonių, įstaigų, organizacijų įstatymų, kitų teisės aktų, savivaldybės strateginio plėtros ir (ar) savivaldybės strateginio veiklos planų, programų projektus bei kitą informaciją, reikalingą šiame įstatyme ir komisijos nuostatuose nustatytoms funkcijoms vykdyti;
+1) gauti iš Vyriausybės, ministerijų, kitų Vyriausybės įstaigų, savivaldybių valdymo organų, įmonių, įstaigų, organizacijų įstatymų, kitų teisės aktų, savivaldybės strateginio plėtros ir (ar) savivaldybės strateginio veiklos planų projektus, informaciją apie nacionalinių plėtros programų priemones, jas įgyvendinančius projektus bei kitą informaciją, reikalingą šiame įstatyme ir komisijos nuostatuose nustatytoms funkcijoms vykdyti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
+ 
 
 
 
@@ -4704,7 +4773,10 @@ veikloje
 
 
 
-3) įstatymų nustatyta tvarka steigti asmens ar visuomenės sveikatos priežiūros įstaigas, įkurti savo padalinius, atliekančius sveikatos priežiūrą;
+3) įstatymų nustatyta tvarka steigti asmens ar visuomenės, ar papildomosios ir alternatyviosios sveikatos priežiūros įstaigas, įkurti savo padalinius, atliekančius sveikatos priežiūrą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2772, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02007
+ 
 
 
 
@@ -5180,3 +5252,18 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 38-1 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3155, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15133
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 11 ir 53 straipsnių pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2772, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02007
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 6, 11, 14, 15, 16, 50, 52 ir 86 straipsnių pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3224, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15762
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 6, 11, 14, 15, 16, 50, 52 ir 86 straipsnių pakeitimo įstatymo Nr. XIII-2772 7 ir 8 straipsnių pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 6, 46, 60, 61, 64, 65, 67 ir 68 straipsnių pakeitimo įstatymas
