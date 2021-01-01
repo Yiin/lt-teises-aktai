@@ -20,7 +20,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EDDCB615126E"
 
 
 
-Suvestinė redakcija nuo 2020-11-20 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-03-23
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 99-1958, i. k. 0941010ISTA000I-693
  
@@ -566,12 +566,13 @@ Nr. XII-996, 2014-07-10, paskelbta TAR 2014-07-15, i. k. 2014-10249 (2014-07-15)
 12 straipsnis. Pareigūnų ir karių valstybinių pensijų skyrimas 
 
 
-1. Asmenims, paskiausiai tarnavusiems vidaus reikalų, vidaus tarnybos sistemose, Lietuvos Respublikos prokuratūroje, Vadovybės apsaugos tarnyboje, Lietuvos Respublikos muitinėje, Kalėjimų departamente ar jam pavaldžiose įstaigose bei valstybės įmonėse, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria ir moka Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Socialinės apsaugos ir darbo ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų. Asmenims, paskiausiai tarnavusiems Specialiųjų tyrimų tarnyboje, Valstybės saugumo departamento sistemoje, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria atitinkamai Specialiųjų tyrimų tarnyba ar Valstybės saugumo departamentas, o moka Valstybinio socialinio draudimo fondo valdybos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Socialinės apsaugos ir darbo ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų. Asmenims, paskiausiai tarnavusiems krašto apsaugos sistemoje, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria Krašto apsaugos ministerija, o moka Valstybinio socialinio draudimo fondo valdybos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Krašto apsaugos ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų. 
+1. Asmenims, paskiausiai tarnavusiems vidaus reikalų, vidaus tarnybos sistemose, Lietuvos Respublikos prokuratūroje, Vadovybės apsaugos tarnyboje, Lietuvos Respublikos muitinėje, Kalėjimų departamente ar jam pavaldžiose įstaigose bei valstybės įmonėse, Valstybės saugumo departamente, Specialiųjų tyrimų tarnyboje, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria ir moka Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinio socialinio draudimo fondo valdyba) įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Socialinės apsaugos ir darbo ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų. Asmenims, paskiausiai tarnavusiems krašto apsaugos sistemoje, pareigūnų ir karių valstybines pensijas ir šio įstatymo 15 straipsnyje nurodytą priedą skiria ir moka Valstybinio socialinio draudimo fondo valdybos įgaliotos Valstybinio socialinio draudimo fondo administravimo įstaigos iš Krašto apsaugos ministerijai šiam tikslui skiriamų valstybės biudžeto asignavimų. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1824, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10575
 Nr. XIII-839, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20327
 Nr. XIII-2789, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02017
 Nr. XIII-2915, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10916
+Nr. XIII-3185, 2020-06-26, paskelbta TAR 2020-06-29, i. k. 2020-14371
  
 
 
