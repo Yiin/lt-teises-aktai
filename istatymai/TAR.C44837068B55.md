@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2020-07-10 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-05-27
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -1225,7 +1225,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 10 straipsnis. Kliento ir naudos gavėjo tapatybės nustatymo reikalavimai, kai tapatybė nustatoma klientui dalyvaujant fiziškai 
 
 
-1. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami kliento – fizinio asmens tapatybę, kai ji nustatoma jam dalyvaujant fiziškai, reikalauja iš kliento – fizinio asmens Lietuvos Respublikos ar užsienio valstybės asmens tapatybės dokumento arba leidimo gyventi Lietuvos Respublikoje, kuriame yra šie duomenys, patvirtinantys jo tapatybę:
+1. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami kliento – fizinio asmens tapatybę, kai ji nustatoma jam dalyvaujant fiziškai, reikalauja iš kliento – fizinio asmens Lietuvos Respublikos ar užsienio valstybės asmens tapatybės dokumento arba leidimo gyventi Lietuvos Respublikoje, arba 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyvos 2006/126/EB dėl vairuotojo pažymėjimų (nauja redakcija) I priede nustatytus reikalavimus atitinkančio Europos ekonominės erdvės valstybėje išduoto vairuotojo pažymėjimo (toliau – tapatybę patvirtinantis dokumentas), kuriame yra šie duomenys, patvirtinantys jo tapatybę:
 
 
 1) vardas (vardai);
@@ -1238,7 +1238,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-3) asmens kodas (užsieniečiui – gimimo data (jeigu yra – asmens kodas ar kita šiam asmeniui suteikta unikali simbolių seka, skirta asmeniui identifikuoti, leidimo gyventi Lietuvos Respublikoje numeris ir galiojimo laikas, jo išdavimo vieta ir data (taikoma užsieniečiams);
+3) asmens kodas (užsieniečiui – gimimo data (jeigu yra – asmens kodas ar kita šiam asmeniui suteikta unikali simbolių seka, skirta asmeniui identifikuoti), leidimo gyventi Lietuvos Respublikoje numeris ir galiojimo laikas, jo išdavimo vieta ir data (taikoma užsieniečiams);
 
 
 
@@ -1248,14 +1248,25 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-5) parašas (išskyrus atvejus, kai asmens tapatybės dokumente jis neprivalomas);
+5) parašas (išskyrus atvejus, kai tapatybę patvirtinančiame dokumente jis neprivalomas);
 
 
 
 
-6) pilietybė (jeigu asmuo be pilietybės – valstybę, kuri išdavė asmens tapatybę patvirtinantį dokumentą).
+6) pilietybė (išskyrus atvejus, kai tapatybę patvirtinančiame dokumente ji neprivaloma), jeigu asmuo be pilietybės, – valstybė, kuri išdavė asmens tapatybę patvirtinantį dokumentą. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
+ 
+
+
+
+
+11. Kai tapatybę patvirtinančiame dokumente duomenys apie kliento pilietybę nenurodomi, finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami kliento – fizinio asmens tapatybę, kai ji nustatoma jam dalyvaujant fiziškai, privalo pareikalauti iš kliento duomenų apie pilietybę.
+Papildyta straipsnio dalimi:
+Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
+ 
 
 
 
@@ -1381,19 +1392,25 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 4) naudojant elektronines priemones, leidžiančias tiesioginį vaizdo perdavimą vienu iš šių būdų:
 
 
-a) tiesioginio vaizdo perdavimo metu užfiksuojamas tapatybę patvirtinančio dokumento arba jį atitinkančio leidimo gyventi Lietuvos Respublikoje originalas ir kliento tapatybė patvirtinama naudojantis bent pažangiuoju elektroniniu parašu, atitinkančiu Reglamento (ES) Nr. 910/2014 26 straipsnyje nustatytus reikalavimus;
+a) tiesioginio vaizdo perdavimo metu užfiksuojamas tapatybę patvirtinančio dokumento originalas ir kliento tapatybė patvirtinama naudojantis bent pažangiuoju elektroniniu parašu, atitinkančiu Reglamento (ES) Nr. 910/2014 26 straipsnyje nustatytus reikalavimus;
 
 
 
 
-b) tiesioginio vaizdo perdavimo metu užfiksuojamas kliento veido atvaizdas ir kliento parodytas tapatybę patvirtinančio dokumento arba jį atitinkančio leidimo gyventi Lietuvos Respublikoje originalas;
+b) tiesioginio vaizdo perdavimo metu užfiksuojamas kliento veido atvaizdas ir kliento parodytas tapatybę patvirtinančio dokumento originalas; 
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
+ 
 
 
 
 
-
-
-5) prieš pradedant naudotis finansų įstaigos ar kito įpareigotojo subjekto paslaugomis, į jo mokėjimo sąskaitą iš kliento vardu kredito įstaigoje, kuri yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingų institucijų prižiūrima dėl šių reikalavimų laikymosi, turimos sąskaitos atliekamas mokėjimo pavedimas ir pateikiama Lietuvos Respublikos teisės aktų nustatyta tvarka patvirtinta popierinė asmens tapatybės dokumento kopija. Asmens tapatybės dokumento kopijos tvirtinimo ir pateikimo tvarką nustato Finansinių nusikaltimų tyrimo tarnyba.
+5) prieš pradedant naudotis finansų įstaigos ar kito įpareigotojo subjekto paslaugomis, į jo mokėjimo sąskaitą iš kliento vardu kredito įstaigoje, kuri yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingų institucijų prižiūrima dėl šių reikalavimų laikymosi, turimos sąskaitos atliekamas mokėjimo pavedimas ir pateikiama Lietuvos Respublikos teisės aktų nustatyta tvarka patvirtinta popierinė tapatybę patvirtinančio dokumento kopija. Tapatybę patvirtinančio dokumento kopijos tvirtinimo ir pateikimo tvarką nustato Finansinių nusikaltimų tyrimo tarnyba. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
+ 
 
 
 
@@ -1423,7 +1440,10 @@ b) tiesioginio vaizdo perdavimo metu užfiksuojamas kliento veido atvaizdas ir k
 
 
 
-2) šio straipsnio 1 dalies 2 ir 3 punktuose nurodytais atvejais gauti 10 straipsnio 1 dalies 1, 2, 3 ir 6 punktuose, 10 straipsnio 2 dalies 1, 2, 3 punktuose ir 12 straipsnio 2 dalyje nurodytus duomenis. 
+2) šio straipsnio 1 dalies 2 ir 3 punktuose nurodytais atvejais gauti šio įstatymo 10 straipsnio 1 dalies 1, 2, 3 ir 6 punktuose, 10 straipsnio 11 dalyje, 10 straipsnio 2 dalies 1, 2, 3 punktuose ir 12 straipsnio 2 dalyje nurodytus duomenis.
+Straipsnio punkto pakeitimai:
+Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -4374,3 +4394,8 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 48, 49, 51 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 7-1, 14-1, 25-1, 25-2 straipsniais įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 10 ir 11 straipsnių pakeitimo įstatymas
