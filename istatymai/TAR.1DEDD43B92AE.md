@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2020-11-21 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 89-1706, i. k. 0941010ISTA000I-621
  
@@ -342,10 +342,10 @@ Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
 6 straipsnis. Išmoka vaikui 
 
 
-1. Kiekvienam vaikui nuo gimimo dienos iki 18 metų arba iki nepilnametis vaikas pripažįstamas emancipuotu ar sudaro santuoką ir emancipuotam ar susituokusiam nepilnamečiam vaikui arba vyresniam kaip 18 metų asmeniui, jeigu jie mokosi pagal bendrojo ugdymo programą (įskaitant ir profesinio mokymo įstaigose besimokančius pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa, iki baigs bendrojo ugdymo programą), bet ne ilgiau, iki jiems sukaks 21 metai, skiriama ir mokama 1,54 bazinės socialinės išmokos dydžio išmoka per mėnesį.
-1 dalies redakcija nuo 2021-01-01:
-1. Kiekvienam vaikui nuo gimimo dienos iki 18 metų arba iki nepilnametis vaikas pripažįstamas emancipuotu ar sudaro santuoką ir emancipuotam ar susituokusiam nepilnamečiam vaikui arba vyresniam kaip 18 metų asmeniui, jeigu jie mokosi pagal bendrojo ugdymo programą (įskaitant ir profesinio mokymo įstaigose besimokančius pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa, iki baigs bendrojo ugdymo programą), bet ne ilgiau, iki jiems sukaks 21 metai, skiriama ir mokama 1,8 bazinės socialinės išmokos dydžio išmoka per mėnesį.
-TAR pastaba. Jeigu išmoka vaikui paskirta iki įstatymo Nr. XIII-2693 2 straipsnio 2 dalies įsigaliojimo (2021-01-01) ir jos mokėjimo laikotarpis nepasibaigęs, įsigaliojus šio įstatymo 2 straipsnio 2 daliai, išmokos vaikui mokėjimas tęsiamas, mokant šio įstatymo 2 straipsnio 2 dalyje išdėstytoje Išmokų vaikams įstatymo 6 straipsnio 1 dalyje nustatyto dydžio išmoką vaikui.
+1. Kiekvienam vaikui nuo gimimo dienos iki 18 metų arba iki nepilnametis vaikas pripažįstamas emancipuotu ar sudaro santuoką ir emancipuotam ar susituokusiam nepilnamečiam vaikui arba vyresniam kaip 18 metų asmeniui, jeigu jie mokosi pagal bendrojo ugdymo programą (įskaitant ir profesinio mokymo įstaigose besimokančius pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa, iki baigs bendrojo ugdymo programą), bet ne ilgiau, iki jiems sukaks 21 metai, skiriama ir mokama 1,75 bazinės socialinės išmokos dydžio išmoka per mėnesį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-129, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28985
+ 
 
 
 
@@ -463,9 +463,11 @@ Nr. XIII-3381, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24526
 9 straipsnis. Išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai
 
 
-1. Auginančiam vaiką vienam iš vaiko tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar vaiko globėjui mokymosi ar studijų laikotarpiu ir 12 mėnesių po mokymosi ar studijų baigimo dienos, jeigu jis mokosi (mokėsi) pagal formaliojo profesinio mokymo programą (įskaitant ir profesinio mokymo įstaigose besimokančius pagal bendrojo ugdymo programą kartu su profesinio mokymo programa nuo mokymosi pagal profesinio mokymo programą pradžios iki jos pabaigos) ar studijuoja (studijavo) aukštojoje mokykloje pagal nuolatinės studijų formos programą, iki jam sukaks 26 metai, arba jeigu jis studijuoja (studijavo) doktorantūroje ar rezidentūroje, iki jam sukaks 30 metų (įskaitant ir akademinių atostogų dėl nėštumo ar vaiko priežiūros laikotarpį), ir jeigu pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymą jis neturi (neturėjo) teisės gauti vaiko priežiūros išmokos, skiriama 6 bazinių socialinių išmokų dydžio išmoka per mėnesį. Ši išmoka mokama nuo vaiko gimimo dienos, iki vaikui sukaks 2 metai. 
+1. Auginančiam vaiką vienam iš vaiko tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar vaiko globėjui mokymosi ar studijų laikotarpiu ir 12 mėnesių po mokymosi ar studijų baigimo dienos, jeigu jis mokosi (mokėsi) pagal formaliojo profesinio mokymo programą (įskaitant ir profesinio mokymo įstaigose besimokančius pagal bendrojo ugdymo programą kartu su profesinio mokymo programa nuo mokymosi pagal profesinio mokymo programą pradžios iki jos pabaigos) ar studijuoja (studijavo) aukštojoje mokykloje pagal nuolatinės studijų formos programą arba doktorantūroje ar rezidentūroje (įskaitant ir akademinių atostogų dėl nėštumo ar vaiko priežiūros laikotarpį) ir jeigu pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymą jis neturi (neturėjo) teisės gauti vaiko priežiūros išmokos, skiriama 6 bazinių socialinių išmokų dydžio išmoka per mėnesį. Ši išmoka mokama nuo vaiko gimimo dienos, iki vaikui sukaks 2 metai.
+TAR pastaba. Jeigu vaikas gimė iki įstatymo Nr. XIV-83 įsigaliojimo (2021-01-01) ir jam nėra sukakę 2 metai, išmoka besimokančio ar studijuojančio asmens vaiko priežiūrai vaiką auginančiam vienam iš vaiko tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar vaiko globėjui skiriama ir mokama nuo šio įstatymo įsigaliojimo, iki vaikui sukaks  2 metai, jeigu asmuo atitinka Lietuvos Respublikos išmokų vaikams įstatymo 9 straipsnyje nustatytus reikalavimus.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2490, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17222
+Nr. XIV-83, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28364
  
 
 
@@ -1364,7 +1366,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                        ALGIRDAS BRAZAUSKAS
  
 
 
@@ -1639,3 +1641,13 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 17 ir 18 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3381, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24526
 Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 6, 7, 8 ir 9 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-83, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28364
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 9 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-129, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28985
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 2, 6, 10, 15, 17, 18, 20 ir 21 straipsnių pakeitimo įstatymo Nr. XIII-2693 2 straipsnio pakeitimo įstatymas
