@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/5468a25089ef11e4a98a9f2247652cf4"
 
 # Lietuvos Respublikos kibernetinio saugumo įstatymas
 
-Suvestinė redakcija nuo 2018-07-04 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-27
  
 Įstatymas paskelbtas: TAR 2014-12-23, i. k. 2014-20553
  
@@ -148,8 +148,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-19. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos informacinės visuomenės paslaugų įstatyme, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos žvalgybos įstatyme, Lietuvos Respublikos kriminalinės žvalgybos įstatyme, Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme ir 2012 m. spalio 25 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1025/2012 dėl Europos standartizacijos, kuriuo iš dalies keičiamos Tarybos direktyvos 89/686/EEB ir 93/15/EEB ir Europos Parlamento ir Tarybos direktyvos 94/9/EB, 94/25/EB, 95/16/EB, 97/23/EB, 98/34/EB, 2004/22/EB, 2007/23/EB, 2009/23/EB ir 2009/105/EB ir panaikinamas Tarybos sprendimas Nr. 87/95/EEB ir Europos Parlamento ir Tarybos sprendimas Nr. 1673/2006/EB (OL 2012 L 316, p. 12). 
- 
+19. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos informacinės visuomenės paslaugų įstatyme, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme, Lietuvos Respublikos žvalgybos įstatyme, Lietuvos Respublikos kriminalinės žvalgybos įstatyme, Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme, Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme ir 2012 m. spalio 25 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1025/2012 dėl Europos standartizacijos, kuriuo iš dalies keičiamos Tarybos direktyvos 89/686/EEB ir 93/15/EEB ir Europos Parlamento ir Tarybos direktyvos 94/9/EB, 94/25/EB, 95/16/EB, 97/23/EB, 98/34/EB, 2004/22/EB, 2007/23/EB, 2009/23/EB ir 2009/105/EB ir panaikinamas Tarybos sprendimas Nr. 87/95/EEB ir Europos Parlamento ir Tarybos sprendimas Nr. 1673/2006/EB (OL 2012 L 316, p. 12). 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3114, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15325
  
 
 
@@ -197,8 +198,6 @@ BENDROSIOS NUOSTATOS
 
 2. Taikant kibernetinį saugumą reglamentuojančias teisės normas, turi būti atsižvelgiama į visus šio straipsnio 1 dalyje nurodytus principus. Šie principai turi būti derinami tarpusavyje, nė vienam iš jų iš anksto nesuteikiama pirmenybė.
  
- 
- 
 
 
 
@@ -215,7 +214,10 @@ KIBERNETINIO SAUGUMO POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 4 straipsnis. Kibernetinio saugumo politikos formavimo ir įgyvendinimo institucijos
 
 
-1. Kibernetinio saugumo politikos strateginius tikslus, prioritetus ir jiems pasiekti būtinas priemones nustato Lietuvos Respublikos Vyriausybė.
+1. Kibernetinio saugumo politikos strateginius tikslus, pažangos uždavinius ir jiems pasiekti būtinas priemones nustato Lietuvos Respublikos Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3114, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15325
+ 
 
 
 
@@ -239,7 +241,10 @@ KIBERNETINIO SAUGUMO POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS
 Vyriausybė:
 
 
-1) tvirtina Nacionalinę kibernetinio saugumo strategiją;
+1) nustato kibernetinio saugumo politikos strateginius tikslus ir (arba) pažangos uždavinius tvirtindama Nacionalinį pažangos planą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3114, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15325
+ 
 
 
 
@@ -280,7 +285,18 @@ Vyriausybė:
 Krašto apsaugos ministerija:
 
 
-1) koordinuoja Nacionalinės kibernetinio saugumo strategijos rengimą, teikia ją Vyriausybei tvirtinti;
+1) dalyvauja rengiant Nacionalinį pažangos planą dėl kibernetinio saugumo politikos strateginių tikslų ir (arba) pažangos uždavinių nustatymo; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3114, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15325
+ 
+
+
+
+
+11) rengia kibernetinio saugumo politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą; 
+Papildyta straipsnio punktu:
+Nr. XIII-3114, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15325
+ 
 
 
 
@@ -791,3 +807,8 @@ Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 1, 2, 4, 6, 10,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1299, 2018-06-27, paskelbta TAR 2018-07-03, i. k. 2018-11180
 Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3114, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15325
+Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 2, 4, 5 ir 6 straipsnių pakeitimo įstatymas
