@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.DBF4203C51A1"
 
 # Lietuvos Respublikos nacionalinės teismų administracijos įstatymas
 
-Suvestinė redakcija nuo 2019-01-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 31-1130, i. k. 1021010ISTA00IX-787
  
@@ -166,12 +166,18 @@ Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010IST
 
 
 
-19) renka, analizuoja ir apibendrina valstybės investicijų teismams poreikius, teikia informaciją Teisėjų tarybai dėl teismų siūlomų investicijų projektų (investicijų programų);
+19) renka, analizuoja ir apibendrina investicijų teismams poreikius, teikia informaciją Teisėjų tarybai dėl teismų siūlomų investicijų projektų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3134, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15379
+ 
 
 
 
 
-20) sudaro Nacionalinės teismų administracijos strateginius veiklos planus, vykdomų valstybės biudžeto programų projektus, programų sąmatų projektus ir investicijų projektus (investicijų programas); 
+20) sudaro Nacionalinės teismų administracijos strateginius veiklos planus, vykdomų valstybės biudžeto programų projektus, programų sąmatų projektus ir investicijų projektus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3134, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15379
+ 
 
 
 
@@ -192,6 +198,14 @@ Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010IST
 23) valdo Valstybės investicijų programoje numatytų investicijų, skirtų teismams, asignavimus, rengia ir įgyvendina teismų investicijų projektus; 
 Papildyta straipsnio punktu:
 Nr. XII-296, 2013-05-14, Žin., 2013, Nr. 57-2840 (2013-06-01), i. k. 1131010ISTA0XII-296
+ 
+
+
+
+
+231) rengia ir įgyvendina nacionalinių plėtros programų priemones ir jų įgyvendinimo projektus, kuriuos vykdo teismai, valdo šioms priemonėms ir projektams skirtus asignavimus;
+Papildyta straipsnio punktu:
+Nr. XIII-3134, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15379
  
 
 
@@ -362,16 +376,19 @@ Nr. XII-631, 2013-12-03, Žin., 2013, Nr. 127-6447 (2013-12-12), i. k. 1131010IS
 
 
 Nacionalinės teismų administracijos finansinės veiklos vertinimą atlieka įgaliotos valstybės institucijos įstatymų ir kitų teisės aktų nustatyta tvarka.
+
+
+
+
+
+
  
-
-
-
-
-
-
+ 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+ 
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
 
 
  
@@ -403,3 +420,8 @@ Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 4 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1375, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12044
 Lietuvos Respublikos nacionalinės teismų administracijos įstatymo Nr. IX-787 1 ir 4 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3134, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15379
+Lietuvos Respublikos nacionalinės teismų administracijos įstatymo Nr. IX-787 2 straipsnio pakeitimo įstatymas
