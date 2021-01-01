@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2020-11-14 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-01-31
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -590,13 +590,14 @@ Nr. XIII-1843, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21872
 12 straipsnis. Mažai pavojinga veika
 
 
-1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 79 straipsnio 5 dalyje, 108 straipsnyje, 124 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas. 
+1. Jeigu padaryta mažai pavojinga administracinio nusižengimo požymių turinti veika ir šio kodekso 22 straipsnio 2 dalies 1 punkte nurodytą administracinės nuobaudos paskirtį galima įgyvendinti netraukiant asmens administracinėn atsakomybėn, teisę pradėti administracinio nusižengimo teiseną turintis pareigūnas gali jos nepradėti ir pareikšti asmeniui žodinę pastabą. Šio straipsnio nuostatos gali būti taikomos asmeniui padarius šio kodekso 79 straipsnio 5 dalyje, 108 straipsnyje, 124 straipsnio 1 dalyje, 126 straipsnio 1 dalyje, 146 straipsnio 1 dalyje, 152 straipsnio 1 dalyje, 153 straipsnio 1 dalyje, 154 straipsnio 1 dalyje, 155 straipsnio 1 dalyje, 161 straipsnio 1 dalyje, 164 straipsnio 1 dalyje, 187 straipsnio 1 ir 2 dalyse, 189 straipsnio 1 dalyje, 192 straipsnio 1 dalyje, 205 straipsnio 1 dalyje, 212 straipsnio 1 dalyje, 213 straipsnio 1 dalyje, 228 straipsnyje, 247 straipsnio 1 ir 2 dalyse, 278 straipsnyje, 279 straipsnio 1 dalyje, 283 straipsnyje, 284 straipsnio 1 dalyje, 287 straipsnyje, 294 straipsnio 1 ir 2 dalyse, 295 straipsnio 3 dalyje, 296 straipsnio 1 dalyje, 297 straipsnio 1 dalyje, 299 straipsnio 1 dalyje, 305 straipsnio 1 ir 4 dalyse, 340 straipsnyje, 346 straipsnio 1 dalyje, 366 straipsnio 1 dalyje, 368 straipsnio 1 dalyje, 373 straipsnio 1 dalyje, 375 straipsnio 1 dalyje, 402, 404 straipsniuose, 406 straipsnio 6 dalyje, 409 straipsnyje, 413 straipsnio 1 dalyje, 416 straipsnio 1 dalyje, 417 straipsnio 7 dalyje, 428 straipsnio 6 dalyje, 445 straipsnio 1 dalyje, 477 straipsnio 1, 3 ir 5 dalyse, 492 straipsnio 1 dalyje, 519 straipsnio 1 dalyje, 520 straipsnyje, 523 straipsnio 1 dalyje, 525 straipsnio 1 dalyje, 526 straipsnio 1 dalyje, 528 straipsnio 1 dalyje, 530 straipsnio 1 dalyje, 548 straipsnio 3 dalyje numatytų administracinių nusižengimų požymių turinčias veikas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2560, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20297
 Nr. XII-2533, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20655
 Nr. XIII-108, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29418
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 Nr. XIII-2665, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20856
+Nr. XIII-3172, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15504
  
 
 
@@ -1726,29 +1727,31 @@ Nr. XIII-2476, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16487
 48 straipsnis. Lietuvos Respublikos triukšmo valdymo įstatymo ir kitų teisės aktų, reglamentuojančių triukšmo valdymą, nevykdymas ar pažeidimas
 
 
-1. Lietuvos Respublikos triukšmo valdymo įstatymo ir kitų teisės aktų, reglamentuojančių triukšmo valdymą, nevykdymas ar pažeidimas
-užtraukia baudą nuo penkiasdešimt iki trijų šimtų eurų.
+1. Lietuvos Respublikos triukšmo valdymo įstatymo ir kitų teisės aktų, reglamentuojančių triukšmo valdymą, nevykdymas ar pažeidimas 
+užtraukia baudą nuo vieno šimto iki šešių šimtų eurų.
 
 
 
 
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo dviejų šimtų aštuoniasdešimt iki šešių šimtų eurų.
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
 
 
 
 
-3. Savivaldybių tarybų patvirtintų triukšmo prevencijos viešosiose vietose taisyklių nesilaikymas
-užtraukia baudą nuo aštuoniasdešimt iki trijų šimtų eurų.
+3. Savivaldybių tarybų patvirtintų triukšmo prevencijos viešosiose vietose taisyklių nesilaikymas 
+užtraukia baudą nuo vieno šimto penkiasdešimt iki šešių šimtų eurų.
 
 
 
 
-4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų. 
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
+užtraukia baudą nuo penkių šimtų iki vieno tūkstančio eurų.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3357, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24245
  
-
-
 
 
 
@@ -4509,6 +4512,24 @@ užtraukia baudą asmenims nuo devyniasdešimt iki vieno šimto septyniasdešimt
 
 
 
+1411 straipsnis. Reglamente (ES) 2017/821 nustatytų prievolių dėl išsamaus tiekimo grandinės patikrinimo nevykdymas arba netinkamas vykdymas
+
+
+Reglamente (ES) 2017/821 nustatytų prievolių dėl išsamaus tiekimo grandinės patikrinimo nevykdymas arba netinkamas vykdymas
+
+
+
+
+užtraukia baudą asmenims nuo devyniasdešimt iki vieno šimto septyniasdešimt eurų ir juridinių asmenų arba užsienio juridinių asmenų ir kitų organizacijų filialų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3220, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15757
+ 
+
+
+
+
 142 straipsnis. Nustatytos tvarkos verstis komercine ar ūkine veikla, susijusia su tauriaisiais metalais ir brangakmeniais bei jų gaminiais, pažeidimas
 
 
@@ -5690,6 +5711,26 @@ užtraukia baudą nuo vieno tūkstančio aštuonių šimtų dvidešimt iki penki
 užtraukia baudą nuo trijų tūkstančių septynių šimtų septyniasdešimt iki šešių tūkstančių eurų.
 
 
+
+
+
+
+1882 straipsnis. Lietuvos Respublikos Vyriausybės nustatytų prekių ir paslaugų kainų ar kainodaros taisyklių nesilaikymas karo padėties metu
+
+
+1. Lietuvos Respublikos Vyriausybės nustatytų prekių ir paslaugų kainų ar kainodaros taisyklių nesilaikymas karo padėties metu
+užtraukia baudą asmenims nuo trijų šimtų iki vieno tūkstančio trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio iki trijų tūkstančių eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo šešių šimtų iki dviejų tūkstančių šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų tūkstančių iki šešių tūkstančių eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
+ 
 
 
 
@@ -13112,8 +13153,11 @@ Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
 379 straipsnis. Geležinkelių riedmenų valdymas, kai tai daro (yra atsakingi už valdymą) neturintys teisės juos valdyti arba neblaivūs, apsvaigę nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų asmenys
 
 
-1. Geležinkelių riedmenų valdymas neturint teisės juos valdyti, geležinkelių riedmenų valdymas, kai juos valdančiam asmeniui atimta teisė valdyti geležinkelių riedmenis, perdavimas valdyti geležinkelių riedmenis neturinčiam teisės juos valdyti asmeniui
+1. Geležinkelių riedmenų valdymas neturint teisės jų valdyti, perdavimas valdyti geležinkelių riedmenis neturinčiam teisės jų valdyti asmeniui
 užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3425, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24596
+ 
 
 
 
@@ -13176,7 +13220,7 @@ užtraukia baudą nuo vieno šimto penkiasdešimt iki trijų šimtų eurų.
 381 straipsnis. Geležinkelių infrastruktūros reikalavimų nesilaikymas
 
 
-Techniškai netvarkingos geležinkelių infrastruktūros naudojimas arba geležinkelių infrastruktūros naudojimas neatlikus jos techninės priežiūros, arba Lietuvos Respublikos geležinkelių infrastruktūros registre neįregistruotos geležinkelių infrastruktūros naudojimas
+Techniškai netvarkingos geležinkelių infrastruktūros naudojimas arba geležinkelių infrastruktūros naudojimas neatlikus jos techninės priežiūros
 
 
 
@@ -13186,6 +13230,7 @@ užtraukia baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
 
 Straipsnio pakeitimai:
 Nr. XII-2254, 2016-03-17, paskelbta TAR 2016-03-25, i. k. 2016-06343
+Nr. XIII-3425, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24596
  
 
 
@@ -14695,16 +14740,20 @@ Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
 
 
 
-5. Nepaklusimas uniformuoto policijos pareigūno teisėtam, aiškiai išreikštam ir šio straipsnio 6 dalyje nustatytą tvarką atitinkančiam reikalavimui sustabdyti transporto priemonę 
-užtraukia baudą vairuotojams nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo vieno tūkstančio vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų.
+5. Nepaklusimas uniformuoto policijos ar Karo policijos pareigūno teisėtam, aiškiai išreikštam ir šio straipsnio 6 dalyje nustatytą tvarką atitinkančiam reikalavimui sustabdyti transporto priemonę 
+užtraukia baudą vairuotojams nuo aštuonių šimtų penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų ir neturintiems teisės vairuoti transporto priemones asmenims – nuo vieno tūkstančio vieno šimto penkiasdešimt iki vieno tūkstančio keturių šimtų penkiasdešimt eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3442, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24621
+ 
 
 
 
 
-6. Uniformuoto policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, aplinkos apsaugos valstybinės kontrolės pareigūno, valstybinio miškų pareigūno, muitinės, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybų pareigūno reikalavimas sustabdyti transporto priemonę išreiškiamas duodant signalą lazdele arba mojant skrituliu su raudonu atšvaitu skersai judėjimo krypties, arba per garsiakalbį liepiant sustoti. Uniformuoto policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, muitinės pareigūno reikalavimas sustabdyti transporto priemonę taip pat gali būti išreiškiamas įjungus specialiomis spalvomis nudažyto ir policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos arba muitinės ženklu pažymėto automobilio švieslentę su užrašu „STOP POLICIJA“ arba „STOP“. Neturintis tarnybinio ženklo muitinės pareigūnas bet kokiu atveju parodo transporto priemonės vairuotojui tarnybinį pažymėjimą. Tamsiuoju paros metu policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybų arba muitinės pareigūnas, stabdydamas transporto priemonę, turi vilkėti uniformą su šviesą atspindinčiais elementais (vilkėti specialiąsias liemenes, mūvėti rankogalius ar turėti kitų šviesą atspindinčių elementų). Patrulis turi būti sudarytas ne mažiau kaip iš dviejų policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto kontrolės priežiūros tarnybų arba muitinės pareigūnų, turinčių specialiomis spalvomis nudažytą ir policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybos skiriamaisiais ženklais arba muitinės ženklu pažymėtą motorinę transporto priemonę, ir stabdyti transporto priemonę šviečiančia reguliuotojo lazdele arba šviesą atspindinčiu skrituliu, įjungęs patrulinės motorinės transporto priemonės mėlynos ir (arba) raudonos spalvos švyturėlius. 
+6. Uniformuoto policijos, Karo policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, aplinkos apsaugos valstybinės kontrolės pareigūno, valstybinio miškų pareigūno, muitinės, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybų pareigūno reikalavimas sustabdyti transporto priemonę išreiškiamas duodant signalą lazdele arba mojant skrituliu su raudonu atšvaitu skersai judėjimo krypties, arba per garsiakalbį liepiant sustoti. Uniformuoto policijos, Karo policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, muitinės pareigūno reikalavimas sustabdyti transporto priemonę taip pat gali būti išreiškiamas įjungus specialiomis spalvomis nudažyto ir policijos, Karo policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos arba muitinės ženklu pažymėto automobilio švieslentę su užrašu „STOP POLICIJA“ arba „STOP“. Neturintis tarnybinio ženklo muitinės pareigūnas bet kokiu atveju parodo transporto priemonės vairuotojui tarnybinį pažymėjimą. Tamsiuoju paros metu policijos, Karo policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybų arba muitinės pareigūnas, stabdydamas transporto priemonę, turi vilkėti uniformą su šviesą atspindinčiais elementais (vilkėti specialiąsias liemenes, mūvėti rankogalius ar turėti kitų šviesą atspindinčių elementų). Patrulis turi būti sudarytas ne mažiau kaip iš dviejų policijos, Karo policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybų arba muitinės pareigūnų, turinčių specialiomis spalvomis nudažytą ir policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos, Lietuvos transporto saugos administracijos, savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto priežiūros tarnybos skiriamaisiais ženklais arba muitinės ženklu pažymėtą motorinę transporto priemonę, ir stabdyti transporto priemonę šviečiančia reguliuotojo lazdele arba šviesą atspindinčiu skrituliu, įjungęs patrulinės motorinės transporto priemonės mėlynos ir (arba) raudonos spalvos švyturėlius. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
 Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
+Nr. XIII-3442, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24621
  
 
 
@@ -16652,7 +16701,7 @@ Nr. XIII-731, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18854
 
 
 
-492 straipsnis. Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme nustatytas tabako gaminių ar susijusių gaminių vartojimo ar jų turėjimo ribojimo pažeidimas
+492 straipsnis. Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme nustatytas tabako gaminių ar susijusių gaminių vartojimo ar jų turėjimo ribojimo pažeidimas, pastatų (butų) arba patalpų savininkams ar kitų daiktinių teisių turėtojams nustatytų reikalavimų nevykdymas
 
 
 1. Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme nustatytas tabako gaminių ar susijusių gaminių vartojimo ar jų turėjimo ribojimo pažeidimas
@@ -16667,10 +16716,24 @@ užtraukia baudą nuo penkiasdešimt iki devyniasdešimt eurų.
 
 
 
-3. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus privaloma skirti tabako gaminių ar susijusių gaminių konfiskavimą.
+3. Pastatų (butų) arba patalpų savininkams ar kitų daiktinių teisių turėtojams Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme nustatytų reikalavimų nevykdymas
+užtraukia baudą nuo trisdešimt iki šešiasdešimt eurų.
+
+
+
+
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo šešiasdešimt iki vieno šimto dvidešimt eurų.
+
+
+
+
+5. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus privaloma skirti tabako gaminių ar susijusių gaminių konfiskavimą.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3426, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24598
  
-
-
 
 
 
@@ -16938,8 +17001,11 @@ užtraukia baudą asmenims nuo vieno šimto penkiasdešimt iki trijų šimtų eu
 505 straipsnis. Kliudymas įstatymų įgaliotiems pareigūnams įgyvendinti jiems suteiktas teises ar atlikti pavestas pareigas, jų teisėtų reikalavimų ar nurodymų ir kolegialių institucijų ar valstybės pareigūnų sprendimų nevykdymas
 
 
-1. Kliudymas įstatymų įgaliotiems pareigūnams įgyvendinti jų veiklą reglamentuojančiuose įstatymuose jiems nustatytas teises ar atlikti jiems pavestas pareigas, šių pareigūnų teisėtų nurodymų ir reikalavimų, taip pat valstybės pareigūnų ar kolegialių institucijų sprendimų (nutarimų) nevykdymas ar netinkamas vykdymas (pareigūnų neįleidimas į tikrinamas teritorijas, patalpas (išskyrus žmogaus būstą) ar kitus objektus, nepateikimas pareigūnams informacijos, duomenų ar dokumentų arba klaidingų ar tikrovės neatitinkančių informacijos ar duomenų pateikimas, atsisakymas paaiškinti ar suteikti duomenis, dokumentų nuslėpimas, vengimas atvykti ir duoti paaiškinimus ir kt.), išskyrus šio kodekso 224 straipsnio 1 dalyje, 317, 318, 322, 506 straipsniuose nurodytus atvejus,
-užtraukia baudą asmenims nuo aštuoniasdešimt iki septynių šimtų aštuoniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų devyniasdešimt iki vieno tūkstančio devynių šimtų penkiasdešimt eurų.
+1. Kliudymas įstatymų įgaliotiems pareigūnams įgyvendinti jų veiklą reglamentuojančiuose įstatymuose jiems nustatytas teises ar atlikti jiems pavestas pareigas, šių pareigūnų teisėtų nurodymų ir reikalavimų, taip pat valstybės pareigūnų ar kolegialių institucijų sprendimų (nutarimų) nevykdymas ar netinkamas vykdymas (pareigūnų neįleidimas į tikrinamas teritorijas, patalpas (išskyrus žmogaus būstą) ar kitus objektus, nepateikimas pareigūnams informacijos, duomenų ar dokumentų arba klaidingų ar tikrovės neatitinkančių informacijos ar duomenų pateikimas, atsisakymas paaiškinti ar suteikti duomenis, dokumentų nuslėpimas, vengimas atvykti ir duoti paaiškinimus ir kt.), išskyrus šio kodekso 224 straipsnio 1 dalyje, 317, 318, 322, 5051, 506 straipsniuose nurodytus atvejus,
+užtraukia baudą asmenims nuo aštuoniasdešimt iki septynių šimtų aštuoniasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų devyniasdešimt iki vieno tūkstančio devynių šimtų penkiasdešimt eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
+ 
 
 
 
@@ -16950,6 +17016,46 @@ užtraukia baudą asmenims nuo septynių šimtų dvidešimt iki vieno tūkstanč
 
 Straipsnio pakeitimai:
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
+ 
+
+
+
+
+5051 straipsnis. Nurodymų užtikrinant ūkinės komercinės veiklos tęstinumą ar būtinųjų užduočių atlikimą nevykdymas ar netinkamas vykdymas, kliudymas įgaliotiems asmenims įgyvendinti jiems suteiktas teises ar atlikti nustatytas pareigas mobilizacijos ar karo padėties metu
+
+
+1. Pagal Lietuvos Respublikos karo padėties įstatymą įgaliotų asmenų nurodymų užtikrinant ūkinės komercinės veiklos tęstinumą ar būtinųjų užduočių atlikimą nevykdymas ar netinkamas vykdymas, kliudymas įgyvendinti jiems suteiktas teises ar atlikti nustatytas pareigas mobilizacijos ar karo padėties metu
+užtraukia baudą asmenims nuo dviejų šimtų iki vieno tūkstančio dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio iki keturių tūkstančių eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo šešių šimtų iki dviejų tūkstančių šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų tūkstančių iki šešių tūkstančių eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
+ 
+
+
+
+
+5052 straipsnis. Ginkluotųjų pajėgų narių teisėtų nurodymų ar reikalavimų nevykdymas ar netinkamas vykdymas, kliudymas įgyvendinti jiems suteiktas teises ar atlikti nustatytas pareigas karo padėties metu
+
+
+1. Ginkluotųjų pajėgų narių teisėtų nurodymų ar reikalavimų nevykdymas ar netinkamas vykdymas, kliudymas įgyvendinti jiems suteiktas teises ar atlikti nustatytas pareigas karo padėties metu
+užtraukia baudą asmenims nuo dviejų šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo šešių šimtų iki dviejų tūkstančių šešių šimtų eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
  
 
 
@@ -17203,20 +17309,126 @@ užtraukia baudą nuo trijų šimtų iki aštuonių šimtų penkiasdešimt eurų
 
 
 
-517 straipsnis. Valstybinių mobilizacinių užduočių, priimančiosios šalies paramos teikimo užduočių, mobilizacinių nurodymų ar nustatytos tvarkos rengiantis mobilizacijai ar priimančiosios šalies paramai teikti nevykdymas arba netinkamas vykdymas
+517 straipsnis. Valstybinių mobilizacinių užduočių, priimančiosios šalies paramos teikimo užduočių, mobilizacinių nurodymų nevykdymas arba netinkamas vykdymas
 
 
 1. Valstybinių mobilizacinių užduočių, priimančiosios šalies paramos teikimo užduočių, mobilizacinių nurodymų ar nustatytos tvarkos rengiantis mobilizacijai ar priimančiosios šalies paramai teikti nevykdymas arba netinkamas vykdymas
-užtraukia baudą juridinių asmenų vadovams nuo šešiasdešimt iki trijų šimtų eurų.
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo šešiasdešimt iki trijų šimtų eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
 užtraukia baudą nuo trijų šimtų iki penkių šimtų aštuoniasdešimt eurų.
+
+
+
+
+3. Valstybinių mobilizacinių užduočių, priimančiosios šalies paramos teikimo užduočių, mobilizacinių nurodymų nevykdymas arba netinkamas vykdymas mobilizacijos ar karo padėties metu
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio iki keturių tūkstančių eurų.
+
+
+
+
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo dviejų tūkstančių iki šešių tūkstančių eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
  
 
 
+
+
+5171 straipsnis. Būtinųjų darbų ir būtinųjų užduočių nevykdymas ar netinkamas vykdymas mobilizacijos ar karo padėties metu
+
+
+1. Paskirtų būtinųjų darbų neatlikimas ar netinkamas atlikimas mobilizacijos ar karo padėties metu
+užtraukia baudą asmenims nuo dviejų šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo šešių šimtų iki dviejų tūkstančių šešių šimtų eurų.
+
+
+
+
+3. Paskirtų būtinųjų užduočių nevykdymas ar netinkamas vykdymas mobilizacijos ar karo padėties metu
+užtraukia baudą asmenims nuo dviejų šimtų iki vieno tūkstančio dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio iki keturių tūkstančių eurų.
+
+
+
+
+4. Šio straipsnio 3 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo šešių šimtų iki dviejų tūkstančių šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų tūkstančių iki šešių tūkstančių eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
+ 
+
+
+
+
+5172 straipsnis. Reikalavimo užtikrinti ūkinės komercinės veiklos tęstinumą nevykdymas ar netinkamas vykdymas mobilizacijos ar karo padėties metu
+
+
+1. Reikalavimo užtikrinti į Lietuvos Respublikos Vyriausybės patvirtintą sąrašą įtrauktų ūkio subjektų veiklos tęstinumą nevykdymas ar netinkamas vykdymas mobilizacijos ar karo padėties metu
+užtraukia baudą asmenims nuo dviejų šimtų iki vieno tūkstančio dviejų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio iki keturių tūkstančių eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo šešių šimtų iki dviejų tūkstančių šešių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų tūkstančių iki šešių tūkstančių eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
+ 
+
+
+
+
+5173 straipsnis. Valstybės tarnautojo ar darbuotojo neatvykimas į darbą, nebuvimas darbe, atsisakymas dirbti ar netinkamas funkcijų atlikimas mobilizacijos ar karo padėties metu
+
+
+1. Valstybės tarnautojo ar darbuotojo, atliekančio funkcijas, kurios reikalingos Lietuvos Respublikos karo padėties įstatyme nustatytais pagrindais valstybinio ar savivaldybių administravimo subjektams pavestoms funkcijoms, būtinoms valstybės suverenumui, teritorijos vientisumui, konstitucinei santvarkai apsaugoti, viešajai tvarkai ar visuomenės saugumui užtikrinti, atlikti, taip pat ūkio subjektams Lietuvos Respublikos karo padėties įstatyme nustatytiems įpareigojimams užtikrinti ūkinės komercinės veiklos tęstinumą ar atlikti būtinąsias užduotis, neatvykimas į darbą, nebuvimas darbe ar atsisakymas dirbti, kai nėra Lietuvos Respublikos karo padėties įstatyme nurodytų pateisinamų priežasčių, taip pat netinkamas šioje dalyje nurodytų funkcijų atlikimas
+užtraukia baudą valstybės tarnautojui ar darbuotojui nuo dviejų šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą valstybės tarnautojui ar darbuotojui nuo šešių šimtų iki dviejų tūkstančių šešių šimtų eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
+ 
+
+
+
+
+5174 straipsnis. Asmens, įrašyto į civilinio mobilizacinio personalo rezervą, funkcijų neatlikimas ar netinkamas atlikimas mobilizacijos ar karo padėties metu
+
+
+1. Asmens, įrašyto į civilinio mobilizacinio personalo rezervą, jam nustatytų funkcijų neatlikimas ar netinkamas atlikimas mobilizacijos ar karo padėties metu, jeigu dėl to neatsirado sunkių padarinių,
+užtraukia baudą asmenims nuo dviejų šimtų iki vieno tūkstančio dviejų šimtų eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą asmenims nuo šešių šimtų iki dviejų tūkstančių šešių šimtų eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
+ 
 
 
 
@@ -18131,6 +18343,26 @@ užtraukia baudą nuo šešiasdešimt iki vieno šimto keturiasdešimt eurų.
 
 
 
+5601 straipsnis. Karo prievolininkams mobilizacijos ar karo padėties metu taikomų judėjimo laisvės apribojimų pažeidimas
+
+
+1. Karo prievolininkams nustatytų išvykimo iš Lietuvos Respublikos mobilizacijos ar karo padėties metu reikalavimų nesilaikymas
+užtraukia baudą nuo vieno šimto penkiasdešimt iki keturių šimtų eurų.
+
+
+
+
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+užtraukia baudą nuo trijų šimtų iki šešių šimtų eurų. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
+ 
+
+
+
+
 561 straipsnis. Tyčinis kario liudijimo sugadinimas ar praradimas dėl nerūpestingumo
 
 
@@ -18983,9 +19215,10 @@ Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
 
 
 
-14) Valstybinės energetikos reguliavimo tarybos – dėl šio kodekso 323, 324, 325, 326, 327, 328, 329, 330, 331, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+14) Valstybinės energetikos reguliavimo tarybos – dėl šio kodekso 1882 straipsnyje, 323, 324, 325, 326, 327, 328, 329, 330, 331, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1969, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03167
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
  
 
 
@@ -19151,10 +19384,12 @@ Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
 
 
 
-34) Karo policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 385 straipsnio 4, 5 dalyse, 393 straipsnio 2, 3, 8, 9 dalyse, 506 straipsnio 3, 4, 41 dalyse, 508 straipsnyje, 526 straipsnio 3 dalyje, 556, 557, 5571, 562 straipsniuose numatytų administracinių nusižengimų; 
+34) Karo policijos – dėl šio kodekso 45 straipsnio 4 dalyje, 46 straipsnio 3 dalyje, 71, 108 straipsniuose, 385 straipsnio 4, 5 dalyse, 393 straipsnio 2, 3, 8, 9 dalyse, 416, 417, 420, 422, 423, 424 straipsniuose, 426 straipsnio 1, 2, 3, 5 dalyse, 427, 481, 5052 straipsniuose, 506 straipsnio 3, 4, 41 dalyse, 508 straipsnyje, 526 straipsnio 3 dalyje, 556, 557, 5571, 562 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1311, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10964
 Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
+Nr. XIII-3442, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24621
  
 
 
@@ -19202,7 +19437,7 @@ Nr. XIII-2624, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20653
 
 
 
-40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 143, 173, 174, 176, 187, 208  straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 3042 straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 3081 straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 12, 13 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 5, 6 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 436, 437, 450 straipsniuose, 459 straipsnio 4, 5, 6, 9 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4, 41 dalyse, 508, 5101, 515 straipsniuose numatytų administracinių nusižengimų; 
+40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 1411, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 3042 straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 3081 straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 12, 13 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 5, 6 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 436, 437, 450 straipsniuose, 459 straipsnio 4, 5, 6, 9 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4, 41 dalyse, 508, 5101, 515 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2365, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14163
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
@@ -19215,6 +19450,7 @@ Nr. XIII-1162, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08534
 Nr. XIII-1542, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16600
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
+Nr. XIII-3220, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15757
  
 
 
@@ -19246,7 +19482,10 @@ Nr. XIII-2636, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20658
 
 
 
-44) Mobilizacijos ir pilietinio pasipriešinimo departamento prie Krašto apsaugos ministerijos – dėl šio kodekso 505, 507, 516, 517 straipsniuose numatytų administracinių nusižengimų;
+44) Mobilizacijos ir pilietinio pasipriešinimo departamento prie Krašto apsaugos ministerijos – dėl šio kodekso 505, 507, 516, 517, 5174 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
+ 
 
 
 
@@ -19312,7 +19551,10 @@ Nr. XIII-2830, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06899
 
 
 
-51) Radiacinės saugos centro – dėl šio kodekso 47, 53 straipsniuose, 127 straipsnio 1, 2 dalyse, 139, 240, 242, 245, 358, 359, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+51) Radiacinės saugos centro – dėl šio kodekso 47, 53 straipsniuose, 127 straipsnio 1, 2 dalyse, 139, 236, 240, 242, 245, 358, 359, 505, 507, 546 straipsniuose numatytų administracinių nusižengimų;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3367, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24524
+ 
 
 
 
@@ -19473,7 +19715,7 @@ Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 
 
 
-70) Valstybinės vartotojų teisių apsaugos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 3, 4, 5 dalyse, 491 straipsnyje, 50 straipsnio 1, 2, 3, 4, 13, 14, 15, 16 dalyse, 70, 128, 129, 139 straipsniuose, 144 straipsnio 2, 3, 4, 5 dalyse, 145, 152, 155, 156, 157, 160, 161, 162, 163, 164, 173, 174 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 234 straipsnio 1 dalyje, 2701 straipsnyje, 308 straipsnio 1, 2, 9, 10, 12, 15, 18, 20, 21, 22 dalyse, 3081 straipsnio 5, 7 dalyse, 309 straipsnio 6 dalyje, 310 straipsnio 10, 11, 12 dalyse, 473, 475, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+70) Valstybinės vartotojų teisių apsaugos tarnybos – dėl šio kodekso 45 straipsnyje, 49 straipsnio 3, 4, 5 dalyse, 491 straipsnyje, 50 straipsnio 1, 2, 3, 4, 13, 14, 15, 16 dalyse, 70, 128, 129, 139 straipsniuose, 144 straipsnio 2, 3, 4, 5 dalyse, 145, 152, 155, 156, 157, 160, 161, 162, 163, 164, 173, 174, 1882 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 224 straipsnyje, 234 straipsnio 1 dalyje, 2701 straipsnyje, 308 straipsnio 1, 2, 9, 10, 12, 15, 18, 20, 21, 22 dalyse, 3081 straipsnio 5, 7 dalyse, 309 straipsnio 6 dalyje, 310 straipsnio 10, 11, 12 dalyse, 473, 475, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
@@ -19482,6 +19724,7 @@ Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 Nr. XIII-1994, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04395
 Nr. XIII-2014, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05347
 Nr. XIII-2804, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02855
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
  
 
 
@@ -19567,7 +19810,9 @@ Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
 
 
 
-79) Lietuvos kariuomenės struktūrinio padalinio, administruojančio karo prievolę, – dėl šio kodekso 558, 559, 560, 561 straipsniuose numatytų administracinių nusižengimų;
+79) Lietuvos kariuomenės struktūrinio padalinio, administruojančio karo prievolę, – dėl šio kodekso 558, 559, 560, 5601, 561 straipsniuose numatytų administracinių nusižengimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
@@ -19599,12 +19844,13 @@ Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
 
 
 
-82) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168, 178, 179, 180, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 281, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2 dalyje, 418, 419 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 446, 447 straipsniuose, 448, 449, 4491, 457, 459, 484, 4841, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 507, 516, 518, 519, 526, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų; 
+82) savivaldybių administracijų – dėl šio kodekso 45, 46, 48, 78, 114 straipsniuose, 144 straipsnio 1, 4, 5 dalyse, 148, 149, 150, 152, 153, 154, 155, 156, 166, 167, 168, 178, 179, 180, 223, 224 straipsniuose, 225 straipsnio 1 dalyje, 281, 290, 291, 292, 294, 295, 296, 297, 298, 319, 332 straipsniuose, 333 straipsnio 7 dalyje, 335, 336, 344, 346, 347, 348, 349, 350, 359, 360, 365, 366, 367, 368 straipsniuose, 369 straipsnio 1, 2, 3, 4 dalyse, 371, 414 straipsniuose, 417 straipsnio 2 dalyje, 418, 419 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnyje, 434 straipsnio 2 dalyje, 439, 446, 447, 448, 449, 4491, 457, 459, 484, 4841, 485, 488, 491, 492, 497, 498, 499, 500, 501, 502, 503, 505, 5051, 507, 516, 5171, 5172, 5173, 5174, 518, 519, 526, 529, 530, 546, 549 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-927, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21600
 Nr. XIII-1293, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10600
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 Nr. XIII-2445, 2019-09-26, paskelbta TAR 2019-10-14, i. k. 2019-16284
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
@@ -19864,6 +20110,14 @@ Nr. XIII-1862, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21888
 Straipsnio dalies pakeitimai:
 Nr. XII-2482, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17980
 Nr. XIII-2251, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11170
+ 
+
+
+
+
+5. Administracinių nusižengimų teisena dėl šio kodekso 492 straipsnio 1, 2 dalyse numatytų administracinių nusižengimų, rūkymo daugiabučių namų balkonuose, terasose, lodžijose, nuosavybės teise priklausančiuose atskiriems savininkams, kai bent vienas namo gyventojas prieštarauja rūkymui, pradedama tik pagal to daugiabučio namo gyventojo, deklaravusio gyvenamąją vietą tame daugiabučiame name, arba asmens, gyvenančio tame daugiabučiame name ir Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka atleisto nuo pareigos deklaruoti gyvenamąją vietą, arba šio asmens įgalioto atstovo ar atstovo pagal įstatymą pareiškimą, su kuriuo turi būti pateikti duomenys, patvirtinantys rūkymo daugiabučio namo balkone, terasoje, lodžijoje faktą ir aplinkybes, išskyrus atvejus, kai šioje dalyje nurodyto administracinio nusižengimo teisena pradedama pagal šio straipsnio 1 dalį.
+Papildyta straipsnio dalimi:
+Nr. XIII-3426, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24598
  
 
 
@@ -24068,6 +24322,14 @@ Nr. XIII-3208, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15401
 
 
 
+1003. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/821, kuriuo nustatomos alavo, tantalo, volframo, jų rūdų ir aukso iš konfliktinių ir didelės rizikos zonų Sąjungos importuotojų prievolės dėl išsamaus tiekimo grandinės patikrinimo (OL 2017 L 130, p. 1). 
+Papildyta punktu:
+Nr. XIII-3220, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15757
+ 
+
+
+
+
 101. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1). 
 Papildyta punktu:
 Nr. XIII-1110, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06748
@@ -24688,3 +24950,43 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3345, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23930
 Lietuvos Respublikos administracinių nusižengimų kodekso 107 ir 589 straipsnių pakeitimo įstatymas
+ 
+115.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3172, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15504
+Lietuvos Respublikos administracinių nusižengimų kodekso 12 straipsnio pakeitimo įstatymas
+ 
+116.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3220, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15757
+Lietuvos Respublikos administracinių nusižengimų kodekso papildymo 141-1 straipsniu ir 589 straipsnio ir priedo pakeitimo įstatymas
+ 
+117.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3230, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15864
+Lietuvos Respublikos administracinių nusižengimų kodekso 505, 517, 589 straipsnių pakeitimo ir Kodekso papildymo 188-2, 505-1, 505-2, 517-1, 517-2, 517-3, 517-4, 560-1 straipsniais įstatymas
+ 
+118.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3357, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24245
+Lietuvos Respublikos administracinių nusižengimų kodekso 48 straipsnio pakeitimo įstatymas
+ 
+119.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3367, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24524
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo įstatymas
+ 
+120.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3425, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24596
+Lietuvos Respublikos administracinių nusižengimų kodekso 379 ir 381 straipsnių pakeitimo įstatymas
+ 
+121.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3426, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24598
+Lietuvos Respublikos administracinių nusižengimų kodekso 492 ir 590 straipsnių pakeitimo įstatymas
+ 
+122.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3442, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24621
+Lietuvos Respublikos administracinių nusižengimų kodekso 426 ir 589 straipsnių pakeitimo įstatymas
