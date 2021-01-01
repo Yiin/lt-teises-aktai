@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS BRANDUOLINĖS SAUGOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2020-10-27 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-04-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 91-4316; Žin. 2011, Nr.109-0; Žin. 2011, Nr.118-0, i. k. 1111010ISTA0XI-1539
  
@@ -1534,19 +1534,26 @@ Nr. XIII-288, 2017-04-20, paskelbta TAR 2017-05-02, i. k. 2017-07283
 
 
 
-10. Licencijos vykdyti šio įstatymo 22 straipsnio 1 dalies 1 ir 3 punktuose nurodytą veiklą išduodamos tik tuo atveju, kai Valstybinė atominės energetikos saugos inspekcija įsitikina, kad pareiškėjui yra išduotas ir galioja Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos išduotas leidimas statyti branduolinės energetikos objekto statinius. Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos, išdavusi leidimą statyti branduolinės energetikos objekto statinius, ne vėliau kaip per 3 darbo dienas, kai priimamas atitinkamas sprendimas, praneša Valstybinei atominės energetikos saugos inspekcijai atitinkamai apie šio leidimo išdavimą, galiojimo sustabdymą, įspėjimą apie galiojimo sustabdymą, galiojimo sustabdymo panaikinimą, įspėjimą apie galiojimo panaikinimą, galiojimo panaikinimą. 
+10. Licencijos, nurodytos šio įstatymo 22 straipsnio 1 dalies 1 ir 3 punktuose, išduodamos tik kai Valstybinė atominės energetikos saugos inspekcija įsitikina, kad pareiškėjui išduotas ir galioja Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos leidimas statyti branduolinės energetikos objekto statinius. Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos, išdavusi leidimą statyti branduolinės energetikos objekto statinius, ne vėliau kaip per 3 darbo dienas, kai priimamas atitinkamas sprendimas, praneša Valstybinei atominės energetikos saugos inspekcijai atitinkamai apie šio leidimo išdavimą, galiojimo sustabdymą, įspėjimą apie galiojimo sustabdymą, galiojimo sustabdymo panaikinimą, įspėjimą apie galiojimo panaikinimą, galiojimo panaikinimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3365, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24521
+ 
 
 
 
 
-11. Licencijas vykdyti šio įstatymo 22 straipsnio 1 dalies 2, 4 ir 5 punktuose nurodytą veiklą Valstybinė atominės energetikos saugos inspekcija išduoda, kai įsitikina, kad pareiškėjui Lietuvos Respublikos aplinkos ministerijos (toliau – Aplinkos ministerija) ar jos įgaliotos institucijos yra išduotas ir galioja taršos integruotos prevencijos ir kontrolės leidimas arba nurodoma, kad toks leidimas nereikalingas. Aplinkos ministerija ar jos įgaliota institucija, išdavusi tokį leidimą arba priėmusi sprendimą, kad leidimas nėra reikalingas, ne vėliau kaip per 3 darbo dienas, kai priimamas toks sprendimas, praneša Valstybinei atominės energetikos saugos inspekcijai atitinkamai apie šio leidimo išdavimą, pakeitimą, galiojimo sustabdymą, įspėjimą apie galiojimo sustabdymą, galiojimo sustabdymo panaikinimą, įspėjimą apie galiojimo panaikinimą, galiojimo panaikinimą ir teikia informaciją Valstybinės atominės energetikos saugos inspekcijos prašymu apie tai, ar reikalingas atitinkamas leidimas.
+11. Licencijas, nurodytas šio įstatymo 22 straipsnio 1 dalies 2, 4 ir 5 punktuose, Valstybinė atominės energetikos saugos inspekcija išduoda, kai įsitikina, kad pareiškėjui aplinkos ministro įgaliotos institucijos yra išduotas ir galioja leidimas, nurodytas Aplinkos apsaugos įstatymo 191 arba 192 straipsnyje, arba nurodyta, kad toks leidimas nereikalingas. Aplinkos ministro įgaliota institucija, išdavusi minėtą leidimą, ne vėliau kaip per 3 darbo dienas nuo sprendimo išduoti leidimą, jį pakeisti ar panaikinti jo galiojimą arba įspėjimo pareiškėjui apie leidimo galiojimo panaikinimą praneša apie tai Valstybinei atominės energetikos saugos inspekcijai. Valstybinei atominės energetikos saugos inspekcijai paprašius, aplinkos ministro įgaliota institucija informuoja, ar reikia atitinkamo leidimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3365, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24521
+ 
 
 
 
 
-12. Licencijos vykdyti šio įstatymo 22 straipsnio 1 dalies 2, 4 ir 5 punktuose nurodytą veiklą ir leidimai vykdyti šio įstatymo 22 straipsnio 2 dalies 2 ir 3 punktuose nurodytą veiklą išduodami tik tuo atveju, kai Valstybinė atominės energetikos saugos inspekcija įsitikina, kad aplinkos radiologinio monitoringo programa aplinkos ministro nustatyta tvarka yra suderinta su Aplinkos ministerija ar jos įgaliota institucija ir maisto produktų, jų žaliavų bei geriamojo vandens radiologinės stebėsenos programa sveikatos apsaugos ministro nustatyta tvarka yra suderinta su Sveikatos apsaugos ministerija ar jos įgaliota institucija. Aplinkos ministerija ar jos įgaliota institucija ir Sveikatos apsaugos ministerija ar jos įgaliota institucija ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo praneša Valstybinei atominės energetikos saugos inspekcijai apie sprendimus, susijusius su šių programų suderinimu, atnaujinimo (pakeitimo) suderinimu. 
+12. Licencijos, nurodytos šio įstatymo 22 straipsnio 1 dalies 2, 4 ir 5 punktuose, ir leidimai, nurodyti šio įstatymo 22 straipsnio 2 dalies 2 ir 3 punktuose, išduodami tik kai Valstybinė atominės energetikos saugos inspekcija įsitikina, kad radiologinio aplinkos monitoringo programa suderinta su Radiacinės saugos centru. Radiacinės saugos centras ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo praneša Valstybinei atominės energetikos saugos inspekcijai apie sprendimus, susijusius su šios programos suderinimu, atnaujinimo (pakeitimo) suderinimu.
 Straipsnio dalies pakeitimai:
 Nr. XIII-655, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16012
+Nr. XIII-3365, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24521
  
 
 
@@ -3402,3 +3409,8 @@ Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 32 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3332, 2020-10-15, paskelbta TAR 2020-10-26, i. k. 2020-22201
 Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 5, 22, 23, 24, 25, 26, 29, 32, 36, 39-1 straipsnių ir 2 priedo pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3365, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24521
+Lietuvos Respublikos branduolinės saugos įstatymo Nr. XI-1539 25 straipsnio pakeitimo įstatymas
