@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C71CC1B1BFCE"
 
 # Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymas
 
-Suvestinė redakcija nuo 2015-06-16 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-851, i. k. 0991010ISTAIII-1087
  
@@ -1921,12 +1921,9 @@ Vykdomieji įrašai notarų užprotestuotuose arba neprotestuotinuose vekseliuos
 
 
 
-83 straipsnis. Užprotestuotų vekselių registras
-
-
-Notarai tvarko užprotestuotų dėl neapmokėjimo ar neakceptavimo vekselių viešą registrą. Informaciją apie užprotestuotus dėl neapmokėjimo vekselius (vekselį užprotestavęs notaras, vekselio mokėtojo pavadinimas ar vardas, pavardė, mokėtojo adresas, vekselio suma) notarai skelbia Lietuvos notarų rūmų interneto svetainėje.
-
-
+83 straipsnis. Neteko galios nuo 2021-01-01
+Straipsnio naikinimas:
+Nr. XIV-32, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27337
 Straipsnio pakeitimai:
 Nr. XI-2352, 2012-11-06, Žin., 2012, Nr. 132-6680 (2012-11-15), i. k. 1121010ISTA0XI-2352
  
@@ -1951,7 +1948,8 @@ Jeigu vekselis sunaikintas, pavogtas ar dėl kitos priežasties prarastas, teis�
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+ 
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
  
 
 
@@ -1973,3 +1971,8 @@ Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymo Nr. VIII-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1761, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09297
 Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymo Nr. VIII-1087 3 ir 77 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-32, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27337
+Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymo Nr. VIII-1087 83 straipsnio pripažinimo netekusiu galios įstatymas
