@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.791BF9249C9C"
 
 # Lietuvos Respublikos sporto įstatymas
 
-Suvestinė redakcija nuo 2020-11-04 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 9-215, i. k. 0951010ISTA00I-1151
  
@@ -272,23 +272,30 @@ Valstybės sporto stebėseną, vadovaudamosi Lietuvos Respublikos švietimo, mok
 
 
 
-6 straipsnis. Lietuvos Respublikos Seimo, Vyriausybės ir kitų valstybės institucijų ir įstaigų kompetencija sporto srityje
+6 straipsnis. Lietuvos Respublikos Seimo, Vyriausybės ir kitų valstybės institucijų ir įstaigų kompetencija sporto srityje 
 
 
-1. Seimas Vyriausybės teikimu tvirtina valstybinę sporto strategiją, kurioje nustatomi sporto prioritetai, ilgalaikiai tikslai, turinio kaitos kryptys.
-
-
-
-
-2. Švietimo, mokslo ir sporto ministerija formuoja valstybės sporto politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą.
+1. Seimas nustato sporto politikos vystymosi kryptis, tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus.
 
 
 
 
-3. Kitos valstybės institucijos ir įstaigos atlieka šiuo įstatymu, kitais įstatymais ir Vyriausybės nutarimais joms pavestas funkcijas sporto srityje ir sudaro sąlygas plėtoti sportą.
+2. Vyriausybė Nacionaliniame pažangos plane nustato sporto politikos strateginius tikslus ir (arba) pažangos uždavinius ir šiuos uždavinius įgyvendinančias nacionalines plėtros programas, kuriose suplanuojamos priemonės.
+
+
+
+
+3. Švietimo, mokslo ir sporto ministerija formuoja valstybės sporto politiką, dalyvauja rengiant Nacionalinį pažangos planą dėl sporto politikos strateginių tikslų ir (arba) pažangos uždavinių nustatymo, rengia sporto politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą.
+
+
+
+
+4. Kitos valstybės institucijos ir įstaigos atlieka šiuo įstatymu, kitais įstatymais ir Vyriausybės nutarimais joms pavestas funkcijas sporto srityje ir sudaro sąlygas plėtoti sportą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3099, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15303
  
-
-
 
 
 
@@ -301,7 +308,10 @@ Valstybės sporto stebėseną, vadovaudamosi Lietuvos Respublikos švietimo, mok
 
 
 
-2. Nacionalinė sporto taryba svarsto valstybinę sporto strategiją, sporto prioritetus, sporto šakų pripažinimo strateginėmis sporto šakomis kriterijus, kitus sporto sričių plėtros klausimus.
+2. Nacionalinė sporto taryba svarsto sporto politikos strateginius tikslus ir (arba) pažangos uždavinius, sporto šakų pripažinimo strateginėmis sporto šakomis kriterijus, kitus sporto sričių plėtros klausimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3099, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15303
+ 
 
 
 
@@ -325,7 +335,10 @@ Valstybės sporto stebėseną, vadovaudamosi Lietuvos Respublikos švietimo, mok
 1. Savivaldybės taryba:
 
 
-1) atsižvelgdama į valstybinę sporto strategiją, sporto prioritetus, švietimo, mokslo ir sporto ministro patvirtintą strateginių sporto šakų sąrašą, vietos bendruomenės poreikius, nustato savivaldybės ilgalaikius sporto plėtros tikslus, savivaldybės biudžeto lėšomis finansuotinas sporto sritis, skatina viešą ir privačią partnerystę sporto srityje;
+1) atsižvelgdama į Nacionaliniame pažangos plane nustatytus sporto politikos strateginius tikslus ir (arba) pažangos uždavinius, švietimo, mokslo ir sporto ministro patvirtintą strateginių sporto šakų sąrašą, vietos bendruomenės poreikius, suplanuoja savivaldybės sporto plėtros priemones ir projektus, nustato savivaldybės biudžeto lėšomis finansuotinas sporto sritis, skatina viešą ir privačią partnerystę sporto srityje; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3099, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15303
+ 
 
 
 
@@ -345,7 +358,10 @@ Valstybės sporto stebėseną, vadovaudamosi Lietuvos Respublikos švietimo, mok
 2. Savivaldybės vykdomoji institucija:
 
 
-1) analizuoja sporto būklę savivaldybėje, užtikrina valstybės nustatytos politikos sporto srityje įgyvendinimą vietos lygiu bei ilgalaikių savivaldybės sporto plėtros tikslų ir priemonių jiems pasiekti įgyvendinimą;
+1) analizuoja sporto būklę savivaldybėje, užtikrina Nacionaliniame pažangos plane nustatytų sporto politikos strateginių tikslų ir (arba) pažangos uždavinių įgyvendinimą vietos lygiu bei savivaldybės sporto plėtros priemonių ir projektų jiems pasiekti įgyvendinimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3099, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15303
+ 
 
 
 
@@ -566,45 +582,57 @@ SPORTO PRATYBOSE, SPORTO VARŽYBOSE, FIZINIO AKTYVUMO PRATYBOSE AR KITUOSE SPORT
 15 straipsnis. Sporto pratybų, sporto varžybų, fizinio aktyvumo pratybų ir kitų sporto renginių saugumo užtikrinimas
 
 
-1. Sporto pratybų, sporto varžybų, fizinio aktyvumo pratybų ir kitų sporto renginių organizatoriai atsako už šių renginių dalyvių ir žiūrovų saugumą jų metu. Organizuodamas sporto renginį, jų organizatorius privalo patvirtinti organizuojamo renginio nuostatus ir saugumo taisykles bei savivaldybės tarybos nustatyta tvarka ir atvejais gauti savivaldybės tarybos nustatytos savivaldybės institucijos pritarimą organizuoti sporto renginį. Sporto renginio organizatorius, prieš vykdydamas technikos sporto šakų (pvz., automobilių, motociklų, laivų, lėktuvų ir kt.) sporto renginį privačiose ar viešose vietose, privalo apie tai informuoti nacionalinę ir (ar) tarptautinę tos technikos sporto šakos federaciją ir pranešti savivaldybės tarybos nustatytai savivaldybės institucijai, teikiančiai pritarimą organizuoti sporto renginį.
+1. Sporto pratybų, sporto varžybų, fizinio aktyvumo pratybų ir kitų sporto renginių organizatoriai atsako už šių renginių dalyvių ir žiūrovų saugumą jų metu. Organizuodamas sporto renginį, jo organizatorius privalo patvirtinti organizuojamo renginio nuostatus ir saugumo taisykles bei savivaldybės tarybos nustatyta tvarka ir atvejais gauti savivaldybės tarybos nustatytos savivaldybės institucijos pritarimą organizuoti sporto renginį. Sporto renginio organizatorius, prieš vykdydamas technikos sporto šakų (pvz., automobilių, motociklų, laivų, lėktuvų ir kt.) sporto renginį privačiose ar viešose vietose, privalo apie tai informuoti nacionalinę ir (ar) tarptautinę tos technikos sporto šakos federaciją ir pranešti savivaldybės tarybos nustatytai savivaldybės institucijai, teikiančiai pritarimą organizuoti sporto renginį.
 
 
 
 
-2. Sporto renginio nuostatuose nurodomas renginio tikslas (tikslai), vykdymo vieta ir laikas, programa, dalyviai, prireikus – reikalavimai dalyviams, laimėtojų nustatymo būdai ir kita tik tam renginiui aktuali informacija. Sporto renginio organizatorius taip pat tvirtina sporto renginio saugumo taisykles, kuriose nurodomos dalyvių ir žiūrovų saugumo renginio metu užtikrinimo priemonės.
+2. Sporto varžybos, kurios priskiriamos didesnės rizikos sporto renginiui, rengiamos tik visuomeninės paskirties statiniuose, atitinkančiuose tarptautinės sporto šakos federacijos nustatytus tos sporto šakos reikalavimus.  
 
 
 
 
-3. Sporto renginio saugumo taisyklėse turi būti aptartos žiūrovų ir dalyvių patekimo į renginio vietą ir išvykimo iš renginio vietos sąlygos, žiūrovų zona (zonos), nurodytos vietos ir objektai, į kuriuos draudžiama patekti žiūrovams ir (ar) dalyviams, evakavimosi iš renginio vietos keliai, saugaus elgesio renginio metu sąlygos, konkrečios priemonės, skirtos tvarkai renginio teritorijoje užtikrinti, jeigu renginio metu planuojama pasitelkti medicinos, valstybinės priešgaisrinės gelbėjimo tarnybos specialistus, – jų dislokacijos vieta renginio teritorijoje, kita su organizuojamo renginio specifika susijusi informacija.
+3. Sporto renginio nuostatuose nurodoma renginio tikslas (tikslai), vykdymo vieta ir laikas, programa, dalyviai, prireikus – reikalavimai dalyviams, laimėtojų nustatymo būdai ir kita tik tam renginiui aktuali informacija. Sporto renginio organizatorius taip pat tvirtina sporto renginio saugumo taisykles, kuriose nurodomos dalyvių ir žiūrovų saugumo renginio metu užtikrinimo priemonės.
 
 
 
 
-4. Apie organizuojamus didesnės rizikos sporto renginius renginio organizatorius privalo ne vėliau kaip prieš 20 darbo dienų iki numatyto renginio pradžios raštu informuoti atitinkamą policijos įstaigą, įsteigtą teritoriniu principu (toliau – teritorinė policijos įstaiga), ir pateikti jai sporto renginio saugumo taisykles. Kriterijus, pagal kuriuos nustatoma, ar sporto renginys yra didesnės rizikos, nustato Lietuvos Respublikos vidaus reikalų ministras. Teritorinė policijos įstaiga ne vėliau kaip per 4 darbo dienas nuo pranešimo ir sporto renginio saugumo taisyklių gavimo dienos teikia renginio organizatoriui rekomendacijas dėl tinkamų saugumo sporto renginio metu užtikrinimo priemonių. Apie teritorinės policijos įstaigos rekomendacijų įgyvendinimą sporto renginio organizatorius turi informuoti atitinkamą teritorinę policijos įstaigą ne vėliau kaip likus 5 darbo dienoms iki sporto renginio pradžios.
+4. Sporto renginio saugumo taisyklėse turi būti aptartos žiūrovų ir dalyvių patekimo į renginio vietą ir išvykimo iš renginio vietos sąlygos, žiūrovų zona (zonos), nurodytos vietos ir objektai, į kuriuos draudžiama patekti žiūrovams ir (ar) dalyviams, evakavimosi iš renginio vietos keliai, saugaus elgesio renginio metu sąlygos, konkrečios priemonės, skirtos tvarkai ir saugumui renginio teritorijoje ir jos prieigose užtikrinti, jeigu renginio metu planuojama pasitelkti medicinos, valstybinės priešgaisrinės gelbėjimo tarnybos specialistus, – jų dislokacijos vieta renginio teritorijoje, kita su organizuojamo renginio specifika susijusi informacija.
 
 
 
 
-5. Policijos pareigūnai gali laikinai sustabdyti arba nutraukti sporto pratybas, sporto varžybas, fizinio aktyvumo pratybas ir kitą sporto renginį, kai kyla reali grėsmė (pvz., riaušės, teroro aktas ir kt.) visuomenės saugumui ir būtina nedelsiant imtis priemonių užkirsti kelią žalai atsirasti. Jeigu sporto renginio organizatoriaus taikomos saugumo sporto renginyje užtikrinimo priemonės neatitinka teritorinės policijos įstaigos pateiktų rekomendacijų ir dėl to kyla pagrįsta grėsmė dalyvių ir (arba) žiūrovų gyvybei arba sveikatai, sporto renginys turi būti sustabdytas, iki jo organizatorius ar organizatoriaus atstovai nesiims būtinų priemonių užkirsti kelią grėsmei žmonių saugumui.
+5. Apie organizuojamus didesnės rizikos sporto renginius renginio organizatorius privalo ne vėliau kaip prieš 20 darbo dienų iki numatyto renginio pradžios raštu informuoti atitinkamą policijos įstaigą, įsteigtą teritoriniu principu (toliau – teritorinė policijos įstaiga), ir pateikti jai sporto renginio saugumo taisykles. Kriterijus, pagal kuriuos nustatoma, ar sporto renginys yra didesnės rizikos, nustato Lietuvos Respublikos vidaus reikalų ministras. Teritorinė policijos įstaiga ne vėliau kaip per 4 darbo dienas nuo pranešimo ir sporto renginio saugumo taisyklių gavimo dienos teikia renginio organizatoriui rekomendacijas dėl tinkamų saugumo sporto renginio metu užtikrinimo priemonių, taip pat dėl renginio teritorijos prieigų ribų. Apie teritorinės policijos įstaigos rekomendacijų įgyvendinimą sporto renginio organizatorius turi informuoti atitinkamą teritorinę policijos įstaigą ne vėliau kaip likus 5 darbo dienoms iki sporto renginio pradžios.
 
 
 
 
-6. Prieš sporto renginį dalyviams ir žiūrovams turi būti sudaryta galimybė susipažinti su tokių renginių saugumo taisyklėmis. Organizatorius dalyvius ir žiūrovus informuoti apie saugaus elgesio sporto renginio metu reikalavimus gali viena ar keliomis informavimo formomis: spausdintinėje medžiagoje, internetinėje erdvėje, įvairiais įspėjamaisiais ženklais sporto renginio vietoje. Organizatorius gali taikyti papildomas dalyvių ir žiūrovų informavimo formas.
+6. Policijos pareigūnai gali laikinai sustabdyti arba nutraukti sporto pratybas, sporto varžybas, fizinio aktyvumo pratybas ir kitą sporto renginį, kai kyla reali grėsmė (pvz., riaušės, teroro aktas ir kt.) visuomenės saugumui ir būtina nedelsiant imtis priemonių užkirsti kelią žalai atsirasti. Jeigu sporto renginio organizatoriaus taikomos saugumo sporto renginyje užtikrinimo priemonės neatitinka teritorinės policijos įstaigos pateiktų rekomendacijų ir dėl to kyla pagrįsta grėsmė dalyvių ir (ar) žiūrovų gyvybei arba sveikatai, sporto renginys turi būti sustabdytas, iki jo organizatorius ar organizatoriaus atstovai nesiims būtinų priemonių užkirsti kelią grėsmei žmonių saugumui.
 
 
 
 
-7. Dalyviai ir žiūrovai turi laikytis organizatoriaus nustatytų saugumo reikalavimų, nurodytų sporto renginio saugumo taisyklėse.
+7. Prieš sporto renginį dalyviams ir žiūrovams turi būti sudaryta galimybė susipažinti su tokių renginių saugumo taisyklėmis. Organizatorius dalyvius ir žiūrovus informuoti apie saugaus elgesio sporto renginio metu reikalavimus gali viena ar keliomis informavimo formomis: spausdintinėje medžiagoje, internetinėje erdvėje, įvairiais įspėjamaisiais ženklais sporto renginio vietoje. Organizatorius gali taikyti papildomas dalyvių ir žiūrovų informavimo formas.
 
 
 
 
-8. Sporto pratybų, sporto varžybų, fizinio aktyvumo pratybų ir kitų sporto renginių, vykstančių vandenyje, metu turi būti asmuo (asmenys), atsakingas (atsakingi) už žmonių saugumą vandenyje.
+8. Sporto varžybų, kurios priskiriamos didesnės rizikos sporto renginiui, organizatoriai privalo užtikrinti, kad šių renginių saugumą užtikrinantys asmenys turėtų tinkamą kvalifikaciją vykdyti asmens ir turto apsaugos veiklą.
+
+
+
+
+9. Dalyviai ir žiūrovai turi laikytis organizatoriaus nustatytų saugumo reikalavimų ir draudimų, nurodytų sporto renginio saugumo taisyklėse.
+
+
+
+
+10. Sporto pratybų, sporto varžybų, fizinio aktyvumo pratybų ir kitų sporto renginių, vykstančių vandenyje, metu turi būti asmuo (asmenys), atsakingas (atsakingi) už žmonių saugumą vandenyje.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2602, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20032
  
-
-
 
 
 
@@ -1417,7 +1445,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
  
 
 
@@ -1505,3 +1533,8 @@ Lietuvos Respublikos sporto įstatymo Nr. I-1151 24 straipsnio pakeitimo įstaty
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
 Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3099, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15303
+Lietuvos Respublikos sporto įstatymo Nr. I-1151 6, 7 ir 8 straipsnių pakeitimo įstatymas
