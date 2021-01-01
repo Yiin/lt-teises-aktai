@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2020-09-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
  
@@ -37,7 +37,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis ir taikymas
 
 
-1. Šis įstatymas nustato valstybės ir savivaldybių biudžetinių įstaigų, finansuojamų iš valstybės biudžeto, savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto ir kitų valstybės įsteigtų pinigų fondų lėšų (toliau – biudžetinės įstaigos), darbuotojų, dirbančių pagal darbo sutartis (toliau – darbuotojai), darbo apmokėjimo sąlygas ir dydžius, materialines pašalpas, darbuotojų pareigybių lygius ir grupes, kasmetinį veiklos vertinimą, taip pat įstatymų pagrindais sudarytų komisijų (darbo grupių, tarybų, Teisėjų garbės teismo, darbo arbitražo), finansuojamų iš valstybės ir savivaldybių biudžetų (toliau kartu – komisijos), pirmininkų, pirmininkų pavaduotojų ir narių (toliau – komisijų nariai) atlygį už darbą. 
+1. Šis įstatymas nustato valstybės ir savivaldybių biudžetinių įstaigų, finansuojamų iš valstybės biudžeto, savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto ir kitų valstybės įsteigtų pinigų fondų lėšų (toliau – biudžetinės įstaigos), darbuotojų, dirbančių pagal darbo sutartis (toliau – darbuotojai), darbo apmokėjimo sąlygas ir dydžius, materialines pašalpas, darbuotojų pareigybių lygius ir grupes, kasmetinį veiklos vertinimą, taip pat įstatymų pagrindais sudarytų komisijų (grupių, tarybų, Teisėjų garbės teismo, darbo arbitražo), finansuojamų iš valstybės ir savivaldybių biudžetų (toliau kartu – komisijos), pirmininkų, pirmininkų pavaduotojų ir narių (toliau – komisijų nariai) atlygį už darbą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+ 
 
 
 
@@ -308,7 +311,7 @@ DARBO UŽMOKESTIS IR MATERIALINĖS PAŠALPOS
 
 
 
-3) mokėjimas už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą ir darbą, esant nukrypimų nuo normalių darbo sąlygų;
+3) mokėjimas už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą;
 
 
 
@@ -325,10 +328,12 @@ DARBO UŽMOKESTIS IR MATERIALINĖS PAŠALPOS
 
 
 
-3. Darbo apmokėjimo sistemoje, atsižvelgiant į šio įstatymo nuostatas, detalizuojami biudžetinės įstaigos darbuotojų pareigybių sąraše esančių pareigybių pareiginės algos pastoviosios dalies nustatymo kriterijai (išsilavinimas, profesinio ir (ar) vadovaujamo darbo patirtis, veiklos sudėtingumas, darbo krūvis, atsakomybės lygis, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimas ir pan.) ir pagal kiekvieną kriterijų nustatyti konkretūs pareiginės algos pastoviosios dalies koeficientų dydžiai, šio įstatymo 7 straipsnio 6 ir 7 dalyse nustatytais pagrindais padidintos pareiginės algos pastoviosios dalies koeficientų dydžiai, 7 straipsnio 8 dalyje nustatyti pareiginės algos pastoviosios dalies koeficiento didinimo iki 100 procentų kriterijai ir jų dydžiai, 9 ir 14 straipsniuose nurodytos pareiginės algos kintamosios dalies nustatymo tvarka ir procentiniai dydžiai, 10 ir 12 straipsniuose nustatyta priemokų ir premijų skyrimo tvarka, 11 straipsnyje numatyto mokėjimo už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą ir darbą, esant nukrypimų nuo normalių darbo sąlygų, tvarka ir dydžiai. 
+3. Darbo apmokėjimo sistemoje, atsižvelgiant į šio įstatymo nuostatas, detalizuojami biudžetinės įstaigos darbuotojų pareigybių sąraše esančių pareigybių pareiginės algos pastoviosios dalies nustatymo kriterijai (išsilavinimas, profesinio ir (ar) vadovaujamo darbo patirtis, veiklos sudėtingumas, darbo krūvis, atsakomybės lygis, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimas ir pan.) ir pagal kiekvieną kriterijų nustatyti konkretūs pareiginės algos pastoviosios dalies koeficientų dydžiai, šio įstatymo 7 straipsnio 6 ir 7 dalyse nustatytais pagrindais padidintos pareiginės algos pastoviosios dalies koeficientų dydžiai, 7 straipsnio 8 dalyje nustatyti pareiginės algos pastoviosios dalies koeficiento didinimo iki 100 procentų kriterijai ir jų dydžiai, 9 ir 14 straipsniuose nurodytos pareiginės algos kintamosios dalies nustatymo tvarka ir procentiniai dydžiai, 10 ir 12 straipsniuose nustatyta priemokų ir premijų skyrimo, 11 straipsnyje numatyto mokėjimo už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą tvarka ir dydžiai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
  
-
-
 
 
 
@@ -454,12 +459,18 @@ Pareiginės algos koeficiento vienetas yra Seimo patvirtintas atitinkamų metų 
 
 
 
-2. Pareiginės algos kintamoji dalis, atsižvelgiant į praėjusių metų veiklos vertinimą, nustatoma iki kito biudžetinės įstaigos darbuotojų kasmetinio veiklos vertinimo ir gali siekti iki 40 procentų pareiginės algos pastoviosios dalies (įskaitant ir pareiginės algos pastoviąją dalį, padidintą pagal šio įstatymo 7 straipsnio 6, 7 ir 8 dalis), išskyrus šio straipsnio 4 dalyje nurodytą atvejį. 
+2. Pareiginės algos kintamoji dalis, atsižvelgiant į praėjusių metų veiklos vertinimą, nustatoma iki kito biudžetinės įstaigos darbuotojų kasmetinio veiklos vertinimo ir gali siekti iki 40 procentų pareiginės algos pastoviosios dalies, išskyrus šio straipsnio 4 dalyje nurodytą atvejį. Jeigu pareiginės algos pastovioji dalis padidinta pagal šio įstatymo 7 straipsnio 6, 7 ir 8 dalis, kintamoji dalis skaičiuojama nuo padidinto pastoviosios dalies koeficiento. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+ 
 
 
 
 
-3. Biudžetinės įstaigos darbuotojo pareiginės algos kintamoji dalis gali būti nustatyta priėmimo į darbą metu, taip pat darbuotojui grįžus iš vaiko priežiūros atostogų, atsižvelgiant į darbuotojo profesinę kvalifikaciją ir jam keliamus uždavinius, tačiau ji negali būti didesnė kaip 20 procentų pareiginės algos pastoviosios dalies ir negali būti mokama ilgiau kaip iki to darbuotojo kito kasmetinio veiklos vertinimo.
+3. Biudžetinės įstaigos darbuotojo pareiginės algos kintamoji dalis gali būti nustatyta priėmimo į darbą metu, pasibaigus išbandymo terminui, taip pat darbuotojui grįžus iš vaiko priežiūros atostogų, atsižvelgiant į darbuotojo profesinę kvalifikaciją ir jam keliamus uždavinius, tačiau ji negali būti didesnė kaip 20 procentų pareiginės algos pastoviosios dalies ir negali būti mokama ilgiau kaip iki to darbuotojo kito kasmetinio veiklos vertinimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+ 
 
 
 
@@ -487,24 +498,68 @@ Pareiginės algos koeficiento vienetas yra Seimo patvirtintas atitinkamų metų 
 
 
 
-10 straipsnis. Priemokos 
+10 straipsnis. Priemokos
 
 
-Priemokos už papildomą darbo krūvį, kai yra padidėjęs darbų mastas, atliekant pareigybės aprašyme nustatytas funkcijas, bet neviršijama nustatyta darbo laiko trukmė, už pavadavimą, kai raštu pavedama laikinai atlikti kito darbuotojo funkcijas ar už papildomų pareigų ar užduočių, nenustatytų pareigybės aprašyme ir suformuluotų raštu, vykdymą gali siekti iki 30 procentų pareiginės algos pastoviosios dalies dydžio. Priemokų ir pareiginės algos kintamosios dalies suma negali viršyti 60 procentų nustatytos pareiginės algos pastoviosios dalies dydžio. Nacionalinių ir valstybinių kultūros ir meno įstaigų vadovams ir atlikėjams priemokų ir pareiginės algos kintamosios dalies suma negali viršyti 160 procentų nustatytos pareiginės algos pastoviosios dalies dydžio.
+1. Biudžetinės įstaigos darbuotojui, atsižvelgiant į atliekamų funkcijų ar užduočių sudėtingumą, mastą ir pobūdį, gali būti skiriamos šios priemokos:
+
+
+1) už papildomą darbo krūvį, kai yra padidėjęs darbų mastas, atliekant pareigybės aprašyme nustatytas funkcijas, bet neviršijama nustatyta darbo laiko trukmė;
+
+
+
+
+2) už pavadavimą, kai raštu pavedama laikinai atlikti kito darbuotojo pareigybei nustatytas funkcijas;
+
+
+
+
+3) už papildomų funkcijų ar užduočių, nenustatytų pareigybės aprašyme ir suformuluotų raštu, vykdymą;
+
+
+
+
+4) už darbą, esant nukrypimų nuo normalių darbo sąlygų.
+
+
+
+
+
+
+2. Šio straipsnio 1 dalies 1, 2 ir 3 punktuose nustatytos priemokos gali siekti iki 30 procentų pareiginės algos pastoviosios dalies dydžio ir gali būti skiriamos ne ilgiau kaip iki kalendorinių metų pabaigos. Šių priemokų ir pareiginės algos kintamosios dalies suma negali viršyti 60 procentų nustatytos pareiginės algos pastoviosios dalies dydžio. Šio straipsnio 1 dalies 4 punkte nustatyta priemoka gali siekti iki 20 procentų pareiginės algos pastoviosios dalies dydžio ir gali būti skiriama iki darbo, esant nukrypimų nuo normalių darbo sąlygų, pabaigos. Nacionalinių ir valstybinių kultūros ir meno įstaigų vadovams ir atlikėjams priemokų ir pareiginės algos kintamosios dalies suma negali viršyti 160 procentų nustatytos pareiginės algos pastoviosios dalies dydžio, neįskaičiuojant priemokos už darbą, esant nukrypimų nuo normalių darbo sąlygų.
+
+
+
+
+3. Šio straipsnio 1 dalies 4 punkte nustatyta priemoka neskiriama, jeigu biudžetinės įstaigos darbuotojui karantino metu taikomi specialiuose įstatymuose nustatyti darbo apmokėjimo dydžiai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
  
 
 
 
 
+11 straipsnis. Mokėjimas už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą 
 
 
-11 straipsnis. Mokėjimas už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą ir darbą, esant nukrypimų nuo normalių darbo sąlygų
+1. Už darbą poilsio dieną, kuri nenustatyta pagal darbo (pamainos) grafiką, švenčių dieną mokamas dvigubas darbuotojo darbo užmokestis. 
 
 
-Už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą ir darbą, esant nukrypimų nuo normalių darbo sąlygų, biudžetinių įstaigų darbuotojams mokama Darbo kodekso nustatyta tvarka, konkrečius dydžius ir mokėjimo tvarką nustatant darbo apmokėjimo sistemoje.
+
+
+2. Už darbą naktį ir viršvalandinį darbą mokamas pusantro darbuotojo darbo užmokesčio dydžio užmokestis. Už viršvalandinį darbą poilsio dieną, kuri nenustatyta pagal darbo (pamainos) grafiką, ar viršvalandinį darbą naktį mokamas dvigubas darbuotojo darbo užmokestis, o už viršvalandinį darbą švenčių dieną – dviejų su puse darbuotojo darbo užmokesčio dydžių užmokestis.
+
+
+
+
+3. Darbuotojo prašymu darbo poilsio ar švenčių dienomis laikas ar viršvalandinio darbo laikas, padaugintas iš šio straipsnio 1 ir 2 dalyse nustatyto atitinkamo dydžio, gali būti pridedamas prie kasmetinių atostogų laiko. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
  
-
-
 
 
 
@@ -512,10 +567,10 @@ Už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, bu
 12 straipsnis. Premijos
 
 
-1. Biudžetinių įstaigų darbuotojams gali būti skiriamos premijos, neviršijant biudžetinės įstaigos darbo užmokesčiui skirtų lėšų: 
+1. Biudžetinių įstaigų darbuotojams gali būti skiriamos premijos, neviršijant biudžetinės įstaigos darbo užmokesčiui skirtų lėšų:
 
 
-1) atlikus vienkartines biudžetinės įstaigos veiklai ypač svarbias užduotis; 
+1) atlikus vienkartines biudžetinės įstaigos veiklai ypač svarbias užduotis;
 
 
 
@@ -530,9 +585,17 @@ Už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, bu
 
 
 
-4) įgijus teisę gauti kompensacinę išmoką profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, kurie dėl profesijos specifikos negali dirbti pagal įgytą specialybę ir dėl to nutraukiama jų darbo sutartis. 
+4) įgijus teisę gauti kompensacinę išmoką profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, kurie dėl profesijos specifikos negali dirbti pagal įgytą specialybę ir dėl to nutraukiama jų darbo sutartis;
 
 
+
+
+5) kitais darbdavio ir darbovietės lygmens kolektyvinėje sutartyje numatytais atvejais. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+ 
 
 
 
@@ -760,10 +823,12 @@ BAIGIAMOSIOS NUOSTATOS
 16 straipsnis. Kolektyvinių sutarčių nuostatų taikymas
 
 
-Darbdavio ir darbovietės lygmens kolektyvinėse sutartyse negali būti nustatyta palankesnių darbo apmokėjimo sąlygų, susijusių su papildomu valstybės biudžeto, savivaldybių biudžetų ir Valstybinio socialinio draudimo fondo biudžeto bei kitų valstybės įsteigtų pinigų fondų lėšų poreikiu.
+Darbdavio ir darbovietės lygmens kolektyvinėse sutartyse negali būti nustatyta palankesnių darbo apmokėjimo sąlygų, susijusių su papildomu valstybės biudžeto, savivaldybių biudžetų ir Valstybinio socialinio draudimo fondo biudžeto bei kitų valstybės įsteigtų pinigų fondų lėšų poreikiu, išskyrus šio įstatymo 12 straipsnio 1 dalies 5 punkte numatytą atvejį. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
  
-
-
 
 
 
@@ -790,6 +855,7 @@ darbo apmokėjimo ir komisijų narių atlygio
 už darbą įstatymo 
 1 priedas
  
+ 
 VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ VADOVŲ IR JŲ PAVADUOTOJŲ PAREIGINĖS ALGOS PASTOVIOSIOS DALIES KOEFICIENTAI 
  
 (Baziniais dydžiais)
@@ -809,54 +875,57 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ VADOVŲ IR JŲ PAVADUOTOJŲ PAREIGINĖS AL
 
  I grupė  (201 ir daugiau pareigybių) 
  iki 5 
- 6,72–14,08 
- 6,03–12,67 
+ 7,1–14,1 
+ 6,4–12,7 
 
 
  nuo daugiau kaip 5 iki 10 
- 6,86–14,41 
- 6,09–12,97 
+ 7,2–14,5 
+ 6,5–13 
 
 
  daugiau kaip 10 
- 7,0–14,74 
- 6,27–13,53 
+ 7,3–14,8 
+ 6,6–13,6 
 
 
  II grupė  (51–200 pareigybių) 
  iki 5 
- 6,44–13,64 
- 5,96–12,28 
+ 6,8–13,7 
+ 6,2–12,3 
 
 
  nuo daugiau kaip 5 iki 10 
- 6,58–13,86 
- 6,0–12,47 
+ 6,9–13,9 
+ 6,3–12,5 
 
 
  daugiau kaip 10 
- 6,72–14,08 
- 6,03–12,67 
+ 7–14,1 
+ 6,4–12,7 
 
 
  III grupė (50 ir mažiau pareigybių) 
  iki 5 
- 6,16–13,2 
- 5,77–11,88 
+ 6,5–13,3 
+ 6–11,9 
 
 
  nuo daugiau kaip 5 iki 10 
- 6,3–13,42 
- 5,84–12,1 
+ 6,6–13,5 
+ 6,1–12,2 
 
 
  daugiau kaip 10 
- 6,44–13,64 
- 5,93–12,28 
+ 6,7–13,7 
+ 6,2–12,3 
 
 
 
  
+ 
+Priedo pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
  
 
 
@@ -901,37 +970,33 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINI
 
 
  iki 5 
- 5,04–10,45 
- 5,18–10,67 
- 5,32–11,75 
- 4,76–9,77 
- 4,97–9,96 
- 5,11–10,15 
+ 5,9–10,5 
+ 6–10,7 
+ 6,1–12 
+ 4,8–9,8 
+ 5–10 
+ 5,2–10,2 
 
 
  nuo daugiau kaip 5 iki 10 
- 5,18–10,51 
- 5,32–10,89 
- 5,46–11,8 
- 4,97–9,96 
- 5,11–10,15 
- 5,24–10,35 
+ 6–10,6 
+ 6,1–10,9 
+ 6,2–12,1 
+ 5–10 
+ 5,2–10,2 
+ 5,3–10,4 
 
 
  daugiau kaip 10 
- 5,32–10,56 
- 5,46–11,11 
- 5,6–12,1 
- 5,11–10,15 
- 5,24–10,35 
- 5,38–10,55 
+ 6,1–10,7 
+ 6,2–11,2 
+ 6,3–12,2 
+ 5,2–10,2 
+ 5,3–10,4 
+ 5,4–10,6 
 
 
 
- 
- 
- 
- 
  
 
 
@@ -965,41 +1030,44 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ ADMINISTRACIJOS IR STRUKTŪRINIŲ PADALINI
 
 
  iki 5 
- 4,76–9,4 
- 4,89–10,5 
- 5,04–11,7 
- 4,68–8,8 
- 4,76–8,97 
- 4,82–9,13 
+ 5,4–9,5 
+ 5,5–10,6 
+ 5,6–11,8 
+ 4,7–8,9 
+ 4,8–9 
+ 4,9–9,2 
 
 
  nuo daugiau kaip 5 iki 10 
- 4,89–9,16 
- 5,04–10,55 
- 5,18–11,75 
- 4,76–8,97 
- 4,82–9,13 
- 4,97–9,31 
+ 5,5–9,6 
+ 5,6–10,7 
+ 5,7–11,9 
+ 4,8–9 
+ 4,9–9,2 
+ 5–9,4 
 
 
  daugiau kaip 10 
- 5,04–9,34 
- 5,18–10,6 
- 5,32–11,88 
- 4,82–9,13 
- 4,97–9,32 
- 5,11–9,46  
+ 5,6–9,7 
+ 5,7–10,8 
+ 5,8–12 
+ 4,9–9,2 
+ 5–9,4 
+ 5,2–9,5  
 
 
 
  
+
+
+Priedo pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
  
 
 
 
 
-
-
+ 
 Lietuvos Respublikos 
 valstybės ir savivaldybių įstaigų darbuotojų 
 darbo apmokėjimo ir komisijų narių atlygio 
@@ -1026,27 +1094,30 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ DARBUOTOJŲ, SU KURIAIS SUDARYTOS SUTARTYS
 
 
  A lygis 
- 4,7–8,36 
- 4,73–9,35 
- 4,8–10,45 
- 5,01–11,55 
+ 5–8,4 
+ 5,1–9,4 
+ 5,2–10,5 
+ 5,3–11,6 
 
 
  B lygis 
- 4,3–8,03 
- 4,35–8,14 
- 4,43–8,36 
- 4,49–8,8 
+ 4,6–8,1 
+ 4,7–8,2 
+ 4,8–8,4 
+ 4,9–8,9 
 
 
 
+ 
+Priedo pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
  
 
 
 
 
  
-Lietuvos Respublikos 
+Lietuvos Respublikos
 valstybės ir savivaldybių įstaigų darbuotojų 
 darbo apmokėjimo ir komisijų narių atlygio 
 už darbą įstatymo 
@@ -1072,13 +1143,16 @@ VALSTYBĖS IR SAVIVALDYBIŲ ĮSTAIGŲ KVALIFIKUOTŲ DARBUOTOJŲ PAREIGINĖS ALGO
 
 
  C lygis 
- 4,0–5,83 
- 4,03–5,94 
- 4,06–6,16 
- 4,08–7,7 
+ 4,2–5,9 
+ 4,3–6 
+ 4,4–6,2 
+ 4,5–7,8 
 
 
 
+ 
+Priedo pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
  
 
 
@@ -1999,8 +2073,6 @@ AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ PAREIGINIŲ ALGŲ PASTOVIOSIOS D
 
 32. Šiame skyriuje nurodytų darbuotojų pareiginės algos pastoviosios dalies koeficientai:
  
- 
- 
 (Baziniais dydžiais)
 
 
@@ -2022,10 +2094,10 @@ AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ PAREIGINIŲ ALGŲ PASTOVIOSIOS D
 
 
  Auklėtojas, koncertmeisteris, akompaniatorius 
- 4,1 
- 4,36 
- 4,41 
- 4,52 
+ 5,1 
+ 5,2 
+ 5,25 
+ 5,3 
 
 
 
@@ -2042,21 +2114,21 @@ AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ PAREIGINIŲ ALGŲ PASTOVIOSIOS D
 
 
  Auklėtojas, koncertmeisteris, akompaniatorius  
- 4,37 
- 4,47 
- 4,54 
+ 5,4 
+ 5,45 
+ 5,5 
 
 
  Vyresnysis auklėtojas, vyresnysis koncertmeisteris, vyresnysis akompaniatorius  
- 4,79 
- 4,86  
- 5,05 
+ 5,6 
+ 5,65 
+ 5,7 
 
 
  Auklėtojas metodininkas, koncertmeisteris metodininkas, akompaniatorius metodininkas  
- 5,23 
- 5,38 
- 5,5 
+ 5,75 
+ 5,8 
+ 5,85 
 
 
  Auklėtojas ekspertas, koncertmeisteris ekspertas, akompaniatorius ekspertas 
@@ -2066,6 +2138,9 @@ AUKLĖTOJŲ, KONCERTMEISTERIŲ, AKOMPANIATORIŲ PAREIGINIŲ ALGŲ PASTOVIOSIOS D
 
 
 
+ 
+Punkto pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
  
 
 
@@ -2220,6 +2295,7 @@ MOKYKLŲ VADOVŲ IR JŲ PAVADUOTOJŲ UGDYMUI PAREIGINĖS ALGOS PASTOVIOSIOS DALI
 
 
 42. Mokyklų vadovų pareiginės algos pastoviosios dalies koeficientai:
+ 
 (Baziniais dydžiais)
 
 
@@ -2245,47 +2321,51 @@ MOKYKLŲ VADOVŲ IR JŲ PAVADUOTOJŲ UGDYMUI PAREIGINĖS ALGOS PASTOVIOSIOS DALI
 
 
  iki 200 
- 7,6–10,71 
- 7,8–11,1 
- 8,0–11,37 
+ 10,71 
+ 11,1 
+ 11,37 
 
 
 
  201–400 
- 8,4–11,7 
- 8,6–11,8 
- 8,8–11,81 
+ 11,7 
+ 11,8 
+ 11,81 
 
 
 
  401–600 
- 9,0–11,74 
- 9,2–11,82 
- 9,4–11,85 
+ 11,74 
+ 11,82 
+ 11,85 
 
 
 
  601–1 000 
- 9,6–12,6 
- 9,8–12,62 
- 10,0–12,65 
+ 12,6 
+ 12,62 
+ 12,65 
 
 
 
  1 001 ir daugiau 
- 10,2–12,6 
- 10,4–12,64 
- 10,6–12,68 
+ 12,62 
+ 12,64 
+ 12,68 
 
 
 
 
+ 
+Punkto pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
  
 
 
 
 
 43. Mokyklų vadovų pavaduotojų ugdymui pareiginės algos pastoviosios dalies koeficientai: 
+ 
 (Baziniais dydžiais)
 
 
@@ -2303,18 +2383,21 @@ MOKYKLŲ VADOVŲ IR JŲ PAVADUOTOJŲ UGDYMUI PAREIGINĖS ALGOS PASTOVIOSIOS DALI
 
 
  iki 500 
- 5,76–10,44 
- 5,97–10,46 
- 6,15–10,48 
+ 10,44 
+ 10,46 
+ 10,48 
 
 
  501 ir daugiau 
- 7,16–10,5 
- 7,45–10,65 
- 7,66–10,8 
+ 10,5 
+ 10,65 
+ 10,8 
 
 
 
+ 
+Punkto pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
  
 
 
@@ -2394,18 +2477,21 @@ MOKYKLŲ UGDYMĄ ORGANIZUOJANČIŲ SKYRIŲ VEDĖJŲ PAREIGINĖS ALGOS PASTOVIOSI
 
 
  iki 10  
- 4,85–8,68 
+ 9,1 
 
 
  nuo daugiau kaip 10 iki 15  
- 5,09–8,72 
+ 9,5 
 
 
  daugiau kaip 15  
- 5,35–8,89 
+ 10 
 
 
 
+ 
+Punkto pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
  
 
 
@@ -2524,3 +2610,8 @@ Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apm
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2606, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20628
 Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo Nr. XIII-198 pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo Nr. XIII-198 1, 5, 7, 9, 10, 11, 12, 16 straipsnių ir 1, 2, 3, 4, 5 priedų pakeitimo įstatymas
