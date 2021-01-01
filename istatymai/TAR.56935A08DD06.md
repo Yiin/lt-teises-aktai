@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.56935A08DD06"
 
 # Lietuvos Respublikos jūros aplinkos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2019-07-25 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2731, i. k. 0971010ISTAVIII-512
  
@@ -211,7 +211,10 @@ Nr. XIII-2315, 2019-07-11, paskelbta TAR 2019-07-24, i. k. 2019-12188
 
 
 
-21. Regioninis šalių bendradarbiavimas – Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių ir, kai įmanoma, Baltijos jūros baseino trečiųjų šalių bendradarbiavimas ir veiklos koordinavimas, siekiant parengti ir įgyvendinti Baltijos jūros aplinkos apsaugos strategijas.
+21. Regioninis šalių bendradarbiavimas – Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių ir, kai įmanoma, Baltijos jūros baseino trečiųjų šalių bendradarbiavimas ir veiklos koordinavimas, siekiant parengti ir įgyvendinti Baltijos jūros aplinkos apsaugos planavimo dokumentus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3113, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15324
+ 
 
 
 
@@ -231,7 +234,9 @@ Nr. XIII-2315, 2019-07-11, paskelbta TAR 2019-07-24, i. k. 2019-12188
 
 
 
-25. Kitos šio įstatymo sąvokos suprantamos, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Aplinkos monitoringo įstatyme, Aplinkos apsaugos valstybinės kontrolės įstatyme, Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Prekybinės laivybos įstatyme, Saugios laivybos įstatyme, Saugomų teritorijų įstatyme, Vandens įstatyme, Žemės gelmių įstatyme.
+25. Kitos šio įstatymo sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos monitoringo įstatyme, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos prekybinės laivybos įstatyme, Lietuvos Respublikos saugios laivybos įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos vandens įstatyme, Lietuvos Respublikos žemės gelmių įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3113, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15324
  
 
 
@@ -242,14 +247,16 @@ Nr. XIII-2315, 2019-07-11, paskelbta TAR 2019-07-24, i. k. 2019-12188
 
 
 ANTRASIS SKIRSNIS
-BALTIJOS JŪROS APLINKOS APSAUGOS STRATEGIJA
+BALTIJOS JŪROS APLINKOS APSAUGOS POLITIKOS FORMAVIMAS IR ĮGYVENDINIMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIII-3113, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15324
  
 
 
-4 straipsnis. Baltijos jūros aplinkos apsaugos strategija
+4 straipsnis. Baltijos jūros aplinkos apsaugos politikos formavimas ir įgyvendinimas 
 
 
-1. Atsižvelgiant į Baltijos jūros rajono aplinkos būklę, Lietuvos Respublikos jūros rajonui parengiama ir iki 2014 m. liepos 15 d. patvirtinama Baltijos jūros aplinkos apsaugos strategija (toliau – Strategija). Šios strategijos pagrindinis tikslas – pasiekti ir (ar) išlaikyti gerą jūros aplinkos būklę. Strategija siekiama:
+1. Atsižvelgiant į Baltijos jūros rajono aplinkos būklę, Baltijos jūros aplinkos apsaugos priemonės suplanuojamos Lietuvos Respublikos Vyriausybės tvirtinamose nacionalinėse plėtros programose. Baltijos jūros aplinkos apsaugos priemonėmis siekiama:
 
 
 1) saugoti jūros aplinką, neleisti jai blogėti ir, jei įmanoma, atkurti jūros ekosistemas akvatorijose, kuriose ši aplinka neigiamai paveikta;
@@ -264,12 +271,12 @@ BALTIJOS JŪROS APLINKOS APSAUGOS STRATEGIJA
 
 
 
-2. Už Strategijos parengimą atsakinga Lietuvos Respublikos aplinkos ministerija (toliau – Aplinkos ministerija). Strategiją tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė).
+2. Nacionalines plėtros programas, kuriose suplanuojamos Baltijos jūros aplinkos apsaugos priemonės, rengia, organizuoja, koordinuoja ir jų įgyvendinimą kontroliuoja Aplinkos ministerija.
 
 
 
 
-3. Strategijoje turi būti:
+3. Nacionalinėse plėtros programose, kuriose suplanuojamos Baltijos jūros aplinkos apsaugos priemonės, turi būti:
 
 
 1) jūros aplinkos būklės įvertinimas;
@@ -287,24 +294,24 @@ BALTIJOS JŪROS APLINKOS APSAUGOS STRATEGIJA
 
 
 
-4) numatytas jūros aplinkos būklės stebėsenos programos parengimas ir vykdymas;
-
-
-
-
-5) Strategijos įgyvendinimo priemonių planas, kuriame nustatytos priemonės gerai jūros aplinkos būklei pasiekti ar išlaikyti.
+4) numatyta jūros aplinkos būklės stebėsenos programos parengimas ir vykdymas.
 
 
 
 
 
 
-4. Baltijos jūros rajono geros jūros aplinkos būklės kriterijus, jūros aplinkos būklės įvertinimo, Baltijos jūros rajono geros jūros aplinkos būklės savybių nustatymo, jūros aplinkos apsaugos tikslų, priemonių Baltijos jūros rajono gerai aplinkos būklei pasiekti ar išlaikyti nustatymo reikalavimus ir su jūrų vandenimis susijusių ekosistemų elementų, antropogeninių pavojų ir žmogaus veiklos rūšių orientacinius sąrašus tvirtina Lietuvos Respublikos aplinkos ministras. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2315, 2019-07-11, paskelbta TAR 2019-07-24, i. k. 2019-12188
+4. Baltijos jūros aplinkos apsaugos priemonėms įgyvendinti rengiamas Baltijos jūros aplinkos apsaugos priemonių įgyvendinimo veiksmų planas, kuriame detalizuojamos šios priemonės ir nustatomi veiksmai gerai jūros aplinkos būklei pasiekti ar išlaikyti.
+
+
+
+
+5. Baltijos jūros rajono geros jūros aplinkos būklės kriterijus, jūros aplinkos būklės įvertinimo, Baltijos jūros rajono geros jūros aplinkos būklės savybių nustatymo, jūros aplinkos apsaugos tikslų, priemonių Baltijos jūros rajono gerai aplinkos būklei pasiekti ar išlaikyti nustatymo reikalavimus tvirtina aplinkos ministras. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3113, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15324
  
-
-
 
 
 
@@ -331,7 +338,10 @@ Nr. XIII-2315, 2019-07-11, paskelbta TAR 2019-07-24, i. k. 2019-12188
 6 straipsnis. Regioninis šalių bendradarbiavimas
 
 
-1. Rengiant Strategiją, Aplinkos ministerija ar jos įgaliota institucija bendradarbiauja su kitomis Baltijos jūros valstybėmis, kad būtų užtikrintas Strategijos nuoseklumas ir koordinavimas su kitų Baltijos jūros valstybių aplinkos apsaugos strategijomis.
+1. Planuodama Baltijos jūros aplinkos apsaugos priemones, Aplinkos ministerija ar jos įgaliota institucija bendradarbiauja su kitomis Baltijos jūros valstybėmis, kad būtų užtikrintas nuoseklumas ir koordinavimas su kitų Baltijos jūros valstybių aplinkos apsaugos planavimo dokumentais. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3113, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15324
+ 
 
 
 
@@ -346,7 +356,9 @@ Nr. XIII-2315, 2019-07-11, paskelbta TAR 2019-07-24, i. k. 2019-12188
 
 
 
-4. Siekiant geros jūros aplinkos būklės, prireikus Strategijos rengimas ir įgyvendinimas koordinuojamas ir bendradarbiaujama su Baltijos jūros baseine esančiomis sausumos valstybėmis. Šis koordinavimas ir bendradarbiavimas vyksta per šio straipsnio 3 dalyje nurodytas organizacijas arba bendradarbiaujama tarpvalstybinių susitarimų dėl tarpvalstybinių upių baseinų rajonų, nurodytų Vandens įstatyme, pagrindu.
+4. Siekiant geros jūros aplinkos būklės, prireikus Baltijos jūros aplinkos apsaugos priemonių rengimas ir įgyvendinimas koordinuojamas ir bendradarbiaujama su Baltijos jūros baseine esančiomis sausumos valstybėmis. Šis koordinavimas ir bendradarbiavimas vyksta per šio straipsnio 3 dalyje nurodytas organizacijas arba bendradarbiaujama tarpvalstybinių susitarimų dėl tarpvalstybinių upių baseinų rajonų, nurodytų Vandens įstatyme, pagrindu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3113, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15324
  
 
 
@@ -981,3 +993,8 @@ Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 13 ir 30 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2315, 2019-07-11, paskelbta TAR 2019-07-24, i. k. 2019-12188
 Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 3, 4, 5 straipsnių ir 3 priedo pakeitimo ir Įstatymo 1 priedo pripažinimo netekusiu galios įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3113, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15324
+Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 3, 4 ir 6 straipsnių ir antrojo skirsnio pavadinimo pakeitimo įstatymas
