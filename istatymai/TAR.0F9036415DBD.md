@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-12-30 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-03-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -623,20 +623,22 @@ Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
 
 
 
-9. Pagal šio įstatymo 4 straipsnį draudžiamų asmenų socialinio draudimo įmokos, išskyrus privalomojo sveikatos draudimo įmokas, pagal Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu patvirtintus tarifus skaičiuojamos nuo sumos, ne didesnės kaip 2019 metais – 120 VDU suma, 2020 metais – 84 VDU suma, 2021 ir vėlesniais metais – 60 VDU suma, o šias sumas viršijančiai pajamų daliai taikomas 0 procentų įmokų tarifas. Priskaičiavus pagal Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu patvirtintus tarifus vienos iš socialinio draudimo rūšies socialinio draudimo įmokas nuo šioje dalyje nurodytos maksimalios sumos, toliau pagal tuos tarifus skaičiuojamos tik kitų socialinio draudimo rūšių socialinio draudimo įmokos, iki bus pasiekta atitinkamų kalendorinių metų atitinkamos socialinio draudimo rūšies įmokų skaičiavimo maksimali suma. Jeigu asmuo atitinkamais kalendoriniais metais yra draudžiamas pagal šio įstatymo 4 straipsnį daugiau negu vieno draudėjo, socialinio draudimo įmokos pagal Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu patvirtintus tarifus skaičiuojamos nuo šioje dalyje nustatytų sumų pagal kiekvieną draudėją atskirai. 
-TAR pastaba. 10 straipsnio 3 dalies 2 punkto ir 9 dalies nuostatos taikomos apskaičiuojant 2019 metų ir vėlesnių mokestinių laikotarpių socialinio draudimo įmokas.
+9. Pagal šio įstatymo 4 straipsnį draudžiamų asmenų apdraustųjų socialinio draudimo įmokos, išskyrus privalomojo sveikatos draudimo įmokas, pagal Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu patvirtintus tarifus skaičiuojamos nuo sumos, ne didesnės kaip 60 VDU suma, o šias sumas viršijančiai pajamų daliai taikomas 0 procentų įmokų tarifas. Priskaičiavus pagal Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu patvirtintus tarifus vienos iš socialinio draudimo rūšies socialinio draudimo įmokas nuo šioje dalyje nurodytos maksimalios sumos, toliau pagal tuos tarifus skaičiuojamos tik kitų socialinio draudimo rūšių socialinio draudimo įmokos, iki bus pasiekta atitinkamų kalendorinių metų atitinkamos socialinio draudimo rūšies įmokų skaičiavimo maksimali suma. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
 Straipsnio dalies pakeitimai:
 Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
  
 
 
 
 
-10. Socialinio draudimo įmokos, išskyrus privalomojo sveikatos draudimo įmokas, kurios per kalendorinius metus sumokėtos didesnės, negu šio straipsnio 9 dalyje nustatyta atitinkamų kalendorinių metų socialinio draudimo įmokų bazė, grąžinamos draudėjams iki kitų metų gegužės 31 dienos. 
+10. Apdraustųjų socialinio draudimo įmokos, išskyrus privalomojo sveikatos draudimo įmokas, kurios per kalendorinius metus sumokėtos didesnės, negu šio straipsnio 9 dalyje nustatyta atitinkamų kalendorinių metų socialinio draudimo įmokų bazė, grąžinamos apdraustiesiems asmenims iki kitų metų gegužės 31 dienos į apdraustojo asmens sąskaitą kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje, į kurią buvo pervesta paskutinė išmoka, kurios mokėjimas pavestas Fondo valdybai ar jos teritoriniams skyriams (toliau kartu – išmoka, kurios mokėjimas pavestas Fondo valdybos teritoriniams skyriams), jeigu nuo nurodytos išmokos pervedimo į apdraustojo asmens sąskaitą kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje nepraėjo daugiau kaip 36 mėnesiai. Jeigu nurodytos sąskaitos nėra arba apdraustasis asmuo pageidauja, kad susidariusi socialinio draudimo įmokų permoka būtų pervesta į kitą jo sąskaitą kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje, ji pervedama į apdraustojo asmens nurodytą sąskaitą Fondo valdybos direktoriaus nustatyta tvarka. Apie socialinio draudimo įmokų permokos pervedimą apdraustasis asmuo informuojamas Fondo valdybos Elektroninės gyventojų aptarnavimo sistemos priemonėmis ne vėliau kaip per 3 darbo dienas nuo socialinio draudimo įmokų permokos pervedimo. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
+Straipsnio dalies pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
  
 
 
@@ -883,9 +885,10 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-4. Šio įstatymo 5 straipsnio 2 ir 3 dalyse nurodytų asmenų socialinio draudimo įmokos mokamos taip: individualios įmonės moka įmokas už šių įmonių savininkus, mažosios bendrijos – už jų narius, tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos – už jų tikruosius narius, šeimynos – už šeimynos dalyvius nuo individualios įmonės, mažosios bendrijos, bendrijos ar šeimynos įregistravimo Juridinių asmenų registre dienos, kiti savarankiškai dirbantys asmenys jiems priklausančias mokėti socialinio draudimo įmokas moka į Fondo lėšų sąskaitą nuo veiklos vykdymo pradžios iki veiklos pabaigos. Verslo liudijimus turintys asmenys socialinio draudimo įmokas sumoka už verslo liudijimo galiojimo laiką, o jeigu asmuo pagal verslo liudijimą dirba ne visą kalendorinį mėnesį, pagal asmens pateiktą prašymą Fondo valdybos teritoriniam skyriui gali būti sumokėtos socialinio draudimo įmokos už visą kalendorinį mėnesį.
+4. Šio įstatymo 5 straipsnio 2 ir 3 dalyse nurodytų asmenų socialinio draudimo įmokos mokamos taip: individualios įmonės moka įmokas už šių įmonių savininkus, mažosios bendrijos – už jų narius, tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos – už jų tikruosius narius, šeimynos – už šeimynos dalyvius nuo individualios įmonės, mažosios bendrijos, bendrijos ar šeimynos įregistravimo Juridinių asmenų registre dienos, kiti savarankiškai dirbantys asmenys jiems priklausančias mokėti socialinio draudimo įmokas moka į Fondo lėšų sąskaitą nuo veiklos vykdymo pradžios iki veiklos pabaigos. Verslo liudijimus turintys asmenys socialinio draudimo įmokas sumoka už verslo liudijimo galiojimo laiką, o jeigu asmuo pagal verslo liudijimą dirba ne visą kalendorinį mėnesį, pagal asmens pateiktą Fondo valdybos direktoriaus patvirtintos formos prašymą Fondo valdybos teritoriniam skyriui gali būti sumokėtos socialinio draudimo įmokos už visą kalendorinį mėnesį, prašymą pateikiant Fondo valdybos teritoriniam skyriui ne vėliau kaip iki asmens metinės pajamų mokesčio deklaracijos už laikotarpį, į kurį įeina šis mėnuo, pateikimo Valstybinei mokesčių inspekcijai termino paskutinės dienos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
  
 
 
@@ -899,7 +902,11 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-6. Asmenys, ketinantys įsigyti verslo liudijimus trumpesniam negu 3 mėnesių laikotarpiui, privalo iš anksto sumokėti socialinio draudimo įmokas už visą verslo liudijimo galiojimo laikotarpį. Asmenys, įsigiję verslo liudijimus 3 mėnesių ar ilgesniam laikotarpiui, socialinio draudimo įmokas moka kartą per ketvirtį ne vėliau kaip iki kito ketvirčio pirmo mėnesio 15 dienos. Tuo atveju, kai sumokėjusiam socialinio draudimo įmokas asmeniui verslo liudijimas neišduodamas arba už išduotą verslo liudijimą grąžinama susidariusi pajamų mokesčio permoka, socialinio draudimo įmokų suma grąžinama asmeniui arba įskaitoma į būsimąjį laikotarpį Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatytais atvejais ir tvarka.
+6. Asmenys, ketinantys įsigyti verslo liudijimus trumpesniam negu 3 mėnesių laikotarpiui, privalo iš anksto sumokėti socialinio draudimo įmokas už visą verslo liudijimo galiojimo laikotarpį. Asmenys, įsigiję verslo liudijimus 3 mėnesių ar ilgesniam laikotarpiui, socialinio draudimo įmokas moka kartą per ketvirtį ne vėliau kaip iki kito ketvirčio pirmo mėnesio 15 dienos. Jeigu asmeniui, sumokėjusiam socialinio draudimo įmokas, verslo liudijimas neišduodamas arba už išduotą verslo liudijimą grąžinama susidariusi pajamų mokesčio permoka, socialinio draudimo įmokų suma administruojama šio straipsnio 10 dalyje nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3011, 2020-06-04, paskelbta TAR 2020-06-15, i. k. 2020-13046
+Nr. XIV-124, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28980
+ 
 
 
 
@@ -914,7 +921,20 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-9. Socialinio draudimo įmokų mokėjimo tvarka nustatoma Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse.
+9. Socialinio draudimo įmokų mokėjimo ir sumokėtų (išieškotų) socialinio draudimo įmokų ir kitų Fondo administravimo įstaigų administruojamų įmokų, delspinigių, baudų ir palūkanų sumų įskaitymo tvarka nustatoma Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
+
+
+
+
+10. Socialinio draudimo įmokų, delspinigių, baudų ir palūkanų permokos suma Fondo valdybos direktoriaus nustatyta tvarka pirmiausia įskaitoma socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolai padengti, Fondo administravimo įstaigų administruojamai žalai, atsiradusiai dėl draudėjo kaltės, atlyginti, po to – privalomojo sveikatos draudimo įmokų skolai padengti, o likusi nurodytos permokos suma Valstybinės mokesčių inspekcijos viršininko nustatyta tvarka, suderinta su Fondo valdyba, įskaitoma Valstybinės mokesčių inspekcijos administruojamų mokesčių mokestinei nepriemokai, nesumokėtoms už administracinius nusižengimus Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka paskirtų baudų sumoms padengti, o jeigu mokestinės nepriemokos ir nesumokėtų baudų sumų nėra, ši socialinio draudimo įmokų, delspinigių, baudų ir palūkanų permokos suma Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka įskaitoma kaip socialinio draudimo įmoka ar jos dalis už būsimus laikotarpius arba, gavus draudėjo prašymą, Fondo valdybos direktoriaus nustatyta tvarka grąžinama draudėjui. Jeigu dalis socialinio draudimo įmokų, delspinigių, baudų ir palūkanų permokos yra apdraustojo socialinio draudimo įmokų permoka, draudėjas privalo grąžinti savo apdraustajam jam priklausančią apdraustojo socialinio draudimo įmokų permokos dalį.
+Papildyta straipsnio dalimi:
+Nr. XIII-3011, 2020-06-04, paskelbta TAR 2020-06-15, i. k. 2020-13046
+Straipsnio dalies pakeitimai:
+Nr. XIV-124, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28980
+ 
 
 
 
@@ -1016,15 +1036,19 @@ DRAUDĖJŲ, APDRAUSTŲJŲ ASMENŲ, SOCIALINIO DRAUDIMO IŠMOKŲ IR KITŲ IŠMOK�
 
 
 
-4) draudėjo, kurio apdraustųjų asmenų skaičius yra didesnis negu 3, apdraustiesiems asmenims apskaičiuotų pajamų, nuo kurių turi būti priskaičiuotos socialinio draudimo įmokos, vidurkis. Draudėjo, kurio apdraustųjų asmenų skaičius yra didesnis negu 20, apdraustiesiems asmenims apskaičiuotų pajamų, nuo kurių turi būti priskaičiuotos socialinio draudimo įmokos, mediana, standartinis nuokrypis, 25 procentų kvantilis ir 75 procentų kvantilis;
+4) draudėjo, kurio apdraustųjų asmenų skaičius yra didesnis negu 3, apdraustiesiems asmenims apskaičiuotų pajamų, nuo kurių turi būti priskaičiuotos socialinio draudimo įmokos, vidurkis ir bendra draudėjo priskaičiuotų socialinio draudimo įmokų suma; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-824, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20048
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
  
 
 
 
 
-5) draudėjo, kurio apdraustųjų asmenų skaičius yra didesnis negu 3, priskaičiuotų socialinio draudimo įmokų suma.
+5) draudėjo, kurio apdraustųjų asmenų skaičius yra didesnis negu 20, apdraustiesiems asmenims apskaičiuotų pajamų, nuo kurių turi būti priskaičiuotos socialinio draudimo įmokos, mediana, standartinis nuokrypis, 25 procentų kvantilis ir 75 procentų kvantilis; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
@@ -1109,17 +1133,19 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-3. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti socialinio draudimo įmokų į Fondą įsiskolinimo mokėjimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą įsiskolinimo grąžinimo grafiką, kuris negali būti ilgesnis negu 4 metai. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma neviršija 1 500 eurų, socialinio draudimo įmokų įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, vykdomas socialinio draudimo įmokų įsiskolinimo išieškojimas priverstine tvarka.
+3. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti socialinio draudimo įmokų į Fondą įsiskolinimo mokėjimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą grąžinimo grafiką, kuris negali būti ilgesnis negu 4 metai. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma yra ne mažesnė kaip 125 eurai ir ne didesnė kaip 1 500 eurų, socialinio draudimo įmokų įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti socialinio draudimo įmokų sumokėjimą netenka galios ir vykdomas socialinio draudimo įmokų įsiskolinimo išieškojimas priverstine tvarka. Savarankiškai dirbančiam asmeniui, jeigu jo bendra įsiskolinimo Fondui suma mažesnė kaip 125 eurai, socialinio draudimo įmokų įsiskolinimas neatidedamas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
  
 
 
 
 
-4. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą įsiskolinimo grąžinimo grafiką, kuris negali būti ilgesnis negu 4 metai. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma neviršija 1 500 eurų, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, vykdomas delspinigių išieškojimas priverstine tvarka.
+4. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą grąžinimo grafiką, kuris negali būti ilgesnis negu 4 metai. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma yra ne mažesnė kaip 125 eurai ir ne didesnė kaip 1 500 eurų, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą netenka galios ir vykdomas delspinigių išieškojimas priverstine tvarka. Savarankiškai dirbančiam asmeniui, jeigu jo bendra įsiskolinimo Fondui suma mažesnė kaip 125 eurai, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas neatidedamas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
  
 
 
@@ -1140,7 +1166,10 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-6. Fondo administravimo įstaigos gali atidėti baudų išieškojimą iki vienų metų, nustatydamos baudos mokėjimo grafiką Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka, kuris negali būti ilgesnis negu 4 metai. Pažeidus mokėjimo grafiką, vykdomas baudų išieškojimas priverstine tvarka.
+6. Fondo administravimo įstaigos gali atidėti baudų išieškojimą iki vienų metų, nustatydamos baudos mokėjimo grafiką Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklėse nustatyta tvarka, kuris negali būti ilgesnis negu 4 metai. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti baudų išieškojimą netenka galios ir vykdomas baudų išieškojimas priverstine tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
@@ -1160,7 +1189,10 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-10. Šio įstatymo 20 straipsnyje nurodytais būdais pradėjus laiku nesumokėtų socialinio draudimo įmokų, delspinigių, palūkanų ir baudų priverstinio išieškojimo procedūras, jų vykdymas gali būti tęsiamas, nepaisant to, kad jų vykdymo metu pasibaigia jų priverstinio išieškojimo senaties terminas. Kai priimamas sprendimas atidėti socialinio draudimo įmokų įsiskolinimo sumokėjimo, delspinigių išieškojimo ar baudų sumokėjimo laiką, priverstinio išieškojimo senaties terminas nutraukiamas. Tokiu atveju nutrauktas priverstinio išieškojimo senaties terminas tęsiamas nuo to momento, kai nutraukiama sutartis arba panaikinamas sprendimas, kuriais atitinkamos sumos sumokėjimas ar išieškojimas buvo atidėtas. Pasibaigus socialinio draudimo įmokų skolų priverstinio išieškojimo senaties terminui, Fondo administravimo įstaigos neturi teisės imtis jokių šių įmokų, su jomis susijusių priskaičiuotų delspinigių, baudų ar palūkanų išieškojimo veiksmų.
+10. Šio įstatymo 20 straipsnyje nurodytais būdais pradėtos laiku nesumokėtų socialinio draudimo įmokų, delspinigių, palūkanų ir baudų priverstinio išieškojimo procedūros tęsiamos, iki sueina jų priverstinio išieškojimo senaties terminas. Jeigu priimamas sprendimas atidėti socialinio draudimo įmokų įsiskolinimo sumokėjimą, delspinigių ar baudų išieškojimą, priverstinio išieškojimo senaties terminas nutraukiamas. Tokiu atveju nutrauktas priverstinio išieškojimo senaties terminas tęsiamas nuo to momento, kai netenka galios sprendimas, kuriuo atitinkamos sumos sumokėjimas ar išieškojimas buvo atidėtas. Pasibaigus socialinio draudimo įmokų skolų priverstinio išieškojimo senaties terminui, Fondo administravimo įstaigos neturi teisės imtis jokių šių įmokų, su jomis susijusių priskaičiuotų delspinigių, baudų ar palūkanų išieškojimo veiksmų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
@@ -1170,7 +1202,11 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-12. Draudėjas, prieš pateikdamas patikslintus duomenis apie apdraustųjų asmenų didesnes pajamas už praėjusį laikotarpį, privalo sumokėti į Fondą trūkstamus socialinio draudimo įmokas ir delspinigius pagal tuo laikotarpiu galiojusius dydžius. Jeigu dėl draudėjo patikslintų duomenų apdraustųjų asmenų draudžiamosios pajamos už praėjusį laikotarpį mažėja ir pagal mažintinas draudžiamąsias pajamas apdraustiesiems asmenims jau yra apskaičiuotos ir išmokėtos socialinio draudimo išmokos, susidariusi socialinio draudimo išmokų permoka mažinama socialinio draudimo įmokų permokos suma. Likusi socialinio draudimo įmokų permokos suma įskaitoma kaip socialinio draudimo įmokų už būsimus laikotarpius suma arba, gavus draudėjo prašymą, jam grąžinama.
+12. Draudėjas, prieš pateikdamas patikslintus duomenis apie apdraustųjų asmenų didesnes pajamas už praėjusį laikotarpį, privalo sumokėti į Fondą trūkstamas socialinio draudimo įmokas ir delspinigius už apdraustuosius asmenis pagal tuo laikotarpiu galiojusius dydžius. Jeigu patikslinus duomenis apie apdraustuosius asmenis – jų pajamas ir (ar) kitus duomenis, kuriais remiantis skiriamos ir mokamos socialinio draudimo išmokos ir kitos išmokos, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, susidaro nurodytų išmokų permoka, ji mažinama socialinio draudimo įmokų permokos suma. Likusi socialinio draudimo įmokų permokos suma administruojama šio įstatymo 12 straipsnio 10 dalyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3011, 2020-06-04, paskelbta TAR 2020-06-15, i. k. 2020-13046
+Nr. XIV-124, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28980
+ 
 
 
 
@@ -1199,12 +1235,18 @@ Fondo administravimo įstaigos Vyriausybei paskelbus karantiną, kurio metu nust
 
 
 
-2) Fondo valdybos teritoriniai skyriai priima sprendimus dėl įsiskolinimo, viršijančio 30 000 eurų sumą, mokėjimo atidėjimo. Dėl šiame punkte nurodyto įsiskolinimo mokėjimo atidėjimo dokumentai Fondo tarybai neteikiami ir neprašoma jos nuomonės;
+2) Neteko galios nuo 2021-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
 
-3) įsiskolinimo mokėjimas atidedamas Fondo valdybos teritoriniams skyriams priimant sprendimus dėl įsiskolinimo mokėjimo atidėjimo, įsiskolinimo mokėjimo atidėjimo sutartys su draudėjais nesudaromos;
+3) Neteko galios nuo 2021-01-01
+Straipsnio punkto naikinimas:
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
+ 
 
 
 
@@ -1320,9 +1362,10 @@ Nr. XIV-36, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27344
 
 
 
-3. Kai draudėjui patikslinus duomenis apie asmens draudžiamąsias pajamas už praėjusį laikotarpį arba dėl kitų nuo draudėjo priklausančių priežasčių susidaro socialinio draudimo išmokų permoka, ji iš draudėjo taip pat gali būti išieškoma šio įstatymo 20 straipsnyje nustatytais būdais.
+3. Jeigu patikslinus draudėjo pateiktus duomenis už praėjusį laikotarpį arba dėl kitų nuo draudėjo priklausančių priežasčių susidaro socialinio draudimo išmokų ir (ar) kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, permoka, ji iš draudėjo taip pat gali būti išieškoma šio įstatymo 20 straipsnyje nustatytais būdais. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
+Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
  
 
 
@@ -3214,3 +3257,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 12 ir 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6, 10, 11, 12, 14, 15, 16, 19, 19-1, 21, 29, 30, 32, 36, 40 ir 41 straipsnių pakeitimo įstatymas
+ 
+34.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-124, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28980
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 12 ir 19 straipsnių pakeitimo įstatymo Nr. XIII-3011 pakeitimo įstatymas
