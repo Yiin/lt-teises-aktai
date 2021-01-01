@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.29EEB33AFCD0"
 
 # Lietuvos Respublikos centrinių kredito unijų įstatymas
 
-Suvestinė redakcija nuo 2020-06-15 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 45-1288, i. k. 1001010ISTAIII-1682
  
@@ -2598,12 +2598,26 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 
 
-10. Priežiūros institucijos nustatyta tvarka priežiūros institucijos tarnautojai turi teisę dalyvauti centrinės kredito unijos organų ir centrinės kredito unijos komitetų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti centrinės kredito unijos organų, komitetų ir centrinės kredito unijos vadovų veiklą.
+10. Priežiūros institucija nuomonę dėl indėlių draudžiamojo įvykio, kaip jis apibrėžtas Indėlių ir įsipareigojimų investuotojams draudimo įstatyme, patvirtinimo raštu pateikia ne vėliau kaip per 5 darbo dienas po to, kai nustato, kad priežiūros institucijos išduotą licenciją turinti centrinė kredito unija dėl su savo finansine padėtimi tiesiogiai susijusių priežasčių negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir to negalės padaryti artimiausiu metu. 
+Papildyta straipsnio dalimi:
+Nr. XIV-109, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28964
+ 
 
 
 
 
-11. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie centrinės kredito unijos skolininkus. Centrinė kredito unija priežiūros institucijai privalo teikti duomenis apie savo skolininkus ir turi teisę naudotis šiais duomenimis priežiūros institucijos teisės aktų nustatyta tvarka. 
+11. Priežiūros institucijos nustatyta tvarka priežiūros institucijos tarnautojai turi teisę dalyvauti centrinės kredito unijos organų ir centrinės kredito unijos komitetų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti centrinės kredito unijos organų, komitetų ir centrinės kredito unijos vadovų veiklą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-109, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28964
+ 
+
+
+
+
+12. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie centrinės kredito unijos skolininkus. Centrinė kredito unija priežiūros institucijai privalo teikti duomenis apie savo skolininkus ir turi teisę naudotis šiais duomenimis priežiūros institucijos teisės aktų nustatyta tvarka. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-109, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28964
+ 
 
 
 Straipsnio pakeitimai:
@@ -2875,7 +2889,10 @@ Nr. XIII-1233, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09841
 
 
 
-4. Priežiūros institucija sprendimą dėl poveikio priemonės taikymo, kuris pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą laikomas draudžiamuoju įvykiu, priima ne vėliau kaip per 5 darbo dienas nuo tada, kai nustato, kad priežiūros institucijos išduotą licenciją turinti centrinė kredito unija negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir yra pagrindas manyti, kad to negalės padaryti artimiausiu metu. 
+4. Neteko galios nuo 2021-01-01
+Straipsnio dalies naikinimas:
+Nr. XIV-109, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28964
+ 
 
 
 Straipsnio pakeitimai:
@@ -3257,7 +3274,7 @@ Nr. XIII-2229, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10343
 1. Centrinė kredito unija gali būti pripažinta nemokia, jeigu yra bent viena iš šių sąlygų:
 
 
-1) centrinė kredito unija dėl to, kad patyrė arba, tikėtina, kad patirs nuostolių, kuriems padengti reikės visų jos nuosavų lėšų arba didelės jų dalies, arba dėl kitų su jos finansine būkle susijusių priežasčių pažeidžia, arba, remiantis objektyviais tokį vertinimą pagrindžiančiais veiksniais, artimiausiu metu pažeis licencijai išduoti taikomus reikalavimus taip, kad priežiūros institucijai būtų pagrindas atšaukti licenciją;          
+1) centrinė kredito unija dėl to, kad patyrė arba, tikėtina, kad patirs nuostolių, kuriems padengti reikės visų jos nuosavų lėšų arba didelės jų dalies, arba dėl kitų su jos finansine būkle susijusių priežasčių pažeidžia, arba, remiantis objektyviais tokį vertinimą pagrindžiančiais veiksniais, artimiausiu metu pažeis licencijai išduoti taikomus reikalavimus taip, kad priežiūros institucijai būtų pagrindas atšaukti licenciją;     
 
 
 
@@ -3763,3 +3780,8 @@ Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 4 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2960, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11333
 Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 8 ir 9 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-109, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28964
+Lietuvos Respublikos centrinių kredito unijų įstatymo Nr. VIII-1682 49 ir 55 straipsnių pakeitimo įstatymas
