@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/303806a0869411e8af589337bf1eb893"
 
 # Lietuvos Respublikos technologijų ir inovacijų įstatymas
 
-Suvestinė redakcija nuo 2020-07-11 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-01-31
  
 Įstatymas paskelbtas: TAR 2018-07-13, i. k. 2018-11954
  
@@ -238,7 +238,9 @@ Inovacijų srities paskirtis – skatinti šiame įstatyme nurodytus subjektus v
 
 
 
-2. Mokslo, technologijų ir inovacijų plėtros kryptis tvirtina Vyriausybė strateginio planavimo dokumentuose.
+2. Mokslo, technologijų ir inovacijų politikos vystymosi kryptis nustato Lietuvos Respublikos Seimas, tvirtindamas Valstybės pažangos strategiją ir priimdamas įstatymus. Mokslo, technologijų ir inovacijų politikos strateginius tikslus ir (arba) pažangos uždavinius nustato Vyriausybė, tvirtindama Nacionalinį pažangos planą. Mokslo, technologijų ir inovacijų politikos pažangos uždavinius įgyvendinančios priemonės suplanuojamos Vyriausybės tvirtinamose nacionalinėse plėtros programose.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3102, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15308
  
 
 
@@ -452,7 +454,10 @@ Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
 
 
 
-4) rengia ilgalaikę mokslo, technologijų ir inovacijų plėtros strategiją, kurią Vyriausybės teikimu tvirtina Seimas.
+4) rengia mokslo, technologijų ir inovacijų politikos pažangos uždavinius įgyvendinančias nacionalines plėtros programas, organizuoja, koordinuoja ir kontroliuoja jų įgyvendinimą.
+Straipsnio punkto pakeitimai:
+Nr. XIII-3102, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15308
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -574,7 +579,10 @@ Valstybės technologijų ir inovacijų politiką pagal šiame ir kituose įstaty
 
 
 
-11) administruoja Inovacijų skatinimo fondą šio fondo veiklą reguliuojančių teisės aktų nustatyta tvarka;
+11) atlieka su Inovacijų skatinimo fondu susijusias funkcijas, nustatytas Lietuvos Respublikos inovacijų skatinimo fondo įstatyme ir kituose šio fondo veiklą reglamentuojančiuose teisės aktuose;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3168, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15501
+ 
 
 
 
@@ -716,7 +724,10 @@ Technologijų plėtros ir inovacijų skatinimo viešųjų paslaugų teikėjai ga
 
 
 
-6. Mokslo ir technologijų parkai gali dalyvauti įgyvendinant valstybės ir savivaldybių institucijų patvirtintas programas.
+6. Mokslo ir technologijų parkai gali dalyvauti įgyvendinant mokslo, technologijų ir inovacijų politikos pažangos uždavinius įgyvendinančiose nacionalinėse plėtros programose nustatytas priemones ir jas įgyvendinančius projektus.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3102, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15308
+ 
 
 
 
@@ -869,9 +880,10 @@ EKPERIMENTINĖS PLĖTROS IR INOVACINĖS VEIKLOS finansavimas IR SKATINIMAS
 
 
 
-3. Nacionalinės mokslo ir technologijų programos – konkursinės programos, kuriomis, sutelkus Lietuvos mokslo, technologijų ir verslo potencialą bei kryptingai naudojant valstybės finansinius išteklius, inicijuojamas valstybės, verslo ir visuomenės poreikius tenkinančių naujų sprendinių kūrimas pasirinktose srityse. Nacionalinių mokslo ir technologijų programų projektus įgyvendina konkurso būdu atrinktos valstybės mokslo ir studijų institucijos ir ūkio subjektai. Kiekvienos nacionalinės mokslo ir technologijų programos nuostatus rengia valstybės technologijų ir inovacijų politiką formuojanti ministerija kartu su Švietimo, mokslo ir sporto ministerija, o tvirtina Vyriausybė. Nacionalinės mokslo ir technologijų programos gali būti finansuojamos iš valstybės technologijų ir inovacijų politiką formuojančios ministerijos, Švietimo, mokslo ir sporto ministerijos, kitų ministerijų, šio įstatymo 14 straipsnyje nurodytos Vyriausybės įgaliotos institucijos, Lietuvos mokslo tarybos valstybės biudžeto asignavimų, Inovacijų skatinimo fondo ir kitų šaltinių. Nacionalines mokslo ir technologijų programas gali įgyvendinti šio įstatymo 14 straipsnyje nurodyta Vyriausybės įgaliota institucija ir Lietuvos mokslo taryba. Konkrečios nacionalinės mokslo ir technologijų programos finansavimo šaltinis arba šaltiniai ir programą įgyvendinanti institucija nurodomi tos programos nuostatuose.
+3. Nacionalinės mokslo ir technologijų programos – konkursinės programos, kuriomis, sutelkus Lietuvos mokslo, technologijų ir verslo potencialą bei kryptingai naudojant valstybės finansinius išteklius, inicijuojamas valstybės, verslo ir visuomenės poreikius tenkinančių naujų sprendinių kūrimas pasirinktose srityse. Nacionalinių mokslo ir technologijų programų projektus įgyvendina konkurso būdu atrinktos valstybės mokslo ir studijų institucijos ir ūkio subjektai. Kiekvienos nacionalinės mokslo ir technologijų programos nuostatus rengia valstybės technologijų ir inovacijų politiką formuojanti ministerija kartu su Švietimo, mokslo ir sporto ministerija, o tvirtina Vyriausybė. Nacionalinės mokslo ir technologijų programos gali būti finansuojamos iš valstybės technologijų ir inovacijų politiką formuojančiai  ministerijai, Švietimo, mokslo ir sporto ministerijai, kitoms ministerijoms, šio įstatymo 14 straipsnyje nurodytai Vyriausybės įgaliotai institucijai, Lietuvos mokslo tarybai skirtų valstybės biudžeto asignavimų ir kitų šaltinių. Nacionalines mokslo ir technologijų programas gali įgyvendinti šio įstatymo 14 straipsnyje nurodyta Vyriausybės įgaliota institucija ir Lietuvos mokslo taryba. Konkrečios nacionalinės mokslo ir technologijų programos finansavimo šaltinis arba šaltiniai ir programą įgyvendinanti institucija nurodomi tos programos nuostatuose.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2368, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12446
+Nr. XIII-3168, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15501
  
 
 
@@ -1001,7 +1013,7 @@ Nr. XIII-3168, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15501
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
 
 
  
