@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1A98CE535B1C"
 
 # Lietuvos Respublikos aplinkos monitoringo įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 112-2824, i. k. 0971010ISTAVIII-529
  
@@ -66,22 +66,42 @@ Aplinkos monitoringo įstatymas nustato aplinkos monitoringo turinį, struktūr�
 
 
 
-5. Savivaldybių aplinkos monitoringas – savivaldybių lygmeniu joms priskirtose teritorijose vykdomas aplinkos monitoringas.
+5. Radiologinis aplinkos monitoringas – aplinkos monitoringo dalis – sistemingas ir nuolatinis aplinkos gama dozės galios, aplinkos dozės ekvivalento ir aplinkos elementų, maisto produktų ir jų žaliavų, pašarų ir jų žaliavų bei geriamojo vandens užterštumo radionuklidais stebėjimas, jų sukeliamos gyventojų apšvitos vertinimas ir prognozė valstybės, savivaldybės ar ūkio subjektų lygiu. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+ 
 
 
 
 
-6. Ūkio subjektai – fiziniai ar juridiniai asmenys (įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat jų padalinius), eksploatuojantys ūkinės veiklos objektus ir (ar) vykdantys ūkinę veiklą.
+6. Savivaldybių aplinkos monitoringas – savivaldybių lygmeniu joms priskirtose teritorijose vykdomas aplinkos monitoringas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+ 
 
 
 
 
-7. Ūkio subjektų aplinkos monitoringas – teisės aktų nustatyta tvarka ūkio subjektų vykdomas savo ūkinės veiklos parametrų, kuriems taikomi aplinkos apsaugos normatyvai ir (ar) standartai, ir šios veiklos veikiamos gamtinės aplinkos monitoringas.
+7. Ūkio subjektai – fiziniai ar juridiniai asmenys (įskaitant užsienio valstybių juridinius asmenis ir kitas organizacijas, taip pat jų padalinius), eksploatuojantys ūkinės veiklos objektus ir (ar) vykdantys ūkinę veiklą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+ 
 
 
 
 
-8. Valstybinis aplinkos monitoringas – valstybės lygmeniu visoje Lietuvos Respublikos teritorijoje vykdomas aplinkos monitoringas. 
+8. Ūkio subjektų aplinkos monitoringas – teisės aktų nustatyta tvarka ūkio subjektų vykdomas savo ūkinės veiklos parametrų, kuriems taikomi aplinkos apsaugos normatyvai ir (ar) standartai, ir šios veiklos veikiamos gamtinės aplinkos monitoringas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+ 
+
+
+
+
+9. Valstybinis aplinkos monitoringas – valstybės lygmeniu visoje Lietuvos Respublikos teritorijoje vykdomas aplinkos monitoringas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+ 
 
 
 Straipsnio pakeitimai:
@@ -161,7 +181,10 @@ Vykdant aplinkos monitoringą, stebima, vertinama ir prognozuojama:
 
 
 
-3) fizikinis, radiacinis, cheminis, biologinis ir kitoks antropogeninis poveikis bei jo įtaka gamtinei aplinkai;
+3) fizikinis, radiologinis, cheminis, biologinis ir kitoks antropogeninis poveikis ir jo įtaka gamtinei aplinkai; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+ 
 
 
 
@@ -202,17 +225,26 @@ APLINKOS MONITORINGO ĮGYVENDINIMAS
 
 
 
-2. Valstybinį aplinkos monitoringą organizuoja Aplinkos ministerija, jį vykdo Aplinkos ministerija ar jos įgaliotos institucijos, Žemės ūkio ministerija ar jos įgaliotos institucijos, Valstybinė maisto ir veterinarijos tarnyba, kitos valstybės institucijos.
+2. Valstybinį aplinkos monitoringą, išskyrus valstybinį radiologinį aplinkos monitoringą, organizuoja Lietuvos Respublikos aplinkos ministerija, jį vykdo Aplinkos ministerija ar jos įgaliotos institucijos, Lietuvos Respublikos žemės ūkio ministerija ar jos įgaliotos institucijos, Valstybinė maisto ir veterinarijos tarnyba, kitos valstybės institucijos. Valstybinį radiologinį aplinkos monitoringą organizuoja Lietuvos Respublikos sveikatos apsaugos ministerija, jį vykdo Radiacinės saugos centras Lietuvos Respublikos sveikatos apsaugos ministro nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+ 
 
 
 
 
-3. Valstybinis aplinkos monitoringas vykdomas pagal Valstybinę aplinkos monitoringo programą. Valstybinę aplinkos monitoringo programą rengia Aplinkos ministerija kartu su kitomis valstybės institucijomis, vykdančiomis aplinkos monitoringą. Šią programą tvirtina Vyriausybė.
+3. Valstybinis aplinkos monitoringas vykdomas pagal Valstybinę aplinkos monitoringo programą. Valstybinę aplinkos monitoringo programą rengia Aplinkos ministerija kartu su Sveikatos apsaugos ministerija, kuri rengia šios programos valstybinio radiologinio aplinkos monitoringo dalį, ir kitomis valstybės institucijomis, vykdančiomis aplinkos monitoringą. Šią programą tvirtina Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+ 
 
 
 
 
-4. Valstybinės aplinkos monitoringo programos turinį, jos rengimo, derinimo, vykdymo, valstybinio aplinkos monitoringo kontrolės užtikrinimo ir informacijos teikimo tvarką nustato Valstybinio aplinkos monitoringo nuostatai. Juos rengia ir tvirtina Aplinkos ministerija.
+4. Valstybinės aplinkos monitoringo programos turinį, jos rengimo, derinimo, vykdymo, valstybinio aplinkos monitoringo kontrolės užtikrinimo ir informacijos teikimo tvarką nustato Valstybinio aplinkos monitoringo nuostatai. Juos tvirtina Lietuvos Respublikos aplinkos ministras, suderinęs su sveikatos apsaugos ministru. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+ 
 
 
 
@@ -263,12 +295,18 @@ APLINKOS MONITORINGO ĮGYVENDINIMAS
 
 
 
-2. Savivaldybių aplinkos monitoringas vykdomas pagal savivaldybės aplinkos monitoringo programą, kurią rengia savivaldybės vykdomoji institucija. Savivaldybių aplinkos monitoringo programos turinį, jų rengimo, derinimo, vykdymo, savivaldybių aplinkos monitoringo kontrolės užtikrinimo ir informacijos teikimo tvarką nustato Bendrieji savivaldybių aplinkos monitoringo nuostatai. Šiuos nuostatus rengia ir tvirtina Aplinkos ministerija.
+2. Savivaldybių aplinkos monitoringas vykdomas pagal savivaldybės aplinkos monitoringo programą, kurią rengia savivaldybės vykdomoji institucija. Savivaldybių aplinkos monitoringo programos turinį, jos rengimo, derinimo, vykdymo, savivaldybių aplinkos monitoringo kontrolės užtikrinimo ir informacijos teikimo tvarką nustato Bendrieji savivaldybių aplinkos monitoringo nuostatai. Šiuos nuostatus tvirtina aplinkos ministras, suderinęs su sveikatos apsaugos ministru. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+ 
 
 
 
 
-3. Savivaldybių aplinkos monitoringo programa turi būti suderinta su Aplinkos ministerija arba jos įgaliota institucija Bendrųjų savivaldybių aplinkos monitoringo nuostatų nustatyta tvarka ir patvirtinta savivaldybės tarybos.
+3. Savivaldybių aplinkos monitoringo programa turi būti suderinta su Aplinkos ministerija arba jos įgaliota institucija Bendruosiuose savivaldybių aplinkos monitoringo nuostatuose nustatyta tvarka ir patvirtinta savivaldybės tarybos. Kai savivaldybių aplinkos monitoringo programoje numatytas ir radiologinis aplinkos monitoringas, ji turi būti papildomai suderinta su Radiacinės saugos centru šioje dalyje nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+ 
 
 
 
@@ -320,7 +358,10 @@ Nr. XIII-2797, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02848
 
 
 
-2. Ūkio subjektų aplinkos monitoringas vykdomas pagal ūkio subjektų aplinkos monitoringo programą, kurią rengia patys ūkio subjektai. Ūkio subjektų aplinkos monitoringo programų turinį, jų rengimo, derinimo, vykdymo, kontrolės užtikrinimo ir informacijos teikimo tvarką nustato Ūkio subjektų aplinkos monitoringo nuostatai. Šiuos nuostatus rengia ir tvirtina Aplinkos ministerija.
+2. Ūkio subjektų aplinkos monitoringas vykdomas pagal ūkio subjektų aplinkos monitoringo programą, kurią rengia patys ūkio subjektai. Ūkio subjektų aplinkos monitoringo programų turinį, jų rengimo, derinimo, vykdymo, kontrolės užtikrinimo ir informacijos teikimo tvarką nustato Ūkio subjektų aplinkos monitoringo nuostatai. Šiuos nuostatus tvirtina aplinkos ministras. Ūkio subjektų aplinkos monitoringo nuostatai netaikomi radiologiniam aplinkos monitoringui. Ūkio subjektų radiologinio aplinkos monitoringo programos turinį, jos rengimo, derinimo, vykdymo, kontrolės užtikrinimo ir informacijos teikimo tvarką nustato sveikatos apsaugos ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+ 
 
 
 
@@ -328,6 +369,14 @@ Nr. XIII-2797, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02848
 3. Ūkio subjektų aplinkos monitoringo programa turi būti pateikta, suderinta ir patvirtinta Ūkio subjektų aplinkos monitoringo nuostatų nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XII-2299, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10403
+ 
+
+
+
+
+4. Ūkio subjektų radiologinio aplinkos monitoringo programa turi būti pateikta, suderinta ir patvirtinta sveikatos apsaugos ministro nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
  
 
 
@@ -343,15 +392,17 @@ Nr. XII-2299, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10403
 
 
 
-2. Savivaldybių aplinkos monitoringo vykdymą, monitoringo duomenų kokybę, taip pat ar taikomi metodai atitinka teisės aktus, kontroliuoja Aplinkos ministerijos įgaliotos institucijos.
+2. Savivaldybių aplinkos monitoringo vykdymą, monitoringo duomenų kokybę, taip pat ar taikomi metodai atitinka teisės aktus, kontroliuoja Aplinkos ministerijos įgaliotos institucijos. Savivaldybių radiologinio aplinkos monitoringo vykdymą, monitoringo duomenų kokybę, taip pat ar taikomi metodai atitinka teisės aktus, kontroliuoja Radiacinės saugos centras.
 
 
 
 
-3. Ūkio subjektų aplinkos monitoringo vykdymą, monitoringo duomenų kokybę, taip pat ar taikomi metodai atitinka teisės aktus, kontroliuoja Aplinkos ministerijos įgaliotos institucijos.
+3. Ūkio subjektų aplinkos monitoringo vykdymą, monitoringo duomenų kokybę, taip pat ar taikomi metodai atitinka teisės aktus, kontroliuoja Aplinkos ministerijos įgaliotos institucijos. Ūkio subjektų radiologinio aplinkos monitoringo vykdymą, monitoringo duomenų kokybę, taip pat ar taikomi metodai atitinka teisės aktus, kontroliuoja Radiacinės saugos centras. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
  
-
-
 
 
 
@@ -374,12 +425,27 @@ Nr. XIII-2797, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02848
 
 
 
-3. Tyrimų ir matavimų kokybė turi būti užtikrinama diegiant tyrimų ir matavimų vadybos sistemas, atitinkančias teisės aktų reikalavimus.
+3. Šio straipsnio 2 dalyje nustatytas reikalavimas netaikomas laboratorijoms, atliekančioms radionuklidų, išmetamų į aplinką ir (ar) esančių aplinkos komponentuose (ore, vandenyje, dirvožemyje), tyrimus ir (ar) imančioms ėminius šiems tyrimams atlikti. Laboratorijos, atliekančios radionuklidų, išmetamų į aplinką ir (ar) esančių aplinkos komponentuose (ore, vandenyje, dirvožemyje), tyrimus ir (ar) imančios ėminius šiems tyrimams atlikti, turi turėti leidimus atlikti radionuklidų, išmetamų į aplinką ir (ar) esančių aplinkos komponentuose (ore, vandenyje, dirvožemyje), tyrimus ir (ar) imti ėminius šiems tyrimams atlikti arba turi būti akredituotos įstaigos, priklausančios Europos akreditacijos organizacijai, arba pripažintos Lietuvos Respublikos radiacinės saugos įstatymo 28 straipsnyje nustatyta tvarka. 
+3 dalies redakcija nuo 2023-01-01:
+3. Šio straipsnio 2 dalyje nustatytas reikalavimas netaikomas laboratorijoms, atliekančioms radionuklidų, išmetamų į aplinką ir (ar) esančių aplinkos komponentuose (ore, vandenyje, dirvožemyje), tyrimus ir (ar) imančioms ėminius šiems tyrimams atlikti. Laboratorijos, atliekančios radionuklidų, išmetamų į aplinką ir (ar) esančių aplinkos komponentuose (ore, vandenyje, dirvožemyje), tyrimus ir (ar) imančios ėminius šiems tyrimams atlikti, turi būti akredituotos įstaigos, priklausančios Europos akreditacijos organizacijai, arba pripažintos Lietuvos Respublikos radiacinės saugos įstatymo 28 straipsnyje nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+ 
 
 
 
 
-4. Monitoringo duomenų kokybė turi būti užtikrinama diegiant duomenų kokybės vadybos sistemas, atitinkančias teisės aktų reikalavimus.
+4. Tyrimų ir matavimų kokybė turi būti užtikrinama diegiant tyrimų ir matavimų vadybos sistemas, atitinkančias teisės aktų reikalavimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+ 
+
+
+
+
+5. Monitoringo duomenų kokybė turi būti užtikrinama diegiant duomenų kokybės vadybos sistemas, atitinkančias teisės aktų reikalavimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
  
 
 
@@ -534,6 +600,14 @@ Nr. XII-2299, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10403
 
 
 
+4. Ūkio subjektų radiologinio aplinkos monitoringo duomenys ir informacija renkama, saugoma ir teikiama sveikatos apsaugos ministro nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+ 
+
+
+
+
 
 
 13 straipsnis. Aplinkos monitoringo informacijos pateikimas
@@ -642,3 +716,8 @@ Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 2, 9 ir 12 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2797, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02848
 Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 2, 8, 9, 11 straipsnių pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
+Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 2, 5, 7, 8, 9, 10, 11 ir 12 straipsnių pakeitimo įstatymas
