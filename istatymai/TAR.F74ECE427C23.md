@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F74ECE427C23"
 
 # Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas
 
-Suvestinė redakcija nuo 2018-01-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 66-1910, i. k. 0981010ISTAVIII-840
- 
-TAR pastaba. Įsigaliojus šiam įstatymui (Nr. XIII-961), asmenys (išskyrus Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 6 straipsnio 1 dalies 3, 4, 5 punktuose nurodytus asmenis), kurie iki šio įstatymo įsigaliojimo (2018-01-01) buvo įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą, per 3 mėnesius privalo deklaruoti savo gyvenamąją vietą arba deklaravimo įstaigai pateikti prašymą įtraukti juos į gyvenamosios vietos nedeklaravusių asmenų apskaitą.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-961, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21693
-Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 pakeitimo įstatymas
  
 Nauja redakcija nuo 2018-01-01:
 Nr. XIII-961, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21693
@@ -137,12 +132,18 @@ GYVENAMOSIOS VIETOS DEKLARAVIMAS
 
 
 
-2. Šio straipsnio 1 dalies 2 punkte nurodyti užsieniečiai, atvykę gyventi į Lietuvos Respubliką, gyvenamosios vietos deklaraciją pateikia deklaravimo įstaigai tiesiogiai, jeigu turi teisę gyventi Lietuvos Respublikoje patvirtinantį dokumentą, arba per Lietuvos Respublikos vidaus reikalų ministro įgaliotą instituciją, atsiimdami teisę gyventi Lietuvos Respublikoje patvirtinantį dokumentą. 
+2. Užsieniečiai, kurie turi dokumentą, suteikiantį ar patvirtinantį teisę gyventi Lietuvos Respublikoje, gyvenamosios vietos deklaravimo duomenis pateikia šio Įstatymo 10 straipsnio 1 dalies 1 punkte nurodytai deklaravimo įstaigai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1870, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00222
+ 
 
 
 
 
-3. Šio straipsnio 1 dalies 3 punkte nurodyti užsieniečiai, atvykę gyventi į Lietuvos Respubliką, gyvenamosios vietos deklaraciją pateikia deklaravimo įstaigai per Lietuvos Respublikos vidaus reikalų ministro įgaliotą instituciją, atsiimdami teisę gyventi Lietuvos Respublikoje suteikiantį dokumentą. 
+3. Užsieniečiai, kurie siekia įgyti dokumentą, suteikiantį ar patvirtinantį teisę gyventi Lietuvos Respublikoje, šio straipsnio 1 dalies 2 ir 3 punktuose nurodytos pareigos įgyvendinimo tikslu gyvenamosios vietos deklaravimo duomenis gali pateikti šio įstatymo 10 straipsnio 1 dalies 3 punkte nurodytai deklaravimo įstaigai, pateikdami prašymą dėl teisę gyventi Lietuvos Respublikoje patvirtinančio ar suteikiančio dokumento išdavimo. Šiuo atveju Migracijos departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas), priėmęs sprendimą išduoti užsieniečiui teisę gyventi Lietuvos Respublikoje patvirtinantį ar suteikiantį dokumentą, gyvenamosios vietos deklaravimo duomenis automatiniu būdu perduoda šio įstatymo 11 straipsnyje nurodytai institucijai. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1870, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00222
+ 
 
 
 
@@ -545,28 +546,35 @@ Gyvenamosios vietos nedeklaruoja:
 
 
 
-10 straipsnis. Deklaravimo įstaigos 
+10 straipsnis. Deklaravimo įstaigos
 
 
-1. Deklaravimo įstaigos yra deklaravimo duomenis ir (ar) gyvenamosios vietos neturinčių asmenų apskaitą tvarkančios: 
+1. Deklaravimo įstaigos yra deklaravimo duomenis ir (ar) gyvenamosios vietos neturinčių asmenų apskaitą tvarkančios:
 
 
-1) seniūnija arba savivaldybės vykdomosios institucijos sprendimu seniūnija ir kitas savivaldybės administracijos padalinys – savivaldybėse, kuriose yra įsteigtos seniūnijos, arba kitas savivaldybės administracijos padalinys – savivaldybėse, kuriose seniūnijos neįsteigtos, arba savivaldybių teritorijose, kurios nepriskirtos seniūnijoms, deklaruojant gyvenamąją vietą, išskyrus šios dalies 2 punkte numatytus atvejus, ar tvarkant gyvenamosios vietos nedeklaravusių asmenų apskaitą;
-
-
-
-
-2) Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos užsienio valstybėse – deklaruojant asmenų, kurie prieš išvykdami iš Lietuvos Respublikos savo išvykimo nedeklaravo ne elektroniniais ryšiais, gyvenamąją vietą.
+1) seniūnija arba savivaldybės vykdomosios institucijos sprendimu seniūnija ir kitas savivaldybės administracijos padalinys – savivaldybėse, kuriose yra įsteigtos seniūnijos, arba kitas savivaldybės administracijos padalinys – savivaldybėse, kuriose seniūnijos neįsteigtos, arba savivaldybių teritorijose, kurios nepriskirtos seniūnijoms, deklaruojant gyvenamąją vietą, išskyrus šios dalies 2 ir 3 punktuose numatytus atvejus, ar tvarkant gyvenamosios vietos nedeklaravusių asmenų apskaitą; 
 
 
 
 
+2) Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos užsienio valstybėse – tik deklaruojant asmenų, kurie prieš išvykdami iš Lietuvos Respublikos savo išvykimo nedeklaravo, išvykimą iš Lietuvos Respublikos;
 
 
-2. Asmens, deklaravusio gyvenamąją vietą, prašymu deklaravimo įstaiga išduoda jo deklaruotą gyvenamąją vietą patvirtinančią pažymą, o į gyvenamosios vietos nedeklaravusių asmenų apskaitą įtraukto asmens prašymu – pažymą, patvirtinančią, kad šis asmuo yra įtrauktas į gyvenamosios vietos nedeklaravusių asmenų apskaitą. 
+
+
+3) Migracijos departamentas – tik deklaruojant gyvenamąją vietą, kai užsieniečiai pateikia prašymą išduoti teisę gyventi Lietuvos Respublikoje patvirtinantį ar suteikiantį dokumentą.
+
+
+
+
+
+
+2. Asmens, deklaravusio gyvenamąją vietą, prašymu šio straipsnio 1 dalies 1 punkte nurodyta deklaravimo įstaiga išduoda jo deklaruotą gyvenamąją vietą patvirtinančią pažymą, o į gyvenamosios vietos nedeklaravusių asmenų apskaitą įtraukto asmens prašymu – pažymą, patvirtinančią, kad šis asmuo yra įtrauktas į gyvenamosios vietos nedeklaravusių asmenų apskaitą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-1870, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00222
  
-
-
 
 
 
@@ -735,3 +743,8 @@ Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 5, 6
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-961, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21693
 Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-1870, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00222
+Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo Nr. VIII-840 4 ir 10 straipsnių pakeitimo įstatymas
