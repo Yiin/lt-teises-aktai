@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/10c22fe02acf11eabe008ea93139d588"
 
 # Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio įstatymas
 
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-31
+ 
+Įstatymas paskelbtas: TAR 2019-12-30, i. k. 2019-21534
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 MOTORINIŲ TRANSPORTO PRIEMONIŲ REGISTRACIJOS MOKESČIO 
 ĮSTATYMAS
@@ -64,10 +71,12 @@ Vilnius
 3 straipsnis. Mokesčio objektas
 
 
-Mokesčio objektas – M1 klasei ar N1 klasei priskirtos motorinės transporto priemonės, kuriai valdytojas atlieka registraciją, duomenų šaltiniuose nurodytas išmetamas CO2 dydis, išskyrus istorinės motorinės transporto priemonės, kuriai valdytojas atlieka registraciją, išmetamą CO2 dydį. Motorinių transporto priemonių, kurioms valdytojas atlieka registraciją, vadovaujantis Saugaus eismo automobilių keliais įstatymo 27 straipsnio 2 dalies 4 punkto nuostatomis, išmetamas CO2 dydis nėra mokesčio objektas.
+Mokesčio objektas – M1 klasei ar N1 klasei priskirtos motorinės transporto priemonės, kurios registraciją atlieka valdytojas, duomenų šaltiniuose nurodytas išmetamas CO2 dydis, išskyrus istorinės motorinės transporto priemonės ir motorinės transporto priemonės, kurios duomenų šaltiniuose nurodyta, kad transporto priemonė pritaikyta neįgaliųjų vežimėliui ir nurodytas specialios paskirties kodas „SH“ arba transporto priemonė yra su rankiniu valdymu ir nurodytas specialios paskirties kodas „SV“, kurių registraciją atlieka valdytojas, išmetamą CO2 dydį. Motorinių transporto priemonių, kurių registraciją atlieka valdytojas, vadovaujantis Saugaus eismo automobilių keliais įstatymo 27 straipsnio 2 dalies 4 punkto nuostatomis, išmetamas CO2 dydis nėra mokesčio objektas.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3423, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24250
  
-
-
 
 
 
@@ -474,3 +483,13 @@ QE = 0,116 × m – 57,147,
 šioje formulėje:
 QE – elektra (dyzelinu, benzinu, dujomis) varomos motorinės transporto priemonės išmetamas CO2 kiekis (g / km),
 m – eksploatuoti parengtos motorinės transporto priemonės masė (kg).
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3423, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24250
+Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio įstatymo Nr. XIII-2690 3 straipsnio pakeitimo įstatymas
