@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2020-10-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-05-25
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -71,10 +71,11 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 2 straipsnis. Įstatyme vartojamos pagrindinės sąvokos ir santrumpos
 
 
-1. Sveikatos priežiūros įstaiga (toliau – įstaiga) – juridinis asmuo, organizacija ar jų filialas šio įstatymo ir Visuomenės sveikatos priežiūros įstatymo nustatyta tvarka turintis teisę teikti sveikatos priežiūros paslaugas. 
+1. Sveikatos priežiūros įstaiga (toliau – įstaiga) – juridinis asmuo, organizacija ar jų filialas, šio įstatymo, Lietuvos Respublikos papildomosios ir alternatyviosios sveikatos priežiūros įstatymo ir Visuomenės sveikatos priežiūros įstatymo nustatyta tvarka turintis teisę teikti sveikatos priežiūros paslaugas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 Nr. XIII-2643, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20986
+Nr. XIII-2774, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02009
  
 
 
@@ -198,6 +199,14 @@ Nr. XIII-2443, 2019-09-26, paskelbta TAR 2019-10-09, i. k. 2019-16070
 
 
 
+21) valstybės ir savivaldybių papildomosios ir alternatyviosios sveikatos priežiūros biudžetinės ir viešosios įstaigos; 
+Papildyta straipsnio punktu:
+Nr. XIII-2774, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02009
+ 
+
+
+
+
 3) valstybės ir savivaldybių įmonės bei įmonės, kurių daugiau kaip 50 procentų akcijų priklauso valstybei ar savivaldybei;
 
 
@@ -242,6 +251,14 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 
 
 2) stacionarinės;
+
+
+
+
+21) papildomosios ir alternatyviosios sveikatos priežiūros; 
+Papildyta straipsnio punktu:
+Nr. XIII-2774, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02009
+ 
 
 
 
@@ -374,9 +391,10 @@ Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
 
 
 
-4. Pareiškėjas, siekiantis gauti asmens sveikatos priežiūros veiklos licenciją ar įgyti teisę teikti naujas licencijuojamas asmens sveikatos priežiūros paslaugas, Valstybinei akreditavimo sveikatos priežiūros veiklai tarnybai per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) arba kreipdamasis tiesiogiai pateikia prašymą išduoti asmens sveikatos priežiūros veiklos licenciją ar prašymą patikslinti licenciją, Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nurodytus dokumentus, patvirtinančius, kad pareiškėjas atitinka Lietuvos Respublikos įstatymų, Lietuvos Respublikos Vyriausybės nutarimų ir Lietuvos Respublikos sveikatos apsaugos ministro įsakymų, reglamentuojančių asmens sveikatos priežiūros įstaigų veiklą, nustatytus higienos, medicinos priemonių (prietaisų) (toliau – medicinos priemonės), personalo, patalpų ir teisinės formos reikalavimus.
+4. Pareiškėjas, siekiantis gauti asmens sveikatos priežiūros veiklos licenciją ar įgyti teisę teikti naujas licencijuojamas asmens sveikatos priežiūros paslaugas, Valstybinei akreditavimo sveikatos priežiūros veiklai tarnybai per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) arba kreipdamasis tiesiogiai pateikia prašymą išduoti asmens sveikatos priežiūros veiklos licenciją ar prašymą patikslinti licenciją, Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nurodytus dokumentus, patvirtinančius, kad pareiškėjas atitinka Lietuvos Respublikos įstatymų, Lietuvos Respublikos Vyriausybės nutarimų ir Lietuvos Respublikos sveikatos apsaugos ministro įsakymų, reglamentuojančių asmens sveikatos priežiūros įstaigų veiklą, nustatytus higienos, medicinos priemonių (prietaisų) (toliau – medicinos priemonės), apsirūpinimo asmeninės apsaugos priemonių ir kitų veiklos vykdymui užtikrinti būtinų priemonių atsargomis, personalo, patalpų ir teisinės formos reikalavimus. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2378, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12801
+Nr. XIII-3339, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24228
  
 
 
@@ -463,7 +481,7 @@ Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
 
 
 
-2) ne ilgiau kaip trims mėnesiams, kai paaiškėja, kad asmens sveikatos priežiūros įstaiga pažeidžia šio straipsnio 4 dalyje nurodytus reikalavimus (išskyrus atvejus, kai paslaugų teikimas stabdomas šio įstatymo 54 straipsnyje nustatyta tvarka) arba Pacientų teisių ir žalos sveikatai atlyginimo įstatyme nustatytą įpareigojimą į Vyriausybės įgaliotos institucijos administruojamą sąskaitą mokėti įmokas, reikalingas pacientų sveikatai padarytai žalai (turtinei ir neturtinei) atlyginti, ir yra bent viena iš šių sąlygų:
+2) ne ilgiau kaip trims mėnesiams, kai paaiškėja, kad asmens sveikatos priežiūros įstaiga pažeidžia šio straipsnio 4 dalyje nurodytus reikalavimus arba Pacientų teisių ir žalos sveikatai atlyginimo įstatyme nustatytą įpareigojimą į Vyriausybės įgaliotos institucijos administruojamą sąskaitą mokėti įmokas, reikalingas pacientų sveikatai padarytai žalai (turtinei ir neturtinei) atlyginti, ir yra bent viena iš šių sąlygų:
 
 
 a) yra realus pavojus pacientų sveikatai ar gyvybei;
@@ -476,6 +494,7 @@ b) per Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos nustaty
 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2378, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12801
+Nr. XIII-3339, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24228
  
 
 
@@ -3016,6 +3035,70 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 
 
 
+511 straipsnis. Papildomosios ir alternatyviosios sveikatos priežiūros paslaugas teikiančios įstaigos pareigos
+
+
+Papildomosios ir alternatyviosios sveikatos priežiūros paslaugas teikianti įstaiga, be šio įstatymo 45 straipsnio 1, 6, 7, 9, 13 ir 15 punktuose nurodytų pareigų, taip pat privalo:
+
+
+1) teikti tik tas papildomosios ir alternatyviosios sveikatos priežiūros paslaugas, kurios nurodytos įstaigai išduotoje papildomosios ir alternatyviosios sveikatos priežiūros įstaigos licencijoje;
+
+
+
+
+2) pildyti ir saugoti privalomas sveikatos statistikos apskaitos, ataskaitų ir kitas tipines formas bei teikti informaciją apie asmenį (pacientą) valstybės institucijoms ir kitoms įstaigoms sveikatos apsaugos ministro nustatyta tvarka, vadovaudamasi Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo nuostatomis;
+
+
+
+
+3) registruoti ir teikti informaciją apie medicinos priemones, papildomosios ir alternatyviosios sveikatos priežiūros produktus, gyvūnus, kitus gyvus organizmus ir kitas priemones, naudojamas teikiant papildomosios ir alternatyviosios sveikatos priežiūros paslaugas, sveikatos apsaugos ministro nustatyta tvarka. 
+
+
+
+
+Papildyta straipsniu:
+Nr. XIII-2774, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02009
+ 
+
+
+
+
+512 straipsnis. Papildomosios ir alternatyviosios sveikatos priežiūros paslaugas teikiančių įstaigų vidaus tvarkos taisyklės 
+
+
+1. Papildomosios ir alternatyviosios sveikatos priežiūros paslaugas teikiančios įstaigos privalo turėti vidaus tvarkos taisykles ir užtikrinti, kad jos būtų prieinamos fiziniams ir juridiniams asmenims susipažinti.
+
+
+
+
+2. Papildomosios ir alternatyviosios sveikatos priežiūros paslaugas teikiančios įstaigos vidaus tvarkos taisyklėse, be šio įstatymo 46 straipsnio 2 dalies 1, 3, 5, 6 ir 9 punktuose nurodytų nuostatų, taip pat turi būti nurodyta medicinos dokumentų nuorašų darymo, išdavimo asmeniui (pacientui) ar kitiems fiziniams ir juridiniams asmenims tvarka. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2774, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02009
+ 
+
+
+
+
+513 straipsnis. Asmenų (pacientų) registravimas papildomosios ir alternatyviosios sveikatos priežiūros įstaigose
+
+
+1. Papildomosios ir alternatyviosios sveikatos priežiūros įstaigos privalo tvarkyti asmenų (pacientų) apskaitą ir Sveikatos apsaugos ministerijai ar jos įgaliotai institucijai teikti pacientų sveikatos priežiūros ataskaitas. Turi būti tvarkoma kiekvieno asmens (paciento) sveikatos istorija ar apie jo kreipimąsi turi būti pažymima registracijos žurnale. Šių dokumentų originalai saugomi įstaigoje, vadovaujantis Asmens duomenų teisinės apsaugos įstatymo nuostatomis.
+
+
+
+
+2. Asmenų (pacientų) apskaitos ir asmenų (pacientų) sveikatos priežiūros ataskaitų pateikimo tvarką nustato Sveikatos apsaugos ministerija. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2774, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02009
+ 
+
+
+
+
 
 
 
@@ -3697,3 +3780,13 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 36 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 10, 20, 22, 27, 28, 29, 30, 32, 33, 34, 35, 37, 38, 46, 55, 56 straipsnių pakeitimo ir 31 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+24.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2774, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02009
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 3 straipsnių pakeitimo ir Įstatymo papildymo 51-1, 51-2, 51-3 straipsniais įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3339, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24228
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5 straipsnio pakeitimo įstatymas
