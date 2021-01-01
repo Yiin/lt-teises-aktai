@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-03-19 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-12-28
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
  
@@ -1304,7 +1304,10 @@ Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
 
 
 
-7. Vyriausybės įstaiga veikia pagal Vyriausybės nustatyta tvarka parengtus strateginį ir metinį veiklos planus. Vyriausybės įstaigos strateginį veiklos planą tvirtina atitinkamos valdymo srities ministras ar atitinkamų valdymo sričių ministrai bendru įsakymu, o metinį veiklos planą – Vyriausybės įstaigos vadovas, suderinęs su atitinkamos valdymo srities ministru ar atitinkamų valdymo sričių ministrais.
+7. Vyriausybės įstaiga veikia pagal Vyriausybės nustatyta tvarka parengtus strateginį ir metinį veiklos planus. Vyriausybės įstaigos strateginį veiklos planą tvirtina atitinkamos valdymo srities ministras ar atitinkamų valdymo sričių ministrai bendru įsakymu, o metinį veiklos planą – Vyriausybės įstaigos vadovas, suderinęs su atitinkamos valdymo srities ministru ar atitinkamų valdymo sričių ministrais, jeigu specialus Vyriausybės įstaigos veiklą reglamentuojantis įstatymas nenustato kitaip.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3409, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24576
+ 
 
 
 
@@ -2258,7 +2261,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 
 
@@ -2533,3 +2536,8 @@ Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 papildymo 30-2 straipsniu 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2817, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05698
 Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 37, 38 ir 42 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3409, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24576
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 29-1 straipsnio pakeitimo įstatymas
