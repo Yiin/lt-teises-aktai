@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C15592B096FA"
 
 # Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-08-11
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 115-3230, i. k. 0981010ISTAVIII-971
  
@@ -570,7 +570,10 @@ Vyriausybė, įgyvendindama civilinės saugos sistemos uždavinius:
 
 
 
-4) rengia ir teikia Lietuvos Respublikos Seimui tvirtinti Civilinės saugos ir gelbėjimo sistemos plėtotės programą;
+4) Neteko galios nuo 2021-01-01
+Straipsnio punkto naikinimas:
+Nr. XIII-3129, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15374
+ 
 
 
 
@@ -1059,10 +1062,28 @@ Nr. XIII-2905, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10902
 
 
 
-8) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
+8) ministerijos ir kitos valstybės institucijos ir įstaigos, nurodytos šio straipsnio 2 dalyje, taip pat Seimo kanceliarija, Generalinė prokuratūra, Lietuvos bankas, Ryšių reguliavimo tarnyba, Specialiųjų tyrimų tarnyba, Valstybės saugumo departamentas ir Nacionalinė teismų administracija kaupia asmeninės apsaugos priemones ir kitas veiklos vykdymui užtikrinti būtinas priemones (toliau – apsaugos priemonės). Apsaugos priemonių sąrašą, kiekį ir laikotarpį, kuriam sukauptų apsaugos priemonių turi pakakti nepertraukiamai šiame punkte nurodytų institucijų ir įstaigų veiklai užtikrinti, nustato Vyriausybė ar jos įgaliota institucija; 
+Papildyta straipsnio punktu:
+Nr. XIII-3340, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24229
  
 
 
+
+
+9) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-3340, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24229
+ 
+
+
+
+
+
+
+5. Paskelbus valstybės lygio ekstremaliąją situaciją, Lietuvos Respublikos socialinės apsaugos ir darbo ministerija turi teisę aprūpinti apsaugos priemonėmis socialinių paslaugų įstaigas, kurios suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos socialinių paslaugų įstatyme, pelno nesiekiančias organizacijas, darbuotojus ir savanorius, kurie teikia socialinės reabilitacijos ar kitas gyventojams būtinas socialines paslaugas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3340, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24229
+ 
 
 
 
@@ -1225,9 +1246,18 @@ Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
 
 
-25) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas. 
+25) kaupia savivaldybių institucijų ir įstaigų, ūkio subjektų, kurių savininkė ar dalininkė yra savivaldybė (toliau – savivaldybių ūkio subjektai), apsaugos priemonių atsargas pagal Vyriausybės ar jos įgaliotos institucijos nustatytus apsaugos priemonių sąrašus, kiekį ir laikotarpį. Pagal šį punktą sukauptos apsaugos priemonės naudojamos tais atvejais, kai savivaldybių institucijoms, įstaigoms ir savivaldybių ūkio subjektams nepakanka pagal šio įstatymo 141 straipsnį ir 15 straipsnio 2 dalies 5 punktą sukauptų apsaugos priemonių; 
+Papildyta straipsnio punktu:
+Nr. XIII-3340, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24229
+ 
+
+
+
+
+26) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas. 
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
+Nr. XIII-3340, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24229
  
 
 
@@ -1235,6 +1265,19 @@ Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
 Straipsnio pakeitimai:
 Nr. XII-732, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00065
+ 
+
+
+
+
+141 straipsnis. Savivaldybių institucijos ir įstaigos 
+
+
+Savivaldybių institucijos ir įstaigos privalo kaupti apsaugos priemonių atsargas. Savivaldybių institucijas ir įstaigas, kurios pagal šį straipsnį privalo kaupti apsaugos priemones, apsaugos priemonių sąrašus, kiekį ir laikotarpį, kuriam turi būti sukauptos šių apsaugos priemonių atsargos, nustato Vyriausybė ar jos įgaliota institucija. 
+
+
+Papildyta straipsniu:
+Nr. XIII-3340, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24229
  
 
 
@@ -1286,7 +1329,15 @@ Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
 
 
 
-4) vykdyti gelbėjimo darbų vadovo, operacijų vadovo teisėtus nurodymus ir ekstremalių situacijų komisijos sprendimus, reikalingus įvykiui, ekstremaliajam įvykiui ar ekstremaliajai situacijai likviduoti, o neatidėliotinais atvejais, kai kyla didelis pavojus gyventojų gyvybei, sveikatai, turtui ar aplinkai, leisti naudotis jiems nuosavybės teise priklausančiais materialiniais ištekliais.
+4) vykdyti gelbėjimo darbų vadovo, operacijų vadovo teisėtus nurodymus ir ekstremalių situacijų komisijos sprendimus, reikalingus įvykiui, ekstremaliajam įvykiui ar ekstremaliajai situacijai likviduoti, o neatidėliotinais atvejais, kai kyla didelis pavojus gyventojų gyvybei, sveikatai, turtui ar aplinkai, leisti naudotis jiems nuosavybės teise priklausančiais materialiniais ištekliais;
+
+
+
+
+5) kaupti apsaugos priemonių atsargas (šis punktas netaikomas gyventojams). Ūkio subjektus ir kitas įstaigas, pagal šį punktą privalančius kaupti apsaugos priemones, apsaugos priemonių sąrašus, kiekį ir laikotarpį, kuriam turi būti sukauptos šių apsaugos priemonių atsargos, nustato Vyriausybė ar jos įgaliota institucija. 
+Papildyta straipsnio punktu:
+Nr. XIII-3340, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24229
+ 
 
 
 
@@ -2328,3 +2379,13 @@ Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 2, 8, 9, 11, 12, 1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2905, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10902
 Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 13 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3129, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15374
+Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 9 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3340, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24229
+Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 13, 14, 15 straipsnių pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
