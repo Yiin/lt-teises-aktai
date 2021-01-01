@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.CB941ADCC055"
 
 # Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3017, i. k. 1021010ISTA0IX-1005
  
@@ -319,6 +319,69 @@ Nr. XII-884, 2014-05-15, paskelbta TAR 2014-06-02, i. k. 2014-06008
 Straipsnio pakeitimai:
 Nr. XII-1952, 2015-10-01, paskelbta TAR 2015-10-08, i. k. 2015-14939
 Nr. XIII-772, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18826
+ 
+
+
+
+
+61 straipsnis. Valstybinių laboratorinių tyrimų ir kitų aplinkos apsaugos valstybinei kontrolei reikalingų tyrimų ir matavimų organizavimas ir vykdymas
+
+
+1. Aplinkos apsaugos valstybinę kontrolę vykdanti institucija aplinkos apsaugos valstybinei kontrolei reikalingus tyrimus ir matavimus, išskyrus valstybinius laboratorinius tyrimus, vykdo pati arba organizuoja jų vykdymą teisės aktų nustatyta tvarka. 
+
+
+
+
+2. Valstybinius laboratorinius tyrimus pagal aplinkos apsaugos valstybinę kontrolę vykdančios institucijos pavedimus vykdo biudžetinė įstaiga Aplinkos apsaugos agentūra. Pavedimai vykdyti valstybinius laboratorinius tyrimus duodami šio straipsnio 7 dalyje nustatyta tvarka, kai yra šio straipsnio 6 dalyje nurodyti pagrindai. Aplinkos apsaugos agentūra valstybinius laboratorinius tyrimus atlieka pati arba organizuoja jų atlikimą teisės aktų nustatyta tvarka. 
+
+
+
+
+3. Aplinkos apsaugos agentūros darbuotojai, pateikę darbuotojo pažymėjimą ir nustatytos formos aplinkos apsaugos valstybinę kontrolę vykdančios institucijos pavedimą vykdyti valstybinius laboratorinius tyrimus, be išankstinio įspėjimo tikrinamo objekto darbo metu arba kai yra pagrįstos informacijos ar pagrįstų įtarimų, kad viršijami aplinkos apsaugos normatyvai ir (ar) kitaip neteisėtai teršiama aplinka, ir (ar) netinkamai tvarkomos atliekos, bet kuriuo metu turi teisę, laikydamiesi teisės aktuose nustatytų sąlygų, patekti į pavedime nurodytą teritoriją ir (ar) objektą ir atlikti pavedime nurodytus matavimus ir (ar) paimti ėminius. Įeiti į fizinių asmenų gyvenamąsias patalpas galima tik turint šio Įstatymo 121 straipsnyje nustatyta tvarka gautą teismo leidimą. Aplinkos apsaugos agentūra turi teisę pasitelkti kitus nešališkus, turinčius reikiamų specialiųjų žinių ir (ar) patirties, ir (ar) reikiamą įrangą asmenis matavimams atlikti ir (ar) ėminiams paimti.
+
+
+
+
+4. Aplinkos apsaugos valstybinę kontrolę vykdančios institucijos pavedime vykdyti valstybinius laboratorinius tyrimus nurodomas asmuo, kurio valdomoje, naudojamoje teritorijoje, objekte turi būti atlikti valstybiniai laboratoriniai tyrimai, ir (arba) kiti duomenys, aiškiai identifikuojantys tyrimų atlikimo vietą ar objektą, jų atlikimo pagrindas, tikslas, veiksmai, matavimai, kuriuos įgaliotas atlikti Aplinkos apsaugos agentūros darbuotojas, asmens, kurio valdomoje, naudojamoje teritorijoje, objekte turi būti atlikti valstybiniai laboratoriniai tyrimai, informavimo apie valstybinių laboratorinių tyrimų rezultatus tvarka, Aplinkos apsaugos agentūros darbuotojų veiksmų ir valstybinių laboratorinių tyrimų rezultatų apskundimo tvarka, kiti duomenys.
+
+
+
+
+5. Asmenys, kurių nuosavybės teise ar kitais pagrindais valdomoje, naudojamoje teritorijoje, objekte (statinyje, įrenginyje, patalpose ir kt.) yra taršos šaltinis ir (ar) užteršta aplinka, ir (ar) atliekos, privalo bet kuriuo metu leisti Aplinkos apsaugos agentūros darbuotojams ir kitiems Aplinkos apsaugos agentūros pasitelktiems asmenims, pateikusiems šio straipsnio 3 dalyje nurodytus dokumentus, patekti į teritoriją ir (ar) objektą, sudaryti sąlygas jiems patekti prie taršos šaltinių ar užterštų vietų.
+
+
+
+
+6. Valstybiniai laboratoriniai tyrimai atliekami:
+
+
+1) vykdant aplinkos ministro nustatyta tvarka sudarytus metinius valstybinių laboratorinių tyrimų planus. Valstybinių laboratorinių tyrimų metiniai planai sudaromi remiantis kontroliuotinų subjektų rizikos vertinimo rezultatais;
+
+
+
+
+2) turint pagrįstos informacijos ar kilus pagrįstiems įtarimams, kad viršijami teisės aktuose nustatyti aplinkos apsaugos normatyvai ar standartai ir (ar) netinkamai tvarkomos atliekos.
+
+
+
+
+
+
+7. Valstybinių laboratorinių tyrimų organizavimo, planavimo, pavedimų vykdyti tyrimus teikimo ir vykdymo, valstybinių laboratorinių tyrimų rezultatų teikimo tvarką nustato, pavedimo vykdyti valstybinius laboratorinius tyrimus formą tvirtina aplinkos ministras. 
+
+
+
+
+8. Fiziniai ir (ar) juridiniai asmenys (teršėjai) apmoka valstybinių laboratorinių tyrimų, kuriuos atlieka Aplinkos apsaugos agentūra, išlaidas, jeigu šio Įstatymo ir kitų teisės aktų nustatyta tvarka patvirtinama, kad šiais tyrimais nustatyta leistinas normas viršijanti arba neleistina tarša ir (ar) netinkamai tvarkomos atliekos.
+
+
+
+
+9. Aplinkos ministras, suderinęs su Lietuvos Respublikos konkurencijos taryba, tvirtina valstybinių laboratorinių tyrimų kainų nustatymo metodiką (toliau – metodika), pagal kurią apskaičiuojamos šio straipsnio 8 dalyje nurodytų tyrimų išlaidos. Vadovaudamasis metodika Aplinkos apsaugos agentūros vadovas tvirtina valstybinių laboratorinių tyrimų kainas. Valstybinių laboratorinių tyrimų apmokėjimo tvarką tvirtina aplinkos ministras. 
+
+
+Papildyta straipsniu:
+Nr. XIII-2794, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02845
  
 
 
