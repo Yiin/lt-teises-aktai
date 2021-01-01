@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.845C6618A647"
 
 # Lietuvos Respublikos nepaprastosios padėties įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-01-01
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2575, i. k. 1021010ISTA00IX-938
  
@@ -95,7 +95,9 @@ Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
 
 
 
-7. Rekvizicija – atlygintinas negrąžintinas turto paėmimas iš savininko ar turto valdytojo visuomenės poreikiams, atlyginant turto vertę jo savininkui nedelsiant po nepaprastosios padėties atšaukimo.
+7. Laikinasis turto paėmimas ir turto rekvizicija suprantami taip, kaip jie apibrėžiami Lietuvos Respublikos karo padėties įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3240, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15877
  
 
 
@@ -262,7 +264,10 @@ Nr. X-677, 2006-06-08, Žin., 2006, Nr. 72-2692 (2006-06-28), i. k. 1061010ISTA0
 9 straipsnis. Nepaprastosios padėties atšaukimas
 
 
-1. Nepaprastoji padėtis atšaukiama, kai Seimas panaikina Respublikos Prezidento sprendimą įvesti nepaprastąją padėtį arba kai Seimas priima nutarimą dėl nepaprastosios padėties atšaukimo išnykus jos įvedimo pagrindams. Nutarimas dėl nepaprastosios padėties atšaukimo skelbiamas nedelsiant po jo priėmimo per visuomenės informavimo priemones ir įsigalioja įstatymų nustatyta tvarka. Apie nepaprastosios padėties atšaukimą privalo nedelsdamos pranešti visos visuomenės informavimo priemonės.
+1. Nepaprastoji padėtis atšaukiama, kai Seimas nutarimu panaikina Respublikos Prezidento sprendimą įvesti nepaprastąją padėtį arba kai Seimas priima nutarimą dėl nepaprastosios padėties atšaukimo išnykus nepaprastosios padėties įvedimo pagrindams. Nutarimas dėl nepaprastosios padėties atšaukimo oficialiai skelbiamas ir įsigalioja Lietuvos Respublikos teisėkūros pagrindų įstatyme nustatyta tvarka. Apie nepaprastosios padėties atšaukimą privalo nedelsdamos pranešti visos visuomenės informavimo priemonės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3240, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15877
+ 
 
 
 
@@ -278,7 +283,10 @@ Nr. X-677, 2006-06-08, Žin., 2006, Nr. 72-2692 (2006-06-28), i. k. 1061010ISTA0
 10 straipsnis. Nutarimo ar Respublikos Prezidento dekreto dėl nepaprastosios padėties įvedimo paskelbimas ir įsigaliojimas
 
 
-1. Nutarimas ar Respublikos Prezidento dekretas dėl nepaprastosios padėties įvedimo nedelsiant po jo priėmimo skelbiamas per visuomenės informavimo priemones ir įsigalioja įstatymų nustatyta tvarka. Apie nepaprastosios padėties įvedimą privalo nedelsdamos pranešti visos visuomenės informavimo priemonės.
+1. Seimo nutarimas ar Respublikos Prezidento dekretas dėl nepaprastosios padėties įvedimo oficialiai skelbiamas ir įsigalioja Teisėkūros pagrindų įstatyme nustatyta tvarka. Apie nepaprastosios padėties įvedimą privalo nedelsdamos pranešti visos visuomenės informavimo priemonės. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3240, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15877
+ 
 
 
 
@@ -770,10 +778,11 @@ Nr. XIII-2620, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20650
 
 
 
-11) Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo nustatyta tvarka transporto priemonių, ginklų, ginklų priedėlių, šaudmenų ir jų dalių ar kito turto laikinasis paėmimas arba rekvizicija siekiant užkirsti kelią itin pavojingiems ir sunkiems padariniams arba jiems likviduoti, žmonių gyvybei, sveikatai ar turtui gelbėti. Ginklai, ginklų priedėliai, šaudmenys ir jų dalys, kurie priklauso teisę juos laikyti turintiems asmenims, gali būti laikinai paimami tik tada, kai turima informacijos, kad jie gali būti panaudoti nusikalstamoms veikoms; 
+11) mutatis mutandis vadovaujantis Karo padėties įstatyme nustatyta tvarka ir reikalavimais, laikinasis turto paėmimas ir (ar) turto rekvizicija savivaldybės administracijos direktoriaus sprendimu, siekiant užkirsti kelią itin pavojingiems ir sunkiems padariniams arba jiems likviduoti, žmonių gyvybei, sveikatai ar turtui gelbėti. Ginklai, ginklų priedėliai, šaudmenys ir jų dalys, kurie priklauso teisę juos laikyti turintiems asmenims, gali būti laikinai paimami tik tada, kai turima informacijos, kad jie gali būti panaudoti nusikalstamoms veikoms; 
 Straipsnio punkto pakeitimai:
 Nr. XI-1418, 2011-05-26, Žin., 2011, Nr. 72-3469 (2011-06-14), i. k. 1111010ISTA0XI-1418
 Nr. XIII-2620, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20650
+Nr. XIII-3240, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15877
  
 
 
@@ -1013,3 +1022,8 @@ Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 22 ir 28 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2913, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10912
 Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 22 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3240, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15877
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 9, 10 ir 28 straipsnių pakeitimo įstatymas
