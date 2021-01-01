@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5368B592234C"
 
 # Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas
 
-Suvestinė redakcija nuo 2019-11-14 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-11-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 63-1479, i. k. 0961010ISTA00I-1374
  
@@ -96,7 +96,6 @@ BENDROSIOS NUOSTATOS
 
 3. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (ES) 2016/679.
  
- 
 
 
 
@@ -125,7 +124,6 @@ ASMENS DUOMENŲ TVARKYMO YPATUMAI
 
 3. Draudžiama tvarkyti asmens kodą tiesioginės rinkodaros tikslais.
  
- 
 
 
 
@@ -136,7 +134,6 @@ ASMENS DUOMENŲ TVARKYMO YPATUMAI
 
 
 Kai asmens duomenys tvarkomi žurnalistikos arba akademinės, meninės ar literatūrinės saviraiškos tikslais, netaikomi Reglamento (ES) 2016/679 8, 12–23, 25, 30, 33–39, 41–50, 88–91 straipsniai.
- 
  
 
 
@@ -164,7 +161,6 @@ Kai asmens duomenys tvarkomi žurnalistikos arba akademinės, meninės ar litera
 
 4. Šio straipsnio nuostatos taip pat taikomos tvarkant asmenų, dirbančių Lietuvos Respublikos užimtumo įstatyme nurodytais darbo santykiams prilygintų teisinių santykių pagrindais, ir kandidatų, pretenduojančių dirbti šiais pagrindais, asmens duomenis.
  
- 
 
 
 
@@ -175,8 +171,6 @@ Kai asmens duomenys tvarkomi žurnalistikos arba akademinės, meninės ar litera
 
 
 Kai vaikui tiesiogiai siūlomos informacinės visuomenės paslaugos, vaiko asmens duomenų tvarkymas yra teisėtas, jei sutikimą pagal Reglamento (ES) 2016/679 6 straipsnio 1 dalies a punktą duoda ne jaunesnis negu 14 metų vaikas.
- 
- 
  
 
 
@@ -220,7 +214,10 @@ PRIEŽIŪROS INSTITUCIJOS
 8 straipsnis. Valstybinės duomenų apsaugos inspekcijos statusas ir veiklos principai
 
 
-1. Valstybinė duomenų apsaugos inspekcija yra Lietuvos Respublikos Vyriausybės įstaiga. Jos administracijos struktūrą tvirtina Valstybinės duomenų apsaugos inspekcijos direktorius. 
+1. Valstybinė duomenų apsaugos inspekcija yra Lietuvos Respublikos Vyriausybės įstaiga. Jos administracijos struktūrą, strateginį ir metinį veiklos planus tvirtina Valstybinės duomenų apsaugos inspekcijos direktorius.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3410, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24577
+ 
 
 
 
@@ -1207,7 +1204,6 @@ ADMINISTRACINĖS BAUDOS
 
 
 2. Priežiūros institucijos sprendimas dėl administracinės baudos skyrimo yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Jis gali būti pateiktas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos.
- 
 
 
 
@@ -1224,7 +1220,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
  
 
 
@@ -1233,6 +1229,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos 
 asmens duomenų teisinės apsaugos
 įstatymo
@@ -1318,3 +1315,8 @@ Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 9 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2500, 2019-11-07, paskelbta TAR 2019-11-13, i. k. 2019-18189
 Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 11 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3410, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24577
+Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo Nr. I-1374 8 straipsnio pakeitimo įstatymas
