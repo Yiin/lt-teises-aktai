@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-11-14 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 101-2018, i. k. 0941010ISTA000I-730
  
@@ -93,26 +93,52 @@ Nr. XII-2587, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20667
 
 
 
-2 straipsnis. Valstybinių pensijų mokėjimo šaltinis ir dydžio matas
+2 straipsnis. Valstybinių pensijų mokėjimo šaltinis, dydžio matas ir indeksavimas
 
 
-Visos valstybinės pensijos mokamos iš Lietuvos Respublikos valstybės biudžeto.
-
-
-
-
-Šio įstatymo 1 straipsnio 1 dalies 1, 2 ir 4 punktuose nurodytų valstybinių pensijų dydžio matas yra valstybinių pensijų bazė. Jos dydis negali būti mažesnis negu 58 eurai. Valstybinių pensijų bazę tvirtina Lietuvos Respublikos Vyriausybė Socialinės apsaugos ir darbo ministerijos teikimu.
-Straipsnio dalies pakeitimai:
-Nr. XII-1207, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14117
- 
+Visos valstybinės pensijos mokamos iš Lietuvos Respublikos biudžeto.
 
 
 
 
-Šio įstatymo 1 straipsnio 1 dalies 6 punkte nurodytos valstybinės pensijos dydžio matas yra Respublikos Prezidento darbo užmokestis.
-Papildyta straipsnio dalimi:
-Nr. XII-2587, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20667
- 
+Šio įstatymo 1 straipsnio 1 dalies 1, 2 ir 4 punktuose nurodytų valstybinių pensijų dydžio matas yra valstybinių pensijų bazė. Valstybinių pensijų bazės dydis negali būti mažesnis negu 58 eurai. 
+
+
+
+
+Kiekvienais metais valstybinių pensijų bazės dydis ir valstybinių pensijų, nurodytų šio įstatymo 1 straipsnio 1 dalies 3 ir 5 punktuose, dydis indeksuojami nuo sausio 1 dienos pagal praėjusiais metais apskaičiuotą indeksavimo koeficientą (toliau – IK), atitinkamai valstybinių pensijų bazę arba mokamos valstybinės pensijos dydį dauginant iš IK.
+
+
+
+
+IK apskaičiuojamas pagal šią formulę:
+IK= 1 + SVKI / 100, kurioje:
+SVKI – IK apskaičiavimo metais paskutiniame Vyriausybės ar jos įgaliotos institucijos paskelbtame ekonominės raidos scenarijuje (toliau – Ekonominės raidos scenarijus) paskelbto praėjusių metų suderinto vartotojų kainų indekso vidurkis, išskyrus atvejį, numatytą šio straipsnio 6 dalyje.
+
+
+
+
+IK išreiškiamas keturių skaitmenų po kablelio tikslumu.
+
+
+
+
+Jeigu IK apskaičiavimo metais paskutiniame paskelbtame Ekonominės raidos scenarijuje paskelbtas praėjusių metų SVKI yra didesnis negu apskaičiavimo metų ir prognozuojamų metų SVKI vidurkis, tai IK apskaičiuojamas pagal IK apskaičiavimo metų ir prognozuojamų metų SVKI vidurkį. 
+
+
+
+
+Jeigu apskaičiuotasis IK yra lygus vienetui arba yra neigiamas, valstybinės pensijos neindeksuojamos. Tokiu atveju valstybinės pensijos, nurodytos šio įstatymo 1 straipsnio 1 dalies 1–5 punktuose, mokamos praėjusių metų gruodžio mėnesį galiojusių dydžių.
+
+
+
+
+2021 metais ir vėlesniais metais skiriamos šio įstatymo 1 straipsnio 1 dalies 3 ir 5 punktuose nurodytos valstybinės pensijos pirmą kartą indeksuojamos paskirtosios pensijos dydį dauginant iš tais metais, kuriais ši pensija paskirta pirmą kartą ar iš naujo, galiojančio IK. 
+
+
+
+
+IK ir pagal jį indeksuotas valstybinių pensijų bazės dydis tvirtinami Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu.
 
 
 Straipsnio pakeitimai:
@@ -121,6 +147,8 @@ Nr. VIII-907, 98.10.22, Žin., 1998, Nr.98-2709 (98.11.11)
 Nr. X-726, 2006-06-22, Žin., 2006, Nr. 77-2970 (2006-07-14)
 Nr. X-978, 2006-12-12, Žin., 2006, Nr. 141-5404 (2006-12-28)
 Nr. X-1387, 2007-12-18, Žin., 2007, Nr. 138-5646 (2007-12-29)
+Straipsnio pakeitimai:
+Nr. XIV-81, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28362
  
 
 
@@ -145,16 +173,20 @@ Nr. XII-2514, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20671
 
 
 
-Kiekvienos šio įstatymo 1 straipsnio 1 dalies 1–4 punktuose nustatytos valstybinės pensijos dydis (pareigūnų ir karių valstybinių pensijų – kartu su mokamu priedu už tarnybą) bei šios pensijos dydžio (pareigūnų ir karių valstybinių pensijų – kartu su mokamu priedu už tarnybą) ir tam pačiam asmeniui paskirtų pagal šio straipsnio 1 dalį valstybinių pensijų ir socialinio draudimo pensijų bendra suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama valstybinė pensija, Lietuvos statistikos departamento paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) 1,1637 dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją mokanti institucija.
+Kiekvienos šio įstatymo 1 straipsnio 1 dalies 1–4 punktuose nurodytos ir pagal šio įstatymo 2 straipsnį indeksuotos valstybinės pensijos dydis (pareigūnų ir karių valstybinių pensijų – kartu su mokamu priedu už tarnybą) bei pagal šio įstatymo 2 straipsnį indeksuoto šios pensijos dydžio (pareigūnų ir karių valstybinių pensijų – kartu su mokamu priedu už tarnybą) ir tam pačiam asmeniui paskirtų pagal šio straipsnio 1 dalį valstybinių pensijų ir socialinio draudimo pensijų bendra suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama valstybinė pensija, Lietuvos statistikos departamento paskelbto šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio (neįtraukiant individualių įmonių darbo užmokesčio duomenų) 1,1637 dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją mokanti institucija. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2514, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20671
 Nr. XIII-1351, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11453
+Nr. XIV-81, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28362
  
 
 
 
 
-Susidarius valstybinės pensijos, kurios skyrimas ir (ar) mokėjimas siejamas su asmens draudžiamosiomis pajamomis, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, permokai dėl to, kad valstybinės pensijos gavėjas turėjo draudžiamųjų pajamų už tą laikotarpį, per kurį jam buvo paskirta ir mokėta pensija, permoka valstybinę pensiją mokančios institucijos vadovo sprendimu išieškoma iš valstybinės pensijos gavėjo ne ginčo tvarka.
+Susidarius valstybinės pensijos, kurios skyrimas ir (ar) mokėjimas siejamas su asmens draudžiamosiomis pajamomis, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, permokai dėl to, kad valstybinės pensijos gavėjas turėjo šių pajamų už tą laikotarpį, per kurį jam buvo paskirta ir mokėta pensija, taip pat, jeigu gavėjui socialinio draudimo ir (ar) valstybinė pensija paskirta už praėjusį laiką ar pasikeitė šių pensijų dydis už praėjusį laiką, kai buvo mokama valstybinė pensija ir buvo ar turėjo būti taikomas valstybinės pensijos ribojimas pagal šio straipsnio 3 dalį, permoka valstybinę pensiją mokančios institucijos vadovo (ar jo pavaduotojo) sprendimu išieškoma iš valstybinės pensijos gavėjo ne ginčo tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-81, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28362
+ 
 
 
 Straipsnio pakeitimai:
@@ -277,7 +309,10 @@ Nr. XII-2514, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20671
 Daugiavaikiams motinai arba tėvui antrojo laipsnio valstybinė pensija neskiriama, jeigu:
 
 
-1) dėl jos (jo) piktnaudžiavimo alkoholiu, narkotinėmis, psichotropinėmis ar toksinėmis medžiagomis, priklausomybės nuo azartinių lošimų, psichologinės, fizinės ar seksualinės prievartos prieš savo vaikus (įvaikius) naudojimo arba gaunamos valstybės paramos panaudojimo ne šeimos interesams bent vienas jos (jo), vaikas (įvaikis) auga ar augo socialinės rizikos šeimoje, kaip ji apibrėžta Lietuvos Respublikos socialinių paslaugų įstatyme;
+1) dėl jos (jo) piktnaudžiavimo alkoholiu, narkotinėmis, psichotropinėmis ar toksinėmis medžiagomis, priklausomybės nuo azartinių lošimų, psichologinės, fizinės ar seksualinės prievartos prieš savo vaikus (įvaikius) naudojimo arba gaunamos valstybės paramos panaudojimo ne šeimos interesams bent vienas jos (jo) vaikas (įvaikis) auga ar augo šeimoje patirdamas socialinę riziką, kaip ji apibrėžta Lietuvos Respublikos socialinių paslaugų įstatyme; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3212, 2020-06-30, paskelbta TAR 2020-07-09, i. k. 2020-15405
+ 
 
 
 
@@ -292,12 +327,18 @@ Daugiavaikiams motinai arba tėvui antrojo laipsnio valstybinė pensija neskiria
 
 
 
-4) ji (jis) ar bent vienas jos (jo) išaugintas vaikas (įvaikis) nuteistas už sunkaus ar labai sunkaus nusikaltimo padarymą, nesvarbu, ar teistumas išnykęs, ar ne (išskyrus atvejus, kai įvaikis už labai sunkaus ar sunkaus nusikaltimo padarymą buvo nuteistas iki įvaikinimo);
+4) ji (jis) ar bent vienas jos (jo) vaikas (įvaikis) iki pilnametystės arba emancipacijos nuteistas už sunkaus ar labai sunkaus nusikaltimo padarymą, nesvarbu, ar teistumas išnykęs, ar ne (išskyrus atvejus, kai įvaikis už labai sunkaus ar sunkaus nusikaltimo padarymą buvo nuteistas iki įvaikinimo); 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3212, 2020-06-30, paskelbta TAR 2020-07-09, i. k. 2020-15405
+ 
 
 
 
 
-5) ji (jis) ar bent vienas jos (jo) išaugintas vaikas (įvaikis) nuteistas už nesunkaus ar apysunkio nusikaltimo padarymą (išskyrus atvejus, kai daugiavaikiai motina arba tėvas nuteisti už nusikaltimų ar baudžiamųjų nusižengimų, nurodytų šio straipsnio 6 dalies 3 punkte, padarymą) ir teistumas yra neišnykęs arba nepanaikintas (išskyrus atvejus, kai įvaikis už nesunkių ar apysunkių nusikaltimų padarymą buvo nuteistas iki įvaikinimo). 
+5) ji (jis) ar bent vienas jos (jo) vaikas (įvaikis) iki pilnametystės arba iki emancipacijos nuteistas už nesunkaus ar apysunkio nusikaltimo padarymą (išskyrus atvejus, kai daugiavaikė motina arba daugiavaikis tėvas nuteisti už nusikaltimų ar baudžiamųjų nusižengimų, nurodytų šio straipsnio 6 dalies 3 punkte, padarymą) ir teistumas yra neišnykęs arba nepanaikintas (išskyrus atvejus, kai įvaikis už nesunkių ar apysunkių nusikaltimų padarymą buvo nuteistas iki įvaikinimo). 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3212, 2020-06-30, paskelbta TAR 2020-07-09, i. k. 2020-15405
+ 
 
 
 Papildyta straipsnio dalimi:
@@ -1645,3 +1686,13 @@ Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 15-1 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3371, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23938
 Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 9 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3212, 2020-06-30, paskelbta TAR 2020-07-09, i. k. 2020-15405
+Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 4 straipsnio pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-81, 2020-12-15, paskelbta TAR 2020-12-23, i. k. 2020-28362
+Lietuvos Respublikos valstybinių pensijų įstatymo Nr. I-730 2 ir 3 straipsnių pakeitimo įstatymas
