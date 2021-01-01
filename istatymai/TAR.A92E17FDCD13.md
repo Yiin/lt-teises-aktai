@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A92E17FDCD13"
 
 # Lietuvos Respublikos medžioklės įstatymas
 
-Suvestinė redakcija nuo 2019-12-20 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-04-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2634; Žin. 2002, Nr.112-0, i. k. 1021010ISTA00IX-966
  
@@ -142,6 +142,14 @@ Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
 
 
 
+171. Medžioklėje dalyvaujantis medžiotojas – medžiotojas, įrašytas į aplinkos ministro nustatytos formos medžioklės lapą medžioti ir esantis šiame dokumente nurodytu laiku nurodytame medžioklės plotų vienete. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3200, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15393
+ 
+
+
+
+
 18. Medžiotojas – fizinis asmuo, turintis Lietuvos Respublikoje išduotą medžiotojo bilietą arba užsienio šalyse išduotą analogišką dokumentą, pripažįstamą Lietuvos Respublikoje.
 
 
@@ -156,6 +164,14 @@ Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
 
 
 20. Mokslo ir mokymo medžioklės plotai – biologinio profilio mokslo ir mokymo įstaigų naudojami medžioklės plotai, kuriuose vykdomi laukinės gyvūnijos, jos gyvenamosios aplinkos ir medžioklės moksliniai tyrimai, studentų, medžiotojų arba siekiančių jais tapti asmenų mokymas.
+
+
+
+
+201. Neblaivumas – etilo alkoholio vartojusio asmens būsena, kai šio alkoholio koncentracija biologinėse organizmo terpėse (iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose) yra 0,41 promilės ar daugiau.
+Papildyta straipsnio dalimi:
+Nr. XIII-3200, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15393
+ 
 
 
 
@@ -230,6 +246,24 @@ Nr. XI-327, 2009-07-07, Žin., 2009, Nr. 85-3584 (2009-07-18), i. k. 1091010ISTA
  
 
 
+
+
+
+
+41 straipsnis. Blaivumo ir neapsvaigimo dalyvaujant medžioklėje reikalavimai
+
+
+1. Medžioklėje dalyvaujančiam medžiotojui draudžiama būti neblaiviam ar apsvaigusiam nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų.
+
+
+
+
+2. Medžioklėje dalyvaujantis medžiotojas, jeigu kyla įtarimų dėl jo neblaivumo ar apsvaigimo nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, aplinkos apsaugos valstybinės kontrolės pareigūno reikalavimu privalo leistis Vyriausybės nustatyta tvarka būti patikrinamas dėl neblaivumo ar apsvaigimo nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų.
+
+
+Papildyta straipsniu:
+Nr. XIII-3200, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15393
+ 
 
 
 
@@ -1529,3 +1563,8 @@ Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14 ir 16 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2637, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20659
 Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 10 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3200, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15393
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 16 straipsnių pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas
