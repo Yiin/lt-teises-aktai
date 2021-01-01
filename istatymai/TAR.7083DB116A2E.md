@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7083DB116A2E"
 
 # Lietuvos Respublikos radiacinės saugos įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 11-239, i. k. 0991010ISTAIII-1019
  
@@ -359,7 +359,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-60. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Branduolinės energijos įstatyme, Branduolinės saugos įstatyme, Radioaktyviųjų atliekų tvarkymo įstatyme ir Lietuvos Respublikos viešojo administravimo įstatyme.
+60. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Branduolinės energijos įstatyme, Branduolinės saugos įstatyme, Radioaktyviųjų atliekų tvarkymo įstatyme, Lietuvos Respublikos aplinkos monitoringo įstatyme ir Lietuvos Respublikos viešojo administravimo įstatyme. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3364, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24520
  
 
 
@@ -512,7 +514,17 @@ VALSTYBINIS RADIACINĖS SAUGOS VALDYMAS
 
 
 
-3) atlieka kitas šiame įstatyme ir kituose teisės aktuose, reglamentuojančiuose radiacinę ir fizinę saugą, nustatytas funkcijas.
+3) organizuoja valstybinį radiologinį aplinkos monitoringą ir nustato ūkio subjektų radiologinio aplinkos monitoringo programos turinį, jos rengimo, derinimo, vykdymo, kontrolės užtikrinimo ir informacijos teikimo tvarką; 
+Papildyta straipsnio punktu:
+Nr. XIII-3364, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24520
+ 
+
+
+
+
+4) atlieka kitas šiame įstatyme ir kituose teisės aktuose, reglamentuojančiuose radiacinę ir fizinę saugą, nustatytas funkcijas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-3364, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24520
  
 
 
@@ -525,15 +537,15 @@ VALSTYBINIS RADIACINĖS SAUGOS VALDYMAS
 6 straipsnis. Radiacinės saugos centras
 
 
-1. Radiacinės saugos centras yra reguliuojančioji institucija, vykdanti žmonių ir aplinkos apšvitos bei veiklos, išskyrus branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, reguliuojamąją kontrolę, kuri atlieka šias funkcijas:
+1. Radiacinės saugos centras yra reguliuojančioji institucija, įgyvendinanti valstybės politiką radiacinės saugos srityje, išskyrus šios politikos įgyvendinimą vykdant branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, ir dalyvaujanti formuojant valstybės politiką sveikatos apsaugos ministrui pavestoje radiacinės saugos srityje, kuri atlieka šias funkcijas:
 
 
-1) dalyvauja formuojant ir įgyvendinant valstybės politiką radiacinės saugos srityje, išskyrus šios politikos įgyvendinimą, vykdant branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais;
+1) vykdo žmonių ir aplinkos apšvitos bei veiklos, išskyrus branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, reguliuojamąją kontrolę;
 
 
 
 
-2) atlieka žmonių apšvitos kaip visuomenės sveikatos rizikos veiksnio stebėseną planuojamose, esamose ir avarinėse apšvitos situacijose; 
+2) vykdo žmonių apšvitos kaip visuomenės sveikatos rizikos veiksnio stebėseną planuojamose, esamose ir avarinėse apšvitos situacijose, atlikdamas objektų, kurie gali lemti žmonių apšvitą, tyrimus; 
 
 
 
@@ -543,9 +555,27 @@ VALSTYBINIS RADIACINĖS SAUGOS VALDYMAS
 
 
 
-4) atlieka kitas šiame įstatyme, kituose teisės aktuose, reglamentuojančiuose radiacinę ir fizinę saugą, nustatytas funkcijas.
+4) vykdo jonizuojančiosios spinduliuotės dozės galios monitoringą, atlieka radionuklidų pernašos prognozę, įvykus branduolinei ar radiologinei avarijai;
 
 
+
+
+5) Vyriausybės nustatyta tvarka organizuoja radiologinių avarijų valdymą, dalyvauja likviduojant jų padarinius ir pagal kompetenciją dalyvauja valdant branduolines avarijas ir likviduojant jų padarinius;
+
+
+
+
+6) kontroliuoja prevencijos priemonių, kuriomis perspėjama apie paliktųjų radioaktyviųjų šaltinių ir radioaktyviosiomis medžiagomis užterštų objektų atsiradimą, įgyvendinimą ir paliktųjų radioaktyviųjų šaltinių ir radioaktyviosiomis medžiagomis užterštų objektų sutvarkymą, teikia išvadą dėl radioaktyviųjų šaltinių ir radioaktyviosiomis medžiagomis užterštų objektų pripažinimo paliktaisiais;
+
+
+
+
+7) atlieka kitas šiame įstatyme, kituose teisės aktuose, reglamentuojančiuose radiacinę ir fizinę saugą, nustatytas funkcijas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-3364, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24520
+ 
 
 
 
@@ -928,7 +958,10 @@ VEIKLOS ĮTEISINIMAS
 12 straipsnis. Veiklos įteisinimas 
 
 
-1. Asmuo, atitinkantis šio straipsnio 5 dalyje nustatytus reikalavimus, gali vykdyti veiklą Vyriausybės patvirtintose veiklos su jonizuojančiosios spinduliuotės šaltiniais įteisinimo taisyklėse nustatyta tvarka užregistravęs veiklą, nurodytą šio įstatymo 1 priede pateiktame Registruojamos veiklos rūšių sąraše, arba turėdamas licenciją ar laikinąjį leidimą vykdyti veiklą, nenurodytą šio įstatymo 1 priede pateiktame Registruojamos veiklos rūšių sąraše, pagal šio straipsnio 3 dalyje nurodytas licencijų ar laikinųjų leidimų rūšis, išskyrus veiklas, nurodytas šio straipsnio 2 dalyje.
+1. Asmuo, atitinkantis šio straipsnio 5 dalyje nustatytus reikalavimus, gali vykdyti veiklą Vyriausybės patvirtintose veiklos su jonizuojančiosios spinduliuotės šaltiniais įteisinimo taisyklėse nustatyta tvarka užregistravęs veiklą, nurodytą šio įstatymo 1 priede pateiktame Registruojamos veiklos rūšių sąraše, arba turėdamas licenciją ar laikinąjį leidimą vykdyti veiklą, nenurodytą šio įstatymo 1 priede pateiktame Registruojamos veiklos rūšių sąraše, pagal šio straipsnio 3 dalyje nurodytas licencijų ar laikinųjų leidimų rūšis, išskyrus veiklas, nurodytas šio straipsnio 2 dalyje. Jeigu asmuo vykdo ar planuoja vykdyti veiklą, kuri turi būti įteisinta išduodant licenciją ar laikinąjį leidimą, ir vykdo ar planuoja vykdyti veiklą, nurodytą šio įstatymo 1 priede pateiktame Registruojamos veiklos rūšių sąraše, asmens vykdoma veikla įteisinama išduodant licenciją ar laikinąjį leidimą arba pakeičiant išduotoje licencijoje ar laikinajame leidime nustatytas veiklos sąlygas, atskirai neregistruojant veiklos, nurodytos šio įstatymo 1 priede pateiktame Registruojamos veiklos rūšių sąraše. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3364, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24520
+ 
 
 
 
@@ -1617,7 +1650,10 @@ PALIKTIEJI RADIOAKTYVIEJI ŠALTINIAI IR RADIOAKTYVIOSIOMIS MEDŽIAGOMIS UŽTERŠ
 
 
 
-2. Valstybės ir savivaldybių institucijos ir įstaigos bei kiti juridiniai ir fiziniai asmenys, radę, nustatę, sulaikę paliktuosius radioaktyviuosius šaltinius ar radioaktyviosiomis medžiagomis užterštus objektus, įtarę, kad aptiko paliktuosius radioaktyviuosius šaltinius ar radioaktyviosiomis medžiagomis užterštus objektus, ar išlydę paliktuosius radioaktyviuosius šaltinius ar radioaktyviosiomis medžiagomis užterštus objektus, turi pranešti Vyriausybės nustatyta paliktųjų radioaktyviųjų šaltinių, paliktųjų branduolinio kuro ciklo medžiagų, paliktųjų branduolinių ir daliųjų medžiagų ir radioaktyviosiomis medžiagomis užterštų objektų tvarkymo taisyklių nustatyta tvarka.
+2. Valstybės ir savivaldybių institucijos ir įstaigos bei kiti juridiniai ir fiziniai asmenys, radę, nustatę, sulaikę paliktuosius radioaktyviuosius šaltinius ar radioaktyviosiomis medžiagomis užterštus objektus, įtarę, kad aptiko paliktuosius radioaktyviuosius šaltinius ar radioaktyviosiomis medžiagomis užterštus objektus, ar išlydę paliktuosius radioaktyviuosius šaltinius ar radioaktyviosiomis medžiagomis užterštus objektus, turi pranešti Vyriausybės patvirtintose paliktųjų radioaktyviųjų šaltinių, paliktųjų branduolinio kuro ciklo medžiagų, paliktųjų branduolinių ir daliųjų medžiagų ir radioaktyviosiomis medžiagomis užterštų objektų tvarkymo taisyklėse nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3364, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24520
+ 
 
 
 
@@ -1955,45 +1991,45 @@ ASMENŲ ATESTAVIMAS IR PRIPAŽINIMAS
 
 
 
-28 straipsnis. Asmenų, įskaitant dozimetrijos tarnybas, siekiančių atlikti visuomenės sveikatos saugai užtikrinti reikalingus žmonių apšvitos dozių ir (ar) dozės galios, ir (ar) aktyvumo matavimus ir (ar) apšvitos dozių įvertinimą, pripažinimas
+28 straipsnis. Asmenų, įskaitant dozimetrijos tarnybas, siekiančių atlikti visuomenės sveikatos saugai užtikrinti reikalingus žmonių apšvitos dozių ir (ar) dozės galios, ir (ar) aktyvumo matavimus ir (ar) apšvitos dozių įvertinimą, ir (ar) radionuklidų, išmetamų į aplinką ir (ar) esančių aplinkos komponentuose (ore, vandenyje, dirvožemyje), tyrimus ir (ar) imti ėminius šiems tyrimams atlikti, pripažinimas
 
 
-1. Asmenys, įskaitant dozimetrijos tarnybas, siekiantys atlikti visuomenės sveikatos saugai užtikrinti reikalingus žmonių apšvitos dozių ir (ar) dozės galios, ir (ar) aktyvumo matavimus (toliau – matavimai) ir (ar) apšvitos dozių įvertinimą, išskyrus branduolinės energetikos objektų dozimetrijos tarnybas ir kitus asmenis, kurie atlieka matavimus ir (ar) apšvitos dozių įvertinimą tik branduolinės energetikos objektuose, gali atlikti tik sveikatos apsaugos ministro nustatyta tvarka būdami pripažinti Radiacinės saugos centro ir turėdami šios reguliuojančiosios institucijos išduotą asmens ar dozimetrijos tarnybos, atliekančios matavimus ir (ar) apšvitos dozių įvertinimą, pripažinimo pažymėjimą (toliau – pripažinimo pažymėjimas). Branduolinės energetikos objektų dozimetrijos tarnybos turi būti pripažintos Valstybinės atominės energetikos saugos inspekcijos šios reguliuojančiosios institucijos nustatyta tvarka ir turėti šios reguliuojančiosios institucijos išduotą pripažinimo pažymėjimą.
-
-
-
-
-2. Šio straipsnio 1 dalyje nustatytas reikalavimas netaikomas:
-
-
-1) asmenims, turintiems licenciją ar laikinąjį leidimą vykdyti veiklą su jonizuojančiosios spinduliuotės šaltiniais ir atliekantiems savo darbo vietų stebėsenos matavimus ir (ar) savo darbuotojų apšvitos dozių įvertinimą, naudojant darbo vietų stebėsenos matavimų rezultatus;
+1. Asmenys, įskaitant dozimetrijos tarnybas, siekiantys atlikti visuomenės sveikatos saugai užtikrinti reikalingus žmonių apšvitos dozių ir (ar) dozės galios, ir (ar) aktyvumo matavimus (toliau – matavimai) ir (ar) apšvitos dozių įvertinimą (išskyrus branduolinės energetikos objektų dozimetrijos tarnybas ir kitus asmenis, kurie atlieka matavimus ir (ar) apšvitos dozių įvertinimą tik branduolinės energetikos objektuose), ir (ar) radionuklidų, išmetamų į aplinką ir (ar) esančių aplinkos komponentuose (ore, vandenyje, dirvožemyje), tyrimus ir (ar) imti ėminius šiems tyrimams atlikti (toliau – aplinkos tyrimai), gali atlikti tik sveikatos apsaugos ministro nustatyta tvarka būdami pripažinti Radiacinės saugos centro ir turėdami šios reguliuojančiosios institucijos išduotą asmens ar dozimetrijos tarnybos, atliekančios matavimus ir (ar) apšvitos dozių įvertinimą, ir (ar) aplinkos tyrimus, pripažinimo pažymėjimą (toliau – pripažinimo pažymėjimas). Branduolinės energetikos objektų dozimetrijos tarnybos turi būti pripažintos Valstybinės atominės energetikos saugos inspekcijos šios reguliuojančiosios institucijos nustatyta tvarka ir turėti šios reguliuojančiosios institucijos išduotą pripažinimo pažymėjimą.
 
 
 
 
-2) asmenims, atliekantiems aplinkos monitoringo radiologinius tyrimus ir matavimus Lietuvos Respublikos aplinkos monitoringo įstatyme nustatytais pagrindais;
+2. Šio straipsnio 1 dalyje nustatytas reikalavimas netaikomas asmenims:
+
+
+1) turintiems licenciją ar laikinąjį leidimą vykdyti veiklą su jonizuojančiosios spinduliuotės šaltiniais ir atliekantiems savo darbo vietų stebėsenos matavimus ir (ar) savo darbuotojų apšvitos dozių įvertinimą naudojant darbo vietų stebėsenos matavimų rezultatus;
 
 
 
 
-3) asmenims, atliekantiems valstybinio radiologinio monitoringo tyrimus ir matavimus, jeigu tokie tyrimai yra akredituoti įstaigos, priklausančios Europos akreditacijos organizacijai;
+2) atliekantiems aplinkos monitoringo radiologinius tyrimus ir matavimus Lietuvos Respublikos aplinkos monitoringo įstatyme nustatytais pagrindais;
 
 
 
 
-4) asmenims, kurių atliktų matavimų ir (ar) apšvitos dozių įvertinimo rezultatai naudojami moksliniams tyrimams;
+3) atliekantiems aplinkos tyrimus, jeigu tokie tyrimai yra akredituoti įstaigos, priklausančios Europos akreditacijos organizacijai;
 
 
 
 
-5) asmenims, turintiems kitos valstybės narės reguliuojančiosios institucijos išduotą dokumentą, įrodantį, kad jie turi teisę atlikti matavimus ir (ar) apšvitos dozių įvertinimą.
+4) kurių atliktų matavimų ir (ar) apšvitos dozių įvertinimo rezultatai naudojami moksliniams tyrimams;
+
+
+
+
+5) turintiems kitos valstybės narės reguliuojančiosios institucijos išduotą dokumentą, įrodantį, kad jie turi teisę atlikti matavimus ir (ar) apšvitos dozių įvertinimą.
 
 
 
 
 
 
-3. Asmenys, įskaitant dozimetrijos tarnybas, siekiantys atlikti matavimus ir (ar) apšvitos dozių įvertinimą, turi atitikti šiuos reikalavimus:
+3. Asmenys, įskaitant dozimetrijos tarnybas, siekiantys atlikti matavimus ir (ar) apšvitos dozių įvertinimą, ir (ar) aplinkos tyrimus, turi atitikti šiuos reikalavimus:
 
 
 1) turėti matavimus atliekančius specialistus, apmokytus atlikti konkrečius matavimus ir turinčius tai įrodančius dokumentus, kai siekiama atlikti matavimus;
@@ -2018,12 +2054,12 @@ ASMENŲ ATESTAVIMAS IR PRIPAŽINIMAS
 
 
 
-4. Asmenys, įskaitant dozimetrijos tarnybas, siekiantys atlikti matavimus ir (ar) apšvitos dozių įvertinimą, turi sveikatos apsaugos ministro nustatyta tvarka pateikti Radiacinės saugos centrui šio straipsnio 3 dalyje nustatytus reikalavimus pagrindžiančius dokumentus. Branduolinės energetikos objekto dozimetrijos tarnyba turi Valstybinės atominės energetikos saugos inspekcijos nustatyta tvarka pateikti šiai reguliuojančiajai institucijai šio straipsnio 3 dalyje nustatytus reikalavimus pagrindžiančius dokumentus.
+4. Asmenys, įskaitant dozimetrijos tarnybas, siekiantys atlikti matavimus ir (ar) apšvitos dozių įvertinimą, ir (ar) aplinkos tyrimus, turi sveikatos apsaugos ministro nustatyta tvarka pateikti Radiacinės saugos centrui šio straipsnio 3 dalyje nustatytus reikalavimus pagrindžiančius dokumentus. Branduolinės energetikos objekto dozimetrijos tarnyba turi Valstybinės atominės energetikos saugos inspekcijos nustatyta tvarka pateikti šiai reguliuojančiajai institucijai šio straipsnio 3 dalyje nustatytus reikalavimus pagrindžiančius dokumentus.
 
 
 
 
-5. Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija per 30 kalendorinių dienų nuo visų išsamių ir tinkamai įformintų pripažinimui būtinų dokumentų gavimo dienos įvertina asmenį, įskaitant dozimetrijos tarnybą, siekiantį įgyti teisę atlikti matavimus ir (ar) apšvitos dozių įvertinimą, ir išduoda pripažinimo pažymėjimą arba per šį terminą motyvuotai atsisako išduoti pripažinimo pažymėjimą ir apie tai raštu informuoja prašymą dėl pripažinimo pateikusį asmenį, įskaitant dozimetrijos tarnybą. Jeigu asmuo, įskaitant dozimetrijos tarnybą, pateikė ne visus, neišsamius ar netinkamai įformintus pripažinimui būtinus dokumentus, Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija ne vėliau kaip per 5 darbo dienas nuo pripažinimui būtinų dokumentų gavimo dienos raštu informuoja šį asmenį, įskaitant dozimetrijos tarnybą, kad gauti ne visi, neišsamūs ar netinkamai įforminti pripažinimui būtini dokumentai, ir nustato ne trumpesnį kaip 30 kalendorinių dienų nuo šio asmens, įskaitant dozimetrijos tarnybą, informavimo dienos terminą trūkumams pašalinti. Pripažintam asmeniui, įskaitant dozimetrijos tarnybą, Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija neterminuotam laikui išduoda pripažinimo pažymėjimą. 
+5. Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija per 30 kalendorinių dienų nuo visų išsamių ir tinkamai įformintų pripažinimui būtinų dokumentų gavimo dienos įvertina asmenį, įskaitant dozimetrijos tarnybą, siekiantį įgyti teisę atlikti matavimus ir (ar) apšvitos dozių įvertinimą, ir (ar) aplinkos tyrimus, ir išduoda pripažinimo pažymėjimą arba per šį terminą motyvuotai atsisako išduoti pripažinimo pažymėjimą ir apie tai raštu informuoja prašymą dėl pripažinimo pateikusį asmenį, įskaitant dozimetrijos tarnybą. Jeigu asmuo, įskaitant dozimetrijos tarnybą, pateikė ne visus, neišsamius ar netinkamai įformintus pripažinimui būtinus dokumentus, Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija ne vėliau kaip per 5 darbo dienas nuo pripažinimui būtinų dokumentų gavimo dienos raštu informuoja šį asmenį, įskaitant dozimetrijos tarnybą, kad gauti ne visi, neišsamūs ar netinkamai įforminti pripažinimui būtini dokumentai, ir nustato ne trumpesnį kaip 30 kalendorinių dienų nuo šio asmens, įskaitant dozimetrijos tarnybą, informavimo dienos terminą trūkumams pašalinti. Pripažintam asmeniui, įskaitant dozimetrijos tarnybą, Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija neterminuotam laikui išduoda pripažinimo pažymėjimą. 
 
 
 
@@ -2058,7 +2094,7 @@ ASMENŲ ATESTAVIMAS IR PRIPAŽINIMAS
 
 
 
-8. Asmuo, įskaitant dozimetrijos tarnybą, turintis pripažinimo pažymėjimą, turi teisę atlikti tik tuos matavimus ir (ar) apšvitos dozių įvertinimą, kurie nurodyti jo pripažinimo pažymėjime.
+8. Asmuo, įskaitant dozimetrijos tarnybą, turintis pripažinimo pažymėjimą, turi teisę atlikti tik tuos matavimus ir (ar) apšvitos dozių įvertinimą, ir (ar) aplinkos tyrimus, kurie nurodyti jo pripažinimo pažymėjime.
 
 
 
@@ -2071,7 +2107,7 @@ ASMENŲ ATESTAVIMAS IR PRIPAŽINIMAS
 
 
 
-2) užtikrinti, kad specialistai, atliekantys matavimus ir (ar) apšvitos dozių įvertinimą, tobulintų kvalifikaciją atliekamų matavimų ir (ar) apšvitos dozių įvertinimo srityse ir kas 5 metus pateiktų Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai kvalifikacijos tobulinimą patvirtinančius dokumentus;
+2) užtikrinti, kad specialistai, atliekantys matavimus ir (ar) apšvitos dozių įvertinimą, ir (ar) aplinkos tyrimus, tobulintų kvalifikaciją atliekamų matavimų ir (ar) apšvitos dozių, ir (ar) aplinkos tyrimų įvertinimo srityse ir kas 5 metus pateiktų Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai kvalifikacijos tobulinimą patvirtinančius dokumentus;
 
 
 
@@ -2088,7 +2124,7 @@ ASMENŲ ATESTAVIMAS IR PRIPAŽINIMAS
 
 
 
-10. Asmuo, turintis kitos valstybės narės reguliuojančiosios institucijos išduotą dokumentą, įrodantį, kad turi teisę atlikti matavimus ir (ar) apšvitos dozių įvertinimą, turi laikytis šio straipsnio 9 dalies 1 punkte nustatyto reikalavimo.
+10. Asmuo, turintis kitos valstybės narės reguliuojančiosios institucijos išduotą dokumentą, įrodantį, kad turi teisę atlikti matavimus ir (ar) apšvitos dozių įvertinimą, ir (ar) aplinkos tyrimus, turi laikytis šio straipsnio 9 dalies 1 punkte nustatyto reikalavimo.
 
 
 
@@ -2096,12 +2132,12 @@ ASMENŲ ATESTAVIMAS IR PRIPAŽINIMAS
 11. Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija raštu įspėja asmenį, įskaitant dozimetrijos tarnybą, turintį pripažinimo pažymėjimą, apie galimą pripažinimo pažymėjimo galiojimo sustabdymą, nustatę, kad asmuo, įskaitant dozimetrijos tarnybą, turintis pripažinimo pažymėjimą:
 
 
-1) atliko matavimus ir (ar) apšvitos dozių įvertinimą, kurie nenurodyti pripažinimo pažymėjime;
+1) atliko matavimus ir (ar) apšvitos dozių įvertinimą, ir (ar) aplinkos tyrimus, kurie nenurodyti pripažinimo pažymėjime;
 
 
 
 
-2) neteikė duomenų Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai sveikatos apsaugos ministro arba Valstybinės atominės energetikos saugos inspekcijos nustatyta tvarka arba dozimetrijos tarnyba neteikė duomenų Valstybės jonizuojančiosios spinduliuotės šaltinių ir darbuotojų apšvitos registrui sveikatos apsaugos ministro nustatyta tvarka, kai veiklos vykdytojas įgaliojo dozimetrijos tarnybą tokius duomenis teikti;
+2) neteikė duomenų Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai sveikatos apsaugos ministro ar Valstybinės atominės energetikos saugos inspekcijos nustatyta tvarka arba dozimetrijos tarnyba neteikė duomenų Valstybės jonizuojančiosios spinduliuotės šaltinių ir darbuotojų apšvitos registrui sveikatos apsaugos ministro nustatyta tvarka, kai veiklos vykdytojas įgaliojo dozimetrijos tarnybą tokius duomenis teikti;
 
 
 
@@ -2131,7 +2167,7 @@ ASMENŲ ATESTAVIMAS IR PRIPAŽINIMAS
 13. Pripažinimo pažymėjimo galiojimas sustabdomas, jeigu asmuo, įskaitant dozimetrijos tarnybą, turintis pripažinimo pažymėjimą:
 
 
-1) įspėtas apie galimą pripažinimo pažymėjimo galiojimo sustabdymą dėl šio straipsnio 11 dalyje nurodyto pažeidimo, per Radiacinės saugos centro ar Valstybinės atominės energetikos saugos inspekcijos nustatytą terminą šio pažeidimo nepašalino arba nepranešė Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai apie pažeidimo pašalinimą;
+1) įspėtas apie galimą pripažinimo pažymėjimo galiojimo sustabdymą dėl šio straipsnio 11 dalyje nurodyto pažeidimo, per Radiacinės saugos centro ar Valstybinės atominės energetikos saugos inspekcijos nustatytą terminą šio pažeidimo nepašalino arba nepranešė Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai apie pažeidimo pašalinimą;
 
 
 
@@ -2171,7 +2207,7 @@ ASMENŲ ATESTAVIMAS IR PRIPAŽINIMAS
 
 
 
-3) atliko matavimus ir (ar) apšvitos dozių įvertinimą, jeigu pripažinimo pažymėjimo galiojimas buvo sustabdytas;
+3) asmuo, įskaitant dozimetrijos tarnybą, atliko matavimus ir (ar) apšvitos dozių įvertinimą, ir (ar) aplinkos tyrimus, jeigu pripažinimo pažymėjimo galiojimas buvo sustabdytas;
 
 
 
@@ -2188,20 +2224,22 @@ ASMENŲ ATESTAVIMAS IR PRIPAŽINIMAS
 
 
 
-17. Panaikinus pripažinimo pažymėjimo galiojimą šio straipsnio 15 dalies 2 ir 3 punktuose nurodytais atvejais, asmuo, įskaitant dozimetrijos tarnybą, gali kreiptis dėl naujo pripažinimo pažymėjimo išdavimo ne anksčiau kaip po 6 mėnesių nuo pripažinimo pažymėjimo galiojimo panaikinimo dienos.
+17. Panaikinus pripažinimo pažymėjimo galiojimą šio straipsnio 15 dalies 2 ir 3 punktuose nurodytais atvejais, asmuo, įskaitant dozimetrijos tarnybą, gali kreiptis dėl naujo pripažinimo pažymėjimo išdavimo ne anksčiau kaip po 6 mėnesių nuo pripažinimo pažymėjimo galiojimo panaikinimo dienos.
 
 
 
 
-18. Radiacinės saugos centras prižiūri, kaip asmenys, įskaitant dozimetrijos tarnybas, atliekantys matavimus ir (ar) apšvitos dozių įvertinimą, išskyrus branduolinės energetikos objektų dozimetrijos tarnybas ir kitus asmenis, kurie atlieka matavimus ir (ar) apšvitos dozių įvertinimą tik branduolinės energetikos objektuose, laikosi sveikatos apsaugos ministro nustatytų jų pripažinimo reikalavimų. Valstybinė atominės energetikos saugos inspekcija prižiūri, kaip branduolinės energetikos objektų dozimetrijos tarnybos laikosi šios reguliuojančiosios institucijos nustatytų jų pripažinimo reikalavimų.
+18. Radiacinės saugos centras prižiūri, kaip asmenys, įskaitant dozimetrijos tarnybas, atliekantys matavimus ir (ar) apšvitos dozių įvertinimą, išskyrus branduolinės energetikos objektų dozimetrijos tarnybas ir kitus asmenis, kurie atlieka matavimus ir (ar) apšvitos dozių įvertinimą tik branduolinės energetikos objektuose, ir (ar) aplinkos tyrimus, laikosi sveikatos apsaugos ministro nustatytų jų pripažinimo reikalavimų. Valstybinė atominės energetikos saugos inspekcija prižiūri, kaip branduolinės energetikos objektų dozimetrijos tarnybos laikosi šios reguliuojančiosios institucijos nustatytų jų pripažinimo reikalavimų.
 
 
 
 
-19. Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija, vykdydami šio straipsnio 18 dalyje nurodytų asmenų, įskaitant dozimetrijos tarnybas, atliekančių matavimus ir (ar) apšvitos dozių įvertinimą, priežiūrą, teikia jiems privalomus vykdyti nurodymus pašalinti nustatytus teisės aktų, reglamentuojančių jų pripažinimo reikalavimus, pažeidimus.
+19. Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija, vykdydami šio straipsnio 18 dalyje nurodytų asmenų, įskaitant dozimetrijos tarnybas, atliekančių matavimus ir (ar) apšvitos dozių įvertinimą, ir (ar) aplinkos tyrimus, priežiūrą, teikia jiems privalomus vykdyti nurodymus pašalinti nustatytus teisės aktų, reglamentuojančių jų pripažinimo reikalavimus, pažeidimus. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3364, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24520
  
-
-
 
 
 
@@ -2743,7 +2781,10 @@ REGISTRUOJAMOS VEIKLOS RŪŠIŲ SĄRAŠAS
 14. Veikla gamtinės kilmės radioaktyviųjų medžiagų nulemtos jonizuojančiosios spinduliuotės aplinkoje, kai:
 
 
-14.1. darbo vietose, kuriose, nepaisant veiksmų, kurie buvo taikyti optimizuojant radiacinę saugą, metinis vidutinis radono tūrinis aktyvumas ir toliau viršija sveikatos apsaugos ministro nustatytą atskaitos lygį;
+14.1. darbo vietose, kuriose, nepaisant veiksmų, kurie taikyti optimizuojant radiacinę saugą, metinė vidutinė radono aktyvumo koncentracija ir toliau viršija sveikatos apsaugos ministro nustatytą atskaitos lygį; 
+Papunkčio pakeitimai:
+Nr. XIII-3364, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24520
+ 
 
 
 
@@ -2767,7 +2808,6 @@ REGISTRUOJAMOS VEIKLOS RŪŠIŲ SĄRAŠAS
 
 
 
- 
 Lietuvos Respublikos
 radiacinės saugos įstatymo
 2 priedas
@@ -2776,19 +2816,22 @@ radiacinės saugos įstatymo
  
 
 
-1. 2006 m. lapkričio 20 d. Tarybos direktyva 2006/117/Euratomas dėl radioaktyviųjų atliekų ir panaudoto branduolinio kuro vežimo priežiūros ir kontrolės (OL 2006 L 337, p. 21).
+1. 2006 m. lapkričio 20 d. Tarybos direktyva 2006/117/Euratomas dėl radioaktyviųjų atliekų ir panaudoto branduolinio kuro vežimo priežiūros ir kontrolės.
 
 
 
 
-2. 2013 m. gruodžio 5 d. Tarybos direktyva 2013/59/Euratomas, kuria nustatomi pagrindiniai saugos standartai siekiant užtikrinti apsaugą nuo jonizuojančiosios spinduliuotės apšvitos keliamų pavojų ir panaikinamos direktyvos 89/618/Euratomas, 90/641/Euratomas, 96/29/Euratomas, 97/43/Euratomas ir 2003/122/Euratomas (OL 2014 L 13, p. 1).
+2. 2013 m. gruodžio 5 d. Tarybos direktyva 2013/59/Euratomas, kuria nustatomi pagrindiniai saugos standartai siekiant užtikrinti apsaugą nuo jonizuojančiosios spinduliuotės apšvitos keliamų pavojų ir panaikinamos direktyvos 89/618/Euratomas, 90/641/Euratomas, 96/29/Euratomas, 97/43/Euratomas ir 2003/122/Euratomas.
 
 
 
 
-3. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1).
+3. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). 
 
 
+Priedo pakeitimai:
+Nr. XIII-3364, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24520
+ 
  
  
 Pakeitimai:
@@ -2837,3 +2880,8 @@ Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 25 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3071, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14346
 Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 25 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3364, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24520
+Lietuvos Respublikos radiacinės saugos įstatymo Nr. VIII-1019 2, 5, 6, 12, 23, 28 straipsnių ir 1, 2 priedų pakeitimo įstatymas
