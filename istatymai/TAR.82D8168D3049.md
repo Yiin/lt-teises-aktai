@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.82D8168D3049"
 
 # Lietuvos Respublikos elektroninių ryšių įstatymas
 
-Suvestinė redakcija nuo 2020-01-17 iki 2020-12-31
+Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 69-2382, i. k. 1041010ISTA0IX-2135
  
@@ -1010,7 +1010,10 @@ Nr. XIII-1661, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19157
 
 
 
-4) kai sukanka pensinis amžius;
+4) Neteko galios nuo 2021-01-01
+Straipsnio punkto naikinimas:
+Nr. XIII-3407, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24568
+ 
 
 
 
@@ -5664,3 +5667,8 @@ Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 41 straipsnio p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2516, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18824
 Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 12, 74 straipsnių ir 2 priedo pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3407, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24568
+Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 7 straipsnio pakeitimo įstatymas
