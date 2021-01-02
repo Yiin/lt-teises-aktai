@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-01-01
+Suvestinė redakcija nuo 2021-01-02 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -1229,18 +1229,23 @@ SAVIVALDYBIŲ INSTITUCIJOS, JŲ SUDARYMAS IR ĮGALIOJIMAI
 
 
 
-6. Per du mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos arba nuo tiesiogiai išrinkto mero priesaikos priėmimo dienos turi būti paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryti savivaldybės tarybos komitetai ir paskirti šių komitetų pirmininkai, sudarytos šiame įstatyme nustatytos komisijos ir paskirti šių komisijų pirmininkai, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti. Jeigu mero pavaduotojo (pavaduotojų) ir (ar) Kontrolės komiteto pirmininko, ir (ar) šiame įstatyme nustatytų komisijų pirmininkų įgaliojimai nutrūksta ir (ar) savivaldybės administracijos direktorius atleidžiamas iš pareigų prieš terminą, per du mėnesius nuo jų įgaliojimų nutrūkimo ar atleidimo iš pareigų dienos savivaldybės taryba turi paskirti mero pavaduotoją (pavaduotojus) ir (ar) savivaldybės administracijos direktorių, ir (ar) Kontrolės komiteto pirmininką, ir (ar) šiame įstatyme nustatytų komisijų pirmininkus. 
+6. Per du mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos arba nuo tiesiogiai išrinkto mero priesaikos priėmimo dienos turi būti paskirtas (paskirti) mero pavaduotojas (pavaduotojai), sudaryti savivaldybės tarybos komitetai ir paskirti šių komitetų pirmininkai, sudarytos šiame įstatyme nustatytos komisijos ir paskirti šių komisijų pirmininkai, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti. Per tris mėnesius nuo pirmojo išrinktos naujos savivaldybės tarybos posėdžio sušaukimo dienos arba nuo tiesiogiai išrinkto mero priesaikos priėmimo dienos turi būti paskirti savivaldybės administracijos direktorius, savivaldybės administracijos direktoriaus pavaduotojas (pavaduotojai). Jeigu mero pavaduotojo (pavaduotojų) įgaliojimai nutrūksta, per du mėnesius nuo jo (jų) įgaliojimų nutrūkimo dienos savivaldybės taryba turi paskirti mero pavaduotoją (pavaduotojus). Jeigu savivaldybės administracijos direktorius, savivaldybės administracijos direktoriaus pavaduotojas (pavaduotojai) atleidžiamas (atleidžiami) iš pareigų prieš terminą, per tris mėnesius nuo jo (jų) atleidimo iš pareigų dienos savivaldybės taryba turi paskirti savivaldybės administracijos direktorių, savivaldybės administracijos direktoriaus pavaduotoją (pavaduotojus). Jeigu Kontrolės komiteto pirmininko ir (ar) šiame įstatyme nustatytų komisijų pirmininkų įgaliojimai nutrūksta prieš terminą, per du mėnesius nuo jų įgaliojimų nutrūkimo dienos šio įstatymo 14 ir 15 straipsniuose nustatyta tvarka turi būti paskirti Kontrolės komiteto pirmininkas ir (ar) šiame įstatyme nustatytų komisijų pirmininkai. 
+TAR pastaba. 6 dalis taikoma po įstatymo Nr. XIV-94 įsigaliojimo (2021-01-02) išrinktoms savivaldybių taryboms skiriant savivaldybių vykdomąsias institucijas, sudarant savivaldybės tarybos komitetus ir komisijas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
 Nr. XIII-1655, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19165
+Nr. XIV-94, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28943
  
 
 
 
 
-7. Šio straipsnio 6 dalies nuostata (išskyrus tarybos komitetų bei įstatyme nustatytų komisijų sudarymą) netaikoma, jeigu išrinktas meras kitų įstatymų nustatyta tvarka laikinai nušalintas nuo pareigų. Pasibaigus išrinkto mero laikino nušalinimo laikotarpiui ne vėliau kaip per 5 kalendorines dienas turi būti sušauktas savivaldybės tarybos posėdis, kuriame išrinktas meras prisiekia (jeigu jis nebuvo prisiekęs). Nuo šio posėdžio dienos per du mėnesius turi būti paskirti mero pavaduotojas (pavaduotojai) ir savivaldybės administracijos direktorius, sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti. 
+7. Šio straipsnio 6 dalies nuostata (išskyrus dėl tarybos komitetų ir šiame įstatyme nustatytų komisijų sudarymo) netaikoma, jeigu išrinktas meras kitų įstatymų nustatyta tvarka laikinai nušalintas nuo pareigų. Pasibaigus išrinkto mero laikino nušalinimo laikotarpiui ne vėliau kaip per 5 kalendorines dienas turi būti sušauktas savivaldybės tarybos posėdis, kuriame išrinktas meras prisiekia (jeigu jis nebuvo prisiekęs). Nuo šio posėdžio dienos per du mėnesius turi būti paskirtas mero pavaduotojas (pavaduotojai), sudaryta savivaldybės tarybos kolegija, jeigu nusprendžiama ją sudaryti, per tris mėnesius turi būti paskirti savivaldybės administracijos direktorius, savivaldybės administracijos direktoriaus pavaduotojas (pavaduotojai). 
+TAR pastaba. 7 dalis taikoma po įstatymo Nr. XIV-94 įsigaliojimo (2021-01-02) išrinktoms savivaldybių taryboms skiriant savivaldybių vykdomąsias institucijas, sudarant savivaldybės tarybos komitetus ir komisijas.
 Papildyta straipsnio dalimi:
 Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
+Straipsnio dalies pakeitimai:
+Nr. XIV-94, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28943
  
 
 
@@ -1254,9 +1259,11 @@ Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
 
 
 
-9. Kai savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas, savivaldybės taryba netenka įgaliojimų arba savivaldybės tarybos įgaliojimai laikino tiesioginio valdymo laikotarpiu sustabdomi Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo nustatyta tvarka. 
+9. Kai savivaldybės teritorijoje įvedamas tiesioginis valdymas, savivaldybės taryba netenka įgaliojimų arba savivaldybės tarybos įgaliojimai tiesioginio valdymo laikotarpiu sustabdomi Lietuvos Respublikos tiesioginio valdymo savivaldybės teritorijoje įstatymo nustatyta tvarka. 
+TAR pastaba. 9 dalis taikoma po įstatymo Nr. XIV-94 įsigaliojimo (2021-01-02) išrinktoms savivaldybių taryboms skiriant savivaldybių vykdomąsias institucijas, sudarant savivaldybės tarybos komitetus ir komisijas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3244, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15881
+Nr. XIV-94, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28943
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
  
@@ -2468,9 +2475,11 @@ Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
 
 
 
-71. Meras netenka savo įgaliojimų, kai savivaldybės teritorijoje laikinai įvedus tiesioginį valdymą įgaliojimų netenka savivaldybės taryba, arba jo įgaliojimai sustabdomi, kai laikinai įvedus tiesioginį valdymą sustabdomi savivaldybės tarybos įgaliojimai. 
+71. Meras netenka savo įgaliojimų, kai savivaldybės teritorijoje įvedus tiesioginį valdymą įgaliojimų netenka savivaldybės taryba, arba jo įgaliojimai sustabdomi, kai įvedus tiesioginį valdymą sustabdomi savivaldybės tarybos įgaliojimai. 
 Papildyta straipsnio dalimi:
 Nr. XIII-3244, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15881
+Straipsnio dalies pakeitimai:
+Nr. XIV-94, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28943
  
 
 
@@ -3021,9 +3030,10 @@ Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
 25 straipsnis. Savivaldybės tarybos nario įgaliojimų sustabdymas arba jų nutrūkimas prieš terminą
 
 
-1. Savivaldybės tarybos narių įgaliojimai laikino tiesioginio valdymo laikotarpiu sustabdomi Laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo nustatyta tvarka. 
+1. Savivaldybės tarybos narių įgaliojimai tiesioginio valdymo laikotarpiu sustabdomi Tiesioginio valdymo savivaldybės teritorijoje įstatymo nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3244, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15881
+Nr. XIV-94, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28943
  
 
 
@@ -3486,10 +3496,11 @@ SAVIVALDYBĖS VYKDOMOJI INSTITUCIJA, VIEŠOJO ADMINISTRAVIMO ĮSTAIGOS, JŲ SUDA
 
 
 
-3. Savivaldybės administracijos direktorius į pareigas skiriamas mero teikimu savivaldybės tarybos sprendimu savivaldybės tarybos įgaliojimų laikui politinio (asmeninio) pasitikėjimo pagrindu. Savivaldybės administracijos direktoriaus kadencijų skaičius tam pačiam asmeniui neribojamas. Tol, kol administracijos direktorius ir jo pavaduotojas nėra paskirti, direktoriaus pareigas gali eiti mero ar laikinai mero pareigas einančio tarybos nario siūlymu savivaldybės tarybos paskirtas savivaldybės administracijos valstybės tarnautojas. Savivaldybės administracijos direktoriaus pavaduotojas į pareigas skiriamas savivaldybės administracijos direktoriaus siūlymu mero teikimu savivaldybės tarybos sprendimu politinio (asmeninio) pasitikėjimo pagrindu. Tarnybines nuobaudas savivaldybės administracijos direktoriui (direktoriaus pavaduotojui) už tarnybinius nusižengimus skiria savivaldybės taryba. Atleidimo iš pareigų praradus pasitikėjimą procedūra ar tarnybinio nusižengimo tyrimas pradedami mero iniciatyva. Meras šias procedūras gali inicijuoti, o gavęs ne mažiau kaip 1/2 visų savivaldybės tarybos narių raštu pateiktus nepasitikėjimo savivaldybės administracijos direktoriumi (direktoriaus pavaduotoju) motyvus ar oficialią informaciją apie savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo) galimą tarnybinį nusižengimą – privalo inicijuoti savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo) atleidimo iš pareigų praradus pasitikėjimą procedūrą ar tarnybinio nusižengimo tyrimą.
+3. Savivaldybės administracijos direktorius į pareigas skiriamas mero teikimu savivaldybės tarybos sprendimu savivaldybės tarybos įgaliojimų laikui politinio (asmeninio) pasitikėjimo pagrindu. Savivaldybės administracijos direktoriaus kadencijų skaičius tam pačiam asmeniui neribojamas. Tol, kol savivaldybės administracijos direktorius ir direktoriaus pavaduotojas nepaskirti, savivaldybės administracijos direktoriaus pareigas gali eiti mero ar laikinai mero pareigas einančio tarybos nario siūlymu savivaldybės tarybos paskirtas savivaldybės administracijos valstybės tarnautojas. Savivaldybės administracijos direktoriaus pavaduotojas (pavaduotojai) į pareigas skiriamas (skiriami) savivaldybės administracijos direktoriaus siūlymu mero teikimu savivaldybės tarybos sprendimu politinio (asmeninio) pasitikėjimo pagrindu. Asmuo, skiriamas į savivaldybės administracijos direktoriaus, direktoriaus pavaduotojo pareigas, turi atitikti įstatymuose ir kituose teisės aktuose nustatytus reikalavimus, taikomus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija. Tarnybines nuobaudas savivaldybės administracijos direktoriui (direktoriaus pavaduotojui) už tarnybinius nusižengimus skiria savivaldybės taryba. Atleidimo iš pareigų praradus pasitikėjimą procedūra ar tarnybinio nusižengimo tyrimas pradedami mero iniciatyva. Meras šias procedūras gali inicijuoti, o gavęs ne mažiau kaip 1/2 visų savivaldybės tarybos narių raštu pateiktus nepasitikėjimo savivaldybės administracijos direktoriumi (direktoriaus pavaduotoju) motyvus ar oficialią informaciją apie savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo) galimą tarnybinį nusižengimą privalo inicijuoti savivaldybės administracijos direktoriaus (direktoriaus pavaduotojo) atleidimo iš pareigų praradus pasitikėjimą procedūrą ar tarnybinio nusižengimo tyrimą. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
+Nr. XIV-94, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28943
  
 
 
@@ -3505,13 +3516,14 @@ Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
 
 
 
-6. Pasibaigus savivaldybės administracijos direktorių, administracijos direktoriaus pavaduotoją į pareigas paskyrusios savivaldybės tarybos kadencijai, savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas, jeigu jie į šias pareigas nepaskiriami naujai kadencijai arba jeigu savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas atsistatydina ar atleidžiamas iš šių pareigų, išskyrus atleidimą už tarnybinius nusižengimus, turi teisę Vyriausybės nustatyta tvarka grįžti į iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju eitas valstybės tarnautojo pareigas (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas ir savivaldybės kontrolieriaus ir savivaldybės kontrolės ir audito tarnybos valstybės tarnautojo ir darbuotojo, dirbančio pagal darbo sutartį, pareigas), o kai tokios galimybės nėra, – į kitas lygiavertes ar žemesnes valstybės tarnautojo pareigas (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas). Be to, šioje dalyje nustatytu atveju savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas turi teisę grįžti į iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju eitas pareigas, jeigu jie ėjo šias pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės valdomoje įmonėje, o kai tokios galimybės nėra, – į kitas pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės valdomoje įmonėje. Jeigu iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju šie asmenys ėjo pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės valdomoje įmonėje, kurioms buvo nustatyta kadencija, kai yra tokia galimybė, jie turi teisę grįžti į šias pareigas likusiam kadencijos laikui. Jeigu šie asmenys iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju tokių pareigų nėjo arba atsisakė pasiūlytų kitų žemesnių valstybės tarnautojo pareigų arba kitų pareigų savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės valdomoje įmonėje, išmokos jiems mokamos Valstybės tarnybos įstatymo nustatyta tvarka.
+6. Pasibaigus savivaldybės administracijos direktorių, administracijos direktoriaus pavaduotoją į pareigas paskyrusios savivaldybės tarybos kadencijai, savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas, jeigu jie į šias pareigas nepaskiriami naujai kadencijai arba jeigu savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas atsistatydina ar atleidžiamas iš šių pareigų, išskyrus atleidimą už tarnybinius nusižengimus ir kai savivaldybės administracijos direktorius atleidžiamas, nes neatlieka Lietuvos Respublikos karo padėties įstatyme nustatytų funkcijų ar jas atlieka neatsižvelgdamas į ginkluotųjų pajėgų poreikius, turi teisę Vyriausybės nustatyta tvarka grįžti į iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju eitas valstybės tarnautojo pareigas (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas ir savivaldybės kontrolieriaus, savivaldybės kontrolės ir audito tarnybos valstybės tarnautojo ir darbuotojo, dirbančio pagal darbo sutartį, pareigas), o kai tokios galimybės nėra, – į kitas lygiavertes ar žemesnes valstybės tarnautojo pareigas (išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigas). Be to, šioje dalyje nustatytu atveju savivaldybės administracijos direktorius, administracijos direktoriaus pavaduotojas turi teisę grįžti į iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju eitas pareigas, jeigu jie ėjo šias pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės valdomoje įmonėje, o kai tokios galimybės nėra, – į kitas pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės valdomoje įmonėje. Jeigu iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju šie asmenys ėjo pareigas savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės valdomoje įmonėje, kurioms buvo nustatyta kadencija, kai yra tokia galimybė, jie turi teisę grįžti į šias pareigas likusiam kadencijos laikui. Jeigu šie asmenys iki paskyrimo savivaldybės administracijos direktoriumi, direktoriaus pavaduotoju tokių pareigų nėjo arba atsisakė pasiūlytų kitų žemesnių valstybės tarnautojo pareigų arba kitų pareigų savivaldybės ar valstybės biudžetinėje ar viešojoje įstaigoje arba savivaldybės valdomoje įmonėje, išmokos jiems mokamos Valstybės tarnybos įstatymo nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
 Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
 Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
 Nr. XIII-3244, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15881
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
+Nr. XIV-94, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28943
  
 
 
@@ -3624,10 +3636,11 @@ Nr. XIII-3244, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15881
 
 
 
-9. Kai savivaldybės teritorijoje laikinai įvedamas tiesioginis valdymas, savivaldybės administracijos direktoriaus ir jo pavaduotojo (pavaduotojų) įgaliojimų klausimas sprendžiamas Laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo nustatyta tvarka. 
+9. Kai savivaldybės teritorijoje įvedamas tiesioginis valdymas, savivaldybės administracijos direktoriaus ir jo pavaduotojo (pavaduotojų) įgaliojimų klausimas sprendžiamas Tiesioginio valdymo savivaldybės teritorijoje įstatymo nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1655, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19165
 Nr. XIII-3244, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15881
+Nr. XIV-94, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28943
  
 
 
@@ -5897,3 +5910,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 7 straipsnio pakeitim
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 4, 7, 12, 13, 14, 15, 16, 19, 20, 24, 26, 27, 29, 32, 32-1, 33, 35-1, 53 straipsnių, devintojo skirsnio pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
+ 
+54.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-94, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28943
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 11, 19, 25 ir 29 straipsnių pakeitimo įstatymas
