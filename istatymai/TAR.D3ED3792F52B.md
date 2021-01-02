@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-01-01
+Suvestinė redakcija nuo 2021-01-02 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -377,8 +377,10 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 
 
-9. Kai savivaldybės teritorijoje įvedamas tiesioginis valdymas, šio įstatymo nuostatos, reglamentuojančios savivaldybės administracijos direktoriaus, direktoriaus pavaduotojo statusą ir savivaldybės mero politinio (asmeninio) pasitikėjimo valstybės tarnautojų atleidimą iš pareigų, taikomos tiek, kiek šių santykių nereglamentuoja Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymas.
+9. Kai savivaldybės teritorijoje įvedamas tiesioginis valdymas, šio įstatymo nuostatos, reglamentuojančios savivaldybės administracijos direktoriaus, direktoriaus pavaduotojo statusą ir savivaldybės mero politinio (asmeninio) pasitikėjimo valstybės tarnautojų atleidimą iš pareigų, taikomos tiek, kiek šių santykių nereglamentuoja Lietuvos Respublikos tiesioginio valdymo savivaldybės teritorijoje įstatymas.
 Papildyta straipsnio dalimi:
+Nr. XIV-95, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28946
+Straipsnio dalies pakeitimai:
 Nr. XIV-95, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28946
  
 
