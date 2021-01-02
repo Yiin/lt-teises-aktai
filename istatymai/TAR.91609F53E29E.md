@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-01-01
+Suvestinė redakcija nuo 2021-01-02 iki 2021-02-28
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -389,28 +389,33 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 
 
 
-11 straipsnis. Socialinės apsaugos ir darbo ministerijos kompetencija 
+11 straipsnis. Socialinės apsaugos ir darbo ministerijos kompetencija
 
 
-Socialinės apsaugos ir darbo ministerija įgyvendina valstybės socialinių paslaugų politiką:
+Socialinės apsaugos ir darbo ministerija: 
 
 
-1) pagal savo kompetenciją teikia Vyriausybei siūlymus dėl valstybės socialinių paslaugų sistemos ir socialinio darbo vystymo krypčių ir rengia teisės aktų projektus dėl asmens (šeimos) socialinių paslaugų poreikio nustatymo, socialinių paslaugų skyrimo, teikimo, finansavimo, mokėjimo už socialines paslaugas, socialinės globos normų, socialinės globos įstaigų licencijavimo, socialinių darbuotojų, socialinių darbuotojų padėjėjų profesinės kvalifikacijos kėlimo ir veiklos reglamentavimo ir kt.; 
-
-
-
-
-2) analizuoja ir vertina socialinių paslaugų būklę šalyje ir teikia savivaldybėms siūlymus dėl socialinių paslaugų planavimo, organizavimo; 
+1) formuoja socialinių paslaugų politiką, organizuoja, koordinuoja ir kontroliuoja jos įgyvendinimą;
 
 
 
 
-3) analizuoja socialinių darbuotojų poreikius tobulinti profesinę kompetenciją, organizuoja socialinių darbuotojų praktinės veiklos vertinimą; 
+2) pagal savo kompetenciją teikia Vyriausybei siūlymus dėl valstybės socialinių paslaugų sistemos ir socialinio darbo vystymo krypčių ir rengia teisės aktų projektus dėl asmens (šeimos) socialinių paslaugų poreikio nustatymo, socialinių paslaugų skyrimo, teikimo, finansavimo, mokėjimo už socialines paslaugas, socialinės globos normų, socialinės globos įstaigų licencijavimo, socialinių darbuotojų, socialinių darbuotojų padėjėjų profesinės kvalifikacijos kėlimo ir veiklos reglamentavimo; 
 
 
 
 
-4) rengia ir įgyvendina valstybės socialinių paslaugų programas ir projektus. 
+3) analizuoja ir vertina socialinių paslaugų būklę šalyje ir teikia savivaldybėms siūlymus dėl socialinių paslaugų planavimo, organizavimo; 
+
+
+
+
+4) analizuoja socialinių darbuotojų poreikius tobulinti profesinę kompetenciją, organizuoja socialinių darbuotojų praktinės veiklos vertinimą;
+
+
+
+
+5) rengia ir finansuoja valstybės socialinių paslaugų programas ir projektus. 
 
 
 
@@ -418,6 +423,7 @@ Socialinės apsaugos ir darbo ministerija įgyvendina valstybės socialinių pas
 Straipsnio pakeitimai:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
  
 
 
@@ -543,17 +549,25 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 
 
-7. Savivaldybė informuoja Socialinės apsaugos ir darbo ministeriją ir gyventojus apie jos teritorijoje teikiamas socialines paslaugas. Duomenis apie gyventojams skirtas, teikiamas ar neskirtas (nurodydamos jų neskyrimo priežastis) socialines paslaugas, akredituotą socialinę priežiūrą teikiančias socialinių paslaugų įstaigas savivaldybės teikia Socialinės paramos šeimai informacinėje sistemoje (SPIS). 
+7. Savivaldybė informuoja Socialinės apsaugos ir darbo ministeriją ir gyventojus apie jos teritorijoje teikiamas socialines paslaugas, savo interneto svetainėje viešina informaciją apie visas jos teritorijoje veikiančias socialinių paslaugų įstaigas, šiose įstaigose teikiamas socialines paslaugas, jų kainas ir numatytą (planinį) vietų skaičių, taip pat informaciją apie turimą licenciją, jos išdavimą, sustabdymą ir (ar) panaikinimą. Duomenis apie gyventojams skirtas, teikiamas ar neskirtas (nurodydamos jų neskyrimo priežastis) socialines paslaugas, akredituotą socialinę priežiūrą teikiančias socialinių paslaugų įstaigas savivaldybės teikia Socialinės paramos šeimai informacinėje sistemoje (SPIS). 
 Straipsnio dalies pakeitimai:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
  
 
 
 
 
 8. Kiekvienos savivaldybės administracijoje turi veikti padalinys, planuojantis socialines paslaugas, administruojantis socialinių paslaugų organizavimą ir bendrųjų socialinių paslaugų bei socialinės priežiūros kokybės kontrolę. 
+
+
+
+
+9. Savivaldybės administracija, gavusi informacijos, kad savivaldybės teritorijoje veikiančioje socialinės globos įstaigoje socialinė globa, įskaitant ir įstaigos teikiamą socialinę globą asmens namuose, galimai teikiama neturint licencijos ar nesilaikant licencijuojamos veiklos sąlygų, apie tai nedelsdama informuoja Socialinių paslaugų priežiūros departamentą. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
  
 
 
@@ -890,11 +904,12 @@ Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
 
 
 
-8. Socialinės globos įstaigos vadovas privalo turėti aukštąjį išsilavinimą ir nuolat tobulinti savo profesinę kompetenciją socialinės apsaugos ir darbo ministro nustatyta tvarka. 
+8. Socialinių paslaugų įstaigos vadovas privalo tobulinti savo profesinę kompetenciją, kiekvienais metais įvertinama jo profesinė veikla. Socialinių paslaugų įstaigų vadovų profesinės kompetencijos tobulinimo tvarkos aprašą ir profesinės veiklos vertinimo tvarkos aprašą tvirtina socialinės apsaugos ir darbo ministras. Socialinės globos įstaigos vadovas privalo turėti aukštąjį išsilavinimą. 
 Papildyta straipsnio dalimi:
 Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA00XI-777
 Straipsnio dalies pakeitimai:
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
  
@@ -917,6 +932,14 @@ Papildyta straipsnio dalimi:
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
+ 
+
+
+
+
+11. Socialinių paslaugų įstaigos savo interneto svetainėje skelbia informaciją apie teikiamas socialines paslaugas, jų kainas ir numatytą (planinį) vietų skaičių, taip pat informaciją apie turimą licenciją, jos išdavimą, sustabdymą ir (ar) panaikinimą. Šią informaciją socialinių paslaugų įstaigos teikia savivaldybei, kurios teritorijoje teikia socialines paslaugas, o pateiktai informacijai pasikeitus, apie tai praneša ne vėliau kaip kitą darbo dieną. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
  
 
 
@@ -1303,20 +1326,50 @@ Licencijas išduoda, jų galiojimą sustabdo, galiojimo sustabdymą panaikina ir
 
 
 
-23 straipsnis. Licencijos gavimo sąlygos 
+23 straipsnis. Licencijos išdavimo sąlygos 
+Pakeistas straipsnio pavadinimas:
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
+ 
 
 
-1. Licencija gali būti išduodama įstaigai, kuri yra tinkamai pasirengusi teikti socialinę globą, – įstaigos numatoma teikti socialinė globa atitinka socialinės globos normose nustatytus reikalavimus personalo struktūrai, skaičiui, išsilavinimui, patalpoms ir privalomų turėti asmeninės apsaugos priemonių ir kitų priemonių, būtinų veiklos vykdymui užtikrinti (toliau – apsaugos priemonės), sąrašui, kiekiui ir laikotarpiui. Apsaugos priemonių sąrašą, kiekį ir laikotarpį, kuriam sukauptų apsaugos priemonių turi pakakti nepertraukiamai įstaigų veiklai užtikrinti, nustato Vyriausybė ar jos įgaliota institucija. 
+1. Licencija gali būti išduodama įstaigai, kuri atitinka visas toliau išvardytas sąlygas:
+
+
+1) yra tinkamai pasirengusi teikti socialinę globą – įstaigos numatoma teikti socialinė globa atitinka socialinės globos normose nustatytus reikalavimus personalo struktūrai, skaičiui, išsilavinimui, patalpoms ir privalomų turėti asmeninės apsaugos priemonių ir kitų priemonių, būtinų veiklos vykdymui užtikrinti (toliau – apsaugos priemonės), sąrašui, kiekiui ir laikotarpiui (apsaugos priemonių sąrašą, kiekį ir laikotarpį, kuriam sukauptų apsaugos priemonių turi pakakti nepertraukiamai įstaigų veiklai užtikrinti, nustato Vyriausybė ar jos įgaliota institucija);
+
+
+
+
+2) per pastaruosius vienus metus iki prašymo išduoti licenciją pateikimo dienos:
+
+
+a) neteikė socialinės globos neturėdama licencijos ir (ar)
+
+
+
+
+b) įstaigai nebuvo panaikintas licencijos teikti socialinę globą galiojimas, išskyrus atvejus, kai licencijos galiojimas buvo panaikintas šio įstatymo 24 straipsnio 7 dalies 2 punkte nustatytu pagrindu, ir (ar)
+
+
+
+
+c) įstaigos vadovams ar kitiems atsakingiems asmenims nebuvo du kartus ir daugiau paskirta administracinė nuobauda už socialinės globos teikimą neturint licencijos ar nesilaikant licencijuojamos veiklos sąlygų. 
+
+
+
+
 Straipsnio dalies pakeitimai:
 Nr. XIII-3342, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24231
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
  
 
 
 
 
-2. Licencijai gauti užpildoma ir Socialinių paslaugų priežiūros departamentui tiesiogiai, registruotu laišku, elektroninėmis priemonėmis arba per Paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) pateikiama paraiška-klausimynas, kuriame pateikiama rašytinė informacija, įrodanti, kad įstaigos numatoma teikti socialinė globa atitiks socialinės globos normose nustatytus reikalavimus personalo struktūrai, skaičiui, išsilavinimui, patalpoms ir privalomų turėti apsaugos priemonių sąrašui bei kiekiui nustatytam laikotarpiui. Paraiškos-klausimyno formą tvirtina Socialinių paslaugų priežiūros departamentas. 
+2. Licencijai gauti užpildoma ir Socialinių paslaugų priežiūros departamentui tiesiogiai, registruotu laišku, elektroninėmis priemonėmis arba per Paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) pateikiama paraiška-klausimynas, kuriame pateikiama rašytinė informacija, įrodanti, kad įstaigos numatoma teikti socialinė globa atitiks socialinės globos normose nustatytus reikalavimus personalo struktūrai, skaičiui, išsilavinimui, patalpoms ir privalomų turėti apsaugos priemonių sąrašui bei kiekiui nustatytam laikotarpiui, taip pat informacija apie tai, ar įstaiga yra teikusi socialinę globą neturėdama licencijos, ar įstaigai buvo panaikintas licencijos teikti socialinę globą galiojimas, išskyrus atvejus, kai licencijos galiojimas buvo panaikintas šio įstatymo 24 straipsnio 7 dalies 2 punkte nustatytu pagrindu, ar įstaigos vadovams ar kitiems atsakingiems asmenims buvo paskirta administracinė nuobauda už socialinės globos teikimą neturint licencijos ar nesilaikant licencijuojamos veiklos sąlygų. Paraiškos-klausimyno formą tvirtina Socialinių paslaugų priežiūros departamentas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-3342, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24231
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
  
 
 
@@ -1332,7 +1385,10 @@ Nr. XIII-3342, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24231
 
 
 
-5. Prieš išduodamas licenciją, Socialinių paslaugų priežiūros departamentas pagal įstaigos šio straipsnio 2 dalyje nurodytoje paraiškoje-klausimyne pateiktą informaciją turi patikrinti vietoje, ar įstaiga yra pasirengusi teikti socialinę globą.
+5. Prieš išduodamas licenciją, Socialinių paslaugų priežiūros departamentas patikrina, ar įstaigos šio straipsnio 2 dalyje nurodytoje paraiškoje-klausimyne pateikta informacija yra teisinga, taip pat pagal paraiškoje-klausimyne įstaigos pateiktą informaciją patikrina vietoje, kurioje ketinama teikti socialinę globą, ar įstaiga yra pasirengusi teikti socialinę globą. Dėl socialinės globos, kurią ketinama teikti asmens namuose, patikrinimas vietoje neatliekamas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
+ 
 
 
 
@@ -1376,9 +1432,17 @@ Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 
 
 
-2) atlikdamas patikrinimą vietoje nustato, kad įstaiga nėra pasirengusi teikti socialinę globą – įstaigos numatoma teikti socialinė globa neatitinka socialinės globos normose nustatytų reikalavimų personalo struktūrai, skaičiui, išsilavinimui, patalpoms ir privalomų turėti apsaugos priemonių sąrašui bei kiekiui nustatytam laikotarpiui. 
+2) atlikdamas patikrinimą vietoje nustato, kad įstaiga nėra pasirengusi teikti socialinę globą – įstaigos numatoma teikti socialinė globa neatitinka socialinės globos normose nustatytų reikalavimų personalo struktūrai, skaičiui, išsilavinimui, patalpoms ir privalomų turėti apsaugos priemonių sąrašui bei kiekiui nustatytam laikotarpiui; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3342, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24231
+ 
+
+
+
+
+3) įstaiga šio įstatymo 23 straipsnio 1 dalyje nurodytu laikotarpiu teikė socialinę globą neturėdama licencijos ir (ar) įstaigai buvo panaikintas licencijos teikti socialinę globą galiojimas, išskyrus atvejus, kai licencijos galiojimas buvo panaikintas šio įstatymo 24 straipsnio 7 dalies 2 punkte nustatytu pagrindu, ir (ar) įstaigos vadovams ar kitiems atsakingiems asmenims buvo du kartus ir daugiau paskirta administracinė nuobauda už socialinės globos teikimą neturint licencijos ar nesilaikant licencijuojamos veiklos sąlygų. 
+Papildyta straipsnio punktu:
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
  
 
 
@@ -1401,7 +1465,10 @@ Nr. XIII-3342, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24231
 
 
 
-5. Sustabdžius licencijos galiojimą, socialinės globos įstaigai leidžiama toliau teikti socialinę globą visą licencijos galiojimo sustabdymo laikotarpį tik tais atvejais, kai nustatyti pažeidimai nekelia grėsmės socialinių paslaugų gavėjų interesams ir saugumui. 
+5. Sustabdžius licencijos galiojimą, socialinės globos įstaigai leidžiama toliau teikti socialinę globą, įskaitant ir įstaigos teikiamą socialinę globą asmens namuose, visą licencijos galiojimo sustabdymo laikotarpį tik tais atvejais, kai nustatyti pažeidimai nekelia grėsmės socialinių paslaugų gavėjų interesams ir saugumui. Į socialinės globos įstaigą, kurios veiklos licencijos galiojimas yra sustabdytas, nauji socialinės globos paslaugos gavėjai nepriimami ir socialinė globa namuose nepradedama teikti naujiems šios paslaugos gavėjams iki tol, kol bus panaikintas licencijos galiojimo sustabdymas. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
+ 
 
 
 
@@ -1441,7 +1508,10 @@ Nr. XIII-3342, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24231
 
 
 
-11. Socialinės globos įstaiga kartu su sprendimą dėl socialinės globos skyrimo priėmusia savivaldybe ir Socialinės apsaugos ir darbo ministerija privalo imtis visų įmanomų priemonių, kad, atsisakius išduoti licenciją, sustabdžius ar panaikinus licencijos galiojimą, būtų apsaugoti socialinių paslaugų gavėjų interesai ir užtikrintas jiems reikalingų socialinių paslaugų tęstinumas kitoje socialinių paslaugų įstaigoje.  
+11. Socialinės globos įstaiga kartu su Socialinės apsaugos ir darbo ministerija ir sprendimą dėl socialinės globos skyrimo priėmusia savivaldybe ar savivaldybe, kurios teritorijoje veikia socialinės globos įstaiga, kai asmeniui įstaigoje paslaugos teikiamos šalių susitarimu, koordinuoja socialinių paslaugų gavėjams reikalingų ir geriausiai jų socialinių paslaugų poreikius atitinkančių paslaugų tęstinumo užtikrinimą ir interesų apsaugą, kai sustabdomas ar panaikinamas socialinės globos įstaigos licencijos galiojimas, ar nustatoma, kad socialinė globa teikiama neturint licencijos ar nesilaikant licencijuojamos veiklos sąlygų. Jeigu asmeniui įstaigoje paslaugos teikiamos šalių susitarimu, socialines paslaugas jam organizuoja asmens gyvenamosios vietos savivaldybė, o kai teikiama institucinė socialinė globa (ilgalaikė, trumpalaikė), – savivaldybė, kurioje buvo paskutinė asmens deklaruota gyvenamoji vieta iki apsigyvenimo socialinės globos įstaigoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
+ 
 
 
 Straipsnio pakeitimai:
@@ -1497,14 +1567,25 @@ Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
 
 
 
-5) imtis visų įmanomų priemonių, kad, sustabdžius ar panaikinus licencijos galiojimą, būtų apsaugoti socialinės globos gavėjų interesai ir užtikrintas jiems reikalingų socialinių paslaugų tęstinumas kitoje socialinių paslaugų įstaigoje.
+5) imtis visų įmanomų priemonių, kad, sustabdžius ar panaikinus licencijos galiojimą, būtų apsaugoti socialinės globos gavėjų interesai ir užtikrintas jiems reikalingų socialinių paslaugų tęstinumas kitoje socialinių paslaugų įstaigoje;
+
+
+
+
+6) duomenis apie asmenims teikiamas socialinės globos paslaugas teikti į SPIS, išskyrus atvejus, kai socialinė globa asmeniui teikiama savivaldybės sprendimu, ir informuoti socialinės paslaugos gavėjo gyvenamosios vietos savivaldybę, o kai teikiama institucinė socialinė globa (ilgalaikė, trumpalaikė), – paskutinės deklaruotos gyvenamosios vietos iki apsigyvenimo socialinės globos įstaigoje savivaldybę apie jiems teikiamą socialinę globą. 
+Papildyta straipsnio punktu:
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
+ 
 
 
 
 
 
 
-3. Licencijos turėtojas gali teikti institucinę socialinę globą tik licencijoje nurodytoje veiklos patalpoje.
+3. Licencijos turėtojas institucinę socialinę globą turi teisę teikti tik licencijoje nurodytu veiklos patalpų adresu (adresais) nurodytai paslaugų gavėjų grupei ne didesniam kaip licencijoje nurodytam socialinės globos gavėjų skaičiui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
+ 
 
 
 
