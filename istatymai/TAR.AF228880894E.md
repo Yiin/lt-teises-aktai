@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AF228880894E"
 
 # Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymas
 
-Suvestinė redakcija nuo 2020-04-25 iki 2021-01-07
+Suvestinė redakcija nuo 2021-01-08 iki 2021-04-29
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 68-2774, i. k. 1021010ISTA00IX-985
  
@@ -424,6 +424,26 @@ Nr. XI-1602, 2011-09-22, Žin., 2011, Nr. 121-5708 (2011-10-08)
 Nr. XII-587, 2013-11-12, Žin., 2013, Nr. 121-6115 (2013-11-26)
  
 
+111 straipsnis. Vyriausiosios rinkimų komisijos posėdžių organizavimas nuotoliniu būdu
+
+1. Įvedus nepaprastąją padėtį, Lietuvos Respublikos civilinės saugos įstatymo nustatyta tvarka paskelbus ekstremaliąją situaciją arba Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo nustatytais atvejais ir tvarka paskelbus karantiną ir kai yra pagrindas manyti, kad gali kilti grėsmė Vyriausiosios rinkimų komisijos darbui, nes dėl objektyvių aplinkybių gali kilti pavojus komisijos narių sveikatai ir (ar) gyvybei, Vyriausiosios rinkimų komisijos sprendimu jos posėdžiai gali būti organizuojami nuotoliniu būdu.
+
+2. Visuomenei apie Vyriausiosios rinkimų komisijos nuotoliniu būdu organizuojamą posėdį paskelbiama Vyriausiosios rinkimų komisijos interneto svetainėje, o komisijos nariams pranešama elektroninių ryšių priemonėmis (elektroniniu paštu arba telefonu).
+
+3. Vyriausiosios rinkimų komisijos posėdis organizuojamas, komisijos nariai jame dalyvauja ir sprendimai svarstomais klausimais priimami nuotoliniu būdu realiuoju laiku Nacionalinio kibernetinio saugumo centro įvertintomis ir saugiomis pripažintomis telekonferencijų platformomis.
+
+4. Vyriausiosios rinkimų komisijos nariai savo komisijos nario teises ir pareigas privalo įgyvendinti asmeniškai.
+
+5. Turi būti užtikrintas nuotoliniu būdu organizuojamo Vyriausiosios rinkimų komisijos posėdžio vaizdo ir garso įrašo darymas ir jo išsaugojimas. Šis įrašas viešai paskelbiamas Vyriausiosios rinkimų komisijos interneto svetainėje.
+
+6. Vyriausiosios rinkimų komisijos posėdžiai nuotoliniu būdu organizuojami, komisijos nariai juose dalyvauja, komisijos nario tapatybė ir balsavimo rezultatai nustatomi, sprendimai svarstomais klausimais priimami, asmeniškas komisijos nario teisių ir pareigų įgyvendinimas užtikrinamas Vyriausiosios rinkimų komisijos reglamente nustatyta tvarka.
+
+7. Kitos šio įstatymo nuostatos, susijusios su procedūromis, taikomomis įprastam Vyriausiosios rinkimų komisijos posėdžiui, Vyriausiosios rinkimų komisijos posėdį organizuojant nuotoliniu būdu suprantamos ir taikomos mutatis mutandis atsižvelgiant į Vyriausiosios rinkimų komisijos posėdžio organizavimo nuotoliniu būdu specifiką.
+
+Papildyta straipsniu:
+Nr. XIV-146, 2020-12-23, paskelbta TAR 2020-12-30, i. k. 2020-29111
+ 
+
 12 straipsnis. Vyriausiosios rinkimų komisijos sprendimai ir jų priėmimo tvarka
 
 1. Įgyvendindama savo įgaliojimus, Vyriausioji rinkimų komisija leidžia aktus – sprendimus. Juos pasirašo komisijos pirmininkas.
@@ -753,4 +773,9 @@ Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 2, 3 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2856, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08720
 Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 3 ir 10 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-146, 2020-12-23, paskelbta TAR 2020-12-30, i. k. 2020-29111
+Lietuvos Respublikos vyriausiosios rinkimų komisijos įstatymo Nr. IX-985 papildymo 11-1 straipsniu įstatymas
 
