@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-01-19
+Suvestinė redakcija nuo 2021-01-20 iki 2021-06-14
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
- 
-TAR pastaba. Įstatymo Nr. XIV-131 nuostatos taikomos apskaičiuojant 2021 m. sausio mėnesio ir vėlesnių mėnesių subsidijos darbo užmokesčiui dydį ir darbo paieškos išmokos dydį. Subsidijos darbo užmokesčiui dydis už visą mėnesio darbo laiką negali būti mažesnis negu Lietuvos Respublikos Vyriausybės patvirtintas 2021 m. taikomas minimaliosios mėnesinės algos dydis.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-131, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28988
-Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 38, 41, 42 ir 48-1 straipsnių pakeitimo įstatymas
  
  
 
@@ -2183,7 +2178,10 @@ Nr. XIII-1342, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11437
 4. Pasiūlymus dėl šio straipsnio 1 dalies 3 ir 4 punktuose ir šio įstatymo 36 straipsnio 1 dalies 2 punkte nurodytų priemonių įgyvendinimo gali teikti darbdaviai:
 
 
-1) kuriems nėra iškelta bankroto byla, kurie nėra likviduojami, dėl kurių nėra priimtas kreditorių susirinkimo nutarimas bankroto procedūras vykdyti ne teismo tvarka;
+1) kuriems nėra iškelta bankroto byla, kurie nėra likviduojami, dėl kurių nėra priimtas kreditorių susirinkimo nutarimas bankroto procedūras vykdyti ne teismo tvarka, kuriems, vadovaujantis Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatymu, nėra pritaikytos tarptautinės finansinės sankcijos (toliau – tarptautinės finansinės sankcijos);
+Straipsnio punkto pakeitimai:
+Nr. XIV-172, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00841
+ 
 
 
 
@@ -2921,7 +2919,15 @@ Nr. XIII-2882, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10371
 
 
 
-7) įregistravus likviduojamos įmonės statusą Juridinių asmenų registre. 
+7) įregistravus likviduojamos įmonės statusą Juridinių asmenų registre; 
+
+
+
+
+8) kai darbdaviui pritaikytos tarptautinės finansinės sankcijos. 
+Papildyta straipsnio punktu:
+Nr. XIV-172, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00841
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -2962,9 +2968,17 @@ Nr. XIV-131, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28988
 
 
 
-5) pasibaigus darbo sutarčiai su darbuotoju, už kurį mokama subsidija darbo užmokesčiui. 
+5) pasibaigus darbo sutarčiai su darbuotoju, už kurį mokama subsidija darbo užmokesčiui; 
 Papildyta straipsnio punktu:
 Nr. XIV-131, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28988
+ 
+
+
+
+
+6) kai darbdaviui pritaikytos tarptautinės finansinės sankcijos.
+Papildyta straipsnio punktu:
+Nr. XIV-172, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00841
  
 
 
@@ -4407,3 +4421,8 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 5-1 ir 25 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-131, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28988
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 38, 41, 42 ir 48-1 straipsnių pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-172, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00841
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 35 ir 41 straipsnių pakeitimo įstatymas
