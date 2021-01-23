@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-01-22
+Suvestinė redakcija nuo 2021-01-23 iki 2021-02-28
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -259,9 +259,11 @@ Nr. XIII-953, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21664
 
 
 
-21) Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiai ir jų šeimos nariai, kurie iki šios valstybės išstojimo iš Europos Sąjungos dienos buvo įgiję teisę gyventi Lietuvos Respublikoje ir teisėtai gyvena Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“; 
+21) Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės piliečiai ir jų šeimos nariai, kurie iki pereinamojo laikotarpio, nustatyto 2020 m. sausio 24 d. Briuselyje ir Londone pasirašyto Susitarimo dėl Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos ir Europos atominės energijos bendrijos 126 straipsnyje (toliau – pereinamasis laikotarpis), pabaigos buvo įgiję teisę gyventi Lietuvos Respublikoje ir teisėtai gyvena Lietuvos Respublikoje. Šeimos nariai suprantami taip, kaip jie apibrėžti Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“; 
 Papildyta straipsnio punktu:
 Nr. XIII-2051, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06686
+Straipsnio punkto pakeitimai:
+Nr. XIV-166, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01179
  
 
 
@@ -365,11 +367,11 @@ Nr. XIII-1341, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10979
 
 
 
-7) Lietuvos Respublikos aukštųjų mokyklų studentai, studijuojantys pagal nuolatinės studijų formos studijų programas, Lietuvos Respublikos piliečiai ir kitų valstybių piliečiai bei asmenys be pilietybės, nuolat gyvenantys Lietuvos Respublikoje, studijuojantys Europos Sąjungos valstybių narių (taip pat Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, jeigu studijos buvo pradėtos iki šios valstybės išstojimo iš Europos Sąjungos dienos) aukštosiose mokyklose pagal nuolatinės studijų formos studijų programas, mokiniai, kurie mokosi Lietuvos Respublikos mokyklose pagal bendrojo ugdymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu;
-7 punkto redakcija, įsigaliojanti 2023-09-01:
-7) Lietuvos Respublikos aukštųjų mokyklų studentai, studijuojantys pagal nuolatinės studijų formos studijų programas, Lietuvos Respublikos piliečiai ir kitų valstybių piliečiai bei asmenys be pilietybės, nuolat gyvenantys Lietuvos Respublikoje, studijuojantys Europos Sąjungos valstybių narių aukštosiose mokyklose pagal nuolatinės studijų formos studijų programas, mokiniai, kurie mokosi Lietuvos Respublikos mokyklose pagal bendrojo ugdymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu;
+7) Lietuvos Respublikos aukštųjų mokyklų studentai, studijuojantys pagal nuolatinės studijų formos studijų programas, asmenys, studijuojantys Europos Sąjungos valstybių narių (taip pat Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, jeigu studijos buvo pradėtos iki pereinamojo laikotarpio pabaigos) aukštosiose mokyklose pagal nuolatinės studijų formos studijų programas, mokiniai (įskaitant pilnamečius asmenis), kurie mokosi Lietuvos Respublikos ir  Europos Sąjungos valstybių narių (taip pat ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės, jeigu mokymasis buvo pradėtas iki pereinamojo laikotarpio pabaigos) mokyklose pagal bendrojo ugdymo programas (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) ir (ar) formaliojo profesinio mokymo programas; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2051, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06686
+Nr. XIV-167, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01180
+Nr. XIV-166, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01179
  
 
 
@@ -2873,7 +2875,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS 
+RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS 
 
  
  
@@ -3403,3 +3405,13 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 15, 27, 28, 30, 31,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3012, 2020-06-04, paskelbta TAR 2020-06-15, i. k. 2020-13047
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 18 straipsnio pakeitimo įstatymas
+ 
+31.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-167, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01180
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeitimo įstatymo Nr. XIII-2051 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+32.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-166, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01179
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeitimo įstatymas
