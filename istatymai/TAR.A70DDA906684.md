@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a70dda90668411e9917e8e4938a80ccb"
 
 # Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2021-01-23
+ 
+Įstatymas paskelbtas: TAR 2019-04-24, i. k. 2019-06686
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 SVEIKATOS DRAUDIMO ĮSTATYMO NR. I-1343 6 STRAIPSNIO PAKEITIMO
 ĮSTATYMAS
@@ -56,17 +63,10 @@ Vilnius
 
 
 
-3. Pakeisti 6 straipsnio 4 dalies 7 punktą ir jį išdėstyti taip:
-
-
-
-
-„7) Lietuvos Respublikos aukštųjų mokyklų studentai, studijuojantys pagal nuolatinės studijų formos studijų programas, Lietuvos Respublikos piliečiai ir kitų valstybių piliečiai bei asmenys be pilietybės, nuolat gyvenantys Lietuvos Respublikoje, studijuojantys Europos Sąjungos valstybių narių aukštosiose mokyklose pagal nuolatinės studijų formos studijų programas, mokiniai, kurie mokosi Lietuvos Respublikos mokyklose pagal bendrojo ugdymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu (išskyrus pilnamečius asmenis, kurie mokosi pagal suaugusiųjų pradinio, pagrindinio, vidurinio ugdymo programas) ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu, pagal formaliojo profesinio mokymo programas grupinio mokymosi forma kasdieniu mokymo proceso organizavimo būdu ir pavienio mokymosi forma savarankišku mokymo proceso organizavimo būdu;“. 
+3. Neteko galios nuo 2021-01-23
+Straipsnio dalies naikinimas:
+Nr. XIV-167, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01180
  
-
-
-
-
 
 
 
@@ -76,20 +76,17 @@ Vilnius
 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 
-1. Šis įstatymas, išskyrus 1 straipsnio 3 dalį ir šio straipsnio 3 dalį, įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną. 
+1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
 
 
 
 
-2. Šio įstatymo 1 straipsnio 3 dalis įsigalioja 2023 m. rugsėjo 1 d.
+2. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus.
 
 
-
-
-3. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus.
+Straipsnio pakeitimai:
+Nr. XIV-167, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01180
  
-
-
 
 
 
@@ -99,3 +96,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-167, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01180
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeitimo įstatymo Nr. XIII-2051 1 ir 2 straipsnių pakeitimo įstatymas
