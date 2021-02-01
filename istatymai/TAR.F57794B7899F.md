@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2021-01-31
+Suvestinė redakcija nuo 2021-02-01 iki 2021-04-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -5496,7 +5496,10 @@ Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
 
 
 
-7) elektros tinklų plėtros sąnaudų įvertinimo;
+7) elektros tinklų plėtros sąnaudų įvertinimo, finansinio ir ekonominio atsipirkimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
+ 
 
 
 
@@ -5526,7 +5529,10 @@ Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
 7. Kai vartotojo ar gamintojo elektros įrenginiai prijungiami prie skirstomųjų tinklų, sąnaudos paskirstomos tokia tvarka:
 
 
-1) buitiniai vartotojai, įskaitant ir pažeidžiamus vartotojus, apmoka 20 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį;
+1) pažeidžiami vartotojai apmoka 20 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą Tarybos patvirtintą įkainį; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
+ 
 
 
 
@@ -5539,12 +5545,18 @@ Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
 
 
 
-3) vartotojai, kurių prijungiamų elektros įrenginių leistinoji naudoti galia ar didinama elektros įrenginių leistinoji naudoti galia yra didesnė kaip 250 kW ir kurių elektros įrenginiams prijungti prie elektros tinklų reikia įrengti transformatorių pastotes, transformatorines, skirstomuosius punktus, ir kurie pageidauja Energetikos ministerijos nustatyta tvarka, suderinę su skirstomųjų tinklų operatoriumi, įrengti šiuos elektros tinklus ir organizuoti jų įrengimo darbus, apmoka 100 procentų šių skirstomųjų tinklų įrengimo sąnaudų. Atlikti skirstomųjų tinklų įrengimo darbai laikomi vartotojų elektros įrenginių prijungimo prie skirstomųjų tinklų paslaugos dalimi ir šie vartotojų lėšomis vartotojų įrengti skirstomieji tinklai yra skirstomųjų tinklų operatoriaus nuosavybė. Prie šių skirstomųjų tinklų prijungiant kitų vartotojų įrenginius, už jų įrengimą ir (ar) naudojimą šių skirstomųjų tinklų įrengimą atlikusiems vartotojams neatlyginama;
+3) vartotojai, kurių prijungiamų elektros įrenginių leistinoji naudoti galia ar didinama elektros įrenginių leistinoji naudoti galia yra didesnė kaip 250 kW, ir gamintojai, kurių elektros įrenginiams prijungti prie elektros tinklų reikia įrengti transformatorių pastotes, transformatorines, skirstomuosius punktus, taip pat statytojai (užsakovai) šio straipsnio 72 dalyje nurodytais atvejais, kurie pageidauja Energetikos ministerijos nustatyta tvarka, suderinę su skirstomųjų tinklų operatoriumi, įrengti šiuos elektros tinklus ir organizuoti jų įrengimo darbus, apmoka 100 procentų šių skirstomųjų tinklų įrengimo sąnaudų. Atlikti skirstomųjų tinklų įrengimo darbai laikomi prijungimo prie skirstomųjų tinklų paslaugos dalimi ir vadovaujantis šia nuostata įrengti skirstomieji tinklai yra skirstomųjų tinklų operatoriaus nuosavybė. Prie šių skirstomųjų tinklų prijungiant kitų vartotojų ir gamintojų įrenginius, už jų įrengimą ir (ar) naudojimą šių skirstomųjų tinklų įrengimą atlikusiems vartotojams ir gamintojams neatlyginama; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
+ 
 
 
 
 
-4) kiti vartotojai, išskyrus šios dalies 1, 2 ir 3 punktuose nurodytus vartotojus, apmoka 40 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį;
+4) kiti vartotojai, išskyrus šios dalies 1, 2 ir 3 punktuose nurodytus vartotojus, apmoka 50 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį, išskyrus atvejus, kai kituose įstatymuose nustatyta kitaip; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
+ 
 
 
 
@@ -5569,17 +5581,62 @@ Nr. XIII-2201, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09724
 
 
 
+72. Tais atvejais, kai statytojo (užsakovo) prašymu skirstomieji tinklai įrengiami nenumačius vartotojų (parengiant teritorijos infrastruktūrą būsimai plėtrai), statytojas (užsakovas) apmoka 100 procentų skirstomųjų tinklų įrengimo sąnaudų. Jeigu per vienerius metus prie šių skirstomųjų tinklų prijungiami elektros įrenginiai, kurių galia atitinka įrengtų skirstomųjų tinklų galią, skirstomųjų tinklų operatorius Energetikos ministerijos nustatyta tvarka ir sąlygomis kompensuoja 50 procentų skirstomųjų tinklų įrengimo sąnaudų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
+ 
+
+
+
+
+73. Tais atvejais, kai šio straipsnio 7 dalies 1, 2, 4 punktuose nurodytų vartotojų elektros įrenginiams prijungti prie elektros tinklų reikia įrengti skirstomuosius tinklus pagal kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektą ir prijungimo paslaugos kaina nėra apskaičiuojama vadovaujantis Tarybos patvirtintais įkainiais ir kai skirstomųjų tinklų įrengimo darbų sąnaudos yra ne mažiau kaip 10 procentų mažesnės, negu apskaičiuotos skirstomųjų tinklų operatoriaus, šie vartotojai turi teisę Energetikos ministerijos nustatyta tvarka, suderinę su skirstomųjų tinklų operatoriumi, įrengti šiuos skirstomuosius elektros tinklus ir (ar) organizuoti jų įrengimo darbus. Skirstomųjų tinklų operatorius Energetikos ministerijos nustatyta tvarka padengia:
+
+
+1) šio straipsnio 7 dalies 1 punkte nurodytu atveju – 80 procentų skirstomųjų tinklų įrengimo darbų sąnaudų;
+
+
+
+
+2) šio straipsnio 7 dalies 2 punkte nurodytu atveju – 90 procentų skirstomųjų tinklų įrengimo darbų sąnaudų;
+
+
+
+
+3) šio straipsnio 7 dalies 4 punkte nurodytu atveju – 50 procentų skirstomųjų tinklų įrengimo darbų sąnaudų. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
+ 
+
+
+
+
+74. Vadovaujantis šio straipsnio 73 dalimi atlikti skirstomųjų tinklų įrengimo darbai laikomi vartotojų elektros įrenginių prijungimo prie skirstomųjų tinklų paslaugos dalimi ir šie vartotojų lėšomis įrengti skirstomieji tinklai yra skirstomųjų tinklų operatoriaus nuosavybė. Prie šių skirstomųjų tinklų prijungiant kitų vartotojų įrenginius, už jų įrengimą ir (ar) naudojimą šių skirstomųjų tinklų įrengimą atlikusiems vartotojams neatlyginama. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
+ 
+
+
+
+
 8. Vartotojai, kurių prijungiamų elektros įrenginių leistinoji naudoti galia ar didinama elektros įrenginių leistinoji naudoti galia yra ne mažesnė kaip 10 MW ir kurių elektros įrenginiams prijungti prie elektros tinklo reikia pastatyti naujus elektros perdavimo tinklus, ir kurie pageidauja Energetikos ministerijos nustatyta tvarka, suderinę su perdavimo sistemos operatoriumi, pastatyti šiuos elektros tinklus ir organizuoti jų statybos darbus, apmoka 100 procentų perdavimo tinklų statybos sąnaudų. Atlikti perdavimo tinklo statybos darbai laikomi vartotojo elektros įrenginių prijungimo prie perdavimo tinklo paslaugos dalimi ir šie vartotojų lėšomis vartotojų pastatyti perdavimo tinklai yra perdavimo sistemos operatoriaus nuosavybė. Prie šių perdavimo tinklų prijungiant kitų vartotojų įrenginius, už jų statybą ir (ar) naudojimą šiuos perdavimo tinklus pastačiusiems vartotojams neatlyginama.
 
 
 
 
-9. Skirstomųjų tinklų operatoriaus sąnaudos, nurodytos šio straipsnio 7 dalyje, apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo ar gamintojo elektros įrenginių prijungimu prie skirstomųjų tinklų. Tokias perdavimo sistemos operatoriaus sąnaudas vartotojas ir gamintojas, taikant šio straipsnio 7 dalyje nustatytą sąnaudų paskirstymo tvarką, apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriui 100 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gamintojo elektros įrenginius, arba 10 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo, nurodyto šio straipsnio 7 dalies 2 punkte, elektros įrenginius, arba 40 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo, nurodyto šio straipsnio 7 dalies 4 punkte, elektros įrenginius. Likusi nepadengta perdavimo sistemos operatoriaus sąnaudų dalis laikoma perdavimo sistemos operatoriaus tinklų plėtros išlaidomis.
+9. Skirstomųjų tinklų operatoriaus sąnaudos, nurodytos šio straipsnio 7 dalyje, apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo ar gamintojo elektros įrenginių prijungimu prie skirstomųjų tinklų, o nurodytos šio straipsnio 72 dalyje, – perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su skirstomųjų tinklų įrengimu statytojo (užsakovo) prašymu nenumačius vartotojų (parengiant teritorijos infrastruktūrą būsimai plėtrai). Šio straipsnio 7 dalyje nurodytais atvejais tokias perdavimo sistemos operatoriaus sąnaudas vartotojas ir gamintojas, taikant šio straipsnio 7 dalyje nustatytą sąnaudų paskirstymo tvarką, apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriui 100 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gamintojo elektros įrenginius, arba 10 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo, nurodyto šio straipsnio 7 dalies 2 punkte, elektros įrenginius, arba 50 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo, nurodyto šio straipsnio 7 dalies 4 punkte, elektros įrenginius. Šio straipsnio 72 dalyje nurodytu atveju skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriui 100 procentų visų perdavimo sistemos operatoriaus sąnaudų. Likusi nepadengta perdavimo sistemos operatoriaus sąnaudų dalis laikoma perdavimo sistemos operatoriaus tinklų plėtros išlaidomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
+ 
 
 
 
 
-10. Tuo atveju, kai buitinis vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant šio straipsnio 7 dalies 1 punkte nurodytą sąnaudų paskirstymo tvarką, ne vėliau kaip per 12 mėnesių nuo elektros įrenginių prijungimo momento pradeda vartoti šiais įrenginiais patiektą elektros energiją savo ar kitų asmenų ūkinės komercinės ar profesinės veiklos reikmėms tenkinti, toks vartotojas nėra laikomas buitiniu vartotoju ir, gavęs atitinkamą skirstomųjų tinklų operatoriaus reikalavimą, privalo apmokėti likusią sąnaudų dalį, apskaičiuojamą šio straipsnio 7 dalies 4 punkte nustatyta tvarka.
+10. Neteko galios nuo 2021-02-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
+ 
 
 
 
@@ -7098,6 +7155,29 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 8. Jeigu nustačius žemės servitutus naujiems perdavimo ar skirstomiesiems tinklams tiesti ar kitiems elektros įrenginiams įrengti iš esmės apribojamas naudojimasis žemės sklypu ir šį apribojimą patvirtina Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka sudaryta komisija, perdavimo sistemos operatorius ar skirstomųjų tinklų operatorius žemės sklypo savininko reikalavimu privalo įstatymų nustatyta tvarka išpirkti tokį žemės sklypą kartu su jame esančiu nekilnojamuoju turtu.
+
+
+
+
+9. Asmuo, pageidaujantis rekonstruoti ar perkelti skirstomuosius tinklus, kliudančius statinių statybai ar dėl kitų priežasčių, turi teisę Energetikos ministerijos nustatyta tvarka, suderinęs su skirstomųjų tinklų operatoriumi, rekonstruoti ar perkelti šiuos elektros tinklus ir organizuoti jų rekonstravimo ar perkėlimo darbus. Šiuo atveju asmuo, kuris pageidauja rekonstruoti ar perkelti skirstomuosius tinklus, apmoka 100 procentų skirstomųjų tinklų rekonstravimo ar perkėlimo sąnaudų, išskyrus šio straipsnio 11 dalyje nurodytus atvejus. Rekonstruotų ar perkeltų skirstomųjų tinklų nuosavybė nekeičiama. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
+ 
+
+
+
+
+10. Tuo atveju, kai asmuo pageidauja rekonstruoti ar perkelti skirstomųjų tinklų operatoriui priklausančias anksčiau kaip prieš 20 metų įrengtas 0,4–10 kV įtampos elektros oro linijas ir (ar) oro kabelių linijas, išskyrus transformatorių pastotes, transformatorines, skirstomuosius punktus, kliudančias statinių statybai ar dėl kitų priežasčių, šis asmuo apmoka skirstomųjų tinklų operatoriui 50 procentų visų operatoriaus išlaidų, patirtų rekonstruojant ar perkeliant šiuos objektus. Rekonstruotų ar perkeltų skirstomųjų tinklų nuosavybė nekeičiama. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
+ 
+
+
+
+
+11. Tuo atveju, kai asmuo pageidauja rekonstruoti ar perkelti skirstomųjų tinklų operatoriui priklausančias anksčiau kaip prieš 20 metų įrengtas 0,4–10 kV įtampos elektros oro linijas ir (ar) oro kabelių linijas, išskyrus transformatorių pastotes, transformatorines, skirstomuosius punktus, šių objektų rekonstravimo ar perkėlimo darbams rengiamas kilnojamųjų elektros energetikos objektų ir įrenginių įrengimo projektas ir tokių darbų sąnaudos yra ne mažiau kaip 10 procentų mažesnės, negu apskaičiuotos skirstomųjų tinklų operatoriaus, asmuo turi teisę vykdyti ir (ar) organizuoti šių objektų rekonstravimą ar perkėlimą Energetikos ministerijos nustatyta tvarka, suderinęs su skirstomųjų tinklų operatoriumi. Šiuo atveju skirstomųjų tinklų operatorius Energetikos ministerijos nustatyta tvarka padengia 50 procentų skirstomųjų tinklų rekonstravimo ar perkėlimo sąnaudų. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
  
 
 
