@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2020-01-17 iki 2021-01-31
+Suvestinė redakcija nuo 2021-02-01 iki 2021-04-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -96,648 +96,404 @@ BENDROSIOS NUOSTATOS
 
 
 
-8. Asmens sveikatos informacija – Lietuvos Respublikos teisės aktų nustatyta informacija apie fizinio asmens sveikatą.
+8. Asmuo – fizinis arba juridinis asmuo, įsisteigęs Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje. 
 
 
 
 
-9. Asmuo – fizinis arba juridinis asmuo ir įmonių, įsisteigusių Europos Sąjungos valstybėse narėse ir Europos ekonominės erdvės valstybėse, filialai Lietuvos Respublikoje.
+9. Audiovizualinė politika – audiovizualinio sektoriaus strategijos, valstybinio valdymo principų ir plėtros krypčių, tikslų bei uždavinių nustatymas ir įgyvendinimas, Lietuvos Respublikos įstatymų ir kitų teisės aktų, reglamentuojančių audiovizualinio sektoriaus veiklą, rengimas ir derinimas su tarptautiniais reikalavimais, taip pat jų įgyvendinimas.
 
 
 
 
-10. Audiovizualinė politika – audiovizualinio sektoriaus strategijos, valstybinio valdymo principų ir plėtros krypčių, tikslų bei uždavinių nustatymas ir įgyvendinimas, Lietuvos Respublikos įstatymų ir kitų teisės aktų, reglamentuojančių audiovizualinio sektoriaus veiklą, rengimas ir derinimas su tarptautiniais reikalavimais, taip pat jų įgyvendinimas.
+10. Audiovizualinės žiniasklaidos paslauga – televizijos programų transliavimas, užsakomoji audiovizualinės žiniasklaidos paslauga, komercinių audiovizualinių pranešimų skelbimo paslauga, kai tokių paslaugų ar nuo jų atsiejamos dalies pagrindinis tikslas elektroninių ryšių tinklais visuomenei teikti (perduoti) programas informavimo, pramogų ar švietimo tikslais ir už kurias redakcinė atsakomybė tenka šių paslaugų teikėjui, vykdančiam ūkinę komercinę veiklą.
 
 
 
 
-11. Audiovizualinis kūrinys – kinematografinis ar kitas kinematografinėmis priemonėmis išreikštas kūrinys, sudarytas iš tarpusavyje susijusių vaizdų, perteikiančių judesį su garsu arba be jo, įrašytas (užfiksuotas) materialioje vaizdo įrašymo laikmenoje. 
+11. Audiovizualinės žiniasklaidos paslaugos teikėjas – asmuo, kuris teikia audiovizualinės žiniasklaidos paslaugą, sprendžia, kokia tvarka pateikiamas jos turinys, ir kuriam tenka redakcinė atsakomybė už šios paslaugos turinio parinkimą.
 
 
 
 
-12. Bendrasis radijo ir (ar) televizijos programų priėmimo tinklas – vietinis elektroninių ryšių tinklas, skirtas radijo ir (ar) televizijos programoms priimti ir siųsti skirstymo linijomis į galinius įrenginius.
+12. Audiovizualinis kūrinys – kinematografinis ar kitas kinematografinėmis priemonėmis išreikštas kūrinys, sudarytas iš tarpusavyje susijusių vaizdų, perteikiančių judesį su garsu arba be jo, įrašytas (užfiksuotas) materialioje vaizdo įrašymo laikmenoje.
 
 
 
 
-13. Dezinformacija – tyčia viešai paskleista melaginga informacija. 
+13. Dalijimosi vaizdo medžiaga platformos paslauga – paslauga, kurios visos arba nuo jos atsiejamos dalies pagrindinis tikslas arba viena iš esminių funkcijų yra informavimo, pramogų ar švietimo tikslais elektroninių ryšių tinklais teikti programas ir (ar) naudotojų sukurtus vaizdo įrašus visuomenei ir kurios organizavimą, neprisiimdamas redakcinės atsakomybės, nustato jos teikėjas, be kita ko, automatinėmis ar kitomis priemonėmis arba algoritmais įdiegdamas, rodydamas žymas ir nustatydamas seką.
 
 
 
 
-14. Erotinio pobūdžio informacija – informacija, kuria skatinamas lytinis geismas, rodomas tikras ar suvaidintas lytinis aktas ar kitoks seksualinis pasitenkinimas arba sekso reikmenys. 
+14. Dalijimosi vaizdo medžiaga platformos paslaugos teikėjas – asmuo, teikiantis dalijimosi vaizdo medžiaga platformos paslaugą.
 
 
 
 
-15. Galinis įrenginys – televizorius, radijo imtuvas, kitas transliuojamų ir (ar) retransliuojamų radijo ir (ar) televizijos programų ar kitokio pobūdžio transliuojamos informacijos priėmimo įrenginys. 
+15. Dezinformacija – tyčia viešai paskleista melaginga informacija.
 
 
 
 
-16. Informacinės visuomenės informavimo priemonės – visuomenės informavimo priemonės, kuriomis teikiant informacinės visuomenės paslaugas skleidžiama viešoji informacija. 
+16. Erotinio pobūdžio informacija – informacija, kuria skatinamas lytinis geismas, rodomas tikras ar suvaidintas lytinis aktas ar kitoks seksualinis pasitenkinimas arba sekso reikmenys.
 
 
 
 
-17. Informacinės visuomenės informavimo priemonės valdytojas – asmuo, faktiškai valdantis informacinės visuomenės informavimo priemonę, kurioje rengiama ir (ar) skleidžiama viešoji informacija, arba rengiantis ir (ar) skleidžiantis tokios priemonės turinį. 
+17. Informacinės visuomenės informavimo priemonės – visuomenės informavimo priemonės, kuriomis teikiant informacinės visuomenės paslaugas skleidžiama viešoji informacija.
 
 
 
 
-18. Informacinės visuomenės paslauga – paprastai už atlyginimą elektroninėmis priemonėmis ir per atstumą individualiu informacinės visuomenės paslaugos gavėjo prašymu teikiama paslauga. 
+18. Informacinės visuomenės informavimo priemonės valdytojas – asmuo, faktiškai valdantis informacinės visuomenės informavimo priemonę, kurioje rengiama ir (ar) skleidžiama viešoji informacija, arba rengiantis ir (ar) skleidžiantis tokios priemonės turinį.
 
 
 
 
-19. Informacinės visuomenės paslaugos gavėjas (toliau – paslaugos gavėjas) – asmuo, įskaitant užsienio juridinio asmens atstovybę ar filialą, kuris naudojasi informacinės visuomenės paslauga.
+19. Kabelinė televizija – televizijos programų transliavimas ir (ar) retransliavimas per infrastruktūrą, kurios didžioji dalis yra laidinė ir naudojama televizijos programoms transliuoti ir (ar) retransliuoti į galinius įrenginius.
 
 
 
 
-20. Informacinės visuomenės paslaugos teikėjas (toliau – paslaugos teikėjas) – informacinės visuomenės paslaugą teikiantis asmuo, įskaitant užsienio juridinio asmens atstovybę ar filialą.
+20. Kabelinės televizijos tinklas – suprantamas taip, kaip jis apibrėžtas Lietuvos Respublikos elektroninių ryšių įstatyme.
 
 
 
 
-21. Informacinės visuomenės paslaugų tarpinis teikėjas – informacinės visuomenės paslaugų teikėjas, perduodantis paslaugos gavėjo pateiktą informaciją elektroninių ryšių tinklu, suteikiantis galimybę naudotis elektroninių ryšių tinklu arba saugantis paslaugos gavėjo pateiktą informaciją.
+21. Komercinis audiovizualinis pranešimas – vaizdais, su garsu arba be jo skleidžiama informacija, kuri yra skirta prekėms, paslaugoms ar ūkinę komercinę veiklą vykdančio asmens įvaizdžiui (pavadinimui, logotipui ar kitam įvaizdžio ženklui) reklamuoti tiesiogiai arba netiesiogiai ir kuri yra įtraukta į programą ar naudotojo sukurtą vaizdo įrašą arba skleidžiama kartu su jais už užmokestį arba kitokį atlygį arba savireklamos tikslais. Komerciniai audiovizualiniai pranešimai, be kita ko, apima televizijos reklamą, rėmimo pranešimus, teleparduotuvę ir prekių rodymą.
 
 
 
 
-22. Kabelinė televizija – televizijos programų transliavimas ir (ar) retransliavimas per kabelinės televizijos tinklą.
+22. Laikraštis – periodiškai leidžiamas ir platinamas informacinis leidinys.
 
 
 
 
-23. Kabelinės televizijos tinklas – infrastruktūra, kurios didžioji dalis yra laidinė ir naudojama televizijos programoms transliuoti ir (ar) retransliuoti į galinius įrenginius.
+23. Leidėjas – asmuo, kuris vykdo leidybinę veiklą.
 
 
 
 
-24. Kabelinis radijas – radijo programų transliavimas ir (ar) retransliavimas per kabelinį radijo tinklą.
+24. Leidinys – elektroninė arba spausdintinė laikmena, kurioje įrašyta viešoji informacija.
 
 
 
 
-25. Kabelinis radijo tinklas – infrastruktūra, kurios didžioji dalis yra laidinė ir naudojama radijo programoms transliuoti ir (ar) retransliuoti į galinius įrenginius.
+25. Mikrobangų daugiakanalė televizija (toliau – MDTV) – televizijos programų transliavimas ir (ar) retransliavimas per elektroninių ryšių tinklą, naudojamą televizijos programoms transliuoti, retransliuoti, priimti, jų kodavimo būdui ar elektromagnetinių virpesių parametrams pakeisti ir joms antžeminiais mikrobangų siųstuvais ir tų siųstuvų signalų priėmimo tinklais į galinius įrenginius perduoti.
 
 
 
 
-26. Katalogas – užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo sudarytas siūlomų programų sąrašas.
+26. Mikrobangų daugiakanalės televizijos tinklas (toliau – MDTV tinklas) – elektroninių ryšių tinklas, naudojamas televizijos programoms transliuoti, retransliuoti, priimti, jų kodavimo būdui ar elektromagnetinių virpesių parametrams pakeisti ir joms antžeminiais mikrobangų siųstuvais ir tų siųstuvų signalų priėmimo tinklais į galinius įrenginius perduoti.
 
 
 
 
-27. Komercinis audiovizualinis pranešimas – vaizdais, lydimais arba nelydimais garso, skleidžiama informacija, kuri yra skirta tiesiogiai arba netiesiogiai reklamuoti prekes, paslaugas ar ūkinę komercinę veiklą vykdančio asmens pavadinimą ir kuri yra įtraukta į televizijos programą už užmokestį arba kitokį atlygį ar savireklamos tikslais. Komerciniai audiovizualiniai pranešimai inter alia apima televizijos reklamą, pranešimus apie rėmimą, teleparduotuvių siūlymus ir prekių rodymą.
+27. Nacionalinis laikraštis – laikraštis, platinamas teritorijoje, kurioje gyvena daugiau kaip 60 procentų Lietuvos Respublikos gyventojų.
 
 
 
 
-28. Laikraštis – periodiškai leidžiamas ir platinamas informacinis leidinys.
+28. Nacionalinė radijo ir (ar) televizijos programa – radijo ir (ar) televizijos programa, kuri transliuojama antžeminiu radijo ir (ar) televizijos tinklu ir priimama teritorijoje, kurioje gyvena daugiau kaip 60 procentų Lietuvos Respublikos gyventojų.
 
 
 
 
-29. Leidėjas – asmuo, kuris vykdo leidybinę veiklą.
+29. Naudotojo sukurtas vaizdo įrašas – bet kokios trukmės judesį perteikiančių vaizdų su garsu ar be jo visuma, sudaranti atskirą dalijimosi vaizdo medžiaga platformos naudotojo sukurtą vienetą, jo paties arba kito naudotojo įkeltą į šią platformą.
 
 
 
 
-30. Leidinys – elektroninė arba spausdintinė laikmena, kurioje įrašyta viešoji informacija.
+30. Nepriklausomas kūrėjas – audiovizualinius kūrinius ar programas kuriantis ir laisvai juos parduodantis ar kitaip perleidžiantis viešai skleisti asmuo, kuris nėra audiovizualinės žiniasklaidos paslaugos teikėjo, radijo programų transliuotojo dalyvis, jo vadovas ar kitų organų narys ir nėra susijęs su audiovizualinės žiniasklaidos paslaugos teikėju, radijo programų transliuotoju darbo, tarnybos santykiais ar jungtine veikla.
 
 
 
 
-31. Mikrobangų daugiakanalė televizija (toliau – MDTV) – televizijos programų transliavimas ir (ar) retransliavimas per MDTV tinklą.
+31. Nuomonė – visuomenės informavimo priemonėse skelbiamas požiūris, nusimanymas, nuovoka, supratimas, mintys arba komentarai apie bendro pobūdžio idėjas, faktų ir duomenų, reiškinių ar įvykių vertinimai, išvados ar pastabos apie žinias, susijusias su tikrais įvykiais. Nuomonė gali remtis faktais, pagrįstais argumentais ir paprastai ji yra subjektyvi, todėl jai netaikomi tiesos ir tikslumo kriterijai, tačiau ji turi būti reiškiama sąžiningai ir etiškai, sąmoningai nenuslepiant ir neiškreipiant faktų ir duomenų.
 
 
 
 
-32. Mikrobangų daugiakanalės televizijos tinklas (toliau – MDTV tinklas) – elektroninių ryšių tinklas, naudojamas televizijos programoms transliuoti, retransliuoti, priimti, jų kodavimo būdui ar elektromagnetinių virpesių parametrams pakeisti ir joms antžeminiais mikrobangų siųstuvais ir tų siųstuvų signalų priėmimo tinklais į galinius įrenginius perduoti.
+32. Oficialūs valstybės ir savivaldybių institucijų ir įstaigų dokumentai – Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo 2 straipsnio 1 dalyje nurodytų subjektų sukurti, patvirtinti arba gauti su jų veikla susiję bet kokios formos tekstiniai, grafiniai, garsiniai ar kitokie dokumentai, įtraukti į šių institucijų, įmonių ir įstaigų dokumentų apskaitą.
 
 
 
 
-33. Nacionalinis laikraštis – laikraštis, platinamas teritorijoje, kurioje gyvena daugiau kaip 60 procentų Lietuvos Respublikos gyventojų. 
+33. Pagrindinis televizijos programų paketas – televizijos programų paketas, teikiamas visiems vartotojams už nustatytą mokestį.
 
 
 
 
-34. Nacionalinė radijo ir (ar) televizijos programa – radijo ir (ar) televizijos programa, kuri transliuojama antžeminiu radijo ir (ar) televizijos tinklu ir priimama teritorijoje, kurioje gyvena daugiau kaip 60 procentų Lietuvos Respublikos gyventojų.
+34. Paslėpta reklama – bet kokia forma ir bet kokiomis priemonėmis skleidžiama informacija apie gamintoją ar paslaugos teikėją, jo pavadinimą ar veiklą, prekių ar kitą įvaizdžio ženklą, pateikiama taip, kad vartotojas gali nesuprasti, kad tai reklama, arba gali suklysti dėl pateiktos reklamos tikrojo tikslo. Toks informacijos pateikimas visais atvejais laikomas paslėpta reklama, kai už ją užmokama ar kitaip atsilyginama.
 
 
 
 
-35. Nepriklausomas kūrėjas – asmuo, kuris nėra visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjo, radijo programų transliuotojo dalyvis, jo valdymo organų narys, taip pat asmuo, nesusijęs su visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėju, radijo programų transliuotoju darbo, tarnybos santykiais ar jungtine veikla, kuriantis audiovizualinius kūrinius ar programas ir laisvai juos parduodantis ar kitaip perleidžiantis viešai skleisti.
+35. Paslėptas komercinis audiovizualinis pranešimas – bet kokia forma ir bet kokiomis priemonėmis reklamos tikslais skleidžiama informacija apie prekių gamintojo ir (ar) paslaugos teikėjo pavadinimą ir (ar) veiklą, prekes, paslaugas arba prekių ar kitą įvaizdžio ženklą, pateikiama taip, kad vartotojas gali nesuprasti, kad tai komercinis audiovizualinis pranešimas. Toks informacijos pateikimas visais atvejais laikomas paslėptu komerciniu audiovizualiniu pranešimu, kai už jį užmokama ar kitaip atsilyginama.
 
 
 
 
-36. Nuomonė – visuomenės informavimo priemonėse skelbiamas požiūris, nusimanymas, nuovoka, supratimas, mintys arba komentarai apie bendro pobūdžio idėjas, faktų ir duomenų, reiškinių ar įvykių vertinimai, išvados ar pastabos apie žinias, susijusias su tikrais įvykiais. Nuomonė gali remtis faktais, pagrįstais argumentais ir paprastai ji yra subjektyvi, todėl jai netaikomi tiesos ir tikslumo kriterijai, tačiau ji turi būti reiškiama sąžiningai ir etiškai, sąmoningai nenuslepiant ir neiškreipiant faktų ir duomenų. 
+36. Pornografinio pobūdžio informacija – informacija, kai atvirai ir detaliai rodomas tikras ar suvaidintas lytinis aktas, lytiniai organai, tuštinimasis, masturbacija arba lytiniai iškrypimai (pedofilija, sadizmas, mazochizmas, zoofilija, nekrofilija ir kt.), ir tai yra pagrindinis tokios informacijos tikslas.
 
 
 
 
-37. Oficialūs valstybės ir savivaldybių institucijų bei įstaigų dokumentai – valstybės ir savivaldybių institucijų, įmonių ir įstaigų, valstybės įgaliotų asmenų vykdant norminių teisės aktų nustatytus įgaliojimus sukurti, patvirtinti arba gauti su jų veikla susiję rašytiniai, grafiniai, garsiniai, kompiuterinės informacijos ar kitokie dokumentai, įtraukti į šių institucijų, įmonių ir įstaigų dokumentų apskaitą. 
+37. Prekių rodymas – bet kokios formos komercinis audiovizualinis pranešimas, kuriame už užmokestį ar kitokį atlygį programoje ar naudotojo sukurtame vaizdo įraše aiškiai pateikiama informacija apie prekę, paslaugą ar prekių ženklą ir (ar) nuorodas į juos.
 
 
 
 
-38. Pagrindinis televizijos programų paketas – televizijos programų paketas, teikiamas visiems vartotojams už nustatytą mokestį. 
-Papildyta straipsnio dalimi:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+38. Privataus pobūdžio informacija – žmogaus teisės į privataus gyvenimo apsaugą užtikrinimo požiūriu neskelbtina informacija.
 
 
 
 
-39. Palydovinė televizija – televizijos programų transliavimas ir (ar) retransliavimas per dirbtinį Žemės palydovą (palydovus).
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+39. Privatus gyvenimas – asmeninis žmogaus, jo šeimos gyvenimas, gyvenamoji aplinka, kurią sudaro žmogaus gyvenamoji patalpa, jai priklausanti privati teritorija ir kitos privačios patalpos, kurias žmogus naudoja savo ūkinei, komercinei ar profesinei veiklai, laisvalaikiui, poilsiui, taip pat kitos žmogaus privataus gyvenimo sritys, kuriose jis pagrįstai gali tikėtis privatumo, žmogaus psichinė ir fizinė neliečiamybė, garbė ir reputacija, slapti asmeniniai faktai, žmogaus fotonuotraukos ar kiti atvaizdai, informacija apie žmogaus sveikatą, privatus susirašinėjimas ar kitoks ryšio palaikymas, žmogaus pažiūros, įsitikinimai, įpročiai ir kiti duomenys, kuriuos galima naudoti tik jam sutikus.
 
 
 
 
-40. Palydovinis radijas – radijo programų transliavimas ir (ar) retransliavimas per dirbtinį Žemės palydovą (palydovus).
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+40. Programa – savarankiškų savo turiniu ir struktūra garsų ir (arba) judančių vaizdų visuma, sudaranti atskirą paslaugų teikėjo nustatyto programų tvarkaraščio arba katalogo vienetą, nepriklausomai nuo jo trukmės (vaidybinis filmas, vaizdo klipas, sporto ar kitoks renginys, situacijų komedija, dokumentinis filmas, programa vaikams, originalus dramos kūrinys, anonsas, pokalbių programa, žinių programa ir kt.).
 
 
 
 
-41. Paslėpta reklama – bet kokia forma ir bet kokiomis priemonėmis skleidžiama informacija apie gamintoją ar paslaugos teikėją, jo pavadinimą ar veiklą, prekių ženklą, pateikiama taip, kad reklamos vartotojas gali nesuprasti, kad tai reklama, arba gali suklysti dėl pateiktos reklamos tikrojo tikslo. Toks informacijos pateikimas visais atvejais laikomas paslėpta reklama, kai už ją užmokama ar kitaip atsilyginama. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+41. Programa vaikams – programa, kurios tikslinė auditorija yra asmenys iki 18 metų. Programa, kurios tikslinė auditorija yra įvairaus amžiaus asmenys, nelaikoma programa vaikams.
 
 
 
 
-42. Paslėptas komercinis audiovizualinis pranešimas – bet kokia forma ir bet kokiomis priemonėmis reklamos tikslais skleidžiama informacija apie prekių gamintojo ir (ar) paslaugos teikėjo pavadinimą ir (ar) veiklą, prekes, paslaugas ar prekių ženklą, pateikiama taip, kad vartotojas gali nesuprasti, kad tai komercinis audiovizualinis pranešimas. Toks informacijos pateikimas yra laikomas paslėptu komerciniu audiovizualiniu pranešimu, ypač kai tai daroma už užmokestį ar kitokį atlygį. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+42. Programų katalogas (toliau – katalogas) – užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjo sudarytas siūlomų programų sąrašas.
 
 
 
 
-43. Pornografinio pobūdžio informacija – informacija, kai atvirai ir detaliai rodomas tikras ar suvaidintas lytinis aktas, lytiniai organai, tuštinimasis, masturbacija arba lytiniai iškrypimai (pedofilija, sadizmas, mazochizmas, zoofilija, nekrofilija ir kt.), ir tai yra pagrindinis tokios informacijos tikslas.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+43. Programų tvarkaraštis – numatomų transliuoti radijo programų ar televizijos programų išankstinis planas, paprastai skelbiamas visuomenės informavimo priemonėse, nurodant programų pavadinimus ir jų transliavimo laiką.
 
 
 
 
-44. Prekių rodymas – komerciniu audiovizualiniu pranešimu už užmokestį ar kitokį atlygį programoje aiškiai pateikiama informacija apie prekę, paslaugą ar prekių ženklą ir (ar) nuorodas į juos.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+44. Radijo dažnis (kanalas) – radijo bangų dažnių juosta, būtina bent vienai radijo ar televizijos programai perduoti.
 
 
 
 
-45. Privataus pobūdžio informacija – žmogaus teisės į privataus gyvenimo apsaugą užtikrinimo požiūriu neskelbtina informacija apie žmogaus asmeninį ir jo šeimos gyvenimą, jo sveikatą ir kt. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+45. Radijo programa – radijo transliuotojo transliuojamų programų, skleidžiamų visuomenei elektroninių ryšių tinklais, visuma. Radijo programą gali sudaryti ir viena (atskira) programa.
 
 
 
 
-46. Privatus gyvenimas – asmeninis žmogaus, jo šeimos gyvenimas, gyvenamoji aplinka, kurią sudaro fizinio asmens gyvenamoji patalpa, jai priklausanti privati teritorija ir kitos privačios patalpos, kurias fizinis asmuo naudoja savo ūkinei, komercinei ar profesinei veiklai, taip pat fizinio asmens psichinė ir fizinė neliečiamybė, garbė ir reputacija, slapti asmeniniai faktai, fizinio asmens fotonuotraukos ar kiti atvaizdai, informacija apie fizinio asmens sveikatą, privatus susirašinėjimas ar kitoks ryšio palaikymas, fizinio asmens pažiūros, įsitikinimai, įpročiai ir kiti duomenys, kuriuos galima naudoti tik jam sutikus.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+46. Radijo programų transliavimas – radijo programų transliuotojo teikiama visuomenės informavimo paslauga – radijo programų perdavimas pagal programų tvarkaraštį klausyti tuo pačiu metu.
 
 
 
 
-47. Programa – savarankiškų savo turiniu ir struktūra garsų arba vaizdų, perteikiančių judesį, lydimą arba nelydimą garso, visuma, paprastai sudaranti atskirą nustatyto programų tvarkaraščio arba katalogo vienetą ir atitinkanti radijo ir (ar) televizijos programų formą ir turinį (vaidybinis filmas, sporto ar kitoks renginys, situacijų komedija, dokumentinis filmas, programa vaikams, originalus dramos kūrinys, anonsas, komercinis audiovizualinis pranešimas, pokalbių programa, žinių programa ir kt.).
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+47. Radijo programų transliuotojas – radijo programų transliavimo paslaugų teikėjas, kuriam tenka redakcinė atsakomybė už radijo programų turinio parinkimą ir jo išdėstymą radijo programų tvarkaraštyje ir kuris kuria, rengia radijo programas ir (ar) atskiras programas ir jas perduoda visuomenei arba leidžia kitam asmeniui nepakeistas perduoti visuomenei.
 
 
 
 
-48. Programų tvarkaraštis – numatomų transliuoti radijo programų ar televizijos programų išankstinis planas, paprastai skelbiamas visuomenės informavimo priemonėse, nurodant programų pavadinimus ir jų transliavimo laiką.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+48. Radijo stotis – technikos kompleksas, kurį sudaro radijo siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas radijo programoms transliuoti, retransliuoti ar siųsti.
 
 
 
 
-49. Radijo dažnis (kanalas) – radijo bangų dažnių juosta, būtina bent vienai radijo ar televizijos programai perduoti.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+49. Redakcinė atsakomybė – viešosios informacijos rengėjui ir (ar) viešosios informacijos skleidėjui, išskyrus retransliuotoją ir dalijimosi vaizdo medžiaga platformos paslaugos teikėją, tenkanti atsakomybė už kontrolę rengiant viešąją informaciją visuomenei, ruošiant ją skleisti ir šią informaciją skleidžiant, taip pat atrenkant programas ir jas išdėstant chronologine tvarka programų tvarkaraštyje ir (ar) kataloge.
 
 
 
 
-50. Radijo programa – radijo transliuotojo transliuojamų programų, skleidžiamų visuomenei elektroninių ryšių tinklais, visuma.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+50. Redakcinis sprendimas – reguliariai priimamas sprendimas, kuriuo prisiimama redakcinė atsakomybė dėl kasdienės audiovizualinės žiniasklaidos paslaugų teikimo veiklos.
 
 
 
 
-51. Radijo programų transliavimas – visuomenės informavimo paslauga, kurią teikia radijo programų transliuotojas, skirta tuo pačiu metu klausyti programas pagal programų tvarkaraštį.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+51. Regioninis laikraštis – laikraštis, kurio ne mažiau kaip 90 procentų tiražo platinama vienos Lietuvos Respublikos apskrities teritorijoje.
 
 
 
 
-52. Radijo programų transliuotojas – radijo programų transliavimo paslaugų teikėjas, kuriam tenka redakcinė atsakomybė už radijo programų turinio parinkimą ir jo išdėstymą radijo programų tvarkaraštyje ir kuris kuria, rengia radijo programas ir (ar) atskiras programas ir jas perduoda visuomenei arba leidžia kitam asmeniui nepakeistas perduoti visuomenei.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+52. Regioninis programų transliuotojas – radijo ar televizijos programos transliuotojas, kurio antžeminiu televizijos, radijo tinklu transliuojama programa yra priimama teritorijoje, kurioje gyvena mažiau negu 60 procentų Lietuvos Respublikos gyventojų.
 
 
 
 
-53. Radijo stotis – technikos kompleksas, kurį sudaro radijo siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas radijo programoms transliuoti, retransliuoti ar siųsti.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+53. Reklama – bet kokia forma ir bet kokiomis priemonėmis reklamos užsakovo interesais arba savireklamos tikslais skleidžiama informacija, išskyrus televizijos reklamą, apie asmens ūkinę, komercinę, finansinę ar profesinę veiklą, skatinanti įsigyti prekių ar naudotis paslaugomis, įskaitant nekilnojamojo turto įsigijimą, turtinių teisių ir įsipareigojimų perėmimą.
 
 
 
 
-54. Redakcinė atsakomybė – viešosios informacijos rengėjui ir (ar) viešosios informacijos skleidėjui, išskyrus retransliuotoją, tenkanti atsakomybė už kontrolę, atliekamą rengiant viešąją informaciją visuomenei, ruošiant ją skleisti ir šią informaciją skleidžiant, taip pat atrenkant programas ir jas išdėstant chronologine tvarka programų tvarkaraštyje ir (ar) pateikiant programas kataloge. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+54. Rėmimas – pagalba, kurią asmuo, nedalyvaujantis transliuojant radijo programą ir (ar) teikiant audiovizualinės žiniasklaidos paslaugas, ir (ar) kuriant audiovizualinius ar garso kūrinius, teikia audiovizualinės žiniasklaidos paslaugoms ir (ar) programoms, radijo programoms, dalijimosi vaizdo medžiaga platformų paslaugoms ir (ar) programoms ar naudotojų sukurtiems vaizdo įrašams finansuoti, siekdamas skleisti informaciją apie savo pavadinimą, prekių ženklą, įvaizdį, veiklą, prekes ar paslaugas.
 
 
 
 
-55. Regioninis laikraštis – laikraštis, kurio ne mažiau kaip 90 procentų tiražo platinama vienos Lietuvos Respublikos apskrities teritorijoje.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+55. Retransliavimas – transliuojamų radijo ir (ar) televizijos programų ar atskirų programų parinkimas, teikimas skleisti ir skleidimas visuomenei, šiuo tikslu jas priimant ir tuo pačiu metu nepakeistas perduodant visuomenei elektroninių ryšių tinklais arba techninėmis ir (ar) programinėmis priemonėmis sudarant visuomenei galimybę priimti elektroninių ryšių tinklais perduodamas sąlygine prieiga apsaugotas radijo ir (ar) televizijos programas ar atskiras programas.
 
 
 
 
-56. Regioninis programų transliuotojas – radijo ar televizijos programos transliuotojas, kurio antžeminiu televizijos, radijo tinklu transliuojama programa yra priimama teritorijoje, kurioje gyvena mažiau negu 60 procentų Lietuvos Respublikos gyventojų.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+56. Retransliuojamo turinio licencija – Lietuvos radijo ir televizijos komisijos išduotas dokumentas, kuriuo suteikiama teisė jį turinčiam asmeniui verstis transliuojamų radijo ir (ar) televizijos programų ar atskirų programų parinkimu ir teikimu skleisti visuomenei radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais radijo dažniais (kanalais) nustatytoje teritorijoje ir kuriame nustatomos tokios veiklos sąlygos.
 
 
 
 
-57. Reklama – bet kokia forma ir bet kokiomis priemonėmis reklamos užsakovo interesais arba savireklamos tikslais skleidžiama informacija, išskyrus televizijos reklamą, apie asmens ūkinę, komercinę, finansinę ar profesinę veiklą, skatinanti įsigyti prekių ar naudotis paslaugomis, įskaitant nekilnojamojo turto įsigijimą, turtinių teisių ir įsipareigojimų perėmimą. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+57. Retransliuotojas – asmuo, kuris retransliuoja visuomenei nepakeistas transliuojamas radijo ir (ar) televizijos programas arba atskiras programas.
 
 
 
 
-58. Rėmimas – bet kokia pagalba, kurią asmuo, nedalyvaujantis transliuojant radijo programą ir (ar) teikiant visuomenės informavimo audiovizualinėmis priemonėmis paslaugas, ir (ar) kuriant audiovizualinius ar garso kūrinius, teikia visuomenės informavimo audiovizualinėmis priemonėmis paslaugoms ir (ar) programoms finansuoti, siekdamas skleisti informaciją apie savo pavadinimą, prekių ženklą, įvaizdį, veiklą arba prekes ar paslaugas.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+58. Siuntimas – su radijo ir (ar) televizijos programų transliavimu ir (ar) retransliavimu susijusi elektroninių ryšių veiklos sritis, apimanti radijo ir (ar) televizijos programos elektromagnetinių signalų perdavimą elektroninių ryšių tinklais į galinius įrenginius.
 
 
 
 
-59. Retransliavimas – transliuojamų radijo ir (ar) televizijos programų ar atskirų programų parinkimas, teikimas skleisti ir skleidimas visuomenei, šiuo tikslu jas priimant ir tuo pačiu metu nepakeistas perduodant visuomenei elektroninių ryšių tinklais arba techninėmis ir (ar) programinėmis priemonėmis sudarant visuomenei galimybę priimti elektroninių ryšių tinklais perduodamas sąlygine prieiga apsaugotas radijo ir (ar) televizijos programas ar atskiras programas. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+59. Siuntimo stotis – technikos kompleksas, kurį sudaro radijo ir (ar) televizijos siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas radijo ir (ar) televizijos programoms transliuoti, retransliuoti ar siųsti.
 
 
 
 
-60. Retransliuojamo turinio licencija – Lietuvos radijo ir televizijos komisijos išduotas dokumentas, kuriuo suteikiama teisė jį turinčiam asmeniui verstis transliuojamų radijo ir (ar) televizijos programų ar atskirų programų parinkimu ir teikimu skleisti visuomenei radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais radijo dažniais (kanalais) nustatytoje teritorijoje ir kuriame nustatomos tokios veiklos sąlygos. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+60. Smurtinio pobūdžio informacija – informacija, kai detaliai rodomas žmonių, gyvūnų žudymas, žalojimas, kankinimas ar kitoks prieš žmogų, bet kokią kitą gyvą būtybę nukreiptas elgesys, sukeliantis skausmą, diskomfortą arba darantis kitokią žalą (fizinę, psichologinę, materialinę), taip pat vandalizmas ir (ar) teigiamai vertinama, skatinama prievarta, žiaurumas ar mėgavimasis tuo.
 
 
 
 
-61. Retransliuotojas – asmuo, kuris retransliuoja visuomenei nepakeistas transliuojamas radijo ir (ar) televizijos programas arba atskiras programas. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+61. Teleparduotuvė – televizijos programų transliuotojo už užmokestį visuomenei transliuojami tiesioginiai siūlymai pirkti prekių ar naudotis paslaugomis, tarp jų ir siūlymai įsigyti nekilnojamojo turto, turtinių teisių ir įsipareigojimų.
 
 
 
 
-62. Siuntimas – su radijo ir (ar) televizijos programų transliavimu ir (ar) retransliavimu susijusi elektroninių ryšių veiklos sritis, apimanti radijo ir (ar) televizijos programos elektromagnetinių signalų perdavimą elektroninių ryšių tinklais į galinius įrenginius.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+62. Televitrina – teleparduotuvės intarpams skirta programa, transliuojama televizijos programose, kurios nėra skirtos tik teleparduotuvei.
 
 
 
 
-63. Siuntimo stotis – technikos kompleksas, kurį sudaro radijo ir (ar) televizijos siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas radijo ir (ar) televizijos programoms transliuoti, retransliuoti ar siųsti.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+63. Televizijos programa – televizijos programų transliuotojo elektroninių ryšių tinklais visuomenei transliuojamų programų visuma, skirta programoms žiūrėti pagal transliuotojo nustatytą programų tvarkaraštį tuo pačiu metu. Televizijos programą gali sudaryti ir viena (atskira) programa.
 
 
 
 
-64. Smurtinio pobūdžio informacija – informacija, kai detaliai rodomas žmonių, gyvūnų žudymas, žalojimas, kankinimas ar kitoks prieš žmogų, bet kokią kitą gyvą būtybę nukreiptas elgesys, sukeliantis skausmą, diskomfortą arba darantis kitokią žalą (fizinę, psichologinę, materialinę), taip pat vandalizmas ir (ar) teigiamai vertinama, skatinama prievarta, žiaurumas ar mėgavimasis tuo. 
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+64. Televizijos programų ir (ar) atskirų programų platinimo internete paslauga – transliuojamų televizijos programų ar atskirų programų parinkimas, teikimas skleisti ir tuo pačiu metu nepakeistų skleidimas visuomenei internete, įskaitant tokį skleidimą visuomenei naudojantis dalijimosi vaizdo medžiaga platformos paslauga bei apsaugotų televizijos programų ar atskirų programų skleidimą visuomenei internete naudojant sąlyginę prieigą.
 
 
 
 
-65. Už papildomą mokestį platinamas televizijos programų paketas – televizijos programų paketas, teikiamas vartotojams už mokestį, neįtrauktą į mokestį už pagrindinį televizijos programų paketą. Už papildomą mokestį platinamą televizijos programų paketą gali sudaryti ir viena atskira televizijos programa. 
-Papildyta straipsnio dalimi:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+65. Televizijos programų paketas – televizijos programų retransliuotojo ir (ar) kito asmens, teikiančio Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, sudaromas ir vartotojams siūlomas televizijos programų rinkinys.
 
 
 
 
-66. Teleparduotuvė – televizijos programų transliuotojo už užmokestį visuomenei transliuojami tiesioginiai siūlymai pirkti prekių ar naudotis paslaugomis, tarp jų ir siūlymai įsigyti nekilnojamojo turto, turtinių teisių ir įsipareigojimų.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+66. Televizijos programų transliavimas – audiovizualinės žiniasklaidos paslaugų teikėjo teikiama linijinė audiovizualinės žiniasklaidos paslauga – televizijos programų perdavimas žiūrėti pagal programų tvarkaraštį tuo pačiu metu.
 
 
 
 
-67. Televitrina – teleparduotuvės intarpams skirta programa, transliuojama televizijos programose, kurios nėra skirtos tik teleparduotuvei.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+67. Televizijos programų transliuotojas – televizijos programų transliavimo paslaugų teikėjas, kuris kuria, rengia televizijos programas ir (ar) atskiras programas ir jas perduoda visuomenei arba leidžia kitam asmeniui nepakeistas perduoti visuomenei ir kuriam tenka redakcinė atsakomybė už audiovizualinės žiniasklaidos paslaugos turinio parinkimą ir jo išdėstymą televizijos programų tvarkaraštyje.
 
 
 
 
-68. Televizijos programa – televizijos programų transliuotojo transliuojamų programų, skleidžiamų visuomenei elektroninių ryšių tinklais, visuma.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+68. Televizijos reklama – už užmokestį ar kitokį atlygį bet kokia forma audiovizualinės žiniasklaidos paslaugų teikėjo skelbiama informacija, kurią asmuo, vykdantis ūkinę komercinę ar profesinę veiklą, užsako skleisti ar skleidžia savireklamos tikslais ar siekdamas skatinti įsigyti prekių ar naudotis paslaugomis, įskaitant nekilnojamojo turto įsigijimą, turtinių teisių ir įsipareigojimų perėmimą.
 
 
 
 
-69. Televizijos programų ir (ar) atskirų programų platinimo internete paslauga – transliuojamų televizijos programų ar atskirų programų parinkimas, teikimas skleisti ir tuo pačiu metu nepakeistų skleidimas visuomenei internete, įskaitant apsaugotų televizijos programų ar atskirų programų skleidimą visuomenei internete naudojant sąlyginę prieigą. 
-Papildyta straipsnio dalimi:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Straipsnio dalies pakeitimai:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+69. Televizijos stotis – technikos kompleksas, kurį sudaro televizijos siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas televizijos programoms transliuoti, retransliuoti ar siųsti.
 
 
 
 
-70. Televizijos programų paketas – televizijos programų retransliuotojo ir (ar) kito asmens, teikiančio Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, sudaromas ir vartotojams siūlomas televizijos programų rinkinys. 
-Papildyta straipsnio dalimi:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+70. Teroristinius nusikaltimus skatinanti ar kurstanti informacija – informacija, kuria tiesiogiai arba netiesiogiai skatinama arba kurstoma daryti teroristinius nusikaltimus, įskaitant informaciją, kuria šlovinami arba pateisinami šie nusikaltimai, niekinamos jų aukos, skleidžiami jų vaizdai siekiant užsitikrinti paramą teroristiniam elgesiui arba stipriai įbauginti gyventojus.
 
 
 
 
-71. Televizijos programų transliavimas – visuomenės informavimo audiovizualinėmis priemonėmis paslauga, kurią teikia visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas, skirta programoms žiūrėti pagal programų tvarkaraštį jų transliavimo metu.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+71. Transliavimo licencija – Lietuvos radijo ir televizijos komisijos išduotas dokumentas, kuriuo suteikiama teisė jį turinčiam asmeniui verstis radijo ir (ar) televizijos programų transliavimo veikla nustatytoje teritorijoje ir kuriame nustatomos tokios transliavimo sąlygos.
 
 
 
 
-72. Televizijos programų transliuotojas – televizijos programų transliavimo paslaugų teikėjas, kuriam tenka redakcinė atsakomybė už visuomenės informavimo audiovizualinėmis priemonėmis paslaugos turinio parinkimą ir jo išdėstymą televizijos programų tvarkaraštyje ir kuris kuria, rengia televizijos programas ir (ar) atskiras programas ir jas perduoda visuomenei arba leidžia kitam asmeniui nepakeistas perduoti visuomenei.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+72. Už papildomą mokestį platinamas televizijos programų paketas – televizijos programų paketas, teikiamas vartotojams už mokestį, neįtrauktą į mokestį už pagrindinį televizijos programų paketą. Už papildomą mokestį platinamą televizijos programų paketą gali sudaryti ir viena atskira televizijos programa.
 
 
 
 
-73. Televizijos reklama – už užmokestį ar kitokį atlygį bet kokia forma visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo skelbiama informacija, kurią vykdantis ūkinę, komercinę ar profesinę veiklą asmuo užsako skleisti ar skleidžia savireklamos tikslais ar siekdamas reklamuoti prekes ar paslaugas, įskaitant nekilnojamąjį turtą, teises ir pareigas.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+73. Užsakomoji audiovizualinės žiniasklaidos paslauga – audiovizualinės žiniasklaidos paslaugų teikėjo teikiama nelinijinė audiovizualinės žiniasklaidos paslauga, skirta programoms žiūrėti vartotojo prašymu ir jo pasirinktu laiku pagal audiovizualinės žiniasklaidos paslaugų teikėjo siūlomą katalogą.
 
 
 
 
-74. Televizijos stotis – technikos kompleksas, kurį sudaro televizijos siųstuvai kartu su antenomis ir kitais techniniais įrenginiais, skirtas televizijos programoms transliuoti, retransliuoti ar siųsti.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
- 
+74. Viešasis asmuo – valstybės politikas, teisėjas, valstybės ar savivaldybės pareigūnas, politinės partijos ir (ar) asociacijos vadovas, kuris dėl einamų pareigų arba savo darbo pobūdžio nuolat dalyvauja valstybinėje ar visuomeninėje veikloje, arba kitas fizinis asmuo, jeigu jis turi viešojo administravimo įgaliojimus ar administruoja viešųjų paslaugų teikimą arba jeigu jo nuolatinė veikla turi reikšmės viešiesiems reikalams.
 
 
 
 
-75. Teroristinius nusikaltimus skatinanti ar kurstanti informacija – informacija, kuria tiesiogiai arba netiesiogiai skatinama arba kurstoma vykdyti teroristinius nusikaltimus, įskaitant informaciją, kuria šlovinami arba pateisinami šie nusikaltimai, niekinamos jų aukos, skleidžiami jų vaizdai siekiant užsitikrinti paramą teroristiniam elgesiui arba stipriai įbauginti gyventojus. 
-Papildyta straipsnio dalimi:
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
+75. Viešoji informacija – informacija, skirta viešai skleisti, išskyrus privataus pobūdžio informaciją, taip pat kitą informaciją, kuri pagal šį ir kitus Lietuvos Respublikos įstatymus negali būti viešai skleidžiama.
 
 
 
 
-76. Transliavimo licencija – Lietuvos radijo ir televizijos komisijos išduotas dokumentas, kuriuo suteikiama teisė jį turinčiam asmeniui verstis radijo ir (ar) televizijos programų transliavimo veikla nustatytoje teritorijoje ir kuriame nustatomos tokios transliavimo sąlygos. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
+76. Viešosios informacijos rengėjas – audiovizualinės žiniasklaidos paslaugos teikėjas, radijo programų transliuotojas, leidykla, kino, garso ar vaizdo studija, informacijos, reklamos ar viešųjų ryšių agentūra, redakcija, informacinės visuomenės informavimo priemonės valdytojas, nepriklausomas kūrėjas, žurnalistas ar kitas asmuo, rengiantys ar pateikiantys skleisti viešąją informaciją.
 
 
 
 
-77. Užsakomoji visuomenės informavimo audiovizualinėmis priemonėmis paslauga – visuomenės informavimo audiovizualinėmis priemonėmis paslauga, kurią teikia visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas, skirta programoms žiūrėti vartotojo pasirinktu laiku ir jo individualiu prašymu pagal visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo siūlomą katalogą.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
+77. Viešosios informacijos skleidėjas – audiovizualinės žiniasklaidos paslaugos teikėjas, retransliuotojas, asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, dalijimosi vaizdo medžiaga platformos paslaugos teikėjas, radijo programų transliuotojas, informacinės visuomenės informavimo priemonės valdytojas ar kitas asmuo, skleidžiantis viešąją informaciją visuomenei ir atsakantis už tos informacijos teisėtumą šio ir kitų įstatymų nustatyta tvarka.
 
 
 
 
-78. Viešasis asmuo – valstybės politikas, teisėjas, valstybės ar savivaldybės pareigūnas, politinės partijos ir (ar) asociacijos vadovas, kuris dėl einamų pareigų arba savo darbo pobūdžio nuolat dalyvauja valstybinėje ar visuomeninėje veikloje, arba kitas fizinis asmuo, jeigu jis turi viešojo administravimo įgaliojimus ar administruoja viešųjų paslaugų teikimą arba jeigu jo nuolatinė veikla turi reikšmės viešiesiems reikalams.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
+78. Vietinis laikraštis – laikraštis, kurio ne mažiau kaip 90 procentų tiražo platinama vienos savivaldybės teritorijoje.
 
 
 
 
-79. Viešoji informacija – informacija, skirta viešai skleisti, išskyrus šio straipsnio 42 dalyje nurodytą informaciją, taip pat informaciją, kuri pagal Lietuvos Respublikos įstatymus negali būti viešai skleidžiama.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
+79. Vietinė radijo ir (ar) televizijos programa – radijo ir (ar) televizijos programa, transliuojama per vieną antžeminę radijo ir (ar) televizijos stotį, kabelinės televizijos tinklais ir (ar) laidiniais plačiajuosčio ryšio tinklais.
 
 
 
 
-80. Viešosios informacijos rengėjas – visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas, radijo programų transliuotojas, leidykla, kino, garso ar vaizdo studija, informacijos, reklamos ar viešųjų ryšių agentūra, redakcija, informacinės visuomenės informavimo priemonės valdytojas, nepriklausomas kūrėjas, žurnalistas ar kitas asmuo, rengiantys ar pateikiantys skleisti viešąją informaciją.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
+80. Visuomenės informavimas – viešosios informacijos teikimas visuomenei.
 
 
 
 
-81. Viešosios informacijos skleidėjas – visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas, retransliuotojas, asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, radijo programų transliuotojas, informacinės visuomenės informavimo priemonės valdytojas ar kitas asmuo, skleidžiantis viešąją informaciją visuomenei ir atsakantis už tos informacijos teisėtumą. 
-Straipsnio dalies pakeitimai:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
+81. Visuomenės informavimo priemonė – laikraštis, žurnalas, biuletenis ar kitas leidinys, knyga, televizijos programa, radijo programa, kino ar kita garso ir vaizdo studijų produkcija, informacinės visuomenės informavimo priemonė ir kita priemonė, kuria viešai skleidžiama informacija. Pagal šį įstatymą visuomenės informavimo priemonei nepriskiriamas oficialus, techninis ir tarnybinis dokumentas, vertybiniai popieriai.
 
 
 
 
-82. Vietinis laikraštis – laikraštis, kurio ne mažiau kaip 90 procentų tiražo platinama vienos miesto ar rajono savivaldybės teritorijoje.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
+82. Žinia – visuomenės informavimo priemonėse skelbiamas faktas, tikri (teisingi) duomenys.
 
 
 
 
-83. Vietinė radijo ir (ar) televizijos programa – radijo ir (ar) televizijos programa, transliuojama per vieną antžeminę radijo ir (ar) televizijos stotį, kabelinės televizijos tinklais ir (ar) laidiniais plačiajuosčio ryšio tinklais.
-Straipsnio dalies pakeitimai:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
+83. Žinių programa – programa, kurios turinys apima aktualią visuomenei informaciją apie politiką, ekonomiką, kultūrą, sportą, orus ir kitas sritis.
 
 
 
 
-84. Visuomenės informavimas – viešosios informacijos teikimas visuomenei.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
+84. Žurnalas – iliustruotas informacinis periodinis leidinys, skirtas įvairiai auditorijai, kuriame spausdinami įvairių sričių straipsniai.
 
 
 
 
-85. Visuomenės informavimo audiovizualinėmis priemonėmis paslauga – televizijos programų transliavimas, užsakomoji visuomenės informavimo audiovizualinėmis priemonėmis paslauga, komercinių audiovizualinių pranešimų skelbimo paslauga, už kurių turinio parinkimą redakcinė atsakomybė tenka visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjui, vykdančiam ūkinę komercinę veiklą informavimo, pramogų ar švietimo tikslais, elektroninių ryšių tinklais transliuojančiam (perduodančiam) visuomenei programas.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
+85. Žurnalistas – fizinis asmuo, kuris profesionaliai renka, rengia ir teikia medžiagą viešosios informacijos rengėjui ir (ar) skleidėjui pagal sutartį su juo ir (ar) yra žurnalistų profesinės organizacijos narys.
 
 
 
 
-86. Visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas – asmuo, kuriam tenka redakcinė atsakomybė už visuomenės informavimo audiovizualinėmis priemonėmis paslaugos turinio parinkimą ir kuris sprendžia, kokia tvarka pateikiamas paslaugos turinys.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
-
-
-
-
-87. Visuomenės informavimo priemonė – laikraštis, žurnalas, biuletenis ar kitas leidinys, knyga, televizijos programa, radijo programa, kino ar kita garso ir vaizdo studijų produkcija, informacinės visuomenės informavimo priemonė ir kita priemonė, kuria viešai skleidžiama informacija. Pagal šį įstatymą visuomenės informavimo priemonei nepriskiriamas oficialus, techninis ir tarnybinis dokumentas, vertybiniai popieriai.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
-
-
-
-
-88. Žalingas įprotis – piktnaudžiavimas alkoholiu, narkotinių, toksinių, psichotropinių ir kitų psichologinę priklausomybę sukeliančių medžiagų vartojimas, taip pat psichologinė priklausomybė nuo azartinių lošimų.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
-
-
-
-
-89. Žinia – visuomenės informavimo priemonėse skelbiamas faktas arba tikri (teisingi) duomenys.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
-
-
-
-
-90. Žinių programa – programa, kurios turinys apima aktualią visuomenei informaciją apie politiką, ekonomiką, kultūrą, sportą, orus ir kitas sritis.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
-
-
-
-
-91. Žurnalas – iliustruotas informacinis periodinis leidinys, skirtas įvairiai auditorijai, kuriame spausdinami įvairių sričių straipsniai.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
-
-
-
-
-92. Žurnalistas – fizinis asmuo, kuris profesionaliai renka, rengia ir teikia medžiagą viešosios informacijos rengėjui ir (ar) skleidėjui pagal sutartį su juo ir (ar) yra žurnalistų profesinės organizacijos narys.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
+86. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos alkoholio kontrolės įstatyme, Lietuvos Respublikos azartinių lošimų įstatyme, Elektroninių ryšių įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos informacinės visuomenės paslaugų įstatyme, Lietuvos Respublikos konkurencijos įstatyme, Lietuvos Respublikos loterijų įstatyme, Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatyme, Lietuvos Respublikos politinių kampanijų finansavimo ir finansavimo kontrolės įstatyme, Lietuvos Respublikos politinių partijų įstatyme, Lietuvos Respublikos reklamos įstatyme, Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme, Teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatyme, Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme, Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme, Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatyme ir kituose įstatymuose. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 Nr. XI-1048, 2010-09-30, Žin., 2010, Nr. 123-6262 (2010-10-18)
+Straipsnio pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -1119,44 +875,40 @@ Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
 1. Visuomenės informavimo priemonėse draudžiama skelbti informaciją, kurioje:
 
 
-1) raginama prievarta pažeisti Lietuvos Respublikos suverenitetą – pakeisti jos konstitucinę santvarką, kėsintis į jos nepriklausomybę arba pažeisti teritorijos vientisumą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
+1) skleidžiama dezinformacija, karo propaganda, kurstomas karas, raginama prievarta pažeisti Lietuvos Respublikos suverenitetą – pakeisti jos konstitucinę santvarką, kėsintis į jos nepriklausomybę arba pažeisti teritorijos vientisumą;
+
+
+
+
+2) skatinami ar kurstomi teroristiniai nusikaltimai;
+
+
+
+
+3) skleidžiama ar kurstoma neapykanta, tyčiojimasis, niekinimas, kurstoma diskriminuoti, smurtauti, fiziškai susidoroti su žmonių grupe ar jai priklausančiu asmeniu dėl amžiaus, lyties, lytinės orientacijos, etninės priklausomybės, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, negalios, tikėjimo, įsitikinimų, pažiūrų ar religijos pagrindu;
+
+
+
+
+4) skleidžiama, propaguojama ar reklamuojama pornografija, taip pat propaguojamos ir (ar) reklamuojamos seksualinės paslaugos, lytiniai iškrypimai;
+
+
+
+
+5) propaguojamas ir (ar) reklamuojamas narkotinių, psichotropinių ir (ar) kitų psichologinę priklausomybę sukeliančių medžiagų vartojimas, taip pat psichologinė priklausomybė nuo azartinių lošimų. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
 
 
-2) skatinami ar kurstomi teroristiniai nusikaltimai; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
+2. Draudžiama skleisti informaciją, šmeižiančią, įžeidžiančią žmogų, žeminančią jo garbę ir orumą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
-
-
-
-
-3) skleidžiama karo propaganda, kurstomas karas ar neapykanta, tyčiojimasis, niekinimas, kurstoma diskriminuoti, smurtauti, fiziškai susidoroti su žmonių grupe ar jai priklausančiu asmeniu dėl amžiaus, lyties, lytinės orientacijos, etninės priklausomybės, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, negalios, tikėjimo, įsitikinimų, pažiūrų ar religijos pagrindu; 
-Straipsnio punkto pakeitimai:
-Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
-Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
- 
-
-
-
-
-4) platinama, propaguojama ar reklamuojama pornografija, taip pat propaguojamos ir (ar) reklamuojamos seksualinės paslaugos, lytiniai iškrypimai;
-
-
-
-
-5) propaguojami ir (ar) reklamuojami žalingi įpročiai ir narkotinės ar psichotropinės medžiagos.
-
-
-
-
-
-
-2. Draudžiama platinti dezinformaciją ir informaciją, šmeižiančią, įžeidžiančią žmogų, žeminančią jo garbę ir orumą. 
 
 
 
@@ -1232,7 +984,10 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 
 
-2) bendradarbiaudama su kitomis kompetentingomis institucijomis, siekia, kad būtų pašalinta ne Lietuvos Respublikos teritorijoje saugoma šio straipsnio 1 dalies 2 punkte nurodyta informacija. Kai šios informacijos iš jos šaltinio pašalinti neįmanoma, duoda motyvuotus privalomus nurodymus tinklo paslaugų teikėjams panaikinti galimybę ją pasiekti ne ilgiau kaip 72 valandoms, o ilgiau kaip 72 valandoms – su teismo leidimu;
+2) bendradarbiaudama su kitomis kompetentingomis institucijomis, siekia, kad būtų pašalinta ne Lietuvos Respublikos teritorijoje saugoma šio straipsnio 1 dalies 2 punkte nurodyta informacija. Kai šios informacijos iš jos šaltinio pašalinti neįmanoma, duoda motyvuotus privalomus nurodymus viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjams panaikinti galimybę ją pasiekti ne ilgiau kaip 72 valandoms, o ilgiau kaip 72 valandoms – su teismo leidimu; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
 
 
 
@@ -1255,17 +1010,21 @@ Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
 
 
 
-11. Šio straipsnio 9 dalies 1 ar 2 punkte nurodytus privalomus nurodymus elektroninės informacijos prieglobos paslaugų, tinklo paslaugų teikėjai privalo įvykdyti ne vėliau kaip per 2 valandas nuo privalomų nurodymų gavimo. 
+11. Šio straipsnio 9 dalies 1 ar 2 punkte nurodytus privalomus nurodymus elektroninės informacijos prieglobos paslaugų, viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjai privalo įvykdyti ne vėliau kaip per 2 valandas nuo privalomų nurodymų gavimo. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
+Straipsnio dalies pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
 
 
-12. Elektroninės informacijos prieglobos paslaugų teikėjai apie savo atliktų veiksmų (informacijos pašalinimo ir (ar) galimybės pasiekti ją panaikinimo) priežastis informuoja viešosios informacijos rengėjus ir (ar) skleidėjus, išskyrus atvejus, kai neturi viešosios informacijos rengėjų ir (ar) skleidėjų kontaktinių duomenų arba kai policija to prašo konkrečiam terminui, kuris negali būti ilgesnis kaip 10 dienų nuo prašymo gavimo dienos, kad nebūtų pakenkta ikiteisminiam tyrimui, o tinklo paslaugų teikėjai apie galimybės pasiekti informaciją panaikinimo priežastis informuoja vartotojus ne vėliau kaip kitą darbo dieną nuo atliktų veiksmų dienos. Kai viešosios informacijos rengėjų ir (ar) skleidėjų kontaktiniai duomenys yra nežinomi, elektroninės informacijos prieglobos paslaugų teikėjai ne vėliau kaip kitą darbo dieną nuo atliktų veiksmų dienos apie tai praneša policijai, kuri apie elektroninės informacijos prieglobos paslaugų teikėjų atliktų veiksmų priežastis nedelsdama, ne vėliau kaip per vieną darbo dieną, paskelbia savo interneto svetainėje. 
+12. Elektroninės informacijos prieglobos paslaugų teikėjai apie savo atliktų veiksmų (informacijos pašalinimo ir (ar) galimybės pasiekti ją panaikinimo) priežastis informuoja viešosios informacijos rengėjus ir (ar) skleidėjus, išskyrus atvejus, kai neturi viešosios informacijos rengėjų ir (ar) skleidėjų kontaktinių duomenų arba kai policija to prašo konkrečiam terminui, kuris negali būti ilgesnis kaip 10 dienų nuo prašymo gavimo dienos, kad nebūtų pakenkta ikiteisminiam tyrimui, o viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjai apie galimybės pasiekti informaciją panaikinimo priežastis informuoja vartotojus ne vėliau kaip kitą darbo dieną nuo atliktų veiksmų dienos. Kai viešosios informacijos rengėjų ir (ar) skleidėjų kontaktiniai duomenys yra nežinomi, elektroninės informacijos prieglobos paslaugų teikėjai ne vėliau kaip kitą darbo dieną nuo atliktų veiksmų dienos apie tai praneša policijai, kuri apie elektroninės informacijos prieglobos paslaugų teikėjų atliktų veiksmų priežastis nedelsdama, ne vėliau kaip per vieną darbo dieną, paskelbia savo interneto svetainėje. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
+Straipsnio dalies pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -1279,7 +1038,10 @@ Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 20 straipsnis. Pareiga skelbti perspėjimo pranešimus
 
 
-1. Gresiančios ar susidariusios ekstremaliosios situacijos metu, paskelbus mobilizaciją, karo ar nepaprastosios padėties, kitais įstatymų nustatytais atvejais viešosios informacijos rengėjai ir (ar) skleidėjai turi nedelsdami nemokamai skelbti valstybės ir savivaldybių institucijų ir įstaigų perspėjimo pranešimus arba sudaryti galimybes valstybės ir savivaldybių institucijoms ir įstaigoms nemokamai perspėjimo pranešimus skelbti tiesioginiame eteryje. Sprendimus dėl perspėjimo pranešimų skelbimo nacionalinio masto viešosios informacijos skleidėjuose ir (ar) rengėjuose Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus nustatyta tvarka priima Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos, regioniniuose viešosios informacijos rengėjuose ir (ar) skleidėjuose – savivaldybės administracijos direktorius.
+1. Gresiančios ar susidariusios ekstremaliosios situacijos metu, paskelbus mobilizaciją, karo ar nepaprastosios padėties, kitais įstatymų nustatytais atvejais viešosios informacijos rengėjai ir (ar) skleidėjai turi nedelsdami nemokamai skelbti valstybės ir savivaldybių institucijų ir įstaigų perspėjimo pranešimus arba sudaryti galimybes valstybės ir savivaldybių institucijoms ir įstaigoms nemokamai perspėjimo pranešimus skelbti tiesioginiame eteryje. Sprendimus dėl perspėjimo pranešimų skelbimo nacionaliniuose viešosios informacijos skleidėjuose ir (ar) rengėjuose Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktoriaus nustatyta tvarka priima Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos, regioniniuose viešosios informacijos rengėjuose ir (ar) skleidėjuose – savivaldybės administracijos direktorius. Perspėjimo pranešimai turi būti skelbiami taip, kad juose skleidžiama informacija būtų prieinama neįgaliesiems. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
 
 
 
@@ -1330,17 +1092,26 @@ VIešosios informacijos rengėjų, SKLEIDĖJŲ, ŽURNALISTŲ STATUSO REGLAMENTAV
 
 
 
-2. Lietuvos Respublikoje rengti ir (ar) skleisti informaciją gali visi asmenys, išskyrus šiame ir kituose Lietuvos Respublikos įstatymuose nustatytus atvejus. Lietuvos Respublikoje radijo ir (ar) televizijos programų transliavimo ir (ar) retransliavimo ir televizijos programų ir (ar) atskirų programų platinimo internete veikla gali verstis tik juridiniai asmenys, Europos ekonominės erdvės valstybėse įsisteigę juridiniai asmenys ir organizacijos, neturinčios juridinio asmens statuso, taip pat Lietuvos Respublikoje ir kitose Europos ekonominės erdvės valstybėse įsteigti tokių juridinių asmenų ir organizacijų, neturinčių juridinio asmens statuso, filialai.
+2. Lietuvos Respublikoje rengti ir (ar) skleisti informaciją gali visi asmenys, išskyrus šiame ir kituose Lietuvos Respublikos įstatymuose nustatytus atvejus. Lietuvos Respublikoje radijo ir (ar) televizijos programų transliavimo ir (ar) retransliavimo ir televizijos programų ir (ar) atskirų programų platinimo internete veikla gali verstis tik Lietuvos Respublikoje ir Europos ekonominės erdvės valstybėse įsisteigę juridiniai asmenys. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
 
 
 
 
-3. Pardavus ar kitaip perleidus ne mažiau kaip 10 procentų transliavimo ir (ar) retransliuojamo turinio licencijos turėtojo akcijų (dalių, pajų), licencijos turėtojas privalo ne vėliau kaip per 30 dienų nuo nuosavybės teisių perėjimo pranešti apie tai Lietuvos radijo ir televizijos komisijai (toliau – Komisija).
+3. Neteko galios nuo 2021-02-01
+Straipsnio dalies naikinimas:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
 
 
 
 
-4. Jeigu pardavus ar kitaip perleidus transliavimo ir (ar) retransliuojamo turinio licencijos turėtojo akcijas (dalis, pajus) keičiasi kontrolinio akcijų paketo savininkas (savininkai) arba licencijos turėtojo kontrolė (valdymas) pereina kitam asmeniui (asmenims) kitais pagrindais, akcijas (dalis, pajus) ir (ar) kontrolę (valdymą) ketinantys perleisti ir įgyti asmenys privalo gauti Komisijos rašytinį sutikimą. 
+4. Jeigu keičiasi transliavimo ir (ar) retransliuojamo turinio licencijos turėtoją kontroliuojantis asmuo, akcijas (dalis, pajus) ir (ar) kitaip kontrolę (valdymą) ketinantys perleisti ir įgyti asmenys privalo gauti Lietuvos radijo ir televizijos komisijos (toliau – Komisija) rašytinį sutikimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
 
 
 
@@ -1488,9 +1259,17 @@ Nr. XII-1941, 2015-09-22, paskelbta TAR 2015-09-25, i. k. 2015-14259
 
 
 
-10) skelbdami žinias apie savižudybes ar bandymus nusižudyti, neturi skelbti savižudybės ar bandymo nusižudyti motyvų, priemonių ir būdų, traktuoti savižudybės kaip tinkamo kokios nors problemos sprendimo būdo ar kaip savaime suprantamo, kasdienio fakto, vartoti savižudybes romantizuojančių apibūdinimų, rodyti savižudybės proceso ar bandančio nusižudyti, nusižudžiusio žmogaus. Informacijoje apie savižudybes ar bandymus nusižudyti privalu pranešti apie esamas emocinės ir psichologinės pagalbos galimybes bei pagalbos sau grupes nusižudžiusiųjų artimiesiems.
+10) skelbdami žinias apie savižudybes ar bandymus nusižudyti, neturi skelbti savižudybės ar bandymo nusižudyti motyvų, priemonių ir būdų, traktuoti savižudybės kaip tinkamo kokios nors problemos sprendimo būdo ar kaip savaime suprantamo, kasdienio fakto, vartoti savižudybes romantizuojančių apibūdinimų, rodyti savižudybės proceso ar bandančio nusižudyti, nusižudžiusio žmogaus. Informacijoje apie savižudybes ar bandymus nusižudyti privalu pranešti apie esamas emocinės ir psichologinės pagalbos galimybes bei pagalbos sau grupes nusižudžiusiųjų artimiesiems;
 Papildyta straipsnio punktu:
 Nr. XIII-1470, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14698
+ 
+
+
+
+
+11) privalo savo valdomoje visuomenės informavimo priemonėje ar savo interneto svetainėje paskelbti informaciją apie Žurnalistų etikos inspektoriaus tarnybą ir Komisiją, į kurias galima kreiptis dėl šio įstatymo nuostatų pažeidimų, taip pat informaciją apie Visuomenės informavimo etikos komisiją, į kurią galima kreiptis dėl Kodekso nuostatų pažeidimo. 
+Papildyta straipsnio punktu:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -1527,10 +1306,10 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 
 
-24 straipsnis. Duomenų apie viešosios informacijos rengėjus, skleidėjus ir jų dalyvius teikimas ir skleidimas
+24 straipsnis. Duomenų ir informacijos apie viešosios informacijos rengėjus, skleidėjus ir jų veiklą teikimas ir skleidimas
 
 
-1. Viešosios informacijos rengėjų ir skleidėjų informacinėje sistemoje Vyriausybės įgaliotos institucijos visuomenės informavimo srityje (toliau – Vyriausybės įgaliota institucija) nustatyta tvarka turi būti pateikiami, o jiems pasikeitus atnaujinami šie duomenys apie viešosios informacijos rengėjus ir (ar) skleidėjus, kurie yra juridiniai asmenys, išskyrus nurodytus šio įstatymo 22 straipsnio 8 dalyje, taip pat apie jų veiklą:
+1. Viešosios informacijos rengėjų ir skleidėjų informacinėje sistemoje Vyriausybės ar jos įgaliotos institucijos visuomenės informavimo srityje (toliau – Vyriausybės įgaliota institucija) nustatyta tvarka turi būti pateikiami, o jiems pasikeitus, atnaujinami šie duomenys ir informacija apie viešosios informacijos rengėjus ir (ar) skleidėjus, kurie yra juridiniai asmenys, taip pat apie jų veiklą:
 
 
 1) pavadinimas ir kodas;
@@ -1538,7 +1317,7 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 
 
-2) valdomos (valdomų) visuomenės informavimo priemonės (priemonių) pavadinimas (pavadinimai), rūšis (rūšys) ir kategorija (kategorijos);
+2) valdomos (valdomų) visuomenės informavimo priemonės (priemonių) pavadinimas (pavadinimai), rūšis (rūšys: laikraštis, žurnalas, leidinys, knyga, televizijos programa, radijo programa, interneto svetainė ir kitos) ir kategorija (kategorijos: nacionalinis, vietinis, regioninis ir kitos);
 
 
 
@@ -1553,17 +1332,17 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 
 
-5) valdymo organų narių vardai ir pavardės;
+5) valdymo organo (organų) nario (narių) vardas (vardai), pavardė (pavardės) ir asmens kodas (kodai); jeigu valdymo organo narys yra užsienietis, papildomai pateikiami jo gimimo data ir valstybės, kuri išdavė asmens dokumentus, pavadinimas;
 
 
 
 
-6) už valdomos visuomenės informavimo priemonės turinį atsakingo (atsakingų) asmens (asmenų) vardas (vardai) ir pavardė (pavardės), jeigu už turinį atsako ne juridinio asmens vadovas;
+6) už valdomos visuomenės informavimo priemonės turinį atsakingo (atsakingų) asmens (asmenų) vardas (vardai), pavardė (pavardės) ir asmens kodas (kodai), jeigu už turinį atsako ne juridinio asmens vadovas; jeigu atsakingas už visuomenės informavimo priemonės turinį asmuo yra užsienietis, papildomai pateikiami jo gimimo data ir valstybės, kuri išdavė asmens dokumentus, pavadinimas;
 
 
 
 
-7) dalyvių sąrašas, kuriame turi būti nurodyta: dalyvių vardai ir pavardės (jeigu dalyvis yra juridinis asmuo, pateikiamas juridinio asmens pavadinimas ir šio juridinio asmens dalyviai – fiziniai asmenys, nurodant jų vardus ir pavardes; jeigu dalyvis yra viešasis juridinis asmuo, pateikiamas jo pavadinimas), asmens kodai (jeigu dalyvis yra juridinis asmuo, pateikiamas juridinio asmens kodas; jeigu dalyvis yra užsienio valstybės fizinis asmuo, kuriam pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, pateikiama jo gimimo data ir valstybės, kuri išdavė asmens dokumentus, pavadinimas; jeigu dalyvis yra užsienio valstybės juridinis asmuo, nurodoma valstybė ir registras, kuriuose juridinis asmuo įregistruotas), nuosavybės teise turima ar valdoma juridinio asmens turto dalis procentais arba akcijų skaičius ir balsų dalis procentais;
+7) duomenys apie dalyvius ir dalyvių dalyvius: dalyvių vardai ir pavardės (jeigu dalyvis ar dalyvio dalyvis yra juridinis asmuo, pateikiami jo pavadinimas ir šio juridinio asmens dalyviai tol, kol paskutinysis dalyvis ar dalyvio dalyvis yra fizinis asmuo, išskyrus šio straipsnio 5 dalyje nustatytus atvejus, nurodant jų vardus ir pavardes; jeigu dalyvis ar dalyvio dalyvis yra valstybė ar savivaldybė, pateikiamas jos pavadinimas ir valstybės ar savivaldybės, kaip juridinio asmens dalyvės, teises ir pareigas įgyvendinančios institucijos pavadinimas), asmens kodai (jeigu dalyvis ar dalyvio dalyvis yra juridinis asmuo, pateikiamas juridinio asmens kodas; jeigu dalyvė ar dalyvio dalyvė yra valstybė ar savivaldybė, pateikiami jos kodas ir valstybės ar savivaldybės, kaip juridinio asmens dalyvės, teises ir pareigas įgyvendinančios institucijos kodas; jeigu dalyvis yra užsienietis, papildomai pateikiami jo gimimo data ir valstybės, kuri išdavė asmens dokumentus, pavadinimas; jeigu dalyvis ar dalyvio dalyvis yra užsienio valstybės juridinis asmuo, nurodoma valstybė, kurioje juridinis asmuo įregistruotas), nuosavybės teise turima ar valdoma juridinio asmens turto (įnašų arba akcijų) dalis procentais ir balsų dalis procentais;
 
 
 
@@ -1583,17 +1362,17 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 
 
-11) informacija apie viešosios informacijos rengėjui ir (ar) skleidėjui šio įstatymo nustatyta tvarka nustatytą metinę įmoką už radijo ir (ar) televizijos programų transliavimo, retransliavimo, platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą;
+11) informacija apie viešosios informacijos rengėjui ir (ar) skleidėjui šio įstatymo nustatyta tvarka nustatytą metinę įmoką už radijo ir (ar) televizijos programų transliavimo, retransliavimo, platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikimo veiklą;
 
 
 
 
-12) leidinio (leidinių) tiražas (tiražai) ir kiti šio įstatymo 36 straipsnio 1 dalyje nustatyti leidybiniai duomenys, jeigu juridinis asmuo pagal šį įstatymą privalo juos nurodyti ar skelbti;
+12) leidinio (leidinių) tiražas (tiražai), tarptautinis standartinis numeris (ISBN arba ISSN) ir tiražo tikrinimo duomenys;
 
 
 
 
-13) metinių finansinių ataskaitų rinkinys (metinė veiklos ataskaita);
+13) metinių finansinių ataskaitų rinkinys arba metinė ataskaita;
 
 
 
@@ -1601,17 +1380,17 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 14) informacija apie viešosios informacijos rengėjo ir (ar) skleidėjo:
 
 
-a) pajamas iš politinės reklamos;
+a) pajamas iš politinės reklamos ir jų šaltinį (jeigu politinės kampanijos dalyvis, kurio interesais paskleista politinė reklama, yra fizinis asmuo, nurodomi jo vardas, pavardė ir asmens kodas (jeigu politinės kampanijos dalyvis yra užsienietis, papildomai pateikiami jo gimimo data ir valstybės, kuri išdavė asmens dokumentus, pavadinimas); jeigu politinės kampanijos dalyvis, kurio interesais paskleista politinė reklama, yra juridinis asmuo, nurodomi jo pavadinimas ir juridinio asmens kodas; jeigu politinės kampanijos dalyvis, kurio interesais paskleista politinė reklama, yra fizinių asmenų grupė, nurodomas šios grupės pavadinimas);
 
 
 
 
-b) lėšas, gautas sandorio ar administracinio akto pagrindu, kurių šaltinis yra valstybės ar savivaldybės biudžetas ar kitas valstybės ar savivaldybės įsteigtas fondas, valstybės ar savivaldybės įmonė, akcinė bendrovė, uždaroji akcinė bendrovė ar kita bendrovė, kurioje valstybė ar savivaldybė turi daugiau kaip 50 procentų balsų visuotiniame akcininkų susirinkime suteikiančių akcijų arba skiria daugiau kaip pusę jų valdymo organų narių, ar šios bendrovės dukterinė bendrovė, taip pat kitas juridinis asmuo, kurio dalyvių susirinkime valstybė ar savivaldybė turi daugiau kaip 50 procentų balsų arba skiria daugiau kaip pusę jų valdymo organų narių;
+b) lėšas, gautas sandorio ar administracinio akto pagrindu, kurių šaltinis yra valstybės ar savivaldybės biudžetas ar kitas valstybės ar savivaldybės įsteigtas fondas, valstybės ar savivaldybės įmonė, valstybės ar savivaldybės valdoma ar kontroliuojama bendrovė ar šios bendrovės valdoma ar kontroliuojama dukterinė bendrovė, taip pat kitas juridinis asmuo, kurio dalyvių susirinkime valstybė ar savivaldybė turi daugiau kaip 50 procentų balsų arba skiria daugiau kaip pusę jų valdymo organų narių;
 
 
 
 
-c) gautą paramą, jeigu to paties paramos teikėjo per vienerius kalendorinius metus suteiktos paramos suma viršija 10 bazinių socialinių išmokų dydį.
+c) gautą paramą ir jos šaltinį (jeigu paramos teikėjas yra fizinis asmuo, nurodomi jo vardas, pavardė ir asmens kodas (jeigu paramos teikėjas yra užsienietis, papildomai pateikiami jo gimimo data ir valstybės, kuri išdavė asmens dokumentus, pavadinimas); jeigu paramos teikėjas yra juridinis asmuo, nurodomi jo pavadinimas ir juridinio asmens kodas), jeigu to paties paramos teikėjo per vienus kalendorinius metus suteiktos paramos suma viršija 10 bazinių socialinių išmokų dydį.
 
 
 
@@ -1620,88 +1399,101 @@ c) gautą paramą, jeigu to paties paramos teikėjo per vienerius kalendorinius 
 
 
 
-2. Viešosios informacijos rengėjų ir skleidėjų informacinėje sistemoje pateikti duomenys, išskyrus fizinio asmens kodą, skelbiami viešai ir neatlygintinai Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo nustatyta tvarka.
+2. Viešosios informacijos rengėjų ir skleidėjų informacinėje sistemoje pateikti duomenys teikiami Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo nustatyta tvarka. Viešosios informacijos rengėjų ir skleidėjų informacinėje sistemoje pateikti duomenys, išskyrus fizinio asmens gimimo datą ir asmens kodą, skelbiami viešai ir neatlygintinai.
 
 
 
 
-3. Viešosios informacijos rengėjų ir skleidėjų informacinėje sistemoje tvarkomų viešosios informacijos rengėjų ir (ar) skleidėjų, kurie yra juridiniai asmenys, dalyvių asmens duomenų tvarkymo tikslas – vienoje informacinėje sistemoje rinkti, kaupti, apdoroti, saugoti, stebėti ir neatlygintinai skelbti šio straipsnio 1 dalyje nurodytus duomenis apie viešosios informacijos rengėjus, skleidėjus, jų dalyvius ir veiklą.
+3. Viešosios informacijos rengėjų ir skleidėjų informacinėje sistemoje tvarkomų asmens duomenų tvarkymo tikslas – didinti viešosios informacijos rengėjų ir skleidėjų veiklos viešumą, skaidrumą ir atskaitingumą, užtikrinant galimybę visuomenei ir kompetentingoms valstybės institucijoms vienoje informacinėje sistemoje stebėti, analizuoti ir vertinti šio straipsnio 1 dalyje nurodytus duomenis apie viešosios informacijos rengėjus, skleidėjus ir jų veiklą.
 
 
 
 
-4. Viešosios informacijos rengėjų ir skleidėjų informacinės sistemos tvarkytojas turi teisę gauti iš kitų valstybės informacinių išteklių valdytojų ir (ar) tvarkytojų, taip pat kitų valstybės ir savivaldybių institucijų ir įstaigų šio straipsnio 1 dalyje nurodytus duomenis. Šiuos duomenis nurodytų valstybės informacinių išteklių valdytojai ir (ar) tvarkytojai, taip pat kitos valstybės ir savivaldybių institucijos ir įstaigos privalo pateikti Viešosios informacijos rengėjų ir skleidėjų informacinės sistemos tvarkytojui Viešosios informacijos rengėjų ir skleidėjų informacinės sistemos nuostatuose nustatyta tvarka.
+4. Viešosios informacijos rengėjų ir skleidėjų informacinės sistemos tvarkytojas turi teisę gauti iš kitų valstybės informacinių išteklių valdytojų ir (ar) tvarkytojų, taip pat kitų valstybės ir savivaldybių institucijų ir įstaigų šio straipsnio 1 dalyje nurodytus duomenis ir informaciją. Šiuos duomenis ir informaciją nurodytų valstybės informacinių išteklių valdytojai ir (ar) tvarkytojai, taip pat kitos valstybės ir savivaldybių institucijos ir įstaigos privalo pateikti Viešosios informacijos rengėjų ir skleidėjų informacinės sistemos tvarkytojui Viešosios informacijos rengėjų ir skleidėjų informacinės sistemos nuostatuose nustatyta tvarka.
 
 
 
 
-5. Pareigą Viešosios informacijos rengėjų ir skleidėjų informacinėje sistemoje pateikti šio straipsnio 1 dalyje nurodytus duomenis viešosios informacijos rengėjai ir (ar) skleidėjai turi tik tais atvejais, kai šie duomenys nėra kaupiami kituose valstybės informaciniuose ištekliuose ar valstybės ir savivaldybių institucijose ir įstaigose.
+5. Pareigą Viešosios informacijos rengėjų ir skleidėjų informacinėje sistemoje pateikti šio straipsnio 1 dalyje nurodytus duomenis viešosios informacijos rengėjai ir (ar) skleidėjai turi tik tais atvejais, kai šie duomenys nėra kaupiami kituose valstybės informaciniuose ištekliuose ar valstybės ir savivaldybių institucijose ir įstaigose. Viešosios informacijos rengėjų ir skleidėjų informacinėje sistemoje neteikiami duomenys apie dalyvius – fizinius asmenis – tų viešosios informacijos rengėjų ir (ar) skleidėjų, kurių teisinė forma yra asociacija, religinė bendruomenė ar religinė bendrija, profesinė sąjunga ar jų susivienijimas.
 
 
 
 
-6. Viešosios informacijos rengėjų ir skleidėjų informacinės sistemos nuostatus tvirtina Vyriausybės įgaliota institucija.
+6. Viešosios informacijos rengėjų ir skleidėjų informacinės sistemos nuostatus tvirtina Vyriausybė ar jos įgaliota institucija.
 
 
 
 
 7. Už šio straipsnio 1 dalyje nurodytų duomenų pateikimą, kai juos pateikti yra viešosios informacijos rengėjo ir (ar) skleidėjo pareiga, Viešosios informacijos rengėjų ir skleidėjų informacinės sistemos tvarkytojui yra atsakingas viešosios informacijos rengėjo ir (ar) skleidėjo vadovas ar kitas jo paskirtas atsakingas asmuo. Už minėtų duomenų nepateikimą ar klaidingų duomenų pateikimą taikoma Lietuvos Respublikos administracinių nusižengimų kodekse nustatyta atsakomybė ir kitos poveikio priemonės, kurių taikymas viešosios informacijos rengėjams ir (ar) skleidėjams yra nustatytas su viešosios informacijos rengimu ir skleidimu susijusiuose teisės aktuose. 
+
+
 Straipsnio pakeitimai:
 Nr. XI-1048, 2010-09-30, Žin., 2010, Nr. 123-6262 (2010-10-18)
-
-
 Straipsnio pakeitimai:
 Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
 
 
-25 straipsnis. Lietuvos Respublikos jurisdikcijai priklausantys visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai
+25 straipsnis. Lietuvos Respublikos jurisdikcijai priklausantys audiovizualinės žiniasklaidos paslaugų teikėjai
 
 
-1. Visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas yra laikomas priklausančiu Lietuvos Respublikos jurisdikcijai, jeigu atitinka bent vieną iš šių sąlygų:
+1. Audiovizualinės žiniasklaidos paslaugos teikėjas yra laikomas priklausančiu Lietuvos Respublikos jurisdikcijai, jeigu:
 
 
-1) visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo pagrindinė buveinė yra Lietuvos Respublikoje ir redakciniai sprendimai dėl visuomenės informavimo audiovizualinėmis priemonėmis paslaugų priimami Lietuvos Respublikoje;
-
-
-
-
-2) visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo pagrindinė buveinė yra Lietuvos Respublikoje, o redakciniai sprendimai dėl visuomenės informavimo audiovizualinėmis priemonėmis paslaugų yra priimami kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, jis yra laikomas įsisteigusiu toje valstybėje narėje, kurioje didesnė jo visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veikla užsiimančių darbuotojų dalis vykdo šių paslaugų teikimo veiklą. Jeigu didesnė visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veikla užsiimančių darbuotojų dalis vykdo veiklą abiejose valstybėse narėse, visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas laikomas įsisteigusiu Lietuvos Respublikoje. Jeigu didesnė visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veikla užsiimančių darbuotojų dalis nevykdo veiklos nė vienoje iš tų valstybių narių, visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas laikomas įsisteigusiu toje valstybėje narėje, kurioje jis pradėjo savo veiklą laikydamasis tos valstybės narės teisės, jeigu jis palaiko nuolatinius ir veiksmingus ekonominius ryšius su ta valstybe nare;
+1) audiovizualinės žiniasklaidos paslaugos teikėjo pagrindinė buveinė yra Lietuvos Respublikoje ir redakciniai sprendimai dėl audiovizualinės žiniasklaidos paslaugos yra priimami Lietuvos Respublikoje;
 
 
 
 
-3) visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo pagrindinė buveinė yra Lietuvos Respublikoje, tačiau redakciniai sprendimai dėl visuomenės informavimo audiovizualinėmis priemonėmis paslaugų yra priimami trečiojoje šalyje (ne Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje) arba visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo pagrindinė buveinė yra trečiojoje šalyje (ne Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje), tačiau  redakciniai sprendimai dėl visuomenės informavimo audiovizualinėmis priemonėmis paslaugų yra priimami Lietuvos Respublikoje, jis laikomas įsisteigusiu Lietuvos Respublikoje, jeigu didesnė visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veikla užsiimančių darbuotojų dalis vykdo veiklą Lietuvos Respublikoje.
+2) audiovizualinės žiniasklaidos paslaugos teikėjo pagrindinė buveinė yra Lietuvos Respublikoje, tačiau redakciniai sprendimai dėl audiovizualinės žiniasklaidos paslaugos yra priimami kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, bet Lietuvos Respublikoje veikia reikšminga dalis darbuotojų, dalyvaujančių su programa susijusioje audiovizualinės žiniasklaidos paslaugų teikimo veikloje. Jeigu reikšminga dalis darbuotojų, dalyvaujančių su programa susijusioje audiovizualinės žiniasklaidos paslaugos teikimo veikloje, veikia kiekvienoje iš šių valstybių, audiovizualinės žiniasklaidos paslaugos teikėjas laikomas priklausančiu Lietuvos Respublikos jurisdikcijai, jeigu čia yra jo pagrindinė buveinė. Jeigu reikšminga dalis darbuotojų, dalyvaujančių su programa susijusioje audiovizualinės žiniasklaidos paslaugos teikimo veikloje, neveikia nė vienoje iš šių valstybių, audiovizualinės žiniasklaidos paslaugos teikėjas laikomas priklausančiu Lietuvos Respublikos jurisdikcijai, jeigu čia jis pirmiausia pradėjo savo veiklą ir palaiko nuolatinius ir veiksmingus ryšius su Lietuvos Respublika;
 
 
 
 
-
-
-2. Visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas, kuris neatitinka nė vienos iš šio straipsnio 1 dalyje nurodytų sąlygų ir nepriklauso Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės jurisdikcijai, laikomas priklausančiu Lietuvos Respublikos jurisdikcijai, jeigu atitinka šias sąlygas: 
-
-
-1) visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas naudojasi Lietuvoje įrengta siuntimo stotimi, perduodančia signalus į palydovą; 
-
-
-
-
-2) visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas nesinaudoja Lietuvoje įrengta siuntimo stotimi, perduodančia signalus į palydovą, bet naudojasi Lietuvos Respublikai priklausančiais ryšio palydovo ištekliais.
+3) redakciniai sprendimai dėl audiovizualinės žiniasklaidos paslaugos yra priimami trečiojoje šalyje (ne Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje), tačiau audiovizualinės žiniasklaidos paslaugos teikėjo pagrindinė buveinė yra Lietuvos Respublikoje ir reikšminga audiovizualinės žiniasklaidos paslaugos teikimo veikla užsiimančių darbuotojų dalis vykdo veiklą Lietuvos Respublikoje arba audiovizualinės žiniasklaidos paslaugos teikėjo pagrindinė buveinė yra trečiojoje šalyje (ne Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje), tačiau redakciniai sprendimai dėl audiovizualinės žiniasklaidos paslaugos yra priimami Lietuvos Respublikoje ir reikšminga audiovizualinės žiniasklaidos paslaugos teikimo veikla užsiimančių darbuotojų dalis vykdo veiklą Lietuvos Respublikoje.
 
 
 
 
 
 
-3. Jeigu pagal šio straipsnio 1 ir 2 dalis negalima nuspręsti, kurios valstybės narės jurisdikcijai priklauso visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas, Lietuvos Respublika bus laikoma kompetentinga valstybe, jeigu visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas yra joje įsisteigęs pagal Sutarties dėl Europos Sąjungos veikimo 49–54 straipsnius (OL 2008 C 115, p. 47).
+2. Audiovizualinės žiniasklaidos paslaugos teikėjas, kuris neatitinka nė vienos iš šio straipsnio 1 dalyje nurodytų sąlygų ir nepriklauso Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės jurisdikcijai, laikomas priklausančiu Lietuvos Respublikos jurisdikcijai, jeigu:
+
+
+1) naudojasi Lietuvoje įrengta siuntimo stotimi, perduodančia signalus į palydovą;
+
+
+
+
+2) nesinaudoja Lietuvoje įrengta siuntimo stotimi, perduodančia signalus į palydovą, bet naudojasi Lietuvos Respublikai priklausančiais ryšio palydovo ištekliais.
+
+
+
+
+
+
+3. Jeigu pagal šio straipsnio 1 ir 2 dalis negalima nuspręsti, kurios Europos Sąjungos valstybės narės jurisdikcijai priklauso audiovizualinės žiniasklaidos paslaugos teikėjas, Lietuvos Respublika bus laikoma kompetentinga valstybe, jeigu audiovizualinės žiniasklaidos paslaugos teikėjas yra joje įsisteigęs pagal Sutarties dėl Europos Sąjungos veikimo 49–54 straipsnius.
+
+
+
+
+4. Audiovizualinės žiniasklaidos paslaugų teikėjai Komisijos nustatyta tvarka, prieš tai suderinta su Vyriausybės įgaliota institucija, privalo informuoti Komisiją apie pokyčius, kurie gali paveikti jurisdikcijos nustatymą pagal šio straipsnio 1, 2 ir 3 dalis. Komisija sudaro ir nuolat atnaujina Lietuvos Respublikos jurisdikcijai priklausančių audiovizualinės žiniasklaidos paslaugų teikėjų sąrašą, kuriame nurodoma, kuriais kriterijais, išdėstytais šio straipsnio 1, 2 ir 3 dalyse, grindžiama jų jurisdikcija. Šį sąrašą su nuolat atnaujinamais duomenimis Komisija perduoda Europos Komisijai.
+
+
+
+
+5. Jeigu Lietuvos Respublika ir kita Europos Sąjungos valstybė narė nesutaria, kurios valstybės jurisdikcijai priklauso audiovizualinės žiniasklaidos paslaugų teikėjas, Komisija apie tai praneša Europos Komisijai. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 Nr. XI-1454, 2011-06-16, Žin., 2011, Nr. 78-3797 (2011-06-30)
 Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
+Straipsnio pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -1983,7 +1775,10 @@ Lietuvos nacionalinis radijas ir televizija (toliau – LRT) – valstybei nuosa
 
 
 
-5) televizijos programų transliavimas elektroninių ryšių tinklais, kurių pagrindinė paskirtis nėra radijo ir (ar) televizijos programų ir (ar) programų transliavimas ir (ar) retransliavimas, išskyrus televizijos programų transliavimą per informacinės visuomenės informavimo priemones (interneto svetaines, tinklalapius);
+5) televizijos programų transliavimas elektroninių ryšių tinklais, kurių pagrindinė paskirtis nėra radijo ir (ar) televizijos programų ir (ar) programų transliavimas ir (ar) retransliavimas, išskyrus televizijos programų transliavimą per informacinės visuomenės informavimo priemones (interneto svetaines, tinklalapius) ar dalijimosi vaizdo medžiaga platformas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
 
 
 
@@ -2129,7 +1924,10 @@ Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
 
 
 
-13. Vyriausybės įgaliota institucija Komisijos teikimu tvirtina metinės įmokos už radijo ir (ar) televizijos programų transliavimo, retransliavimo, platinimo internete arba užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą (toliau – metinė įmoka) dydžio nustatymo tvarkos aprašą ir vadovaudamasi šiuo aprašu nustato metinės įmokos dydį. Metinės įmokos pervedamos Visuomenės informavimo etikos asociacijai.
+13. Vyriausybės įgaliota institucija Komisijos teikimu tvirtina metinės įmokos už radijo ir (ar) televizijos programų transliavimo, retransliavimo, platinimo internete arba užsakomųjų audiovizualinės žiniasklaidos paslaugų teikimo veiklą (toliau – metinė įmoka) dydžio nustatymo tvarkos aprašą ir vadovaudamasi šiuo aprašu nustato metinės įmokos dydį. Metinės įmokos pervedamos Visuomenės informavimo etikos asociacijai. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
 
 
 
@@ -2137,7 +1935,7 @@ Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
 14. Vyriausybės įgaliota institucija metinės įmokos dydį nustato atsižvelgdama į:
 
 
-1) licencijos turėtojo transliuojamų ir (ar) retransliuojamų radijo ir (ar) televizijos programų, platinamų internete televizijos programų ir (ar) atskirų programų, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų pobūdį ir turinį;
+1) licencijos turėtojo transliuojamų ir (ar) retransliuojamų radijo ir (ar) televizijos programų, platinamų internete televizijos programų ir (ar) atskirų programų, užsakomųjų audiovizualinės žiniasklaidos paslaugų pobūdį ir turinį;
 
 
 
@@ -2152,9 +1950,12 @@ Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
 
 
 
-4) radijo ir (ar) televizijos programos reikšmę programų transliavimo, retransliavimo ir (ar) televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų plėtojimui.
+4) radijo ir (ar) televizijos programos reikšmę programų transliavimo, retransliavimo ir (ar) televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų plėtojimui. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
 
 
 
@@ -2259,7 +2060,10 @@ Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
 
 
 
-17. Komisija, priimdama sprendimą dėl licencijos laikino galiojimo sustabdymo ar galiojimo panaikinimo, nustato konkretų terminą, nuo kada sustabdomas ar panaikinamas licencijos galiojimas. Šis terminas negali būti trumpesnis negu šio įstatymo nustatytas terminas apskųsti Komisijos sprendimus teismui. Licencijos turėtojas privalo sustabdyti (nutraukti) transliavimo licencijoje numatytą transliavimo veiklą ir (ar) sustabdyti (nutraukti) radijo ir (ar) televizijos programų retransliavimą radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais radijo dažniais (kanalais) nuo sprendime nurodytos dienos, išskyrus atvejus, kai apskundus teismui šį Komisijos sprendimą teismas laikinai sustabdo jo galiojimą. Jeigu teismas nepanaikina Komisijos sprendimo dėl transliavimo licencijos ar retransliuojamo turinio licencijos laikino galiojimo sustabdymo ar galiojimo panaikinimo, transliavimo licencijos turėtojas privalo sustabdyti (nutraukti) transliavimo veiklą, o retransliuotojas privalo sustabdyti (nutraukti) radijo ir (ar) televizijos programų retransliavimą radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais radijo dažniais (kanalais) nuo teismo sprendimo įsiteisėjimo dienos. Komisijos sprendimą dėl transliavimo licencijos ar retransliuojamo turinio licencijos laikino galiojimo sustabdymo ar galiojimo panaikinimo turi sankcionuoti Vilniaus apygardos administracinis teismas. Prašyme sankcionuoti Komisijos sprendimą turi būti nurodytas Komisijos sprendimo priėmimo faktinis ir juridinis pagrindas ir jį patvirtinantys įrodymai. Kartu su prašymu turi būti pateiktas Komisijos sprendimas, jo faktinį ir juridinį pagrindą patvirtinančių dokumentų kopijos ir kita būtina medžiaga. Vilniaus apygardos administracinio teismo teisėjas turi išnagrinėti Komisijos prašymą ir priimti motyvuotą nutartį patenkinti arba atmesti prašymą ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu Komisija nesutinka su Vilniaus apygardos administracinio teismo teisėjo nutartimi atmesti prašymą, Komisijos įgaliotas atstovas turi teisę per 7 dienas apskųsti teisėjo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas nuo skundo priėmimo dienos.
+17. Komisija, priimdama sprendimą dėl licencijos laikino galiojimo sustabdymo ar galiojimo panaikinimo, nustato konkretų terminą, nuo kada sustabdomas ar panaikinamas licencijos galiojimas. Šis terminas negali būti trumpesnis, negu šio įstatymo nustatytas terminas apskųsti Komisijos sprendimus teismui. Licencijos turėtojas privalo sustabdyti (nutraukti) transliavimo licencijoje numatytą transliavimo veiklą ir (ar) sustabdyti (nutraukti) radijo ir (ar) televizijos programų retransliavimą radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais radijo dažniais (kanalais) nuo sprendime nurodytos dienos, išskyrus atvejus, kai, apskundus teismui šį Komisijos sprendimą, teismas laikinai sustabdo jo galiojimą. Jeigu teismas nepanaikina Komisijos sprendimo dėl transliavimo licencijos ar retransliuojamo turinio licencijos laikino galiojimo sustabdymo ar galiojimo panaikinimo, transliavimo licencijos turėtojas privalo sustabdyti (nutraukti) transliavimo veiklą, o retransliuotojas privalo sustabdyti (nutraukti) radijo ir (ar) televizijos programų retransliavimą radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytais radijo dažniais (kanalais) nuo teismo sprendimo įsiteisėjimo dienos. Komisijos sprendimą dėl transliavimo licencijos ar retransliuojamo turinio licencijos laikino galiojimo sustabdymo ar galiojimo panaikinimo turi sankcionuoti Vilniaus apygardos administracinis teismas, išskyrus Komisijos sprendimus dėl transliavimo licencijos ar retransliuojamo turinio licencijos galiojimo panaikinimo, kai licencijos turėtojas atsisako licencijos. Prašyme sankcionuoti Komisijos sprendimą turi būti nurodytas Komisijos sprendimo priėmimo faktinis ir juridinis pagrindas ir jį patvirtinantys įrodymai. Kartu su prašymu turi būti pateiktas Komisijos sprendimas, jo faktinį ir juridinį pagrindą patvirtinančių dokumentų kopijos ir kita būtina medžiaga. Vilniaus apygardos administracinio teismo teisėjas turi išnagrinėti Komisijos prašymą ir priimti motyvuotą nutartį patenkinti arba atmesti prašymą ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu Komisija nesutinka su Vilniaus apygardos administracinio teismo teisėjo nutartimi atmesti prašymą, Komisijos įgaliotas atstovas turi teisę per 7 dienas apskųsti teisėjo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas nuo skundo priėmimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
 
 
 
@@ -2305,10 +2109,26 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 
 
+321 straipsnis. Audiovizualinės žiniasklaidos paslaugų apsauga nuo neteisėto komercinio turinio
+
+
+Draudžiama audiovizualinės žiniasklaidos paslaugų teikėjų teikiamas audiovizualinės žiniasklaidos paslaugas, neturint aiškaus šių paslaugų teikėjų sutikimo, uždengti komerciniais audiovizualiniais pranešimais (skelbti juos iššokančiame lange išmaniajame įrenginyje ar bet kuriais kitais būdais) ir (ar) šias paslaugas keisti, modifikuoti (dinamiškai įterpiant ar pakeičiant komercinius audiovizualinius pranešimus prieš ir per skleidžiamas programas, po skleidžiamų programų ar bet kuriais kitais būdais). 
+
+
+Papildyta straipsniu:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
+
+
+
+
 33 straipsnis. Nelicencijuojamos radijo ir televizijos programų transliavimo ir retransliavimo veiklos reguliavimas
 
 
-1. Asmenys, norintys Lietuvos Respublikoje verstis nelicencijuojama radijo ir (ar) televizijos programų transliavimo veikla, retransliuotojai, kurie radijo ir (ar) televizijos programoms retransliuoti nenaudos radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytų radijo dažnių (kanalų), taip pat kiti asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai prieš pradėdami šią veiklą privalo Transliavimo veiklos ir retransliuojamo turinio licencijavimo taisyklėse nustatyta tvarka pranešti apie tai Komisijai. Pradėti nelicencijuojamą radijo ir (ar) televizijos programų transliavimo, retransliavimo veiklą, teikti Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas šie asmenys gali kitą dieną nuo atitinkamo pranešimo pateikimo Komisijai dienos arba nuo pranešime nurodytos dienos, jeigu ši diena yra vėlesnė negu pranešimo pateikimo Komisijai diena. Šioje dalyje nurodyti asmenys, pradėję vykdyti veiklą, privalo per 30 kalendorinių dienų sumokėti metinę įmoką. 
+1. Asmenys, norintys Lietuvos Respublikoje verstis nelicencijuojama radijo ir (ar) televizijos programų transliavimo veikla, retransliuotojai, kurie radijo ir (ar) televizijos programoms retransliuoti nenaudos radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytų radijo dažnių (kanalų), taip pat kiti asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjai, prieš pradėdami šią veiklą, privalo Transliavimo veiklos ir retransliuojamo turinio licencijavimo taisyklėse nustatyta tvarka pranešti apie tai Komisijai. Pradėti nelicencijuojamą radijo ir (ar) televizijos programų transliavimo, retransliavimo veiklą, teikti Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas šioje dalyje nurodyti asmenys gali kitą dieną nuo atitinkamo pranešimo pateikimo Komisijai dienos arba nuo pranešime nurodytos dienos, jeigu ši diena yra vėlesnė negu pranešimo pateikimo Komisijai diena. Šioje dalyje nurodyti asmenys, pradėję vykdyti veiklą, privalo per 30 kalendorinių dienų sumokėti metinę įmoką. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
 
 
 
@@ -2349,10 +2169,11 @@ Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
 
 
 
-3. Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo nustatyta tvarka gavus informaciją, kad egzistuoja nors viena šio straipsnio 2 dalyje nurodyta aplinkybė, Komisija priima sprendimą uždrausti šio straipsnio 1 dalyje nurodytam asmeniui Lietuvos Respublikoje vykdyti transliavimo ir (ar) retransliavimo veiklą, teikti Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomąsias visuomenės informavimo audiovizualinėmis priemonėmis paslaugas, iki išnyks šio straipsnio 2 dalyje nurodytos aplinkybės. Komisija, priimdama sprendimą, nustato konkretų terminą, nuo kada įsigalioja draudimas Lietuvos Respublikoje vykdyti transliavimo ir (ar) retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą. Šis terminas negali būti trumpesnis negu Komisijos sprendimų apskundimo teismui terminas. Transliuotojas, retransliuotojas ar asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomąsias visuomenės informavimo audiovizualinėmis priemonėmis paslaugas, privalo nutraukti transliavimo, retransliavimo ar televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą nuo sprendime nurodytos dienos, išskyrus atvejus, kai, Komisijos sprendimą apskundus teismui, teismas laikinai sustabdo sprendimo galiojimą. Jeigu teismas, laikinai sustabdęs Komisijos sprendimo galiojimą, Komisijos sprendimo dėl transliavimo, retransliavimo ar televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veiklos uždraudimo nepanaikina, transliuotojas, retransliuotojas ar asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomąsias visuomenės informavimo audiovizualinėmis priemonėmis paslaugas, privalo nutraukti šią veiklą nuo teismo sprendimo įsiteisėjimo dienos. 
+3. Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo ar šio įstatymo nustatyta tvarka gavus informaciją, kad egzistuoja nors viena šio straipsnio 2 dalyje nurodyta aplinkybė, Komisija priima sprendimą uždrausti šio straipsnio 1 dalyje nurodytam asmeniui Lietuvos Respublikoje vykdyti transliavimo ir (ar) retransliavimo veiklą, teikti Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomąsias audiovizualinės žiniasklaidos paslaugas, iki išnyks šio straipsnio 2 dalyje nurodytos aplinkybės. Komisija, priimdama sprendimą, nustato konkretų terminą, nuo kada įsigalioja draudimas Lietuvos Respublikoje vykdyti transliavimo ir (ar) retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomųjų audiovizualinės žiniasklaidos paslaugų teikimo veiklą. Šis terminas negali būti trumpesnis negu Komisijos sprendimų apskundimo teismui terminas. Transliuotojas, retransliuotojas ar asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomąsias audiovizualinės žiniasklaidos paslaugas, privalo nutraukti transliavimo, retransliavimo ar televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikimo veiklą nuo sprendime nurodytos dienos, išskyrus atvejus, kai, Komisijos sprendimą apskundus teismui, teismas laikinai sustabdo Komisijos sprendimo galiojimą. Jeigu teismas, laikinai sustabdęs Komisijos sprendimo galiojimą, Komisijos sprendimo dėl transliavimo, retransliavimo ar televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomųjų audiovizualinės žiniasklaidos paslaugų veiklos uždraudimo nepanaikina, transliuotojas, retransliuotojas ar asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete arba užsakomąsias audiovizualinės žiniasklaidos paslaugas, privalo nutraukti šią veiklą nuo teismo sprendimo įsiteisėjimo dienos. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
 Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -2383,7 +2204,10 @@ Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
 
 
 
-9. Komisija, įvertinusi transliuojamos specialiosios televizijos programos kultūrinę ar visuomeninę vertę, gali transliuotojo prašymu jai suteikti privalomai retransliuojamos ir (ar) platinamos internete programos statusą ir numatyti, kad ją privalo nemokamai retransliuoti ir (ar) platinti internete programų retransliuotojai ir kiti asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas. Privalomai retransliuojamomis ir (ar) platinamomis internete televizijos programomis pripažįstamos tik specialios kultūros, švietimo, mokslo, žinių, sporto ar regioninės televizijos programos. Priimdama tokį sprendimą, Komisija apibrėžia retransliavimo ir (ar) platinimo internete mastą ir terminą.
+9. Komisija, įvertinusi transliuojamos televizijos programos kultūrinę ar visuomeninę vertę, gali transliuotojo prašymu jai suteikti privalomai retransliuojamos ir (ar) platinamos internete programos statusą ir numatyti, kad ją privalo nemokamai retransliuoti ir (ar) platinti internete programų retransliuotojai ir kiti asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas. Privalomai retransliuojamomis ir (ar) platinamomis internete televizijos programomis pripažįstamos tik specialios kultūros, švietimo, mokslo, žinių, sporto ar regioninės televizijos programos. Komisija, priimdama tokį sprendimą, apibrėžia retransliavimo ir (ar) platinimo internete mastą ir terminą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
 
 
 
@@ -2423,7 +2247,10 @@ Nr. XIII-1015, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01028
 
 
 
-14. Radijo ir (ar) televizijos programų transliuotojai, išskyrus LRT, retransliuotojai, asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas arba užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai, Komisijos nustatyta tvarka privalo teikti informaciją apie akcininkus (dalyvius, pajininkus), valdymo organų narius, vykdomą transliavimo ir (ar) retransliuojamų radijo ir (ar) televizijos programų parinkimo, teikimo skleisti ir skleidimo visuomenei veiklą, televizijos programų ir (ar) atskirų programų platinimo internete veiklą bei transliuojamų, retransliuojamų ir (ar) platinamų internete televizijos programų ir (ar) atskirų programų atitiktį šio įstatymo nustatytiems reikalavimams, Komisijos patvirtintoms taisyklėms dėl televizijos programų paketų sudarymo ir priimtiems sprendimams.
+14. Radijo ir (ar) televizijos programų transliuotojai, retransliuotojai, asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, arba užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjai Komisijos nustatyta tvarka privalo teikti informaciją apie vykdomą transliavimo ir (ar) retransliuojamų radijo ir (ar) televizijos programų parinkimo, teikimo skleisti ir skleidimo visuomenei veiklą, televizijos programų ir (ar) atskirų programų platinimo internete veiklą bei transliuojamų, retransliuojamų ir (ar) platinamų internete televizijos programų ir (ar) atskirų programų atitiktį šio įstatymo nustatytiems reikalavimams, Komisijos patvirtintoms taisyklėms dėl televizijos programų paketų sudarymo ir priimtiems sprendimams. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
 
 
 Straipsnio pakeitimai:
@@ -2496,23 +2323,23 @@ Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 
 
 
-341 straipsnis. Visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo laisvė ir apribojimai
+341 straipsnis. Audiovizualinės žiniasklaidos paslaugų teikimo laisvė ir apribojimai
 
 
-1. Lietuvos Respublikoje laiduojamas laisvas visuomenės informavimo audiovizualinėmis priemonėmis paslaugų priėmimas iš Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ir Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių Europos valstybių.
-
-
-
-
-2. Užsienyje parengtas radijo ir (ar) televizijos programas ir (ar) atskiras programas leidžiama transliuoti ir retransliuoti, platinti internete ar laikyti kataloguose Lietuvos Respublikoje nepažeidžiant šio ir kitų įstatymų nuostatų.
+1. Lietuvos Respublikoje laiduojamas laisvas audiovizualinės žiniasklaidos paslaugų priėmimas iš kitų Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ir Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių Europos valstybių.
 
 
 
 
-3. Iš Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių transliuojamų, retransliuojamų arba internete platinamų televizijos programų ar atskirų programų, kai perduodama tik atskira programa, ar užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų kataloguose esančių programų laisvas priėmimas Lietuvos Respublikoje laikinai sustabdomas, kai:
+2. Ne iš Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ir kitų Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių Europos valstybių teikiamas audiovizualinės žiniasklaidos paslaugas, radijo ir (ar) televizijos programas ir (ar) atskiras programas leidžiama transliuoti ir retransliuoti, platinti internete ar laikyti kataloguose Lietuvos Respublikoje nepažeidžiant šio ir kitų įstatymų nuostatų.
 
 
-1) šios programos rimtai ir sunkiai pažeidžia šio įstatymo 17 straipsnio, 19 straipsnio 1 dalies 3 punkto (kai kurstoma neapykanta, tyčiojimasis, niekinimas, kurstoma diskriminuoti, smurtauti, fiziškai susidoroti su žmonių grupe ar jai priklausančiu asmeniu dėl amžiaus, lyties, lytinės orientacijos, etninės priklausomybės, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, negalios, tikėjimo, įsitikinimų, pažiūrų ar religijos pagrindu), 4 ar 5 punkto reikalavimus po to, kai buvo nustatytos visos šios sąlygos:
+
+
+3. Iš Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių teikiamų audiovizualinės žiniasklaidos paslaugų, transliuojamų, retransliuojamų arba internete platinamų televizijos programų ar atskirų programų, kai perduodama tik atskira programa, ar užsakomųjų audiovizualinės žiniasklaidos paslaugų kataloguose esančių programų laisvas priėmimas (retransliavimas ir kitoks platinimas ar skleidimas) Lietuvos Respublikoje laikinai sustabdomas, kai:
+
+
+1) šios programos akivaizdžiai, rimtai ir sunkiai pažeidžia šio įstatymo 17 straipsnio, 19 straipsnio 1 dalies 3, 4 ar 5 punkto reikalavimus po to, kai buvo nustatytos visos šios sąlygos:
 
 
 a) toks pažeidimas per paskutinius 12 mėnesių buvo padarytas bent du kartus;
@@ -2520,12 +2347,12 @@ a) toks pažeidimas per paskutinius 12 mėnesių buvo padarytas bent du kartus;
 
 
 
-b) Komisija raštu pranešė visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjui, jurisdikciją turinčios Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės atsakingai institucijai ir Europos Komisijai apie įtariamus pažeidimus ir apie priemones, kurių Komisija ketina imtis, jeigu tokie pažeidimai pasikartos;
+b) Komisija raštu pranešė audiovizualinės žiniasklaidos paslaugų teikėjui, jurisdikciją turinčios Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės atsakingai institucijai ir Europos Komisijai apie įtariamus pažeidimus ir apie priemones, kurių Komisija ketina imtis, jeigu tokie pažeidimai pasikartos;
 
 
 
 
-c) Komisija visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjui suteikė teisę duoti paaiškinimus ir būti išklausytam dėl įtariamų pažeidimų ir priemonių, kurių ji ketina imtis, jeigu tokie pažeidimai pasikartos;
+c) Komisija audiovizualinės žiniasklaidos paslaugų teikėjui suteikė teisę duoti paaiškinimus ir būti išklausytam dėl įtariamų pažeidimų ir priemonių, kurių ji ketina imtis, jeigu tokie pažeidimai pasikartos;
 
 
 
@@ -2537,7 +2364,7 @@ d) konsultuojantis su jurisdikciją turinčios Europos Sąjungos valstybės nar�
 
 
 
-2) šios programos rimtai ir sunkiai pažeidžia šio įstatymo 19 straipsnio 1 dalies 1, 2 ar 3 punkto (kai skleidžiama karo propaganda, kurstomas karas) reikalavimus po to, kai buvo nustatytos visos šios sąlygos:
+2) šios programos akivaizdžiai, rimtai ir sunkiai pažeidžia šio įstatymo 19 straipsnio 1 dalies 1 ar 2 punkto reikalavimus po to, kai buvo nustatytos visos šios sąlygos:
 
 
 a) toks pažeidimas per paskutinius 12 mėnesių jau buvo padarytas;
@@ -2545,112 +2372,92 @@ a) toks pažeidimas per paskutinius 12 mėnesių jau buvo padarytas;
 
 
 
-b) Komisija pranešė visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjui, jurisdikciją turinčios Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės atsakingai institucijai ir Europos Komisijai apie įtariamą pažeidimą ir apie priemones, kurių Komisija ketina imtis, jeigu toks pažeidimas pasikartos;
+b) Komisija pranešė audiovizualinės žiniasklaidos paslaugų teikėjui, jurisdikciją turinčios Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės atsakingai institucijai ir Europos Komisijai apie įtariamą pažeidimą ir apie priemones, kurių Komisija ketina imtis, jeigu toks pažeidimas pasikartos;
 
 
 
 
-c) Komisija visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjui suteikė teisę duoti paaiškinimus ir būti išklausytam dėl įtariamo pažeidimo ir priemonių, kurių ji ketina imtis, jeigu toks pažeidimas pasikartos;
+c) Komisija audiovizualinės žiniasklaidos paslaugų teikėjui suteikė teisę duoti paaiškinimus ir būti išklausytam dėl įtariamo pažeidimo ir priemonių, kurių ji ketina imtis, jeigu toks pažeidimas pasikartos;
 
 
 
 
-d) Komisija gavo iš nacionalinį saugumą užtikrinančios ar kitos kompetentingos institucijos informaciją, kurią įvertinusi nustatė, kad įtariamas pažeidimas kenkia ar kelia rimtą ir didelį pavojų visuomenės saugumui, įskaitant nacionalinio saugumo ir gynybos užtikrinimą. 
-
-
-
-
-
-
-
-
-4. Skubiu atveju, ne vėliau kaip per vieną mėnesį nuo įtariamo pažeidimo dienos, Komisija gali taikyti šio straipsnio 3 dalyje nurodytas priemones – laikinai sustabdyti laisvą programų priėmimą Lietuvos Respublikoje ir nesilaikydama šio straipsnio 3 dalies 2 punkto a, b ir c papunkčiuose nurodytų sąlygų. Tokiu atveju Komisija apie taikomas priemones turi kuo greičiau pranešti Europos Komisijai ir Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės, kurios jurisdikcijai priklauso visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas, atsakingai institucijai, taip pat nurodyti priežastis, kodėl Komisija mano, kad tai yra skubus atvejis. Šios dalies reikalavimai taikomi tik imantis priemonių prieš visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėją, kuris priklauso Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės jurisdikcijai.
-
-
-
-
-5. Tais atvejais, kai Lietuvos Respublikos teisės aktuose nustatyti griežtesni ar išsamesni televizijos programų transliavimo reikalavimai, negu nustatyti Audiovizualinės žiniasklaidos paslaugų direktyvoje, o kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės jurisdikcijai priklausantis televizijos programų transliuotojas transliuoja televizijos programą, kurios visa ar didžioji dalis skirta Lietuvos Respublikos teritorijai, Komisija kreipiasi į jurisdikciją turinčios Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės atsakingą instituciją, kad būtų pasiektas abi valstybes tenkinantis bet kokios iškeltos problemos sprendimas. Tais atvejais, kai Lietuvos Respublikos jurisdikcijai priklausantis televizijos programų transliuotojas transliuoja televizijos programą, kurios visa ar didžioji dalis skirta kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teritorijai, nesilaikydamas tos valstybės teisės aktuose nustatytų griežtesnių ar išsamesnių televizijos programų transliavimo reikalavimų, negu nustatyti Audiovizualinės žiniasklaidos paslaugų direktyvoje, ir gavusi tos valstybės kompetentingos institucijos pagrįstą prašymą, Komisija kreipiasi į transliuotoją su prašymu laikytis atitinkamos valstybės nustatytų televizijos programų transliavimo reikalavimų. Ne vėliau kaip per du mėnesius nuo prašymo gavimo dienos Komisija informuoja prašymą pateikusios valstybės kompetentingą instituciją apie pasiektus prašyme iškeltos problemos sprendimo rezultatus.
-
-
-
-
-6. Jeigu Komisija nustato, kad šio straipsnio 5 dalyje nurodytu atveju iškeltai problemai spręsti pasiektų rezultatų nepakanka, o televizijos programų transliuotojas, kurio programos pažeidžia Lietuvos Respublikos teisės aktų reikalavimus, įsisteigė kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės jurisdikcijai priklausančioje valstybėje, siekdamas išvengti griežtesnių nurodytoms sritims keliamų reikalavimų, negu nustatyti Audiovizualinės žiniasklaidos paslaugų direktyvoje, taikomų Lietuvos Respublikoje įsisteigusiems televizijos programų transliuotojams, Komisija turi teisę nustatyti tam televizijos programų transliuotojui galimas taikyti objektyviai būtinas, taikomas nediskriminuojant ir proporcingas tikslams, kurių siekiama, tinkamas priemones ir jų imtis.
-
-
-
-
-7. Komisija taiko šio straipsnio 6 dalyje nurodytas priemones tik esant visoms šioms aplinkybėms:
-
-
-1) Komisija yra pranešusi Europos Komisijai ir Europos Sąjungos valstybei narei, kurioje įsisteigęs televizijos programų transliuotojas, apie ketinimą imtis šio straipsnio 6 dalyje nurodytų priemonių, nurodydama priežastis, kuriomis ji grindžia savo vertinimą;
-
-
-
-
-2) Europos Komisija nusprendžia, kad numatytos taikyti priemonės suderintos su Europos Sąjungos teise ir kad vertinimai, kuriuos Komisija atliko pagal šio straipsnio 5 ir 6 dalis imdamasi šių priemonių, yra tinkamai pagrįsti.
+d) Komisija gavo iš nacionalinį saugumą užtikrinančios ar kitos kompetentingos institucijos informaciją, kurią įvertinusi nustatė, kad įtariamas pažeidimas kenkia ar kelia rimtą ir didelį pavojų visuomenės saugumui, įskaitant nacionalinio saugumo ir gynybos užtikrinimą.
 
 
 
 
 
 
-8. Jeigu Europos Komisija nusprendžia, kad priemonės nesuderinamos su Europos Sąjungos teise, Komisija neturi teisės imtis pasiūlytų priemonių.
+
+
+4. Skubiu atveju, ne vėliau kaip per vieną mėnesį nuo įtariamo pažeidimo dienos, Komisija gali taikyti šio straipsnio 3 dalyje nurodytas priemones – laikinai sustabdyti laisvą programų priėmimą Lietuvos Respublikoje ir nesilaikydama šio straipsnio 3 dalies 2 punkto a, b ir c papunkčiuose nurodytų sąlygų. Tokiu atveju Komisija apie taikomas priemones turi kuo greičiau pranešti Europos Komisijai ir Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės, kurios jurisdikcijai priklauso audiovizualinės žiniasklaidos paslaugos teikėjas, atsakingai institucijai, taip pat nurodyti priežastis, kodėl Komisija mano, kad tai yra skubus atvejis. Šios dalies reikalavimai taikomi tik imantis priemonių prieš audiovizualinės žiniasklaidos paslaugų teikėją, kuris priklauso Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės jurisdikcijai.
 
 
 
 
-9. Iš ne Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ir kitų Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių Europos valstybių transliuojamų ar retransliuojamų arba internete platinamų televizijos programų ir (ar) atskirų programų, kai perduodama tik atskira programa, ar katalogų laisvas priėmimas Lietuvos Respublikoje gali būti sustabdytas Komisijos sprendimu, jeigu tokios valstybių televizijos programos ir (ar) atskiros programos, ir (ar) katalogai pažeidžia šio įstatymo 17 arba 19 straipsnių reikalavimus. Komisija savo sprendime nurodo, kokios priemonės ir nuo kada bus taikomos, siekiant sustabdyti minėtų televizijos programų ir (ar) atskirų programų, ir (ar) katalogų priėmimą Lietuvos Respublikos teritorijoje. Numatomos taikyti priemonės ir jų taikymo terminai turi būti proporcingi padarytiems pažeidimams, o taikoma priemonė turi būti parinkta atsižvelgiant į subjektą, kuriam ji taikoma, ir viešosios informacijos skleidimo būdą. 
+5. Kitais negu šio straipsnio 3 ir 4 dalyse nustatytais atvejais, kai Lietuvos Respublikos teisės aktuose nustatyti griežtesni ar išsamesni audiovizualinės žiniasklaidos paslaugos teikimo reikalavimai, o kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės jurisdikcijai priklausantis audiovizualinės žiniasklaidos paslaugos teikėjas teikia audiovizualinės žiniasklaidos paslaugą, kurios visa ar didžioji dalis skirta Lietuvos Respublikos teritorijai, Komisija kreipiasi į jurisdikciją turinčios Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės atsakingą instituciją, kad būtų pasiektas abi valstybes tenkinantis bet kokios iškeltos problemos sprendimas. Tais atvejais, kai Lietuvos Respublikos jurisdikcijai priklausantis audiovizualinės žiniasklaidos paslaugos teikėjas teikia audiovizualinės žiniasklaidos paslaugą, kurios visa ar didžioji dalis skirta kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teritorijai, nesilaikydamas tos valstybės teisės aktuose nustatytų griežtesnių ar išsamesnių audiovizualinės žiniasklaidos paslaugos teikimo reikalavimų, ir Komisija, gavusi tos valstybės kompetentingos institucijos pagrįstą prašymą, kreipiasi į audiovizualinės žiniasklaidos paslaugos teikėją su prašymu laikytis atitinkamos valstybės nustatytų audiovizualinės žiniasklaidos paslaugos teikimo reikalavimų. Ne vėliau kaip per 2 mėnesius nuo prašymo gavimo dienos Komisija informuoja prašymą pateikusios valstybės kompetentingą instituciją ir Europos Komisiją apie pasiektus prašyme iškeltos problemos sprendimo rezultatus.
 
 
 
 
-10. Pagal šio straipsnio  9 dalį priimtas Komisijos sprendimas dėl televizijos programų ir (ar) atskirų programų, ir (ar) katalogų priėmimo sustabdymo Lietuvos Respublikos teritorijoje ilgiau kaip 72 valandoms gali būti priimamas tik gavus Vilniaus apygardos administracinio teismo sankciją.
+6. Jeigu Komisija nustato, kad šio straipsnio 5 dalyje nurodytu atveju iškeltai problemai spręsti pasiektų rezultatų nepakanka, ir pateikia įrodymus, patvirtinančius, kad audiovizualinės žiniasklaidos paslaugos teikėjas, kurio teikiama audiovizualinės žiniasklaidos paslauga pažeidžia Lietuvos Respublikos teisės aktų reikalavimus, įsisteigė kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės jurisdikcijai priklausančioje valstybėje, siekdamas išvengti griežtesnių nurodytoms sritims keliamų reikalavimų, taikomų Lietuvos Respublikoje įsisteigusiems audiovizualinės žiniasklaidos paslaugos teikėjams, Komisija turi teisę nustatyti tam audiovizualinės žiniasklaidos paslaugos teikėjui, nereikalaudama iš jo įrodymų dėl jo ketinimo išvengti griežtesnių taisyklių, galimas taikyti objektyviai būtinas, taikomas nediskriminuojant ir proporcingas tikslams, kurių siekiama, tinkamas šiame įstatyme numatytas priemones ir jų imtis.
 
 
 
 
-11. Komisija Europos Tarybos konvencijos dėl televizijos be sienų objektu esančius pažeidimus sprendžia šioje konvencijoje nustatyta tvarka. Kai įtariamas pažeidimas nėra reguliuojamas Europos Tarybos konvencijos dėl televizijos be sienų, laisvas visuomenės informavimo audiovizualinėmis priemonėmis paslaugų priėmimas iš Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių valstybių stabdomas šio straipsnio 9 ir 10 dalyse nustatyta tvarka ir sąlygomis.
-Įstatymas papildytas straipsniu:
-Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
+7. Komisija taiko šio straipsnio 6 dalyje nurodytas priemones tik kai yra visos šios aplinkybės:
+
+
+1) Komisija yra pranešusi Europos Komisijai ir Europos Sąjungos valstybei narei ar Europos ekonominės erdvės valstybei, kurioje įsisteigęs audiovizualinės žiniasklaidos paslaugos teikėjas, apie ketinimą imtis šio straipsnio 6 dalyje nurodytų priemonių, nurodydama priežastis, kuriomis ji grindžia savo vertinimą;
+
+
+
+
+2) Komisija audiovizualinės žiniasklaidos paslaugų teikėjui suteikė teisę duoti paaiškinimus ir būti išklausytam dėl įtariamų pažeidimų ir priemonių, kurių ji ketina imtis;
+
+
+
+
+3) Europos Komisija nusprendžia, kad numatytos taikyti priemonės suderintos su Europos Sąjungos teise ir kad vertinimai, kuriuos Komisija atliko pagal šio straipsnio 5 ir 6 dalis imdamasi šių priemonių, yra tinkamai pagrįsti.
+
+
+
+
+
+
+8. Jeigu Europos Komisija nusprendžia, kad šio straipsnio 6 dalyje nurodytos priemonės nesuderinamos su Europos Sąjungos teise, Komisija neturi teisės imtis pasiūlytų priemonių. Komisijos pagal šio straipsnio 3 ir 4 dalis pritaikytos poveikio priemonės privalo būti atšauktos, jeigu Europos Komisija priima sprendimą dėl jų nesuderinamumo su Europos Sąjungos teise.
+
+
+
+
+9. Iš ne Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ir kitų Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių Europos valstybių teikiamų audiovizualinės žiniasklaidos paslaugų, transliuojamų ar retransliuojamų arba internete platinamų televizijos programų ir (ar) atskirų programų, kai perduodama tik atskira programa, ir (ar) katalogų laisvas priėmimas Lietuvos Respublikoje gali būti sustabdytas Komisijos sprendimu, jeigu tokios valstybių audiovizualinės žiniasklaidos paslaugos, televizijos programos ir (ar) atskiros programos, ir (ar) katalogai pažeidžia šio įstatymo 17 straipsnyje arba 19 straipsnio 1 dalyje nustatytus reikalavimus. Komisija savo sprendime nurodo, kokios priemonės ir nuo kada bus taikomos, siekiant sustabdyti minėtų audiovizualinės žiniasklaidos paslaugų, televizijos programų ir (ar) atskirų programų, ir (ar) katalogų priėmimą Lietuvos Respublikos teritorijoje. Numatomos taikyti priemonės ir jų taikymo terminai turi būti proporcingi padarytiems pažeidimams, o taikoma priemonė turi būti parinkta atsižvelgiant į subjektą, kuriam ji taikoma, ir viešosios informacijos skleidimo būdą.
+
+
+
+
+10. Pagal šio straipsnio 9 dalį priimamas Komisijos sprendimas dėl audiovizualinės žiniasklaidos paslaugų, televizijos programų ir (ar) atskirų programų, ir (ar) katalogų priėmimo sustabdymo Lietuvos Respublikos teritorijoje ilgiau kaip 72 valandoms gali būti priimtas tik gavus Vilniaus apygardos administracinio teismo sankciją.
+
+
+
+
+11. Komisija Europos Tarybos konvencijos dėl televizijos be sienų objektu esančius pažeidimus sprendžia šioje konvencijoje nustatyta tvarka. Kai įtariamas pažeidimas nėra reguliuojamas Europos Tarybos konvencijos dėl televizijos be sienų, laisvas audiovizualinės žiniasklaidos paslaugų priėmimas iš Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusių valstybių stabdomas šio straipsnio 9 ir 10 dalyse nustatyta tvarka ir sąlygomis. 
+
+
 Straipsnio pakeitimai:
+Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
-
-
 Straipsnio pakeitimai:
 Nr. XIII-2088, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07397
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
 
 
-342 straipsnis. Informacija apie visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėją 
-
-
-Visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai privalo sudaryti paslaugų gavėjams galimybę nesudėtingu būdu, tiesiogiai ir nuolat Komisijos nustatyta tvarka gauti šią informaciją:
-
-
-1) visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo pavadinimą;
-
-
-
-
-2) buveinės adresą, kuriuo visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas yra įsisteigęs;
-
-
-
-
-3) visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo duomenis, įskaitant jo elektroninio pašto adresą ar interneto svetainės adresą, pagal kuriuos į jį galima greitai, tiesiogiai ir veiksmingai kreiptis;
-
-
-
-
-4) veiklos reglamentavimo ir savitvarkos institucijų pavadinimą, adresą ir telefoną.
-
-
-
-
-Įstatymas papildytas straipsniu:
-Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
+342 straipsnis. Neteko galios nuo 2021-02-01
+Straipsnio naikinimas:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -2697,7 +2504,7 @@ Nr. XI-1048, 2010-09-30, Žin., 2010, Nr. 123-6262 (2010-10-18)
 
 
 
-37 straipsnis. Europos audiovizualiniai kūriniai
+37 straipsnis. Europos audiovizualiniai kūriniai ir jų sklaidai keliami reikalavimai
 
 
 1. Europos audiovizualiniais kūriniais (toliau – Europos kūriniai) laikomi kūriniai:
@@ -2715,7 +2522,7 @@ Nr. XI-1048, 2010-09-30, Žin., 2010, Nr. 123-6262 (2010-10-18)
 
 
 
-2. Šio straipsnio 1 dalies 1 ir 2 punktai taikomi tuo atveju, jei kūriniams, sukurtiems Lietuvos Respublikoje ar Europos Sąjungos valstybėse narėse, diskriminacinės priemonės šio straipsnio 1 dalies 1 ir 2 punktuose numatytose šalyse netaikomos.
+2. Šio straipsnio 1 dalies 1 ir 2 punktai taikomi tuo atveju, jeigu kūriniams, sukurtiems Lietuvos Respublikoje ar kitose Europos Sąjungos valstybėse narėse, diskriminacinės priemonės šio straipsnio 1 dalies 1 ir 2 punktuose numatytose valstybėse netaikomos.
 
 
 
@@ -2725,30 +2532,47 @@ Nr. XI-1048, 2010-09-30, Žin., 2010, Nr. 123-6262 (2010-10-18)
 
 
 
-4. Kūriniai, kurie, remiantis šio straipsnio 1 ir 2 dalių nuostatomis, neturėtų būti laikomi Europos kūriniais, bet iš esmės yra sukurti bendradarbiaujant su autoriais ir kūrėjais, gyvenančiais vienoje ar keliose Europos Sąjungos valstybėse narėse, traktuojami kaip Europos kūriniai tokiu mastu, kuris atitinka Europos Sąjungos valstybėse narėse įsisteigusių kūrėjų įnašą į šių kūrinių bendro kūrimo (gamybos) išlaidas. 
+4. Kūriniai, kurie, remiantis šio straipsnio 1 ir 2 dalių nuostatomis, neturėtų būti laikomi Europos kūriniais, bet iš esmės yra sukurti bendradarbiaujant su autoriais ir kūrėjais, gyvenančiais vienoje ar keliose Europos Sąjungos valstybėse narėse, traktuojami kaip Europos kūriniai tokiu mastu, kuris atitinka Europos Sąjungos valstybėse narėse įsisteigusių kūrėjų įnašą į šių kūrinių bendro kūrimo (gamybos) išlaidas.
+
+
+
+
+5. Televizijos programų transliuotojai daugiau kaip pusę televizijos programos laiko, kuris lieka atėmus laiką, skirtą žinių, sporto, žaidimų, reklamos programoms, teleteksto paslaugoms ir teleparduotuvei, kai tai yra įmanoma, turi skirti Europos kūriniams ir ne mažiau kaip 10 procentų televizijos programos laiko, kuris lieka atėmus laiką, skirtą žinių, sporto, žaidimų, reklamos programoms, teleteksto paslaugoms ir teleparduotuvei, kai tai yra įmanoma, turi skirti Europos kūriniams, sukurtiems nepriklausomų kūrėjų ne anksčiau kaip per pastaruosius 5 metus. Šios dalies reikalavimai netaikomi vietinėms televizijos programoms.
+
+
+
+
+6. Užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjai užtikrina, kad ne mažiau kaip 30 procentų programų užsakomųjų audiovizualinės žiniasklaidos paslaugų kataloge būtų Europos kūriniai. Šios dalies reikalavimai netaikomi tiems užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjams, kurių bendra metinė apyvarta, įskaitant jų ir su jais susijusių įmonių apyvartą, yra maža (sudaro mažiau kaip vieną procentą bendrų pajamų, gaunamų iš Lietuvos audiovizualinių paslaugų rinkos) arba kurių auditorija yra nedidelė (užsakomosios audiovizualinės žiniasklaidos paslaugos auditorijos dalis Lietuvoje nesiekia vieno procento).
+
+
+
+
+7. Komisija kas 2 metus pateikia Europos Komisijai ataskaitas, kaip įgyvendintos šio straipsnio 5 ir 6 dalių nuostatos. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
+Straipsnio pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
 
 
-38 straipsnis. Radijo ir televizijos programoms keliami reikalavimai
+38 straipsnis. Visuomenei reikšmingų įvykių prieiga ir kiti radijo ir televizijos programoms keliami reikalavimai
 
 
-1. Televizijos programų transliuotojai savo reguliariai transliuojamose programose turi teisę laisvai rengti ir rodyti trumpus (ne ilgesnius kaip 90 sekundžių) naujienų pranešimus apie visuomenei reikšmingus Lietuvos ir kitų šalių įvykius, apie kuriuos teikti informaciją visuomenei kiti televizijos programų transliuotojai yra įsigiję išimtinę teisę. Trumpi naujienų pranešimai turi būti transliuojami ne anksčiau kaip pasibaigus tiesioginei visuomenei reikšmingo įvykio transliacijai. Televizijos programų transliuotojai nemoka už trumpų naujienų pranešimų transliavimą televizijos programų transliuotojams, kurie yra įsigiję išimtinę teisę teikti informaciją apie visuomenei reikšmingą įvykį, išskyrus atvejus, kai prieigos prie visuomenei reikšmingų įvykių suteikimas pareikalauja papildomų sąnaudų iš prieigą suteikiančio televizijos programų transliuotojo. Užmokestis už prieigos prie visuomenei reikšmingų įvykių suteikimą negali būti didesnis už papildomas sąnaudas, tiesiogiai patirtas teikiant prieigą. 
-
-
-
-
-2. Visi Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje įsisteigę televizijos programų transliuotojai, norintys parengti trumpus naujienų pranešimus, sąžiningomis, pagrįstomis ir nediskriminacinėmis sąlygomis turi teisę į prieigą prie visuomenei reikšmingų įvykių, kurie išskirtinėmis teisėmis transliuojami Lietuvos Respublikos jurisdikcijai priklausančio visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo.
+1. Televizijos programų transliuotojai savo reguliariai transliuojamose programose turi teisę laisvai rengti ir rodyti trumpus (ne ilgesnius kaip 90 sekundžių) naujienų pranešimus apie visuomenei reikšmingus Lietuvos ir kitų šalių įvykius, apie kuriuos teikti informaciją visuomenei kiti televizijos programų transliuotojai yra įsigiję išimtinę teisę. Trumpi naujienų pranešimai turi būti transliuojami ne anksčiau kaip pasibaigus tiesioginei visuomenei reikšmingo įvykio transliacijai. Televizijos programų transliuotojai nemoka už trumpų naujienų pranešimų transliavimą televizijos programų transliuotojams, kurie yra įsigiję išimtinę teisę teikti informaciją apie visuomenei reikšmingą įvykį, išskyrus atvejus, kai prieigos prie visuomenei reikšmingų įvykių suteikimas pareikalauja papildomų sąnaudų iš prieigą suteikiančio televizijos programų transliuotojo. Užmokestis už prieigos prie visuomenei reikšmingų įvykių suteikimą negali būti didesnis už papildomas sąnaudas, tiesiogiai patirtas teikiant prieigą.
 
 
 
 
-3. Jeigu kitas televizijos programų transliuotojas, įsisteigęs toje pačioje valstybėje narėje kaip ir prieigos prie visuomenei reikšmingų įvykių prašantis televizijos programų transliuotojas, įsigijo išskirtinių teisių, susijusių su tam tikru visuomenei reikšmingu įvykiu, prieigos turi būti prašoma iš šio televizijos programų transliuotojo.
+2. Visi Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje įsisteigę televizijos programų transliuotojai, norintys parengti trumpus naujienų pranešimus, sąžiningomis, pagrįstomis ir nediskriminacinėmis sąlygomis turi teisę į prieigą prie visuomenei reikšmingų įvykių, kurie išskirtinėmis teisėmis transliuojami Lietuvos Respublikos jurisdikcijai priklausančio audiovizualinės žiniasklaidos paslaugų teikėjo.
+
+
+
+
+3. Jeigu kitas televizijos programų transliuotojas, įsisteigęs toje pačioje valstybėje narėje kaip ir prieigos prie visuomenei reikšmingų įvykių prašantis televizijos programų transliuotojas, įsigijo išskirtinių teisių, susijusių su tam tikru visuomenei reikšmingu įvykiu, prieigos prie visuomenei reikšmingų įvykių turi būti prašoma iš šio televizijos programų transliuotojo.
 
 
 
@@ -2758,12 +2582,12 @@ Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 
 
 
-5. Trumpi naujienų pranešimai gali būti naudojami tik bendro pobūdžio žinių programose, o teikiant užsakomąsias visuomenės informavimo audiovizualinėmis priemonėmis paslaugas naudojami tik tuo atveju, jeigu tą pačią programą netiesioginio transliavimo forma siūlo tas pats visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas.
+5. Trumpi naujienų pranešimai gali būti naudojami tik bendro pobūdžio žinių programose, o teikiant užsakomąsias audiovizualinės žiniasklaidos paslaugas naudojami tik tuo atveju, jeigu tą pačią programą netiesioginio transliavimo forma siūlo tas pats audiovizualinės žiniasklaidos paslaugų teikėjas.
 
 
 
 
-6. Transliuojant televizijos programas, skirtas visuomenei reikšmingiems įvykiams, laikomasi šių reikalavimų: 
+6. Transliuojant televizijos programas, skirtas visuomenei reikšmingiems įvykiams, laikomasi šių reikalavimų:
 
 
 1) Lietuvos Respublikos jurisdikcijai priklausantys televizijos programų transliuotojai, įsigiję išimtines teises transliuoti programas, skirtas Lietuvoje ar už jos ribų vykstantiems visuomenei reikšmingiems įvykiams, turi visuomenei reikšmingus įvykius tiesiogiai arba netiesiogiai transliuoti tik nekoduotose ir visuomenei be jokio užmokesčio transliuojamose nacionalinėse televizijos programose, siunčiamose bet kokių technologinių formų televizijos tinklais ir priimamose teritorijoje, kurioje gyvena daugiau kaip 60 procentų Lietuvos Respublikos gyventojų. Netiesioginės visuomenei reikšmingų įvykių transliacijos turi būti rodomos ne vėliau kaip per 24 valandas nuo visuomenei reikšmingo įvykio pabaigos;
@@ -2771,12 +2595,12 @@ Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 
 
 
-2) išskirtines viso ar dalies visuomenei reikšmingo įvykio transliacijos teises turintis Lietuvos Respublikos jurisdikcijai priklausantis televizijos transliuotojas, negalintis užtikrinti šios dalies 1 punkte nustatytų sąlygų, privalo per protingą terminą iki visuomenei reikšmingo įvykio imtis visų įmanomų priemonių tokias teises perleisti kitam televizijos transliuotojui, kad būtų užtikrinta šio įvykio transliacija pagal šios dalies 1 punkte nustatytas sąlygas; 
+2) išskirtines viso ar dalies visuomenei reikšmingo įvykio transliacijos teises turintis Lietuvos Respublikos jurisdikcijai priklausantis televizijos transliuotojas, negalintis užtikrinti šios dalies 1 punkte nustatytų sąlygų, privalo per protingą terminą iki visuomenei reikšmingo įvykio imtis visų įmanomų priemonių tokias teises perleisti kitam televizijos transliuotojui, kad būtų užtikrinta šio įvykio transliacija pagal šios dalies 1 punkte nustatytas sąlygas;
 
 
 
 
-3) Lietuvos Respublikos jurisdikcijai priklausantys televizijos programų transliuotojai negali naudotis išimtinėmis teisėmis transliuoti programas, skirtas Lietuvoje ar už jos ribų vykstantiems visuomenei reikšmingiems įvykiams, tokiu būdu, kad didžioji kitoje Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje ar kitoje Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusioje valstybėje gyvenančių žmonių dalis netektų galimybės stebėti Lietuvoje ar už jos ribų vykstančių įvykių, kurie šios valstybės teisės aktais įteisinti kaip visuomenei reikšmingi. Programos apie šiuos įvykius transliuojamos laikantis toje valstybėje nustatytos transliavimo tvarkos; 
+3) Lietuvos Respublikos jurisdikcijai priklausantys televizijos programų transliuotojai negali naudotis išimtinėmis teisėmis transliuoti programas, skirtas Lietuvoje ar už jos ribų vykstantiems visuomenei reikšmingiems įvykiams, tokiu būdu, kad didžioji kitoje Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje ar kitoje Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusioje valstybėje gyvenančių žmonių dalis netektų galimybės stebėti Lietuvoje ar už jos ribų vykstančių įvykių, kurie šios valstybės teisės aktais įteisinti kaip visuomenei reikšmingi. Programos apie šiuos įvykius transliuojamos laikantis toje valstybėje nustatytos transliavimo tvarkos;
 
 
 
@@ -2788,42 +2612,29 @@ Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 
 
 
-7. Komisijos parengtą Lietuvos Respublikos visuomenei reikšmingų įvykių sąrašą tvirtina Vyriausybė jos įgaliotos institucijos visuomenės informavimo srityje teikimu.
+7. Komisijos parengtą Lietuvos Respublikos visuomenei reikšmingų įvykių sąrašą tvirtina Vyriausybė jos įgaliotos institucijos teikimu.
 
 
 
 
-8. Televizijos programų transliuotojai daugiau kaip pusę televizijos programos laiko, kuris lieka atėmus laiką, skirtą žinių, sporto, žaidimų, reklamos programoms, teleteksto paslaugoms ir teleparduotuvei, kai tai įmanoma, turi skirti Europos kūriniams. 
+8. Lietuvos Respublikos jurisdikcijai priklausantys audiovizualinės žiniasklaidos paslaugų teikėjai kinematografinius kūrinius turi perduoti tuo laikotarpiu, dėl kurio buvo susitarta su teisių turėtojais.
 
 
 
 
-9. Televizijos programų transliuotojai ne mažiau kaip 10 procentų televizijos programos laiko, kuris lieka atėmus laiką, skirtą žinių, sporto, žaidimų, reklamos programoms, teleteksto paslaugoms ir teleparduotuvei, kai tai įmanoma, turi skirti Europos kūriniams, sukurtiems nepriklausomų kūrėjų ne anksčiau kaip per pastaruosius 5 metus. 
+9. Radijo ir (ar) televizijos programoje ne rečiau kaip vieną kartą per valandą turi būti skelbiamas transliuojamos ar retransliuojamos radijo ir (ar) televizijos programos pavadinimas. Jeigu radijo ir (ar) televizijos programos trukmė yra trumpesnė kaip viena valanda, tokios radijo ir (ar) televizijos programos pavadinimas skelbiamas jos pabaigoje.
 
 
 
 
-10. Kiti reikalavimai, keliami radijo ir (ar) televizijos programoms, nustatyti šiame, Lietuvos nacionalinio radijo ir televizijos įstatyme, kituose įstatymuose, taip pat radijo ir (ar) televizijos programų transliuotojams išduotose licencijose. 
-
-
-
-
-11. Lietuvos Respublikos jurisdikcijai priklausantys visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai kinematografinius kūrinius turi perduoti tuo laikotarpiu, dėl kurio buvo susitarta su teisių turėtojais. 
-
-
-
-
-12. Radijo ir (ar) televizijos programoje ne rečiau kaip vieną kartą per valandą turi būti skelbiamas transliuojamos ar retransliuojamos radijo ir (ar) televizijos programos pavadinimas. Jeigu radijo ir (ar) televizijos programos trukmė yra trumpesnė kaip viena valanda, tokios radijo ir (ar) televizijos programos pavadinimas skelbiamas jos pabaigoje.
-
-
-
-
-13. Šio straipsnio 8 ir 9 dalyse nurodyti reikalavimai netaikomi vietinėms televizijos programoms.
+10. Kiti reikalavimai, keliami radijo ir (ar) televizijos programoms, nustatyti šiame įstatyme, Lietuvos nacionalinio radijo ir televizijos įstatyme, kituose įstatymuose, taip pat radijo ir (ar) televizijos programų transliuotojams išduotose licencijose. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
+Straipsnio pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -2832,87 +2643,90 @@ Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
 39 straipsnis. Reklamai ir komerciniams audiovizualiniams pranešimams keliami reikalavimai
 
 
-1. Reklama, komerciniai audiovizualiniai pranešimai turi būti padorūs, teisingi ir aiškiai atpažįstami. Reklamoje, komerciniuose audiovizualiniuose pranešimuose draudžiama skelbti informaciją, kurioje žeminamas žmogaus orumas, diskriminuojama ar skatinama diskriminuoti dėl rasės, lyties, seksualinės orientacijos ar etninės kilmės, tautybės, pilietybės, religijos arba tikėjimo, negalios, amžiaus, taip pat neturi būti įžeidžiami religiniai jausmai ar politiniai įsitikinimai, skatinamas sveikatai ar saugai pavojingas elgesys, taip pat aplinkos apsaugai ypač žalingas elgesys.
+1. Reklama, komerciniai audiovizualiniai pranešimai turi būti padorūs, teisingi ir aiškiai atpažįstami. Paslėpta reklama, paslėpti komerciniai audiovizualiniai pranešimai draudžiami. 
 
 
 
 
-2. Reklama, komerciniai audiovizualiniai pranešimai neturi klaidinti vartotojo ir jam kenkti.
+2. Visuomenės informavimo priemonėse draudžiami reklama ir komerciniai audiovizualiniai pranešimai, kuriuose:
+
+
+1) naudojamos pasąmonę veikiančios technologijos;
 
 
 
 
-3. Reklama, komerciniai audiovizualiniai pranešimai neturi daryti neigiamo poveikio nepilnamečių psichikos sveikatai, fiziniam, protiniam ar doroviniam vystymuisi ir turi atitikti šiuos reikalavimus: 
-
-
-1) neturi tiesiogiai skatinti nepilnamečių pirkti ar išsinuomoti, ar rinktis prekę ar paslaugą, naudojantis nepilnamečių nepatyrimu ir patiklumu;
+2) skleidžiama klaidinanti reklama;
 
 
 
 
-2) neturi tiesiogiai skatinti nepilnamečių įtikinėti savo tėvus ar kitus asmenis pirkti reklamuojamas prekes ar paslaugas;
+3) žeminamas žmogaus orumas;
 
 
 
 
-3) neturi formuoti nepilnamečių nuomonės, kad tam tikrų paslaugų ar prekių naudojimas suteiks jiems fizinį, psichologinį ar socialinį pranašumą prieš bendraamžius;
+4) diskriminuojama ar skatinama diskriminuoti dėl amžiaus, lyties, lytinės orientacijos, etninės priklausomybės, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, negalios, tikėjimo, įsitikinimų, pažiūrų ar religijos;
 
 
 
 
-4) juose neturi būti naudojamasi nepilnamečių pasitikėjimu tėvais, mokytojais ar kitais asmenimis;
+5) skatinamas sveikatai ar saugai pavojingas elgesys, taip pat aplinkos apsaugai ypač žalingas elgesys;
 
 
 
 
-5) neturi rodyti nepilnamečių, patekusių į pavojingas situacijas, kai nėra viešojo intereso.
+6) reklamuojami tabako gaminiai, elektroninės cigaretės ir (ar) jų pildyklės, rūkomieji žoliniai gaminiai, kaip tai nustatyta Tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme;
+
+
+
+
+7) reklamuojami alkoholio produktai, kaip tai nustatyta Alkoholio kontrolės įstatyme;
+
+
+
+
+8) reklamuojami tik su receptu įsigyjami vaistiniai preparatai, kaip tai nustatyta Farmacijos įstatyme, ar gydytojų skiriamo gydymo paslaugos, išskyrus specialius leidinius ar specialias visuomenės informavimo priemones;
+
+
+
+
+9) daromas neigiamas poveikis nepilnamečių psichikos sveikatai, fiziniam, protiniam ar doroviniam vystymuisi, kaip tai nustatyta Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatyme;
+
+
+
+
+10) reklamuojami azartiniai lošimai, kaip tai nustatyta Azartinių lošimų įstatyme;
+
+
+
+
+11) reklamuojamos loterijos, kaip tai nustatyta Loterijų įstatyme;
+
+
+
+
+12) pažeidžiami kiti bendrieji reikalavimai reklamai, nustatyti Reklamos įstatyme.
 
 
 
 
 
 
-4. Reklamos, komercinių audiovizualinių pranešimų užsakovai neturi teisės daryti įtakos viešosios informacijos turiniui, išskyrus jų pačių užsakomos reklamos, komercinio audiovizualinio pranešimo turinį.
+3. Reklamos, komercinių audiovizualinių pranešimų užsakovai neturi teisės daryti įtakos viešosios informacijos turiniui, išskyrus jų pačių užsakomos reklamos, komercinio audiovizualinio pranešimo turinį.
 
 
 
 
-5. Paslėpta reklama, paslėpti komerciniai audiovizualiniai pranešimai draudžiami.
+4. Asmenys, reguliariai vedantys žinių programas, negali dalyvauti nei reklamoje, nei komerciniuose audiovizualiniuose pranešimuose, nei jų įgarsinti.
 
 
 
 
-6. Reklamoje, komerciniuose audiovizualiniuose pranešimuose draudžiama naudoti pasąmonę veikiančias technologijas.
+5. Televizijos reklamai, anonsui, teleparduotuvei ir televitrinai keliami šie reikalavimai:
 
 
-
-
-7. Tabako gaminių reklama, komerciniai audiovizualiniai pranešimai, skirti tabako gaminių reklamai, draudžiami. 
-
-
-
-
-8. Alkoholio produktų reklamos, komercinių audiovizualinių pranešimų, skirtų alkoholio produktų reklamai, apribojimus nustato Alkoholio kontrolės įstatymas.
-
-
-
-
-9. Visuomenės informavimo priemonėse, išskyrus specialius leidinius ar specialias informacinės visuomenės informavimo priemones, neleidžiama reklamuoti gydytojų skiriamo gydymo paslaugų ir vaistinių preparatų, kurie įsigyjami tik su receptu. Kitų vaistinių preparatų reklamai taikomos Lietuvos Respublikos farmacijos įstatymo nuostatos. Vaistinių preparatų teleparduotuvės, taip pat gydytojų skiriamo gydymo paslaugų teleparduotuvės yra draudžiamos. 
-Pastaba. 9 dalies nuostatos netaikomos televizijos programų transliuotojams, iki įstatymo (Nr. XII-557) įsigaliojimo (2013-11-07) įsigijusiems išimtines teises transliuoti programas, skirtas Lietuvoje ar už jos ribų vykstantiems visuomenei reikšmingiems įvykiams, iki sutarčių dėl šių įvykių transliavimo pabaigos, bet ne ilgiau kaip 2 metus nuo visuomenei reikšmingų įvykių sąrašo ir šių įvykių transliavimo sąlygų paskelbimo Europos Sąjungos oficialiajame leidinyje.
-
-
-
-
-10. Asmenys, reguliariai vedantys žinių programas, negali dalyvauti nei reklamoje, nei komerciniuose audiovizualiniuose pranešimuose, nei jų įgarsinti.
-
-
-
-
-11. Teleparduotuvei ir televizijos reklamai ir keliami šie reikalavimai: 
-
-
-1) teleparduotuvė ir televizijos reklama turi būti padorios, neklaidinančios, aiškiai atpažįstamos ir atskirtos nuo programos turinio garsinėmis ir (ar) optinėmis, ir (ar) erdvinėmis priemonėmis. Televizijos reklama ir teleparduotuvė gali būti įterpiamos į programas tik šiame straipsnyje nustatytais atvejais ir tvarka, nepakenkiant atskiros programos vientisumui, atsižvelgiant į natūralias programos pertraukas, programos trukmę ir pobūdį ir nepažeidžiant turtinių teisių turėtojų teisių;
-Pastaba. 11 dalies 1 punkto nuostatos netaikomos televizijos programų transliuotojams, iki įstatymo  (Nr. XII-557) įsigaliojimo (2013-11-07) įsigijusiems išimtines teises transliuoti programas, skirtas Lietuvoje ar už jos ribų vykstantiems visuomenei reikšmingiems įvykiams, iki sutarčių dėl šių įvykių transliavimo pabaigos, bet ne ilgiau kaip 2 metus nuo visuomenei reikšmingų įvykių sąrašo ir šių įvykių transliavimo sąlygų paskelbimo Europos Sąjungos oficialiajame leidinyje.
+1) televizijos reklama ir teleparduotuvė turi būti padorios, neklaidinančios, aiškiai atpažįstamos ir atskirtos nuo programos turinio garsinėmis ir (ar) optinėmis, ir (ar) erdvinėmis priemonėmis. Televizijos reklama ir teleparduotuvė gali būti įterpiamos į programas tik šiame straipsnyje nustatytais atvejais ir tvarka, nepakenkiant atskiros programos vientisumui, atsižvelgiant į natūralias programos pertraukas, programos trukmę ir pobūdį ir nepažeidžiant programos turtinių teisių turėtojų teisių;
 
 
 
@@ -2922,111 +2736,94 @@ Pastaba. 11 dalies 1 punkto nuostatos netaikomos televizijos programų transliuo
 
 
 
-3) televizijos reklama ir teleparduotuvė turi būti įterpiamos į programas sugrupuotos, ne mažiau kaip po dvi televizijos reklamas ir (ar) teleparduotuves viename intarpe. Sporto renginių transliavimo metu šios dalies 6 punkte nustatyta tvarka arba kitais Komisijos nustatytais išimtiniais atvejais į programas gali būti įterpiama viena televizijos reklama ar viena teleparduotuvė; 
-Papildyta straipsnio punktu:
-Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
- 
+3) televizijos reklama ir teleparduotuvė turi būti įterpiamos į programas sugrupuotos, ne mažiau kaip po dvi televizijos reklamas ir (ar) teleparduotuves viename intarpe. Sporto renginių transliavimo metu šios dalies 6 punkte nustatyta tvarka arba kitais Komisijos nustatytais išimtiniais atvejais į programas gali būti įterpiama viena televizijos reklama ar viena teleparduotuvė;
 
 
 
 
-4) televizijos reklamos, teleparduotuvės intarpams skirtas suminis laikas per vieną astronominę transliavimo valandą turi sudaryti ne daugiau kaip 20 procentų. Šis punktas netaikomas paties televizijos programų transliuotojo transliuojamų programų ir su jomis tiesiogiai susijusių pagalbinių produktų anonsams, rėmimo pranešimams ir prekių rodymui;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
- 
+4) televizijos reklamos, teleparduotuvės intarpams skirtas suminis laikas turi sudaryti ne daugiau kaip 20 procentų laiko per laikotarpį nuo 6 iki 18 valandos ir ne daugiau kaip 20 procentų laiko per laikotarpį nuo 18 iki 24 valandos. Šis punktas netaikomas paties televizijos programų transliuotojo arba kitų tai pačiai transliuotojų grupei priklausančių subjektų transliuojamų programų ir su jomis tiesiogiai susijusių pagalbinių produktų, audiovizualinės žiniasklaidos paslaugų anonsams, rėmimo pranešimams, prekių rodymui ir neutraliems kadrams, kurie naudojami tarp redakcinio turinio ir televizijos reklamos ar teleparduotuvės intarpų bei tarp atskirų intarpų;
 
 
 
 
-5) televitrinos mažiausia nepertraukiama trukmė turi būti ne trumpesnė kaip 15 minučių. Per dieną gali būti transliuojamos ne daugiau kaip 8 televitrinos, o jų bendra trukmė neturi viršyti trijų valandų per dieną. Televitrinos turi būti aiškiai atskiriamos optinėmis ir erdvinėmis priemonėmis nuo kitų programų;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
- 
+5) televitrinos mažiausia nepertraukiama trukmė turi būti ne trumpesnė kaip 15 minučių. Per parą gali būti transliuojamos ne daugiau kaip 8 televitrinos, o jų bendra trukmė neturi viršyti 3 valandų per parą. Televitrinos turi būti aiškiai atskiriamos optinėmis ir erdvinėmis priemonėmis nuo kitų programų;
 
 
 
 
 6) sporto ar kitų renginių, kuriuose daromos natūralios pertraukos, transliavimo metu televizijos reklamos ir (ar) teleparduotuvės intarpai turi būti rodomi tik per minėtų renginių natūralias pertraukas;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
- 
 
 
 
 
-7) transliuojant televizijos filmus (išskyrus kelių serijų filmus, serialus ir dokumentinius filmus), kinematografijos kūrinius ir žinių programas televizijos reklama ir (ar) teleparduotuvė gali būti rodomos vieną kartą per programoje nustatytą ne trumpesnį kaip 30 minučių laikotarpį;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
- 
+7) transliuojant televizijos filmus (išskyrus kelių serijų filmus, serialus ir dokumentinius filmus), kinematografijos kūrinius ir žinių programas, televizijos reklama ir (ar) teleparduotuvė gali būti rodomos vieną kartą per programoje nustatytą ne trumpesnį kaip 30 minučių laikotarpį;
 
 
 
 
-8) transliuojant vaikams skirtas programas, televizijos reklama ir (ar) teleparduotuvė gali būti rodomos vieną kartą per kiekvieną programoje nustatytą ne trumpesnį kaip 30 minučių laikotarpį, jeigu numatoma jos trukmė yra ilgesnė kaip 30 minučių;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
- 
+8) transliuojant programas vaikams, televizijos reklama gali būti rodoma vieną kartą per kiekvieną programoje nustatytą ne trumpesnį kaip 30 minučių laikotarpį, jeigu numatoma jos trukmė yra ilgesnė kaip 30 minučių. Teleparduotuvė negali būti įterpiama į programas vaikams;
 
 
 
 
-9) įterpti televizijos reklamą ir (ar) teleparduotuvę į retransliuojamas televizijos programas ar atskiras programas draudžiama.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XII-2239, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00368
- 
+9) įterpti televizijos reklamą ir (ar) teleparduotuvę į retransliuojamas televizijos programas ar atskiras programas draudžiama;
+
+
+
+
+10) vaistinių preparatų teleparduotuvės, taip pat gydytojų skiriamo gydymo paslaugų teleparduotuvės yra draudžiamos.
 
 
 
 
 
 
-12. Televizijos reklamai taikomi ir kituose teisės aktuose nustatyti reklamos ir jos skleidimo reikalavimai.
+6. Televizijos reklamai taikomi ir kituose įstatymuose nustatyti reklamos ir jos skleidimo reikalavimai.
 
 
 
 
-13. Kaip laikomasi šio ir kitų įstatymų nustatytų reikalavimų reklamai, kontroliuoja Valstybinė vartotojų teisių apsaugos tarnyba ir Komisija, bendradarbiaudamos su kitomis viešosios informacijos rengėjų ir (ar) skleidėjų veiklos reguliavimo institucijomis ir reklamos savitvarkos institucijomis.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2013, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05346
- 
+7. Kaip laikomasi šio ir kitų įstatymų nustatytų reikalavimų, taikomų reklamai ir komerciniams audiovizualiniams pranešimams, kontroliuoja Valstybinė vartotojų teisių apsaugos tarnyba, kitos Reklamos įstatyme ir kituose įstatymuose nurodytos reklamos priežiūros institucijos ir Komisija, bendradarbiaudamos su kitomis šiame įstatyme nurodytomis viešosios informacijos rengėjų ir (ar) skleidėjų veiklos reglamentavimo ir savitvarkos institucijomis ir reklamos savitvarkos institucijomis.
 
 
 
 
-14. Šio įstatymo nuostatos, išskyrus 38 straipsnio 8, 9 dalyse ir šio straipsnio 11 dalies 1, 3 punktuose nurodytus atvejus, mutatis mutandis taikomos televizijos programoms, skirtoms tik televizijos reklamai ir teleparduotuvėms, taip pat televizijos programoms, skirtoms tik savireklamai.
+8. Šio įstatymo nuostatos, išskyrus šio įstatymo 37 straipsnio 5 dalyje ir šio straipsnio 5 dalies 1 ir 3 punktuose nurodytus atvejus, mutatis mutandis taikomos televizijos programoms, skirtoms tik televizijos reklamai ir teleparduotuvėms, taip pat televizijos programoms, skirtoms tik savireklamai.
 
 
 
 
-15. Visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai ar jų asociacijos turi parengti elgesio kodeksus dėl netinkamų komercinių audiovizualinių pranešimų, kurie įterpiami į vaikams skirtas programas arba yra įtraukti į tokias programas, apie maisto produktus ir gėrimus, kurių sudėtyje yra maistinių medžiagų ir maistiniu arba fiziologiniu poveikiu pasižyminčių medžiagų, ypač riebalų, riebalų rūgščių transizomerų, druskos arba natrio ir cukraus, kuriuos rekomenduojama vartoti saikingai.
+9. Audiovizualinės žiniasklaidos paslaugų teikėjai ar jų asociacijos turi priimti elgesio (etikos) kodeksus dėl netinkamų komercinių audiovizualinių pranešimų, kurie įterpiami į programas vaikams arba yra įtraukti į tokias programas, apie maisto produktus ir gėrimus, kurių sudėtyje yra maistinių medžiagų ir maistiniu arba fiziologiniu poveikiu pasižyminčių medžiagų, ypač riebalų, riebalų rūgščių transizomerų, druskos arba natrio ir cukraus, kuriuos rekomenduojama vartoti saikingai. Šiais elgesio (etikos) kodeksais turi būti siekiama veiksmingai sumažinti galimybę vaikams pamatyti komercinius audiovizualinius pranešimus apie nurodytus maisto produktus ir gėrimus, nustatant, kad komerciniuose audiovizualiniuose pranešimuose nebūtų pabrėžiamos teigiamos minėtų maisto produktų ir gėrimų maistingumo savybės. Elgesio (etikos) kodeksai priimami ir įsipareigojama jų laikytis šio įstatymo 43 straipsnio 4 ir 6 dalyse nustatyta tvarka. Nuostatos dėl netinkamų komercinių audiovizualinių pranešimų gali būti įtrauktos į Kodeksą. Kai audiovizualinės žiniasklaidos paslaugų teikėjai ar jų asociacijos nepriima šioje dalyje numatytų kodeksų ar neįsipareigoja jų laikytis arba Komisija, vadovaudamasi jos nustatyta ir prieš tai su Vyriausybės įgaliota institucija suderinta tvarka, nustato, kad pasirinkti kodeksai arba jų dalys nėra pakankamai veiksmingi, Komisija nustato privalomus tokių komercinių audiovizualinių pranešimų skleidimo reikalavimus.
 
 
 
 
-16. Reikalavimus, keliamus politinei reklamai, jos skelbimo ir žymėjimo tvarką visuomenės informavimo priemonėse nustato Politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymas ir kiti teisės aktai.
+10. Reikalavimus, keliamus politinei reklamai, jos žymėjimo ir skleidimo visuomenės informavimo priemonėse tvarką nustato Politinių kampanijų finansavimo ir finansavimo kontrolės įstatymas ir kiti teisės aktai.
 
 
 
 
-17. Atsakomybės už klaidinančios ir neleidžiamos lyginamosios reklamos naudojimo ypatumus ir jos taikymo tvarką nustato Reklamos įstatymas.
+11. Atsakomybės už klaidinančios ir neleidžiamos lyginamosios reklamos naudojimo ypatumus ir jos taikymo tvarką nustato Reklamos įstatymas. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 Nr. XI-1454, 2011-06-16, Žin., 2011, Nr. 78-3797 (2011-06-30)
 Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
+Straipsnio pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
 
 
-40 straipsnis. Visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, radijo programų ir (ar) atskirų programų rėmimas 
+40 straipsnis. Audiovizualinės žiniasklaidos paslaugų, radijo programų ir (ar) atskirų programų rėmimas
 
 
-1. Remiamos visuomenės informavimo audiovizualinėmis priemonėmis paslaugos, radijo programos ir (ar) atskiros programos turi atitikti šiuos reikalavimus:
+1. Remiamos audiovizualinės žiniasklaidos paslaugos, radijo programos ir (ar) atskiros programos turi atitikti šiuos reikalavimus:
 
 
-1) jokiomis aplinkybėmis jų turinio, o radijo ir (ar) televizijos programų transliavimo metu – jų transliavimo laiko, negalima tvarkyti taip, kad būtų daromas poveikis visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjui ir radijo programų transliuotojui redakcinei atsakomybei ir nepriklausomumui;
+1) jokiomis aplinkybėmis jų turinio, o radijo ir (ar) televizijos programų transliavimo metu – jų transliavimo laiko, negalima tvarkyti taip, kad būtų daromas poveikis audiovizualinės žiniasklaidos paslaugos teikėjo ir radijo programų transliuotojo redakcinei atsakomybei ir nepriklausomumui;
 
 
 
@@ -3036,29 +2833,31 @@ Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
 
 
 
-3) vartotojai turi būti aiškiai informuojami apie esamą rėmimo susitarimą. Programos pradžioje, jos metu ir (ar) pabaigoje tinkamu būdu pateikiant rėmėjo pavardę (pavadinimą), logotipą ir (ar) kitą ženklą, pavyzdžiui, nuorodą į jo produktą (produktus) ar paslaugą (paslaugas) arba jų skiriamąjį ženklą, būtina aiškiai parodyti, kad programa yra remiama.
+3) vartotojai turi būti aiškiai informuojami apie esamą rėmimo susitarimą. Programos pradžioje, jos metu ir (ar) pabaigoje tinkamu būdu pateikiant rėmėjo pavardę (pavadinimą), logotipą ir (ar) kitą ženklą, pavyzdžiui, nuorodą į jo produktą (produktus) ar paslaugą (paslaugas) arba jų skiriamąjį ženklą, būtina aiškiai parodyti, kad programa yra remiama.
 
 
 
 
 
 
-2. Visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, radijo programų ir (ar) atskirų programų negali remti asmenys, kurių pagrindinė veikla yra cigarečių ir kitų tabako gaminių gamyba ir (ar) pardavimas. 
+2. Audiovizualinės žiniasklaidos paslaugų, radijo programų ir (ar) atskirų programų negali remti asmenys, kurių pagrindinė veikla yra tabako gaminių, elektroninių cigarečių ir (ar) jų pildyklių, rūkomųjų žolinių gaminių gamyba ir (ar) pardavimas.
 
 
 
 
-3. Jeigu asmenys, kurių veikla apima vaistinių preparatų gamybą arba pardavimą ar gydymo paslaugų teikimą, remia visuomenės informavimo audiovizualinėmis priemonėmis paslaugas, radijo programas ir (ar) atskiras programas, jose gali būti paskelbiamas rėmėjo pavadinimas (logotipas) ar kitas jo įvaizdžio ženklas, tačiau negalima reklamuoti konkrečių vaistinių preparatų, kurie įsigyjami tik su receptu, ar gydytojų skiriamo gydymo paslaugų.
+3. Jeigu asmenys, kurių veikla apima vaistinių preparatų gamybą arba pardavimą ar gydymo paslaugų teikimą, remia audiovizualinės žiniasklaidos paslaugas, radijo programas ir (ar) atskiras programas, jose gali būti paskelbiamas rėmėjo pavadinimas (logotipas) ar kitas jo įvaizdžio ženklas, tačiau negalima reklamuoti konkrečių vaistinių preparatų, kurie įsigyjami tik su receptu, ar gydytojų skiriamo gydymo paslaugų.
 
 
 
 
-4. Žinių programos negali būti remiamos.
+4. Žinių programos negali būti remiamos. 
 
 
 Straipsnio pakeitimai:
 Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
+Straipsnio pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -3067,61 +2866,74 @@ Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
 401 straipsnis. Prekių rodymui programose keliami reikalavimai
 
 
-1. Prekių rodymas leidžiamas kinematografijos kūriniuose, visuomenės informavimo audiovizualinėmis priemonėmis paslaugoms sukurtuose filmuose ir serialuose, sporto programose ir pramoginėse programose. Prekių rodymas taip pat leidžiamas, kai be asmenų tarpusavyje susitarto užmokesčio tam tikros prekės ar paslaugos įtraukiamos į programą, pavyzdžiui, kaip prizai ar programos sukūrimui būtinos kitos prekės ar paslaugos.
+1. Prekių rodymas programose turi atitikti visus šiuos reikalavimus:
+
+
+1) jokiomis aplinkybėmis negalima daryti įtakos programos turiniui, programų pateikimui pagal jų tvarkaraštį ar programų pateikimui kataloge, audiovizualinės žiniasklaidos paslaugų teikėjo redakcinei atsakomybei ir nepriklausomumui;
 
 
 
 
-2. Programos, į kurias įtrauktas prekių rodymas, turi atitikti visus šiuos reikalavimus:
-
-
-1) jokiomis aplinkybėmis negalima daryti įtakos programos turiniui, programų transliavimo laikui, visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo redakcinei atsakomybei ir nepriklausomumui;
+2) programose negali būti tiesiogiai skatinama pirkti ar nuomoti prekes ar paslaugas, ypač darant specialias reklamines nuorodas į šias prekes ar paslaugas;
 
 
 
 
-2) jose negali būti tiesiogiai skatinama pirkti ar nuomoti prekes ar paslaugas, ypač darant specialias reklamines nuorodas į šias prekes ar paslaugas;
-
-
-
-
-3) jose negali būti nepagrįstai didinama galimybė pastebėti konkretų produktą;
+3) programose negali būti nepagrįstai didinama galimybė pastebėti konkretų produktą;
 
 
 
 
 4) žiūrovai turi būti aiškiai informuojami apie prekių rodymą. Kad žiūrovas nebūtų klaidinamas, apie prekių rodymą turi būti aiškiai informuojama programos pradžioje ir pabaigoje, taip pat atnaujinus programos rodymą po į ją įsiterpusios reklamos.
-Pastaba. 401 straipsnio 2 dalies 4 punktas taikomas ne visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo arba su juo susijusios bendrovės sukurtoms arba užsakytoms sukurti programoms nuo 2012 m. gruodžio 31 d. (Nr. XI-1453).
 
 
 
 
 
 
-3. Programose draudžiama rodyti šias prekes ir paslaugas: 
+2. Programose draudžiama rodyti šias prekes ir (ar) paslaugas:
 
 
-1) tabako gaminius arba asmenų, kurių pagrindinė veikla yra tabako gaminių gamyba arba pardavimas, gaminamus produktus; 
-
-
-
-
-2) konkrečias gydytojo skiriamo gydymo paslaugas ar vaistinius preparatus, kurie įsigyjami tik su receptu.
+1) tabako gaminius, elektronines cigaretes ir (ar) jų pildykles, rūkomuosius žolinius gaminius ir (ar) asmenų, kurių pagrindinė veikla yra tabako gaminių, elektroninių cigarečių ir (ar) jų pildyklių, rūkomųjų žolinių gaminių gamyba arba pardavimas, gaminamus ir (ar) parduodamus produktus;
 
 
 
 
+2) konkrečius tik su receptu įsigyjamus vaistinius preparatus ar gydytojo skiriamo gydymo paslaugas.
 
 
-4. Prekių rodymas draudžiamas vaikams skirtose programose, žinių programose.
 
 
-Įstatymas papildytas straipsniu:
-Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
-Straipsnio taikymas keistas:
-Nr. XI-1453, 2011-06-16, Žin., 2011, Nr. 78-3796 (2011-06-30)
+
+
+3. Prekių rodymas draudžiamas:
+
+
+1) žinių programose;
+
+
+
+
+2) programose vaikams;
+
+
+
+
+3) religinio pobūdžio programose;
+
+
+
+
+4) specialiose vartotojų teisių apsaugai skirtose programose. 
+
+
+
+
 Straipsnio pakeitimai:
+Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
+Straipsnio pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -3130,9 +2942,11 @@ Nr. XII-557, 2013-10-15, Žin., 2013, Nr. 115-5732 (2013-11-07)
 
 
 TREČIASIS SKIRSNIS
-UŽSAKOMŲJŲ VISUOMENĖS INFORMAVIMO AUDIOVIZUALINĖMIS PRIEMONĖMIS PASLAUGŲ REGLAMENTAVIMAS
+DALIJIMOSI VAIZDO MEDŽIAGA PLATFORMŲ PASLAUGŲ REGLAMENTAVIMAS 
 Įstatymas papildytas nauju trečiuoju skirsniu:
 XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
+Pakeistas skirsnio pavadinimas:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -3144,30 +2958,171 @@ Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 
 
 
-403 straipsnis. Nepilnamečių apsauga teikiant užsakomąsias visuomenės informavimo audiovizualinėmis priemonėmis paslaugas
+403 straipsnis. Lietuvos Respublikos jurisdikcijai priklausantys dalijimosi vaizdo medžiaga platformos paslaugos teikėjai
 
 
-Užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai teisės aktų nustatyta tvarka privalo užtikrinti, kad užsakomosios visuomenės informavimo audiovizualinėmis priemonėmis paslaugos, kurios galėtų daryti neigiamą poveikį nepilnamečių psichikos sveikatai, fiziniam, protiniam ar doroviniam vystymuisi, būtų teikiamos tik tokiu būdu, kad būtų užtikrinta, jog nepilnamečiai tokių užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų negalėtų klausytis ar žiūrėti be už nepilnamečių priežiūrą ar ugdymą atsakingų asmenų kontrolės.
+1. Dalijimosi vaizdo medžiaga platformos paslaugos teikėjas yra laikomas priklausančiu Lietuvos Respublikos jurisdikcijai, jeigu:
+
+
+1) jis dalijimosi vaizdo medžiaga platformos paslaugų teikimo tikslais yra įsisteigęs Lietuvos Respublikoje;
+
+
+
+
+2) jis dalijimosi vaizdo medžiaga platformos paslaugų teikimo tikslais nėra įsiteigęs Lietuvos Respublikoje, bet jį patronuojančioji įmonė arba jo patronuojamoji įmonė (įskaitant visas pagrindinės patronuojančiosios įmonės patronuojamąsias įmones) yra įsisteigusi Lietuvos Respublikoje arba priklauso įmonių grupei (tai yra patronuojančiajai įmonei, visoms jos patronuojamosioms įmonėms ir visoms kitoms su jomis ekonominiais ir teisiniais organizaciniais ryšiais susijusioms įmonėms) ir kita tos įmonių grupės įmonė yra įsisteigusi Lietuvos Respublikoje. Jeigu patronuojančioji įmonė, patronuojamoji įmonė arba kitos įmonių grupei priklausančios įmonės visos yra įsisteigusios skirtingose valstybėse narėse, dalijimosi vaizdo medžiaga platformos paslaugos teikėjas laikomas įsisteigusiu Lietuvos Respublikoje, jeigu joje yra įsisteigusi jo patronuojančioji įmonė arba (jeigu patronuojančioji įmonė Lietuvos Respublikoje neįsteigta) Lietuvos Respublikoje yra įsisteigusi jo patronuojamoji įmonė, arba (jeigu patronuojamoji įmonė Lietuvos Respublikoje neįsteigta) Lietuvos Respublikoje yra įsisteigusi kita įmonių grupei priklausanti įmonė. Jeigu yra kelios patronuojamosios įmonės ir jos visos yra įsisteigusios skirtingose valstybėse narėse, dalijimosi vaizdo medžiaga platformos paslaugos teikėjas laikomas įsisteigusiu Lietuvos Respublikoje, jeigu joje viena iš patronuojamųjų įmonių pirmiausia pradėjo savo veiklą ir palaiko nuolatinius ir veiksmingus ryšius su Lietuvos Respublika. Jeigu yra kelios kitos įmonių grupei priklausančios įmonės ir jos visos yra įsisteigusios skirtingose valstybėse narėse, dalijimosi vaizdo medžiaga platformos paslaugos teikėjas laikomas įsisteigusiu Lietuvos Respublikoje, jeigu joje viena iš šių įmonių pirmiausia pradėjo savo veiklą ir palaiko nuolatinius ir veiksmingus ryšius su Lietuvos Respublika.
+
+
+
+
+
+
+2. Lietuvos Respublikos jurisdikcijai priklausantys dalijimosi vaizdo medžiaga platformos paslaugų teikėjai, prieš pradėdami šią veiklą, privalo Komisijos nustatyta tvarka pranešti Komisijai apie planuojamas teikti dalijimosi vaizdo medžiaga platformos paslaugas. Komisija sudaro ir nuolat atnaujina Lietuvos Respublikos jurisdikcijai priklausančių dalijimosi vaizdo medžiaga platformos paslaugų teikėjų sąrašą, kuriame nurodoma, kuriais kriterijais, išdėstytais šio straipsnio 1 dalyje, grindžiama jų jurisdikcija. Šį sąrašą su nuolat atnaujinamais duomenimis Komisija perduoda Europos Komisijai.
+
+
+
+
+3. Jeigu Lietuvos Respublika ir kita Europos Sąjungos valstybė narė nesutaria, kurios valstybės jurisdikcijai priklauso dalijimosi vaizdo medžiaga platformos paslaugų teikėjas, Komisija apie tai praneša Europos Komisijai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
 
 
+404 straipsnis. Dalijimosi vaizdo medžiaga platformos paslaugų teikėjų veiklai keliami reikalavimai
 
 
-404 straipsnis. Europos kūrinių skatinimas teikiant užsakomąsias visuomenės informavimo audiovizualinėmis priemonėmis paslaugas
+1. Dalijimosi vaizdo medžiaga platformos paslaugų teikėjai privalo:
 
 
-1. Lietuvos Respublikos jurisdikcijai priklausantys užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai pagal galimybes jiems priimtinomis priemonėmis skatina kurti Europos kūrinius ir su jais susipažinti.
+1) imtis šio straipsnio 2 dalyje ir Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatyme nustatytų priemonių, siekdami apsaugoti nepilnamečius nuo programų, naudotojų sukurtų vaizdo įrašų ir komercinių audiovizualinių pranešimų, kuriuose skleidžiama neigiamą poveikį nepilnamečiams daranti informacija;
 
 
 
 
-2. Vykdydami šio straipsnio 1 dalyje nurodytą veiklą, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai užtikrina, kad ne mažiau kaip pusė programų užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų kataloge būtų Europos kūriniai.
+2) imtis šio straipsnio 2 dalyje nustatytų priemonių, siekdami apsaugoti visuomenę nuo programų, naudotojų sukurtų vaizdo įrašų ir komercinių audiovizualinių pranešimų, kuriuose skleidžiama šio įstatymo 19 straipsnio 1 dalies 1–4 punktuose nurodyta informacija;
+
+
+
+
+3) laikytis šio įstatymo 39 straipsnio reikalavimų dėl komercinių audiovizualinių pranešimų, kuriuos dalijimosi vaizdo medžiaga platformos paslaugos teikėjai užsako patys ar skleidžia savo iniciatyva, taip pat imtis šio įstatymo nustatytų atitinkamų priemonių, susijusių su šio straipsnio reikalavimų laikymusi, dėl tų komercinių audiovizualinių pranešimų, kuriais dalijimosi vaizdo medžiaga platformos paslaugos teikėjai neprekiauja, kurių neparduoda ar netvarko;
+
+
+
+
+4) aiškiai informuoti programų ir naudotojų sukurtų vaizdo įrašų naudotojus apie šiose programose ir vaizdo įrašuose skleidžiamus komercinius audiovizualinius pranešimus, kai apie juos yra deklaruota pagal šio straipsnio 2 dalies 3 punktą arba dalijimosi vaizdo medžiaga platformos paslaugos teikėjas apie šiuos pranešimus žino;
+
+
+
+
+5) laikytis savo arba kitų dalijimosi vaizdo medžiaga platformos paslaugų teikėjų priimto elgesio (etikos) kodekso dėl netinkamų komercinių audiovizualinių pranešimų, kurie įterpiami į programas vaikams arba yra įtraukti į tokias programas, apie maisto produktus ir gėrimus, kurių sudėtyje yra maistinių medžiagų ir maistiniu arba fiziologiniu poveikiu pasižyminčių medžiagų, ypač riebalų, riebalų rūgščių transizomerų, druskos arba natrio ir cukraus, kuriuos rekomenduojama vartoti saikingai. Šiais elgesio (etikos) kodeksais turi būti siekiama veiksmingai sumažinti galimybę vaikams pamatyti komercinius audiovizualinius pranešimus apie nurodytus maisto produktus ir gėrimus, nustatant, kad komerciniuose audiovizualiniuose pranešimuose nebūtų pabrėžiamos teigiamos minėtų maisto produktų ir gėrimų maistingumo savybės. Elgesio (etikos) kodeksai priimami šio įstatymo 43 straipsnio 4 dalyje nustatyta tvarka.
+
+
+
+
+
+
+2. Dalijimosi vaizdo medžiaga platformos paslaugų teikėjai pasirinktinai įgyvendina šias priemones:
+
+
+1) įtraukia į dalijimosi vaizdo medžiaga platformos paslaugų teikimo sąlygas šio straipsnio 1 dalies 1 ar 2 punkte nurodytus reikalavimus ir juos taiko;
+
+
+
+
+2) įtraukia į dalijimosi vaizdo medžiaga platformos paslaugų teikimo sąlygas šio įstatymo 39 straipsnio reikalavimus, taikomus komerciniams audiovizualiniams pranešimams, kuriais dalijimosi vaizdo medžiaga platformos paslaugos teikėjai neprekiauja, kurių jie neparduoda ir netvarko, ir juos taiko;
+
+
+
+
+3) turi naudotojų sukurtus vaizdo įrašus įkeliantiems naudotojams skirtą funkciją, leidžiančią deklaruoti, kiek jiems žinoma arba, kaip pagrįstai galima manyti, jie turi žinoti, ar tokiuose vaizdo įrašuose esama komercinių audiovizualinių pranešimų;
+
+
+
+
+4) sukuria ir taiko skaidrius ir paprastus naudoti mechanizmus, kuriais naudodamiesi dalijimosi vaizdo medžiaga platformų naudotojai atitinkamam dalijimosi vaizdo medžiaga platformos paslaugos teikėjui praneštų ir pažymėtų šio straipsnio 1 dalies 1 ar 2 punkte nurodytą turinį, kuris pateikiamas jo platformoje;
+
+
+
+
+5) sukuria ir taiko sistemas, kuriomis naudodamiesi dalijimosi vaizdo medžiaga platformos paslaugos teikėjai paaiškintų dalijimosi vaizdo medžiaga platformų naudotojams, kokį rezultatą davė šio straipsnio 2 dalies 4 punkte nurodytas pranešimas ir jo pažymėjimas;
+
+
+
+
+6) sukuria ir taiko dalijimosi vaizdo medžiaga platformų naudotojų amžiaus tikrinimo sistemas dėl informacijos (turinio), darančios neigiamą poveikį nepilnamečiams;
+
+
+
+
+7) sukuria ir taiko lengvas naudoti sistemas, leidžiančias dalijimosi vaizdo medžiaga platformų naudotojams reitinguoti šio straipsnio 1 dalies 1 ar 2 punkte nurodytą turinį;
+
+
+
+
+8) numato galutinių naudotojų valdomas tėvų kontrolės sistemas dėl informacijos (turinio), darančios neigiamą poveikį nepilnamečiams;
+
+
+
+
+9) sukuria ir taiko skaidrias, lengvas naudoti ir veiksmingas naudotojų skundų, pateiktų dalijimosi vaizdo medžiaga platformos paslaugos teikėjui dėl šios dalies 4–8 punktuose nurodytų reikalavimų įgyvendinimo, nagrinėjimo ir sprendimo procedūras;
+
+
+
+
+10) numato veiksmingas gebėjimo naudotis visuomenės informavimo priemonėmis priemones bei instrumentus ir didina naudotojų informuotumą apie šias priemones ir instrumentus.
+
+
+
+
+
+
+3. Dalijimosi vaizdo medžiaga platformos paslaugų teikėjai, įgyvendindami šio straipsnio 1 dalyje nurodytus tikslus, pasirenka šio straipsnio 2 dalyje numatytas priemones, atsižvelgdami į dalijimosi vaizdo medžiaga platformos paslaugų teikėjų teikiamų paslaugų turinio pobūdį, žalą, kurią jis gali sukelti, apsaugotinų asmenų kategorijos ypatumus, taip pat dalijimosi vaizdo medžiaga platformos paslaugos teikėjų ir dalijimosi vaizdo medžiaga platformų naudotojų, kurie sukūrė arba įkėlė turinį, teises ir teisėtus interesus, taip pat viešąjį interesą. Šios priemonės turi būti pritaikomos ir proporcingos, atsižvelgiant į dalijimosi vaizdo medžiaga platformos paslaugos apimtį ir teikiamos paslaugos pobūdį. Tokiomis priemonėmis ex ante kontrolės priemonės gali būti nustatomos ar filtruojamas įkeliamas turinys tik Informacinės visuomenės paslaugų įstatymo nustatyta tvarka. Siekiant apsaugoti nepilnamečius, žalingiausiam turiniui turi būti taikomos griežčiausios prieigos prie informacijos kontrolės priemonės.
+
+
+
+
+4. Šio straipsnio 1 dalies 1 ir 2 punkte nurodytiems reikalavimams ir 2 dalyje nurodytoms priemonėms įgyvendinti gali būti taikomi elgesio (etikos) kodeksai, numatyti šio įstatymo 43 straipsnio 4 dalyje.
+
+
+
+
+5. Šio straipsnio 2 dalyje nurodytų priemonių tinkamumą ir įgyvendinimą vertina Komisija jos nustatyta ir prieš tai su Vyriausybės įgaliota institucija suderinta tvarka. Komisija, nustačiusi, kad dalijimosi vaizdo medžiaga platformos paslaugos teikėjai pasirinko netinkamas priemones arba kad taikomi elgesio (etikos) kodeksai arba jų dalys nėra pakankamai veiksmingi, įpareigoja dalijimosi vaizdo medžiaga platformos paslaugos teikėjus taikyti konkrečias šio straipsnio 2 dalyje nurodytas priemones ar jų įgyvendinimo būdus.
+
+
+
+
+6. Kai audiovizualinės žiniasklaidos paslaugų teikėjas savo paslaugas teikia naudodamasis dalijimosi vaizdo medžiaga platformos paslauga, dalijimosi vaizdo medžiaga platformos paslaugos teikėjo įgyvendinamos priemonės nepanaikina audiovizualinės žiniasklaidos paslaugų teikėjui taikomų reikalavimų, nustatytų šiame įstatyme ir Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatyme.
+
+
+
+
+7. Kai dalijimosi vaizdo medžiaga platformos paslaugos teikėjas teikia audiovizualinės žiniasklaidos paslaugas ir (ar) televizijos programų, ir (ar) atskirų programų platinimo internete paslaugas, jam taikomi šio įstatymo ir Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo reikalavimai, nustatyti audiovizualinės žiniasklaidos paslaugų ir (ar) televizijos programų, ir (ar) atskirų programų platinimo internete paslaugų teikėjams. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
+
+
+
+
+405 straipsnis. Dalijimosi vaizdo medžiaga platformos paslaugų teikėjų atsakomybė ir asmens teisių apsauga
+
+
+1. Dalijimosi vaizdo medžiaga platformos paslaugų teikėjai už šio įstatymo 403 ir 404 straipsnių reikalavimų laikymąsi atsako šio įstatymo ir Informacinės visuomenės paslaugų įstatymo nustatyta tvarka ir sąlygomis.
+
+
+
+
+2. Asmenų ir dalijimosi vaizdo medžiaga platformos paslaugos teikėjų tarpusavio ginčai, kylantys dėl šio įstatymo 404 straipsnio 1 dalies 1 ir 2 punktų, 2 dalies reikalavimų nesilaikymo, sprendžiami kreipiantis į Komisiją arba į teismą. Kreipimasis į Komisiją asmenims neužkerta kelio dėl to paties ginčo kreiptis į teismą. 
+
+
+Papildyta straipsniu:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
-
-
 
 
 
@@ -3284,19 +3239,65 @@ Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 
 
 
-43 straipsnis. Visuomenės informavimo etika
+43 straipsnis. Visuomenės informavimo etika ir elgesio (etikos) kodeksai
 
 
-1. Etikos normas, kurių privalo laikytis viešosios informacijos rengėjai, skleidėjai, žurnalistai, nustato Kodeksas, Europos Tarybos Parlamentinės Asamblėjos rezoliucija „Dėl žurnalistinės etikos“, taip pat Lietuvos Respublikos tarptautinės sutartys, reglamentuojančios viešosios informacijos rengimą bei platinimą, ir šis įstatymas.
+1. Etikos normas, kurių privalo laikytis viešosios informacijos rengėjai, skleidėjai, žurnalistai, nustato Kodeksas, šio straipsnio 4 ir 5 dalyse nurodyti elgesio (etikos) kodeksai, Europos Tarybos Parlamentinės Asamblėjos rezoliucija „Dėl žurnalistikos etikos“, taip pat Lietuvos Respublikos tarptautinės sutartys, reglamentuojančios viešosios informacijos rengimą ir skleidimą.
 
 
 
 
-2. Kodeksą tvirtina, keičia ar pildo viešosios informacijos rengėjų ar skleidėjų organizacijų ir Visuomenės informavimo etikos asociacijos narių atstovų susirinkimas (toliau – atstovų susirinkimas). Atstovų susirinkimą šaukia, jo veiklą koordinuoja ne mažiau kaip 5 viešosios informacijos rengėjų ar skleidėjų organizacijos, veikiančios visuomenės informavimo srityje ne mažiau kaip 3 metus, bendru viešu pareiškimu. Atstovų susirinkime turi teisę dalyvauti ir visi kiti asmenys, tačiau balsavimo teisę atstovų susirinkime turi tik viešosios informacijos rengėjų ar skleidėjų organizacijų, veikiančių visuomenės informavimo srityje ne mažiau kaip 3 metus, ir Visuomenės informavimo etikos asociacijos narių atstovai. Atstovų susirinkimas vyksta ne anksčiau kaip po 30 dienų nuo šioje dalyje minėto viešo paskelbimo apie jį dienos. Atstovų susirinkimas Kodeksą tvirtina, keičia ar pildo vadovaudamasis atstovų susirinkimo darbo reglamentu. Kodeksą atstovų susirinkimą iniciavusių asmenų siūlymu atstovų susirinkimas tvirtina paprasta balsų dauguma. Kodekso arba jo pakeitimų ar papildymų projektus atstovų susirinkimą iniciavę asmenys viešai paskelbia ne mažiau kaip prieš 15 dienų iki atstovų susirinkimo dienos.
+2. Kodeksą tvirtina, keičia ar pildo viešosios informacijos rengėjų ar skleidėjų organizacijų ir Visuomenės informavimo etikos asociacijos narių atstovų susirinkimas (toliau – atstovų susirinkimas). Atstovų susirinkimą šaukia, jo veiklą koordinuoja ne mažiau kaip 5 viešosios informacijos rengėjų ar skleidėjų organizacijos, veikiančios visuomenės informavimo srityje ne mažiau kaip 3 metus, bendru viešu pareiškimu, kuris skelbiamas Visuomenės informavimo etikos asociacijos interneto svetainėje. Atstovų susirinkime turi teisę dalyvauti ir visi kiti asmenys, tačiau balsavimo teisę atstovų susirinkime turi tik viešosios informacijos rengėjų ar skleidėjų organizacijų, veikiančių visuomenės informavimo srityje ne mažiau kaip 3 metus, ir Visuomenės informavimo etikos asociacijos narių atstovai. Atstovų susirinkimas vyksta ne anksčiau kaip po 30 dienų nuo šioje dalyje minėto viešo paskelbimo apie jį dienos. Atstovų susirinkimas Kodeksą tvirtina, keičia ar pildo vadovaudamasis atstovų susirinkimo darbo reglamentu. Kodeksą atstovų susirinkimą inicijavusių asmenų siūlymu atstovų susirinkimas tvirtina paprasta balsų dauguma. Kodekso arba jo pakeitimo ar papildymo projektus atstovų susirinkimą inicijavę asmenys viešai paskelbia Visuomenės informavimo etikos asociacijos interneto svetainėje ne mažiau kaip prieš 15 dienų iki atstovų susirinkimo dienos. Atstovų susirinkimo patvirtintas Kodeksas turi būti skelbiamas viešai Visuomenės informavimo etikos asociacijos interneto svetainėje.
+
+
+
+
+3. Viešosios informacijos rengėjo ir (ar) skleidėjo elgesio (etikos) kodeksas arba taisyklės negali prieštarauti Kodekso nuostatoms. Elgesio (etikos) kodeksai arba taisyklės viešosios informacijos rengėjų ir (ar) skleidėjų turi būti skelbiami viešai.
+
+
+
+
+4. Skatinant savitvarką audiovizualinės žiniasklaidos paslaugų teikimo srityje, Lietuvoje gali būti taikomi nacionalinio ir (ar) Europos Sąjungos lygmens elgesio (etikos) kodeksai, kuriuos parengia ir savo interneto svetainėje skelbia audiovizualinės žiniasklaidos paslaugų teikėjai, dalijimosi vaizdo medžiaga platformos paslaugos teikėjai arba jiems atstovaujančios organizacijos, prireikus bendradarbiaudami su pramonės, prekybos ar kitais sektoriais, profesinėmis ir vartotojų asociacijomis arba organizacijomis. Jeigu Europos Sąjungos elgesio (etikos) kodeksus parengia Lietuvos Respublikos jurisdikcijai priklausantys audiovizualinės žiniasklaidos paslaugų teikėjai, dalijimosi vaizdo medžiaga platformos paslaugos teikėjai arba jiems atstovaujančios organizacijos, jie pateikia šių kodeksų projektus ir jų pakeitimus Europos Komisijai.
+
+
+
+
+5. Šio straipsnio 4 dalyje nurodyti nacionalinio lygmens elgesio (etikos) kodeksai turi atitikti šiuos reikalavimus:
+
+
+1) būti plačiai pripažinti – juos savo veikloje būtų įsipareigoję taikyti daugiau kaip 1/2 atitinkamos srities Lietuvos Respublikos viešosios informacijos rengėjų, skleidėjų ir žurnalistų ar juos vienijančių organizacijų;
+
+
+
+
+2) aiškiai ir nedviprasmiškai išdėstyti savo tikslus;
+
+
+
+
+3) numatyti reguliarią, skaidrią ir nepriklausomą stebėseną ir vertinimą, kaip siekiama juose iškeltų tikslų;
+
+
+
+
+4) numatyti veiksmingą kodeksų nuostatų vykdymo užtikrinimą, įskaitant veiksmingas ir proporcingas sankcijas.
+
+
+
+
+
+
+6. Audiovizualinės žiniasklaidos paslaugų teikėjai, dalijimosi vaizdo medžiaga platformos paslaugos teikėjai savanoriškai pasirenka šio straipsnio 4 dalyje nurodytus kodeksus ir viešai paskelbia, kad jų veikla atitinka šių kodeksų normas, apie tai informuodami Komisiją. Paslaugų teikėjams, savanoriškai pasirinkusiems elgesio (etikos) kodeksus ir deklaravusiems, kad jų veikla atitinka pasirinktą elgesio (etikos) kodeksą, deklaruoto kodekso nuostatos yra privalomos.
+
+
+
+
+7. Kai Komisija jos nustatyta ir su Vyriausybės įgaliota institucija suderinta tvarka nustato, kad audiovizualinės žiniasklaidos paslaugų teikėjų, dalijimosi vaizdo medžiaga platformos paslaugos teikėjų pasirinktas elgesio (etikos) kodeksas arba jo dalis nėra pakankamai veiksmingi, Komisija nustato paslaugų teikėjams privalomus reikalavimus, nepažeisdama Europos Sąjungos teisės. Apie tokius reikalavimus Komisija nedelsdama praneša Europos Komisijai. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -3353,12 +3354,12 @@ REGlamentavimo IR savitvarkos institucijos
 45 straipsnis. Vyriausybės įgaliotos institucijos kompetencija visuomenės informavimo srityje
 
 
-1. Valstybės politikos visuomenės informavimo srityje įgyvendinimą koordinuoja Vyriausybės įgaliota institucija. 
+1. Valstybės politiką visuomenės informavimo srityje formuoja ir jos įgyvendinimą koordinuoja Vyriausybės įgaliota institucija.
 
 
 
 
-2. Vyriausybės įgaliota institucija atlieka šias funkcijas: 
+2. Vyriausybės įgaliota institucija atlieka šias funkcijas:
 
 
 1) apibendrina visuomenės informavimo sritį reglamentuojančių įstatymų, kitų teisės aktų taikymo praktiką ir teikia pasiūlymus dėl įstatymų, kitų teisės aktų rengimo bei galiojančių teisės aktų pakeitimo ir papildymo;
@@ -3371,27 +3372,32 @@ REGlamentavimo IR savitvarkos institucijos
 
 
 
-3) bendradarbiaudama su kitomis visuomenės informavimo srityje veikiančiomis institucijomis ir organizacijomis, įgyvendina Lietuvos Respublikos tarptautinių sutarčių, susijusių su visuomenės informavimu, nuostatas; 
+3) bendradarbiaudama su kitomis visuomenės informavimo srityje veikiančiomis institucijomis ir organizacijomis, įgyvendina Lietuvos Respublikos tarptautinių sutarčių, susijusių su visuomenės informavimu, nuostatas;
 
 
 
 
-4) teikia informaciją ir metodinę pagalbą visuomenės informavimo klausimais; 
+4) bendradarbiaudama su viešosios informacijos rengėjų ir skleidėjų organizacijomis, viešosios informacijos rengėjų ir skleidėjų veiklos reglamentavimo ir savitvarkos institucijomis, kitomis visuomenės informavimo srityje veikiančiomis institucijomis ir organizacijomis, skatina visuomenės gebėjimo naudotis visuomenės informavimo priemonėmis ugdymo priemones, imasi šių priemonių įgyvendinimo ir jų poveikio visuomenei periodinio vertinimo, kas 3 metus teikia šių priemonių įgyvendinimo ataskaitą Europos Komisijai;
 
 
 
 
-5) organizuoja konferencijas, seminarus, praktikumus visuomenės informavimo klausimais;
+5) teikia informaciją ir metodinę pagalbą visuomenės informavimo klausimais;
 
 
 
 
-6) bendradarbiauja su atitinkamomis užsienio valstybių institucijomis ir tarptautinėmis organizacijomis, veikiančiomis visuomenės informavimo srityje;
+6) organizuoja konferencijas, seminarus, praktikumus visuomenės informavimo klausimais;
 
 
 
 
-7) atlieka kitas šio ir kitų įstatymų jai pavestas funkcijas visuomenės informavimo srityje.
+7) bendradarbiauja su atitinkamomis užsienio valstybių institucijomis ir tarptautinėmis organizacijomis, veikiančiomis visuomenės informavimo srityje;
+
+
+
+
+8) atlieka kitas šio ir kitų įstatymų jai pavestas funkcijas visuomenės informavimo srityje.
 
 
 
@@ -3399,9 +3405,16 @@ REGlamentavimo IR savitvarkos institucijos
 
 
 3. Vyriausybės įgaliota institucija turi teisę gauti iš viešosios informacijos rengėjų ir skleidėjų asociacijų, viešosios informacijos rengėjų ir skleidėjų veiklos reglamentavimo ir savitvarkos institucijų, valstybės ir savivaldybių institucijų bei įstaigų informaciją, būtiną savo funkcijoms atlikti.
+
+
+
+
+4. Siekdama tinkamai formuoti valstybės politiką visuomenės informavimo srityje ir koordinuoti jos įgyvendinimą, Vyriausybės įgaliota institucija turi teisę sudaryti patariamąją instituciją – Medijų taryba, kuri Vyriausybės įgaliotai institucijai teikia ekspertinę nuomonę ir rekomendacijas svarbiausiais visuomenės informavimo srities politikos formavimo, koordinavimo ir įgyvendinimo klausimais, atlieka kitas šiuo įstatymu jai pavestas funkcijas. Medijų tarybos sudėtį, sudarymo tvarką ir darbo reglamentą tvirtina Vyriausybės įgaliota institucija. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
-
-
 
 
 
@@ -3543,9 +3556,10 @@ Nr. XII-1357, 2014-11-25, paskelbta TAR 2014-12-04, i. k. 2014-18935
 47 straipsnis. Lietuvos radijo ir televizijos komisija
 
 
-1. Komisija – nepriklausoma Seimui atskaitinga Lietuvos Respublikos jurisdikcijai priklausančių radijo ir (ar) televizijos programų transliuotojų, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų veiklą reguliuojanti ir prižiūrinti, Lietuvos Respublikos teritorijoje veiklą vykdančių retransliuotojų ir kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, veiklos priežiūrą vykdanti institucija. Komisija dalyvauja formuojant valstybės audiovizualinę politiką. Ji yra Seimo ir Vyriausybės ekspertė radijo, televizijos programų transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete bei užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų klausimais. Komisija, atlikdama savo funkcijas ir priimdama sprendimus jos kompetencijai priklausančiais klausimais, yra nepriklausoma. 
+1. Komisija – nepriklausoma Seimui atskaitinga Lietuvos Respublikos jurisdikcijai priklausančių radijo ir (ar) televizijos programų transliuotojų, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjų veiklą reguliuojanti ir prižiūrinti, Lietuvos Respublikos teritorijoje veiklą vykdančių retransliuotojų ir kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, veiklos priežiūrą vykdanti institucija. Komisija dalyvauja formuojant valstybės audiovizualinę politiką. Ji yra Seimo ir Vyriausybės ekspertė radijo, televizijos programų transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų ir dalijimosi vaizdo medžiaga platformos paslaugų klausimais. Komisija, atlikdama savo funkcijas ir priimdama sprendimus jos kompetencijai priklausančiais klausimais, yra nepriklausoma ir nešališka, vadovaujasi žiniasklaidos pliuralizmo, kultūrų ir kalbų įvairovės, vartotojų apsaugos, prieinamumo, nediskriminavimo, tinkamo vidaus rinkos veikimo ir sąžiningos konkurencijos skatinimo principais. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -3634,9 +3648,10 @@ Nr. XIII-109, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29761
 
 
 
-9. Komisijos nariais negali būti Seimo, Vyriausybės nariai, Lietuvos nacionalinio radijo ir televizijos tarybos nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, asmenys, susiję su radijo ir (ar) televizijos programų transliuotojais, retransliuotojais, kitais asmenimis, teikiančiais Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjais darbo, autorinių sutarčių ar kitais sutartiniais santykiais, taip pat radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų dalyviai, juos skiriančių institucijų ar organizacijų vadovai, Komisijos administracijos darbuotojai. Komisijos pirmininkas, jo pavaduotojas negali dirbti verslo, komercijos ar kitokiose įstaigose, įmonėse ar organizacijose, negali gauti jokio kito atlyginimo, išskyrus darbo užmokestį, nustatytą pagal einamas pareigas, ir užmokestį už mokslinį bei pedagoginį darbą ir autorinį atlyginimą už kūrybinę veiklą, nesusijusią su radijo ir (ar) televizijos programų transliuotojais, retransliuotojais, kitais asmenimis, teikiančiais Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjais ir (ar) jų dalyviais. Komisijos nariu negali būti asmuo, kurio artimi asmenys, kaip jie apibrėžti Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatyme, yra susiję su radijo ir (ar) televizijos programų transliuotojais, retransliuotojais, kitais asmenimis, teikiančiais Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjais darbo, autorinių sutarčių ar kitais sutartiniais santykiais ir yra radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų dalyviai. Politinių partijų nariai, paskirti į Komisiją, sustabdo savo narystę politinėje partijoje ir dalyvavimą jos veikloje iki savo kadencijos Komisijoje pabaigos. 
+9. Komisijos nariais negali būti Seimo, Vyriausybės nariai, LRT tarybos nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, asmenys, susiję su radijo ir (ar) televizijos programų transliuotojais, retransliuotojais, kitais asmenimis, teikiančiais Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjais darbo, autorinių sutarčių ar kitais sutartiniais santykiais, taip pat radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjų dalyviai, juos skiriančių institucijų ar organizacijų vadovai, Komisijos administracijos darbuotojai. Komisijos pirmininkas, jo pavaduotojas negali dirbti verslo, komercijos ar kitokiose įstaigose, įmonėse ar organizacijose, negali gauti jokio kito atlyginimo, išskyrus darbo užmokestį, nustatytą pagal einamas pareigas, ir užmokestį už mokslinį bei pedagoginį darbą ir autorinį atlyginimą už kūrybinę veiklą, nesusijusią su radijo ir (ar) televizijos programų transliuotojais, retransliuotojais, kitais asmenimis, teikiančiais Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjais ir (ar) jų dalyviais. Komisijos nariu negali būti asmuo, kurio artimi asmenys, kaip jie apibrėžti Viešųjų ir privačių interesų derinimo įstatyme, yra susiję su radijo ir (ar) televizijos programų transliuotojais, retransliuotojais, kitais asmenimis, teikiančiais Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjais darbo, autorinių sutarčių ar kitais sutartiniais santykiais arba yra radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjų dalyviai. Politinių partijų nariai, paskirti į Komisiją, sustabdo savo narystę politinėje partijoje ir dalyvavimą jos veikloje iki savo kadencijos Komisijoje pabaigos. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -3670,9 +3685,10 @@ Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
 
 
 
-14. Komisijos sprendimus pasirašo Komisijos pirmininkas arba jo pavaduotojas, kai Komisijos pirmininkas yra laikinai išvykęs į užsienį arba dėl ligos laikinai negali eiti savo pareigų. Komisijos pirmininko pavaduotojas atlieka ir kitas funkcijas, kai Komisijos pirmininkas laikinai negali eiti savo pareigų. Komisijos sprendimai, kurie yra norminiai teisės aktai, skelbiami Teisės aktų registre. Komisijos sprendimai, kurie yra norminiai teisės aktai, įsigalioja kitą dieną po jų paskelbimo Teisės aktų registre, jeigu pačiuose sprendimuose nenustatyta vėlesnė jų įsigaliojimo data. Kiti Komisijos priimti individualūs teisės aktai skelbiami Komisijos interneto svetainėje – informacinės visuomenės informavimo priemonėje, kurios valdytoja yra Komisija, ir įsigalioja jų paskelbimo dieną, jeigu juose nenustatyta vėlesnė jų įsigaliojimo data. Visi Komisijos norminių teisės aktų projektai derinami su visuomene viešosiomis konsultacijomis. Viešųjų konsultacijų tvarka nustatoma Komisijos nuostatuose. Komisijos sprendimai radijo ir (ar) televizijos programų transliuotojams, retransliuotojams, kitiems asmenims, teikiantiems Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, arba užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjams yra privalomi, juos šie asmenys gali skųsti teismui per 30 dienų nuo Komisijos sprendimų įsigaliojimo dienos. 
+14. Komisijos sprendimus pasirašo Komisijos pirmininkas, o kai jo nėra, – jo pavaduotojas, kai Komisijos pirmininkas yra laikinai išvykęs į užsienį arba dėl ligos laikinai negali eiti savo pareigų. Komisijos pirmininko pavaduotojas atlieka ir kitas funkcijas, kai Komisijos pirmininkas laikinai negali eiti savo pareigų. Komisijos sprendimai, kurie yra norminiai teisės aktai, skelbiami Teisės aktų registre. Komisijos sprendimai, kurie yra norminiai teisės aktai, įsigalioja kitą dieną po jų paskelbimo Teisės aktų registre, jeigu pačiuose sprendimuose nenustatyta vėlesnė jų įsigaliojimo data. Komisijos priimti individualūs teisės aktai skelbiami Komisijos interneto svetainėje – informacinės visuomenės informavimo priemonėje, kurios valdytoja yra Komisija, ir įsigalioja jų paskelbimo dieną, jeigu juose nenustatyta vėlesnė jų įsigaliojimo data. Visi Komisijos norminių teisės aktų projektai derinami su visuomene viešosiomis konsultacijomis. Viešųjų konsultacijų tvarka nustatoma Komisijos nuostatuose. Komisijos sprendimai radijo ir (ar) televizijos programų transliuotojams, retransliuotojams, kitiems asmenims, teikiantiems Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, arba užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjams yra privalomi, juos šie asmenys gali skųsti teismui per 30 dienų nuo Komisijos sprendimų įsigaliojimo dienos. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -3686,10 +3702,11 @@ Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
 
 
 
-16. Komisijos veiklai finansuoti radijo ir (ar) televizijos programų transliuotojai, retransliuotojai, asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai, išskyrus LRT, gaunantys pajamas iš radijo ir (ar) televizijos programų transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete ir (ar) užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklos, privalo mokėti įmokas į Komisijos, kaip biudžetinės įstaigos, sąskaitą. Įmokos dydis yra 0,8 procento pajamų, gautų iš komercinių audiovizualinių pranešimų, reklamos, abonementinio mokesčio ir kitos veiklos, susijusios su radijo ir (ar) televizijos programų transliavimu, retransliavimu, televizijos programų ir (ar) atskirų programų platinimo internete ir (ar) užsakomosiomis visuomenės informavimo audiovizualinėmis priemonėmis paslaugomis. Audiovizualinių paslaugų rinkos dalyviai privalo pervesti įmokas į Komisijos, kaip biudžetinės įstaigos, sąskaitą kas ketvirtį ne vėliau kaip iki kito ketvirčio pirmojo mėnesio 30 dienos. Iš radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų, kurie nepervedė įmokos į Komisijos, kaip biudžetinės įstaigos, sąskaitą, šios lėšos išieškomos per teismą. Komisijos finansavimo šaltiniai yra valstybės biudžeto asignavimai, tarp jų užmokestis už suteiktas paslaugas, paramos lėšos, leidybinės veiklos pajamos ir kitos teisėtai gaunamos lėšos. Komisijos pajamos, gautos pagal šį straipsnį ir įmokėtos į valstybės biudžetą, gali būti naudojamos tik Komisijos strateginiame veiklos plane numatytoms ir įgyvendinamoms programoms finansuoti. 
+16. Komisijos veiklai finansuoti radijo ir (ar) televizijos programų transliuotojai, retransliuotojai, asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjai, dalijimosi vaizdo medžiaga platformos paslaugų teikėjai, išskyrus LRT, gaunantys pajamas iš radijo ir (ar) televizijos programų transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete ir (ar) užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklos, privalo mokėti įmokas į Komisijos, kaip biudžetinės įstaigos, banko sąskaitą. Įmokos dydis yra 0,8 procento pajamų, gautų iš komercinių audiovizualinių pranešimų, reklamos, abonementinio mokesčio ir kitos veiklos, susijusios su radijo ir (ar) televizijos programų transliavimu, retransliavimu, televizijos programų ir (ar) atskirų programų platinimo internete ir (ar) užsakomosiomis audiovizualinės žiniasklaidos paslaugomis, dalijimosi vaizdo medžiaga platformos paslaugomis. Audiovizualinių paslaugų rinkos dalyviai privalo pervesti įmokas į Komisijos, kaip biudžetinės įstaigos, sąskaitą kas ketvirtį ne vėliau kaip iki kito ketvirčio pirmo mėnesio 30 dienos. Iš radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjų, kurie nepervedė įmokų į Komisijos, kaip biudžetinės įstaigos, sąskaitą, šios lėšos išieškomos per teismą. Komisijos finansavimo šaltiniai yra valstybės biudžeto asignavimai, paramos lėšos, leidybinės veiklos pajamos ir kitos teisėtai gaunamos lėšos. Komisijos pajamos, gautos pagal šį straipsnį ir įmokėtos į valstybės biudžetą, gali būti naudojamos tik Komisijos strateginiame veiklos plane numatytoms ir įgyvendinamoms programoms finansuoti. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -3709,9 +3726,10 @@ Nr. XIII-966, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21724
 
 
 
-19. Komisijos nariams ir administracijai draudžiama platinti informaciją, kuri yra radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų, informacinės visuomenės informavimo priemonių valdytojų komercinė paslaptis.
+19. Komisijos nariams ir administracijai draudžiama platinti informaciją, kuri yra radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjų, informacinės visuomenės informavimo priemonių valdytojų komercinė paslaptis. Šioje dalyje nurodytas draudimas taikomas ir pasibaigus Komisijos narių įgaliojimams bei nutrūkus administracijos darbuotojų darbo santykiams su Komisija. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -3740,7 +3758,7 @@ Nr. XI-2353, 2012-11-06, Žin., 2012, Nr. 132-6681 (2012-11-15)
 
 
 
-3) šio įstatymo ir Transliavimo veiklos ir retransliuojamo turinio licencijavimo taisyklėse nustatyta tvarka skelbia ir vykdo konkursus transliavimo licencijoms ir (ar) retransliuojamo turinio licencijoms gauti, nustato šių konkursų ir licencijų sąlygas, išduoda licencijas, keičia licencijų sąlygas;
+3) šiame įstatyme ir Transliavimo veiklos ir retransliuojamo turinio licencijavimo taisyklėse nustatyta tvarka skelbia ir vykdo konkursus transliavimo licencijoms ir (ar) retransliuojamo turinio licencijoms gauti, nustato šių konkursų, licencijų ir leidimų sąlygas, išduoda licencijas, leidimus, keičia licencijų, leidimų sąlygas;
 
 
 
@@ -3750,40 +3768,37 @@ Nr. XI-2353, 2012-11-06, Žin., 2012, Nr. 132-6681 (2012-11-15)
 
 
 
-5) metinės įmokos dydžio nustatymo tvarkos apraše nustatytais atvejais kreipiasi į Vyriausybės įgaliotą instituciją dėl metinės įmokos dydžio nustatymo ir (ar) pakeitimo konkrečiam asmeniui;
+5) šiame įstatyme nustatytais atvejais, taip pat Komisijai pakeitus licencijoje (leidime) nustatytą licencijuojamos radijo ir (ar) televizijos programų transliavimo ar retransliavimo veiklos teritoriją ar gavus pranešimą apie nelicencijuojamos radijo ir (ar) televizijos programų transliavimo ar retransliavimo veiklos teritorijos pasikeitimą, kreipiasi į Vyriausybės įgaliotą instituciją dėl metinės įmokos dydžio nustatymo ir (ar) pakeitimo konkrečiam asmeniui;
 
 
 
 
-6) nustato užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų pranešimo registravimo tvarką;
+6) nustato užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjų pranešimo registravimo tvarką;
 
 
 
 
-7) prižiūri, kaip transliuotojai, retransliuotojai, kiti asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai laikosi Transliavimo veiklos ir retransliuojamo turinio licencijavimo taisyklių, šio ir kitų įstatymų nuostatų dėl retransliuojamų, platinamų internete radijo ir (ar) televizijos programų arba atskirų programų parinkimo, teikimo skleisti ir skleidimo, kitų teisės aktų reikalavimų dėl viešosios informacijos turinio ir jos skleidimo, Komisijos patvirtintų taisyklių dėl televizijos programų paketų sudarymo ir sprendimų, licencijų sąlygų, ir vykdo elektroninių ryšių tinklais retransliuojamų audiovizualinių kūrinių, radijo ir (ar) televizijos programų stebėseną;
+7) prižiūri, kaip transliuotojai, retransliuotojai, kiti asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjai laikosi Transliavimo veiklos ir retransliuojamo turinio licencijavimo taisyklių, šio ir kitų įstatymų nuostatų dėl retransliuojamų, platinamų internete radijo ir (ar) televizijos programų arba atskirų programų parinkimo, teikimo skleisti ir skleidimo, kitų teisės aktų reikalavimų dėl viešosios informacijos turinio ir jos skleidimo, Komisijos patvirtintų taisyklių dėl televizijos programų paketų sudarymo ir sprendimų, licencijų sąlygų, ir vykdo elektroninių ryšių tinklais retransliuojamų audiovizualinių kūrinių, radijo ir (ar) televizijos programų stebėseną;
 
 
 
 
-8) tvirtina taisykles dėl retransliuotojų ir kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, televizijos programų paketų sudarymo ir nustato reikalavimus retransliuotojų ir kitų asmenų, teikiančių televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, vykdomai programų parinkimo, teikimo skleisti ir skleidimo visuomenei veiklai bei prižiūri, kaip laikomasi šių reikalavimų;
+8) tvirtina taisykles dėl retransliuotojų ir kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, televizijos programų paketų sudarymo ir nustato reikalavimus retransliuotojų ir kitų asmenų, teikiančių televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, vykdomai programų parinkimo, teikimo skleisti ir skleidimo visuomenei veiklai ir prižiūri, kaip laikomasi šių reikalavimų;
 
 
 
 
-9) prižiūri, kaip radijo ir (ar) televizijos programų transliuotojai, retransliuotojai, kiti asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai laikosi šio ir Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymų, prisiimtų įsipareigojimų, licencijų sąlygų ir Komisijos sprendimų;
+9) prižiūri, kaip radijo ir (ar) televizijos programų transliuotojai, retransliuotojai, kiti asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjai laikosi šio įstatymo ir Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo, prisiimtų įsipareigojimų, licencijų, leidimų sąlygų ir Komisijos sprendimų;
 
 
 
 
-10) pagal Komisijos nustatytą tvarką nagrinėja vartotojų skundus dėl radijo ir (ar) televizijos programų transliuotojų, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų, taip pat dėl kitų asmenų, teikiančių vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, veiklos;
+10) pagal Komisijos nustatytą tvarką nagrinėja vartotojų skundus dėl radijo ir (ar) televizijos programų transliuotojų, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjų, taip pat dėl kitų asmenų, teikiančių vartotojams televizijos programų ir (ar) atskirų programų platinimo internete, dalijimosi vaizdo medžiaga platformos paslaugas, veiklos;
 
 
 
 
-11) gavusi motyvuotą prašymą šio įstatymo 19 straipsnio 5 ar 6 dalyje nurodytu pagrindu, policijos pranešimą šio įstatymo 19 straipsnio 9 dalies 3 punkte nurodytu pagrindu arba atlikusi tyrimą, arba šio įstatymo 50 straipsnio 1 dalies 4, 7, 8 punktuose nurodytais atvejais remdamasi žurnalistų etikos inspektoriaus išvada, arba vadovaudamasi ekspertų išvadomis, šio įstatymo nustatyta tvarka ir terminais priima sprendimą dėl šiame įstatyme nustatytų objektyviai būtinų poveikio priemonių taikymo; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
+11) gavusi motyvuotą prašymą šio įstatymo 19 straipsnio 5 ar 6 dalyje nurodytu pagrindu, policijos pranešimą šio įstatymo 19 straipsnio 9 dalies 3 punkte nurodytu pagrindu arba atlikusi tyrimą, arba šio įstatymo 50 straipsnio 1 dalies 4, 7, 8 punktuose nurodytais atvejais remdamasi žurnalistų etikos inspektoriaus išvada, arba vadovaudamasi ekspertų išvadomis, šio įstatymo nustatyta tvarka ir terminais priima sprendimą dėl šiame įstatyme nustatytų objektyviai būtinų poveikio priemonių taikymo;
 
 
 
@@ -3793,42 +3808,42 @@ Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
 
 
 
-13) nustato įstatymų ir Europos Sąjungos teisės aktų reikalavimų, keliamų radijo ir (ar) televizijos programų sandarai ir turiniui, komerciniams audiovizualiniams pranešimams ir reklamos transliavimui, visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, radijo programų ir atskirų programų rėmimo radijo ir (ar) televizijos programose įgyvendinimo tvarką, pagal savo kompetenciją priima kitus įstatymų įgyvendinamuosius teisės aktus dėl šio ir kitų įstatymų nuostatų įgyvendinimo;
+13) nustato įstatymų ir Europos Sąjungos teisės aktų reikalavimų, keliamų radijo ir (ar) televizijos programų sandarai ir turiniui, komerciniams audiovizualiniams pranešimams ir reklamos transliavimui, audiovizualinės žiniasklaidos paslaugų, radijo programų ir atskirų programų rėmimo radijo ir (ar) televizijos programose įgyvendinimo tvarką, pagal savo kompetenciją priima kitus įstatymų įgyvendinamuosius teisės aktus dėl šio ir kitų įstatymų nuostatų įgyvendinimo;
 
 
 
 
-14) prižiūri, kaip televizijos programų transliuotojai, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai laikosi šio įstatymo nuostatų dėl Europos kūrinių ir nepriklausomų kūrėjų sukurtų kūrinių apimtį transliuojamose televizijos programose ir kataloguose, teisės rodyti programas apie visuomenei reikšmingus įvykius, šio įstatymo 39 straipsnio 1, 3, 5, 6, 10, 11 dalyse nustatytų reikalavimų, keliamų televizijos reklamai ir komerciniams audiovizualiniams pranešimams, šio įstatymo 40 straipsnyje nustatytų reikalavimų, keliamų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų, radijo programų ir atskirų programų rėmimui, šio įstatymo 401 straipsnyje nustatytų reikalavimų, keliamų prekių rodymui programose;
+14) prižiūri, kaip televizijos programų transliuotojai, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjai laikosi šio įstatymo nuostatų dėl Europos kūrinių ir nepriklausomų kūrėjų sukurtų kūrinių apimties transliuojamose televizijos programose ir kataloguose, teisės rodyti programas apie visuomenei reikšmingus įvykius, šio įstatymo reikalavimų, keliamų televizijos reklamai ir komerciniams audiovizualiniams pranešimams, audiovizualinės žiniasklaidos paslaugų, radijo programų ir atskirų programų rėmimui, prekių rodymui programose;
 
 
 
 
-15) teikia siūlymus dėl radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų veiklą reglamentuojančių įstatymų ir kitų su šia veikla susijusių teisės aktų projektų rengimo;
+15) teikia siūlymus dėl radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjų veiklą reglamentuojančių įstatymų ir kitų su šia veikla susijusių teisės aktų projektų rengimo;
 
 
 
 
-16) kreipiasi į Vilniaus apygardos administracinį teismą dėl neteisėtai vykdomos transliavimo, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo arba televizijos programų ir (ar) atskirų programų platinimo internete veiklos, taip pat neteisėtai vykdomo radijo ir (ar) televizijos programų retransliavimo nutraukimo;
+16) kreipiasi į Vilniaus apygardos administracinį teismą dėl neteisėtai vykdomos transliavimo, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo, televizijos programų ir (ar) atskirų programų platinimo internete veiklos, neteisėtai vykdomo radijo ir (ar) televizijos programų retransliavimo nutraukimo;
 
 
 
 
-17) šio įstatymo nustatyta tvarka stabdo užsienio valstybių visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų parengtų paslaugų teikimą Lietuvos Respublikos teritorijoje;
+17) šio įstatymo nustatyta tvarka stabdo užsienio valstybių audiovizualinės žiniasklaidos paslaugų teikėjų parengtų paslaugų teikimą Lietuvos Respublikos teritorijoje;
 
 
 
 
-18) kaupia aktualią informaciją apie radijo ir (ar) televizijos programų transliuotojus, retransliuotojus, kitus asmenis, teikiančius Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjus, analizuoja jų veiklą ir skelbia informaciją apie jų dalyvius, rengia informacinę ir metodinę medžiagą šiais klausimais;
+18) kaupia aktualią informaciją apie radijo ir (ar) televizijos programų transliuotojus, retransliuotojus, kitus asmenis, teikiančius Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjus, analizuoja jų veiklą, rengia informacinę ir metodinę medžiagą šiais klausimais;
 
 
 
 
-19) konsultuojasi ir keičiasi informacija su kompetentingomis užsienio valstybių ir tarptautinėmis institucijomis dėl radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, arba užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų ir jų teikiamų paslaugų, jų veiklos reguliavimo ir kontrolės;
+19) konsultuojasi ir keičiasi informacija su kompetentingomis užsienio valstybių ir tarptautinėmis institucijomis dėl radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, arba užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjų ir jų teikiamų paslaugų, jų veiklos reguliavimo ir kontrolės;
 
 
 
 
-20) kas 2 metus parengia ir teikia Seimui analitinę apžvalgą apie Lietuvos audiovizualinės politikos įgyvendinimą, visuomenės informavimo audiovizualinėmis priemonėmis paslaugų raidą, pateikia statistinius duomenis apie visų Lietuvos Respublikos teritorijoje veikiančių visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų veiklą įgyvendinant šio įstatymo 38 straipsnio 3 ir 4 dalių nuostatas, taip pat nurodo priežastis, trukdančias įgyvendinti šias nuostatas, ir priemones, kurių imtasi ar numatoma imtis trūkumams pašalinti;
+20) kas 2 metus parengia ir teikia Seimui analitinę apžvalgą apie Lietuvos audiovizualinės politikos įgyvendinimą, audiovizualinės žiniasklaidos paslaugų raidą, pateikia statistinius duomenis apie visų Lietuvos Respublikos teritorijoje veikiančių audiovizualinės žiniasklaidos paslaugų teikėjų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, ir dalijimosi vaizdo medžiaga platformos paslaugų teikėjų veiklą įgyvendinant šio įstatymo nuostatas, taip pat nurodo priežastis, trukdančias įgyvendinti konkrečias nuostatas, ir priemones, kurių imtasi ar numatoma imtis trūkumams pašalinti;
 
 
 
@@ -3838,97 +3853,107 @@ Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
 
 
 
-22) nustato transliuojamų, retransliuojamų radijo ir (ar) televizijos programų, televizijos programų ir (ar) atskirų programų, platinamų internete, užsakomųjų visuomenės informavimo audiovizualinių priemonių kodavimo tvarką;
+22) nustato transliuojamų, retransliuojamų radijo ir (ar) televizijos programų, televizijos programų ir (ar) atskirų programų, platinamų internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo kodavimo tvarką;
 
 
 
 
-23) pagal kompetenciją įgyvendina Reglamentą (ES) 2017/2394; 
-Papildyta straipsnio punktu:
-Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
- 
+23) pagal kompetenciją įgyvendina Reglamentą (ES) 2017/2394;
 
 
 
 
-24) atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
- 
+24) informuoja Europos Komisiją apie nustatytus reikalavimus audiovizualinės žiniasklaidos paslaugų ir dalijimosi vaizdo medžiaga platformos paslaugų teikėjams, kai šie reikalavimai nustato detalesnes ar griežtesnes taisykles, negu numatyta Europos Sąjungos teisėje;
 
 
 
 
+25) teikia Europos Komisijai Lietuvos Respublikos jurisdikcijai priklausančių audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjų sąrašą;
 
 
-2. Komisija radijo ir (ar) televizijos programų transliuotojams, retransliuotojams, kitiems asmenims, teikiantiems Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjams, pažeidusiems šio įstatymo reikalavimus, transliavimo, retransliuojamo turinio licencijų reikalavimus, taip pat nevykdantiems Komisijos sprendimų ar įpareigojimų, šio įstatymo nustatyta tvarka atlikusi tyrimą gali taikyti šias poveikio priemones:
 
 
-1) už šio įstatymo 19 straipsnio 1 dalies 1, 2 ir (ar) 3 punktuose nurodytos neskelbtinos informacijos paskelbimą, teikimą skleisti ir skleidimą – taikyti šio straipsnio 3 dalyje nurodytą baudą radijo ir (ar) televizijos programų transliuotojams bei užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjams;
+26) gavusi informaciją, kad Lietuvos Respublikos jurisdikcijai priklausančio audiovizualinės žiniasklaidos paslaugų teikėjo paslaugos bus visiškai ar daugiausia skirtos kitos Europos Sąjungos valstybės narės auditorijai, apie tai informuoja atitinkamos Europos Sąjungos valstybės narės kompetentingą reguliavimo instituciją;
 
 
 
 
-2) už šio įstatymo 33 straipsnio 12 dalies 1 ir 2 punktuose, taip pat šio įstatymo 341 straipsnyje nurodytų Komisijos sprendimų nevykdymą – taikyti šio straipsnio 3 dalyje nurodytą baudą retransliuotojui, kitam asmeniui, teikiančiam Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas;
+27) atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
 
 
 
 
-3) už transliavimo licencijoje ir (ar) retransliuojamo turinio licencijoje nurodytų reikalavimų pažeidimą ir (ar) Komisijos sprendimų, išskyrus šio straipsnio 2 dalies 2 punkte nurodytus sprendimus, nevykdymą, nepranešimą apie pradėtą vykdyti nelicencijuojamą radijo ir (ar) televizijos programų transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete Lietuvos Respublikos vartotojams veiklą Administracinių nusižengimų kodekso nustatytais atvejais skirti administracines nuobaudas; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
 
 
+2. Komisija radijo ir (ar) televizijos programų transliuotojams, retransliuotojams, kitiems asmenims, teikiantiems Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjams, pažeidusiems šio įstatymo, Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo reikalavimus, transliavimo, retransliuojamo turinio licencijų, leidimų reikalavimus, taip pat nevykdantiems Komisijos sprendimų ar įpareigojimų, šio įstatymo nustatyta tvarka atlikusi tyrimą, gali taikyti šias poveikio priemones:
 
 
-4) šio įstatymo nustatytais atvejais sustabdyti arba panaikinti transliavimo licencijos ir (ar) retransliuojamo turinio licencijos galiojimą;
+1) už šio įstatymo 19 straipsnio 1 dalyje nurodytos neskelbtinos informacijos paskelbimą, teikimą skleisti ir skleidimą – taikyti įspėjimą arba šio straipsnio 3 dalyje nurodytą baudą radijo ir (ar) televizijos programų transliuotojams bei užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjams;
 
 
 
 
-5) šio straipsnio 4 ir 5 dalyse nustatytais atvejais kreiptis į Vilniaus apygardos administracinį teismą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veiklos laikino sustabdymo ar neteisėtos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete veiklos, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veiklos nutraukimo.
+2) už šio įstatymo 33 straipsnio 12 dalies 1 ir 2 punktuose, taip pat šio įstatymo 341 straipsnyje nurodytų Komisijos sprendimų nevykdymą – taikyti šio straipsnio 3 dalyje nurodytą baudą retransliuotojui, kitam asmeniui, teikiančiam Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas;
 
 
 
 
+3) Administracinių nusižengimų kodekso nustatytais atvejais skirti administracines nuobaudas;
 
 
-3. Transliuotojui, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjui už šio įstatymo 19 straipsnio 1 dalies 1, 2 ir (ar) 3 punktuose nurodytos informacijos paskelbimą, o retransliuotojui, kitam asmeniui, teikiančiam Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, – už šio įstatymo 33 straipsnio 12 dalies 1 ir 2 punktuose, taip pat šio įstatymo 341 straipsnyje nurodytų Komisijos sprendimų nevykdymą gali būti skiriama bauda iki 3 procentų transliuotojo, retransliuotojo, kito asmens, teikiančio Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo bendrųjų metinių pajamų praėjusiais ūkiniais metais, o tais atvejais, kai bendrąsias metines pajamas apskaičiuoti sunku arba neįmanoma, – iki vieno šimto tūkstančių eurų.
 
 
+4) už Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatyme nustatytos informacijos paskelbimą skirti įspėjimą arba Administracinių nusižengimų kodekse nustatytą administracinę nuobaudą;
 
 
-4. Komisija turi teisę kreiptis į Vilniaus apygardos administracinį teismą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų veiklos laikino sustabdymo ne ilgiau kaip 3 mėnesiams, jeigu:
 
 
-1) transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas per 3 mėnesius nesumoka šio straipsnio 3 dalyje nurodytos jam paskirtos baudos;
+5) šio įstatymo nustatytais atvejais sustabdyti arba panaikinti transliavimo licencijos ir (ar) retransliuojamo turinio licencijos galiojimą;
 
 
 
 
-2) po šio straipsnio 3 dalyje nurodytos baudos skyrimo ar kitų šiame įstatyme nustatytų poveikio priemonių taikymo už Komisijos sprendimų nevykdymą transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas ir toliau nevykdo Komisijos sprendimo;
+6) šio straipsnio 4 ir 5 dalyse nustatytais atvejais kreiptis į Vilniaus apygardos administracinį teismą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete ir užsakomųjų audiovizualinės žiniasklaidos paslaugų veiklos laikino sustabdymo ar neteisėtos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete veiklos, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklos nutraukimo.
 
 
 
 
-3) transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas laiku nesumoka metinės įmokos arba nustatytų įmokų Komisijos veiklai finansuoti ir jam per paskutinius 24 mėnesius už tokį patį pažeidimą buvo skirti du įspėjimai.
 
 
+3. Transliuotojui, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjui už šio įstatymo 19 straipsnio 1 dalyje nurodytos informacijos paskelbimą, o retransliuotojui, kitam asmeniui, teikiančiam Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, – už šio įstatymo 33 straipsnio 12 dalies 1 ir 2 punktuose, taip pat šio įstatymo 341 straipsnyje nurodytų Komisijos sprendimų nevykdymą gali būti skiriama bauda iki 3 procentų transliuotojo, retransliuotojo, kito asmens, teikiančio Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjo bendrųjų metinių pajamų praėjusiais ūkiniais metais, o tais atvejais, kai bendrąsias metines pajamas apskaičiuoti sunku arba neįmanoma, – iki vieno šimto tūkstančių eurų.
 
 
 
 
-5. Komisija turi teisę kreiptis į Vilniaus apygardos administracinį teismą dėl transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete veiklos, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo ir kitokios neteisėtos veiklos nutraukimo, jeigu:
+4. Komisija turi teisę kreiptis į Vilniaus apygardos administracinį teismą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklos laikino sustabdymo ne ilgiau kaip 3 mėnesiams, jeigu:
 
 
-1) transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas vykdo transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą po šio straipsnio 4 dalyje nurodytu pagrindu priimto teismo sprendimo įsiteisėjimo arba po transliavimo licencijos ir (ar) retransliuojamo turinio licencijos panaikinimo;
+1) transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjas per 3 mėnesius nesumoka šio straipsnio 3 dalyje nurodytos jam paskirtos baudos;
 
 
 
 
-2) asmenys, vykdantys nelicencijuojamą radijo ir (ar) televizijos programų transliavimo veiklą, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai, taip pat retransliuotojai, kurie radijo ir (ar) televizijos programoms retransliuoti nenaudoja radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytų radijo dažnių (kanalų), pradėjo vykdyti veiklą nepranešę Komisijai šio įstatymo nustatyta tvarka.
+2) po šio straipsnio 3 dalyje nurodytos baudos skyrimo ar kitų šiame įstatyme nustatytų poveikio priemonių taikymo už Komisijos sprendimų nevykdymą transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjas, dalijimosi vaizdo medžiaga platformos paslaugų teikėjas ir toliau nevykdo Komisijos sprendimo;
+
+
+
+
+3) transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjas, dalijimosi vaizdo medžiaga platformos paslaugų teikėjas laiku nesumoka metinės įmokos arba nustatytų įmokų Komisijos veiklai finansuoti ir jam per paskutinius 24 mėnesius už tokį patį pažeidimą buvo skirti du įspėjimai.
+
+
+
+
+
+
+5. Komisija turi teisę kreiptis į Vilniaus apygardos administracinį teismą dėl transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete veiklos, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo ir kitokios neteisėtos veiklos nutraukimo, jeigu:
+
+
+1) transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjas, dalijimosi vaizdo medžiaga platformos paslaugų teikėjas vykdo transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklą po šio straipsnio 4 dalyje nurodytu pagrindu priimto teismo sprendimo įsiteisėjimo arba po transliavimo licencijos ir (ar) retransliuojamo turinio licencijos panaikinimo;
+
+
+
+
+2) asmenys, vykdantys nelicencijuojamą radijo ir (ar) televizijos programų transliavimo veiklą, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjai, dalijimosi vaizdo medžiaga platformos paslaugų teikėjai, taip pat retransliuotojai, kurie radijo ir (ar) televizijos programoms retransliuoti nenaudoja radijo dažnių skyrimo radijo ir televizijos programoms transliuoti ir siųsti plane numatytų radijo dažnių (kanalų), pradėjo vykdyti veiklą nepranešę Komisijai šio įstatymo nustatyta tvarka.
 
 
 
@@ -3938,44 +3963,29 @@ Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
 6. Komisija, atlikusi tyrimą ir nustačiusi, kad asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, pradėjo vykdyti šią veiklą nepranešę Komisijai šio įstatymo nustatyta tvarka, turi teisę:
 
 
-1) duoti privalomus nurodymus elektroninės informacijos prieglobos paslaugų teikėjui skubiai pašalinti elektroninės informacijos prieglobos paslaugų teikėjo saugomą informaciją, naudojamą vykdant veiklą, apie kurią Komisijai nebuvo pranešta, arba panaikinti galimybę šią informaciją pasiekti; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1683, 2018-12-04, paskelbta TAR 2018-12-10, i. k. 2018-20184
- 
+1) duoti privalomus nurodymus elektroninės informacijos prieglobos paslaugų teikėjui skubiai pašalinti elektroninės informacijos prieglobos paslaugų teikėjo saugomą informaciją, naudojamą vykdant veiklą, apie kurią Komisijai nebuvo pranešta, arba panaikinti galimybę šią informaciją pasiekti;
 
 
 
 
-2) duoti privalomus nurodymus tinklo paslaugų teikėjui panaikinti galimybę pasiekti informaciją, naudojamą vykdant veiklą, apie kurią nebuvo pranešta teisės aktų nustatyta tvarka. 
-
-
-Papildyta straipsnio dalimi:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+2) duoti privalomus nurodymus viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjui panaikinti galimybę pasiekti informaciją, naudojamą vykdant veiklą, apie kurią nebuvo pranešta teisės aktų nustatyta tvarka.
 
 
 
 
-7. Komisija, siekdama atlikti šio straipsnio 6 dalyje nurodytus veiksmus, privalo Vilniaus apygardos administraciniam teismui pateikti prašymą išduoti leidimą atlikti veiksmus. Šiame prašyme turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamo pažeidimo (įtariamų pažeidimų) pobūdis ir veiksmai, kuriuos numatoma atlikti. Vilniaus apygardos administracinis teismas prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį patenkinti prašymą išduoti leidimą atlikti veiksmus arba atmesti šį prašymą. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir teismo nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Komisija nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, ji turi teisę per 7 kalendorines dienas nuo šios nutarties priėmimo apskųsti nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas skundą dėl Vilniaus apygardos administracinio teismo nutarties atmesti prašymą išduoti leidimą atlikti veiksmus turi išnagrinėti ne vėliau kaip per 7 kalendorines dienas nuo Komisijos skundo priėmimo dienos. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. 
-Papildyta straipsnio dalimi:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+
+
+7. Komisija, siekdama atlikti šio straipsnio 6 dalyje nurodytus veiksmus, privalo Vilniaus apygardos administraciniam teismui pateikti prašymą išduoti leidimą atlikti veiksmus. Šiame prašyme turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamo pažeidimo (įtariamų pažeidimų) pobūdis ir veiksmai, kuriuos numatoma atlikti. Vilniaus apygardos administracinis teismas prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį patenkinti prašymą išduoti leidimą atlikti veiksmus arba atmesti šį prašymą. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir teismo nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Komisija nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, ji turi teisę per 7 kalendorines dienas nuo šios nutarties priėmimo dienos apskųsti nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas skundą dėl Vilniaus apygardos administracinio teismo nutarties atmesti prašymą išduoti leidimą atlikti veiksmus turi išnagrinėti ne vėliau kaip per 7 kalendorines dienas nuo Komisijos skundo priėmimo dienos. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
 
 
 
 
-8. Galimybių pasiekti informaciją, kuri naudojama vykdant televizijos programų ir (ar) atskirų programų platinimo internete Lietuvos Respublikos vartotojams veiklą, apie kurią nebuvo pranešta teisės aktų nustatyta tvarka, panaikinimo užtikrinimo tvarką nustato Vyriausybė ar jos įgaliota institucija. 
-Papildyta straipsnio dalimi:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+8. Galimybių pasiekti informaciją, kuri naudojama vykdant televizijos programų ir (ar) atskirų programų platinimo internete Lietuvos Respublikos vartotojams veiklą, apie kurią nebuvo pranešta teisės aktų nustatyta tvarka, panaikinimo užtikrinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
 
 
 
 
-9. Komisija, įstatymų nustatyta tvarka taikydama poveikio priemones radijo ir (ar) televizijos programų transliuotojams, retransliuotojams, kitiems asmenims, teikiantiems Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjams, pažeidusiems šio įstatymo ar transliavimo licencijų ir (ar) retransliuojamo turinio licencijų reikalavimus, nevykdantiems Komisijos sprendimų, atsižvelgia į:
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+9. Komisija, įstatymų nustatyta tvarka taikydama poveikio priemones radijo ir (ar) televizijos programų transliuotojams, retransliuotojams, kitiems asmenims, teikiantiems Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjams, pažeidusiems šio įstatymo, Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo ar transliavimo licencijų ir (ar) retransliuojamo turinio licencijų reikalavimus, nevykdantiems Komisijos sprendimų, atsižvelgia į:
 
 
 1) pažeidimo ar Komisijos sprendimo nevykdymo pavojingumą;
@@ -3993,151 +4003,107 @@ Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
 
 
 
-4) transliuotojo, retransliuotojo, kito asmens, teikiančio Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo atsakomybę lengvinančias ar sunkinančias aplinkybes. Komisija, taikydama poveikio priemones, atsakomybę lengvinančiomis aplinkybėmis gali pripažinti ir kitas šiame įstatyme nenurodytas aplinkybes.
+4) transliuotojo, retransliuotojo, kito asmens, teikiančio Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjo atsakomybę lengvinančias ar sunkinančias aplinkybes. Komisija, taikydama poveikio priemones, atsakomybę lengvinančiomis aplinkybėmis gali pripažinti ir kitas šiame įstatyme nenurodytas aplinkybes.
 
 
 
 
 
 
-10. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas, padarę šio įstatymo pažeidimą ar nevykdantys Komisijos sprendimo, savo noru užkirto kelią žalingiems pažeidimo padariniams, aktyviai bendradarbiavo su Komisija tyrimo metu.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+10. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjas, padarę šio įstatymo pažeidimą ar nevykdantys Komisijos sprendimo, savo noru užkirto kelią žalingiems pažeidimo padariniams, aktyviai bendradarbiavo su Komisija tyrimo metu.
 
 
 
 
-11. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas kliudė Komisijai vykdyti tyrimą, slėpė padarytą šio įstatymo pažeidimą, tęsė šio įstatymo pažeidimą sudarančius veiksmus, nevykdė Komisijos sprendimo.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+11. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjas kliudė Komisijai vykdyti tyrimą, slėpė padarytą šio įstatymo pažeidimą, tęsė šio įstatymo pažeidimą sudarančius veiksmus.
 
 
 
 
-12. Konkretus baudos dydis nustatomas įvertinus aplinkybes, nurodytas šio straipsnio 9, 10, 11 dalyse. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, baudos dydis nustatomas atsižvelgiant į jų kiekį ir reikšmingumą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+12. Konkretus baudos dydis nustatomas įvertinus šio straipsnio 9, 10, 11 dalyse nurodytas aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, baudos dydis nustatomas atsižvelgiant į jų kiekį ir reikšmingumą.
 
 
 
 
-13. Komisija sprendimą dėl šio straipsnio 2, 3, 4, 5 dalyse nurodytų poveikio priemonių taikymo kitais negu šio įstatymo 19 straipsnio 5 dalyje nurodytais atvejais turi priimti per 20 darbo dienų nuo tyrimo pradžios. Prieš priimdama sprendimą Komisija suinteresuotiems asmenims raštu pateikia tyrimo išvadas ir sudaro galimybes per Komisijos nustatytą protingą terminą raštu pateikti savo paaiškinimus dėl šio įstatymo reikalavimų, transliavimo licencijų ir (ar) retransliuojamo turinio licencijų reikalavimų, taip pat Komisijos sprendimų nevykdymo.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+13. Komisija sprendimą dėl šio straipsnio 2, 3, 4, 5 dalyse nurodytų poveikio priemonių taikymo kitais negu šio įstatymo 19 straipsnio 5 dalyje nurodytais atvejais turi priimti per 20 darbo dienų nuo tyrimo pradžios. Prieš priimdama sprendimą, Komisija suinteresuotiems asmenims raštu pateikia tyrimo išvadas ir sudaro galimybes per Komisijos nustatytą protingą terminą raštu pateikti savo paaiškinimus dėl šio įstatymo reikalavimų, transliavimo licencijų ir (ar) retransliuojamo turinio licencijų reikalavimų, taip pat Komisijos sprendimų nevykdymo.
 
 
 
 
-14. Baigus tyrimą, šio įstatymo pažeidimu įtariamiems asmenims sudaroma galimybė susipažinti su tyrimo bylos medžiaga, išskyrus dokumentus, kuriuose yra valstybės ar tarnybos paslapčių arba kito ūkio subjekto komercinių paslapčių. Norint susipažinti su dokumentais, kuriuose yra kito ūkio subjekto komercinių paslapčių, būtina gauti ūkio subjekto, su kurio komercines paslaptis sudarančiais dokumentais norima susipažinti, sutikimą.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+14. Baigus tyrimą, šio įstatymo pažeidimu įtariamiems asmenims sudaroma galimybė susipažinti su tyrimo bylos medžiaga, išskyrus atvejus, kai Komisija motyvuotai nusprendžia neleisti susipažinti su dalimi medžiagos, sudarančios valstybės ar tarnybos paslaptį arba kito ūkio subjekto komercinę paslaptį. Komisijos sprendimas neleisti susipažinti su dalimi medžiagos, sudarančios valstybės ar tarnybos paslaptį arba kito ūkio subjekto komercinę paslaptį, per 30 dienų nuo pranešimo apie tokio sprendimo priėmimą gavimo dienos gali būti skundžiamas Vilniaus apygardos administraciniam teismui.
 
 
 
 
-15. Prieš Komisijai priimant sprendimą dėl šio įstatymo pažeidimo, pažeidimu įtariami asmenys ir kiti suinteresuoti asmenys turi teisę duoti paaiškinimus ir būti išklausyti Komisijos posėdžio metu. Apie posėdžio vietą ir laiką jiems turi būti iš anksto pranešta apie tai paskelbiant Komisijos interneto svetainėje. Apie numatomą posėdį Komisija taip pat turi teisę pranešti per visuomenės informavimo priemones.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+15. Prieš Komisijai priimant sprendimą dėl šio įstatymo pažeidimo, pažeidimu įtariami asmenys ir kiti suinteresuoti asmenys turi teisę duoti paaiškinimus ir būti išklausyti Komisijos posėdžio metu. Apie posėdžio vietą ir laiką jiems turi būti iš anksto pranešta apie tai paskelbiant Komisijos interneto svetainėje ir individualiai išsiunčiant arba įteikiant tokį pranešimą. Apie numatomą posėdį Komisija taip pat turi teisę pranešti per visuomenės informavimo priemones.
 
 
 
 
 16. Komisijos posėdžiai, kurių metu išklausomi pažeidimu įtariami asmenys ir kiti suinteresuoti asmenys, yra vieši. Komisija savo iniciatyva, pažeidimu įtariamų asmenų arba kitų suinteresuotų asmenų prašymu gali paskelbti posėdį uždarą, jeigu tai būtina siekiant apsaugoti valstybės ar tarnybos paslaptis arba ūkio subjektų komercines paslaptis.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
 
 
 
 
 17. Laikoma, kad pažeidimu įtariami asmenys ir kiti suinteresuoti asmenys buvo išklausyti, kai yra duomenų, kad jiems buvo tinkamai pranešta apie Komisijos posėdžio vietą ir laiką, buvo suteikta galimybė duoti paaiškinimus, susipažinti su tyrimo išvadomis, o pažeidimu įtariamiems asmenims buvo suteikta galimybė susipažinti su tyrimo bylos medžiaga.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
 
 
 
 
 18. Komisijos sprendimai dėl baudos paskyrimo gali būti skundžiami Vilniaus apygardos administraciniam teismui. Nurodytų Komisijos sprendimų apskundimas nestabdo šių sprendimų vykdymo.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
 
 
 
 
-19. Radijo ir (ar) televizijos programų transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas Komisijos paskirtą baudą privalo sumokėti į valstybės biudžetą ne vėliau kaip per 3 mėnesius nuo baudos paskyrimo dienos. Jeigu radijo ir (ar) televizijos programų transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas sumoka baudą, o įsiteisėjusiu teismo sprendimu paskirta bauda sumažinama arba panaikinama, permokėta piniginė suma įskaitoma arba grąžinama radijo ir (ar) televizijos programų transliuotojui, retransliuotojui, kitam asmeniui, teikiančiam Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjui mutatis mutandis vadovaujantis Mokesčių administravimo įstatymo nustatyta mokesčių permokų įskaitymo arba grąžinimo tvarka. Jeigu radijo ir (ar) televizijos programų transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas nesumoka baudos per šioje dalyje nustatytą terminą, skaičiuojamos Civilinio kodekso 6.210 straipsnio 1 dalyje nustatyto dydžio palūkanos. Palūkanos pradedamos skaičiuoti nuo kitos dienos po to, kai sueina šioje dalyje nustatytas terminas. Palūkanos yra skaičiuojamos kiekvieną dieną ir baigiamos skaičiuoti tą dieną, kai bauda sumokama į valstybės biudžetą, bet ne ilgiau kaip 180 dienų.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+19. Radijo ir (ar) televizijos programų transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjas Komisijos paskirtą baudą privalo sumokėti į valstybės biudžetą ne vėliau kaip per 3 mėnesius nuo baudos paskyrimo dienos. Jeigu radijo ir (ar) televizijos programų transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjas sumoka baudą, o įsiteisėjusiu teismo sprendimu paskirta bauda sumažinama arba panaikinama, permokėta piniginė suma įskaitoma arba grąžinama radijo ir (ar) televizijos programų transliuotojui, retransliuotojui, kitam asmeniui, teikiančiam Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjui mutatis mutandis vadovaujantis Mokesčių administravimo įstatymo nustatyta mokesčių permokų įskaitymo arba grąžinimo tvarka. Jeigu radijo ir (ar) televizijos programų transliuotojas, retransliuotojas, kitas asmuo, teikiantis Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjas nesumoka baudos per šioje dalyje nustatytą terminą, skaičiuojamos Civilinio kodekso 6.210 straipsnio 1 dalyje nustatyto dydžio palūkanos. Palūkanos pradedamos skaičiuoti nuo kitos dienos po to, kai sueina šioje dalyje nustatytas terminas. Palūkanos yra skaičiuojamos kiekvieną dieną ir baigiamos skaičiuoti tą dieną, kai bauda sumokama į valstybės biudžetą, bet ne ilgiau kaip 180 dienų.
 
 
 
 
-20. Šio straipsnio 4 ir 5 dalyse numatytais atvejais kreipdamasi į Vilniaus apygardos administracinį teismą, Komisija pateikia teismui objektyviais duomenimis (faktais) ir teisės aktų normomis pagrįstą prašymą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklos laikino sustabdymo ar neteisėtos transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklos nutraukimo ir pateikia prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą faktinį ir juridinį pagrindą patvirtinančių dokumentų kopijas ir kitą būtiną medžiagą. Vilniaus apygardos administracinis teismas turi priimti sprendimą laikinai sustabdyti nelicencijuojamą veiklą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą arba atmesti prašymą ne vėliau kaip per 30 dienų nuo prašymo priėmimo dienos. Vilniaus apygardos administracinio teismo sprendimas dėl Komisijos prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklą per 14 dienų nuo jo paskelbimo gali būti apeliacine tvarka skundžiamas Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas apeliacinį skundą turi išnagrinėti ne vėliau kaip per 30 dienų nuo jo priėmimo dienos. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2615, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24189
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+20. Šio straipsnio 4 ir 5 dalyse numatytais atvejais kreipdamasi į Vilniaus apygardos administracinį teismą, Komisija pateikia teismui objektyviais duomenimis (faktais) ir teisės aktų normomis pagrįstą prašymą dėl nelicencijuojamos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklos laikino sustabdymo ar neteisėtos transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklos nutraukimo ir pateikia prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ar atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklą faktinį ir juridinį pagrindą patvirtinančių dokumentų kopijas ir kitą būtiną medžiagą. Vilniaus apygardos administracinis teismas turi priimti sprendimą laikinai sustabdyti nelicencijuojamą veiklą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklą arba atmesti prašymą ne vėliau kaip per 30 dienų nuo prašymo priėmimo dienos. Vilniaus apygardos administracinio teismo sprendimas dėl Komisijos prašymo laikinai sustabdyti nelicencijuojamą ar nutraukti neteisėtą transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklą per 14 dienų nuo jo paskelbimo gali būti apeliacine tvarka skundžiamas Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas apeliacinį skundą turi išnagrinėti ne vėliau kaip per 30 dienų nuo jo priėmimo dienos.
 
 
 
 
-21. Vykdydama šio straipsnio 1 dalies 9 punkte nustatytas funkcijas, Komisija gali kreiptis dėl išvadų į žurnalistų etikos inspektorių dėl viešosios informacijos priskyrimo informacijos, kuri daro neigiamą poveikį nepilnamečių fiziniam, protiniam ar doroviniam vystymuisi, kategorijai, jeigu Komisijos nariams kyla abejonių vertinant viešosios informacijos žalą nepilnamečių fiziniam, protiniam ar doroviniam vystymuisi arba tokios viešosios informacijos vertinimas reikalauja specialių žinių. Gavęs tokį paklausimą, žurnalistų etikos inspektorius privalo per 10 darbo dienų pateikti Komisijai savo arba Žurnalistų etikos inspektoriaus tarnybos ekspertų išvadas prašomu klausimu.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+21. Atlikdama šio straipsnio 1 dalies 9 punkte nustatytas funkcijas, Komisija gali kreiptis dėl išvadų į žurnalistų etikos inspektorių dėl viešosios informacijos priskyrimo informacijos, kuri daro neigiamą poveikį nepilnamečių fiziniam, protiniam ar doroviniam vystymuisi, kategorijai, jeigu Komisijos nariams kyla abejonių vertinant viešosios informacijos žalą nepilnamečių fiziniam, protiniam ar doroviniam vystymuisi arba tokios viešosios informacijos vertinimas reikalauja specialių žinių. Gavęs tokį paklausimą, žurnalistų etikos inspektorius privalo per 10 darbo dienų pateikti Komisijai savo arba Žurnalistų etikos inspektoriaus tarnybos ekspertų išvadas prašomu klausimu.
 
 
 
 
-22. Komisija, vykdydama jai teisės aktais nustatytas funkcijas, turi teisę:
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-893, 2017-12-14, paskelbta TAR 2017-12-28, i. k. 2017-21493
- 
+22. Komisija, atlikdama jai teisės aktais nustatytas funkcijas, turi teisę:
 
 
-1) neatlygintinai gauti iš radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų, informacinės visuomenės informavimo priemonių valdytojų, valstybės ir savivaldybių institucijų, įstaigų, Vyriausybės ar ministerijų sudarytų komisijų, kitų juridinių asmenų informaciją, taip pat ir tokią, kuri sudaro komercinę paslaptį, reikalingą Komisijos funkcijoms atlikti;
+1) neatlygintinai gauti iš radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjų, informacinės visuomenės informavimo priemonių valdytojų, valstybės ir savivaldybių institucijų, įstaigų, Vyriausybės ar ministerijų sudarytų komisijų, kitų juridinių asmenų informaciją, taip pat ir tokią, kuri sudaro komercinę paslaptį, reikalingą Komisijos funkcijoms atlikti;
 
 
 
 
-2) gauti iš radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų, informacinės visuomenės informavimo priemonių valdytojų, valstybės ir savivaldybių institucijų, įstaigų, Vyriausybės ar ministerijų sudarytų komisijų, kitų asmenų dokumentus ir kitą informaciją, reikalingą Komisijos kompetencijai priskirtų atitinkamų įstatymų pažeidimų tyrimams atlikti;
+2) gauti iš radijo ir (ar) televizijos programų transliuotojų, retransliuotojų, kitų asmenų, teikiančių Lietuvos Respublikos vartotojams televizijos programų ir (ar) atskirų programų platinimo internete paslaugas, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikėjų, informacinės visuomenės informavimo priemonių valdytojų, valstybės ir savivaldybių institucijų, įstaigų, Vyriausybės ar ministerijų sudarytų komisijų, kitų asmenų dokumentus ir kitą informaciją, reikalingą Komisijos kompetencijai priskirtų atitinkamų įstatymų pažeidimų tyrimams atlikti;
 
 
 
 
-3) pasitelkti policiją, atliekant patikrinimus dėl galimai neteisėtai vykdomos transliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikimo veiklos, neteisėtai ir (ar) pažeidžiant retransliuojamoms, platinamoms internete programoms teisės aktuose nustatytus reikalavimus vykdomo radijo ir (ar) televizijos programų retransliavimo ir (ar) platinimo internete;
+3) pasitelkti policiją, atliekant patikrinimus dėl galimai neteisėtai vykdomos transliavimo, retransliavimo, televizijos programų ir (ar) atskirų programų platinimo internete, užsakomųjų audiovizualinės žiniasklaidos paslaugų, dalijimosi vaizdo medžiaga platformos paslaugų teikimo veiklos, taip pat dėl neteisėtai ir (ar) pažeidžiant teisės aktų reikalavimus, nustatytus transliuojamoms, retransliuojamoms, platinamoms internete ar skleidžiamoms dalijimosi vaizdo medžiaga platformose programoms, vykdomo radijo ir (ar) televizijos programų retransliavimo ir (ar) platinimo internete bei skleidimo dalijimosi vaizdo medžiaga platformose;
 
 
 
 
-4) radijo ir (ar) televizijos programų ar atskirų programų stebėsenos tikslais stebėti radijo ir (ar) televizijos programas ar atskiras programas prijungiant galinius įrenginius ir (ar) kitas technines priemones, skirtas radijo ir (ar) televizijos programoms ar atskiroms programoms stebėti ir fiksuoti, prie elektroninių ryšių tinklų, įskaitant ir apsaugotuosius sąlygine prieiga, kuriais transliuojamos, retransliuojamos ir (ar) platinamos internete radijo ir (ar) televizijos programos, ir (ar) teikiamos užsakomosios visuomenės informavimo audiovizualinėmis priemonėmis paslaugos;
+4) radijo ir (ar) televizijos programų ar atskirų programų stebėsenos tikslais stebėti radijo ir (ar) televizijos programas ar atskiras programas prijungiant galinius įrenginius ir (ar) kitas technines priemones, skirtas radijo ir (ar) televizijos programoms ar atskiroms programoms stebėti ir fiksuoti, prie elektroninių ryšių tinklų, įskaitant ir apsaugotuosius sąlygine prieiga, kuriais transliuojamos, retransliuojamos ir (ar) platinamos internete radijo ir (ar) televizijos programos, ir (ar) teikiamos užsakomosios audiovizualinės žiniasklaidos ar dalijimosi vaizdo medžiaga platformos paslaugos;
 
 
 
 
-5) gavusi teismo leidimą atlikti patikrinimus vietoje;
+5) gavusi teismo leidimą, atlikti patikrinimus vietoje;
 
 
 
 
-6) sudaryti komisijas, darbo grupes teisės aktams rengti ar kitiems Komisijos kompetencijos klausimams spręsti, įtraukti į jas kitų institucijų (suderinus su jų vadovais) specialistus;
+6) sudaryti komisijas, darbo grupes teisės aktų projektams rengti ar kitiems Komisijos kompetencijos klausimams spręsti, įtraukti į jas kitų institucijų (suderinus su jų vadovais) specialistus;
 
 
 
 
-7) pagal savo kompetenciją kaip kompetentinga institucija, vadovaudamasi Reglamentu (ES) 2017/2394, dalyvauti kuriant ir vykdant šiuo reglamentu nustatytą bendradarbiavimo sistemą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
- 
+7) pagal savo kompetenciją kaip kompetentinga institucija, vadovaudamasi Reglamentu (ES) 2017/2394, dalyvauti kuriant ir vykdant šiuo reglamentu nustatytą bendradarbiavimo sistemą;
 
 
 
@@ -4152,19 +4118,17 @@ Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
 
 
 
-10) turėti kitas šio įstatymo, tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių transliavimo ir retransliavimo veiklą, Reglamento (ES) 2017/2394 ir kitų teisės aktų nustatytas teises. 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
- 
+10) turėti kitų šio įstatymo, tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių transliavimo ir retransliavimo veiklą, Reglamento (ES) 2017/2394 ir kitų teisės aktų nustatytų teisių. 
+
+
 
 
 Straipsnio pakeitimai:
 Nr. XI-1046, 2010-09-30, Žin., 2010, Nr. 123-6260 (2010-10-18)
 Nr. XI-1572, 2011-06-30, Žin., 2011, Nr. 91-4335 (2011-07-19)
-
-
 Straipsnio pakeitimai:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -4642,7 +4606,9 @@ TEISĖS AKTŲ PAŽEIDIMUS IR JOS ĮGYVENDINIMO TVARKA
 
 
 
-3. Informacinės visuomenės tarpinių paslaugų teikėjai už informacinės visuomenės informavimo priemonių turinį atsako Informacinės visuomenės paslaugų įstatymo nustatytomis sąlygomis ir tvarka.
+3. Neteko galios nuo 2021-02-01
+Straipsnio dalies naikinimas:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -4653,9 +4619,10 @@ TEISĖS AKTŲ PAŽEIDIMUS IR JOS ĮGYVENDINIMO TVARKA
 52 straipsnis. Viešosios informacijos rengėjų ir (ar) skleidėjų veiklos sustabdymas arba nutraukimas
 
 
-1. Viešosios informacijos rengėjo ir (ar) skleidėjo, išskyrus radijo ir (ar) televizijos programų transliuotojus, retransliuotojus, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikėjus ir (ar) užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjus, veiklą gali laikinai sustabdyti arba nutraukti teismas, jeigu viešosios informacijos rengėjas ir (ar) skleidėjas pažeidžia šio įstatymo 19 straipsnio 1 ir (ar) 2 dalių nuostatas. 
+1. Viešosios informacijos rengėjo ir (ar) skleidėjo, išskyrus radijo ir (ar) televizijos programų transliuotojus, retransliuotojus, televizijos programų ir (ar) atskirų programų platinimo internete paslaugų teikėjus ir (ar) užsakomųjų audiovizualinės žiniasklaidos paslaugų teikėjus, veiklą gali laikinai sustabdyti arba nutraukti teismas, jeigu viešosios informacijos rengėjas ir (ar) skleidėjas pažeidžia šio įstatymo 19 straipsnio 1 ir (ar) 2 dalių nuostatas. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-983, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01002
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
@@ -5143,3 +5110,8 @@ Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 50 straipsnio 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2519, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18823
 Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 48 straipsnio ir priedo pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19, 20, 22, 24, 25, 31, 33, 34, 34-1, 37, 38, 39, 40, 40-1, 40-3, 40-4, 43, 45, 47, 48, 51, 52 straipsnių pakeitimo, Įstatymo papildymo 32-1, 40-5 straipsniais, 34-2 straipsnio pripažinimo netekusiu galios ir Įstatymo trečiojo skirsnio pavadinimo pakeitimo įstatymas
