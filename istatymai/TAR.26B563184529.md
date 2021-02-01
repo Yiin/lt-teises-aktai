@@ -20,14 +20,9 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-01-31
+Suvestinė redakcija nuo 2021-02-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 107-2391, i. k. 0951010ISTA00I-1120
- 
-TAR pastaba. Kituose įstatymuose vartojamos sąvokos „valstybei svarbus ekonominis projektas“ ir „valstybei svarbus kultūrinis projektas“ yra tapačios sąvokai „Seimo ir (ar) Vyriausybės nutarimu valstybei svarbiu pripažintas projektas“.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 4, 6, 17, 20, 23 ir 28 straipsnių pakeitimo įstatymas
  
 Nauja įstatymo redakcija nuo 2014-01-01:
 Nr. XII-407, 2013-06-27, Žin., 2013, Nr. 76-3824 (2013-07-16)
@@ -1712,30 +1707,30 @@ VALSTYBEI SVARBIŲ PROJEKTŲ TERITORIJŲ PLANAVIMAS
  
 
 
-23 straipsnis. Valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka
+23 straipsnis. Valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, koregavimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka 
 
 
-1. Valstybei svarbių projektų teritorijų planavimo dokumentams taikoma valstybės lygmens teritorijų planavimo dokumentų rengimo, derinimo, keitimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka, išskyrus šiame straipsnyje nustatytas išimtis. 
-
-
-
-
-2. Valstybei svarbių projektų teritorijų planavimo dokumentai pradedami rengti Vyriausybei priėmus nutarimą. Valstybei svarbių projektų teritorijų planavimo dokumentų planavimo organizatorius yra už atitinkamo valstybei svarbaus projekto įgyvendinimą atsakinga Vyriausybės įgaliota ar Seimo paskirta valstybės institucija. 
+1. Valstybei svarbių projektų teritorijų planavimo dokumentams taikoma atitinkamos rūšies valstybės lygmens teritorijų planavimo dokumentų rengimo, derinimo, keitimo, koregavimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka, išskyrus šiame straipsnyje nustatytas išimtis. Kai numatomi vietovės lygmens valstybei svarbaus projekto teritorijų planavimo dokumento sprendiniai atitinka savivaldybės lygmens bendrojo plano sprendinius, už atitinkamo valstybei svarbaus projekto įgyvendinimą atsakingos Vyriausybės įgaliotos ar Seimo paskirtos valstybės institucijos sprendimu šiam teritorijų planavimo dokumentui gali būti taikoma atitinkamos rūšies vietovės lygmens teritorijų planavimo dokumentų rengimo, derinimo, keitimo, koregavimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka, netaikant šiame straipsnyje nustatytų išimčių ir šio įstatymo 35 straipsnio 4 dalies nuostatos.
 
 
 
 
-3. Prieš pradėdamas rengti valstybei svarbaus projekto teritorijų planavimo dokumentą, planavimo organizatorius raštu kreipiasi į Aplinkos ministerijos patvirtintame tvarkos apraše nurodytas institucijas dėl planavimo sąlygų valstybei svarbaus projekto teritorijų planavimo dokumentui rengti išdavimo. Šios institucijos privalo išduoti valstybei svarbaus projekto teritorijų planavimo dokumento planavimo sąlygas per 20 darbo dienų nuo planavimo organizatoriaus prašymo institucijoje gavimo dienos.
+2. Valstybei svarbių projektų teritorijų planavimo dokumentai pradedami rengti ir (ar) keičiami Vyriausybei priėmus nutarimą. Valstybei svarbių projektų teritorijų planavimo dokumentų planavimo organizatorius yra už atitinkamo valstybei svarbaus projekto įgyvendinimą atsakinga Vyriausybės įgaliota ar Seimo paskirta valstybės institucija, išskyrus šio straipsnio 1 dalyje nurodytą atvejį, kai vietovės lygmens valstybei svarbaus projekto teritorijų planavimo dokumentui už atitinkamo valstybei svarbaus projekto įgyvendinimą atsakingos Vyriausybės įgaliotos ar Seimo paskirtos valstybės institucijos sprendimu taikoma atitinkamos rūšies vietovės lygmens teritorijų planavimo dokumentų rengimo, derinimo, keitimo, koregavimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka. Sprendimą dėl valstybei svarbių projektų teritorijų planavimo dokumentų koregavimo pradžios ir planavimo tikslų priima planavimo organizatorius. Valstybei svarbių projektų teritorijų planavimo dokumentų korektūros tvirtinamos valstybei svarbaus projekto teritorijų planavimo dokumentą tvirtinančio subjekto sprendimu ir registruojamos šio įstatymo nustatyta tvarka.
 
 
 
 
-4. Planavimo organizatorius apie parengtą valstybei svarbaus projekto teritorijų planavimo dokumentą, susipažinimo su šiuo dokumentu ir jo viešo svarstymo tvarką, vietą ir laiką turi paskelbti Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje, savo interneto svetainėje, seniūnijos skelbimų lentoje, taip pat apie tai raštu pranešti žemės sklypų, kurie patenka į valstybei svarbaus projekto teritoriją ir kurie su šia teritorija ribojasi, valdytojams ir naudotojams bei kito nekilnojamojo turto, esančio tokiuose žemės sklypuose, savininkams ar naudotojams. Šie pranešimai siunčiami Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 16 straipsnyje nustatyta tvarka.
+3. Prieš pradėdamas rengti valstybei svarbaus projekto teritorijų planavimo dokumentą, planavimo organizatorius raštu kreipiasi į aplinkos ministro patvirtintame tvarkos apraše nurodytas institucijas dėl teritorijos planavimo sąlygų valstybei svarbaus projekto teritorijų planavimo dokumentui rengti išdavimo. Šios institucijos privalo išduoti valstybei svarbaus projekto teritorijų planavimo dokumentui rengti reikalingas teritorijos planavimo sąlygas per 15 darbo dienų nuo planavimo organizatoriaus prašymo gavimo institucijoje dienos. Išduotos teritorijos planavimo sąlygos galioja viso teritorijų planavimo proceso metu, bet ne ilgiau kaip 5 metus. Teritorijos planavimo sąlygos išduodamos, keičiamos ir jų galiojimo terminai pratęsiami aplinkos ministro nustatyta tvarka. Teritorijos planavimo sąlygos keičiamos ir jų galiojimo terminai pratęsiami laikantis šio įstatymo 25 straipsnio 4 dalyje nustatytų reikalavimų.
 
 
 
 
-5. Pasiūlymai dėl valstybei svarbaus projekto teritorijų planavimo dokumento sprendinių planavimo organizatoriui teikiami raštu arba Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje per visą teritorijų planavimo dokumento rengimo laikotarpį iki viešo svarstymo ir jo metu. Po viešo svarstymo pateikti pasiūlymai dėl valstybei svarbaus projekto teritorijų planavimo dokumento sprendinių nepriimami. Planavimo organizatorius per 10 darbo dienų nuo viešo svarstymo dienos išnagrinėja visuomenės pateiktus pasiūlymus, parengia priimtų ir motyvuotai atmestų pasiūlymų apibendrinimo medžiagą ir motyvuotai raštu atsako pasiūlymus pateikusiems asmenims. Šie asmenys per 10 darbo dienų nuo atsakymo gavimo dienos, o tais atvejais, kai planavimo organizatorius per nustatytus terminus atsakymo nepateikė, – per 10 darbo dienų nuo tos dienos, kurią atsakymas turėjo būti pateiktas, turi teisę kreiptis su skundu į apygardos administracinį teismą dėl planavimo organizatoriaus pateikto atsakymo arba dėl to, kad atsakymas nebuvo pateiktas. Teismas, gavęs tokį skundą, nustato planavimo organizatoriui 10 darbo dienų terminą raštu pateikti savo atsiliepimą į skundą. Ne vėliau kaip per 10 darbo dienų nuo planavimo organizatoriaus atsiliepimo į skundą pateikimo dienos teismas nutartimi išsprendžia klausimą, ar dėl paduoto skundo reikia stabdyti tolesnę valstybei svarbaus projekto teritorijų planavimo dokumento rengimo, derinimo ir tvirtinimo procedūrą. Priimdamas šią nutartį, teismas įvertina, ar:
+4. Planavimo organizatorius apie parengtą valstybei svarbaus projekto teritorijų planavimo dokumentą, susipažinimo su šiuo dokumentu ir jo viešo svarstymo ar susipažinimo su parengtais valstybės lygmens teritorijų planavimo dokumentais tvarką, vietą ir laiką turi paskelbti Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje, savo interneto svetainėje, seniūnijos skelbimų lentoje, taip pat apie tai raštu pranešti žemės sklypų, kurie patenka į valstybei svarbaus projekto teritoriją ir kurie su šia teritorija ribojasi, valdytojams ir naudotojams bei kito nekilnojamojo turto, esančio tokiuose žemės sklypuose, savininkams ar naudotojams. Šie pranešimai siunčiami Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 16 straipsnyje nustatyta tvarka.
+
+
+
+
+5. Pasiūlymai dėl valstybei svarbaus projekto teritorijų planavimo dokumento sprendinių planavimo organizatoriui teikiami raštu arba Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje per visą teritorijų planavimo dokumento rengimo laikotarpį iki viešo svarstymo (ir jo metu) ar susipažinimo su parengtais valstybės lygmens teritorijų planavimo dokumentais ir jo metu. Po viešo svarstymo ar pasibaigus susipažinimo su parengtais valstybės lygmens teritorijų planavimo dokumentais terminui pateikti pasiūlymai dėl valstybei svarbaus projekto teritorijų planavimo dokumento sprendinių nepriimami. Planavimo organizatorius per 10 darbo dienų (dėl savivaldybės lygmens teritorijų planavimo dokumentų – per 15 darbo dienų) nuo viešo svarstymo dienos ar per 15 darbo dienų nuo susipažinimo su parengtais valstybės lygmens teritorijų planavimo dokumentais termino pabaigos išnagrinėja visuomenės pateiktus pasiūlymus, parengia apibendrintą informaciją apie priimtus ir motyvuotai atmestus pasiūlymus ir motyvuotai raštu atsako pasiūlymus pateikusiems asmenims. Šie asmenys per 10 darbo dienų nuo atsakymo gavimo dienos, o tais atvejais, kai planavimo organizatorius per nustatytus terminus atsakymo nepateikė, – per 10 darbo dienų nuo dienos, kurią atsakymas turėjo būti pateiktas, turi teisę kreiptis su skundu į apygardos administracinį teismą dėl planavimo organizatoriaus pateikto atsakymo arba dėl to, kad atsakymas nebuvo pateiktas. Teismas, gavęs tokį skundą, nustato 10 darbo dienų terminą, per kurį planavimo organizatorius turi raštu pateikti savo atsiliepimą į skundą. Ne vėliau kaip per 10 darbo dienų nuo planavimo organizatoriaus atsiliepimo į skundą pateikimo dienos teismas nutartimi išsprendžia klausimą, ar dėl paduoto skundo reikia stabdyti tolesnę valstybei svarbaus projekto teritorijų planavimo dokumento rengimo, derinimo ir tvirtinimo procedūrą. Priimdamas šią nutartį, teismas įvertina, ar:
 
 
 1) galioja Seimo ar Vyriausybės nutarimas dėl projekto pripažinimo valstybei svarbiu projektu;
@@ -1748,44 +1743,44 @@ VALSTYBEI SVARBIŲ PROJEKTŲ TERITORIJŲ PLANAVIMAS
 
 
 
-3) buvo išduotos ir galioja valstybei svarbaus projekto teritorijų planavimo dokumento planavimo sąlygos;
+3) buvo išduotos ir galioja valstybei svarbaus projekto teritorijų planavimo dokumento teritorijos planavimo sąlygos;
 
 
 
 
-4) valstybei svarbaus projekto teritorijų planavimo dokumento viešinimo procedūros buvo vykdytos šio įstatymo nustatyta tvarka;
+4) valstybei svarbaus projekto teritorijų planavimo dokumento viešinimo procedūros buvo atliktos šio įstatymo nustatyta tvarka;
 
 
 
 
-5) laikantis šio įstatymo nustatytų terminų ir tvarkos, skundą padavusiam asmeniui buvo pranešta apie teritorijų planavimo dokumentą, susipažinimo su šiuo dokumentu ir jo viešo svarstymo tvarką, vietą ir laiką.
+5) buvo, laikantis šio įstatymo nustatytų terminų ir tvarkos, skundą padavusiam asmeniui pranešta apie teritorijų planavimo dokumentą, susipažinimo su šiuo dokumentu ir jo viešo svarstymo tvarką, vietą ir laiką.
 
 
 
 
 
 
-6. Šio straipsnio 5 dalyje numatyta apygardos administracinio teismo nutartis per  5 darbo dienas nuo jos paskelbimo dienos gali būti skundžiama Lietuvos vyriausiajam administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo (toliau – Administracinių bylų teisenos įstatymas) nustatyta tvarka paduodant atskirąjį skundą. Lietuvos vyriausiasis administracinis teismas tokį atskirąjį skundą turi išnagrinėti ne vėliau kaip per 20 darbo dienų nuo atskirojo skundo gavimo dienos. Šio straipsnio 5 dalyje numatytas skundas apygardos administraciniame teisme turi būti išnagrinėtas iš esmės per 30 darbo dienų nuo šio straipsnio 5 dalyje nurodytos nutarties priėmimo dienos, o apeliacinis skundas – per 30 darbo dienų nuo apeliacinio skundo priėmimo dienos.
+6. Šio straipsnio 5 dalyje numatyta apygardos administracinio teismo nutartis per 5 darbo dienas nuo jos paskelbimo dienos gali būti skundžiama Lietuvos vyriausiajam administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo (toliau – Administracinių bylų teisenos įstatymas) nustatyta tvarka paduodant atskirąjį skundą. Lietuvos vyriausiasis administracinis teismas šį atskirąjį skundą turi išnagrinėti ne vėliau kaip per 20 darbo dienų nuo jo gavimo dienos. Šio straipsnio 5 dalyje numatytas skundas apygardos administraciniame teisme turi būti išnagrinėtas iš esmės per 30 darbo dienų nuo šio straipsnio 5 dalyje nurodytos nutarties priėmimo dienos, o apeliacinis skundas – per 30 darbo dienų nuo apeliacinio skundo priėmimo dienos. 
 
 
 
 
-7. Valstybei svarbaus projekto teritorijų planavimo dokumento sprendiniai derinami su institucijomis, pateikusiomis planavimo sąlygas. Derinimo procedūros atliekamos ir derinimo išvada ar atsisakymo derinti valstybei svarbaus projekto teritorijų planavimo dokumentą motyvuota išvada paskelbiamos Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje. Šios institucijos ne vėliau kaip per 20 darbo dienų nuo teritorijų planavimo dokumento pateikimo joms dienos išnagrinėja teritorijų planavimo dokumentą ir pateikia derinimo išvadą ar atsisakymo derinti valstybei svarbaus projekto teritorijų planavimo dokumentą motyvuotą išvadą. Teritorijų planavimo dokumentas yra suderintas, jeigu jam pritarė ir išvadas pateikė visos derinant teritorijų planavimo dokumentą dalyvaujančios derinančios institucijos. Jeigu per nustatytą terminą institucija nepateikia pastabų dėl valstybei svarbaus projekto teritorijų planavimo dokumento, laikoma, kad ši institucija pastabų neturėjo ir valstybei svarbaus projekto teritorijų planavimo dokumentą suderino. Tais atvejais, kai per nustatytą terminą institucija motyvuotai atsisako derinti valstybei svarbaus projekto teritorijų planavimo dokumentą arba šis teritorijų planavimo dokumentas derinamas su išlygomis, planavimo organizatorius, atsižvelgdamas į planavimo sąlygas išdavusios institucijos motyvus dėl atsisakymo derinti valstybei svarbaus projekto teritorijų planavimo dokumentą arba į nurodytus teritorijų planavimo dokumento sprendinių pakeitimus, gali atitinkamai pakeisti valstybei svarbaus projekto teritorijų planavimo dokumento sprendinius. Tais atvejais, kai planavimo organizatorius pagrįstai mano, kad planavimo sąlygas išdavusios institucijos nurodyti valstybei svarbaus projekto teritorijų planavimo dokumento sprendinių pakeitimai nereikalingi, arba kai atsisakoma derinti valstybei svarbaus projekto teritorijų planavimo dokumentą nenurodant motyvų, planavimo organizatorius, pateikdamas motyvuotą paaiškinimą, turi teisę teikti valstybei svarbaus projekto teritorijų planavimo dokumentą Vyriausybei tvirtinti ir be atitinkamos institucijos suderinimo. Vyriausybė, įvertinusi planavimo organizatoriaus pateiktus motyvus, turi teisę patvirtinti su atitinkama institucija nesuderintą valstybei svarbaus projekto teritorijų planavimo dokumentą.
+7. Valstybei svarbaus projekto teritorijų planavimo dokumento sprendiniai derinami su institucijomis, išdavusiomis teritorijos planavimo sąlygas. Derinimo procedūros atliekamos ir derinimo išvada ar atsisakymo derinti valstybei svarbaus projekto teritorijų planavimo dokumentą motyvuota išvada paskelbiama Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje. Šios institucijos ne vėliau kaip per 15 darbo dienų nuo teritorijų planavimo dokumento pateikimo joms dienos išnagrinėja teritorijų planavimo dokumentą ir pateikia derinimo išvadą ar atsisakymo derinti valstybei svarbaus projekto teritorijų planavimo dokumentą motyvuotą išvadą. Teritorijų planavimo dokumentas yra suderintas, jeigu jam pritarė ir išvadas pateikė visos derinant teritorijų planavimo dokumentą dalyvaujančios institucijos. Jeigu per nustatytą terminą institucija nepateikia pastabų dėl valstybei svarbaus projekto teritorijų planavimo dokumento, laikoma, kad ši institucija pastabų neturėjo ir valstybei svarbaus projekto teritorijų planavimo dokumentą suderino. Tais atvejais, kai per nustatytą terminą institucija motyvuotai atsisako derinti valstybei svarbaus projekto teritorijų planavimo dokumentą arba šis teritorijų planavimo dokumentas derinamas su išlygomis, planavimo organizatorius, atsižvelgdamas į planavimo sąlygas išdavusios institucijos motyvus dėl atsisakymo derinti valstybei svarbaus projekto teritorijų planavimo dokumentą arba į nurodytus teritorijų planavimo dokumento sprendinių pakeitimus, gali atitinkamai pakeisti valstybei svarbaus projekto teritorijų planavimo dokumento sprendinius. Tais atvejais, kai planavimo organizatorius pagrįstai mano, kad teritorijos planavimo sąlygas išdavusios institucijos nurodyti valstybei svarbaus projekto teritorijų planavimo dokumento sprendinių pakeitimai nereikalingi, arba kai atsisakoma derinti valstybei svarbaus projekto teritorijų planavimo dokumentą nenurodant motyvų, planavimo organizatorius, pateikdamas motyvuotą paaiškinimą, turi teisę teikti valstybei svarbaus projekto teritorijų planavimo dokumentą teritorijų planavimo valstybinę priežiūrą atliekančiai institucijai tikrinti ir išvadai dėl tikrinimo pateikti, o Vyriausybei – šį dokumentą tvirtinti ir be atitinkamos institucijos suderinimo. Vyriausybė, įvertinusi planavimo organizatoriaus pateiktus motyvus, turi teisę patvirtinti su atitinkama institucija nesuderintą valstybei svarbaus projekto teritorijų planavimo dokumentą.
 
 
 
 
-8. Prieš valstybei svarbaus projekto teritorijų planavimo dokumento patvirtinimą teritorijų planavimo valstybinę priežiūrą atliekanti institucija ne vėliau kaip per 20 darbo dienų nuo teritorijų planavimo dokumento gavimo dienos patikrina ir pateikia išvadą dėl valstybei svarbaus projekto teritorijų planavimo dokumento tvirtinimo. Jeigu teritorijų planavimo valstybinę priežiūrą atliekančios institucijos išvada yra neigiama, planavimo organizatorius privalo nedelsdamas ištaisyti išvadoje nurodytus trūkumus. Kai išvadoje nurodyti trūkumai ištaisyti, teritorijų planavimo valstybinę priežiūrą atliekanti institucija, laikydamasi šioje dalyje nustatytų terminų ir tvarkos, iš naujo teikia išvadą dėl valstybei svarbaus projekto teritorijų planavimo dokumento tvirtinimo.
+8. Prieš valstybei svarbaus projekto teritorijų planavimo dokumento patvirtinimą teritorijų planavimo valstybinę priežiūrą atliekanti institucija ne vėliau kaip per 15 darbo dienų nuo teritorijų planavimo dokumento gavimo dienos patikrina ir pateikia išvadą dėl valstybei svarbaus projekto teritorijų planavimo dokumento tvirtinimo. Jeigu teritorijų planavimo valstybinę priežiūrą atliekančios institucijos išvada yra neigiama, planavimo organizatorius privalo nedelsdamas ištaisyti išvadoje nurodytus trūkumus. Kai išvadoje nurodyti trūkumai ištaisyti, teritorijų planavimo valstybinę priežiūrą atliekanti institucija, laikydamasi šioje dalyje nustatytų terminų ir tvarkos, iš naujo teikia išvadą dėl valstybei svarbaus projekto teritorijų planavimo dokumento tvirtinimo.
 
 
 
 
-9. Vystant stambiems projektams skirtas teritorijas, Ekonomikos ir inovacijų ministerijos pasirinkimu taikoma bendra arba šiame straipsnyje numatyta valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka. Pasirinkus taikyti bendrą teritorijų planavimo dokumentų rengimo, derinimo, keitimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarką, šio įstatymo 35 straipsnio 4 dalies nuostatos netaikomos. 
-Papildyta straipsnio dalimi:
-Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
+9. Vystant stambiems projektams skirtas teritorijas, Ekonomikos ir inovacijų ministerijos pasirinkimu taikoma bendra arba šiame straipsnyje numatyta valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, koregavimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka. Pasirinkus taikyti bendrą teritorijų planavimo dokumentų rengimo, derinimo, keitimo, koregavimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarką, šio įstatymo 35 straipsnio 4 dalies nuostatos netaikomos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
  
-
-
 
 
 
@@ -2625,15 +2620,32 @@ Konsultavimosi metu, vadovaudamiesi Vyriausybės tvirtinamais Visuomenės inform
 37 straipsnis. Pasiūlymų teikimas ir nagrinėjimas
 
 
-1. Pasiūlymai dėl teritorijų planavimo dokumentų planavimo organizatoriui teikiami raštu ar Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje per visą teritorijų planavimo dokumentų rengimo laikotarpį iki viešo svarstymo pabaigos, o viešo svarstymo metu pasiūlymai teikiami ir žodžiu. Planavimo organizatorius apie parengtą ir pagal pasiūlymus, į kuriuos atsižvelgta, pataisytą teritorijų planavimo dokumentą, susipažinimo su juo, svarstymo tvarką, vietą ir laiką turi paskelbti Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje ir sprendimą rengti teritorijų planavimo dokumentą priėmusios valstybės institucijos ar savivaldybės interneto svetainėje.
+1. Pasiūlymai dėl teritorijų planavimo dokumentų, išskyrus specialiojo teritorijų planavimo žemėtvarkos dokumentus, planavimo organizatoriui teikiami raštu ar Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje per visą teritorijų planavimo dokumentų rengimo laikotarpį iki viešo svarstymo ar susipažinimo su parengtais valstybės lygmens teritorijų planavimo dokumentais pabaigos (viešo svarstymo ar susipažinimo su parengtais valstybės lygmens teritorijų planavimo dokumentais metu pasiūlymai teikiami ir žodžiu), išskyrus šio straipsnio 3 dalyje nurodytą pakartotinį viešą svarstymą ar pakartotinį susipažinimą su parengtais valstybės lygmens teritorijų planavimo dokumentais. 
 
 
 
 
-2. Planavimo organizatorius, išnagrinėjęs visuomenės pateiktus pasiūlymus dėl teritorijų planavimo dokumentų, parengia priimtų ir motyvuotai atmestų pasiūlymų apibendrinimo medžiagą su paaiškinimais, kaip atsižvelgta į visuomenės nuomonę; apibendrinamąją medžiagą, visuomenės pasiūlymų kopijas kartu su parengtais teritorijų planavimo dokumentais teikia teritorijų planavimo dokumentą tikrinančiai institucijai. Pasiūlymus pateikusiems asmenims planavimo organizatorius motyvuotai atsako raštu arba Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje, jeigu pasiūlymai buvo pateikti šioje sistemoje. Planavimo organizatoriaus atsakymas per 10 darbo dienų gali būti apskųstas atitinkamai teritorijų planavimo valstybinę priežiūrą atliekančiai institucijai. Planavimo organizatoriams atsakyme nurodoma, kad planavimo organizatorius pritaria visuomenės pasiūlymams arba atmeta pasiūlymus, išsamiai nurodydamas pasiūlymų nepriimtinumą (nepagrįstumą).
+2. Pasiūlymus dėl teritorijų planavimo dokumentų pateikusiems asmenims planavimo organizatorius motyvuotai atsako raštu arba Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje, jeigu pasiūlymai buvo pateikti šioje sistemoje. Planavimo organizatoriaus atsakymas per 10 darbo dienų nuo atsakymo gavimo dienos gali būti apskųstas atitinkamai teritorijų planavimo valstybinę priežiūrą atliekančiai institucijai. 
+
+
+
+
+3. Planavimo organizatoriaus atsakyme pasiūlymus pateikusiam asmeniui nurodoma, ar planavimo organizatorius pritaria pasiūlymams, ar motyvuotai juos atmeta. Kai pasiūlymai dėl teritorijų planavimo dokumento priimami, teritorijų planavimo dokumentas atitinkamai pakoreguojamas ir planavimo organizatoriaus sprendimu teikiamas pakartotinai viešai svarstyti ar pakartotinai susipažinti su parengtais valstybės lygmens teritorijų planavimo dokumentais, jeigu pagal priimtus pasiūlymus keičiami teritorijų planavimo dokumento sprendiniai, apie kuriuos nebuvo informuota visuomenė. Kai teritorijų planavimo dokumento sprendiniai keičiami atsižvelgus į priimtus pasiūlymus, apie kuriuos buvo viešai informuota, ar į teritorijų planavimo dokumentą derinančių institucijų pastabas teritorijų planavimo proceso baigiamojo etapo teritorijų planavimo dokumento derinimo stadijoje, visuomenė su pakeistais teritorijų planavimo dokumento sprendiniais supažindinama Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje ir sprendimą rengti teritorijų planavimo dokumentą priėmusios valstybės institucijos (institucijų) ar savivaldybės interneto svetainėje. Planavimo organizatorius apie parengtą ir pagal pasiūlymus, į kuriuos atsižvelgta, pataisytą teritorijų planavimo dokumentą, susipažinimo su juo, svarstymo tvarką, vietą ir laiką turi paskelbti Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje ir sprendimą rengti teritorijų planavimo dokumentą priėmusios valstybės institucijos ar savivaldybės interneto svetainėje. Pasiūlymai dėl specialiojo teritorijų planavimo žemėtvarkos dokumentų ir atsakymai į šiuos pasiūlymus teikiami per Žemėtvarkos planavimo dokumentų rengimo informacinę sistemą.
+
+
+
+
+4. Jeigu planavimo organizatorius po viešo svarstymo ar pasibaigus susipažinimo su parengtu valstybės lygmens teritorijų planavimo dokumentu terminui nusprendžia pakeisti dalį rengiamo teritorijų planavimo dokumento sprendinių, teritorijų planavimo dokumentas su pakeistais sprendiniais teikiamas pakartotinai viešai svarstyti ar pakartotinai susipažinti. Šioje dalyje nurodytu atveju pasiūlymai planavimo organizatoriui teikiami tik dėl pakeistų teritorijų planavimo dokumento sprendinių šio straipsnio 1 ir 2 dalyse nustatyta tvarka.
+
+
+
+
+5. Planavimo organizatorius, išnagrinėjęs visuomenės pateiktus pasiūlymus dėl teritorijų planavimo dokumentų, parengia apibendrintą informaciją apie priimtus ir motyvuotai atmestus pasiūlymus su paaiškinimais, kaip atsižvelgta į visuomenės nuomonę, ir šią informaciją, visuomenės pasiūlymų kopijas kartu su parengtais teritorijų planavimo dokumentais teikia teritorijų planavimo dokumentą tikrinančiai institucijai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
  
-
-
 
 
 
@@ -3355,3 +3367,8 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 7, 11, 13, 14
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
 Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 4, 6, 17, 20, 23 ir 28 straipsnių pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 3, 6, 7, 11, 13, 14, 15, 16, 17, 18, 20, 23, 25, 26, 27, 28, 30, 31, 33, 35, 37, 39, 47 ir 49 straipsnių pakeitimo įstatymas
