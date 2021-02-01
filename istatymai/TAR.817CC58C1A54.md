@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.817CC58C1A54"
 
 # Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymas
 
-Suvestinė redakcija nuo 2012-01-01 iki 2021-01-31
+Suvestinė redakcija nuo 2021-02-01 iki 2024-12-17
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 91-3890; Žin. 2002, Nr.93-0; Žin. 2009, Nr.86-3637, i. k. 1021010ISTA0IX-1067
  
@@ -77,7 +77,9 @@ Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010IST
 
 
 
-6. Kitos šiame įstatyme vartojamos pagrindinės sąvokos atitinka Visuomenės informavimo įstatymo 2 straipsnyje apibrėžtas sąvokas.
+6. Kitos šiame įstatyme vartojamos pagrindinės sąvokos atitinka Lietuvos Respublikos visuomenės informavimo įstatyme ir Lietuvos Respublikos kino įstatyme apibrėžtas sąvokas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-181, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01353
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010ISTA00XI-594
  
@@ -300,7 +302,10 @@ Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010IST
 
 
 
-2. Prieš programas, laidas ar jų dalis, kurioms taikomos šio straipsnio 1 dalyje numatytos išimtys, turi būti parodomas ar kitaip paskelbiamas pranešimas apie galimą tolesnės programos ar laidos arba jų dalių neigiamą poveikį nepilnamečiams. 
+2. Prieš programas, kurioms taikomos šio straipsnio 1 dalyje numatytos išimtys, turi būti parodomas ar kitaip paskelbiamas pranešimas apie galimą tolesnės programos neigiamą poveikį nepilnamečiams. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-181, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01353
+ 
 
 
 Straipsnio pakeitimai:
@@ -313,35 +318,37 @@ Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010IST
 6 straipsnis. Draudimas skleisti neigiamą poveikį nepilnamečių vystymuisi darančią viešąją informaciją, susijusią su asmens duomenų paskelbimu
 
 
-Visuomenės informavimo priemonėse draudžiama skleisti neigiamą poveikį nepilnamečių vystymuisi darančią informaciją, susijusią su asmens duomenimis:
+Visuomenės informavimo priemonėse draudžiama skleisti neigiamą poveikį nepilnamečių vystymuisi darančią informaciją, susijusią su nepilnamečio asmens duomenimis, pagal kuriuos galima nustatyti jo asmens tapatybę:
 
 
-1) kai siejant su nusikalstama veika ar kitais teisės pažeidimais skelbiami nuo teisėsaugos institucijų ar teismo nesislapstančio įtariamojo padarius nusikalstamą veiką, kaltinamojo, nuteistojo ar nuo nusikalstamos veikos arba kitų teisės pažeidimų nukentėjusio nepilnamečio (aukos) asmens duomenys, pagal kuriuos galima nustatyti jo asmens tapatybę;
-
-
-
-
-2) kai skelbiami save sužalojusio ar mėginusio tai padaryti, nusižudžiusio ar mėginusio nusižudyti nepilnamečio asmens duomenys, pagal kuriuos galima nustatyti jo asmens tapatybę;
+1) kai siejant su nusikalstama veika ar kitais teisės pažeidimais skleidžiami nuo teisėsaugos institucijų ar teismo nesislapstančio įtariamojo padarius nusikalstamą veiką, kaltinamojo, nuteistojo ar nuo nusikalstamos veikos arba kitų teisės pažeidimų nukentėjusio nepilnamečio (aukos) asmens duomenys;
 
 
 
 
-3) kuria, pateikiant duomenis apie nepilnametį, žeminamas jo orumas ir (ar) pažeidžiami jo interesai;
+2) kai skelbiami save sužalojusio ar mėginusio tai padaryti, nusižudžiusio ar mėginusio nusižudyti nepilnamečio asmens duomenys;
 
 
 
 
-4) kai piktnaudžiaujant nepilnamečių pasitikėjimu ir nepatyrimu, neigiamų socialinių reiškinių kontekste pateikiamos nepilnamečių nuomonės ir vertinimai;
+3) kuria žeminamas nepilnamečio orumas ir (ar) pažeidžiami jo interesai;
 
 
 
 
-5) kai neigiamų socialinių reiškinių kontekste pateikiamos nepilnamečių nuotraukos ar filmuota medžiaga apie juos, jei pagal tai galima nustatyti jo asmens tapatybę.
+4) kai piktnaudžiaujant nepilnamečio pasitikėjimu ir nepatyrimu, neigiamų socialinių reiškinių kontekste pateikiami jo nuomonė ar vertinimas;
+
+
+
+
+5) kai neigiamų socialinių reiškinių kontekste pateikiami nepilnamečio atvaizdas arba kiti jo asmens duomenys, išskyrus atvejus, kai teisėsaugos institucijų ar pareigūnų iniciatyva ar prašymu laikinai (ne ilgiau negu ieškomas nepilnametis surandamas) paskleidžiami ieškomo nepilnamečio atvaizdas ir (ar) būtini kiti jo asmens duomenys, siekiant jį surasti. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-181, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01353
  
-
-
-
-
 
 
 
@@ -349,59 +356,67 @@ Visuomenės informavimo priemonėse draudžiama skleisti neigiamą poveikį nepi
 7 straipsnis. Ribojimas skleisti neigiamą poveikį nepilnamečių vystymuisi darančią informaciją
 
 
-1. Neigiamą poveikį nepilnamečiams darančią informaciją draudžiama tiesiogiai skleisti nepilnamečiams – jiems siūlyti, perleisti ar kitaip leisti asmeniškai ja naudotis. Tokia viešoji informacija gali būti skelbiama tik vietose, į kurias nepilnamečiai negali patekti, ir (arba) tokiu laiku, kuriuo nepilnamečiai negalėtų ja naudotis, arba kai naudojant technines priemones yra sudaromos sąlygos atsakingiems už vaikų auklėjimą ir priežiūrą asmenims užtikrinti galimybę riboti tokios viešosios informacijos pasiūlą nepilnamečiams. 
-Straipsnio dalies pakeitimai:
-Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010ISTA00XI-594
+1. Neigiamą poveikį nepilnamečiams darančią informaciją draudžiama tiesiogiai skleisti nepilnamečiams – jiems siūlyti, perleisti ar kitaip leisti asmeniškai ja naudotis. Tokia viešoji informacija gali būti skleidžiama tik tose vietose, į kurias nepilnamečiai negali patekti, ir (arba) tokiu laiku, kuriuo nepilnamečiai negalėtų ja naudotis, arba kai naudojant technines priemones (skirtas vartotojų amžiui patikrinti; atsakingiems už vaikų auklėjimą ir priežiūrą asmenims kontroliuoti neigiamą poveikį nepilnamečiams darančios informacijos sklaidą; turinio filtravimo arba kitokias sistemas) yra sudaromos sąlygos atsakingiems už vaikų auklėjimą ir priežiūrą asmenims užtikrinti galimybę riboti tokios viešosios informacijos pasiūlą nepilnamečiams. Kai neigiamą poveikį nepilnamečiams daranti informacija skleidžiama ne elektroninių ryšių tinklais, vietoj techninių priemonių gali būti taikomos kitokio pobūdžio priemonės (išankstinis informavimas apie neigiamą viešosios informacijos pobūdį; prekių apipavidalinimas ar išdėstymas; patekimo į renginius fizinis apribojimas, kai nepilnamečio nelydi suaugusysis, ir kitokios priemonės), kuriomis sudaromos sąlygos atsakingiems už vaikų auklėjimą ir priežiūrą asmenims užtikrinti galimybę riboti tokios informacijos pasiūlą nepilnamečiams.
+
+
+
+
+2. Programos, kuriose skleidžiama neigiamą poveikį nepilnamečiams daranti informacija, gali būti skleidžiamos nenaudojant šio straipsnio 1 dalyje nurodytų techninių priemonių, jeigu jos pažymėtos indeksais ir skleidžiamos atitinkamu laiku. Tokios programos:
+
+
+1) turi būti pažymėtos indeksu „S“ ir skleidžiamos nuo 23 iki 6 valandos, kai jose skleidžiama informacija daro neigiamą poveikį nepilnamečiams;
+
+
+
+
+2) turi būti pažymėtos indeksu „N-14“ ir skleidžiamos nuo 21 iki 6 valandos, kai jose skleidžiama informacija daro neigiamą poveikį jaunesniems negu 14 metų nepilnamečiams;
+
+
+
+
+3) turi būti pažymėtos indeksu „N-7“, kai jose skleidžiama informacija daro neigiamą poveikį jaunesniems negu 7 metų nepilnamečiams.
+
+
+
+
+
+
+3. Prieš programas, kuriose skleidžiama šio įstatymo 4 straipsnio 2 dalyje nurodyta neigiamą poveikį nepilnamečiams daranti informacija, turi būti pranešama apie tokios informacijos pobūdį, naudojant šią informaciją apibūdinančius terminus, garsinius įspėjimus, vaizdinius ženklus arba kitas priemones.
+
+
+
+
+4. Prieigos prie viešųjų kompiuterių tinklų (interneto) paslaugas teikiantys asmenys privalo užtikrinti Lietuvos Respublikos ryšių reguliavimo tarnybos aprobuotų žalingo interneto turinio, darančio neigiamą poveikį nepilnamečiams, filtravimo priemonių įdiegimą ir veikimą. Ryšių reguliavimo tarnybos teikimu Vyriausybė nustato prieigos prie viešųjų kompiuterių tinklų (interneto) vietose privalomų filtravimo priemonių naudojimo tvarką. Ryšių reguliavimo tarnyba atsakinga už šios dalies nuostatų įgyvendinimo priežiūrą.
+
+
+
+
+5. Kompiuterinių žaidimų gamintojai ir (ar) platintojai privalo žymėti kompiuterinius žaidimus pagal vartotojų amžiaus cenzą Vyriausybės nustatyta tvarka.
+
+
+
+
+6. Kino teatruose parodyti filmai televizijos programose turi būti rodomi atsižvelgiant į šiuos reikalavimus:
+
+
+1) jeigu filmui pagal Kino įstatymą suteiktas indeksas „N-16“, jo skleidimui ir žymėjimui televizijos programoje taikomas šio straipsnio 2 dalies 1 ar 2 punktas atsižvelgiant į žurnalistų etikos inspektoriaus (toliau – Inspektorius) rekomendacijas, kurios teikiamos šio įstatymo 9 straipsnio 2 dalies 3 ar 4 punkte nustatyta tvarka;
+
+
+
+
+2) jeigu filmui pagal Kino įstatymą suteiktas indeksas „N-13“, jo skleidimui ir žymėjimui televizijos programoje taikomas šio straipsnio 2 dalies 2 punktas.
+
+
+
+
+
+
+7. Neigiamą poveikį nepilnamečių vystymuisi darančios viešosios informacijos žymėjimo ir skleidimo tvarką nustato Vyriausybė. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-181, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01353
  
-
-
-
-
-2. Programos ir laidos, kuriose skleidžiama neigiamą poveikį nepilnamečiams daranti informacija, gali būti transliuojamos nenaudojant šio straipsnio 1 dalyje nurodytų techninių priemonių, jeigu jos pažymėtos indeksais ir transliuojamos atitinkamu laiku. Tokios programos ir laidos:
-
-
-1) turi būti pažymėtos indeksu „S“ ir transliuojamos nuo 23 iki 6 valandos, kai jose skleidžiama informacija daro neigiamą poveikį nepilnamečiams;
-
-
-
-
-2) turi būti pažymėtos indeksu „N-14“ ir transliuojamos nuo 21 iki 6 valandos, kai jose skleidžiama informacija daro neigiamą poveikį jaunesniems negu 14 metų nepilnamečiams;
-
-
-
-
-3) turi būti pažymėtos indeksu „N-7“, kai jose skleidžiama informacija daro neigiamą poveikį jaunesniems negu 7 metų nepilnamečiams. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010ISTA00XI-594
- 
-
-
-
-
-3. Prieigos prie viešųjų kompiuterių tinklų (interneto) paslaugas teikiantys asmenys privalo užtikrinti Lietuvos Respublikos ryšių reguliavimo tarnybos (toliau – Ryšių reguliavimo tarnyba) aprobuotų žalingo interneto turinio, darančio neigiamą poveikį nepilnamečiams, filtravimo priemonių įdiegimą ir veikimą. Ryšių reguliavimo tarnybos teikimu Vyriausybė nustato prieigos prie viešųjų kompiuterių tinklų (interneto) vietose privalomų filtravimo priemonių naudojimo tvarką. Ryšių reguliavimo tarnyba atsakinga už šios dalies nuostatų įgyvendinimo priežiūrą. 
-Straipsnio dalies pakeitimai:
-Nr. XI-1624, 2011-10-21, Žin., 2011, Nr. 132-6277 (2011-11-05), i. k. 1111010ISTA0XI-1624
- 
-
-
-
-
-4. Kompiuterinių žaidimų gamintojai ir (ar) platintojai privalo žymėti kompiuterinius žaidimus pagal vartotojų amžiaus cenzą Vyriausybės nustatyta tvarka.
-
-
-
-
-5. Kino filmai televizijos programose turi būti rodomi atsižvelgiant į šio įstatymo reikalavimus. 
-
-
-
-
-6. Neigiamą poveikį nepilnamečių vystymuisi darančios viešosios informacijos žymėjimo ir skleidimo tvarką nustato Vyriausybė.
- 
-
-
 
 
 
@@ -409,15 +424,52 @@ Nr. XI-1624, 2011-10-21, Žin., 2011, Nr. 132-6277 (2011-11-05), i. k. 1111010IS
 8 straipsnis. Kita viešoji informacija, kurios skleidimui taikomi šio įstatymo apribojimai
 
 
-1. Apribojimai, nustatyti neigiamą poveikį nepilnamečių vystymuisi darančios viešosios informacijos skleidimui, taip pat taikomi reklamai, savireklamai (anonsams), prekių ženklams, kompiuteriniams žaidimams ir kitai viešajai informacijai.
+1. Neigiamą poveikį nepilnamečių vystymuisi darančios viešosios informacijos ribojimai, jų išimtys ir draudimai taikomi visai viešajai informacijai, įskaitant reklamą, komercinius audiovizualinius pranešimus, anonsus, prekių ženklus, naudotojų sukurtus vaizdo įrašus, viešus renginius.
 
 
 
 
-2. Prekių ir paslaugų, skirtų asmenims nuo 18 metų, nuo 14 metų ir nuo 7 metų, pristatymas ar reklama negali būti transliuojami programų dalyse, skirtose jaunesniems nei pristatomų ar reklamuojamų prekių ir paslaugų žiūrovams. 
+2. Prekių ir (ar) paslaugų, skirtų asmenims nuo 18 metų, nuo 14 metų ir nuo 7 metų, reklama, komerciniai audiovizualiniai pranešimai negali būti skleidžiami kartu su informacija, skirta jaunesniems negu pristatomų ar reklamuojamų prekių ir (ar) paslaugų vartotojams.
+
+
+
+
+3. Reklama, komerciniai audiovizualiniai pranešimai taip pat turi atitikti šiuos reikalavimus:
+
+
+1) neturi tiesiogiai skatinti nepilnamečių pirkti ar išsinuomoti, ar rinktis prekę ar paslaugą, naudojantis nepilnamečių nepatyrimu ir patiklumu;
+
+
+
+
+2) neturi tiesiogiai skatinti nepilnamečių įtikinėti savo tėvus ar kitus asmenis pirkti reklamuojamas prekes ar paslaugas;
+
+
+
+
+3) neturi formuoti nepilnamečių nuomonės, kad tam tikrų paslaugų ar prekių naudojimas suteiks jiems fizinį, psichologinį ar socialinį pranašumą prieš bendraamžius;
+
+
+
+
+4) juose neturi būti naudojamasi nepilnamečių pasitikėjimu tėvais, mokytojais ar kitais asmenimis;
+
+
+
+
+5) neturi rodyti nepilnamečių, patekusių į pavojingas situacijas, kai nėra viešojo intereso.
+
+
+
+
+
+
+4. Viešosios informacijos rengėjų ir (ar) skleidėjų pagal šio įstatymo 7 straipsnio 1 dalį surinkti arba kitaip gauti nepilnamečių asmens duomenys negali būti tvarkomi tiesioginės rinkodaros, profiliavimo ir vartotojų elgesiu grindžiamos reklamos, taip pat kitais komerciniais tikslais. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-181, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01353
  
-
-
 
 
 
@@ -425,7 +477,7 @@ Nr. XI-1624, 2011-10-21, Žin., 2011, Nr. 132-6277 (2011-11-05), i. k. 1111010IS
 9 straipsnis. Institucijos, atsakingos už šio įstatymo nuostatų įgyvendinimą
 
 
-1. Šio įstatymo nuostatų įgyvendinimo priežiūrą atlieka žurnalistų etikos inspektorius (toliau – Inspektorius).
+1. Šio įstatymo nuostatų įgyvendinimo priežiūrą atlieka Inspektorius.
 
 
 
@@ -433,52 +485,32 @@ Nr. XI-1624, 2011-10-21, Žin., 2011, Nr. 132-6277 (2011-11-05), i. k. 1111010IS
 2. Inspektorius:
 
 
-1) rūpinasi šio įstatymo nuostatų įgyvendinimu ir prižiūri, kaip jų laikomasi;
+1) prižiūri, kaip įgyvendinamos šio įstatymo nuostatos, nagrinėja skundus (pareiškimus) dėl šio įstatymo nuostatų pažeidimų;
 
 
 
 
-2) siekdamas užtikrinti šio įstatymo nuostatų įgyvendinimą, bendradarbiauja su valstybės ir savivaldybių institucijomis, nevyriausybinėmis ir kitomis organizacijomis; 
+2) siekdamas užtikrinti šio įstatymo nuostatų įgyvendinimą, bendradarbiauja su valstybės ir savivaldybių institucijomis ir įstaigomis, nevyriausybinėmis ir kitomis organizacijomis;
 
 
 
 
-3) viešosios informacijos rengėjų, skleidėjų, jų dalyvių, žurnalistų ir kitų suinteresuotų asmenų prašymu teikia jiems rekomendacijas dėl konkrečios jų ketinamos rengti ir (ar) skleisti viešosios informacijos priskyrimo neigiamą poveikį nepilnamečiams darančios informacijos kategorijai, jos žymėjimo ir taikytinų skleidimo apribojimų; 
-Straipsnio punkto pakeitimai:
-Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010ISTA00XI-594
- 
+3) viešosios informacijos rengėjų, skleidėjų, jų dalyvių, žurnalistų ir kitų suinteresuotų asmenų prašymu per 10 darbo dienų nuo prašymo gavimo dienos teikia jiems rekomendacijas dėl konkrečios jų ketinamos rengti ir (ar) skleisti viešosios informacijos priskyrimo neigiamą poveikį nepilnamečiams darančios informacijos kategorijai, jos žymėjimo ir skleidimo apribojimų;
 
 
 
 
-4) parengia ir viešai skelbia šio įstatymo 4 ir 5 straipsniuose pateiktų kriterijų ir šio įstatymo 7 straipsnyje nustatytų ribojimų taikymo rekomendacinio pobūdžio gaires; 
-Papildyta straipsnio punktu:
-Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010ISTA00XI-594
- 
+4) kartu su Lietuvos radijo ir televizijos komisija parengia ir viešai skelbia šio įstatymo 4, 5 ir 6 straipsniuose pateiktų kriterijų ir šio įstatymo 7 straipsnyje nustatytų ribojimų taikymo rekomendacinio pobūdžio gaires;
 
 
 
 
-5) ne rečiau kaip kartą per metus rengia ir viešai skelbia Inspektoriaus, kitų už šio įstatymo nuostatų įgyvendinimo priežiūrą atsakingų institucijų veiklos ir teismų praktikos taikant šį įstatymą apibendrinimus; 
-Papildyta straipsnio punktu:
-Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010ISTA00XI-594
- 
+5) ne rečiau kaip kartą per metus rengia ir viešai skelbia Inspektoriaus, kitų už šio įstatymo nuostatų įgyvendinimo priežiūrą atsakingų institucijų veiklos ir teismų praktikos taikant šį įstatymą apibendrinimus;
 
 
 
 
-6) rengia ir teikia atsakingoms institucijoms teisės aktų, susijusių su šio įstatymo nuostatų įgyvendinimu, projektus;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010ISTA00XI-594
- 
-
-
-
-
-7) nagrinėja skundus (pareiškimus) dėl šio įstatymo nuostatų pažeidimų.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010ISTA00XI-594
- 
+6) rengia ir teikia atsakingoms institucijoms teisės aktų, susijusių su šio įstatymo nuostatų įgyvendinimu, projektus.
 
 
 
@@ -493,12 +525,12 @@ Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010IST
 
 
 
-2) viešai paskelbti, kad konkretūs viešosios informacijos rengėjai, skleidėjai ar kiti už visuomenės informavimo priemonių turinį atsakingi asmenys nesilaiko šio įstatymo nuostatų; 
+2) viešai paskelbti, kad konkretūs viešosios informacijos rengėjai, skleidėjai ar kiti už visuomenės informavimo priemonių turinį atsakingi asmenys nesilaiko šio įstatymo nuostatų;
 
 
 
 
-3) pagal kompetenciją traukti administracinėn atsakomybėn viešosios informacijos rengėjus, skleidėjus ir kitus už visuomenės informavimo priemonių turinį atsakingus asmenis dėl šio įstatymo pažeidimų;
+3) Lietuvos Respublikos administracinių nusižengimų kodekso nustatytais atvejais pradėti administracinio nusižengimo teiseną, nagrinėti administracinių nusižengimų bylas ir skirti administracines nuobaudas už šio įstatymo pažeidimus;
 
 
 
@@ -513,7 +545,7 @@ Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010IST
 
 
 
-6) nemokamai gauti iš viešosios informacijos rengėjų, skleidėjų, valstybės ir savivaldybių institucijų bei įstaigų, už šio įstatymo nuostatų įgyvendinimo priežiūrą atsakingų institucijų informaciją, būtiną Inspektoriaus funkcijoms atlikti, taip pat naudotis Lietuvos radijo ir televizijos komisijos informacijos stebėsenos (monitoringo) duomenimis. 
+6) nemokamai gauti iš viešosios informacijos rengėjų, skleidėjų, valstybės ir savivaldybių institucijų bei įstaigų, už šio įstatymo nuostatų įgyvendinimo priežiūrą atsakingų institucijų informaciją, būtiną Inspektoriaus funkcijoms atlikti, taip pat naudotis Lietuvos radijo ir televizijos komisijos informacijos stebėsenos (monitoringo) duomenimis.
 
 
 
@@ -530,15 +562,15 @@ Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010IST
 
 
 
-6. Prie Inspektoriaus veikia nepriekaištingos reputacijos, specialių žinių turinčių ekspertų grupė (iki 9 asmenų). Ji vertina viešosios informacijos poveikį nepilnamečiams ir teikia savo išvadas Inspektoriui. Ekspertus skiria Inspektorius, atsižvelgdamas į institucijų, išvardytų šio straipsnio 7 dalyje, siūlymus. Ekspertų grupė veikia rotacijos principu pagal Inspektoriaus patvirtintą veiklos reglamentą. Ekspertų veikla finansuojama iš Žurnalistų etikos inspektoriaus tarnybai skirtų valstybės biudžeto asignavimų. 
+6. Prie Inspektoriaus veikia nepriekaištingos reputacijos, specialių žinių turinčių ekspertų grupė (iki 9 asmenų). Ji vertina viešosios informacijos poveikį nepilnamečiams ir teikia savo išvadas Inspektoriui. Ekspertus skiria Inspektorius, atsižvelgdamas į institucijų, išvardytų šio straipsnio 7 dalyje, siūlymus. Ekspertų grupė veikia rotacijos principu pagal Inspektoriaus patvirtintą veiklos reglamentą. Ekspertų veikla finansuojama iš Žurnalistų etikos inspektoriaus tarnybai skirtų valstybės biudžeto asignavimų.
 
 
 
 
-7. Už šio įstatymo nuostatų įgyvendinimo priežiūrą pagal savo kompetenciją taip pat yra atsakingos:
+7. Už šio įstatymo nuostatų įgyvendinimo priežiūrą pagal savo kompetenciją taip pat yra atsakingi:
 
 
-1) Lietuvos nacionalinio radijo ir televizijos taryba; 
+1) Lietuvos nacionalinio radijo ir televizijos taryba;
 
 
 
@@ -553,7 +585,7 @@ Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010IST
 
 
 
-4) Lietuvos žurnalistų ir leidėjų etikos komisija;
+4) Visuomenės informavimo etikos komisija;
 
 
 
@@ -568,10 +600,7 @@ Nr. XI-594, 2009-12-22, Žin., 2009, Nr. 154-6959 (2009-12-28), i. k. 1091010IST
 
 
 
-7) Ryšių reguliavimo tarnyba; 
-Straipsnio punkto pakeitimai:
-Nr. XI-1624, 2011-10-21, Žin., 2011, Nr. 132-6277 (2011-11-05), i. k. 1111010ISTA0XI-1624
- 
+7) Ryšių reguliavimo tarnyba;
 
 
 
@@ -583,10 +612,12 @@ Nr. XI-1624, 2011-10-21, Žin., 2011, Nr. 132-6277 (2011-11-05), i. k. 1111010IS
 
 
 
-8. Šio straipsnio 7 dalyje išvardytos institucijos gali kreiptis į Inspektorių dėl viešosios informacijos priskyrimo kategorijai informacijos, kuri daro neigiamą poveikį nepilnamečių vystymuisi, bendradarbiauti, keistis informacija ir pagal savo kompetenciją taikyti atsakomybę šio įstatymo nuostatų nesilaikantiems asmenims.
+8. Šio straipsnio 7 dalyje išvardytos institucijos gali kreiptis į Inspektorių dėl viešosios informacijos priskyrimo kategorijai informacijos, kuri daro neigiamą poveikį nepilnamečių vystymuisi, bendradarbiauti, keistis informacija ir pagal savo kompetenciją taikyti atsakomybę šio įstatymo nuostatų nesilaikantiems asmenims. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-181, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01353
  
-
-
 
 
 
@@ -594,10 +625,12 @@ Nr. XI-1624, 2011-10-21, Žin., 2011, Nr. 132-6277 (2011-11-05), i. k. 1111010IS
 10 straipsnis. Atsakomybė už šio įstatymo nuostatų pažeidimus
 
 
-Už šio įstatymo nuostatų pažeidimus atsakomybė taikoma įstatymų nustatyta tvarka.
+Už šio įstatymo nuostatų pažeidimus atsakomybė taikoma Visuomenės informavimo įstatymo ir kitų įstatymų nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-181, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01353
  
-
-
 
 
 
@@ -606,7 +639,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
  
 
 
@@ -615,21 +648,20 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+Lietuvos Respublikos
+nepilnamečių apsaugos nuo neigiamo 
+viešosios informacijos poveikio įstatymo
+priedas
  
-Lietuvos Respublikos nepilnamečių apsaugos 
-nuo neigiamo viešosios informacijos poveikio
-įstatymo 
-priedas 
- 
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI 
  
 
 
-1. 1989 m. spalio 3 d. Tarybos direktyva 89/552/EEB dėl valstybių narių įstatymuose ir kituose teisės aktuose išdėstytų nuostatų, susijusių su televizijos programų transliavimu, derinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 224) su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva 2007/65/EB (OL 2007 L 332, p. 27).
+1. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1808, kuria, atsižvelgiant į kintančias rinkos realijas, iš dalies keičiama Direktyva 2010/13/ES dėl valstybių narių įstatymuose ir kituose teisės aktuose išdėstytų tam tikrų nuostatų, susijusių su audiovizualinės žiniasklaidos paslaugų teikimu, derinimo (Audiovizualinės žiniasklaidos paslaugų direktyva).“
 
 
-Papildyta priedu:
-Nr. XI-333, 2009-07-14, Žin., 2009, Nr. 86-3637 (2009-07-21), i. k. 1091010ISTA00XI-333
+Priedo pakeitimai:
+Nr. XIV-181, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01353
  
  
  
@@ -659,3 +691,8 @@ Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1624, 2011-10-21, Žin., 2011, Nr. 132-6277 (2011-11-05), i. k. 1111010ISTA0XI-1624
 Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo 7 ir 9 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-181, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01353
+Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo Nr. IX-1067 2, 5, 6, 7, 8, 9, 10 straipsnių ir priedo pakeitimo įstatymas
