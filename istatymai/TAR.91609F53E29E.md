@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2021-01-02 iki 2021-02-28
+Suvestinė redakcija nuo 2021-03-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -34,10 +34,17 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-Šis įstatymas apibrėžia socialinių paslaugų sampratą, tikslus ir rūšis, reglamentuoja socialinių paslaugų valdymą, skyrimą ir teikimą, socialinės globos įstaigų licencijavimą, finansavimą, mokėjimą už socialines paslaugas bei ginčų, susijusių su socialinėmis paslaugomis, nagrinėjimą. 
+1. Šis įstatymas apibrėžia socialinių paslaugų sampratą, tikslus ir rūšis, reglamentuoja socialinių paslaugų valdymą, skyrimą ir teikimą, socialinės globos įstaigų licencijavimą, finansavimą, mokėjimą už socialines paslaugas bei ginčų, susijusių su socialinėmis paslaugomis, nagrinėjimą.
+
+
+
+
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-170, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00909
  
-
-
 
 
 
@@ -93,7 +100,10 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 
 
 
-7. Socialinė rizika – veiksniai ir aplinkybės, dėl kurių asmenys (šeimos) patiria ar yra pavojus jiems patirti socialinę atskirtį: suaugusių šeimos narių socialinių įgūdžių tinkamai prižiūrėti ir ugdyti nepilnamečius vaikus (įvaikius) stoka ar nebuvimas; nepilnamečių vaikų (įvaikių) visapusio fizinio, protinio, dvasinio, dorovinio vystymosi ir saugumo sąlygų šeimoje neužtikrinimas; psichologinė, fizinė ar seksualinė prievarta; smurtas; išnaudojimas prekybai žmonėmis; įsitraukimas ar polinkis įsitraukti į nusikalstamą veiklą; piktnaudžiavimas alkoholiu, narkotinėmis, psichotropinėmis medžiagomis; priklausomybė nuo alkoholio, narkotinių, psichotropinių medžiagų, azartinių lošimų; elgetavimas, valkatavimas, benamystė; motyvacijos dalyvauti darbo rinkoje stoka ar nebuvimas.
+7. Socialinė rizika – veiksniai ir aplinkybės, dėl kurių šeimos ar asmenys patiria ar yra pavojus jiems patirti socialinę atskirtį: suaugusių šeimos narių socialinių įgūdžių tinkamai prižiūrėti ir ugdyti nepilnamečius vaikus (įvaikius) stoka ar nebuvimas; nepilnamečių vaikų (įvaikių) visapusio fizinio, protinio, dvasinio, dorovinio vystymosi ir saugumo sąlygų šeimoje neužtikrinimas; nuo nusikalstamos veikos nukentėjusių asmenų patirta žala; įsitraukimas ar polinkis įsitraukti į nusikalstamas veikas; piktnaudžiavimas alkoholiu, narkotinėmis, psichotropinėmis medžiagomis; priklausomybė nuo alkoholio, narkotinių, psichotropinių medžiagų, azartinių žaidimų; elgetavimas, valkatavimas, benamystė; motyvacijos dalyvauti darbo rinkoje stoka ar nebuvimas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-170, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00909
+ 
 
 
 
@@ -126,6 +136,14 @@ Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
 13. Vaikus globojanti šeima – sutuoktiniai ar vienas gyvenantis asmuo, ne jaunesnis kaip 21 metų (reikalavimas būti sukakusiam 21 metų amžių netaikomas vaiko artimajam giminaičiui), įstatymų ir kitų teisės aktų nustatyta tvarka prižiūrintys ar globojantys (besirūpinantys) vaikus (vaikais). 
 
 
+
+
+14. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatyme, Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatyme, Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). 
+Papildyta straipsnio dalimi:
+Nr. XIV-170, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00909
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
  
@@ -133,23 +151,25 @@ Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
 
 
 
-3 straipsnis. Socialinių paslaugų samprata ir tikslai 
+3 straipsnis. Socialinių paslaugų samprata ir tikslai
 
 
-1. Socialinės paslaugos yra paslaugos, kuriomis suteikiama pagalba asmeniui (šeimai), dėl amžiaus, neįgalumo, socialinių problemų iš dalies ar visiškai neturinčiam, neįgijusiam arba praradusiam gebėjimus ar galimybes savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
-
-
-
-
-2. Socialinių paslaugų tikslas – sudaryti sąlygas asmeniui (šeimai) ugdyti ar stiprinti gebėjimus ir galimybes savarankiškai spręsti savo socialines problemas, palaikyti socialinius ryšius su visuomene, taip pat padėti įveikti socialinę atskirtį. 
+1. Socialinės paslaugos yra paslaugos, kuriomis suteikiama pagalba asmeniui (šeimai), dėl amžiaus, neįgalumo, socialinės rizikos, socialinių problemų iš dalies ar visiškai neturinčiam, neįgijusiam arba praradusiam gebėjimus ar galimybes savarankiškai rūpintis asmeniniu (šeimos) gyvenimu ir dalyvauti visuomenės gyvenime.
 
 
 
 
-3. Socialinės paslaugos teikiamos siekiant užkirsti kelią asmens, šeimos, bendruomenės socialinėms problemoms kilti, taip pat visuomenės socialiniam saugumui užtikrinti. 
+2. Socialinių paslaugų tikslas – sudaryti sąlygas asmeniui (šeimai) ugdyti ar stiprinti gebėjimus ir galimybes savarankiškai spręsti savo socialines problemas, palaikyti socialinius ryšius su visuomene, taip pat padėti įveikti socialinę atskirtį.
+
+
+
+
+3. Socialinės paslaugos teikiamos siekiant užkirsti kelią asmens (šeimos) socialinei atskirčiai, asmens (šeimos), bendruomenės socialinėms problemoms, taip pat siekiant užtikrinti visuomenės socialinį saugumą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-170, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00909
  
-
-
 
 
 
@@ -227,6 +247,19 @@ Gauti socialines paslaugas turi teisę:
 
 
 
+
+
+
+
+51 straipsnis. Asmens duomenų tvarkymas
+
+
+Asmens duomenys socialinių paslaugų teikimo tikslais tvarkomi vadovaujantis Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu ir Reglamentu (ES) 2016/679, jų saugojimo terminai nustatomi šio įstatymo įgyvendinamuosiuose teisės aktuose. 
+
+
+Papildyta straipsniu:
+Nr. XIV-170, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00909
+ 
 
 
 
@@ -2523,6 +2556,35 @@ RESPUBLIKOS PREZIDENTAS                            �
  
 
 
+
+
+
+
+ 
+Lietuvos Respublikos 
+socialinių paslaugų įstatymo 
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR.
+
+
+
+
+2. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/29/ES, kuria nustatomi būtiniausi nusikaltimų aukų teisių, paramos joms ir jų apsaugos standartai ir kuria pakeičiamas Tarybos pamatinis sprendimas 2001/220/TVR. 
+
+
+
+
+3. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/541 dėl kovos su terorizmu, pakeičianti Tarybos pamatinį sprendimą 2002/475/TVR ir iš dalies keičianti Tarybos sprendimą 2005/671/TVR. 
+
+
+Papildyta priedu:
+Nr. XIV-170, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00909
+ 
  
  
 Pakeitimai:
@@ -2621,3 +2683,8 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 23 ir 24 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19, 23, 24, 24-1 ir 38 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-170, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00909
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 1, 2, 3 straipsnių pakeitimo ir Įstatymo papildymo 5-1 straipsniu ir priedu įstatymas
