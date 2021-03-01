@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C8205E261830"
 
 # Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2020-11-19 iki 2021-02-28
+Suvestinė redakcija nuo 2021-03-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 33-807, i. k. 0961010ISTA00I-1234
  
@@ -43,7 +43,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu šio įstatymo priede.
+2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-171, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00911
  
 
 
@@ -159,9 +161,10 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 
-16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos socialinių paslaugų įstatyme, Lietuvos Respublikos šeimos stiprinimo įstatyme ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) (toliau – Reglamentas (ES) 2016/679). 
+16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, Lietuvos Respublikos socialinių paslaugų įstatyme, Lietuvos Respublikos šeimos stiprinimo įstatyme, Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatyme, Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatyme ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
+Nr. XIV-171, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00911
  
 
 
@@ -850,6 +853,13 @@ Vaikas, kuris yra prieglobsčio prašytojas ar kuriam yra suteiktas pabėgėlio 
 
 
 8. Vaiko minimalios ir vidutinės priežiūros priemonių sistemą nustato Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymas (toliau – Vaiko minimalios ir vidutinės priežiūros įstatymas) ir kiti teisės aktai.
+
+
+
+
+9. Pagalbos ir paslaugų nuo nusikalstamos veikos nukentėjusiam vaikui teikimą reglamentuoja Pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatymas, Apsaugos nuo smurto artimoje aplinkoje įstatymas, Socialinių paslaugų įstatymas, kiti pagalbos ir paslaugų teikimą vaikui reglamentuojantys įstatymai ir jų įgyvendinamieji teisės aktai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-171, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00911
  
 
 
@@ -2588,7 +2598,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
  
 
 
@@ -2597,20 +2607,34 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
-Lietuvos Respublikos vaiko teisių 
-apsaugos pagrindų įstatymo
+Lietuvos Respublikos vaiko teisių
+apsaugos pagrindų įstatymo 
 priedas
  
-ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR (OL 2011 L 335, p. 1).
+1. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR.
 
 
-Papildyta priedu:
-Nr. XII-1965, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16900
+
+
+2. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/93/ES dėl kovos su seksualine prievarta prieš vaikus, jų seksualiniu išnaudojimu ir vaikų pornografija, kuria pakeičiamas Tarybos pamatinis sprendimas 2004/68/TVR.
+
+
+
+
+3. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/29/ES, kuria nustatomi būtiniausi nusikaltimų aukų teisių, paramos joms ir jų apsaugos standartai ir kuria pakeičiamas Tarybos pamatinis sprendimas 2001/220/TVR. 
+
+
+
+
+4. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/541 dėl kovos su terorizmu, pakeičianti Tarybos pamatinį sprendimą 2002/475/TVR ir iš dalies keičianti Tarybos sprendimą 2005/671/TVR.
+
+
+Priedo pakeitimai:
+Nr. XIV-171, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00911
  
  
  
@@ -2680,3 +2704,8 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 3,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3397, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24268
 Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 4 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-171, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00911
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 2, 23 straipsnių ir priedo pakeitimo įstatymas
