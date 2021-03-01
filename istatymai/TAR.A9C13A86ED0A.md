@@ -18,9 +18,10 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2020-10-01 iki 2021-02-28
+Suvestinė redakcija nuo 2021-03-01 iki 2023-01-04
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 58-1133, i. k. 0941010ISTA000I-555
  
@@ -59,9 +60,10 @@ I SKYRIUS BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis įstatymas reglamentuoja Lietuvos Respublikos karinių vienetų, karių ir krašto apsaugos sistemos valstybės tarnautojų, žvalgybos pareigūnų, tarnaujančių pagal žvalgybos pareigūno tarnybos sutartis, ir darbuotojų, dirbančių pagal darbo sutartis (toliau – civiliai krašto apsaugos sistemos tarnautojai), dalyvavimą tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose, taip pat užsienio valstybių karinių vienetų, karių ir karinėms pajėgoms priskirtų civilių tarnautojų dalyvavimą tarptautinėse operacijose, pratybose ir kituose tarptautiniuose karinio bendradarbiavimo renginiuose Lietuvos Respublikos teritorijoje. 
+1. Šis įstatymas reglamentuoja Lietuvos Respublikos karinių vienetų, karių ir krašto apsaugos sistemos valstybės tarnautojų, žvalgybos pareigūnų, tarnaujančių pagal žvalgybos pareigūno tarnybos sutartis, ir darbuotojų, dirbančių pagal darbo sutartis (toliau – civiliai krašto apsaugos sistemos tarnautojai), dalyvavimą tarptautinėse operacijose, pratybose ir kituose karinio bendradarbiavimo renginiuose, taip pat užsienio valstybių karinių vienetų, karių ir karinėms pajėgoms priskirtų civilių tarnautojų bei rangovų dalyvavimą tarptautinėse operacijose, pratybose ir kituose tarptautiniuose karinio bendradarbiavimo renginiuose Lietuvos Respublikos teritorijoje, taip pat nustato tarptautinėse operacijose, pratybose ir kituose tarptautiniuose karinio bendradarbiavimo renginiuose Lietuvos Respublikos teritorijoje dalyvaujančių užsienio valstybių karių, karinėms pajėgoms priskirtų civilių tarnautojų bei rangovų (fizinių asmenų, rangovų darbuotojų) išlaikytinių teisinį statusą Lietuvos Respublikoje. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1813, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21829
+Nr. XIV-59, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27615
  
 
 
@@ -129,9 +131,11 @@ Nr. XIII-924, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21596
 
 
 
-10. Krašto apsaugos sistemos institucijos šiame įstatyme yra suprantamos taip pat kaip Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme.
+10. Krašto apsaugos sistemos institucijos šiame įstatyme suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme. Rangovai ir išlaikytiniai šiame įstatyme suprantami taip, kaip jie apibrėžti Lietuvos Respublikos tarptautinėse sutartyse dėl karinių pajėgų statuso. Išlaikytinių sąvoka šiame įstatyme apima ir rangovų (fizinių asmenų, rangovų darbuotojų) išlaikytinius. 
 Papildyta straipsnio dalimi:
 Nr. XIII-3251, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15766
+Straipsnio dalies pakeitimai:
+Nr. XIV-59, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27615
  
 
 
@@ -142,32 +146,33 @@ Nr. X-182, 2005-05-12, Žin., 2005, Nr. 66-2351 (2005-05-26)
 
 
 
-3 straipsnis. Lietuvos Respublikos karinių vienetų, karių ir civilių krašto apsaugos sistemos tarnautojų dalyvavimo tarptautinėse operacijose, pratybose ir kituose renginiuose, taip pat užsienio valstybių karinių vienetų, karių ir karinėms pajėgoms priskirtų civilių tarnautojų dalyvavimo tarptautinėse operacijose, pratybose ir kituose renginiuose Lietuvos Respublikos teritorijoje pagrindai
+3 straipsnis. Lietuvos Respublikos karinių vienetų, karių ir civilių krašto apsaugos sistemos tarnautojų dalyvavimo tarptautinėse operacijose, pratybose ir kituose renginiuose, taip pat užsienio valstybių karinių vienetų, karių ir karinėms pajėgoms priskirtų civilių tarnautojų bei rangovų dalyvavimo tarptautinėse operacijose, pratybose ir kituose renginiuose Lietuvos Respublikos teritorijoje pagrindai
 
 
-Šio Įstatymo nustatytais atvejais ir tvarka Lietuvos Respublikos kariniai vienetai, kariai ir civiliai krašto apsaugos sistemos tarnautojai gali dalyvauti tarptautinėse operacijose, pratybose ir kituose renginiuose, taip pat užsienio valstybių kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai gali dalyvauti tarptautinėse operacijose, pratybose ir kituose renginiuose Lietuvos Respublikos teritorijoje tik tada, kai dėl to priimamas kompetentingos Lietuvos valstybės institucijos ar kompetentingo pareigūno sprendimas, atitinkantis Lietuvos Respublikos Konstituciją ir Lietuvos Respublikos tarptautines sutartis ar kitas tarptautinės teisės normas ar principus. 
+Šio įstatymo nustatytais atvejais ir tvarka Lietuvos Respublikos kariniai vienetai, kariai ir civiliai krašto apsaugos sistemos tarnautojai gali dalyvauti tarptautinėse operacijose, pratybose ir kituose renginiuose, taip pat užsienio valstybių kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai bei rangovai gali dalyvauti tarptautinėse operacijose, pratybose ir kituose renginiuose Lietuvos Respublikos teritorijoje tik tada, kai dėl to priimamas kompetentingos Lietuvos valstybės institucijos ar kompetentingo pareigūno sprendimas, atitinkantis Lietuvos Respublikos Konstituciją ir Lietuvos Respublikos tarptautines sutartis ar kitas tarptautinės teisės normas ar principus. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1599, 2018-11-06, paskelbta TAR 2018-11-12, i. k. 2018-18210
+Nr. XIV-59, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27615
  
 
 
 
 
-31 straipsnis. Asmens duomenų tvarkymas 
+31 straipsnis. Asmens duomenų tvarkymas
 
 
-1. Įgyvendindamos šį įstatymą, krašto apsaugos sistemos institucijos Lietuvos Respublikos karių ir civilių krašto apsaugos sistemos tarnautojų, taip pat užsienio valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų asmens duomenis, susijusius su tarptautinių operacijų, pratybų ir kitų renginių planavimu, organizavimu ir dalyvavimu juose, tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) ir šiuo įstatymu. Šiais tikslais krašto apsaugos sistemos institucijos turi teisę tvarkyti ir specialių kategorijų asmens duomenis.
+1. Įgyvendindamos šį įstatymą, krašto apsaugos sistemos institucijos Lietuvos Respublikos karių ir civilių krašto apsaugos sistemos tarnautojų asmens duomenis, susijusius su tarptautinių operacijų, pratybų ir kitų renginių planavimu, organizavimu ir dalyvavimu juose, taip pat krašto apsaugos sistemos ir kitos institucijos užsienio valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų bei rangovų (fizinių asmenų, rangovų darbuotojų) asmens duomenis, susijusius su tarptautinių operacijų, pratybų ir kitų renginių planavimu, organizavimu ir dalyvavimu juose, taip pat išlaikytinių asmens duomenis, susijusius su išlaikytinių teisių įgyvendinimu pagal Lietuvos Respublikos tarptautines sutartis dėl karinių pajėgų statuso, tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) ir šiuo įstatymu. Šiais tikslais krašto apsaugos sistemos ir kitos institucijos turi teisę tvarkyti ir specialių kategorijų asmens duomenis.
 
 
 
 
-2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams (Lietuvos Respublikos kariams ir civiliams krašto apsaugos sistemos tarnautojams, taip pat užsienio valstybių kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 12 straipsnyje, 14 straipsnio 1, 2 ir 3 dalyse nustatytos duomenų subjektų (Lietuvos Respublikos karių ir civilių krašto apsaugos sistemos tarnautojų, taip pat užsienio valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (arba) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma arba gali būti sukliudyta planuoti, organizuoti ir (arba) vykdyti tarptautines operacijas, pratybas ir kitus renginius. Krašto apsaugos sistemos institucijos turi kiekvienu konkrečiu atveju krašto apsaugos ministro ar jo įgalioto asmens nustatyta tvarka įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu.
+2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams (Lietuvos Respublikos kariams ir civiliams krašto apsaugos sistemos tarnautojams, taip pat užsienio valstybių kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams bei rangovams (fiziniams asmenims, rangovų darbuotojams), taip pat išlaikytiniams) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 12 straipsnyje, 14 straipsnio 1, 2 ir 3 dalyse nustatytos duomenų subjektų (Lietuvos Respublikos karių ir civilių krašto apsaugos sistemos tarnautojų, taip pat užsienio valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų bei rangovų (fizinių asmenų, rangovų darbuotojų), taip pat išlaikytinių) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (arba) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma arba gali būti sukliudyta planuoti, organizuoti ir (arba) vykdyti tarptautines operacijas, pratybas ir kitus renginius. Krašto apsaugos sistemos institucija krašto apsaugos ministro ar jo įgalioto asmens, o kita institucija – šios institucijos vadovo ar jo įgalioto asmens nustatyta tvarka turi kiekvienu konkrečiu atveju įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu. 
 
 
-Papildyta straipsniu:
-Nr. XIII-3251, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15766
+Straipsnio pakeitimai:
+Nr. XIV-59, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27615
  
 
 
@@ -387,7 +392,10 @@ III SKYRIUS PRATYBOS IR KITI RENGINIAI
 1. Bendradarbiaujant su kitomis valstybėmis ar (ir) tarptautinėmis institucijomis:
 
 
-1) Lietuvos Respublikos teritorijoje gali būti rengiamos bendros Lietuvos Respublikos ir kitų valstybių karinių vienetų pratybos arba kitų valstybių karinių vienetų pratybos Lietuvos Respublikos krašto apsaugos sistemai skirtuose infrastruktūros objektuose ir karinio mokymo teritorijose, taip pat organizuojami kiti renginiai, kuriuose dalyvauja kitų valstybių kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai;
+1) Lietuvos Respublikos teritorijoje gali būti rengiamos bendros Lietuvos Respublikos ir kitų valstybių karinių vienetų pratybos arba kitų valstybių karinių vienetų pratybos Lietuvos Respublikos krašto apsaugos sistemai skirtuose infrastruktūros objektuose ir karinio mokymo teritorijose, taip pat organizuojami kiti renginiai, kuriuose dalyvauja kitų valstybių kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai bei rangovai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-59, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27615
+ 
 
 
 
@@ -463,6 +471,14 @@ Nr. XII-1931, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11104
 
 
 4. Priimdamas šio straipsnio 3 dalyje nurodytus sprendimus, krašto apsaugos ministras nustato maksimalų galinčių vienu metu būti Lietuvos Respublikoje kitų valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų skaičių bei maksimalią pratybų ar kito renginio trukmę, taip pat informuoja apie šiuos sprendimus Lietuvos Respublikos Vyriausybę.
+
+
+
+
+41. Krašto apsaugos ministras priima sprendimą leisti atvykti į Lietuvos Respublikos teritorijoje rengiamas pratybas ar organizuojamus kitus renginius rangovams, šiame sprendime nustatydamas maksimalią rangovų (fizinių asmenų, rangovų darbuotojų) buvimo Lietuvos Respublikos teritorijoje šių pratybų ar kitų renginių tikslais trukmę. 
+Papildyta straipsnio dalimi:
+Nr. XIV-59, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27615
+ 
 
 
 
@@ -543,34 +559,41 @@ Nr. X-182, 2005-05-12, Žin., 2005, Nr. 66-2351 (2005-05-26)
 
 
 
-12 straipsnis. Dalyvaujančių tarptautinėse operacijose, pratybose ir kituose renginiuose kitų valstybių karinių vienetų, karių ir karinėms pajėgoms priskirtų civilių tarnautojų vykimas per Lietuvos valstybės sieną bei jų statusas
+12 straipsnis. Dalyvaujančių tarptautinėse operacijose, pratybose ir kituose renginiuose kitų valstybių karinių vienetų, karių ir karinėms pajėgoms priskirtų civilių tarnautojų bei rangovų, taip pat išlaikytinių atvykimas į Lietuvos Respubliką ir jų teisinis statusas
 
 
-1. Dalyvaujančių tarptautinėse operacijose, pratybose ir kituose renginiuose kitų valstybių karinių vienetų, jų karių ir karinėms pajėgoms priskirtų civilių tarnautojų teisinį statusą nustato Lietuvos Respublikos tarptautinės sutartys dėl karinių pajėgų statuso ir jomis grindžiami susitarimai, taip pat Lietuvos Respublikos įstatymai ir kiti teisės aktai.
-
-
-
-
-2. Krašto apsaugos ministrui ar jo įgaliotam atstovui iš anksto pateikus dokumentus dėl leidimo kitų valstybių kariniams vienetams, kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams atvykti į Lietuvos Respubliką, Lietuvos valstybės sienos apsaugos, muitinės ir kitos kontrolės institucijos taiko jiems specialiąją valstybės sienos perėjimo tvarką – atleidžia nuo pasų bei vizų kontrolės ir netaiko užsieniečių registravimo taisyklių. Ši tvarka taikoma valstybių, kurios kartu su Lietuvos Respublika yra daugiašalių tarptautinių sutarčių dėl karinių pajėgų statuso dalyvės, kariniams vienetams, kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams, o Vyriausybės nutarimu – taip pat kitų valstybių kariniams vienetams, kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams, jeigu jos taiko tokią pačią sienos perėjimo tvarką Lietuvos Respublikos kariniams vienetams, kariams ir civiliams krašto apsaugos sistemos tarnautojams. Specialiąją valstybės sienos perėjimo tvarką tvirtina Lietuvos Respublikos Vyriausybė.
+1. Dalyvaujančių tarptautinėse operacijose, pratybose ir kituose renginiuose kitų valstybių karinių vienetų, jų karių ir karinėms pajėgoms priskirtų civilių tarnautojų bei rangovų, taip pat išlaikytinių teisinį statusą nustato Lietuvos Respublikos tarptautinės sutartys dėl karinių pajėgų statuso ir jomis grindžiami susitarimai, taip pat Lietuvos Respublikos įstatymai ir kiti teisės aktai. Dalyvaujantiems tarptautinėse operacijose, pratybose ir kituose renginiuose kitų valstybių karinėms pajėgoms priskirtiems civiliams tarnautojams bei rangovams (fiziniams asmenims, rangovų darbuotojams), taip pat išlaikytiniams, atvykusiems į Lietuvos Respubliką ilgiau kaip 3 mėnesiams per pusę metų, išduodami dalyvaujančių tarptautinėse operacijose, pratybose ir kituose renginiuose užsieniečių, taip pat išlaikytinių pažymėjimai (toliau – Statuso pažymėjimas). Krašto apsaugos ministro nustatytais atvejais Statuso pažymėjimai taip pat išduodami dalyvaujantiems tarptautinėse operacijose, pratybose ir kituose renginiuose kitų valstybių kariams. Statuso pažymėjimas patvirtina asmens teisę laikinai gyventi Lietuvos Respublikoje jame nurodytą laiką, asmens teisinį statusą pagal Lietuvos Respublikos tarptautines sutartis dėl karinių pajėgų statuso, jomis grindžiamus susitarimus, taip pat Lietuvos Respublikos įstatymus ir kitus teisės aktus. Statuso pažymėjimas yra asmens dokumentas, prilyginamas leidimui laikinai gyventi Lietuvos Respublikoje. 
 
 
 
 
-3. Lietuvos valstybės sienos kontrolės institucijų pareigūnų reikalavimu kitų valstybių karinių vienetų vadai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai privalo pateikti kolektyvinį arba asmeninį judėjimo ar kelionės įsakymą. Jį kompetentinga siunčiančiosios valstybės ar tarptautinės organizacijos institucija išleidžia savo šalies kalba, taip pat anglų (prancūzų) kalba. Įsakymas patvirtina šio vieneto, karių ir karinėms pajėgoms priskirtų civilių tarnautojų statusą, jų teisę turėti ir nešioti ginklus, gabenamų oficialių dokumentų paketų skaičių, taip pat karinio vieneto judėjimo kryptį. Kitų valstybių kariniams vienetams, kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams pereinant Lietuvos valstybės sieną, valstybės sienos kontrolės institucijų pareigūnams kilusius klausimus sprendžia krašto apsaugos ministro įgalioti atstovai.
+2. Statuso pažymėjimas išduodamas (keičiamas) ne ilgiau negu 3 metams, o jeigu numatomas šio straipsnio 1 dalyje nurodytų asmenų buvimas Lietuvos Respublikoje trumpesnis negu 3 metai, – buvimo laikotarpiui ir dar 3 mėnesiams, tačiau ne ilgiau negu 3 metams. Statuso pažymėjimo formą, išdavimo, keitimo ir panaikinimo tvarką nustato Lietuvos Respublikos vidaus reikalų ministras, suderinęs su krašto apsaugos ministru. Statuso pažymėjimas išduodamas arba keičiamas ne vėliau kaip per vieną mėnesį nuo vidaus reikalų ministro tvirtinamame tvarkos apraše nurodytų Statuso pažymėjimui išduoti arba pakeisti reikiamų dokumentų ir informacijos gavimo dienos.
 
 
 
 
-4. Kitų valstybių kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai, kuriems šio Įstatymo nustatyta tvarka leista atvykti į Lietuvos Respubliką, turi teisę nedeklaruodami ir nemokėdami mokesčių įsivežti į Lietuvos Respublikos teritoriją ir išsivežti iš jos savo ginkluotę, karinę techniką ir amuniciją bei oficialius dokumentus, taip pat savo vartojimo poreikiams reikalingą maisto produktų, kitų atsargų ir prekių kiekį (įskaitant akcizų objektu esančias prekes). Įvežamos ar išvežamos ginkluotės, amunicijos ir technikos sąrašas, taip pat maisto produktų, kitų atsargų ir prekių kiekis nurodomas specialios formos pažymoje, o šią pažymą pasirašo kompetentingas siunčiančiosios valstybės ar tarptautinės organizacijos pareigūnas.
+3. Krašto apsaugos ministrui ar jo įgaliotam atstovui iš anksto pateikus dokumentus dėl leidimo kitų valstybių kariniams vienetams, kariams atvykti į Lietuvos Respubliką, Lietuvos valstybės sienos apsaugos, muitinės ir kitos kontrolės institucijos jiems taiko specialiąją valstybės sienos perėjimo tvarką – atleidžia nuo pasų bei vizų kontrolės ir netaiko užsieniečių registravimo taisyklių. Krašto apsaugos ministrui ar jo įgaliotam atstovui iš anksto pateikus dokumentus dėl leidimo kitų valstybių karinėms pajėgoms priskirtiems civiliams tarnautojams bei rangovams atvykti į Lietuvos Respubliką, Lietuvos valstybės sienos kontrolės institucijos taiko karinėms pajėgoms priskirtiems civiliams tarnautojams bei rangovams (fiziniams asmenims, rangovų darbuotojams) specialiąją valstybės sienos perėjimo tvarką – atleidžia nuo vizų kontrolės ir netaiko užsieniečių registravimo taisyklių. Krašto apsaugos ministrui ar jo įgaliotam atstovui iš anksto pateikus informaciją apie išlaikytinių atvykimą į Lietuvos Respubliką, Lietuvos valstybės sienos kontrolės institucijos jiems taiko specialiąją valstybės sienos perėjimo tvarką – atleidžia nuo vizų kontrolės ir netaiko užsieniečių registravimo taisyklių. Ši tvarka taikoma valstybių, kurios kartu su Lietuvos Respublika yra tarptautinių sutarčių dėl karinių pajėgų statuso dalyvės, kariniams vienetams, kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams bei rangovams, taip pat išlaikytiniams, o Vyriausybės nutarimu – taip pat kitų valstybių kariniams vienetams, kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams, jeigu jos taiko tokią pačią sienos perėjimo tvarką Lietuvos Respublikos kariniams vienetams, kariams ir civiliams krašto apsaugos sistemos tarnautojams. Specialiąją valstybės sienos perėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
 
 
 
 
-5. Kitų valstybių kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai, kuriems šio Įstatymo nustatyta tvarka leista atvykti į Lietuvos Respubliką, Lietuvos Respublikos teritorijoje naudojasi savo tarnybinėmis transporto priemonėmis, nemokėdami mokesčių ir rinkliavų už naudojimąsi Lietuvos Respublikos keliais, valstybiniais oro ir jūrų uostais. Vykstantį kitos valstybės karinį vienetą per Lietuvos Respublikos teritoriją prireikus lydi Lietuvos kariuomenės vado paskirta karinė palyda.
+4. Lietuvos valstybės sienos kontrolės institucijų pareigūnų reikalavimu kitų valstybių karinių vienetų vadai ar kariai privalo pateikti kolektyvinį arba asmeninį judėjimo ar kelionės įsakymą ir kitų valstybių kompetentingų institucijų išduotą kario statusą patvirtinantį dokumentą. Lietuvos valstybės sienos kontrolės institucijų pareigūnų reikalavimu kitų valstybių karinėms pajėgoms priskirti civiliai tarnautojai bei rangovai, taip pat išlaikytiniai privalo pateikti kolektyvinį arba asmeninį judėjimo ar kelionės įsakymą arba užsienio valstybės kompetentingos institucijos išduotą dokumentą, kuriuo patvirtinamas jų kaip karinėms pajėgoms priskirtų civilių tarnautojų arba rangovų, arba išlaikytinių statusas ar tapatybė, ir pasą. Judėjimo ar kelionės įsakymą kompetentinga siunčiančiosios valstybės ar tarptautinės organizacijos institucija išleidžia savo šalies kalba, taip pat anglų (prancūzų) kalba ir šiuo įsakymu patvirtina šio vieneto, karių ir karinėms pajėgoms priskirtų civilių tarnautojų bei rangovų, taip pat išlaikytinių statusą, gabenamų oficialių dokumentų paketų skaičių, karinio vieneto judėjimo kryptį, karių teisę turėti ir nešioti ginklus. Kitų valstybių kariniams vienetams, kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams bei rangovams, taip pat išlaikytiniams kertant Lietuvos valstybės sieną, Lietuvos valstybės sienos kontrolės institucijų pareigūnams kilusius klausimus sprendžia krašto apsaugos ministro įgalioti atstovai.
+
+
+
+
+5. Kitų valstybių kariniai vienetai, kariai, kuriems šio įstatymo nustatyta tvarka leista atvykti į Lietuvos Respubliką, turi teisę nedeklaruodami ir nemokėdami mokesčių įsivežti į Lietuvos Respublikos teritoriją ir išsivežti iš jos tarnybiniais tikslais ginkluotę, karinę techniką ir amuniciją bei oficialius dokumentus, taip pat savo vartojimo poreikiams reikalingą maisto produktų, kitų atsargų ir prekių kiekį (įskaitant akcizų objektu esančias prekes). Kitų valstybių karinėms pajėgoms priskirti civiliai tarnautojai bei rangovai, kuriems šio įstatymo nustatyta tvarka leista atvykti į Lietuvos Respubliką, turi teisę nedeklaruodami ir nemokėdami mokesčių įsivežti į Lietuvos Respublikos teritoriją ir išsivežti iš jos savo vartojimo poreikiams reikalingą maisto produktų, kitų atsargų ir prekių kiekį (įskaitant akcizų objektu esančias prekes). Įvežamos ar išvežamos tarnybiniais tikslais ginkluotės, amunicijos ir technikos sąrašas, taip pat maisto produktų, kitų atsargų ir prekių kiekis nurodomas specialios formos pažymoje, o šią pažymą pasirašo kompetentingas siunčiančiosios valstybės ar tarptautinės organizacijos pareigūnas.
+
+
+
+
+6. Kitų valstybių kariniai vienetai, kariai ir karinėms pajėgoms priskirti civiliai tarnautojai bei rangovai, kuriems šio įstatymo nustatyta tvarka leista atvykti į Lietuvos Respubliką, Lietuvos Respublikos teritorijoje naudojasi savo tarnybinėmis transporto priemonėmis, nemokėdami mokesčių ir rinkliavų už naudojimąsi Lietuvos Respublikos keliais, valstybiniais oro ir jūrų uostais. Vykstantį kitos valstybės karinį vienetą per Lietuvos Respublikos teritoriją prireikus lydi Lietuvos kariuomenės vado paskirta karinė palyda. 
 
 
 Straipsnio pakeitimai:
 Nr. X-182, 2005-05-12, Žin., 2005, Nr. 66-2351 (2005-05-26)
+Straipsnio pakeitimai:
+Nr. XIV-59, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27615
  
 
 
@@ -661,7 +684,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS
  
  
 
@@ -778,3 +801,8 @@ Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendrad
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3251, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15766
 Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 2 straipsnio pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-59, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27615
+Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 1, 2, 3, 3-1, 8, 9 ir 12 straipsnių pakeitimo įstatymas
