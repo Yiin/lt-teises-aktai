@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997.07.01)
 
 
 
-Suvestinė redakcija nuo 2021-01-23 iki 2021-02-28
+Suvestinė redakcija nuo 2021-03-01 iki 2021-05-25
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 55-1287; Žin. 1996, Nr.99-0, i. k. 0961010ISTA00I-1343
  
@@ -989,9 +989,11 @@ Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
 
 
 
-6. Paciento priemokos už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą bei į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemones, įrašytas į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, skiriamus senatvės pensijos amžių sukakusiems arba Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme nurodytiems neįgaliesiems asmenims, kurių užpraeitą mėnesį gautų socialinio draudimo pensijų (kartu su socialinio draudimo senatvės arba netekto darbingumo (invalidumo) pensijų priemokomis), šalpos išmokų, valstybinių pensijų, užsienio valstybės pensijų, pensijų išmokų, mokamų pagal Lietuvos Respublikos pensijų kaupimo įstatymą ir Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymą, kompensacinių išmokų profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, valstybinių signataro rentų, valstybinių signataro našlių ir našlaičių rentų, rentų buvusiems sportininkams, kompensacijų už ypatingas darbo sąlygas ir (ar) draudžiamųjų pajamų, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, suma sudaro mažiau kaip 95 procentus praėjusių metų minimalių vartojimo poreikių dydžio, apskaičiuoto Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka, arba 75 metų ir vyresniems asmenims, padengiamos Vyriausybės nustatyta tvarka. 
+6. Paciento priemokos už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą bei į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemones, įrašytas į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, skiriamus senatvės pensijos amžių sukakusiems arba Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatyme nurodytiems neįgaliesiems asmenims, kurių užpraeitą mėnesį gautų socialinio draudimo pensijų (kartu su socialinio draudimo senatvės arba netekto darbingumo (invalidumo) pensijų priemokomis), šalpos išmokų, valstybinių pensijų, užsienio valstybės pensijų, pensijų išmokų, mokamų pagal Lietuvos Respublikos pensijų kaupimo įstatymą ir Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymą, kompensacinių išmokų profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, valstybinių signataro rentų, valstybinių signataro našlių ir našlaičių rentų, rentų buvusiems sportininkams, kompensacijų už ypatingas darbo sąlygas ir (ar) draudžiamųjų pajamų, kaip jos apibrėžtos Lietuvos Respublikos valstybinio socialinio draudimo įstatyme, suma sudaro mažiau kaip 100 procentų einamųjų metų minimalių vartojimo poreikių dydžio, apskaičiuoto Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka, arba 75 metų ir vyresniems asmenims, padengiamos Vyriausybės nustatyta tvarka. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
+Straipsnio dalies pakeitimai:
+Nr. XIV-165, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00840
  
 
 
@@ -3415,3 +3417,8 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-166, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01179
 Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 straipsnio pakeitimo įstatymas
+ 
+33.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-165, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00840
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 10 straipsnio pakeitimo įstatymas
