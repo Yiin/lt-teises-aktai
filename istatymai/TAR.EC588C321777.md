@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-03-18
+Suvestinė redakcija nuo 2021-03-19 iki 2021-05-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -3773,9 +3773,7 @@ Nr. XIII-2335, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12386
 
 
 2. Pripažinęs kaltinamąjį kaltu, teismas, priimdamas nuosprendį, priima sprendimą iš kaltinamojo išieškoti valstybės garantuojamos teisinės pagalbos išlaidas, susidariusias dėl būtino gynėjo dalyvavimo, atsižvelgdamas į kaltinamojo turtinę padėtį, išskyrus šio Kodekso 51 straipsnio 1 dalies 1 ir 2 punktuose nurodytus atvejus. Be to, teismas turi teisę nuspręsti iš kaltinamojo išieškoti nukentėjusiojo ir civilinio ieškovo patirtas išlaidas advokato, kuris dalyvavo byloje kaip nukentėjusiojo ar civilinio ieškovo atstovas, paslaugoms apmokėti. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3180, 2020-06-26, paskelbta TAR 2020-07-03, i. k. 2020-15006
- 
+TAR PASTABA. Pripažinti, kad Lietuvos Respublikos baudžiamojo proceso kodekso 106 straipsnis (su 2020 m. birželio 26 d. pakeitimu; TAR, 2020-07-03, Nr. 15006) tiek, kiek pagal jį asmeniui, dėl kurio priimtas išteisinamasis nuosprendis, atsižvelgiant į bylos aplinkybes, nėra atlyginamos būtinos ir pagristos išlaidos advokatui, prieštarauja Lietuvos Respublikos Konstitucijos 30 straipsnio 1 daliai, 31 straipsnio 6 daliai, konstituciniam teisinės valstybės principui.
 
 
 Straipsnio pakeitimai:
@@ -3783,6 +3781,7 @@ Nr. X-81, 2005-01-20, Žin., 2005, Nr. 18-575 (2005-02-08)
 Nr. XII-275, 2013-05-09, Žin., 2013, Nr. 54-2680 (2013-05-25)
 Straipsnio pakeitimai:
 Nr. XIII-165, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29859
+Nr. KT45-A-N3/2021, 2021-03-19, paskelbta TAR 2021-03-19, i. k. 2021-05546
  
 
 
@@ -16338,3 +16337,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 94, 342, 364, 365-5 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3354, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24241
 Lietuvos Respublikos baudžiamojo proceso kodekso 342 ir 357 straipsnių pakeitimo įstatymas
+ 
+55.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT45-A-N3/2021, 2021-03-19, paskelbta TAR 2021-03-19, i. k. 2021-05546
+Dėl Lietuvos Respublikos administracinių teisės pažeidimų kodekso 302-1 straipsnio, Lietuvos Respublikos baudžiamojo proceso kodekso 106 straipsnio atitikties Lietuvos Respublikos Konstitucijai
