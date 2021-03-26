@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EE245B47423C"
 
 # Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas
 
-Suvestinė redakcija nuo 2020-04-10 iki 2021-03-25
+Suvestinė redakcija nuo 2021-03-26 iki 2021-11-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 104-2363, i. k. 0961010ISTA00I-1553
  
@@ -878,41 +878,45 @@ Asmenų, mirusių nuo pavojingų ir ypač pavojingų užkrečiamųjų ligų, pal
 
 
 
-18 straipsnis. Privalomas sveikatos tikrinimas dėl užkrečiamųjų ligų. Asmenų, įtariamų, kad serga, susirgusių pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis, nušalinimas nuo darbo
+18 straipsnis. Privalomas sveikatos tikrinimas dėl užkrečiamųjų ligų
 
 
-1. Darbų ir veiklos sričių, kuriose leidžiama dirbti darbuotojams, tik iš anksto pasitikrinusiems ir vėliau periodiškai besitikrinantiems, ar neserga užkrečiamosiomis ligomis, sąrašą, tikrinimosi tvarką nustato Vyriausybė. 
-
-
-
-
-2. Darbdavys ir darbuotojas privalo laikytis darbuotojo sveikatos privalomo tikrinimo dėl užkrečiamųjų ligų išvadų nurodymų.
+1. Darbų ir veiklos sričių, kuriose leidžiama dirbti darbuotojams, tik iš anksto pasitikrinusiems ir vėliau periodiškai besitikrinantiems, ar neserga užkrečiamosiomis ligomis, sąrašą, taip pat Darbų ir veiklos sričių, kuriose leidžiama dirbti darbuotojams, pasitikrinusiems ir (ar) periodiškai besitikrinantiems, ar neserga užkrečiamąja liga, dėl kurios yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, sąrašą, darbuotojų tikrinimosi tvarką nustato Vyriausybė. 
 
 
 
 
-3. Darbuotoją, atsisakiusį nustatytu laiku pasitikrinti, ar neserga užkrečiamąja liga, arba nepasitikrinusį be labai svarbių priežasčių (liga, dalyvavimas giminaičių laidotuvėse, komandiruotė), darbdavys privalo nušalinti nuo darbo ir nemokėti jam darbo užmokesčio iki tos dienos, kol jis pasitikrins, ar neserga užkrečiamąja liga, arba perkelti jį toje pačioje darbovietėje į kitą darbą, kurį jam leidžiama dirbti pagal sveikatos būklę. Darbuotojas grąžinamas į ankstesnį darbą nuo tos dienos, kurią pateikia darbdaviui sveikatos patikrinimo išvadas, kad gali tęsti darbą.
+2. Kai yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas dėl užkrečiamosios ligos ir nustatomas šios ligos protrūkis darbovietėje, Nacionalinio visuomenės sveikatos centro nurodytiems darbuotojams leidžiama dirbti tik pasitikrinus, ar neserga užkrečiamąja liga, dėl kurios yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, ir įgyvendinus kitas Nacionalinio visuomenės sveikatos centro paskirtas šiems darbuotojams privalomas užkrečiamosios ligos kontrolės priemones. Nacionalinis visuomenės sveikatos centras šioje dalyje nurodytus darbuotojus nustato sveikatos apsaugos ministro nustatyta užkrečiamųjų ligų epidemiologinės diagnostikos tvarka, atsižvelgdamas į užkrečiamosios ligos epidemiologinės diagnostikos duomenis, ir apie tai informuoja šiuos darbuotojus ir darbdavį. 
 
 
 
 
-4. Uždaruose kolektyvuose gyvenantys kariai, asmenys, laikomi Vidaus reikalų ministerijos ar Kalėjimų departamento prie Teisingumo ministerijos uždarose įstaigose, privalo būti tikrinami, ar neserga užkrečiamosiomis ligomis. Šių asmenų sveikatos tikrinimo dėl užkrečiamųjų ligų tvarką nustato tų įstaigų steigėjai, suderinę su Sveikatos apsaugos ministerija.
+3. Darbdavys ir darbuotojas privalo laikytis darbuotojo sveikatos privalomo tikrinimo dėl užkrečiamųjų ligų išvadų nurodymų.
 
 
 
 
-5. Asmenims, įtariamiems, kad serga, ar susirgusiems pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis arba tapusiems šių ligų sukėlėjų nešiotojais, iki šeimos gydytojo leidimo draudžiama tęsti šio straipsnio 1 dalyje nurodytame sąraše nustatytus darbus. Pavojingų ir ypač pavojingų ligų, dėl kurių asmenims draudžiama tęsti šio straipsnio 1 dalyje nurodytame sąraše nustatytus darbus iki šeimos gydytojo leidimo, sąrašą tvirtina sveikatos apsaugos ministras. Šiuos asmenis darbdaviai savo iniciatyva, taip pat vykdydami apskričių vyriausiųjų epidemiologų sprendimus, privalo laikinai nušalinti nuo darbo arba perkelti į kitą darbą, kurį jiems leidžiama dirbti pagal sveikatos būklę. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2831, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07194
+4. Darbuotojas, atsisakęs nustatytu laiku pasitikrinti, ar neserga užkrečiamąja liga, arba nepasitikrinęs be labai svarbių priežasčių (liga, dalyvavimas giminaičių laidotuvėse, komandiruotė), atsižvelgiant į darbo pobūdį skiriamas dirbti nuotoliniu būdu arba perkeliamas toje pačioje darbovietėje į kitą darbą, kurį jam leidžiama dirbti pagal sveikatos būklę, o jeigu tokių galimybių nėra, nušalinamas nuo darbo, nemokant jam darbo užmokesčio, iki tos dienos, kol jis pasitikrins, ar neserga užkrečiamąja liga, o šio straipsnio 2 dalyje nurodytas darbuotojas – iki tol, kol pasibaigs laikotarpis, kuriam turi izoliuotis asmenys, turėję sąlytį. Darbuotojas grąžinamas į ankstesnį darbą nuo tos dienos, kurią pateikia darbdaviui sveikatos patikrinimo išvadas, kad gali tęsti darbą, o šio straipsnio 2 dalyje nurodytas darbuotojas – pasibaigus laikotarpiui, kuriam turi izoliuotis asmenys, turėję sąlytį.
+
+
+
+
+5. Uždaruose kolektyvuose gyvenantys kariai, asmenys, laikomi Vidaus reikalų ministerijos ar Kalėjimų departamento prie Teisingumo ministerijos uždarose įstaigose, privalo būti tikrinami, ar neserga užkrečiamosiomis ligomis. Šių asmenų sveikatos tikrinimo dėl užkrečiamųjų ligų tvarką nustato tų įstaigų savininko teises ir pareigas įgyvendinančios institucijos, suderinusios su Sveikatos apsaugos ministerija.
+
+
+
+
+6. Asmenims, įtariamiems, kad serga, ar susirgusiems pavojingomis ar ypač pavojingomis užkrečiamosiomis ligomis arba tapusiems šių ligų sukėlėjų nešiotojais, iki šeimos gydytojo leidimo draudžiama tęsti šio straipsnio 1 dalyje nurodytuose sąrašuose nustatytus darbus ar tęsti darbą šio straipsnio 2 dalyje nurodytoje darbovietėje, išskyrus atvejus, kai dirbama nuotoliniu būdu arba asmuo yra perkeltas toje pačioje darbovietėje į kitą darbą, kurį jam leidžiama dirbti pagal sveikatos būklę. Pavojingų ir ypač pavojingų ligų, dėl kurių asmenims draudžiama tęsti šio straipsnio 1 dalyje nurodytame Darbų ir veiklos sričių, kuriose leidžiama dirbti darbuotojams, tik iš anksto pasitikrinusiems ir vėliau periodiškai besitikrinantiems, ar neserga užkrečiamosiomis ligomis, sąraše nustatytus darbus iki šeimos gydytojo leidimo, sąrašą tvirtina sveikatos apsaugos ministras. Šie asmenys darbdavio iniciatyva, taip pat vykdant apskričių vyriausiųjų epidemiologų sprendimus, atsižvelgiant į darbo pobūdį skiriami dirbti nuotoliniu būdu arba perkeliami toje pačioje darbovietėje į kitą darbą, kurį jiems leidžiama dirbti pagal sveikatos būklę, o jeigu tokių galimybių nėra, laikinai nušalinami nuo darbo.
+
+
+
+
+7. Išlaidas už periodinius sveikatos patikrinimus ir vidutinį darbo užmokestį darbuotojams už sveikatos patikrinimams sugaištą laiką apmoka darbdavys, o už sveikatos patikrinimą prieš pradedant dirbti – darbuotojas, jeigu kituose įstatymuose nenumatyta kitaip. Darbuotojų, dirbančių ar vykdančių veiklą, nurodytą Darbų ir veiklos sričių, kuriose leidžiama dirbti darbuotojams, pasitikrinusiems ir (ar) periodiškai besitikrinantiems, ar neserga užkrečiamąja liga, dėl kurios yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, sąraše, ir darbuotojų, nurodytų šio straipsnio 2 dalyje, sveikatos patikrinimai dėl užkrečiamosios ligos, dėl kurios yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, finansuojami valstybės biudžeto lėšomis Vyriausybės nustatyta tvarka. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-195, 2021-03-23, paskelbta TAR 2021-03-25, i. k. 2021-05878
  
-
-
-
-
-6. Išlaidas už periodinius sveikatos patikrinimus ir vidutinį darbo užmokestį darbuotojams už sveikatos patikrinimams sugaištą laiką apmoka darbdavys, o už sveikatos patikrinimą prieš pradedant dirbti – darbuotojas, jei kiti įstatymai nenumato kitaip.
- 
-
-
 
 
 
@@ -1328,7 +1332,15 @@ Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
 
 
 
-7) organizuoja savivaldybės teritorijos gyventojus darbui epidemijoms ir jų padariniams likviduoti. 
+7) organizuoja savivaldybės teritorijos gyventojus darbui epidemijoms ir jų padariniams likviduoti; 
+
+
+
+
+8) organizuoja savivaldybės teritorijos gyventojų sveikatos patikrinimus dėl užkrečiamosios ligos. 
+Papildyta straipsnio punktu:
+Nr. XIV-195, 2021-03-23, paskelbta TAR 2021-03-25, i. k. 2021-05878
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -1859,7 +1871,10 @@ Iš valstybės biudžete sveikatos priežiūrai numatytų lėšų finansuojama:
 
 
 
-2) riboto karantino, kuris nustatomas pagal šį Įstatymą ir kitus teisės aktus, priemonių taikymas žmonėms, jų sveikatos patikrinimai, mikrobiologiniai tyrimai, ypač pavojingų užkrečiamųjų ligų imunoprofilaktika, izoliavimas, atliekami tarptautinės teisės aktų nustatyta tvarka;
+2) valstybės lygio ekstremaliosios situacijos, paskelbtos dėl užkrečiamosios ligos, karantino ir (ar) riboto karantino, kurie nustatomi pagal šį Įstatymą ir kitus teisės aktus, priemonių taikymas žmonėms, jų sveikatos patikrinimai, mikrobiologiniai tyrimai, ypač pavojingų užkrečiamųjų ligų imunoprofilaktika, izoliavimas, atliekami Lietuvos Respublikos ir (ar) tarptautinės teisės aktų nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-195, 2021-03-23, paskelbta TAR 2021-03-25, i. k. 2021-05878
+ 
 
 
 
@@ -2023,3 +2038,8 @@ Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2845, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07510
 Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 32 straipsnio pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-195, 2021-03-23, paskelbta TAR 2021-03-25, i. k. 2021-05878
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 18, 26 ir 40 straipsnių pakeitimo įstatymas
