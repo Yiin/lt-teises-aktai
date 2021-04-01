@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.38B0127A21E8"
 
 # Lietuvos Respublikos prekybinės laivybos įstatymas
 
-Suvestinė redakcija nuo 2019-05-07 iki 2021-03-31
+Suvestinė redakcija nuo 2021-04-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 101-2300, i. k. 0961010ISTA00I-1513
  
@@ -105,6 +105,14 @@ Nr. XII-1219, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14529
 
 
 
+81. Ginkluotas laivų plėšimas – neteisėti smurtiniai ar sulaikymo veiksmai arba niokojimo veiksmai, taip pat grasinimas juos atlikti, išskyrus piratavimą, įvykdyti asmeniniais tikslais ir nukreipti prieš laivą arba prieš tokiame laive esančius asmenis ar turtą, laivui esant valstybės vidaus vandenyse, salyno vandenyse ir teritorinėje jūroje, arba bet kokie pirmiau aprašytus veiksmus kurstantys ar tyčia palengvinantys veiksmai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-214, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06551
+ 
+
+
+
+
 9. Jūrų laivas – laivas, suprojektuotas ir pastatytas laivybai jūroje bei turintis tai patvirtinančius dokumentus.
 
 
@@ -192,7 +200,10 @@ Nr. XII-1219, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14529
 
 
 
-24. Laivo valdytojas - asmuo, eksploatuojantis laivą, neatsižvelgiant į tai, ar jis yra laivo savininkas, ar juo naudojasi kitu teisėtu pagrindu.
+24. Laivo valdytojas – laivo savininkas ar kitas teisėtais pagrindais laivu besinaudojantis asmuo, perėmęs iš laivo savininko įsipareigojimus ir atsakomybę už laivo veiklą pagal 2006 m. Konvenciją dėl darbo jūrų laivyboje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-214, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06551
+ 
 
 
 
@@ -222,6 +233,14 @@ Nr. XII-1219, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14529
 
 
 
+291. Piratavimas – kaip apibrėžta 1982 m. Jungtinių Tautų jūrų teisės konvencijos 101 straipsnyje. 
+Papildyta straipsnio dalimi:
+Nr. XIV-214, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06551
+ 
+
+
+
+
 30. Repatriacija – laivo valdytojo ir valstybės, su kurios vėliava plaukioja laivas, vykdomų finansinių, teisinių ir kitų priemonių, užtikrinančių jūrininko sugrįžimą namo, visuma.
 
 
@@ -235,9 +254,11 @@ Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
 
 
 
-32. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos transporto veiklos pagrindų įstatyme ir Lietuvos Respublikos saugios laivybos įstatyme.
+32. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos transporto veiklos pagrindų įstatyme, Lietuvos Respublikos saugios laivybos įstatyme ir Lietuvos Respublikos civiliniame kodekse. 
 Papildyta straipsnio dalimi:
 Nr. XII-1219, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14529
+Straipsnio dalies pakeitimai:
+Nr. XIV-214, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06551
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
  
@@ -2940,9 +2961,10 @@ DARBO SANTYKIAI LAIVE IR GARANTIJOS JŪRININKAMS
 84 straipsnis. Darbo sutarties su jūrininku sudarymas ir informavimas apie darbo sąlygas
 
 
-1. Darbo sutartis su jūrininku, išskyrus laivo kapitoną, kuris yra laivo valdytojas, sudaroma Lietuvos Respublikos įstatymų nustatyta tvarka raštu pagal pavyzdinę formą, kurią tvirtina Lietuvos Respublikos Vyriausybė. Vienas darbo sutarties egzempliorius įteikiamas jūrininkui (išskyrus žvejį), kitas lieka laivo valdytojui. Darbo sutarties kopija įteikiama laivo kapitonui, tačiau, jeigu darbo sutartis yra sudaroma su žveju, darbo sutarties kopija įteikiama žvejui, o originalas lieka laivo kapitonui ir yra laikomas laive. Kiekvienam jūrininkui susisiekimo ministro nustatyta tvarka išduodama jūrininko knygelė. 
+1. Darbo sutartis su jūrininku, išskyrus laivo kapitoną, jeigu jis pats yra ir laivo valdytojas, sudaroma Lietuvos Respublikos darbo kodekso ir šio įstatymo nustatyta tvarka raštu pagal pavyzdinę formą, kurią tvirtina Lietuvos Respublikos Vyriausybė. Vienas darbo sutarties egzempliorius įteikiamas jūrininkui, kitas lieka laivo valdytojui. Darbo sutarties kopija įteikiama laivo kapitonui ir yra laikoma laive. Kiekvienam jūrininkui jo prašymu susisiekimo ministro nustatyta tvarka išduodama jūrininko knygelė. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
+Nr. XIV-214, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06551
  
 
 
@@ -2958,7 +2980,25 @@ Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
 
 
 
-4. Prieš sudarydamas darbo sutartį, laivo valdytojas privalo sudaryti sąlygas jūrininkui susipažinti su jos nuostatomis, supažindinti jūrininką su jo būsimo darbo sąlygomis, teisėmis ir pareigomis (sudarydamas sąlygas su šia informacija, įskaitant ir darbo sutartį, susipažinti ir kompetentingoms institucijoms), skundų dėl darbo jūrų laivyboje reikalavimų, nustatytų Lietuvos Respublikos tarptautinėse sutartyse ir Lietuvos Respublikos teisės aktuose, galimų pažeidimų priėmimo ir nagrinėjimo tvarka.
+4. Laivo valdytojas privalo:
+
+
+1) sudaryti sąlygas jūrininkui išnagrinėti darbo sutartį ir pasikonsultuoti dėl jos sąlygų prieš ją sudarant, taip pat laisvai sutikti su darbo sutarties sąlygomis;
+
+
+
+
+2) pasirašytinai supažindinti jūrininką su jo būsimo darbo sąlygomis, teisėmis ir pareigomis, skundų dėl darbo jūrų laivyboje reikalavimų, galimų pažeidimų priėmimo ir nagrinėjimo tvarka, užtikrinti, kad jūrininkai, įskaitant ir laivo kapitoną, laive galėtų lengvai gauti aiškią informaciją apie savo darbo sąlygas;
+
+
+
+
+3) sudaryti sąlygas su šios dalies 2 punkte nurodyta informacija, įskaitant ir jūrininko darbo sutartį, susipažinti Lietuvos Respublikos ir kitų valstybių, į kurių uostus įplaukiama, kompetentingoms institucijoms. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-214, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06551
+ 
 
 
 
@@ -3044,7 +3084,10 @@ Nr. IX-1680, 2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 
 
 
-10. Jeigu jūrininkui priklausantis turtas laive buvo sugadintas arba dingo dėl apiplėšimo, gaisro ar kitų laivui padarytų nuostolių, laivo valdytojas privalo išmokėti jūrininkui piniginę kompensaciją.
+10. Jeigu jūrininkui priklausantis turtas laive buvo sugadintas arba prarastas dėl ginkluoto laivų plėšimo ar piratavimo, gaisro ar kitų laivui padarytų nuostolių, laivo valdytojas privalo išmokėti jūrininkui piniginę kompensaciją. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-214, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06551
+ 
 
 
 Straipsnio pakeitimai:
@@ -3083,78 +3126,91 @@ Nr. IX-1680, 2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 88 straipsnis. Garantijos jūrininkams
 
 
-1. Jeigu darbo sutartis su jūrininku baigiasi arba jūrininkas nebegali vykdyti pareigų pagal darbo sutartį, arba nėra garantijos, kad ypatingomis aplinkybėmis jis galės tas pareigas vykdyti, laivo valdytojas organizuoja jūrininko repatriaciją ir apmoka išlaidas, susijusias su jūrininko kelione į nuolatinę gyvenamąją vietą. Jeigu užsienio valstybė, kurioje yra laivas ir kurioje baigiasi laivo valdytojo sudaryta darbo sutartis su jūrininku arba jūrininkas nebegali vykdyti pareigų pagal darbo sutartį, arba nėra garantijos, kad ypatingomis aplinkybėmis jis galės tas pareigas vykdyti, atsisako priimti jį į šalį arba priima už užstatą, kurio laivo valdytojas negali duoti, jūrininkas tęsia darbą laive tol, kol laivas atplauks į uostą, kuriame jūrininką bus galima išlaipinti.
+1. Jeigu darbo sutartis su jūrininku baigiasi arba jūrininkas nebegali vykdyti pareigų pagal darbo sutartį, arba nėra garantijos, kad ypatingomis aplinkybėmis jis galės tas pareigas vykdyti, arba jūrininko darbo sutartį nutraukia laivo valdytojas, arba pats jūrininkas dėl pateisinamų priežasčių (ligos, sužeidimo ar kitų sveikatos sutrikimų, dėl kurių reikia jūrininko repatriacijos, kai nustatoma, kad jūrininko sveikatos būklė leidžia jam keliauti), arba laivo avarijos atveju, arba jeigu laivo valdytojas dėl nemokumo, laivo pardavimo, laivo registracijos pasikeitimo negali toliau vykdyti savo kaip jūrininko darbdavio įsipareigojimų, kylančių iš teisės aktų ar sutarčių, arba jeigu laivas plaukia į didelės rizikos zoną, įtrauktą į Londono laivybos draudimo rinkos jungtinio karo komiteto patvirtintą pavojingų zonų sąrašą, į kurią vykti jūrininkas, pasirašydamas darbo sutartį, nedavė sutikimo, ir kitais kolektyvinėje sutartyje numatytais atvejais, laivo valdytojas organizuoja jūrininko repatriaciją ir apmoka išlaidas, susijusias su jūrininko kelione į jo nuolatinę gyvenamąją vietą.
 
 
 
 
-2. Jeigu nustatoma, kad jūrininkas serga liga, kuri kelia pavojų kitiems esantiems laive asmenims, laivo kapitonas, jei laive neįmanoma šiam pavojui užkirsti kelio, sergantį jūrininką išlaipina į krantą artimiausiame uoste, į kurį įplaukia laivas.
+2. Jeigu nustatoma, kad jūrininkas serga liga, kuri kelia pavojų kitiems laive esantiems asmenims, ir laive neįmanoma šiam pavojui užkirsti kelio, laivo kapitonas sergantį jūrininką išlaipina į krantą artimiausiame uoste, kuriame jam gali būti suteiktos reikiamos asmens sveikatos priežiūros paslaugos arba yra galimybė repatrijuoti jūrininką į jo nuolatinę gyvenamąją vietą, kai nustatoma, kad jūrininko sveikatos būklė leidžia jam keliauti.
 
 
 
 
-3. Kai sergantis ar sužalotas jūrininkas paliekamas užsienyje, laivo kapitonas užtikrina tinkamą jo priežiūrą, slaugymą ir apie tai praneša artimiausiai Lietuvos Respublikos diplomatinei atstovybei ar konsulinei įstaigai. Jūrininko prašymu laivo kapitonas perduoda jūrininko pateiktą informaciją jūrininko nurodytam asmeniui. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
- 
+3. Kai sergantis ar sužalotas jūrininkas paliekamas užsienyje, laivo kapitonas užtikrina tinkamą jo priežiūrą, slaugymą ir apie tai praneša artimiausiai Lietuvos Respublikos diplomatinei atstovybei ar konsulinei įstaigai. Jūrininko prašymu laivo kapitonas perduoda jūrininko pateiktą informaciją jūrininko nurodytam asmeniui.
 
 
 
 
-4. Jeigu jūrininko reiso metu jūrininkas susirgo, buvo sužalotas, mirė ar žuvo, laivo valdytojas apmoka visas išlaidas už jūrininko gydymą, priežiūrą, slaugą iki dienos, kurią jūrininkas yra laikomas tinkamai repatrijuotu, ir palaikų pargabenimą.
+4. Jeigu reiso metu jūrininkas susirgo, buvo sužalotas ar mirė, laivo valdytojas apmoka visas išlaidas už jūrininko gydymą, priežiūrą, slaugą iki dienos, kurią jūrininkas yra laikomas tinkamai repatrijuotu, ar jo palaikų parvežimą.
 
 
 
 
-5. Draudžiama laivų valdytojams reikalauti, kad jūrininkai iš anksto apmokėtų repatriacijos išlaidas jų įdarbinimo pradžioje, taip pat draudžiama išskaityti repatriacijos išlaidas iš jūrininkų atlyginimo ar kitų jiems priklausančių išmokų, išskyrus atvejus, kai, remiantis įstatymais ir kitais teisės aktais arba kolektyvinėmis sutartimis, buvo nustatyta, kad jūrininkas šiurkščiai pažeidė jūrininko pareigas.
+5. Laivo valdytojas ar jo atstovas privalo imtis priemonių, kad apsaugotų laive esantį susirgusių, sužalotų ar mirusių jūrininkų turtą ir grąžintų jį jūrininkams, o jų mirties atveju – jų artimiesiems giminaičiams.
 
 
 
 
-6. Jeigu laivo valdytojas nevykdo jūrininkų, kurie turi teisę į repatriaciją, repatriacijos, Užsienio reikalų ministerija vykdo tokių jūrininkų repatriaciją ir dėl to patirtas išlaidas išieško iš laivo valdytojo.
+6. Draudžiama laivų valdytojams reikalauti, kad jūrininkai iš anksto apmokėtų repatriacijos išlaidas jų įdarbinimo pradžioje, taip pat draudžiama išskaityti repatriacijos išlaidas iš jūrininkų darbo užmokesčio ar kitų jiems priklausančių išmokų, išskyrus atvejus, kai, remiantis įstatymais ir kitais teisės aktais arba kolektyvinėmis sutartimis, buvo nustatyta, kad jūrininkas šiurkščiai pažeidė jūrininko pareigas.
 
 
 
 
-7. Laivo, plaukiojančio su Lietuvos valstybės vėliava, valdytojas privalo turėti galiojančią prievolių, susijusių su tinkamu jūrininkų repatrijavimu ir kitais laivo valdytojo įpareigojimais dėl reikalavimų, numatytų Lietuvos Respublikos tarptautinėse sutartyse, reglamentuojančiose jūrininkų darbą jūrų laivyboje, įvykdymo užtikrinimo priemonę, suteiktą draudimo ar savidraudos veiklą vykdančio subjekto, Tarptautinės laivų valdytojų civilinės atsakomybės draudimo klubų konfederacijos narių, banko ar kito subjekto, turinčio teisę vykdyti atitinkamą prievolių įvykdymo užtikrinimo veiklą, arba draudimą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
- 
+7. Jeigu laivo valdytojas nevykdo jūrininkų, kurie turi teisę į repatriaciją, repatriacijos, Užsienio reikalų ministerija kartu su Susisiekimo ministerija vykdo tokių jūrininkų repatriaciją tarpusavio susitarimu nustatyta tvarka ir sąlygomis. Patirtos išlaidos išieškomos iš laivo valdytojo.
 
 
 
 
-8. Terminas, kuriam suėjus jūrininkas įgyja teisę į repatriaciją, negali būti ilgesnis kaip 12 mėnesių nuo jūrininko reiso pradžios. Konkretūs jūrininkų reisų laikotarpiai, po kurių jūrininkai įgyja teisę į repatriaciją, nustatomi darbo ir kolektyvinėse sutartyse. 
+8. Laivo, plaukiojančio su Lietuvos valstybės vėliava, valdytojas privalo turėti galiojančią prievolių, susijusių su tinkamu jūrininkų repatrijavimu ir kitais laivo valdytojo įpareigojimais dėl reikalavimų, numatytų Lietuvos Respublikos tarptautinėse sutartyse, reglamentuojančiose jūrininkų darbą jūrų laivyboje, įvykdymo užtikrinimo priemonę, suteiktą draudimo ar savidraudos veiklą vykdančio subjekto, Tarptautinės laivų valdytojų civilinės atsakomybės draudimo klubų konfederacijos narių, banko ar kito subjekto, turinčio teisę vykdyti atitinkamą prievolių įvykdymo užtikrinimo veiklą, arba draudimą.
 
 
 
 
-9. Laivo valdytojas neprivalo apmokėti išlaidų, numatytų šiame straipsnyje, jeigu dėl ligos ar sužalojimo jūrininkas apdraustas draudimo organizacijoje ir ši organizacija apmoka išlaidas.
+9. Maksimali darbo laive laikotarpių trukmė, kuriai suėjus jūrininkas įgyja teisę į repatriaciją, negali būti ilgesnė kaip 12 mėnesių nuo jūrininko reiso pradžios. Konkretūs jūrininkų reisų laikotarpiai, po kurių jūrininkai įgyja teisę į repatriaciją, nustatomi darbo ir kolektyvinėse sutartyse.
+
+
+
+
+10. Laivo valdytojas neprivalo apmokėti išlaidų, numatytų šiame straipsnyje, jeigu dėl ligos ar sužalojimo jūrininkas apdraustas draudimo organizacijoje ir ši organizacija apmoka išlaidas.
+
+
+
+
+11. Jeigu jūrininkas yra laikomas nelaisvėje laive ar bet kurioje kitoje vietoje dėl piratavimo ar ginkluoto laivų plėšimo, neatsižvelgiant į tai, ar pasibaigė darbo sutarties galiojimo laikotarpis, ar kuri nors darbo sutarties šalis pranešė apie sutarties vykdymo sustabdymą ar nutraukimą, jūrininko darbo užmokestis ir kitos jam priklausančios išmokos, numatytos jūrininko darbo sutartyje, atitinkamoje kolektyvinėje sutartyje ar kituose šias išmokas nustatančiuose Lietuvos Respublikos teisės aktuose, turi būti toliau mokami visą jūrininko buvimo nelaisvėje laikotarpį iki jūrininko paleidimo ir repatriacijos į jo nuolatinę gyvenamąją vietą dienos arba, jeigu jūrininkas miršta nelaisvėje, iki jo mirties datos, nustatytos pagal Lietuvos Respublikos teisės aktus. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-438, 2013-06-27, Žin., 2013, Nr. 75-3764 (2013-07-13)
+Straipsnio pakeitimai:
+Nr. XIV-214, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06551
  
 
 
 
 
-89 straipsnis. Jūrininkų darbo užmokesčio pervedimas kitiems asmenims
+89 straipsnis. Jūrininko darbo užmokesčio ir kitų jam priklausančių išmokų pervedimas kitiems asmenims
 
 
-1. Laivo valdytojas turi užtikrinti, kad jūrininkas galėtų pervesti visą savo darbo užmokestį ar jo dalį savo šeimai, išlaikytiniams arba teisėtiems gavėjams banko pavedimu ar panašiomis priemonėmis arba jūrininko reikalavimu dalis ar visas darbo užmokestis būtų pervedamas sutartu laiku tiesiogiai jūrininko nurodytiems asmenims.
+1. Laivo valdytojas turi užtikrinti, kad visas jūrininko darbo užmokestis ar jo dalis ir kitos jam priklausančios išmokos, numatytos jūrininko darbo sutartyje, atitinkamoje kolektyvinėje sutartyje ar kituose šias išmokas nustatančiuose Lietuvos Respublikos teisės aktuose, galėtų būti pervedamos tiesiogiai kitiems asmenims banko pavedimu ar sumokamos kitomis priemonėmis. Darbo sutartyje, sudaromoje su jūrininku, nustatomos konkrečios darbo užmokesčio ir kitų jam priklausančių išmokų pervedimo kitiems asmenims sąlygos ir tvarka (darbo užmokesčio ir kitų jam priklausančių išmokų dalis arba dalys, jeigu pervedamas ne visas darbo užmokestis ir kitos jam priklausančios išmokos; darbo užmokesčio ir kitų jam priklausančių išmokų, jų dalies arba dalių pervedimo periodiškumas, būdas ar priemonė) ir nurodomas konkretus asmuo ar asmenys, kuriems būtų pervedamas ar kitomis priemonėmis sumokamas jūrininko darbo užmokestis ir kitos jam priklausančios išmokos ar jų dalis arba dalys.
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodyta paslauga turi būti teikiama neatlygintinai, o valiutos keitimo kursas, jeigu kitaip nenustatyta šalių susitarimu, turi būti vyraujantis rinkos kursas arba oficialiai skelbiamas kursas. Valiutos keitimo kursas neturi būti nepalankus jūrininkams. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
- 
+2. Jeigu jūrininkas nusprendžia pasinaudoti šio straipsnio 1 dalyje nurodyta paslauga reiso metu, šio straipsnio 1 dalyje nurodytą informaciją dėl darbo užmokesčio ir kitų jam priklausančių išmokų pervedimo kitiems asmenims jūrininkas pateikia laivo kapitonui, o kapitonas šią informaciją raštu perduoda laivo valdytojui.
 
 
-Įstatymas papildytas straipsniu:
-Nr. XII-438, 2013-06-27, Žin., 2013, Nr. 75-3764 (2013-07-13)
+
+
+3. Jeigu jūrininkas yra laikomas nelaisvėje laive ar bet kurioje kitoje vietoje dėl piratavimo ar ginkluoto laivų plėšimo, laivo valdytojas užtikrina, kad jūrininko darbo užmokestis ir kitos jam priklausančios išmokos ar jų dalis arba dalys pagal šio straipsnio 1 ir 2 dalis nurodytam kitam asmeniui ar asmenims būtų pervedamos ar sumokamos kitomis priemonėmis visą jūrininko buvimo nelaisvėje laikotarpį iki jūrininko paleidimo ir repatriacijos į jo nuolatinę gyvenamąją vietą dienos arba, jeigu jūrininkas miršta nelaisvėje, iki jo mirties datos, nustatytos pagal Lietuvos Respublikos teisės aktus.
+
+
+
+
+4. Šio straipsnio 1 dalyje nurodyta paslauga turi būti teikiama neatlygintinai, o valiutos keitimo kursas, jeigu kitaip nenustatyta šalių susitarimu, turi būti vyraujantis rinkos kursas arba oficialiai skelbiamas kursas. Valiutos keitimo kursas neturi būti nepalankus jūrininkui. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-214, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06551
  
 
 
@@ -3216,67 +3272,49 @@ RESPUBLIKOS PREZIDENTAS                             
 
 
 
- 
-Lietuvos Respublikos 
-1996 m. rugsėjo 12 d.
-įstatymo Nr. I-1513
+Lietuvos Respublikos
+prekybinės laivybos įstatymo 
 priedas
  
-Įgyvendinami Europos Sąjungos teisės aktai
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 1986 m. gruodžio 22 d. Tarybos reglamentas EEB Nr. 4055/86 dėl laisvės teikti paslaugas principo taikymo jūrų transporto paslaugoms tarp valstybių narių bei valstybių narių ir trečiųjų šalių (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 174). 
-Punkto pakeitimai:
-Nr. XII-1959, 2015-10-15, paskelbta TAR 2015-10-23, i. k. 2015-16727
- 
+1. 1986 m. gruodžio 22 d. Tarybos reglamentas (EEB) Nr. 4055/86 dėl laisvės teikti paslaugas principo taikymo jūrų transporto paslaugoms tarp valstybių narių bei valstybių narių ir trečiųjų šalių.
 
 
 
 
-2. 1992 m. gruodžio 7 d. Tarybos reglamentas EEB Nr. 3577/92, taikantis laisvės teikti paslaugas principą jūrų transportui valstybėse narėse (jūrų kabotažas) (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 10). 
-Punkto pakeitimai:
-Nr. XII-1959, 2015-10-15, paskelbta TAR 2015-10-23, i. k. 2015-16727
- 
+2. 1992 m. gruodžio 7 d. Tarybos reglamentas (EEB) Nr. 3577/92, taikantis laisvės teikti paslaugas principą jūrų transportui valstybėse narėse (jūrų kabotažas). 
 
 
 
 
-3. 1999 m. birželio 21 d. Tarybos direktyva Nr. 1999/63/EB dėl Europos bendrijos laivų savininkų asociacijos (ECSA) ir Europos Sąjungos transporto darbuotojų profesinių sąjungų federacijos (FST) susitarimo dėl jūreivių darbo laiko organizavimo (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 363).
-Punkto pakeitimai:
-Nr. XII-1959, 2015-10-15, paskelbta TAR 2015-10-23, i. k. 2015-16727
- 
+3. 1999 m. birželio 21 d. Tarybos direktyva 1999/63/EB dėl Europos bendrijos laivų savininkų asociacijos (ECSA) ir Europos Sąjungos transporto darbuotojų profesinių sąjungų federacijos (FST) susitarimo dėl jūreivių darbo laiko organizavimo.
 
 
 
 
-4. 2009 m. vasario 16 d. Tarybos direktyva 2009/13/EB, įgyvendinanti Europos bendrijos laivų savininkų asociacijų (ECSA) ir Europos transporto darbuotojų federacijos (ETF) sudarytą susitarimą dėl 2006 m. Konvencijos dėl darbo jūrų laivyboje ir iš dalies keičianti Direktyvą 1999/63/EB (OL 2009 L 124, p. 30).
+4. 2009 m. vasario 16 d. Tarybos direktyva 2009/13/EB, įgyvendinanti Europos bendrijos laivų savininkų asociacijų (ECSA) ir Europos transporto darbuotojų federacijos (ETF) sudarytą susitarimą dėl 2006 m. Konvencijos dėl darbo jūrų laivyboje ir iš dalies keičianti Direktyvą 1999/63/EB, su paskutiniais pakeitimais, padarytais 2018 m. sausio 23 d. Tarybos direktyva (ES) 2018/131, kuria įgyvendinamas Europos bendrijos laivų savininkų asociacijų (ECSA) ir Europos transporto darbuotojų federacijos (ETF) sudarytas susitarimas iš dalies pakeisti Direktyvą 2009/13/EB atsižvelgiant į 2006 m. Konvencijos dėl darbo jūrų laivyboje pakeitimus, kurie buvo padaryti 2014 m. ir kuriuos 2014 m. birželio 11 d. patvirtino Tarptautinė darbo konferencija.
 
 
 
 
-5. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/20/EB dėl laivų savininkų atsakomybės pagal jūrinius reikalavimus draudimo (OL 2009 L 131, p. 128).
+5. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/20/EB dėl laivų savininkų atsakomybės pagal jūrinius reikalavimus draudimo.
 
 
 
 
-6. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2010 L 334, p. 1).
+6. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004.
 
 
 
 
-7. 2016 m. gruodžio 19 d. Tarybos direktyva (ES) 2017/159, kuria įgyvendinamas 2012 m. gegužės 21 d. Europos Sąjungos žemės ūkio kooperatyvų konfederacijos (COGECA), Europos transporto darbuotojų federacijos (ETF) ir Nacionalinių žvejybos įmonių organizacijų Europos Sąjungos asociacijos („Europêche“) sudarytas Susitarimas dėl 2007 m. Tarptautinės darbo organizacijos konvencijos dėl darbo žvejybos sektoriuje įgyvendinimo (OL 2017 L 25, p. 12). 
-Papildyta punktu:
-Nr. XIII-878, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20431
- 
+7. 2016 m. gruodžio 19 d. Tarybos direktyva (ES) 2017/159, kuria įgyvendinamas 2012 m. gegužės 21 d. Europos Sąjungos žemės ūkio kooperatyvų konfederacijos (COGECA), Europos transporto darbuotojų federacijos (ETF) ir Nacionalinių žvejybos įmonių organizacijų Europos Sąjungos asociacijos („Europêche“) sudarytas Susitarimas dėl 2007 m. Tarptautinės darbo organizacijos konvencijos dėl darbo žvejybos sektoriuje įgyvendinimo.
 
 
-Įstatymas papildytas priedu:
-Nr. IX-1680, 2003-07-03, Žin., 2003, Nr. 73-3355 (2003-07-23)
 Priedo pakeitimai:
-Nr. XI-2008, 2012-05-10, Žin., 2012, Nr. 57-2831 (2012-05-19)
-Nr. XII-225, 2013-04-11, Žin., 2013, Nr. 42-2041 (2013-04-24)
-Nr. XII-438, 2013-06-27, Žin., 2013, Nr. 75-3764 (2013-07-13)
+Nr. XIV-214, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06551
  
 
 
@@ -3413,3 +3451,8 @@ Lietuvos Respublikos prekybinės laivybos įstatymo Nr. I-1513 2, 7, 11, 84, 88,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2086, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07322
 Lietuvos Respublikos prekybinės laivybos įstatymo Nr. I-1513 4-2 ir 8 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-214, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06551
+Lietuvos Respublikos prekybinės laivybos įstatymo Nr. I-1513 2, 84, 86, 88, 89 straipsnių ir priedo pakeitimo įstatymas
