@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a8939f2090d811e4bb408baba2bdddf3"
 
 # Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2021-04-08
+Suvestinė redakcija nuo 2021-04-09 iki 2021-08-01
  
 Įstatymas paskelbtas: TAR 2014-12-31, i. k. 2014-21281
  
@@ -271,7 +271,10 @@ Nr. XIII-1865, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21874
 
 
 
-4. Dėl asmens tapatybės kortelės ar paso išdavimo ar keitimo neveiksniam piliečiui kreipiasi jo globėjas ar kitas teisėtas atstovas. Jeigu pilietis, kuris dėl neveiksnumo ar negalios arba dėl atliekamų arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmės, arba dėl teismo nutartimi taikomos priverčiamosios medicinos priemonės psichikos sveikatos priežiūros įstaigoje, negali pats atvykti į Migracijos departamentą ar į Lietuvos Respublikos konsulinę įstaigą ir pateikti dokumentus dėl asmens tapatybės kortelės ar paso išdavimo ar keitimo, Migracijos departamentas ar Lietuvos Respublikos konsulinė įstaiga šio piliečio tapatybe įsitikina ir dokumentus dėl asmens tapatybės kortelės ar paso išdavimo ar keitimo iš jo priima vidaus reikalų ministro ir užsienio reikalų ministro nustatyta tvarka. 
+4. Dėl asmens tapatybės kortelės ar paso išdavimo ar keitimo neveiksniam piliečiui kreipiasi jo globėjas ar kitas teisėtas atstovas. Jeigu pilietis dėl neveiksnumo ar negalios arba dėl atliekamų arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmės, arba dėl teismo nutartimi taikomos priverčiamosios medicinos priemonės psichikos sveikatos priežiūros įstaigoje negali pats atvykti į Migracijos departamentą ar į Lietuvos Respublikos konsulinę įstaigą ir pateikti dokumentus dėl asmens tapatybės kortelės ar paso išdavimo ar keitimo, Migracijos departamentas ar Lietuvos Respublikos konsulinė įstaiga šio piliečio tapatybe įsitikina ir dokumentus dėl asmens tapatybės kortelės ar paso išdavimo ar keitimo iš jo priima vidaus reikalų ministro ir užsienio reikalų ministro nustatyta tvarka. Jeigu pilietis dėl nepaprastosios padėties, ekstremaliosios situacijos, ekstremaliojo įvykio ir (ar) karantino laikotarpiu užsienio valstybėse taikomų valstybių sienų kirtimo ir (arba) judėjimo jų teritorijose ribojimų negali atvykti į Migracijos departamentą ar į Lietuvos Respublikos konsulinę įstaigą pateikti dokumentų dėl paso išdavimo ar keitimo, Lietuvos Respublikos konsulinė įstaiga šio piliečio tapatybe įsitikina ir dokumentus dėl paso išdavimo ar keitimo iš jo priima vidaus reikalų ministro ir užsienio reikalų ministro nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-225, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07286
+ 
 
 
 
@@ -591,3 +594,8 @@ Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo Nr. XII-1519 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2061, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06504
 Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo Nr. XII-1519 3, 6, 7 ir 8 straipsnių pakeitimo įstatymo Nr. XIII-1865 2 straipsnio pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-225, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07286
+Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo Nr. XII-1519 pakeitimo įstatymas
