@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/6433d190498f11ea8aceeadd0c5b168c"
 
 # Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 47, 55, 126, 127 straipsnių pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymas
 
+Suvestinė redakcija nuo 2021-04-09
+ 
+Įstatymas paskelbtas: TAR 2020-02-07, i. k. 2020-02846
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 APLINKOS APSAUGOS ĮSTATYMO NR. I-2223 15, 19, 191, 192, 47, 55, 126, 127 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 551 STRAIPSNIU
 ĮSTATYMAS
@@ -810,7 +817,10 @@ Pakeisti 127 straipsnį ir jį išdėstyti taip:
 
 
 
-2. Šio įstatymo 2 ir 7 straipsniai įsigalioja 2022 m. sausio 1 d.
+2. Šio įstatymo 2 ir 7 straipsniai įsigalioja 2021 m. rugpjūčio 1 d.
+Straipsnio dalies pakeitimai:
+Nr. XIV-227, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07421
+ 
 
 
 
@@ -843,3 +853,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-227, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07421
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 47, 55, 126, 127 straipsnių pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymo Nr. XIII-2795 10 straipsnio pakeitimo įstatymas
