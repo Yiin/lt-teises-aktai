@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-04-13
+Suvestinė redakcija nuo 2021-04-14 iki 2021-04-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
- 
-TAR pastaba. Įstatymo Nr. XIII-3400 nuostatos taikomos pareigas einantiems vidaus tarnybos sistemos pareigūnams, kurie Lietuvos Respublikos vidaus tarnybos statuto 72 straipsnio 1 dalies 2 punkte nustatytu pagrindu iš vidaus tarnybos atleidžiami po šio įstatymo įsigaliojimo (2021-01-01) , Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymo Nr. XIII-1381 2 straipsnio 20 dalyje nurodytiems Lietuvos Respublikos finansų ministro valdymo srities statutinių įstaigų pareigūnams, kuriems 65 metai sukanka po šio įstatymo įsigaliojimo, taip pat Vidaus tarnybos statuto pakeitimo įstatymo Nr. XIII-1381 2 straipsnio 21 dalyje nurodytiems pareigūnams, kuriems sprendime dėl tarnybos pratęsimo nustatytas amžius sukanka po šio įstatymo įsigaliojimo.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-3400, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24543
-Lietuvos Respublikos vidaus tarnybos statuto 77 ir 78 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS VIDAUS TARNYBOS STATUTO PATVIRTINIMO  ĮSTATYMAS
  
@@ -521,6 +516,10 @@ PRIĖMIMAS Į VIDAUS TARNYBĄ
 
 
 1) pripažintas kaltu dėl tyčinio nusikaltimo padarymo, nesvarbu, ar teistumas išnyko, ar yra panaikintas, arba pripažintas kaltu dėl kitos nusikalstamos veikos padarymo ir nuo teismo nuosprendžio įsiteisėjimo dienos nepraėjo 5 metai, arba turi teistumą dėl padaryto nusikaltimo; 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymu patvirtinto Lietuvos Respublikos vidaus tarnybos statuto (2018 m. birželio 29 d. redakcija; TAR, 2018-07-16, Nr. 12049) 9 straipsnio 2 dalies 1 punkto nuostata „pripažintas kaltu dėl tyčinio nusikaltimo padarymo, nesvarbu, ar teistumas išnyko, ar yra panaikintas“ prieštarauja Lietuvos Respublikos Konstitucijos 33 straipsnio 1 dalies nuostatai „piliečiai turi <...> teisę lygiomis sąlygomis stoti į Lietuvos Respublikos valstybinę tarnybą“, 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus gali laisvai pasirinkti darbą“, konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+Nr.  KT58-A-N4/2021, 2021-04-14, paskelbta TAR 2021-04-14, i. k. 2021-07723
+ 
 
 
 
@@ -4696,3 +4695,8 @@ Lietuvos Respublikos vidaus tarnybos statuto 16, 19, 20, 23, 24, 26, 28, 29, 30,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3400, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24543
 Lietuvos Respublikos vidaus tarnybos statuto 77 ir 78 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr.  KT58-A-N4/2021, 2021-04-14, paskelbta TAR 2021-04-14, i. k. 2021-07723
+Dėl Lietuvos Respublikos vidaus tarnybos statuto 9 straipsnio 2 dalies 1 punkto nuostatos atitikties Lietuvos Respublikos Konstitucijai
