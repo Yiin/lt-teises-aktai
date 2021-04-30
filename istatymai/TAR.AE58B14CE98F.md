@@ -13,7 +13,12 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.AE58B14CE98F"
 
 # Lietuvos Respublikos peticijų įstatymas
 
-Suvestinė redakcija nuo 2019-06-20 iki 2021-04-29
+Įstatymas netenka galios 2023-07-01:
+Lietuvos Respublikos Seimas, Konstitucinis įstatymas
+Nr. XIV-1766, 2022-12-23, paskelbta TAR 2023-01-04, i. k. 2023-00157
+Lietuvos Respublikos peticijų konstitucinis įstatymas
+ 
+Suvestinė redakcija nuo 2021-04-30 iki 2023-06-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2128; Žin. 1999, Nr.104-0, i. k. 0991010ISTAIII-1313
  
@@ -109,6 +114,10 @@ Nr. X-1456, 2008-03-13, Žin., 2008, Nr. 35-1244 (2008-03-27), i. k. 1081010ISTA
  
 
 3. Prie kreipimosi gali būti pridėti įvairūs dokumentai ar jų kopijos, siūlomo teisės akto projektas ir kita medžiaga.
+
+4. Jeigu kreipimosi turinys nekonkretus ir nesuprantamas, peticijų komisijos sprendimu toks kreipimasis nenagrinėjamas ir apie tai ne vėliau kaip per 5 darbo dienas raštu pranešama pareiškėjui ar jo atstovui. Šis peticijų komisijos sprendimas neatima teisės pateikti kitą, šio straipsnio 1 ir 2 dalyse nustatytus reikalavimus atitinkantį kreipimąsi. 
+Papildyta straipsnio dalimi:
+Nr. XIV-271, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09126
  
 
 5 straipsnis. Pareiškėjo teisės
@@ -162,14 +171,20 @@ Nr. X-1456, 2008-03-13, Žin., 2008, Nr. 35-1244 (2008-03-27), i. k. 1081010ISTA
 
 8 straipsnis. Kreipimosi registravimas
 
-1. Visi kreipimaisi įregistruojami peticijų registravimo žurnale institucijoje, kuriai paduotas (persiųstas) kreipimasis.
+1. Visi kreipimaisi turi būti užregistruoti atitinkamame institucijos, kuriai paduotas (persiųstas) kreipimasis, dokumentų registre.
 
-2. Apie kreipimosi įregistravimą nedelsiant, bet ne vėliau kaip per 3 darbo dienas, raštu pranešama pareiškėjui ar jo atstovui, nurodant įregistravusią instituciją, įregistravimo numerį ir datą.
+2. Apie kreipimosi užregistravimą ne vėliau kaip per 3 darbo dienas raštu pranešama pareiškėjui ar jo atstovui, nurodant kreipimąsi užregistravusią instituciją, registravimo numerį ir datą. 
+
+Straipsnio pakeitimai:
+Nr. XIV-271, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09126
  
 
 9 straipsnis. Kreipimosi pripažinimas peticija ir peticijos priėmimas nagrinėti 
 
-1. Peticijų komisijos sprendžia klausimą dėl kreipimosi pripažinimo peticija, išsiaiškinusios, ar jame iškeltų reikalavimų ir siūlymų nagrinėjimas priklauso įregistravusios institucijos kompetencijai. Jei kreipimasis yra pateiktas institucijai, kurios kompetencijai nepriklauso nagrinėti ir iškelti reikalavimus ir siūlymus, peticijų komisija ne vėliau kaip per 4 darbo dienas nuo išsiaiškinimo, ar kreipimesi iškeltų reikalavimų ir siūlymų nagrinėjimas priklauso įregistravusios institucijos kompetencijai, dienos persiunčia kreipimąsi 7 straipsnio 1 dalyje nurodytai kompetentingai institucijai ir apie tai praneša pareiškėjui ar jo atstovui. 
+1. Peticijų komisijos sprendžia klausimą dėl kreipimosi pripažinimo peticija, išsiaiškinusios, ar jame iškeltų reikalavimų ir siūlymų nagrinėjimas priklauso kreipimąsi užregistravusios institucijos kompetencijai. Jeigu kreipimasis yra pateiktas institucijai, kurios kompetencijai nepriklauso nagrinėti iškeltų siūlymų ir reikalavimų, peticijų komisija ne vėliau kaip per 4 darbo dienas nuo išsiaiškinimo, ar kreipimesi iškeltų reikalavimų ir siūlymų nagrinėjimas priklauso jį užregistravusios institucijos kompetencijai, dienos persiunčia kreipimąsi šio įstatymo 7 straipsnio 1 dalyje nurodytai kompetentingai institucijai ir apie tai praneša pareiškėjui ar jo atstovui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-271, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09126
+ 
 
 2. Anoniminis kreipimasis atmetamas nesprendžiant šio straipsnio 1 dalyje nustatytų klausimų.
 
@@ -190,7 +205,10 @@ Straipsnio punkto pakeitimai:
 Nr. IX-1723, 2003-09-04, Žin., 2003, Nr. 90-4062 (2003-09-24), i. k. 1031010ISTA0IX-1723
  
 
-4. Peticijų komisija, priėmusi motyvuotą sprendimą nepripažinti kreipimosi peticija, apie tai praneša pareiškėjui ar jo atstovui ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos. Tokį kreipimąsi nagrinėja įregistravusi institucija kitų įstatymų ir teisės aktų nustatyta tvarka arba persiunčia nagrinėti kitoms valstybės institucijoms.
+4. Peticijų komisija, priėmusi motyvuotą sprendimą nepripažinti kreipimosi peticija, apie tai praneša pareiškėjui ar jo atstovui ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos. Tokį kreipimąsi nagrinėja jį užregistravusi institucija kitų įstatymų ir teisės aktų nustatyta tvarka arba persiunčia jį nagrinėti kitoms valstybės institucijoms. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-271, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09126
+ 
 
 5. Peticijų komisijos, gavusios ne vieną kreipimąsi dėl tų pačių reikalavimų ir siūlymų, turi teisę juos sujungti ir nagrinėti juos kaip vieną kreipimąsi. 
 
@@ -200,7 +218,10 @@ Nr. IX-1723, 2003-09-04, Žin., 2003, Nr. 90-4062 (2003-09-24), i. k. 1031010IST
 
 8. Jeigu kreipimasis yra nepasirašytas arba jame nenurodytas pareiškėjo vardas, pavardė, išskyrus atvejus, kai kreipimasis yra anoniminis, peticijų komisija nustato terminą trūkumams pašalinti ir praneša apie tai pareiškėjui ar jo atstovui. Pareiškėjui arba pareiškėjo atstovui per nustatytą terminą ištaisius trūkumus, peticijų komisija ne vėliau kaip per 3 darbo dienas priima sprendimą peticiją nagrinėti. Apie peticijos nagrinėjimą pranešama ir paskelbiama šio straipsnio 10 dalyje nustatyta tvarka.
 
-9. Apie peticijos priėmimą nagrinėti arba apie atsisakymą priimti peticiją nagrinėti peticijų komisijos praneša pareiškėjui ar jų atstovui raštu ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos, nepaisydamos pareiškėjo ar pareiškėjo atstovo dalyvavimo priimant sprendimus. Šio įstatymo 9 straipsnio 5 dalyje nurodytu atveju pranešama kiekvienam pareiškėjui. Sprendimas atsisakyti priimti peticiją nagrinėti turi būti motyvuotas.
+9. Apie peticijos priėmimą nagrinėti arba apie atsisakymą priimti peticiją nagrinėti peticijų komisijos praneša pareiškėjui ar jo atstovui raštu ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos. Šio straipsnio 5 dalyje nurodytu atveju pranešama kiekvienam pareiškėjui. Sprendimas atsisakyti priimti peticiją nagrinėti turi būti motyvuotas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-271, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09126
+ 
 
 10. Peticijų komisija, priėmusi sprendimą peticiją nagrinėti, paskiria peticijos nagrinėjimo vietą ir laiką, apie tai raštu praneša pareiškėjui ar jo atstovui ir paskelbia peticiją nagrinėjančios institucijos interneto tinklalapyje. Savivaldybės peticijų komisija apie peticijos nagrinėjimo vietą ir laiką paskelbia vietos spaudoje, savivaldybės interneto tinklalapyje arba savivaldybės tarybos nustatyta tvarka.
 Straipsnio dalies pakeitimai:
@@ -208,7 +229,10 @@ Nr. X-1456, 2008-03-13, Žin., 2008, Nr. 35-1244 (2008-03-27), i. k. 1081010ISTA
 Nr. XII-559, 2013-10-15, Žin., 2013, Nr. 111-5493 (2013-10-24), i. k. 1131010ISTA0XII-559
  
 
-11. Kreipimosi pripažinimo peticija ir peticijų priėmimo nagrinėti klausimą peticijų komisija išsprendžia ne vėliau kaip per 20 darbo dienų nuo kreipimosi įregistravimo dienos. Jei kreipimosi pripažinimo peticija ir peticijų priėmimo nagrinėti klausimui išspręsti reikalingi papildomi dokumentai ar išvados, terminas skaičiuojamas nuo paskutinio reikiamo dokumento gavimo dienos.
+11. Kreipimosi pripažinimo peticija ir peticijų priėmimo nagrinėti klausimą peticijų komisija išsprendžia ne vėliau kaip per 20 darbo dienų nuo kreipimosi užregistravimo dienos. Jeigu kreipimosi pripažinimo peticija ir peticijų priėmimo nagrinėti klausimui išspręsti reikalingi papildomi dokumentai ar išvados, terminas skaičiuojamas nuo paskutinio reikiamo dokumento gavimo dienos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-271, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09126
+ 
 
 12. Tuo atveju, kai kreipimasis pripažįstamas peticija ir priimamas nagrinėti, tačiau Seime, Vyriausybėje ar savivaldybės institucijose jau yra užregistruotas ar svarstomas teisės akto projektas, kuriame yra suformuluoti pareiškėjo peticijoje pateikti siūlymai ar reikalavimai, tokia peticija yra perduodama svarstyti kartu su minėtu teisės akto projektu.
 Papildyta straipsnio dalimi:
@@ -330,7 +354,7 @@ Peticijų komisijos turi būti sudarytos iki 1999 m. spalio 1 d. Peticijų komis
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
 
  
@@ -371,4 +395,9 @@ Lietuvos Respublikos peticijų įstatymo Nr. VIII-1313 10 straipsnio pakeitimo �
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2207, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09825
 Lietuvos Respublikos peticijų įstatymo Nr. VIII-1313 12 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-271, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09126
+Lietuvos Respublikos peticijų įstatymo Nr. VIII-1313 4, 8 ir 9 straipsnių pakeitimo įstatymas
 
