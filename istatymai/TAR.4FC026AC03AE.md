@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4FC026AC03AE"
 
 # Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2021-04-14 iki 2021-04-30
+Suvestinė redakcija nuo 2021-05-01 iki 2021-07-22
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 42-1927, i. k. 1031010ISTA0IX-1538
  
@@ -4298,6 +4298,7 @@ Nr. XIII-1790, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21121
 
 
 
+ 
 Lietuvos Respublikos 
 vidaus tarnybos statuto 
 priedas
@@ -4402,13 +4403,13 @@ VIDAUS TARNYBOS SISTEMOS PAREIGŪNŲ PAREIGINIŲ ALGŲ KOEFICIENTAI
 
  14 
  Vyresnysis postinis, vyresnysis patrulis, dispečeris, vyresnysis ugniagesys gelbėtojas, vyresnysis pasienietis, kovotojas 
- 4,6–11 
+ 4,9–11 
  4,5–10,5 
 
 
  15 
  Postinis, patrulis, pasienietis, ugniagesys gelbėtojas 
- 4,4–10,5 
+ 4,7–10,5 
  4,4–10 
 
 
@@ -4417,6 +4418,7 @@ VIDAUS TARNYBOS SISTEMOS PAREIGŪNŲ PAREIGINIŲ ALGŲ KOEFICIENTAI
 Priedo pakeitimai:
 Nr. XIII-2575, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19882
 Nr. XIII-2928, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10937
+Nr. XIV-268, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08871
  
 
 
@@ -4700,3 +4702,8 @@ Lietuvos Respublikos vidaus tarnybos statuto 77 ir 78 straipsnių pakeitimo įst
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr.  KT58-A-N4/2021, 2021-04-14, paskelbta TAR 2021-04-14, i. k. 2021-07723
 Dėl Lietuvos Respublikos vidaus tarnybos statuto 9 straipsnio 2 dalies 1 punkto nuostatos atitikties Lietuvos Respublikos Konstitucijai
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-268, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08871
+Lietuvos Respublikos vidaus tarnybos statuto priedo pakeitimo įstatymas
