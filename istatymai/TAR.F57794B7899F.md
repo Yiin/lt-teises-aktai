@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2021-02-01 iki 2021-04-30
+Suvestinė redakcija nuo 2021-05-01 iki 2021-07-14
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -90,7 +90,10 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-5. Elektros energetikos įmonė – asmuo, kuris verčiasi bent viena iš šių veiklos rūšių: elektros energijos gamybos, perdavimo, skirstymo, tiekimo veikla ir yra atsakingas už susijusius su šių rūšių veikla komercinius, techninius ir (ar) eksploatavimo įpareigojimus.
+5. Elektros energetikos įmonė – asmuo, kuris vykdo bent vieną iš šių veiklų: elektros energijos gamybos, perdavimo, skirstymo, kaupimo, tiekimo, elektros energijos paklausos telkimo, elektros energijos pirkimo siekiant ją perparduoti ir yra atsakingas už susijusius su šiomis veiklomis komercinius, techninius ir (ar) eksploatavimo įpareigojimus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
+ 
 
 
 
@@ -192,9 +195,19 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-142. Elektros energijos paklausos telkimas (toliau – paklausos telkimas) – asmens veikla, apimanti jo paties ir (arba) grupės kitų vartotojų elektros energijos paklausos pokyčių ir (arba) elektros energijos gamybos derinimą, siekiant nesuvartotos arba pagamintos elektros energijos kiekį ir (arba) nesuvartotą arba patiektą galią parduoti, pirkti arba pateikti aukcionui elektros energijos, balansavimo ir rezervinės galios rinkose. 
+142. Elektros energijos kaupimo paslauga – energijos kaupimo įrenginių naudojimas vykdant energijos kaupimo veiklą viename ar keliuose elektros energijos rinkos segmentuose. 
+Papildyta straipsnio dalimi:
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
+ 
+
+
+
+
+143. Elektros energijos paklausos telkimas (toliau – paklausos telkimas) – asmens veikla, apimanti jo paties ir (arba) grupės kitų vartotojų elektros energijos paklausos pokyčių ir (arba) elektros energijos gamybos derinimą, siekiant nesuvartotos arba pagamintos elektros energijos kiekį ir (arba) nesuvartotą arba patiektą galią parduoti, pirkti arba pateikti aukcionui elektros energijos, balansavimo ir rezervinės galios rinkose. 
 Papildyta straipsnio dalimi:
 Nr. XIII-3017, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13234
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
  
 
 
@@ -245,27 +258,40 @@ Nr. XII-1534, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21291
 
 
 
-181. Energijos kaupimo įrenginys elektros sistemoje – įrenginys, kuriame gali būti kaupiama ir į elektros tinklus atiduodama elektros energija arba įrenginys, kuriame elektros energija gali būti konvertuojama į kitos rūšies energiją ir vėl kaip elektros energija grąžinama į elektros tinklus (įskaitant elektros baterijas, hidroakumuliacines elektrines, kondensatorius, suspausto oro ar vandenilio saugyklas). 
+181. Energijos kaupimas – elektros energijos galutinio naudojimo elektros energetikos sistemoje atidėjimas vėlesniam laikui, nei ji buvo pagaminta, arba elektros energijos pavertimas kitos formos energija ir tokios energijos laikymas, taip pat vėlesnis tokios energijos pavertimas elektros energija arba naudojimas kaip kito energijos nešiklio. 
+Papildyta straipsnio dalimi:
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
+ 
+
+
+
+
+182. Energijos kaupimo įrenginys – elektros energetikos sistemos įrenginys, kuriame kaupiama energija (įskaitant elektros akumuliatorius, hidroakumuliacines elektrines, kondensatorius, suspausto oro ar vandenilio saugyklas). 
 Papildyta straipsnio dalimi:
 Nr. XIII-1891, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21884
+Straipsnio dalies pakeitimai:
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
  
 
 
 
 
-182. Esami pajėgumus užtikrinantys įrenginiai – asmens nuosavybės teise ar kitais teisėtais pagrindais valdomi elektros energijos gamybos, energijos kaupimo įrenginiai elektros sistemoje ir (ar) nepriklausomo elektros energijos paklausos telkėjo sutelkti įrenginiai, kurie yra pastatyti ar įrengti, rekonstruojami ar įrengiami iki kvalifikacinės atrankos pradžios ir kurie atitinka šiame įstatyme ir kituose teisės aktuose, reglamentuojančiuose elektros įrenginių įrengimą ir eksploatavimą, nustatytus reikalavimus ir naudojami veiklai, turint reikiamą leidimą ir (ar) atestatą. 
+183. Esami pajėgumus užtikrinantys įrenginiai – asmens nuosavybės teise ar kitais teisėtais pagrindais valdomi elektros energijos gamybos, energijos kaupimo įrenginiai elektros sistemoje ir (ar) nepriklausomo elektros energijos paklausos telkėjo sutelkti įrenginiai, kurie yra pastatyti ar įrengti, rekonstruojami ar įrengiami iki kvalifikacinės atrankos pradžios ir kurie atitinka šiame įstatyme ir kituose teisės aktuose, reglamentuojančiuose elektros įrenginių įrengimą ir eksploatavimą, nustatytus reikalavimus ir naudojami veiklai, turint reikiamą leidimą ir (ar) atestatą. 
 Papildyta straipsnio dalimi:
 Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
  
 
 
 
 
-183. Garantinis elektros energijos tiekėjas – elektros energijos skirstomųjų tinklų operatorius, atliekantis garantinį elektros energijos tiekimą vartotojams, kurių įrenginiai prijungti prie jo paties valdomų elektros tinklų, ir daugiau kaip 100 000 vartotojų aptarnaujantis elektros energijos skirstomųjų tinklų operatorius, atliekantis garantinį elektros energijos tiekimą vartotojams, kurių įrenginiai yra prijungti prie perdavimo sistemos operatoriaus valdomų elektros tinklų. 
+184. Garantinis elektros energijos tiekėjas – elektros energijos skirstomųjų tinklų operatorius, atliekantis garantinį elektros energijos tiekimą vartotojams, kurių įrenginiai prijungti prie jo paties valdomų elektros tinklų, ir daugiau kaip 100 000 vartotojų aptarnaujantis elektros energijos skirstomųjų tinklų operatorius, atliekantis garantinį elektros energijos tiekimą vartotojams, kurių įrenginiai yra prijungti prie perdavimo sistemos operatoriaus valdomų elektros tinklų. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-3020, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13237
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
  
 
 
@@ -1166,7 +1192,10 @@ Nr. XIII-2900, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10395
 
 
 
-8) nustato gamintojų ir vartotojų elektros įrenginių prijungimo prie elektros tinklų tvarką ir sąlygas;
+8) nustato tinklų naudotojų elektros įrenginių prijungimo prie elektros tinklų ir (ar) tiesioginės linijos tvarką ir sąlygas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
+ 
 
 
 
@@ -1320,7 +1349,10 @@ Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
 
 
 
-9) tvirtina vartotojų ir gamintojų elektros įrenginių prijungimo prie elektros tinklų įkainius, jų nustatymo metodiką, kurioje nustatytos ir įkainių apskaičiavimo sąlygos, vadovaudamasi šiame įstatyme nustatytais bendraisiais įkainių nustatymo reikalavimais;
+9) tvirtina tinklų naudotojų elektros įrenginių prijungimo prie elektros tinklų įkainius, jų nustatymo metodiką, kurioje nustatytos ir įkainių apskaičiavimo sąlygos, vadovaudamasi šiame įstatyme nustatytais bendraisiais įkainių nustatymo reikalavimais; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
+ 
 
 
 
@@ -4260,6 +4292,87 @@ Nr. XIII-2868, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09587
 
 
 
+
+
+
+
+SEPTINTASIS1 SKIRSNIS
+ENERGIJOS KAUPIMAS
+ 
+
+
+481 straipsnis. Energijos kaupimo veiklos principai ir energijos kaupimo įrenginių savininkų teisės
+
+
+1. Energijos kaupimo veikla vykdoma ir elektros energijos kaupimo paslaugos elektros energijos rinkoje teikiamos rinkos sąlygomis. Elektros energijos kaupimo paslaugų kainos nereguliuojamos, išskyrus izoliuoto elektros energetikos sistemos darbo rezervo užtikrinimo paslaugos (toliau – izoliuoto darbo rezervo paslauga), teikiamos perdavimo sistemos operatoriui Elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatyme nustatyta tvarka ir sąlygomis, kainą ir kitus šio įstatymo 67 ir (ar) 68 straipsniuose nustatytus atvejus.
+
+
+
+
+2. Elektros energijos kaupimo paslaugos teikiamos sutarties tarp asmens, nuosavybės teise ar kitais teisėtais pagrindais valdančio energijos kaupimo įrenginį (toliau – energijos kaupimo įrenginio savininkas), ir elektros energijos rinkos dalyvio, kuris naudojasi tokiomis paslaugomis, pagrindu. Energijos kaupimo įrenginio savininkui draudžiama diskriminuoti elektros energijos rinkos dalyvius ar jų grupes.
+
+
+
+
+3. Energijos kaupimo įrenginio savininkas turi teisę teikti visas elektros energijos kaupimo paslaugas, turinčias paklausą elektros energijos rinkoje ir kurioms teikti gali būti panaudoti jo valdomi energijos kaupimo įrenginiai, išskyrus perdavimo sistemos operatoriui teikiamą izoliuoto darbo rezervo paslaugą.
+
+
+
+
+4. Energijos kaupimo įrenginio savininkas turi teisę vykdyti ir kitą energetikos veiklą, išskyrus atvejus, kai tokia veikla yra nesuderinama su šiame įstatyme ir (ar) Lietuvos Respublikos gamtinių dujų įstatyme nustatytais nepriklausomumo ir (ar) veiklos atskyrimo reikalavimais vykdant elektros energijos ar gamtinių dujų perdavimo ar skirstymo veiklą.
+
+
+
+
+5. Energijos kaupimo įrenginio savininkui, perdavimo sistemos operatoriui teikiančiam izoliuoto darbo rezervo paslaugą, šio straipsnio nuostatos taikomos tiek, kiek jos neprieštarauja Elektros energetikos sistemos sujungimo su kontinentinės Europos elektros tinklais darbui sinchroniniu režimu įstatymo nuostatoms.
+ 
+
+
+
+
+
+
+482 straipsnis. Energijos kaupimo įrenginių prijungimas prie elektros tinklų
+
+
+1. Energijos kaupimo įrenginiai prijungiami prie elektros tinklų šiame įstatyme, Europos Sąjungos reglamentuose, reglamentuojančiuose energijos kaupimo įrenginių prijungimą prie elektros tinklų ir naudojimąsi elektros tinklais, ir jų įgyvendinamuosiuose teisės aktuose nustatyta tvarka ir sąlygomis.
+
+
+
+
+2. Tinklų operatorius neturi teisės atsisakyti prijungti naujo energijos kaupimo įrenginio prie elektros tinklų dėl ateityje galimo elektros tinklų pajėgumo apribojimo. Tinklų operatorius privalo prijungti naują energijos kaupimo įrenginį prie elektros tinklų, atsižvelgdamas į atitinkamų techninių norminių dokumentų reikalavimus, keliamus tokių įrenginių prijungimui, taip pat elektros tinklų įrengimui ir (ar) atnaujinimui tinklų naudotojo elektros tinklo ir tinklų operatoriaus tinklų dalyje.
+
+
+
+
+3. Šio straipsnio 2 dalis nedraudžia tinklų operatoriui riboti energijos kaupimo įrenginių prijungimo prie elektros tinklų pajėgumų arba pasiūlyti prijungimo, kuriam taikomi eksploatavimo apribojimai, galimybių siekiant užtikrinti ekonominį efektyvumą naujų energijos kaupimo įrenginių atžvilgiu tik tuo atveju, kad tokius apribojimus perdavimo sistemos operatoriaus teikimu pagal kompetenciją patvirtino Taryba.
+
+
+
+
+4. Taryba užtikrina, kad visi šio straipsnio 3 dalyje nurodyti prijungimo pajėgumų arba eksploatavimo apribojimai būtų nustatomi remiantis skaidriomis ir nediskriminacinėmis procedūromis ir nesukurtų nepagrįstų kliūčių patekti į elektros energijos rinką.
+
+
+
+
+5. Jeigu energijos kaupimo įrenginio savininkas padengia išlaidas, susijusias su neriboto prijungimo užtikrinimu, įskaitant tinklų operatoriaus nurodytos būtinos elektros tinklų plėtros išlaidas, prijungimo pajėgumų arba eksploatavimo apribojimai netaikomi.
+
+
+
+
+6. Tinklų operatorius neturi teisės atsisakyti energijos kaupimo įrenginių prijungimo prie elektros tinklų nauja jungtimi dėl to, kad atsirastų papildomų išlaidų, susijusių su būtinu elektros tinklų pajėgumo padidinimu.
+
+
+
+
+7. Tinklų operatorius teisės aktų nustatyta tvarka teikia suinteresuotiems asmenims visą informaciją, susijusią su energijos kaupimo įrenginių prijungimu prie elektros tinklų, įskaitant techninius reikalavimus, prijungimo terminus ir reikalingas investicijas. 
+
+
+
+
+Papildyta skirsniu:
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
+ 
 
 
 
@@ -7912,3 +8025,8 @@ Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 3, 6, 7 straip
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
 Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 9, 39, 67 ir 75 straipsnių pakeitimo įstatymas
+ 
+40.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 56, 67 ir 69 straipsnių pakeitimo ir Įstatymo papildymo septintuoju-1 skirsniu įstatymas
