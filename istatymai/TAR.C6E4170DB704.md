@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C6E4170DB704"
 
 # Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas
 
-Suvestinė redakcija nuo 2020-05-26 iki 2021-04-30
+Suvestinė redakcija nuo 2021-05-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2317, i. k. 0961010ISTA00I-1562
  
@@ -611,6 +611,24 @@ informuoto PACIENTO Sutikimas
 
 
 
+161 straipsnis. Sutikimo skiepytis nuo užkrečiamosios pandemiją sukėlusios ligos, dėl kurios yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, išreiškimas
+
+
+1. Laikoma, kad savanoriškai į sveikatos priežiūros įstaigą ar kitą sveikatos apsaugos ministro nustatytus reikalavimus atitinkančią skiepijimo vietą skiepytis nuo užkrečiamosios pandemiją sukėlusios ligos, dėl kurios yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, atvykęs pacientas yra informuotas ir sutinka, kad jis būtų paskiepytas, jeigu sveikatos priežiūros įstaiga arba asmenys, atsakingi už kitos sveikatos apsaugos ministro nustatytus reikalavimus atitinkančios skiepijimo vietos įrengimą, yra užtikrinę, kad visa būtina informacija pacientui būtų suteikta (prieinama) jo buvimo ar lankymosi šioje įstaigoje arba kitoje sveikatos apsaugos ministro nustatytus reikalavimus atitinkančioje skiepijimo vietoje metu, o šios įstaigos darbuotojai arba asmenys, dirbantys kitoje sveikatos apsaugos ministro nustatytus reikalavimus atitinkančioje skiepijimo vietoje, atsakytų į visus paciento klausimus, susijusius su šia informacija.
+
+
+
+
+2. Būtina šio straipsnio 1 dalyje nurodyta informacija laikoma informacija apie skiepijimo nuo užkrečiamosios pandemiją sukėlusios ligos, dėl kurios yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, esmę, pobūdį, tikslus, žinomas ir galimas komplikacijas (nepageidaujamus padarinius), kitas aplinkybes, kurios gali turėti įtakos paciento apsisprendimui sutikti arba atsisakyti skiepijimo, taip pat galimi padariniai atsisakius. Tokios informacijos teikimo tvarką nustato sveikatos apsaugos ministras.
+
+
+Papildyta straipsniu:
+Nr. XIV-257, 2021-04-20, paskelbta TAR 2021-04-26, i. k. 2021-08634
+ 
+
+
+
+
 17 straipsnis. Paciento sutikimo rašytinė forma 
 
 
@@ -619,9 +637,10 @@ informuoto PACIENTO Sutikimas
 
 
 
-2. Prieš atliekant pacientui chirurginę operaciją, invazinę ir (ar) intervencinę procedūrą, turi būti gautas informacija pagrįstas paciento sutikimas, kad jam būtų atliekama konkreti chirurginė operacija, invazinė ir (ar) intervencinė procedūra. Toks sutikimas, išskyrus atvejus, kai invazinės ir (ar) intervencinės procedūros metu nepažeidžiamas audinių ir (ar) organų vientisumas ir ta procedūra gali kelti tik nedidelį nepageidaujamą laikiną poveikį paciento sveikatai,  turi būti išreikštas raštu, pasirašant sveikatos apsaugos ministro patvirtintus reikalavimus atitinkančią formą. 
+2. Prieš atliekant pacientui chirurginę operaciją, invazinę ir (ar) intervencinę procedūrą, turi būti gautas informacija pagrįstas paciento sutikimas, kad jam būtų atliekama konkreti chirurginė operacija, invazinė ir (ar) intervencinė procedūra. Toks sutikimas, išskyrus atvejus, kai invazinės ir (ar) intervencinės procedūros metu nepažeidžiamas audinių ir (ar) organų vientisumas ir ta procedūra gali kelti tik nedidelį nepageidaujamą laikiną poveikį paciento sveikatai arba kai skiepijimas nuo užkrečiamosios pandemiją sukėlusios ligos, dėl kurios yra paskelbta valstybės lygio ekstremalioji situacija ir (ar) karantinas, atliekamas šio įstatymo 161 straipsnyje nustatyta tvarka, turi būti išreikštas raštu, pasirašant sveikatos apsaugos ministro patvirtintus reikalavimus atitinkančią formą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2591, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20024
+Nr. XIV-257, 2021-04-20, paskelbta TAR 2021-04-26, i. k. 2021-08634
  
 
 
@@ -1157,6 +1176,7 @@ Nr. XIII-2377, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12799
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
+ 
 RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
  
 
@@ -1240,3 +1260,8 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2951, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11075
 Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 2 ir 24 straipsnių pakeitimo įstatymo Nr. XIII-2761 3 straipsnio pakeitimo įstatymas
+ 
+16.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-257, 2021-04-20, paskelbta TAR 2021-04-26, i. k. 2021-08634
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 papildymo 16-1 straipsniu ir 17 straipsnio pakeitimo įstatymas
