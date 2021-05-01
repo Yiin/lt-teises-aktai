@@ -13,15 +13,20 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5BA7CEA07B90"
 
 # Lietuvos Respublikos atitikties vertinimo įstatymas
 
-Suvestinė redakcija nuo 2011-04-05 iki 2021-04-30
+Suvestinė redakcija nuo 2021-05-01 iki 2023-10-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 92-2542, i. k. 0981010ISTAVIII-870
  
-Nauja redakcija nuo 2011-04-05:
-Nr. XI-1299, 2011-03-24, Žin. 2011, Nr. 40-1919 (2011-04-05), i. k. 1111010ISTA0XI-1299
+TAR pastaba. Kituose įstatymuose vartojamą įstatymo pavadinimą „Lietuvos Respublikos atitikties įvertinimo įstatymas“ atitinka įstatymo pavadinimas „Lietuvos Respublikos atitikties vertinimo įstatymas“.  Kituose įstatymuose vartojamą sąvoką „atitikties įvertinimas“ atitinka sąvoka „atitikties vertinimas“.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-31, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27336
+Lietuvos Respublikos atitikties įvertinimo įstatymo Nr. VIII-870 pakeitimo įstatymas
+ 
+Nauja redakcija nuo 2021-05-01:
+Nr. XIV-31, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27336
  
 LIETUVOS RESPUBLIKOS 
-ATITIKTIES ĮVERTINIMO
+ATITIKTIES VERTINIMO 
 ĮSTATYMAS
  
 1998 m. spalio 6 d. Nr. VIII-870
@@ -30,15 +35,15 @@ Vilnius
  
 
 
-PIRMASIS SKIRSNIS
+I SKYRIUS
 BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo tikslas
 
 
-1. Šis įstatymas nustato produktų, procesų, paslaugų, vadybos sistemų, fizinių asmenų kvalifikacijos atlikti tam tikrą darbą atitikties įvertinimo reglamentavimo pagrindus, atitikties įvertinimo subjektus, šių subjektų funkcijas, akreditavimo pažymėjimų galiojimo sustabdymo, akreditavimo pažymėjimų galiojimo sustabdymo panaikinimo ir akreditavimo pažymėjimų galiojimo panaikinimo procedūras, paskelbtųjų įstaigų įgaliojimų sustabdymo ir atšaukimo pagrindus. 
+1. Šio įstatymo tikslas – reglamentuoti atitikties vertinimo objektus ir subjektus, šių subjektų funkcijas, akreditavimo procesą ir atitikties vertinimo įstaigų priežiūros pagrindus. 
 
 
 
@@ -51,115 +56,35 @@ BENDROSIOS NUOSTATOS
 
 
 
-2 straipsnis. Pagrindinės šio įstatymo sąvokos
+2 straipsnis. Šiame įstatyme vartojamos sąvokos
 
 
-1. Akreditavimas – kaip tai apibrėžta 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 765/2008, nustatančiame su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinančiame Reglamentą (EEB) Nr. 339/93 (toliau – Reglamentas (EB) Nr. 765/2008).
+1. Akreditavimo pažymėjimas – dokumentas, kuriuo patvirtinama, kad atitikties vertinimo įstaiga yra kompetentinga vykdyti konkrečią atitikties vertinimo veiklą.
 
 
 
 
-2. Akreditavimo pažymėjimas – dokumentas, kuriuo patvirtinama, kad atitikties įvertinimo įstaiga atitinka teisės aktų ir (arba) standartų reikalavimus.
+2. Atitikties vertinimo įstaigos ar jos veiklos neatitiktis − atitikties vertinimo įstaigai ar jos veiklai taikomų teisės aktų, standartų, techninių specifikacijų, tarptautinių akreditavimo organizacijų privalomojo pobūdžio norminių dokumentų ar procedūrinių akreditavimo dokumentų reikalavimų neatitikimas.
 
 
 
 
-3. Atitikties įvertinimas – kaip tai apibrėžta Reglamente (EB) Nr. 765/2008. 
+3. Atitikties vertinimo įstaigų priežiūra – nacionalinės akreditacijos įstaigos atliekamas jos akredituotų atitikties vertinimo įstaigų tikrinimas, ar šios įstaigos atlieka atitikties vertinimo veiklą laikydamosi tarptautinių akreditavimo organizacijų privalomojo pobūdžio norminių dokumentų, teisės aktų, standartų ar techninių specifikacijų reikalavimų. 
 
 
 
 
-4. Atitikties įvertinimo įstaiga – kaip tai apibrėžta Reglamente (EB) Nr. 765/2008.
+4. Atitikties vertinimo veikla – veiksmai, įskaitant kalibravimą, bandymus, sertifikavimą ir patikrinimus, atliekami siekiant nustatyti, ar gaminys, procesas, paslauga, vadybos sistema, fizinio asmens kvalifikacija atlikti tam tikrą darbą, atitikties vertinimo įstaiga atitinka jiems taikomų teisės aktų, standartų ar techninių specifikacijų reikalavimus.
 
 
 
 
-5. Atitikties kontrolės įstaiga (toliau – kontrolės įstaiga) – juridinis asmuo ar Lietuvos Respublikoje įregistruotas Europos ekonominės erdvės valstybėje įsisteigusios įmonės filialas, įvertinantys atitiktį matuodami, stebėdami, bandydami ir tikrindami teisės aktuose ir (arba) standartuose nurodytus parametrus. 
+5. Vadybos sistema − vadybos politikos ir tikslų nustatymo, tų tikslų siekimo sistema.
 
 
 
 
-6. Atitikties priežiūra (toliau – priežiūra) – periodinis tikrinimas, ar produktas, procesas, paslauga, vadybos sistema, atitikties įvertinimo įstaiga ar fizinio asmens kvalifikacija atlikti tam tikrą darbą atitinka teisės aktų ir (arba) standartų reikalavimus.
-
-
-
-
-7. Atitikties sertifikatas – dokumentas, kuriuo patvirtinama, kad produktas, procesas, paslauga ar vadybos sistema atitinka teisės aktų ir (arba) standartų reikalavimus. 
-
-
-
-
-8. Atitiktis – produkto, proceso, paslaugos, vadybos sistemos, atitikties įvertinimo įstaigos ar fizinio asmens kvalifikacijos atlikti tam tikrą darbą ir teisės aktų ir (arba) standartų reikalavimų atitikimas.
-
-
-
-
-9. Bandymas – produktų ar procesų parametrų nustatymas pagal standartais nustatyta tvarka įteisintą procedūrą.
-
-
-
-
-10. Bandymų laboratorija – bandymus atliekanti laboratorija.
-
-
-
-
-11. Gavinys – produktas, naudojamas kitam produktui gauti.
-
-
-
-
-12. Kalibravimo laboratorija – matavimo priemonių kalibravimą atliekanti laboratorija.
-
-
-
-
-13. Kvalifikacijos pažymėjimas – dokumentas, kuriuo patvirtinama, kad fizinio asmens kvalifikacija atlikti tam tikrą darbą atitinka teisės aktų ir (arba) standartų reikalavimus.
-
-
-
-
-14. Matavimo priemonės kalibravimas – kaip tai apibrėžta Lietuvos Respublikos metrologijos įstatyme.
-
-
-
-
-15. Nereglamentuojama veiklos sritis – teisės aktų nenustatytas privalomas procesų, paslaugų, vadybos sistemų, atitikties įvertinimo įstaigų ar fizinių asmenų kvalifikacijos atlikti tam tikrą darbą atitikties įvertinimas. 
-
-
-
-
-16. Paskelbtoji įstaiga – akredituota bandymų laboratorija, sertifikavimo ar kontrolės įstaiga, kurias Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) įgaliota ministerija ar kita institucija paskiria įvertinti atitiktį pagal teisės aktų, įgyvendinančių Europos Sąjungos teisę, reikalavimus ir apie kurias praneša Europos Komisijai ir Europos ekonominės erdvės valstybėms. 
-
-
-
-
-17. Paslauga – veikla, skirta kliento poreikiams tenkinti, ir jos rezultatas.
-
-
-
-
-18. Procesas – teisės aktais ir (arba) standartais nustatyti veiksmai, kai gaviniai paverčiami produktais.
-
-
-
-
-19. Produktas – teisės aktais ir (arba) standartais nustatytų veiksmų rezultatas. 
-
-
-
-
-20. Reglamentuojama veiklos sritis – teisės aktų nustatytas privalomas produktų, procesų, paslaugų, atitikties įvertinimo įstaigų ar fizinių asmenų kvalifikacijos atlikti tam tikrą darbą atitikties įvertinimas.
-
-
-
-
-21. Sertifikavimo įstaiga – juridinis asmuo ar Lietuvos Respublikoje įregistruotas Europos ekonominės erdvės valstybėje įsisteigusios įmonės filialas, patvirtinantys, kad produktas, procesas, paslauga, vadybos sistema ar fizinio asmens kvalifikacija atlikti tam tikrą darbą atitinka teisės aktų ir (arba) standartų reikalavimus. 
-
-
-
-
-22. Vadybos sistema – vadybos politikos ir tikslų nustatymo, tų tikslų siekimo sistema.
+6. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (EB) Nr. 765/2008, Lietuvos Respublikos paslaugų įstatyme ir Lietuvos Respublikos produktų saugos įstatyme.
  
 
 
@@ -169,18 +94,18 @@ BENDROSIOS NUOSTATOS
 
 
 
-ANTRASIS SKIRSNIS
-ATITIKTIES ĮVERTINIMO OBJEKTAI. ATITIKTIES ĮVERTINIMAS REGLAMENTUOJAMOJE IR NEREGLAMENTUOJAMOJE VEIKLOS SRITYSE
+II SKYRIUS
+ATITIKTIES VERTINIMO OBJEKTAI, SUBJEKTAI IR JŲ FUNKCIJOS
  
 
 
-3 straipsnis. Atitikties įvertinimo objektai
+3 straipsnis. Atitikties vertinimo objektai
 
 
-Atitikties įvertinimo objektai yra:
+Atitikties vertinimo objektai yra:
 
 
-1) produktai, procesai ir paslaugos;
+1) gaminiai, procesai ir paslaugos;
 
 
 
@@ -195,7 +120,7 @@ Atitikties įvertinimo objektai yra:
 
 
 
-4) atitikties įvertinimo įstaigos – bandymų ir kalibravimo laboratorijos, sertifikavimo, kontrolės ir paskelbtosios įstaigos.
+4) atitikties vertinimo įstaigos.
  
 
 
@@ -205,15 +130,28 @@ Atitikties įvertinimo objektai yra:
 
 
 
-4 straipsnis. Atitikties įvertinimas reglamentuojamoje ir nereglamentuojamoje veiklos srityse
+4 straipsnis. Atitikties vertinimo subjektai
 
 
-1. Reglamentuojamoje veiklos srityje atitikties įvertinimą atlieka paskelbtosios, akredituotos ar kitos teisės aktų nustatyta tvarka tam įgaliotos sertifikavimo ir kontrolės įstaigos bei bandymų laboratorijos.
+Atitikties vertinimo subjektai yra:
+
+
+1) Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos; 
 
 
 
 
-2. Nereglamentuojamoje veiklos srityje atitikties įvertinimą atlieka akredituotos ar neakredituotos sertifikavimo ir kontrolės įstaigos, bandymų ir kalibravimo laboratorijos. 
+2) nacionalinė akreditacijos įstaiga;
+
+
+
+
+3) atitikties vertinimo įstaigos; 
+
+
+
+
+4) gamintojai.
  
 
 
@@ -223,50 +161,10 @@ Atitikties įvertinimo objektai yra:
 
 
 
-TREČIASIS SKIRSNIS
-ATITIKTIES ĮVERTINIMO SUBJEKTAI IR JŲ FUNKCIJOS
- 
+5 straipsnis. Vyriausybės ar jos įgaliotų institucijų funkcijos
 
 
-5 straipsnis. Atitikties įvertinimo subjektai
-
-
-1. Atitikties įvertinimo subjektai yra:
-
-
-1) Vyriausybės įgaliotos ministerijos ir kitos institucijos; 
-
-
-
-
-2) Nacionalinis akreditacijos biuras; 
-
-
-
-
-3) sertifikavimo įstaigos;
-
-
-
-
-4) bandymų ir kalibravimo laboratorijos;
-
-
-
-
-5) kontrolės įstaigos;
-
-
-
-
-6) paskelbtosios įstaigos.
-
-
-
-
-
-
-2. Atitikties įvertinimo subjektai vadovaujasi šiuo įstatymu, kitais teisės aktais ir standartais.
+Vyriausybė ar jos įgaliotos institucijos, pagal kompetenciją įgyvendindamos Europos Sąjungos teisės aktus, susijusius su atitikties vertinimu, nustato reikalavimus konkretiems atitikties vertinimo objektams ir tiems objektams taikomą atitikties vertinimo subjektų vykdomo atitikties vertinimo tvarką.
  
 
 
@@ -274,18 +172,53 @@ ATITIKTIES ĮVERTINIMO SUBJEKTAI IR JŲ FUNKCIJOS
 
 
 
-6 straipsnis. Vyriausybės įgaliotų ministerijų ir kitų institucijų funkcijos
+6 straipsnis. Nacionalinė akreditacijos įstaiga ir jos funkcijos 
 
 
-Vyriausybės įgaliotos ministerijos ir kitos institucijos:
-
-
-1) pagal kompetenciją įstatymų ir kitų teisės aktų nustatyta tvarka įgyvendina Europos Sąjungos teisės aktus, susijusius su atitikties įvertinimu, ir nustato atitikties įvertinimo tvarką reglamentuojamoje veiklos srityje;
+1. Nacionalinės akreditacijos įstaigos funkcijas atlieka Nacionalinis akreditacijos biuras. Nacionalinis akreditacijos biuras yra biudžetinė įstaiga. Akreditavimą Nacionalinis akreditacijos biuras organizuoja ir kitas šio straipsnio 2 dalyje nurodytas funkcijas atlieka vadovaudamasis Reglamento (EB) Nr. 765/2008 II skyriuje nustatyta tvarka ir principais.
 
 
 
 
-2) Vyriausybės nustatyta tvarka priima sprendimus dėl akredituotų sertifikavimo ir kontrolės įstaigų bei bandymų laboratorijų, siekiančių būti paskelbtosiomis įstaigomis, paskyrimo, praneša apie jas Europos Komisijai ir Europos ekonominės erdvės valstybėms, atlieka šių įstaigų priežiūrą ir šio įstatymo ketvirtajame skirsnyje nustatyta tvarka sustabdo ir atšaukia paskelbtųjų įstaigų įgaliojimus. 
+2. Nacionalinis akreditacijos biuras atlieka šias funkcijas:
+
+
+1) tvirtina akreditavimo procedūrinius dokumentus, nustatančius konkrečiai atitikties vertinimo veiklai taikomus akreditavimo proceso principus ir tvarką (toliau – procedūriniai akreditavimo dokumentai) ir juos skelbia savo interneto svetainėje kartu su informacija apie teisės aktuose, standartuose, tarptautinių akreditavimo organizacijų privalomojo pobūdžio norminiuose dokumentuose nustatytus reikalavimus akredituotoms arba akreditavimo siekiančioms atitikties vertinimo įstaigoms;
+
+
+
+
+2) pagal atitikties vertinimo įstaigų paraiškas vertina ir akredituoja atitikties vertinimo įstaigas bei šio įstatymo 9 straipsnyje ir procedūriniuose akreditavimo dokumentuose nustatyta tvarka išduoda akreditavimo pažymėjimus;
+
+
+
+
+3) savo interneto svetainėje skelbia informaciją apie akredituotas atitikties vertinimo įstaigas, taip pat apie atitikties vertinimo įstaigas, kurių akreditavimo pažymėjimo galiojimas sustabdytas ar panaikintas; 
+
+
+
+
+4) atlieka akredituotų atitikties vertinimo įstaigų priežiūrą;
+
+
+
+
+5) sustabdo akreditavimo pažymėjimų galiojimą, panaikina akreditavimo pažymėjimų galiojimo sustabdymą, panaikina akreditavimo pažymėjimų galiojimą;
+
+
+
+
+6) priima sprendimą dėl akreditavimo srities išplėtimo arba akreditavimo srities susiaurinimo šio įstatymo III skyriuje nustatyta tvarka; 
+
+
+
+
+7) pagal kompetenciją atstovauja Lietuvos Respublikai atitikties vertinimo įstaigų akreditavimo klausimais tarptautinėse organizacijose ir kitose valstybėse;
+
+
+
+
+8) atlieka kitas šio įstatymo, Reglamento (EB) Nr. 765/2008 ir kitų teisės aktų, reglamentuojančių akreditavimo procesą, nustatytas funkcijas.
  
 
 
@@ -295,43 +228,18 @@ Vyriausybės įgaliotos ministerijos ir kitos institucijos:
 
 
 
-7 straipsnis. Nacionalinis akreditacijos biuras ir jo funkcijos 
+7 straipsnis. Atitikties vertinimo įstaigų funkcijos
 
 
-1. Nacionalinis akreditacijos biuras yra biudžetinė įstaiga. Jį steigia ir jo nuostatus tvirtina Vyriausybė. 
+Atitikties vertinimo įstaigos:
 
 
-
-
-2. Nacionalinis akreditacijos biuras:
-
-
-1) įvertina ir akredituoja sertifikavimo ir kontrolės įstaigas, bandymų ir kalibravimo laboratorijas, išduoda akreditavimo pažymėjimus Nacionalinio akreditacijos biuro nustatyta tvarka ir teikia viešai informaciją apie akredituotas atitikties įvertinimo įstaigas; 
+1) atlieka atitikties vertinimo veiklą;
 
 
 
 
-2) atlieka akredituotų sertifikavimo ir kontrolės įstaigų, bandymų ir kalibravimo laboratorijų veiklos priežiūrą;
-
-
-
-
-3) sustabdo akreditavimo pažymėjimų galiojimą, panaikina akreditavimo pažymėjimų galiojimo sustabdymą ir panaikina akreditavimo pažymėjimų galiojimą šio įstatymo ketvirtajame skirsnyje nustatyta tvarka; 
-
-
-
-
-4) užtikrina, kad akreditavimo rezultatai ir akredituotų sertifikavimo ir kontrolės įstaigų bei bandymų ir kalibravimo laboratorijų veikla būtų pripažinta tarptautiniu lygiu;
-
-
-
-
-5) pagal kompetenciją atstovauja Lietuvos Respublikos interesams atitikties įvertinimo klausimais tarptautinėse organizacijose ir kitose valstybėse;
-
-
-
-
-6) atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
+2) išduoda dokumentus, patvirtinančius, kad atitikties vertinimo objektai atitinka reikalavimus, nustatytus atitinkamuose teisės aktuose, standartuose, techninėse specifikacijose, pagal kuriuos atitikties vertinimas buvo atliktas, arba dokumentus, patvirtinančius atliktų bandymų rezultatus. 
  
 
 
@@ -341,170 +249,18 @@ Vyriausybės įgaliotos ministerijos ir kitos institucijos:
 
 
 
-8 straipsnis. Sertifikavimo įstaigos 
+8 straipsnis. Gamintojų funkcijos 
 
 
-Sertifikavimo įstaigos yra:
+Gamintojai:
 
 
-1) produktų sertifikavimo įstaigos;
+1) atlieka gaminių atitikties vertinimą, jeigu teisės aktuose nustatyta, kad atitikties vertinimas yra privalomas ir jį gali atlikti gamintojas;
 
 
 
 
-2) vadybos sistemų sertifikavimo įstaigos;
-
-
-
-
-3) fizinių asmenų kvalifikacijos atlikti tam tikrą darbą sertifikavimo įstaigos.
- 
-
-
-
-
-
-
-
-
-9 straipsnis. Produktų sertifikavimo įstaigų funkcijos
-
-
-Produktų sertifikavimo įstaigos:
-
-
-1) sertifikuoja produktus, procesus ir paslaugas ir išduoda atitikties sertifikatus;
-
-
-
-
-2) atlieka sertifikuotų produktų, procesų ir paslaugų priežiūrą.
- 
-
-
-
-
-
-
-
-
-10 straipsnis. Vadybos sistemų sertifikavimo įstaigų funkcijos
-
-
-Vadybos sistemų sertifikavimo įstaigos:
-
-
-1) sertifikuoja vadybos sistemas ir išduoda atitikties sertifikatus;
-
-
-
-
-2) atlieka sertifikuotų vadybos sistemų priežiūrą.
- 
-
-
-
-
-
-
-
-
-11 straipsnis. Fizinių asmenų kvalifikacijos atlikti tam tikrą darbą sertifikavimo įstaigų funkcijos
-
-
-Fizinių asmenų kvalifikacijos atlikti tam tikrą darbą sertifikavimo įstaigos:
-
-
-1) įvertina fizinių asmenų kvalifikaciją atlikti tam tikrą darbą ir išduoda kvalifikacijos pažymėjimus;
-
-
-
-
-2) atlieka fizinių asmenų, kuriems išduoti kvalifikacijos atlikti tam tikrą darbą pažymėjimai, veiklos priežiūrą.
- 
-
-
-
-
-
-
-
-
-12 straipsnis. Bandymų laboratorijų funkcijos
-
-
-Bandymų laboratorijos:
-
-
-1) atlieka bandymus;
-
-
-
-
-2) išduoda atliktų bandymų rezultatų protokolus.
- 
-
-
-
-
-
-
-
-
-13 straipsnis. Kalibravimo laboratorijų funkcijos 
-
-
-Kalibravimo laboratorijos:
-
-
-1) kalibruoja matavimo priemones;
-
-
-
-
-2) išduoda kalibravimo liudijimus.
- 
-
-
-
-
-
-
-
-
-14 straipsnis. Kontrolės įstaigų funkcijos
-
-
-Kontrolės įstaigos:
-
-
-1) tikrina, ar produktai, procesai ir paslaugos atitinka jiems nustatytus reikalavimus;
-
-
-
-
-2) išduoda kontrolės ataskaitas ir (ar) kontrolės sertifikatus.
- 
-
-
-
-
-
-
-
-
-15 straipsnis. Paskelbtųjų įstaigų funkcijos
-
-
-Paskelbtosios įstaigos:
-
-
-1) atlieka atitikties įvertinimą pagal joms suteiktus įgaliojimus;
-
-
-
-
-2) išduoda atitiktį patvirtinančius dokumentus.
+2) pažymi gaminį CE ženklu teisės aktų, pagal kuriuos atliktas atitikties vertinimas, nustatyta tvarka. 
  
 
 
@@ -516,40 +272,227 @@ Paskelbtosios įstaigos:
 
 
 
-KETVIRTASIS SKIRSNIS
-AKREDITAVIMO PAŽYMĖJIMŲ GALIOJIMO SUSTABDYMAS, AKREDITAVIMO PAŽYMĖJIMŲ GALIOJIMO SUSTABDYMO PANAIKINIMAS IR AKREDITAVIMO PAŽYMĖJIMŲ GALIOJIMO PANAIKINIMAS. PASKELBTŲJŲ ĮSTAIGŲ ĮGALIOJIMŲ SUSTABDYMAS IR ATŠAUKIMAS
+III SKYRIUS
+AKREDITAVIMO PROCESAS
  
 
 
-16 straipsnis. Akreditavimo pažymėjimų galiojimo sustabdymas 
+9 straipsnis. Akreditavimo pažymėjimų išdavimas. Akredituotų atitikties vertinimo įstaigų priežiūra
+
+
+1. Atitikties vertinimo įstaiga paraišką dėl akreditavimo ir paraišką dėl akreditavimo srities išplėtimo (toliau kartu – paraiška) ir prašymą dėl akreditavimo srities susiaurinimo, akreditavimo pažymėjimo galiojimo sustabdymo, akreditavimo pažymėjimo galiojimo sustabdymo panaikinimo, akreditavimo pažymėjimo galiojimo panaikinimo, akreditavimo pažymėjimo keitimo (toliau kartu – prašymas) Nacionaliniam akreditacijos biurui pateikia elektroninėmis priemonėmis arba kreipdamasi tiesiogiai. Paraiškos ir prašymai nagrinėjami šiame įstatyme ir procedūriniuose akreditavimo dokumentuose nustatyta tvarka. 
+
+
+
+
+2. Paraiškoje ir prašyme nurodoma ši informacija:
+
+
+1) įstaigos pavadinimas, buveinės adresas ir kontaktiniai duomenys (telefono numeris ir (arba) elektroninio pašto adresas);
+
+
+
+
+2) pageidaujama akreditavimo sritis arba akreditavimo sritis, kurios išplėtimo arba susiaurinimo siekiama.
+
+
+
+
+
+
+3. Kartu su paraiška pateikiami šie dokumentai ir informacija pagal procedūriniuose akreditavimo dokumentuose nustatytas formas:
+
+
+1) atitikties vertinimo įstaigos steigimo dokumentų kopija, jeigu atitikties vertinimo įstaiga yra juridinio asmens struktūrinis padalinys;
+
+
+
+
+2) dokumentai, kuriuose aprašoma įstaigos vadybos sistema;
+
+
+
+
+3) dokumentai, įrodantys per pastaruosius vienus metus atitikties vertinimo įstaigos atliktą vidaus auditą, ir įstaigos vadybos vertinamosios analizės rezultatai;
+
+
+
+
+4) įstaigos darbuotojų skaičius ir kvalifikacija;
+
+
+
+
+5) atitikties vertinimo objektas (objektai), kurio (kurių) atitikčiai vertinti siekiama gauti akreditaciją ar išplėsti akreditavimo sritį;
+
+
+
+
+6) kita informacija, kurios reikalaujama pagal konkrečiai vykdomai atitikties vertinimo veiklai, kurią siekiama akredituoti, taikomą procedūrinį akreditavimo dokumentą. 
+
+
+
+
+
+
+4. Kartu su prašymu pateikiami šie dokumentai ir informacija:
+
+
+1) informacija apie akreditavimo veiklą, kurios neplanuojama vykdyti, kai pateikiamas prašymas dėl akreditavimo srities susiaurinimo;
+
+
+
+
+2) informacija apie akreditavimo pažymėjimo galiojimo sustabdymo priežastis ir pageidaujamą sustabdymo terminą;
+
+
+
+
+3) šio įstatymo 12 straipsnio 2 dalyje nurodyti dokumentai, kai pateikiamas prašymas panaikinti akreditavimo pažymėjimo galiojimo sustabdymą;
+
+
+
+
+4) informacija apie planuojamą atitikties vertinimo veiklos nutraukimą, kai pateikiamas prašymas dėl akreditavimo pažymėjimo galiojimo panaikinimo;
+
+
+
+
+5) pasikeitusi informacija, dėl kurios turėtų būti pakeistas akreditavimo pažymėjimas.
+
+
+
+
+
+
+5. Nacionalinis akreditacijos biuras, gavęs paraišką kartu su šio straipsnio 3 dalyje nurodytais dokumentais ir informacija (toliau kartu – paraiškos dokumentai), juos išanalizuoja ir įvertina paraiškos tinkamumą tolesniam vertinimui. Jeigu pateikta netiksli, neišsami (ne visa) informacija, atitikties vertinimo įstaiga per 10 darbo dienų nuo paraiškos dokumentų gavimo Nacionaliniame akreditacijos biure dienos informuojama apie nustatytus trūkumus ir nustatomas ne trumpesnis kaip 10 darbo dienų terminas trūkumams pašalinti. 
+
+
+
+
+6. Jeigu pateikti visi paraiškos dokumentai, paraiškos nagrinėjimo procesas baigiamas Nacionaliniam akreditacijos biurui priėmus sprendimą atlikti vertinimą. Sprendimas atlikti vertinimą priimamas per 10 darbo dienų nuo visų paraiškos dokumentų gavimo Nacionaliniame akreditacijos biure dienos. Apie šį sprendimą atitikties vertinimo įstaiga informuojama ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos. 
+
+
+
+
+7. Nacionalinis akreditacijos biuras, priėmęs sprendimą atlikti vertinimą, laikydamasis standarte LST EN ISO/IEC 17011 nustatytų reikalavimų, susijusių su atitikties vertinimo įstaigos prisiimtais sutartiniais įsipareigojimais (toliau – standarto LST EN ISO/IEC 17011 reikalavimai), su atitikties vertinimo įstaiga sudaro akreditavimo sutartį, kuri apima atitikties vertinimo įstaigai nustatytas pareigas, jeigu tokia sutartis nebuvo sudaryta anksčiau. Vertinimas atliekamas pagal procedūriniuose akreditavimo dokumentuose nustatytą tvarką. Jeigu vertinimo metu užfiksuojama atitikties vertinimo įstaigos ar jos veiklos neatitiktis arba nustatoma, kad trūksta informacijos, kuri turėjo būti pateikta paraiškos dokumentuose, dokumentų vertinimui atlikti, Nacionalinis akreditacijos biuras per 10 darbo dienų apie tai informuoja atitikties vertinimo įstaigą. Kai yra užfiksuojamos neatitiktys, atitikties vertinimo įstaiga per 10 darbo dienų nuo Nacionalinio akreditacijos biuro pranešimo gavimo dienos pateikia Nacionaliniam akreditacijos biurui neatitikčių šalinimo planą ir jį per 10 darbo dienų nuo plano pateikimo dienos suderina su Nacionaliniu akreditacijos biuru procedūriniuose akreditavimo dokumentuose nustatyta tvarka. Nacionalinis akreditacijos biuras, prieš tęsdamas vertinimą, neatitikčių šalinimo planui įgyvendinti ar trūkstamai informacijai pateikti nustato ne ilgesnį kaip 3 mėnesių terminą. Šis terminas atitikties vertinimo įstaigos motyvuotu prašymu, pateiktu ne vėliau kaip likus 10 darbo dienų iki Nacionalinio akreditacijos biuro nustatyto termino pabaigos, Nacionalinio akreditacijos biuro sprendimu gali būti vieną kartą pratęstas iki 3 mėnesių. Nacionalinis akreditacijos biuras, išnagrinėjęs atitikties vertinimo įstaigos prašymą dėl termino pratęsimo, ne vėliau kaip per 5 darbo dienas priima sprendimą dėl termino pratęsimo ar atsisakymo pratęsti terminą ir per 3 darbo dienas atitikties vertinimo įstaigai praneša apie priimtą sprendimą.
+
+
+
+
+8. Nacionalinis akreditacijos biuras, atlikęs vertinimą, priima sprendimą dėl akreditavimo pažymėjimo išdavimo. Teigiamas sprendimas dėl akreditavimo pažymėjimo išdavimo arba motyvuotas sprendimas atsisakyti išduoti akreditavimo pažymėjimą priimamas ne vėliau kaip per 6 mėnesius nuo sprendimo atlikti vertinimą priėmimo dienos. Į šį terminą nėra įskaitomas laikotarpis, prasidedantis, kai Nacionalinis akreditacijos biuras vertinimo metu užfiksuoja neatitiktis ir apie jas praneša atitikties vertinimo įstaigai, ir pasibaigiantis, kai Nacionalinis akreditacijos biuras konstatuoja, kad neatitiktys pagal suderintą jų šalinimo planą yra pašalintos.
+
+
+
+
+9. Šio straipsnio 8 dalyje nustatytas terminas gali būti dėl svarbių priežasčių vieną kartą pratęstas iki 3 mėnesių. Šiuo atveju Nacionalinis akreditacijos biuras, priėmęs sprendimą pratęsti šio straipsnio 8 dalyje nurodytą terminą, informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos, nurodydamas priežastis, dėl kurių terminas buvo pratęstas.  
+
+
+
+
+10. Akreditavimo pažymėjimas išduodamas 5 metų laikotarpiui, išskyrus šio straipsnio 11 dalyje nurodytą išimtį. Nacionalinis akreditacijos biuras akreditavimo pažymėjimo galiojimo metu atlieka atitikties vertinimo įstaigos priežiūrą procedūriniuose akreditavimo dokumentuose nustatyta tvarka. 
+
+
+
+
+11. Akreditavimo pažymėjimas išduodamas trumpesniam, negu šio straipsnio 10 dalyje nurodytas, laikotarpiui, kai standartas, kurio atitikčiai atitikties vertinimo įstaiga buvo akredituota, pakeičiamas nauju standartu, kuriame nustatomas pereinamasis laikotarpis, kuriuo atitikties vertinimo įstaiga gali būti akredituota pagal senojo standarto reikalavimus. Šiuo atveju akreditavimo pažymėjimas išduodamas iki pereinamojo laikotarpio termino pabaigos.
+
+
+
+
+12. Apie priimtą teigiamą sprendimą dėl akreditavimo pažymėjimo išdavimo arba apie priimtą sprendimą atsisakyti išduoti akreditavimo pažymėjimą Nacionalinis akreditacijos biuras informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
+ 
+
+
+
+
+
+
+10 straipsnis. Paraiškos atmetimas, vertinimo proceso nutraukimas
+
+
+1. Atitikties vertinimo įstaigos paraiška atmetama, kai: 
+
+
+1) per šio įstatymo 9 straipsnio 5 dalyje nurodytą terminą nepašalinami paraiškos dokumentų trūkumai ir (arba) Nacionalinis akreditacijos biuras neinformuojamas apie šių trūkumų pašalinimą;
+
+
+
+
+2) atlikti vertinimą nėra galimybių, nes pageidaujamos atitikties vertinimo veiklos Nacionalinis akreditacijos biuras neakredituoja;
+
+
+
+
+3) Nacionalinis akreditacijos biuras turi įrodymų apie atitikties vertinimo įstaigos nesąžiningą elgesį – slepiamą informaciją arba klaidingų paraiškos dokumentų, turinčių įtakos akreditavimo rezultatams, pateikimą. 
+
+
+
+
+
+
+2. Vertinimo procesas nutraukiamas, kai:
+
+
+1) Nacionalinis akreditacijos biuras turi įrodymų apie atitikties vertinimo įstaigos nesąžiningą elgesį – slepiamą informaciją arba klaidingų pagal procedūrinius akreditavimo dokumentus turimų pateikti duomenų, turinčių įtakos akreditavimo rezultatams, pateikimą;
+
+
+
+
+2) per šio įstatymo 9 straipsnio 7 dalyje nurodytus terminus nepašalinamos nustatytos neatitiktys ir (arba) Nacionalinis akreditacijos biuras neinformuojamas apie neatitikčių pašalinimą arba nepateikiami trūkstami dokumentai;
+
+
+
+
+3) Nacionalinis akreditacijos biuras paraiškos vertinimo metu nustato, kad atitikties vertinimo įstaiga nesilaiko standarto LST EN ISO/IEC 17011 reikalavimų.
+
+
+
+
+
+
+3. Apie priimtą sprendimą atmesti paraišką arba nutraukti vertinimo procesą Nacionalinis akreditacijos biuras informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
+ 
+
+
+
+
+
+
+11 straipsnis. Akreditavimo pažymėjimų galiojimo sustabdymas 
 
 
 1. Akreditavimo pažymėjimų galiojimas sustabdomas: 
 
 
-1) atitikties įvertinimo įstaigos prašymu arba
+1) akredituotos atitikties vertinimo įstaigos prašymu;
 
 
 
 
-2) kai Nacionalinis akreditacijos biuras, atlikdamas atitikties įvertinimo įstaigos priežiūrą, nustato, kad ji pažeidė šį įstatymą, kitus teisės aktus, reglamentuojančius atitikties įvertinimą, ar standartus ir per Nacionalinio akreditacijos biuro nustatytą ne ilgesnį kaip trijų mėnesių terminą nepašalino šių pažeidimų.
+2) kai Nacionalinis akreditacijos biuras, atlikdamas atitikties vertinimo įstaigos priežiūrą, akreditavimo pažymėjimo galiojimo metu nustato neatitiktis ir akredituota atitikties vertinimo įstaiga per Nacionalinio akreditacijos biuro nustatytą ne ilgesnį kaip 3 mėnesių terminą jų nepašalina ir (arba) apie tai neinformuoja Nacionalinio akreditacijos biuro;
+
+
+
+
+3) kai Nacionalinis akreditacijos biuras akreditavimo pažymėjimo galiojimo metu nustato, kad atitikties vertinimo įstaiga nesilaiko standarto LST EN ISO/IEC 17011 reikalavimų.
 
 
 
 
 
 
-2. Prašymą sustabdyti akreditavimo pažymėjimo galiojimą atitikties įvertinimo įstaiga pateikia Nacionaliniam akreditacijos biurui. Atitikties įvertinimo įstaigos prašymu akreditavimo pažymėjimo galiojimas sustabdomas ne ilgiau kaip šešiems mėnesiams nuo prašymo gavimo dienos. 
+2. Akreditavimo pažymėjimo galiojimas sustabdomas ne ilgesniam kaip 6 mėnesių terminui nuo Nacionalinio akreditacijos biuro priimto sprendimo sustabdyti akreditavimo pažymėjimo galiojimą priėmimo dienos. 
 
 
 
 
-3. Sprendimą sustabdyti akreditavimo pažymėjimo galiojimą priima Nacionalinio akreditacijos biuro direktorius. Sprendime sustabdyti akreditavimo pažymėjimo galiojimą nurodomas akreditavimo pažymėjimo galiojimo sustabdymo pagrindas, terminas, kuriam sustabdomas akreditavimo pažymėjimo galiojimas, ir terminas, per kurį atitikties įvertinimo įstaiga turi pašalinti pažeidimus, dėl kurių sustabdomas akreditavimo pažymėjimo galiojimas, jeigu sprendimas sustabdyti akreditavimo pažymėjimo galiojimą priimamas šio straipsnio 1 dalies 2 punkte nurodytu atveju. 
+3. Sprendime sustabdyti akreditavimo pažymėjimo galiojimą nurodomas akreditavimo pažymėjimo galiojimo sustabdymo pagrindas, terminas, kuriam sustabdomas akreditavimo pažymėjimo galiojimas, ir ne ilgesnis kaip 4 mėnesių terminas, per kurį atitikties vertinimo įstaiga turi pašalinti neatitiktis ir pateikti Nacionaliniam akreditacijos biurui neatitikčių pašalinimą įrodančius dokumentus ir (arba) dokumentus, įrodančius, kad laikomasi standarto LST EN ISO/IEC 17011 reikalavimų, kad būtų atliktas atitikties vertinimo įstaigos vertinimas, išskyrus šio straipsnio 1 dalies 1 punkte nurodytą atvejį. 
 
 
 
 
-4. Apie priimtą sprendimą sustabdyti akreditavimo pažymėjimo galiojimą Nacionalinis akreditacijos biuras informuoja atitikties įvertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos.
+4. Apie priimtą sprendimą sustabdyti akreditavimo pažymėjimo galiojimą Nacionalinis akreditacijos biuras informuoja akredituotą atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
  
 
 
@@ -557,30 +500,40 @@ AKREDITAVIMO PAŽYMĖJIMŲ GALIOJIMO SUSTABDYMAS, AKREDITAVIMO PAŽYMĖJIMŲ GAL
 
 
 
-17 straipsnis. Akreditavimo pažymėjimų galiojimo sustabdymo panaikinimas 
+12 straipsnis. Akreditavimo pažymėjimų galiojimo sustabdymo panaikinimas
 
 
-1. Akreditavimo pažymėjimų galiojimo sustabdymas panaikinamas, kai atitikties įvertinimo įstaigos prašymu Nacionalinis akreditacijos biuras atlieka įvertinimą ir nustato, kad atitikties įvertinimo įstaiga:
-
-
-1) atitinka šio įstatymo, kitų teisės aktų, reglamentuojančių atitikties įvertinimą, ar standartų reikalavimus po akreditavimo pažymėjimo galiojimo sustabdymo atitikties įvertinimo įstaigos prašymu arba
+1. Akreditavimo pažymėjimo galiojimo sustabdymas panaikinamas, kai atitikties vertinimo įstaiga pateikia prašymą kartu su šio straipsnio 2 dalyje nurodyta informacija ir Nacionalinis akreditacijos biuras, šios informacijos pagrindu atlikęs vertinimą procedūriniuose akreditavimo dokumentuose nustatyta tvarka, nustato, kad atitikties vertinimo įstaiga atitinka jai taikomus reikalavimus. 
 
 
 
 
-2) per Nacionalinio akreditacijos biuro nustatytą terminą pašalino pažeidimus, dėl kurių buvo sustabdytas akreditavimo pažymėjimo galiojimas. 
+2. Atitikties vertinimo įstaiga kartu su prašymu panaikinti akreditavimo pažymėjimo galiojimo sustabdymą pateikia šiuos dokumentus:
+
+
+1) dokumentus, įrodančius, kad neliko priežasčių, dėl kurių buvo teiktas prašymas sustabdyti akreditavimo pažymėjimo galiojimą, kai sprendimas sustabdyti akreditavimo pažymėjimo galiojimą buvo priimtas vadovaujantis šio įstatymo 11 straipsnio 1 dalies 1 punkte nurodytu pagrindu; 
+
+
+
+
+2) neatitikčių pašalinimą įrodančius dokumentus, kai sprendimas sustabdyti akreditavimo pažymėjimo galiojimą buvo priimtas vadovaujantis šio įstatymo 11 straipsnio 1 dalies 2 punkte nurodytu pagrindu;
+
+
+
+
+3) dokumentus, įrodančius, kad laikomasi standarto LST EN ISO/IEC 17011 reikalavimų, kai sprendimas sustabdyti akreditavimo pažymėjimo galiojimą buvo priimtas vadovaujantis šio įstatymo 11 straipsnio 1 dalies 3 punkte nurodytu pagrindu.
 
 
 
 
 
 
-2. Sprendimą panaikinti akreditavimo pažymėjimo galiojimo sustabdymą priima Nacionalinio akreditacijos biuro direktorius. Sprendime panaikinti akreditavimo pažymėjimo galiojimo sustabdymą nurodomas akreditavimo pažymėjimo galiojimo sustabdymo panaikinimo pagrindas. 
+3. Nacionalinis akreditacijos biuras šio straipsnio 1 dalyje nurodytą vertinimą atlieka akreditavimo pažymėjimo galiojimo sustabdymo laikotarpiu. Jeigu dėl vertinimo apimties ar kitų objektyvių priežasčių nėra galimybių užbaigti vertinimo iki akreditavimo pažymėjimo galiojimo sustabdymo termino pabaigos, akreditavimo pažymėjimo galiojimo sustabdymas Nacionalinio akreditacijos biuro sprendimu gali būti pratęstas vienam mėnesiui. Apie priimtą sprendimą pratęsti akreditavimo pažymėjimo galiojimo sustabdymo terminą per 3 darbo dienas nuo sprendimo priėmimo dienos pranešama atitikties vertinimo įstaigai ir nurodomos šio termino pratęsimo priežastys. Pasibaigus akreditavimo pažymėjimo galiojimo sustabdymo terminui, šio straipsnio 1 dalyje nurodytas vertinimas baigiamas ir priimamas sprendimas dėl akreditavimo pažymėjimo galiojimo sustabdymo panaikinimo. 
 
 
 
 
-3. Apie priimtą sprendimą panaikinti akreditavimo pažymėjimo galiojimo sustabdymą Nacionalinis akreditacijos biuras informuoja atitikties įvertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos.
+4. Apie priimtą sprendimą panaikinti akreditavimo pažymėjimo galiojimo sustabdymą Nacionalinis akreditacijos biuras informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos, nurodydamas tokio sprendimo pagrindą.
  
 
 
@@ -588,40 +541,50 @@ AKREDITAVIMO PAŽYMĖJIMŲ GALIOJIMO SUSTABDYMAS, AKREDITAVIMO PAŽYMĖJIMŲ GAL
 
 
 
-18 straipsnis. Akreditavimo pažymėjimų galiojimo panaikinimas 
+13 straipsnis. Akreditavimo pažymėjimų galiojimo panaikinimas 
 
 
-1. Akreditavimo pažymėjimų galiojimas panaikinamas:
+1. Akreditavimo pažymėjimo galiojimas panaikinamas:
 
 
-1) atitikties įvertinimo įstaigos prašymu arba
-
-
-
-
-2) kai atitikties įvertinimo įstaiga per Nacionalinio akreditacijos biuro nustatytą terminą nepašalino pažeidimų, dėl kurių buvo sustabdytas akreditavimo pažymėjimo galiojimas, arba
+1) atitikties vertinimo įstaigos prašymu;
 
 
 
 
-3) kai atitikties įvertinimo įstaiga, kuriai jos prašymu sustabdytas akreditacijos pažymėjimo galiojimas, suėjus akreditacijos pažymėjimo galiojimo sustabdymo terminui nesikreipia į Nacionalinį akreditacijos biurą su prašymu atlikti įvertinimą ir panaikinti akreditavimo pažymėjimo galiojimo sustabdymą, arba
+2) jeigu, sustabdžius akreditavimo pažymėjimo galiojimą, atitikties vertinimo įstaiga per 11 straipsnio 3 dalyje nurodytame Nacionalinio akreditacijos biuro sprendime sustabdyti akreditavimo pažymėjimo galiojimą nustatytą terminą nepateikė šio įstatymo 12 straipsnio 2 dalyje nurodytų dokumentų;
 
 
 
 
-4) kai atitikties įvertinimo įstaiga, kurios akreditavimo pažymėjimo galiojimas sustabdytas, vykdo veiklą, kuriai ji yra akredituota.
+3) kai atitikties vertinimo įstaigos pateiktų šio įstatymo 12 straipsnio 2 dalyje nurodytų dokumentų pagrindu Nacionalinis akreditacijos biuras nustato, kad atitikties vertinimo įstaiga neatitinka jai taikomų teisės aktuose, standartuose, techninėse specifikacijose, tarptautinių akreditavimo organizacijų privalomojo pobūdžio norminiuose dokumentuose ir procedūriniuose akreditavimo dokumentuose nustatytų reikalavimų;
+
+
+
+
+4) kai nustoja galioti standartas, kurio atitikčiai atitikties vertinimo įstaiga yra akredituota, ir atitikties vertinimo įstaiga nesikreipia į Nacionalinį akreditacijos biurą su prašymu vertinti jos atitiktį pagal naujojo standarto reikalavimus iki senojo standarto galiojimo termino pabaigos;
+
+
+
+
+5) jeigu Nacionalinis akreditacijos biuras turi įrodymų apie akredituotos atitikties vertinimo įstaigos nesąžiningą elgesį – nuslėptą informaciją arba klaidingų pagal procedūrinius akreditavimo dokumentus turimų pateikti duomenų, turėjusių įtakos atitikties vertinimo rezultatams, pateikimą;
+
+
+
+
+6) jeigu atitikties vertinimo įstaiga pasibaigia Lietuvos Respublikos civilinio kodekso nustatytais pagrindais.
 
 
 
 
 
 
-2. Sprendimą panaikinti akreditavimo pažymėjimo galiojimą priima Nacionalinio akreditacijos biuro direktorius. Sprendime panaikinti akreditavimo pažymėjimo galiojimą nurodomas akreditavimo pažymėjimo galiojimo panaikinimo pagrindas. 
+2. Sprendimą panaikinti akreditavimo pažymėjimo galiojimą priima Nacionalinis akreditacijos biuras. Sprendime panaikinti akreditavimo pažymėjimo galiojimą nurodomas akreditavimo pažymėjimo galiojimo panaikinimo pagrindas. 
 
 
 
 
-3. Apie priimtą sprendimą panaikinti akreditavimo pažymėjimo galiojimą Nacionalinis akreditacijos biuras informuoja atitikties įvertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos.
+3. Apie priimtą sprendimą panaikinti akreditavimo pažymėjimo galiojimą Nacionalinis akreditacijos biuras informuoja atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos.
  
 
 
@@ -629,30 +592,55 @@ AKREDITAVIMO PAŽYMĖJIMŲ GALIOJIMO SUSTABDYMAS, AKREDITAVIMO PAŽYMĖJIMŲ GAL
 
 
 
-19 straipsnis. Paskelbtųjų įstaigų įgaliojimų sustabdymas
+14 straipsnis. Akreditavimo srities susiaurinimas ir išplėtimas, akreditavimo pažymėjimų keitimas
 
 
-1. Šio įstatymo 6 straipsnyje nurodytos Vyriausybės įgaliotos ministerijos ir kitos institucijos priima sprendimus dėl prižiūrimų paskelbtųjų įstaigų įgaliojimų sustabdymo: 
+1. Akredituotos atitikties vertinimo įstaigos akreditavimo sritis susiaurinama:
 
 
-1) paskelbtosios įstaigos prašymu;
-
-
-
-
-2) kai nustatoma, kad paskelbtoji įstaiga pažeidė šį įstatymą, kitus teisės aktus, reglamentuojančius atitikties įvertinimą.
+1) akredituotos atitikties vertinimo įstaigos prašymu;
 
 
 
 
-
-
-2. Vyriausybės įgaliota ministerija ar kita institucija paskelbtosios institucijos įgaliojimus sustabdo ne ilgesniam kaip trijų mėnesių terminui.
+2) kai atitikties vertinimo įstaiga per Nacionalinio akreditacijos biuro nustatytą ne ilgesnį kaip 3 mėnesių terminą nepašalina atitikties vertinimo įstaigos priežiūros ar vertinimo metu nustatytų neatitikčių, susijusių su konkrečia akreditavimo srityje nurodyta atitikties vertinimo veikla;
 
 
 
 
-3. Apie priimtą sprendimą sustabdyti paskelbtosios įstaigos įgaliojimus paskelbtoji įstaiga informuojama Vyriausybės nustatyta tvarka. 
+3) kai atitikties vertinimo įstaiga nesilaiko standarto LST EN ISO/IEC 17011 reikalavimų, susijusių su konkrečia akreditavimo srityje nurodyta atitikties vertinimo veikla. 
+
+
+
+
+
+
+2. Akredituota atitikties vertinimo įstaiga, norėdama savo akreditavimo sritį papildyti naujomis atitikties vertinimo veiklomis, pateikia Nacionaliniam akreditacijos biurui paraišką išplėsti akreditavimo pažymėjime nurodytą akreditavimo sritį. Paraiška nagrinėjama ir sprendimas išplėsti akreditavimo sritį priimamas mutatis mutandis šio įstatymo 9 ir 10 straipsniuose nustatyta tvarka ir terminais. Akreditavimo pažymėjimo galiojimo metu išplėsta akreditavimo sritis galioja likusiam akreditavimo pažymėjimo galiojimo laikotarpiui.
+
+
+
+
+3. Šio straipsnio 1 ir 2 dalyse nurodytais atvejais, priėmus sprendimą išplėsti ar susiaurinti akreditavimo sritį, Nacionalinis akreditacijos biuras pakeičia akreditavimo pažymėjimą. Akreditavimo pažymėjimas akredituotos atitikties vertinimo įstaigos prašymu taip pat keičiamas, kai:
+
+
+1) pasikeičia atitikties vertinimo įstaigos pavadinimas;
+
+
+
+
+2) pasikeičia atitikties vertinimo įstaigos teisinis statusas;
+
+
+
+
+3) Nacionalinis akreditacijos biuras akredituoja atitikties vertinimo įstaigą pagal naujojo standarto reikalavimus.
+
+
+
+
+
+
+4. Apie priimtą sprendimą susiaurinti ar išplėsti akreditavimo sritį, pakeisti akreditavimo pažymėjimą Nacionalinis akreditacijos biuras informuoja akredituotą atitikties vertinimo įstaigą, dėl kurios priimtas šis sprendimas, ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos. 
  
 
 
@@ -660,53 +648,22 @@ AKREDITAVIMO PAŽYMĖJIMŲ GALIOJIMO SUSTABDYMAS, AKREDITAVIMO PAŽYMĖJIMŲ GAL
 
 
 
-20 straipsnis. Paskelbtųjų įstaigų įgaliojimų atšaukimas
 
 
-1. Šio įstatymo 6 straipsnyje nurodytos Vyriausybės įgaliotos ministerijos ir kitos institucijos priima sprendimus dėl prižiūrimų paskelbtųjų įstaigų įgaliojimų atšaukimo: 
-
-
-1) paskelbtosios įstaigos prašymu;
-
-
-
-
-2) kai paskelbtoji įstaiga per terminą, kuriam buvo sustabdyti jos įgaliojamai, nesikreipia į atitinkamą Vyriausybės įgaliotą ministeriją ar kitą instituciją ir nepateikia pažeidimų pašalinimą įrodančių dokumentų, kai jos įgaliojimai buvo sustabdyti šio įstatymo 19 straipsnio 1 dalies 2 punkte nurodytu atveju.
-
-
-
-
-
-
-3. Apie priimtą sprendimą atšaukti paskelbtosios įstaigos įgaliojimus paskelbtoji įstaiga informuojama Vyriausybės nustatyta tvarka.
- 
-
-
-
-
-
-
-
-
-PENKTASIS SKIRSNIS
+IV SKYRIUS
 BAIGIAMOSIOS NUOSTATOS
  
 
 
-21 straipsnis. Atitikties įvertinimo darbų apmokėjimas
+15 straipsnis. Atitikties vertinimo ir akreditavimo darbų apmokėjimas
 
 
-1. Bandymų ir kalibravimo laboratorijos, sertifikavimo ir kontrolės įstaigos, pageidaujančios būti akredituotos, išlaidas, susijusias su jų atitikties įvertinimu ir akreditavimu, apmoka pagal Vyriausybės nustatyta tvarka patvirtintus įkainius.
-
-
-
-
-2. Juridiniai ir fiziniai asmenys sertifikavimo, kontrolės, bandymų ir kalibravimo išlaidas apmoka pagal sutartis.
+1. Akreditavimo siekiančios arba akredituotos atitikties vertinimo įstaigos išlaidas, susijusias su jų atitikties vertinimu ir akreditavimu, apmoka pagal Vyriausybės nustatyta tvarka apskaičiuojamus ir Nacionalinio akreditacijos biuro laikantis šios tvarkos tvirtinamus įkainius.
 
 
 
 
-3. Už akreditavimo pažymėjimų išdavimą mokama valstybės rinkliava.
+2. Už akreditavimo pažymėjimų išdavimą ar jų keitimą mokama valstybės rinkliava.
  
 
 
@@ -714,15 +671,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-22 straipsnis. Skundų pateikimas
+16 straipsnis. Duomenų apie akreditavimo pažymėjimus tvarkymas
 
 
-1. Nacionalinio akreditacijos biuro ir jo akredituotų atitikties įvertinimo įstaigų priimtus sprendimus per 15 kalendorinių dienų po sprendimo gavimo galima apskųsti Atitikties įvertinimo apeliacinei komisijai. Šios komisijos nuostatai tvirtinami Vyriausybės ar jos įgaliotos ministerijos nustatyta tvarka. Jeigu su šios komisijos sprendimu nesutinkama, jį galima apskųsti administraciniam teismui.
-
-
-
-
-2. Neakredituotų atitikties įvertinimo įstaigų priimti sprendimai skundžiami teisės aktų nustatyta tvarka.
+Akreditavimo pažymėjimų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ar galiojimo panaikinimo duomenys tvarkomi Lietuvos Respublikos viešojo administravimo įstatymo nustatyta tvarka.
  
 
 
@@ -730,10 +682,10 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-23 straipsnis. Kitose valstybėse išduotų atitikties įvertinimo dokumentų pripažinimas
+17 straipsnis. Sprendimų pateikimo atitikties vertinimo įstaigoms tvarka
 
 
-Kitose valstybėse išduoti atitikties įvertinimo dokumentai pripažįstami tarptautinėse sutartyse nustatyta tvarka.
+Apie visus Nacionalinio akreditacijos biuro sprendimus, priimtus pagal šį įstatymą, atitikties vertinimo įstaigoms pranešama elektroninėmis priemonėmis šių įstaigų nurodytu elektroninio pašto adresu.
  
 
 
@@ -741,10 +693,31 @@ Kitose valstybėse išduoti atitikties įvertinimo dokumentai pripažįstami tar
 
 
 
-24 straipsnis. Atitikties įvertinimo subjektų atsakomybė
+18 straipsnis. Sprendimų apskundimo tvarka
 
 
-Šio įstatymo reikalavimus pažeidę atitikties įvertinimo subjektai atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+Nacionalinio akreditacijos biuro sprendimai, priimti pagal šį įstatymą, skundžiami: 
+
+
+1) Nacionaliniam akreditacijos biurui Viešojo administravimo įstatymo nustatyta tvarka; 
+
+
+
+
+2) administraciniam teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+ 
+
+
+
+
+
+
+
+
+19 straipsnis. Kitose valstybėse išduotų atitikties vertinimo dokumentų pripažinimas
+
+
+Kitose valstybėse išduoti atitikties vertinimo dokumentai pripažįstami tarptautinėse sutartyse ir Reglamente (EB) Nr. 765/2008 nustatyta tvarka.
  
 
 
@@ -758,29 +731,29 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
+ 
+
+
  
 
 
 
 
-
-
- 
-Lietuvos Respublikos 
-atitikties įvertinimo įstatymo
+Lietuvos Respublikos
+atitikties vertinimo įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 765/2008, nustatantis su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinantis Reglamentą (EEB) Nr. 339/93 (OL 2008 L 218, p. 30).
+1. 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 765/2008, nustatantis su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinantis Reglamentą (EEB) Nr. 339/93.
 
 
 
 
-2. 2008 m. liepos 9 d. Europos Parlamento ir Tarybos sprendimas Nr. 768/2008/EB dėl bendrosios gaminių pardavimo sistemos ir panaikinantis Sprendimą 93/465/EEB (OL 2008 L 218, p. 82).
+2. 2008 m. liepos 9 d. Europos Parlamento ir Tarybos sprendimas Nr. 768/2008/EB dėl bendrosios gaminių pardavimo sistemos ir panaikinantis Sprendimą 93/465/EEB.
 
 
  
@@ -791,3 +764,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1299, 2011-03-24, Žin., 2011, Nr. 40-1919 (2011-04-05), i. k. 1111010ISTA0XI-1299
 Lietuvos Respublikos atitikties įvertinimo įstatymo pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-31, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27336
+Lietuvos Respublikos atitikties įvertinimo įstatymo Nr. VIII-870 pakeitimo įstatymas
