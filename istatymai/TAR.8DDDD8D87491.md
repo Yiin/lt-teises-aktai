@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8DDDD8D87491"
 
 # Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymas
 
-Suvestinė redakcija nuo 2020-07-10 iki 2021-04-30
+Suvestinė redakcija nuo 2021-05-01 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2728, i. k. 0971010ISTAVIII-500
+ 
+TAR pastaba. Katės, šunys ir šeškai, atvesti įsigaliojus (2021-05-01) įstatymui Nr. XIV-231, turi būti paženklinti ir registruoti Gyvūnų augintinių registre per 4 mėnesius nuo jų atvedimo, bet ne vėliau kaip iki jų perdavimo kitam savininkui ar laikytojui. Iki šio įstatymo įsigaliojimo dienos atvesti katės, šunys ir šeškai, kurie nėra paženklinti mikroschemomis, turi būti paženklinti ir registruoti Gyvūnų augintinių registre iki 2022 m. gegužės 1 d., bet ne vėliau kaip iki jų perdavimo kitam savininkui ar laikytojui. Jeigu katės, šunys ar šeškai yra naudojami versliniam veisimui ir yra atvesti iki šio įstatymo įsigaliojimo dienos, jie privalo būti paženklinti mikroschemomis ir registruoti Gyvūnų augintinių registre iki 2021 m. rugsėjo 1 d.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 2, 4, 7, 9, 10 ir 12 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2013-01-01:
 Nr. XI-2271, 2012-10-03, Žin. 2012, Nr. 122-6126 (2012-10-20), i. k. 1121010ISTA0XI-2271
@@ -71,17 +76,26 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 
 
-2. Bepriežiūris gyvūnas – gyvūno laikytojo neprižiūrimas gyvūnas, kuris yra už gyvūno laikytojo valdomo gyvenamojo ar negyvenamojo pastato ar kitos teritorijos ribų.
+2. Bepriežiūris gyvūnas – gyvūno laikytojo neprižiūrimas ūkinis gyvūnas arba gyvūnas augintinis, kuris yra už gyvūno laikytojo valdomo gyvenamojo ar negyvenamojo pastato ar kitos teritorijos ribų. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
+ 
 
 
 
 
-3. Bešeimininkis gyvūnas – gyvūnas, kuris neturi savininko ar jis nežinomas arba kurio savininkas atsisakė neperduodamas jo kitam savininkui.
+3. Bešeimininkis gyvūnas – ūkinis gyvūnas arba gyvūnas augintinis, kuris neturi savininko ar jis nežinomas arba kurio savininkas atsisakė neperduodamas jo kitam savininkui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
+ 
 
 
 
 
-4. Gyvūnas – bet kokios rūšies ūkinis ar laukinis gyvūnas arba gyvūnas augintinis.
+4. Gyvūnas – bet kokios rūšies domestikuotas ar laukinis gyvūnas, įskaitant ūkinius gyvūnus ir gyvūnus augintinius. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
+ 
 
 
 
@@ -122,6 +136,14 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 
 12. Gyvūno savininkas – asmuo, kuriam nuosavybės teise priklauso gyvūnas.
+
+
+
+
+121. Gyvūno suluošinimas – veiksmai ar neveikimas, dėl kurių sužalojamos gyvūno kūno dalys ir (ar) organai ir (arba) atsiranda žalingų liekamųjų reiškinių jo fizinei ir (ar) psichikos sveikatai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
+ 
 
 
 
@@ -190,7 +212,10 @@ Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 
 
-22. Laukinis gyvūnas – laisvėje gyvenantis arba nelaisvėje laikomas laukinio gyvūno rūšies bet kurios biologinio vystymosi stadijos individas.
+22. Neteko galios nuo 2021-05-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
+ 
 
 
 
@@ -223,7 +248,10 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 
 
-28. Verslinis gyvūnų augintinių veisimas – teisės aktų nustatyta tvarka vykdomas gyvūnų augintinių dauginimas verslo tikslais.
+28. Verslinis gyvūnų augintinių veisimas – teisės aktų nustatyta tvarka vykdomas gyvūnų augintinių veisimas siekiant pelno, įskaitant kergimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
+ 
 
 
 
@@ -277,7 +305,10 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 
 
-2) tvirtina kartu su Valstybine maisto ir veterinarijos tarnyba Laukinių gyvūnų naudojimo taisykles;
+2) Neteko galios nuo 2021-05-01
+Straipsnio punkto naikinimas:
+Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
+ 
 
 
 
@@ -287,7 +318,10 @@ Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
 
 
-4) kartu su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos ir Valstybine maisto ir veterinarijos tarnyba tvirtina prekybos laukiniais gyvūnais taisykles;
+4) Neteko galios nuo 2021-05-01
+Straipsnio punkto naikinimas:
+Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
+ 
 
 
 
@@ -591,7 +625,10 @@ Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 
 
-14) gyvūnų veisimas, sukeliantis žalingas pasekmes gyvūnų sveikatai ir gerovei;
+14) gyvūnų veisimas nesilaikant teisės aktuose nustatytų reikalavimų ir (ar) sukeliantis žalingas pasekmes gyvūnų sveikatai ir gerovei; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
+ 
 
 
 
@@ -641,7 +678,18 @@ Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 
 
-24) kiti veiksmai, sukeliantys gyvūnų žūtį, skausmą, kančią, pavojų gyvūnų sveikatai ar gyvybei, išskyrus teisės aktuose nustatytus atvejus.
+24) gyvūno augintinio savininko nesutikimas bendradarbiauti su šio įstatymo vykdymą kontroliuojančių institucijų pareigūnais, informacijos apie jo laikomų gyvūnų gerovę, sveikatos būklę, buvimo vietą ar kitas svarbias aplinkybes nesuteikimas; 
+Papildyta straipsnio punktu:
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
+ 
+
+
+
+
+25) kiti veiksmai, sukeliantys gyvūnų žūtį, skausmą, kančią, pavojų gyvūnų sveikatai ar gyvybei, išskyrus teisės aktuose nustatytus atvejus.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
+ 
 
 
 
@@ -662,10 +710,11 @@ Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 
 
-5. Kol bus priimtas ir įsiteisės sprendimas dėl gyvūno konfiskavimo, savivaldybės administracijos direktoriaus įgaliotas asmuo, dalyvaujant Valstybinės maisto ir veterinarijos tarnybos veterinarijos gydytojui ir policijos pareigūnui, jeigu būtina užtikrinti viešąją tvarką, turi paimti tokį gyvūną ir perduoti jį gyvūnų globėjui ar kitam paimtą gyvūną galinčiam laikinai laikyti gyvūnų laikytojui arba kitokiu būdu užtikrinti tinkamą gyvūno laikymą. Siekiant nutraukti gyvūnų kančias, iš gyvūno savininko ar laikytojo paimtas suluošintas ar sunkiai sergantis gyvūnas, neprašant gyvūno savininko ar laikytojo sutikimo, veterinarijos gydytojo sprendimu gali būti nugaišinamas. Gyvūno gydymo, laikino laikymo, nugaišinimo ar gaišenos tvarkymo išlaidas atlygina gyvūno laikytojas arba savininkas, kuris kankino ar žiauriai elgėsi su gyvūnu. Kilęs ginčas dėl šių išlaidų atlyginimo ar jų dydžio nustatymo, taip pat gyvūno nuosavybės teisės nustatymo ar laikymo fakto pripažinimo sprendžiamas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. 
+5. Kol bus priimtas ir įsiteisės teismo sprendimas arba bylą ne teismo tvarka nagrinėjančios institucijos (pareigūno) sprendimas dėl gyvūno konfiskavimo, savivaldybės administracijos direktoriaus įgaliotas asmuo, dalyvaujant Valstybinės maisto ir veterinarijos tarnybos veterinarijos gydytojui ir policijos pareigūnui, jeigu būtina užtikrinti viešąją tvarką, turi paimti tokį gyvūną ir perduoti jį gyvūnų globėjui ar kitam paimtą gyvūną galinčiam laikinai laikyti gyvūnų laikytojui arba kitokiu būdu užtikrinti tinkamą gyvūno laikymą. Siekiant nutraukti gyvūno kančias, iš gyvūno savininko ar laikytojo paimtas suluošintas ar sunkiai sergantis gyvūnas, neprašant gyvūno savininko ar laikytojo sutikimo, veterinarijos gydytojo sprendimu gali būti nugaišinamas. Gyvūno gydymo, laikino laikymo, nugaišinimo ar gaišenos tvarkymo išlaidas atlygina gyvūno laikytojas arba savininkas, kuris kankino ar žiauriai elgėsi su gyvūnu. Kilęs ginčas dėl šių išlaidų atlyginimo ar jų dydžio nustatymo, taip pat gyvūno nuosavybės teisės nustatymo ar laikymo fakto pripažinimo sprendžiamas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
 Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
  
 
 
@@ -803,25 +852,68 @@ Kiekvienas gyvūnas privalo būti laikomas ir prižiūrimas gyvūno rūšį, am�
 
 
 
-2. Kiti gyvūnai augintiniai gali būti ženklinami mikroschemomis ir registruojami Gyvūnų augintinių registre.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XII-2487, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18457
+2. Katės, šunys ir šeškai privalo būti ženklinami mikroschemomis ir registruojami Gyvūnų augintinių registre. Už katės, šuns ar šeško paženklinimą mikroschema ir įregistravimą Gyvūnų augintinių registre atsako jų laikytojas ar savininkas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
  
 
 
 
 
-3. Gyvūnų augintinių registro valdytoja – Žemės ūkio ministerija, tvarkytojos – valstybės įmonė Žemės ūkio informavimo ir kaimo verslo centras ir Valstybinė maisto ir veterinarijos tarnyba.
+3. Kiti gyvūnai augintiniai gali būti ženklinami mikroschemomis ir registruojami Gyvūnų augintinių registre.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2487, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18457
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
  
 
 
 
 
-4. Gyvūnų augintinių registro duomenys yra teikiami savivaldybių administracijoms neatlygintinai, o kitiems asmenims – įstatymų, kitų teisės aktų nustatyta tvarka.
+4. Gyvūnų augintinių registro valdytoja – Žemės ūkio ministerija, tvarkytojos – valstybės įmonė Žemės ūkio informavimo ir kaimo verslo centras ir Valstybinė maisto ir veterinarijos tarnyba.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2487, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18457
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
+ 
+
+
+
+
+5. Gyvūnų augintinių registro duomenys yra teikiami savivaldybių administracijoms neatlygintinai, o kitiems asmenims – įstatymų, kitų teisės aktų nustatyta tvarka.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XII-2487, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18457
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
+ 
+
+
+
+
+6. Gyvūnus augintinius ženklina ir jų duomenis Gyvūnų augintinių registrui teikia veterinarijos gydytojai, turintys veterinarijos praktikos licenciją. Kates, šunis ir šeškus taip pat ženklina ir jų duomenis Gyvūnų augintinių registrui teikia asmenys, baigę kačių, šunų ir šeškų ženklinimo ir jų duomenų teikimo Gyvūnų augintinių registrui mokymus ir turintys mokymų baigimą patvirtinantį dokumentą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
+ 
+
+
+
+
+7. Kačių, šunų ir šeškų ženklinimo ir duomenų teikimo Gyvūnų augintinių registrui mokymus turi teisę organizuoti mokslo ir studijų institucijos, vykdančios aukštojo mokslo studijas ar su studijomis susijusią veiklą ir mokslinius tyrimus bei eksperimentinę veiklą žemės ūkio mokslų srityje veterinarijos ir (arba) gyvūnų mokslų kryptyse. Šios institucijos privalo parengtą ne trumpesnę kaip 8 akademinių valandų mokymų programą suderinti su Valstybine maisto ir veterinarijos tarnyba. 
+Papildyta straipsnio dalimi:
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
+ 
+
+
+
+
+8. Socialiai remtinų asmenų laikomų kačių, šunų ir šeškų, atvestų iki šio straipsnio įsigaliojimo dienos, ženklinimo ir registravimo išlaidos kompensuojamos iš valstybės ir savivaldybių biudžetų lėšų. Iš valstybės ir savivaldybių biudžetų lėšų taip pat kompensuojamos gyvūnų globėjų laikomų kačių, šunų ir šeškų ženklinimo ir registravimo išlaidos. Išlaidos kompensuojamos iki 2022 m. gruodžio 31 d. 
+Papildyta straipsnio dalimi:
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
+ 
+
+
+
+
+9. Šio straipsnio 8 dalyje nurodytų socialiai remtinų asmenų grupes ir jų laikomų kačių, šunų ir šeškų ženklinimo ir registravimo išlaidų kompensavimo tvarką nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija. 
+Papildyta straipsnio dalimi:
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
  
 
 
@@ -922,6 +1014,13 @@ Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 
 3. Operacijos ir visos skausmą sukeliančios veterinarinės procedūros gyvūnui atliekamos tik jį nuskausminus, išskyrus teisės aktuose nustatytus atvejus.
+
+
+
+
+4. Veterinarijos gydytojai, nustatę, kad gydomų gyvūnų sveikatos sutrikimai ar kūno sužalojimai galimai kilo ar buvo nulemti šio įstatymo 4 straipsnio 2 dalyje nurodytų veiksmų, apie tai nedelsdami turi informuoti kompetentingas institucijas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
  
 
 
@@ -954,7 +1053,10 @@ GYVŪNŲ VEISIMAS, PREKYBA, VEŽIMAS
 
 
 
-4. Perduodant kates, šunis ar šeškus, taip pat šių gyvūnų jauniklius kitam savininkui, šie gyvūnai turi būti paženklinti mikroschema ir užregistruoti Gyvūnų augintinių registro duomenų bazėje.
+4. Neteko galios nuo 2021-05-01
+Straipsnio dalies naikinimas:
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
+ 
 
 
 
@@ -970,6 +1072,13 @@ GYVŪNŲ VEISIMAS, PREKYBA, VEŽIMAS
 
 
 7. Kiti gyvūnai veisiami pagal jų veisimą reglamentuojančių teisės aktų reikalavimus.
+
+
+
+
+8. Gyvūnų augintinių veisėjai teisės aktų nustatyta tvarka registruoja savo veiklą Gyvūnų augintinių registro duomenų bazėje. 
+Papildyta straipsnio dalimi:
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
  
 
 
@@ -1007,6 +1116,13 @@ Gyvūnai turi būti vežami taip, kad kelionės metu nesusižalotų, nepatirtų 
 
 
 4. Draudžiama parduoti neženklintus ir neregistruotus gyvūnus, kuriems teisės aktų nustatyta tvarka taikomas privalomas ženklinimas ir registravimas.
+
+
+
+
+5. Draudžiama prekiauti gyvūnais augintiniais lauko sąlygomis ir turgavietėse. 
+Papildyta straipsnio dalimi:
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
  
 
 
@@ -1423,7 +1539,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
  
 
 
@@ -1500,3 +1616,13 @@ Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 7 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 2, 3, 4, 8, 20, 21 straipsnių ir priedo pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 2 ir 3 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 2, 4, 7, 9, 10 ir 12 straipsnių pakeitimo įstatymas
