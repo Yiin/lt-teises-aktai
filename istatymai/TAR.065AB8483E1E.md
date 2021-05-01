@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
-Suvestinė redakcija nuo 2021-02-01 iki 2021-04-30
+Suvestinė redakcija nuo 2021-05-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 71-1706, i. k. 0961010ISTA00I-1418
  
@@ -2270,49 +2270,73 @@ viešosios informacijos rengimo ir platinimo Reikalavimai
  
 
 
-34 straipsnis. Kalba, kuria rengiama ir skleidžiama viešoji informacija
+34 straipsnis. Kalbos ir prieinamumo reikalavimai viešajai informacijai 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
 
 
-1. Viešoji informacija rengiama ir skleidžiama valstybine kalba ar kitomis kalbomis, vadovaujantis šiuo ir Valstybinės kalbos įstatymu, taip pat Valstybinės lietuvių kalbos komisijos nutarimais, išskyrus šiame įstatyme nurodytus atvejus. Viešosios informacijos rengėjai ir skleidėjai, bendradarbiaudami su kompetentingomis valstybės ir savivaldybių institucijomis ir įstaigomis, pagal galimybes užtikrina, kad skleidžiama viešoji informacija taptų prieinama neįgaliesiems. 
-
-
-
-
-2. Radijo ir (ar) televizijos programos, transliuojamos ne lietuvių kalba, bet kita oficialia Europos Sąjungos kalba, taip pat radijo ir (ar) televizijos programas sudarančios atskiros programos, transliuojamos ne oficialia Europos Sąjungos kalba, jeigu tokių programų suminė trukmė per parą yra ne didesnė negu 90 minučių, turi būti verčiamos į lietuvių kalbą arba rodomos su lietuviškais subtitrais. Radijo ir (ar) televizijos programas sudarančios atskiros programos, transliuojamos ne oficialia Europos Sąjungos kalba, turi būti verčiamos į lietuvių kalbą, jeigu tokių programų suminė trukmė per parą yra didesnė negu 90 minučių. Skaičiuojant programų trukmę, neįskaitomas tokių programų pakartotinės transliacijos laikas, komercinių audiovizualinių pranešimų laikas ir anonsai. Ši nuostata netaikoma mokomosioms, proginėms, specialiosioms, muzikinėms ir retransliuojamoms užsienio valstybių radijo ir (ar) televizijos programoms ar atskiroms programoms, taip pat radijo ir (ar) televizijos programų transliuotojų sukurtoms programoms, skirtoms Lietuvos tautinėms mažumoms. Komisija, atsižvelgdama į tautinių mažumų, gyvenančių transliuojamų radijo ir (ar) televizijos programų aprėpties zonoje, poreikius, nurodydama licencijos sąlygas, gali nustatyti, kokią transliuojamų ir (ar) retransliuojamų radijo ir (ar) televizijos programų ar atskirų programų dalį turi sudaryti radijo ir (ar) televizijos programos ar atskiros programos tautinių mažumų kalbomis. 
+1. Viešoji informacija rengiama ir skleidžiama valstybine kalba ar kitomis kalbomis, vadovaujantis šiuo įstatymu ir Lietuvos Respublikos valstybinės kalbos įstatymu, taip pat Valstybinės lietuvių kalbos komisijos nutarimais, išskyrus šiame įstatyme nurodytus atvejus. 
 Straipsnio dalies pakeitimai:
-Nr. XIII-1355, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11457
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
 
 
-3. Televizijos programų transliuotojams draudžiama rodyti audiovizualinius kūrinius, išverstus iš oficialios Europos Sąjungos kalbos į ne Europos Sąjungos kalbą.
+2. Viešosios informacijos rengėjai ir skleidėjai, bendradarbiaudami su kompetentingomis valstybės ir savivaldybių institucijomis ir įstaigomis, užtikrina, kad skleidžiama viešoji informacija nuosekliai taptų prieinama neįgaliesiems. LRT televizijos programas klausos ir regos negalią turintiems asmenims pritaiko Lietuvos nacionalinio radijo ir televizijos įstatymo nustatyta tvarka ir sąlygomis. Kiti audiovizualinės žiniasklaidos paslaugų teikėjai skleidžiamą viešąją informaciją neįgaliesiems pritaiko vadovaudamiesi Vyriausybės įgaliotos institucijos patvirtintu informacinio prieinamumo neįgaliesiems gerinimo veiksmų planu. Kaip įgyvendinamas šis planas, savo nustatyta ir prieš tai su Vyriausybės įgaliota institucija suderinta tvarka prižiūri Komisija, kuriai audiovizualinės žiniasklaidos paslaugų teikėjai reguliariai teikia informacinio prieinamumo neįgaliesiems gerinimo veiksmų plane numatytų priemonių įgyvendinimo ataskaitas. Apibendrintą šių priemonių įgyvendinimo ataskaitą Komisija teikia Europos Komisijai kas 3 metus. Komisijos interneto svetainėje viešai nurodoma informacija, leidžianti pateikti skundą dėl audiovizualinės žiniasklaidos paslaugų teikėjų skleidžiamos viešosios informacijos pritaikymo neįgaliesiems. Ši informacija turi būti lengvai prieinama neįgaliesiems. 
+Papildyta straipsnio dalimi:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
 
 
 
 
-4. Retransliuotojai, retransliuodami televizijos programas, ir (ar) kiti asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, pirmenybę turi teikti oficialioms Europos Sąjungos kalboms. Televizijos programos oficialiomis Europos Sąjungos kalbomis turi sudaryti ne mažiau kaip 90 procentų programų kiekio teikiant Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas ir (ar) ne mažiau kaip 90 procentų retransliuojamų televizijos programų kiekio kiekviename jų vartotojams siūlomame pagrindiniame televizijos programų pakete. Šis reikalavimas netaikomas už papildomą mokestį platinamiems televizijos programų paketams. Esant galimybei pasirinkti, kuria kalba retransliuoti ir (ar) platinti internete tokią pačią televizijos programą – oficialia Europos Sąjungos kalba ar kita kalba, retransliuotojai ir (ar) asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, privalo sudaryti visas sąlygas, kad televizijos programa ar atskira programa būtų retransliuojama ir (ar) platinama internete oficialia Europos Sąjungos kalba. 
+3. Radijo ir (ar) televizijos programos, transliuojamos ne lietuvių kalba, bet kita oficialia Europos Sąjungos kalba, taip pat radijo ir (ar) televizijos programas sudarančios atskiros programos, transliuojamos ne oficialia Europos Sąjungos kalba, jeigu tokių programų suminė trukmė per parą yra ne didesnė negu 90 minučių, turi būti verčiamos į lietuvių kalbą arba rodomos su lietuviškais subtitrais. Radijo ir (ar) televizijos programas sudarančios atskiros programos, transliuojamos ne oficialia Europos Sąjungos kalba, turi būti verčiamos į lietuvių kalbą, jeigu tokių programų suminė trukmė per parą yra didesnė negu 90 minučių. Skaičiuojant programų trukmę, neįskaitomas tokių programų pakartotinės transliacijos laikas, komercinių audiovizualinių pranešimų laikas ir anonsai. Ši nuostata netaikoma mokomosioms, proginėms, specialiosioms, muzikinėms ir retransliuojamoms užsienio valstybių radijo ir (ar) televizijos programoms ar atskiroms programoms, taip pat radijo ir (ar) televizijos programų transliuotojų sukurtoms programoms, skirtoms Lietuvos tautinėms mažumoms. Komisija, atsižvelgdama į tautinių mažumų, gyvenančių transliuojamų radijo ir (ar) televizijos programų aprėpties zonoje, poreikius, nurodydama licencijos sąlygas, gali nustatyti, kokią transliuojamų ir (ar) retransliuojamų radijo ir (ar) televizijos programų ar atskirų programų dalį turi sudaryti radijo ir (ar) televizijos programos ar atskiros programos tautinių mažumų kalbomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-1355, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11457
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
+
+
+
+
+4. Televizijos programų transliuotojams draudžiama rodyti audiovizualinius kūrinius, išverstus iš oficialios Europos Sąjungos kalbos į ne Europos Sąjungos kalbą.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
+ 
+
+
+
+
+5. Retransliuotojai, retransliuodami televizijos programas, ir (ar) kiti asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, pirmenybę turi teikti oficialioms Europos Sąjungos kalboms. Televizijos programos oficialiomis Europos Sąjungos kalbomis turi sudaryti ne mažiau kaip 90 procentų programų kiekio teikiant Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas ir (ar) ne mažiau kaip 90 procentų retransliuojamų televizijos programų kiekio kiekviename jų vartotojams siūlomame pagrindiniame televizijos programų pakete. Šis reikalavimas netaikomas už papildomą mokestį platinamiems televizijos programų paketams. Esant galimybei pasirinkti, kuria kalba retransliuoti ir (ar) platinti internete tokią pačią televizijos programą – oficialia Europos Sąjungos kalba ar kita kalba, retransliuotojai ir (ar) asmenys, teikiantys Lietuvos Respublikos vartotojams televizijos programų ar atskirų programų platinimo internete paslaugas, privalo sudaryti visas sąlygas, kad televizijos programa ar atskira programa būtų retransliuojama ir (ar) platinama internete oficialia Europos Sąjungos kalba. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
 Nr. XIII-1355, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11457
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
 
 
-5. Neoficialia Europos Sąjungos kalba retransliuojama ir (ar) platinama internete televizijos programa, kuri verčiama į oficialią Europos Sąjungos kalbą arba rodoma su oficialios Europos Sąjungos kalbos subtitrais, prilyginama programai, retransliuojamai ir (ar) platinamai internete oficialia Europos Sąjungos kalba. 
+6. Neoficialia Europos Sąjungos kalba retransliuojama ir (ar) platinama internete televizijos programa, kuri verčiama į oficialią Europos Sąjungos kalbą arba rodoma su oficialios Europos Sąjungos kalbos subtitrais, prilyginama programai, retransliuojamai ir (ar) platinamai internete oficialia Europos Sąjungos kalba. 
 Papildyta straipsnio dalimi:
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
 
 
-6. Jeigu televizijos programa transliuojama, retransliuojama ir (ar) platinama internete keliomis kalbomis, įskaitant ir oficialias Europos Sąjungos kalbas, tokia programa prilyginama programai, perduodamai ir (ar) skleidžiamai oficialia Europos Sąjungos kalba, tik tokiu atveju, kai esant techninėms galimybėms tokia programa vartotojams siunčiama ir (ar) skleidžiama su pirminiu nustatymu oficialia Europos Sąjungos kalba, o papildomų kalbų parinkimas yra galimas tik vartotojo valios veiksmu.
+7. Jeigu televizijos programa transliuojama, retransliuojama ir (ar) platinama internete keliomis kalbomis, įskaitant ir oficialias Europos Sąjungos kalbas, tokia programa prilyginama programai, perduodamai ir (ar) skleidžiamai oficialia Europos Sąjungos kalba, tik tokiu atveju, kai esant techninėms galimybėms tokia programa vartotojams siunčiama ir (ar) skleidžiama su pirminiu nustatymu oficialia Europos Sąjungos kalba, o papildomų kalbų parinkimas yra galimas tik vartotojo valios veiksmu.
 Papildyta straipsnio dalimi:
 Nr. XII-1731, 2015-05-21, paskelbta TAR 2015-06-01, i. k. 2015-08537
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-396, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09777
+Nr. XIV-180, 2021-01-14, paskelbta TAR 2021-01-26, i. k. 2021-01352
  
 
 
