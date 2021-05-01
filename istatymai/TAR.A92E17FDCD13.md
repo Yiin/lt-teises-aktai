@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A92E17FDCD13"
 
 # Lietuvos Respublikos medžioklės įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-04-30
+Suvestinė redakcija nuo 2021-05-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2634; Žin. 2002, Nr.112-0, i. k. 1021010ISTA00IX-966
  
@@ -229,7 +229,10 @@ Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
 
 
 
-2. Medžiojamųjų gyvūnų, laikomų ir naudojamų nelaisvėje pagal Aplinkos ministerijos ir Valstybinės maisto ir veterinarijos tarnybos patvirtintas Laukinių gyvūnų laikymo nelaisvėje taisykles, išteklių naudojimo teisė priklauso šių gyvūnų savininkui.
+2. Medžiojamųjų gyvūnų, laikomų ir naudojamų nelaisvėje pagal su Valstybine maisto ir veterinarijos tarnyba suderintas ir aplinkos ministro patvirtintas Laukinių gyvūnų naudojimo taisykles, išteklių naudojimo teisė priklauso šių gyvūnų savininkui.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3299, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21148
+ 
 
 
 
@@ -322,7 +325,10 @@ Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
 
 
 
-4) kartu su Valstybine maisto ir veterinarijos tarnyba tvirtina Laukinių gyvūnų laikymo nelaisvėje taisykles;
+4) Neteko galios nuo 2021-05-01
+Straipsnio punkto naikinimas:
+Nr. XIII-3299, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21148
+ 
 
 
 
@@ -1501,7 +1507,6 @@ Lietuvos Respublikos Vyriausybė, atsižvelgdama į šio Įstatymo ir kai kurių
 
 
  
- 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
@@ -1568,3 +1573,8 @@ Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 10 straipsnių pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3200, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15393
 Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 16 straipsnių pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas
+ 
+12.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3299, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21148
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4 ir 5 straipsnių pakeitimo įstatymas
