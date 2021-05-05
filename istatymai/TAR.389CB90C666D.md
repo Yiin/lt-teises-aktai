@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.389CB90C666D"
 
 # Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas
 
-Suvestinė redakcija nuo 2020-12-31 iki 2021-05-04
+Suvestinė redakcija nuo 2021-05-05 iki 2022-03-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 13-467, i. k. 1021010ISTA00IX-705
  
@@ -407,10 +407,11 @@ BENDROSIOS NUOSTATOS
 
 
 
-59. Specialiojo statuso subjektai – Lietuvos Respublikos specialiųjų tyrimų tarnyba, krašto apsaugos sistemos institucijos, Lietuvos Respublikos vidaus reikalų ministerija, vidaus reikalų ministro valdymo srities statutinės įstaigos, Lietuvos Respublikos valstybės saugumo departamentas, Lietuvos Respublikos generalinė prokuratūra, Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos, Lietuvos šaulių sąjunga, jų padaliniai ir pavaldžios įstaigos, Lietuvos Respublikos muitinė (ši sąvoka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos muitinės įstatyme), taip pat Lietuvos Respublikos vadovybės apsaugos tarnyba.
+59. Specialiojo statuso subjektai – Lietuvos Respublikos specialiųjų tyrimų tarnyba, krašto apsaugos sistemos institucijos, Lietuvos Respublikos vidaus reikalų ministerija, Vyriausybės įgaliota institucija, kuriai suteiktos teisės ir pareigos, nustatytos šio įstatymo 451 straipsnyje, vidaus reikalų ministro valdymo srities statutinės įstaigos, Lietuvos Respublikos valstybės saugumo departamentas, Lietuvos Respublikos generalinė prokuratūra, Kalėjimų departamentas prie Lietuvos Respublikos teisingumo ministerijos, Lietuvos šaulių sąjunga, jų padaliniai ir pavaldžios įstaigos, Lietuvos Respublikos muitinė (ši sąvoka suprantama taip, kaip ji apibrėžta Lietuvos Respublikos muitinės įstatyme), taip pat Lietuvos Respublikos vadovybės apsaugos tarnyba. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 Nr. XIII-2908, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10905
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
  
 
 
@@ -963,7 +964,10 @@ Ginklų, ginklų priedėlių, šaudmenų, jų dalių nuosavybės teisės subjekt
 
 
 
-8) šaulio tarnybai ar profesinės karo tarnybos kario, kario savanorio ir kito aktyviojo rezervo kario individualių praktinių įgūdžių tobulinimui;
+8) šaulio tarnybai ar profesinės karo tarnybos kario, kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario individualiems praktiniams įgūdžiams tobulinti; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+ 
 
 
 
@@ -1137,7 +1141,10 @@ Ginklų, ginklų priedėlių, šaudmenų, jų dalių nuosavybės teisės subjekt
 
 
 
-9. Šaulio tarnybai A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7, 8 ir 9 punktuose, duslintuvus, naktinius taikiklius, B ir C kategorijų ginklus, jų šaudmenis, gali įsigyti ir turėti ne jaunesni kaip 18 metų šauliai, Lietuvos šaulių sąjungos vado nustatyta tvarka išlaikę egzaminą ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Profesinės karo tarnybos kario, kario savanorio ir kito aktyviojo rezervo kario individualių praktinių įgūdžių tobulinimui A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7, 8 ir 9 punktuose, B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti profesinės karo tarnybos, kariai savanoriai ar kiti aktyviojo rezervo kariai, išlaikę egzaminą ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Leidimas laikyti ginklus ir leidimas nešiotis ginklus taip pat suteikia teisę nešiotis savigynai B kategorijos trumpuosius šaunamuosius ginklus taip, kad kiti asmenys jų nematytų.
+9. Šaulio tarnybai A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7, 8 ir 9 punktuose, duslintuvus, naktinius taikiklius, B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti ne jaunesni kaip 18 metų šauliai, Lietuvos šaulių sąjungos vado nustatyta tvarka išlaikę egzaminą ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Profesinės karo tarnybos kario, kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario individualiems praktiniams įgūdžiams tobulinti A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7, 8 ir 9 punktuose, B ir C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti profesinės karo tarnybos kariai, kariai savanoriai ar kiti savanoriškos nenuolatinės karo tarnybos kariai, turintys teisę tarnybos metu nešiotis šaunamąjį ginklą, pateikę specialiojo statuso subjekto pažymą, patvirtinančią, kad jie turi teisę tarnybos metu nešiotis šaunamąjį ginklą, ir gavę leidimą laikyti ginklus ir leidimą nešiotis ginklus. Leidimas laikyti ginklus ir leidimas nešiotis ginklus taip pat suteikia teisę nešiotis savigynai B kategorijos trumpuosius šaunamuosius ginklus taip, kad kiti asmenys jų nematytų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+ 
 
 
 
@@ -1162,7 +1169,9 @@ Ginklų, ginklų priedėlių, šaudmenų, jų dalių nuosavybės teisės subjekt
 
 
 
-14. Sportui A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7 ir 8 punktuose, jų šaudmenis gali įsigyti ir turėti ne jaunesni kaip 18 metų nuolatiniai Lietuvos Respublikos gyventojai – šaudymo sporto atstovai, kurie per paskutinius 12 mėnesių nuo prašymo dėl leidimo laikyti A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7 ir 8 punktuose, pateikimo dienos, reguliariai užsiėmė šaudymo sportu (dalyvavo bent dvejose tarptautinio ar nacionalinio lygmens šaudymo sporto varžybose) bei aktyviai treniravosi (dalyvavo bent dvejose tarptautinio ar nacionalinio lygmens šaudymo sporto pratybose) rengdamiesi šaudymo sporto varžyboms ir dalyvavo šaudymo sporto varžybose, kurias yra pripažinusi tarptautiniu mastu pripažinta šaudymo sporto šakos federacija arba nacionalinė šaudymo sporto šakos federacija, kai ginklas atitinka specifikacijas, būtinas šaudymo rungčiai, kurią yra pripažinusi tarptautiniu mastu pripažinta šaudymo sporto šakos federacija arba nacionalinė šaudymo sporto šakos federacija, gavę leidimą laikyti ginklus.
+14. Sportui A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7 ir 8 punktuose, jų šaudmenis gali įsigyti ir turėti ne jaunesni kaip 18 metų nuolatiniai Lietuvos Respublikos gyventojai – šaudymo sporto atstovai, kurie per paskutinius 12 mėnesių iki prašymo dėl leidimo laikyti A kategorijos ginklus, išvardytus šio įstatymo 3 straipsnio 6, 7 ir 8 punktuose, pateikimo dienos reguliariai užsiėmė šaudymo sportu (dalyvavo bent dvejose tarptautinio ar nacionalinio lygmens šaudymo sporto varžybose) ir aktyviai treniravosi (dalyvavo bent dvejose tarptautinio ar nacionalinio lygmens šaudymo sporto pratybose) rengdamiesi šaudymo sporto varžyboms, ir dalyvavo šaudymo sporto varžybose, kurias yra pripažinusi tarptautiniu mastu pripažinta šaudymo sporto šakos federacija arba nacionalinė šaudymo sporto šakos federacija, kai ginklas atitinka specifikacijas, būtinas šaudymo rungčiai, kurią yra pripažinusi tarptautiniu mastu pripažinta šaudymo sporto šakos federacija arba nacionalinė šaudymo sporto šakos federacija, gavę leidimą laikyti ginklus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
  
 
 
@@ -1240,7 +1249,10 @@ Ginklų, ginklų priedėlių, šaudmenų, jų dalių nuosavybės teisės subjekt
 16 straipsnis. Ginklo ir šaudmenų naudotojas
 
 
-1. Fizinis asmuo jam priklausantį B ar C kategorijos ginklą gali perleisti naudoti tik kartu gyvenančiam šeimos nariui, turinčiam teisę laikyti ar nešiotis B ar C kategorijos ginklą. Ginklas turi būti laikomas fizinio asmens, perleidusio jam priklausantį B ar C kategorijos ginklą naudoti kartu gyvenančiam šeimos nariui, būste. Laikyti ar nešiotis ginklą kartu gyvenantis šeimos narys gali tik šiame įstatyme nustatyta tvarka gavęs leidimą laikyti ginklus ar leidimą nešiotis ginklus.
+1. Fizinis asmuo jam priklausantį A kategorijos ginklą, nurodytą šio įstatymo 3 straipsnio 6, 7, 8 ir 9 punktuose, B ar C kategorijos ginklą gali perleisti naudoti tik kartu gyvenančiam šeimos nariui, turinčiam teisę laikyti ar nešiotis A kategorijos ginklą, nurodytą šio įstatymo 3 straipsnio 6, 7, 8 ir 9 punktuose, B ar C kategorijos ginklą. Ginklas turi būti laikomas fizinio asmens, perleidusio jam priklausantį A kategorijos ginklą, nurodytą šio įstatymo 3 straipsnio 6, 7, 8 ir 9 punktuose, B ar C kategorijos ginklą naudoti kartu gyvenančiam šeimos nariui, būste. Laikyti ar nešiotis ginklą kartu gyvenantis šeimos narys gali tik šiame įstatyme nustatyta tvarka gavęs leidimą laikyti ginklus ar leidimą nešiotis ginklus. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+ 
 
 
 
@@ -1296,7 +1308,10 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 
 
 
-3) sergantis kai kuriomis Lietuvos Respublikos sveikatos apsaugos ministro tvirtinamame sąraše nurodytomis ligomis ar turintis šiame sąraše nurodytų fizinių trūkumų, trukdančių tinkamai elgtis su ginklu;
+3) nepateikęs sveikatos patikrinimo išvados, patvirtinančios, kad jis neserga ligomis ar neturi fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+ 
 
 
 
@@ -1358,7 +1373,9 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 
 
 
-5. Šio straipsnio 1 dalies 3 ir 6 punktų nuostatos netaikomos specialiojo statuso subjektų pareigūnams ir (ar) kariams, turintiems teisę tarnybos metu nešiotis šaunamąjį ginklą ir norintiems gauti leidimą laikyti ginklus ar leidimą nešiotis ginklus. Šio straipsnio 1 dalies 6 punkto nuostatos netaikomos buvusiems specialiojo statuso subjektų pareigūnams ir (ar) kariams, pateikusiems pažymą (raštą), kad jie specialiojo statuso subjektų vadovų nustatyta tvarka yra išlaikę egzaminą (įskaitą) dėl tarnybinio ginklo nešiojimo (priskyrimo).
+5. Šio straipsnio 1 dalies 3 punkto nuostatos netaikomos specialiojo statuso subjektų pareigūnams, profesinės karo tarnybos kariams, kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, turintiems teisę tarnybos metu nešiotis šaunamąjį ginklą (pateikiama šio įstatymo 13 straipsnio 9 dalyje nustatyta pažyma) ir norintiems gauti leidimą laikyti ginklus ar leidimą nešiotis ginklus. Šio straipsnio 1 dalies 6 punkto nuostatos netaikomos esamiems (pateikiama šio įstatymo 13 straipsnio 9 dalyje nustatyta pažyma) ir buvusiems specialiojo statuso subjektų pareigūnams, profesinės karo tarnybos kariams, kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, norintiems gauti leidimą laikyti ginklus ar leidimą nešiotis ginklus savigynai ir pateikusiems specialiojo statuso subjekto pažymą, patvirtinančią, kad jie turėjo teisę tarnybos metu nešiotis šaunamąjį ginklą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
  
 
 
@@ -1377,84 +1394,72 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 2. Nepriekaištingos reputacijos asmeniu nelaikomas asmuo:
 
 
-1) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs tyčinį smurtinį nusikaltimą, už kurį Lietuvos Respublikos baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo;
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo (2019 m. birželio 27 d. redakcija; TAR, 2019-06-28, Nr. 10570) 18 straipsnio 2 dalies 1–4 punktai tiek, kiek juose nurodyti asmenys neterminuotai nėra laikomi nepriekaištingos reputacijos asmenimis ir pagal šio įstatymo 17 straipsnio 1 dalies 2 punktą visam laikui netenka teisės įsigyti ir turėti šio įstatymo 3 straipsnio 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų, prieštarauja konstituciniam teisinės valstybės principui.
-Straipsnio punkto pakeitimai:
-Nr. KT103-N7/2020, 2020-06-05, paskelbta TAR 2020-12-31, i. k. 2020-29221
+1) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs tyčinį smurtinį nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 6 metus laisvės atėmimo;
+
+
+
+
+2) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs tyčinį smurtinį nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus, bet neviršija 6 metų laisvės atėmimo, ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 15 metų;
+
+
+
+
+3) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo ir kurį padarė būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 15 metų;
+
+
+
+
+4) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo ir kurį padarė naudodamas sprogmenis, sprogstamąsias medžiagas arba šaunamuosius ginklus, ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 15 metų;
+
+
+
+
+5) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikaltimą, susijusį su disponavimu ginklais, šaudmenimis, sprogmenimis, sprogstamosiomis ar radioaktyviosiomis medžiagomis arba karine įranga, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo, ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 15 metų;
+
+
+
+
+6) turintis teistumą dėl Baudžiamajame kodekse nurodyto nusikaltimo ar dėl nusikaltimo pagal užsienio valstybių baudžiamuosius įstatymus, kuris atitinka Baudžiamajame kodekse nurodyto nusikaltimo sudėties požymius;
+
+
+
+
+7) dėl šios dalies 1–5 punktuose nurodytų nusikaltimų arba dėl padaryto tyčinio nusikaltimo panaudojant fizinį smurtą ar grasinimus, už kuriuos Baudžiamajame kodekse numatyta didžiausia bausmė neviršija 3 metų laisvės atėmimo, atleistas nuo baudžiamosios atsakomybės Baudžiamajame kodekse nustatytais pagrindais ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 3 metai;
+
+
+
+
+8) per pastaruosius metus įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs baudžiamąjį nusižengimą;
+
+
+
+
+9) įtariamas arba kaltinamas padaręs nusikalstamą veiką, nurodytą šios dalies  1–5 punktuose;
+
+
+
+
+10) kuriam Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatyta tvarka taikomi teismo įpareigojimai ar per pastaruosius 5 metus Organizuoto nusikalstamumo prevencijos įstatymo nustatyta tvarka buvo skirtas vienas ar keli teismo įpareigojimai;
+
+
+
+
+11) per metus pakartotinai padarė administracinį nusižengimą, kuriuo buvo šiurkščiai pažeisti medžioklę reglamentuojantys teisės aktai;
+
+
+
+
+12) kuris, būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, per metus pakartotinai padarė teisės pažeidimą;
+
+
+
+
+13) kuriam leidimo nešiotis ginklus, leidimo laikyti ginklus galiojimas buvo panaikintas ar nepratęstas šio straipsnio 2 dalyje, išskyrus šios dalies 9 punktą, ar kitų įstatymų nustatytais pagrindais, taip pat už kitus ginklų, ginklų priedėlių, šaudmenų, jų dalių apyvartos pažeidimus, ir nuo to laiko nėra praėję 3 metai. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
  
-
-
-
-
-2) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo ir kurį padarė būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų;
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo (2019 m. birželio 27 d. redakcija; TAR, 2019-06-28, Nr. 10570) 18 straipsnio 2 dalies 1–4 punktai tiek, kiek juose nurodyti asmenys neterminuotai nėra laikomi nepriekaištingos reputacijos asmenimis ir pagal šio įstatymo 17 straipsnio 1 dalies 2 punktą visam laikui netenka teisės įsigyti ir turėti šio įstatymo 3 straipsnio 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų, prieštarauja konstituciniam teisinės valstybės principui.
-Straipsnio punkto pakeitimai:
-Nr. KT103-N7/2020, 2020-06-05, paskelbta TAR 2020-12-31, i. k. 2020-29221
- 
-
-
-
-
-3) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikaltimą, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo ir kuris padarytas naudojant sprogmenis, sprogstamąsias medžiagas arba šaunamuosius ginklus;
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo (2019 m. birželio 27 d. redakcija; TAR, 2019-06-28, Nr. 10570) 18 straipsnio 2 dalies 1–4 punktai tiek, kiek juose nurodyti asmenys neterminuotai nėra laikomi nepriekaištingos reputacijos asmenimis ir pagal šio įstatymo 17 straipsnio 1 dalies 2 punktą visam laikui netenka teisės įsigyti ir turėti šio įstatymo 3 straipsnio 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų, prieštarauja konstituciniam teisinės valstybės principui.
-Straipsnio punkto pakeitimai:
-Nr. KT103-N7/2020, 2020-06-05, paskelbta TAR 2020-12-31, i. k. 2020-29221
- 
-
-
-
-
-4) įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs nusikaltimą, susijusį su disponavimu ginklais, šaudmenimis, sprogmenimis, sprogstamosiomis ar radioaktyviosiomis medžiagomis arba karine įranga, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė viršija 3 metus laisvės atėmimo;
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo (2019 m. birželio 27 d. redakcija; TAR, 2019-06-28, Nr. 10570) 18 straipsnio 2 dalies 1–4 punktai tiek, kiek juose nurodyti asmenys neterminuotai nėra laikomi nepriekaištingos reputacijos asmenimis ir pagal šio įstatymo 17 straipsnio 1 dalies 2 punktą visam laikui netenka teisės įsigyti ir turėti šio įstatymo 3 straipsnio 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų, prieštarauja konstituciniam teisinės valstybės principui.
-Straipsnio punkto pakeitimai:
-Nr. KT103-N7/2020, 2020-06-05, paskelbta TAR 2020-12-31, i. k. 2020-29221
- 
-
-
-
-
-5) turintis teistumą;
-
-
-
-
-6) per pastaruosius 3 metus dėl šios dalies 1–4 punktuose nurodytų nusikaltimų atleistas nuo baudžiamosios atsakomybės Baudžiamajame kodekse nustatytais pagrindais;
-
-
-
-
-7) per pastaruosius metus įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs baudžiamąjį nusižengimą;
-
-
-
-
-8) įtariamas arba kaltinamas padaręs nusikalstamą veiką, nurodytą šios dalies 1–4 punktuose;
-
-
-
-
-9) kuriam Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatyta tvarka taikomi teismo įpareigojimai ar per pastaruosius 5 metus Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatyta tvarka buvo skirtas vienas ar keli teismo įpareigojimai;
-Straipsnio punkto pakeitimai:
-Nr. XIII-3078, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14353
- 
-
-
-
-
-10) per metus pakartotinai padarė administracinį nusižengimą, kuriuo buvo šiurkščiai pažeisti medžioklę reglamentuojantys teisės aktai;
-
-
-
-
-11) kuris, būdamas apsvaigęs nuo alkoholio, narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, per metus pakartotinai padarė teisės pažeidimą;
-
-
-
-
-12) kuriam leidimo nešiotis ginklus, leidimo laikyti ginklus galiojimas buvo panaikintas ar nepratęstas šio straipsnio 2 dalyje, išskyrus šios dalies 8 punktą, ar kitų įstatymų nustatytais pagrindais, taip pat už kitus ginklų, ginklų priedėlių, šaudmenų, jų dalių apyvartos pažeidimus ir nuo to laiko nėra praėję 3 metai.
- 
-
-
 
 
 
@@ -1549,7 +1554,10 @@ VI SKYRIUS
 
 
 
-3) nustatoma, kad pareiškėjui (Europos fiziniam asmeniui, Europos juridiniam asmeniui, Europos juridinį asmenį kontroliuojantiesiems asmenims ar Europos juridinio asmens administracijos vadovui) buvo panaikintas licencijos ar rašytinio sutikimo galiojimas šio straipsnio 16 dalies 2, 3, 6, 8, 9, 10 punktuose nustatytais pagrindais ir nuo to laiko nepraėjo 3 metai;
+3) nustatoma, kad pareiškėjui (Europos fiziniam asmeniui, Europos juridiniam asmeniui, Europos juridinį asmenį kontroliuojantiesiems asmenims ar Europos juridinio asmens administracijos vadovui) buvo panaikintas licencijos ar rašytinio sutikimo galiojimas šio straipsnio 15 dalies 2, 3, 6, 8, 9, 10 punktuose nustatytais pagrindais, ir nuo to laiko nepraėjo 3 metai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+ 
 
 
 
@@ -1721,7 +1729,10 @@ Fiziniu asmeniu, kuris verčiasi licencijuojama veikla, ar juridinio asmens, kit
 
 
 
-8) prieš priimdamas į darbą naują darbuotoją, kurio darbas yra tiesiogiai susijęs su licencijuojama veikla, pateikti teritorinei policijos įstaigai šio asmens duomenis (vardą, pavardę, asmens kodą, gyvenamosios vietos adresą) ir medicininio patikrinimo išvadas, patvirtinančias, kad jis neserga sveikatos apsaugos ministro tvirtinamame sąraše nurodytomis ligomis ar neturi šiame sąraše nurodytų fizinių trūkumų, trukdančių tinkamai elgtis su ginklu;
+8) prieš priimdamas į darbą naują darbuotoją, kurio darbas yra tiesiogiai susijęs su licencijuojama veikla, pateikti teritorinei policijos įstaigai šio asmens duomenis (vardą, pavardę, asmens kodą, gyvenamosios vietos adresą) ir sveikatos patikrinimo išvadą, patvirtinančią, kad jis neserga ligomis ar neturi fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+ 
 
 
 
@@ -2113,7 +2124,10 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 
 
 
-4) B ir C kategorijų ginklus, jiems skirtus šaudmenis ir ginklų priedėlius fiziniams ir juridiniams asmenims, kitoms organizacijoms ar jų padaliniams, išskyrus specialiojo statuso subjektus, profesinės karo tarnybos karius, karius savanorius ir kitus aktyviojo rezervo karius, šaulius, nepaprastosios ar karo padėties atvejais.
+4) B ir C kategorijų ginklus, jiems skirtus šaudmenis ir ginklų priedėlius fiziniams ir juridiniams asmenims, kitoms organizacijoms ar jų padaliniams, išskyrus specialiojo statuso subjektus, profesinės karo tarnybos karius, karius savanorius ir kitus savanoriškos nenuolatinės karo tarnybos karius, šaulius, nepaprastosios ar karo padėties atvejais. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+ 
 
 
 
@@ -2327,7 +2341,10 @@ Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 
 
 
-7) prieš priimdamas į darbą naują darbuotoją, kurio darbas bus tiesiogiai susijęs su ginklų, ginklų priedėlių, šaudmenų, jų dalių apyvarta, pateikti teritorinei policijos įstaigai šio asmens duomenis (vardą, pavardę, asmens kodą, gyvenamosios vietos adresą) ir medicininio patikrinimo išvadas, patvirtinančias, kad jis neserga sveikatos apsaugos ministro tvirtinamame sąraše nurodytomis ligomis ar neturi šiame sąraše nurodytų fizinių trūkumų, trukdančių tinkamai elgtis su ginklu; 
+7) prieš priimdamas į darbą naują darbuotoją, kurio darbas bus tiesiogiai susijęs su ginklų, ginklų priedėlių, šaudmenų, jų dalių apyvarta, pateikti teritorinei policijos įstaigai šio asmens duomenis (vardą, pavardę, asmens kodą, gyvenamosios vietos adresą) ir sveikatos patikrinimo išvadą, patvirtinančią, kad jis neserga ligomis ar neturi fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+ 
 
 
 
@@ -2687,7 +2704,10 @@ Ginklininkas privalo:
 
 
 
-2) atiduoti policijos įstaigai laikinai saugoti jų turimus ginklus, ginklų priedėlius, šaudmenis, jų dalis dėl pablogėjusios sveikatos būklės. Šiuo atveju policijos įstaiga ginklus saugo, iki asmuo pateikia sveikatos priežiūros įstaigos pažymą, kad neserga ligomis ir neturi fizinių trūkumų, trukdančių tinkamai elgtis su ginklu, bei psichikos ir elgesio sutrikimų. 
+2) atiduoti policijos įstaigai laikinai saugoti jų turimus ginklus, ginklų priedėlius, šaudmenis, jų dalis dėl pablogėjusios sveikatos būklės. Šiuo atveju policijos įstaiga ginklus saugo, iki asmuo pateikia sveikatos patikrinimo išvadą, patvirtinančią, kad jis neserga ligomis ar neturi fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -3045,22 +3065,22 @@ Pavienių ginklų, Jų priedėlių, šaudmenų, Jų DALIŲ įvežimas, išvežim
 12. Leidimas įvežti (išvežti) pavienius ginklus, išankstinis sutikimas dėl ginklų vežimo, leidimas vežti ginklus ir Europos šaunamojo ginklo leidimas neišduodamas, jeigu paaiškėja bent viena iš šių aplinkybių:
 
 
-1)         pateikti ne visi reikiami dokumentai arba jie netinkamai įforminti ir per policijos įstaigos nustatytą terminą jie nepatikslinami ir (ar) nepateikiami trūkstami dokumentai;
+1) pateikti ne visi reikiami dokumentai arba jie netinkamai įforminti ir per policijos įstaigos nustatytą terminą jie nepatikslinami ir (ar) nepateikiami trūkstami dokumentai;
 
 
 
 
-2)         Europos Sąjungos valstybė narė nesutinka leisti vežti ginklus, ginklų priedėlius, šaudmenis, jų dalis į jos teritoriją (ši aplinkybė taikoma tik leidimo vežti ginklus neišdavimo atveju);
+2) Europos Sąjungos valstybė narė nesutinka leisti vežti ginklus, ginklų priedėlius, šaudmenis, jų dalis į jos teritoriją (ši aplinkybė taikoma tik leidimo vežti ginklus neišdavimo atveju);
 
 
 
 
-3)         norima įvežti, išvežti, gabenti tranzitu ar vežti ginklus, ginklų priedėlius, šaudmenis, jų dalis, kurių civilinė apyvarta draudžiama;
+3) norima įvežti, išvežti, gabenti tranzitu ar vežti ginklus, ginklų priedėlius, šaudmenis, jų dalis, kurių civilinė apyvarta draudžiama;
 
 
 
 
-4)         jo išdavimas prieštarauja Sutartyje dėl prekybos ginklais ir Bendrojoje pozicijoje 2008/944/BUSP nurodytiems kriterijams;
+4) jo išdavimas prieštarauja Sutartyje dėl prekybos ginklais ir Bendrojoje pozicijoje 2008/944/BUSP nurodytiems kriterijams;
 
 
 
@@ -3247,7 +3267,10 @@ leidimų nešiotis GINKLUS ir leidimų laikyti GINKLus GALIOJIMO panaikinimas
 
 
 
-5) atsiradus šio įstatymo 17 straipsnio 1 dalies 3, 4, 7, 9 punktuose ir (ar) 18 straipsnio 2 dalyje, išskyrus 18 straipsnio 2 dalies 8 punktą, numatytoms sąlygoms;
+5) atsiradus šio įstatymo 17 straipsnio 1 dalies 3, 4, 7, 9 punktuose ir (ar) 18 straipsnio 2 dalyje, išskyrus 18 straipsnio 2 dalies 9 punktą, numatytoms sąlygoms; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+ 
 
 
 
@@ -3309,7 +3332,10 @@ leidimų nešiotis GINKLUS ir leidimų laikyti GINKLus GALIOJIMO panaikinimas
 
 
 
-5. Fizinio asmens, turinčio ginklą šaulio tarnybai, leidimo laikyti ginklus ir leidimo nešiotis ginklus galiojimas panaikinamas netekus narystės Lietuvos šaulių sąjungoje. Profesinės karo tarnybos kario, kario savanorio ir kito aktyviojo rezervo kario individualių praktinių įgūdžių tobulinimui leidimo laikyti ginklus ir leidimo nešiotis ginklus galiojimas panaikinamas karį atleidus iš tarnybos.
+5. Fizinio asmens, turinčio ginklą šaulio tarnybai, leidimo laikyti ginklus ir leidimo nešiotis ginklus galiojimas panaikinamas netekus narystės Lietuvos šaulių sąjungoje. Profesinės karo tarnybos kario, kario savanorio ir kito savanoriškos nenuolatinės karo tarnybos kario individualiems praktiniams įgūdžiams tobulinti leidimo laikyti ginklus ir leidimo nešiotis ginklus galiojimas panaikinamas karį atleidus iš tarnybos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+ 
 
 
 
@@ -3370,12 +3396,18 @@ GINKLŲ, GINKLŲ PRIEDĖLIŲ, ŠAUDMENŲ, JŲ DALIŲ PAĖMIMAS, PAVELDĖJIMAS, D
 
 
 
-5) kai asmuo įtariamas ar kaltinamas padaręs nusikalstamą veiką, nurodytą šio įstatymo 18 straipsnio 2 dalies 1, 2, 3 ir 4 punktuose;
+5) kai asmuo įtariamas ar kaltinamas padaręs nusikalstamą veiką, nurodytą šio įstatymo 18 straipsnio 2 dalies 1, 2, 3, 4 ir 5 punktuose; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+ 
 
 
 
 
-6) kai yra pakankamas pagrindas įtarti, kad asmuo serga sveikatos apsaugos ministro tvirtinamame sąraše nurodytomis ligomis ar turi šiame sąraše nurodytų fizinių trūkumų, trukdančių tinkamai elgtis su ginklu; 
+6) kai yra pakankamas pagrindas įtarti, kad asmuo serga ligomis ar turi fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+ 
 
 
 
@@ -3714,7 +3746,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
  
 
 
@@ -3904,3 +3936,8 @@ Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 18 st
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT103-N7/2020, 2020-06-05, paskelbta TAR 2020-12-31, i. k. 2020-29221
 Dėl Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 18 straipsnio 2 dalies 1–4 punktų atitikties Lietuvos Respublikos Konstitucijai
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 2, 11, 13, 16, 17, 18, 19, 21, 24, 25, 30, 40 ir 41 straipsnių pakeitimo įstatymas
