@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ BANKROTO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2021-05-18
+Suvestinė redakcija nuo 2021-05-19 iki 2021-07-08
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 57-2823, i. k. 1121010ISTA0XI-2000
  
@@ -2132,7 +2132,11 @@ KREDITORIŲ REIKALAVIMŲ TENKINIMAS IR FIZINIO ASMENS BANKROTO PROCESO PABAIGA
 
 
 
-7. Plane numatyti likę nepatenkinti kreditorių reikalavimai, tarp jų įkeitimu ir (ar) hipoteka užtikrinti kreditorių reikalavimai, baigus fizinio asmens bankroto procesą, išskyrus šio įstatymo 30 straipsnio 3 dalies 2 punkte nurodytą atvejį, nurašomi, išskyrus reikalavimus dėl lėšų vaikui (įvaikiui) išlaikyti (alimentų) ir reikalavimus, kurie kyla iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus administracinius nusižengimus arba nusikalstamas veikas, ir įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus, jeigu šie kreditoriai ir fizinis asmuo susitarė dėl įkeisto turto išsaugojimo fizinio asmens bankroto proceso metu, nebent šio įstatymo 4 straipsnio 4 dalies 10 punkte nurodytame susitarime susitarta kitaip. 
+7. Plane numatyti likę nepatenkinti kreditorių reikalavimai, tarp jų įkeitimu ir (ar) hipoteka užtikrinti kreditorių reikalavimai, baigus fizinio asmens bankroto procesą, išskyrus šio įstatymo 30 straipsnio 3 dalies 2 punkte nurodytą atvejį, nurašomi, išskyrus reikalavimus dėl lėšų vaikui (įvaikiui) išlaikyti (alimentų) ir reikalavimus, kurie kyla iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus administracinius nusižengimus arba nusikalstamas veikas, ir įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus, jeigu šie kreditoriai ir fizinis asmuo susitarė dėl įkeisto turto išsaugojimo fizinio asmens bankroto proceso metu, nebent šio įstatymo 4 straipsnio 4 dalies 10 punkte nurodytame susitarime susitarta kitaip.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalis (2019 m. birželio 13 d. redakcija, TAR, 2019-06-27, Nr. 10340) tiek, kiek pagal ją nurašomi reikalavimai dėl nusikalstamomis veikomis padarytos žalos atlyginimo, prieštarauja Lietuvos Respublikos Konstitucijos 5 straipsnio 1, 2 dalims, 7 straipsnio 1 daliai, 30 straipsnio 2 daliai, 107 straipsnio 2 daliai, konstituciniams teisingumo, teisinės valstybės principams.
+Straipsnio dalies pakeitimai:
+Nr. KT74-N7/2021, 2021-05-19, paskelbta TAR 2021-05-19, i. k. 2021-11041
+ 
 
 
 
@@ -2383,3 +2387,8 @@ Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 1, 3, 5, 6,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
 Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 2, 6, 11, 12, 13, 14, 21, 23 ir 29 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT74-N7/2021, 2021-05-19, paskelbta TAR 2021-05-19, i. k. 2021-11041
+Dėl Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalies (2019 m. birželio 13 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
