@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FF33B3BF23DD"
 
 # Lietuvos Respublikos farmacijos įstatymas
 
-Suvestinė redakcija nuo 2020-12-31 iki 2021-05-25
+Suvestinė redakcija nuo 2021-05-26 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 78-3056, i. k. 1061010ISTA000X-709
  
@@ -494,11 +494,12 @@ Nr. XII-1438, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20557
 
 
 
-381. Receptas – dokumentas, kuriuo suteikiama teisė įsigyti vaistinį preparatą, medicinos priemonę (medicinos prietaisą), kompensuojamąją medicinos pagalbos priemonę ir kuris išrašytas reglamentuojamos sveikatos priežiūros profesijos, nurodytos Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, atstovo, teisiškai įgalioto tą daryti valstybėje, kurioje išrašytas tas dokumentas.
+381. Receptas – dokumentas, kuriuo suteikiama teisė įsigyti vaistinį preparatą, medicinos priemonę, kompensuojamąją medicinos pagalbos priemonę ir kuris išrašytas reglamentuojamos sveikatos priežiūros profesijos, nurodytos Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme, atstovo, teisiškai įgalioto tą daryti valstybėje, kurioje išrašytas tas dokumentas. 
 Papildyta straipsnio dalimi:
 Nr. XII-1914, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11092
 Straipsnio dalies pakeitimai:
 Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
+Nr. XIII-2763, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00048
  
 
 
@@ -1838,9 +1839,10 @@ Nr. XIII-1559, 2018-10-18, paskelbta TAR 2018-10-30, i. k. 2018-17329
 
 
 
-11. Receptų rašymo, vaistinių preparatų, medicinos priemonių (prietaisų) ir kompensuojamųjų medicinos pagalbos priemonių išdavimo (pardavimo) vaistinėse gyventojams taisykles, popierinių receptų, pagal kuriuos vaistinėse buvo išduoti (parduoti) vaistiniai preparatai, medicinos priemonės (prietaisai) ir kompensuojamosios medicinos pagalbos priemonės, saugojimo ir naikinimo tvarką vaistinėse nustato sveikatos apsaugos ministras. Receptų blankų, kuriuose išrašomi kompensuojamieji vaistiniai preparatai ir kompensuojamosios medicinos pagalbos priemonės, įsigijimo, apskaitos, saugojimo ir išdavimo tvarką nustato sveikatos apsaugos ministras ar jo įgaliotas asmuo. 
+11. Receptų rašymo, vaistinių preparatų, medicinos priemonių ir kompensuojamųjų medicinos pagalbos priemonių išdavimo (pardavimo) vaistinėse gyventojams taisykles, popierinių receptų, pagal kuriuos vaistinėse buvo išduoti (parduoti) vaistiniai preparatai, medicinos priemonės ir kompensuojamosios medicinos pagalbos priemonės, saugojimo ir naikinimo tvarką vaistinėse nustato sveikatos apsaugos ministras. Receptų blankų, kuriuose išrašomi kompensuojamieji vaistiniai preparatai ir kompensuojamosios medicinos pagalbos priemonės, įsigijimo, apskaitos, saugojimo ir išdavimo tvarką nustato sveikatos apsaugos ministras ar jo įgaliotas asmuo. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1971, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16901
+Nr. XIII-2763, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00048
  
 
 
@@ -6761,7 +6763,6 @@ Nr. XIII-937, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21611
 
 
 3. Už sveikatos apsaugos ministro įgaliotos institucijos atliekamą paraiškos įrašyti vaistinį preparatą ar medicinos pagalbos priemonę į šio straipsnio 1 dalyje nurodytus sąrašus ir kartu su paraiška pateiktų dokumentų vertinimą mokama nustatyto dydžio valstybės rinkliava. Jeigu sveikatos apsaugos ministro įgaliota institucija, patikrinusi paraišką ir kartu su ja pateiktus dokumentus, nustato, kad nesumokėta valstybės rinkliava, paraiškos ir dokumentų vertinimas neatliekamas.
-TAR pastaba. 58 straipsnio 3 dalis įsigalioja 2020-01-01
 
 
 
