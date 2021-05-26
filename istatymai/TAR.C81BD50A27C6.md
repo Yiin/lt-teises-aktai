@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-05-25
+Suvestinė redakcija nuo 2021-05-26 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -391,10 +391,12 @@ Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
 
 
 
-4. Pareiškėjas, siekiantis gauti asmens sveikatos priežiūros veiklos licenciją ar įgyti teisę teikti naujas licencijuojamas asmens sveikatos priežiūros paslaugas, Valstybinei akreditavimo sveikatos priežiūros veiklai tarnybai per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) arba kreipdamasis tiesiogiai pateikia prašymą išduoti asmens sveikatos priežiūros veiklos licenciją ar prašymą patikslinti licenciją, Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nurodytus dokumentus, patvirtinančius, kad pareiškėjas atitinka Lietuvos Respublikos įstatymų, Lietuvos Respublikos Vyriausybės nutarimų ir Lietuvos Respublikos sveikatos apsaugos ministro įsakymų, reglamentuojančių asmens sveikatos priežiūros įstaigų veiklą, nustatytus higienos, medicinos priemonių (prietaisų) (toliau – medicinos priemonės), apsirūpinimo asmeninės apsaugos priemonių ir kitų veiklos vykdymui užtikrinti būtinų priemonių atsargomis, personalo, patalpų ir teisinės formos reikalavimus. 
+4. Pareiškėjas, siekiantis gauti asmens sveikatos priežiūros veiklos licenciją ar įgyti teisę teikti naujas licencijuojamas asmens sveikatos priežiūros paslaugas, Valstybinei akreditavimo sveikatos priežiūros veiklai tarnybai per atstumą, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą (toliau – kontaktinis centras) arba kreipdamasis tiesiogiai pateikia prašymą išduoti asmens sveikatos priežiūros veiklos licenciją ar prašymą patikslinti licenciją, Asmens sveikatos priežiūros įstaigų licencijavimo taisyklėse nurodytus dokumentus, patvirtinančius, kad pareiškėjas atitinka Lietuvos Respublikos įstatymų, Lietuvos Respublikos Vyriausybės nutarimų ir Lietuvos Respublikos sveikatos apsaugos ministro įsakymų, reglamentuojančių asmens sveikatos priežiūros įstaigų veiklą, nustatytus higienos, medicinos priemonių, apsirūpinimo asmeninės apsaugos priemonių ir kitų veiklos vykdymui užtikrinti būtinų priemonių atsargomis, personalo, patalpų ir teisinės formos reikalavimus.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2378, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12801
 Nr. XIII-3339, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24228
+Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+Nr. XIII-3343, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24232
  
 
 
@@ -2651,22 +2653,34 @@ Sveikatos priežiūros įstaigų teises nustato Sveikatos sistemos įstatymas, �
 
 
 
-12) naudoti, instaliuoti ir prižiūrėti medicinos priemones vadovaujantis gamintojo su medicinos priemonėmis pateikiama informacija ir laikantis sveikatos apsaugos ministro nustatytų reikalavimų;
+12) naudoti, instaliuoti ir prižiūrėti medicinos priemones 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009, ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB (OL 2017 L 117, p. 1) (toliau – Reglamentas (ES) 2017/745), arba in vitro diagnostikos medicinos priemonių saugos techninio reglamento, kurį tvirtina sveikatos apsaugos ministras (toliau – IVD reglamentas), Sveikatos sistemos įstatymo ir sveikatos apsaugos ministro nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+ 
 
 
 
 
-13) sveikatos apsaugos ministro nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis;
+13) Reglamento (ES) 2017/745 arba IVD reglamento, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+ 
 
 
 
 
-14) sveikatos apsaugos ministro nustatyta tvarka registruoti ir teikti informaciją apie incidentus, susijusius su medicinos priemonėmis;
+14) Reglamento (ES) 2017/745 arba IVD reglamento, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+ 
 
 
 
 
-15) sužinojus, kad medicinos priemonės neatitinka sveikatos apsaugos ministro nustatytų reikalavimų ar gali kenkti pacientų, medicinos priemonių naudotojų saugai, nutraukti medicinos priemonių naudojimą ir (ar) imtis reikiamų veiksmų keliamam pavojui pašalinti, taip pat apie tai informuoti sveikatos apsaugos ministro įgaliotą instituciją, atsakingą už medicinos priemones;
+15) sužinojusi, kad medicinos priemonės neatitinka Reglamento (ES) 2017/745 arba IVD reglamento, Sveikatos sistemos įstatymo ar sveikatos apsaugos ministro nustatytų reikalavimų, nedelsdama nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių vartotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+ 
 
 
 
@@ -2956,22 +2970,34 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 
 
 
-5) naudoti, instaliuoti ir prižiūrėti medicinos priemones vadovaujantis gamintojo su medicinos priemonėmis pateikiama informacija ir laikantis sveikatos apsaugos ministro nustatytų reikalavimų;
+5) naudoti, instaliuoti ir prižiūrėti medicinos priemones Reglamento (ES) 2017/745 arba IVD reglamento, Sveikatos sistemos įstatymo ir sveikatos apsaugos ministro nustatyta tvarka; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+ 
 
 
 
 
-6) sveikatos apsaugos ministro nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis;
+6) Reglamento (ES) 2017/745 arba IVD reglamento, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+ 
 
 
 
 
-7) sveikatos apsaugos ministro nustatyta tvarka registruoti ir teikti informaciją apie incidentus, susijusius su medicinos priemonėmis;
+7) Reglamento (ES) 2017/745 arba IVD reglamento, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+ 
 
 
 
 
-8) sužinojus, kad medicinos priemonės neatitinka sveikatos apsaugos ministro nustatytų reikalavimų ar gali kenkti pacientų, naudotojų saugai, nutraukti medicinos priemonių naudojimą ir (ar) imtis reikiamų veiksmų keliamam pavojui pašalinti, taip pat apie tai informuoti sveikatos apsaugos ministro įgaliotą instituciją, atsakingą už medicinos priemones.
+8) sužinojus, kad medicinos priemonės neatitinka Reglamento (ES) 2017/745 arba IVD reglamento, Sveikatos sistemos įstatymo ar sveikatos apsaugos ministro nustatytų reikalavimų,  nedelsiant nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių vartotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -3251,7 +3277,10 @@ Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
 
 
 
-5) medicinos priemonės naudojamos, instaliuojamos ir prižiūrimos nesilaikant sveikatos apsaugos ministro nustatytų reikalavimų. 
+5) medicinos priemonės naudojamos, instaliuojamos ir prižiūrimos nesilaikant Reglamento (ES) 2017/745 arba IVD reglamento, Sveikatos sistemos įstatymo ir sveikatos apsaugos ministro nustatytų reikalavimų.
+Straipsnio punkto pakeitimai:
+Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -3790,3 +3819,18 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 3 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3339, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24228
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5 straipsnio pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5, 45, 50 ir 54 straipsnių pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2948, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11068
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5, 45, 50 ir 54 straipsnių pakeitimo įstatymo Nr. XIII-2756 5 straipsnio pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3343, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24232
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5, 45, 50 ir 54 straipsnių pakeitimo įstatymo Nr. XIII-2756 1 straipsnio pakeitimo įstatymas
