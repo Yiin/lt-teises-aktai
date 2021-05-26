@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED68997709F5"
 
 # Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-05-25
+Suvestinė redakcija nuo 2021-05-26 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 35-1271; Žin. 2002, Nr.40-0; Žin. 2002, Nr.46-0; Žin. 2002, Nr.48-0, i. k. 1021010ISTA00IX-751
  
@@ -2060,7 +2060,7 @@ Nr. XIV-113, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28971
 
 
 
-3) iki 2022 m. gruodžio 31 d. tiekiamoms in vitro diagnostikos medicinos priemonėms (prietaisams), skirtoms (skirtiems) COVID-19 ligos (koronaviruso infekcijos) diagnostikai. 
+3) iki 2022 m. gruodžio 31 d. tiekiamoms in vitro diagnostikos medicinos priemonėms, skirtoms COVID-19 ligos (koronaviruso infekcijos) diagnostikai.
 
 
 Straipsnio dalies pakeitimai:
