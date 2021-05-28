@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-05-27
+Suvestinė redakcija nuo 2021-05-28 iki 2021-06-02
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -214,10 +214,11 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-11. Klientas – fizinis arba juridinis asmuo, atliekantis pinigines operacijas arba sudarantis sandorius su finansų įstaiga ar kitu įpareigotuoju subjektu. Juridiniu asmeniu taip pat laikoma bet kuri užsienio valstybės organizacija, pagal Lietuvos Respublikos ar užsienio valstybės įstatymus pripažįstama teisės subjektu. 
+11. Klientas – fizinis ar juridinis asmuo arba kolektyvinio investavimo  subjektas, atliekantys pinigines operacijas arba sudarantys sandorius su finansų įstaiga ar kitu įpareigotuoju subjektu. Juridiniu asmeniu taip pat laikoma bet kuri užsienio valstybės organizacija, pagal Lietuvos Respublikos ar užsienio valstybės įstatymus pripažįstama teisės subjektu. Kai šio įstatymo nuostatos taikomos klientui – ir juridiniam asmeniui, ir kolektyvinio investavimo subjektui, vartojama sąvoka „juridinis asmuo“.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
  
 
 
@@ -249,7 +250,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 1) juridiniame asmenyje: 
 
 
-a) fizinis asmuo, kuriam priklauso juridinis asmuo ar kuris jį valdo tiesiogiai ar netiesiogiai, turėdamas pakankamą procentinę dalį to juridinio asmens akcijų arba balsavimo teisių, įskaitant per pareikštinių akcijų valdymą, išskyrus akcines bendroves, kurių vertybiniais popieriais prekiaujama reguliuojamose rinkose, kuriose taikomi Europos Sąjungos teisės aktus atitinkantys reikalavimai atskleisti informaciją apie savo veiklą, arba lygiaverčiai tarptautiniai standartai, arba jį kontroliuodamas kitais būdais. Fizinis asmuo, kuris turi 25 procentus ir vieną akciją arba didesnę negu 25 procentų kliento nuosavybės dalį, yra laikomas tiesioginiu savininku. Fizinis (fiziniai) asmuo (asmenys), kontroliuojantis (kontroliuojantys) įmonę arba kelias įmones, kuri (kurios) turi 25 procentus ir vieną akciją arba didesnę kaip 25 procentų kliento nuosavybės dalį, yra laikomas (laikomi) netiesioginiu (netiesioginiais) savininku (savininkais);
+a) fizinis asmuo, kuriam priklauso juridinis asmuo ar kuris jį valdo tiesiogiai ar netiesiogiai, turėdamas pakankamą procentinę dalį to juridinio asmens akcijų arba balsavimo teisių, įskaitant valdymą per pareikštines akcijas, išskyrus akcines bendroves ar kolektyvinio investavimo  subjektus, kurių vertybiniais popieriais prekiaujama reguliuojamose rinkose, kuriose taikomi Europos Sąjungos teisės aktus atitinkantys reikalavimai atskleisti informaciją apie savo veiklą, arba lygiaverčiai tarptautiniai standartai, arba jį kontroliuodamas kitais būdais. Fizinis asmuo, kuris turi 25 procentus ir vieną akciją arba didesnę negu 25 procentų kliento nuosavybės dalį, yra laikomas tiesioginiu savininku. Fizinis (fiziniai) asmuo (asmenys), kontroliuojantis (kontroliuojantys) įmonę arba kelias įmones, kuri (kurios) turi 25 procentus ir vieną akciją arba didesnę kaip 25 procentų kliento nuosavybės dalį, yra laikomas (laikomi) netiesioginiu (netiesioginiais) savininku (savininkais);
+Papunkčio pakeitimai:
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+ 
 
 
 
@@ -1379,7 +1383,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-2) naudojant Europos Sąjungoje išduotas elektroninės atpažinties priemones, veikiančias pagal aukšto arba pakankamo saugumo užtikrinimo lygio elektroninės atpažinties schemas, nustatytas 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB (OL 2014 L 257, p. 73) (toliau – Reglamentas (ES) Nr. 910/2014);
+2) naudojant Europos Sąjungoje išduotas elektroninės atpažinties priemones, veikiančias pagal aukšto arba pakankamo saugumo užtikrinimo lygio elektroninės atpažinties schemas, nustatytas 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB;
+Straipsnio punkto pakeitimai:
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+ 
 
 
 
@@ -1417,17 +1424,20 @@ Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
 
 
 
-2. Nustatyti kliento ir naudos gavėjo tapatybę šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytais atvejais galima tik tada, kai yra visos šios sąlygos:
+2. Nustatant kliento ir naudos gavėjo tapatybę šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytais atvejais, laikomasi šių sąlygų:
 
 
-1) prieš nustatant kliento ir naudos gavėjo tapatybę šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytais atvejais kliento tapatybė trečiosios šalies buvo nustatyta jam fiziškai dalyvaujant arba naudojant elektronines priemones, leidžiančias tiesioginį vaizdo perdavimą vienu iš būdų, nurodytų šio straipsnio 1 dalies 4 punkte, arba šio straipsnio 1 dalies 5 punkte nurodytu būdu, taip pat kai kliento tapatybė buvo nustatyta jam fiziškai dalyvaujant išduodant elektroninės atpažinties priemonę, veikiančią pagal aukšto arba pakankamo saugumo užtikrinimo lygio elektroninės atpažinties schemą, ar prieš išduodant jam kvalifikuotą elektroninio parašo sertifikatą;
+1) prieš nustatant kliento ir naudos gavėjo tapatybę šio straipsnio 1 dalies 1 ir 2 punktuose nurodytais atvejais kliento tapatybė trečiosios šalies buvo nustatyta jam fiziškai dalyvaujant arba naudojant elektronines priemones, leidžiančias tiesioginį vaizdo perdavimą vienu iš būdų, nurodytų šio straipsnio 1 dalies 4 punkte, arba šio straipsnio 1 dalies 5 punkte nurodytu būdu, taip pat kai kliento tapatybė buvo nustatyta jam fiziškai dalyvaujant išduodant elektroninės atpažinties priemonę, veikiančią pagal aukšto arba pakankamo saugumo užtikrinimo lygio elektroninės atpažinties schemą;
 
 
 
 
-2) kliento ir naudos gavėjo – fizinio asmens ir juridinio asmens atstovo tapatybė šio įstatymo 9 straipsnyje nurodytais atvejais buvo nustatyta iš šio įstatymo 10 straipsnyje nurodytų dokumentų.
+2) prieš nustatant kliento ir naudos gavėjo tapatybę šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytais atvejais, kliento ir naudos gavėjo – fizinio asmens ir juridinio asmens atstovo tapatybė šio įstatymo 9 straipsnyje nurodytais atvejais buvo nustatyta iš šio įstatymo 10 straipsnyje nurodytų dokumentų.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+ 
 
 
 
@@ -4399,3 +4409,8 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
 Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 10 ir 11 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 7, 11, 14, 15, 16, 22, 25-2, 51 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 5-1 straipsniu įstatymas
