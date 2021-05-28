@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2021-01-20 iki 2021-05-27
+Suvestinė redakcija nuo 2021-05-28 iki 2022-01-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 53-996, i. k. 0941010ISTA000I-532
  
@@ -1970,6 +1970,10 @@ Nr. XIII-2786, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02278
 12) savivaldybės tarybos sprendimu Lietuvos Respublikos vietos savivaldos įstatymo nustatyta tvarka;
 
 13) jis išrenkamas Lietuvos Respublikos Seimo nariu;
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo 88 straipsnio (2020 m. sausio 14 d. redakcija, TAR, 2020-01-31, Nr. 2278) 1 dalies 13 punktas, 2 dalies (2020 m. gegužės 28 d. redakcija, TAR, 2020-06-11, Nr. 12827) nuostata „(išskyrus atvejus, kai jis išrenkamas Lietuvos Respublikos Seimo nariu)“ prieštarauja Lietuvos Respublikos Konstitucijos 34 straipsnio 2 daliai, 59 straipsnio 2, 3 dalims, 60 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
+Straipsnio punkto pakeitimai:
+Nr. KT84-N8/2021, 2021-05-28, paskelbta TAR 2021-05-28, i. k. 2021-12007
+ 
 
 14) jis neįvykdė šio įstatymo 36 straipsnio 14 dalyje nustatyto reikalavimo nurodyti, kad yra sąmoningai bendradarbiavęs su buvusios SSRS specialiosiomis tarnybomis ne pagal Lietuvos Respublikos užduotis, ir po savivaldybių tarybų rinkimų įstatymų nustatyta tvarka įrodoma, kad jis ne pagal Lietuvos Respublikos užduotis sąmoningai bendradarbiavo su buvusios SSRS specialiosiomis tarnybomis. 
 Papildyta straipsnio punktu:
@@ -1977,8 +1981,10 @@ Nr. XIII-3001, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12827
  
 
 2. Savivaldybės tarybos narys, prieš pradėdamas eiti pareigas, pagal Konstituciją, šį ar kitus įstatymus nesuderinamas su savivaldybės tarybos nario pareigomis (išskyrus atvejus, kai jis išrenkamas Lietuvos Respublikos Seimo nariu), asmeniškai ne vėliau kaip prieš 10 dienų paduoda savivaldybės merui ir Vyriausiajai rinkimų komisijai rašytinį pareiškimą (pareiškimus) dėl savivaldybės tarybos nario mandato atsisakymo arba šį pareiškimą pasirašęs kvalifikuotu elektroniniu parašu ar patvirtinęs notarine tvarka išsiunčia. Asmuo, netekęs savivaldybės tarybos nario mandato šio straipsnio 1 dalies 1, 3, 4, 5, 7, 8, 9, 10, 14 punktuose ir Vietos savivaldos įstatymo 251 straipsnyje nustatytais pagrindais, netenka teisės užimti laisvą savivaldybės tarybos nario vietą šio įstatymo 89 straipsnyje nustatyta tvarka. 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo 88 straipsnio (2020 m. sausio 14 d. redakcija, TAR, 2020-01-31, Nr. 2278) 1 dalies 13 punktas, 2 dalies (2020 m. gegužės 28 d. redakcija, TAR, 2020-06-11, Nr. 12827) nuostata „(išskyrus atvejus, kai jis išrenkamas Lietuvos Respublikos Seimo nariu)“ prieštarauja Lietuvos Respublikos Konstitucijos 34 straipsnio 2 daliai, 59 straipsnio 2, 3 dalims, 60 straipsnio 1 daliai, konstituciniam teisinės valstybės principui.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3001, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12827
+Nr. KT84-N8/2021, 2021-05-28, paskelbta TAR 2021-05-28, i. k. 2021-12007
  
 
 3. Vyriausioji rinkimų komisija per 15 dienų nuo šio straipsnio 1 dalyje nustatytų pagrindų atsiradimo savivaldybės tarybos nario įgaliojimus pripažįsta nutrūkusiais nesuėjus terminui ir šį sprendimą paskelbia savo interneto svetainėje. 
@@ -2419,4 +2425,9 @@ Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 36, 37 i
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-161, 2021-01-12, paskelbta TAR 2021-01-19, i. k. 2021-00838
 Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo Nr. I-532 59 ir 65 straipsnių pakeitimo įstatymas
+ 
+24.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT84-N8/2021, 2021-05-28, paskelbta TAR 2021-05-28, i. k. 2021-12007
+Dėl Lietuvos Respublikos Seimo rinkimų įstatymo, Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo, Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai ir bylos dalies nutraukimo
 
