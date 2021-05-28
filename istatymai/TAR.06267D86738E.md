@@ -15,7 +15,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E"
 
 Įstatymas paskelbtas: Žin
 
-Suvestinė redakcija nuo 2020-07-01 iki 2021-05-27
+Suvestinė redakcija nuo 2021-05-28 iki 2021-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 139-0; Žin. 1992, Nr.22-635, i. k. 0921010ISTA00I-2721
  
@@ -2140,9 +2140,10 @@ Nr. XII-1705, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08166
 1. Savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario pareigas einantis asmuo, išrinktas Seimo nariu arba juo tapęs užimdamas laisvą Seimo nario vietą, netenka savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario mandato.
 
 2. Vyriausioji rinkimų komisija per 15 dienų nuo šio straipsnio 1 dalyje nustatyto pagrindo atsiradimo savivaldybės tarybos nario, savivaldybės tarybos nario –  mero ar Europos Parlamento nario įgaliojimus pripažįsta nutrūkusiais prieš terminą.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Seimo rinkimų įstatymo 931 straipsnis (2015 m. lapkričio 19 d. redakcija, TAR, 2015-11-27, Nr. 18860) prieštarauja Lietuvos Respublikos Konstitucijos 34 straipsnio 2 daliai, 59 straipsnio 2, 3 dalims, 60 straipsnio 1 daliai, konstituciniam teisinės valstybės principui. 
 
-Papildyta straipsniu:
-Nr. XII-2052, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18860
+Straipsnio pakeitimai:
+Nr. KT84-N8/2021, 2021-05-28, paskelbta TAR 2021-05-28, i. k. 2021-12007
  
 
 94 straipsnis. Seimo nario pažymėjimas
@@ -2545,4 +2546,9 @@ Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 98 straipsnio pakeitimo
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3214, 2020-06-30, paskelbta TAR 2020-06-30, i. k. 2020-14376
 Lietuvos Respublikos Seimo rinkimų įstatymo Nr. I-2721 62, 67-1 ir 70 straipsnių pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT84-N8/2021, 2021-05-28, paskelbta TAR 2021-05-28, i. k. 2021-12007
+Dėl Lietuvos Respublikos Seimo rinkimų įstatymo, Lietuvos Respublikos rinkimų į Europos Parlamentą įstatymo, Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai ir bylos dalies nutraukimo
 
