@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2021-05-31
+Suvestinė redakcija nuo 2021-06-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
  
@@ -408,12 +408,18 @@ Nr. XI-1627, 2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
 5 straipsnis. Pakuočių ženklinimas
 
 
-1. Kad pakuotes būtų galima identifikuoti ir klasifikuoti, jos turi būti ženklinamos nurodant pakuotėms pagaminti naudotų medžiagų prigimtį. Pakuočių ženklinimo tvarką nustato Vyriausybė arba jos įgaliota institucija.
+1. Pakuotės, kad jas būtų galima identifikuoti ir klasifikuoti, gali būti ženklinamos, nurodant pakuotėms pagaminti naudotų medžiagų rūšis  ir tinkamiausią pakuočių atliekų tvarkymo būdą. Pakuočių ženklinimo tvarką nustato Vyriausybė arba jos įgaliota institucija. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-287, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09689
+ 
 
 
 
 
-2. Gamintojai ir importuotojai (arba jiems atstovaujančios organizacijos), patys organizuojantys pakuočių atliekų tvarkymą, gali savo gaminių pakuotes žymėti tam tikru ženklu.
+2. Gamintojai ir importuotojai (arba jiems atstovaujančios organizacijos), patys ar kolektyviai organizuojantys pakuočių, įskaitant pakuotes, kurioms taikomas užstatas pagal šio įstatymo 11 straipsnio 1 ar 2 dalį, atliekų tvarkymą, be šio straipsnio 1, 3 ir 4 dalyse nurodyto ženklinimo, papildomai gali savo gaminių pakuotes žymėti kitais jų pačių pasirinktais ženklais, nurodančiais dalyvavimą atitinkamoje organizacijoje ar pakuočių atliekų tvarkymo sistemoje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-287, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09689
+ 
 
 
 
@@ -1590,3 +1596,8 @@ Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-681, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16709
 Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 8 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-287, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09689
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 5 straipsnio pakeitimo įstatymas
