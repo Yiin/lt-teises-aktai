@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.EC588C321777"
 
 # Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas
 
-Suvestinė redakcija nuo 2021-03-19 iki 2021-05-31
+Suvestinė redakcija nuo 2021-06-01 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 37-1341; Žin. 2002, Nr.46-0, i. k. 1021010ISTA00IX-785
  
@@ -362,7 +362,10 @@ Nr. XIII-324, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07683
 
 
 
-81 straipsnis. Informacinių ir elektroninių ryšių technologijų naudojimo baudžiamajame procese ypatumai
+81 straipsnis. Baudžiamųjų bylų duomenų tvarkymas ir procesinių dokumentų teikimas naudojant informacines ir elektroninių ryšių technologijas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-270, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09125
+ 
 
 
 1. Ikiteisminio tyrimo metu baudžiamosios bylos duomenys elektronine forma tvarkomi Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos generalinio prokuroro nustatyta tvarka, suderinta su Teisėjų taryba ir Advokatų taryba. Nagrinėjimo teisme metu baudžiamosios bylos duomenys elektronine forma tvarkomi Teisėjų tarybos nustatyta tvarka, suderinta su Lietuvos vyriausiuoju archyvaru. Baudžiamąsias bylas, kurios nagrinėjimo teisme metu vedamos elektronine forma, nustato Teisėjų taryba, suderinusi su Lietuvos Respublikos generaliniu prokuroru. 
@@ -420,6 +423,49 @@ Nr. XIII-324, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07683
 
 Papildyta straipsniu:
 Nr. XII-2046, 2015-11-19, paskelbta TAR 2015-11-25, i. k. 2015-18709
+ 
+
+
+
+
+82 straipsnis. Informacinių ir elektroninių ryšių technologijų naudojimas baudžiamajame procese
+
+
+1. Išimtiniais atvejais, kai neįmanoma užtikrinti ikiteisminio tyrimo atlikimo šiame Kodekse nustatyta įprasta tvarka, proceso veiksmai ikiteisminio tyrimo metu, jei yra tam tinkamos techninės galimybės, gali būti atliekami naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas), jeigu pagrįstai manoma, kad tokiu būdu ikiteisminį tyrimą bus galima atlikti greičiau, išskyrus atvejus, kai reikia taikyti procesines prievartos priemones – laikiną sulaikymą, asmens apžiūrą, kratą, atvesdinimą, poėmį, atlikti kitus šiame Kodekse numatytus proceso veiksmus, kurių atlikimas naudojant informacines ir elektroninių ryšių technologijas neįmanomas, nes, atsižvelgiant į jų pobūdį ir siekiant išsamiai ir objektyviai ištirti visas tyrimui reikšmingas aplinkybes ir užtikrinti proceso dalyvių teises, numatytus proceso veiksmus būtina atlikti tiesiogiai. Šį klausimą ikiteisminio tyrimo pareigūnas, prokuroras ar ikiteisminio tyrimo teisėjas paprastai išsprendžia prieš atliekant konkretų proceso veiksmą ne priimdami dėl to atskirą procesinį sprendimą, o apie tai informuodami dalyvaujančius asmenis raštu ar žodžiu ir tai pažymėdami nutarime, nutartyje ar atliekamo veiksmo ar teismo posėdžio protokole. Proceso dalyvio, kurio dalyvavimas atliekant proceso veiksmus yra būtinas, nesutikimas dėl konkretaus su juo susijusio proceso veiksmo atlikimo naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas) nesustabdo proceso veiksmo atlikimo naudojant šias technologijas, išskyrus atvejus, kai ikiteisminio tyrimo pareigūnas, prokuroras ar ikiteisminio tyrimo teisėjas tokį nesutikimą pripažįsta pagrįstu.
+
+
+
+
+2. Išimtiniais atvejais, kai neįmanoma užtikrinti bylų nagrinėjimo šiame Kodekse nustatyta įprasta tvarka, bylų nagrinėjimas ir proceso dalyvių, liudytojų, ekspertų, specialistų, vertėjų ir kitų dalyvaujančių byloje asmenų dalyvavimas teismo posėdžiuose, jei yra tam tinkamos techninės galimybės, gali būti užtikrinami naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas), kai pagrįstai manoma, kad tokiu būdu byla bus išnagrinėta greičiau, tai netrukdys išsamiai ir objektyviai ištirti visas bylos aplinkybes ir bus užtikrintos proceso dalyvių teisės. Šį klausimą teismas paprastai išsprendžia nutartimi iki bylos nagrinėjimo teismo posėdyje. Ši nutartis yra neskundžiama. Šios dalies nuostatos netaikomos tais atvejais, kai prokuroras, nukentėjusysis ir (ar) jo atstovas, kaltinamasis, jo atstovas pagal įstatymą ir (ar) gynėjas, civilinis ieškovas, civilinis atsakovas ir (ar) jų atstovai pateikia nesutikimą dėl bylos nagrinėjimo naudojant informacines ir elektroninių ryšių technologijas (vaizdo konferencijas).
+
+
+
+
+3. Šio straipsnio 1 ir 2 dalių nuostatos taip pat taikomos nagrinėjant skundus dėl ikiteisminio tyrimo pareigūno ar prokuroro proceso veiksmų ir nutarimų, taip pat bylos nagrinėjimo teisme metu gautus skundus, kai šiems skundams nagrinėti pagal šio Kodekso nuostatas turi būti rengiamas teismo posėdis.
+
+
+
+
+4. Atliekamo ikiteisminio tyrimo ar bylos nagrinėjimo teisme naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas) metu paaiškėjus, kad tam tikro proceso veiksmo atlikimui būtinas tiesioginis proceso dalyvių, liudytojo, eksperto, specialisto, vertėjo ir kitų dalyvaujančių byloje asmenų dalyvavimas tam, kad jie tinkamai pasinaudotų savo procesinėmis teisėmis ar būtų išsamiai ir objektyviai ištirtos bylos aplinkybės, proceso veiksmo atlikimas ar teismo posėdis organizuojami tiesiogiai juose dalyvaujant ikiteisminio tyrimo pareigūno, prokuroro ar teismo pakviestiems asmenims. 
+
+
+
+
+5. Naudojant šio straipsnio 1 ir 2 dalyse numatytas informacines ir elektroninių ryšių technologijas, ikiteisminio tyrimo pareigūnas, prokuroras ar teismas privalo teisingumo ministro nustatyta tvarka, suderinta su Teisėjų taryba, Lietuvos Respublikos generaline prokuratūra ir Advokatų taryba, ir Lietuvos Respublikos generalinio prokuroro nustatyta tvarka, suderinta su Teisėjų taryba ir Advokatų taryba, užtikrinti patikimą proceso dalyvių tapatybės nustatymą, duomenų, įrodymų objektyvų fiksavimą ir pateikimą, galimybę naudotis procesinėmis teisėmis ir bylos nagrinėjimo teisme viešumą, išskyrus šio Kodekso 9 straipsnyje numatytus atvejus.
+
+
+
+
+6. Atliekant ikiteisminį tyrimą ar nagrinėjant bylą teisme šiame straipsnyje nustatyta tvarka, privaloma daryti garso ir vaizdo įrašą. Šis įrašas pridedamas prie proceso veiksmo ar teismo protokolo ir yra sudedamoji protokolo dalis, o procesiniai dokumentai įteikiami šio Kodekso 81 straipsnyje nustatyta tvarka. 
+
+
+
+
+7. Ikiteisminis tyrimas ir bylų nagrinėjimas teisme naudojant šio straipsnio 1 ir 2 dalyse numatytas informacines ir elektroninių ryšių technologijas vyksta laikantis šiame Kodekse nustatytų taisyklių ir atsižvelgiant į šiame straipsnyje numatytus ypatumus. 
+
+
+Papildyta straipsniu:
+Nr. XIV-270, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09125
  
 
 
@@ -7557,10 +7603,10 @@ Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
 
 
 
-3. Prieš skirdamas ekspertizę, ikiteisminio tyrimo teisėjas išaiškina asmeniui, neįtrauktam į ekspertų sąrašą, eksperto teises ir pareigas, priima jo priesaiką ir įspėja jį dėl atsakomybės pagal Lietuvos Respublikos baudžiamojo kodekso 235 straipsnį už melagingos išvados pateikimą. Asmuo, skiriamas ekspertu, prisiekia ir po priesaikos tekstu pasirašo. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų:
+3. Prieš skirdamas ekspertizę, ikiteisminio tyrimo teisėjas išaiškina asmeniui, neįtrauktam į ekspertų sąrašą, eksperto teises ir pareigas, priima jo priesaiką ir įspėja jį dėl atsakomybės pagal Lietuvos Respublikos baudžiamojo kodekso 235 straipsnį už melagingos išvados pateikimą. Asmuo, skiriamas ekspertu, prisiekia ir po priesaikos tekstu pasirašo, išskyrus atvejus, kai jis prisiekia naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas). Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų:
 
 
-1) „Aš, (vardas, pavardė), prisiekiu sąžiningai atlikti eksperto pareigas. Tepadeda man Dievas.“; 
+1) „Aš, (vardas, pavardė), prisiekiu sąžiningai atlikti eksperto pareigas. Tepadeda man Dievas.“;
 
 
 
@@ -7568,6 +7614,9 @@ Nr. XIII-696, 2017-10-19, paskelbta TAR 2017-10-25, i. k. 2017-16806
 2) „Aš, (vardas, pavardė), prisiekiu sąžiningai atlikti eksperto pareigas.“ 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-270, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09125
+ 
 
 
 Straipsnio pakeitimai:
@@ -9182,17 +9231,20 @@ Parengiamoji teisiamojo posėdžio dalis
 
 
 
-2. Po to anksčiau neprisiekęs vertėjas prisiekia ir po priesaikos tekstu pasirašo. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų: 
+2. Po to anksčiau neprisiekęs vertėjas prisiekia ir po priesaikos tekstu pasirašo, išskyrus atvejus, kai jis prisiekia naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas). Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų:
 
 
-1) „Aš, (vardas, pavardė), prisiekiu sąžiningai atlikti vertėjo pareigas. Tepadeda man Dievas.“; 
+1) „Aš, (vardas, pavardė), prisiekiu sąžiningai atlikti vertėjo pareigas. Tepadeda man Dievas.“;
 
 
 
 
-2) „Aš, (vardas, pavardė), prisiekiu sąžiningai atlikti vertėjo pareigas.“
+2) „Aš, (vardas, pavardė), prisiekiu sąžiningai atlikti vertėjo pareigas.“ 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-270, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09125
+ 
 
 
 Straipsnio pakeitimai:
@@ -9282,10 +9334,10 @@ Teisiamojo posėdžio pirmininkas kaltinamajam, jo atstovui pagal įstatymą, nu
 
 
 
-2. Po to anksčiau neprisiekęs ekspertas prisiekia ir po priesaikos tekstu pasirašo. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų: 
+2. Po to anksčiau neprisiekęs ekspertas prisiekia ir po priesaikos tekstu pasirašo, išskyrus atvejus, kai jis prisiekia naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas). Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų:
 
 
-1) „Aš, (vardas, pavardė), prisiekiu sąžiningai atlikti eksperto pareigas. Tepadeda man Dievas.“; 
+1) „Aš, (vardas, pavardė), prisiekiu sąžiningai atlikti eksperto pareigas. Tepadeda man Dievas.“;
 
 
 
@@ -9297,21 +9349,23 @@ Teisiamojo posėdžio pirmininkas kaltinamajam, jo atstovui pagal įstatymą, nu
 
 
 
-3. Specialistas prisiekia ir po priesaikos tekstu pasirašo. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų: 
+3. Specialistas prisiekia ir po priesaikos tekstu pasirašo, išskyrus atvejus, kai jis prisiekia naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas). Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų:
 
 
-1) „Aš, (vardas, pavardė), prisiekiu sąžiningai atlikti specialisto pareigas. Tepadeda man Dievas.“; 
+1) „Aš, (vardas, pavardė), prisiekiu sąžiningai atlikti specialisto pareigas. Tepadeda man Dievas.“;
 
 
 
 
-2) „Aš, (vardas, pavardė), prisiekiu sąžiningai atlikti specialisto pareigas.“
+2) „Aš, (vardas, pavardė), prisiekiu sąžiningai atlikti specialisto pareigas.“ 
 
 
 
 
 Straipsnio pakeitimai:
 Nr. X-418, 2005-11-22, Žin., 2005, Nr. 143-5180 (2005-12-08)
+Straipsnio pakeitimai:
+Nr. XIV-270, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09125
  
 
 
@@ -9530,17 +9584,20 @@ Nr. XII-1080, 2014-07-17, paskelbta TAR 2014-07-22, i. k. 2014-10422
 
 
 
-2. Liudytojas prisiekia teismui ir po priesaikos tekstu pasirašo. Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų:
+2. Liudytojas prisiekia teismui ir po priesaikos tekstu pasirašo, išskyrus atvejus, kai jis prisiekia naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas). Prisiekiantis asmuo turi teisę pasirinkti vieną iš šių priesaikos tekstų:
 
 
-1) „Aš, (vardas, pavardė), suvokdamas savo žodžių prasmę ir atsakomybę už juos, prisiekiu sakyti tik tiesą ir nieko nenutylėti. Tepadeda man Dievas.“; 
+1) „Aš, (vardas, pavardė), suvokdamas savo žodžių prasmę ir atsakomybę už juos, prisiekiu sakyti tik tiesą ir nieko nenutylėti. Tepadeda man Dievas.“;
 
 
 
 
-2) „Aš, (vardas, pavardė), suvokdamas savo žodžių prasmę ir atsakomybę už juos, prisiekiu sakyti tik tiesą ir nieko nenutylėti.“
+2) „Aš, (vardas, pavardė), suvokdamas savo žodžių prasmę ir atsakomybę už juos, prisiekiu sakyti tik tiesą ir nieko nenutylėti.“ 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-270, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09125
+ 
 
 
 
@@ -16342,3 +16399,8 @@ Lietuvos Respublikos baudžiamojo proceso kodekso 342 ir 357 straipsnių pakeiti
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT45-A-N3/2021, 2021-03-19, paskelbta TAR 2021-03-19, i. k. 2021-05546
 Dėl Lietuvos Respublikos administracinių teisės pažeidimų kodekso 302-1 straipsnio, Lietuvos Respublikos baudžiamojo proceso kodekso 106 straipsnio atitikties Lietuvos Respublikos Konstitucijai
+ 
+56.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-270, 2021-04-22, paskelbta TAR 2021-04-29, i. k. 2021-09125
+Lietuvos Respublikos baudžiamojo proceso kodekso 8-1, 210, 263, 269 ir 277 straipsnių pakeitimo ir Kodekso papildymo 8-2 straipsniu įstatymas
