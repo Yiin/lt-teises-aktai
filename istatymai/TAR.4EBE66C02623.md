@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2021-05-01 iki 2021-06-01
+Suvestinė redakcija nuo 2021-06-02 iki 2021-06-02
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -2605,20 +2605,22 @@ užtraukia baudą asmenims nuo trijų šimtų iki šešių šimtų eurų ir juri
 
 
 
-70 straipsnis. Informacijos apie tabako gaminius ar susijusius gaminius ir alkoholinius gėrimus teikimo tvarkos pažeidimas
+70 straipsnis. Informacijos apie tabako gaminius ar su tabako gaminiais susijusius gaminius ir alkoholinius gėrimus teikimo tvarkos pažeidimas
 
 
-1. Informacijos apie tabako gaminius ar susijusius gaminius ir alkoholinius gėrimus teikimo tvarkos pažeidimas 
+1. Informacijos apie tabako gaminius ar su tabako gaminiais susijusius gaminius (toliau – susiję gaminiai) ir alkoholinius gėrimus teikimo tvarkos pažeidimas 
 užtraukia baudą asmenims nuo keturiolikos iki trisdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trisdešimt iki penkiasdešimt eurų.
 
 
 
 
 2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą asmenims nuo trisdešimt iki penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkiasdešimt iki vieno šimto penkiasdešimt eurų.
+užtraukia baudą asmenims nuo trisdešimt iki penkiasdešimt eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkiasdešimt iki vieno šimto penkiasdešimt eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
  
-
-
 
 
 
@@ -2802,20 +2804,22 @@ Nr. XIII-731, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18854
 
 
 
-77 straipsnis. Tabako gaminių nupirkimas ar kitoks perdavimas nepilnamečiams
+77 straipsnis. Tabako gaminių ar susijusių gaminių nupirkimas ar kitoks perdavimas nepilnamečiams
 
 
-1. Tabako gaminių ar susijusių gaminių (elektroninių cigarečių ir pildomųjų talpyklų) nupirkimas ar kitoks perdavimas nepilnamečiui
+1. Tabako gaminių ar susijusių gaminių nupirkimas ar kitoks perdavimas nepilnamečiui 
 užtraukia baudą nuo devyniasdešimt iki vieno šimto aštuoniasdešimt eurų.
 
 
 
 
-2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
+2. Šio straipsnio 1 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai, 
 užtraukia baudą nuo vieno šimto aštuoniasdešimt iki dviejų šimtų aštuoniasdešimt eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
  
-
-
 
 
 
@@ -4224,15 +4228,20 @@ Nr. XIII-538, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11935
 
 
 
-132 straipsnis. Alkoholio produktų ir tabako gaminių ar susijusių gaminių gamybos, importo ir prekybos licencijavimo tvarkos pažeidimas
+132 straipsnis. Tabako gaminių ar susijusių gaminių ir alkoholio produktų gamybos, importo ir prekybos licencijavimo tvarkos pažeidimas
 
 
-Alkoholio produktų ir tabako gaminių ar susijusių gaminių gamybos, importo ir prekybos licencijavimo tvarkos pažeidimas 
-užtraukia baudą įmonių vadovams ir (ar) jų vyriausiesiems finansininkams nuo dviejų šimtų iki vieno tūkstančio aštuonių šimtų devyniasdešimt eurų.
+Tabako gaminių ar susijusių gaminių ir alkoholio produktų gamybos, importo ir prekybos licencijavimo tvarkos pažeidimas
+
+
+
+
+užtraukia baudą įmonių vadovams ir (ar) jų vyriausiesiems finansininkams nuo dviejų šimtų iki vieno tūkstančio aštuonių šimtų devyniasdešimt eurų. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
+Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
  
 
 
@@ -5225,7 +5234,10 @@ užtraukia baudą nuo trijų šimtų iki penkių šimtų šešiasdešimt eurų.
 
 
 
-170 straipsnis. Prekybos tabako gaminiais pažeidimas
+170 straipsnis. Prekybos tabako gaminiais ar susijusiais gaminiais pažeidimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
+ 
 
 
 1. Prekybos ir viešojo maitinimo įmonių darbuotojų padarytas tabako gaminių ar susijusių gaminių pardavimo įmonėse reikalavimų pažeidimas
@@ -6199,12 +6211,16 @@ Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
 2091 straipsnis. Lietuvos Respublikos įstatymuose nustatytos pareigos vykdyti turgaviečių stebėseną nevykdymas
 
 
-1. Lietuvos Respublikos įstatymuose nustatytos turgavietes administruojančių fizinių asmenų, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovų, užsienio juridinių asmenų ar jų filialų vadovų arba jų įgaliotų asmenų pareigos vykdyti jų administruojamų turgaviečių stebėseną (imtis visų teisinių ir organizacinių priemonių) siekiant, kad jų administruojamose turgavietėse nebūtų prekiaujama tabako gaminiais ir (ar) alkoholiniais gėrimais ir (ar) kad jie nebūtų gabenami, laikomi neturint licencijos verstis mažmenine prekyba tabako gaminiais ir (ar) alkoholiniais gėrimais, ir (arba) nedelsiant pranešti policijai apie galimai neteisėtą prekybą akcizais apmokestinamomis prekėmis jų administruojamose turgavietėse arba šių prekių gabenimą, laikymą nevykdymas
-užtraukia baudą turgavietes administruojantiems fiziniams asmenims, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovams, užsienio juridinių asmenų ar jų filialų vadovams nuo trijų šimtų devyniasdešimt iki vieno tūkstančio vieno šimto dvidešimt eurų.
+Lietuvos Respublikos įstatymuose nustatytos turgavietes administruojančių asmenų, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovų, užsienio juridinių asmenų ar jų filialų vadovų arba jų įgaliotų asmenų pareigos vykdyti jų administruojamų turgaviečių stebėseną (imtis visų teisinių ir organizacinių priemonių) siekiant, kad jų administruojamose turgavietėse nebūtų prekiaujama tabako gaminiais ar susijusiais gaminiais ir alkoholiniais gėrimais ir (ar) kad jie nebūtų gabenami, laikomi neturint licencijos verstis mažmenine prekyba tabako gaminiais ar susijusiais gaminiais ir alkoholiniais gėrimais, ir (arba) nedelsiant pranešti policijai apie galimai neteisėtą prekybą akcizais apmokestinamomis prekėmis jų administruojamose turgavietėse arba šių prekių gabenimą, laikymą nevykdymas
 
 
-Papildyta straipsniu:
-Nr. XIII-1835, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21857
+
+
+užtraukia baudą turgavietes administruojantiems fiziniams asmenims, Lietuvos Respublikoje įsteigtų juridinių asmenų vadovams, užsienio juridinių asmenų ar jų filialų vadovams nuo trijų šimtų devyniasdešimt iki vieno tūkstančio vieno šimto dvidešimt eurų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
  
 
 
@@ -6860,10 +6876,10 @@ užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims n
 
 
 
-2341 straipsnis. Registruojamų sprogstamųjų medžiagų pirmtakų, medžiagų ar mišinių, kuriuose yra registruojamų sprogstamųjų medžiagų pirmtakų, apyvartos reikalavimų pažeidimas
+2341 straipsnis. Reglamentuojamų sprogstamųjų medžiagų pirmtakų apyvartos reikalavimų pažeidimas
 
 
-1. Sandorių dėl registruojamų sprogstamųjų medžiagų pirmtakų, medžiagų ar mišinių, kuriuose yra registruojamų sprogstamųjų medžiagų pirmtakų, registravimo reikalavimų pažeidimas, Lietuvos Respublikoje tiekiamų registruojamų sprogstamųjų medžiagų pirmtakų, medžiagų ar mišinių, kuriuose yra registruojamų sprogstamųjų medžiagų pirmtakų, ženklinimas nesilaikant Reglamente (ES) Nr. 98/2013 nustatytų reikalavimų 
+1. Patikrinimo, ar klientas turi teisę įsigyti riboto naudojimo sprogstamųjų medžiagų pirmtakų, neatlikimas arba patikrinimo metu iš kliento gautos informacijos, įrodančios, kad klientas turi teisę įsigyti riboto naudojimo sprogstamųjų medžiagų pirmtakų, neišsaugojimas Reglamente (ES) 2019/1148 nustatytą laiką
 užtraukia baudą asmenims nuo vieno šimto iki trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo trijų šimtų iki vieno tūkstančio eurų.
 
 
@@ -6875,17 +6891,23 @@ užtraukia baudą asmenims nuo dviejų šimtų iki keturių šimtų eurų ir jur
 
 
 
-3. Nepranešimas apie įtartiną sandorį dėl registruojamų sprogstamųjų medžiagų pirmtakų, medžiagų ar mišinių, kuriuose yra registruojamų sprogstamųjų medžiagų pirmtakų, nepranešimas apie registruojamų sprogstamųjų medžiagų pirmtakų dingimą ar vagystę  
+3. Nepranešimas apie įtartiną sandorį dėl reglamentuojamų sprogstamųjų medžiagų pirmtakų ar nepranešimas apie registruojamų reglamentuojamų sprogstamųjų medžiagų pirmtakų dingimą ar vagystę
 užtraukia baudą asmenims nuo dviejų šimtų iki keturių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo keturių šimtų iki vieno tūkstančio penkių šimtų eurų.
 
 
 
 
-4. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas registruojamų sprogstamųjų medžiagų pirmtakų, medžiagų ar mišinių, kuriuose yra registruojamų sprogstamųjų medžiagų pirmtakų, konfiskavimas. 
+4. Reglamento (ES) 2019/1148 pažeidimai, išskyrus šiame kodekse nurodytuosius,
+užtraukia baudą nuo vieno šimto iki dviejų šimtų eurų.
 
 
-Papildyta straipsniu:
-Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
+
+
+5. Už šio straipsnio 1, 2 dalyse numatytus administracinius nusižengimus gali būti skiriamas riboto naudojimo sprogstamųjų medžiagų pirmtakų konfiskavimas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
  
 
 
@@ -6894,17 +6916,17 @@ Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
 2342 straipsnis. Neteisėtas disponavimas riboto naudojimo sprogstamųjų medžiagų pirmtakais
 
 
-1. Neteisėtas riboto naudojimo sprogstamųjų medžiagų pirmtakų tiekimas, įvežimas, laikymas ir naudojimas
+1. Neteisėtas riboto naudojimo sprogstamųjų medžiagų pirmtakų ar mišinių, kuriuose kalio chlorato, kalio perchlorato, natrio chlorato, natrio perchlorato bendra koncentracija mišinyje viršija 40 procentų ribinę vertę, tiekimas, įvežimas, laikymas ir naudojimas
 užtraukia baudą asmenims nuo dviejų šimtų iki penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo penkių šimtų iki vieno tūkstančio penkių šimtų eurų.
 
 
 
 
-2. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą privaloma skirti riboto naudojimo sprogstamųjų medžiagų pirmtakų, medžiagų ar mišinių, kuriuose yra registruojamų sprogstamųjų medžiagų pirmtakų, konfiskavimą. 
+2. Už šio straipsnio 1 dalyje numatytą administracinį nusižengimą privaloma skirti riboto naudojimo sprogstamųjų medžiagų pirmtakų ar mišinių, kuriuose kalio chlorato, kalio perchlorato, natrio chlorato, natrio perchlorato bendra koncentracija mišinyje viršija 40 procentų ribinę vertę, konfiskavimą. 
 
 
-Papildyta straipsniu:
-Nr. XII-2747, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26867
+Straipsnio pakeitimai:
+Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
  
 
 
@@ -24052,7 +24074,9 @@ Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
 
 
 
-77. 2013 m. sausio 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 98/2013 dėl prekybos sprogstamųjų medžiagų pirmtakais ir jų naudojimo (OL 2013 L 39, p. 1).
+77. Neteko galios nuo 2021-06-02
+Punkto naikinimas:
+Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
 Punkto numeracijos pakeitimas:
 Nr. XIII-551, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11948
 Nr. XIII-753, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18803
@@ -24382,6 +24406,14 @@ Nr. XIII-2374, 2019-07-16, paskelbta TAR 2019-08-02, i. k. 2019-12798
 104. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1021 dėl patvariųjų organinių teršalų (OL 2019 L 169, p. 45). 
 Papildyta punktu:
 Nr. XIII-2804, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02855
+ 
+
+
+
+
+105. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1148 dėl prekybos sprogstamųjų medžiagų pirmtakais ir jų naudojimo, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 1907/2006 ir panaikinamas Reglamentas (ES) Nr. 98/2013. 
+Papildyta punktu:
+Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
  
 
 
@@ -25016,3 +25048,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 313 straipsnio ir pr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3219, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15755
 Lietuvos Respublikos administracinių nusižengimų kodekso 589 ir 611 straipsnių pakeitimo įstatymas
+ 
+126.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
+Lietuvos Respublikos administracinių nusižengimų kodekso 70, 77, 132, 170, 209-1, 212, 234-1, 234-2 straipsnių ir priedo pakeitimo įstatymas
