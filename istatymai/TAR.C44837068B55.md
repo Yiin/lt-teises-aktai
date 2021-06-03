@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2021-05-28 iki 2021-06-02
+Suvestinė redakcija nuo 2021-06-03 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -127,8 +127,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-8. Grynieji pinigai – kaip apibrėžta Reglamento (EB) Nr. 1889/2005 2 straipsnio 2 punkte.
-TAR pastaba. 8 dalis netenka galios 2021-06-03.
+8. Netenka galios 2021-06-03.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
  
@@ -2510,12 +2509,17 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 1. Grynųjų pinigų sumos deklaruojamos šiais atvejais:
 
 
-1) kai asmuo per Lietuvos Respubliką į Europos Sąjungą iš trečiųjų šalių įveža ar iš Europos Sąjungos per Lietuvos Respubliką išveža į trečiąsias šalis, kaip jos reglamentuotos Lietuvos Respublikos muitinės įstatyme (toliau šiame straipsnyje – trečiosios šalys), grynųjų pinigų vienkartinę sumą, kurios vertė yra ne mažesnė kaip nurodytoji 2005 m. spalio 26 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1889/2005 dėl grynųjų pinigų, įvežamų į Bendriją ar išvežamų iš jos, kontrolės (toliau – Reglamentas (EB) Nr. 1889/2005) nuostatų 3 straipsnio 1 dalyje; 
+1) kai asmuo per Lietuvos Respubliką į Europos Sąjungą iš trečiųjų šalių įveža ar iš Europos Sąjungos per Lietuvos Respubliką išveža į trečiąsias šalis, kaip jos reglamentuotos Lietuvos Respublikos muitinės įstatyme (toliau šiame straipsnyje – trečiosios šalys), grynųjų pinigų vienkartinę sumą, kurios vertė yra ne mažesnė kaip nurodytoji Reglamento (ES) 2018/1672 3 straipsnio 1 dalyje; 
 
 
 
 
-2) muitinės pareikalavimu, kai asmuo į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išveža ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įveža ar į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabena grynuosius pinigus, kurių vienkartinė suma viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta.
+2) muitinės pareikalavimu, kai asmuo į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išveža ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įveža ar į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabena grynuosius pinigus, kurių vienkartinė suma viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta;
+
+
+
+
+3) kai per Lietuvos Respubliką iš trečiųjų šalių arba į trečiąsias šalis gabenama nelydimų grynųjų pinigų vienkartinė suma, kurios vertė yra ne mažesnė negu vertė, nurodyta Reglamento (ES) 2018/1672 3 straipsnio 1 dalyje. Nelydimus grynuosius pinigus, atsižvelgdami į situaciją, deklaruoja siuntėjas, gavėjas arba jų atstovas.
 
 
 
@@ -2525,19 +2529,19 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 2. Muitinės įstaigos atlieka:
 
 
-1) į Europos Sąjungą per Lietuvos Respubliką iš trečiųjų šalių įvežamų ir iš Europos Sąjungos per Lietuvos Respubliką į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę, vadovaudamosi Reglamento (EB) Nr. 1889/2005 nuostatomis;
+1) į Europos Sąjungą per Lietuvos Respubliką iš trečiųjų šalių įvežamų ir iš Europos Sąjungos per Lietuvos Respubliką į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę, vadovaudamosi Reglamento (ES) 2018/1672 nuostatomis;
 
 
 
 
-2) į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išvežamų ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įvežamų ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabenamų grynųjų pinigų, kurių vienkartinė suma viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta, kontrolę.
+2) į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išvežamų ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įvežamų ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabenamų grynųjų pinigų, kurių vienkartinė suma viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta, kontrolę.
 
 
 
 
 
 
-3. Reglamento (EB) Nr. 1889/2005 nustatytais atvejais, kai Europos Sąjungos valstybėms narėms suteikta sprendimo priėmimo teisė, sprendimus priima ir atitinkamų Reglamento (EB) Nr. 1889/2005 nuostatų taikymo Lietuvos Respublikoje tvarką nustato Muitinės departamento prie Lietuvos Respublikos finansų ministerijos generalinis direktorius, išskyrus atvejus, kai šis arba kiti įstatymai nustato kitaip.
+3. Reglamento (ES) 2018/1672 nustatytais atvejais, kai Europos Sąjungos valstybėms narėms suteikta sprendimo priėmimo teisė, sprendimus priima ir atitinkamų Reglamento (ES) 2018/1672 nuostatų taikymo Lietuvos Respublikoje tvarką nustato Muitinės departamento prie Lietuvos Respublikos finansų ministerijos generalinis direktorius, išskyrus atvejus, kai šiame arba kituose įstatymuose nustatyta kitaip.
 
 
 
@@ -2547,23 +2551,12 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-5. Muitinės įstaigos privalo nedelsdamos, ne vėliau kaip per 7 darbo dienas nuo deklaracijos gavimo, pranešti Finansinių nusikaltimų tyrimo tarnybai:
-
-
-1) jeigu asmuo įveža iš trečiųjų šalių į Europos Sąjungą per Lietuvos Respubliką ar išveža iš Europos Sąjungos per Lietuvos Respubliką į trečiąsias šalis vienkartinę grynųjų pinigų sumą, kurios vertė yra ne mažesnė kaip nurodytoji Reglamento (EB) Nr. 1889/2005 3 straipsnio 1 dalyje;
+5. Muitinės įstaigos privalo nedelsdamos, ne vėliau kaip per 7 darbo dienas nuo deklaracijos gavimo, pranešti Finansinių nusikaltimų tyrimo tarnybai, jeigu asmuo į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išveža ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įveža ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabena grynųjų pinigų, kurių vienkartinė suma viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta.
 
 
 
 
-2) jeigu asmuo į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išveža ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įveža ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabena grynųjų pinigų, kurių vienkartinė suma viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta.
-
-
-
-
-
-
-6. Šiame straipsnyje vartojama sąvoka „Europos Sąjungos valstybė narė“ neapima Europos ekonominės erdvės valstybių.
-TAR pastaba. 21 straipsnio redakcija iki 2021-06-02.
+6. Šiame straipsnyje vartojama sąvoka „grynieji pinigai“ atitinka sąvoką, vartojamą Reglamento (ES) 2018/1672 2 straipsnio 1 dalies a punkte, o sąvoka „Europos Sąjungos valstybė narė“ neapima Europos ekonominės erdvės valstybių. 
 
 
 Straipsnio pakeitimai:
@@ -2858,10 +2851,9 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 4. Atlyginimo už informacijos teikimą dydis neturi viršyti Juridinių asmenų dalyvių informacinės sistemos (JADIS) administravimo išlaidų kartu su pagrįsta investicijų grąža. 
-TAR pastaba. Įstatymas papildomas 252 straipsniu nuo 2021-03-10.
 
 
-Papildyta straipsniu:
+Straipsnio pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
  
 
