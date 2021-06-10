@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/9197387088f211e8af589337bf1eb893"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2020-11-21 iki 2021-06-09
+Suvestinė redakcija nuo 2021-06-10 iki 2022-12-22
  
 Įstatymas paskelbtas: TAR 2018-07-16, i. k. 2018-12037
  
@@ -28,6 +28,9 @@ VALSTYBĖS TARNYBOS ĮSTATYMO NR. VIII-1316 PAKEITIMO
 Vilnius
  
  
+
+ 
+
  
  
 
@@ -3407,7 +3410,10 @@ Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
 
 
 
-23. Iki šio įstatymo įsigaliojimo į pareigas įstatymų nustatytai kadencijai priimti įstaigų vadovai įsigaliojus šiam įstatymui eina pareigas iki kadencijos, kuriai jie buvo priimti, pabaigos. Jei įstaigos vadovas iki šio įstatymo įsigaliojimo į pareigas buvo priimtas pirmai kadencijai, jai pasibaigus šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos valstybės tarnybos įstatymo 14 straipsnyje nustatyta tvarka šis asmuo gali būti priimamas į įstaigos vadovo pareigas antrai kadencijai.
+23. Iki šio įstatymo įsigaliojimo į pareigas įstatymų nustatytai kadencijai priimti įstaigų vadovai įsigaliojus šiam įstatymui eina pareigas iki kadencijos, kuriai jie buvo priimti, pabaigos. Iki šio įstatymo įsigaliojimo į pareigas įstatymų nustatytai kadencijai priimtas įstaigos vadovas, kuriam kadencijos laikotarpiu sukanka 65 metai, gali savo noru būti atleidžiamas iš pareigų Lietuvos Respublikos valstybės tarnybos įstatymo 51 straipsnio 1 dalies 6 punkte nustatytu pagrindu (valstybės tarnautojui sukanka 65 metai) arba gali eiti pareigas iki kadencijos, kuriai jis buvo priimtas, pabaigos, jeigu jo tarnybinė veikla šios kadencijos metu buvo vertinta tik gerai arba labai gerai. Jei įstaigos vadovas iki šio įstatymo įsigaliojimo į pareigas buvo priimtas pirmai kadencijai, jai pasibaigus šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos valstybės tarnybos įstatymo 14 straipsnyje nustatyta tvarka šis asmuo gali būti priimamas į įstaigos vadovo pareigas antrai kadencijai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-371, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13179
+ 
 
 
 
@@ -3442,7 +3448,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
 
 
  
@@ -3473,3 +3479,11 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3408, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24571
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymo Nr. XIII-1370 2 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-371, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13179
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įstatymo Nr. XIII-1370 3 straipsnio pakeitimo įstatymas
+ 
+ 
+part_f8025aedc9f343e8b8c68d6047ffe71d_end
