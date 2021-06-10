@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2021-06-03 iki 2021-06-09
+Suvestinė redakcija nuo 2021-06-10 iki 2021-06-17
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -11662,7 +11662,10 @@ Nr. XIII-1543, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16601
 
 
 1. Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo ir kitų gyvūnų gerovės ir apsaugos, atskirų rūšių gyvūnų ženklinimo ir registravimo reikalavimus reglamentuojančių teisės aktų pažeidimas 
-užtraukia įspėjimą arba baudą nuo trisdešimt iki vieno šimto dvidešimt eurų.
+užtraukia baudą nuo trisdešimt iki vieno šimto dvidešimt eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-366, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13173
+ 
 
 
 
@@ -11752,30 +11755,45 @@ užtraukia baudą nuo keturių šimtų iki septynių šimtų eurų.
 
 
 16. Žiaurus elgesys su gyvūnu, gyvūno kankinimas
-užtraukia baudą nuo penkiasdešimt iki vieno tūkstančio dviejų šimtų eurų.
+užtraukia baudą nuo vieno šimto penkiasdešimt iki dviejų tūkstančių eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-366, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13173
+ 
 
 
 
 
 17. Šio straipsnio 16 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo vieno tūkstančio dviejų šimtų iki vieno tūkstančio septynių šimtų penkiasdešimt eurų. 
+užtraukia baudą nuo dviejų tūkstančių iki keturių tūkstančių eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-366, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13173
+ 
 
 
 
 
 18. Žiaurus elgesys su gyvūnu, gyvūno kankinimas, kai dėl to gyvūnams gresia žūtis ar suluošinimas,
-užtraukia baudą nuo trijų šimtų iki vieno tūkstančio septynių šimtų penkiasdešimt eurų.
+užtraukia baudą nuo devynių šimtų iki trijų tūkstančių dviejų šimtų eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-366, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13173
+ 
 
 
 
 
 19. Šio straipsnio 18 dalyje numatytas administracinis nusižengimas, padarytas pakartotinai,
-užtraukia baudą nuo vieno tūkstančio septynių šimtų penkiasdešimt iki dviejų tūkstančių trijų šimtų eurų.
+užtraukia baudą nuo dviejų tūkstančių dviejų šimtų iki šešių tūkstančių eurų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-366, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13173
+ 
 
 
 
 
-20. Už šio straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 16, 17, 18, 19 dalyse numatytus administracinius nusižengimus gali būti skiriamas gyvūnų konfiskavimas. Už šio straipsnio 11, 12, 13, 14, 15 dalyse numatytus administracinius nusižengimus privaloma skirti gyvūnų konfiskavimą.
+20. Už šio straipsnio 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 dalyse numatytus administracinius nusižengimus gali būti skiriamas gyvūnų konfiskavimas. Už šio straipsnio 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse numatytus administracinius nusižengimus privaloma skirti gyvūnų konfiskavimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-366, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13173
+ 
 
 
 
@@ -25068,3 +25086,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 589 ir 611 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
 Lietuvos Respublikos administracinių nusižengimų kodekso 70, 77, 132, 170, 209-1, 212, 234-1, 234-2 straipsnių ir priedo pakeitimo įstatymas
+ 
+127.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-366, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13173
+Lietuvos Respublikos administracinių nusižengimų kodekso 346 straipsnio pakeitimo įstatymas
