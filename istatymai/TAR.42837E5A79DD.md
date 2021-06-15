@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2021-06-02 iki 2021-06-14
+Suvestinė redakcija nuo 2021-06-15 iki 2021-07-22
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -81,9 +81,11 @@ Nr. XIII-2078, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07317
 
 
 
-7. Šio Įstatymo normos, reglamentuojančios leidimus dirbti ir leidimus gyventi Lietuvos Respublikoje, teisiniams santykiams, susijusiems su stambaus projekto investicijų sutarties įgyvendinimu, taikomos tiek, kiek jų nereglamentuoja Lietuvos Respublikos investicijų įstatymas.
+7. Šio Įstatymo normos, reglamentuojančios leidimus dirbti ir leidimus gyventi Lietuvos Respublikoje, teisiniams santykiams, susijusiems su investicijų sutarčių, sudarytų Lietuvos Respublikos investicijų įstatymo 131 straipsnyje nustatyta tvarka, ar stambaus projekto investicijų sutarčių, sudarytų Investicijų įstatymo 155 straipsnyje nustatyta tvarka, įgyvendinimu, taikomos tiek, kiek jų nereglamentuoja Investicijų įstatymas.
 Papildyta straipsnio dalimi:
 Nr. XIII-3162, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15493
+Straipsnio dalies pakeitimai:
+Nr. XIV-378, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13520
  
 
 
@@ -9772,3 +9774,8 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-324, 2021-05-20, paskelbta TAR 2021-06-01, i. k. 2021-12500
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 133 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-378, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13520
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 1 straipsnio pakeitimo įstatymas
