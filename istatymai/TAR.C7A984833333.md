@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C7A984833333"
 
 # Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-15
+Suvestinė redakcija nuo 2021-06-16 iki 2022-06-15
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 4-27, i. k. 1031010ISTA0IX-1905
  
@@ -1597,7 +1597,10 @@ REIKALAVIMAI ASMENIMS, PAGEIDAUJANTIEMS VYKDYTI VEIKLĄ AR DIRBTI DARBĄ, GALIN�
 
 
 
-8) vykdyti Reglamento (ES) 2019/779 5 ir 9 straipsniuose nurodytas informavimo pareigas.
+8) vykdyti Reglamento (ES) 2019/779 4, 5 ir 9 straipsniuose nurodytas informavimo pareigas. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3424, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24593
+ 
 
 
 
@@ -3797,7 +3800,6 @@ Toliau nurodyta neskelbtina informacija turi būti naudojama tik saugos tyrimo t
 
 
 Geležinkelio įmonės (vežėjai), įvykus katastrofai, privalo teikti nukentėjusiems asmenims ir jų šeimoms pagalbą, susijusią su skundų teikimo procedūromis pagal Europos Sąjungos teisės aktų reikalavimus, visų pirma pagal 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų su visais pakeitimais, nedarydami poveikio kitų šalių pareigoms, taip pat psichologinę pagalbą.
- 
  
 
 
