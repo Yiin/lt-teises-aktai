@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6EA8AC8A483B"
 
 # Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-15
+Suvestinė redakcija nuo 2021-06-16 iki 2021-12-28
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 72-2489, i. k. 1041010ISTA0IX-2152
  
@@ -134,7 +134,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 LAIKINAI EINANTIS 
-RESPUBLIKOS PREZIDENTO PAREIGAS                                 ARTŪRAS PAULAUSKAS 
+RESPUBLIKOS PREZIDENTO PAREIGAS                                   ARTŪRAS PAULAUSKAS 
  
 
 
@@ -1708,53 +1708,33 @@ Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 
 
 
-13 straipsnis. Lietuvos Respublikos geležinkelių riedmenų registras
+13 straipsnis. Geležinkelių riedmenų registravimas
 
 
-1. Geležinkelių riedmenys registruojami ir duomenys apie geležinkelių riedmenis, jų naudotojus, asmenis, atsakingus už geležinkelių riedmenų techninę priežiūrą, tvarkomi Lietuvos Respublikos geležinkelių riedmenų registre vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, Vyriausybės tvirtinamais Lietuvos Respublikos geležinkelių riedmenų registro nuostatais ir kitais teisės aktais, reglamentuojančiais geležinkelių riedmenų registravimą ir duomenų tvarkymą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-3417, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24590
- 
+1. Geležinkelių riedmenys registruojami ir duomenys apie geležinkelių riedmenis, jų naudotojus, asmenis, atsakingus už geležinkelių riedmenų techninę priežiūrą, kaupiami Europos geležinkelių agentūros tvarkomame Europos transporto priemonių registre, vadovaujantis 2018 m. spalio 25 d. Komisijos įgyvendinimo sprendimu (ES) 2018/1614, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2016/797 47 straipsnyje nurodytų transporto priemonių registrų specifikacijos ir iš dalies keičiamas ir panaikinamas Komisijos sprendimas 2007/756/EB, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu ir kitais teisės aktais, reglamentuojančiais geležinkelių riedmenų registravimą ir duomenų tvarkymą. 
 
 
 
 
-2. Lietuvos Respublikos geležinkelių riedmenų registre neregistruojami prekiniai ir keleiviniai vagonai, kuriuos ketinama naudoti Europos Sąjungoje kaip bendros 1 520 mm pločio vėžės geležinkelio sistemos vagonus, jeigu leidimai pradėti naudoti šiuos geležinkelių riedmenis pirmą kartą išduoti ar teisė eksploatuoti šiuos geležinkelių riedmenis pirmą kartą suteikta trečiojoje valstybėje įsteigtos organizacijos (asociacijos). Šio straipsnio 1 dalyje  nurodyti geležinkelių riedmenys geležinkelių riedmenų naudotojo prašymu išregistruojami iš Lietuvos Respublikos geležinkelių riedmenų registro. 
-Papildyta straipsnio dalimi:
-Nr. XIII-833, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20053
-Straipsnio dalies pakeitimai:
-Nr. XIII-3417, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24590
- 
+2. Europos transporto priemonių registre neregistruojami prekiniai ir keleiviniai vagonai, kuriuos ketinama naudoti Europos Sąjungoje kaip bendros 1 520 mm pločio vėžės geležinkelio sistemos vagonus, jeigu leidimai pradėti naudoti šiuos geležinkelių riedmenis pirmą kartą išduoti ar teisė eksploatuoti šiuos geležinkelių riedmenis pirmą kartą suteikta trečiojoje valstybėje įsteigtos organizacijos (asociacijos). 
 
 
 
 
-3. Geležinkelio įmonė (vežėjas), Lietuvos Respublikoje naudojanti šio straipsnio 2 dalyje nurodytus prekinius ir keleivinius vagonus, raštu neatlygintinai teikia geležinkelių transporto eismo saugos institucijai jos paprašytus duomenis apie šių Lietuvos Respublikos geležinkelių riedmenų registre neregistruotinų geležinkelių riedmenų naudotoją, už geležinkelių riedmenų techninę priežiūrą atsakingą subjektą ir geležinkelių riedmenų naudojimo apribojimus, taip pat kitus papildomus duomenis apie geležinkelių riedmenis, jeigu geležinkelio įmonė (vežėjas) tokius duomenis turi. Duomenys teikiami per 5 darbo dienas nuo geležinkelių transporto eismo saugos institucijos prašymo pateikti duomenis gavimo dienos. Geležinkelių transporto eismo saugos institucija šiuos duomenis kitiems subjektams teikia mutatis mutandis vadovaudamasi Lietuvos Respublikos geležinkelių riedmenų registro nuostatais. 
-Papildyta straipsnio dalimi:
-Nr. XIII-833, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20053
- 
+3. Geležinkelio įmonė (vežėjas), Lietuvos Respublikoje naudojanti šio straipsnio 2 dalyje nurodytus prekinius ir keleivinius vagonus, raštu neatlygintinai teikia geležinkelių transporto eismo saugos institucijai jos paprašytus duomenis apie šių Europos transporto priemonių registre neregistruotinų geležinkelių riedmenų naudotoją, už geležinkelių riedmenų techninę priežiūrą atsakingą subjektą ir geležinkelių riedmenų naudojimo apribojimus, taip pat kitus papildomus duomenis apie geležinkelių riedmenis, jeigu geležinkelio įmonė (vežėjas) tokius duomenis turi. Duomenys teikiami per 5 darbo dienas nuo geležinkelių transporto eismo saugos institucijos prašymo pateikti duomenis gavimo dienos.
 
 
 
 
-4. Lietuvos Respublikos geležinkelių riedmenų registro tvarkytojui duomenis apie geležinkelių riedmenis teikia geležinkelių riedmenų naudotojai Lietuvos Respublikos geležinkelių riedmenų registro nuostatų nustatyta tvarka.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-833, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20053
- 
-
-
-
-
-5. Lietuvos Respublikos geležinkelių riedmenų registras yra valstybės registras. Lietuvos Respublikos geležinkelių riedmenų registro valdytoja yra Susisiekimo ministerija, o šio registro tvarkytoją skiria Vyriausybė.
-Straipsnio dalies numeracijos pakeitimas:
-Nr. XIII-833, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20053
- 
+4. Geležinkelių riedmenis Europos transporto priemonių registre registruoja, išregistruoja iš šio registro ir duomenis apie geležinkelių riedmenis, jų naudotojus, asmenis, atsakingus už geležinkelių riedmenų techninę priežiūrą, pakeičia eismo saugos institucija.  Prašymai registruoti, išregistruoti geležinkelių riedmenis ar pakeisti šioje dalyje nurodytus duomenis teikiami, nagrinėjami ir sprendimai pagal juos priimami Komisijos įgyvendinimo sprendimo (ES) 2018/1614 ir susisiekimo ministro nustatyta tvarka. 
 
 
 Straipsnio pakeitimai:
 Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
 Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
+Straipsnio pakeitimai:
+Nr. XIII-3417, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24590
  
 
 
@@ -3748,7 +3728,7 @@ Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
 1. Geležinkelių transporto darbuotojas nušalinamas nuo darbo, jei:
 
 
-1) nustatytu laiku nebuvo galima patikrinti, ar jis atitinka suteiktą kvalifikaciją, nes darbuotojas be pateisinamų priežasčių patikrinime nedalyvavo;            
+1) nustatytu laiku nebuvo galima patikrinti, ar jis atitinka suteiktą kvalifikaciją, nes darbuotojas be pateisinamų priežasčių patikrinime nedalyvavo;               
 
 
 
