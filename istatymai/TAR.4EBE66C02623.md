@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2021-06-10 iki 2021-06-17
+Suvestinė redakcija nuo 2021-06-18 iki 2021-06-27
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -19077,7 +19077,9 @@ Kai administracinėn atsakomybėn traukiamas asmuo ir nukentėjusysis yra nepiln
 
 
 
-3. Advokato įgaliojimai patvirtinami advokatų kontoros išduodamu orderiu, kito įgalioto atstovo įgaliojimai – notaro patvirtintu įgaliojimu arba pavedimo sutartimi. Įgalioto atstovo įgaliojimai gali būti patvirtinti administracinėn atsakomybėn traukiamo asmens ar nukentėjusiojo pareiškimu bylos nagrinėjimo teismo posėdyje metu pateikus aukštąjį teisinį universitetinį arba jam prilyginamą išsilavinimą patvirtinantį dokumentą ir šio straipsnio 1 dalyje nurodytą ryšį patvirtinantį dokumentą. 
+3. Advokato arba advokato padėjėjo įgaliojimai patvirtinami advokato arba advokato padėjėjo orderiu arba su klientu pasirašyta teisinių paslaugų sutartimi ar sutarties išrašu. Tuo atveju, kai yra teikiama valstybės garantuojama teisinė pagalba, advokato įgaliojimai patvirtinami Valstybės garantuojamos teisinės pagalbos įstatyme nurodytais dokumentais. Kito įgalioto atstovo įgaliojimai patvirtinami notaro patvirtintu įgaliojimu arba pavedimo sutartimi. Įgalioto atstovo įgaliojimai gali būti patvirtinti administracinėn atsakomybėn traukiamo asmens ar nukentėjusiojo pareiškimu bylos nagrinėjimo teismo posėdyje metu pateikus aukštąjį teisinį universitetinį arba jam prilyginamą išsilavinimą patvirtinantį dokumentą ir šio straipsnio 1 dalyje nurodytą ryšį patvirtinantį dokumentą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-391, 2021-06-15, paskelbta TAR 2021-06-17, i. k. 2021-13829
  
 
 
@@ -25091,3 +25093,8 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 70, 77, 132, 170, 20
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-366, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13173
 Lietuvos Respublikos administracinių nusižengimų kodekso 346 straipsnio pakeitimo įstatymas
+ 
+128.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-391, 2021-06-15, paskelbta TAR 2021-06-17, i. k. 2021-13829
+Lietuvos Respublikos administracinių nusižengimų kodekso 585 straipsnio pakeitimo įstatymas
