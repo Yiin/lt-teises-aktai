@@ -15,7 +15,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8624542DCE85"
 
 Redagavo: Ramunė Lūžaitė (1997
 
-Suvestinė redakcija nuo 2020-01-01 iki 2021-06-22
+ 
+
+Įstatymas netenka galios 2022-09-17:
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-1415, 2022-09-15, paskelbta TAR 2022-09-16, i. k. 2022-19004
+Lietuvos Respublikos politinių organizacijų įstatymas
+ 
+Suvestinė redakcija nuo 2021-06-23 iki 2022-09-16
  
 Įstatymas paskelbtas: Lietuvos aidas 1990, Nr. 91-0; Žin. 1990, Nr.29-692, i. k. 090XX01ISTA000I-606
  
@@ -45,16 +52,20 @@ BENDROSIOS NUOSTATOS
 
 1. Šis įstatymas reglamentuoja juridinių asmenų, kurių teisinė forma yra politinė partija, steigimą, veiklą, teises, pabaigos (reorganizavimo ir likvidavimo) ir pertvarkymo ypatumus, politinių partijų finansavimo ir finansavimo kontrolės tvarką.
 
-2. Šis įstatymas nereglamentuoja politinių partijų, kurios pagal 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentą (ES, Euratomas) Nr. 1141/2014 dėl Europos politinių partijų ir Europos politinių fondų statuto ir finansavimo (OL 2014 L 317, p. 1) (toliau – Reglamentas Nr. 1141/2014) laikomos Europos politinėmis partijomis, finansavimo ir jų finansavimo kontrolės. 
+2. Šis įstatymas nereglamentuoja politinių partijų, kurios pagal 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentą (ES, Euratomas) Nr. 1141/2014 dėl Europos politinių partijų ir Europos politinių fondų statuto ir finansavimo su visais pakeitimais laikomos Europos politinėmis partijomis, finansavimo ir jų finansavimo kontrolės. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1954, 2019-01-15, paskelbta TAR 2019-01-21, i. k. 2019-00895
+Nr. XIV-388, 2021-06-10, paskelbta TAR 2021-06-22, i. k. 2021-14070
  
 
 2 straipsnis. Šiame įstatyme vartojamos sąvokos
 
 1. Auditoriaus ataskaita dėl pastebėtų faktų – šio įstatymo nustatyta tvarka, vadovaujantis tarptautiniais susijusių paslaugų standartais ir pagal Lietuvos Respublikos vyriausiosios rinkimų komisijos (toliau – Vyriausioji rinkimų komisija) patvirtintą techninę užduotį, kurioje nustatytas auditoriui pavedamo atlikti darbo mastas, parengtas dokumentas, kuriame auditorius pateikia politinės kampanijos dalyvio nepriklausomo patikrinimo rezultatus. 
 
-2. Auditorius – fizinis asmuo, turintis Lietuvos Respublikos audito įstatymo nustatyta tvarka suteiktą atestuoto auditoriaus vardą.
+2. Auditorius – fizinis asmuo, turintis Lietuvos Respublikos audito įstatymo nustatyta tvarka išduotą auditoriaus pažymėjimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-388, 2021-06-10, paskelbta TAR 2021-06-22, i. k. 2021-14070
+ 
 
 3. Lietuvos Respublikoje gyvenantis Europos Sąjungos valstybės narės pilietis – kitos Europos Sąjungos valstybės narės pilietis, Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatytomis sąlygomis įgijęs teisę gyventi Lietuvos Respublikoje ir ne mažiau kaip šešis mėnesius joje gyvenantis. 
 Papildyta straipsnio dalimi:
@@ -83,9 +94,10 @@ Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
 Nr. XIII-1624, 2018-11-15, paskelbta TAR 2018-11-19, i. k. 2018-18643
  
 
-7. Politinės partijos steigėjas – politinę partiją steigiantis Lietuvos Respublikos pilietis, sulaukęs 18 metų.
+7. Politinės partijos steigėjas – politinę partiją steigiantis Lietuvos Respublikos pilietis ar Lietuvos Respublikoje gyvenantis Europos Sąjungos valstybės narės pilietis, sulaukę 18 metų. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
+Nr. XIV-388, 2021-06-10, paskelbta TAR 2021-06-22, i. k. 2021-14070
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
 Nr. XIII-1624, 2018-11-15, paskelbta TAR 2018-11-19, i. k. 2018-18643
@@ -117,16 +129,20 @@ Nr. XIII-1624, 2018-11-15, paskelbta TAR 2018-11-19, i. k. 2018-18643
 
 3 straipsnis. Teisė jungtis į politines partijas 
 
-Lietuvos Respublikos piliečiai turi teisę laisvai jungtis į politines partijas, dalyvauti jų veikloje ir iš jų išstoti. Šią teisę, išskyrus teisę steigti politinę partiją, taip pat turi Lietuvos Respublikoje gyvenantys Europos Sąjungos valstybių narių piliečiai. 
+Teisę laisvai jungtis į politines partijas, dalyvauti jų veikloje ir iš jų išstoti turi Lietuvos Respublikos piliečiai ir Lietuvos Respublikoje gyvenantys Europos Sąjungos valstybių narių piliečiai. 
 
 Straipsnio pakeitimai:
 Nr. XII-1292, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17207
 Nr. XIII-1954, 2019-01-15, paskelbta TAR 2019-01-21, i. k. 2019-00895
+Nr. XIV-388, 2021-06-10, paskelbta TAR 2021-06-22, i. k. 2021-14070
  
 
 4 straipsnis. Politinių partijų veiklos pagrindai
 
-1. Politinės partijos savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija (toliau – Konstitucija), Lietuvos Respublikos civiliniu kodeksu (toliau – Civilinis kodeksas), šiuo ir kitais Lietuvos Respublikos įstatymais, kitais teisės aktais, savo įstatais bei programa.
+1. Politinės partijos savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos civiliniu kodeksu, šiuo ir kitais įstatymais, savo įstatais bei programa. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-388, 2021-06-10, paskelbta TAR 2021-06-22, i. k. 2021-14070
+ 
 
 2. Lietuvos Respublikos teritorijoje negali būti steigiamos ir veikti kitų valstybių politinės partijos ir politinės organizacijos, jų padaliniai. Šis draudimas netaikomas Europos politinėms partijoms, kurių steigimą ir veiklą reglamentuoja Reglamentas Nr. 1141/2014. 
 Straipsnio dalies pakeitimai:
@@ -135,7 +151,9 @@ Nr. XIII-1954, 2019-01-15, paskelbta TAR 2019-01-21, i. k. 2019-00895
 
 3. Draudžiama steigtis ir veikti politinėms partijoms, kurių steigimo ar programiniuose dokumentuose propaguojama ar veikloje praktikuojama rasinė, tautinė, religinė, socialinė nelygybė ir neapykanta, autoritarinio ar totalitarinio valdymo, valdžios užgrobimo prievarta metodai, karo ir smurto propaganda, žmogaus teisių bei laisvių, viešosios tvarkos pažeidimai, kitokios idėjos bei veiksmai, prieštaraujantys Konstitucijai, Lietuvos Respublikos įstatymams ir nesuderinami su visuotinai pripažintomis tarptautinės teisės normomis.
 
-4. Politinės partijos organai ir buveinė turi būti Lietuvos Respublikos teritorijoje.
+4. Politinės partijos buveinė turi būti Lietuvos Respublikoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-388, 2021-06-10, paskelbta TAR 2021-06-22, i. k. 2021-14070
  
 
 ANTRASIS SKIRSNIS
@@ -144,14 +162,15 @@ POLITINIŲ PARTIJŲ STEIGIMAS, REGISTRAVIMAS IR PABAIGA
 
 5 straipsnis. Politinių partijų steigimas
 
-1. Politinės partijos steigėjais ir nariais gali būti Lietuvos Respublikos piliečiai, kurie yra sulaukę 18 metų ir nėra kitų valstybių partijų ar politinių organizacijų nariai, išskyrus jų narystę Europos politinėse partijose, kurių steigimą ir veiklą reglamentuoja Reglamentas Nr. 1141/2014. Lietuvos Respublikoje gyvenantys Europos Sąjungos valstybių narių piliečiai, kurie yra sulaukę 18 metų ir nėra kitų valstybių partijų ar politinių organizacijų nariai, išskyrus jų narystę Europos politinėse partijose, kurių steigimą ir veiklą reglamentuoja Reglamentas Nr. 1141/2014, gali būti tik politinės partijos nariais.
+1. Politinės partijos steigėjais ir nariais gali būti Lietuvos Respublikos piliečiai ir Lietuvos Respublikoje gyvenantys Europos Sąjungos valstybių narių piliečiai, kurie yra sulaukę 18 metų ir nėra kitų valstybių partijų ar politinių organizacijų nariai, išskyrus jų narystę Europos politinėse partijose, kurių steigimą ir veiklą reglamentuoja Reglamentas Nr. 1141/2014. 
 
-2. Politinės partijos steigėjai nuo politinės partijos įregistravimo Juridinių asmenų registre tampa jos nariais. Tuo pačiu metu Lietuvos Respublikos pilietis gali būti tik vienos Lietuvos Respublikoje įregistruotos politinės partijos steigėju ar nariu. Tuo pačiu metu Lietuvos Respublikoje gyvenantis Europos Sąjungos valstybės narės pilietis gali būti tik vienos Lietuvos Respublikoje įregistruotos politinės partijos nariu.
+2. Politinės partijos steigėjai nuo politinės partijos įregistravimo Juridinių asmenų registre tampa jos nariais. Tuo pačiu metu Lietuvos Respublikos pilietis ar Lietuvos Respublikoje gyvenantis Europos Sąjungos valstybės narės pilietis gali būti tik vienos Lietuvos Respublikoje įregistruotos politinės partijos steigėju ar nariu. 
 
-3. Politinei partijai įsteigti būtina, kad ji Lietuvos Respublikoje turėtų ne mažiau kaip du tūkstančius steigėjų. Šie savo ar savo atstovų suvažiavime (susirinkime, konferencijoje) turi priimti politinės partijos įstatus, programą ir išrinkti valdymo organus, taip pat priimti sprendimą dėl buveinės. Steigėjas gali Civilinio kodekso nustatyta tvarka įgalioti kitą steigėją atstovauti jam politinės partijos steigiamajame suvažiavime (susirinkime, konferencijoje). Vienas steigėjas gali pagal įgaliojimus atstovauti ne daugiau kaip dešimčiai kitų steigėjų. 
+3. Politinei partijai įsteigti būtina, kad ji Lietuvos Respublikoje turėtų ne mažiau kaip du tūkstančius steigėjų. Steigėjai ir (arba) jų atstovai sušauktame politinės partijos steigiamajame suvažiavime (susirinkime, konferencijoje) turi priimti politinės partijos įstatus, programą ir išrinkti valdymo organus, taip pat priimti sprendimą dėl buveinės. Steigėjas gali Civilinio kodekso nustatyta tvarka įgalioti kitą steigėją atstovauti jam politinės partijos steigiamajame suvažiavime (susirinkime, konferencijoje). Vienas steigėjas gali pagal įgaliojimus atstovauti ne daugiau kaip dešimčiai kitų steigėjų. 
 
 Straipsnio pakeitimai:
 Nr. XIII-1954, 2019-01-15, paskelbta TAR 2019-01-21, i. k. 2019-00895
+Nr. XIV-388, 2021-06-10, paskelbta TAR 2021-06-22, i. k. 2021-14070
  
 
 6 straipsnis. Politinės partijos steigimo dokumentas
@@ -601,14 +620,15 @@ Nr. XIII-2565, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19877
 3. Šio straipsnio 2 dalyje priimtą sprendimą politinė partija per 14 dienų nuo sprendimo priėmimo turi teisę apskųsti Lietuvos vyriausiajam administraciniam teismui. 
  
 
-31 straipsnis. Atsakomybė
-
-Už šio įstatymo pažeidimus asmenys atsako šio ir kitų įstatymų nustatyta tvarka.
+31 straipsnis. Neteko galios nuo 2021-06-23
+Straipsnio naikinimas:
+Nr. XIV-388, 2021-06-10, paskelbta TAR 2021-06-22, i. k. 2021-14070
  
 
-32 straipsnis. Ginčai dėl šio įstatymo pažeidimų
-
-Ginčai dėl šio įstatymo pažeidimų sprendžiami įstatymų nustatyta tvarka.
+32 straipsnis. Neteko galios nuo 2021-06-23
+Straipsnio naikinimas:
+Nr. XIV-388, 2021-06-10, paskelbta TAR 2021-06-22, i. k. 2021-14070
+ 
 
  
  
@@ -733,4 +753,9 @@ Lietuvos Respublikos politinių partijų įstatymo Nr. I-606 preambulės, 1, 2, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2565, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19877
 Lietuvos Respublikos politinių partijų įstatymo Nr. I-606 2, 19, 20, 21, 23, 24, 26, 27, 30 straipsnių ir penktojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-388, 2021-06-10, paskelbta TAR 2021-06-22, i. k. 2021-14070
+Lietuvos Respublikos politinių partijų įstatymo Nr. I-606 1, 2, 3, 4, 5 straipsnių pakeitimo ir 31, 32 straipsnių pripažinimo netekusiais galios įstatymas
 
