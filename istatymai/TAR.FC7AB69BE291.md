@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2021-02-01 iki 2021-06-29
+Suvestinė redakcija nuo 2021-06-30 iki 2021-06-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
  
@@ -37,7 +37,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Šio įstatymo tikslas – užtikrinti darnią atsinaujinančių energijos išteklių naudojimo plėtrą, skatinti tolesnį naujų technologijų vystymąsi ir diegimą bei pagamintos energijos vartojimą, ypač atsižvelgiant į Lietuvos Respublikos tarptautinius įsipareigojimus, aplinkos apsaugos, iškastinių energijos išteklių tausojimo, priklausomybės nuo iškastinių energijos išteklių ir energijos importo mažinimo bei kitus valstybės energetikos politikos tikslus, įvertinus energijos tiekimo saugumo ir patikimumo reikalavimus, taip pat į vartotojų teisių ir teisėtų interesų į atsinaujinančių energijos išteklių prieinamumą, tinkamumą ir pakankamumą apsaugos užtikrinimo principus.
+2. Šio įstatymo tikslas – užtikrinti darnią atsinaujinančių energijos išteklių naudojimo plėtrą ir integraciją į energetikos sistemą, skatinti tolesnį naujų technologijų vystymąsi ir diegimą bei pagamintos energijos vartojimą, ypač atsižvelgiant į Lietuvos Respublikos tarptautinius įsipareigojimus, aplinkos apsaugos, iškastinių energijos išteklių tausojimo, priklausomybės nuo iškastinių energijos išteklių ir energijos importo mažinimo, atsinaujinančių energijos išteklių integravimo į energetikos sistemą sąnaudas, energetikos sistemos darbo stabilumą ir patikimumą bei kitus valstybės energetikos politikos tikslus, įvertinus energijos tiekimo saugumo ir patikimumo reikalavimus, taip pat į vartotojų teisių ir teisėtų interesų į atsinaujinančių energijos išteklių prieinamumą, tinkamumą ir pakankamumą apsaugos užtikrinimo ir finansinės paramos stabilumo energijos iš atsinaujinančių išteklių gamintojams principus. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
@@ -89,12 +92,18 @@ Nr. XIII-1890, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00247
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Aeroterminė energija – šilumos energija, susikaupusi ore.
+1. Aplinkos energija – natūraliai susidaranti šiluminė energija ir apribotoje aplinkoje – aplinkos ore, išskyrus šalinamą orą, paviršiniame vandenyje arba nuotekose – susikaupianti energija. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
 
-2. Atsinaujinančių išteklių energija – energija iš atsinaujinančių neiškastinių išteklių: vėjo, saulės energija, aeroterminiai, geoterminiai, hidroterminiai ištekliai ir vandenynų energija, hidroenergija, biomasė, biodujos, įskaitant sąvartynų ir nuotekų perdirbimo įrenginių dujas, taip pat kitų atsinaujinančių neiškastinių išteklių, kurių panaudojimas technologiškai yra galimas dabar arba bus galimas ateityje, energija.
+2. Atsinaujinančių išteklių energija – energija iš atsinaujinančių neiškastinių išteklių: vėjo, saulės energija, aplinkos energija, geoterminiai, hidroterminiai ištekliai ir vandenynų energija, hidroenergija, biomasė, biodujos, įskaitant sąvartynų ir nuotekų perdirbimo įrenginių dujas, taip pat kitų atsinaujinančių neiškastinių išteklių, kurių panaudojimas technologiškai yra galimas dabar arba bus galimas ateityje, energija.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
@@ -130,7 +139,10 @@ Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
 
 
 
-7. Bendrasis galutinis energijos suvartojimas – energijos tikslais pramonei, transportui, namų ūkiams, paslaugų sektoriui (įskaitant viešąsias paslaugas), žemės ūkiui, miškininkystei ir žuvininkystei tiekiamų energijos produktų suvartojimas, įskaitant elektros ir šilumos energijos, kurią elektros ir šilumos energijos gamybai sunaudoja energetikos sektorius, suvartojimą ir elektros bei šilumos energijos nuostolius paskirstymo ir perdavimo proceso metu.
+7. Bendrasis galutinis energijos suvartojimas – energijos tikslais pramonei, transportui, namų ūkiams, paslaugų sektoriui (įskaitant viešąsias paslaugas), žemės ūkiui, miškininkystei ir žuvininkystei tiekiamų energijos produktų suvartojimas, įskaitant elektros ir šilumos energijos, kurią elektros, šilumos energijos ir transporto degalų gamybai sunaudoja energetikos sektorius, suvartojimą ir elektros bei šilumos energijos nuostolius paskirstymo ir perdavimo proceso metu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
@@ -306,7 +318,10 @@ Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
 
 
 
-31. Hidroterminė energija – šilumos energija, susikaupusi paviršiniuose vandenyse.
+31. Neteko galios nuo 2021-06-30.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
@@ -314,6 +329,14 @@ Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
 32. Integruota į pastatą saulės šviesos energijos elektrinė – elektrinė, kurios elektros energiją generuojantys įrenginiai (saulės šviesos energijos moduliai arba speciali danga) įrengiami į pastato sieną ar stogą (ar jų dalį) ir užtikrina pastato apsaugą nuo atmosferos poveikio (lietaus, sniego, vėjo). Tokios elektrinės įrenginius pašalinus iš pastato sienos ar stogo (ar jų dalies) iš esmės būtų pažeista pastato apsauga nuo atmosferos poveikio. 
 Papildyta straipsnio dalimi:
 Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
+
+
+
+
+321. Iš atsinaujinančių išteklių pagaminti nebiologiniai skystieji ir dujiniai degalai – skystieji arba dujiniai degalai, kurių energijos kiekis sukaupiamas iš atsinaujinančių energijos išteklių, išskyrus biomasę, ir kurie yra naudojami transportui. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
 
 
@@ -340,6 +363,14 @@ Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
 35. Mineraliniai degalai – iš gamtinių iškastinių žaliavų arba mineralinės kilmės atliekų pagaminti skystieji arba dujiniai transporto degalai.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
+
+
+
+
+351. Miško biomasė – miškų ūkyje gaunama biomasė. 
+Papildyta straipsnio dalimi:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
 
 
@@ -421,7 +452,9 @@ Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
 
 
 
-45. Šilumos siurblys – įrenginys, paverčiantis aeroterminę, geoterminę ar hidroterminę energiją aukštesnės temperatūros šiluma, naudojama pastatams šildyti ir (ar) karštam vandeniui ruošti.
+45. Šilumos siurblys – įrenginys, paverčiantis aplinkos ar geoterminę energiją aukštesnės temperatūros šiluma, naudojama pastatams šildyti ir (ar) karštam vandeniui ruošti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
  
@@ -440,6 +473,14 @@ Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
 47. Valstybė narė – Europos Sąjungos valstybė narė ir (ar) Europos ekonominės erdvės valstybė. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
+ 
+
+
+
+
+471. Valstybės narės liekamasis energijos rūšių derinys (toliau – liekamasis derinys) – visas valstybės narės metinis įvairių rūšių energijos kiekis atėmus panaikintose atsinaujinančių išteklių energijos kilmės garantijose nurodytą energijos kiekį.
+Papildyta straipsnio dalimi:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
 
 
@@ -668,7 +709,10 @@ Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
 1. Vyriausybė:
 
 
-1) užtikrina, kad būtų pasiekti šio įstatymo 1 straipsnio 4 ir 5 dalyse nustatyti uždaviniai;
+1) neteko galios nuo 2021-06-30;
+Straipsnio punkto pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
@@ -873,7 +917,10 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 Energetikos ministerija:
 
 
-1) teisės aktų nustatyta tvarka ir sąlygomis pagal kompetenciją koordinuoja degiųjų dujinių produktų (biodujų), miško ir medienos atliekų, šiaudų, kitų rūšių biologinės kilmės kuro (žemės ūkio atliekų ir augalų, naudojamų energijai gaminti) gamybos ir naudojimo, taip pat aeroterminės, geoterminės, hidroterminės energijos, hidroenergijos, saulės šilumos energijos ir saulės šviesos energijos, vėjo energijos naudojimo energijai gaminti plėtros ir skatinimo priemonių įgyvendinimą, atlieka jų įgyvendinimo stebėseną ir užtikrina valstybinę priežiūrą ir kontrolę;
+1) teisės aktų nustatyta tvarka ir sąlygomis pagal kompetenciją koordinuoja degiųjų dujinių produktų (biodujų), miško ir medienos atliekų, šiaudų, kitų rūšių biologinės kilmės kuro (žemės ūkio atliekų ir augalų, naudojamų energijai gaminti) gamybos ir naudojimo, taip pat aplinkos, geoterminės, hidroenergijos, saulės šilumos energijos ir saulės šviesos energijos, vėjo energijos naudojimo energijai gaminti plėtros ir skatinimo priemonių įgyvendinimą, atlieka jų įgyvendinimo stebėseną ir užtikrina valstybinę priežiūrą ir kontrolę; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
@@ -1218,7 +1265,10 @@ Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 
 
 
-14) atlieka kitas šio įstatymo nustatytas funkcijas. 
+15) atlieka kitas šio įstatymo nustatytas funkcijas. 
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 Straipsnio pakeitimai:
@@ -3000,13 +3050,13 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-37 straipsnis. Biodegalų ir skystųjų bioproduktų tvarumo sistema
+37 straipsnis. Biodegalų ir skystųjų bioproduktų tvarumo sistema
 
 
-1. Biodegalai ir skystieji bioproduktai turi atitikti šio įstatymo 38 straipsnyje nustatytus tvarumo kriterijus, nesvarbu, kurioje pasaulio šalyje užauginta (gauta) žaliava jiems gaminti:
+1. Biodegalai ir skystieji bioproduktai turi atitikti šio įstatymo 38 straipsnyje nustatytus tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijus, nepaisant to, kurioje pasaulio šalyje užauginta (gauta) žaliava jiems gaminti:
 
 
-1) skaičiuojant šio įstatymo 55 straipsnyje nurodytus nacionalinius planinius rodiklius;
+1) apskaičiuojant šio įstatymo 1 straipsnio 4 dalyje nustatytą energijos gamybos iš atsinaujinančių išteklių energijos dalį, palyginti su šalies bendruoju galutiniu energijos suvartojimu;
 
 
 
@@ -3016,83 +3066,137 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-3) teikiant finansinę paramą už biodegalų ir skystųjų bioproduktų naudojimą;
+3) teikiant finansinę paramą už biodegalų ir skystųjų bioproduktų naudojimą;
+
+
+
+
+4) įmaišant juos į degalus, pagamintus iš mineralinių degalų, kaip nurodyta šio įstatymo 39 straipsnyje.
 
 
 
 
 
 
-2. Remiantis kitais tvarumo siekiais, negalima neatsižvelgti į biodegalus ir skystuosius bioproduktus, gautus laikantis šio įstatymo 38 straipsnyje nustatytų tvarumo kriterijų šio straipsnio 1 dalyje nurodytais tikslais.
+2. Apskaičiuojant šio įstatymo 1 straipsnio 4 dalyje nustatytą energijos gamybos iš atsinaujinančių išteklių energijos dalį, palyginti su šalies bendruoju galutiniu energijos suvartojimu, atliekant šio straipsnio 1 dalies 2 punkte numatytą vertinimą ir teikiant šio straipsnio 1 dalies 3 punkte numatytą finansinę paramą, privaloma atsižvelgti ir į kitus Europos Komisijos patvirtintus tvarumo kriterijus, jeigu jie yra nustatyti, bet neįtvirtinti šiame įstatyme. Šios dalies nuostatos netaikomos iki 2018 m. gruodžio 24 d. patvirtintoms paramos schemoms.
 
 
 
 
-3. Šio straipsnio 1 dalyje nurodytais tikslais vertinant biodegalų ir skystųjų bioproduktų atitiktį tvarumo kriterijams, Vyriausybės įgaliota institucija reikalauja, kad atitinkamą veiklą vykdantys asmenys pagrįstų šio įstatymo 38 straipsnio 2, 3, 4, 6 ir 7 dalyse nustatytų tvarumo kriterijų įvykdymą. Tuo tikslu reikalaujama, kad tokie asmenys naudotų masės balanso sistemą, kuri:
-
-
-1) leidžia maišyti skirtingomis tvarumo charakteristikomis pasižyminčių žaliavų ir biodegalų siuntas;
+3. Vyriausybės įgaliota institucija turi teisę reikalauti, kad ūkinę veiklą vykdantys asmenys pagrįstų tiekiamų ir (ar) gaminamų biodegalų ir skystųjų bioproduktų ar jų gamybai naudotų žaliavų atitiktį šio įstatymo 38 straipsnio 2, 4, 5, 7, 8, 9, 10, 11 ir 12 dalyse nustatytiems tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijams.
 
 
 
 
-2) reikalauja, kad informacija apie šios dalies 1 punkte nurodytų siuntų tvarumo charakteristikas ir dydžius ir toliau būtų priskiriama mišiniui;
+4. Siekiant užtikrinti biodegalų ir skystųjų bioproduktų atitiktį tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijams, nurodytiems šio įstatymo 38 straipsnio 2, 4, 5, 7, 8, 9, 10, 11 ir 12 dalyse, ūkinę veiklą vykdantys asmenys privalo naudoti masės balanso sistemą, kuri:
+
+
+1) leidžia maišyti skirtingomis tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo charakteristikomis pasižyminčių žaliavų ir kuro partijas; 
 
 
 
 
-3) numato, kad visų iš mišinio pašalintų siuntų suma turi tas pačias tvarumo charakteristikas esant tam pačiam siuntų kiekiui, kaip visų į mišinį įmaišytų siuntų suma.
+2) leidžia maišyti skirtingos energinės vertės žaliavų partijas, siekiant jas toliau perdirbti, jeigu žaliavų partijų dydis pakoreguojamas pagal jų energinę vertę;
+
+
+
+
+3) reikalauja, kad informacija apie šios dalies 1 punkte nurodytų žaliavų ir kuro partijų tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo charakteristikas ir dydžius ir toliau būtų priskiriama mišiniui; 
+
+
+
+
+4) numato, kad visų iš mišinio paimtų dalių suma turi tas pačias tvarumo charakteristikas esant tam pačiam žaliavų ir kuro partijų kiekiui, kaip visų į mišinį įmaišytų žaliavų ir kuro partijų suma, ir reikalauja, kad šis balansas būtų pasiektas per nustatytą laikotarpį;
+
+
+
+
+5) užtikrina, kad į kiekvieną žaliavų ir kuro partiją būtų atsižvelgiama tik vieną kartą, apskaičiuojant bendrą galutinį energijos iš atsinaujinančių išteklių suvartojimą;
+
+
+
+
+6) užtikrina informacijos apie paramą, skirtą žaliavų ir kuro partijos gamybai, pateikimą.
 
 
 
 
 
 
-4. Vyriausybės įgaliota institucija užtikrina, kad atitinkamą veiklą vykdantys asmenys pateiktų patikimą informaciją ir duomenis, kurie buvo panaudoti rengiant informaciją apie šio įstatymo 38 straipsnio 2, 3, 4, 6 ir 7 dalyse nustatytų tvarumo kriterijų laikymąsi, tinkamą ir svarbią informaciją apie priemones, kurių imtasi siekiant apsaugoti dirvožemį, vandenį ir orą, atkurti nualintą žemę, užtikrinti, kad vietovėse, kuriose gėlo vandens yra mažai, jis būtų vartojamas taupiai, taip pat kitą informaciją pagal Europos Komisijos nustatytą tinkamos ir svarbios informacijos sąrašą.
+5. Perdirbant žaliavų ir kuro partiją, informacija apie žaliavų ir kuro partijos tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo charakteristikas tikslinama ir produkcijai priskiriama tokia tvarka:
+
+
+1) jeigu perdirbant žaliavos partiją gaunama tik vienos rūšies produkcija, skirta biodegalų ar skystųjų bioproduktų, iš atsinaujinančių išteklių pagaminto nebiologinės kilmės skystojo ir dujinio transporto kuro gamybai, partijos dydis ir susijusios tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo charakteristikos tikslinamos taikant perskaičiavimo koeficientą, atitinkantį tokiai gamybai skirtos produkcijos masės ir procesui patiektos žaliavos masės santykį; 
 
 
 
 
-5. Atitinkamą veiklą vykdantys asmenys parengia tinkamą nepriklausomo pateikiamos informacijos audito standartą ir Vyriausybės įgaliotai institucijai pateikia įrodymą, kad toks standartas buvo parengtas. Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka atlieka auditą, kurio metu patikrinama, ar atitinkamą veiklą vykdančio asmens naudojamos sistemos yra tikslios, patikimos ir apsaugotos nuo klastojimo. Audito metu įvertinamas mėginių ėmimo dažnumas ir metodika, taip pat įvertinamas duomenų patikimumas.
+2) jeigu perdirbant žaliavos partiją gaunama daugiau negu vienos rūšies produkcija, skirta biodegalų, skystųjų bioproduktų, iš atsinaujinančių išteklių pagaminto nebiologinės kilmės skystojo ir dujinio transporto kuro gamybai, kiekvienos rūšies produkcijai taikomas atskiras perskaičiavimo koeficientas ir atskiras masės balansas.
 
 
 
 
-6. Jeigu asmuo pateikia įrodymų ar duomenų, gautų pagal Europos Sąjungos su užsienio valstybėmis sudarytą dvišalį ar daugiašalį susitarimą, kuriame susitariama dėl tvarumo kriterijų, ir Europos Komisija priima sprendimą, kad tokiu susitarimu įrodoma iš atitinkamose šalyse išaugintų (gautų) žaliavų pagamintų biodegalų ir skystųjų bioproduktų atitiktis tvarumo kriterijams, arba pagal Europos Komisijos sprendimu pripažintą savanorišką schemą, kiek toks Europos Komisijos sprendimas yra taikomas, Vyriausybės įgaliota institucija nereikalauja, kad asmuo pateiktų papildomų įrodymų, kad šio įstatymo 38 straipsnio 2, 3, 4, 6 ir 7 dalyse nustatyti tvarumo kriterijai yra įvykdyti, arba pateiktų informaciją apie priemones, nurodytas šio straipsnio 4 dalyje. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+
+
+6. Ūkinę veiklą vykdantys asmenys, siekiantys gauti sertifikatą, patvirtinantį biodegalų, skystųjų bioproduktų ar žaliavų biodegalų, skystųjų bioproduktų gamybai atitiktį tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijams, nurodytiems šio įstatymo 38 straipsnio 2, 4, 5, 7, 8, 9, 10, 11 ir 12 dalyse, kreipiasi į sertifikavimo įmonę, kuri atlieka sertifikavimą pagal Europos Komisijos sprendimu pripažintą savanorišką schemą. Ūkinę veiklą vykdantys asmenys sertifikavimo įmonei teikia informaciją ir duomenis apie atitiktį šio įstatymo 38 straipsnio 2, 4, 5, 7, 8, 9, 10, 11 ir 12 dalyse nustatytiems tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijams.
+
+
+
+
+7. Sertifikavimo įmonė atlieka ūkinę veiklą vykdančių asmenų pateiktos informacijos nepriklausomą auditą ir išduoda sertifikatą arba pateikia motyvuotą atsisakymą jį išduoti. Sertifikavimo įmonė kiekvienais metais atlieka ūkinę veiklą vykdančių asmenų, turinčių sertifikatą, patvirtinantį atitiktį šio įstatymo 38 straipsnio 2, 4, 5, 7, 8, 9, 10, 11 ir 12 dalyse nustatytiems tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijams, auditą. Vidaus auditą arba antrosios šalies auditą iki pirmosios miško biomasės surinkimo vietos leidžiama atlikti biodegalų ir skystųjų bioproduktų gamybai iš miško biomasės, siekiant įvertinti atitiktį šio įstatymo 38 straipsnio 8 ir 10 dalyse nurodytiems kriterijams. Audito metu patikrinama, ar ūkinę veiklą vykdančio asmens naudojamos sistemos yra tikslios, patikimos ir apsaugotos nuo klastojimo, užtikrinant, kad medžiagos nebūtų tikslingai pakeistos ar išmestos, kad žaliavos ir kuro partija arba jos dalis galėtų tapti atliekomis ar liekanomis. Audito metu įvertinamas mėginių ėmimo dažnumas, metodika ir duomenų patikimumas.
+
+
+
+
+8. Šio straipsnio 6 ir 7 dalių nuostatos taikomos neatsižvelgiant į tai, ar biodegalai, skystieji bioproduktai, iš atsinaujinančių išteklių pagamintas nebiologinės kilmės skystasis ir dujinis transporto kuras gaminami Europos Sąjungoje ar importuojami. 
+
+
+
+
+9. Ūkinę veiklą vykdantys asmenys, biodegalų, skystųjų bioproduktų tiekėjai savo interneto svetainėse skelbia aktualią informaciją apie tiekiamų biodegalų ir skystųjų bioproduktų kilmės šalį ir pradines žaliavas.
+
+
+
+
+10. Vyriausybės įgaliota institucija kiekvienais metais teikia Europos Komisijai suvestinę informaciją apie tai, kaip ūkinės veiklos vykdytojai užtikrina atitiktį šio įstatymo 38 straipsnio 2, 4, 5, 7, 8, 9, 10, 11 ir 12 dalyse nustatytiems tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijams.
+
+
+
+
+11. Jeigu ūkinę veiklą vykdantis asmuo pateikia įrodymų ar duomenų, gautų pagal Europos Komisijos sprendimu pripažintą savanorišką schemą ar pagal Europos Sąjungos su užsienio valstybėmis sudarytą dvišalį ar daugiašalį susitarimą, kuriame susitariama dėl tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijų, ir Europos Komisija priima sprendimą, kad tokiu susitarimu įrodoma iš atitinkamose šalyse išaugintų (gautų) žaliavų pagamintų biodegalų ir skystųjų bioproduktų atitiktis tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijams, arba pagal Europos Komisijos sprendimu pripažintą savanorišką schemą, kiek toks Europos Komisijos sprendimas yra taikomas, Vyriausybės įgaliota institucija nereikalauja, kad asmuo pateiktų papildomų įrodymų, kad šio įstatymo 38 straipsnio 2, 4, 5, 7, 8, 9, 10, 11 ir 12 dalyse nustatyti tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijai yra įvykdyti. 
+
+
+
+
+12. Vyriausybės ar jos įgaliotos institucijos paskirtos įstaigos prašymu sertifikavimo įmonės privalo pateikti nepriklausomo audito ataskaitą ir informaciją, kuria remiantis ūkinę veiklą vykdančiam asmeniui išduotas sertifikatas, patvirtinantis atitiktį šio įstatymo 38 straipsnio 2, 4, 5, 7, 8, 9, 10, 11 ir 12 dalyse nustatytiems tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijams. Apibendrintą informaciją Vyriausybės ar jos įgaliotos institucijos paskirta įstaiga kiekvienais metais iki kovo 1 dienos teikia Vyriausybės įgaliotai institucijai. Jeigu Vyriausybės ar jos įgaliotos institucijos paskirta įstaiga nustato, kad nepriklausomo audito ataskaitoje pateikti duomenys ar informacija neatitinka šio įstatymo 38 straipsnio 2, 4, 5, 7, 8, 9, 10, 11 ir 12 dalyse nustatytų kriterijų, ji pateikia šią informaciją Vyriausybės įgaliotai institucijai, kuri nedelsdama informuoja Europos Komisiją ir savanorišką schemą administruojantį subjektą apie nustatytas neatitiktis.
+
+
+
+
+13. Apskaičiuojant šio straipsnio 1 dalies 1 punkte nurodytą rodiklį, vertinant energijos gamintojų atitiktį įpareigojimams naudoti atsinaujinančių išteklių energiją ir teikiant finansinę paramą už biodegalų ir skystųjų bioproduktų naudojimą, įskaitomi biodegalai ir skystieji bioproduktai, pagaminti naudojant atliekas ir liekanas, išskyrus žemės ūkio, akvakultūros, žuvininkystės ir miškininkystės liekanas, atitinkantys tik šio įstatymo 38 straipsnio 2 dalyje nustatytus išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijus. Atliekos ir liekanos, perdirbamos į produktą, iš kurio gaminami biodegalai ir skystieji bioproduktai, taip pat privalo atitikti šio įstatymo 38 straipsnio 2 dalyje nustatytus išmetamųjų šiltnamio efektą sukeliančių dujų kiekio mažėjimo kriterijus.
+
+
+
+
+14. Šio įstatymo 38 straipsnio 2, 4, 5, 7, 8, 9, 10, 11 ir 12 dalyse nustatyti tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijai taikomi nepaisant biomasės geografinės kilmės.
+
+
+
+
+15. Biodegalai ir skystieji bioproduktai, pagaminti iš atliekų ir liekanų, susidariusių ne miško žemėje, bet žemės ūkio paskirties žemėje, įvertinami apskaičiuojant šio įstatymo 1 straipsnio 4 dalyje nustatytą energijos gamybos iš atsinaujinančių išteklių energijos dalį, palyginti su šalies bendruoju galutiniu energijos suvartojimu, vertinant energijos gamintojų atitiktį įsipareigojimams naudoti atsinaujinančių išteklių energiją ir teikiant finansinę paramą už biodegalų ir skystųjų bioproduktų naudojimą tik tais atvejais, kai ūkinės veiklos vykdytojai arba atitinkamos valstybės institucijos yra parengę stebėsenos arba valdymo planus, skirtus veiklos poveikio dirvožemio kokybei ir dirvožemio angliai vertinti. Informacija apie tai, kaip tas poveikis stebimas ir valdomas, pateikiama auditų, numatytų šio straipsnio 7 dalyje, ataskaitose. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
 
 
 
 
-7. Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka ir terminais pateikia Europos Komisijai šio straipsnio 3 dalyje nurodytos informacijos suvestinę.
+38 straipsnis. Biodegalų ir skystųjų bioproduktų tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijai
 
 
-
-
-8. Vyriausybė, vadovaudamasi šio straipsnio reikalavimais, tvirtina biodegalų ir skystųjų bioproduktų atitikties tvarumo kriterijams kontrolės tvarką, taip pat biodegalų ir skystųjų bioproduktų, atitinkančių tvarumo kriterijus, sertifikavimo tvarką.
-
-
-
-
-9. Šio įstatymo 38 straipsnio 2 dalyje nustatytas naudojant biodegalus, skystuosius bioproduktus ir lyginamąjį iškastinį kurą išmetamųjų šiltnamio efektą sukeliančių dujų poveikis apskaičiuojamas pagal Aplinkos ministerijos patvirtintas taisykles.
-
-
-
-
-10. Tačiau tam, kad šio straipsnio 1 dalyje nurodytais tikslais būtų atsižvelgta į biodegalus ir skystuosius bioproduktus, pagamintus naudojant atliekas ir liekanas, išskyrus žemės ūkio, akvakultūros, žuvininkystės ir miškininkystės liekanas, biodegalai ir skystieji bioproduktai, pagaminti naudojant atliekas ir liekanas, turi atitikti tik šio įstatymo 38 straipsnio 2 dalyje nustatytus tvarumo kriterijus.
- 
-
-
-
-
-
-
-38 straipsnis. Biodegalų ir skystųjų bioproduktų tvarumo kriterijai
-
-
-1. Biodegalai ir skystieji bioproduktai šio įstatymo 37 straipsnio 1 dalyje nurodytais tikslais turi atitikti šio straipsnio 2, 3, 4, 6 ir 7 dalyse nustatytus tvarumo kriterijus, nesvarbu, kurioje šalyje užauginta (gauta) žaliava jiems gaminti. 
+1. Biodegalai ir skystieji bioproduktai šio įstatymo 37 straipsnio 1 dalyje nurodytais tikslais turi atitikti šio straipsnio 2, 4, 5, 7, 8, 9, 10, 11 ir 12 dalyse nustatytus tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijus, nepaisant to, kurioje šalyje užauginta (gauta) žaliava jiems gaminti. 
 
 
 
@@ -3100,85 +3204,184 @@ Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
 2. Išmetamųjų šiltnamio efektą sukeliančių dujų, susidarančių dėl biodegalų ir skystųjų bioproduktų naudojimo, kiekis, palyginti su išmetamųjų dujų, susidarančių dėl iškastinio kuro naudojimo, kiekiu, turi sumažėti:
 
 
-1) mažiausiai 35 procentais, jeigu biodegalai ir skystieji bioproduktai pagaminti įrenginiuose, kurie buvo pradėti eksploatuoti iki 2015 m. spalio 5 d. ir yra toliau eksploatuojami, iki 2017 m. gruodžio 31 d.;
+1) mažiausiai 50 procentų, jeigu biodegalai ir transporto sektoriuje naudojamos biodujos ir skystieji bioproduktai pagaminti įrenginiuose, kurie pradėti eksploatuoti iki 2015 m. spalio 5 d.;
 
 
 
 
-2) mažiausiai 50 procentų, jeigu biodegalai ir skystieji bioproduktai pagaminti įrenginiuose, kurie buvo pradėti eksploatuoti iki 2015 m. spalio 5 d., nuo 2018 m. sausio 1 d.;
+2) mažiausiai 60 procentų, jeigu biodegalai ir transporto sektoriuje naudojamos biodujos ir skystieji bioproduktai pagaminti įrenginiuose, kurie pradėti eksploatuoti laikotarpiu nuo 2015 m. spalio 6 d. iki 2020 m. gruodžio 31 d.;
 
 
 
 
-3) mažiausiai 60 procentų dėl biodegalų ir skystųjų bioproduktų, pagamintų įrenginiuose, kuriuose gamyba pradėta 2015 m. spalio 6 d. ar vėliau, naudojimo. 
+3) mažiausiai 65 procentais, kai biodegalai, transporto sektoriuje naudojamos biodujos ir skystieji bioproduktai pagaminti įrenginiuose, kurie pradėti eksploatuoti nuo 2021 m. sausio 1 d.;
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
+
+
+4) mažiausiai 70 procentų, kai elektros energija, šilumos ir vėsumos energija pagaminta įrenginiuose, kurie naudoja biomasės kurą ir kurie pradėti eksploatuoti nuo 2021 m. sausio 1 d. iki 2025 m. gruodžio 31 d., ir mažiausiai 80 procentų – įrenginiuose, kurie pradėti eksploatuoti nuo 2026 m. sausio 1 d.
+
+
+
+
+
+
+3. Šio straipsnio 2 dalyje nurodytas išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimas dėl biodegalų, transporto sektoriuje naudojamų biodujų ir skystųjų bioproduktų ir biomasės kuro naudojimo šilumos, vėsumos ir elektros energijos gamybos įrenginiuose apskaičiuojamas aplinkos ministro nustatyta tvarka.
+
+
+
+
+4. Biodegalai ir skystieji bioproduktai neturi būti pagaminti iš žaliavos, gautos užauginus žaliavai skirtus augalus labai didelės biologinės įvairovės žemėje, tai yra žemėje, kuriai 2008 m. sausio mėnesį ar vėliau buvo taikomas vienas iš toliau nurodytų apibūdinimų (nepaisant to, ar tas apibūdinimas žemei yra taikomas žaliavų gavimo laikotarpiu, ar ne):
+
+
+1) pirmykštis miškas ir kitos miškingos vietovės, tai yra miškas ir kitos miškingos vietovės, kuriose auga vietinės rūšys ir nėra aiškiai matomų žmogaus veiklos požymių, o ekologiniai procesai nėra pastebimai sutrikdyti;
+
+
+
+
+2) labai didelės biologinės įvairovės miškas ir kita medžiais apsodinta žemė, kurioje gausu rūšių ir kuri nėra nuniokota arba kuri Vyriausybės įgaliotos institucijos yra pripažinta didelės biologinės įvairovės žeme, išskyrus atvejus, kai pateikiama įrodymų, kad tų žaliavų gamyba gamtos apsaugos tikslams nepakenkė;
+
+
+
+
+3) vietovės, nustatytos pagal konkrečios valstybės teisės aktus arba Vyriausybės įgaliotos institucijos pripažintos saugomomis gamtos apsaugos tikslais, arba saugomos vietovės, kuriose susitelkusios retos, galinčios išnykti arba nykstančios ekosistemos ar rūšys, pripažintos pagal tarptautinius susitarimus arba įtrauktos į tarpvyriausybinių organizacijų ar Tarptautinės gamtos išsaugojimo sąjungos sudarytus sąrašus, išskyrus atvejus, kai pateikiama įrodymų, kad tų žaliavų auginimas tiems gamtos apsaugos tikslams nepakenkė;
+
+
+
+
+4) daugiau kaip vieno hektaro labai didelės biologinės įvairovės natūralios pievos, tai yra pievos, kurios išliktų pievomis ir be žmogaus įsikišimo ir kuriose išlikusi natūrali rūšių įvairovė, ir kurių ekologinės savybės ir procesai nepakitę; 
+
+
+
+
+5) daugiau kaip vieno hektaro labai didelės biologinės įvairovės nenatūralios pievos, tai yra pievos, kurios neišliktų pievomis be žmogaus įsikišimo ir kurios pasižymi rūšių įvairove bei yra nenuniokotos, išskyrus atvejus, kai pateikiama įrodymų, kad žaliavą nuimti būtina siekiant išsaugoti teritorijai taikomą pievos apibūdinimą.
+
+
+
+
+
+
+5. Biodegalai ir skystieji bioproduktai neturi būti pagaminti iš žaliavų, gautų iš žemės, kurioje yra didelės anglies sankaupos, tai yra iš žemės, kuriai 2008 m. sausio mėnesį buvo taikytas ir toliau nebetaikomas vienas iš šių apibūdinimų: 
+
+
+1) šlapžemė, tai yra žemė, kuri nuolat arba didelę metų dalį yra apsemta arba permirkusi;
+
+
+
+
+2) ištisai mišku apaugusi vietovė, tai yra žemė, kurioje daugiau kaip vieno hektaro plote medžiai aukštesni negu 5 metrai, o medžių lajos projekcija apima daugiau kaip 30 procentų žemės ploto, arba žemė, kurioje augdami medžiai gali pasiekti tas ribas in situ;
+
+
+
+
+3) žemė, kurioje daugiau kaip vieno hektaro plote medžiai aukštesni negu 5 metrai, o medžių lajos projekcija apima nuo 10 iki 30 procentų žemės ploto, arba žemė, kurioje augdami medžiai gali pasiekti tas ribas in situ, nebent pateikiama įrodymų, kad anglies sankaupos šiame plote iki ir po žemės paskirties keitimo yra tokios, kad taikant šio straipsnio 4 dalyje nurodytą tvarką bus įgyvendintos šio straipsnio 2 dalyje nustatytos sąlygos.
+
+
+
+
+
+
+6. Šio straipsnio 5 dalies nuostatos netaikomos, jeigu žaliavų gavimo laikotarpiu žemei taikytas toks pat apibūdinimas kaip ir 2008 m. sausio mėnesį.
+
+
+
+
+7. Biodegalai ir skystieji bioproduktai neturi būti pagaminti iš žaliavų, užaugintų žemėje, kuri 2008 m. sausio mėnesį buvo durpynas, išskyrus atvejus, kai pateikiama įrodymų, kad tai žaliavai auginti ir derliui nuimti nereikia sausinti anksčiau nenusausintos dirvos. 
+
+
+
+
+8. Miško biomasė, naudojama kaip žaliava biodegalams ar skystiesiems bioproduktams gaminti, turi būti paruošta teritorijoje, kuriai taikomi teisės aktai ir stebėsenos sistemos, užtikrinantys:
+
+
+1) miško kirtimų teisėtumą;
+
+
+
+
+2) kirtaviečių miško atkūrimą;
+
+
+
+
+3) vietovių, nustatytų pagal tarptautinius ar konkrečios valstybės teisės aktus arba Valstybinės saugomų teritorijų tarnybos prie Aplinkos ministerijos sprendimu, tarp jų šlapžemių ir durpynų, apsaugą;
+
+
+
+
+4) kirtimų vykdymą atsižvelgiant į dirvožemio kokybės ir biologinės įvairovės išsaugojimą;
+
+
+
+
+5) kad atliekami miško kirtimai išlaikytų ar didintų miško produktyvumą.
+
+
+
+
+
+
+9. Jeigu šio straipsnio 8 dalyje nurodytų teisės aktų ir stebėsenos sistemų nėra, teritorijose, kuriose ruošiama miško biomasė kaip žaliava biodegalų ar skystųjų bioproduktų gamybai, turi būti įdiegtos valdymo sistemos, kurios užtikrina:
+
+
+1) miško kirtimų teisėtumą;
+
+
+
+
+2) kirtaviečių miško atkūrimą;
+
+
+
+
+3) vietovių, nustatytų pagal tarptautinius ar konkrečios valstybės teisės aktus arba Valstybinės saugomų teritorijų tarnybos prie Aplinkos ministerijos sprendimu, tarp jų šlapžemių ir durpynų, apsaugą, išskyrus atvejus, kai pateikiama įrodymų, kad žaliavos derliaus nuėmimas neturi neigiamo poveikio aplinkai;
+
+
+
+
+4) kirtimų vykdymą atsižvelgiant į dirvožemio kokybės ir biologinės įvairovės išsaugojimą;
+
+
+
+
+5) kad atliekami miško kirtimai išlaikytų ar didintų miško produktyvumą.
+
+
+
+
+
+
+10. Miško biomasė, naudojama kaip žaliava biodegalams ar skystiesiems bioproduktams gaminti, turi būti paruošta teritorijoje ar ekonominės integracijos regioninėje organizacijoje, kuri atitinka šiuos žemės paskirties, žemės paskirties keitimo ir miškininkystės kriterijus:
+
+
+1) yra Paryžiaus susitarimo, ratifikuoto Lietuvos Respublikos įstatymu „Dėl Paryžiaus susitarimo, priimto pagal Jungtinių Tautų Bendrąją klimato kaitos konvenciją, ratifikavimo“ (toliau – Paryžiaus susitarimas), šalis;
+
+
+
+
+2) pagal Jungtinių Tautų Bendrąją klimato kaitos konvenciją, ratifikuotą Lietuvos Respublikos Seimo 1995 m. vasario 23 d. nutarimu Nr. I-812 „Dėl Jungtinių Tautų Bendrosios klimato kaitos konvencijos ratifikavimo“, yra pateikusi numatomus įgyvendinti nacionaliniu lygmeniu nustatomus įpareigojančius veiksmus, kurie apima žemės ūkio, miškininkystės ir žemės naudojimo išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažinimą ir absorbavimą ir užtikrina, kad bet kuris anglies sankaupų, susijusių su paruošta biomase, pokytis būtų įskaičiuojamas į valstybės įsipareigojimą mažinti arba apriboti išmetamųjų šiltnamio efektą sukeliančių dujų kiekį, kaip numatyta nacionaliniu lygmeniu nustatytuose įpareigojančiuose veiksmuose;
+
+
+
+
+3) pagal Paryžiaus susitarimo 5 straipsnį yra priimti nacionaliniai arba kiti biomasės paruošimą reglamentuojantys teisės aktai, kuriais saugomos ir didinamos anglies sankaupos ir absorbentai ir kuriuose pateikiami įrodymai, kad deklaruojamas žemės paskirties, žemės paskirties keitimo ir miškininkystės sektoriuje išmetamųjų šiltnamio efektą sukeliančių dujų kiekis neviršija absorbuojamo tokių dujų kiekio.
+
+
+
+
+
+
+11. Nesant atitikties šio straipsnio 10 dalyje nurodytiems kriterijams, teritorijose, kuriose ruošiama miško biomasė kaip žaliava biodegalų ir skystųjų bioproduktų gamybai, turi būti įdiegtos valdymo sistemos, kurios užtikrina, kad anglies sankaupų ir absorbentų lygis ilguoju laikotarpiu būtų išlaikytas ar didinamas.
+
+
+
+
+12. Nustatant didelę netiesioginio žemės paskirties naudojimo keitimo riziką keliančias pradines žaliavas, kurių auginimo teritorija plečiama į teritorijas, kuriose yra didelių anglies sankaupų, ir sertifikuojant nedidelę netiesioginio žemės paskirties naudojimo keitimo riziką keliančius biodegalus, skystuosius bioproduktus ir biomasės kurą, taikomi kriterijai, nurodyti 2019 m. kovo 13 d. Europos Komisijos deleguotajame reglamente (ES) 2019/807, kuriuo dėl didelę netiesioginio žemės naudojimo keitimo riziką keliančių pradinių žaliavų, kurių auginimo teritorija reikšmingai plečiama į žemės, kurioje yra didelių anglies sankaupų, plotus, nustatymo ir nedidelę netiesioginio žemės naudojimo keitimo riziką keliančių biodegalų, skystųjų bioproduktų ir biomasės kuro sertifikavimo papildoma Europos Parlamento ir Tarybos direktyva (ES) 2018/2001. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
-
-
-
-
-3. Biodegalai ir skystieji bioproduktai neturi būti pagaminti iš žaliavos, gautos užauginus žaliavai skirtus augalus labai didelės biologinės įvairovės žemėje, tai yra žemėje, kuriai 2008 m. sausio mėnesį ar vėliau buvo taikomas vienas iš toliau nurodytų apibūdinimų (nepaisant to, ar tas apibūdinimas žemei yra taikomas žaliavų gavimo laikotarpiu, ar ne):
-
-
-1) pirmykštis miškas ir kitos miškingos vietovės (džiunglės, taiga ir panašiai), tai yra miškas ir kitos miškingos vietovės, kuriose auga vietinės rūšys ir nėra aiškiai matomų žmogaus veiklos požymių, o ekologiniai procesai nėra pastebimai sutrikdyti;
-
-
-
-
-2) vietovės, nustatytos pagal konkrečios valstybės teisės aktus arba atitinkamos kompetentingos institucijos gamtos apsaugos tikslais, arba kaip apsaugos vietovės, kuriose susitelkusios retos, galinčios išnykti arba nykstančios ekosistemos ar rūšys, pripažintos pagal tarptautinius susitarimus arba įtrauktos į tarpvyriausybinių organizacijų ar Tarptautinės gamtos išsaugojimo sąjungos sudarytus sąrašus, išskyrus atvejus, kai pateikiama įrodymų, kad tų žaliavų auginimas tiems gamtos apsaugos tikslams nepakenkė;
-
-
-
-
-3) labai didelės biologinės įvairovės natūralios pievos, tai yra pievos, kurios išliktų pievomis ir be žmogaus įsikišimo ir kuriose išlikusi natūrali rūšių įvairovė, ir kurių ekologinės savybės ir procesai nepakitę; 
-
-
-
-
-4) labai didelės biologinės įvairovės nenatūralios pievos, tai yra pievos, kurios neišliktų pievomis be žmogaus įsikišimo ir kurios pasižymi rūšių įvairove bei yra nenuniokotos, išskyrus atvejus, kai pateikiama įrodymų, kad žaliavą nuimti būtina siekiant išsaugoti teritorijai taikomą pievos apibūdinimą.
-
-
-
-
-
-
-4. Biodegalai ir skystieji bioproduktai neturi būti pagaminti iš žaliavų, gautų iš derlingos žemės, kurioje yra didelės anglies atsargos, tai yra iš žemės, kuriai 2008 m. sausio mėnesį buvo taikytas ir toliau nebetaikomas vienas iš šių apibūdinimų: 
-
-
-1) iš šlapžemės, tai yra iš žemės, kuri nuolat arba didelę metų dalį yra apsemta arba permirkusi;
-
-
-
-
-2) iš ištisai mišku apaugusios vietovės, tai yra iš žemės, kurioje daugiau kaip vieno hektaro plote medžiai aukštesni negu 5 metrai, o medžių lajos projekcija apima daugiau kaip 30 procentų žemės ploto, arba iš žemės, kurioje augdami medžiai gali pasiekti tas ribas in situ;
-
-
-
-
-3) iš žemės, kurioje daugiau kaip vieno hektaro plote medžiai aukštesni negu 5 metrai, o medžių lajos projekcija apima nuo 10 iki 30 procentų žemės ploto, arba iš žemės, kurioje augdami medžiai gali pasiekti tas ribas in situ, nebent pateikiama įrodymų, kad anglies atsargos šiame plote iki ir po žemės paskirties keitimo yra tokios, kad taikant šio įstatymo 37 straipsnio 9 dalyje nurodytas taisykles bus įgyvendintos šio straipsnio 2 dalyje nustatytos sąlygos.
-
-
-
-
-
-
-5. Šio straipsnio 4 dalies nuostatos netaikomos, jeigu žaliavų gavimo laikotarpiu žemei taikytas toks pat apibūdinimas kaip ir 2008 m. sausio mėnesį.
-
-
-
-
-6. Biodegalai ir skystieji bioproduktai neturi būti pagaminti iš žaliavų, užaugintų žemėje, kuri 2008 m. sausio mėnesį buvo durpynas, nebent pateikiama įrodymų, kad tai žaliavai auginti ir derliui nuimti nereikia sausinti anksčiau nenusausintos dirvos.
-
-
-
-
-7. Biodegalų ir skystųjų bioproduktų gamybai naudojamos Europos Sąjungoje išaugintos žemės ūkio žaliavos, gaunamos laikantis reikalavimų ir standartų, nurodytų 2009 m. sausio 19 d. Tarybos reglamento (EB) Nr. 73/2009, nustatančio bendrąsias tiesioginės paramos schemų ūkininkams pagal bendrą žemės ūkio politiką taisykles ir nustatančio tam tikras paramos schemas ūkininkams, iš dalies keičiančio Reglamentus (EB) Nr. 1290/2005, (EB) Nr. 247/2006, (EB) Nr. 378/2007 ir panaikinančio Reglamentą (EB) Nr. 1782/2003 (OL 2009 L 30, p. 16), II priedo A dalies skirsnyje „Aplinka“ bei 9 punkte ir pagal šio reglamento 6 straipsnio 1 dalį apibrėžtų būtiniausių geros agrarinės ir aplinkosauginės būklės reikalavimų.
- 
-
-
 
 
 
@@ -3194,9 +3397,11 @@ Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
 
 
 
-11. Biodegalai ir skystieji bioproduktai, įmaišant juos į degalus, pagamintus iš mineralinių degalų, turi atitikti šio įstatymo 38 straipsnyje nustatytus tvarumo kriterijus. Vyriausybės įgaliota institucija prižiūri ir tikrina, kad atitinkamą veiklą vykdantys asmenys laikytųsi šioje dalyje nurodytų reikalavimų. 
+1¹. Biodegalai, įmaišant juos į degalus, pagamintus iš mineralinių degalų, turi atitikti šio įstatymo 38 straipsnyje nustatytus tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijus. Vyriausybės įgaliota institucija prižiūri ir tikrina, kad ūkinę veiklą vykdantys asmenys laikytųsi šioje dalyje nurodytų reikalavimų. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+Straipsnio dalies pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
 
 
@@ -3395,18 +3600,20 @@ TERITORIJŲ PLANAVIMAS IR STATYBA
  
 
 
-48 straipsnis. Teritorijų planavimo reikalavimai
+48 straipsnis. Teritorijų planavimo reikalavimai
 
 
-1. Planuojant visuomeninės, pramoninės ir gyvenamosios paskirties teritorijas, projektuojant, statant, rekonstruojant ir (ar) atnaujinant (modernizuojant) visuomeninius, pramoninius ar gyvenamuosius pastatus, turi būti vertinamos galimybės naudoti įrenginius ir sistemas, skirtas elektros energijos, šildymo ir vėsinimo iš atsinaujinančių energijos išteklių naudojimui, taip pat centralizuotam šilumos ir vėsumos energijos tiekimui. Planuojant miestų infrastruktūrą, atsižvelgiant į visuomenės interesus, privaloma numatyti šilumos iš atsinaujinančių energijos išteklių naudojimą.
+1. Planuojant visuomeninės, pramoninės, komercinės ir gyvenamosios paskirties teritorijas, projektuojant, statant, rekonstruojant ir (ar) atnaujinant (modernizuojant) visuomeninius, pramoninius, komercinius ar gyvenamuosius pastatus, turi būti vertinamos galimybės naudoti įrenginius ir sistemas, skirtas elektros energijos, šildymo ir vėsinimo iš atsinaujinančių energijos išteklių naudojimui, taip pat centralizuotam šilumos ir vėsumos energijos tiekimui. Planuojant miestų infrastruktūrą, atsižvelgiant į visuomenės interesus, privaloma numatyti šilumos iš atsinaujinančių energijos išteklių naudojimą.
 
 
 
 
-2. Aplinkos ministerija kartu su Energetikos ministerija rengia ir viešai skelbia rekomendacijas projektuotojams, architektams ir kitiems specialistams dėl atsinaujinančių energijos išteklių technologijų, didelio energinio efektyvumo technologijų, centralizuoto šilumos ir vėsumos energijos tiekimo sistemų integravimo, planuojant, projektuojant, statant ir atnaujinant (modernizuojant) visuomeninės, pramoninės ar gyvenamosios paskirties teritorijas.
+2. Aplinkos ministerija kartu su Energetikos ministerija rengia ir viešai skelbia rekomendacijas projektuotojams, architektams ir kitiems specialistams dėl atsinaujinančių energijos išteklių technologijų, didelio energinio efektyvumo technologijų, centralizuoto šilumos ir vėsumos energijos tiekimo sistemų integravimo, planuojant, projektuojant, statant ir atnaujinant (modernizuojant) visuomeninės, pramoninės, komercinės ar gyvenamosios paskirties teritorijas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
-
-
 
 
 
@@ -3419,7 +3626,10 @@ TERITORIJŲ PLANAVIMAS IR STATYBA
 
 
 
-2. Vyriausybė ar jos įgaliotos institucijos užtikrina, kad visi leidimų išdavimo, sertifikavimo ir licencijavimo procedūras reglamentuojantys aprašai ir taisyklės, taikomi elektros energijos, šilumos ir vėsumos energijos gamybos iš atsinaujinančių energijos išteklių įrenginiams, susijusioms perdavimo ir skirstymo tinklų infrastruktūroms ir biomasės pavertimo biodegalais ar kitais energijos produktais procesams, būtų objektyvūs, skaidrūs, proporcingi ir būtini, nediskriminuojantys pareiškėjų ir kad juose būtų visiškai atsižvelgta į konkrečių atsinaujinančių išteklių energijos naudojimo technologijų ypatybes.
+2. Vyriausybė ar jos įgaliotos institucijos užtikrina, kad visi leidimų išdavimo, sertifikavimo ir licencijavimo procedūras reglamentuojantys aprašai ir taisyklės, taikomi elektros energijos, šilumos ir vėsumos energijos gamybos iš atsinaujinančių išteklių įrenginiams, susijusioms perdavimo ir skirstymo tinklų infrastruktūroms ir biomasės pavertimo biodegalais ar kitais skystaisiais bioproduktais procesams, ir iš atsinaujinančių išteklių pagamintiems nebiologinės kilmės skystiesiems ir dujiniams transporto degalams, būtų objektyvūs, skaidrūs, proporcingi ir būtini, nediskriminuojantys pareiškėjų ir kad juose būtų visiškai atsižvelgta į konkrečių atsinaujinančių išteklių energijos naudojimo technologijų ypatybes. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
@@ -3774,7 +3984,9 @@ Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
 
 
 
-4. Lietuvos statistikos departamentas užtikrina statistinių duomenų apie visą šalyje pagamintą ir (ar) suvartotą atsinaujinančių išteklių energiją ir (ar) energiją, pagamintą iš atsinaujinančių energijos išteklių, surinkimą. Šie duomenys taip pat turi apimti ir aeroterminę energiją, geoterminę energiją, hidroterminę energiją, saulės šilumos energiją, saulės šviesos energiją, sunaudojamą galutinio energijos suvartojimo sektoriuose.
+4. Lietuvos statistikos departamentas užtikrina statistinių duomenų apie visą šalyje pagamintą ir (ar) suvartotą atsinaujinančių išteklių energiją ir (ar) energiją, pagamintą iš atsinaujinančių energijos išteklių, surinkimą. Šie duomenys taip pat turi apimti ir aplinkos energiją, geoterminę energiją, saulės šilumos energiją, saulės šviesos energiją, sunaudojamą galutinio energijos suvartojimo sektoriuose. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
 
 
@@ -3871,7 +4083,7 @@ TARPTAUTINIS BENDRADARBIAVIMAS ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS SEKTORIU
  
 
 
-58 straipsnis. Statistiniai energijos perdavimai tarp Lietuvos Respublikos ir kitų valstybių narių
+58 straipsnis. Statistiniai energijos perdavimai tarp Lietuvos Respublikos ir kitų valstybių narių
 
 
 1. Vyriausybė ar jos įgaliota institucija gali sudaryti susitarimus dėl nustatyto atsinaujinančių išteklių energijos kiekio statistinio energijos perdavimo iš Lietuvos Respublikos į kitą valstybę narę ar iš kitos valstybės narės į Lietuvos Respubliką.
@@ -3884,12 +4096,12 @@ TARPTAUTINIS BENDRADARBIAVIMAS ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS SEKTORIU
 
 
 
-3. Lietuvos Respublika gali perduoti statistinį atsinaujinančių išteklių energijos kiekį kitai valstybei narei, jeigu Lietuvos Respublikos atsinaujinančių išteklių energijos kiekis viršija šio įstatymo 55 straipsnio 2 dalyje nustatytus tarpinius nacionalinius planinius rodiklius.
+3. Lietuvos Respublika gali perduoti statistinį atsinaujinančių išteklių energijos kiekį kitai valstybei narei, jeigu Lietuvos Respublikos atsinaujinančių išteklių energijos kiekis viršija šio įstatymo 1 straipsnio 4 dalyje nustatytą energijos gamybos iš atsinaujinančių išteklių energijos dalį, palyginti su šalies bendruoju galutiniu energijos suvartojimu.
 
 
 
 
-4. Jeigu prognozuojamas Lietuvos Respublikos atsinaujinančių išteklių energijos sunaudojimas yra mažesnis negu šio įstatymo 55 straipsnio 2 dalyje nustatyti tarpiniai nacionaliniai planiniai rodikliai ir nėra kitų būdų ir priemonių šiems rodikliams pasiekti, Lietuvos Respublikos Seimas gali priimti nutarimą leisti Vyriausybei vykdyti statistinį atsinaujinančių išteklių energijos kiekio priėmimą iš kitos valstybės narės.
+4. Jeigu prognozuojamas Lietuvos Respublikos atsinaujinančių išteklių energijos sunaudojimas yra mažesnis, negu šio įstatymo 1 straipsnio 4 dalyje nustatyta energijos gamybos iš atsinaujinančių išteklių energijos dalis, palyginti su šalies bendruoju galutiniu energijos suvartojimu, ir nėra kitų būdų ir priemonių šiems rodikliams pasiekti, Lietuvos Respublikos Seimas gali priimti nutarimą leisti Vyriausybei vykdyti statistinį atsinaujinančių išteklių energijos kiekio priėmimą iš kitos valstybės narės.
 
 
 
@@ -3897,52 +4109,45 @@ TARPTAUTINIS BENDRADARBIAVIMAS ATSINAUJINANČIŲ IŠTEKLIŲ ENERGETIKOS SEKTORIU
 5. Perduotas atsinaujinančių išteklių energijos kiekis yra:
 
 
-1) atimamas iš atsinaujinančių išteklių energijos kiekio, į kurį atsižvelgiama vertinant, kaip Lietuvos Respublika įgyvendina šio įstatymo 1 straipsnio 5 dalies 1 punkte nustatytus rodiklius ir 55 straipsnio 2 dalyje nustatytus tarpinius nacionalinius planinius rodiklius, tuo atveju, kai statistinis energijos perdavimas įvykdomas iš Lietuvos Respublikos į kitą valstybę narę;
+1) atimamas iš atsinaujinančių išteklių energijos kiekio, į kurį atsižvelgiama vertinant, kaip Lietuvos Respublika siekia šio įstatymo 1 straipsnio 4 dalyje nustatytos energijos gamybos iš atsinaujinančių išteklių energijos dalies, palyginti su šalies bendruoju galutiniu energijos suvartojimu, tuo atveju, kai statistinis energijos perdavimas įvykdomas iš Lietuvos Respublikos į kitą valstybę narę;
 
 
 
 
-2) pridedamas prie atsinaujinančių išteklių energijos kiekio, į kurį atsižvelgiama vertinant, kaip Lietuvos Respublika įgyvendina šio įstatymo 1 straipsnio 5 dalies 1 punkte nustatytus rodiklius ir 55 straipsnio 2 dalyje nustatytus tarpinius nacionalinius planinius rodiklius, tuo atveju, kai statistinis energijos perdavimas įvykdomas iš kitos valstybės narės į Lietuvos Respubliką. 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
- 
+2) pridedamas prie atsinaujinančių išteklių energijos kiekio, į kurį atsižvelgiama vertinant, kaip Lietuvos Respublika siekia šio įstatymo 1 straipsnio 4 dalyje nustatytos energijos gamybos iš atsinaujinančių išteklių energijos dalies, palyginti su šalies bendruoju galutiniu energijos suvartojimu, tuo atveju, kai statistinis energijos perdavimas įvykdomas iš kitos valstybės narės į Lietuvos Respubliką.
 
 
 
 
-6. Neteko galios 2017-09-01. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
- 
+
+
+6. Nustatyto atsinaujinančių išteklių energijos kiekio statistiniai perdavimai gali būti vykdomi Europos Sąjungos atsinaujinančių išteklių energijos vystymo platformoje (toliau – Platforma). Vyriausybė ar jos įgaliota institucija per Platformą gali teikti metinius duomenis apie atsinaujinančių išteklių energijos dalį, įskaitant numatomus trūkumus ar dalies viršijimą, stebėti šiuos duomenis, taip pat nurodyti kainą, už kurią sutiktų energijos iš atsinaujinančių išteklių gamybos perteklių perduoti iš kitos valstybės narės ar kitai valstybei narei. Perdavimų kaina nustatoma kiekvienu atveju atskirai, atsižvelgiant į Platformoje nurodytą paklausą ir pasiūlą.
 
 
 
 
-7. Šio straipsnio 1 dalyje nurodyti susitarimai gali galioti vienus ar daugiau metų. Apie sudarytus susitarimus Vyriausybės nustatyta tvarka pranešama Europos Komisijai ne vėliau kaip per 3 mėnesius pasibaigus kiekvieniems metams, kuriais jie galioja. Europos Komisijai siunčiamoje informacijoje, be kita ko, nurodomas perduodamos energijos kiekis ir kaina.
+7. Šio straipsnio 1 ir 6 dalyse nurodyti susitarimai sudaromi ne trumpesniam kaip vienų metų laikotarpiui. Apie sudarytus susitarimus Vyriausybės nustatyta tvarka pranešama Europos Komisijai ne vėliau kaip per 12 mėnesių pasibaigus kiekvieniems metams, kuriais jie galioja. Europos Komisijai siunčiamoje informacijoje, be kita ko, nurodomas perduodamos energijos kiekis ir kaina. Per Platformą atlikus nustatyto atsinaujinančių išteklių energijos kiekio statistinį energijos perdavimą, dalyvaujančios šalys ir informacija apie konkretų perdavimą skelbiamos viešai.
 
 
 
 
-8. Statistiniai energijos perdavimai laikomi įvykdytais tik po to, kai visos perdavime dalyvavusios valstybės narės apie perdavimą praneša Europos Komisijai.
+8. Statistiniai energijos perdavimai laikomi įvykdytais tik po to, kai visos perdavime dalyvavusios valstybės narės apie perdavimą praneša Europos Komisijai arba kai Platformoje įvykdomos visos atsiskaitymo sąlygos.
 
 
 
 
 9. Pajamos, gautos vykdant susitarimus dėl statistinių energijos perdavimų, pervedamos į valstybės biudžetą ir kaupiamos atskiroje Valstybės iždo sąskaitoje. Gautos lėšos Vyriausybės nustatyta tvarka naudojamos susitarimuose dėl statistinių energijos perdavimų numatytais tikslais, susijusiais su atsinaujinančių energijos išteklių plėtra, energijos efektyvumo didinimu, taip pat moksliniams tyrimams atsinaujinančių išteklių energetikos sektoriuje. Šias lėšas Vyriausybės nustatyta tvarka administruoja Vyriausybės įgaliota institucija.
-Straipsnio dalies pakeitimai:
-Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
- 
 
 
 
 
-10. Lietuvos Respublikos atsinaujinančių išteklių energijos kiekio priėmimas iš kitos valstybės narės, vykdant susitarimus dėl statistinių energijos perdavimų, finansuojamas iš valstybės biudžeto.
+10. Lietuvos Respublikos atsinaujinančių išteklių energijos kiekio priėmimas iš kitos valstybės narės, vykdant susitarimus dėl statistinių energijos perdavimų, finansuojamas iš valstybės biudžeto. 
 
 
 Straipsnio pakeitimai:
 Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
+Straipsnio pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
 
 
@@ -3961,7 +4166,10 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-3. Vyriausybės nustatyta tvarka jos įgaliota institucija praneša Europos Komisijai, kokia elektros energijos, šilumos ar vėsumos energijos, pagamintų iš atsinaujinančių energijos išteklių, dalis ar koks kiekis pagal bet kurį Lietuvos Respublikos teritorijoje įgyvendinamą bendrą projektą, kuris pradėtas po 2009 m. birželio 25 d., arba padidinant įrenginio, kuris buvo rekonstruotas po tos datos, pajėgumus, laikomi įskaitomais į kitos valstybės narės nacionalinį bendrąjį planinį rodiklį. Atsinaujinančių išteklių energijos vienetai, pagaminti padidinant įrenginio pajėgumus, vertinami taip, lyg jie būtų pagaminti atskirame įrenginyje, kuris pradėtas eksploatuoti tuo momentu, kai pajėgumai buvo padidinti.
+3. Vyriausybės nustatyta tvarka jos įgaliota institucija praneša Europos Komisijai, kokia elektros energijos, šilumos ar vėsumos energijos, pagamintų iš atsinaujinančių energijos išteklių, dalis ar koks kiekis pagal bet kurį Lietuvos Respublikos teritorijoje įgyvendinamą bendrą projektą, kuris pradėtas po 2009 m. birželio 25 d., arba padidinant įrenginio, kuris buvo rekonstruotas po tos datos, pajėgumus, laikomi įskaitomais į kitos valstybės narės atsinaujinančių išteklių energijos procentinę dalį. Atsinaujinančių išteklių energijos vienetai, pagaminti padidinant įrenginio pajėgumus, vertinami taip, lyg jie būtų pagaminti atskirame įrenginyje, kuris pradėtas eksploatuoti tuo momentu, kai pajėgumai buvo padidinti. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
@@ -3974,7 +4182,7 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-2) nurodoma įrenginyje pagamintos elektros energijos, šilumos ar vėsumos energijos dalis arba kiekis, laikomi įskaitomais į kitos valstybės narės nacionalinį bendrąjį planinį rodiklį;
+2) nurodoma įrenginyje pagamintos elektros energijos, šilumos ar vėsumos energijos dalis arba kiekis, laikomi įskaitomais į kitos valstybės narės atsinaujinančių išteklių energijos procentinę dalį;
 
 
 
@@ -3984,9 +4192,12 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-4) nurodomas kalendoriniais metais išreikštas laikotarpis, per kurį įrenginyje pagaminta atsinaujinančių išteklių elektros energija, šilumos ar vėsumos energija turi būti laikoma įskaitoma į kitos valstybės narės nacionalinį bendrąjį planinį rodiklį. Šis laikotarpis negali būti ilgesnis kaip iki 2020 m.
+4) nurodomas kalendoriniais metais išreikštas laikotarpis, per kurį įrenginyje pagaminta atsinaujinančių išteklių elektros energija, šilumos ar vėsumos energija turi būti laikoma įskaitoma į kitos valstybės narės atsinaujinančių išteklių energijos procentinę dalį. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
@@ -3996,12 +4207,17 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-6. Bendro projekto tarp Lietuvos Respublikos ir kitos valstybės narės (ar kitų valstybių narių) trukmė gali būti ilgesnė kaip iki 2020 m.
+6. Bendro projekto tarp Lietuvos Respublikos ir kitos valstybės narės (ar kitų valstybių narių) trukmė gali būti ilgesnė kaip iki 2030 m. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
 
-7. Lietuvos Respublikoje vykdomi bendri projektai su kitomis valstybėmis narėmis negali turėti neigiamos įtakos šio įstatymo 55 straipsnio 2 dalyje nustatytų tarpinių nacionalinių planinių rodiklių įgyvendinimui.
+7. Lietuvos Respublikoje vykdomi bendri projektai su kitomis valstybėmis narėmis negali turėti neigiamos įtakos šio įstatymo 1 straipsnio 4 dalyje nustatytos energijos gamybos iš atsinaujinančių išteklių energijos dalies, palyginti su šalies bendruoju galutiniu energijos suvartojimu, įgyvendinimui. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
 
 
@@ -4020,7 +4236,10 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-2) elektros energijos, šilumos ar vėsumos energijos kiekį, per tuos metus pagamintą įrenginyje iš atsinaujinančių energijos išteklių ir kuris turi būti įskaitomas į kitos valstybės narės nacionalinį bendrąjį planinį rodiklį remiantis pranešimo sąlygomis.
+2) elektros energijos, šilumos ar vėsumos energijos kiekį, kuris per tuos metus pagamintas įrenginyje iš atsinaujinančių energijos išteklių ir kuris turi būti įskaitomas į kitos valstybės narės atsinaujinančių išteklių energijos procentinę dalį remiantis pranešimo sąlygomis. 
+Straipsnio punkto pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
@@ -4035,15 +4254,17 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 3. Elektros energijos, šilumos ar vėsumos energijos kiekis, apie kurį pranešama vykdant Lietuvos Respublikos ir kitos valstybės narės (ar kitų valstybių narių) bendrus projektus šiame straipsnyje nustatyta tvarka:
 
 
-1) atimamas iš atsinaujinančių išteklių energijos kiekio, į kurį atsižvelgiama vertinant, kaip Lietuvos Respublika įgyvendina šio įstatymo 55 straipsnio 2 dalyje nustatytus tarpinius nacionalinius planinius rodiklius, tuo atveju, kai nurodytas elektros energijos, šilumos ar vėsumos energijos kiekis Lietuvos Respublikoje pagaminamas kitos valstybės narės naudai;
+1) atimamas iš atsinaujinančių išteklių elektros energijos, šilumos ar vėsumos energijos kiekio, į kurį atsižvelgiama apskaičiuojant šio įstatymo 1 straipsnio 4 dalyje nustatytą energijos gamybos iš atsinaujinančių išteklių energijos dalį, palyginti su šalies bendruoju galutiniu energijos suvartojimu, tuo atveju, kai nurodytas elektros energijos, šilumos ar vėsumos energijos kiekis Lietuvos Respublikoje pagaminamas kitos valstybės narės naudai;
 
 
 
 
-2) pridedamas prie atsinaujinančių išteklių energijos kiekio, į kurį atsižvelgiama vertinant, kaip Lietuvos Respublika įgyvendina šio įstatymo 55 straipsnio 2 dalyje nustatytus tarpinius nacionalinius planinius rodiklius, tuo atveju, kai nurodytas elektros energijos, šilumos ar vėsumos energijos kiekis kitos valstybės narės teritorijoje pagaminamas Lietuvos Respublikos naudai.
+2) pridedamas prie atsinaujinančių išteklių elektros energijos, šilumos ar vėsumos energijos kiekio, į kurį atsižvelgiama apskaičiuojant šio įstatymo 1 straipsnio 4 dalyje nustatytą energijos gamybos iš atsinaujinančių išteklių energijos dalį, palyginti su šalies bendruoju galutiniu energijos suvartojimu,  tuo atveju, kai nurodytas elektros energijos, šilumos ar vėsumos energijos kiekis kitos valstybės narės teritorijoje pagaminamas Lietuvos Respublikos naudai. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
-
-
 
 
 
@@ -4053,7 +4274,7 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 61 straipsnis. Bendri projektai su užsienio valstybėmis
 
 
-1. Vyriausybė ar jos įgaliota institucija gali inicijuoti, vykdyti ir (ar) dalyvauti vykdant visų tipų bendrus projektus tarp Lietuvos Respublikos ir užsienio valstybės (ar užsienio valstybių), susijusius su elektros energijos gamyba iš atsinaujinančių energijos išteklių. Tokiuose projektuose gali dalyvauti ir kitos valstybės narės. Į tokius bendrus projektus su užsienio valstybėmis gali būti įtraukti ir privatūs asmenys.
+1. Vyriausybė ar jos įgaliota institucija gali inicijuoti, vykdyti ir (ar) dalyvauti vykdant visų tipų bendrus projektus tarp Lietuvos Respublikos ir užsienio valstybės (ar užsienio valstybių), susijusius su elektros energijos gamyba iš atsinaujinančių energijos išteklių. Tokiuose projektuose gali dalyvauti ir kitos valstybės narės. Į tokius bendrus projektus su užsienio valstybėmis, kurie vykdomi laikantis tarptautinės teisės, gali būti įtraukti ir privatūs ekonominės veiklos vykdytojai.
 
 
 
@@ -4063,7 +4284,7 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-3. Įgyvendinant bendrus projektus, užsienio valstybėje pagamintas atsinaujinančių išteklių elektros energijos kiekis, kuris laikomas įskaitomu į Lietuvos Respublikos nacionalinį bendrąjį planinį rodiklį, turi atitikti šias sąlygas:
+3. Įgyvendinant bendrus projektus, užsienio valstybėje pagamintas atsinaujinančių išteklių elektros energijos kiekis, kuris laikomas įskaitomu į šio įstatymo 1 straipsnio 4 dalyje nustatytą energijos gamybos iš atsinaujinančių išteklių energijos dalį, palyginti su šalies bendruoju galutiniu energijos suvartojimu, turi atitikti šias sąlygas:
 
 
 1) elektros energija suvartojama Europos Sąjungoje;
@@ -4071,12 +4292,17 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-2) elektros energija pagaminta naujai pastatytame įrenginyje, pradėjusiame veikti po 2009 m. birželio 25 d., arba padidinus pajėgumus įrenginyje, kuris buvo rekonstruotas po tos datos įgyvendinant šio straipsnio 1 dalyje nurodytą bendrą projektą. Atsinaujinančių išteklių elektros energijos vienetai, pagaminti padidinus įrenginio pajėgumus, vertinami taip, lyg jie būtų pagaminti atskirame įrenginyje, kuris pradėtas eksploatuoti tuo momentu, kai įrenginio pajėgumai buvo padidinti;
+2) elektros energija pagaminta įrenginyje, pradėjusiame veikti po 2009 m. birželio 25 d., arba padidinus pajėgumus įrenginyje, kuris buvo rekonstruotas po tos datos įgyvendinant šio straipsnio 1 dalyje nurodytą bendrą projektą. Atsinaujinančių išteklių elektros energijos vienetai, pagaminti padidinus įrenginio pajėgumus, vertinami taip, lyg jie būtų pagaminti atskirame įrenginyje, kuris pradėtas eksploatuoti tuo momentu, kai įrenginio pajėgumai buvo padidinti;
 
 
 
 
-3) pagamintam ir eksportuotam elektros energijos kiekiui nebuvo suteikta parama pagal užsienio valstybės paramos schemą, išskyrus įrenginiui suteiktą paramą investicijoms.
+3) pagamintam ir eksportuotam elektros energijos kiekiui nebuvo suteikta parama pagal užsienio valstybės paramos schemą, išskyrus įrenginiui suteiktą paramą investicijoms;
+
+
+
+
+4) elektros energija pagaminta laikantis tarptautinės teisės trečiojoje valstybėje, kuri yra Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvenciją arba kitas tarptautines konvencijas ar sutartis žmogaus teisių klausimais pasirašiusioji šalis.
 
 
 
@@ -4086,7 +4312,7 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 4. Laikoma, kad šio straipsnio 3 dalies 1 punkte nurodytas reikalavimas tenkinamas, kai:
 
 
-1) visi atsakingi perdavimo sistemos operatoriai kilmės šalyje, paskirties šalyje ir, jeigu taikoma, visose užsienio tranzito valstybėse galutinai priskyrė elektros energijos kiekį, lygiavertį kiekiui, į kurį atsižvelgiama, paskirtiems elektros tinklų sujungimo pajėgumams;
+1) visi atsakingi perdavimo sistemos operatoriai kilmės valstybėje, paskirties valstybėje ir, jeigu taikoma, visose užsienio tranzito valstybėse galutinai priskyrė elektros energijos kiekį, lygiavertį kiekiui, į kurį atsižvelgiama, paskirtiems elektros tinklų sujungimo pajėgumams;
 
 
 
@@ -4103,37 +4329,37 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-5. Vyriausybė ar jos įgaliota institucija gali kreiptis į Europos Komisiją, prašydamos Lietuvos Respublikos bendrojo planinio rodiklio įvertinimo tikslais apskaičiuojant atsinaujinančių išteklių energijos dalį, atsižvelgti į atsinaujinančių išteklių elektros energiją, pagamintą ir suvartotą užsienio valstybėje, kai jungiamosios linijos tarp Lietuvos Respublikos ir užsienio valstybės tiesimo parengiamasis laikotarpis labai ilgas, tokiomis sąlygomis:
+5. Vyriausybė ar jos įgaliota institucija gali kreiptis į Europos Komisiją, prašydamos šio įstatymo 1 straipsnio 4 dalyje nustatytos energijos gamybos iš atsinaujinančių išteklių energijos dalies, palyginti su šalies bendruoju galutiniu energijos suvartojimu, tikslais apskaičiuojant atsinaujinančių išteklių energijos dalį, atsižvelgti į atsinaujinančių išteklių elektros energiją, pagamintą ir suvartotą užsienio valstybėje, kai jungiamosios linijos tarp Lietuvos Respublikos ir užsienio valstybės tiesimo parengiamasis laikotarpis labai ilgas, tokiomis sąlygomis:
 
 
-1) jungiamosios linijos tiesimas turi būti pradėtas ne vėliau kaip 2016 m. gruodžio  31 d.;
-
-
-
-
-2) turi būti neįmanoma pradėti eksploatuoti jungiamąją liniją ne vėliau kaip 2020 m. gruodžio 31 d.;
+1) jungiamosios linijos tiesimas turi būti pradėtas ne vėliau kaip 2026 m. gruodžio 31 d.;
 
 
 
 
-3) turi būti įmanoma pradėti eksploatuoti jungiamąją liniją ne vėliau kaip 2022 m. gruodžio 31 d.;
+2) turi būti neįmanoma pradėti eksploatuoti jungiamosios linijos ne vėliau kaip 2030 m. gruodžio 31 d.;
 
 
 
 
-4) pradėjus eksploatuoti jungiamąją liniją, ji bus naudojama elektros energijai, gaminamai iš atsinaujinančių energijos išteklių, eksportuoti į Europos Sąjungą, kaip nurodyta šio straipsnio 4 dalyje;
+3) turi būti įmanoma pradėti eksploatuoti jungiamąją liniją ne vėliau kaip 2032 m. gruodžio 31 d.;
 
 
 
 
-5) prašymas susijęs su šio straipsnio 3 dalies 2 ir 3 punktuose nustatytus kriterijus atitinkančiu bendru projektu, kurį vykdant bus naudojama jungiamoji linija po to, kai ji bus pradėta eksploatuoti, ir su elektros energijos kiekiu, kuris nėra didesnis už elektros energijos kiekį, kuris bus eksportuojamas į Europos Sąjungą po to, kai jungiamoji linija bus pradėta eksploatuoti.
+4) pradėjus eksploatuoti jungiamąją liniją, ji bus naudojama elektros energijai, gaminamai iš atsinaujinančių energijos išteklių, eksportuoti į Europos Sąjungą, kaip nurodyta šio straipsnio 4 dalyje;
+
+
+
+
+5) prašymas yra susijęs su šio straipsnio 3 dalies 2 ir 3 punktuose nustatytus kriterijus atitinkančiu bendru projektu, kurį vykdant bus naudojama jungiamoji linija po to, kai ji bus pradėta eksploatuoti, ir su elektros energijos kiekiu, kuris nėra didesnis už elektros energijos kiekį, kuris bus eksportuojamas į Europos Sąjungą po to, kai jungiamoji linija bus pradėta eksploatuoti.
 
 
 
 
 
 
-6. Vyriausybės nustatyta tvarka jos įgaliota institucija praneša Europos Komisijai apie elektros energijos dalį ar kiekį, kurie pagaminti įrenginyje, esančiame užsienio valstybės teritorijoje, ir kurie įskaitomi į Lietuvos Respublikos ir galbūt į kitos valstybės narės (ar kitų valstybių narių) nacionalinį bendrąjį planinį rodiklį. Kai bendrame projekte dalyvauja daugiau negu viena valstybė narė, apie elektros energijos dalies ar kiekio paskirstymą valstybėms narėms pranešama Europos Komisijai. Ši elektros energijos dalis ar kiekis negali viršyti faktiškai į Europos Sąjungą eksportuotos ir joje suvartotos elektros energijos dalies ar kiekio, atitinkančių šio straipsnio 4 dalyje išdėstytas sąlygas ir 4 dalies 1 ir 2 punktuose nurodytą kiekį. 
+6. Vyriausybės nustatyta tvarka jos įgaliota institucija praneša Europos Komisijai apie elektros energijos dalį ar kiekį, kurie pagaminti įrenginyje, esančiame užsienio valstybės teritorijoje, ir kurie įskaitomi į vienos ar daugiau valstybių narių atsinaujinančių išteklių energijos procentinę dalį. Kai bendrame projekte dalyvauja daugiau negu viena valstybė narė, apie elektros energijos dalies ar kiekio paskirstymą valstybėms narėms pranešama Europos Komisijai. Ši elektros energijos dalis ar kiekis negali viršyti faktiškai į Europos Sąjungą eksportuotos ir joje suvartotos elektros energijos dalies ar kiekio, atitinkančių šio straipsnio 4 dalyje išdėstytas sąlygas ir 4 dalies 1 ir 2 punktuose nurodytą kiekį.
 
 
 
@@ -4146,12 +4372,12 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-2) nurodoma įrenginyje pagamintos elektros energijos dalis arba kiekis, laikomi įskaitomais į Lietuvos Respublikos nacionalinį planinį rodiklį, taip pat, laikantis konfidencialumo reikalavimų, atitinkami finansiniai susitarimai;
+2) nurodoma įrenginyje pagamintos elektros energijos dalis arba kiekis, laikomi įskaitomais į šio įstatymo 1 straipsnio 4 dalyje nustatytą energijos gamybos iš atsinaujinančių išteklių energijos dalį, palyginti su šalies bendruoju galutiniu energijos suvartojimu, taip pat, laikantis konfidencialumo reikalavimų, atitinkami finansiniai susitarimai;
 
 
 
 
-3) nurodomas kalendoriniais metais išreikštas laikotarpis, per kurį įrenginyje pagaminta elektros energija turi būti laikoma įskaitoma į Lietuvos Respublikos nacionalinį bendrąjį planinį rodiklį. Šis laikotarpis negali būti ilgesnis kaip iki 2020 m.;
+3) nurodomas kalendoriniais metais išreikštas laikotarpis, per kurį įrenginyje pagaminta elektros energija turi būti laikoma įskaitoma į šio įstatymo 1 straipsnio 4 dalyje nustatytą energijos gamybos iš atsinaujinančių išteklių energijos dalį, palyginti su šalies bendruoju galutiniu energijos suvartojimu;
 
 
 
@@ -4163,20 +4389,22 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-8. Pagal šio straipsnio 7 dalį pateikto pranešimo negalima keisti ar panaikinti, jeigu nėra Lietuvos Respublikos ir užsienio valstybės, kuri pagal šio straipsnio 7 dalies 4 punktą patvirtinto bendrą projektą, bendro susitarimo.
+8. Šio straipsnio 7 dalyje nurodytą pranešimą, pateikiamą Europos Komisijai, galima keisti ar panaikinti, jeigu yra Lietuvos Respublikos ir užsienio valstybės, kuri pagal šio straipsnio 7 dalies 4 punktą patvirtino bendrą projektą, bendras susitarimas.
 
 
 
 
-9. Bendro projekto tarp Lietuvos Respublikos ir užsienio valstybių trukmė gali būti ilgesnė kaip iki 2020 m.
+9. Bendro projekto tarp Lietuvos Respublikos ir užsienio valstybių trukmė gali būti ilgesnė kaip iki 2030 m.
 
 
 
 
-10. Lietuvos Respublikoje vykdomi bendri projektai su užsienio valstybėmis negali turėti neigiamos įtakos šio įstatymo 55 straipsnio 2 dalyje nustatytų tarpinių nacionalinių planinių rodiklių įgyvendinimui.
+10. Lietuvos Respublikoje vykdomi bendri projektai su užsienio valstybėmis negali turėti neigiamos įtakos šio įstatymo 1 straipsnio 4 dalyje nustatytos energijos gamybos iš atsinaujinančių išteklių energijos dalies, palyginti su šalies bendruoju galutiniu energijos suvartojimu, pasiekimui. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
-
-
 
 
 
@@ -4184,15 +4412,15 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 62 straipsnis. Bendrų projektų su užsienio valstybėmis rezultatai
 
 
-1. Per 3 mėnesius, pasibaigus kiekvieniems šio įstatymo 61 straipsnio 7 dalies 3 punkte nustatyto laikotarpio metams, Vyriausybės nustatyta tvarka jos įgaliota institucija parengia pranešimą, kuriame nurodo:
+1. Per 12 mėnesių, pasibaigus kiekvieniems šio įstatymo 61 straipsnio 7 dalies 3 punkte nustatyto laikotarpio metams, Vyriausybės nustatyta tvarka jos įgaliota institucija parengia pranešimą, kuriame nurodo:
 
 
-1) bendrą elektros energijos kiekį, per tuos metus pagamintą įrenginyje iš atsinaujinančių energijos išteklių ir kuris nurodytas Europos Komisijai pateiktame pranešime bendro projekto tikslais;
+1) bendrą iš atsinaujinančių išteklių pagamintos elektros energijos kiekį, kuris per tuos metus pagamintas įrenginyje iš atsinaujinančių energijos išteklių ir kuris nurodytas Europos Komisijai pateiktame pranešime bendro projekto tikslais;
 
 
 
 
-2) elektros energijos kiekį, per tuos metus pagamintą įrenginyje iš atsinaujinančių energijos išteklių ir kuris turi būti įskaitomas į Lietuvos Respublikos nacionalinį bendrąjį planinį rodiklį remiantis pranešimo sąlygomis;
+2) elektros energijos kiekį, kuris per tuos metus pagamintas įrenginyje iš atsinaujinančių energijos išteklių ir kuris turi būti įskaitomas į šio įstatymo 1 straipsnio 4 dalyje nustatytą energijos gamybos iš atsinaujinančių išteklių energijos dalį, palyginti su šalies bendruoju galutiniu energijos suvartojimu, remiantis pranešimo sąlygomis;
 
 
 
@@ -4209,10 +4437,12 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-3. Elektros energijos kiekis, pagamintas iš atsinaujinančių energijos išteklių, apie kurį pranešta pagal šio straipsnio 1 dalies 2 punktą, pridedamas prie atsinaujinančių išteklių energijos kiekio, į kurį atsižvelgiama vertinant, kaip Lietuvos Respublika įgyvendina šio įstatymo 55 straipsnio 2 dalyje nustatytus tarpinius nacionalinius planinius rodiklius.
+3. Elektros energijos kiekis, pagamintas iš atsinaujinančių energijos išteklių, apie kurį pranešta pagal šio straipsnio 1 dalies 2 punktą, pridedamas prie atsinaujinančių išteklių energijos kiekio, į kurį atsižvelgiama vertinant, kaip Lietuvos Respublika siekia šio įstatymo 1 straipsnio 4 dalyje nustatytos energijos gamybos iš atsinaujinančių išteklių energijos dalies, palyginti su šalies bendruoju galutiniu energijos suvartojimu. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
-
-
 
 
 
@@ -4225,7 +4455,9 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-2. Šio straipsnio 1 dalyje nurodytais atvejais tam tikras atsinaujinančių išteklių energijos kiekis, pagamintas vienos paramos schemoje dalyvaujančios valstybės narės teritorijoje, gali būtų įskaitytas į kitos paramos schemoje dalyvaujančios valstybės narės nacionalinį bendrąjį planinį rodiklį, jeigu atitinkamos valstybės narės:
+2. Šio straipsnio 1 dalyje nurodytais atvejais tam tikras atsinaujinančių išteklių energijos kiekis, pagamintas vienos paramos schemoje dalyvaujančios valstybės narės teritorijoje, gali būtų įskaitytas į kitos paramos schemoje dalyvaujančios valstybės narės atsinaujinančių išteklių energijos procentinę dalį, jeigu atitinkamos valstybės narės: 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 
 
 1) atliko atsinaujinančių išteklių energijos nurodyto kiekio statistinį perdavimą iš vienos valstybės narės kitai valstybei narei, kaip nurodyta šio įstatymo 58 straipsnyje, arba
@@ -4412,17 +4644,31 @@ priedas
  
 
 
-1. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/28/EB dėl skatinimo naudoti atsinaujinančių išteklių energiją, iš dalies keičianti bei vėliau panaikinanti Direktyvas 2001/77/EB ir 2003/30/EB (OL 2009 L 140, p. 16).
+1. Neteko galios nuo 2021-06-30.
+Punkto pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
 
-2. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos Direktyva 2009/72/EB dėl elektros energijos vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/54/EB (OL 2009 L 211, p. 55).
+2. 1996 m. gruodžio 19 d. Europos Parlamento ir Tarybos direktyva 96/92/EB dėl elektros energijos vidaus rinkos bendrųjų taisyklių (OL 2004 m. specialusis leidimas, 12 skyrius, 2 tomas, p. 3) su paskutiniais pakeitimais, padarytais 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/72/EB (OL 2009 L 211, p. 55). 
+Punkto pakeitimai:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
 
 3. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB (OL 2009 L 211, p. 94).
+
+
+
+
+31. 2010 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 2010/31/ES dėl pastatų energinio naudingumo (OL 2010 L 153, p. 13). 
+Papildyta straipsnio dalimi:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
+ 
 
 
 
@@ -4438,6 +4684,14 @@ Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
 5. 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/1513, kuria iš dalies keičiamos Direktyva 98/70/EB dėl benzino ir dyzelinių degalų (dyzelino) kokybės ir Direktyva 2009/25/EB dėl skatinimo naudoti atsinaujinančių išteklių energiją (OL 2015 L 239, p. 1). 
 Papildyta punktu:
 Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
+ 
+
+
+
+
+6. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/2001 dėl skatinimo naudoti atsinaujinančiųjų išteklių energiją (OL 2018 L 328, p. 82). 
+Papildyta straipsnio dalimi:
+Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
  
 
 
