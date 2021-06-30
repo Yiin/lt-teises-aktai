@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.90D8CF4E3E9F"
 
 # Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-29
+Suvestinė redakcija nuo 2021-06-30 iki 2021-08-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3214, i. k. 1071010ISTA00X-1238
  
@@ -444,27 +444,27 @@ Vaiko minimalios ir vidutinės priežiūros priemones, koordinuotai teikiamas pa
 1) vaiko minimalios priežiūros priemonių skyrimo turi teisę kreiptis:
 
 
-a) tarpinstitucinio bendradarbiavimo koordinatorius; 
+a) tarpinstitucinio bendradarbiavimo koordinatorius;
 
 
 
 
-b) vaiko atstovai pagal įstatymą; 
+b) vaiko atstovai pagal įstatymą;
 
 
 
 
-c) teritorinė policijos įstaiga; 
+c) teritorinė policijos įstaiga;
 
 
 
 
-d) mokykla; 
+d) mokykla;
 
 
 
 
-e) seniūnija; 
+e) seniūnija;
 
 
 
@@ -474,9 +474,12 @@ f) prokuroras;
 
 
 
-g) teismas (dėl vaikų nuo 16 iki 18 metų padarytų administracinių nusižengimų);
+g) teismas ir administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas) (dėl vaikų nuo 16 iki 18 metų padarytų administracinių nusižengimų); 
 
 
+Straipsnio punkto pakeitimai:
+Nr. XIV-416, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14573
+ 
 
 
 
@@ -484,22 +487,22 @@ g) teismas (dėl vaikų nuo 16 iki 18 metų padarytų administracinių nusiženg
 2) vaiko vidutinės priežiūros priemonės skyrimo turi teisę kreiptis:
 
 
-a) specialistas, vykdęs vaiko minimalios priežiūros priemonių koordinavimo atvejo vadybininko funkcijas (toliau – atvejo vadybininkas); 
+a) specialistas, vykdęs vaiko minimalios priežiūros priemonių koordinavimo atvejo vadybininko funkcijas (toliau – atvejo vadybininkas);
 
 
 
 
-b) vaiko atstovai pagal įstatymą; 
+b) vaiko atstovai pagal įstatymą;
 
 
 
 
-c) teritorinė policijos įstaiga; 
+c) teritorinė policijos įstaiga;
 
 
 
 
-d) seniūnija; 
+d) seniūnija;
 
 
 
@@ -509,9 +512,12 @@ e) prokuroras;
 
 
 
-f) teismas (dėl vaikų nuo 16 iki 18 metų padarytų administracinių nusižengimų);
+f) teismas ir administracinio nusižengimo bylą ne teismo tvarka nagrinėjanti institucija (pareigūnas) (dėl vaikų nuo 16 iki 18 metų padarytų administracinių nusižengimų);
 
 
+Straipsnio punkto pakeitimai:
+Nr. XIV-416, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14573
+ 
 
 
 
@@ -1982,3 +1988,8 @@ Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3292, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20886
 Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-416, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14573
+Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 12 straipsnio pakeitimo įstatymas
