@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-05-26 iki 2021-06-29
+Suvestinė redakcija nuo 2021-06-30 iki 2021-09-30
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -3952,7 +3952,10 @@ SVEIKATINIMO VEIKLOS KOORDINAVIMO SUBJEKTAI
 67 straipsnis. Nacionalinė sveikatos taryba
 
 
-1. Nacionalinė sveikatos taryba (toliau šiame straipsnyje – Taryba) – Seimui atskaitinga sveikatos politikos vertinimo ir formavimo patariamoji institucija. Taryba yra iš valstybės biudžeto išlaikoma biudžetinė įstaiga. Taryba sudaroma 4 metų kadencijai ir veikia pagal Seimo patvirtintus Nacionalinės sveikatos tarybos nuostatus. Tarybą, tvirtinamą Seimo nutarimu, sudaro 16 narių: 2 savivaldybių bendruomenių sveikatos tarybų atstovai (vienas – penkių didžiųjų miestų savivaldybių atstovas, vienas – kitų savivaldybių atstovas); 7 švietimo, socialinių reikalų, aplinkosaugos, ekonomikos, kultūros, kaimo reikalų, medicinos etikos ar teisės specialistai; 3 asociacijų, ginančių visuomenės sveikatos, pacientų ar neįgaliųjų interesus, atstovai; 3 mokslo ir studijų institucijų, rengiančių sveikatos priežiūros specialistus, atstovai; vienas sveiką gyvenseną propaguojančių asociacijų atstovas. Tvirtindamas Tarybos sudėtį, Seimas laikinai, iki nuolatinio Tarybos pirmininko paskyrimo, paveda Tarybos pirmininko pareigas eiti vyriausiam pagal amžių naujos sudėties Tarybos nariui.
+1. Nacionalinė sveikatos taryba (toliau šiame straipsnyje – Taryba) – Seimui atskaitinga sveikatos politikos vertinimo ir formavimo patariamoji institucija. Taryba yra iš valstybės biudžeto išlaikoma biudžetinė įstaiga. Taryba sudaroma 4 metų kadencijai ir veikia pagal Seimo patvirtintus Nacionalinės sveikatos tarybos nuostatus. Tarybą, tvirtinamą Seimo nutarimu, sudaro 15 narių: 3 savivaldybių bendruomenių sveikatos tarybų atstovai; 6 mokslo ir studijų institucijų, nerengiančių sveikatos priežiūros specialistų, asociacijų, vienijančių mokslininkus, atstovai; 3 asociacijų, vienijančių sveikatinimo veiklos srities asmenis, atstovai; 3 mokslo ir studijų institucijų, rengiančių sveikatos priežiūros specialistus, atstovai. Tvirtindamas Tarybos sudėtį, Seimas laikinai, iki nuolatinio Tarybos pirmininko paskyrimo, paveda Tarybos pirmininko pareigas eiti vyriausiam pagal amžių naujos sudėties Tarybos nariui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-403, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14507
+ 
 
 
 
@@ -3970,7 +3973,10 @@ Nr. XIII-718, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18150
 
 
 
-3. Tarybos pirmininkas vadovauja Tarybai, jis teisės aktų nustatyta tvarka kartu yra ir šios įstaigos vadovas. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme. Jis gali dirbti mokslo ir studijų institucijose ir gauti atlyginimą už mokslinę, pedagoginę bei kūrybinę veiklą. Tarybos pirmininko, naudojančio tarnybos laiką darbui mokslo ir studijų institucijoje, darbo užmokestis apskaičiuojamas proporcingai valstybės tarnyboje dirbtam laikui. Tarybos pirmininko įgaliojimai tęsiasi iki naujos sudėties Tarybos įgaliojimų pradžios.
+3. Tarybos pirmininkas vadovauja Tarybai, jis teisės aktų nustatyta tvarka kartu yra ir šios įstaigos vadovas. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme. Tarybos pirmininkas gali dirbti kitą darbą ir gauti atlygį, jeigu tai nesukelia viešųjų ir privačių interesų konflikto ir nediskredituoja Tarybos autoriteto. Sprendimą dėl leidimo Tarybos pirmininkui dirbti kitą darbą priima Seimo valdyba. Tarybos pirmininko, naudojančio tarnybos laiką kitam darbui, darbo užmokestis apskaičiuojamas proporcingai valstybės tarnyboje dirbtam laikui. Tarybos pirmininko įgaliojimai tęsiasi iki naujos sudėties Tarybos įgaliojimų pradžios. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-403, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14507
+ 
 
 
 
@@ -4005,7 +4011,10 @@ Nr. XIII-718, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18150
 
 
 
-6. Tarybos nariu gali būti tik nepriekaištingos reputacijos, turintis mokslo laipsnį ir ne trumpesnę kaip 3 metų darbo (profesinės veiklos) ir (ar) narystės (atstovavimo) asociacijose patirtį asmuo. Kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos, taikomi tokie patys, kokie yra nustatyti Lietuvos Respublikos valstybės tarnybos įstatyme valstybės tarnautojams. Mokslo laipsnio reikalavimas netaikomas asociacijų, propaguojančių sveiką gyvenseną, ginančių visuomenės sveikatos, pacientų ar neįgaliųjų interesus, atstovams ir savivaldybių bendruomenių sveikatos tarybų atstovams. Tarybos nariais negali būti renkami Lietuvos Respublikos valstybės politikų pareigas einantys asmenys. Tarybos nariai dirba visuomeniniais pagrindais. Asmuo Tarybos nariu gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės.
+6. Tarybos nariu gali būti tik nepriekaištingos reputacijos, turintis mokslo laipsnį ir ne trumpesnę kaip 3 metų darbo (profesinės veiklos) ir (ar) narystės (atstovavimo) asociacijose patirtį asmuo. Kriterijai, kuriais remiantis asmuo negali būti laikomas nepriekaištingos reputacijos, taikomi tokie patys, kokie yra nustatyti Lietuvos Respublikos valstybės tarnybos įstatyme valstybės tarnautojams. Mokslo laipsnio reikalavimas netaikomas asociacijų, vienijančių sveikatinimo veiklos srities asmenis, atstovams ir savivaldybių bendruomenių sveikatos tarybų atstovams. Tarybos nariais negali būti renkami Lietuvos Respublikos valstybės politikų pareigas einantys asmenys. Tarybos nariai dirba visuomeniniais pagrindais. Asmuo Tarybos nariu gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-403, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14507
+ 
 
 
 
@@ -4033,47 +4042,37 @@ Nr. XIII-718, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18150
 8. Taryba:
 
 
-1) analizuoja, vertina ir teikia pasiūlymus Seimui, Vyriausybei, ministerijoms aktualiais sveikatos visose politikos srityse principo įgyvendinimo klausimais; 
+1) teikia išvadas dėl Nacionaliniame pažangos plane nustatytų sveikatinimo veiklos strateginių tikslų ir (arba) pažangos uždavinių, valstybės siekiamo sveikatos lygio rodiklių, pažangos uždavinius įgyvendinančių nacionalinių plėtros programų ir jose suplanuotų priemonių, pagal kompetenciją analizuoja ir vertina nacionalinės sveikatinimo veiklos strateginių tikslų ir (arba) pažangos uždavinių įgyvendinimo pažangą;
 
 
 
 
-2) skatina sveikatos ugdymo politiką;
+2) teikia išvadas ir pasiūlymus Seimui dėl Lietuvos Respublikos įstatymų projektų, kitų Seimo priimamų teisės aktų, reglamentuojančių sveikatos priežiūrą, projektų;
 
 
 
 
-3) analizuoja ir teikia pasiūlymus Seimui, Vyriausybei, ministerijoms, savivaldybėms priklausomybių ir savižudybių prevencijos klausimais;
+3) teikia nuomonę valstybės ir savivaldybių institucijoms ir įstaigoms, mokslo ir studijų institucijoms valstybinės sveikatos politikos klausimais;
 
 
 
 
-4) vertina ir teikia išvadas bei pasiūlymus Seimui, Vyriausybei, ministerijoms, savivaldybėms dėl gyventojų sveikatos būklės gerinimo;
+4) telkia asociacijas viešoms diskusijoms svarbiausiais sveikatos politikos ir strategijos tobulinimo ir jų įgyvendinimo klausimais;
 
 
 
 
-5) dalyvauja vertinant ir formuojant ligų profilaktikos ir kontrolės politiką;
+5) rengia ir kiekvienais metais teikia Seimui savo veiklos ataskaitą ir pranešimą apie Lietuvos gyventojų sveikatos ir sveikatos sistemos būklę;
 
 
 
 
-6) teikia išvadas dėl Nacionaliniame pažangos plane nustatytų sveikatinimo veiklos strateginių tikslų ir (arba) pažangos uždavinių, valstybės siekiamo sveikatos lygio rodiklių, pažangos uždavinius įgyvendinančių nacionalinių plėtros programų ir jose suplanuotų priemonių, pagal kompetenciją analizuoja ir vertina nacionalinės sveikatinimo veiklos strateginių tikslų ir (arba) pažangos uždavinių įgyvendinimo pažangą;
-Straipsnio punkto pakeitimai:
-Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
+6) atlieka kitas šiame ir kituose įstatymuose bei Nacionalinės sveikatos tarybos nuostatuose jai priskirtas funkcijas. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-403, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14507
  
-
-
-
-
-7) rengia ir kiekvienais metais teikia Seimui pranešimą apie gyventojų sveikatos ir sveikatos politikos formavimo ir įgyvendinimo būklę;
-
-
-
-
-8) atlieka kitas šiame ir kituose įstatymuose bei Nacionalinės sveikatos tarybos nuostatuose jai priskirtas funkcijas.
-
-
 
 
 
@@ -4081,30 +4080,49 @@ Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
 9. Taryba turi teisę:
 
 
-1) gauti iš Vyriausybės, ministerijų, Vyriausybės įstaigų, savivaldybių institucijų, įmonių, įstaigų ir organizacijų teisės aktų, savivaldybės strateginio plėtros ir (ar) savivaldybės strateginio veiklos planų, programų projektus, kitą informaciją, reikalingą šiame įstatyme ir Nacionalinės sveikatos tarybos nuostatuose nustatytoms funkcijoms įgyvendinti;
+1) nemokamai gauti iš Vyriausybės, ministerijų, Vyriausybės įstaigų, savivaldybių institucijų, įmonių, įstaigų ir organizacijų teisės aktų, savivaldybės strateginio plėtros ir (ar) savivaldybės strateginio veiklos planų, programų projektus, kitą informaciją, reikalingą šiame įstatyme ir Nacionalinės sveikatos tarybos nuostatuose nustatytoms funkcijoms įgyvendinti;
 
 
 
 
-2) pagal kompetenciją atlikti įstatymų, kitų teisės aktų, programų projektų ekspertizę ir teikti šių programų rengėjams savo išvadas;
+2) pagal kompetenciją atlikti įstatymų, kitų teisės aktų, programų projektų ekspertizę ir teikti šių teisės aktų, programų rengėjams savo išvadas;
 
 
 
 
-3) pagal kompetenciją teikti konsultacijas Seimui, Vyriausybei, ministerijoms, Vyriausybės įstaigoms;
+3) pagal kompetenciją teikti konsultacijas valstybės ir savivaldybių institucijoms ir įstaigoms, mokslo ir studijų institucijoms;
 
 
 
 
-4) sudaryti ekspertų komisijas Tarybos funkcijoms įgyvendinti. 
+4) teisės aktų nustatyta tvarka dalyvauti Seimo ir Seimo komitetų bei komisijų, Vyriausybės, ministerijų, kitų valstybės ir savivaldybių institucijų, įstaigų posėdžiuose ir renginiuose, kuriuose svarstomi sveikatos klausimai. Šią teisę turi Tarybos pirmininkas ar kiti įgalioti Tarybos nariai;
 
 
 
 
-TAR pastaba. Iki šio įstatymo (Nr. XIII-248) įsigaliojimo dienos paskirtų Nacionalinės sveikatos tarybos narių kadencija baigiasi 2017 m. birželio 1 d.
-Likus ne mažiau kaip 40 kalendorinių dienų iki nurodyto termino, Nacionalinės sveikatos tarybos nuostatuose nustatyta tvarka pradedama Nacionalinės sveikatos tarybos narių skyrimo procedūra.
-Asmuo, iki šio įstatymo įsigaliojimo ėjęs Nacionalinės sveikatos tarybos nario pareigas paskutinius 8 metus ar ilgiau, laikomas ėjusiu Nacionalinės sveikatos tarybos nario pareigas dvi kadencijas iš eilės.
-Asmuo, iki šio įstatymo įsigaliojimo ėjęs Nacionalinės sveikatos tarybos nario pareigas trumpiau kaip paskutinius 8 metus, laikomas ėjusiu Nacionalinės sveikatos tarybos nario pareigas vieną kadenciją.
+5) skatinti valstybės ir savivaldybių institucijas, įstaigas, asociacijas bendradarbiauti sprendžiant strateginius sveikatos sistemos tobulinimo klausimus, bendradarbiauti su kitų Europos Sąjungos valstybių narių ir kitų valstybių panašiomis institucijomis;
+
+
+
+
+6) telkti Lietuvos ir užsienio intelektinius išteklius sveikatos sistemai tobulinti ir plėtoti;
+
+
+
+
+7) skleisti visuomenei informaciją apie savo veiklą, organizuoti diskusijas sveikatos klausimais;
+
+
+
+
+8) sudaryti ekspertų komisijas ir darbo grupes Tarybos funkcijoms įgyvendinti. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-403, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14507
+ 
+
+
 Straipsnio pakeitimai:
 Nr. X-1269, 2007-07-04, Žin., 2007, Nr. 81-3327 (2007-07-21)
 Nr. XII-462, 2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
@@ -5365,3 +5383,8 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 16, 59-1, 59-2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2947, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11067
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 16, 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, 75 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymo Nr. XIII-2754 1 ir 14 straipsnių pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-403, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14507
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 67 straipsnio pakeitimo įstatymas
