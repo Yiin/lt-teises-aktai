@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2020-12-31 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-07-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -1777,7 +1777,10 @@ ORO SUSISIEKIMAS
 
 
 
-2. Nereguliariesiems komerciniams skrydžiams iš Europos Sąjungai ir Europos ekonominei erdvei nepriklausančių valstybių su nutūpimu Lietuvos Respublikos teritorijoje ir tokiems skrydžiams iš Lietuvos Respublikos oro uostų į Europos Sąjungai bei Europos ekonominei erdvei nepriklausančių valstybių oro uostus reikia LTSA leidimo. Leidimas galioja tik jame nurodytam skrydžių skaičiui ir jame nurodytu laiku ir negali būti pratęstas.
+2. Nereguliariesiems komerciniams skrydžiams iš Europos Sąjungai ir Europos ekonominei erdvei nepriklausančių valstybių su nutūpimu Lietuvos Respublikos teritorijoje ir tokiems skrydžiams iš Lietuvos Respublikos oro uostų į Europos Sąjungai bei Europos ekonominei erdvei nepriklausančių valstybių oro uostus reikia LTSA leidimo. LTSA leidimo taip pat reikia nereguliariesiems komerciniams skrydžiams iš Europos Sąjungai ir Europos ekonominei erdvei priklausančių valstybių su nutūpimu Lietuvos Respublikos teritorijoje ir tokiems skrydžiams iš Lietuvos Respublikos oro uostų į Europos Sąjungai bei Europos ekonominei erdvei priklausančių valstybių oro uostus, kai skrydį vykdo ne Europos Sąjungos vežėjas. Leidimas galioja tik jame nurodytam skrydžių skaičiui ir jame nurodytu laiku ir negali būti pratęstas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -2756,3 +2759,8 @@ Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
 Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 3, 6, 21, 24 straipsnių ir 3 priedo pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 5, 6, 8, 12, 16, 24, 28, 33, 35, 41, 45, 46, 47, 49, 52 straipsnių ir 3 priedo pakeitimo ir Įstatymo papildymo 41-1 straipsniu ir III skyriaus dešimtuoju skirsniu įstatymas
