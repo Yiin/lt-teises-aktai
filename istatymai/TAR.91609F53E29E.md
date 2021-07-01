@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.91609F53E29E"
 
 # Lietuvos Respublikos socialinių paslaugų įstatymas
 
-Suvestinė redakcija nuo 2021-03-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 17-589, i. k. 1061010ISTA000X-493
  
@@ -1962,9 +1962,10 @@ Nr. XI-2171, 2012-06-29, Žin., 2012, Nr. 83-4345 (2012-07-14), i. k. 1121010IST
 
 
 
-6) pensijos, socialinio draudimo senatvės arba netekto darbingumo (invalidumo) pensijų priemokos, pensijų išmokos ir vietoj pensijų mokamos kompensacijos, rentos;
+6) pensijos, išskyrus socialinio draudimo našlių pensijas, socialinio draudimo senatvės arba netekto darbingumo (invalidumo) pensijų priemokos, pensijų išmokos ir vietoj pensijų mokamos kompensacijos, rentos;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1402, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11463
+Nr. XIV-359, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13162
  
 
 
@@ -2552,7 +2553,7 @@ Nr. XI-777, 2010-04-22, Žin., 2010, Nr. 53-2598 (2010-05-08), i. k. 1101010ISTA
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
 
 
@@ -2688,3 +2689,8 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19, 23, 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-170, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00909
 Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 1, 2, 3 straipsnių pakeitimo ir Įstatymo papildymo 5-1 straipsniu ir priedu įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-359, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13162
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 30 straipsnio pakeitimo įstatymas
