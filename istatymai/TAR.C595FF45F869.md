@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-11-30
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -4008,15 +4008,12 @@ MOKSLO IR STUDIJŲ FINANSAVIMAS
 1. Valstybinėms mokslo ir studijų institucijoms valstybės biudžeto bazinio finansavimo lėšos skiriamos:
 
 
-1) moksliniams tyrimams, eksperimentinei plėtrai ir meno veiklai plėtoti;
+1) moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti;
 
 
 
 
-2) administravimui ir ūkiui; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-625, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12341
- 
+2) administravimui ir ūkiui;
 
 
 
@@ -4033,27 +4030,162 @@ Nr. XIII-625, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12341
 
 
 
-2. Nevalstybinėms mokslo ir studijų institucijoms valstybės biudžeto bazinio finansavimo lėšos Vyriausybės nustatyta tvarka skiriamos moksliniams tyrimams, eksperimentinei plėtrai ir meno veiklai plėtoti. 
+2. Nevalstybinėms mokslo ir studijų institucijoms valstybės biudžeto bazinio finansavimo lėšos skiriamos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti.
 
 
 
 
-3. Valstybės biudžeto lėšos moksliniams tyrimams, eksperimentinei plėtrai ir meno veiklai plėtoti mokslo ir studijų institucijoms skiriamos Vyriausybės nustatyta tvarka pagal mokslo ir studijų institucijų mokslinių tyrimų, eksperimentinės plėtros ir meno veiklos vertinimo rezultatus ir finansines galimybes. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-625, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12341
- 
-
-
-
-
-4. Valstybės biudžeto lėšos administravimui ir ūkiui skiriamos pagal vykdomus mokslinius tyrimus, eksperimentinę plėtrą, meno veiklą ir studijas. Valstybės biudžeto lėšos administravimui ir ūkiui bei sudėtingos infrastruktūros objektų priežiūrai valstybinėms mokslo ir studijų institucijoms skiriamos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-625, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12341
- 
+3. Valstybės biudžeto lėšos administravimui ir ūkiui skiriamos pagal vykdomus mokslinius tyrimus, eksperimentinę plėtrą, meno veiklą ir studijas. Valstybės biudžeto lėšos administravimui ir ūkiui bei sudėtingos infrastruktūros objektų priežiūrai valstybinėms mokslo ir studijų institucijoms skiriamos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
+Nr. XIV-448, 2021-06-29, paskelbta TAR 2021-06-30, i. k. 2021-14797
+ 
+
+
+
+
+751 straipsnis. Valstybės biudžeto bazinio finansavimo lėšų moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti skyrimo pagrindai
+
+
+1. Valstybės biudžeto bazinio finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti mokslo ir studijų institucijoms skiriamos pagal mokslo ir studijų institucijų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos vertinimo rezultatus, atsižvelgus į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir valstybės finansines galimybes.
+
+
+
+
+2. Valstybės biudžeto bazinio finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti universitetams ir mokslinių tyrimų institutams skiriamos pagal:
+
+
+1) kas penkerius metus atliekamo palyginamojo ekspertinio universitetų ir mokslinių tyrimų institutų mokslinių tyrimų ir eksperimentinės plėtros vertinimo (toliau – palyginamasis ekspertinis vertinimas) rezultatus. Vertinimas apima penkerių praėjusių metų laikotarpį M-5–M-1 metus, o lėšos skiriamos M+1, M+2, M+3, M+4 ir M+5 metams, čia M – palyginamojo ekspertinio vertinimo atlikimo metai. Kitas palyginamasis ekspertinis vertinimas atliekamas po penkerių metų;
+
+
+
+
+2) kiekvienais metais atliekamo universitetų ir mokslinių tyrimų institutų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos vertinimo (toliau – kasmetinis vertinimas) rezultatus. Vertinimas apima vienų metų (N-1) laikotarpį, o lėšos skiriamos pagal paskutinių trejų metų (N‑3, N-2, N-1) rezultatus N+1 metams, čia N – kasmetinio vertinimo atlikimo metai.
+
+
+
+
+
+
+3. Valstybės biudžeto bazinio finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti kolegijoms skiriamos pagal kiekvienais metais atliekamo kolegijų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos vertinimo rezultatus. Vertinimas apima vienų metų laikotarpį už N-1 metus. Lėšos skiriamos N+1 metams, čia N – metai, kai atliekamas vertinimas. 
+TAR pastaba. 751 straipsnio 3 dalis įsigalioja 2023 m. sausio 1 d.
+
+
+Papildyta straipsniu:
+Nr. XIV-448, 2021-06-29, paskelbta TAR 2021-06-30, i. k. 2021-14797
+ 
+
+
+
+
+752 straipsnis. Mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos vertinimo kriterijai, reikšmingi valstybės biudžeto bazinio finansavimo lėšų skyrimui
+
+
+1. Palyginamasis ekspertinis vertinimas atliekamas pagal šiuos vertinimo kriterijus:
+
+
+1) mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos kokybė (svorio koeficientas skiriant lėšas – 0,65);
+
+
+
+
+2) mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos ekonominis ir socialinis poveikis (svorio koeficientas skiriant lėšas – 0,2);
+
+
+
+
+3) mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos perspektyvumas (svorio koeficientas skiriant lėšas – 0,15).
+
+
+
+
+
+
+2. Kasmetinis universitetų, mokslinių tyrimų institutų ir kolegijų vertinimas atliekamas pagal šiuos kriterijus:
+
+
+1) paskelbtų mokslinių tyrimų rezultatų ir meno darbų sklaida;
+
+
+
+
+2) mokslo ir studijų institucijų gautos tarptautinių mokslinių tyrimų ir eksperimentinės plėtros programų lėšos;
+
+
+
+
+3) mokslo ir studijų institucijų lėšos, gautos iš ūkio subjektų už mokslinių tyrimų ir eksperimentinės plėtros ir meno užsakymų.
+
+
+
+
+
+
+3. Kasmetinio universitetų ir mokslinių tyrimų institutų vertinimo kriterijų svorio koeficientus ir kolegijų vertinimo kriterijų svorio koeficientus tvirtina Vyriausybė ar jos įgaliota institucija, atsižvelgusi į Lietuvos mokslo tarybos siūlymą.
+
+
+
+
+4. Duomenis, kurių reikia siekiant atlikti šio straipsnio 1 ir 2 dalyse nurodytus vertinimus, mokslo ir studijų institucijos teikia Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+
+
+
+
+5. Kasmetinį vertinimą ir palyginamąjį ekspertinį vertinimą atlieka Lietuvos mokslo taryba.
+
+
+
+
+6. Mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos vertinimas atliekamas pagal Vyriausybės ar jos įgaliotos institucijos patvirtintus aprašus. 
+
+
+Papildyta straipsniu:
+Nr. XIV-448, 2021-06-29, paskelbta TAR 2021-06-30, i. k. 2021-14797
+ 
+
+
+
+
+753 straipsnis. Valstybės biudžeto bazinio finansavimo lėšų moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti skirstymas mokslo ir studijų institucijoms
+
+
+1. Universitetams ir mokslinių tyrimų institutams valstybės biudžeto bazinio finansavimo lėšos kiekvienais metais skiriamos pagal mokslo sritis. Šį skirstymą atlieka Vyriausybė ar jos įgaliota institucija, atsižvelgusi į Lietuvos mokslo tarybos siūlymą. Pagal palyginamojo ekspertinio vertinimo rezultatus kiekvienais metais mokslo sričiai skiriamų lėšų dydis negali būti mažesnis, negu buvo skirta praėjusiais metais, išskyrus atvejus, kai lėšos einamaisiais metais skiriamos jau pagal kito palyginamojo ekspertinio vertinimo rezultatus.
+
+
+
+
+2. Pagal palyginamojo ekspertinio vertinimo suminius įverčius universitetams ir mokslinių tyrimų institutams paskirstoma 60 procentų visoms mokslo sritims tenkančių lėšų moksliniams tyrimams ir eksperimentinei plėtrai. Lėšos kiekvienos mokslo srities moksliniams tyrimams ir eksperimentinei plėtrai skiriamos universitetams ir mokslinių tyrimų institutams proporcingai jų vertinamųjų vienetų mokslinių tyrimų ir eksperimentinės plėtros palyginamojo ekspertinio vertinimo suminių įverčių ir šių vertinamųjų vienetų dydžių, išreikštų jų mokslininkų ir menininkų visos darbo dienos atitikmenimis, sandaugoms.
+
+
+
+
+3. Pagal kasmetinio vertinimo suminius įverčius universitetams ir mokslinių tyrimų institutams mokslo srities moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti skiriama 40 procentų visoms mokslo sritims tenkančių lėšų moksliniams tyrimams ir eksperimentinei plėtrai ir visos meno veiklai tenkančios lėšos. Lėšos kiekvienos mokslo srities moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai skiriamos universitetams ir mokslinių tyrimų institutams proporcingai jų mokslinių tyrimų ir eksperimentinės plėtros, meno veiklos kasmetinio vertinimo suminiams įverčiams.
+
+
+
+
+4. Kolegijoms moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti skiriama ne mažiau kaip 10 procentų kolegijų bazinio finansavimo lėšų.
+
+
+
+
+5. Valstybės biudžeto bazinio finansavimo lėšos moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti valstybiniams universitetams ir valstybiniams mokslinių tyrimų institutams įskaičiuojamos į jų valstybės biudžeto asignavimus, tvirtinamus Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu.
+
+
+
+
+6. Valstybės biudžeto bazinio finansavimo lėšų skirstymas mokslo ir studijų institucijų moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti detalizuojamas Vyriausybės ar jos įgaliotos institucijos tvirtinamame tvarkos apraše.
+
+
+
+
+7. Universitetams ir mokslinių tyrimų institutams, įsteigtiems po šio įstatymo įsigaliojimo, palyginamasis ekspertinis vertinimas atliekamas ne anksčiau kaip po penkerių metų, o kasmetinis vertinimas atliekamas ne anksčiau kaip po metų nuo jų veiklos pradžios. Valstybės biudžeto bazinio finansavimo lėšas moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai plėtoti institucijoms pirmiems metams skiria Vyriausybė ar jos įgaliota institucija, atsižvelgdama į universitetų ir mokslinių tyrimų institutų palyginamojo ekspertinio vertinimo rezultatų vidurkį, o vėlesniais metais pagal kasmetinio vertinimo rezultatus atsižvelgus į Lietuvos mokslo tarybos siūlymą. 
+
+
+Papildyta straipsniu:
+Nr. XIV-448, 2021-06-29, paskelbta TAR 2021-06-30, i. k. 2021-14797
  
 
 
@@ -4664,10 +4796,17 @@ Nr. XIII-162, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29856
 84 straipsnis. Mokslinių tyrimų, eksperimentinės plėtros ir meno veiklos finansavimas
 
 
-1. Moksliniai tyrimai, eksperimentinės plėtros ir meno veikla valstybinėse ir nevalstybinėse mokslo ir studijų institucijose finansuojami:
+1. Moksliniai tyrimai ir eksperimentinė plėtra, meno veikla valstybinėse ir nevalstybinėse mokslo ir studijų institucijose finansuojami: 
+ 
+ 
+Straipsnio dalies pakeitimai:
+Nr. XIV-448, 2021-06-29, paskelbta TAR 2021-06-30, i. k. 2021-14797
 
 
-1) iš valstybės biudžeto bazinio finansavimo lėšų, skirtų moksliniams tyrimams, eksperimentinei plėtrai ir meno veiklai;
+1) iš valstybės biudžeto bazinio finansavimo lėšų, skirtų moksliniams tyrimams ir eksperimentinei plėtrai, meno veiklai; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-448, 2021-06-29, paskelbta TAR 2021-06-30, i. k. 2021-14797
+ 
 
 
 
@@ -5271,3 +5410,13 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 76 ir 82 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-132, 2020-12-23, paskelbta TAR 2020-12-30, i. k. 2020-29109
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pakeitimo įstatymas
+ 
+41.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT208-N17/2020, 2020-12-07, paskelbta TAR 2021-07-01, i. k. 2021-14848
+Dėl Lietuvos Respublikos mokslo ir studijų įstatymo 75 straipsnio 2, 3 dalių, Lietuvos Respublikos Vyriausybės 2017 m. kovo 1 d. nutarimo Nr. 149 „Dėl Lietuvos Respublikos mokslo ir studijų įstatymo įgyvendinimo“ 1.2, 3.6 papunkčių ir šiuo nutarimu patvirtinto Lietuvos Respublikos valstybės biudžeto lėšų moksliniams tyrimams, eksperimentinei plėtrai ir meno veiklai plėtoti skyrimo mokslo ir studijų institucijoms tvarkos aprašo atitikties Lietuvos Respublikos Konstitucijai
+ 
+42.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-448, 2021-06-29, paskelbta TAR 2021-06-30, i. k. 2021-14797
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 75, 84 straipsnių pakeitimo ir Įstatymo papildymo 75-1, 75-2, 75-3 straipsniais įstatymas
