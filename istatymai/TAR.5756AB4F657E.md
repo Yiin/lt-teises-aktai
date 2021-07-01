@@ -21,7 +21,7 @@ PRIEŽIŪROS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-10-31
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 76-3848, i. k. 1131010ISTA0XII-459
  
@@ -433,7 +433,10 @@ Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
 3. Derinimo stadijos metu, atsižvelgdamos į teritorijų planavimo dokumento lygmenį ir rūšį, teritorijų planavimo valstybinės priežiūros institucijos pagal kompetenciją tikrina:
 
 
-1) ar teritorijų planavimo dokumentas pateiktas derinti visoms institucijoms, pagal teisės aktų reikalavimus privalėjusioms dalyvauti atliekant šio dokumento derinimo procedūras, ar su visomis šiomis institucijomis šis dokumentas suderintas;
+1) ar teritorijų planavimo dokumentas pateiktas derinti visoms institucijoms, pagal teisės aktų reikalavimus privalėjusioms dalyvauti atliekant šio dokumento derinimo procedūras, ar su visomis šiomis institucijomis šis dokumentas suderintas, išskyrus Teritorijų planavimo įstatymo 23 straipsnio 7 dalyje nurodytą atvejį, kai teritorijų planavimo valstybinės priežiūros institucijai tikrinti teikiamas su atitinkama institucija nesuderintas valstybei svarbaus projekto teritorijų planavimo dokumentas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-159, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01176
+ 
 
 
 
@@ -2093,3 +2096,8 @@ Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
 Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 6, 10, 11, 13, 14, 15, 16, 17, 22, 23 straipsnių pakeitimo ir Įstatymo papildymo 26-1 straipsniu įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-159, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01176
+Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 6 straipsnio pakeitimo įstatymas
