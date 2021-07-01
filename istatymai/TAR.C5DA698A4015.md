@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-04-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-11-12
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 14-352, i. k. 0961010ISTA00I-1179
  
@@ -386,7 +386,10 @@ Nr. XIII-2142, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09047
 
 
 
-15) organizuoja paveldimų antikvarinių meno kūrinių, meno kūrinių, kilnojamųjų kultūros vertybių įkainojimą, kartu su Lietuvos prabavimo rūmais organizuoja paveldėtų antikvarinių tauriųjų metalų gaminių ir antikvarinių brangakmenių gaminių įkainojimą, išduoda asmenims Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos nustatytos formos pažymą apie paveldėto turto vertę;
+15) organizuoja paveldimų antikvarinių meno kūrinių, meno kūrinių, kilnojamųjų kultūros vertybių įkainojimą, kartu su viešąja įstaiga Lietuvos prabavimo rūmais organizuoja paveldėtų antikvarinių tauriųjų metalų gaminių ir antikvarinių brangakmenių gaminių įkainojimą, išduoda asmenims Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos nustatytos formos pažymą apie paveldėto turto vertę;
+Straipsnio punkto pakeitimai:
+Nr. XIV-335, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12777
+ 
 
 
 
@@ -1280,4 +1283,9 @@ Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2142, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09047
+Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 4 straipsnio pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-335, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12777
 Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 4 straipsnio pakeitimo įstatymas
