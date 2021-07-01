@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2021-06-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-11-12
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
  
@@ -59,30 +59,65 @@ Nr. XII-545, 2013-10-08, Žin., 2013, Nr. 110-5429 (2013-10-19)
 
 
 
-11. Aerobiškai skaidus plastikinis pirkinių maišelis – plastikinis pirkinių maišelis, kurio medžiagos sudėtyje yra aerobinį skilimą į mikrodaleles spartinančių priedų. 
+11. Aerobiškai skaidi plastikinė pakuotė – plastikinė pakuotė, kurios medžiagos sudėtyje yra aerobinį skilimą į mikrodaleles spartinančių priedų. 
 Papildyta straipsnio dalimi:
-Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
  
 
 
 
 
-2. Daugkartinis pakuočių naudojimas (toliau – pakartotinis naudojimas) – operacija, kai pakuotės (sukonstruotos taip, kad naudojimo laikotarpiu galima būtų transportuoti daugiau nei vieną kartą) yra vėl pripildomos naudojant pripildant reikalingus papildomus rinkoje esančius produktus ar jų nenaudojant ar panaudojamos tam pačiam tikslui, kuriam jos buvo pagamintos. Jei tokios daugkartinės pakuotės daugiau nebenaudojamos pagal paskirtį, jos tampa pakuočių atliekomis. 
+12. Aerobiškai skaidus plastikinis pirkinių maišelis – plastikinis pirkinių maišelis, kurio medžiagos sudėtyje yra aerobinį skilimą į mikrodaleles spartinančių priedų. 
+Papildyta straipsnio dalimi:
+Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
 
-21. Daugkartinė pakuotė – pakuotė, skirta naudoti pagal paskirtį daugiau negu vieną kartą.
+2. Neteko galios nuo 2021-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
 
-3. Energijos gavyba – degių pakuočių atliekų naudojimas energijai gauti, jas deginant atskirai ar kartu su kitomis atliekomis ir naudojant gautą šilumą.
+21. Daugkartinė pakuotė – pakuotė, kuri sumanyta, sukurta ir pateikta rinkai taip, kad per jos gyvavimo ciklą ją būtų galima ne vieną kartą panaudoti vežant prekes arba iš naujo ją užpildant, arba pakartotinai naudoti tuo pačiu tikslu, kuriuo ji buvo sumanyta. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
+
+
+
+
+3. Neteko galios nuo 2021-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
 
 4. Gamintojas (pakuočių naudotojas) – Lietuvos Respublikos teisės aktų nustatyta tvarka įregistravęs savo veiklą asmuo, gaminantis ir (ar) pakuojantis gaminius (išskyrus ūkininkavimo veikloje naudojamą šienainį), net jeigu pakavimo operacijas sutartiniais pagrindais atlieka kitas asmuo.
+
+
+
+
+41. Gamintojų ir importuotojų organizacijų ar užstato už vienkartines pakuotes sistemos administratorių veiklos atitiktis – gamintojų ir importuotojų organizacijų ar užstato už vienkartines pakuotes sistemos administratorių veiklos ir šių subjektų ataskaitinio laikotarpio veiklos dokumentų, nurodytų Lietuvos Respublikos atliekų tvarkymo įstatymo 3426 straipsnio 1 dalies 1 punkte ir šio įstatymo 112 straipsnio 9 dalyje, atitikimas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
+
+
+
+
+42. Gamintojų ir importuotojų organizacijų ar užstato už vienkartines pakuotes sistemos administratorių veiklos patikrinimo techninė užduotis (toliau – veiklos patikrinimo techninė užduotis) – dokumentas, kuriame nurodomi konkretūs Tarptautinės buhalterių federacijos Tarptautinių audito ir užtikrinimo standartų valdybos parengti ir patvirtinti tarptautiniai užtikrinimo užduočių, peržiūros užduočių, susijusių paslaugų standartai ir praktiniai nurodymai arba tarptautiniai audito standartai, kuriais vadovaujantis turi būti atliekamas gamintojų ir importuotojų organizacijų ar užstato už vienkartines pakuotes sistemos administratorių veiklos atitikties patikrinimas, taip pat šio patikrinimo reikalavimai ir (ar) apimtis. 
+Papildyta straipsnio dalimi:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
@@ -97,38 +132,62 @@ Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
 
 
 
-61. Labai lengvas plastikinis pirkinių maišelis – plastikinis pirkinių maišelis, kurio sienelės plonesnės kaip 15 mikronų ir kuris būtinas higienos tikslais arba pateikiamas kaip nefasuotiems maisto produktams skirta pirminė pakuotė siekiant išvengti maisto švaistymo. 
+61. Kombinuotoji pakuotė – iš dviejų ar daugiau skirtingų medžiagų sluoksnių, kurių negalima atskirti rankomis, pagaminta pakuotė, kurią sudaro vidinis ir išorinis medžiagų sluoksniai (vidinė talpyklė ir išorinis gaubtas) ir kuri kaip neatsiejama daugiasluoksnė skirtingų medžiagų visuma užpildoma, sandėliuojama, transportuojama ir ištuštinama kartu. 
 Papildyta straipsnio dalimi:
-Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
  
 
 
 
 
-62. Lengvasis plastikinis pirkinių maišelis – plastikinis pirkinių maišelis, kurio sienelės plonesnės kaip 50 mikronų. 
+62. Labai lengvas plastikinis pirkinių maišelis – plastikinis pirkinių maišelis, kurio sienelės plonesnės kaip 15 mikronų ir kuris būtinas higienos tikslais arba pateikiamas kaip nefasuotiems maisto produktams skirta pirminė pakuotė siekiant išvengti maisto švaistymo. 
 Papildyta straipsnio dalimi:
 Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
  
 
 
 
 
-7. Organinis perdirbimas – aerobinis (kompostavimas) ar anaerobinis (biometanizavimas) pakuočių atliekų biologiškai skylančios dalies apdorojimas naudojant mikroorganizmus, kurio metu gaunama stabilizuota organinė liekana arba metanas. Šalinimas į sąvartyną negali būti laikomas pakuočių atliekų organinio perdirbimo būdu.
+63. Lengvasis plastikinis pirkinių maišelis – plastikinis pirkinių maišelis, kurio sienelės plonesnės kaip 50 mikronų. 
+Papildyta straipsnio dalimi:
+Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
 
-8. Pakuočių atliekos – pakuotės ir pakuočių medžiagos, kurios pagal Atliekų tvarkymo įstatyme pateiktą atliekų apibrėžimą priskiriamos atliekoms, išskyrus pakuočių gamybos atliekas.
+7. Neteko galios nuo 2021-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
 
-9. Pakuočių atliekų naudojimas – pakuočių atliekų tvarkymo būdas, numatytas atliekų naudojimo būdų sąraše, parengtame pagal Atliekų tvarkymo įstatymo reikalavimus.
+8. Pakuočių atliekos – pakuotės ir pakuočių medžiagos, kurios pagal Atliekų tvarkymo įstatyme pateiktą atliekų apibrėžimą laikomos atliekomis, išskyrus pakuočių gamybos atliekas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
 
-10. Pakuočių atliekų prevencija – pakuotes ir pakuočių atliekas sudarančių medžiagų, taip pat pakuočių ir pakuočių atliekų, susidarančių gaminant, parduodant, kitaip platinant, naudojant ar šalinant supakuotus (sufasuotus) produktus, kiekio ir kenksmingumo aplinkai mažinimas, pirmiausia siekiant kurti aplinkos neteršiančius produktus ir technologijas.
+9. Neteko galios nuo 2021-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
+
+
+
+
+10. Neteko galios nuo 2021-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
@@ -143,7 +202,10 @@ Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
 
 
 
-13. Pakuočių atliekų tvarkymas – pakuočių atliekų surinkimas, vežimas, naudojimas ir šalinimas, tokios veiklos organizavimas ir stebėsena, šalinimo vietų vėlesnė priežiūra, įskaitant minėtus veiksmus, atliekamus prekiautojo atliekomis ar tarpininko.
+13. Neteko galios nuo 2021-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
@@ -206,7 +268,10 @@ Nr. XII-2306, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10413
 
 
 
-22. Perdirbimas – pakuočių atliekas sudarančių medžiagų perdirbimas gamybos proceso metu, įskaitant organinį perdirbimą, bet išskyrus naudojimą energijai gauti, norint pakuočių atliekas sudarančias medžiagas panaudoti pagal pirminę ar kitokią paskirtį.
+22. Neteko galios nuo 2021-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
@@ -324,7 +389,10 @@ Nr. XI-1627, 2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
 
 
 
-2. Pakuotės turi būti projektuojamos, gaminamos, parduodamos taip, kad jas būtų galima pakartotinai naudoti, perdirbti ar kitaip panaudoti ir sumažinti neigiamą poveikį aplinkai šalinant pakuočių atliekas ir (ar) pakuočių atliekų apdorojimo liekanas.
+2. Pakuotės turi būti projektuojamos, gaminamos, parduodamos taip, kad jas būtų galima pakartotinai naudoti, perdirbti ar kitaip panaudoti vadovaujantis Atliekų tvarkymo įstatymo 3 straipsnyje nurodytu atliekų prevencijos ir tvarkymo prioritetų eiliškumu ir sumažinti neigiamą poveikį aplinkai šalinant pakuočių atliekas ir (ar) pakuočių atliekų apdorojimo liekanas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 
@@ -395,7 +463,10 @@ Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
 
 
 
-3. Biologiškai skaidžios pakuočių atliekos turi fiziškai, chemiškai, termiškai ir biologiškai suirti taip, kad didžioji pagaminto komposto dalis galėtų skaidytis į anglies dioksidą, biomasę ir vandenį.
+3. Biologiškai skaidžios pakuočių atliekos turi fiziškai, chemiškai, termiškai ir biologiškai suirti taip, kad didžioji pagaminto komposto dalis galėtų skaidytis į anglies dioksidą, biomasę ir vandenį. Aerobiškai skaidžios plastikinės pakuotės nelaikomos biologiškai skaidžiomis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+ 
 
 
 Įstatymas papildytas straipsniu:
@@ -1479,40 +1550,37 @@ Nr. XII-545, 2013-10-08, Žin., 2013, Nr. 110-5429 (2013-10-19)
 
 Lietuvos Respublikos
 pakuočių ir pakuočių atliekų
-tvarkymo įstatymo 
+tvarkymo įstatymo
 2 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 94/62/EB dėl pakuočių ir pakuočių atliekų (OL 1994 m. specialusis leidimas, 13 skyrius, 13 tomas, p. 349).
+1. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 94/62/EB dėl pakuočių ir pakuočių atliekų su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/852.
 
 
 
 
-2. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos direktyva 2004/12/EB, iš dalies keičianti direktyvą 94/62/EB dėl pakuočių ir pakuočių atliekų (OL 2004 m. specialusis leidimas, 13 skyrius, 34 tomas, p. 3).
+2. 2005 m. kovo 22 d. Komisijos sprendimas 2005/270/EB, nustatantis duomenų bazės sistemos formas pagal Europos Parlamento ir Tarybos direktyvą 94/62/EB dėl pakuočių ir pakuočių atliekų, su paskutiniais pakeitimais, padarytais 2019 m. balandžio 17 d. Komisijos įgyvendinimo sprendimu (ES) 2019/665.
 
 
 
 
-3. 2013 m. vasario 7 d. Komisijos direktyva 2013/2/ES, kuria iš dalies keičiamas Europos Parlamento ir Tarybos direktyvos 94/62/EB dėl pakuočių ir pakuočių atliekų I priedas (OL 2013 L 37, p. 10).
+3. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/98/EB dėl atliekų ir panaikinanti kai kurias direktyvas su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/851.
 
 
 
 
-4. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/720, kuria dėl lengvųjų plastikinių pirkinių maišelių sunaudojimo mažinimo iš dalies keičiama Direktyva 94/62/EB (OL 2015 L 115, p. 11).
-Papildyta punktu:
-Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
- 
+4. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/720, kuria dėl lengvųjų plastikinių pirkinių maišelių sunaudojimo mažinimo iš dalies keičiama Direktyva 94/62/EB.
 
 
 Įstatymas papildytas priedu:
 Nr. X-286, 2005-06-30, Žin., 2005, Nr. 86-3206 (2005-07-16)
 Priedo pakeitimai:
 Nr. XII-545, 2013-10-08, Žin., 2013, Nr. 110-5429 (2013-10-19)
- 
- 
+Priedo pakeitimai:
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
  
 
 
@@ -1601,3 +1669,8 @@ Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-287, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09689
 Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 5 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 4, 4-2, 7, 10, 11-2 straipsnių ir 2 priedo pakeitimo įstatymas
