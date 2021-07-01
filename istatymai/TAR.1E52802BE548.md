@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-10-15
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
  
@@ -581,9 +581,17 @@ TAR pastaba. Viešosios įstaigos, įsteigtos iki 2017 m. spalio 31 d., kurių d
 
 
 
-3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis.
+3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis;
 Straipsnio punkto pakeitimai:
 Nr. XIII-852, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20335
+ 
+
+
+
+
+4) teikiama žurnalistams Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
+Papildyta straipsnio punktu:
+Nr. XIV-246, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08854
  
 
 
@@ -1622,3 +1630,8 @@ Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 8-1 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-78, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28124
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 2 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-246, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08854
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 8-1 straipsnio pakeitimo įstatymas
