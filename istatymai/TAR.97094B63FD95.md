@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.97094B63FD95"
 
 # Lietuvos Respublikos ūkinių bendrijų įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 112-4990, i. k. 1031010ISTA0IX-1804
  
@@ -367,7 +367,9 @@ TAR pastaba. Tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos, �
 
 
 
-6. Juridinių asmenų dalyvių informacinėje sistemoje sukauptų duomenų apie bendrijos tikruosius narius pagrindu parengta informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, kai ji teikiama:
+6. Pagal Juridinių asmenų dalyvių informacinėje sistemoje sukauptus duomenis apie bendrijos tikruosius narius parengta informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, kai ji teikiama: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-245, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08853
 
 
 1) bendrijos tikriesiems nariams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus;
@@ -380,17 +382,25 @@ TAR pastaba. Tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos, �
 
 
 
-3) valstybės ir savivaldybės institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis.
+3) valstybės ir savivaldybės institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis;
+
+
+
+
+4) žurnalistams Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis. 
+Papildyta straipsnio punktu:
+Nr. XIV-245, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08853
+ 
 
 
 
 
 
 
-7. Juridinių asmenų dalyvių informacinėje sistemoje sukauptų duomenų apie komanditinės ūkinės bendrijos komanditorius pagrindu parengtą informaciją turi teisę gauti:
+7. Pagal Juridinių asmenų dalyvių informacinėje sistemoje sukauptus duomenis apie komanditinės ūkinės bendrijos komanditorius parengtą informaciją turi teisę gauti:
 
 
-1) komanditinė ūkinė bendrija ir jos dalyviai – tos komanditinės ūkinės bendrijos komanditorių duomenų pagrindu parengtą informaciją;
+1) komanditinė ūkinė bendrija ir jos dalyviai – pagal tos komanditinės ūkinės bendrijos komanditorių duomenis parengtą informaciją;
 
 
 
@@ -405,14 +415,25 @@ TAR pastaba. Tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos, �
 
 
 
-4) kiti fiziniai ir juridiniai asmenys įstatymuose nustatytais atvejais – komanditinės ūkinės bendrijos komanditorių, kurių įnašo į komanditinę ūkinę bendriją dydis ir (ar) vertė sudaro daugiau negu 25 procentus visų dalyvių įnašų į komanditinę ūkinę bendriją dydžio ir (ar) vertės, duomenų pagrindu parengtą informaciją.
+4) žurnalistai Visuomenės informavimo įstatymo nustatytomis sąlygomis – pagal komanditinės ūkinės bendrijos komanditorių, kurių įnašo į komanditinę ūkinę bendriją dydis ir (ar) vertė sudaro daugiau negu 25 procentus visų dalyvių įnašų į komanditinę ūkinę bendriją dydžio ir (ar) vertės, duomenis parengtą informaciją;
 
 
 
 
+5) kiti fiziniai ir juridiniai asmenys įstatymuose nustatytais atvejais – pagal komanditinės ūkinės bendrijos komanditorių, kurių įnašo į komanditinę ūkinę bendriją dydis ir (ar) vertė sudaro daugiau negu 25 procentus visų dalyvių įnašų į komanditinę ūkinę bendriją dydžio ir (ar) vertės, duomenis parengtą informaciją.
 
 
-8. Juridinių asmenų dalyvių informacinėje sistemoje sukauptų duomenų apie komanditinės ūkinės bendrijos komanditorius pagrindu parengta informacija teikiama už atlyginimą, išskyrus atvejus, kai ji teikiama komanditinės ūkinės bendrijos komanditoriams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus, taip pat šio straipsnio 7 dalies 2 ir 3 punktuose nurodytiems subjektams. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-245, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08853
+ 
+
+
+
+
+8. Pagal Juridinių asmenų dalyvių informacinėje sistemoje sukauptus duomenis apie komanditinės ūkinės bendrijos komanditorius parengta informacija teikiama už atlyginimą, išskyrus atvejus, kai ji teikiama komanditinės ūkinės bendrijos komanditoriams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus, taip pat šio straipsnio 7 dalies 2, 3 ir 4 punktuose nurodytiems subjektams.
+Straipsnio dalies pakeitimai:
+Nr. XIV-245, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08853
+ 
 
 
 
@@ -965,7 +986,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                             ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                               ROLANDAS PAKSAS
  
 
 
@@ -1008,3 +1029,8 @@ Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 1 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-79, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28126
 Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 3 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-245, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08853
+Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 5 straipsnio pakeitimo įstatymas
