@@ -20,14 +20,9 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-11-12
  
 Įstatymas paskelbtas: Žin. 1990, Nr. 24-596, i. k. 0901010ISTA000I-430
- 
-TAR pastaba. Įstatymo Nr. XIII-3109 nuostatos taikomos rengiant 2022 metų ir vėlesnių metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektus, 2022–2024 metų ir vėlesnių metų strateginius veiklos planus.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 5, 8, 17, 18, 32 straipsnių pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
  
 Nauja įstatymo redakcija nuo 2004-01-07: 
 Nr. IX-1946, 2003-12-23, Žin., 2004, Nr. 4-47 (2004-01-07)
@@ -1763,15 +1758,19 @@ Nr. XI-2274, 2012-10-16, Žin., 2012, Nr. 126-6323 (2012-10-31)
 37 straipsnis. Biudžeto vykdymo kontrolė
 
 
-1. Valstybės biudžeto vykdymo auditą atlieka Valstybės kontrolė, savivaldybių biudžetų vykdymo auditą atlieka Valstybės kontrolė pagal valstybinio audito mastą ir savivaldybių kontrolės ir audito tarnybos.
+1. Valstybės biudžeto vykdymo auditą atlieka Valstybės kontrolė, savivaldybių biudžetų vykdymo auditą atlieka Valstybės kontrolė pagal Lietuvos Respublikos valstybės kontrolės įstatyme nustatytą veiklos apimtį. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1632, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18922
+Nr. XIV-138, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00260
  
 
 
 
 
-2. Seimui teikiamoje Valstybės kontrolės išvadoje turi būti nurodyta, ar paskirti asignavimai panaudoti programose nustatytiems tikslams, ar asignavimai panaudoti galimu ekonomiškiausiu ir efektyviausiu būdu, ar naudojant asignavimus nepadaryta teisės aktų pažeidimų, taip pat kiek pasiekti programose nustatyti tikslai.
+2. Neteko galios nuo 2021-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-138, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00260
+ 
 
 
 
@@ -2274,3 +2273,8 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 18 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-120, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28976
 Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 15 straipsnio pakeitimo įstatymas
+ 
+23.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-138, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00260
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 37 straipsnio pakeitimo įstatymas
