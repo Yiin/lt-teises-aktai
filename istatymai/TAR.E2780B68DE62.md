@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-05-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-07-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
  
@@ -843,7 +843,10 @@ Gamtinio pobūdžio saugomas teritorijas ir kitas aplinkos apsaugos požiūriu s
 
 
 
-Saugomų teritorijų apsaugą ir gamtos išteklių naudojimą jose reglamentuoja Lietuvos Respublikos saugomų teritorijų įstatymas, kiti įstatymai ir teisės aktai.
+Saugomų teritorijų apsaugą ir gamtos išteklių naudojimą jose reglamentuoja šis įstatymas, Lietuvos Respublikos saugomų teritorijų įstatymas, kiti aplinkos apsaugą ir gamtos išteklių naudojimą saugomose teritorijose reglamentuojantys įstatymai ir kiti teisės aktai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
+ 
 
 
 Straipsnio pakeitimai:
@@ -1977,15 +1980,16 @@ Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
 31 straipsnis. Aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų įgyvendinimo kontrolė
 
 
-Lietuvos Respublikoje aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų įgyvendinimo kontrolę atlieka aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybiniai saugomų teritorijų pareigūnai, valstybiniai miškų pareigūnai šio įstatymo, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo, Lietuvos Respublikos miškų įstatymo, Lietuvos Respublikos saugomų teritorijų įstatymo ir kitų įstatymų nustatyta tvarka
+Lietuvos Respublikoje aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių teisės aktų įgyvendinimo kontrolę atlieka aplinkos apsaugos valstybinės kontrolės pareigūnai šio įstatymo, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo, Lietuvos Respublikos miškų įstatymo, Lietuvos Respublikos saugomų teritorijų įstatymo ir kitų aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų nustatyta tvarka.
 
 
- Straipsnio pakeitimai:
+Straipsnio pakeitimai:
 Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 Nr. IX-2113, 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 Nr. X-147, 2005-03-24, Žin., 2005, Nr. 47-1558 (2005-04-12)
 Straipsnio pakeitimai:
 Nr. XII-2296, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10400
+Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
  
 
 
@@ -2322,17 +2326,21 @@ Pareikšti ieškinius dėl padarytos žalos turi teisę:
 
 
 
-2) Aplinkos ministerijos pareigūnai, kiti įstatymų įgalioti pareigūnai, kai padaryta žalos valstybės interesams.
+2) aplinkos apsaugos valstybinės kontrolės pareigūnai, kiti įstatymų įgalioti pareigūnai, kai padaryta žalos valstybės interesams.
+Straipsnio punkto pakeitimai:
+Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
+ 
 
 
 
 
 
 
-Aplinkos ministerija, jai pavaldžios ar kitos valstybės ar savivaldybių institucijos pagal kompetenciją ieškinius dėl žalos aplinkai bei kitų nuostolių atlyginimo gali pareikšti ūkio subjektui arba kitam asmeniui, padariusiam aplinkai žalos arba sukėlusiam neišvengiamą (realią) žalos aplinkai grėsmę, per penkerius metus nuo dienos, kurią buvo nustatytas atsakingas ūkio subjektas ar kitas asmuo arba buvo baigtos taikyti žalos aplinkai prevencijos priemonės, veiksmai, užtikrinantys teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, arba aplinkos atkūrimo priemonės, atsižvelgus į tai, kuri iš minėtų aplinkybių atsirado vėliau. Žalos aplinkai dydis apskaičiuojamas šio įstatymo 32 straipsnio ketvirtojoje dalyje nustatyta tvarka, kitų nuostolių dydis apskaičiuojamas įvertinus žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių vykdymo, žalos aplinkai ar neišvengiamos (realios) žalos aplinkai grėsmės, taikytinų aplinkos atkūrimo priemonių alternatyvų įvertinimo, taip pat administracinių, teisinių, vykdymo išlaidų, duomenų surinkimo, stebėsenos ir priežiūros išlaidas. 
+Aplinkos apsaugos departamentas prie Aplinkos ministerijos ar kitos valstybės ar savivaldybių institucijos pagal kompetenciją ieškinius dėl žalos aplinkai bei kitų nuostolių atlyginimo gali pareikšti ūkio subjektui arba kitam asmeniui, padariusiam aplinkai žalos arba sukėlusiam neišvengiamą (realią) žalos aplinkai grėsmę, per penkerius metus nuo dienos, kurią buvo nustatytas atsakingas ūkio subjektas ar kitas asmuo arba buvo baigtos taikyti žalos aplinkai prevencijos priemonės, veiksmai, užtikrinantys teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, arba aplinkos atkūrimo priemonės, atsižvelgus į tai, kuri iš šių aplinkybių atsirado vėliau. Žalos aplinkai dydis apskaičiuojamas šio įstatymo 32 straipsnio ketvirtojoje dalyje nustatyta tvarka, kitų nuostolių dydis apskaičiuojamas įvertinus žalos aplinkai prevencijos priemonių, veiksmų, užtikrinančių teršalų ir (arba) kitokių darančių žalą aplinkai veiksnių skubią kontrolę, sulaikymą, pašalinimą ar kitokį valdymą siekiant sumažinti ar išvengti didesnės žalos aplinkai, neigiamo poveikio žmonių sveikatai ar tolesnio aplinkos elementų funkcijų pablogėjimo, ir (arba) aplinkos atkūrimo priemonių vykdymo, žalos aplinkai ar neišvengiamos (realios) žalos aplinkai grėsmės, taikytinų aplinkos atkūrimo priemonių alternatyvų įvertinimo, taip pat administracinių, teisinių, vykdymo išlaidų, duomenų surinkimo, stebėsenos ir priežiūros išlaidas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2358, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13919
 Nr. XIII-703, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17961
+Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
  
 
 
@@ -2454,17 +2462,26 @@ Juridinių asmenų padarytus pažeidimus tiria, juridinių asmenų padarytų pa�
 
 
 
-2) vyriausieji valstybiniai miškų pareigūnai – dėl šio įstatymo 90 straipsnio 1, 2, 5, 6 dalyse, 91 straipsnio 1, 2, 6, 7 dalyse numatytų pažeidimų, padarytų miško žemėje, 116–123 straipsniuose numatytų pažeidimų;
+2) neteko galios nuo 2021-07-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
+ 
 
 
 
 
-3) valstybiniai saugomų teritorijų pareigūnai, kuriems Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo nustatyta tvarka yra suteiktos aplinkos apsaugos valstybinės kontrolės pareigūnų galios, – dėl šio įstatymo 90 straipsnio 1, 2, 5, 6 dalyse, 91 straipsnio 1, 2, 6, 7 dalyse numatytų pažeidimų, padarytų saugomose teritorijose, 122, 123 straipsniuose numatytų pažeidimų;
+3) neteko galios nuo 2021-07-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
+ 
 
 
 
 
-4) Lietuvos geologijos tarnybos prie Aplinkos ministerijos valstybės tarnautojai, kuriems Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo nustatyta tvarka yra suteiktos aplinkos apsaugos valstybinės kontrolės pareigūnų galios, – dėl šio įstatymo 111–115 straipsniuose numatytų pažeidimų;
+4) Lietuvos geologijos tarnybos prie Aplinkos ministerijos įgalioti valstybės tarnautojai – dėl šio įstatymo 113 ir 115 straipsniuose numatytų pažeidimų;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
+ 
 
 
 
@@ -2507,12 +2524,18 @@ Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
 Teisę tirti juridinių asmenų padarytus pažeidimus, surašyti juridinių asmenų padarytų pažeidimų protokolus ir perduoti bylą dėl ekonominės sankcijos skyrimo nagrinėti šio straipsnio 1 dalies 1 punkte nurodytiems pareigūnams turi:
 
 
-1) vyriausieji valstybiniai miškų pareigūnai – dėl šio įstatymo 90 straipsnio 3, 4, 7, 8 dalyse, 91 straipsnio 3, 4, 5, 8, 9, 10 dalyse numatytų pažeidimų, padarytų miško žemėje;
+1) neteko galios nuo 2021-07-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
+ 
 
 
 
 
-2) valstybiniai saugomų teritorijų pareigūnai, kuriems Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo nustatyta tvarka yra suteiktos aplinkos apsaugos valstybinės kontrolės pareigūnų galios, – dėl šio įstatymo 90 straipsnio 3, 4, 7, 8 dalyse, 91 straipsnio 3, 4, 5, 8, 9, 10 dalyse numatytų pažeidimų, padarytų saugomose teritorijose;
+2) neteko galios nuo 2021-07-01;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
+ 
 
 
 
@@ -2563,9 +2586,11 @@ Nr. XIII-1109, 2018-04-19, paskelbta TAR 2018-04-27, i. k. 2018-06746
 
 
 
-9) valstybės įmonės Lietuvos prabavimo rūmų įgalioti pareigūnai – dėl šio įstatymo 109 straipsnio 23 dalyje numatytų pažeidimų. 
+9) viešosios įstaigos Lietuvos prabavimo rūmų įgalioti pareigūnai – dėl šio įstatymo 109 straipsnio 23 dalyje numatytų pažeidimų.
 Papildyta straipsnio punktu:
 Nr. XIII-2803, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02854
+Straipsnio punkto pakeitimai:
+Nr. XIV-333, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12771
  
 
 
@@ -2626,10 +2651,12 @@ Daiktų ir dokumentų poėmio atveju surašomas jų paėmimo protokolas arba tai
 41 straipsnis. Neteisėtai pastatytų, laikomų ar naudojamų apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams vagonėlių ar kitų kilnojamųjų objektų arba įrenginių priverstinis nuvežimas
 
 
-Tirdami šio įstatymo 122 straipsnio 10, 11 dalyse numatytus pažeidimus, valstybiniai saugomų teritorijų pareigūnai, kuriems Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo nustatyta tvarka yra suteiktos aplinkos apsaugos valstybinės kontrolės pareigūnų galios, ir aplinkos apsaugos valstybinės kontrolės pareigūnai turi teisę priverstinai nuvežti neteisėtai pastatytus, laikomus ar naudojamus apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams vagonėlius ar kitus kilnojamuosius objektus arba įrenginius savininko lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Vagonėlių ar kitų kilnojamųjų objektų arba įrenginių priverstinio nuvežimo išlaidos apmokamos, vagonėliai ar kiti kilnojamieji objektai arba įrenginiai grąžinami savininkui Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+Tirdami šio įstatymo 122 straipsnio 10, 11 dalyse numatytus pažeidimus aplinkos apsaugos valstybinės kontrolės pareigūnai turi teisę priverstinai nuvežti neteisėtai pastatytus, laikomus ar naudojamus apgyvendinimui, nakvynei, maitinimui ar kitiems tikslams vagonėlius ar kitus kilnojamuosius objektus arba įrenginius savininko lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Vagonėlių ar kitų kilnojamųjų objektų arba įrenginių priverstinio nuvežimo išlaidos apmokamos, vagonėliai ar kiti kilnojamieji objektai arba įrenginiai grąžinami savininkui Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
  
-
-
 
 
 
@@ -6790,3 +6817,13 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 25, 26 ir 57 s
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3263, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15887
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3196, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15389
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 12, 31, 33, 37 ir 41 straipsnių pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-333, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12771
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 37 straipsnio pakeitimo įstatymas
