@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FC7AB69BE291"
 
 # Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas
 
-Suvestinė redakcija nuo 2021-06-30 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 62-2936, i. k. 1111010ISTA0XI-1375
  
@@ -147,7 +147,10 @@ Nr. XIII-2869, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09588
 
 
 
-8. Biodegalai – iš biomasės pagaminti skystieji arba dujiniai transporto degalai. 
+8. Neteko galios nuo 2021-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+ 
 
 
 
@@ -217,7 +220,9 @@ Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
 
 
 
-18. Elektromobilis – motorinė transporto priemonė, kurioje sumontuota jėgos pavara, turinti bent vieną ne išorinį elektros energijos keitiklį su elektrine įkraunamąja energijos kaupimo sistema, kurią galima įkrauti iš išorės. 
+18. Neteko galios nuo 2021-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
 Straipsnio dalies pakeitimai:
 Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
  
@@ -308,7 +313,10 @@ Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
 
 
 
-29. Hibridinė transporto priemonė – transporto priemonė, kurioje energija mechaniniam judesiui atlikti tiekiama iš dviejų ar daugiau transporto priemonėje esančių sukauptos energijos šaltinių: sunaudojamų degalų ir elektros energijos kaupiklio (baterijos, kondensatoriaus).
+29. Neteko galios nuo 2021-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+ 
 
 
 
@@ -502,11 +510,12 @@ Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
 
 
 
-50. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos dokumentų ir archyvų įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos vandens įstatyme ir Lietuvos Respublikos žemės įstatyme. 
+50. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos alternatyviųjų degalų įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos dokumentų ir archyvų įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos vandens įstatyme ir Lietuvos Respublikos žemės įstatyme. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
 Nr. XIII-613, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12335
 Nr. XIII-3107, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15316
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
  
@@ -650,7 +659,10 @@ Atsinaujinančių išteklių energetikos sektorių šio įstatymo nustatyta tvar
 
 
 
-4) Susisiekimo ministerija;
+4) Neteko galios nuo 2021-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+ 
 
 
 
@@ -663,7 +675,10 @@ Nr. XIII-3107, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15316
 
 
 
-6) Ūkio ministerija;
+6) Ekonomikos ir inovacijų ministerija; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+ 
 
 
 
@@ -848,17 +863,26 @@ Nr. XIII-613, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12335
 
 
 
-9) nustato leidžiamą arba privalomą biodegalų dalį mišinyje su degalais, pagamintais iš mineralinių degalų;
+9) Neteko galios nuo 2021-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+ 
 
 
 
 
-10) nustato konfiskuotų alkoholio produktų panaudojimo biodegalų gamybai tvarką;
+10) Neteko galios nuo 2021-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+ 
 
 
 
 
-11) nustato privalomus aplinkos apsaugos kriterijus valstybės institucijų, įstaigų ir įmonių perkamoms transporto priemonėms; 
+11) Neteko galios nuo 2021-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+ 
 
 
 
@@ -986,7 +1010,10 @@ Nr. XIII-605, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12306
 
 
 
-10) kartu su Aplinkos ministerija ir Susisiekimo ministerija nustato biodegalų privalomuosius kokybės rodiklius;
+10) Neteko galios nuo 2021-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+ 
 
 
 
@@ -1012,9 +1039,11 @@ Nr. XII-2231, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00089
 
 
 
-14) tvirtina atsinaujinančių energijos išteklių dalies, palyginti su bendruoju galutiniu energijos suvartojimu, apskaičiavimo metodiką, kurioje, vadovaujantis Direktyva (ES) 2015/1513, nurodomas žaliavų ir kitų degalų, kurių dalis, siekiant šio įstatymo 1 straipsnio 5 dalies 1 punkte nurodyto 0,5 procento rodiklio, turi būti laikoma du kartus didesne už jų energetinę vertę, sąrašas. Atsinaujinančių energijos išteklių dalies, palyginti su bendruoju galutiniu energijos suvartojimu, apskaičiavimo metodika ir žaliavų ir kitų degalų, kurių dalis siekiant šio įstatymo 1 straipsnio 5 dalies 1 punkte nurodyto 0,5 procento rodiklio, turi būti laikoma du kartus didesne už jų energetinę vertę, sąrašas turi būti suderinti su Aplinkos ministerija ir Žemės ūkio ministerija; 
+14) tvirtina atsinaujinančių energijos išteklių dalies, palyginti su bendruoju galutiniu energijos suvartojimu, apskaičiavimo metodiką, kurioje, vadovaujantis Direktyva (ES) 2018/2001, nurodoma atsinaujinančiųjų išteklių energijos procentinės dalies apskaičiavimo tvarka, kuro ir degalų energinės vertės ir pažangiųjų biodegalų gamybai tinkamos naudoti žaliavos. Atsinaujinančių energijos išteklių dalies, palyginti su bendruoju galutiniu energijos suvartojimu, apskaičiavimo metodika turi būti suderinta su Aplinkos ministerija ir Žemės ūkio ministerija; 
 Papildyta straipsnio punktu:
 Nr. XIII-406, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09791
+Straipsnio punkto pakeitimai:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
  
 
 
@@ -1052,12 +1081,18 @@ Aplinkos ministerija:
 
 
 
-3) nustato biodegalų ir skystųjų bioproduktų naudojimo aplinkosaugos sąlygas;
+3) Neteko galios nuo 2021-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+ 
 
 
 
 
-4) nustato gaminant ir naudojant biodegalus, skystuosius bioproduktus ir lyginamąjį iškastinį kurą išmetamų šiltnamio efektą sukeliančių dujų poveikio apskaičiavimo taisykles;
+4) Neteko galios nuo 2021-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+ 
 
 
 
@@ -1092,44 +1127,18 @@ Aplinkos ministerija:
 
 
 
-8 straipsnis. Susisiekimo ministerijos kompetencija
-
-
-Susisiekimo ministerija:
-
-
-1) teisės aktų nustatyta tvarka ir sąlygomis pagal kompetenciją koordinuoja biodegalų naudojimo transporto sektoriuje plėtros ir skatinimo priemonių, taip pat atsinaujinančius energijos išteklius naudojančių transporto priemonių, elektromobilių ir hibridinių transporto priemonių naudojimo iniciatyvų įgyvendinimą, atlieka jų įgyvendinimo stebėseną ir užtikrina valstybinę priežiūrą ir kontrolę;
-
-
-
-
-2) neteko galios nuo 2019-06-01;
-Straipsnio punkto pakeitimai:
-Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
+8 straipsnis. Neteko galios nuo 2021-07-01
+Straipsnio naikinimas:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
  
 
 
 
 
-3) rengia ir tvirtina transporto priemonių eksploatavimo laikotarpio poveikio energetikai ir aplinkai apskaičiavimo metodiką;
+9 straipsnis. Ekonomikos ir inovacijų ministerijos kompetencija 
 
 
-
-
-4) atlieka kitas šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas.
- 
-
-
-
-
-
-
-
-
-9 straipsnis. Ūkio ministerijos kompetencija
-
-
-Ūkio ministerija:
+Ekonomikos ir inovacijų ministerija:
 
 
 1) vertina gamybos ir kitoje ūkinėje veikloje susidarančių atliekų ir produktų potencialą, išskyrus žemės ūkio ir su žemės ūkio produktų perdirbimu susijusių pramonės šakų ir atliekų, iš kurių gaminamas biokuras, potencialą;
@@ -1137,12 +1146,14 @@ Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
 
 
 
-2) atlieka kitas šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas.
+2) atlieka kitas šio ir kitų įstatymų nustatytas ar Vyriausybės pavestas funkcijas. 
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
  
-
-
-
-
 
 
 
@@ -1232,7 +1243,10 @@ Valstybinė energetikos reguliavimo taryba:
 
 
 
-9) nustato dujų iš atsinaujinančių energijos išteklių supirkimo į gamtinių dujų sistemą kainą;
+9) Neteko galios nuo 2021-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+ 
 
 
 
@@ -1306,12 +1320,18 @@ Savivaldybės:
 
 
 
-3) siekia, kad viešajame transporte būtų naudojamos transporto priemonės, naudojančios atsinaujinančių išteklių energiją, elektromobiliai ir hibridinės transporto priemonės;
+3) Neteko galios nuo 2021-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+ 
 
 
 
 
-4) kuria infrastruktūrą, reikalingą atsinaujinančių išteklių energiją ir elektros energiją naudojančių transporto priemonių naudojimo plėtrai;
+4) Neteko galios nuo 2021-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+ 
 
 
 
@@ -2894,7 +2914,7 @@ Energetikos ministerija rengia ir tvirtina technines taisykles, nustatančias pr
 
 
 
-32 straipsnis. Biodujų gamybos įrenginių prijungimas prie dujų sistemų
+32 straipsnis. Biodujų gamybos įrenginių prijungimas prie dujų sistemų
 
 
 1. Dujų sistemų operatoriai privalo sudaryti sąlygas biodujoms tiekti į dujų sistemas. Biodujų gamybos įrenginiai privalo būti prijungti prie dujų sistemų, jeigu biodujų gamintojas laikosi visų šio įstatymo 31 straipsnyje nustatytų techninių, kokybės ir kitų reikalavimų.
@@ -2910,37 +2930,35 @@ Energetikos ministerija rengia ir tvirtina technines taisykles, nustatančias pr
 
 
 
-2) išsamią su prijungimu susijusių sąnaudų sąmatą;
+2) išsamią su prijungimu susijusių sąnaudų sąmatą;
 
 
 
 
-3) pagrįstą ir tikslų prijungimo prie dujų sistemų prašymų pateikimo ir nagrinėjimo grafiką;
+3) pagrįstą ir tikslų prijungimo prie dujų sistemų prašymų pateikimo ir nagrinėjimo grafiką;
 
 
 
 
-4) pagrįstą orientacinį siūlomų prijungimų prie dujų sistemų grafiką.
+4) pagrįstą orientacinį siūlomų prijungimų prie dujų sistemų grafiką.
 
 
 
 
 
 
-3. Biodujų gamybos įrenginių prijungimas prie dujų sistemų yra viešuosius interesus atitinkanti paslauga.
+3. Biodujų gamybos įrenginiai prijungiami prie dujų sistemų teisės aktų nustatyta tvarka. Biodujų gamybos įrenginių prijungimo kaina yra lygi rangovo, laimėjusio dujų sistemų operatoriaus paskelbtą viešąjį pirkimą dėl įrenginių prijungimo prie dujų sistemų, atliktų darbų kainai.
 
 
 
 
-4. Biodujų gamybos įrenginiai prijungiami prie dujų sistemų teisės aktų nustatyta tvarka. Biodujų gamybos įrenginių prijungimo kaina yra lygi rangovo, laimėjusio dujų sistemų operatoriaus paskelbtą viešąjį pirkimą dėl įrenginių prijungimo prie dujų sistemų, atliktų darbų kainai, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka taikant 40 procentų prijungimo kainos nuolaidą.
+4. Dujų sistemų operatoriaus patirtas investicijų išlaidas, susijusias su biodujų gamybos įrenginių prijungimu prie dujų sistemų, lygias rangovo, laimėjusio pagal dujų sistemų operatoriaus paskelbtą viešąjį pirkimą dėl įrenginių prijungimo prie dujų sistemų, atliktų darbų kainai, apmoka biodujų gamintojas. 
+TAR pastaba. 32 straipsnio 4 dalyje numatytas išlaidas arba jų dalis, patirtas ir nekompensuotas iki įstatymo Nr. XIV-197 įsigaliojimo dienos (2021-07-01), Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, taikant 40 procentų prijungimo kainos nuolaidą, gamintojui kompensuoja dujų sistemų operatorius.
 
 
-
-
-5. Išlaidos, susijusios su biodujų gamybos įrenginių prijungimu prie dujų sistemų, paskirstomos dujų sistemų operatoriui ir gamintojui. Dujų sistemų operatorius gamintojui kompensuoja šio straipsnio 4 dalyje nurodyto dydžio prijungimo kainos nuolaidą. Likusias su prijungimu prie dujų sistemų susijusias išlaidas apmoka gamintojas.
+Straipsnio pakeitimai:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
  
-
-
 
 
 
@@ -2967,7 +2985,10 @@ Vartotojui, kuris sudarė dujų pirkimo sutartį su biodujų tiekėju, pripažį
 35 straipsnis. Veiklos, susijusios su biodujomis, priežiūra ir kontrolė
 
 
-1. Valstybinė energetikos reguliavimo taryba prižiūri ir kontroliuoja, kaip biodujų gamintojams suteikiama teisė prijungti jų įrenginius prie dujų sistemų, kaip taikomos prijungimo kainos, taip pat biodujų supirkimo į dujų sistemas skaidrumą.
+1. Valstybinė energetikos reguliavimo taryba prižiūri ir kontroliuoja, kaip biodujų gamintojams suteikiama teisė prijungti jų įrenginius prie dujų sistemų, kaip taikomos prijungimo įmokos, taip pat biodujų supirkimo į dujų sistemas skaidrumą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+ 
 
 
 
@@ -2994,57 +3015,9 @@ ATSINAUJINANČIŲ IŠTEKLIŲ ENERGIJOS GAMYBOS IR NAUDOJIMO TRANSPORTO SEKTORIUJ
  
 
 
-36 straipsnis. Atsinaujinančių išteklių energijos naudojimo transporto sektoriuje skatinimas
-
-
-1. Transporto sektoriuje skatinama naudoti biodegalus, biodujas, elektros energiją, vandenilį ir kitus alternatyvius degalus.
-
-
-
-
-2. Neteko galios nuo 2019-06-01.
-Straipsnio dalies pakeitimai:
-Nr. XIII-2017, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05352
- 
-
-
-
-
-3. Valstybės institucijos, įstaigos, įmonės, nustatyta tvarka vykdydamos viešuosius pirkimus, įvertina galimybes įsigyti transporto priemones, naudojančias atsinaujinančių išteklių energiją, vandenilį, elektromobilius ir hibridines transporto priemones.
-
-
-
-
-4. Privalomus aplinkos apsaugos kriterijus perkamoms transporto priemonėms nustato Vyriausybė, Susisiekimo ministerija patvirtina transporto priemonių eksploatacinio laikotarpio poveikio energetikai ir aplinkai, įskaitant suvartojamą ir išmetamą anglies dioksido ir kitų teršalų kiekį, apskaičiavimo metodiką.
-
-
-
-
-5. Savivaldybės skatina naudoti viešojo transporto sektoriuje, saugomose teritorijose transporto priemones, naudojančias atsinaujinančių išteklių energiją, vandenilį, elektromobilius ir hibridines transporto priemones.
-
-
-
-
-6. Savivaldybės kuria infrastruktūrą, reikalingą atsinaujinančių išteklių energiją, vandenilį ir elektros energiją naudojančių transporto priemonių naudojimo plėtrai, vadovaudamosi atitinkamos savivaldybės atsinaujinančių išteklių energijos naudojimo plėtros veiksmų planais.
-
-
-
-
-7. Vyriausybė ar jos įgaliota institucija nustato leidžiamą arba privalomą biodegalų dalį mišinyje su degalais, pagamintais iš mineralinių degalų. Privalomas biodegalų maišymas į degalus, pagamintus iš mineralinių degalų, yra viešuosius interesus atitinkanti paslauga.
-
-
-
-
-8. Energetikos ministerija kartu su Aplinkos ministerija ir Susisiekimo ministerija nustato biodegalų privalomuosius kokybės rodiklius.
-
-
-
-
-9. Biodegalų gamybai gali būti naudojami konfiskuoti alkoholio produktai. Vyriausybė ar jos įgaliotos institucijos nustato konfiskuotų alkoholio produktų panaudojimo biodegalų gamybai tvarką.
-
-
-Straipsnio pakeitimai:
-Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
+36 straipsnis. Neteko galios nuo 2021-07-01
+Straipsnio naikinimas:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
  
 
 
@@ -3168,7 +3141,10 @@ Nr. XII-494, 2013-07-02, Žin., 2013, Nr. 78-3939 (2013-07-20)
 
 
 
-12. Vyriausybės ar jos įgaliotos institucijos paskirtos įstaigos prašymu sertifikavimo įmonės privalo pateikti nepriklausomo audito ataskaitą ir informaciją, kuria remiantis ūkinę veiklą vykdančiam asmeniui išduotas sertifikatas, patvirtinantis atitiktį šio įstatymo 38 straipsnio 2, 4, 5, 7, 8, 9, 10, 11 ir 12 dalyse nustatytiems tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijams. Apibendrintą informaciją Vyriausybės ar jos įgaliotos institucijos paskirta įstaiga kiekvienais metais iki kovo 1 dienos teikia Vyriausybės įgaliotai institucijai. Jeigu Vyriausybės ar jos įgaliotos institucijos paskirta įstaiga nustato, kad nepriklausomo audito ataskaitoje pateikti duomenys ar informacija neatitinka šio įstatymo 38 straipsnio 2, 4, 5, 7, 8, 9, 10, 11 ir 12 dalyse nustatytų kriterijų, ji pateikia šią informaciją Vyriausybės įgaliotai institucijai, kuri nedelsdama informuoja Europos Komisiją ir savanorišką schemą administruojantį subjektą apie nustatytas neatitiktis.
+12. Viešosios įstaigos Lietuvos energetikos agentūros prašymu sertifikavimo įmonės privalo pateikti nepriklausomo audito ataskaitą ir informaciją, kuria remiantis ūkinę veiklą vykdančiam asmeniui išduotas sertifikatas, patvirtinantis atitiktį šio įstatymo 38 straipsnio 2, 4, 5, 7, 8, 9, 10, 11 ir 12 dalyse nustatytiems tvarumo ir išmetamųjų šiltnamio efektą sukeliančių dujų kiekio sumažėjimo kriterijams. Apibendrintą informaciją viešoji įstaiga Lietuvos energetikos agentūra kiekvienais metais iki kovo 1 dienos teikia Vyriausybės įgaliotai institucijai. Jeigu viešoji įstaiga Lietuvos energetikos agentūra nustato, kad nepriklausomo audito ataskaitoje pateikti duomenys ar informacija neatitinka šio įstatymo 38 straipsnio 2, 4, 5, 7, 8, 9, 10, 11 ir 12 dalyse nustatytų kriterijų, ji pateikia šią informaciją Vyriausybės įgaliotai institucijai, kuri nedelsdama informuoja Europos Komisiją ir savanorišką schemą administruojantį subjektą apie nustatytas neatitiktis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+ 
 
 
 
@@ -3790,10 +3766,11 @@ Informavimas, ŠVIETIMAS, MOKSLINIAI TYRIMAI IR MOKYMAI
 
 
 
-3. Aplinkos ministerija, Energetikos ministerija, Susisiekimo ministerija, Švietimo, mokslo ir sporto ministerija, Žemės ūkio ministerija, viešoji įstaiga Lietuvos energetikos agentūra ir savivaldybių institucijos, koordinuodamos veiksmus, pagal kompetenciją rengia ir įgyvendina tinkamas visuomenės informavimo ir sąmoningumo ugdymo priemones, teikia konsultacijas ir rengia švietimo programas apie atsinaujinančių energijos išteklių plėtros ir naudojimo praktines galimybes ir naudą, tarp jų ir apie skirtingų transporto sektoriuje naudojamų atsinaujinančių energijos išteklių prieinamumą ir naudą aplinkai. 
+3. Aplinkos ministerija, Energetikos ministerija, Švietimo, mokslo ir sporto ministerija, Žemės ūkio ministerija, viešoji įstaiga Lietuvos energetikos agentūra ir savivaldybių institucijos, koordinuodamos veiksmus, pagal kompetenciją rengia ir įgyvendina tinkamas visuomenės informavimo ir sąmoningumo ugdymo priemones, teikia konsultacijas ir rengia švietimo programas apie atsinaujinančių energijos išteklių plėtros ir naudojimo praktines galimybes ir naudą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1451, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11763
 Nr. XIII-3107, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15316
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
  
 
 
@@ -4835,3 +4812,8 @@ Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3338, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22206
 Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 20-1 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-197, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07414
+Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 2, 4, 5, 6, 7, 9, 11, 12, 32, 35, 37, 51 straipsnių pakeitimo ir 8, 36, 39 straipsnių pripažinimo netekusiais galios įstatymas
