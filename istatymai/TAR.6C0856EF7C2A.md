@@ -13,6 +13,11 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6C0856EF7C2A"
 
 # Lietuvos Respublikos įstatymas dėl Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos ir jos priedų ratifikavimo
 
+Suvestinė redakcija nuo 2021-07-01
+ 
+Įstatymas paskelbtas: Žin. 2004, Nr. 78-2708, i. k. 1041010ISTA0IX-2088
+ 
+ 
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
 DĖL TAURIŲJŲ METALŲ GAMINIŲ KONTROLĖS IR PRABAVIMO KONVENCIJOS IR JOS PRIEDŲ RATIFIKAVIMO
@@ -36,11 +41,12 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 2 straipsnis. Lietuvos Respublikos pareiškimas
 
 
-Vadovaudamasis Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos 5 straipsnio 1 dalimi, Lietuvos Respublikos Seimas pareiškia, kad Lietuvos Respublikos vienintele kompetentinga prabavimo institucija yra skiriama valstybės įmonė Lietuvos prabavimo rūmai.
- 
- 
+Vadovaudamasis Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos 5 straipsnio 1 dalimi, Lietuvos Respublikos Seimas pareiškia, kad Lietuvos Respublikos vienintele kompetentinga prabavimo institucija yra skiriama viešoji įstaiga Lietuvos prabavimo rūmai.
 
 
+Straipsnio pakeitimai:
+Nr. XIV-332, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12791
+ 
 
 
 
@@ -51,3 +57,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 LAIKINAI EINANTIS
 RESPUBLIKOS PREZIDENTO PAREIGAS                                  ARTŪRAS PAULAUSKAS
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-332, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12791
+Lietuvos Respublikos įstatymo „Dėl Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos ir jos priedų ratifikavimo“ Nr. IX-2088 2 straipsnio pakeitimo įstatymas
