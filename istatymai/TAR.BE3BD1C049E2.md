@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/be3bd1c049e211eb8d9fe110e148c770"
 
 # Lietuvos Respublikos 2021 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas
 
+Suvestinė redakcija nuo 2021-07-01
+ 
+Įstatymas paskelbtas: TAR 2020-12-29, i. k. 2020-28951
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 2021 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO
 ĮSTATYMAS
@@ -22,16 +29,17 @@ Vilnius
  
 
 
- 
-PREAMBULĖ
- 
 Lietuvos Respublikos Seimas,
 atsižvelgdamas į tai, kad biudžeto politikos kontrolės institucija 2020 m. kovo 27 d. paskelbė išvadą dėl išskirtinių aplinkybių, kaip jos suprantamos pagal Lietuvos Respublikos fiskalinės sutarties įgyvendinimo konstitucinį įstatymą, nustatymo;
+atsižvelgdamas į tai, kad dėl didelio neapibrėžtumo ir rizikų, susijusių su COVID-19 pandemijos raida ir jos poveikiu valdžios sektoriaus finansams, išskirtinės aplinkybės 2021 metais neatšaukiamos;
+įvertindamas tai, kad, nustačius išskirtines aplinkybes ir pagal Lietuvos Respublikos finansų ministerijos parengtą ir biudžeto politikos kontrolės institucijos patvirtintą ekonominės raidos scenarijų 2021–2024 metams apskaičiavus neigiamą produkcijos atotrūkį nuo potencialo, Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatytos fiskalinės drausmės taisyklės 2021 metais valdžios sektoriui netaikomos;
 atsižvelgdamas į tai, kad 2021 metais visoms Europos Sąjungos valstybėms narėms bus taikoma Stabilumo ir augimo pakto – 2005 m. birželio 27 d. Europos Sąjungos Tarybos reglamento (EB) Nr. 1055/2005, iš dalies keičiančio Reglamentą (EB) Nr. 1466/97 dėl biudžeto būklės priežiūros stiprinimo ir ekonominės politikos priežiūros bei koordinavimo, – bendroji išimtis, reiškianti, kad laikinas struktūrinio valdžios sektoriaus balanso nuokrypis nuo vidutinio laikotarpio tikslo, įgyvendinant kovos su COVID-19 pandemijos sukeltais neigiamais padariniais ekonomikai, sveikatos apsaugos sistemai ir socialinei aplinkai priemones, nelaikomas neatitinkančiu Stabilumo ir augimo pakte nustatytų fiskalinės drausmės taisyklių;
 įvertindamas poreikį formuoti ekonomikos atsigavimą palaikančią fiskalinę politiką;
-atsižvelgdamas į dėl COVID-19 pandemijos išaugusį neapibrėžtumą, didelį neužtikrintumą dėl globalios ekonomikos atsigavimo, stiprėjančias geopolitines įtampas ir į tai, kad tokiomis aplinkybėmis neigiama rizika dėl šalies ekonominės raidos scenarijaus stiprėja, kad pajamos numatomos mažesnės, negu buvo patvirtintos Lietuvos Respublikos Seimo 2019 m. gruodžio 17 d. nutarimu Nr. XIII-2696 „Dėl 2020 metų, 2021 metų ir 2022 metų valstybės biudžeto ir savivaldybių biudžetų konsoliduotos visumos planuojamų rodiklių“, taip pat į išaugusią valdžios sektoriaus skolą bei poreikį vykdyti narystės NATO ir kitose tarptautinėse organizacijose įsipareigojimus;
-įgyvendindamas 2020 m. gegužės 20 d. Tarybos rekomendaciją dėl 2020 m. Lietuvos nacionalinės reformų programos su Tarybos nuomone dėl 2020 m. Lietuvos stabilumo programos, kurioje, be kita ko, rekomenduojama imtis visų būtinų priemonių, kad būtų veiksmingai kovojama su COVID-19 pandemija, palaikoma ekonomika ir remiamas būsimas atsigavimas,
+atsižvelgdamas į dėl COVID-19 pandemijos išaugusį neapibrėžtumą ir išliekančias rizikas dėl šalies ekonominės raidos, taip pat į išaugusią valdžios sektoriaus skolą bei poreikį vykdyti narystės NATO ir kitose tarptautinėse organizacijose įsipareigojimus;
+įgyvendindamas 2020 m. gegužės 20 d. Tarybos rekomendaciją dėl 2020 m. Lietuvos nacionalinės reformų programos su Tarybos nuomone dėl 2020 m. Lietuvos stabilumo programos ir Europos Komisijos 2021 m. kovo 3 d. Europos Sąjungos valstybėms narėms pateiktas fiskalinės politikos formavimo gaires, kuriose, be kita ko, rekomenduojama imtis visų būtinų priemonių, kad būtų veiksmingai kovojama su COVID-19 pandemija, remiamas ekonomikos atsigavimas, o numatant konkrečias pagalbos priemones ir lėšas šioms priemonėms įgyvendinti, pagalbos priemonės būtų vertinamos atsižvelgiant į tikslingumo, trumpalaikiškumo ir efektyvumo principus,
 priima šį įstatymą.
+Preambulės pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
  
 
 
@@ -40,10 +48,12 @@ priima šį įstatymą.
 1 straipsnis. Lietuvos Respublikos 2021 metų valstybės biudžeto pajamų ir asignavimų patvirtinimas
 
 
-Šiuo įstatymu patvirtinamas Lietuvos Respublikos 2021 metų valstybės biudžetas – 11 252 105 tūkst. eurų pajamų (įskaitant 2 263 546 tūkst. eurų Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas), 15 841 411 tūkst. eurų asignavimų (įskaitant  3 062 717 tūkst. eurų Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas) išlaidoms ir turtui įsigyti (kartu su Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšomis asignavimai viršija pajamas 4 589 306 tūkst. eurų) (šio įstatymo 1, 2, 3 ir 4 priedai).
+Šiuo įstatymu patvirtinamas Lietuvos Respublikos 2020 metų valstybės biudžetas – 12 437 428 tūkst. eurų pajamų (įskaitant 2 777 114 tūkst. eurų Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas), 16 615 287 tūkst. eurų asignavimų (įskaitant 3 180 333 tūkst. eurų Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšas) išlaidoms ir turtui įsigyti (kartu su Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšomis asignavimai viršija pajamas 4 177 859 tūkst. eurų) (šio įstatymo 1, 2, 3 ir 4 priedai).
+
+
+Straipsnio pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
  
-
-
 
 
 
@@ -54,7 +64,10 @@ priima šį įstatymą.
 1. Šiuo įstatymu patvirtinami šie 2021 metų savivaldybių biudžetų finansiniai rodikliai:
 
 
-1) gyventojų pajamų mokesčio dalis (procentais), tenkanti visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, – 48,19 procento, iš kurios pastovioji dalis – 43,08 procento, kintamoji dalis – 5,11 procento;
+1) gyventojų pajamų mokesčio dalis (procentais), tenkanti visų savivaldybių biudžetams nuo šio mokesčio pajamų į konsoliduotus valstybės biudžetą ir savivaldybių biudžetus, – 47,62 procento, iš kurios pastovioji dalis – 42,95 procento, kintamoji dalis – 4,67 procento; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
+ 
 
 
 
@@ -67,12 +80,12 @@ priima šį įstatymą.
 3) gyventojų pajamų mokesčio dalys (procentais), reikalingos prognozuojamoms pajamoms iš gyventojų pajamų mokesčio apskaičiuoti:
 
 
-a) Vilniaus miesto savivaldybei – 63,28 procento;
+a) Vilniaus miesto savivaldybei – 63,27 procento;
 
 
 
 
-b) Kauno miesto savivaldybei – 84,48 procento;
+b) Kauno miesto savivaldybei – 84,47 procento;
 
 
 
@@ -92,7 +105,7 @@ e) Kauno rajono savivaldybei – 86,83 procento;
 
 
 
-f) Klaipėdos rajono savivaldybei – 93,85 procento;
+f) Klaipėdos rajono savivaldybei – 93,84 procento;
 
 
 
@@ -102,19 +115,25 @@ g) Trakų rajono savivaldybei – 91,07 procento;
 
 
 
-h) Vilniaus rajono savivaldybei – 82,98 procento;
+h) Vilniaus rajono savivaldybei – 82,97 procento;
 
 
 
 
-i) visoms kitoms savivaldybėms – 100 procentų;
+i) visoms kitoms savivaldybėms – 100 procentų; 
+
+
+Straipsnio punkto pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
+ 
 
 
 
 
-
-
-4) valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams –  1 119 342 tūkst. eurų (šio įstatymo 5 priedas).
+4) valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams – 1 122 242 tūkst. eurų (šio įstatymo 5 priedas).
+Straipsnio punkto pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
+ 
 
 
 
@@ -162,7 +181,9 @@ i) visoms kitoms savivaldybėms – 100 procentų;
 
 
 
-4. Savivaldybės gautas ir nepanaudotas valstybės biudžeto dotacijų sumas grąžina valstybės institucijoms ir įstaigoms, iš kurių jos buvo gautos, išskyrus nepanaudotą Europos Sąjungos ir bendrojo finansavimo bei kitos tarptautinės finansinės paramos lėšų dalį.
+4. Savivaldybės gautas ir nepanaudotas arba ne pagal tikslinę paskirtį panaudotas valstybės biudžeto dotacijų sumas grąžina valstybės institucijoms ir įstaigoms, iš kurių jos buvo gautos, išskyrus nepanaudotą Europos Sąjungos ir bendrojo finansavimo bei kitos tarptautinės finansinės paramos lėšų dalį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
  
 
 
@@ -248,10 +269,12 @@ i) visoms kitoms savivaldybėms – 100 procentų;
 9 straipsnis. Įmokos į valstybės biudžetą, skiriamos asignavimų valdytojų programoms finansuoti
 
 
-Šiuo įstatymu patvirtinamos 2021 metų biudžetinių įstaigų pajamų įmokos į valstybės biudžetą, valstybės biudžeto pajamų iš mokesčių dalis ir kitos lėšos, įstatymais ir kitais teisės aktais skiriamos programoms finansuoti, pagal asignavimų valdytojus – 866 855 tūkst. eurų (šio įstatymo 3 priedas).
+Šiuo įstatymu patvirtinamos 2021 metų biudžetinių įstaigų pajamų įmokos į valstybės biudžetą, valstybės biudžeto pajamų iš mokesčių dalis ir kitos lėšos, įstatymais ir kitais teisės aktais skiriamos programoms finansuoti, pagal asignavimų valdytojus – 854 595 tūkst. eurų (šio įstatymo 3 priedas).
+
+
+Straipsnio pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
  
-
-
 
 
 
@@ -277,7 +300,9 @@ i) visoms kitoms savivaldybėms – 100 procentų;
 
 
 
-4) dėl paskolų ir ne nuosavybės vertybinių popierių, naudojamų ekstremaliųjų situacijų paveiktos ekonomikos skatinimo tikslams įgyvendinti ir verslo finansiniam likvidumui didinti. Bendra 2021 ir ankstesniais metais prisiimtų įsipareigojimų likutinė suma, įvertinus įvykdytus įsipareigojimus, negali viršyti 500 000 tūkst. eurų.
+4) dėl paskolų ir ne nuosavybės vertybinių popierių, naudojamų ekstremaliųjų situacijų paveiktos ekonomikos skatinimo tikslams įgyvendinti ir verslo finansiniam likvidumui didinti. Bendra 2021 ir ankstesniais metais prisiimtų įsipareigojimų likutinė suma, įvertinus įvykdytus įsipareigojimus, negali viršyti 200 000 tūkst. eurų.
+Straipsnio punkto pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
  
 
 
@@ -287,13 +312,15 @@ i) visoms kitoms savivaldybėms – 100 procentų;
 
 
 
-11 straipsnis. Vyriausybės grynojo skolinių įsipareigojimų pokyčio limitas 
+11 straipsnis. Vyriausybės grynojo skolinių įsipareigojimų pokyčio limitas
 
 
-2021 metų Vyriausybės grynojo skolinių įsipareigojimų pokyčio limitas yra (teigiamas) 4 027 698 tūkst. eurų, iš jų 1 140 818 tūkst. eurų skirta sukaupti lėšoms euroobligacijų emisijai 2022 metais išpirkti.
+2021 metų Vyriausybės grynojo skolinių įsipareigojimų pokyčio limitas yra (teigiamas) 3 270 003 tūkst. eurų, iš jų 1 140 818 tūkst. eurų skirta sukaupti lėšoms euroobligacijų emisijai 2022 metais išpirkti.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
  
-
-
 
 
 
@@ -486,7 +513,23 @@ i) visoms kitoms savivaldybėms – 100 procentų;
 
 
 
-5) paskirstyti pagal savivaldybes Švietimo, mokslo ir sporto ministerijos asignavimuose numatytas lėšas, skirtas socialinę riziką patiriančių vaikų ikimokykliniam ugdymui užtikrinti. 
+5) paskirstyti pagal savivaldybes Švietimo, mokslo ir sporto ministerijos asignavimuose numatytas lėšas, skirtas socialinę riziką patiriančių vaikų ikimokykliniam ugdymui užtikrinti; 
+
+
+
+
+6) paskirstyti pagal savivaldybes ir valstybines mokyklas Švietimo, mokslo ir sporto ministerijos asignavimuose numatytas lėšas, skirtas COVID-19 pandemijos padariniams šalinti; 
+Papildyta straipsnio punktu:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
+ 
+
+
+
+
+7) skirti 5 000 tūkst. eurų Lietuvos mokslinių bibliotekų asociacijai mokslo duomenų bazių prenumeratoms finansuoti iš Švietimo, mokslo ir sporto ministerijos asignavimuose tam tikslui numatytų lėšų. 
+Papildyta straipsnio punktu:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
+ 
 
 
 
@@ -523,7 +566,10 @@ i) visoms kitoms savivaldybėms – 100 procentų;
 
 
 
-6. Lietuvos Respublikos susisiekimo ministerijai suteikiama teisė skirti iš Kelių priežiūros ir plėtros programos finansavimo lėšų 145 000 tūkst. eurų šiems projektams ar programoms ir kitiems svarbiems projektams finansuoti: valstybinės reikšmės rajoniniams keliams su žvyro danga asfaltuoti, specialiajai vietinės reikšmės žvyrkelių asfaltavimo programai, investicijų projekto „Valstybinės reikšmės magistralinio kelio A1 Vilnius–Kaunas–Klaipėda ruožo nuo 89,40 iki 107,00 km rekonstravimas“, investicijų projekto „Dviejų lygių sankryžos Vilniuje, Žirnių g., Liepkalnio g. ir Minsko pl., rekonstravimas“ ir investicijų projekto „Baltijos pr., Šilutės pl. (įskaitant ruožą į Dubysos g. įvažiavimą) ir Vilniaus pl. žiedinės sankryžos Klaipėdos m. rekonstravimas“ vykdymo priežiūrai ir darbams atlikti, netaikant Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 9 straipsnio 5 ir 6 dalyse nustatytų procentinių dydžių. 
+6. Lietuvos Respublikos susisiekimo ministerijai suteikiama teisė skirti iš Kelių priežiūros ir plėtros programos finansavimo lėšų 145 000 tūkst. eurų šiems projektams ar programoms ir kitiems svarbiems projektams finansuoti: valstybinės reikšmės rajoniniams keliams su žvyro danga asfaltuoti, savivaldybių valdomiems vietinės reikšmės keliams, investicijų projekto „Valstybinės reikšmės magistralinio kelio A1 Vilnius–Kaunas–Klaipėda ruožo nuo 89,40 iki 107,00 km rekonstravimas“, investicijų projekto „Dviejų lygių sankryžos Vilniuje, Žirnių g., Liepkalnio g. ir Minsko pl., rekonstravimas“ ir investicijų projekto „Baltijos pr., Šilutės pl. (įskaitant ruožą į Dubysos g. įvažiavimą) ir Vilniaus pl. žiedinės sankryžos Klaipėdos m. rekonstravimas“ vykdymo priežiūrai ir darbams atlikti, netaikant Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 9 straipsnio 5 ir 6 dalyse nustatytų procentinių dydžių. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
+ 
 
 
 
@@ -536,7 +582,10 @@ i) visoms kitoms savivaldybėms – 100 procentų;
 8. Kultūros ministerijai suteikiama teisė:
 
 
-1) skirti 1 000 tūkst. eurų tikslinę dotaciją Kauno miesto savivaldybei programai „Europos kultūros sostinė 2022“ finansuoti iš Kultūros ministerijos asignavimuose tam tikslui numatytų lėšų;
+1) skirti 1 340 tūkst. eurų tikslinę dotaciją Kauno miesto savivaldybei programai „Europos kultūros sostinė 2022“ finansuoti iš Kultūros ministerijos asignavimuose tam tikslui numatytų lėšų;
+Straipsnio punkto pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
+ 
 
 
 
@@ -634,15 +683,17 @@ Asignavimų valdytojai, siekdami, kad 2021 m. gruodžio 31 d. nebūtų darbo už
 20 straipsnis. Vidutinio laikotarpio valdžios sektoriaus balanso rodiklio užduotys
 
 
-1. Nustatomas ne blogesnis negu –7 procentai BVP 2021 metų valdžios sektoriaus balanso rodiklis. 
+1. Nustatomas ne blogesnis negu –6,9 procento BVP 2021 metų valdžios sektoriaus balanso rodiklis.
 
 
 
 
-2. Vidutiniu laikotarpiu bus siekiama laikytis vidutinio laikotarpio tikslo.
+2. Vidutiniu laikotarpiu, atsižvelgiant į ekonomikos ciklo būklę, bus siekiama gerinti valdžios sektoriaus balansą, kad struktūrinis valdžios sektoriaus balansas artėtų vidutinio laikotarpio tikslo link.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
  
-
-
 
 
 
@@ -682,24 +733,26 @@ LIETUVOS RESPUBLIKOS
  Iš viso 
 
 
+
+
  PAJAMOS 
- 8 856 383 
+ 9 528 138 
 
 
  MOKESČIAI 
- 8 414 731 
+ 9 044 856 
 
 
  Pajamų ir pelno mokesčiai 
- 2 555 700 
+ 2 825 535 
 
 
  Gyventojų pajamų mokestis 
- 1 838 955 
+ 2 036 679 
 
 
  Pelno mokestis 
- 716 745 
+ 788 856 
 
 
  Turto mokesčiai 
@@ -711,11 +764,11 @@ LIETUVOS RESPUBLIKOS
 
 
  Prekių ir paslaugų mokesčiai 
- 5 732 031 
+ 6 079 321 
 
 
  Pridėtinės vertės mokestis 
- 4 033 743 
+ 4 350 837 
 
 
  Atskaitymai nuo pajamų pagal Lietuvos Respublikos miškų įstatymą 
@@ -723,7 +776,7 @@ LIETUVOS RESPUBLIKOS
 
 
  Akcizai 
- 1 586 785 
+ 1 616 981 
 
 
  Loterijų ir lošimų mokesčiai 
@@ -739,19 +792,19 @@ LIETUVOS RESPUBLIKOS
 
 
  Tarptautinės prekybos ir sandorių mokesčiai 
- 120 000 
+ 133 000 
 
 
-
+   
    
 
 
  KITOS PAJAMOS 
- 441 652 
+ 483 282 
 
 
  Turto pajamos 
- 151 999 
+ 193 629 
 
 
  Palūkanos už paskolas 
@@ -763,11 +816,11 @@ LIETUVOS RESPUBLIKOS
 
 
  Lietuvos banko pelno įmokos 
- 13 770 
+ 16 626 
 
 
  Dividendai ir valstybės įmonių pelno įmokos 
- 103 874 
+ 142 648 
 
 
  Mokesčiai už valstybinius gamtos išteklius 
@@ -847,15 +900,15 @@ LIETUVOS RESPUBLIKOS
 
 
  IŠ VISO 
- 8 988 559 
+ 9 660 314 
 
 
-   
+
    
 
 
  Europos Sąjungos ir kitos tarptautinės finansinės paramos lėšos 
- 2 263 546   
+ 2 777 114 
 
 
 
@@ -863,28 +916,30 @@ LIETUVOS RESPUBLIKOS
 
 
  IŠ VISO 
- 11 252 105   
+ 12 437 428 
 
 
 
- 
+
+
 _______________________
+
+
+Priedo pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
  
+
+
+
+
  
- 
-
-
-
-
 Lietuvos Respublikos
 2021 metų valstybės biudžeto ir
 savivaldybių biudžetų finansinių
 rodiklių patvirtinimo įstatymo
 2 priedas
  
-LIETUVOS RESPUBLIKOS
-2021 METŲ VALSTYBĖS BIUDŽETO ASIGNAVIMAI
-
+LIETUVOS RESPUBLIKOS 2021 METŲ VALSTYBĖS BIUDŽETO ASIGNAVIMAI
 
 
 
@@ -894,9 +949,9 @@ LIETUVOS RESPUBLIKOS
  Tūkst. Eur 
 
 
- Valstybės institucijos ir įstaigos 
+ Valstybės institucijos ir įstaigos pavadinimas 
  Iš viso 
- iš jų: 
+ Iš jų 
 
 
  išlaidoms 
@@ -909,11 +964,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
- I. RESPUBLIKOS PREZIDENTUI, SEIMUI, VYRIAUSYBEI ATSKAITINGOS INSTITUCIJOS 
-
-
-
-
+ I. RESPUBLIKOS PREZIDENTUI, SEIMUI,  VYRIAUSYBEI ATSKAITINGOS  INSTITUCIJOS 
 
 
  Lietuvos Respublikos Prezidento kanceliarija 
@@ -933,15 +984,8 @@ LIETUVOS RESPUBLIKOS
  Lietuvos Respublikos vyriausioji rinkimų komisija 
  8 736 
  8 706 
- 1 121 
+ 1 541 
  30 
-
-
- iš jų asignavimai politinėms partijoms 
- 5 502 
- 5 502 
-
-
 
 
  Lietuvos Respublikos Seimo kontrolierių įstaiga 
@@ -1021,7 +1065,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
- Vaiko teisių apsaugos kontrolieriaus įstaiga 
+ Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstaiga 
  628 
  628 
  531 
@@ -1049,11 +1093,18 @@ LIETUVOS RESPUBLIKOS
 
 
 
- Lietuvos Respublikos Vyriausybės kanceliarija iš jų: kompensacijai už Lietuvos žydų religinių bendruomenių nekilnojamąjį turtą 
- 14 787   3 620 
- 14 587   3 620 
+ Lietuvos Respublikos Vyriausybės kanceliarija 
+ 14 787 
+ 14 587 
  7 568 
  200 
+
+
+ iš jų kompensacijai už Lietuvos žydų religinių bendruomenių nekilnojamąjį turtą 
+ 3 620 
+ 3 620 
+
+
 
 
  Valstybinė energetikos reguliavimo taryba 
@@ -1099,30 +1150,40 @@ LIETUVOS RESPUBLIKOS
 
 
  Lietuvos Respublikos vadovybės apsaugos tarnyba 
- 23 082 
- 19 637 
- 15 709 
- 3 445 
+ 23 455 
+ 19 958 
+ 15 844 
+ 3 497 
+
+
+ iš jų COVID-19 pandemijos padariniams šalinti 
+ 73 
+ 36 
+
+ 37 
 
 
  II. MINISTERIJOS 
 
 
-
-
-
-
  Aplinkos ministerija 
- 356 397 
- 346 755 
- 49 155 
- 9 642 
+ 356 967 
+ 351 811 
+ 49 861 
+ 5 156 
+
+
+ iš jų COVID-19 pandemijos padariniams šalinti 
+ 583 
+ 583 
+ 418 
+
 
 
  Ekonomikos ir inovacijų ministerija 
- 840 235 
- 839 992 
- 24 221 
+ 851 411 
+ 851 168 
+ 24 060 
  243 
 
 
@@ -1134,94 +1195,136 @@ LIETUVOS RESPUBLIKOS
 
 
  Energetikos ministerija 
- 310 170 
- 309 960 
+ 402 160 
+ 401 950 
  3 822 
  210 
 
 
  Finansų ministerija 
- 1 854 432 
- 1 814 100 
- 125 052 
- 40 332 
+ 2 346 628 
+ 2 306 016 
+ 127 155 
+ 40 612 
 
 
- iš jų: Rezerviniam (stabilizavimo) fondui sudaryti Lietuvos Respublikos Vyriausybės rezervas iš jų COVID-19 pandemijos padariniams šalinti Tradicinių Lietuvos religinių bendruomenių, bendrijų ir centrų maldos namams atstatyti ir kitoms reikmėms 
-   61 147   397 448   396 000     1 597 
-   61 147   397 448   396 000     1 597 
-   
+ iš jų: 
+
+
+
+
+
+
+ Rezerviniam (stabilizavimo) fondui sudaryti 
+ 55 309 
+ 55 309 
+
+
+
+
+ Lietuvos Respublikos Vyriausybės rezervas 
+ 928 633 
+ 928 633 
+
+
+
+
+ iš jų COVID-19 pandemijos padariniams šalinti 
+ 927 185 
+ 927 185 
+
+
+
+
+ Tradicinių Lietuvos religinių bendruomenių, bendrijų ir centrų maldos namams atstatyti ir kitoms reikmėms 
+ 1 597 
+ 1 597 
+
 
 
 
  Krašto apsaugos ministerija 
- 1 028 068 
- 688 464 
+ 1 048 546 
+ 688 192 
  355 875 
- 339 604 
+ 360 354 
 
 
  Kultūros ministerija 
- 234 432 
- 218 415 
- 57 526 
+ 236 321 
+ 220 304 
+ 58 793 
  16 017 
 
 
  iš jų COVID-19 pandemijos padariniams šalinti 
- 2 500 
- 2 500 
-
+ 3 767 
+ 3 767 
+ 1 267 
 
 
 
  Socialinės apsaugos ir darbo ministerija 
- 4 384 156 
- 4 379 068 
+ 4 401 806 
+ 4 396 718 
  109 334 
  5 088 
 
 
  iš jų COVID-19 pandemijos padariniams šalinti 
- 280 000 
- 280 000 
+ 372 500 
+ 372 500 
 
 
 
 
  Susisiekimo ministerija 
- 1 087 978 
- 1 079 399 
- 12 850 
- 8 579 
+ 1 103 804 
+ 1 094 175 
+ 12 644 
+ 9 629 
+
+
+ iš jų COVID-19 pandemijos padariniams šalinti 
+ 3 585 
+ 3 585 
+
+
 
 
  Sveikatos apsaugos ministerija 
- 1 140 708 
- 1 126 672 
- 39 138 
+ 1 236 313 
+ 1 222 277 
+ 41 435 
  14 036 
 
 
  iš jų COVID-19 pandemijos padariniams šalinti 
- 25 000 
- 25 000 
+ 119 673 
+ 119 673 
+ 2 463 
 
 
 
+ Švietimo, mokslo ir sporto ministerija 
+ 1 708 242 
+ 1 701 283 
+ 168 170 
+ 6 959 
 
- Švietimo, mokslo ir sporto ministerija iš jų COVID-19 pandemijos padariniams šalinti 
- 1 691 246 11 700 
- 1 684 507 11 700 
- 168 391 159 
- 6 739 
+
+ iš jų COVID-19 pandemijos padariniams šalinti 
+ 11 920 
+ 11 700 
+ 159 
+ 220 
 
 
  Teisingumo ministerija 
  120 382 
- 116 387 
+ 117 587 
  78 486 
- 3 995 
+ 2 795 
 
 
  Užsienio reikalų ministerija 
@@ -1232,45 +1335,44 @@ LIETUVOS RESPUBLIKOS
 
 
  Vidaus reikalų ministerija 
- 844 865 
- 800 309 
- 394 246 
- 44 556 
+ 864 491 
+ 808 199 
+ 395 306 
+ 56 292 
+
+
+ iš jų COVID-19 pandemijos padariniams šalinti 
+ 549 
+ 547 
+
+ 2 
 
 
  Žemės ūkio ministerija 
- 1 046 552 
- 1 040 121 
+ 1 035 640 
+ 1 028 493 
  48 465 
- 6 431 
+ 7 147 
 
 
- III. MINISTRŲ VALDYMO SRIČIŲ INSTITUCIJOS IR ĮSTAIGOS 
+ iš jų COVID-19 pandemijos padariniams šalinti 
+ 5 927 
+ 5 211 
+   
+ 716 
 
 
-
-
-
-
- FINANSŲ MINISTRO VALDYMO SRITIS 
-
-
-
-
+ III. MINISTRŲ VALDYMO SRIČIŲ  INSTITUCIJOS IR ĮSTAIGOS FINANSŲ MINISTRO VALDYMO SRITIS 
 
 
  Lietuvos statistikos departamentas 
- 15 388 
- 14 699 
+ 14 388 
+ 13 638 
  9 966 
- 689 
+ 750 
 
 
  KULTŪROS MINISTRO VALDYMO SRITIS 
-
-
-
-
 
 
  Lietuvos nacionalinė Martyno Mažvydo biblioteka 
@@ -1281,17 +1383,31 @@ LIETUVOS RESPUBLIKOS
 
 
  Lietuvos nacionalinis muziejus 
- 5 872 
- 5 222 
- 4 214 
+ 5 939 
+ 5 289 
+ 4 281 
  650 
 
 
+ iš jų COVID-19 pandemijos padariniams šalinti 
+ 67 
+ 67 
+ 67 
+
+
+
  Lietuvos nacionalinis dailės muziejus 
- 7 291 
- 6 951 
- 5 636 
- 340 
+ 7 361 
+ 7 191 
+ 5 706 
+ 170 
+
+
+ iš jų COVID-19 pandemijos padariniams šalinti 
+ 70 
+ 70 
+ 70 
+
 
 
  Nacionalinis M. K. Čiurlionio dailės muziejus 
@@ -1302,45 +1418,80 @@ LIETUVOS RESPUBLIKOS
 
 
  Lietuvos nacionalinis operos ir baleto teatras 
- 15 334 
- 13 634 
- 10 390 
- 1 700 
+ 14 601 
+ 13 701 
+ 10 457 
+ 900 
+
+
+ iš jų COVID-19 pandemijos padariniams šalinti 
+ 67 
+ 67 
+ 67 
+
 
 
  Lietuvos nacionalinis dramos teatras 
- 7 380 
- 3 880 
- 3 080 
+ 7 489 
+ 3 989 
+ 3 189 
  3 500 
 
 
+ iš jų COVID-19 pandemijos padariniams šalinti 
+ 109 
+ 109 
+ 109 
+
+
+
  Nacionalinis Kauno dramos teatras 
- 3 135 
- 2 865 
- 2 205 
+ 3 242 
+ 2 972 
+ 2 312 
  270 
 
 
+ iš jų COVID-19 pandemijos padariniams šalinti 
+ 107 
+ 107 
+ 107 
+
+
+
  Koncertinė įstaiga Lietuvos nacionalinė filharmonija 
- 5 911 
- 5 891 
- 4 539 
+ 5 978 
+ 5 958 
+ 4 606 
  20 
 
 
+ iš jų COVID-19 pandemijos padariniams šalinti 
+ 67 
+ 67 
+ 67 
+
+
+
  Nacionalinis muziejus Lietuvos Didžiosios Kunigaikštystės valdovų rūmai 
- 3 648 
- 3 548 
- 2 483 
+ 3 694 
+ 3 594 
+ 2 529 
  100 
 
 
+ iš jų COVID-19 pandemijos padariniams šalinti 
+ 46 
+ 46 
+ 46 
+
+
+
  Lietuvos vyriausiojo archyvaro tarnyba 
- 10 506 
+ 11 306 
  8 930 
  5 981 
- 1 576 
+ 2 376 
 
 
  Tautinių mažumų departamentas prie Lietuvos Respublikos Vyriausybės 
@@ -1350,11 +1501,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
- SVEIKATOS APSAUGOS MINISTRO VALDYMO SRITIS 
-
-
-
-
+ SVEIKATOS APSAUGOS MINISTRO  VALDYMO SRITIS 
 
 
  Narkotikų, tabako ir alkoholio kontrolės departamentas 
@@ -1367,10 +1514,6 @@ LIETUVOS RESPUBLIKOS
  TEISINGUMO MINISTRO VALDYMO SRITIS 
 
 
-
-
-
-
  Valstybinė duomenų apsaugos inspekcija 
  1 176 
  1 166 
@@ -1381,10 +1524,6 @@ LIETUVOS RESPUBLIKOS
  ŽEMĖS ŪKIO MINISTRO VALDYMO SRITIS 
 
 
-
-
-
-
  Valstybinė maisto ir veterinarijos tarnyba 
  31 887 
  30 947 
@@ -1392,11 +1531,7 @@ LIETUVOS RESPUBLIKOS
  940 
 
 
- IV. KITOS VALSTYBĖS INSTITUCIJOS IR ĮSTAIGOS 
-
-
-
-
+ IV. KITOS VALSTYBĖS INSTITUCIJOS  IR ĮSTAIGOS 
 
 
  Lietuvos Respublikos Konstitucinis Teismas 
@@ -1414,23 +1549,30 @@ LIETUVOS RESPUBLIKOS
 
 
  Nacionalinė teismų administracija 
- 12 907 
- 9 645 
+ 13 526 
+ 9 699 
  2 164 
- 3 262 
+ 3 827 
+
+
+ iš jų COVID-19 pandemijos padariniams šalinti 
+ 619 
+ 54 
+
+ 565 
 
 
  Teismai 
- 80 554 
- 80 506 
- 74 027 
+ 80 726 
+ 80 678 
+ 74 142 
  48 
 
 
  Lietuvos gyventojų genocido ir rezistencijos tyrimo centras 
- 3 158 
- 3 123 
- 2 104 
+ 3 208 
+ 3 173 
+ 2 154 
  35 
 
 
@@ -1462,11 +1604,7 @@ LIETUVOS RESPUBLIKOS
  2 497 
 
 
- V. ŠVIETIMO, KULTŪROS IR MOKSLO ORGANIZACIJOS (INSTITUTAI) 
-
-
-
-
+ V. ŠVIETIMO, KULTŪROS IR MOKSLO  ORGANIZACIJOS (INSTITUTAI) 
 
 
  Vilniaus universitetas 
@@ -1478,9 +1616,9 @@ LIETUVOS RESPUBLIKOS
 
  iš jų valstybinės reikšmės Vilniaus universiteto bibliotekos veiklai užtikrinti 
  3 095 
- 3 095 
+ 2 651   
 
-
+ 444   
 
 
  Vytauto Didžiojo universitetas 
@@ -1589,9 +1727,9 @@ LIETUVOS RESPUBLIKOS
 
 
  Lietuvos socialinių mokslų centras 
- 2 241 
- 2 231 
- 1 878 
+ 2 280 
+ 2 270 
+ 1 917 
  10 
 
 
@@ -1658,30 +1796,35 @@ LIETUVOS RESPUBLIKOS
 
 
 
-
-
-
-
-
-
-
  IŠ VISO 
- 15 841 411 
- 15 300 973 
- 1 867 681 
- 540 438 
+ 16 615 287 
+ 16 045 275 
+ 1 875 818 
+ 570 012 
+
+
+
+
+
+
+
+
+
+
 
 
 
 _______________________
- 
- 
- 
+
+
+Priedo pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
  
 
 
 
 
+ 
 Lietuvos Respublikos
 2021 metų valstybės biudžeto ir
 savivaldybių biudžetų finansinių
@@ -1792,8 +1935,8 @@ rodiklių patvirtinimo įstatymo
 
 
  Finansų ministerija 
- 69 339 
- 66 351 
+ 63 501 
+ 60 513 
  2 988 
    
 
@@ -1834,8 +1977,8 @@ rodiklių patvirtinimo įstatymo
 
 
  Švietimo, mokslo ir sporto ministerija 
- 25 844 
- 21 408 
+ 19 422 
+ 14 986 
  4 436 
    
 
@@ -2219,8 +2362,8 @@ rodiklių patvirtinimo įstatymo
 
 
  IŠ VISO 
- 866 855 
- 774 331 
+ 854 595 
+ 762 071 
  92 524 
  15 851 
 
@@ -2229,11 +2372,14 @@ rodiklių patvirtinimo įstatymo
  
 _______________________
  
+Priedo pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
  
 
 
 
 
+ 
 Lietuvos Respublikos
 2021 metų valstybės biudžeto ir
 savivaldybių biudžetų finansinių
@@ -2274,9 +2420,9 @@ LIETUVOS RESPUBLIKOS
 
 
  Lietuvos vyriausiasis administracinis teismas 
- 2 861 
- 2 859 
- 2 700 
+ 2 959 
+ 2 957 
+ 2 763 
  2 
 
 
@@ -2288,9 +2434,9 @@ LIETUVOS RESPUBLIKOS
 
 
  Vilniaus apygardos teismas 
- 5 688 
- 5 682 
- 5 359 
+ 5688 
+ 5682 
+ 5359 
  6 
 
 
@@ -2407,10 +2553,10 @@ LIETUVOS RESPUBLIKOS
 
 
  Vilniaus apygardos administracinis teismas 
- 2 538 
- 2 532 
- 2 391 
- 6 
+ 2 612 
+ 2 606 
+ 2 443 
+ 6. 
 
 
  Regionų apygardos administracinis teismas 
@@ -2421,9 +2567,9 @@ LIETUVOS RESPUBLIKOS
 
 
  IŠ VISO 
- 80 554 
- 80 506 
- 74 027 
+ 80 726 
+ 80 678 
+ 74 142 
  48 
 
 
@@ -2431,13 +2577,14 @@ LIETUVOS RESPUBLIKOS
  
 _______________________
  
+Priedo pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
  
+
+
+
+
  
- 
-
-
-
-
 Lietuvos Respublikos
 2021 metų valstybės biudžeto ir
 savivaldybių biudžetų finansinių
@@ -2608,7 +2755,7 @@ LIETUVOS RESPUBLIKOS
 
  Lietuvos Respublikos  vidaus reikalų ministerija 
    
- 33 334 
+ 36 234 
 
 
    
@@ -2623,7 +2770,7 @@ LIETUVOS RESPUBLIKOS
 
    
  priešgaisrinei saugai 
- 31 104 
+ 34 004 
 
 
    
@@ -2668,7 +2815,7 @@ LIETUVOS RESPUBLIKOS
 
  IŠ VISO 
    
- 1 119 342   
+ 1 122 242   
 
 
 
@@ -2677,15 +2824,19 @@ _______________________
  
  
  
+Priedo pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
+ 
 
 
 
 
-Lietuvos Respublikos
-2021 metų valstybės biudžeto ir
-savivaldybių biudžetų finansinių
-rodiklių patvirtinimo įstatymo
+Lietuvos Respublikos 
+2021 metų valstybės biudžeto ir 
+savivaldybių biudžetų finansinių 
+rodiklių patvirtinimo įstatymo 
 6 priedas
+ 
 LIETUVOS RESPUBLIKOS
 2021 METŲ SAVIVALDYBIŲ BIUDŽETŲ PROGNOZUOJAMOS PAJAMOS, SAVIVALDYBIŲ BIUDŽETAMS SKIRIAMOS GYVENTOJŲ PAJAMŲ MOKESČIO DALYS (PROCENTAIS) IR APSKAIČIUOTOS SUMOS SPRENDIMAMS ĮGYVENDINTI 
  
@@ -2717,9 +2868,22 @@ Tūkst. Eur
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
  Vilniaus miesto 
- 387 551 
- 333 500 
+ 416 130 
+ 362 079 
  16 969 
  1 304 
  897 
@@ -2727,25 +2891,25 @@ Tūkst. Eur
  1 043 
  225 
  1 953 
- 19,4982 
+ 19,5553 
 
 
  Alytaus miesto 
- 33 019 
- 31 291 
+ 35 366 
+ 33 638 
  5 447 
  103 
  99 
  119 
  98 
  21 
-   
- 1,8295 
+
+ 1,8168 
 
 
  Birštono 
- 5 964 
- 5 743 
+ 6 199 
+ 5 978 
  3 085 
  40 
  21 
@@ -2753,12 +2917,12 @@ Tūkst. Eur
  18 
  2 
    
- 0,3358 
+ 0,3229 
 
 
  Druskininkų 
- 12 883 
- 11 960 
+ 13 857 
+ 12 934 
  1 237 
  73 
  33 
@@ -2766,12 +2930,12 @@ Tūkst. Eur
  29 
  6 
    
- 0,6993 
+ 0,6985 
 
 
  Kauno miesto 
- 200 123 
- 177 354 
+ 215 412 
+ 192 643 
  9 245 
  803 
  457 
@@ -2779,12 +2943,12 @@ Tūkst. Eur
  522 
  111 
    
- 10,3691 
+ 10,4043 
 
 
  Klaipėdos miesto 
- 110 341 
- 97 668 
+ 118 573 
+ 105 900 
  6 778 
  489 
  292 
@@ -2792,12 +2956,12 @@ Tūkst. Eur
  386 
  65 
    
- 5,7102 
+ 5,7195 
 
 
  Marijampolės 
- 33 929 
- 30 427 
+ 36 443 
+ 32 941 
  2 670 
  184 
  91 
@@ -2805,25 +2969,25 @@ Tūkst. Eur
  67 
  21 
    
- 1,7789 
+ 1,7791 
 
 
  Neringos 
- 6 255 
- 5 727 
+ 6 731 
+ 6 203 
  486 
  29 
  30 
  30 
  21 
+
    
-   
- 0,3348 
+ 0,3350 
 
 
  Palangos miesto 
- 15 957 
- 12 766 
+ 16 981 
+ 13 790 
  1 416 
  84 
  45 
@@ -2831,12 +2995,12 @@ Tūkst. Eur
  64 
  6 
    
- 0,7464 
+ 0,7448 
 
 
  Panevėžio miesto 
- 53 734 
- 49 044 
+ 57 845 
+ 53 155 
  3 688 
  327 
  149 
@@ -2844,12 +3008,12 @@ Tūkst. Eur
  96 
  34 
    
- 2,8674 
+ 2,8708 
 
 
  Šiaulių miesto 
- 64 746 
- 58 889 
+ 69 615 
+ 63 758 
  5 241 
  312 
  181 
@@ -2857,12 +3021,12 @@ Tūkst. Eur
  182 
  42 
    
- 3,4430 
+ 3,4435 
 
 
- Visagino  
- 15 175 
- 14 949 
+ Visagino 
+ 16 132 
+ 15 906 
  4 229 
  109 
  44 
@@ -2870,12 +3034,12 @@ Tūkst. Eur
  79 
  6 
    
- 0,8740 
+ 0,8591 
 
 
  Akmenės rajono 
- 14 768 
- 13 885 
+ 15 691 
+ 14 808 
  3 652 
  92 
  41 
@@ -2883,12 +3047,12 @@ Tūkst. Eur
  49 
  7 
    
- 0,8118 
+ 0,7998 
 
 
  Alytaus rajono 
- 15 187 
- 14 673 
+ 16 439 
+ 15 925 
  969 
  70 
  23 
@@ -2896,12 +3060,12 @@ Tūkst. Eur
  19 
  4 
    
- 0,8579 
+ 0,8601 
 
 
  Anykščių rajono 
- 16 735 
- 15 900 
+ 17 896 
+ 17 061 
  3 101 
  95 
  49 
@@ -2909,12 +3073,12 @@ Tūkst. Eur
  24 
  6 
    
- 0,9296 
+ 0,9214 
 
 
  Biržų rajono 
- 14 943 
- 14 062 
+ 16 088 
+ 15 207 
  1 404 
  96 
  44 
@@ -2922,12 +3086,12 @@ Tūkst. Eur
  23 
  6 
    
- 0,8222 
+ 0,8213 
 
 
  Ignalinos rajono 
- 10 976 
- 10 318 
+ 11 723 
+ 11 065 
  2 036 
  78 
  33 
@@ -2935,12 +3099,12 @@ Tūkst. Eur
  25 
  3 
    
- 0,6033 
+ 0,5976 
 
 
  Jonavos rajono 
- 28 031 
- 26 642 
+ 30 065 
+ 28 676 
  4 226 
  127 
  67 
@@ -2948,12 +3112,12 @@ Tūkst. Eur
  74 
  15 
    
- 1,5576 
+ 1,5487 
 
 
  Joniškio rajono 
- 14 829 
- 12 964 
+ 15 835 
+ 13 970 
  1 833 
  84 
  38 
@@ -2961,12 +3125,12 @@ Tūkst. Eur
  49 
  6 
    
- 0,7579 
+ 0,7545 
 
 
  Jurbarko rajono 
- 16 844 
- 15 669 
+ 18 069 
+ 16 894 
  2 126 
  92 
  47 
@@ -2974,12 +3138,12 @@ Tūkst. Eur
  25 
  8 
    
- 0,9161 
+ 0,9124 
 
 
  Kaišiadorių rajono 
- 18 608 
- 16 598 
+ 19 956 
+ 17 946 
  1 718 
  103 
  52 
@@ -2987,12 +3151,12 @@ Tūkst. Eur
  54 
  11 
    
- 0,9704 
+ 0,9692 
 
 
  Kauno rajono 
- 60 810 
- 58 317 
+ 65 874 
+ 63 381 
  2 738 
  225 
  118 
@@ -3000,12 +3164,12 @@ Tūkst. Eur
  99 
  30 
    
- 3,4095 
+ 3,4231 
 
 
  Kėdainių rajono 
- 28 686 
- 26 617 
+ 30 903 
+ 28 834 
  2 119 
  177 
  78 
@@ -3013,12 +3177,12 @@ Tūkst. Eur
  59 
  16 
    
- 1,5562 
+ 1,5573 
 
 
  Kelmės rajono 
- 17 820 
- 17 191 
+ 19 085 
+ 18 456 
  3 242 
  97 
  52 
@@ -3026,12 +3190,12 @@ Tūkst. Eur
  26 
  8 
    
- 1,0051 
+ 0,9968 
 
 
  Klaipėdos rajono 
- 39 260 
- 36 717 
+ 42 386 
+ 39 843 
  2 276 
  189 
  103 
@@ -3039,12 +3203,12 @@ Tūkst. Eur
  91 
  16 
    
- 2,1467 
+ 2,1519 
 
 
  Kretingos rajono 
- 22 068 
- 20 561 
+ 23 802 
+ 22 295 
  1 407 
  118 
  60 
@@ -3052,12 +3216,12 @@ Tūkst. Eur
  83 
  13 
    
- 1,2021 
+ 1,2041 
 
 
  Kupiškio rajono 
- 11 086 
- 10 323 
+ 11 887 
+ 11 124 
  1 474 
  65 
  30 
@@ -3065,12 +3229,12 @@ Tūkst. Eur
  27 
  5 
    
- 0,6035 
+ 0,6008 
 
 
  Lazdijų rajono 
- 12 149 
- 11 693 
+ 13 052 
+ 12 596 
  1 746 
  50 
  24 
@@ -3078,12 +3242,12 @@ Tūkst. Eur
  25 
  6 
    
- 0,6836 
+ 0,6803 
 
 
  Mažeikių rajono 
- 32 173 
- 30 583 
+ 34 634 
+ 33 044 
  3 309 
  227 
  103 
@@ -3091,12 +3255,12 @@ Tūkst. Eur
  112 
  19 
    
- 1,7880 
+ 1,7847 
 
 
  Molėtų rajono 
- 11 413 
- 10 844 
+ 12 280 
+ 11 711 
  1 264 
  69 
  33 
@@ -3104,12 +3268,12 @@ Tūkst. Eur
  29 
  5 
    
- 0,6340 
+ 0,6325 
 
 
  Pakruojo rajono 
- 13 623 
- 11 844 
+ 14 533 
+ 12 754 
  1 750 
  93 
  39 
@@ -3117,12 +3281,12 @@ Tūkst. Eur
  21 
  5 
    
- 0,6925 
+ 0,6888 
 
 
  Panevėžio rajono 
- 21 901 
- 20 851 
+ 23 649 
+ 22 599 
  1 561 
  145 
  59 
@@ -3130,12 +3294,12 @@ Tūkst. Eur
  24 
  9 
    
- 1,2191 
+ 1,2205 
 
 
  Pasvalio rajono 
- 15 864 
- 14 216 
+ 16 997 
+ 15 349 
  1 663 
  107 
  47 
@@ -3143,12 +3307,12 @@ Tūkst. Eur
  44 
  8 
    
- 0,8311 
+ 0,8290 
 
 
  Plungės rajono 
- 20 197 
- 19 063 
+ 21 796 
+ 20 662 
  1 374 
  116 
  58 
@@ -3156,12 +3320,12 @@ Tūkst. Eur
  86 
  12 
    
- 1,1145 
+ 1,1159 
 
 
  Prienų rajono 
- 15 695 
- 14 760 
+ 16 906 
+ 15 971 
  1 368 
  97 
  46 
@@ -3169,12 +3333,12 @@ Tūkst. Eur
  56 
  8 
    
- 0,8629 
+ 0,8626 
 
 
  Radviliškio rajono 
- 23 533 
- 21 574 
+ 25 202 
+ 23 243 
  3 089 
  155 
  61 
@@ -3182,12 +3346,12 @@ Tūkst. Eur
  51 
  12 
    
- 1,2613 
+ 1,2553 
 
 
  Raseinių rajono 
- 18 696 
- 17 591 
+ 20 161 
+ 19 056 
  1 464 
  88 
  52 
@@ -3195,12 +3359,12 @@ Tūkst. Eur
  46 
  10 
    
- 1,0285 
+ 1,0292 
 
 
  Rokiškio rajono 
- 18 966 
- 17 796 
+ 20 347 
+ 19 177 
  2 180 
  128 
  59 
@@ -3208,12 +3372,12 @@ Tūkst. Eur
  48 
  8 
  310 
- 1,0405 
+ 1,0357 
 
 
  Skuodo rajono 
- 10 938 
- 10 337 
+ 11 745 
+ 11 144 
  1 427 
  59 
  32 
@@ -3221,12 +3385,12 @@ Tūkst. Eur
  28 
  5 
    
- 0,6044 
+ 0,6019 
 
 
  Šakių rajono 
- 17 565 
- 15 920 
+ 18 867 
+ 17 222 
  1 481 
  127 
  49 
@@ -3234,12 +3398,12 @@ Tūkst. Eur
  43 
  9 
    
- 0,9308 
+ 0,9301 
 
 
  Šalčininkų rajono 
- 19 505 
- 18 969 
+ 20 986 
+ 20 450 
  2 531 
  131 
  47 
@@ -3247,12 +3411,12 @@ Tūkst. Eur
  55 
  12 
    
- 1,1090 
+ 1,1045 
 
 
  Šiaulių rajono 
- 24 586 
- 23 127 
+ 26 528 
+ 25 069 
  1 709 
  132 
  60 
@@ -3260,12 +3424,12 @@ Tūkst. Eur
  55 
  10 
    
- 1,3521 
+ 1,3539 
 
 
  Šilalės rajono 
- 14 542 
- 13 879 
+ 15 622 
+ 14 959 
  1 915 
  103 
  46 
@@ -3273,12 +3437,12 @@ Tūkst. Eur
  59 
  8 
    
- 0,8114 
+ 0,8079 
 
 
  Šilutės rajono 
- 23 918 
- 22 610 
+ 25 823 
+ 24 515 
  1 600 
  133 
  69 
@@ -3286,12 +3450,12 @@ Tūkst. Eur
  54 
  14 
    
- 1,3219 
+ 1,3240 
 
 
  Širvintų rajono 
- 9 697 
- 9 011 
+ 10 449 
+ 9 763 
  714 
  61 
  28 
@@ -3299,12 +3463,12 @@ Tūkst. Eur
  25 
  5 
    
- 0,5268 
+ 0,5273 
 
 
  Švenčionių rajono 
- 15 122 
- 13 942 
+ 16 272 
+ 15 092 
  1 257 
  80 
  41 
@@ -3316,8 +3480,8 @@ Tūkst. Eur
 
 
  Tauragės rajono 
- 22 867 
- 21 345 
+ 24 681 
+ 23 159 
  1 359 
  118 
  56 
@@ -3325,12 +3489,12 @@ Tūkst. Eur
  66 
  13 
    
- 1,2479 
+ 1,2508 
 
 
  Telšių rajono 
- 24 237 
- 23 516 
+ 26 159 
+ 25 438 
  2 291 
  144 
  67 
@@ -3338,12 +3502,12 @@ Tūkst. Eur
  55 
  14 
    
- 1,3749 
+ 1,3739 
 
 
  Trakų rajono 
- 22 036 
- 20 768 
+ 23 812 
+ 22 544 
  1 278 
  124 
  58 
@@ -3351,12 +3515,12 @@ Tūkst. Eur
  46 
  11 
    
- 1,2142 
+ 1,2176 
 
 
  Ukmergės rajono 
- 21 453 
- 20 036 
+ 23 064 
+ 21 647 
  2 232 
  116 
  56 
@@ -3364,12 +3528,12 @@ Tūkst. Eur
  65 
  11 
    
- 1,1714 
+ 1,1691 
 
 
  Utenos rajono 
- 23 087 
- 21 435 
+ 24 841 
+ 23 189 
  2 055 
  155 
  67 
@@ -3377,12 +3541,12 @@ Tūkst. Eur
  33 
  11 
    
- 1,2532 
+ 1,2524 
 
 
  Varėnos rajono 
- 14 189 
- 13 790 
+ 15 257 
+ 14 858 
  2 002 
  84 
  44 
@@ -3390,12 +3554,12 @@ Tūkst. Eur
  32 
  6 
    
- 0,8062 
+ 0,8025 
 
 
  Vilkaviškio rajono 
- 22 131 
- 20 919 
+ 23 789 
+ 22 577 
  2 591 
  124 
  63 
@@ -3403,12 +3567,12 @@ Tūkst. Eur
  76 
  12 
    
- 1,2230 
+ 1,2193 
 
 
  Vilniaus rajono 
- 66 083 
- 61 951 
+ 71 366 
+ 67 234 
  3 750 
  308 
  138 
@@ -3416,12 +3580,12 @@ Tūkst. Eur
  76 
  33 
    
- 3,6220 
+ 3,6312 
 
 
  Zarasų rajono 
- 11 265 
- 10 786 
+ 12 036 
+ 11 557 
  2 258 
  58 
  30 
@@ -3429,12 +3593,12 @@ Tūkst. Eur
  34 
  4 
    
- 0,6306 
+ 0,6242 
 
 
- Elektrėnų  
- 17 363 
- 15 617 
+ Elektrėnų 
+ 18 675 
+ 16 929 
  1 130 
  96 
  48 
@@ -3442,12 +3606,12 @@ Tūkst. Eur
  52 
  8 
    
- 0,9131 
+ 0,9143 
 
 
  Kalvarijos 
- 6 435 
- 6 205 
+ 6 915 
+ 6 685 
  911 
  39 
  19 
@@ -3455,12 +3619,12 @@ Tūkst. Eur
  15 
  3 
    
- 0,3628 
+ 0,3610 
 
 
- Kazlų Rūdos  
- 6 693 
- 6 218 
+ Kazlų Rūdos 
+ 7 219 
+ 6 744 
  409 
  33 
  17 
@@ -3468,12 +3632,12 @@ Tūkst. Eur
  34 
  4 
    
- 0,3635 
+ 0,3642 
 
 
- Pagėgių  
- 5 746 
- 4 944 
+ Pagėgių 
+ 6 137 
+ 5 335 
  597 
  46 
  19 
@@ -3481,12 +3645,12 @@ Tūkst. Eur
  11 
  2 
    
- 0,2891 
+ 0,2881 
 
 
- Rietavo  
- 4 725 
- 4 517 
+ Rietavo 
+ 5 089 
+ 4 881 
  461 
  32 
  16 
@@ -3494,12 +3658,12 @@ Tūkst. Eur
  17 
  3 
    
- 0,2641 
+ 0,2636 
 
 
  IŠ VISO 
- 1 878 721 
- 1 710 412 
+ 2 019 872 
+ 1 851 563 
  151 538 
  9 143 
  4 825 
@@ -3511,13 +3675,19 @@ Tūkst. Eur
 
 
 
-______________________
+
+
+_______________________
+
+
+Priedo pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
  
+
+
+
+
  
-
-
-
-
 Lietuvos Respublikos
 2021 metų valstybės biudžeto ir
 savivaldybių biudžetų finansinių
@@ -3552,7 +3722,7 @@ Lietuvos Respublikos valstybės remiamų programų investicijų projektams įgyv
 
 
  Valstybės valdymas 
- 28 834 
+ 28 865 
  38 078 
  30 847 
 
@@ -3566,14 +3736,14 @@ Lietuvos Respublikos valstybės remiamų programų investicijų projektams įgyv
 
 
  Viešoji tvarka 
- 8 471 
+ 7 271 
  1 641 
  1 229 
 
 
 
  Švietimas 
- 203 216 
+ 203 436 
  89 100 
  60 095 
 
@@ -3601,21 +3771,21 @@ Lietuvos Respublikos valstybės remiamų programų investicijų projektams įgyv
 
 
  Kultūra 
- 75 713 
+ 76 343 
  44 948 
  32 755 
 
 
 
  Žemės ūkis 
- 27 225 
+ 23 225 
  19 201 
  13 079 
 
 
 
  Visuomenės apsauga 
- 166 250 
+ 162 250 
  79 947 
  27 408 
 
@@ -3636,30 +3806,43 @@ Lietuvos Respublikos valstybės remiamų programų investicijų projektams įgyv
 
 
  IŠ VISO 
- 1 415 129 
+ 1 406 810 
  1 029 260 
  861 791 
 
 
 
 
+
+
 _______________________
  
- 
+
+
+Priedo pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
  
+
+
+
+
  
-
-
-
-
 Lietuvos Respublikos
 2021 metų valstybės biudžeto ir
 savivaldybių biudžetų finansinių
 rodiklių patvirtinimo įstatymo
 8 priedas
  
-2021 METŲ REZERVINIO (STABILIZAVIMO) FONDO LĖŠŲ SĄMATA
- 
+
+
+
+ 2021 METŲ REZERVINIO (STABILIZAVIMO) FONDO LĖŠŲ SĄMATA   
+
+
+
+
+
+
 
 
 
@@ -3673,43 +3856,53 @@ rodiklių patvirtinimo įstatymo
 
 
  2. 
- Įplaukos 2021 metais 
- 62 647 
+ Įplaukos 2021 metais (2.1 + 2.2 + 2.3) 
+ 56 809 
 
 
  2.1. 
- 50 procentų lėšų, gautų į Lietuvos Respublikos valstybės biudžetą, įstatymų nustatyta tvarka privatizavus valstybei nuosavybės teise priklausančius akcijų paketus 
- 3 450 
-
-
- 2.2. 
- 50 procentų gautų į Lietuvos Respublikos valstybės biudžetą dividendų 
- 36 949 
-
-
- 2.3. 
- 50 procentų lėšų, gautų į Lietuvos Respublikos valstybės biudžetą, pardavus viešo aukciono būdu įstatymų nustatyta tvarka valstybės nekilnojamąjį turtą ir kitus nekilnojamuosius daiktus 
- 6 684 
-
-
- 2.4. 
- 50 procentų lėšų, gautų į Lietuvos Respublikos valstybės biudžetą, pardavus valstybinės žemės sklypus 
- 14 064 
-
-
- 2.5. 
  lėšos, gautos už valstybės įmonės Ignalinos atominės elektrinės parduotą turtą 
  1 500 
 
 
+ 2.2. 
+ įplaukos iki 2021 m. balandžio 30 d.: 
+ 40 293 
+
+
+ 2.2.1. 
+ 50 procentų lėšų, gautų į Lietuvos Respublikos valstybės biudžetą, įstatymų nustatyta tvarka privatizavus valstybei nuosavybės teise priklausančius akcijų paketus 
+ 683 
+
+
+ 2.2.2. 
+ 50 procentų gautų į Lietuvos Respublikos valstybės biudžetą dividendų 
+ 28 005 
+
+
+ 2.2.3. 
+ 50 procentų lėšų, gautų į Lietuvos Respublikos valstybės biudžetą, pardavus viešo aukciono būdu įstatymų nustatyta tvarka valstybės nekilnojamąjį turtą ir kitus nekilnojamuosius daiktus 
+ 4 111 
+
+
+ 2.2.4. 
+ 50 procentų lėšų, gautų į Lietuvos Respublikos valstybės biudžetą, pardavus valstybinės žemės sklypus 
+ 7 494 
+
+
+ 2.3. 
+ įplaukos nuo 2021 m. gegužės 1 d. – 25 procentai į Lietuvos Respublikos valstybės biudžetą gautų dividendų kaupiami radioaktyviųjų atliekų giluminiam atliekynui įrengti ir radioaktyviosioms atliekoms tvarkyti 
+ 15 016 
+
+
  3. 
- 2021 metų įplaukų dalis, kaupiama radioaktyviųjų atliekų giluminiam atliekynui įrengti, radioaktyviosioms atliekoms tvarkyti 
- 3 000 
+ 2021 metų įplaukų dalis kaupiama radioaktyviųjų atliekų giluminiam atliekynui įrengti ir radioaktyviosioms atliekoms tvarkyti (2.1 + 2.3) 
+ 16 516 
 
 
  4. 
  Išlaidos 2021 metais 
- 1 941 
+ 1 927 
 
 
 
@@ -3719,30 +3912,34 @@ rodiklių patvirtinimo įstatymo
 
  4.1. 
  Rezervinio (stabilizavimo) fondo valdymo išlaidos 
- 1 941 
+ 1 927 
 
 
  5. 
- Lėšos, kurios atitinkamais metais gali būti naudojamos valstybės turtiniams įsipareigojimams, susijusiems su valstybės skola, vykdyti (grąžintinai) iki 2023 m. gruodžio 31 d. 
+ Lėšos, kurios gali būti naudojamos valstybės turtiniams įsipareigojimams, susijusiems su valstybės skola, vykdyti (grąžintinai) iki 2023 m. gruodžio 31 d. 
  400 000 
 
 
  6. 
  Numatomas lėšų likutis 2022 m. sausio 1 d. (1 + 2 – 4) 
- 417 642 
+ 411 818 
+
+
 
 
 
 _______________________
  
+
+
+Priedo pakeitimai:
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
  
- 
+
+
+
+
  
- 
-
-
-
-
 Lietuvos Respublikos
 2021 metų valstybės biudžeto ir
 savivaldybių biudžetų finansinių
@@ -3825,12 +4022,11 @@ rodiklių patvirtinimo įstatymo
 _______________________
  
  
+
+
+
+
  
- 
-
-
-
-
 Lietuvos Respublikos
 2021 metų valstybės biudžeto ir
 savivaldybių biudžetų finansinių
@@ -3905,3 +4101,13 @@ rodiklių patvirtinimo įstatymo
 
  
 _______________________
+ 
+ 
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-430, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14646
+Lietuvos Respublikos 2021 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo Nr. XIV-102 preambulės, 1, 2, 3, 9, 10, 11, 14, 20 straipsnių ir 1, 2, 3, 4, 5, 6, 7, 8 priedų pakeitimo įstatymas
