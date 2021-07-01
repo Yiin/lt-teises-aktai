@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.068516AF734B"
 
 # Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas
 
-Suvestinė redakcija nuo 2021-06-16 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 111-3574, i. k. 1001010ISTA00IX-110
  
@@ -578,9 +578,10 @@ Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
 111 straipsnis. Ligos išmokų skyrimo ir mokėjimo ypatumai Vyriausybei paskelbus ekstremaliąją situaciją ir (ar) karantiną
 
 
-1. Ligos išmoka asmeniui, kuris Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu vykdydamas savo profesinės veiklos sveikatos, visuomenės saugumo, viešosios tvarkos palaikymo ir (ar) švietimo srityje (srityse) funkcijas, kurias vykdant neišvengiamas (būtinas) kontaktas su pavojinga užkrečiamąja liga sergančiu ir kartu su juo darbovietėje nedirbančiu asmeniu, susirgo liga, dėl kurios Vyriausybė paskelbė ekstremaliąją situaciją ir (ar) karantiną, mokama iš Valstybinio socialinio draudimo fondo lėšų nuo trečiosios jo laikinojo nedarbingumo dienos, yra lygi 77,58 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Šioje dalyje nurodytų aplinkybių buvimas nustatomas kiekvienu atveju individualiai, darbdaviui pateikus Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui dokumentus, pagrindžiančius profesinės veiklos funkcijų vykdymo ir ligos priežastinį ryšį. 
+1. Ligos išmoka asmeniui, kuris Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino metu vykdydamas savo profesinės veiklos sveikatos, visuomenės saugumo, viešosios tvarkos palaikymo ir (ar) švietimo srityje (srityse) funkcijas, kurias vykdant neišvengiamas (būtinas) kontaktas su pavojinga užkrečiamąja liga sergančiu asmeniu, susirgo liga, dėl kurios Vyriausybė paskelbė ekstremaliąją situaciją ir (ar) karantiną, mokama iš Valstybinio socialinio draudimo fondo lėšų nuo trečiosios jo laikinojo nedarbingumo dienos, yra lygi 77,58 procento išmokos gavėjo kompensuojamojo uždarbio dydžio. Šioje dalyje nurodytų aplinkybių buvimas patvirtinamas vadovaujantis Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka Valstybinio socialinio draudimo fondo valdybos teritoriniam skyriui (toliau – Fondo valdybos teritorinis skyrius) darbdavio pateiktu patvirtinimu, kurio formą tvirtina Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktorius (toliau – Patvirtinimo forma). Jeigu darbdavys Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka Fondo valdybos teritoriniam skyriui nepateikia užpildytos Patvirtinimo formos, šioje dalyje nustatytu atveju, iki Fondo valdybos teritoriniam skyriui darbdavys pateikia užpildytą Patvirtinimo formą, asmeniui skiriama ir mokama šio įstatymo 14 straipsnio 2 dalyje nustatyto dydžio ligos išmoka, o gavus Patvirtinimo formą, paskirta ligos išmoka perskaičiuojama ir jos nepriemoka išmokama Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka. 
 Straipsnio dalies pakeitimai:
 Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
+Nr. XIV-375, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13640
  
 
 
@@ -1427,7 +1428,10 @@ Valstybinio socialinio draudimo įmokų tarifai ligos socialiniam draudimui ir m
 33 straipsnis. Išmokų skyrimas ir mokėjimas, permokėtų išmokų sumų išieškojimas
 
 
-1. Šiame įstatyme numatytas išmokas, išskyrus darbdavio mokamas ligos išmokas už dvi pirmąsias kalendorines nedarbingumo dienas, skiria ir moka Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai (toliau – Fondo valdybos teritoriniai skyriai), vadovaudamiesi šiuo įstatymu ir Ligos ir motinystės socialinio draudimo išmokų nuostatais. 
+1. Šiame įstatyme numatytas išmokas, išskyrus darbdavio mokamas ligos išmokas už dvi pirmąsias kalendorines nedarbingumo dienas, skiria ir moka Fondo valdybos teritoriniai skyriai, vadovaudamiesi šiuo įstatymu ir Ligos ir motinystės socialinio draudimo išmokų nuostatais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-375, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13640
+ 
 
 
 
