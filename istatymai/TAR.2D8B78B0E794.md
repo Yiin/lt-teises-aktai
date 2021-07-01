@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/2d8b78b0e79411e68503b67e3b82e8bd"
 
 # Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-08-31
  
 Įstatymas paskelbtas: TAR 2017-01-31, i. k. 2017-01764
  
@@ -382,12 +382,18 @@ Pareiginės algos koeficiento vienetas yra Seimo patvirtintas atitinkamų metų 
 
 
 
-7. Socialinių paslaugų srities darbuotojams šio įstatymo 1, 2, 3 ir 4 prieduose nustatyti minimalieji pareiginės algos pastoviosios dalies koeficientai didinami 20 procentų. 
+7. Socialinių paslaugų srities darbuotojams šio įstatymo 1, 2, 3 ir 4 prieduose nustatyti minimalieji pareiginės algos pastoviosios dalies koeficientai didinami 30 procentų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+ 
 
 
 
 
-8. Nustatant pareiginės algos pastoviąją dalį, papildomai įvertinamas nacionalinių, valstybinių ir savivaldybių kultūros ir meno įstaigų aukščiausiojo profesinio meninio lygio kultūros ir meno darbuotojų nacionaliniu ir tarptautiniu mastu įgytas pripažinimas, Vyriausybės ar jos įgaliotos institucijos nustatytas atskirų profesijų atstovų trūkumas Lietuvos Respublikos darbo rinkoje, trenerių ar darbuotojų aukšta kvalifikacinė kategorija, nustatyta pagal tam tikrai darbuotojų grupei keliamus kvalifikacinius reikalavimus. Šiais atvejais šio įstatymo 1, 2, 3, 4 ir 5 prieduose nustatyti pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 100 procentų. Trenerio pareiginės algos pastovioji dalis didinama atsižvelgiant į trenerio turimą kvalifikacinę kategoriją: už pirmą kvalifikacinę kategoriją ‒ 45 procentais, už antrą – 55 procentais, už trečią – 65 procentais, už ketvirtą – 75 procentais, už penktą – 90 procentų, už šeštą – 100 procentų. Treneriams, neturintiems kvalifikacinės kategorijos, pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 40 procentų. Socialinių paslaugų srities darbuotojo pareiginės algos pastovioji dalis didinama atsižvelgiant į socialinių paslaugų srities darbuotojo turimą kvalifikacinę kategoriją: už pirmą (žemiausią) kvalifikacinę kategoriją – 10 procentų, už antrą (aukštesnę) – 15 procentų, už trečią (aukščiausią) – 25 procentais. Socialinių paslaugų srities darbuotojams, neturintiems kvalifikacinės kategorijos, pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 10 procentų.
+8. Nustatant pareiginės algos pastoviąją dalį, papildomai įvertinamas nacionalinių, valstybinių ir savivaldybių kultūros ir meno įstaigų aukščiausiojo profesinio meninio lygio kultūros ir meno darbuotojų nacionaliniu ir tarptautiniu mastu įgytas pripažinimas, Vyriausybės ar jos įgaliotos institucijos nustatytas tam tikrų profesijų atstovų trūkumas Lietuvos Respublikos darbo rinkoje, trenerių ar socialinių paslaugų srities darbuotojų aukšta kvalifikacinė kategorija, nustatyta pagal tam tikrai darbuotojų grupei keliamus kvalifikacinius reikalavimus. Šiais atvejais šio įstatymo 1, 2, 3, 4 ir 5 prieduose nustatyti pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 100 procentų. Trenerio pareiginės algos pastovioji dalis didinama, atsižvelgiant į jo turimą kvalifikacinę kategoriją: jeigu trenerio kvalifikacinė kategorija pirma, jo pareiginės algos pastovioji dalis didinama 45 procentais, jeigu antra, – 55 procentais, jeigu trečia, – 65 procentais, jeigu ketvirta, – 75 procentais, jeigu penkta, – 90 procentų, jeigu šešta, – 100 procentų. Treneriams, neturintiems kvalifikacinės kategorijos, pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 40 procentų. Socialinių paslaugų srities darbuotojo pareiginės algos pastovioji dalis didinama, atsižvelgiant į jo turimą kvalifikacinę kategoriją: jeigu socialinių paslaugų srities darbuotojo kvalifikacinė kategorija pirma (žemiausia), jo pareiginės algos pastovioji dalis didinama 15 procentų, jeigu antra (aukštesnė), – 20 procentų, jeigu trečia (aukščiausia), – 30 procentų. Socialinių paslaugų srities darbuotojams, neturintiems kvalifikacinės kategorijos, pareiginės algos pastoviosios dalies koeficientai gali būti didinami iki 10 procentų. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-127, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28983
+ 
 
 
 
