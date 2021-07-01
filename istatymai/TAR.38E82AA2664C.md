@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.38E82AA2664C"
 
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymas
 
-Suvestinė redakcija nuo 2020-01-04 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 100-2261, i. k. 0961010ISTA00I-1539
  
@@ -1187,7 +1187,15 @@ Atlyginimo už daiktinių teisių į nekilnojamąjį daiktą, šių teisių suva
 
 
 
-5) valstybės institucijoms ir kitiems asmenims – valstybės pavestoms funkcijoms atlikti ar įstatymuose nustatytoms teisinėms paslaugoms teikti.
+5) valstybės institucijoms ir kitiems asmenims – valstybės pavestoms funkcijoms atlikti ar įstatymuose nustatytoms teisinėms paslaugoms teikti;
+
+
+
+
+6) žurnalistams – Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
+Papildyta straipsnio punktu:
+Nr. XIV-248, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08859
+ 
 
 
 
@@ -1408,3 +1416,8 @@ Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 1, 2, 3, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
 Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 5, 11, 15, 17 ir 38 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-248, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08859
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 42 straipsnio pakeitimo įstatymas
