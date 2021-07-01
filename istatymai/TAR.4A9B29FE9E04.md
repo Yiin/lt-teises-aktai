@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.4A9B29FE9E04"
 
 # Lietuvos Respublikos žemės ūkio bendrovių įstatymas
 
-Suvestinė redakcija nuo 2018-05-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2024-06-30
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 80-0; Žin. 1991, Nr.13-328, i. k. 0911010ISTA00I-1222
  
@@ -492,7 +492,7 @@ TAR pastaba. Bendrovės, įsteigtos iki įstatymo Nr. XIII-743 įsigaliojimo (20
 
 
 
-4. Juridinių asmenų dalyvių informacinėje sistemoje sukauptų duomenų pagrindu parengta informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, jeigu ji:
+4. Pagal Juridinių asmenų dalyvių informacinėje sistemoje sukauptus duomenis parengta informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, jeigu ji:
 
 
 1) teikiama bendrovės nariams ir pajininkams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus;
@@ -505,10 +505,17 @@ TAR pastaba. Bendrovės, įsteigtos iki įstatymo Nr. XIII-743 įsigaliojimo (20
 
 
 
-3) teikiama mokesčių administravimo, teisėtvarkos institucijoms ir teismams, kitoms valstybės institucijoms ir įstaigoms  teisės aktuose nustatytoms funkcijoms atlikti.
+3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis;
+
+
+
+
+4) teikiama žurnalistams Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-247, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08857
  
-
-
 
 
 Papildyta straipsniu:
@@ -1469,7 +1476,7 @@ Nr. IX-2538, 2004-11-04, Žin., 2004, Nr. 171-6298 (2004-11-26), i. k. 1041010IS
 
 
 
-4. Paskirsčius nariams ir pajininkams likusį turtą, apie kiekvienam iš jų tekusį turtą pranešama registruotu laišku arba pranešimu pasirašytinai įteikimo lape.          
+4. Paskirsčius nariams ir pajininkams likusį turtą, apie kiekvienam iš jų tekusį turtą pranešama registruotu laišku arba pranešimu pasirašytinai įteikimo lape.           
 
 
 
@@ -1548,7 +1555,7 @@ BAIGIAMOSIOS NUOSTATOS
  
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS 
-PIRMININKAS                                                                                                    V. LANDSBERGIS
+PIRMININKAS                                                                                                     V. LANDSBERGIS
  
 Vilnius, 1991 m. balandžio 16 d. 
 Nr. I-1222
@@ -1663,3 +1670,8 @@ Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 30 straipsnio
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-743, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18511
 Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 papildymo 11-1 straipsniu įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-247, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08857
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 11-1 straipsnio pakeitimo įstatymas
