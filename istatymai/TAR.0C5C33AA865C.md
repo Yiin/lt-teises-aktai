@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2020-07-04 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-11-21
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -37,9 +37,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis 
 
 
-1. Šis įstatymas nustato su gamtinių dujų perdavimu, skirstymu, laikymu, skystinimu, tiekimu, suskystintų gamtinių dujų (toliau – SGD) pakartotiniu dujinimu ir SGD perkrova susijusius santykius. Šiame įstatyme įtvirtinamos taisyklės, susijusios su gamtinių dujų sektoriaus organizavimu ir funkcionavimu, gamtinių dujų patekimu į rinką, taip pat gamtinių dujų perdavimo, skirstymo, laikymo, SGD pakartotinio dujinimo ir tiekimo licencijų, licencijų verstis rinkos operatoriaus veikla išdavimo kriterijai ir tvarka. Šis įstatymas taip pat nustato priemones, skirtas tinkamam gamtinių dujų tiekimo patikimumo lygiui užtikrinti ir bendrajai Europos Sąjungos vidaus rinkai kurti. Šio įstatymo nuostatos, taikomos veiklai, susijusiai su gamtinėmis dujomis, įskaitant SGD, taip pat nediskriminuojant taikomos ir veiklai, susijusiai su biodujomis, iš biomasės pagamintomis dujomis ar kitų rūšių dujomis, jeigu tik šias dujas galima techniškai ir saugiai įleisti į gamtinių dujų sistemą ir ja transportuoti. Šio įstatymo nuostatos netaikomos biodujų gamybos skatinimo priemonėms, nustatytoms Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme. 
+1. Šis įstatymas nustato su gamtinių dujų perdavimu, skirstymu, laikymu, skystinimu, tiekimu, suskystintų gamtinių dujų (toliau – SGD) pakartotiniu dujinimu ir SGD perkrova susijusius santykius. Šiame įstatyme įtvirtinamos taisyklės, susijusios su gamtinių dujų sektoriaus organizavimu ir funkcionavimu, gamtinių dujų patekimu į rinką, taip pat gamtinių dujų perdavimo, skirstymo, laikymo, SGD pakartotinio dujinimo ir tiekimo licencijų, licencijų verstis rinkos operatoriaus veikla išdavimo kriterijai ir tvarka. Šis įstatymas taip pat nustato priemones, skirtas tinkamam gamtinių dujų tiekimo patikimumo lygiui užtikrinti ir bendrajai Europos Sąjungos vidaus rinkai kurti. Šio įstatymo nuostatos, taikomos veiklai, susijusiai su gamtinėmis dujomis, įskaitant SGD, taip pat nediskriminuojant taikomos ir veiklai, susijusiai su biodujomis, iš biomasės pagamintomis dujomis ar kitų rūšių dujomis, jeigu tik šias dujas galima techniškai ir saugiai įleisti į gamtinių dujų sistemą ir ja transportuoti. Šio įstatymo nuostatos, susijusios su įrenginių prijungimo išlaidomis, netaikomos biodujų gamybos įrenginiams. Apmokėjimai už biodujų gamybos įrenginių prijungimą atliekami Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo nustatyta tvarka.
 Straipsnio dalies pakeitimai:
 Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
+Nr. XIV-198, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07416
  
 
 
@@ -4341,3 +4342,8 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 31 ir 37-1 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 7, 9, 45, 46, 51, 53 straipsnių ir priedo pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-198, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07416
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 1 straipsnio pakeitimo įstatymas
