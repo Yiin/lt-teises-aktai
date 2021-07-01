@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.A92E17FDCD13"
 
 # Lietuvos Respublikos medžioklės įstatymas
 
-Suvestinė redakcija nuo 2021-05-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 65-2634; Žin. 2002, Nr.112-0, i. k. 1021010ISTA00IX-966
  
@@ -1243,7 +1243,10 @@ Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
 
 
 
-3. Administracinių nusižengimų bylas dėl Medžioklės Lietuvos Respublikos teritorijoje taisyklių ir kitų medžioklę reglamentuojančių teisės aktų pažeidimo Administracinių nusižengimų kodekso nustatyta tvarka nagrinėja ir teisę medžioti atima valstybiniai aplinkos apsaugos inspektoriai, valstybiniai miškų pareigūnai ir valstybiniai saugomų teritorijų pareigūnai.
+3. Administracinių nusižengimų bylas dėl Medžioklės Lietuvos Respublikos teritorijoje taisyklių ir kitų medžioklę reglamentuojančių teisės aktų pažeidimo Administracinių nusižengimų kodekso nustatyta tvarka nagrinėja ir teisę medžioti atima aplinkos apsaugos valstybinės kontrolės pareigūnai.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3200, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15393
+ 
 
 
 
@@ -1511,7 +1514,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
 
 
