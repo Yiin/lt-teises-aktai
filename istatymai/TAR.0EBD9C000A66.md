@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/0ebd9c000a6611e9a5eaf2cd290f1944"
 
 # Lietuvos Respublikos referendumo įstatymo Nr. IX-929 pakeitimo įstatymas
 
-Suvestinė redakcija nuo 2019-02-15 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01
  
 Įstatymas paskelbtas: TAR 2018-12-28, i. k. 2018-21715
+ 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos referendumo įstatymas (2018 m. gruodžio 20 d. redakcija; TAR, 2018-12-28, Nr. 21715) pagal priėmimo tvarką prieštarauja Lietuvos Respublikos Konstitucijos 69 straipsnio 3 daliai, konstituciniam teisinės valstybės principui, o pagal formą – Lietuvos Respublikos konstitucinių įstatymų sąrašo konstitucinio įstatymo 2 straipsnio 1 dalies (2014 m. spalio 9 d. redakcija) 5 punktui.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT135-N11/2020, 2020-07-30, paskelbta TAR 2021-07-01, i. k. 2021-14847
+Dėl Lietuvos Respublikos referendumo įstatymo (2018 m. gruodžio 20 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai ir konstituciniam įstatymui
  
  
  
@@ -1348,4 +1353,9 @@ Pakeitimai:
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT8-N2/2019, 2019-02-15, paskelbta TAR 2019-02-15, i. k. 2019-02373
 Dėl Lietuvos Respublikos referendumo įstatymo (2018 m. gruodžio 20 d. redakcija) 18 straipsnio 8 dalies, 45 straipsnio 1 dalies, 52 straipsnio 1 dalies, 53 straipsnio 2 dalies, 81 straipsnio 1 dalies, 82 straipsnio ir Lietuvos Respublikos Seimo 2018 m. spalio 18 d. nutarimo Nr. XIII-1537 „Dėl privalomojo referendumo dėl Lietuvos Respublikos Konstitucijos 12 straipsnio pakeitimo paskelbimo“ 2 straipsnio atitikties Lietuvos Respublikos Konstitucijai
+ 
+2.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT135-N11/2020, 2020-07-30, paskelbta TAR 2021-07-01, i. k. 2021-14847
+Dėl Lietuvos Respublikos referendumo įstatymo (2018 m. gruodžio 20 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai ir konstituciniam įstatymui
 
