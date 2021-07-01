@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS INFORMACINIŲ IŠTEKLIŲ VALDYMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2020-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 163-7739, i. k. 1111010ISTA0XI-1807
  
@@ -1736,10 +1736,11 @@ Nr. XIII-848, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20329
 
 
 
-4. Sąnaudos, kurias registro tvarkytojas patyrė dėl išrašų, pažymų ir kitų dokumentų, dokumentų kopijų ir (arba) informacijos rengimo, teikimo ir perdavimo susijusiems registrams, valstybės informacinėms sistemoms, valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti, už kuriuos iš kitų subjektų imamas atlyginimas (toliau – neatlygintino duomenų teikimo sąnaudos), finansuojamos iš šiam registro tvarkytojui skiriamų valstybės biudžeto lėšų. Vyriausybės nustatyta tvarka valstybės biudžeto lėšos registro tvarkytojui jo prašymu gali būti išmokamos vieną kartą, kompensuojant visas per praėjusius kalendorinius metus patirtas neatlygintino duomenų teikimo sąnaudas, arba dalimis, kompensuojant dalį per einamuosius metus patirtų neatlygintino duomenų teikimo sąnaudų, o likusią jų dalį kompensuojant tik šioje dalyje nustatyta tvarka patikrinus visų per praėjusius kalendorinius metus registro tvarkytojo patirtų neatlygintino duomenų teikimo sąnaudų pagrįstumą. Vyriausybės nustatyta tvarka registro tvarkytojas per 2 mėnesius nuo kalendorinių metų pabaigos Vyriausybės įgaliotai institucijai pateikia auditoriaus arba audito įmonės patikrintus duomenis apie per praėjusius kalendorinius metus patirtas neatlygintino duomenų teikimo sąnaudas, apskaičiuotas remiantis Vyriausybės nustatyta tvarka apskaičiuotais ir patvirtintais atlyginimo už duomenų teikimą dydžiais. Vyriausybės įgaliota institucija per 30 darbo dienų nuo registro tvarkytojo pateiktų duomenų apie patirtas neatlygintino duomenų teikimo sąnaudas kartu su auditoriaus patikrinimo ataskaita gavimo dienos įvertina registro tvarkytojo nurodytų neatlygintino duomenų teikimo sąnaudų, kurias prašoma atlyginti iš valstybės biudžeto lėšų, pagrįstumą ir pateikia išvadą registro tvarkytojui. Šioje dalyje nurodytos registro tvarkytojo neatlygintino duomenų teikimo sąnaudos patikrinamos auditoriaus ar audito įmonės registro tvarkytojo lėšomis. Jeigu Vyriausybės įgaliota institucija nustato, kad registro tvarkytojo pateiktos vertinti neatlygintino duomenų teikimo sąnaudos yra nepagrįstos, registro tvarkytojas privalo per 10 darbo dienų pateikti patikslintą informaciją. Nepatikslinus informacijos, kompensuojamos tik tinkamai apskaičiuotos ir pagrįstos sąnaudos. 
+4. Sąnaudos, kurias registro tvarkytojas patyrė dėl išrašų, pažymų ir kitų dokumentų, dokumentų kopijų ir (arba) informacijos, už kuriuos iš kitų subjektų imamas atlyginimas, rengimo, teikimo ir perdavimo susijusiems registrams, valstybės informacinėms sistemoms, valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti ar kitiems įstatymų numatytiems fiziniams ar juridiniams asmenims (toliau – neatlygintino duomenų teikimo sąnaudos), finansuojamos iš šiam registro tvarkytojui skiriamų valstybės biudžeto lėšų. Vyriausybės nustatyta tvarka valstybės biudžeto lėšos registro tvarkytojui jo prašymu gali būti išmokamos vieną kartą, kompensuojant visas per praėjusius kalendorinius metus patirtas neatlygintino duomenų teikimo sąnaudas, arba dalimis, kompensuojant dalį per einamuosius metus patirtų neatlygintino duomenų teikimo sąnaudų, o likusią jų dalį kompensuojant tik šioje dalyje nustatyta tvarka patikrinus visų per praėjusius kalendorinius metus registro tvarkytojo patirtų neatlygintino duomenų teikimo sąnaudų pagrįstumą. Vyriausybės nustatyta tvarka registro tvarkytojas per 2 mėnesius nuo kalendorinių metų pabaigos Vyriausybės įgaliotai institucijai pateikia auditoriaus arba audito įmonės patikrintus duomenis apie patirtas per praėjusius kalendorinius metus neatlygintino duomenų teikimo sąnaudas, apskaičiuotas remiantis Vyriausybės nustatyta tvarka apskaičiuotais ir patvirtintais atlyginimo už duomenų teikimą dydžiais. Vyriausybės įgaliota institucija per 30 darbo dienų nuo registro tvarkytojo pateiktų duomenų apie patirtas neatlygintino duomenų teikimo sąnaudas kartu su auditoriaus patikrinimo ataskaita gavimo dienos įvertina registro tvarkytojo nurodytų neatlygintino duomenų teikimo sąnaudų, kurias prašoma atlyginti iš valstybės biudžeto lėšų, pagrįstumą ir pateikia išvadą registro tvarkytojui. Šioje dalyje nurodytos registro tvarkytojo neatlygintino duomenų teikimo sąnaudos patikrinamos auditoriaus ar audito įmonės registro tvarkytojo lėšomis. Jeigu Vyriausybės įgaliota institucija nustato, kad registro tvarkytojo pateiktos vertinti neatlygintino duomenų teikimo sąnaudos yra nepagrįstos, jis privalo per 10 darbo dienų pateikti patikslintą informaciją. Nepatikslinus informacijos, kompensuojamos tik tinkamai apskaičiuotos ir pagrįstos sąnaudos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-848, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20329
 Nr. XIII-2280, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12171
+Nr. XIV-250, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08864
  
 
 
@@ -2834,3 +2835,8 @@ Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. X
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2539, 2019-11-26, paskelbta TAR 2019-12-06, i. k. 2019-19760
 Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 19, 31 ir 43 straipsnių pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-250, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08864
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 29 straipsnio pakeitimo įstatymas
