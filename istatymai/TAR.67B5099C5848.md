@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-07-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -3983,7 +3983,6 @@ Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
 
 3. Dėl teismo nutarties palikti skundą (prašymą, pareiškimą) nenagrinėtą gali būti duodamas atskirasis skundas. 
  
- 
 
 
 
@@ -4145,7 +4144,10 @@ AKTŲ TEISĖTUMĄ
 112 straipsnis. Abstraktus pareiškimas ištirti norminio administracinio akto teisėtumą 
 
 
-1. Kreiptis į administracinį teismą prašydami ištirti, ar norminis administracinis aktas (ar jo dalis) atitinka įstatymą ar Vyriausybės norminį teisės aktą, turi teisę Seimo nariai, Seimo kontrolieriai, vaiko teisių apsaugos kontrolierius, lygių galimybių kontrolierius, Lietuvos Respublikos valstybės kontrolės pareigūnai, bendrosios kompetencijos ir specializuoti teismai, prokurorai ir profesinės savivaldos asociacijos, įsteigtos pagal įstatymą vykdyti viešąsias funkcijas. Nurodyti subjektai taip pat turi teisę kreiptis į administracinį teismą prašydami ištirti konkrečios bendrijos, politinės partijos, politinės organizacijos ar asociacijos priimto bendro pobūdžio teisės akto teisėtumą. Šioje dalyje nurodyti subjektai, išskyrus bendrosios kompetencijos ir specializuotus teismus, kreipiasi į administracinį teismą su pareiškimu. Bendrosios kompetencijos ir specializuoti teismai prašymą ištirti norminio administracinio akto teisėtumą išdėsto nutartyje.
+1. Kreiptis į administracinį teismą prašydami ištirti, ar norminis administracinis aktas (ar jo dalis) atitinka įstatymą ar Vyriausybės norminį teisės aktą, turi teisę Seimo nariai, Seimo kontrolieriai, vaiko teisių apsaugos kontrolierius, lygių galimybių kontrolierius, valstybės kontrolierius, bendrosios kompetencijos ir specializuoti teismai, prokurorai ir profesinės savivaldos asociacijos, įsteigtos pagal įstatymą vykdyti viešąsias funkcijas. Nurodyti subjektai taip pat turi teisę kreiptis į administracinį teismą prašydami ištirti konkrečios bendrijos, politinės partijos, politinės organizacijos ar asociacijos priimto bendro pobūdžio teisės akto teisėtumą. Šioje dalyje nurodyti subjektai, išskyrus bendrosios kompetencijos ir specializuotus teismus, kreipiasi į administracinį teismą su pareiškimu. Bendrosios kompetencijos ir specializuoti teismai prašymą ištirti norminio administracinio akto teisėtumą išdėsto nutartyje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-136, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00257
+ 
 
 
 
@@ -7018,3 +7020,8 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 2, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3221, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15516
 Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 156 straipsnio pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-136, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00257
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 112 straipsnio pakeitimo įstatymas
