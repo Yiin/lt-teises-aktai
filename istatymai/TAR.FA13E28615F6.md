@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.FA13E28615F6"
 
 # Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-07-16
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 10-236, i. k. 1001010ISTAIII-1524
  
@@ -278,7 +278,10 @@ Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
 
 
 
-2) nuasmeninta informacija apie Lietuvos Respublikos valstybės kontrolieriaus ir jo pavaduotojų sprendimus dėl institucijos pagal valstybinio audito ataskaitas, taip pat apie sprendimuose nurodytų teisės aktų pažeidimų pašalinimą, nurodymų, teikimų ir siūlymų vykdymą;
+2) Neteko galios nuo 2021-07-01
+Straipsnio punkto naikinimas:
+Nr. XIV-145, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00267
+ 
 
 
 
@@ -966,6 +969,7 @@ SEIMO PIRMININKAS                               �
 
 
 
+ 
 Lietuvos Respublikos 
 teisės gauti informaciją iš valstybės 
 ir savivaldybių institucijų ir įstaigų
@@ -1055,3 +1059,8 @@ Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2988, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12820
 Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 1, 18 straipsnių pakeitimo ir III skyriaus pripažinimo netekusiu galios įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-145, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00267
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 5 straipsnio pakeitimo įstatymas
