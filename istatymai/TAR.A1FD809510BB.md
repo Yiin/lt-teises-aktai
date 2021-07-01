@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2020-11-19 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-03
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
  
@@ -451,9 +451,17 @@ Nr. XII-1700, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08122
 
 
 
-3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis. 
+3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis;
 Straipsnio punkto pakeitimai:
 Nr. XIII-851, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20334
+ 
+
+
+
+
+4) teikiama žurnalistams Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
+Papildyta straipsnio punktu:
+Nr. XIV-244, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08851
  
 
 
@@ -1836,7 +1844,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ 
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ 
  
 
 
@@ -1873,3 +1881,8 @@ Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3359, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24247
 Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 7 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-244, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08851
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1 straipsnio pakeitimo įstatymas
