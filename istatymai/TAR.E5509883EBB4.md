@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-10-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
  
@@ -1107,19 +1107,9 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 
 
 
-19. Lietuvos Respublikoje draudžiama skatinti dalyvauti lošimuose šiais būdais:
-
-
-1) suteikti teisę lošėjui iš karto ar per tam tikrą terminą po dalyvavimo lošimuose gauti dovanų iš lošimų organizatoriaus;
-
-
-
-
-2) ne lošimų organizavimo vietose ar lošimų organizatoriaus interneto svetainėje organizuoti žaidimus ar konkursus, bandomuosius lošimus, loterijas ir kitus renginius, kurie skatintų dalyvauti lošimuose, įskaitant nuotolinius lošimus.
-
-
-Papildyta straipsnio dalimi:
-Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
+19. Lietuvos Respublikoje draudžiama skatinti dalyvauti lošimuose – bet kuria forma ir bet kokiomis priemonėmis skleisti informaciją ar atlikti įtikinėjimo veiksmus, įskaitant paties lošimo organizatoriaus organizuojamus specialius renginius, bandomuosius lošimus, akcijas, nuolaidas, dovanas ir panašaus pobūdžio skatinamąsias priemones, skatinančius dalyvauti lošimuose ar nuotoliniuose lošimuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-337, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12786
  
 
 
@@ -3430,4 +3420,9 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 4, 6, 10, 10-2, 11
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2871, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09590
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 10 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-337, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12786
 Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 10 straipsnio pakeitimo įstatymas
