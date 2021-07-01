@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2021-01-02 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-07-14
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -2430,7 +2430,10 @@ Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
 2. Mero pavaduotojas prieš terminą netenka savo įgaliojimų savivaldybės tarybos sprendimu, jeigu už tai balsuoja visų savivaldybės tarybos narių dauguma:
 
 
-1) Vyriausybės arba Valstybės kontrolės siūlymu už įstatymų ar kitų teisės aktų pažeidimus, dėl kurių padaryta esminės žalos valstybės ar savivaldybės interesams ir nuosavybei;
+1) Vyriausybės siūlymu už įstatymų ar kitų teisės aktų pažeidimus, dėl kurių padaryta esminės žalos valstybės ar savivaldybės interesams ir nuosavybei; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-143, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00265
+ 
 
 
 
@@ -3298,7 +3301,10 @@ TAR pastaba. 27 straipsnio 8 dalyje nustatyti reikalavimai taikomi asmenims, kur
 
 
 
-6) valstybės kontrolieriaus rašytiniu prašymu gali dalyvauti ar pavesti savivaldybės kontrolės ir audito tarnybos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, pagal jų kompetenciją dalyvauti Valstybės kontrolės pareigūnų atliekamuose savivaldybės administravimo subjektų finansiniuose ir veiklos audituose;
+6) valstybės kontrolieriaus rašytiniu prašymu gali dalyvauti ar pavesti savivaldybės kontrolės ir audito tarnybos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, pagal jų kompetenciją dalyvauti Valstybės kontrolės atliekamuose savivaldybės administravimo subjektų finansiniuose, atitikties ir veiklos audituose; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-143, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00265
+ 
 
 
 
@@ -3368,7 +3374,10 @@ TAR pastaba. 27 straipsnio 8 dalyje nustatyti reikalavimai taikomi asmenims, kur
 
 
 
-20) sudaro sąlygas Valstybės kontrolės pareigūnams dalyvauti atliekant savivaldybės konsoliduotųjų ataskaitų rinkinio auditą tokiu mastu, kad Valstybės kontrolės pareigūnai surinktų tinkamus ir pakankamus įrodymus, reikalingus išvadai dėl nacionalinio finansinių ataskaitų rinkinio parengti, ir teikia Valstybės kontrolei duomenis apie savivaldybės konsoliduotųjų ataskaitų rinkinio audito rezultatus.
+20) sudaro sąlygas Valstybės kontrolei dalyvauti atliekant savivaldybės konsoliduotųjų ataskaitų rinkinio auditą tokiu mastu, kad Valstybės kontrolė surinktų tinkamus ir pakankamus įrodymus, reikalingus išvadai dėl nacionalinio finansinių ataskaitų rinkinio parengti, ir teikia Valstybės kontrolei duomenis apie savivaldybės konsoliduotųjų ataskaitų rinkinio audito rezultatus. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-143, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00265
+ 
 
 
 
@@ -4914,9 +4923,10 @@ Nr. XII-460, 2013-07-02, Žin., 2013, Nr. 79-3981 (2013-07-23)
 
 
 
-6. Prireikus valstybės kontrolieriaus sprendimu Valstybės kontrolė gali atlikti savivaldybių, taip pat savivaldybių įstaigų ir savivaldybių valdomų įmonių finansinį (teisėtumo) ir veiklos auditą.
+6. Prireikus valstybės kontrolieriaus sprendimu Valstybės kontrolė gali atlikti savivaldybių, taip pat savivaldybių įstaigų ir savivaldybių valdomų įmonių finansinį, atitikties ir veiklos auditą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
+Nr. XIV-143, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00265
  
 
 
@@ -5915,3 +5925,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 4, 7, 12, 13, 14, 15,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-94, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28943
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 11, 19, 25 ir 29 straipsnių pakeitimo įstatymas
+ 
+55.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-143, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00265
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 19, 27 ir 51 straipsnių pakeitimo įstatymas
