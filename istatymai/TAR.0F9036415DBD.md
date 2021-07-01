@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-04-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 107-0; Žin. 1991, Nr.17-447, i. k. 0911010ISTA00I-1336
  
@@ -2548,9 +2548,10 @@ Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 
 
 
-2. Skundai Fondo valdybai dėl Fondo valdybos teritorinių skyrių sprendimų ir veiksmų (neveikimo) nagrinėjami, jeigu jie pateikti per 20 darbo dienų nuo tos dienos, kurią suinteresuotas asmuo sužinojo arba turėjo sužinoti apie skundžiamo veiksmo atlikimą (neatlikimą) ar sprendimo priėmimą, o skundai dėl nepriimto sprendimo – per 20 darbo dienų nuo tos dienos, kurią baigėsi sprendimui priimti nustatytas terminas. Skundai dėl sprendimų pensijų, rentų, šalpos išmokų ir pagal Lietuvos Respublikos profesionaliojo scenos meno įstatymą mokamų kompensacinių išmokų kūrybiniams darbuotojams skyrimo ir (ar) mokėjimo klausimais nagrinėjami, jeigu jie pateikti per 6 mėnesius nuo tos dienos, kurią suinteresuotas asmuo sužinojo arba turėjo sužinoti apie skundžiamo sprendimo priėmimą, o skundai dėl nepriimto sprendimo – per 20 darbo dienų nuo tos dienos, kurią baigėsi sprendimui priimti nustatytas terminas. Skundui paduoti nustatytas terminas, praleistas dėl svarbių priežasčių, kurias asmuo pagrindžia atitinkamais dokumentais, Fondo valdybos direktoriaus ar jo pavaduotojo sprendimu gali būti atnaujinamas. Skundų nagrinėjimo tvarką Fondo valdyboje nustato Fondo valdybos direktorius. 
+2. Skundai Fondo valdybai dėl Fondo valdybos teritorinių skyrių sprendimų ir veiksmų (neveikimo) nagrinėjami, jeigu jie pateikti per 20 darbo dienų nuo tos dienos, kurią suinteresuotas asmuo sužinojo arba turėjo sužinoti apie skundžiamo veiksmo atlikimą (neatlikimą) ar sprendimo priėmimą, o skundai dėl nepriimto sprendimo – per 20 darbo dienų nuo tos dienos, kurią baigėsi sprendimui priimti nustatytas terminas. Skundai dėl sprendimų pensijų, rentų, šalpos išmokų, vienišo asmens išmokų ir pagal Lietuvos Respublikos profesionaliojo scenos meno įstatymą mokamų kompensacinių išmokų kūrybiniams darbuotojams skyrimo ir (ar) mokėjimo klausimais nagrinėjami, jeigu jie pateikti per 6 mėnesius nuo tos dienos, kurią suinteresuotas asmuo sužinojo arba turėjo sužinoti apie skundžiamo sprendimo priėmimą, o skundai dėl nepriimto sprendimo – per 20 darbo dienų nuo tos dienos, kurią baigėsi sprendimui priimti nustatytas terminas. Skundui paduoti nustatytas terminas, praleistas dėl svarbių priežasčių, kurias asmuo pagrindžia atitinkamais dokumentais, Fondo valdybos direktoriaus ar jo pavaduotojo sprendimu gali būti atnaujinamas. Skundų nagrinėjimo Fondo valdyboje tvarką nustato Fondo valdybos direktorius.
 Straipsnio dalies pakeitimai:
 Nr. XIII-883, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21484
+Nr. XIV-357, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13160
  
 
 
@@ -3306,3 +3307,8 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6, 10,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-124, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28980
 Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 12 ir 19 straipsnių pakeitimo įstatymo Nr. XIII-3011 pakeitimo įstatymas
+ 
+35.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-357, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13160
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 41 straipsnio pakeitimo įstatymas
