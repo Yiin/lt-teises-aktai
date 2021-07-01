@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.56935A08DD06"
 
 # Lietuvos Respublikos jūros aplinkos apsaugos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2022-01-31
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 108-2731, i. k. 0971010ISTAVIII-512
  
@@ -176,12 +176,26 @@ Nr. XIII-2315, 2019-07-11, paskelbta TAR 2019-07-24, i. k. 2019-12188
 
 
 
-14. Laivų krovinių liekanos – iškrovus ir išvalius laivus krovinių triumuose arba cisternose likusios krovinių liekanos, taip pat nutekėję iš triumų ar cisternų skysčiai. Prie krovinių liekanų priskiriami krovinių triumų ir cisternų plovimo vandenys, balastiniai vandenys, jeigu juose yra krovinių liekanų.
+131. Laivų atliekos – visos į Tarptautinės konvencijos dėl teršimo iš laivų prevencijos (toliau – MARPOL konvencija) I, II, IV, V ir VI priedų taikymo sritį patenkančios atliekos, įskaitant laivų krovinių liekanas, susidarančios eksploatuojant arba pakraunant, iškraunant ir valant laivus, taip pat į žvejybos tinklus patenkančios atliekos (atsitiktinai sužvejotos atliekos). 
+Papildyta straipsnio dalimi:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
+ 
 
 
 
 
-15. Laivuose susidarančios atliekos – visos eksploatuojant laivus susidarančios atliekos, įskaitant naftos atliekas iš mašinų skyriaus, nuotekas ir šiukšles, kaip nustatyta 1973 m. Tarptautinės konvencijos dėl teršimo iš laivų prevencijos, papildytos 1978 m. protokolu (toliau – MARPOL 73/78), I, IV, V prieduose, tvarkant (kraunant, sandėliuojant) krovinį susidarančios papildomos atliekos – paklotai, padėklai ir pakavimo medžiagos, fanera, popierius, kartonas, vielos ir plieninės juostos.
+14. Laivų krovinių liekanos – pakrovus ar iškrovus laivus, deniuose arba krovinių triumuose ar cisternose likusios krovinių medžiagų liekanos, įskaitant pakrovos ar iškrovos perteklių arba skysčių sankaupas. Šios liekanos gali būti šlapios, sausos ar patekusios į plovimo nuotekas ir neapima po valymo denyje likusių krovinio dulkių arba dulkių ant laivo išorės paviršių. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
+ 
+
+
+
+
+15. Neteko galios nuo 2021-07-01
+Straipsnio dalies naikinimas:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
+ 
 
 
 
@@ -229,7 +243,10 @@ Nr. XIII-3113, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15324
 
 
 
-24. Uosto priėmimo įrenginys – stacionarus, plūdrus arba mobilus uosto įrenginys, galintis priimti laivuose susidarančias atliekas ir laivų krovinių liekanas.
+24. Uosto priėmimo įrenginys – stacionarusis, plūdrusis arba mobilusis uosto įrenginys laivų atliekoms priimti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
+ 
 
 
 
@@ -387,10 +404,12 @@ Susisiekimo ministras, vadovaudamasis šiuo įstatymu, Saugios laivybos įstatym
 8 straipsnis. Tarptautinių reikalavimų vykdymo užtikrinimas
 
 
-Laivai, plaukiojantys su Lietuvos Respublikos valstybės vėliava, turi būti eksploatuojami laikantis MARPOL 73/78, Helsinkio konvencijos ir kitų Lietuvos Respublikos tarptautinių sutarčių bei Europos Sąjungos teisės aktų, reglamentuojančių taršos iš laivų prevenciją, šio įstatymo ir šio įstatymo pagrindu priimtų teisės aktų nustatytų reikalavimų.
+Laivai, plaukiojantys su Lietuvos Respublikos valstybės vėliava, turi būti eksploatuojami laikantis MARPOL konvencijos, Helsinkio konvencijos ir kitų Lietuvos Respublikos tarptautinių sutarčių bei Europos Sąjungos teisės aktų, reglamentuojančių taršos iš laivų prevenciją, šio įstatymo ir šio įstatymo pagrindu priimtų teisės aktų nustatytų reikalavimų. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
  
-
-
 
 
 
@@ -398,7 +417,10 @@ Laivai, plaukiojantys su Lietuvos Respublikos valstybės vėliava, turi būti ek
 9 straipsnis. Teršiančių medžiagų išmetimas
 
 
-1. Lietuvos Respublikos jūros rajone ar už jo ribų teršiančios medžiagos gali būti išmetamos tik vadovaujantis šio įstatymo, MARPOL 73/78 ir Helsinkio konvencijos reikalavimais.
+1. Lietuvos Respublikos jūros rajone ar už jo ribų teršiančios medžiagos gali būti išmetamos tik vadovaujantis šio įstatymo, MARPOL konvencijos ir Helsinkio konvencijos reikalavimais. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
+ 
 
 
 
@@ -425,10 +447,12 @@ Susisiekimo ministras kartu su aplinkos ministru ir sveikatos apsaugos ministru,
 11 straipsnis. Taršos iš įrenginių prevencija
 
 
-Lietuvos Respublikos jūros rajone esantys įrenginiai turi būti eksploatuojami taip, kad būtų išvengta neigiamo poveikio jūros aplinkai. Angliavandenilių ir kitų žemės gelmių išteklių tyrimo (paieškos ir žvalgybos) ir naudojimo (gavybos) metu įrenginiuose susidarančios atliekos ir nuotekos turi būti tvarkomos sausumoje ar įrenginiuose vadovaujantis geriausiais prieinamais gamybos būdais ir praktika, MARPOL 73/78 reikalavimais, išvengiant teršiančių medžiagų išmetimo į jūros aplinką.
+Lietuvos Respublikos jūros rajone esantys įrenginiai turi būti eksploatuojami taip, kad būtų išvengta neigiamo poveikio jūros aplinkai. Angliavandenilių ir kitų žemės gelmių išteklių tyrimo (paieškos ir žvalgybos) ir naudojimo (gavybos) metu įrenginiuose susidarančios atliekos ir nuotekos turi būti tvarkomos sausumoje ar įrenginiuose vadovaujantis geriausiais prieinamais gamybos būdais ir praktika, MARPOL konvencijos reikalavimais, išvengiant teršiančių medžiagų išmetimo į jūros aplinką. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
  
-
-
 
 
 
@@ -497,49 +521,75 @@ Nr. XII-2303, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10408
 
 
 KETVIRTASIS SKIRSNIS
-LAIVUOSE SUSIDARANČIŲ ATLIEKŲ IR LAIVŲ KROVINIŲ LIEKANŲ TVARKYMAS
+LAIVŲ ATLIEKŲ TVARKYMAS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
  
 
 
-15 straipsnis. Uosto priėmimo įrenginiai
+15 straipsnis. Uosto priėmimo įrenginiai 
 
 
-1. Uostų administracijos, krovos kompanijos, laivų remonto ir statybos įmonės privalo užtikrinti, kad uostuose būtų prieinami laivuose susidarančių atliekų ir laivų krovinių liekanų priėmimo įrenginiai, kurie turėtų atitikti laivų, kurie naudojasi uostais, reikmes, ir kad laivai, kurie naudojasi šiais įrenginiais, nebūtų gaišinami.
-
-
-
-
-2. Uosto priėmimo įrenginiai turi būti tinkami, kad iš laivų, kurie naudojasi tuo uostu, galėtų priimti laivuose susidarančių atliekų ir laivų krovinių liekanų kiekį ir rūšis, atsižvelgiant į uosto naudotojų veiklos reikmes, uosto dydį ir geografinę padėtį, į uostą užsukančių laivų tipus ir šio įstatymo 18 straipsnyje nustatytas išimtis.
- 
+1. Uostų administracijos, krovos kompanijos, laivų remonto ir statybos įmonės privalo užtikrinti, kad uostuose būtų prieinami laivų atliekų priėmimo įrenginiai, kurie turėtų atitikti laivų, kurie naudojasi uostais, reikmes, ir kad laivai, kurie naudojasi šiais įrenginiais, nebūtų nepagrįstai gaišinami.
 
 
 
 
+2. Uosto priėmimo įrenginiai turi būti tinkami, kad iš laivų, kurie naudojasi uostu, galėtų priimti reikiamą kiekį atitinkamų rūšių laivų atliekų, atsižvelgiant į uosto naudotojų veiklos reikmes, uosto dydį ir geografinę padėtį, į uostą užsukančių laivų tipus ir šio įstatymo 18 straipsnyje nustatytas išimtis. 
 
 
-16 straipsnis. Laivuose susidarančių atliekų pristatymas
-
-
-1. Į uostą atplaukusio laivo kapitonas, prieš išplaukdamas iš uosto, visas laive susidarančias atliekas pristato į uosto priėmimo įrenginius, išskyrus atvejus, kai iš pateikiamos informacijos paaiškėja, kad laive susidarančioms atliekoms skirta talpykla yra pakankama laikyti visoms laive susidarančioms atliekoms, susikaupusioms ir susikaupsiančioms laivui plaukiant numatomu maršrutu iki pristatymo uosto.
-
-
-
-
-2. Jeigu yra pakankamas pagrindas manyti, kad numatomame pristatymo uoste tinkami uosto priėmimo įrenginiai neprieinami, arba jeigu tas uostas nežinomas ir dėl to yra pavojus, kad atliekos gali būti išmestos į jūrą, uosto administracija imasi priemonių užkirsti kelią jūros aplinkos teršimui reikalaudama, kad prieš išplaukdamas iš uosto laivo kapitonas pristatytų atliekas į uosto priėmimo įrenginius, išskyrus šio straipsnio 1 dalyje nurodytus atvejus.
+Straipsnio pakeitimai:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
  
 
 
 
 
+151 straipsnis. Laivo teikiami pranešimai
 
 
-17 straipsnis. Rinkliava už laivuose susidarančių atliekų priėmimo, tvarkymo paslaugas
+Prieš laivui atplaukiant į uostą, jo valdytojas, agentas ar kapitonas privalo pateikti išankstinį pranešimą apie laivo atliekas to uosto administracijai. 
 
 
-Rinkliava už laivuose susidarančių atliekų priėmimo, tvarkymo paslaugas yra įskaitoma į jūrų uosto sanitarinę rinkliavą, neatsižvelgiant į tai, ar laivas pristatė atliekas, ar ne.
+Papildyta straipsniu:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
  
 
 
+
+
+16 straipsnis. Laivų atliekų pristatymas
+
+
+1. Į uostą atplaukusio laivo kapitonas, laikydamasis MARPOL konvencijoje laivų atliekų išmetimo į jūrą normoms nustatytų reikalavimų, prieš išplaukdamas iš uosto pristato visas laivo atliekas į uosto priėmimo įrenginius, išskyrus atvejus, kai iš pateikiamos informacijos paaiškėja, kad laivo atliekoms skirtos talpyklos tūris yra pakankamas visoms laivo atliekoms, susikaupusioms ir susikaupsiančioms laivui plaukiant numatomu maršrutu iki pristatymo uosto, laikyti, arba laivo įplaukimo į inkaravimo vietą trukmė yra trumpesnė kaip 24 valandos ar įplaukiama nepalankiomis oro sąlygomis (šis reikalavimas netaikomas, kai inkaravimo vieta nepriskiriama uostui).
+
+
+
+
+2. Jeigu yra pakankamas pagrindas manyti, kad numatomame pristatymo uoste tinkami uosto priėmimo įrenginiai neprieinami, arba jeigu tas uostas nežinomas, uosto administracija imasi priemonių užkirsti kelią jūros aplinkos teršimui reikalaudama, kad prieš išplaukdamas iš uosto laivo kapitonas pristatytų laivo atliekas į uosto priėmimo įrenginius. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
+ 
+
+
+
+
+17 straipsnis. Rinkliava už laivų atliekų priėmimo, tvarkymo paslaugas ir išlaidos už laivų krovinių liekanų ir išmetamųjų dujų valymo sistemų atliekų pristatymą 
+
+
+1. Rinkliava už laivų atliekų, išskyrus laivų krovinių liekanas ir išmetamųjų dujų valymo sistemų atliekas, priėmimo, tvarkymo paslaugas yra įskaitoma į jūrų uosto sanitarinę rinkliavą, neatsižvelgiant į tai, ar laivas pristatė atliekas, ar ne.
+
+
+
+
+2. Visas laivų krovinių liekanų ir išmetamųjų dujų valymo sistemų atliekų pristatymo į uosto priėmimo įrenginius išlaidas sumoka uosto priėmimo įrenginių naudotojas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
+ 
 
 
 
@@ -547,32 +597,33 @@ Rinkliava už laivuose susidarančių atliekų priėmimo, tvarkymo paslaugas yra
 18 straipsnis. Uosto administracijų suteikiamos išimtys
 
 
-Jeigu laivai plaukioja pagal tvarkaraštį, dažnai ir reguliariai užsuka į uostus, jeigu yra pakankamai įrodymų dėl priemonių, užtikrinančių, kad laivuose susidarančios atliekos bus pristatomos ir rinkliavos bus mokamos laivo maršrute esančiame uoste, uostų administracijos gali atleisti tokius laivus nuo šio įstatymo 16 ir 17 straipsniuose nurodytų prievolių.
+Jeigu laivai plaukioja pagal tvarkaraštį, dažnai ir reguliariai įplaukia į uostus, jeigu yra pakankamai įrodymų dėl priemonių, užtikrinančių, kad laivų atliekos bus pristatomos ir rinkliavos bus mokamos viename iš laivo maršrute esančių uostų, ir jeigu uosto administracijų suteikiamos išimtys nedaro neigiamo poveikio saugiai laivybai, laivo įgulos ir (ar) keleivių sveikatai, gyvenimo ar darbo laive sąlygoms arba jūros aplinkai, uostų administracijos gali atleisti tokius laivus nuo šio įstatymo 151, 16 straipsniuose ir 17 straipsnio 1 dalyje nurodytų prievolių. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
  
 
 
 
 
-
-
-19 straipsnis. Laivų krovinių liekanų pristatymas
-
-
-Į uostą atplaukiančio laivo kapitonas privalo užtikrinti, kad laivo krovinių liekanos į uosto priėmimo įrenginius būtų pristatomos vadovaujantis šio įstatymo ir MARPOL 73/78 nuostatomis. Visas išlaidas už laivų krovinių liekanų pristatymą sumoka priėmimo įrenginių naudotojas.
+19 straipsnis. Neteko galios nuo 2021-07-01
+Straipsnio naikinimas:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
  
 
 
 
 
+20 straipsnis. Laivų atliekų tvarkymo reikalavimų įgyvendinimas
 
 
-20 straipsnis. Laivuose susidarančių atliekų ir laivų krovinių liekanų tvarkymo reikalavimų įgyvendinimas
+Šio įstatymo 15–18 straipsniuose nustatytų reikalavimų įgyvendinimo tvarką nustato susisiekimo ministras kartu su aplinkos ministru. 
 
 
-Šio įstatymo 15–19 straipsniuose nustatytų reikalavimų įgyvendinimo tvarką tvirtina susisiekimo ir aplinkos ministrai.
+Straipsnio pakeitimai:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
  
-
-
 
 
 
@@ -841,7 +892,7 @@ AŠTUNTASIS SKIRSNIS
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
  
 
 
@@ -925,31 +976,30 @@ _________________
 
 
  
-Lietuvos Respublikos
-jūros aplinkos apsaugos
-įstatymo
+Lietuvos Respublikos 
+jūros aplinkos apsaugos įstatymo
 3 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2000 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva 2000/59/EB dėl uosto priėmimo įrenginių, skirtų laivuose susidarančioms atliekoms ir krovinių likučiams (OL 2000 L 332, p. 81), su pakeitimais, padarytais Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1).
+1. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB.
 
 
 
 
-2. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 225, p. 11).
+2. 2008 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 2008/56/EB, nustatanti Bendrijos veiksmų jūrų aplinkos politikos srityje pagrindus (Jūrų strategijos pagrindų direktyva), su paskutiniais pakeitimais, padarytais 2017 m. gegužės 17 d. Komisijos direktyva (ES) 2017/845.
 
 
 
 
-3. 2008 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 2008/56/EB, nustatanti Bendrijos veiksmų jūrų aplinkos politikos srityje pagrindus (Jūrų strategijos pagrindų direktyva) (OL 2008 L 164, p. 19), su paskutiniais pakeitimais, padarytais 2017 m. gegužės 17 d. Komisijos direktyva (ES) 2017/845 (OL 2017 L 125, p. 27). 
-Punkto pakeitimai:
-Nr. XIII-2315, 2019-07-11, paskelbta TAR 2019-07-24, i. k. 2019-12188
+3. 2019  m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/883 dėl uosto priėmimo įrenginių, į kuriuos pristatomos laivų atliekos, kuria iš dalies keičiama Direktyva 2010/65/ES ir panaikinama Direktyva 2000/59/EB.
+
+
+Priedo pakeitimai:
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
  
-
-
  
  
 Pakeitimai:
@@ -998,3 +1048,8 @@ Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 3, 4, 5 str
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3113, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15324
 Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 3, 4 ir 6 straipsnių ir antrojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
+Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 3, 8, 9, 11, 15, 16, 17, 18, 20 straipsnių, ketvirtojo skirsnio pavadinimo ir 3 priedo pakeitimo, Įstatymo papildymo 15-1 straipsniu ir 19 straipsnio pripažinimo netekusiu galios įstatymas
