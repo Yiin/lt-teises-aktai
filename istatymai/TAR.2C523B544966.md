@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2C523B544966"
 
 # Lietuvos Respublikos referendumo įstatymas
 
-Suvestinė redakcija nuo 2020-02-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 64-2570, i. k. 1021010ISTA00IX-929
+ 
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos referendumo įstatymas (2018 m. gruodžio 20 d. redakcija; TAR, 2018-12-28, Nr. 21715) pagal priėmimo tvarką prieštarauja Lietuvos Respublikos Konstitucijos 69 straipsnio 3 daliai, konstituciniam teisinės valstybės principui, o pagal formą – Lietuvos Respublikos konstitucinių įstatymų sąrašo konstitucinio įstatymo 2 straipsnio 1 dalies (2014 m. spalio 9 d. redakcija) 5 punktui.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT135-N11/2020, 2020-07-30, paskelbta TAR 2021-07-01, i. k. 2021-14847
+Dėl Lietuvos Respublikos referendumo įstatymo (2018 m. gruodžio 20 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai ir konstituciniam įstatymui
  
 Nauja redakcija nuo 2019-01-01:
 Nr. XIII-1830, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21715
@@ -172,7 +177,6 @@ REFERENDUMO INICIJAVIMAS IR PASKELBIMAS
 8. Jeigu po grupės įregistravimo Vyriausiojoje rinkimų komisijoje dienos iki piliečių parašų rinkimo lapų išdavimo dienos šios grupės narys atšaukia savo parašą dėl prašymo įregistruoti grupę ir šios grupės narių lieka mažiau kaip 15, laikoma, kad piliečių referendumo paskelbimo iniciatyva nutrūko.
 
 9. Vyriausioji rinkimų komisija užtikrina referendumui siūlomo sprendimo atitiktį Konstitucijai ir šio įstatymo 7 straipsnyje nustatytiems reikalavimams. Įvertinusi atitiktį šiems reikalavimams, Vyriausioji rinkimų komisija sprendžia dėl grupės registravimo ir piliečių parašų lapų išdavimo.
- 
 
 12 straipsnis. Piliečių parašų rinkimas
 
@@ -510,7 +514,6 @@ Nr. XIII-2787, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02279
 7. Apylinkių referendumo komisijų pirmininkus iš komisijos narių skiria savivaldybių referendumo komisijos.
 
 8. Apylinkės referendumo komisija pirmame posėdyje išsirenka komisijos pirmininko pavaduotoją ir sekretorių. 
- 
 
 27 straipsnis. Apylinkės referendumo komisijos įgaliojimai 
 
@@ -1448,4 +1451,9 @@ Dėl Lietuvos Respublikos referendumo įstatymo (2018 m. gruodžio 20 d. redakci
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2787, 2020-01-14, paskelbta TAR 2020-01-31, i. k. 2020-02279
 Lietuvos Respublikos referendumo įstatymo Nr. IX-929 11, 12, 17, 19, 20, 23, 26, 33, 35, 39, 40, 41, 45, 50, 51, 53, 54, 56, 58, 59, 60, 61, 63, 67, 69 ir 80 straipsnių pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT135-N11/2020, 2020-07-30, paskelbta TAR 2021-07-01, i. k. 2021-14847
+Dėl Lietuvos Respublikos referendumo įstatymo (2018 m. gruodžio 20 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai ir konstituciniam įstatymui
 
