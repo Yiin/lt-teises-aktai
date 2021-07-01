@@ -20,7 +20,7 @@ Redaguota : 1995 07 21
 
 
 
-Suvestinė redakcija nuo 2021-05-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-10-31
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 63-1188, i. k. 0931010ISTA000I-301
  
@@ -271,9 +271,10 @@ Nr. XIII-2186, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09969
 
 
 
-36. Saugomų teritorijų kontrolė – saugomų teritorijų apsaugos proceso dalis –kraštovaizdžio ekologinės pusiausvyros, gamtos ir nekilnojamųjų kultūros vertybių apsaugos ir saugomų teritorijų lankymo reikalavimų, nustatytų teisės aktais ir saugomų teritorijų planavimo dokumentų sprendiniais, laikymosi priežiūra. 
+36. Valstybinė saugomų teritorijų kontrolė – saugomų teritorijų apsaugos proceso dalis – kraštovaizdžio ekologinės pusiausvyros, gamtos ir nekilnojamųjų kultūros vertybių apsaugos ir saugomų teritorijų lankymo reikalavimų, nustatytų teisės aktais ir saugomų teritorijų planavimo dokumentų sprendiniais, laikymosi priežiūra. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
+Nr. XIII-3199, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15392
  
 
 
@@ -318,7 +319,9 @@ Nr. XIII-1503, 2018-09-27, paskelbta TAR 2018-10-09, i. k. 2018-15982
 
 
 
-44. Valstybinis saugomų teritorijų pareigūnas – saugomos teritorijos direkcijos valstybės tarnautojas, atliekantis viešojo administravimo funkcijas ir pagal įstatymus turintis įgaliojimus duoti nepavaldiems asmenims teisės aktų nustatytus privalomus nurodymus. 
+44. Neteko galios nuo 2021-07-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3199, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15392
 Straipsnio dalies pakeitimai:
 Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
  
@@ -1609,7 +1612,10 @@ Nr. XII-413, 2013-06-27, Žin., 2013, Nr. 76-3830 (2013-07-16)
 
 
 
-3. Jeigu dėl įvykusios kranto erozijos (vandens telkinio kranto linijos pasislinkimo) nebeužtikrinamas Specialiųjų žemės naudojimo sąlygų įstatyme nurodytas reikalavimas dėl tvorų, kitų statinių, įrenginių ar įveisiamų želdinių, medžių ir krūmų liekanų, kliudančių pakrante eiti asmenims (toliau šiame straipsnyje – užtvėrimai), nebuvimo, žemės savininkas ar valdytojas gali imtis priemonių atkurti erozijos pažeistą pakrantę. Jeigu pakrantės atkūrimo priemonės nevykdomos, užvėrimai iš Specialiųjų žemės naudojimo sąlygų įstatyme nurodyto pločio paviršinio vandens telkinio apsaugos zonos dalies, kurioje šis Įstatymas draudžia užtvėrimus (toliau šiame straipsnyje – pakrantė be užtvėrimų), turi būti pašalinti per vienerius metus nuo kranto erozijos fakto paaiškėjimo. Kranto erozijos fakto paaiškėjimo momentu laikomas valstybinio aplinkos apsaugos inspektoriaus ar valstybinio saugomų teritorijų pareigūno surašytas aktas, kuriuo, įvertinus kranto būklę ir erozijos tendencijas, konstatuojama, kad reikalavimas dėl užtvėrimų pakrantėje nebuvimo neįvykdomas dėl įvykusios kranto erozijos.
+3. Jeigu dėl įvykusios kranto erozijos (vandens telkinio kranto linijos pasislinkimo) nebeužtikrinamas Specialiųjų žemės naudojimo sąlygų įstatyme nurodytas reikalavimas dėl tvorų, kitų statinių, įrenginių ar įveisiamų želdinių, medžių ir krūmų liekanų, kliudančių pakrante eiti asmenims (toliau šiame straipsnyje – užtvėrimai), nebuvimo, žemės savininkas ar valdytojas gali imtis priemonių atkurti erozijos pažeistą pakrantę. Jeigu pakrantės atkūrimo priemonės nevykdomos, užtvėrimai iš Specialiųjų žemės naudojimo sąlygų įstatyme nurodyto pločio paviršinio vandens telkinio apsaugos zonos dalies, kurioje šis Įstatymas draudžia užtvėrimus (toliau šiame straipsnyje – pakrantė be užtvėrimų), turi būti pašalinti per vienus metus nuo kranto erozijos fakto paaiškėjimo. Kranto erozijos fakto paaiškėjimo momentu laikomas aplinkos apsaugos valstybinės kontrolės surašytas aktas, kuriuo, įvertinus kranto būklę ir erozijos tendencijas, konstatuojama, kad reikalavimas dėl užtvėrimų pakrantėje nebuvimo neįvykdomas dėl įvykusios kranto erozijos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3199, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15392
+ 
 
 
 
@@ -2227,7 +2233,10 @@ Nr. XIII-2186, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09969
 
 
 
-7) vykdo prevencinę veiklą saugomos teritorijos apsaugos ir naudojimo tvarkos pažeidimams išvengti ir kontrolę taip, kad fizinių ir juridinių asmenų veikla saugomoje teritorijoje atitiktų nustatytą saugomos teritorijos apsaugos ir naudojimo tvarką;
+7) vykdo prevencinę veiklą saugomos teritorijos apsaugos ir naudojimo tvarkos pažeidimams išvengti; 
+Straipsnio punkto pakeitimai:
+Nr. XIII-3199, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15392
+ 
 
 
 
@@ -2549,126 +2558,30 @@ VALSTYBINĖ SAUGOMŲ TERITORIJŲ KONTROLĖ
  
 
 
-30 straipsnis. Saugomų teritorijų kontrolės organizavimas
+30 straipsnis. Valstybinės saugomų teritorijų kontrolės organizavimas
 
 
-1. Žemės naudojimo ir žemės savininkų, valdytojų bei naudotojų, gamtos išteklių naudotojų ir lankytojų veiklos, reglamentuojamos pagal šio Įstatymo 5 straipsnyje nurodytus veiklos saugomose teritorijose reglamentavimo dokumentus, kontrolę saugomose teritorijose pagal kompetenciją vykdo valstybiniai aplinkos apsaugos inspektoriai, valstybiniai saugomų teritorijų pareigūnai, valstybiniai miškų pareigūnai, valstybiniai žemės tarnybų pareigūnai, teritorijų planavimo valstybinės priežiūros institucijų ir statybos valstybinės priežiūros pareigūnai ir nekilnojamojo kultūros paveldo apsaugos pareigūnai. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
+1. Žemės naudojimo ir žemės savininkų, valdytojų bei naudotojų, gamtos išteklių naudotojų ir lankytojų veiklos, reglamentuojamos pagal šio Įstatymo 5 straipsnyje nurodytus veiklos saugomose teritorijose reglamentavimo dokumentus, kontrolę saugomose teritorijose pagal kompetenciją vykdo aplinkos apsaugos valstybinės kontrolės pareigūnai, valstybiniai žemės tarnybų pareigūnai, teritorijų planavimo valstybinės priežiūros institucijų ir statybos valstybinės priežiūros pareigūnai ir nekilnojamojo kultūros paveldo apsaugos pareigūnai. 
+
+
+
+
+2. Valstybinė saugomų teritorijų kontrolė aplinkos apsaugos ir gamtos išteklių naudojimo srityje organizuojama kaip sudedamoji aplinkos apsaugos valstybinės kontrolės dalis, vadovaujantis Aplinkos apsaugos valstybinės kontrolės įstatymo nuostatomis. 
+
+
+
+
+3. Valstybinę saugomų teritorijų kontrolę aplinkos apsaugos ir gamtos išteklių naudojimo srityje vykdo Aplinkos apsaugos departamentas prie Aplinkos ministerijos, nekilnojamųjų kultūros vertybių apsaugos srityje – Vyriausybės įgaliota institucija.
+
+
+
+
+4. Valstybiniuose parkuose, valstybiniuose draustiniuose, biosferos rezervatuose, biosferos poligonuose, valstybinių gamtinių rezervatų buferinės apsaugos zonose ir tinklo „Natura 2000“ teritorijose Vyriausybės įgaliota institucija gali drausti arba riboti sausumos motorinių transporto priemonių ir plaukiojimo priemonių naudojimą ir judėjimą, nustatyti leidimų plaukioti plaukiojimo priemonėmis, įskaitant už mokestį, išdavimo tvarką, medžioklę, žvejybą, grybų ir augalų, taip pat jų dalių rinkimą, saugomų objektų naudojimą ir lankymą. Vyriausybės įgaliota institucija, nustatydama mokamų leidimų plaukioti plaukiojimo priemonėmis kainą, atsižvelgia į lankymui skirtos infrastruktūros išlaikymo sąnaudas ir lankytojams teikiamų paslaugų savikainą, o išimtiniais atvejais – į būtinybę reguliuoti lankytojų srautą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3199, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15392
  
-
-
-
-
-2. Saugomų teritorijų valstybinę kontrolę reglamentuoja ir valstybinių saugomų teritorijų pareigūnų uždavinius bei funkcijas nustato Valstybinės saugomų teritorijų apsaugos kontrolės nuostatai. Šiuos nuostatus ir saugomų teritorijų direkcijų pareigybių, kurias einantiems valstybės tarnautojams suteikiami valstybinių saugomų teritorijų pareigūnų įgaliojimai, sąrašą tvirtina Vyriausybės įgaliotos institucijos. 
-Straipsnio dalies pakeitimai:
-Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
- 
-
-
-
-
-3. Atlikdami savo pareigas, susijusias su saugomų teritorijų apsauga, valstybiniai saugomų teritorijų pareigūnai turi teisę:
-
-
-1) turėti ir dėvėti nustatyto pavyzdžio uniformą ir skiriamuosius ženklus;
-
-
-
-
-2) įstatymų nustatyta tvarka surašyti administracinių nusižengimų protokolus, skirti administracines nuobaudas už šio Įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Administracinių nusižengimų kodekse; 
-Straipsnio punkto pakeitimai:
-Nr. XII-2642, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24682
- 
-
-
-
-
-3) reikalauti iš asmenų, pažeidusių šio Įstatymo ir kitų teisės aktų reikalavimus ar teritorijų planavimo dokumentų, reglamentuojančių veiklą saugomose teritorijose, sprendinius, nutraukti neteisėtus veiksmus;
-Straipsnio punkto pakeitimai:
-Nr. XII-2307, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10415
- 
-
-
-
-
-4) stabdyti transportą, gabenantį gamtos išteklius, įskaitant medieną ar kitą miško produkciją, tikrinti transporto priemonėse esančių gamtos išteklių įsigijimo dokumentus, taip pat, įtarus neteisėtą gamtos išteklių įsigijimą, tikrinti juos gabenančių asmenų dokumentus, naudoti transporto priemonių priverstinio stabdymo priemones;
-
-
-
-
-5) pažeidėjus, jų sutikimu, pristatyti į policiją arba į patalpas savivaldybės seniūnijos kaimo vietovėje asmens tapatybei nustatyti, protokolams, aktams surašyti, o jiems nesutinkant – kreiptis į policiją dėl administracinėn atsakomybėn traukiamo asmens sulaikymo;
-Straipsnio punkto pakeitimai:
-Nr. XII-2642, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24682
- 
-
-
-
-
-6) vykdant saugomų teritorijų kontrolę pateikę tarnybinį pažymėjimą, nekliudomai įeiti (įvažiuoti) į įmonių, įstaigų, organizacijų, esančių saugomose teritorijose, teritorijas. Į pasienio ruožo teritorijas ir objektus įeiti (įvažiuoti) galima suderinus su pasienio policijos pareigūnais;
-
-
-
-
-7) Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo nustatyta tvarka saugoti, nešioti šaunamąjį ginklą, Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo, išskyrus 41 straipsnio 5 dalies 4 ir 5 punktus, nustatytais atvejais ir tvarka panaudoti psichinę ir fizinę prievartą bei šaunamąjį ginklą; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-293, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06971
- 
-
-
-
-
-8) valstybiniai saugomų teritorijų pareigūnai turi ir kitų įstatymų suteiktų teisių.
-
-
-
-
-
-
-4. Neteko galios nuo 2017-04-27
-Straipsnio dalies naikinimas:
-Nr. XIII-293, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06971
- 
-
-
-
-
-5. Neteko galios nuo 2017-04-27
-Straipsnio dalies naikinimas:
-Nr. XIII-293, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06971
-Straipsnio dalies pakeitimai:
-Nr. XII-1163, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13590
- 
-
-
-
-
-6. Vyriausybės įgaliotos institucijos vykdo: 
-
-
-1) saugomų teritorijų kontrolę;
-
-
-
-
-2) valstybinių rezervatų, valstybinių parkų ir biosferos rezervatų direkcijų veiklos užtikrinant nustatyto kraštovaizdžio apsaugos ir naudojimo režimo laikymąsi, kraštovaizdžio apsaugos ir tvarkymo, kitų tikslinių programų įgyvendinimą bei valstybinių saugomų teritorijų apsaugos ir naudojimo režimo valstybinę kontrolę;
-
-
-
-
-3) saugomų teritorijų žemės naudojimo ir žemės savininkų, valdytojų ir naudotojų veiklos, susijusios su teritorijų planavimo dokumentuose nustatytais apribojimais, kontrolę.
-
-
-
-
-
-
-7. Valstybiniuose parkuose, valstybiniuose draustiniuose, biosferos rezervatuose, biosferos poligonuose, valstybinių gamtinių rezervatų buferinės apsaugos zonose ir tinklo „Natura 2000“ teritorijose Vyriausybės įgaliota institucija gali drausti arba riboti sausumos motorinių transporto priemonių ir plaukiojimo priemonių naudojimą ir judėjimą, nustatyti leidimų plaukioti plaukiojimo priemonėmis, įskaitant už mokestį, išdavimo tvarką, medžioklę, žvejybą, grybų ir augalų, taip pat jų dalių rinkimą, saugomų objektų naudojimą ir lankymą. Vyriausybės įgaliota institucija, nustatydama mokamų leidimų plaukioti plaukiojimo priemonėmis kainą, atsižvelgia į lankymui skirtos infrastruktūros išlaikymo sąnaudas ir lankytojams teikiamų paslaugų savikainą, o išimtiniais atvejais – į būtinybę reguliuoti lankytojų srautą.
-Straipsnio dalies pakeitimai:
-Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
- 
-
-
 
 
 
@@ -3065,7 +2978,9 @@ Nr. XII-2307, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10415
 
 
 
-3. Valstybiniai saugomų teritorijų pareigūnai, nesiimantys veiksmų, užtikrinančių įstatymų ir kitų teisės aktų laikymąsi saugomose teritorijose, ar viršijantys įgaliojimus, gali būti traukiami atsakomybėn įstatymų nustatyta tvarka.
+3. Neteko galios nuo 2021-07-01
+Straipsnio dalies naikinimas:
+Nr. XIII-3199, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15392
  
 
 
@@ -3081,7 +2996,10 @@ Nr. XII-2307, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10415
 
 
 
-2. Paduoti teismui ieškinio pareiškimus dėl saugomoms teritorijoms ar paveldo objektams padarytos žalos atlyginimo turi teisę Vyriausybės įgaliotos institucijos ir valstybiniai saugomų teritorijų pareigūnai.
+2. Pareikšti teismui ieškinį dėl saugomoms teritorijoms ar paveldo objektams padarytos žalos atlyginimo turi teisę Aplinkos apsaugos departamentas prie Aplinkos ministerijos ir Vyriausybės įgaliotos institucijos. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3199, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15392
+ 
 
 
 
@@ -3275,3 +3193,8 @@ Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 31 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3300, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21150
 Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2 ir 5 straipsnių pakeitimo įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3199, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15392
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 20, 27, 30, 33 ir 34 straipsnių pakeitimo įstatymas
