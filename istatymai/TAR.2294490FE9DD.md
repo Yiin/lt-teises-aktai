@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2294490FE9DD"
 
 # Lietuvos Respublikos muitinės įstatymas
 
-Suvestinė redakcija nuo 2019-11-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2023-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2517, i. k. 1041010ISTA0IX-2183
  
@@ -1216,7 +1216,25 @@ ASMENŲ TEISĖS IR PAREIGOS, SUSIJUSIOS SU MUITINĖS ĮGYVENDINAMŲ TEISĖS AKT�
 
 
 
-3. Pašto paslaugų teikėjai, apibrėžti Reglamento (ES) 2015/2446 1 straipsnio 25 punkte, arba įmonės, gabenančios skubias siuntas, siunčiamas per pasiuntinių (kurjerių) tarptautinį tinklą, laikomi turinčiais jų siuntėjų arba gavėjų įgaliojimą deklaruoti tokias siuntas, kurių vertė neviršija 1 000 eurų, o neto masė neviršija 1 000 kilogramų, šių asmenų vardu, jeigu jie nėra iš anksto informavę pašto paslaugų teikėjų arba įmonių, gabenančių skubias siuntas, siunčiamas per pasiuntinių (kurjerių) tarptautinį tinklą, kad pageidauja deklaruoti jų siunčiamas arba gaunamas siuntas patys arba paskirdami kitą atstovą muitinėje.
+3. Pašto paslaugų teikėjai, apibrėžti Reglamento (ES) 2015/2446 1 straipsnio 25 punkte, arba įmonės, gabenančios skubias siuntas, siunčiamas per pasiuntinių (kurjerių) tarptautinį tinklą, laikomi turinčiais jų siuntėjų arba gavėjų įgaliojimą deklaruoti tokias siuntas, kurių vertė neviršija 1 000 eurų, o neto masė neviršija 1 000 kilogramų, savo vardu, jeigu šie siuntėjai arba gavėjai nėra iš anksto informavę pašto paslaugų teikėjų arba įmonių, gabenančių skubias siuntas, siunčiamas per pasiuntinių (kurjerių) tarptautinį tinklą, kad pageidauja deklaruoti jų siunčiamas arba gaunamas siuntas patys arba paskirdami kitą atstovą muitinėje. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3347, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23934
+ 
+
+
+
+
+4. Kai taikoma Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo XII skyriaus septintajame skirsnyje nustatyta speciali nuotolinės prekybos iš trečiųjų teritorijų ar trečiųjų valstybių importuojamomis prekėmis apmokestinimo schema, asmenys, deklaruojantys prekes, laikomi turinčiais gavėjų įgaliojimą deklaruoti prekes savo vardu, jeigu tokių prekių gavėjai nėra iš anksto informavę šių asmenų, kad pageidauja deklaruoti jų gaunamas prekes patys arba paskirdami kitą atstovą muitinėje. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3347, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23934
+ 
+
+
+
+
+5. Asmenys, taikantys Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo XII skyriaus aštuntajame skirsnyje nustatytą specialią importo pridėtinės vertės mokesčio deklaravimo ir mokėjimo procedūrą, laikomi turinčiais gavėjų įgaliojimą deklaruoti prekes, kurioms taikoma minėta procedūra, savo vardu, jeigu tokių prekių gavėjai nėra iš anksto informavę šių asmenų, kad pageidauja netaikant minėtos procedūros deklaruoti jų gaunamas prekes patys arba paskirdami atstovą muitinėje.
+Papildyta straipsnio dalimi:
+Nr. XIII-3347, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23934
  
 
 
@@ -2085,7 +2103,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 LAIKINAI EINANTIS
-RESPUBLIKOS PREZIDENTO PAREIGAS                                      ARTŪRAS PAULAUSKAS
+RESPUBLIKOS PREZIDENTO PAREIGAS                                         ARTŪRAS PAULAUSKAS
  
 
 
@@ -2277,3 +2295,8 @@ Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 3, 7, 15, 17 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2355, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12388
 Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 papildymo 56-1 straipsniu įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3347, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23934
+Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 24 straipsnio pakeitimo įstatymas
