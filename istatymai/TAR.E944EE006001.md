@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/e944ee00600111e4bad5c03f56793630"
 
 # Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas
 
-Suvestinė redakcija nuo 2020-07-02 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
  
 Įstatymas paskelbtas: TAR 2014-10-30, i. k. 2014-15180
- 
-TAR pastaba. Asmenims ir šeimoms, dėl kurių savivaldybės taryba iki įstatymo Nr. XIII-3147 įsigaliojimo (2020-07-02) priėmė sprendimą parduoti savivaldybei nuosavybės teise priklausantį būstą Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo 25 straipsnio 1 dalyje nustatyta tvarka, taikomos šio įstatymo 1 straipsnyje išdėstytos Paramos būstui įsigyti ar išsinuomoti įstatymo 25 straipsnio 1 dalies nuostatos
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-3147, 2020-06-25, paskelbta TAR 2020-07-01, i. k. 2020-14789
-Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 25 straipsnio pakeitimo įstatymas
  
 Nauja redakcija nuo 2019-09-01:
 Nr. XIII-1959, 2019-02-12, paskelbta TAR 2019-02-20, i. k. 2019-02742
@@ -328,6 +323,13 @@ Nr. XIII-2885, 2020-05-07, paskelbta TAR 2020-05-14, i. k. 2020-10373
 
 
 7. Parama būstui įsigyti, teikiant subsidijas valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti, finansuojama iš valstybės biudžeto.
+
+
+
+
+8. Parama būstui įsigyti, teikiant subsidijas valstybės iš dalies kompensuojamo būsto kredito daliai apmokėti, gali būti teikiama kartu su savivaldybės ir (ar) pelno siekiančio juridinio asmens finansine parama. Finansinės paramos teikimo tvarką ir sąlygas nustato savivaldybių tarybos ir (ar) pelno siekiančio juridinio asmens valdymo organai ar dalyvių susirinkimas. Bendra paramos būstui įsigyti ir finansinės paramos dalis negali būti didesnė negu 50 procentų įsigyjamo būsto vertės.
+Papildyta straipsnio dalimi:
+Nr. XIV-37, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27345
  
 
 
@@ -1512,3 +1514,8 @@ Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3147, 2020-06-25, paskelbta TAR 2020-07-01, i. k. 2020-14789
 Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 25 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-37, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27345
+Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymo Nr. XII-1215 5 straipsnio pakeitimo įstatymas
