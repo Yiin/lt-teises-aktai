@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.94DB985EB965"
 
 # Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2022-11-07
  
 Įstatymas paskelbtas: Žin. 1993, Nr. 20-488, i. k. 0931010ISTA000I-164
  
@@ -562,7 +562,7 @@ Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00X
 
 
 
-4. Juridinių asmenų dalyvių informacinėje sistemoje sukauptų duomenų pagrindu parengta informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, jeigu ji:
+4. Pagal Juridinių asmenų dalyvių informacinėje sistemoje sukauptus duomenis parengta informacija turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, jeigu ji:
 
 
 1) teikiama kooperatinės bendrovės nariams, kai Juridinių asmenų dalyvių informacinėje sistemoje tvarkomi duomenys apie juos, kartą per kalendorinius metus;
@@ -575,9 +575,17 @@ Nr. XI-604, 2009-12-22, Žin., 2010, Nr. 1-15 (2010-01-05), i. k. 1091010ISTA00X
 
 
 
-3) teikiama mokesčių administravimo, teisėtvarkos institucijoms ir teismams, kitoms valstybės institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti.
+3) teikiama valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis;
 
 
+
+
+4) teikiama žurnalistams Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-243, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08849
+ 
 
 
 
@@ -1871,7 +1879,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
  
 
 
@@ -1959,3 +1967,8 @@ Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3201, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15394
 Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 3-1, 5, 10, 11, 14, 15, 16 straipsnių pakeitimo ir Įstatymo papildymo 16-1, 16-2 straipsniais įstatymas
+ 
+17.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-243, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08849
+Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo Nr. I-164 6-1 straipsnio pakeitimo įstatymas
