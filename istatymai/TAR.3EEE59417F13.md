@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.3EEE59417F13"
 
 # Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas
 
-Suvestinė redakcija nuo 2021-01-20 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 73-3352, i. k. 1031010ISTA0IX-1675
  
@@ -1148,11 +1148,12 @@ Nr. XIII-145, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29779
 
 
 
-3) pensijos, socialinio draudimo senatvės arba netekto darbingumo (invalidumo) pensijų priemokos (toliau – pensijos priemoka) ir (ar) pensijų išmokos (išskyrus senatvės ir netekto darbingumo (invalidumo) pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės ir netekto darbingumo (invalidumo) pensijų kompensavimo įstatymą, taip pat senatvės ir valstybinių pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų ir valstybinių pensijų, sumažintų dėl draudžiamųjų pajamų turėjimo, kompensavimo įstatymą), šalpos išmokos; 
+3) pensijos, išskyrus socialinio draudimo našlių pensijas, socialinio draudimo senatvės arba netekto darbingumo (invalidumo) pensijų priemokos (toliau – pensijos priemoka) ir (ar) pensijų išmokos (išskyrus senatvės ir netekto darbingumo (invalidumo) pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės ir netekto darbingumo (invalidumo) pensijų kompensavimo įstatymą, taip pat senatvės ir valstybinių pensijų kompensuojamąją sumą, mokamą pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų ir valstybinių pensijų, sumažintų dėl draudžiamųjų pajamų turėjimo, kompensavimo įstatymą), šalpos išmokos; 
 Straipsnio punkto pakeitimai:
 Nr. XII-1853, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10599
 Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
 Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
+Nr. XIV-358, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13161
  
 
 
@@ -1217,12 +1218,13 @@ Nr. XIII-651, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16001
 
 
 
-12) socialinio pobūdžio pajamos (išskyrus vienkartines išmokas ir (ar) pašalpas, mokamas iš valstybės, Valstybinio socialinio draudimo fondo ar savivaldybių biudžetų, socialinę paramą, skiriamą kitais šiame įstatyme nenumatytais atvejais ir mokamą iš savivaldybių biudžetų, išmokas, mokamas pagal Lietuvos Respublikos užimtumo įstatymą ir (ar) iš Europos prisitaikymo prie globalizacijos padarinių fondo, darbdavio mokamas vienkartines išmokas ir (ar) pašalpas bei kas mėnesį gaunamas socialinio pobūdžio pajamas: transporto išlaidų kompensacijas neįgaliesiems; kompensacijas donorams; pagalbos pinigus, mokamus pagal Lietuvos Respublikos socialinių paslaugų įstatymą; išmoką vaikui, globos (rūpybos) išmokos tikslinį priedą, vaiko laikinosios priežiūros išmoką, mokamus pagal Lietuvos Respublikos išmokų vaikams įstatymą; būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensaciją, mokamą pagal Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymą; tikslines kompensacijas ir tikslinį priedą, mokamus pagal Lietuvos Respublikos tikslinių kompensacijų įstatymą);
+12) socialinio pobūdžio pajamos (išskyrus vienkartines išmokas ir (ar) pašalpas, mokamas iš valstybės, Valstybinio socialinio draudimo fondo ar savivaldybių biudžetų, socialinę paramą, skiriamą kitais šiame įstatyme nenumatytais atvejais ir mokamą iš savivaldybių biudžetų, išmokas, mokamas pagal Lietuvos Respublikos užimtumo įstatymą ir (ar) iš Europos prisitaikymo prie globalizacijos padarinių fondo, darbdavio mokamas vienkartines išmokas ir (ar) pašalpas bei kas mėnesį gaunamas socialinio pobūdžio pajamas: vienišo asmens išmokas, mokamas pagal Lietuvos Respublikos vienišo asmens išmokos įstatymą; transporto išlaidų kompensacijas neįgaliesiems; kompensacijas donorams; pagalbos pinigus, mokamus pagal Lietuvos Respublikos socialinių paslaugų įstatymą; išmoką vaikui, globos (rūpybos) išmokos tikslinį priedą, vaiko laikinosios priežiūros išmoką, mokamus pagal Lietuvos Respublikos išmokų vaikams įstatymą; būsto nuomos ar išperkamosios būsto nuomos mokesčio dalies kompensaciją, mokamą pagal Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymą; tikslines kompensacijas ir tikslinį priedą, mokamus pagal Lietuvos Respublikos tikslinių kompensacijų įstatymą);
 Straipsnio punkto pakeitimai:
 Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
 Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 Nr. XIII-2324, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12117
+Nr. XIV-358, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13161
  
 
 
@@ -2346,7 +2348,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                     ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                                    ROLANDAS PAKSAS
  
  
 
@@ -2629,4 +2631,9 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-160, 2021-01-12, paskelbta TAR 2021-01-19, i. k. 2021-00837
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 17 straipsnio pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-358, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13161
 Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 17 straipsnio pakeitimo įstatymas
