@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2018-09-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 50-1197, i. k. 0961010ISTA00I-1338
  
@@ -114,7 +114,10 @@ TURTO DEKLARAVIMAS
 
 
 
-9) valstybės kontrolierius, valstybės kontrolieriaus pavaduotojai ir jų šeimos nariai;
+9) valstybės kontrolierius, valstybės kontrolieriaus pavaduotojai, kiti Lietuvos Respublikos valstybės kontrolės darbuotojai ir jų šeimos nariai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-139, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00261
+ 
 
 
 
@@ -750,10 +753,10 @@ Nr. XII-624, 2013-11-26, Žin., 2013, Nr. 128-6517 (2013-12-14)
 
 
 
-2. Kalendorinių metų, už kuriuos deklaruojamas turimas turtas, gruodžio 31 dieną ėjusių pareigas Respublikos Prezidento, Lietuvos Respublikos Seimo narių, Europos Parlamento narių, Ministro Pirmininko, ministrų, Vyriausybės kanclerio, Vyriausybės kanclerio pavaduotojų, Ministro Pirmininko patarėjų, viceministrų, savivaldybių tarybų narių, ministerijų kanclerių, Lietuvos Respublikos teismų pirmininkų, teismų pirmininkų pavaduotojų, teismų skyrių pirmininkų, teisėjų, Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės narių, Vyriausiosios administracinių ginčų komisijos narių, generalinio prokuroro, generalinio prokuroro pavaduotojų, Generalinės prokuratūros struktūrinių padalinių, taip pat apygardų ir apylinkių prokuratūrų vadovų, valstybės kontrolieriaus, valstybės kontrolieriaus pavaduotojų, Valstybės kontrolės valstybės tarnautojų, Seimo kontrolierių, Vyriausybės įstaigų, prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės valdymo institucijų vadovų (generalinių direktorių, direktorių, viršininkų) ir vadovų pavaduotojų, valstybės ir savivaldybių įstaigų, kitų biudžetinių įstaigų vadovų, jų pavaduotojų, viešųjų įstaigų, kurių steigėja ar dalininkė yra valstybė ar savivaldybė, vadovų, jų pavaduotojų, valstybės ir savivaldybių įmonių, strateginę reikšmę nacionaliniam saugumui turinčių valstybės ir savivaldybės įmonių ir akcinių bendrovių bei nacionaliniam saugumui užtikrinti svarbių įmonių vadovų, jų pavaduotojų, akcinių bendrovių, kurių akcininkė yra valstybė ar savivaldybė, vadovų, jų pavaduotojų, politinio (asmeninio) pasitikėjimo valstybės tarnautojų, Lietuvos banko valdybos pirmininko, valdybos pirmininko pavaduotojų ir valdybos narių, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos ir teritorinių muitinių valstybės tarnautojų, Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos ir teritorinių mokesčių inspekcijų valstybės tarnautojų, Vidaus reikalų ministerijos valdymo srities statutinių įstaigų valstybės tarnautojų, valstybės saugumo sistemos valstybės tarnautojų ir jų šeimos narių deklaracijų duomenys, išskyrus asmenų, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti, bei jų šeimos narių ir kriminalinės žvalgybos subjektų valstybės tarnautojų ir pareigūnų, kurių veiklą reglamentuoja Kriminalinės žvalgybos įstatymas ir Žvalgybos įstatymas, ir jų šeimos narių bei žvalgybos pareigūnų ir jų šeimos narių deklaracijų duomenis, yra skelbiami be šių gyventojų rašytinio sutikimo.
-TAR pastaba. 2 dalies nuostatos taikomos deklaruojant 2017 metų ir vėlesnių metų turtą.
+2. Kalendorinių metų, už kuriuos deklaruojamas turimas turtas, gruodžio 31 dieną ėjusių pareigas Respublikos Prezidento, Lietuvos Respublikos Seimo narių, Europos Parlamento narių, Ministro Pirmininko, ministrų, Vyriausybės kanclerio, Vyriausybės kanclerio pavaduotojų, Ministro Pirmininko patarėjų, viceministrų, savivaldybių tarybų narių, ministerijų kanclerių, Lietuvos Respublikos teismų pirmininkų, teismų pirmininkų pavaduotojų, teismų skyrių pirmininkų, teisėjų, Mokestinių ginčų komisijos prie Lietuvos Respublikos Vyriausybės narių, Vyriausiosios administracinių ginčų komisijos narių, generalinio prokuroro, generalinio prokuroro pavaduotojų, Generalinės prokuratūros struktūrinių padalinių, taip pat apygardų ir apylinkių prokuratūrų vadovų, valstybės kontrolieriaus, valstybės kontrolieriaus pavaduotojų, kitų Valstybės kontrolės darbuotojų, Seimo kontrolierių, Vyriausybės įstaigų, prie ministerijų įsteigtų departamentų, tarnybų, inspekcijų, kitų valstybės valdymo institucijų vadovų (generalinių direktorių, direktorių, viršininkų) ir vadovų pavaduotojų, valstybės ir savivaldybių įstaigų, kitų biudžetinių įstaigų vadovų, jų pavaduotojų, viešųjų įstaigų, kurių steigėja ar dalininkė yra valstybė ar savivaldybė, vadovų, jų pavaduotojų, valstybės ir savivaldybių įmonių, strateginę reikšmę nacionaliniam saugumui turinčių valstybės ir savivaldybės įmonių ir akcinių bendrovių bei nacionaliniam saugumui užtikrinti svarbių įmonių vadovų, jų pavaduotojų, akcinių bendrovių, kurių akcininkė yra valstybė ar savivaldybė, vadovų, jų pavaduotojų, politinio (asmeninio) pasitikėjimo valstybės tarnautojų, Lietuvos banko valdybos pirmininko, valdybos pirmininko pavaduotojų ir valdybos narių, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos ir teritorinių muitinių valstybės tarnautojų, Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos ir teritorinių mokesčių inspekcijų valstybės tarnautojų, Vidaus reikalų ministerijos valdymo srities statutinių įstaigų valstybės tarnautojų, valstybės saugumo sistemos valstybės tarnautojų ir jų šeimos narių deklaracijų duomenys, išskyrus asmenų, kurių duomenys įstatymų nustatyta tvarka yra įslaptinti, bei jų šeimos narių ir kriminalinės žvalgybos subjektų valstybės tarnautojų ir pareigūnų, kurių veiklą reglamentuoja Kriminalinės žvalgybos įstatymas ir Žvalgybos įstatymas, ir jų šeimos narių bei žvalgybos pareigūnų ir jų šeimos narių deklaracijų duomenis, yra skelbiami be šių gyventojų rašytinio sutikimo.
 Straipsnio dalies pakeitimai:
 Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
+Nr. XIV-139, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00261
  
 
 
@@ -1042,3 +1045,8 @@ Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2 straips
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1282, 2018-06-21, paskelbta TAR 2018-06-27, i. k. 2018-10534
 Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 1, 2 ir 7 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-139, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00261
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2 ir 10 straipsnių pakeitimo įstatymas
