@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0BDFFD850A66"
 
 # Lietuvos Respublikos viešojo administravimo įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2022-01-28
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 60-1945, i. k. 0991010ISTAIII-1234
- 
-TAR pastaba. 9 straipsnis įsigalioja 2021 m. liepos 1 d.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-3329, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22474
-Lietuvos Respublikos viešojo administravimo įstatymo Nr. VIII-1234 pakeitimo įstatymo Nr. XIII-2987 1 ir 2 straipsnių pakeitimo įstatymas
  
 Nauja redakcija nuo 2020-11-01:
 Nr. XIII-2987, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12819
@@ -584,7 +579,6 @@ Viešojo administravimo sritys:
 
 
 6. Kai asmens elektroninio pristatymo dėžutė yra neaktyvi ir elektroninė siunta jam siunčiama per E. pristatymo sistemą, pašto paslaugos teikėjas šią siuntą įteikia kaip pašto siuntą, vadovaudamasis Lietuvos Respublikos pašto įstatymu. Nustatant šios paslaugos tarifus, įtraukiami elektroninio pristatymo paslaugų teikimo E. pristatymo sistemos priemonėmis tarifas ir valstybės įmonės Registrų centro viešojo konkurso būdu atrinkto (atrinktų) pašto paslaugų teikėjo (teikėjų) pasiūlyme (pasiūlymuose) nurodyti įkainiai.
-TAR pastaba. 9 straipsnis įsigalioja 2021 m. liepos 1 d.
 
 
 Straipsnio pakeitimai:
@@ -678,7 +672,10 @@ Nr. XIII-3329, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22474
 
 
 
-2. Prašymas ar skundas gali būti pateiktas asmeniškai arba per atstovą, tiesiogiai arba paštu, per kurjerį arba elektroniniais ryšiais. Atstovo teisė atstovauti turi būti įrodoma rašytiniu sutikimu.
+2. Prašymas ar skundas gali būti pateiktas per E. pristatymo sistemą, kitomis elektroninių ryšių priemonėmis, paštu, kreipiantis asmeniškai arba per atstovą. Atstovo teisė atstovauti turi būti įrodoma rašytiniu sutikimu. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-2987, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12819
+ 
 
 
 
@@ -792,18 +789,20 @@ Nr. XIII-3329, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22474
 
 
 
-13 straipsnis. Administracinio sprendimo įteikimas (paskelbimas) 
+13 straipsnis. Administracinio sprendimo ar kitos informacijos įteikimas (paskelbimas)
 
 
-1. Asmeniui, pateikusiam prašymą, ar asmeniui, dėl kurio galimai pažeistų teisių ir teisėtų interesų yra pradėta administracinė procedūra, taip pat asmenims, kuriems administracinis sprendimas turi tiesioginį poveikį, ne vėliau kaip per 3 darbo dienas nuo administracinio sprendimo priėmimo dienos raštu pranešama apie priimtą administracinį sprendimą, pateikiant tokio sprendimo kopiją, ar, esant poreikiui apsaugoti atitinkamų kategorijų duomenis, – nuasmenintą priimto administracinio sprendimo nuorašą. Atvejais, kai administracinio sprendimo kopija ar nuorašas negali būti pateikti arba kai administracinio sprendimo forma neleidžia užtikrinti visų šio įstatymo 10 straipsnio 5 dalyje reikalaujamų duomenų pateikimo, šie duomenys nurodytiems asmenims pateikiami raštu, pranešant apie priimtą administracinį sprendimą.
+1. Asmeniui, pateikusiam prašymą, ar asmeniui, dėl kurio galimai pažeistų teisių ir teisėtų interesų yra pradėta administracinė procedūra, taip pat asmenims, kuriems administracinis sprendimas turi tiesioginį poveikį, ne vėliau kaip per 3 darbo dienas nuo administracinio sprendimo priėmimo dienos raštu pranešama apie priimtą administracinį sprendimą pateikiant to sprendimo kopiją, o kai reikia apsaugoti atitinkamų kategorijų duomenis, – nuasmenintą priimto administracinio sprendimo nuorašą. Atvejais, kai administracinio sprendimo kopija ar nuorašas negali būti pateikti arba kai administracinio sprendimo forma neleidžia užtikrinti visų šio įstatymo 10 straipsnio 5 dalyje reikalaujamų duomenų pateikimo, šie duomenys nurodytiems asmenims pateikiami raštu pranešant apie priimtą administracinį sprendimą. Jeigu asmuo nėra nurodęs pageidaujamo administracinio sprendimo ar kitos informacijos gavimo būdo, jie pateikiami tokiu būdu, kokiu buvo gautas prašymas ar skundas. 
 
 
 
 
 2. Viešojo administravimo subjektas, išnagrinėjęs grupės asmenų prašymą ar skundą, gali atsakyti viešo paskelbimo būdu laikydamasis atitinkamų kategorijų duomenų apsaugą reglamentuojančių teisės aktų arba, jeigu tai nereikalauja neproporcingai didelių viešojo administravimo subjekto sąnaudų, – prašymą ar skundą pateikusios grupės asmenų nurodytu būdu. Tokiu atveju apie priimtą administracinį sprendimą raštu pranešama prašymą ar skundą pateikusios grupės asmenų nurodytu būdu, o administracinis sprendimas yra skelbiamas sprendimą priėmusio viešojo administravimo subjekto interneto svetainėje. Tais atvejais, kai sprendimą priėmęs viešojo administravimo subjektas savo interneto svetainės neturi, jo priimtas administracinis sprendimas skelbiamas viešojo administravimo subjekto, su kuriuo sprendimą priėmęs viešojo administravimo subjektas yra susijęs pavaldumo ryšiais, interneto svetainėje.
+
+
+Straipsnio pakeitimai:
+Nr. XIII-3329, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22474
  
-
-
 
 
 
@@ -1746,13 +1745,20 @@ Turtinė ir neturtinė žala, atsiradusi dėl viešojo administravimo subjektų 
 
 
 
-40 straipsnis. Draudimas steigti naujas valstybės informacines sistemas ir registrus licencijų išdavimo funkcijoms atlikti 
+40 straipsnis. Reikalavimai valstybės registrams ir informacinėms sistemoms 
 
 
-Licencijų išdavimo funkcijoms atlikti negali būti steigiamos naujos valstybės informacinės sistemos ir registrai, jeigu Europos Sąjungos teisės aktuose ar jų įgyvendinamuosiuose Lietuvos Respublikos teisės aktuose, ar Lietuvos Respublikos tarptautinėse sutartyse nėra nustatyta kitaip.
+1. Viešojo administravimo subjektas, steigdamas, kurdamas ar modernizuodamas valstybės registrus ar informacines sistemas, turi užtikrinti oficialių elektroninių dokumentų siuntimo ir gavimo per E. pristatymo sistemą galimybę.
+
+
+
+
+2. Licencijų išdavimo funkcijoms atlikti negali būti steigiami nauji valstybės registrai ir informacinės sistemos, jeigu Europos Sąjungos teisės aktuose ar jų įgyvendinamuosiuose Lietuvos Respublikos teisės aktuose, ar Lietuvos Respublikos tarptautinėse sutartyse nėra nustatyta kitaip. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2987, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12819
  
-
-
 
 
 
