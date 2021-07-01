@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2CE6CFE9E2EE"
 
 # Lietuvos Respublikos šalpos pensijų įstatymas
 
-Suvestinė redakcija nuo 2020-11-14 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-07-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 96-1873, i. k. 0941010ISTA000I-675
  
@@ -248,24 +248,24 @@ Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
 1. Šalpos neįgalumo ir šalpos senatvės pensijos skiriamos ir mokamos asmenims, neturintiems teisės gauti didesnių arba tokio paties dydžio socialinio draudimo pensijų (kartu su pensijos priemoka), valstybinių pensijų, kompensacijų už ypatingas darbo sąlygas, valstybinių signataro rentų, valstybinių signataro našlių ir našlaičių rentų, rentų buvusiems sportininkams, kompensacinių išmokų profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams ir kitų periodinių pensinio pobūdžio išmokų, mokamų iš Valstybinio socialinio draudimo fondo biudžeto ar valstybės biudžeto lėšų, pagal Lietuvos Respublikos pensijų kaupimo įstatymą ir Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymą gaunamų pensijų išmokų, užsienio valstybių pensijų ir kitų periodinių pensinio pobūdžio išmokų (toliau – pensijos ar pensijų išmokos), išskyrus:
 
 
-1) šio įstatymo 5 straipsnio 1 ir 2 punktuose nurodytus asmenis, kurie kartu su šalpos neįgalumo pensijomis turi teisę gauti socialinio draudimo našlaičių ar našlių pensijas ar valstybines našlaičių pensijas;
+1) šio įstatymo 5 straipsnio 1 ir 2 punktuose nurodytus asmenis, kurie kartu su šalpos neįgalumo pensijomis turi teisę gauti socialinio draudimo našlaičių pensijas, socialinio draudimo našlių pensijas, valstybines našlaičių pensijas ar vienišo asmens išmokas;
 
 
 
 
-2) šio įstatymo 5 straipsnio 3, 4 ir 5 punktuose ir šio įstatymo 6 straipsnyje nurodytus asmenis, kurie kartu su šalpos pensijomis turi teisę gauti socialinio draudimo našlių pensijas;
+2) šio įstatymo 5 straipsnio 3, 4 ir 5 punktuose ir šio įstatymo 6 straipsnyje nurodytus asmenis, kurie kartu su šalpos pensijomis turi teisę gauti socialinio draudimo našlių pensijas ar vienišo asmens išmokas;
 
 
 
 
-3) šio įstatymo 15 straipsnio 2 dalyje ir šio straipsnio 2 dalyje nustatytus atvejus.
+3) šio įstatymo 15 straipsnio 13 dalyje ir šio straipsnio 2 dalyje nustatytus atvejus.
 
 
 
 
 
 
-2. Asmenims, nurodytiems šio įstatymo 5 straipsnio 5 punkte ir 6 straipsnyje, turintiems teisę į pensiją (išskyrus socialinio draudimo našlių pensiją) ar pensijų išmoką, kurių dydis (bendra jų suma) (kartu su pensijos priemoka) mažesnis už šalpos pensiją, mokamas šalpos pensijos ir pensijos ar pensijų išmokos (bendros jų sumos) (kartu su pensijos priemoka) skirtumas.
+2. Asmenims, nurodytiems šio įstatymo 5 straipsnio 5 punkte ir 6 straipsnyje, turintiems teisę į pensiją ar pensijų išmoką (išskyrus asmenis, turinčius teisę į socialinio draudimo našlių pensiją ar vienišo asmens išmoką), kurių dydis (bendra jų suma) (kartu su pensijos priemoka) mažesnis už šalpos pensiją, mokamas šalpos pensijos ir pensijos ar pensijų išmokos (bendros jų sumos) (kartu su pensijos priemoka) skirtumas.
 
 
 
@@ -275,6 +275,7 @@ Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
 
 Straipsnio pakeitimai:
 Nr. XIII-1401, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11462
+Nr. XIV-353, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13154
  
 
 
@@ -534,7 +535,10 @@ Nr. XIII-3372, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23939
 
 
 
-2. Asmeniui, turinčiam teisę gauti šalpos našlaičių pensiją, ši pensija skiriama ir mokama nepaisant to, kad šis asmuo turi teisę gauti valstybinę socialinio draudimo našlaičių pensiją ar valstybinę našlaičių pensiją už mirusį kitą iš tėvų (įtėvių). 
+2. Asmeniui, turinčiam teisę gauti šalpos našlaičių pensiją, ši pensija skiriama ir mokama, nors šis asmuo turi teisę gauti valstybinę socialinio draudimo našlaičių pensiją, valstybinę našlaičių pensiją už mirusį kitą iš tėvų (įtėvių) ar vienišo asmens išmoką. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-353, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13154
+ 
 
 
 
@@ -599,7 +603,10 @@ Teisę gauti šalpos kompensaciją turi:
 
 
 
-2. Šalpos kompensacijos mokamos tol, kol jų gavėjai įgyja teisę gauti šio įstatymo 7 straipsnio 1 dalyje nurodytas pensijas ar pensijų išmokas, išskyrus socialinio draudimo našlių pensiją. Jeigu šalpos kompensacijos gavėjas neįgyja teisės gauti nė vienos iš nurodytų pensijų ar pensijų išmokų, išskyrus socialinio draudimo našlių pensiją, šalpos kompensacija jam mokama tol, kol jis yra pripažintas netekusiu 60 procentų ir daugiau darbingumo (sukakusiam senatvės pensijos amžių – iki gyvos galvos).
+2. Šalpos kompensacijos mokamos tol, kol jų gavėjai įgyja teisę gauti didesnes arba tokio paties dydžio kaip šalpos kompensacija šio įstatymo 7 straipsnio 1 dalyje nurodytas pensijas ar pensijų išmokas, išskyrus socialinio draudimo našlių pensiją ar vienišo asmens išmoką. Jeigu šalpos kompensacijos gavėjas neįgyja teisės gauti nė vienos didesnės arba tokio paties dydžio kaip šalpos kompensacija pensijos ar pensijų išmokos, nurodytos šio įstatymo 7 straipsnio 1 dalyje, išskyrus socialinio draudimo našlių pensiją ar vienišo asmens išmoką, šalpos kompensacija jam mokama tol, kol jis yra pripažintas netekusiu 60 procentų ir daugiau darbingumo (sukakusiam senatvės pensijos amžių – iki gyvos galvos). 
+Straipsnio dalies pakeitimai:
+Nr. XIV-353, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13154
+ 
 
 
 
@@ -997,11 +1004,12 @@ PENSIJOS PRIEMOKOS
 221 straipsnis. Asmenys, turintys teisę gauti pensijos priemoką
 
 
-Socialinio draudimo senatvės pensijų, išskyrus išankstines senatvės pensijas, gavėjai ir socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensijų gavėjai, netekę 60 procentų ar daugiau darbingumo (iki 2005 m. liepos 1 d. pripažinti I ar II grupės invalidais), senatvės pensijos amžių sukakę socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensijų gavėjai, netekę 45–55 procentų darbingumo (iki 2005 m. liepos 1 d. pripažinti III grupės invalidais), jeigu jų gaunamų socialinio draudimo pensijų, kompensacijų už ypatingas darbo sąlygas, valstybinių pensijų, užsienio valstybių pensijų (toliau kartu – pensijos) suma per mėnesį yra mažesnė, negu Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka apskaičiuotas minimalių vartojimo poreikių dydis (toliau – MVPD), turi teisę gauti pensijos priemoką. Pensijos priemoka skiriama ir mokama, jeigu šiame straipsnyje nurodyti asmenys yra deklaravę gyvenamąją vietą arba įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą Gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka. 
+Socialinio draudimo senatvės pensijų, išskyrus išankstines senatvės pensijas, gavėjai ir socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensijų gavėjai, netekę 60 procentų ar daugiau darbingumo (iki 2005 m. liepos 1 d. pripažinti I ar II grupės invalidais), senatvės pensijos amžių sukakę socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensijų gavėjai, netekę 45–55 procentų darbingumo (iki 2005 m. liepos 1 d. pripažinti III grupės invalidais), jeigu jų gaunamų socialinio draudimo pensijų (išskyrus socialinio draudimo našlių pensiją), kompensacijų už ypatingas darbo sąlygas, valstybinių pensijų, užsienio valstybių pensijų (toliau kartu – pensijos) suma per mėnesį yra mažesnė negu Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka apskaičiuotas minimalių vartojimo poreikių dydis (toliau – MVPD), turi teisę gauti pensijos priemoką. Pensijos priemoka skiriama ir mokama, jeigu šiame straipsnyje nurodyti asmenys yra deklaravę gyvenamąją vietą arba įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą Gyvenamosios vietos deklaravimo įstatymo nustatyta tvarka. 
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2605, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20564
+Nr. XIV-353, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13154
  
 
 
@@ -1322,3 +1330,8 @@ Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 8, 20, 22-1, 22-2 ir 2
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3372, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23939
 Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 9 straipsnio pakeitimo įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-353, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13154
+Lietuvos Respublikos šalpos pensijų įstatymo Nr. I-675 7, 10, 13 ir 22-1 straipsnių pakeitimo įstatymas
