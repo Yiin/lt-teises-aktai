@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS
 
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 94-1833, i. k. 0941010ISTA000I-657
  
@@ -2771,7 +2771,7 @@ Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
 40 straipsnis. Atsakomybė už teisės aktų, reglamentuojančių vartotojų teisių apsaugą, pažeidimus
 
 
-1. Valstybinė vartotojų teisių apsaugos tarnyba už Reglamento (ES) 2018/302 3, 4 straipsniuose ir 5 straipsnio 1 ir 2 dalyse, Civilinio kodekso 6.2285 straipsnio 5 dalyje, 6.2286 straipsnio 1 dalyje, 6.2287 straipsnio 1 dalyje, 6.2288 straipsnio 2–6 dalyse, 6.2289 straipsnio 4 ir 5 dalyse, 6.22810 straipsnio 1, 9 ir 10 dalyse, 6.22811 straipsnio 2, 6–12 dalyse, 6.22812 straipsnio 4 ir 7 dalyse, 6.22816 straipsnio 1 dalyje, 6.359, 6.3591 straipsniuose, 6.369 straipsnio 3, 7–13 dalyse, 6.370 straipsnio 4–9 dalyse, taip pat šio įstatymo 441 straipsnyje nurodytų reikalavimų (draudimų) nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo penkių šimtų iki penkių tūkstančių eurų baudą. Valstybinė vartotojų teisių apsaugos tarnyba už Reglamento (ES) Nr. 524/2013 14 straipsnyje, šio įstatymo 5 straipsnio 3–5 dalyse, 21 straipsnio 2 ir 3 dalyse nurodytų reikalavimų nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo dviejų šimtų penkiasdešimt iki dviejų tūkstančių penkių šimtų eurų baudą. 
+1. Valstybinė vartotojų teisių apsaugos tarnyba už Reglamento (ES) 2018/302 3, 4 straipsniuose ir 5 straipsnio 1 ir 2 dalyse, Civilinio kodekso 6.2285 straipsnio 5 dalyje, 6.2286 straipsnio 1 dalyje, 6.2287 straipsnio 1 dalyje, 6.2288 straipsnio 2–6 dalyse, 6.2289 straipsnio 4 ir 5 dalyse, 6.22810 straipsnio 1, 9 ir 10 dalyse, 6.22811 straipsnio 2, 6–12 dalyse, 6.22812 straipsnio 4 ir 7 dalyse, 6.22816 straipsnio 1 dalyje, 6.353 straipsnio 8 dalyje, 6.359, 6.3591 straipsniuose, 6.369 straipsnio 3, 7–13 dalyse, 6.370 straipsnio 4–9 dalyse, taip pat šio įstatymo 441 straipsnyje nurodytų reikalavimų (draudimų) nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo penkių šimtų iki penkių tūkstančių eurų baudą. Valstybinė vartotojų teisių apsaugos tarnyba už Reglamento (ES) Nr. 524/2013 14 straipsnyje, šio įstatymo 5 straipsnio 3, 4 ir 5 dalyse, 21 straipsnio 2 ir 3 dalyse nurodytų reikalavimų nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo dviejų šimtų penkiasdešimt iki dviejų tūkstančių penkių šimtų eurų baudą.
 Straipsnio dalies pakeitimai:
 Nr. XII-1256, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14862
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
@@ -2779,6 +2779,7 @@ Nr. XII-2757, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26961
 Nr. XIII-1600, 2018-11-06, paskelbta TAR 2018-11-12, i. k. 2018-18211
 Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
 Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
+Nr. XIV-229, 2021-03-30, paskelbta TAR 2021-04-07, i. k. 2021-07271
  
 
 
@@ -3578,3 +3579,8 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12, 13, 22,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3126, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15370
 Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 10 ir 17 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-229, 2021-03-30, paskelbta TAR 2021-04-07, i. k. 2021-07271
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 40 straipsnio pakeitimo įstatymas
