@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2021-05-26 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2021-09-30
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -1548,9 +1548,10 @@ LNSS nepriklausančios įstaigos gali teikti visų rūšių asmens ir visuomenė
 
 
 
-5. Jeigu LNSS nepriklausančios įstaigos įstatymų nustatyta tvarka gauna lėšų iš valstybės arba savivaldybių biudžetų, Sveikatos apsaugos ministerija bei įgalioti Valstybės kontrolės pareigūnai, savivaldybių kontrolės ir audito tarnybos turi teisę tikrinti, kaip tos lėšos naudojamos. 
+5. Jeigu LNSS nepriklausančios įstaigos įstatymų nustatyta tvarka gauna lėšų iš valstybės arba savivaldybių biudžetų, Sveikatos apsaugos ministerija turi teisę tikrinti, kaip tos lėšos naudojamos, o Valstybės kontrolė ir savivaldybių kontrolės ir audito tarnybos turi teisę pagal kompetenciją atlikti šių lėšų naudojimo auditus.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1637, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18927
+Nr. XIV-142, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00263
  
 
 
@@ -3834,3 +3835,8 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5, 45
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3343, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24232
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5, 45, 50 ir 54 straipsnių pakeitimo įstatymo Nr. XIII-2756 1 straipsnio pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-142, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00263
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 19 straipsnio pakeitimo įstatymas
