@@ -13,9 +13,14 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.199156E4E004"
 
 # Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-06-30
+Suvestinė redakcija nuo 2021-07-01 iki 2022-03-22
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 249-0, i. k. 0911010ISTA00I-2044
+ 
+TAR pastaba. Kituose teisės aktuose vartojama sąvoka „nedidelių specialiųjų poreikių lygis“ atstoja sąvoką „vidutinių specialiųjų poreikių lygis“.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 2, 16, 18 ir 20-1 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas
  
 Nauja redakcija nuo 2005-07-01:
 Nr. IX-2228, 2004-05-11, Žin. 2004, Nr. 83-2983 (2004-05-22), i. k. 1041010ISTA0IX-2228
@@ -86,89 +91,137 @@ Nr. XI-1488, 2011-06-21, Žin., 2011, Nr. 85-4134 (2011-07-13), i. k. 1111010IST
 
 
 
-3. Darbingumo lygis – asmens pajėgumas įgyvendinti anksčiau įgytą profesinę kompetenciją ar įgyti naują profesinę kompetenciją arba atlikti mažesnės profesinės kompetencijos reikalaujančius darbus.
+3. Asmeninė pagalba – asmeninio asistento individualiai teikiama pagalba neįgaliajam atlikti darbus ir vykdyti veiklas, kurių dėl negalios jis negali atlikti savarankiškai ir kurie būtini siekiant gyventi savarankiškai ir veikti visose gyvenimo srityse. 
+Papildyta straipsnio dalimi:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+ 
 
 
 
 
-4. Finansinės pagalbos priemonės – socialinė piniginė parama, tikslinės kompensacijos ir išmokos bei lengvatos. Šios priemonės skirtos neįgaliųjų specialiesiems poreikiams tenkinti bei materialinės padėties garantijoms užtikrinti. 
+4. Asmeninis asistentas – fizinis asmuo, teikiantis asmeninę pagalbą neįgaliajam, su kuriuo jis nėra susijęs artimais giminystės ryšiais. 
+Papildyta straipsnio dalimi:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+ 
 
 
 
 
-5. Medicininė reabilitacija – asmens sveikatos priežiūros paslaugų rūšis, apimanti kompleksišką reabilitacijos priemonių taikymą (sugrąžinant, kompensuojant sutrikusias funkcijas, palaikant pasiektą lygį) siekiant didžiausio galimo fizinio, psichinio, socialinio asmens savarankiškumo. 
+5. Darbingumo lygis – asmens pajėgumas įgyvendinti anksčiau įgytą profesinę kompetenciją ar įgyti naują profesinę kompetenciją arba atlikti mažesnės profesinės kompetencijos reikalaujančius darbus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+ 
 
 
 
 
-6. Neįgalumas – dėl asmens kūno sandaros ir funkcijų sutrikimo bei nepalankių aplinkos veiksnių sąveikos atsiradęs ilgalaikis sveikatos būklės pablogėjimas, dalyvavimo visuomenės gyvenime ir veiklos galimybių sumažėjimas. 
+6. Finansinės pagalbos priemonės – socialinė piniginė parama, tikslinės kompensacijos ir išmokos bei lengvatos. Šios priemonės skirtos neįgaliųjų specialiesiems poreikiams tenkinti bei materialinės padėties garantijoms užtikrinti. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+ 
 
 
 
 
-7. Neįgalumo lygis – kompleksiškai įvertinus nustatytas asmens sveikatos būklės, savarankiškumo kasdienėje veikloje ir galimybių ugdytis netekimo mastas.
+7. Medicininė reabilitacija – asmens sveikatos priežiūros paslaugų rūšis, apimanti kompleksišką reabilitacijos priemonių taikymą (sugrąžinant, kompensuojant sutrikusias funkcijas, palaikant pasiektą lygį) siekiant didžiausio galimo fizinio, psichinio, socialinio asmens savarankiškumo. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+ 
 
 
 
 
-8. Neįgalusis – asmuo, kuriam šio Įstatymo nustatyta tvarka nustatytas neįgalumo lygis arba 55 procentų ir mažesnis darbingumo lygis, arba specialiųjų poreikių lygis.
+8. Neįgalumas – dėl asmens kūno sandaros ir funkcijų sutrikimo bei nepalankių aplinkos veiksnių sąveikos atsiradęs ilgalaikis sveikatos būklės pablogėjimas, dalyvavimo visuomenės gyvenime ir veiklos galimybių sumažėjimas. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+ 
+
+
+
+
+9. Neįgalumo lygis – kompleksiškai įvertinus nustatytas asmens sveikatos būklės, savarankiškumo kasdienėje veikloje ir galimybių ugdytis netekimo mastas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+ 
+
+
+
+
+10. Neįgalusis – asmuo, kuriam šio Įstatymo nustatyta tvarka nustatytas neįgalumo lygis arba 55 procentų ir mažesnis darbingumo lygis, arba specialiųjų poreikių lygis.
 Straipsnio dalies pakeitimai:
 Nr. XI-791, 2010-04-29, Žin., 2010, Nr. 60-2958 (2010-05-25), i. k. 1101010ISTA00XI-791
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
  
 
 
 
 
-9. Profesinė reabilitacija – asmens darbingumo, profesinės kompetencijos bei pajėgumo dalyvauti darbo rinkoje atkūrimas arba didinimas ugdymo, socialinio, psichologinio, reabilitacijos ir kitomis poveikio priemonėmis. 
+11. Profesinė reabilitacija – asmens darbingumo, profesinės kompetencijos bei pajėgumo dalyvauti darbo rinkoje atkūrimas arba didinimas ugdymo, socialinio, psichologinio, reabilitacijos ir kitomis poveikio priemonėmis. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+ 
 
 
 
 
-10. Specialusis poreikis – specialiosios pagalbos reikmė, atsirandanti dėl asmens įgimtų ar įgytų ilgalaikių sveikatos sutrikimų (neįgalumo ar darbingumo netekimo) ir nepalankių aplinkos veiksnių.
+12. Specialusis poreikis – specialiosios pagalbos reikmė, atsirandanti dėl asmens įgimtų ar įgytų ilgalaikių sveikatos sutrikimų (neįgalumo ar darbingumo netekimo) ir nepalankių aplinkos veiksnių.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+ 
 
 
 
 
-11. Specialiosios pagalbos priemonės – specialiojo poreikio tenkinimo priemonės, kurių tikslas – jas gaunančiam neįgaliajam užtikrinti lygias ugdymo, profesines, socialines bei visaverčio integravimosi į visuomenę galimybes.
+13. Specialiosios pagalbos priemonės – specialiojo poreikio tenkinimo priemonės, kurių tikslas – jas gaunančiam neįgaliajam užtikrinti lygias ugdymo, profesines, socialines bei visaverčio integravimosi į visuomenę galimybes.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+ 
 
 
 
 
-12. Specialiųjų poreikių lygis – asmens, sukakusio senatvės pensijos amžių, savarankiškumo netekimo mastas, nustatomas atsižvelgiant į asmens specialiuosius poreikius. 
+14. Specialiųjų poreikių lygis – asmens, sukakusio senatvės pensijos amžių, savarankiškumo netekimo mastas, nustatomas atsižvelgiant į asmens specialiuosius poreikius. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
  
 
 
 
 
-13. Specialiųjų ugdymosi poreikių asmuo – asmuo, kurio galimybės dalyvauti ugdymo procese ir visuomenės gyvenime yra ribotos dėl įgimtų ar įgytų ilgalaikių sveikatos sutrikimų (neįgalumo ar darbingumo netekimo).
+15. Specialiųjų ugdymosi poreikių asmuo – asmuo, kurio galimybės dalyvauti ugdymo procese ir visuomenės gyvenime yra ribotos dėl įgimtų ar įgytų ilgalaikių sveikatos sutrikimų (neįgalumo ar darbingumo netekimo).
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
  
 
 
 
 
-14. Socialinė reabilitacija – socialinio poveikio priemonių visuma, skatinanti neįgaliųjų socialinį savarankiškumą, dalyvavimo galimybių didėjimą ir veiklos ribojimo mažėjimą siekiant užtikrinti lygias teises ir galimybes dalyvauti visuomenės gyvenime.
+16. Socialinė reabilitacija – socialinio poveikio priemonių visuma, skatinanti neįgaliųjų socialinį savarankiškumą, dalyvavimo galimybių didėjimą ir veiklos ribojimo mažėjimą siekiant užtikrinti lygias teises ir galimybes dalyvauti visuomenės gyvenime.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
  
 
 
 
 
-15. Techninės pagalbos priemonės – bet koks neįgaliųjų naudojamas specialus ar standartinis gaminys, įrankis, įranga ar techninė sistema, padedantys išvengti, kompensuoti, sumažinti arba pašalinti sutrikusių funkcijų įtaką sveikatos būklei, asmens savarankiškumui, ugdymuisi, darbinei veiklai.
+17. Techninės pagalbos priemonės – bet koks neįgaliųjų naudojamas specialus ar standartinis gaminys, įrankis, įranga ar techninė sistema, padedantys išvengti, kompensuoti, sumažinti arba pašalinti sutrikusių funkcijų įtaką sveikatos būklei, asmens savarankiškumui, ugdymuisi, darbinei veiklai.
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
  
 
 
 
 
-16. Ugdymas – mokymas, lavinimas, įgūdžių, gebėjimų ir vertybinių nuostatų formavimas. 
+18. Ugdymas – mokymas, lavinimas, įgūdžių, gebėjimų ir vertybinių nuostatų formavimas. 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
  
 
 
@@ -553,7 +606,10 @@ Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 
 
-6) savivaldybės vykdo neįgaliųjų socialinės integracijos, neįgaliųjų specialiųjų poreikių tenkinimo vertinant asmens savarankiškumą kasdienėje veikloje ir teikiant bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymo ir bendradarbiavimo su neįgaliųjų asociacijomis priemones ir projektus ir planuoja juos savivaldybės planavimo dokumentuose; 
+6) savivaldybės vykdo neįgaliųjų socialinės integracijos, neįgaliųjų specialiųjų poreikių tenkinimo vertinant asmens savarankiškumą kasdienėje veikloje ir teikiant asmeninę pagalbą, bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymo ir bendradarbiavimo su neįgaliųjų asociacijomis priemones ir projektus ir planuoja juos savivaldybės planavimo dokumentuose; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+ 
 
 
 
@@ -640,7 +696,15 @@ Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
 
 
 
-7) specialiųjų poreikių lygio ir jo termino nustatymo. 
+7) specialiųjų poreikių lygio ir jo termino nustatymo; 
+
+
+
+
+8) neįgaliesiems rekomenduojamų specialiosios pagalbos priemonių.
+Papildyta straipsnio punktu:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+ 
 
 
 
@@ -853,7 +917,15 @@ Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010IST
 
 
 
-6) aplinkos ir būsto pritaikymo.
+6) aplinkos ir būsto pritaikymo;
+
+
+
+
+7) asmeninės pagalbos. 
+Papildyta straipsnio punktu:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+ 
 
 
 
@@ -950,22 +1022,20 @@ Nr. XII-355, 2013-06-11, Žin., 2013, Nr. 68-3400 (2013-06-28), i. k. 1131010IST
 
 
 
-10. Gali būti nustatomi trys specialiųjų poreikių lygiai:
+10. Gali būti nustatomi du specialiųjų poreikių lygiai:
 
 
-1) didelių specialiųjų poreikių lygis - nustatomas asmenims, kuriems nustatytas pirmojo ar antrojo lygio specialusis nuolatinės slaugos poreikis;
-
-
-
-
-2) vidutinių specialiųjų poreikių lygis - nustatomas asmenims, kuriems nustatytas pirmojo lygio specialusis nuolatinės priežiūros (pagalbos) poreikis;
+1) didelių specialiųjų poreikių lygis – nustatomas asmenims, kuriems nustatytas pirmojo ar antrojo lygio specialusis nuolatinės slaugos poreikis, arba asmenims, kuriems iki senatvės pensijos amžiaus sukakties dienos nustatytas 0–30 procentų darbingumo lygis;
 
 
 
 
-3) nedidelių specialiųjų poreikių lygis - nustatomas asmenims, kuriems nustatytas antrojo lygio specialusis nuolatinės priežiūros (pagalbos) poreikis.
+2) vidutinių specialiųjų poreikių lygis – nustatomas asmenims, kuriems nustatytas pirmojo ar antrojo lygio specialusis nuolatinės priežiūros (pagalbos) poreikis, arba asmenims, kuriems iki senatvės pensijos amžiaus sukakties dienos nustatytas 35–55 procentų darbingumo lygis. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+ 
 
 
 
@@ -1280,6 +1350,44 @@ Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
 
 
 
+251 straipsnis. Asmeninės pagalbos teikimas, apmokėjimas ir finansavimas
+
+
+1. Asmeninės pagalbos poreikis nustatomas individualiai kiekvienam neįgaliajam, vertinant kompleksiškai sveikatos būklę ar organizmo funkcinius sutrikimus, galimybes atlikti darbus ir vykdyti veiklas, kurie yra būtini siekiant gyventi savarankiškai ir veikti visose gyvenimo srityse. 
+
+
+
+
+2. Neįgaliojo, pageidaujančio gauti asmeninę pagalbą, asmeninės pagalbos poreikį neįgaliojo prašymu nustato socialiniai darbuotojai, paskirti savivaldybės vykdomosios institucijos nustatyta tvarka. Asmeninės pagalbos poreikio nustatymo ir asmeninės pagalbos teikimo tvarką nustato socialinės apsaugos ir darbo ministras. Sprendimą dėl asmeninės pagalbos skyrimo, sustabdymo, atnaujinimo, pratęsimo ir nutraukimo priima socialinio darbuotojo, nustačiusio asmeninės pagalbos poreikį, teikimu savivaldybės vykdomoji institucija. Asmeninės pagalbos poreikis nustatomas vieniems metams nuo sprendimo dėl asmeninės pagalbos skyrimo priėmimo dienos. 
+
+
+
+
+3. Asmeninis asistentas, pradėdamas teikti asmeninio asistento paslaugas, turi būti išklausęs įžanginius individualios priežiūros personalo mokymus, jeigu neturi Lietuvos Respublikos socialinių paslaugų įstatymo 20 straipsnio 3 dalyje nustatyto išsilavinimo arba nėra įgijęs socialinio darbuotojo padėjėjo, lankomosios priežiūros ar asmeninio asistento kvalifikacijos pagal socialinių darbuotojų padėjėjo, lankomosios priežiūros ar asmeninio asistento profesinio mokymo programą. Įžanginiai individualios priežiūros personalo mokymai vykdomi pagal individualios priežiūros personalo profesinės kompetencijos tobulinimo programas socialinės apsaugos ir darbo ministro nustatyta tvarka.
+
+
+
+
+4. Už asmeninės pagalbos teikimo organizavimą ir jos kokybės užtikrinimą atsako savivaldybių institucijos.
+
+
+
+
+5. Neįgaliojo mokėjimo už asmeninę pagalbą dydis negali viršyti 20 procentų asmeninės pagalbos teikimo išlaidų dydžio ir negali būti didesnis negu 20 procentų neįgaliojo pajamų, nustatytų ir apskaičiuojamų vadovaujantis Socialinių paslaugų įstatymo 30 straipsniu. Asmeninė pagalba teikiama nemokamai neįgaliajam, kurio pajamos yra mažesnės negu 2 valstybės remiamų pajamų dydžiai. Neįgaliojo mokėjimo už asmeninę pagalbą dydį nustato savivaldybės vykdomoji institucija, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+
+
+
+
+6. Valstybės biudžeto lėšų asmeninei pagalbai teikti paskirstymo, pervedimo, naudojimo, atsiskaitymo ir kontrolės tvarką nustato socialinės apsaugos ir darbo ministras. 
+
+
+Papildyta straipsniu:
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+ 
+
+
+
+
 26 straipsnis. Finansinės pagalbos priemonės
 
 
@@ -1422,7 +1530,7 @@ BAIGIAMOSIOS NUOSTATOS
  
 LIETUVOS RESPUBLIKOS
 AUKŠČIAUSIOSIOS TARYBOS 
-PIRMININKAS                                                                                  VYTAUTAS LANDSBERGIS
+PIRMININKAS                                                                                    VYTAUTAS LANDSBERGIS
  
 Vilnius, 1991 m. lapkričio 28 d. 
 Nr. I-2044
@@ -1607,3 +1715,8 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3119, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15356
 Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 6 ir 16 straipsnių pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 2, 16, 18 ir 20-1 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas
