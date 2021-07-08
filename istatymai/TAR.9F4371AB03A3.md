@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F4371AB03A3"
 
 # Lietuvos Respublikos advokatūros įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2021-07-07
+Suvestinė redakcija nuo 2021-07-08 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 50-1632, i. k. 1041010ISTA0IX-2066
  
@@ -527,7 +527,10 @@ Asmuo, norintis laikyti advokatų egzaminus, privalo pateikti Lietuvos advokatū
 
 
 
-4) asmuo, norintis laikyti advokatų kvalifikacinį egzaminą, – dokumentą, įrodantį šio Įstatymo 7 straipsnio 3 punkte nurodytą teisinio darbo stažą, arba advokato padėjėjo praktikos vadovo duotą teigiamą praktikos įvertinimą, o asmuo, norintis laikyti advokatų veiklos organizavimo egzaminą, – dokumentą, įrodantį septynerių metų teisėjo darbo stažą arba dešimties metų prokuroro darbo stažą, arba dokumentą, patvirtinantį teisės krypties socialinių mokslų daktaro ar habilituoto daktaro laipsnį, arba dokumentą, patvirtinantį, kad buvo išbrauktas iš praktikuojančių advokatų sąrašo Advokatūros įstatymo Nr. VIII-811 24 straipsnio 1, 5 ar 6 punkte nurodytais pagrindais;
+4) asmuo, norintis laikyti advokatų kvalifikacinį egzaminą, – dokumentą, įrodantį šio Įstatymo 7 straipsnio 3 punkte nurodytą teisinio darbo stažą, arba advokato padėjėjo praktikos vadovo duotą teigiamą praktikos įvertinimą, o asmuo, norintis laikyti advokatų veiklos organizavimo egzaminą, – dokumentą, įrodantį nepertraukiamą ne mažesnį kaip penkerių metų advokato veiklos stažą, įgytą iki sprendimo pripažinti jį advokatu panaikinimo, kai sprendimas pripažinti jį advokatu buvo panaikintas šio Įstatymo 13 straipsnio 1 dalies 2 ir 4 punktuose nurodytais pagrindais, arba dokumentą, patvirtinantį nepertraukiamą ne mažesnį kaip penkerių metų teisėjo darbo stažą arba nepertraukiamą ne mažesnį kaip septynerių metų prokuroro darbo stažą, arba dokumentą, patvirtinantį teisės krypties socialinių mokslų daktaro laipsnį;
+Straipsnio punkto pakeitimai:
+Nr. XIV-445, 2021-06-22, paskelbta TAR 2021-07-07, i. k. 2021-15449
+ 
 
 
 
@@ -2756,7 +2759,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                           ROLANDAS PAKSAS 
+RESPUBLIKOS PREZIDENTAS                                                            ROLANDAS PAKSAS 
  
 
 
@@ -2902,3 +2905,8 @@ Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 14, 17, 23, 24
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3082, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14357
 Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 59 ir 60 straipsnių pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-445, 2021-06-22, paskelbta TAR 2021-07-07, i. k. 2021-15449
+Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 16 straipsnio pakeitimo įstatymas
