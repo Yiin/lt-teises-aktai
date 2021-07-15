@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-07-14
+Suvestinė redakcija nuo 2021-07-15 iki 2021-07-31
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -7972,33 +7972,33 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 
 
 
-208 straipsnis. Informavimas ir konsultavimasis verslo ar jo dalies perdavimo atveju
+208 straipsnis. Informavimas ir konsultavimasis įmonės reorganizavimo, restruktūrizavimo ir verslo ar jo dalies perdavimo atveju
 
 
-1. Prieš priimdamas sprendimą dėl įmonės reorganizavimo, verslo ar jo dalies perdavimo ir kitus sprendimus, galinčius turėti esminės įtakos darbo organizavimui įmonėje ir darbuotojų teisinei padėčiai, darbdavys privalo informuoti darbo tarybas ir konsultuotis su jomis dėl tokio sprendimo priežasčių bei teisinių, ekonominių ir socialinių padarinių darbuotojams ir dėl numatytų priemonių galimiems padariniams išvengti arba jiems sušvelninti.
-
-
-
-
-2. Ne vėliau kaip per penkias darbo dienas iki numatomų konsultacijų pradžios darbdavys darbo taryboms raštu turi suteikti informaciją apie: 
-
-
-1) perdavimo datą arba siūlomą perdavimo datą;
+1. Prieš priimdamas sprendimą dėl įmonės reorganizavimo, restruktūrizavimo, verslo ar jo dalies perdavimo ir kitus sprendimus, galinčius turėti esminės įtakos darbo organizavimui įmonėje ir darbuotojų teisinei padėčiai, darbdavys privalo informuoti darbo tarybas ir konsultuotis su jomis dėl tokio sprendimo priežasčių bei teisinių, ekonominių ir socialinių padarinių darbuotojams ir dėl numatytų priemonių galimiems neigiamiems padariniams išvengti arba jiems sušvelninti.
 
 
 
 
-2) perdavimo teisinį pagrindą;
+2. Ne vėliau kaip prieš penkias darbo dienas iki numatomų konsultacijų pradžios darbdavys darbo taryboms raštu turi suteikti informaciją apie: 
+
+
+1) numatomą šio straipsnio 1 dalyje nurodyto sprendimo priėmimo datą, įgyvendinimo pradžią ir trukmę;
 
 
 
 
-3) perdavimo teisinius, ekonominius ir socialinius padarinius darbuotojams;
+2) šio straipsnio 1 dalyje nurodyto sprendimo teisinį pagrindą;
 
 
 
 
-4) priemones, numatytas darbuotojams.
+3) šio straipsnio 1 dalyje nurodyto sprendimo įgyvendinimo teisinius, ekonominius ir socialinius padarinius darbuotojams;
+
+
+
+
+4) būdus ir priemones, kaip išvengti neigiamų teisinių, ekonominių ir socialinių padarinių darbuotojams ar juos sušvelninti.
 
 
 
@@ -8010,15 +8010,17 @@ Nr. XIII-413, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10021
 
 
 
-4. Suteiktos informacijos pagrindu vyksta konsultacijos su darbo tarybomis, kuriomis siekiama susitarti, kokiais būdais ir priemonėmis galima išvengti verslo ar jo dalies perdavimo neigiamų teisinių, ekonominių ir socialinių padarinių darbuotojams ar juos sušvelninti. Konsultacijomis turi būti siekiama darbdavio ir darbuotojų atstovų susitarimo sudarymo. Darbdavio lygmeniu veikianti profesinė sąjunga darbo tarybos turi būti informuojama apie konsultacijų eigą ir turi teisę pareikšti savo nuomonę jai ir darbdaviui.
+4. Suteiktos informacijos pagrindu vyksta konsultacijos su darbo tarybomis, kuriomis siekiama susitarti, kokiais būdais ir priemonėmis galima išvengti įmonės reorganizavimo, restruktūrizavimo ir verslo ar jo dalies perdavimo neigiamų teisinių, ekonominių ir socialinių padarinių darbuotojams ar juos sušvelninti. Konsultacijomis turi būti siekiama darbdavio ir darbuotojų atstovų susitarimo sudarymo. Darbdavio lygmeniu veikianti profesinė sąjunga darbo tarybos turi būti informuojama apie konsultacijų eigą ir turi teisę pareikšti savo nuomonę jai ir darbdaviui.
 
 
 
 
 5. Darbdavys privalo vesti konsultacijas ne trumpiau kaip penkias darbo dienas nuo pirmos konsultavimosi dienos, nebent darbo taryba sutinka su kitokiu terminu.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-453, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15471
  
-
-
 
 
 
@@ -9977,3 +9979,8 @@ Lietuvos Respublikos darbo kodekso 3 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3334, 2020-10-15, paskelbta TAR 2020-10-27, i. k. 2020-22303
 Lietuvos Respublikos darbo kodekso 179 straipsnio pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-453, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15471
+Lietuvos Respublikos darbo kodekso 208 straipsnio pakeitimo įstatymas
