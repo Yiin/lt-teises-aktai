@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/613244607e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymas
 
-Suvestinė redakcija nuo 2021-01-20 iki 2021-07-14
+Suvestinė redakcija nuo 2021-07-15 iki 2022-12-31
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23708
- 
-TAR pastaba. Įstatymo Nr. XIV-173 nuostatos taikomos asmenims, kurie į darbą buvo priimti iki 2020 m. gruodžio 31 d. ir kuriuos iš darbo ne anksčiau kaip 2021 m. sausio 1 d. atleido darbdavys, kuriam pritaikytos Europos Sąjungos sankcijos pagal 2006 m. gegužės 18 d. Tarybos reglamentą (EB) Nr. 765/2006 dėl Baltarusijai taikomų ribojamųjų priemonių.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
-Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 1, 2, 10, 11, 12, 13, 14, 15, 19 straipsnių, III skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
  
 
  
@@ -126,17 +121,17 @@ Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
 1. Šiame įstatyme nustatytos garantijos darbuotojams jų darbdaviui tapus nemokiam užtikrinamos:
 
 
-1) Lietuvos Respublikos juridinių asmenų, kurių bankroto procesas vykdomas Lietuvos Respublikos juridinių asmenų nemokumo įstatymo (toliau – Juridinių asmenų nemokumo įstatymas) nustatyta tvarka arba dėl kurių yra priimta teismo nutartis atsisakyti iškelti nemokaus juridinio asmens bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva, taip pat fizinių asmenų, ūkininkų ir kitų fizinių asmenų, kurie verčiasi individualia veikla, kaip ji apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme, ir kurių pagrindinių turtinių interesų vieta yra Lietuvos Respublikoje, kurių bankroto procesas vykdomas Lietuvos Respublikos fizinių asmenų bankroto įstatyme nustatyta tvarka (toliau visi šiame punkte nurodyti nemokumo procesai kartu – Lietuvos Respublikos įstatymais reglamentuoti bankroto procesai), darbuotojams;
+1) Lietuvos Respublikos juridinių asmenų, kurių bankroto arba restruktūrizavimo procesas vykdomas Lietuvos Respublikos juridinių asmenų nemokumo įstatymo nustatyta tvarka arba dėl kurių yra priimta teismo nutartis atsisakyti iškelti nemokaus juridinio asmens bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva, taip pat fizinių asmenų, ūkininkų ir kitų fizinių asmenų, kurie verčiasi individualia veikla, kaip ji apibrėžta Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme, ir kurių pagrindinių turtinių interesų vieta yra Lietuvos Respublikoje, kurių bankroto procesas vykdomas Lietuvos Respublikos fizinių asmenų bankroto įstatyme nustatyta tvarka (toliau visi šiame punkte nurodyti nemokumo procesai kartu – Lietuvos Respublikos įstatymais reglamentuoti nemokumo procesai), darbuotojams;
 
 
 
 
-2) kitų Europos Sąjungos valstybių narių arba kitų Europos ekonominės erdvės valstybių (toliau – valstybė narė) juridinių asmenų ar kitų organizacijų, dėl kurių pradėti Juridinių asmenų nemokumo įstatyme reglamentuotam bankroto procesui tolygūs nemokumo procesai, arba nemokaus juridinio asmens, likviduojamo administracine tvarka, padalinių, įsteigtų Lietuvos Respublikoje, darbuotojams;
+2) kitų Europos Sąjungos valstybių narių arba kitų Europos ekonominės erdvės valstybių (toliau – valstybė narė) juridinių asmenų ar kitų organizacijų, dėl kurių pradėti Lietuvos Respublikos įstatymais reglamentuojamiems nemokumo procesams tolygūs nemokumo procesai, arba nemokaus juridinio asmens, likviduojamo administracine tvarka, padalinių, įsteigtų Lietuvos Respublikoje, darbuotojams;
 
 
 
 
-3) kitų valstybių narių juridinių asmenų, kitų organizacijų ir jų padalinių, fizinių asmenų, kurių pagrindinių turtinių interesų vieta yra kitoje valstybėje narėje, kurie atitinkama veikla verčiasi ne mažiau kaip dviejų valstybių narių teritorijose ir dėl kurių pradėti Lietuvos Respublikos įstatymais reglamentuotiems bankroto procesams tolygūs nemokumo procesai, darbuotojams, kurie nuolat dirba Lietuvos Respublikoje.
+3) kitų valstybių narių juridinių asmenų, kitų organizacijų ir jų padalinių, fizinių asmenų, kurių pagrindinių turtinių interesų vieta yra kitoje valstybėje narėje, kurie atitinkama veikla verčiasi ne mažiau kaip dviejų valstybių narių teritorijose ir dėl kurių pradėti Lietuvos Respublikos įstatymais reglamentuotiems nemokumo procesams tolygūs nemokumo procesai, darbuotojams, kurie nuolat dirba Lietuvos Respublikoje.
 
 
 
@@ -153,21 +148,22 @@ Nr. XIII-2823, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05704
 
 
 
-4. Sprendžiant dėl nemokumo procesų, pradėtų kitoje valstybėje narėje, tolygumo Lietuvos Respublikos įstatymais reglamentuotiems bankroto procesams, atsižvelgiama į kitoje valstybėje narėje priimtus sprendimus dėl nemokumo procesų, nurodytų 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamento (ES) 2015/848 dėl nemokumo bylų (OL 2015 L 141, p. 19) A priede.
+4. Sprendžiant dėl nemokumo procesų, pradėtų kitoje valstybėje narėje, tolygumo Lietuvos Respublikos įstatymais reglamentuotiems nemokumo procesams, atsižvelgiama į kitoje valstybėje narėje priimtus sprendimus dėl nemokumo procesų, nurodytų 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamento (ES) 2015/848 dėl nemokumo bylų A priede.
 
 
 
 
-5. Garantijos darbuotojams jų darbdaviui tapus nemokiam užtikrinamos darbuotojams, dirbusiems iki teismo nutarties iškelti bankroto bylą, teismo nutarties atsisakyti iškelti bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva arba kreditorių susirinkimo nutarimo bankroto procesą vykdyti ne teismo tvarka priėmimo dienos, neatsižvelgiant į tai, ar jų darbo santykiai tęsiasi, ar darbo sutartis baigėsi darbo santykius reglamentuojančių teisės aktų nustatyta tvarka, taip pat neatsižvelgiant į darbo sutarties rūšį.
+5. Garantijos darbuotojams jų darbdaviui tapus nemokiam užtikrinamos darbuotojams, dirbusiems iki teismo nutarties iškelti bankroto arba restruktūrizavimo bylą (toliau, kai šio įstatymo nuostatos taikomos ir darbdavio restruktūrizavimo bylai, ir darbdavio bankroto bylai, – nemokumo byla), teismo nutarties atsisakyti iškelti bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva arba kreditorių susirinkimo nutarimo bankroto procesą vykdyti ne teismo tvarka priėmimo dienos, neatsižvelgiant į tai, ar jų darbo santykiai tęsiasi, ar darbo sutartis baigėsi darbo santykius reglamentuojančių teisės aktų nustatyta tvarka, taip pat neatsižvelgiant į darbo sutarties rūšį.
 
 
 
 
-6. Garantijos darbuotojams jų darbdaviui tapus nemokiam užtikrinamos skiriant ir mokant išmokas iš Garantinio fondo. 
+6. Garantijos darbuotojams jų darbdaviui tapus nemokiam užtikrinamos skiriant ir mokant išmokas iš Garantinio fondo.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
+Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
  
 
 
@@ -333,7 +329,10 @@ Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
 Garantinio fondo lėšos naudojamos:
 
 
-1) šio įstatymo 3 straipsnio 1 dalyje nurodytų darbdavių darbuotojų negautoms priskaičiuotoms su darbo santykiais susijusioms sumoms, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos, neviršijančioms šio įstatymo 7 straipsnyje nustatytų dydžių, mokėti;
+1) šio įstatymo 3 straipsnio 1 dalyje nurodytų darbdavių darbuotojų negautoms priskaičiuotoms su darbo santykiais susijusioms sumoms, neviršijančioms šio įstatymo 7 straipsnyje nustatytų dydžių, mokėti;
+Straipsnio punkto pakeitimai:
+Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
+ 
 
 
 
@@ -374,12 +373,12 @@ Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
 1. Išmokos, nurodytos šio įstatymo 6 straipsnio 1 punkte, apskaičiuojamos:
 
 
-1) kai darbdaviui iškelta bankroto byla arba bankroto procesas vykdomas ne teismo tvarka, – pagal teismo nutartimi ar kreditorių susirinkimo sprendimu patvirtintas darbuotojų reikalavimų sumas, susijusias su darbo santykiais, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos. Tuo atveju, jeigu darbuotojų reikalavimų sumos neviršija šešių minimaliųjų mėnesinių algų dydžio, darbuotojui išmokama patvirtinto reikalavimo šių sumų dydžio išmoka. Tuo atveju, jeigu reikalavimo suma viršija šešių minimaliųjų mėnesinių algų dydį, darbuotojui išmokama šešių minimaliųjų mėnesinių algų dydžio išmoka;
+1) kai darbdaviui iškelta nemokumo byla arba bankroto procesas vykdomas ne teismo tvarka, – pagal teismo nutartimi ar kreditorių susirinkimo sprendimu patvirtintas darbuotojų reikalavimų sumas, kurios teismo nutartyje ar kreditorių susirinkimo sprendime turi būti nurodomos atskaičius darbuotojo mokėtinas valstybinio socialinio draudimo įmokas, pensijų kaupimo įmokas pagal Lietuvos Respublikos pensijų kaupimo įstatymą, privalomojo sveikatos draudimo įmokas, mokėtiną gyventojų pajamų mokestį ir kurios turi būti nurodomos atskirai pagal Juridinių asmenų nemokumo įstatyme ar Fizinių asmenų bankroto įstatyme nustatytus reikalavimų tenkinimo etapus. Tuo atveju, jeigu pirmuoju etapu tenkintina darbuotojo reikalavimo suma neviršija šešių minimaliųjų mėnesinių algų dydžio, darbuotojui išmokama patvirtinto pirmuoju etapu tenkintino reikalavimo dydžio išmoka. Tuo atveju, jeigu šio reikalavimo suma viršija šešių minimaliųjų mėnesinių algų dydį, darbuotojui išmokama šešių minimaliųjų mėnesinių algų dydžio išmoka;
 
 
 
 
-2) kai dėl nemokaus juridinio asmens yra priimta teismo nutartis atsisakyti iškelti bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva, – pagal Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro (toliau – Registras) duomenis apie darbuotojui per 3 mėnesius iki teismo nutarties atsisakyti iškelti bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva priėmimo dienos priskaičiuotas su darbo santykiais susijusias pajamas, nuo kurių skaičiuojamos valstybinio socialinio draudimo įmokos. Darbuotojui išmokama minėtu laikotarpiu priskaičiuotų su darbo santykiais susijusių pajamų, išskaičiavus mokesčius, dydžio išmoka, tačiau ne didesnė negu šešių minimaliųjų mėnesinių algų dydžio.
+2) kai dėl nemokaus juridinio asmens yra priimta teismo nutartis atsisakyti iškelti bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva, – pagal Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro (toliau – Registras) duomenis apie darbuotojui per 3 mėnesius iki teismo nutarties atsisakyti iškelti bankroto bylą ir pavesti inicijuoti juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva priėmimo dienos priskaičiuotas su darbo santykiais susijusias pajamas, atskaičius šio straipsnio 1 dalies 1 punkte nurodytas įmokas ir gyventojų pajamų mokestį, tačiau neviršijančius šešių minimaliųjų mėnesinių algų dydžio.
 
 
 
@@ -389,7 +388,7 @@ Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
 2. Apskaičiuojant iš Garantinio fondo skiriamas lėšas, taikomas minimaliosios mėnesinės algos dydis, buvęs:
 
 
-1) teismo nutarties iškelti bankroto bylą priėmimo dieną; 
+1) teismo nutarties iškelti nemokumo bylą priėmimo dieną;
 
 
 
@@ -406,11 +405,12 @@ Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
 
 
 
-3. Šio straipsnio 2 dalyje nurodyti dokumentai teikiami administratoriui Juridinių asmenų nemokumo įstatymo ir Fizinių asmenų bankroto įstatymo nustatyta tvarka. 
+3. Šio straipsnio 2 dalyje nurodyti dokumentai teikiami administratoriui Juridinių asmenų nemokumo įstatymo ir Fizinių asmenų bankroto įstatymo nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2227, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10341
+Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
  
 
 
@@ -872,7 +872,10 @@ Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
 
 
 
-7) tvirtina paraiškos ir sutarties pavyzdines formas, rekomendacijas dėl paraiškų pildymo ir teikimo ir skelbia jas savo interneto svetainėje;
+7) neteko galios nuo 2021-07-15;
+Straipsnio punkto pakeitimai:
+Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
+ 
 
 
 
@@ -1090,7 +1093,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
  
 
 
@@ -1156,3 +1159,8 @@ Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir il
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-173, 2021-01-14, paskelbta TAR 2021-01-19, i. k. 2021-00842
 Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 1, 2, 10, 11, 12, 13, 14, 15, 19 straipsnių, III skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-452, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15470
+Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo Nr. XII-2604 3, 6, 7 ir 19 straipsnių pakeitimo įstatymas
