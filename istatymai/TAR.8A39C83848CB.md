@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-07-14
+Suvestinė redakcija nuo 2021-07-15 iki 2021-07-29
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -6322,7 +6322,10 @@ Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
 
 
 
-3. Kai pasikeičia šio straipsnio 1 ir 2 dalyse nurodyti duomenys, taip pat kai pakeičiami steigimo dokumentai ar kiti šio straipsnio 1 ir 2 dalyse nurodyti duomenys, juridinis asmuo privalo pateikti nustatytos formos prašymą įregistruoti pakeitimus juridinių asmenų registre per trisdešimt dienų nuo pakeitimų padarymo dienos. Kartu su prašymu įregistruoti pakeitimą turi būti pateikti dokumentai, nurodyti šio kodekso 2.64 straipsnio 2 dalies 4 punkte ir visas pakeisto dokumento tekstas, jei dokumentas keičiamas.
+3. Kai pasikeičia šio straipsnio 1 ir 2 dalyse nurodyti duomenys, taip pat kai pakeičiami steigimo dokumentai ar kiti šio straipsnio 1 ir 2 dalyse nurodyti duomenys, juridinis asmuo privalo (išskyrus šio straipsnio 5 dalyje nurodytus atvejus, kai teismo procesinius dokumentus pateikia teismas) pateikti nustatytos formos prašymą įregistruoti pakeitimus juridinių asmenų registre per trisdešimt dienų nuo pakeitimų padarymo dienos. Kartu su prašymu įregistruoti pakeitimą turi būti pateikti dokumentai, nurodyti šio kodekso 2.64 straipsnio 2 dalies 4 punkte, ir visas pakeisto dokumento tekstas, jei dokumentas keičiamas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-454, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15472
+ 
 
 
 
@@ -6335,7 +6338,18 @@ Nr. XIII-1185, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09076
 
 
 
-5. Šio straipsnio 1 dalies 1–7 ir 11 punktuose išvardytų duomenų, taip pat steigimo dokumentų pakeitimai įsigalioja tik nuo jų įregistravimo juridinių asmenų registre, išskyrus įstatymų numatytas išimtis.
+5. Lietuvos Respublikos juridinių asmenų nemokumo įstatyme nustatytais atvejais, kai nemokumo procesas vykdomas teismo tvarka, šio straipsnio 1 dalies 10 ir 11 punktuose nurodyti duomenys ir kiti su juridinio asmens teisinio statuso registravimu (išregistravimu) susiję duomenys juridinių asmenų registre registruojami teismo procesinių dokumentų (nutarčių, sprendimų) pagrindu. 
+Papildyta straipsnio dalimi:
+Nr. XIV-454, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15472
+ 
+
+
+
+
+6. Šio straipsnio 1 dalies 1–7 ir 11 punktuose išvardytų duomenų, taip pat steigimo dokumentų pakeitimai įsigalioja tik nuo jų įregistravimo juridinių asmenų registre, išskyrus įstatymų numatytas išimtis.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-454, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15472
+ 
 
 
 Straipsnio pakeitimai:
@@ -50051,3 +50065,8 @@ Lietuvos Respublikos civilinio kodekso 6.353 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-242, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08876
 Lietuvos Respublikos civilinio kodekso 2.72 straipsnio pakeitimo įstatymas
+ 
+52.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-454, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15472
+Lietuvos Respublikos civilinio kodekso 2.66 straipsnio pakeitimo įstatymas
