@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS FIZINIŲ ASMENŲ BANKROTO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2021-07-09 iki 2021-07-14
+Suvestinė redakcija nuo 2021-07-15 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 57-2823, i. k. 1121010ISTA0XI-2000
  
@@ -390,9 +390,18 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 
 
-9. Teismas, priėmęs nutartį atsisakyti iškelti fizinio asmens bankroto bylą, ne vėliau kaip kitą darbo dieną nuo šios nutarties įsiteisėjimo dienos šios nutarties patvirtintą kopiją išsiunčia antstoliams, kuriems yra pateikti vykdomieji dokumentai dėl išieškojimo iš šio fizinio asmens ar dėl jo turto arešto, taip pat kredito įstaigoms, kuriose yra fizinio asmens sąskaitos. Turto realizavimas ir (ar) išieškojimas, įskaitant išieškojimą ne ginčo tvarka, atnaujinamas, taikytos laikinosios apsaugos priemonės nuo pareiškimo iškelti fizinio asmens bankroto bylą priėmimo iki atsisakymo iškelti fizinio asmens bankroto bylą panaikinamos.
+9. Teismas, priėmęs nutartį atsisakyti iškelti fizinio asmens bankroto bylą, ne vėliau kaip kitą darbo dieną nuo šios nutarties įsiteisėjimo dienos šios nutarties patvirtintą kopiją išsiunčia antstoliams, kuriems yra pateikti vykdomieji dokumentai dėl išieškojimo iš šio fizinio asmens ar dėl jo turto arešto, taip pat kredito įstaigoms, kuriose yra fizinio asmens sąskaitos. Turto realizavimas ir (ar) išieškojimas, įskaitant išieškojimą ne ginčo tvarka, atnaujinamas, išskyrus atvejus, kai nutartis atsisakyti iškelti fizinio asmens bankroto bylą priimta šio straipsnio 8 dalies 6 punkte nurodytu pagrindu, taikytos laikinosios apsaugos priemonės nuo pareiškimo iškelti fizinio asmens bankroto bylą priėmimo iki atsisakymo iškelti fizinio asmens bankroto bylą panaikinamos.
 Straipsnio dalies pakeitimai:
 Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
+ 
+
+
+
+
+10. Teismas, priėmęs nutartį atsisakyti iškelti fizinio asmens bankroto bylą šio straipsnio 8 dalies 6 punkte nurodytu pagrindu, ne vėliau kaip kitą darbo dieną nuo šios nutarties įsiteisėjimo dienos visus su pareiškimu iškelti fizinio asmens bankroto bylą susijusius dokumentus perduoda neribotos civilinės atsakomybės juridinio asmens, kurio dalyvis yra fizinis asmuo, bankroto bylą nagrinėjančiam teismui, o šis sprendžia fizinio asmens turto realizavimo ir (ar) išieškojimo, įskaitant išieškojimą ne ginčo tvarka, ir laikinųjų apsaugos priemonių atnaujinimo klausimus.
+Papildyta straipsnio dalimi:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
  
 
 
@@ -595,7 +604,10 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 
 
 
-7) bankroto administravimo išlaidų suma ir jos pagrindimas;
+7) bankroto administravimo išlaidų pagal šio įstatymo 22 straipsnio 1 dalyje nurodytą administravimo išlaidų struktūrą sumos ir jų pagrindimas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
+ 
 
 
 
@@ -715,9 +727,10 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 2. Bankroto administratorius, gavęs plano projektą:
 
 
-1) ne vėliau kaip per 5 darbo dienas nuo plano projekto gavimo dienos parengia ir pateikia fiziniam asmeniui argumentuotą rašytinę išvadą dėl plano projekto įgyvendinimo galimybių (toliau – išvada). Šioje išvadoje turi būti nurodyta, ar fizinio asmens turimas turtas ir profesinė kvalifikacija, individualios ar ūkininko veiklos vykdymas (kai tokią veiklą numatoma vykdyti) ir kitos plano įgyvendinimui reikšmingos faktinės aplinkybės leidžia tikėtis plano projekte numatytų lėšų, kad būtų įvykdyti plano projekte numatyti mokėjimai; ar fizinis asmuo numato panaudoti visas galimybes gauti lėšų kreditorių reikalavimams patenkinti, taip pat visos kitos aplinkybės, kurias, administratoriaus vertinimu, tikslinga nurodyti; 
+1) ne vėliau kaip per 5 darbo dienas nuo plano projekto gavimo dienos parengia ir pateikia fiziniam asmeniui argumentuotą rašytinę išvadą dėl plano projekto įgyvendinimo galimybių (toliau – išvada). Šioje išvadoje turi būti nurodyta, ar fizinio asmens turimas turtas ir profesinė kvalifikacija, individualios ar ūkininko veiklos vykdymas (kai tokią veiklą numatoma vykdyti) ir kitos plano įgyvendinimui reikšmingos faktinės aplinkybės leidžia tikėtis plano projekte numatytų lėšų, kad būtų įvykdyti plano projekte numatyti mokėjimai; ar fizinis asmuo numato panaudoti visas galimybes gauti lėšų kreditorių reikalavimams patenkinti ir administravimo išlaidoms apmokėti, taip pat visos kitos aplinkybės, kurias, administratoriaus vertinimu, tikslinga nurodyti. Išvadoje administratorius privalo įvertinti administravimo išlaidų sumos pagrindimą; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
  
 
 
@@ -730,10 +743,11 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 
 
 
-3. Kreditorių susirinkime dėl pritarimo plano projektui balsuojama grupėse. Vieną grupę sudaro įkaito turėtojai ir hipotekos kreditoriai, kitą – kiti kreditoriai. Sprendimas dėl pritarimo plano projektui laikomas priimtu, kai kiekvienoje kreditorių grupėje plano projektui pritaria kreditoriai, kurių teismo patvirtintų reikalavimų suma vertine išraiška sudaro daugiau kaip pusę šios grupės kreditorių teismo patvirtintų reikalavimų sumos. Jeigu balsai dėl pritarimo plano projektui vienoje kreditorių grupėje pasiskirsto po lygiai, laikoma, kad plano projektui nepritarta. Jeigu kreditorių susirinkimas nepritaria plano projektui dėl to, kad jis neatitinka šio įstatymo 7 straipsnyje nustatytų reikalavimų, plano projektas gali būti tikslinamas ir ne vėliau kaip per 2 mėnesius nuo kreditorių sprendimo nepritarti plano projektui priėmimo pakartotinai teikiamas kreditorių susirinkimui. Jeigu kreditorių susirinkimas nepritaria plano projektui nenurodydamas priežasčių arba dėl priežasčių, nesusijusių su plano projekto tikslinimu pagal šio įstatymo 7 straipsnyje nustatytus reikalavimus, plano projektas pateikiamas teismui šio straipsnio 4 ir 5 dalyse nustatyta tvarka. Kai plano projektas patikslinamas, išskyrus šio straipsnio 6 dalyje numatytą atvejį, bankroto administratorius turi teisę per 2 darbo dienas nuo patikslinto plano projekto gavimo dienos pateikti naują išvadą. 
+3. Kreditorių susirinkime dėl pritarimo plano projektui balsuojama kreditorių grupėse. Vieną grupę sudaro įkaito turėtojai ir hipotekos kreditoriai, kitą – kiti kreditoriai. Sprendimas dėl pritarimo plano projektui laikomas priimtu, kai kiekvienoje kreditorių grupėje plano projektui pritaria kreditoriai, kurių teismo patvirtintų reikalavimų suma vertine išraiška sudaro daugiau kaip pusę šios grupės kreditorių teismo patvirtintų reikalavimų sumos. Jeigu balsai dėl pritarimo plano projektui vienoje kreditorių grupėje pasiskirsto po lygiai, laikoma, kad plano projektui nepritarta. Jeigu kreditorių susirinkimas nepritaria plano projektui dėl to, kad jis neatitinka šio įstatymo 7 straipsnyje nustatytų reikalavimų, ir (arba) pritaria administratoriaus išvadai, kad nėra galimybių įgyvendinti planą ir (arba) administravimo išlaidų sumos pagal šio įstatymo 22 straipsnio 1 dalyje nurodytą administravimo išlaidų struktūrą nepagrįstai didelės ar nepagrįstai mažos, plano projektas gali būti tikslinamas ir ne vėliau kaip per 2 mėnesius nuo kreditorių sprendimo nepritarti plano projektui priėmimo pakartotinai teikiamas kreditorių susirinkimui. Jeigu kreditorių susirinkimas nepritaria plano projektui nenurodydamas priežasčių arba dėl priežasčių, nesusijusių su plano projekto tikslinimu pagal šio įstatymo 7 ir šiame straipsnyje nustatytus reikalavimus, plano projektas pateikiamas teismui šio straipsnio 4 ir 5 dalyse nustatyta tvarka. Kai plano projektas patikslinamas, išskyrus šio straipsnio 6 dalyje numatytą atvejį, bankroto administratorius turi teisę per 2 darbo dienas nuo patikslinto plano projekto gavimo dienos pateikti naują išvadą.
 Straipsnio dalies pakeitimai:
 Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
  
 
 
@@ -1679,14 +1693,25 @@ Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
 
 
 
-21 straipsnis. Darbo santykių reguliavimas
+21 straipsnis. Darbo santykių reguliavimas 
 
 
-Juridinių asmenų nemokumo įstatymo nuostatos, reglamentuojančios darbo santykius juridinių asmenų bankroto proceso metu, mutatis mutandis taikomos fizinio asmens bankroto proceso metu. 
+Fizinio asmens bankroto proceso metu mutatis mutandis taikomos Juridinių asmenų nemokumo įstatymo nuostatos, reglamentuojančios:
+
+
+1) darbo santykius juridinių asmenų bankroto proceso metu, kai fizinio asmens vykdoma individuali ir (ar) ūkininko veikla nutraukiama;
+
+
+
+
+2) darbo santykius juridinių asmenų restruktūrizavimo proceso metu, kai fizinio asmens vykdoma individuali ir (ar) ūkininko veikla tęsiama.
+
+
 
 
 Straipsnio pakeitimai:
 Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
  
 
 
@@ -1758,9 +1783,10 @@ KREDITORIŲ TEISĖS IR PAREIGOS FIZINIO ASMENS BANKROTO PROCESO METU
 
 
 
-6. Teismas priima nutartį dėl kreditorių reikalavimų tvirtinimo ar atsisakymo juos tvirtinti ne vėliau kaip per 20 dienų nuo kreditorių ir jų reikalavimų sąrašo gavimo dienos. Teismo nutartyje dėl kreditorių reikalavimų tvirtinimo prie darbuotojų su darbo santykiais susijusių reikalavimų turi būti išskirtos šių reikalavimų sumos, nuo kurių yra skaičiuojamos valstybinio socialinio draudimo įmokos. Teismo nutartis dėl kreditorių reikalavimų tvirtinimo ar atsisakymo juos tvirtinti atskiruoju skundu gali būti skundžiama teisės aktų nustatyta tvarka. Atskirasis skundas turi būti išnagrinėtas teisme ne vėliau kaip per 30 dienų nuo jo gavimo apeliacinės instancijos teisme dienos. 
+6. Teismas priima nutartį dėl kreditorių reikalavimų tvirtinimo ar atsisakymo juos tvirtinti ne vėliau kaip per 20 dienų nuo kreditorių ir jų reikalavimų sąrašo gavimo dienos. Teismo nutartyje dėl kreditorių reikalavimų tvirtinimo darbuotojų su darbo santykiais susiję reikalavimai turi būti nurodyti pagal Lietuvos Respublikos garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymą. Teismo nutartis dėl kreditorių reikalavimų tvirtinimo ar atsisakymo juos tvirtinti atskiruoju skundu gali būti skundžiama teisės aktų nustatyta tvarka. Atskirasis skundas turi būti išnagrinėtas teisme ne vėliau kaip per 30 dienų nuo jo gavimo apeliacinės instancijos teisme dienos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
  
 
 
@@ -2151,7 +2177,10 @@ Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 
 
 
-10. Žemės ūkio veiklos subjektų reikalavimai tenkinami 2013 m. gruodžio 18 d. Komisijos reglamento (ES) Nr. 1408/2013 dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai žemės ūkio sektoriuje (OL 2013 L 352, p. 9) ir Vyriausybės nustatyta tvarka. Šiuo atveju žemės ūkio veiklos subjekto patvirtinti reikalavimai mažinami Vyriausybės nustatyta tvarka išmokėtos sumos dydžiu.
+10. Žemės ūkio veiklos subjektų reikalavimai tenkinami žemės ūkio veiklos subjekto prašymu 2013 m. gruodžio 18 d. Komisijos reglamente (ES) Nr. 1408/2013 dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai žemės ūkio sektoriuje (su visais pakeitimais) ir Vyriausybės nustatyta tvarka. Šiuo atveju žemės ūkio veiklos subjekto patvirtinti reikalavimai mažinami Vyriausybės nustatyta tvarka išmokėtos sumos dydžiu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
+ 
 
 
 
@@ -2210,6 +2239,13 @@ Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
 
 
 6. Bankroto administratorius ne vėliau kaip per 10 darbo dienų nuo teismo nutarties nutraukti fizinio asmens bankroto bylą ar nuo teismo sprendimo baigti fizinio asmens bankroto bylą įsiteisėjimo dienos perduoda fiziniam asmeniui saugotinus dokumentus, susijusius su fizinio asmens bankroto procesu, perveda depozitinėje sąskaitoje likusias lėšas į fizinio asmens asmeninę sąskaitą.
+
+
+
+
+7. Baigus fizinio asmens bankroto procesą, fiziniam asmeniui negali būti taikomi draudimai užsiimti individualia, ūkininko ar kita veikla, draudimai naudotis valstybės teikiamos pagalbos verslui priemonėmis ar kitų teisių apribojimai, grindžiami vien tuo, kad jam buvo iškelta bankroto byla.
+Papildyta straipsnio dalimi:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
  
 
 
@@ -2333,17 +2369,17 @@ priedas
  
 
 
-1. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/848 dėl nemokumo bylų (OL 2015 L 141, p. 19). 
-Punkto pakeitimai:
-Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
+1. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/848 dėl nemokumo bylų.
+
+
+
+
+2. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1023 dėl prevencinio restruktūrizavimo sistemų, skolų panaikinimo ir draudimo verstis veikla ir priemonių restruktūrizavimo, nemokumo ir skolų panaikinimo procedūrų veiksmingumui didinti, kuria iš dalies keičiama Direktyva (ES) 2017/1132 (Restruktūrizavimo ir nemokumo direktyva).
+
+
+Priedo pakeitimai:
+Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
  
-
-
-
-
-_________________
-
-
  
  
 Pakeitimai:
