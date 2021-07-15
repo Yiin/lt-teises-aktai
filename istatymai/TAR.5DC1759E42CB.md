@@ -13,14 +13,9 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2021-05-01 iki 2021-07-14
+Suvestinė redakcija nuo 2021-07-15 iki 2021-07-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
- 
-TAR pastaba. Motorinių transporto priemonių ir (ar) priekabų savininkas (valdytojas) apie iki įstatymo Nr. XIII-3218 įsigaliojimo (2021-05-01) įvežtą į Lietuvos Respublikos teritoriją motorinę transporto priemonę ir (ar) priekabą ar Lietuvos Respublikos teritorijoje įgytą arba perleistą nuosavybės teisę į motorinę transporto priemonę ir (ar) priekabą, kai šios transporto priemonės valdymo pasikeitimas iki šio įstatymo įsigaliojimo dienos nebuvo įregistruotas arba apie tai nebuvo pateikti duomenys Lietuvos Respublikos kelių transporto priemonių registrui, privalo deklaruoti iki 2021 m. liepos 31 d.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-3218, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15754
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 1, 2, 20 ir 27 straipsnių pakeitimo ir Įstatymo papildymo 27-3 straipsniu įstatymas
  
 Nauja įstatymo redakcija nuo 2008-07-01 (25 straipsnio 6 dalis įsigaliojo nuo 2009-07-01):
 Nr. X-1337, 2007-11-22, Žin., 2007, Nr. 128-5213 (2007-12-07)
@@ -421,7 +416,9 @@ Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
 
 
 
-43. Neblaivumas – etilo alkoholio vartojusio asmens būsena, kai šio alkoholio koncentracija biologinėse organizmo terpėse (iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose) viršija įstatymų nustatytą leidžiamą normą. Asmenų, vairuojančių transporto priemones, iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose leidžiama didžiausia etilo alkoholio koncentracija vairavimo metu yra 0,4 promilės. Pradedantieji vairuotojai, taksi automobilių, mopedų, motociklų, triračių, lengvųjų keturračių, keturračių, galingųjų keturračių, transporto priemonių, kurių didžiausioji leidžiamoji masė didesnė kaip 3,5 t arba kurios turi daugiau kaip 9 sėdimąsias vietas, arba kuriomis vežami pavojingieji kroviniai, vairuotojai laikomi neblaiviais, kai etilo alkoholio koncentracija jų iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose yra daugiau kaip 0 promilių.
+43. Neblaivumas – etilo alkoholio vartojusio asmens būsena, kai šio alkoholio koncentracija biologinėse organizmo terpėse (iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose) viršija įstatymų nustatytą leidžiamą normą. Asmenų, vairuojančių transporto priemones, iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose leidžiama didžiausia etilo alkoholio koncentracija vairavimo metu yra 0,4 promilės. Pradedantieji vairuotojai, lengvųjų automobilių, kuriais vežami keleiviai už atlygį pagal užsakymą, taksi automobilių, mopedų, motociklų, triračių, lengvųjų keturračių, keturračių, galingųjų keturračių, transporto priemonių, kurių didžiausioji leidžiamoji masė didesnė kaip 3,5 t arba kurios turi daugiau kaip 9 sėdimąsias vietas, arba kuriomis vežami pavojingieji kroviniai, vairuotojai laikomi neblaiviais, kai etilo alkoholio koncentracija jų iškvėptame ore, kraujyje, šlapime, seilėse ar kituose organizmo skysčiuose yra daugiau kaip 0 promilių.
+Straipsnio dalies pakeitimai:
+Nr. XIV-468, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15846
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
  
@@ -3975,3 +3972,8 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3218, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15754
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 1, 2, 20 ir 27 straipsnių pakeitimo ir Įstatymo papildymo 27-3 straipsniu įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-468, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15846
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 straipsnio pakeitimo įstatymas
