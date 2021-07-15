@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-07-14
+Suvestinė redakcija nuo 2021-07-15 iki 2021-07-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -716,6 +716,13 @@ Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
 
 
 5. Su valstybės tarnautojais darbo sutartys nesudaromos.
+
+
+
+
+6. Kai valstybės tarnautoją į pareigas priima kolegiali valstybės ar savivaldybės institucija, kitas šiame įstatyme į pareigas priimančio asmens teises ir pareigas (išskyrus atleidimą iš pareigų ir tarnybinės nuobaudos skyrimą) įgyvendina šios kolegialios valstybės ar savivaldybės institucijos vadovas, jeigu įstatymuose nenustatyta kitaip.
+Papildyta straipsnio dalimi:
+Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
  
 
 
@@ -1626,7 +1633,10 @@ DARBO UŽMOKESTIS
 
 
 
-2. Už darbą poilsio ir švenčių dienomis, nakties, viršvalandinį darbą ir budėjimą mokama Darbo kodekso nustatyta tvarka. Valstybės tarnautojui už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą taikomas darbo užmokestis, susidedantis iš valstybės tarnautojui mokamų šio straipsnio 1 dalies 1 ir 3 punktuose numatytų darbo užmokesčio dalių. 
+2. Už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą valstybės tarnautojams mokama Darbo kodekso 144 straipsnio 1, 2, 3, 4 ir 5 dalyse nustatyta tvarka. Valstybės tarnautojui už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą taikomas darbo užmokestis, susidedantis iš valstybės tarnautojui mokamų šio straipsnio 1 dalies 1 ir 3 punktuose numatytų darbo užmokesčio dalių.
+Straipsnio dalies pakeitimai:
+Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
+ 
 
 
 
@@ -2677,7 +2687,10 @@ Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
 
 
 
-6) pasibaigia pakaitinio valstybės tarnautojo priėmimo laikas arba valstybės tarnautojui sukanka 65 metai, arba baigiasi politinio (asmeninio) pasitikėjimo valstybės tarnautoją į pareigas pasirinkusio valstybės politiko ar kolegialios valstybės institucijos įgaliojimai;
+6) pasibaigia pakaitinio valstybės tarnautojo priėmimo laikas arba valstybės tarnautojui sukanka 65 metai, išskyrus šio straipsnio 8 dalyje numatytą atvejį, arba baigiasi politinio (asmeninio) pasitikėjimo valstybės tarnautoją į pareigas pasirinkusio valstybės politiko ar kolegialios valstybės institucijos įgaliojimai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
+ 
 
 
 
@@ -2770,6 +2783,13 @@ Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
 
 
 7. Ginčai dėl valstybės tarnautojo atleidimo iš pareigų nagrinėjami Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+
+
+8. Į pareigas įstatymų nustatytai kadencijai priimtas įstaigos vadovas arba karjeros valstybės tarnautojas, kuriam kadencijos laikotarpiu sukanka 65 metai, gali savo noru būti atleidžiamas iš pareigų suėjus 65 metams arba gali eiti pareigas iki kadencijos, kuriai jis buvo priimtas, pabaigos, jeigu šios kadencijos metu jo tarnybinė veikla buvo vertinta tik gerai arba labai gerai ir jis neturi galiojančių tarnybinių nuobaudų.
+Papildyta straipsnio dalimi:
+Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
  
 
 
@@ -4142,3 +4162,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-144, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00266
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5, 33 straipsnių ir 1 priedo pakeitimo įstatymas
+ 
+36.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 10, 11, 17, 28 ir 51 straipsnių pakeitimo įstatymas
