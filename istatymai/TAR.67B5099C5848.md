@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr. –––––
 
 
 
-Suvestinė redakcija nuo 2021-07-02 iki 2021-07-22
+Suvestinė redakcija nuo 2021-07-23 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 13-308, i. k. 0991010ISTAIII-1029
  
@@ -652,6 +652,14 @@ Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
 10) dėl užsieniečių skundų dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, dėl leidimų gyventi Lietuvoje pakeitimo, dėl skundų dėl prieglobsčio nesuteikimo ar panaikinimo, taip pat dėl perkeliamųjų asmenų skundų dėl perkeliamojo asmens statuso nesuteikimo ar panaikinimo; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-2079, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07318
+ 
+
+
+
+
+101) dėl užsieniečių skundų dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, dėl leidimų gyventi Lietuvoje pakeitimo, dėl skundų dėl prieglobsčio panaikinimo, taip pat dėl perkeliamųjų asmenų skundų dėl perkeliamojo asmens statuso nesuteikimo ar panaikinimo; šio punkto nuostatos taikomos tais atvejais, kai yra paskelbta karo padėtis, nepaprastoji padėtis, taip pat ekstremalioji situacija ar ekstremalusis įvykis dėl masinio užsieniečių antplūdžio;
+Papildyta straipsnio punktu:
+Nr. XIV-508, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16269
  
 
 
@@ -2526,7 +2534,10 @@ Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
 
 
 
-3) pripažinęs, kad byla operatyviau ir ekonomiškiau bus išnagrinėta kitame teisme, o kai teismas sudarytas iš teismo rūmų, – to teismo kituose teismo rūmuose, konkrečiai – pagal pareiškėjo ar daugumos pareiškėjų, jei skundą (prašymą, pareiškimą) padavė ne vienas asmuo, gyvenamąją vietą ar buveinę arba pagal nekilnojamojo turto, tiesiogiai susijusio su kilusiu ginču, buvimo vietą, arba pagal ginčijamo teisės akto priėmimo ir (arba) įvykio (veiksmo), su kuriuo tiesiogiai susijęs ginčijamas teisės aktas, vietą.
+3) pripažinęs, kad byla operatyviau ir ekonomiškiau bus išnagrinėta kitame teisme, o kai teismas sudarytas iš teismo rūmų, – to teismo kituose teismo rūmuose, konkrečiai – pagal pareiškėjo ar daugumos pareiškėjų, jei skundą (prašymą, pareiškimą) padavė ne vienas asmuo, gyvenamąją vietą ar buveinę arba pagal nekilnojamojo turto, tiesiogiai susijusio su kilusiu ginču, buvimo vietą, arba pagal ginčijamo teisės akto priėmimo ir (arba) įvykio (veiksmo), su kuriuo tiesiogiai susijęs ginčijamas teisės aktas, vietą, arba atsižvelgęs į kitas faktines aplinkybes, susijusias su pagrįstu tolygaus darbo krūvio paskirstymu konkrečios kategorijos bylų nagrinėjimo atvejais.
+Straipsnio punkto pakeitimai:
+Nr. XIV-508, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16269
+ 
 
 
 
@@ -7031,3 +7042,8 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 112
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-364, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13172
 Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 112 straipsnio pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-508, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16269
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 20 ir 69 straipsnių pakeitimo įstatymas
