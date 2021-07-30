@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8A39C83848CB"
 
 # Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas
 
-Suvestinė redakcija nuo 2021-07-15 iki 2021-07-29
+Suvestinė redakcija nuo 2021-07-30 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 74-2262; Žin. 2000, Nr.77-0; Žin. 2000, Nr.80-0; Žin. 2000, Nr.82-0, i. k. 1001010ISTAIII-1864
  
@@ -5936,6 +5936,14 @@ Nr. XI-2074, 2012-06-19, Žin., 2012, Nr. 78-4015 (2012-07-04)
 2. Juridinio asmens filialo nuostatuose taip pat turi būti nurodoma informacija apie filialą įsteigusį asmenį, nustatyta šio kodekso 2.44 straipsnio 1 dalies 1, 2, 4 ir 5 punktuose, ir juridinio asmens valdymo organas, turintis teisę skirti ar atšaukti filialo valdymo organus, priimti sprendimus dėl filialo teisinio statuso.
 
 
+
+
+3. Pavyzdinius juridinio asmens filialo nuostatus tvirtina Vyriausybė ar jos įgaliota institucija. 
+Papildyta straipsnio dalimi:
+Nr. XIV-281, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09683
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
  
@@ -6211,7 +6219,10 @@ Nr. XI-595, 2009-12-22, Žin., 2009, Nr. 159-7202 (2009-12-31)
 
 
 
-5. Už juridinių asmenų, jų filialų ir atstovybių registravimą, jų duomenų, informacijos ir steigimo dokumentų pakeitimo įregistravimą mokamas atlyginimas. Atlyginimo dydį nustato Vyriausybė.
+5. Neteko galios nuo 2021-07-30.
+Straipsnio dalies pakeitimai:
+Nr. XIV-281, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09683
+ 
 
 
 
@@ -6573,7 +6584,10 @@ Pastaba. Juridinių asmenų registro tvarkytojas kreipiasi į teismą su prašym
 
 
 
-3. Registro teikiami rašytinės formos registro duomenų ir informacijos išrašai turi turėti žymą „išrašas tikras“, o dokumentų kopijos – žymą „kopija tikra“, išskyrus atvejus, kai tokios žymos asmuo, kuris kreipiasi, nereikalauja. Registro teikiami elektroninės formos registro duomenų ir informacijos išrašai ir dokumentų kopijos netvirtinami žymomis „išrašas tikras“ („kopija tikra“), išskyrus atvejus, kai tokios žymos asmuo, kuris kreipiasi, reikalauja. Juridinių asmenų registro tvarkytojo išduodami registro duomenų ir informacijos išrašai, dokumentų kopijos turi prima facie galią. Apie tai, kad juridinių asmenų registro tvarkytojo išduodami registro duomenų ir informacijos išrašai, dokumentų kopijos turi prima facie galią, juridinių asmenų registro tvarkytojas turi nurodyti skelbdamas ir teikdamas šiuos duomenų ir informacijos išrašus ir dokumentų kopijas.
+3. Registro teikiami registro duomenų ir informacijos išrašai turi turėti žymą „išrašas tikras“, o dokumentų kopijos – žymą „kopija tikra“, išskyrus atvejus, kai tokios žymos asmuo, kuris kreipiasi, nereikalauja. Juridinių asmenų registro tvarkytojo išduodami registro duomenų ir informacijos išrašai, dokumentų kopijos turi prima facie galią. Apie tai, kad juridinių asmenų registro tvarkytojo išduodami registro duomenų ir informacijos išrašai, dokumentų kopijos turi prima facie galią, juridinių asmenų registro tvarkytojas turi nurodyti skelbdamas ir teikdamas šiuos duomenų ir informacijos išrašus ir dokumentų kopijas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-281, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09683
+ 
 
 
 
@@ -6602,43 +6616,26 @@ Nr. XII-984, 2014-06-26, paskelbta TAR 2014-07-03, i. k. 2014-09753
 
 
 
-3. Kiekvienas asmuo už užmokestį, neviršijantį tokio darbo sąnaudų, turi teisę gauti bet kokius registro duomenis, registre saugomų dokumentų ar informacijos kopijas.
-
-
-
-
-4. Juridinių asmenų registro duomenys neatlygintinai teikiami:
-
-
-1) fiziniams asmenims, kurių duomenys įrašyti registre, – registre kaupiami duomenys apie šiuos asmenis;
-
-
-
-
-2) valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti pagal prašymą ir (arba) sutartis;
-Straipsnio punkto pakeitimai:
-Nr. XIII-850, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20333
+3. Kiekvienas asmuo turi teisę už atlyginimą gauti bet kokius registro duomenis, registre saugomų dokumentų ar informacijos kopijas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-281, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09683
  
 
 
 
 
-3) kitiems valstybės registrams ir informacinėms sistemoms – pagal duomenų teikimo sutartis;
-
-
-
-
-4) žurnalistams – Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.
-Papildyta straipsnio punktu:
-Nr. XIV-242, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08876
+4. Neteko galios nuo 2021-07-30.
+Straipsnio dalies pakeitimai:
+Nr. XIV-281, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09683
  
 
 
 
 
-
-
-5. Užmokestis už juridinių asmenų duomenų bei dokumentų kopijų teikimą neturi viršyti registro administravimo išlaidų.
+5. Neteko galios nuo 2021-07-30.
+Straipsnio dalies pakeitimai:
+Nr. XIV-281, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09683
+ 
 
 
 Straipsnio pakeitimai:
@@ -49522,48 +49519,47 @@ priedas
  
 
 
-1. 1993 m. balandžio 5 d. Tarybos direktyva 93/13/EEB dėl nesąžiningų sąlygų sutartyse su vartotojais (OL 2004 m. specialusis leidimas, 15 skyrius, 2 tomas, p. 288).
+1. 1993 m. balandžio 5 d. Tarybos direktyva 93/13/EEB dėl nesąžiningų sąlygų sutartyse su vartotojais.
 
 
 
 
-2. 1998 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 98/6/EB dėl vartotojų apsaugos žymint vartotojams siūlomų prekių kainas (OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 32).
+2. 1998 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 98/6/EB dėl vartotojų apsaugos žymint vartotojams siūlomų prekių kainas.
 
 
 
 
-3. 1999 m. gegužės 25 d. Europos Parlamento ir Tarybos direktyva 1999/44/EB dėl vartojimo prekių pardavimo ir susijusių garantijų tam tikrų aspektų (OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 223). 
+3. 1999 m. gegužės 25 d. Europos Parlamento ir Tarybos direktyva 1999/44/EB dėl vartojimo prekių pardavimo ir susijusių garantijų tam tikrų aspektų.
 
 
 
 
-4. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais (OL 2009 L 33, p. 10).
+4. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais.
 
 
 
 
-5. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB (OL 2011 L 304, p. 64).
+5. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB.
 
 
 
 
-6. 2012 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva 2012/17/ES, kuria iš dalies keičiamos Tarybos direktyvos 89/666/EEB ir Europos Parlamento ir Tarybos direktyvų 2005/56/EB ir 2009/101/EB nuostatos dėl centrinių, komercinių ir bendrovių registrų sąveikos (OL 2012 L 156, p. 1).
+6. 2012 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva 2012/17/ES, kuria iš dalies keičiamos Tarybos direktyvos 89/666/EEB ir Europos Parlamento ir Tarybos direktyvų 2005/56/EB ir 2009/101/EB nuostatos dėl centrinių, komercinių ir bendrovių registrų sąveikos.
 
 
 
 
-7. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302 dėl kelionės paslaugų paketų ir susijusių kelionės paslaugų rinkinių, kuria iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 ir Direktyva 2011/83/ES bei panaikinama Tarybos direktyva 90/314/EEB (OL 2015 L 326, p. 1).
-Papildyta punktu:
-Nr. XIII-1448, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11760
- 
+7. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302 dėl kelionės paslaugų paketų ir susijusių kelionės paslaugų rinkinių, kuria iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 ir Direktyva 2011/83/ES bei panaikinama Tarybos direktyva 90/314/EEB.
 
 
 
 
-7. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/943 dėl neatskleistos praktinės patirties ir verslo informacijos (komercinių paslapčių) apsaugos nuo neteisėto jų gavimo, naudojimo ir atskleidimo (OL 2016 L 157, p. 1). 
-Papildyta punktu:
-Nr. XIII-1127, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07479
- 
+8. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/943 dėl neatskleistos praktinės patirties ir verslo informacijos (komercinių paslapčių) apsaugos nuo neteisėto jų gavimo, naudojimo ir atskleidimo.
+
+
+
+
+9. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų.
 
 
 Kodeksas papildytas priedu:
@@ -49571,6 +49567,8 @@ Nr. XI-1619, 2011-10-13, Žin., 2011, Nr. 129-6108 (2011-10-27)
 Priedo pakeitimai:
 Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 Nr. XII-984, 2014-06-26, paskelbta TAR 2014-07-03, i. k. 2014-09753
+Priedo pakeitimai:
+Nr. XIV-281, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09683
  
 
 
@@ -50070,3 +50068,8 @@ Lietuvos Respublikos civilinio kodekso 2.72 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-454, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15472
 Lietuvos Respublikos civilinio kodekso 2.66 straipsnio pakeitimo įstatymas
+ 
+53.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-281, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09683
+Lietuvos Respublikos civilinio kodekso 2.54, 2.64, 2.71, 2.72 straipsnių ir priedo pakeitimo įstatymas
