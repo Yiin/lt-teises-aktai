@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B8B6AFC2BFF1"
 
 # Lietuvos Respublikos konkurencijos įstatymas
 
-Suvestinė redakcija nuo 2020-11-01 iki 2021-07-29
+Suvestinė redakcija nuo 2021-07-30 iki 2023-06-22
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 30-856, i. k. 0991010ISTAIII-1099
  
@@ -1177,7 +1177,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 
-2. Konkurencijos taryba, atlikdama jai pavestas funkcijas, turi teisę:                          
+2. Konkurencijos taryba, atlikdama jai pavestas funkcijas, turi teisę:                         
 
 
 1) duoti privalomus nurodymus ūkio subjektams, tarp jų komerciniams bankams, kitoms kredito įstaigoms ir viešojo administravimo subjektams, pateikti finansinius ir kitus dokumentus, taip pat ir turinčius komercinių ar profesinių paslapčių, bei kitą informaciją, reikalingą Konkurencijos tarybos funkcijoms atlikti; 
@@ -1389,7 +1389,10 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 
-4) kiekvienais metais teikia Seimui ir Vyriausybei Konkurencijos tarybos veiklos ataskaitas;
+4) kiekvienais metais teikia Seimui ir Vyriausybei Konkurencijos tarybos metinių ataskaitų rinkinį; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-279, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09681
+ 
 
 
 
@@ -2931,7 +2934,10 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 
-6. Asmenų, kuriems įsiteisėjusiu teismo sprendimu paskirtos šio įstatymo 40 straipsnio 1 dalyje nustatytos sankcijos, sąrašas skelbiamas Konkurencijos tarybos interneto svetainėje.
+6. Teismas ne vėliau kaip kitą darbo dieną nuo sprendimo taikyti šio įstatymo 40 straipsnio 1 dalyje nustatytas sankcijas įsiteisėjimo dienos pateikia Juridinių asmenų registro tvarkytojui šio sprendimo kopiją. Asmenų, kuriems įsiteisėjusiu teismo sprendimu apribota teisė eiti viešojo ir (arba) privataus juridinio asmens vadovo pareigas ar būti kolegialaus organo nariu, sąrašas skelbiamas Juridinių asmenų registro tvarkytojo interneto svetainėje, mutatis mutandis vadovaujantis Lietuvos Respublikos juridinių asmenų nemokumo įstatymo 14 straipsnio nuostatomis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-279, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09681
+ 
 
 
 
@@ -3686,7 +3692,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
  
 
@@ -3696,7 +3702,6 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
 Lietuvos Respublikos
 konkurencijos įstatymo
 priedas
@@ -3715,11 +3720,17 @@ priedas
 
 
 
-3. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1, kuria siekiama įgalinti valstybių narių konkurencijos institucijas, kad jos būtų veiksmingesnės vykdymo užtikrintojos, ir kuria užtikrinamas tinkamas vidaus rinkos veikimas. 
+3. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1151.
+
+
+
+
+4. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1, kuria siekiama įgalinti valstybių narių konkurencijos institucijas, kad jos būtų veiksmingesnės vykdymo užtikrintojos, ir kuria užtikrinamas tinkamas vidaus rinkos veikimas.
 
 
 Priedo pakeitimai:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
+Nr. XIV-279, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09681
  
  
  
@@ -3814,3 +3825,8 @@ Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 33, 39 straipsnių pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 1, 3, 11, 16, 17, 18, 19, 21, 22, 25, 26, 27, 29, 32, 33, 35, 36, 37, 38, 38-1, 40, 45, 53, 55, 57 straipsnių, priedo pakeitimo ir Įstatymo papildymo 39-1 straipsniu, VIII skyriumi įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-279, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09681
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 20, 41 straipsnių ir priedo pakeitimo įstatymas
