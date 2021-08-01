@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/faf1bfc0cba011e387b1ebf12f4d03ee"
 
 # Lietuvos Respublikos Nacionalinio vėžio instituto įstatymas
 
+Suvestinė redakcija nuo 2021-08-01
+ 
+Įstatymas paskelbtas: TAR 2014-04-24, i. k. 2014-04697
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 NACIONALINIO VĖŽIO INSTITUTO
 ĮSTATYMAS
@@ -100,10 +107,10 @@ Instituto veiklos tikslai:
 
 
 
-3 straipsnis. Instituto steigimo sąlygos
+3 straipsnis. Instituto statusas
 
 
-1. Instituto steigėja – Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė).
+1. Instituto steigėja – Lietuvos Respublikos Vyriausybė.
 
 
 
@@ -113,20 +120,22 @@ Instituto veiklos tikslai:
 
 
 
-2. Instituto teisinė forma – biudžetinė įstaiga.
+3. Instituto teisinė forma – viešoji įstaiga.
 
 
 
 
-3. Instituto buveinės adresas – Santariškių g. 1, LT-08660 Vilnius.
+4. Instituto buveinės adresas – Santariškių g. 1, LT-08660 Vilnius.
 
 
 
 
-4. Į tvirtinamą Instituto struktūrą įtraukiama klinika.
+5. Į tvirtinamą Instituto struktūrą įtraukiama klinika.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-372, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13180
  
-
-
 
 
 
@@ -158,3 +167,14 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                             Dalia Grybauskaitė
+ 
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-372, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13180
+Lietuvos Respublikos Nacionalinio vėžio instituto įstatymo Nr. XII-838 3 straipsnio pakeitimo įstatymas
