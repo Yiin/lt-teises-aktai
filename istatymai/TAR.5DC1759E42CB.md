@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.5DC1759E42CB"
 
 # Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas
 
-Suvestinė redakcija nuo 2021-07-15 iki 2021-07-31
+Suvestinė redakcija nuo 2021-08-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 92-2883, i. k. 1001010ISTAIII-2043
  
@@ -2536,6 +2536,14 @@ Nr. XII-2186, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20889
  
 
 
+
+
+12. Ne jaunesniems kaip 24 metų asmenims, turintiems ne mažesnį kaip 2 metų B kategorijos transporto priemonių vairavimo stažą ir Susisiekimo ministerijos arba jos įgaliotos institucijos nustatyta tvarka baigusiems A1 kategorijos transporto priemonių praktinio vairavimo mokymą, suteikiama teisė Lietuvos Respublikos teritorijoje vairuoti A1 kategorijos transporto priemones. Dėl to vairuotojo pažymėjime nenurodoma, kad vairuotojas turi teisę vairuoti A1 kategorijos transporto priemones, o prie B kategorijos transporto priemonių kategorijos nurodomas Vidaus reikalų ministerijos nustatytas nacionalinis kodas.
+Papildyta straipsnio dalimi:
+Nr. XIV-288, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09690
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-893, 2010-06-10, Žin., 2010, Nr. 75-3791 (2010-06-29) 
 Nr. XI-1943, 2012-03-27, Žin., 2012, Nr. 42-2044 (2012-04-07)
@@ -3977,3 +3985,8 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-468, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15846
 Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 straipsnio pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-288, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09690
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 22 straipsnio pakeitimo įstatymas
