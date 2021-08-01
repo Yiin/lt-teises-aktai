@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-07-31
+Suvestinė redakcija nuo 2021-08-01 iki 2021-09-17
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -1476,6 +1476,21 @@ SKRYDŽIŲ VYKDYMAS
 
 
 7. Bepiločių orlaivių skrydžiams virš karinių teritorijų ir nustatytu atstumu iki jų taikomi ir Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme nustatyti reikalavimai.
+
+
+
+
+9. Bepiločių orlaivių skrydžiai aerodromo oro eismo zonose gali būti vykdomi tik suderinus su aerodromo naudotoju ir laikantis aerodromo naudotojo nustatytų sąlygų.  
+Papildyta straipsnio dalimi:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
+
+
+
+
+10. Aerodromo skrydžių valdymo zonoje maksimaliai leistinus aukščius bepiločių orlaivių skrydžiams nustato oro eismo paslaugų teikėjas. Bepiločių orlaivių skrydžiai virš šių maksimaliai leistinų aukščių gali būti leidžiami tik juos suderinus su oro eismo paslaugų teikėju ir juos vykdant oro eismo paslaugų teikėjo nustatytomis sąlygomis. 
+Papildyta straipsnio dalimi:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
 
 
