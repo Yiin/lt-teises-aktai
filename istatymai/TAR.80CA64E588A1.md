@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.80CA64E588A1"
 
 # Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas
 
-Suvestinė redakcija nuo 2018-10-01 iki 2021-07-31
+Suvestinė redakcija nuo 2021-08-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 72-3009, i. k. 1021010ISTA00IX-987
  
@@ -205,6 +205,14 @@ Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
 26. Žemės ar miškų ūkio transporto priemonės tipo patvirtinimas – procedūra, kuria patvirtinama, kad žemės ar miškų ūkio transporto priemonė, jos sistema, sudedamoji dalis ar atskiras techninis mazgas atitinka teisės aktų nustatytus techninius reikalavimus.
 Papildyta straipsnio dalimi:
 Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
+ 
+
+
+
+
+27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIV-461, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15458
  
 
 
@@ -676,6 +684,14 @@ Nr. XIII-1213, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09726
 4. Siekdamos viešai ir skaidriai naudoti valstybės ir Europos Sąjungos paramą, Vyriausybės ar Žemės ūkio ministerijos įgaliotos institucijos ir įstaigos turi teisę skelbti paramos prašančių pareiškėjų ir paramos gavėjų sąrašus ir pinigų sumas, skirtas iš Lietuvos Respublikos valstybės biudžeto, Europos Sąjungos fondų ir (ar) kitų lėšų. 
 
 
+
+
+5. Siekdama sustiprinti žemės ūkio veiklos subjektų, parduodančių žalią pieną, derybines galias ir didinti pieno rinkos skaidrumą, valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras turi teisę iš ūkio subjektų, teisės aktų nustatyta tvarka registruotų žalio pieno supirkimo ir (ar) perdirbimo veiklai plėtoti (toliau – žalio pieno pirkėjas), rinkti ir skelbti informaciją apie vidutines kalendorinio mėnesio žalio pieno pirkimo kainas pagal kiekvieną žalio pieno pirkėją, jas išskiriant pagal žalio pieno pristatymo būdą (žalias pienas pristatomas į žalio pieno supirkimo punktą, žalias pienas paimamas tiesiogiai iš žemės ūkio veiklos subjekto ūkio, žalias pienas pristatomas tiesiogiai į žalio pieno perdirbimo įmonę) ir (ar) pagal iš žemės ūkio veiklos subjekto perkamo žalio pieno kiekį. Šios informacijos rinkimo, naudojimo ir viešinimo tvarką nustato žemės ūkio ministras. 
+Papildyta straipsnio dalimi:
+Nr. XIV-461, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15458
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-1577, 2011-09-15, Žin., 2011, Nr. 119-5610 (2011-10-01), i. k. 1111010ISTA0XI-1577
  
@@ -780,3 +796,8 @@ Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1213, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09726
 Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 4, 8, 11, 12, 13 straipsnių ir ketvirtojo skirsnio pavadinimo pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-461, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15458
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2 ir 13 straipsnių pakeitimo įstatymas
