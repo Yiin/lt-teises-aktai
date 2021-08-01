@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-07-31
+Suvestinė redakcija nuo 2021-08-01 iki 2021-10-08
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -107,7 +107,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-4. Europos priežiūros institucijos – Europos bankininkystės institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12), Europos draudimo ir profesinių pensijų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48), ir Europos vertybinių popierių ir rinkų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84).
+4. Europos priežiūros institucijos – Europos bankininkystės institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB, su visais pakeitimais, Europos draudimo ir profesinių pensijų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB, su visais pakeitimais, ir Europos vertybinių popierių ir rinkų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB, su visais pakeitimais.
+Straipsnio dalies pakeitimai:
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+ 
 
 
 
@@ -118,6 +121,22 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 6. Fiktyvus bankas – finansų įstaiga arba įstaiga, vykdanti finansų įstaigai lygiavertę veiklą, įsteigta pagal jurisdikciją, pagal kurią ši įstaiga faktiškai neegzistuoja, neturi realiai veikiančių valdymo ir organizacinės struktūros ir vidaus kontrolės sistemų ir nepriklauso kompetentingų institucijų prižiūrimai finansinei grupei. 
+
+
+
+
+61. Finansinė informacija – Finansinių nusikaltimų tyrimo tarnybos  prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Finansinių nusikaltimų tyrimo tarnyba) jau turima įgyvendinant pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemones gauta bet kokios rūšies informacija arba duomenys apie pinigines operacijas ar sandorius, turtą, dalykinius santykius, ūkinę komercinę veiklą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+ 
+
+
+
+
+62. Finansinės analizės informacija – Finansinių nusikaltimų tyrimo tarnybos pagal šio įstatymo 5 straipsnio 1 dalies 2 ir 3 punktus atliktos analizės rezultatai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+ 
 
 
 
@@ -203,7 +222,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-13) laisvosios zonos, nustatytos atsižvelgiant į 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamentą (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas (OL 2013 L 269, p. 1), su paskutiniais pakeitimais, padarytais 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/632 (OL 2019 L 111, p. 54), ir besiverčiančios ūkine komercine veikla, apimančia saugojimo, prekybos arba tarpininkavimo veiklą prekybos meno kūriniais srityje, jeigu sandorio vertė lygi arba viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta, nesvarbu, ar sandoris atliekamas vienos ar kelių susijusių operacijų metu. 
+13) laisvosios zonos, nustatytos atsižvelgiant į 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamentą (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas, su visais pakeitimais, ir besiverčiančios ūkine komercine veikla, apimančia saugojimo, prekybos arba tarpininkavimo veiklą prekybos meno kūriniais srityje, jeigu sandorio vertė lygi arba viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta, nesvarbu, ar sandoris atliekamas vienos ar kelių susijusių operacijų metu.
+Straipsnio punkto pakeitimai:
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+ 
 
 
 Straipsnio dalies pakeitimai:
@@ -714,6 +736,99 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
+51 straipsnis. Finansinės informacijos ir finansinės analizės informacijos teikimas Lietuvos Respublikos kompetentingoms valstybės institucijoms ir Europos Sąjungos teisėsaugos bendradarbiavimo agentūrai (Europolui)
+
+
+1. Finansinių nusikaltimų tyrimo tarnyba, gavusi motyvuotą Lietuvos Respublikos kompetentingos valstybės institucijos, teisės aktų įgaliotos vykdyti nusikalstamų veikų prevenciją, tyrimą, atskleidimą arba baudžiamąjį persekiojimą (toliau šiame straipsnyje – kompetentinga valstybės institucija), prašymą pateikti turimą finansinę informaciją ar finansinės analizės informaciją, kuri konkrečiu atveju būtina veikos, įvardytos 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/794 dėl Europos Sąjungos teisėsaugos bendradarbiavimo agentūros (Europolo), kuriuo pakeičiami ir panaikinami Tarybos sprendimai 2009/371/TVR, 2009/934/TVR, 2009/935/TVR, 2009/936/TVR ir 2009/968/TVR, I priede, prevencijai, tyrimui, atskleidimui arba baudžiamajam persekiojimui, pateikia ją nedelsdama, ne vėliau kaip per 10 darbo dienų.
+
+
+
+
+2. Finansinių nusikaltimų tyrimo tarnyba neprivalo pateikti turimos finansinės informacijos ar finansinės analizės informacijos kompetentingai valstybės institucijai, jeigu yra objektyvių priežasčių daryti prielaidą, kad suteikus tokią informaciją būtų padarytas neigiamas poveikis Finansinių nusikaltimų tyrimo tarnybos atliekamiems tyrimams ar analizėms, arba išskirtinėmis aplinkybėmis, kai informacijos atskleidimas būtų akivaizdžiai neproporcingas teisėtiems fizinio ar juridinio asmens interesams arba neatitiktų tikslų, kuriais jos prašoma. Tokiu atveju Finansinių nusikaltimų tyrimo tarnyba pateikia kompetentingai valstybės institucijai motyvuotą atsisakymą pateikti prašomą informaciją.
+
+
+
+
+3. Pagal šio straipsnio 1 dalį gauta finansinė informacija ar finansinės analizės informacija gali būti naudojama tik tuo tikslu, kuriuo jos buvo prašoma ar kuriuo ji buvo pateikta.
+
+
+
+
+4. Pagal šio straipsnio 1 dalį gauta finansinė informacija ar finansinės analizės informacija gali būti perduota trečiosioms šalims arba naudojama kitais tikslais, negu iš pradžių įvardytais, tik tuo atveju, jeigu yra gautas Finansinių nusikaltimų tyrimo tarnybos sutikimas, ir tik tam tikslui, dėl kurio gautas sutikimas. 
+
+
+
+
+5. Kompetentingos valstybės institucijos tvarko pagal šio straipsnio 1 dalį gautą finansinę informaciją ir finansinės analizės informaciją nusikalstamos veikos, įvardytos Reglamento (ES) 2016/794 I priede, prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas tikslais, išskyrus Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymo 3 straipsnio 2 dalyje nustatytus tikslus.
+
+
+
+
+6. Finansinių nusikaltimų tyrimo tarnyba, gavusi motyvuotą Europos Sąjungos teisėsaugos bendradarbiavimo agentūros (Europolo) prašymą pateikti turimą finansinę informaciją ar finansinės analizės informaciją, kuri konkrečiu atveju būtina Europolo funkcijoms ir uždaviniams vykdyti, pateikia ją nedelsdama, ne vėliau kaip per 10 darbo dienų.
+
+
+
+
+7. Finansinių nusikaltimų tyrimo tarnyba neprivalo pateikti turimos finansinės informacijos ar finansinės analizės informacijos Europolui, jeigu yra objektyvių priežasčių daryti prielaidą, kad, suteikus tokią informaciją, būtų padarytas neigiamas poveikis Finansinių nusikaltimų tyrimo tarnybos atliekamiems tyrimams ar analizėms, arba išskirtinėmis aplinkybėmis tais atvejais, kai informacijos atskleidimas būtų aiškiai neproporcingas teisėtiems fizinio ar juridinio asmens interesams arba neatitiktų tikslų, kuriais jos prašoma. Tokiu atveju Finansinių nusikaltimų tyrimo tarnyba pateikia Europolui motyvuotą atsisakymą pateikti prašomą informaciją.
+
+
+
+
+8. Keičiantis informacija su Europolu, laikomasi Reglamento (ES) 2016/794 7 straipsnio 6 ir 7 dalyse įtvirtintų nuostatų.
+
+
+
+
+9. Keičiantis informacija pagal šį straipsnį, susipažinti su specialių kategorijų asmens duomenimis ir juos tvarkyti, prižiūrint duomenų apsaugos pareigūnui, turi teisę tik tie darbuotojai, kurie yra specialiai apmokyti ir specialiai įgalioti duomenų valdytojo.
+
+
+
+
+10. Finansinių nusikaltimų tyrimo tarnyba renka, registruoja ir penkerius metus nuo sukūrimo kaupia įrašus apie prašymus, gautus pagal šį straipsnį:
+
+
+1) prašymą pateikusios institucijos pavadinimą ir jos darbuotojo vardą, pavardę, kontaktinius duomenis (telefono ryšio numerį ir (ar) elektroninio pašto adresą) ir, jeigu turima, informacijos gavėjo duomenis (institucijos pavadinimą, darbuotojo vardą, pavardę, kontaktinius duomenis (telefono ryšio numerį ir (ar) elektroninio pašto adresą);
+
+
+
+
+2) bylos, dėl kurios prašoma informacijos, numerį;
+
+
+
+
+3) prašymo dalyką;
+
+
+
+
+4) prašymo įvykdymo priemones;
+
+
+
+
+5) laiką, per kurį Finansinių nusikaltimų tyrimo tarnyba atsakė į prašymą.
+
+
+
+
+
+
+11. Šio straipsnio 10 dalyje nurodyti įrašai naudojami tik asmens duomenų tvarkymo teisėtumui patikrinti ir pagal prašymą teikiami tik Valstybinei duomenų apsaugos inspekcijai. 
+
+
+
+
+12. Duomenų subjektas turi teisę susipažinti su pagal šį straipsnį kompetentingose valstybės institucijose tvarkomais jo asmens duomenimis, vadovaudamasis Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu, išskyrus informaciją, kad šie duomenys gauti iš Finansinių nusikaltimų tyrimo tarnybos.
+
+
+Papildyta straipsniu:
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+ 
+
+
+
+
 6 straipsnis. Valstybės saugumo departamento funkcijos ir teisės įgyvendinant teroristų finansavimo prevencijos priemones
 
 
@@ -770,6 +885,14 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 2) gauti iš institucijų, finansų įstaigų, kitų įpareigotųjų subjektų informaciją, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu;
+
+
+
+
+21) išimtiniais ir skubiais atvejais su užsienio valstybių kompetentingomis institucijomis, įgyvendinančiomis pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemones, keistis finansine informacija ar finansinės analizės informacija, kuri gali būti svarbi informacijai,  susijusiai su terorizmu arba organizuotu nusikalstamumu, susijusiu su terorizmu, tvarkyti ar analizuoti;
+Papildyta straipsnio punktu:
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+ 
 
 
 
@@ -1564,8 +1687,6 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-8. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami naudos gavėjo tapatybę, papildomai turi teisę naudotis Juridinių asmenų dalyvių informacine sistema (JADIS) ir kitomis valstybės informacinėmis sistemomis, registrais, kuriuose kaupiami duomenys apie juridinių asmenų dalyvius.
-8 dalies redakcija nuo 2021-08-01:
 8. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami naudos gavėjo tapatybę, papildomai privalo naudotis Juridinių asmenų dalyvių informacine sistema (JADIS), iš kurios turi gauti duomenis apie to kliento naudos gavėjus, ir turi teisę naudotis kitomis valstybės informacinėmis sistemomis, registrais, kuriuose kaupiami duomenys apie juridinių asmenų dalyvius. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
@@ -1575,8 +1696,9 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 9. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatę informacijos apie kliento – juridinio asmens naudos gavėjus, šio įstatymo 25 straipsnyje nustatyta tvarka pateiktos Juridinių asmenų dalyvių informacinėje sistemoje (JADIS), ir jų turimos informacijos apie to paties kliento naudos gavėjus neatitiktį, praneša apie tai klientui ir pasiūlo pateikti tikslią informaciją apie savo naudos gavėjus Juridinių asmenų dalyvių informacinės sistemos (JADIS) tvarkytojui. 
-TAR pastaba. 12 straipsnis papildomas 9 dalimi nuo 2021-08-01.
 Papildyta straipsnio dalimi:
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
  
 
@@ -1584,8 +1706,9 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 10. Nustatant kliento tapatybę, finansų įstaigoms ir kitiems įpareigotiesiems subjektams draudžiama pradėti dalykinius santykius arba vykdyti vienkartinę piniginę operaciją ar sandorį (išskyrus pinigines operacijas ar sandorius, sudarytus ir (ar) vykdomus dalykinių santykių metu), kai informacija apie kliento juridinio asmens naudos gavėjus nėra šio įstatymo 25 straipsnio nustatyta tvarka pateikta Juridinių asmenų dalyvių informacinėje sistemoje (JADIS) arba kai informacija apie kliento – juridinio asmens naudos gavėjus, šio įstatymo 25 straipsnyje nustatyta tvarka pateikta Juridinių asmenų dalyvių informacinėje sistemoje (JADIS), neatitinka jų turimos informacijos apie to paties kliento naudos gavėjus. 
-TAR pastaba. 12 straipsnis papildomas 10 dalimi nuo 2021-08-01.
 Papildyta straipsnio dalimi:
+Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
  
 
@@ -1781,7 +1904,10 @@ Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
 
 
 
-7) užtikrinti, kad pirmasis kliento mokėjimas būtų atliekamas iš kredito įstaigoje turimos to kliento sąskaitos, kai kredito įstaiga yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingos institucijos prižiūri, kaip ji šių reikalavimų laikosi. 
+7) užtikrinti, kad tada, kai klientui atidaroma sąskaita, pirmasis kliento mokėjimas būtų atliekamas iš kredito įstaigoje turimos to kliento sąskaitos, kai kredito įstaiga yra registruota Europos Sąjungos valstybėje narėje arba trečiojoje valstybėje, nustačiusioje šio įstatymo reikalavimams lygiaverčius reikalavimus, ir kompetentingos institucijos prižiūri, kaip ji šių reikalavimų laikosi.
+Straipsnio punkto pakeitimai:
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+ 
 
 
 Papildyta straipsnio dalimi:
@@ -2018,9 +2144,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-2) valstybės ir savivaldybių institucijoms ir įstaigoms, Lietuvos bankui; 
+2) valstybės ir savivaldybių institucijoms ir įstaigoms, kaip jos apibrėžtos Lietuvos Respublikos valstybės tarnybos įstatyme, Lietuvos bankui;
 Straipsnio punkto pakeitimai:
 Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
  
 
 
@@ -2133,9 +2260,10 @@ Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
 
 
 
-7. Supaprastintas kliento tapatybės nustatymas negalimas, jeigu yra šio įstatymo 14 straipsnyje nurodytos aplinkybės, kai būtina atlikti sustiprintą kliento tapatybės nustatymą. Ši nuostata netaikoma pensijų fondų, veikiančių pagal Lietuvos Respublikos pensijų kaupimo įstatymą, klientams. 
+7. Supaprastintas kliento tapatybės nustatymas negalimas, jeigu yra šio įstatymo 14 straipsnyje nurodytos aplinkybės, kai būtina atlikti sustiprintą kliento tapatybės nustatymą. Ši nuostata netaikoma pensijų fondų, veikiančių pagal Lietuvos Respublikos pensijų kaupimo įstatymą, klientams, valstybės ir savivaldybių institucijoms ir įstaigoms, Lietuvos bankui.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
  
@@ -2156,7 +2284,10 @@ Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
 16 straipsnis. Pranešimas apie įtartinas pinigines operacijas ar sandorius
 
 
-1. Finansų įstaigos ir kiti įpareigotieji subjektai privalo nedelsdami, ne vėliau kaip per vieną darbo dieną nuo tokių žinių ar įtarimų atsiradimo, pranešti Finansinių nusikaltimų tyrimo tarnybai, jeigu žino ar įtaria, kad bet kokios vertės turtas yra tiesiogiai arba netiesiogiai gautas iš nusikalstamos veikos arba dalyvaujant tokioje veikoje, taip pat jeigu žino ar įtaria, kad šis turtas yra skirtas vienam, keliems teroristams ar teroristinei organizacijai remti.
+1. Finansų įstaigos ir kiti įpareigotieji subjektai privalo nedelsdami, ne vėliau kaip per vieną darbo dieną nuo tokių žinių ar įtarimų atsiradimo, pranešti Finansinių nusikaltimų tyrimo tarnybai, jeigu žino ar įtaria, kad bet kokios vertės turtas yra tiesiogiai arba netiesiogiai gautas iš nusikalstamos veikos arba dalyvaujant tokioje veikoje, taip pat jeigu žino ar įtaria, kad šis turtas yra susijęs su teroristų finansavimu.
+Straipsnio dalies pakeitimai:
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+ 
 
 
 
@@ -2612,9 +2743,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-7. Finansų įstaigos ir kiti įpareigotieji subjektai, prieš pradėdami dalykinius santykius arba prieš vykdydami vienkartinę piniginę operaciją ar sandorį, kai privaloma imtis priemonių ir nustatyti bei patikrinti ir kliento bei naudos gavėjo tapatybę, vadovaudamiesi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo, kuriuo panaikinama Direktyva 95/46/EB (OL 2016 L 119, p. 1) (toliau – Reglamentas (ES) 2016/679) 13 ir 14 straipsniais, privalo naujiems klientams pateikti informaciją apie jų duomenų tvarkymą. 
+7. Finansų įstaigos ir kiti įpareigotieji subjektai, prieš pradėdami dalykinius santykius arba prieš vykdydami vienkartinę piniginę operaciją ar sandorį, kai privaloma imtis priemonių ir nustatyti bei patikrinti ir kliento bei naudos gavėjo tapatybę, vadovaudamiesi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo, kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), 13 ir 14 straipsniais, privalo naujiems klientams pateikti informaciją apie jų duomenų tvarkymą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
  
 
 
@@ -2822,7 +2954,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 252 straipsnis. Juridinių asmenų dalyvių informacinei sistemai (JADIS) keliami  reikalavimai ir duomenų teikimo tvarka
 
 
-1. Juridinių asmenų dalyvių informacinė sistema (JADIS) jungiama prie Europos centrinės platformos, įsteigtos pagal 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyvos (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų (OL 2017 L 169, p. 46) su paskutiniais pakeitimais, padarytais pagal 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyvą (ES) 2019/1151 (OL 2019 L 186, p. 80), (toliau – Europos Parlamento ir Tarybos direktyva (ES) 2017/1132) 22 straipsnio 1 dalį.
+1. Juridinių asmenų dalyvių informacinė sistema (JADIS) jungiama prie Europos centrinės platformos, įsteigtos pagal 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyvos (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų su visais pakeitimais 22 straipsnio 1 dalį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+ 
 
 
 
@@ -4189,6 +4324,14 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
+4. Vyriausybės įgaliotos institucijos organizuoja statistinės informacijos apie pagal šio įstatymo 51 straipsnį pateiktus prašymus ir valstybės informacinėms sistemoms ar registrams, kuriuose kaupiami duomenys apie atidarytas ir uždarytas visų rūšių sąskaitas, pateiktus prašymus dėl nusikalstamų veikų, įvardytų Reglamento (ES) 2016/794 I priede, prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, rinkimą ir pateikimą Europos Komisijai.
+Papildyta straipsnio dalimi:
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+ 
+
+
+
+
 
 
 
@@ -4208,41 +4351,46 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
- 
 Lietuvos Respublikos
-pinigų plovimo ir teroristų 
-finansavimo prevencijos įstatymo
+pinigų plovimo ir teroristų finansavimo
+prevencijos įstatymo
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2006/46/EB (OL 2009 L 267, p. 7), su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 (OL 2015 L 337, p. 35). 
+1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2006/46/EB, su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366. 
 
 
 
 
-2. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/847 dėl informacijos, teikiamos pervedant lėšas, ir kuriuo panaikinamas Reglamentas (EB) Nr. 1781/2006 (OL 2015 L 141, p. 1).
+2. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/847 dėl informacijos, teikiamos pervedant lėšas, ir kuriuo panaikinamas Reglamentas (EB) Nr. 1781/2006, su paskutiniais pakeitimais, padarytais 2019 m. gruodžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/2175.
 
 
 
 
-3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ir teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlameno ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB (OL 2015 L 141, p. 73), su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843 (OL 2018 L 156, p. 43).
+3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ir teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlameno ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB, su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843.
 
 
 
 
-4. 2018 m. gegužės 7 d. Europos Komisijos deleguotasis reglamentas (ES) 2018/1108, kuriuo Europos Parlamento ir Tarybos direktyva (ES) 2015/849 papildoma elektroninių pinigų išleidėjų ir mokėjimo paslaugų teikėjų pagrindinių kontaktinių punktų skyrimo kriterijų techniniais reguliavimo standartais ir jų funkcijas reglamentuojančiomis taisyklėmis (OL 2018 L 203, p. 2).
+4. 2018 m. gegužės 7 d. Europos Komisijos deleguotasis reglamentas (ES) 2018/1108, kuriuo Europos Parlamento ir Tarybos direktyva (ES) 2015/849 papildoma elektroninių pinigų išleidėjų ir mokėjimo paslaugų teikėjų pagrindinių kontaktinių punktų skyrimo kriterijų techniniais reguliavimo standartais ir jų funkcijas reglamentuojančiomis taisyklėmis.
 
 
 
 
-5. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1672 dėl į Sąjungą įvežamų arba iš jos išvežamų grynųjų pinigų kontrolės, kuriuo panaikinamas Reglamentas (EB) Nr. 1889/2005 (OL 2018 L 284, p. 6).
+5. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1672 dėl į Sąjungą įvežamų arba iš jos išvežamų grynųjų pinigų kontrolės, kuriuo panaikinamas Reglamentas (EB) Nr. 1889/2005.
+
+
+
+
+6. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1153, kuria nustatomos taisyklės dėl paprastesnio finansinės ir kitos informacijos naudojimo tam tikrų nusikalstamų veikų prevencijos, nustatymo, tyrimo ir baudžiamojo persekiojimo už jas tikslais ir kuria panaikinamas Tarybos sprendimas 2000/642/TVR.
 
 
 Priedo pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
  
 
 
