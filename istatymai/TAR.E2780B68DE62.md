@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-07-31
+Suvestinė redakcija nuo 2021-08-01 iki 2021-10-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
  
@@ -1066,12 +1066,18 @@ Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 19 straipsnis. Ūkinės veiklos objektų eksploatavimas
 
 
-Fizinis asmuo, juridinis asmuo ar jo padalinys (įskaitant užsienio valstybės juridinį asmenį ir kitą organizaciją, taip pat jų padalinį) (toliau šiame straipsnyje ir šio įstatymo 191, 192 ir 193 straipsniuose – fizinis ar juridinis asmuo), prieš pradėdamas eksploatuoti ūkinės veiklos objektą ir vykdyti ūkinę veiklą, privalo šio ir kitų įstatymų nustatytais atvejais gauti taršos integruotos prevencijos ir kontrolės leidimą, taršos leidimą ar kitą leidimą (toliau – leidimas) arba įrenginį įregistruoti.
+Fizinis ar juridinis asmuo, prieš pradėdamas eksploatuoti ūkinės veiklos objektą ir vykdyti ūkinę veiklą, privalo šio ir kitų įstatymų nustatytais atvejais gauti taršos integruotos prevencijos ir kontrolės leidimą, taršos leidimą ar kitą leidimą (toliau – leidimas) arba įrenginį įregistruoti. Apie planuojamą ūkinės veiklos objekto, kuriam išduotas taršos integruotos prevencijos ir kontrolės leidimas arba taršos leidimas, eksploatavimo ir ūkinės veiklos vykdymo pradžią fizinis ar juridinis asmuo turi aplinkos ministro nustatyta tvarka informuoti aplinkos ministro įgaliotą instituciją. Aplinkos ministro įgaliota institucija prieš fiziniam ar juridiniam asmeniui pradedant eksploatuoti ūkinės veiklos objektą ir vykdyti ūkinę veiklą aplinkos ministro nustatyta tvarka patikrina, ar ūkinės veiklos objekte įgyvendintos leidime nurodytos sąlygos, kurios privalo būti įgyvendintos iki ūkinės veiklos vykdymo pradžios. Pradėti eksploatuoti ūkinės veiklos objektą ir (ar) vykdyti ūkinę veiklą galima tik aplinkos ministro nustatyta tvarka aplinkos ministro įgaliotai institucijai įsitikinus, kad ūkinės veiklos objektas atitinka šias sąlygas. Toks patikrinimas nemažina fizinio ar juridinio asmens atsakomybės dėl leidime nurodytų sąlygų laikymosi.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
+ 
 
 
 
 
-Fizinis ar juridinis asmuo ūkinės veiklos objektą eksploatuoja pagal leidime nustatytas sąlygas ir neviršydamas aplinkos apsaugos normatyvų bei standartų.
+Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ar vykdantis ūkinę veiklą, kai reikalingas leidimas, privalo laikytis leidime nustatytų sąlygų ir tokiems objektams eksploatuoti ir (ar) ūkinei veiklai vykdyti nustatytų aplinkos apsaugos normatyvų ir aplinkos apsaugos standartų. Vykdant leidime nurodytą ūkinę veiklą, kietosios medžiagos (šalutiniai produktai, nurodyti Lietuvos Respublikos atliekų tvarkymo įstatyme, atliekos, žaliavos ir produktai) už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų gali patekti tik tokiais atvejais, kiekiais ir būdais, kaip tai numatyta leidimo sąlygose ir (ar) aplinkos apsaugos normatyvuose bei aplinkos apsaugos standartuose.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
+ 
 
 
 
@@ -1086,13 +1092,16 @@ Fizinis ar juridinis asmuo, eksploatuodamas ūkinės veiklos objektą, privalo n
 
 
 
-Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ar vykdantis ūkinę veiklą, kai nereikalingas leidimas, privalo laikytis tokiems objektams bei veiklai nustatytų aplinkos apsaugos normatyvų ir standartų. 
+Fizinis ar juridinis asmuo, eksploatuojantis ūkinės veiklos objektą ar vykdantis ūkinę veiklą, kai nereikalingas leidimas, privalo laikytis tokiems objektams eksploatuoti ir (ar) ūkinei veiklai vykdyti nustatytų aplinkos apsaugos normatyvų ir aplinkos apsaugos standartų.
+Straipsnio dalies pakeitimai:
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
+ 
+
+
 Straipsnio pakeitimai:
 Nr. I-1352, 96.05.28, Žin., 1996, Nr.57-1335 (96.06.19)
 Nr. IX-2113, 2004-04-13, Žin., 2004, Nr. 60-2121 (2004-04-24)
 Nr. X-147, 2005-03-24, Žin., 2005, Nr. 47-1558 (2005-04-12)
-
-
 Straipsnio pakeitimai:
 Nr. XIII-704, 2017-11-07, paskelbta TAR 2017-11-14, i. k. 2017-17965
  
@@ -3134,6 +3143,24 @@ Juridiniai asmenys baudas moka į valstybės biudžetą. Šios lėšos sudaro Ap
 
 
 Straipsnio pakeitimai:
+Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
+ 
+
+
+
+
+551 straipsnis. Juridinių asmenų atsakomybė už neteisėtą šalutinių produktų, nurodytų Atliekų tvarkymo įstatyme, atliekų, žaliavų ir produktų patekimą už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų, kai ūkinės veiklos objektui eksploatuoti ar ūkinei veiklai vykdyti išduotas taršos integruotos prevencijos ir kontrolės leidimas arba taršos leidimas
+
+
+Šalutinių produktų, nurodytų Atliekų tvarkymo įstatyme, atliekų, žaliavų ir produktų patekimas už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų, kai tokios ūkinės veiklos objektui eksploatuoti ar tokiai ūkinei veiklai vykdyti išduotas taršos integruotos prevencijos ir kontrolės leidimas ir kai tai nenumatyta leidimo sąlygose, aplinkos apsaugos normatyvuose ir aplinkos apsaugos standartuose, užtraukia baudą nuo vieno tūkstančio iki trijų tūkstančių eurų.
+
+
+
+
+Šalutinių produktų, nurodytų Atliekų tvarkymo įstatyme, atliekų, žaliavų ir produktų patekimas už teritorijos, kurioje vykdoma leidime nurodyta ūkinė veikla, ribų, kai tokios ūkinės veiklos objektui eksploatuoti ar tokiai ūkinei veiklai vykdyti išduotas taršos leidimas ir kai tai nenumatyta leidimo sąlygose, aplinkos apsaugos normatyvuose ir aplinkos apsaugos standartuose, užtraukia baudą nuo penkių šimtų iki vieno tūkstančio penkių šimtų eurų. 
+
+
+Papildyta straipsniu:
 Nr. XIII-2795, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02846
  
 
@@ -6827,3 +6854,8 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 12, 31, 33, 37 ir 41
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-333, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12771
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 37 straipsnio pakeitimo įstatymas
+ 
+20.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-227, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07421
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 47, 55, 126, 127 straipsnių pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymo Nr. XIII-2795 10 straipsnio pakeitimo įstatymas
