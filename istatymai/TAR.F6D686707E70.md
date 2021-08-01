@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89"
 
 # Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas
 
-Suvestinė redakcija nuo 2021-07-15 iki 2021-07-31
+Suvestinė redakcija nuo 2021-08-01 iki 2021-10-31
  
 Įstatymas paskelbtas: TAR 2016-09-19, i. k. 2016-23709
  
@@ -3864,7 +3864,10 @@ TAR pastaba. Jeigu komandiruotė prasidėjo iki įstatymo Nr. XIII-2888 įsigali
 
 
 
-5. Jeigu užsienio valstybės jurisdikcijai priklausantis darbdavys Lietuvos Respublikos socialinės apsaugos ir darbo ministro nustatyta tvarka pateikia Valstybinės darbo inspekcijos teritoriniam skyriui motyvuotą pranešimą dėl šio straipsnio 4 dalyje numatyto laikotarpio pratęsimo, kol faktinė komandiruotės trukmė neviršija 12 mėnesių, šis laikotarpis pratęsiamas, tačiau neviršijant 18 mėnesių faktinės komandiruotės trukmės. 
+5. Jeigu užsienio valstybės jurisdikcijai priklausantis darbdavys Lietuvos Respublikos socialinės apsaugos ir darbo ministro nustatyta tvarka pateikia Valstybinei darbo inspekcijai motyvuotą pranešimą dėl šio straipsnio 4 dalyje numatyto laikotarpio pratęsimo, kol faktinė komandiruotės trukmė neviršija 12 mėnesių, šis laikotarpis pratęsiamas, tačiau neviršijant 18 mėnesių faktinės komandiruotės trukmės.
+Straipsnio dalies pakeitimai:
+Nr. XIV-457, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15454
+ 
 
 
 
@@ -3927,9 +3930,10 @@ Nr. XIII-2888, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10789
 109 straipsnis. Užsienio darbdavio darbuotojų darbo sąlygų užtikrinimas
 
 
-1. Užsienio valstybės jurisdikcijai priklausantis darbdavys, komandiruojantis darbuotoją laikinai dirbti Lietuvos Respublikos teritorijoje ilgesniam kaip trisdešimt dienų laikotarpiui arba dirbti statybos darbų, nustatytų Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos socialinės apsaugos ir darbo ministro nustatyta tvarka iš anksto informuoja komandiruojamo darbuotojo darbo funkcijos atlikimo vietos Valstybinės darbo inspekcijos teritorinį skyrių apie šiam darbuotojui taikomas šio kodekso 108 straipsnio 2 dalies 1–9 punktuose nustatytas sąlygas. 
+1. Užsienio valstybės jurisdikcijai priklausantis darbdavys, komandiruojantis darbuotoją laikinai dirbti Lietuvos Respublikos teritorijoje ilgesniam kaip trisdešimties dienų laikotarpiui arba dirbti statybos darbų, nustatytų Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos socialinės apsaugos ir darbo ministro nustatyta tvarka apie tai ne vėliau kaip iki šio darbuotojo darbo Lietuvos Respublikos teritorijoje pradžios informuoja Valstybinę darbo inspekciją.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2888, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10789
+Nr. XIV-457, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15454
  
 
 
@@ -9753,9 +9757,6 @@ Draudžiama skelbti lokautą greitosios medicinos pagalbos tarnybose, stichinės
 
 
  
- 
- 
- 
 Lietuvos Respublikos
 darbo kodekso 
 priedas
@@ -9764,93 +9765,87 @@ priedas
  
 
 
-1. 1991 m. birželio 25 d. Tarybos direktyva 91/383/EEB, pateikianti papildomas priemones, skatinančias gerinti terminuotuose arba laikinuose darbo santykiuose esančių darbuotojų saugą ir sveikatą darbe (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 418), su paskutiniais pakeitimais, padarytais 2007 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva 2007/30/EB (OL 2007 L 165, p. 21).
+1. 1991 m. birželio 25 d. Tarybos direktyva 91/383/EEB, pateikianti papildomas priemones, skatinančias gerinti terminuotuose arba laikinuose darbo santykiuose esančių darbuotojų saugą ir sveikatą darbe, su paskutiniais pakeitimais, padarytais 2007 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva 2007/30/EB.
 
 
 
 
-2. 1991 m. spalio 14 d. Tarybos direktyva 91/533/EEB dėl darbdavio pareigos informuoti darbuotojus apie galiojančias sutarties arba darbo santykių sąlygas (OL 2004 m. specialusis leidimas, 5 skyrius, 2 tomas, p. 3).
+2. 1991 m. spalio 14 d. Tarybos direktyva 91/533/EEB dėl darbdavio pareigos informuoti darbuotojus apie galiojančias sutarties arba darbo santykių sąlygas.
 
 
 
 
-3. 1996 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 96/71/EB dėl darbuotojų komandiravimo paslaugų teikimo sistemoje (OL 2004 m. specialusis leidimas, 5 skyrius, 2 tomas, p. 431) su paskutiniais pakeitimais, padarytais 2018 m. birželio 28 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/957 (OL 2018 L 173, p. 16). 
-Punkto pakeitimai:
-Nr. XIII-2888, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10789
+3. 1996 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 96/71/EB dėl darbuotojų komandiravimo paslaugų teikimo sistemoje su paskutiniais pakeitimais, padarytais 2018 m. birželio 28 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/957.
+
+
+
+
+4. 1997 m. gruodžio 15 d. Tarybos direktyva 97/81/EB dėl Bendrojo susitarimo dėl darbo ne visą darbo dieną, kurį sudarė Europos pramonės ir darbdavių konfederacijų sąjunga (UNICE), Europos įmonių, kuriose dalyvauja valstybė, centras (CEEP) ir Europos profesinių sąjungų konfederacija (ETUC), su paskutiniais pakeitimais, padarytais 1998 m. balandžio 7 d. Tarybos direktyva 98/23/EB dėl Direktyvos 97/81/EB dėl Bendrojo susitarimo dėl darbo ne visą darbo dieną, kurį sudarė Europos pramonės ir darbdavių konfederacijų sąjunga (UNICE), Europos įmonių, kuriose dalyvauja valstybė, centras (CEEP) ir Europos profesinių sąjungų konfederacija (ETUC), taikymo išplėtimo Jungtinei Didžiosios Britanijos ir Šiaurės Airijos Karalystei.
+
+
+
+
+5. 1998 m. liepos 20 d. Tarybos direktyva 98/59/EB dėl valstybių narių įstatymų, susijusių su kolektyviniu atleidimu iš darbo, suderinimo su paskutiniais pakeitimais, padarytais 2015 m. spalio 6 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/1794.
+
+
+
+
+6. 1999 m. birželio 28 d. Tarybos direktyva 1999/70/EB dėl Europos profesinių sąjungų konfederacijos (ETUC), Europos pramonės ir darbdavių konfederacijų sąjungos (UNICE) ir Europos įmonių, kuriose dalyvauja valstybė, centro (CEEP) bendrojo susitarimo dėl darbo pagal terminuotas sutartis.
+
+
+
+
+7. 2000 m. birželio 29 d. Tarybos direktyva 2000/43/EB, įgyvendinanti vienodo požiūrio principą asmenims nepriklausomai nuo jų rasės arba etninės priklausomybės.
+
+
+
+
+8. 2000 m. lapkričio 27 d. Tarybos direktyva 2000/78/EB, nustatanti vienodo požiūrio užimtumo ir profesinėje srityje bendruosius pagrindus.
+
+
+
+
+9. 2001 m. kovo 12 d. Tarybos direktyva 2001/23/EB dėl valstybių narių įstatymų, skirtų darbuotojų teisių apsaugai įmonių, verslo arba įmonių ar verslo dalių perdavimo atveju, suderinimo su paskutiniais pakeitimais, padarytais 2015 m. spalio 6 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/1794.
+
+
+
+
+10. 2002 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 2002/14/EB dėl bendros darbuotojų informavimo ir konsultavimosi su jais sistemos sukūrimo Europos bendrijoje su paskutiniais pakeitimais, padarytais 2015 m. spalio 6 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/1794.
+
+
+
+
+11. 2003 m. lapkričio 4 d. Europos Parlamento ir Tarybos direktyva 2003/88/EB dėl tam tikrų darbo laiko organizavimo aspektų. 
+
+
+
+
+12. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva 2006/54/EB dėl moterų ir vyrų lygių galimybių ir vienodo požiūrio į moteris ir vyrus užimtumo bei profesinės veiklos srityje principo įgyvendinimo (nauja redakcija).
+
+
+
+
+13. 2008 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2008/94/EB dėl darbuotojų apsaugos jų darbdaviui tapus nemokiam (kodifikuota redakcija) su paskutiniais pakeitimais, padarytais 2015 m. spalio 6 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/1794.
+
+
+
+
+14. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/104/EB dėl darbo per laikinojo įdarbinimo įmones.
+
+
+
+
+15. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai.
+
+
+
+
+16. 2010 m. kovo 8 d. Tarybos direktyva 2010/18/ES, įgyvendinanti patikslintą BUSINESSEUROPE, UEAPME, CEEP ir ETUC sudarytą Bendrąjį susitarimą dėl vaiko priežiūros atostogų ir panaikinanti Direktyvą 96/34/EB.
+
+
+Priedo pakeitimai:
+Nr. XIV-457, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15454
  
-
-
-
-
-4. 1997 m. gruodžio 15 d. Tarybos direktyva 97/81/EB dėl Bendrojo susitarimo dėl darbo ne visą darbo dieną, kurį sudarė Europos pramonės ir darbdavių konfederacijų sąjunga (UNICE), Europos įmonių, kuriose dalyvauja valstybė, centras (CEEP) ir Europos profesinių sąjungų konfederacija (ETUC) (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 267).
-
-
-
-
-5. 1998 m. liepos 20 d. Tarybos direktyva 98/59/EB dėl valstybių narių įstatymų, susijusių su kolektyviniu atleidimu iš darbo, suderinimo (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 327).
-
-
-
-
-6. 1999 m. birželio 28 d. Tarybos direktyva 1999/70/EB dėl Europos profesinių sąjungų konfederacijos (ETUC), Europos pramonės ir darbdavių konfederacijų sąjungos (UNICE) ir Europos įmonių, kuriose dalyvauja valstybė, centro (CEEP) bendrojo susitarimo dėl darbo pagal terminuotas sutartis (OL 2004 m. specialusis leidimas, 5 skyrius, 3 tomas, p. 368).
-
-
-
-
-7. 2000 m. birželio 29 d. Tarybos direktyva 2000/43/EB, įgyvendinanti vienodo požiūrio principą asmenims nepriklausomai nuo jų rasės arba etninės priklausomybės (OL 2004 m. specialusis leidimas, 20 skyrius, 1 tomas, p. 23).
-
-
-
-
-8. 2000 m. lapkričio 27 d. Tarybos direktyva 2000/78/EB, nustatanti vienodo požiūrio užimtumo ir profesinėje srityje bendruosius pagrindus (OL 2004 m. specialusis leidimas, 5 skyrius, 4 tomas, p. 79).
-
-
-
-
-9. 2001 m. kovo 12 d. Tarybos direktyva 2001/23/EB dėl valstybių narių įstatymų, skirtų darbuotojų teisių apsaugai įmonių, verslo arba įmonių ar verslo dalių perdavimo atveju, suderinimo (OL 2004 m. specialusis leidimas, 5 skyrius, 4 tomas, p. 98).
-
-
-
-
-10. 2002 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 2002/14/EB dėl bendros darbuotojų informavimo ir konsultavimosi su jais sistemos sukūrimo Europos bendrijoje (OL 2004 m. specialusis leidimas, 5 skyrius, 4 tomas, p. 219).
-
-
-
-
-11. 2003 m. lapkričio 4 d. Europos Parlamento ir Tarybos direktyva 2003/88/EB dėl tam tikrų darbo laiko organizavimo aspektų (OL 2004 m. specialusis leidimas, 5 skyrius, 4 tomas, p. 381). 
-
-
-
-
-12. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva 2006/54/EB dėl moterų ir vyrų lygių galimybių ir vienodo požiūrio į moteris ir vyrus užimtumo bei profesinės veiklos srityje principo įgyvendinimo (nauja redakcija) (OL 2006 L 204, p. 23).
-
-
-
-
-13. 2008 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2008/94/EB dėl darbuotojų apsaugos jų darbdaviui tapus nemokiam (kodifikuota redakcija) (OL 2008 L 283, p. 36).
-
-
-
-
-14. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/104/EB dėl darbo per laikinojo įdarbinimo įmones (OL 2008 L 327, p. 9). 
-
-
-
-
-15. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24).
-
-
-
-
-16. 2010 m. kovo 8 d. Tarybos direktyva 2010/18/ES, įgyvendinanti patikslintą BUSINESSEUROPE, UEAPME, CEEP ir ETUC sudarytą Bendrąjį susitarimą dėl vaiko priežiūros atostogų ir panaikinanti Direktyvą 96/34/EB (OL 2010 L 68, p. 13).
- 
-
-
-
-
-__________________
-
-
  
  
 Pakeitimai:
@@ -9984,3 +9979,8 @@ Lietuvos Respublikos darbo kodekso 179 straipsnio pakeitimo įstatymas
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-453, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15471
 Lietuvos Respublikos darbo kodekso 208 straipsnio pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-457, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15454
+Lietuvos Respublikos darbo kodekso 108, 109, 139, 213 straipsnių ir priedo pakeitimo įstatymas
