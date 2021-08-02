@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F617B8D97E05"
 
 # Lietuvos Respublikos konsulinis statutas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2021-08-01
+Suvestinė redakcija nuo 2021-08-02 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 43-1047, i. k. 0951010ISTA000I-886
  
@@ -511,32 +511,40 @@ Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 
 
 
-20 straipsnis. Pagalba asmenims, praradusiems kelionės dokumentus, kelionės dokumentui tapus netinkamu naudoti ar pasibaigus jo galiojimo laikui
+20 straipsnis. Asmens grįžimo pažymėjimo išdavimas
 
 
-1. Konsulinis pareigūnas arba įgaliotas darbuotojas, Lietuvos Respublikos piliečiui praradus kelionės dokumentą, jam tapus netinkamu naudoti ar pasibaigus jo galiojimo laikui Lietuvos Respublikos piliečiui esant užsienio valstybėje, priima Lietuvos Respublikos piliečio prašymą dėl asmens grįžimo pažymėjimo išdavimo. Konsulinio pareigūno sprendimu Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka piliečiui išduodamas asmens grįžimo pažymėjimas. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
- 
+1. Konsulinis pareigūnas asmens grįžimo pažymėjimus išduoda:
 
 
-
-
-2. Konsulinis pareigūnas Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka išduoda asmens grįžimo pažymėjimus užsienio valstybėje gimusiems nepilnamečiams vaikams, kurių tėvai ar vienas iš tėvų yra Lietuvos Respublikos piliečiai.
+1) Lietuvos Respublikos piliečiams Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo nustatytais atvejais;
 
 
 
 
-3. Konsulinis pareigūnas asmenims be pilietybės, turintiems leidimą gyventi Lietuvos Respublikoje, praradus kelionės dokumentą, jam tapus netinkamu naudoti ar pasibaigus jo galiojimo laikui, šiems asmenims esant užsienio valstybėje, Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka išduoda asmens grįžimo pažymėjimą.
+2) užsienio valstybėje gimusiems nepilnamečiams vaikams, kurių tėvai ar vienas iš tėvų yra Lietuvos Respublikos piliečiai;
 
 
 
 
-4. Šie pažymėjimai Lietuvos Respublikos tarptautinių sutarčių nustatytais atvejais gali būti išduoti užsieniečiams. 
+3) leidimą gyventi Lietuvos Respublikoje turintiems asmenims be pilietybės, kurie būdami užsienio valstybėje prarado kelionės dokumentą, kurių kelionės dokumentas tapo netinkamas naudoti ar pasibaigė jo galiojimo laikas;
+
+
+
+
+4) užsieniečiams Lietuvos Respublikos tarptautinių sutarčių nustatytais atvejais.
+
+
+
+
+
+
+2. Asmens grįžimo pažymėjimai išduodami Lietuvos Respublikos užsienio reikalų ministro nustatyta ir su Lietuvos Respublikos vidaus reikalų ministru suderinta tvarka. Asmens grįžimo pažymėjimo formą nustato Lietuvos Respublikos vidaus reikalų ministras ir Lietuvos Respublikos užsienio reikalų ministras.
 
 
 Straipsnio pakeitimai:
 Nr. XI-467, 2009-11-12, Žin., 2009, Nr. 141-6190 (2009-11-28), i. k. 1091010ISTA00XI-467
+Nr. XIV-226, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07287
  
 
 
@@ -695,14 +703,14 @@ Nr. XIII-2059, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06502
 
 
 
-251 straipsnis. Laikino kelionės dokumento išdavimas
+251 straipsnis. Laikino kelionės dokumento išdavimas 
 
 
-Konsulinis pareigūnas, Lietuvos Respublikos piliečiui praradus kelionės dokumentą, jam tapus netinkamu naudoti, pasibaigus jo galiojimo laikui ar Lietuvos Respublikos piliečiui, esančiam užsienio valstybėje, neturint kito galiojančio kelionės dokumento, pageidaujančiam tęsti kelionę, jo prašymu Lietuvos Respublikos užsienio reikalų ministro nustatyta tvarka išduoda laikiną kelionės dokumentą – laikiną pasą, kuris galioja ne ilgiau kaip vienus metus. 
+Konsulinis pareigūnas Lietuvos Respublikos asmens tapatybės kortelės ir paso įstatymo nustatytais atvejais Lietuvos Respublikos piliečio prašymu Lietuvos Respublikos užsienio reikalų ministro nustatyta ir su Lietuvos Respublikos vidaus reikalų ministru suderinta tvarka išduoda laikiną kelionės dokumentą – laikiną pasą, kuris galioja ne ilgiau kaip vienus metus. Laikino paso formą nustato Lietuvos Respublikos vidaus reikalų ministras ir Lietuvos Respublikos užsienio reikalų ministras.
 
 
-Papildyta straipsniu:
-Nr. X-619, 2006-05-25, Žin., 2006, Nr. 68-2492 (2006-06-17), i. k. 1061010ISTA000X-619
+Straipsnio pakeitimai:
+Nr. XIV-226, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07287
  
 
 
@@ -1100,7 +1108,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                  ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
  
  
 
@@ -1109,6 +1117,8 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+
+ 
 
  
 Lietuvos Respublikos
@@ -1213,3 +1223,11 @@ Lietuvos Respublikos konsulinio statuto 25 ir 26 straipsnių pakeitimo įstatyma
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2059, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06502
 Lietuvos Respublikos konsulinio statuto 25 ir 26 straipsnių pakeitimo įstatymo Nr. XIII-1869 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-226, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07287
+Lietuvos Respublikos konsulinio statuto 20 ir 25-1 straipsnių pakeitimo įstatymas
+ 
+ 
+part_3b967d24e59f450da3ab0f90584982ce_end
