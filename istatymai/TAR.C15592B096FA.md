@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C15592B096FA"
 
 # Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-08-11
+Suvestinė redakcija nuo 2021-08-12 iki 2021-08-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 115-3230, i. k. 0981010ISTAVIII-971
  
@@ -1062,17 +1062,28 @@ Nr. XIII-2905, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10902
 
 
 
-8) ministerijos ir kitos valstybės institucijos ir įstaigos, nurodytos šio straipsnio 2 dalyje, taip pat Seimo kanceliarija, Generalinė prokuratūra, Lietuvos bankas, Ryšių reguliavimo tarnyba, Specialiųjų tyrimų tarnyba, Valstybės saugumo departamentas ir Nacionalinė teismų administracija kaupia asmeninės apsaugos priemones ir kitas veiklos vykdymui užtikrinti būtinas priemones (toliau – apsaugos priemonės). Apsaugos priemonių sąrašą, kiekį ir laikotarpį, kuriam sukauptų apsaugos priemonių turi pakakti nepertraukiamai šiame punkte nurodytų institucijų ir įstaigų veiklai užtikrinti, nustato Vyriausybė ar jos įgaliota institucija; 
+8) dalyvauja likviduojant ekstremaliąsias situacijas ir šalinant jų padarinius, užtikrina valstybės operacijų vadovo, Vyriausybės ekstremalių situacijų komisijos sprendimų įgyvendinimą; 
 Papildyta straipsnio punktu:
-Nr. XIII-3340, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24229
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
  
 
 
 
 
-9) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
+9) ministerijos ir kitos valstybės institucijos ir įstaigos, nurodytos šio straipsnio 2 dalyje, taip pat Seimo kanceliarija, Generalinė prokuratūra, Lietuvos bankas, Ryšių reguliavimo tarnyba, Specialiųjų tyrimų tarnyba, Valstybės saugumo departamentas ir Nacionalinė teismų administracija kaupia asmeninės apsaugos priemones ir kitas veiklos vykdymui užtikrinti būtinas priemones (toliau – apsaugos priemonės). Apsaugos priemonių sąrašą, kiekį ir laikotarpį, kuriam sukauptų apsaugos priemonių turi pakakti nepertraukiamai šiame punkte nurodytų institucijų ir įstaigų veiklai užtikrinti, nustato Vyriausybė ar jos įgaliota institucija; 
+Papildyta straipsnio punktu:
+Nr. XIII-3340, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24229
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+ 
+
+
+
+
+10) atlieka kitas šiame įstatyme ir kituose teisės aktuose nustatytas su civilinės saugos sistemos uždavinių įgyvendinimu susijusias funkcijas.
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-3340, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24229
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
  
 
 
@@ -1967,9 +1978,11 @@ Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
 
 
 
-5. Šio straipsnio 4 dalyje nurodyti gelbėjimo darbų vadovo ar operacijų vadovo sprendimai įforminami specialiame blanke elektroniniu būdu. Šių sprendimų formą ir skelbimo tvarką nustato Priešgaisrinės apsaugos ir gelbėjimo departamento direktorius. Dėl gresiančio pavojaus gyventojų sveikatai, gyvybei, turtui ar aplinkai, kai nėra galimybių įforminti rašytinio sprendimo, gali būti duotas ir žodinis nurodymas, kuris ne vėliau kaip kitą dieną privalo būti įformintas ir paskelbtas šioje dalyje nustatyta tvarka. 
+5. Gelbėjimo darbų vadovo ar operacijų vadovo sprendimai įforminami specialiame blanke elektroniniu būdu ir įsigalioja nuo jų pasirašymo momento. Šių sprendimų formą ir skelbimo tvarką nustato Priešgaisrinės apsaugos ir gelbėjimo departamento direktorius. Dėl gresiančio pavojaus gyventojų sveikatai, gyvybei, turtui ar aplinkai, kai nėra galimybių įforminti rašytinio šio straipsnio 4 dalyje nurodyto gelbėjimo darbų vadovo ar operacijų vadovo sprendimo, gali būti duotas ir žodinis nurodymas, kuris ne vėliau kaip kitą dieną privalo būti įformintas ir paskelbtas šioje dalyje nustatyta tvarka. 
 Papildyta straipsnio dalimi:
 Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
+Straipsnio dalies pakeitimai:
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
  
 
 
@@ -2389,3 +2402,8 @@ Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 9 straipsnio pakei
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3340, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24229
 Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 13, 14, 15 straipsnių pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
+Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 2, 9, 13, 15, 17, 18, 24, 28, 31 ir 32 straipsnių pakeitimo įstatymas
