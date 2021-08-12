@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.6CADC13B548B"
 
 # Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymas
 
-Suvestinė redakcija nuo 2018-07-01 iki 2021-08-11
+Suvestinė redakcija nuo 2021-08-12 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 35-974, i. k. 1001010ISTAIII-1621
  
@@ -42,18 +42,23 @@ Patvirtinti Karinės jėgos naudojimo statutą (pridedama).
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
+ 
+ 
 
 
  
-
 
 
 
  
  
+
+ 
+
+ 
 PATVIRTINTA
-Lietuvos Respublikos                       
+Lietuvos Respublikos 
 2000 m. balandžio 13 d.
 įstatymu Nr. VIII-1621
 (Lietuvos Respublikos 
@@ -502,6 +507,65 @@ Nr. XIII-1209, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09723
 
 
 
+11. Ekstremaliųjų situacijų atvejais, kai ekstremaliojo įvykio mastas sparčiai didėja ir kai, siekiant išvengti grėsmės visuomenės rimčiai, yra būtina padėti policijos, Valstybės sienos apsaugos tarnybos prie Lietuvos Respublikos vidaus reikalų ministerijos ar Viešojo saugumo tarnybos prie Vidaus reikalų ministerijos pajėgoms vykdyti jų funkcijas, ir šiuo tikslu pasitelkiami kariniai vienetai, teikiantys pagalbą šioms valstybės institucijoms, Vyriausybei gavus Vyriausybės ekstremalių situacijų komisijos motyvuotą rašytinį prašymą ir pateikus siūlymą Seimui, Seimo sprendimu kariams gali būti suteikiamos šio straipsnio 12 dalyje nurodytos teisės. Tarp Seimo sesijų neatidėliotinais atvejais tokį sprendimą, Vyriausybei gavus Vyriausybės ekstremalių situacijų komisijos motyvuotą rašytinį prašymą ir pateikus siūlymą Respublikos Prezidentui, turi teisę priimti Respublikos Prezidentas. Šis Respublikos Prezidento sprendimas įsigalioja nuo priėmimo ir turi būti nedelsiant vykdomas. Respublikos Prezidentas teikia šį sprendimą tvirtinti artimiausiame Seimo posėdyje. Seimas gali patvirtinti arba pakeisti Respublikos Prezidento sprendimą. 
+Papildyta straipsnio dalimi:
+Nr. XIV-511, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17355
+ 
+
+
+
+
+12. Šio straipsnio 11 dalyje nustatytais atvejais ir tvarka kariams gali būti suteikiamos šios teisės:
+
+
+1) duoti privalomus nurodymus fiziniams ir juridiniams asmenims, kitoms organizacijoms ir jų padaliniams;
+
+
+
+
+2) persekioti ir sulaikyti asmenis, nevykdančius karių privalomų nurodymų arba įtariamus padarius ar darančius nusikalstamą veiką ar kitą teisės pažeidimą;
+
+
+
+
+3) laikinai apriboti galimybę patekti į tam tikrą teritoriją ar patalpą, sustabdyti joje vykdomus darbus, tam tikroje teritorijoje apriboti ar uždrausti transporto priemonių eismą;
+
+
+
+
+4) tikrinti asmenų, transporto priemonių, ginklų ir kitų daiktų dokumentus;
+
+
+
+
+5) atlikti asmens apžiūrą ir jo turimų daiktų patikrinimą;
+
+
+
+
+6) sustabdyti, tikrinti ir apžiūrėti transporto priemones, jose esančius krovinius ir daiktus, taip pat asmenis ir jų bagažą;
+
+
+
+
+7) panaudoti specialiąsias priemones. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-511, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17355
+ 
+
+
+
+
+13. Šio straipsnio 12 dalyje nurodytos teisės kariams gali būti suteikiamos ne ilgiau kaip 3 mėnesiams. Prireikus teisių suteikimo trukmė, laikantis tokios pačios tvarkos, kaip nurodyta šio straipsnio 11 dalyje, gali būti pratęsiama ne ilgesniam negu 3 mėnesių laikotarpiui. Pratęsimų skaičius neribojamas, tačiau bendra teisių suteikimo trukmė negali būti ilgesnė negu būtina siekiant šio straipsnio 11 dalyje nurodyto tikslo. 
+Papildyta straipsnio dalimi:
+Nr. XIV-511, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17355
+ 
+
+
+
+
 2. Teikdami pagalbą kitoms valstybės ir savivaldybių institucijoms nepaprastosios padėties atveju ar vykdant teroro išpuolio likvidavimo operaciją, kariai turi šias teises:
 
 
@@ -611,7 +675,10 @@ Nr. XIII-1209, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09723
 2. Kovos veiksmų taisykles tvirtina:
 
 
-1) krašto apsaugos ministras – teikiant pagalbą kitoms valstybės ir savivaldybių institucijoms nepaprastosios padėties atveju ar vykdant teroro išpuolio likvidavimo operaciją, taip pat Lietuvos kariuomenei reaguojant į vietinio pobūdžio ginkluotus incidentus ir valstybės sienos pažeidimus, pagal savo pobūdį neprilygstančius agresijos aktams;
+1) krašto apsaugos ministras – teikiant pagalbą kitoms valstybės ir savivaldybių institucijoms ekstremaliosios situacijos, nepaprastosios padėties atveju ar vykdant teroro išpuolio likvidavimo operaciją, taip pat Lietuvos kariuomenei reaguojant į vietinio pobūdžio ginkluotus incidentus ir valstybės sienos pažeidimus, pagal savo pobūdį neprilygstančius agresijos aktams; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-511, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17355
+ 
 
 
 
@@ -720,3 +787,11 @@ Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymu Nr
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1209, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09723
 Lietuvos Respublikos karinės jėgos naudojimo statuto 8 ir 12 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-511, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17355
+Lietuvos Respublikos karinės jėgos naudojimo statuto 13 ir 14 straipsnių pakeitimo įstatymas
+ 
+ 
+part_9302495267e54ac4902236da4bd569af_end
