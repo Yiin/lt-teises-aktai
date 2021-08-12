@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.42837E5A79DD"
 
 # Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties
 
-Suvestinė redakcija nuo 2021-07-23 iki 2021-08-11
+Suvestinė redakcija nuo 2021-08-12 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 73-2539, i. k. 1041010ISTA0IX-2206
  
@@ -5298,6 +5298,37 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
+11. Paskelbus karo padėtį, nepaprastąją padėtį, taip pat ekstremaliąją situaciją ar ekstremalųjį įvykį dėl masinio užsieniečių antplūdžio, užsieniečio prašymas suteikti prieglobstį gali būti pateiktas:
+
+
+1) pasienio kontrolės punktuose ar tranzito zonose – Valstybės sienos apsaugos tarnybai;
+
+
+
+
+2) Lietuvos Respublikos teritorijoje, kai į Lietuvos Respubliką užsienietis atvyko teisėtai, – Migracijos departamentui;
+
+
+
+
+3) užsienio valstybėje – užsienio reikalų ministro nurodytose Lietuvos Respublikos diplomatinėse atstovybėse ar konsulinėse įstaigose. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-515, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17359
+ 
+
+
+
+
+12. Užsieniečio prašymas suteikti prieglobstį, pateiktas nesilaikant šio straipsnio 11 dalyje nurodytos tvarkos, nepriimamas, paaiškinant prašymo suteikti prieglobstį pateikimo tvarką. Valstybės sienos apaugos tarnyba, atsižvelgusi į užsieniečio pažeidžiamumą ar kitas individualias aplinkybes, gali priimti užsieniečio, neteisėtai kirtusio Lietuvos Respublikos valstybės sieną, prašymą suteikti prieglobstį. 
+Papildyta straipsnio dalimi:
+Nr. XIV-515, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17359
+ 
+
+
+
+
 2. Užsienietis asmeniškai pateikia prašymą suteikti prieglobstį. Nepilnamečių šeimos narių vardu prašymą gali pateikti vienas iš pilnamečių šeimos narių. Nelydimo nepilnamečio užsieniečio arba neveiksnaus užsieniečio vardu prašymą gali pateikti jo atstovas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
@@ -5330,6 +5361,14 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 6. Tvarką, reglamentuojančią užsieniečių prašymų suteikti prieglobstį pateikimą ir nagrinėjimą, nustatymą, ar prieglobsčio prašytojas yra pažeidžiamas asmuo, sprendimų priėmimą ir jų vykdymą, nustato vidaus reikalų ministras. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
+ 
+
+
+
+
+7. Tvarką, reglamentuojančią užsieniečių prašymų suteikti prieglobstį pateikimą šio straipsnio 11 dalies 3 punkte nurodytu atveju, nustato užsienio reikalų ministras.
+Papildyta straipsnio dalimi:
+Nr. XIV-515, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17359
  
 
 
@@ -9523,7 +9562,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 LAIKINAI EINANTIS 
-RESPUBLIKOS PREZIDENTO PAREIGAS                                 ARTŪRAS PAULAUSKAS 
+RESPUBLIKOS PREZIDENTO PAREIGAS                                   ARTŪRAS PAULAUSKAS 
  
 
 
@@ -9876,3 +9915,8 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
 Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 5, 71, 76, 77, 79, 113, 131, 136, 138, 139, 140 straipsnių pakeitimo ir Įstatymo papildymo IX-1  skyriumi įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-515, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17359
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 67 straipsnio pakeitimo įstatymas
