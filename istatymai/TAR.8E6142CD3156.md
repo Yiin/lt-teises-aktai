@@ -21,7 +21,7 @@ PASLAUGŲ KVITĄ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2017-06-10 iki 2021-08-31
+Suvestinė redakcija nuo 2021-09-01 iki 2023-01-02
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 136-6965, i. k. 1121010ISTA0XI-2411
  
@@ -52,10 +52,17 @@ Vilnius
 2 straipsnis. Žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą administravimas
 
 
-Valstybinio socialinio draudimo fondo administravimo įstaigos yra pagal paslaugų kvitą teikiamas atlygintinas žemės ūkio ir miškininkystės paslaugas administruojančios institucijos, kurios organizuoja paslaugų kvito blankų gamybą ir pardavimą bei atlieka funkcijas, susijusias su sveikatos draudimo įmokų surinkimu.
+1. Paslaugų kvito blankų gamybą ir pardavimą organizuoja valstybės įmonė Žemės ūkio informacijos ir kaimo verslo centras.
+
+
+
+
+2. Valstybinio socialinio draudimo fondo administravimo įstaigos atlieka funkcijas, susijusias su duomenų apie asmenų suteiktas žemės ūkio ir miškininkystės paslaugas pagal paslaugų kvitus administravimu ir sveikatos draudimo įmokų surinkimu.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-298, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11770
  
-
-
 
 
 
@@ -208,7 +215,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
  
  
 
@@ -221,3 +228,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-407, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09792
 Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo Nr. XI-2411 8 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-298, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11770
+Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo Nr. XI-2411 2 straipsnio pakeitimo įstatymas
