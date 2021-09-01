@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F57794B7899F"
 
 # Lietuvos Respublikos elektros energetikos įstatymas
 
-Suvestinė redakcija nuo 2021-07-15 iki 2021-08-31
+Suvestinė redakcija nuo 2021-09-01 iki 2021-11-12
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 66-1984, i. k. 1001010ISTAIII-1881
  
@@ -4946,6 +4946,119 @@ Nr. XIII-604, 2017-07-04, paskelbta TAR 2017-07-17, i. k. 2017-12305
 
 
 
+521 straipsnis. Nepriklausomų tiekėjų pasiūlymų palyginimo priemonės
+
+
+1. Taryba sudaro galimybę buitiniams vartotojams, labai mažoms įmonėms ir mažoms įmonėms, kaip jos apibrėžtos Smulkiojo ir vidutinio verslo plėtros įstatyme, kurių kalendorinių metų vidutinis elektros energijos suvartojimas mažesnis kaip 100 000 kWh, naudotis nepriklausomų tiekėjų pasiūlymų palyginimo priemone (toliau šiame straipsnyje – palyginimo priemonė), kuri atitinka šio straipsnio 7 dalyje nustatytus reikalavimus.
+
+
+
+
+2. Asmuo savo lėšomis šiame straipsnyje nustatyta tvarka sukuria palyginimo priemonę, kuriai suteikiamas patikimumo ženklas. 
+
+
+
+
+3. Taryba iš Tarybai skirtų asignavimų užtikrina šio straipsnio 1 dalyje numatytos palyginimo priemonės sukūrimą ir veikimą, jeigu nėra bent vienos patikimumo ženklą turinčios asmens sukurtos palyginimo priemonės.
+
+
+
+
+4. Taryba palyginimo priemonę valdančio asmens prašymu ne vėliau kaip per 2 mėnesius nuo prašymo ir visų reikalingų dokumentų gavimo dienos suteikia šio asmens valdomai palyginimo priemonei patikimumo ženklą, jeigu ši priemonė atitinka šio straipsnio 7 dalyje nustatytus reikalavimus. Asmuo, siekiantis, kad jo valdomai palyginimo priemonei būtų suteiktas palyginimo priemonės patikimumo ženklas, pateikia Tarybai nustatytos formos prašymą, nurodydamas šiuos duomenis: juridinio asmens pavadinimą, kodą, jeigu prašymą teikia juridinis asmuo, fizinio asmens vardą, pavardę, gimimo datą, jeigu prašymą teikia fizinis asmuo, palyginimo priemonės interneto svetainės adresą, juridinio ar fizinio asmens kontaktinius duomenis (telefono ryšio numerį, elektroninio pašto adresą) ir informaciją bei Tarybos nurodytus dokumentus, patvirtinančius palyginimo priemonės atitiktį šio straipsnio 7 dalyje nustatytiems reikalavimams.
+
+
+
+
+5. Jeigu palyginimo priemonę valdantis asmuo, jos administravimą atliekantis asmuo arba palyginimo priemonė neatitinka bent vieno iš šio straipsnio 7 dalyje nurodytų reikalavimų, palyginimo priemonei suteiktas patikimumo ženklas panaikinamas ne vėliau kaip per 3 darbo dienas nuo tokių aplinkybių paaiškėjimo.
+
+
+
+
+6. Taryba tvirtina palyginimo priemonės patikimumo ženklo suteikimo ir panaikinimo tvarkos aprašą, kuriame nustatoma informacijos Tarybai teikimo tvarka, palyginimo priemonės atitikties šio straipsnio 7 dalies reikalavimams vertinimo, sprendimo dėl palyginimo priemonės patikimumo ženklo suteikimo ar panaikinimo priėmimo tvarka, palyginimo priemonės priežiūros, asmens duomenų, reikalingų šioms funkcijoms atlikti, tvarkymo tvarka. 
+
+
+
+
+7. Palyginimo priemonė turi atitikti visus šiuos reikalavimus:
+
+
+1) palyginimo priemonę valdantis asmuo, taip pat jos administravimą atliekantis asmuo turi būti nesusiję su rinkos dalyviais. Laikoma, kad toks palyginimo priemonę valdantis asmuo, taip pat jos administravimą atliekantis asmuo ir rinkos dalyvis yra susiję, jeigu palyginimo priemonę valdantis asmuo, taip pat jos administravimą atliekantis asmuo tiesiogiai arba netiesiogiai (per trečiuosius asmenis) turi daugiau kaip pusę rinkos dalyvio akcijų, kitokių vertybinių popierių ar turto arba turi teises į daugiau kaip pusę balsų, arba turi teisę skirti daugiau kaip pusę priežiūros ar valdymo organų narių, arba turi rinkos dalyvio valdymo teisę. Palyginimo priemonę valdantis asmuo, taip pat jos administravimą atliekantis asmuo ir rinkos dalyvis yra susiję ir jeigu rinkos dalyvis palyginimo priemonę valdančiame asmenyje, taip pat jos administravimą atliekančiame asmenyje turi šiame punkte nurodytas teises;
+
+
+
+
+2) palyginimo priemone turi būti užtikrinama, kad dėl paieškos rezultatų visoms elektros energetikos įmonėms būtų taikomas vienodas režimas;
+
+
+
+
+3) palyginimo priemonės interneto svetainėje turi būti aiškiai nurodomas palyginimo priemonę valdantis asmuo ir jos administravimą atliekantis asmuo (juridinio asmens pavadinimas, kodas, fizinio asmens vardas, pavardė), šių asmenų kontaktiniai duomenys (telefono ryšio numeris, elektroninio pašto adresas) ir informacija apie palyginimo priemonės finansavimo šaltinius (tuo atveju, jeigu finansavimas gaunamas iš fizinio asmens, šio asmens duomenys viešai neskelbiami);
+
+
+
+
+4) palyginimo priemonėje turi būti nustatyti aiškūs ir objektyvūs kriterijai, kuriais turi būti grindžiamas nepriklausomų tiekėjų mažmeninės elektros energijos tiekimo kainos pasiūlymų, įskaitant mažmeninės kintamosios elektros energijos kainos pasiūlymus, palyginimas, ir jie turi būti atskleisti;
+
+
+
+
+5) palyginimo priemonėje teikiama informacija turi būti aiški ir nedviprasmiška;
+
+
+
+
+6) palyginimo priemonėje turi būti teikiama tiksli ir aktuali informacija ir turi būti nurodyta, kada buvo atliktas paskutinis atnaujinimas;
+
+
+
+
+7) palyginimo priemonė turi būti prieinama neįgaliesiems – pastebima, paprastai naudojama, suprantama ir patvari;
+
+
+
+
+8) palyginimo priemonėje turi būti numatyta veiksminga pranešimo apie neteisingą informaciją apie paskelbtus pasiūlymus procedūra;
+
+
+
+
+9) vartotojams užtikrinama galimybė palyginimo priemonėje atlikti nepriklausomų tiekėjų mažmeninės elektros energijos tiekimo kainos pasiūlymų, įskaitant mažmeninės kintamosios elektros energijos kainos pasiūlymus, palyginimą nenaudojant jokių vartotojų asmens duomenų;
+
+
+
+
+10) palyginimo priemonėje turi būti sudaryta galimybė palyginti visų nepriklausomų tiekėjų mažmeninės elektros energijos tiekimo kainos pasiūlymus, įskaitant mažmeninės kintamosios elektros energijos kainos pasiūlymus, skirtus šio straipsnio 1 dalyje nurodytiems asmenims;
+
+
+
+
+11) palyginimo priemone šio straipsnio 1 dalyje nurodyti asmenys turi naudotis neatlygintinai.
+
+
+
+
+
+
+8. Taryba savo interneto svetainėje skelbia nuorodas į Tarybos valdomą palyginimo priemonę ir palyginimo priemones, kurioms suteiktas patikimumo ženklas. Palyginimo priemones, kurioms suteiktas patikimumo ženklas, valdantys asmenys palyginimo priemonės svetainėje turi nurodyti, kad ši palyginimo priemonė turi Tarybos suteiktą palyginimo priemonės patikimumo ženklą.
+
+
+
+
+9. Nepriklausomi tiekėjai Tarybos nustatyta tvarka, terminais ir (ar) periodiškumu privalo pateikti Tarybai, kai ji yra palyginimo priemonę valdantis asmuo, informaciją apie nepriklausomų tiekėjų mažmeninės elektros energijos tiekimo kainos pasiūlymus, įskaitant mažmeninės kintamosios elektros energijos kainos pasiūlymus, teikiamus šio straipsnio 1 dalyje nurodytiems asmenims, ir (ar) viešai skelbti nepriklausomų tiekėjų mažmeninės elektros energijos tiekimo kainos pasiūlymus, įskaitant mažmeninės kintamosios elektros energijos kainos pasiūlymus, šio straipsnio 1 dalyje nurodytiems asmenims.
+
+
+
+
+10. Palyginimo priemones, kurioms suteiktas patikimumo ženklas, valdantiems asmenims mutatis mutandis taikomas Energetikos įstatymo 36 straipsnis.
+
+
+Papildyta straipsniu:
+Nr. XIV-483, 2021-06-30, paskelbta TAR 2021-07-13, i. k. 2021-15833
+ 
+
+
+
+
 
 
 DEVINTASIS SKIRSNIS
@@ -5176,24 +5289,22 @@ Nr. XIII-554, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12057
 56 straipsnis. Apskaitos atskyrimas
 
 
-1. Perdavimo sistemos operatorius, skirstomųjų tinklų operatorius ir visuomeninis tiekėjas privalo atskirai tvarkyti su elektros energijos perdavimo, skirstymo, visuomeninio tiekimo veikla, viešuosius interesus atitinkančių paslaugų teikimo veikla ir kita, su elektros energetika nesusijusia veikla, susijusią apskaitą.
+1. Perdavimo sistemos operatorius, skirstomųjų tinklų operatorius, visuomeninis tiekėjas ir perdavimo sistemos operatoriui izoliuoto darbo rezervo paslaugą teikiantis energijos kaupimo įrenginio savininkas privalo atskirai tvarkyti su elektros energijos perdavimo, skirstymo, visuomeninio tiekimo, kaupimo veikla, viešuosius interesus atitinkančių paslaugų teikimo veikla ir kita, su elektros energetika nesusijusia, veikla susijusią apskaitą.
 
 
 
 
-2. Gamintojai ir nepriklausomi tiekėjai privalo atskirai tvarkyti su elektros energetikos sektoriaus veikla nesusijusią apskaitą.
+2. Gamintojai ir nepriklausomi tiekėjai, taip pat energijos kaupimo įrenginių savininkai, kurių teikiamų paslaugų kainos yra reguliuojamos, privalo atskirai tvarkyti su elektros energetikos sektoriaus veikla nesusijusią apskaitą.
 
 
 
 
-3. Elektros energetikos įmonės (išskyrus gamintojus, gaminančius elektros energiją iš atsinaujinančių energijos išteklių), kurios, vadovaudamosi Energetikos įstatymo 16 straipsnio 8 dalimi, nėra įpareigotos skelbti metinių finansinių ataskaitų interneto svetainėse, pasibaigus kiekvieniems finansiniams metams per 4 mėnesius praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo reikalavimus, skelbia savo interneto svetainėse. Jeigu šios elektros energetikos įmonės dėl techninių priežasčių negali paskelbti praėjusių finansinių metų metinių finansinių ataskaitų ir auditoriaus išvadų savo interneto svetainėse ar jų neturi, tada jos apie tai raštu informuoja Tarybą ir praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal teisės aktų reikalavimus, teikia Tarybai, kuri paskelbia jas savo interneto svetainėje. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-1970, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03168
- 
+3. Elektros energetikos įmonės (išskyrus gamintojus, gaminančius elektros energiją iš atsinaujinančių energijos išteklių), kurios, vadovaudamosi Energetikos įstatymo 16 straipsnio 8 dalimi, nėra įpareigotos skelbti metinių finansinių ataskaitų interneto svetainėse, pasibaigus kiekvieniems finansiniams metams per 4 mėnesius praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo reikalavimus, skelbia savo interneto svetainėse. Jeigu šios elektros energetikos įmonės dėl techninių priežasčių negali paskelbti praėjusių finansinių metų metinių finansinių ataskaitų ir auditoriaus išvadų savo interneto svetainėse ar jų neturi, tada jos apie tai raštu informuoja Tarybą ir praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal teisės aktų reikalavimus, teikia Tarybai, kuri paskelbia jas savo interneto svetainėje. Elektros energetikos įmonės, kurios šioje dalyje nėra įpareigotos skelbti savo metinių finansinių ataskaitų ir auditoriaus išvadų, metinių finansinių ataskaitų ir auditoriaus išvadų kopijas laiko savo buveinėje, kurioje su jomis gali susipažinti visuomenė.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-1627, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18860
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
  
 
 
@@ -5741,6 +5852,14 @@ Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
 
 
 
+12. Energijos kaupimo įrenginio savininkui, perdavimo sistemos operatoriui teikiančiam izoliuoto darbo rezervo paslaugą, Tarybos nustatyta tvarka mutatis mutandis taikomi šio įstatymo 68 straipsnio 1 dalyje nurodyti įpareigojimai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
+ 
+
+
+
+
 2. Perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomeninės elektros energijos kainos reguliuojamos Tarybai nustatant viršutines kainų ribas. Konkrečias perdavimo, skirstymo ir visuomeninio tiekimo paslaugų ir visuomenines elektros energijos kainas ir tarifus nustato ir keičia paslaugos teikėjas.
 
 
@@ -5821,47 +5940,38 @@ Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
 
 
 
-6. Kai vartotojo ar gamintojo elektros įrenginiai prijungiami prie perdavimo tinklų, vartotojas ir (ar) gamintojas apmoka visas sąnaudas, susijusias su įrenginių prijungimu prie elektros perdavimo tinklų.
-
-
-
-
-7. Kai vartotojo ar gamintojo elektros įrenginiai prijungiami prie skirstomųjų tinklų, sąnaudos paskirstomos tokia tvarka:
-
-
-1) pažeidžiami vartotojai apmoka 20 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą Tarybos patvirtintą įkainį; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
+6. Kai vartotojo ar gamintojo elektros įrenginiai, taip pat energijos kaupimo įrenginiai prijungiami prie perdavimo tinklų, atitinkamai vartotojas, gamintojas ar energijos kaupimo įrenginio savininkas apmoka visas sąnaudas, susijusias su jo valdomų įrenginių prijungimu prie elektros perdavimo tinklų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
  
 
 
 
 
-2) vartotojai, kurių pirmą kartą prie skirstomųjų tinklų prijungiamų elektros įrenginių leistinoji naudoti galia yra ne mažesnė kaip 1 MW ar kurie didina leistinąją naudoti galią ne mažiau kaip 1 MW ir kurie skirstomųjų tinklų operatoriui įsipareigoja 10 metų nuo vartotojo elektros įrenginių prijungimo prie skirstomųjų tinklų nemažinti leistinosios naudoti galios, apmoka 10 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį. Šis punktas netaikomas prijungiant gyvenamosios paskirties pastatų elektros įrenginius prie skirstomųjų tinklų; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
- 
+7. Kai vartotojo ar gamintojo elektros įrenginiai ar energijos kaupimo įrenginiai prijungiami prie skirstomųjų tinklų, sąnaudos paskirstomos tokia tvarka:
+
+
+1) pažeidžiami vartotojai apmoka 20 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą Tarybos patvirtintą įkainį;
 
 
 
 
-3) vartotojai, kurių prijungiamų elektros įrenginių leistinoji naudoti galia ar didinama elektros įrenginių leistinoji naudoti galia yra didesnė kaip 250 kW, ir gamintojai, kurių elektros įrenginiams prijungti prie elektros tinklų reikia įrengti transformatorių pastotes, transformatorines, skirstomuosius punktus, taip pat statytojai (užsakovai) šio straipsnio 72 dalyje nurodytais atvejais, kurie pageidauja Energetikos ministerijos nustatyta tvarka, suderinę su skirstomųjų tinklų operatoriumi, įrengti šiuos elektros tinklus ir organizuoti jų įrengimo darbus, apmoka 100 procentų šių skirstomųjų tinklų įrengimo sąnaudų. Atlikti skirstomųjų tinklų įrengimo darbai laikomi prijungimo prie skirstomųjų tinklų paslaugos dalimi ir vadovaujantis šia nuostata įrengti skirstomieji tinklai yra skirstomųjų tinklų operatoriaus nuosavybė. Prie šių skirstomųjų tinklų prijungiant kitų vartotojų ir gamintojų įrenginius, už jų įrengimą ir (ar) naudojimą šių skirstomųjų tinklų įrengimą atlikusiems vartotojams ir gamintojams neatlyginama; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
- 
+2) vartotojai, kurių pirmą kartą prie skirstomųjų tinklų prijungiamų elektros įrenginių leistinoji naudoti galia yra ne mažesnė kaip 1 MW ar kurie didina leistinąją naudoti galią ne mažiau kaip 1 MW ir kurie skirstomųjų tinklų operatoriui įsipareigoja 10 metų nuo vartotojo elektros įrenginių prijungimo prie skirstomųjų tinklų nemažinti leistinosios naudoti galios, apmoka 10 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį. Šis punktas netaikomas prijungiant gyvenamosios paskirties pastatų elektros įrenginius prie skirstomųjų tinklų;
 
 
 
 
-4) kiti vartotojai, išskyrus šios dalies 1, 2 ir 3 punktuose nurodytus vartotojus, apmoka 50 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį, išskyrus atvejus, kai kituose įstatymuose nustatyta kitaip; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
- 
+3) vartotojai, kurių prijungiamų elektros įrenginių leistinoji naudoti galia ar didinama elektros įrenginių leistinoji naudoti galia yra didesnė kaip 250 kW, ir gamintojai, kurių elektros įrenginiams prijungti prie elektros tinklų reikia įrengti transformatorių pastotes, transformatorines, skirstomuosius punktus, taip pat statytojai (užsakovai) šio straipsnio 72 dalyje nurodytais atvejais, kurie pageidauja Energetikos ministerijos nustatyta tvarka, suderinę su skirstomųjų tinklų operatoriumi, įrengti šiuos elektros tinklus ir organizuoti jų įrengimo darbus, apmoka 100 procentų šių skirstomųjų tinklų įrengimo sąnaudų. Atlikti skirstomųjų tinklų įrengimo darbai laikomi prijungimo prie skirstomųjų tinklų paslaugos dalimi ir vadovaujantis šia nuostata įrengti skirstomieji tinklai yra skirstomųjų tinklų operatoriaus nuosavybė. Prie šių skirstomųjų tinklų prijungiant kitų vartotojų ir gamintojų įrenginius, už jų įrengimą ir (ar) naudojimą šių skirstomųjų tinklų įrengimą atlikusiems vartotojams ir gamintojams neatlyginama;
 
 
 
 
-5) gamintojai apmoka 100 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį, išskyrus atvejus, kai kituose įstatymuose nustatyta kitaip;
+4) kiti vartotojai, išskyrus šios dalies 1, 2 ir 3 punktuose nurodytus vartotojus, apmoka 50 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį, išskyrus atvejus, kai kituose įstatymuose nustatyta kitaip;
+
+
+
+
+5) gamintojai ir energijos kaupimo įrenginių savininkai, išskyrus vartotojus, kurių elektros įrenginių (įskaitant energijos kaupimo įrenginius) prijungimo prie skirstomųjų tinklų sąnaudų paskirstymui taikomi šios dalies 1, 2, 3, 4 ir 6 punktai, apmoka 100 procentų skirstomųjų tinklų operatoriaus sąnaudų arba moka pagal šį dydį apskaičiuotą ir Tarybos patvirtintą įkainį, išskyrus atvejus, kai kituose įstatymuose nustatyta kitaip;
 
 
 
@@ -5869,6 +5979,9 @@ Nr. XIII-3336, 2020-10-20, paskelbta TAR 2020-10-26, i. k. 2020-22203
 6) likusios sąnaudos, kurių neapmoka vartotojas ar gamintojas, yra pripažįstamos skirstomųjų tinklų operatoriaus tinklų plėtros išlaidomis. Skirstomųjų tinklų operatoriaus sąnaudų apskaita tvarkoma ir kontrolė vykdoma šio įstatymo 68 straipsnyje nustatyta tvarka.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
+ 
 
 
 
@@ -6184,10 +6297,11 @@ Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
 
 
 
-10. Perdavimo sistemos operatoriaus perdavimo paslaugos kainos ir tarifai įsigalioja praėjus 2 mėnesiams nuo jų paskelbimo. Gamintojų, kurių parduodamos elektros energijos ir rezervinės galios kainos yra reguliuojamos, elektros energijos pardavimo ir rezervinės galios kainos ir (ar) nustatyta pajamų riba, skirstomųjų tinklų operatoriaus skirstymo paslaugos kainos ir tarifai įsigalioja praėjus ne mažiau kaip 45 dienoms nuo jų paskelbimo, o visuomeninės elektros energijos kainos ir tarifai įsigalioja praėjus ne mažiau kaip vienam mėnesiui nuo jų paskelbimo. Gamintojų, kurių teikiamų izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugų kainos yra reguliuojamos, nustatytos kainos ir (ar) nustatyta pajamų riba įsigalioja praėjus ne mažiau kaip vienam mėnesiui nuo jų paskelbimo. 
+10. Perdavimo sistemos operatoriaus perdavimo paslaugos kainos ir tarifai įsigalioja praėjus 2 mėnesiams nuo jų paskelbimo. Gamintojų, kurių parduodamos elektros energijos ir rezervinės galios kainos yra reguliuojamos, elektros energijos pardavimo ir rezervinės galios kainos ir (ar) nustatyta pajamų riba, skirstomųjų tinklų operatoriaus skirstymo paslaugos kainos ir tarifai įsigalioja praėjus ne mažiau kaip 45 dienoms nuo jų paskelbimo, o visuomeninės elektros energijos kainos ir tarifai įsigalioja praėjus ne mažiau kaip vienam mėnesiui nuo jų paskelbimo. Gamintojų, kurių teikiamų izoliuoto elektros energetikos sistemos darbo ir (ar) totalios elektros energetikos sistemos avarijos prevencijos ar likvidavimo paslaugų kainos yra reguliuojamos, taip pat energijos kaupimo įrenginių savininkų, kurių teikiamų paslaugų kainos yra reguliuojamos, nustatytos kainos ir (ar) nustatyta pajamų riba įsigalioja praėjus ne mažiau kaip vienam mėnesiui nuo jų paskelbimo.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1456, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11769
 Nr. XIII-2215, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10322
+Nr. XIV-232, 2021-04-01, paskelbta TAR 2021-04-08, i. k. 2021-07423
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2704, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26485
  
