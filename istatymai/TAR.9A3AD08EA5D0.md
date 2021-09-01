@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-08-31
+Suvestinė redakcija nuo 2021-09-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 153-0; Žin. 1991, Nr.23-593, i. k. 0911010ISTA00I-1489
  
@@ -393,11 +393,12 @@ Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
 
 
 
-39. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Visuomenės informavimo įstatyme, Lietuvos Respublikos kibernetinio saugumo įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme ir Lietuvos Respublikos elektroninių ryšių įstatyme.
+39. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Visuomenės informavimo įstatyme, Lietuvos Respublikos kibernetinio saugumo įstatyme, Lietuvos Respublikos strateginio valdymo įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme ir Lietuvos Respublikos socialinių paslaugų įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
 Straipsnio dalies pakeitimai:
 Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
+Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
  
 
 
@@ -486,7 +487,14 @@ Nr. XII-398, 2013-06-20, Žin., 2013, Nr. 73-3655 (2013-07-09)
 
 
 
-4) tęstinumas – švietimo sistema yra lanksti, atvira, pagrįsta įvairių formų ir institucijų sąveika; ji sudaro sąlygas kiekvienam asmeniui mokytis visą gyvenimą.
+4) tęstinumas – švietimo sistema yra lanksti, atvira, pagrįsta įvairių formų ir institucijų sąveika; ji sudaro sąlygas kiekvienam asmeniui mokytis visą gyvenimą;
+
+
+
+
+5) įtrauktis – švietimo sistema sudaro sąlygas kiekvienam asmeniui ugdytis, plėtoti savo galias ir gebėjimus, gauti reikiamą pagalbą, patirti sėkmę mokantis, socialinėje, kultūrinėje ir (ar) kitose veiklose ir būti nediskriminuojamam dėl ugdymosi poreikių įvairovės ir (ar) švietimo pagalbos reikmės.
+Papildyta straipsnio punktu:
+Nr. XIII-3268, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15543
  
 
 
@@ -573,19 +581,32 @@ Lietuvos švietimo sistema apima:
 7 straipsnis. Ikimokyklinis ugdymas
 
 
-1. Ikimokyklinio ugdymo paskirtis – padėti vaikui tenkinti prigimtinius, kultūros, taip pat ir etninės, socialinius, pažintinius poreikius.
+1. Ikimokyklinio ugdymo paskirtis – padėti vaikui tenkinti prigimtinius, kultūros, taip pat ir etninės, socialinius, pažintinius gebėjimus, ugdyti vaiko kognityvinius įgūdžius, padėti vaikui pasirengti ugdytis pagal priešmokyklinio ugdymo programą. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
+ 
 
 
 
 
-2. Ikimokyklinis ugdymas vyksta šeimoje, o tėvų (globėjų) pageidavimu – pagal ikimokyklinio ugdymo programą. Švietimo ir mokslo ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka ir atvejais vaikui ikimokyklinis ugdymas gali būti privalomas. 
+2. Ikimokyklinis ugdymas vyksta šeimoje, o tėvų (globėjų) pageidavimu – pagal ikimokyklinio ugdymo programą. Vaikams, patiriantiems socialinę riziką, skiriamas privalomas ugdymas pagal ikimokyklinio ugdymo programą švietimo, mokslo ir sporto ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka. Kitiems vaikams privalomas ugdymas pagal ikimokyklinio ugdymo programą gali būti skiriamas vadovaujantis švietimo, mokslo ir sporto ministro ir socialinės apsaugos ir darbo ministro nustatytais kriterijais ir tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
+ 
 
 
 
 
 3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas.
+3 dalies redakcija nuo 2023-09-01 iki 2024-08-31:
+3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas. Ugdymas pagal ikimokyklinio ugdymo programą yra visuotinis nuo 4 metų amžiaus.
+3 dalies redakcija nuo 2024-09-01 iki 2025-08-31:
+3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas. Ugdymas pagal ikimokyklinio ugdymo programą yra visuotinis nuo 3 metų amžiaus.
+3 dalies redakcija nuo 2025-09-01:
+3. Ikimokyklinis ugdymas teikiamas vaikui nuo gimimo, iki jam pradedamas teikti priešmokyklinis ugdymas. Ugdymas pagal ikimokyklinio ugdymo programą yra visuotinis nuo 2 metų amžiaus.
 Straipsnio dalies pakeitimai:
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
+Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
  
 
 
@@ -620,9 +641,14 @@ Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 
 3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais jam sueina 6 metai. Priešmokyklinis ugdymas gali būti teikiamas anksčiau tėvų (globėjų) sprendimu, bet ne anksčiau, negu vaikui sueina 5 metai. 
+3 dalies redakcija nuo 2022-01-01 iki 2022-12-31:
+3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais jam sueina 6 metai. Priešmokyklinis ugdymas gali būti teikiamas anksčiau tėvų (globėjų) sprendimu, bet ne anksčiau, negu vaikui sueina 5 metai. Švietimo, mokslo ir sporto ministro nustatytais atvejais ir tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, priešmokyklinis ugdymas gali trukti dvejus metus.
+3 dalies redakcija nuo 2023-01-01:
+3. Priešmokyklinis ugdymas pradedamas teikti vaikui, kai tais kalendoriniais metais iki balandžio 30 dienos jam sueina 5 metai. Švietimo, mokslo ir sporto ministro nustatyta tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, vaikui priešmokyklinis ugdymas gali būti pradedamas teikti, kai jam tais kalendoriniais metais 5 metai sueina iki rugsėjo 1 dienos. Priešmokyklinis ugdymas gali būti teikiamas vėliau tėvų (globėjų) sprendimu, bet ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai. Socialinę riziką patiriančiam vaikui priešmokyklinis ugdymas užtikrinamas švietimo, mokslo ir sporto ministro ir socialinės apsaugos ir darbo ministro nustatyta tvarka. Švietimo, mokslo ir sporto ministro nustatytais atvejais ir tvarka įvertinus vaiko ugdymo ir ugdymosi poreikius, pažangą, priešmokyklinis ugdymas gali trukti dvejus metus.
 Straipsnio dalies pakeitimai:
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
+Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
  
 
 
@@ -864,7 +890,10 @@ Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 
 
-6. Mokiniai, turintys specialiųjų ugdymosi poreikių, formaliojo švietimo programas gali baigti per trumpesnį ar ilgesnį negu nustatytą laiką, gali mokytis su pertraukomis, šias programas gali baigti atskirais moduliais. Mokiniai, turintys labai didelių ir didelių specialiųjų ugdymosi poreikių, bendrojo ugdymo mokyklose (klasėse), skirtose mokiniams, turintiems specialiųjų ugdymosi poreikių, gali mokytis iki 21 metų.
+6. Mokiniai, turintys specialiųjų ugdymosi poreikių, formaliojo švietimo programas gali baigti per trumpesnį ar ilgesnį negu nustatytą laiką, gali mokytis su pertraukomis, šias programas gali baigti atskirais moduliais. Mokiniai, turintys labai didelių ir didelių specialiųjų ugdymosi poreikių, bendrojo ugdymo mokyklose (klasėse), skirtose mokiniams, turintiems specialiųjų ugdymosi poreikių, gali mokytis iki mokslo metų, kuriais jiems sueina 21 metai, pabaigos. Jeigu mokiniai, turintys labai didelių ir didelių specialiųjų ugdymosi poreikių, dėl ligos mokėsi su pertraukomis, pateikę tokių pertraukų priežastį pagrindžiančius dokumentus, jie gali mokytis iki mokslo metų, kuriais jiems sueina 23 metai, pabaigos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-484, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15863
+ 
 
 
 
@@ -874,9 +903,11 @@ Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 
 
-8. Vaikams ir asmenims iki 21 metų, turintiems specialiųjų ugdymosi poreikių ir ugdomiems (mokomiems) pagal ikimokyklinio, priešmokyklinio, bendrojo ugdymo, pirminio profesinio mokymo programas, ir jų tėvams (globėjams, rūpintojams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo ir mokslo ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka.
+8. Vaikams nuo gimimo iki 18 metų (turintiems didelių ir labai didelių specialiųjų ugdymosi poreikių – iki mokslo metų, kuriais jiems sueina 21 metai, pabaigos, o tiems, kurie dėl ligos mokėsi su pertraukomis ir pateikė tokių pertraukų priežastį pagrindžiančius dokumentus, – iki mokslo metų, kuriais jiems sueina 23 metai, pabaigos), ugdomiems (mokomiems) pagal ikimokyklinio, priešmokyklinio, bendrojo ugdymo, pirminio profesinio mokymo programas, ir jų tėvams (globėjams, rūpintojams) koordinuotai teikiamos švietimo pagalba, socialinės ir sveikatos priežiūros paslaugos švietimo, mokslo ir sporto ministro, socialinės apsaugos ir darbo ministro ir sveikatos apsaugos ministro nustatyta tvarka. 
 Papildyta straipsnio dalimi:
 Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
+Straipsnio dalies pakeitimai:
+Nr. XIV-484, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15863
  
 
 
@@ -1085,9 +1116,10 @@ Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 
 
 
-2. Specialiąją pedagoginę pagalbą asmeniui iki 21 metų teikia specialieji pedagogai, logopedai, tiflopedagogai, surdopedagogai ir kiti specialistai, kurių išsilavinimas ir kvalifikacija atitinka švietimo ir mokslo ministro nustatytus reikalavimus. Specialiosios pedagoginės pagalbos teikimo asmenims iki 21 metų tvarką nustato švietimo ir mokslo ministras.
+2. Specialiąją pedagoginę pagalbą asmenims iki mokslo metų, kuriais jiems sueina 21 metai, pabaigos, o tiems, kurie dėl ligos mokėsi su pertraukomis ir pateikė tokių pertraukų priežastį pagrindžiančius dokumentus, – iki mokslo metų, kuriais jiems sueina 23 metai, pabaigos teikia specialieji pedagogai, logopedai, tiflopedagogai, surdopedagogai ir kiti specialistai, kurių išsilavinimas ir kvalifikacija atitinka švietimo, mokslo ir sporto ministro nustatytus reikalavimus. Specialiosios pedagoginės pagalbos teikimo asmenims iki 21 metų tvarką nustato švietimo, mokslo ir sporto ministras. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
+Nr. XIV-484, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15863
  
 
 
@@ -1165,25 +1197,25 @@ Nr. XII-1614, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06359
 
 
 
-3. Savivaldybėje koordinuotai teikiamų švietimo pagalbos, socialinių ir sveikatos priežiūros paslaugų vaikams nuo gimimo iki 18 metų (turintiems didelių ir labai didelių specialiųjų ugdymosi poreikių - iki 21 metų) ir jų tėvams (globėjams, rūpintojams) koordinavimą užtikrina savivaldybės administracijos valstybės tarnautojas – tarpinstitucinio bendradarbiavimo koordinatorius, kurio kvalifikacinius reikalavimus nustato švietimo ir mokslo ministras kartu su socialinės apsaugos ir darbo ministru ir sveikatos apsaugos ministru. Tarpinstitucinio bendradarbiavimo koordinatorius:
+3. Savivaldybėje koordinuotai teikiamų švietimo pagalbos, socialinių ir sveikatos priežiūros paslaugų vaikams nuo gimimo iki 18 metų (turintiems didelių ir labai didelių specialiųjų ugdymosi poreikių – iki mokslo metų, kuriais jiems sueina 21 metai, pabaigos, o tiems, kurie dėl ligos mokėsi su pertraukomis ir pateikė tokių pertraukų priežastį pagrindžiančius dokumentus, – iki mokslo metų, kuriais jiems sueina 23 metai, pabaigos) ir jų tėvams (globėjams, rūpintojams) koordinavimą užtikrina savivaldybės administracijos valstybės tarnautojas – tarpinstitucinio bendradarbiavimo koordinatorius. Tarpinstitucinio bendradarbiavimo koordinatoriaus kvalifikacinius reikalavimus nustato švietimo, mokslo ir sporto ministras kartu su socialinės apsaugos ir darbo ministru ir sveikatos apsaugos ministru. Tarpinstitucinio bendradarbiavimo koordinatorius:
 
 
-1) koordinuoja koordinuotai teikiamas švietimo pagalbą, socialines ir sveikatos priežiūros paslaugas vaikams ir jų atstovams pagal įstatymą savivaldybėje, nustato šios pagalbos ir paslaugų poreikį; 
-
-
-
-
-2) inicijuoja ir kartu su savivaldybės administracijos struktūriniais padaliniais, kitomis institucijomis ir organizacijomis rengia koordinuotai teikiamų švietimo pagalbos, socialinių ir sveikatos priežiūros paslaugų plėtros planą, buria specialistų grupę, teikiančią socialinės paramos ir sveikatos priežiūros paslaugas; 
+1) koordinuoja koordinuotai teikiamas švietimo pagalbą, socialines ir sveikatos priežiūros paslaugas vaikams ir jų atstovams pagal įstatymą savivaldybėje, nustato šios pagalbos ir paslaugų poreikį;
 
 
 
 
-3) vykdo koordinuotai teikiamų švietimo pagalbos, socialinių ir sveikatos priežiūros paslaugų prieinamumo ir kokybės stebėseną, vadovaudamasis švietimo ir mokslo ministro kartu su socialinės apsaugos ir darbo ministru ir sveikatos apsaugos ministru nustatytais koordinuotai teikiamų švietimo pagalbos, socialinės paramos, sveikatos priežiūros paslaugų prieinamumo ir kokybės stebėsenos rodikliais ir tvarkos aprašu;
+2) inicijuoja ir kartu su savivaldybės administracijos struktūriniais padaliniais, kitomis institucijomis ir organizacijomis rengia koordinuotai teikiamų švietimo pagalbos, socialinių ir sveikatos priežiūros paslaugų plėtros planą, buria specialistų grupę, teikiančią socialinės paramos ir sveikatos priežiūros paslaugas;
 
 
 
 
-4) informuoja vietos bendruomenę apie vaikų ir jų atstovų pagal įstatymą galimybes gauti švietimo pagalbos, socialines, sveikatos priežiūros paslaugas savivaldybėje;
+3) atlieka koordinuotai teikiamų švietimo pagalbos, socialinių ir sveikatos priežiūros paslaugų prieinamumo ir kokybės stebėseną, vadovaudamasis švietimo, mokslo ir sporto ministro kartu su socialinės apsaugos ir darbo ministru ir sveikatos apsaugos ministru nustatytais koordinuotai teikiamų švietimo pagalbos, socialinės paramos, sveikatos priežiūros paslaugų prieinamumo ir kokybės stebėsenos rodikliais ir tvarkos aprašu;
+
+
+
+
+4) informuoja vietos bendruomenę apie vaikų ir jų atstovų pagal įstatymą galimybes gauti švietimo pagalbą, socialines, sveikatos priežiūros paslaugas savivaldybėje;
 
 
 
@@ -1201,6 +1233,9 @@ Nr. XII-1614, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06359
 7) atlieka kitas teisės aktuose nustatytas funkcijas. 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-484, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15863
+ 
 
 
 
@@ -1385,6 +1420,14 @@ TREČIASIS SKIRSNIS
 2. Valstybė imasi priemonių, kad kiekvienas vaikas Lietuvoje mokytųsi pagal priešmokyklinio, pradinio, pagrindinio, vidurinio ugdymo programas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
+ 
+
+
+
+
+21. Švietimo, mokslo ir sporto ministras ar jo įgaliota institucija kartu su švietimo įstaiga vykdo vaikų įtraukimo į ikimokyklinį ugdymą programas. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
  
 
 
@@ -1656,7 +1699,10 @@ Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 2. Bendrojo ugdymo ir neformaliojo švietimo mokyklos tautinėms mažumoms priklausantiems mokiniams sudaro sąlygas puoselėti tautinį, etninį ir kalbinį identitetą, mokytis gimtosios kalbos, istorijos ir kultūros. Bendrojo ugdymo ir neformaliojo švietimo mokykloje, kurios nuostatuose (įstatuose), atsižvelgiant į tėvų (globėjų, rūpintojų) ir mokinių pageidavimą, įteisintas mokymas tautinės mažumos kalbos arba mokymas tautinės mažumos kalba, ugdymo procesas gali būti vykdomas arba kai kurie dalykai mokomi tautinės mažumos kalba. Šiose mokyklose lietuvių kalbos dalykas yra sudėtinė ugdymo programos dalis ir jos mokymui skiriama ne mažiau laiko kaip gimtosios kalbos mokymui. Tokiose mokyklose:
 
 
-1) Priešmokyklinio ugdymo programoje ne mažiau kaip 4 valandos per savaitę skiriamos ugdymui lietuvių kalba. Ikimokyklinio ugdymo programos dalis tėvų (globėjų, rūpintojų) pageidavimu gali būti vykdoma lietuvių kalba;
+1) ikimokyklinio ugdymo ir priešmokyklinio ugdymo programose ne mažiau kaip po 5 valandas per savaitę skiriama ugdymui lietuvių kalba;
+Straipsnio punkto pakeitimai:
+Nr. XIII-3361, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23809
+ 
 
 
 
@@ -1860,9 +1906,13 @@ Nr. XII-2537, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20659
 36 straipsnis. Vežimas, apgyvendinimas, maitinimas
 
 
-1. Mokiniai į atitinkamą ugdymo programą vykdančią mokyklą, vadovaujantis Lietuvos Respublikos transporto lengvatų įstatymu (toliau – Transporto lengvatų įstatymas), vežami visuomeniniu transportu mokinio pažymėjime nurodytu maršrutu, mokykliniu autobusu arba kitu transportu. Į mokyklą ir atgal privalo būti vežami kaimuose, miesteliuose toliau kaip 3 kilometrai nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendrojo ugdymo programas. Mokinių vežimo mokykliniu autobusu tvarką nustato švietimo ir mokslo ministras. 
+1. Mokiniai į atitinkamą ugdymo programą vykdančią mokyklą, vadovaujantis Lietuvos Respublikos transporto lengvatų įstatymu (toliau – Transporto lengvatų įstatymas), vežami visuomeniniu transportu mokinio pažymėjime nurodytu maršrutu, mokykliniu autobusu arba kitu transportu. Į mokyklą ir atgal privalo būti vežami kaimuose, miesteliuose toliau kaip 3 kilometrai nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendrojo ugdymo programas, ir vaikai, kuriems paskirtas privalomas ikimokyklinis ugdymas. Mokinių vežimo mokykliniu autobusu tvarką nustato švietimo, mokslo ir sporto ministras. 
+1 dalies redakcija nuo 2024-09-01:
+1. Mokiniai į atitinkamą švietimo programą vykdančią mokyklą vežami keleiviniu transportu, mokykliniu autobusu arba kitu transportu. Mokinių važiavimo keleiviniu transportu lengvatas nustato Lietuvos Respublikos transporto lengvatų įstatymas. Siekiant užtikrinti švietimo prieinamumą, į mokyklą ir atgal privalo būti vežami kaimuose, miesteliuose toliau kaip 3 kilometrai nuo mokyklos gyvenantys mokiniai, kurie mokosi pagal priešmokyklinio ir bendrojo ugdymo programas, ir vaikai, kuriems paskirtas privalomas ikimokyklinis ugdymas. Vežimą į mokyklą ir atgal organizuoja valstybinės ir savivaldybės mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas), kitų mokyklų – savininkas (dalyvių susirinkimas) savo nustatyta tvarka. Mokinių vežimo mokykliniu autobusu tvarką nustato švietimo, mokslo ir sporto ministras.
 Straipsnio dalies pakeitimai:
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
+Nr. XIII-3268, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15543
+Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
  
 
 
@@ -1877,6 +1927,10 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 
 3. Studentai, profesinio mokymo įstaigų mokiniai, kurie mokosi pagal pirminio profesinio mokymo programas, ir neformaliojo vaikų švietimo mokyklų mokiniai į mokyklą vežami vietinio (miesto) ir (ar) tolimojo susisiekimo transportu. Kelionės į mokyklą ir atgal lengvatos jiems suteikiamos ir išlaidos kompensuojamos Transporto lengvatų įstatymo nustatyta tvarka ir atvejais.
+TAR pastaba. 3 dalis netenka galios 2024-09-01.
+Straipsnio dalies pakeitimai:
+Nr. XIII-3268, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15543
+ 
 
 
 
@@ -2561,6 +2615,24 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 
 
 
+451 straipsnis. Mokinio pažymėjimas
+
+
+1. Mokinio pažymėjimas yra dokumentas, patvirtinantis mokinio statusą. Mokinio pažymėjimas išduodamas mokiniui, kuris mokosi pagal bendrojo ugdymo, neformaliojo vaikų švietimo arba formaliojo profesinio mokymo programą. 
+
+
+
+
+2. Mokinio pažymėjimo formą ir išdavimo tvarką nustato švietimo, mokslo ir sporto ministras. Mokinio pažymėjimą išduoda mokykla arba kitas švietimo teikėjas.
+
+
+Papildyta straipsniu:
+Nr. XIII-3268, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15543
+ 
+
+
+
+
 46 straipsnis. Mokinio teisės ir pareigos
 
 
@@ -2703,9 +2775,14 @@ Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
 
 
 6) 5 metų sulaukusį vaiką leisti mokytis pagal priešmokyklinio ugdymo programą, o 6 metų sulaukusį vaiką – pagal pradinio ugdymo programą; 
+1 dalies 6 punkto redakcija nuo 2023-01-01 iki 2023-12-31:
+6) leisti vaiką mokytis pagal priešmokyklinio ugdymo programą ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai, arba, jeigu toks vaikas jau yra baigęs priešmokyklinio ugdymo programą, pagal pradinio ugdymo programą; 
+1 dalies 6 punkto redakcija nuo 2024-01-01:
+6) leisti vaiką mokytis pagal priešmokyklinio ugdymo programą ne vėliau, negu vaikui tais kalendoriniais metais sueina 6 metai, o pagal pradinio ugdymo programą – ne vėliau, negu vaikui tais kalendoriniais metais sueina 7 metai;
 Straipsnio punkto pakeitimai:
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
+Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
  
 
 
@@ -2741,8 +2818,13 @@ Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
 
 
 1) vaiką, kuriam tais kalendoriniais metais sueina 6 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais sueina 7 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus; 
+2 dalies 1 punkto redakcija nuo 2023-01-01 iki 2023-12-31:
+1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais sueina 7 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus; 
+1 dalies 6 punkto redakcija nuo 2024-01-01:
+1) vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 5 metai, leisti mokytis pagal priešmokyklinio ugdymo programą, išskyrus šio įstatymo 8 straipsnio 3 dalyje numatytus atvejus, vaiką, kuriam tais kalendoriniais metais iki balandžio 30 dienos yra suėję 6 metai, leisti mokytis pagal pradinio ugdymo programą, išskyrus šio įstatymo 9 straipsnio 3 dalyje numatytus atvejus;
 Straipsnio punkto pakeitimai:
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
+Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
  
 
 
@@ -4170,6 +4252,22 @@ Nr. XII-1614, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06359
 12. Įstaigos, įmonės ir organizacijos gali gauti biudžeto lėšų švietimo, mokslo, kultūros ir sporto programoms, projektams vykdyti.
 
 
+
+
+13. Ugdymo, maitinimo ir pavėžėjimo lėšos socialinę riziką patiriančių vaikų ikimokykliniam ugdymui užtikrinti skiriamos iš valstybės biudžeto lėšų, apskaičiuojant, paskirstant ir naudojant jas pagal Vyriausybės patvirtintus tvarkos aprašus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
+ 
+
+
+
+
+14. Visuotiniam ikimokykliniam ugdymui Vyriausybės nustatyta tvarka skiriamos valstybės biudžeto lėšos visoms ugdymo reikmėms.
+Papildyta straipsnio dalimi:
+Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XII-131, 2012-12-20, Žin., 2012, Nr. 154-7937 (2012-12-29)
 Nr. XII-398, 2013-06-20, Žin., 2013, Nr. 73-3655 (2013-07-09)
@@ -4687,3 +4785,23 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 60 straipsnio pakeitimo įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
 Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 54, 55, 56, 58, 61 ir 66 straipsnių pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3268, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15543
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir 36 straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3361, 2020-11-05, paskelbta TAR 2020-11-12, i. k. 2020-23809
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 30 straipsnio pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 7, 8, 24, 36, 47 ir 67 straipsnių pakeitimo įstatymas
+ 
+29.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-484, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15863
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 14, 21 ir 23 straipsnių pakeitimo įstatymas
