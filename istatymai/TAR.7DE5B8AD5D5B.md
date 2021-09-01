@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.7DE5B8AD5D5B"
 
 # Lietuvos Respublikos augalų veislių apsaugos įstatymas
 
-Suvestinė redakcija nuo 2012-05-08 iki 2021-08-31
+Suvestinė redakcija nuo 2021-09-01
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 104-3701, i. k. 1011010ISTA00IX-618
  
@@ -167,7 +167,9 @@ Nr. XI-1022, 2010-09-21, Žin., 2010, Nr. 118-5995 (2010-10-02), i. k. 1101010IS
 
 
 
-11. Selekcinis užmokestis – ūkininko ar kito žemės naudotojo selekcininkui mokamas užmokestis už savo ūkyje užaugintą ir toliau sėjai savo ūkyje naudojamą saugomos veislės dauginamąją medžiagą.
+11. Selekcinis užmokestis – žemės naudotojo selekcininkui mokamas užmokestis už savo naudojamoje žemėje užaugintą ir toliau sėjai savo reikmėms naudojamą saugomos veislės dauginamąją medžiagą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010ISTA0XI-1994
  
@@ -175,7 +177,9 @@ Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010IST
 
 
 
-12. Valstybės ūkiui svarbi saugoma veislė – veislė, reikalinga tam tikrų savybių turinčios dauginamosios medžiagos tiekimui rinkai užtikrinti.
+12. Neteko galios nuo 2021-09-01
+Straipsnio dalies naikinimas:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010ISTA0XI-1994
  
@@ -339,7 +343,10 @@ PARAIŠKA SUTEIKTI VEISLEI TEISINĘ APSAUGĄ
 9 straipsnis. Paraiškos pateikimas
 
 
-1. Selekcininkas arba jo įgaliotas atstovas (toliau – pareiškėjas), pageidaujantis, kad jo sukurtai ar atrastai ir išskirtai veislei būtų suteikta teisinė apsauga, pateikia Saugomų veislių sąrašo tvarkytojui paraišką suteikti veislei teisinę apsaugą.
+1. Selekcininkas arba jo įgaliotasis atstovas (toliau – pareiškėjas), pageidaujantis, kad jo sukurtai ar atrastai ir išskirtai veislei būtų suteikta teisinė apsauga, pateikia Saugomų veislių sąrašo tvarkytojui paraišką. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
+ 
 
 
 
@@ -349,7 +356,10 @@ PARAIŠKA SUTEIKTI VEISLEI TEISINĘ APSAUGĄ
 
 
 
-3. Dėl kiekvienos veislės pateikiama atskira paraiška. Prašymas suteikti veislei teisinę apsaugą bei kiti su paraiška susiję dokumentai pateikiami lietuvių arba kita Saugomų veislių sąrašo tvarkytojo nustatyta kalba. Šiuo atveju pateikiamas oficialus vertimas į lietuvių kalbą.
+3. Dėl kiekvienos veislės pateikiama atskira paraiška. Paraiška ir kiti su paraiška susiję šio straipsnio 2 dalyje nurodyti dokumentai pateikiami lietuvių kalba. Kai paraišką ir su ja susijusius šio straipsnio 2 dalyje nurodytus dokumentus teikia kitos valstybės selekcininkas ar jo įgaliotasis atstovas, paraiška ir šie dokumentai gali būti pateikiami anglų kalba. Tuo atveju, kai paraiška ir kiti su paraiška susiję šio straipsnio 2 dalyje nurodyti dokumentai pateikiami kita negu lietuvių ar anglų kalba, pateikiamas jų oficialus vertimas į lietuvių kalbą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
+ 
 
 
 
@@ -367,7 +377,9 @@ Nr. XI-1022, 2010-09-21, Žin., 2010, Nr. 118-5995 (2010-10-02), i. k. 1101010IS
 
 
 
-6. Paraiškos pateikimo data laikoma ta diena, kurią Saugomų veislių sąrašo tvarkytojas gavo ir įregistravo šio straipsnio 2 dalyje nurodytus reikalavimus atitinkančią paraišką suteikti veislei teisinę apsaugą.
+6. Paraiškos pateikimo data laikoma diena, kurią Saugomų veislių sąrašo tvarkytojas gavo paraišką. Jeigu pareiškėjas pateikė ne visus Saugomų veislių sąrašo tvarkytojo nustatytus dokumentus ar (ir) nesumokėjo valstybės rinkliavos už paraiškos ekspertizę, Saugomų veislių sąrašo tvarkytojas per 3 darbo dienas nuo paraiškos gavimo dienos praneša pareiškėjui raštu apie nustatytus trūkumus ir nurodo šių trūkumų pašalinimo terminą, kuris negali būti ilgesnis kaip 10 darbo dienų. Šiuo atveju paraiškos pateikimo data laikoma diena, kurią pateikiami visi trūkstami dokumentai ar (ir) sumokama valstybės rinkliava už paraiškos ekspertizę. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
  
 
 
@@ -388,7 +400,10 @@ Nr. XI-1022, 2010-09-21, Žin., 2010, Nr. 118-5995 (2010-10-02), i. k. 1101010IS
 
 
 
-3. Pareiškėjas, norintis pasinaudoti paraiškos pirmenybės teise šio straipsnio 2 dalyje nurodytu atveju, privalo ne vėliau kaip per tris mėnesius nuo paraiškos pateikimo Saugomų veislių sąrašo tvarkytojui dienos pateikti pirmosios paraiškos kopiją, patvirtintą ją priėmusios kompetentingos užsienio valstybės institucijos. Saugomų veislių sąrašo tvarkytojas gali pareikalauti iš pareiškėjo papildomų dokumentų ar kitų įrodymų, patvirtinančių, kad abiejų paraiškų objektas yra ta pati veislė.
+3. Pareiškėjas, norintis pasinaudoti paraiškos pirmenybės teise šio straipsnio 2 dalyje nurodytu atveju, privalo ne vėliau kaip per tris mėnesius nuo paraiškos pateikimo Saugomų veislių sąrašo tvarkytojui dienos pateikti pirmosios paraiškos kopiją, patvirtintą ją priėmusios kompetentingos kitos valstybės institucijos. Saugomų veislių sąrašo tvarkytojas gali pareikalauti iš pareiškėjo papildomų dokumentų ar kitų įrodymų, patvirtinančių, kad abiejų paraiškų objektas yra ta pati veislė. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
+ 
 
 
 
@@ -426,7 +441,10 @@ PARAIŠKOS EKSPERTIZĖ IR VEISLĖS TECHNINIS PATIKRINIMAS
 
 
 
-2. Per vieną mėnesį nustatęs, kad pateikti dokumentai neatitinka nustatytų reikalavimų, Saugomų veislių sąrašo tvarkytojas raštu praneša apie tai pareiškėjui. Pareiškėjui per Saugomų veislių sąrašo tvarkytojo nurodytą terminą ištaisius nustatytus trūkumus, paraiškos pateikimo data laikoma ta diena, kurią Saugomų veislių sąrašo tvarkytojas gavo ir įregistravo paraišką suteikti veislei teisinę apsaugą. Jeigu trūkumai neištaisomi, paraiška laikoma nepaduota ir pareiškėjui apie tai pranešama raštu.
+2. Per vieną mėnesį nustatęs, kad pateikti dokumentai neatitinka nustatytų reikalavimų, Saugomų veislių sąrašo tvarkytojas raštu praneša apie tai pareiškėjui. Pareiškėjui per Saugomų veislių sąrašo tvarkytojo nurodytą terminą, kuris negali būti ilgesnis kaip 10 darbo dienų, ištaisius nustatytus trūkumus, paraiškos pateikimo data laikoma diena, kurią Saugomų veislių sąrašo tvarkytojas gavo reikiamus patikslintus dokumentus. Jeigu trūkumai neištaisyti, paraiška laikoma nepateikta ir pareiškėjui apie tai pranešama raštu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
+ 
 
 
 
@@ -452,7 +470,9 @@ PARAIŠKOS EKSPERTIZĖ IR VEISLĖS TECHNINIS PATIKRINIMAS
 
 
 
-3. Saugomų veislių sąrašo tvarkytojas, nustatęs, kad veislė neatitinka šio straipsnio 2 dalyje nustatytų reikalavimų, apie tai raštu praneša pareiškėjui. Jeigu pareiškėjas nustatytų trūkumų nepašalina, Saugomų veislių sąrašo tvarkytojas priima sprendimą atmesti paraišką ir apie tai raštu praneša pareiškėjui.
+3. Saugomų veislių sąrašo tvarkytojas, nustatęs, kad veislė neatitinka šio straipsnio 2 dalyje nustatytų reikalavimų, apie tai raštu praneša pareiškėjui. Jeigu pareiškėjas per Saugomų veislių sąrašo tvarkytojo nurodytą terminą, kuris negali būti ilgesnis kaip 10 darbo dienų, nustatytų trūkumų nepašalina, Saugomų veislių sąrašo tvarkytojas priima sprendimą atmesti paraišką ir apie tai raštu praneša pareiškėjui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
  
 
 
@@ -468,7 +488,9 @@ PARAIŠKOS EKSPERTIZĖ IR VEISLĖS TECHNINIS PATIKRINIMAS
 
 
 
-2. Veislės techninis patikrinimas Saugomų veislių sąrašo tvarkytojo sprendimu taip pat laikomas atliktu, jeigu veislės išskirtinumas, vienodumas bei stabilumas buvo įvertintas ir pripažintas kitos valstybės kompetentingos institucijos ir pareiškėjas pateikė visus šį faktą patvirtinančius dokumentus bei šios institucijos sutikimą naudotis jos atlikto veislės techninio patikrinimo duomenimis. 
+2. Veislės techninis patikrinimas Saugomų veislių sąrašo tvarkytojo sprendimu taip pat laikomas atliktu, jeigu veislės išskirtinumas, vienodumas bei stabilumas buvo įvertintas ir pripažintas kitos valstybės kompetentingos institucijos ir Saugomų veislių sąrašo tvarkytojas iš veislės išskirtinumo, vienodumo bei stabilumo tyrimus atlikusios kitos valstybės kompetentingos institucijos gavo šį faktą patvirtinančius dokumentus ir oficialų veislės aprašą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
  
 
 
@@ -479,17 +501,17 @@ PARAIŠKOS EKSPERTIZĖ IR VEISLĖS TECHNINIS PATIKRINIMAS
 14 straipsnis. Veislės techninio patikrinimo organizavimas ir rezultatai
 
 
-1. Už veislės techninį patikrinimą yra atsakingas Saugomų veislių sąrašo tvarkytojas. Veislės techninį patikrinimą Saugomų veislių sąrašo tvarkytojas gali atlikti pats arba naudotis šalies ar užsienio valstybių kompetentingų institucijų paslaugomis. 
+1. Veislės techninį patikrinimą organizuoja Saugomų veislių sąrašo tvarkytojas. Saugomų veislių sąrašo tvarkytojas kreipiasi į pareiškėjo paraiškoje nurodytą šalies ar kitos valstybės kompetentingą instituciją dėl veislių išskirtinumo, vienodumo ir stabilumo tyrimų atlikimo, o jei šie tyrimai atlikti, – dėl tyrimų rezultatų gavimo.
 
 
 
 
-2. Už veislės techninį patikrinimą pareiškėjas moka Saugomų veislių sąrašo tvarkytojui arba kompetentingai šalies ar užsienio valstybės institucijai, kuri atliko veislės techninį patikrinimą, pagal jų nustatytus įkainius.
+2. Už veislės techninį patikrinimą pareiškėjas moka šalies ar kitos valstybės kompetentingai institucijai, kuri atliko veislės techninį patikrinimą, pagal jų nustatytus įkainius.
 
 
 
 
-3. Jeigu veislės techninio patikrinimo rezultatai atitinka šio Įstatymo nustatytus išskirtinumo, vienodumo ir stabilumo reikalavimus ir pareiškėjas yra atsiskaitęs už veislės techninį patikrinimą šio straipsnio 2 dalyje nustatyta tvarka, Saugomų veislių sąrašo tvarkytojas atlieka oficialų veislės aprašymą ir paima veislės dauginamosios medžiagos kontrolinį pavyzdį saugoti.
+3. Jeigu veislės techninio patikrinimo rezultatai atitinka šio Įstatymo nustatytus išskirtinumo, vienodumo ir stabilumo reikalavimus ir pareiškėjas yra atsiskaitęs už veislės techninį patikrinimą šio straipsnio 2 dalyje nustatyta tvarka, Saugomų veislių sąrašo tvarkytojas iš veislės techninį patikrinimą atlikusios šalies ar kitos valstybės kompetentingos institucijos gauna oficialų veislės aprašą ir iš pareiškėjo paima veislės dauginamosios medžiagos kontrolinį pavyzdį saugoti.
 
 
 
@@ -499,10 +521,12 @@ PARAIŠKOS EKSPERTIZĖ IR VEISLĖS TECHNINIS PATIKRINIMAS
 
 
 
-5. Dokumentus, susijusius su paraiškos ekspertize ir veislės techniniu patikrinimu, Saugomų veislių sąrašo tvarkytojas saugo visą veislės apsaugos galiojimo laikotarpį.
+5. Dokumentus, susijusius su paraiškos ekspertize ir veislės techniniu patikrinimu, Saugomų veislių sąrašo tvarkytojas saugo visą veislės apsaugos galiojimo laikotarpį. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
  
-
-
 
 
 
@@ -534,7 +558,10 @@ Saugomų veislių sąrašo tvarkytojas oficialiame leidinyje skelbia informacij�
 
 
 
-3) veisles, kurioms suteikta teisinė apsauga, jų selekcininkus ir (ar) selekcininkų įgaliotus atstovus; 
+3) veisles, kurioms suteikta teisinė apsauga, jų pareiškėjus; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
+ 
 
 
 
@@ -544,12 +571,18 @@ Saugomų veislių sąrašo tvarkytojas oficialiame leidinyje skelbia informacij�
 
 
 
-5) selekcininkų ir (ar) jų įgaliotų atstovų pasikeitimus;
+5) pareiškėjų pasikeitimą; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
+ 
 
 
 
 
-6) sprendimus dėl veislės apsaugos pripažinimo negaliojančia, šios apsaugos panaikinimo ar pratęsimo;
+6) sprendimus dėl veislės teisinės apsaugos pripažinimo negaliojančia ar šios apsaugos panaikinimo; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
+ 
 
 
 
@@ -574,7 +607,10 @@ VEISLĖS PAVADINIMO SUTEIKIMAS IR NAUDOJIMAS
 17 straipsnis. Veislės pavadinimas
 
 
-1. Veislei turi būti suteiktas pavadinimas pagal jos gentinę priklausomybę. Pavadinimas nurodomas pareiškėjo teikiamoje paraiškoje.
+1. Veislei turi būti suteiktas pavadinimas pagal jos gentinę priklausomybę. Pavadinimas nurodomas pareiškėjo teikiamoje paraiškoje arba Saugomų veislių sąrašo tvarkytojo nustatytoje siūlomo veislės pavadinimo teikimo formoje. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
+ 
 
 
 
@@ -615,11 +651,12 @@ Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA
 19 straipsnis. Veislės pavadinimo pakeitimas
 
 
-Veislės pavadinimas gali būti pakeistas Saugomų veislių sąrašo tvarkytojo arba teismo sprendimu. 
+Veislės pavadinimas gali būti pakeistas Saugomų veislių sąrašo tvarkytojo sprendimu, jeigu pareiškėjas pateikia Saugomų veislių sąrašo tvarkytojui prašymą pakeisti veislės pavadinimą ir Saugomų veislių sąrašo tvarkytojas nustato, kad veislės pavadinimas atitinka šio Įstatymo 18 straipsnyje nustatytus reikalavimus. 
 
 
 Straipsnio pakeitimai:
 Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
  
 
 
@@ -667,20 +704,17 @@ Jeigu veislė neatitinka šio Įstatymo reikalavimų, Saugomų veislių sąrašo
 22 straipsnis. Veislių teisinės apsaugos galiojimo laikas
 
 
-1. Bulvių, medžių, uogakrūmių ir vynmedžių veislių teisinė apsauga galioja 30 metų, o visų kitų augalų - 25 metus nuo įrašymo į Saugomų veislių sąrašą dienos.
+1. Bulvių, medžių, uogakrūmių ir vynmedžių veislių teisinė apsauga galioja 30 metų, o visų kitų augalų – 25 metus nuo įrašymo į Saugomų veislių sąrašą dienos.
 
 
 
 
-2. Saugomų veislių sąrašo tvarkytojas selekcininko ar jo įgalioto atstovo prašymu turi teisę veislės teisinės apsaugos laikotarpį pratęsti, bet ne ilgiau kaip 5 metams. Teisinės apsaugos laikotarpis pratęsiamas, jeigu Saugomų veislių sąrašo tvarkytojui iki veislės teisinės apsaugos termino pabaigos selekcininkas ar jo įgaliotas atstovas raštu pateikia prašymą pratęsti šį laikotarpį.
+2. Veislės teisinė apsauga nustoja galioti nepasibaigus šiame straipsnyje nustatytiems terminams, jeigu pareiškėjas Saugomų veislių sąrašo tvarkytojui pateikia raštišką prašymą išbraukti veislę iš Saugomų veislių sąrašo. Veislės teisinė apsauga nustoja galioti Saugomų veislių sąrašo tvarkytojui priėmus sprendimą išbraukti veislę iš Saugomų veislių sąrašo. 
 
 
-
-
-3. Veislės teisinė apsauga nustoja galioti nepasibaigus šiame straipsnyje nustatytiems terminams, jeigu selekcininkas pateikia raštišką atsisakymą Saugomų veislių sąrašo tvarkytojui. Veislės teisinės apsaugos pasibaigimo data gali būti nurodyta selekcininko prašyme. Jeigu data nenurodyta, atsisakymas įsigalioja kitą dieną nuo prašymo gavimo dienos.
+Straipsnio pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
  
-
-
 
 
 
@@ -696,7 +730,10 @@ Jeigu veislė neatitinka šio Įstatymo reikalavimų, Saugomų veislių sąrašo
 
 
 
-2) veislei buvo suteikta apsauga vadovaujantis tik selekcininko pateikta informacija, bet veislė apsaugos suteikimo metu iš tikrųjų neatitiko vienodumo ar stabilumo reikalavimų pagal šio Įstatymo 6 ir 7 straipsnių nuostatas;
+2) veislei buvo suteikta apsauga vadovaujantis tik pareiškėjo pateikta informacija, bet veislė apsaugos suteikimo metu neatitiko vienodumo ar stabilumo reikalavimų pagal šio Įstatymo 6 ir 7 straipsnių nuostatas ar patvirtintas veislės pavadinimas neatitinka šio Įstatymo 18 straipsnyje nustatytų reikalavimų; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
+ 
 
 
 
@@ -708,7 +745,9 @@ Jeigu veislė neatitinka šio Įstatymo reikalavimų, Saugomų veislių sąrašo
 
 
 
-2. Saugomų veislių sąrašo tvarkytojas, nustatęs šio straipsnio 1 dalyje nurodytas aplinkybes, priima sprendimą pripažinti veislės apsaugą negaliojančia ir apie tai raštu praneša selekcininkui.
+2. Saugomų veislių sąrašo tvarkytojas, nustatęs šio straipsnio 1 dalyje nurodytas aplinkybes, priima sprendimą pripažinti veislės teisinę apsaugą negaliojančia ir apie tai raštu praneša pareiškėjui. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
  
 
 
@@ -722,9 +761,11 @@ Jeigu veislė neatitinka šio Įstatymo reikalavimų, Saugomų veislių sąrašo
 1. Veislės teisinė apsauga panaikinama, jeigu:
 
 
-1) selekcininkas arba jo įgaliotas atstovas pateikia raštišką prašymą Saugomų veislių sąrašo tvarkytojui išbraukti veislę iš Saugomų veislių sąrašo; 
+1) pareiškėjas Saugomų veislių sąrašo tvarkytojui pateikia raštišką prašymą išbraukti veislę iš Saugomų veislių sąrašo; 
 Papildyta straipsnio punktu:
 Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
+Straipsnio punkto pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
  
 
 
@@ -754,7 +795,9 @@ Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA
 
 
 
-5) selekcininkas nesumokėjo valstybės nustatytos rinkliavos už veislės teisinę apsaugą.
+5) Neteko galios nuo 2021-09-01
+Straipsnio punkto naikinimas:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
 Straipsnio punkto numeracijos pakeitimas:
 Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
  
@@ -782,13 +825,10 @@ Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA
 
 
 
-25 straipsnis. Valstybės rinkliava
-
-
-Už Saugomų veislių sąrašo tvarkytojo teikiamas paslaugas nustatoma ir mokama valstybės rinkliava Rinkliavų įstatymo ir Vyriausybės nustatyta tvarka.
+25 straipsnis. Neteko galios nuo 2021-09-01
+Straipsnio naikinimas:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
  
-
-
 
 
 
@@ -843,9 +883,11 @@ SELEKCININKO TEISĖS IR PAREIGOS
 
 
 
-2. Asmeniui, nesudariusiam licencinės sutarties arba negavusiam selekcininko raštiško sutikimo dėl veislės, kuriai suteikta teisinė apsauga, dauginamosios medžiagos panaudojimo, draudžiama atlikti bet kokius šio straipsnio 1 dalyje nurodytus veiksmus, susijusius su saugomos veislės dauginamąja medžiaga. 
+2. Asmeniui, nesudariusiam licencinės sutarties dėl veislės, kuriai suteikta teisinė apsauga, dauginamosios medžiagos panaudojimo, draudžiama atlikti bet kokius šio straipsnio 1 dalyje nurodytus veiksmus, susijusius su saugomos veislės dauginamąja medžiaga. 
 Papildyta straipsnio dalimi:
 Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA000X-862
+Straipsnio dalies pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
  
 
 
@@ -938,45 +980,47 @@ Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA
 
 
 
-2. Ūkininkai ir kiti žemės naudotojai gali naudoti saugomą veislę be selekcininko sutikimo, kai:
+2. Žemės naudotojai gali naudoti saugomą veislę be selekcininko sutikimo, kai:
 
 
-1) savo ūkyje ar naudojamoje žemėje išaugintos saugomos veislės derliaus dauginamąją medžiagą naudoja savo ūkio reikmėms;
-
-
-
-
-2) moka selekcinį užmokestį selekcininkui. Šio užmokesčio dydis ir mokėjimo tvarka nustatomi selekcininko arba jo įgalioto atstovo ir ūkininko ar kito žemės naudotojo tarpusavio susitarimu. Jei tokio susitarimo nėra, užmokestis turi sudaryti ne mažiau kaip 50 procentų vidutinio licencinio užmokesčio, mokamo Lietuvoje už tos pačios augalų rūšies sertifikuojamos žemiausios kategorijos dauginamąją medžiagą. 
+1) savo naudojamoje žemėje išaugintos saugomos veislės derliaus dauginamąją medžiagą naudoja savo reikmėms;
 
 
 
 
-
-
-3. Šio straipsnio 2 dalies nuostatos taikomos ūkininkams ir kitiems žemės naudotojams tik tais atvejais, jeigu jie:
-
-
-1) augina savame ūkyje ar naudojamoje žemėje šių rūšių augalus: avižas, miežius, rugius, minkštuosius ir kietuosius kviečius, kvietrugius, rapsus, linus (išskyrus pluoštinius), žirnius, pupas, vikius, lubinus, liucernas, bulves;
-
-
-
-
-2) savo ūkyje ar naudojamoje žemėje išaugintos šios dalies 1 punkte minėtų rūšių Lietuvoje saugomos veislės (išskyrus hibridinę ar sintetinę veislę) dauginamąją medžiagą naudoja tolesniam dauginimui savo ūkyje.
+2) moka selekcinį užmokestį selekcininkui. Šio užmokesčio dydis ir mokėjimo tvarka nustatomi pareiškėjo ir žemės naudotojo tarpusavio susitarimu. Jei tokio susitarimo nėra, užmokestis turi sudaryti 50 proc. vidutinio licencinio užmokesčio, mokamo Lietuvoje už tos pačios augalų rūšies sertifikuojamos žemiausios kategorijos dauginamąją medžiagą.
 
 
 
 
 
 
-4. Ūkininkai ir kiti žemės naudotojai gali nemokėti šio straipsnio 2 dalies 2 punkte nurodyto užmokesčio, jeigu jų ūkio ar naudojamos žemės dydis neviršija žemės ūkio ministro nustatyto dydžio.
+3. Šio straipsnio 2 dalies nuostatos taikomos žemės naudotojams tik tais atvejais, kai jie:
+
+
+1) augina savo naudojamoje žemėje šių rūšių augalus: avižas, miežius, rugius, minkštuosius ir kietuosius kviečius, kvietrugius, rapsus, linus (išskyrus pluoštinius), žirnius, pupas, vikius, lubinus, liucernas, bulves;
 
 
 
 
-5. Ūkininkai ir kiti žemės naudotojai, dauginantys saugomų veislių sertifikuotą dauginamąją medžiagą, selekcininkų reikalavimu privalo jiems pateikti duomenis apie saugomos veislės dauginamosios medžiagos naudojimą.
+2) savo naudojamoje žemėje išaugintos šios dalies 1 punkte nurodytų rūšių Lietuvoje saugomos veislės (išskyrus hibridinę ar sintetinę veislę) dauginamąją medžiagą naudoja tolesniam dauginimui savo naudojamoje žemėje.
+
+
+
+
+
+
+4. Žemės naudotojai gali nemokėti šio straipsnio 2 dalies 2 punkte nurodyto užmokesčio, jeigu jų naudojamos žemės plotas neviršija žemės ūkio ministro nustatyto dydžio.
+
+
+
+
+5. Žemės naudotojai, dauginantys saugomų veislių dauginamąją medžiagą, pareiškėjų reikalavimu privalo jiems pateikti duomenis apie saugomos veislės dauginamosios medžiagos naudojimą. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
  
-
-
 
 
 
@@ -1052,7 +1096,9 @@ LICENCINĖS SUTARTYS
 
 
 
-3. Saugomos veislės selekcininkas, sudaręs licencinę sutartį, turi ją pateikti registruoti Saugomų veislių sąrašo tvarkytojui. 
+3. Šio Įstatymo 34 straipsnyje nurodyti licencinės sutarties duomenys įrašomi Licencinių sutarčių registravimo žurnale Saugomų veislių sąrašo tvarkytojo nustatyta tvarka. Prieš trečiuosius asmenis licencinė sutartis gali būti panaudota ir jiems sukelia teisines pasekmes tik tuo atveju, kai jos duomenys įrašyti į Licencinių sutarčių registravimo žurnalą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
  
 
 
@@ -1147,43 +1193,10 @@ Licencinė sutartis turi būti sudaryta raštu. Joje nurodoma:
 
 
 
-35 straipsnis. Priverstinė licencinė sutartis
-
-
-1. Priverstinė licencinė sutartis gali būti sudaroma, jeigu valstybėje trūksta valstybės ūkiui svarbios saugomos veislės dauginamosios medžiagos arba selekcininkas per 3 metus nuo valstybės ūkiui svarbios veislės įrašymo į Saugomų veislių sąrašą jos nedaugina. Fizinis ar juridinis asmuo, norintis sudaryti priverstinę licencinę sutartį, gali kreiptis į Saugomų veislių sąrašo tvarkytoją.
-
-
-
-
-2. Priverstinė licencinė sutartis sudaroma ir nutraukiama Saugomų veislių sąrašo tvarkytojo sprendimu.
-
-
-
-
-3. Licencinis užmokestis už veislės naudojimą pagal priverstinę licencinę sutartį nustatomas Saugomų veislių sąrašo tvarkytojo sprendimu ir prilyginamas vidutiniam tos augalų rūšies dauginamosios medžiagos licenciniam užmokesčiui Lietuvoje.
-
-
-
-
-4. Selekcininkas privalo parduoti licenciatui veislei padauginti būtiną pradinę dauginamąją medžiagą už tokią kainą, kuri vidutiniškai mokama už kitų tos augalo rūšies veislių dauginamąją medžiagą.
-
-
-
-
-5. Priverstinė licencinė sutartis gali būti sudaroma ne ilgesniam kaip 4 metų laikotarpiui. Selekcininkas gali kreiptis į Saugomų veislių sąrašo tvarkytoją su prašymu sutrumpinti priverstinės licencinės sutarties terminą arba sutartį nutraukti, jeigu nelieka priežasčių, dėl kurių ji buvo sudaryta, arba jeigu licenciatas nesilaiko licencinėje sutartyje nustatytų sąlygų.
-
-
-
-
-6. Priverstinės licencinės sutarties sudarymas neapriboja šio Įstatymo nustatytų selekcininko teisių.
-
-
-
-
-7. Ginčus, kylančius dėl priverstinės licencinės sutarties sudarymo ir nutraukimo, sprendžia teismas.
+35 straipsnis. Neteko galios nuo 2021-09-01
+Straipsnio naikinimas:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
  
-
-
 
 
 
@@ -1240,18 +1253,20 @@ Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. 1061010ISTA
 
 
 
-38 straipsnis. Sprendimų priėmimo, apskundimo ir skundų nagrinėjimo tvarka
+38 straipsnis. Paraiškų ekspertizių, sprendimų priėmimo, apskundimo ir skundų nagrinėjimo tvarka
 
 
-1. Saugomų veislių sąrašo tvarkytojo sprendimų apskundimo terminai ir tvarka, taip pat nustatytų paraiškos trūkumų pašalinimo, sprendimų priėmimo ir pranešimo apie priimtus sprendimus, gautų bei atsiimtų skundų pateikimo terminai nustatomi Saugomų veislių sąrašo nuostatuose.
+1. Paraiškos ekspertizės, veislės pavadinimo patvirtinimo ir keitimo, veislės teisinės apsaugos suteikimo, pripažinimo negaliojančia ir panaikinimo procedūros, Saugomų veislių sąrašo tvarkytojo sprendimų priėmimo tvarka ir terminai, pranešimų apie priimtus sprendimus pateikimo terminai ir sprendimų apskundimo terminai ir tvarka nustatomi Saugomų veislių sąrašo nuostatuose. Šiuos nuostatus tvirtina Saugomų veislių sąrašo tvarkytojas. 
 
 
 
 
-2. Saugomų veislių sąrašo tvarkytojo sprendimai skundžiami Apeliacinei tarybai, o Apeliacinės tarybos sprendimai – teismui.
+2. Saugomų veislių sąrašo tvarkytojo sprendimai skundžiami Apeliacinei tarybai, o Apeliacinės tarybos sprendimai – teismui. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
  
-
-
 
 
 
@@ -1297,7 +1312,9 @@ SELEKCININKO TEISIŲ GYNIMO BUDAI IR ATSAKOMYBĖ UŽ AUGALŲ VEISLIŲ APSAUGOS �
 41 straipsnis. Teisių gynimo būdai
 
 
-1. Selekcininkai ar jų įgalioti atstovai, gindami savo teises, taip pat licenciatai, gindami jiems suteiktas teises, įstatymų nustatyta tvarka turi teisę kreiptis į teismą ir reikalauti:
+1. Pareiškėjai, gindami savo teises, taip pat licenciatai, gindami jiems suteiktas teises, įstatymų nustatyta tvarka turi teisę kreiptis į teismą ir reikalauti: 
+Straipsnio dalies pakeitimai:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
 
 
 1) pripažinti teises;
@@ -1506,23 +1523,10 @@ Sprendimą dėl šio Įstatymo nustatytų teisių pažeidimo priimantis teismas 
 
 
 
-417 straipsnis. Augalų veislių teisinės apsaugos pažeidimo fakto nebuvimo nustatymas
-
-
-Suinteresuotas asmuo turi teisę pareikšti ieškinį, prašydamas teismo nustatyti, kad jo veikla nepažeidžia augalų veislių teisinės apsaugos nuostatų.
-
-
-
-
-Suinteresuotam asmeniui įrodžius, kad jo veikla nepažeidžia augalų veislių teisinės apsaugos nuostatų, teismas sprendimu nustato augalų veislių teisinės apsaugos pažeidimo nebuvimo faktą.
-
-
-
-
-Selekcininkai ar jų įgalioti atstovai apie iškeltą bylą dėl augalų veislių teisinės apsaugos pažeidimo nebuvimo fakto nustatymo privalo informuoti visus licenciatus. Jeigu licencinėje sutartyje nenumatyta kitaip, licenciatai turi teisę dalyvauti nagrinėjant šią bylą.
+417 straipsnis. Neteko galios nuo 2021-09-01
+Straipsnio naikinimas:
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
  
-
-
 
 
 
@@ -1602,7 +1606,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
  
 
 
@@ -1638,3 +1642,8 @@ Lietuvos Respublikos augalų veislių apsaugos įstatymo 2 ir 9 straipsnių pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. 1121010ISTA0XI-1994
 Lietuvos Respublikos augalų veislių apsaugos įstatymo 1 ir 2 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
+Lietuvos Respublikos augalų veislių apsaugos įstatymo Nr. IX-618 2, 9, 10, 11, 12, 13, 14, 16, 17, 19, 22, 23, 24, 26, 28, 32, 38, 41 straipsnių pakeitimo ir 25, 35, 41-7 straipsnių pripažinimo netekusiais galios įstatymas
