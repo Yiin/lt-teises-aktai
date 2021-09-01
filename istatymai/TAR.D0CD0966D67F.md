@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2021-07-15 iki 2021-08-31
+Suvestinė redakcija nuo 2021-09-01 iki 2021-10-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -871,9 +871,11 @@ Nr. XIII-602, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12175
 
 
 
-39) koordinuotai teikiamų paslaugų vaikams nuo gimimo iki 18 metų (turintiems didelių ir labai didelių specialiųjų ugdymosi poreikių – iki 21 metų) ir vaiko atstovams pagal įstatymą koordinavimas; 
+39) koordinuotai teikiamų paslaugų vaikams nuo gimimo iki 18 metų (turintiems didelių ir labai didelių specialiųjų ugdymosi poreikių – iki mokslo metų, kuriais jiems sueina 21 metai, pabaigos, o tiems, kurie dėl ligos mokėsi su pertraukomis ir pateikė tokių pertraukų priežastį pagrindžiančius dokumentus, – iki mokslo metų, kuriais jiems sueina 23 metai, pabaigos) ir vaiko atstovams pagal įstatymą koordinavimas;
 Papildyta straipsnio punktu:
 Nr. XIII-3293, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20887
+Straipsnio punkto pakeitimai:
+Nr. XIV-487, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15868
  
 
 
@@ -5936,3 +5938,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 19, 27 ir 51 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-482, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15862
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 29 straipsnio pakeitimo įstatymas
+ 
+57.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-487, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15868
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 7 straipsnio pakeitimo įstatymas
