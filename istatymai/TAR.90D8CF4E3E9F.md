@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.90D8CF4E3E9F"
 
 # Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymas
 
-Suvestinė redakcija nuo 2021-06-30 iki 2021-08-31
+Suvestinė redakcija nuo 2021-09-01 iki 2023-03-31
  
 Įstatymas paskelbtas: Žin. 2007, Nr. 80-3214, i. k. 1071010ISTA00X-1238
  
@@ -59,7 +59,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Koordinuotai teikiamos paslaugos – kompleksinės pagalbos teikimas vaikui nuo gimimo iki 18 metų (turintiems didelių ir labai didelių specialiųjų ugdymosi poreikių – iki 21 metų) ir vaiko atstovams pagal įstatymą, siekiant sudaryti palankias sąlygas vaiko ir šeimos gerovei.
+2. Koordinuotai teikiamos paslaugos – kompleksinės pagalbos teikimas vaikui nuo gimimo iki 18 metų (turintiems didelių ir labai didelių specialiųjų ugdymosi poreikių – iki mokslo metų, kuriais jiems sueina 21 metai, pabaigos, o tiems, kurie dėl ligos mokėsi su pertraukomis ir pateikė tokių pertraukų priežastį pagrindžiančius dokumentus, – iki mokslo metų, kuriais jiems sueina 23 metai, pabaigos) ir vaiko atstovams pagal įstatymą, siekiant sudaryti palankias sąlygas vaiko ir šeimos gerovei.
+Straipsnio dalies pakeitimai:
+Nr. XIV-486, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15867
+ 
 
 
 
@@ -1946,7 +1949,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
 
 
  
@@ -1993,3 +1996,8 @@ Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-416, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14573
 Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 12 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-486, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15867
+Lietuvos Respublikos vaiko minimalios ir vidutinės priežiūros įstatymo Nr. X-1238 2 straipsnio pakeitimo įstatymas
