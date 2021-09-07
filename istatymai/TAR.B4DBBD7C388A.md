@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.B4DBBD7C388A"
 
 # Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymas
 
-Suvestinė redakcija nuo 2010-01-05 iki 2021-09-06
+Suvestinė redakcija nuo 2021-09-07 iki 2023-04-30
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 89-1985, i. k. 0951010ISTA00I-1057
  
@@ -140,6 +140,10 @@ Kitos (netradicinės) religinės bendrijos gali būti valstybės pripažintos ka
 
 
 Valstybės pripažinimą suteikia Lietuvos Respublikos Seimas. Religinės bendrijos gali kreiptis dėl valstybės pripažinimo praėjus ne mažiau kaip 25 metams nuo pirminio jų įregistravimo Lietuvoje. Jeigu prašymas nepatenkinamas, pakartotinai galima dėl to kreiptis praėjus 10 metų nuo prašymo nepatenkinimo dienos.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo (Žin., 1995, Nr. 89-1985) 6 straipsnio 2 dalies nuostata „jeigu prašymas nepatenkinamas, pakartotinai galima dėl to kreiptis praėjus 10  metų nuo prašymo nepatenkinimo dienos“ prieštarauja Lietuvos Respublikos Konstitucijos 26 straipsnio 1 daliai, 43 straipsnio 1 daliai.
+Straipsnio dalies pakeitimai:
+Nr. KT140-N11/2021, 2021-09-07, paskelbta TAR 2021-09-07, i. k. 2021-18922
+ 
 
 
 
@@ -565,7 +569,7 @@ Nutraukus religinės bendruomenės, bendrijos ar centro veiklą, likęs turtas p
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
-RESPUBLIKOS PREZIDENTAS                                                       ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                         ALGIRDAS BRAZAUSKAS
 
 
  
@@ -591,3 +595,8 @@ Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 16 straipsn
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. 1091010ISTA00XI-601
 Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 11 straipsnio pakeitimo ir papildymo įstatymas
+ 
+5.
+Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
+Nr. KT140-N11/2021, 2021-09-07, paskelbta TAR 2021-09-07, i. k. 2021-18922
+Dėl Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 6 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai
