@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-09-17
+Suvestinė redakcija nuo 2021-09-18 iki 2022-07-31
  
 Įstatymas paskelbtas: Lietuvos aidas 1991, Nr. 215-0; Žin. 1991, Nr.30-804, i. k. 0911010ISTA00I-1863
  
@@ -156,7 +156,10 @@ Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 
 
 
-18. Viešoji transporto infrastruktūra – transporto infrastruktūra, nuosavybės teise priklausanti valstybei ar savivaldybėms ir skirta keleiviams, bagažui ir (arba) kroviniams vežti.
+18. Viešoji transporto infrastruktūra – transporto infrastruktūra, kuri skirta keleiviams, bagažui ir (arba) kroviniams vežti ir kurią sudaro viešoji geležinkelių infrastruktūra, Lietuvos valstybei nuosavybės teise priklausantys geležinkelių paslaugų įrenginiai, valstybinės reikšmės ir vietinės reikšmės viešieji keliai, tarptautinių oro uostų infrastruktūra, skrydžių valdymo sistemos įrenginiai, vidaus vandenų transporto infrastruktūra, jūrų uostų infrastruktūra. Konkretūs viešosios transporto infrastruktūros objektai nurodyti specialiuosiuose transporto rūšių įstatymuose.
+Straipsnio dalies pakeitimai:
+Nr. XIV-524, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19617
+ 
 
 
 
@@ -251,7 +254,10 @@ Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 
 
 
-4) nustato privalomus reikalavimus transporto veiklai vykdyti valstybės įmonėms, valstybės institucijoms bei asociacijoms, transporto infrastruktūros objektų valdytojams, transporto infrastruktūros objektų naudotojams;
+4) nustato privalomus reikalavimus transporto veiklai vykdyti valstybės institucijoms, asociacijoms, transporto infrastruktūros objektų valdytojams, transporto infrastruktūros objektų naudotojams;
+Straipsnio punkto pakeitimai:
+Nr. XIV-524, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19617
+ 
 
 
 
@@ -304,23 +310,35 @@ Nr. XIII-1856, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00092
 
 
 
-2. Viešojo naudojimo geležinkeliai, valstybinės reikšmės keliai, tarptautinių oro uostų infrastruktūra, skrydžių valdymo sistemos įrenginiai, valstybinės reikšmės vidaus vandenų keliai, valstybinių jūrų uostų infrastruktūra yra Lietuvos valstybės nuosavybė.
+2. Lietuvos valstybei išimtine nuosavybės teise priklauso valstybinės reikšmės vidaus vandenų keliai, viešoji geležinkelių infrastruktūra, Lietuvos valstybei nuosavybės teise priklausantys geležinkelių paslaugų įrenginiai, valstybinės reikšmės keliai ir šiems objektams priskirta žemė.
 
 
 
 
-3. Viešosios transporto infrastruktūros objektais negali būti užtikrinami trečiųjų asmenų įsipareigojimai. Į juos negali būti nukreipti išieškojimai pagal kreditorių reikalavimus.
+3. Viešosios transporto infrastruktūros objektai, išskyrus nurodytus šio straipsnio 2 dalyje, nuosavybės teise gali priklausyti Lietuvos valstybei, savivaldybei, uždarajai akcinei bendrovei ar akcinei bendrovei, kurių visos akcijos nuosavybės teise priklauso valstybei ar savivaldybei (toliau – valstybės ar savivaldybės valdoma bendrovė), ir uždarajai akcinei bendrovei ar akcinei bendrovei, kurių visos akcijos nuosavybės teise priklauso valstybės ar savivaldybės valdomai bendrovei. Kai viešosios transporto infrastruktūros objektai nuosavybės teise priklauso valstybės ar savivaldybės valdomai bendrovei, uždarajai akcinei bendrovei ar akcinei bendrovei, kurių visos akcijos nuosavybės teise priklauso valstybės ar savivaldybės valdomai bendrovei, šių bendrovių visos akcijos gali nuosavybės teise priklausyti tik valstybei, savivaldybei ar valstybės ar savivaldybės valdomai bendrovei.
 
 
 
 
-4. Viešosios transporto infrastruktūros objektus, žemę, akvatoriją (vandens plotus), kitą priskirtą ar sukurtą turtą viešosios transporto infrastruktūros valdytojas valdo, naudoja bei disponuoja turto patikėjimo teisėmis vadovaudamasis šiuo ir kitais įstatymais, administraciniu aktu ar sutartimi.
+4. Viešosios transporto infrastruktūros objektai, žemė, akvatorija (vandens plotai), kitas priskirtas ar sukurtas turtas yra valdomi nuosavybės teise arba valdomi, naudojami ir disponuojama jais turto patikėjimo teise vadovaujantis šiuo ir kitais įstatymais.
+
+
+
+
+5. Viešosios transporto infrastruktūros objektais negali būti užtikrinamas kitų nei juos nuosavybės ar patikėjimo teise valdančių asmenų prievolių įvykdymas. Viešosios transporto infrastruktūros objektus, kurie pagal Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymą pripažįstami nacionaliniam saugumui užtikrinti svarbiais įrenginiais ir turtu, nuosavybės ar patikėjimo teise valdančių asmenų prievolės šiais objektais gali būti užtikrinamos tik gavus Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos koordinavimo komisijos leidimą. Į viešosios transporto infrastruktūros objektus negali būti nukreipti išieškojimai pagal kreditorių reikalavimus.
+
+
+
+
+6. Privačios transporto infrastruktūros savininkas yra fizinis ar juridinis asmuo.
 
 
 Straipsnio pakeitimai:
 Nr. IX-1866, 2003-12-02, Žin., 2003, Nr. 119-5403 (2003-12-18)
 Nr. IX-2196, 2004-04-29, Žin., 2004, Nr. 73-2530 (2004-04-30)
 Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
+Straipsnio pakeitimai:
+Nr. XIV-524, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19617
  
 
 
@@ -371,7 +389,10 @@ Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 
 
 
-3. Lėšos, gautos už naudojimąsi viešąja transporto infrastruktūra, naudojamos tik šios infrastruktūros funkcionavimui užtikrinti ir šio Įstatymo 15 straipsnio 2 dalyje numatytoms programoms finansuoti. Šis reikalavimas netaikomas tais atvejais, kai viešojo transporto infrastruktūros valdymas perduodamas investuotojui teisės aktų nustatyta tvarka pagal koncesijos ar valdžios ir privataus subjektų partnerystės sutartį, kurioje nustatoma pareiga investuotojui užtikrinti tinkamą perduotos viešosios transporto infrastruktūros priežiūrą.
+3. Lėšos, gautos už naudojimąsi viešąja transporto infrastruktūra, naudojamos tik šios infrastruktūros funkcionavimui užtikrinti ir šio Įstatymo 15 straipsnio 2 dalyje numatytoms programoms finansuoti. Šis reikalavimas netaikomas tais atvejais, kai viešosios transporto infrastruktūros savininkė yra valstybės ar savivaldybės valdoma bendrovė arba uždaroji akcinė bendrovė ar akcinė bendrovė, kurių visos akcijos nuosavybės teise priklauso valstybės ar savivaldybės valdomai bendrovei, arba kai viešosios transporto infrastruktūros valdymas perduodamas investuotojui teisės aktų nustatyta tvarka pagal koncesijos ar valdžios ir privataus subjektų partnerystės sutartį, kurioje nustatoma pareiga investuotojui užtikrinti tinkamą perduotos viešosios transporto infrastruktūros priežiūrą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-524, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19617
+ 
 
 
 Straipsnio pakeitimai:
@@ -544,20 +565,12 @@ VIEŠOJO NAUDOJIMO INFRASTRUKTŪROS VALDYMAS IR PLĖTRA
 
 
 
-2. Viešosios transporto infrastruktūros savininkas yra valstybė ir savivaldybės.
+2. Lietuvos valstybei išimtine nuosavybės teise arba savivaldybei nuosavybės teise priklausančios viešosios transporto infrastruktūros valdytoją skiria Vyriausybė arba savivaldybės institucija. Valdytojui parinkti skelbiamas konkursas arba viešajai transporto infrastruktūrai valdyti steigiama įmonė.
 
 
-
-
-3. Privačios transporto infrastruktūros savininkas yra fizinis ar juridinis asmuo.
-
-
-
-
-4. Viešosios transporto infrastruktūros valdytoją skiria Vyriausybė ar jos įgaliota institucija arba savivaldybės institucija. Valdytojui parinkti skelbiamas konkursas arba viešajai transporto infrastruktūrai valdyti steigiama įmonė.  
+Straipsnio pakeitimai:
+Nr. XIV-524, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19617
  
-
-
 
 
 
@@ -580,7 +593,10 @@ VIEŠOJO NAUDOJIMO INFRASTRUKTŪROS VALDYMAS IR PLĖTRA
 
 
 
-2. Lėšas, gautas už naudojimąsi viešąja transporto infrastruktūra (jūrų uostų rinkliavas, taip pat rinkliavas už oro navigacijos paslaugas ir naudojimąsi oro uostais, geležinkelių infrastruktūra, pajamas, gautas už jūrų uostų žemės nuomą, kelių priežiūros ir plėtros programos lėšas), viešosios transporto infrastruktūros valdytojas naudoja pagal viešosios transporto infrastruktūros savininko ar jo įgaliotos institucijos patvirtintą pajamų ir išlaidų sąmatą bei patvirtintas programas šio straipsnio 1 dalyje numatytiems tikslams, išskyrus atvejus, kai viešosios transporto infrastruktūros valdymas perduodamas investuotojui, kaip tai numatyta šio Įstatymo 9 straipsnio 3 dalyje.
+2. Lėšas, gautas už naudojimąsi viešąja transporto infrastruktūra, viešosios transporto infrastruktūros valdytojas naudoja pagal viešosios transporto infrastruktūros savininko ar jo įgaliotos institucijos patvirtintą pajamų ir išlaidų sąmatą bei patvirtintas programas šio straipsnio 1 dalyje numatytiems tikslams, išskyrus atvejus, kai viešosios transporto infrastruktūros savininkė yra valstybės ar savivaldybės valdoma bendrovė arba uždaroji akcinė bendrovė ar akcinė bendrovė, kurių visos akcijos nuosavybės teise priklauso valstybės ar savivaldybės valdomai bendrovei, arba kai viešosios transporto infrastruktūros valdymas perduodamas investuotojui, kaip tai numatyta šio Įstatymo 9 straipsnio 3 dalyje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-524, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19617
+ 
 
 
 Straipsnio pakeitimai:
@@ -649,14 +665,15 @@ Viešosios transporto infrastruktūros valdytojo veiklą kontroliuoja valstybės
 
 
 
-18 straipsnis. Viešosios transporto infrastruktūros valdytojo santykiai su transporto 
-infrastruktūros savininku
+18 straipsnis. Viešosios transporto infrastruktūros valdytojo santykiai su transporto infrastruktūros savininku
 
 
-Viešosios transporto infrastruktūros savininko ir valdytojo tarpusavio santykius nustato turto patikėjimo sutartis.
+Kai viešoji transporto infrastruktūra priklauso Lietuvos valstybei išimtine nuosavybės teise arba savivaldybei nuosavybės teise, viešosios transporto infrastruktūros savininko ir valdytojo tarpusavio santykiai nustatomi turto patikėjimo sutartyje, jeigu kiti įstatymai nenustato kitaip.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-524, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19617
  
-
-
 
 
 
@@ -1068,7 +1085,7 @@ Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
  
 LIETUVOS RESPUBLIKOS 
 AUKŠČIAUSIOSIOS TARYBOS
-PIRMININKO PAVADUOTOJAS                                                       KAZIMIERAS MOTIEKA
+PIRMININKO PAVADUOTOJAS                                                        KAZIMIERAS MOTIEKA
  
 Vilnius, 1991 m. spalio 8 d. 
 Nr. I-1863
@@ -1079,7 +1096,8 @@ Nr. I-1863
 
 
 
- 
+ 
+
 Lietuvos Respublikos 
 transporto veiklos pagrindų įstatymo
 1 priedas
@@ -1204,11 +1222,11 @@ TAR pastaba. 1 priedo 2.7 papunktyje nurodyti duomenys Lietuvos policijos genera
 Papildyta priedu:
 Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
  
+part_30053e31fbd245c58a2e81958887a142_end
 
 
+ 
 
-
- 
  
  
 Lietuvos Respublikos 
@@ -1246,13 +1264,13 @@ KOMPETENTINGŲ VALDŽIOS INSTITUCIJŲ SĄRAŠAS
 Papildyta priedu:
 Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
  
-
-
-
+part_b9fac7e9277140999bd85bd258f17a5f_end
 
  
  
- 
+
+ 
+
 Lietuvos Respublikos 
 transporto veiklos pagrindų įstatymo
 3 priedas
@@ -1288,8 +1306,7 @@ Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
 Priedo pakeitimai:
 Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
  
-
-
+part_b0e4d92ac981457d9d764ef1f2c00d0e_end
 
 
  
@@ -1389,3 +1406,8 @@ Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 19-1 stra
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-330, 2021-05-20, paskelbta TAR 2021-06-01, i. k. 2021-12501
 Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 19-1 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-524, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19617
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 2, 4, 6, 9, 14, 15 ir 18 straipsnių pakeitimo įstatymas
