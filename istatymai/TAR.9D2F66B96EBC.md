@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2021-08-01 iki 2021-09-17
+Suvestinė redakcija nuo 2021-09-18 iki 2021-09-30
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -693,10 +693,12 @@ TAR pastaba. 10 straipsnio 11 dalyje nustatytos procedūros vykdomos vadovaujant
 11 straipsnis. Civilinės aviacijos objektų nuosavybė
 
 
-Skrydžių valdymo sistemos įrenginiai ir tarptautinių oro uostų infrastruktūra yra valstybės nuosavybė. 
+Skrydžių valdymo sistemos įrenginiai, skirti oro navigacijos paslaugoms teikti, ir tarptautinių oro uostų infrastruktūra, išskyrus žemę, nuosavybės teise gali priklausyti valstybei, uždarajai akcinei bendrovei ar akcinei bendrovei, kurių visos akcijos nuosavybės teise priklauso valstybei (toliau – valstybės valdoma bendrovė), arba uždarajai akcinei bendrovei ar akcinei bendrovei, kurių visos akcijos nuosavybės teise priklauso valstybės valdomai bendrovei.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-525, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19618
  
-
-
 
 
 
@@ -2779,3 +2781,8 @@ Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 3, 6, 21, 24 straipsnių 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 5, 6, 8, 12, 16, 24, 28, 33, 35, 41, 45, 46, 47, 49, 52 straipsnių ir 3 priedo pakeitimo ir Įstatymo papildymo 41-1 straipsniu ir III skyriaus dešimtuoju skirsniu įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-525, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19618
+Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 11 ir 33 straipsnių pakeitimo įstatymas
