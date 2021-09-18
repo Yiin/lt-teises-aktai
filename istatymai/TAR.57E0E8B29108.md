@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-09-17
+Suvestinė redakcija nuo 2021-09-18 iki 2021-11-30
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
  
@@ -1461,7 +1461,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                               VALDAS ADAMKUS
  
  
 
@@ -1489,7 +1489,10 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
 
 
-2. Įmonė, patikėjimo teise valdanti Klaipėdos valstybinį jūrų uostą (uosto žemę, akvatoriją, krantines, hidrotechninius įrenginius, navigacijos kelius, kanalus ir kitus infrastruktūros objektus).
+2. Įmonė, valdanti Klaipėdos valstybinį jūrų uostą.
+Punkto pakeitimai:
+Nr. XIV-529, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19624
+ 
 
 
 
@@ -1507,12 +1510,18 @@ Nr. XIII-1453, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11765
 
 
 
-5. Įmonė, patikėjimo teise valdanti valstybinės reikšmės vidaus vandenų kelius.
+5. Įmonė, tvarkanti, prižiūrinti ir eksploatuojanti valstybinės reikšmės vidaus vandenų kelius.
+Punkto pakeitimai:
+Nr. XIV-529, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19624
+ 
 
 
 
 
-6. Įmonė, patikėjimo teise valdanti tarptautinius Vilniaus, Kauno ir Palangos oro uostus.
+6. Įmonė, valdanti tarptautinius Vilniaus, Kauno ir Palangos oro uostus.
+Punkto pakeitimai:
+Nr. XIV-529, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19624
+ 
 
 
 
@@ -1823,9 +1832,17 @@ Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
 
 
 
-i) Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklas.
+i) Lietuvos viešojo saugumo ir pagalbos tarnybų skaitmeninio mobiliojo radijo ryšio tinklas;
 Papildyta papunkčiu:
 Nr. XIII-3257, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15772
+ 
+
+
+
+
+j) valstybinės reikšmės vidaus vandens keliuose esančios apsauginės dambos, bunos, laivų šliuzai.
+Papildyta papunkčiu:
+Nr. XIV-529, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19624
  
 
 
@@ -2057,3 +2074,8 @@ Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaug
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-347, 2021-05-25, paskelbta TAR 2021-06-01, i. k. 2021-12503
 Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 19 straipsnio pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas
+ 
+25.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-529, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19624
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 1 ir 4 priedų pakeitimo įstatymas
