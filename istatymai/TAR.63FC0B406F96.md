@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/63fc0b406f9611e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos nacionalinės plėtros įstaigų įstatymas
 
-Suvestinė redakcija nuo 2020-06-20 iki 2021-09-29
+Suvestinė redakcija nuo 2021-09-30 iki 2021-09-30
  
 Įstatymas paskelbtas: TAR 2018-06-14, i. k. 2018-09936
  
@@ -44,9 +44,15 @@ BENDROSIOS NUOSTATOS
 
 1. Finansų tarpininkas – juridinis asmuo, atrinktas konkrečiai skatinamajai finansinei priemonei įgyvendinti.
 
-2. Fondų fondas – fondas skatinamajai finansinei priemonei, pasitelkiant finansų tarpininką (tarpininkus), ir (ar) kelioms skatinamosioms finansinėms priemonėms įgyvendinti.
+2. Fondų fondas – fondas skatinamajai finansinei priemonei, pasitelkiant finansų tarpininką (tarpininkus), ir (ar) kelioms skatinamosioms finansinėms priemonėms įgyvendinti, taip pat dotacijoms ir (ar) subsidijoms, kuriomis prisidedama prie nacionalinės plėtros įstaigos (toliau – NPĮ) įgyvendinamų skatinamųjų finansinių priemonių, teikti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-538, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20297
+ 
 
-3. Nacionalinė plėtros įstaiga (toliau – NPĮ) – finansų įstaiga, kuriai šiame įstatyme nustatyta tvarka suteikta teisė vykdyti skatinamojo finansavimo veiklą.
+3. Nacionalinė plėtros įstaiga – finansų įstaiga, kuriai šiame įstatyme nustatyta tvarka suteikta teisė vykdyti skatinamojo finansavimo veiklą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-538, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20297
+ 
 
 4. Priežiūros institucija – Lietuvos bankas, šio ir kitų įstatymų nustatyta tvarka atliekantis NPĮ, įrašytų į Nacionalinių plėtros įstaigų sąrašą, priežiūrą.
 
@@ -112,15 +118,15 @@ NPĮ TIKSLAI, UŽDAVINIAI, FUNKCIJOS
 4) skatinti valstybės ekonominę, socialinę ir regionų plėtrą.
  
 
-6 straipsnis. NPĮ funkcijos 
+6 straipsnis. NPĮ funkcijos
 
 1. NPĮ atlieka šias funkcijas:
 
-1) įgyvendina skatinamąsias finansines priemones (garantijas, kurios prilyginamos valstybės garantijai, teikia tik tuo atveju, jeigu NPĮ yra valstybės garantuojama garantijų institucija, kuri suprantama taip, kaip ji apibrėžta Lietuvos Respublikos valstybės skolos įstatyme) ir (ar) dalyvauja jas įgyvendinant veikdama kaip fondų fondo valdytoja;
+1) įgyvendina skatinamąsias finansines priemones (garantijas, kurios prilyginamos valstybės garantijai, teikia tik tuo atveju, jeigu NPĮ yra valstybės garantuojama garantijų institucija, kuri suprantama taip, kaip ji apibrėžta Lietuvos Respublikos valstybės skolos įstatyme) ir (ar) dalyvauja jas įgyvendinant veikdama kaip fondų fondo valdytoja. Kai kartu su skatinamąja finansine priemone teikiama dotacija ir (ar) subsidija, ji negali būti didesnė negu pusė skatinamajai finansinei priemonei skirtų lėšų sumos;
 
-2) teikia dotacijas ir (ar) subsidijas, kuriomis prisidedama prie NPĮ įgyvendinamų skatinamųjų finansinių priemonių;
+2) teikia dotacijas ir (ar) subsidijas, kuriomis prisidedama prie NPĮ įgyvendinamų skatinamųjų finansinių priemonių; 
 
-3) dalyvauja investavimo platformose, kurios suprantamos taip, kaip jos apibrėžtos 2015 m. birželio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 2015/1017 dėl Europos strateginių investicijų fondo, Europos investavimo konsultacijų centro ir Europos investicinių projektų portalo, kuriuo iš dalies keičiamos reglamentų (ES) Nr. 1291/2013 ir (ES) Nr. 1316/2013 nuostatos dėl Europos strateginių investicijų fondo (OL 2015 L 169, p. 1), 2 straipsnio 4 punkte, ir (ar) jas kuria;
+3) dalyvauja investavimo platformose, kurios suprantamos taip, kaip jos apibrėžtos 2015 m. birželio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 2015/1017 dėl Europos strateginių investicijų fondo, Europos investavimo konsultacijų centro ir Europos investicinių projektų portalo, kuriuo iš dalies keičiamos reglamentų (ES) Nr. 1291/2013 ir (ES) Nr. 1316/2013 nuostatos dėl Europos strateginių investicijų fondo (su visais pakeitimais), 2 straipsnio 4 punkte, ir (ar) jas kuria;
 
 4) pritraukia privačių lėšų finansiškai gyvybingiems projektams bei regionų ir (ar) vietos plėtrai; 
 
@@ -132,7 +138,14 @@ NPĮ TIKSLAI, UŽDAVINIAI, FUNKCIJOS
 
 8) kitas funkcijas, kurios reikalingos šio įstatymo 5 straipsnyje nurodytiems NPĮ tikslams pasiekti.
 
-2. NPĮ gali būti kitų juridinių asmenų steigėja ir (arba) dalyvė ir (arba) veiklai vykdyti pasitelkti finansų tarpininkus.
+2. NPĮ, siekdama valdyti riziką, skatinamajai finansinei priemonei įgyvendinti gali steigti NPĮ patronuojamąją (dukterinę) įmonę, kuri suprantama taip , kaip nurodyta Lietuvos Respublikos akcinių bendrovių įstatymo 5 straipsnyje, kai tai numatyta skatinamosios finansinės priemonės investavimo strategijoje. NPĮ gali būti ir kitų juridinių asmenų steigėja ir (ar) dalyvė ir (ar) veiklai vykdyti pasitelkti finansų tarpininkus. 
+
+3. NPĮ, siekdama užtikrinti tinkamą skatinamųjų finansinių priemonių, dotacijų ir (ar) subsidijų, kuriomis prisidedama prie NPĮ įgyvendinamų skatinamųjų finansinių priemonių, įgyvendinimą, turi teisę gauti iš valstybės registrų ir informacinių sistemų duomenis bei informaciją, kurie reikalingi nurodytų priemonių pareiškėjų, jų atstovų ir dalyvių (toliau – pareiškėjai) tapatybei nustatyti, pareiškėjų finansinei padėčiai ir kreditingumui įvertinti, pareiškėjų atitikčiai nurodytų priemonių įgyvendinimą reglamentuojančiuose teisės aktuose nustatytiems pareiškėjų tinkamumo reikalavimams įvertinti, pareiškėjų NPĮ pateiktų duomenų teisingumui patikrinti. 
+
+4. NPĮ gali turėti sąskaitų Lietuvos banke. 
+
+Straipsnio pakeitimai:
+Nr. XIV-538, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20297
  
 
 7 straipsnis. NPĮ skatinamojo finansavimo poreikio vertinimas
@@ -196,7 +209,10 @@ NPĮ veiklos vidaus kontrolė užtikrinama vadovaujantis Lietuvos Respublikos fi
 
 1. NPĮ gali veikti kaip komanditinės ūkinės bendrijos tikroji narė.
 
-2. Tais atvejais, kai Lietuvos bankas yra šio straipsnio 1 dalyje nurodytos komanditinės ūkinės bendrijos narys komanditorius arba Lietuvos bankui suteikiamos teisės veikti narių komanditorių pavedimu komanditinės ūkinės bendrijos patariamajame komitete, šiame įstatyme nustatyti NPĮ įrašymo į NPĮ sąrašus ir priežiūros reikalavimai netaikomi, o NPĮ, veikiančios kaip komanditinės ūkinės bendrijos tikroji narė, veiklos kontrolė vykdoma įgyvendinant komanditinės ūkinės bendrijos veiklos ir dalyvių sutartyse nustatytas finansines priemones ir Lietuvos bankui suteikiant teisę atstovauti komanditorių interesams patariamajame komitete, kurio pagrindinės funkcijos yra vertinti, kaip užtikrinama komanditinės ūkinės bendrijos tikrojo nario veiklos vidaus kontrolė, nustatyti komanditinės ūkinės bendrijos tikrojo nario organų narių interesų valdymo principus, teikti siūlymus dėl komanditinės ūkinės bendrijos tikrojo nario valdybos narių ir vadovo skyrimo ir atšaukimo.
+2. Tais atvejais, kai Lietuvos bankas yra šio straipsnio 1 dalyje nurodytos komanditinės ūkinės bendrijos narys komanditorius arba Lietuvos bankui suteikiamos teisės veikti narių komanditorių pavedimu komanditinės ūkinės bendrijos patariamajame komitete, šio įstatymo 8, 10 ir 11 straipsniuose nustatyti priežiūros reikalavimai netaikomi, o NPĮ, veikiančios kaip komanditinės ūkinės bendrijos tikroji narė, veiklos kontrolė vykdoma įgyvendinant komanditinės ūkinės bendrijos veiklos ir dalyvių sutartyse nustatytas finansines priemones ir Lietuvos bankui suteikiant teisę atstovauti komanditorių interesams patariamajame komitete, kurio pagrindinės funkcijos yra vertinti, kaip užtikrinama komanditinės ūkinės bendrijos tikrojo nario veiklos vidaus kontrolė, nustatyti komanditinės ūkinės bendrijos tikrojo nario organų narių interesų valdymo principus, teikti siūlymus dėl komanditinės ūkinės bendrijos tikrojo nario valdybos narių ir vadovo skyrimo ir atšaukimo. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-538, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20297
+ 
 
 3. Patariamajame komitete turi būti ne mažiau kaip trys nariai, kuriuos deleguoja nariai komanditoriai komanditinės ūkinės bendrijos veiklos ir dalyvių sutartyse nustatyta tvarka. Patariamojo komiteto sudėtį tvirtina ir atšaukia narių komanditorių susirinkimas. Patariamojo komiteto pirmininku skiriamas patariamojo komiteto narys – Lietuvos banko atstovas. Patariamasis komitetas pasitvirtina darbo reglamentą.
 
@@ -335,4 +351,9 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3033, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13471
 Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymo Nr. XIII-1257 papildymo 11-1 straipsniu įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-538, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20297
+Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymo Nr. XIII-1257 2, 6, 11-1 straipsnių pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas
 
