@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D2F66B96EBC"
 
 # Lietuvos Respublikos aviacijos įstatymas
 
-Suvestinė redakcija nuo 2021-09-18 iki 2021-09-30
+Suvestinė redakcija nuo 2021-10-01 iki 2021-10-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 94-2918, i. k. 1001010ISTAIII-2066
  
@@ -51,7 +51,10 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Aerodromas – nustatyta sausumos ar vandens arba nejudamosios sausumos, nejudamosios jūrinės ar plūdriosios konstrukcijos paviršiaus zona (įskaitant visus pastatus, įrenginius ir techninę įrangą), kuri visa ar kurios dalis skirta orlaiviams atskristi, išskristi ir judėti paviršiumi.
+1. Aerodromas – nustatyta sausumos ar vandens zona arba stacionariojo sausumos, stacionariojo jūrinio ar plūdriojo statinio zona, įskaitant visus ten esančius pastatus, įrenginius ir įrangą, kuri visa arba kurios dalis skirta naudoti orlaiviams atskristi, išskristi ir judėti paviršiumi. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -112,6 +115,14 @@ BENDROSIOS NUOSTATOS
 
 
 13. Eksperimentinės kategorijos orlaiviai – orlaiviai, išvardyti Reglamento (ES) 2018/1139 I priede.
+
+
+
+
+131. Eksperimentinės kategorijos orlaivio tinkamumo skraidyti patikros inspektorius – fizinis asmuo, turintis šio įstatymo nustatyta tvarka suteiktą teisę atlikti eksperimentinės kategorijos orlaivio tinkamumo skraidyti patikrą ir pateikti rekomendacijas dėl specialiojo tinkamumo skraidyti pažymėjimo išdavimo ar galiojimo laiko pratęsimo. 
+Papildyta straipsnio dalimi:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -251,7 +262,10 @@ c) sparno įkrova ne didesnė kaip 10 kg/m2 arba minimalus stabilaus skrydžio g
 
 
 
-35. Pasienio zona – keturių jūrmylių Lietuvos Respublikos nevaldomos oro erdvės dalis nuo Lietuvos Respublikos valstybės sienos, kuri ribojasi su ne Europos Sąjungos valstybe nare, į teritorijos gilumą. Atnaujinus vidaus sienų kontrolę, pasienio zona yra keturių jūrmylių Lietuvos Respublikos oro erdvės dalis nuo Lietuvos Respublikos valstybės sienos į teritorijos gilumą.
+35. Pasienio zona – keturių jūrmylių Lietuvos Respublikos nevaldomosios oro erdvės dalis nuo Lietuvos Respublikos valstybės sienos, kuri ribojasi su ne Europos Sąjungos valstybe nare, į teritorijos gilumą. Atnaujinus vidaus sienų kontrolę, pasienio zona yra keturių jūrmylių Lietuvos Respublikos nevaldomosios oro erdvės dalis nuo Lietuvos Respublikos valstybės sienos į teritorijos gilumą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -281,6 +295,14 @@ c) sparno įkrova ne didesnė kaip 10 kg/m2 arba minimalus stabilaus skrydžio g
 
 
 
+401. Specialusis tinkamumo skraidyti pažymėjimas – dokumentas, kuriuo patvirtinama eksperimentinės kategorijos orlaivio atitiktis galiojantiems tinkamumo skraidyti reikalavimams ir suteikiama teisė naudoti šį orlaivį pagal nustatytus apribojimus, kurie turi būti įrašyti šio orlaivio specialiojo tinkamumo skraidyti pažymėjimo priede. 
+Papildyta straipsnio dalimi:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
+
+
+
+
 41. Tarptautinio oro uosto žemė – Lietuvos Respublikos Vyriausybės nustatytų ribų žemės plotas, skirtas tarptautinio oro uosto reikmėms.
 
 
@@ -301,7 +323,9 @@ c) sparno įkrova ne didesnė kaip 10 kg/m2 arba minimalus stabilaus skrydžio g
 
 
 
-45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos  Reglamente (EEB) Nr. 95/93, Reglamente (EB) Nr. 549/2004, Reglamente (EB) Nr. 300/2008, Reglamente (EB) Nr. 1008/2008, 2010 m. sausio 26 d. Komisijos reglamente (ES) Nr. 73/2010, kuriuo nustatomi bendro Europos dangaus oro navigacijos duomenų ir informacijos kokybės reikalavimai (OL 2010 L 23, p. 6), su paskutiniais pakeitimais, padarytais 2014 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 1029/2014 (OL 2014 L 284, p. 9), Reglamente (ES) Nr. 1178/2011, Reglamente (ES) Nr. 923/2012 ir Reglamente (ES) 2018/1139.
+45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (EEB) Nr. 95/93, Reglamente (EB) Nr. 549/2004, Reglamente (EB) Nr. 300/2008, Reglamente (EB) Nr. 1008/2008, 2010 m. sausio 26 d. Komisijos reglamente (ES) Nr. 73/2010, kuriuo nustatomi bendro Europos dangaus oro navigacijos duomenų ir informacijos kokybės reikalavimai, su paskutiniais pakeitimais, padarytais 2014 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 1029/2014, Reglamente (ES) Nr. 1178/2011, Reglamente (ES) Nr. 923/2012, Reglamente (ES) Nr. 965/2012 ir Reglamente (ES) 2018/1139. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
 
 
@@ -390,7 +414,10 @@ Aviacijos valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vy
 
 
 
-5) atlieka įstaigos, atsakingos už Reglamento (EB) Nr. 261/2004 ir Reglamento (EB) Nr. 1107/2006 vykdymą, funkcijas; 
+5) atlieka įstaigos, atsakingos už Reglamento (ES) Nr. 598/2014, Reglamento (EB) Nr. 261/2004 ir Reglamento (EB) Nr. 1107/2006 vykdymą, funkcijas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -426,7 +453,10 @@ Aviacijos valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vy
 2. Agentūrai išlaikyti naudojamos šios lėšos:
 
 
-1) rinkliavų už oro navigacijos paslaugas atskaitymai, kuriuos iki kiekvieno ketvirčio pirmojo mėnesio 25 dienos Agentūrai perveda oro eismo paslaugų teikėjai arba Europos saugios oro navigacijos organizacija dalimis, lygiomis vienai ketvirtajai Agentūros einamųjų metų planuotų sąnaudų, susijusių su oro navigacijos paslaugų teikėjų valstybine priežiūra pagal Reglamento (EB) Nr. 549/2004 nuostatas;
+1) rinkliavų už oro navigacijos paslaugas atskaitymai, kuriuos Agentūrai perveda oro eismo paslaugų teikėjai arba Europos saugios oro navigacijos organizacija Agentūros veiklos, susijusios su oro navigacijos paslaugų teikėjų valstybine priežiūra pagal Reglamento (EB) Nr. 549/2004 nuostatas, sąnaudoms kompensuoti; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -461,9 +491,10 @@ Aviacijos valstybinį valdymą pagal savo kompetenciją Lietuvos Respublikoje vy
 
 
 
-3) atlieka Reglamente (EB) Nr. 300/2008 nurodytos atitinkamos institucijos, Reglamente (ES) Nr. 1178/2011, Reglamente (ES) Nr. 748/2012, Reglamente (ES) Nr. 923/2012, Reglamente (ES) Nr. 965/2012, Reglamente (ES) Nr. 139/2014, Reglamente (ES) Nr. 376/2014, Reglamente (ES) Nr. 598/2014, Reglamente (ES) Nr. 1321/2014, Reglamente (ES) 2015/340, Reglamente (ES) 2018/395 nurodytos kompetentingos institucijos, taip pat Reglamente (ES) 2019/947 nurodytos kompetentingos institucijos, atsakingos už šio reglamento 18 straipsnio a–e ir g–m punktų nuostatų vykdymą, Reglamente (ES) 2018/1139 nurodytos nacionalinės kompetentingos institucijos ir Reglamente (EB) Nr. 549/2004 bei Reglamente (ES) 2019/317 nurodytos nacionalinės priežiūros institucijos funkcijas; 
+3) atlieka Reglamente (EB) Nr. 300/2008 nurodytos atitinkamos institucijos, Reglamente (ES) Nr. 1178/2011, Reglamente (ES) Nr. 748/2012, Reglamente (ES) Nr. 923/2012, Reglamente (ES) Nr. 965/2012, Reglamente (ES) Nr. 139/2014, Reglamente (ES) Nr. 376/2014, Reglamente (ES) Nr. 1321/2014, Reglamente (ES) 2015/340, Reglamente (ES) 2017/373, Reglamente (ES) 2018/1976 ir Reglamente (ES) 2018/395 nurodytos kompetentingos institucijos, taip pat Reglamente (ES) 2019/947 nurodytos kompetentingos institucijos, atsakingos už šio reglamento 18 straipsnio a–e ir g–m punktų nuostatų vykdymą, Reglamente (ES) 2018/1139 nurodytos nacionalinės kompetentingos institucijos ir Reglamente (EB) Nr. 549/2004 bei Reglamente (ES) 2019/317 nurodytos nacionalinės priežiūros institucijos funkcijas; 
 Straipsnio punkto pakeitimai:
 Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
 
 
@@ -479,9 +510,17 @@ Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
 
 
 
-6) vykdo bepiločių orlaivių ir bepiločių orlaivių naudotojų, nurodytų Reglamento (ES) 2019/947 14 straipsnio 1 dalyje, registravimą. 
+6) vykdo bepiločių orlaivių ir bepiločių orlaivių naudotojų, nurodytų Reglamento (ES) 2019/947 14 straipsnio 1 dalyje, registravimą; 
 Papildyta straipsnio punktu:
 Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
+ 
+
+
+
+
+7) atlieka eksperimentinės kategorijos orlaivių patikrą, išduoda šios kategorijos orlaiviams specialiuosius tinkamumo skraidyti pažymėjimus ir pratęsia jų galiojimą, išduoda eksperimentinės kategorijos orlaivio tinkamumo skraidyti patikros inspektoriaus patvirtinimus. 
+Papildyta straipsnio punktu:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
 
 
@@ -511,7 +550,6 @@ Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
 
 
 3. Jeigu į tinkamai užpildytą prašymą išduoti pažymėjimą, patvirtinimą, leidimą ar aviacijos specialisto licenciją, pateiktą kartu su visais pažymėjimui, patvirtinimui, leidimui ar aviacijos specialisto licencijai išduoti reikalingais dokumentais, neatsakoma per šio straipsnio 1 ir 2 dalyse nustatytą terminą, atsakymo dėl pažymėjimo, patvirtinimo, leidimo ar aviacijos specialisto licencijos išdavimo nepateikimas nelaikomas pažymėjimo, patvirtinimo, leidimo ar aviacijos specialisto licencijos išdavimu.
- 
  
 
 
@@ -706,10 +744,12 @@ Nr. XIV-525, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19618
 12 straipsnis. Orlaivių naudojimas
 
 
-Lietuvos Respublikoje leidžiama naudoti tik Lietuvos Respublikoje registruotus orlaivius. Šio straipsnio nuostatos netaikomos užsienio šalių orlaiviams, kurie vykdo skrydžius pagal šio įstatymo 44, 45 ir 46 straipsnius, taip pat bepiločiams ir paprastiesiems orlaiviams.
+Lietuvos Respublikoje leidžiama naudoti tik Tarptautinės civilinės aviacijos organizacijos valstybėje narėje registruotus orlaivius. Šio straipsnio nuostatos netaikomos užsienio šalių orlaiviams, kurie vykdo skrydžius pagal šio įstatymo 44, 45 ir 46 straipsnius, taip pat bepiločiams orlaiviams, kurie nėra registruojami vadovaujantis Reglamentu (ES) 2019/947, paprastiesiems orlaiviams ir Lietuvos Respublikoje pagamintiems naujiems orlaiviams, atliekantiems bandomuosius skrydžius. Lietuvos Respublikoje pagamintų naujų orlaivių bandomųjų skrydžių reikalavimus nustato LTSA. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
-
-
 
 
 
@@ -765,7 +805,6 @@ Lietuvos Respublikoje leidžiama naudoti tik Lietuvos Respublikoje registruotus 
 
 4. Prašymai dėl kompensacijų už triukšmo mažinimo priemonių įgyvendinimą pateikiami ne vėliau kaip per trejus metus nuo perspektyvinių triukšmo žemėlapių viešo paskelbimo dienos ir kompensacijos pareiškėjams išmokamos ne ilgiau kaip per 3 metus nuo prašymų patvirtinimo dienos. Prašymų nagrinėjimo tvarka ir  kompensacijų mokėjimo sąlygos nustatomos Taisyklėse. Ginčus dėl šiame straipsnyje nurodytų kompensacijų Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka sprendžia teismas.
  
- 
 
 
 
@@ -817,6 +856,13 @@ Civilinių aerodromų naudojimo valstybės orlaivių reikmėms ir karinių aerod
 
 
 7. Karinių orlaivių avarijos ir incidentai tiriami krašto apsaugos ministro nustatyta tvarka.
+
+
+
+
+8. Karinių orlaivių ženklinimo tvarką nustato kariuomenės vadas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
 
 
@@ -1013,7 +1059,10 @@ ORLAIVIŲ REGISTRAVIMAS IR ŽENKLINIMAS
 
 
 
-3) orlaivio savininkas yra Lietuvos Respublikos pilietis, kitos Europos Sąjungos valstybės narės pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo Europos Sąjungos valstybėse narėse teisėmis (toliau – Lietuvos Respublikos pilietis ar kitas fizinis asmuo), arba juridinis asmuo, registruotas Lietuvos Respublikoje, Lietuvos valstybė arba savivaldybė; arba orlaivio savininkas yra ne Lietuvos Respublikos pilietis ar kitas fizinis asmuo arba juridinis asmuo, registruotas Lietuvos Respublikoje, bet orlaivis daugiau kaip pusę skrydžių vykdo iš Lietuvos Respublikos oro uosto; arba orlaivio naudotojas yra Lietuvos Respublikos pilietis ar kitas fizinis asmuo arba juridinis asmuo, registruotas Lietuvos Respublikoje, ir šis orlaivis daugiau kaip pusę skrydžių vykdo iš Europos Sąjungos valstybės narės oro uosto;
+3) orlaivio savininkas yra Lietuvos Respublikos pilietis, kitos Europos Sąjungos valstybės narės pilietis, kitas fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo Europos Sąjungos valstybėse narėse teisėmis (toliau – Lietuvos Respublikos pilietis ar kitas fizinis asmuo), arba juridinis asmuo, registruotas Lietuvos Respublikoje, Lietuvos valstybė arba savivaldybė; arba orlaivio savininkas yra ne Lietuvos Respublikos pilietis ar kitas fizinis asmuo arba juridinis asmuo, registruotas Lietuvos Respublikoje, bet orlaivis daugiau kaip pusę skrydžių vykdo iš Lietuvos Respublikos oro uosto; arba orlaivio naudotojas yra Lietuvos Respublikos pilietis ar kitas fizinis asmuo arba juridinis asmuo, registruotas Lietuvos Respublikoje; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -1030,7 +1079,10 @@ ORLAIVIŲ REGISTRAVIMAS IR ŽENKLINIMAS
 
 
 
-5. Orlaivis ne ilgiau kaip vienam mėnesiui gali būti laikinai įregistruotas Lietuvos Respublikos civilinių orlaivių registre, jeigu jo nuosavybės teisės perduotos šio straipsnio 3 dalies 3 punkte nurodytiems asmenims, tačiau ne visos sąlygos, būtinos galutiniam įregistravimui, yra patenkintos. Tam, kad orlaivis būtų laikinai įregistruotas Lietuvos Respublikos civilinių orlaivių registre, turi būti įvykdytos šio straipsnio 3 dalies 2, 3 ir 4 punktuose nurodytos sąlygos.
+5. Orlaivis 4 mėnesiams gali būti laikinai įregistruotas Lietuvos Respublikos civilinių orlaivių registre, jeigu jo savininkas ar naudotojas yra vienas iš šio straipsnio 3 dalies 3 punkte nurodytų asmenų, tačiau ne visos sąlygos, būtinos galutiniam įregistravimui, yra patenkintos. Tam, kad orlaivis būtų laikinai įregistruotas Lietuvos Respublikos civilinių orlaivių registre, turi būti įvykdytos ir šio straipsnio 3 dalies 2 ir 4 punktuose nurodytos sąlygos. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -1078,7 +1130,17 @@ Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
 
 
 
-8. Orlaivių duomenys tvarkomi Lietuvos Respublikos civilinių orlaivių registro nuostatuose nustatyta tvarka.
+8. Bepiločių orlaivių ir bepiločių orlaivių naudotojų, nurodytų Reglamento (ES) 2019/947 14 straipsnio 1 dalyje, ir orlaivių duomenys tvarkomi Lietuvos Respublikos civilinių orlaivių registro nuostatuose nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
+
+
+
+
+9. Lietuvos Respublikos civilinių orlaivių registro tvarkytojas fiziniams ir juridiniams asmenims neatlygintinai teikia šio registro duomenis, registro informaciją, registrui pateiktus dokumentus ir (arba) jų kopijas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
 
 
@@ -1149,12 +1211,17 @@ SAUGOS REIKALAVIMAI
 
 
 
-3. Aviacijos saugos valdymui užtikrinti Vyriausybė tvirtina valstybinę saugos programą, kurioje numatomi aspektai, susiję su valstybės saugos valdymo įpareigojimais, nustatytais tarptautiniuose standartuose ir rekomenduojamoje praktikoje. Ši programa turi būti proporcinga aviacijos veiklos mastui ir sudėtingumui ir atitikti Europos aviacijos saugos programą. 
+3. Aviacijos saugos valdymui užtikrinti susisiekimo ministras LTSA teikimu tvirtina valstybinę aviacijos saugos programą, kurioje numatomi aspektai, susiję su valstybės aviacijos saugos valdymo įpareigojimais, nustatytais tarptautiniuose standartuose ir rekomenduojamoje praktikoje, ir valstybinį aviacijos saugos planą, kuriame identifikuojamos aviacijos veiklos saugos rizikos ir priemonės joms mažinti, nustatomas siektinas aviacijos saugos užtikrinimo veiksmingumo lygis valstybės mastu ir jo stebėsenai užtikrinti skirti aviacijos saugos veiksmingumo rodikliai. Valstybinė aviacijos saugos programa turi būti proporcinga aviacijos veiklos mastui ir sudėtingumui ir atitikti Europos aviacijos saugos programą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
 
-4. Valstybinės saugos programos įgyvendinimą koordinuoja Vyriausybės sudaryta Valstybinė aviacijos saugos komisija.
+4. Susisiekimo ministro sudaryta Valstybinė aviacijos saugos komisija koordinuoja valstybinės aviacijos saugos programos įgyvendinimą, vykdo aviacijos saugos užtikrinimo veiksmingumo lygio stebėseną atsižvelgdama į valstybiniame aviacijos saugos plane nustatytus aviacijos saugos veiksmingumo lygio rodiklius. Prireikus Valstybinė aviacijos saugos komisija teikia pasiūlymus dėl aviacijos saugos veiksmingumo Lietuvoje stiprinimo.“ 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
 
 
@@ -1236,25 +1303,27 @@ LTSA nustato aerodromų, kuriems netaikomos Reglamento (ES) Nr. 139/2014 nuostat
 
 
 
-2. Tarptautinį oro uostą valdanti įmonė oro uosto žemę valdo, naudoja ir ja disponuoja turto patikėjimo teise, vadovaudamasi šiuo įstatymu, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymu ir Lietuvos Respublikos žemės įstatymu. Tarptautinio oro uosto teritorijos ribas ir plotą tvirtina Vyriausybė.
+2. Tarptautinį oro uostą valdanti įmonė, valstybės institucija ar įstaiga oro uosto žemę valdo, naudoja ir ja disponuoja turto patikėjimo teise, vadovaudamasi šiuo įstatymu, Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymu ir Lietuvos Respublikos žemės įstatymu. Tarptautinio oro uosto teritorijos ribas ir plotą tvirtina Vyriausybė.
 
 
 
 
-3. Tarptautinį oro uostą valdanti įmonė turi teisę išnuomoti tarptautinio oro uosto žemės sklypus (jų dalis) su šio oro uosto veikla susijusioms reikmėms, taip pat juridiniams ar fiziniams asmenims, kurių veikla nesusijusi su šio oro uosto veikla, šiems asmenims nuosavybės teise priklausantiems ar jų nuomojamiems statiniams ar įrenginiams, esantiems tarptautinio oro uosto teritorijoje, eksploatuoti. Kontroliuojamojoje zonoje esanti tarptautinio oro uosto žemė gali būti išnuomojama tik su šio oro uosto veikla susijusioms reikmėms. 
+3. Tarptautinį oro uostą valdanti įmonė, valstybės institucija ar įstaiga turi teisę išnuomoti tarptautinio oro uosto žemės sklypus (jų dalis) su šio oro uosto veikla susijusioms reikmėms, taip pat juridiniams ar fiziniams asmenims, kurių veikla nesusijusi su šio oro uosto veikla, šiems asmenims nuosavybės teise priklausantiems ar jų nuomojamiems statiniams ar įrenginiams, esantiems tarptautinio oro uosto teritorijoje, eksploatuoti. Kontroliuojamojoje zonoje esanti tarptautinio oro uosto žemė gali būti išnuomojama tik su šio oro uosto veikla susijusioms reikmėms.
 
 
 
 
-4. Tarptautinio oro uosto žemės nuomos aukciono ir ne aukciono būdu tvarką, oro uosto žemės nuomos mokesčio apskaičiavimo tvarką ir oro uosto žemės nuomos mokesčio dydžius tvirtina Vyriausybė.
+4. Tarptautinio oro uosto žemės nuomos aukciono ir ne aukciono būdu tvarką, oro uosto žemės nuomos mokesčio apskaičiavimo tvarką nustato ir oro uosto žemės nuomos mokesčio dydžius tvirtina Vyriausybė.
 
 
 
 
-5. Valstybės institucijoms, kurių veikla tarptautiniame oro uoste privaloma pagal Lietuvos Respublikos įstatymus, susijusius su šių institucijų veikla, oro uosto žemė perduodama neatlygintinai naudotis Žemės įstatymo ir Vyriausybės nustatyta tvarka. Sprendimus perduoti neatlygintinai naudotis oro uosto žeme priima tarptautinį oro uostą valdančios įmonės vadovas.
+5. Valstybės institucijoms, kurių veikla tarptautiniame oro uoste privaloma pagal Lietuvos Respublikos įstatymus, susijusius su šių institucijų veikla, oro uosto žemė perduodama neatlygintinai naudotis Žemės įstatymo ir Vyriausybės nustatyta tvarka. Sprendimus perduoti neatlygintinai naudotis oro uosto žeme priima tarptautinį oro uostą valdančios įmonės, valstybės institucijos ar įstaigos vadovas. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
-
-
 
 
 
@@ -1482,6 +1551,64 @@ SKRYDŽIŲ VYKDYMAS
 
 
 
+8. Lietuvos Respublikos ar kitos valstybės civilinių orlaivių registre įregistruotų orlaivių skrydžiai leidžiami tik iš aerodromų, turinčių pagal Reglamento (ES) Nr. 139/2014 arba LTSA nustatytus reikalavimus Agentūros išduotą aerodromo pažymėjimą ar aerodromo tinkamumo naudoti pažymėjimą, arba į aerodromus, turinčius pagal Reglamento (ES) Nr. 139/2014 arba LTSA nustatytus reikalavimus Agentūros išduotą aerodromo pažymėjimą ar aerodromo tinkamumo naudoti pažymėjimą, taip pat iš lauko aikštelių arba į lauko aikšteles, kurioms yra išduotas leidimas naudoti jas skrydžiams. Ši nuostata netaikoma:
+
+
+1) oro balionų skrydžiams;
+
+
+
+
+2) sklandytuvų priverstiniams nusileidimams dėl meteorologinių sąlygų;
+
+
+
+
+3) lėktuvų ar motorizuotų skraidyklių skrydžiams, kurių metu išvelkami sklandytuvai ar paprastieji orlaiviai, turint žemės sklypo ar teritorijos, kurioje nesuformuoti valstybinės žemės sklypai, iš kurių sklandytuvai ar paprastieji orlaiviai išvelkami, savininko, naudotojo ar valstybinės žemės patikėtinio sutikimą;
+
+
+
+
+4) priverstinio nusileidimo atvejais, kai skrydžio negalima tęsti, nes kyla pavojus skrydžio saugai;
+
+
+
+
+5) mokymo tikslais pagal Reglamento (ES) Nr. 1178/2011 ir Reglamento (ES) 2018/1976 nuostatas, kai sraigtasparniais ar sklandytuvais atliekami mokomieji tūpimo į aikšteles skrydžiai;
+
+
+
+
+6) orlaiviams, vykdantiems specialiuosius skrydžius;
+
+
+
+
+7) kai siekiama užkirsti kelią atsirasti žalai asmens sveikatai, gyvybei ir (arba) turtui;
+
+
+
+
+8) skrydžiams į vandens telkinius, kuriuose aplinkos ministro nustatyta tvarka leidžiama vykdyti skrydžius, arba iš jų;
+
+
+
+
+9) asmeniniais tikslais vykdomiems skrydžiams iš nuosavybės teise valdomo žemės sklypo arba į nuosavybės teise valdomą žemės sklypą arba turint žemės sklypo savininko ar naudotojo sutikimą ir kai tokie skrydžiai vykdomi ne dažniau kaip 21 dieną per kalendorinius metus;
+
+
+
+
+10) valstybės orlaiviams. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
+
+
+
+
 9. Bepiločių orlaivių skrydžiai aerodromo oro eismo zonose gali būti vykdomi tik suderinus su aerodromo naudotoju ir laikantis aerodromo naudotojo nustatytų sąlygų.  
 Papildyta straipsnio dalimi:
 Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
@@ -1600,7 +1727,10 @@ CIVILINĖS AVIACIJOS SAUGUMAS
 41 straipsnis. Aviacijos saugumo užtikrinimas
 
 
-1. Aviacijos saugumą užtikrina oro uostai, oro navigacijos paslaugas teikiančios įmonės, vežėjai ir subjektai, taikantys aviacijos saugumo priemones ir veikiantys oro uosto teritorijoje ar už jos ribų, ir tiekiantys prekes arba teikiantys paslaugas oro uostuose ar per juos. Šioje dalyje nurodyti oro uostai, oro navigacijos paslaugas teikiančios įmonės, vežėjai ir subjektai privalo turėti aviacijos saugumo programas ir paskirti asmenis, atsakingus už šių programų įgyvendinimą. 
+1. Aviacijos saugumą užtikrina oro uostą valdanti įmonė, oro navigacijos paslaugas teikiančios įmonės, vežėjai ir subjektai, taikantys aviacijos saugumo priemones ir veikiantys oro uosto teritorijoje ar už jos ribų ir tiekiantys prekes arba teikiantys paslaugas oro uostuose ar per juos (toliau – aviacijos saugumo priemones taikantys subjektai). Šioje dalyje nurodyta oro uostą valdanti įmonė, oro navigacijos paslaugas teikiančios įmonės, vežėjai ir aviacijos saugumo priemones taikantys subjektai privalo turėti aviacijos saugumo programas ir paskirti asmenis, atsakingus už šių programų įgyvendinimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -1680,7 +1810,10 @@ CIVILINĖS AVIACIJOS SAUGUMAS
 
 
 
-8. Vadovaudamasi Reglamente (ES) 2015/1998 nustatytomis sąlygomis ir LTSA nustatyta tvarka, Agentūra suteikia reguliuojamo subjekto, žinomo siuntėjo, Europos Sąjungos aviacijos saugumo tikrintojo, vežėjo, vežančio krovinius arba paštą iš trečiosios šalies oro uosto į Europos Sąjungą (ACC3 vežėjo), reguliuojamo orlaivio atsargų tiekėjo ir aviacijos saugumo instruktoriaus statusą, galiojantį 5 metus, jį panaikina ir informaciją apie šiems subjektams, išskyrus aviacijos saugumo instruktorių, suteiktą statusą ar jo panaikinimą įrašo į Sąjungos tiekimo grandinės saugumo duomenų bazę. Agentūra suteikia nuotolinį mokymą vykdančio subjekto statusą, galiojantį 5 metus, jeigu subjekto mokymai atitinka Reglamente (ES) 2015/1998 nustatytus reikalavimus, o nuotolinio mokymo programos turinį administruojantys darbuotojai atitinka aviacijos saugumo instruktoriams keliamus reikalavimus, ir jį panaikina. Agentūra aviacijos saugumo instruktorių ir nuotolinį mokymą vykdančių subjektų sąrašus paskelbia savo interneto svetainėje.
+8. Vadovaudamasi Reglamente (ES) 2015/1998 nustatytomis sąlygomis ir LTSA nustatyta tvarka, Agentūra suteikia reguliuojamo subjekto, žinomo siuntėjo, Europos Sąjungos aviacijos saugumo tikrintojo, vežėjo, vežančio krovinius arba paštą iš trečiosios šalies oro uosto į Europos Sąjungą (ACC3 vežėjo), reguliuojamo orlaivio atsargų tiekėjo ir aviacijos saugumo instruktoriaus statusą, galiojantį 5 metus, jį panaikina ir informaciją apie šiems subjektams, išskyrus aviacijos saugumo instruktorių, suteiktą statusą ar jo panaikinimą įrašo į Sąjungos tiekimo grandinės saugumo duomenų bazę. Agentūra suteikia nuotolinį mokymą vykdančio subjekto statusą, galiojantį 5 metus, jeigu subjekto mokymai atitinka Reglamente (ES) 2015/1998 nustatytus reikalavimus, o nuotolinio mokymo programos turinį administruojantys darbuotojai atitinka aviacijos saugumo instruktoriams keliamus reikalavimus, ir jį panaikina. Agentūra, siekdama paviešinti informaciją, kad subjektai, kuriems reikalingi aviacijos saugumo mokymai, turėtų patikimą informacijos šaltinį, savo interneto svetainėje viešai skelbia Agentūros patvirtintų aviacijos saugumo instruktorių bei nuotolinius mokymus vykdančių ūkio subjektų sąrašą ir nurodo instruktoriaus vardą, pavardę bei elektroninio pašto adresą; nuotolinius mokymus vykdančio ūkio subjekto pavadinimą, už mokymus atsakingo asmens vardą ir pavardę bei elektroninio pašto adresą; mokymo modulius, pagal kuriuos instruktorius ar nuotolinius mokymus vykdantis subjektas turi teisę vykdyti aviacijos saugumo mokymus, ir teisės vykdyti aviacijos saugumo mokymus pagal atitinkamą modulį galiojimo terminą. Duomenys apie aviacijos saugumo instruktorių ar nuotolinius mokymus vykdantį ūkio subjektą Agentūros interneto svetainėje paskelbiami ne vėliau kaip kitą darbo dieną nuo sprendimo dėl teisės vykdyti aviacijos saugumo mokymus pagal atitinkamą modulį suteikimo, sustabdymo ar panaikinimo priėmimo dienos. Informacija apie asmenį skelbiama tol, kol jam suteiktas aviacijos saugumo instruktoriaus statusas nėra panaikintas arba kol nuotolinius mokymus vykdantis ūkio subjektas nepaskiria kito už mokymus atsakingo asmens. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -1779,7 +1912,6 @@ ORO SUSISIEKIMAS
 
 3. Šio straipsnio 2 dalyje nurodyti leidimai išduodami arba motyvuotas atsisakymas juos išduoti pateikiamas ne vėliau kaip per 10 darbo dienų nuo visų reikiamų dokumentų ir informacijos gavimo dienos.
  
- 
 
 
 
@@ -1868,7 +2000,10 @@ Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 
 
 
-2. Leidimus vykdyti Europos Sąjungos ir Šiaurės Atlanto sutarties organizacijos (toliau – NATO) šalių valstybės orlaivių skrydžius išduoda krašto apsaugos ministras ar jo įgaliotas asmuo. Leidimus vykdyti kitų užsienio šalių valstybės orlaivių skrydžius krašto apsaugos ministro ar jo įgalioto asmens teikimu išduoda Lietuvos Respublikos užsienio reikalų ministerija. Ypač skubiu atveju leidimą vykdyti skrydį išduoda krašto apsaugos ministras arba jo įgaliotas asmuo. Apie leidimo išdavimą jis nedelsdamas informuoja Užsienio reikalų ministeriją.
+2. Leidimus vykdyti Europos Sąjungos ir Šiaurės Atlanto sutarties organizacijos (toliau – NATO) valstybių narių valstybės orlaivių skrydžius išduoda krašto apsaugos ministras ar jo įgaliotas asmuo. Leidimus vykdyti kitų užsienio šalių valstybės orlaivių skrydžius išduoda Lietuvos Respublikos užsienio reikalų ministerija, suderinusi su krašto apsaugos ministru ar jo įgaliotu asmeniu. Leidimą vykdyti skrydį ypač skubiais atvejais, kurių sąrašas tvirtinamas krašto apsaugos ministro ir Lietuvos Respublikos užsienio reikalų ministro įsakymu, išduoda krašto apsaugos ministras arba jo įgaliotas asmuo. Apie leidimo išdavimą jis nedelsdamas informuoja Užsienio reikalų ministeriją. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -1888,12 +2023,17 @@ Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 
 
 
-6. Paraiškų išduoti leidimus vykdyti užsienio šalių valstybės orlaivių skrydžius į Lietuvos Respublikos teritoriją, iš jos arba per ją pateikimo, šių leidimų išdavimo, atsisakymo išduoti, panaikinimo tvarka ir sąlygos nustatomos bendru krašto apsaugos ministro ir Lietuvos Respublikos užsienio reikalų ministro įsakymu.
+6. Paraiškų išduoti leidimus vykdyti užsienio šalių valstybės orlaivių skrydžius į Lietuvos Respublikos teritoriją, iš jos arba per ją pateikimo, šių leidimų išdavimo, atsisakymo išduoti, panaikinimo tvarka ir sąlygos nustatomos krašto apsaugos ministro ir užsienio reikalų ministro įsakymu. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
 
-7. Tais atvejais, kai diplomatiniais kanalais yra gauta paraiška išduoti leidimą vykdyti skrydį orlaiviu, kuriuo vežami labai svarbūs asmenys, šį leidimą pagal valstybės orlaivių skrydžiams taikomus reikalavimus išduoda Užsienio reikalų ministerija krašto apsaugos ministro ar jo įgalioto asmens teikimu.
+7. Tais atvejais, kai diplomatiniais kanalais yra gauta paraiška išduoti leidimą vykdyti skrydį orlaiviu, kuriuo vežami labai svarbūs asmenys, šį leidimą pagal valstybės orlaivių skrydžiams taikomus reikalavimus išduoda Užsienio reikalų ministerija, suderinusi su krašto apsaugos ministru ar jo įgaliotu asmeniu. Labai svarbių asmenų, kurių skrydžiui orlaiviu leidimas išduodamas šioje dalyje nustatyta tvarka, sąrašą, atsižvelgdama į tarptautinę praktiką ir tradicijas, tvirtina Vyriausybė. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
 
 
@@ -1904,11 +2044,17 @@ Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
 47 straipsnis. Leidimų galiojimas
 
 
-Pagal šio įstatymo 44, 45 ir 46 straipsnius išduoti leidimai vykdyti skrydžius galioja 4 valandas iki numatyto išskridimo laiko ir 48 valandas po jo.
- 
- 
+1. Pagal šio įstatymo 44, 45 ir 46 straipsnius išduoti leidimai vykdyti skrydžius, išskyrus šio straipsnio 2 dalyje nurodytus leidimus, galioja 4 valandas iki numatyto išskridimo laiko ir 48 valandas po jo. 
 
 
+
+
+2. Krašto apsaugos ministro ir užsienio reikalų ministro nustatyta tvarka ir sąlygomis išduoti metiniai leidimai vykdyti Europos Sąjungos ir NATO valstybių narių valstybės orlaivių skrydžius, taip pat kitus užsienio šalių valstybės orlaivių skrydžius pagal Lietuvos Respublikos tarptautines sutartis, kitus susitarimus ir įsipareigojimus galioja vienus kalendorinius metus nuo šių leidimų išdavimo dienos. 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -1947,7 +2093,10 @@ Pagal šio įstatymo 44, 45 ir 46 straipsnius išduoti leidimai vykdyti skrydži
 
 
 
-4. Paraiškas patvirtinti antžeminių paslaugų teikėją arba savateikį nagrinėja susisiekimo ministro sudaryta nuolatinė komisija (toliau šiame straipsnyje – komisija). Komisija taip pat nagrinėja klausimus dėl sprendimo patvirtinti antžeminių paslaugų teikėją arba savateikį galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo. Komisija savo veikloje vadovaujasi šiuo įstatymu ir šio straipsnio 1 dalyje nurodyta tvarka. Komisija priima sprendimą, įvertinusi oro uostą valdančios įmonės išvadą dėl pareiškėjo atitikties šio straipsnio 5 dalies reikalavimams, jeigu oro uostą valdanti įmonė pati neteikia tokių antžeminių paslaugų ar jų dalies, ir Agentūros išvadą dėl pareiškėjo atitikties šio straipsnio 5 dalies 1 punkto reikalavimams. Komisija privalo priimti sprendimą per 20 darbo dienų nuo paraiškos ir visų reikiamų dokumentų (išvadų) gavimo dienos. Komisijos priimti sprendimai yra rekomendacinio pobūdžio. Galutinį sprendimą priima susisiekimo ministras. 
+4. Paraiškas patvirtinti antžeminių paslaugų teikėją arba savateikį nagrinėja susisiekimo ministro sudaryta nuolatinė komisija (toliau šiame straipsnyje – komisija). Komisija taip pat nagrinėja klausimus dėl sprendimo patvirtinti antžeminių paslaugų teikėją arba savateikį galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo ir dėl antžeminių paslaugų teikėjų arba savateikių skaičiaus galimo apribojimo. Komisija savo veikloje vadovaujasi šiuo įstatymu ir šio straipsnio 1 dalyje nurodyta tvarka. Komisija priima sprendimą dėl paraiškų patvirtinti antžeminių paslaugų teikėją ar savateikį ir dėl sprendimo patvirtinti antžeminių paslaugų teikėją arba savateikį galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo, įvertinusi oro uostą valdančios įmonės išvadą dėl pareiškėjo atitikties šio straipsnio 5 dalies reikalavimams, jeigu oro uostą valdanti įmonė pati neteikia tokių antžeminių paslaugų ar jų dalies, ir Agentūros išvadą dėl pareiškėjo atitikties šio straipsnio 5 dalies 1 punkto reikalavimams. Komisija privalo priimti sprendimą per 20 darbo dienų nuo paraiškos ir visų reikiamų dokumentų (išvadų) gavimo dienos. Dėl susisiekimo ministro kreipimosi į komisiją dėl išvados dėl antžeminių paslaugų teikėjų arba savateikių skaičiaus galimo apribojimo pagal šio straipsnio 11, 14, 16, 19 ir 20 dalyse nurodytą Agentūros prašymą komisija išvadą susisiekimo ministrui privalo pateikti per 10 darbo dienų nuo Agentūros prašymo gavimo dienos. Komisijos priimti sprendimai yra rekomendacinio pobūdžio. Galutinį sprendimą priima susisiekimo ministras. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -2032,7 +2181,10 @@ Pagal šio įstatymo 44, 45 ir 46 straipsnius išduoti leidimai vykdyti skrydži
 
 
 
-12. Susisiekimo ministras turi teisę apriboti patvirtintų antžeminių paslaugų teikėjų skaičių oro uoste ne mažiau kaip iki dviejų bet kurios rūšies antžeminių paslaugų, numatytų šio įstatymo 2 priede, patvirtintų antžeminių paslaugų teikėjų. Susisiekimo ministro sprendimas turi būti priimtas per 20 darbo dienų nuo Agentūros kreipimosi gavimo dienos. Pagal šią dalį priimti sprendimai turi būti motyvuoti. 
+12. Susisiekimo ministras turi teisę apriboti patvirtintų antžeminių paslaugų teikėjų skaičių oro uoste ne mažiau kaip iki dviejų bet kurios rūšies antžeminių paslaugų, numatytų šio įstatymo 2 priede, patvirtintų antžeminių paslaugų teikėjų. Susisiekimo ministro sprendimas turi būti priimtas per 10 darbo dienų nuo komisijos sprendimo priėmimo dienos. Pagal šią dalį priimti sprendimai turi būti motyvuoti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -2047,7 +2199,10 @@ Pagal šio įstatymo 44, 45 ir 46 straipsnius išduoti leidimai vykdyti skrydži
 
 
 
-15. Susisiekimo ministras gali nustatyti teisę į šio įstatymo 2 priede nurodytų rūšių antžeminių paslaugų saviteiką ne mažiau kaip dviem vežėjams, jeigu jie buvo pasirinkti pagal objektyvius, aiškius ir nediskriminacinius kriterijus. Susisiekimo ministro sprendimas turi būti priimtas per 20 darbo dienų nuo Agentūros kreipimosi gavimo dienos. Pagal šią dalį priimti sprendimai turi būti motyvuoti.
+15. Susisiekimo ministras gali nustatyti teisę į šio įstatymo 2 priede nurodytų rūšių antžeminių paslaugų saviteiką ne mažiau kaip dviem vežėjams, jeigu jie buvo pasirinkti pagal objektyvius, aiškius ir nediskriminacinius kriterijus. Susisiekimo ministro sprendimas turi būti priimtas per 10 darbo dienų nuo komisijos sprendimo priėmimo dienos. Pagal šią dalį priimti sprendimai turi būti motyvuoti. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
@@ -2137,13 +2292,15 @@ Pagal šio įstatymo 44, 45 ir 46 straipsnius išduoti leidimai vykdyti skrydži
 
 
 
-24. Kai oro uostas pasiekia šio straipsnio 22 dalyje nustatytą vežamų krovinių kiekį, tačiau dar nepasiekia vežamų keleivių kiekio, šio straipsnio 1–21 dalių nuostatos netaikomos šio įstatymo 1 priedo 2 punkte nurodytoms antžeminėms paslaugoms.
+24. Kai oro uostas pasiekia šio straipsnio 22 dalyje nustatytą vežamų krovinių kiekį, tačiau dar nepasiekia vežamų keleivių skaičiaus, šio straipsnio 1–21 dalių nuostatos netaikomos šio įstatymo 1 priedo 2 punkte nurodytoms antžeminėms paslaugoms. Oro uoste, kuriame nėra pasiekiami šio straipsnio 22 dalyje nustatyti krovinių kiekiai ir keleivių skaičiai, antžeminės paslaugos teikiamos arba jų saviteika vyksta pagal oro uostą valdančios įmonės nustatytą tvarką ir sąlygas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
 
 
 
 
 25. Agentūra prižiūri, kaip teikiamos antžeminės paslaugos Lietuvos Respublikos tarptautiniuose oro uostuose.
- 
  
 
 
@@ -2223,30 +2380,176 @@ TEISĖS SKRAIDYTI ORLAIVIO ĮGULOS NARIU IR TEISĖS ATLIKTI ORLAIVIŲ TECHNINĘ 
 
 
 
-2. Teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą atėmimą vykdo LTSA.
-
-
-
-
-3. Teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą atėmimas vykdomas paimant teisę skraidyti orlaivio įgulos nariu, teisę atlikti orlaivių techninę priežiūrą suteikiančią licenciją.
-
-
-
-
-4. Teisę skraidyti orlaivio įgulos nariu, teisę atlikti orlaivių techninę priežiūrą suteikiančių licencijų paėmimo ir grąžinimo tvarką nustato susisiekimo ministras.
-
-
-
-
-
-
-
-
-
-
+2. Teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą atėmimą vykdo Agentūra. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
+
+
+
+
+3. Teisė skraidyti orlaivio įgulos nariu, teisė atlikti orlaivių techninę priežiūrą atimama panaikinant Agentūros išduotos licencijos, suteikiančios teisę skraidyti orlaivio įgulos nariu, teisę atlikti orlaivių techninę priežiūrą, galiojimą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
+
+
+
+
+4. Teisės skraidyti orlaivio įgulos nariu, teisės atlikti orlaivių techninę priežiūrą atėmimo ir grąžinimo tvarką nustato LTSA direktorius. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
+
+
+
+
+
+
+
+
+DEŠIMTASIS SKIRSNIS
+EKSPERIMENTINĖS KATEGORIJOS ORLAIVIO TINKAMUMO SKRAIDYTI PATIKRA
+ 
+
+
+53 straipsnis. Eksperimentinės kategorijos orlaivio tinkamumo skraidyti patikros vykdymas 
+
+
+1. Eksperimentinės kategorijos orlaivio tinkamumo skraidyti patikrą LTSA nustatyta tvarka turi teisę atlikti Agentūra ir (ar) eksperimentinės kategorijos orlaivio tinkamumo skraidyti patikros inspektoriai (toliau – inspektoriai). Agentūra, įvertinusi eksperimentinės kategorijos orlaivio tinkamumą skraidyti arba atsižvelgdama į inspektoriaus rekomendaciją, išduoda specialųjį tinkamumo skraidyti pažymėjimą, kuriuo patvirtinama, kad eksperimentinės kategorijos orlaivis yra tinkamas skraidyti.
+
+
+
+
+2. Asmenys, pageidaujantys atlikti eksperimentinės kategorijos orlaivio tinkamumo skraidyti patikrą ir teikti Agentūrai rekomendacijas dėl specialiojo tinkamumo skraidyti pažymėjimo išdavimo ar jo galiojimo laiko pratęsimo, turi gauti Agentūros išduodamą inspektoriaus patvirtinimą. Inspektorių patvirtinimai suteikiami, pakeičiami, atnaujinami ir panaikinami, inspektorių veiklos priežiūra atliekama LTSA nustatyta tvarka. Inspektorių patvirtinimai galioja neterminuotai.
+
+
+
+
+3. Asmenys, pageidaujantys gauti inspektoriaus patvirtinimą, turi atitikti šiuos reikalavimus:
+
+
+1) turėti galiojančią orlaivių techninės priežiūros specialisto licenciją arba turėti aukštąjį inžinerijos mokslų krypties, susijusios su orlaivių technine priežiūra ir (ar) tinkamumu skraidyti, išsilavinimą;
+
+
+
+
+2) turėti ne mažesnę kaip 3 metų patirtį orlaivių tinkamumo skraidyti priežiūros srityje; jeigu asmuo negali įrodyti atitikties šios dalies 1 punkto reikalavimui, patirties laikotarpis orlaivių tinkamumo skraidyti priežiūros srityje turi būti ne mažesnis kaip 6 metai;
+
+
+
+
+3) išmanyti ir sugebėti tinkamai taikyti teisės aktų nuostatas, susijusias su orlaivių tinkamumo skraidyti nustatymo procedūromis;
+
+
+
+
+4) sugebėti tinkamai atlikti eksperimentinės kategorijos orlaivio tinkamumo skraidyti patikrą praktikoje.
+
+
+
+
+
+
+4. Agentūra, siekdama paviešinti informaciją, kad subjektai, pageidaujantys, jog jų eksperimentinės kategorijos orlaivio tinkamumo skraidyti patikrą atliktų Agentūros patvirtintas inspektorius, turėtų patikimą informacijos šaltinį, savo interneto svetainėje viešai skelbia informaciją apie patvirtintus inspektorius: inspektoriaus vardą, pavardę, patvirtinimo datą ir numerį, kad būtų galima įsitikinti, jog inspektoriaus patvirtinimas galioja ir jis turi teisę atlikti eksperimentinės kategorijos orlaivio tinkamumo skraidyti patikrą ir teikti Agentūrai rekomendacijas dėl specialiojo tinkamumo skraidyti pažymėjimo išdavimo ar jo galiojimo laiko pratęsimo. Duomenys apie asmenį, kuris patvirtintas inspektoriumi, paskelbiami ne vėliau kaip kitą darbo dieną po inspektoriaus patvirtinimo dienos ir skelbiami tol, kol patvirtinimo galiojimas panaikinamas šio straipsnio 8 dalyje nustatytais atvejais. 
+
+
+
+
+5. Patvirtintas inspektorius įgyja teisę atlikti eksperimentinės kategorijos orlaivių tinkamumo skraidyti patikras ir teikti Agentūrai rekomendacijas dėl specialiųjų tinkamumo skraidyti pažymėjimų išdavimo ar jų galiojimo laiko pratęsimo.
+
+
+
+
+6. Inspektoriai, atlikdami eksperimentinės kategorijos orlaivio tinkamumo skraidyti patikrą ir teikdami rekomendacijas Agentūrai, privalo:
+
+
+1) savo vardu neįgalioti kitų asmenų ir kitiems asmenims neperleisti teisės vykdyti veiklą, kurią vykdyti teisė suteikta patvirtinimo pagrindu;
+
+
+
+
+2) užtikrinti, kad patvirtinimo pagrindu vykdoma veikla būtų vykdoma teisės aktų nustatyta tvarka, nešališkai, nebūtų daromas poveikis veiklos rezultatams;
+
+
+
+
+3) per Agentūros nustatytą terminą pranešti Agentūrai apie patvirtinime nurodytų duomenų pasikeitimą ir pateikti prašymą pakeisti turimą patvirtinimą – nurodyti pakeistus duomenis ir pateikti duomenų pasikeitimą patvirtinančius dokumentus; 
+
+
+
+
+4) visą veiklos vykdymo laikotarpį atitikti šio straipsnio 3 dalyje nustatytus reikalavimus;
+
+
+
+
+5) atlikti bent dvi eksperimentinės kategorijos orlaivių tinkamumo skraidyti patikras per metus. 
+
+
+
+
+
+
+7. Inspektorių veiklos sąlygų laikymosi priežiūrą atlieka Agentūra. 
+
+
+
+
+8. Agentūra inspektoriaus patvirtinimą panaikina, jeigu:
+
+
+1) paaiškėja, kad inspektorius Agentūrai pateikė suklastotus duomenis (dokumentus) dėl inspektoriaus patvirtinimo išdavimo;
+
+
+
+
+2) paaiškėja, kad inspektorius Agentūrai pateikė suklastotus duomenis (dokumentus) dėl specialiųjų tinkamumo skraidyti pažymėjimų išdavimo;
+
+
+
+
+3) paaiškėja, kad inspektorius pateikė rekomendaciją Agentūrai neatlikęs fizinės eksperimentinės kategorijos orlaivio patikros;
+
+
+
+
+4) vertindama inspektoriaus rekomendaciją ar pasirinktinai tikrindama orlaivį, Agentūra nustato akivaizdžius neatitikimus, kurių nepastebėjo inspektorius ir kuriems esant orlaiviui negali būti išduotas specialusis tinkamumo skraidyti pažymėjimas;
+
+
+
+
+5) inspektorius neatliko dviejų eksperimentinės kategorijos orlaivių tinkamumo skraidyti patikrų per metus ir nesikreipė į Agentūrą dėl patvirtinimo atnaujinimo; 
+
+
+
+
+6) inspektorius pateikia prašymą panaikinti jam išduotą patvirtinimą;
+
+
+
+
+7) inspektorius mirė.
+
+
+
+
+
+
+9. Asmuo, kurio patvirtinimas panaikinamas šio straipsnio 8 dalies 1–4 punktų pagrindu, gali teikti dokumentus dėl naujo patvirtinimo bendra tvarka ne anksčiau kaip po vienų metų nuo Agentūros sprendimo panaikinti jo patvirtinimo galiojimą priėmimo. 
+
+
+
+
+Papildyta skirsniu:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
+ 
+
+
+
+
+
+
  
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
@@ -2504,155 +2807,165 @@ ANTRASIS ANTŽEMINIŲ PASLAUGŲ SĄRAŠAS
 
 
  
-Lietuvos Respublikos
-aviacijos įstatymo
+Lietuvos Respublikos 
+aviacijos įstatymo 
 3 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 1993 m. sausio 18 d. Tarybos reglamentas (EEB) Nr. 95/93 dėl laiko tarpsnių paskirstymo Bendrijos oro uostuose bendrųjų taisyklių (OL 2004 m. specialusis leidimas, 7 skyrius, 2 tomas, p. 3) su paskutiniais pakeitimais, padarytais 2009 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 545/2009 (OL 2009 L 167, p. 24).
+1. 1993 m. sausio 18 d. Tarybos reglamentas (EEB) Nr. 95/93 dėl laiko tarpsnių paskirstymo Bendrijos oro uostuose bendrųjų taisyklių su paskutiniais pakeitimais, padarytais 2020 m. kovo 30 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/459.
 
 
 
 
-2. 1996 m. spalio 15 d. Tarybos direktyva 96/67/EB dėl patekimo į Bendrijos oro uostuose teikiamų antžeminių paslaugų rinką (OL 2004 m. specialusis leidimas, 7 skyrius, 2 tomas, p. 496) su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 29 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1882/2003 (OL 2004 m. specialusis leidimas, 1 skyrius, 4 tomas, p. 447).
+2. 1996 m. spalio 15 d. Tarybos direktyva 96/67/EB dėl patekimo į Bendrijos oro uostuose teikiamų antžeminių paslaugų rinką su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 29 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1882/2003.
 
 
 
 
-3. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 261/2004, nustatantis bendras kompensavimo ir pagalbos keleiviams taisykles atsisakymo vežti ir skrydžių atšaukimo arba atidėjimo ilgam laikui atveju, panaikinantis Reglamentą (EEB) Nr. 295/91 (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 10).
+3. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 261/2004, nustatantis bendras kompensavimo ir pagalbos keleiviams taisykles atsisakymo vežti ir skrydžių atšaukimo arba atidėjimo ilgam laikui atveju, panaikinantis Reglamentą (EEB) Nr. 295/91.
 
 
 
 
-4. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 549/2004, nustatantis bendro Europos dangaus sukūrimo pagrindą (pagrindų reglamentas) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 23), su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009 (OL 2009 L 300, p. 34).
+4. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 549/2004, nustatantis bendro Europos dangaus sukūrimo pagrindą (pagrindų reglamentas), su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009.
 
 
 
 
-5. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (paslaugų teikimo reglamentas) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 31) su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009 (OL 2009 L 300, p. 34).
+5. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (paslaugų teikimo reglamentas) su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1070/2009.
 
 
 
 
-6. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 785/2004 dėl draudimo reikalavimų oro vežėjams ir orlaivių naudotojams (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 160) su paskutiniais pakeitimais, padarytais 2010 m. balandžio 6 d. Komisijos reglamentu (ES) Nr. 285/2010 (OL 2010 L 87, p. 19). 
+6. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 785/2004 dėl draudimo reikalavimų oro vežėjams ir orlaivių naudotojams su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243.
 
 
 
 
-7. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 847/2004 dėl derybų dėl valstybių narių ir trečiųjų šalių susitarimų dėl oro susisiekimo ir jų įgyvendinimo (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 193).
+7. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 847/2004 dėl derybų dėl valstybių narių ir trečiųjų šalių susitarimų dėl oro susisiekimo ir jų įgyvendinimo.
 
 
 
 
-8. 2005 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2111/2005 dėl oro vežėjų, kuriems taikomas draudimas vykdyti veiklą Bendrijoje, Bendrijos sąrašo sudarymo ir oro transporto keleivių informavimo apie skrydį vykdančio oro vežėjo tapatybę bei panaikinantis Direktyvos 2004/36/EB 9 straipsnį (OL 2005 L 344, p. 15) su paskutiniais pakeitimais, padarytais 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1139 (OL 2018 L 212, p. 1).
+8. 2005 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2111/2005 dėl oro vežėjų, kuriems taikomas draudimas vykdyti veiklą Bendrijoje, Bendrijos sąrašo sudarymo ir oro transporto keleivių informavimo apie skrydį vykdančio oro vežėjo tapatybę bei panaikinantis Direktyvos 2004/36/EB 9 straipsnį su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243.
 
 
 
 
-9. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru (OL 2006 L 204, p. 1).
+9. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru.
 
 
 
 
-10. 2008 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 300/2008 dėl civilinės aviacijos saugumo bendrųjų taisyklių ir panaikinantis Reglamentą (EB) Nr. 2320/2002 (OL 2008 L 97, p. 72) su paskutiniais pakeitimais, padarytais 2010 m. sausio 8 d. Komisijos reglamentu (ES) Nr. 18/2010 (OL 2010 L 7, p. 3).
+10. 2008 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 300/2008 dėl civilinės aviacijos saugumo bendrųjų taisyklių ir panaikinantis Reglamentą (EB) Nr. 2320/2002 su paskutiniais pakeitimais, padarytais 2010 m. sausio 8 d. Komisijos reglamentu (ES) Nr. 18/2010.
 
 
 
 
-11. 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (OL 2008 L 293, p. 3) su paskutiniais pakeitimais, padarytais 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1139 (OL 2018 L 212, p. 1).
+11. 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių su paskutiniais pakeitimais, padarytais 2020 m. gegužės 25 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/696. 
 
 
 
 
-12. 2009 m. balandžio 2 d. Komisijos reglamentas (EB) Nr. 272/2009, kuriuo papildomi Europos Parlamento ir Tarybos reglamento (EB) Nr. 300/2008 priede nustatyti bendrieji pagrindiniai civilinės aviacijos saugumo standartai (OL 2009 L 91, p. 7), su paskutiniais pakeitimais, padarytais 2013 m. kovo 19 d. Komisijos reglamentu (ES) Nr. 245/2013 (OL 2013 L 77, p. 5).
+12. 2009 m. balandžio 2 d. Komisijos reglamentas (EB) Nr. 272/2009, kuriuo papildomi Europos Parlamento ir Tarybos reglamento (EB) Nr. 300/2008 priede nustatyti bendrieji pagrindiniai civilinės aviacijos saugumo standartai, su paskutiniais pakeitimais, padarytais 2013 m. kovo 19 d. Komisijos reglamentu (ES) Nr. 245/2013.
 
 
 
 
-13. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 996/2010 dėl civilinės aviacijos avarijų ir incidentų tyrimo ir prevencijos, kuriuo panaikinama Direktyva 94/56/EB (OL 2010 L 295, p. 35), su paskutiniais pakeitimais, padarytais 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1139 (OL 2018 L 212, p. 1).
+13. 2010 m. spalio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 996/2010 dėl civilinės aviacijos avarijų ir incidentų tyrimo ir prevencijos, kuriuo panaikinama Direktyva 94/56/EB, su paskutiniais pakeitimais, padarytais 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1139.
 
 
 
 
-14. 2011 m. lapkričio 3 d. Komisijos reglamentas (ES) Nr. 1178/2011, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su civilinės aviacijos orlaivių įgula susiję techniniai reikalavimai ir administracinės procedūros (OL 2011 L 311, p. 1), su paskutiniais pakeitimais, padarytais 2018 m. liepos 27 d. Komisijos reglamentu (ES) 2018/1065 (OL 2018 L 192, p. 31). 
+14. 2011 m. lapkričio 3 d. Komisijos reglamentas (ES) Nr. 1178/2011, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su civilinės aviacijos orlaivių įgula susiję techniniai reikalavimai ir administracinės procedūros, su paskutiniais pakeitimais, padarytais 2020 m. kovo 4 d. Komisijos deleguotuoju reglamentu (ES) 2020/723. 
 
 
 
 
-15. 2012 m. rugpjūčio 3 d. Komisijos reglamentas (ES) Nr. 748/2012, kuriuo nustatomos orlaivio tinkamumo skraidyti sertifikavimo, orlaivio ir susijusių gaminių, dalių bei prietaisų aplinkosauginio sertifikavimo, taip pat projektavimo ir gamybinių organizacijų sertifikavimo įgyvendinimo taisyklės (OL 2012 L 224, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. sausio 5 d. Komisijos reglamentu (ES) 2016/5 (OL 2016 L 3, p. 3). 
+15. 2012 m. rugpjūčio 3 d. Komisijos reglamentas (ES) Nr. 748/2012, kuriuo nustatomos orlaivio tinkamumo skraidyti sertifikavimo, orlaivio ir susijusių gaminių, dalių bei prietaisų aplinkosauginio sertifikavimo, taip pat projektavimo ir gamybinių organizacijų sertifikavimo įgyvendinimo taisyklės, su paskutiniais pakeitimais, padarytais 2020 m. sausio 28 d. Komisijos deleguotuoju reglamentu (ES) 2020/570. 
 
 
 
 
-16. 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo reglamentas (ES) Nr. 1035/2011 ir reglamentai (EB) Nr. 1265/2007, (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010 (OL 2012 L 281, p. 1), su paskutiniais pakeitimais, padarytais 2016 m. liepos 20 d. Komisijos įgyvendinimo reglamentu (ES) 2016/1185 (OL 2016 L 196, p. 3).
+16. 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo reglamentas (ES) Nr. 1035/2011 ir reglamentai (EB) Nr. 1265/2007, (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010, su paskutiniais pakeitimais, padarytais 2020 m. birželio 26 d. Komisijos įgyvendinamuoju reglamentu (ES) 2020/886.
 
 
 
 
-17. 2012 m. spalio 5 d. Komisijos reglamentas (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros (OL 2012 L 296, p. 1), su paskutiniais pakeitimais, padarytais 2018 m. liepos 23 d. Komisijos reglamentu (ES) 2018/1042 (OL 2018 L 188, p. 3).
+17. 2012 m. spalio 5 d. Komisijos reglamentas (ES) Nr. 965/2012, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams susiję techniniai reikalavimai ir administracinės procedūros, su paskutiniais pakeitimais, padarytais 2019 m. rugpjūčio 1 d. Komisijos įgyvendinamuoju reglamentu (ES) 2019/1387.
 
 
 
 
-18. 2014 m. vasario 12 d. Komisijos reglamentas (ES) Nr. 139/2014, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su aerodromais susiję reikalavimai ir administracinės procedūros (OL 2014 L 44, p. 1), su paskutiniais pakeitimais, padarytais 2018 m. kovo 14 d. Komisijos reglamentu (ES) 2018/401 (OL 2018 L 72, p. 17).
+18. 2014 m. vasario 12 d. Komisijos reglamentas (ES) Nr. 139/2014, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su aerodromais susiję reikalavimai ir administracinės procedūros, su paskutiniais pakeitimais, padarytais 2018 m. kovo 14 d. Komisijos reglamentu (ES) 2018/401.
 
 
 
 
-19. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 376/2014 dėl pranešimo apie civilinės aviacijos įvykius, jų analizės ir tolesnės veiklos, kuriuo iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 996/2010 ir panaikinama Europos Parlamento ir Tarybos direktyva 2003/42/EB ir Komisijos reglamentai (EB) Nr. 1321/2007 ir (EB) Nr. 1330/2007 (OL 2014 L 122, p. 18), su paskutiniais pakeitimais, padarytais 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1139 (OL 2018 L 212, p. 1).
+19. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 376/2014 dėl pranešimo apie civilinės aviacijos įvykius, jų analizės ir tolesnės veiklos, kuriuo iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 996/2010 ir panaikinama Europos Parlamento ir Tarybos direktyva 2003/42/EB ir Komisijos reglamentai (EB) Nr. 1321/2007 ir (EB) Nr. 1330/2007, su paskutiniais pakeitimais, padarytais 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1139.
 
 
 
 
-20. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 598/2014, kuriuo pagal darnųjį metodą nustatomos su triukšmu susijusių naudojimo apribojimų taikymo Sąjungos oro uostuose taisyklės ir procedūros ir panaikinama Direktyva 2002/30/EB (OL 2014 L 173, p. 65).
+20. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 598/2014, kuriuo pagal darnųjį metodą nustatomos su triukšmu susijusių naudojimo apribojimų taikymo Sąjungos oro uostuose taisyklės ir procedūros ir panaikinama Direktyva 2002/30/EB.  
 
 
 
 
-21. 2014 m. balandžio 29 d. Komisijos reglamentas (ES) Nr. 452/2014, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams, vykdomiems trečiųjų šalių vežėjų, susiję techniniai reikalavimai ir administracinės procedūros (OL 2014 L 133, p. 12), su paskutiniais pakeitimais, padarytais 2016 m. liepos 15 d. Komisijos reglamentu (ES) 2016/1158 (OL 2016 L 192, p. 21). 
+21. 2014 m. balandžio 29 d. Komisijos reglamentas (ES) Nr. 452/2014, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su orlaivių naudojimu skrydžiams, vykdomiems trečiųjų šalių vežėjų, susiję techniniai reikalavimai ir administracinės procedūros, su paskutiniais pakeitimais, padarytais 2016 m. liepos 15 d. Komisijos reglamentu (ES) 2016/1158.
 
 
 
 
-22. 2014 m. lapkričio 26 d. Komisijos reglamentas (ES) Nr. 1321/2014 dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo (OL 2014 L 362, p. 1) su paskutiniais pakeitimais, padarytais 2018 m. rugpjūčio 14 d. Komisijos reglamentu (ES) 2018/1142 (OL 2018 L 207, p. 2). 
+22. 2014 m. lapkričio 26 d. Komisijos reglamentas (ES) Nr. 1321/2014 dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo su paskutiniais pakeitimais, padarytais 2020 m. vasario 25 d. Komisijos įgyvendinamuoju reglamentu (ES) 2020/270. 
 
 
 
 
-23. 2015 m. vasario 20 d. Komisijos reglamentas (ES) 2015/340, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su skrydžių vadovų licencijomis ir pažymėjimais susiję techniniai reikalavimai ir administracinės procedūros, iš dalies keičiamas Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012 ir panaikinamas Komisijos reglamentas (ES) Nr. 805/2011 (OL 2015 L 63, p. 1).
+23. 2015 m. vasario 20 d. Komisijos reglamentas (ES) 2015/340, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomi su skrydžių vadovų licencijomis ir pažymėjimais susiję techniniai reikalavimai ir administracinės procedūros, iš dalies keičiamas Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012 ir panaikinamas Komisijos reglamentas (ES) Nr. 805/2011.
 
 
 
 
-24. 2015 m. lapkričio 5 d. Komisijos įgyvendinimo reglamentas (ES) 2015/1998, kuriuo nustatomos išsamios bendrųjų pagrindinių aviacijos saugumo standartų įgyvendinimo priemonės (OL 2015 L 299, p. 1), su paskutiniais pakeitimais, padarytais 2018 m. sausio 9 d. Komisijos įgyvendinimo reglamentu (ES) 2018/55 (OL 2018 L 10, p. 5).
+24. 2015 m. lapkričio 5 d. Komisijos įgyvendinimo reglamentas (ES) 2015/1998, kuriuo nustatomos išsamios bendrųjų pagrindinių aviacijos saugumo standartų įgyvendinimo priemonės, su paskutiniais pakeitimais, padarytais 2021 m. vasario 18 d. Komisijos įgyvendinimo reglamentu (ES) 2021/255.
 
 
 
 
-25. 2018 m. kovo 13 d. Komisijos reglamentas (ES) 2018/395, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomos išsamios skrydžių oro balionais vykdymo taisyklės (OL 2018 L 71, p. 10).
+25. 2017 m. kovo 1 d. Komisijos įgyvendinimo reglamentas (ES) 2017/373, kuriuo nustatomi oro eismo valdymo ir oro navigacijos paslaugų teikėjų, kitų oro eismo valdymo tinklo funkcijų vykdytojų ir tų subjektų priežiūros bendrieji reikalavimai, panaikinamas Reglamentas (EB) Nr. 482/2008, įgyvendinimo reglamentai (ES) Nr. 1034/2011, (ES) Nr. 1035/2011 ir (ES) 2016/1377 ir iš dalies keičiamas Reglamentas (ES) Nr. 677/2011.
 
 
 
 
-26. 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1139 dėl bendrųjų civilinės aviacijos taisyklių, ir kuriuo įsteigiama Europos Sąjungos aviacijos saugos agentūra, iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 2111/2005, (EB) Nr. 1008/2008, (ES) Nr. 996/2010, (ES) Nr. 376/2014 ir direktyvos 2014/30/ES ir 2014/53/ES bei panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 552/2004 ir (EB) Nr. 216/2008 bei Tarybos reglamentas (EEB) Nr. 3922/91 (OL 2018 L 212, p. 1).
+26. 2018 m. kovo 13 d. Komisijos reglamentas (ES) 2018/395, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 216/2008 nustatomos išsamios skrydžių oro balionais vykdymo taisyklės, su paskutiniais pakeitimais, padarytais 2020 m. kovo 4 d. Komisijos įgyvendinimo reglamentu (ES) 2020/357.
 
 
 
 
-27. 2019 m. vasario 11 d. Komisijos įgyvendinimo reglamentas (ES) 2019/317, kuriuo nustatoma Bendro Europos dangaus veiklos rezultatų ir mokesčių sistema ir panaikinami įgyvendinimo reglamentai (ES) Nr. 390/2013 ir (ES) Nr. 391/2013 (OL 2019 L 56, p. 1).
+27. 2018 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1139 dėl bendrųjų civilinės aviacijos taisyklių, ir kuriuo įsteigiama Europos Sąjungos aviacijos saugos agentūra, iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 2111/2005, (EB) Nr. 1008/2008, (ES) Nr. 996/2010, (ES) Nr. 376/2014 ir direktyvos 2014/30/ES ir 2014/53/ES bei panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 552/2004 ir (EB) Nr. 216/2008 bei Tarybos reglamentas (EEB) Nr. 3922/91.
 
 
 
 
-28. 2019 m. gegužės 24 d. Komisijos įgyvendinimo reglamentas (ES) 2019/947 dėl bepiločių orlaivių naudojimo taisyklių ir tvarkos su paskutiniais pakeitimais, padarytais 2020 m. gegužės 12 d. Komisijos įgyvendinimo reglamentu (ES) 2020/639. 
-Papildyta punktu:
-Nr. XIV-115, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28973
+28. 2018 m. gruodžio 14 d. Komisijos įgyvendinimo reglamentas (ES) 2018/1976, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) 2018/1139 nustatomos išsamios skrydžių vykdymo sklandytuvais ir sklandytuvų skrydžio įgulos licencijavimo taisyklės.
+
+
+
+
+29. 2019 m. vasario 11 d. Komisijos įgyvendinimo reglamentas (ES) 2019/317, kuriuo nustatoma Bendro Europos dangaus veiklos rezultatų ir mokesčių sistema ir panaikinami įgyvendinimo reglamentai (ES) Nr. 390/2013 ir (ES) Nr. 391/2013.
+
+
+
+
+30. 2019 m. gegužės 24 d. Komisijos įgyvendinimo reglamentas (ES) 2019/947 dėl bepiločių orlaivių naudojimo taisyklių ir tvarkos su paskutiniais pakeitimais, padarytais 2020 m. birželio 4 d. Komisijos įgyvendinamuoju reglamentu (ES) 2020/746. 
+
+
+Priedo pakeitimai:
+Nr. XIV-439, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14596
  
-
-
  
  
 Pakeitimai:
