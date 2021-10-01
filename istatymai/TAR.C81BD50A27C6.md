@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-09-30
+Suvestinė redakcija nuo 2021-10-01 iki 2021-12-28
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 66-1572, i. k. 0961010ISTA00I-1367
  
@@ -748,7 +748,10 @@ reguliavimo klausimais
 Sveikatos apsaugos ministerija:
 
 
-1) šio įstatymo nustatyta tvarka steigia, reorganizuoja ar likviduoja jai pavaldžias LNSS įstaigas;
+1) neteko galios nuo 2021-10-01;
+Straipsnio punkto pakeitimai:
+Nr. XIV-455, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15473
+ 
 
 
 
@@ -769,7 +772,10 @@ Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
 
 
 
-4) nustato pavaldžioms įstaigoms privalomas sveikatos priežiūros užduotis ir jų finansavimo bei įgyvendinimo tvarką;
+4) nustato įstaigoms, kuriose įgyvendina valstybės, kaip įstaigos savininkės, teises ir pareigas, privalomas sveikatos priežiūros užduotis ir jų finansavimo bei įgyvendinimo tvarką;
+Straipsnio punkto pakeitimai:
+Nr. XIV-455, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15473
+ 
 
 
 
@@ -835,7 +841,9 @@ nustatymas
 
 
 
-2. LNSS įstaigų steigėjai ir įstaigos privalo užtikrinti, kad būtų įgyvendinti minimalūs LNSS įstaigų išdėstymo ir jų struktūros reikalavimai.
+2. LNSS įstaigų savininko (dalininkų) teises ir pareigas įgyvendinančios institucijos ir įstaigos privalo užtikrinti, kad būtų įgyvendinti minimalūs LNSS įstaigų išdėstymo ir jų struktūros reikalavimai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-455, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15473
  
 
 
@@ -1821,17 +1829,22 @@ LNSS viešųjų įstaigų steigėjais gali būti ir viešosios įstaigos savinin
 
 
 
-2) savivaldybės (savivaldybių tarybos įgyvendina savivaldybių, kaip viešųjų įstaigų savininkių, teises ir pareigas, jeigu įstatymai nenustato kitaip);
+2) savivaldybė arba dvi ir daugiau savivaldybių (savivaldybės taryba įgyvendina savivaldybės, kaip viešųjų įstaigų savininkės (dalininkės), teises ir pareigas, jeigu įstatymai nenustato kitaip);
 
 
 
 
-3) valstybinės aukštosios mokyklos (universitetai) kartu su valstybe (Sveikatos apsaugos ministerija įgyvendina valstybės, kaip viešųjų įstaigų dalininkės, teises ir pareigas), gavus Vyriausybės leidimą;
+3) savivaldybė (savivaldybės) kartu su valstybe (Sveikatos apsaugos ministerija įgyvendina valstybės, kaip viešosios įstaigos dalininkės, teises ir pareigas, savivaldybės taryba (savivaldybių tarybos) įgyvendina savivaldybės (savivaldybių), kaip viešosios įstaigos dalininkės (dalininkių), teises ir pareigas, jeigu įstatymai nenustato kitaip);
 
 
 
 
-4) valstybiniai mokslinių tyrimų institutai kartu su valstybe (Sveikatos apsaugos ministerija įgyvendina valstybės, kaip viešųjų įstaigų dalininkės, teises ir pareigas), gavę Vyriausybės leidimą. 
+4) valstybinės aukštosios mokyklos (universitetai) kartu su valstybe (Sveikatos apsaugos ministerija įgyvendina valstybės, kaip viešųjų įstaigų dalininkės, teises ir pareigas), gavusios (gavę) Vyriausybės leidimą (Vyriausybės leidimas būtinas ir tais atvejais, kai valstybinės aukštosios mokyklos (universitetai) tampa jau įsteigtų LNSS viešųjų įstaigų, kurių savininkė yra valstybė, dalininkėmis (dalininkais);
+
+
+
+
+5) valstybiniai mokslinių tyrimų institutai kartu su valstybe (Sveikatos apsaugos ministerija įgyvendina valstybės, kaip viešųjų įstaigų dalininkės, teises ir pareigas), gavę Vyriausybės leidimą (Vyriausybės leidimas būtinas ir tais atvejais, kai valstybiniai mokslinių tyrimų institutai tampa jau įsteigtų LNSS viešųjų įstaigų, kurių savininkė yra valstybė, dalininkais).
 
 
 
@@ -1840,6 +1853,7 @@ Straipsnio pakeitimai:
 Nr. XI-767, 2010-04-20, Žin., 2010, Nr. 51-2477 (2010-05-04)
 Straipsnio pakeitimai:
 Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+Nr. XIV-455, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15473
  
 
 
@@ -1953,6 +1967,14 @@ Nr. XII-1335, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17988
 6) visuotinio dalininkų susirinkimo kompetencija ir sušaukimo tvarka; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+ 
+
+
+
+
+61) kiekvieno dalininko balsų dalis visuotiniame dalininkų susirinkime, jeigu įstaigos dalininkų yra du ir daugiau;
+Papildyta straipsnio punktu:
+Nr. XIV-455, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15473
  
 
 
@@ -2102,26 +2124,42 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 
 
 
-3. LNSS viešosios įstaigos, išskyrus valstybinių aukštųjų mokyklų (universitetų) ar valstybinių mokslinių tyrimų institutų kartu su valstybe įsteigtų įstaigų stebėtojų tarybas, stebėtojų taryba sudaroma iš dviejų LNSS viešosios įstaigos savininko teises ir pareigas įgyvendinančios institucijos paskirtų asmenų; dviejų savivaldybės, kurios teritorijoje yra įstaigos buveinė, tarybos paskirtų asmenų ir vieno įstaigos pagal Darbo kodeksą veikiančio darbuotojų atstovo paskirto asmens. Stebėtojų tarybos narių kadencijų skaičius nėra ribojamas. 
+3. LNSS viešosios įstaigos, kurios savininkė yra valstybė arba savivaldybė, stebėtojų taryba sudaroma iš dviejų LNSS viešosios įstaigos savininko teises ir pareigas įgyvendinančios institucijos paskirtų asmenų; dviejų savivaldybės, kurios teritorijoje yra įstaigos buveinė, tarybos paskirtų asmenų ir vieno įstaigos pagal Darbo kodeksą veikiančio darbuotojų atstovo paskirto asmens. 
 
 
 
 
-4. Valstybinių aukštųjų mokyklų (universitetų) ar valstybinių mokslinių tyrimų institutų kartu su valstybe įsteigtų įstaigų stebėtojų taryba sudaroma iš dviejų Sveikatos apsaugos ministerijos paskirtų asmenų, dviejų valstybinės aukštosios mokyklos (universiteto) ar valstybinio mokslinių tyrimų instituto vadovo paskirtų asmenų, vieno savivaldybės, kurios teritorijoje yra valstybinė aukštoji mokykla (universitetas), tarybos paskirto asmens arba vieno savivaldybės, kurios teritorijoje yra valstybinis mokslinių tyrimų institutas, tarybos paskirto asmens ir vieno įstaigos pagal Darbo kodeksą veikiančio darbuotojų atstovo paskirto asmens.
+4. LNSS viešosios įstaigos, kurios dalininkės yra dvi ir daugiau savivaldybių, stebėtojų taryba sudaroma iš LNSS viešosios įstaigos dalininkų teises ir pareigas įgyvendinančių savivaldybių tarybų paskirtų asmenų (po du asmenis iš kiekvienos savivaldybės) ir vieno įstaigos pagal Darbo kodeksą veikiančio darbuotojų atstovo paskirto asmens.
 
 
 
 
-5. Į stebėtojų tarybą negali būti paskirti asmenys, kurie dirba įstaigos vadovu, vadovo pavaduotoju, padalinių ir filialų vadovais, vyriausiaisiais finansininkais (buhalteriais), dirba institucijose, vykdančiose privalomąjį sveikatos draudimą, taip pat Pacientų sveikatai padarytos žalos nustatymo komisijoje, veikiančioje prie Sveikatos apsaugos ministerijos. 
+5. LNSS viešosios įstaigos, kurios dalininkės yra valstybė ir savivaldybė (savivaldybės), stebėtojų taryba sudaroma iš dviejų Sveikatos apsaugos ministerijos paskirtų asmenų, LNSS viešosios įstaigos dalininkų teises ir pareigas įgyvendinančių savivaldybių tarybų paskirtų asmenų (po du asmenis iš kiekvienos savivaldybės) ir vieno įstaigos pagal Darbo kodeksą veikiančio darbuotojų atstovo paskirto asmens.
 
 
 
 
-6. Stebėtojų tarybos funkcijos nustatomos LNSS viešosios įstaigos įstatuose. 
+6. LNSS viešosios įstaigos, kurios dalininkai yra valstybinės aukštosios mokyklos (universitetai) ar valstybiniai mokslinių tyrimų institutai kartu su valstybe, stebėtojų taryba sudaroma iš dviejų Sveikatos apsaugos ministerijos paskirtų asmenų, dviejų valstybinės aukštosios mokyklos (universiteto) ar valstybinio mokslinių tyrimų instituto vadovo paskirtų asmenų, vieno savivaldybės, kurios teritorijoje yra valstybinė aukštoji mokykla (universitetas), tarybos paskirto asmens arba vieno savivaldybės, kurios teritorijoje yra valstybinis mokslinių tyrimų institutas, tarybos paskirto asmens ir vieno įstaigos pagal Darbo kodeksą veikiančio darbuotojų atstovo paskirto asmens.
+
+
+
+
+7. Į stebėtojų tarybą negali būti paskirti asmenys, kurie dirba įstaigos vadovu, vadovo pavaduotoju, padalinių ir filialų vadovais, vyriausiaisiais finansininkais (buhalteriais), dirba institucijose, vykdančiose privalomąjį sveikatos draudimą, taip pat Pacientų sveikatai padarytos žalos nustatymo komisijoje, veikiančioje prie Sveikatos apsaugos ministerijos.
+
+
+
+
+8. Stebėtojų tarybos narių kadencijų skaičius nėra ribojamas.  
+
+
+
+
+9. Stebėtojų tarybos funkcijos nustatomos LNSS viešosios įstaigos įstatuose.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
+Nr. XIV-455, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15473
  
 
 
@@ -2405,7 +2443,7 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 
 
 
-2. Valstybės asmens sveikatos priežiūros viešųjų įstaigų, kurios yra pavaldžios Sveikatos apsaugos ministerijai, nomenklatūra:
+2. Valstybės asmens sveikatos priežiūros viešųjų įstaigų, kurios yra pavaldžios Sveikatos apsaugos ministerijai, ir asmens sveikatos priežiūros viešųjų įstaigų, kurių dalininkės yra savivaldybė (savivaldybės) kartu su valstybe, nomenklatūra:
 
 
 1) ligoninės;
@@ -2421,17 +2459,9 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 3) specializuotos ligoninės, medicininės reabilitacijos ir sanatorinio gydymo įstaigos.
 
 
-
-
-3. Šio straipsnio 1 dalies 1–7 punktuose nurodytos LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektai savivaldybės tarybos motyvuotu sprendimu gali veikti kaip atskiri juridiniai asmenys arba kaip šio straipsnio 1 dalies 1 ir 2 punktuose nurodytų asmens sveikatos priežiūros viešųjų įstaigų padaliniai (filialai). 
-TAR pastaba. 3 dalis taikoma tik po įstatymo Nr. XIII-63 įsigaliojimo (2016-12-15) reorganizuojamoms Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 39 straipsnio 1 dalyje nurodytos LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros įstaigoms
-Papildyta straipsnio dalimi:
-Nr. XII-1335, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17988
 Straipsnio dalies pakeitimai:
-Nr. XIII-63, 2016-12-08, paskelbta TAR 2016-12-14, i. k. 2016-28883
+Nr. XIV-455, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15473
  
-
-
 
 
 Straipsnio pakeitimai:
@@ -3840,3 +3870,8 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5, 45
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-142, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00263
 Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 19 straipsnio pakeitimo įstatymas
+ 
+30.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-455, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15473
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 10, 11, 27, 29, 33 ir 39 straipsnių pakeitimo įstatymas
