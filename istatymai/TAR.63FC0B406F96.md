@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/63fc0b406f9611e8ae2bfd1913d66d57"
 
 # Lietuvos Respublikos nacionalinės plėtros įstaigų įstatymas
 
-Suvestinė redakcija nuo 2021-09-30 iki 2021-09-30
+Suvestinė redakcija nuo 2021-10-01 iki 2022-11-09
  
 Įstatymas paskelbtas: TAR 2018-06-14, i. k. 2018-09936
  
@@ -280,6 +280,18 @@ NPĮ PRIEŽIŪRA IR ATSAKOMYBĖ UŽ REIKALAVIMŲ PAŽEIDIMUS
 2. Informacijos, kurią priežiūros institucija gauna priežiūros tikslu, apsaugai taikomas Lietuvos Respublikos Lietuvos banko įstatymas.
  
 
+171 straipsnis. Duomenų, susijusių su skolinimo priemonėmis, teikimas, gavimas ir tvarkymas 
+
+1. NPĮ privalo priežiūros institucijai teikti duomenis, įskaitant asmens duomenis, apie NPĮ tiesiogiai (ne per finansų tarpininkus) teikiamų ir administruojamų paskolų gavėjus ir jiems suteiktas paskolas, kaip jos suprantamos pagal priežiūros institucijos teisės aktus, prievolių įvykdymo užtikrinimo davėjus ir turi teisę naudotis iš priežiūros institucijos gautais duomenimis priežiūros institucijos nustatyta tvarka.
+
+2. Priežiūros institucija, atlikdama savo funkcijas, vadovaudamasi asmens duomenų teisinę apsaugą reglamentuojančiais teisės aktais, savo nustatyta tvarka turi teisę tvarkyti šio straipsnio 1 dalyje nurodytus NPĮ pateiktus duomenis, įskaitant asmens duomenis.
+
+3. Šiame straipsnyje nurodytų asmens duomenų tvarkymo tikslas – užtikrinti priežiūros institucijos teisę gauti jos funkcijoms atlikti reikalingą informaciją ir sudaryti sąlygas NPĮ įvertinti paskolos gavėjų kreditingumą. 
+
+Papildyta straipsniu:
+Nr. XIV-538, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20297
+ 
+
 18 straipsnis. Priežiūros institucijos taikomos poveikio priemonės, jų taikymo pagrindai ir tvarka
 
 1. Priežiūros institucija taiko šias poveikio priemones:
@@ -341,7 +353,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-Respublikos Prezidentė                                                                                        Dalia Grybauskaitė
+Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
 
  
  
