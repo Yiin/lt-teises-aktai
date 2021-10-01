@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2020-04-01 iki 2021-09-30
+Suvestinė redakcija nuo 2021-10-01 iki 2022-07-15
  
 Įstatymas paskelbtas: Žin. 1995, Nr. 3-37, i. k. 0941010ISTA000I-733
  
@@ -155,6 +155,22 @@ Nr. XIII-2318, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12113
 
 
 11. Kultūrinis kraštovaizdis – žmogaus veiklos sukurtas ir jo sambūvį su aplinka atspindintis kraštovaizdis.
+
+
+
+
+111. Kultūros kelias – kultūros paveldo, kultūrinių kraštovaizdžių, kultūros ir švietimo bendradarbiavimo priemonėmis sukurta teminių komunikacijos kelių sistema, kuria siekiama atgaivinti ir įprasminti su istoriniais keliais, asmenybėmis ir reiškiniais, įvykiais, papročiais ar tradicijomis susijusias kultūros vertybes, sudaryti sąlygas jas pažinti, skatinti visuomenės bei vietos bendruomenių įsitraukimą į šią veiklą ir atsakingumą atskleidžiant ir išryškinant jų kultūrinį tapatumą nacionaliniame ir europiniame kontekste. 
+Papildyta straipsnio dalimi:
+Nr. XIV-540, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20299
+ 
+
+
+
+
+112. Kultūros kelio lygmuo – kultūrinė bei geografinė ir (ar) teritorinė administracinė aprėptis, kuria įgyvendinamas kultūros kelias. 
+Papildyta straipsnio dalimi:
+Nr. XIV-540, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20299
+ 
 
 
 
@@ -440,6 +456,34 @@ Nr. X-1244, 2007-06-28, Žin., 2007, Nr. 80-3218 (2007-07-19)
 
 
 
+31 straipsnis. Kultūros kelio lygmenys Lietuvoje
+
+
+1. Regioninis kultūros kelio lygmuo aprėpia kultūros kelią, vystomą ne mažiau kaip trijų savivaldybių mastu. Šio lygmens kultūros kelio tema remiasi regiono ir vietos kultūros ištekliais: istorija, materialiuoju ir nematerialiuoju paveldu, krašto istorijai reikšmingomis asmenybėmis, siekiant įtraukti ne tik vietos bendruomenę, bet ir suinteresuotas grupes, stiprinti jų kultūrinę edukaciją bei kultūrinę tapatybę. Šiuo lygmeniu rengiami pažintiniai maršrutai nuolat aktualinami rengiant jų populiarinimo akcijas, siekiant pritraukti lankytojų iš visos Lietuvos.
+
+
+
+
+2. Nacionalinis kultūros kelio lygmuo aprėpia kultūros kelią, vystomą ne mažiau kaip trijuose Lietuvos regionuose arba ne mažiau kaip šešiose Lietuvos savivaldybėse, o dalis kultūros kelio gali būti vystoma ne Lietuvos teritorijoje ir (arba) bendradarbiaujant su kitos šalies organizacijomis. Šio lygmens kultūros kelio tema remiasi Lietuvai reikšmingais istoriniais procesais ir reiškiniais, ja atskleidžiamas ir populiarinamas materialusis ar nematerialusis kultūros paveldas ir (arba) istorinės asmenybės, jų sąsajos su bendra istorija ir vertybėmis. Šiuo lygmeniu rengiami tęstiniai kultūrinio turizmo maršrutai Lietuvos teritorijoje ir už jos ribų, jie populiarinami skatinant vietinį ir atvykstamąjį turizmą. 
+
+
+
+
+3. Tarptautinis kultūros kelio lygmuo aprėpia kultūros kelią, vystomą ne mažiau kaip dviejų kaimyninių valstybių, įskaitant Lietuvą, teritorijose bendradarbiaujant su šių valstybių organizacijomis. Šio lygmens kultūros kelio tema remiasi Lietuvai reikšmingu materialiuoju ir nematerialiuoju kultūros paveldu, esančiu kitose valstybėse, jo aktualinimu, kelioms valstybėms reikšmingais kultūros reiškiniais, istorinėmis asmenybėmis, atskleidžiamos sąsajos su Lietuvos ir Europos istorija bei vertybėmis. Šiuo lygmeniu siekiama sukurti tęstinius kultūrinio turizmo maršrutus kultūros kelio teritorijoje, juos populiarinti skatinant vietinį ir atvykstamąjį turizmą. 
+
+
+
+
+4. Europos Tarybos kultūros kelio lygmuo aprėpia Europos Tarybos kultūros kelią, kurio dalis vystoma Lietuvos teritorijoje. Šio lygmens kultūros kelias yra sertifikuojamas Išplėstinio dalinio susitarimo dėl Europos Tarybos kultūros kelių valdybos sprendimu, priimtu remiantis Europos kultūros kelių instituto teikimu ir pagal šio instituto nustatytą tvarką, bei remiantis Europos Tarybos Ministrų komiteto sprendimais. 
+
+
+Papildyta straipsniu:
+Nr. XIV-540, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20299
+ 
+
+
+
+
 4 straipsnis. Nekilnojamojo kultūros paveldo apsauga
 
 
@@ -577,10 +621,11 @@ Nr. XIII-2141, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09046
 
 
 
-6. Kultūros ministras tvirtina valstybės biudžeto lėšomis finansuojamas nekilnojamojo kultūros paveldo paveldosaugos (apskaitos, paveldotvarkos, kontrolės, saugomų teritorijų apsaugos ir tvarkymo ir kitas) programas, organizuoja paveldotvarkos programų įgyvendinimą, skelbia nekilnojamąsias kultūros vertybes valstybės saugomomis, tvirtina Nekilnojamojo kultūros paveldo apsaugos specialistų (tyrėjų, projektuotojų, paveldosaugos ekspertų) atestavimo komisijos nuostatus ir jos sudėtį, Nekilnojamojo kultūros paveldo apsaugos ekspertų komisijos nuostatus ir jos sudėtį, teikia kultūros paveldo objektus ir vietoves įrašyti į tarptautinės svarbos kultūros paveldo objektų ar vietovių sąrašus, jeigu tarptautinėmis sutartimis nenustatyta kitaip, atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas.
+6. Kultūros ministras tvirtina valstybės biudžeto lėšomis finansuojamas nekilnojamojo kultūros paveldo paveldosaugos (apskaitos, paveldotvarkos, kontrolės, saugomų teritorijų apsaugos ir tvarkymo ir kitas) programas, organizuoja paveldotvarkos programų įgyvendinimą, skelbia nekilnojamąsias kultūros vertybes valstybės saugomomis, tvirtina Nekilnojamojo kultūros paveldo apsaugos specialistų (tyrėjų, projektuotojų, paveldosaugos ekspertų) atestavimo komisijos nuostatus ir jos sudėtį, Nekilnojamojo kultūros paveldo apsaugos ekspertų komisijos nuostatus ir jos sudėtį, teikia kultūros paveldo objektus ir vietoves įrašyti į tarptautinės svarbos kultūros paveldo objektų ar vietovių sąrašus, jeigu tarptautinėmis sutartimis nenustatyta kitaip, tvirtina kultūros kelių Lietuvoje lygmenų nustatymo ir sertifikavimo tvarkos aprašą, atlieka kitas įstatymų ir kitų teisės aktų nustatytas funkcijas. 
 Straipsnio dalies pakeitimai:
 Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 Nr. XIII-2141, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09046
+Nr. XIV-540, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20299
  
 
 
@@ -758,7 +803,18 @@ Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 
 
 
-27) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas, vykdo kultūros ministro įsakymus.
+27) kultūros ministro nustatyta tvarka organizuoja ir vykdo kultūros kelių lygmenų nustatymo ir sertifikavimo procesą, išduoda kultūros kelių sertifikatus (išskyrus Europos Tarybos kultūros kelių sertifikatus), vykdo sertifikuotų kultūros kelių veiklos stebėseną; 
+Papildyta straipsnio punktu:
+Nr. XIV-540, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20299
+ 
+
+
+
+
+28) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas, vykdo kultūros ministro įsakymus.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-540, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20299
+ 
 
 
 
@@ -1639,7 +1695,7 @@ Nr. XII-2574, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20301
 
 
 
-16. Panaikinus leidimo galiojimą, Departamentas ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos apie tai praneša leidimą gavusiam tyrėjui ir savivaldybės, kurios teritorijoje buvo siekiama atlikti archeologinius tyrimus, administracijai, nurodydamas priežastis, dėl kurių leidimo galiojimas panaikintas.    
+16. Panaikinus leidimo galiojimą, Departamentas ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos apie tai praneša leidimą gavusiam tyrėjui ir savivaldybės, kurios teritorijoje buvo siekiama atlikti archeologinius tyrimus, administracijai, nurodydamas priežastis, dėl kurių leidimo galiojimas panaikintas.          
 
 
 
@@ -3030,3 +3086,8 @@ Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-73
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2141, 2019-05-30, paskelbta TAR 2019-06-04, i. k. 2019-09046
 Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 5 straipsnio pakeitimo įstatymas
+ 
+10.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-540, 2021-09-23, paskelbta TAR 2021-09-29, i. k. 2021-20299
+Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 2, 5 straipsnių pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
