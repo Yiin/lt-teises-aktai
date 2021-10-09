@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1998
 
 
 
-Suvestinė redakcija nuo 2021-08-01 iki 2021-10-08
+Suvestinė redakcija nuo 2021-10-09 iki 2021-12-30
  
 Įstatymas paskelbtas: Žin. 1997, Nr. 64-1502, i. k. 0971010ISTAVIII-275
  
@@ -721,7 +721,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-10) pagal Reglamentą (ES) Nr. 1093/2010, Reglamentą (ES) Nr. 1094/2010 ir Reglamentą (ES) Nr. 1095/2010 bendradarbiauja su Europos priežiūros institucijomis ir teikia joms visą jų užduotims atlikti būtiną informaciją.
+10) pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją.
+Straipsnio punkto pakeitimai:
+Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
+ 
 
 
 
@@ -2846,9 +2849,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-2. Asmens duomenys tvarkomi vadovaujantis Reglamentu (ES) 2016/679, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu ir Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu. 
+2. Asmens duomenys tvarkomi vadovaujantis Reglamentu (ES) 2016/679, 2018 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1725 dėl fizinių asmenų apsaugos Sąjungos institucijoms, organams, tarnyboms ir agentūroms tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo, kuriuo panaikinamas Reglamentas (EB) Nr. 45/2001 ir Sprendimas Nr. 1247/2002/EB, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu ir Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
  
 
 
@@ -4173,9 +4177,10 @@ Priežiūros institucija, svarstydama, ar taikyti šiame įstatyme nustatytas po
 
 
 
-5) prižiūrimos finansų įstaigos ir kito įpareigotojo subjekto arba įmonių grupės, kuriai priklauso prižiūrimas subjektas, auditoriams, taip pat Lietuvos ir kitos Europos Sąjungos valstybės narės institucijoms, atsakingoms už šių subjektų priežiūrą, jeigu ji reikalinga jų funkcijoms atlikti, Europos Centriniam Bankui, kai pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63), nuostatas finansų rinkos priežiūros funkciją atlieka Europos Centrinis Bankas; 
+5) prižiūrimos finansų įstaigos ir kito įpareigotojo subjekto arba įmonių grupės, kuriai priklauso prižiūrimas subjektas, auditoriams, taip pat Lietuvos ir kitos Europos Sąjungos valstybės narės institucijoms, atsakingoms už šių subjektų priežiūrą, jeigu ji reikalinga jų funkcijoms atlikti, Europos Centriniam Bankui, kai pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, nuostatas finansų rinkos priežiūros funkciją atlieka Europos Centrinis Bankas;
 Straipsnio punkto pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
+Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
  
 
 
@@ -4240,7 +4245,7 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-51 straipsnis. Informacijos pateikimas kitoms Europos Sąjungos valstybėms narėms, Europos priežiūros institucijoms ir Europos Komisijai
+51 straipsnis. Informacijos pateikimas kitoms Europos Sąjungos valstybėms narėms, Europos bankininkystės institucijai ir Europos Komisijai
 
 
 1. Finansinių nusikaltimų tyrimo tarnyba informuoja Europos Komisiją apie: 
@@ -4276,48 +4281,27 @@ BAIGIAMOSIOS NUOSTATOS
 
 
 
-7) priežiūros institucijų pavadinimus, adresus, kontaktinius duomenis (telefonų numerius, elektroninio pašto adresus). 
-
-
-Straipsnio dalies pakeitimai:
-Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
- 
+7) priežiūros institucijų pavadinimus, adresus, kontaktinius duomenis (telefonų numerius, elektroninio pašto adresus).
 
 
 
 
-2. Vyriausybė ar jos įgaliota institucija, laikydamasi Reglamento (ES) Nr. 1093/2010, Reglamento (ES) Nr. 1094/2010 ir Reglamento (ES) Nr. 1095/2010 nuostatų, informuoja Europos priežiūros institucijas apie finansų įstaigoms taikytas šiame įstatyme nustatytas poveikio priemones, įskaitant informaciją apie visus su jomis susijusius skundus ir jų tyrimo rezultatus.
+
+
+2. Vyriausybė ar jos įgaliota institucija, laikydamasi Reglamento (ES) Nr. 1093/2010 nuostatų, informuoja Europos bankininkystės instituciją apie finansų įstaigoms taikytas šiame įstatyme nustatytas poveikio priemones, įskaitant informaciją apie visus su jomis susijusius skundus ir jų tyrimo rezultatus.
 
 
 
 
-3. Vyriausybė ar jos įgaliota institucija informuoja kitas Europos Sąjungos valstybes nares, Europos Komisiją ir, laikydamasi Reglamento (ES) Nr. 1093/2010, Reglamento (ES) Nr. 1094/2010 ir Reglamento (ES) Nr. 1095/2010 nuostatų, – Europos priežiūros institucijas apie atvejus, kai:
+3. Vyriausybė ar jos įgaliota institucija informuoja kitas Europos Sąjungos valstybes nares, Europos Komisiją ir, laikydamasi Reglamento (ES) Nr. 1093/2010 nuostatų, – Europos bankininkystės instituciją apie atvejus, kai:
 
 
-1) trečioji valstybė atitinka šio įstatymo 2 straipsnio 21 dalies 2 punkte nustatytus reikalavimus;
-
-
-
-
-2) trečioji valstybė atitinka šio įstatymo 15 straipsnio 1 dalies 1 ir 3 punktuose nustatytus reikalavimus;
+1) trečiosios valstybės teisės aktai neleidžia taikyti šio įstatymo 22 straipsnio 4 dalyje nustatytų reikalavimų, atsižvelgus į visus teisinius apribojimus, kurie gali trukdyti tinkamai įgyvendinti pinigų plovimo ir (ar) teroristų finansavimo prevenciją reglamentuojančių teisės aktų nuostatas, įskaitant konfidencialumo, informacijos apsaugos ir kitus keitimosi informacija apribojimus; 
 
 
 
 
-3) trečiosios valstybės teisės aktai neleidžia taikyti šio įstatymo 22 straipsnio 4 dalyje nustatytų reikalavimų, atsižvelgus į visus teisinius apribojimus, kurie gali trukdyti tinkamai įgyvendinti pinigų plovimo ir (ar) teroristų finansavimo prevenciją reglamentuojančių teisės aktų nuostatas, įskaitant konfidencialumo, informacijos apsaugos ir kitus keitimosi informacija apribojimus; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
- 
-
-
-
-
-4) trečioji valstybė atitinka šio įstatymo 23 straipsnio 4 dalyje nustatytus reikalavimus;
-
-
-
-
-5) pagal šio įstatymo 27 straipsnį paskiriama nacionalinius veiksmus koordinuojanti institucija.
+2) pagal šio įstatymo 27 straipsnį paskiriama nacionalinius veiksmus koordinuojanti institucija.
 
 
 
@@ -4325,11 +4309,11 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 4. Vyriausybės įgaliotos institucijos organizuoja statistinės informacijos apie pagal šio įstatymo 51 straipsnį pateiktus prašymus ir valstybės informacinėms sistemoms ar registrams, kuriuose kaupiami duomenys apie atidarytas ir uždarytas visų rūšių sąskaitas, pateiktus prašymus dėl nusikalstamų veikų, įvardytų Reglamento (ES) 2016/794 I priede, prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, rinkimą ir pateikimą Europos Komisijai.
-Papildyta straipsnio dalimi:
-Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
+
+
+Straipsnio pakeitimai:
+Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
  
-
-
 
 
 
@@ -4370,7 +4354,10 @@ priedas
 
 
 
-3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ir teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlameno ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB, su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843.
+3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ir teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlameno ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB, su paskutiniais pakeitimais, padarytais 2019 m. gruodžio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2177.
+Punkto pakeitimai:
+Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
+ 
 
 
 
@@ -4574,3 +4561,8 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-334, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12773
 Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 3 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 5, 24, 48, 51 straipsnių ir priedo pakeitimo įstatymas
