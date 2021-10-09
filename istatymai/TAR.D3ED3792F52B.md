@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-08-01 iki 2021-10-08
+Suvestinė redakcija nuo 2021-10-09 iki 2021-11-12
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -3101,7 +3101,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFIC
 
 
  7.1. 
- patarėjas, vyriausiojo prokuroro padėjėjas, teismo pirmininko padėjėjas, teismo skyriaus pirmininko patarėjas, teisėjo vyresnysis padėjėjas, gynybos patarėjo pavaduotojas, Seimo nuolatinis atstovas Europos Sąjungoje, specialusis atašė, vyriausiasis specialistas (Seimo kanceliarijoje) 
+ patarėjas, vyriausiojo prokuroro padėjėjas, teismo pirmininko padėjėjas, teismo skyriaus pirmininko patarėjas, teisėjo vyresnysis padėjėjas, gynybos patarėjo pavaduotojas, Seimo nuolatinis atstovas Europos Sąjungoje, specialusis atašė, prekybos atstovas, vyriausiasis specialistas (Seimo kanceliarijoje) 
  Respublikos Prezidento atstovas spaudai,  Seimo Pirmininko atstovas spaudai, Ministro Pirmininko atstovas spaudai, ministro atstovas spaudai 
  9,2–15 
  8,3–14,5 
@@ -3140,6 +3140,7 @@ Nr. XIII-1805, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21813
 Nr. XIII-2609, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20565
 Nr. XIII-2809, 2020-03-12, paskelbta TAR 2020-03-17, i. k. 2020-05602
 Nr. XIV-144, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00266
+Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
  
 
 
@@ -4179,3 +4180,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5, 33 straipsni
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 10, 11, 17, 28 ir 51 straipsnių pakeitimo įstatymas
+ 
+37.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 2, 10, 49 straipsnių ir 1 priedo pakeitimo įstatymas
