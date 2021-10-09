@@ -20,7 +20,7 @@ Projektas XXXX XX XX Nr
 
 
 
-Suvestinė redakcija nuo 2020-06-15 iki 2021-10-08
+Suvestinė redakcija nuo 2021-10-09 iki 2021-12-28
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 94-4246, i. k. 1031010ISTA0IX-1737
  
@@ -332,7 +332,7 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-251. Draudimo principu pagrįstas investicinis produktas – kaip tai apibrėžta 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1). Draudimo principu pagrįstas investicinis produktas neapima:
+251. Draudimo principu pagrįstas investicinis produktas – kaip tai apibrėžta 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų. Draudimo principu pagrįstas investicinis produktas neapima:
 
 
 1) šio įstatymo 7 straipsnio 3 dalyje nurodytoms draudimo grupėms priskirtinų ne gyvybės draudimo produktų;
@@ -355,13 +355,11 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-5) tam tikrų pensijų produktų, kai pagal Lietuvos Respublikos teisės aktus reikalaujama, kad darbdavys už juos mokėtų įmokas, ir nei darbdavys, nei darbuotojas negali pasirinkti pensijų produkto arba produkto teikėjo. 
+5) tam tikrų pensijų produktų, kai pagal Lietuvos Respublikos teisės aktus reikalaujama, kad darbdavys už juos mokėtų įmokas, ir nei darbdavys, nei darbuotojas negali pasirinkti pensijų produkto arba produkto teikėjo.
 
 
-Papildyta straipsnio dalimi:
-Nr. XIII-1239, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09849
 Straipsnio dalies pakeitimai:
-Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
+Nr. XIV-554, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21222
  
 
 
@@ -637,9 +635,11 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-611. Papildomos draudimo veiklos tarpininkas – asmuo, išskyrus kredito įstaigą ar investicinę įmonę, kurios apibrėžtos 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2013 L 176, p. 1) 4 straipsnio 1 dalies 1 ir 2 punktuose, kuris už atlygį vykdo draudimo produktų platinimo veiklą kaip papildomą profesinę veiklą ir kurio platinami draudimo produktai papildo prekę ar paslaugą, bet neapima gyvybės draudimo arba civilinės atsakomybės draudimo rizikos, nebent šis draudimas papildytų to asmens pagrindinės profesinės veiklos prekę ar paslaugą. 
+611. Papildomos draudimo veiklos tarpininkas – asmuo, išskyrus kredito įstaigą ar investicinę įmonę, kurios apibrėžtos 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 4 straipsnio 1 dalies 1 ir 2 punktuose, kuris už atlygį vykdo draudimo produktų platinimo veiklą kaip papildomą profesinę veiklą ir kurio platinami draudimo produktai papildo prekę ar paslaugą, bet neapima gyvybės draudimo arba civilinės atsakomybės draudimo rizikos, nebent šis draudimas papildytų to asmens pagrindinės profesinės veiklos prekę ar paslaugą.
 Papildyta straipsnio dalimi:
 Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
+Straipsnio dalies pakeitimai:
+Nr. XIV-554, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21222
  
 
 
@@ -1860,7 +1860,10 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-17 straipsnis. Konsultacijos su kitomis institucijomis
+17 straipsnis. Konsultacijos su kitomis institucijomis ir informacijos teikimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-554, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21222
+ 
 
 
 1. Prieš išduodama draudimo ar perdraudimo veiklos licenciją, priežiūros institucija privalo konsultuotis su kitos Europos ekonominės erdvės valstybės priežiūros institucija dėl aplinkybių, reikšmingų priimant sprendimą dėl veiklos licencijos išdavimo, kai draudimo ar perdraudimo įmonė yra:
@@ -1904,6 +1907,13 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 3. Priežiūros institucija, vertindama draudimo ar perdraudimo įmonę kontroliuojančių asmenų nepriekaištingą reputaciją, priežiūros ir valdymo organų narių, kitų vadovaujamąsias pareigas einančių asmenų ir asmenų, atsakingų už rizikos valdymo, aktuarinę, atitikties vertinimo ir vidaus audito funkcijas, nepriekaištingą reputaciją, kvalifikaciją ir patirtį, konsultuojasi su šio straipsnio 1 ir 2 dalyse nurodytomis institucijomis dėl aplinkybių, reikšmingų nepriekaištingos reputacijos, kvalifikacijos ir patirties vertinimui, ir privalo teikti kitoms institucijoms informaciją apie šiuos asmenis, reikšmingą minėtų institucijų atliekamoms funkcijoms.
+
+
+
+
+4. Jeigu įvertinus verslo planą nustatoma, kad tam tikra draudimo ar perdraudimo įmonės veiklos dalis bus vykdoma naudojantis įsisteigimo teise ar teise teikti paslaugas kitoje Europos ekonominės erdvės valstybėje ir kad ši veiklos dalis gali būti aktuali šios Europos ekonominės erdvės valstybės rinkai, prieš išduodama draudimo ar perdraudimo veiklos licenciją, priežiūros institucija privalo apie tai pranešti šios Europos ekonominės erdvės valstybės priežiūros institucijai ir Europos draudimo ir profesinių pensijų institucijai. Šios informacijos turi būti tiek, kad būtų galima atlikti situacijos vertinimą.
+Papildyta straipsnio dalimi:
+Nr. XIV-554, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21222
  
 
 
@@ -2243,7 +2253,7 @@ Nr. XIII-1308, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11313
 
 
 
-16. Priežiūros institucija, priimdama sprendimą neprieštarauti siūlomam įsigijimui, turi teisę nustatyti siūlomo įsigijimo įgyvendinimo terminą ir prireikus jį pratęsti. 
+16. Priežiūros institucija, priimdama sprendimą neprieštarauti siūlomam įsigijimui, turi teisę nustatyti siūlomo įsigijimo įgyvendinimo terminą ir prireikus jį pratęsti.    
 
 
 
@@ -2730,7 +2740,10 @@ Nr. XIII-1107, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06971
 
 
 
-4. Priežiūros institucija turi teisę paprašyti kitos Europos ekonominės erdvės valstybės priežiūros institucijos atlikti draudimo ar perdraudimo įmonės pasitelkto kitos Europos ekonominės erdvės valstybės asmens patikrinimą. Priežiūros institucija turi teisę, informavusi kitos Europos ekonominės erdvės valstybės priežiūros instituciją, pati atlikti tokį patikrinimą. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48) (toliau – Reglamentas (ES) Nr. 1094/2010), 19 straipsnį, kai priežiūros institucijai neleidžiama pasinaudoti teise atlikti patikrinimą.
+4. Priežiūros institucija turi teisę paprašyti kitos Europos ekonominės erdvės valstybės priežiūros institucijos atlikti draudimo ar perdraudimo įmonės pasitelkto kitos Europos ekonominės erdvės valstybės asmens patikrinimą. Priežiūros institucija turi teisę, informavusi kitos Europos ekonominės erdvės valstybės priežiūros instituciją, pati atlikti tokį patikrinimą. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB, 19 straipsnį, kai priežiūros institucijai neleidžiama pasinaudoti teise atlikti patikrinimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-554, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21222
+ 
 
 
 
@@ -2979,7 +2992,7 @@ Draudimo ar perdraudimo įmonė, išskyrus šiame įstatyme ir kituose teisės a
 
 
 
-3) sveikatos draudimo veiklos riziką;         
+3) sveikatos draudimo veiklos riziką;            
 
 
 
@@ -3054,6 +3067,14 @@ Draudimo ar perdraudimo įmonė, išskyrus šiame įstatyme ir kituose teisės a
 
 
 2. Draudimo ar perdraudimo įmonės valdyba privalo patvirtinti prašymą priežiūros institucijai leisti naudoti ar keisti dalinį ar visišką vidaus modelį mokumo kapitalo reikalavimui apskaičiuoti ir užtikrinti, kad draudimo ar perdraudimo įmonėje veiktų sistema, leidžianti tinkamai ir nuolat taikyti vidaus modelį.
+
+
+
+
+21. Vadovaudamasi Reglamento (ES) Nr. 1094/2010 35 straipsnio 1 dalimi, priežiūros institucija informuoja Europos draudimo ir profesinių pensijų instituciją apie prašymus leisti naudoti arba keisti dalinį ar visišką vidaus modelį mokumo kapitalo reikalavimui apskaičiuoti. Priežiūros institucija, siekdama priimti sprendimą dėl prašymo, gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal Reglamento (ES) Nr. 1094/2010 8 straipsnio 1 dalies b punktą.
+Papildyta straipsnio dalimi:
+Nr. XIV-554, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21222
+ 
 
 
 
@@ -4180,7 +4201,10 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
-4. Draudimo ir perdraudimo įmonės, draudimo kontroliuojančiosios įmonės ir mišrios veiklos draudimo kontroliuojančiosios įmonės, vadovaudamosi 2014 m. spalio 10 d. Komisijos deleguotuoju reglamentu (ES) 2015/35, kuriuo papildoma Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2015 L 12, p. 1), kiekvienais metais viešai atskleidžia grupės valdymo ir organizacinę struktūrą, apimdamos visas grupei priklausančias patronuojamąsias įmones, susijusias įmones ir svarbius filialus.
+4. Draudimo ir perdraudimo įmonės, draudimo kontroliuojančiosios įmonės ir mišrios veiklos draudimo kontroliuojančiosios įmonės, vadovaudamosi 2014 m. spalio 10 d. Komisijos deleguotuoju reglamentu (ES) 2015/35, kuriuo papildoma Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II), kiekvienais metais viešai atskleidžia grupės valdymo ir organizacinę struktūrą, apimdamos visas grupei priklausančias patronuojamąsias įmones, susijusias įmones ir svarbius filialus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-554, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21222
+ 
 
 
 Straipsnio pakeitimai:
@@ -4480,6 +4504,39 @@ Perdraudimo įmonės, pateikusios priežiūros institucijos reikalaujamą inform
 
 
 
+711 straipsnis. Informacijos teikimas ir bendradarbiavimo platformos
+
+
+1. Priežiūros institucija privalo pranešti Europos draudimo ir profesinių pensijų institucijai ir atitinkamos Europos ekonominės erdvės valstybės priežiūros institucijai, kai nustato, kad blogėja draudimo ar perdraudimo įmonės finansinė būklė arba kyla kita rizika dėl draudimo ar perdraudimo įmonės veiklos, vykdomos naudojantis įsisteigimo teise ar teise teikti paslaugas ir galinčios turėti poveikį tarpvalstybiniu mastu. 
+
+
+
+
+2. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos, jeigu nepavyksta susitarti su kitos Europos ekonominės erdvės valstybės priežiūros institucija dėl draudimo ar perdraudimo įmonės veiklos kitoje Europos ekonominės erdvės valstybėje, vykdomos naudojantis įsisteigimo teise ar teise teikti paslaugas.
+
+
+
+
+3. Pagal šio straipsnio 1 ir 2 dalis teikiamos informacijos turi būti tiek, kad būtų galima atlikti situacijos vertinimą.
+
+
+
+
+4. Priežiūros institucija kartu su kitų Europos ekonominės erdvės valstybių priežiūros institucijomis gali sukurti bendradarbiavimo platformą, kad sustiprintų tarpusavio keitimąsi informacija ir užtikrintų tvirtesnį bendradarbiavimą, kai draudimo ar perdraudimo įmonė vykdo arba ketina vykdyti veiklą, naudodamasi įsisteigimo teise ar teise teikti paslaugas.
+
+
+
+
+5. Jeigu bendradarbiavimo platformą sukuria Europos draudimo ir profesinių pensijų institucija, jos prašymu priežiūros institucija privalo pateikti visą būtiną informaciją, kad bendradarbiavimo platforma galėtų tinkamai veikti.
+
+
+Papildyta straipsniu:
+Nr. XIV-554, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21222
+ 
+
+
+
+
 
 
 
@@ -4568,6 +4625,29 @@ Kitų Europos ekonominės erdvės valstybių draudimo ar perdraudimo įmonės Li
  
 
 
+
+
+
+
+741 straipsnis. Informacijos teikimas
+
+
+1. Priežiūros institucija gali pranešti buveinės valstybės priežiūros institucijai, kai yra pagrindas manyti, kad kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonės veikla Lietuvos Respublikoje, vykdoma naudojantis įsisteigimo teise ar teise teikti paslaugas, gali pažeisti vartotojų interesus.
+
+
+
+
+2. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos, jeigu nepavyksta susitarti su buveinės valstybės priežiūros institucija dėl kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonės veiklos Lietuvos Respublikoje, vykdomos naudojantis įsisteigimo teise ar teise teikti paslaugas.
+
+
+
+
+3. Pagal šio straipsnio 1 ir 2 dalis teikiamos informacijos turi būti tiek, kad būtų galima atlikti situacijos vertinimą.
+
+
+Papildyta straipsniu:
+Nr. XIV-554, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21222
+ 
 
 
 
@@ -10939,7 +11019,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                            ROLANDAS PAKSAS
+RESPUBLIKOS PREZIDENTAS                                                             ROLANDAS PAKSAS
  
  
  
@@ -10950,79 +11030,80 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
-Lietuvos Respublikos 
-draudimo įstatymo
+Lietuvos Respublikos
+draudimo įstatymo 
 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
  
 
 
-1. 1995 m. birželio 29 d. Europos Parlamento ir Tarybos direktyva 95/26/EB, iš dalies keičianti Direktyvas 77/780/EEB ir 89/646/EEB dėl kredito įstaigų, Direktyvas 73/239/EEB ir 92/49/EEB dėl ne gyvybės draudimo, Direktyvas 79/267/EEB ir 92/96/EEB dėl gyvybės draudimo, Direktyvą 93/22/EEB dėl investicinių įmonių, Direktyvą 85/611/EEB dėl kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektų (KIPVPS), kad būtų gerinama riziką ribojanti priežiūra (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 269), su paskutiniais pakeitimais, padarytais Direktyva 2009/65/EB (OL 2009 L 302, p. 32).
+1. 1995 m. birželio 29 d. Europos Parlamento ir Tarybos direktyva 95/26/EB, iš dalies keičianti direktyvas 77/780/EEB ir 89/646/EEB dėl kredito įstaigų, direktyvas 73/239/EEB ir 92/49/EEB dėl ne gyvybės draudimo, direktyvas 79/267/EEB ir 92/96/EEB dėl gyvybės draudimo, Direktyvą 93/22/EEB dėl investicinių įmonių, Direktyvą 85/611/EEB dėl kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektų (KIPVPS), kad būtų gerinama riziką ribojanti priežiūra, su paskutiniais pakeitimais, padarytais 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB.
 
 
 
 
-2. 2001 m. spalio 8 d. Tarybos reglamentas (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 251).
+2. 2001 m. spalio 8 d. Tarybos reglamentas (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto.
 
 
 
 
-3. 2002 m. kovo 5 d. Europos Parlamento ir Tarybos direktyva 2002/13/EB, iš dalies keičianti Tarybos direktyvą 73/239/EEB dėl ne gyvybės draudimo įmonėms taikomų mokumo atsargos reikalavimų (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 310).
+3. 2002 m. kovo 5 d. Europos Parlamento ir Tarybos direktyva 2002/13/EB, iš dalies keičianti Tarybos direktyvą 73/239/EEB dėl ne gyvybės draudimo įmonėms taikomų mokumo atsargos reikalavimų.
 
 
 
 
-4. 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/87/EB dėl finansiniam konglomeratui priklausančių kredito įstaigų, draudimo įmonių ir investicinių firmų papildomos priežiūros ir iš dalies keičianti Tarybos direktyvas 73/239/EEB, 79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB ir 93/22/EEB bei Europos Parlamento ir Tarybos direktyvas 98/78/EB ir 2000/12/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 340), su paskutiniais pakeitimais, padarytais Direktyva 2010/78/ES (OL 2010 L 331, p. 120).
+4. 2002 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2002/87/EB dėl finansiniam konglomeratui priklausančių kredito įstaigų, draudimo įmonių ir investicinių firmų papildomos priežiūros ir iš dalies keičianti Tarybos direktyvas 73/239/EEB, 79/267/EEB, 92/49/EEB, 92/96/EEB, 93/6/EEB ir 93/22/EEB bei Europos Parlamento ir Tarybos direktyvas 98/78/EB ir 2000/12/EB su paskutiniais pakeitimais, padarytais 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/78/ES.
 
 
 
 
-5. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/113/EB, įgyvendinanti vienodo požiūrio į moteris ir vyrus principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių tiekimo bei paslaugų teikimo (OL 2004 L 373, p. 37).
+5. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/113/EB, įgyvendinanti vienodo požiūrio į moteris ir vyrus principą dėl galimybės naudotis prekėmis bei paslaugomis ir prekių tiekimo bei paslaugų teikimo.
 
 
 
 
-6. 2005 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 2005/1/EB, iš dalies keičianti Tarybos direktyvas 73/239/EEB, 85/611/EEB, 91/675/EEB, 92/49/EEB bei 93/6/EEB, taip pat Europos Parlamento ir Tarybos direktyvas 94/19/EB, 98/78/EB, 2000/12/EB, 2001/34/EB, 2002/83/EB ir 2002/87/EB, siekiant sukurti naują finansinių paslaugų komitetų organizacinę struktūrą (OL 2005 L 79, p. 9), su paskutiniais pakeitimais, padarytais Direktyva 2009/65/EB (OL 2009 L 302, p. 32).
+6. 2005 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 2005/1/EB, iš dalies keičianti Tarybos direktyvas 73/239/EEB, 85/611/EEB, 91/675/EEB, 92/49/EEB bei 93/6/EEB, taip pat Europos Parlamento ir Tarybos direktyvas 94/19/EB, 98/78/EB, 2000/12/EB, 2001/34/EB, 2002/83/EB ir 2002/87/EB, siekiant sukurti naują finansinių paslaugų komitetų organizacinę struktūrą, su paskutiniais pakeitimais, padarytais 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB.
 
 
 
 
-7. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/51/ES (OL 2014 L 153, p. 1).
+7. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/51/ES.
 
 
 
 
-8. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/103/EB dėl motorinių transporto priemonių valdytojų civilinės atsakomybės draudimo ir privalomojo tokios atsakomybės draudimo patikrinimo (OL 2009 L 263, p. 11).
+8. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/103/EB dėl motorinių transporto priemonių valdytojų civilinės atsakomybės draudimo ir privalomojo tokios atsakomybės draudimo patikrinimo.
 
 
 
 
-9. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2009 L 335, p. 1) su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2341 (OL 2016 L 354, p. 37).
+9. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) su paskutiniais pakeitimais, padarytais 2019 m. gruodžio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2177.
 
 
 
 
-10. 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos direktyva 2011/89/ES, kuria iš dalies keičiamos direktyvų 98/78/EB, 2002/87/EB, 2006/48/EB ir 2009/138/EB nuostatos dėl finansų konglomeratui priklausančių finansų subjektų papildomos priežiūros (OL 2011 L 326, p. 113).
+10. 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos direktyva 2011/89/ES, kuria iš dalies keičiamos direktyvų 98/78/EB, 2002/87/EB, 2006/48/EB ir 2009/138/EB nuostatos dėl finansų konglomeratui priklausančių finansų subjektų papildomos priežiūros.
 
 
 
 
-11. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB (OL 2013 L 182, p. 19).
+11. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB.
 
 
 
 
-12. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų (OL 2014 L 352, p. 1). 
+12. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų. 
 
 
 
 
-13. 2016 m. sausio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/97 dėl draudimo produktų platinimo (OL 2016 L 26, p. 19). 
+13. 2016 m. sausio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/97 dėl draudimo produktų platinimo.
 
 
 Priedo pakeitimai:
 Nr. XIII-1853, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00018
+Nr. XIV-554, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21222
  
 
 
@@ -11212,3 +11293,8 @@ Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 143, 147, 148, 154 ir 157 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2961, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11334
 Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 13 straipsnio pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-554, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21222
+Lietuvos Respublikos draudimo įstatymo Nr. IX-1737 2, 17, 30, 39, 64 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 71-1, 74-1 straipsniais įstatymas
