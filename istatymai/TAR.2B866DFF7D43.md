@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.2B866DFF7D43"
 
 # Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas
 
-Suvestinė redakcija nuo 2021-06-10 iki 2021-10-22
+Suvestinė redakcija nuo 2021-10-23 iki 2022-01-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2741, i. k. 1001010ISTAIII-1968
  
@@ -71,7 +71,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
  
 
 
@@ -5694,7 +5694,9 @@ Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)
 
 
 XX skyrius
-Nusikaltimai žmogaus laisvEI
+NUSIKALTIMAI IR BAUDŽIAMIEJI NUSIŽENGIMAI ŽMOGAUS LAISVEI 
+Pakeistas skyriaus pavadinimas:
+Nr. XIV-576, 2021-10-14, paskelbta TAR 2021-10-22, i. k. 2021-22115
  
 
 
@@ -5838,6 +5840,25 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 Straipsnio pakeitimai:
 Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
 Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)
+ 
+
+
+
+
+1481 straipsnis. Neteisėtas žmogaus persekiojimas
+
+
+1. Tas, kas prieš aiškiai išreikštą žmogaus valią neturėdamas teisėto pagrindo sistemingai persekiojo šį žmogų, jeigu dėl to nukentėjęs asmuo buvo priverstas pakeisti gyvenamąją vietą ar darbą, ar mokymosi įstaigą arba buvo padarytas kitoks neigiamas poveikis jo socialiniam gyvenimui ar neigiamas poveikis jo emocinei būsenai, padarė baudžiamąjį nusižengimą ir
+baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu. 
+
+
+
+
+2. Už šio straipsnio 1 dalyje numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymių. 
+
+
+Papildyta straipsniu:
+Nr. XIV-576, 2021-10-14, paskelbta TAR 2021-10-22, i. k. 2021-22115
  
 
 
@@ -12302,3 +12323,8 @@ Lietuvos Respublikos baudžiamojo kodekso 42, 67 straipsnių pakeitimo ir Kodeks
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-368, 2021-05-27, paskelbta TAR 2021-06-09, i. k. 2021-13176
 Lietuvos Respublikos baudžiamojo kodekso 71 straipsnio pakeitimo įstatymas
+ 
+44.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-576, 2021-10-14, paskelbta TAR 2021-10-22, i. k. 2021-22115
+Lietuvos Respublikos baudžiamojo kodekso XX skyriaus pavadinimo pakeitimo ir Kodekso papildymo 148-1 straipsniu įstatymas
