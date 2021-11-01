@@ -20,14 +20,9 @@ LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ REGISTRO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2017-01-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01
  
 Įstatymas paskelbtas: Žin. 2013, Nr. 124-6282, i. k. 1131010ISTA0XII-603
- 
-TAR pastaba. Iki 2017 m. sausio 1 d. padaryti Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449, numatyti administraciniai teisės pažeidimai, kurie neperkvalifikuoti į administracinius nusižengimus Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo nustatyta tvarka, laikomi Administracinių nusižengimų registro objektais.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
-Lietuvos Respublikos administracinių teisės pažeidimų registro įstatymo Nr. XII-603 pavadinimo ir 1, 3, 5, 6, 7 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS  ADMINISTRACINIŲ NUSIŽENGIMŲ REGISTRO  ĮSTATYMAS
  
@@ -71,23 +66,32 @@ Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
 3 straipsnis. Registro objektai ir jų registravimas
 
 
-1. Registro objektai yra Lietuvos Respublikos administracinių nusižengimų kodekso (toliau – Administracinių nusižengimų kodeksas) nustatyta tvarka užfiksuoti administraciniai nusižengimai.
-Straipsnio dalies pakeitimai:
-Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
+1. Registro objektai yra:
+
+
+1) Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka užfiksuoti administraciniai nusižengimai;
+
+
+
+
+2) Lietuvos Respublikos įstatymų ir Europos Sąjungos teisės aktų (toliau – specialieji teisės aktai) nustatyta tvarka užfiksuoti ūkio subjektų padaryti teisės pažeidimai, už kuriuos priežiūros institucijos skiria ūkio subjektams specialiuosiuose teisės aktuose nustatytas poveikio priemones.
+
+
+
+
+
+
+2. Registro objektai registruojami Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme ir Registro nuostatuose nustatyta tvarka.
+
+
+
+
+3. Registro objektai Registre registruojami neatlygintinai. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2666, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20998
  
-
-
-
-
-2. Registro objektai registruojami Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme (toliau – Valstybės informacinių išteklių valdymo įstatymas) ir Registro nuostatuose nustatyta tvarka.
-
-
-
-
-3. Registro objektai Registre registruojami neatlygintinai.
- 
-
-
 
 
 
@@ -121,9 +125,21 @@ Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
 
 
 
-2. Registro tvarkytojais skiriami juridiniai asmenys, kurių pareigūnai Administracinių nusižengimų kodekso nustatyta tvarka turi teisę pradėti administracinių nusižengimų teiseną, atlikti administracinių nusižengimų tyrimą, surašyti administracinių nusižengimų protokolus ir (ar) kurie turi teisę ne teismo tvarka nagrinėti administracinių nusižengimų bylas. 
+2. Registro tvarkytojais skiriami:
+
+
+1) juridiniai asmenys, kurių pareigūnai Administracinių nusižengimų kodekso nustatyta tvarka turi teisę pradėti administracinių nusižengimų teiseną, atlikti administracinių nusižengimų tyrimą, surašyti administracinių nusižengimų protokolus ir (ar) kurių pareigūnai turi teisę ne teismo tvarka nagrinėti administracinių nusižengimų bylas;
+
+
+
+
+2) juridiniai asmenys, kurių vadovai, jų įgalioti asmenys ir (ar) pareigūnai arba kurie patys kaip kolegialios institucijos specialiųjų teisės aktų nustatyta tvarka nagrinėja bylas dėl ūkio subjektų padarytų teisės pažeidimų ir skiria poveikio priemones. 
+
+
 Papildyta straipsnio dalimi:
 Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
+Straipsnio dalies pakeitimai:
+Nr. XIII-2666, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20998
  
 
 
@@ -142,11 +158,12 @@ Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
 6 straipsnis. Registro duomenų, Registro informacijos, Registrui pateiktų dokumentų ir (arba) jų kopijų tvarkymas
 
 
-Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos tvarkomi vadovaujantis šiuo įstatymu, Valstybės informacinių išteklių valdymo įstatymu, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, Administracinių nusižengimų kodeksu, Lietuvos Respublikos civilinio proceso kodeksu, Lietuvos Respublikos mokesčių administravimo įstatymu, Registro nuostatais ir kitais Lietuvos Respublikos, Europos Sąjungos ir tarptautinės teisės aktais.
+Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos tvarkomi vadovaujantis šiuo įstatymu, Valstybės informacinių išteklių valdymo įstatymu, Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1), Administracinių nusižengimų kodeksu, specialiaisiais teisės aktais, Lietuvos Respublikos administracinių bylų teisenos įstatymu, Lietuvos Respublikos civilinio proceso kodeksu, Lietuvos Respublikos mokesčių administravimo įstatymu, Registro nuostatais ir kitais Lietuvos Respublikos, Europos Sąjungos ir tarptautinės teisės aktais.
 
 
 Straipsnio pakeitimai:
 Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
+Nr. XIII-2666, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20998
  
 
 
@@ -155,27 +172,27 @@ Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
 7 straipsnis. Registro duomenų, Registro informacijos, Registrui pateiktų dokumentų ir (arba) jų kopijų teikimas, perdavimas ir skelbimas
 
 
-1. Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos viešai neskelbiami, išskyrus šio straipsnio 4 dalyje nustatytas išimtis.
+1. Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos viešai neskelbiami, išskyrus šio straipsnio 4 dalyje nustatytą išimtį.
 
 
 
 
-2. Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos Registro nuostatuose nustatyta tvarka neatlygintinai teikiami arba perduodami Valstybės informacinių išteklių valdymo įstatymo 29 straipsnio  3 dalyje nurodytiems Registro duomenų gavėjams, taip pat pagal prašymą ir (arba) sutartis teikiami valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti. 
+2. Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos Registro nuostatuose nustatyta tvarka neatlygintinai teikiami arba perduodami Valstybės informacinių išteklių valdymo įstatymo 29 straipsnio 3 dalyje nurodytiems Registro duomenų gavėjams.
 
 
 
 
-3. Kitiems šio straipsnio 2 dalyje nenurodytiems Registro duomenų gavėjams, turintiems Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytą teisę šiuos Registro duomenis, Registro informaciją, Registrui pateiktus dokumentus ir (arba) jų kopijas gauti jų funkcijoms atlikti, Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos, išskyrus Registro nuostatuose nustatytas išimtis, teikiami už atlyginimą, kurio dydį nustato Vyriausybė. Fiziniams asmenims, kai Registre tvarkomi duomenys apie šiuos asmenis, Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos, patvirtinti Registro tvarkytojo atsakingo asmens parašu, daugiau negu kartą per kalendorinius metus, išskyrus Registro nuostatuose nustatytas išimtis, teikiami už atlyginimą, kurio dydį nustato Vyriausybė.
+3. Kitiems šio straipsnio 2 dalyje nenurodytiems Registro duomenų gavėjams, turintiems Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatytą teisę šiuos Registro duomenis, Registro informaciją, Registrui pateiktus dokumentus ir (arba) jų kopijas gauti jų funkcijoms atlikti, Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos, išskyrus Registro nuostatuose nustatytas išimtis, teikiami už atlyginimą, kurio dydį nustato Vyriausybė. Fiziniams asmenims ar ūkio subjektams, kai Registre tvarkomi duomenys apie šiuos asmenis ar ūkio subjektus, Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos, patvirtinti Registro tvarkytojo atsakingo asmens parašu, daugiau negu kartą per kalendorinius metus, išskyrus Registro nuostatuose nustatytas išimtis, teikiami už atlyginimą, kurio dydį nustato Vyriausybė.
 
 
 
 
-4. Viešai gali būti skelbiami statistiniai Registro duomenys ir Registro tvarkytojo, kuris įregistravo Registro objektą, arba Registro valdytojo sprendimu administracinio nusižengimo, kurio viešas paskelbimas nepakenktų tyrimui, trumpas aprašymas, neatskleidžiant asmens duomenų.
-Straipsnio dalies pakeitimai:
-Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
+4. Viešai gali būti skelbiami statistiniai Registro duomenys. 
+
+
+Straipsnio pakeitimai:
+Nr. XIII-2666, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20998
  
-
-
 
 
 
@@ -242,3 +259,8 @@ Lietuvos Respublikos administracinių teisės pažeidimų registro įstatymo Nr.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2558, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20295
 Lietuvos Respublikos administracinių teisės pažeidimų registro įstatymo Nr. XII-603 pavadinimo ir 1, 3, 5, 6, 7 straipsnių pakeitimo įstatymas
+ 
+3.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIII-2666, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20998
+Lietuvos Respublikos administracinių nusižengimų registro įstatymo Nr. XII-603 3, 5, 6 ir 7 straipsnių pakeitimo įstatymas
