@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/604f4c20c65911ea997c9ee767e856b4"
 
 # Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2023-06-30
  
 Įstatymas paskelbtas: TAR 2020-07-15, i. k. 2020-15758
  
@@ -84,7 +84,10 @@ BENDROSIOS NUOSTATOS
 
 
 
-3. Asmens sveikatos priežiūros specialistas – ergoterapeutas, išplėstinės praktikos vaistininkas, kineziterapeutas, masažuotojas, medicinos psichologas, medicinos genetikas, medicinos biologas, biomedicinos technologas, radiologijos technologas, dietistas, optometrininkas, paramedikas, skubiosios medicinos pagalbos paramedikas.
+3. Asmens sveikatos priežiūros specialistas – ergoterapeutas, išplėstinės praktikos vaistininkas, kineziterapeutas, gydomojo masažo specialistas, medicinos psichologas, medicinos genetikas, medicinos biologas, biomedicinos technologas, radiologijos technologas, dietistas, optometrininkas, paramedikas, skubiosios medicinos pagalbos paramedikas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+ 
 
 
 
@@ -104,62 +107,107 @@ BENDROSIOS NUOSTATOS
 
 
 
-7. Išplėstinės praktikos vaistininkas – vaistininkas, įgijęs išplėstinės praktikos vaistininko profesinę kvalifikaciją.
+7. Gydomojo masažo specialistas – asmuo, įgijęs gydomojo masažo specialisto profesinę kvalifikaciją. 
+Papildyta straipsnio dalimi:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+ 
 
 
 
 
-8. Kineziterapeutas – asmuo, įgijęs kineziterapeuto profesinę kvalifikaciją ar jai lygiavertę aukštojo mokslo kvalifikaciją. 
+8. Išplėstinės praktikos vaistininkas – vaistininkas, įgijęs išplėstinės praktikos vaistininko profesinę kvalifikaciją.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+ 
 
 
 
 
-9. Masažuotojas – asmuo, įgijęs masažuotojo profesinę kvalifikaciją. 
+9. Kineziterapeutas – asmuo, įgijęs kineziterapeuto profesinę kvalifikaciją ar jai lygiavertę aukštojo mokslo kvalifikaciją. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+ 
 
 
 
 
-10. Medicinos biologas – asmuo, įgijęs medicinos biologo profesinę kvalifikaciją ar jai lygiavertę aukštojo mokslo kvalifikaciją.
+10. Neteko galios nuo 2021-11-01. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+ 
 
 
 
 
-11. Medicinos genetikas – asmuo, įgijęs medicinos genetiko profesinę kvalifikaciją ar jai lygiavertę aukštojo mokslo kvalifikaciją.
+11. Medicinos biologas – asmuo, įgijęs medicinos biologo profesinę kvalifikaciją ar jai lygiavertę aukštojo mokslo kvalifikaciją.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+ 
 
 
 
 
-12. Medicinos psichologas – asmuo, įgijęs medicinos psichologo profesinę kvalifikaciją ar jai lygiavertę aukštojo mokslo kvalifikaciją. 
+12. Medicinos genetikas – asmuo, įgijęs medicinos genetiko profesinę kvalifikaciją ar jai lygiavertę aukštojo mokslo kvalifikaciją.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+ 
 
 
 
 
-13. Optometrininkas – asmuo, įgijęs optometrininko profesinę kvalifikaciją ar jai lygiavertę aukštojo mokslo kvalifikaciją.
+13. Medicinos psichologas – asmuo, įgijęs medicinos psichologo profesinę kvalifikaciją ar jai lygiavertę aukštojo mokslo kvalifikaciją. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+ 
 
 
 
 
-14. Paramedikas – asmuo, įgijęs paramediko profesinę kvalifikaciją. 
+14. Optometrininkas – asmuo, įgijęs optometrininko profesinę kvalifikaciją ar jai lygiavertę aukštojo mokslo kvalifikaciją.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+ 
 
 
 
 
-15. Radiologijos technologas – asmuo, įgijęs radiologijos technologo profesinę kvalifikaciją ar jai lygiavertę aukštojo mokslo kvalifikaciją.
+15. Paramedikas – asmuo, įgijęs paramediko profesinę kvalifikaciją. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+ 
 
 
 
 
-16. Skubiosios medicinos pagalbos paramedikas – asmuo, įgijęs skubiosios medicinos pagalbos paramediko profesinę kvalifikaciją ar jai lygiavertę aukštojo mokslo kvalifikaciją. 
+16. Radiologijos technologas – asmuo, įgijęs radiologijos technologo profesinę kvalifikaciją ar jai lygiavertę aukštojo mokslo kvalifikaciją.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+ 
 
 
 
 
-17. Šiurkšti asmens sveikatos priežiūros praktikos klaida – asmens sveikatos priežiūros specialisto veika, dėl jo paties kaltės sukėlusi paciento neįgalumą arba mirtį.
+17. Skubiosios medicinos pagalbos paramedikas – asmuo, įgijęs skubiosios medicinos pagalbos paramediko profesinę kvalifikaciją ar jai lygiavertę aukštojo mokslo kvalifikaciją. 
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+ 
 
 
 
 
-18. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (toliau – Reglamentas (ES) 2016/679), Lietuvos Respublikos sveikatos priežiūros įstaigų įstatyme, Lietuvos Respublikos sveikatos sistemos įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos užimtumo įstatyme, Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme ir Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme.
+18. Šiurkšti asmens sveikatos priežiūros praktikos klaida – asmens sveikatos priežiūros specialisto veika, dėl jo paties kaltės sukėlusi paciento neįgalumą arba mirtį.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+ 
+
+
+
+
+19. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (toliau – Reglamentas (ES) 2016/679), Lietuvos Respublikos sveikatos priežiūros įstaigų įstatyme, Lietuvos Respublikos sveikatos sistemos įstatyme, Lietuvos Respublikos farmacijos įstatyme, Lietuvos Respublikos mokslo ir studijų įstatyme, Lietuvos Respublikos užimtumo įstatyme, Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme ir Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
  
 
 
@@ -202,7 +250,10 @@ ASMENS SVEIKATOS PRIEŽIŪROS PRAKTIKA
 
 
 
-6. Masažuotojo profesinė kvalifikacija įgyjama baigus masažuotojo formaliojo profesinio mokymo programą.
+6. Gydomojo masažo specialisto profesinė kvalifikacija įgyjama baigus masažuotojo formaliojo profesinio mokymo programą ir papildomą gydomojo masažo profesinio mokymo modulį.
+Straipsnio dalies pakeitimai:
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+ 
 
 
 
@@ -979,3 +1030,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3413, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24572
 Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 14 straipsnio pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-427, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14592
+Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 2 ir 3 straipsnių pakeitimo įstatymas
