@@ -21,7 +21,7 @@ YPATINGOS VALSTYBINĖS SVARBOS PROJEKTUS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-07-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 2011, Nr. 49-2362, i. k. 1111010ISTA0XI-1307
  
@@ -616,7 +616,10 @@ Visuomenės poreikiams paimtas žemės sklypas, Nekilnojamojo turto registre įr
 15 straipsnis. Paimto visuomenės poreikiams žemės sklypo išpirkimas
 
 
-1. Tais atvejais, kai nuo valstybės nuosavybės teisės į visuomenės poreikiams paimtą žemės sklypą įregistravimo dienos yra praėję ne daugiau kaip 10 metų ir pagal Teritorijų planavimo įstatymo nustatyta tvarka naujai parengtus arba pakeistus teritorijų planavimo dokumentus (detaliuosius ar specialiuosius planus) žemės sklypo nenumatoma naudoti toms reikmėms, kurioms šis žemės sklypas buvo paimtas visuomenės poreikiams, Nacionalinė žemės tarnyba privalo raštu pasiūlyti žemės savininkui, iš kurio šis žemės sklypas buvo paimtas visuomenės poreikiams, išpirkti šį žemės sklypą už kainą, nustatytą atlikus individualų turto vertinimą pagal Turto ir verslo vertinimo pagrindų įstatymą.
+1. Tais atvejais, kai nuo valstybės nuosavybės teisės į visuomenės poreikiams paimtą žemės sklypą įregistravimo dienos yra praėję ne daugiau kaip 10 metų ir pagal Teritorijų planavimo įstatymo nustatyta tvarka naujai parengtus arba pakeistus teritorijų planavimo dokumentus (vietovės lygmens kompleksinio teritorijų planavimo dokumentus ar specialiojo teritorijų planavimo dokumentus) žemės sklypo nenumatoma naudoti toms reikmėms, kurioms šis žemės sklypas buvo paimtas visuomenės poreikiams, Nacionalinė žemės tarnyba privalo raštu pasiūlyti žemės savininkui, iš kurio šis žemės sklypas buvo paimtas visuomenės poreikiams, išpirkti šį žemės sklypą už kainą, nustatytą atlikus individualų turto vertinimą pagal Turto ir verslo vertinimo pagrindų įstatymą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-442, 2021-06-22, paskelbta TAR 2021-07-07, i. k. 2021-15448
+ 
 
 
 
@@ -691,7 +694,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
  
  
 
@@ -714,3 +717,8 @@ Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypati
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2203, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09726
 Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo Nr. XI-1307 3, 4, 5, 6, 9, 10, 12 ir 16 straipsnių pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-442, 2021-06-22, paskelbta TAR 2021-07-07, i. k. 2021-15448
+Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo Nr. XI-1307 15 straipsnio pakeitimo įstatymas
