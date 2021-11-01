@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.E5509883EBB4"
 
 # Lietuvos Respublikos azartinių lošimų įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2022-06-30
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 43-1495, i. k. 1011010ISTA00IX-325
  
@@ -1014,6 +1014,14 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 
 
 
+71. Draudžiama eksploatuoti į elektroninę automatų duomenų valdymo sistemą nesujungtus automatus. 
+Papildyta straipsnio dalimi:
+Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
+ 
+
+
+
+
 8. Draudžiama naudoti lošimo ir nuotolinio lošimo įrenginius kitais ne su azartinių lošimų organizavimu susijusiais tikslais, išskyrus personalo rengimą darbui su lošimo įrenginiais, kai mokymo organizatorius turi Vyriausybės įgaliotos institucijos išduotą licenciją mokyti. 
 Straipsnio dalies pakeitimai:
 Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
@@ -1549,7 +1557,7 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 
 
 
-8. Lošimus organizuojanti bendrovė turi teisę automatus laidinėmis, radijo, optinėmis ar kitomis elektromagnetinėmis priemonėmis sujungti į elektroninę automatų duomenų valdymo sistemą. Jeigu lošimus organizuojanti bendrovė laidinėmis, radijo, optinėmis ar kitomis elektromagnetinėmis priemonėmis nesujungia automatų į elektroninę automatų duomenų valdymo sistemą, ji privalo pildyti automatų apskaitos žurnalus, kurių formą ir pildymo tvarką nustato Priežiūros tarnyba. 
+8. Lošimus organizuojanti bendrovė privalo automatus laidinėmis, radijo, optinėmis ar kitomis elektromagnetinėmis priemonėmis sujungti į elektroninę automatų duomenų valdymo sistemą. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
  
@@ -1557,7 +1565,7 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 
 
 
-9. Kiekvienas į elektroninę automatų duomenų valdymo sistemą sujungtas automatas turi turėti elektroninius skaitiklius, kurie lošimo metu didėjimo tvarka fiksuotų šiuos automato duomenis:
+9. Kiekvienas automatas turi turėti elektroninius skaitiklius, kurie lošimo metu didėjimo tvarka fiksuotų šiuos automato duomenis:
 
 
 1) už dalyvavimą lošime įmokėtus kredito arba piniginius vienetus;
@@ -1583,14 +1591,14 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 5) loštų lošimų skaičių. 
 
 
-Papildyta straipsnio dalimi:
+Straipsnio dalies pakeitimai:
 Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
  
 
 
 
 
-10. Lošimus organizuojanti bendrovė, kurios automatai sujungti į elektroninę automatų duomenų valdymo sistemą, privalo užtikrinti galimybę Priežiūros tarnybai bet kuriuo metu nuotoliniu būdu prisijungti prie elektroninės automatų duomenų valdymo sistemos ir peržiūrėti joje tvarkomus duomenis. 
+10. Lošimus organizuojanti bendrovė privalo užtikrinti galimybę Priežiūros tarnybai bet kuriuo metu nuotoliniu būdu prisijungti prie elektroninės automatų duomenų valdymo sistemos ir peržiūrėti joje tvarkomus duomenis. 
 Papildyta straipsnio dalimi:
 Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
  
