@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.551F0CDE5B64"
 
 # Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 50-1598, i. k. 0991010ISTAIII-1185
  
@@ -4843,7 +4843,10 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
 
 
-8. Lietuvos radijo ir televizijos komisija, įvertinusi teisių subjekto, jo įgalioto asmens ar kolektyvinio administravimo organizacijos pateiktą prašymą, numatytą šio straipsnio 2 dalyje, ir siekdama taikyti šio straipsnio 3 dalyje numatytus privalomus nurodymus interneto prieigos paslaugų teikėjui, ne vėliau kaip per 14 kalendorinių dienų nuo visų dokumentų gavimo dienos priima sprendimą dėl privalomų nurodymų taikymo vadovaudamasi Lietuvos Respublikos visuomenės informavimo įstatymo 47 straipsnio 12, 13 ir 14 dalimis. Lietuvos radijo ir televizijos komisijos sprendimą taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams turi sankcionuoti Vilniaus apygardos administracinis teismas. Prašymas sankcionuoti Lietuvos radijo ir televizijos komisijos sprendimą turi būti pagrįstas objektyviais duomenimis (faktais), juos pagrindžiančiais dokumentais ir teisės aktų normomis, jame turi būti nurodytas interneto svetainę identifikuojantis domeno vardas ir numatomi atlikti veiksmai (privalomi nurodymai). 
+8. Lietuvos radijo ir televizijos komisija, įvertinusi teisių subjekto, jo įgalioto asmens ar kolektyvinio administravimo organizacijos pateiktą prašymą, numatytą šio straipsnio 2 dalyje, ir siekdama taikyti šio straipsnio 3 dalyje numatytus privalomus nurodymus interneto prieigos paslaugų teikėjui, ne vėliau kaip per 14 kalendorinių dienų nuo visų dokumentų gavimo dienos priima sprendimą dėl privalomų nurodymų taikymo, vadovaudamasi Lietuvos Respublikos visuomenės informavimo įstatymo 47 straipsnio 12, 13 ir 14 dalimis. Lietuvos radijo ir televizijos komisijos sprendimą taikyti privalomus nurodymus interneto prieigos paslaugų teikėjams, privalomus nurodymus mokėjimo, kredito ar kitai finansų įstaigai nutraukti mokėjimus ar kitas finansines operacijas, susijusias su subjektu, vykdančiu veiklą, kuria autorių teisių saugomas turinys neteisėtai viešai paskelbiamas viešo naudojimo kompiuterių tinklais (internete), turi sankcionuoti Vilniaus apygardos administracinis teismas. Prašymas sankcionuoti Lietuvos radijo ir televizijos komisijos sprendimą turi būti pagrįstas objektyviais duomenimis (faktais), juos pagrindžiančiais dokumentais ir teisės aktų normomis, jame turi būti nurodytas interneto svetainę identifikuojantis domeno vardas ir numatomi atlikti veiksmai (privalomi nurodymai).
+Straipsnio dalies pakeitimai:
+Nr. XIV-460, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15457
+ 
 
 
 
@@ -4853,12 +4856,34 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
 
 
-10. Pašalinus autorių teisių saugomo turinio pažeidimą ir apie tai pateikus informaciją Lietuvos radijo ir televizijos komisijai, prieiga prie užblokuoto interneto domeno vardo, identifikuojančio interneto svetainę, atnaujinama per 5 darbo dienas nuo informacijos apie pašalintą autorių teisių saugomo turinio pažeidimą gavimo dienos.
+10. Lietuvos radijo ir televizijos komisija, įgyvendinama šio straipsnio nuostatas, turi teisę duoti privalomus nurodymus mokėjimo, kredito ar kitai finansų įstaigai nutraukti mokėjimus ar kitas finansines operacijas, susijusias su subjektu, vykdančiu veiklą, kuria autorių teisių saugomas turinys neteisėtai viešai paskelbiamas viešo naudojimo kompiuterių tinklais (internete). 
+Papildyta straipsnio dalimi:
+Nr. XIV-460, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15457
+ 
 
 
 
 
-11. Privalomų nurodymų taikymo interneto prieigos paslaugų teikėjams tvarką nustato Vyriausybė ar jos įgaliota institucija. 
+11. Šio straipsnio 10 dalyje nurodyti privalomi nurodymai mokėjimo, kredito ar kitai finansų įstaigai gali būti taikomi kartu su šio straipsnio 3 dalyje nurodytais privalomais nurodymais arba atskirai bei vadovaujantis šio straipsnio 4–8 dalių nuostatomis. 
+Papildyta straipsnio dalimi:
+Nr. XIV-460, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15457
+ 
+
+
+
+
+12. Lietuvos radijo ir televizijos komisija, gavusi informacijos, kad autorių teisių saugomo turinio pažeidimas yra pašalintas, kreipiasi į interneto prieigos paslaugų teikėjus juos įpareigodama per 5 darbo dienas nuo kreipimosi į interneto prieigos paslaugų teikėjus dienos atnaujinti prieigą prie užblokuoto interneto domeno vardo, identifikuojančio interneto svetainę. Jeigu buvo pritaikyti šio straipsnio 10 dalyje nurodyti privalomi nurodymai ir gauta informacija, kad autorių teisių saugomo turinio pažeidimas yra pašalintas, Lietuvos radijo ir televizijos komisija kreipiasi į mokėjimo, kredito ar kitas finansų įstaigas jas įpareigodama per 5 darbo dienas nuo kreipimosi į mokėjimo, kredito ar kitas finansų įstaigas dienos atnaujinti mokėjimus ar kitas finansines operacijas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-460, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15457
+ 
+
+
+
+
+13. Privalomų nurodymų taikymo interneto prieigos paslaugų teikėjams tvarką ir atsiskaitymų, mokėjimų ar kitų finansinių operacijų už neteisėtai viešai paskelbtą autorių teisių saugomą turinį viešo naudojimo kompiuterių tinklais (internete) per Lietuvos Respublikoje veikiančias mokėjimo, kredito ar kitas finansų įstaigas ribojimo tvarką nustato Vyriausybė ar jos įgaliota institucija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-460, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15457
+ 
 
 
 Straipsnio pakeitimai:
@@ -5440,7 +5465,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                             VALDAS ADAMKUS
  
 
 
@@ -5883,3 +5908,8 @@ Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1758, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20739
 Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 72-30 ir 96 straipsnių pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-460, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15457
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 78 straipsnio pakeitimo įstatymas
