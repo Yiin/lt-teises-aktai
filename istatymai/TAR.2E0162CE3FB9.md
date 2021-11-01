@@ -21,7 +21,7 @@ DRAUDIMO ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-07-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2023-11-29
  
 Įstatymas paskelbtas: Žin. 2010, Nr. 1-31, i. k. 1091010ISTA00XI-626
  
@@ -51,15 +51,27 @@ BENDROSIOS NUOSTATOS
 
 
 
-2. Jeigu didelę rinkos galią turinti mažmeninės prekybos įmonė tais pačiais veiksmais pažeidžia šį įstatymą ir Lietuvos Respublikos konkurencijos įstatymo 9 straipsnį, kuriame draudžiama piktnaudžiauti dominuojančia padėtimi, ji atsako Konkurencijos įstatymo nustatyta tvarka.
+2. Jeigu didelę rinkos galią turinti mažmeninės prekybos įmonė tais pačiais veiksmais pažeidžia šį įstatymą ir Lietuvos Respublikos konkurencijos įstatymo nuostatas, kuriose nustatomas draudimas piktnaudžiauti dominuojančia padėtimi, ji atsako Konkurencijos įstatymo nustatyta tvarka.
 
 
 
 
-3. Šis įstatymas netaikomas didelę rinkos galią turinčių mažmeninės prekybos įmonių ir tiekėjų, kurių bendrosios pajamos paskutiniais finansiniais metais yra didesnės kaip keturiasdešimt milijonų eurų, santykiams.
+3. Šis įstatymas netaikomas didelę rinkos galią turinčių mažmeninės prekybos įmonių ir tiekėjų, kurių pardavimo pajamos paskutiniais finansiniais metais yra didesnės kaip trys šimtai penkiasdešimt milijonų eurų, santykiams. Nustatant tiekėjų pardavimo pajamas, skaičiuojamos visų susijusių ūkio subjektų pajamos.
+
+
+
+
+4. Šis įstatymas taikomas didelę rinkos galią turinčių mažmeninės prekybos įmonių ir tiekėjų santykiams, kai mažmeninės prekybos įmonė arba tiekėjas, arba jie abu yra įsisteigę Europos Sąjungoje.
+
+
+
+
+5. Šiuo įstatymu įgyvendinami Europos Sąjungos teisės aktai, nurodyti šio įstatymo priede.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
  
-
-
 
 
 
@@ -67,7 +79,7 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Didelę rinkos galią turinti mažmeninės prekybos įmonė (toliau – mažmeninės prekybos įmonė) – ūkio subjektas, besiverčiantis mažmenine prekyba nespecializuotose parduotuvėse, kuriose vyrauja maisto prekės, gėrimai ir tabako gaminiai, ir vienas arba kartu su tokia pat prekyba besiverčiančiais su juo susijusiais ūkio subjektais atitinkantis visus šiuos reikalavimus:
+1. Didelę rinkos galią turinti mažmeninės prekybos įmonė (toliau – mažmeninės prekybos įmonė) – ūkio subjektas, besiverčiantis mažmenine prekyba nespecializuotose parduotuvėse, kuriose vyrauja maisto prekės, gėrimai ir tabako gaminiai, ir vienas arba kartu su juo susijusiais ūkio subjektais atitinkantis visus šiuos reikalavimus:
 
 
 1) iš visų Lietuvos Respublikoje jo (jų) valdomų parduotuvių bent 20 parduotuvių yra ne mažesnio kaip 400 m2 prekybos ploto;
@@ -75,24 +87,29 @@ BENDROSIOS NUOSTATOS
 
 
 
-2) bendrosios jo (jų) pajamos paskutiniais finansiniais metais yra ne mažesnės kaip vienas šimtas šešiolika milijonų eurų. Jeigu mažmeninės prekybos įmonė yra užsienio valstybės ūkio subjektas, bendrosios pajamos skaičiuojamos kaip Lietuvos Respublikoje gautų pajamų suma.
+2) jo (jų) pardavimo pajamos paskutiniais finansiniais metais yra ne mažesnės kaip vienas šimtas šešiolika milijonų eurų.
 
 
 
 
 
 
-2. Maisto prekių ir gėrimų tiekėjas (toliau – tiekėjas) – asmuo, pagal didmeninio pirkimo–pardavimo sutartį parduodantis mažmeninės prekybos įmonei maisto prekes ir (ar) gėrimus, skirtus parduoti vartotojui.
+2. Maisto prekių ir (arba) gėrimų tiekėjas (toliau – tiekėjas) – žemės ūkio ir (ar) maisto produktų gamintojas arba fizinis ar juridinis asmuo, kita organizacija, nepriklausomai nuo jų įsisteigimo vietos, pagal didmeninio pirkimo–pardavimo sutartį parduodantis mažmeninės prekybos įmonei žemės ūkio bei maisto prekes ir (ar) gėrimus, skirtus parduoti vartotojui. Ši sąvoka apima ir tokių žemės ūkio ir (ar) maisto produktų gamintojų grupes arba tokių fizinių ar juridinių asmenų grupes, gamintojų organizacijas, tiekėjų organizacijas ir tokių organizacijų asociacijas.
 
 
 
 
-3. Pardavimo skatinimas – visuma į vartotojus nukreiptų veiksmų, kuriais sudaromos palankesnės prekių įsigijimo sąlygos ir taip siekiama didinti prekių pardavimą. 
+3. Pardavimo pajamos – pajamos, gaunamos iš įprastinės ūkinės veiklos: žemės ūkio ir maisto produktų pardavimo, taip pat kitų prekių pardavimo ir (ar) paslaugų teikimo. Į pardavimo pajamas neįskaičiuojamos grąžintinos sumos, pridėtinės vertės mokestis, akcizų ir muitų mokesčiai.
 
 
 
 
-4. Susiję ūkio subjektai – du ar daugiau ūkio subjektų, kurie dėl savitarpio kontrolės ar priklausomybės ir galimų suderintų veiksmų yra laikomi vienu vienetu. Jeigu neįrodoma priešingai, laikoma, kad susiję ūkio subjektai yra kiekvienas nagrinėjamas ūkio subjektas ir:
+4. Pardavimo skatinimas – visuma į vartotojus nukreiptų veiksmų, kuriais sudaromos palankesnės prekių įsigijimo sąlygos ir taip siekiama didinti prekių pardavimą.
+
+
+
+
+5. Susiję ūkio subjektai – du ar daugiau ūkio subjektų, kurie dėl savitarpio kontrolės ar priklausomybės ir galimų suderintų veiksmų yra laikomi vienu vienetu. Jeigu neįrodoma priešingai, laikoma, kad susiję ūkio subjektai yra kiekvienas nagrinėjamas ūkio subjektas ir:
 
 
 1) ūkio subjektai, kurių, kaip ir nagrinėjamo ūkio subjekto, 1/2 ar daugiau įstatinio kapitalo sudarančią akcijų dalį arba teises į 1/2 ar daugiau visų balsų turi tas pats fizinis asmuo arba tie patys fiziniai asmenys;
@@ -110,17 +127,24 @@ BENDROSIOS NUOSTATOS
 
 
 
-4) ūkio subjektai, kurie turi nagrinėjamo ūkio subjekto akcijų dalį, sudarančią 1/2 ar daugiau šio subjekto įstatinio kapitalo, arba turi teises į 1/2 ar daugiau visų balsų, arba su kuriais nagrinėjamas ūkio subjektas yra įsipareigojęs derinti savo ūkinės veiklos sprendimus, arba kurie yra įsipareigoję atsakyti už nagrinėjamo ūkio subjekto prievolių tretiesiems asmenims įvykdymą, arba kuriems nagrinėjamas ūkio subjektas yra įsipareigojęs perduoti visą pelną arba jo dalį ar suteikęs teisę naudoti 1/2 ar daugiau savo turto; 
+4) ūkio subjektai, kurie turi nagrinėjamo ūkio subjekto akcijų dalį, sudarančią 1/2 ar daugiau šio subjekto įstatinio kapitalo, arba turi teises į 1/2 ar daugiau visų balsų, arba su kuriais nagrinėjamas ūkio subjektas yra įsipareigojęs derinti savo ūkinės veiklos sprendimus, arba kurie yra įsipareigoję atsakyti už nagrinėjamo ūkio subjekto prievolių tretiesiems asmenims įvykdymą, arba kuriems nagrinėjamas ūkio subjektas yra įsipareigojęs perduoti visą pelną arba jo dalį ar suteikęs teisę naudoti 1/2 ar daugiau savo turto;
 
 
 
 
-5) ūkio subjektai, kurie tiesiogiai ar netiesiogiai, t. y. per kitus ūkio subjektus, yra susiję su šios dalies 1, 2, 3 ir 4 punktuose nurodytais ūkio subjektais bet kuriuo iš šios dalies 1, 2, 3 ir 4 punktuose nurodytų būdų.
+5) ūkio subjektai, kurie tiesiogiai ar netiesiogiai, tai yra per kitus ūkio subjektus, yra susiję su šios dalies 1, 2, 3 ir 4 punktuose nurodytais ūkio subjektais bet kuriuo iš šios dalies 1, 2, 3 ir 4 punktuose nurodytų būdų.
+
+
+
+
+
+
+6. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatyme.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
  
-
-
-
-
 
 
 
@@ -163,68 +187,54 @@ NESĄŽININGI VEIKSMAI IR JŲ PRIEŽIŪRA
 
 
 
-6) pakeisti esmines tiekimo procedūras ar prekių specifikacijas, apie tai nepranešus tiekėjui per sutartyje nustatytą terminą, kuris negali būti trumpesnis kaip 10 dienų;
+6) pakeisti esmines tiekimo procedūras ar prekių specifikacijas apie tai nepranešus tiekėjui per sutartyje nustatytą terminą, kuris negali būti trumpesnis kaip 10 dienų;
 
 
 
 
-7) priimti neparduotas maisto prekes, išskyrus negreitai gendančias supakuotas maisto prekes, jeigu jos yra saugios, kokybiškos, galioja ne mažiau kaip 1/3 nustatyto tinkamumo vartoti termino arba jų tinkamumo vartoti terminas neribojamas ir dėl jų grąžinimo yra išankstinis susitarimas;
+7) priimti grąžinamas neparduotas maisto prekes, nesumokėjus tiekėjui už šias neparduotas prekes ar nesumokėjus už šių prekių pašalinimą arba abiem atvejais, išskyrus negreitai gendančias supakuotas maisto prekes, jeigu jos yra saugios, kokybiškos, galioja ne mažiau kaip 1/3 nustatyto tinkamumo vartoti termino arba jų tinkamumo vartoti terminas neribojamas ir dėl jų grąžinimo yra išankstinis susitarimas;
 
 
 
 
-8) tiesiogiai ar netiesiogiai apmokėti dalį mažmeninės prekybos įmonės arba kartu su šia įmone vykdomo pardavimo skatinimo išlaidų ar kitokiu būdu už jas atlyginti, išskyrus atvejus, kai yra mažmeninės prekybos įmonės ir tiekėjo rašytinis susitarimas dėl apmokamų išlaidų dydžio ir numatomų taikyti pardavimo skatinimo veiksmų; 
+8) tiesiogiai ar netiesiogiai apmokėti dalį mažmeninės prekybos įmonės arba kartu su šia įmone vykdomo pardavimo skatinimo išlaidų ar kitokiu būdu už jas atlyginti, išskyrus atvejus, kai yra mažmeninės prekybos įmonės ir tiekėjo rašytinis susitarimas dėl apmokamų išlaidų dydžio ir numatomų taikyti pardavimo skatinimo veiksmų;
 
 
 
 
-9) kompensuoti išlaidas, patiriamas sprendžiant vartotojų skundus, išskyrus atvejus, kai pagrįstam vartotojo skundui įtakos turėjo aplinkybės, už kurias atsako tiekėjas. Šiuo atveju mažmeninės prekybos įmonės iš tiekėjo reikalaujama kompensuoti išlaidų suma turi būti pagrįsta faktinėmis mažmeninės prekybos įmonės išlaidomis;
+9) tiesiogiai ar netiesiogiai mokėti ar kitokiu būdu atlyginti už prekių išdėstymą, išskyrus atvejus, kai yra mažmeninės prekybos įmonės ir tiekėjo rašytinis susitarimas dėl mokėjimo už prekių išdėstymą;
 
 
 
 
-10) tiesiogiai ar netiesiogiai mokėti ar kitokiu būdu atlyginti už prekių išdėstymą, išskyrus atvejus, kai yra mažmeninės prekybos įmonės ir tiekėjo rašytinis susitarimas dėl mokėjimo už prekių išdėstymą;
+10) suteikti prekėms komercines nuolaidas, mokėti tiesiogiai ar netiesiogiai arba kitokiu būdu atlyginti mažmeninės prekybos įmonei už tai, dėl ko nebuvo susitarta raštu, elektroniniu paštu ar kitomis elektroninėmis priemonėmis.
 
 
 
 
-11) suteikti prekėms komercines nuolaidas, mokėti tiesiogiai ar netiesiogiai arba kitokiu būdu atlyginti mažmeninės prekybos įmonei už tai, dėl ko nebuvo susitarta raštu, elektroniniu paštu ar kitomis elektroninėmis priemonėmis. 
-Papildyta straipsnio punktu:
-Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
+
+
+2. Mažmeninės prekybos įmonėms draudžiama sutartyje nustačius tiekėjui fiksuota pinigų suma išreikštą komercinę nuolaidą, nesusietą su prekių pardavimu, kokybe, logistika (prekių paskirstymu ir pristatymu), prekių pardavimo skatinimu ir (ar) kitomis prekių pirkimo ir pardavimo sąlygomis, ir pareikalavus priimti neparduotas maisto prekes (kurių nedraudžiama grąžinti pagal šio straipsnio 1 dalies 7 punktą), už kurias buvo gauta fiksuota pinigų suma išreikšta komercinė nuolaida, atsisakyti grąžinti tiekėjui šioms grąžintoms maisto prekėms proporcingai tenkančios fiksuota pinigų suma išreikštos komercinės nuolaidos dalį.
+
+
+
+
+3. Be šiame straipsnyje nurodytų ūkinės veiklos sąžiningai praktikai prieštaraujančių veiksmų, mažmeninės prekybos įmonėms taip pat draudžiama atlikti nesąžiningos prekybos praktikos veiksmus, nurodytus Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatyme. Jeigu mažmeninės prekybos įmonė tais pačiais veiksmais pažeidžia šio įstatymo ir (ar) Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo nuostatas, ji atsako šio įstatymo nustatyta tvarka.
+
+
+
+
+4. Atliekant tyrimą dėl šio įstatymo pažeidimo (toliau – pažeidimo tyrimas), pareiga įrodyti, kad šio straipsnio 1 dalies 7, 8, 9 ir 10 punktuose nurodytas susitarimas yra sudarytas ir atitinka nustatytus reikalavimus, tenka tokį susitarimą sudariusiai mažmeninės prekybos įmonei.
+
+
+
+
+5. Jeigu mažmeninės prekybos įmonė iš tiekėjo reikalauja mokesčio šio straipsnio 1 dalies 8, 9 ir 10 punktuose nurodytais atvejais teikdama paslaugas tiekėjui, tiekėjo prašymu mažmeninės prekybos įmonė privalo raštu pateikti tiekėjui informaciją apie mokėjimus už parduodamų maisto prekių ir gėrimų vienetą (vienetus) arba bendrą mokėjimų sumą, o šio straipsnio 1 dalies 9 ir 10 punktuose nurodytais atvejais mažmeninės prekybos įmonė privalo raštu pateikti tiekėjui dar ir išlaidų sąmatą bei tos sąmatos pagrindimą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
  
-
-
-
-
-
-
-2. Mažmeninės prekybos įmonėms draudžiama sutartyje nustačius tiekėjui fiksuota pinigų suma išreikštą komercinę nuolaidą, nesusietą su prekių pardavimu, kokybe, logistika (prekių paskirstymu ir pristatymu), prekių pardavimo skatinimu ir (ar) kitomis prekių pirkimo ir pardavimo sąlygomis, ir pareikalavus priimti neparduotas maisto prekes (kurių nedraudžiama grąžinti pagal šios dalies 7 punktą), už kurias buvo gauta fiksuota pinigų suma išreikšta komercinė nuolaida, atsisakyti grąžinti tiekėjui šioms grąžintoms maisto prekėms proporcingai tenkančios fiksuota pinigų suma išreikštos komercinės nuolaidos dalį.
-
-
-
-
-3. Atliekant tyrimą dėl šio įstatymo pažeidimo (toliau – pažeidimo tyrimas), pareiga įrodyti, kad šio straipsnio 1 dalies 7, 8, 10 ir 11 punktuose nurodytas susitarimas yra sudarytas ir atitinka nustatytus reikalavimus, tenka tokį susitarimą sudariusiai mažmeninės prekybos įmonei. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
- 
-
-
-
-
-4. Mažmeninės prekybos įmonėms draudžiama taikyti neigiamo poveikio priemones tiekėjui dėl to, kad tiekėjas dėl mažmeninės prekybos įmonės veiksmų kreipėsi į teismą ar pateikė pareiškimą atlikti pažeidimo tyrimą šio įstatymo nuostatų laikymosi priežiūrą atliekančiai institucijai arba su ja bendradarbiauja. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
- 
-
-
-
-
-5. Jeigu tiekėjui buvo taikytos neigiamo poveikio priemonės, mažmeninės prekybos įmonė ginčo atveju turi įrodyti, kad neigiamus padarinius tiekėjas patyrė ne dėl šio straipsnio 4 dalyje nurodytų tiekėjo veiksmų. 
-Papildyta straipsnio dalimi:
-Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
- 
-
-
 
 
 
@@ -232,7 +242,7 @@ Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
 4 straipsnis. Nesąžiningų veiksmų priežiūros institucija, jos funkcijos ir teisės
 
 
-1. Šio įstatymo nuostatų laikymosi priežiūrą atlieka Lietuvos Respublikos konkurencijos taryba (toliau – Konkurencijos taryba).
+1. Šio įstatymo nuostatų laikymosi priežiūrą atlieka Lietuvos Respublikos konkurencijos taryba.
 
 
 
@@ -240,7 +250,7 @@ Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
 2. Konkurencijos taryba:
 
 
-1) prižiūri, kaip mažmeninės prekybos įmonės laikosi šio įstatymo reikalavimų;
+1) prižiūri, kaip mažmeninės prekybos įmonės laikosi šio įstatymo, Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo reikalavimų, tiek, kiek jie taikomi mažmeninės prekybos įmonėms;
 
 
 
@@ -250,40 +260,29 @@ Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
 
 
 
-3) atlieka šio įstatymo įgyvendinimo stebėseną ir teikia Vyriausybės paskirtai teisinio reguliavimo stebėseną koordinuojančiai institucijai šio įstatymo įgyvendinimo stebėsenos pažymą;
+3) atlieka šio įstatymo įgyvendinimo stebėseną;
 
 
 
 
-4) atlieka mažmeninės prekybos įmonių ir tiekėjų sudarytų sutarčių, galimų ūkinės veiklos sąžiningai praktikai prieštaraujančių veiksmų, nurodytų šio įstatymo 3 straipsnio 1, 2 ir 4 dalyse, iki ir po sutarties sudarymo patikrinimus Konkurencijos tarybos nustatyta tvarka, tokių patikrinimų rezultatus teikia Vyriausybės paskirtai teisinio reguliavimo stebėseną koordinuojančiai institucijai kartu su šio įstatymo įgyvendinimo stebėsenos pažyma; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
+4) atlieka mažmeninės prekybos įmonių ir tiekėjų sudarytų sutarčių, galimų ūkinės veiklos sąžiningai praktikai prieštaraujančių veiksmų, nurodytų šio įstatymo 3 straipsnio 1, 2 ir 3 dalyse, iki šių sutarčių sudarymo ir jas sudarius patikrinimus savo nustatyta tvarka;
+
+
+
+
+5) Konkurencijos taryba bendradarbiauja su Lietuvos Respublikos valstybės institucijomis ir įstaigomis, vykdančiomis Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo priežiūrą, Europos Komisija ir kitų Europos Sąjungos valstybių narių priežiūros institucijomis, teikdama savitarpio pagalbą atliekant tarpvalstybinio pobūdžio tyrimus ir keičiantis informacija;
+
+
+
+
+6) atlieka kitas šiame įstatyme nustatytas funkcijas.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
  
-
-
-
-
-5) atlieka kitas šiame įstatyme nustatytas funkcijas.
-
-
-
-
-
-
-3. Konkurencijos taryba, atlikdama šiame įstatyme nustatytas funkcijas, turi teisę:
-
-
-1) duoti privalomus nurodymus mažmeninės prekybos įmonėms, tiekėjams, kitiems asmenims ir viešojo administravimo subjektams pateikti dokumentus, tarp jų ir tuos, kuriuose yra komercinių paslapčių, ir kitą informaciją, reikalingą šiame įstatyme nustatytoms jos funkcijoms atlikti;
-
-
-
-
-2) apklausti asmenis, susijusius su tiriamais mažmeninės prekybos įmonių veiksmais, gauti iš šių asmenų rašytinius parodymus, kviesti atvykti duoti parodymų į pažeidimo tyrimą atliekančio įgalioto pareigūno tarnybines patalpas.
- 
-
-
-
-
 
 
 
@@ -296,9 +295,10 @@ Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
 
 
 
-2. Tiekėjo, pateikusio Konkurencijos tarybai šio įstatymo 8 straipsnio 1 dalyje nurodytą pareiškimą ir (ar) dokumentus bei kitą informaciją, reikalingą Konkurencijos tarybos funkcijoms atlikti, prašymu jį identifikuojantys duomenys neskelbiami ir neatskleidžiami. 
+2. Tiekėjo, pateikusio Konkurencijos tarybai šio įstatymo 8 straipsnio 1 dalyje nurodytą pareiškimą ir (ar) dokumentus bei kitą informaciją, reikalingą Konkurencijos tarybos funkcijoms atlikti, prašymu jo asmens duomenys neskelbiami ir neatskleidžiami. Pareiškėjas, pateikdamas pareiškimą, nurodo, kokią informaciją jis prašo laikyti konfidencialia.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
  
 
 
@@ -316,15 +316,17 @@ ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA
 6 straipsnis. Šio įstatymo pažeidimų nagrinėjimo iniciatyvos teisė
 
 
-1. Teisę reikalauti, kad Konkurencijos taryba pradėtų pažeidimo tyrimą, turi tiekėjai, kurių interesai yra pažeisti, ir tiekėjų interesams atstovaujančios asociacijos (toliau kartu – pareiškėjas). 
+1. Tiekėjai, kurių interesai yra pažeisti, gamintojų organizacijos, kitos tiekėjų organizacijos ir tokių organizacijų asociacijos (toliau kartu – pareiškėjas) turi teisę reikalauti, kad Konkurencijos taryba pradėtų pažeidimo tyrimą, ir pateikti pareiškimą vieno arba kelių savo narių, kurių interesai buvo pažeisti, prašymu. Kitos organizacijos, turinčios teisėtą interesą atstovauti tiekėjams, turi teisę pateikti pareiškimą tiekėjo prašymu ir jo interesais, jeigu tokios organizacijos yra su mažmeninės prekybos įmonėmis nesusiję pelno nesiekiantys juridiniai asmenys.
 
 
 
 
-2. Konkurencijos taryba turi teisę pradėti pažeidimo tyrimą savo iniciatyva, priimdama motyvuotą nutarimą.
+2. Konkurencijos taryba turi teisę pradėti pažeidimo tyrimą savo iniciatyva, priimdama motyvuotą nutarimą. Konkurencijos taryba taip pat turi teisę pradėti pažeidimo tyrimą savo iniciatyva pagal informatorių ar anonimiškai pateiktą informaciją, priimdama motyvuotą nutarimą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
  
-
-
 
 
 
@@ -418,12 +420,18 @@ Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
 
 
 
-3) nėra faktinių duomenų, kurie leistų pagrįstai įtarti, kad buvo pažeistas šis įstatymas;
+3) neteko galios nuo 2021-11-01;
+Straipsnio punkto pakeitimai:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
+ 
 
 
 
 
-4) pareiškimas neatitinka šio straipsnio 1 dalyje nurodytų reikalavimų ir pareiškėjas per Konkurencijos tarybos nustatytą ne trumpesnį kaip 5 darbo dienų terminą nepašalina nustatytų pareiškimo trūkumų;
+4) pareiškimas neatitinka šio straipsnio 1 dalyje nurodytų reikalavimų ir pareiškėjas per Konkurencijos tarybos nustatytą ne trumpesnį kaip 5 darbo dienų terminą nepašalina nustatytų pareiškimo trūkumų. Konkurencijos tarybos atsisakymas priimti pareiškimą nekliudo vėl kreiptis į Konkurencijos tarybą su tuo pačiu pareiškimu, jeigu yra pašalintos arba išnykusios aplinkybės, kliudžiusios priimti pareiškimą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
+ 
 
 
 
@@ -433,7 +441,15 @@ Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
 
 
 
-6) nuo šio įstatymo pažeidimo dienos iki šio straipsnio 1 dalyje nurodytus reikalavimus atitinkančio pareiškimo gavimo dienos praėjo daugiau kaip vieni metai, o jeigu pažeidimas yra tęstinis ar trunkamasis, – daugiau kaip vieni metai nuo pažeidimo paaiškėjimo dienos.
+6) nuo šio įstatymo pažeidimo dienos iki šio straipsnio 1 dalyje nurodytus reikalavimus atitinkančio pareiškimo gavimo dienos praėjo daugiau kaip vieni metai, o jeigu pažeidimas yra tęstinis ar trunkamasis, – daugiau kaip vieni metai nuo pažeidimo paaiškėjimo dienos;
+
+
+
+
+7) pareiškime nurodytos faktinės aplinkybės yra priskirtinos prie galimų mažareikšmių pažeidimų ir neatitinka Konkurencijos tarybos patvirtintų administracinių veiklos prioritetų. 
+Papildyta straipsnio punktu:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
+ 
 
 
 
@@ -458,7 +474,9 @@ Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
 
 
 
-6. Jeigu Konkurencijos taryba priima motyvuotą nutarimą atsisakyti pradėti pažeidimo tyrimą, šis nutarimas ne vėliau kaip per 3 darbo dienas nuo jo priėmimo skelbiamas šios institucijos interneto svetainėje ir jo kopija išsiunčiama pareiškėjui.
+6. Jeigu Konkurencijos taryba priima motyvuotą nutarimą atsisakyti pradėti pažeidimo tyrimą, šio nutarimo kopija ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos išsiunčiama pareiškėjui.
+Straipsnio dalies pakeitimai:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
  
 
 
@@ -507,7 +525,15 @@ Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
 
 
 
-8) pažeidimo tyrimui naudoti Konkurencijos tarybos turimą informaciją, gautą kitų tyrimų ar nagrinėjimų metu.
+8) pažeidimo tyrimui naudoti Konkurencijos tarybos turimą informaciją, gautą kitų tyrimų ar nagrinėjimų metu;
+
+
+
+
+9) pažeidimų tyrimo metu be išankstinio įspėjimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją. Įeiti į tikrinamos mažmeninės prekybos įmonės teritoriją, patalpas galima tik tikrinamos mažmeninės prekybos įmonės darbo laiku, pateikus įgaliojimus, asmens tapatybės patvirtinimo dokumentus ir teismo nutartį dėl leidimo įeiti į patalpas.
+Papildyta straipsnio punktu:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
+ 
 
 
 
@@ -560,7 +586,15 @@ Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
 
 
 
-2) pažeidimo tyrimo metu paaiškėja arba atsiranda šio įstatymo 8 straipsnio 2 dalyje nurodytos aplinkybės.
+2) pažeidimo tyrimo metu paaiškėja arba atsiranda šio įstatymo 8 straipsnio 2 dalyje nurodytos aplinkybės;
+
+
+
+
+3) pažeidimo tyrimas keltų riziką, kad bus atskleista pareiškėjo tapatybė arba bet kuri kita informacija, kurią atskleidus, pareiškėjo manymu, būtų pakenkta jo interesams, ir pareiškėjas prašo informaciją laikyti konfidencialia, o Konkurencijos taryba negali užtikrinti šio įstatymo 5 straipsnio 2 dalies nuostatų įgyvendinimo.
+Papildyta straipsnio punktu:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
+ 
 
 
 
@@ -585,6 +619,97 @@ Baigus pažeidimo tyrimą, proceso dalyviams ne vėliau kaip prieš 21 dieną ik
 
 Papildyta straipsniu:
 Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
+ 
+
+
+
+
+93 straipsnis. Laikinosios priemonės
+
+
+1. Neatidėliotinais atvejais, jeigu yra pakankamai duomenų apie šio įstatymo pažeidimą, siekdama išvengti esminės žalos ar nepataisomų pasekmių ūkio subjektų ar visuomenės interesams ir laikydamasi proporcingumo principo, Konkurencijos taryba turi teisę priimti nutarimą taikyti laikinąsias priemones.
+
+
+
+
+2. Šio straipsnio 1 dalyje nurodytais atvejais mažmeninės prekybos įmonei, įtariamai padarius šio įstatymo pažeidimą, Konkurencijos taryba turi teisę taikyti šias laikinąsias priemones:
+
+
+1) įpareigoti mažmeninės prekybos įmonę nutraukti galimai neteisėtą veiklą;
+
+
+
+
+2) įpareigoti mažmeninės prekybos įmonę atlikti tam tikrus veiksmus, jeigu jų neatlikimas padarytų kitiems ūkio subjektams ar visuomenės interesams esminę žalą ar atsirastų nepataisomų pasekmių.
+
+
+
+
+
+
+3. Prieš priimdama nutarimą taikyti laikinąsias priemones, Konkurencijos taryba mažmeninės prekybos įmonei, įtariamai pažeidus šį įstatymą, turi suteikti galimybę per nustatytą ne trumpesnį kaip 7 darbo dienų terminą pateikti paaiškinimus.
+
+
+
+
+4. Konkurencijos tarybos nutarimu laikinosios priemonės gali būti taikomos ne ilgesnį kaip 12 mėnesių laikotarpį; Konkurencijos tarybos nutarimu šis laikotarpis dar gali būti pratęstas. Jeigu yra būtina, laikinosios priemonės taikomos tol, kol Konkurencijos taryba priims galutinį nutarimą dėl pažeidimo.
+
+
+
+
+5. Konkurencijos tarybos nutarimas taikyti laikinąsias priemones gali būti skundžiamas Vilniaus apygardos administraciniam teismui per 10 kalendorinių dienų nuo jo įteikimo dienos. Skundo padavimas laikinųjų priemonių taikymo nesustabdo. Skundas turi būti išnagrinėtas ir sprendimas dėl jo priimtas per 45 kalendorines dienas nuo skundo gavimo dienos. Vilniaus apygardos administracinio teismo sprendimas gali būti skundžiamas Lietuvos vyriausiajam administraciniam teismui per 7 kalendorines dienas nuo sprendimo paskelbimo Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka. Lietuvos vyriausiasis administracinis teismas apeliacinį skundą dėl Vilniaus apygardos administracinio teismo sprendimo turi išnagrinėti ir sprendimą dėl jo priimti per 45 kalendorines dienas nuo bylos gavimo teisme dienos.
+
+
+Papildyta straipsniu:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
+ 
+
+
+
+
+94 straipsnis. Teismo leidimų įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją gavimo tvarka
+
+
+1. Konkurencijos tarybai priėmus nutarimą dėl tyrimo veiksmų, numatytų šio įstatymo 9 straipsnio 1 dalies 9 punkte, Konkurencijos tarybos įgaliotas pareigūnas pateikia Vilniaus apygardos administraciniam teismui prašymą dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją.
+
+
+
+
+2. Prašyme dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją turi būti nurodytas mažmeninės prekybos įmonės pavadinimas, įtariamų pažeidimų pobūdis ir numatomi tyrimo veiksmai.
+
+
+
+
+3. Prašymą dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją išdavimo išnagrinėja Vilniaus apygardos administracinis teismas ir priima motyvuotą nutartį prašymą dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją patenkinti visiškai, patenkinti iš dalies arba atmesti.
+
+
+
+
+4. Prašymas dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją pateikimo momento.
+
+
+
+
+5. Konkurencijos taryba turi teisę Vilniaus apygardos administracinio teismo nutartį, kuria prašymas dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją atmestas arba patenkintas iš dalies, per 7 dienas nuo teismo nutarties paskelbimo dienos apskųsti Lietuvos vyriausiajam administraciniam teismui.
+
+
+
+
+6. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7 dienas nuo šio skundo gavimo dienos. Konkurencijos tarybos atstovas turi teisę dalyvauti nagrinėjant skundą žodinio proceso tvarka.
+
+
+
+
+7. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama.
+
+
+
+
+8. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo įeiti į tikrinamos mažmeninės prekybos įmonės patalpas, teritoriją, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą.
+
+
+Papildyta straipsniu:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
  
 
 
@@ -664,49 +789,90 @@ Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
 11 straipsnis. Konkurencijos tarybos nutarimų apskundimas
 
 
-Konkurencijos tarybos nutarimai, priimti pagal šio įstatymo 8 straipsnio 2 dalį, 9 straipsnio 2 dalį ir 10 straipsnio 6 dalies 1 ir 2 punktus, per 30 dienų nuo jų priėmimo dienos gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+Konkurencijos tarybos nutarimai, priimti pagal šio įstatymo 8 straipsnio 2 dalį, 91 straipsnio 3 dalį ir 10 straipsnio 6 dalies 1 ir 2 punktus, per 30 dienų nuo jų įteikimo dienos gali būti skundžiami teismui Lietuvos Respublikos administracinių bylų teisenos įstatymo nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
  
 
 
 
 
+12 straipsnis. Sankcijos
 
 
-12 straipsnis. Sankcijos 
-
-
-1. Už šio įstatymo 3 straipsnio 1, 2 ir 4 dalyse nurodytus draudžiamus nesąžiningus veiksmus mažmeninės prekybos įmonėms skiriama bauda iki vieno šimto dvidešimties tūkstančių eurų. Kartu su bauda gali būti skiriamas įpareigojimas nutraukti šiame įstatyme nustatytus draudžiamus nesąžiningus veiksmus ar įpareigojimas atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, įskaitant sutarties pakeitimą. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
- 
+1. Už šio įstatymo 3 straipsnio 1, 2 ir 3 dalyse nurodytus draudžiamus nesąžiningus veiksmus, išskyrus Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo 4 straipsnio 1 ir 2 dalyse nurodytus pažeidimus, mažmeninės prekybos įmonėms skiriama bauda iki 0,7 procento jų praėjusių finansinių metų pardavimo pajamų. Konkurencijos taryba turi teisę mažmeninės prekybos įmonei skirti įpareigojimą nutraukti šiame įstatyme nustatytus draudžiamus nesąžiningus veiksmus ar įpareigojimą atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, įskaitant sutarties pakeitimą.
 
 
 
 
-2. Už Konkurencijos tarybos įgaliotų pareigūnų reikalavimų atliekant šio įstatymo 9 straipsnio 1 dalies 1–7 punktuose nurodytus veiksmus nevykdymą mažmeninės prekybos įmonėms, tiekėjams ar kitiems asmenims skiriama bauda iki dešimties tūkstančių eurų. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
- 
+2. Skiriama bauda apskaičiuojama tokia tvarka:
+
+
+1) nustatomas pradinis baudos dydis, kuris yra 0,05 procento praėjusių finansinių metų pardavimo pajamų;
 
 
 
 
-3. Už Konkurencijos tarybos nurodymų pateikti informaciją vykdymą ne laiku mažmeninės prekybos įmonėms, tiekėjams ar kitiems asmenims skiriama trijų šimtų eurų bauda už kiekvieną nurodymų nevykdymo dieną.
+2) nustatomas bazinis baudos dydis, kuris apskaičiuojamas pradinį baudos dydį didinant arba mažinant atsižvelgus į pažeidimo pobūdį, trukmę ir mastą. Pradinis baudos dydis dauginamas iš kiekvienam iš pažeidimo kriterijų (pobūdžio, trukmės ir masto) nustatyto koeficiento, kuris gali būti nuo 0,22 iki 1,78;
 
 
 
 
-4. Už Konkurencijos tarybos įpareigojimų nutraukti draudžiamus nesąžiningus veiksmus, atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, nevykdymą arba vykdymą ne laiku mažmeninės prekybos įmonėms skiriama trijų šimtų eurų bauda už kiekvieną pažeidimo vykdymo (tęsimo) dieną.
+3) šios dalies 2 punkte apskaičiuotas bazinis baudos dydis didinamas arba mažinamas iki 50 procentų, atsižvelgiant į lengvinančias ir sunkinančias aplinkybes. Nustačius sunkinančią aplinkybę – mažmeninės prekybos įmonė per metus nuo šiame įstatyme nustatytos baudos paskyrimo pakartotinai padaro tokį pat pažeidimą – bazinis baudos dydis didinamas iki 100 procentų.
 
 
 
 
-5. Konkurencijos tarybos skiriamos baudos dydis priklauso nuo pažeidimo pobūdžio, pažeidimo trukmės ir masto, atsakomybę lengvinančių ir sunkinančių aplinkybių.
+
+
+3. Už Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo 4 straipsnio 1 ir 2 dalyse nurodytus pažeidimus mažmeninės prekybos įmonei skiriama ne mažesnė kaip 200 eurų, tačiau ne didesnė kaip 20 procentų nuo susidariusios pradelstų skolų tiekėjui sumos dydžio bauda. Skiriama bauda apskaičiuojama tokia tvarka:
+
+
+1) nustatomas pradinis baudos dydis, kuris yra lygus 7 procentams nuo susidariusios pradelstų skolų tiekėjui sumos;
 
 
 
 
-6. Skundą dėl Konkurencijos tarybos nutarimo nagrinėjantis teismas, atsižvelgdamas į atsakomybę lengvinančias ir kitas aplinkybes (dėl kurių atitinkama bauda būtų akivaizdžiai per didelė, nes neproporcinga padarytam teisės pažeidimui ir dėl to neteisinga) ir vadovaudamasis teisingumo, protingumo kriterijais, turi teisę skirti mažesnę baudą, negu šiame straipsnyje nustatytos baudos.
+2) apskaičiuojamas bazinis baudos dydis, atsižvelgiant į pažeidimo trukmę:
+
+
+a) kai tiekėjui vėluojama sumokėti nuo 1 iki 30 kalendorinių dienų imtinai nuo nustatyto mokėjimo termino pabaigos, pradinis baudos dydis didinamas iki 25 procentų;
+
+
+
+
+b) kai tiekėjui vėluojama sumokėti nuo 31 iki 60 kalendorinių dienų imtinai nuo nustatyto mokėjimo termino pabaigos, pradinis baudos dydis didinamas iki 50 procentų;
+
+
+
+
+c) kai tiekėjui vėluojama sumokėti daugiau kaip 60 dienų nuo nustatyto mokėjimo termino pabaigos, pradinis baudos dydis didinamas iki 100 procentų;
+
+
+
+
+
+
+3) apskaičiuojamas skiriamos baudos dydis, atsižvelgiant į šio straipsnio 2 dalies 3 punkte nustatytas atsakomybę lengvinančias ir (arba) sunkinančias aplinkybes. Nustačius atsakomybę lengvinančias ir (arba) sunkinančias aplinkybes bei įvertinus jų skaičių ir reikšmingumą, bazinis baudos dydis mažinamas iki 50 procentų arba didinamas iki 50 procentų, tačiau skiriamos baudos dydis negali būti mažesnis kaip 200 eurų ir didesnis kaip 20 procentų nuo susidariusios pradelstų skolų tiekėjui sumos.
+
+
+
+
+
+
+4. Baudos dydžio apskaičiavimo tvarka nustatoma Vyriausybės patvirtintame Baudų už Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo pažeidimus skyrimo tvarkos apraše.
+
+
+
+
+5. Už Konkurencijos tarybos įpareigojimų nutraukti draudžiamus nesąžiningus veiksmus, atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, nevykdymą arba vykdymą ne laiku mažmeninės prekybos įmonėms skiriama trijų šimtų eurų bauda už kiekvieną pažeidimo vykdymo (tęsimo) dieną.
+
+
+
+
+6. Už Konkurencijos tarybos įgaliotų pareigūnų reikalavimų atliekant šio įstatymo 9 straipsnio 1 dalies 1–7 ir 9 punktuose nurodytus veiksmus nevykdymą mažmeninės prekybos įmonėms, tiekėjams ar kitiems asmenims skiriama bauda iki dešimties tūkstančių eurų.
 
 
 
@@ -731,10 +897,12 @@ Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
 
 
 
-11. Konkurencijos tarybos nutarimas dėl baudos skyrimo yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+11. Konkurencijos tarybos nutarimas dėl baudos skyrimo yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
  
-
-
 
 
 
@@ -752,7 +920,10 @@ Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
 
 
 
-14 straipsnis. Žalos atlyginimas
+14 straipsnis. Žalos atlyginimas ir alternatyvus ginčų sprendimas 
+Pakeistas straipsnio pavadinimas:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
+ 
 
 
 1. Asmenys turi teisę įstatymų nustatyta tvarka kreiptis į teismą dėl šio įstatymo pažeidimu padarytos žalos atlyginimo. 
@@ -761,6 +932,13 @@ Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
 
 
 2. Žala, padaryta asmenims neteisėtais Konkurencijos tarybos ar jos pareigūnų veiksmais, atlyginama įstatymų nustatyta tvarka.
+
+
+
+
+3. Mažmeninės prekybos įmonių ir tiekėjų teisę ginčus dėl nesąžiningų veiksmų spręsti naudojantis alternatyviais ginčų sprendimo būdais reglamentuoja Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymas.
+Papildyta straipsnio dalimi:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
  
 
 
@@ -775,12 +953,15 @@ BAIGIAMOSIOS NUOSTATOS
  
 
 
-15 straipsnis. Įstatymo įgyvendinimo stebėsena
+15 straipsnis. Metinių ataskaitų teikimas
 
 
-Konkurencijos taryba kas dvejus metus teisės aktų nustatyta tvarka atlieka šio įstatymo įgyvendinimo stebėseną ir iki atitinkamų metų birželio 1 dienos teikia Vyriausybės paskirtai teisinio reguliavimo stebėseną koordinuojančiai institucijai dvejų metų šio įstatymo įgyvendinimo stebėsenos pažymą.
+Konkurencijos taryba iki kiekvienų metų vasario 1 dienos pateikia viešajai įstaigai Kaimo verslo ir rinkų plėtros agentūrai, kuri koordinuoja 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyvos (ES) 2019/633 dėl įmonių vienų kitoms taikomos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje teisinio reguliavimo stebėseną, informaciją apie Konkurencijos tarybos veiklą, susijusią su šio įstatymo priežiūra, ir nurodo per praėjusius metus gautų skundų skaičių ir pradėtų arba užbaigtų tyrimų skaičių. Pateikiama kiekvieno užbaigto tyrimo dalyko santrauka, tyrimo rezultatai ir, kai taikytina, nurodomas priimtas sprendimas, laikantis šio įstatymo 5 straipsnyje nustatytų konfidencialumo reikalavimų, taip pat pateikiami galimi pasiūlymai dėl teisinio reguliavimo tobulinimo tikslingumo.
 
 
+Straipsnio pakeitimai:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
+ 
 
 
 
@@ -792,9 +973,28 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                      DALIA GRYBAUSKAITĖ
 
 
+ 
+
+
+
+
+Lietuvos Respublikos mažmeninės
+prekybos įmonių nesąžiningų 
+veiksmų draudimo įstatymo 
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/633 dėl įmonių vienų kitoms taikomos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje.
+
+
+Papildyta priedu:
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
  
  
  
@@ -814,3 +1014,8 @@ Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų drau
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2121, 2019-05-16, paskelbta TAR 2019-05-28, i. k. 2019-08410
 Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 3, 4, 5, 7, 8, 9, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo 9-1, 9-2 straipsniais įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-410, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15164
+Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo Nr. XI-626 1, 2, 3, 4, 5, 6, 8, 9, 9-1, 11, 12, 14, 15 straipsnių pakeitimo ir Įstatymo papildymo 9-3, 9-4 straipsniais ir priedu įstatymas
