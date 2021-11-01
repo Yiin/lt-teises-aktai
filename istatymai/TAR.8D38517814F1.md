@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2021-11-12
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -650,25 +650,41 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
-66. Valstybė narė – Europos Sąjungos valstybė narė arba Europos ekonominės erdvės valstybė.
-
-
-
-
-67. Sąvoka „medicinos prietaisas“ suprantama kaip „medicinos prietaisas“ arba „priedas“, kuris atitinkamai apibrėžtas 1993 m. birželio 14 d. Tarybos direktyvos 93/42/EEB dėl medicinos prietaisų 1 straipsnio 2 dalies a arba b punkte ir kuris yra elektros ir elektroninė įranga. Sąvoka „in vitro diagnostikos medicinos prietaisas“ suprantama kaip „in vitro diagnostikos prietaisas“ arba „priedas“, kuris atitinkamai apibrėžtas 1998 m. spalio 27 d. Europos Parlamento ir Tarybos direktyvos 98/79/EB dėl in vitro diagnostikos medicinos prietaisų 1 straipsnio 2 dalies b arba c punkte ir kuris yra elektros ir elektroninė įranga. Sąvoka „aktyvusis implantuojamasis medicinos prietaisas“ suprantama kaip „aktyvusis implantuojamasis medicinos prietaisas“, kuris apibrėžtas 1990 m. birželio 20 d. Tarybos direktyvos 90/385/EEB dėl valstybių narių įstatymų, reglamentuojančių aktyviuosius implantuojamuosius medicinos prietaisus, suderinimo 1 straipsnio 2 dalies c punkte ir kuris yra elektros ir elektroninė įranga.
-
-
-
-
-68. Sąvoka „maisto tvarkymo subjektas“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos maisto įstatyme. 
+66. Transporto priemonės ardymas – atskirų transporto priemonės dalių, mazgų, mechanizmų, agregatų, sistemų išmontavimas, transporto priemonės sukarpymas, smulkinimas ar kitoks apdorojimas siekiant juos pakartotinai naudoti, perdirbti ar šalinti. 
 Papildyta straipsnio dalimi:
-Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
+Nr. XIV-286, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09688
  
 
 
 
 
-69. Sąvoka „statybinės atliekos“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos statybos įstatyme. 
+67. Valstybė narė – Europos Sąjungos valstybė narė arba Europos ekonominės erdvės valstybė.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-286, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09688
+ 
+
+
+
+
+68. Sąvoka „medicinos prietaisas“ suprantama kaip „medicinos prietaisas“ arba „priedas“, kuris atitinkamai apibrėžtas 1993 m. birželio 14 d. Tarybos direktyvos 93/42/EEB dėl medicinos prietaisų 1 straipsnio 2 dalies a arba b punkte ir kuris yra elektros ir elektroninė įranga. Sąvoka „in vitro diagnostikos medicinos prietaisas“ suprantama kaip „in vitro diagnostikos prietaisas“ arba „priedas“, kuris atitinkamai apibrėžtas 1998 m. spalio 27 d. Europos Parlamento ir Tarybos direktyvos 98/79/EB dėl in vitro diagnostikos medicinos prietaisų 1 straipsnio 2 dalies b arba c punkte ir kuris yra elektros ir elektroninė įranga. Sąvoka „aktyvusis implantuojamasis medicinos prietaisas“ suprantama kaip „aktyvusis implantuojamasis medicinos prietaisas“, kuris apibrėžtas 1990 m. birželio 20 d. Tarybos direktyvos 90/385/EEB dėl valstybių narių įstatymų, reglamentuojančių aktyviuosius implantuojamuosius medicinos prietaisus, suderinimo 1 straipsnio 2 dalies c punkte ir kuris yra elektros ir elektroninė įranga.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-286, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09688
+ 
+
+
+
+
+69. Sąvoka „maisto tvarkymo subjektas“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos maisto įstatyme. 
+Papildyta straipsnio dalimi:
+Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-286, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09688
+ 
+
+
+
+
+70. Sąvoka „statybinės atliekos“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos statybos įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
  
@@ -676,7 +692,7 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
-70. Sąvoka „strateginės prekės“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos strateginių prekių kontrolės įstatyme. 
+71. Sąvoka „strateginės prekės“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos strateginių prekių kontrolės įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
  
@@ -3128,6 +3144,32 @@ Nr. XIII-1018, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01031
 9. Šio straipsnio 1 dalies 4 punkto nuostatos netaikomos transporto priemones Lietuvos Respublikos teritorijoje pagaminantiems ar įvežantiems į Lietuvos Respublikos teritoriją ir savoms reikmėms sunaudojantiems gamintojams ir (ar) importuotojams.
 
 
+
+
+10. Transporto priemonė (išskyrus istorines transporto priemones, apibrėžtas Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 2 straipsnio 23 dalyje) pripažįstama eksploatuoti netinkama transporto priemone, tai yra gaminio atlieka, ir turi būti tvarkoma šio Įstatymo 4 straipsnyje nustatyta tvarka, jeigu ji atitinka bent vieną iš šių sąlygų:
+
+
+1) transporto priemonės savininkui išduotas eksploatuoti netinkamos transporto priemonės sunaikinimo pažymėjimas;
+
+
+
+
+2) transporto priemonė ardoma arba yra išardyta taip, kad jos eksploatavimas pagal paskirtį yra negalimas. 
+
+
+Papildyta straipsnio dalimi:
+Nr. XIV-286, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09688
+ 
+
+
+
+
+11. Transporto priemonių pripažinimo eksploatuoti netinkamomis transporto priemonėmis kontrolės tvarką nustato Vyriausybė.
+Papildyta straipsnio dalimi:
+Nr. XIV-286, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09688
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XII-832, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04870
  
@@ -4937,7 +4979,7 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                               VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                VALDAS ADAMKUS
  
  
 
@@ -5290,3 +5332,8 @@ Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 1, 2, 3, 3-1, 3-2, 4, 7, 11-1, 12-1, 18-2, 22, 30, 32, 33, 34, 34-1, 34-2, 34-3, 34-4, 34-7, 34-8, 34-15, 34-18, 34-23, 34-25, 34-26, 34-28, 34-31 straipsnių, šeštojo skirsnio, 5 priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu ir antruoju-2 skirsniu įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-286, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09688
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2 ir 34-4 straipsnių pakeitimo įstatymas
