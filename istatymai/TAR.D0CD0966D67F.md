@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2021-09-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2022-04-07
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 55-1049, i. k. 0941010ISTA000I-533
  
@@ -512,7 +512,10 @@ Nr. XIII-3127, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15372
 
 
 
-26) kraštovaizdžio, nekilnojamųjų kultūros vertybių ir savivaldybės įsteigtų saugomų teritorijų tvarkymas ir apsauga, savivaldybės teritorijoje esančių želdynų, želdinių apsauga, tvarkymas ir kūrimas, inventorizacijos, apskaitos, atskirųjų želdynų žemės sklypų kadastrinių matavimų ir įrašymo į Nekilnojamojo turto registrą organizavimas ir stebėsena;
+26) kraštovaizdžio, nekilnojamųjų kultūros vertybių ir savivaldybės įsteigtų saugomų teritorijų tvarkymas ir apsauga, savivaldybės želdynų ir želdinių teritorijose esančių želdynų ir želdinių apsauga, priežiūra ir tvarkymas, būklės stebėsena, želdynų kūrimo ir želdinių veisimo organizavimas ir (ar) vykdymas, želdinių ir želdynų, neatsižvelgiant į žemės, kurioje jie yra, nuosavybės formą, inventorizavimas ir apskaita, atskirųjų želdynų žemės sklypų formavimo, šių sklypų kadastro duomenų nustatymo ir jų įrašymo į Nekilnojamojo turto kadastrą organizavimas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-203, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07420
+ 
 
 
 
@@ -5144,7 +5147,7 @@ Nr. X-1830, 2008-11-14, Žin., 2008, Nr. 137-5379 (2008-11-29)
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą. 
  
  
-RESPUBLIKOS PREZIDENTAS                                             ALGIRDAS BRAZAUSKAS 
+RESPUBLIKOS PREZIDENTAS                                              ALGIRDAS BRAZAUSKAS 
  
  
 
@@ -5943,3 +5946,8 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 29 straipsnio pakeiti
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-487, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15868
 Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 7 straipsnio pakeitimo įstatymas
+ 
+58.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-203, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07420
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 straipsnio pakeitimo įstatymas
