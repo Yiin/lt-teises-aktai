@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.846A96B5C76A"
 
 # Lietuvos Respublikos architektų rūmų įstatymas
 
-Suvestinė redakcija nuo 2020-09-11 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2024-04-30
  
 Įstatymas paskelbtas: Žin. 2006, Nr. 134-5063, i. k. 1061010ISTA000X-914
  
@@ -86,7 +86,9 @@ Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
 
 
 ANTRASIS SKIRSNIS 
-RŪMŲ VEIKLA
+RŪMŲ VEIKLA IR RŪMŲ NARIAI 
+Pakeistas skirsnio pavadinimas:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
  
 
 
@@ -249,42 +251,17 @@ Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
 4 straipsnis. Rūmų nariai, jų teisės ir pareigos
 
 
-1. Rūmų nariai yra visi Lietuvos Respublikoje atestuoti architektai. Rūmų nariais gali būti ir architektai, kurių teisė verstis atestuoto architekto veikla pripažinta Lietuvos Respublikoje.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos architektų rūmų įstatymo 4 straipsnio 1 dalis (2016 m. lapkričio 3 d. redakcija; TAR, 2016, Nr. 26508) tiek, kiek joje nustatyta atestuotų architektų, nesiverčiančių atestuoto architekto veikla, privaloma narystė Lietuvos Respublikos architektų rūmuose, prieštarauja Lietuvos Respublikos Konstitucijos 35 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
-Straipsnio dalies pakeitimai:
-Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
-Nr. KT166-A-N14/2020, 2020-09-11, paskelbta TAR 2020-09-11, i. k. 2020-19129
- 
+1. Rūmų nariais privalo būti visi atestuoti architektai, besiverčiantys atestuoto architekto veikla. Rūmų nariais gali būti ir architektai, kurių teisė verstis atestuoto architekto veikla pripažinta Lietuvos Respublikoje. 
 
 
 
 
-2. Neteko galios nuo 2017-01-01.
-Straipsnio dalies pakeitimai:
-Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
- 
+2. Narystės Rūmuose pradžios, sustabdymo, atnaujinimo ir pasibaigimo pagrindai nustatomi šio įstatymo 41 straipsnyje, jų įgyvendinimo tvarką nustato Rūmai.
 
 
 
 
-3. Neteko galios nuo 2017-01-01.
-Straipsnio dalies pakeitimai:
-Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
- 
-
-
-
-
-4. Narystės Rūmuose sąlygos ir tvarka (įstojimas, narystės sustabdymas, išstojimas, pašalinimas ir kita) numatomi Rūmų statute.
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos architektų rūmų įstatymo (2006 m. lapkričio 21 d. redakcija; Žin., 2006, Nr. 134-5063) 4 straipsnio 4 dalis tiek, kiek joje nustatyta, kad narystės Lietuvos Respublikos architektų rūmuose sustabdymo ir pasibaigimo pagrindai yra numatomi šių rūmų statute, prieštarauja Lietuvos Respublikos Konstitucijos 35 straipsnio 3 daliai, 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus gali laisvai pasirinkti darbą bei verslą“.
-Straipsnio dalies pakeitimai:
-Nr. KT166-A-N14/2020, 2020-09-11, paskelbta TAR 2020-09-11, i. k. 2020-19129
- 
-
-
-
-
-5. Rūmų nariai turi teisę:
+3. Rūmų nariai turi teisę:
 
 
 1) dalyvauti Rūmų veikloje, teikti pastabas ir pasiūlymus dėl Rūmų veiklos;
@@ -297,7 +274,7 @@ Nr. KT166-A-N14/2020, 2020-09-11, paskelbta TAR 2020-09-11, i. k. 2020-19129
 
 
 
-3) naudotis Rūmų teisinėmis ir kitokiomis paslaugomis;
+3) naudotis Rūmų teisinėmis ir kitomis paslaugomis;
 
 
 
@@ -312,14 +289,19 @@ Nr. KT166-A-N14/2020, 2020-09-11, paskelbta TAR 2020-09-11, i. k. 2020-19129
 
 
 
-6) įgyvendinti kitas Rūmų statute numatytas teises.
+6) sustabdyti narystę Rūmuose, kai nesiverčia atestuoto architekto veikla;
+
+
+
+
+7) įgyvendinti kitas Rūmų statute numatytas teises.
 
 
 
 
 
 
-6. Rūmų narys privalo:
+4. Rūmų narys privalo:
 
 
 1) laikytis Rūmų statuto, profesinės etikos kodekso nuostatų;
@@ -332,24 +314,176 @@ Nr. KT166-A-N14/2020, 2020-09-11, paskelbta TAR 2020-09-11, i. k. 2020-19129
 
 
 
-3) vykdyti privalomus Rūmų valdymo ar kitų organų nurodymus;
+3) vykdyti privalomus Rūmų valdymo ar kitų organų sprendimus;
 
 
 
 
-4) teikti informaciją apie savo, kaip architekto, veiklą, kaip yra numatyta Rūmų statute;
+4) teikti informaciją apie savo, kaip architekto, veiklą, kaip numatyta Rūmų statute;
 
 
 
 
-5) vykdyti kitas pareigas, kurias nustato Rūmų statutas.
+5) Rūmų nustatyta tvarka deklaruoti interesus ir nusišalinti, jeigu dalyvaujant Rūmų organų, išskyrus Rūmų narių susirinkimą, veikloje gali kilti interesų konfliktas, kai: 
+
+
+a) sprendžiami klausimai, susiję su paties nario vykdoma architekto veikla;
+
+
+
+
+b) sprendžiami klausimai, susiję su asmeniu, su kuriuo narys susijęs šeimos, artimos giminystės ir (ar) verslo ryšiais, susijusiais su jo privačiais interesais – jo (ar jam artimo asmens, kuris suprantamas taip, kaip tai apibrėžta Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatyme) suinteresuotumu asmenine turtine nauda;
+
+
+
+
+c) pareiga nusišalinti yra nustatyta kituose įstatymuose;
 
 
 
 
 
 
-7. Visi Rūmų nariai dalyvaudami Rūmų veikloje turi lygias teises.
+6) vykdyti kitas pareigas, kurias nustato Rūmų statutas.
+
+
+
+
+
+
+5. Visi Rūmų nariai, dalyvaudami Rūmų veikloje, turi lygias teises. 
+
+
+
+
+6. Atestuoti architektai, tapdami Rūmų nariais, sustabdydami ar atnaujindami narystę Rūmuose, privalo sumokėti Rūmų nustatytus administravimo mokesčius, kurie apskaičiuojami atsižvelgiant į ekonomiškai pagrįstas paslaugos teikimo sąnaudas.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
+ 
+
+
+
+
+41 straipsnis. Narystės Rūmuose pradžios, sustabdymo, atnaujinimo ir pasibaigimo pagrindai
+
+
+1. Atestuotas architektas tampa Rūmų nariu, jeigu:
+
+
+1) pateikia Rūmams jų nustatytos formos deklaraciją (pareiškimą) apie ketinimą pradėti verstis architekto kvalifikacijos atestate nurodyta atestuoto architekto veikla;
+
+
+
+
+2) turi galiojantį architekto kvalifikacijos atestatą;
+
+
+
+
+3) sumoka Rūmų nustatyto dydžio vienkartinį stojimo administravimo mokestį. 
+
+
+
+
+
+
+2. Rūmai ne vėliau kaip per 10 darbo dienų nuo šio straipsnio 1 dalyje nurodytų sąlygų įgyvendinimo dienos priima sprendimą dėl atestuoto architekto įrašymo į Rūmų narių sąrašą. Narystės Rūmuose pradžia laikoma Rūmų sprendimo įrašyti atestuotą architektą į Rūmų narių sąrašą diena.
+
+
+
+
+3. Rūmų narys, nesiverčiantis architekto kvalifikacijos atestate nurodyta atestuoto architekto veikla, turi teisę sustabdyti narystę Rūmuose. Rūmų narys, norintis sustabdyti narystę Rūmuose, privalo:
+
+
+1) pateikti Rūmams Rūmų nustatytos formos prašymą dėl narystės Rūmuose sustabdymo; 
+
+
+
+
+2) sumokėti Rūmų nustatyto dydžio narystės sustabdymo administravimo mokestį;
+
+
+
+
+3) būti  sumokėjęs Rūmų nario mokestį.
+
+
+
+
+
+
+4. Rūmai ne vėliau kaip per 10 darbo dienų nuo šio straipsnio 3 dalyje nurodytų sąlygų įgyvendinimo dienos priima sprendimą dėl atestuoto architekto, nesiverčiančio atestuoto architekto veikla, narystės Rūmuose sustabdymo. 
+
+
+
+
+5. Narystė Rūmuose laikoma sustabdyta nuo Rūmų sprendimo sustabdyti narystę Rūmuose priėmimo dienos. Rūmai per 3 darbo dienas nuo sprendimo sustabdyti narystę Rūmuose priėmimo dienos duomenis apie atestuotus architektus, nesiverčiančius atestuoto architekto veikla, pateikia Lietuvos Respublikos architektūros įstatymo 9 straipsnio 11 dalyje nurodytose informacinėse sistemose. 
+
+
+
+
+6. Rūmų narys, sustabdęs narystę Rūmuose, privalo laikytis Architektūros įstatymo 9 straipsnio 7 dalies 2 punkte atestuotiems architektams nustatyto reikalavimo nesiversti atestuoto architekto veikla.
+
+
+
+
+7. Rūmų narys, norintis atnaujinti narystę Rūmuose, privalo:
+
+
+1) pateikti Rūmams Rūmų nustatytos formos prašymą dėl narystės Rūmuose atnaujinimo;
+
+
+
+
+2) sumokėti Rūmų nustatyto dydžio narystės Rūmuose atnaujinimo administravimo mokestį;
+
+
+
+
+3) pateikti Rūmams dokumentus, įrodančius, kad narystės Rūmuose sustabdymo laikotarpiu tobulino kvalifikaciją Architektūros įstatymo 8 straipsnio 1 dalyje nurodytų įstatymų nustatytais pagrindais ir juose nustatytomis sąlygomis.
+
+
+
+
+
+
+8. Rūmai ne vėliau kaip per 7 darbo dienas nuo šio straipsnio 7 dalyje nurodytų dokumentų gavimo dienos patikrina, ar įgyvendinti šio straipsnio 7 dalyje nustatyti reikalavimai, ir priima sprendimą dėl narystės Rūmuose atnaujinimo. 
+
+
+
+
+9. Narystės Rūmuose sustabdymas laikomas panaikintu nuo Rūmų sprendimo atnaujinti narystę Rūmuose priėmimo dienos. 
+
+
+
+
+10. Rūmai per 3 darbo dienas nuo sprendimo atnaujinti narystę Rūmuose priėmimo dienos duomenis apie atestuotus architektus, atnaujinusius atestuoto architekto veiklą, pateikia Architektūros įstatymo 9 straipsnio  11 dalyje nurodytose informacinėse sistemose. 
+
+
+
+
+11. Rūmų sprendimu narystė Rūmuose pasibaigia:
+
+
+1) kai įstatymų nustatytais pagrindais panaikinamas architekto kvalifikacijos atestato galiojimas;
+
+
+
+
+2) kai Rūmų narys miršta;
+
+
+
+
+3) Rūmų nario, kurio narystė Rūmuose neprivaloma, prašymu.
+
+
+
+
+Papildyta straipsniu:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
  
 
 
@@ -357,10 +491,11 @@ Nr. KT166-A-N14/2020, 2020-09-11, paskelbta TAR 2020-09-11, i. k. 2020-19129
 
 
 
-
-
-KETVIRTASIS SKIRSNIS 
+TREČIASIS SKIRSNIS 
 RŪMŲ STATUTAS
+ 
+Skirsnio numeracijos pakeitimas:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
  
 
 
@@ -477,8 +612,10 @@ RŪMŲ STATUTAS
 
 
 
-PENKTASIS SKIRSNIS 
+KETVIRTASIS SKIRSNIS 
 RŪMŲ ORGANAI
+Skirsnio numeracijos pakeitimas:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
  
 
 
@@ -516,7 +653,15 @@ Nr. XII-2575, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20324
 
 
 
-6) Rūmų revizijos komisija.
+6) Rūmų revizijos komisija;
+
+
+
+
+7) Architektų profesinio atestavimo komisija.
+Papildyta straipsnio punktu:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
+ 
 
 
 
@@ -613,7 +758,10 @@ Nr. XII-2575, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20324
 
 
 
-2) priima sprendimus dėl asmens įrašymo į Rūmų narių sąrašą ir išbraukimo iš jo, tvarko Rūmų narių sąrašą, iš tarybos narių renka Rūmų tarybos pirmininką;
+2) priima sprendimus dėl atestuoto architekto įrašymo į Rūmų narių sąrašą ir išbraukimo iš jo, atestuoto architekto narystės Rūmuose sustabdymo, atnaujinimo ir pasibaigimo, tvarko Rūmų narių sąrašą, iš Rūmų tarybos narių renka Rūmų tarybos pirmininką. Rūmų taryba gali įgalioti Rūmų pirmininką priimti sprendimus dėl atestuoto architekto narystės Rūmuose sustabdymo ir atnaujinimo;
+Straipsnio punkto pakeitimai:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
+ 
 
 
 
@@ -631,12 +779,39 @@ Nr. XII-2575, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20324
 
 
 
-5) nustato nario mokesčio mokėjimo tvarką;
+5) nustato nario mokesčio mokėjimo tvarką, Rūmų narių stojimo, narystės Rūmuose sustabdymo, narystės Rūmuose atnaujinimo administravimo mokesčio dydį ir jo mokėjimo tvarką;
+Straipsnio punkto pakeitimai:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
+ 
 
 
 
 
-6) tvirtina Rūmų revizijos komisijos darbo tvarkos nuostatus.
+6) tvirtina Rūmų revizijos komisijos darbo tvarkos nuostatus;
+
+
+
+
+7) nustato narystės Rūmuose pradžios, sustabdymo, atnaujinimo ir pasibaigimo tvarką; 
+Papildyta straipsnio punktu:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
+ 
+
+
+
+
+8) tvirtina, suderinusi su Lietuvos Respublikos aplinkos ministerija ir Lietuvos Respublikos kultūros ministerija, regioninių architektūros tarybų sudėtį ir nuostatus; 
+Papildyta straipsnio punktu:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
+ 
+
+
+
+
+9) tvirtina, suderinusi su Lietuvos Respublikos aplinkos ministerija ir Lietuvos Respublikos kultūros ministerija, Architektų profesinio atestavimo komisijos sudėtį ir nuostatus.
+Papildyta straipsnio punktu:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
+ 
 
 
 
@@ -743,10 +918,17 @@ Nr. XII-2575, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20324
 10 straipsnis. Rūmų profesinės etikos taryba
 
 
-Rūmų profesinės etikos taryba yra Rūmų organas, kuris, vadovaudamasis šiuo įstatymu, Rūmų statutu, architektų profesinės etikos kodeksu ir savo veiklos nuostatais, nagrinėja Rūmų narių drausmės bylas dėl architektų profesinės veiklos etikos kodekso pažeidimų.
+1. Rūmų profesinės etikos taryba yra Rūmų organas. Rūmų profesinės etikos taryba, vadovaudamasi šiuo įstatymu, Rūmų statutu, architektų profesinės etikos kodeksu ir veiklos nuostatais, nagrinėja Rūmų narių drausmės bylas dėl architektų profesinės etikos kodekso pažeidimų.
+
+
+
+
+2. Drausmės bylos, nurodytos šio straipsnio 1 dalyje, nenagrinėjamos tuo atveju, jeigu kreipimosi dėl drausmės bylos iškėlimo į Rūmus dieną nuo pažeidimo padarymo praėjo 5 metai, o jeigu pažeidimas yra tęstinis (vyksta kiekvieną dieną (asmuo neatlieka veiksmų, kuriuos privalo atlikti, ar atlieka veiksmus, kurių neturi teisės atlikti) – 5 metai nuo paskutinių pažeidimo veiksmų atlikimo dienos.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
  
-
-
 
 
 
@@ -754,7 +936,10 @@ Rūmų profesinės etikos taryba yra Rūmų organas, kuris, vadovaudamasis šiuo
 11 straipsnis. Architektų atestavimas ir architektų teisės pripažinimas
 
 
-1. Architektų profesinio atestavimo komisija yra Lietuvos Respublikos įstatymuose nustatyta tvarka sudaryta komisija. Ši komisija, vadovaudamasi šiais Lietuvos Respublikos įstatymais, teikia išvadą Rūmams dėl architektų kvalifikacijos atestatų ir teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo arba jų galiojimo panaikinimo.
+1. Architektų profesinio atestavimo komisija (toliau – komisija) yra Rūmų organas. Komisijos sudėtį ir nuostatus, suderinusi su Lietuvos Respublikos aplinkos ministerija ir Lietuvos Respublikos kultūros ministerija, tvirtina Rūmų taryba. Komisiją sudaro ne mažiau kaip 5 nariai, išrinkti iš Rūmų narių visuotiniame Rūmų narių susirinkime 3 metų kadencijai. Rūmų narys į komisiją gali būti renkamas ne daugiau kaip dviem kadencijoms iš eilės. Komisija, vadovaudamasi Lietuvos Respublikos įstatymuose nustatytais pagrindais, teikia išvadą Rūmams dėl architektų kvalifikacijos atestatų ir teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo arba jų galiojimo panaikinimo, įspėjimo pareiškimo, architektų kvalifikacijos tobulinimo. Rūmai užtikrina objektyvų ir nešališką komisijos sprendimų priėmimą. Komisijos nariai, priimdami sprendimus, turi būti objektyvūs ir nešališki. Komisijos nariai privalo nusišalinti nuo sprendimų priėmimo, jeigu susidaro interesų konflikto situacija, nurodyta šio įstatymo 4 straipsnio 4 dalies 5 punkte. Architektų profesinio atestavimo komisijos nuostatuose nustatoma nusišalinimo nuo sprendimų priėmimo ir asmenų teisės kreiptis į Rūmus, jeigu komisijos nariai nevykdė šioje dalyje įtvirtintos prievolės nusišalinti nuo sprendimų priėmimo, įgyvendinimo tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
+ 
 
 
 
@@ -767,6 +952,14 @@ Rūmų profesinės etikos taryba yra Rūmų organas, kuris, vadovaudamasis šiuo
 3. Rūmų priimti sprendimai dėl architektų kvalifikacijos atestatų ir teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo arba jų galiojimo panaikinimo gali būti skundžiami teismui per trisdešimt dienų nuo sprendimo įteikimo architektui dienos.
 Papildyta straipsnio dalimi:
 Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
+ 
+
+
+
+
+4. Atestuoto architekto ar teisės pripažinimo dokumento turėtojo kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimo sustabdymo, panaikinimo, įspėjimo jam skyrimo kituose įstatymuose numatytais atvejais klausimai pagal suinteresuotų asmenų skundus, pareiškimus, prašymus nenagrinėjami, jeigu kreipimosi dėl veiklos svarstymo (kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimo sustabdymo, panaikinimo, įspėjimo skyrimo) į Rūmus dieną nuo pažeidimo padarymo praėjo 5 metai, o jeigu pažeidimas tęstinis (vyksta kiekvieną dieną (asmuo neatlieka veiksmų, kuriuos privalo atlikti, ar atlieka veiksmus, kurių neturi teisės atlikti) – 5 metai nuo paskutinių pažeidimo veiksmų atlikimo dienos.
+Papildyta straipsnio dalimi:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
  
 
 
@@ -820,8 +1013,10 @@ Nr. XII-2575, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20324
 
 
 
-ŠEŠTASIS SKIRSNIS 
+PENKTASIS SKIRSNIS 
 RŪMŲ FINANSINĖ ATSKAITOMYBĖ, TURTAS IR PAJAMOS
+Skirsnio numeracijos pakeitimas:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
  
 
 
@@ -946,8 +1141,10 @@ Rūmų gautas pelnas naudojamas jų Statute nustatytiems veiklos tikslams siekti
 
 
 
-SEPTINTASIS SKIRSNIS
+ŠEŠTASIS SKIRSNIS
 RŪMŲ REORGANIZAVIMAS IR LIKVIDAVIMAS
+Skirsnio numeracijos pakeitimas:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
  
 
 
@@ -964,8 +1161,10 @@ Rūmai reorganizuojami ar likviduojami įstatymų nustatyta tvarka.
 
 
 
-AŠTUNTASIS SKIRSNIS 
+SEPTINTASIS SKIRSNIS 
 BAIGIAMOSIOS NUOSTATOS
+Skirsnio numeracijos pakeitimas:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
  
 
 
@@ -994,7 +1193,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                                    VALDAS ADAMKUS
  
  
 
@@ -1004,12 +1203,9 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
  
-Lietuvos Respublikos architektų rūmų
-Įstatymo priedas
- 
-ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
- 
-1985 m. birželio 10 d. Europos Tarybos direktyva 85/384 EEB dėl architekto diplomų, pažymėjimų ir kitų oficialią kvalifikaciją patvirtinančių dokumentų abipusio pripažinimo, įskaitant priemones, padedančias veiksmingai naudotis įsisteigimo teise ir laisve teikti paslaugas, OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 118 (su paskutiniais pakeitimais, padarytais 1985 m. gruodžio 20 d. Tarybos direktyva 85/384/EEB, OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 155–156, p. 263; 2001 m. gegužės 14 d. Europos Parlamento Ir Tarybos Direktyva 2001/19/EB, iš dalies keičianti Tarybos direktyvas 89/48/EEB ir 92/51/EEB dėl profesinių kvalifikacijų pripažinimo bendrosios sistemos ir Tarybos direktyvas 77/452/EEB, 77/453/EEB, 78/686/EEB, 78/687/EEB, 78/1026/EEB, 78/1027/EEB, 80/154/EEB, 80/155/EEB, 85/384/EEB, 85/432/EEB, 85/433/EEB ir 93/16/EEB dėl bendrosios praktikos slaugytojo, dantų gydytojo, veterinarijos gydytojo, akušerio, architekto, vaistininko ir gydytojo profesijų, OL 2004 m. specialusis leidimas, 5 skyrius, 4 tomas, p. 138).
+Lietuvos Respublikos architektų rūmų įstatymo priedas neteko galios nuo 2021-11-01.
+Priedo pakeitimai:
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
  
  
  
@@ -1029,3 +1225,8 @@ Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 1, 2, 3, 4, 11 strai
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT166-A-N14/2020, 2020-09-11, paskelbta TAR 2020-09-11, i. k. 2020-19129
 Dėl Lietuvos Respublikos architektų rūmų įstatymo 4 straipsnio 1, 4 dalių atitikties Lietuvos Respublikos Konstitucijai
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
+Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 antrojo skirsnio pavadinimo, 4, 6, 8, 10, 11 straipsnių pakeitimo, Įstatymo papildymo 4-1 straipsniu ir priedo pripažinimo netekusiu galios įstatymas
