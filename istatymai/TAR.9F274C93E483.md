@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9F274C93E483"
 
 # Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymas
 
-Suvestinė redakcija nuo 2019-05-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 61-2760, i. k. 1031010ISTA0IX-1607
  
@@ -150,11 +150,12 @@ Nr. XIII-1889, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00097
 
 
 
-4) želdynų ir želdinių apsaugai, tvarkymui, būklės stebėsenai, želdynų kūrimui, želdinių veisimui, inventorizacijai; 
+4) viešųjų želdynų kūrimui, viešųjų želdynų ir želdinių apsaugai, priežiūrai, tvarkymui, būklės stebėsenai, viešųjų želdinių veisimui, privalomai viešųjų želdynų ir želdinių būklės ekspertizei, želdinių ir želdynų, neatsižvelgiant į žemės, kurioje jie yra, nuosavybės formą, inventorizavimui ir apskaitai;
 Papildyta straipsnio punktu:
 Nr. X-1243, 2007-06-28, Žin., 2007, Nr. 80-3217 (2007-07-19), i. k. 1071010ISTA00X-1243
 Straipsnio punkto pakeitimai:
 Nr. XI-1104, 2010-11-09, Žin., 2010, Nr. 137-7005 (2010-11-23), i. k. 1101010ISTA0XI-1104
+Nr. XIV-202, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07419
  
 
 
@@ -263,4 +264,9 @@ Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios progr
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1889, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00097
+Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo Nr. IX-1607 4 straipsnio pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-202, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07419
 Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo Nr. IX-1607 4 straipsnio pakeitimo įstatymas
