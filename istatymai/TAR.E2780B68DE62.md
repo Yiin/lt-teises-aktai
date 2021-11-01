@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-08-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01 iki 2021-11-12
  
 Įstatymas paskelbtas: Lietuvos aidas 1992, Nr. 20-0; Žin. 1992, Nr.5-75, i. k. 0921010ISTA00I-2223
  
@@ -585,7 +585,10 @@ Nr. XIII-530, 2017-06-27, paskelbta TAR 2017-07-05, i. k. 2017-11563
 
 
 
-7) tvarko miestų ir kaimų gyvenamųjų vietovių želdynus, rengia ir tvirtina želdinių apsaugos taisykles, skelbia saugotinais vertingus dendrologiniu, ekologiniu, estetiniu, kultūriniu bei kraštovaizdžio formavimo požiūriu medžius ir krūmus, augančius valstybinėje ne miškų ūkio paskirties žemėje ir privačioje žemėje. Vyriausybės įgaliota institucija nustato kriterijus, pagal kuriuos medžiai ir krūmai priskiriami saugotiniems;
+7) organizuoja ir (ar) vykdo savivaldybės želdynų ir želdinių teritorijose esančių želdynų ir želdinių apsaugą, priežiūrą ir tvarkymą, būklės stebėseną, naujų želdynų kūrimą ir želdinių veisimą, želdinių ir želdynų, neatsižvelgiant į žemės, kurioje jie yra, nuosavybės formą, inventorizavimą ir apskaitą, dendrologiškai, ekologiškai, estetiškai vertingus, kultūros paveldui ir kraštovaizdžiui reikšmingus medžius ir krūmus skelbia saugotinais želdiniais;
+Straipsnio punkto pakeitimai:
+Nr. XIV-200, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07417
+ 
 
 
 
@@ -6859,3 +6862,8 @@ Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 37 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-227, 2021-03-30, paskelbta TAR 2021-04-08, i. k. 2021-07421
 Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 15, 19, 19-1, 19-2, 47, 55, 126, 127 straipsnių pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymo Nr. XIII-2795 10 straipsnio pakeitimo įstatymas
+ 
+21.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-200, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07417
+Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 6 straipsnio pakeitimo įstatymas
