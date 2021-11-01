@@ -13,14 +13,16 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.810A3C4DB722"
 
 # Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymas
 
-Suvestinė redakcija nuo 2020-07-01 iki 2021-10-31
+Suvestinė redakcija nuo 2021-11-01
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 55-1764, i. k. 0991010ISTAIII-1207
  
-Nauja redakcija nuo 2015-11-01:
-Nr. XII-1903, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11089
+Nauja redakcija nuo 2021-11-01:
+Nr. XIV-255, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08632
  
-LIETUVOS RESPUBLIKOS NARKOTINIŲ IR PSICHOTROPINIŲ MEDŽIAGŲ  PIRMTAKŲ (PREKURSORIŲ) KONTROLĖS ĮSTATYMAS
+LIETUVOS RESPUBLIKOS
+NARKOTINIŲ IR PSICHOTROPINIŲ MEDŽIAGŲ PIRMTAKŲ (PREKURSORIŲ) KONTROLĖS
+ĮSTATYMAS
  
 1999 m. birželio 1 d. Nr. VIII-1207
 Vilnius
@@ -32,15 +34,20 @@ BENDROSIOS NUOSTATOS
  
 
 
-1 straipsnis. Įstatymo paskirtis
+1 straipsnis. Įstatymo tikslas, paskirtis ir taikymas
 
 
-1. Šis įstatymas nustato veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) (į oficialų sąrašą įtrauktomis medžiagomis), kontrolės ir stebėsenos teisinius pagrindus ir veiklos, susijusios su į oficialų sąrašą neįtrauktomis medžiagomis, stebėsenos teisinius pagrindus ir subjektų pareigas.
+1. Šio įstatymo tikslas – nustatyti veiklos su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) (į oficialų sąrašą įtrauktomis medžiagomis) ir į oficialų sąrašą neįtrauktomis medžiagomis, kurios gali būti naudojamos neteisėtai narkotinių ar psichotropinių medžiagų gamybai, kontrolės ir stebėjimo priemones, siekiant užkirsti kelią šioms medžiagoms patekti į neteisėtą rinką.
 
 
 
 
-2. Šio įstatymo nuostatos suderintos su šio įstatymo priede nurodytais Europos Sąjungos teisės aktais.
+2. Šis įstatymas nustato teisėtos veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), vykdymo sąlygas, subjektų pareigas, šios veiklos kontrolės ir stebėsenos teisinius pagrindus ir veiklos, susijusios su į oficialų sąrašą neįtrauktomis medžiagomis, kontrolės ir stebėsenos teisinius pagrindus bei subjektų pareigas.
+
+
+
+
+3. Šis įstatymas taikomas kartu su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede.
  
 
 
@@ -51,22 +58,22 @@ BENDROSIOS NUOSTATOS
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Atsakingas asmuo – atsakingo pareigūno sąvoką, nurodytą 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 273/2004 dėl narkotinių medžiagų pirmtakų (prekursorių) (toliau – Reglamentas (EB) Nr. 273/2004) ir 2005 m. liepos 27 d. Komisijos reglamente (EB) Nr. 1277/2005, nustatančiame Europos Parlamento ir Tarybos reglamento (EB) Nr. 273/2004 dėl narkotinių medžiagų pirmtakų (prekursorių) ir Tarybos reglamento (EB) Nr. 111/2005, nustatančio prekybos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) tarp Bendrijos ir trečiųjų šalių stebėsenos taisykles, įgyvendinimo taisykles (toliau – Reglamentas (EB) Nr. 1277/2005), atitinkantis asmuo, atsakingas už veiklą su pirmos, antros ir (arba) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir užtikrinantis, kad ši veikla atitiktų Reglamento (EB) Nr. 273/2004, 2004 m. gruodžio 22 d. Tarybos reglamento (EB) Nr. 111/2005, nustatančio prekybos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) tarp Bendrijos ir trečiųjų šalių stebėsenos taisykles (toliau – Reglamentas (EB) Nr. 111/2005), Reglamento (EB) Nr. 1277/2005 nustatytus reikalavimus.
+1. Atsakingas asmuo – asmuo, kurio paskyrimas reglamentuojamas Reglamento (EB) Nr. 273/2004 3 straipsnio 1 dalyje ir Reglamento (ES) 2015/1011 3 straipsnio 1 dalyje ir kuriam taikomos pareigos, nurodytos šiuose teisės aktuose. 
 
 
 
 
-2. Narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) eksporto leidimas (toliau – eksporto leidimas) – Narkotikų, tabako ir alkoholio kontrolės departamento išduodamas dokumentas, kuriuo subjektui suteikiama teisė vykdyti narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) eksporto veiklą, kaip nurodyta Reglamento (EB) Nr. 111/2005 12 straipsnyje.
+2. Narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) eksporto leidimas (toliau – eksporto leidimas) – dokumentas, kuriuo subjektui suteikiama teisė vykdyti narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) eksporto veiklą, kaip nurodyta Reglamento (EB) Nr. 111/2005 12 straipsnyje.
 
 
 
 
-3. Narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) importo leidimas (toliau – importo leidimas) – Narkotikų, tabako ir alkoholio kontrolės departamento išduodamas dokumentas, kuriuo subjektui suteikiama teisė vykdyti narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) importo veiklą, kaip nurodyta Reglamento (EB) Nr. 111/2005 20 straipsnyje.
+3. Narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) importo leidimas (toliau – importo leidimas) – dokumentas, kuriuo subjektui suteikiama teisė vykdyti narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) importo veiklą, kaip nurodyta Reglamento (EB) Nr. 111/2005 20 straipsnyje.
 
 
 
 
-4. Specialioji veiklos su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) licencija (toliau – specialioji licencija) – Narkotikų, tabako ir alkoholio kontrolės departamento vaistinėms, veterinarijos vaistinėms, policijos ir muitinės įstaigoms, veiklos su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) kontrolę vykdančių valstybės institucijų įgaliotoms laboratorijoms ir (arba) Lietuvos kariuomenei išduodamas dokumentas, kuriuo subjektams suteikiama teisė, atliekant valstybės nustatytas funkcijas, susijusias su šiomis medžiagomis, nurodytoje vietoje ir nurodytu tikslu vykdyti veiklą su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais).
+4. Specialioji veiklos su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) licencija (toliau – specialioji licencija) – vaistinėms, veterinarijos vaistinėms, policijos ir Lietuvos Respublikos muitinės (toliau – muitinė) įstaigoms, veiklos su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) kontrolę vykdančių valstybės institucijų įgaliotoms laboratorijoms ir (arba) Lietuvos kariuomenei išduodamas dokumentas, kuriuo subjektams suteikiama teisė, atliekant valstybės nustatytas funkcijas, susijusias su šiomis medžiagomis, nurodytu adresu ir nurodytu tikslu vykdyti veiklą, susijusią su į oficialų sąrašą įtrauktų medžiagų pirmos kategorijos (toliau – pirmos kategorijos) narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais).
 
 
 
@@ -76,22 +83,32 @@ BENDROSIOS NUOSTATOS
 
 
 
-6. Veiklos su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) licencija (toliau – licencija) – Narkotikų, tabako ir alkoholio kontrolės departamento išduodamas dokumentas, kuriuo subjektui suteikiama teisė nurodytu (nurodytais) adresu (adresais) vykdyti veiklą su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais).
+6. Veiklos su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) licencija (toliau – licencija) – dokumentas, kuriuo subjektui suteikiama teisė nurodytu (nurodytais) adresu (adresais) vykdyti veiklą su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais).
 
 
 
 
-7. Veiklos su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) vietos registracijos pažymėjimas (toliau – veiklos vietos registracijos pažymėjimas) – Narkotikų, tabako ir alkoholio kontrolės departamento išduodamas dokumentas, kuriuo subjektui suteikiama teisė nurodytu (nurodytais) adresu (adresais) vykdyti veiklą, susijusią su antros ir (arba) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005 ir Reglamento (EB) Nr. 1277/2005 nustatytais atvejais.
+7. Veiklos su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) vietos registracijos pažymėjimas (toliau – veiklos vietos registracijos pažymėjimas) – dokumentas, kuriuo subjektui suteikiama teisė nurodytu (nurodytais) adresu (adresais) vykdyti veiklą, susijusią su į oficialų sąrašą įtrauktų medžiagų antros ir (arba) trečios kategorijos (toliau – antros ir (arba) trečios kategorijos) narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (ES) 2015/1011 nustatytais atvejais.
 
 
 
 
-8. Veiklos su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) vietos specialusis registracijos pažymėjimas (toliau – veiklos vietos specialusis registracijos pažymėjimas) – Narkotikų, tabako ir alkoholio kontrolės departamento vaistinėms, veterinarijos vaistinėms, policijos ir muitinės įstaigoms, valstybės institucijų, vykdančių veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), kontrolę, įgaliotoms laboratorijoms ir (arba) Lietuvos kariuomenei išduodamas dokumentas, kuriuo subjektui suteikiama teisė, atliekant valstybės nustatytas funkcijas, susijusias su šiomis medžiagomis, nurodytu (nurodytais) adresu (adresais) vykdyti veiklą, susijusią su antros kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais). 
+8. Veiklos su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) vietos specialusis registracijos pažymėjimas (toliau – veiklos vietos specialusis registracijos pažymėjimas) – vaistinėms, veterinarijos vaistinėms, policijos ir muitinės įstaigoms, valstybės institucijų, vykdančių veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), kontrolę, įgaliotoms laboratorijoms ir (arba) Lietuvos kariuomenei išduodamas dokumentas, kuriuo subjektui suteikiama teisė, atliekant valstybės nustatytas funkcijas, susijusias su šiomis medžiagomis, nurodytu (nurodytais) adresu (adresais) vykdyti veiklą, susijusią su antros kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais). 
 
 
 
 
-9. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (EB) Nr. 273/2004, Reglamente (EB) Nr. 111/2005 ir Reglamente (EB) Nr. 1277/2005.
+9. Veikla su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) (į oficialų sąrašą įtrauktomis medžiagomis) – narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) (į oficialų sąrašą įtrauktų medžiagų) gamyba, tiekimas rinkai ir naudojimas.
+
+
+
+
+10. Veikla su į oficialų sąrašą neįtrauktomis medžiagomis – į oficialų sąrašą neįtrauktų medžiagų gamyba, tiekimas rinkai ir naudojimas.
+
+
+
+
+11. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (EB) Nr. 273/2004, Reglamente (EB) Nr. 111/2005, Reglamente (ES) 2015/1011 ir Reglamente (ES) 2015/1013, 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas, su paskutiniais pakeitimais, padarytais 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/632. 
  
 
 
@@ -102,25 +119,30 @@ BENDROSIOS NUOSTATOS
 3 straipsnis. Nepriekaištingos reputacijos subjektas
 
 
-Nepriekaištingos reputacijos subjektu nelaikomas:
+Subjektas nelaikomas nepriekaištingos reputacijos, jeigu:
 
 
-1) fizinis ar juridinis asmuo, dėl kurio buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už bet kokios valstybės baudžiamuosiuose įstatymuose numatytą bet kokį tyčinį nusikaltimą, – kol neišnyko ar nebuvo panaikintas teistumas;
-
-
-
-
-2) fizinis asmuo, kuriam per pastaruosius vienus metus Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatyta tvarka skirtas vienas ar keli teismo įpareigojimai, – kol galioja teismo įpareigojimai;
-Straipsnio punkto pakeitimai:
-Nr. XIII-3074, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14349
- 
+1) dėl fizinio ar juridinio asmens per pastaruosius penkerius metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už nusikaltimą, numatytą Lietuvos Respublikos baudžiamojo kodekso 199 straipsnio 2 dalyje, 260 straipsnyje arba 265–268 straipsniuose, ar už analogiškas veikas, numatytas kitų valstybių baudžiamuosiuose įstatymuose;
 
 
 
 
-3) fizinis asmuo, kuris padarė administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 62, 65, 66, 71, 339 ar 340 straipsnyje, – vienus metus nuo administracinio nurodymo ar administracinės nuobaudos įvykdymo dienos.
-Straipsnio punkto pakeitimai:
-Nr. XIII-160, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29854
+2) dėl fizinio ar juridinio asmens per pastaruosius penkerius metus buvo priimtas ir įsiteisėjęs apkaltinamasis teismo nuosprendis už kitą šio straipsnio 1 punkte nenurodytą tyčinį nusikaltimą, numatytą Lietuvos Respublikos baudžiamajame kodekse ar kitų valstybių baudžiamuosiuose įstatymuose;
+
+
+
+
+3) juridinio asmens valdymo organų nariai ar jo vadovas teisti už tyčinį nusikaltimą, numatytą Lietuvos Respublikos baudžiamajame kodekse ar kitų valstybių baudžiamuosiuose įstatymuose, – jeigu teistumas neišnykęs ar nepanaikintas; 
+
+
+
+
+4) fizinis asmuo ar juridinio asmens valdymo organų nariai ar jo vadovas per pastaruosius vienus metus padarė administracinį nusižengimą, numatytą Lietuvos Respublikos administracinių nusižengimų kodekso 65 straipsnyje, ir jiems buvo paskirta administracinė nuobauda ar jie buvo patraukti atsakomybėn už analogiškas veikas, numatytas kitų valstybių įstatymuose;
+
+
+
+
+5) neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, nustatytų Lietuvos Respublikos mokesčių administravimo įstatymo 401 straipsnio 1 dalyje.
  
 
 
@@ -133,49 +155,70 @@ Nr. XIII-160, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29854
 
 
 II SKYRIUS
-LICENCIJAVIMAS, VEIKLOS VIETOS REGISTRAVIMAS, IMPORTO IR EKSPORTO LEIDIMŲ IŠDAVIMAS
+VEIKLOS, SUSIJUSIOS SU NARKOTINIŲ IR PSICHOTROPINIŲ MEDŽIAGŲ PIRMTAKAIS (PREKURSORIAIS), VYKDYMO SĄLYGOS 
  
 
 
-4 straipsnis. Veiklos, susijusios su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), licencijavimas
+4 straipsnis. Reikalavimai subjektams, siekiantiems gauti ar turintiems licenciją ar specialiąją licenciją
 
 
-1. Vykdyti veiklą, susijusią su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), turi teisę subjektas, turintis licenciją arba specialiąją licenciją. Subjektas, siekiantis gauti licenciją arba specialiąją licenciją, turi atitikti šio įstatymo, Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 reikalavimus.
+Subjektas, siekiantis gauti ar turintis licenciją ar specialiąją licenciją, turi atitikti šiuos reikalavimus:
 
 
-
-
-2. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005, šio įstatymo ir Lietuvos Respublikos Vyriausybės patvirtintose Veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), licencijavimo, vietos registravimo, importo ir eksporto leidimų išdavimo ir šios veiklos priežiūros ir kontrolės vykdymo taisyklėse (toliau – Licencijavimo taisyklės) nustatyta tvarka išduoda popierines arba, jeigu yra techninių galimybių, elektronines licencijas ir popierines arba, jeigu yra techninių galimybių, elektronines specialiąsias licencijas, popierinių licencijų ir popierinių specialiųjų licencijų dublikatus, sustabdo licencijų ir specialiųjų licencijų galiojimą, patikslina licencijas ir specialiąsias licencijas, panaikina licencijų ir specialiųjų licencijų galiojimo sustabdymą, panaikina licencijų ir specialiųjų licencijų galiojimą. Subjekto prašymu jam išduotą galiojančią popierinę licenciją ar popierinę specialiąją licenciją, jeigu yra techninių galimybių, Narkotikų, tabako ir alkoholio kontrolės departamentas pakeičia atitinkamai į elektroninę licenciją arba į elektroninę specialiąją licenciją.
-
-
-
-
-3. Subjektas, norintis gauti licenciją arba patikslinti licenciją, Narkotikų, tabako ir alkoholio kontrolės departamentui pateikia užpildytą Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus įsakymu patvirtintos formos paraišką, kurioje pateikiama Reglamento (EB) Nr. 1277/2005 5 straipsnio 1 dalyje ir Licencijavimo taisyklėse nurodyta informacija, bei kitus Licencijavimo taisyklėse nurodytus dokumentus.
+1) turėti Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus nustatytus reikalavimus atitinkančias narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) laikymo ir saugojimo sąlygas;
 
 
 
 
-4. Subjektas, norintis gauti specialiąją licenciją ar patikslinti specialiąją licenciją, Narkotikų, tabako ir alkoholio kontrolės departamentui pateikia užpildytą Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus įsakymu patvirtintos formos paraišką bei kitus Licencijavimo taisyklėse nurodytus dokumentus.
+2) būti nepriekaištingos reputacijos;
 
 
 
 
-5. Prieš priimdami sprendimą išduoti ar neišduoti licenciją ar specialiąją licenciją, Narkotikų, tabako ir alkoholio kontrolės departamento valstybės tarnautojai turi nuvykti į subjekto veiklos vietą ir patikrinti, ar subjekto patalpos, kuriose bus vykdoma veikla, susijusi su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), atitinka Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus įsakymu patvirtinto Narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) laikymo ir saugojimo sąlygų aprašo reikalavimus. 
+3) neturėti mokestinės nepriemokos Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (išskyrus atvejus, kai juridiniam asmeniui mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), nebūti skolingas Valstybinio socialinio draudimo fondo biudžetui ir vykdyti turimus įsipareigojimus muitinei;
 
 
 
 
-6. Licencija ir specialioji licencija išduodamos neterminuotam laikui.
+4) atitikti Reglamento (EB) Nr. 273/2004 3 straipsnyje, Reglamento (EB) Nr. 111/2005 6 straipsnyje, Reglamento (ES) 2015/1011 3 straipsnyje ir Reglamento (ES) 2015/1013 3 straipsnyje nustatytus reikalavimus.
+ 
 
 
 
 
-7. Licencija patikslinama, jeigu numatoma keisti Reglamento (EB) Nr. 1277/2005 5 straipsnio 1 dalies a punkte nurodytą informaciją.
 
 
 
 
-8. Specialioji licencija patikslinama, jeigu:
+5 straipsnis. Licencijos ar specialiosios licencijos išdavimas, patikslinimas
+
+
+1. Subjektas, siekiantis gauti licenciją, turi atitikti šio įstatymo 4 straipsnyje nustatytus reikalavimus ir Narkotikų, tabako ir alkoholio kontrolės departamentui pateikti užpildytą paraišką, kurioje pateikiama Reglamento (ES) 2015/1011 3 straipsnio 2 dalies b punkte nurodyta informacija, kitus Lietuvos Respublikos Vyriausybės tvirtinamose Veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) licencijavimo taisyklėse (toliau – Licencijavimo taisyklės) nurodytus dokumentus ir sumokėti nustatyto dydžio valstybės rinkliavą už licencijos išdavimą. Subjektas, norintis patikslinti licenciją, Narkotikų, tabako ir alkoholio kontrolės departamentui pateikia užpildytą paraišką, Licencijavimo taisyklėse nurodytus dokumentus ir sumoka nustatyto dydžio valstybės rinkliavą už licencijos patikslinimą.
+
+
+
+
+2. Subjektas, siekiantis gauti specialiąją licenciją, turi atitikti šio įstatymo 4 straipsnyje nustatytus reikalavimus ir Narkotikų, tabako ir alkoholio kontrolės departamentui pateikti užpildytą paraišką, Licencijavimo taisyklėse nurodytus dokumentus ir sumokėti nustatyto dydžio valstybės rinkliavą už specialiosios licencijos išdavimą. Subjektas, norintis patikslinti specialiąją licenciją, Narkotikų, tabako ir alkoholio kontrolės departamentui pateikia užpildytą paraišką, Licencijavimo taisyklėse nurodytus dokumentus ir sumoka nustatyto dydžio valstybės rinkliavą už specialiosios licencijos patikslinimą.
+
+
+
+
+3. Prieš priimdami sprendimą išduoti ar neišduoti licenciją ar specialiąją licenciją, patikslinti ar nepatikslinti specialiąją licenciją, kai keičiasi veiklos vietos adresas, Narkotikų, tabako ir alkoholio kontrolės departamento pareigūnai turi nuvykti į subjekto veiklos vietą ir patikrinti, ar subjekto patalpos, kuriose bus vykdoma veikla, susijusi su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), atitinka Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus nustatytas narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) laikymo ir saugojimo sąlygas. 
+
+
+
+
+4. Licencija ir specialioji licencija išduodamos neterminuotam laikui.
+
+
+
+
+5. Licencija patikslinama Reglamento (ES) 2015/1013 6 straipsnyje nustatytais atvejais.
+
+
+
+
+6. Specialioji licencija patikslinama, jeigu:
 
 
 1) ketinama vykdyti veiklą, susijusią su specialiojoje licencijoje nenurodytais pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais); 
@@ -193,52 +236,74 @@ LICENCIJAVIMAS, VEIKLOS VIETOS REGISTRAVIMAS, IMPORTO IR EKSPORTO LEIDIMŲ IŠDA
 
 
 
-4) pasikeitė kita specialiojoje licencijoje nurodyta informacija.
+4) pasikeitė specialiosios licencijos turėtojo rekvizitai. 
 
 
 
 
 
 
-9. Sprendimas dėl licencijos, specialiosios licencijos išdavimo, atsisakymo jas išduoti ar patikslinimo priimamas per Reglamento (EB) Nr. 1277/2005 7 straipsnio 1 dalyje nustatytus terminus.
+7. Sprendimas dėl licencijos, specialiosios licencijos išdavimo, atsisakymo jas išduoti priimamas per Reglamento (ES) 2015/1013 3 straipsnio 4 dalyje nustatytą terminą nuo visų tinkamai įformintų dokumentų, kurių reikia licencijai, specialiajai licencijai gauti, gavimo dienos. Jeigu per šį terminą licencija, specialioji licencija neišduodama ir nepateikiamas subjektui motyvuotas rašytinis atsisakymas licenciją, specialiąją licenciją išduoti, laikoma, kad licencija, specialioji licencija yra išduotos.
 
 
 
 
-10. Narkotikų, tabako ir alkoholio kontrolės departamentas raštu gali prašyti subjekto pateikti trūkstamus ar patikslintus dokumentus, būtinus licencijai, specialiajai licencijai išduoti ar licencijai, specialiajai licencijai patikslinti. Subjektas turi pateikti dokumentus ne vėliau kaip per 10 darbo dienų nuo prašymo pateikti trūkstamus ar patikslintus dokumentus, būtinus licencijai, specialiajai licencijai išduoti ar licencijai, specialiajai licencijai patikslinti, gavimo. Laikas, per kurį pateikiami prašomi dokumentai, į paraiškos nagrinėjimo laiką neįskaitomas.
-
-
-
-
-11. Licenciją, specialiąją licenciją atsisakoma išduoti arba patikslinti, jeigu:
-
-
-1) Narkotikų, tabako ir alkoholio kontrolės departamentui pateiktoje Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus įsakymu patvirtintos formos paraiškoje pateikta ne visa joje nurodytina informacija ir (arba) pateikti ne visi Licencijavimo taisyklėse nurodyti dokumentai, ir (arba) pateikti dokumentai neatitinka Licencijavimo taisyklėse nustatytų reikalavimų ir per 10 darbo dienų nuo prašymo pateikti trūkstamus ar patikslintus dokumentus, būtinus licencijai, specialiajai licencijai išduoti ar licencijai, specialiajai licencijai patikslinti, gavimo tokie dokumentai nepateikti;
-
-
-
-
-2) subjektas neatitinka šio įstatymo, Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005, Licencijavimo taisyklių reikalavimų;
-
-
-
-
-3) subjektas turi mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (išskyrus atvejus, kai subjektui mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), yra skolingas Valstybinio socialinio draudimo fondo biudžetui ar nevykdo įsipareigojimų muitinei; 
-
-
-
-
-4) nustatoma, kad subjektas nėra laikomas esančiu nepriekaištingos reputacijos.
+8. Sprendimas dėl licencijos, specialiosios licencijos patikslinimo priimamas per Reglamento (ES) 2015/1013 3 straipsnio 4 dalyje nustatytą terminą. Jeigu per šį terminą licencija, specialioji licencija nepatikslinama ir subjektui nepateikiamas motyvuotas rašytinis atsisakymas licenciją, specialiąją licenciją patikslinti, laikoma, kad licencija, specialioji licencija yra patikslintos.
+ 
 
 
 
 
 
 
-12. Narkotikų, tabako ir alkoholio kontrolės departamentas licencijos arba specialiosios licencijos galiojimą sustabdo ne ilgiau kaip 6 mėnesiams, jeigu:
+6 straipsnis. Atsisakymas išduoti ar patikslinti licenciją, specialiąją licenciją
 
 
-1) subjektas neatitinka šio įstatymo, Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 nustatytų reikalavimų ar nustatoma, kad subjektas atitinka Reglamento (EB) Nr. 1277/2005 11 straipsnio 1 dalies c punkte nurodytą sąlygą; 
+Licenciją, specialiąją licenciją atsisakoma išduoti arba patikslinti šiais atvejais:
+
+
+1) Narkotikų, tabako ir alkoholio kontrolės departamentui pateiktoje paraiškoje pateikta ne visa joje nurodytina informacija ir (arba) pateikti ne visi Licencijavimo taisyklėse nurodyti dokumentai, ir (arba) pateikti dokumentai neatitinka Licencijavimo taisyklėse nustatytų reikalavimų ir per 10 darbo dienų nuo prašymo pateikti trūkstamus ar patikslintus dokumentus, būtinus licencijai, specialiajai licencijai išduoti ar licencijai, specialiajai licencijai patikslinti, gavimo tokie dokumentai nepateikti;
+
+
+
+
+2) subjektas neatitinka šio įstatymo, Reglamento (EB) Nr. 273/2004 3 straipsnyje, Reglamento (EB) Nr. 111/2005 6 straipsnyje, Reglamento (ES) 2015/1011 3 straipsnyje ir Reglamento (ES) 2015/1013 3 straipsnyje nustatytų reikalavimų;
+
+
+
+
+3) subjektas turi mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (išskyrus atvejus, kai subjektui mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), yra skolingas Valstybinio socialinio draudimo fondo biudžetui ar turi neįvykdytų įsipareigojimų muitinei; 
+
+
+
+
+4) nustatoma, kad subjektas nėra laikomas esančiu nepriekaištingos reputacijos;
+
+
+
+
+5) patalpos, kuriose bus vykdoma veikla, susijusi su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), neatitinka Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus nustatytų narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) laikymo ir saugojimo sąlygų; 
+
+
+
+
+6) subjektas nesumoka už licencijos, specialiosios licencijos išdavimą ar patikslinimą nustatytos valstybės rinkliavos.
+ 
+
+
+
+
+
+
+
+
+7 straipsnis. Licencijos, specialiosios licencijos galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas
+
+
+1. Narkotikų, tabako ir alkoholio kontrolės departamentas licencijos arba specialiosios licencijos galiojimą sustabdo ne ilgiau kaip 6 mėnesiams, jeigu:
+
+
+1) subjektas neatitinka šiame įstatyme, Reglamento (EB) Nr. 273/2004 3 straipsnyje, Reglamento (EB) Nr. 111/2005 6 straipsnyje, Reglamento (ES) 2015/1011 3 straipsnyje, Reglamento (ES) 2015/1013 3 ir 6 straipsniuose nustatytų reikalavimų; 
 
 
 
@@ -250,22 +315,22 @@ LICENCIJAVIMAS, VEIKLOS VIETOS REGISTRAVIMAS, IMPORTO IR EKSPORTO LEIDIMŲ IŠDA
 
 
 
-13. Sprendimas dėl licencijos arba specialiosios licencijos galiojimo sustabdymo priimamas per 5 darbo dienas nuo aplinkybių, nurodytų šio straipsnio 12 dalies 1 punkte, nustatymo, nurodant terminą trūkumams pašalinti, o šio straipsnio 12 dalies 2 punkte nustatytu atveju – per 5 darbo dienas nuo subjekto pateikto prašymo sustabdyti licencijos arba specialiosios licencijos galiojimą gavimo dienos.
+2. Sprendimas dėl licencijos arba specialiosios licencijos galiojimo sustabdymo priimamas per 3 darbo dienas nuo aplinkybių, nurodytų šio straipsnio 1 dalies 1 punkte, nustatymo dienos ir jeigu šio straipsnio 1 dalies 1 punkte nurodytais atvejais licencijos arba specialiosios licencijos turėtojas per Narkotikų, tabako ir alkoholio kontrolės departamento nustatytą pažeidimų pašalinimo terminą to nepadarė, o šio straipsnio 1 dalies 2 punkte nustatytu atveju – per 3 darbo dienas nuo subjekto pateikto prašymo sustabdyti licencijos arba specialiosios licencijos galiojimą gavimo dienos.
 
 
 
 
-14. Subjektui, kurio licencijos arba specialiosios licencijos galiojimas sustabdytas, toliau vykdyti licencijoje arba specialiojoje licencijoje nurodytą veiklą draudžiama.
+3. Subjektui, kurio licencijos arba specialiosios licencijos galiojimas sustabdytas, toliau vykdyti licencijoje arba specialiojoje licencijoje nurodytą veiklą draudžiama.
 
 
 
 
-15. Licencijos arba specialiosios licencijos galiojimo sustabdymas panaikinamas per 5 darbo dienas nuo priežasčių, dėl kurių buvo sustabdytas licencijos arba specialiosios licencijos galiojimas, pašalinimo, o šio straipsnio 12 dalies 2 punkte nustatytu atveju – per 5 darbo dienas nuo subjekto pateikto prašymo panaikinti licencijos arba specialiosios licencijos galiojimo sustabdymą gavimo dienos.
+4. Licencijos arba specialiosios licencijos galiojimo sustabdymas panaikinamas per 3 darbo dienas nuo priežasčių, dėl kurių buvo sustabdytas licencijos arba specialiosios licencijos galiojimas, pašalinimo dienos, o šio straipsnio 1 dalies 2 punkte nustatytu atveju – per 3 darbo dienas nuo subjekto pateikto prašymo panaikinti licencijos arba specialiosios licencijos galiojimo sustabdymą gavimo dienos.
 
 
 
 
-16. Narkotikų, tabako ir alkoholio kontrolės departamentas licencijos arba specialiosios licencijos galiojimą panaikina, jeigu:
+5. Narkotikų, tabako ir alkoholio kontrolės departamentas licencijos arba specialiosios licencijos galiojimą panaikina šiais atvejais:
 
 
 1) subjektas vykdo veiklą su licencijoje, specialiojoje licencijoje nenurodytais pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir (arba) nenurodytose veiklos vietose, ir (arba) užsiima nenurodyta veikla, susijusia su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), ir (arba) naudoja pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakus (prekursorius) specialiojoje licencijoje nenurodytu tikslu;
@@ -288,12 +353,12 @@ LICENCIJAVIMAS, VEIKLOS VIETOS REGISTRAVIMAS, IMPORTO IR EKSPORTO LEIDIMŲ IŠDA
 
 
 
-5) juridinis asmuo, kuriam išduota licencija arba specialioji licencija, likviduojamas; 
+5) juridinis asmuo, kuriam išduota licencija arba specialioji licencija, išregistruotas iš Juridinių asmenų registro; 
 
 
 
 
-6) fizinis asmuo, kuriam išduota licencija arba specialioji licencija, miršta;
+6) fizinis asmuo, kuriam išduota licencija, miršta;
 
 
 
@@ -305,17 +370,12 @@ LICENCIJAVIMAS, VEIKLOS VIETOS REGISTRAVIMAS, IMPORTO IR EKSPORTO LEIDIMŲ IŠDA
 
 
 
-17. Narkotikų, tabako ir alkoholio kontrolės departamentas sprendimą panaikinti licencijos arba specialiosios licencijos galiojimą priima per 5 darbo dienas nuo šio straipsnio 16 dalies 1, 4, 5, 6 ir 7 punktuose nurodytų aplinkybių paaiškėjimo, šio straipsnio 16 dalies 2 punkte nurodytu atveju – per 5 darbo dienas nuo subjekto pateikto prašymo panaikinti licencijos arba specialiosios licencijos galiojimą gavimo dienos, o šio straipsnio 16 dalies 3 punkte nurodytu atveju – per 5 darbo dienas nuo nustatyto termino pabaigos. 
+6. Narkotikų, tabako ir alkoholio kontrolės departamentas sprendimą panaikinti licencijos arba specialiosios licencijos galiojimą priima per 3 darbo dienas nuo šio straipsnio 5 dalies 1, 4, 5, 6 ir 7 punktuose nurodytų aplinkybių paaiškėjimo dienos, šio straipsnio 5 dalies 2 punkte nurodytu atveju – per 3 darbo dienas nuo subjekto pateikto prašymo panaikinti licencijos arba specialiosios licencijos galiojimą gavimo dienos, o šio straipsnio 5 dalies 3 punkte nurodytu atveju – per 3 darbo dienas nuo nustatyto termino pabaigos. 
 
 
 
 
-18. Narkotikų, tabako ir alkoholio kontrolės departamentas apie sprendimą neišduoti, nepatikslinti licencijos arba specialiosios licencijos, sustabdyti, panaikinti licencijos arba specialiosios licencijos galiojimą, panaikinti licencijos arba specialiosios licencijos galiojimo sustabdymą ir sprendimo priėmimo priežastis, taip pat apie sprendimą išduoti, patikslinti licenciją arba specialiąją licenciją per 5 darbo dienas nuo sprendimo priėmimo informuoja subjektą. 
-
-
-
-
-19. Dokumentai, reikalingi licencijai ar specialiajai licencijai gauti, licencijai ar specialiajai licencijai patikslinti, popierinės licencijos ar popierinės specialiosios licencijos dublikatui gauti, Narkotikų, tabako ir alkoholio kontrolės departamentui gali būti pateikti, taip pat Narkotikų, tabako ir alkoholio kontrolės departamento išduota licencija, specialioji licencija, patikslinta licencija ar specialioji licencija, popierinės licencijos ar popierinės specialiosios licencijos dublikatas, sprendimas neišduoti, nepatikslinti licencijos, specialiosios licencijos, sustabdyti, panaikinti licencijos arba specialiosios licencijos galiojimą, panaikinti licencijos arba specialiosios licencijos galiojimo sustabdymą ir (arba) kiti dokumentai ir informacija subjektui gali būti pateikti per atstumą, elektroninėmis priemonėmis, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai.
+7. Narkotikų, tabako ir alkoholio kontrolės departamentas apie sprendimą neišduoti, nepatikslinti licencijos arba specialiosios licencijos, sustabdyti, panaikinti licencijos arba specialiosios licencijos galiojimą, panaikinti licencijos arba specialiosios licencijos galiojimo sustabdymą ir sprendimo priėmimo priežastis, taip pat apie sprendimą išduoti, patikslinti licenciją arba specialiąją licenciją per 3 darbo dienas nuo sprendimo priėmimo dienos informuoja subjektą. 
  
 
 
@@ -323,78 +383,133 @@ LICENCIJAVIMAS, VEIKLOS VIETOS REGISTRAVIMAS, IMPORTO IR EKSPORTO LEIDIMŲ IŠDA
 
 
 
-5 straipsnis. Vietos, kurioje vykdoma veikla, susijusi su antros ir (arba) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), registravimas
+8 straipsnis. Reikalavimai subjektams, siekiantiems gauti ar turintiems veiklos vietos registracijos pažymėjimą ar veiklos vietos specialųjį registracijos pažymėjimą
 
 
-1. Veiklą, susijusią su antros kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), subjektai gali vykdyti tik įregistravę jos vietą ir turėdami galiojantį veiklos vietos registracijos pažymėjimą ir (arba) veiklos vietos specialųjį registracijos pažymėjimą. Veiklą, susijusią su trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), subjektai gali vykdyti tik įregistravę jos vietą ir turėdami galiojantį veiklos vietos registracijos pažymėjimą. Subjektai, siekiantys gauti veiklos vietos registracijos pažymėjimą ir (arba) veiklos vietos specialųjį registracijos pažymėjimą, turi atitikti šio įstatymo, Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 reikalavimus.
+Subjektas, siekiantis gauti ar turintis veiklos vietos registracijos pažymėjimą ar veiklos vietos specialųjį pažymėjimą, turi atitikti šiuos reikalavimus:
 
 
-
-
-2. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005, šio įstatymo ir Licencijavimo taisyklių nustatyta tvarka išduoda popierinius arba, jeigu yra techninių galimybių, elektroninius veiklos vietos registracijos pažymėjimus ir popierinius arba, jeigu yra techninių galimybių, elektroninius veiklos vietos specialiuosius registracijos pažymėjimus, popierinių veiklos vietos registracijos pažymėjimų ar popierinių veiklos vietos specialiųjų registracijos pažymėjimų dublikatus, taip pat patikslina veiklos vietos registracijos pažymėjimus, veiklos vietos specialiuosius registracijos pažymėjimus, sustabdo veiklos vietos registracijos pažymėjimų, veiklos vietos specialiųjų registracijos pažymėjimų galiojimą, panaikina veiklos vietos registracijos pažymėjimų, veiklos vietos specialiųjų registracijos pažymėjimų galiojimo sustabdymą ir jų galiojimą. Subjekto prašymu jam išduotą galiojantį popierinį veiklos vietos registracijos pažymėjimą ar popierinį veiklos vietos specialųjį registracijos pažymėjimą, jeigu yra techninių galimybių, Narkotikų, tabako ir alkoholio kontrolės departamentas pakeičia atitinkamai į elektroninį veiklos vietos registracijos pažymėjimą arba į elektroninį veiklos vietos specialųjį registracijos pažymėjimą. Veiklos vietos registracijos pažymėjimo ir veiklos vietos specialiojo registracijos pažymėjimo formą įsakymu tvirtina Narkotikų, tabako ir alkoholio kontrolės departamento direktorius. 
-
-
-
-
-3. Jeigu subjektas vykdo veiklą keliose veiklos vietose, registruotose skirtingais adresais, išduodamas vienas veiklos vietos registracijos pažymėjimas arba vienas veiklos vietos specialusis registracijos pažymėjimas, kuriame nurodomi visi veiklos vietų adresai. 
+1) turėti Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus nustatytus reikalavimus atitinkančias narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) laikymo ir saugojimo sąlygas;
 
 
 
 
-4. Subjektas, norintis gauti arba patikslinti veiklos vietos registracijos pažymėjimą arba veiklos vietos specialųjį registracijos pažymėjimą, Narkotikų, tabako ir alkoholio kontrolės departamentui pateikia užpildytą Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus įsakymu patvirtintos formos paraišką, kurioje pateikiama Licencijavimo taisyklėse nurodyta informacija, ir kitus Licencijavimo taisyklėse nurodytus dokumentus.
+2) būti nepriekaištingos reputacijos;
 
 
 
 
-5. Sprendimas dėl veiklos vietos registracijos pažymėjimo ar veiklos vietos specialiojo registracijos pažymėjimo išdavimo, patikslinimo, atsisakymo jį išduoti ar patikslinti priimamas ne vėliau kaip per 30 dienų nuo paraiškos ir Licencijavimo taisyklėse nurodytų dokumentų gavimo. Prieš priimdami sprendimą išduoti ar neišduoti veiklos vietos registracijos pažymėjimą ar veiklos vietos specialųjį registracijos pažymėjimą, Narkotikų, tabako ir alkoholio kontrolės departamento valstybės tarnautojai turi nuvykti į subjekto veiklos vietą ir patikrinti, ar subjekto patalpos, kuriose bus vykdoma veikla, susijusi su antros ir (arba) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), atitinka Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus įsakymu patvirtinto Narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) laikymo ir saugojimo sąlygų aprašo reikalavimus. 
+3) neturėti mokestinės nepriemokos Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (išskyrus atvejus, kai juridiniam asmeniui mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), nebūti skolingas Valstybinio socialinio draudimo fondo biudžetui ir vykdyti įsipareigojimus muitinei;
 
 
 
 
-6. Veiklos vietos registracijos pažymėjimas ir veiklos vietos specialusis registracijos pažymėjimas galioja neterminuotai.
-
-
-
-
-7. Veiklos vietos registracijos pažymėjimas arba veiklos vietos specialusis registracijos pažymėjimas patikslinamas, jeigu keičiasi veiklos vietos (vietų), kuriai (kurioms) išduotas veiklos vietos registracijos pažymėjimas arba veiklos vietos specialusis registracijos pažymėjimas, adresas (adresai) ir (arba) veiklos, kuri vykdoma registruotoje veiklos vietoje, rūšis, ir (arba) kita veiklos vietos registracijos pažymėjime arba veiklos vietos specialiajame registracijos pažymėjime nurodyta informacija. 
-
-
-
-
-8. Narkotikų, tabako ir alkoholio kontrolės departamentas raštu gali prašyti subjektą pateikti trūkstamus ar patikslintus dokumentus, būtinus veiklos vietos registracijos pažymėjimui arba veiklos vietos specialiajam registracijos pažymėjimui išduoti ar patikslinti. Subjektas turi pateikti dokumentus ne vėliau kaip per 10 darbo dienų nuo prašymo pateikti trūkstamus ar patikslintus dokumentus, būtinus veiklos vietos registracijos pažymėjimui arba veiklos vietos specialiajam registracijos pažymėjimui išduoti ar patikslinti, gavimo. Laikas, per kurį pateikiami prašomi dokumentai, į paraiškos nagrinėjimo laiką neįskaitomas.
-
-
-
-
-9. Veiklos vietos registracijos pažymėjimas arba veiklos vietos specialusis registracijos pažymėjimas neišduodamas ar nepatikslinamas, jeigu:
-
-
-1) pateikti ne visi Licencijavimo taisyklėse nurodyti dokumentai ir (arba) pateikti dokumentai neatitinka Licencijavimo taisyklėse nustatytųjų reikalavimų ir per 10 darbo dienų nuo prašymo pateikti trūkstamus ar patikslintus dokumentus, būtinus veiklos vietos registracijos pažymėjimui arba veiklos vietos specialiajam registracijos pažymėjimui išduoti ar patikslinti, gavimo tokie dokumentai nepateikti;
-
-
-
-
-2) subjektas neatitinka šio įstatymo, Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005, Licencijavimo taisyklių reikalavimų; 
-
-
-
-
-3) subjektas turi mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (išskyrus atvejus, kai subjektui mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), yra skolingas Valstybinio socialinio draudimo fondo biudžetui ar nevykdo įsipareigojimų muitinei; 
-
-
-
-
-4) nustatoma, kad subjektas nėra laikomas esančiu nepriekaištingos reputacijos.
+4) atitikti Reglamento (EB) Nr. 273/2004 3 straipsnyje, Reglamento (EB) Nr. 111/2005 6, 7 straipsniuose, Reglamento (ES) 2015/1011 5 straipsnyje, Reglamento (ES) 2015/1013 9 straipsnyje nustatytus reikalavimus.
+ 
+ 
+ 
 
 
 
 
 
 
-10. Narkotikų, tabako ir alkoholio kontrolės departamentas veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimą sustabdo ne ilgiau kaip 6 mėnesiams, jeigu:
 
 
-1) subjektas neatitinka šio įstatymo, Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 reikalavimų;
+9 straipsnis. Veiklos vietos registracijos pažymėjimo ir veiklos vietos specialiojo registracijos pažymėjimo išdavimas, patikslinimas
+
+
+1. Subjektas, siekiantis gauti veiklos vietos registracijos pažymėjimą, turi atitikti šio įstatymo 8 straipsnyje nustatytus reikalavimus ir Narkotikų, tabako ir alkoholio kontrolės departamentui pateikti užpildytą paraišką, kurioje pateikiama Reglamento (ES) 2015/1011 5 straipsnio 2, 5 dalyse nurodyta informacija, Licencijavimo taisyklėse nurodytus dokumentus ir sumokėti nustatyto dydžio valstybės rinkliavą už veiklos vietos registracijos pažymėjimo išdavimą. Subjektas, siekiantis gauti ar patikslinti specialųjį veiklos vietos registracijos pažymėjimą, patikslinti veiklos vietos registracijos pažymėjimą, Narkotikų, tabako ir alkoholio kontrolės departamentui turi pateikti užpildytą paraišką, Licencijavimo taisyklėse nurodytus dokumentus ir sumokėti nustatyto dydžio valstybės rinkliavą už specialiojo veiklos vietos registracijos pažymėjimo išdavimą, patikslinimą ar veiklos vietos registracijos pažymėjimo patikslinimą.
+
+
+
+
+2. Sprendimas dėl veiklos vietos registracijos pažymėjimo ar veiklos vietos specialiojo registracijos pažymėjimo išdavimo, patikslinimo, atsisakymo jį išduoti ar patikslinti priimamas per Reglamento (ES) 2015/1013 3 straipsnio 4 dalyje nustatytą terminą nuo visų tinkamai įformintų dokumentų, kurių reikia veiklos vietos registracijos pažymėjimui ar veiklos vietos specialiajam registracijos pažymėjimui gauti, gavimo dienos. Jeigu per šį terminą veiklos vietos registracijos pažymėjimas ar veiklos vietos specialusis registracijos pažymėjimas neišduodamas, nepatikslinamas ir nepateikiamas subjektui motyvuotas rašytinis atsisakymas veiklos vietos registracijos pažymėjimą ar veiklos vietos specialųjį registracijos pažymėjimą išduoti, patikslinti, laikoma, kad veiklos vietos registracijos pažymėjimas ar veiklos vietos specialusis registracijos pažymėjimas yra išduotas, patikslintas.
+
+
+
+
+3. Prieš priimdami sprendimą išduoti ar neišduoti veiklos vietos registracijos pažymėjimą ar veiklos vietos specialųjį registracijos pažymėjimą, patikslinti specialųjį veiklos vietos registracijos pažymėjimą, kai keičiasi veiklos vietos adresas, Narkotikų, tabako ir alkoholio kontrolės departamento pareigūnai turi nuvykti į subjekto veiklos vietą ir patikrinti, ar subjekto patalpos, kuriose bus vykdoma veikla, susijusi su antros ir (arba) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), atitinka Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus nustatytas narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) laikymo ir saugojimo sąlygas. 
+
+
+
+
+4. Veiklos vietos registracijos pažymėjimas ir veiklos vietos specialusis registracijos pažymėjimas išduodami neterminuotam laikui.
+
+
+
+
+5. Veiklos vietos registracijos pažymėjimas patikslinamas Reglamento (ES) 2015/1013 6 straipsnyje nustatytais atvejais. Veiklos vietos specialusis registracijos pažymėjimas patikslinamas, jeigu keičiasi:
+
+
+1) veiklos vietos (vietų), kuriai (kurioms) išduotas veiklos vietos specialusis registracijos pažymėjimas, adresas (adresai);
+
+
+
+
+2) veiklos, kuri vykdoma registruotoje veiklos vietoje, rūšis;
+
+
+
+
+3) kita veiklos vietos specialiajame registracijos pažymėjime nurodyta informacija. 
+ 
+
+
+
+
+
+
+
+
+10 straipsnis. Atsisakymas išduoti ar patikslinti veiklos vietos registracijos pažymėjimą, veiklos vietos specialųjį registracijos pažymėjimą
+
+
+Veiklos vietos registracijos pažymėjimas arba veiklos vietos specialusis registracijos pažymėjimas neišduodamas ar nepatikslinamas, jeigu:
+
+
+1) pateikti ne visi Licencijavimo taisyklėse nurodyti dokumentai ir (arba) pateikti dokumentai neatitinka Licencijavimo taisyklėse nustatytų reikalavimų ir per 10 darbo dienų nuo prašymo pateikti trūkstamus ar patikslintus dokumentus, būtinus veiklos vietos registracijos pažymėjimui arba veiklos vietos specialiajam registracijos pažymėjimui išduoti ar patikslinti, gavimo tokie dokumentai nepateikti;
+
+
+
+
+2) subjektas neatitinka šiame įstatyme, Reglamento (EB) Nr. 273/2004 3 straipsnyje, Reglamento (EB) Nr. 111/2005 6, 7 straipsniuose, Reglamento (ES) 2015/1011 5 straipsnyje ir Reglamento (ES) 2015/1013 9 straipsnyje nustatytų reikalavimų; 
+
+
+
+
+3) subjektas turi mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (išskyrus atvejus, kai subjektui mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas), yra skolingas Valstybinio socialinio draudimo fondo biudžetui ar turi neįvykdytų įsipareigojimų muitinei; 
+
+
+
+
+4) nustatoma, kad subjektas nėra laikomas esančiu nepriekaištingos reputacijos;
+
+
+
+
+5) patalpos, kuriose bus vykdoma veikla, susijusi su antros ir (ar) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), neatitinka Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus nustatytų narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) laikymo ir saugojimo sąlygų;
+
+
+
+
+6) subjektas nesumoka už veiklos vietos registracijos pažymėjimo, veiklos vietos specialiojo registracijos pažymėjimo išdavimą ar patikslinimą nustatytos valstybės rinkliavos.
+ 
+
+
+
+
+
+
+
+
+11 straipsnis. Veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimo sustabdymas, galiojimo sustabdymo panaikinimas, galiojimo panaikinimas
+
+
+1. Narkotikų, tabako ir alkoholio kontrolės departamentas veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimą sustabdo ne ilgiau kaip 6 mėnesiams, jeigu:
+
+
+1) subjektas neatitinka šiame įstatyme, Reglamento (EB) Nr. 273/2004 3 straipsnyje, Reglamento (EB) Nr. 111/2005 6, 7 straipsniuose, Reglamento (ES) 2015/1011 5 straipsnyje ir Reglamento (ES) 2015/1013 9 straipsnyje nustatytų reikalavimų;
 
 
 
@@ -406,22 +521,22 @@ LICENCIJAVIMAS, VEIKLOS VIETOS REGISTRAVIMAS, IMPORTO IR EKSPORTO LEIDIMŲ IŠDA
 
 
 
-11. Narkotikų, tabako ir alkoholio kontrolės departamentas sprendimą sustabdyti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimą, nurodydamas terminą trūkumams pašalinti, priima per 5 darbo dienas nuo aplinkybių, nurodytų šio straipsnio 10 dalies 1 punkte, nustatymo, o šio straipsnio 10 dalies 2 punkte nustatytu atveju – per 5 darbo dienas nuo subjekto pateikto prašymo sustabdyti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimą gavimo dienos.
+2. Narkotikų, tabako ir alkoholio kontrolės departamentas sprendimą sustabdyti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimą, nurodydamas terminą trūkumams pašalinti, priima per 3 darbo dienas nuo aplinkybių, nurodytų šio straipsnio 1 dalies 1 punkte, nustatymo dienos ir jeigu šio straipsnio 1 dalies 1 punkte nurodytais atvejais veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo turėtojas per Narkotikų, tabako ir alkoholio kontrolės departamento nustatytą pažeidimų pašalinimo terminą to nepadarė, o šio straipsnio 1 dalies 2 punkte nurodytu atveju – per 3 darbo dienas nuo subjekto pateikto prašymo sustabdyti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimą gavimo dienos.
 
 
 
 
-12. Subjektui, kurio veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimas sustabdytas, toliau vykdyti veiklos vietos registracijos pažymėjime arba veiklos vietos specialiajame registracijos pažymėjime nurodytą veiklą draudžiama.
+3. Subjektui, kurio veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimas sustabdytas, toliau vykdyti veiklos vietos registracijos pažymėjime arba veiklos vietos specialiajame registracijos pažymėjime nurodytą veiklą draudžiama.
 
 
 
 
-13. Veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimo sustabdymas panaikinamas per 5 darbo dienas nuo neatitikimų, dėl kurių buvo sustabdytas veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimas, pašalinimo, o šio straipsnio 10 dalies 2 punkte nurodytu atveju – per 5 darbo dienas nuo subjekto pateikto prašymo panaikinti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimo sustabdymą gavimo dienos.
+4. Veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimo sustabdymas panaikinamas per 3 darbo dienas nuo priežasčių, dėl kurių buvo sustabdytas veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimas, pašalinimo dienos, o šio straipsnio 1 dalies 2 punkte nurodytu atveju – per 3 darbo dienas nuo subjekto pateikto prašymo panaikinti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimo sustabdymą gavimo dienos.
 
 
 
 
-14. Narkotikų, tabako ir alkoholio kontrolės departamentas veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimą panaikina, jeigu: 
+5. Narkotikų, tabako ir alkoholio kontrolės departamentas veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimą panaikina, jeigu: 
 
 
 1) subjektas pateikia prašymą panaikinti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimą;
@@ -429,7 +544,7 @@ LICENCIJAVIMAS, VEIKLOS VIETOS REGISTRAVIMAS, IMPORTO IR EKSPORTO LEIDIMŲ IŠDA
 
 
 
-2) subjektas per nustatytą terminą nepašalina neatitikimų, dėl kurių sustabdytas veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimas; 
+2) subjektas per nustatytą terminą nepašalina priežasčių, dėl kurių sustabdytas veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimas; 
 
 
 
@@ -439,12 +554,12 @@ LICENCIJAVIMAS, VEIKLOS VIETOS REGISTRAVIMAS, IMPORTO IR EKSPORTO LEIDIMŲ IŠDA
 
 
 
-4) juridinis asmuo, kuriam išduotas veiklos vietos registracijos pažymėjimas arba veiklos vietos specialusis registracijos pažymėjimas, likviduojamas; 
+4) juridinis asmuo, kuriam išduotas veiklos vietos registracijos pažymėjimas arba veiklos vietos specialusis registracijos pažymėjimas, išregistruotas iš Juridinių asmenų registro; 
 
 
 
 
-5) fizinis asmuo, kuriam išduotas veiklos vietos registracijos pažymėjimas arba veiklos vietos specialusis registracijos pažymėjimas, miršta;
+5) fizinis asmuo, kuriam išduotas veiklos vietos registracijos pažymėjimas, miršta;
 
 
 
@@ -456,17 +571,12 @@ LICENCIJAVIMAS, VEIKLOS VIETOS REGISTRAVIMAS, IMPORTO IR EKSPORTO LEIDIMŲ IŠDA
 
 
 
-15. Narkotikų, tabako ir alkoholio kontrolės departamentas sprendimą dėl veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimo panaikinimo priima per 5 darbo dienas nuo šio straipsnio 14 dalies 2, 3, 4, 5 ir 6 punktuose nurodytų aplinkybių paaiškėjimo, o šio straipsnio 14 dalies 1 punkte nurodytu atveju – per 5 darbo dienas nuo subjekto pateikto prašymo panaikinti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimą gavimo dienos.
+6. Narkotikų, tabako ir alkoholio kontrolės departamentas sprendimą dėl veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimo panaikinimo priima per 3 darbo dienas nuo šio straipsnio 5 dalies 2, 3, 4, 5 ir 6 punktuose nurodytų aplinkybių paaiškėjimo dienos, o šio straipsnio 5 dalies 1 punkte nurodytu atveju – per 3 darbo dienas nuo subjekto pateikto prašymo panaikinti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimą gavimo dienos.
 
 
 
 
-16. Narkotikų, tabako ir alkoholio kontrolės departamentas apie sprendimą neišduoti, nepatikslinti veiklos vietos registracijos pažymėjimo, veiklos vietos specialiojo registracijos pažymėjimo, sustabdyti, panaikinti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimą, panaikinti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimo sustabdymą ir sprendimo priėmimo priežastis, taip pat apie sprendimą išduoti, patikslinti veiklos vietos registracijos pažymėjimą, veiklos vietos specialųjį registracijos pažymėjimą per 5 darbo dienas nuo sprendimo priėmimo informuoja subjektą.
-
-
-
-
-17. Dokumentai, reikalingi veiklos vietos registracijos pažymėjimui arba veiklos vietos specialiajam registracijos pažymėjimui gauti, popierinio veiklos vietos registracijos pažymėjimo arba popierinio veiklos vietos specialiojo registracijos pažymėjimo dublikatui gauti, veiklos vietos registracijos pažymėjimui arba veiklos vietos specialiajam registracijos pažymėjimui patikslinti, Narkotikų, tabako ir alkoholio kontrolės departamentui gali būti pateikiami, taip pat Narkotikų, tabako ir alkoholio kontrolės departamento išduotas veiklos vietos registracijos pažymėjimas, veiklos vietos specialusis registracijos pažymėjimas, patikslintas veiklos vietos registracijos pažymėjimas arba veiklos vietos specialusis registracijos pažymėjimas, popierinio veiklos vietos registracijos pažymėjimo ar popierinio veiklos vietos specialiojo registracijos pažymėjimo dublikatas, sprendimas neišduoti, nepatikslinti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo, sprendimas sustabdyti, panaikinti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimą, sprendimas panaikinti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimo sustabdymą ir (arba) kiti dokumentai ir informacija subjektui gali būti pateikti per atstumą, elektroninėmis priemonėmis, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai.
+7. Narkotikų, tabako ir alkoholio kontrolės departamentas apie sprendimą neišduoti, nepatikslinti veiklos vietos registracijos pažymėjimo, veiklos vietos specialiojo registracijos pažymėjimo, sustabdyti, panaikinti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimą, panaikinti veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimo sustabdymą ir sprendimo priėmimo priežastis, taip pat apie sprendimą išduoti, patikslinti veiklos vietos registracijos pažymėjimą, veiklos vietos specialųjį registracijos pažymėjimą per 3 darbo dienas nuo sprendimo priėmimo informuoja subjektą.
  
 
 
@@ -474,65 +584,81 @@ LICENCIJAVIMAS, VEIKLOS VIETOS REGISTRAVIMAS, IMPORTO IR EKSPORTO LEIDIMŲ IŠDA
 
 
 
-6 straipsnis. Importo, eksporto leidimų išdavimas
+12 straipsnis. Importo ir eksporto leidimų išdavimas, galiojimo pratęsimas
 
 
-1. Subjektai gali importuoti narkotinių ir psichotropinių medžiagų pirmtakus (prekursorius) tik gavę importo leidimą, o eksportuoti – tik gavę eksporto leidimą. Subjektai, siekiantys gauti importo ar eksporto leidimą, turi atitikti šio įstatymo, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 reikalavimus.
-
-
-
-
-2. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005, šio įstatymo ir Licencijavimo taisyklių nustatyta tvarka išduoda popierinius arba, jeigu yra techninių galimybių, elektroninius importo leidimus ir popierinius arba, jeigu yra techninių galimybių, elektroninius eksporto leidimus, sustabdo jų galiojimą, panaikina importo arba eksporto leidimų galiojimo sustabdymą, pratęsia ir panaikina jų galiojimą. Subjekto prašymu jam išduotą galiojantį popierinį importo arba eksporto leidimą, jeigu yra techninių galimybių, Narkotikų, tabako ir alkoholio kontrolės departamentas pakeičia į elektroninį importo arba eksporto leidimą.
+1. Importo leidimas išduodamas subjektams, turintiems licencijas ar specialiąsias licencijas, kaip nurodyta Reglamento (EB) Nr. 111/2005 20 straipsnyje. Eksporto leidimas išduodamas subjektams, turintiems licencijas, specialiąsias licencijas, veiklos vietos registracijos pažymėjimus ar veiklos vietos specialiuosius registracijos pažymėjimus, kaip nurodyta Reglamento (EB) Nr.111/2005 12 straipsnyje.
 
 
 
 
-3. Subjektas, norintis gauti importo leidimą, Narkotikų, tabako ir alkoholio kontrolės departamentui pateikia užpildytą Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus įsakymu patvirtintos formos paraišką, kurioje pateikiama Reglamento (EB) Nr. 111/2005 21 straipsnio 1 dalyje ir Licencijavimo taisyklėse nurodyta informacija, ir kitus Licencijavimo taisyklėse nurodytus dokumentus.
+2. Subjektas, siekiantis gauti importo leidimą, Narkotikų, tabako ir alkoholio kontrolės departamentui pateikia užpildytą paraišką, kurioje pateikiama Reglamento (EB) Nr. 111/2005 21 straipsnio 1 dalyje nurodyta informacija, Licencijavimo taisyklėse nurodytus dokumentus ir sumoka nustatyto dydžio valstybės rinkliavą už importo leidimo išdavimą.
 
 
 
 
-4. Subjektas, norintis gauti eksporto leidimą, Narkotikų, tabako ir alkoholio kontrolės departamentui pateikia užpildytą Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus įsakymu patvirtintos formos paraišką, kurioje pateikiama Reglamento (EB) Nr. 111/2005 13 straipsnio 1 dalyje ir Licencijavimo taisyklėse nurodyta informacija, ir kitus Licencijavimo taisyklėse nurodytus dokumentus.
+3. Subjektas, siekiantis gauti eksporto leidimą, Narkotikų, tabako ir alkoholio kontrolės departamentui pateikia užpildytą paraišką, kurioje pateikiama Reglamento (EB) Nr. 111/2005 13 straipsnio 1 dalyje nurodyta informacija, Licencijavimo taisyklėse nurodytus dokumentus ir sumoka nustatyto dydžio valstybės rinkliavą už eksporto leidimo išdavimą.
 
 
 
 
-5. Sprendimas dėl importo arba eksporto leidimo išdavimo arba atsisakymo jį išduoti priimamas per Reglamento (EB) Nr. 111/2005 13 straipsnio 2 dalyje ir 21 straipsnio 2 dalyje nustatytus terminus.
+4. Sprendimas dėl importo arba eksporto leidimo išdavimo arba atsisakymo jį išduoti priimamas per Reglamento (EB) Nr. 111/2005 13 straipsnio 2 dalyje ir 21 straipsnio 2 dalyje nustatytus terminus.
 
 
 
 
-6. Narkotikų, tabako ir alkoholio kontrolės departamentas gali prašyti subjekto pateikti trūkstamus ar patikslintus dokumentus, būtinus importo arba eksporto leidimui išduoti. Subjektas turi pateikti dokumentus ne vėliau kaip per 10 darbo dienų nuo prašymo pateikti trūkstamus ar patikslintus dokumentus, būtinus importo arba eksporto leidimui išduoti, gavimo. Laikas, per kurį pateikiama prašoma informacija, į paraiškos nagrinėjimo laiką neįskaitomas.
+5. Importo arba eksporto leidimas galioja 6 mėnesius. Narkotikų, tabako ir alkoholio kontrolės departamentas, vadovaudamasis Reglamento (EB) Nr. 111/2005 18 ir 25 straipsniais, gali ne ilgiau kaip dar 30 dienų pratęsti importo arba eksporto leidimo galiojimą, jeigu subjektas pateikia motyvuotą prašymą pratęsti jam išduoto importo arba eksporto leidimo galiojimą.
+ 
 
 
 
 
-7. Importo arba eksporto leidimas galioja 6 mėnesius. Narkotikų, tabako ir alkoholio kontrolės departamentas, vadovaudamasis Reglamento (EB) Nr. 111/2005 18 ir 25 straipsniais, gali ne ilgiau kaip dar 30 dienų pratęsti importo arba eksporto leidimo galiojimą, jeigu subjektas pateikia motyvuotą prašymą pratęsti jam išduoto importo arba eksporto leidimo galiojimą.
+
+
+13 straipsnis. Atsisakymas išduoti importo arba eksporto leidimą, importo arba eksporto leidimo galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ar galiojimo panaikinimas 
+
+
+1. Eksporto leidimas neišduodamas:
+
+
+1) Reglamento (EB) Nr. 111/2005 15 straipsnyje nustatytais atvejais;
 
 
 
 
-8. Importo arba eksporto leidimas neišduodamas Reglamento (EB) Nr. 111/2005 15 ir 23 straipsniuose nustatytais atvejais. 
+2) subjektas nesumoka už eksporto leidimo išdavimą nustatytos valstybės rinkliavos.
 
 
 
 
-9. Importo arba eksporto leidimo galiojimas sustabdomas arba panaikinamas Reglamento (EB) Nr. 111/2005 16 ir 24 straipsniuose nustatytais atvejais. 
+
+
+2. Importo leidimas neišduodamas:
+
+
+1) Reglamento (EB) Nr. 111/2005 23 straipsnyje nustatytais atvejais;
 
 
 
 
-10. Narkotikų, tabako ir alkoholio kontrolės departamentas sprendimą sustabdyti, panaikinti importo arba eksporto leidimo galiojimą priima per 5 darbo dienas nuo Reglamento (EB) Nr. 111/2005 16 ir 24 straipsniuose nurodytų atvejų paaiškėjimo, o sprendimą dėl importo arba eksporto leidimo galiojimo sustabdymo panaikinimo priima per 5 darbo dienas nuo paaiškėjimo, kad narkotinių ir psichotropinių medžiagų pirmtakai (prekursoriai) nėra skirti neteisėtai narkotinių ir psichotropinių medžiagų gamybai. 
+2) subjektas nesumoka už importo leidimo išdavimą nustatytos valstybės rinkliavos.
 
 
 
 
-11. Narkotikų, tabako ir alkoholio kontrolės departamentas apie sprendimą neišduoti importo arba eksporto leidimo, sustabdyti, panaikinti importo arba eksporto leidimo galiojimą, panaikinti importo arba eksporto leidimo galiojimo sustabdymą ir sprendimo priėmimo priežastis, taip pat apie sprendimą išduoti importo arba eksporto leidimą per 5 darbo dienas nuo sprendimo priėmimo informuoja subjektą. 
+
+
+3. Importo arba eksporto leidimo galiojimas sustabdomas arba panaikinamas Reglamento (EB) Nr. 111/2005 16 ir 24 straipsniuose nustatytais atvejais.
 
 
 
 
-12. Dokumentai, reikalingi importo arba eksporto leidimui gauti, importo arba eksporto leidimo galiojimui pratęsti, Narkotikų, tabako ir alkoholio kontrolės departamentui gali būti pateikiami, taip pat Narkotikų, tabako ir alkoholio kontrolės departamento išduotas importo arba eksporto leidimas, sprendimas neišduoti importo arba eksporto leidimo, sustabdyti, panaikinti importo arba eksporto leidimo galiojimą, panaikinti importo, eksporto leidimo galiojimo sustabdymą ir (arba) kiti dokumentai ir informacija subjektui gali būti pateikti per atstumą, elektroninėmis priemonėmis, elektroninėmis priemonėmis per Lietuvos Respublikos paslaugų įstatyme nurodytą kontaktinį centrą arba tiesiogiai.
+4. Narkotikų, tabako ir alkoholio kontrolės departamentas sprendimą sustabdyti, panaikinti importo arba eksporto leidimo galiojimą priima per 3 darbo dienas nuo Reglamento (EB) Nr. 111/2005 16 ir 24 straipsniuose nurodytų atvejų paaiškėjimo dienos, o sprendimą dėl importo arba eksporto leidimo galiojimo sustabdymo panaikinimo priima per 3 darbo dienas nuo paaiškėjimo, kad narkotinių ir psichotropinių medžiagų pirmtakai (prekursoriai) nėra skirti neteisėtai narkotinių ir psichotropinių medžiagų gamybai, dienos. 
+
+
+
+
+5. Narkotikų, tabako ir alkoholio kontrolės departamentas apie sprendimą neišduoti importo arba eksporto leidimo, sustabdyti, panaikinti importo arba eksporto leidimo galiojimą, panaikinti importo arba eksporto leidimo galiojimo sustabdymą ir sprendimo priėmimo priežastis, taip pat apie sprendimą išduoti importo arba eksporto leidimą per 3 darbo dienas nuo sprendimo priėmimo dienos informuoja subjektą.
  
 
 
@@ -543,57 +669,62 @@ LICENCIJAVIMAS, VEIKLOS VIETOS REGISTRAVIMAS, IMPORTO IR EKSPORTO LEIDIMŲ IŠDA
 
 
 III SKYRIUS
-VEIKLOS, SUSIJUSIOS SU NARKOTINIŲ IR PSICHOTROPINIŲ MEDŽIAGŲ PIRMTAKAIS (PREKURSORIAIS), KONTROLĖ IR STEBĖSENA BEI VEIKLOS, SUSIJUSIOS SU Į OFICIALŲ SĄRAŠĄ NEĮTRAUKTOMIS MEDŽIAGOMIS, STEBĖSENA IR INFORMACIJOS TEIKIMAS
+VEIKLOS, SUSIJUSIOS SU NARKOTINIŲ IR PSICHOTROPINIŲ MEDŽIAGŲ PIRMTAKAIS (PREKURSORIAIS), IR VEIKLOS, SUSIJUSIOS SU Į OFICIALŲ SĄRAŠĄ NEĮTRAUKTOMIS MEDŽIAGOMIS, KONTROLĖ, STEBĖSENA IR INFORMACIJOS TEIKIMAS
  
 
 
-7 straipsnis. Veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), kontrolė
+14 straipsnis. Institucijų, vykdančių veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir į oficialų sąrašą neįtrauktomis medžiagomis, kontrolę, funkcijos
 
 
-1. Veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), kontrolę pagal kompetenciją vykdo Narkotikų, tabako ir alkoholio kontrolės departamentas, policijos ir muitinės įstaigos ir Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, vadovaudamiesi šiuo įstatymu ir (arba) kitais jų veiklą reglamentuojančiais teisės aktais.
-
-
-
-
-2. Narkotikų, tabako ir alkoholio kontrolės departamento valstybės tarnautojai turi teisę:
-
-
-1) pateikę pažymėjimą ir Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus ar jo įgalioto asmens pavedimą, atlikti patikrinimą subjekto darbo laiku, o kitu laiku – įstatymų nustatyta tvarka pasitelkę teisėsaugos įstaigų pareigūnus, įeiti į visas veiklai naudojamas subjekto patalpas, tikrinti subjekto veiklai naudojamas medžiagas, įrenginius, įrangą, atsargas, atliekamus veiksmus, veiklos dokumentus ir kompiuterinės apskaitos sistemas, siekdami nustatyti, ar laikomasi šio įstatymo, Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 reikalavimų; 
+1. Kaip laikomasi šiame įstatyme, Reglamente (EB) Nr. 273/2004, Reglamente (EB) Nr. 111/2005, Reglamente (ES) 2015/1011 ir Reglamente (ES) 2015/1013 nustatytų veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir į oficialų sąrašą neįtrauktomis medžiagomis, reikalavimų, pagal kompetenciją kontrolę vykdo Narkotikų, tabako ir alkoholio kontrolės departamentas, policijos ir muitinės įstaigos, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, atsižvelgdami į jiems teisės aktais nustatytą veiklos sritį.
 
 
 
 
-2) pagal kompetenciją duoti privalomus nurodymus;
+2. Į oficialų sąrašą neįtrauktų medžiagų sąrašą, kuriame nurodomi medžiagų pavadinimai ir tarptautiniai kodai, tvirtina Narkotikų, tabako ir alkoholio kontrolės departamento direktorius.
 
 
 
 
-3) naudoti technines priemones, būtinas veiksmingai kontrolei atlikti;
+3. Narkotikų, tabako ir alkoholio kontrolės departamentas:
+
+
+1) atlieka patikrinimą subjekto darbo laiku, vadovaudamasis Lietuvos Respublikos viešojo administravimo įstatymo 364 straipsnio reikalavimais, o kitu laiku – įstatymų nustatyta tvarka pasitelkęs teisėsaugos įstaigų pareigūnus; 
 
 
 
 
-4) imdami mėginius, tikrindami ir vertindami, ar veikla atitinka nustatytus reikalavimus, pasitelkti reikiamų sričių specialistus;
+2) pagal kompetenciją duoda subjektams privalomus vykdyti nurodymus;
 
 
 
 
-5) teisės aktų nustatyta tvarka iš subjektų imti narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) nemokamus mėginius.
+3) iš subjektų ima narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) ir į oficialų sąrašą neįtrauktų medžiagų nemokamus mėginius.
 
 
 
 
 
 
-3. Muitinės įstaigos atlieka:
+4. Muitinės įstaigos:
 
 
-1) narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) eksporto ir importo kontrolę Reglamento (EB) Nr. 111/2005 12 ir 20 straipsniuose nurodytais atvejais pagal Narkotikų, tabako ir alkoholio kontrolės departamento išduotus eksporto ir importo leidimus, kitus dokumentus, nurodytus Reglamento (EB) Nr. 111/2005 3 straipsnyje; 
+1) atlieka narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) eksporto ir importo kontrolę – Reglamento (EB) Nr. 111/2005 12 ir 20 straipsniuose nurodytais atvejais tikrina dokumentus, nurodytus Reglamento (EB) Nr. 111/2005 3 straipsnyje; 
 
 
 
 
-2) Reglamento (EB) Nr. 111/2005 8 straipsnio 1 dalyje nustatytų veiksmų kontrolę pagal Reglamento (EB) Nr. 1277/2005 III priede nurodytą ūkio subjekto deklaraciją ir kitus dokumentus, nurodytus Reglamento (EB) Nr. 1277/2005 16 straipsnyje.
+2) atlieka Reglamento (EB) Nr. 111/2005 8 straipsnio 1 dalyje nustatytų veiksmų kontrolę pagal Reglamento (ES) 2015/1011 II priede nurodytą Ekonominės veiklos vykdytojo deklaraciją dėl medžiagų, įtrauktų į oficialų sąrašą, įvežimo į Sąjungos muitų teritoriją ir kitus dokumentus, nurodytus Reglamento (ES) 2015/1011 8 straipsnio 2 dalyje; 
+
+
+
+
+3) atlikdamos importuojamų ar eksportuojamų narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) ar į oficialų sąrašą neįtrauktų medžiagų muitinį tikrinimą ir (ar) gavusios kompetentingos institucijos (institucijų) išvadas, imasi priemonių, numatytų Reglamento (ES)  Nr. 952/2013 198 straipsnyje;
+
+
+
+
+4) kai yra įtarimų, kad į oficialų sąrašą neįtrauktos medžiagos gali būti panaudotos nelegaliai narkotinių ir psichotropinių medžiagų gamybai, sulaiko į oficialų sąrašą neįtrauktas medžiagas bei imasi būtinų priemonių pagal savo kompetenciją.
  
 
 
@@ -603,35 +734,40 @@ VEIKLOS, SUSIJUSIOS SU NARKOTINIŲ IR PSICHOTROPINIŲ MEDŽIAGŲ PIRMTAKAIS (PRE
 
 
 
-8 straipsnis. Veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir į oficialų sąrašą neįtrauktomis medžiagomis, stebėsena ir informacijos teikimas
+15 straipsnis. Institucijų, vykdančių veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir į oficialų sąrašą neįtrauktomis medžiagomis, stebėseną ir informacijos teikimą, funkcijos
 
 
-1. Narkotikų, tabako ir alkoholio kontrolės departamentas vykdo veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir į oficialų sąrašą neįtrauktomis medžiagomis, stebėseną ir Reglamento (EB) Nr. 273/2004 13 straipsnio 1 dalyje, Reglamento (EB) Nr. 111/2005 26 straipsnio 3a dalyje ir Reglamento (EB) Nr. 1277/2005 29 straipsnyje nustatytais atvejais teikia informaciją Europos Komisijai.
-
-
-
-
-2. Į oficialų sąrašą neįtrauktų medžiagų sąrašą, kuriame nurodomi medžiagų pavadinimai ir tarptautiniai kodai, įsakymu tvirtina Narkotikų, tabako ir alkoholio kontrolės departamento direktorius. 
+1. Narkotikų, tabako ir alkoholio kontrolės departamentas vykdo veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir į oficialų sąrašą neįtrauktomis medžiagomis, stebėseną ir Reglamento (EB) Nr. 273/2004 13 straipsnio 1 dalyje, Reglamento (EB) Nr. 111/2005 26 straipsnio 3a dalyje ir Reglamento (ES) 2015/1011 13 straipsnyje nustatytais atvejais teikia informaciją Europos Komisijai.
 
 
 
 
-3. Narkotikų, tabako ir alkoholio kontrolės departamentas turi teisę reikalauti ir gauti iš valstybės institucijų ir subjektų informaciją, būtiną veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir į oficialų sąrašą neįtrauktomis medžiagomis, stebėsenai vykdyti. Narkotikų, tabako ir alkoholio kontrolės departamento direktorius įsakymu tvirtina ataskaitų formas, skirtas informacijai, nurodytai Reglamento (EB) Nr. 273/2004 10 straipsnyje ir Reglamento (EB) Nr. 1277/2005 17 ir 18 straipsniuose, pateikti.
+2. Narkotikų, tabako ir alkoholio kontrolės departamentas turi teisę gauti iš valstybės institucijų ir subjektų informaciją, būtiną veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir į oficialų sąrašą neįtrauktomis medžiagomis, stebėsenai vykdyti. Informacija, nurodyta Reglamento (EB) Nr. 273/2004 10 straipsnyje, Reglamento (EB) Nr. 111/2005 26 straipsnio 3 dalies a punkte ir 3b dalies a punkte, Reglamento (ES) 2015/2011 9 straipsnyje, teikiama Narkotikų, tabako ir alkoholio kontrolės departamento nustatyta tvarka. 
 
 
 
 
-4. Lietuvos Respublikos aplinkos ministro, Lietuvos Respublikos ūkio ministro, Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos sveikatos apsaugos ministro įgaliotos institucijos, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos ar jo direktoriaus įgaliotos muitinės įstaigos Lietuvos Respublikos Vyriausybės nustatyta tvarka teikia Narkotikų, tabako ir alkoholio kontrolės departamentui informaciją, kurios reikia veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir į oficialų sąrašą neįtrauktomis medžiagomis, stebėsenai vykdyti. 
+3. Narkotikų, tabako ir alkoholio kontrolės departamentas turi teisę reikalauti ir gauti iš subjektų informaciją apie į oficialų sąrašą neįtrauktas medžiagas prieš pateikiant jas į rinką, prieš vykdant jų importą ir eksportą bei prieš vykdant tarpininkavimo veiklą su šiomis medžiagomis. Informacija, nurodyta Reglamento (EB) Nr. 273/2004 10 straipsnio 2 dalies a punkte ir Reglamento (EB) Nr. 111/2005 26 straipsnio 3b dalies a punkte, teikiama Narkotikų, tabako ir alkoholio kontrolės departamento nustatyta tvarka. 
 
 
 
 
-5. Narkotikų, tabako ir alkoholio kontrolės departamentas užtikrina, kad rekomendacijos (gairės), nurodytos Reglamento (EB) Nr. 273/2004 9 straipsnio 1 dalyje ir Reglamento (EB) Nr. 111/2005 10 straipsnio 1 dalyje, būtų platinamos subjektams, kurie vykdo veiklą, susijusią su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir į oficialų sąrašą neįtrauktomis medžiagomis, ir kitiems chemijos pramonės subjektams, atsižvelgdamas į rekomendacijose (gairėse) nustatytus tikslus.
+4. Lietuvos Respublikos aplinkos ministro, Lietuvos Respublikos ekonomikos ir inovacijų ministro, Lietuvos Respublikos vidaus reikalų ministro ir Lietuvos Respublikos sveikatos apsaugos ministro įgaliotos institucijos, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos ar jo generalinio direktoriaus įgaliotos muitinės įstaigos Vyriausybės nustatyta tvarka teikia Narkotikų, tabako ir alkoholio kontrolės departamentui informaciją, kurios reikia veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir į oficialų sąrašą neįtrauktomis medžiagomis, stebėsenai vykdyti. 
+
+
+
+
+5. Narkotikų, tabako ir alkoholio kontrolės departamentas užtikrina, kad rekomendacijos (gairės), nurodytos Reglamento (EB) Nr. 273/2004 9 straipsnio 1 dalyje ir Reglamento (EB) Nr. 111/2005 10 straipsnio 1 dalyje, būtų platinamos subjektams, kurie vykdo veiklą, susijusią su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir į oficialų sąrašą neįtrauktomis medžiagomis, ir kitiems subjektams.
 
 
 
 
 6. Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, muitinės ir policijos įstaigos turi nedelsdamos informuoti Narkotikų, tabako ir alkoholio kontrolės departamentą, jeigu teisės aktų nustatyta tvarka uždraudžiama įvežti į Europos Sąjungos muitų teritoriją arba uždraudžiama iš jos išvežti narkotinių ir psichotropinių medžiagų pirmtakus (prekursorius) arba į oficialų sąrašą neįtrauktas medžiagas. 
+
+
+
+
+7. Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos, muitinės ir policijos įstaigos turi nedelsdami informuoti Muitinės departamentą, jeigu turi informacijos apie gabenamus narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) ir į oficialų sąrašą neįtrauktų medžiagų krovinius, kurie gali būti panaudoti neteisėtai narkotinių ir psichotropinių medžiagų gamybai, išskyrus atvejus, kai tokia informacija yra kriminalinės žvalgybos dalis ir jos perdavimas gali pakenkti atliekamiems tolesniems tyrimams arba vykdomiems veiksmams.
  
 
 
@@ -646,35 +782,40 @@ SUBJEKTŲ PAREIGOS IR ATSAKOMYBĖ
  
 
 
-9 straipsnis. Subjektų pareigos
+16 straipsnis. Subjektų pareigos
 
 
-1. Subjektai, išskyrus naudotojus, nurodytus Reglamento (EB) Nr. 273/2004 2 straipsnio h punkte, turi paskirti atsakingą asmenį Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005 ir Reglamento (EB) Nr. 1277/2005 nustatytais atvejais ir vykdyti kitas šiuose reglamentuose ir šiame įstatyme nustatytas pareigas.
-
-
-
-
-2. Subjektai Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005 ir Reglamento (EB) Nr. 1277/2005 nustatytais atvejais bei Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus įsakymu nustatyta tvarka turi teikti informaciją Narkotikų, tabako ir alkoholio kontrolės departamentui. 
+1. Subjektai, ketinantys vykdyti ar vykdantys veiklą, susijusią su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), privalo vykdyti Reglamente (EB) Nr. 273/2004, Reglamente (EB) Nr. 111/2005, Reglamente (ES) 2015/1013, Reglamente (ES) 2015/1011 nustatytas pareigas.
 
 
 
 
-3. Subjektai, ketinantys vykdyti ar vykdantys veiklą, susijusią su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), privalo laikytis Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus įsakymu patvirtintame Narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) laikymo ir saugojimo sąlygų apraše nustatytų  reikalavimų.
+2. Subjektai Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus nustatyta tvarka turi teikti informaciją apie narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) ir į oficialų sąrašą neįtrauktų medžiagų apyvartą Narkotikų, tabako ir alkoholio kontrolės departamentui. 
 
 
 
 
-4. Subjektai nedelsdami praneša Narkotikų, tabako ir alkoholio kontrolės departamentui apie užsakymus arba sandorius, susijusius su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir (arba) į oficialų sąrašą neįtrauktomis medžiagomis, kurias ketinama teikti rinkai, jeigu kyla įtarimų, kad tokios medžiagos gali būti panaudotos neteisėtai narkotinių ir psichotropinių medžiagų gamybai, kaip nurodyta Reglamento (EB) Nr. 111/2005 10 straipsnyje. 
+3. Subjektai, ketinantys vykdyti ar vykdantys veiklą, susijusią su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), privalo laikytis Narkotikų, tabako ir alkoholio kontrolės departamento direktoriaus patvirtintame Narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) laikymo ir saugojimo sąlygų apraše nustatytų reikalavimų.
 
 
 
 
-5. Pasikeitus dokumentuose, kurie buvo pateikti licencijai, specialiajai licencijai, veiklos vietos registracijos pažymėjimui, veiklos vietos specialiajam registracijos pažymėjimui, importo, eksporto leidimui gauti, nurodytai informacijai, subjektai per 10 darbo dienų nuo informacijos pasikeitimo dienos pateikia patikslintą informaciją Narkotikų, tabako ir alkoholio kontrolės departamentui. 
+4. Subjektai nedelsdami praneša Narkotikų, tabako ir alkoholio kontrolės departamentui apie užsakymus arba sandorius, susijusius su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) ir (arba) į oficialų sąrašą neįtrauktomis medžiagomis, kurias ketinama teikti į rinką, jeigu kyla įtarimų, kad tokios medžiagos gali būti panaudotos neteisėtai narkotinių ir psichotropinių medžiagų gamybai, kaip nurodyta Reglamento (EB) Nr. 273/2004 8 straipsnyje ir Reglamento (EB) Nr. 111/2005 9 straipsnyje. 
 
 
 
 
-6. Subjektas, kurio licencijos, specialiosios licencijos galiojimas naikinamas, visus pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) likučius privalo parduoti arba perduoti sunaikinti teisės aktų nustatyta tvarka iki licencijos arba specialiosios licencijos galiojimo pabaigos datos ir apie tai informuoti Narkotikų, tabako ir alkoholio kontrolės departamentą. Subjektas, kurio veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimas naikinamas, antros ir (arba) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) likučius privalo parduoti arba perduoti sunaikinti teisės aktų nustatyta tvarka iki veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimo pabaigos datos ir apie tai informuoti Narkotikų, tabako ir alkoholio kontrolės departamentą.
+5. Subjektas, kurio licencijos, specialiosios licencijos galiojimas naikinamas, visus pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) likučius privalo parduoti arba perduoti sunaikinti iki licencijos arba specialiosios licencijos galiojimo pabaigos datos ir apie tai informuoti Narkotikų, tabako ir alkoholio kontrolės departamentą. Subjektas, kurio veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimas naikinamas, antros ir (arba) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) likučius privalo parduoti arba perduoti sunaikinti iki veiklos vietos registracijos pažymėjimo arba veiklos vietos specialiojo registracijos pažymėjimo galiojimo pabaigos datos ir apie tai informuoti Narkotikų, tabako ir alkoholio kontrolės departamentą.
+
+
+
+
+6. Subjektai privalo sudaryti visas sąlygas, būtinas Narkotikų, tabako ir alkoholio kontrolės departamento pareigūnams vykdyti narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) ir į oficialų sąrašą neįtrauktų medžiagų kontrolę, ir paklusti pareigūnų teisėtiems reikalavimams.
+
+
+
+
+7. Subjektai privalo pateikti informaciją Narkotikų, tabako ir alkoholio kontrolės departamentui apie į oficialų sąrašą neįtrauktas medžiagas prieš pateikdami jas į rinką, prieš vykdydami jų importą ir eksportą bei prieš vykdydami tarpininkavimo veiklą su šiomis medžiagomis. 
  
 
 
@@ -682,10 +823,10 @@ SUBJEKTŲ PAREIGOS IR ATSAKOMYBĖ
 
 
 
-10 straipsnis. Subjektų atsakomybė
+17 straipsnis. Subjektų atsakomybė
 
 
-Subjektai, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
+Subjektai, pažeidę šio įstatymo ir (ar) jo priede nurodytų Europos Sąjungos teisės aktų reikalavimus, atsako Lietuvos Respublikos įstatymų nustatyta tvarka.
  
 
 
@@ -700,7 +841,6 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
 RESPUBLIKOS PREZIDENTAS                                                                  VALDAS ADAMKUS
  
- 
 
 
  
@@ -708,6 +848,7 @@ RESPUBLIKOS PREZIDENTAS                            �
 
 
 
+ 
 Lietuvos Respublikos 
 narkotinių ir psichotropinių
 medžiagų pirmtakų (prekursorių)
@@ -718,17 +859,22 @@ priedas
  
 
 
-1. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 273/2004 dėl narkotinių medžiagų pirmtakų (prekursorių) (OL 2004 m. specialusis leidimas, 15 skyrius, 8 tomas, p. 46) su paskutiniais pakeitimais, padarytais 2013 m. lapkričio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1258/2013 (OL 2013 L 330, p. 21).
+1. 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 273/2004 dėl narkotinių medžiagų pirmtakų (prekursorių) su paskutiniais pakeitimais, padarytais 2018 m. vasario 26 d. Komisijos deleguotuoju reglamentu (ES) 2018/729. 
 
 
 
 
-2. 2004 m. gruodžio 22 d. Tarybos reglamentas (EB) Nr. 111/2005, nustatantis prekybos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) tarp Bendrijos ir trečiųjų šalių stebėsenos taisykles (OL 2005 L 22, p. 1), su paskutiniais pakeitimais, padarytais 2013 m. lapkričio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1259/2013 (OL 2013 L 330, p. 30).
+2. 2004 m. gruodžio 22 d. Tarybos reglamentas (EB) Nr. 111/2005, nustatantis prekybos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) tarp Bendrijos ir trečiųjų šalių stebėsenos taisykles, su paskutiniais pakeitimais, padarytais 2018 m. vasario 26 d. Komisijos deleguotuoju reglamentu (ES) 2018/729. 
 
 
 
 
-3. 2005 m. liepos 27 d. Komisijos reglamentas (EB) Nr. 1277/2005, nustatantis Europos Parlamento ir Tarybos reglamento (EB) Nr. 273/2004 dėl narkotinių medžiagų pirmtakų (prekursorių) ir Tarybos reglamento (EB) Nr. 111/2005, nustatančio prekybos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) tarp Bendrijos ir trečiųjų šalių stebėsenos taisykles, įgyvendinimo taisykles (OL 2005 L 202, p. 7).
+3. 2015 m. balandžio 24 d. Komisijos deleguotasis reglamentas (ES) 2015/1011, kuriuo papildomas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 273/2004 dėl narkotinių medžiagų pirmtakų (prekursorių) ir Tarybos reglamentas (EB) Nr. 111/2005, nustatantis prekybos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) tarp Bendrijos ir trečiųjų šalių stebėsenos taisykles, ir panaikinamas Komisijos reglamentas (EB) Nr. 1277/2005.
+
+
+
+
+4. 2015 m. birželio 25 d. Komisijos įgyvendinimo reglamentas (ES) 2015/1013, kuriuo išdėstomos su Europos Parlamento ir Tarybos reglamentu (EB) Nr. 273/2004 dėl narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) ir Tarybos reglamentu (EB) Nr. 111/2005, nustatančiu prekybos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) tarp Sąjungos ir trečiųjų šalių stebėsenos taisykles, susijusios taisyklės.
 
 
  
@@ -769,3 +915,8 @@ Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekur
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3074, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14349
 Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymo Nr. VIII-1207 3 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-255, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08632
+Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymo Nr. VIII-1207 pakeitimo įstatymas
