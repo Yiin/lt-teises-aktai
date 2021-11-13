@@ -20,14 +20,9 @@ LIETUVOS RESPUBLIKOS ENERGIJOS IŠTEKLIŲ RINKOS ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2019-06-01 iki 2021-11-12
+Suvestinė redakcija nuo 2021-11-13 iki 2021-11-25
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 63-3164, i. k. 1121010ISTA0XI-2023
- 
-TAR pastaba. Šilumos aukciono dalyvių, kuriems Lietuvos Respublikos energijos išteklių rinkos įstatymo 9 straipsnio 3 dalies ir 191 straipsnio nuostatos iki įstatymo Nr. XIII-2084 įsigaliojimo (2019-06-01) nebuvo  taikomos, neteikiant pirmenybės energijos išteklių biržai tiesiogiai sudaryti dvišaliai susitarimai, įskaitant visus galimus jų pratęsimus, galioja ne ilgiau kaip iki 2020 m. gegužės 31 d.
-Lietuvos Respublikos Seimas, Įstatymas
-Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
-Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 8, 13, 17, 19-1 ir 28-1 straipsnių pakeitimo įstatymas
  
 LIETUVOS RESPUBLIKOS 
 ENERGIJOS IŠTEKLIŲ RINKOS 
@@ -962,15 +957,17 @@ PREKYBA GAMTINĖMIS DUJOMIS
 23 straipsnis. Gamtinių dujų, naudojamų šilumos ir elektros gamybai, įsigijimas
 
 
-1. Šilumos tiekėjai, reguliuojami nepriklausomi šilumos gamintojai ir bendri šilumos ir elektros energijos gamintojai, kurie per metus reguliuojamai veiklai suvartoja 50 GWh gamtinių dujų ar daugiau, privalo gamtinių dujų biržoje per kalendorinius metus įsigyti ne mažiau kaip 50 procentų reguliuojamai elektros ir (ar) šilumos energijos gamybos veiklai reikalingo gamtinių dujų kiekio. Vertinant šioje dalyje minimų ūkio subjektų metinį gamtinių dujų suvartojimą turi būti įskaičiuojamas ūkio subjekto, įskaitant jo filialus, atstovybes ir (ar) skirtingas gamtinių dujų pristatymo vietas, suvartojamo gamtinių dujų kiekio metinis vidurkis per 2 praėjusius metus.
+1. Šilumos tiekėjai, reguliuojami nepriklausomi šilumos gamintojai ir bendri šilumos ir elektros energijos gamintojai, kurie per metus reguliuojamajai energetikos veiklai suvartoja 50 GWh gamtinių dujų ar daugiau, privalo gamtinių dujų biržoje per kalendorinius metus įsigyti ne mažiau kaip 50 procentų reguliuojamajai elektros ir (ar) šilumos energijos gamybos veiklai reikalingo gamtinių dujų kiekio. Vertinant šioje dalyje minimų ūkio subjektų metinį gamtinių dujų suvartojimą, turi būti įskaičiuojamas ūkio subjekto, įskaitant jo filialus, atstovybes ir (ar) skirtingas gamtinių dujų pristatymo vietas, suvartojamo gamtinių dujų kiekio metinis vidurkis per 2 praėjusius metus.
 
 
 
 
-2. Šio straipsnio 1 dalyje išdėstytas reikalavimas netaikomas šio straipsnio 1 dalyje nurodytoms energetikos įmonėms, jeigu gamtinių dujų biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo gamtinių dujų kiekio ar jo dalies. Trūkstamas gamtinių dujų kiekis gali būti įsigyjamas kitais teisės aktuose reglamentuotais pirkimo būdais.
+2. Šio straipsnio 1 dalyje išdėstytas reikalavimas netaikomas šio straipsnio 1 dalyje nurodytoms energetikos įmonėms, jeigu gamtinių dujų biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo gamtinių dujų kiekio ar jo dalies arba gamtinių dujų įsigijimo kaina sutarties sudarymo metu kitais teisės aktuose reglamentuotais pirkimo būdais yra mažesnė negu vidutinė gamtinių dujų biržos kaina ir (ar) gamtinių dujų įsigijimas kitais teisės aktuose reglamentuotais pirkimo būdais yra ekonomiškai naudingesnis.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-606, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23528
  
-
-
 
 
 
@@ -1085,7 +1082,7 @@ ENERGIJOS IŠTEKLIŲ RINKOS PRIEŽIŪRA IR ATSAKOMYBĖS TAIKYMAS. SKUNDŲ ir gin
 28 straipsnis. Energijos išteklių elektros ir (ar) šilumos energijai gaminti pirkimų priežiūra
 
 
-1. Šio įstatymo ir jo įgyvendinamųjų teisės aktų taikymo ir jų reglamentuojamų energijos išteklių elektros ir šilumos energijai gaminti pirkimų priežiūrą kompleksiškai užtikrina Komisija, Viešųjų pirkimų tarnyba, energijos išteklių biržos bei kitų biržų operatoriai ir Konkurencijos taryba pagal jiems šiame įstatyme ir jų veiklą reglamentuojančiuose teisės aktuose nustatytą kompetenciją. 
+1. Šio įstatymo ir jo įgyvendinamųjų teisės aktų taikymo ir jų reglamentuojamų energijos išteklių elektros ir šilumos energijai gaminti pirkimų priežiūrą kompleksiškai užtikrina Taryba, Viešųjų pirkimų tarnyba, energijos išteklių biržos, kitų biržų operatoriai ir Konkurencijos taryba pagal jiems šiame įstatyme ir jų veiklą reglamentuojančiuose teisės aktuose nustatytą kompetenciją.
 
 
 
@@ -1100,30 +1097,37 @@ ENERGIJOS IŠTEKLIŲ RINKOS PRIEŽIŪRA IR ATSAKOMYBĖS TAIKYMAS. SKUNDŲ ir gin
 
 
 
-4. Pirkimų tyrimas atliekamas ir išvada parengiama per 40 darbo dienų. Motyvuotu Viešųjų pirkimų tarnybos sprendimu šis terminas gali būti pratęstas ne daugiau kaip 2 kartus, kiekvieną kartą pratęsiant terminą ne ilgiau kaip 20 darbo dienų. Tyrimas užbaigiamas, kai Viešųjų pirkimų tarnyba surašo motyvuotą, pagrįstą faktais ir teisės aktų nuostatomis išvadą. Tyrimo metu nustačius pažeidimą, ši išvada yra pagrindas Viešųjų pirkimų tarnybai inicijuoti administracinės atsakomybės taikymo procedūrą. Viešųjų pirkimų tarnyba, turėdama pagrindą įtarti, kad buvo pažeistos šio įstatymo ar Pirkimų taisyklių nuostatos, turi teisę sustabdyti vykdomą pirkimą tol, kol atliks tyrimą.
+4. Pirkimų tyrimas atliekamas ir išvada parengiama per 40 darbo dienų. Motyvuotu Viešųjų pirkimų tarnybos sprendimu šis terminas gali būti pratęstas ne daugiau kaip 2 kartus, kiekvieną kartą pratęsiant terminą ne ilgiau kaip 20 darbo dienų. Tyrimas užbaigiamas, kai Viešųjų pirkimų tarnyba surašo motyvuotą, faktais ir teisės aktų nuostatomis pagrįstą išvadą. Tyrimo metu nustačius pažeidimą, ši išvada yra pagrindas Viešųjų pirkimų tarnybai inicijuoti administracinės atsakomybės taikymo procedūrą. Viešųjų pirkimų tarnyba, turėdama pagrindą įtarti, kad buvo pažeistos šio įstatymo ar Pirkimų taisyklių nuostatos, turi teisę sustabdyti vykdomą pirkimą tol, kol tyrimas bus atliktas.
 
 
 
 
-5. Komisija, vykdydama energijos išteklių elektros ir (ar) šilumos energijai gaminti pirkimų priežiūrą, gali inicijuoti atsakomybės už reguliuojamosios energetikos veiklos pažeidimą taikymo procedūrą. Įvertinusi pažeidimo mastą, Komisija kiekvienu atveju vertina jo atitiktį Energetikos įstatymo 36 straipsnio 1 dalies 2 punkte nurodytam pažeidimui.
+5. Taryba, vykdydama energijos išteklių elektros ir (ar) šilumos energijai gaminti pirkimų priežiūrą, gali inicijuoti atsakomybės už reguliuojamosios energetikos veiklos pažeidimą taikymo procedūrą. Įvertinusi pažeidimo mastą, Taryba kiekvienu atveju vertina jo atitiktį Energetikos įstatymo 36 straipsnio 1 dalies 2 punkte nurodytam pažeidimui.
 
 
 
 
-6. Komisija, nustačiusi, kad biokuro pirkimo–pardavimo sutartis tarp energijos išteklių rinkos dalyvių yra sudaryta nesilaikant šiame įstatyme ir Pirkimų taisyklėse nustatytos tvarkos, neįtraukia tokių sandorių vertės į vidutinės biokuro rinkos kainos skaičiavimus.
+6. Taryba, nustačiusi, kad biokuro pirkimo–pardavimo sutartis tarp energijos išteklių rinkos dalyvių yra sudaryta nesilaikant šiame įstatyme ir Pirkimų taisyklėse nustatytos tvarkos, neįtraukia tokių sandorių vertės į vidutinės biokuro rinkos kainos skaičiavimus.
 
 
 
 
-7. Komisija, nustačiusi, kad pirkimą organizavusi įmonė nevykdė šio įstatymo 191 straipsnio 1 dalyje nustatyto įpareigojimo įsigyjant biokurą pirmenybę teikti energijos išteklių biržai, nepripažįsta pirkimą vykdžiusio šilumos tiekėjo ar reguliuojamo nepriklausomo šilumos gamintojo pirkimo sutarties išlaidų biokurui įsigyti pagrįstomis sąnaudomis nustatant šilumos kainą. Pagrįstomis sąnaudomis yra nepripažįstamos tik to pirkimo, kuris buvo vykdytas pažeidžiant šio įstatymo 191 straipsnio reikalavimus, sutarties išlaidos biokurui įsigyti.
+7. Taryba, nustačiusi, kad pirkimą organizavusi įmonė nevykdė šio įstatymo 191 straipsnio 1 dalyje nustatyto įpareigojimo įsigyjant biokurą pirmenybę teikti energijos išteklių biržai, nepripažįsta pirkimą vykdžiusio šilumos tiekėjo ar reguliuojamo nepriklausomo šilumos gamintojo pirkimo sutarties išlaidų biokurui įsigyti pagrįstomis sąnaudomis nustatant šilumos kainą dalimi, viršijančia vidutinę metinę biokuro kainą arba vidutinę metinę biokuro biržos kainą. Pagrįstomis sąnaudomis yra nepripažįstamos tik to pirkimo, kuris buvo vykdytas pažeidžiant šio įstatymo 191 straipsnio reikalavimus, sutarties išlaidos biokurui įsigyti, viršijančios vidutinę metinę biokuro kainą arba vidutinę metinę biokuro biržos kainą.
 
 
 
 
-8. Šiame straipsnyje nustatytų poveikio priemonių taikymas juridiniams asmenims neatleidžia jų vadovų ir (ar) darbuotojų nuo įstatymų nustatytos civilinės, administracinės ir (ar) baudžiamosios atsakomybės, taip pat neužkerta kelio Komisijai svarstyti klausimą dėl jos išduotų licencijų galiojimo sustabdymo ar panaikinimo.
+8. Taryba, nustačiusi, kad pirkimą organizavusi įmonė nevykdė šio įstatymo 23 straipsnio 1 dalyje nustatyto įpareigojimo, nepripažįsta pirkimą vykdžiusio šilumos tiekėjo, reguliuojamo nepriklausomo šilumos gamintojo ar bendrojo šilumos ir elektros energijos gamintojo pirkimo sutarties išlaidų gamtinėms dujoms įsigyti pagrįstomis sąnaudomis nustatant šilumos kainą dalimi, viršijančia vidutinę metinę gamtinių dujų biržos kainą. Pagrįstomis sąnaudomis yra nepripažįstamos tik to pirkimo, kuris buvo vykdytas pažeidžiant šio įstatymo 23 straipsnio 1 dalyje nustatytą įpareigojimą, sutarties išlaidos gamtinėms dujoms įsigyti, viršijančios vidutinę metinę gamtinių dujų biržos kainą.
+
+
+
+
+9. Šiame straipsnyje nustatytų poveikio priemonių taikymas juridiniams asmenims neatleidžia jų vadovų ir (ar) darbuotojų nuo įstatymų nustatytos civilinės, administracinės ir (ar) baudžiamosios atsakomybės, taip pat neužkerta kelio Tarybai svarstyti klausimą dėl jos išduotų licencijų galiojimo sustabdymo ar panaikinimo.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-606, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23528
  
-
-
 
 
 
@@ -1203,7 +1207,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTĖ                                                    DALIA GRYBAUSKAITĖ
+RESPUBLIKOS PREZIDENTĖ                                                     DALIA GRYBAUSKAITĖ
  
  
 
@@ -1241,3 +1245,8 @@ Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 2, 3, 10,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
 Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 8, 13, 17, 19-1 ir 28-1 straipsnių pakeitimo įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-606, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23528
+Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 23 ir 28 straipsnių pakeitimo įstatymas
