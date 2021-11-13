@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.D3ED3792F52B"
 
 # Lietuvos Respublikos valstybės tarnybos įstatymas
 
-Suvestinė redakcija nuo 2021-10-09 iki 2021-11-12
+Suvestinė redakcija nuo 2021-11-13 iki 2021-12-21
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 66-2130; Žin. 1999, Nr.105-0, i. k. 0991010ISTAIII-1316
  
@@ -390,6 +390,14 @@ Papildyta straipsnio dalimi:
 Nr. XIV-95, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28946
 Straipsnio dalies pakeitimai:
 Nr. XIV-95, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28946
+ 
+
+
+
+
+10. Lietuvos Respublikos Seimo nuolatiniam atstovui, Seimo nuolatinio atstovo pavaduotojui šio įstatymo nuostatos taikomos tiek, kiek jų statuso nereglamentuoja Lietuvos Respublikos Seimo nuolatinio atstovo įstatymas.
+Papildyta straipsnio dalimi:
+Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
  
 
 
@@ -1229,6 +1237,14 @@ VALSTYBĖS TARNAUTOJŲ KARJERA
 
 
 3. Karjeros valstybės tarnautojas su jo rašytiniu sutikimu į specialiojo atašė pareigas perkeliamas Vyriausybės tvirtinamuose Lietuvos Respublikos specialiųjų atašė nuostatuose nustatyta tvarka.
+
+
+
+
+31. Karjeros valstybės tarnautojas į Seimo nuolatinio atstovo ar Seimo nuolatinio atstovo pavaduotojo pareigas perkeliamas Seimo nuolatinio atstovo įstatymo nustatyta tvarka.
+Papildyta straipsnio dalimi:
+Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
+ 
 
 
 
@@ -2590,15 +2606,19 @@ Nr. XIII-2679, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21320
 
 
 
-4. Pagal šio įstatymo 25 straipsnio 1 dalį perkeltiems į kitas pareigas karjeros valstybės tarnautojams garantuojamos eitos arba kitos lygiavertės pareigos toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje. Pagal šio įstatymo 25 straipsnio 1 dalį perkeltiems kadencijai priimtiems karjeros valstybės tarnautojams ši garantija taikoma ne ilgiau negu iki kadencijos pabaigos.
+4. Pagal šio įstatymo 21 straipsnio 31 dalį arba 25 straipsnio 1 dalį perkeltiems į kitas pareigas karjeros valstybės tarnautojams garantuojamos eitos arba kitos lygiavertės pareigos toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje. Pagal šio įstatymo 21 straipsnio 31 dalį arba 25 straipsnio 1 dalį perkeltiems kadencijai priimtiems karjeros valstybės tarnautojams ši garantija taikoma ne ilgiau negu iki kadencijos pabaigos.
+Straipsnio dalies pakeitimai:
+Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
+ 
 
 
 
 
-5. Eitos pareigos garantuojamos valstybės tarnautojui, kai jis dėl privalomosios karo tarnybos, savanoriškos nenuolatinės karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, dėl dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje (taip pat dėl atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose) negali eiti pareigų, taip pat karjeros valstybės tarnautojui, kai jis dėl atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, dėl laikino perkėlimo į kitas pareigas pagal šio įstatymo 21 straipsnį negali eiti pareigų. Ši garantija kadencijai priimtam karjeros valstybės tarnautojui taikoma ne ilgiau negu iki kadencijos pabaigos.
+5. Eitos pareigos garantuojamos valstybės tarnautojui, kai jis dėl privalomosios karo tarnybos, savanoriškos nenuolatinės karo tarnybos arba alternatyviosios krašto apsaugos tarnybos atlikimo, dėl dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje (taip pat dėl atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose) negali eiti pareigų, taip pat karjeros valstybės tarnautojui, kai jis dėl atostogų kvalifikacijai tobulinti, nėštumo ir gimdymo atostogų ar atostogų vaikui prižiūrėti, dėl laikino perkėlimo į kitas pareigas pagal šio įstatymo 21 straipsnį, išskyrus 21 straipsnio 31 dalį, negali eiti pareigų. Ši garantija kadencijai priimtam karjeros valstybės tarnautojui taikoma ne ilgiau negu iki kadencijos pabaigos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1817, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21837
 Nr. XIII-2679, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21320
+Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
  
 
 
@@ -2979,7 +2999,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                           VALDAS ADAMKUS
+RESPUBLIKOS PREZIDENTAS                                                            VALDAS ADAMKUS
  
  
 
@@ -3085,7 +3105,7 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFIC
 
 
  6.1. 
- vyresnysis patarėjas, patarėjas (Seimo kanceliarijoje) 
+ vyresnysis patarėjas, patarėjas (Seimo kanceliarijoje), Seimo nuolatinis atstovas 
  ministro patarėjas 
  11–16 
  9–15,5 
@@ -3101,16 +3121,16 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ PAREIGINIŲ ALGŲ KOEFIC
 
 
  7.1. 
- patarėjas, vyriausiojo prokuroro padėjėjas, teismo pirmininko padėjėjas, teismo skyriaus pirmininko patarėjas, teisėjo vyresnysis padėjėjas, gynybos patarėjo pavaduotojas, Seimo nuolatinis atstovas Europos Sąjungoje, specialusis atašė, prekybos atstovas, vyriausiasis specialistas (Seimo kanceliarijoje) 
- Respublikos Prezidento atstovas spaudai,  Seimo Pirmininko atstovas spaudai, Ministro Pirmininko atstovas spaudai, ministro atstovas spaudai 
+ patarėjas, vyriausiojo prokuroro padėjėjas, teismo pirmininko padėjėjas, teismo skyriaus pirmininko patarėjas, teisėjo vyresnysis padėjėjas, gynybos patarėjo pavaduotojas, Seimo nuolatinio atstovo pavaduotojas, specialusis atašė, prekybos atstovas, vyriausiasis specialistas (Seimo kanceliarijoje) 
+ Respublikos Prezidento atstovas spaudai, Seimo Pirmininko atstovas spaudai, Ministro Pirmininko atstovas spaudai, ministro atstovas spaudai 
  9,2–15 
  8,3–14,5 
  7,4–13,5 
 
 
  8. 
- vyriausiasis specialistas, specialiojo atašė pavaduotojas, Seimo nuolatinio atstovo Europos Sąjungoje pavaduotojas, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo  kanceliarijoje), vyresnysis specialistas (Seimo kanceliarijoje) 
- savivaldybės tarybos sekretorius, mero patarėjas,  Respublikos Prezidento referentas, Seimo Pirmininko padėjėjas, Ministro Pirmininko padėjėjas, Seimo frakcijos referentas 
+ vyriausiasis specialistas, specialiojo atašė pavaduotojas, prokuroro padėjėjas, teisėjo padėjėjas, teismo konsultantas, padėjėjas (Seimo kanceliarijoje), vyresnysis specialistas (Seimo kanceliarijoje) 
+ savivaldybės tarybos sekretorius, mero patarėjas, Respublikos Prezidento referentas, Seimo Pirmininko padėjėjas, Ministro Pirmininko padėjėjas, Seimo frakcijos referentas 
  7,7–13,5 
  7,1–13 
  6,4–12 
@@ -3141,6 +3161,7 @@ Nr. XIII-2609, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20565
 Nr. XIII-2809, 2020-03-12, paskelbta TAR 2020-03-17, i. k. 2020-05602
 Nr. XIV-144, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00266
 Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
+Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
  
 
 
@@ -4185,3 +4206,8 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 10, 11, 17, 28 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
 Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 2, 10, 49 straipsnių ir 1 priedo pakeitimo įstatymas
+ 
+38.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5, 21, 49 straipsnių ir 1 priedo pakeitimo įstatymas
