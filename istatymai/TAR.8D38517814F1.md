@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.8D38517814F1"
 
 # Lietuvos Respublikos atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2021-11-01 iki 2021-11-12
+Suvestinė redakcija nuo 2021-11-13 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1998, Nr. 61-1726, i. k. 0981010ISTAVIII-787
  
@@ -35,7 +35,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis Įstatymas nustato bendruosius atliekų prevencijos ir tvarkymo reikalavimus, kad būtų išvengta atliekų neigiamo poveikio visuomenės sveikatai ir aplinkai; sąlygas, kai medžiaga ar daiktas gali būti nelaikomi atliekomis; atliekų tvarkymo valstybinį reglamentavimą; pagrindinius atliekų tvarkymo sistemų organizavimo ir planavimo principus; reikalavimus atliekų turėtojams ir atliekų tvarkytojams; atliekų tvarkymo ekonomines ir finansines priemones; alyvų, elektros ir elektroninės įrangos, transporto priemonių, apmokestinamųjų gaminių ir pakuočių gamintojų, importuotojų, platintojų teises ir pareigas.
+1. Šis Įstatymas nustato bendruosius atliekų prevencijos ir tvarkymo reikalavimus, kad būtų išvengta atliekų neigiamo poveikio visuomenės sveikatai ir aplinkai; sąlygas, kai medžiaga ar daiktas gali būti nelaikomi atliekomis; atliekų tvarkymo valstybinį reglamentavimą; pagrindinius atliekų tvarkymo sistemų organizavimo ir planavimo principus; reikalavimus atliekų turėtojams ir atliekų tvarkytojams; atliekų tvarkymo ekonomines ir finansines priemones; alyvų, elektros ir elektroninės įrangos, transporto priemonių, apmokestinamųjų gaminių, iš aerobiškai skaidaus plastiko pagamintų gaminių, vienkartinių plastikinių gaminių, žvejybos įrankių, kurių sudėtyje yra plastiko, ir pakuočių gamintojų, importuotojų, platintojų teises ir pareigas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
 
 
 
@@ -139,7 +142,18 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 2 straipsnis. Pagrindinės šio Įstatymo sąvokos
 
 
-1. Alyva – mineralinė, pusiau sintetinė ar sintetinė tepimo arba pramoninė alyva, pavyzdžiui, vidaus degimo variklių ir pavarų dėžių alyva, tepimo alyva, turbinų, hidraulinė alyva.
+1. Aerobiškai skaidus plastikas – plastikas, turintis savo sudėtyje priedų, kuriems oksiduojantis jis skaidosi į mikrodaleles arba vyksta jo cheminis skilimas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
+11. Alyva – mineralinė, pusiau sintetinė ar sintetinė tepimo arba pramoninė alyva, pavyzdžiui, vidaus degimo variklių ir pavarų dėžių alyva, tepimo alyva, turbinų, hidraulinė alyva.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
 
 
 
@@ -297,12 +311,28 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
+242. Biologiškai skaidus plastikas – plastikas, galintis fiziškai ir biologiškai suirti ir galiausiai suskilti į anglies dioksidą (CO2), biomasę ir vandenį ir atitinkantis Europos standartus, taikomus pakuotėms, kurių atliekas galima panaudoti jas kompostuojant ar anaerobiškai skaidant. 
+Papildyta straipsnio dalimi:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
 25. Biologiškai skaidžios atliekos – bet kokios atliekos, kurios gali skaidytis ar būti suskaidytos aerobiniu ar anaerobiniu būdu.
 
 
 
 
 26. Buitinės elektros ir elektroninės įrangos atliekos – buityje susidarančios, taip pat komerciniuose ir pramonės ūkio objektuose, institucijose ir kituose šaltiniuose susidarančios elektros ir elektroninės įrangos atliekos, savo pobūdžiu ar sudėtimi ir kiekiu panašios į buityje susidarančias elektros ir elektroninės įrangos atliekas. Elektros ir elektroninės įrangos, kuri gali būti naudojama tiek buityje, tiek ne buityje, atliekos laikomos buitinėmis elektros ir elektroninės įrangos atliekomis.
+
+
+
+
+261. Darnusis standartas – darnusis standartas, kaip apibrėžta 2012 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1025/2012 dėl Europos standartizacijos, kuriuo iš dalies keičiamos Tarybos direktyvos 89/686/EEB ir 93/15/EEB ir Europos Parlamento ir Tarybos direktyvos 94/9/EB, 94/25/EB, 95/16/EB, 97/23/EB, 98/34/EB, 2004/22/EB, 2007/23/EB, 2009/23/EB ir 2009/105/EB ir panaikinamas Tarybos sprendimas 87/95/EEB ir Europos Parlamento ir Tarybos sprendimas Nr. 1673/2006/EB, 2 straipsnio 1 punkto c papunktyje. 
+Papildyta straipsnio dalimi:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
 
 
 
@@ -317,7 +347,10 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
-29. Gaminių atliekos – atliekos, kurios susidaro pasibaigus alyvų, elektros ir elektroninės įrangos bei Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka apmokestinamųjų gaminių naudojimo laikui, ir eksploatuoti netinkamos transporto priemonės.
+29. Gaminių atliekos – atliekos, kurios susidaro pasibaigus alyvų, elektros ir elektroninės įrangos bei Mokesčio už aplinkos teršimą įstatymo nustatyta tvarka apmokestinamųjų gaminių, vienkartinių plastikinių gaminių (drėgnųjų servetėlių, oro balionėlių, tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais), žvejybos įrankių, kurių sudėtyje yra plastiko, naudojimo laikui, ir eksploatuoti netinkamos transporto priemonės.
+Straipsnio dalies pakeitimai:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
 
 
 
@@ -370,16 +403,29 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
-4) gamina transporto priemones ar verslo tikslais importuoja į valstybę narę.
+4) gamina transporto priemones ar verslo tikslais jas importuoja į valstybę narę, arba;
+Straipsnio punkto pakeitimai:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
+5) yra įsisteigęs Lietuvos Respublikoje ir, nepaisant naudojamo pardavimo būdo, be kita ko, pagal nuotolines sutartis, kaip apibrėžta Lietuvos Respublikos civilinio kodekso 6.2288 straipsnio 1 dalyje, vykdydamas profesinę veiklą gamina, užpildo, parduoda ir (ar) pateikia Lietuvos Respublikos rinkai vienkartinius plastikinius gaminius, užpildytus vienkartinius plastikinius gaminius ar žvejybos įrankius, kurių sudėtyje yra plastiko, išskyrus asmenis, vykdančius žvejybos veiklą, kaip ji apibrėžta 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1380/2013 dėl bendros žuvininkystės politikos, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1954/2003 ir (EB) Nr. 1224/2009 bei panaikinami Tarybos reglamentai (EB) Nr. 2371/2002 ir (EB) Nr. 639/2004 bei Tarybos sprendimas 2004/585/EB, 4 straipsnio 1 dalies 28 punkte. 
+Papildyta straipsnio punktu:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
 
 
 
 
 
 
-361. Gamintojo ir importuotojo atsakomybės principas (toliau – gamintojo atsakomybės principas) – gamintojams ir importuotojams taikomas principas, pagal kurį gamintojai ir importuotojai atsakingi už jų vidaus rinkai tiekiamų gaminių ir pakuočių poveikį aplinkai per visą jų gyvavimo ciklą nuo gamybos iki saugaus atliekų sutvarkymo. 
+361. Gamintojo ir importuotojo atsakomybės principas (toliau – gamintojo atsakomybės principas) – gamintojams ir importuotojams taikomas principas, pagal kurį gamintojai ir importuotojai atsakingi už jų vidaus rinkai tiekiamų gaminių ir pakuočių, rinkai pateikiamų drėgnųjų servetėlių, oro balionėlių, tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais, ir žvejybos įrankių, kurių sudėtyje yra plastiko, poveikį aplinkai per visą jų gyvavimo ciklą nuo gamybos iki saugaus atliekų sutvarkymo.
 Papildyta straipsnio dalimi:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+Straipsnio dalies pakeitimai:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
  
 
 
@@ -428,7 +474,26 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
-6) iš lizingo (finansinės nuomos) paslaugas teikiančios finansų įstaigos lizingo (finansinės nuomos) būdu įsigyja į Lietuvos Respublikos teritoriją importuotus ir (ar) įvežtus 1–5 punktuose išvardytus gaminius ir (ar) gaminių pripildytas pakuotes. Šiuo atveju lizingo (finansinės nuomos) paslaugas teikianti finansų įstaiga nelaikoma importuotoju. Jeigu lizingo (finansinės nuomos) sutartis nutraukiama, šiuo Įstatymu gaminių importuotojui nustatytas pareigas, atsiradusias po sutarties nutraukimo ir turto susigrąžinimo iš buvusio lizingo (finansinės nuomos) gavėjo, perima lizingo (finansinės nuomos) paslaugas teikianti finansų įstaiga.
+6) yra įsisteigęs Lietuvos Respublikoje ir, nepaisant naudojamo pardavimo būdo, be kita ko, pagal nuotolines sutartis, kaip apibrėžta Civilinio kodekso 6.2288 straipsnio 1 dalyje, vykdydamas profesinę veiklą iš kitos valstybės narės ar trečiosios šalies įveža ir pateikia Lietuvos Respublikos rinkai vienkartinius plastikinius gaminius, užpildytus vienkartinius plastikinius gaminius ar žvejybos įrankius, kurių sudėtyje yra plastiko, išskyrus asmenis, vykdančius žvejybos veiklą, kaip apibrėžta Reglamento (ES) Nr. 1380/2013 4 straipsnio 1 dalies 28 punkte, arba 
+Papildyta straipsnio punktu:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
+7) yra įsisteigęs valstybėje narėje ar trečiojoje šalyje ir nuotolinio ryšio priemonėmis, be kita ko, pagal nuotolines sutartis, kaip apibrėžta Civilinio kodekso 6.2288 straipsnio 1 dalyje, vykdydamas profesinę veiklą vartotojams, įskaitant tuos, kurie nėra privatūs namų ūkiai, kitoje valstybėje narėje tiesiogiai parduoda vienkartinius plastikinius gaminius, užpildytus vienkartinius plastikinius gaminius ar žvejybos įrankius, kurių sudėtyje yra plastiko, išskyrus asmenis, vykdančius žvejybos veiklą, kaip apibrėžta Reglamento (ES) Nr. 1380/2013 4 straipsnio 1 dalies 28 punkte, arba 
+Papildyta straipsnio punktu:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
+8) iš lizingo (finansinės nuomos) paslaugas teikiančios finansų įstaigos lizingo (finansinės nuomos) būdu įsigyja į Lietuvos Respublikos teritoriją importuotus ir (ar) įvežtus šios dalies 1–7 punktuose išvardytus gaminius ir (ar) gaminių pripildytas pakuotes. Šiuo atveju lizingo (finansinės nuomos) paslaugas teikianti finansų įstaiga nelaikoma importuotoju. Jeigu lizingo (finansinės nuomos) sutartis nutraukiama, šiuo Įstatymu importuotojui nustatytas pareigas, atsiradusias po sutarties nutraukimo ir turto susigrąžinimo iš buvusio lizingo (finansinės nuomos) gavėjo, perima lizingo (finansinės nuomos) paslaugas teikianti finansų įstaiga.
+Straipsnio punkto pakeitimai:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
 
 
 
@@ -545,10 +610,26 @@ Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 
 
 
+531. Pateikimas rinkai – vienkartinio plastikinio gaminio, žvejybos įrankio, kurio sudėtyje yra plastiko, ir (ar) iš aerobiškai skaidaus plastiko pagaminto gaminio kiekvienas pirmasis tiekimas valstybės narės rinkai. 
+Papildyta straipsnio dalimi:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
 54. Pavojingosios atliekos – atliekos, kurios pasižymi viena ar keliomis pavojingomis savybėmis, nurodytomis 2014 m. gruodžio 18 d. Komisijos reglamento (ES) Nr. 1357/2014, kuriuo pakeičiamas Europos Parlamento ir Tarybos direktyvos 2008/98/EB dėl atliekų ir panaikinančios kai kurias direktyvas III priedas, priede ir 2017 m. birželio 8 d. Tarybos reglamento (ES) 2017/997, kuriuo iš dalies keičiamos Europos Parlamento ir Tarybos direktyvos 2008/98/EB III priedo nuostatos dėl pavojingos savybės HP 14 „ekotoksiškumas“, priede. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
+
+
+
+
+541. Plastikas – medžiaga, kurią sudaro polimeras, kaip jis apibrėžtas 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, 3 straipsnio 5 punkte, ir į kurią gali būti pridėta priedų ar kitų medžiagų bei kuri gali būti galutinių produktų pagrindinė struktūrinė sudedamoji dalis, išskyrus chemiškai nemodifikuotus gamtinius polimerus. 
+Papildyta straipsnio dalimi:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
  
 
 
@@ -627,12 +708,36 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
+621. Šiukšlės – atliekos, išmestos viešose vietose (viešuose paplūdimiuose, vandens telkiniuose ir jų pakrantėse, miškuose, parkuose, skveruose, aikštelėse, stotelėse, pakelėse ir pan.) ne į viešas jų surinkimo sistemas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
+622. Šiukšlių išrinkimas – šiukšlių pakėlimas, išgriebimas ar kitoks paėmimas iš viešų vietų (viešų paplūdimių, vandens telkinių ir jų pakrančių, miškų, parkų, skverų, aikštelių, stotelių, pakelių ir pan.). 
+Papildyta straipsnio dalimi:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
 63. Tarpininkas – atliekų naudojimą ar šalinimą kito vardu organizuojanti įmonė, įskaitant įmones, kurios atliekų neįsigyja fiziškai.
 
 
 
 
 64. Tiekimas Lietuvos Respublikos vidaus rinkai verslo tikslais – į Lietuvos Respublikos teritoriją įvežtų, Lietuvos Respublikos teritorijoje pagamintų baterijų ar akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių perleidimas už atlygį ar nemokamai kitam asmeniui Lietuvos Respublikos teritorijoje arba sunaudojimui savoms reikmėms skirtų daugiau kaip 5 baterijų ar akumuliatorių, elektros ir elektroninės įrangos, transporto priemonių vienetų įvežimas į Lietuvos Respublikos teritoriją, pagaminimas Lietuvos Respublikos teritorijoje per kalendorinius metus.
+
+
+
+
+641. Tiekimas rinkai – vienkartinio plastikinio gaminio, žvejybos įrankio, kurio sudėtyje yra plastiko, ir (ar) iš aerobiškai skaidaus plastiko pagaminto gaminio, skirto platinti, vartoti ar naudoti valstybės narės rinkoje, tiekimas vykdant komercinę veiklą už atlygį arba be jo. 
+Papildyta straipsnio dalimi:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
 
 
 
@@ -653,6 +758,30 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 66. Transporto priemonės ardymas – atskirų transporto priemonės dalių, mazgų, mechanizmų, agregatų, sistemų išmontavimas, transporto priemonės sukarpymas, smulkinimas ar kitoks apdorojimas siekiant juos pakartotinai naudoti, perdirbti ar šalinti. 
 Papildyta straipsnio dalimi:
 Nr. XIV-286, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09688
+ 
+
+
+
+
+661. Vienkartinis plastikinis gaminys – vien arba iš dalies iš plastiko pagamintas gaminys, kuris nėra sukurtas, suprojektuotas ar pateiktas rinkai taip, kad per jo gyvavimo trukmę jį būtų galima naudoti daugelį kartų ar ciklų, grąžinant jį gamintojui pakartotinai užpildyti arba pakartotinai panaudojant tam pačiam tikslui, kuriam jis buvo sukurtas. 
+Papildyta straipsnio dalimi:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
+662. Žvejybos įrankis – žvejyboje arba akvakultūroje naudojamas daiktas ar įrenginys, skirtas jūrų biologiniams ištekliams žvejoti, sugauti ar auginti, arba jūros paviršiuje plūduriuojantis įrenginys, skirtas tokiems jūrų biologiniams ištekliams privilioti, sugauti ar auginti. 
+Papildyta straipsnio dalimi:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
+663. Žvejybos įrankių atliekos – žvejybos įrankiai, kurių turėtojas atsikrato, ketina ar privalo atsikratyti, įskaitant bet kurias atskiras jų dalis ar medžiagas, kurios buvo tokių žvejybos įrankių dalys ar kurios buvo prie jų pritvirtintos, kai jie buvo išmesti, įskaitant, kai jie buvo apleisti ar pamesti. 
+Papildyta straipsnio dalimi:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
  
 
 
@@ -695,6 +824,24 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 71. Sąvoka „strateginės prekės“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos strateginių prekių kontrolės įstatyme. 
 Papildyta straipsnio dalimi:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
+
+
+
+
+72. Sąvoka „tabako gaminys“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatyme. 
+TAR pastaba. 2 straipsnio 72 dalis galioja iki 2022-12-31.
+Papildyta straipsnio dalimi:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
+73. Sąvoka „uosto priėmimo įrenginys“ suprantama taip, kaip ji apibrėžta Lietuvos Respublikos jūros aplinkos apsaugos įstatyme. 
+TAR pastaba. 2 straipsnio 73 dalis galioja iki 2022-12-31.
+Papildyta straipsnio dalimi:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
  
 
 
@@ -936,7 +1083,7 @@ PAREIGA TEIKTI INFORMACIJĄ APIE GAMINIUOSE ESANČIAS CHEMINES MEDŽIAGAS
 33 straipsnis. Informacijos apie gaminiuose esančias chemines medžiagas teikimo tvarka
 
 
-1. Kiekvienas gaminio tiekėjas, kaip apibrėžta 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, su visais pakeitimais, 3 straipsnio 33 punkte, naudodamasis Europos cheminių medžiagų agentūros suteiktomis duomenų teikimo priemonėmis ir formatu, turi teikti informaciją Europos cheminių medžiagų agentūrai pagal Reglamento (EB) Nr. 1907/2006 33 straipsnio 1 dalį. Informacija teikiama:
+1. Kiekvienas gaminio tiekėjas, kaip apibrėžta Reglamento (EB) Nr. 1907/2006 3 straipsnio 33 punkte, naudodamasis Europos cheminių medžiagų agentūros suteiktomis duomenų teikimo priemonėmis ir formatu, turi teikti informaciją Europos cheminių medžiagų agentūrai pagal Reglamento (EB) Nr. 1907/2006 33 straipsnio 1 dalį. Informacija teikiama:
 
 
 1) pirmą kartą gaminį tiekiant rinkai;
@@ -952,6 +1099,9 @@ PAREIGA TEIKTI INFORMACIJĄ APIE GAMINIUOSE ESANČIAS CHEMINES MEDŽIAGAS
 3) pasikeitus gaminio cheminei sudėčiai, kai ji lemia saugaus gaminio naudojimo ir (ar) atliekų tvarkymo reikalavimų ir (ar) priemonių pasikeitimus.
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
 
 
 
@@ -963,6 +1113,134 @@ PAREIGA TEIKTI INFORMACIJĄ APIE GAMINIUOSE ESANČIAS CHEMINES MEDŽIAGAS
 
 Papildyta skirsniu:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
+ 
+
+
+
+
+ANTRASIS3 SKIRSNIS
+DRAUDIMAS PATEIKTI RINKAI TAM TIKRUS PLASTIKINIUS GAMINIUS
+ 
+
+
+34 straipsnis. Draudimas pateikti rinkai tam tikrus plastikinius gaminius
+
+
+1. Draudžiama pateikti rinkai visus iš aerobiškai skaidaus plastiko pagamintus gaminius.
+
+
+
+
+2. Draudžiama pateikti rinkai šiuos vienkartinius plastikinius gaminius:
+
+
+1) ausų krapštukus, išskyrus atvejus, jeigu jiems taikomas Lietuvos Respublikos sveikatos sistemos įstatymas;
+
+
+
+
+2) stalo įrankius (šakutes, peilius, šaukštus, lazdeles);
+
+
+
+
+3) lėkštes;
+
+
+
+
+4) šiaudelius, išskyrus atvejus, jeigu jiems taikomas Sveikatos sistemos įstatymas;
+
+
+
+
+5) gėrimų maišiklius;
+
+
+
+
+6) prie oro balionėlių (išskyrus pramoniniam ir kitam profesiniam naudojimui ar paskirčiai skirtus balionus, kurie neplatinami vartotojams) tvirtinamas ir jiems laikyti skirtas lazdeles, jų detales;
+
+
+
+
+7) iš polistireninio putplasčio, gaunamo išputintus polistireno rutuliukus sulydant karštais vandens garais veikiant slėgiui, pagamintus gėrimų indelius, jų kamštelius ir dangtelius;
+
+
+
+
+8) iš polistireninio putplasčio, gaunamo išputintus polistireno rutuliukus sulydant karštais vandens garais veikiant slėgiui, pagamintą gėrimų tarą, jos kamštelius ir dangtelius;
+
+
+
+
+9) iš polistireninio putplasčio, gaunamo išputintus polistireno rutuliukus sulydant karštais vandens garais veikiant slėgiui, pagamintą maisto tarą, t. y. talpyklas, pavyzdžiui, dėžutes su dangteliais arba be jų, kuriose laikomas maistas, skirtas nedelsiant suvartoti vietoje arba išsinešti, paprastai suvartojamas iš talpyklos ir paruoštas suvartoti be papildomo paruošimo, pavyzdžiui, be kepimo, virimo ar pašildymo, įskaitant maisto tarą, naudojamą greitam maistui arba kitam nedelsiant suvartoti skirtam maistui;
+
+
+
+
+10) pagal Komisijos įgyvendinimo reglamento (ES) 2020/2151 reikalavimus nepaženklintus higieninius paketus (įklotus), tamponus ir tamponų aplikatorius;
+
+
+
+
+11) pagal Komisijos įgyvendinimo reglamento (ES) 2020/2151 reikalavimus nepaženklintas drėgnąsias servetėles, t. y. sudrėkintas asmens higienai skirtas servetėles ir buitines šluostes;
+
+
+
+
+12) pagal Komisijos įgyvendinimo reglamento (ES) 2020/2151 reikalavimus nepaženklintus tabako gaminius su filtrais ir filtrus, parduodamus naudoti kartu su tabako gaminiais;
+
+
+
+
+13) pagal Komisijos įgyvendinimo reglamento (ES) 2020/2151 reikalavimus nepaženklintus gėrimų indelius;
+
+
+
+
+14) trijų litrų ir mažesnės talpos gėrimų tarą su iš plastiko pagamintais kamšteliais ir dangteliais, jeigu jie nelieka pritvirtinti prie taros per visą numatytą gaminių naudojimo trukmę.
+TAR pastaba. 3-4 straipsnio 2 dalies 14 punktas įsigalioja 2024-07-03.
+
+
+
+
+
+
+3. Šio straipsnio 2 dalies 9 punkte nurodytas draudimas netaikomas iš lanksčios medžiagos pagamintiems pakeliams ir vyniojamojo popieriaus pakuotėms, kuriuose pateikiamas maistas, skirtas suvartoti iš pakelio ar pakuotės be papildomo paruošimo.
+
+
+
+
+4. Šio straipsnio 2 dalies 14 punkte nurodytas draudimas netaikomas:
+
+
+1) stiklinei ir metalinei gėrimų tarai su plastikiniais kamšteliais ir dangteliais;
+
+
+
+
+2) gėrimų tarai su metaliniais kamšteliais ir dangteliais su plastikiniu sandarinimo sluoksniu;
+
+
+
+
+3) gėrimų tarai, skirtai ir naudojamai specialiosios medicininės paskirties skystiems maisto produktams, kaip apibrėžta 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 609/2013 dėl kūdikiams ir mažiems vaikams skirtų maisto produktų, specialiosios medicininės paskirties maisto produktų ir viso paros raciono pakaitalų svoriui kontroliuoti ir kuriuo panaikinami Tarybos direktyva 92/52/EEB, Komisijos direktyvos 96/8/EB, 1999/21/EB, 2006/125/EB ir 2006/141/EB, Europos Parlamento ir Tarybos direktyva 2009/39/EB ir Komisijos reglamentai (EB) Nr. 41/2009 ir (EB) Nr. 953/2009, 2 straipsnio 2 dalies g punkte.
+TAR pastaba. 3-4 straipsnio 4 dalis įsigalioja 2024-07-03.
+
+
+
+
+
+
+5. Jeigu šio straipsnio 2 dalies 14 punkte nurodyti gaminiai atitinka darniuosius standartus, susijusius su kamštelių ir dangtelių pritvirtinimo prie taros per visą numatytą gaminių naudojimo trukmę reikalavimu, arba tam tikras jų dalis, kurių nuorodos buvo paskelbtos Europos Sąjungos oficialiajame leidinyje, laikoma, kad jie atitinka reikalavimą dėl jų kamštelių ir dangtelių pritvirtinimo prie taros per visą numatytą gaminių naudojimo trukmę. 
+TAR pastaba. 3-4 straipsnio 5 dalis įsigalioja 2024-07-03.
+
+
+
+
+Papildyta skirsniu:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
  
 
 
@@ -1839,11 +2117,13 @@ Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
 25 straipsnis. Savivaldybių funkcijos
 
 
-Savivaldybės organizuoja komunalinių atliekų tvarkymo sistemas, būtinas jų teritorijose susidarančioms komunalinėms atliekoms tvarkyti, užtikrina tų sistemų funkcionavimą, organizuoja atliekų, kurių turėtojo nustatyti neįmanoma arba kuris neegzistuoja, tvarkymą ir administruoja komunalinių atliekų tvarkymo paslaugos teikimą.
+Savivaldybės organizuoja komunalinių atliekų tvarkymo sistemas, būtinas jų teritorijose susidarančioms komunalinėms atliekoms tvarkyti, užtikrina tų sistemų funkcionavimą, organizuoja šiukšlių ir atliekų, kurių turėtojo nustatyti neįmanoma arba kuris neegzistuoja, tvarkymą ir administruoja komunalinių atliekų tvarkymo paslaugos teikimą.
 
 
 Straipsnio pakeitimai:
 Nr. XI-1981, 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
+Straipsnio pakeitimai:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
  
 
 
@@ -2051,7 +2331,10 @@ VALSTYBINIS ATLIEKŲ PREVENCIJOS IR TVARKYMO PLANAS, REGIONINIAI IR SAVIVALDYBI�
 
 
 
-7. Už patvirtintų savivaldybių atliekų prevencijos ir tvarkymo planų priemonių įgyvendinimą, savivaldybės teritorijoje esančių komunalinių atliekų ir atliekų, kurių turėtojo nustatyti neįmanoma arba kuris neegzistuoja, sutvarkymo organizavimą atsakinga savivaldybės vykdomoji institucija.
+7. Už patvirtintų savivaldybių atliekų prevencijos ir tvarkymo planų priemonių įgyvendinimą, už savivaldybės teritorijoje esančių komunalinių atliekų, šiukšlių ir atliekų, kurių turėtojo nustatyti neįmanoma arba kuris neegzistuoja, sutvarkymo organizavimą atsakinga savivaldybės vykdomoji institucija.
+Straipsnio dalies pakeitimai:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
 
 
 
@@ -4172,7 +4455,30 @@ Nustatomos šios gaminių ir pakuočių atliekų tvarkymo organizavimo licencij�
 
 
 
-10) pakuočių atliekų tvarkymo organizavimo licencija.
+10) pakuočių atliekų tvarkymo organizavimo licencija;
+
+
+
+
+11) žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymo finansavimo organizavimo licencija; 
+Papildyta straipsnio punktu:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
+12) tabako gaminių su filtrais ir filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų ir šiukšlių išrinkimo ir tvarkymo finansavimo organizavimo licencija; 
+Papildyta straipsnio punktu:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
+
+
+
+
+13) drėgnųjų servetėlių ir oro balionėlių šiukšlių išrinkimo ir tvarkymo finansavimo organizavimo licencija.
+Papildyta straipsnio punktu:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
  
 
 
@@ -4891,7 +5197,10 @@ ATSAKOMYBĖ
 
 
 
-2. Nuostoliai, atsiradę dėl komunalinių atliekų ir atliekų, kurių turėtojo nustatyti neįmanoma arba kuris neegzistuoja, sutvarkymo neorganizavimo ar netinkamo organizavimo, atlyginami iš atitinkamos savivaldybės biudžeto.
+2. Nuostoliai, atsiradę dėl komunalinių atliekų, šiukšlių ir atliekų, kurių turėtojo nustatyti neįmanoma arba kuris neegzistuoja, sutvarkymo neorganizavimo ar netinkamo organizavimo, atlyginami iš atitinkamos savivaldybės biudžeto.
+Straipsnio dalies pakeitimai:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
 
 
 Straipsnio pakeitimai:
@@ -5102,6 +5411,14 @@ atliekų tvarkymo įstatymo
 
 
 12. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo. 
+
+
+
+
+13. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės.
+Papildyta punktu:
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+ 
 
 
 Priedo pakeitimai:
@@ -5337,3 +5654,8 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 1, 2, 3, 3-1, 3-2,
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-286, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09688
 Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2 ir 34-4 straipsnių pakeitimo įstatymas
+ 
+22.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 1, 2, 3-3, 25, 28, 30, 32-1, 34-24, 34-25, 34-26, 35 straipsnių ir 5 priedo pakeitimo ir Įstatymo papildymo antruoju-3 ir aštuntuoju-11 skirsniais įstatymas
