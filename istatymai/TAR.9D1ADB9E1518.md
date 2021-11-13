@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.9D1ADB9E1518"
 
 # Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-11-12
+Suvestinė redakcija nuo 2021-11-13 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2001, Nr. 85-2968, i. k. 1011010ISTA00IX-517
  
@@ -314,6 +314,14 @@ Nr. XII-2432, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17707
 
 
 
+261. Užpildyto vienkartinio plastikinio gaminio pateikimas rinkai – užpildyto vienkartinio plastikinio gaminio, nurodyto šio įstatymo 11 priede, kiekvienas pirmasis tiekimas valstybės narės rinkai.
+Papildyta straipsnio dalimi:
+Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
+ 
+
+
+
+
 27. Užstatas – pinigų suma, pateikta už gaminio pakuotę siekiant užtikrinti, kad pakuotės ar jų atliekos bus grąžintos gamintojui ir (ar) importuotojui ir naudojamos pakartotinai ar tvarkomos vadovaujantis šio įstatymo 3 straipsnyje nustatytais pakuočių atliekų tvarkymo prioritetais.
 
 
@@ -500,7 +508,18 @@ Nr. XIV-287, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09689
 
 
 
-4. Ant gaminio pakuotės turi būti nurodytas gaminio importuotojas ir (ar) gamintojas.
+4. Pateikiamų Lietuvos Respublikos rinkai vienkartinių plastikinių gaminių (higieninių paketų (įklotų), tamponų, tamponų aplikatorių, drėgnųjų servetėlių, tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) pakuotės ir vienkartiniams plastikiniams gaminiams priskiriami gėrimų indeliai turi būti paženklinti pagal Komisijos įgyvendinimo reglamento (ES) 2020/2151 reikalavimus. 
+Papildyta straipsnio dalimi:
+Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
+ 
+
+
+
+
+5. Ant gaminio pakuotės turi būti nurodytas gaminio importuotojas ir (ar) gamintojas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
+ 
 
 
 Straipsnio pakeitimai:
@@ -1551,6 +1570,45 @@ Nr. XII-545, 2013-10-08, Žin., 2013, Nr. 110-5429 (2013-10-19)
 Lietuvos Respublikos
 pakuočių ir pakuočių atliekų
 tvarkymo įstatymo
+11 priedas
+ 
+UŽPILDYTI Vienkartiniai plastikiniai gaminiai
+ 
+
+
+1. Maisto tara, t. y. talpyklos, pavyzdžiui, dėžutės su dangteliais arba be jų, kuriose laikomas maistas, skirtas nedelsiant suvartoti vietoje arba išsinešti, paprastai suvartojamas iš talpyklos ir yra paruoštas suvartoti be papildomo paruošimo, pavyzdžiui, be kepimo, virimo ar pašildymo, įskaitant maisto tarą, naudojamą greitam maistui arba kitam nedelsiant suvartoti skirtam maistui.
+
+
+
+
+2. Pakeliai ir vyniojamojo popieriaus pakuotės, pagaminti iš lanksčios medžiagos, kuriuose pateikiamas maistas, skirtas nedelsiant suvartoti iš pakelio ar pakuotės be papildomo paruošimo.
+
+
+
+
+3. Ne didesnės kaip trijų litrų talpos gėrimų tara, t. y. talpyklos, naudojamos skysčiams laikyti, pavyzdžiui, gėrimų buteliai, įskaitant jų kamštelius ir dangtelius, ir kombinuotosios gėrimų pakuotės, įskaitant jų kamštelius ir dangtelius, išskyrus stiklinę ar metalinę gėrimų tarą su plastikiniais kamšteliais ir dangteliais.
+
+
+
+
+4. Gėrimų indeliai, įskaitant jų kamštelius ir dangtelius.
+
+
+
+
+5. Lengvieji plastikiniai pirkinių maišeliai.
+
+
+Papildyta priedu:
+Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
+ 
+
+
+
+
+Lietuvos Respublikos
+pakuočių ir pakuočių atliekų
+tvarkymo įstatymo
 2 priedas
  
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
@@ -1573,6 +1631,22 @@ tvarkymo įstatymo
 
 
 4. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/720, kuria dėl lengvųjų plastikinių pirkinių maišelių sunaudojimo mažinimo iš dalies keičiama Direktyva 94/62/EB.
+
+
+
+
+5. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo. 
+Papildyta punktu:
+Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
+ 
+
+
+
+
+6. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės.
+Papildyta punktu:
+Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
+ 
 
 
 Įstatymas papildytas priedu:
@@ -1674,3 +1748,8 @@ Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
 Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 4, 4-2, 7, 10, 11-2 straipsnių ir 2 priedo pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 5, 8, 10, 11 straipsnių ir 2 priedo pakeitimo ir Įstatymo papildymo 7-2 straipsniu ir 1-1 priedu įstatymas
