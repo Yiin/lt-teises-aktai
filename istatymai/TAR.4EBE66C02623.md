@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4ebe66c0262311e5bf92d6af3f6a2e8b"
 
 # Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas
 
-Suvestinė redakcija nuo 2021-11-01 iki 2021-11-12
+Suvestinė redakcija nuo 2021-11-13 iki 2021-11-25
  
 Įstatymas paskelbtas: TAR 2015-07-10, i. k. 2015-11216
  
@@ -7659,6 +7659,105 @@ užtraukia įspėjimą arba baudą nuo dvidešimt iki aštuoniasdešimt eurų.
 
 41. Atliekų sutvarkymą patvirtinančio dokumento neteisėtas išrašymas
 užtraukia baudą nuo penkių šimtų iki trijų tūkstančių eurų.
+
+
+
+
+42. Iš aerobiškai skaidaus plastiko pagamintų gaminių pateikimas Lietuvos Respublikos rinkai 
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
+ 
+
+
+
+
+43. Vienkartinių plastikinių ausų krapštukų, išskyrus atvejus, jeigu jiems taikomas Lietuvos Respublikos sveikatos sistemos įstatymas, pateikimas Lietuvos Respublikos rinkai
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
+ 
+
+
+
+
+44. Vienkartinių plastikinių stalo įrankių pateikimas Lietuvos Respublikos rinkai
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
+ 
+
+
+
+
+45. Vienkartinių plastikinių lėkščių pateikimas Lietuvos Respublikos rinkai
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
+ 
+
+
+
+
+46. Vienkartinių plastikinių šiaudelių, išskyrus atvejus, jeigu jiems taikomas Sveikatos sistemos įstatymas, pateikimas Lietuvos Respublikos rinkai
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
+ 
+
+
+
+
+47. Vienkartinių plastikinių gėrimų maišiklių pateikimas Lietuvos Respublikos rinkai
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
+ 
+
+
+
+
+48. Vienkartinių plastikinių prie oro balionėlių, išskyrus pramoniniam ir kitam profesiniam naudojimui ar paskirčiai skirtus balionus, kurie neplatinami vartotojams, tvirtinamų ir jiems laikyti skirtų lazdelių, jų detalių pateikimas Lietuvos Respublikos rinkai
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
+ 
+
+
+
+
+49. Vienkartinių gėrimų indelių, jų kamštelių ir dangtelių, pagamintų iš polistireninio putplasčio, gaunamo išputintus polistireno rutuliukus sulydant karštais vandens garais veikiant slėgiui, pateikimas Lietuvos Respublikos rinkai
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
+ 
+
+
+
+
+50. Vienkartinės gėrimų taros, jos kamštelių ir dangtelių, pagamintų iš polistireninio putplasčio, gaunamo išputintus polistireno rutuliukus sulydant karštais vandens garais veikiant slėgiui, pateikimas Lietuvos Respublikos rinkai
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
+ 
+
+
+
+
+51. Vienkartinės maisto taros su dangteliais ar be jų, pagamintos iš polistireninio putplasčio, gaunamo išputintus polistireno rutuliukus sulydant karštais vandens garais veikiant slėgiui, pateikimas Lietuvos Respublikos rinkai
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų. 
+Papildyta straipsnio dalimi:
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
+ 
+
+
+
+
+52. Nustatytų reikalavimų neatitinkančios trijų litrų ir mažesnės talpos gėrimų taros su iš plastiko pagamintais kamšteliais ir dangteliais pateikimas Lietuvos Respublikos rinkai
+užtraukia baudą juridinių asmenų vadovams ar kitiems atsakingiems asmenims nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų. 
+TAR pastaba. 247 straipsnio papildymas 52 dalimi įsigalioja 2024-07-03.
+Papildyta straipsnio dalimi:
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
  
 
 
@@ -11003,6 +11102,21 @@ užtraukia baudą asmenims nuo penkių šimtų šešiasdešimt iki vieno tūksta
 
 
 
+3141 straipsnis. Melagingos informacijos pateikimas dėl kultūros vertybių įvežimo ir importo pažeidžiant Reglamento (ES) 2019/880 nuostatas 
+
+
+Melagingos informacijos pateikimas dėl kultūros vertybių įvežimo ir importo pažeidžiant Reglamento (ES) 2019/880 nuostatas 
+užtraukia baudą nuo trijų šimtų iki penkių šimtų keturiasdešimt eurų. 
+TAR pastaba. Straipsnio nuostatos taikomos nuo tos dienos, kurią Europos Komisija pagal 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/880 dėl kultūros vertybių įvežimo ir importo 16 straipsnį paskelbia apie elektroninės sistemos veiklos pradžią.
+
+
+Papildyta straipsniu:
+Nr. XIV-609, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23531
+ 
+
+
+
+
 315 straipsnis. Aplinkos apsaugos priemonių neįgyvendinimas
 
 
@@ -13173,8 +13287,11 @@ užtraukia baudą nuo vieno šimto keturiasdešimt iki šešių šimtų eurų.
 367 straipsnis. Savivaldybių tarybų patvirtintų atliekų tvarkymo taisyklių pažeidimas
 
 
-1. Savivaldybių tarybų patvirtintų atliekų tvarkymo taisyklių pažeidimas
-užtraukia įspėjimą arba baudą nuo trisdešimt iki vieno šimto keturiasdešimt eurų.
+1. Savivaldybių tarybų patvirtintų atliekų tvarkymo taisyklių pažeidimas 
+užtraukia baudą nuo trisdešimt iki vieno šimto keturiasdešimt eurų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-610, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23532
+ 
 
 
 
@@ -19930,10 +20047,11 @@ Nr. XIII-3442, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24621
 
 
 
-35) Kultūros paveldo departamento prie Kultūros ministerijos – dėl šio kodekso 92 straipsnio 1 dalyje, 144 straipsnio 1, 4, 5 dalyse, 177, 198, 224, 256, 314, 351, 352, 353, 354, 355, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
+35) Kultūros paveldo departamento prie Kultūros ministerijos – dėl šio kodekso 92 straipsnio 1 dalyje, 144 straipsnio 1, 4, 5 dalyse, 177, 198, 224, 256, 314, 3141, 351, 352, 353, 354, 355, 505, 507 straipsniuose numatytų administracinių nusižengimų; 
 Straipsnio punkto pakeitimai:
 Nr. XIII-569, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12069
 Nr. XIII-2167, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09939
+Nr. XIV-609, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23531
  
 
 
@@ -24971,11 +25089,27 @@ Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
 
 
 
+1041. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/880 dėl kultūros vertybių įvežimo ir importo. 
+Papildyta punktu:
+Nr. XIV-609, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23531
+ 
+
+
+
+
 105. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/881 dėl ENISA (Europos Sąjungos kibernetinio saugumo agentūros) ir informacinių ir ryšių technologijų kibernetinio saugumo sertifikavimo, kuriuo panaikinamas Reglamentas (ES) Nr. 526/2013 (Kibernetinio saugumo aktas). 
 Papildyta straipsnio dalimi:
 Nr. XIV-414, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14162
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
+ 
+
+
+
+
+1051. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo. 
+Papildyta punktu:
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
  
 
 
@@ -24998,6 +25132,14 @@ Nr. XIV-365, 2021-05-27, paskelbta TAR 2021-06-01, i. k. 2021-12497
 Punkto numeracijos pakeitimas:
 Nr. XIV-414, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14162
 Nr. XIV-415, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14572
+ 
+
+
+
+
+108. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės. 
+Papildyta punktu:
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
  
 
 
@@ -25707,3 +25849,18 @@ Lietuvos Respublikos administracinių nusižengimų kodekso 96, 98, 99, 100, 101
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-412, 2021-06-17, paskelbta TAR 2021-07-02, i. k. 2021-15166
 Lietuvos Respublikos administracinių nusižengimų kodekso 178, 589 straipsnių pakeitimo ir 179 straipsnio pripažinimo netekusiu galios įstatymas
+ 
+141.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-598, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23519
+Lietuvos Respublikos administracinių nusižengimų kodekso 247, 589, 608 straipsnių ir priedo pakeitimo ir Kodekso papildymo 248-1, 248-2, 248-3 straipsniais įstatymas
+ 
+142.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-609, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23531
+Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio ir priedo pakeitimo ir Kodekso papildymo 314-1 straipsniu įstatymas
+ 
+143.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-610, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23532
+Lietuvos Respublikos administracinių nusižengimų kodekso 367 straipsnio pakeitimo įstatymas
