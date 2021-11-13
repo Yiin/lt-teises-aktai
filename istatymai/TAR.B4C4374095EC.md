@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/b4c4374095ec11ea9515f752ff221ec9"
 
 # Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 38, 39, 40, 41, 42, 43, 44, 46, 47, 49, 51, 52, 59, 60, 61, 67 ir 68 straipsnių pakeitimo įstatymas
 
+Suvestinė redakcija nuo 2021-11-13 iki 2021-12-31
+ 
+Įstatymas paskelbtas: TAR 2020-05-14, i. k. 2020-10395
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ELEKTROS ENERGETIKOS ĮSTATYMO NR. VIII-1881 2, 7, 9, 38, 39, 40, 41, 42, 43, 44, 46, 47, 49, 51, 52, 59, 60, 61, 67 IR 68 STRAIPSNIŲ PAKEITIMO 
 ĮSTATYMAS
@@ -856,7 +863,10 @@ Pakeisti 67 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
 
-10. Skirtumas, susidaręs tarp visuomeninio tiekėjo faktinių ir prognozuotų pagrįstų sąnaudų, ir Tarybos sprendimais numatyti sąnaudų skirtumai, patirti iki 2022 m. gruodžio 31 d., įskaitant ir tokių sąnaudų skirtumo pinigų kainą, taip pat šio įstatymo 18 straipsnyje išdėstyto Lietuvos Respublikos elektros energetikos įstatymo 60 straipsnio 3 dalyje nurodytos sąnaudos Tarybos nustatyta tvarka ir sąlygomis įvertinami nustatant skirstomųjų tinklų operatoriaus paslaugų kainas – nuo 2021 m. sausio 1 d. lėšų perviršis grąžinamas buitiniams vartotojams sumažinant persiuntimo paslaugos kainą, kai visuomeninis tiekėjas perveda perrinktas lėšas skirstomųjų tinklų operatoriui, o nesurinktos lėšos surenkamos taikant persiuntimo paslaugos kainą (dedamąją), ir visuomeninio tiekimo veiklą iki 2023 m. sausio 1 d. vykdžiusiam asmeniui išmokamos dalimis kas kalendorinį mėnesį skirstomųjų tinklų operatoriaus, kurio turimoje elektros energijos skirstymo veiklos licencijoje nurodytoje teritorijoje veikė toks visuomeninis tiekėjas, tačiau ne vėliau kaip iki 2025 m. gruodžio 31 d.
+10. Neteko galios nuo 2021-11-13
+Straipsnio dalies naikinimas:
+Nr. XIV-605, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23527
+ 
 
 
 
@@ -874,3 +884,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-605, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23527
+Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 2, 7, 9, 38, 39, 40, 41, 42, 43, 44, 46, 47, 49, 51, 52, 59, 60, 61, 67 ir 68 straipsnių pakeitimo įstatymo Nr. XIII-2900 22 straipsnio pakeitimo įstatymas
