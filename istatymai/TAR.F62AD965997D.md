@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.F62AD965997D"
 
 # Lietuvos Respublikos šilumos ūkio įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-11-12
+Suvestinė redakcija nuo 2021-11-13 iki 2022-05-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 51-2254, i. k. 1031010ISTA0IX-1565
  
@@ -1887,12 +1887,18 @@ DEŠIMTASIS SKIRSNIS
 
 
 
-3. Į šilumos ir (ar) karšto vandens kainą įtraukiant pagrįstas sąnaudas už kurą, privalo būti įvertinama, ar energetikos įmonė laikėsi Energijos išteklių rinkos įstatyme numatytų įpareigojimų. Kai kuro, naudojamo šilumos ir (ar) karšto vandens gamybai, įsigijimas buvo vykdomas ne per energijos išteklių biržą ir (ar) gamtinių dujų biržą, pagrįstomis sąnaudomis pripažįstamos ir į šilumos ir (ar) karšto vandens kainos kintamąją dedamąją gali būti įtraukiamos įmonės biokuro ir gamtinių dujų įsigijimo sąnaudos, neviršijančios vidutinės biokuro kainos arba vidutinės biokuro biržos kainos, arba vidutinės gamtinių dujų biržos kainos. Vidutinę biokuro kainą, vidutinę biokuro biržos kainą ir vidutinę gamtinių dujų biržos kainą, vadovaudamasi savo nustatyta tvarka, nustato Taryba.
+3. Į šilumos ir (ar) karšto vandens kainą įtraukiant pagrįstas sąnaudas už kurą, privalo būti įvertinama, ar energetikos įmonė laikėsi Energijos išteklių rinkos įstatyme numatytų įpareigojimų.
+Straipsnio dalies pakeitimai:
+Nr. XIV-607, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23529
+ 
 
 
 
 
-4. Šio straipsnio 3 dalyje nurodytas kuro, naudojamo šilumos ir (ar) karšto vandens gamybai, sąnaudų įtraukimo į šilumos ir (ar) karšto vandens kainą ribojimas pagal vidutinę biokuro biržos kainą ir (ar) gamtinių dujų biržos kainą nėra taikomas tais atvejais, kai energijos išteklių biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo atitinkamos biokuro rūšies kiekio ar jo dalies ir (ar) gamtinių dujų biržoje nebuvo galima įsigyti reikalingo gamtinių dujų kiekio.
+4. Šio straipsnio 20 dalyje nurodytas kuro, naudojamo šilumos ir (ar) karšto vandens gamybai, sąnaudų įtraukimo į šilumos ir (ar) karšto vandens kainą ribojimas pagal vidutinę biokuro biržos kainą ir (ar) gamtinių dujų biržos kainą nėra taikomas tais atvejais, kai energijos išteklių biržoje dėl objektyvių priežasčių nebuvo galima įsigyti reikalingo atitinkamos biokuro rūšies kiekio ar jo dalies ir (ar) gamtinių dujų biržoje nebuvo galima įsigyti reikalingo gamtinių dujų kiekio.
+Straipsnio dalies pakeitimai:
+Nr. XIV-607, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23529
+ 
 
 
 
@@ -2002,7 +2008,12 @@ DEŠIMTASIS SKIRSNIS
 
 
 
-20. Šilumos ar karšto vandens kainų dedamųjų galiojimo laikotarpiu patirtos, bet nepadengtos sąnaudos arba gautos papildomos pajamos, susidariusios dėl kuro, pirktos šilumos, geriamojo vandens faktinių kainų ir nustatant šilumos ar karšto vandens kainas įskaičiuotų kainų skirtumo, įvertinamos skaičiuojant būsimojo laikotarpio šilumos ar karšto vandens kainų dedamąsias. 
+20. Šilumos ar karšto vandens kainų dedamųjų galiojimo laikotarpiu patirtos, bet nepadengtos sąnaudos arba gautos papildomos pajamos, susidariusios dėl kuro, pirktos šilumos, geriamojo vandens faktinių kainų ir nustatant šilumos ar karšto vandens kainas įskaičiuotų kainų skirtumo, įvertinamos skaičiuojant būsimojo laikotarpio šilumos ar karšto vandens kainų dedamąsias. Kai kuras, naudojamas šilumos ir (ar) karšto vandens gamybai, įsigyjamas ne per energijos išteklių biržą ir (ar) gamtinių dujų biržą, pagrįstomis sąnaudomis pripažįstamos metinės įmonės biokuro ir gamtinių dujų įsigijimo ne per energijos išteklių biržą ir (ar) gamtinių dujų biržą sąnaudos, neviršijančios vidutinės metinės biokuro kainos arba vidutinės metinės biokuro biržos kainos, arba vidutinės metinės gamtinių dujų biržos kainos. Vidutinę metinę biokuro kainą, vidutinę metinę biokuro biržos kainą ir vidutinę metinę gamtinių dujų biržos kainą, vadovaudamasi savo nustatyta tvarka, nustato Taryba.
+Straipsnio dalies pakeitimai:
+Nr. XIV-607, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23529
+ 
+
+
 Straipsnio pakeitimai:
 Nr. XI-250, 2009-05-12, Žin., 2009, Nr. 61-2402 (2009-05-26)
 Nr. XI-1608, 2011-09-29, Žin., 2011, Nr. 123-5816 (2011-10-13)
@@ -2010,8 +2021,6 @@ Nr. XI-2143, 2012-06-28, Žin., 2012, Nr. 79-4088 (2012-07-05)
 Nr. XI-2339, 2012-11-06, Žin., 2012, Nr. 132-6667 (2012-11-15)
 Nr. XII-726, 2013-12-23, Žin., 2013, Nr. 140-7085 (2013-12-30)
 Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
-
-
 Straipsnio pakeitimai:
 Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
  
@@ -2347,3 +2356,8 @@ Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 8, 11 ir 15 straipsni�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
 Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 3, 6, 7, 8, 8-1, 10 ir 33 straipsnių pakeitimo įstatymas
+ 
+15.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-607, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23529
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 32 straipsnio pakeitimo įstatymas
