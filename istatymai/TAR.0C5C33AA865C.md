@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.0C5C33AA865C"
 
 # Lietuvos Respublikos gamtinių dujų įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-11-21
+Suvestinė redakcija nuo 2021-11-22 iki 2022-02-28
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 89-2743, i. k. 1001010ISTAIII-1973
  
@@ -999,7 +999,6 @@ Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
 
 
 4) užtikrina, kad perdavimo ir skirstymo sistemos operatoriams būtų suteiktos tinkamos paskatos trumpalaikiu ir ilgalaikiu laikotarpiu didinti energijos vartojimo efektyvumą, skatinti rinkos integraciją ir tiekimo saugumą bei remti susijusius mokslinius tyrimus. Siekdama didinti gamtinių dujų vartojimo efektyvumą, nustatydama viršutines perdavimo ir skirstymo paslaugų kainas ir vertindama paslaugų teikėjų pateiktas kainas ir tarifus, Taryba įvertina perdavimo sistemos ir skirstomųjų tinklų operatorių veiklos sąnaudų sumažėjimą dėl efektyvumo priemonių diegimo, įskaitant sutaupymą dėl gamtinių dujų perdavimo ar skirstymo paslaugų teikimo ar investicijų į tinklus sąnaudų sumažėjimo bei optimalaus tinklo eksploatavimo. 
-TAR pastaba. 4 dalies papildymas 4 punktu įsigalioja 2020-10-01.
 Papildyta straipsnio punktu:
 Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
  
@@ -1064,12 +1063,23 @@ Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
 
 
 
-16. Gamtinių dujų įmonės buitiniams vartotojams tarifus nustato kas pusę metų. Buitiniams vartotojams nustatytą tarifą sudaro prognozuojamų gamtinių dujų (produkto), įskaitant SGD pakartotinį dujinimą, SGD perkrovą ir gamtinių dujų pristatymą iki mažos apimties SGD pakartotinio dujinimo įrenginio, konkrečių perdavimo, skirstymo, laikymo, tiekimo, papildomos dedamosios kainų ir skirtumo tarp ankstesnio tarifų galiojimo laikotarpio prognozuotų ir faktinių gamtinių dujų (produkto) kainų suma. Gamtinių dujų įmonės konkrečius tarifus pateikia tvirtinti Tarybai, kuri šiuos tarifus tikrina ir priima sprendimus dėl jų šiame straipsnyje nustatyta tvarka.
+16. Gamtinių dujų įmonės buitiniams vartotojams tarifus nustato kas pusę metų. Buitiniams vartotojams nustatytą tarifą sudaro prognozuojamų gamtinių dujų (produkto), įskaitant SGD pakartotinį dujinimą, SGD perkrovą ir gamtinių dujų pristatymą iki mažos apimties SGD pakartotinio dujinimo įrenginio, konkrečių perdavimo, skirstymo, laikymo, tiekimo, papildomos dedamosios kainų ir skirtumo tarp ankstesnio tarifų galiojimo laikotarpio prognozuotų ir faktinių gamtinių dujų (produkto) kainų suma. Gamtinių dujų tiekimo įmonės, kurios aptarnauja daugiau kaip 100 tūkstančių vartotojų, kartą per metus arba Tarybai pareikalavus pateikia Tarybai analizę ir siūlymus dėl dujų portfelio diversifikavimo tarp tiekėjų, sutarčių terminų, kainodaros formulių, taip pat galimybes naudoti gamtinių dujų rinkos finansines priemones ir kitas galimas priemones, padedančias valdyti tiekimo ir dujų kainų rizikas. Tiekimo įmonės Tarybos nustatyta tvarka gali naudoti gamtinių dujų rinkos finansines priemones, kurios įskaičiuojamos į gamtinių dujų įmonių aptarnaujamų buitinių vartotojų tarifus. Tarybos nustatyta tvarka yra įvertinamos patirtos sąnaudos ir gauta nauda, atsirandanti dėl naudojimosi gamtinių dujų rinkos finansinėmis priemonėmis. Gamtinių dujų įmonės konkrečius tarifus pateikia tvirtinti Tarybai, kuri šiuos tarifus tikrina ir priima sprendimus dėl jų šiame straipsnyje nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
+ 
 
 
 
 
 17. Taryba suderina perdavimo sistemos operatoriaus pateiktą perdavimo sistemų operatorių intersisteminio kompensavimo tvarką, parengtą pagal Reglamento (ES) Nr. 2017/460 10 straipsnyje nurodytas gaires. 
+
+
+
+
+18. Tiekimo įmonės gali siūlyti Tarybai priimti sprendimą dėl prognozuojamos gamtinių dujų (produkto) kainos mažinimo ir dėl prognozuojamos ir faktinės gamtinių dujų (produkto) kainos susidariusio skirtumo dėl faktiškai negautų ar viršytų numatytų pajamų išdėstymo per Tarybos nustatytą laikotarpį. Tiekimo įmonės tokį pasiūlymą Tarybai gali teikti, kai skirtumas tarp tiekimo įmonės planuojamo pateikti tarifo buitiniams vartotojams ir tuo metu galiojančio tarifo buitiniams vartotojams yra didesnis kaip 40 procentų. Taryba kainų nustatymo metodikoje nustatyta tvarka priima sprendimą dėl prognozuojamos gamtinių dujų (produkto) kainos mažinimo ir dėl prognozuojamos ir faktinės gamtinių dujų (produkto) kainos susidariusio skirtumo dėl faktiškai negautų ar viršytų numatytų pajamų išdėstymo per ne ilgesnį kaip 5 metų laikotarpį. Tarybai priėmus sprendimą dėl prognozuojamos gamtinių dujų (produkto) kainos mažinimo, skirtumas, susidaręs tarp to laikotarpio sumažintos prognozuotos ir faktinės gamtinių dujų (produkto) kainos, išdėstomas per Tarybos nustatytą laikotarpį ir įvertinamas nustatant papildomą dedamąją prie gamtinių dujų skirstymo paslaugos kainos, taikomos buitiniams vartotojams. Gamtinių dujų skirstymo sistemos operatorius papildomą dedamąją prie gamtinių dujų skirstymo paslaugos kainos perveda gamtinių dujų tiekėjui, kurio vartotojų gamtinių dujų suvartojimas lėmė dėl prognozuojamos ir faktinės gamtinių dujų (produkto) kainos susidariusį skirtumą dėl faktiškai negautų ar viršytų numatytų pajamų. Šios papildomos dedamosios administravimas negali turėti neigiamos finansinės įtakos skirstymo sistemos operatoriui. Tarybos kainų nustatymo metodikoje nustatyta tvarka skaičiuojant gamtinių dujų tarifus buitiniams vartotojams per Tarybos nustatytą laikotarpį įvertinamos skirtumo tarp prognozuojamos ir faktinės gamtinių dujų (produkto) kainos ir (arba) tiekimo įmonės faktiškai negautų ar viršytų numatytų pajamų skolinimosi sąnaudos.
+Papildyta straipsnio dalimi:
+Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
+ 
 
 
 Straipsnio pakeitimai:
@@ -4347,3 +4357,8 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 7, 9, 45, 46, 51
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-198, 2021-03-23, paskelbta TAR 2021-04-08, i. k. 2021-07416
 Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 1 straipsnio pakeitimo įstatymas
+ 
+18.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 5, 9, 45, 46, 47 ir 57 straipsnių pakeitimo įstatymas
