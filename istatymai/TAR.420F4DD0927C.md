@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/420f4dd0927c11e9ae2e9d61b1f977b3"
 
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-11-25
+Suvestinė redakcija nuo 2021-11-26 iki 2021-11-30
  
 Įstatymas paskelbtas: TAR 2019-06-19, i. k. 2019-09862
  
@@ -313,7 +313,9 @@ BENDROSIOS NUOSTATOS
 
 
 
-54. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos oro apsaugos įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos aviacijos įstatyme, Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos civilinės saugos įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos geležinkelių transporto eismo saugos įstatyme, Lietuvos Respublikos geležinkelių transporto kodekse, Lietuvos Respublikos geodezijos ir kartografijos įstatyme, Lietuvos Respublikos geriamojo vandens įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos melioracijos įstatyme, Lietuvos Respublikos miškų įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos nekilnojamojo turto kadastro įstatyme, Lietuvos Respublikos nekilnojamojo turto registro įstatyme, Lietuvos Respublikos pajūrio juostos įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos priešgaisrinės saugos įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme, Lietuvos Respublikos saugios laivybos įstatyme, Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos triukšmo valdymo įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme, Lietuvos Respublikos vandens įstatyme, Lietuvos Respublikos visuomenės sveikatos priežiūros įstatyme, Lietuvos Respublikos žemės gelmių įstatyme, Lietuvos Respublikos žemės įstatyme, Lietuvos Respublikos žmonių palaikų laidojimo įstatyme, Lietuvos Respublikos žuvininkystės įstatyme.
+54. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos aplinkos apsaugos įstatyme, Lietuvos Respublikos aplinkos oro apsaugos įstatyme, Lietuvos Respublikos atliekų tvarkymo įstatyme, Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme, Lietuvos Respublikos aviacijos įstatyme, Lietuvos Respublikos branduolinės energijos įstatyme, Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatyme, Lietuvos Respublikos civilinės saugos įstatyme, Lietuvos Respublikos elektroninių ryšių įstatyme, Lietuvos Respublikos elektros energetikos įstatyme, Lietuvos Respublikos energetikos įstatyme, Lietuvos Respublikos gamtinių dujų įstatyme, Lietuvos Respublikos geležinkelių transporto eismo saugos įstatyme, Lietuvos Respublikos geležinkelių transporto kodekse, Lietuvos Respublikos geodezijos ir kartografijos įstatyme, Lietuvos Respublikos geriamojo vandens įstatyme, Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme, Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme, Lietuvos Respublikos kelių įstatyme, Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatyme, Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, Lietuvos Respublikos melioracijos įstatyme, Lietuvos Respublikos miškų įstatyme, Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme, Lietuvos Respublikos nekilnojamojo turto kadastro įstatyme, Lietuvos Respublikos nekilnojamojo turto registro įstatyme, Lietuvos Respublikos pajūrio juostos įstatyme, Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme, Lietuvos Respublikos priešgaisrinės saugos įstatyme, Lietuvos Respublikos radiacinės saugos įstatyme, Lietuvos Respublikos saugios laivybos įstatyme, Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatyme, Lietuvos Respublikos saugomų teritorijų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos šilumos ūkio įstatyme, Lietuvos Respublikos švietimo įstatyme, Lietuvos Respublikos teritorijų planavimo įstatyme, Lietuvos Respublikos triukšmo valdymo įstatyme, Lietuvos Respublikos vadovybės apsaugos įstatyme, Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme, Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme, Lietuvos Respublikos vandens įstatyme, Lietuvos Respublikos visuomenės sveikatos priežiūros įstatyme, Lietuvos Respublikos žemės gelmių įstatyme, Lietuvos Respublikos žemės įstatyme, Lietuvos Respublikos žmonių palaikų laidojimo įstatyme, Lietuvos Respublikos žuvininkystės įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-634, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24229
  
 
 
@@ -5957,7 +5959,10 @@ Paviršiniuose vandens telkiniuose draudžiama:
 
 
 
-3) šalinti iš vandens telkinių dugno riedulius, išskyrus atvejus, kai tai būtina vykdant šio straipsnio 8 punkte nurodytas veiklas;
+3) šalinti iš vandens telkinių dugno riedulius, išskyrus atvejus, kai tai būtina vykdant šio straipsnio 7 punkte nurodytas veiklas; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-634, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24229
+ 
 
 
 
@@ -6012,7 +6017,9 @@ d) organizuojama ir vykdoma mėgėjų žvejyba naudojant ne kelių transporto pr
 
 
 
-7) reguliuoti (tvenkti (patvenkti) ir kitais būdais keisti vandens lygį, gylį ir (arba) krantų liniją) upes ir ežerus, išskyrus atvejus, kai:
+7) reguliuoti (tvenkti (patvenkti) ir kitais būdais keisti vandens lygį, gylį ir (arba) krantų liniją) upes, ežerus ir tarpinius vandenis, išskyrus atvejus, kai: 
+Straipsnio punkto pakeitimai:
+Nr. XIV-634, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24229
 
 
 a) atliekami paviršinių vandens telkinių tvarkymo darbai;
@@ -6554,15 +6561,17 @@ POŽEMINIO VANDENS VANDENVIEČIŲ APSAUGOS ZONOS IR JOSE TAIKOMOS SPECIALIOSIOS 
 2. Požeminio vandens vandenvietės apsaugos zonos 3-iąją juostą gali sudaryti:
 
 
-1) 3a sektorius – kaptažo sritis eksploatuojamame sluoksnyje;
+1) 3a sektorius – kaptažo sritis gruntinio vandens sluoksnyje;
 
 
 
 
-2) 3b sektorius – kaptažo sritis gruntinio vandens sluoksnyje.
+2) 3b sektorius – kaptažo sritis eksploatuojamame sluoksnyje.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-634, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24229
  
-
-
 
 
 
@@ -9648,3 +9657,8 @@ Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3331, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22473
 Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 19 ir 22 straipsnių pakeitimo įstatymas
+ 
+5.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-634, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24229
+Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 98 ir 105 straipsnių pakeitimo įstatymas
