@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/4e4d1f00bab711eab9d9cd0c85e0b745"
 
 # Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 8, 13-1, 21, 22, 23, 24, 28 straipsnių pakeitimo ir Įstatymo papildymo 28-1 ir 28-2 straipsniais įstatymas
 
+Suvestinė redakcija nuo 2021-11-26
+ 
+Įstatymas paskelbtas: TAR 2020-06-30, i. k. 2020-14375
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 ENERGETIKOS ĮSTATYMO NR. IX-884 2, 6, 8, 131, 21, 22, 23, 24, 28 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 281 IR 282 STRAIPSNIAIS
 ĮSTATYMAS
@@ -73,11 +80,14 @@ Vilnius
 
 
 
-„13. Energetikos veikla – ekonominė veikla, apimanti energijos išteklių ar energijos žvalgymą, gavybą, perdirbimą, gamybą, laikymą, transportavimą, perdavimą, skirstymą, tiekimą, prekybą, rinkodarą, energetikos darbuotojų atestavimą, energetikos objektų ir įrenginių įrengimą ir (ar) eksploatavimą.“
+„13. Energetikos veikla – ekonominė veikla, apimanti energijos išteklių ar energijos žvalgymą, gavybą, perdirbimą, gamybą, laikymą, kaupimą, transportavimą, perdavimą, skirstymą, tiekimą, prekybą, rinkodarą, energetikos darbuotojų atestavimą, energetikos objektų ir įrenginių įrengimą ir (ar) eksploatavimą.“.
 
 
 
 
+Straipsnio dalies pakeitimai:
+Nr. XIV-633, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24227
+ 
 
 
 
@@ -746,3 +756,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-633, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24227
+Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 8, 13-1, 21, 22, 23, 24, 28 straipsnių pakeitimo ir Įstatymo papildymo 28-1 ir 28-2 straipsniais įstatymo Nr. XIII-3138 1 straipsnio pakeitimo įstatymas
