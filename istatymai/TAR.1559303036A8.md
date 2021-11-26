@@ -18,9 +18,10 @@ Redagavo: Ramun? L??ait? (1996
 
 
 
+ 
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-11-25
+Suvestinė redakcija nuo 2021-11-26 iki 2022-08-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 102-2319; Žin. 1996, Nr.103-0, i. k. 0961010ISTA00I-1571
  
@@ -1027,7 +1028,9 @@ LRT TURTAS, FINANSINĖ IR ŪKINĖ VEIKLA
 
 
 
-5. LRT iš valstybės biudžeto skiriamų lėšų dydis kiekvienais metais sudaro už praeitų metų faktiškai gautų 1 procento valstybės biudžeto ir savivaldybių biudžetų pajamų iš gyventojų pajamų mokesčio ir 1,3 procento iš akcizo pajamų. LRT skiriamų asignavimų dydis neturi būti mažesnis už 2019 metais LRT skirtus valstybės biudžeto asignavimus.
+5. LRT iš valstybės biudžeto skiriamų lėšų dydis kiekvienais metais sudaro užpraeitų metų faktiškai gautų 1 procento valstybės biudžeto ir savivaldybių biudžetų pajamų iš gyventojų pajamų mokesčio ir 1,3 procento iš akcizo pajamų. LRT skiriamų asignavimų dydis neturi būti mažesnis už 2019 metais LRT skirtus valstybės biudžeto asignavimus.
+Straipsnio dalies pakeitimai:
+Nr. XIV-645, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24254
  
 
 
@@ -1052,7 +1055,7 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
-RESPUBLIKOS PREZIDENTAS                                                    ALGIRDAS BRAZAUSKAS
+RESPUBLIKOS PREZIDENTAS                                                     ALGIRDAS BRAZAUSKAS
 
 
  
@@ -1187,3 +1190,8 @@ Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2929, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10874
 Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-645, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24254
+Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 19 straipsnio pakeitimo įstatymas
