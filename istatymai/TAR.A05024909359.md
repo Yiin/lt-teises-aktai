@@ -13,14 +13,19 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/a0502490935911e9ae2e9d61b1f977b3"
 
 # Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 1, 2, 3, 8, 15, 16, 21, 22, 23, 24, 26, 27, 29, 33, 35, 36, 37, 41, 43, 44, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
 
+Suvestinė redakcija nuo 2021-11-26
+ 
+Įstatymas paskelbtas: TAR 2019-06-20, i. k. 2019-09967
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 NEKILNOJAMOJO TURTO REGISTRO ĮSTATYMO NR. I-1539 1, 2, 3, 8, 15, 16, 21, 22, 23, 24, 26, 27, 29, 33, 35, 36, 37, 41, 43, 44, 45 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 151 STRAIPSNIU
 ĮSTATYMAS
  
 2019 m. birželio 6 d. Nr. XIII-2184
 Vilnius
- 
- 
  
  
 
@@ -236,26 +241,29 @@ Papildyti Įstatymą 151 straipsniu:
 Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 
-
-
-„21 straipsnis. Nekilnojamojo daikto, daiktinių teisių į jį, šių teisių suvaržymų juridinių faktų, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, registravimo vieta
-
-
-1. Nekilnojamasis daiktas registruojamas pagal daikto buvimo vietą Nekilnojamojo turto registro nuostatuose nustatyta tvarka.
-
-
-
-
-2. Daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, registruoja bet kuris Nekilnojamojo turto registro tvarkytojo teritorinis registratorius Nekilnojamojo turto registro nuostatuose nustatyta tvarka.“ 
  
 
 
+„21 straipsnis. Nekilnojamojo daikto, daiktinių teisių į jį, šių teisių suvaržymų, juridinių faktų, teritorijų, kuriose taikomos specialiosios žemės naudojimo sąlygos, registravimo vieta
+
+
+1. Nekilnojamasis daiktas registruojamas Nekilnojamojo turto registro nuostatų nustatyta tvarka.
+
+
+
+
+2. Daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, registruoja bet kuris Nekilnojamojo turto registro tvarkytojo teritorinis registratorius Nekilnojamojo turto registro nuostatų nustatyta tvarka.“
 
 
 
 
 
 
+
+
+Straipsnio pakeitimai:
+Nr. XIV-667, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24270
+ 
 
 
 
@@ -264,7 +272,6 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 
 
 Pakeisti 22 straipsnį ir jį išdėstyti taip:
- 
  
 
 
@@ -500,7 +507,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 „26 straipsnis. Prašymų įregistruoti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, nagrinėjimas ir sprendimų priėmimas
 
 
-1. Prašymas įregistruoti nuosavybės teisę į nekilnojamąjį daiktą turi būti išnagrinėtas, sprendimas dėl jo priimtas ir duomenys į Nekilnojamojo turto registro duomenų bazę turi būti įrašyti ne vėliau kaip per dešimt darbo dienų po prašymo padavimo dienos arba asmens prašymu – skubos tvarka, per vieną darbo dieną. Prašymas įregistruoti kitą daiktinę teisę, šios teisės suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, turi būti išnagrinėtas, sprendimas dėl jo priimtas ir duomenys į Nekilnojamojo turto registro duomenų bazę turi būti įrašyti ne vėliau kaip per penkias darbo dienas po prašymo padavimo. Vyriausybės nustatyta tvarka asmens prašymas gali būti išnagrinėtas ir duomenys į Nekilnojamojo turto registro duomenų bazę įrašyti skubos tvarka.
+1. Prašymas įregistruoti daiktinę teisę į nekilnojamąjį daiktą, šios teisės suvaržymus, juridinius faktus turi būti išnagrinėtas, sprendimas dėl jo priimtas ir duomenys į Nekilnojamojo turto registro duomenų bazę turi būti įrašyti ne vėliau kaip per penkias darbo dienas po prašymo padavimo dienos, o kai kartu prašoma įregistruoti ir nekilnojamąjį daiktą arba pakeisti jo kadastro duomenis, – ne vėliau kaip per penkias darbo dienas nuo dienos, kurią baigiasi Nekilnojamojo turto kadastro nuostatuose nustatytas prašymų įregistruoti nekilnojamąjį daiktą ar pakeisti jo kadastro duomenis nagrinėjimo terminas. Asmens pageidavimu prašymas gali būti išnagrinėtas ir duomenys į Nekilnojamojo turto registro duomenų bazę įrašyti skubos tvarka – per tris, dvi arba vieną darbo dieną. Daiktinės teisės – hipoteka ir turtinės teisės į nekilnojamąjį daiktą įkeitimas – turi būti įregistruotos ne vėliau kaip per vieną darbo dieną nuo pranešimo apie patvirtintą hipotekos ar įkeitimo sandorį arba nustatytą priverstinę hipoteką ar priverstinį įkeitimą gavimo dienos.
 
 
 
@@ -510,7 +517,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 
 
-3. Išnagrinėjęs prašymą, teritorinio registratoriaus įgaliotas darbuotojas gali priimti vieną iš šių sprendimų: 
+3. Išnagrinėjęs prašymą, teritorinio registratoriaus įgaliotas darbuotojas gali priimti vieną iš šių sprendimų:
 
 
 1) prašymą tenkinti – daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, įregistruoti nekilnojamojo turto registre;
@@ -518,7 +525,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 
 
-2) prašymą atmesti – atsisakyti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, įregistruoti nekilnojamojo turto registre; 
+2) prašymą atmesti – atsisakyti daiktines teises į nekilnojamąjį daiktą, šių teisių suvaržymus, juridinius faktus, teritorijas, kuriose taikomos specialiosios žemės naudojimo sąlygos, įregistruoti nekilnojamojo turto registre;
 
 
 
@@ -540,14 +547,16 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 
 
-6. Kai priimamas sprendimas prašymą atmesti arba sprendimo priėmimą atidėti dėl aplinkybių, kurios trukdo įregistruoti daiktinę teisę, daiktinės teisės suvaržymus ar juridinius faktus, notarui, per kurį pateiktas asmens prašymas, arba prašymą pateikusiam asmeniui (kai prašymas pateiktas šio įstatymo 17 straipsnio 3 dalyje nustatytu atveju) teritorinis registratorius Nekilnojamojo turto registro nuostatuose nustatyta tvarka ne vėliau kaip per šio straipsnio 1 dalyje nustatytus terminus įteikia arba išsiunčia sprendimą atsisakyti įregistruoti daiktinę teisę, daiktinės teisės suvaržymus ar juridinius faktus arba sprendimą dėl sprendimo priėmimo atidėjimo. Notaras ne vėliau kaip kitą darbo dieną apie gautą sprendimą informuoja prašymą pateikusį asmenį.“
+6. Kai priimamas sprendimas prašymą atmesti arba sprendimo priėmimą atidėti dėl aplinkybių, kurios trukdo įregistruoti daiktinę teisę, daiktinės teisės suvaržymus ar juridinius faktus, notarui, per kurį pateiktas asmens prašymas, arba prašymą pateikusiam asmeniui (kai prašymas pateiktas šio įstatymo 17 straipsnio 3 dalyje nustatytu atveju) teritorinis registratorius Nekilnojamojo turto registro nuostatų nustatyta tvarka ne vėliau kaip per šio straipsnio 1 dalyje nustatytus terminus įteikia arba išsiunčia sprendimą atsisakyti įregistruoti daiktinę teisę, daiktinės teisės suvaržymus ar juridinius faktus arba sprendimą dėl sprendimo priėmimo atidėjimo. Notaras ne vėliau kaip kitą darbo dieną apie gautą sprendimą informuoja prašymą pateikusį asmenį.“
+
+
+
+
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-667, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24270
  
-
-
-
-
-
-
 
 
 
@@ -908,3 +917,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-667, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24270
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 1, 2, 3, 8, 15, 16, 21, 22, 23, 24, 26, 27, 29, 33, 35, 36, 37, 41, 43, 44, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymo Nr. XIII-2184 8 ir 12 straipsnių pakeitimo įstatymas
