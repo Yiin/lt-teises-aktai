@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/81473890c8e011eba2bad9a0748ee64d"
 
 # Lietuvos Respublikos vienišo asmens išmokos įstatymas
 
+Suvestinė redakcija nuo 2021-11-27 iki 2021-12-31
+ 
+Įstatymas paskelbtas: TAR 2021-06-09, i. k. 2021-13152
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 VIENIŠO ASMENS IŠMOKOS
 ĮSTATYMAS
@@ -411,15 +418,32 @@ Vienišo asmens išmokos dydis – 32 eurai.“
 5. Įsigaliojus šiam įstatymui, Valstybinio socialinio draudimo fondo administravimo įstaigos:
 
 
-1) nuo 2021 m. liepos 1 d. iki 2021 m. spalio 31 d. Valstybinio socialinio draudimo fondo administravimo įstaigose gautus asmenų prašymus skirti vienišo asmens išmoką išnagrinėja ir sprendimus dėl šios išmokos skyrimo priima ne vėliau kaip iki 2021 m. lapkričio 30 d., vienišo asmens išmoką paskirdamos nuo asmens teisės į vienišo asmens išmoką atsiradimo dienos ir kartu su paskirta vienišo asmens išmoka išmokėdamos apskaičiuotą vienišo asmens išmokos nepriemoką, jeigu ji susidarė;
+1) nuo 2021 m. liepos 1 d. iki 2021 m. spalio 31 d. Valstybinio socialinio draudimo fondo administravimo įstaigose gautus asmenų prašymus skirti vienišo asmens išmoką išnagrinėja ir sprendimus dėl šios išmokos skyrimo priima ne vėliau kaip iki 2021 m. lapkričio 30 d., vienišo asmens išmoką paskirdamos nuo asmens teisės į vienišo asmens išmoką atsiradimo dienos. Paskirtoji vienišo asmens išmoka išmokama šia tvarka:
+
+
+a) už 2021 m. liepos, rugpjūčio, rugsėjo ir spalio mėnesius – 2021 m. lapkričio mėnesį;
 
 
 
 
-2) nuo 2021 m. lapkričio 1 d. Valstybinio socialinio draudimo fondo administravimo įstaigose gautus asmenų prašymus skirti vienišo asmens išmoką nagrinėja ir sprendimus dėl šios išmokos skyrimo priima šio įstatymo 5 straipsnio 10 dalyje nustatytais terminais. 
+b) už 2021 m. lapkričio mėnesį – 2021 m. gruodžio mėnesį;
+
+
+
+
+c) už 2021 m. gruodžio mėnesį – 2022 m. sausio mėnesį;
+
+
+
+
+
+
+2) nuo 2021 m. lapkričio 1 d. Valstybinio socialinio draudimo fondo administravimo įstaigose gautus asmenų prašymus skirti vienišo asmens išmoką nagrinėja ir sprendimus dėl šios išmokos skyrimo priima šio įstatymo 5 straipsnio 10 dalyje nustatytais terminais.
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-679, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24470
  
-
-
 
 
 
@@ -442,3 +466,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-679, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24470
+Lietuvos Respublikos vienišo asmens išmokos įstatymo Nr. XIV-352 2, 3, 5 ir 8 straipsnių pakeitimo įstatymas
