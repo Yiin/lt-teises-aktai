@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.1FD5C3A4D10A"
 
 # Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas
 
-Suvestinė redakcija nuo 2020-05-01 iki 2021-11-30
+Suvestinė redakcija nuo 2021-12-01 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 102-4585, i. k. 1031010ISTA0IX-1768
  
@@ -33,9 +33,10 @@ BENDROSIOS NUOSTATOS
 1 straipsnis. Įstatymo paskirtis
 
 
-1. Šis Įstatymas nustato Lietuvos Respublikos valstybinės darbo inspekcijos funkcijas, struktūrą, Valstybinės darbo inspekcijos inspektorių teises, pareigas, atsakomybę, inspektavimų tvarką. 
+1. Šis Įstatymas nustato Lietuvos Respublikos valstybinės darbo inspekcijos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinė darbo inspekcija) funkcijas, struktūrą, Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus funkcijas, Valstybinės darbo inspekcijos inspektorių teises, pareigas, atsakomybę, inspektavimų tvarką. 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
  
 
 
@@ -54,9 +55,11 @@ Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
 
 
 
-4. Šio Įstatymo ketvirtasis1 skirsnis netaikomas vykdant sankcijas, kurioms taikomas 2005 m. vasario 24 d. Tarybos pamatinis sprendimas 2005/214/TVR dėl abipusio pripažinimo principo taikymo finansinėms baudoms (OL 2005 L 76, p. 16), 2000 m. gruodžio 22 d. Tarybos reglamentas (EB) Nr. 44/2001 dėl jurisdikcijos ir teismų sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo (OL 2001 L 12, p. 1) ar 2006 m. balandžio 27 d. Tarybos sprendimas 2006/325/EB dėl Europos bendrijos ir Danijos Karalystės susitarimo dėl jurisdikcijos ir teismų sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo sudarymo (OL 2006 L 120, p. 22).
+4. Šio Įstatymo ketvirtasis1 skirsnis netaikomas vykdant sankcijas, kurioms taikomas 2005 m. vasario 24 d. Tarybos pamatinis sprendimas 2005/214/TVR dėl abipusio pripažinimo principo taikymo finansinėms baudoms su visais pakeitimais, 2012 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1215/2012 dėl jurisdikcijos ir teismo sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo su visais pakeitimais ar 2006 m. balandžio 27 d. Tarybos sprendimas 2006/325/EB dėl Europos bendrijos ir Danijos Karalystės susitarimo dėl jurisdikcijos ir teismų sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo sudarymo su visais pakeitimais. 
 Papildyta straipsnio dalimi:
 Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
+Straipsnio dalies pakeitimai:
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
  
 
 
@@ -226,7 +229,10 @@ Nr. XII-1994, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18262
 
 
 
-3) tvirtina Valstybinės darbo inspekcijos darbo reglamentą, struktūrinių padalinių nuostatus ir pareigybių aprašymus, reikalavimų, protokolų, nutarimų formas ir kitus dokumentus pagal savo kompetenciją, įgalioja jo nesant vieną iš pavaduotojų atlikti vyriausiojo valstybinio darbo inspektoriaus pareigas; 
+3) tvirtina Valstybinės darbo inspekcijos darbo reglamentą, struktūrinių padalinių nuostatus ir pareigybių aprašymus, reikalavimų, protokolų, nutarimų formas ir kitus dokumentus pagal kompetenciją; 
+Straipsnio punkto pakeitimai:
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
+ 
 
 
 
@@ -481,7 +487,18 @@ Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
 
 
 
-9) vykdyti kitų norminių teisės aktų nustatytas pareigas.
+9) vadovauti atliekant šio Įstatymo 111 straipsnio 1 dalyje nurodytus patikrinimus; 
+Papildyta straipsnio punktu:
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
+ 
+
+
+
+
+10) vykdyti kitų norminių teisės aktų nustatytas pareigas.
+Straipsnio punkto numeracijos pakeitimas:
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
+ 
 
 
 
@@ -496,7 +513,10 @@ Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
 
 
 
-4. Trečiosios šalies pilietis yra užsienietis, kuris nėra Europos Sąjungos valstybės narės pilietis ir kuris nesinaudoja laisvo judėjimo Europos Sąjungoje teise, kaip apibrėžta 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 562/2006, nustatančio taisyklių, reglamentuojančių asmenų judėjimą per sienas, Bendrijos kodeksą (Šengeno sienų kodeksas) (OL 2006 L 105, p. 1), 2 straipsnio 5 punkte.
+4. Trečiosios šalies pilietis yra užsienietis, kuris nėra Europos Sąjungos valstybės narės pilietis ir kuris nesinaudoja laisvo judėjimo Europos Sąjungoje teise, kaip apibrėžta 2016 m. kovo 9 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/399 dėl taisyklių, reglamentuojančių asmenų judėjimą per sienas, Sąjungos kodekso (Šengeno sienų kodeksas) su visais pakeitimais 2 straipsnio 5 punkte. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
+ 
 
 
 Straipsnio pakeitimai:
@@ -574,6 +594,24 @@ Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
  
 
 
+
+
+
+
+111 straipsnis. Kitų Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių narių darbo inspektorių ir kitų pareigūnų dalyvavimas patikrinimuose Lietuvos Respublikos teritorijoje
+
+
+1. Kai yra sudaryti dvišaliai ar daugiašaliai susitarimai, Valstybinės darbo inspekcijos vykdomuose patikrinimuose Lietuvos Respublikos teritorijoje gali dalyvauti kitų Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių narių darbo inspektoriai ir kiti pareigūnai (toliau – užsienio valstybių darbo inspektoriai ir kiti pareigūnai). 
+
+
+
+
+2. Kartu su Valstybinės darbo inspekcijos inspektoriais šio straipsnio 1 dalyje nurodytuose patikrinimuose dalyvaujantys užsienio valstybių darbo inspektoriai ir kiti pareigūnai turi šio Įstatymo 9 straipsnio 1 dalies 3 ir 12 punktuose nustatytas teises bei 9 straipsnio 2 dalies 7 ir 8 punktuose nustatytas pareigas. 
+
+
+Papildyta straipsniu:
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
+ 
 
 
 
@@ -885,6 +923,35 @@ Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
 
 
 
+Lietuvos Respublikos
+valstybinės darbo inspekcijos
+įstatymo
+priedas
+ 
+ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
+ 
+
+
+1. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai.
+
+
+
+
+2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/67/ES dėl Direktyvos 96/71/EB dėl darbuotojų komandiravimo paslaugų teikimo sistemoje vykdymo užtikrinimo ir kuria iš dalies keičiamas Reglamentas (ES) Nr. 1024/2012 dėl administracinio bendradarbiavimo per Vidaus rinkos informacinę sistemą (IMI reglamentas).
+
+
+
+
+3. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1149, kuriuo įsteigiama Europos darbo institucija, iš dalies keičiami reglamentai (EB) Nr. 883/2004, (ES) Nr. 492/2011 ir (ES) 2016/589 ir panaikinamas Sprendimas (ES) 2016/344. 
+
+
+Papildyta priedu:
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
+ 
+
+
+
+
  
  
 Pakeitimai:
@@ -983,3 +1050,8 @@ Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 1, 4, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2596, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20029
 Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 9 straipsnio pakeitimo įstatymas
+ 
+13.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
+Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 1, 4, 8, 9, 11 straipsnių, priedo pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
