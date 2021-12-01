@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/5468a25089ef11e4a98a9f2247652cf4"
 
 # Lietuvos Respublikos kibernetinio saugumo įstatymas
 
-Suvestinė redakcija nuo 2021-06-28 iki 2021-11-30
+Suvestinė redakcija nuo 2021-12-01 iki 2023-12-31
  
 Įstatymas paskelbtas: TAR 2014-12-23, i. k. 2014-20553
  
@@ -95,7 +95,10 @@ Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
 
 
 
-8. Kibernetinio saugumo subjektas – subjektas, valdantis ir (arba) tvarkantis valstybės informacinius išteklius, ypatingos svarbos informacinės infrastruktūros valdytojas, viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų, elektroninės informacijos prieglobos paslaugų ir skaitmeninių paslaugų teikėjas.
+8. Kibernetinio saugumo subjektas – subjektas, valdantis ir (arba) tvarkantis valstybės informacinius išteklius, ypatingos svarbos informacinės infrastruktūros valdytojas, viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų, elektroninės informacijos prieglobos paslaugų ir skaitmeninių paslaugų teikėjas.
+Straipsnio dalies pakeitimai:
+Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
+ 
 
 
 
@@ -462,7 +465,10 @@ Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
 
 
 
-4) duoda nurodymus, susijusius su kibernetinio saugumo užtikrinimu ir nustatytų kibernetinio saugumo trūkumų pašalinimu, nustato šių nurodymų įvykdymo terminą subjektams, valdantiems ir (arba) tvarkantiems valstybės informacinius išteklius, ypatingos svarbos informacinės infrastruktūros valdytojams, viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams ir elektroninės informacijos prieglobos paslaugų teikėjams; 
+4) duoda nurodymus, susijusius su kibernetinio saugumo užtikrinimu ir nustatytų kibernetinio saugumo trūkumų pašalinimu, nustato šių nurodymų įvykdymo terminą subjektams, valdantiems ir (arba) tvarkantiems valstybės informacinius išteklius, ypatingos svarbos informacinės infrastruktūros valdytojams, viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams ir elektroninės informacijos prieglobos paslaugų teikėjams;
+Straipsnio punkto pakeitimai:
+Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
+ 
 
 
 
@@ -497,7 +503,10 @@ Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
 
 
 
-11) siekdamas stabdyti kibernetinio incidento poveikį valstybės informacinių išteklių ar ypatingos svarbos informacinių infrastruktūrų kibernetiniam saugumui, duoda nurodymą viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjui ne ilgiau negu 48 valandoms apriboti viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikimą šių paslaugų gavėjui. Nacionalinis kibernetinio saugumo centras apie viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams pagal šį punktą duotus nurodymus ne vėliau kaip kitą darbo dieną praneša Lietuvos Respublikos ryšių reguliavimo tarnybai;
+11) siekdamas stabdyti kibernetinio incidento poveikį valstybės informacinių išteklių ar ypatingos svarbos informacinių infrastruktūrų kibernetiniam saugumui, duoda nurodymą viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjui ne ilgiau negu 48 valandoms apriboti viešųjų elektroninių ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikimą šių paslaugų gavėjui. Nacionalinis kibernetinio saugumo centras apie viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjams pagal šį punktą duotus nurodymus ne vėliau kaip kitą darbo dieną praneša Lietuvos Respublikos ryšių reguliavimo tarnybai;
+Straipsnio punkto pakeitimai:
+Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
+ 
 
 
 
@@ -574,12 +583,17 @@ Policija, vykdydama kibernetinių incidentų, galimai turinčių nusikalstamų v
 
 
 
-3) turi teisę, kai paslaugų gavėjas galimai dalyvauja ar jo naudojama ryšių ir informacinių technologijų įranga galimai yra naudojama nusikalstamai veikai, be teismo sankcijos duoti nurodymą viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjui, elektroninės informacijos prieglobos paslaugų teikėjui ir skaitmeninių paslaugų teikėjui ne ilgiau kaip 48 valandoms, o ilgesniam laikui – su apylinkės teismo sankcija apriboti viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų, elektroninės informacijos prieglobos paslaugų ir skaitmeninių paslaugų teikimą paslaugų gavėjui ir (arba) nurodyti taikyti priemones, šalinančias nusikalstamų veikų kibernetinėje erdvėje priežastis. Šiais atvejais apylinkės teismo pirmininkui ar jo įgaliotam teisėjui pateikiamas teikimas dėl veiksmų teisėtumo ar pagrįstumo patvirtinimo motyvuota nutartimi. Jeigu šiame punkte nurodytas paslaugų teikimo apribojimo terminas baigiasi poilsio ar švenčių dieną, teikimas pateikiamas ne vėliau kaip kitą darbo dieną po poilsio ar švenčių dienos. Jeigu teisėjas motyvuota nutartimi nepatvirtina teikime nurodytų veiksmų teisėtumo ar pagrįstumo, nurodymas nedelsiant stabdomas; 
+3) turi teisę, kai paslaugų gavėjas galimai dalyvauja ar jo naudojama ryšių ir informacinių technologijų įranga galimai yra naudojama nusikalstamai veikai, be teismo sankcijos duoti nurodymą viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjui, elektroninės informacijos prieglobos paslaugų teikėjui ir skaitmeninių paslaugų teikėjui ne ilgiau kaip 48 valandoms, o ilgesniam laikui – su apylinkės teismo sankcija apriboti viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų, elektroninės informacijos prieglobos paslaugų ir skaitmeninių paslaugų teikimą paslaugų gavėjui ir (arba) nurodyti taikyti priemones, šalinančias nusikalstamų veikų kibernetinėje erdvėje priežastis. Šiais atvejais apylinkės teismo pirmininkui ar jo įgaliotam teisėjui pateikiamas teikimas dėl veiksmų teisėtumo ar pagrįstumo patvirtinimo motyvuota nutartimi. Jeigu šiame punkte nurodytas paslaugų teikimo apribojimo terminas baigiasi poilsio ar švenčių dieną, teikimas pateikiamas ne vėliau kaip kitą darbo dieną po poilsio ar švenčių dienos. Jeigu teisėjas motyvuota nutartimi nepatvirtina teikime nurodytų veiksmų teisėtumo ar pagrįstumo, nurodymas nedelsiant stabdomas;
+Straipsnio punkto pakeitimai:
+Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
+ 
 
 
 
 
-4) turi teisę duoti nurodymą viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjui, elektroninės informacijos prieglobos paslaugų teikėjui ir skaitmeninių paslaugų teikėjui išsaugoti su jų teikiamomis paslaugomis susijusią informaciją, iš kurios galima nustatyti naudotos ryšio paslaugos tipą, taikytas technines priemones ir naudojimo laiką, paslaugos gavėjo tapatybę, pašto, geografinės padėties adresą, telefono ir bet kokį kitą prieigos numerį, informaciją apie sąskaitas ir atliktus mokėjimus paslaugos sutarties arba susitarimo pagrindu ir kitą informaciją ryšių aparatūros įrengimo vietoje, turimą pagal paslaugos sutartį arba susitarimą, šią informaciją gauti, o kai yra motyvuota teismo nutartis, gauti paslaugų gavėjo srauto duomenis ir kontroliuoti šiame punkte nurodytos perduodamos informacijos turinį.
+4) turi teisę duoti nurodymą viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjui, elektroninės informacijos prieglobos paslaugų teikėjui ir skaitmeninių paslaugų teikėjui išsaugoti su jų teikiamomis paslaugomis susijusią informaciją, iš kurios galima nustatyti naudotos ryšio paslaugos tipą, taikytas technines priemones ir naudojimo laiką, paslaugos gavėjo tapatybę, pašto, geografinės padėties adresą, telefono ir bet kokį kitą prieigos numerį, informaciją apie sąskaitas ir atliktus mokėjimus paslaugos sutarties arba susitarimo pagrindu ir kitą informaciją ryšių aparatūros įrengimo vietoje, turimą pagal paslaugos sutartį arba susitarimą, šią informaciją gauti, o kai yra motyvuota teismo nutartis, gauti paslaugų gavėjo srauto duomenis ir kontroliuoti šiame punkte nurodytos perduodamos informacijos turinį.
+Straipsnio punkto pakeitimai:
+Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
  
 
 
@@ -675,7 +689,10 @@ KIBERNETINIO SAUGUMO SUBJEKTŲ PAREIGOS
 
 
 
-3. Viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjai viešai skelbia savo interneto svetainėse ar kitomis visuomenės informavimo priemonėmis paslaugų gavėjams rekomendacijas dėl priemonių kibernetiniam saugumui užtikrinti naudojantis viešųjų ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų teikiamomis paslaugomis.
+3. Viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjai viešai skelbia savo interneto svetainėse ar kitomis visuomenės informavimo priemonėmis paslaugų gavėjams rekomendacijas dėl priemonių kibernetiniam saugumui užtikrinti naudojantis viešųjų elektroninių ryšių tinklų ir (arba) viešųjų elektroninių ryšių paslaugų teikėjų teikiamomis paslaugomis.
+Straipsnio dalies pakeitimai:
+Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
+ 
 
 
 
@@ -1183,7 +1200,6 @@ Respublikos Prezidentė                            �
 
 
 
- 
 Lietuvos Respublikos 
 kibernetinio saugumo įstatymo
 priedas
@@ -1197,14 +1213,12 @@ priedas
 
 
 
-2. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1972, kuria nustatomas Europos elektroninių ryšių kodeksas (nauja redakcija). 
+2. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1972, kuria nustatomas Europos elektroninių ryšių kodeksas (nauja redakcija).
 
 
-
-
-3. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/881 dėl ENISA (Europos Sąjungos kibernetinio saugumo agentūros) ir informacinių ir ryšių technologijų kibernetinio saugumo sertifikavimo, kuriuo panaikinamas Reglamentas (ES) Nr. 526/2013. 
-
-
+Priedo pakeitimai:
+Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
+ 
  
  
 Pakeitimai:
@@ -1238,3 +1252,8 @@ Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 2, 4, 5 ir 6 st
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-413, 2021-06-17, paskelbta TAR 2021-06-23, i. k. 2021-14159
 Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 1, 2, 6, 8, 9, 13 straipsnių, V skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17 straipsniu ir VI skyriumi įstatymas
+ 
+7.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-638, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24247
+Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 2, 8, 10, 12 straipsnių ir priedo pakeitimo įstatymas
