@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.C595FF45F869"
 
 # Lietuvos Respublikos mokslo ir studijų įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-11-30
+Suvestinė redakcija nuo 2021-12-01 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2009, Nr. 54-2140; Žin. 2009, Nr.61-0; Žin. 2009, Nr.101-0, i. k. 1091010ISTA00XI-242
  
@@ -263,7 +263,10 @@ Nr. XIII-1170, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08264
 
 
 
-2. Akademinė etika – visuma visuotinai pripažintų vertybių, užtikrinančių mokslo ir studijų proceso skaidrumą, sąžiningumą, teisingumą, šiame procese dalyvaujančių asmenų lygybę, nediskriminavimą, atsakingumą, tausų išteklių vartojimą, akademinę laisvę, mokslo ir studijų darbų vertinimo nešališkumą, pasitikėjimą, pagarbą ir intelektinės nuosavybės apsaugą.
+2. Akademinė etika – visuma visuotinai pripažintų vertybių, principų ir mokslinių praktikų, užtikrinančių mokslinės veiklos ir mokslo (meno) sklaidos, studijų ir su studijomis susijusios veiklos skaidrumą, sąžiningumą, teisingumą, atsakomybę, asmenų lygybę, nediskriminavimą, akademinę laisvę, pasitikėjimą ir pagarbą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
+ 
 
 
 
@@ -994,9 +997,10 @@ Nr. XIII-1415, 2018-06-30, paskelbta TAR 2018-07-13, i. k. 2018-11960
 17 straipsnis. Akademinės etikos ir procedūrų kontrolierius 
 
 
-1. Akademinės etikos ir procedūrų kontrolierius (toliau – kontrolierius) yra valstybės pareigūnas, nagrinėjantis skundus, pranešimus ir savo iniciatyva atliekantis tyrimus dėl galimų akademinės etikos ir procedūrų pažeidimų (toliau šiame straipsnyje – tyrimas). 
+1. Akademinės etikos ir procedūrų kontrolierius (toliau – kontrolierius) yra valstybės pareigūnas, nagrinėjantis skundus ir savo iniciatyva atliekantis tyrimus dėl galimų akademinės etikos ir su akademinės etikos nuostatų įgyvendinimu  susijusių procedūrų pažeidimų (toliau šiame straipsnyje – tyrimas). 
 Straipsnio dalies pakeitimai:
 Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
  
 
 
@@ -1087,141 +1091,136 @@ Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
 
 
 
-10. Kontrolierius skundą (pranešimą) išnagrinėja ar tyrimą atlieka, priima sprendimą ir raštu informuoja pareiškėją ne vėliau kaip per 30 dienų nuo skundo (pranešimo) gavimo ar tyrimo pradėjimo dienos. Dėl skundo (pranešimo) ar tyrimo aplinkybių sudėtingumo arba dėl to, kad nagrinėjant ar tiriant skundą (pranešimą) prireikia gauti papildomos informacijos, skundo (pranešimo) nagrinėjimo ar tyrimo ir sprendimo priėmimo terminas gali būti pratęstas iki 3 mėnesių nuo skundo (pranešimo) gavimo ar tyrimo pradėjimo dienos.
-
-
-
-
-11. Išnagrinėjęs skundą (pranešimą) arba atlikęs tyrimą, kontrolierius priima sprendimą:
-
-
-1) informuoti pareiškėją, mokslo ir studijų institucijas ir Švietimo ir mokslo ministeriją apie asmenis, padariusius akademinės etikos ir (arba) procedūrų pažeidimus; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+10. Kontrolierius skundą išnagrinėja ar tyrimą atlieka, priima sprendimą ir raštu informuoja pareiškėją ne vėliau kaip per 30 dienų nuo skundo gavimo ar tyrimo pradėjimo dienos. Dėl skundo ar tyrimo aplinkybių sudėtingumo arba dėl to, kad nagrinėjant ar tiriant skundą prireikia gauti papildomos informacijos, skundo nagrinėjimo ar tyrimo ir sprendimo priėmimo terminas gali būti pratęstas du kartus po 4 mėnesius.   
+Straipsnio dalies pakeitimai:
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
  
 
 
 
 
-2) įpareigoti aukštojo mokslo kvalifikaciją suteikusią ir (arba) konkursą pareigoms eiti vykdžiusią instituciją atšaukti sprendimą dėl aukštojo mokslo kvalifikacijos suteikimo ir (arba) konkurso laimėtojo;
-
-
-
-
-3) įpareigoti mokslo ir studijų institucijas pakeisti ar panaikinti sprendimus, prieštaraujančius akademinei etikai ir procedūroms; 
-Straipsnio punkto pakeitimai:
-Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+11. Skundui dėl akademinės etikos ar procedūrų pažeidimų su studijomis susijusioje veikloje pateikti nustatomas šešių mėnesių terminas nuo skundžiamų veiksmų padarymo ar skundžiamo sprendimo priėmimo. Skundai, pateikti praėjus šiam terminui, nenagrinėjami, jeigu kontrolierius nenusprendžia kitaip, vadovaudamasis Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnybos nuostatuose nustatyta tvarka. 
+Papildyta straipsnio dalimi:
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
  
 
 
 
 
-4) rekomenduoti darbuotojui atsisakyti dalyvauti vykdomame mokslinių tyrimų ir eksperimentinės plėtros projekte;
+12. Išnagrinėjęs skundą arba atlikęs tyrimą, kontrolierius priima sprendimą:
+
+
+1) konstatuoti akademinės etikos ir (ar) procedūrų pažeidimą;
 
 
 
 
-5) informuoti už atitinkamą valdymo sritį atsakingą instituciją apie nukentėjusius nuo akademinės etikos ir (arba) procedūrų pažeidimų asmenis (autorius);
+2) įpareigoti aukštojo mokslo kvalifikaciją suteikusią ir (arba) konkursą pareigoms eiti vykdžiusią instituciją atšaukti sprendimą dėl aukštojo mokslo kvalifikacijos suteikimo ir (arba) konkurso laimėtojo; 
 
 
 
 
-6) rekomenduoti mokslo ir studijų institucijoms imtis priemonių, kad būtų pašalinti akademinės etikos ir procedūrų pažeidimai ir jų priežastys; 
-Papildyta straipsnio punktu:
-Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+3) kreiptis į teismą, jeigu nevykdomas šios dalies 2 punkte nurodytas kontrolieriaus įpareigojimas;
+
+
+
+
+4) nenustačius pagrįstų akademinės etikos ir procedūrų pažeidimų, pripažinti skundą nepagrįstu; 
+
+
+
+
+5) neturint galimybės įvertinti akademinės etikos ir procedūrų pažeidimų, skundo nagrinėjimą ar tyrimą nutraukti;
+
+
+
+
+6) teikti rekomendaciją imtis priemonių, kad būtų pašalinti akademinės etikos ir (ar) procedūrų pažeidimai ir (ar) jų priežastys;
+
+
+
+
+7) informuoti teisėsaugos institucijas, jeigu nustatoma nusikalstamos veikos požymių. 
+
+
+Straipsnio dalies pakeitimai:
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
  
 
 
 
 
-7) įpareigoti mokslo (meno) darbų autorius pateikti kontrolieriui leidėjo patvirtinimą dėl mokslo (meno) darbų pašalinimo iš prekybos vietų ir techninių klaidų ištaisymo duomenų bazėse, kuriose teikiamos nuorodos į mokslo (meno) darbus; 
-Papildyta straipsnio punktu:
-Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+13. Kontrolieriaus veiklą užtikrina Akademinės etikos ir procedūrų kontrolieriaus tarnyba (toliau – Tarnyba). Tarnyba yra biudžetinė įstaiga. Tarnybos vadovas yra kontrolierius. Tarnybos nuostatus tvirtina Seimas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
  
 
 
 
 
-8) informuoti teisėsaugos institucijas, jeigu nustatoma nusikalstamos veikos požymių;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+14. Kontrolierius turi teisę gauti iš valstybės ir savivaldybės institucijų bei įstaigų ir organizacijų, valstybės registrų, kitų asmenų informaciją, būtiną nustatytoms funkcijoms atlikti.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
  
 
 
 
 
-9) kreiptis į teismą, jeigu nevykdomas šios dalies 2 punkte nurodytas kontrolieriaus įpareigojimas;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+15. Kontrolierius kartą per metus, iki kovo 1 dienos, atsiskaito Seimui už praėjusius kalendorinius metus ir teikia Tarnybos veiklos ataskaitą. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
  
 
 
 
 
-10) pripažinti skundą (pranešimą) nepagrįstu;
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+16. Kontrolieriaus darbo užmokesčio dydį ir apmokėjimo sąlygas nustato Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymas.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
  
 
 
 
 
-11) skundo (pranešimo) nagrinėjimą ar tyrimą nutraukti.
-Straipsnio punkto numeracijos pakeitimas:
-Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+17. Kontrolierius gali atsisakyti nagrinėti skundą dėl galimų akademinės etikos ir (ar) procedūrų pažeidimų ir, informavęs pareiškėją, perduoti šį skundą atitinkamai mokslo ir studijų institucijai, jeigu dėl tų pačių galimų akademinės etikos ir procedūrų pažeidimų nebuvo kreiptasi į atitinkamą mokslo ir studijų instituciją. Jeigu skundo nagrinėjimas gali sukelti viešųjų ir privačių interesų konfliktą, kontrolierius privalo apie tai informuoti Seimo valdybą ir pareikšti apie nusišalinimą. Tuo atveju, kai priimamas kontrolieriaus nusišalinimas ar jis nušalinamas nuo skundo nagrinėjimo, Seimo valdybos sprendimu skundui nagrinėti paskiriamas kitas kontrolierius ar akademinės etikos ir procedūrų kontrolieriui keliamus reikalavimus atitinkantis asmuo, kuris nagrinėja skundą šiame įstatyme, Lietuvos Respublikos viešojo administravimo įstatyme ir Tarnybos nuostatuose nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
  
 
 
 
 
-
-
-12. Kontrolieriaus veiklą užtikrina Akademinės etikos ir procedūrų kontrolieriaus tarnyba (toliau – Tarnyba). Tarnyba yra biudžetinė įstaiga. Tarnybos vadovas yra kontrolierius. Tarnybos nuostatus tvirtina Seimas.
-
-
-
-
-13. Kontrolierius turi teisę gauti iš valstybės ir savivaldybės institucijų bei įstaigų ir organizacijų, valstybės registrų, kitų asmenų informaciją, būtiną nustatytoms funkcijoms atlikti.
+18. Kontrolieriaus sprendimai skelbiami Tarnybos interneto svetainėje.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
+ 
 
 
 
 
-14. Kontrolierius kartą per metus, iki kovo 1 dienos, atsiskaito Seimui už savo ir Tarnybos veiklą, pateikdamas praėjusių kalendorinių metų veiklos ataskaitą. 
+19. Prireikus kontrolierių pavaduoja Seimo valdybos sprendimu paskirtas asmuo, atitinkantis kontrolieriui keliamus reikalavimus.
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
+ 
 
 
 
 
-15. Kontrolieriaus darbo užmokesčio dydį ir apmokėjimo sąlygas nustato Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymas.
-
-
-
-
-16. Kontrolierius gali atsisakyti nagrinėti skundą (pranešimą) dėl galimo akademinės etikos pažeidimo ir, informavęs pareiškėją, perduoti šį skundą (pranešimą) atitinkamos mokslo ir studijų institucijos akademinės etikos ar kitai ginčų nagrinėjimo komisijai, prižiūrinčiai akademinės etikos laikymąsi, jeigu dėl to paties galimo akademinės etikos pažeidimo nebuvo kreiptasi į atitinkamos mokslo ir studijų institucijos akademinės etikos ar kitą ginčų nagrinėjimo komisiją.
-
-
-
-
-17. Kontrolieriaus sprendimai skelbiami Tarnybos interneto svetainėje.
-
-
-
-
-18. Prireikus kontrolierių pavaduoja Seimo valdybos sprendimu paskirtas asmuo, atitinkantis kontrolieriui keliamus reikalavimus.
-
-
-
-
-19. Šio straipsnio 3 dalies 2, 3, 4, 5 ir 6 punktuose nustatytais atvejais tol, kol į kontrolieriaus vietą paskiriamas naujas kontrolierius, Seimas Švietimo ir mokslo komiteto teikimu gali pavesti laikinai eiti kontrolieriaus pareigas asmeniui, atitinkančiam kontrolieriui keliamus reikalavimus. 
+20. Šio straipsnio 3 dalies 2, 3, 4, 5 ir 6 punktuose nustatytais atvejais tol, kol į kontrolieriaus vietą paskiriamas naujas kontrolierius, Seimas Švietimo ir mokslo komiteto teikimu gali pavesti laikinai eiti kontrolieriaus pareigas asmeniui, atitinkančiam kontrolieriui keliamus reikalavimus. 
 Papildyta straipsnio dalimi:
 Nr. XIII-1133, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07485
 Straipsnio dalies pakeitimai:
 Nr. XIII-1368, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11697
+Straipsnio dalies numeracijos pakeitimas:
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
  
 
 
 
 
-20. Kontrolierius apie sprendime nustatytus akademinės etikos ir (arba) procedūrų pažeidimus informuoja atitinkamos mokslo ir studijų institucijos steigėją ir juridinio asmens dalyvius.
+21. Kontrolierius apie sprendime konstatuotus etikos ir (arba) procedūrų pažeidimus informuoja pareiškėją, atitinkamą mokslo ir studijų instituciją, Švietimo, mokslo ir sporto ministeriją, prireikus atitinkamos mokslo ir studijų institucijos steigėją ir savininko teises ir pareigas įgyvendinančią instituciją, taip pat kitus asmenis. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1133, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07485
  
@@ -1229,9 +1228,10 @@ Nr. XIII-1133, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07485
 
 
 
-21. Mokslo ir studijų institucija privalo pateikti kontrolieriui informaciją, kokių veiksmų bus imamasi, atsižvelgiant į kontrolieriaus sprendimą. Informacija kontrolieriui pateikiama nedelsiant priėmus sprendimus dėl priemonių, kurių bus imamasi, atsižvelgiant į kontrolieriaus sprendimą, bet ne vėliau kaip per 30 dienų nuo sprendimo gavimo dienos. 
+22. Mokslo ir studijų institucija per kontrolieriaus nustatytą terminą privalo pateikti kontrolieriui ir Švietimo, mokslo ir sporto ministerijai informaciją, kokių veiksmų ėmėsi, atsižvelgusi į kontrolieriaus sprendimą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-455, 2017-06-20, paskelbta TAR 2017-06-28, i. k. 2017-10912
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-1133, 2018-04-26, paskelbta TAR 2018-05-08, i. k. 2018-07485
  
@@ -5420,3 +5420,8 @@ Dėl Lietuvos Respublikos mokslo ir studijų įstatymo 75 straipsnio 2, 3 dali�
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-448, 2021-06-29, paskelbta TAR 2021-06-30, i. k. 2021-14797
 Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 75, 84 straipsnių pakeitimo ir Įstatymo papildymo 75-1, 75-2, 75-3 straipsniais įstatymas
+ 
+43.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4 ir 17 straipsnių pakeitimo įstatymas
