@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.95C4D287AAA9"
 
 # Lietuvos Respublikos Bendrojo pagalbos centro įstatymas
 
-Suvestinė redakcija nuo 2019-07-01 iki 2021-11-30
+Suvestinė redakcija nuo 2021-12-01
  
 Įstatymas paskelbtas: Žin. 2004, Nr. 90-3306, i. k. 1041010ISTA0IX-2246
  
@@ -64,7 +64,10 @@ Nr. X-589, 2006-05-02, Žin., 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA0
 2 straipsnis. Pagrindinės šio įstatymo sąvokos
 
 
-1. Iškvieta „eCall“ – pagalbos iškvieta skubiosios pagalbos tarnybų telefono numeriu 112, kai transporto priemonėje įrengta sistema suaktyvinama automatiškai (transporto priemonėje įrengtais jutikliais) arba rankiniu būdu ir per viešąjį judriojo ryšio tinklą užmezgamas ryšys tarp transporto priemonės ir Centro.
+1. Iškvieta „eCall“ – pagalbos iškvieta skubiosios pagalbos tarnybų ryšio numeriu 112, kai transporto priemonėje įrengta sistema suaktyvinama automatiškai (transporto priemonėje įrengtais jutikliais) arba rankiniu būdu ir per viešąjį mobiliojo ryšio tinklą užmezgamas ryšys tarp transporto priemonės ir Centro.
+Straipsnio dalies pakeitimai:
+Nr. XIV-637, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24232
+ 
 
 
 
@@ -79,12 +82,18 @@ Nr. X-589, 2006-05-02, Žin., 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA0
 
 
 
-4. Pagalbos prašymas – skubiosios pagalbos tarnybų telefono numeriu 112, iškvieta „eCall“ ar kitomis Centre įdiegtomis ryšio priemonėmis gaunamas prašymas pagal skubiosios pagalbos tarnybų kompetenciją suteikti pagalbą, kai pranešama apie šio straipsnio 9 dalyje nurodytas aplinkybes. 
+4. Pagalbos prašymas – skubiosios pagalbos tarnybų ryšio numeriu 112, iškvieta „eCall“ ar kitomis Centre įdiegtomis ryšio priemonėmis gaunamas prašymas pagal skubiosios pagalbos tarnybų kompetenciją suteikti pagalbą, kai pranešama apie šio straipsnio 9 dalyje nurodytas aplinkybes.
+Straipsnio dalies pakeitimai:
+Nr. XIV-637, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24232
+ 
 
 
 
 
-5. Pagalbos skambutis – viešųjų telefono ryšio paslaugų priemonėmis skubiosios pagalbos tarnybų telefono numeriu 112 sukuriamas sujungimas su Centru, suteikiantis dvipusio ryšio galimybę realiuoju laiku.
+5. Pagalbos skambutis – asmenų tarpusavio ryšio paslaugų priemonėmis skubiosios pagalbos tarnybų ryšio numeriu 112 sukuriamas sujungimas su Centru, suteikiantis abipusio ryšio galimybę realiuoju laiku.
+Straipsnio dalies pakeitimai:
+Nr. XIV-637, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24232
+ 
 
 
 
@@ -104,12 +113,18 @@ Nr. X-589, 2006-05-02, Žin., 2006, Nr. 57-2021 (2006-05-20), i. k. 1061010ISTA0
 
 
 
-9. Skubiosios pagalbos tarnybų telefono numeris 112 (toliau – numeris 112) – bendras telefono ryšio numeris, skirtas pranešti apie rengiamą, daromą ar padarytą teisės pažeidimą, staiga iškilusią grėsmę gyvybei, sveikatai, saugumui, aplinkai, materialiosioms ar nematerialiosioms vertybėms ir pagalbos tarnyboms iškviesti (išsikviesti).
+9. Skubiosios pagalbos tarnybų ryšio numeris 112 (toliau – numeris 112) – bendras ryšio numeris, skirtas pranešti apie rengiamą, daromą ar padarytą teisės pažeidimą, staiga iškilusią grėsmę gyvybei, sveikatai, saugumui, aplinkai, materialiosioms ar nematerialiosioms vertybėms ir pagalbos tarnyboms iškviesti (išsikviesti).
+Straipsnio dalies pakeitimai:
+Nr. XIV-637, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24232
+ 
 
 
 
 
-10. Šio straipsnio 1 ir 5 dalyse, šio įstatymo 7 straipsnyje, 8 straipsnio 1 ir 2 dalyse vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos elektroninių ryšių įstatyme. 
+10. Šio straipsnio 1 ir 5 dalyse, šio įstatymo 7 straipsnyje, 8 straipsnio 2 dalyje vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos elektroninių ryšių įstatyme.
+Straipsnio dalies pakeitimai:
+Nr. XIV-637, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24232
+ 
 
 
 Straipsnio pakeitimai:
@@ -171,7 +186,10 @@ Centro veikla grindžiama šiais principais:
 5 straipsnis. Centro veiklos viešumas
 
 
-1. Centras, nepažeisdamas įstatymais ginamų asmens ir visuomenės interesų, apie savo veiklą įstatymų ir kitų teisės aktų nustatyta tvarka informuoja valstybės ir savivaldybių institucijas, įstaigas ar įmones bei visuomenę.
+1. Centras, nepažeisdamas įstatymais ginamų asmens ir visuomenės interesų, apie savo veiklą įstatymų ir kitų teisės aktų nustatyta tvarka informuoja valstybės ir savivaldybių institucijas, įstaigas ar įmones bei visuomenę. Centras informuoja visuomenę, įskaitant būdus, prieinamus įvairių rūšių negalią turintiems asmenims, apie numerį 112 ir jo naudojimą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-637, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24232
+ 
 
 
 
@@ -198,10 +216,12 @@ Centras, įgyvendindamas jam nustatytus uždavinius, bendradarbiauja su valstyb�
 7 straipsnis. Pagalbos skambučių siuntimo užtikrinimas ir ryšio linijos, iš kurios skambinama, nustatymo draudimo netaikymas
 
 
-Visi viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjai privalo užtikrinti savo abonentų ir (ar) naudotojų pagalbos skambučių siuntimą į Centro numerius ir netaikyti Centrui ryšio linijos, iš kurios skambinama, nustatymo draudimo. Pagalbos skambučių siuntimo į Centro numerius ir ryšio linijos, iš kurios skambinama, nustatymo draudimo netaikymo Centrui tvarką ir sąlygas nustato elektroninių ryšių veiklą reglamentuojantys teisės aktai.
+Visi viešųjų elektroninių ryšių tinklų ir (ar) viešųjų su numeriu siejamų asmenų tarpusavio ryšio paslaugų teikėjai privalo užtikrinti savo galutinių paslaugų gavėjų pagalbos skambučių siuntimą į Centro ryšio numerius ir netaikyti Centrui ryšio linijos, iš kurios skambinama, nustatymo draudimo. Pagalbos skambučių siuntimo į Centro ryšio numerius ir ryšio linijos, iš kurios skambinama, nustatymo draudimo netaikymo Centrui tvarką ir sąlygas nustato elektroninių ryšių veiklą reglamentuojantys teisės aktai.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-637, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24232
  
-
-
 
 
 
@@ -214,7 +234,10 @@ Visi viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaug
 
 
 
-2. Visi viešųjų ryšių tinklų ir (ar) viešųjų elektroninių ryšių paslaugų teikėjai elektroninių ryšių veiklą reglamentuojančių teisės aktų nustatyta tvarka ir sąlygomis teikia Centrui skambinančiojo vietos nustatymo duomenis (įskaitant ir srauto duomenis) be abonento ar faktinio elektroninių ryšių paslaugų naudotojo sutikimo.
+2. Visi viešųjų elektroninių ryšių tinklų ir (ar) viešųjų su numeriu siejamų asmenų tarpusavio ryšio paslaugų teikėjai elektroninių ryšių veiklą reglamentuojančių teisės aktų nustatyta tvarka ir sąlygomis teikia Centrui skambinančiojo vietos nustatymo duomenis (įskaitant ir srauto duomenis) be abonento ar faktinio elektroninių ryšių paslaugų gavėjo sutikimo.
+Straipsnio dalies pakeitimai:
+Nr. XIV-637, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24232
+ 
 
 
 
@@ -526,6 +549,7 @@ RESPUBLIKOS PREZIDENTO PAREIGAS                        �
 
 
 
+ 
 Lietuvos Respublikos
 Bendrojo pagalbos centro įstatymo
 priedas
@@ -534,7 +558,10 @@ priedas
  
 
 
-1. 2002 m. kovo 7 d. Europos Parlamento ir Tarybos direktyva 2002/22/EB dėl universaliųjų paslaugų ir paslaugų gavėjų teisių, susijusių su elektroninių ryšių tinklais ir paslaugomis (Universaliųjų paslaugų direktyva) (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 367), su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/136/EB (OL 2009 L 337, p. 11).
+1. Neteko galios nuo 2021-12-01.
+Punkto pakeitimai:
+Nr. XIV-637, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24232
+ 
 
 
 
@@ -550,6 +577,14 @@ priedas
 
 
 4. 2012 m. lapkričio 26 d. Komisijos deleguotasis reglamentas (ES) Nr. 305/2013, kuriuo dėl sąveikios europinės pagalbos iškvietos paslaugos suderinto teikimo papildoma Europos Parlamento ir Tarybos direktyva 2010/40/ES (OL, 2013 L 91, p. 1). 
+
+
+
+
+5. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1972, kuria nustatomas Europos elektroninių ryšių kodeksas (nauja redakcija).
+Papildyta punktu:
+Nr. XIV-637, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24232
+ 
 
 
 Priedo pakeitimai:
@@ -573,3 +608,8 @@ Lietuvos Respublikos Bendrojo pagalbos centro įstatymo 2, 10, 16 straipsnių ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1901, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00796
 Lietuvos Respublikos Bendrojo pagalbos centro įstatymo Nr. IX-2246 2, 10, 15, 16 straipsnių, trečiojo skirsnio ir priedo pakeitimo įstatymas
+ 
+4.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-637, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24232
+Lietuvos Respublikos bendrojo pagalbos centro įstatymo Nr. IX-2246 2, 5, 7, 8 straipsnių ir priedo pakeitimo įstatymas
