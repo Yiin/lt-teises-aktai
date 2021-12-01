@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/420f4dd0927c11e9ae2e9d61b1f977b3"
 
 # Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas
 
-Suvestinė redakcija nuo 2021-11-26 iki 2021-11-30
+Suvestinė redakcija nuo 2021-12-01 iki 2022-07-07
  
 Įstatymas paskelbtas: TAR 2019-06-19, i. k. 2019-09862
  
@@ -2370,61 +2370,67 @@ Nustatomos šios vandens tiekimo ir nuotekų, paviršinių nuotekų tvarkymo inf
 
 
 VIENUOLIKTASIS SKIRSNIS
-VIEŠŲJŲ RYŠIŲ TINKLŲ ELEKTRONINIŲ RYŠIŲ INFRASTRUKTŪROS APSAUGOS ZONOS IR JOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS
+ELEKTRONINIŲ RYŠIŲ TINKLŲ ELEKTRONINIŲ RYŠIŲ INFRASTRUKTŪROS APSAUGOS ZONOS IR JOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS 
+Pakeistas skirsnio pavadinimas:
+Nr. XIV-643, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24263
  
 
 
-44 straipsnis. Viešųjų ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zonos
+44 straipsnis. Elektroninių ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zonos
 
 
-Nustatomos šios viešųjų ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zonos:
+Nustatomos šios elektroninių ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zonos:
 
 
-1) požeminių viešųjų ryšių tinklų laidinių linijų;
+1) požeminių elektroninių ryšių tinklų laidinių linijų;
 
 
 
 
-2) kitų viešųjų ryšių tinklų laidinių linijų;
+2) kitų elektroninių ryšių tinklų laidinių linijų;
 
 
 
 
 3) kitų elektroninių ryšių infrastruktūros objektų.
+
+
+
+
+Straipsnio pakeitimai:
+Nr. XIV-643, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24263
  
 
 
 
 
+45 straipsnis. Elektroninių ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zonų dydis
+
+
+1. Požeminių elektroninių ryšių tinklų laidinių linijų apsaugos zona – išilgai požeminių elektroninių ryšių tinklų laidinių linijų esanti žemės juosta, kurios ribos yra po vieną metrą į abi puses nuo šių laidinių linijų, vanduo virš jos ir žemė po šia juosta.
 
 
 
 
-45 straipsnis. Viešųjų ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zonų dydis
-
-
-1. Požeminių viešųjų ryšių tinklų laidinių linijų apsaugos zona – išilgai požeminių viešųjų ryšių tinklų laidinių linijų esanti žemės juosta, kurios ribos yra po 1 metrą į abi puses nuo šių laidinių linijų, vanduo virš jos ir žemė po šia juosta.
-
-
-
-
-2. Kitų viešųjų ryšių tinklų laidinių linijų apsaugos zona – išilgai kitų viešųjų ryšių tinklų laidinių linijų esanti žemės juosta, kurios ribos yra po 2 metrus į abi puses nuo šių laidinių linijų, oro erdvė virš jos ir žemė po šia juosta.
+2. Kitų elektroninių ryšių tinklų laidinių linijų apsaugos zona – išilgai kitų elektroninių ryšių tinklų laidinių linijų esanti žemės juosta, kurios ribos yra po 2 metrus į abi puses nuo šių laidinių linijų, oro erdvė virš jos ir žemė po šia juosta.
 
 
 
 
 3. Kitų elektroninių ryšių infrastruktūros objektų apsaugos zona – 2 metrų pločio žemės juosta aplink šiuos objektus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-643, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24263
  
 
 
 
 
+46 straipsnis. Specialiosios žemės naudojimo sąlygos elektroninių ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zonose
 
 
-46 straipsnis. Specialiosios žemės naudojimo sąlygos viešųjų ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zonose
-
-
-1. Viešųjų ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zonose, Statybos įstatyme, Teritorijų planavimo įstatyme ar Lietuvos Respublikos ryšių reguliavimo tarnybos nustatyta tvarka negavus elektroninių ryšių infrastruktūros savininko ar valdytojo pritarimo (derinimo) projektui ar numatomai veiklai, draudžiama:
+1. Elektroninių ryšių tinklų elektroninių ryšių infrastruktūros apsaugos zonose, Statybos įstatyme, Teritorijų planavimo įstatyme ar Lietuvos Respublikos ryšių reguliavimo tarnybos nustatyta tvarka negavus elektroninių ryšių infrastruktūros savininko ar valdytojo pritarimo (derinimo) projektui ar numatomai veiklai, draudžiama:
 
 
 1) statyti, rekonstruoti, griauti statinius ir įrengti, išardyti įrenginius;
@@ -2432,7 +2438,7 @@ Nustatomos šios viešųjų ryšių tinklų elektroninių ryšių infrastruktūr
 
 
 
-2) pilti druskas (išskyrus atvejus, kai druska barstomi keliai), sandėliuoti pašarus, trąšas, chemines ir kitas medžiagas, išskyrus medžiagas, skirtas viešųjų ryšių tinklų elektroninių ryšių infrastruktūros statybos darbams vykdyti;
+2) pilti druskas (išskyrus atvejus, kai druska barstomi keliai), sandėliuoti pašarus, trąšas, chemines ir kitas medžiagas, išskyrus medžiagas, skirtas elektroninių ryšių tinklų elektroninių ryšių infrastruktūros statybos darbams vykdyti;
 
 
 
@@ -2469,10 +2475,12 @@ Nustatomos šios viešųjų ryšių tinklų elektroninių ryšių infrastruktūr
 
 
 
-2. Elektroninių ryšių infrastruktūros savininkas ar valdytojas nepritaria projektui ar numatomai veiklai, jeigu šio straipsnio 1 dalyje nurodyti darbai trikdys viešojo ryšių tinklo ir (ar) viešųjų elektroninių ryšių paslaugų veikimą, pažeis viešojo ryšių tinklo ir (ar) viešųjų elektroninių ryšių paslaugų saugumą, viešojo ryšių tinklo vientisumą.
+2. Elektroninių ryšių infrastruktūros savininkas ar valdytojas nepritaria projektui ar numatomai veiklai, jeigu šio straipsnio 1 dalyje nurodyti darbai trikdys elektroninių ryšių tinklo ir (ar) elektroninių ryšių paslaugų veikimą, pažeis elektroninių ryšių tinklo ir (ar) elektroninių ryšių paslaugų saugumą, viešojo elektroninių ryšių tinklo vientisumą.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-643, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24263
  
-
-
 
 
 
@@ -4239,7 +4247,10 @@ ORNITOLOGINIUOSE DRAUSTINIUOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS
 
 
 
-2) tiesti antžemines viešųjų ryšių tinklų laidines linijas, elektros tinklų oro linijas ir oro kabelių linijas, statyti vėjo elektrines, įrengti automobilių stovėjimo aikšteles;
+2) tiesti antžemines elektroninių ryšių tinklų laidines linijas, elektros tinklų oro linijas ir oro kabelių linijas, statyti vėjo elektrines, įrengti automobilių stovėjimo aikšteles;
+Straipsnio punkto pakeitimai:
+Nr. XIV-643, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24263
+ 
 
 
 
@@ -4694,10 +4705,12 @@ KRAŠTOVAIZDŽIO DRAUSTINIUOSE TAIKOMOS SPECIALIOSIOS ŽEMĖS NAUDOJIMO SĄLYGOS
 83 straipsnis. Specialiosios žemės naudojimo sąlygos kraštovaizdžio draustiniuose
 
 
-Kraštovaizdžio draustiniuose draudžiama tiesti antžemines viešųjų ryšių tinklų laidines linijas, elektros oro linijas ir elektros kabelių oro linijas. 
+Kraštovaizdžio draustiniuose draudžiama tiesti antžemines elektroninių ryšių tinklų laidines linijas, elektros oro linijas ir elektros kabelių oro linijas.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-643, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24263
  
-
-
 
 
 
@@ -8609,19 +8622,19 @@ Pakeisti šio įstatymo 10 straipsnį ir jį išdėstyti taip:
 
 
 
-
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
  
 Respublikos Prezidentė                                                                                       Dalia Grybauskaitė
  
+
+ 
+
  
  
-
-
-
-
+part_81842afe7dbc48ed88c9852331502eee_end
+part_1f58dedaf4fc46b7b2cd42537b54ea02_end
 
 
 Lietuvos Respublikos specialiųjų žemės
@@ -8885,6 +8898,8 @@ Pastabos:
 
 
 
+
+ 
 
  
 Lietuvos Respublikos specialiųjų žemės
@@ -9419,9 +9434,10 @@ Gamybinių objektų sanitarinės apsaugos zonų dydIS
 Priedo pakeitimai:
 Nr. XIII-3264, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15776
  
+part_d53bb9ff9533402b97aa99b10592a35c_end
 
 
-
+ 
 
  
 Lietuvos Respublikos specialiųjų
@@ -9500,7 +9516,6 @@ Komunalinių objektų sanitarinės apsaugos zonų dydIS
 
 
 
-
 2 lentelė. Komunalinių objektų, nenurodytų 1 lentelėje, sanitarinės apsaugos zonų dydis
  
 
@@ -9569,12 +9584,13 @@ Komunalinių objektų sanitarinės apsaugos zonų dydIS
 
  
 * Reikalavimas taikomas Lietuvos Respublikos aplinkos ministerijos ar jos įgaliotos institucijos nustatytu laikotarpiu, kurio metu sąvartynas gali kelti pavojų aplinkai ir žmonių sveikatai.
+
+ 
+
  
  
-
-
-
-
+part_981f5a128ff640a2a4ed74fab4d7e972_end
+part_eb97384c32d141d580f2ff42063907e7_end
 
 
 Lietuvos Respublikos specialiųjų
@@ -9662,3 +9678,8 @@ Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-634, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24229
 Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 98 ir 105 straipsnių pakeitimo įstatymas
+ 
+6.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-643, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24263
+Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 44, 45, 46, 77, 83 straipsnių ir III skyriaus vienuoliktojo skirsnio pavadinimo pakeitimo įstatymas
