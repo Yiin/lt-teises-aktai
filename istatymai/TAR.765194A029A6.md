@@ -13,6 +13,13 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/765194a029a611eb932eb1ed7f923910"
 
 # Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir įstatymo papildymo 6-1 straipsniu įstatymas
 
+Suvestinė redakcija nuo 2021-12-03 iki 2022-12-29
+ 
+Įstatymas paskelbtas: TAR 2020-11-18, i. k. 2020-24269
+ 
+ 
+
+ 
 LIETUVOS RESPUBLIKOS
 KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO NR. VIII-2032 2, 6, 9 STRAIPSNIŲ IR 2, 5 PRIEDŲ PAKEITIMO
 ĮSTATYMAS
@@ -61,7 +68,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 
 6) transporto priemonėmis ar jų junginiais, naudojamais valstybinės reikšmės keliams prižiūrėti;
 
-7) užsienio šalyse įregistruotomis transporto priemonėmis ar jų junginiais, kai jomis vykstama likviduoti stichinių nelaimių ar eismo įvykių padarinių, kai jomis vežamos labdaros ir humanitarinės pagalbos siuntos;
+7) užsienio šalyse įregistruotomis transporto priemonėmis ar jų junginiais, kai jomis (jais) vykstama likviduoti stichinių nelaimių ar eismo įvykių padarinių, kai jomis (jais) vežamos labdaros ir humanitarinės pagalbos siuntos;
 
 8) krašto apsaugos sistemos ir užsienio valstybių ginkluotųjų pajėgų transporto priemonėmis ar jų junginiais;
 
@@ -77,7 +84,18 @@ b) jų metinės pajamos iš žemės ūkio veiklos sudaro daugiau kaip 50 procent
 
 c) kai gabena jiems priklausančius krovinius savo transporto priemonėmis ir turi važtaraštį, patvirtinantį, kad krovinio siuntėjas, gavėjas ir vežėjas sutampa;
 
-2) tolimojo reguliaraus susisiekimo maršrutais važiuojančioms keleivinėms transporto priemonėms.“
+2) tolimojo reguliaraus susisiekimo maršrutais važiuojančioms keleivinėms transporto priemonėms.
+
+5. Kelių rinkliava mokama Kelių rinkliavos sumokėjimo registravimo informacinėje sistemoje. Kelių rinkliavos lėšos yra akcinės bendrovės Lietuvos automobilių kelių direkcijos pajamos. Šios lėšos naudojamos:
+
+1) mokamų valstybinės reikšmės kelių priežiūrai ir plėtrai;
+
+2) kelių rinkliavos sistemos administravimui ir plėtrai;
+
+3) kelių rinkliavos sistemai sukurti ir įdiegti skirtai paskolai, jei bus suteikta valstybės garantija, grąžinti ir palūkanoms mokėti.“.
+
+Straipsnio pakeitimai:
+Nr. XIV-693, 2021-11-23, paskelbta TAR 2021-12-02, i. k. 2021-25031
  
 
 3 straipsnis. 9 straipsnio pakeitimas 
@@ -155,6 +173,7 @@ finansavimo įstatymo
 1. 1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę, su paskutiniais pakeitimais, padarytais 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/719.
 
 2. 1999 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra infrastruktūra su paskutiniais pakeitimais, padarytais 2011 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2011/76/EB.“
+ 
 
 6 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas 
 
@@ -166,13 +185,10 @@ finansavimo įstatymo
 
 4. Kelių rinkliavos sistemos metinės administravimo išlaidos neturi viršyti 10 procentų gautų metinių kelių rinkliavos pajamų. 
 
-5. Gautos lėšos iš kelių rinkliavos yra valstybės įmonės Lietuvos automobilių kelių direkcijos pajamos. Šios lėšos naudojamos:
-
-1) mokamų valstybinės reikšmės kelių priežiūrai ir plėtrai; 
-
-2) kelių rinkliavos sistemos administravimui ir plėtrai; 
-
-3) kelių rinkliavos sistemai sukurti ir įdiegti skirtai paskolai, jei bus suteikta valstybės garantija, grąžinti ir palūkanoms mokėti.
+5. Neteko galios nuo 2021-12-03
+Straipsnio dalies naikinimas:
+Nr. XIV-693, 2021-11-23, paskelbta TAR 2021-12-02, i. k. 2021-25031
+ 
 
 6. Iki šio įstatymo įsigaliojimo išduoti kelių naudotojo mokesčio sumokėjimą patvirtinantys dokumentai galioja Lietuvos Respublikos Vyriausybės nustatyta tvarka.
  
@@ -182,4 +198,13 @@ Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.
  
  
 Respublikos Prezidentas                                                                                          Gitanas Nausėda
+
+ 
+ 
+Pakeitimai:
+ 
+1.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-693, 2021-11-23, paskelbta TAR 2021-12-02, i. k. 2021-25031
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo įstatymo Nr. XIII-3420 2 ir 6 straipsnių pakeitimo įstatymas
 
