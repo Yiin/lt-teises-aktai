@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.41CD8BF53D8D"
 
 # Lietuvos Respublikos rinkliavų įstatymas
 
-Suvestinė redakcija nuo 2020-12-01 iki 2021-12-03
+Suvestinė redakcija nuo 2021-12-04 iki 2022-12-31
  
 Įstatymas paskelbtas: Žin. 2000, Nr. 52-1484; Žin. 2000, Nr.53-0, i. k. 1001010ISTAIII-1725
  
@@ -71,7 +71,9 @@ Nr. XIII-200, 2017-01-17, paskelbta TAR 2017-01-24, i. k. 2017-01327
 
 
 
-3. Vietinė rinkliava - savivaldybės tarybos sprendimu nustatyta privaloma įmoka, galiojanti tos savivaldybės teritorijoje.
+3. Vietinė rinkliava – savivaldybės tarybos sprendimu ir jos nustatyta tvarka nustatyta privaloma įmoka, galiojanti tos savivaldybės teritorijoje.
+Straipsnio dalies pakeitimai:
+Nr. XIV-702, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25130
  
 
 
@@ -654,10 +656,10 @@ Nr. XII-304, 2013-05-14, Žin., 2013, Nr. 57-2848 (2013-06-01)
 12 straipsnis. Vietinių rinkliavų nustatymas
 
 
-Savivaldybės taryba savo sprendimu tvirtina vietinės rinkliavos nuostatus, kuriuose nustato:
+1. Savivaldybės taryba savo sprendimu tvirtina vietinės rinkliavos nuostatus, kuriuose nustato:
 
 
-1) vietinės rinkliavos dydį;
+1) vietinės rinkliavos dydį ir, jeigu ji pasirenka šio įstatymo 11 straipsnio 1 dalies 2 ir (ar) 3 punktuose nurodytus leidimus išduoti organizuodama viešąjį konkursą, viešojo konkurso organizavimo ir vietinės rinkliavos dydžio nustatymo tvarką;
 
 
 
@@ -682,14 +684,20 @@ Savivaldybės taryba savo sprendimu tvirtina vietinės rinkliavos nuostatus, kur
 
 
 
-6) vietinės rinkliavos, nustatytos šio įstatymo 11 straipsnio 1 dalies 8 punkte, mokėtojui numatytos teikti paslaugos kokybės reikalavimus ir (ar) teikimo sąlygas (apimtį, asortimentą, terminus, periodiškumą ir kita), taip pat kriterijus ir subjektą, įgaliotą vertinti (nustatyti), ar yra (nėra) pažeisti šios paslaugos teikimo kokybės reikalavimai ir (ar) teikimo sąlygos. 
+6) vietinės rinkliavos, nustatytos šio įstatymo 11 straipsnio 1 dalies 8 punkte, mokėtojui numatytos teikti paslaugos kokybės reikalavimus ir (ar) teikimo sąlygas (apimtį, asortimentą, terminus, periodiškumą ir kita), taip pat kriterijus ir subjektą, įgaliotą vertinti (nustatyti), ar yra (nėra) pažeisti šios paslaugos teikimo kokybės reikalavimai ir (ar) teikimo sąlygos.
 
 
+
+
+
+
+2. Jeigu savivaldybės taryba yra nusprendusi šio įstatymo 11 straipsnio 1 dalies 2 ir (ar) 3 punktuose nurodytus leidimus išduoti organizuodama viešąjį konkursą ir yra nustačiusi šių leidimų išdavimo viešojo konkurso organizavimo tvarką, vietinės rinkliavos dydžiu laikoma didžiausia viešajame konkurse pasiūlyta suma.
 
 
 Straipsnio pakeitimai:
 Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
 Nr. XIII-2495, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17225
+Nr. XIV-702, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25130
  
 
 
@@ -1157,3 +1165,8 @@ Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 1, 6, 6-1, 8 straipsnių
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3391, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24540
 Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6 straipsnio pakeitimo įstatymas
+ 
+19.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-702, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25130
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 2 ir 12 straipsnių pakeitimo įstatymas
