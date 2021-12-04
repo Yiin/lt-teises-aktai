@@ -20,7 +20,7 @@ Redagavo: Ramunė Lūžaitė (1997
 
 
 
-Suvestinė redakcija nuo 2021-10-16 iki 2021-12-03
+Suvestinė redakcija nuo 2021-12-04 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1996, Nr. 68-1633, i. k. 0961010ISTA00I-1428
  
@@ -1373,7 +1373,10 @@ Nr. XII-403, 2013-06-25, Žin., 2013, Nr. 75-3755 (2013-07-13)
 
 
 
-4. Jei likvidavimo pagrindas yra teismo ar kreditorių susirinkimo sprendimas likviduoti bankrutavusią viešąją įstaigą, ji likviduojama Įmonių bankroto įstatymo nustatyta tvarka.
+4. Jeigu likvidavimo pagrindas yra teismo ar kreditorių susirinkimo sprendimas likviduoti bankrutavusią viešąją įstaigą, ji likviduojama Lietuvos Respublikos juridinių asmenų nemokumo įstatymo nustatyta tvarka. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-683, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25108
+ 
 
 
 
@@ -1646,3 +1649,8 @@ Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 8-1 straipsnio pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-547, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21634
 Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 11-1 straipsnio pakeitimo įstatymas
+ 
+11.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-683, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25108
+Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 9, 10, 11, 11-1, 12, 13, 15, 17 ir 18 straipsnių pakeitimo įstatymas
