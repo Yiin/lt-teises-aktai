@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.57E0E8B29108"
 
 # Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas
 
-Suvestinė redakcija nuo 2021-12-01 iki 2021-12-03
+Suvestinė redakcija nuo 2021-12-04 iki 2022-03-23
  
 Įstatymas paskelbtas: Žin. 2002, Nr. 103-4604, i. k. 1021010ISTA0IX-1132
  
@@ -834,7 +834,10 @@ Nr. XIII-2708, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21555
 13 straipsnis. Sandorių atitikties nacionalinio saugumo interesams patikra
 
 
-1. Nacionaliniam saugumui užtikrinti svarbios įmonės Komisijos darbo tvarkos apraše nustatyta tvarka privalo pranešti Komisijai apie ketinamus sudaryti sandorius ar esminius jau sudarytų sandorių pakeitimus, kai sandorio vertė viršija 10 procentų praėjusių finansinių metų metinių įmonės pajamų, išskyrus šio straipsnio 8 dalyje nurodytus sandorius. Šioje dalyje nurodyta sandorio vertė skaičiuojama be pridėtinės vertės mokesčio. Apie sandorio sudarymą taip pat privalo pranešti ypatingos svarbos informacinės infrastruktūros valdytojai pagal Viešųjų pirkimų įstatymą ar Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymą, neatsižvelgdami į sandorio vertę, jeigu konkurso metu buvo keliami reikalavimai dėl tiekėjų, subtiekėjų, prekių, paslaugų ar darbų atitikties nacionalinio saugumo interesams.
+1. Nacionaliniam saugumui užtikrinti svarbios įmonės Komisijos darbo tvarkos apraše nustatyta tvarka privalo pranešti Komisijai apie ketinamus sudaryti sandorius ar esminius jau sudarytų sandorių pakeitimus, kai sandorio vertė viršija 10 procentų praėjusių finansinių metų metinių įmonės pajamų, išskyrus šio straipsnio 8 dalyje nurodytus sandorius. Šioje dalyje nurodyta sandorio vertė skaičiuojama be pridėtinės vertės mokesčio. Apie sandorio sudarymą taip pat privalo pranešti ypatingos svarbos informacinės infrastruktūros valdytojai pagal Viešųjų pirkimų įstatymą ar Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymą, neatsižvelgdami į sandorio vertę, jeigu konkurso metu buvo keliami reikalavimai dėl tiekėjų, subtiekėjų, prekių, paslaugų ar darbų atitikties nacionalinio saugumo interesams. Nacionaliniam saugumui užtikrinti svarbios įmonės Komisijos darbo tvarkos apraše nustatyta tvarka privalo pranešti Komisijai apie ketinamus sudaryti sandorius, nurodytus Lietuvos Respublikos būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymo 4 straipsnio 4 dalyje, ar esminius tokių jau sudarytų sandorių pakeitimus, neatsižvelgdamos į sandorio vertę.
+Straipsnio dalies pakeitimai:
+Nr. XIV-668, 2021-11-18, paskelbta TAR 2021-12-03, i. k. 2021-25102
+ 
 
 
 
@@ -2089,3 +2092,8 @@ Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaug
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-642, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24253
 Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 13-2 ir 19 straipsnių pakeitimo įstatymas
+ 
+27.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-668, 2021-11-18, paskelbta TAR 2021-12-03, i. k. 2021-25102
+Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo Nr. IX-1132 13 straipsnio pakeitimo įstatymas
