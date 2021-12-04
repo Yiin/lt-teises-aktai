@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.58146A37675A"
 
 # Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-03
+Suvestinė redakcija nuo 2021-12-04 iki 2023-04-30
  
 Įstatymas paskelbtas: Žin. 1999, Nr. 82-2414, i. k. 0991010ISTAIII-1328
  
@@ -527,9 +527,10 @@ Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
 
 
 
-9. Tarybą, tvirtinamą Seimo nutarimu, sudaro 21 narys. Į Tarybą juos deleguoja su etninės kultūros globa bei plėtra tiesiogiai susijusios institucijos ir organizacijos, teikdamos Seimui tvirtinti po vieną narį, turintį ne mažesnę kaip 3 metų patirtį etninės kultūros srityje: Lietuvių literatūros ir tautosakos institutas, Lietuvos istorijos institutas, Lietuvos tautodailininkų sąjunga, Lietuvių etninės kultūros draugija, Lietuvos kraštotyros draugija, Lietuvos ramuvų sąjunga, Lietuvių katalikų mokslo akademija, Lietuvos etninės kultūros ugdytojų sąjunga, Lietuvos muzikos ir teatro akademija, Klaipėdos universitetas, Šiaulių universitetas, Vytauto Didžiojo universitetas, Lietuvos liaudies buities muziejus, Lietuvos nacionalinis kultūros centras, Vilniaus etninės kultūros centras, Kauno tautinės kultūros centras ir šio straipsnio 10 dalyje nurodytos regioninės etninės kultūros globos tarybos (toliau – regioninės tarybos). Tarybos kadencija – 4 metai. Tarybos nariai pareigas eina tol, kol Seimas patvirtina naujos kadencijos Tarybos sudėtį. Naujos kadencijos Taryba pradedama sudaryti Etninės kultūros globos tarybos nuostatuose nustatyta tvarka ne vėliau kaip likus 2 mėnesiams iki senosios sudėties Tarybos kadencijos pabaigos. 
+9. Tarybą, tvirtinamą Seimo nutarimu, sudaro 21 narys. Į Tarybą juos deleguoja su etninės kultūros globa bei plėtra tiesiogiai susijusios institucijos ir organizacijos, teikdamos Seimui tvirtinti po vieną narį, turintį ne mažesnę kaip 3 metų patirtį etninės kultūros srityje: Lietuvių literatūros ir tautosakos institutas, Lietuvos istorijos institutas, Lietuvos tautodailininkų sąjunga, Lietuvių etninės kultūros draugija, Lietuvos kraštotyros draugija, Lietuvos ramuvų sąjunga, Lietuvių katalikų mokslo akademija, Lietuvos etninės kultūros ugdytojų sąjunga, Lietuvos muzikos ir teatro akademija, Klaipėdos universitetas, Vilniaus universiteto Šiaulių akademija, Vytauto Didžiojo universitetas, Lietuvos liaudies buities muziejus, Lietuvos nacionalinis kultūros centras, Vilniaus etninės kultūros centras, Kauno tautinės kultūros centras ir šio straipsnio 10 dalyje nurodytos regioninės etninės kultūros globos tarybos (toliau – regioninės tarybos). Tarybos kadencija – 4 metai. Tarybos nariai pareigas eina tol, kol Seimas patvirtina naujos kadencijos Tarybos sudėtį. Naujos kadencijos Taryba pradedama sudaryti Etninės kultūros globos tarybos nuostatuose nustatyta tvarka ne vėliau kaip likus 2 mėnesiams iki senosios sudėties Tarybos kadencijos pabaigos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2540, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19040
+Nr. XIV-715, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25142
  
 
 
@@ -1058,3 +1059,8 @@ Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
 Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 6-1 ir 8 straipsnių pakeitimo įstatymas
+ 
+9.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-715, 2021-11-25, paskelbta TAR 2021-12-03, i. k. 2021-25142
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 6-1 straipsnio pakeitimo įstatymas
