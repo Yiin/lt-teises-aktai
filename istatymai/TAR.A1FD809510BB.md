@@ -20,7 +20,7 @@ LIETUVOS RESPUBLIKOS MAŽŲJŲ BENDRIJŲ ĮSTATYMAS
 
 
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-03
+Suvestinė redakcija nuo 2021-12-04 iki 2022-04-30
  
 Įstatymas paskelbtas: Žin. 2012, Nr. 83-4333, i. k. 1121010ISTA0XI-2159
  
@@ -1669,7 +1669,10 @@ Nr. XII-1075, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10456
 
 
 
-4. Bankrutavusi mažoji bendrija likviduojama Lietuvos Respublikos įmonių bankroto įstatyme nustatyta tvarka.
+4. Bankrutavusi mažoji bendrija likviduojama Lietuvos Respublikos juridinių asmenų nemokumo įstatymo nustatyta tvarka.
+Straipsnio dalies pakeitimai:
+Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
+ 
 
 
 
@@ -1886,3 +1889,8 @@ Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 7 straipsnio pake
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-244, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08851
 Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1 straipsnio pakeitimo įstatymas
+ 
+8.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 13, 21, 23 ir 30 straipsnių pakeitimo įstatymas
