@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/baeac2202f3c11e78397ae072f58c508"
 
 # Lietuvos Respublikos būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymas
 
-Suvestinė redakcija nuo 2020-01-01 iki 2021-12-03
+Suvestinė redakcija nuo 2021-12-04
  
 Įstatymas paskelbtas: TAR 2017-05-02, i. k. 2017-07282
  
@@ -26,8 +26,6 @@ BŪTINŲJŲ PRIEMONIŲ, SKIRTŲ APSISAUGOTI NUO TREČIŲJŲ ŠALIŲ NESAUGIŲ BR
  
 2017 m. balandžio 20 d. Nr. XIII-306
 Vilnius
- 
- 
  
  
 
@@ -166,6 +164,14 @@ Nr. XIII-2705, 2019-12-19, paskelbta TAR 2019-12-27, i. k. 2019-21326
 
 
 
+4. Asmenų, dalyvaujančių įstatymu pripažintos nesaugia branduolinės elektrinės statyboje trečiojoje šalyje ar jos veikloje, su tokios elektrinės veikla susijusios elektros energetikos infrastruktūros plėtros projektuose, arba jų kontroliuojamų asmenų ir nacionaliniam saugumui užtikrinti svarbių įmonių sudarytiems sandoriams dėl Lietuvos Respublikoje įgyvendinamų energetikos sistemos projektų yra taikoma Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 13 straipsnyje numatyta sandorių atitikties nacionalinio saugumo interesams patikra.
+Papildyta straipsnio dalimi:
+Nr. XIV-669, 2021-11-18, paskelbta TAR 2021-12-03, i. k. 2021-25105
+ 
+
+
+
+
 
 
 5 straipsnis. Apsaugos priemonių įgyvendinimo nuostatos ir etapai
@@ -220,3 +226,8 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2705, 2019-12-19, paskelbta TAR 2019-12-27, i. k. 2019-21326
 Lietuvos Respublikos būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymo Nr. XIII-306 3 ir 4 straipsnių pakeitimo įstatymas
+ 
+2.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-669, 2021-11-18, paskelbta TAR 2021-12-03, i. k. 2021-25105
+Lietuvos Respublikos būtinųjų priemonių, skirtų apsisaugoti nuo trečiųjų šalių nesaugių branduolinių elektrinių keliamų grėsmių, įstatymo Nr. XIII-306 4 straipsnio pakeitimo įstatymas
