@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/422c8b5042b811e6a8ae9e1795984391"
 
 # Lietuvos Respublikos užimtumo įstatymas
 
-Suvestinė redakcija nuo 2021-07-01 iki 2021-12-28
+Suvestinė redakcija nuo 2021-12-29 iki 2022-01-31
  
 Įstatymas paskelbtas: TAR 2016-07-05, i. k. 2016-18825
  
@@ -621,7 +621,10 @@ Užimtu yra laikomas asmuo, kuris vykdo šią neatlygintiną veiklą:
 10 straipsnis. Savanoriška praktika
 
 
-1. Asmenys iki 29 metų turi teisę sudaryti savanoriškos praktikos sutartis su įmonėmis, įstaigomis, organizacijomis ar kitomis organizacinėmis struktūromis (toliau – įmonė), kuriose atliekama savanoriška praktika. 
+1. Asmenys turi teisę sudaryti savanoriškos praktikos sutartis su įmonėmis, įstaigomis, organizacijomis ar kitomis organizacinėmis struktūromis (toliau – įmonė), kuriose atliekama savanoriška praktika.
+Straipsnio dalies pakeitimai:
+Nr. XIV-811, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27389
+ 
 
 
 
@@ -4435,3 +4438,8 @@ Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 5-1, 25, 35, 41, 42, 43 ir
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-379, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13523
 Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 56 ir 57 straipsnių pakeitimo įstatymas
+ 
+26.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-811, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27389
+Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 10 straipsnio pakeitimo įstatymas
