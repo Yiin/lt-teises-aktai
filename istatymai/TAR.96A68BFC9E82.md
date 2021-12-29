@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-01-01 iki 2021-12-28
+Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 43-772, i. k. 0941010ISTA000I-464
  
@@ -97,7 +97,10 @@ Vyriausybė savo veiklą grindžia kolegialumo, demokratijos, teisėtumo ir vie�
 5 straipsnis. Vyriausybės atsakomybė ir atskaitomybė
 
 
-1. Vyriausybė solidariai atsako Seimui už bendrą savo veiklą. Vyriausybė ne rečiau kaip kartą per metus pateikia Seimui savo metinę veiklos ataskaitą.
+1. Vyriausybė solidariai atsako Seimui už bendrą savo veiklą. Vyriausybė ne rečiau kaip kartą per metus pateikia Seimui metinę Vyriausybės veiklos ataskaitą.
+Straipsnio dalies pakeitimai:
+Nr. XIV-788, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27364
+ 
 
 
 
@@ -2541,3 +2544,8 @@ Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 37, 38 ir 42 straipsnių p
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3409, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24576
 Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 29-1 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-788, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27364
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 5 straipsnio pakeitimo įstatymas
