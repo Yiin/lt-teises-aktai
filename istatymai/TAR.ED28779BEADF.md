@@ -13,7 +13,7 @@ etar_url: "https://e-tar.lt/portal/lt/legalAct/TAR.ED28779BEADF"
 
 # Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas
 
-Suvestinė redakcija nuo 2020-06-15 iki 2021-12-28
+Suvestinė redakcija nuo 2021-12-29 iki 2021-12-31
  
 Įstatymas paskelbtas: Žin. 2003, Nr. 74-3424, i. k. 1031010ISTA0IX-1709
  
@@ -568,7 +568,18 @@ Nr. XIII-2654, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20824
 
 
 
-6. Valdymo įmonei, turinčiai teisę verstis šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodyta veikla, mutatis mutandis taikomi Finansinių priemonių rinkų įstatymo 16 ir 28–31 straipsniuose nustatyti reikalavimai ir juos įgyvendinantys priežiūros institucijos teisės aktai. Taikant pirmiau minėtus Finansinių priemonių rinkų įstatymo reikalavimus, atsižvelgiama į Finansinių priemonių rinkų įstatymo 2 straipsnio 7 dalies nuostatas.
+6. Valdymo įmonė turi teisę savo veikloje, neperžengdama licencijoje jai nustatytų teisių, pasitelkti priklausomus tarpininkus ir šiuo tikslu mutatis mutandis turi vadovautis Finansinių priemonių rinkų įstatymo 16 straipsnio 1 dalies ir 36 straipsnio nuostatomis. Valdymo įmonei, turinčiai teisę verstis šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodyta veikla, mutatis mutandis taikomi Finansinių priemonių rinkų įstatymo 16 ir 28–31 straipsniuose nustatyti reikalavimai ir juos įgyvendinantys priežiūros institucijos teisės aktai. Taikant pirmiau nurodytus Finansinių priemonių rinkų įstatymo reikalavimus, atsižvelgiama į Finansinių priemonių rinkų įstatymo 2 straipsnio 7 dalies nuostatas. 
+Straipsnio dalies pakeitimai:
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
+ 
+
+
+
+
+61. Šio straipsnio 6 dalyje ir šio įstatymo 21 straipsnio 6 dalyje nurodyti priklausomi tarpininkai suprantami kaip fiziniai ar juridiniai asmenys, kurie, veikdami išimtinai vienos valdymo įmonės vardu ir šiai įmonei esant visapusiškai ir besąlygiškai atsakingai už jos priklausomo tarpininko veiksmus ar neveikimą, kiek tai susiję su priklausomo tarpininko veikla valdymo įmonės vardu, turi teisę teikti tik tas Finansinių priemonių rinkų įstatymo 36 straipsnio 1 dalyje nurodytas paslaugas, kurias turi teisę teikti ta valdymo įmonė pagal jai išduotą licenciją.
+Papildyta straipsnio dalimi:
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
+ 
 
 
 
@@ -1760,6 +1771,14 @@ Priežiūros institucija nustato:
 
 
 
+6. Kai valdymo įmonė savo veiklai vykdyti pasitelkia priklausomus tarpininkus, tai nėra laikoma kolektyvinio investavimo subjekto valdymo funkcijos – rinkodaros, įskaitant platinimą, pavedimu. Valdymo įmonė visapusiškai ir besąlygiškai atsako už priklausomo tarpininko veiksmus ar neveikimą, kiek tai susiję su priklausomo tarpininko veikla valdymo įmonės vardu.
+Papildyta straipsnio dalimi:
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
+ 
+
+
+
+
 
 
 22 straipsnis. Draudimas perleisti investicinį fondą sudarantį ar investicinei bendrovei priklausantį turtą
@@ -2207,10 +2226,11 @@ Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
 34 straipsnis. Reklaminio pobūdžio informacija 
 
 
-1. Investuotojams skirta reklaminio pobūdžio informacija turi būti aiškiai atpažįstama. Ji turi būti teisinga, aiški ir neklaidinanti. Reklaminio pobūdžio informacijoje, kuria siūloma įsigyti kolektyvinio investavimo subjekto investicinių vienetų ar akcijų ir kurioje pateikiama informacija apie kolektyvinio investavimo subjektą, neturi būti teiginių, prieštaraujančių atitinkamo kolektyvinio investavimo subjekto prospekte ir pagrindinės informacijos investuotojams dokumente pateiktai informacijai arba sumenkinančių tokios informacijos svarbą. Reklaminio pobūdžio informacijoje turi būti nurodoma, kad yra parengtas prospektas ir pagrindinės informacijos investuotojams dokumentas, taip pat vietos, kur ir kokia kalba investuotojai gali juos gauti arba su jais susipažinti. Rengiant investuotojams reklaminio pobūdžio informaciją ir ją viešinant, turi būti vadovaujamasi šio įstatymo, Reglamento (ES) 2017/1129 ir Reglamento (ES) 2019/1156 nuostatomis. 
+1. Rengiant investuotojams skirtą reklaminio pobūdžio informaciją ir ją viešinant, turi būti vadovaujamasi šio įstatymo, Reglamento (ES) 2017/1129 ir Reglamento (ES) 2019/1156 nuostatomis.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2360, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11982
 Nr. XIII-2654, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20824
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
  
 
 
@@ -5518,7 +5538,10 @@ LIETUVOS RESPUBLIKOJE LICENCIJUOTŲ VALDYMO ĮMONIŲ IR INVESTICINIŲ KINTAMOJO 
 
 
 
-7. Jeigu keičiasi kartu su pranešimu apie filialo steigimą valdymo įmonės perduota informacija, apie tai valdymo įmonė turi raštu pranešti priežiūros institucijai ir kitos valstybės narės ar trečiosios valstybės priežiūros institucijai iš anksto, ne vėliau kaip prieš vieną mėnesį. Tokiu atveju, kai yra šio straipsnio 3 dalyje nurodytas pagrindas, priežiūros institucija turi nurodyti nutraukti filialo veiklą. Priežiūros institucija turi pranešti kitos valstybės narės ar trečiosios valstybės priežiūros institucijai apie įsipareigojimų investuotojams draudimo sistemos pasikeitimus ar kitos perduotos informacijos pasikeitimus. Jeigu keičiasi priežiūros institucijai pateikta šio straipsnio 4 dalyje nurodyta informacija, kitoje valstybėje narėje ar trečiojoje valstybėje veiklą vykdanti neįsteigusi filialo valdymo įmonė apie tai privalo iš anksto raštu pranešti priežiūros institucijai ir atitinkamos kitos valstybės narės ar trečiosios valstybės priežiūros institucijai.
+7. Jeigu keičiasi kartu su pranešimu apie filialo steigimą valdymo įmonės perduota informacija, apie tai valdymo įmonė turi raštu pranešti priežiūros institucijai ir kitos valstybės narės ar trečiosios valstybės priežiūros institucijai iš anksto, ne vėliau kaip prieš vieną mėnesį. Tokiu atveju, kai yra šio straipsnio 3 dalyje nurodytas pagrindas, priežiūros institucija turi nurodyti nutraukti filialo veiklą. Jeigu pasikeitus pranešime apie filialo steigimą pateiktai informacijai valdymo įmonė nebeatitinka šio įstatymo reikalavimų, priežiūros institucija per 15 darbo dienų nuo visos informacijos gavimo dienos praneša valdymo įmonei, kad ji negali atlikti tokio pakeitimo, ir apie tai informuoja kitos valstybės narės ar trečiosios valstybės priežiūros instituciją. Pastebėjusi, kad pasikeitus pranešime apie filialo steigimą pateiktai informacijai valdymo įmonė nebeatitinka šio įstatymo reikalavimų, priežiūros institucija reikalauja nutraukti bet kokią veiklą, kuri pažeidžia šio įstatymo nuostatas, ir prireikus imasi kitų šio įstatymo 164 straipsnyje nustatytų veiksmų bei nepagrįstai nedelsdama, ne vėliau kaip per 5 darbo dienas, informuoja priimančiosios valstybės narės ar trečiosios valstybės priežiūros instituciją apie priemones, kurių imtasi. Priežiūros institucija turi pranešti kitos valstybės narės ar trečiosios valstybės priežiūros institucijai apie įsipareigojimų investuotojams draudimo sistemos pasikeitimus ar kitos perduotos informacijos pasikeitimus. Jeigu keičiasi priežiūros institucijai pateikta šio straipsnio 4 dalyje nurodyta informacija, kitoje valstybėje narėje ar trečiojoje valstybėje veiklą vykdanti neįsteigusi filialo valdymo įmonė apie tai privalo iš anksto raštu pranešti priežiūros institucijai ir atitinkamos kitos valstybės narės ar trečiosios valstybės priežiūros institucijai.
+Straipsnio dalies pakeitimai:
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
+ 
 
 
 
@@ -5567,10 +5590,10 @@ LIETUVOS RESPUBLIKOJE LICENCIJUOTŲ VALDYMO ĮMONIŲ IR INVESTICINIŲ KINTAMOJO 
 
 
 
-119 straipsnis. Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimas kitoje valstybėje narėje ar trečiojoje valstybėje
+119 straipsnis. Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimas kitoje valstybėje narėje ar trečiojoje valstybėje ir platinimo nutraukimas 
 
 
-1. Valdymo įmonė, ketinanti kitoje valstybėje narėje platinti kolektyvinio investavimo subjekto investicinius vienetus ar akcijas, privalo priežiūros institucijai jos nustatyta tvarka pateikti pranešimą, parengtą pagal 2010 m. liepos 1 d. Europos Komisijos reglamento (ES) Nr. 584/2010, kuriuo įgyvendinamos Europos Parlamento ir Tarybos direktyvos 2009/65/EB nuostatos dėl standartinio pranešimo ir KIPVPS pažymos formos ir turinio, dėl kompetentingų institucijų elektroninių ryšių naudojimo taikant pranešimų teikimo tvarką, dėl patikrų vietoje ir tyrimų tvarkos ir dėl kompetentingų institucijų keitimosi informacija tvarkos (toliau – Reglamentas (ES) Nr. 584/2010), I priedą. Pranešime, be kita ko, turi būti pateikiama informacija apie kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimo tvarką šio subjekto priimančiojoje valstybėje narėje, įskaitant, jeigu taikoma, informaciją apie atskirų klasių ir (arba) serijų investicinių vienetų ar akcijų platinimo ypatumus.
+1. Valdymo įmonė, ketinanti kitoje valstybėje narėje platinti kolektyvinio investavimo subjekto investicinius vienetus ar akcijas, privalo priežiūros institucijai jos nustatyta tvarka pateikti pranešimą, parengtą pagal 2010 m. liepos 1 d. Europos Komisijos reglamento (ES) Nr. 584/2010, kuriuo įgyvendinamos Europos Parlamento ir Tarybos direktyvos 2009/65/EB nuostatos dėl standartinio pranešimo ir KIPVPS pažymos formos ir turinio, dėl kompetentingų institucijų elektroninių ryšių naudojimo taikant pranešimų teikimo tvarką, dėl patikrų vietoje ir tyrimų tvarkos ir dėl kompetentingų institucijų keitimosi informacija tvarkos, I priedą. Pranešime, be kita ko, turi būti pateikiama informacija apie kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimo tvarką šio subjekto priimančiojoje valstybėje narėje, įskaitant, jeigu taikoma, informaciją apie atskirų klasių ir (arba) serijų investicinių vienetų ar akcijų platinimo ypatumus. Pranešime taip pat nurodoma informacija, įskaitant adresą, būtina sąskaitai faktūrai išrašyti arba norint pranešti apie bet kokius priimančiosios valstybės narės priežiūros institucijos taikomus teisės aktuose nustatytus mokesčius ar rinkliavas, taip pat pateikiama informacija apie šio straipsnio 11 dalyje nustatytų galimybių užtikrinimo priemones.
 
 
 
@@ -5578,12 +5601,12 @@ LIETUVOS RESPUBLIKOJE LICENCIJUOTŲ VALDYMO ĮMONIŲ IR INVESTICINIŲ KINTAMOJO 
 2. Kartu su šio straipsnio 1 dalyje nurodytu pranešimu turi būti pateikiamos naujausios šių kolektyvinio investavimo subjektų dokumentų redakcijos:
 
 
-1) steigimo dokumentai, prospektas, naujausia metų ataskaita ir pusmečio ataskaita, jeigu tokia parengta po metų ataskaitos, šių dokumentų vertimai, pateikti šio straipsnio 11 dalies 3 punkte ir 12 dalyje nustatyta tvarka;
+1) steigimo dokumentai, prospektas, naujausia metų ataskaita ir pusmečio ataskaita, jeigu tokia parengta po metų ataskaitos, šių dokumentų vertimai, pateikti šio straipsnio 15 dalies 3 punkte ir 16 dalyje nustatyta tvarka;
 
 
 
 
-2) pagrindinės informacijos investuotojams dokumentas kartu su jo vertimu, pateiktu šio straipsnio 11 dalies 2 punkte ir 12 dalyje nustatyta tvarka.
+2) pagrindinės informacijos investuotojams dokumentas kartu su jo vertimu, pateiktu šio straipsnio 15 dalies 2 punkte ir 16 dalyje nustatyta tvarka.
 
 
 
@@ -5600,12 +5623,12 @@ LIETUVOS RESPUBLIKOJE LICENCIJUOTŲ VALDYMO ĮMONIŲ IR INVESTICINIŲ KINTAMOJO 
 
 
 
-5. Šio straipsnio 1 dalyje nurodytas pranešimas ir šio straipsnio 4 dalyje nurodytas patvirtinimo dokumentas turi būti pateikiami anglų kalba.
+5. Šio straipsnio 1 dalyje nurodytas pranešimas, šio straipsnio 24 dalyje nurodytas pranešimas ir šio straipsnio 4 dalyje nurodytas patvirtinimo dokumentas turi būti pateikiami anglų kalba.
 
 
 
 
-6. Priežiūros institucija užtikrina, kad Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto priimančiosios valstybės narės priežiūros institucija turėtų prieigą prie elektroninių šio straipsnio 2 dalyje nurodytų dokumentų ir jų vertimo versijų.
+6. Priežiūros institucija užtikrina, kad Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto priimančiosios valstybės narės priežiūros institucija turėtų prieigą prie elektroninių šio straipsnio 2 dalyje nurodytų dokumentų ir jų vertimų versijų.
 
 
 
@@ -5615,22 +5638,82 @@ LIETUVOS RESPUBLIKOJE LICENCIJUOTŲ VALDYMO ĮMONIŲ IR INVESTICINIŲ KINTAMOJO 
 
 
 
-8. Jeigu keičiasi kartu su šio straipsnio 1 dalyje nurodytu pranešimu pateikta informacija apie investicinių vienetų ar akcijų arba tam tikrų klasių ir (arba) serijų investicinių vienetų ar akcijų platinimo tvarką, valdymo įmonė prieš įgyvendindama tokį pakeitimą apie jį turi raštu pranešti kolektyvinio investavimo subjekto priimančiosios valstybės narės priežiūros institucijai.
+8. Jeigu keičiasi kartu su šio straipsnio 1 dalyje nurodytu pranešimu pateikta informacija apie investicinių vienetų ar akcijų arba tam tikrų klasių ir (arba) serijų investicinių vienetų ar akcijų platinimo tvarką, valdymo įmonė prieš įgyvendindama tokį pakeitimą apie jį ne vėliau kaip prieš vieną mėnesį iki to pakeitimo įgyvendinimo dienos turi raštu pranešti kolektyvinio investavimo subjekto priimančiosios valstybės narės priežiūros institucijai ir priežiūros institucijai.
 
 
 
 
-9. Kolektyvinio investavimo subjektas ar jo valdymo įmonė, vadovaudamiesi investicinių vienetų ar akcijų platinimo tvarką nustatančiais kolektyvinio investavimo subjekto priimančiosios valstybės narės teisės aktais, privalo imtis priemonių, užtikrinančių investicinių vienetų ar akcijų išpirkimą, teisingą lėšų už išperkamus investicinius vienetus ar akcijas išmokėjimą ir teisės aktų reikalaujamos informacijos investicinių vienetų ar akcijų savininkams pateikimą.
+9. Jeigu atlikus šio straipsnio 8 dalyje nurodytą pakeitimą valdymo įmonės vykdomas kolektyvinio investavimo subjekto valdymas nebeatitinka šio įstatymo reikalavimų, priežiūros institucija per 15 darbo dienų nuo visos informacijos gavimo dienos praneša valdymo įmonei, kad ji negali atlikti to pakeitimo, ir apie tai informuoja priimančiosios valstybės narės priežiūros instituciją. 
 
 
 
 
-10. Valdymo įmonė, kitoje valstybėje narėje platindama kolektyvinio investavimo subjekto investicinius vienetus ar akcijas, privalo kolektyvinio investavimo subjekto priimančiosios valstybės narės investuotojams pateikti visą informaciją ir dokumentus, kuriuos šis subjektas pagal šio įstatymo II skyriaus antrojo skirsnio reikalavimus privalo pateikti investuotojams Lietuvos Respublikoje.
+10. Jeigu valdymo įmonė įgyvendina pakeitimą pagal šio straipsnio 8 dalį ir dėl to nebeatitinka šio įstatymo reikalavimų, priežiūros institucija, vadovaudamasi šio įstatymo 164 straipsniu, imasi visų reikiamų priemonių, įskaitant, jeigu būtina, reikalavimą nutraukti bet kokią veiklą, kuri pažeidžia šio įstatymo nuostatas, ir nepagrįstai nedelsdama, ne vėliau kaip per 5 darbo dienas, informuoja priimančiosios valstybės narės priežiūros instituciją apie priemones, kurių imtasi.
 
 
 
 
-11. Šio straipsnio 10 dalyje nurodyta informacija ir dokumentai kolektyvinio investavimo subjekto priimančiosios valstybės narės investuotojams turi būti pateikiami laikantis šių reikalavimų:
+11. Kolektyvinio investavimo subjektas ar jo valdymo įmonė, vadovaudamiesi investicinių vienetų ar akcijų platinimo tvarką nustatančiais kolektyvinio investavimo subjekto priimančiosios valstybės narės teisės aktais, privalo užtikrinti, kad būtų sudarytos šios galimybės:
+
+
+1) paraiškas įsigyti arba išpirkti investicinius vienetus arba akcijas, mokėjimo ar išpirkimo pavedimus dėl kolektyvinio investavimo subjekto investicinių vienetų ar akcijų tvarkyti laikantis šio įstatymo II skyriaus antrajame skirsnyje nurodytuose dokumentuose nustatytų sąlygų; 
+
+
+
+
+2) investuotojams pateikti informaciją, kaip šios dalies 1 punkte nurodytos paraiškos gali būti tvarkomos ir kaip išmokamos lėšos už išperkamus investicinius vienetus ar akcijas; 
+
+
+
+
+3) taikyti procedūras ir priemones, palengvinančias su investuotojo teisėmis, atsirandančiomis dėl jo investicijų į kolektyvinio investavimo subjektą kitoje valstybėje narėje, kurioje platinami kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos, susijusios informacijos tvarkymą; 
+
+
+
+
+4) investuotojams šio straipsnio 14‒18 dalyse nustatytomis sąlygomis susipažinti su šio įstatymo II skyriaus antrajame skirsnyje nurodyta informacija ir dokumentais bei gauti jų kopijas;
+
+
+
+
+5) teikti investuotojams informaciją, susijusią su šioje dalyje nurodytomis galimybėmis, patvariojoje laikmenoje;
+
+
+
+
+6) veikti kaip kontaktiniam asmeniui bendraujant su priimančiosios valstybės narės priežiūros institucija. 
+
+
+
+
+
+
+12. Valdymo įmonė užtikrina, kad šio straipsnio 11 dalyje nurodytoms galimybėms sudaryti skirtos priemonės, įskaitant elektronines, būtų:
+
+
+1) prieinamos valstybės narės, kurioje platinami kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos, valstybine kalba ar viena iš valstybinių kalbų arba šios valstybės narės priežiūros institucijos nustatyta kalba; 
+
+
+
+
+2) taikomos paties kolektyvinio investavimo subjekto ar jo valdymo įmonės arba kitos trečiosios šalies, kuriai taikomos šio įstatymo ir jo įgyvendinamųjų teisės aktų, reglamentuojančių šiems subjektams pavestas atlikti funkcijas, nuostatos, arba taikomos tiek pačios valdymo įmonės, tiek trečiosios šalies.
+
+
+
+
+
+
+13. Jeigu funkcijos pagal šio straipsnio 12 dalies 2 punktą pavedamos atlikti kitai trečiajai šaliai, toks pavedimas patvirtinamas rašytine sutartimi, kurioje nurodoma, kurių iš šio straipsnio 11 dalyje nurodytų galimybių kolektyvinio investavimo subjektas ar jo valdymo įmonė neužtikrina, ir tai, kad kita trečioji šalis, kuriai pavestos tam tikros valdymo įmonės funkcijos, iš kolektyvinio investavimo subjekto ar jo valdymo įmonės gauna visą reikiamą informaciją ir dokumentus.
+
+
+
+
+14. Valdymo įmonė, kitoje valstybėje narėje platindama kolektyvinio investavimo subjekto investicinius vienetus ar akcijas, privalo kolektyvinio investavimo subjekto priimančiosios valstybės narės investuotojams pateikti visą informaciją ir dokumentus, kuriuos šis subjektas pagal šio įstatymo II skyriaus antrajame skirsnyje nustatytus reikalavimus privalo pateikti investuotojams Lietuvos Respublikoje.
+
+
+
+
+15. Šio straipsnio 14 dalyje nurodyta informacija ir dokumentai kolektyvinio investavimo subjekto priimančiosios valstybės narės investuotojams turi būti pateikiami laikantis šių reikalavimų:
 
 
 1) kolektyvinio investavimo subjekto priimančiosios valstybės narės teisės aktų nustatyta tvarka, nepažeidžiant tos valstybės narės teisės aktų reikalavimų dėl valdymo įmonės pareigos teikti informaciją investuotojams;
@@ -5638,47 +5721,99 @@ LIETUVOS RESPUBLIKOJE LICENCIJUOTŲ VALDYMO ĮMONIŲ IR INVESTICINIŲ KINTAMOJO 
 
 
 
-2) pagrindinės informacijos investuotojams dokumentas turi būti pateikiamas kolektyvinio investavimo subjekto priimančiosios valstybės narės valstybine ar viena iš valstybinių kalbų arba šios valstybės narės priežiūros institucijos nustatyta kalba;
+2) pagrindinės informacijos investuotojams dokumentas turi būti pateikiamas kolektyvinio investavimo subjekto priimančiosios valstybės narės valstybine kalba ar viena iš valstybinių kalbų arba šios valstybės narės priežiūros institucijos nustatyta kalba;
 
 
 
 
-3) kita informacija ir dokumentai valdymo įmonės pasirinkimu turi būti pateikiami kolektyvinio investavimo subjekto priimančiosios valstybės narės valstybine ar viena iš valstybinių kalbų, šios valstybės narės priežiūros institucijos nustatyta kalba arba anglų kalba.
+3) kita informacija ir dokumentai valdymo įmonės pasirinkimu turi būti pateikiami kolektyvinio investavimo subjekto priimančiosios valstybės narės valstybine kalba ar viena iš valstybinių kalbų, šios valstybės narės priežiūros institucijos nustatyta kalba arba anglų kalba.
 
 
 
 
 
 
-12. Už šio straipsnio 11 dalies 2 ir 3 punktuose nurodytos informacijos ir dokumentų vertimo parengimą atsakinga valdymo įmonė. Vertimas turi tiksliai atitikti lietuvių kalba parengtos informacijos turinį.
+16. Už šio straipsnio 15 dalies 2 ir 3 punktuose nurodytos informacijos ir dokumentų vertimo parengimą atsakinga valdymo įmonė. Vertimas turi tiksliai atitikti lietuvių kalba parengtos informacijos turinį.
 
 
 
 
-13. Šio straipsnio 10, 11 ir 12 dalyse nustatyti reikalavimai taikomi ir visiems nurodytos informacijos ir dokumentų pakeitimams.
+17. Šio straipsnio 14, 15 ir 16 dalyse nustatyti reikalavimai taikomi ir visiems nurodytos informacijos ir dokumentų pakeitimams.
 
 
 
 
-14. Kolektyvinio investavimo subjekto investicinių vienetų ar akcijų išleidimo, pardavimo ar išpirkimo kaina skelbiama šio įstatymo ir jo pagrindu priimtų teisės aktų nustatytu dažnumu (arba periodiškumu).
+18. Kolektyvinio investavimo subjekto investicinių vienetų ar akcijų išleidimo, pardavimo ar išpirkimo kaina skelbiama šio įstatymo ir jo pagrindu priimtų teisės aktų nustatytu dažnumu (arba periodiškumu).
 
 
 
 
-15. Priežiūros institucija nedelsdama praneša kitos valstybės narės, kurioje platinami investiciniai vienetai ar akcijos, priežiūros institucijai apie valdymo įmonės ar investicinės kintamojo kapitalo bendrovės-valdytojos licencijos galiojimo panaikinimą, investicinių vienetų ar akcijų išleidimo ar išpirkimo sustabdymą ar laikinojo priežiūros institucijos atstovo veiklai prižiūrėti paskyrimą. Jeigu kolektyvinio investavimo subjekto valdymo įmonė yra licencijuota kitoje valstybėje narėje, priežiūros institucija apie investicinių vienetų ar akcijų išleidimo ar išpirkimo sustabdymą turi pranešti ir valdymo įmonės buveinės valstybės narės priežiūros institucijai.
+19. Priežiūros institucija nedelsdama praneša kitos valstybės narės, kurioje platinami investiciniai vienetai ar akcijos, priežiūros institucijai apie valdymo įmonės ar investicinės kintamojo kapitalo bendrovės-valdytojos licencijos galiojimo panaikinimą, investicinių vienetų ar akcijų išleidimo ar išpirkimo sustabdymą ar laikinojo priežiūros institucijos atstovo veiklai prižiūrėti paskyrimą. Jeigu kolektyvinio investavimo subjekto valdymo įmonė yra licencijuota kitoje valstybėje narėje, priežiūros institucija apie investicinių vienetų ar akcijų išleidimo ar išpirkimo sustabdymą turi pranešti ir valdymo įmonės buveinės valstybės narės priežiūros institucijai.
 
 
 
 
-16. Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos trečiojoje valstybėje gali būti platinami šio straipsnio nustatyta tvarka, jeigu priežiūros institucijos susitarimai su trečiosios valstybės priežiūros institucija gali užtikrinti tinkamą veiklos priežiūrą ir informacijos teikimą.
+20. Valdymo įmonė gali nutraukti investicinių vienetų ar akcijų platinimą, įskaitant, jeigu taikoma, atskirų klasių ir (arba) serijų investicinių vienetų ar akcijų platinimą, valstybėje narėje, apie kurį ji pranešė pagal šio straipsnio 1 dalį, kai įvykdomos visos šios sąlygos:
+
+
+1) pateikiamas išsamus pasiūlymas, netaikant jokių mokesčių ar atskaitymų, išpirkti visus tokius investicinius vienetus ar akcijas, kuriuos turi investuotojai kitoje valstybėje narėje. Šis pasiūlymas turi būti viešai skelbiamas investuotojui pateiktuose kolektyvinio investavimo subjekto dokumentuose nurodytoje interneto svetainėje bent 30 darbo dienų iki tokių investicinių vienetų ar akcijų platinimo nutraukimo dienos ir pateikiamas tiesiogiai arba per finansinius tarpininkus individualiai kiekvienam investuotojui, kurio tapatybė yra žinoma, kitoje valstybėje narėje;
 
 
 
 
-17. Šiame straipsnyje vartojama kolektyvinio investavimo subjekto sąvoka apima ir jo subfondus.
+2) ketinimas nutraukti tokių investicinių vienetų ar akcijų platinimą kitoje valstybėje narėje paskelbiamas viešai investuotojui pateiktuose kolektyvinio investavimo subjekto dokumentuose nurodytoje interneto svetainėje arba raštu pranešama kiekvienam kolektyvinio investavimo subjekto investicinių vienetų ar akcijų turinčiam investuotojui;
+
+
+
+
+3) visi susitarimai su finansų tarpininkais ar įgaliotais asmenimis pakeičiami arba nutraukiami nuo tokių investicinių vienetų ar akcijų platinimo nutraukimo dienos, siekiant užtikrinti, kad nebūtų naujų ar tolesnių tiesioginių ar netiesioginių investicinių vienetų ar akcijų, nurodytų šio straipsnio 24 dalyje nurodytame pranešime, siūlymų.
+
+
+
+
+
+
+21. Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos trečiojoje valstybėje gali būti platinami šiame straipsnyje nustatyta tvarka, jeigu priežiūros institucijos susitarimai su trečiosios valstybės priežiūros institucija gali užtikrinti tinkamą veiklos priežiūrą ir informacijos teikimą.
+
+
+
+
+22. Pateikiant šio straipsnio 20 dalies 1 ir 2 punktuose nurodytą informaciją, aiškiai nurodomos pasekmės investuotojams, jeigu jie nepasinaudos galimybe pareikalauti išpirkti jų turimus investicinius vienetus ar akcijas. 
+
+
+
+
+23. Informacija, nurodyta šio straipsnio 20 dalies 1 ir 2 punktuose, pateikiama kitos valstybės narės, apie kurią valdymo įmonė yra pranešusi pagal šio straipsnio 1 dalį, valstybine kalba ar viena iš valstybinių kalbų arba šios valstybės narės priežiūros institucijos nustatyta kalba. Nuo tokių investicinių vienetų ar akcijų platinimo nutraukimo dienos valdymo įmonė neteikia jokių naujų ar tolesnių tiesioginių ar netiesioginių savo investicinių vienetų ar akcijų, kurių platinimas nutrauktas, siūlymų kitoje valstybėje narėje ir joje jų neplatina.
+
+
+
+
+24. Valdymo įmonė ne vėliau kaip prieš vieną mėnesį iki numatomo investicinių vienetų ar akcijų platinimo nutraukimo dienos priežiūros institucijai pateikia pranešimą, kuriame pateikiama šio straipsnio 20 dalyje nurodyta informacija.
+
+
+
+
+25. Priežiūros institucija patikrina, ar pagal šio straipsnio 24 dalį valdymo įmonės pateiktame pranešime yra pateikta šio straipsnio 20 dalyje nurodyta informacija, ir ne vėliau kaip per 15 darbo dienų nuo išsamaus pranešimo gavimo dienos perduoda tą pranešimą valstybės narės, nurodytos šio straipsnio 24 dalyje nurodytame pranešime, priežiūros institucijai ir Europos vertybinių popierių ir rinkų institucijai. Perdavusi pranešimą, priežiūros institucija apie tai nedelsdama, ne vėliau kaip per 5 darbo dienas, praneša valdymo įmonei.
+
+
+
+
+26. Valdymo įmonė privalo teikti ir skelbti investuotojams, kurie nepasinaudojo galimybe pareikalauti išpirkti jų turimus investicinius vienetus ar akcijas, ir teikti priežiūros institucijai informaciją pagal šio įstatymo 85 straipsnį ir II skyriaus antrąjį skirsnį. Valdymo įmonė šiai informacijai pateikti gali naudoti visas elektronines ar kitas nuotolinio ryšio priemones, jeigu informacija ir tos ryšio priemonės prieinamos kitos valstybės narės, kurioje yra investuotojai, valstybine kalba ar viena iš valstybinių kalbų arba kitos valstybės narės priežiūros institucijos nustatyta kalba.
+
+
+
+
+27. Priežiūros institucija kitos valstybės narės, nurodytos šio straipsnio 24 dalyje nurodytame pranešime, priežiūros institucijoms perduoda informaciją apie visus šio straipsnio 2 dalyje nurodytų dokumentų pakeitimus.
+
+
+
+
+28. Šiame straipsnyje vartojama kolektyvinio investavimo subjekto sąvoka apima ir jo subfondus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
  
-
-
 
 
 
@@ -5694,7 +5829,10 @@ LIETUVOS RESPUBLIKOJE LICENCIJUOTŲ VALDYMO ĮMONIŲ IR INVESTICINIŲ KINTAMOJO 
 2. Lietuvos Respublikoje licencijuota valdymo įmonė, valdanti kitoje valstybėje narėje įsteigtą suderintąjį kolektyvinio investavimo subjektą, privalo:
 
 
-1) vadovaudamasi investicinių vienetų ar akcijų platinimo tvarką nustatančiais kolektyvinio investavimo subjekto buveinės valstybės narės teisės aktais, imtis priemonių, užtikrinančių investicinių vienetų ar akcijų išpirkimą, teisingą lėšų už išperkamus investicinius vienetus ar akcijas išmokėjimą ir teisės aktų reikalaujamos informacijos investicinių vienetų ar akcijų savininkams pateikimą;
+1) imtis priemonių, užtikrinančių šio įstatymo 119 straipsnio 11 dalyje nurodytų galimybių sudarymą;
+Straipsnio punkto pakeitimai:
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
+ 
 
 
 
@@ -5947,35 +6085,87 @@ KITOJE VALSTYBĖJE NARĖJE AR TREČIOJOJE VALSTYBĖJE LICENCIJUOTŲ VALDYMO ĮMO
 
 
 
-4. Jeigu keičiasi kartu su kolektyvinio investavimo subjekto ar jo valdymo įmonės pranešimu dėl ketinimo Lietuvos Respublikoje platinti atitinkamo subjekto investicinius vienetus ar akcijas pateikta informacija, susijusi su investicinių vienetų ar akcijų arba tam tikrų klasių investicinių vienetų ar akcijų platinimo tvarka, kitoje valstybėje narėje ar trečiojoje valstybėje įsteigtas kolektyvinio investavimo subjektas ar jo valdymo įmonė apie tai turi pranešti priežiūros institucijai jos nustatyta tvarka prieš įgyvendindami tokį pakeitimą.
+4. Jeigu keičiasi kartu su kolektyvinio investavimo subjekto ar jo valdymo įmonės pranešimu dėl ketinimo Lietuvos Respublikoje platinti atitinkamo subjekto investicinius vienetus ar akcijas pateikta informacija, susijusi su investicinių vienetų ar akcijų arba tam tikrų klasių investicinių vienetų ar akcijų platinimo tvarka, kitoje valstybėje narėje ar trečiojoje valstybėje įsteigtas kolektyvinio investavimo subjektas ar jo valdymo įmonė apie tai turi pranešti priežiūros institucijai jos nustatyta tvarka ne vėliau kaip prieš vieną mėnesį iki to pakeitimo įgyvendinimo pradžios.
 
 
 
 
-5. Priežiūros institucija patvirtina, lietuvių ir anglų kalbomis savo interneto svetainėje skelbia ir nuolat atnaujina Lietuvos Respublikos įstatymų ir kitų teisės aktų, reglamentuojančių kitoje valstybėje narėje ar trečiojoje valstybėje įsteigtų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų platinimo Lietuvos Respublikoje tvarką, sąrašą.
+5. Kolektyvinio investavimo subjektas ar jo valdymo įmonė, vadovaudamiesi investicinių vienetų ar akcijų platinimo tvarką nustatančiais Lietuvos Respublikos teisės aktais, privalo užtikrinti, kad būtų sudarytos šios galimybės:
+
+
+1) paraiškas įsigyti arba išpirkti investicinius vienetus arba akcijas, mokėjimo ar išpirkimo pavedimus dėl kolektyvinio investavimo subjekto investicinių vienetų ar akcijų tvarkyti laikantis šio įstatymo II skyriaus antrajame skirsnyje nurodytuose dokumentuose nustatytų sąlygų; 
 
 
 
 
-6. Kolektyvinio investavimo subjektas ar jo valdymo įmonė, vadovaudamiesi investicinių vienetų ar akcijų platinimo tvarką nustatančiais Lietuvos Respublikos teisės aktais, privalo imtis priemonių, užtikrinančių investicinių vienetų ar akcijų išpirkimą, teisingą lėšų už išperkamus investicinius vienetus ar akcijas išmokėjimą ir teisės aktų reikalaujamos informacijos investicinių vienetų ar akcijų savininkams pateikimą.
+2) investuotojams pateikti informaciją, kaip šios dalies 1 punkte nurodytos paraiškos gali būti tvarkomos ir kaip išmokamos lėšos už išperkamus investicinius vienetus ar akcijas; 
 
 
 
 
-7. Kitoje valstybėje narėje ar trečiojoje valstybėje licencijuotai valdymo įmonei, ketinančiai Lietuvos Respublikoje platinti savo valdomo ne Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto investicinius vienetus ar akcijas neįsteigus filialo ir neketinančiai teikti kitų paslaugų, taikomi tik kolektyvinio investavimo subjektams, savo investicinius vienetus ar akcijas platinantiems kitoje valstybėje narėje ar trečiojoje valstybėje, negu jie yra įsteigti, nustatyti reikalavimai, nurodyti šiame įstatyme.
+3) taikyti procedūras ir priemones, palengvinančias su investuotojo naudojimusi savo teisėmis, atsirandančiomis dėl jo investicijų į kolektyvinio investavimo subjektą Lietuvos Respublikoje, kurioje platinami kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos, susijusios informacijos tvarkymą;
 
 
 
 
-8. Jeigu pažeidžiami Lietuvos Respublikos teisės aktų reikalavimai, priežiūros institucija turi teisę uždrausti platinti investicinius vienetus arba akcijas.
+4) investuotojams šio įstatymo 126 straipsnio 1‒5 dalyse nustatytomis sąlygomis susipažinti su šio įstatymo II skyriaus antrajame skirsnyje nurodyta informacija ir dokumentais bei gauti jų kopijas;
 
 
 
 
-9. Šiame straipsnyje vartojama kolektyvinio investavimo subjekto sąvoka apima ir jo subfondus.
+5) teikti investuotojams svarbią informaciją, susijusią su šioje dalyje nurodytomis galimybėmis, patvariojoje laikmenoje;
+
+
+
+
+6) veikti kaip kontaktiniam asmeniui bendraujant su priežiūros institucija.
+
+
+
+
+
+
+6. Kolektyvinio investavimo subjektas ar jo valdymo įmonė užtikrina, kad šio straipsnio 5 dalyje nurodytoms galimybėms sudaryti skirtos priemonės, įskaitant elektronines, būtų:
+
+
+1) prieinamos šio įstatymo 126 straipsnio 2 dalyje nustatyta kalba; 
+
+
+
+
+2) taikomos paties kolektyvinio investavimo subjekto ar jo valdymo įmonės arba kitos trečiosios šalies, kuriai taikomos šio įstatymo ir jo įgyvendinamųjų teisės aktų, reglamentuojančių šio straipsnio 5 dalyje nurodytų funkcijų atlikimą, nuostatos, arba taikomos tiek pačios valdymo įmonės, tiek trečiosios šalies.
+
+
+
+
+
+
+7. Pagal šio straipsnio 6 dalies 2 punktą kolektyvinio investavimo subjektas ar jo valdymo įmonė gali pavesti funkcijas atlikti kitai trečiajai šaliai. Toks pavedimas patvirtinamas rašytine sutartimi, kurioje nurodoma, kurių iš šio straipsnio 5 dalyje nurodytų galimybių kolektyvinio investavimo subjektas ar jo valdymo įmonė neužtikrina, ir tai, kad kita trečioji šalis, kuriai pavestos tam tikros valdymo įmonės funkcijos, iš kolektyvinio investavimo subjekto ar jo valdymo įmonės gauna visą reikiamą informaciją ir dokumentus.
+
+
+
+
+8. Kitoje valstybėje narėje įsteigtas kolektyvinio investavimo subjektas ar jo valdymo įmonė, kurie investicinius vienetus ar akcijas platina Lietuvos Respublikoje, gali neturėti fizinio atstovo Lietuvos Respublikos teritorijoje ir neprivalo paskirti kitos trečiosios šalies šio straipsnio 5 dalyje nurodytoms galimybėms užtikrinti.
+
+
+
+
+9. Kitoje valstybėje narėje ar trečiojoje valstybėje licencijuotai valdymo įmonei, ketinančiai Lietuvos Respublikoje platinti savo valdomo ne Lietuvos Respublikoje įsteigto kolektyvinio investavimo subjekto investicinius vienetus ar akcijas neįsteigus filialo ir neketinančiai teikti kitų paslaugų, taikomi tik kolektyvinio investavimo subjektams, savo investicinius vienetus ar akcijas platinantiems kitoje valstybėje narėje ar trečiojoje valstybėje, negu jie yra įsteigti, nustatyti reikalavimai, nurodyti šiame įstatyme.
+
+
+
+
+10. Jeigu pažeidžiami Lietuvos Respublikos teisės aktų reikalavimai, priežiūros institucija turi teisę uždrausti platinti investicinius vienetus arba akcijas.
+
+
+
+
+11. Šiame straipsnyje vartojama kolektyvinio investavimo subjekto sąvoka apima ir jo subfondus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
  
-
-
 
 
 
@@ -5983,50 +6173,52 @@ KITOJE VALSTYBĖJE NARĖJE AR TREČIOJOJE VALSTYBĖJE LICENCIJUOTŲ VALDYMO ĮMO
 125 straipsnis. Kitoje valstybėje narėje ar trečiojoje valstybėje įsteigtų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų platinimo nutraukimo tvarka
 
 
-1. Šio įstatymo priedo 3 punkte nurodytos Europos Sąjungos direktyvos reikalavimus atitinkančio kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimą Lietuvos Respublikoje norinti nutraukti kitoje valstybėje narėje ar trečiojoje valstybėje licencijuota valdymo įmonė ne vėliau kaip prieš 2 mėnesius iki numatomo platinimo nutraukimo privalo apie tai raštu pranešti priežiūros institucijai ir paskelbti kolektyvinio investavimo subjekto steigimo dokumentuose nurodytoje (nurodytose) interneto svetainėje (svetainėse) arba raštu pranešti kiekvienam kolektyvinio investavimo subjekto investicinių vienetų ar akcijų turinčiam Lietuvos Respublikos investuotojui.
+1. Kitoje valstybėje narėje ar trečiojoje valstybėje įsteigto šio įstatymo priedo 3 punkte nurodytos Europos Sąjungos direktyvos reikalavimus atitinkančio kolektyvinio investavimo subjekto investicinių vienetų ar akcijų platinimas Lietuvos Respublikoje gali būti nutrauktas tik šio subjekto buveinės valstybės narės ar trečiosios valstybės priežiūros institucijai pranešus jam apie šio kolektyvinio investavimo subjekto ar jo valdymo įmonės pranešimo dėl atitinkamo subjekto investicinių vienetų ar akcijų, įskaitant, jeigu taikoma, atskirų klasių ir (arba) serijų investicinius vienetus ar akcijas, platinimo nutraukimo Lietuvos Respublikoje bei kitų būtinų pateikti dokumentų perdavimą priežiūros institucijai ir kai įvykdomos visos šios sąlygos: 
+
+
+1) pateikiamas išsamus pasiūlymas, netaikant jokių mokesčių ar atskaitymų, išpirkti visus tokius investicinius vienetus ar akcijas, kuriuos turi investuotojai Lietuvos Respublikoje. Šis pasiūlymas turi būti viešai skelbiamas investuotojui pateiktuose kolektyvinio investavimo subjekto dokumentuose nurodytoje interneto svetainėje bent 30 darbo dienų iki platinimo nutraukimo dienos ir pateikiamas tiesiogiai arba per finansinius tarpininkus individualiai kiekvienam investuotojui, kurio tapatybė yra žinoma, Lietuvos Respublikoje;
 
 
 
 
-2. Šio straipsnio 1 dalyje nurodytuose pranešimuose investuotojams ir priežiūros institucijai turi būti nurodoma:
-
-
-1) numatoma investicinių vienetų ar akcijų platinimo Lietuvos Respublikoje nutraukimo data;
+2) ketinimas nutraukti tokių investicinių vienetų ar akcijų platinimą Lietuvos Respublikoje paskelbiamas investuotojui pateiktuose kolektyvinio investavimo subjekto dokumentuose nurodytoje interneto svetainėje arba raštu pranešama kiekvienam kolektyvinio investavimo subjekto investicinių vienetų ar akcijų turinčiam Lietuvos Respublikos investuotojui;
 
 
 
 
-2) investicinių vienetų ar akcijų platinimo nutraukimo padariniai esamiems kolektyvinio investavimo subjekto investuotojams;
-
-
-
-
-3) subjekto, į kurį galės kreiptis esami investuotojai dėl savo turimų investicinių vienetų ar akcijų išpirkimo prieš platinimo nutraukimą, kontaktiniai duomenys;
-
-
-
-
-4) subjekto, į kurį galės kreiptis esami investuotojai dėl savo turimų investicinių vienetų ar akcijų išpirkimo po platinimo nutraukimo, kontaktiniai duomenys;
-
-
-
-
-5) vieta, kurioje galimybe pareikalauti išpirkti turimus investicinius vienetus ar akcijas iki platinimo nutraukimo nepasinaudoję investuotojai galės susipažinti su kitoje valstybėje narėje ar trečiojoje valstybėje licencijuotos valdymo įmonės ar investicinės bendrovės skelbiama informacija apie kolektyvinio investavimo subjektą.
+3) visi susitarimai su finansų tarpininkais ar įgaliotais asmenimis pakeičiami arba nutraukiami nuo investicinių vienetų ar akcijų platinimo nutraukimo dienos, siekiant užtikrinti, kad nebūtų naujų ar tolesnių tiesioginių ar netiesioginių investicinių vienetų ar akcijų, nurodytų šioje dalyje nurodytame pranešime, siūlymų.
 
 
 
 
 
 
-3. Kitoje valstybėje narėje ar trečiojoje valstybėje licencijuota valdymo įmonė privalo vykdyti šio įstatymo 126 straipsnyje nustatytą pareigą skelbti ir investuotojams teikti informaciją apie kolektyvinio investavimo subjekto veiklą ne trumpiau kaip 2 mėnesius nuo šio straipsnio 1 dalyje nustatytos pareigos tinkamo įvykdymo.
+2. Šio straipsnio 1 dalies 1 ir 2 punktuose nurodytuose pranešimuose investuotojams nurodomi investicinių vienetų ar akcijų platinimo nutraukimo padariniai esamiems kolektyvinio investavimo subjekto investuotojams, jeigu jie nepasinaudos galimybe pareikalauti išpirkti jų turimus investicinius vienetus ar akcijas. 
 
 
 
 
-4. Šiame straipsnyje vartojama kolektyvinio investavimo subjekto sąvoka apima ir jo subfondus.
+3. Informacija, nurodyta šio straipsnio 1 dalies 1 ir 2 punktuose, pateikiama lietuvių kalba. Nuo investicinių vienetų ar akcijų platinimo nutraukimo dienos kolektyvinio investavimo subjektas ar jo valdymo įmonė neteikia jokių naujų ar tolesnių tiesioginių ar netiesioginių savo investicinių vienetų ar akcijų, kurių platinimas nutrauktas, siūlymų Lietuvos Respublikoje ir joje jų neplatina.
+
+
+
+
+4. Kitoje valstybėje narėje ar trečiojoje valstybėje licencijuota valdymo įmonė privalo vykdyti šio įstatymo 85 straipsnyje ir II skyriaus antrajame skirsnyje nustatytą pareigą skelbti ir teikti informaciją apie kolektyvinio investavimo subjekto veiklą investuotojams Lietuvos Respublikoje, kurie nepasinaudojo galimybe pareikalauti išpirkti jų turimus investicinius vienetus ar akcijas. Šiai informacijai teikti valdymo įmonė gali naudoti visas elektronines ar kitas nuotolinio ryšio priemones, jeigu informacija ir tos ryšio priemonės prieinamos investuotojams šio įstatymo 126 straipsnio 2 dalyje nustatyta kalba.
+
+
+
+
+5. Nuo informacijos, nurodytos šio straipsnio 1 dalyje, gavimo iš kolektyvinio investavimo subjekto buveinės valstybės narės ar trečiosios valstybės priežiūros institucijos dienos priežiūros institucija nereikalauja, kad atitinkama valdymo įmonė įrodytų, kad laikosi Lietuvos Respublikos teisės aktų, reglamentuojančių investicinių vienetų ar akcijų platinimą, nuostatų, kaip nurodyta Reglamento (ES) 2019/1156 5 straipsnyje.
+
+
+
+
+6. Šiame straipsnyje vartojama kolektyvinio investavimo subjekto sąvoka apima ir jo subfondus.
+
+
+Straipsnio pakeitimai:
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
  
-
-
 
 
 
@@ -6098,7 +6290,10 @@ KITOJE VALSTYBĖJE NARĖJE AR TREČIOJOJE VALSTYBĖJE LICENCIJUOTŲ VALDYMO ĮMO
 2. Kitoje valstybėje narėje licencijuota valdymo įmonė, valdanti Lietuvos Respublikoje įsteigtą suderintąjį kolektyvinio investavimo subjektą, privalo:
 
 
-1) imtis šio įstatymo 124 straipsnio 6 dalyje nurodytų priemonių ir turėti tinkamas procedūras bei priemones, užtikrinančias tinkamą investuotojų skundų nagrinėjimą ir investuotojų galimybę be apribojimų naudotis savo teisėmis. Investuotojams turi būti sudaryta galimybė teikti skundus lietuvių kalba;
+1) imtis šio įstatymo 124 straipsnio 5 dalyje nurodytų priemonių ir turėti tinkamas procedūras bei priemones, užtikrinančias tinkamą investuotojų skundų nagrinėjimą ir investuotojų galimybę be apribojimų naudotis savo teisėmis. Investuotojams turi būti sudaryta galimybė teikti skundus lietuvių kalba;
+Straipsnio punkto pakeitimai:
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
+ 
 
 
 
@@ -7096,6 +7291,14 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTAI, INVESTUOJANTYS Į KITUS KOLEKTYVINIO INVESTA
 
 
 
+31) Lietuvos Respublikoje įsteigtų suderintųjų kolektyvinio investavimo subjektų, specialiųjų kolektyvinio investavimo subjektų ar informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų investiciniai vienetai ar akcijos;
+Papildyta straipsnio punktu:
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
+ 
+
+
+
+
 4) kitos finansinės priemonės, kurios įtrauktos į prekybą daugiašalėje prekybos sistemoje, tačiau nėra įtrauktos į prekybą šio įstatymo 79 straipsnio 1 dalies 1, 2 ir 3 punktuose nustatytus reikalavimus atitinkančiose rinkose.
 
 
@@ -7582,7 +7785,10 @@ PRIEŽIŪROS INSTITUCIJA, JOS FUNKCIJOS IR TEISĖS
 
 
 
-5) atlieka kitas šiame ir kituose įstatymuose, taip pat Reglamente (ES) 2017/1131 ir Reglamente (ES) 2019/1156 nustatytas funkcijas. 
+5) atlieka kitas šiame ir kituose įstatymuose, taip pat Reglamente (ES) 2017/1131, Reglamente (ES) 2019/1156 ir Reglamente (ES) 2019/2088 nustatytas funkcijas. 
+Straipsnio punkto pakeitimai:
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
+ 
 
 
 Straipsnio punkto pakeitimai:
@@ -8008,6 +8214,14 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 TAR pastaba. 171 straipsnio 1 dalies 8 punktas įsigalioja 2022 m. sausio 1 d.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2655, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20827
+ 
+
+
+
+
+81) valdymo įmonė ar investicinė bendrovė pažeidžia Reglamente (ES) 2019/2088 nustatytus reikalavimus; 
+Papildyta straipsnio punktu:
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
  
 
 
@@ -8448,3 +8662,8 @@ Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 pa
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2966, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11346
 Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 6 straipsnio pakeitimo įstatymas
+ 
+14.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-801, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27379
+Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymo Nr. IX-1709 4, 21, 34, 117, 119, 120, 124, 125, 127, 150, 162, 171 straipsnių ir priedo pakeitimo įstatymas
