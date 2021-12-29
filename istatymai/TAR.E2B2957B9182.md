@@ -20,7 +20,7 @@ Redagavo: Ramun? L??ait? (1997
 
 
 
-Suvestinė redakcija nuo 2021-10-01 iki 2021-12-28
+Suvestinė redakcija nuo 2021-12-29 iki 2022-05-01
  
 Įstatymas paskelbtas: Žin. 1994, Nr. 63-1231, i. k. 0941010ISTA000I-552
  
@@ -1878,7 +1878,7 @@ YPATYBĖS
 381 straipsnis. Valstybinis visuomenės sveikatos stiprinimo fondas
 
 
-1. Valstybinis visuomenės sveikatos stiprinimo fondas sudaromas siekiant kaupti lėšas ir naudoti jas visuomenės sveikatos išsaugojimo ir stiprinimo veikloms, įskaitant prevencinius projektus, socialinę reklamą, mokslinius tyrimus, remti. Valstybinis visuomenės sveikatos stiprinimo fondas administruojamas pagal šį ir kitus įstatymus, Vyriausybės nutarimus, kitus teisės aktus ir  Valstybinio visuomenės sveikatos stiprinimo fondo nuostatus, kuriuos tvirtina Vyriausybė.
+1. Valstybinis visuomenės sveikatos stiprinimo fondas sudaromas siekiant naudoti lėšas visuomenės sveikatos išsaugojimo ir stiprinimo veikloms, įskaitant prevencinius projektus, socialinę reklamą, mokslinius tyrimus, remti. Valstybinis visuomenės sveikatos stiprinimo fondas administruojamas pagal šį ir kitus įstatymus, Vyriausybės nutarimus, kitus teisės aktus ir Valstybinio visuomenės sveikatos stiprinimo fondo nuostatus, kuriuos tvirtina Vyriausybė.
 
 
 
@@ -1889,9 +1889,6 @@ YPATYBĖS
 
 
 3. Valstybinį visuomenės sveikatos stiprinimo fondą administruoja Sveikatos apsaugos ministerija, vadovaudamasi Valstybinio visuomenės sveikatos stiprinimo fondo nuostatais. Valstybinio visuomenės sveikatos stiprinimo fondo lėšos laikomos atskiroje Sveikatos apsaugos ministerijos sąskaitoje ir įtraukiamos į apskaitą pagal atskirą programą. Valstybinio visuomenės sveikatos stiprinimo fondo administravimo išlaidos negali viršyti 2 procentų metinio Valstybinio visuomenės sveikatos stiprinimo fondo biudžeto.
-Straipsnio dalies pakeitimai:
-Nr. XIII-3148, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15131
- 
 
 
 
@@ -1899,17 +1896,17 @@ Nr. XIII-3148, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15131
 4. Valstybinio visuomenės sveikatos stiprinimo fondo lėšas sudaro:
 
 
-1) Vyriausybės nustatytas procentas akcizo pajamų, gautų už parduotus alkoholinius gėrimus;
+1) dalis akcizo pajamų, gautų už parduotus alkoholinius gėrimus;
 
 
 
 
-2) Vyriausybės nustatytas procentas akcizo pajamų, gautų už parduotą apdorotą tabaką;
+2) dalis akcizo pajamų, gautų už parduotą apdorotą tabaką;
 
 
 
 
-3) Vyriausybės nustatytas procentas įplaukų nuo lėšų, gautų iš loterijų ir azartinių lošimų mokesčio;
+3) dalis įplaukų nuo lėšų, gautų iš loterijų ir azartinių lošimų mokesčio;
 
 
 
@@ -1917,36 +1914,25 @@ Nr. XIII-3148, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15131
 4) kitos teisėtai įgytos lėšos. 
 
 
-Straipsnio dalies pakeitimai:
-Nr. XIII-395, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09775
- 
 
 
 
 
-5. Planuojant kiekvienų metų valstybės biudžeto asignavimus, Valstybiniam visuomenės sveikatos stiprinimo fondui numatomas Vyriausybės nustatytas procentas praėjusių metų faktinių įplaukų iš akcizo pajamų, gautų už parduotus alkoholinius gėrimus ir apdorotą tabaką, taip pat įplaukų nuo lėšų, gautų iš loterijų ir azartinių lošimų mokesčio. 
-Straipsnio dalies pakeitimai:
-Nr. XIII-395, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09775
- 
+5. Planuojant kiekvienų metų valstybės biudžeto asignavimus, Valstybiniam visuomenės sveikatos stiprinimo fondui numatoma dalis praėjusių metų faktinių įplaukų iš akcizo pajamų, gautų už parduotus alkoholinius gėrimus ir apdorotą tabaką, taip pat dalis įplaukų nuo lėšų, gautų iš loterijų ir azartinių lošimų mokesčio.
 
 
 
 
-6. Sprendimus dėl Valstybinio visuomenės sveikatos stiprinimo fondo lėšų skyrimo Valstybinio visuomenės sveikatos stiprinimo fondo nuostatuose nustatyta tvarka priima Valstybinio visuomenės sveikatos stiprinimo fondo taryba (toliau – Taryba), kurios sudėtį sveikatos apsaugos ministro teikimu 5 metams tvirtina Vyriausybė. Tarybos sudėties reikalavimai ir Tarybos kompetencija nustatomi Valstybinio visuomenės sveikatos stiprinimo fondo nuostatuose.
+6. Valstybinis visuomenės sveikatos stiprinimo fondas likviduojamas įstatymų nustatyta tvarka. Valstybinį visuomenės sveikatos stiprinimo fondą likvidavus, jo lėšos pervedamos į valstybės biudžetą.
 
 
 
 
-7. Valstybinio visuomenės sveikatos stiprinimo fondo lėšos negali būti perduodamos į valstybės biudžetą arba naudojamos kitoms valstybės reikmėms finansuoti. Per metus nepanaudotos Valstybinio visuomenės sveikatos stiprinimo fondo lėšos lieka fondo sąskaitoje ir naudojamos kitais metais numatytoms visuomenės sveikatos išsaugojimo ir stiprinimo veikloms finansuoti.
+7. Valstybinio visuomenės sveikatos stiprinimo fondo lėšos negali būti naudojamos kitoms valstybės reikmėms finansuoti. 
 
 
-
-
-8. Valstybinis visuomenės sveikatos stiprinimo fondas likviduojamas įstatymų nustatyta tvarka. Valstybinį visuomenės sveikatos stiprinimo fondą likvidavus, jo lėšos pervedamos į valstybės biudžetą.
-
-
-Papildyta straipsniu:
-Nr. XII-1629, 2015-04-21, paskelbta TAR 2015-04-30, i. k. 2015-06582
+Straipsnio pakeitimai:
+Nr. XIV-792, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27368
  
 
 
@@ -5410,3 +5396,8 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 67 straipsnio pakeit
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-456, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15474
 Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 12, 61 ir 63 straipsnių pakeitimo įstatymas
+ 
+28.
+Lietuvos Respublikos Seimas, Įstatymas
+Nr. XIV-792, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27368
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 38-1 straipsnio pakeitimo įstatymas
